@@ -30,6 +30,10 @@ The Congress finds that—
 
 The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90–259, title II, §§201–207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under section 278f of this title. The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90–259.
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–375, div. C, title XXXVI, §3601, Oct. 28, 2004, 118 Stat. 2195, provided that: “This title \[amending section 2229 of this title\] may be cited as the ‘Assistance to Firefighters Grant Program Reauthorization Act of 2004’.”
+
 #### Short Title of 2003 Amendment
 
 Pub. L. 108–169, title I, §101, Dec. 6, 2003, 117 Stat. 2036, provided that: “This title \[amending section 2216 of this title and enacting provisions set out as a note under section 2204 of this title\] may be cited as the ‘United States Fire Administration Reauthorization Act of 2003’.”
@@ -156,7 +160,7 @@ There is hereby established as an independent establishment in the Executive Bra
 
 #### Sec. 102. The Director
 
-The Agency shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter prescribed by law for level II of the Executive Schedule \[5 U.S.C. 5313\].
+The Agency shall be headed by a Director, who shall be appointed by the President, by and with the adviceand consent of the Senate, and shall be compensated at the rate now or hereafter prescribed by law for level II of the Executive Schedule \[5 U.S.C. 5313\].
 
 #### Sec. 103. The Deputy Director
 
@@ -256,7 +260,7 @@ While serving an important “all hazards” readiness and response role, civil 
 
 <i>Fourth, Federal hazard mitigation activities should be closely linked with emergency preparedness and response functions</i>. This reorganization would permit more rational decisions on the relative costs and benefits of alternative approaches to disasters by making the Federal Emergency Management Agency the focal point of all Federal hazard mitigation activities and by combining these with the key Federal preparedness and response functions.
 
-The affected hazard mitigation activities include the Federal Insurance Administration which seeks to reduce flood losses by assisting states and local governments in developing appropriate land uses and building standards and several agencies that presently seek toreduce fire and earthquake losses through research and education.
+The affected hazard mitigation activities include the Federal Insurance Administration which seeks to reduce flood losses by assisting states and local governments in developing appropriate land uses and building standards and several agencies that presently seek to reduce fire and earthquake losses through research and education.
 
 Most State and local governments have consolidated emergency planning, preparedness and response functions on an “all hazard” basis to take advantage of the similarities in preparing for and responding to the full range of potential emergencies. The Federal Government can and should follow this lead.
 
@@ -274,7 +278,7 @@ The White House, June 19, 1978
 
 Ex. Ord. No. 12127, Mar. 31, 1979, 44 F.R. 19367, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 304 of Reorganization Plan No. 3 of 1978 \[set out as a note under this section\], and in order to provide for the orderly activation of the Federal Emergency Management Agency, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America,including Section 304 of Reorganization Plan No. 3 of 1978 \[set out as a note under this section\], and in order to provide for the orderly activation of the Federal Emergency Management Agency, it is hereby ordered as follows:
 
 1–101. Reorganization Plan No. 3 of 1978 (43 FR 41943), which establishes the Federal Emergency Management Agency, provides for the transfer of functions, and the transfer and abolition of agencies and offices, is hereby effective.
 

@@ -28,7 +28,7 @@ Designation of Metropolitan Planning Organizations.—
 
 In general.—To carry out the transportation planning process required by this section, a metropolitan planning organization shall be designated for each urbanized area with a population of more than 50,000 individuals—
 
-&emsp;&emsp;(A) by agreement between the Governor and units of general purpose local government that together represent at least 75 percent of the affected population (includingthe central city or cities as defined by the Bureau of the Census); or
+&emsp;&emsp;(A) by agreement between the Governor and units of general purpose local government that together represent at least 75 percent of the affected population (including the central city or cities as defined by the Bureau of the Census); or
 
 &emsp;&emsp;(B) in accordance with procedures established by applicable State or local law.
 
@@ -164,7 +164,7 @@ Activities.—Highway projects included in transportation plans developed under 
 
 &emsp;(4)
 
-Recipients of other assistance.—The Secretary shall encourage each metropolitan planning organization to coordinate, to the maximum extent practicable, the design and delivery of transportation services within the metropolitan planning area that are provided—
+Recipients of other assistance.—The Secretary shall encourage each metropolitanplanning organization to coordinate, to the maximum extent practicable, the design and delivery of transportation services within the metropolitan planning area that are provided—
 
 &emsp;&emsp;(A) by recipients of assistance under chapter 53 of title 49; and
 
@@ -238,7 +238,7 @@ Coordination with clean air act agencies.—In metropolitan areas which are in n
 
 &emsp;(4)
 
-Participation by interested parties.—Before approving a long-range transportation plan, each metropolitan planning organization shall provide citizens, affected public agencies, representatives of transportation agency employees, freight shippers, providers of freight transportation services, private providers of transportation, representatives of users of public transit, and other interested parties with a reasonable opportunity to comment on the long-range transportation plan, in a manner that the Secretary deems appropriate.
+Participation by interested parties.—Before approving a long-range transportation plan, each metropolitan planning organization shall provide citizens, affected public agencies,representatives of transportation agency employees, freight shippers, providers of freight transportation services, private providers of transportation, representatives of users of public transit, and other interested parties with a reasonable opportunity to comment on the long-range transportation plan, in a manner that the Secretary deems appropriate.
 
 &emsp;(5)
 
@@ -398,7 +398,7 @@ Selection of projects.—
 
 &emsp;&emsp;(A)
 
-In general.—All federally funded projects carried out within the boundaries of a transportation management area under this title (excluding projects carried out on the National Highway System and projectscarried out under the bridge program or the Interstate maintenance program) or under chapter 53 of title 49 shall be selected for implementation from the approved transportation improvement program by the metropolitan planning organization designated for the area in consultation with the State and any affected public transit operator.
+In general.—All federally funded projects carried out within the boundaries of a transportation management area under this title (excluding projects carried out on the National Highway System and projects carried out under the bridge program or the Interstate maintenance program) or under chapter 53 of title 49 shall be selected for implementation from the approved transportation improvement program by the metropolitan planning organization designated for the area in consultation with the State and any affected public transit operator.
 
 &emsp;&emsp;(B)
 
@@ -438,7 +438,7 @@ Restoration of withheld funds.—The withheld apportionments shall be restored t
 
 &emsp;&emsp;&emsp;(iii)
 
-Feasibility of private enterprise participation.—The Secretary shall not withhold certification under this paragraph based on the policies and criteria established by a metropolitan planning organization or transit grant recipient for determining the feasibility of private enterprise participation in accordance with section 5306(a) of title 49.
+Feasibility of private enterprise participation.—The Secretary shall notwithhold certification under this paragraph based on the policies and criteria established by a metropolitan planning organization or transit grant recipient for determining the feasibility of private enterprise participation in accordance with section 5306(a) of title 49.
 
 &emsp;&emsp;(D)
 
@@ -490,7 +490,7 @@ Unused funds.—Any funds that are not used to carry out this section may be mad
 
 (<i>o</i>)
 
-Continuation of Current Review Practice.—Since plans and programs described in this section are subject to a reasonable opportunity for public comment, since individual projects included in the plans and programs aresubject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning plans and programs described in this section have not been reviewed under such Act as of January 1, 1997, any decision by the Secretary concerning a plan or program described in this section shall not be considered to be a Federal action subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+Continuation of Current Review Practice.—Since plans and programs described in this section are subject to a reasonable opportunity for public comment, since individual projects included in the plans and programs are subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning plans and programs described in this section have not been reviewed under such Act as of January 1, 1997, any decision by the Secretary concerning a plan or program described in this section shall not be considered to be a Federal action subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 (Added Pub. L. 87–866, §9(a), Oct. 23, 1962, 76 Stat. 1148; amended Pub. L. 91–605, title I, §143, Dec. 31, 1970, 84 Stat. 1737; Pub. L. 95–599, title I, §169, Nov. 6, 1978, 92 Stat. 2723; Pub. L. 102–240, title I, §1024(a), Dec. 18, 1991, 105 Stat. 1955; Pub. L. 102–388, title V, §502(b), Oct. 6, 1992, 106 Stat. 1566; Pub. L. 103–429, §3(5), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §317, Nov. 28, 1995, 109 Stat. 588; Pub. L. 105–178, title I, §1203(a)–(m), (<i>o</i>), June 9, 1998, 112 Stat. 170–179; Pub. L. 105–206, title IX, §9003(c), July 22, 1998, 112 Stat. 839.)
 
@@ -602,7 +602,7 @@ Subsecs. (b), (c). Pub. L. 95–599, §169(b), added subsec. (b) and redesignate
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 ofPub. L. 105–206, set out as a note under section 101 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -623,8 +623,4 @@ Pub. L. 94–280, title I, §149, May 5, 1976, 90 Stat. 447, directed Secretary 
 #### Fringe Parking Demonstration Projects
 
 Pub. L. 90–495, §11, Aug. 23, 1968, 82 Stat. 820, authorized Secretary to approve construction of publicly owned parking facilities under this title until June 30, 1971, as a demonstration project, authorized the Federal share of any project under this section to be 50%, prevented approval of projects by the Secretary unless the State or political subdivision thereof where the project is located can construct, maintain, and operate the facility, unless the Secretary has entered into an agreement with the State or political subdivision governing the financing, maintenance, and operation of the facility, and unless the Secretary has approved design standards for construction of the facility, defined “parking facilities”, permitted a State or political subdivision to contract for the operation of such facility, prohibited approval of the project by the Secretary unless it is carried on in accordance with section 134 of this title (this section), and required annual reports to Congress on the demonstration projects approved under this section, prior to repeal by Pub. L. 91–605, title I, §134(c), Dec. 31, 1970, 84 Stat. 1734. See section 137 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 103, 104, 115, 133, 135, 137, 142, 149, 182, 204, 217, 505 of this title; title 42 sections 7504, 7506; title 49 sections 5303, 5305.
 

@@ -1,6 +1,6 @@
 ### §411. Issuance to reserve banks; nature of obligation; redemption
 
-Federal reserve notes, to be issued at the discretion of the Board of Governors of the FederalReserve System for the purpose of making advances to Federal reserve banks through the Federal reserve agents as hereinafter set forth and for no other purpose, are authorized. The said notes shall be obligations of the United States and shall be receivable by all national and member banks and Federal reserve banks and for all taxes, customs, and other public dues. They shall be redeemed in lawful money on demand at the Treasury Department of the United States, in the city of Washington, District of Columbia, or at any Federal Reserve bank.
+Federal reserve notes, to be issued at the discretion of the Board of Governors of the Federal Reserve System for the purpose of making advances to Federal reserve banks through the Federal reserve agents as hereinafter set forth and for no other purpose, are authorized. The said notes shall be obligations of the United States and shall be receivable by all national and member banks and Federal reserve banks and for all taxes, customs, and other public dues. They shall be redeemed in lawful money on demand at the Treasury Department of the United States, in the city of Washington, District of Columbia, or at any Federal Reserve bank.
 
 (Dec. 23, 1913, ch. 6, §16 (par.), 38 Stat. 265; Jan. 30, 1934, ch. 6, §2(b)(1), 48 Stat. 337; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704.)
 
@@ -21,8 +21,4 @@ Par. 12 of section 16, formerly classified to section 422 of this title, was rep
 #### Change of Name
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 348, 420, 421, 467 of this title.
 

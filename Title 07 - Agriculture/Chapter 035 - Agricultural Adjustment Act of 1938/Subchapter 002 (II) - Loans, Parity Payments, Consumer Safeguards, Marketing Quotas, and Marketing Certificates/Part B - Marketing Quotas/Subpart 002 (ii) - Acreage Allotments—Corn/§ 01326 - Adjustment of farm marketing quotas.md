@@ -22,7 +22,3 @@ Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, an
 
 Act Aug. 28, 1954, ch. 1041, title III, §304, 68 Stat. 902, repealed this section insofar as it is applicable to corn. Section has been made applicable to wheat by sections 1330(6) and 1340(6) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1334, 1340 of this title.
-

@@ -4,7 +4,7 @@ The purposes of this part are as follows:
 
 &emsp;(1) to protect public health and welfare from any actual or potential adverse effect which in the Administrator's judgment may reasonably be anticipate <sup>1</sup> to occur from air pollution or from exposures to pollutants in other media, which pollutants originate as emissions to the ambient air) <sup>2</sup>, notwithstanding attainment and maintenance of all national ambient air quality standards;
 
-&emsp;(2) to preserve, protect, and enhance the air quality in national parks, national wilderness areas, national monuments, national seashores, and other areas of special national or regional natural, recreational, scenic, or historic value;
+&emsp;(2) to preserve, protect, and enhance the air quality in national parks, national wildernessareas, national monuments, national seashores, and other areas of special national or regional natural, recreational, scenic, or historic value;
 
 &emsp;(3) to insure that economic growth will occur in a manner consistent with the preservation of existing clean air resources;
 
@@ -25,10 +25,6 @@ Section 127(c) of Pub. L. 95–95 required Administrator, not later than 1 year 
 #### Study and Report on Progress Made in Program Relating to Significant Deterioration of Air Quality
 
 Section 127(d) of Pub. L. 95–95 directed Administrator, not later than 2 years after Aug. 7, 1977, to complete a study and report to Congress on progress made in carrying out part C of title I of the Clean Air Act (this part) and the problems associated in carrying out such section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7476 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “anticipated”.</i>
 

@@ -10,7 +10,7 @@
 
 Based on title 28, U.S.C., 1940 ed., §§685, 686 (R.S. §§903, 904; Jan. 31, 1879, ch. 39, §§2, 3, 20 Stat. 277).
 
-A provision of section 686 of title 28, U.S.C., 1940 ed., relating to allowances to clerks and United States attorneys for their services, and disbursements incidentalto restoring lost records under such section was deleted as obsolete, in view of sections 508, 509, and 604 of this title, placing such officers on a salary basis and providing for their expenses.
+A provision of section 686 of title 28, U.S.C., 1940 ed., relating to allowances to clerks and United States attorneys for their services, and disbursements incidental to restoring lost records under such section was deleted as obsolete, in view of sections 508, 509, and 604 of this title, placing such officers on a salary basis and providing for their expenses.
 
 Words “And in all cases where any of the files, papers, or records of any court of the United States have been or shall be lost or destroyed, the files, records and papers which, pursuant to law, may have been or may be restored or supplied in place of such records, files, and papers, shall have the same force and effect, to all intents and purposes, as the originals thereof would have been entitled to,” at the end of section 685 of title 28, U.S.C., 1940 ed., were omitted as fully covered by the remainder of this section and by section 1734 of this title.
 

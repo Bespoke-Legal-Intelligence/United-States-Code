@@ -12,7 +12,7 @@ In the administration, protection, and development of the lakeshore, the Secreta
 
 &emsp;(2) protection of scenic, scientific, and historic features contributing to public enjoyment; and
 
-&emsp;(3) such protection, management, and utilization (subject to the provisions of sections460s–8 and 460s–9 of this title) of renewable natural resources, including forage and forest products, as in the judgment of the Secretary is consistent with, and does not significantly impair public recreation and protection of scenic, scientific, and historic features contributing to public enjoyment.
+&emsp;(3) such protection, management, and utilization (subject to the provisions of sections 460s–8 and 460s–9 of this title) of renewable natural resources, including forage and forest products, as in the judgment of the Secretary is consistent with, and does not significantly impair public recreation and protection of scenic, scientific, and historic features contributing to public enjoyment.
 
 #### (c) Prohibition of certain construction
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to subsection (b), a suit for recovery of damages under section 2333of this title shall not be maintained unless commenced within 4 years after the date the cause of action accrued.
+In General.—Subject to subsection (b), a suit for recovery of damages under section 2333 of this title shall not be maintained unless commenced within 4 years after the date the cause of action accrued.
 
 (b)
 

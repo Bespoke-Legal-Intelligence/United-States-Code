@@ -2,7 +2,7 @@
 
 #### (a) Delegation of authority
 
-In accordance with this section, the Administration shall delegate to any qualified State or local development company (as defined in section 697(e) of this title) that meets the eligibility requirements of subsection (b)(1) of this section the authority to foreclose and liquidate, or to otherwise treat in accordance with this section, defaulted loans in its portfolio that are funded with the proceeds of debentures guaranteed by the Administration under section 697 of this title.
+In accordance with this section, the Administration shall delegate to any qualified State or local development company (as defined in section 697(e) of this title) that meets the eligibility requirements of subsection (b)(1) of this section the authority to foreclose and liquidate, or to otherwise treat in accordance with thissection, defaulted loans in its portfolio that are funded with the proceeds of debentures guaranteed by the Administration under section 697 of this title.
 
 #### (b) Eligibility for delegation
 
@@ -179,6 +179,10 @@ The Administration may revoke or suspend a delegation of authority under this se
 #### References in Text
 
 The Small Business Programs Improvement Act of 1996, referred to in subsec. (b)(1)(A)(i), is Pub. L. 104–208, div. D, Sept. 30, 1996, 110 Stat. 3009–724. Provisions relating to loan liquidation pilot program are contained in section 204 of title II of div. D of Pub. L. 104–208, which is set out as a note under section 695 of this title. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 631 of this title and Tables.
+
+#### Change of Name
+
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
 
 #### Regulations
 

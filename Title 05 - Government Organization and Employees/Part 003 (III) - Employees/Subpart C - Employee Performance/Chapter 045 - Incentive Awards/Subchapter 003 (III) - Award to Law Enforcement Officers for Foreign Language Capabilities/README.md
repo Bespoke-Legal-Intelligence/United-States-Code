@@ -4,10 +4,6 @@
 
 1992—Pub. L. 102–378, §2(20), Oct. 2, 1992, 106 Stat. 1348, substituted “OFFICERS” for “OFFICER”.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 19 section 267a.
-
 
 ---
 

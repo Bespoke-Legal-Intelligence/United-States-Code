@@ -40,7 +40,7 @@ Grants under this section shall be used for the following:
 
 &emsp;(1) To carry out the policies set forth in section 11431 of this title in the State.
 
-&emsp;(2) To provide activities for, and services to, homeless children, including preschool-aged homeless children, and youths that enable such children and youths to enroll in, attend, and succeed in school, or, if appropriate, in preschool programs.
+&emsp;(2) To provide activities for, and services to, homeless children, including preschool-aged homeless children, and youths that enable such children and youths to enroll in, attend,and succeed in school, or, if appropriate, in preschool programs.
 
 &emsp;(3) To establish or designate an Office of Coordinator for Education of Homeless Children and Youths in the State educational agency in accordance with subsection (f) of this section.
 
@@ -100,13 +100,13 @@ Grants under this section shall be used for the following:
 
 &emsp;&emsp;&emsp;(II) coordinate with the local educational agency with jurisdiction for the school selected by the parent or guardian (or youth), to provide transportation and other necessary services;
 
-&emsp;&emsp;&emsp;(iii) ensure that the parent or guardian (or, in the case of an unaccompanied youth, the youth) shall receive the information required by this subparagraph in a manner and form understandable to suchparent or guardian (or youth), including, if necessary and to the extent feasible, in the native language of such parent or guardian (or youth); and
+&emsp;&emsp;&emsp;(iii) ensure that the parent or guardian (or, in the case of an unaccompanied youth, the youth) shall receive the information required by this subparagraph in a manner and form understandable to such parent or guardian (or youth), including, if necessary and to the extent feasible, in the native language of such parent or guardian (or youth); and
 
 &emsp;&emsp;&emsp;(iv) demonstrate in the school's application for funds under this part that such school—
 
 &emsp;&emsp;&emsp;&emsp;(I) is complying with clauses (i) and (ii); and
 
-&emsp;&emsp;&emsp;&emsp;(II) is meeting (as of the date of submission of the application) the same Federal and State standards, regulations, and mandates as other public schools in the State (such as complying with sections 1111 and 1116 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311, 6316\] and providing a full range of education and related services, including services applicable to students with disabilities).
+&emsp;&emsp;&emsp;&emsp;(II) is meeting (as of the date of submission of the application) the same Federal and State standards, regulations, and mandates as other public schools in the State (such as complying with sections 1111 and 1116 of the Elementary and Secondary Education Actof 1965 \[20 U.S.C. 6311, 6316\] and providing a full range of education and related services, including services applicable to students with disabilities).
 
 #### (D) School ineligibility
 
@@ -182,7 +182,7 @@ Grants under this section shall be used for the following:
 
 The Coordinator for Education of Homeless Children and Youths established in each State shall—
 
-&emsp;(1) gather reliable, valid, and comprehensive information on the nature and extent of the problems homeless children and youths have in gaining access to public preschool programs and to public elementary schools and secondary schools, the difficulties in identifying the special needs of such children and youths, anyprogress made by the State educational agency and local educational agencies in the State in addressing such problems and difficulties, and the success of the programs under this part in allowing homeless children and youths to enroll in, attend, and succeed in, school;
+&emsp;(1) gather reliable, valid, and comprehensive information on the nature and extent of the problems homeless children and youths have in gaining access to public preschool programs and to public elementary schools and secondary schools, the difficulties in identifying the special needs of such children and youths, any progress made by the State educational agency and local educational agencies in the State in addressing such problems and difficulties, and the success of the programs under this part in allowing homeless children and youths to enroll in, attend, and succeed in, school;
 
 &emsp;(2) develop and carry out the State plan described in subsection (g) of this section;
 
@@ -252,7 +252,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;&emsp;(I) If the homeless child or youth continues to live in the area served by the local educational agency in which the school of origin is located, the child's or youth's transportation to and from the school of origin shall be provided or arranged by the local educational agency in which the school of origin is located.
 
-&emsp;&emsp;&emsp;&emsp;(II) If the homeless child's or youth's living arrangements in the area served by the local educational agency of origin terminate and the child or youth, though continuing his or her education in the school of origin, begins living in an area served by another local educational agency, the local educational agency of origin and the local educational agency in which the homeless child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child with transportation to and from the school of origin. If the local educational agencies are unable to agree upon such method, the responsibility and costs for transportation shall be shared equally.
+&emsp;&emsp;&emsp;&emsp;(II) If the homeless child's or youth's living arrangements in the area served by the local educational agency of origin terminate and the child or youth, though continuing his or her education in the school of origin, begins living in an area served by another local educationalagency, the local educational agency of origin and the local educational agency in which the homeless child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child with transportation to and from the school of origin. If the local educational agencies are unable to agree upon such method, the responsibility and costs for transportation shall be shared equally.
 
 #### (2) Compliance
 
@@ -312,7 +312,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;(ii) the parent or guardian of the child or youth shall be provided with a written explanation of the school's decision regarding school selection or enrollment, including the rights of the parent, guardian, or youth to appeal the decision;
 
-&emsp;&emsp;&emsp;(iii) the child, youth, parent, or guardian shall be referred to the local educational agency liaison designated under paragraph\(1)(J)(ii), who shall carry out the dispute resolution process as described in paragraph (1)(C) as expeditiously as possible after receiving notice of the dispute; and
+&emsp;&emsp;&emsp;(iii) the child, youth, parent, or guardian shall be referred to the local educational agency liaison designated under paragraph (1)(J)(ii), who shall carry out the dispute resolution process as described in paragraph (1)(C) as expeditiously as possible after receiving notice of the dispute; and
 
 &emsp;&emsp;&emsp;(iv) in the case of an unaccompanied youth, the homeless liaison shall ensure that the youth is immediately enrolled in school pending resolution of the dispute.
 
@@ -322,7 +322,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (G) School of origin defined
 
-&emsp;&emsp;In this paragraph, the term “school of origin” means the school that the child or youth attended when permanently housed or the school in which the child or youth was last enrolled.
+&emsp;&emsp;In this paragraph, the term “school of origin” means the school that the child oryouth attended when permanently housed or the school in which the child or youth was last enrolled.
 
 #### (H) Contact information
 
@@ -396,7 +396,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (A) In general
 
-&emsp;&emsp;Each State educational agency and local educational agency that receives assistance under this part shall review and revise any policies that may act as barriers to the enrollment of homeless children and youths in schools that are selected under paragraph (3).
+&emsp;&emsp;Each State educational agency and local educational agency that receives assistance under this part shall review and revise anypolicies that may act as barriers to the enrollment of homeless children and youths in schools that are selected under paragraph (3).
 
 #### (B) Consideration
 
@@ -423,8 +423,4 @@ This chapter, referred to in subsec. (g)(6)(A)(v), was in the original “this A
 A prior section 11432, Pub. L. 100–77, title VII, §722, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3957, related to grants for State and local activities for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 107–110.
 
 Another prior section 11432, Pub. L. 100–77, title VII, §722, July 22, 1987, 101 Stat. 525; Pub. L. 100–628, title VII, §702(a), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, §612(b), Nov. 29, 1990, 104 Stat. 4735, related to grants for State and local activities for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5712, 5714–2, 11433, 11434 of this title.
 

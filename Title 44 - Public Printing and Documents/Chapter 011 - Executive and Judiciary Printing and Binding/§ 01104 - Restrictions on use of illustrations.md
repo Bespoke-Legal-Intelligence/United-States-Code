@@ -10,7 +10,3 @@ Based on 44 U.S. Code, 1964 ed., §118 (Mar. 3, 1905, ch. 1483, §1, 33 Stat. 12
 
 The term “executive department, independent office, or establishment of the Government” is substituted for “executive department or other Government establishment” for uniformity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3714b; title 35 section 2.
-

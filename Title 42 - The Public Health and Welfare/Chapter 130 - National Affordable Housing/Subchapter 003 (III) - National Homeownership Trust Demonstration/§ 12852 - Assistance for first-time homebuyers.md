@@ -56,7 +56,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (3) Certification
 
-&emsp;The homebuyer (and spouse, where applicable) shall certify that the homebuyer has made a good faith effort to obtain a market rate mortgage and has been denied because the annual income of the homebuyer and the members of the family of the homebuyer residing with the homebuyer is insufficient.
+&emsp;The homebuyer (and spouse, where applicable) shall certify that the homebuyer hasmade a good faith effort to obtain a market rate mortgage and has been denied because the annual income of the homebuyer and the members of the family of the homebuyer residing with the homebuyer is insufficient.
 
 #### (4) Principal residence
 
@@ -102,7 +102,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (d) Allocation formula
 
-Amounts available in any fiscal year for assistance under this subchapter shall be allocatedfor homebuyers in each State on the basis of the need of eligible first-time homebuyers in each State for such assistance in comparison with the need of eligible first-time homebuyers for such assistance among all States.
+Amounts available in any fiscal year for assistance under this subchapter shall be allocated for homebuyers in each State on the basis of the need of eligible first-time homebuyers in each State for such assistance in comparison with the need of eligible first-time homebuyers for such assistance among all States.
 
 #### (e) Assistance in connection with housing financed with mortgage revenue bonds
 
@@ -159,10 +159,6 @@ Subsec. (a)(4), (5). Pub. L. 102–550, §182(e), added pars. (4) and (5).
 Subsec. (b)(1)(D). Pub. L. 102–550, §182(d), added subpar. (D).
 
 Subsec. (e). Pub. L. 102–550, §182(c)(1), added subsec. (e).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12857 of this title; title 12 section 1701x.
 
 <i><sup>1</sup></i><i> So in original. The “; and” probably should be a period.</i>
 

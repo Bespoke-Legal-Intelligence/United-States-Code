@@ -54,7 +54,3 @@ Amendment by sections 307 and 310(15) of Pub. L. 94–502 effective Dec. 1, 1976
 
 For provisions directing the Administrator to suspend the implementation of the amendment to this section by section 307 of Pub. L. 94–502 in the case of any accredited educational institution which submits to the Administrator its course catalog or bulletin and a certification that the policies and regulations described in cls. (6) and (7) of section 1776(b) \[now 3676(b)(6) and (7)\] of this title are being enforced by such institution, unless the Administrator finds that the catalog or bulletin fails to state fully and clearly the policies and regulations, and for that suspension to continue until the Administrator submits the report required under section 305(b)(2) of Pub. L. 95–202, see section 305(b)(4)(A) of Pub. L. 95–202, set out as a note under section 3474 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 5569; title 10 section 2184.
-

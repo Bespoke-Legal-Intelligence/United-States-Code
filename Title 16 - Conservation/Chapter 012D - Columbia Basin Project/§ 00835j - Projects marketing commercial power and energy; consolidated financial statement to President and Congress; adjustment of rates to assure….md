@@ -6,7 +6,7 @@ The Secretary of the Interior shall prepare, maintain, and present annually to t
 
 #### Codification
 
-Section is comprised of first sentence of first par. of section 2(a) of Pub. L. 89–448, as so designated by Pub. L. 89–561. Second sentence of the first par. repealed section 832h(c) of this title; second par. of such section 2(a) is classified to section 835k of this title; subsecs. (b) and\(c) of section 2 are classified to sections 835<i>l</i> and 835m of this title, respectively.
+Section is comprised of first sentence of first par. of section 2(a) of Pub. L. 89–448, as so designated by Pub. L. 89–561. Second sentence of the first par. repealed section 832h(c) of this title; second par. of such section 2(a) is classified to section 835k of this title; subsecs. (b) and (c) of section 2 are classified to sections 835<i>l</i> and 835m of this title, respectively.
 
 #### Termination of Reporting Requirements
 
@@ -37,8 +37,4 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 4\. The Administrator shall market the power and energy delivered to him from the Grand Coulee Dam Project at rates to be fixed by the Secretary of Energy consistently with all applicable provisions of law and allocations of cost determined as provided thereunder. From time to time the Secretary of Energy, consistently with all applicable provisions of law and allocations of cost made pursuant thereto, shall determine the basis on which the Administrator and the Bureau shall compute the returns to be made to the Bureau for power and energy delivered to the Administrator from the Grand Coulee Dam Project pursuant to this order. All receipts collected by the Administrator from transmission and sale of power and energy shall be deposited with the Treasurer of the United States for credit to a special account, subject to allocation by the Secretary of Energy in accordance with the computations above provided for. Upon certification by the Secretary of Energy, the amounts of receipts properly allocable to the Bonneville Project shall be covered into the Treasury of the United States to the credit of miscellaneous receipts subject to the provisions of section 2 of the act of August 20, 1937, 50 Stat. 731, 732 \[16 U.S.C. 832a\]. The amounts certified by the Secretary of Energy as being allocable to the Grand Coulee Dam Project shall be covered into the Treasury for credit to the Reclamation Fund to the extent authorized by law.
 
 5\. In aid of this delegation of authority to the Secretary of the Interior and the Secretary of Energy, the Commissioner of the Bureau of Reclamation and the Bonneville Power Administrator shall, subject to the approval of the Secretary of the Interior and the Secretary of Energy, and the terms of this order, enter into any and all agreements that are necessary for the interconnection of the Bonneville Project and the Grand Coulee Dam Project and to carry out the provisions of this order.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 835<i>l</i> of this title; title 43 sections 615rrr, 616nnnn, 616uuuu.
 

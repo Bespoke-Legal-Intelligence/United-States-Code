@@ -14,7 +14,7 @@ Pub. L. 101–423, Oct. 12, 1990, 104 Stat. 912, provided that:
 
 “Whereas it is now widely recognized and scientifically demonstrated that the acidic papers commonly used for more than a century in documents, books, and other publications are self-destructing and will continue to self destruct;
 
-“Whereas Americans are facing the prospect of continuing to lose national, historical, scientific, and scholarly records, including government records, faster than salvage efforts can be mounted despitethe dedicated efforts of many libraries, archives, and agencies, such as the Library of Congress and the National Archives and Records Administration;
+“Whereas Americans are facing the prospect of continuing to lose national, historical, scientific, and scholarly records, including government records, faster than salvage efforts can be mounted despite the dedicated efforts of many libraries, archives, and agencies, such as the Library of Congress and the National Archives and Records Administration;
 
 “Whereas nationwide hundreds of millions of dollars will have to be spent by the Federal, State, and local governments and private institutions to salvage the most essential books and other materials in the libraries and archives of government, academic, and private institutions;
 
@@ -51,8 +51,4 @@ Sec. 2. The Congress of the United States urgently recommends that—
 “
 
 Sec. 3. The Librarian of Congress, the Archivist of the United States, and the Public Printer shall jointly monitor the Federal Government's progress in implementing the national policy declared in section 1 regarding acid free permanent papers and shall report to the Congress regarding such progress on December 31, 1991, December 31, 1993, and December 31, 1995. In carrying out the monitoring and reporting functions under this section, the Librarian of Congress, the Archivist of the United States, and the Public Printer may consult with the National Endowment for the Humanities, National Agricultural Library, National Library of Medicine, other Federal and State agencies, international organizations, private publishers, paper manufacturers, and other organizations with an interest in preservation of books and historical papers.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 515, 1121 of this title; title 22 section 3714b; title 35 section 2.
 

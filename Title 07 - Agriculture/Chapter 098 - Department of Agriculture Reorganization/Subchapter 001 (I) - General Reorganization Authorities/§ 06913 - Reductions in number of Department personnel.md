@@ -30,7 +30,3 @@ The personnel reductions in headquarters offices and in the field structure shou
 
 (Pub. L. 103–354, title II, §213, Oct. 13, 1994, 108 Stat. 3211.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6972 of this title.
-

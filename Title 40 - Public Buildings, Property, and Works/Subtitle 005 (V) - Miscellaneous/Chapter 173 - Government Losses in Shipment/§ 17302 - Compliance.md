@@ -34,7 +34,3 @@ In subsection (b), the words “After the effective date of such regulations, wh
 
 For power of Secretary of the Treasury and United States Postal Service to prescribe, without approval of President, regulations under section 721 of former Title 40, Public Buildings, Property, and Works (which was repealed and reenacted as this section by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304), see section 3(a) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, set out as a note under section 301 of Title 3, The President.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 17303, 17304, 17308 of this title; title 46 App. section 1285; title 49 section 44305.
-

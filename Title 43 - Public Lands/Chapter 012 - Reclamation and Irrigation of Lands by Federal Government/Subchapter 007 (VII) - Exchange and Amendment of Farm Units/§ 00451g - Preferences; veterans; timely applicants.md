@@ -4,7 +4,3 @@ Where there are two or more timely applicants for a farm unit on a particular pr
 
 (Aug. 13, 1953, ch. 428, §8, 67 Stat. 568.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 451a of this title.
-

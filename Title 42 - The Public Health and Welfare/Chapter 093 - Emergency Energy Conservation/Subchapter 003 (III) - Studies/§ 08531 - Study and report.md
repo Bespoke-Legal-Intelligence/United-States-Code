@@ -12,7 +12,7 @@ Such report shall—
 
 &emsp;(2) the estimated amount of gasoline and middle distillates (in the aggregate and by type and region) which are in storage within the United States at the time of the study, the amounts which were in storage at the same time during the calendar year preceding the study, and the purposes for which such storage is maintained; and
 
-&emsp;(3) contain such findings and recommendations for legislation and administrative actionas the Secretary considers appropriate, including recommendations for improving the availability and quality of data concerning such storage.
+&emsp;(3) contain such findings and recommendations for legislation and administrative action as the Secretary considers appropriate, including recommendations for improving the availability and quality of data concerning such storage.
 
 (Pub. L. 96–102, title II, §241, Nov. 5, 1979, 93 Stat. 768.)
 

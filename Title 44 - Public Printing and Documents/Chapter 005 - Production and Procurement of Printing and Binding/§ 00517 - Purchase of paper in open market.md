@@ -8,7 +8,3 @@ The Joint Committee on Printing may authorize the Public Printer to purchase pap
 
 Based on 44 U.S. Code, 1964 ed., §13 (Jan. 12, 1895, ch. 23, §11, 28 Stat. 602; Mar. 3, 1917, ch. 163, §6, 39 Stat. 1121).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 515 of this title; title 22 section 3714b; title 35 section 2.
-

@@ -2,10 +2,6 @@ Part 6
 
 —Congressional Liaison and Reports
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 2514 of this title.
-
 
 ---
 

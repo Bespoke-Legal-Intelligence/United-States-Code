@@ -8,7 +8,3 @@ The President of the United States is authorized to designate as game refuges su
 
 Lands comprising the Ocala National Game Refuge were designated by Proclamation of July 24, 1930 (46 Stat. 3031), and Executive Order No. 5814 of Mar. 1, 1932.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 692a of this title.
-

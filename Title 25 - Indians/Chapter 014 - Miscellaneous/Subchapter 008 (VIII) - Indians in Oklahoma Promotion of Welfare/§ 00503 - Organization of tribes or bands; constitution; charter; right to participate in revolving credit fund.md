@@ -8,7 +8,3 @@ Any recognized tribe or band of Indians residing in Oklahoma shall have the righ
 
 Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 861a, 1041d of this title.
-

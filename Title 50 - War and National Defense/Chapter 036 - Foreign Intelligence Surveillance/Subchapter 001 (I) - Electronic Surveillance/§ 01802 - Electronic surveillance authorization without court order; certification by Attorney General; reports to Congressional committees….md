@@ -16,7 +16,7 @@
 
 (2) An electronic surveillance authorized by this subsection may be conducted only in accordance with the Attorney General's certification and the minimization procedures adopted by him. The Attorney General shall assess compliance with such procedures and shall report such assessments to the House Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence under the provisions of section 1808(a) of this title.
 
-(3) The Attorney General shall immediately transmit under seal to the court established under section 1803(a) of this title a copy of his certification. Such certification shall be maintained under security measures established by the Chief Justice with the concurrence of the Attorney General, in consultation with the Director of Central Intelligence, and shall remain sealed unless—
+(3) The Attorney General shall immediately transmit under seal to the court established under section 1803(a) of this title a copy of his certification. Such certification shall be maintained under security measures established by the Chief Justice with the concurrence of the Attorney General, in consultation with the Director of National Intelligence, and shall remain sealed unless—
 
 &emsp;(A) an application for a court order with respect to the surveillance is made under sections 1801(h)(4) and 1804 of this title; or
 
@@ -26,13 +26,21 @@
 
 &emsp;(A) furnish all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier is providing its customers; and
 
-&emsp;(B) maintain under security procedures approved by the Attorney General and the Director of Central Intelligence any records concerning the surveillance or the aid furnished which such carrier wishes to retain.
+&emsp;(B) maintain under security procedures approved by the Attorney General and the Director of National Intelligence any records concerning the surveillance or the aid furnished which such carrier wishes to retain.
 
 > The Government shall compensate, at the prevailing rate, such carrier for furnishing such aid.
 
 (b) Applications for a court order under this subchapter are authorized if the President has, by written authorization, empowered the Attorney General to approve applications to the court having jurisdiction under section 1803 of this title, and a judge to whom an application is made may, notwithstanding any other law, grant an order, in conformity with section 1805 of this title, approving electronic surveillance of a foreign power or an agent of a foreign power for the purpose of obtaining foreign intelligence information, except that the court shall not have jurisdiction to grant any order approving electronic surveillance directed solely as described in paragraph (1)(A) of subsection (a) of this section unless such surveillance may involve the acquisition of communications of any United States person.
 
-(Pub. L. 95–511, title I, §102, Oct. 25, 1978, 92 Stat. 1786.)
+(Pub. L. 95–511, title I, §102, Oct. 25, 1978, 92 Stat. 1786; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691.)
+
+#### Amendments
+
+2004—Subsec. (a)(3), (4)(B). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Ex. Ord. No. 12139. Exercise of Certain Authority Respecting Electronic Surveillance
 
@@ -67,8 +75,4 @@ By the authority vested in me as President by Sections 102 and 104 of the Foreig
 1–105. Section 2–203 of Executive Order No. 12036 \[set out under section 401 of this title\] is amended by inserting the following at the end of that section: “Any monitoring which constitutes electronic surveillance as defined in the Foreign Intelligence Surveillance Act of 1978 shall be conducted in accordance with that Act as well as this Order.”.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1801, 1805 of this title.
 

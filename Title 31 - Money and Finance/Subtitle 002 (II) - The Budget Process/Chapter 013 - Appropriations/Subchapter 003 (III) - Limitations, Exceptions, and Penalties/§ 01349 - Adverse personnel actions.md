@@ -30,7 +30,3 @@ In subsection (a), the words “In addition to any penalty or liability under ot
 
 In subsection (b), the words “of the Government” and “from duty” are omitted as unnecessary because of the restatement. The word “pay” is substituted for “compensation” for consistency. The word “agency” is substituted for “department” because of section 101 of the revised title and for consistency.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 60a–2; title 5 sections 3374, 3704, 5306; title 22 sections 277d–3, 1461b, 3622; title 40 section 611; title 42 sections 2204, 2204a, 2210, 2295, 2394.
-

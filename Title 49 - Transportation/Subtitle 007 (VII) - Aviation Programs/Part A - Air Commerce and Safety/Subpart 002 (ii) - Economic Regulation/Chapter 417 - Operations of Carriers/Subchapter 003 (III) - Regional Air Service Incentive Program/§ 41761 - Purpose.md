@@ -8,7 +8,3 @@ The purpose of this subchapter is to improve service by jet aircraft to underser
 
 Subchapter applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41764 of this title.
-

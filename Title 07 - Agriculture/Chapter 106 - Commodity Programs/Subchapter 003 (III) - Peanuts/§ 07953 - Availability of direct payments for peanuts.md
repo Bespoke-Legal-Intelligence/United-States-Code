@@ -46,15 +46,11 @@ The amount of the direct payment to be paid to the producers on a farm for the 2
 
 #### (2) Advance payments
 
-&emsp;At the option of the producers on a farm, up to 50 percent of the direct payment for any of the 2003 through 2007 crop years shall be paid to the producers in advance. The producers shall select the month within which the advance payment for a crop year will be made. The month selected may be any month during the period beginning on December 1 of the calendar year before the calendar year in which the crop is harvested through the month within which the direct payment would otherwise be made. The producers may change the selected month for a subsequent advance payment by providing advance notice to the Secretary.
+&emsp;At the option of the producers on a farm, up to 50 percent of the direct payment for any ofthe 2003 through 2007 crop years shall be paid to the producers in advance. The producers shall select the month within which the advance payment for a crop year will be made. The month selected may be any month during the period beginning on December 1 of the calendar year before the calendar year in which the crop is harvested through the month within which the direct payment would otherwise be made. The producers may change the selected month for a subsequent advance payment by providing advance notice to the Secretary.
 
 #### (3) Repayment of advance payments
 
 &emsp;If a producer on a farm that receives an advance direct payment for a crop year ceases to be a producer on that farm, or the extent to which the producer shares in the risk of producing a crop changes, before the date the remainder of the direct payment is made, the producer shall be responsible for repaying the Secretary the applicable amount of the advance payment, as determined by the Secretary.
 
 (Pub. L. 107–171, title I, §1303, May 13, 2002, 116 Stat. 170.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7951, 7954 of this title.
 

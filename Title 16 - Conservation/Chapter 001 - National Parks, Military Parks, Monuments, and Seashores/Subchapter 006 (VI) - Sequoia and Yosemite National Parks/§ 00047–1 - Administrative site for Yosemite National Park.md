@@ -6,7 +6,7 @@ To enable the Secretary of the Interior to preserve the extraordinary natural qu
 
 #### (b) Acquisition of land
 
-For said site the Secretary of the Interior is authorized to acquire by purchase or donation, or with donated funds, approximately twelvehundred acres, as shown on map numbered NP–YOS–7011, of non-Federal land, interests in land, and appurtenances thereto, and, to avoid severing parcels in private ownership which extend beyond the area so depicted, the Secretary of the Interior may acquire in their entirety such parcels of land or interests therein.
+For said site the Secretary of the Interior is authorized to acquire by purchase or donation, or with donated funds, approximately twelve hundred acres, as shown on map numbered NP–YOS–7011, of non-Federal land, interests in land, and appurtenances thereto, and, to avoid severing parcels in private ownership which extend beyond the area so depicted, the Secretary of the Interior may acquire in their entirety such parcels of land or interests therein.
 
 #### (c) Transfers of jurisdiction
 
@@ -37,8 +37,4 @@ Subsecs. (a) to (f) are based on sections 1 to 6, respectively, of Pub. L. 85–
 #### Land Exchange, El Portal Administrative Site, California
 
 Pub. L. 105–363, §4, Nov. 6, 1998, 112 Stat. 3298, authorized transfer from the United States of land within the El Portal Administrative Site to party conveying to United States an adjacent property known as the Yosemite View parcel, and provided for equalization of values of Federal and non-Federal lands, applicability of other laws to the exchange, boundary adjustment, map, and additional terms and conditions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 47–2 of this title.
 

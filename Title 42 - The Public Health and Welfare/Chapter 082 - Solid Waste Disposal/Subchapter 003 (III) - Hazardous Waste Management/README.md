@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—HAZARDOUS WASTE MANAGEMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2022, 6902, 6903, 6905, 6916, 6948, 6949a, 6972, 6991, 6992i, 7412, 7511b, 9601, 9603, 9604, 9607, 9608, 9614, 9621, 9651, 14336 of this title; title 10 section 7311; title 26 section 142; title 33 section 1345.
-
 
 ---
 

@@ -24,7 +24,3 @@ Notwithstanding any restrictions on access imposed pursuant to section 2204—
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2206 of this title.
-

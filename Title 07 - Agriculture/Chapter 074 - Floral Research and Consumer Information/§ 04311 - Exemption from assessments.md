@@ -4,7 +4,3 @@ Any producer or importer whose total sales of flowers and plants do not exceed $
 
 (Pub. L. 97–98, title XVII, §1712, Dec. 22, 1981, 95 Stat. 1354.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4308 of this title.
-

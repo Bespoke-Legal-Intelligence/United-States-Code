@@ -13,10 +13,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 499b–1 of this title; title 50 App. section 2166.
-
 
 ---
 

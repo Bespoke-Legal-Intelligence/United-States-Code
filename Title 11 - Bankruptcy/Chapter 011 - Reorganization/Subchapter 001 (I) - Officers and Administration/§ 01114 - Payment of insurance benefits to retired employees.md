@@ -76,7 +76,3 @@ Application of Amendments.—The amendments made by section 2 \[enacting this se
 
 For payment of benefits by bankruptcy trustee to retired employees in enumerated circumstances with respect to cases commenced under this chapter in which a plan for reorganization had not been confirmed by the court and in which any such benefit was still being paid on October 2, 1986, and in cases that became subject to this chapter after October 2, 1986, and before June 16, 1988, see section 101(b) \[title VI, §608\] of Pub. L. 99–500, and Pub. L. 99–591, as amended, set out as a note under section 1106 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1129 of this title.
-

@@ -34,7 +34,3 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5901 of this title.
-

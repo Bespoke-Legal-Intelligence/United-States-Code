@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(iv) specify how the funds described in clause (iii) will be used to remove the school from school improvement status;
 
-&emsp;&emsp;&emsp;(v) establish specific annual, measurable objectives for continuous and substantial progress by each group of students specified in section 6311(b)(2)(C)(v) of this title and enrolled in the school that will ensurethat all such groups of students will, in accordance with adequate yearly progress as defined in section 6311(b)(2) of this title, meet the State's proficient level of achievement on the State academic assessment described in section 6311(b)(3) of this title not later than 12 years after the end of the 2001–2002 school year;
+&emsp;&emsp;&emsp;(v) establish specific annual, measurable objectives for continuous and substantial progress by each group of students specified in section 6311(b)(2)(C)(v) of this title and enrolled in the school that will ensure that all such groups of students will, in accordance with adequate yearly progress as defined in section 6311(b)(2) of this title, meet the State's proficient level of achievement on the State academic assessment described in section 6311(b)(3) of this title not later than 12 years after the end of the 2001–2002 school year;
 
 &emsp;&emsp;&emsp;(vi) describe how the school will provide written notice about the identification to parents of each student enrolled in such school, in a format and, to the extent practicable, in a language that the parents can understand;
 
@@ -218,7 +218,7 @@
 
 #### (D) Delay
 
-&emsp;&emsp;Notwithstanding any other provision of this paragraph, the local educational agency may delay, for a period not to exceed 1 year, implementation of the requirements under paragraph (5), corrective action under this paragraph, or restructuring under paragraph (8) if the school makes adequate yearly progress for 1 year or if its failure to make adequate yearly progress is due to exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the local educational agency or school. No such period shall be taken into account in determining the number of consecutive years of failure to make adequate yearly progress.
+&emsp;&emsp;Notwithstanding any other provision of this paragraph, the local educational agency may delay, for a period not to exceed 1 year, implementation of the requirements under paragraph (5), corrective action under this paragraph, or restructuring under paragraph\(8) if the school makes adequate yearly progress for 1 year or if its failure to make adequate yearly progress is due to exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the local educational agency or school. No such period shall be taken into account in determining the number of consecutive years of failure to make adequate yearly progress.
 
 #### (E) Publication and dissemination
 
@@ -290,7 +290,7 @@
 
 #### (C) Insufficient funds
 
-&emsp;&emsp;If the amount of funds described in subparagraph (A)(ii) or (iii) and available to provide services under this subsection is insufficient to provide supplemental educational services to each child whose parents request the services, the local educational agency shall give priority to providing the services to the lowest-achieving children.
+&emsp;&emsp;If the amount of funds described in subparagraph (A)(ii) or (iii) and available toprovide services under this subsection is insufficient to provide supplemental educational services to each child whose parents request the services, the local educational agency shall give priority to providing the services to the lowest-achieving children.
 
 #### (D) Prohibition
 
@@ -350,7 +350,7 @@
 
 #### (B) Evidence
 
-&emsp;&emsp;If the local educational agency believes that the proposed identification is in error for statistical or other substantive reasons, the agency may provide supporting evidence to the State educational agency, which shall consider the evidence before making a final determination not later than 30 days after the State educational agency provides the local educational agency with the opportunity to review such data under subparagraph (A).
+&emsp;&emsp;If the local educational agency believes that the proposed identification is in error for statistical or other substantive reasons,the agency may provide supporting evidence to the State educational agency, which shall consider the evidence before making a final determination not later than 30 days after the State educational agency provides the local educational agency with the opportunity to review such data under subparagraph (A).
 
 #### (6) Notification to parents
 
@@ -412,7 +412,7 @@
 
 &emsp;&emsp;After providing technical assistance under paragraph (9) and subject to subparagraph (E), the State—
 
-&emsp;&emsp;&emsp;(i) may take corrective action at any time with respect to a local educational agency that has been identified under paragraph (3);
+&emsp;&emsp;&emsp;(i) may take corrective action at any time with respect to a local educationalagency that has been identified under paragraph (3);
 
 &emsp;&emsp;&emsp;(ii) shall take corrective action with respect to any local educational agency that fails to make adequate yearly progress, as defined by the State, by the end of the second full school year after the identification of the agency under paragraph (3); and
 
@@ -420,7 +420,7 @@
 
 #### (C) Certain corrective actions required
 
-&emsp;&emsp;In the case of a local educational agency identified for corrective action, the Stateeducational agency shall take at least one of the following corrective actions:
+&emsp;&emsp;In the case of a local educational agency identified for corrective action, the State educational agency shall take at least one of the following corrective actions:
 
 &emsp;&emsp;&emsp;(i) Deferring programmatic funds or reducing administrative funds.
 
@@ -544,7 +544,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (A) Requirement
 
-&emsp;&emsp;At the request of a local educational agency, a State educational agency may waive, in whole or in part, the requirement of this subsection to provide supplemental educational services if the State educational agency determines that—
+&emsp;&emsp;At the request of a local educational agency, a State educational agency may waive,in whole or in part, the requirement of this subsection to provide supplemental educational services if the State educational agency determines that—
 
 &emsp;&emsp;&emsp;(i) none of the providers of those services on the list approved by the State educational agency under paragraph (4)(C) makes those services available in the area served by the local educational agency or within a reasonable distance of that area; and
 
@@ -622,7 +622,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (i) Definition
 
-&emsp;&emsp;&emsp;The Secretary of the Interior, in consultation with the Secretary if the Secretary of <sup>4</sup> Interior requests the consultation, using the process set out in section 2018(b) of title 25, shall define adequateyearly progress, consistent with section 6311(b) of this title, for the schools funded by the Bureau of Indian Affairs on a regional or tribal basis, as appropriate, taking into account the unique circumstances and needs of such schools and the students served by such schools.
+&emsp;&emsp;&emsp;The Secretary of the Interior, in consultation with the Secretary if the Secretary of <sup>4</sup> Interior requests the consultation, using the process set out in section 2018(b) of title 25, shall define adequate yearly progress, consistent with section 6311(b) of this title, for the schools funded by the Bureau of Indian Affairs on a regional or tribal basis, as appropriate, taking into account the unique circumstances and needs of such schools and the students served by such schools.
 
 #### (ii) Use of definition
 
@@ -691,10 +691,6 @@ The Tribally Controlled Schools Act of 1988, referred to in subsec. (g)(3)(A), (
 A prior section 6316, Pub. L. 89–10, title I, §1115A, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3542, related to school choice, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 1116 of Pub. L. 89–10 was classified to section 6317 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5891b, 6303, 6311, 6312, 6313, 6317, 6318, 6319, 6362, 6368, 6491, 6514, 6578, 6622, 6631, 6753, 6764, 7174, 7215, 7225e, 7305b, 7345b, 7351c, 7914, 9602 of this title; title 42 section 11432.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

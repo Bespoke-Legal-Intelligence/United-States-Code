@@ -10,7 +10,3 @@
 
 1989—Subsec. (b). Pub. L. 101–239 substituted “$12,000” for “$1,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 152 of this title.
-

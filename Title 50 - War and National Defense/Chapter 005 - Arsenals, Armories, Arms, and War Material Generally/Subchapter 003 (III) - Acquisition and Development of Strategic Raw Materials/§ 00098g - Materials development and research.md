@@ -50,7 +50,3 @@ Provisions similar to those in this section were contained in former section 98f
 
 Functions of President under subsec. (a) of this section delegated to Secretary of the Interior and functions of President under subsec. (b) of this section delegated to Secretary of Agriculture by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 98h–2 of this title.
-

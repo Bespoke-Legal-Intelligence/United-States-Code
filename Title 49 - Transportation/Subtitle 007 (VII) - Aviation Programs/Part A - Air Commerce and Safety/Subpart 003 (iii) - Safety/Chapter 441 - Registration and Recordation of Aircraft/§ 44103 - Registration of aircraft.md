@@ -106,7 +106,3 @@ In General.—A memorandum of agreement between the Administrator \[of the Feder
 
 Existing Memoranda To Be Conformed.—Not later than 30 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall conform any memoranda of agreement, in effect on such date of enactment, between the Federal Aviation Administration and a person under which that person obtains aircraft situational display data to incorporate the requirements of subsection (a).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44101, 44102, 44105, 44106, 44109, 44110, 46306 of this title; title 10 section 9512.
-

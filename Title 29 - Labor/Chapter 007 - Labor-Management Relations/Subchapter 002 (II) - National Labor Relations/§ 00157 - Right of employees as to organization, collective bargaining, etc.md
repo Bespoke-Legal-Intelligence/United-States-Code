@@ -12,7 +12,3 @@ Employees shall have the right to self-organization, to form, join, or assist la
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 158, 158a, 175a, 433 of this title; title 18 section 1951.
-

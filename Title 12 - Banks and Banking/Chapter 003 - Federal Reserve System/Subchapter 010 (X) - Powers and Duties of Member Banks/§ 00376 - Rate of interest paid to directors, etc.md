@@ -4,7 +4,3 @@ No member bank shall pay to any director, officer, attorney, or employee a great
 
 (Dec. 23, 1913, ch. 6, §22(e), as added Sept. 26, 1918, ch. 177, §5, 40 Stat. 971.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 503, 504 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER XI—GRIEVANCES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3949, 4010a, 4113, 4115, 4153 of this title; title 5 section 5596.
-
 
 ---
 

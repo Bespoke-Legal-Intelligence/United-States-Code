@@ -10,7 +10,3 @@ The amount of claims or defenses asserted by the cardholder may not exceed the a
 
 (Pub. L. 90–321, title I, §170, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1515.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1637 of this title; title 26 section 6311.
-

@@ -28,7 +28,3 @@ Subsec. (d). Pub. L. 103–272 substituted “section 46501(2) of title 49” fo
 
 1977—Subsec. (d). Pub. L. 95–163 substituted reference to section 101(35) of the Federal Aviation Act of 1958 for reference to section 101(34) of such Act.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11 of this title.
-

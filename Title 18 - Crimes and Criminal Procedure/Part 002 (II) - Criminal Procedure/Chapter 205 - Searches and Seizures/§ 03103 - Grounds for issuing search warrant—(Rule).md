@@ -6,7 +6,3 @@ Grounds prescribed for issuance of search warrant, Rule 41(b).
 
 (June 25, 1948, ch. 645, 62 Stat. 819.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3103a of this title.
-

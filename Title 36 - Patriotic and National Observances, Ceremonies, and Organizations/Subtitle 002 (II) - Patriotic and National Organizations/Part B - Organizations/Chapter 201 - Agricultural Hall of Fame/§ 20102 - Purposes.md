@@ -44,7 +44,3 @@ In clause (4), the word “promote” is substituted for “foster, promote, and
 
 In clause (7), the words “other activities appropriate to carry out its purposes” are substituted for “any and all activities incidental thereto or necessary, suitable, or proper for the accomplishment of any of the aforementioned purposes” for consistency in the revised title and to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 20106 of this title.
-

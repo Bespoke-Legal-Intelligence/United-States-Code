@@ -66,7 +66,7 @@ The provisions of section 3403(b) of this title shall not apply to Secretarial d
 
 Subsec. (a)(2)(C). Pub. L. 105–244, §494(1)(A)(ii), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “institutions with a significant fluctuation in Federal Stafford Loan volume or Federal Pell Grant awards, or both, in the year for which the determination is made compared to the year prior to such year;”.
 
-Subsec. (a)(2)(D). Pub. L. 105–244, §494(1)(A)(iii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “institutions reported to have deficiencies or financial aid problems by the appropriate State postsecondary review entity designated under subpart 1 of this part or by the appropriate accrediting agency or association;”.
+Subsec. (a)(2)(D). Pub. L. 105–244, §494(1)(A)(iii), amended subpar. (D) generally. Prior to amendment,subpar. (D) read as follows: “institutions reported to have deficiencies or financial aid problems by the appropriate State postsecondary review entity designated under subpart 1 of this part or by the appropriate accrediting agency or association;”.
 
 Subsec. (a)(2)(E). Pub. L. 105–244, §494(1)(A)(iv), inserted “and” after the semicolon.
 

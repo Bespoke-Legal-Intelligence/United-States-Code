@@ -108,13 +108,13 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 &emsp;&emsp;(A) is in the State of Arizona, California, New Mexico, or Texas;
 
-&emsp;&emsp;(B) is in the area of the United States within 150 miles of the border between theUnited States and Mexico, except that the term does not include any standard metropolitan statistical area that has a population exceeding 1,000,000;
+&emsp;&emsp;(B) is in the area of the United States within 150 miles of the border between the United States and Mexico, except that the term does not include any standard metropolitan statistical area that has a population exceeding 1,000,000;
 
 &emsp;&emsp;(C) is determined to be a colonia on the basis of objective criteria, including lack of potable water supply, lack of adequate sewage systems, and lack of decent, safe, and sanitary housing; and
 
 &emsp;&emsp;(D) was in existence as a colonia before November 28, 1990.
 
-(July 15, 1949, ch. 338, title V, §509, 63 Stat. 436; Pub. L. 95–128, title V, §504, Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §508, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 98–181, title V, §506(a), Nov. 30, 1983, 97 Stat. 1242; Pub. L. 101–625, title VII, §§708, 709(b), Nov. 28, 1990, 104 Stat. 4287, 4288; Pub. L. 102–550, title VII, §705, Oct. 28, 1992, 106 Stat. 3835; Pub. L. 104–120, §4(a), Mar. 28, 1996, 110 Stat. 835; Pub. L. 104–180, title VII, §734(b), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–86, title VII, §735(a), Nov. 18, 1997, 111 Stat. 2110; Pub. L. 105–276, title V, §599C(a), (e)(2)(B), Oct. 21, 1998, 112 Stat. 2661, 2662.)
+(July 15, 1949, ch. 338, title V, §509, 63 Stat. 436; Pub. L. 95–128, title V, §504, Oct. 12, 1977, 91 Stat.1139; Pub. L. 96–153, title V, §508, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 98–181, title V, §506(a), Nov. 30, 1983, 97 Stat. 1242; Pub. L. 101–625, title VII, §§708, 709(b), Nov. 28, 1990, 104 Stat. 4287, 4288; Pub. L. 102–550, title VII, §705, Oct. 28, 1992, 106 Stat. 3835; Pub. L. 104–120, §4(a), Mar. 28, 1996, 110 Stat. 835; Pub. L. 104–180, title VII, §734(b), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–86, title VII, §735(a), Nov. 18, 1997, 111 Stat. 2110; Pub. L. 105–276, title V, §599C(a), (e)(2)(B), Oct. 21, 1998, 112 Stat. 2661, 2662.)
 
 #### References in Text
 
@@ -165,8 +165,4 @@ Section 709(a) of Pub. L. 101–625 provided that: “The purpose of this sectio
 #### Exemptions of Existing Dwellings From Living Area Limitations; Authority of District Offices of Farmers’ Home Administration
 
 Pub. L. 100–202, §101(k) \[title VI, §632\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–356, provided that: “During fiscal year 1988 and each succeeding fiscal year, the Secretary of Agriculture shall permit each district office of the Farmers Home Administration to exempt any existing dwelling from any limitation established by the Secretary on the number of square feet of living area that may be contained in a dwelling to be eligible for a loan under section 502 of the Housing Act of 1949 \[section 1472 of this title\], if the dwelling is modest in design, size, and cost for the area in which it is located.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1480, 1483, 1490m of this title.
 

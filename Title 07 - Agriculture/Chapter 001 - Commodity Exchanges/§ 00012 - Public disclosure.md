@@ -2,7 +2,7 @@
 
 #### (a) Investigations respecting operations of boards of trade and others subject to this chapter; publication of results; restrictions; information received from foreign futures authorities; undercover operations; notice of investigations and enforcement actions
 
-(1) For the efficient execution of the provisions of this chapter, and in order to provide information for the use of Congress, the Commission may make such investigations as it deems necessary to ascertain the facts regarding the operations of boards of trade and other persons subject to the provisions of this chapter. The Commission may publish from time to time the results of any such investigation and such general statistical information gathered therefrom as it deems of interest to the public: <i>Provided</i>, That except as otherwise specifically authorizedin this chapter, the Commission may not publish data and information that would separately disclose the business transactions or market positions of any person and trade secrets or names of customers: <i>Provided further</i>, That the Commission may withhold from public disclosure any data or information concerning or obtained in connection with any pending investigation of any person. The Commission shall not be compelled to disclose any information or data obtained from a foreign futures authority if—
+(1) For the efficient execution of the provisions of this chapter, and in order to provide information for the use of Congress, the Commission may make such investigations as it deems necessary to ascertain the facts regarding the operations of boards of trade and other persons subject to the provisions of this chapter. The Commission may publish from time to time the results of any such investigation and such general statistical information gathered therefrom as it deems of interest to the public: <i>Provided</i>, That except as otherwise specifically authorized in this chapter, the Commission may not publish data and information that would separately disclose the business transactions or market positions of any person and trade secrets or names of customers: <i>Provided further</i>, That the Commission may withhold from public disclosure any data or information concerning or obtained in connection with any pending investigation of any person. The Commission shall not be compelled to disclose any information or data obtained from a foreign futures authority if—
 
 &emsp;(A) the foreign futures authority has in good faith determined and represented to the Commission that disclosure of such information or data by that foreign futures authority would violate the laws applicable to that foreign futures authority; and
 
@@ -24,7 +24,7 @@ The Commission may disclose publicly any data or information that would separate
 
 #### (c) Reports respecting conduct of registered entities or transactions of violators; contents
 
-The Commission may make or issue such reports as it deems necessary, or such opinions or orders as may be required under other provisions of law, relative to the conduct of any registered entity or to the transactions of any person found guilty of violating the provisions of this chapter or the rules, regulations, or orders of the Commission thereunder in proceedings brought under sections 8, 9, 9a, 9b, 9c, 13b, and 15 of this title. In any such report or opinion, the Commission may set forth the facts as to any actual transaction or any information referred to in subsection (b) of this section, if such facts or information have previously been disclosed publicly in connection with a congressional proceeding, or in an administrative or judicial proceeding brought under this chapter.
+The Commission may make or issue such reports as it deems necessary, or such opinions or orders as may be required under other provisions of law, relative to the conduct of any registered entity or to the transactions of any person found guilty of violating the provisions of this chapter or the rules, regulations, or orders of the Commission thereunder in proceedingsbrought under sections 8, 9, 9a, 9b, 9c, 13b, and 15 of this title. In any such report or opinion, the Commission may set forth the facts as to any actual transaction or any information referred to in subsection (b) of this section, if such facts or information have previously been disclosed publicly in connection with a congressional proceeding, or in an administrative or judicial proceeding brought under this chapter.
 
 #### (d) Investigations respecting marketing conditions of commodities and commodity products and byproducts; reports
 
@@ -60,7 +60,7 @@ The Comptroller General of the United States shall conduct reviews and audits of
 
 Section is based on section 8 of Act Sept. 21, 1922, as amended generally by Pub. L. 95–405, §16. Prior to such general amendment, section was comprised of the first paragraph of section 8, and the second, third, and fourth pars. of section 8 were classified to sections 12–1, 12–2, and 12–3 of this title, respectively.
 
-Subsection (h), which required the Commodity Futures Trading Commission to submit an annual reportto Congress detailing the operations of the Commission, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 158 of House Document No. 103–7.
+Subsection (h), which required the Commodity Futures Trading Commission to submit an annual report to Congress detailing the operations of the Commission, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 158 of House Document No. 103–7.
 
 #### Amendments
 
@@ -113,10 +113,6 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 #### Effective Date of 1936 Amendment
 
 Amendment by act June 15, 1936, effective 90 days after June 15, 1936, see section 13 of act June 15, 1936, set out as a note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2, 6f, 6k, 7b–1, 12a, 20 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should refer to the second par. (5) of section 6k.</i>
 

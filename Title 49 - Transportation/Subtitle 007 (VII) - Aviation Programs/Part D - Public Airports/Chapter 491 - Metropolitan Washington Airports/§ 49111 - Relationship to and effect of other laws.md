@@ -130,7 +130,3 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Amendment by Pub. L. 105–225 effective Nov. 20, 1997, see section 7(c)(3) of Pub. L. 105–225, set out as a note under section 49106 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41714, 41718 of this title.
-

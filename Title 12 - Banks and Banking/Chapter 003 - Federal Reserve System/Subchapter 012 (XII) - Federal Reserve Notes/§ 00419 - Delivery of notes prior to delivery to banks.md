@@ -16,7 +16,3 @@ Section is comprised of ninth par. of section 16 of act Dec. 23, 1913. For class
 
 1994—Pub. L. 103–325 amended section generally. Prior to amendment, section read as follows: “When such notes have been prepared, they shall be deposited in the Treasury, or in the designated depositary or mint of the United States nearest the place of business of each Federal reserve bank and shall be held for the use of such bank subject to the order of the Comptroller of the Currency for their delivery, as provided by this chapter.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 348, 420, 421, 467 of this title.
-

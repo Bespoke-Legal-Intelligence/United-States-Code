@@ -48,7 +48,3 @@ Amendment by Pub. L. 96–427 effective Oct. 10, 1980, with the amendment to hav
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8705, 8706, 8707, 8708, 8714a, 8714b, 8714c of this title.
-

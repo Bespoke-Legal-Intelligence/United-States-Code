@@ -76,10 +76,6 @@ Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(b)\], Oct. 30, 2000, 114 
 
 1962—Pub. L. 87–825, §5(b), Oct. 15, 1962, 76 Stat. 950, struck out items 3004 and 3011.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 1315 of this title.
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 (a) In this section—
 
-&emsp;(1) “inventory” means personal property leased or furnished, held for sale or lease, or to be furnished under a contract for service, raw materials, work in process, or materials used or consumed in a business, including farm products such as crops or livestock, held for sale or lease;
+&emsp;(1) “inventory” means personal property leased or furnished, held for sale or lease, or to be furnished under a contract for service, raw materials, work in process, or materials usedor consumed in a business, including farm products such as crops or livestock, held for sale or lease;
 
 &emsp;(2) “new value” means money or money's worth in goods, services, or new credit, or release by a transferee of property previously transferred to such transferee in a transaction that is neither void nor voidable by the debtor or the trustee under any applicable law, including proceeds of such property, but does not include an obligation substituted for an existing obligation;
 
@@ -86,7 +86,7 @@
 
 &emsp;(8) if, in a case filed by an individual debtor whose debts are primarily consumer debts, the aggregate value of all property that constitutes or is affected by such transfer is less than $600.
 
-(d) The trustee may avoid a transfer of an interest in property of the debtor transferred to or for the benefit of a surety to secure reimbursement of such a surety that furnished a bond or other obligation to dissolve a judicial lien that would have been avoidable by the trustee under subsection (b) of this section. The liability of such surety under such bond or obligation shall be discharged to the extent of the value of such property recovered by the trustee or the amount paid to the trustee.
+(d) The trustee may avoid a transfer of an interest in property of the debtor transferred to or for the benefit of a surety to secure reimbursement of such a surety that furnished a bond or other obligation to dissolve a judicial lien that would have been avoidable by the trustee under subsection (b) of this section. The liability ofsuch surety under such bond or obligation shall be discharged to the extent of the value of such property recovered by the trustee or the amount paid to the trustee.
 
 (e)(1) For the purposes of this section—
 
@@ -130,7 +130,7 @@ Section 547(c)(6) represents a modification of a similar provision contained in 
 
 Section 547(e)(1)(B) is adopted from the House bill and Senate amendment without change. It is intended that the simple contract test used in this section will be applied as under section 544(a)(1) not to require a creditor to perfect against a creditor on a simple contract in the event applicable law makes such perfection impossible. For example, a purchaser from a debtor at an improperly noticed bulk sale may take subject to the rights of a creditor on a simple contract of the debtor for 1 year after the bulk sale. Since the purchaser cannot perfect against such a creditor on a simple contract, he should not be held responsible for failing to do the impossible. In the event the debtor goes into bankruptcy within a short time after the bulk sale, the trustee should not be able to use the avoiding powers under section 544(a)(1) or 547 merely because State law has made some transfers of personal property subject to the rights of a creditor on a simple contract to acquire a judicial lien with no opportunity to perfect against such a creditor.
 
-Preferences: The House amendment deletes from the category of transfers on account of antecedent debtswhich may be avoided under the preference rules, section 547(b)(2), the exception in the Senate amendment for taxes owed to governmental authorities. However, for purposes of the “ordinary course” exception to the preference rules contained in section 547(c)(2), the House amendment specifies that the 45-day period referred to in section 547(c)(2)(B) is to begin running, in the case of taxes from the last due date, including extensions, of the return with respect to which the tax payment was made.
+Preferences: The House amendment deletes from the category of transfers on account of antecedent debts which may be avoided under the preference rules, section 547(b)(2), the exception in the Senate amendment for taxes owed to governmental authorities. However, for purposes of the “ordinary course” exception to the preference rules contained in section 547(c)(2), the House amendment specifies that the 45-day period referred to in section 547(c)(2)(B) is to begin running, in the case of taxes from the last due date, including extensions, of the return with respect to which the tax payment was made.
 
 #### senate report no. 95–989
 
@@ -166,7 +166,7 @@ Subsection (d), derived from section 67a of the Bankruptcy Act \[section 107(a) 
 
 Subsection (e) determines when a transfer is made for the purposes of the preference section. Paragraph (1) defines when a transfer is perfected. For real property, a transfer is perfected when it is valid against a bona fide purchaser. For personal property and fixtures, a transfer is perfected when it is valid against a creditor on a simple contract that obtains a judicial lien after the transfer is perfected. “Simple contract” as used here is derived from Bankruptcy Act §60a(4) \[section 96(a)(4) of former title 11\]. Paragraph (2) specifies that a transfer is made when it takes effect between the transferor and the transferee if it is perfected at or within 10 days after that time. Otherwise, it is made when the transfer is perfected. If it is not perfected before the commencement of the case, it is made immediately before the commencement of the case. Paragraph (3) specifies that a transfer is not made until the debtor has acquired rights in the property transferred. This provision, more than any other in the section, overrules <i>DuBay</i> and <i>Grain Merchants</i>, and in combination with subsection (b)(2), overrules <i>In re King-Porter Co</i>., 446 F.2d 722 (5th Cir. 1971).
 
-Subsection (e) is designed to reach the different results under the 1962 version of Article 9 of the U.C.C. and under the 1972 version because different actions arerequired under each version in order to make a security agreement effective between the parties.
+Subsection (e) is designed to reach the different results under the 1962 version of Article 9 of the U.C.C. and under the 1972 version because different actions are required under each version in order to make a security agreement effective between the parties.
 
 Subsection (f) creates a presumption of insolvency for the 90 days preceding the bankruptcy case. The presumption is as defined in Rule 301 of the Federal Rules of Evidence, made applicable in bankruptcy cases by sections 224 and 225 of the bill. The presumption requires the party against whom the presumption exists to come forward with some evidence to rebut the presumption, but the burden of proof remains on the party in whose favor the presumption exists.
 
@@ -223,8 +223,4 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 109, 303, 349, 362, 502, 522, 546, 548, 550, 551, 552, 749, 764, 901, 926 of this title.
 

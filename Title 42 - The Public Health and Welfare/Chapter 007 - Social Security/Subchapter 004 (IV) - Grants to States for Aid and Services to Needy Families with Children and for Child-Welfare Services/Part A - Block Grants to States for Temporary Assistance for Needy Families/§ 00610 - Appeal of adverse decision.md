@@ -12,7 +12,7 @@ Within 5 days after the date the Secretary takes any adverse action under this p
 
 #### (2) Procedural rules
 
-&emsp;The Board shall consider an appeal filed by a State under paragraph (1) on the basis of such documentation as the State may submit and as the Board may require to support the final decision of the Board. In deciding whether to uphold an adverse action or any portion of such an action, the Board shall conduct a thorough review of the issues and take into account all relevant evidence. The Board shall make a final determination with respect to anappeal filed under paragraph (1) not less than 60 days after the date the appeal is filed.
+&emsp;The Board shall consider an appeal filed by a State under paragraph (1) on the basis of such documentation as the State may submit and as the Board may require to support the final decision of the Board. In deciding whether to uphold an adverse action or any portion of such an action, the Board shall conduct a thorough review of the issues and take into account all relevant evidence. The Board shall make a final determination with respect to an appeal filed under paragraph (1) not less than 60 days after the date the appeal is filed.
 
 #### (c) Judicial review of adverse decision
 

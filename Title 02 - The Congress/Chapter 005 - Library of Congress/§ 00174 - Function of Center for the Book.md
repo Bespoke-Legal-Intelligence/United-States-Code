@@ -4,7 +4,3 @@ The Librarian through the Center shall stimulate public interest and research in
 
 (Pub. L. 95–129, §4, Oct. 13, 1977, 91 Stat. 1152.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 171, 172 of this title.
-

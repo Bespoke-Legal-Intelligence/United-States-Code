@@ -54,11 +54,7 @@ The Memorandum of Agreement under subsection (a) of this section shall be submit
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-Section 2010 of this title, referred to in subsec. (b), was in the original a reference to section 1130 of the Education Amendments of 1978, Pub. L. 95–561. Section 1130 of Pub. L. 95–561 was omitted in the general amendment of chapter 22 (§2001 et seq.) of this title by Pub.L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979. Pub. L. 103–382 enacted a new section 1130 of Pub. L. 95–561, relating to uniform direct funding and support, which is classified to section 2010 of this title. Provisions relating to Indian control of Indian education are now contained in section 2011 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1665, 1665a, 2403, 2412, 2413, 2414a, 2431, 2433, 2441, 2452 of this title.
+Section 2010 of this title, referred to in subsec. (b), was in the original a reference to section 1130 of the Education Amendments of 1978, Pub. L. 95–561. Section 1130 of Pub. L. 95–561 was omitted in the general amendment of chapter 22 (§2001 et seq.) of this title by Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979. Pub. L. 103–382 enacted a new section 1130 of Pub. L. 95–561, relating to uniform direct funding and support, which is classified to section 2010 of this title. Provisions relating to Indian control of Indian education are now contained in section 2011 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service, or a position of like seniority, status and pay, the duties of which the person is qualified to perform; or
 
-&emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, or a position of like seniority, status and pay, the duties of which the person is qualified to perform, only if the person is not qualified to perform the duties of a position referred to in subparagraph (A) after reasonable efforts by the employer to qualify the person.
+&emsp;&emsp;(B) in the position of employment in which the person was employed on the date of thecommencement of the service in the uniformed services, or a position of like seniority, status and pay, the duties of which the person is qualified to perform, only if the person is not qualified to perform the duties of a position referred to in subparagraph (A) after reasonable efforts by the employer to qualify the person.
 
 &emsp;(3) In the case of a person who has a disability incurred in, or aggravated during, such service, and who (after reasonable efforts by the employer to accommodate the disability) is not qualified due to such disability to be employed in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service—
 
@@ -47,8 +47,4 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 #### Effective Date
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that subsec. (a)(3) of this section applicable to reemployments initiated on or after Aug. 1, 1990, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4312, 4314, 4315, 4319 of this title; title 2 section 1316; title 3 section 416.
 

@@ -14,7 +14,3 @@ Any tribal ordinance or custom heretofore or hereafter adopted by an Indian trib
 
 (Pub. L. 90–284, title IV, §402, Apr. 11, 1968, 82 Stat. 79.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 736, 1300b–15, 1300g–4 of this title; title 42 section 654.
-

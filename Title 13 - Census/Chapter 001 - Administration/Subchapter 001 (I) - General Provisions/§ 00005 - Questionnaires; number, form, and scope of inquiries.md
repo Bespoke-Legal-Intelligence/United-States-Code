@@ -24,7 +24,7 @@ For remainder of sections 111, 123, 204, 216, and 251 of title 13, U.S.C., 1952 
 
 Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as a note under section 1 of this title.
 
-#### Section Referred to in Other Sections
+#### Restriction on Collection of Census Data on Race
 
-This section is referred to in section 307 of this title.
+Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2876, provided in part: “That none of the funds provided in this or any other Act for any fiscal year may be used for the collection of Census data on race identification that does not include ‘some other race’ as a catagory \[sic\].”
 

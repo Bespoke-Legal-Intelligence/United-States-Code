@@ -6,7 +6,7 @@ The Secretary of Energy shall conduct a study to determine the existence of any 
 
 #### (b) Material demand and pollution effect; impact statement
 
-The Secretary of Energy shall conduct a continuing assessment of the long-range material demand and pollution effects which may result from or in connection with the electrification of urban traffic. Such assessment shall include a statement of the Secretary of Energy's current findings in each report submitted under section 2513 <sup>1</sup> of this title. Any environmental impact statement which may be filed under a Federal law with respect to research, development, or demonstration activities under this chapter shall include reference to the matters which are subject to assessment under this subsection.
+The Secretary of Energy shall conduct a continuing assessment of the long-range material demand and pollution effects which may result from or in connection with the electrification of urban traffic. Such assessment shall include a statement of the Secretary of Energy's current findings in each report submitted under section 2513 <sup>1</sup> of this title. Any environmental impact statement which may be filed under a Federal law with respect to research, development, or demonstration activities under this chaptershall include reference to the matters which are subject to assessment under this subsection.
 
 #### (c) Incentives to encourage utilization; inclusion of electric vehicles in calculation of average fuel economy; evaluation program; annual report; final report and recommendations to Congress on January 1, 1987
 
@@ -54,7 +54,7 @@ January 7, 1980, referred to in subsec. (c)(2), was in the original “enactment
 
 A part of par. (2) of section 2512(c) of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976, as added by Pub. L. 96–185, has not been included in the text of subsec. (c)(2) of this section. The omitted provision consists of directory language for an amendment of section 2003 of this title and the indicated amendment has been executed to the text of that section as directed.
 
-In subsec. (d), “Secretary of Transportation” substituted for “Secretary” in two places for clarity, see Codification note set out under section 2502 of this title.
+In subsec. (d), “Secretary of Transportation” substituted for “Secretary” in two places for clarity, seeCodification note set out under section 2502 of this title.
 
 #### Amendments
 
@@ -67,10 +67,6 @@ In subsec. (d), “Secretary of Transportation” substituted for “Secretary�
 #### Electric Vehicles
 
 Pub. L. 100–494, §7, Oct. 14, 1988, 102 Stat. 2452, directed Secretary of Transportation to study whether regulations should be amended or promulgated to stimulate production and introduction of electric and solar-powered vehicles into commerce and to report to Congress on results of study, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2503 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

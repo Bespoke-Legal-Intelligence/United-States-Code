@@ -14,7 +14,3 @@ A prior section 399I of act July 1, 1944, was renumbered section 399C and is cla
 
 Another prior section 399I of act July 1, 1944, was renumbered section 399J and is classified to section 280f–2 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 280f of this title.
-

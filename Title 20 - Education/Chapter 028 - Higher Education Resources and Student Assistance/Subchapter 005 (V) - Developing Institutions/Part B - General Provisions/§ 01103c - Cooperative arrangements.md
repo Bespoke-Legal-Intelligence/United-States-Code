@@ -22,7 +22,3 @@ Another prior section 1103c, Pub. L. 89–329, title V, §514, as added Pub. L. 
 
 A prior section 514 of Pub. L. 89–329 was classified to section 1104 of this title prior to repeal by Pub. L. 97–35.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1101c of this title.
-

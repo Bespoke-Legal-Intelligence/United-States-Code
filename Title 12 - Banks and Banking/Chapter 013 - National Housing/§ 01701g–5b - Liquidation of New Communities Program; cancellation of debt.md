@@ -30,5 +30,5 @@ The Department of Housing and Urban Development-Independent Agencies Appropriati
 
 #### Codification
 
-Section was enacted as part of the Housing and Urban-Rural Recovery Act of 1983 and also as part ofthe Domestic Housing and International Recovery and Financial Stability Act, and not as part of the National Housing Act which comprises this chapter.
+Section was enacted as part of the Housing and Urban-Rural Recovery Act of 1983 and also as part of the Domestic Housing and International Recovery and Financial Stability Act, and not as part of the National Housing Act which comprises this chapter.
 

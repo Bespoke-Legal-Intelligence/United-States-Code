@@ -12,7 +12,7 @@ General Exceptions.—This section through <sup>1</sup> 126 of this title do no
 
 &emsp;(2) any tax, charge, or fee that is applied to an equitably apportioned amount that is not determined on a transactional basis;
 
-&emsp;(3) any tax, charge, or fee that represents compensation for a mobile telecommunications service provider's use of public rights of way or other public property, provided that such tax, charge, or fee is not levied by the taxing jurisdiction as a fixed charge for each customer or measured by gross amounts charged to customers for mobile telecommunication services;
+&emsp;(3) any tax, charge, or fee that represents compensation for a mobile telecommunications service provider's use of public rights of way or other public property, provided that such tax, charge, or fee is not levied by the taxing jurisdiction as a fixed charge for each customer or measured by gross amountscharged to customers for mobile telecommunication services;
 
 &emsp;(4) any generally applicable business and occupation tax that is imposed by a State, is applied to gross receipts or gross proceeds, is the legal liability of the home service provider, and that statutorily allows the home service provider to elect to use the sourcing method required in this section through <sup>1</sup> 126 of this title;
 
@@ -49,10 +49,6 @@ Effective Date.—Except as provided in subsection (b), this Act \[enacting this
 “(b)
 
 Application of Act.—The amendment made by this Act \[enacting this section and sections 117 to 126 of this title\] shall apply only to customer bills issued after the first day of the first month beginning more than 2 years after the date of the enactment of this Act \[July 28, 2000\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 117, 118, 123, 124, 125, 126 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
 

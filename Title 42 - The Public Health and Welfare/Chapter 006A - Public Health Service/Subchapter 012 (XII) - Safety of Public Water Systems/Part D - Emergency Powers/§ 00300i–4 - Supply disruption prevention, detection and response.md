@@ -2,11 +2,11 @@
 
 #### (a) Disruption of supply or safety
 
-The Administrator, in coordination with the appropriate departments and agencies of the Federal Government, shall review (or enter into contracts or cooperative agreements to provide for a review of) methods and means by which terrorists or other individuals or groups could disrupt the supply of safe drinking water or take other actions against water collection, pretreatment, treatment, storage and distribution facilities which could render such water significantly less safe for human consumption, including each of the following:
+The Administrator, in coordination with the appropriate departments and agencies of theFederal Government, shall review (or enter into contracts or cooperative agreements to provide for a review of) methods and means by which terrorists or other individuals or groups could disrupt the supply of safe drinking water or take other actions against water collection, pretreatment, treatment, storage and distribution facilities which could render such water significantly less safe for human consumption, including each of the following:
 
 &emsp;(1) Methods and means by which pipes and other constructed conveyances utilized in public water systems could be destroyed or otherwise prevented from providing adequate supplies of drinking water meeting applicable public health standards.
 
-&emsp;(2) Methods and means by which collection, pretreatment, treatment, storage and distribution facilities utilized or used in connection with public water systems and collection and pretreatment storage facilities used in connection with public water systems could bedestroyed or otherwise prevented from providing adequate supplies of drinking water meeting applicable public health standards.
+&emsp;(2) Methods and means by which collection, pretreatment, treatment, storage and distribution facilities utilized or used in connection with public water systems and collection and pretreatment storage facilities used in connection with public water systems could be destroyed or otherwise prevented from providing adequate supplies of drinking water meeting applicable public health standards.
 
 &emsp;(3) Methods and means by which pipes, constructed conveyances, collection, pretreatment, treatment, storage and distribution systems that are utilized in connection with public water systems could be altered or affected so as to be subject to cross-contamination of drinking water supplies.
 
@@ -35,8 +35,4 @@ As soon as practicable after reviews carried out under this section or section 3
 There are authorized to be appropriated to carry out this section and section 300i–3 of this title not more than $15,000,000 for the fiscal year 2002 and such sums as may be necessary for the fiscal years 2003 through 2005.
 
 (July 1, 1944, ch. 373, title XIV, §1435, as added Pub. L. 107–188, title IV, §402, June 12, 2002, 116 Stat. 686.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300i–3 of this title.
 

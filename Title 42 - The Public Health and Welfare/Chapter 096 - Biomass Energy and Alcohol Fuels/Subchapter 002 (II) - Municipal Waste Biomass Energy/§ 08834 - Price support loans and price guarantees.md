@@ -74,7 +74,3 @@ For purposes of this section—
 
 (Pub. L. 96–294, title II, §234, June 30, 1980, 94 Stat. 699.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8835, 8836 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—EMERGENCY LIVESTOCK FEED ASSISTANCE ACT OF 1988
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1427, 7301, 7992 of this title.
-
 
 ---
 

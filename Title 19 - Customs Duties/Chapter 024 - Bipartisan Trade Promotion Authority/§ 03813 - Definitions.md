@@ -8,15 +8,15 @@ In this chapter:
 
 #### (2) Agreement on Safeguards
 
-&emsp;The term “Agreement on Safeguards <sup>1</sup> means the agreement referred to in section 3511(d)(12) <sup>2</sup> of this title.
+&emsp;The term “Agreement on Safeguards <sup>1</sup> means the agreement referred to in section 3511(d)(13) of this title.
 
-#### (2) <sup>3</sup> Agreement on Subsidies and Countervailing Measures
+#### (3) Agreement on Subsidies and Countervailing Measures
 
-&emsp;The term “Agreement on Subsidies and Countervailing Measures” means the agreement referred to in section 3511(d)(13) <sup>4</sup> of this title.
+&emsp;The term “Agreement on Subsidies and Countervailing Measures” means the agreement referred to in section 3511(d)(12) of this title.
 
 #### (4) Antidumping Agreement
 
-&emsp;The term “Antidumping Agreement“ <sup>5</sup> means the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade 1994 referred to in section 3511(d)(7) of this title.
+&emsp;The term “Antidumping Agreement“ <sup>2</sup> means the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade 1994 referred to in section 3511(d)(7) of this title.
 
 #### (5) Appellate Body
 
@@ -82,9 +82,9 @@ In this chapter:
 
 &emsp;The term “WTO member” has the meaning given that term in section 3501(10) of this title.
 
-(Pub. L. 107–210, div. B, title XXI, §2113, Aug. 6, 2002, 116 Stat. 1021.)
+(Pub. L. 107–210, div. B, title XXI, §2113, Aug. 6, 2002, 116 Stat. 1021; Pub. L. 108–429, title II, §2004(a)(19), Dec. 3, 2004, 118 Stat. 2591.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 3802 of this title.
+2004—Pars. (2), (3). Pub. L. 108–429 redesignated second par. (2), relating to Agreement on Subsidies and Countervailing Measures, as (3), substituted “3511(d)(12)” for “3511(d)(13)”, and in par. (2) relating to Agreement on Safeguards, substituted “3511(d)(13)” for “3511(d)(12)”.
 

@@ -26,7 +26,7 @@ Before prescribing any final test procedures under this section, the Secretary s
 
 &emsp;(1) publish proposed test procedures in the Federal Register; and
 
-&emsp;(2) afford interested persons an opportunity (of not less than 45 days’ duration) to present oral and written data, views, and arguments on the proposed test procedures.
+&emsp;(2) afford interested persons an opportunity (of not less than 45 days’ duration) to presentoral and written data, views, and arguments on the proposed test procedures.
 
 #### (c) Reevaluations
 
@@ -36,7 +36,7 @@ Before prescribing any final test procedures under this section, the Secretary s
 
 #### (d) Prohibited representations
 
-(1) Effective 180 days (or, in the case of small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks, 360 days) after a test procedure rule applicable to any covered equipment is prescribed under thissection, no manufacturer, distributor, retailer, or private labeler may make any representation—
+(1) Effective 180 days (or, in the case of small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks, 360 days) after a test procedure rule applicable to any covered equipment is prescribed under this section, no manufacturer, distributor, retailer, or private labeler may make any representation—
 
 &emsp;(A) in writing (including any representation on a label), or
 
@@ -63,8 +63,4 @@ Subsecs. (c), (d). Pub. L. 102–486, §122(f)(2), redesignated subsec. (d), rel
 Subsec. (d)(1). Pub. L. 102–486, §122(b)(2), inserted “(or, in the case of small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks, 360 days)” after “180 days”.
 
 1988—Subsec. (e). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6311, 6315, 6316 of this title.
 

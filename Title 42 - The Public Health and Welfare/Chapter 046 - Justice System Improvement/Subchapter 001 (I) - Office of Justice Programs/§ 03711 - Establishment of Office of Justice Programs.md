@@ -20,9 +20,13 @@ Section 609AA of Pub. L. 98–473 provided that:
 
 “(a) Except as provided in subsection (b), this division and the amendments made by this title \[probably means division, see Short Title of 1984 Amendment note below\] shall take effect on the date of the enactment of this joint resolution \[Oct. 12, 1984\] or October 1, 1984, whichever is later.
 
-“(b)(1) The amendment made by section 609F \[amending sections 3796 to 3796c of this title\] shall take effect on October 1, 1984, and shall not apply with respect to injuries sustained before October 1, 1984.
+“(b)(1) The amendment made by section 609F \[amending sections 3796 to 3796c of this title\] shall take effecton October 1, 1984, and shall not apply with respect to injuries sustained before October 1, 1984.
 
 “(2) Section 609Z \[repealing section 204 of Pub. L. 98–411, which had amended sections 3796 to 3796b of this title and enacted provisions set out as a note under section 3796 of this title\] shall take effect on October 1, 1984.”
+
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–414, §1, Oct. 30, 2004, 118 Stat. 2327, provided that: “This Act \[enacting subchapter XIX of this chapter and provisions set out as notes under section 3797aa of this title\] may be cited as the ‘Mentally Ill Offender Treatment and Crime Reduction Act of 2004’.”
 
 #### Short Title of 2003 Amendment
 
@@ -48,7 +52,7 @@ Pub. L. 106–561, §1, Dec. 21, 2000, 114 Stat. 2787, provided that: “This Ac
 
 Pub. L. 106–517, §1, Nov. 13, 2000, 114 Stat. 2407, provided that: “This Act \[amending sections 3793 and 3796<i>ll</i> to 3796<i>ll–2</i> of this title and enacting provisions set out as notes under sections 3796<i>ll</i> and 3796<i>ll</i>–2 of this title\] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 2000’.”
 
-Pub. L. 106–515, §1, Nov. 13, 2000, 114 Stat. 2399, provided that: “This Act \[enacting subchapter XII–J of this chapter, amending section 3793 of this title, andenacting provisions set out as a note under section 3796ii of this title\] may be cited as the ‘America's Law Enforcement and Mental Health Project’.”
+Pub. L. 106–515, §1, Nov. 13, 2000, 114 Stat. 2399, provided that: “This Act \[enacting subchapter XII–J of this chapter, amending section 3793 of this title, and enacting provisions set out as a note under section 3796ii of this title\] may be cited as the ‘America's Law Enforcement and Mental Health Project’.”
 
 Pub. L. 106–177, title I, §101, Mar. 10, 2000, 114 Stat. 35, provided that: “This title \[amending sections 3751, 10601, and 14601 of this title and enacting provisions set out as a note under section 10601 of this title\] may be cited as the ‘Child Abuse Prevention and Enforcement Act’.”
 
@@ -80,7 +84,7 @@ Section 601 of Pub. L. 98–473 provided that: “This division \[division I (§
 
 #### Short Title of 1979 Amendment
 
-Section 1 of Pub. L. 96–157 provided: “That this Act \[enacting this chapter, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, section 1761 of Title 18, Crimes and Criminal Procedure, and section 35 of Title 41, Public Contracts, and enacting provisions set out as a note under section 1761 of Title 18\] may be cited as the ‘Justice System Improvement Act of 1979’.”
+Section 1 of Pub. L. 96–157 provided: “That this Act \[enacting this chapter, amending sections 5314 and 5315of Title 5, Government Organization and Employees, section 1761 of Title 18, Crimes and Criminal Procedure, and section 35 of Title 41, Public Contracts, and enacting provisions set out as a note under section 1761 of Title 18\] may be cited as the ‘Justice System Improvement Act of 1979’.”
 
 #### Short Title of 1976 Amendments
 
@@ -102,7 +106,7 @@ Section 1 of Pub. L. 90–351, June 19, 1968, 82 Stat. 197, provided: “That th
 
 #### Separability
 
-Section 1601 of Pub. L. 90–351, title XI, June 19, 1968, 82 Stat. 239, provided that: “If the provisions of anypart of this Act \[see Short Title note above\] or any amendments made thereby or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby.” \[Another section 1601 of Pub. L. 90–351 is classified to section 3796cc of this title.\]
+Section 1601 of Pub. L. 90–351, title XI, June 19, 1968, 82 Stat. 239, provided that: “If the provisions of any part of this Act \[see Short Title note above\] or any amendments made thereby or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby.” \[Another section 1601 of Pub. L. 90–351 is classified to section 3796cc of this title.\]
 
 #### References in Other Laws
 
@@ -111,8 +115,4 @@ Section 609I of Pub. L. 98–473 provided that:
 “(a) Any reference to the Law Enforcement Assistance Administration, or to the Administrator of the Law Enforcement Assistance Administration, in any law other than this Act \[see Short Title of 1984 Amendment note set out above\] and the Omnibus Crime Control and Safe Streets Act of 1968 \[see Short Title note set out above\], applicable to activities, functions, powers, and duties that after the date of the enactment of this Act \[Oct. 12, 1984\] are carried out by the Bureau of Justice Assistance shall be deemed to be a reference to the Bureau of Justice Assistance, or to the Director of the Bureau of Justice Assistance, as the case may be.
 
 “(b) Any reference to the Office of Justice Assistance, Research, and Statistics, or to the Director of the Office of Justice Assistance, Research, and Statistics, in any law other than this Act and the Omnibus Crime Control and Safe Streets Act of 1968, applicable to activities, functions, powers, and duties that after the date of the enactment of this Act are carried out by the Office of Justice Programs, the Bureau of Justice Assistance, the Bureau of Justice Statistics, the National Institute of Justice, or the Office of Juvenile Justice Delinquency Prevention shall be deemed to be a reference to the Office of Justice Programs, the Bureau of Justice Assistance, the Bureau of Justice Statistics, National Institute of Justice, or Office of Juvenile Justice Delinquency Prevention, or to the Director of the Office of Justice Programs, the Director of the Bureau of Justice Assistance, the Director of the Bureau of Justice Statistics, the Director of the National Institute of Justice, or the Administrator of the Office of Juvenile Justice and Delinquency Prevention, as the case may be.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5603 of this title.
 

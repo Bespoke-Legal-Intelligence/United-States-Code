@@ -22,7 +22,7 @@
 
 #### (2) Exclusions from compensatory damages
 
-&emsp;Compensatory damages awarded under this section shall not include backpay, interest on backpay, or any other type of relief authorized under section 706(g) of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–5(g)\].
+&emsp;Compensatory damages awarded under this section shall not include backpay, interest on backpay, or any other type of relief authorizedunder section 706(g) of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–5(g)\].
 
 #### (3) Limitations
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) in the case of a respondent who has more than 200 and fewer than 501 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $200,000; and
 
-&emsp;&emsp;(D) in the case of a respondent who has more than 500 employees in each of 20 ormore calendar weeks in the current or preceding calendar year, $300,000.
+&emsp;&emsp;(D) in the case of a respondent who has more than 500 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $300,000.
 
 #### (4) Construction
 
@@ -75,8 +75,4 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (d)(1)(B) is
 #### Effective Date
 
 Section effective Nov. 21, 1991, except as otherwise provided, see section 402 of Pub. L. 102–166, set out as an Effective Date of 1991 Amendment note under section 1981 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1988, 2000e–16b of this title; title 2 section 1311; title 3 section 411.
 

@@ -4,7 +4,3 @@ Any function, duty, or responsibility which this chapter specifies be carried ou
 
 (Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1948.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1352 of this title.
-

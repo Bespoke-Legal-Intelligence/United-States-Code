@@ -20,7 +20,7 @@ The interest on, and the proceeds from the sale or redemption of, any obligation
 
 #### Codification
 
-In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L.97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
@@ -31,8 +31,4 @@ In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liber
 Subsec. (c). Pub. L. 102–190, §1089(2)(B)(ii), struck out “, and such special obligations may be redeemed at par plus accrued interest” after “market price”.
 
 Pub. L. 102–190, §1089(2)(B)(i), which directed striking out of “(exceptional special obligations issued exclusively to the fund)”, could not be executed because those words did not appear. See 1992 Amendment note above.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4702 of this title.
 

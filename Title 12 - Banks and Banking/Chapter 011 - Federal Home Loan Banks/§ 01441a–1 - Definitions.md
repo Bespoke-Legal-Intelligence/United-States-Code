@@ -38,7 +38,3 @@ The Housing and Urban Development Act of 1968, referred to in par. (2), is Pub. 
 
 Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, and not as part of the Federal Home Loan Bank Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1441a, 1821 of this title.
-

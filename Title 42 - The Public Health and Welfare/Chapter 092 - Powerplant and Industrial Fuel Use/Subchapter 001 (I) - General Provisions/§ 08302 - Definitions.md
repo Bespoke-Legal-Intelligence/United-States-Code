@@ -88,7 +88,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(ii) any pump or compressor used solely in connection with the production, gathering, transmission, storage, or distribution of gases or liquids, but only if there is certification to the Secretary of such use (in accordance with rules prescribed by the Secretary).
 
-&emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unitwhich has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hour and the exclusion of which for purposes of such clause is determined by the Secretary, by rule to be appropriate.
+&emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unit which has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hour and the exclusion of which for purposes of such clause is determined by the Secretary, by rule to be appropriate.
 
 &emsp;(11) The term “new major fuel-burning installation” means—
 
@@ -100,7 +100,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) imposing substantial financial penalty (as determined under rules prescribed by the Secretary).
 
-&emsp;(12)(A) The term “existing major fuel-burning installation” means any installation which is not a new major fuel-burning installation.
+&emsp;(12)(A) The term “existing major fuel-burning installation” means any installationwhich is not a new major fuel-burning installation.
 
 &emsp;(B) Such term does not include a major fuel-burning installation for the extraction of mineral resources located—
 
@@ -247,10 +247,6 @@ Subsec. (b)(3). Pub. L. 100–42, §1(c)(2)(H), struck out par. (3) which read a
 #### Transfer of Functions
 
 For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 717z.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

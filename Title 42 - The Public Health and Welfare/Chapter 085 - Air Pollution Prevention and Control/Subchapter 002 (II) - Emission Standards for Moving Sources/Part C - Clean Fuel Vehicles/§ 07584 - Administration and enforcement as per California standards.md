@@ -10,7 +10,3 @@ Where the numerical clean-fuel vehicle standards applicable under this part to v
 
 (July 14, 1955, ch. 360, title II, §244, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2519.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7582, 7587 of this title.
-

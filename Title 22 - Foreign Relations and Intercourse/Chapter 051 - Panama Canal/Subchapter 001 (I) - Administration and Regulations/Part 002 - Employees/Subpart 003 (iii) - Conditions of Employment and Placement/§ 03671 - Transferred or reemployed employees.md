@@ -66,7 +66,7 @@ Any individual described in subsection (a)(1)(B) of this section who would have 
 
 #### References in Text
 
-This Act, referred to in subsec. (b), is Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+This Act, referred to in subsec. (b), is Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama CanalAct of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Codification
 
@@ -100,9 +100,5 @@ Subsec. (a)(2)(F) to (H). Pub. L. 105–261 struck out subpars. (F) to (H) which
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment madeby section 3507(a) striking out subsec. (a)(2)(A), (B), and (F) to (H) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a)(2)(A), (B), and (F) to (H) of this section is terminated.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3691 of this title; title 5 section 8348.
+Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out subsec. (a)(2)(A), (B), and (F) to (H) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a)(2)(A), (B), and (F) to (H) of this section is terminated.
 

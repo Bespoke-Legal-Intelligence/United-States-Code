@@ -8,7 +8,3 @@ The following area is excluded from the park: That portion of section 8 lying so
 
 Section was not enacted as part of act Apr. 25, 1947, ch. 41, 61 Stat. 52, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 241e of this title.
-

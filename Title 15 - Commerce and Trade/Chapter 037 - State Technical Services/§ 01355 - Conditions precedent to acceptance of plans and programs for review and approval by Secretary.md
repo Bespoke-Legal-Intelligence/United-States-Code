@@ -18,7 +18,3 @@ The Secretary shall not accept the five-year plan of a State for review and appr
 
 (Pub. L. 89–182, §5, Sept. 14, 1965, 79 Stat. 681.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1356, 1357 of this title.
-

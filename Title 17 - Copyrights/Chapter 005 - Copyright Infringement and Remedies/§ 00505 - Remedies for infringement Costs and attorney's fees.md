@@ -10,7 +10,3 @@ I74house report no. 94–1476
 
 Under section 505 the awarding of costs and attorney's fees are left to the court's discretion, and the section also makes clear that neither costs nor attorney's fees can be awarded to or against “the United States or an officer thereof.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 109, 111, 115, 119, 122, 411, 412, 510, 511, 1101 of this title.
-

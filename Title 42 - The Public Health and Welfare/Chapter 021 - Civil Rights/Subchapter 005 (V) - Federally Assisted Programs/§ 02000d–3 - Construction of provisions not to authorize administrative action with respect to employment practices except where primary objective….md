@@ -4,7 +4,3 @@ Nothing contained in this subchapter shall be construed to authorize action unde
 
 (Pub. L. 88–352, title VI, §604, July 2, 1964, 78 Stat. 253.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 39 section 410.
-

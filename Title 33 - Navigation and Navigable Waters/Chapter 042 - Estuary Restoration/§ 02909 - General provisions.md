@@ -24,7 +24,7 @@ In consultation with appropriate Federal and non-Federal public entities, the Se
 
 #### (1) In general
 
-&emsp;Not later than 180 days after November 7, 2000, the Administrator of the Environmental Protection Agency, with the participation of the estuarine scientific community, shall begin a 2-year study on the efficacy of bioremediation products.
+&emsp;Not later than 180 days after November 7, 2000, the Administrator of the Environmental Protection Agency, with the participation ofthe estuarine scientific community, shall begin a 2-year study on the efficacy of bioremediation products.
 
 #### (2) Requirements
 

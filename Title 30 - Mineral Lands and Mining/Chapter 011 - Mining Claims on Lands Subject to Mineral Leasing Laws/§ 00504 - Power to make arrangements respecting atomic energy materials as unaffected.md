@@ -12,7 +12,3 @@ Section 5(b)(1) of the Atomic Energy Act of 1946, as amended, referred to in tex
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 2098.
-

@@ -8,7 +8,7 @@
 
 #### Codification
 
-Another section 312 of Pub. L. 85–568 is classified to section 2459f of this title.
+Another section 312 of Pub. L. 85–568 was renumbered section 313 and is classified to section 2459f of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “expendable”.</i>
 

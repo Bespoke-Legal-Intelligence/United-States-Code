@@ -8,7 +8,7 @@ The Secretaries, through the coordinating group, shall conduct, within twelve mo
 
 &emsp;(2) identify and list relevant current and pending Federal regulations restricting the development of commercial aquaculture operations;
 
-&emsp;(3) identify and list relevant current State regulations restricting the development of commercial aquaculture operations in five States selected randomly in five separate geographic regions of the United States;
+&emsp;(3) identify and list relevant current State regulations restricting the development of commercial aquaculture operations in fiveStates selected randomly in five separate geographic regions of the United States;
 
 &emsp;(4) conduct case studies of ten commercial aquaculture operations in the United States representing a wide range of marine and fresh water species to determine the practical effects of regulatory restrictions on aquaculture; and
 

@@ -138,7 +138,3 @@
 
 Part G of title X before January 8, 2002, referred to in subsec. (d)(2), means part G of title X of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3841, which was classified generally to part G (§8161 et seq.) of subchapter X of this chapter, prior to repeal by Pub. L. 107–110, title X, §1011(5)(A), Jan. 8, 2002, 115 Stat. 1986.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6302 of this title.
-

@@ -12,7 +12,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;(C) contains assurances that the State—
 
-&emsp;&emsp;(i) after the end of each of the 1st 4 fiscal years covered by a set of goals, will perform an interim review of progress toward accomplishment of the goals, and on the basis ofthe interim review will revise the statement of goals in the plan, if necessary, to reflect changed circumstances; and
+&emsp;&emsp;(i) after the end of each of the 1st 4 fiscal years covered by a set of goals, will perform an interim review of progress toward accomplishment of the goals, and on the basis of the interim review will revise the statement of goals in the plan, if necessary, to reflect changed circumstances; and
 
 &emsp;&emsp;(ii) after the end of the last fiscal year covered by a set of goals, will perform a final review of progress toward accomplishment of the goals, and on the basis of the final review (I) will prepare, transmit to the Secretary, and make available to the public a final report on progress toward accomplishment of the goals, and (II) will develop (in consultation with the entities required to be consulted pursuant to subsection (b) of this section) and add to the plan a statement of the goals intended to be accomplished by the end of the 5th succeeding fiscal year;
 
@@ -44,7 +44,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;(8) provides that the State agency will furnish such reports, containing such information, and participate in such evaluations, as the Secretary may require; and
 
-&emsp;(9) contains assurances that in administering and conducting service programs under the plan, the safety of the children to be served shall be of paramount concern.
+&emsp;(9) contains assurances that in administering and conducting service programs under theplan, the safety of the children to be served shall be of paramount concern.
 
 #### (b) Approval of plans
 
@@ -83,8 +83,4 @@ Subsec. (b)(1). Pub. L. 105–89, §305(b)(1)(B), substituted “, family suppo
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 629c, 629d, 629f of this title.
 

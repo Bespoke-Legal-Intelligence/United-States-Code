@@ -8,7 +8,3 @@ It is the policy of the United States to provide for the exploration, investigat
 
 1960—Pub. L. 86–624 substituted “the United States and its island possessions” for “the Territories and island possessions of the United States”, and struck out “Territory of Hawaii and” before “Pacific island possessions”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 758b, 758d of this title.
-

@@ -4,7 +4,3 @@ To carry out the purposes of this subchapter there is hereby authorized to be ap
 
 (Aug. 11, 1939, ch. 717, §12, as added Oct. 14, 1940, ch. 861, 54 Stat. 1125.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 590y, 590z–1, 590z–2, 590z–3, 590z–7 of this title.
-

@@ -68,7 +68,7 @@ In general.—Before the expiration of the 2-year period for which the pilot pro
 
 &emsp;(2)
 
-Obtaining necessary data.—The Administrator may require participating air carriers and airports to provide data necessary to evaluate the pilot program's impact.
+Obtaining necessary data.—The Administrator may require participating air carriersand airports to provide data necessary to evaluate the pilot program's impact.
 
 (k)
 

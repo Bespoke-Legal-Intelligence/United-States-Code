@@ -128,10 +128,6 @@ Section 411(f)(10)(C)(iii) of Pub. L. 100–360 provided that: “The Amendments
 
 Section 4052(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting this section and amending section 254<i>o</i> of this title\] shall be effective on the date of the enactment of this Act \[Dec. 22, 1987\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 254<i>o</i>, 292f of this title; title 25 section 1616a.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “individual's”.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

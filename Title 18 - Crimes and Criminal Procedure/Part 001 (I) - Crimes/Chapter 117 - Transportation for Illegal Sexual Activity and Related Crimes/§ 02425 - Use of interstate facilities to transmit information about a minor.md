@@ -4,7 +4,3 @@ Whoever, using the mail or any facility or means of interstate or foreign commer
 
 (Added Pub. L. 105–314, title I, §101(a), Oct. 30, 1998, 112 Stat. 2975.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2516, 3142, 3583 of this title; title 42 section 14135a.
-

@@ -4,7 +4,3 @@ The approval of the Secretary of Transportation, as required by section 491 of t
 
 (Pub. L. 92–434, §5, Sept. 26, 1972, 86 Stat. 732.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 535h of this title.
-

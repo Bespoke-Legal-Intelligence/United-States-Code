@@ -108,9 +108,5 @@ The Atomic Energy Act of 1954, referred to in subsec. (e), is act Aug. 1, 1946, 
 
 This subchapter, referred to in subsec. (f)(1)(A), was in the original “this subtitle”, and was translated as this subchapter to reflect the probable intent of Congress because title II of Pub. L. 97–425, which enacted this subchapter, does not contain subtitles.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10199 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -32,7 +32,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, in consultation with the Secretary of the Interior and the unusual mortality event working group, and after an opportunity for public review and comment, issue a detailed contingency plan for responding to any unusual mortality event.
+&emsp;The Secretary shall, in consultation with the Secretary of the Interior and the unusualmortality event working group, and after an opportunity for public review and comment, issue a detailed contingency plan for responding to any unusual mortality event.
 
 #### (2) Contents
 
@@ -58,7 +58,7 @@
 
 #### (1) Designation
 
-&emsp;(A) The Secretary shall, in consultation with the Secretary of the Interior, designateone or more Onsite Coordinators for an unusual mortality event, who shall make immediate recommendations to the stranding network participants on how to proceed with response activities.
+&emsp;(A) The Secretary shall, in consultation with the Secretary of the Interior, designate one or more Onsite Coordinators for an unusual mortality event, who shall make immediate recommendations to the stranding network participants on how to proceed with response activities.
 
 &emsp;(B) An Onsite Coordinator so designated shall be one or more appropriate Regional Directors of the National Marine Fisheries Service or the United States Fish and Wildlife Service, or their designees.
 
@@ -79,8 +79,4 @@
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (a)(1)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1421, 1421d, 1421e of this title.
 

@@ -18,15 +18,11 @@ Any party seeking to effect a foster care placement of, or termination of parent
 
 #### (e) Foster care placement orders; evidence; determination of damage to child
 
-No foster care placement may be ordered in such proceeding in the absence of a determination, supported by clear and convincing evidence, including testimony of qualified expert witnesses, that the continued custody of the child by the parent or Indian custodian is likelyto result in serious emotional or physical damage to the child.
+No foster care placement may be ordered in such proceeding in the absence of a determination, supported by clear and convincing evidence, including testimony of qualified expert witnesses, that the continued custody of the child by the parent or Indian custodian is likely to result in serious emotional or physical damage to the child.
 
 #### (f) Parental rights termination orders; evidence; determination of damage to child
 
 No termination of parental rights may be ordered in such proceeding in the absence of a determination, supported by evidence beyond a reasonable doubt, including testimony of qualified expert witnesses, that the continued custody of the child by the parent or Indian custodian is likely to result in serious emotional or physical damage to the child.
 
 (Pub. L. 95–608, title I, §102, Nov. 8, 1978, 92 Stat. 3071.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1914, 1916 of this title.
 

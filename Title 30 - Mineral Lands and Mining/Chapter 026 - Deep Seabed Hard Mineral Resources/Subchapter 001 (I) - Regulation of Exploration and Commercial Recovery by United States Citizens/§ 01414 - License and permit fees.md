@@ -4,7 +4,3 @@ No application for the issuance or transfer of a license for exploration or perm
 
 (Pub. L. 96–283, title I, §104, June 28, 1980, 94 Stat. 563.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1413 of this title.
-

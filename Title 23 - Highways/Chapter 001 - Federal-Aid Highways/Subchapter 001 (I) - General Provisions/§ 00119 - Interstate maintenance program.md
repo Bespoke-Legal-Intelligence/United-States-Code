@@ -24,7 +24,7 @@ Funding.—Sums authorized to be appropriated to carry out this section shall be
 
 (b)
 
-Transfer of Interstate Construction Apportionments.—Upon application by a State (other than the State of Massachusetts) and approval by the Secretary, the Secretary may transfer to the apportionments to such State under section 104(b)(1) or 104(b)(4) any amount of the funds apportioned to such State for any fiscal year under section 104(b)(5)(A) (as in effect on the date before the date of enactment of the Transportation Equity Act for the 21st Century) if such amount does not exceed the Federal share of the costs of construction of segments of the Interstate System open to traffic in such State (other than high occupancy vehicle lanes) included in the most recent interstate cost estimate. Upon transfer of such amount, the construction on which such amount is based on open-to-traffic segments of the Interstate System in such State as included in the latest interstate cost estimate shall be ineligible and shall not be included in future interstate cost estimates approved or adjusted under section104(b)(5)(A) (as in effect on the date before the date of enactment of the Transportation Equity Act for the 21st Century).
+Transfer of Interstate Construction Apportionments.—Upon application by a State (other than the State of Massachusetts) and approval by the Secretary, the Secretary may transfer to the apportionments to such State under section 104(b)(1) or 104(b)(4) any amount of the funds apportioned to such State for any fiscal year under section 104(b)(5)(A) (as in effect on the date before the date of enactment of the Transportation Equity Act for the 21st Century) if such amount does not exceed the Federal share of the costs of construction of segments of the Interstate System open to traffic in such State (other than high occupancy vehicle lanes) included in the most recent interstate cost estimate. Upon transfer of such amount, the construction on which such amount is based on open-to-traffic segments of the Interstate System in such State as included in the latest interstate cost estimate shall be ineligible and shall not be included in future interstate cost estimates approved or adjusted under section 104(b)(5)(A) (as in effect on the date before the date of enactment of the Transportation Equity Act for the 21st Century).
 
 (c)
 
@@ -44,7 +44,7 @@ Unconditional.—Notwithstanding paragraph (1), a State may transfer to its appo
 
 (d)
 
-Limitation on New Capacity.—Notwithstanding any other provision of this title, the portion of the cost of any project undertaken pursuant to this section that is attributable to the expansion of the capacity of any Interstate highway or bridge, where such new capacity consists of one or more new travel lanes that are not high-occupancy vehicle lanes or auxiliary lanes, shall not be eligible for funding under this section.
+Limitation on New Capacity.—Notwithstanding any other provision of this title, theportion of the cost of any project undertaken pursuant to this section that is attributable to the expansion of the capacity of any Interstate highway or bridge, where such new capacity consists of one or more new travel lanes that are not high-occupancy vehicle lanes or auxiliary lanes, shall not be eligible for funding under this section.
 
 (Added Pub. L. 95–599, title I, §116(a), Nov. 6, 1978, 92 Stat. 2698; amended Pub. L. 96–106, §18, Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–134, §§6, 7, Dec. 29, 1981, 95 Stat. 1701; Pub. L. 97–424, title I, §116(a)(1), (2), (b), (c), Jan. 6, 1983, 96 Stat. 2109; Pub. L. 98–229, §8(b), Mar. 9, 1984, 98 Stat. 56; Pub. L. 99–190, §101(e) \[title III, §327\], Dec. 19, 1985, 99 Stat. 1267, 1289; Pub. L. 100–17, title I, §116(a)–(c)(1), Apr. 2, 1987, 101 Stat. 154, 155; Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(b)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 102–240, title I, §1009(a), (b), (e)(1), (3)–(5), Dec. 18, 1991, 105 Stat. 1933, 1934; Pub. L. 105–178, title I, §1107(a), (d), June 9, 1998, 112 Stat. 137; Pub. L. 105–206, title IX, §9002(f), July 22, 1998, 112 Stat. 836.)
 
@@ -90,7 +90,7 @@ Subsec. (e). Pub. L. 102–240, §1009(e)(4), amended subsec. (e) generally, sub
 
 Subsec. (f). Pub. L. 102–240, §1009(e)(5)(C), substituted “Surface Transportation Program” for “Primary System” in heading.
 
-Subsec. (f)(1). Pub. L. 102–240, §1009(b), (e)(5)(D), (E), substituted “or rehabilitating” for “rehabilitating, or reconstructing”, substituted “sections 104(b)(1) and 104(b)(3)” for “section 104(b)(1)”, and inserted “the State is adequately maintaining the Interstate System and” after “routes and”.
+Subsec. (f)(1). Pub. L. 102–240, §1009(b), (e)(5)(D), (E), substituted “or rehabilitating” for “rehabilitating, or reconstructing”, substituted “sections 104(b)(1) and 104(b)(3)” for “section 104(b)(1)”, and inserted “theState is adequately maintaining the Interstate System and” after “routes and”.
 
 Subsec. (f)(2). Pub. L. 102–240, §1009(e)(5)(E), substituted “sections 104(b)(1) and 104(b)(3)” for “section 104(b)(1)” in introductory provisions.
 
@@ -126,7 +126,7 @@ Subsec. (b). Pub. L. 97–134, §6(b), added subsec. (b) providing that reconstr
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L.105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -171,8 +171,4 @@ Section 142 of Pub. L. 97–424 provided that:
 “(b) The Secretary of Transportation is hereby authorized for each of the fiscal years through September 30, 1985, to increase the Federal share as provided in sections 119, 120, and 144 of title 23, United States Code, by 5 per centum of any project submitted by the State highway departments which contains in the plans, specifications, and estimates submitted pursuant to section 106, of title 23, United States Code, the use of the materials described in subsection (a). To be eligible for such supplemental Federal assistance, significant amounts of asphalt additives or recycled materials must be used in each project approved by the Secretary.
 
 “(c) The Secretary shall establish a procedure within ninety days of the date of enactment of this Act \[Jan. 6, 1983\] for increasing the Federal share under this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 118, 129 of this title.
 

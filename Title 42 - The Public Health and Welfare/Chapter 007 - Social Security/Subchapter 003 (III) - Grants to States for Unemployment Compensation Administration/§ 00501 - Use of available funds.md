@@ -10,7 +10,3 @@ The amounts made available pursuant to section 1101(c)(1)(A) of this title for t
 
 1939—Act Apr. 19, 1939, provided increased appropriation for fiscal year ending June 30, 1939, and for each fiscal year thereafter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 45 section 363.
-

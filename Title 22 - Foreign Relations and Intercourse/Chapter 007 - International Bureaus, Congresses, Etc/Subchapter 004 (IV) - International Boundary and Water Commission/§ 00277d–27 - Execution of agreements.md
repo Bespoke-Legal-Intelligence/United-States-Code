@@ -4,7 +4,3 @@ The United States Commissioner, International Boundary and Water Commission, Uni
 
 (Pub. L. 88–411, §2, Aug. 10, 1964, 78 Stat. 386.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 277d–28 of this title.
-

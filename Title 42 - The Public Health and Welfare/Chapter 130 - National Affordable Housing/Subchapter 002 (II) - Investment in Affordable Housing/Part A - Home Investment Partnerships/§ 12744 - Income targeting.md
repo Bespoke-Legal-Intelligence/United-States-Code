@@ -6,7 +6,7 @@ Each participating jurisdiction shall invest funds made available under this par
 
 &emsp;&emsp;(A) not less than 90 percent of (i) the families receiving such rental assistance are families whose incomes do not exceed 60 percent of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, (except that the Secretary may establish income ceilings higher or lower than 60 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction cost or fair market rent, or unusually high or low family income) at the time of occupancy or at the time funds are invested, whichever is later, or (ii) the dwelling units assisted with such funds are occupied by families having such incomes; and
 
-&emsp;&emsp;(B) the remainder of (i) the families receiving such rental assistance are households that qualify as low-income families (other than families described in subparagraph (A)) at the time of occupancy or at the time funds are invested, whichever is later, or (ii) the dwelling units assisted with such funds are occupied by such households;
+&emsp;&emsp;(B) the remainder of (i) the families receiving such rental assistance are households that qualify as low-income families (other than families described in subparagraph (A)) at the time of occupancy or at the timefunds are invested, whichever is later, or (ii) the dwelling units assisted with such funds are occupied by such households;
 
 &emsp;(2) with respect to homeownership assistance, 100 percent of such funds are invested with respect to dwelling units that are occupied by households that qualify as low-income families; and
 
@@ -29,8 +29,4 @@ Pub. L. 105–276, title V, §599B(c), Oct. 21, 1998, 112 Stat. 2660, provided t
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out this subchapter after Apr. 11, 1994, and any amounts made available to carry out this subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out such amendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12747, 12802 of this title.
 

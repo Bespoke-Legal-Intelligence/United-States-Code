@@ -4,7 +4,7 @@
 
 #### (b) Application for lease; contents; filing date; extension
 
-Any Navajo head of household who desires to do so may submit an application for a life estate lease to the Commissioner. Such application shall contain such information as the Commissioner may prescribe by regulation, such regulation to be promulgated by the Commissioner within ninety days of July 8, 1980. To be considered, such application must be filed with the Commissioner on or before April 1, 1981: <i>Provided</i>, That the Commissioner may, for goodcause, grant an extension of one hundred and eighty days.
+Any Navajo head of household who desires to do so may submit an application for a life estate lease to the Commissioner. Such application shall contain such information as the Commissioner may prescribe by regulation, such regulation to be promulgated by the Commissioner within ninety days of July 8, 1980. To be considered, such application must be filed with the Commissioner on or before April 1, 1981: <i>Provided</i>, That the Commissioner may, for good cause, grant an extension of one hundred and eighty days.
 
 #### (c) Application groupings
 
@@ -59,8 +59,4 @@ Subsec. (a) provided for the repeal of section 640d–4(a)(4) of this title.
 #### Amendments
 
 1988—Subsecs. (b) to (d), (f), (k). Pub. L. 100–666 substituted “Commissioner” for “Commission” wherever appearing.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 640d–9, 640d–24 of this title.
 

@@ -1,9 +1,5 @@
 Part B—Public Charter Schools
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 7213, 7215, 7914 of this title.
-
 
 ---
 

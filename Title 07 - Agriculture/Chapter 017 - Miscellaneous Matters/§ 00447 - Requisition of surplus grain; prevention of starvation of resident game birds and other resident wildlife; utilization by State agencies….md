@@ -4,7 +4,3 @@ For the purpose of meeting emergency situations caused by adverse weather condit
 
 (Pub. L. 87–152, §1, Aug. 17, 1961, 75 Stat. 389.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 448, 449 of this title.
-

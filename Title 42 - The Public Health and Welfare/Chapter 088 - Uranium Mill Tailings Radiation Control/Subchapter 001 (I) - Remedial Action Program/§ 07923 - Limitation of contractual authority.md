@@ -4,7 +4,3 @@ The authority under this subchapter to enter into contracts or other obligations
 
 (Pub. L. 95–604, title I, §113, Nov. 8, 1978, 92 Stat. 3031.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7913, 7915 of this title.
-

@@ -28,9 +28,5 @@ Sections 2103 through 2108 of this title, referred to in par. (2), were renumber
 
 For provision that Commission is to cease to exist sixty days after transmitting its report, see section 3323 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3315, 3319, 3320, 3324 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

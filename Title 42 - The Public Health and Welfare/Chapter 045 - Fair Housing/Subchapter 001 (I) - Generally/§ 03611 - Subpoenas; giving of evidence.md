@@ -32,7 +32,3 @@ A prior section 3611, Pub. L. 90–284, title VIII, §811, Apr. 11, 1968, 82 Sta
 
 Section effective on 180th day beginning after Sept. 13, 1988, see section 13(a) of Pub. L. 100–430, set out as an Effective Date of 1988 Amendment note under section 3601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3612 of this title.
-

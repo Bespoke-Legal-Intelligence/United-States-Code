@@ -12,13 +12,13 @@ Except as otherwise provided in this section and section 1114 of this title:
 
 &emsp;(2) A plan may not acquire any qualifying employer security or qualifying employer real property, if immediately after such acquisition the aggregate fair market value of employer securities and employer real property held by the plan exceeds 10 percent of the fair market value of the assets of the plan.
 
-&emsp;(3)(A) After December 31, 1984, a plan may not hold any qualifying employer securities or qualifying employer real property (or both) to the extent that the aggregate fair market value of such securities and property determined on December 31, 1984, exceeds 10 percent of the greater of—
+&emsp;(3)(A) After December 31, 1984, a plan may not hold any qualifying employer securities or qualifying employer real property (or both) tothe extent that the aggregate fair market value of such securities and property determined on December 31, 1984, exceeds 10 percent of the greater of—
 
 &emsp;&emsp;(i) the fair market value of the assets of the plan, determined on December 31, 1984, or
 
 &emsp;&emsp;(ii) the fair market value of the assets of the plan determined on January 1, 1975.
 
-&emsp;(B) Subparagraph (A) of this paragraph shall not apply to any plan which on any date afterDecember 31, 1974; and before January 1, 1985, did not hold employer securities or employer real property (or both) the aggregate fair market value of which determined on such date exceeded 10 percent of the greater of
+&emsp;(B) Subparagraph (A) of this paragraph shall not apply to any plan which on any date after December 31, 1974; and before January 1, 1985, did not hold employer securities or employer real property (or both) the aggregate fair market value of which determined on such date exceeded 10 percent of the greater of
 
 &emsp;&emsp;(i) the fair market value of the assets of the plan, determined on such date, or
 
@@ -78,7 +78,7 @@ Cross References.—
 
 For purposes of this section—
 
-&emsp;(1) The term “employer security” means a security issued by an employer of employees covered by the plan, or by an affiliate of suchemployer. A contract to which section 1108(b)(5) of this title applies shall not be treated as a security for purposes of this section.
+&emsp;(1) The term “employer security” means a security issued by an employer of employees covered by the plan, or by an affiliate of such employer. A contract to which section 1108(b)(5) of this title applies shall not be treated as a security for purposes of this section.
 
 &emsp;(2) The term “employer real property” means real property (and related personal property) which is leased to an employer of employees covered by the plan, or to an affiliate of such employer. For purposes of determining the time at which a plan acquires employer real property for purposes of this section, such property shall be deemed to be acquired by the plan on the date on which the plan acquires the property or on the date on which the lease to the employer (or affiliate) is entered into, whichever is later.
 
@@ -206,9 +206,9 @@ Section 2 of Pub. L. 101–540 provided that: “The amendment made by section 1
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(<i>l</i>)(1)–(4) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(<i>l</i>)(1)–(4) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L.99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Amendment by section 7894(e)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
@@ -219,8 +219,4 @@ Section 9345(a)(3) of Pub. L. 100–203 provided that: “The amendments made by
 #### Regulations
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this part call for the promulgation of regulations, see sections 1031 and 1114 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1101, 1104, 1106, 1108, 1114, 1222 of this title.
 

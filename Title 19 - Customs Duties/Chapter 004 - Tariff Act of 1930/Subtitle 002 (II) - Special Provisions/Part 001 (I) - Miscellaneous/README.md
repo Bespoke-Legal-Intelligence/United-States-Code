@@ -1,9 +1,5 @@
 Part I—Miscellaneous
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1401 of this title.
-
 
 ---
 

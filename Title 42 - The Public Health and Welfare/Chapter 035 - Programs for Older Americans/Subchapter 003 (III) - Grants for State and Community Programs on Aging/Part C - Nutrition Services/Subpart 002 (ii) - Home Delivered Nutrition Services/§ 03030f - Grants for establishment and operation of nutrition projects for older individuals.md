@@ -14,7 +14,3 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 Subpart effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under section 3001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3030g of this title; title 31 section 3803.
-

@@ -4,7 +4,3 @@ In any case where the construction cost of levees or flood walls included in any
 
 (June 28, 1938, ch. 795, §3, 52 Stat. 1216.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701b–4, 701c–1, 701f–1, 701j of this title.
-

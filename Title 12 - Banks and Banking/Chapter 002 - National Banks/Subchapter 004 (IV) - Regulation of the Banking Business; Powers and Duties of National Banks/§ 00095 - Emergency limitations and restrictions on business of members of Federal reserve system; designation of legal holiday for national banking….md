@@ -34,7 +34,3 @@ NOW, THEREFORE, I, HARRY S. TRUMAN, President of the United States of America, a
 
 This proclamation shall become effective as of March 15, 1947.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 212, 213 of this title.
-

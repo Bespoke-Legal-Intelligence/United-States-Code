@@ -16,7 +16,3 @@ Section was enacted as part of the Housing Act of 1954, and not as part of the N
 
 1965—Pub. L. 89–117 specifically included FHA insurance, urban renewal, public housing, and rent supplement programs within the operation and programs of the Housing and Home Finance Agency which the report shall cover and inserted requirement that the report contain recommendations for improving programs and for new or alternative programs.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1701p of this title; title 42 section 3536.
-

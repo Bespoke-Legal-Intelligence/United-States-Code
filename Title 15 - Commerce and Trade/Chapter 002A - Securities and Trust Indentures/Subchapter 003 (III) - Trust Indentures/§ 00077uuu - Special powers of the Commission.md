@@ -2,7 +2,7 @@
 
 #### (a) Investigatory powers
 
-For the purpose of any investigation or any other proceeding which, in the opinion of the Commission, is necessary and proper for the enforcement of this subchapter, any member of the Commission, or any officer thereof designated by it, is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of any such books, papers, correspondence, memoranda, contracts, agreements, or other records may be required from any place in the United States or in any Territory at any designated place of investigation or hearing. In addition, the Commission shall have the powers with respect to investigations and hearings, and with respect to the enforcement of, and offenses and violations under, this subchapter and rules and regulations and orders prescribed under the authority thereof, provided in sections 77t and 77v(b), (c) of this title.
+For the purpose of any investigation or any other proceeding which, in the opinion of the Commission, is necessary and proper for the enforcement of this subchapter, any member of the Commission, or any officer thereof designated by it, is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of any such books, papers, correspondence, memoranda, contracts, agreements, or other records may be required from any place in the United States or in any Territory at any designated place of investigation or hearing. In addition, the Commission shall have the powers with respect to investigations and hearings, and with respect to the enforcement of, and offenses and violations under, this subchapter and rules and regulations and orders prescribed under the authority thereof,provided in sections 77t and 77v(b), (c) of this title.
 
 #### (b) Availability of reports from other offices; restrictions
 
@@ -41,8 +41,4 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 #### Exception as to Transfer of Functions
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions of officers, agencies and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280. See section 321(c)(2) of Title 31, Money and Finance.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 77ggg of this title.
 

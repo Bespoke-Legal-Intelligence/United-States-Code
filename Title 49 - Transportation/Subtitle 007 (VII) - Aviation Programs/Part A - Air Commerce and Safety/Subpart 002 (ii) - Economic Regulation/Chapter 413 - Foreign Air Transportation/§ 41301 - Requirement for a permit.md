@@ -22,7 +22,3 @@ Aug. 23, 1958, Pub. L. 85–726, §402(a), 72 Stat. 757.
 
 The word “provide” is substituted for “engage in” for consistency in the revised title. The word “holds” is substituted for “there is in force” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41703 of this title.
-

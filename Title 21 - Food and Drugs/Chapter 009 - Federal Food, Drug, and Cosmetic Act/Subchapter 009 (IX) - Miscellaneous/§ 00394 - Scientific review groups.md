@@ -12,7 +12,3 @@ Without regard to the provisions of title 5 governing appointments in the compet
 
 The provisions of title 5 governing appointments in the competitive service, referred to in text, are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 355 of this title.
-

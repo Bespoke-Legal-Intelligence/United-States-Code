@@ -16,7 +16,7 @@ A prior section 45 of act Aug. 1, 1956, was renumbered section 46 by section 118
 
 #### Amendments
 
-1998—Pub. L. 105–277, which directed the amendment of subsec. (a) by striking out “and” at end of par. (1),substituting “functions, including compliance and enforcement activities,” for “functions” in par. (2), substituting “; and” for period at end of par. (2), and adding par. (3), was executed by making the amendments to text of section to reflect the probable intent of Congress and the amendment by Pub. L. 105–261. See below.
+1998—Pub. L. 105–277, which directed the amendment of subsec. (a) by striking out “and” at end of par. (1), substituting “functions, including compliance and enforcement activities,” for “functions” in par. (2), substituting “; and” for period at end of par. (2), and adding par. (3), was executed by making the amendments to text of section to reflect the probable intent of Congress and the amendment by Pub. L. 105–261. See below.
 
 Pub. L. 105–261 designated subsec. (a) as entire section, struck out former subsec. (a) heading “Defense trade controls registration fees”, substituted “100 percent” for “$700,000”, and struck out heading and text of subsec. (b). Text read as follows: “The authority contained in subsection (a) of this section shall be exercised to such extent and in such amounts as are to be provided in an appropriation Act.”
 

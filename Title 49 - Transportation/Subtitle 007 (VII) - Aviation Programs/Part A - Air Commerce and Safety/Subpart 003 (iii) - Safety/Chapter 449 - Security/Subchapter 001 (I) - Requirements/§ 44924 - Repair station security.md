@@ -2,7 +2,7 @@
 
 (a)
 
-Security Review and Audit.—To ensure the security of maintenance and repair work conducted on air carrier aircraft and components at foreign repair stations, the Under Secretary for Border and Transportation Security of the Department of Homeland Security, in consultation with the Administrator of the Federal Aviation Administration, shall complete a security review and audit of foreign repair stations that are certified by the Administrator under part 145 of title 14, Code of Federal Regulations, and that work on air carrier aircraftand components. The review shall be completed not later than 18 months after the date on which the Under Secretary issues regulations under subsection (f).
+Security Review and Audit.—To ensure the security of maintenance and repair work conducted on air carrier aircraft and components at foreign repair stations, the Under Secretary for Border and Transportation Security of the Department of Homeland Security, in consultation with the Administrator of the Federal Aviation Administration, shall complete a security review and audit of foreign repair stations that are certified by the Administrator under part 145 of title 14, Code of Federal Regulations, and that work on air carrier aircraft and components. The review shall be completed not later than 18 months after the date on which the Under Secretary issues regulations under subsection (f).
 
 (b)
 

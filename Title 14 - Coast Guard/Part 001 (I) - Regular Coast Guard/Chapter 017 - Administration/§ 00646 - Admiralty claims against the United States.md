@@ -4,7 +4,7 @@
 
 &emsp;(1) damage caused by a vessel in the Coast Guard service or by other property under the jurisdiction of the Department in which the Coast Guard is operating;
 
-&emsp;(2) compensation for towage and salvage services, including contract salvage, rendered to a vessel in the Coast Guard service or to other property under the jurisdiction of the Department in which the Coast Guard is operating; or
+&emsp;(2) compensation for towage and salvage services, including contract salvage, rendered to a vessel in the Coast Guard service or toother property under the jurisdiction of the Department in which the Coast Guard is operating; or
 
 &emsp;(3) damage caused by a maritime tort committed by an agent or employee of the Department in which the Coast Guard is operating or by property under the jurisdiction of that Department.
 
@@ -29,8 +29,4 @@ Subsec. (b). Pub. L. 92–417 incorporated in part first sentence of former subs
 Subsec. (c). Pub. L. 92–417 incorporated provisions of last sentence of former subsec. (a) and substituted “100,000” for “25,000”.
 
 1960—Subsec. (b). Pub. L. 86–533 repealed subsec. (b) which required the Secretary of the Treasury to report to the Congress the payment of claims determined, compromised, settled, or paid.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 827, 828 of this title.
 

@@ -10,7 +10,3 @@
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 10103.
-

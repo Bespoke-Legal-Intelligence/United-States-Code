@@ -1,9 +1,5 @@
 subpart a—conservation security program
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 3841 of this title.
-
 
 ---
 

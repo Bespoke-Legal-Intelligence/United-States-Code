@@ -28,7 +28,3 @@ Historical and Revision Notes
 
 Pub. L. 90–135, title I, §202, Nov. 14, 1967, 81 Stat. 443.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 17702 of this title.
-

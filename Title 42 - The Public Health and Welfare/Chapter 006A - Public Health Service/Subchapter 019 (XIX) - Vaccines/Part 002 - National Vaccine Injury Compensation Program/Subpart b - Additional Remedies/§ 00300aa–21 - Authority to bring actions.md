@@ -8,7 +8,7 @@ After judgment has been entered by the United States Court of Federal Claims or,
 
 &emsp;(2) if the judgment did not award compensation, an election in writing to accept the judgment or to file a civil action for damages for such injury or death.
 
-> An election shall be filed under this subsection not later than 90 days after the date of the court's final judgment with respect to which the election is to be made. If a person required to file an election with the court under this subsection does not file the election within the time prescribed for filing the election, such person shall be deemed to have filed an election to accept the judgment of the court. If a person elects to receive compensation under a judgment of the court in an action for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, or is deemed to have accepted the judgment of the court in such an action, such person may not bring or maintain a civil action for damages against a vaccine administrator or manufacturer for the vaccine-related injury or death for which the judgment was entered. For limitations on the bringing of civil actions for vaccine-related injuries or deaths associated with the administration of a vaccine after October 1, 1988, see section 300aa–11(a)(2) of this title.
+> An election shall be filed under this subsection not later than 90 days after the date of thecourt's final judgment with respect to which the election is to be made. If a person required to file an election with the court under this subsection does not file the election within the time prescribed for filing the election, such person shall be deemed to have filed an election to accept the judgment of the court. If a person elects to receive compensation under a judgment of the court in an action for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, or is deemed to have accepted the judgment of the court in such an action, such person may not bring or maintain a civil action for damages against a vaccine administrator or manufacturer for the vaccine-related injury or death for which the judgment was entered. For limitations on the bringing of civil actions for vaccine-related injuries or deaths associated with the administration of a vaccine after October 1, 1988, see section 300aa–11(a)(2) of this title.
 
 #### (b) Continuance or withdrawal of petition
 
@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 101–502, §5(f)(2), amended subsec. (b) generally. Prior 
 
 Pub. L. 101–239, §6601(n)(1)(B), amended last sentence generally. Prior to amendment, last sentence read as follows: “If a person elects to receive compensation under a judgment of the court or is deemed to have accepted the judgment of the court, such person may not bring or maintain a civil action for damages against a vaccine manufacturer for the vaccine-related injury or death for which the judgment was entered.”
 
-Subsec. (b). Pub. L. 101–239, §6601(n)(2), substituted “within 420 days (excluding any period of suspension under section 300aa–12(d) of this title and excluding any days the petition is before a special master as a result of a remand under section 300aa–12(e)(2)(C) of this title)” for “within 365 days” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “Such a notice shall be filed not later than 90 days after the expiration of such 365-day period.”
+Subsec. (b). Pub. L. 101–239, §6601(n)(2), substituted “within 420 days (excluding any period of suspension under section 300aa–12(d) of this title and excluding anydays the petition is before a special master as a result of a remand under section 300aa–12(e)(2)(C) of this title)” for “within 365 days” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “Such a notice shall be filed not later than 90 days after the expiration of such 365-day period.”
 
 1988—Subsec. (a). Pub. L. 100–360 added Pub. L. 100–203, §4308(c), see 1987 Amendment note below.
 
@@ -77,8 +77,4 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 #### Effective Date
 
 Subpart effective Oct. 1, 1988, see section 323 of Pub. L. 99–660, set out as a note under section 300aa–1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300aa–11, 300aa–12, 300aa–15, 300aa–16, 300aa–34 of this title.
 

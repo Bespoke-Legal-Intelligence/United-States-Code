@@ -28,7 +28,3 @@ Establishment of detached portion of Hawaii National Park lying on island of Mau
 
 Act Apr. 11, 1928, ch. 359, §2, 45 Stat. 426, extended provisions of this section and made them applicable to lands added to the park and included within boundary established by section 391 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 391b–1, 392a of this title.
-

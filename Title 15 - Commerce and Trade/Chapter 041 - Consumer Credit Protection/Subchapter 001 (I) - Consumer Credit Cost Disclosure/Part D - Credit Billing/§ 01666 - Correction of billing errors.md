@@ -56,7 +56,7 @@ Pursuant to regulations of the Board, a creditor operating an open end consumer 
 
 #### (e) Effect of noncompliance with requirements by creditor
 
-Any creditor who fails to comply with the requirements of this section or section 1666a ofthis title forfeits any right to collect from the obligor the amount indicated by the obligor under paragraph (2) of subsection (a) of this section, and any finance charges thereon, except that the amount required to be forfeited under this subsection may not exceed $50.
+Any creditor who fails to comply with the requirements of this section or section 1666a of this title forfeits any right to collect from the obligor the amount indicated by the obligor under paragraph (2) of subsection (a) of this section, and any finance charges thereon, except that the amount required to be forfeited under this subsection may not exceed $50.
 
 (Pub. L. 90–321, title I, §161, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1512; amended Pub. L. 96–221, title VI §§613(g), 620, Mar. 31, 1980, 94 Stat. 177, 184.)
 
@@ -79,8 +79,4 @@ Section 308 of title III of Pub. L. 93–495 provided that: “This title \[enac
 #### Short Title
 
 Title III of Pub. L. 93–495, which is classified principally to this part, is known as the “Fair Credit Billing Act”. For complete classification of Title III to the Code, see Short Title of 1974 Amendment note set out under section 1601 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1637, 1666a of this title; title 26 section 6311.
 

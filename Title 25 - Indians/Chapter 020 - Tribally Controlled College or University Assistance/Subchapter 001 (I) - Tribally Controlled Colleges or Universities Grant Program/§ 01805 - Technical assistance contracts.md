@@ -14,7 +14,3 @@ The Secretary shall provide, upon request from a tribally controlled college or 
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1804a, 1810, 1813 of this title.
-

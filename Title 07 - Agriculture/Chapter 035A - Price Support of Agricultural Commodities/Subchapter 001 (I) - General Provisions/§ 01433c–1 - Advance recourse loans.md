@@ -10,7 +10,7 @@ It is the sense of Congress that the Secretary of Agriculture carry out a progra
 
 &emsp;&emsp;(A) to producers of wheat, feed grains, cotton, and rice who agree to participate in the program announced for the commodity on an amount of the commodity equal to one-half of the farm program yield for the commodity multiplied by the farm program acreage intended to be planted to the commodity for harvest in 1986, as determined by the Secretary;
 
-&emsp;&emsp;(B) to producers of tobacco and peanuts who are on a farm for which a marketing quota or poundage quota has been established on an amount of the commodity equal to one-half of the farm marketing quota or poundage quota for the commodity, as determined by the Secretary; and
+&emsp;&emsp;(B) to producers of peanuts who are on a farm for which a marketing quota or poundage quota has been established on an amount of the commodity equal to one-half of the farm marketing quota or poundage quota for the commodity, as determined by the Secretary; and
 
 &emsp;&emsp;(C) to producers of other commodities on an amount of the commodity equal to one-half of the farm yield for the commodity multiplied by the farm acreage intended to be planted to the commodity for harvest in 1986, as determined by the Secretary.
 
@@ -32,7 +32,7 @@ It is the sense of Congress that the Secretary of Agriculture carry out a progra
 
 &emsp;(7) The total amount in advance recourse loans that may be made to a producer under section 424 \[7 U.S.C. 1433c\] may not exceed $50,000.
 
-&emsp;(8) An advance recourse loan may be made available only to a producer who agrees tocomply with such other terms and conditions determined appropriate by the Secretary and consistent with the provisions of section 424 \[7 U.S.C. 1433c\].
+&emsp;(8) An advance recourse loan may be made available only to a producer who agrees to comply with such other terms and conditions determined appropriate by the Secretary and consistent with the provisions of section 424 \[7 U.S.C. 1433c\].
 
 #### (b) Use of Commodity Credit Corporation, Agricultural Stabilization and Conservation Service, and county committees
 
@@ -42,7 +42,7 @@ The Secretary shall carry out the program provided for under section 424 \[7 U.S
 
 It is further the sense of Congress that the Secretary of Agriculture issue or, as appropriate, amend regulations to implement any program established under section 424 \[7 U.S.C. 1433c\] as soon as practicable, but not later than 15 days after March 20, 1986. Loans and other assistance provided under such program shall be made available beginning on the date such regulations are issued or amended.
 
-(Pub. L. 99–260, §13, Mar. 20, 1986, 100 Stat. 53.)
+(Pub. L. 99–260, §13, Mar. 20, 1986, 100 Stat. 53; Pub. L. 108–357, title VI, §611(q), Oct. 22, 2004, 118 Stat. 1523.)
 
 #### References in Text
 
@@ -51,4 +51,16 @@ The Agricultural Act of 1949, referred to in subsec. (a)(4), is act Oct. 31, 194
 #### Codification
 
 Section was enacted as part of the Food Security Improvements Act of 1986, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+
+#### Amendments
+
+2004—Subsec. (a)(2)(B). Pub. L. 108–357 struck out “tobacco and” before “peanuts”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as an Effective Date note under section 518 of this title.
+
+#### Savings Provision
+
+Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 

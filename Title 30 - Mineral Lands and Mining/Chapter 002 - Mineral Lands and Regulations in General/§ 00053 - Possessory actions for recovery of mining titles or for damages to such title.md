@@ -10,7 +10,3 @@ R.S. §910 derived from act Feb. 27, 1865, ch. 64, §9, 13 Stat. 441.
 
 Section was formerly classified to section 690 of Title 28 prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, §1, 62 Stat. 869.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 460mm–1.
-

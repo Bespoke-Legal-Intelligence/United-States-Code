@@ -64,7 +64,7 @@
 
 #### (3) Access to information
 
-&emsp;The Commission shall by rule require a common carrier that provides telephone servicesto a provider of pay-per-call services to make available to the Commission any records and financial information maintained by such carrier relating to the arrangements (other than for the provision of local exchange service) between such carrier and any provider of pay-per-call services.
+&emsp;The Commission shall by rule require a common carrier that provides telephone services to a provider of pay-per-call services to make available to the Commission any records and financial information maintained by such carrier relating to the arrangements (other than for the provision of local exchange service) between such carrier and any provider of pay-per-call services.
 
 #### (4) Evasions
 
@@ -96,15 +96,11 @@
 
 #### (b) Rulemaking
 
-The Commission shall prescribe the rules under subsection (a) of this section within 270 days after October 28, 1992. Such rules shall be prescribed in accordance with section 553 of title 5.
+The Commission shall prescribe the rules under subsection (a) of this section within 270days after October 28, 1992. Such rules shall be prescribed in accordance with section 553 of title 5.
 
 #### (c) Enforcement
 
 Any violation of any rule prescribed under subsection (a) of this section shall be treated as a violation of a rule respecting unfair or deceptive acts or practices under section 45 of this title. Notwithstanding section 45(a)(2) of this title, communications common carriers shall be subject to the jurisdiction of the Commission for purposes of this subchapter.
 
 (Pub. L. 102–556, title II, §201, Oct. 28, 1992, 106 Stat. 4187.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5712, 5713, 5714 of this title.
 

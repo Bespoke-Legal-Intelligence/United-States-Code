@@ -30,7 +30,3 @@ Dec. 29, 1950, ch. 1189, §4, 64 Stat. 1130.
 
 The section is reorganized, with minor changes in phraseology. The words “as prescribed by section 1033 of this title” are omitted as surplusage. The words “of the United States” following “Attorney General” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2342 of this title; title 2 section 1407; title 7 sections 2149, 3804, 3805.
-

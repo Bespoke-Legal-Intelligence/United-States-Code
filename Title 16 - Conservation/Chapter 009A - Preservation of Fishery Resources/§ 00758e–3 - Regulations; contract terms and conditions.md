@@ -4,7 +4,3 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (Pub. L. 92–444, §6, formerly §5, Sept. 29, 1972, 86 Stat. 745; renumbered §6, Pub. L. 95–295, §1(4), June 16, 1978, 92 Stat. 319.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 758e, 758e–1, 758e–1a, 758e–4, 758e–5 of this title.
-

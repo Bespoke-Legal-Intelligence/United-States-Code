@@ -56,9 +56,5 @@ Future Status.—(1) Effective on May 2, 2000, the lands described in subsection
 
 \[Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §144(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171, provided that: “The amendment made by subsection (a) \[amending section 3 of Pub. L. 103–450, set out above\] takes effect on November 1, 1999.”\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460ccc, 460ccc–2 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “in the”.</i>
 

@@ -98,7 +98,3 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title III, §319C—2, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 624.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 247d–7c of this title.
-

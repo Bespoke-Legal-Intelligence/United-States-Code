@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the Administrator notifies a registrant under section 136d(c)(1) of this title that the Administrator intends to suspend a registration or that an emergency order of suspension of a registration under section 136d(c)(3) of this title has been issued;
 
-&emsp;&emsp;(B) the registration in question is suspended under section 136d(c) of this title, and thereafter is canceled under section 136d(b), 136d(d), or 136d(f) of this title; and
+&emsp;&emsp;(B) the registration in question is suspended under section 136d(c) of this title,and thereafter is canceled under section 136d(b), 136d(d), or 136d(f) of this title; and
 
 &emsp;&emsp;(C) any person who owned any quantity of the pesticide immediately before the notice to the registrant under subparagraph (A) suffered losses by reason of suspension or cancellation of the registration;
 
@@ -127,8 +127,4 @@ Source.—Any obligation of the Administrator to pay an indemnity arising under 
 “(2)
 
 Administrative settlement.—An administrative settlement of a claim for such indemnity may be made in accordance with the third paragraph of section 2414 of title 28, United States Code, and shall be regarded as if it were made under that section for purposes of section 1304 of title 31, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 136a of this title.
 

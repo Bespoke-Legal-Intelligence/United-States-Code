@@ -94,7 +94,3 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 Applicability of this section to provisional registrations, see section 703 of Pub. L. 91–513, set out as a note under section 822 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 823, 842 of this title; title 42 sections 1320a–7, 11152.
-

@@ -6,7 +6,7 @@ In the event of the death, resignation, or disability of the Secretary of the Se
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–367 struck out provisions relating to exception for duties of the Secretary as disbursing officer of the Senate.
+1984—Pub. L. 98–367 struck out provisions relating to exception for duties of the Secretary as disbursing officer of the Senate.
 
-<b>1974</b>—Pub. L. 93–371 inserted provisions relating to the absence of Secretary of Senate for reasons other than disability and the written designation of such absent status.
+1974—Pub. L. 93–371 inserted provisions relating to the absence of Secretary of Senate for reasons other than disability and the written designation of such absent status.
 

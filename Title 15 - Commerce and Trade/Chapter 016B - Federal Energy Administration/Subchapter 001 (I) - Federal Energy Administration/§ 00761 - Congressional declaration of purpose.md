@@ -10,7 +10,7 @@ The Congress finds that to help achieve these objectives, and to assure a coordi
 
 #### (c) Creation of Federal Energy Administration
 
-The sole purpose of this chapter is to create an administration in the executive branch, called the Federal Energy Administration, to vest in the Administration certain functions as provided in this chapter, and to transfer to such Administration certain executive branch functions authorized by other laws, where such transfer isnecessary on an interim basis to deal with the Nation's energy shortages.
+The sole purpose of this chapter is to create an administration in the executive branch, called the Federal Energy Administration, to vest in the Administration certain functions as provided in this chapter, and to transfer to such Administration certain executive branch functions authorized by other laws, where such transfer is necessary on an interim basis to deal with the Nation's energy shortages.
 
 (Pub. L. 93–275, §2, May 7, 1974, 88 Stat. 97.)
 

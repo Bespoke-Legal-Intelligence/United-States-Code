@@ -1,9 +1,5 @@
 ### SUBCHAPTER XII—ADVANCES TO STATE UNEMPLOYMENT FUNDS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 503, 1103 of this title; title 2 section 906; title 26 sections 3302, 3304.
-
 
 ---
 

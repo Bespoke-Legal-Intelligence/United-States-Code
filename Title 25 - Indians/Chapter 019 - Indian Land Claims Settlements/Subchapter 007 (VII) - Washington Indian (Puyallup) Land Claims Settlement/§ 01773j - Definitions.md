@@ -2,7 +2,7 @@
 
 For the purposes of this subchapter—
 
-&emsp;(1) the term “1873 Survey Area” means the area which is within the area demarked by the high water line as meandered and the upland boundaries, as shown on the plat map of the1873 Survey of the Puyallup Indian Reservation, conducted by the United States General Land Office, and filed in 1874;
+&emsp;(1) the term “1873 Survey Area” means the area which is within the area demarked by the high water line as meandered and the upland boundaries, as shown on the plat map of the 1873 Survey of the Puyallup Indian Reservation, conducted by the United States General Land Office, and filed in 1874;
 
 &emsp;(2) the term “Secretary” means the Secretary of the Interior;
 

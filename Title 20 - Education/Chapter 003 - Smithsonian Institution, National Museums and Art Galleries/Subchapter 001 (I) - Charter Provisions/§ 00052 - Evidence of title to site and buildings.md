@@ -8,7 +8,3 @@ The site and lands selected for buildings for the Smithsonian Institution shall 
 
 R.S. §5588 derived from act Aug. 10, 1846, ch. 178, §4, 9 Stat. 104.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 57, 67 of this title.
-

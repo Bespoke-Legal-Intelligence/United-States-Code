@@ -8,7 +8,7 @@ A State educational agency may make a subgrant to an eligible entity from funds 
 
 &emsp;(2) Carrying out highly focused, innovative, locally designed activities to expand or enhance existing language instruction educational programs and academic content instruction programs for such children, and such children and youth.
 
-&emsp;(3) Implementing, within an individual school, schoolwide programs for restructuring, reforming, and upgrading all relevant programs, activities, and operations relating to language instruction educational programs and academic content instruction for such children, and such children and youth.
+&emsp;(3) Implementing, within an individual school, schoolwide programs for restructuring,reforming, and upgrading all relevant programs, activities, and operations relating to language instruction educational programs and academic content instruction for such children, and such children and youth.
 
 &emsp;(4) Implementing, within the entire jurisdiction of a local educational agency, agencywide programs for restructuring, reforming, and upgrading all relevant programs, activities, and operations relating to language instruction educational programs and academic content instruction for such children, and such children and youth.
 
@@ -82,7 +82,7 @@ Subject to subsection (c) of this section, an eligible entity receiving funds un
 
 &emsp;&emsp;(C) provision of tutorials, mentoring, and academic or career counseling for immigrant children and youth;
 
-&emsp;&emsp;(D) identification and acquisition of curricular materials, educational software, and technologies to be used in the program carried out with funds;
+&emsp;&emsp;(D) identification and acquisition of curricular materials, educational software, andtechnologies to be used in the program carried out with funds;
 
 &emsp;&emsp;(E) basic instruction services that are directly attributable to the presence in the school district involved of immigrant children and youth, including the payment of costs of providing additional classroom supplies, costs of transportation, or such other costs as are directly attributable to such additional basic instruction services;
 
@@ -113,8 +113,4 @@ Federal funds made available under this subpart shall be used so as to supplemen
 #### Prior Provisions
 
 A prior section 3115 of Pub. L. 89–10 was classified to section 6815 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6821 of this title.
 

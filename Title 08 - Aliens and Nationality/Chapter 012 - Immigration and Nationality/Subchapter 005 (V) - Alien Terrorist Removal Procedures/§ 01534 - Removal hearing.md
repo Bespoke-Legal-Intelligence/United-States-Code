@@ -150,7 +150,7 @@ The Federal Rules of Evidence shall not apply in a removal hearing.
 
 #### (i) Determination of deportation
 
-If the judge, after considering the evidence on the record as a whole, finds that the Government has met its burden, the judge shall order the alien removed and detained pending removal from the United States. If the alien was released pending the removal hearing, the judge shall order the Attorney General to take the alien into custody.
+If the judge, after considering the evidence on the record as a whole, finds that the Government has met its burden, the judge shall orderthe alien removed and detained pending removal from the United States. If the alien was released pending the removal hearing, the judge shall order the Attorney General to take the alien into custody.
 
 #### (j) Written order
 
@@ -223,10 +223,6 @@ Amendment by sections 354(a)(1), (2), (b), and 357 of Pub. L. 104–208 effectiv
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1531, 1532, 1535 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “proceeding”.</i>
 

@@ -16,7 +16,7 @@
 
 (3)(A) Notice of each such election shall be given by the Secretary—
 
-&emsp;(i) by publication in a newspaper or newspapers of general circulation in each State, and in pork production and agriculture trade publications, at least 1 week prior to the election; and
+&emsp;(i) by publication in a newspaper or newspapers of general circulation in each State,and in pork production and agriculture trade publications, at least 1 week prior to the election; and
 
 &emsp;(ii) in any other reasonable manner determined by the Secretary.
 
@@ -49,10 +49,6 @@
 (3) Additional producers who are residents of a State may be nominated to fill such positions in accordance with subsection (a)(3) of this section.
 
 (Pub. L. 99–198, title XVI, §1618, Dec. 23, 1985, 99 Stat. 1611.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4805, 4806 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

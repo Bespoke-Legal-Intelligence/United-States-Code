@@ -28,9 +28,5 @@ In preparing the comprehensive management plan, the Secretary shall consult with
 
 (Pub. L. 101–292, §7, May 17, 1990, 104 Stat. 188.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460aaa–2, 460aaa–3, 460aaa–7 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection.”</i>
 

@@ -6,7 +6,3 @@
 
 (Pub. L. 90–537, title VI, §603, Sept. 30, 1968, 82 Stat. 901.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 228h.
-

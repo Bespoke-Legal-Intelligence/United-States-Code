@@ -4,7 +4,3 @@ Whenever any State has held an election for the purpose of choosing electors, an
 
 (June 25, 1948, ch. 644, 62 Stat. 672.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 sections 871, 1751.
-

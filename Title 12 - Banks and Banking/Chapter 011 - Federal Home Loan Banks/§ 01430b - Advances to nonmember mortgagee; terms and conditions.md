@@ -24,7 +24,3 @@ The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48
 
 1989—Pub. L. 101–73 substituted “Board” for “Federal Home Loan Bank Board”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1733, 2705 of this title.
-

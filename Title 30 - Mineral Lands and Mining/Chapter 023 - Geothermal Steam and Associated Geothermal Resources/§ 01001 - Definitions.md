@@ -36,9 +36,5 @@ Section 1 of Pub. L. 100–443 provided that: “This Act \[enacting sections 10
 
 Section 1 of Pub. L. 91–581 provided: “That this Act \[enacting this chapter and amending section 530 of this title\] may be cited as the ‘Geothermal Steam Act of 1970’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1005, 1026 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -14,7 +14,7 @@ The Secretary may not make payments under section 300d–11(a) of this title unl
 
 #### (c) Evaluations by Comptroller General
 
-The Comptroller General of the United States shall evaluate the expenditures by States of payments under section 300d–11(a) of this title in order to assure that expenditures are consistent with the provisions of this part, and not later than December 1, 1994, prepare and submit to the Committee on Energy and Commerce of theHouse of Representatives and the Committee on Labor and Human Resources of the Senate a report concerning such evaluation.
+The Comptroller General of the United States shall evaluate the expenditures by States of payments under section 300d–11(a) of this title in order to assure that expenditures are consistent with the provisions of this part, and not later than December 1, 1994, prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report concerning such evaluation.
 
 (July 1, 1944, ch. 373, title XII, §1216, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2923; amended Pub. L. 103–183, title VI, §601(c), Dec. 14, 1993, 107 Stat. 2238; Pub. L. 104–316, title I, §122(d), Oct. 19, 1996, 110 Stat. 3837.)
 
@@ -25,6 +25,8 @@ The Comptroller General of the United States shall evaluate the expenditures by 
 1993—Subsec. (c). Pub. L. 103–183 substituted “1994” for “1993”.
 
 #### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

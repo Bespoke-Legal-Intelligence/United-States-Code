@@ -32,7 +32,7 @@
 
 #### (C) Eligible producers
 
-&emsp;&emsp;Each additional referendum shall be conducted among all producers who, during a representative period, as determined by the Secretary, have been engaged in the production of soybeans to determine whether such producers favor the termination or suspension of the order.
+&emsp;&emsp;Each additional referendum shall be conducted among all producers who, during arepresentative period, as determined by the Secretary, have been engaged in the production of soybeans to determine whether such producers favor the termination or suspension of the order.
 
 #### (2) Disapproval of order
 
@@ -42,7 +42,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To facilitate the periodic determination as to whether producers favor the conduct of anadditional referendum under this subsection, the Secretary, 5 years after the conduct of a referendum under this chapter and every 5 years thereafter, shall provide soybean producers an opportunity to request an additional referendum, as provided in this paragraph.
+&emsp;&emsp;To facilitate the periodic determination as to whether producers favor the conduct of an additional referendum under this subsection, the Secretary, 5 years after the conduct of a referendum under this chapter and every 5 years thereafter, shall provide soybean producers an opportunity to request an additional referendum, as provided in this paragraph.
 
 #### (B) Method of making request
 
@@ -85,8 +85,4 @@
 #### Amendments
 
 1991—Subsec. (b)(3)(A). Pub. L. 102–237 made technical amendment to reference to this chapter to correct reference to corresponding provision of original act.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6304, 6309 of this title.
 

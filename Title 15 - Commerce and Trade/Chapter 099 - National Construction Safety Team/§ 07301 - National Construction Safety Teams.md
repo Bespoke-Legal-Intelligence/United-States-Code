@@ -60,7 +60,7 @@ The Director of the National Institute of Standards and Technology (in this chap
 
 This chapter, referred to in subsecs. (a) and (c)(1)(E), (G), was in the original “this Act”, meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Earthquake Hazards Reduction Act of 1977, referred to subsec. (c)(1)(J), is Pub. L. 95–124, Oct. 7, 1977, 91 Stat. 1098, as amended, which is classified generallyto chapter 86 (§7701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 42 and Tables.
+The Earthquake Hazards Reduction Act of 1977, referred to subsec. (c)(1)(J), is Pub. L. 95–124, Oct. 7, 1977, 91 Stat. 1098, as amended, which is classified generally to chapter 86 (§7701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 42 and Tables.
 
 #### Amendments
 
@@ -69,8 +69,4 @@ The Earthquake Hazards Reduction Act of 1977, referred to subsec. (c)(1)(J), is 
 #### Short Title
 
 Pub. L. 107–231, §1, Oct. 1, 2002, 116 Stat. 1471, provided that: “This Act \[enacting this chapter and amending section 281a of this title\] may be cited as the ‘National Construction Safety Team Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7303, 7310 of this title.
 

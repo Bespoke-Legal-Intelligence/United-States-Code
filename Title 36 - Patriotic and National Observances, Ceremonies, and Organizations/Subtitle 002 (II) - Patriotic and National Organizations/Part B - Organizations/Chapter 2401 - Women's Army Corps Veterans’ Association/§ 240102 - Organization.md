@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Women's Army Corps Veterans’ Association (in this chapter, the “corporation”), a nonprofit corporation incorporatedin the District of Columbia, is a federally chartered corporation.
+Federal Charter.—Women's Army Corps Veterans’ Association (in this chapter, the “corporation”), a nonprofit corporation incorporated in the District of Columbia, is a federally chartered corporation.
 
 (b)
 

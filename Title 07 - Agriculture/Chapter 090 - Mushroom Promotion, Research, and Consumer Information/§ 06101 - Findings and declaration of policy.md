@@ -38,7 +38,3 @@ Nothing in this chapter may be construed to provide for the control of productio
 
 Section 1921 of Pub. L. 101–624 provided that: “This subtitle \[subtitle B (§§1921–1933) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the ‘Mushroom Promotion, Research, and Consumer Information Act of 1990’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6103 of this title.
-

@@ -6,7 +6,7 @@ A single transport region for ozone (within the meaning of section 7506a(a) of t
 
 #### (b) Plan provisions for States in ozone transport regions
 
-(1) In accordance with section 7410 of this title, not later than 2 years after November 15, 1990 (or 9 months after the subsequent inclusion of a State in a transport region established for ozone), each State included within a transportregion established for ozone shall submit a State implementation plan or revision thereof to the Administrator which requires the following—
+(1) In accordance with section 7410 of this title, not later than 2 years after November 15, 1990 (or 9 months after the subsequent inclusion of a State in a transport region established for ozone), each State included within a transport region established for ozone shall submit a State implementation plan or revision thereof to the Administrator which requires the following—
 
 &emsp;(A) that each area in such State that is in an ozone transport region, and that is a metropolitan statistical area or part thereof with a population of 100,000 or more comply with the provisions of section 7511a(c)(2)(A) of this title (pertaining to enhanced vehicle inspection and maintenance programs); and
 
@@ -49,10 +49,6 @@ A single transport region for ozone (within the meaning of section 7506a(a) of t
 For purposes of this section, not later than 6 months after November 15, 1990, the Administrator shall promulgate criteria for purposes of determining the contribution of sources in one area to concentrations of ozone in another area which is a nonattainment area for ozone. Such criteria shall require that the best available air quality monitoring and modeling techniques be used for purposes of making such determinations.
 
 (July 14, 1955, ch. 360, title I, §184, as added Pub. L. 101–549, title I, §103, Nov. 15, 1990, 104 Stat. 2448.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7406, 7410, 7511a of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

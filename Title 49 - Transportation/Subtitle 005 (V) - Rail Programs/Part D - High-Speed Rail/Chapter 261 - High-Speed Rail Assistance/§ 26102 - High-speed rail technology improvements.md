@@ -18,7 +18,3 @@ Consultation With Other Agencies.—In carrying out activities authorized by sub
 
 A prior section 26102 was renumbered section 28102 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 26104 of this title.
-

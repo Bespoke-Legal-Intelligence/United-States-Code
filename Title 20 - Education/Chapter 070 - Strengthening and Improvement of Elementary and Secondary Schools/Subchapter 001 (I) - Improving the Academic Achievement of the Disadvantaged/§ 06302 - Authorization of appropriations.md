@@ -56,7 +56,7 @@ For the purpose of carrying out part D of this subchapter, there are authorized 
 
 #### (B) Special rule
 
-&emsp;&emsp;Of the funds appropriated pursuant to subparagraph (A), not more than 30 percent may be used for teachers associated with students participating in the programs described in subsections (a)(1), (b)(1), and (c)(1) of this section.
+&emsp;&emsp;Of the funds appropriated pursuant to subparagraph (A), not more than 30 percent may be used for teachers associated with students participating in the programs described insubsections (a)(1), (b)(1), and (c)(1) of this section.
 
 #### (f) Comprehensive school reform
 
@@ -85,8 +85,4 @@ For the purpose of carrying out section 6303(g) of this title, there are authori
 A prior section 6302, Pub. L. 89–10, title I, §1002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3522; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1602\], Dec. 21, 2000, 114 Stat. 2763, 2763A–328, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 1002 of Pub. L. 89–10 was renumbered section 9002 and was classified to section 3382 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6331, 6332, 6362, 6372, 6376, 6381a, 6383, 6421, 6491, 6492, 6512, 6533, 6649 of this title.
 

@@ -36,7 +36,7 @@ In this chapter—
 
 &emsp;&emsp;(ii) specifies directly, or establishes by means of a formula, the amount that may be provided to the State or local government, or the amount to be allotted for use in each State by the State, local government, and beneficiaries.
 
-&emsp;(B) “grant” (except as provided in subparagraph (C)) also means money, or property provided instead of money, that is paid or provided by the United States Government to a private, nonprofit community organization eligible to receive amounts under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.).
+&emsp;(B) “grant” (except as provided in subparagraph (C)) also means money, or property provided instead of money, that is paid or provided by the United States Government to aprivate, nonprofit community organization eligible to receive amounts under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.).
 
 &emsp;(C) “grant” does not include—
 
@@ -184,9 +184,5 @@ Section 1 of Pub. L. 101–453 provided that: “This Act \[enacting section 333
 
 #### Purpose of 1990 Act
 
-Section 2 of Pub. L. 101–453 provided that: “The purpose of this Act \[see Short Title of 1990 Amendmentnote above\] is to ensure greater efficiency, effectiveness, and equity in the exchange of funds between the Federal Government and the States.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 658.
+Section 2 of Pub. L. 101–453 provided that: “The purpose of this Act \[see Short Title of 1990 Amendment note above\] is to ensure greater efficiency, effectiveness, and equity in the exchange of funds between the Federal Government and the States.”
 

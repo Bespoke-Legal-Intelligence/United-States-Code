@@ -1,6 +1,6 @@
 ### §1702. Superintendent of Documents; sale of documents
 
-The Public Printer shall appoint a competent person to act as Superintendent of Documents who shall be under the control of the Public Printer.
+The Public Printer shall appoint a competent person to act as Superintendent of Documentswho shall be under the control of the Public Printer.
 
 When an officer of the Government having in his charge documents published for sale desires to be relieved of them, he may turn them over to the Superintendent of Documents, who shall receive and sell them under this section. Moneys received from the sale of documents shall be returned to the Public Printer on the first day of each month and be covered into the Treasury monthly.
 
@@ -15,8 +15,4 @@ Based on 44 U.S. Code, 1964 ed., §§71, 73 (part) (Jan. 12, 1895, ch. 23, §61,
 This section incorporates only part of former section 73. The balance will be found in section 308 of the revision.
 
 “House of Representatives Publications Distribution Service” is substituted for “House Folding Room” because of the change of name under authority of Public Law 88–652.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4102 of this title; title 28 section 594.
 

@@ -2,7 +2,7 @@
 
 #### (a) Acceptance by Secretary
 
-The Secretary of Health and Human Services is authorized to accept on behalf of the United States gifts made unconditionally by will or otherwise for the benefit of the Service or for the carrying out of any of its functions. Conditional gifts may be so accepted if recommended by the Surgeon General, and the principal of andincome from any such conditional gift shall be held, invested, reinvested, and used in accordance with its conditions, but no gift shall be accepted which is conditioned upon any expenditure not to be met therefrom or from the income thereof unless such expenditure has been approved by Act of Congress.
+The Secretary of Health and Human Services is authorized to accept on behalf of the United States gifts made unconditionally by will or otherwise for the benefit of the Service or for the carrying out of any of its functions. Conditional gifts may be so accepted if recommended by the Surgeon General, and the principal of and income from any such conditional gift shall be held, invested, reinvested, and used in accordance with its conditions, but no gift shall be accepted which is conditioned upon any expenditure not to be met therefrom or from the income thereof unless such expenditure has been approved by Act of Congress.
 
 #### (b) Depository of funds; availability for expenditure
 
@@ -10,7 +10,7 @@ Any unconditional gift of money accepted pursuant to the authority granted in su
 
 #### (c) Evidences of unconditional gifts of intangible property
 
-The evidences of any unconditional gift of intangible personal property, other than money, accepted pursuant to the authority granted in subsection (a) of this section shall be deposited with the Secretary of the Treasury and he, in his discretion, may hold them, or liquidate them except that they shall be liquidated upon the request of the Secretary of Health and Human Services whenever necessary to meet payments required in the operation of the Service or the performance of its functions. The proceeds and income from any such property held by the Secretary of the Treasury shall be available for expenditure as is provided in subsection (b) of this section.
+The evidences of any unconditional gift of intangible personal property, other than money, accepted pursuant to the authority granted in subsection (a) of this section shall be deposited with the Secretary of the Treasury and he, in his discretion, may hold them, or liquidate them except that they shall be liquidated upon the request of the Secretary of Health and Human Services whenever necessary to meet paymentsrequired in the operation of the Service or the performance of its functions. The proceeds and income from any such property held by the Secretary of the Treasury shall be available for expenditure as is provided in subsection (b) of this section.
 
 #### (d) Real property or tangible personal property
 
@@ -35,8 +35,4 @@ Section was formerly classified to section 300aaa of this title prior to renumbe
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 284a, 285q–2, 286, 287a, 289f of this title.
 

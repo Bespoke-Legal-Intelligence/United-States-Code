@@ -8,7 +8,3 @@ Nothing in this subchapter shall be construed as—
 
 (Pub. L. 93–638, title I, §111, formerly §110, Jan. 4, 1975, 88 Stat. 2213; renumbered §111, Pub. L. 100–472, title II, §206(b), Oct. 5, 1988, 102 Stat. 2295.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450b, 458ff, 458aaa–15, 2507 of this title.
-

@@ -72,7 +72,3 @@ Subsecs. (b) to (f). Pub. L. 100–448, §12(2), added subsecs. (b) to (f) and s
 
 Amendment by Pub. L. 88–276 effective only with respect to cadets and midshipmen appointed to the service academies and the Coast Guard Academy after Mar. 3, 1964, see section 5(c) of Pub. L. 88–276, set out as a note under section 4348 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 195 of this title.
-

@@ -20,7 +20,7 @@ Notwithstanding any other provision of this subchapter, a State to which a grant
 
 #### (1) In general
 
-&emsp;To ensure the repayment of notes or other obligations and charges incurred under thissection and as a condition for receiving the guarantees, the Secretary shall require the issuer to—
+&emsp;To ensure the repayment of notes or other obligations and charges incurred under this section and as a condition for receiving the guarantees, the Secretary shall require the issuer to—
 
 &emsp;&emsp;(A) enter into a contract, in a form acceptable to the Secretary, for repayment of notes or other obligations guaranteed under this section;
 
@@ -49,8 +49,4 @@ Notes or other obligations guaranteed under this section may not be purchased by
 The full faith and credit of the United States is pledged to the payment of all guarantees made under this section. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligations for the guarantee with respect to principal and interest. The validity of the guarantee shall be incontestable in the hands of a holder of the guaranteed obligations.
 
 (Pub. L. 87–128, title III, §381H, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1145.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2009f, 2009cc–4, 2009cc–5 of this title.
 

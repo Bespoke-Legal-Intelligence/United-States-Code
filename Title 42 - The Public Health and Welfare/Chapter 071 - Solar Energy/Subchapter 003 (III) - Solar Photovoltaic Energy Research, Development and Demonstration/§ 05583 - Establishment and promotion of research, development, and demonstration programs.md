@@ -8,7 +8,3 @@ The Secretary is directed to establish immediately and carry forth such research
 
 (Pub. L. 95–590, §4, Nov. 4, 1978, 92 Stat. 2515.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5584, 5586, 5592 of this title.
-

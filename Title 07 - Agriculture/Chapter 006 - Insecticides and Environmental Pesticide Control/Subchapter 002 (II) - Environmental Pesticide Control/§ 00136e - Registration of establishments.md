@@ -50,7 +50,3 @@ Subsec. (d). Pub. L. 95–396, §13(3), considered names of pesticides or active
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 136, 136a, 136j, 136<i>o</i>, 136w of this title.
-

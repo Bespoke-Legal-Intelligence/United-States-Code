@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-For the purposes of providing blind persons with remunerative employment, enlarging theeconomic opportunities of the blind, and stimulating the blind to greater efforts in striving to make themselves self-supporting, blind persons licensed under the provisions of this chapter shall be authorized to operate vending facilities on any Federal property.
+For the purposes of providing blind persons with remunerative employment, enlarging the economic opportunities of the blind, and stimulating the blind to greater efforts in striving to make themselves self-supporting, blind persons licensed under the provisions of this chapter shall be authorized to operate vending facilities on any Federal property.
 
 #### (b) Preferences regulations; justification for limitation on operation
 
@@ -20,7 +20,7 @@ In authorizing the operation of vending facilities on Federal property, priority
 
 The content of Pub. L. 93–516, including provisions thereof which amended and enacted various sections of this chapter, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
 
-Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this chapter should be deemed to have been amended by Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3, in exactly the same manner as it was amended by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>,D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this chapter should be deemed to have been amended by Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3, in exactly the same manner as it was amended by Pub. L. 93–516.
 
 #### Amendments
 
@@ -56,7 +56,7 @@ Section 201 of Pub. L. 93–516 provided that: “The Congress finds—
 
 &emsp;“(1) after review of the operation of the blind vending stand program authorized under the Randolph-Sheppard Act of June 20, 1936 \[this chapter\], that the program has not developed, and has not been sustained, in the manner and spirit in which the Congress intended at the time of its enactment, and that, in fact, the growth of the program has been inhibited by a number of external forces;
 
-&emsp;“(2) that the potential exists for doubling the number of blind operators on Federal and other property under the Randolph-Sheppard program within the next five years, provided the obstacles to growth are removed, that legislative and administrative meansexist to remove such obstacles, and that Congress should adopt legislation to that end; and
+&emsp;“(2) that the potential exists for doubling the number of blind operators on Federal and other property under the Randolph-Sheppard program within the next five years, provided the obstacles to growth are removed, that legislative and administrative means exist to remove such obstacles, and that Congress should adopt legislation to that end; and
 
 &emsp;“(3) that at a minimum the following actions must be taken to insure the continued vitality and expansion of the Randolph-Sheppard program—
 
@@ -75,8 +75,4 @@ Section 201 of Pub. L. 93–516 provided that: “The Congress finds—
 &emsp;&emsp;“(G) accomplish other legislative and administrative objectives which will permit the Randolph-Sheppard program to flourish.”
 
 An identical provision is in section 201 of Pub. L. 93–651. See Codification note above.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 107a, 107d–1 of this title; title 39 section 410.
 

@@ -8,7 +8,7 @@
 
 > An election by an employee referred to in paragraph (2) shall be subject to limitations generally prescribed to ensure that the duties and requirements of the employee's position are fulfilled.
 
-(b) Notwithstanding any other provision of this subchapter, but subject to the terms of any written agreement referred to in section 6130(a) of this title, if the head of an agency determines that any organization within the agency which is participating in a program under subsection\(a) is being substantially disrupted in carrying out its functions or is incurring additional costs because of such participation, such agency head may—
+(b) Notwithstanding any other provision of this subchapter, but subject to the terms of any written agreement referred to in section 6130(a) of this title, if the head of an agency determines that any organization within the agency which is participating in a program under subsection (a) is being substantially disrupted in carryingout its functions or is incurring additional costs because of such participation, such agency head may—
 
 &emsp;(1) restrict the employees’ choice of arrival and departure time,
 
@@ -17,8 +17,4 @@
 &emsp;(3) exclude from such program any employee or group of employees.
 
 (Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 228.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6121, 6123, 6124, 6125, 6126, 6132 of this title.
 

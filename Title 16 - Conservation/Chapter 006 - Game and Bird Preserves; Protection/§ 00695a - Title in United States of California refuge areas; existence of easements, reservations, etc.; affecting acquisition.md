@@ -4,7 +4,3 @@ The Secretary of the Interior may do all things and make all expenditures necess
 
 (May 18, 1948, ch. 303, §2, 62 Stat. 238.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 695b, 695c of this title.
-

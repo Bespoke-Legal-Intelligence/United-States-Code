@@ -6,9 +6,9 @@ The Committee on House Oversight of the House of Representatives and the Committ
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “Committee on House Oversight” for “Committee on Accounts”.
+1996—Pub. L. 104–186 substituted “Committee on House Oversight” for “Committee on Accounts”.
 
-<b>1946</b>—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee to Audit and Control the Contingent Expenses”.
+1946—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee to Audit and Control the Contingent Expenses”.
 
 #### Change of Name
 

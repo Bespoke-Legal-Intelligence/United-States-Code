@@ -46,7 +46,7 @@ Immediate relatives.—For purposes of this subsection, the term “immediate re
 
 (ii) In no case shall the number computed under subparagraph (A) be less than 226,000.
 
-(2) The number computed under this paragraph for a fiscal year is the sum of the number of aliens described in subparagraphs (A) and (B) of subsection (b)(2) of this section who were issued immigrant visas or who otherwise acquired the status of aliens lawfully admitted to the United States for permanent residence in the previous fiscal year.
+(2) The number computed under this paragraph for a fiscal year is the sum of the number of aliens described in subparagraphs (A) and (B) of subsection (b)(2) of this section who were issuedimmigrant visas or who otherwise acquired the status of aliens lawfully admitted to the United States for permanent residence in the previous fiscal year.
 
 (3)(A) The number computed under this paragraph for fiscal year 1992 is zero.
 
@@ -84,7 +84,7 @@ The worldwide level of diversity immigrants is equal to 55,000 for each fiscal y
 
 #### (1) Age on petition filing date
 
-&emsp;Except as provided in paragraphs (2) and (3), for purposes of subsection (b)(2)(A)(i) of this section, a determination of whether an alien satisfies the age requirement in the matterpreceding subparagraph (A) of section 1101(b)(1) of this title shall be made using the age of the alien on the date on which the petition is filed with the Attorney General under section 1154 of this title to classify the alien as an immediate relative under subsection (b)(2)(A)(i) of this section.
+&emsp;Except as provided in paragraphs (2) and (3), for purposes of subsection (b)(2)(A)(i) of this section, a determination of whether an alien satisfies the age requirement in the matter preceding subparagraph (A) of section 1101(b)(1) of this title shall be made using the age of the alien on the date on which the petition is filed with the Attorney General under section 1154 of this title to classify the alien as an immediate relative under subsection (b)(2)(A)(i) of this section.
 
 #### (2) Age on parent's naturalization date
 
@@ -100,7 +100,7 @@ The worldwide level of diversity immigrants is equal to 55,000 for each fiscal y
 
 2002—Subsec. (f). Pub. L. 107–208 added subsec. (f).
 
-2000—Subsec. (b)(2)(A)(i). Pub. L. 106–386 inserted at end “For purposes of this clause, an alien who has filed a petition under clause (iii) or (iv) of section 1154(a)(1)(A) of this title remains an immediate relative in the event that the United States citizen spouse or parent loses United States citizenship on account of the abuse.”
+2000—Subsec. (b)(2)(A)(i). Pub. L. 106–386 inserted at end “For purposes of this clause, an alien who has filed a petition under clause (iii) or (iv) of section 1154(a)(1)(A) of this title remains an immediate relative in the event that the United States citizen spouse orparent loses United States citizenship on account of the abuse.”
 
 1996—Subsec. (b)(1)(C). Pub. L. 104–208, §671(d)(1)(A), struck out “, 1161,” after “section 1160”.
 
@@ -212,7 +212,7 @@ In general.—In the case of an alien who was the child of a citizen of the Unit
 
 &emsp;&emsp;“(B)
 
-Petitions.—An alien described in subparagraph (A) may file a petition with the Secretary ofHomeland Security for classification of the alien under section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)). For purposes of such Act \[8 U.S.C. 1101 et seq.\], such a petition shall be considered a petition filed under section 204(a)(1)(A) of such Act (8 U.S.C. 1154(a)(1)(A)).
+Petitions.—An alien described in subparagraph (A) may file a petition with the Secretary of Homeland Security for classification of the alien under section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)). For purposes of such Act \[8 U.S.C. 1101 et seq.\], such a petition shall be considered a petition filed under section 204(a)(1)(A) of such Act (8 U.S.C. 1154(a)(1)(A)).
 
 &emsp;“(3)
 
@@ -262,7 +262,7 @@ In general.—A spouse or child of an alien described in paragraph (3) who is in
 
 &emsp;&emsp;“(B)
 
-Petitions.—An alien spouse or child described in subparagraph (A) may file a petition with the Secretary of Homeland Security for classification of the alien under section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)). For purposes of such Act \[8 U.S.C. 1101 et seq.\], such a petition shall be considered a petition filed under section 204(a)(1)(A) of such Act (8 U.S.C. 1154(a)(1)(A)).
+Petitions.—An alien spouse or child described in subparagraph (A) may file a petition withthe Secretary of Homeland Security for classification of the alien under section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)). For purposes of such Act \[8 U.S.C. 1101 et seq.\], such a petition shall be considered a petition filed under section 204(a)(1)(A) of such Act (8 U.S.C. 1154(a)(1)(A)).
 
 &emsp;“(2)
 
@@ -343,8 +343,4 @@ Section 21(a)–(d) and (f)–(h) of Pub. L. 89–236 established a Select Commi
 #### Termination of Quota Deductions
 
 Section 10 of Pub. L. 85–316, Sept. 11, 1957, 71 Stat. 642, provided that the quota deductions required under the provisions of former subsec. (e) of this section, the Displaced Persons Act of 1948, as amended, the act of June 30, 1950, and the act of April 9, 1952 were terminated effective July 1, 1957.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1101, 1152, 1153, 1154, 1160, 1182, 1184, 1186a, 1255, 1255a of this title.
 

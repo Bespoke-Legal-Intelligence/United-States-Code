@@ -16,7 +16,7 @@ Whenever the President exercises any of the authorities granted by this chapter,
 
 &emsp;(4) why the President believes such actions are necessary to deal with those circumstances; and
 
-&emsp;(5) any foreign countries with respect to which such actions are to be taken and why such actions are to be taken with respect to those countries.
+&emsp;(5) any foreign countries with respect to which such actions are to be taken and whysuch actions are to be taken with respect to those countries.
 
 #### (c) Periodic follow-up reports
 
@@ -31,4 +31,14 @@ The requirements of this section are supplemental to those contained in title IV
 #### References in Text
 
 The National Emergencies Act, referred to in subsec. (d), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended. Title IV of the National Emergencies Act enacted subchapter IV (§1641) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+
+#### Delegation of Functions
+
+Delegations of congressional reporting functions of President under subsec. (c) of this section were contained in the following:
+
+Ex. Ord. No. 13348, §7, July 22, 2004, 69 F.R. 44887, set out as a note under section 1701 of this title.
+
+Ex. Ord. No. 13338, §12, May 11, 2004, 69 F.R. 26754, set out as a note under section 1701 of this title.
+
+Ex. Ord. No. 13313, §1, July 31, 2003, 68 F.R. 46073 to 46075, set out as a note under section 301 of Title 3, The President.
 

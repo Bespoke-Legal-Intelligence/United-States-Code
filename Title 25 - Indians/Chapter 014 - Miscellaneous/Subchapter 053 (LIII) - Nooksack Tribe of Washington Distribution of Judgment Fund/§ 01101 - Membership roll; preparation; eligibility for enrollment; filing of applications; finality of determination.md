@@ -4,7 +4,3 @@ The Secretary of the Interior shall prepare a roll of all persons who meet the f
 
 (Pub. L. 89–656, §1, Oct. 14, 1966, 80 Stat. 906.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1102 of this title.
-

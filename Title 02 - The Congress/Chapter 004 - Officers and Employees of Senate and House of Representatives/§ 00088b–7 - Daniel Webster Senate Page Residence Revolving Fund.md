@@ -24,5 +24,5 @@ Section is from the Congressional Operations Appropriations Act, 1995, which is 
 
 #### Amendments
 
-<b>1995</b>—Subsec. (b). Pub. L. 104–53 inserted “(including donated moneys)” after “other moneys”.
+1995—Subsec. (b). Pub. L. 104–53 inserted “(including donated moneys)” after “other moneys”.
 

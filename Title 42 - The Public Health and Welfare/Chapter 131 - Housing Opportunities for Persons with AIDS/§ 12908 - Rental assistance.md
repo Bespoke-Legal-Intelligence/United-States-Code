@@ -40,9 +40,5 @@ Subsec. (b)(2). Pub. L. 102–550, §606(j)(7), inserted “with acquired immuno
 
 Subsec. (c). Pub. L. 102–550, §606(h)(1)(C), added subsec. (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12904 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

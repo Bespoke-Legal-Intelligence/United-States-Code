@@ -24,7 +24,3 @@ Assistance may be provided under this section to an office of consumer services 
 
 1978—Subsecs. (a), (b). Pub. L. 95–617 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6808 of this title.
-

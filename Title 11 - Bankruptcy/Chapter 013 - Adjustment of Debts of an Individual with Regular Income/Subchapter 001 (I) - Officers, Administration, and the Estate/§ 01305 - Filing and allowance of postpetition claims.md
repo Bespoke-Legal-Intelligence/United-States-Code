@@ -30,7 +30,3 @@ Section 1305, exclusively applicable in chapter 13 cases, supplements the provis
 
 Subsection (a) permits the filing of a proof of a claim against the debtor that is for taxes that become payable to a governmental unit while the case is pending, or that arises after the date of the filing of the petition for property or services that are necessary for the debtor's performance under the plan, such as auto repairs in order that the debtor will be able to get to work, or medical bills. The effect of the latter provision, in paragraph (2), is to treat postpetition credit extended to a chapter 13 debtor the same as a prepetition claim for purposes of allowance, distribution, and so on.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 348, 1322, 1328 of this title.
-

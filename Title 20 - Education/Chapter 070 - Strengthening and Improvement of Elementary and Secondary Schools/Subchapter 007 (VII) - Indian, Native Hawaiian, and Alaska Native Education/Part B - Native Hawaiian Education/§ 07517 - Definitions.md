@@ -54,7 +54,3 @@ In this part:
 
 (Pub. L. 89–10, title VII, §7207, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1941.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1059d, 2326, 7265e, 9161, 9173 of this title; title 25 section 2902; title 29 section 2911.
-

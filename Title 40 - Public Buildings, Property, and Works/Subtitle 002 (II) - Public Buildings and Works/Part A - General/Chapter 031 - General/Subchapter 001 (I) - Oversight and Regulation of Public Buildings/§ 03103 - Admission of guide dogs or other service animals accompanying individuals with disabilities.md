@@ -6,7 +6,7 @@ In General.—Guide dogs or other service animals accompanying individuals with 
 
 (b)
 
-Regulations.—The head of each department or other agency of the Government mayprescribe regulations the individual considers necessary in the public interest to carry out this section as it applies to any building or other property subject to the individual's jurisdiction.
+Regulations.—The head of each department or other agency of the Government may prescribe regulations the individual considers necessary in the public interest to carry out this section as it applies to any building or other property subject to the individual's jurisdiction.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1143.)
 
@@ -30,5 +30,5 @@ Dec. 10, 1941, ch. 563, 55 Stat. 796.
 
 40:291 (last sentence).
 
-In subsection (a), the words “Seeing-eye dogs or other” are omitted as unnecessary. The words “or other service animals” are added, and the words “individuals with disabilities” are substituted for “blind masters”, because of section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794) and Part 39 of Title 28 of the Code of Federal Regulations, which expanded the coverage of the source provision to all service animals and to all individuals with disabilities.
+In subsection (a), the words “Seeing-eye dogs or other” are omitted as unnecessary. The words “or other service animals” are added, and the words “individuals with disabilities” are substituted for “blind masters”, because of section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794) and Part 39 of Title 28 of theCode of Federal Regulations, which expanded the coverage of the source provision to all service animals and to all individuals with disabilities.
 

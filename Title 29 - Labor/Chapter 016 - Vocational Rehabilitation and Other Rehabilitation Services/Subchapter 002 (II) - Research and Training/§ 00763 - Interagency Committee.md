@@ -46,9 +46,13 @@ Not later than December 31 of each year, the Committee shall prepare and submit,
 
 #### (e) Definitions
 
-In this section, the terms “assistive technology”, “targeted individuals”, and “universal design” have the meanings given the terms in section 3002 of this title.
+In this section—
 
-(Pub. L. 93–112, title II, §203, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1173; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 105–394, title II, §201, Nov. 13, 1998, 112 Stat. 3651.)
+&emsp;(1) the terms “assistive technology” and “universal design” have the meanings given the terms in section 3002 of this title; and
+
+&emsp;(2) the term “targeted individuals” has the meaning given the term “targeted individuals and entities” in section 3002 of this title.
+
+(Pub. L. 93–112, title II, §203, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1173; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 105–394, title II, §201, Nov. 13, 1998, 112 Stat. 3651; Pub. L. 108–364, §3(b)(1), Oct. 25, 2004, 118 Stat. 1737.)
 
 #### Prior Provisions
 
@@ -57,6 +61,8 @@ Provisions similar to this section were contained in section 761b of this title 
 A prior section 763, Pub. L. 93–112, title II, §203, Sept. 26, 1973, 87 Stat. 376, relating to making of grants and contracts for training of personnel involved in vocational services to handicapped individuals, was renumbered section 304 of Pub. L. 93–112 and transferred to section 774 of this title.
 
 #### Amendments
+
+2004—Subsec. (e). Pub. L. 108–364 added subsec. (e) and struck out former subsec. (e) which read as follows: “In this section, the terms ‘assistive technology’, ‘targeted individuals’, and ‘universal design’ have the meanings given the terms in section 3002 of this title.”
 
 1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
 
@@ -68,7 +74,7 @@ Subsec. (c). Pub. L. 105–394, §201(3), added subsec. (c) and struck out forme
 
 Subsecs. (d), (e). Pub. L. 105–394, §201(4), added subsecs. (d) and (e).
 
-#### Section Referred to in Other Sections
+#### Change of Name
 
-This section is referred to in sections 762, 3037 of this title.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

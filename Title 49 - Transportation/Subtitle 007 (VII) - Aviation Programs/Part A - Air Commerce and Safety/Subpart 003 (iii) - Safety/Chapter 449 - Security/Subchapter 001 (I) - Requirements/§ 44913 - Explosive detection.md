@@ -2,7 +2,7 @@
 
 (a)
 
-Deployment and Purchase of Equipment.—(1) A deployment or purchase of explosive detection equipment under section 108.7(b)(8) or 108.20 of title 14, Code of Federal Regulations, or similar regulation is required only if the Under Secretary of Transportation for Security certifies that the equipment alone, or as part of an integrated system, can detect under realistic air carrier operating conditions the amounts, configurations, and types of explosive material that would likely be used to cause catastrophic damage to commercial aircraft. The Under Secretary shall base the certification on the results of tests conducted under protocols developed in consultation with expert scientists outside of the Transportation Security Administration. Those tests shall be completed not later than April 16, 1992.
+Deployment and Purchase of Equipment.—(1) A deployment or purchase of explosive detection equipment under section 108.7(b)(8) or 108.20 of title 14, Code of FederalRegulations, or similar regulation is required only if the Under Secretary of Transportation for Security certifies that the equipment alone, or as part of an integrated system, can detect under realistic air carrier operating conditions the amounts, configurations, and types of explosive material that would likely be used to cause catastrophic damage to commercial aircraft. The Under Secretary shall base the certification on the results of tests conducted under protocols developed in consultation with expert scientists outside of the Transportation Security Administration. Those tests shall be completed not later than April 16, 1992.
 
 (2) Before completion of the tests described in paragraph (1) of this subsection, but not later than April 16, 1992, the Under Secretary may require deployment of explosive detection equipment described in paragraph (1) if the Under Secretary decides that deployment will enhance aviation security significantly. In making that decision, the Under Secretary shall consider factors such as the ability of the equipment alone, or as part of an integrated system, to detect under realistic air carrier operating conditions the amounts, configurations, and types of explosive material that would likely be used to cause catastrophic damage to commercial aircraft. The Under Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of a deployment decision made under this paragraph.
 
@@ -72,6 +72,18 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Improved Explosive Detection Systems
+
+Pub. L. 108–458, title IV, §4024, Dec. 17, 2004, 118 Stat. 3724, provided that:
+
+“(a)
+
+Plan and Guidelines.—The Assistant Secretary of Homeland Security (Transportation Security Administration) shall develop a plan and guidelines for implementing improved explosive detection system equipment.
+
+“(b)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration $100,000,000, in addition to any amounts otherwise authorized by law, for the purpose of research and development of improved explosive detection systems for aviation security under section 44913 of title 49, United States Code.”
+
 #### Weapons and Explosive Detection Study
 
 Section 303 of Pub. L. 104–264 provided that:
@@ -119,8 +131,4 @@ Reports.—The Director of the National Academy of Sciences (or the head of anot
 “(f)
 
 Authorization of Appropriations.—There are authorized to be appropriated for each of fiscal years 1997 through 2001 such sums as may be necessary to carry out this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title; title 26 section 4261.
 

@@ -24,7 +24,3 @@ Par. (4). Pub. L. 102–325, §406(g)(2)(B), substituted “$1,500.” for “$1
 
 Par. (5). Pub. L. 102–325, §406(g)(3), which directed that par. (5) be struck out without specifying the section to which the amendment applied, was executed by striking out par. (5) of this section to reflect the probable intent of Congress. Prior to amendment, par. (5) read as follows: “the State educational agency will use the amount of the allocation described in paragraph (2) of section 1070d–34 of this title for administrative expenses, including the conduct of the awards ceremony required by section 1070d–39 of this title.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1070d–34 of this title.
-

@@ -22,7 +22,7 @@ In implementing the provisions of subsection (a) of this section, the Immigratio
 
 #### References in Text
 
-Immigration and Naturalization Service Data Management Improvement Act of 2000, referred to in subsec. (a), is Pub. L. 106–215, June 15, 2000, 114 Stat. 337, as amended. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1101 of this title and Tables.
+The Immigration and Naturalization Service Data Management Improvement Act of 2000, referred to in subsec. (a), is Pub. L. 106–215, June 15, 2000, 114 Stat. 337, which amended section 1365a of this title and enacted provisions set out as notes under sections 1101 and 1365a of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1101 of this title and Tables.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

@@ -30,7 +30,3 @@ Joint Res. July 25, 1947, ch. 327, §3, 61 Stat. 451, provided that in interpret
 
 Ex. Ord. No. 10385, Aug. 18, 1952, affected section by extending time for the removal of temporary housing from Dec. 31, 1952, to July 1, 1954.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1581, 1582, 1589a of this title.
-

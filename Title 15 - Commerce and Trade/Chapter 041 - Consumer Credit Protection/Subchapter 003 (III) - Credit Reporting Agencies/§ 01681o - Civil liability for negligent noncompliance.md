@@ -30,7 +30,3 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1681g, 1681h, 1681m, 1681s, 1681s–2 of this title.
-

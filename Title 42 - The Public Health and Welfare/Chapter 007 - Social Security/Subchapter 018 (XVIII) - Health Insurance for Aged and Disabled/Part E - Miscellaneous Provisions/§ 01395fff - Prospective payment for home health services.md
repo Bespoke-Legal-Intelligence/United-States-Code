@@ -8,7 +8,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (1) In general
 
-&emsp;The Secretary shall establish under this subsection a prospective payment system for payment for all costs of home health services. Under the system under this subsection all services covered and paid on a reasonable cost basis under the medicare home health benefit as of August 5, 1997, including medical supplies, shall be paid for on the basis of a prospective payment amount determined under this subsection and applicable to the services involved. In implementing the system, the Secretary may provide for a transition (of not longer than 4 years) during which a portion of such payment is based on agency-specific costs, but only if such transition does not result in aggregate payments under this subchapter that exceed the aggregate payments that would be made if such a transition did not occur.
+&emsp;The Secretary shall establish under this subsection a prospective payment system for payment for all costs of home health services. Under the system under this subsection all services covered and paid on a reasonable cost basis under the medicare home health benefitas of August 5, 1997, including medical supplies, shall be paid for on the basis of a prospective payment amount determined under this subsection and applicable to the services involved. In implementing the system, the Secretary may provide for a transition (of not longer than 4 years) during which a portion of such payment is based on agency-specific costs, but only if such transition does not result in aggregate payments under this subchapter that exceed the aggregate payments that would be made if such a transition did not occur.
 
 #### (2) Unit of payment
 
@@ -58,7 +58,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (iv) Adjustment for case mix changes
 
-&emsp;&emsp;&emsp;Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(i) for a previous fiscal year or year (or estimates that such adjustments for a future fiscal year or year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year or year that are a result of changes in the coding or classification of different units of services that do not reflect real changes in case mix, the Secretary may adjust the standard prospective payment amount (or amounts) under paragraph (3) for subsequent fiscal years or years so as to eliminate the effect of such coding or classification changes.
+&emsp;&emsp;&emsp;Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(i) for a previous fiscal year or year (or estimates that such adjustments for a future fiscal year or year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year or year that are a result of changes in the coding or classification of differentunits of services that do not reflect real changes in case mix, the Secretary may adjust the standard prospective payment amount (or amounts) under paragraph (3) for subsequent fiscal years or years so as to eliminate the effect of such coding or classification changes.
 
 #### (C) Adjustment for outliers
 
@@ -130,7 +130,7 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 #### (2) Physician certification
 
-&emsp;Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
+&emsp;Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title V, §§501(a), (c)(1), 504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334.)
 
@@ -188,7 +188,7 @@ Subsec. (b)(3)(B)(ii), (iii). Pub. L. 105–277, §5101(d)(2)(B), (C), added cl.
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title V, §501(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, provided that: “Theamendment made by paragraph (1) \[amending this section\] shall apply to episodes concluding on or after October 1, 2001.”
+Pub. L. 106–554, §1(a)(6) \[title V, §501(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to episodes concluding on or after October 1, 2001.”
 
 #### Effective Date of 1999 Amendment
 
@@ -284,7 +284,7 @@ Medical adult day-care facility.—The term ‘medical adult day-care facility�
 
 &emsp;&emsp;“(B) is engaged in providing skilled nursing services and other therapeutic services directly or under arrangement with a home health agency;
 
-&emsp;&emsp;“(C) is licensed and certified by the State in which it operates or meets such standards established by the Secretary to assure quality of care and such other requirements as the Secretary finds necessary in the interest of the health and safety ofindividuals who are furnished services in the facility; and
+&emsp;&emsp;“(C) is licensed and certified by the State in which it operates or meets such standards established by the Secretary to assure quality of care and such other requirements as the Secretary finds necessary in the interest of the health and safety of individuals who are furnished services in the facility; and
 
 &emsp;&emsp;“(D) provides medical adult day-care services.
 
@@ -312,7 +312,7 @@ Pub. L. 108–173, title VII, §704, Dec. 8, 2003, 117 Stat. 2338, provided that
 
 “(a)
 
-In General.—During the period described in subsection (b), the Secretary \[of Health and Human Services\] may not require, under section 4602(e) of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 467) \[set out as a note under this section\] or otherwise under OASIS, a home health agency to gather or submit information that relates to an individual who is not eligible for benefits under either title XVIII or title XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\] (such information in this section referred to as ‘non-medicare/medicaid OASIS information’).
+In General.—During the period described in subsection (b), the Secretary \[of Health and Human Services\] may not require, under section 4602(e) of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 467) \[set out as a note under this section\] or otherwise under OASIS, a home health agency to gather or submit information that relates to an individual who is not eligible for benefits under either title XVIII or title XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\] (such information inthis section referred to as ‘non-medicare/medicaid OASIS information’).
 
 “(b)
 
@@ -502,7 +502,7 @@ Outcome and assessment information set.—The term ‘Outcome and Assessment Inf
 
 #### Report to Congress on Need for Reductions
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §302(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–360, as amended by Pub. L. 106–554, §1(a)(6) \[title V, §501(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, provided that: “Not later than April 1, 2002, the Comptroller General of the United States shall submit to Congress a report analyzing the need for the 15 percent reduction under subsection (b)(3)(A)(ii) of such section \[subsec. (b)(3)(A)(ii) of this section\], or for any reduction, in the computation ofthe base payment amounts under the prospective payment system for home health services established under such section.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §302(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–360, as amended by Pub. L. 106–554, §1(a)(6) \[title V, §501(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, provided that: “Not later than April 1, 2002, the Comptroller General of the United States shall submit to Congress a report analyzing the need for the 15 percent reduction under subsection (b)(3)(A)(ii) of such section \[subsec. (b)(3)(A)(ii) of this section\], or for any reduction, in the computation of the base payment amounts under the prospective payment system for home health services established under such section.”
 
 #### Study and Report to Congress Regarding Exemption of Rural Agencies and Populations From Inclusion in Home Health Prospective Payment System
 
@@ -539,8 +539,4 @@ Estimate.—Not later than October 1, 1997, the Secretary of Health and Human Se
 “(b)
 
 Annual Report.—Not later than the end of each of years 1999 through 2002, the Secretary shall submit to such Committees a report that compares the actual outlays under such parts for such services during the fiscal year ending in the year, to the outlays estimated under subsection (a) for such fiscal year. If the Secretary finds that such actual outlays were greater than such estimated outlays for the fiscal year, the Secretary shall include in the report recommendations regarding beneficiary copayments for home health services provided under the medicare program or such other methods as will reduce the growth in outlays for home health services under the medicare program.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395f, 1395<i>l</i>, 1395r of this title.
 

@@ -30,6 +30,14 @@
 
 > &emsp;and may include the establishment and operation of facilities for the conducting of such venture, the conducting of such venture on a protected and proprietary basis, and the prosecuting of applications for patents and the granting of licenses for the results of such venture, but does not include any activity specified in subsection (b) of this section.
 
+&emsp;(7) The term “standards development activity” means any action taken by a standards development organization for the purpose of developing, promulgating, revising, amending, reissuing, interpreting, or otherwise maintaining a voluntary consensus standard, or using such standard in conformity assessment activities, including actions relating to the intellectual property policies of the standards development organization.
+
+&emsp;(8) The term “standards development organization” means a domestic or international organization that plans, develops, establishes, or coordinates voluntary consensus standards using procedures that incorporate the attributes of openness, balance of interests, due process, an appeals process, and consensus in a manner consistent with the Office of Management and Budget Circular Number A–119, as revised February 10, 1998. The term “standards development organization” shall not, for purposes of this chapter, include the parties participating in the standards development organization.
+
+&emsp;(9) The term “technical standard” has the meaning given such term in section 12(d)(4) <sup>1</sup> of the National Technology Transfer and Advancement Act of 1995.
+
+&emsp;(10) The term “voluntary consensus standard” has the meaning given such term in Office of Management and Budget Circular Number A–119, as revised February 10, 1998.
+
 (b) The term “joint venture” excludes the following activities involving two or more persons:
 
 &emsp;(1) exchanging information among competitors relating to costs, sales, profitability, prices, marketing, or distribution of any product, process, or service if such information is not reasonably required to carry out the purpose of such venture,
@@ -60,9 +68,25 @@
 
 &emsp;(8) except as provided in paragraphs (2), (3), and (6), entering into any agreement or engaging in any other conduct to restrict or require participation by any person who is a party to such venture, in any unilateral or joint activity that is not reasonably required to carry out the purpose of such venture.
 
-(Pub. L. 98–462, §2, Oct. 11, 1984, 98 Stat. 1815; Pub. L. 103–42, §3(b), (c), June 10, 1993, 107 Stat. 117, 118.)
+(c) The term “standards development activity” excludes the following activities:
+
+&emsp;(1) Exchanging information among competitors relating to cost, sales, profitability, prices, marketing, or distribution of any product, process, or service that is not reasonably required for the purpose of developing or promulgating a voluntary consensus standard, or using such standard in conformity assessment activities.
+
+&emsp;(2) Entering into any agreement or engaging in any other conduct that would allocate a market with a competitor.
+
+&emsp;(3) Entering into any agreement or conspiracy that would set or restrain prices of any good or service.
+
+(Pub. L. 98–462, §2, Oct. 11, 1984, 98 Stat. 1815; Pub. L. 103–42, §3(b), (c), June 10, 1993, 107 Stat. 117, 118; Pub. L. 108–237, title I, §103, June 22, 2004, 118 Stat. 663.)
+
+#### References in Text
+
+Section 12(d) of the National Technology Transfer and Advancement Act of 1995, referred to in subsec. (a)(9), is section 12(d) of Pub. L. 104–113, which is set out as a note under section 272 of this title.
 
 #### Amendments
+
+2004—Subsec. (a)(7) to (10). Pub. L. 108–237, §103(1), added pars. (7) to (10).
+
+Subsec. (c). Pub. L. 108–237, §103(2), added subsec. (c).
 
 1993—Subsec. (a)(6). Pub. L. 103–42, §3(b), struck out “research and development” after “joint” in introductory provisions, inserted subpars. (D) and (E), redesignated former subpars. (D) and (E) as (F) and (G), respectively, inserted “or production” after “research” in subpar. (F), substituted “(D), (E), and (F)” for “and (D)” in subpar. (G), and substituted “such venture” for “research” after “facilities for the conducting of” in concluding provisions.
 
@@ -76,6 +100,10 @@ Subsec. (b)(3). Pub. L. 103–42, §3(c)(4), in subpar. (A) substituted “, de
 
 Subsec. (b)(4) to (8). Pub. L. 103–42, §3(c)(5), added pars. (4) to (8).
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–237, title I, §101, June 22, 2004, 118 Stat. 661, provided that: “This title \[amending this section and sections 4302 to 4305 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Standards Development Organization Advancement Act of 2004’.”
+
 #### Short Title of 1993 Amendment
 
 Section 1 of Pub. L. 103–42 provided that: “This Act \[enacting section 4306 of this title, amending this section and sections 4302 to 4305 of this title, enacting provisions set out as notes under this section and section 4305 of this title, and amending a provision set out as a note under this section\] may be cited as the ‘National Cooperative Production Amendments of 1993’.”
@@ -84,7 +112,49 @@ Section 1 of Pub. L. 103–42 provided that: “This Act \[enacting section 4306
 
 Section 1 of Pub. L. 98–462, as amended by Pub. L. 103–42, §3(a), June 10, 1993, 107 Stat. 117, provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Cooperative Research and Production Act of 1993’.”
 
-#### Cooperative Research and Production; Congressional Statement of Findings and Purpose
+#### Construction of 2004 Amendment
+
+Pub. L. 108–237, title I, §108, June 22, 2004, 118 Stat. 665, provided that: “Nothing in this title \[amending this section and sections 4302 to 4305 of this title and enacting provisions set out as notes under this section\] shall be construed to alter or modify the antitrust treatment under existing law of—
+
+&emsp;“(1) parties participating in standards development activity of standards development organizations within the scope of this title, including the existing standard under which the conduct of the parties is reviewed, regardless of the standard under which the conduct of the standards development organizations in which they participate are reviewed, or
+
+&emsp;“(2) other organizations and parties engaged in standard-setting processes not within the scope of this amendment to the title.”
+
+#### Findings and Purpose
+
+Pub. L. 108–237, title I, §102, June 22, 2004, 118 Stat. 661, provided that: “The Congress finds the following:
+
+&emsp;“(1) In 1993, the Congress amended and renamed the National Cooperative Research Act of 1984 (now known as the National Cooperative Research and Production Act of 1993 (15 U.S.C. 4301 et seq.)) by enacting the National Cooperative Production Amendments of 1993 (Public Law 103–42 \[see Short Title of 1993 Amendment note set out above\]) to encourage the use of collaborative, procompetitive activity in the form of research and production joint ventures that provide adequate disclosure to the antitrust enforcement agencies about the nature and scope of the activity involved.
+
+&emsp;“(2) Subsequently, in 1995, the Congress in enacting the National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 note) \[Pub. L. 104–113; see Short Title of 1996 Amendment note set out under section 3701 of this title\] recognized the importance of technical standards developed by voluntary consensus standards bodies to our national economy by requiring the use of such standards to the extent practicable by Federal agencies and by encouraging Federal agency representatives to participate in ongoing standards development activities. The Office of Management and Budget on February 18, 1998, revised Circular A–119 to reflect these changes made in law.
+
+&emsp;“(3) Following enactment of the National Technology Transfer and Advancement Act of 1995, technical standards developed or adopted by voluntary consensus standards bodies have replaced thousands of unique Government standards and specifications allowing the national economy to operate in a more unified fashion.
+
+&emsp;“(4) Having the same technical standards used by Federal agencies and by the private sector permits the Government to avoid the cost of developing duplicative Government standards and to more readily use products and components designed for the commercial marketplace, thereby enhancing quality and safety and reducing costs.
+
+&emsp;“(5) Technical standards are written by hundreds of nonprofit voluntary consensus standards bodies in a nonexclusionary fashion, using thousands of volunteers from the private and public sectors, and are developed under the standards development principles set out in Circular Number A–119, as revised February 18, 1998, of the Office of Management and Budget, including principles that require openness, balance, transparency, consensus, and due process. Such principles provide for—
+
+&emsp;&emsp;“(A) notice to all parties known to be affected by the particular standards development activity,
+
+&emsp;&emsp;“(B) the opportunity to participate in standards development or modification,
+
+&emsp;&emsp;“(C) balancing interests so that standards development activities are not dominated by any single group of interested persons,
+
+&emsp;&emsp;“(D) readily available access to essential information regarding proposed and final standards,
+
+&emsp;&emsp;“(E) the requirement that substantial agreement be reached on all material points after the consideration of all views and objections, and
+
+&emsp;&emsp;“(F) the right to express a position, to have it considered, and to appeal an adverse decision.
+
+&emsp;“(6) There are tens of thousands of voluntary consensus standards available for government use. Most of these standards are kept current through interim amendments and interpretations, issuance of addenda, and periodic reaffirmation, revision, or reissuance every 3 to 5 years.
+
+&emsp;“(7) Standards developed by government entities generally are not subject to challenge under the antitrust laws.
+
+&emsp;“(8) Private developers of the technical standards that are used as Government standards are often not similarly protected, leaving such developers vulnerable to being named as codefendants in lawsuits even though the likelihood of their being held liable is remote in most cases, and they generally have limited resources to defend themselves in such lawsuits.
+
+&emsp;“(9) Standards development organizations do not stand to benefit from any antitrust violations that might occur in the voluntary consensus standards development process.
+
+&emsp;“(10) As was the case with respect to research and production joint ventures before the passage of the National Cooperative Research and Production Act of 1993, if relief from the threat of liability under the antitrust laws is not granted to voluntary consensus standards bodies, both regarding the development of new standards and efforts to keep existing standards current, such bodies could be forced to cut back on standards development activities at great financial cost both to the Government and to the national economy.”
 
 Section 2 of Pub. L. 103–42 provided that:
 
@@ -102,7 +172,5 @@ Findings.—The Congress finds that—
 
 Purpose.—It is the purpose of this Act \[see Short Title of 1993 Amendment note above\] to promote innovation, facilitate trade, and strengthen the competitiveness of the United States in world markets by clarifying the applicability of the rule of reason standard and establishing a procedure under which businesses may notify the Department of Justice and Federal Trade Commission of their cooperative ventures and thereby qualify for a single-damages limitation on civil antitrust liability.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4305, 4306 of this title; title 42 section 13541.
+<i><sup>1</sup></i><i> So in original. Probably should be section “12(d)(5)”.</i>
 

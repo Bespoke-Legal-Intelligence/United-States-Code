@@ -14,7 +14,3 @@ This Act, referred to in text, means act Aug. 2, 1946, ch. 744, 60 Stat. 806. Fo
 
 Section was formerly classified to section 73b–4 of title 5 prior to the general revision and reenactment of Title 5, Government Organization and Employees by Pub. L. 89–554, Sept. 6, 1966 80 Stat. 378.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 section 1344.
-

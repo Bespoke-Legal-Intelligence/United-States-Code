@@ -24,7 +24,3 @@ Under section 509(a), four types of plaintiffs are entitled to bring an action i
 
 Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title I, §1011(a)(3)\], substituted “statutory” for “compulsory”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 111, 119, 122, 411, 511 of this title.
-

@@ -98,7 +98,7 @@ Section 1279f of title 46, Appendix, referred to in subsecs. (b)(1)(C), (c)(1)(C
 
 #### Prior Provisions
 
-A prior section 312 of Pub. L. 94–265, title III, Apr. 13, 1976, 90 Stat. 359, was set out as an Effective Date note under section 1857 of this title, prior to being amended generally by Pub. L. 104–297.
+A prior section 312 of Pub. L. 94–265, title III, Apr. 13, 1976, 90 Stat. 359, was set out as an Effective Date noteunder section 1857 of this title, prior to being amended generally by Pub. L. 104–297.
 
 #### Transfer of Functions
 
@@ -111,10 +111,6 @@ Section 116(b) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, ti
 &emsp;“(1) subsidizing the expansion and contraction of fishing capacity in fishing fleets managed under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.); and
 
 &emsp;“(2) otherwise influencing the aggregate capital investments in fisheries.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 713c–3; title 42 section 3149; title 46 App. section 1279f.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

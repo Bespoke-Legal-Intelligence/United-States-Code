@@ -40,11 +40,3 @@ Section 28, formerly section 21, of Pub. L. 85–172, as renumbered by Pub. L. 9
 
 Pub. L. 85–929, §7, Sept. 6, 1958, 72 Stat. 1789, provided that: “Nothing in this Act \[amending sections 321, 331, 342, 346, and 348 of this title and section 210 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 321 and 342 of this title\] shall be construed to exempt any meat or meat food product or any person from any requirement imposed by or pursuant to the Poultry Products Inspection Act (21 U.S.C. 451 and the following) \[this chapter\] or the Meat Inspection Act of March 4, 1907, 34 Stat. 1260, as amended and extended (21 U.S.C. 71 and the following) \[see section 601 et seq. of this title\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 321, 454 of this title.
-
-#### Act Referred to in Other Sections
-
-The Wholesome Poultry Products Act is referred to in section 1053 of this title.
-

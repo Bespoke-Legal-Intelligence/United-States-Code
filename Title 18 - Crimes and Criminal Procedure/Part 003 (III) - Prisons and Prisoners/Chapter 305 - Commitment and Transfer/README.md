@@ -19,10 +19,6 @@
 
 1965—Pub. L. 89–176, §2, Sept. 10, 1965, 79 Stat. 675, substituted “residential treatment centers, extension of limits of confinement; work furlough” for “transfer” in item 4082.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 10 section 955.
-
 
 ---
 

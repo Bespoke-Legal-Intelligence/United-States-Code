@@ -40,7 +40,7 @@ Each agreement entered into under this section shall—
 
 &emsp;&emsp;(ii) repayable less frequently than monthly and in default for at least 180 days;
 
-&emsp;(C) the term “grace period” means the period of nine months beginning on the date on which the borrower ceases to pursue a full-time or half-time course of study at a school of nursing; and
+&emsp;(C) the term “grace period” means the period of nine months beginning on the date onwhich the borrower ceases to pursue a full-time or half-time course of study at a school of nursing; and
 
 &emsp;(D) the term “matured loans” means the total principal amount of all loans made by a school of nursing under this part <sup>1</sup> minus the total principal amount of loans made by such school to students who are—
 
@@ -102,11 +102,7 @@ Section 942 of Pub. L. 94–63 provided that: “The amendments made by section 
 
 #### Effective Date of 1968 Amendment
 
-Amendment by section 222(c)(2) of Pub. L. 90–490 applicable with respect to loans made after June 30, 1969,see section 222(i) of Pub. L. 90–490, set out as a note under section 297b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 296e, 297b, 297d, 297e of this title.
+Amendment by section 222(c)(2) of Pub. L. 90–490 applicable with respect to loans made after June 30, 1969, see section 222(i) of Pub. L. 90–490, set out as a note under section 297b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -100,7 +100,3 @@ Pub. L. 95–106, §5, Aug. 17, 1977, 91 Stat. 869, directed International Trade
 
 Act Sept. 1, 1954, ch. 1213, title I, §101, 68 Stat. 1136, as amended Aug. 2, 1956, ch. 894, 70 Stat. 955; May 19, 1958, Pub. L. 85–418, §3, 72 Stat. 120, provided for a complete study by the Tariff Commission for the purpose of clarifying and simplifying the tariff classification, with a report to go to the President and to the chairmen of the appropriate committees of Congress no later than Jan. 1, 1959. See section 1332 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2252, 2463, 3011, 3437 of this title; title 16 section 742h.
-

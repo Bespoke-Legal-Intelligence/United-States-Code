@@ -1,9 +1,5 @@
 ### SUBCHAPTER X—ENERGY AND ECONOMIC GROWTH
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5905, 13522, 13525 of this title.
-
 
 ---
 

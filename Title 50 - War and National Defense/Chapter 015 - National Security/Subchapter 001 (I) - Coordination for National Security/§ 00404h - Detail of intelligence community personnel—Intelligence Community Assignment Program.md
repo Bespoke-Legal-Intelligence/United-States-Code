@@ -2,7 +2,7 @@
 
 #### (a) Detail
 
-(1) Notwithstanding any other provision of law, the head of a department with an elementin the intelligence community or the head of an intelligence community agency or element may detail any employee within that department, agency, or element to serve in any position in the Intelligence Community Assignment Program on a reimbursable or a nonreimbursable basis.
+(1) Notwithstanding any other provision of law, the head of a department with an element in the intelligence community or the head of an intelligence community agency or element may detail any employee within that department, agency, or element to serve in any position in the Intelligence Community Assignment Program on a reimbursable or a nonreimbursable basis.
 
 (2) Nonreimbursable details may be for such periods as are agreed to between the heads of the parent and host agencies, up to a maximum of three years, except that such details may be extended for a period not to exceed one year when the heads of the parent and host agencies determine that such extension is in the public interest.
 
@@ -12,7 +12,7 @@
 
 (2) The head of an agency of an employee detailed under subsection (a) of this section may pay a lodging allowance for the employee subject to the following conditions:
 
-&emsp;(A) The allowance shall be the lesser of the cost of the lodging or a maximum amount payable for the lodging as established jointly by the Director of Central Intelligence and—
+&emsp;(A) The allowance shall be the lesser of the cost of the lodging or a maximum amount payable for the lodging as established jointly by the Director of National Intelligence and—
 
 &emsp;&emsp;(i) with respect to detailed employees of the Department of Defense, the Secretary of Defense; and
 
@@ -28,7 +28,7 @@
 
 &emsp;(F) The rate of pay applicable to the detailed employee does not exceed the rate of basic pay for grade GS–15 of the General Schedule.
 
-(July 26, 1947, ch. 343, title I, §113, as added Pub. L. 105–107, title III, §303(a), Nov. 20, 1997, 111 Stat. 2251; amended Pub. L. 107–108, title III, §304, Dec. 28, 2001, 115 Stat. 1398; Pub. L. 107–306, title VIII, §841(a), Nov. 27, 2002, 116 Stat. 2431.)
+(July 26, 1947, ch. 343, title I, §113, as added Pub. L. 105–107, title III, §303(a), Nov. 20, 1997, 111 Stat. 2251; amended Pub. L. 107–108, title III, §304, Dec. 28, 2001, 115 Stat. 1398; Pub. L. 107–306, title VIII, §841(a), Nov. 27, 2002, 116 Stat. 2431; Pub. L. 108–458, title I, §1071(a)(1)(M), Dec. 17, 2004, 118 Stat. 3689.)
 
 #### References in Text
 
@@ -36,11 +36,17 @@ GS–15 of the General Schedule, referred to in subsec. (b)(2)(F), is set out un
 
 #### Amendments
 
+2004—Subsec. (b)(2)(A). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+
 2002—Subsec. (c). Pub. L. 107–306 struck out heading and text of subsec. (c). Text read as follows: “Not later than March 1, 1999, and annually thereafter, the Director of Central Intelligence shall submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the detail of intelligence community personnel pursuant to subsection (a) of this section during the 12-month period ending on the date of the report. The report shall set forth the number of personnel detailed, the identity of parent and host agencies or elements, and an analysis of the benefits of the details.”
 
 2001—Subsec. (b). Pub. L. 107–108 designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+
 #### Effective Date
 
-Pub. L. 105–107, title III, §303(d), Nov. 20, 1997, 111 Stat. 2252, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to an employee on detail on or after January 1, 1997.”
+Pub. L. 105–107, title III, §303(d), Nov. 20, 1997, 111 Stat. 2252, provided that: “The amendment made bysubsection (a) \[enacting this section\] shall apply to an employee on detail on or after January 1, 1997.”
 

@@ -114,6 +114,8 @@ Subsec. (c)(4). Pub. L. 98–169, §3(c), added par. (4).
 
 #### Change of Name
 
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Termination of Reporting Requirements
@@ -123,8 +125,4 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(4) of this
 #### Consolidated Federal Funds Report
 
 Pub. L. 97–326, Oct. 15, 1982, 96 Stat. 1607, as amended by Pub. L. 97–452, §4(b), Jan. 12, 1983, 96 Stat. 2480, known as the “Consolidated Federal Funds Report Act of 1982”, which required the Director of the Office of Management and Budget to prepare Consolidated Federal Funds Reports for the fiscal years 1981 through 1985, was repealed by Pub. L. 99–547, §2(d), Oct. 27, 1986, 100 Stat. 3060, effective May 1, 1986.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 6104 of this title.
 

@@ -18,7 +18,3 @@ Pub. L. 95–94, title I, Aug. 5, 1977, 91 Stat. 669, provided in part: “That,
 
 Prior similar provisions were contained in Pub. L. 94–303, title I, June 1, 1976, 90 Stat. 616.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1914 of this title.
-

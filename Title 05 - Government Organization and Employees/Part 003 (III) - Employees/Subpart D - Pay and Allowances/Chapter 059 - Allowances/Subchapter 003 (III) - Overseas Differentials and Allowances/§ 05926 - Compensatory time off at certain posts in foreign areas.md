@@ -12,7 +12,3 @@
 
 (Added Pub. L. 95–426, title IV, §411(a), Oct. 7, 1978, 92 Stat. 980.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 1474.
-

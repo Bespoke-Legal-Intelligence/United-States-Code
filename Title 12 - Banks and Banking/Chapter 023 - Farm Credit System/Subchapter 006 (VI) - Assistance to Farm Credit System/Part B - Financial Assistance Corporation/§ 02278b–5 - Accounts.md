@@ -16,7 +16,3 @@ The Financial Assistance Corporation shall establish an account called the Finan
 
 (Pub. L. 92–181, title VI, §6.25, as added Pub. L. 100–233, title II, §201, Jan. 6, 1988, 101 Stat. 1597.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2278a–7, 2278a–9, 2278b–6, 2278b–11, 2279d of this title.
-

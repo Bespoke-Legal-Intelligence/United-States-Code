@@ -26,7 +26,7 @@ Not later than twelve months after November 8, 1984, the Administrator shall pro
 
 &emsp;(iii) the generator maintains such records relating to such used oil, including records of agreements or other arrangements for delivery of such used oil to any recycling facility referred to in clause (i)(I), as the Administrator deems necessary to protect human health and the environment.
 
-(3) The regulations under this subsection regarding the transportation of used oil which is exempt from the standards promulgated under section <sup>1</sup> 6921(d), 6922, and 6923 of this title under paragraph (1) shall require the transporters of such used oil to deliver such used oil to a facility which has a valid permit under section 6925of this title or which is deemed to have a valid permit under subsection (d) of this section. The Administrator shall also establish other standards for such transporters as may be necessary to protect human health and the environment.
+(3) The regulations under this subsection regarding the transportation of used oil which is exempt from the standards promulgated under section <sup>1</sup> 6921(d), 6922, and 6923 of this title under paragraph (1) shall require the transporters of such used oil to deliver such used oil to a facility which has a valid permit under section 6925 of this title or which is deemed to have a valid permit under subsection (d) of this section. The Administrator shall also establish other standards for such transporters as may be necessary to protect human health and the environment.
 
 #### (d) Permits
 
@@ -48,11 +48,7 @@ Subsecs. (b) to (d). Pub. L. 98–616, §241(a), added subsecs. (b) to (d).
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6926, 6930, 6976, 9614 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

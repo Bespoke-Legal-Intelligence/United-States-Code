@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—(1) To the extent provided in advance in an appropriation law or to the extent additional legislative authority is enacted providing for paying claims in a compensation plan submitted under subsection (d) of this section, the Secretary of Transportation shall provide for the payment by the United States Government of a successful claim (including reasonable litigation or settlement expenses) of a third party against a licensee or transferee under this chapter, a contractor, subcontractor, or customer of the licensee or transferee, or a contractor or subcontractor of a customer, resulting from an activity carried out under the license issued or transferred under this chapter for death, bodily injury, or property damage or loss resulting from an activity carried out under the license. However, claims may be paid under this section only to the extent the total amount of successful claims related to one launch or reentry—
+General Requirements.—(1) To the extent provided in advance in an appropriation law or to the extent additional legislative authority is enacted providing for paying claims in a compensation plan submitted under subsection (d) of this section, the Secretary of Transportation shall provide for the payment by the United States Government of a successful claim (including reasonable litigation or settlement expenses) of a third party against a licensee or transferee under this chapter, a contractor, subcontractor, or customer of the licensee or transferee, or a contractor or subcontractor of a customer, but not against a space flight participant, resulting from an activity carried out under the license issued or transferred under this chapter for death, bodily injury, or property damage or loss resulting from an activity carried out under the license. However, claims may be paid under this section only to the extent the total amount of successful claims related to one launch or reentry—
 
 &emsp;(A) is more than the amount of insurance or demonstration of financial responsibility required under section 70112(a)(1)(A) of this title; and
 
@@ -62,7 +62,7 @@ Congressional Resolutions.—(1) In this subsection, “resolution”—
 
 (4)(A) If the committee of the Senate to which a resolution has been referred does not report the resolution within 20 calendar days after it is referred, a motion is in order to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of the plan.
 
-(B) A motion to discharge may be made only by an individual favoring the resolution and is highly privileged (except that the motion may not be made after the committee has reported a resolution on the plan). Debate on the motion is limited to one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order. A motion to reconsider the vote by which the motion is agreed to or disagreed to is not in order.
+(B) A motion to discharge may be made only by an individual favoring the resolution and ishighly privileged (except that the motion may not be made after the committee has reported a resolution on the plan). Debate on the motion is limited to one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order. A motion to reconsider the vote by which the motion is agreed to or disagreed to is not in order.
 
 (C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed and another motion to discharge the committee from another resolution on the same plan may not be made.
 
@@ -82,9 +82,9 @@ Congressional Resolutions.—(1) In this subsection, “resolution”—
 
 (f)
 
-Application.—This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2004.
+Application.—This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2009. This section does not apply to permits.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1338; Pub. L. 104–287, §5(94), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(13), Oct. 28, 1998, 112 Stat. 2850; Pub. L. 106–74, title IV, §433, Oct. 20, 1999, 113 Stat. 1097; Pub. L. 106–377, §1(a)(1) \[title IV, §429\], Oct. 27, 2000, 114 Stat. 1441, 1441A–56; Pub. L. 106–405, §§5(b), 6(a), Nov. 1, 2000, 114 Stat. 1752.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1338; Pub. L. 104–287, §5(94), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(13), Oct. 28, 1998, 112 Stat. 2850; Pub. L. 106–74, title IV, §433, Oct. 20, 1999, 113 Stat. 1097; Pub. L. 106–377, §1(a)(1) \[title IV, §429\], Oct. 27, 2000, 114 Stat. 1441, 1441A–56; Pub. L. 106–405, §§5(b), 6(a), Nov. 1, 2000, 114 Stat. 1752; Pub. L. 108–428, §1, Nov. 30, 2004, 118 Stat. 2432; Pub. L. 108–492, §2(c)(22), (23), Dec. 23, 2004, 118 Stat. 3981.)
 
 Historical and Revision Notes
 
@@ -180,6 +180,12 @@ This amends 49:70113(e)(6)(D) to correct an error in the codification enacted by
 
 #### Amendments
 
+2004—Subsec. (a)(1). Pub. L. 108–492, §2(c)(22), inserted “but not against a space flight participant,” after “subcontractor of a customer,”.
+
+Subsec. (f). Pub. L. 108–492, §2(c)(23), inserted at end “This section does not apply to permits.”
+
+Pub. L. 108–428 substituted “December 31, 2009” for “December 31, 2004”.
+
 2000—Subsec. (e)(1)(A). Pub. L. 106–405, §6(a), substituted “20\_\_\_\_” for “19\_\_\_\_”.
 
 Subsec. (f). Pub. L. 106–405, §5(b), substituted “December 31, 2004” for “December 31, 2001”.
@@ -195,8 +201,4 @@ Pub. L. 106–377 substituted “December 31, 2001” for “December 31, 2000�
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–405, §6(b), Nov. 1, 2000, 114 Stat. 1752, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on January 1, 2000.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 2458c.
 

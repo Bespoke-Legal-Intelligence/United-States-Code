@@ -190,10 +190,6 @@ Grant thresholds provided for in subsec. (b) of this section as amended by Pub. 
 
 Section 211(a)(3) of Pub. L. 102–550 provided that: “The regulation referred to in the amendment made by paragraph (2)(D) \[amending this section\] shall take effect not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\]. The regulation shall not be subject to the requirements of subsections (b) and (c) of section 553 of title 5, United States Code, or section 7(<i>o</i>) of the Department of Housing and Urban Development Act \[42 U.S.C. 3535(<i>o</i>)\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12746, 12748, 12749, 12771, 12821, 12831 of this title.
-
 <i><sup>1</sup></i><i> See 1992 Amendment note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “by”.</i>

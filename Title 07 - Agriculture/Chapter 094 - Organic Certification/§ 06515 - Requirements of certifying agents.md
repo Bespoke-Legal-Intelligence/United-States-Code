@@ -76,7 +76,3 @@ A certifying agent that is a private person shall nominate the individual who co
 
 1991—Subsec. (j)(2). Pub. L. 102–237 substituted “such certifying” for “certifying such”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6506, 6514, 6518 of this title.
-

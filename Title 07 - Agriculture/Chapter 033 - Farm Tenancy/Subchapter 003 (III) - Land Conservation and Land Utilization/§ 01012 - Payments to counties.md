@@ -16,7 +16,3 @@ Repeal by Pub. L. 94–579, insofar as applicable to the issuance of rights-of-w
 
 Provisions of section 706(a) of Pub. L. 94–579, except as pertaining to rights-of-way, not to be construed as affecting the authority of the Secretary of Agriculture under this section, see note set out under section 1701 of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1013a, 1033, 1931, 1981 of this title; title 16 sections 441h, 478a; title 30 section 601; title 31 section 6903.
-

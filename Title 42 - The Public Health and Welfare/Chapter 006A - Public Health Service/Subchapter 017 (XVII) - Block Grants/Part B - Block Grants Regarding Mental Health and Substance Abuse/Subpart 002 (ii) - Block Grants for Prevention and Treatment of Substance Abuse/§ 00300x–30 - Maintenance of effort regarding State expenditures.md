@@ -42,7 +42,3 @@ A prior section 1930 of act July 1, 1944, was classified to section 300y–9 of 
 
 2000—Subsecs. (b) to (d). Pub. L. 106–310 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300x–32, 300x–54, 300x–55 of this title.
-

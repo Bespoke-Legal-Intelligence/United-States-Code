@@ -4,7 +4,3 @@ The Secretary of the Interior shall apportion to each group mentioned in section
 
 (Pub. L. 90–93, §4, Sept. 27, 1967, 81 Stat. 229.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1141 of this title.
-

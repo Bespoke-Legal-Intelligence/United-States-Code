@@ -6,7 +6,7 @@ In investigating a building failure under this chapter, members of a Team, and a
 
 &emsp;(1) enter property where a building failure being investigated has occurred, or where building components, materials, and artifacts with respect to the building failure are located, and take action necessary, appropriate, and reasonable in light of the nature of the property to be inspected to carry out the duties of the Team under section 7301(b)(2)(A) and (B) of this title;
 
-&emsp;(2) during reasonable hours, inspect any record (including any design, construction, or maintenance record), process, or facility related to the investigation;
+&emsp;(2) during reasonable hours, inspect any record (including any design, construction, ormaintenance record), process, or facility related to the investigation;
 
 &emsp;(3) inspect and test any building components, materials, and artifacts related to the building failure; and
 
@@ -54,11 +54,7 @@ An inspection, test, or other action taken by a Team under this section shall be
 
 #### (4) Preservation of evidence
 
-&emsp;If a Federal law enforcement agency suspects and notifies the Director that a building failure being investigated by a Team under this chapter may have been caused by a criminal act, the Team, in consultation with theFederal law enforcement agency, shall take necessary actions to ensure that evidence of the criminal act is preserved.
+&emsp;If a Federal law enforcement agency suspects and notifies the Director that a building failure being investigated by a Team under this chapter may have been caused by a criminal act, the Team, in consultation with the Federal law enforcement agency, shall take necessary actions to ensure that evidence of the criminal act is preserved.
 
 (Pub. L. 107–231, §4, Oct. 1, 2002, 116 Stat. 1472.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7301 of this title.
 

@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;(8) the Federal Government should purchase space goods and services which are commercially available, or could be made available commercially in response to a Government procurement request, whenever such goods or services meet Government mission requirements in a cost effective manner;
 
-&emsp;(9) it is appropriate for the Government to act as an anchor tenant for commercial space development projects which have a reasonablepotential to develop non-Federal markets and which meet Federal needs in a cost effective manner; and
+&emsp;(9) it is appropriate for the Government to act as an anchor tenant for commercial space development projects which have a reasonable potential to develop non-Federal markets and which meet Federal needs in a cost effective manner; and
 
 &emsp;(10) the provision of compensation to commercial providers of space goods and services for termination of contracts at the convenience of the Government assists in enabling the private sector to invest in space activities which are initially dependent on Government purchases.
 

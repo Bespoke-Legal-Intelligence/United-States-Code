@@ -18,7 +18,3 @@ In carrying out the purposes of this subchapter, the Board shall consider the re
 
 (Pub. L. 95–414, §3, Oct. 5, 1978, 92 Stat. 911.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80<i>l</i> of this title.
-

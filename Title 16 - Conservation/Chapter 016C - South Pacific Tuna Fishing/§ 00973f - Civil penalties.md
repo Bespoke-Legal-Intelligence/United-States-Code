@@ -22,7 +22,7 @@ The Secretary, after consultation with the Secretary of State, may compromise, m
 
 #### (f) Conduct of hearings
 
-For the purposes of conducting any hearing under this section, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnessesin the courts of the United States. In case of contempt or refusal to obey a subpoena served upon a person pursuant to this subsection, the district court of the United States for any district in which the person is found, resides, or transacts business, upon application by the United States and after notice to the person, shall have jurisdiction to issue an order requiring the person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary, or both, and any failure to obey the order of the court may be punished by the court as a contempt thereof.
+For the purposes of conducting any hearing under this section, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contempt or refusal to obey a subpoena served upon a person pursuant to this subsection, the district court of the United States for any district in which the person is found, resides, or transacts business, upon application by the United States and after notice to the person, shall have jurisdiction to issue an order requiring the person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary, or both, and any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
 #### (g) Waiver of referral to Attorney General
 
@@ -32,7 +32,7 @@ If a vessel used in a violation of section 973c(a)(1), (2), (3), (4), (5), (6), 
 
 &emsp;(2) within 60 days after the penalty assessment has become final, leaves and remains outside of the Licensing Area, all Limited Areas closed to fishing, and all Closed Areas until the final penalty has been paid,
 
-> there shall be no referral to the Attorney General under subsection (c) of this section or in rem action under subsection (d) of this section in connection with such civil penalty.
+> there shall be no referral to the Attorney General under subsection (c) of this section or inrem action under subsection (d) of this section in connection with such civil penalty.
 
 (Pub. L. 100–330, §8, June 7, 1988, 102 Stat. 594; Pub. L. 100–350, §4(1), (2), June 27, 1988, 102 Stat. 660.)
 
@@ -41,10 +41,6 @@ If a vessel used in a violation of section 973c(a)(1), (2), (3), (4), (5), (6), 
 1988—Subsec. (a). Pub. L. 100–350, §4(1), substituted “and gravity” for “any gravity” and “history of prior” for “history or prior”.
 
 Subsec. (g)(1). Pub. L. 100–350, §4(2), substituted “Treaty” for “Treasury”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 973<i>o</i> of this title.
 
 <i><sup>1</sup></i><i> So in original. “Code” probably should not appear.</i>
 

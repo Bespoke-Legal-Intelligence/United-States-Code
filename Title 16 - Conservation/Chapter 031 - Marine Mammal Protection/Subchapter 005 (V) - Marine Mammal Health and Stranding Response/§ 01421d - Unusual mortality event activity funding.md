@@ -50,7 +50,3 @@ Subsec. (b)(1)(A)(iii). Pub. L. 103–238, §6(1), added cl. (iii).
 
 Subsec. (d). Pub. L. 103–238, §6(2), inserted “and section 1374(c)(2)(D) of this title”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1421g, 1421h of this title.
-

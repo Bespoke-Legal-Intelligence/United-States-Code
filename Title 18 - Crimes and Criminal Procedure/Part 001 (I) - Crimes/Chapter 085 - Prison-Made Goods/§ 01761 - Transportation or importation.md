@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) contributions to any fund established by law to compensate the victims of crime of not more than 20 per centum but not less than 5 per centum of gross wages;
 
-&emsp;(3) have not solely by their status as offenders, been deprived of the right to participate in benefits made available by the Federal or State Government to other individuals on the basis of their employment, such as workmen's compensation. However, such convicts or prisoners shall not be qualified to receive any payments for unemployment compensation while incarcerated, notwithstanding any other provision of the law to the contrary; and
+&emsp;(3) have not solely by their status as offenders, been deprived of the right to participatein benefits made available by the Federal or State Government to other individuals on the basis of their employment, such as workmen's compensation. However, such convicts or prisoners shall not be qualified to receive any payments for unemployment compensation while incarcerated, notwithstanding any other provision of the law to the contrary; and
 
 &emsp;(4) have participated in such employment voluntarily and have agreed in advance to the specific deductions made from gross wages pursuant to this section, and all other financial arrangements as a result of participation in such employment.
 
@@ -82,13 +82,9 @@ Pub. L. 101–647, title XXIX, §2908, Nov. 29, 1990, 104 Stat. 4915, which requ
 
 #### Exemptions to Federal Restrictions on Marketability of Prison-Made Goods
 
-Pub. L. 90–351, title I, §819(c), formerly §827(c), as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1215, renumbered and amended Pub. L. 98–473, title II, §609B(f), (<i>o</i>), Oct. 12, 1984, 98 Stat. 2093, 2096, provided that: “The provisions of section 1761 of title 18, United States Code, and of the first section of the Act of June 30, 1936 (49 Stat. 2036; 41 U.S.C. 35), commonly known as the Walsh-Healey Act, creating exemptions to Federal restrictions on marketability of prison-made goods, as amended from time to time, shall not apply unless—
+Pub. L. 90–351, title I, §819(c), formerly §827(c), as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1215, renumbered and amended Pub. L. 98–473, title II, §609B(f), (<i>o</i>), Oct. 12, 1984, 98 Stat. 2093, 2096, provided that: “The provisions of section 1761 of title 18, United States Code, and of the first section of the Act of June 30, 1936 (49 Stat. 2036; 41 U.S.C. 35), commonly known as theWalsh-Healey Act, creating exemptions to Federal restrictions on marketability of prison-made goods, as amended from time to time, shall not apply unless—
 
 &emsp;“(1) representatives of local union central bodies or similar labor union organizations have been consulted prior to the initiation of any project qualifying of any exemption created by this section; and
 
 &emsp;“(2) such paid inmate employment will not result in the displacement of employed workers, or be applied in skills, crafts, or trades in which there is a surplus of available gainful labor in the locality, or impair existing contracts for services.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1762 of this title; title 41 section 35.
 

@@ -58,7 +58,3 @@ Another prior section 795k, Pub. L. 93–112, title VI, §632, as added Pub. L. 
 
 1998—Pub. L. 105–277 made technical amendment in original to section designation and catchline.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 795<i>l</i> of this title.
-

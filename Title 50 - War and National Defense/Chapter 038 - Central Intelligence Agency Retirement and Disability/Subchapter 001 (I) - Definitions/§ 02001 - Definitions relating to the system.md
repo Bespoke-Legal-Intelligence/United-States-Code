@@ -8,7 +8,7 @@ When used in this chapter:
 
 #### (2) Director
 
-&emsp;The term “Director” means the Director of Central Intelligence.
+&emsp;The term “Director” means the Director of the Central Intelligence Agency.
 
 #### (3) Qualifying service
 
@@ -52,7 +52,7 @@ When used in this chapter:
 
 &emsp;The term “employee” includes an officer of the Agency.
 
-(Pub. L. 88–643, title I, §101, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3197; amended Pub. L. 103–178, title II, §202(a)(1), Dec. 3, 1993, 107 Stat. 2025.)
+(Pub. L. 88–643, title I, §101, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3197; amended Pub. L. 103–178, title II, §202(a)(1), Dec. 3, 1993, 107 Stat. 2025; Pub. L. 108–458, title I, §1071(c), Dec. 17, 2004, 118 Stat. 3691.)
 
 #### Prior Provisions
 
@@ -60,7 +60,13 @@ A prior section 101 of Pub. L. 88–643, title I, Oct. 13, 1964, 78 Stat. 1043, 
 
 #### Amendments
 
+2004—Par. (2). Pub. L. 108–458 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The term ‘Director’ means the Director of Central Intelligence.”
+
 1993—Par. (7). Pub. L. 103–178 substituted “basic pay and amounts deposited” for “basic pay, amounts deposited” and struck out “, and interest determined under section 2121 of this title” after “section 2082(h) of this title”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -126,7 +132,7 @@ Pub. L. 97–269, title VI, §613, Sept. 27, 1982, 96 Stat. 1154, provided that:
 
 “(a) Except as provided in subsections (b) and (c) of this section, this title \[enacting section 403n of this title and sections 222 and 223 of Pub. L. 88–643 and amending sections 204, 211, 221, 234, and 263 of Pub. L. 88–643\] shall take effect on November 15, 1982.
 
-“(b) The provisions of section 222(a) of the Central Intelligence Agency Retirement Act of 1964 for CertainEmployees \[Pub. L. 88–643\], as added by this title, regarding the rights of former spouses to an annuity shall apply in the case of any individual who after the effective date of this title \[Nov. 15, 1982\] becomes a former spouse of an individual who separates from service with the Agency after such date.
+“(b) The provisions of section 222(a) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\], as added by this title, regarding the rights of former spouses to an annuity shall apply in the case of any individual who after the effective date of this title \[Nov. 15, 1982\] becomes a former spouse of an individual who separates from service with the Agency after such date.
 
 “(c) Except to the extent provided in section 223 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\], the provisions of section 221(b) (as amended by this title) and the provisions of subsections (b) and (c) of section 222 of such Act, as added by this title, regarding the rights of former spouses to receive survivor annuities shall apply in the case of any individual who after the effective date of this title \[Nov. 15, 1982\] becomes a former spouse of a participant or former participant in the Central Intelligence Agency Retirement and Disability System.”
 
@@ -198,7 +204,7 @@ For provision that any new spending authority (within the meaning of section 401
 
 Pub. L. 94–522, title II, §214, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
-“(a) An annuity payable from the Central Intelligence Agency Retirement and Disability Fund to an annuitant which is based on a separation occurring prior to October 20, 1969, is increased by $240 per annum.
+“(a) An annuity payable from the Central Intelligence Agency Retirement and Disability Fund to anannuitant which is based on a separation occurring prior to October 20, 1969, is increased by $240 per annum.
 
 “(b) In lieu of any increase based on an increase under subsection (a) of this section, an annuity payable from the Central Intelligence Agency Retirement and Disability Fund to the surviving spouse of an annuitant, which is based on a separation occurring prior to October 20, 1969, shall be increased by $132 per annum.
 

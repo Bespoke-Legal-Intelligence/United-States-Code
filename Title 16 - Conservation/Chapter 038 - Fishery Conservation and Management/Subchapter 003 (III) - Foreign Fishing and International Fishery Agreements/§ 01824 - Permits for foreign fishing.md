@@ -222,7 +222,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 #### (8) Use of fines and penalties
 
-&emsp;In the case of violations occurring within the exclusive economic zone off American Samoa, Guam, or the Northern Mariana Islands, amounts received by the Secretary which are attributable to fines or penalties imposed under this chapter, including suchsums collected from the forfeiture and disposition or sale of property seized subject to its authority, after payment of direct costs of the enforcement action to all entities involved in such action, shall be deposited into the Treasury of the Pacific Insular Area adjacent to the exclusive economic zone in which the violation occurred, to be used for fisheries enforcement and for implementation of a marine conservation plan under paragraph (4).
+&emsp;In the case of violations occurring within the exclusive economic zone off American Samoa, Guam, or the Northern Mariana Islands, amounts received by the Secretary which are attributable to fines or penalties imposed under this chapter, including such sums collected from the forfeiture and disposition or sale of property seized subject to its authority, after payment of direct costs of the enforcement action to all entities involved in such action, shall be deposited into the Treasury of the Pacific Insular Area adjacent to the exclusive economic zone in which the violation occurred, to be used for fisheries enforcement and for implementation of a marine conservation plan under paragraph (4).
 
 (Pub. L. 94–265, title II, §204, Apr. 13, 1976, 90 Stat. 342; Pub. L. 95–354, §4(5)–(8), Aug. 28, 1978, 92 Stat. 520, 521; Pub. L. 96–470, title I, §111(b), title II, §208, Oct. 19, 1980, 94 Stat. 2239, 2245; Pub. L. 96–561, title II, §232, Dec. 22, 1980, 94 Stat. 3298; Pub. L. 97–453, §3, Jan. 12, 1983, 96 Stat. 2483; Pub. L. 99–272, title VI, §6021, Apr. 7, 1986, 100 Stat. 123; Pub. L. 99–659, title I, §§101(c)(2), 102, 103(b), Nov. 14, 1986, 100 Stat. 3707, 3709; Pub. L. 101–627, title I, §§106, 120(b), Nov. 28, 1990, 104 Stat. 4440, 4459; Pub. L. 102–251, title III, §301(f), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §105(d), Oct. 11, 1996, 110 Stat. 3564.)
 
@@ -313,8 +313,4 @@ Section 232(b) of Pub. L. 96–561 provided that the amendment made by that sect
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1371, 1383a, 1387, 1821, 1822, 1825, 1852, 1853, 1856, 1857, 1861 of this title; title 22 section 1980.
 

@@ -24,9 +24,5 @@ For purposes of this subchapter—
 
 (Pub. L. 100–228, §3, Dec. 31, 1987, 101 Stat. 1557.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1772c of this title.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

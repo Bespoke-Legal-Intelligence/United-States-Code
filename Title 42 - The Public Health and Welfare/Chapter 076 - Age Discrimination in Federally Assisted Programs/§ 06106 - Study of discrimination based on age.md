@@ -6,7 +6,7 @@ The Commission on Civil Rights shall (1) undertake a study of unreasonable discr
 
 #### (b) Public hearings
 
-As part of the study required by this section, the Commission shall conduct public hearings to elicit the views of interested parties, including Federal departments and agencies, on issues relating to age discrimination in programs and activities receiving Federal financial assistance, and particularly with respect to the reasonableness of distinguishing, on the basis of age, among potential participants in, or beneficiaries of, specific federally assisted programs.
+As part of the study required by this section, the Commission shall conduct public hearings toelicit the views of interested parties, including Federal departments and agencies, on issues relating to age discrimination in programs and activities receiving Federal financial assistance, and particularly with respect to the reasonableness of distinguishing, on the basis of age, among potential participants in, or beneficiaries of, specific federally assisted programs.
 
 #### (c) Publication of results of analyses, research and studies by independent experts; services of voluntary or uncompensated personnel
 
@@ -18,7 +18,7 @@ Not later than two years after November 28, 1975, the Commission shall transmit 
 
 #### (e) Comments and recommendations of Federal departments and agencies; submission to President and Congressional committees
 
-Not later than forty-five working days after receiving a copy of the report required by subsection (d) of this section, each Federal department or agency with respect to which the Commission makes findings or recommendations shall submit its comments and recommendations regarding such report to the President andto the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives.
+Not later than forty-five working days after receiving a copy of the report required by subsection (d) of this section, each Federal department or agency with respect to which the Commission makes findings or recommendations shall submit its comments and recommendations regarding such report to the President and to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives.
 
 #### (f) Cooperation of Federal departments and agencies with Commission
 
@@ -42,11 +42,7 @@ Section 105(b) of the Civil Rights Act of 1957, referred to in subsec. (c), is s
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
-Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999. Previously, Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979.
 
 Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6103 of this title.
 

@@ -1,6 +1,6 @@
 ### §832. Completion and maintenance of project; generation of electricity
 
-For the purpose of improving navigation on the Columbia River, and for other purposes incidental thereto, the dam, locks, power plant, and appurtenant works under construction on August 20, 1937, at Bonneville, Oregon and North Bonneville, Washington (called Bonneville project in this chapter), shall be completed, maintained, and operated under the direction of the Secretary of the Army and the supervision of the Chief of Engineers, subject to the provisions of this chapter relating to the powers and duties of the Bonneville power administrator provided for in section 832a(a) of this title (called the administrator in this chapter) respecting the transmission and sale of electricenergy generated at said project. The Secretary of the Army shall provide, construct, operate, maintain, and improve at Bonneville project such machinery, equipment, and facilities for the generation of electric energy as the administrator may deem necessary to develop such electric energy as rapidly as markets may be found therefor. The electric energy thus generated and not required for the operation of the dam and locks at such project and the navigation facilities employed in connection therewith shall be delivered to the administrator, for disposition as provided in this chapter.
+For the purpose of improving navigation on the Columbia River, and for other purposes incidental thereto, the dam, locks, power plant, and appurtenant works under construction on August 20, 1937, at Bonneville, Oregon and North Bonneville, Washington (called Bonneville project in this chapter), shall be completed, maintained, and operated under the direction of the Secretary of the Army and the supervision of the Chief of Engineers, subject to the provisions of this chapter relating to the powers and duties of the Bonneville power administrator provided for in section 832a(a) of this title (called the administrator in this chapter) respecting the transmission and sale of electric energy generated at said project. The Secretary of the Army shall provide, construct, operate, maintain, and improve at Bonneville project such machinery, equipment, and facilities for the generation of electric energy as the administrator may deem necessary to develop such electric energy as rapidly as markets may be found therefor. The electric energy thus generated and not required for the operation of the dam and locks at such project and the navigation facilities employed in connection therewith shall be delivered to the administrator, for disposition as provided in this chapter.
 
 (Aug. 20, 1937, ch. 720, §1, 50 Stat. 731; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
@@ -15,8 +15,4 @@ Act Aug. 20, 1937, ch. 720, 50 Stat. 731, which enacted this chapter, is popular
 #### Transfer of Functions
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 832f of title.
 

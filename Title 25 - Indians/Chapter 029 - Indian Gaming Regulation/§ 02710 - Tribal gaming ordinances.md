@@ -40,7 +40,7 @@
 
 &emsp;(F) there is an adequate system which—
 
-&emsp;&emsp;(i) ensures that background investigations are conducted on the primary management officials and key employees of the gaming enterprise and that oversight of such officials and their management is conducted on an ongoing basis; and
+&emsp;&emsp;(i) ensures that background investigations are conducted on the primary management officials and key employees of the gamingenterprise and that oversight of such officials and their management is conducted on an ongoing basis; and
 
 &emsp;&emsp;(ii) includes—
 
@@ -74,7 +74,7 @@
 
 (ii) The exemption from the application of this subsection provided under this subparagraph may not be transferred to any person or entity and shall remain in effect only so long as the gaming activity remains within the same nature and scope as operated on October 17, 1988.
 
-(iii) Within sixty days of October 17, 1988, the Secretary shall prepare a list of each individually owned gaming operation to which clause\(i) applies and shall publish such list in the Federal Register.
+(iii) Within sixty days of October 17, 1988, the Secretary shall prepare a list of each individually owned gaming operation to which clause (i) applies and shall publish such list in the Federal Register.
 
 #### (c) Issuance of gaming license; certificate of self-regulation
 
@@ -245,10 +245,6 @@
 For purposes of this section, by not later than the date that is 90 days after the date on which any tribal gaming ordinance or resolution is submitted to the Chairman, the Chairman shall approve such ordinance or resolution if it meets the requirements of this section. Any such ordinance or resolution not acted upon at the end of that 90-day period shall be considered to have been approved by the Chairman, but only to the extent such ordinance or resolution is consistent with the provisions of this chapter.
 
 (Pub. L. 100–497, §11, Oct. 17, 1988, 102 Stat. 2472.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1775b, 2703 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—NATIONAL ENDOWMENT FOR DEMOCRACY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2275 of this title.
-
 
 ---
 

@@ -30,7 +30,3 @@ Pub. L. 108–83, title I, §106, Sept. 30, 2003, 117 Stat. 1018, provided that:
 
 &emsp;“(2) 36.5 percent of such allowance shall be transferred to the Office of the Minority Leader.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 74d–1 of this title.
-

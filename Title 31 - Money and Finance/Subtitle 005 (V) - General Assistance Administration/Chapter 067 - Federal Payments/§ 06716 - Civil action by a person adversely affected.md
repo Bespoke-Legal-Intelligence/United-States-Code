@@ -2,7 +2,7 @@
 
 (a)
 
-Authority for Private Suits in Federal or State Court.—If a unit of general local government, or an officer or employee of a unit of general local government acting in an official capacity, engages in a practice prohibited by this chapter, a person adversely affected by the practice may bring a civil action in an appropriate district court of the United States or a State court of general jurisdiction. Before bringing an action under this section, the personmust exhaust administrative remedies under subsection (b).
+Authority for Private Suits in Federal or State Court.—If a unit of general local government, or an officer or employee of a unit of general local government acting in an official capacity, engages in a practice prohibited by this chapter, a person adversely affected by the practice may bring a civil action in an appropriate district court of the United States or a State court of general jurisdiction. Before bringing an action under this section, the person must exhaust administrative remedies under subsection (b).
 
 (b)
 
@@ -35,8 +35,4 @@ Intervention by Attorney General.—In an action under this section to enforce c
 #### Prior Provisions
 
 A prior section 6716, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1024; Pub. L. 98–185, §9(f), (g), Nov. 30, 1983, 97 Stat. 1312; Pub. L. 98–216, §1(8), Feb. 14, 1984, 98 Stat. 4, related to prohibition of discrimination, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6714, 6718, 6720 of this title.
 

@@ -64,7 +64,27 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VII—RETENTION OF RETIRED SPECIALIZED EMPLOYEES AT THE FEDERAL BUREAU OF INVESTIGATION
+
+|  |  |
+| :--- | ---: |
+| 3598\.<sup>1</sup> | Federal Bureau of Investigation reserve service.<sup>2</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 3598\.<sup>1</sup> | Federal Bureau of Investigation Reserve Service. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+2004—Pub. L. 108–447, div. B, title I, §114(b), Dec. 8, 2004, 118 Stat. 2869, and Pub. L. 108–458, title II, §2004(b), Dec. 17, 2004, 118 Stat. 3704, amended analysis identically, adding item for subchapter VII.
+
+Pub. L. 108–458, title II, §2004(b), Dec. 17, 2004, 118 Stat. 3704, added item 3598, set out second.
+
+Pub. L. 108–447, div. B, title I, §114(b), Dec. 8, 2004, 118 Stat. 2869, added item 3598, set out first.
 
 2002—Pub. L. 107–296, title XIII, §1313(a)(1)(B), Nov. 25, 2002, 116 Stat. 2294, substituted “RETENTION PREFERENCE, VOLUNTARY SEPARATION INCENTIVE PAYMENTS, RESTORATION, AND REEMPLOYMENT” for “RETENTION PREFERENCE, RESTORATION, AND REEMPLOYMENT” in chapter heading and added item for subchapter II and items 3521 to 3525.
 
@@ -89,3 +109,4 @@
 - [Subchapter 004 (IV) - Reemployment After Service with an International Organization](Subchapter%20004%20%28IV%29%20-%20Reemployment%20After%20Service%20with%20an%20International%20Organization/README.md)
 - [Subchapter 005 (V) - Removal, Reinstatement, and Guaranteed Placement in the Senior Executive Service](Subchapter%20005%20%28V%29%20-%20Removal%2C%20Reinstatement%2C%20and%20Guaranteed%20Placement%20in%20the%20Senior%20Executive%20Service/README.md)
 - [Subchapter 006 (VI) - Reemployment Following Limited Appointment in the Foreign Service](Subchapter%20006%20%28VI%29%20-%20Reemployment%20Following%20Limited%20Appointment%20in%20the%20Foreign%20Service/README.md)
+- [Subchapter 007 (VII) - Retention of Retired Specialized Employees at the Federal Bureau of Investigation](Subchapter%20007%20%28VII%29%20-%20Retention%20of%20Retired%20Specialized%20Employees%20at%20the%20Federal%20Bureau%20of%20Investigation/README.md)

@@ -12,7 +12,7 @@
 
 #### (3) State lands
 
-&emsp;Lands, waters, and interests in lands and waters within the boundaries of the Preserve that are owned by the State of Alabama, or any political subdivision of the State, may be acquired only by donation or exchange.
+&emsp;Lands, waters, and interests in lands and waters within the boundaries of the Preservethat are owned by the State of Alabama, or any political subdivision of the State, may be acquired only by donation or exchange.
 
 #### (b) Negotiations for acquisition
 
@@ -57,8 +57,4 @@ No lands or interest in lands may be added to the Preserve after October 21, 199
 #### Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698q, 698r, 698t of this title.
 

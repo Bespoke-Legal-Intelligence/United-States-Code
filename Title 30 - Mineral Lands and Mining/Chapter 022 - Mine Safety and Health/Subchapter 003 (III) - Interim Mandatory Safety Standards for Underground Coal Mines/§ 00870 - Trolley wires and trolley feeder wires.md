@@ -18,7 +18,3 @@ Trolley wires, trolley feeder wires, and bare signal wires shall be insulated ad
 
 (Pub. L. 91–173, title III, §310, Dec. 30, 1969, 83 Stat. 783.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 861 of this title.
-

@@ -26,7 +26,3 @@ Any licensee who causes any break in or injury to any submarine cable or pipelin
 
 (Pub. L. 96–320, title I, §103, Aug. 3, 1980, 94 Stat. 982.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9152 of this title.
-

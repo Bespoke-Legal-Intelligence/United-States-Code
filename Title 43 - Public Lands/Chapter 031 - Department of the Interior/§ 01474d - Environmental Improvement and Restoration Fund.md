@@ -42,7 +42,7 @@ A project referred to in subsection (c)(1) of this section shall be consistent w
 
 (1) Funds available under subsection (c)(2) of this section shall be used by the Secretary of Commerce according to this subsection to provide grants to Federal, State, private or foreign organizations or individuals to conduct research activities on or relating to the fisheries or marine ecosystems in the north Pacific Ocean, Bering Sea, and Arctic Ocean (including any lesser related bodies of water).
 
-(2) Research priorities and grant requests shall be reviewed by a board to be known as the North Pacific Research Board (referred to in this subsection as the “Board”). The Board shall seek to avoid duplicating other research activities, andshall place a priority on cooperative research efforts designed to address pressing fishery management or marine ecosystem information needs.
+(2) Research priorities and grant requests shall be reviewed by a board to be known as the North Pacific Research Board (referred to in this subsection as the “Board”). The Board shall seek to avoid duplicating other research activities, and shall place a priority on cooperative research efforts designed to address pressing fishery management or marine ecosystem information needs.
 
 (3) The Board shall be comprised of the following representatives or their designees—
 

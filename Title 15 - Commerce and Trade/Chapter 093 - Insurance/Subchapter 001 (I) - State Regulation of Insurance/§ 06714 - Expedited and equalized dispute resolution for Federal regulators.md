@@ -10,7 +10,7 @@ The United States Court of Appeals in which a petition for review is filed in ac
 
 #### (c) Supreme Court review
 
-Any request for certiorari to the Supreme Court of the United States of any judgment of a United States Court of Appeals with respect to a petition for review under this section shall be filed with the Supreme Court of the United States as soon as practicable after such judgment is issued.
+Any request for certiorari to the Supreme Court of the United States of any judgment of a United States Court of Appeals with respect to a petition for review under this section shall be filed with the Supreme Court of the UnitedStates as soon as practicable after such judgment is issued.
 
 #### (d) Statute of limitation
 
@@ -25,8 +25,4 @@ No petition may be filed under this section challenging an order, ruling, determ
 The court shall decide a petition filed under this section based on its review on the merits of all questions presented under State and Federal law, including the nature of the product or activity and the history and purpose of its regulation under State and Federal law, without unequal deference.
 
 (Pub. L. 106–102, title III, §304, Nov. 12, 1999, 113 Stat. 1409.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6701 of this title.
 

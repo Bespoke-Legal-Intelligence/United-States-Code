@@ -4,7 +4,3 @@ All the laws applicable to places under sole and exclusive jurisdiction of the U
 
 (June 2, 1920, ch. 218, §1, 41 Stat. 731.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 63, 64, 65 of this title.
-

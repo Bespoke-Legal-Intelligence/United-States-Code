@@ -60,9 +60,5 @@ Assistance Capability and Systems Security and Integrity Requirements.—Section
 
 #### Short Title
 
-Section 101 of title I of Pub. L. 103–414 provided that: “This title \[enacting this subchapter and provisions set out as a note above\] may be cited as the ‘Communications Assistance for Law Enforcement Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 2522.
+Section 101 of title I of Pub. L. 103–414 provided that: “This title \[enacting this subchapter and provisions setout as a note above\] may be cited as the ‘Communications Assistance for Law Enforcement Act’.”
 

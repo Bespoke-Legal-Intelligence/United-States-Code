@@ -12,5 +12,5 @@ For effective date of this subchapter, referred to in subsec. (a), see section 9
 
 #### Amendments
 
-1982—Subsec. (a). Pub. L. 97–375 struck out requirement that the Attorney General make a report on the same terms as the Board, and that such report also contain an analysis of the impact of this subchapter on the operation, workload, and efficiency of the Federal courts, and substituted “necessary and appropriate” for “necessary or appropriate”.
+1982—Subsec. (a). Pub. L. 97–375 struck out requirement that the Attorney General make a report on the same terms as the Board, and that such report also contain an analysis of the impact of this subchapter on theoperation, workload, and efficiency of the Federal courts, and substituted “necessary and appropriate” for “necessary or appropriate”.
 

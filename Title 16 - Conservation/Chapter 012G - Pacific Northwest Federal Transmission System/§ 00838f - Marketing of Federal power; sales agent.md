@@ -10,7 +10,3 @@ Functions of Secretary of the Interior with respect to Bonneville Power Administ
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 838g of this title.
-

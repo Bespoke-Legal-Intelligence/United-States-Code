@@ -10,7 +10,3 @@ As soon as practicable after October 21, 1970, and following the acquisition by 
 
 (Pub. L. 91–479, §2, Oct. 21, 1970, 84 Stat. 1075.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460x–3, 460x–11 of this title.
-

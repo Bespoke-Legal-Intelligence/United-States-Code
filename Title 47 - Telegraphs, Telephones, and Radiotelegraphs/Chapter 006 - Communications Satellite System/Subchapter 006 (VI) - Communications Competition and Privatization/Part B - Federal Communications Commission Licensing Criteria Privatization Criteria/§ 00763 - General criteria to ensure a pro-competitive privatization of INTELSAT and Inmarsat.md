@@ -36,13 +36,13 @@ The President and the Commission shall secure a pro-competitive privatization of
 
 #### (5) Conversion to stock corporations
 
-&emsp;Any successor entity or separated entity created out of INTELSAT or Inmarsat shall be a national corporation or similar accepted commercial structure, subject to the laws of the nation in which incorporated, as follows:
+&emsp;Any successor entity or separated entity created out of INTELSAT or Inmarsat shall bea national corporation or similar accepted commercial structure, subject to the laws of the nation in which incorporated, as follows:
 
 &emsp;&emsp;(A) An initial public offering of securities of any successor entity or separated entity—
 
-&emsp;&emsp;&emsp;(i) shall be conducted, for the successor entities of INTELSAT, on or about December 31, 2003, except that the Commission may extend this deadline in consideration of market conditions and relevant business factors relating to the timing of an initial public offering, but such extensions shall not permit such offering to be conducted later than June 30, 2004; and
+&emsp;&emsp;&emsp;(i) shall be conducted, for the successor entities of INTELSAT, on or about June 30, 2005, except that the Commission may extend this deadline in consideration of market conditions and relevant business factors relating to the timing of an initial public offering, but such extensions shall not permit such offering to be conducted later than December 31, 2005; and
 
-&emsp;&emsp;&emsp;(ii) shall be conducted, for the successor entities of Inmarsat, not later than June 30, 2004, except that the Commission may extend this deadline to not later than December 31, 2004.
+&emsp;&emsp;&emsp;(ii) shall be conducted, for the successor entities of Inmarsat, not later than June 30, 2005, except that the Commission may extend this deadline to not later than December 31, 2004.
 
 &emsp;&emsp;(B) The shares of any successor entities and separated entities shall be listed for trading on one or more major stock exchanges with transparent and effective securities regulation.
 
@@ -60,6 +60,22 @@ The President and the Commission shall secure a pro-competitive privatization of
 
 &emsp;&emsp;(E) Any transactions or other relationships between or among any successor entity, separated entity, INTELSAT, or Inmarsat shall be conducted on an arm's length basis.
 
+&emsp;&emsp;(F) Notwithstanding subparagraphs (A) and (B), a successor entity may be deemed a national corporation and may forgo an initial public offering and public securities listing and still achieve the purposes of this section if—
+
+&emsp;&emsp;&emsp;(i) the successor entity certifies to the Commission that—
+
+&emsp;&emsp;&emsp;&emsp;(I) the successor entity has achieved substantial dilution of the aggregate amount of signatory or former signatory financial interest in such entity;
+
+&emsp;&emsp;&emsp;&emsp;(II) any signatories and former signatories that retain a financial interest in such successor entity do not possess, together or individually, effective control of such successor entity; and
+
+&emsp;&emsp;&emsp;&emsp;(III) no intergovernmental organization has any ownership interest in a successor entity of INTELSAT or more than a minimal ownership interest in a successor entity of Inmarsat;
+
+&emsp;&emsp;&emsp;(ii) the successor entity provides such financial and other information to the Commission as the Commission may require to verify such certification; and
+
+&emsp;&emsp;&emsp;(iii) the Commission determines, after notice and comment, that the successor entity is in compliance with such certification.
+
+&emsp;&emsp;(G) For purposes of subparagraph (F), the term “substantial dilution” means that a majority of the financial interests in the successor entity is no longer held or controlled, directly or indirectly, by signatories or former signatories.
+
 #### (6) Regulatory treatment
 
 &emsp;Any successor entity or separated entity created after March 17, 2000, shall apply through the appropriate national licensing authorities for international frequency assignments and associated orbital registrations for all satellites.
@@ -74,9 +90,15 @@ The President and the Commission shall secure a pro-competitive privatization of
 
 &emsp;&emsp;(C) have a schedule of commitments in such Agreement that includes non-discriminatory market access to their satellite markets.
 
-(Pub. L. 87–624, title VI, §621, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 51; amended Pub. L. 107–77, title VI, §628, Nov. 28, 2001, 115 Stat. 804; Pub. L. 107–233, §1, Oct. 1, 2002, 116 Stat. 1480; Pub. L. 108–39, §2, June 30, 2003, 117 Stat. 835.)
+(Pub. L. 87–624, title VI, §621, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 51; amended Pub. L. 107–77, title VI, §628, Nov. 28, 2001, 115 Stat. 804; Pub. L. 107–233, §1, Oct. 1, 2002, 116 Stat. 1480; Pub. L. 108–39, §2, June 30, 2003, 117 Stat. 835; Pub. L. 108–228, §1, May 18, 2004, 118 Stat. 644; Pub. L. 108–371, §1, Oct. 25, 2004, 118 Stat. 1752.)
 
 #### Amendments
+
+2004—Par. (5)(A)(i). Pub. L. 108–228 substituted “June 30, 2005” for “December 31, 2003” and “December 31, 2005” for “June 30, 2004”.
+
+Par. (5)(A)(ii). Pub. L. 108–371, §1(1), substituted “June 30, 2005” for “June 30, 2004”.
+
+Par. (5)(F), (G). Pub. L. 108–371, §1(2), added subpars. (F) and (G).
 
 2003—Par. (5)(A)(ii). Pub. L. 108–39 substituted “June 30, 2004” for “December 31, 2002” and “December 31, 2004” for “June 30, 2003”.
 
@@ -87,8 +109,4 @@ The President and the Commission shall secure a pro-competitive privatization of
 #### Immigration Status of Alien Employees of INTELSAT after Privatization
 
 Title III of Pub. L. 106–396, Oct. 30, 2000, 114 Stat. 1645, provided for maintenance of nonimmigrant and special immigrant status of alien employees of INTELSAT and their immediate family members after privatization, and for treatment of employment for purposes of obtaining immigrant status as a multinational executive or manager.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 761, 763a, 763b, 763c, 765a, 765d of this title.
 

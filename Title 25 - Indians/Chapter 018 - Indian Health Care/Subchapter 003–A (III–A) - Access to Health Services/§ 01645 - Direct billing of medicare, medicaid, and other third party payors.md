@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a program under which Indian tribes, tribal organizations, and Alaska Native health organizations that contract or compact for the operation of a hospital or clinic of the Service under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] may elect to directly bill for, and receive payment for, health care services provided by such hospital or clinic for which payment is made under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) (in this section referred to as the “medicare program”), under a State plan for medical assistance approved under title XIX of the Social Security Act (42 U.S.C.1396 et seq.) (in this section referred to as the “medicaid program”), or from any other third party payor.
+&emsp;The Secretary shall establish a program under which Indian tribes, tribal organizations, and Alaska Native health organizations that contract or compact for the operation of a hospital or clinic of the Service under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] may elect to directly bill for, and receive payment for, health care services provided by such hospital or clinic for which payment is made under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) (in this section referred to as the “medicare program”), under a State plan for medical assistance approved under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) (in this section referred to as the “medicaid program”), or from any other third party payor.
 
 #### (2) Application of 100 percent FMAP
 
@@ -86,7 +86,7 @@ A participant in the program established under this section may withdraw from pa
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -148,7 +148,7 @@ Subsec. (e). Pub. L. 106–417, §4(b), struck out subsec. (e). For text of subs
 
 “(3) Prior to October 1, 1990, the Secretary shall determine any accounting information which a participant in the demonstration program described in subsection (a) of this section would be required to report.
 
-“(e) The Secretary shall submit a final report at the end of fiscal year 1996, on the activities carried out under the demonstration program described in subsection (a) of this section which shall include an evaluation of whether such activities have fulfilled the objectives of such program. In such report the Secretary shall provide a recommendation, based upon the results of such demonstration program, as to whether direct billing of, and reimbursement by, the medicare and medicaid programs and other third-party payors should be authorized for all Indian tribes and Alaska Native health organizations which are contracting the entire operation of a facility of the Service.
+“(e) The Secretary shall submit a final report at the end of fiscal year 1996, on the activities carried out under the demonstration program described in subsection (a) of this section which shall include an evaluation of whether such activities have fulfilled the objectives of such program. In such report the Secretaryshall provide a recommendation, based upon the results of such demonstration program, as to whether direct billing of, and reimbursement by, the medicare and medicaid programs and other third-party payors should be authorized for all Indian tribes and Alaska Native health organizations which are contracting the entire operation of a facility of the Service.
 
 “(f) The Secretary shall provide for the retrocession of any contract entered into between a participant in the demonstration program described in subsection (a) of this section and the Service under the authority of the Indian Self-Determination Act. All cost accounting and billing authority shall be retroceded to the Secretary upon the Secretary's acceptance of a retroceded contract.”
 
@@ -187,8 +187,4 @@ Pub. L. 106–417, §2, Nov. 1, 2000, 114 Stat. 1812, provided that: “Congress
 &emsp;“(5) The demonstration program was originally to expire on September 30, 1996, but was extended by Congress, so that the current participants would not experience an interruption in the program while Congress awaited a recommendation from the Secretary of Health and Human Services on whether to make the program permanent.
 
 &emsp;“(6) It would be beneficial to the Indian Health Service and to Indian tribes, tribal organizations, and Alaska Native organizations to provide permanent status to the demonstration program and to extend participation in the program to other Indian tribes, tribal organizations, and Alaska Native health organizations who operate a facility of the Indian Health Service.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 sections 1395qq, 1396j.
 

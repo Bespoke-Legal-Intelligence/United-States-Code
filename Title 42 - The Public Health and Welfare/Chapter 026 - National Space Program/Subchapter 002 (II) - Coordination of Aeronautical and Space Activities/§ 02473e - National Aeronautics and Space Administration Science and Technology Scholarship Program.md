@@ -50,7 +50,7 @@ The Administrator shall make publicly available a list of academic programs and 
 
 (1) Scholarship recipients who fail to maintain a high level of academic standing, as defined by the Administrator by regulation, who are dismissed from their educational institutions for disciplinary reasons, or who voluntarily terminate academic training before graduation from the educational program for which the scholarship was awarded, shall be in breach of their contractual agreement and, in lieu of any service obligation arising under such agreement, shall be liable to the United States for repayment within 1 year after the date of default of all scholarship funds paid to them and to the institution of higher education on their behalf under the agreement, except as provided in subsection (h)(2) of this section. The repayment period may be extended by the Administrator when determined to be necessary, as established by regulation.
 
-(2) Scholarship recipients who, for any reason, fail to begin or complete their service obligation after completion of academic training, or fail to comply with the terms and conditions of deferment established by the Administrator pursuantto subsection (f)(2)(B) of this section, shall be in breach of their contractual agreement. When recipients breach their agreements for the reasons stated in the preceding sentence, the recipient shall be liable to the United States for an amount equal to—
+(2) Scholarship recipients who, for any reason, fail to begin or complete their service obligation after completion of academic training, or fail to comply with the terms and conditions of deferment established by the Administrator pursuant to subsection (f)(2)(B) of this section, shall be in breach of their contractual agreement. When recipients breach their agreements for the reasons stated in the preceding sentence, the recipient shall be liable to the United States for an amount equal to—
 
 &emsp;(A) the total amount of scholarships received by such individual under this section; plus
 
@@ -60,7 +60,7 @@ The Administrator shall make publicly available a list of academic programs and 
 
 #### (h) Termination or waiver of obligations
 
-(1) Any obligation of an individual incurred under the Program (or a contractual agreement thereunder) for service or payment shall be canceled upon the death of the individual.
+(1) Any obligation of an individual incurred under the Program (or a contractual agreementthereunder) for service or payment shall be canceled upon the death of the individual.
 
 (2) The Administrator shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment incurred by an individual under the Program (or a contractual agreement thereunder) whenever compliance by the individual is impossible or would involve extreme hardship to the individual, or if enforcement of such obligation with respect to the individual would be contrary to the best interests of the Government.
 

@@ -158,9 +158,9 @@ The Federal Financial Management Improvement Act, referred to in subsec. (c)(2)(
 
 A prior section 3534, added Pub. L. 106–398, §1 \[\[div. A\], title X, §1061\], Oct. 30, 2000, 114 Stat. 1654, 1654A–268, related to Federal agency responsibilities prior to the general amendment of this subchapter by Pub. L. 107–296.
 
-#### Section Referred to in Other Sections
+#### Change of Name
 
-This section is referred to in section 3533 of this title; title 15 section 7406.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

@@ -1,6 +1,6 @@
 ### §290k–2. Instructions for United States Director
 
-Immediately after taking office and prior to the issuance by the Agency of its first guarantee, the United States Director of the Agency shall propose and actively seek the adoption by the Board of Directors of policies and procedures under which the Agency will not issue guarantees in respect of any proposed investment that would—
+Immediately after taking office and prior to the issuance by the Agency of its first guarantee, the United States Director of the Agency shall propose and actively seek the adoption by the Board of Directors of policies and proceduresunder which the Agency will not issue guarantees in respect of any proposed investment that would—
 
 &emsp;(1) be in any country which has not taken or is not taking steps to afford internationally recognized workers’ rights to workers in that country;
 
@@ -17,8 +17,4 @@ Immediately after taking office and prior to the issuance by the Agency of its f
 #### Codification
 
 Section is based on section 405 of title IV of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 290k–3 of this title.
 

@@ -4,7 +4,3 @@ All taxes so levied and collected shall be deposited in the municipal treasury o
 
 (May 26, 1936, ch. 450, §4, 49 Stat. 1372.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1401b, 1401e of this title.
-

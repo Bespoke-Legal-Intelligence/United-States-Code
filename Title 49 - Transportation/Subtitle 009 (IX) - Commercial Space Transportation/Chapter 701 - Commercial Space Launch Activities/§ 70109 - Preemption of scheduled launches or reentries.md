@@ -6,7 +6,7 @@ General.—With the cooperation of the Secretary of Defense and the Administrato
 
 (b)
 
-Imperative National Need Decisions.—In consultation with the Secretary of Transportation, the Secretary of Defense or the Administrator shall decide when an imperative national need requires preemption under subsection (a) of this section. That decision may not be delegated.
+Imperative National Need Decisions.—In consultation with the Secretary of Transportation, the Secretary of Defense or the Administrator shall decide when an imperative national need requires preemption under subsection (a) ofthis section. That decision may not be delegated.
 
 (c)
 

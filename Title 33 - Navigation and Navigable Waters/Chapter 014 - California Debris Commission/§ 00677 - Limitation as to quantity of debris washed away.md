@@ -4,7 +4,3 @@ At no time shall any more debris be permitted to be washed away from any hydraul
 
 (Mar. 1, 1893, ch. 183, §17, 27 Stat. 509.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 661 of this title.
-

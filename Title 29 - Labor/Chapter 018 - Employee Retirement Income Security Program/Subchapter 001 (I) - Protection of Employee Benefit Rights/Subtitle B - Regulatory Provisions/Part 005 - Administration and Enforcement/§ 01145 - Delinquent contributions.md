@@ -8,7 +8,3 @@ Every employer who is obligated to make contributions to a multiemployer plan un
 
 Section effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1132, 1401, 1451 of this title; title 38 section 4318.
-

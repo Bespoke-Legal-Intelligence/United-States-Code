@@ -16,7 +16,3 @@ Federal Power Commission terminated and functions with regard to establishment, 
 
 For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 7172.
-

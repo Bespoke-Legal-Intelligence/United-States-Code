@@ -6,7 +6,7 @@ In accordance with regulations prescribed by the Secretary—
 
 &emsp;(2) the employer of an employee under a plan must notify the plan administrator of a qualifying event described in paragraph (1), (2), or (4) of section 300bb–3 of this title within 30 days of the date of the qualifying event,
 
-&emsp;(3) each covered employee or qualified beneficiary is responsible for notifying the plan administrator of the occurrence of any qualifying event described in paragraph (3) or (5) ofsection 300bb–3 of this title within 60 days after the date of the qualifying event and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], to have been disabled at any time during the first 60 days of continuation coverage under this subchapter is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days after the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled, and
+&emsp;(3) each covered employee or qualified beneficiary is responsible for notifying the plan administrator of the occurrence of any qualifying event described in paragraph (3) or (5) of section 300bb–3 of this title within 60 days after the date of the qualifying event and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], to have been disabled at any time during the first 60 days of continuation coverage under this subchapter is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days after the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled, and
 
 &emsp;(4) the plan administrator shall notify—
 
@@ -52,11 +52,7 @@ Amendment by Pub. L. 99–514 applicable only with respect to qualifying events 
 
 #### Notification to Covered Employees
 
-Section 10003(c) of Pub. L. 99–272 provided that: “At the time that the amendments made by this section \[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[section 300bb–1 of this title\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[this subchapter\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[par. (1) of this section\] with respect to such individuals.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300bb–2, 300bb–5 of this title.
+Section 10003(c) of Pub. L. 99–272 provided that: “At the time that the amendments made by this section\[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[section 300bb–1 of this title\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[this subchapter\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[par. (1) of this section\] with respect to such individuals.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subchapter”.</i>
 

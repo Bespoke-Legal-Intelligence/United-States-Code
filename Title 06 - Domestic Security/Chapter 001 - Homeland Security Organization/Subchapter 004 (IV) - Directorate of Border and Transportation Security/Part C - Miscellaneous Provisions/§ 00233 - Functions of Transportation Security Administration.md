@@ -12,7 +12,7 @@ Not later than 60 days after November 25, 2002, the Secretary of Transportation 
 
 #### (1) Grant of authority
 
-&emsp;Nothing in this chapter may be construed to vest in the Secretary or any other official in the Department any authority over transportation security that is not vested in the Under Secretary of Transportation for Security, or in the Secretary of Transportation under chapter 449 of title 49 on the day before November 25, 2002.
+&emsp;Nothing in this chapter may be construed to vest in the Secretary or any other official inthe Department any authority over transportation security that is not vested in the Under Secretary of Transportation for Security, or in the Secretary of Transportation under chapter 449 of title 49 on the day before November 25, 2002.
 
 #### (2) Obligation of AIP funds
 

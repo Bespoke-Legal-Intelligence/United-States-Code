@@ -6,7 +6,7 @@
 
 &emsp;(i) knowing that a person is an alien, brings to or attempts to bring to the United States in any manner whatsoever such person at a place other than a designated port of entry or place other than as designated by the Commissioner, regardless of whether such alien has received prior official authorization to come to, enter, or reside in the United States and regardless of any future official action which may be taken with respect to such alien;
 
-&emsp;(ii) knowing or in reckless disregard of the fact that an alien has come to, entered, or remains in the United States in violation of law, transports, or moves or attempts to transport or move such alien within the United Statesby means of transportation or otherwise, in furtherance of such violation of law;
+&emsp;(ii) knowing or in reckless disregard of the fact that an alien has come to, entered, or remains in the United States in violation of law, transports, or moves or attempts to transport or move such alien within the United States by means of transportation or otherwise, in furtherance of such violation of law;
 
 &emsp;(iii) knowing or in reckless disregard of the fact that an alien has come to, entered, or remains in the United States in violation of law, conceals, harbors, or shields from detection, or attempts to conceal, harbor, or shield from detection, such alien in any place, including any building or any means of transportation;
 
@@ -50,6 +50,16 @@
 
 &emsp;(ii) has been brought into the United States in violation of this subsection.
 
+(4) In the case of a person who has brought aliens into the United States in violation of this subsection, the sentence otherwise provided for may be increased by up to 10 years if—
+
+&emsp;(A) the offense was part of an ongoing commercial organization or enterprise;
+
+&emsp;(B) aliens were transported in groups of 10 or more; and
+
+&emsp;(C)(i) aliens were transported in a manner that endangered their lives; or
+
+&emsp;(ii) the aliens presented a life-threatening health risk to people in the United States.
+
 #### (b) Seizure and forfeiture
 
 #### (1) In general
@@ -78,13 +88,21 @@ No officer or person shall have authority to make any arrests for a violation of
 
 Notwithstanding any provision of the Federal Rules of Evidence, the videotaped (or otherwise audiovisually preserved) deposition of a witness to a violation of subsection (a) of this section who has been deported or otherwise expelled from the United States, or is otherwise unable to testify, may be admitted into evidence in an action brought for that violation if the witness was available for cross examination and the deposition otherwise complies with the Federal Rules of Evidence.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §274, 66 Stat. 228; Pub. L. 95–582, §2, Nov. 2, 1978, 92 Stat. 2479; Pub. L. 97–116, §12, Dec. 29, 1981, 95 Stat. 1617; Pub. L. 99–603, title I, §112, Nov. 6, 1986, 100 Stat. 3381; Pub. L. 100–525, §2(d), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 103–322, title VI, §60024, Sept. 13, 1994, 108 Stat. 1981; Pub. L. 104–208, div. C, title II, §§203(a)–(d), 219, title VI, §671(a)(1), Sept. 30, 1996, 110 Stat. 3009–565, 3009–566, 3009–574, 3009–720; Pub. L. 106–185, §18(a), Apr. 25, 2000, 114 Stat. 222.)
+#### (e) Outreach program
+
+The Secretary of Homeland Security, in consultation with the Attorney General and the Secretary of State, as appropriate, shall develop and implement an outreach program to educate the public in the United States and abroad about the penalties for bringing in and harboring aliens in violation of this section.
+
+(June 27, 1952, ch. 477, title II, ch. 8, §274, 66 Stat. 228; Pub. L. 95–582, §2, Nov. 2, 1978, 92 Stat. 2479; Pub. L. 97–116, §12, Dec. 29, 1981, 95 Stat. 1617; Pub. L. 99–603, title I, §112, Nov. 6, 1986, 100 Stat. 3381; Pub. L. 100–525, §2(d), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 103–322, title VI, §60024, Sept. 13, 1994, 108 Stat. 1981; Pub. L. 104–208, div. C, title II, §§203(a)–(d), 219, title VI, §671(a)(1), Sept. 30, 1996, 110 Stat. 3009–565, 3009–566, 3009–574, 3009–720; Pub. L. 106–185, §18(a), Apr. 25, 2000, 114 Stat. 222; Pub. L. 108–458, title V, §5401, Dec. 17, 2004, 118 Stat. 3737.)
 
 #### References in Text
 
 The Federal Rules of Evidence, referred to in subsec. (d), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+2004—Subsec. (a)(4). Pub. L. 108–458, §5401(a), added par. (4).
+
+Subsec. (e). Pub. L. 108–458, §5401(b), added subsec. (e).
 
 2000—Subsec. (b). Pub. L. 106–185 inserted heading and amended text of subsec. (b) generally, substituting present provisions for provisions relating to conveyances subject to seizure and forfeiture, exceptions, officers and authorized persons, disposition of forfeited conveyances, and suits and actions.
 
@@ -130,7 +148,7 @@ Subsec. (b)(4)(C), (5). Pub. L. 100–525, §2(d)(2), amended Pub. L. 99–603, 
 
 > any alien, including an alien crewman, not duly admitted by an immigration officer or not lawfully entitled to enter or reside within the United States under the terms of this chapter or any other law relating to the immigration or expulsion of aliens, shall be guilty of a felony, and upon conviction thereof shall be punished by a fine not exceeding $2,000 or by imprisonment for a term not exceeding five years, or both, for each alien in respect to whom any violation of this subsection occurs: <i>Provided, however</i>, That for the purposes of this section, employment (including the usual and normal practices incident to employment) shall not be deemed to constitute harboring.”
 
-Subsec. (b)(1). Pub. L. 99–603, §112(b)(1), (2), substituted “has been or is being used” for “is used” and“seized and subject to” for “subject to seizure and” in provisions preceding subpar. (A).
+Subsec. (b)(1). Pub. L. 99–603, §112(b)(1), (2), substituted “has been or is being used” for “is used” and “seized and subject to” for “subject to seizure and” in provisions preceding subpar. (A).
 
 Subsec. (b)(2). Pub. L. 99–603, §112(b)(3), inserted “or is being” after “has been”.
 
@@ -140,7 +158,7 @@ Subsec. (b)(4)(C). Pub. L. 99–603, §112(b)(5), as amended by Pub. L. 100–52
 
 Subsec. (b)(4)(D). Pub. L. 99–603, §112(b)(6), added subpar. (D).
 
-Subsec. (b)(5). Pub. L. 99–603, §112(b)(7)–(9), as amended by Pub. L. 100–525, §2(d)(2)(B), substituted “, except that” for “: <i>Provided</i>, That” in provisions preceding subpar. (A), substituted “had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law” for “was not lawfully entitled to enter, or reside within, the United States” wherever appearing, inserted “or of the Department of State” in subpar. (B), and substituted “had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law” for “was not entitled to enter, or reside within, the United States” in subpar. (C).
+Subsec. (b)(5). Pub. L. 99–603, §112(b)(7)–(9), as amended by Pub. L. 100–525, §2(d)(2)(B), substituted “, exceptthat” for “: <i>Provided</i>, That” in provisions preceding subpar. (A), substituted “had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law” for “was not lawfully entitled to enter, or reside within, the United States” wherever appearing, inserted “or of the Department of State” in subpar. (B), and substituted “had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law” for “was not entitled to enter, or reside within, the United States” in subpar. (C).
 
 1981—Subsec. (b). Pub. L. 97–116 strengthened the seizure and forfeiture authority by striking out the “innocent owner” exemption and merely requiring the Government to show probable cause that the conveyance seized has been used to illegally transport aliens, which when demonstrated, shifts the burden of proof to the owner or claimant to show by a preponderance of the evidence that the conveyance was not illegally used, by relieving the Government of the obligation to pay any administrative and incidental costs incurred by a successful claimant provided probable cause for the original seizure was demonstrated, and by striking out the requirement that the Government satisfy any valid lien or third party interest in the conveyance without expense to the interest holder by providing the lienholders interest be satisfied only after costs associated with the seizure have been deducted.
 
@@ -167,8 +185,4 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1101 of this title; title 10 section 374; title 18 sections 982, 1961, 2516.
 

@@ -58,7 +58,7 @@ The Advisory Commission on Intergovernmental Relations shall in accordance with 
 
 &emsp;No later than 9 months after March 22, 1995, the Commission shall—
 
-&emsp;&emsp;(A) prepare and publish a preliminary report on its activities under this subchapter, including preliminary recommendations pursuant to subsection (a) of this section;
+&emsp;&emsp;(A) prepare and publish a preliminary report on its activities under this subchapter,including preliminary recommendations pursuant to subsection (a) of this section;
 
 &emsp;&emsp;(B) publish in the Federal Register a notice of availability of the preliminary report; and
 
@@ -84,9 +84,7 @@ For purposes of this section the term “State mandate” means any provision in
 
 #### Change of Name
 
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1556 of this title.
 

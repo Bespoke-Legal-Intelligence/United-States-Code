@@ -6,7 +6,3 @@
 
 (July 25, 1956, ch. 729, §3, 70 Stat. 651.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430gg, 430ii, 430jj of this title.
-

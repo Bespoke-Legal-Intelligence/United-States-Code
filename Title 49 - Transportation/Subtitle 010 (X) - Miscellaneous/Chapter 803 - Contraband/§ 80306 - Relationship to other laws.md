@@ -52,7 +52,3 @@ In subsection (b), before clause (1), the words “under this chapter” are sub
 
 The customs laws, referred to in subsec. (b)(1), are classified generally to Title 19, Customs Duties.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80304 of this title.
-

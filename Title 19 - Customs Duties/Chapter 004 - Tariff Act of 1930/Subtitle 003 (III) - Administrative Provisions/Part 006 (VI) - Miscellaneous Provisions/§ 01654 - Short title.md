@@ -4,9 +4,13 @@ This chapter may be cited as the “Tariff Act of 1930.”
 
 (June 17, 1930, ch. 497, title IV, §654, 46 Stat. 763.)
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–429, §1, Dec. 3, 2004, 118 Stat. 2434, provided that: “This Act \[amending sections 58c, 1313, 1330, 1337, 1401, 1466, 1484, 1501, 1504, 1505, 1514, 1515, 1520, 1583, 1593a, 1629, 2155, 2171, 2271, 2272, 2298, 2318, 2346, 2395, 2401e, 2414, 2415, 2451, 2451a, 2463, 2703, 3203, 3721, 3802, 3803, 3805, and 3813 of this title, section 70b of Title 15, Commerce and Trade, and sections 5382 and 6103 of Title 26, Internal Revenue Code, repealing section 72 of Title 15, enacting provisions set out as notes under sections 1313, 1401, 1466, 1504, 1629, 2155, 2434, 2463, 2703, 3203, 3701, and 3721 of this title, section 7101 of Title 7, Agriculture, sections 70b and 72 of Title 15, and section 5382 of Title 26, amending provisions set out as notes under sections 2401, 2465, 3701, and 3805 of this title and section 7101 of Title 7, and repealing provisions set out as a note under section 1629 of this title\] may be cited as the ‘Miscellaneous Trade and Technical Corrections Act of 2004’.”
+
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–210, div. A, title III, §301, Aug. 6, 2002, 116 Stat. 972, provided that: “This Act \[probably means “This title”, enacting sections 1431a and 1583 of this title, amending sections 58c, 482, 1318, 1330, 1411, 1505, 1509, 2075, and 2171 of this title, and enacting provisions set out as notes under sections 58c, 482, 1583, 1625, 2071, 2075, and 2082 of this title\] may be cited as the ‘Customs Border Security Act of 2002’.”
+Pub. L. 107–210, div. A, title III, §301, Aug. 6, 2002, 116 Stat. 972, provided that: “This Act \[probably means“This title”, enacting sections 1431a and 1583 of this title, amending sections 58c, 482, 1318, 1330, 1411, 1505, 1509, 2075, and 2171 of this title, and enacting provisions set out as notes under sections 58c, 482, 1583, 1625, 2071, 2075, and 2082 of this title\] may be cited as the ‘Customs Border Security Act of 2002’.”
 
 #### Short Title of 2000 Amendments
 
@@ -42,7 +46,7 @@ Section 201 of Pub. L. 91–271, June 2, 1970, 84 Stat. 282, provided that: “T
 
 #### Short Title of 1966 Amendment
 
-Section 1(a) of Pub. L. 89–651, Oct. 14, 1966, 80 Stat. 897, provided: “That this Act \[enacting section 1544 ofTitle 28, Judiciary and Judicial Procedure, amending Schedules 2, 7, and 8 of the Tariff Schedules of the United States and section 2602 of Title 28, and enacting provisions set out as a note preceding section 1202 and under section 1981 of this title\] may be cited as the ‘Educational, Scientific, and Cultural Materials Importation Act of 1966’.”
+Section 1(a) of Pub. L. 89–651, Oct. 14, 1966, 80 Stat. 897, provided: “That this Act \[enacting section 1544 of Title 28, Judiciary and Judicial Procedure, amending Schedules 2, 7, and 8 of the Tariff Schedules of the United States and section 2602 of Title 28, and enacting provisions set out as a note preceding section 1202 and under section 1981 of this title\] may be cited as the ‘Educational, Scientific, and Cultural Materials Importation Act of 1966’.”
 
 #### Short Title of 1965 Amendment
 
@@ -52,7 +56,7 @@ Section 1(c) of Pub. L. 89–241, Oct. 7, 1965, 79 Stat. 933, provided that: “
 
 #### Short Title of 1962 Amendment
 
-Section 1 of Pub. L. 87–456, May 24, 1962, 76 Stat. 72, provided: “That this Act \[amending section 1312 of this title, section 1856 of Title 7, Agriculture, section 41 of Title 21, Food and Drugs, sections 4501 and 6418 of Title 26, Internal Revenue Code, section 474 of former Title 40, Public Buildings, Property, and Works, and section 2201 of Title 42, The Public Health and Welfare, repealing sections 193 to 195, 196a, 420, 1301a, 1308, 1367, 1489, 1504, and 1508 of this title and section 2383 of Title 10, Armed Forces, and enacting provisions set out as notes preceding section 1202 of this title and under section 1861 of this title and section 4501 of Title 26\] may be cited as the ‘Tariff Classification Act of 1962’.”
+Section 1 of Pub. L. 87–456, May 24, 1962, 76 Stat. 72, provided: “That this Act \[amending section 1312 of this title, section 1856 of Title 7, Agriculture, section 41 of Title 21, Food and Drugs, sections 4501 and 6418 of Title 26, Internal Revenue Code, section 474 of former Title 40, Public Buildings, Property, and Works, and section 2201 of Title 42, The Public Health and Welfare, repealing sections 193 to 195, 196a, 420, 1301a, 1308, 1367, 1489,1504, and 1508 of this title and section 2383 of Title 10, Armed Forces, and enacting provisions set out as notes preceding section 1202 of this title and under section 1861 of this title and section 4501 of Title 26\] may be cited as the ‘Tariff Classification Act of 1962’.”
 
 #### Short Title of 1958 Amendment
 

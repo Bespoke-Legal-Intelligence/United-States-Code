@@ -6,27 +6,27 @@ There is authorized to be appropriated annually to the Library of Congress, in a
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–522 amended section generally, extending availability of books and materials under this section by authorizing their loan to other physically handicapped residents, in addition to blind persons, certified by competent authority as unable to read normal printed material as a result of physical limitations.
+1966—Pub. L. 89–522 amended section generally, extending availability of books and materials under this section by authorizing their loan to other physically handicapped residents, in addition to blind persons, certified by competent authority as unable to read normal printed material as a result of physical limitations.
 
-<b>1957</b>—Pub. L. 85–308 authorized annual appropriation of necessary sums in lieu of provisions which limited annual appropriation to $1,125,000, and struck out limitation of $200,000 on amount of appropriated funds to be expended annually for books in raised characters.
+1957—Pub. L. 85–308 authorized annual appropriation of necessary sums in lieu of provisions which limited annual appropriation to $1,125,000, and struck out limitation of $200,000 on amount of appropriated funds to be expended annually for books in raised characters.
 
-<b>1952</b>—Act July 3, 1952, included children within its provisions as well as adults.
+1952—Act July 3, 1952, included children within its provisions as well as adults.
 
-<b>1946</b>—Act Aug. 8, 1946, increased annual appropriation from $500,000 to $1,125,000.
+1946—Act Aug. 8, 1946, increased annual appropriation from $500,000 to $1,125,000.
 
-<b>1944</b>—Act June 13, 1944, increased annual appropriation from $370,000 to $500,000, the amount allocated to sound-reproduction records from $250,000 to $400,000, and struck out provision allocating $20,000 to maintenance and replacement of Government-owned reproducers.
+1944—Act June 13, 1944, increased annual appropriation from $370,000 to $500,000, the amount allocated to sound-reproduction records from $250,000 to $400,000, and struck out provision allocating $20,000 to maintenance and replacement of Government-owned reproducers.
 
-<b>1942</b>—Act Oct. 1, 1942, substituted “$370,000” for “$350,000”, and inserted clause at end of first sentence relating to expenditure of not exceeding $20,000 for maintenance and replacement of reproducers for sound-reproduction records.
+1942—Act Oct. 1, 1942, substituted “$370,000” for “$350,000”, and inserted clause at end of first sentence relating to expenditure of not exceeding $20,000 for maintenance and replacement of reproducers for sound-reproduction records.
 
-<b>1940</b>—Act June 6, 1940, substituted “$350,000” for “$275,000” and “$250,000” for “$175,000”.
+1940—Act June 6, 1940, substituted “$350,000” for “$275,000” and “$250,000” for “$175,000”.
 
-<b>1939</b>—Act June 7, 1939, inserted last sentence.
+1939—Act June 7, 1939, inserted last sentence.
 
-<b>1937</b>—Act Apr. 23, 1937, substituted “$275,000” for “$175,000” in two places and “$175,000” for “$75,000”.
+1937—Act Apr. 23, 1937, substituted “$275,000” for “$175,000” in two places and “$175,000” for “$75,000”.
 
-<b>1935</b>—Act June 14, 1935, substituted “$175,000” for “$100,000” and inserted provision that $100,000 of the $175,000 annual appropriation be expended for books in raised characters and the balance for sound-reproduction records.
+1935—Act June 14, 1935, substituted “$175,000” for “$100,000” and inserted provision that $100,000 of the $175,000 annual appropriation be expended for books in raised characters and the balance for sound-reproduction records.
 
-<b>1933</b>—Act Mar. 4, 1933, inserted “published either in raised characters, on sound-reproduction records, or in any other form”.
+1933—Act Mar. 4, 1933, inserted “published either in raised characters, on sound-reproduction records, or in any other form”.
 
 #### Effective Date of 1957 Amendment
 
@@ -46,9 +46,5 @@ Section 2 of act Oct. 1, 1942, provided: “This Act \[amending this section\] s
 
 #### Effective Date of 1937 Amendment
 
-Section 2 of act Apr. 23, 1937, provided that: “This Act \[amending this section\] shall be applicable with respectto the fiscal year ending June 30, 1938, and for each fiscal year thereafter.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 135b of this title; title 17 section 121; title 39 section 3403.
+Section 2 of act Apr. 23, 1937, provided that: “This Act \[amending this section\] shall be applicable with respect to the fiscal year ending June 30, 1938, and for each fiscal year thereafter.”
 

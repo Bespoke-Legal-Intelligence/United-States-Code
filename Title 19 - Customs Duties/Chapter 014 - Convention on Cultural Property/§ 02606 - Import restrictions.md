@@ -2,7 +2,7 @@
 
 #### (a) Documentation of lawful exportation
 
-No designated archaeological or ethnological material that is exported (whether or not such exportation is to the United States) from the State Party after the designation of such material under section 2604 of this title may be imported into the United States unless the State Party issues a certification or other documentation which certifies that such exportation was not in violation of the laws of the State Party.
+No designated archaeological or ethnological material that is exported (whether or not suchexportation is to the United States) from the State Party after the designation of such material under section 2604 of this title may be imported into the United States unless the State Party issues a certification or other documentation which certifies that such exportation was not in violation of the laws of the State Party.
 
 #### (b) Customs action in absence of documentation
 
@@ -53,8 +53,4 @@ For purposes of subsections (b) and (c) of this section, a person shall be treat
 #### Delegation of Functions
 
 For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, set out as a note under section 2602 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2602, 2603, 2604, 2608, 2609, 2610 of this title.
 

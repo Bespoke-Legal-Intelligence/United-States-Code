@@ -44,7 +44,7 @@ Maximum Period.—An exemption or renewal under subsection (b)(3)(B)(i) of this 
 
 (f)
 
-Disclosure.—The Secretary may make public, by the 10th day after an application is filed, information contained in the application or relevant to the application unless the information concerns or is related to a trade secret or other confidential information not relevant to the application.
+Disclosure.—The Secretary may make public, by the 10th day after an application is filed, information contained in the applicationor relevant to the application unless the information concerns or is related to a trade secret or other confidential information not relevant to the application.
 
 (g)
 
@@ -135,8 +135,4 @@ Subsec. (c)(1). Pub. L. 105–277, §101(g) \[title III, §351(a)(2)\], inserted
 Subsec. (d). Pub. L. 105–277, §101(g) \[title III, §351(a)(3)\], inserted “(including an exemption under subsection (b)(3)(B)(i) relating to a bumper standard referred to in subsection (b)(1))” after “subsection (b)(3)(B)(i) of this section”.
 
 Subsec. (h). Pub. L. 105–277, §101(g) \[title III, §351(a)(4)\], inserted “or bumper standard prescribed under chapter 325 of this title” after “each motor vehicle safety standard prescribed under this chapter”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30112, 32502 of this title.
 

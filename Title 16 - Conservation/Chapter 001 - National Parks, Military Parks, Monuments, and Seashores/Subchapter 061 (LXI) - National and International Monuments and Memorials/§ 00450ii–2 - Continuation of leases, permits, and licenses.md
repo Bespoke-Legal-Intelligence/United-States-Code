@@ -8,7 +8,3 @@ All leases, permits, and licenses issued or authorized by any department, establ
 
 Joshua Tree National Monument abolished and incorporated in Joshua Tree National Park, see section 410aaa–22 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 450ii–1 of this title.
-

@@ -20,7 +20,3 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6552 of this title.
-

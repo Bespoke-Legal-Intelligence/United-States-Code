@@ -16,7 +16,7 @@ The President shall, to the extent he deems necessary and feasible—
 
 #### (b) Benchmark survey of United States direct investment abroad and foreign direct investment in United States
 
-With respect to foreign direct investment in the United States, the President shall conduct a benchmark survey covering year 1980, a benchmark survey covering year 1987, and benchmark surveys covering every fifth year thereafter. With respect to United States direct investment abroad, the President shall conduct a benchmark survey covering year 1982, a benchmark survey covering year 1989, and benchmark surveys covering every fifth year thereafter. In conducting surveys pursuant to this subsection, thePresident shall, among other things and to the extent he determines necessary and feasible—
+With respect to foreign direct investment in the United States, the President shall conduct a benchmark survey covering year 1980, a benchmark survey covering year 1987, and benchmark surveys covering every fifth year thereafter. With respect to United States direct investment abroad, the President shall conduct a benchmark survey covering year 1982, a benchmark survey covering year 1989, and benchmark surveys covering every fifth year thereafter. In conducting surveys pursuant to this subsection, the President shall, among other things and to the extent he determines necessary and feasible—
 
 &emsp;(1) identify the location, nature, and magnitude of, and changes in total investment by any parent in each of its affiliates and the financial transactions between any parent and each of its affiliates;
 
@@ -54,7 +54,7 @@ In collecting information under this chapter, the President shall give due regar
 
 (1) The President, or the designee of the President responsible for monitoring the impact of foreign investment in the United States, coordinating implementation of United States policy on investment, and investigating foreign acquisitions under section 2170 of title 50, Appendix, may request a report from the Bureau of Economic Analysis of the Department of Commerce. When such request is made in connection with an investigation under such section 2170, the report shall be provided within 14 days after the request is made. When such request is not made in connection with an investigation under such section 2170, the report shall be provided within 60 days after the request.
 
-(2) A report requested under paragraph (1) shall contain the best available information on the extent of foreign direct investment in a given industry, including a breakdown of total investment in the industry, and any foreign government investment in the industry, by country of the foreign owner, and any other information that the Bureau of Economic Analysis or such designee of the President considers relevant. The industry information provided shall be atthe most detailed level available of Standard Industrial Classification, subject to the requirements of section 3104 of this title.
+(2) A report requested under paragraph (1) shall contain the best available information on the extent of foreign direct investment in a given industry, including a breakdown of total investment in the industry, and any foreign government investment in the industry, by country of the foreign owner, and any other information that the Bureau of Economic Analysis or such designee of the President considers relevant. The industry information provided shall be at the most detailed level available of Standard Industrial Classification, subject to the requirements of section 3104 of this title.
 
 (Pub. L. 94–472, §4, Oct. 11, 1976, 90 Stat. 2060; Pub. L. 95–381, §2, Sept. 22, 1978, 92 Stat. 726; H. Res. 89, Feb. 5, 1979; Pub. L. 97–33, §§1–3, Aug. 7, 1981, 95 Stat. 170; Pub. L. 97–70, Oct. 26, 1981, 95 Stat. 1045; Pub. L. 98–573, title III, §306(b)(3), (4), Oct. 30, 1984, 98 Stat. 3010; Pub. L. 101–533, §6(b), (c), Nov. 7, 1990, 104 Stat. 2348.)
 
@@ -93,10 +93,6 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (c)(2) of this section relating to submitting an analysis of compiled data to Congress each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 30 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3103 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

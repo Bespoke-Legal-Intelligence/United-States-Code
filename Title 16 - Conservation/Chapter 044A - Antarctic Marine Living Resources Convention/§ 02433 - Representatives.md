@@ -2,7 +2,7 @@
 
 #### (a) Representative to the Commission
 
-The Secretary of State, with the concurrence of the Secretary of Commerce and the Director of the National Science Foundation, shall appoint an officer or employee of the United States as the United States representative to the Commission.
+The Secretary of State, with the concurrence of the Secretary of Commerce and the Director of the National Science Foundation, shall appoint an officer or employee of the UnitedStates as the United States representative to the Commission.
 
 #### (b) Representative to the Scientific Committee
 
@@ -13,8 +13,4 @@ The Secretary of Commerce and the Director of the National Science Foundation, w
 The United States representatives to the Commission and the Scientific Committee shall receive no additional compensation by reason of their services as such representatives.
 
 (Pub. L. 98–623, title III, §304, Nov. 8, 1984, 98 Stat. 3400.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2443 of this title.
 

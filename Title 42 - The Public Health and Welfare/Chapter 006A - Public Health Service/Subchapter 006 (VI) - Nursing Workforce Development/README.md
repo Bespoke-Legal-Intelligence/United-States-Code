@@ -6,10 +6,6 @@
 
 1985—Pub. L. 99–92, §9(b)(3), Aug. 16, 1985, 99 Stat. 400, substituted “NURSE EDUCATION” for “NURSE TRAINING” in subchapter VI heading.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 235, 300<i>l</i>–2, 12604 of this title; title 8 section 1613; title 38 section 8201.
-
 
 ---
 

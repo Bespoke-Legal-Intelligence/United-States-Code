@@ -26,7 +26,7 @@ This Act, referred to in subsec. (d), is act Aug. 8, 1956, ch. 1036, 70 Stat. 11
 
 1974—Subsec. (a). Pub. L. 93–271, §1(1), (2), struck out provisions relating to the establishment of the position of and the appointment of the Commissioner of Fish and Wildlife. Provisions for the establishment of the United States Fish and Wildlife Service within the Department of the Interior, consisting of the Bureau of Commercial Fisheries and the Bureau of Sport Fisheries and Wildlife, the appointment of a Director for each of the Bureaus, and the succession of the United States Fish and Wildlife Service to the Fish and Wildlife Service of the Department, were also struck out.
 
-Subsec. (b). Pub. L. 93–271, §1(3), substituted provisions for the establishment of the United States Fish and Wildlife Service within the Department of the Interior, for its administration by a Director subject to the supervision of the Assistant Secretary for Fish and Wildlife, the qualifications for and the appointment of the Director, for provisions relating to the administration of the United States Fish and Wildlife Service by the Commissioner of Fish and Wildlife subject to the supervision of the Assistant Secretary for Fish and Wildlife.
+Subsec. (b). Pub. L. 93–271, §1(3), substituted provisions for the establishment of the United States Fishand Wildlife Service within the Department of the Interior, for its administration by a Director subject to the supervision of the Assistant Secretary for Fish and Wildlife, the qualifications for and the appointment of the Director, for provisions relating to the administration of the United States Fish and Wildlife Service by the Commissioner of Fish and Wildlife subject to the supervision of the Assistant Secretary for Fish and Wildlife.
 
 Subsecs. (c), (d). Pub. L. 93–271, §1(3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d), relating to the distribution of functions, powers, and duties of former Fish and Wildlife Service, was struck out.
 
@@ -52,9 +52,5 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior in
 
 #### Fees for Training by National Conservation Training Center
 
-Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185, as amended by Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1547, provided in part: “That hereafter, pursuant to 31 U.S.C. 9701, theSecretary shall charge reasonable fees for the full costs of providing training by the National Conservation Training Center, to be credited to this account, notwithstanding 31 U.S.C. 3302, for the full costs of providing such training, to remain available until expended.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1534 of this title.
+Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185, as amended by Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1547, provided in part: “That hereafter, pursuant to 31 U.S.C. 9701, the Secretary shall charge reasonable fees for the full costs of providing training by the National Conservation Training Center, to be credited to this account, notwithstanding 31 U.S.C. 3302, for the full costs of providing such training, to remain available until expended.”
 

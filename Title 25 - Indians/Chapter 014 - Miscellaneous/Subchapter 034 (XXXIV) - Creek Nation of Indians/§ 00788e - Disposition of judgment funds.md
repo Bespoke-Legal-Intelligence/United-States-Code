@@ -10,7 +10,3 @@ Applications for enrollment shall be filed with the Area Director, Bureau of Ind
 
 (Pub. L. 90–506, §1, Sept. 21, 1968, 82 Stat. 859.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 788f, 788h of this title.
-

@@ -28,7 +28,3 @@ June 30, 1949, ch. 288, title II, §202(g), 63 Stat. 385.
 
 In subsection (a), the words “for use as office or storage space or for a related purpose” are substituted for “for office, storage, or related facilities” for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 556 of this title.
-

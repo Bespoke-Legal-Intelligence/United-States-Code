@@ -1,9 +1,5 @@
 ### SUBCHAPTER XI—ALLOTMENTS FOR VULNERABLE ELDER RIGHTS PROTECTION ACTIVITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1395i–3, 1396r, 3018, 3027, 3032b of this title.
-
 
 ---
 

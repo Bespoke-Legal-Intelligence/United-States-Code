@@ -14,7 +14,3 @@ Notwithstanding any other provision of law, the governing body of the Tribe esta
 
 (Pub. L. 101–484, §8, Oct. 31, 1990, 104 Stat. 1169.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 983d, 983e of this title.
-

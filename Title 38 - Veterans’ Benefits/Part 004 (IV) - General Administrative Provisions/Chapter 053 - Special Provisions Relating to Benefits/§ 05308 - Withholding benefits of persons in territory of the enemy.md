@@ -22,7 +22,3 @@ Subsec. (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 1986—Subsec. (c). Pub. L. 99–576 substituted “the Administrator's” for “his” in first sentence, and “the dependent” for “he” in second sentence.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5309 of this title.
-

@@ -8,7 +8,7 @@ A statewide system described in section 1433 of this title shall provide, at a m
 
 &emsp;(2) a family-directed assessment of the resources, priorities, and concerns of the family and the identification of the supports and services necessary to enhance the family's capacity to meet the developmental needs of the infant or toddler; and
 
-&emsp;(3) a written individualized family service plan developed by a multidisciplinary team, including the parents, as required by subsection (e) of this section.
+&emsp;(3) a written individualized family service plan developed by a multidisciplinary team, including the parents, as required by subsection (e), including a description of the appropriate transition services for the infant or toddler.
 
 #### (b) Periodic review
 
@@ -16,7 +16,7 @@ The individualized family service plan shall be evaluated once a year and the fa
 
 #### (c) Promptness after assessment
 
-The individualized family service plan shall be developed within a reasonable time after the assessment required by subsection (a)(1) of this section is completed. With the parents’ consent, early intervention services may commence prior to the completion of the assessment.
+The individualized family service plan shall be developed within a reasonable time after the assessment required by subsection (a)(1) is completed. With the parents’ consent, early intervention services may commence prior to the completion of the assessment.
 
 #### (d) Content of plan
 
@@ -26,29 +26,27 @@ The individualized family service plan shall be in writing and contain—
 
 &emsp;(2) a statement of the family's resources, priorities, and concerns relating to enhancing the development of the family's infant or toddler with a disability;
 
-&emsp;(3) a statement of the major outcomes expected to be achieved for the infant or toddler and the family, and the criteria, procedures, and timelines used to determine the degree to which progress toward achieving the outcomes is being made and whether modifications or revisions of the outcomes or services are necessary;
+&emsp;(3) a statement of the measurable results or outcomes expected to be achieved for the infant or toddler and the family, including pre-literacy and language skills, as developmentally appropriate for the child, and the criteria, procedures, and timelines used to determine the degree to which progress toward achieving the results or outcomes is being made and whether modifications or revisions of the results or outcomes or services are necessary;
 
-&emsp;(4) a statement of specific early intervention services necessary to meet the unique needs of the infant or toddler and the family, including the frequency, intensity, and method of delivering services;
+&emsp;(4) a statement of specific early intervention services based on peer-reviewed research, to the extent practicable, necessary to meet the unique needs of the infant or toddler and the family, including the frequency, intensity, and method of delivering services;
 
-&emsp;(5) a statement of the natural environments in which early intervention services shall appropriately be provided, including a justification of the extent, if any, to which the services will not be provided in a natural environment;
+&emsp;(5) a statement of the natural environments in which early intervention services will appropriately be provided, including a justification of the extent, if any, to which the services will not be provided in a natural environment;
 
-&emsp;(6) the projected dates for initiation of services and the anticipated duration of the services;
+&emsp;(6) the projected dates for initiation of services and the anticipated length, duration, and frequency of the services;
 
-&emsp;(7) the identification of the service coordinator from the profession most immediately relevant to the infant's or toddler's or family's needs (or who is otherwise qualified to carry out all applicable responsibilities under this subchapter) who will be responsible for the implementation of the plan and coordination with other agencies and persons; and
+&emsp;(7) the identification of the service coordinator from the profession most immediately relevant to the infant's or toddler's or family's needs (or who is otherwise qualified to carry out all applicable responsibilities under this subchapter) who will be responsible for the implementation of the plan and coordination with other agencies and persons, including transition services; and
 
 &emsp;(8) the steps to be taken to support the transition of the toddler with a disability to preschool or other appropriate services.
 
 #### (e) Parental consent
 
-The contents of the individualized family service plan shall be fully explained to the parents and informed written consent from the parents shall be obtained prior to the provision of early intervention services described in such plan. If the parents do not provide consent with respect to a particular early intervention service, then the early intervention services to which consent is obtained shall be provided.
+The contents of the individualized family service plan shall be fully explained to the parents and informed written consent from the parents shall be obtained prior to the provision of early intervention services described in such plan. If the parents do not provide consent with respect to a particular early intervention service, then only the early intervention services to which consent is obtained shall be provided.
 
-(Pub. L. 91–230, title VI, §636, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 111.)
+(Pub. L. 91–230, title VI, §636, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2751.)
 
 #### Prior Provisions
 
-A prior section 1436, Pub. L. 91–230, title VI, §636, Apr. 13, 1970, 84 Stat. 185; Pub. L. 93–380, title VI, §618, Aug. 21, 1974, 88 Stat. 584; Pub. L. 95–49, §3, June 17, 1977, 91 Stat. 230, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 98–199, §11, Dec. 2, 1983, 97 Stat. 1369.
+A prior section 1436, Pub. L. 91–230, title VI, §636, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 111, related to individualized family service plans, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1401, 1412, 1414, 1432, 1435, 1473 of this title.
+Another prior section 1436, Pub. L. 91–230, title VI, §636, Apr. 13, 1970, 84 Stat. 185; Pub. L. 93–380, title VI, §618, Aug. 21, 1974, 88 Stat. 584; Pub. L. 95–49, §3, June 17, 1977, 91 Stat. 230, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 98–199, §11, Dec. 2, 1983, 97 Stat. 1369.
 

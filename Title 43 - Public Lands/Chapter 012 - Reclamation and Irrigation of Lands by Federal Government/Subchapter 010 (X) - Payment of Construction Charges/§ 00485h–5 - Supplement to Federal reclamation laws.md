@@ -12,7 +12,3 @@ Act of June 17, 1902, referred to in text, is popularly known as the Reclamation
 
 Section was not enacted as part of the Reclamation Project Act of 1939 which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 485h–2, 485h–3, 485h–4 of this title.
-

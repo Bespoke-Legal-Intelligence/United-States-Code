@@ -4,7 +4,3 @@ Subject to the concurrence of the head of the department or agency concerned, th
 
 (Added Pub. L. 87–826, §2, Oct. 15, 1962, 76 Stat. 952.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 305 of this title.
-

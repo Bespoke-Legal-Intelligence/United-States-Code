@@ -10,7 +10,7 @@
 
 (3) Except as provided in subsection (d), a waiver made under this subsection shall be irrevocable.
 
-(b)(1) Upon remarriage, a retired employee or Member who was married at the time of retirement (including an employee or Member whose annuity was not reduced to provide a survivor annuity for the employee's or Member's spouse or former spouse as of the time of retirement) may irrevocably elect during such marriage, in a signed writing received by the Office within 2 years after such remarriage or, if later, within 2 years after the death or remarriage of any former spouse of such employee or Member who was entitled to a survivor annuity under section 8445 (or of the last such surviving former spouse, if there was more than one), a reduction in the employee's or Member's annuity under section 8419(a) for the purpose of providing an annuity for such employee's or Member's spouse in the event such spouse survives the employee or Member.
+(b)(1) Upon remarriage, a retired employee or Member who was married at the time of retirement (including an employee or Member whose annuity was not reduced to provide a survivor annuity for the employee's or Member's spouse or former spouse as of the time of retirement) may irrevocably elect during such marriage, in a signed writing received by the Office within 2 years after such remarriage or, if later, within 2 years after the death or remarriage of any former spouse of such employee or Member who was entitled to a survivor annuity under section 8445 (or of the last such surviving former spouse, if there was more than one), a reduction in the employee's or Member's annuity under section 8419(a) for the purpose of providing an annuity for such employee's or Member's spouse in theevent such spouse survives the employee or Member.
 
 (2) The election and reduction shall be effective the first day of the second month after the election is received by the Office, but not less than 9 months after the date of the remarriage.
 
@@ -59,8 +59,4 @@
 (5) The Office shall inform each employee and Member who is eligible to make an election under this subsection of the right to make such election and the procedures and deadlines applicable in making any such election.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 528.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8417, 8418, 8419, 8420, 8420a, 8442, 8445 of this title; title 50 section 2154.
 

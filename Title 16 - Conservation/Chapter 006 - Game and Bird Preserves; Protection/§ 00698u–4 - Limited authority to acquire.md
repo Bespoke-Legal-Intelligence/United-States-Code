@@ -6,15 +6,15 @@ The Secretary shall acquire, by donation, not more than 180 acres of real proper
 
 #### (b) Payments in lieu of taxes
 
-For the purposes of payments made under chapter 69 of title 31, the real property described in subsection (a)(1) of this section shall be deemed to have been acquired for the purposes specified in section 6904(a) of that title.
+For the purposes of payments made under chapter 69 of title 31, the real property described in subsection (a) of this section shall be deemed to have been acquired for the purposes specified in section 6904(a) of that title.
 
 #### (c) Prohibitions
 
 No property may be acquired under this section without the consent of the owner of the property. The United States may not acquire fee ownership of any lands within the Preserve other than lands described in this section.
 
-(Pub. L. 104–333, div. I, title X, §1006, Nov. 12, 1996, 110 Stat. 4208.)
+(Pub. L. 104–333, div. I, title X, §1006, Nov. 12, 1996, 110 Stat. 4208; Pub. L. 108–352, §17, Oct. 21, 2004, 118 Stat. 1398.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 698u, 698u–1, 698u–3, 698u–6, 698u–7 of this title.
+2004—Subsec. (b). Pub. L. 108–352 substituted “subsection (a)” for “subsection (a)(1)”.
 

@@ -18,7 +18,23 @@
 
 (c) The national board of the Auxiliary, and any Auxiliary district or region, may form a corporation under State law in accordance with policies established by the Commandant.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 555; Pub. L. 104–324, title IV, §401(a), Oct. 19, 1996, 110 Stat. 3922.)
+(d)(1) Except as provided in paragraph (2), personal property of the auxiliary shall not be considered property of the United States.
+
+(2) The Secretary may treat personal property of the auxiliary as property of the United States—
+
+&emsp;(A) for the purposes of—
+
+&emsp;&emsp;(i) the statutes and matters referred to in paragraphs (1) through (6) of subsection (b); and
+
+&emsp;&emsp;(ii) section 641 of this title; and
+
+&emsp;(B) as otherwise provided in this chapter.
+
+(3) The Secretary may reimburse the Auxiliary, and each organizational element and unit of the Auxiliary, for necessary expenses of operation, maintenance, and repair or replacement of personal property of the Auxiliary.
+
+(4) In this subsection, the term “personal property of the Auxiliary” means motor boats, yachts, aircraft, radio stations, motorized vehicles, trailers, or other equipment that is under the administrative jurisdiction of the Coast Guard Auxiliary or an organizational element or unit of the Auxiliary and that is used solely for the purposes described in this subsection.
+
+(Aug. 4, 1949, ch. 393, 63 Stat. 555; Pub. L. 104–324, title IV, §401(a), Oct. 19, 1996, 110 Stat. 3922; Pub. L. 108–293, title II, §226, Aug. 9, 2004, 118 Stat. 1041.)
 
 #### Historical and Revision Notes
 
@@ -36,7 +52,9 @@ The Suits in Admiralty Act, referred to in subsec. (b)(4), is act Mar. 9, 1920, 
 
 #### Amendments
 
-1996—Pub. L. 104–324 inserted “of the Coast Guard Auxiliary” after “Administration” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Coast Guard Auxiliary established on February 19, 1941, is a nonmilitary organization administered by the Commandant under the direction of the Secretary.”
+2004—Subsec. (d). Pub. L. 108–293 added subsec. (d).
+
+1996—Pub. L. 104–324 inserted “of the Coast Guard Auxiliary” after “Administration” in section catchlineand amended text generally. Prior to amendment, text read as follows: “The Coast Guard Auxiliary established on February 19, 1941, is a nonmilitary organization administered by the Commandant under the direction of the Secretary.”
 
 #### Use of Coast Guard Auxiliary
 

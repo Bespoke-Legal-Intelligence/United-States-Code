@@ -6,7 +6,7 @@
 
 (c) The Secretary may provide recreational facilities, supplies, and equipment for the use of patients in hospitals and employees in isolated installations.
 
-(d) The Secretary may provide for the preparation, shipment, installation, and display of exhibits, photographic displays, moving pictures, and other visual educational information and descriptive material. For the purposes of the preceding sentence, the Secretary may purchase or rent equipment.
+(d) The Secretary may provide for the preparation, shipment, installation, and display of exhibits, photographic displays, moving pictures,and other visual educational information and descriptive material. For the purposes of the preceding sentence, the Secretary may purchase or rent equipment.
 
 (e) The Secretary may reimburse employees for the cost of repairing or replacing their personal property damaged or destroyed by patients or domiciliary members while such employees are engaged in the performance of their official duties.
 

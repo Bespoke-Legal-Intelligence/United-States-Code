@@ -66,9 +66,5 @@ Sections 103B, 105B, and 107B of the Agricultural Act of 1949, referred to in su
 
 Section 1308(1) of this title, referred to in subsecs. (e), (f), was repealed by Pub. L. 107–171, title I, §1603(a), May 13, 2002, 116 Stat. 213.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7214, 7334, 7917 of this title.
-
 <i><sup>1</sup></i><i> See References in text below.</i>
 

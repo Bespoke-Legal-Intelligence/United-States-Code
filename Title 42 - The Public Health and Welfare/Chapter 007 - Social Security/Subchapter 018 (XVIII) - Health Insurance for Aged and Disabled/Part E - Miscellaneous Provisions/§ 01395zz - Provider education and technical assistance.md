@@ -136,9 +136,5 @@ Financial Participation by Providers.—The provision of technical assistance to
 
 Authorization of Appropriations.—There are authorized to be appropriated, from amounts not otherwise appropriated in the Treasury, such sums as may be necessary to carry out this section.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395hh, 1395ddd of this title.
-
 <i><sup>1</sup></i><i> So in original. Section 1395ddd does not contain a subsec. (g).</i>
 

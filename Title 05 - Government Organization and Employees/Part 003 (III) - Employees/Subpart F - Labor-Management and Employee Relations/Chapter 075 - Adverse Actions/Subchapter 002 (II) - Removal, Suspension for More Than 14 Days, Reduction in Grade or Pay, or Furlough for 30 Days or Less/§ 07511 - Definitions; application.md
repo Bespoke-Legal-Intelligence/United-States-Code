@@ -50,17 +50,17 @@
 
 &emsp;(6) who is a member of the Foreign Service, as described in section 103 of the Foreign Service Act of 1980;
 
-&emsp;(7) whose position is within the Central Intelligence Agency or the General Accounting Office;
+&emsp;(7) whose position is within the Central Intelligence Agency or the Government Accountability Office;
 
 &emsp;(8) whose position is within the United States Postal Service, the Postal Rate Commission, the Panama Canal Commission, the Tennessee Valley Authority, the Federal Bureau of Investigation, an intelligence component of the Department of Defense (as defined in section 1614 of title 10), or an intelligence activity of a military department covered under subchapter I of chapter 83 of title 10, unless subsection (a)(1)(B) of this section or section 1005(a) of title 39 is the basis for this subchapter's applicability;
 
 &emsp;(9) who is described in section 5102(c)(11) of this title; or
 
-&emsp;(10) who holds a position within the Veterans Health Administration which has been excluded from the competitive service by or under a provision of title 38, unless such employee was appointed to such position under section 7401(3) of such title.
+&emsp;(10) who holds a position within the Veterans Health Administration which has been excluded from the competitive service by orunder a provision of title 38, unless such employee was appointed to such position under section 7401(3) of such title.
 
-(c) The Office may provide for the application of this subchapter to any position or group ofpositions excepted from the competitive service by regulation of the Office which is not otherwise covered by this subchapter.
+(c) The Office may provide for the application of this subchapter to any position or group of positions excepted from the competitive service by regulation of the Office which is not otherwise covered by this subchapter.
 
-(Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–376, §2(a), Aug. 17, 1990, 104 Stat. 461; Pub. L. 102–378, §6(a), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 103–359, title V, §501(<i>l</i>), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(b), Sept. 23, 1996, 110 Stat. 2752.)
+(Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–376, §2(a), Aug. 17, 1990, 104 Stat. 461; Pub. L. 102–378, §6(a), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 103–359, title V, §501(<i>l</i>), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(b), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -71,6 +71,8 @@ Section 103 of the Foreign Service Act of 1980, referred to in subsec. (b)(6), i
 A prior section 7511, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 94–183, §2(30), Dec. 31, 1975, 89 Stat. 1058, defined “preference eligible employee” and “adverse action” for purposes of this subchapter, prior to repeal by Pub. L. 95–454, §204(a).
 
 #### Amendments
+
+2004—Subsec. (b)(7). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1996—Subsec. (b)(8). Pub. L. 104–201 substituted “an intelligence component of the Department of Defense (as defined in section 1614 of title 10), or an intelligence activity of a military department covered under subchapter I of chapter 83 of title 10” for “the National Security Agency, the Defense Intelligence Agency, the Central Imagery Office, or an intelligence activity of a military department covered under section 1590 of title 10”.
 
@@ -143,8 +145,4 @@ Amendment by Pub. L. 101–376 applicable with respect to any personnel action t
 #### Effective Date
 
 Subchapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2302 of this title; title 2 section 1602; title 10 section 1610; title 22 sections 1438, 3701; title 25 section 2012; title 32 section 709; title 39 section 1005; title 49 section 44506.
 

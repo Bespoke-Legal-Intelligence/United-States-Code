@@ -14,7 +14,3 @@ Except as provided in title 11, this agreement with respect to credits or princi
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1471, 1474, 1477, 1483 of this title.
-

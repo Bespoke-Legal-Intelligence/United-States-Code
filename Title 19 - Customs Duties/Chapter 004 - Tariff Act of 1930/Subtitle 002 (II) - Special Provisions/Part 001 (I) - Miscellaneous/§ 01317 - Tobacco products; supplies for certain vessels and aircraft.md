@@ -32,7 +32,3 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 
 Insofar as subsec. (a) of this section related exclusively to Internal Revenue it was repealed and incorporated as section 2197(b) of the Internal Revenue Code of 1939. See section 4(a) of enacting sections of Internal Revenue Code of 1939. Section 2197(b) of I. R. C. 1939 was replaced by section 5704(b) of Title 26, Internal Revenue Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1309 of this title.
-

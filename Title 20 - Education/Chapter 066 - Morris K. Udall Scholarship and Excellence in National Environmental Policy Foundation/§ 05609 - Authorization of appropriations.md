@@ -40,7 +40,3 @@ This subsection, referred to in subsec. (c), was enacted by Pub. L. 106–568, w
 
 1998—Pub. L. 105–156, §8, designated existing provisions as subsec. (a), inserted heading, substituted “There is authorized to be appropriated to the Trust Fund” for “There are authorized to be appropriated to the Fund”, and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5606, 5607a of this title.
-

@@ -32,7 +32,7 @@
 
 #### (2) Consideration of proposed order
 
-&emsp;If the Secretary determines that a proposed order is consistent with and will effectuate the purpose of this subchapter, the Secretary shall publish the proposed order in the Federal Register and give due notice and opportunity for public comment on the proposed order.
+&emsp;If the Secretary determines that a proposed order is consistent with and will effectuate thepurpose of this subchapter, the Secretary shall publish the proposed order in the Federal Register and give due notice and opportunity for public comment on the proposed order.
 
 #### (3) Existence of other orders
 
@@ -51,8 +51,4 @@ If the Secretary determines that the final order developed with respect to an ag
 From time to time the Secretary may amend any order, consistent with the requirements of section 7422 of this title.
 
 (Pub. L. 104–127, title V, §514, Apr. 4, 1996, 110 Stat. 1035.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7412 of this title.
 

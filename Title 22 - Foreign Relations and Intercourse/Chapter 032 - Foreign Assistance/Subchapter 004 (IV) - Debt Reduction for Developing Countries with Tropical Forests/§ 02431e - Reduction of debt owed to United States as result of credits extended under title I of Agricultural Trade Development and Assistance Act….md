@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;Any debt reduction pursuant to subsection (a) of this section shall be accomplished at thedirection of the Facility by the exchange of a new obligation for obligations of the type referred to in subsection (a) of this section outstanding as of the date specified in subsection (a)(1) of this section.
+&emsp;Any debt reduction pursuant to subsection (a) of this section shall be accomplished at the direction of the Facility by the exchange of a new obligation for obligations of the type referred to in subsection (a) of this section outstanding as of the date specified in subsection (a)(1) of this section.
 
 #### (2) Exchange of obligations
 
@@ -40,23 +40,27 @@
 
 #### (c) Additional terms and conditions
 
-The following additional terms and conditions shall apply to the reduction of debt under subsection (a)(1) of this section in the same manner as such terms and conditions apply to the reduction of debt under section 604(a)(1) of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1738c(a)(1)\]:
+(1) The following additional terms and conditions shall apply to the reduction of debt under subsection (a)(1) of this section in the same manner as such terms and conditions apply to the reduction of debt under section 604(a)(1) of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1738c(a)(1)\]:
 
-&emsp;(1) The provisions relating to repayment of principal under section 605 of such Act \[7 U.S.C. 1738d\].
+&emsp;(A) The provisions relating to repayment of principal under section 605 of such Act \[7 U.S.C. 1738d\].
 
-&emsp;(2) The provisions relating to interest on new obligations under section 606 of such Act \[7 U.S.C. 1738e\].
+&emsp;(B) The provisions relating to interest on new obligations under section 606 of such Act \[7 U.S.C. 1738e\].
 
-(Pub. L. 87–195, pt. V, §807, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 888.)
+(2) In addition to the application of the provisions relating to repayment of principal under section 605 of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1738d\] to the reduction of debt under subsection (a)(1) of this section (in accordance with paragraph (1)(A) of this subsection), repayment of principal on a new obligation established under subsection (b) of this section may be made in the local currency of the beneficiary country and deposited in the Tropical Forest Fund of the country in the same manner as the provisions relating to payment of interest on new obligations under section 606 of such Act \[7 U.S.C. 1738e\].
+
+(Pub. L. 87–195, pt. V, §807, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 888; amended Pub. L. 108–323, §3(b), Oct. 6, 2004, 118 Stat. 1219.)
 
 #### References in Text
 
 The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (a)(1), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended. Title I of the Act is classified generally to subchapter II (§1701 et seq.) of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
+#### Amendments
+
+2004—Subsec. (c). Pub. L. 108–323 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2431a, 2431d, 2431f of this title.
+For delegation of functions of President under subsec. (a) of this section, see section 1 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of Title 7, Agriculture.
 

@@ -64,7 +64,3 @@ In paragraph (8), based on the act of September 26, 1966 (5 App. U.S.C. 2251(c))
 
 Amendment by Pub. L. 91–510 effective immediately prior to noon on June. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under section 72a of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5531, 8331, 8401, 8701, 8901 of this title; title 2 section 31b–5; title 22 sections 3008, 6918; title 26 section 7448; title 31 section 774; title 38 section 7297.
-

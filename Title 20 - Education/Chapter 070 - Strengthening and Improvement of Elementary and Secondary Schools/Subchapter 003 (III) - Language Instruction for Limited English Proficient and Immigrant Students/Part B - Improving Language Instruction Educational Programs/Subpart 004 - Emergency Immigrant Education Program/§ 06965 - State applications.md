@@ -44,7 +44,3 @@ No State educational agency shall receive any payment under this subpart for any
 
 (Pub. L. 89–10, title III, §3245, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1725.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6966 of this title.
-

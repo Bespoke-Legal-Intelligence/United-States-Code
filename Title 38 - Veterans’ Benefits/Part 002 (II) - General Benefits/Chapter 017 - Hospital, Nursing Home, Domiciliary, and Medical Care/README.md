@@ -81,6 +81,7 @@
 | [1741\.](Subchapter%20005%20%28V%29%20-%20Payments%20to%20State%20Homes/%C2%A7%2001741%20-%20Criteria%20for%20payment.md) | Criteria for payment. |
 | [1742\.](Subchapter%20005%20%28V%29%20-%20Payments%20to%20State%20Homes/%C2%A7%2001742%20-%20Inspections%20of%20such%20homes%3B%20restrictions%20on%20beneficiaries.md) | Inspections of such homes; restrictions on beneficiaries. |
 | [1743\.](Subchapter%20005%20%28V%29%20-%20Payments%20to%20State%20Homes/%C2%A7%2001743%20-%20Applications.md) | Applications. |
+| [1744\.](Subchapter%20005%20%28V%29%20-%20Payments%20to%20State%20Homes/%C2%A7%2001744%20-%20Hiring%20and%20retention%20of%20nurses%20payments%20to%20assist%20States.md) | Hiring and retention of nurses: payments to assist States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -117,6 +118,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–422, title II, §201(a)(2), Nov. 30, 2004, 118 Stat. 2382, added item 1744.
 
 2003—Pub. L. 108–7, div. K, title I, §113(a)(2), Feb. 20, 2003, 117 Stat. 482, struck out item 1729B “Health Services Improvement Fund”.
 
@@ -170,7 +173,7 @@ Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Sta
 
 1981—Pub. L. 97–72, title I, §§106(a)(2), 107(c)(2), (d)(2), Nov. 3, 1981, 95 Stat. 1051, 1052, 1053, added item 629, substituted “HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC OF THE PHILIPPINES” for “HOSPITAL AND MEDICAL CARE FOR COMMONWEALTH OF THE PHILIPPINES ARMY VETERANS” in item relating to subchapter IV, and substituted “Contracts and grants to provide for the care and treatment of United States veterans by the Veterans Memorial Medical Center” for “Contracts and grants to provide hospital care, medical services and nursing home care” in item 632.
 
-1980—Pub. L. 96–330, title IV, §401(b), Aug. 26, 1980, 94 Stat. 1051, substituted “Evidence of inability to defraynecessary expenses” for “Statement under oath” in item 622.
+1980—Pub. L. 96–330, title IV, §401(b), Aug. 26, 1980, 94 Stat. 1051, substituted “Evidence of inability to defray necessary expenses” for “Statement under oath” in item 622.
 
 1979—Pub. L. 96–22, title I, §§103(a)(2), 104(b), 105(b), 106(b), June 13, 1979, 93 Stat. 50, 51, 53, added items 612A, 620A, 634, and 661 to 664 and redesignated former item 634 as 635.
 
@@ -178,7 +181,7 @@ Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Sta
 
 1976—Pub. L. 94–581, title II, §§202(a), 203(b), Oct. 21, 1976, 90 Stat. 2855, 2856, inserted “NURSING HOME,” in chapter heading, and, in analysis of subchapter headings and section catchlines, inserted “, NURSING HOME” in item for subchapter II, inserted “, nursing home” in item 610, substituted “Care” for “Hospitalization” in item 611, and inserted “AND NURSING HOME” in item for subchapter III.
 
-1973—Pub. L. 93–82, title I, §§103(c), 106(b), 107(b), 109(b), Aug. 2, 1973, 87 Stat. 182, 184, 186, 187, substituted “Medical care for survivors and dependents of certain veterans” and “Fitting and training in use of prosthetic appliances; seeing-eye dogs” for “Fitting and training in use of prosthetic appliances” and “Seeing-eye dogs” in items 613 and 614 respectively, substituted “natural disaster” for “fire” in item 626, added item 628, substituted “Assistance to the Republic of the Philippines” and “Contracts and grants to provide hospital care, medical services and nursing home care” for “Grants to the Republic of the Philippines” and “Modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948” in items 631 and 632, respectively, and added “SUBCHAPTER VI—SICKLE CELL ANEMIA” comprising items 651 to 654.
+1973—Pub. L. 93–82, title I, §§103(c), 106(b), 107(b), 109(b), Aug. 2, 1973, 87 Stat. 182, 184, 186, 187, substituted “Medical care for survivors and dependents of certain veterans” and “Fitting and training in use of prosthetic appliances; seeing-eye dogs” for “Fitting and training in use of prosthetic appliances” and “Seeing-eye dogs” in items 613 and 614 respectively, substituted “natural disaster” for “fire” in item 626, added item628, substituted “Assistance to the Republic of the Philippines” and “Contracts and grants to provide hospital care, medical services and nursing home care” for “Grants to the Republic of the Philippines” and “Modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948” in items 631 and 632, respectively, and added “SUBCHAPTER VI—SICKLE CELL ANEMIA” comprising items 651 to 654.
 
 Pub. L. 93–43, §4(c)(2), June 18, 1973, 87 Stat. 79, struck out item 625 “Arrests for crimes in hospitals and domiciliary reservations”.
 
@@ -193,10 +196,6 @@ Pub. L. 93–43, §4(c)(2), June 18, 1973, 87 Stat. 79, struck out item 625 “A
 Pub. L. 87–574, §2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
 
 1959—Pub. L. 86–211, §7(b), Aug. 29, 1959, 73 Stat. 436, added item 617.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 106, 111, 521, 3104, 3115, 3485, 3903, 5313B, 5315, 5503, 7333, 8107, 8153 of this title; title 10 section 2641a; title 31 section 3803; title 42 sections 1320d, 1395w–21, 1395w–113, 2651, 14402.
 
 
 ---

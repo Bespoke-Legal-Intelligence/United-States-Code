@@ -18,7 +18,3 @@ Words â€œor in the part of the State where such suit or prosecution is pendingâ€
 
 Changes were made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1447 of this title.
-

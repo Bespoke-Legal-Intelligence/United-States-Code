@@ -56,9 +56,5 @@ Pub. L. 96–369, §121, Oct. 1, 1980, 94 Stat. 1357.
 
 Pub. L. 96–304, title I, July 8, 1980, 94 Stat. 880–882, as amended Pub. L. 96–514, title II, Dec. 12, 1980, 94 Stat. 2974.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5821, 5907 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

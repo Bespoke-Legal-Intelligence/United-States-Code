@@ -8,7 +8,7 @@
 
 &emsp;(B) provide, subject to subsection (d)(3), the representative of the employees with such relevant information as is necessary to evaluate the proposal.
 
-(2) During the period beginning on the date of the making of a proposal provided for in paragraph (1) and ending on the date of the hearingprovided for in subsection (d)(1), the trustee shall meet, at reasonable times, with the authorized representative to confer in good faith in attempting to reach mutually satisfactory modifications of such agreement.
+(2) During the period beginning on the date of the making of a proposal provided for in paragraph (1) and ending on the date of the hearing provided for in subsection (d)(1), the trustee shall meet, at reasonable times, with the authorized representative to confer in good faith in attempting to reach mutually satisfactory modifications of such agreement.
 
 (c) The court shall approve an application for rejection of a collective bargaining agreement only if the court finds that—
 

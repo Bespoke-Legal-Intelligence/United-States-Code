@@ -22,7 +22,3 @@ As Trustee for the Miccosukee Tribe, the Secretary shall—
 
 (Pub. L. 105–83, title VII, §705, Nov. 14, 1997, 111 Stat. 1625.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1750d of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—WAIVER OF STATUTORY AND REGULATORY REQUIREMENTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6143, 6144 of this title.
-
 
 ---
 

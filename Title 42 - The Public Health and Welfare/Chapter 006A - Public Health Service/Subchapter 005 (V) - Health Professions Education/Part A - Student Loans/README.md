@@ -1,9 +1,5 @@
 Part A—Student Loans
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 2 section 60c–5; title 5 section 5379; title 10 section 16302.
-
 
 ---
 

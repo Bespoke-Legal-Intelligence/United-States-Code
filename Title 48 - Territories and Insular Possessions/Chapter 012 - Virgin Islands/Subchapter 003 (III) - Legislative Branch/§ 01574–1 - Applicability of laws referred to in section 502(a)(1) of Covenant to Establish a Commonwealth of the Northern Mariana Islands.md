@@ -30,7 +30,3 @@ Section was not enacted as part of the Revised Organic Act of the Virgin Islands
 
 Amendment by Pub. L. 95–135 effective as of Oct. 15, 1977, see section 2 of Pub. L. 95–135, set out as a note under section 1421q–1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1841 of this title.
-

@@ -6,9 +6,9 @@ The Assistant Secretary of the Senate may be paid at a maximum annual rate of co
 
 #### Amendments
 
-<b>1975</b>—Pub. L. 94–59 substituted “$39,000” for “$37,620”, effective July 1, 1975.
+1975—Pub. L. 94–59 substituted “$39,000” for “$37,620”, effective July 1, 1975.
 
-<b>1974</b>—Pub. L. 93–371 substituted provision setting maximum annual rate of compensation of Assistant Secretary at not to exceed $37,620, for provisions authorizing Secretary of Senate to fix the compensation of Assistant Secretary at not to exceed $11,826 per annum, effective July 1, 1974.
+1974—Pub. L. 93–371 substituted provision setting maximum annual rate of compensation of Assistant Secretary at not to exceed $37,620, for provisions authorizing Secretary of Senate to fix the compensation of Assistant Secretary at not to exceed $11,826 per annum, effective July 1, 1974.
 
 #### Change of Name
 

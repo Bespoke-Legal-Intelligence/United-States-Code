@@ -12,7 +12,3 @@ If any person shall, except by permission of the Secretary of the Interior, dest
 
 “United States magistrate judge” substituted for “United States magistrate” wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430<i>l</i>, 430<i>o</i>, 430s of this title.
-

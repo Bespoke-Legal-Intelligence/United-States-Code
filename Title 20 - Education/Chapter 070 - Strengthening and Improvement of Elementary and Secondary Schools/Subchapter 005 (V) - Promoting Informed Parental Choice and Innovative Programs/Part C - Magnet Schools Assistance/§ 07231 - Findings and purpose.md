@@ -12,7 +12,7 @@ Congress makes the following findings:
 
 &emsp;(4) It is in the best interests of the United States—
 
-&emsp;&emsp;(A) to continue the Federal Government's support of local educational agencies that are implementing court-ordered desegregation plans and local educational agencies that are voluntarily seeking to foster meaningful interaction among students of different racial and ethnic backgrounds, beginning at the earliest stage of such students’ education;
+&emsp;&emsp;(A) to continue the Federal Government's support of local educational agencies thatare implementing court-ordered desegregation plans and local educational agencies that are voluntarily seeking to foster meaningful interaction among students of different racial and ethnic backgrounds, beginning at the earliest stage of such students’ education;
 
 &emsp;&emsp;(B) to ensure that all students have equitable access to a high quality education that will prepare all students to function well in a technologically oriented and a highly competitive economy comprised of people from many different racial and ethnic backgrounds; and
 
@@ -43,8 +43,4 @@ The purpose of this part is to assist in the desegregation of schools served by 
 A prior section 7231, Pub. L. 89–10, title V, §5201, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3695, set forth short title and findings for the Women's Educational Equity Act of 1994, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 5301 of Pub. L. 89–10 was classified to section 7261 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7231d of this title.
 

@@ -34,13 +34,13 @@
 | :--- | ---: |
 | [1008\.](Subchapter%20D%20-%20Prohibition%20on%20Certain%20Infringement%20Actions%2C%20Remedies%2C%20and%20Arbitration/%C2%A7%2001008%20-%20Prohibition%20on%20certain%20infringement%20actions.md) | Prohibition on certain infringement actions. |
 | [1009\.](Subchapter%20D%20-%20Prohibition%20on%20Certain%20Infringement%20Actions%2C%20Remedies%2C%20and%20Arbitration/%C2%A7%2001009%20-%20Civil%20remedies.md) | Civil remedies. |
-| [1010\.](Subchapter%20D%20-%20Prohibition%20on%20Certain%20Infringement%20Actions%2C%20Remedies%2C%20and%20Arbitration/%C2%A7%2001010%20-%20Arbitration%20of%20certain%20disputes.md) | Arbitration of certain disputes. |
+| [1010\.](Subchapter%20D%20-%20Prohibition%20on%20Certain%20Infringement%20Actions%2C%20Remedies%2C%20and%20Arbitration/%C2%A7%2001010%20-%20Determination%20of%20certain%20disputes.md) | Determination of certain disputes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
+#### Amendments
 
-This chapter is referred to in sections 802, 912 of this title.
+2004—Pub. L. 108–419, §5(i)(4)(B), Nov. 30, 2004, 118 Stat. 2369, substituted “Determination” for “Arbitration” in item 1010.
 
 
 ---

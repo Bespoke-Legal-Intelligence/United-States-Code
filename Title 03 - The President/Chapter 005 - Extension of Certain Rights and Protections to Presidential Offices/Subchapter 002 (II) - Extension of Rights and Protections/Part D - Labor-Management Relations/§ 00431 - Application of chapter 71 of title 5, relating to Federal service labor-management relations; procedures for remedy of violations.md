@@ -6,7 +6,7 @@ Labor-Management Rights.—Subject to subsection (d), chapter 71 of title 5 shal
 
 (b)
 
-Definition.—For purposes of the application under this section of chapter 71 of title 5, the term “agency” as used in such chapter means an employing office.
+Definition.—For purposes of the application under this section of chapter 71 of title 5,the term “agency” as used in such chapter means an employing office.
 
 (c)
 
@@ -85,8 +85,4 @@ Certain employing offices.—Subsections (a) and (b) shall take effect, with res
 #### Effective Date
 
 Subsecs. (c) and (d) of this section effective Oct. 26, 1996, see section 471(b) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 471 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—REGULATION OF UNFAIR AND DECEPTIVE ACTS AND PRACTICES IN CONNECTION WITH PAY-PER-CALL SERVICES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 47 section 228.
-
 
 ---
 

@@ -14,7 +14,7 @@ In administering programs of the United States Fish and Wildlife Service related
 
 &emsp;(6) Protecting, managing, and conserving migratory birds.
 
-(Pub. L. 101–537, title I, §1006, Nov. 8, 1990, 104 Stat. 2373; Pub. L. 101–646, title II, §2006, Nov. 29,1990, 104 Stat. 4777; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §3(b), Oct. 19, 1998, 112 Stat. 2358.)
+(Pub. L. 101–537, title I, §1006, Nov. 8, 1990, 104 Stat. 2373; Pub. L. 101–646, title II, §2006, Nov. 29, 1990, 104 Stat. 4777; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §3(b), Oct. 19, 1998, 112 Stat. 2358.)
 
 #### Codification
 
@@ -23,8 +23,4 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted identical
 #### Amendments
 
 1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2006, which enacted this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 941c, 941f of this title.
 

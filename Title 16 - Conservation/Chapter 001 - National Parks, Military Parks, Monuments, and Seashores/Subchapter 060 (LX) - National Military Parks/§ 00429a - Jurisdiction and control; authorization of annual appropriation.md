@@ -10,7 +10,3 @@ Administrative functions of Brices Cross Roads and Tupelo battlefield sites tran
 
 National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, §2, by act Mar. 2, 1934, ch. 38, §1, 48 Stat. 389.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 429a–1 of this title.
-

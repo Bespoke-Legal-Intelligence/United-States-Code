@@ -132,7 +132,3 @@ Amendment by Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any inj
 
 Increases authorized under amendment by Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8108, 8109, 8110, 8115, 8116, 8337, 8464a of this title; title 18 section 1921; title 22 section 4048; title 50 section 2051.
-

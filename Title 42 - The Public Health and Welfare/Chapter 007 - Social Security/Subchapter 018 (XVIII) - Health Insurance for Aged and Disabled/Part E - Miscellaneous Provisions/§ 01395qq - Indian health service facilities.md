@@ -18,7 +18,7 @@ The annual report of the Secretary which is required by section 1671 of title 25
 
 #### (e) Services provided by Indian Health Service, Indian tribe, or tribal organization
 
-(1)(A) Notwithstanding section 1395n(d) of this title, subject to subparagraph (B), the Secretary shall make payment under part B of this subchapter to a hospital or an ambulatory care clinic (whether provider-based or freestanding) that is operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined for purposes of subsection (a) of this section) for services described in paragraph (2) (and for items and services furnished during the 5-year period beginning on January 1, 2005, all items and services for which payment may be made under part B of this subchapter) furnished in or at the direction of the hospital or clinic under the same situations, terms, and conditions as would apply if the services were furnished in or at the direction of such a hospital or clinic that was not operated by such Service, tribe, or organization.
+(1)(A) Notwithstanding section 1395n(d) of this title, subject to subparagraph (B), the Secretaryshall make payment under part B of this subchapter to a hospital or an ambulatory care clinic (whether provider-based or freestanding) that is operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined for purposes of subsection (a) of this section) for services described in paragraph (2) (and for items and services furnished during the 5-year period beginning on January 1, 2005, all items and services for which payment may be made under part B of this subchapter) furnished in or at the direction of the hospital or clinic under the same situations, terms, and conditions as would apply if the services were furnished in or at the direction of such a hospital or clinic that was not operated by such Service, tribe, or organization.
 
 (B) Payment shall not be made for services under subparagraph (A) to the extent that payment is otherwise made for such services under this subchapter.
 
@@ -67,8 +67,4 @@ Section 401(c) of Pub. L. 94–437 provided that any payments received for servi
 #### Preference in Services for Indians With Medicare Coverage Not Authorized
 
 Section 401(d) of Pub. L. 94–437, which provided that nothing in this section authorized the Secretary to provide services to an Indian beneficiary with coverage under this subchapter, in preference to an Indian beneficiary without such coverage, was omitted in the general amendment of section 401 of Pub. L. 94–437 by Pub. L. 102–573, title IV, §401(a), Oct. 29, 1992, 106 Stat. 4565. Similar provisions are contained in section 401(b) of Pub. L. 94–437, which is classified to section 1641(b) of Title 25, Indians.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395f, 1395n, 1395u, 1395y of this title; title 25 sections 1645, 1680c.
 

@@ -64,13 +64,9 @@ Section 605(b) of Pub. L. 102–568 provided that: “The amendments made by sub
 
 #### Effective and Termination Dates
 
-Section to remain in effect through the period covered by Pub. L. 102–145, see section 111 of Pub. L. 102–145, set out as an Effective and Termination Dates of 1990 Amendment note under section 1710 of this title.
+Section to remain in effect through the period covered by Pub. L. 102–145, see section 111 of Pub. L.102–145, set out as an Effective and Termination Dates of 1990 Amendment note under section 1710 of this title.
 
 Section to remain in effect through the period covered by Pub. L. 102–109, see section 111 of Pub. L. 102–109, set out as an Effective and Termination Dates of 1990 Amendment note under section 1710 of this title.
 
 Section 8012(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect with respect to medication furnished to a veteran after October 31, 1990, or the date of the enactment of this Act \[Nov. 5, 1990\], whichever is later.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1729A of this title.
 

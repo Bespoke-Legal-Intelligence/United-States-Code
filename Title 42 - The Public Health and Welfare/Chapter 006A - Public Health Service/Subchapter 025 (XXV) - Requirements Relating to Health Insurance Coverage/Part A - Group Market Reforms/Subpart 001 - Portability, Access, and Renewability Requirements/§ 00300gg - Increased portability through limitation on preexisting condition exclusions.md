@@ -152,7 +152,7 @@ For purposes of this part—
 
 #### (C) Issuer compliance
 
-&emsp;&emsp;To the extent that medical care under a group health plan consists of group health insurance coverage, the plan is deemed to have satisfied the certification requirement under this paragraph if the health insurance issuer offering the coverage provides for such certification in accordance with this paragraph.
+&emsp;&emsp;To the extent that medical care under a group health plan consists of group healthinsurance coverage, the plan is deemed to have satisfied the certification requirement under this paragraph if the health insurance issuer offering the coverage provides for such certification in accordance with this paragraph.
 
 #### (2) Disclosure of information on previous benefits
 
@@ -220,7 +220,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;A health maintenance organization which offers health insurance coverage in connection with a group health plan and which does not impose any preexisting condition exclusion allowed under subsection (a) of this section with respect to any particular coverage option may impose an affiliation period for such coverage option, but only if—
+&emsp;A health maintenance organization which offers health insurance coverage in connection with a group health plan and which does not impose any preexisting condition exclusion allowed under subsection (a) of this section withrespect to any particular coverage option may impose an affiliation period for such coverage option, but only if—
 
 &emsp;&emsp;(A) such period is applied uniformly without regard to any health status-related factors; and
 
@@ -367,8 +367,4 @@ Consultation.—The studies under this subsection shall be conducted in consulta
 “(b)
 
 Reports.—Not later than January 1, 2000, the Secretary shall submit to the appropriate committees of Congress a report on each of the studies under subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300e, 300bb–5, 300gg–1, 300gg–21, 300gg–23, 300gg–41, 300gg–43, 300gg–91, 1395ss, 1396a, 1397jj of this title; title 26 section 4980B; title 29 section 1165.
 

@@ -2,7 +2,7 @@
 
 #### (a) Adequate notice and opportunity to comment
 
-In exercising his authorities under this subchapter and other laws applicable to the Forest Service, the Secretary, by regulation, shall establish procedures, including public hearings where appropriate, to give the Federal, State, and local governments and the public adequate notice and an opportunity to comment upon the formulation of standards, criteria, and guidelines applicable to Forest Service programs.
+In exercising his authorities under this subchapter and other laws applicable to the ForestService, the Secretary, by regulation, shall establish procedures, including public hearings where appropriate, to give the Federal, State, and local governments and the public adequate notice and an opportunity to comment upon the formulation of standards, criteria, and guidelines applicable to Forest Service programs.
 
 #### (b) Advisory boards
 
@@ -16,7 +16,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 1601 of this title.
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 
 #### Forest Service Decisionmaking and Appeals Reform
 

@@ -20,7 +20,3 @@ Changes were made in phraseology.
 
 Pub. L. 100–459, title IV, §400, Oct. 1, 1988, 102 Stat. 2211, provided: “That any funds hereafter collected by the Judiciary as a charge for services rendered in administering accounts kept in a court's registry shall be deposited into a separate account entitled ‘Registry Administration Account’ in the Treasury of the United States. Such funds shall remain available to the Judiciary until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the Courts of Appeals, District Courts and Other Judicial Services and the Administrative Office of the United States Courts”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 566, 2042, 2043 of this title.
-

@@ -36,7 +36,7 @@ The Department of Energy shall intensify research in key basic science areas in 
 
 &emsp;(C) avoids duplication of private research and development.
 
-(2) To that end, the Secretary of Energy shall issue administrative regulations, within 60 days after February 25, 1978, which shall specify procedures, standards, and criteria for the timely review for compliance of each new contract, grant, Department of Energy project, or other agency project funded or to be funded under the authority of this Act. Such regulations shall require that the Secretary of Energy or his designee shall certify that each such contract, grant, or project satisfies the requirement of this subsection, and shall include in such certification a discussion of the relationship of any related or comparable industry research and development, in terms of this subsection, to the proposed research and development under the authority of this Act. The discussion shall also address related issues, such as cost sharing and patent rights.
+(2) To that end, the Secretary of Energy shall issue administrative regulations, within 60 daysafter February 25, 1978, which shall specify procedures, standards, and criteria for the timely review for compliance of each new contract, grant, Department of Energy project, or other agency project funded or to be funded under the authority of this Act. Such regulations shall require that the Secretary of Energy or his designee shall certify that each such contract, grant, or project satisfies the requirement of this subsection, and shall include in such certification a discussion of the relationship of any related or comparable industry research and development, in terms of this subsection, to the proposed research and development under the authority of this Act. The discussion shall also address related issues, such as cost sharing and patent rights.
 
 (3) Such certifications shall be available to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The provisions of chapter 5 of title 5 shall not apply to such certifications and no court shall have any jurisdiction to review the preparation or adequacy of such certifications; but section 553 of title 5 and section 5916 of title 42 shall apply to public disclosure of such certifications.
 
@@ -59,8 +59,4 @@ This Act, referred to in subsec. (f), is Pub. L. 95–238, Feb. 25, 1978, 92 Sta
 #### Change of Name
 
 Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2705 of this title.
 

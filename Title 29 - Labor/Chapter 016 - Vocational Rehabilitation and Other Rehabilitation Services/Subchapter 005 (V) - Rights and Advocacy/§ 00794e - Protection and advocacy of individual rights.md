@@ -62,7 +62,7 @@ For any fiscal year in which the amount appropriated to carry out this section i
 
 #### (d) Proportional reduction
 
-To provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or to provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, the Commissioner shall proportionately reduce the allotments of the remaining systems within States under subsection (c)(3) of this section, with such adjustments as may be necessary to prevent the allotment of any such remaining system within a State from being reduced to less than the minimum allotment for a system within a State (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or the minimum allotment for a State (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, as appropriate.
+To provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or to provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, the Commissioner shall proportionately reduce the allotments of the remaining systems within States under subsection (c)(3) of this section, with suchadjustments as may be necessary to prevent the allotment of any such remaining system within a State from being reduced to less than the minimum allotment for a system within a State (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or the minimum allotment for a State (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, as appropriate.
 
 #### (e) Reallotment
 
@@ -114,7 +114,7 @@ The Commissioner may delegate the administration of this program to the Commissi
 
 #### (k) Report
 
-The Commissioner shall annually prepare and submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the types of services and activities being undertaken by programs funded under this section, the total number of individuals served under this section, the types of disabilities represented by such individuals, and the types of issues being addressed on behalf of such individuals.
+The Commissioner shall annually prepare and submit to the Committee on Education and theWorkforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the types of services and activities being undertaken by programs funded under this section, the total number of individuals served under this section, the types of disabilities represented by such individuals, and the types of issues being addressed on behalf of such individuals.
 
 #### (<i>l</i>) Authorization of appropriations
 
@@ -184,7 +184,7 @@ States.—For purposes of determining the minimum amount of an allotment under p
 
 “(B)
 
-Certain territories.—For purposes of determining the minimum amount of an allotment under paragraph (4)(B), the amount $50,000 shall, in the caseof such allotments for fiscal year 1994 and subsequent fiscal years, be increased to the extent necessary to offset the effects of inflation occurring since October 1992, as measured by the percentage increase in the Consumer Price Index For All Urban Consumers (U.S. city average) during the period ending on April 1 of the fiscal year preceding the fiscal year for which the allotment is to be made.”
+Certain territories.—For purposes of determining the minimum amount of an allotment under paragraph (4)(B), the amount $50,000 shall, in the case of such allotments for fiscal year 1994 and subsequent fiscal years, be increased to the extent necessary to offset the effects of inflation occurring since October 1992,as measured by the percentage increase in the Consumer Price Index For All Urban Consumers (U.S. city average) during the period ending on April 1 of the fiscal year preceding the fiscal year for which the allotment is to be made.”
 
 Subsec. (d). Pub. L. 103–73, §112(c)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Amounts necessary to provide allotments to systems within States in accordance with subsection (c)(3)(B) of this section as increased under subsection (c)(5) of this section, or to provide allotments in accordance with subsection (c)(4)(B) of this section as increased in accordance with subsection (c)(5) of this section, shall be derived by proportionately reducing the allotments of the remaining systems within States under subsection (c)(3) of this section, but with such adjustments as may be necessary to prevent the allotment of any such remaining systems within States from being thereby reduced to less than the greater of $100,000 or one-third of one percent of the sums made available for purposes of this section for the fiscal year for which the allotment is made, as increased in accordance with subsection (c)(5) of this section.”
 
@@ -194,11 +194,11 @@ Subsec. (j). Pub. L. 103–73, §112(c)(7), added subsec. (j) and struck out hea
 
 Subsec. (n). Pub. L. 103–73, §112(c)(5), redesignated subsec. (i) as (n).
 
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–12 effective Apr. 30, 1997, applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, and also applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 716, 718, 3002 of this title; title 42 section 14404; 15461.
 

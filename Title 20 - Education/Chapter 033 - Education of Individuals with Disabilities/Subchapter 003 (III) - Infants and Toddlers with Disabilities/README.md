@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1406, 1411, 1412, 1418, 1419, 1452, 1454, 1461, 1473, 1474, 1481, 1482 of this title; title 42 sections 247b–4a, 280g–1, 5106a, 9835, 9836, 9837, 15025.
-
 
 ---
 
@@ -22,5 +18,4 @@ This subchapter is referred to in sections 1406, 1411, 1412, 1418, 1419, 1452, 1
 - [&sect; 01441 - State interagency coordinating council](%C2%A7%2001441%20-%20State%20interagency%20coordinating%20council.md)
 - [&sect; 01442 - Federal administration](%C2%A7%2001442%20-%20Federal%20administration.md)
 - [&sect; 01443 - Allocation of funds](%C2%A7%2001443%20-%20Allocation%20of%20funds.md)
-- [&sect; 01444 - Federal Interagency Coordinating Council](%C2%A7%2001444%20-%20Federal%20Interagency%20Coordinating%20Council.md)
-- [&sect; 01445 - Authorization of appropriations](%C2%A7%2001445%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 01444 - Authorization of appropriations](%C2%A7%2001444%20-%20Authorization%20of%20appropriations.md)

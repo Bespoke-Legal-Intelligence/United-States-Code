@@ -4,7 +4,3 @@ There is authorized to be located and constructed within said memorial park a su
 
 (Aug. 20, 1935, ch. 575, §2, 49 Stat. 661.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 430z–1 of this title.
-

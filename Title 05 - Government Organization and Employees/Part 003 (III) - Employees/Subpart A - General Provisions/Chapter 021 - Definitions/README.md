@@ -23,10 +23,6 @@
 
 1972—Pub. L. 92–297, §1(b), May 16, 1972, 86 Stat. 141, added item 2109.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 22 section 3664.
-
 <i><sup>1</sup></i><i> Chapter heading amended by Pub. L. 107–296 without corresponding amendment of part analysis.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>

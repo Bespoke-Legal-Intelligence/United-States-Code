@@ -10,7 +10,7 @@
 
 &emsp;(C) for which air quality criteria had not been issued before December 31, 1970 but for which he plans to issue air quality criteria under this section.
 
-(2) The Administrator shall issue air quality criteria for an air pollutant within 12 months after he has included such pollutant in a list under paragraph (1). Air quality criteria for an air pollutant shall accurately reflect the latest scientific knowledge useful in indicating the kind and extent of all identifiable effects on public health or welfare which may be expected from the presence of such pollutant in the ambient air, in varying quantities. The criteria for an air pollutant, to the extent practicable, shall include information on—
+(2) The Administrator shall issue air quality criteria for an air pollutant within 12 months after he has included such pollutant in a list under paragraph (1). Air quality criteria for an air pollutant shall accurately reflect the latest scientific knowledge useful in indicating the kind and extent of all identifiable effects onpublic health or welfare which may be expected from the presence of such pollutant in the ambient air, in varying quantities. The criteria for an air pollutant, to the extent practicable, shall include information on—
 
 &emsp;(A) those variable factors (including atmospheric conditions) which of themselves or in combination with other factors may alter the effects on public health or welfare of such air pollutant;
 
@@ -22,7 +22,7 @@
 
 (1) Simultaneously with the issuance of criteria under subsection (a) of this section, the Administrator shall, after consultation with appropriate advisory committees and Federal departments and agencies, issue to the States and appropriate air pollution control agencies information on air pollution control techniques, which information shall include data relating to the cost of installation and operation, energy requirements, emission reduction benefits, and environmental impact of the emission control technology. Such information shall include such data as are available on available technology and alternative methods of prevention and control of air pollution. Such information shall also include data on alternative fuels, processes, and operating methods which will result in elimination or significant reduction of emissions.
 
-(2) In order to assist in the development of information on pollution control techniques, theAdministrator may establish a standing consulting committee for each air pollutant included in a list published pursuant to subsection (a)(1) of this section, which shall be comprised of technically qualified individuals representative of State and local governments, industry, and the academic community. Each such committee shall submit, as appropriate, to the Administrator information related to that required by paragraph (1).
+(2) In order to assist in the development of information on pollution control techniques, the Administrator may establish a standing consulting committee for each air pollutant included in a list published pursuant to subsection (a)(1) of this section, which shall be comprised of technically qualified individuals representative of State and local governments, industry, and the academic community. Each such committee shall submit, as appropriate, to the Administrator information related to that required by paragraph (1).
 
 #### (c) Review, modification, and reissuance of criteria or information
 
@@ -136,7 +136,7 @@ Subsec. (h). Pub. L. 101–549, §108(c), added subsec. (h).
 
 1977—Subsec. (a)(1)(A). Pub. L. 95–95, §401(a), substituted “emissions of which, in his judgment, cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare” for “which in his judgment has an adverse effect on public health or welfare”.
 
-Subsec. (b)(1). Pub. L. 95–95, §104(a), substituted “cost of installation and operation, energy requirements, emission reduction benefits, and environmental impact of the emission control technology” for “technology and costs of emission control”.
+Subsec. (b)(1). Pub. L. 95–95, §104(a), substituted “cost of installation and operation, energy requirements,emission reduction benefits, and environmental impact of the emission control technology” for “technology and costs of emission control”.
 
 Subsec. (c). Pub. L. 95–95, §104(b), inserted provision directing the Administrator, not later than six months after Aug. 7, 1977, to revise and reissue criteria relating to concentrations of NO<b>2</b> over such period (not more than three hours) as he deems appropriate, with the criteria to include a discussion of nitric and nitrous acids, nitrites, nitrates, nitrosamines, and other carcinogenic and potentially carcinogenic derivatives of oxides of nitrogen.
 
@@ -149,10 +149,6 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
 All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7403, 7409, 7411, 7412, 7417, 7422, 7504, 7508, 7511a, 7511b, 7513b, 7602 of this title; title 23 sections 133, 149.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) equal to the percent specified in paragraph (3) of the sums expended during such quarter that are attributable to the planning, design, development, installation or enhancement of an automatic data processing and information retrieval system (including in such sums the full cost of the hardware components of such system); and <sup>1</sup>
 
-&emsp;(C) equal to 90 percent (rather than the percentage specified in subparagraph (A)) of so much of the sums expended during such quarter as are attributable to laboratory costs incurred in determining paternity, and
+&emsp;(C) equal to 90 percent (rather than the percentage specified in subparagraph (A)) of somuch of the sums expended during such quarter as are attributable to laboratory costs incurred in determining paternity, and
 
 &emsp;(D) equal to 66 percent of the sums expended by the State during the quarter for an alternative statewide system for which a waiver has been granted under section 652(d)(3) of this title, but only to the extent that the total of the sums so expended by the State on or after July 16, 1998, does not exceed the least total cost estimate submitted by the State pursuant to section 652(d)(3)(C) of this title in the request for the waiver;
 
@@ -66,7 +66,7 @@
 
 (ii) If a State with respect to which a reduction is made under this paragraph for a fiscal year with respect to a failure to comply with a subparagraph of section 654(24) of this title achieves compliance with such subparagraph by the beginning of the succeeding fiscal year, the Secretary shall increase the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the succeeding fiscal year by an amount equal to 90 percent of the reduction for the fiscal year.
 
-(iii) The Secretary shall reduce the amount of any reduction that, in the absence of this clause, would be required to be made under this paragraph by reason of the failure of a State to achieve compliance with section 654(24)(B) of this title during the fiscal year, by an amount equal to 20 percent of the amount of the otherwise required reduction, for each State performance measure described in section 658a(b)(4) of this title with respect to which the applicable percentage under section 658a(b)(6) of this title for the fiscal year is 100 percent, if the Secretary has made the determination described in section 658a(b)(5)(B) of this title with respect to the State for the fiscal year.
+(iii) The Secretary shall reduce the amount of any reduction that, in the absence of this clause, would be required to be made under this paragraph by reason of the failure of a State toachieve compliance with section 654(24)(B) of this title during the fiscal year, by an amount equal to 20 percent of the amount of the otherwise required reduction, for each State performance measure described in section 658a(b)(4) of this title with respect to which the applicable percentage under section 658a(b)(6) of this title for the fiscal year is 100 percent, if the Secretary has made the determination described in section 658a(b)(5)(B) of this title with respect to the State for the fiscal year.
 
 (D) The Secretary may not impose a penalty under this paragraph against a State with respect to a failure to comply with section 654(24)(B) of this title for a fiscal year if the Secretary is required to impose a penalty under this paragraph against the State with respect to a failure to comply with section 654(24)(A) of this title for the fiscal year.
 
@@ -106,7 +106,7 @@
 
 (1) Prior to the beginning of each quarter, the Secretary shall estimate the amount to which a State will be entitled under subsection (a) of this section for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, and (B) such other investigation as the Secretary may find necessary.
 
-(2) Subject to subsection (d) of this section, the Secretary shall then pay, in such installments as he may determine, to the State the amount so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarterand with respect to which adjustment has not already been made under this subsection.
+(2) Subject to subsection (d) of this section, the Secretary shall then pay, in such installments as he may determine, to the State the amount so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
 
 (3) Upon the making of any estimate by the Secretary under this subsection, any appropriations available for payments under this section shall be deemed obligated.
 
@@ -114,7 +114,7 @@
 
 #### (d) State reports
 
-Notwithstanding any other provision of law, no amount shall be paid to any State under this section for any quarter, prior to the close of such quarter, unless for the period consisting of all prior quarters for which payment is authorized to be made to such State under subsection (a) of this section, there shall have been submitted by the State to the Secretary, with respect to each quarter in such period (other than the last two quarters in such period), a full and complete report (in such form and manner and containing such information as the Secretary shall prescribe or require) as to the amount of child support collected and disbursed and all expenditures with respect to which payment is authorized under subsection (a) of this section.
+Notwithstanding any other provision of law, no amount shall be paid to any State under this section for any quarter, prior to the close of such quarter, unless for the period consisting of all prior quarters for which payment is authorized to be made to such State under subsection\(a) of this section, there shall have been submitted by the State to the Secretary, with respect to each quarter in such period (other than the last two quarters in such period), a full and complete report (in such form and manner and containing such information as the Secretary shall prescribe or require) as to the amount of child support collected and disbursed and all expenditures with respect to which payment is authorized under subsection (a) of this section.
 
 #### (e) Special project grants for interstate enforcement; appropriations
 
@@ -291,10 +291,6 @@ Allocation formula.—The regulations referred to in subparagraph (B) shall pres
 #### Payments to States for Certain Expenses Incurred During July 1975
 
 Section 206 of Pub. L. 94–88 provided that amounts expended in good faith by any State during July 1975 in certain ways in preparation for or implementation of the child support program under this part were to be considered for purposes of this section, to the extent that payment for the expenses incurred would have been made under the terms of this section, had the amendment by section 101 of Pub. L. 93–647 been effective on July 1, 1975, to have been expended by the State for the operation of the State plan or for the conduct of activities specified in this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 655a, 658a, 1315 of this title; title 2 section 906.
 
 <i><sup>1</sup></i><i> So in original. The “; and” probably should be a comma.</i>
 

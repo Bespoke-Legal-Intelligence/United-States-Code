@@ -34,7 +34,3 @@ Pub. L. 99–662, §915(f), substituted “$2,000,000” for “$1,000,000”.
 
 Amendment by section 915(f) of Pub. L. 99–662 not applicable to any project under contract for construction on Nov. 17, 1986, see section 915(i) of Pub. L. 99–662, set out as a note under section 426g of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2282, 2290 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—CHILDREN OF WOMEN VIETNAM VETERANS BORN WITH CERTAIN BIRTH DEFECTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1831, 1834 of this title.
-
 
 ---
 

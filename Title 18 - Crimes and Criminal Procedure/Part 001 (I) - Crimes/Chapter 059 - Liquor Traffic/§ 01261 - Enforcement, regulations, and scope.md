@@ -32,9 +32,5 @@ Pub. L. 107–273 struck out subsec. (a) designation and subsec. (b) which read 
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3667 of this title.
-
 <i><sup>1</sup></i><i> So in original. There is no subsec. (b).</i>
 

@@ -6,7 +6,7 @@ The flag, when carried in a procession with another flag or flags, should be eit
 
 (b) The flag should not be draped over the hood, top, sides, or back of a vehicle or of a railroad train or a boat. When the flag is displayed on a motorcar, the staff shall be fixed firmly to the chassis or clamped to the right fender.
 
-(c) No other flag or pennant should be placed above or, if on the same level, to the right of the flag of the United States of America, except during church services conducted by naval chaplains at sea, when the church pennant may be flown above the flag during church services for the personnel of the Navy. No person shall display the flag of the United Nations or any other national or international flag equal, above, or in a position of superior prominence or honor to, or in place of, the flag of the United States at any place within the United States or any Territory or possession thereof: <i>Provided</i>, That nothing in this section shall make unlawful the continuance of the practice heretofore followed of displaying the flag of the United Nations in a position of superior prominence or honor, and other national flags in positions of equal prominence or honor, with that of the flag of the United States at the headquarters of the United Nations.
+(c) No other flag or pennant should be placed above or, if on the same level, to the right of the flag of the United States of America, except during church services conducted by naval chaplains at sea, when the church pennant may be flown above the flag during church services for the personnel of the Navy. No person shall display the flag of the United Nations or any other national or international flag equal, above, or in a position of superior prominence or honor to, orin place of, the flag of the United States at any place within the United States or any Territory or possession thereof: <i>Provided</i>, That nothing in this section shall make unlawful the continuance of the practice heretofore followed of displaying the flag of the United Nations in a position of superior prominence or honor, and other national flags in positions of equal prominence or honor, with that of the flag of the United States at the headquarters of the United Nations.
 
 (d) The flag of the United States of America, when it is displayed with another flag against a wall from crossed staffs, should be on the right, the flag's own right, and its staff should be in front of the staff of the other flag.
 
@@ -91,8 +91,4 @@ IN WITNESS WHEREOF, I have hereunto set my hand and caused the Seal of the Unite
 \[seal\]
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2249b; title 36 section 136.
 

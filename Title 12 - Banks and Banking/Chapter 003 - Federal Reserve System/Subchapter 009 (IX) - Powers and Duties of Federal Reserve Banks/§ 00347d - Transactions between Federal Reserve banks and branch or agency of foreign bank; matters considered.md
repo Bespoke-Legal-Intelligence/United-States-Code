@@ -12,7 +12,3 @@ Section is comprised of the fourteenth (last) par. of section 13 of act Dec. 23,
 
 A prior section 347d, act Mar. 9, 1933, ch. 1, §404, as added Mar. 24, 1933, ch. 8, §1, 48 Stat. 20, which related to direct loans to State banks and trust companies, was omitted from the Code as terminated since by its own terms, it was effective for only one year following date of its enactment, Mar. 24, 1933.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 84, 412, 461 of this title.
-

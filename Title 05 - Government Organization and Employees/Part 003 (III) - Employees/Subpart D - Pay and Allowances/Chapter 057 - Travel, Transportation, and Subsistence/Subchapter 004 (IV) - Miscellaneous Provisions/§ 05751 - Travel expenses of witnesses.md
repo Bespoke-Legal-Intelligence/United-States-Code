@@ -10,7 +10,3 @@
 
 1996—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in subsecs. (a) and (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 1385.
-

@@ -4,7 +4,3 @@ If any provision of this subchapter, or the application thereof to any person, p
 
 (Sept. 26, 1914, ch. 311, §17, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 21 section 352.
-

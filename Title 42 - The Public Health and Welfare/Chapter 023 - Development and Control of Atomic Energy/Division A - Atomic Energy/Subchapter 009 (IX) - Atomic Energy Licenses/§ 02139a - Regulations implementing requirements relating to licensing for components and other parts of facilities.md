@@ -28,7 +28,7 @@ Subsec. (c). Pub. L. 105–277, §1225(e)(4)(B), struck out “the Arms Control 
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United StatesArms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of Title 22.
+Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of Title 22.
 
 #### Effective Date
 
@@ -41,8 +41,4 @@ Secretary of Commerce to be responsible for performing function vested in Presid
 #### Performance of Functions Pending Development of Procedures
 
 The performance of functions under the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days \[after Mar. 10, 1978\] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 sections 3281, 6305; title 50 section 2332; title 50 App. sections 2170, 2416.
 

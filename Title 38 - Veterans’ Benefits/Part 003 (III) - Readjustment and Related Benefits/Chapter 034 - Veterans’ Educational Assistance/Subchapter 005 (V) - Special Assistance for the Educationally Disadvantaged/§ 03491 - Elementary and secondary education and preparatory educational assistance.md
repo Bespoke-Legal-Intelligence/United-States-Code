@@ -56,9 +56,5 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except that subsec. (b)(2)
 
 Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3231, 3241, 3462, 3473, 3533, 3680 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -58,7 +58,7 @@
 
 &emsp;(i) a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than an exposure described in paragraph (4)(A)(ii); or
 
-&emsp;(ii) a disease for which the National Academy of Sciences, in a report issued in accordance with section 3 of the Agent Orange Act of 1991, has determined that there is limited or suggestive evidence of the lack of a positive association between occurrence of the disease in humans and exposure to a herbicide agent.
+&emsp;(ii) a disease for which the National Academy of Sciences, in a report issued in accordance with section 3 of the Agent Orange Act of 1991, has determined that there is limited orsuggestive evidence of the lack of a positive association between occurrence of the disease in humans and exposure to a herbicide agent.
 
 (B) In the case of a veteran described in subparagraph (C), (D), or (E) of paragraph (1), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than the service or testing described in such subparagraph.
 
@@ -144,11 +144,11 @@
 
 #### References in Text
 
-Section 3 of the Agent Orange Act of 1991, referred to in subsec. (e)(2)(A)(ii), is section 3 of Pub. L. 102–4,which is set out as a note under section 1116 of this title.
+Section 3 of the Agent Orange Act of 1991, referred to in subsec. (e)(2)(A)(ii), is section 3 of Pub. L. 102–4, which is set out as a note under section 1116 of this title.
 
 #### Codification
 
-The text of subsec. (f) of section 1712 of this title, which was transferred to this section, redesignated subsec. (g), and amended by Pub. L. 104–262, §101(b)(2), was based on Pub. L. 86–639, §1, July 12, 1960, 74 Stat. 472; Pub. L. 91–102, Oct. 30, 1969, 83 Stat. 168; Pub. L. 93–82, title I, §103(a), Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title I, §103(a)(3)–(7), title II, §202(f)(2), Oct. 21, 1976, 90 Stat. 2844, 2856; Pub. L. 96–22, title I, §102(b), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, §5(b), Aug. 14, 1981, 95 Stat. 937; Pub. L. 97–72, title I, §103(b)(2), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 97–295, §4(17)(C), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–166, title I, §104, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(b)(2), Apr. 7, 1986, 100 Stat. 375; Pub. L. 99–576, title II, §§202(1), 237(b)(2), Oct. 28, 1986, 100 Stat. 3254, 3267; Pub. L. 100–322, title I, §101(e)(1), May 20, 1988, 102 Stat. 491; Pub. L. 101–508, title VIII, §8013(b), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406.
+The text of subsec. (f) of section 1712 of this title, which was transferred to this section, redesignated subsec. (g), and amended by Pub. L. 104–262, §101(b)(2), was based on Pub. L. 86–639, §1, July 12, 1960, 74 Stat. 472; Pub. L. 91–102, Oct. 30, 1969, 83 Stat. 168; Pub. L. 93–82, title I, §103(a), Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title I, §103(a)(3)–(7), title II, §202(f)(2), Oct. 21, 1976, 90 Stat. 2844, 2856; Pub. L. 96–22, title I, §102(b), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, §5(b), Aug. 14, 1981, 95 Stat. 937; Pub. L. 97–72, title I, §103(b)(2), Nov. 3, 1981,95 Stat. 1049; Pub. L. 97–295, §4(17)(C), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–166, title I, §104, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(b)(2), Apr. 7, 1986, 100 Stat. 375; Pub. L. 99–576, title II, §§202(1), 237(b)(2), Oct. 28, 1986, 100 Stat. 3254, 3267; Pub. L. 100–322, title I, §101(e)(1), May 20, 1988, 102 Stat. 491; Pub. L. 101–508, title VIII, §8013(b), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406.
 
 #### Prior Provisions
 
@@ -236,7 +236,7 @@ Subsec. (e)(1)(C). Pub. L. 104–262, §101(d)(3), substituted “hospital care,
 
 Subsec. (e)(2). Pub. L. 104–262, §102(a)(2), added par. (2) and struck out former par. (2) which read as follows: “Hospital and nursing home care may not be provided under subsection (a)(1)(G) of this section with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than an exposure described in subparagraph (A), (B), or (C) of paragraph (1) of this subsection.”
 
-Subsec. (e)(3). Pub. L. 104–262, §102(a)(2), added par. (3) and struck out former par. (3) which read as follows: “Hospital and nursing home care and medical services may not be provided under or by virtue of subsection (a)(1)(G) of this section after December 31, 1996.”
+Subsec. (e)(3). Pub. L. 104–262, §102(a)(2), added par. (3) and struck out former par. (3) which read as follows:“Hospital and nursing home care and medical services may not be provided under or by virtue of subsection (a)(1)(G) of this section after December 31, 1996.”
 
 Pub. L. 104–110 substituted “after December 31, 1996” for “after June 30, 1995, or, in the case of care for a veteran described in paragraph (1)(C), after December 31, 1995”.
 
@@ -342,7 +342,7 @@ Subsec. (e)(3). Pub. L. 100–687 substituted “December 31, 1990” for “Sep
 
 1986—Subsec. (a). Pub. L. 99–576, §237(a), inserted “who is in receipt of, or” after “veteran” in par. (1)(C).
 
-Pub. L. 99–272, §19011(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Administrator, within the limits of Veterans’ Administration facilities, may furnish hospital care or nursing home care which the Administrator determines is needed to—
+Pub. L. 99–272, §19011(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:“The Administrator, within the limits of Veterans’ Administration facilities, may furnish hospital care or nursing home care which the Administrator determines is needed to—
 
 &emsp;“(1)(A) any veteran for a service-connected disability; or
 
@@ -498,7 +498,7 @@ Evaluation and Study.—The Secretary of Veterans Affairs shall carry out an eva
 
 “(b)
 
-Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the evaluation and study under subsection (a). The Secretary shall include in the report the Secretary's findings resulting from the evaluation and study and the Secretary's conclusion as to whether the Department of Veterans Affairs should provide a personal emergencyresponse system to veterans with service-connected disabilities.
+Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the evaluation and study under subsection (a). The Secretary shall include in the report the Secretary's findings resulting from the evaluation and study and the Secretary's conclusion as to whether the Department of Veterans Affairs should provide a personal emergency response system to veterans with service-connected disabilities.
 
 “(c)
 
@@ -700,7 +700,7 @@ General Authority.—In furnishing hospital care and medical services under chap
 
 “(b)
 
-Responsibilities of Directors of Facilities.—The Secretary shall ensure that directors of medical facilities of the Department identify and assess opportunities under the authority provided in title II of this Act \[38 U.S.C. 8111 note\] to (1) expand the availabilityof, and access to, health care services for women veterans under sections 1710 and 1712 of title 38, United States Code, and (2) provide counseling, care, and services authorized by this title \[see Short Title of 1992 Amendment note set out under section 101 of this title\].”
+Responsibilities of Directors of Facilities.—The Secretary shall ensure that directors of medical facilities of the Department identify and assess opportunities under the authority provided in title II of this Act \[38 U.S.C. 8111 note\] to (1) expand the availability of, and access to, health care services for women veterans under sections 1710 and 1712 of title 38, United States Code, and (2) provide counseling, care, and services authorized by this title \[see Short Title of 1992 Amendment note set out under section 101 of this title\].”
 
 #### Report on Health Care and Research
 
@@ -753,8 +753,4 @@ Section 19011(e) of Pub. L. 99–272, as amended by Pub. L. 100–527, §10(1), 
 #### Chiropractic Services Pilot Program
 
 Section 109 of Pub. L. 99–166 directed Administrator of Veterans’ Affairs to conduct a pilot program to evaluate therapeutic benefits and cost-effectiveness of furnishing certain chiropractic services to veterans eligible for medical services under this chapter, provided that the pilot program be carried out during period beginning Jan. 1, 1986, and ending Dec. 31, 1988, and directed Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Apr. 1, 1989, a report on implementation, operation, and results of the pilot program.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1701, 1703, 1705, 1706, 1710A, 1710B, 1712, 1712A, 1717, 1720B, 1720C, 1722, 1729A, 1782, 2031, 2032, 2043, 2062, 2303, 5317, 8110, 8111A of this title; title 10 section 1074e; title 26 section 6103.
 

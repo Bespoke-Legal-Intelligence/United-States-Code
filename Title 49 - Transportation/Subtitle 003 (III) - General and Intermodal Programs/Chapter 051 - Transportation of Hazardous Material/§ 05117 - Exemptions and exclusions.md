@@ -16,7 +16,7 @@ Applications.—When applying for an exemption or renewal of an exemption under 
 
 (c)
 
-Applications To Be Dealt With Promptly.—The Secretary shall issue or renew the exemption for which an application was filed or deny such issuance or renewal within 180 days after the first day of the month following thedate of the filing of such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary's decision on the exemption is delayed, along with an estimate of the additional time necessary before the decision is made.
+Applications To Be Dealt With Promptly.—The Secretary shall issue or renew the exemption for which an application was filed or deny such issuance or renewal within 180 days after the first day of the month following the date of the filing of such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary's decision on the exemption is delayed, along with an estimate of the additional time necessary before the decision is made.
 
 (d)
 

@@ -20,7 +20,3 @@ A prior section 3144, act June 25, 1948, ch. 645, 62 Stat. 821, related to cases
 
 Amendment by Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section 55(j) of Pub. L. 99–646, set out as a note under section 3141 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3156 of this title; title 28 section 1821.
-

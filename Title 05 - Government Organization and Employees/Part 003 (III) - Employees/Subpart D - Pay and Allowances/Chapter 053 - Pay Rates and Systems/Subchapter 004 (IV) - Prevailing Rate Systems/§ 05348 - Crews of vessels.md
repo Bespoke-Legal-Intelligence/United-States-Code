@@ -10,7 +10,7 @@
 
 1996—Subsec. (a). Pub. L. 104–201, §3548(a)(3)(C)(iii), substituted “subsection (b)” for “subsections (b) and (c)”.
 
-Subsecs. (b), (c). Pub. L. 104–201, §3548(a)(3)(C)(i), (ii), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Vessel employees of the Panama Canal Commission may be paid in accordance with the wage practices of the maritime industry.”
+Subsecs. (b), (c). Pub. L. 104–201, §3548(a)(3)(C)(i), (ii), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Vessel employees ofthe Panama Canal Commission may be paid in accordance with the wage practices of the maritime industry.”
 
 1979—Subsec. (b). Pub. L. 96–70 substituted “Commission” for “Company”.
 
@@ -29,8 +29,4 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 #### Limitation on Pay Adjustments
 
 For provisions limiting the adjustment of salary or basic pay of employees covered by this section, see provisions set out as notes under section 5343 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5342 of this title.
 

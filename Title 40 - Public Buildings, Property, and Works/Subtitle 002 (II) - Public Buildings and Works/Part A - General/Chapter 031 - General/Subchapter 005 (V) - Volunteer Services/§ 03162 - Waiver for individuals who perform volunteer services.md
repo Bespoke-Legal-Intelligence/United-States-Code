@@ -2,7 +2,7 @@
 
 (a)
 
-Criteria for Receiving Waiver.—The requirement that certain laborers and mechanics be paid in accordance with the wage-setting provisions of subchapter IV of this chapter as set forth in the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), the Indian Health Care Improvement Act (25 U.S.C. 1601 et seq.), and the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.) does not apply to an individual—
+Criteria for Receiving Waiver.—The requirement that certain laborers and mechanics be paid in accordance with the wage-setting provisions of subchapter IV of this chapter as set forth in the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), the Indian Health Care Improvement Act (25 U.S.C.1601 et seq.), and the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.) does not apply to an individual—
 
 &emsp;(1) who volunteers to perform a service directly to a state or local government, a public agency, or a public or private nonprofit recipient of federal assistance—
 

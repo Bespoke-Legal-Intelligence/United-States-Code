@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make grants to accredited schools of public health, and to other public or nonprofit private institutions accredited for the provision of graduate or specialized training in public health, for the purpose of assisting such schools and institutions in providing traineeships to individuals described in subsection (b)(3) of this section.
+The Secretary may make grants to accredited schools of public health, and to other public ornonprofit private institutions accredited for the provision of graduate or specialized training in public health, for the purpose of assisting such schools and institutions in providing traineeships to individuals described in subsection (b)(3) of this section.
 
 #### (b) Certain requirements
 
@@ -29,8 +29,4 @@ Another prior section 295b, act July 1, 1944, ch. 373, title VII, §763, as adde
 A prior section 767 of act July 1, 1944, was classified to section 295e–1 of this title prior to repeal by Pub. L. 99–129.
 
 Another prior section 767 of act July 1, 1944, was classified to section 295d–2 of this title prior to repeal by Pub. L. 99–129.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 295e of this title.
 

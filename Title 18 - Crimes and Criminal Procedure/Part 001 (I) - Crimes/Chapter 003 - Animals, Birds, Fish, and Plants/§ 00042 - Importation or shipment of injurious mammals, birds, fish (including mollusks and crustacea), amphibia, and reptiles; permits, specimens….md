@@ -66,7 +66,7 @@ The enactment of the Lacey Act Amendments of 1981, referred to in subsec. (c), m
 
 1960—Pub. L. 86–702 substituted “Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia and reptiles; permits; specimens for museums; regulations” for “Importation of injurious animals and birds; permits; specimens for museums” in section catchline.
 
-Subsec. (a)(1). Pub. L. 86–702 designated first sentence of subsec. (a) as par. (1), prohibited importation into the Commonwealth of Puerto Rico or any possession of the United States and shipments between the continental United States, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, or any possession of the United States, described the mongoose and flying foxes by their scientific names, extended the provisions prohibiting importation or shipment to include wild mammals, wild birds, fish (including mollusks and crustacea), amphibians, reptiles, or their eggs or offspring, empowered the Secretary to prohibit importation or shipment if injurious to human beings, forestry, or to wildlife or wildlife resources, required prompt exportation or destruction at the expense of the importer or consignee, provided that this section shall not be construed to repeal or modify any provision of the PublicHealth Service Act or Federal Food, Drug, and Cosmetic Act and that it shall not authorize any action with respect to the importation of plant pests, and deleted provisions which required destruction of prohibited birds and animals or their return at the expense of the owner, and which prohibited the importation of the English sparrow and the starling.
+Subsec. (a)(1). Pub. L. 86–702 designated first sentence of subsec. (a) as par. (1), prohibited importation into the Commonwealth of Puerto Rico or any possession of the United States and shipments between the continental United States, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, or any possession of the United States, described the mongoose and flying foxes by their scientific names, extended the provisions prohibiting importation or shipment to include wild mammals, wild birds, fish (including mollusks and crustacea), amphibians, reptiles, or their eggs or offspring, empowered the Secretary to prohibit importation or shipment if injurious to human beings, forestry, or to wildlife or wildlife resources, required prompt exportation or destruction at the expense of the importer or consignee, provided that this section shall not be construed to repeal or modify any provision of the Public Health Service Act or Federal Food, Drug, and Cosmetic Act and that it shall not authorize any action with respect to the importation of plant pests, and deleted provisions which required destruction of prohibited birds and animals or their return at the expense of the owner, and which prohibited the importation of the English sparrow and the starling.
 
 Subsec. (a)(2), (3). Pub. L. 86–702 added pars. (2) and (3).
 
@@ -85,10 +85,6 @@ Subsec. (c). Act May 24, 1949, added subsec. (c).
 #### Invasive Species
 
 For provisions relating to restrictions on the introduction of invasive species into natural ecosystems of the United States, see Ex. Ord. No. 13112, Feb. 3, 1999, 64 F.R. 6183, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 19 section 1527; title 39 section 3015.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

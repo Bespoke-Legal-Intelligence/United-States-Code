@@ -22,7 +22,3 @@ Subsec. (b). Pub. L. 97–35, §2708(b), substituted reference to sections 254d 
 
 1978—Subsec. (a). Pub. L. 95–626 substituted “$64,000,000” for “$57,000,000” as amount authorized to be appropriated for fiscal year ending Sept. 30, 1979.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 254g, 254h–1, 254<i>l</i>, 254<i>l</i>–1, 254m, 254n, 254p, 11709 of this title.
-

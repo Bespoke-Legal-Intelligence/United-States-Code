@@ -44,7 +44,7 @@
 
 (3) Paragraph (1) shall not apply to an employee entitled to an annuity under subsection (d) or (e) of section 8412.
 
-(c)(1) An employee who was hired as a military reserve technician on or before February 10, 1996 (under the provisions of this title in effect before that date), and who is separated from technician service, after becoming 50 years of age and completing 25 years of service, by reason of being separated from the Selected Reserve of the employee's reserve component or ceasing to hold the military grade specified by the Secretary concerned for the position held by the employee is entitled to an annuity.
+(c)(1) An employee who was hired as a military reserve technician on or before February 10, 1996 (under the provisions of this title in effect before that date), and who is separated from technician service, after becoming 50 years of age and completing 25 years of service, by reason of being separated from the Selected Reserve of theemployee's reserve component or ceasing to hold the military grade specified by the Secretary concerned for the position held by the employee is entitled to an annuity.
 
 (2) An employee who is initially hired as a military technician (dual status) after February 10, 1996, and who is separated from the Selected Reserve or ceases to hold the military grade specified by the Secretary concerned for the position held by the technician—
 
@@ -130,7 +130,7 @@ Subsec. (b)(1)(B). Pub. L. 107–296, §1313(b)(2), added subpar. (B) and struck
 
 &emsp;“(ii) a significant percentage of the total number of employees serving in such agency will be separated or subject to an immediate reduction in the rate of basic pay (without regard to subchapter VI of chapter 53 of this title or comparable provisions);”.
 
-2000—Subsec. (b)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(b)(1)\], inserted “except in the case of an employee who is separated from the service under a program carried out under subsection (d),” before “while serving” in introductory provisions.
+2000—Subsec. (b)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(b)(1)\], inserted “except in the case of anemployee who is separated from the service under a program carried out under subsection (d),” before “while serving” in introductory provisions.
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(b)(2)\], added subsec. (d).
 
@@ -158,17 +158,13 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub. L. 101–194, set out as a note under section 3151 of this title.
 
-#### General Accounting Office: Voluntary Early Retirement
+#### Government Accountability Office: Voluntary Early Retirement
 
-For provisions relating to the application of subsection (b)(1)(B) of this section to officers and employees of the General Accounting Office during the period beginning on Oct. 13, 2000 and ending on Dec. 31, 2003, see section 1 of Pub. L. 106-303, set out as a note under section 8336 of this title.
+For provisions relating to the application of subsection (b)(1)(B) of this section to officers and employees of the Government Accountability Office effective Oct. 13, 2000, see section 1 of Pub. L. 106–303, set out as a note under section 8336 of this title.
 
 #### Application of Subsection (b)(1)(B)
 
 Pub. L. 105–174, title III, §7001(b), May 1, 1998, 112 Stat. 91, as amended by Pub. L. 106–58, title VI, §651(a), Sept. 29, 1999, 113 Stat. 480, which provided that, effective May 1, 1998, subsec. (b)(1)(B) of this section was to be applied as if it read as specified in Pub. L. 105–174, §7001(b), was repealed by Pub. L. 107–296, title XIII, §1313(b)(4), Nov. 25, 2002, 116 Stat. 2296.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5597, 6302, 8420, 8421, 8421a, 8456, 8462, 8464, 8901 of this title; title 10 section 10218; title 50 sections 2053, 2442.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “separated”.</i>
 

@@ -86,7 +86,3 @@ In subsection (c)(1), the word “Administrator” is substituted for “Federal
 
 In subsection (d)(1), before clause (A), the words “governments of foreign countries” are substituted for “foreign governments” for consistency in the revised title and with other titles of the United States Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 46301 of this title.
-

@@ -18,7 +18,7 @@ For the purposes of this chapter:
 
 (8) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and territories and possessions of the United States.
 
-(9) State law, including conflict of laws rules, governing the enforceability through civil judicial processes of repayment of any extension of credit or the performance of any promise givenin consideration thereof shall be judicially noticed. This paragraph does not impair any authority which any court would otherwise have to take judicial notice of any matter of State law.
+(9) State law, including conflict of laws rules, governing the enforceability through civil judicial processes of repayment of any extension of credit or the performance of any promise given in consideration thereof shall be judicially noticed. This paragraph does not impair any authority which any court would otherwise have to take judicial notice of any matter of State law.
 
 (Added Pub. L. 90–321, title II, §202(a), May 29, 1968, 82 Stat. 160.)
 
@@ -45,8 +45,4 @@ Section 201 of Pub. L. 90–321 provided that:
 #### Annual Report to Congress by Attorney General
 
 Section 203 of Pub. L. 90–321 directed Attorney General to make an annual report to Congress of activities of Department of Justice in enforcement of this chapter, prior to repeal by Pub. L. 97–375, title I, §109(b), Dec. 21, 1982, 96 Stat. 1820.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1961 of this title.
 

@@ -20,7 +20,3 @@
 
 Section 3 of act July 26, 1947, repealed all laws in conflict therewith.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 sections 1388, 1391, 1392; title 12 section 1150a.
-

@@ -28,7 +28,3 @@ For the effective date of this subchapter, referred to in subsecs. (a)(1) and (b
 
 Reorganization Plan Numbered 2 of 1979, referred to in subsec. (c), is Reorg. Plan No. 2 of 1979, 44 F.R. 41165, 93 Stat. 1378, effective Oct. 1, 1979, pursuant to Ex. Ord. No. 12163, which was set out as a note under section 2381 of this title, prior to repeal by Pub. L. 105–277, div. G, subdiv. A, title XIV, §§1401, 1422(a)(1), Oct. 21, 1998, 112 Stat. 2681–790, 2681–792.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6563, 6571 of this title.
-

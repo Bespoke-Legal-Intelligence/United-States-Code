@@ -34,7 +34,7 @@ The Secretary is authorized to provide assistance to private nonprofit organizat
 
 #### (2) Contract terms
 
-&emsp;The initial term of a contract entered into under subsection (c)(2) of this section shall be240 months. The Secretary shall, to the extent approved in appropriation Acts, extend any expiring contract for a term of not less than 60 months. In order to facilitate the orderly extension of expiring contracts, the Secretary is authorized to make commitments to extend expiring contracts during the year prior to the date of expiration.
+&emsp;The initial term of a contract entered into under subsection (c)(2) of this section shall be 240 months. The Secretary shall, to the extent approved in appropriation Acts, extend any expiring contract for a term of not less than 60 months. In order to facilitate the orderly extension of expiring contracts, the Secretary is authorized to make commitments to extend expiring contracts during the year prior to the date of expiration.
 
 #### (e) Applications
 
@@ -48,7 +48,7 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 &emsp;(4) a description of (A) the category or categories of elderly persons the housing is intended to serve; (B) the supportive services, if any, to be provided to the persons occupying such housing; (C) the manner in which such services will be provided to such persons, including, in the case of frail elderly persons, evidence of such residential supervision as the Secretary determines is necessary to facilitate the adequate provision of such services; and (D) the public or private sources of assistance that can reasonably be expected to fund or provide such services;
 
-&emsp;(5) a certification from the public official responsible for submitting a housing strategy for the jurisdiction to be served in accordance with section 12705 of title 42 that the proposed project is consistent with the approved housing strategy; and
+&emsp;(5) a certification from the public official responsible for submitting a housing strategyfor the jurisdiction to be served in accordance with section 12705 of title 42 that the proposed project is consistent with the approved housing strategy; and
 
 &emsp;(6) such other information or certifications that the Secretary determines to be necessary or appropriate to achieve the purposes of this section.
 
@@ -92,7 +92,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 #### (3) Service coordinators
 
-&emsp;Any cost associated with employing or otherwise retaining a service coordinator in housing assisted under this section shall be considered an eligible cost under subsection (c)(2) of this section. If a project is receiving congregate housing services assistance under section 8011 of title 42, the amount of costs provided under subsection (c)(2) of this section for the project service coordinator may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who arenot eligible residents under such section 8011 of title 42. To the extent that amounts are available pursuant to subsection (c)(2) of this section for the costs of carrying out this paragraph within a project, an owner of housing assisted under this section shall provide a service coordinator for the housing to coordinate the provision of services under this subsection within the housing.
+&emsp;Any cost associated with employing or otherwise retaining a service coordinator in housing assisted under this section shall be considered an eligible cost under subsection (c)(2) of this section. If a project is receiving congregate housing services assistance under section 8011 of title 42, the amount of costs provided under subsection (c)(2) of this section for the project service coordinator may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residents under such section 8011 of title 42. To the extent that amounts are available pursuant to subsection (c)(2) of this section for the costs of carrying out this paragraph within a project, an owner of housing assisted under this section shall provide a service coordinator for the housing to coordinate the provision of services under this subsection within the housing.
 
 #### (h) Development cost limitations
 
@@ -160,7 +160,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 #### (1) In general
 
-&emsp;An owner shall adopt written tenant selection procedures that are satisfactory to the Secretary as (A) consistent with the purpose of improving housing opportunities for very low-income elderly persons; and (B) reasonably related to program eligibility and an applicant's ability to perform the obligations of the lease. Such tenant selection procedures shall comply with subtitle C of title VI of theHousing and Community Development Act of 1992 \[42 U.S.C. 13601 et seq.\] and any regulations issued under such subtitle. Owners shall promptly notify in writing any rejected applicant of the grounds for any rejection.
+&emsp;An owner shall adopt written tenant selection procedures that are satisfactory to the Secretary as (A) consistent with the purpose of improving housing opportunities for very low-income elderly persons; and (B) reasonably related to program eligibility and an applicant's ability to perform the obligations of the lease. Such tenant selection procedures shall comply with subtitle C of title VI of the Housing and Community Development Act of 1992 \[42 U.S.C. 13601 et seq.\] and any regulations issued under such subtitle. Owners shall promptly notify in writing any rejected applicant of the grounds for any rejection.
 
 #### (2) Information regarding housing under this section
 
@@ -242,7 +242,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 (6) The term “Secretary” means the Secretary of Housing and Urban Development.
 
-(7) The term “supportive housing for the elderly” means housing that is designed (A) to meet the special physical needs of elderly persons and (B) to accommodate the provision of supportive services that are expected to be needed, either initially or over the useful life of the housing, by the category or categories of elderly persons that the housing is intended to serve.
+(7) The term “supportive housing for the elderly” means housing that is designed (A) to meetthe special physical needs of elderly persons and (B) to accommodate the provision of supportive services that are expected to be needed, either initially or over the useful life of the housing, by the category or categories of elderly persons that the housing is intended to serve.
 
 (8) The term “very low-income” has the same meaning as given the term “very low-income families” under section 1437a(b)(2) of title 42.
 
@@ -372,7 +372,7 @@ Subsec. (k)(3). Pub. L. 101–625, §807, added par. (3).
 
 Subsec. (p). Pub. L. 101–625, §805, added subsec. (p).
 
-1988—Subsec. (a)(3). Pub. L. 100–242, §161(c)(1), designated existing provisions as subpar. (A), substituted “taking into consideration the average yield, during the 3-month period immediately preceding the fiscal year in which the loan is made, on the most recently issued 30-year marketable obligations of the United States” for “of the Treasury taking into consideration the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made”, and added subpar. (B).
+1988—Subsec. (a)(3). Pub. L. 100–242, §161(c)(1), designated existing provisions as subpar. (A), substituted “taking into consideration the average yield, during the 3-month period immediately preceding the fiscalyear in which the loan is made, on the most recently issued 30-year marketable obligations of the United States” for “of the Treasury taking into consideration the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made”, and added subpar. (B).
 
 Subsec. (a)(4)(B)(i). Pub. L. 100–242, §161(a), inserted provisions relating to such sums as may be approved for fiscal years 1988 and 1989, and substituted “October 1, 1983, to such sum” for “October 1, 1983, and to such sum”.
 
@@ -532,7 +532,7 @@ In General.—The provisions of this title \[see section 801 of Pub. L. 106–56
 
 “(b)
 
-Effect of Regulatory Authority.—Any authority in this title or the amendments made by this title to issue regulations, and any specific requirement to issue regulations by a date certain, may not be construed to affect the effectiveness or applicability of the provisions of this title or the amendments made by this title under such provisions and amendments and subsection (a) of this section.”
+Effect of Regulatory Authority.—Any authority in this title or the amendments made by this title to issue regulations, and any specific requirement to issue regulations by a date certain, may not be construed to affect the effectiveness or applicability of theprovisions of this title or the amendments made by this title under such provisions and amendments and subsection (a) of this section.”
 
 #### Effective Date of 1999 Amendment
 
@@ -582,7 +582,7 @@ Section 105(b)(2) of Pub. L. 89–117, as added by Pub. L. 89–754, title X, §
 
 #### Effective Date of 1962 Amendment
 
-Section 3(b) of Pub. L. 87–723 provided that the amendments made by that section are effective withrespect to applications for loans made under this section after Sept. 28, 1962.
+Section 3(b) of Pub. L. 87–723 provided that the amendments made by that section are effective with respect to applications for loans made under this section after Sept. 28, 1962.
 
 #### Regulations
 
@@ -832,7 +832,7 @@ Inapplicability of hud reform act provisions.—Notwithstanding section 102 of t
 
 “(3)
 
-Limitation.—If a project is receiving congregate housing services assistance under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] or section 802 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 8011\], the amount of costs provided pursuant to paragraph (1) for the project may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residents under such section 802 or eligible project residents under the Congregate Housing Services Act of 1978, as applicable.”
+Limitation.—If a project is receiving congregate housing services assistance under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] or section 802 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 8011\], the amount of costs provided pursuant to paragraph (1) for the project may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residentsunder such section 802 or eligible project residents under the Congregate Housing Services Act of 1978, as applicable.”
 
 #### Expedited Financing and Construction
 
@@ -896,7 +896,7 @@ Section 162(a) of Pub. L. 100–242 provided that:
 
 &emsp;“(E) the cost containment policies currently being implemented in the development of small group homes (i) do not adequately reflect the necessity for building designs to meet the needs of the designated residents; and (ii) do not recognize necessary State and local standards for the operation of such homes;
 
-&emsp;“(F) the use of the program under section 8 of the United States Housing Act of 1937 to assist rentals forhousing for nonelderly handicapped families is time consuming and unnecessarily costly and, in some areas of the Nation, prevents the development of such housing;
+&emsp;“(F) the use of the program under section 8 of the United States Housing Act of 1937 to assist rentals for housing for nonelderly handicapped families is time consuming and unnecessarily costly and, in some areas of the Nation, prevents the development of such housing;
 
 &emsp;“(G) the use of the program under section 8 of the United States Housing Act of 1937 to assist rentals for housing for nonelderly handicapped families should be replaced by a more appropriate subsidy mechanism;
 
@@ -945,10 +945,6 @@ Section 210(g) of Pub. L. 93–383 provided that:
 “(1) In determining the feasibility and marketability of a project under section 202 of the Housing Act of 1959 \[this section\], the Secretary shall consider the availability of monthly assistance payments pursuant to section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] with respect to such a project.
 
 “(2) The Secretary shall insure that with the original approval of a project authorized pursuant to section 202 of the Housing Act of 1959, and thereafter at each annual revision of the assistance contract under section 8 of the United States Housing Act of 1937 with respect to units in such project, the project will serve both low- and moderate-income families in a mix which he determines to be appropriate for the area and for viable operation of the project; except that the Secretary shall not permit maintenance of vacancies to await tenants of one income level where tenants of another income level are available.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1441a, 1701q–1, 1701q–2, 1701r–1, 1701s, 1701z–11, 1701z–13, 1715<i>l</i>, 1715v, 1715z–1, 1715z–1a, 1715z–1b, 1715z–4a, 1715z–19, 1831q, 3702, 3705 of this title; title 42 sections 1382a, 1436b, 1437e, 1437f, 1439, 3013, 3535, 8002, 8008, 8009, 8011, 8012, 8013, 8231, 13641, 13664.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(n)”.</i>
 

@@ -116,7 +116,7 @@ Access to Information.—The Secretary of Veterans Affairs and the Secretary of 
 
 Reports.—The Director shall—
 
-&emsp;“(1) not later than 270 days after the date of the enactment of this Act \[Nov. 4, 1992\], submit to Congressa report on the results of the assessment carried out under this section of the Persian Gulf Registry and health-examination protocols; and
+&emsp;“(1) not later than 270 days after the date of the enactment of this Act \[Nov. 4, 1992\], submit to Congress a report on the results of the assessment carried out under this section of the Persian Gulf Registry and health-examination protocols; and
 
 &emsp;“(2) not later than 15 months after such date, submit to Congress a report on the results of the assessment carried out under this section of the Persian Gulf War Veterans Health Registry.
 
@@ -132,7 +132,7 @@ Definitions.—For the purposes of this section:
 
 “(a)
 
-Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek to enter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
+Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek to enter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) ofthe Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
 “(2) The agreement shall require MFUA to provide members of veterans organizations and members of the scientific community (including the Director of the Office of Technology Assessment) with the opportunity to comment on the method or methods MFUA proposes to use in conducting the review.
 
@@ -190,7 +190,7 @@ Designation of Coordinating Organization.—The President shall designate, and m
 
 “(b)
 
-Public Advisory Committee.—Not later than January 1, 1999, the head of the department or agency designated under subsection (a) shall establish an advisory committee consisting of members of the general public, including Persian Gulf War veterans and representatives of such veterans, to provide advice to the head of that department or agency on proposed research studies, research plans, or research strategies relating to the health consequences of military service in the Southwest Asia theater of operations during thePersian Gulf War. The department or agency head shall consult with such advisory committee on a regular basis.
+Public Advisory Committee.—Not later than January 1, 1999, the head of the department or agency designated under subsection (a) shall establish an advisory committee consisting of members of the general public, including Persian Gulf War veterans and representatives of such veterans, to provide advice to the head of that department or agency on proposed research studies, research plans, or research strategies relating to the health consequences of military service in the Southwest Asia theater of operations during the Persian Gulf War. The department or agency head shall consult with such advisory committee on a regular basis.
 
 “(c)
 
@@ -202,7 +202,7 @@ Reports.—(1) Not later than March 1 of each year, the head of the department o
 
 “(2)(A) Not later than 120 days after submission of the epidemiological research study conducted by the Department of Veterans Affairs entitled ‘VA National Survey of Persian Gulf Veterans—Phase III’, the head of the department or agency designated under subsection (a) shall submit to the congressional committees specified in paragraph (1) a report on the findings under that study and any other pertinent medical literature.
 
-“(B) With respect to any findings of that study and any other pertinent medical literature which identify scientific evidence of a greater relative risk of illness or illnesses in family members of veterans who served in the Persian Gulf War theater of operations than in family members of veterans who did not so serve, the head of the department or agency designated under subsection (a) shall seek to ensure that appropriate research studies are designed to follow up on such findings.
+“(B) With respect to any findings of that study and any other pertinent medical literature which identify scientific evidence of a greater relative risk of illness or illnesses in family members of veterans who servedin the Persian Gulf War theater of operations than in family members of veterans who did not so serve, the head of the department or agency designated under subsection (a) shall seek to ensure that appropriate research studies are designed to follow up on such findings.
 
 “(d)
 
@@ -219,8 +219,4 @@ Outreach.—The head of the department or agency designated under subsection (a)
 #### Services for Homeless Veterans
 
 Pub. L. 102–405, title I, §107, Oct. 9, 1992, 106 Stat. 1976, as amended by Pub. L. 103–446, title X, §1002, Nov. 2, 1994, 108 Stat. 4679, required Secretary of Veterans’ Affairs and directors of each medical center or benefits office to assess needs of homeless veterans and programs which have been developed to assist homeless veterans, and to replicate programs which have successfully rehabilitated homeless veterans, prior to repeal by Pub. L. 105–114, title II, §202(c)(2), Nov. 21, 1997, 111 Stat. 2287.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5701 of this title.
 

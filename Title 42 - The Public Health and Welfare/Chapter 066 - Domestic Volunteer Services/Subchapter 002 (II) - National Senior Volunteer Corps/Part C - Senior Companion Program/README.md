@@ -1,9 +1,5 @@
 Part C—Senior Companion Program
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 5000, 5021, 5025, 5027, 5028, 5056, 5061, 5082, 12651e of this title.
-
 
 ---
 

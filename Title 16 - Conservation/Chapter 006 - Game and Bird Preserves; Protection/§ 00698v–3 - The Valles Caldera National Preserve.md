@@ -10,7 +10,7 @@ The purposes for which the Preserve is established are to protect and preserve t
 
 #### (c) Management authority
 
-Except for the powers of the Secretary enumerated in sections 698v to 698v–10 of this title, the Preserve shall be managed by the Valles Caldera Trust established by section 698v–4 of this title.
+Except for the powers of the Secretary enumerated in sections 698v to 698v–10 of this title, the Preserve shall be managed by the VallesCaldera Trust established by section 698v–4 of this title.
 
 #### (d) Eligibility for payment in lieu of taxes
 
@@ -59,8 +59,4 @@ The Payment in Lieu of Taxes Act, referred to in subsec. (d), is the popular nam
 The laws pertaining to mineral leasing, referred to in subsec. (e)(1), are classified generally to Title 30, Mineral Lands and Mining.
 
 Laws pertaining to geothermal leasing, referred to in subsec. (e)(1), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698v, 698v–1, 698v–4, 698v–6, 698v–7, 698v–8, 698v–9, 698v–10 of this title.
 

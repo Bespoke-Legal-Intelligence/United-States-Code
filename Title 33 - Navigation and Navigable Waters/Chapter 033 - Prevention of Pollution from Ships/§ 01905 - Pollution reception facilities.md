@@ -12,7 +12,7 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 #### (c) Certificate; issuance; validity; inspection; review of suspension or revocation by Secretary
 
-(1) If reception facilities of a port or terminal meet the requirements of Annex I and Annex IIto the Convention and the regulations prescribed under subsection (a)(1) of this section, the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant.
+(1) If reception facilities of a port or terminal meet the requirements of Annex I and Annex II to the Convention and the regulations prescribed under subsection (a)(1) of this section, the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant.
 
 (2)(A) Subject to subparagraph (B), if reception facilities of a port or terminal meet the requirements of Annex V to the Convention and the regulations prescribed under subsection (a)(2) of this section, the Secretary may, after consultation with appropriate Federal agencies, issue a certificate to that effect to the person in charge of the port or terminal.
 
@@ -82,7 +82,7 @@ Pub. L. 104–227, §201(d)(4), inserted “or the Antarctic Protocol” after �
 
 1989—Subsec. (c)(1). Pub. L. 101–225 substituted “Annex I and Annex II” for “Annex V”.
 
-1987—Subsec. (a). Pub. L. 100–220, §2103(a), designated existing provisions as par. (1), substituted “a port's orterminal's reception facilities for mixtures containing oil or noxious liquid substances” for “reception facilities of a port or terminal”, and added par. (2).
+1987—Subsec. (a). Pub. L. 100–220, §2103(a), designated existing provisions as par. (1), substituted “a port's or terminal's reception facilities for mixtures containing oil or noxious liquid substances” for “reception facilities of a port or terminal”, and added par. (2).
 
 Subsec. (b). Pub. L. 100–220, §2103(b), inserted “and in establishing regulations under subsection (a) of this section,” and “ships or”.
 
@@ -103,10 +103,6 @@ Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex 
 #### Effective Date
 
 Subsecs. (a), (c), and (f) of this section effective Oct. 21, 1980, see section 14(b) of Pub. L. 96–478, set out as a note under section 1901 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1902 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

@@ -38,7 +38,3 @@ Sections 3 and 6 of the Employee Polygraph Protection Act of 1988, referred to i
 
 Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 471 of this title.
-

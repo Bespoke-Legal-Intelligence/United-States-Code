@@ -28,7 +28,3 @@ Subsec. (b)(2)(C). Pub. L. 107–14, §7(b)(1)(B), added subpar. (C).
 
 Pub. L. 107–14, §7(b)(3), June 5, 2001, 115 Stat. 32, provided that: “The amendments made by this subsection \[amending this section and sections 3015 and 3032 of this title\] shall take effect as if enacted on November 1, 2000, immediately after the enactment of the Veterans Benefits and Health Care Improvement Act of 2000 (Public Law 106–419).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3032 of this title; title 10 section 2007.
-

@@ -88,7 +88,3 @@ Pub. L. 101–510, div. A, title VI, §617(b), Nov. 5, 1990, 104 Stat. 1579, pro
 
 Enactment of this section not to reduce the pay to which any member of the uniformed services was entitled on June 30, 1971, see section 210 of Pub. L. 92–129, set out as a note under section 203 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 302f, 303a, 306 of this title.
-

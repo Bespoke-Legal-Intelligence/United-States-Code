@@ -134,7 +134,3 @@ This amends 49:30141(c)(4)(A) and 30165(a) to correct erroneous cross-references
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30112, 30142, 30146, 30147, 30165, 32902 of this title.
-

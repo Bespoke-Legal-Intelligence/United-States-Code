@@ -12,7 +12,3 @@ There are authorized to be appropriated to carry out this part $138,000,000 for 
 
 1988—Pub. L. 100–628 amended section generally. Prior to amendment, section read as follows: “In addition to other amounts authorized by law, there are authorized to be appropriated for the emergency shelter grants program $100,000,000 for fiscal year 1987 and $120,000,000 for fiscal year 1988.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11372 of this title.
-

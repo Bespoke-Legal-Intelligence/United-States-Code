@@ -14,7 +14,7 @@ Upon the giving of a bond or other undertaking satisfactory to the Secretary to 
 
 #### (d) “Food products” defined; exemption of flour second clears
 
-As used in this part, the term “food products” means flour (excluding flour second clears notused for human consumption as determined by the Secretary), semolina, farina, bulgur, beverage, and any other product composed wholly or partly of wheat which the Secretary may determine to be a food product. The Secretary may at his election administer the exemption for wheat processed into flour second clears through refunds either to processors of such wheat or to the users of such clears. For the purpose of such refunds, the wheat equivalent of flour second clears may be determined on the basis of conversion factors authorized by section 1379f of this title, even though certificates had been surrendered on the basis of the weight of the wheat.
+As used in this part, the term “food products” means flour (excluding flour second clears not used for human consumption as determined by the Secretary), semolina, farina, bulgur, beverage, and any other product composed wholly or partly of wheat which the Secretary may determine to be a food product. The Secretary may at his election administer the exemption for wheat processed into flour second clears through refunds either to processors of such wheat or to the users of such clears. For the purpose of such refunds, the wheat equivalent of flour second clears may be determined on thebasis of conversion factors authorized by section 1379f of this title, even though certificates had been surrendered on the basis of the weight of the wheat.
 
 (Feb. 16, 1938, ch. 30, title III, §379d, as added Pub. L. 87–703, title III, §324(2), Sept. 27, 1962, 76 Stat. 628; amended Pub. L. 88–297, title II, §202(15)–(17), Apr. 11, 1964, 78 Stat. 181, 182; Pub. L. 89–321, title V, §§504(a)–(c), 513(a), Nov. 3, 1965, 79 Stat. 1202, 1203, 1205; Pub. L. 91–524, title IV, §403(a)(1), (2), formerly §403(1), (2), Nov. 30, 1970, 84 Stat. 1366, as renumbered Pub. L. 93–86, §1(10), Aug. 10, 1973, 87 Stat. 228.)
 
@@ -52,7 +52,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
 
-Pub. L. 101–624, title III, §302, Nov. 28, 1990, 104 Stat. 3400, provided that: “Sections 379d through 379j of theAgricultural Adjustment Act of 1938 (7 U.S.C. 1379d–1379j) (relating to marketing certificate requirements for processors and exporters) shall not be applicable to wheat processors or exporters during the period June 1, 1991, through May 31, 1996.”
+Pub. L. 101–624, title III, §302, Nov. 28, 1990, 104 Stat. 3400, provided that: “Sections 379d through 379j of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1379d–1379j) (relating to marketing certificate requirements for processors and exporters) shall not be applicable to wheat processors or exporters during the period June 1, 1991, through May 31, 1996.”
 
 Pub. L. 99–198, title III, §309, Dec. 23, 1985, 99 Stat. 1394, provided that: “Sections 379d, 379e, 379f, 379g, 379h, 379i, and 379j of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1379d–1379j) (relating to marketing certificate requirements for processors and exporters) shall not be applicable to wheat processors or exporters during the period June 1, 1986, through May 31, 1991.”
 
@@ -61,8 +61,4 @@ Pub. L. 97–98, title III, §302, Dec. 22, 1981, 95 Stat. 1227, provided that: 
 Pub. L. 95–113, title IV, §403, Sept. 29, 1977, 91 Stat. 926, provided that: “Sections 379d, 379e, 379f, 379g, 379h, 379i, and 379j of the Agricultural Adjustment Act of 1938 \[sections 1379d, 1379e, 1379f, 1379g, 1379h, 1379i, and 1379j of this title\] (which deal with marketing certificate requirements for processors and exporters) shall not be applicable to wheat processors or exporters during the period July 1, 1973, through May 31, 1982.”
 
 Section 403(b) of Pub. L. 91–524, as added by section 1(10) of Pub. L. 93–86, Aug. 10, 1973, 87 Stat. 228, provided in part that: “Sections 379d, 379e, 379f, 379g, 379h, 379i, and 379j of the Agricultural Adjustment Act of 1938 \[sections 1379d, 1379e, 1379f, 1379g, 1379h, 1379i and 1379j of this title\] (which deal with marketing certificate requirements for processors and exporters) shall not be applicable to wheat processed or exported during the period July 1, 1973 through June 30, 1978.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1379g, 1379i of this title.
 

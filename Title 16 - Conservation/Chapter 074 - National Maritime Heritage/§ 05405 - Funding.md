@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) 50 percent shall be available to the Administrator of the Maritime Administration for such acquisition, maintenance, repair, reconditioning, or improvement of vessels in the National Defense Reserve Fleet as is authorized under other Federal law.
 
-&emsp;&emsp;(B) 25 percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United StatesMerchant Marine Academy for facility and training ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
+&emsp;&emsp;(B) 25 percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United States Merchant Marine Academy for facility and training ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
 
 &emsp;&emsp;(C) The remainder shall be available to the Secretary to carry out the Program, as provided in subsection (b) of this section.
 
@@ -267,8 +267,4 @@ Presidential Recommendation.—The President shall transmit with the report requ
 &emsp;“(1) whether it is necessary to amend the Toxic Substances Control Act (15 U.S.C. 2601 et seq.) or any other environmental statute or regulatory requirements relevant to the disposal of vessels described in section 6(c)(2) of the National Maritime Heritage Act of 1994 (16 U.S.C. 5405(c)(2)) by September 30, 2006; and
 
 &emsp;“(2) any proposed changes to those requirements to carry out such disposals.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5403 of this title.
 

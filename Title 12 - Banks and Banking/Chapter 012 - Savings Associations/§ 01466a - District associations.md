@@ -26,7 +26,3 @@ A prior section 8 of act June 13, 1933, ch. 64, 48 Stat. 134, was classified to 
 
 1989—Pub. L. 101–73 amended section generally, substituting provisions relating to Director and Federal savings associations for former provisions relating to Federal Home Loan Bank Board and Federal savings and loan associations.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 78c.
-

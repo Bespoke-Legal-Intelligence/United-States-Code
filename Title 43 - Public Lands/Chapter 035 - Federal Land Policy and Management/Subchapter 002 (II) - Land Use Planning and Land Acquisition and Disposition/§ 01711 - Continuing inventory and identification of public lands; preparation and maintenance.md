@@ -6,7 +6,3 @@
 
 (Pub. L. 94–579, title II, §201, Oct. 21, 1976, 90 Stat. 2747.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1782, 1784, 1901, 1903 of this title.
-

@@ -12,7 +12,7 @@
 
 (f) The term “junkyard” shall mean an establishment or place of business which is maintained, operated, or used for storing, keeping, buying, or selling junk, or for the maintenance or operation of an automobile graveyard, and the term shall include garbage dumps and sanitary fills.
 
-(g) Notwithstanding any provision of this section, junkyards, auto graveyards, and scrap metal processing facilities may be operatedwithin areas adjacent to the Interstate System and the primary system which are within one thousand feet of the nearest edge of the right-of-way and which are zoned industrial under authority of State law, or which are not zoned under authority of State law, but are used for industrial activities, as determined by the several States subject to approval by the Secretary.
+(g) Notwithstanding any provision of this section, junkyards, auto graveyards, and scrap metal processing facilities may be operated within areas adjacent to the Interstate System and the primary system which are within one thousand feet of the nearest edge of the right-of-way and which are zoned industrial under authority of State law, or which are not zoned under authority of State law, but are used for industrial activities, as determined by the several States subject to approval by the Secretary.
 
 (h) Notwithstanding any provision of this section, any junkyard in existence on the date of enactment of this section which does not conform to the requirements of this section and which the Secretary finds as a practical matter cannot be screened, shall not be required to be removed until July 1, 1970.
 
@@ -30,7 +30,7 @@
 
 #### Amendments
 
-1975—Subsec. (j). Pub. L. 93–643 substituted provision that compensation shall be paid the owner for the relocation, removal, or disposal of junkyards lawfully established under State law, for provision relating to payment of just compensation for relocation, removal, or disposal of junkyards (1) lawfully in existence on Oct. 22, 1965, (2) lawfully along any highway made a part of the interstate or primary system on or after Oct. 22, 1965, and before Jan. 1, 1968, and (3) lawfully established on or after Jan. 1, 1968.
+1975—Subsec. (j). Pub. L. 93–643 substituted provision that compensation shall be paid the owner for the relocation, removal, or disposal of junkyards lawfully established under State law, for provision relating to payment of just compensation for relocation, removal, or disposal of junkyards (1) lawfully in existence onOct. 22, 1965, (2) lawfully along any highway made a part of the interstate or primary system on or after Oct. 22, 1965, and before Jan. 1, 1968, and (3) lawfully established on or after Jan. 1, 1968.
 
 1970—Subsec. (m). Pub. L. 91–605 authorized to be appropriated not to exceed $3,000,000, $3,000,000, and $5,000,000, for the fiscal years ending June 30, 1971, 1972, and 1973, respectively.
 
@@ -49,8 +49,4 @@ Prohibition against the use of eminent domain to acquire any dwelling (including
 #### Taking of Private Property Without Just Compensation
 
 Prohibition against the taking of private property or the restriction of reasonable and existing use by such taking without just compensation under the terms of Pub. L. 89–285, see section 401 of Pub. L. 89–285, set out as a note under section 131 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 131 of this title.
 

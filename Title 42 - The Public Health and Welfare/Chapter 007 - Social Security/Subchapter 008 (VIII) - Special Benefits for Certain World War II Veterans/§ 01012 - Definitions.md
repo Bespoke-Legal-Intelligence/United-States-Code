@@ -36,7 +36,7 @@ In this subchapter:
 
 #### (6) Benefit income
 
-&emsp;The term “benefit income” means any recurring payment received by a qualified individual as an annuity, pension, retirement, or disability benefit (including any veterans’compensation or pension, workmen's compensation payment, old-age, survivors, or disability insurance benefit, railroad retirement annuity or pension, and unemployment insurance benefit), but only if a similar payment was received by the individual from the same (or a related) source during the 12-month period preceding the month in which the individual files an application for benefits under this subchapter.
+&emsp;The term “benefit income” means any recurring payment received by a qualified individual as an annuity, pension, retirement, or disability benefit (including any veterans’ compensation or pension, workmen's compensation payment, old-age, survivors, or disability insurance benefit, railroad retirement annuity or pension, and unemployment insurance benefit), but only if a similar payment was received by the individual from the same (or a related) source during the 12-month period preceding the month in which the individual files an application for benefits under this subchapter.
 
 (Aug. 14, 1935, ch. 531, title VIII, §812, as added Pub. L. 106–169, title II, §251(a), Dec. 14, 1999, 113 Stat. 1853.)
 

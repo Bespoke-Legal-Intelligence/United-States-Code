@@ -4,7 +4,3 @@ The amount of any judgment shall be placed in the Treasury of the United States 
 
 (May 18, 1928, ch. 624, §6, 45 Stat. 603.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 658 of this title.
-

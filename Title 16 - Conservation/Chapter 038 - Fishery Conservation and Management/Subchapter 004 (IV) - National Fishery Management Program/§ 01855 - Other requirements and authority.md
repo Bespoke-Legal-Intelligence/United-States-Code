@@ -110,7 +110,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 (4) The priority of security interests shall be determined in order of filing, the first filed having the highest priority. A validly-filed security interest shall remain valid and perfected notwithstanding a change in residence or place of business of the owner of record. For the purposes of this subsection, “security interest” shall include security interests, assignments, liens and other encumbrances of whatever kind.
 
-(5)(A) Notwithstanding section 1854(d)(1) of this title, the Secretary shall collect a reasonable fee of not more than one-half of one percent of the value of a limited access system permitupon registration of the title to such permit with the central registry system and upon the transfer of such registered title. Any such fee collected shall be deposited in the Limited Access System Administration Fund established under subparagraph (B).
+(5)(A) Notwithstanding section 1854(d)(1) of this title, the Secretary shall collect a reasonable fee of not more than one-half of one percent of the value of a limited access system permit upon registration of the title to such permit with the central registry system and upon the transfer of such registered title. Any such fee collected shall be deposited in the Limited Access System Administration Fund established under subparagraph (B).
 
 (B) There is established in the Treasury a Limited Access System Administration Fund. The Fund shall be available, without appropriation or fiscal year limitation, only to the Secretary for the purposes of—
 
@@ -305,10 +305,6 @@ Section 111(b) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, ti
 “(5) Appropriate Federal agencies may provide technical assistance to western Pacific community-based entities to assist in carrying out demonstration projects under this subsection.
 
 “(6) For the purposes of this subsection, ‘western Pacific community’ shall mean a community eligible to participate under section 305(i)(2)(B) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1855(i)(2)(B)\], as amended by this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1802, 1821, 1852, 1853, 1854, 5503 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

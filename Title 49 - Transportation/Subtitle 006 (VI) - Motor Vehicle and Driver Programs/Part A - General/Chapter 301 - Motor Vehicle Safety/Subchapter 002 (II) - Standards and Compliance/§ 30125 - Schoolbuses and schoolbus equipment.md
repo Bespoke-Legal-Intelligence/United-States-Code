@@ -74,7 +74,3 @@ In subsection (b), before clause (1), the text of 15:1392(i)(1)(A) (1st sentence
 
 In subsection (c), the text of 15:1397(a)(1)(F) is omitted as unnecessary because of the restatement.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30141, 30165 of this title.
-

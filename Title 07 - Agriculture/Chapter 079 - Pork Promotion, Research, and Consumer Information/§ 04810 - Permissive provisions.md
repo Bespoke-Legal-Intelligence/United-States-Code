@@ -50,7 +50,3 @@ A person who willfully violates subsection (a)(1) or (b) of this section shall, 
 
 (Pub. L. 99–198, title XVI, §1621, Dec. 23, 1985, 99 Stat. 1617.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4805 of this title.
-

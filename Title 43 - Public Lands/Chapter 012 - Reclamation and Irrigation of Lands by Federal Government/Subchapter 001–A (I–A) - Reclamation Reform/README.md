@@ -1,9 +1,5 @@
 ### SUBCHAPTER I–A—RECLAMATION REFORM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2212 of this title.
-
 
 ---
 

@@ -34,7 +34,7 @@ No contract may be entered into under this section unless the Director finds tha
 
 #### (f) Term of contract; renewals; termination
 
-Any contract entered into under this section shall be for a term of one year, and may be made automatically renewable from term to term in the absence of notice by either party of an intention to terminate at the end of the current term; except that the Director may terminate any such contract at any time (after reasonable notice to the pool, company, or organization involved) if he finds that the pool, company, or organization has failed substantially to carry out the contract, or is carrying out the contract in a manner inconsistent with the efficient and effective administration of the flood insurance program authorized under this chapter.
+Any contract entered into under this section shall be for a term of one year, and may be made automatically renewable from term to term in the absence of notice by either party of an intention to terminate at the end of the current term; except that the Director may terminateany such contract at any time (after reasonable notice to the pool, company, or organization involved) if he finds that the pool, company, or organization has failed substantially to carry out the contract, or is carrying out the contract in a manner inconsistent with the efficient and effective administration of the flood insurance program authorized under this chapter.
 
 (Pub. L. 90–448, title XIII, §1346, Aug. 1, 1968, 82 Stat. 585; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
 
@@ -45,8 +45,4 @@ Any contract entered into under this section shall be for a term of one year, an
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4056 of this title.
 

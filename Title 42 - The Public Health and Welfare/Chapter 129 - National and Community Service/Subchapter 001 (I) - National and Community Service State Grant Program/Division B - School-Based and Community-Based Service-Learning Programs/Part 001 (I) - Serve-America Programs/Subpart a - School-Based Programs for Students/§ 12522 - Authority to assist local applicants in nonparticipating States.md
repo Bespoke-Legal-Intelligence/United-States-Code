@@ -12,9 +12,5 @@ In any fiscal year in which a State does not submit an application under section
 
 #### Prior Provisions
 
-A prior section 12522, Pub. L. 101–610, title I, §112, Nov. 16, 1990, 104 Stat. 3133; Pub. L. 102–10, §4(3), Mar. 12, 1991, 105 Stat. 30; Pub. L. 102–384, §4, Oct. 5, 1992, 106 Stat. 1455, related to allotments, prior to repeal by Pub. L. 103–82, §103(a)(2).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12524, 12526, 12527 of this title.
+A prior section 12522, Pub. L. 101–610, title I, §112, Nov. 16, 1990, 104 Stat. 3133; Pub. L. 102–10, §4(3), Mar. 12,1991, 105 Stat. 30; Pub. L. 102–384, §4, Oct. 5, 1992, 106 Stat. 1455, related to allotments, prior to repeal by Pub. L. 103–82, §103(a)(2).
 

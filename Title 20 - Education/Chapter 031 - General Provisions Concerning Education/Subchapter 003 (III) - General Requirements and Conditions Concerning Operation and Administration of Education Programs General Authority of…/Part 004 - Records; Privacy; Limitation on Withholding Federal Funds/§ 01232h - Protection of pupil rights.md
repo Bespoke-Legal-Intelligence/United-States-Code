@@ -250,7 +250,3 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub
 
 Section 514(b) of Pub. L. 93–380 provided that: “The amendment made by subsection (a) \[enacting this section\] shall be effective upon enactment of this Act \[Aug. 21, 1974\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9514, 9573 of this title.
-

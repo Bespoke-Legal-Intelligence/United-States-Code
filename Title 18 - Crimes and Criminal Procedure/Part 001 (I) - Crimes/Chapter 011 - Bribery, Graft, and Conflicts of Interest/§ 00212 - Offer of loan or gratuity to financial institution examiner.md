@@ -66,9 +66,5 @@ A prior section 212, acts June 25, 1948, ch. 645, 62 Stat. 694, §212, formerly 
 
 Another prior section 212, act June 25, 1948, ch. 645, 62 Stat. 693, related to an offer or threat to a customs officer or employee, prior to the general amendment to this chapter by Pub. L. 87–849 and is substantially covered by revised section 201.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 213 of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

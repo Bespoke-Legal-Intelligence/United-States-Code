@@ -6,10 +6,6 @@ Part 2
 
 <i>For termination of this part effective 12 years after Dec. 11, 2001, see section 2451b(c) of this title.</i>
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 2133 of this title.
-
 
 ---
 

@@ -16,7 +16,3 @@ See reviser's note under section 1153 of this title as to effect of consolidatio
 
 Minor changes were made in translations and phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1162, 3598, 4042, 5032 of this title; title 25 sections 1725, 2442, 2802.
-

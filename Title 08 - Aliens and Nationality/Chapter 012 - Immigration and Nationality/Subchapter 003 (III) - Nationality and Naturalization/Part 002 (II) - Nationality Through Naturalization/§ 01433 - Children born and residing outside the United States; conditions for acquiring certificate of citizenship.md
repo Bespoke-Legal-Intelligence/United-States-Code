@@ -96,7 +96,3 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Section 102(e) of Pub. L. 103–416, as added by Pub. L. 104–208, div. C, title VI, §671(b)(2), Sept. 30, 1996, 110 Stat. 3009–721, which provided that in applying amendment made by subsection (a), amending this section, to children born before Nov. 14, 1986, any reference in matter inserted by such amendment to “five years, at least two of which” was deemed a reference to “10 years, at least 5 of which”, was repealed by Pub. L. 105–38, §1, Aug. 8, 1997, 111 Stat. 1115, effective as if included in the enactment of Pub. L. 103–416.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1448 of this title.
-

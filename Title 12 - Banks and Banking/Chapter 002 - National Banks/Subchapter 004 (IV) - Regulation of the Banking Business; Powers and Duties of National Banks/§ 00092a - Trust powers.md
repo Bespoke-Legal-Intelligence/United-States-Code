@@ -60,10 +60,6 @@ Any national banking association desiring to surrender its right to exercise the
 
 Section 2 of Pub. L. 87–722 provided that: “Nothing contained in this Act \[enacting this section, amending sections 581 and 584(a)(2) of Title 26, and repealing section 248(k) of this title\] shall be deemed to affect or curtail the right of any national bank to act in fiduciary capacities under a permit granted before the date of enactment of this Act \[Sept. 28, 1962\] by the Board of Governors of the Federal Reserve System, nor to affect the validity of any transactions entered into at any time by any national bank pursuant to such permit. On and after the date of enactment of this Act the exercise of fiduciary powers by national banks shall be subject to the provisions of this Act and the requirements of regulations issued by the Comptroller of the Currency pursuant to the authority granted by this Act.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 93 of this title; title 15 sections 78c, 80a–2, 80b–2.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “enumerated”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “executor,”.</i>

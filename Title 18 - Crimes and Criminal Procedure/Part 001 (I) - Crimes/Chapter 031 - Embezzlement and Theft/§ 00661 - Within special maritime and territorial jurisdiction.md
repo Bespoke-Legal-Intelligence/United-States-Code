@@ -24,7 +24,3 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322, in second par., substituted “under this title” for “not more than $5,000” after “another, by a fine of” and for “not more than $1,000” after “cases, by a fine of”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1153, 3050 of this title; title 49 section 46506.
-

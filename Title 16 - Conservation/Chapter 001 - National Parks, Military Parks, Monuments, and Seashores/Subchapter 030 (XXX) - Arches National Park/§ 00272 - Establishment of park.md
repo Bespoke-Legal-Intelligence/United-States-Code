@@ -16,7 +16,7 @@
 
 #### (b) Abolition of Arches National Monument; funds of monument available for park; administration of lands excluded from monument
 
-The Arches National Monument is hereby abolished, and any funds available for purposes of the monument shall be available for purposes of the park. Federal lands, waters, and interests therein excluded from the monument by this subchapter shall be administered by the Secretary of the Interior (hereinafter referred to as the “Secretary”) in accordance with the laws applicable to the public lands of the United States.
+The Arches National Monument is hereby abolished, and any funds available for purposesof the monument shall be available for purposes of the park. Federal lands, waters, and interests therein excluded from the monument by this subchapter shall be administered by the Secretary of the Interior (hereinafter referred to as the “Secretary”) in accordance with the laws applicable to the public lands of the United States.
 
 (Pub. L. 92–155, §1, Nov. 12, 1971, 85 Stat. 422; Pub. L. 105–329, §2(a), Oct. 30, 1998, 112 Stat. 3060.)
 
@@ -27,8 +27,4 @@ The Arches National Monument is hereby abolished, and any funds available for pu
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–329, §1, Oct. 30, 1998, 112 Stat. 3060, provided that: “This Act \[enacting section 272g of this title, amending this section and sections 272a, 272b, and 272d of this title, and enacting provisions set out as a note under section 272g of this title\] may be cited as the ‘Arches National Park Expansion Act of 1998’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 272a of this title.
 

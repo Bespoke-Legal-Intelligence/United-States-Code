@@ -32,7 +32,3 @@ In subsec. (b)(2), “section 5151 of title 31” was substituted for “section
 
 Subsec. (b). Pub. L. 85–686, §4(b), (c), redesignated existing provisions as par. (1), inserted provision to require the Commission to promptly institute an investigation pursuant to section 1364 of this title when the Commission finds with respect to any article on the list upon which a tariff concession has been granted that an increase in duty or additional import restriction is required to avoid serious injury to the domestic industry producing like or directly competitive articles, and added par. (2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1354, 1361, 1366 of this title.
-

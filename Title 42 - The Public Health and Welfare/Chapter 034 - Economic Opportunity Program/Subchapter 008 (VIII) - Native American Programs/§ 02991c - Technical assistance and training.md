@@ -16,7 +16,3 @@ A prior section 2991c, Pub. L. 88–452, title VIII, §804, as added Pub. L. 93�
 
 Another prior section 2991c, Pub. L. 88–452, title VIII, §804, as added Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1473; amended Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 224, provided for applicability of specified Federal laws, oath or affirmation, and status of volunteers as Federal employees and as persons employed in executive branch of Federal Government, prior to the general amendment of this subchapter by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2992d of this title.
-

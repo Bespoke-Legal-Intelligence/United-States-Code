@@ -23,6 +23,7 @@
 | (b) | Fee amount. |
 | (c) | Surcharge. |
 | (d) | Availability of collected fees. |
+| [1714\.](Subchapter%20001%20%28I%29%20-%20Funding/%C2%A7%2001714%20-%20Surcharges%20related%20to%20consular%20services.md) | Surcharges related to consular services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -133,6 +134,13 @@
 | (a) | Requirement for report. |
 | (b) | Initial report. |
 | [1775\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001775%20-%20Retention%20of%20nonimmigrant%20visa%20applications%20by%20the%20Department%20of%20State.md) | Retention of nonimmigrant visa applications by the Department of State. |
+| [1776\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001776%20-%20Training%20program.md) | Training program. |
+| [1777\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001777%20-%20Establishment%20of%20Human%20Smuggling%20and%20Trafficking%20Center.md) | Establishment of Human Smuggling and Trafficking Center. |
+| (a) | Establishment. |
+| (b) | Operation. |
+| (c) | Functions. |
+| (d) | Report. |
+| (e) | Relationship to the NCTC. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

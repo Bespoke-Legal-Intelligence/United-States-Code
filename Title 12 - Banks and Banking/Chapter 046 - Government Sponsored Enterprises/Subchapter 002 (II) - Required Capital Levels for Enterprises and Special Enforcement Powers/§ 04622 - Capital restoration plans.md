@@ -28,7 +28,3 @@ If the Director disapproves the initial capital restoration plan submitted by th
 
 (Pub. L. 102–550, title XIII, §1369C, Oct. 28, 1992, 106 Stat. 3985.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4615, 4616 of this title.
-

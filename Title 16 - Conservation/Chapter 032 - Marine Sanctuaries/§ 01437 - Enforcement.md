@@ -58,7 +58,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (6) Compromise or other action by Secretary
 
-&emsp;The Secretary may compromise, modify, or remit, with or without conditions, any civilpenalty which is or may be imposed under this section.
+&emsp;The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which is or may be imposed under this section.
 
 #### (e) Forfeiture
 
@@ -116,11 +116,11 @@ If the Secretary determines that there is an imminent risk of destruction or los
 
 #### (k) Area of application and enforceability
 
-The area of application and enforceability of this chapter includes the territorial sea of the United States, as described in Presidential Proclamation 5928 of December 27, 1988, which is subject to the sovereignty of the United States, and the United States exclusive economic zone, consistent with international law.
+The area of application and enforceability of this chapter includes the territorial sea of theUnited States, as described in Presidential Proclamation 5928 of December 27, 1988, which is subject to the sovereignty of the United States, and the United States exclusive economic zone, consistent with international law.
 
 #### (<i>l</i>) Nationwide service of process
 
-In any action by the United States under this chapter, process may be served in any districtwhere the defendant is found, resides, transacts business, or has appointed an agent for the service of process.
+In any action by the United States under this chapter, process may be served in any district where the defendant is found, resides, transacts business, or has appointed an agent for the service of process.
 
 (Pub. L. 92–532, title III, §307, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 100–627, title II, §207, Nov. 7, 1988, 102 Stat. 3219; Pub. L. 102–587, title II, §2107(a)–(c), (e), Nov. 4, 1992, 106 Stat. 5043, 5044; Pub. L. 104–283, §9(c), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §8, Nov. 13, 2000, 114 Stat. 2387.)
 
@@ -167,8 +167,4 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Study of Joint Enforcement of Marine Sanctuary Regulations
 
 Pub. L. 102–241, §51, Dec. 19, 1991, 105 Stat. 2227, directed Secretary of Transportation and Secretary of Commerce, not later than one year after Dec. 19, 1991, to submit to Congress a joint report describing methods by which Coast Guard enforcement efforts under the Marine Protection, Research, and Sanctuaries Act of 1972 (16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.) could be enhanced and coordinated with those of the National Oceanic and Atmospheric Administration.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1441 of this title.
 

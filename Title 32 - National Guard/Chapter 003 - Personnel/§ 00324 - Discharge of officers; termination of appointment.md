@@ -38,7 +38,3 @@ In subsection (b), the words “Subject to subsection (a)” are inserted for cl
 
 1988—Subsec. (b). Pub. L. 100–456 struck out “, the Canal Zone,” after “Puerto Rico”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 1370.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—MUTUAL AID AGREEMENTS AND LABOR REQUIREMENTS OF AIR CARRIERS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 40109, 41110, 46301 of this title.
-
 
 ---
 

@@ -50,7 +50,3 @@
 
 (Pub. L. 100–330, §5, June 7, 1988, 102 Stat. 592.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 973d, 973e, 973f, 973i, 973j of this title.
-

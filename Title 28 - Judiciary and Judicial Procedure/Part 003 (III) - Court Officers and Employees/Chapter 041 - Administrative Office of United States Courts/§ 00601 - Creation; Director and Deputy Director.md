@@ -38,7 +38,7 @@ In general.—Subject to paragraphs (2) and (3), the Judicial Conference of the 
 
 “(2)
 
-Procedures.—Under the procedures, a preference eligible (as defined by section 2108 of title 5, UnitedStates Code) shall be afforded preferences in a manner and to the extent consistent with preferences afforded to preference eligibles in the executive branch.
+Procedures.—Under the procedures, a preference eligible (as defined by section 2108 of title 5, United States Code) shall be afforded preferences in a manner and to the extent consistent with preferences afforded to preference eligibles in the executive branch.
 
 “(3)
 
@@ -62,7 +62,7 @@ Submission to congress; effective date.—
 
 &emsp;“(A)
 
-Submission to congress.—Not later than 12 months after the date of enactment of this Act \[Oct. 31, 1998\], the Judicial Conference of the United States shall submit a copy of the procedures prescribed under this subsection to the Committee on Government Reform and Oversight \[now Committee on Government Reform\] and the Committee on the Judiciary of the House of Representatives and the Committee on Governmental Affairs and the Committee on the Judiciary of the Senate.
+Submission to congress.—Not later than 12 months after the date of enactment of this Act \[Oct. 31, 1998\], the Judicial Conference of the United States shall submit a copy of the procedures prescribed under this subsection to the Committee on Government Reform and Oversight \[now Committee on Government Reform\] and the Committee on the Judiciary of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] and the Committee on the Judiciary of the Senate.
 
 &emsp;“(B)
 

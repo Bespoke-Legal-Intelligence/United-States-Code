@@ -18,7 +18,3 @@ Each such application shall include assurances that the State shall, to the grea
 
 (Pub. L. 106–177, title II, §203, Mar. 10, 2000, 114 Stat. 36.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14663 of this title.
-

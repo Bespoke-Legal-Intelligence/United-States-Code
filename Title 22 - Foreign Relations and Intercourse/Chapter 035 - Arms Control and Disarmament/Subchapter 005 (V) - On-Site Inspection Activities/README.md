@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—ON-SITE INSPECTION ACTIVITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2593d of this title.
-
 
 ---
 

@@ -180,7 +180,7 @@ Pub. L. 98–258, §1, Apr. 10, 1984, 98 Stat. 130, provided: “That this Act \
 
 #### Short Title of 1983 Amendments
 
-Pub. L. 98–180, §1, Nov. 29, 1983, 97 Stat. 1128, provided: “That this Act \[enacting sections 511r, 4501 to 4514, and 4531 to 4538 of this title, amending section 608c, 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, 1445–2, and 1446 of this title, and enacting provisions set out as notes under this section and sections 1314b, 1314c, 1314e, 1427, 1445, 1446, and 1727g of this title\] may be cited as the ‘Dairy and Tobacco Adjustment Act of 1983’.”
+Pub. L. 98–180, §1, Nov. 29, 1983, 97 Stat. 1128, provided: “That this Act \[enacting sections 511r, 4501 to 4514, and4531 to 4538 of this title, amending section 608c, 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, 1445–2, and 1446 of this title, and enacting provisions set out as notes under this section and sections 1314b, 1314c, 1314e, 1427, 1445, 1446, and 1727g of this title\] may be cited as the ‘Dairy and Tobacco Adjustment Act of 1983’.”
 
 Pub. L. 98–180, title I, §101, Nov. 29, 1983, 97 Stat. 1128, provided that: “This title \[enacting sections 4501 to 4513 of this title, amending section 1446 of this title, and enacting provisions set out as notes under section 1446 of this title\] may be cited as the ‘Dairy Production Stabilization Act of 1983’.”
 
@@ -198,7 +198,7 @@ Pub. L. 96–213, §1, Mar. 18, 1980, 94 Stat. 119, provided: “That this Act \
 
 #### Short Title
 
-Section 1 of act Oct. 31, 1949, provided that: “This Act \[enacting this section and sections 1422 to 1431, 1432,1433, 1441, 1443 to 1445a, 1446, 1446a, 1446d, 1447 to 1449, and 1461 to 1468 of this title, amending sections 612c, 1301, 1322, 1328, 1343, 1344, 1345, and 1353 to 1356 of this title, and repealing section 1302 of this title; amending sections 1134c and 1134j of Title 12, Banks and Banking, section 713a–4 of Title 15, Commerce and Trade, section 410 of Title 42, The Public Health and Welfare\] may be cited as the ‘Agricultural Act of 1949’.”
+Section 1 of act Oct. 31, 1949, provided that: “This Act \[enacting this section and sections 1422 to 1431, 1432, 1433, 1441, 1443 to 1445a, 1446, 1446a, 1446d, 1447 to 1449, and 1461 to 1468 of this title, amending sections 612c, 1301, 1322, 1328, 1343, 1344, 1345, and 1353 to 1356 of this title, and repealing section 1302 of this title; amending sections 1134c and 1134j of Title 12, Banks and Banking, section 713a–4 of Title 15, Commerce and Trade, section 410 of Title 42, The Public Health and Welfare\] may be cited as the ‘Agricultural Act of 1949’.”
 
 #### Repeals
 
@@ -556,7 +556,7 @@ Allocation of funds among states.—The funds made available for eligible person
 | &nbsp;Georgia | $13,000,000&nbsp; |
 | &nbsp;Indiana | $5,400,000&nbsp; |
 | &nbsp;Kansas | $23,000&nbsp; |
-| &nbsp;Kentucky | $140,000,000&nbsp; |
+| &nbsp;Kentucky | $140,000,000  |
 | &nbsp;Missouri | $2,000,000&nbsp; |
 | &nbsp;North Carolina | $100,000,000&nbsp; |
 | &nbsp;Ohio | $6,000,000&nbsp; |
@@ -581,7 +581,7 @@ Division of farm payments among eligible persons in a state.—Not later than Oc
 
 &emsp;“(6)
 
-Payments to eligible persons in georgia.—The Secretary shall use the amount allocated to the State of Georgia under paragraph (3) to make payments to eligible persons in Georgia only if the State of Georgia agrees to use an equal amount (not to exceed $13,000,000) to make payments at the same time,or subsequently, to the same eligible persons in the same manner as provided for the Federal payment under paragraphs (4) and (5).
+Payments to eligible persons in georgia.—The Secretary shall use the amount allocated to the State of Georgia under paragraph (3) to make payments to eligible persons in Georgia only if the State of Georgia agrees to use an equal amount (not to exceed $13,000,000) to make payments at the same time, or subsequently, to the same eligible persons in the same manner as provided for the Federal payment under paragraphs (4) and (5).
 
 &emsp;“(7)
 
@@ -687,7 +687,7 @@ Funding.—The Secretary shall use funds of the Commodity Credit Corporation to 
 
 Pub. L. 106–113, div. B, §1000(a)(5) \[title I\], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, provided in part that: “For an additional amount for specialty crop assistance authorized by section 803(c)(1) of Public Law 106–78 \[set out below\], $2,800,000: <i>Provided</i>, That the definition of eligible persons in section 803(c)(2) of Public Law 106–78 shall include producers who have suffered quality or quantity losses due to natural disasters on crops harvested and placed in a warehouse and not sold.”
 
-Pub. L. 106–113, div. B, §1000(a)(5) \[title I\], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, as amended by Pub. L. 106–387, §1(a) \[title VIII, §802\], Oct. 28, 2000, 114 Stat. 1549, 1549A–49, provided in part that: “For an additional amount for livestock assistance authorized by section 805 of Public Law 106–78 \[set out below\], $10,000,000: <i>Provided</i>, That the Secretary of Agriculture may use this additional amount to provide assistance to persons who raise livestock owned by other persons for income losses sustained with respect to livestock from January 1, 1999, through February 7, 2000 if the Secretary finds that such losses are the result of natural disasters.”
+Pub. L. 106–113, div. B, §1000(a)(5) \[title I\], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, as amended by Pub. L. 106–387, §1(a) \[title VIII, §802\], Oct. 28, 2000, 114 Stat. 1549, 1549A–49, provided in part that: “For an additional amount for livestock assistance authorized by section 805 of Public Law 106–78 \[set out below\], $10,000,000: <i>Provided</i>, That the Secretary of Agriculture may use this additional amount to provide assistance to persons who raise livestock owned by other persons for incomelosses sustained with respect to livestock from January 1, 1999, through February 7, 2000 if the Secretary finds that such losses are the result of natural disasters.”
 
 Pub. L. 106–78, title VIII, Oct. 22, 1999, 113 Stat. 1175, as amended by Pub. L. 106–113, div. B, §1000(a)(5) \[title I, §102\], Nov. 29, 1999, 113 Stat. 1536, 1501A–291, provided that:
 
@@ -949,7 +949,7 @@ Marketings.—In carrying out subsection (a), the Secretary shall allow a produc
 
 #### “SEC. 814. ASSISTANCE FOR PURCHASE OF ADDITIONAL CROP INSURANCE COVERAGE.
 
-“The Secretary shall transfer $400,000,000 of funds of the Commodity Credit Corporation to the Federal Crop Insurance Corporation to be used to assist agricultural producers in purchasing additional coverage for the 2000 crop year (and 2001 crop year for citrus fruit, avocados in California, and macadamia nuts) under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
+“The Secretary shall transfer $400,000,000 of funds of the Commodity Credit Corporation to the Federal Crop Insurance Corporation to be used to assist agricultural producers in purchasing additional coverage for the2000 crop year (and 2001 crop year for citrus fruit, avocados in California, and macadamia nuts) under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
 
 #### “SEC. 815. FORGIVENESS OF CERTAIN WATER AND WASTE DISPOSAL LOANS.
 
@@ -1071,7 +1071,7 @@ Exception for Market Loss Assistance.—The Secretary may not reserve any portio
 
 #### “SEC. 823. EMERGENCY REQUIREMENT.
 
-“The entire amount necessary to carry out this title and the amendments made by this title shall be available only to the extent that an official budget request for the entire amount, that includes designation of the entire amount of the request as an emergency requirement as defined in the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\], as amended, is transmitted by the President to the Congress: <i>Provided</i>, That the entire amount is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of such Act \[2 U.S.C. 901(b)(2)(A)\].
+“The entire amount necessary to carry out this title and the amendments made by this title shall be available only to the extent that an official budget request for the entire amount, that includes designation of theentire amount of the request as an emergency requirement as defined in the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\], as amended, is transmitted by the President to the Congress: <i>Provided</i>, That the entire amount is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of such Act \[2 U.S.C. 901(b)(2)(A)\].
 
 #### “SEC. 824. REGULATIONS.
 
@@ -1305,7 +1305,7 @@ No Net Cost Basis.—Repayment of a loan under this section shall include repaym
 
 #### “SEC. 1123. NONINSURED CROP ASSISTANCE TO RAISIN PRODUCERS.
 
-“Notwithstanding any of the provisions of section 196 of the Federal Agriculture Improvement and ReformAct of 1996 (7 U.S.C. 7333) that would exclude the following producers from benefits thereunder, the Secretary shall make Noninsured Crop Assistance Program payments in fiscal year 1999 to raisin producers who obtained catastrophic risk protection but because of adverse weather conditions were not able to comply with the policy deadlines for laying the raisins in trays.
+“Notwithstanding any of the provisions of section 196 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7333) that would exclude the following producers from benefits thereunder, the Secretary shall make Noninsured Crop Assistance Program payments in fiscal year 1999 to raisin producers who obtained catastrophic risk protection but because of adverse weather conditions were not able to comply with the policy deadlines for laying the raisins in trays.
 
 #### “SEC. 1124. EMERGENCY ASSISTANCE.
 
@@ -1363,7 +1363,7 @@ Issuance of Regulations.—As soon as practicable after the date of enactment of
 
 Congressional Review of Agency Rulemaking.—In carrying out this section, the Secretary shall use the authority provided under section 808 of title 5, United States Code.”
 
-\[Amendment by section 913(b) of Pub. L. 106–78 to terminate 5 years after Oct. 22, 1999, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.\]
+\[Amendment by section 913(b) of Pub. L. 106–78 to terminate Sept. 30, 2005, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under section 1635 of this title.\]
 
 #### Programs for Farmers and Ranchers Who Were Activated Reservists During Persian Gulf Conflict
 
@@ -1371,7 +1371,7 @@ Pub. L. 102–25, title III, §§381–388, Apr. 6, 1991, 105 Stat. 95–98, est
 
 #### Survey of Program Participants
 
-Pub. L. 101–624, title XI, §1148, Nov. 28, 1990, 104 Stat. 3517, directed Secretary of Agriculture to require producers, during sign-up period for commodity programs under section 1421 et seq. of this title in the 1992 calendar year, to complete survey regarding preference of producers, either to increase efficiency of their farming operation or to assist in meeting conservation requirements for farm, for redistribution of any crop acreage bases on each producer's farm, to compile and analyze data collected from survey to determine potential increases and decreases in State, regional, and national acreage that would be planted to various program crops, potential commodity program costs or savings, and potential impact of such redistribution on competitiveness of United States agriculture in world markets, and, not later than Jan. 31, 1993, to submit to Congress results of survey.
+Pub. L. 101–624, title XI, §1148, Nov. 28, 1990, 104 Stat. 3517, directed Secretary of Agriculture to require producers, during sign-up period for commodity programs under section 1421 et seq. of this title in the 1992 calendar year, to complete survey regarding preference of producers, either to increase efficiency of their farming operation or to assist in meeting conservation requirements for farm, for redistribution of any crop acreagebases on each producer's farm, to compile and analyze data collected from survey to determine potential increases and decreases in State, regional, and national acreage that would be planted to various program crops, potential commodity program costs or savings, and potential impact of such redistribution on competitiveness of United States agriculture in world markets, and, not later than Jan. 31, 1993, to submit to Congress results of survey.
 
 #### Options Pilot Program
 
@@ -1383,7 +1383,7 @@ Pub. L. 101–624, title XXII, §2235(b), Nov. 28, 1990, 104 Stat. 3960, directe
 
 #### Appropriations for Forestry Assistance and Double Cropping on Disaster Areas
 
-Pub. L. 101–624, title XXII, §2235(c), Nov. 28, 1990, 104 Stat. 3961, provided that benefits or assistance providedunder section 2235 of Pub. L. 101–624 or amendments made by such that (enacting provisions set out above and amending provisions set out below) were to be provided only to extent provided for in advance by appropriation acts and authorized appropriations for fiscal years 1991 through 1995.
+Pub. L. 101–624, title XXII, §2235(c), Nov. 28, 1990, 104 Stat. 3961, provided that benefits or assistance provided under section 2235 of Pub. L. 101–624 or amendments made by such that (enacting provisions set out above and amending provisions set out below) were to be provided only to extent provided for in advance by appropriation acts and authorized appropriations for fiscal years 1991 through 1995.
 
 #### Scarce Federal Resources
 
@@ -1426,8 +1426,4 @@ Pub. L. 97–98, title XI, §1112, Dec. 22, 1981, 95 Stat. 1267, directed Secret
 #### Studies in Rice Price Support; Report to Congress; Termination Date
 
 Section 315 of act Aug. 28, 1954, directed Secretary of Agriculture to study various two-price systems of price support and marketing which could be made applicable to rice and to submit to Congress on or before Mar. 1, 1955, a detailed report thereon.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1425, 1428, 1444, 1444b, 1445a, 1448 of this title.
 

@@ -24,11 +24,7 @@ Section 6943(2) of this title, referred to in subsec. (b), was redesignated sect
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer toSecretary of Energy, see note set out under section 6903 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6903, 6943, 6945, 6948, 6949a of this title; title 25 section 3902.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

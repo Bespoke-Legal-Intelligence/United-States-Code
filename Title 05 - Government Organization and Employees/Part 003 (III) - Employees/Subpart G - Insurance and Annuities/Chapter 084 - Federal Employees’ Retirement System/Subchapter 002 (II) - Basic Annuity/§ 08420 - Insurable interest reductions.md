@@ -12,7 +12,3 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 532.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8416, 8418, 8444 of this title.
-

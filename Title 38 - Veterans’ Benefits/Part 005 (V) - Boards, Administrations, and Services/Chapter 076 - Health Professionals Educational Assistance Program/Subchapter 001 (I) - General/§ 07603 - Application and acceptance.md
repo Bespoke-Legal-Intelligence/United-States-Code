@@ -18,7 +18,7 @@
 
 (d) In selecting applicants for acceptance in the Educational Assistance Program, the Secretary shall give priority to the applications of individuals who have previously received educational assistance under the program and have not completed the course of education or training undertaken under such program.
 
-(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 518, §4303; renumbered §7603 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(b)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 105–368, title VIII, §805(3), Nov. 11, 1998, 112 Stat. 3359; Pub. L. 106–419, title IV, §404(a)(10), Nov. 1, 2000, 114 Stat. 1865.)
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 518, §4303; renumbered §7603 andamended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(b)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 105–368, title VIII, §805(3), Nov. 11, 1998, 112 Stat. 3359; Pub. L. 106–419, title IV, §404(a)(10), Nov. 1, 2000, 114 Stat. 1865.)
 
 #### Amendments
 
@@ -37,8 +37,4 @@ Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator�
 Pub. L. 102–40, §402(d)(1), substituted “7604” for “4304”.
 
 Subsecs. (b) to (d). Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Secretary's” for “Administrator's” wherever appearing.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7612, 7616, 7617, 7622, 7623, 7652, 7653, 7654, 7672, 7674, 7675 of this title.
 

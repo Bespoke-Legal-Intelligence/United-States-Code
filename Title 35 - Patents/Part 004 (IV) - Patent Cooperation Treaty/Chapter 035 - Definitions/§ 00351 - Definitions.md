@@ -66,7 +66,3 @@ Section 11 of Pub. L. 94–131 provided that:
 
 Section 1 of Pub. L. 99–616 provided: “That this Act \[amending this section and sections 361, 362, 364, 368, 371, and 376 of this title and enacting provisions set out as a note above\] may be cited as the ‘Act to authorize the United States to participate in chapter II of the Patent Cooperation Treaty’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 102, 154, 374 of this title.
-

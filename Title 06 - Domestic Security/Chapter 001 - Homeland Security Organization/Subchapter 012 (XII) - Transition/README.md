@@ -1,9 +1,5 @@
 ### SUBCHAPTER XII—TRANSITION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 121, 183, 190, 203, 251, 271, 313, 341, 381 of this title.
-
 
 ---
 

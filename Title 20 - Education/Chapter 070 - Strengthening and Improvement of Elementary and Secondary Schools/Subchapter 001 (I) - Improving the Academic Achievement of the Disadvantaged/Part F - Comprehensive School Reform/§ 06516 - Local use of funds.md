@@ -34,7 +34,3 @@ A school that receives funds to develop a comprehensive school reform program sh
 
 (Pub. L. 89–10, title I, §1606, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1604.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6513, 6518 of this title.
-

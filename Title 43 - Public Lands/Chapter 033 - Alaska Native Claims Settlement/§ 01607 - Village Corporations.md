@@ -22,7 +22,3 @@ The provisions of subsections (g), (h) (other than paragraph (4)), and (<i>o</i>
 
 1980—Subsec. (c). Pub. L. 96–487 inserted provision making provisions of section 1606 of this title, including section 1606(h)(3) of this title, applicable to Village Corporations, Urban Corporations, and Native Groups and substituted provision that audits need not be transmitted to the Committee on Interior and Insular Affairs of the House of Representatives or the Committee on Energy and Natural Resources of the Senate for provision that audits need not be transmitted to the Committees on Interior and Insular Affairs of the Senate and the House of Representatives.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1620, 1627 of this title; title 16 section 1155; title 25 section 450i; title 42 section 1382b.
-

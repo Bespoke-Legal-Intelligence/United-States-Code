@@ -12,7 +12,3 @@ Notwithstanding any other provision of law, a claim may not be considered under 
 
 1996—Par. (1). Pub. L. 104–201 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “an investigation by the competent authorities of the accident or injury giving rise to the claim has been completed; and”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3778 of this title.
-

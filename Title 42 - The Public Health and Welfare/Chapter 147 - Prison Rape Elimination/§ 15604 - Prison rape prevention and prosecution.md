@@ -26,7 +26,3 @@ There are authorized to be appropriated $5,000,000 for each of fiscal years 2004
 
 (Pub. L. 108–79, §5, Sept. 4, 2003, 117 Stat. 978.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15605 of this title.
-

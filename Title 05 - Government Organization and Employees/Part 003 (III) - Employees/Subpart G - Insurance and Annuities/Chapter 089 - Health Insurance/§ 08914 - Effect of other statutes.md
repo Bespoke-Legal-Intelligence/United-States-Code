@@ -4,7 +4,3 @@ Any provision of law outside of this chapter which provides coverage or any othe
 
 (Added Pub. L. 100–238, title I, §108(a)(3)(A), Jan. 8, 1988, 101 Stat. 1747.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 6103; title 25 section 450i.
-

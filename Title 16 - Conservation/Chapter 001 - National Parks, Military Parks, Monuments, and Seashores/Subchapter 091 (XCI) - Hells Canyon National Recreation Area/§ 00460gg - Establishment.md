@@ -22,7 +22,3 @@ Section 3 of this Act, referred to in subsec. (b), is section 3 of Pub. L. 94–
 
 Section 17 of Pub. L. 94–199 provided that: “If any provision of this Act \[this subchapter\] is declared to be invalid, such declaration shall not affect the validity of any other provision hereof.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460gg–1, 460gg–5 of this title.
-

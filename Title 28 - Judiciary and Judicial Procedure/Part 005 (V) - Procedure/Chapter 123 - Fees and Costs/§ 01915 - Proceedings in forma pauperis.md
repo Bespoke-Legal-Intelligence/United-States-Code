@@ -112,7 +112,3 @@ Subsec. (e). Act May 24, 1949, §98(b), inserted “or printed record” after �
 
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1930, 2503 of this title; title 10 section 867a; title 11 section 523; title 18 sections 983, 3006A.
-

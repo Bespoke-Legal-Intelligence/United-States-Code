@@ -86,7 +86,7 @@ Research carried out under subsection (a) of this section through contracts, gra
 
 #### (4) Scope
 
-&emsp;Support for a national research and development center shall be for a period of not more than 5 years, shall be of sufficient size and scope to be effective, and notwithstanding section 9534(b) of this title, may be renewed without competition for not more than 5 additional years if the Director, in consultationwith the Research Commissioner and the Board, determines that the research of the national research and development center—
+&emsp;Support for a national research and development center shall be for a period of not more than 5 years, shall be of sufficient size and scope to be effective, and notwithstanding section 9534(b) of this title, may be renewed without competition for not more than 5 additional years if the Director, in consultation with the Research Commissioner and the Board, determines that the research of the national research and development center—
 
 &emsp;&emsp;(A) continues to address priorities of the Institute; and
 
@@ -109,10 +109,6 @@ Research carried out under subsection (a) of this section through contracts, gra
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(11), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9501 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “understanding of”.</i>
 

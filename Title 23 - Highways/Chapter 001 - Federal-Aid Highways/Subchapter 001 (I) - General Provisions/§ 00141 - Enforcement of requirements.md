@@ -24,7 +24,7 @@ A prior section 141, Pub. L. 90–495, §35(a), Aug. 23, 1968, 82 Stat. 836, rel
 
 1998—Subsec. (c). Pub. L. 105–178 substituted “section 104(b)(4)” for “section 104(b)(5) of this title” in two places.
 
-1995—Pub. L. 104–59 redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec.\(a) which read as follows: “Each State shall certify to the Secretary before January 1 of each year that it is enforcing all speed limits on public highways in accordance with section 154 of this title. The Secretary shall not approve any project under section 106 of this title in any State which has failed to certify in accordance with this subsection.”
+1995—Pub. L. 104–59 redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec. (a) which read as follows: “Each State shall certify to the Secretary before January 1 of each year that it is enforcing all speed limits on public highways in accordance with section 154 of this title. The Secretary shall not approve any project under section 106 of this title in any State which has failed to certify in accordance with this subsection.”
 
 1994—Subsec. (b). Pub. L. 103–429 substituted “section 31112 of title 49” for “section 411(j) of the Surface Transportation Assistance Act of 1982 (49 U.S.C. App. 2311(j))”.
 
@@ -56,7 +56,7 @@ Section 123(a)–(c) of Pub. L. 95–599, as amended by Pub. L. 100–17, title 
 
 “(b)(1) Not later than the one-hundred-eightieth day after the date of enactment of this section \[Nov. 6, 1978\], the Secretary, in consultation with each State, shall inventory the existing system in such State for the issuance of special permits. Each State shall annually thereafter report to the Secretary its current inventory.
 
-“(2) For purposes of this subsection, the term ‘special permit’ means a license or permit issued pursuant to State law, rule, or regulation which authorizes a vehicle to exceed the weight limitation for such vehicle established under State law, rule, or regulation.
+“(2) For purposes of this subsection, the term ‘special permit’ means a license or permit issued pursuant toState law, rule, or regulation which authorizes a vehicle to exceed the weight limitation for such vehicle established under State law, rule, or regulation.
 
 “(c) Not later than January 1 of the second calendar year which begins after the date of enactment of this section \[Nov. 6, 1978\] and each calendar year thereafter the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives an annual report together with such recommendations as the Secretary deems necessary on (1) the latest annual inventory of State systems of penalties required by subsection (a) of this section; (2) the latest annual inventory of State systems for the issuance of special permits required by subsection (b) of this section; (3) the annual certification submitted by each State required by section 141(b) of title 23, United States Code.”
 

@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(ii) activities that involve the parents of those students in a manner designed to assist in the students’ educational progress;
 
-&emsp;&emsp;(F) the development of academic and vocational curricula to address the needs of Native Hawaiian children and adults, includingcurriculum materials in the Hawaiian language and mathematics and science curricula that incorporate Native Hawaiian tradition and culture;
+&emsp;&emsp;(F) the development of academic and vocational curricula to address the needs of Native Hawaiian children and adults, including curriculum materials in the Hawaiian language and mathematics and science curricula that incorporate Native Hawaiian tradition and culture;
 
 &emsp;&emsp;(G) professional development activities for educators, including—
 
@@ -128,7 +128,7 @@ Not more than 5 percent of funds provided to a recipient of a grant or contract 
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a)(3)(D)(iii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a)(3)(D)(iii), is title VI of Pub. L.91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Prior Provisions
 

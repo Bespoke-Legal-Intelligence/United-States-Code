@@ -70,7 +70,3 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 
 The Trademark Act of 1946, referred to in subsec. (b), is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, also popularly known as the Lanham Act. Title I of the Act is classified generally to subchapter I (§1051 et seq.) of chapter 22 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1681b of this title.
-

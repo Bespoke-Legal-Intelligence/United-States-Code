@@ -22,7 +22,3 @@ For the purpose of subsection (b) of this section, the Secretary shall accept an
 
 (Pub. L. 101–42, §7, June 28, 1989, 103 Stat. 93.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 715, 715f of this title.
-

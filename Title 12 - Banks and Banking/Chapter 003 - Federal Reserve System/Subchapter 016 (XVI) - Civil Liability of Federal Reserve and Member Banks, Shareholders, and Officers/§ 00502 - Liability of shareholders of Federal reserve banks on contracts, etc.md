@@ -4,7 +4,3 @@ The shareholders of every Federal reserve bank shall be held individually respon
 
 (Dec. 23, 1913, ch. 6, §2, 38 Stat. 252.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 481 of this title.
-

@@ -22,7 +22,3 @@ Subsec. (b). Pub. L. 103–322, §330016(1)(K), substituted “fined under this 
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1961 of this title.
-

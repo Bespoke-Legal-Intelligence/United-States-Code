@@ -22,7 +22,7 @@
 
 #### (b) Terms, conditions, and restrictions
 
-Each license and permit issued under this subchapter shall contain such terms, conditions, and restrictions, established by the Administrator, which prescribe the actions the licensee or permittee shall take in the conduct of exploration and commercial recovery activities to assure protection of the environment. The Administrator shall require in all activities under new permits, and wherever practicable in activities under existing permits, the use of the best available technologies for the protection of safety, health, and the environment wherever such activities would have a significant effect on safety, health, or the environment, except where the Administrator determines that the incremental benefits are clearly insufficient to justify the incremental costs of using such technologies. Before establishing such terms, conditions, and restrictions, the Administrator shall consult with the Administrator of the Environmental Protection Agency, the Secretary of State, and the Secretary of the department in which the Coast Guard is operating, concerning such terms, conditions, and restrictions, and the Administrator shall take into account and give due consideration to the information contained in each final environmental impact statement prepared with respect to such license or permit pursuant to subsection (d) of this section.
+Each license and permit issued under this subchapter shall contain such terms, conditions,and restrictions, established by the Administrator, which prescribe the actions the licensee or permittee shall take in the conduct of exploration and commercial recovery activities to assure protection of the environment. The Administrator shall require in all activities under new permits, and wherever practicable in activities under existing permits, the use of the best available technologies for the protection of safety, health, and the environment wherever such activities would have a significant effect on safety, health, or the environment, except where the Administrator determines that the incremental benefits are clearly insufficient to justify the incremental costs of using such technologies. Before establishing such terms, conditions, and restrictions, the Administrator shall consult with the Administrator of the Environmental Protection Agency, the Secretary of State, and the Secretary of the department in which the Coast Guard is operating, concerning such terms, conditions, and restrictions, and the Administrator shall take into account and give due consideration to the information contained in each final environmental impact statement prepared with respect to such license or permit pursuant to subsection (d) of this section.
 
 #### (c) Programmatic environmental impact statement
 
@@ -56,7 +56,7 @@ For the purposes of this chapter, any vessel or other floating craft engaged in 
 
 (3) Within four years after June 28, 1980, the Secretary of State shall submit a report to Congress on the progress of establishing such stable reference areas, including the designation of appropriate zones to insure a representative and stable biota of the deep seabed.
 
-(4) For purposes of this section “stable reference areas” shall mean an area or areas of the deep seabed to be used as a reference zone or zones for purposes of resource evaluation and environmental assessment of deep seabed mining in which no mining will occur.
+(4) For purposes of this section “stable reference areas” shall mean an area or areas of the deep seabed to be used as a reference zone orzones for purposes of resource evaluation and environmental assessment of deep seabed mining in which no mining will occur.
 
 (Pub. L. 96–283, title I, §109, June 28, 1980, 94 Stat. 568.)
 
@@ -67,8 +67,4 @@ The Clean Water Act, referred to in subsec. (e), is act June 30, 1948, ch. 758, 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1415, 1468 of this title.
 

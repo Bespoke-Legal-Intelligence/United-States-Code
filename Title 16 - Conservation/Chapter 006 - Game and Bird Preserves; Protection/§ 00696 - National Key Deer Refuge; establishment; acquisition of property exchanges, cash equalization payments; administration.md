@@ -8,7 +8,3 @@ In order to protect and preserve in the national interest the key deer and other
 
 1966—Pub. L. 89–669 struck out one thousand acres limitation on acquisition of property, substituted prohibition against condemnation of lands within a one thousand-foot zone adjacent to either side of U.S. Highway Numbered 1 for the Key Deer National Wildlife Refuge for former prohibition against condemnation of lands on an island that is traversed at any point by U.S. Highway Numbered 1, and required cash equalization payment when making unequal exchanges of properties.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 696a, 696b of this title.
-

@@ -16,7 +16,3 @@ Public Availability of Written Orders.—Each written order to implement any act
 
 (Added Pub. L. 107–273, div. C, title I, §11042(a), Nov. 2, 2002, 116 Stat. 1854.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 604 of this title; title 38 section 7253.
-

@@ -40,7 +40,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (B) Adjustment in Board representation
 
-&emsp;&emsp;Three years after the assessment of Hass avocados commences pursuant to an order, and at the end of each 3-year period thereafter, the Avocado Board shall adjust the proportion of producer representatives to importer representatives on the Board under subparagraph (A)(iii) on the basis of the amount of assessments collected from producers and importers over the immediately preceding 3-year period. Any adjustment under this subparagraph shall be subject to the review and approval of the Secretary.
+&emsp;&emsp;Three years after the assessment of Hass avocados commences pursuant to an order, and at the end of each 3-year period thereafter, the Avocado Board shall adjust the proportion of producer representatives to importer representatives on the Board under subparagraph (A)(iii) on the basis of the amount of assessments collected from producers and importers over the immediately preceding 3-year period. Any adjustmentunder this subparagraph shall be subject to the review and approval of the Secretary.
 
 #### (3) Nomination process
 
@@ -80,7 +80,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (7) Compensation
 
-&emsp;The order shall provide that members and alternates of the Board shall serve withoutcompensation, but shall be reimbursed for the reasonable expenses incurred in performing duties as members or alternates of the Board.
+&emsp;The order shall provide that members and alternates of the Board shall serve without compensation, but shall be reimbursed for the reasonable expenses incurred in performing duties as members or alternates of the Board.
 
 #### (c) General responsibilities of the Avocado Board
 
@@ -158,7 +158,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (3) Approval by Secretary
 
-&emsp;A budget, plan, or project for Hass avocados promotion, industry information, consumerinformation, or related research may not be implemented prior to approval of the budget, plan, or project by the Secretary. Not later than 45 days after receipt of such a budget, plan, or project, the Secretary shall notify the Board whether the Secretary approves or disapproves the budget, plan, or project. If the Secretary fails to provide such notice before the end of the 45-day period, the budget, plan, or project shall be deemed to be approved and may be implemented by the Board.
+&emsp;A budget, plan, or project for Hass avocados promotion, industry information, consumer information, or related research may not be implemented prior to approval of the budget, plan, or project by the Secretary. Not later than 45 days after receipt of such a budget, plan, or project, the Secretary shall notify the Board whether the Secretary approves or disapproves the budget, plan, or project. If the Secretary fails to provide such notice before the end of the 45-day period, the budget, plan, or project shall be deemed to be approved and may be implemented by the Board.
 
 #### (e) Contracts and agreements
 
@@ -276,7 +276,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (4) Timing of submitting assessments
 
-&emsp;The order shall provide that each person required to remit assessments under this subsection shall remit to the Board the assessment due from each sale of Hass avocados that is subject to an assessment within such time period after the sale (not to exceed 60 days after the end of the month in which the sale took place) as is specified in the order.
+&emsp;The order shall provide that each person required to remit assessments under this subsection shall remit to the Board the assessment due from each sale of Hass avocados thatis subject to an assessment within such time period after the sale (not to exceed 60 days after the end of the month in which the sale took place) as is specified in the order.
 
 #### (5) Claiming an exemption from collecting assessments
 
@@ -429,8 +429,4 @@ The Commodity Promotion, Research, and Information Act of 1996, referred to in s
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7802, 7805, 7809 of this title.
 

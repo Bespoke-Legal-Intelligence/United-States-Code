@@ -28,7 +28,3 @@ The Secretary shall take into consideration in approving an application under su
 
 (Pub. L. 95–619, title II, §264, as added Pub. L. 96–294, title V, §562, June 30, 1980, 94 Stat. 748.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8235a, 8235b of this title.
-

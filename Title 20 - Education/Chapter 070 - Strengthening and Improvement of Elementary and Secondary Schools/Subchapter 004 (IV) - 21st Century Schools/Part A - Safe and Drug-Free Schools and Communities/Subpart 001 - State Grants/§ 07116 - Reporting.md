@@ -42,7 +42,3 @@
 
 A prior section 7116, Pub. L. 89–10, title IV, §4116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3682; amended Pub. L. 106–554, §1(a)(1) \[title III, §314\], Dec. 21, 2000, 114 Stat. 2763, 2763A–47, related to local drug and violence prevention programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7132 of this title.
-

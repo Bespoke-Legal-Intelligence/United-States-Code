@@ -18,7 +18,7 @@ Documents Authorized To Be Published by Regulations; Comments and News Items Exc
 
 (c)
 
-Suspension of Requirements for Filing of Documents; Alternate Systems for Promulgating, Filing, or Publishing Documents; Preservation of Originals. In the event of an attack or threatened attack upon the continental United States and a determination by the President that as a result of an attack or threatened attack—
+Suspension of Requirements for Filing of Documents; Alternate Systems for Promulgating, Filing, or Publishing Documents;Preservation of Originals. In the event of an attack or threatened attack upon the continental United States and a determination by the President that as a result of an attack or threatened attack—
 
 &emsp;(1) publication of the Federal Register or filing of documents with the Office of the Federal Register is impracticable, or
 
@@ -87,8 +87,4 @@ Sec. 7. <i>Prior order</i>. Upon its publication in the
 Federal Register, this order shall supersede Executive Order No. 10006 of October 9, 1948.
 
 The regulations prescribed by this order shall be codified under Title 1 of the Code of Federal Regulations.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1502–1504, 1506, 1507 of this title.
 

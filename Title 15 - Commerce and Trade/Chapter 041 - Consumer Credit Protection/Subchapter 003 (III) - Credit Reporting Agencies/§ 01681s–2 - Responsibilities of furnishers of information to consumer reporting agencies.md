@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(ii) the creditor did not previously report the date of delinquency to a consumer reporting agency, and the person establishes and follows reasonable procedures to obtain the date of delinquency from the creditor or another reliable source and reports that date to a consumer reporting agency as the date of delinquency; or
 
-&emsp;&emsp;&emsp;(iii) the creditor did not previously report the date of delinquency to a consumerreporting agency and the date of delinquency cannot be reasonably obtained as provided in clause (ii), the person establishes and follows reasonable procedures to ensure the date reported as the date of delinquency precedes the date on which the account is placed for collection, charged to profit or loss, or subjected to any similar action, and reports such date to the credit reporting agency.
+&emsp;&emsp;&emsp;(iii) the creditor did not previously report the date of delinquency to a consumer reporting agency and the date of delinquency cannot be reasonably obtained as provided in clause (ii), the person establishes and follows reasonable procedures to ensure the date reported as the date of delinquency precedes the date on which the account is placed for collection, charged to profit or loss, or subjected to any similar action, and reports such date to the credit reporting agency.
 
 #### (6) Duties of furnishers upon notice of identity theft-related information
 
@@ -184,7 +184,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) by reason of the failure of a consumer to provide sufficient information to investigate the disputed information; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b) of this section, with respect to which the person has already performed the person's duties under this paragraph or subsection (b) of this section, as applicable.
+&emsp;&emsp;&emsp;&emsp;(II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b) of this section, with respect to which the personhas already performed the person's duties under this paragraph or subsection (b) of this section, as applicable.
 
 #### (ii) Notice of determination
 
@@ -204,7 +204,7 @@
 
 #### (9) Duty to provide notice of status as medical information furnisher
 
-&emsp;A person whose primary business is providing medical services, products, or devices, or the person's agent or assignee, who furnishes information to a consumer reporting agency on a consumer shall be considered a medicalinformation furnisher for purposes of this subchapter, and shall notify the agency of such status.
+&emsp;A person whose primary business is providing medical services, products, or devices, or the person's agent or assignee, who furnishes information to a consumer reporting agency on a consumer shall be considered a medical information furnisher for purposes of this subchapter, and shall notify the agency of such status.
 
 #### (b) Duties of furnishers of information upon notice of dispute
 
@@ -258,7 +258,7 @@ The provisions of law described in paragraphs (1) through (3) of subsection (c) 
 
 #### (2) Coordination
 
-&emsp;Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such entity are consistent and comparable with the regulations prescribed by each other such agency.
+&emsp;Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such entity are consistentand comparable with the regulations prescribed by each other such agency.
 
 #### (3) Criteria
 
@@ -317,8 +317,4 @@ Section effective 365 days after Sept. 30, 1996, with special rule for early com
 Pub. L. 108–159, title II, §217(b), Dec. 4, 2003, 117 Stat. 1987, provided that: “Before the end of the 6-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\], the Board shall adopt the model disclosure required under the amendment made by subsection (a) \[amending this section\] after notice duly given in the Federal Register and an opportunity for public comment in accordance with section 553 of title 5, United States Code.”
 
 \[For definitions of terms used in section 217(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1681c, 1681s, 1681t of this title.
 

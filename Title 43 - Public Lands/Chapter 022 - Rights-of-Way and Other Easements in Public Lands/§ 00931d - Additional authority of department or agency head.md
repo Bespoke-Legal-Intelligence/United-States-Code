@@ -4,7 +4,3 @@ The authority conferred by section 931c of this title shall be in addition to, a
 
 (Sept. 3, 1954, ch. 1255, §2, 68 Stat. 1146.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 421c of this title.
-

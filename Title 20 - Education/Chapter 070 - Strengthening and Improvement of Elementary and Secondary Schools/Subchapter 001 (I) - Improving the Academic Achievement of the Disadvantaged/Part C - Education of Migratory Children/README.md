@@ -1,9 +1,5 @@
 Part C—Education of Migratory Children
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1070d–2, 3414, 5891b, 6302, 6303, 6304, 6315, 7801, 7881 of this title.
-
 
 ---
 

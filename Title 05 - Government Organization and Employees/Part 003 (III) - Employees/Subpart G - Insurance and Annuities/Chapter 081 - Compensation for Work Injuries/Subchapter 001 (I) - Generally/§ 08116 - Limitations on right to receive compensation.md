@@ -116,7 +116,3 @@ Section 9(b) of Pub. L. 93–416 provided that: “The amendment made by this se
 
 Increases authorized under amendment by section 1(56) of Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3715d.
-

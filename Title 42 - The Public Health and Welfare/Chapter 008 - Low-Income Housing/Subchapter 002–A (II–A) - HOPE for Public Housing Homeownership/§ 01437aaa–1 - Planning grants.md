@@ -60,7 +60,7 @@ The Secretary shall, by regulation, establish selection criteria for a national 
 
 &emsp;(5) such other factors that the Secretary shall require that (in the determination of the Secretary) are appropriate for purposes of carrying out the program established by this subchapter in an effective and efficient manner.
 
-(Sept. 1, 1937, ch. 896, title III, §302, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104Stat. 4149; amended Pub. L. 102–550, title X, §1012(h)(1), Oct. 28, 1992, 106 Stat. 3906.)
+(Sept. 1, 1937, ch. 896, title III, §302, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4149; amended Pub. L. 102–550, title X, §1012(h)(1), Oct. 28, 1992, 106 Stat. 3906.)
 
 #### References in Text
 
@@ -73,8 +73,4 @@ The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(E), is title I
 #### Amendments
 
 1992—Subsec. (b)(4) to (9). Pub. L. 102–550 added par. (4) and redesignated former pars. (4) to (8) as (5) to (9), respectively.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437aaa–2, 1437aaa–4 of this title.
 

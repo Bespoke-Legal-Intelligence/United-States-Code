@@ -1,9 +1,5 @@
 Part F—Shelter Plus Care Program
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 11394 of this title.
-
 
 ---
 

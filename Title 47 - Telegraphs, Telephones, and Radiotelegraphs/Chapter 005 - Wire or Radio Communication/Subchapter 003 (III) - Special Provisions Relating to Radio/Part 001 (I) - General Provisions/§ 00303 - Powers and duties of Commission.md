@@ -1,6 +1,6 @@
 ### §303. Powers and duties of Commission
 
-Except as otherwise provided in this chapter, the Commission from time to time, as publicconvenience, interest, or necessity requires, shall—
+Except as otherwise provided in this chapter, the Commission from time to time, as public convenience, interest, or necessity requires, shall—
 
 (a) Classify radio stations;
 
@@ -48,7 +48,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 &emsp;(F) has obtained or attempted to obtain, or has assisted another to obtain or attempt to obtain, an operator's license by fraudulent means.
 
-(2) No order of suspension of any operator's license shall take effect until fifteen days’ notice in writing thereof, stating the cause for the proposed suspension, has been given to the operator licensee who may make written application to the Commission at any time within said fifteen days for a hearing upon such order. The notice to the operator licensee shall not be effective until actually received by him, and from that time he shall have fifteen days in which to mail the said application. In the event that physical conditions prevent mailing of the application at the expiration of the fifteen-day period, the application shall then be mailed as soon as possible thereafter, accompanied by a satisfactory explanation of the delay. Upon receipt by the Commission of such application for hearing, saidorder of suspension shall be held in abeyance until the conclusion of the hearing which shall be conducted under such rules as the Commission may prescribe. Upon the conclusion of said hearing the Commission may affirm, modify, or revoke said order of suspension.
+(2) No order of suspension of any operator's license shall take effect until fifteen days’ notice in writing thereof, stating the cause for the proposed suspension, has been given to the operator licensee who may make written application to the Commission at any time within said fifteen days for a hearing upon such order. The notice to the operator licensee shall not be effective until actually received by him, and from that time he shall have fifteen days in which to mail the said application. In the event that physical conditions prevent mailing of the application at the expiration of the fifteen-day period, the application shall then be mailed as soon as possible thereafter, accompanied by a satisfactory explanation of the delay. Upon receipt by the Commission of such application for hearing, said order of suspension shall be held in abeyance until the conclusion of the hearing which shall be conducted under such rules as the Commission may prescribe. Upon the conclusion of said hearing the Commission may affirm, modify, or revoke said order of suspension.
 
 (n) Have authority to inspect all radio installations associated with stations required to be licensed by any Act, or which the Commission by rule has authorized to operate without a license under section 307(e)(1) of this title, or which are subject to the provisions of any Act, treaty, or convention binding on the United States, to ascertain whether in construction, installation, and operation they conform to the requirements of the rules and regulations of the Commission, the provisions of any Act, the terms of any treaty or convention binding on the United States, and the conditions of the license or other instrument of authorization under which they are constructed, installed, or operated.
 
@@ -62,7 +62,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (s) Have authority to require that apparatus designed to receive television pictures broadcast simultaneously with sound be capable of adequately receiving all frequencies allocated by the Commission to television broadcasting when such apparatus is shipped in interstate commerce, or is imported from any foreign country into the United States, for sale or resale to the public.
 
-(t) Notwithstanding the provisions of section 301(e) of this title, have authority, in any case in which an aircraft registered in the United States is operated (pursuant to a lease, charter, or similar arrangement) by an aircraft operator who is subject to regulation by the government of a foreign nation, to enter into an agreement with such government under which the Commission shall recognize and accept any radio station licenses and radio operator licenses issued by such government with respect to such aircraft.
+(t) Notwithstanding the provisions of section 301(e) of this title, have authority, in any case in which an aircraft registered in the UnitedStates is operated (pursuant to a lease, charter, or similar arrangement) by an aircraft operator who is subject to regulation by the government of a foreign nation, to enter into an agreement with such government under which the Commission shall recognize and accept any radio station licenses and radio operator licenses issued by such government with respect to such aircraft.
 
 (u) Require that apparatus designed to receive television pictures broadcast simultaneously with sound be equipped with built-in decoder circuitry designed to display closed-captioned television transmissions when such apparatus is manufactured in the United States or imported for use in the United States, and its television picture screen is 13 inches or greater in size.
 
@@ -160,7 +160,7 @@ Applicability of rating provision.—The amendment made by subsection (b) of thi
 
 “(2)
 
-Effective date of manufacturing provision.—In prescribing regulations to implement the amendment made by subsection (c) \[amending this section\], the Federal Communications Commission shall, after consultation with the television manufacturing industry, specify the effective date for the applicability of the requirement to the apparatus covered by suchamendment, which date shall not be less than two years after the date of enactment of this Act \[Feb. 8, 1996\].” \[On Mar. 12, 1998, the Federal Communications Commission adopted technical rules that require certain television receivers to be equipped with features to block display of programs with a common rating. This feature was to be phased in, with half of subject television receivers to have it by July 1, 1999, and all such models to have it by Jan. 1, 2000.\]
+Effective date of manufacturing provision.—In prescribing regulations to implement the amendment made by subsection (c) \[amending this section\], the Federal Communications Commission shall, after consultation with the television manufacturing industry, specify the effective date for the applicability of the requirement to the apparatus covered by such amendment, which date shall not be less than two years after the date of enactment of this Act \[Feb. 8, 1996\].” \[On Mar. 12, 1998, the Federal Communications Commission adopted technical rules that require certain television receivers to be equipped with features to block display of programs with a common rating. This feature was to be phased in, with half of subject television receivers to have it by July 1, 1999, and all such models to have it by Jan. 1, 2000.\]
 
 #### Effective Date of 1992 Amendment
 
@@ -175,6 +175,94 @@ Section 5 of Pub. L. 101–431 provided that: “Sections 3 and 4 of this Act \[
 Section 6 of Pub. L. 101–431 provided that: “The Federal Communications Commission shall promulgate rules to implement this Act \[amending this section and section 330 of this title and enacting provisions set out as notes under this section and section 609 of this title\] within 180 days after the date of its enactment \[Oct. 15, 1990\].”
 
 Pub. L. 100–459, title VI, §608, Oct. 1, 1988, 102 Stat. 2228, directed Federal Communications Commission to promulgate, by Jan. 31, 1989, regulations in accordance with section 1464 of Title 18, Crimes and Criminal Procedure, to enforce the provisions of such section on a 24 hour per day basis, prior to repeal by Pub. L. 102–356, §16(b), Aug. 26, 1992, 106 Stat. 954.
+
+#### Broadcast Ownership
+
+Pub. L. 104–104, title II, §202, Feb. 8, 1996, 110 Stat. 110, as amended by Pub. L. 108–199, div. B, title VI, §629, Jan. 23, 2004, 118 Stat. 99, provided that:
+
+“(a)
+
+National Radio Station Ownership Rule Changes Required.—The Commission shall modify section 73.3555 of its regulations (47 C.F.R. 73.3555) by eliminating any provisions limiting the number of AM or FM broadcast stations which may be owned or controlled by one entity nationally.
+
+“(b)
+
+Local Radio Diversity.—
+
+&emsp;“(1)
+
+Applicable caps.—The Commission shall revise section 73.3555(a) of its regulations (47 C.F.R. 73.3555) to provide that—
+
+&emsp;&emsp;“(A) in a radio market with 45 or more commercial radio stations, a party may own, operate, or control up to 8 commercial radio stations, not more than 5 of which are in the same service (AM or FM);
+
+&emsp;&emsp;“(B) in a radio market with between 30 and 44 (inclusive) commercial radio stations, a party may own, operate, or control up to 7 commercial radio stations, not more than 4 of which are in the same service (AM or FM);
+
+&emsp;&emsp;“(C) in a radio market with between 15 and 29 (inclusive) commercial radio stations, a party may own, operate, or control up to 6 commercial radio stations, not more than 4 of which are in the same service (AM or FM); and
+
+&emsp;&emsp;“(D) in a radio market with 14 or fewer commercial radio stations, a party may own, operate, or control up to 5 commercial radio stations, not more than 3 of which are in the same service (AM or FM), except that a party may not own, operate, or control more than 50 percent of the stations in such market.
+
+&emsp;“(2)
+
+Exception.—Notwithstanding any limitation authorized by this subsection, the Commission may permit a person or entity to own, operate, or control, or have a cognizable interest in, radio broadcast stations if the Commission determines that such ownership, operation, control, or interest will result in an increase in the number of radio broadcast stations in operation.
+
+“(c)
+
+Television Ownership Limitations.—
+
+&emsp;“(1)
+
+National ownership limitations.—The Commission shall modify its rules for multiple ownershipset forth in section 73.3555 of its regulations (47 C.F.R. 73.3555)—
+
+&emsp;&emsp;“(A) by eliminating the restrictions on the number of television stations that a person or entity may directly or indirectly own, operate, or control, or have a cognizable interest in, nationwide; and
+
+&emsp;&emsp;“(B) by increasing the national audience reach limitation for television stations to 39 percent.
+
+&emsp;“(2)
+
+Local ownership limitations.—The Commission shall conduct a rulemaking proceeding to determine whether to retain, modify, or eliminate its limitations on the number of television stations that a person or entity may own, operate, or control, or have a cognizable interest in, within the same television market.
+
+&emsp;“(3)
+
+Divestiture.—A person or entity that exceeds the 39 percent national audience reach limitation for television stations in paragraph (1)(B) through grant, transfer, or assignment of an additional license for a commercial television broadcast station shall have not more than 2 years after exceeding such limitation to come into compliance with such limitation. This divestiture requirement shall not apply to persons or entities that exceed the 39 percent national audience reach limitation through population growth.
+
+&emsp;“(4)
+
+Forbearance.—Section 10 of the Communications Act of 1934 (47 U.S.C. 160) shall not apply to any person or entity that exceeds the 39 percent national audience reach limitation for television stations in paragraph (1)(B);\[.\]
+
+“(d)
+
+Relaxation of One-To-A-Market.—With respect to its enforcement of its one-to-a-market ownership rules under section 73.3555 of its regulations, the Commission shall extend its waiver policy to any of the top 50 markets, consistent with the public interest, convenience, and necessity.
+
+“(e)
+
+Dual Network Changes.—The Commission shall revise section 73.658(g) of its regulations (47 C.F.R. 658(g)) to permit a television broadcast station to affiliate with a person or entity that maintains 2 or more networks of television broadcast stations unless such dual or multiple networks are composed of—
+
+&emsp;“(1) two or more persons or entities that, on the date of enactment of the Telecommunications Act of 1996 \[Feb. 8, 1996\], are ‘networks’ as defined in section 73.3613(a)(1) of the Commission's regulations (47 C.F.R. 73.3613(a)(1)); or
+
+&emsp;“(2) any network described in paragraph (1) and an English language program distribution service that, on such date, provides 4 or more hours of programming per week on a national basis pursuant to network affiliation arrangements with local television broadcast stations in markets reaching more than 75 percent of television homes (as measured by a national ratings service).
+
+“(f)
+
+Cable Cross Ownership.—
+
+&emsp;“(1)
+
+Elimination of restrictions.—The Commission shall revise section 76.501 of its regulations (47 C.F.R. 76.501) to permit a person or entity to own or control a network of broadcast stations and a cable system.
+
+&emsp;“(2)
+
+Safeguards against discrimination.—The Commission shall revise such regulations if necessary to ensure carriage, channel positioning, and nondiscriminatory treatment of nonaffiliated broadcast stations by a cable system described in paragraph (1).
+
+“(g)
+
+Local Marketing Agreements.—Nothing in this section shall be construed to prohibit the origination, continuation, or renewal of any television local marketing agreement that is in compliance with the regulations of the Commission.
+
+“(h)
+
+Further Commission Review.—The Commission shall review its rules adopted pursuant to this section and all of its ownership rules quadrennially as part of its regulatory reform review under section 11 of the Communications Act of 1934 \[47 U.S.C. 161\] and shall determine whether any of such rules are necessary in the public interest as the result of competition. The Commission shall repeal or modify any regulation it determines to be no longer in the public interest. This subsection does not apply to any rules relating to the 39 percent national audience reach limitation in subsection (c)(1)(B).
+
+“(i)
+
+Elimination of Statutory Restriction.—\[Amended section 533(a) of this title.\]”
 
 #### Restrictions on Over-the-Air Reception Devices
 
@@ -269,8 +357,4 @@ Pub. L. 98–214, §9, Dec. 8, 1983, 97 Stat. 1470, provided that:
 “(a) Funds authorized to be appropriated under section 2 of this Act \[amending section 156 of this title\] shall be used by the Federal Communications Commission to establish a plan which adequately ensures that the needs of State and local public safety authorities would be taken into account in making allocations of the electromagnetic spectrum. In establishing such a plan the Commission shall (1) review the current and future needs of such public safety authorities in light of suitable and commercially available equipment and (2) consider the need for a nationwide contiguous frequency allocation for public safety purposes.
 
 “(b) Pending adoption of a plan, the Commission, while making assignments and allocations, shall duly recognize the needs of State and local public safety authorities.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 301, 305, 309, 330, 332, 503, 923 of this title.
 

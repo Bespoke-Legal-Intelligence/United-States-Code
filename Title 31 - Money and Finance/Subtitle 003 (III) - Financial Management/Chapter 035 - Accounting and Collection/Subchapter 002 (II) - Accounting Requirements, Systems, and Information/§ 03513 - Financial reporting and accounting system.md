@@ -50,7 +50,3 @@ In subsection (b)(2), the words “install, revise, or eliminate”, “the seve
 
 In subsection (c), before clause (1), the text of 31:66b(c) is omitted as unnecessary. The words “Comptroller General” are substituted for “General Accounting Office” for consistency. In clause (1), the word “Secretary” is substituted for “Treasury Department” in 31:66(b)(related to Treasury Department) for consistency. The word “central” is omitted as surplus. In clause (2), the word “considers” is substituted for “deemed” as being more precise. The words “under section 3511 of this title” are substituted for “by him” for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3501, 3512 of this title.
-

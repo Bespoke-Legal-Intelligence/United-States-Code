@@ -8,7 +8,3 @@ The Secretary, acting through either the Assistant Secretary for Health or the D
 
 Section was enacted as part of the Home Health Care and Alzheimer's Disease Amendments of 1990, and not as part of the Public Health Service Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 242q–4, 242q–5 of this title.
-

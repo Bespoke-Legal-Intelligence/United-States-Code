@@ -46,7 +46,3 @@ The Secretary may make grants for the purpose of providing for the operating exp
 
 Part effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300d–42, 300d–43, 300d–44 of this title.
-

@@ -10,7 +10,7 @@ Herein, referred to in text, means act Aug. 1, 1916, which is classified to sect
 
 The land laws of the United States, referred to in text, are classified generally to Title 43, Public Lands.
 
-Section 79 of this title, referred to in text, was in the original a reference to act Feb. 15, 1901, ch. 372, 31 Stat.790. For further details, see Codification note set out under section 79 of this title.
+Section 79 of this title, referred to in text, was in the original a reference to act Feb. 15, 1901, ch. 372, 31 Stat. 790. For further details, see Codification note set out under section 79 of this title.
 
 #### Codification
 
@@ -19,8 +19,4 @@ Section is a combination of sections 2 and 3 of act Aug. 1, 1916, all but the la
 #### Haleakala�AE8 National Park
 
 Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala�AE8 National Park, effective July 1, 1961, see section 396b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 391b–1, 391c, 391d of this title.
 

@@ -38,11 +38,49 @@ Payments shall be made by an employer in accordance with the determinations made
 
 #### (e) Furnishing of information by plan sponsor to employer respecting computation of withdrawal liability of employer; fees
 
-If any employer requests in writing that the plan sponsor make available to the employer general information necessary for the employer to compute its withdrawal liability with respect to the plan (other than information which is unique to that employer), the plan sponsor shall furnish the information to the employer without charge. If any employer requests in writing that the plan sponsor make an estimate of such employer's potential withdrawal liability with respect to the plan or to provide information unique to that employer, the plan sponsor may require the employer to pay the reasonable cost of making such estimate or providing such information.
+If any employer requests in writing that the plan sponsor make available to the employergeneral information necessary for the employer to compute its withdrawal liability with respect to the plan (other than information which is unique to that employer), the plan sponsor shall furnish the information to the employer without charge. If any employer requests in writing that the plan sponsor make an estimate of such employer's potential withdrawal liability with respect to the plan or to provide information unique to that employer, the plan sponsor may require the employer to pay the reasonable cost of making such estimate or providing such information.
 
-(Pub. L. 93–406, title IV, §4221, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1239.)
+#### (f) Procedures applicable to certain disputes
 
-#### Section Referred to in Other Sections
+#### (1) In general
 
-This section is referred to in section 1451 of this title.
+&emsp;If—
+
+&emsp;&emsp;(A) a plan sponsor of a plan determines that—
+
+&emsp;&emsp;&emsp;(i) a complete or partial withdrawal of an employer has occurred, or
+
+&emsp;&emsp;&emsp;(ii) an employer is liable for withdrawal liability payments with respect to the complete or partial withdrawal of an employer from the plan,
+
+&emsp;&emsp;(B) such determination is based in whole or in part on a finding by the plan sponsor under section 1392(c) of this title that a principal purpose of a transaction that occurred before January 1, 1999, was to evade or avoid withdrawal liability under this subtitle, and
+
+&emsp;&emsp;(C) such transaction occurred at least 5 years before the date of the complete or partial withdrawal,
+
+> &emsp;then the special rules under paragraph (2) shall be used in applying subsections (a) and (d) of this section and section 1399(c) of this title to the employer.
+
+#### (2) Special rules
+
+#### (A) Determination
+
+&emsp;&emsp;Notwithstanding subsection (a)(3) of this section—
+
+&emsp;&emsp;&emsp;(i) a determination by the plan sponsor under paragraph (1)(B) shall not be presumed to be correct, and
+
+&emsp;&emsp;&emsp;(ii) the plan sponsor shall have the burden to establish, by a preponderance of the evidence, the elements of the claim under section 1392(c) of this title that a principal purpose of the transaction was to evade or avoid withdrawal liability under this subtitle.
+
+> &emsp;&emsp;Nothing in this subparagraph shall affect the burden of establishing any other element of a claim for withdrawal liability under this subtitle.
+
+#### (B) Procedure
+
+&emsp;&emsp;Notwithstanding subsection (d) of this section and section 1399(c) of this title, if an employer contests the plan sponsor's determination under paragraph (1) through an arbitration proceeding pursuant to subsection (a) of this section, or through a claim brought in a court of competent jurisdiction, the employer shall not be obligated to make any withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor's determination.
+
+(Pub. L. 93–406, title IV, §4221, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1239; amended Pub. L. 108–218, title II, §202(a), Apr. 10, 2004, 118 Stat. 608.)
+
+#### Amendments
+
+2004—Subsec. (f). Pub. L. 108–218 added subsec. (f).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–218, title II, §202(b), Apr. 10, 2004, 118 Stat. 609, provided that: “The amendments made by this section \[amending this section\] shall apply to any employer that receives a notification under section 4219(b)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1399(b)(1)) after October 31, 2003.”
 

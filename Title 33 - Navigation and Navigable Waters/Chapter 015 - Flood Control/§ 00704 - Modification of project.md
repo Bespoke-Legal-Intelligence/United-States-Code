@@ -4,7 +4,3 @@ The project for the control of floods in the Sacramento River, California, adopt
 
 (May 15, 1928, ch. 569, §13, 45 Stat. 539.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701c–1, 701e, 702a, 702a–11/2, 702a–11 of this title.
-

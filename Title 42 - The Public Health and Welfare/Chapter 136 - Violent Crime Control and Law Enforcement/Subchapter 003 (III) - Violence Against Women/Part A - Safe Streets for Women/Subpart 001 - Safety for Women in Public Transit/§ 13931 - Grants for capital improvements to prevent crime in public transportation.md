@@ -24,7 +24,7 @@ All grants under this section are contingent upon the filing of a report with th
 
 #### (d) Increased Federal share
 
-Notwithstanding any other provision of law, the Federal share under this section for each capital improvement project that enhances the safety and security of public transportation systems and that is not required by law (including any other provision of this Act) shall be 90 percent of the net project cost of the project.
+Notwithstanding any other provision of law, the Federal share under this section for eachcapital improvement project that enhances the safety and security of public transportation systems and that is not required by law (including any other provision of this Act) shall be 90 percent of the net project cost of the project.
 
 #### (e) Special grants for projects to study increasing security for women
 

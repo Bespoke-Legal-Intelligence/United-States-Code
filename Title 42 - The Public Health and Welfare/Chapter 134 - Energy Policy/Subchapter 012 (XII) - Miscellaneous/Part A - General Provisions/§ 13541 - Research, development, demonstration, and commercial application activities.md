@@ -42,7 +42,3 @@ The Atomic Energy Act of 1954, referred to in subsec. (a)(1), is act Aug. 1, 194
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsecs. (a)(2), (b), (e)(1), (2), and (f), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12001, 12005, 13331, 13411, 13412, 13413, 13414, 13431, 13432, 13433, 13434,13437, 13451, 13452, 13453, 13454, 13455, 13456, 13471, 13472, 13474, 13475, 13477, 13501, 13502 of this title.
-

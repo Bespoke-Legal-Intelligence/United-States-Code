@@ -22,7 +22,7 @@ Subject to valid existing rights, all Federal lands within the park are hereby w
 
 (1)(A) Consistent with the requirements of this subsection, including the limitation in paragraph (3), the Secretary shall allow the grazing of livestock within the park to continue where authorized under permits or leases in existence as of October 21, 1999. Grazing shall be at no more than the current level, and subject to applicable laws and National Park Service regulations.
 
-(B) Nothing in this subsection shall be construed as extending grazing privileges for any party or their assignee in any area of the park where, prior to October 21, 1999, such use was scheduled to expire according to the terms of a settlement by the United States Claims Court affecting property incorporated into the boundary of the Black Canyon of the Gunnison National Monument.
+(B) Nothing in this subsection shall be construed as extending grazing privileges for anyparty or their assignee in any area of the park where, prior to October 21, 1999, such use was scheduled to expire according to the terms of a settlement by the United States Claims Court affecting property incorporated into the boundary of the Black Canyon of the Gunnison National Monument.
 
 (C) Nothing in this subsection shall prohibit the Secretary from accepting the voluntary termination of leases or permits for grazing within the park.
 
@@ -73,8 +73,4 @@ Pub. L. 108–128, §2(b), Nov. 17, 2003, 117 Stat. 1355, provided that: “On t
 #### Access to Water Delivery Facilities
 
 Pub. L. 108–128, §5, Nov. 17, 2003, 117 Stat. 1357, provided that: “The Commissioner of Reclamation shall retain administrative jurisdiction over the Crystal Dam Access Road and land, facilities, and roads of the Bureau of Reclamation in the East Portal area, including the Gunnison Tunnel, and the Crystal Dam area, as depicted on the map entitled ‘Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications’, and dated April 2, 2003, for the maintenance, repair, construction, replacement, and operation of any facilities relating to the delivery of water and power under the jurisdiction of the Bureau of Reclamation.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460fff–1, 460fff–3 of this title.
 

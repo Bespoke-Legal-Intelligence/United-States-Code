@@ -42,7 +42,3 @@ There is authorized to be appropriated to the Fund, for fiscal year 1976, an amo
 
 1976—Subsecs. (d), (e)(1). Pub. L. 94–350 included interest and proceeds accruing to the Fund in accordance with sections 2905(4) and 2906 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2904, 2906 of this title.
-

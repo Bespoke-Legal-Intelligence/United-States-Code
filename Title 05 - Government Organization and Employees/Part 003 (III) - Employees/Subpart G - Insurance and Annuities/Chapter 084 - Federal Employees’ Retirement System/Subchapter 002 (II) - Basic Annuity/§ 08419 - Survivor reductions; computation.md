@@ -26,7 +26,3 @@
 
 1988—Subsec. (a)(1), (2)(A). Pub. L. 100–238 inserted “or one-half of the annuity, if jointly designated for this purpose by the employee or Member and the spouse of the employee or Member under procedures prescribed by the Office of Personnel Management” before “, shall be reduced”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8416, 8417, 8418, 8442, 8445, 8468 of this title.
-

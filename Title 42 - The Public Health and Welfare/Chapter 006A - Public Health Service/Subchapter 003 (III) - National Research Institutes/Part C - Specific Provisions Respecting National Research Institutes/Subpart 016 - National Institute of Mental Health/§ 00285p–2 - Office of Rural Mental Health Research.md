@@ -28,11 +28,13 @@ The Director of the Office may carry out the authorities established in subsecti
 
 #### (e) Report to Congress
 
-Not later than February 1, 1993, and each fiscal year thereafter, the Director shall submit to the Subcommittee on Health and the Environment of the Committee on Energy and Commerce (of the House of Representatives), and to the Committee on Labor and Human Resources (of the Senate), a report describing the activities of the Office during the preceding fiscal year, including a summary of the activities of demonstration projects and a summary of evaluations of the projects.
+Not later than February 1, 1993, and each fiscal year thereafter, the Director shall submit to the Subcommittee on Health and the Environment of the Committee on Energy and Commerce (of the House of Representatives), and to the Committee on Labor and Human Resources (of theSenate), a report describing the activities of the Office during the preceding fiscal year, including a summary of the activities of demonstration projects and a summary of evaluations of the projects.
 
 (July 1, 1944, ch. 373, title IV, §464T, as added Pub. L. 102–321, title I, §124(b), July 10, 1992, 106 Stat. 365.)
 
 #### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

@@ -38,7 +38,7 @@ In carrying on activities which further the purposes of this chapter, subject to
 
 #### References in Text
 
-The Subsistence Expenses Act of 1926, as amended, referred to in subsec. (a)(3), was repealed and superseded by the Travel Expense Act of 1949, which is covered by subchapter I of chapter 57 of Title 5, Government Organization and Employees. Section 9(a) of the 1949 Act provided in part: “All Acts . . . applicable to civilian officers or employees of the departments and establishments, providing for reimbursement of actual travel or transportation expense, and all other Acts, general or special, which are in conflict with the provisions of this Act . . . are hereby modified, but only to the extent of inconsistency or conflict with the provisions of this Act . . .”.
+The Subsistence Expenses Act of 1926, as amended, referred to in subsec. (a)(3), was repealed and superseded by the Travel Expense Act of 1949, which is covered by subchapter I of chapter 57 of Title 5, Government Organization and Employees. Section 9(a) of the 1949 Act provided in part: “All Acts . . . applicable to civilian officers or employees of the departments and establishments, providing for reimbursement of actual travel or transportation expense, and all other Acts, general orspecial, which are in conflict with the provisions of this Act . . . are hereby modified, but only to the extent of inconsistency or conflict with the provisions of this Act . . .”.
 
 #### Amendments
 
@@ -56,7 +56,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 Ex. Ord. No. 10477, Aug. 1, 1953, 18 F.R. 4540, as amended by Ex. Ord. No. 10822, May 20, 1959, 24 F.R. 4159; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967; provided:
 
-Section 1. <i>Determination</i>. It is hereby determined that it is necessary, in order to carry out the functions transferred to the Director of the United States Information Agency (hereinafter referred to as the Director) by the provisions of subsections (a), (b), and (c) of section 2 of the said Reorganization Plan No. 8 of 1953, toauthorize the Director to exercise, in relation to respective functions so transferred, the authority specified in sections 2 and 3 hereof.
+Section 1. <i>Determination</i>. It is hereby determined that it is necessary, in order to carry out the functions transferred to the Director of the United States Information Agency (hereinafter referred to as the Director) by the provisions of subsections (a), (b), and (c) of section 2 of the said Reorganization Plan No. 8 of 1953, to authorize the Director to exercise, in relation to respective functions so transferred, the authority specified in sections 2 and 3 hereof.
 
 Sec. 2. \[Revoked by Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967.\]
 

@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to accept, on behalf of the United S
 
 (Feb. 22, 1944, ch. 28, 58 Stat. 19.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 403h–14 of this title.
-

@@ -8,7 +8,3 @@ The Legislature of Guam may by law assist such authority by furnishing, or autho
 
 Section was not enacted as part of the Organic Act of Guam which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1425d of this title.
-

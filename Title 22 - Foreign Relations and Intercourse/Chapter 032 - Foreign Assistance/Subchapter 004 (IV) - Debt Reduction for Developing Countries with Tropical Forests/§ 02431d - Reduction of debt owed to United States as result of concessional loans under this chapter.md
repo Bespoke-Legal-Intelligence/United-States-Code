@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A reduction of debt pursuant to this section shall not be considered assistance forpurposes of any provision of law limiting assistance to a country.
+&emsp;&emsp;A reduction of debt pursuant to this section shall not be considered assistance for purposes of any provision of law limiting assistance to a country.
 
 #### (B) Additional requirement
 
@@ -44,11 +44,13 @@
 
 #### (c) Additional terms and conditions
 
-The following additional terms and conditions shall apply to the reduction of debt under subsection (a)(1) of this section in the same manner as such terms and conditions apply to the reduction of debt under section 2430c(a)(1) of this title:
+(1) The following additional terms and conditions shall apply to the reduction of debt under subsection (a)(1) of this section in the same manner as such terms and conditions apply to the reduction of debt under section 2430c(a)(1) of this title:
 
-&emsp;(1) The provisions relating to repayment of principal under section 2430d of this title.
+&emsp;(A) The provisions relating to repayment of principal under section 2430d of this title.
 
-&emsp;(2) The provisions relating to interest on new obligations under section 2430e of this title.
+&emsp;(B) The provisions relating to interest on new obligations under section 2430e of this title.
+
+(2) In addition to the application of the provisions relating to repayment of principal under section 2430d of this title to the reduction of debt under subsection (a)(1) of this section (in accordance with paragraph (1)(A) of this subsection), repayment of principal on a new obligation established under subsection (b) of this section may be made in the local currency of the beneficiary country and deposited in the Tropical Forest Fund of the country in the same manner as the provisions relating to payment of interest on new obligations under section 2430e of this title.
 
 #### (d) Authorization of appropriations for fiscal years after fiscal year 2001
 
@@ -60,7 +62,17 @@ For the cost (as defined in section 661a(5) of title 2) for the reduction of any
 
 &emsp;(3) $100,000,000 for fiscal year 2004.
 
-(Pub. L. 87–195, pt. V, §806, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 887; amended Pub. L. 107–26, §2(a), Aug. 17, 2001, 115 Stat. 206.)
+&emsp;(4) $20,000,000 for fiscal year 2005.
+
+&emsp;(5) $25,000,000 for fiscal year 2006.
+
+&emsp;(6) $30,000,000 for fiscal year 2007.
+
+#### (e) Use of funds to conduct program audits and evaluations
+
+Of the amounts made available to carry out this subchapter for a fiscal year, $200,000 is authorized to be made available to carry out audits and evaluations of programs under this subchapter, including personnel costs associated with such audits and evaluations.
+
+(Pub. L. 87–195, pt. V, §806, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 887; amended Pub. L. 107–26, §2(a), Aug. 17, 2001, 115 Stat. 206; Pub. L. 108–323, §§1–3(a), Oct. 6, 2004, 118 Stat. 1218.)
 
 #### References in Text
 
@@ -78,13 +90,17 @@ A prior section 806 of Pub. L. 87–195, pt. V, was classified to section 2435 o
 
 #### Amendments
 
+2004—Subsec. (c). Pub. L. 108–323, §3(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+Subsec. (d)(4) to (6). Pub. L. 108–323, §1, added pars. (4) to (6).
+
+Subsec. (e). Pub. L. 108–323, §2, added subsec. (e).
+
 2001—Subsec. (d). Pub. L. 107–26 added subsec. (d).
 
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2431a, 2431f of this title.
+For delegation of functions of President under subsec. (a) of this section, see section 1 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of Title 7, Agriculture.
 

@@ -8,7 +8,3 @@ After the Eudora Floodway shall have been constructed and is ready for operation
 
 Herein, referred to in text, means act June 15, 1936, ch. 548, 49 Stat. 1508, as amended, which enacted sections 642a, 702a–1, 702a–2 to 702a–12, 702g–1, 702j–1, 702j–2, 702k–1, and 702k–2 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701c–1, 702a–1, 702a–11/2, 702a–13/4, 702a–11, 702j–1, 702k–1, 702k–2 of this title.
-

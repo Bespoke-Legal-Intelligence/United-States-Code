@@ -6,7 +6,3 @@
 
 (May 22, 1953, ch. 65, title II, §6, 67 Stat. 32.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2105 of this title.
-

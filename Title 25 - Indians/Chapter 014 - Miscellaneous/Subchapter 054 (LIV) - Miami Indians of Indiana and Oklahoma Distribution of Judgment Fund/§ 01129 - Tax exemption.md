@@ -8,7 +8,3 @@ None of the funds distributed under the provisions of sections 1122 to 1130 of t
 
 Section was not enacted as part of Pub. L. 89–659, Oct. 14, 1966, 80 Stat. 909, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1122, 1123, 1130 of this title.
-

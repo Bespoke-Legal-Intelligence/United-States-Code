@@ -6,7 +6,7 @@ As used in this subchapter—
 
 &emsp;(2) “chaplain” includes any individual serving as an officially recognized or designated member of a legally organized volunteer fire department or legally organized police department, or an officially recognized or designated public employee of a legally organized fire or police department who was responding to a fire, rescue, or police emergency;
 
-&emsp;(3) “child” means any natural, illegitimate, adopted, or posthumous child or stepchild of adeceased public safety officer who, at the time of the public safety officer's death, is—
+&emsp;(3) “child” means any natural, illegitimate, adopted, or posthumous child or stepchild of a deceased public safety officer who, at the time of the public safety officer's death, is—
 
 &emsp;&emsp;(i) 18 years of age or under;
 
@@ -34,7 +34,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(B) an employee of the Federal Emergency Management Agency who is performing official duties of the Agency in an area, if those official duties—
 
-&emsp;&emsp;&emsp;(i) are related to a major disaster or emergency that has been, or is later, declared to exist with respect to the area under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); and
+&emsp;&emsp;&emsp;(i) are related to a major disaster or emergency that has been, or is later, declared to exist with respect to the areaunder the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); and
 
 &emsp;&emsp;&emsp;(ii) are determined by the Director of the Federal Emergency Management Agency to be hazardous duties; or
 
@@ -107,8 +107,4 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3796c–1 of this title; title 26 section 101; title 28 section 1863.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—ESTABLISHMENT BY NATIONAL BANKS OF FOREIGN BRANCHES AND INVESTMENTS IN BANKS DOING FOREIGN BUSINESS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 24a, 36, 461, 618, 619, 1786, 1818, 1841, 1843, 2804, 3101, 3204, 3902, 4402 of this title; title 7 section 27; title 15 sections 57a, 78c, 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6505, 6805, 6822, 7706j; title 18 sections 20, 655, 656, 1004, 1005, 1014, 1030, 1906; title 31 section 5313.
-
 
 ---
 

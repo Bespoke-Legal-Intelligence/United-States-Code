@@ -14,7 +14,7 @@ The Secretary may approve an application submitted under subsection (a) of this 
 
 &emsp;(3) the applicant has the managerial and technical capability to carry out the project for which the application is made; and
 
-&emsp;(4) the facilities and equipment acquired or developed pursuant to the application will be used substantially for the transmission, distribution, and delivery of health, education, or public or social service information.
+&emsp;(4) the facilities and equipment acquired or developed pursuant to the application will beused substantially for the transmission, distribution, and delivery of health, education, or public or social service information.
 
 #### (c) Contract with applicant
 

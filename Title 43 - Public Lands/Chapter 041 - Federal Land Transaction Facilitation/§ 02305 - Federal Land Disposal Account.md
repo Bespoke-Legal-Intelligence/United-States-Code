@@ -86,9 +86,5 @@ This chapter, referred to in subsec. (a), was in the original “this Act” and
 
 The Land and Water Conservation Fund Act, referred to in subsec. (e), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of Title 16 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2303, 2304 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

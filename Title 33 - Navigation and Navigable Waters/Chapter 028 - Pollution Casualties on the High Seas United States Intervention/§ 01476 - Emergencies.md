@@ -4,7 +4,3 @@ In cases of extreme urgency requiring measures to be taken immediately, the Secr
 
 (Pub. L. 93–248, §7, Feb. 5, 1974, 88 Stat. 9.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1486 of this title; title 26 section 9509.
-

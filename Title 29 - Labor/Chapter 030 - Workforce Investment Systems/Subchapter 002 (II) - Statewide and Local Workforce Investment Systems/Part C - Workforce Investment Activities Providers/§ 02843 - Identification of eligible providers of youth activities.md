@@ -4,7 +4,3 @@ From funds allocated under paragraph (2)(A) or (3) of section 2853(b) of this ti
 
 (Pub. L. 105–220, title I, §123, Aug. 7, 1998, 112 Stat. 971.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2801, 2832, 2854, 2864 of this title.
-

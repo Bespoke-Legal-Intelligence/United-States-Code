@@ -8,7 +8,3 @@ The Secretary of the Interior is authorized, under such regulations as he may pr
 
 Certain funds to be administered as a single Indian Revolving Loan Fund after Apr. 12, 1974, see section 1461 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1461 of this title.
-

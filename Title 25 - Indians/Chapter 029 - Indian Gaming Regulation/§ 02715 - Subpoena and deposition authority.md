@@ -14,7 +14,7 @@ Any court of the United States within the jurisdiction of which an inquiry is ca
 
 #### (d) Depositions; notice
 
-A Commissioner may order testimony to be taken by deposition in any proceeding or investigation pending before the Commission at any stage of such proceeding or investigation. Such depositions may be taken before any person designated by the Commission and having power to administer oaths. Reasonable notice must first be given to the Commission in writing by the party or his attorney proposing to take such deposition, and, in cases in which a Commissioner proposes to take a deposition, reasonable notice must be given. The notice shall state the name of the witness and the time and place of the taking of his deposition. Any person may be compelled to appear and depose, and to produce books, papers, or documents, in the same manner as witnesses may be compelled to appear and testify and produce like documentary evidence before the Commission, as hereinbefore provided.
+A Commissioner may order testimony to be taken by deposition in any proceeding or investigation pending before the Commission at any stage of such proceeding or investigation. Such depositions may be taken before any person designated by the Commission and having power to administer oaths. Reasonable notice must first be given to the Commission in writing by the party or his attorney proposing to take such deposition, and, in cases in which a Commissioner proposes to take a deposition, reasonable notice must be given. The notice shall state the name of the witness and the time and place of the taking of his deposition. Any person may be compelled to appear and depose, and to produce books, papers, or documents, in the same manner as witnesses may be compelled to appear andtestify and produce like documentary evidence before the Commission, as hereinbefore provided.
 
 #### (e) Oath or affirmation required
 
@@ -25,8 +25,4 @@ Every person deposing as herein provided shall be cautioned and shall be require
 Witnesses whose depositions are taken as authorized in this section, and the persons taking the same, shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 
 (Pub. L. 100–497, §16, Oct. 17, 1988, 102 Stat. 2483.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2706 of this title.
 

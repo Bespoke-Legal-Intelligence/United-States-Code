@@ -4,7 +4,3 @@ Where the Secretary determines that the making of appropriate reports by uninsur
 
 (Pub. L. 91–508, title I, §122, Oct. 26, 1970, 84 Stat. 1116.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1951 of this title.
-

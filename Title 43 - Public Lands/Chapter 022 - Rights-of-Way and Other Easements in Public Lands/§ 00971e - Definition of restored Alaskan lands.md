@@ -8,7 +8,3 @@ For the purposes of sections 971a to 971e of this title, the words “restored l
 
 Section was formerly classified to section 420d of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 971c, 971d of this title.
-

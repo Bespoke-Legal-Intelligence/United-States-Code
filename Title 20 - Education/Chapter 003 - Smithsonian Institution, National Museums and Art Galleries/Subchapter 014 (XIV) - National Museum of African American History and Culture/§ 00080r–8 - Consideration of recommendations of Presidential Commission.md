@@ -8,7 +8,3 @@ In carrying out their duties under this subchapter, the Council and the Board of
 
 The National Museum of African American History and Culture Plan for Action Presidential Commission Act of 2001, referred to in text, is Pub. L. 107–106, Dec. 28, 2001, 115 Stat. 1009, which is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80r–6 of this title.
-

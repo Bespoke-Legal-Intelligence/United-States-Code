@@ -8,7 +8,7 @@
 
 #### (2) Noncompliance
 
-&emsp;The Secretary may, after providing notice and an opportunity for a hearing (includingthe opportunity to provide evidence as described in paragraph (3)), terminate a grant of flexibility authority for a State if there is evidence that the State educational agency involved has failed to comply with the terms of the grant of authority.
+&emsp;The Secretary may, after providing notice and an opportunity for a hearing (including the opportunity to provide evidence as described in paragraph (3)), terminate a grant of flexibility authority for a State if there is evidence that the State educational agency involved has failed to comply with the terms of the grant of authority.
 
 #### (3) Evidence
 
@@ -25,8 +25,4 @@
 &emsp;Beginning on the date on which such term ends, the State educational agency, and the local educational agencies with which the State educational agency has entered into performance agreements, shall be required to comply with each of the program requirements in effect on such date for each program that was included in the grant of authority.
 
 (Pub. L. 89–10, title VI, §6143, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1883.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7315c of this title.
 

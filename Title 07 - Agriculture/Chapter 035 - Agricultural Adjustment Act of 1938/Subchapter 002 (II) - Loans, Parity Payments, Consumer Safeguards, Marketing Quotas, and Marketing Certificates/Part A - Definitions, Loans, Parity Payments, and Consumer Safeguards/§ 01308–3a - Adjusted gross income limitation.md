@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, an individual or entity shall not be eligible to receive any benefit described in paragraph (2)during a crop year if the average adjusted gross income of the individual or entity exceeds $2,500,000, unless not less than 75 percent of the average adjusted gross income of the individual or entity is derived from farming, ranching, or forestry operations, as determined by the Secretary.
+&emsp;Notwithstanding any other provision of law, an individual or entity shall not be eligible to receive any benefit described in paragraph (2) during a crop year if the average adjusted gross income of the individual or entity exceeds $2,500,000, unless not less than 75 percent of the average adjusted gross income of the individual or entity is derived from farming, ranching, or forestry operations, as determined by the Secretary.
 
 #### (2) Covered benefits
 
@@ -57,8 +57,4 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 #### Prior Provisions
 
 A prior section 1001D of Pub. L. 99–198 was renumbered section 1001E and is classified to section 1308–4 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7996 of this title; title 19 section 2401e.
 

@@ -16,7 +16,3 @@ Section was formerly classified to section 287c of this title prior to renumberi
 
 Section 1512 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of National Institute of Nursing Research, to enter into a contract with a public or nonprofit private entity to conduct a study for purpose of determining whether and to what extent there is a need for an increase in the number of nurses in hospitals and nursing homes in order to promote the quality of patient care and reduce the incidence among nurses of work-related injuries and stress and to complete such study and submit a report to Congress not later than 18 months after June 10, 1993.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 285q–1 of this title.
-

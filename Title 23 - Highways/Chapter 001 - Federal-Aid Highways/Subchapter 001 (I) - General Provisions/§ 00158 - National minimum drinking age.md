@@ -60,7 +60,3 @@ Subsec. (c). Pub. L. 99–272, §4104(d)(6), added subsection heading.
 
 Subsec. (c)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 154, 410 of this title; title 49 section 31301.
-

@@ -10,10 +10,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 15 section 2225a; title 19 section 2571.
-
 <i><sup>1</sup></i><i> Pub. L. 90–83 added section 500 to chapter 5 without making a corresponding change in Part analysis.</i>
 
 <i><sup>2</sup></i><i> Editorially supplied. Chapter 6 added by Pub. L. 96–354 without a corresponding amendment of Part analysis.</i>

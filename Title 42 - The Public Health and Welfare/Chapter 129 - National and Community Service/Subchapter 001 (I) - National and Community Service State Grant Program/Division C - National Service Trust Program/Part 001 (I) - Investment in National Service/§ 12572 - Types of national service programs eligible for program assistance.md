@@ -48,7 +48,7 @@ The recipient of a grant under section 12571(a) of this title and each Federal a
 
 &emsp;&emsp;(A) as teachers, nurses and other health care providers, police officers, early childhood development staff, engineers, or other professionals providing service to meet educational, human, environmental, or public safety needs in communities with an inadequate number of such professionals;
 
-&emsp;&emsp;(B) that may include a salary in excess of the maximum living allowance authorized in subsection (a)(3) of section 12594 of this title, as provided in subsection (c) of such section; and
+&emsp;&emsp;(B) that may include a salary in excess of the maximum living allowance authorized insubsection (a)(3) of section 12594 of this title, as provided in subsection (c) of such section; and
 
 &emsp;&emsp;(C) that are sponsored by public or private nonprofit employers who agree to pay 100 percent of the salaries and benefits (other than any national service educational award under division D of this subchapter) of the participants.
 
@@ -110,7 +110,7 @@ The recipient of a grant under section 12571(a) of this title and each Federal a
 
 #### (B) By States
 
-&emsp;&emsp;Consistent with paragraph (4), States shall establish, and through the national service plan process described in section 12638(e)(1) of this title, periodically alter priorities as appropriate regarding the national service programs to be assisted under section 12581(a)(1) of this title. The State priorities shall be subject to Corporation review as part of the application process under section 12582 of this title.
+&emsp;&emsp;Consistent with paragraph (4), States shall establish, and through the national service plan process described in section 12638(e)(1) of this title, periodically alter priorities as appropriate regarding the national serviceprograms to be assisted under section 12581(a)(1) of this title. The State priorities shall be subject to Corporation review as part of the application process under section 12582 of this title.
 
 #### (2) Notice to applicants
 
@@ -147,8 +147,4 @@ This chapter, referred to in subsec. (c)(1), was in the original “this Act”,
 A prior section 12572, Pub. L. 101–610, title I, §142, Nov. 16, 1990, 104 Stat. 3150, related to criteria and requirements for awarding grants for national and community service programs, prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, §102(a).
 
 A prior section 122 of Pub. L. 101–610 was renumbered section 199B, and is classified to section 12655a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12511, 12571, 12573, 12576, 12582, 12585, 12591, 12594, 12602, 12638, 12651d of this title.
 

@@ -1,6 +1,6 @@
 ### §6303. Boxing matches in States without boxing commissions
 
-(a) No person may arrange, promote, organize, produce, or fight in a professional boxing matchheld in a State that does not have a boxing commission unless the match is supervised by a boxing commission from another State and subject to the most recent version of the recommended regulatory guidelines certified and published by the Association of Boxing Commissions as well as any additional relevant professional boxing regulations and requirements of such other State.
+(a) No person may arrange, promote, organize, produce, or fight in a professional boxing match held in a State that does not have a boxing commission unless the match is supervised by a boxing commission from another State and subject to the most recent version of the recommended regulatory guidelines certified and published by the Association of Boxing Commissions as well as any additional relevant professional boxing regulations and requirements of such other State.
 
 (b) For the purpose of this chapter, if no State commission is available to supervise a boxing match according to subsection (a) of this section, then—
 
@@ -13,8 +13,4 @@
 #### Amendments
 
 2000—Pub. L. 106–210 designated existing provisions as subsec. (a) and added subsec. (b).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6308, 6310 of this title.
 

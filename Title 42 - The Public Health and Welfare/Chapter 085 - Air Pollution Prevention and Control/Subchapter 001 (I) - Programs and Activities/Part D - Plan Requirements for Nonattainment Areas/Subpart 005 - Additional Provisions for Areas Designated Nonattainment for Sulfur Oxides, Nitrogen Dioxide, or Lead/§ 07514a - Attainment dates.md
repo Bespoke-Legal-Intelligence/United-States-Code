@@ -14,7 +14,3 @@ Implementation plans for nonattainment areas for sulfur oxides or nitrogen dioxi
 
 (July 14, 1955, ch. 360, title I, §192, as added Pub. L. 101–549, title I, §106, Nov. 15, 1990, 104 Stat. 2463.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7514 of this title.
-

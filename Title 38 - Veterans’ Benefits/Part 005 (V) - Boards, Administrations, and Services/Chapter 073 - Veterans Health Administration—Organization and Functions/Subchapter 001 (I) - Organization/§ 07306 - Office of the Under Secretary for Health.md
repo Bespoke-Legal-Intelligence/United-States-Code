@@ -28,7 +28,7 @@
 
 &emsp;(2) one shall be a qualified doctor of dental surgery or dental medicine who shall be directly responsible to the Under Secretary for Health for the operation of the Dental Service; and
 
-&emsp;(3) one shall be a qualified physician trained in, or having suitable extensive experience in, geriatrics who shall be responsible to the Under Secretary for Health for evaluating all research, educational, and clinical health-care programs carried out in the Administration in the field of geriatrics and who shall serve as the principal advisor to the Under Secretary for Health with respect to such programs.
+&emsp;(3) one shall be a qualified physician trained in, or having suitable extensive experience in, geriatrics who shall be responsible to the Under Secretary for Health for evaluating allresearch, educational, and clinical health-care programs carried out in the Administration in the field of geriatrics and who shall serve as the principal advisor to the Under Secretary for Health with respect to such programs.
 
 (c) Appointments under subsection (a) shall be made by the Secretary. In the case of appointments under paragraphs (1), (2), (3), (4), and (8) of that subsection, such appointments shall be made upon the recommendation of the Under Secretary for Health.
 
@@ -89,8 +89,4 @@ Subsec. (b)(2), (3). Pub. L. 102–405, §302(c)(1), substituted “Under Secret
 Subsec. (c). Pub. L. 102–585, §511(b)(2), substituted “(4), and (7)” for “and (4)”.
 
 Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7314, 7401, 7404, 7405, 7408, 7424, 7425 of this title.
 

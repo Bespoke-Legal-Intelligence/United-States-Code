@@ -26,7 +26,3 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §601(e); added Dec. 31, 1970, Pu
 
 In this section, before clause (1), the words “and from time to time revise” are omitted as surplus. In clause (1), the words “establishing” and “the purpose of” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44701, 44711, 45302, 46310, 47531 of this title.
-

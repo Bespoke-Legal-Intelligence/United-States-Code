@@ -6,7 +6,7 @@ General Penalty and Civil Actions To Collect.—(1) A person that violates secti
 
 (2) The Secretary of Transportation imposes a civil penalty under this subsection. The Secretary may compromise the amount of a penalty.
 
-(3) In determining the amount of a civil penalty or compromise under this subsection, the Secretary shall consider the size of the person's business and the gravity of the violation.
+(3) In determining the amount of a civil penalty or compromise under this subsection, theSecretary shall consider the size of the person's business and the gravity of the violation.
 
 (4) The Attorney General shall bring a civil action in a United States district court to collect a civil penalty imposed under this subsection.
 
@@ -97,8 +97,4 @@ In subsection (a)(5), the words “United States district court” are added for
 In subsection (c)(1), the words “The Attorney General may bring a civil action” are substituted for “Upon petition by the Attorney General” for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The words “on behalf of the United States” are omitted as surplus. The words “shall have jurisdiction” are omitted because of 28:1331. The words “for cause shown and subject to the provisions of rule 65(a) and (b) of the Federal Rules of Civil Procedure” are omitted as surplus because the rules apply in the absence of an exception from them. The word “enjoin” is substituted for “restrain” for consistency in the revised title.
 
 In subsection (d), the words “the defendant may demand a jury trial” are substituted for “trial shall be by the court, or, upon demand of the accused, by a jury” to eliminate unnecessary words and for consistency in the revised title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 33103 of this title.
 

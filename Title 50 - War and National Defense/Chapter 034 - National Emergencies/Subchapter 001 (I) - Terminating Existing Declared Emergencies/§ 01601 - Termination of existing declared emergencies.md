@@ -26,7 +26,3 @@ Section 501(h) of Pub. L. 94–412 provided that: “This section \[amending sec
 
 &emsp;“(3) any rights or duties that matured or penalties that were incurred prior to repeal.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1706 of this title.
-

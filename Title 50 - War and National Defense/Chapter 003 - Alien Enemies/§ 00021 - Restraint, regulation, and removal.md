@@ -38,7 +38,3 @@ The following proclamations under this section were issued during World War II:
 
 Proclamations issued under this chapter during the years 1917 and 1918 will be found in 40 Stat. 1651, 1716, 1730, and 1772.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 22 of this title; sections 9, 34, 1981, 1982 of Appendix to this title; title 5 section 8332.
-

@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to construct, operate, and maintain 
 
 (Aug. 27, 1954, ch. 1012, §2, 68 Stat. 879.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 695f, 695g, 695h, 695i, 695j, 695j–1 of this title.
-

@@ -6,7 +6,7 @@ The Secretary is authorized, upon such terms and conditions (substantially ident
 
 #### (b) Scope of individual loans and insurance of loans; condominium requirements
 
-Any loan made or insured under subsection (a) of this section shall cover a one-family dwellingunit in a condominium, and shall be subject to such provisions as the Secretary determines to be necessary for the maintenance of the common areas and facilities of the condominium project and to such additional requirements as the Secretary deems appropriate for the protection of the consumer.
+Any loan made or insured under subsection (a) of this section shall cover a one-family dwelling unit in a condominium, and shall be subject to such provisions as the Secretary determines to be necessary for the maintenance of the common areas and facilities of the condominium project and to such additional requirements as the Secretary deems appropriate for the protection of the consumer.
 
 #### (c) Blanket loans and insurance of loans; terms and conditions; certification by borrower of future ownership of multifamily project; maximum amount of principal obligation
 
@@ -23,8 +23,4 @@ As used in this section, the term “condominium” means a multi-unit housing p
 1988—Subsecs. (a), (c). Pub. L. 100–242 struck out “and” after “is authorized,”.
 
 1983—Subsecs. (a), (c). Pub. L. 98–181 struck out “in his discretion” after “Secretary is authorized,”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1487, 1490a of this title.
 

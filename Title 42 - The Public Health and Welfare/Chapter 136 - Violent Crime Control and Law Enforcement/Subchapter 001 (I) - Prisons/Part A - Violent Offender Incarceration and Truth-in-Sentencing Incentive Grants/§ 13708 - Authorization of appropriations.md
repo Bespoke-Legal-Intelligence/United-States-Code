@@ -62,9 +62,5 @@
 
 A prior section 13708, Pub. L. 103–322, title II, §20108, Sept. 13, 1994, 108 Stat. 1818, defined terms in this part prior to the general amendment of this part by Pub. L. 104–134.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13709, 13710, 13711, 14214 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

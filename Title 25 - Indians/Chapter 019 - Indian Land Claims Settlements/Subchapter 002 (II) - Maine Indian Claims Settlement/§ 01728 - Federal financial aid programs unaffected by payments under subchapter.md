@@ -14,7 +14,3 @@ The availability of funds or distribution of funds pursuant to section 1724 of t
 
 (Pub. L. 96–420, §9, Oct. 10, 1980, 94 Stat. 1795.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13d of this title.
-

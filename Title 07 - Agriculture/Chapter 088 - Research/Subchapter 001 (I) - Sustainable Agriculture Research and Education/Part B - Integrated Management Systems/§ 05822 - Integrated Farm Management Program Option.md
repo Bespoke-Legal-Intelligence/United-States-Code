@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Agriculture (hereafter in this section referred to as the “Secretary”) shall, by regulation, establish a voluntary program, to beknown as the “Integrated Farm Management Program Option” (hereafter referred to in this section as the “program”), designed to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans by reducing farm program barriers to resource stewardship practices and systems.
+The Secretary of Agriculture (hereafter in this section referred to as the “Secretary”) shall, by regulation, establish a voluntary program, to be known as the “Integrated Farm Management Program Option” (hereafter referred to in this section as the “program”), designed to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans by reducing farm program barriers to resource stewardship practices and systems.
 
 #### (b) Definitions
 
@@ -84,7 +84,7 @@ Each plan approved by the Secretary shall—
 
 #### (B) Technical assistance
 
-&emsp;&emsp;In administering the program, the Secretary, in consultation with the local conservation districts, and any State or local authorities deemed appropriate by the Secretary, shall provide technical assistance to producers in developing and implementing plans, evaluating the effectiveness of plans,and assessing the costs and benefits of farming operations and practices. The plans may draw on handbooks and technical guides and may also include other practices appropriate to the particular circumstances of the producer and the purposes of the program.
+&emsp;&emsp;In administering the program, the Secretary, in consultation with the local conservation districts, and any State or local authorities deemed appropriate by the Secretary, shall provide technical assistance to producers in developing and implementing plans, evaluating the effectiveness of plans, and assessing the costs and benefits of farming operations and practices. The plans may draw on handbooks and technical guides and may also include other practices appropriate to the particular circumstances of the producer and the purposes of the program.
 
 #### (C) Flexibility
 
@@ -102,7 +102,7 @@ Each plan approved by the Secretary shall—
 
 #### (E) Displacement
 
-&emsp;&emsp;The Secretary shall not approve any plan that will result in the involuntary displacement of farm tenants or lessees by landowners through the removal of substantial portions of the farm from production of a commodity. In the case of any tenant or lessee who has rented or leased the farm (with or without a written option for annual renewal or periodic renewals) for a period of two or more of the immediately preceding years, the Secretary shall consider the refusal by a landlord, without reasonable cause other than simply for the purpose of enrollment in the program, to renew such rental or lease as an involuntary displacement in the absence of a written consent to such nonrenewal by the tenant or lessee.
+&emsp;&emsp;The Secretary shall not approve any plan that will result in the involuntary displacement of farm tenants or lessees by landowners through the removal of substantial portions of the farm from production of a commodity. In the case of any tenant or lessee who has rented or leased the farm (with or without a written option for annual renewal or periodic renewals) for a period of two or more of the immediately precedingyears, the Secretary shall consider the refusal by a landlord, without reasonable cause other than simply for the purpose of enrollment in the program, to renew such rental or lease as an involuntary displacement in the absence of a written consent to such nonrenewal by the tenant or lessee.
 
 #### (2) Certification
 
@@ -200,5 +200,5 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as a note under section 511r of this title.
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under section 940d of this title.
 

@@ -18,7 +18,7 @@ Section was classified to section 933 of Title 5 prior to the general revision a
 
 #### Amendments
 
-<b>1949</b>—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Repeals
 

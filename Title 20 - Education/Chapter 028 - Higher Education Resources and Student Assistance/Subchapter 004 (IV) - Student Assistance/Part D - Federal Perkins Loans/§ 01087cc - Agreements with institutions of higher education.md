@@ -30,7 +30,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 &emsp;(4) provide that where a note or written agreement evidencing a loan has been in default despite due diligence on the part of the institution in attempting collection thereon—
 
-&emsp;&emsp;(A) if the institution has knowingly failed to maintain an acceptable collection record with respect to such loan, as determined by the Secretary in accordance with criteria established by regulation, the Secretary may—
+&emsp;&emsp;(A) if the institution has knowingly failed to maintain an acceptable collection record with respect to such loan, as determined bythe Secretary in accordance with criteria established by regulation, the Secretary may—
 
 &emsp;&emsp;&emsp;(i) require the institution to assign such note or agreement to the Secretary, without recompense; and
 
@@ -177,10 +177,6 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
 Subsection (a)(9) of this section applicable only to loans made for periods of enrollment beginning on or after July 1, 1987, see section 405(b) of Pub. L. 99–498, set out as a note under section 1087dd of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1087aa, 1087cc–1, 1087dd, 1087gg, 1091a, 1096 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

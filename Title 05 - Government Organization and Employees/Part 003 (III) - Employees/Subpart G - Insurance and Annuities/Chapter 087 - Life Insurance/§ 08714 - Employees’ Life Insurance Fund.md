@@ -56,7 +56,3 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 Pub. L. 103–409, §4, Oct. 25, 1994, 108 Stat. 4232, provided that: “Notwithstanding section 8714(a)(1) of title 5, United States Code, the Office of Personnel Management shall retain in the Employees’ Life Insurance Fund such portion of premium payments otherwise due as will, no later than September 30, 1995, permanently reduce the contingency reserve established under the third sentence of section 8712 of such title 5 by an amount equal to the amount by which payments from the Employees’ Life Insurance Fund during the fiscal year ending September 30, 1995, exceed the payments that would have been paid had the amendments made by this Act \[enacting section 8714d of this title\] not been enacted.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8714a, 8714b, 8714c of this title; title 20 section 125; title 25 section 450i.
-

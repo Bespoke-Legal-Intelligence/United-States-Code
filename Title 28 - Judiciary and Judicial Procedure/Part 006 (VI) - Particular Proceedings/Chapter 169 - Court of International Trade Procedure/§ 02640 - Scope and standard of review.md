@@ -14,7 +14,7 @@
 
 &emsp;(6) Civil actions commenced under section 1582 of this title.
 
-(b) In any civil action commenced in the Court of International Trade under section 516A of the Tariff Act of 1930, the court shall review the matter as specified in subsection (b) of such section.
+(b) In any civil action commenced in the Court of International Trade under section 516A of theTariff Act of 1930, the court shall review the matter as specified in subsection (b) of such section.
 
 (c) In any civil action commenced in the Court of International Trade to review any final determination of the Secretary of Labor under section 223 of the Trade Act of 1974 or any final determination of the Secretary of Commerce under section 251 or section 271 of such Act, the court shall review the matter as specified in section 284 of such Act.
 

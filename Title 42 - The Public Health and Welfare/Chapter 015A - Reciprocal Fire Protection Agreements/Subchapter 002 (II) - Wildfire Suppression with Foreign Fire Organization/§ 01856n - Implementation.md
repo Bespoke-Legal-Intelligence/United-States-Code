@@ -34,7 +34,3 @@ Any service performed by any employee of the United States under an agreement or
 
 (Pub. L. 100–428, §3, Sept. 9, 1988, 102 Stat. 1615.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1856<i>o</i>, 1856p of this title.
-

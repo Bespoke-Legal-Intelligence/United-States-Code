@@ -58,7 +58,3 @@
 
 1994—Subsecs. (a)(1), (b)(2)(A) to (C). Pub. L. 103–354 substituted “Secretary” for “Administrator”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 912, 940c–1, 6944 of this title.
-

@@ -18,7 +18,7 @@ The Mediation Board may (1) subject to the provisions of the civil service laws,
 
 #### Fourth. Delegation of powers and duties
 
-The Mediation Board is authorized by its order to assign, or refer, any portion of its work, business, or functions arising under this chapter or any other Act of Congress, or referred to it by Congress or either branch thereof, to an individual member of the Board or to an employee or employees of the Board to be designated by such order for action thereon, and by its order at any time to amend, modify, supplement, or rescind any such assignment or reference. All such orders shall take effect forthwith and remain in effect until otherwise ordered by the Board. In conformity with and subject to the order or orders of the Mediation Board in the premises, \[and\] such individual member of the Board or employee designated shall have power and authority to act as to any of said work, business, or functions so assigned or referred to him for action by the Board.
+The Mediation Board is authorized by its order to assign, or refer, any portion of its work, business, or functions arising under this chapter or any other Act of Congress, or referred to it by Congress or either branch thereof, to an individual member of the Board or to an employee or employees of the Board to be designated by such order for action thereon, and by its order at anytime to amend, modify, supplement, or rescind any such assignment or reference. All such orders shall take effect forthwith and remain in effect until otherwise ordered by the Board. In conformity with and subject to the order or orders of the Mediation Board in the premises, \[and\] such individual member of the Board or employee designated shall have power and authority to act as to any of said work, business, or functions so assigned or referred to him for action by the Board.
 
 #### Fifth. Transfer of officers and employees of Board of Mediation; transfer of appropriation
 
@@ -57,8 +57,4 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in par. Second relating to the requirement that the Board make an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 6th item on page 184 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 157 of this title.
 

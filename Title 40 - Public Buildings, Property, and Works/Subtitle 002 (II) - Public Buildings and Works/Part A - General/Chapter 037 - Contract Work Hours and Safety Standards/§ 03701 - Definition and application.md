@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this chapter, the term “Federal Government” has the same meaning that the term “United States” had in the Contract Work Hours and Safety Standards Act (Public Law 87–581, 76 Stat. 357).
+Definition.—In this chapter, the term “Federal Government” has the same meaningthat the term “United States” had in the Contract Work Hours and Safety Standards Act (Public Law 87–581, 76 Stat. 357).
 
 (b)
 
@@ -107,10 +107,6 @@ In subsection (b)(3)(A)(ii), the words “Walsh-Healey Act” are substituted fo
 The Contract Work Hours and Safety Standards Act, referred to in subsec. (a), is title I of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 357, as amended, which was classified generally to subchapter II (§327 et seq.) of chapter 5 of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as this chapter by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 101 of title I of Pub. L. 87–581 was classified to section 327 of former Title 40 and was repealed and not reenacted by Pub. L. 107–217. For complete classification of this Act to the Code, see Tables.
 
 The Walsh-Healey Act, referred to in subsec. (b)(3)(A)(ii), is act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, which is classified generally to sections 35 to 45 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3702, 3703, 3704 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Section 3702”.</i>
 

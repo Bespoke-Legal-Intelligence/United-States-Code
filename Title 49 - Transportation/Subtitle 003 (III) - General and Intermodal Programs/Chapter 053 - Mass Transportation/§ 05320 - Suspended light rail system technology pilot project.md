@@ -26,7 +26,7 @@ Competition.—(1) The Secretary of Transportation shall conduct a national comp
 
 &emsp;(B) maximizing potential contributions to the cost of the project by State, local, and private sector entities, including donation of in-kind services and materials.
 
-(2) The Secretary shall award a grant to each finalist to be used to participate in the final phase of the competition under procedures the Secretary prescribes. A grant may not be more than 80 percent of the cost of participating. A finalist may not receive more than one-third of the amount made available under subsection (h)(1)(A) of this section.
+(2) The Secretary shall award a grant to each finalist to be used to participate in the final phase of the competition under procedures theSecretary prescribes. A grant may not be more than 80 percent of the cost of participating. A finalist may not receive more than one-third of the amount made available under subsection (h)(1)(A) of this section.
 
 (3) Not later than July 15, 1992, the Secretary shall select from among the 3 finalists a public entity with which to make a full funding grant agreement.
 
@@ -54,7 +54,7 @@ Option Not To Construct and Reawarding the Grant.—(1) Not later than 30 days a
 
 &emsp;(B) remaining amounts received shall be returned to the Secretary and credited to the Mass Transit Account of the Highway Trust Fund; and
 
-&emsp;(C) the Secretary shall use the credited amount and other amounts to be providedunder this section to award to another entity selected under subsection (c)(1) of this section a grant under section 5309 of this title to construct the project.
+&emsp;(C) the Secretary shall use the credited amount and other amounts to be provided under this section to award to another entity selected under subsection (c)(1) of this section a grant under section 5309 of this title to construct the project.
 
 (2) Not later than 60 days after a decision is made under paragraph (1) of this subsection, a grant shall be awarded under paragraph (1)(C) of this subsection after completing a competitive process for selecting the grant recipient.
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary shall not approve the enrollment of an eligible veteran or eligible person in any course offered by an institution which utilizes advertising, sales, or enrollment practices of any type which are erroneous, deceptive, or misleading either by actual statement, omission, or intimation.
 
-(b) To ensure compliance with this section, any institution offering courses approved for the enrollment of eligible persons or veterans shall maintain a complete record of all advertising, sales, or enrollment materials (and copies thereof) utilized by or on behalf of the institution during the preceding 12-month period. Such record shall be available for inspection by the State approving agency or the Secretary. Such materials shall include but are not limited to any direct mail pieces, brochures, printed literature used by sales persons, films, video tapes, and audio tapes disseminated through broadcast media, material disseminated through print media, tear sheets, leaflets, handbills, fliers, and any sales or recruitment manuals used to instruct sales personnel, agents, or representatives of such institution.
+(b) To ensure compliance with this section, any institution offering courses approved for the enrollment of eligible persons or veterans shall maintain a complete record of all advertising, sales, or enrollment materials (and copies thereof) utilized by or on behalf of the institution during the preceding 12-month period. Such record shall be available for inspection by the State approving agency or the Secretary. Such materials shall include but are not limited to any direct mail pieces, brochures, printed literature used by sales persons, films, video tapes, and audio tapes disseminated through broadcast media, material disseminated through printmedia, tear sheets, leaflets, handbills, fliers, and any sales or recruitment manuals used to instruct sales personnel, agents, or representatives of such institution.
 
 (c) The Secretary shall, pursuant to section 3694 of this title, enter into an agreement with the Federal Trade Commission to utilize, where appropriate, its services and facilities, consistent with its available resources, in carrying out investigations and making the Secretary's determinations under subsection (a) of this section. Such agreement shall provide that cases arising under subsection (a) of this section or any similar matters with respect to any of the requirements of this chapter or chapters 34 and 35 of this title shall be referred to the Federal Trade Commission which in its discretion will conduct an investigation and make preliminary findings. The findings and results of any such investigations shall be referred to the Secretary who shall take appropriate action in such cases within ninety days after such referral.
 
@@ -31,8 +31,4 @@ Amendment by sections 512 and 513(a)(22) of Pub. L. 94–502 effective Dec. 1, 1
 #### Effective Date
 
 Section effective Dec. 3, 1974, see section 503 of Pub. L. 93–508, set out as an Effective Date of 1974 Amendment note under section 3452 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3689 of this title.
 

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title3",
- "package": "USCODE-2003-title3",
+ "package": "USCODE-2004-title3",
  "pieces": [
   {
    "id": "3_",
@@ -78,14 +78,10 @@
    "id": "3_5",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       615,
-       "[Page 3]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 3]",
+     true
     ]
    ],
    "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00005 - Determination of controversy as to appointment of electors.md",
@@ -144,10 +140,10 @@
    "marks": [
     [
      "I",
-     6,
+     10,
      [
       [
-       95,
+       93,
        "[Page 4]"
       ]
      ]
@@ -194,7 +190,7 @@
      2,
      [
       [
-       1223,
+       2208,
        "[Page 5]"
       ]
      ]
@@ -217,18 +213,11 @@
   },
   {
    "id": "3_17",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 6]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00017 - Same; limit of debate in each House.md",
    "printed_pages": [
     5,
-    6
+    5
    ]
   },
   {
@@ -236,8 +225,8 @@
    "marks": [],
    "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00018 - Same; parliamentary procedure at joint meeting.md",
    "printed_pages": [
-    6,
-    6
+    5,
+    5
    ]
   },
   {
@@ -245,27 +234,38 @@
    "marks": [
     [
      "I",
-     50,
+     2,
      [
       [
-       159,
-       "[Page 7]"
+       94,
+       "[Page 6]"
       ]
      ]
     ]
    ],
    "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00019 - Vacancy in offices of both President and Vice President; officers eligible to act.md",
    "printed_pages": [
-    6,
-    7
+    5,
+    6
    ]
   },
   {
    "id": "3_20",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       145,
+       "[Page 7]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Presidential Elections and Vacancies/§ 00020 - Resignation or refusal of office.md",
    "printed_pages": [
-    7,
+    6,
     7
    ]
   },
@@ -283,51 +283,43 @@
    "marks": [
     [
      "L",
-     52,
+     68,
      "[Page 8]",
      true
     ],
     [
      "L",
-     122,
+     148,
      "[Page 9]",
      true
     ],
     [
-     "I",
-     232,
-     [
-      [
-       431,
-       "[Page 10]"
-      ]
-     ]
+     "L",
+     262,
+     "[Page 10]",
+     true
     ],
     [
      "L",
-     316,
+     340,
      "[Page 11]",
      true
     ],
     [
-     "I",
-     388,
-     [
-      [
-       111,
-       "[Page 12]"
-      ]
-     ]
+     "L",
+     404,
+     "[Page 12]",
+     true
     ],
     [
      "L",
-     490,
+     516,
      "[Page 13]",
      true
     ],
     [
      "L",
-     570,
+     584,
      "[Page 14]",
      true
     ]
@@ -343,7 +335,7 @@
    "marks": [
     [
      "L",
-     34,
+     50,
      "[Page 15]",
      true
     ]
@@ -358,30 +350,30 @@
    "id": "3_102",
    "marks": [
     [
+     "L",
+     80,
+     "[Page 16]",
+     true
+    ],
+    [
      "I",
-     70,
+     130,
      [
       [
        439,
-       "[Page 16]"
+       "[Page 17]"
       ]
      ]
     ],
     [
      "L",
-     124,
-     "[Page 17]",
-     true
-    ],
-    [
-     "L",
-     180,
+     186,
      "[Page 18]",
      true
     ],
     [
      "L",
-     270,
+     272,
      "[Page 19]",
      true
     ]
@@ -405,24 +397,16 @@
    "id": "3_104",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       164,
-       "[Page 20]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 20]",
+     true
     ],
     [
-     "I",
-     114,
-     [
-      [
-       105,
-       "[Page 21]"
-      ]
-     ]
+     "L",
+     110,
+     "[Page 21]",
+     true
     ]
    ],
    "path": "Chapter 002 - Office and Compensation of President/§ 00104 - Salary of the Vice President.md",
@@ -435,20 +419,20 @@
    "id": "3_105",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 22]",
-     true
-    ],
-    [
      "I",
-     84,
+     20,
      [
       [
-       112,
-       "[Page 23]"
+       91,
+       "[Page 22]"
       ]
      ]
+    ],
+    [
+     "L",
+     74,
+     "[Page 23]",
+     true
     ]
    ],
    "path": "Chapter 002 - Office and Compensation of President/§ 00105 - Assistance and services for the President.md",
@@ -462,10 +446,10 @@
    "marks": [
     [
      "I",
-     40,
+     34,
      [
       [
-       110,
+       860,
        "[Page 24]"
       ]
      ]
@@ -481,14 +465,10 @@
    "id": "3_107",
    "marks": [
     [
-     "I",
+     "L",
      22,
-     [
-      [
-       142,
-       "[Page 25]"
-      ]
-     ]
+     "[Page 25]",
+     true
     ]
    ],
    "path": "Chapter 002 - Office and Compensation of President/§ 00107 - Domestic Policy Staff and Office of Administration; personnel.md",
@@ -641,14 +621,14 @@
      2,
      [
       [
-       226,
+       363,
        "[Page 31]"
       ]
      ]
     ],
     [
      "L",
-     50,
+     54,
      "[Page 32]",
      true
     ]
@@ -664,7 +644,7 @@
    "marks": [
     [
      "L",
-     24,
+     30,
      "[Page 33]",
      true
     ]
@@ -679,21 +659,17 @@
    "id": "3_204",
    "marks": [
     [
-     "I",
-     58,
-     [
-      [
-       183,
-       "[Page 34]"
-      ]
-     ]
+     "L",
+     64,
+     "[Page 34]",
+     true
     ],
     [
      "I",
-     116,
+     124,
      [
       [
-       106,
+       103,
        "[Page 35]"
       ]
      ]
@@ -736,14 +712,10 @@
    "id": "3_208",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       142,
-       "[Page 36]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 36]",
+     true
     ]
    ],
    "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00208 - Reimbursement of State and local governments.md",
@@ -763,22 +735,11 @@
   },
   {
    "id": "3_-ch4",
-   "marks": [
-    [
-     "I",
-     5,
-     [
-      [
-       43,
-       "[Page 37]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Delegation of Functions/README.md",
    "printed_pages": [
     36,
-    37
+    36
    ]
   },
   {
@@ -786,97 +747,99 @@
    "marks": [
     [
      "I",
-     46,
+     2,
      [
       [
-       113,
+       574,
+       "[Page 37]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     56,
+     [
+      [
+       107,
        "[Page 38]"
       ]
      ]
     ],
     [
      "I",
-     84,
+     90,
      [
       [
-       1346,
+       164,
        "[Page 39]"
       ]
      ]
     ],
     [
      "I",
-     140,
+     148,
      [
       [
-       112,
+       214,
        "[Page 40]"
       ]
      ]
     ],
     [
-     "I",
-     190,
-     [
-      [
-       109,
-       "[Page 41]"
-      ]
-     ]
+     "L",
+     200,
+     "[Page 41]",
+     true
     ],
     [
      "I",
-     230,
+     240,
      [
       [
-       168,
+       280,
        "[Page 42]"
       ]
      ]
     ],
     [
      "I",
-     284,
+     312,
      [
       [
-       445,
+       104,
        "[Page 43]"
       ]
      ]
     ],
     [
      "I",
-     342,
+     348,
      [
       [
-       993,
+       108,
        "[Page 44]"
       ]
      ]
     ],
     [
      "I",
-     408,
+     412,
      [
       [
-       159,
+       279,
        "[Page 45]"
       ]
      ]
     ],
     [
-     "I",
-     474,
-     [
-      [
-       327,
-       "[Page 46]"
-      ]
-     ]
+     "L",
+     480,
+     "[Page 46]",
+     true
     ],
     [
      "I",
-     520,
+     534,
      [
       [
        111,
@@ -886,13 +849,13 @@
     ],
     [
      "L",
-     570,
+     584,
      "[Page 48]",
      true
     ],
     [
      "I",
-     618,
+     632,
      [
       [
        221,
@@ -902,7 +865,7 @@
     ],
     [
      "I",
-     696,
+     710,
      [
       [
        109,
@@ -912,31 +875,43 @@
     ],
     [
      "L",
-     770,
+     784,
      "[Page 51]",
      true
     ],
     [
      "L",
-     840,
+     854,
      "[Page 52]",
      true
     ],
     [
      "I",
-     906,
+     920,
      [
       [
        104,
        "[Page 53]"
       ]
      ]
+    ],
+    [
+     "L",
+     966,
+     "[Page 54]",
+     true
+    ],
+    [
+     "L",
+     1042,
+     "[Page 55]",
+     true
     ]
    ],
    "path": "Chapter 004 - Delegation of Functions/§ 00301 - General authorization to delegate functions; publication of delegations.md",
    "printed_pages": [
-    37,
-    53
+    36,
+    55
    ]
   },
   {
@@ -944,8 +919,8 @@
    "marks": [],
    "path": "Chapter 004 - Delegation of Functions/§ 00302 - Scope of delegation of functions.md",
    "printed_pages": [
-    53,
-    53
+    55,
+    55
    ]
   },
   {
@@ -953,24 +928,17 @@
    "marks": [],
    "path": "Chapter 004 - Delegation of Functions/§ 00303 - Definitions.md",
    "printed_pages": [
-    53,
-    53
+    55,
+    55
    ]
   },
   {
    "id": "3_-ch5",
-   "marks": [
-    [
-     "L",
-     84,
-     "[Page 54]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/README.md",
    "printed_pages": [
-    53,
-    54
+    55,
+    55
    ]
   },
   {
@@ -978,37 +946,40 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 001 (I) - General Provisions/README.md",
    "printed_pages": [
-    54,
-    54
+    55,
+    55
    ]
   },
   {
    "id": "3_401",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 56]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 001 (I) - General Provisions/§ 00401 - Definitions.md",
    "printed_pages": [
-    54,
-    54
+    55,
+    56
    ]
   },
   {
    "id": "3_402",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       109,
-       "[Page 55]"
-      ]
-     ]
+     "L",
+     48,
+     "[Page 57]",
+     true
     ]
    ],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 001 (I) - General Provisions/§ 00402 - Application of laws.md",
    "printed_pages": [
-    54,
-    55
+    56,
+    57
    ]
   },
   {
@@ -1016,8 +987,8 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/README.md",
    "printed_pages": [
-    55,
-    55
+    57,
+    57
    ]
   },
   {
@@ -1025,57 +996,49 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part A - Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining…/README.md",
    "printed_pages": [
-    55,
-    55
+    57,
+    57
    ]
   },
   {
    "id": "3_411",
    "marks": [
     [
-     "I",
-     74,
-     [
-      [
-       184,
-       "[Page 56]"
-      ]
-     ]
+     "L",
+     90,
+     "[Page 58]",
+     true
     ]
    ],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part A - Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining…/§ 00411 - Rights and protections under title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the….md",
    "printed_pages": [
-    55,
-    56
+    57,
+    58
    ]
   },
   {
    "id": "3_412",
-   "marks": [
-    [
-     "I",
-     54,
-     [
-      [
-       387,
-       "[Page 57]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part A - Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining…/§ 00412 - Rights and protections under the Family and Medical Leave Act of 1993.md",
    "printed_pages": [
-    56,
-    57
+    58,
+    58
    ]
   },
   {
    "id": "3_413",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 59]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part A - Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining…/§ 00413 - Rights and protections under the Fair Labor Standards Act of 1938.md",
    "printed_pages": [
-    57,
-    57
+    58,
+    59
    ]
   },
   {
@@ -1083,53 +1046,53 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part A - Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining…/§ 00414 - Rights and protections under the Employee Polygraph Protection Act of 1988.md",
    "printed_pages": [
-    57,
-    57
+    59,
+    59
    ]
   },
   {
    "id": "3_415",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 58]",
-     true
-    ]
-   ],
-   "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part A - Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining…/§ 00415 - Rights and protections under the Worker Adjustment and Retraining Notification Act.md",
-   "printed_pages": [
-    57,
-    58
-   ]
-  },
-  {
-   "id": "3_416",
-   "marks": [
-    [
      "I",
-     38,
+     32,
      [
       [
-       229,
-       "[Page 59]"
+       86,
+       "[Page 60]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part A - Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining…/§ 00415 - Rights and protections under the Worker Adjustment and Retraining Notification Act.md",
+   "printed_pages": [
+    59,
+    60
+   ]
+  },
+  {
+   "id": "3_416",
+   "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part A - Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining…/§ 00416 - Rights and protections relating to veterans’ employment and reemployment.md",
    "printed_pages": [
-    58,
-    59
+    60,
+    60
    ]
   },
   {
    "id": "3_417",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 61]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part A - Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining…/§ 00417 - Prohibition of intimidation or reprisal.md",
    "printed_pages": [
-    59,
-    59
+    60,
+    61
    ]
   },
   {
@@ -1137,24 +1100,17 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part B - Public Access Provisions under the Americans with Disabilities Act of 1990/README.md",
    "printed_pages": [
-    59,
-    59
+    61,
+    61
    ]
   },
   {
    "id": "3_421",
-   "marks": [
-    [
-     "L",
-     44,
-     "[Page 60]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part B - Public Access Provisions under the Americans with Disabilities Act of 1990/§ 00421 - Rights and protections under the Americans with Disabilities Act of 1990.md",
    "printed_pages": [
-    59,
-    60
+    61,
+    61
    ]
   },
   {
@@ -1162,28 +1118,24 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part C - Occupational Safety and Health Act of 1970/README.md",
    "printed_pages": [
-    60,
-    60
+    61,
+    61
    ]
   },
   {
    "id": "3_425",
    "marks": [
     [
-     "I",
-     72,
-     [
-      [
-       96,
-       "[Page 61]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 62]",
+     true
     ]
    ],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part C - Occupational Safety and Health Act of 1970/§ 00425 - Rights and protections under the Occupational Safety and Health Act of 1970; procedures for remedy of violations.md",
    "printed_pages": [
-    60,
-    61
+    61,
+    62
    ]
   },
   {
@@ -1191,24 +1143,28 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part D - Labor-Management Relations/README.md",
    "printed_pages": [
-    61,
-    61
+    62,
+    62
    ]
   },
   {
    "id": "3_431",
    "marks": [
     [
-     "L",
-     78,
-     "[Page 62]",
-     true
+     "I",
+     8,
+     [
+      [
+       88,
+       "[Page 63]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part D - Labor-Management Relations/§ 00431 - Application of chapter 71 of title 5, relating to Federal service labor-management relations; procedures for remedy of violations.md",
    "printed_pages": [
-    61,
-    62
+    62,
+    63
    ]
   },
   {
@@ -1216,17 +1172,28 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part E - General/README.md",
    "printed_pages": [
-    62,
-    62
+    63,
+    63
    ]
   },
   {
    "id": "3_435",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     40,
+     [
+      [
+       348,
+       "[Page 64]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part E - General/§ 00435 - Generally applicable remedies and limitations.md",
    "printed_pages": [
-    62,
-    62
+    63,
+    64
    ]
   },
   {
@@ -1234,8 +1201,8 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 003 (III) - Administrative and Judicial Dispute Resolution Procedures/README.md",
    "printed_pages": [
-    62,
-    62
+    64,
+    64
    ]
   },
   {
@@ -1243,8 +1210,8 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 003 (III) - Administrative and Judicial Dispute Resolution Procedures/§ 00451 - Procedure for consideration of alleged violations.md",
    "printed_pages": [
-    62,
-    62
+    64,
+    64
    ]
   },
   {
@@ -1252,28 +1219,17 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 003 (III) - Administrative and Judicial Dispute Resolution Procedures/§ 00452 - Counseling and mediation.md",
    "printed_pages": [
-    62,
-    62
+    64,
+    64
    ]
   },
   {
    "id": "3_453",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       91,
-       "[Page 63]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 003 (III) - Administrative and Judicial Dispute Resolution Procedures/§ 00453 - Election of proceeding.md",
    "printed_pages": [
-    62,
-    63
+    64,
+    64
    ]
   },
   {
@@ -1281,17 +1237,28 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 003 (III) - Administrative and Judicial Dispute Resolution Procedures/§ 00454 - Appropriate agencies.md",
    "printed_pages": [
-    63,
-    63
+    64,
+    64
    ]
   },
   {
    "id": "3_455",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       283,
+       "[Page 65]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 003 (III) - Administrative and Judicial Dispute Resolution Procedures/§ 00455 - Effect of failure to issue regulations.md",
    "printed_pages": [
-    63,
-    63
+    64,
+    65
    ]
   },
   {
@@ -1299,8 +1266,8 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 003 (III) - Administrative and Judicial Dispute Resolution Procedures/§ 00456 - Confidentiality.md",
    "printed_pages": [
-    63,
-    63
+    65,
+    65
    ]
   },
   {
@@ -1308,8 +1275,8 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 004 (IV) - Effective Date/README.md",
    "printed_pages": [
-    63,
-    63
+    65,
+    65
    ]
   },
   {
@@ -1317,11 +1284,11 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 004 (IV) - Effective Date/§ 00471 - Effective date.md",
    "printed_pages": [
-    63,
-    63
+    65,
+    65
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2003-title3 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2004-title3 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 03 - The President"
 }

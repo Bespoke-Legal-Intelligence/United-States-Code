@@ -1,6 +1,6 @@
 ### §8111A. Furnishing of health-care services to members of the Armed Forces during a war or national emergency
 
-(a)(1) During and immediately following a period of war, or a period of national emergency declared by the President or the Congress that involves the use of the Armed Forces in armed conflict, the Secretary may furnish hospital care, nursing home care, and medical services to members of the Armed Forces on active duty.
+(a)(1) During and immediately following a period of war, or a period of national emergencydeclared by the President or the Congress that involves the use of the Armed Forces in armed conflict, the Secretary may furnish hospital care, nursing home care, and medical services to members of the Armed Forces on active duty.
 
 (2)(A) During and immediately following a disaster or emergency referred to in subparagraph (B), the Secretary may furnish hospital care and medical services to members of the Armed Forces on active duty responding to or involved in that disaster or emergency.
 
@@ -14,7 +14,7 @@
 
 (4) For the purposes of this section, the terms “hospital care”, “nursing home care”, and “medical services” have the meanings given such terms by sections 1701(5), 101(28), and 1701(6) of this title, respectively, and the term “medical services” includes services under sections 1782 and 1783 of this title.
 
-(b)(1) During a period in which the Secretary is authorized to furnish care and services to members of the Armed Forces under subsection (a) of this section, the Secretary, to the extent authorized by the President and subject to the availability of appropriations or reimbursements under subsection (c) of this section, may enter into contracts with private facilities forthe provision during such period by such facilities of hospital care and medical services described in paragraph (2) of this subsection.
+(b)(1) During a period in which the Secretary is authorized to furnish care and services to members of the Armed Forces under subsection (a) of this section, the Secretary, to the extent authorized by the President and subject to the availability of appropriations or reimbursements under subsection (c) of this section, may enter into contracts with private facilities for the provision during such period by such facilities of hospital care and medical services described in paragraph (2) of this subsection.
 
 (2) Hospital care and medical services referred to in paragraph (1) of this subsection are—
 
@@ -50,7 +50,7 @@ The Robert B. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 Subsec. (a)(2). Pub. L. 107–135 inserted “, and the term ‘medical services’ includes services under sections 1782 and 1783 of this title” before period at end.
 
-2000—Subsec. (f). Pub. L. 106–419 struck out subsec. (f) which read as follows: “Within thirty days after a declaration of a period of war or national emergency described in subsection (a) of this section (or as soon after the end of such thirty-day period as is reasonably practicable), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's allocation of facilities and personnel in order to provide priority hospital care, nursing home care, and medical services under this section to members of the Armed Forces. Thereafter, with respect to any fiscal year in which the authority in subsection (b) of this section to enter into contracts with private facilities has been used, the Secretary shall report within ninety days after the end of such fiscal year to those committees regarding the extent of, and the circumstances under which, such authority was used.”
+2000—Subsec. (f). Pub. L. 106–419 struck out subsec. (f) which read as follows: “Within thirty days after a declaration of a period of war or national emergency described in subsection (a) of this section (or as soon after the end of such thirty-day period as is reasonably practicable), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's allocation of facilities and personnel in order to provide priority hospital care, nursing home care, and medical servicesunder this section to members of the Armed Forces. Thereafter, with respect to any fiscal year in which the authority in subsection (b) of this section to enter into contracts with private facilities has been used, the Secretary shall report within ninety days after the end of such fiscal year to those committees regarding the extent of, and the circumstances under which, such authority was used.”
 
 1996—Subsec. (b)(2)(A). Pub. L. 104–262 substituted “subsection (a) of section 1710” for “subsection (f) of section 1712”.
 
@@ -96,15 +96,7 @@ Section 2(b) of Pub. L. 97–174 provided that: “The Congress makes the follow
 
 &emsp;“(2) The Veterans’ Administration has an extensive, comprehensive health-care system that could be used to assist the Department of Defense in caring for such personnel in such a situation.”
 
-#### Ex. Ord. No. 12751. Health Care Services for Operation Desert Storm
+#### Executive Order No. 12751
 
-Ex. Ord. No. 12751, Feb. 14, 1991, 56 F.R. 6787, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), section 5011A \[now 8111A\] of title 38 of the United States Code, and pursuant to the national emergency declared with respect to Iraq in Executive Order No. 12722 of August 2, 1990 \[50 U.S.C. 1701 note\], it is hereby ordered that, in the event that the Department of Veterans Affairs is requested by the Department of Defense to furnish care and services to members of the United States Armed Forces on active duty in Operation Desert Storm, the Secretary of Veterans Affairs may, pursuant to this order, enter into contracts with private facilities for the provision of hospital care and medical services for veterans to the fullest extent authorized by section 5011A(b)(1)–(2) \[now 8111A(b)(1)–(2)\] of title 38 of the United States Code.
-
-George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1721 of this title; title 10 section 1104.
+Ex. Ord. No. 12751, Feb. 14, 1991, 56 F.R. 6787, which related to health care services for Operation Desert Storm, was revoked by Ex. Ord. No. 13350, July 29, 2004, 69 F.R. 46055, set out as a note under section 1701 of Title 50, War and National Defense.
 

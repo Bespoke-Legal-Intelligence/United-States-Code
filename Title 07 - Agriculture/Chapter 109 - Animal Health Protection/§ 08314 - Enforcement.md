@@ -14,7 +14,7 @@
 
 #### (B) Location of production
 
-&emsp;&emsp;The attendance of any witness and production of documentary evidence relevant to the inquiry may be required from any place in the United States.
+&emsp;&emsp;The attendance of any witness and production of documentary evidence relevant tothe inquiry may be required from any place in the United States.
 
 #### (C) Enforcement
 
@@ -34,7 +34,7 @@
 
 #### (i) Witnesses
 
-&emsp;&emsp;&emsp;A witness summoned by the Secretary under this chapter shall be paid the samefees and mileage that are paid to a witness in a court of the United States.
+&emsp;&emsp;&emsp;A witness summoned by the Secretary under this chapter shall be paid the same fees and mileage that are paid to a witness in a court of the United States.
 
 #### (ii) Depositions
 
@@ -83,8 +83,4 @@ The Attorney General may—
 #### Transfer of Functions
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1907 of this title.
 

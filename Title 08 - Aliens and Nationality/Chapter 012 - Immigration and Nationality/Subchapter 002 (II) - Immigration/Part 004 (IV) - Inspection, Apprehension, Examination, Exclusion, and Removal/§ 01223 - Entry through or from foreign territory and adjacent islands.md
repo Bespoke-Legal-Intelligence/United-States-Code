@@ -2,7 +2,7 @@
 
 #### (a) Necessity of transportation contract
 
-The Attorney General shall have power to enter into contracts with transportation linesfor the inspection and admission of aliens coming to the United States from foreign territory or from adjacent islands. No such transportation line shall be allowed to land any such alien in the United States until and unless it has entered into any such contracts which may be required by the Attorney General.
+The Attorney General shall have power to enter into contracts with transportation lines for the inspection and admission of aliens coming to the United States from foreign territory or from adjacent islands. No such transportation line shall be allowed to land any such alien in the United States until and unless it has entered into any such contracts which may be required by the Attorney General.
 
 #### (b) Landing stations
 
@@ -53,8 +53,4 @@ Amendment by Pub. L. 99–653 applicable to visas issued, and admissions occurri
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1182, 1321, 1356 of this title.
 

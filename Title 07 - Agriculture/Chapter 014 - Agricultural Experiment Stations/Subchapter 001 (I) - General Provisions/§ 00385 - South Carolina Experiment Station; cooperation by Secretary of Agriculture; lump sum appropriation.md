@@ -4,7 +4,3 @@ There is authorized to be appropriated the sum of $50,000 to enable the Secretar
 
 (Mar. 3, 1927, ch. 367, §1, 44 Stat. 1397.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 385a of this title.
-

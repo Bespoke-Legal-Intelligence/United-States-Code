@@ -2,7 +2,7 @@
 
 #### (a) On-site manager requirement
 
-Before obligating any defense nuclear nonproliferation funds for a project described in subsection (b) of this section, the Secretary of Energy shall appoint one on-site manager for that project. The manager shall be appointed from among employees of the Federal Government.
+Before obligating any defense nuclear nonproliferation funds for a project described insubsection (b) of this section, the Secretary of Energy shall appoint one on-site manager for that project. The manager shall be appointed from among employees of the Federal Government.
 
 #### (b) Projects covered
 
@@ -44,7 +44,7 @@ Steps or activities referred to in subsection (c)(1) of this section are those a
 
 #### (f) Notification to Congress
 
-In any case in which the Secretary of Energy directs an on-site manager to resume UnitedStates participation in a project under subsection (c)(4) of this section, the Secretary shall concurrently notify Congress of such direction.
+In any case in which the Secretary of Energy directs an on-site manager to resume United States participation in a project under subsection (c)(4) of this section, the Secretary shall concurrently notify Congress of such direction.
 
 #### (g) Permit defined
 

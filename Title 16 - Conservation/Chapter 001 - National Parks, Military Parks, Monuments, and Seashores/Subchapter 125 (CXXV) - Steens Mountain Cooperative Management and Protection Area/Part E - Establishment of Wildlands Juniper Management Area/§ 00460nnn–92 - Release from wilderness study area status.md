@@ -4,7 +4,3 @@ The Federal lands included in the Wildlands Juniper Management Area established 
 
 (Pub. L. 106–399, title V, §502, Oct. 30, 2000, 114 Stat. 1670.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460nnn–64 of this title.
-

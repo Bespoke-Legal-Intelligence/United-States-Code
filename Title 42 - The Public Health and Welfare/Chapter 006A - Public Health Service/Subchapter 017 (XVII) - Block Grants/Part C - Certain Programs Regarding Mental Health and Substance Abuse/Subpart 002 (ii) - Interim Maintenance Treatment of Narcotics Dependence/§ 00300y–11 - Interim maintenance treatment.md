@@ -32,7 +32,7 @@ Subject to the following subsections of this section, for the purpose of reducin
 
 #### (1) In general
 
-&emsp;In carrying out the requirement established in subsection (a) of this section, the Secretary shall, after consultation with the National Commission on Acquired Immune Deficiency Syndrome, by regulation issue such conditions for treatment programs to obtain authorization from the Secretary to provide interim maintenance treatment as may be necessary to carry out the purpose described in such subsection. Such conditions shall include conditions for preventing the unauthorized use of methadone.
+&emsp;In carrying out the requirement established in subsection (a) of this section, the Secretary shall, after consultation with the NationalCommission on Acquired Immune Deficiency Syndrome, by regulation issue such conditions for treatment programs to obtain authorization from the Secretary to provide interim maintenance treatment as may be necessary to carry out the purpose described in such subsection. Such conditions shall include conditions for preventing the unauthorized use of methadone.
 
 #### (2) Counseling on HIV disease
 
@@ -88,5 +88,5 @@ Section 300y–27, act July 1, 1944, ch. 373, title XIX, §1937, as added Nov. 4
 
 #### Effective Date
 
-Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on orafter Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 

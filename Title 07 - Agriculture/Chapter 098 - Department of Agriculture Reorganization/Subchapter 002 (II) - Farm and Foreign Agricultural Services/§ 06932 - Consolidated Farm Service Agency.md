@@ -100,7 +100,3 @@ Subsec. (b)(4). Pub. L. 104–127, §336(a)(2)(C), struck out before period at e
 
 Subsec. (d)(2). Pub. L. 104–127, §315(b), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6961, 6962, 6991, 6995, 7001 of this title; title 16 section 590h.
-

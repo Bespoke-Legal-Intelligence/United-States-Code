@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) the total amount appropriated under section 15045 of this title for a fiscal year is not less than $20,000,000, the allotment under paragraph (1) for such fiscal year—
 
-&emsp;&emsp;&emsp;(i) to each of American Samoa, Guam, the United States Virgin Islands, and theCommonwealth of the Northern Mariana Islands may not be less than $107,000; and
+&emsp;&emsp;&emsp;(i) to each of American Samoa, Guam, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands may not be less than $107,000; and
 
 &emsp;&emsp;&emsp;(ii) to any State not described in clause (i) may not be less than $200,000; or
 
@@ -57,8 +57,4 @@ Notwithstanding any other provision of law, the Secretary shall pay directly to 
 Any amount paid to a system under this part for a fiscal year and remaining unobligated at the end of such year shall remain available to such system for the next fiscal year, for the purposes for which such amount was paid.
 
 (Pub. L. 106–402, title I, §142, Oct. 30, 2000, 114 Stat. 1712.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15043, 15045 of this title.
 

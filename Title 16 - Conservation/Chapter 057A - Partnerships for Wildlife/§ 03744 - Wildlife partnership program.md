@@ -76,7 +76,7 @@ There are authorized to be appropriated to the Fund and to the Secretary not to 
 
 #### Amendments
 
-1998—Subsec. (h). Pub. L. 105–312 substituted “not to exceed $6,250,000 for each of fiscal years 1999 through 2003.” for “for each of fiscal years 1992 through 1998 not to exceed $6,250,000.”
+1998—Subsec. (h). Pub. L. 105–312 substituted “not to exceed $6,250,000 for each of fiscal years 1999 through2003.” for “for each of fiscal years 1992 through 1998 not to exceed $6,250,000.”
 
 1994—Subsec. (d)(5). Pub. L. 103–375, §6(4), struck out par. (5) which read as follows: “may not exceed the State share of the cost of implementing such a project.”
 
@@ -95,8 +95,4 @@ Subsec. (g)(3), (4). Pub. L. 103–375, §6(6)(B), struck out pars. (3) and (4) 
 “(4) Of the total amount provided from the Fund to assist a State in carrying out a wildlife conservation and appreciation project under subsection (a) of this section, at least 50 percent shall have been donated to the Fund by the National Fish and Wildlife Foundation.”
 
 Subsec. (h). Pub. L. 103–375, §6(7), substituted “1998” for “1995” and struck out before period at end “to match the amount of contributions made to the Fund by the National Fish and Wildlife Foundation”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3743 of this title.
 

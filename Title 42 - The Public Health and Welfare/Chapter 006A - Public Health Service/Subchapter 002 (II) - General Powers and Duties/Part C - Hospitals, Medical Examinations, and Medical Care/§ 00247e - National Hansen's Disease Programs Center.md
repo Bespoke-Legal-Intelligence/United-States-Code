@@ -2,7 +2,7 @@
 
 #### (a) Care and treatment
 
-(1) At or through the National Hansen's Disease Programs Center (located in the State of Louisiana), the Secretary shall without charge provide short-term care and treatment, including outpatient care, for Hansen's disease and related complications to any person determined by the Secretary to be in need of such care and treatment. The Secretary may not at or through such Center provide long-term care for any such disease or complication.
+(1) At or through the National Hansen's Disease Programs Center (located in the State of Louisiana), the Secretary shall without charge provide short-term care and treatment, including outpatient care, for Hansen's disease and related complications to any person determined by the Secretary to be in need of such care andtreatment. The Secretary may not at or through such Center provide long-term care for any such disease or complication.
 
 (2) The Center referred to in paragraph (1) shall conduct training in the diagnosis and management of Hansen's disease and related complications, and shall conduct and promote the coordination of research (including clinical research), investigations, demonstrations, and studies relating to the causes, diagnosis, treatment, control, and prevention of Hansen's disease and other mycobacterial diseases and complications related to such diseases.
 
@@ -56,11 +56,13 @@ Subsec. (b). Pub. L. 99–117 amended subsec. (b) generally. Prior to amendment,
 
 Pub. L. 107–220, §§1(b), 2, Aug. 21, 2002, 116 Stat. 1332, provided that:
 
-“(b) Public Law 105–78.—References in section 211 of Public Law 105–78 \[amending this section and enacting provisions set out as a note under this section\], and in deeds, agreements, or other documents under such section, to the Gillis W. Long Hansen's Disease Center shall be deemed to be references to the National Hansen's Disease Programs Center.
+“(b)
+
+Public Law 105–78.—References in section 211 of Public Law 105–78 \[amending this section and enacting provisions set out as a note under this section\], and in deeds, agreements, or other documents under such section, to the Gillis W. Long Hansen's Disease Center shall be deemed to be references to the National Hansen's Disease Programs Center.
 
 #### “SEC. 2. OTHER REFERENCES.
 
-“Any reference in a law, map, regulation, document, paper, or other record of the United States to the Gillis W. Long Hansen's Disease Center shall be deemed to be a reference to the ‘National Hansen's Disease Programs Center’ ”.
+“Any reference in a law, map, regulation, document, paper, or other record of the United States to the GillisW. Long Hansen's Disease Center shall be deemed to be a reference to the ‘National Hansen's Disease Programs Center’ ”.
 
 #### Effective Date of 1960 Amendment
 
@@ -166,9 +168,9 @@ Pub. L. 105–78, title II, §211(a)–(g), Nov. 13, 1997, 111 Stat. 1489, as am
 
 &emsp;&emsp;“(i) The choice the patient makes under subparagraph (A) does not affect the responsibility of the Secretary for providing to the patient such care at or through the Center.
 
-&emsp;&emsp;“(ii) If the patient chooses the option under subparagraph (A)(ii) and receives inpatient care at or through the Center, the Secretary may reduce theamount of payments under such subparagraph, except to the extent that reimbursement for the expenses of such care is available to the provider of the care through the program under title XVIII of the Social Security Act \[section 1395 et seq. of this title\] or the program under title XIX of such Act \[section 1396 et seq. of this title\]. Any such reduction shall be made on the basis of the number of days for which the patient received the inpatient care.
+&emsp;&emsp;“(ii) If the patient chooses the option under subparagraph (A)(ii) and receives inpatient care at or through the Center, the Secretary may reduce the amount of payments under such subparagraph, except to the extent that reimbursement for the expenses of such care is available to the provider of the care through the program under title XVIII of the Social Security Act \[section 1395 et seq. of this title\] or the program under title XIX of such Act \[section 1396 et seq. of this title\]. Any such reduction shall be made on the basis of the number of days for which the patient received the inpatient care.
 
-&emsp;“(6) The Secretary shall provide to each eligible patient such information and time as may be necessary for the patient to make an informed decision regarding the options under paragraph (5)(A).
+&emsp;“(6) The Secretary shall provide to each eligible patient such information and time as may be necessaryfor the patient to make an informed decision regarding the options under paragraph (5)(A).
 
 &emsp;“(7) After the date of the enactment of this Act \[Nov. 13, 1997\], the Center may not provide long-term care for any individual who as of such date was not receiving such care as a patient of the Center.
 
@@ -181,8 +183,4 @@ Pub. L. 105–78, title II, §211(a)–(g), Nov. 13, 1997, 111 Stat. 1489, as am
 &emsp;“(2) The term ‘Secretary’ means the Secretary of Health and Human Services.
 
 &emsp;“(3) The term ‘State’ means the State of Louisiana.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 254e of this title.
 

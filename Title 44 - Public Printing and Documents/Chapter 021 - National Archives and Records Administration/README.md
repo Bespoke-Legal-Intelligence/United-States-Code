@@ -20,16 +20,15 @@
 | [2116\.](%C2%A7%2002116%20-%20Legal%20status%20of%20reproductions%3B%20official%20seal%3B%20fees%20for%20copies%20and%20reproductions.md) | Legal status of reproductions; official seal; fees for copies and reproductions. |
 | [2117\.](%C2%A7%2002117%20-%20Limitation%20on%20liability.md) | Limitation on liability. |
 | [2118\.](%C2%A7%2002118%20-%20Records%20of%20Congress.md) | Records of Congress. |
+| [2119\.](%C2%A7%2002119%20-%20Cooperative%20agreements.md) | Cooperative agreements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+2004—Pub. L. 108–383, §5(b), Oct. 30, 2004, 118 Stat. 2219, added item 2119.
+
 1984—Pub. L. 98–497, title I, §102(c)(1), Oct. 19, 1984, 98 Stat. 2282, amended analysis generally, substituting “National Archives and Records” in chapter heading, adding items 2102 to 2106 and redesignating former items 2103 to 2114 as 2107 to 2118, respectively.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2115, 2116, 2901, 2902, 3107 of this title; title 22 section 4352; title 25 section 450j; title 28 section 594.
 
 
 ---
@@ -54,3 +53,4 @@ This chapter is referred to in sections 2115, 2116, 2901, 2902, 3107 of this tit
 - [&sect; 02116 - Legal status of reproductions; official seal; fees for copies and reproductions](%C2%A7%2002116%20-%20Legal%20status%20of%20reproductions%3B%20official%20seal%3B%20fees%20for%20copies%20and%20reproductions.md)
 - [&sect; 02117 - Limitation on liability](%C2%A7%2002117%20-%20Limitation%20on%20liability.md)
 - [&sect; 02118 - Records of Congress](%C2%A7%2002118%20-%20Records%20of%20Congress.md)
+- [&sect; 02119 - Cooperative agreements](%C2%A7%2002119%20-%20Cooperative%20agreements.md)

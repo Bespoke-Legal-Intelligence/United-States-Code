@@ -8,7 +8,3 @@ Any person, firm or corporation, or association who shall knowingly pack or caus
 
 Section is also set out as section 233 of Title 15, Commerce and Trade.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 21, 22 of this title.
-

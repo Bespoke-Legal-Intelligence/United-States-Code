@@ -1,6 +1,6 @@
 ### §5925. Post differentials
 
-(a) A post differential may be granted on the basis of conditions of environment which differ substantially from conditions of environment in the continental United States and warrant additional pay as a recruitment and retention incentive. A post differential may be granted to an employee officially stationed in the United States who is on extended detail in a foreign area. A post differential under this subsection may not exceed 25 percent of the rate of basic pay.
+(a) A post differential may be granted on the basis of conditions of environment which differ substantially from conditions of environment in the continental United States and warrant additional pay as a recruitment and retention incentive. A post differential may be granted to an employee officially stationed in the United States who is on extended detail in a foreign area. A post differential under this subsection may not exceed 25 percent of the rate of basic pay or, in the case of an employee of the United States Agency for International Development, 35 percent of the rate of basic pay.
 
 (b) Any employee granted a differential under subsection (a) of this section may be granted an additional differential for an assignment to a post determined to have especially adverse conditions of environment which warrant additional pay as a recruitment and retention incentive for the filling of positions at that post. An additional differential for any employee under this subsection—
 
@@ -10,7 +10,7 @@
 
 &emsp;(3) may not exceed 15 percent of the rate of basic pay of that employee for the period served under that assignment.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 512; Pub. L. 96–465, title II, §2309, Oct. 17, 1980, 94 Stat. 2165.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 512; Pub. L. 96–465, title II, §2309, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 108–199, div. D, title V, §591(a), Jan. 23, 2004, 118 Stat. 207.)
 
 Historical and Revision Notes
 
@@ -32,7 +32,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+2004—Subsec. (a). Pub. L. 108–199 inserted “or, in the case of an employee of the United States Agency for International Development, 35 percent of the rate of basic pay” after “25 percent of the rate of basic pay”.
+
 1980—Pub. L. 96–465 designated existing provisions as subsec. (a), inserted “under this subsection” before “may not exceed”, and added subsec. (b).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–199, div. D, title V, §591(c), Jan. 23, 2004, 118 Stat. 207, provided that: “Except for employees of the United States Agency for International Development stationed in Iraq and Afghanistan, the amendments made by subsections (a) and (b) \[amending this section and section 5928 of this title\] shall not take effect until the same authority is enacted for employees of the Department of State.”
 
 #### Effective Date of 1980 Amendment
 
@@ -75,8 +81,4 @@ Definitions.—For the purpose of this section—
 &emsp;“(2) the term ‘Operation Desert Storm’ has the meaning given such term by section 3(1) of the Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991 \[Pub. L. 102–25\] (10 U.S.C. 101 note); and
 
 &emsp;“(3) the term ‘Persian Gulf conflict’ means the period beginning on August 2, 1990, and ending on June 2, 1991.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5307, 5551, 5928, 5949 of this title; title 22 sections 1474, 2506, 4057; title 26 section 912; title 50 section 2081.
 

@@ -8,7 +8,3 @@ For every Navy officer, seaman, or marine admitted into a Navy hospital, the ins
 
 R.S. §4812 derived from act Feb. 26, 1811, ch. 26, §5, 2 Stat. 650.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 6201.
-

@@ -106,7 +106,7 @@ As used in this section—
 
 &emsp;&emsp;(ii) a statement of the extent to which available funds were not obligated or expended by the Secretary for grants under subsection (c) of this section during the current fiscal year; and
 
-&emsp;(C) an assessment of each project assisted under subsection (c) of this section or carried out under paragraph (1) that was completed in the preceding fiscal year regarding the extent to which (i) the objectives of the proj- ect were attained, and (ii) the project contributed to fishery development.
+&emsp;(C) an assessment of each project assisted under subsection (c) of this section or carried out under paragraph (1) that was completed in the preceding fiscal year regarding the extent to which (i) the objectives of the project were attained, and (ii) the project contributed to fishery development.
 
 #### (e) Allocation of fund moneys
 
@@ -192,9 +192,5 @@ Section 12(a) of act Aug. 8, 1956, provided that: “The authorization for the t
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed byappropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 713c–2 of this title; title 16 sections 1861a, 1863, 4008.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

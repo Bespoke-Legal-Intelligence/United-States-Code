@@ -38,7 +38,3 @@ Amendment by Pub. L. 102–138 not applicable with respect to any grievance, wit
 
 Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as a note under section 1201 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4115, 4131 of this title.
-

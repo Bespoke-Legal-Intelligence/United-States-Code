@@ -20,7 +20,7 @@ No individual or corporate entity may receive an award under this section more t
 
 #### (d) Funding for award
 
-The Secretary of Commerce may seek and accept gifts of money from public and privatesources for the purpose of making cash prize awards under this section. Such money may be used only for that purpose, only such money may be used for that purpose, and the Secretary of Commerce shall make publicly available an itemized list of the sources of such funding.
+The Secretary of Commerce may seek and accept gifts of money from public and private sources for the purpose of making cash prize awards under this section. Such money may be used only for that purpose, only such money may be used for that purpose, and the Secretary of Commerce shall make publicly available an itemized list of the sources of such funding.
 
 (Pub. L. 102–588, title V, §510, Nov. 4, 1992, 106 Stat. 5129.)
 

@@ -172,7 +172,7 @@ Contents.—The plan shall include the following:
 
 Objectives.—The plan shall provide for the following:
 
-&emsp;&emsp;“(A) The development, within the shortest period of time possible, of a range of technologies needed to produce convenient, safe, and affordable modes of surface transportation to be available for public use beginning in the mid-1990's.
+&emsp;&emsp;“(A) The development, within the shortest period of time possible, of a range of technologies neededto produce convenient, safe, and affordable modes of surface transportation to be available for public use beginning in the mid-1990's.
 
 &emsp;&emsp;“(B) Maintenance of a long-term advanced research and development program to provide for next generation surface transportation systems.
 
@@ -195,8 +195,4 @@ Transmittal.—On or before January 15, 1993, and annually thereafter, the Secre
 &emsp;“(9)
 
 Recommendations for alternatives.—In the event a different technology or alternative program can be identified that would accomplish the same or better results than those described in this part, the Secretary may make recommendations for an alternative, and shall promptly report such alternative recommendations to Congress.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 502 of this title; title 49 section 5505.
 

@@ -7,7 +7,7 @@
 | (a) | Annual report on foreign direct investment in United States. |
 | (b) | Sources of data. |
 | (c) | Analyses. |
-| [3143\.](%C2%A7%2003143%20-%20Reports%20by%20General%20Accounting%20Office.md) | Reports by General Accounting Office. |
+| [3143\.](%C2%A7%2003143%20-%20Reports%20by%20Government%20Accountability%20Office.md) | Reports by Government Accountability Office. |
 | (a) | In general. |
 | (b) | Reports. |
 | (c) | Other reviews and reports. |
@@ -33,7 +33,7 @@
 
 - [&sect; 03141 - Congressional findings](%C2%A7%2003141%20-%20Congressional%20findings.md)
 - [&sect; 03142 - Report by Secretary of Commerce](%C2%A7%2003142%20-%20Report%20by%20Secretary%20of%20Commerce.md)
-- [&sect; 03143 - Reports by General Accounting Office](%C2%A7%2003143%20-%20Reports%20by%20General%20Accounting%20Office.md)
+- [&sect; 03143 - Reports by Government Accountability Office](%C2%A7%2003143%20-%20Reports%20by%20Government%20Accountability%20Office.md)
 - [&sect; 03144 - Access to information; confidentiality](%C2%A7%2003144%20-%20Access%20to%20information%3B%20confidentiality.md)
 - [&sect; 03145 - Construction of foreign direct investment and international financial data provisions](%C2%A7%2003145%20-%20Construction%20of%20foreign%20direct%20investment%20and%20international%20financial%20data%20provisions.md)
 - [&sect; 03146 - Definitions](%C2%A7%2003146%20-%20Definitions.md)

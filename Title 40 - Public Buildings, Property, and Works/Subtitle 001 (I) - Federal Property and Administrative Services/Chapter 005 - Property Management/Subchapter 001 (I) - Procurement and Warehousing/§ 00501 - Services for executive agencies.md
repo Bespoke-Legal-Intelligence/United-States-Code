@@ -94,7 +94,3 @@ In subsection (b)(2)(B), the words “subject to regulations” are substituted 
 
 The Office of Federal Procurement Policy Act, referred to in subsec. (b)(2)(B), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 113, 321, 322, 502, 504 of this title; title 10 sections 2381, 12603; title 20 section 5207; title 25 section 450j; title 28 section 612; title 50 section 491.
-

@@ -32,7 +32,3 @@ Amendment by Pub. L. 96–349 applicable only with respect to actions commenced 
 
 Section effective six months after July 7, 1955, see note set out under section 15b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15b, 16, 35, 36 of this title; title 28 section 1407.
-

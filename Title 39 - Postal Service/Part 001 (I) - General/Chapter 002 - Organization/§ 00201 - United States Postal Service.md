@@ -50,7 +50,3 @@ Transferred personnel.—Personnel transferred pursuant to subparagraph (A) shal
 
 Transition provision.—The Chief Postal Inspector may continue to serve as Inspector General of the United States Postal Service until the date on which an Inspector General is appointed under paragraph (1) or, if earlier, the end of the period referred to in such paragraph. Compensation for any service under this paragraph shall be determined as if this section had not been enacted.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 102 of this title; title 42 section 15386.
-

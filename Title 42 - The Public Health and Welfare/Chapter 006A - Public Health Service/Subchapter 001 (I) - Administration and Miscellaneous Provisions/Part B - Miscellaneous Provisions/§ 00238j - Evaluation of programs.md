@@ -16,13 +16,15 @@ Section was formerly classified to section 300aaa–10 of this title prior to re
 
 #### Amendments
 
-1993—Pub. L. 103–183 amended section generally. Prior to amendment, section read as follows: “Such portion as the Secretary may determine, but not more than 1 per centum, of any appropriation for grants, contracts,or other payments under any provision of this chapter, the Mental Health Systems Act, the Act of August 5, 1954 (Public Law 568, Eighty–third Congress), or the Act of August 16, 1957 (Public Law 85–151), for any fiscal year beginning after June 30, 1970, shall be available for evaluation (directly, or by grants or contracts) of any program authorized by this chapter or any of such other Acts, and, in the case of allotments from any such appropriation, the amount available for allotment shall be reduced accordingly.”
+1993—Pub. L. 103–183 amended section generally. Prior to amendment, section read as follows: “Such portion as the Secretary may determine, but not more than 1 per centum, of any appropriation for grants, contracts, or other payments under any provision of this chapter, the Mental Health Systems Act, the Act of August 5, 1954 (Public Law 568, Eighty–third Congress), or the Act of August 16, 1957 (Public Law 85–151), for any fiscal year beginning after June 30, 1970, shall be available for evaluation (directly, or by grants or contracts) of any program authorized by this chapter or any of such other Acts, and, in the case of allotments from any such appropriation, the amount available for allotment shall be reduced accordingly.”
 
 1981—Pub. L. 97–35 struck out references to Mental Retardation Facilities Construction Act and Community Mental Health Centers Act.
 
 1980—Pub. L. 96–398 inserted reference to Mental Health Systems Act.
 
 #### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
@@ -33,8 +35,4 @@ Section 701 of Pub. L. 103–183 provided that the amendment made by that sectio
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238<i>l</i> of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 299c–6, 300ff–74 of this title.
 

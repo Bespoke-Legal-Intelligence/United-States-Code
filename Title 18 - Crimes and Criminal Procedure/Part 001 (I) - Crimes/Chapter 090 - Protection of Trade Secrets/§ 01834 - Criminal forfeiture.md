@@ -1,6 +1,6 @@
 ### §1834. Criminal forfeiture
 
-(a) The court, in imposing sentence on a person for a violation of this chapter, shall order,in addition to any other sentence imposed, that the person forfeit to the United States—
+(a) The court, in imposing sentence on a person for a violation of this chapter, shall order, in addition to any other sentence imposed, that the person forfeit to the United States—
 
 &emsp;(1) any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, as the result of such violation; and
 

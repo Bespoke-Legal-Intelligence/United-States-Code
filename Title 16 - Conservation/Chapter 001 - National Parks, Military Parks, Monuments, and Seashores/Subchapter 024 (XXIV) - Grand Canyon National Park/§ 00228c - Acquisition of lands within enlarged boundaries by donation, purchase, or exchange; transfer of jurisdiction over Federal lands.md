@@ -6,7 +6,3 @@
 
 (Pub. L. 93–620, §4, Jan. 3, 1975, 88 Stat. 2090.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 227, 228a, 228b, 228d to 228i, 228j of this title.
-

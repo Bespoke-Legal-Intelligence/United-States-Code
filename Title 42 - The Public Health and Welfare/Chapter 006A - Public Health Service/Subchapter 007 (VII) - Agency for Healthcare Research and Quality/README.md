@@ -6,10 +6,6 @@ A prior subchapter VII, related to the Agency for Health Care Policy and Researc
 
 Another prior subchapter VII, related to education, research, training, and demonstrations in heart disease, cancer, stroke, and related diseases and consisted of sections 299 to 299j, prior to repeal by Pub. L. 99–117, §12(d), Oct. 7, 1985, 99 Stat. 495.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 242b, 242<i>l</i>, 299b–7 of this title.
-
 
 ---
 

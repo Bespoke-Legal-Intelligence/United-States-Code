@@ -30,7 +30,3 @@ Nothing in this section may be construed as prior approval of any legislation wh
 
 Functions of President under this section delegated to Secretary of the Treasury by section 1 of Ex. Ord. No. 12781, Nov. 20, 1991, 56 F.R. 59203, set out as a note under section 301 of Title 3, The President.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5352 of this title.
-

@@ -22,7 +22,7 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 #### (1) Authority of States
 
-&emsp;In addition to such other remedies as are provided under State law, whenever the chief law enforcement officer of a State, or an official or agency designated by a State, has reason to believe that any person has violated or is violating this subchapter, the State—
+&emsp;In addition to such other remedies as are provided under State law, whenever the chieflaw enforcement officer of a State, or an official or agency designated by a State, has reason to believe that any person has violated or is violating this subchapter, the State—
 
 &emsp;&emsp;(A) may bring an action to enjoin such violation;
 

@@ -22,7 +22,7 @@
 
 #### (b) Failure to commence or complete service obligations; formula to determine liability; payment to United States; recovery of delinquent damages; disclosure to credit reporting agencies
 
-(1)(A) Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) of this section or section 254p(d) of this title) to begin such individual's service obligation under section 254<i>l</i> of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to complete a required residency as specified in section 254<i>l</i>(f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
+(1)(A) Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) of this section or section 254p(d) of this title) to begin such individual's service obligation under section 254<i>l</i> of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to completea required residency as specified in section 254<i>l</i>(f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t−s
 
@@ -76,7 +76,7 @@
 
 (1) Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for service or payment of damages shall be canceled upon the death of the individual.
 
-(2) The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
+(2) The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) whenever compliance by the individual is impossible or wouldinvolve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
 
 (3)(A) Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for payment of damages may be released by a discharge in bankruptcy under title 11 only if such discharge is granted after the expiration of the 7-year period beginning on the first date that payment of such damages is required, and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable.
 
@@ -86,7 +86,7 @@
 
 #### (e) Inapplicability of Federal and State statute of limitations on actions for collection
 
-Notwithstanding any other provision of Federal or State law, there shall be no limitation on the period within which suit may be filed, ajudgment may be enforced, or an action relating to an offset or garnishment, or other action, may be initiated or taken by the Secretary, the Attorney General, or the head of another Federal agency, as the case may be, for the repayment of the amount due from an individual under this section.
+Notwithstanding any other provision of Federal or State law, there shall be no limitation on the period within which suit may be filed, a judgment may be enforced, or an action relating to an offset or garnishment, or other action, may be initiated or taken by the Secretary, the Attorney General, or the head of another Federal agency, as the case may be, for the repayment of the amount due from an individual under this section.
 
 #### (f) Effective date
 
@@ -193,10 +193,6 @@ Section 204 of Pub. L. 100–177 provided that an individual who breached a writ
 #### Existing Proceedings
 
 Section 308(b) of Pub. L. 100–177 provided that: “The amendment made by subsection (a) \[amending this section\] applies to any bankruptcy proceeding in which discharge of an obligation under section 338E(d)(3) of the Public Health Service Act \[subsec. (d)(3) of this section\] (as redesignated by sections 201(2) and 202(e)(3) of this Act) has not been granted before the date that is 31 days after the date of enactment of this Act \[Dec. 1, 1987\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 254d, 254<i>l</i>, 254<i>l</i>–1, 254<i>o</i>–1, 254p, 287c–33, 288–2, 288–4, 288–5, 288–5a, 288–6, 1395ccc of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

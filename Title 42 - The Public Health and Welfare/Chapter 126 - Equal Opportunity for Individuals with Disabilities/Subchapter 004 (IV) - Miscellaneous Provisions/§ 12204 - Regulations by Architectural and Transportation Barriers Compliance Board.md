@@ -28,7 +28,3 @@ The supplemental guidelines issued under subsection (a) of this section shall es
 
 The National Historic Preservation Act, referred to in subsec. (c)(2), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12134, 12149, 12150, 12163, 12165, 12186 of this title; title 29 sections 791, 793, 794.
-

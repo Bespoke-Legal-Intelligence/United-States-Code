@@ -22,7 +22,7 @@
 
 (c) The Office of Personnel Management shall prescribe regulations governing the methods of applying subsection (b)(2) and (b)(3) to employees who receive premium pay under section 5545(c) or 5545a, or to firefighters covered by section 5545b who receive overtime pay for hours in their regular tour of duty, and the method of payment to such employees. Such regulations may limit the payment of such premium pay on a biweekly basis.
 
-(d) This section shall not apply to any employee of the Federal Aviation Administration or the Department of Defense who is paid premium pay under section 5546a.
+(d) This section shall not apply to any employee of the Federal Aviation Administrationor the Department of Defense who is paid premium pay under section 5546a.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 90–83, §1(31), Sept. 11, 1967, 81 Stat. 201; Pub. L. 97–276, §151(e), Oct. 2, 1982, 96 Stat. 1201; Pub. L. 98–525, title XV, §1537(d), Oct. 19, 1984, 98 Stat. 2636; Pub. L. 100–523, §2, Oct. 24, 1988, 102 Stat. 2605; Pub. L. 101–509, title V, §529 \[title II, §204, title IV, §410(b)\], Nov. 5, 1990, 104 Stat. 1427, 1456, 1469; Pub. L. 102–378, §2(43), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(b)(2), Sept. 30, 1994, 108 Stat. 2427; Pub. L. 107–107, div. A, title XI, §1114(a), Dec. 28, 2001, 115 Stat. 1239.)
 
@@ -58,7 +58,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### 1967 Act
 
-In the codification of 5 U.S.C. 5547, the words “premium pay under this subchapter” were substituted for “premium compensation provided by this Act” appearing in the source statute—section 603 of the Federal Employees Pay Act of 1945, as amended (former 5 U.S.C. 943). This amendment of 5 U.S.C. 5547 is made for clarity and precision of reference and in recognition that the source statutes for certain sections of subchapter V of chapter 55 of title 5 include statutes that were not a part of the Federal Employees Pay Act of 1949. Specifically, 5 U.S.C. 5544(a) is based in part on section 23 (2d proviso) of the act of March 28, 1934, as amended by 76Stat. 360; and 5 U.S.C. 5545(d) is based on section 804 of the Classification Act of 1949, as added by Public Law 89–512, 80 Stat. 318. Also, 5 U.S.C. 5541(2)(xi) in effect excludes employees subject to 5 U.S.C. 5544 from the operation of 5 U.S.C. 5547.
+In the codification of 5 U.S.C. 5547, the words “premium pay under this subchapter” were substituted for “premium compensation provided by this Act” appearing in the source statute—section 603 of the Federal Employees Pay Act of 1945, as amended (former 5 U.S.C. 943). This amendment of 5 U.S.C. 5547 is made for clarity and precision of reference and in recognition that the source statutes for certain sections of subchapter V of chapter 55 of title 5 include statutes that were not a part of the Federal Employees Pay Act of 1949. Specifically, 5 U.S.C. 5544(a) is based in part on section 23 (2d proviso) of the act of March 28, 1934, as amended by 76 Stat. 360; and 5 U.S.C. 5545(d) is based on section 804 of the Classification Act of 1949, as added by Public Law 89–512, 80 Stat. 318. Also, 5 U.S.C. 5541(2)(xi) in effect excludes employees subject to 5 U.S.C. 5544 from the operation of 5 U.S.C. 5547.
 
 #### References in Text
 
@@ -106,7 +106,7 @@ Pub. L. 107–107, div. A, title XI, §1114(c), Dec. 28, 2001, 115 Stat. 1240, p
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–329 effective first day of first applicable pay period beginning on or after 30th day following Sept. 30, 1994, with exceptions relating to criminal investigators employed in Offices of Inspectors General, see section 633(e) of Pub. L. 103–329, set out as an Effective Date note under section 5545a of this title.
+Amendment by Pub. L. 103–329 effective first day of first applicable pay period beginning on or after 30th day following Sept. 30, 1994, with exceptions relating to criminal investigators employed in Offices of Inspectors General, see section 633(e) of Pub. L. 103–329, setout as an Effective Date note under section 5545a of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -135,8 +135,4 @@ Pub. L. 106–554, §1(a)(3) \[title I, §118\], Dec. 21, 2000, 114 Stat. 2763, 
 Similar provisions were contained in Pub. L. 106–58, title I, §118, Sept. 29, 1999, 113 Stat. 441.
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 1371.
 

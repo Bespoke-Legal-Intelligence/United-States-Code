@@ -28,7 +28,3 @@ For the purpose of subsection (b) of this section, the Secretary shall accept an
 
 Public Law 85–671, referred to in subsec. (b)(1)(A), is Pub. L. 85–671, Aug. 18, 1958, 72 Stat. 619, which is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300n–1, 1300n–5, 1300n–6 of this title.
-

@@ -22,7 +22,3 @@ Ex. Ord. No. 12101, Nov. 17, 1978, 43 F.R. 54195, as amended by Ex. Ord. No. 126
 
 By the authority vested in me as President of the United States of America by the Diplomatic Relations Act (Public Law 95–393, 92 Stat. 808; 22 U.S.C. 254a et seq.) and Section 301 of Title 3 of the United States Code, in order to implement the liability insurance and other requirements relating to diplomatic personnel, I hereby designate and empower the Secretary of State to perform, without the approval, ratification, or other action of the President, the functions vested or to be vested in the President by Section 4 of Diplomatic Relations Act (92 Stat. 809; 22 U.S.C. 254c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 254d of this title.
-

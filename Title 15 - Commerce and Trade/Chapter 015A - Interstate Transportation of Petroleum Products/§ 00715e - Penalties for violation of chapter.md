@@ -4,7 +4,3 @@ Any person knowingly violating any provision of this chapter or any regulation p
 
 (Feb. 22, 1935, ch. 18, §6, 49 Stat. 32.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 715g of this title.
-

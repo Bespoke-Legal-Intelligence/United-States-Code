@@ -28,7 +28,7 @@ The Director of the Institute in carrying out the National Cancer Program—
 
 &emsp;(4) shall encourage and coordinate cancer research by industrial concerns where such concerns evidence a particular capability for such research;
 
-&emsp;(5) may obtain (after consultation with the advisory council for the Institute and in accordance with section 3109 of title 5, but without regard to the limitation in such section onthe period of service) the services of not more than one hundred and fifty-one experts or consultants who have scientific or professional qualifications;
+&emsp;(5) may obtain (after consultation with the advisory council for the Institute and in accordance with section 3109 of title 5, but without regard to the limitation in such section on the period of service) the services of not more than one hundred and fifty-one experts or consultants who have scientific or professional qualifications;
 
 &emsp;(6)(A) may, in consultation with the advisory council for the Institute, acquire, construct, improve, repair, operate, and maintain laboratories, other research facilities, equipment, and such other real or personal property as the Director determines necessary;
 
@@ -77,8 +77,4 @@ In subsec. (b)(6)(C), “section 8141 of title 40” substituted for “the Act 
 Subsec. (b)(5). Pub. L. 100–607, §122(2)(A), substituted “after consultation with” for “with the approval of”.
 
 Subsec. (b)(8) to (10). Pub. L. 100–607, §122(2)(B), inserted “and” after “or educational institution;” in par. (8), redesignated par. (10) as (9), and struck out former par. (9) which related to International Cancer Research Data Bank.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 285a–6, 285a–7, 285a–8 of this title.
 

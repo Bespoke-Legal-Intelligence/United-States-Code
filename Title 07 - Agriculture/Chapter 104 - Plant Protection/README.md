@@ -25,6 +25,9 @@
 | (e) | Study and report on systems approach. |
 | (f) | Noxious weeds. |
 | (g) | Biological control organisms. |
+| [7712a.](Subchapter%20001%20%28I%29%20-%20Plant%20Protection/%C2%A7%2007712a%20-%20Reduction%20in%20backlog%20of%20agricultural%20export%20petitions.md) | Reduction in backlog of agricultural export petitions. |
+| (a) | Reduction efforts. |
+| (b) | Report. |
 | [7713\.](Subchapter%20001%20%28I%29%20-%20Plant%20Protection/%C2%A7%2007713%20-%20Notification%20and%20holding%20requirements%20upon%20arrival.md) | Notification and holding requirements upon arrival. |
 | (a) | Duty of Secretary of the Treasury. |
 | (b) | Duty of responsible parties. |
@@ -55,6 +58,12 @@
 | (b) | Methyl bromide alternative. |
 | (c) | Registry. |
 | (d) | Administration. |
+| [7720\.](Subchapter%20001%20%28I%29%20-%20Plant%20Protection/%C2%A7%2007720%20-%20National%20plan%20for%20control%20and%20management%20of%20Sudden%20Oak%20Death.md) | National plan for control and management of Sudden Oak Death. |
+| (a) | Development of national plan. |
+| (b) | Plan elements. |
+| (c) | Consultation. |
+| (d) | Implementation of plan. |
+| (e) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -131,9 +140,37 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
+#### SUBCHAPTER V—NOXIOUS WEED CONTROL AND ERADICATION
 
-This chapter is referred to in sections 1961, 8401 of this title; title 6 section 231.
+|  |  |
+| :--- | ---: |
+| [7781\.](Subchapter%20005%20%28V%29%20-%20Noxious%20Weed%20Control%20and%20Eradication/%C2%A7%2007781%20-%20Definitions.md) | Definitions. |
+| [7782\.](Subchapter%20005%20%28V%29%20-%20Noxious%20Weed%20Control%20and%20Eradication/%C2%A7%2007782%20-%20Establishment%20of%20program.md) | Establishment of program. |
+| (a) | In general. |
+| (b) | Grants. |
+| (c) | Agreements. |
+| [7783\.](Subchapter%20005%20%28V%29%20-%20Noxious%20Weed%20Control%20and%20Eradication/%C2%A7%2007783%20-%20Grants%20to%20weed%20management%20entities.md) | Grants to weed management entities. |
+| (a) | Consultation and consent. |
+| (b) | Grant considerations. |
+| (c) | Use of grant funds; cost shares. |
+| (d) | Authorized projects. |
+| (e) | Application. |
+| (f) | Selection of projects. |
+| (g) | Regional, State, and local involvement. |
+| (h) | Special consideration. |
+| [7784\.](Subchapter%20005%20%28V%29%20-%20Noxious%20Weed%20Control%20and%20Eradication/%C2%A7%2007784%20-%20Agreements.md) | Agreements. |
+| (a) | Consultation and consent. |
+| (b) | Application of other laws. |
+| (c) | Eligible activities. |
+| (d) | Selection of activities. |
+| (e) | Regional, State, and local involvement. |
+| (f) | Rapid response program. |
+| [7785\.](Subchapter%20005%20%28V%29%20-%20Noxious%20Weed%20Control%20and%20Eradication/%C2%A7%2007785%20-%20Relationship%20to%20other%20programs.md) | Relationship to other programs. |
+| [7786\.](Subchapter%20005%20%28V%29%20-%20Noxious%20Weed%20Control%20and%20Eradication/%C2%A7%2007786%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | Grants. |
+| (b) | Agreements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ---
@@ -146,3 +183,4 @@ This chapter is referred to in sections 1961, 8401 of this title; title 6 sectio
 - [Subchapter 002 (II) - Inspection and Enforcement](Subchapter%20002%20%28II%29%20-%20Inspection%20and%20Enforcement/README.md)
 - [Subchapter 003 (III) - Miscellaneous Provisions](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/README.md)
 - [Subchapter 004 (IV) - Authorization of Appropriations](Subchapter%20004%20%28IV%29%20-%20Authorization%20of%20Appropriations/README.md)
+- [Subchapter 005 (V) - Noxious Weed Control and Eradication](Subchapter%20005%20%28V%29%20-%20Noxious%20Weed%20Control%20and%20Eradication/README.md)

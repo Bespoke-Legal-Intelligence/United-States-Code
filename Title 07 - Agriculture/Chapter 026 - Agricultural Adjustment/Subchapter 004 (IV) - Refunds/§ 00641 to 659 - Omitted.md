@@ -6,7 +6,7 @@ Section 641, act June 22, 1936, ch. 690, §601, 49 Stat. 1739, related to refund
 
 Section 642, acts June 22, 1936, ch. 690, §602, 49 Stat. 1740; Aug. 10, 1939, ch. 666, title IX, §911, 53 Stat. 1402, specified amount of refunds on articles processed wholly or in chief value from a commodity subject to processing tax, defined certain terms, prohibited payments with respect to retail floor stocks with some exceptions, and made final determinations of Commissioner of Internal Revenue with respect to such payments.
 
-Section 643, act June 22, 1936, ch. 690, §603, 49 Stat. 1742, made applicable proclamations, certificates, andregulations of this chapter for purpose of determining amount of refunds or payments authorized by sections 641 and 642.
+Section 643, act June 22, 1936, ch. 690, §603, 49 Stat. 1742, made applicable proclamations, certificates, and regulations of this chapter for purpose of determining amount of refunds or payments authorized by sections 641 and 642.
 
 Section 644, acts June 22, 1936, ch. 690, §902, 49 Stat. 1747; Oct. 21, 1942, ch. 619, title V, §§504(a), (c), 510(e), 56 Stat. 957, 968, conditioned allowance of refunds on a showing by claimant that he bore burden of tax or that he repaid such amount unconditionally to his vendee.
 

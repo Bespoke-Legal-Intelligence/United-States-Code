@@ -102,7 +102,3 @@ Subsec. (i). Pub. L. 108–36, §413(b), struck out heading and text. Text read 
 
 1998—Subsec. (h)(2). Pub. L. 105–392 substituted “for each of the fiscal years 1997 through 2002” for “fiscal year 1997”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

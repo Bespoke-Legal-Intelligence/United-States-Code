@@ -44,7 +44,7 @@ Except as provided in subsection (c) of this section, the Secretary of the Treas
 
 #### (2) Accumulated funding deficiencies
 
-&emsp;For purposes of paragraph (1)(A), accumulated funding deficiencies shall include any increase in such amount which would result if all applications for waivers of the minimum funding standard under section 1083 of this title or section 412(d) of title 26 and for extensions of the amortization period under section 1084 of this title or section 412(e) of title 26which are pending with respect to such plan were denied.
+&emsp;For purposes of paragraph (1)(A), accumulated funding deficiencies shall include any increase in such amount which would result if all applications for waivers of the minimum funding standard under section 1083 of this title or section 412(d) of title 26 and for extensions of the amortization period under section 1084 of this title or section 412(e) of title 26 which are pending with respect to such plan were denied.
 
 (Pub. L. 93–406, title I, §306, as added Pub. L. 99–272, title XI, §11015(a)(1)(A)(ii), Apr. 7, 1986, 100 Stat. 264; amended Pub. L. 100–203, title IX, §9306(e)(2), Dec. 22, 1987, 101 Stat. 1330–355; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
 

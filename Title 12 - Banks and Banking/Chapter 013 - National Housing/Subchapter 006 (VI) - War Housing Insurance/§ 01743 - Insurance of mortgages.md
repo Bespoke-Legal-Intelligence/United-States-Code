@@ -76,7 +76,3 @@ Subsec. (c). Act May 22, 1946, inserted “and any mortgage insurance premiums p
 
 Section 12 of act May 26, 1942, provided that nothing contained in act May 26, 1942 \[amending this subchapter\] shall be construed to supersede or be inconsistent with the provisions of Ex. Ord. No. 9070, Feb. 24, 1942.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1715c, 1731b, 1738, 1745, 1746, 1750g, 3702 of this title; title 5 sections 551, 701; title 42 section 1594a.
-

@@ -22,7 +22,3 @@ Subsection (a) of this section does not apply in the case of an agency or depart
 
 Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 of Pub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1681d of this title.
-

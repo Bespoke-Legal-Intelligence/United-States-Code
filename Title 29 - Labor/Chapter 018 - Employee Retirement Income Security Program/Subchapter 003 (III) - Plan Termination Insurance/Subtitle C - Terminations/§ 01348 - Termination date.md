@@ -34,7 +34,3 @@ Amendment by Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, s
 
 Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1053, 1461 of this title; title 26 section 411.
-

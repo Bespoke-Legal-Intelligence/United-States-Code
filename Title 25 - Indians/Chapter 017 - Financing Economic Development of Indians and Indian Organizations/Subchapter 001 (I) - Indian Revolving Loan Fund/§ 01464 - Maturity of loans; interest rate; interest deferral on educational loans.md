@@ -4,7 +4,3 @@ Loans shall be for terms that do not exceed thirty years and shall bear interest
 
 (Pub. L. 93–262, title I, §104, Apr. 12, 1974, 88 Stat. 78.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1511 of this title.
-

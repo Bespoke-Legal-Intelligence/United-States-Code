@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—RESEARCH, DEVELOPMENT, AND DEMONSTRATION REGARDING DISPOSAL OF HIGH-LEVEL RADIOACTIVE WASTE AND SPENT NUCLEAR FUEL
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 10139, 10222 of this title.
-
 
 ---
 

@@ -21,6 +21,7 @@
 | [310\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000310%20-%20Financial%20Crimes%20Enforcement%20Network.md) | Financial Crimes Enforcement Network. |
 | [311\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000311%20-%20Office%20of%20Intelligence%20and%20Analysis.md) | Office of Intelligence and Analysis. |
 | [312\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000312%20-%20Continuing%20in%20office.md) | Continuing in office. |
+| [313\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000313%20-%20Terrorism%20and%20Financial%20Intelligence.md) | Terrorism and Financial Intelligence.<sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

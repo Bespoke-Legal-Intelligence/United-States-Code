@@ -22,7 +22,7 @@ Within 3 years after October 24, 1992, the Secretary shall solicit proposals for
 
 #### (c) Selection of technology
 
-Any technology selected by the Secretary for recommendation for prototype demonstration under this section shall to the maximum extent possible exhibit the characteristics set forth in section 13493(a) of this title.
+Any technology selected by the Secretary for recommendation for prototype demonstrationunder this section shall to the maximum extent possible exhibit the characteristics set forth in section 13493(a) of this title.
 
 (Pub. L. 102–486, title XXI, §2124, Oct. 24, 1992, 106 Stat. 3084.)
 

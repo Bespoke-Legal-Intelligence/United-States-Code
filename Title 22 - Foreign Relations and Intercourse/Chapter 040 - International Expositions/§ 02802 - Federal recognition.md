@@ -26,7 +26,3 @@ The President shall report his actions under this section promptly to the Congre
 
 (Pub. L. 91–269, §2, May 27, 1970, 84 Stat. 271.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2803, 2804 of this title.
-

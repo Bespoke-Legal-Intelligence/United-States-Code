@@ -16,7 +16,7 @@ Any annuity treated as a charitable gift annuity, or any trust treated as a char
 
 &emsp;(2) in any schedule, form, or written document provided by or on behalf of the donee to the donor;
 
-> shall be conclusively presumed for the purposes of this section and section 37a of this title to be respectively a charitable gift annuity or a charitable remainder trust, unless there has been a final determination by the Internal Revenue Service that, for fraud or otherwise, the donor's annuity or trust did not qualify respectively as a charitable gift annuity or charitable remainder trust when created.
+> shall be conclusively presumed for the purposes of this section and section 37a of this title to be respectively a charitable gift annuity or a charitable remainder trust, unless there has been a final determination by the Internal Revenue Service that, for fraud or otherwise, the donor'sannuity or trust did not qualify respectively as a charitable gift annuity or charitable remainder trust when created.
 
 #### (d) Limitation
 
@@ -55,8 +55,4 @@ Details of Study and Report.—The report referred to in subsection (a) shall in
 “(c)
 
 Submission of Report.—The Attorney General shall submit the report referred to in subsection (a) to the Chairman and the ranking member of the Committee on the Judiciary of the House of Representatives, and to the Chairman and the ranking member of the Committee on the Judiciary of the Senate, not later than 27 months after the date of the enactment of this Act \[July 3, 1997\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 37a of this title.
 

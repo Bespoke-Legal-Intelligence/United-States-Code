@@ -58,7 +58,7 @@ Subsec. (e). Pub. L. 105–220, §408(a)(1)(B), substituted “individualized pl
 
 1992—Pub. L. 102–569, §102(p)(29)(A), substituted “disabilities” for “handicaps” in section catchline.
 
-Subsec. (a). Pub. L. 102–569, §503(a), substituted “the Director of the Office of Personnel Management, theSecretary of Veterans Affairs” for “the Secretary of Veterans Affairs, and”, and amended second sentence generally. Prior to amendment, second sentence read as follows: “The Secretary of Education and the Chairman of the Commission shall serve as co-chairpersons of the Committee.”
+Subsec. (a). Pub. L. 102–569, §503(a), substituted “the Director of the Office of Personnel Management, the Secretary of Veterans Affairs” for “the Secretary of Veterans Affairs, and”, and amended second sentence generally. Prior to amendment, second sentence read as follows: “The Secretary of Education and the Chairman of the Commission shall serve as co-chairpersons of the Committee.”
 
 Pub. L. 102–569, §102(p)(29)(B), (C), substituted “Interagency Committee on Employees who are Individuals with Disabilities” for “Interagency Committee on Handicapped Employees” and “individuals with disabilities” for “individuals with handicaps” in two places.
 
@@ -116,7 +116,7 @@ Effective Date.—Except as provided in subsection (b), this title \[enacting se
 
 “(b)
 
-Compliance.—Each State agency subject to the provisions of title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\] shall comply with the amendments made by this subtitle \[subtitle B (§§121–138) of title I of Pub. L. 102–569, enacting sections 725 to 728a and 740 to 744 of this title, amending sections 705, 720 to 724, and 730 to 732 of this title, and repealing section 752 of this title\], as soon as is practicable after the date of enactment of this Act \[Oct. 29, 1992\], consistent with the effective and efficient administration of the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], but not later than October 1, 1993.”
+Compliance.—Each State agency subject to the provisions of title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\] shall comply with the amendments made by this subtitle \[subtitle B (§§121–138) of title I of Pub. L. 102–569, enacting sections 725 to 728a and 740 to 744 of this title, amending sections 705, 720 to 724, and 730 to 732 of this title, and repealing section 752 of thistitle\], as soon as is practicable after the date of enactment of this Act \[Oct. 29, 1992\], consistent with the effective and efficient administration of the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], but not later than October 1, 1993.”
 
 #### Effective Date of 1986 Amendment
 
@@ -198,7 +198,7 @@ Section 1. <i>Increasing the Federal Employment Opportunities for Individuals wi
 
 Sec. 2. <i>Implementation</i>. Each Federal agency shall prepare a plan to increase the opportunities for individuals with disabilities to be employed in the agency. Each agency shall submit that plan to the Office of Personnel Management within 60 days from the date of this order.
 
-Sec. 3. <i>Authority to Develop Guidance</i>. The Office of Personnel Management shall develop guidance on the provisions of this order to increase the opportunities for individuals with disabilities employed in the Federal Government.
+Sec. 3. <i>Authority to Develop Guidance</i>. The Office of Personnel Management shall develop guidance on the provisions of this order to increase the opportunitiesfor individuals with disabilities employed in the Federal Government.
 
 Sec. 4. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, its employees, or any person.
 
@@ -245,8 +245,4 @@ Sec. 5. <i>Construction and Judicial Review</i>. (a) Nothing in this order limit
 (b) This order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, its employees, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 705, 794a, 794d of this title; title 2 section 1311; title 3 sections 411, 421; title 5 sections 2302, 3102, 7702; title 22 sections 3905, 4131; title 38 section 4214; title 42 sections 1981a, 2000e–16b.
 

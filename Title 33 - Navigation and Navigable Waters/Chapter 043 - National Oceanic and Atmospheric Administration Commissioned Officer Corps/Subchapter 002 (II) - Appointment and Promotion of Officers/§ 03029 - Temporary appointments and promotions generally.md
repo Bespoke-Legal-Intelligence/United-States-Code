@@ -18,3 +18,7 @@ When determined by the Secretary to be in the best interest of the service, offi
 
 Provisions similar to those in this section were contained in section 853j–1 of this title prior to repeal by Pub. L. 107–372.
 
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of Commerce by section 1(b)–(d) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
+

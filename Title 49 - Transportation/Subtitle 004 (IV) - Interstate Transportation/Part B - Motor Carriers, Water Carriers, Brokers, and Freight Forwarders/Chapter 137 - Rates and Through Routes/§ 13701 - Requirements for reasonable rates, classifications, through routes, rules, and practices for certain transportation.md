@@ -42,7 +42,7 @@ Adjustments to the zone.—The percentage specified in paragraph (1) shall be in
 
 &emsp;(3)
 
-Determinations after complaint.—The Board shall determine whether any rate or division of a carrier or service in noncontiguous domestic trade which is not within the range described in paragraph (1) is reasonable if a complaint is filed under subsection (c) or section 13702(b)(6).
+Determinations after complaint.—The Board shall determine whether any rate or division of a carrier or service in noncontiguous domestic trade which is not within the rangedescribed in paragraph (1) is reasonable if a complaint is filed under subsection (c) or section 13702(b)(6).
 
 &emsp;(4)
 
@@ -57,8 +57,4 @@ Provisions similar to those in this section were contained in sections 10701, 10
 #### Effective Date
 
 Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13541, 13702, 13710 of this title.
 

@@ -14,7 +14,3 @@ Amounts may be expended from the fund only upon deposit by the State of Massachu
 
 (Pub. L. 100–95, §3, Aug. 18, 1987, 101 Stat. 704.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1771d, 1771f of this title.
-

@@ -68,7 +68,3 @@ In subsection (b), the words “may not participate” are substituted for “sh
 
 In subsection (c)(3), the words “the quality of instruction” are substituted for “quality instruction” for consistency in the subsection.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 922.
-

@@ -106,121 +106,9 @@
 
 I74subpart i—marketing quotas—tobacco
 
-|  |  |
-| :--- | ---: |
-| [1311\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001311%20-%20Legislative%20findings.md) | Legislative findings. |
-| [1312\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001312%20-%20National%20marketing%20quota.md) | National marketing quota. |
-| (a) | Proclamation of quota. |
-| (b) | Announcement of amount of quota. |
-| (c) | Referendum on quotas. |
-| [1313\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001313%20-%20Apportionment%20of%20national%20marketing%20quota.md) | Apportionment of national marketing quota. |
-| (a) | Apportionment among States. |
-| (b) | Allotment of quota among producing farms. |
-| (c) | Allotment to previous nonproducing farms and small farms. |
-| (d) | Transfer of farm marketing quotas. |
-| (e) | Quota for 1938; minimum State allotments. |
-| (f) | Increase of 1938 quota. |
-| (g) | Conversion of national marketing quota into national acreage allotment. |
-| (h) | Repealed. |
-| (i) | Increase of marketing quotas and acreage allotments to meet demand. |
-| (j) | Tobacco acreage allotments for 1956, 1957, and 1958. |
-| (j) | Old farm tobacco acreage allotment. |
-| [1314\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314%20-%20Penalties.md) | Penalties. |
-| (a) | Persons liable. |
-| (b) | Collection and deposit. |
-| (c) | Lien in favor of United States. |
-| 1314–1. | Limitation on sale of tobacco floor sweepings. |
-| (a) | Penalty. |
-| (b) | Assessment; notice and opportunity for hearing; determination. |
-| (c) | Relation to other law. |
-| (d) | Definitions. |
-| [1314a.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314a%20-%20Repealed.%20Pub.%20L.%2090%E2%80%9351%2C%20%C2%A72%2C%20July%207%2C%201967%2C%2081%20Stat.%20121.md) | Repealed. |
-| [1314b.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314b%20-%20Lease%20or%20sale%20of%20acreage%20allotments.md) | Lease or sale of acreage allotments. |
-| (a) | Conditions for permission from Secretary; false statements; exceptions. |
-| (b) | Term of years; terms and conditions. |
-| (c) | Filing with county committees; calculation of normal yield for transfer. |
-| (d) | Allotments for other years unaffected; inclusion of amount in transferors’ plantings; referendum voting rights. |
-| (e) | Limitation on amount of acreage allotment; “tillable cropland” defined. |
-| (f) | Regulations. |
-| (g) | Sale of allotment or quota by one active Flue-cured tobacco producer to another; definition. |
-| (h) | Sale or forfeiture of allotment or quota; notice and opportunity for hearing; determination; review. |
-| (h) | Transfer authority. |
-| 1314b–1. | Mandatory sale of certain Flue-cured tobacco acreage allotments and marketing quotas. |
-| (a) | Sale or forfeiture of acreage allotment or marketing quota by institutional farmowners not later than the later of December 1, 1984, or December 1 of year after year in which farm acquired. |
-| (b) | Forfeiture of acreage allotment or marketing quota by farmowners on or after December 1, 1983. |
-| (c) | Notice and opportunity for hearing; determination; review. |
-| 1314b–2. | Mandatory sale of certain Burley tobacco acreage allotments and marketing quotas. |
-| (a) | Sale or forfeiture of marketing quota by institutional farmowners not later than the later of December 1, 1984, or December 1 of year after year in which farm acquired. |
-| (b) | Notice and opportunity for hearing; determination; review. |
-| (c) | Sale or forfeiture of allotment or quota by subsequent purchaser; notice and opportunity for hearing; determination; review. |
-| [1314c.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314c%20-%20Acreage-poundage%20quotas.md) | Acreage-poundage quotas. |
-| (a) | Definitions. |
-| (b) | National marketing quota, acreage allotment and average yield goal for Flue-cured tobacco; referendum. |
-| (c) | Tobacco having marketing quotas on acreage basis; determination of Secretary of program on acreage-poundage basis; announcement of national marketing quota, acreage allotment and average yield goal; referendum. |
-| (d) | Proclamation of national marketing quota for three years following last year of three years of acreage-poundage quotas; referendum; notice of farm marketing quota to farm operators. |
-| (e) | Nonestablishment of farm acreage allotment or farm yield for farms without tobacco production for five years; reserve; “new farms” defined; acreage allotment and farm yield basis of new farms. |
-| (f) | Acreage reduction penalties applicable to acreage-poundage programs; farm marketing quota reductions; filing false reports; increases or decreases in acreage allotments and farm yields for other farms of owner displaced by agency acquisition of farms; leases and sales of acreage allotments and farm marketing quotas; ratification of transfers of acreage allotments. |
-| (g) | Marketing penalties. |
-| (h) | Burley tobacco; acreage-poundage basis: farm acreage allotment and farm marketing quota, adjustments for overmarketing or undermarketing, reductions for violations; acreage and quota additional to national acreage allotment and national marketing quota; acreage basis: acreage allotment, amendment of clause (1) and proviso of section 1315. |
-| (i) | Consultations with industry representatives respecting a program for each kind of tobacco, studies of Flue-cured tobacco acreage-poundage program, report and recommendations to congressional committees, upon referendum approval of Flue-cured tobacco acreage-poundage program. |
-| (j) | Treatment of falsely identified tobacco for purposes of establishing future farm marketing quotas. |
-| (k) | Forfeiture of allotment and quota. |
-| (<i>l</i>) | Determination of Flue-cured tobacco planted acreage. |
-| [1314d.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314d%20-%20Fire-cured%2C%20dark%20air-cured%2C%20and%20Virginia%20sun-cured%20tobacco.md) | Fire-cured, dark air-cured, and Virginia sun-cured tobacco. |
-| (a) | Sale or lease of acreage allotments and acreage-poundage quotas. |
-| (b) | Conditions for transfers. |
-| (c) | Transfer of acreage history and marketing quota. |
-| (d) | Five-year restriction on new farm allotments or quotas. |
-| (e) | Allotment adjustment. |
-| (f) | Lease term. |
-| (g) | Transfer of allotments. |
-| (h) | Future allotments; referendum voting eligibility. |
-| (i) | Land utilization agreements; payment adjustments. |
-| (j) | Rules and regulations. |
-| [1314e.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314e%20-%20Farm%20poundage%20quotas%20for%20certain%20kinds%20of%20tobacco.md) | Farm poundage quotas for certain kinds of tobacco. |
-| (a) | Proclamations and referenda regarding burley tobacco. |
-| (b) | Proclamations and referenda regarding dark air-cured tobacco and types 22 and 23 fire-cured tobacco. |
-| (c) | Amount of national marketing quota, determination; national reserve, establishment. |
-| (d) | Farm yields; determination; limitation. |
-| (e) | Farm marketing quotas; preliminary quotas, determination, limitation; succeeding years, quota computation, limitations, increase and reduction of quotas; new farms, limitation. |
-| (f) | Reductions for false information. |
-| (g) | Leases and transfers of farm quotas; limitations. |
-| (h) | Loss of quotas through underplanting. |
-| (i) | Marketing penalties. |
-| (j) | Regulations. |
-| (k) | Lease and transfer of burley tobacco quota assigned. |
-| (<i>l</i>) | Lease and transfer of Burley tobacco quota. |
-| (m) | Computerized recordkeeping system for Burley tobacco quota and acreage. |
-| (n) | Sale of Burley tobacco quota. |
-| [1314f.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314f%20-%20Nonquota%20tobacco%20subject%20to%20quota.md) | Nonquota tobacco subject to quota. |
-| [1314g.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314g%20-%20Submission%20of%20purchase%20intentions%20by%20cigarette%20manufacturers.md) | Submission of purchase intentions by cigarette manufacturers. |
-| (a) | Quantity of intended purchases; aggregation not to allow identification. |
-| (b) | Failure to submit; determination of quantity of intended purchases by Secretary. |
-| (c) | Confidentiality of information; disclosure; publication of identity of violators; penalties. |
-| (d) | Exemption from public disclosure. |
-| [1314h.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314h%20-%20Purchase%20requirements%3B%20penalty.md) | Purchase requirements; penalty. |
-| (a) | Statement of quantity purchased during marketing year. |
-| (b) | Failure to purchase at least 90 percent of quantity of intended purchases; reduction in quantity of intended purchases. |
-| (c) | Penalty for failure to purchase specified amount. |
-| (d) | Transmission of penalty by Secretary; deposit in No Net Cost Fund or Account. |
-| (e) | Confidentiality of information submitted; disclosure; publication of identity of violators; exemption from public disclosure; penalties. |
-| (f) | “Quota tobacco” defined. |
-| [1314i.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314i%20-%20Domestic%20marketing%20assessment.md) | Domestic marketing assessment. |
-| (a) | Certification. |
-| (b) | Penalties. |
-| (c) | Domestic marketing assessment. |
-| (d) | Purchase of Burley tobacco. |
-| (e) | Purchase of Flue-cured tobacco. |
-| (f) | Crop losses due to disasters. |
-| (g) | Effective date. |
-| [1314j.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314j%20-%20Tobacco%20production%20and%20marketing%20information.md) | Tobacco production and marketing information. |
-| (a) | In general. |
-| (b) | Limitations. |
-| (c) | Assistance. |
-| (d) | Records. |
-| (e) | Application. |
-| [1315\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001315%20-%20Burley%20tobacco%20acreage%20allotments.md) | Burley tobacco acreage allotments. |
-| [1316\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001316%20-%20Transfer%20of%20allotments%20subsequent%20to%201965.md) | Transfer of allotments subsequent to 1965. |
+|  |
+| :--- |
+| 1311 to 1316. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -444,12 +332,7 @@ I74subpart i—publication and review of quotas
 | (a) | Allotment pool. |
 | (b) | Circumstances precluding application of provisions. |
 | (c) | Time of displacement determining application of provisions. |
-| (d), | (e) Omitted. |
-| (f) | Burley tobacco marketing allotment and acreage as meaning marketing quota and poundage. |
 | [1379\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20C%20-%20Administrative%20Provisions/Subpart%20002%20%28ii%29%20-%20Adjustment%20of%20Quotas%20and%20Enforcement/%C2%A7%2001379%20-%20Reconstitution%20of%20farms.md) | Reconstitution of farms. |
-| (a) | Transfers from parent farm. |
-| (b) | Combination of tracts in contiguous counties. |
-| (c) | Burley tobacco poundage quotas. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -530,10 +413,6 @@ I74subpart i—miscellaneous
 | 1401 to 1407. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 511r, 1428, 1442, 1444a, 1446c, 1515, 1745, 2279, 7301, 7502, 7992 of this title.
 
 
 ---

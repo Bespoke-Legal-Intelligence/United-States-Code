@@ -74,7 +74,3 @@ In subsection (c)(2)(B), the words “or tagged” and “if any” are omitted 
 
 Subsection (d) is substituted for 15:2026(d) for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 33102, 33114 of this title.
-

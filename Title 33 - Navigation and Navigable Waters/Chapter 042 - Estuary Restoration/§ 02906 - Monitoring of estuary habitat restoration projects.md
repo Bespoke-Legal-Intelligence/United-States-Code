@@ -10,7 +10,7 @@ The Under Secretary, in consultation with the Council, shall develop and maintai
 
 #### (c) Monitoring data standards
 
-The Under Secretary, in consultation with the Council, shall develop standard data formats for monitoring projects, along with requirements for types of data collected and frequency of monitoring.
+The Under Secretary, in consultation with the Council, shall develop standard data formats formonitoring projects, along with requirements for types of data collected and frequency of monitoring.
 
 #### (d) Coordination of data
 
@@ -25,8 +25,4 @@ The Under Secretary shall use existing programs within the National Oceanic and 
 The Under Secretary shall make the information collected and maintained under this section available to the public.
 
 (Pub. L. 106–457, title I, §107, Nov. 7, 2000, 114 Stat. 1964.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2903, 2904, 2907 of this title.
 

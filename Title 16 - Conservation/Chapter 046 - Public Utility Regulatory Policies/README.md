@@ -107,10 +107,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 10 section 2867; title 42 sections 6807, 7375.
-
 
 ---
 

@@ -80,7 +80,3 @@ The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. 
 
 “(b) The Comptroller General shall give the President, the Secretary of the Treasury, and the Government corporation a copy of the report when it is submitted to Congress.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 sections 831n–4, 838i; title 22 section 2199; title 42 section 12651d.
-

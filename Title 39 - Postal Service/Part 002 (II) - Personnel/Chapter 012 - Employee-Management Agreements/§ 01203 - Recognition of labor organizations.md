@@ -22,7 +22,3 @@
 
 The date of enactment of this section, referred to in subsec. (b), means the date of enactment of Pub. L. 91–375, which was approved Aug. 12, 1970.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1004, 1206, 1209 of this title; title 5 section 8473.
-

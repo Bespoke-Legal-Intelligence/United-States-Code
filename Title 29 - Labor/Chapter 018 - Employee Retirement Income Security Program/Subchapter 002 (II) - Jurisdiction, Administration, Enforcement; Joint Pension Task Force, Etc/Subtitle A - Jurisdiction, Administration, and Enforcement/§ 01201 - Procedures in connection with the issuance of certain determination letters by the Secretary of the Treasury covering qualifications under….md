@@ -50,9 +50,5 @@ This section does not apply with respect to an application for any plan received
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1140, 1141 of this title; title 26 section 7476.
-
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

@@ -1,9 +1,5 @@
 subpart 3—eligibility and certification procedures
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 1002, 1087, 1094, 1099a, 1099b of this title.
-
 
 ---
 

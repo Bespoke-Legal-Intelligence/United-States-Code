@@ -50,7 +50,3 @@ The Secretary shall accept or reject, in writing, any offer to purchase made thr
 
 This Act, referred to in subsecs. (a) and (g), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2304 of this title; title 16 sections 460qqq–4, 1248.
-

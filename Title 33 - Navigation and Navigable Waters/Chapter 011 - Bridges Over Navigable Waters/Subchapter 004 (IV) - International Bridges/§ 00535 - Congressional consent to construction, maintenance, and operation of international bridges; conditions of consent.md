@@ -8,7 +8,3 @@ The consent of Congress is hereby granted to the construction, maintenance, and 
 
 Section 1 of Pub. L. 92–434 provided: “That this Act \[enacting this subchapter and amending section 129 of Title 23, Highways\] may be cited as the ‘International Bridge Act of 1972’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 535b of this title.
-

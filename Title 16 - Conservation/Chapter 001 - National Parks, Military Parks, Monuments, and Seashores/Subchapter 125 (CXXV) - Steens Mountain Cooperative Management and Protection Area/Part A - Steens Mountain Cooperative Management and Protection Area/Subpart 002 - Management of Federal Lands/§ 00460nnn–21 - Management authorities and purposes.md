@@ -32,7 +32,3 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), 
 
 This subchapter, referred to in subsecs. (a) and (b)(1), was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460nnn of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460nnn of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—SURVEYS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 892, 892a of this title.
-
 
 ---
 

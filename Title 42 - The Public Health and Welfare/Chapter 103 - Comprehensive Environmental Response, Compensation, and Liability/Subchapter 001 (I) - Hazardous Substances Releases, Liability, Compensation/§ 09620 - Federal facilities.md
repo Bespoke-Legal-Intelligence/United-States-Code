@@ -154,7 +154,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Administrator, with the concurrence of the Governor of the State in which the facility is located (in the case of real property at a Federal facility that is listed on the National Priorities List), or the Governor of the State in which the facility is located (in the case of real property at a Federal facility not listed on the National Priorities List) may defer the requirement of subparagraph (A)(ii)(I) with respect to the property if the Administrator or the Governor, as the case may be, determinesthat the property is suitable for transfer, based on a finding that—
+&emsp;&emsp;&emsp;The Administrator, with the concurrence of the Governor of the State in which the facility is located (in the case of real property at a Federal facility that is listed on the National Priorities List), or the Governor of the State in which the facility is located (in the case of real property at a Federal facility not listed on the National Priorities List) may defer the requirement of subparagraph (A)(ii)(I) with respect to the property if the Administrator or the Governor, as the case may be, determines that the property is suitable for transfer, based on a finding that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the property is suitable for transfer for the use intended by the transferee, and the intended use is consistent with protection of human health and the environment;
 
@@ -250,7 +250,7 @@ Nothing in this section shall affect or impair the obligation of any department,
 
 #### (1) Site specific Presidential orders
 
-&emsp;The President may issue such orders regarding response actions at any specified site or facility of the Department of Energy or the Department of Defense as may be necessary to protect the national security interests of the United States at that site or facility. Such orders may include, where necessary to protect such interests, an exemption from any requirement contained in this subchapter or under title III of the Superfund Amendmentsand Reauthorization Act of 1986 \[42 U.S.C. 11001 et seq.\] with respect to the site or facility concerned. The President shall notify the Congress within 30 days of the issuance of an order under this paragraph providing for any such exemption. Such notification shall include a statement of the reasons for the granting of the exemption. An exemption under this paragraph shall be for a specified period which may not exceed one year. Additional exemptions may be granted, each upon the President's issuance of a new order under this paragraph for the site or facility concerned. Each such additional exemption shall be for a specified period which may not exceed one year. It is the intention of the Congress that whenever an exemption is issued under this paragraph the response action shall proceed as expeditiously as practicable. The Congress shall be notified periodically of the progress of any response action with respect to which an exemption has been issued under this paragraph. No exemption shall be granted under this paragraph due to lack of appropriation unless the President shall have specifically requested such appropriation as a part of the budgetary process and the Congress shall have failed to make available such requested appropriation.
+&emsp;The President may issue such orders regarding response actions at any specified site or facility of the Department of Energy or the Department of Defense as may be necessary to protect the national security interests of the United States at that site or facility. Such orders may include, where necessary to protect such interests, an exemption from any requirement contained in this subchapter or under title III of the Superfund Amendments and Reauthorization Act of 1986 \[42 U.S.C. 11001 et seq.\] with respect to the site or facility concerned. The President shall notify the Congress within 30 days of the issuance of an order under this paragraph providing for any such exemption. Such notification shall include a statement of the reasons for the granting of the exemption. An exemption under this paragraph shall be for a specified period which may not exceed one year. Additional exemptions may be granted, each upon the President's issuance of a new order under this paragraph for the site or facility concerned. Each such additional exemption shall be for a specified period which may not exceed one year. It is the intention of the Congress that whenever an exemption is issued under this paragraph the response action shall proceed as expeditiously as practicable. The Congress shall be notified periodically of the progress of any response action with respect to which an exemption has been issued under this paragraph. No exemption shall be granted under this paragraph due to lack of appropriation unless the President shall have specifically requested such appropriation as a part of the budgetary process and the Congress shall have failed to make available such requested appropriation.
 
 #### (2) Classified information
 
@@ -272,7 +272,7 @@ The Atomic Energy Act, referred to in subsec. (j)(2), probably means the Atomic 
 
 1996—Subsec. (a)(4). Pub. L. 104–201, §334(b), inserted “or facilities that are the subject of a deferral under subsection (h)(3)(C) of this section” after “United States”.
 
-Subsec. (d). Pub. L. 104–201, §330(2)–(4), designated existing provisions as par. (1), inserted par. heading, substituted “The Administrator” for “Not later than 18 months after October 17, 1986, the Administrator”, realigned margins of par. (1) and subpars. (A) and (B), and substituted pars. (2) and (3) for “Such criteria shall be applied in the same manner as the criteria are applied to facilities which are owned or operated by other persons. Evaluation and listing under this subsection shall be completed not later than 30 months after October 17, 1986. Upon the receipt of a petition from the Governor of any State, the Administrator shall make such an evaluation of any facility included in the docket.”
+Subsec. (d). Pub. L. 104–201, §330(2)–(4), designated existing provisions as par. (1), inserted par. heading, substituted “The Administrator” for “Not later than 18 months after October 17, 1986, the Administrator”, realigned margins of par. (1) and subpars. (A) and (B), and substituted pars. (2) and (3) for “Such criteria shall beapplied in the same manner as the criteria are applied to facilities which are owned or operated by other persons. Evaluation and listing under this subsection shall be completed not later than 30 months after October 17, 1986. Upon the receipt of a petition from the Governor of any State, the Administrator shall make such an evaluation of any facility included in the docket.”
 
 Pub. L. 104–201, §330(1), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 
@@ -288,7 +288,7 @@ Pub. L. 104–106, §2834(1), struck out first sentence of concluding provisions
 
 Subsec. (h)(4)(A). Pub. L. 104–201, §331, substituted “known to have been released” for “stored for one year or more, known to have been released,”.
 
-1992—Subsec. (h)(3). Pub. L. 102–426, §4(a), inserted at end “For purposes of subparagraph (B)(i), all remedial action described in such subparagraph has been takenif the construction and installation of an approved remedial design has been completed, and the remedy has been demonstrated to the Administrator to be operating properly and successfully. The carrying out of long-term pumping and treating, or operation and maintenance, after the remedy has been demonstrated to the Administrator to be operating properly and successfully does not preclude the transfer of the property.”
+1992—Subsec. (h)(3). Pub. L. 102–426, §4(a), inserted at end “For purposes of subparagraph (B)(i), all remedial action described in such subparagraph has been taken if the construction and installation of an approved remedial design has been completed, and the remedy has been demonstrated to the Administrator to be operating properly and successfully. The carrying out of long-term pumping and treating, or operation and maintenance, after the remedy has been demonstrated to the Administrator to be operating properly and successfully does not preclude the transfer of the property.”
 
 Subsec. (h)(3)(C). Pub. L. 102–426, §4(b), added subpar. (C).
 
@@ -333,8 +333,4 @@ Section 120(b) of Pub. L. 99–499 provided that: “Section 120 of CERCLA \[42 
 &emsp;“(3) published in the National Priorities List.
 
 > In preparing such plans, the Secretary of Energy shall consult with the Administrator of the Environmental Protection Agency.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9604, 9607, 9609, 9613, 9617, 9622, 9659 of this title; title 10 section 2701; title 50 section 2811.
 

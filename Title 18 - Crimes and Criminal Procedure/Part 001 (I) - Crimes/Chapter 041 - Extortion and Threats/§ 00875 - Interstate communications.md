@@ -30,7 +30,3 @@ Subsec. (d). Pub. L. 103–322, §330016(1)(G), substituted “fined under this 
 
 1986—Pub. L. 99–646 inserted “or foreign” after “interstate” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1956 of this title; title 8 section 1101.
-

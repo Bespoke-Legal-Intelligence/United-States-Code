@@ -18,7 +18,3 @@ Funds appropriated pursuant to sections 2566 to 2569 of this title shall remain 
 
 Section effective Oct. 1, 1978, see section 4(d) of Pub. L. 95–270, set out as a note under section 2566 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2566, 2567, 2568 of this title.
-

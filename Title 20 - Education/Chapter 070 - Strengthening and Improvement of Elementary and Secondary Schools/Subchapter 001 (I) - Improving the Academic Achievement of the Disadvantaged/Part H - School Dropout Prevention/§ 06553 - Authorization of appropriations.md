@@ -8,7 +8,3 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 (Pub. L. 89–10, title I, §1803, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1610.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6561a of this title.
-

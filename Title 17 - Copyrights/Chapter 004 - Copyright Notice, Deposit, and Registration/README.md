@@ -21,10 +21,6 @@
 
 1988—Pub. L. 100–568, §§7(g), 9(b)(2), Oct. 31, 1988, 102 Stat. 2859, inserted in items 405 and 406 “on certain copies and phonorecords” and substituted in item 411 “Registration and infringement actions” for “Registration as prerequisite to infringement suit”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 912 of this title.
-
 
 ---
 

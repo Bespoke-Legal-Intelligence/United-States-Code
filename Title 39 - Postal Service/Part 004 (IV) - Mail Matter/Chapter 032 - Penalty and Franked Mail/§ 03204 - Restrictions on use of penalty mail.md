@@ -36,9 +36,5 @@ Amendment by Pub. L. 99–87 not effective after Dec. 31, 2002, see section 5 of
 
 #### Transfer of Functions
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) bysections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 1701z–2; title 15 section 637; title 16 section 460<i>l</i>–1; title 29 section 2900; title 42 section 12651d.
+Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 

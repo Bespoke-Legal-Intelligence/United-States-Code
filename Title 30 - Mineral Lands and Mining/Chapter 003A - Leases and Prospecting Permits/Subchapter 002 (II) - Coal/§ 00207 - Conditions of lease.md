@@ -18,7 +18,3 @@ Prior to taking any action on a leasehold which might cause a significant distur
 
 1976—Pub. L. 94–377 designated existing provisions as subsec. (a), substituted provisions limiting the lease term to 20 years and for so long thereafter as coal is produced annually in commercial quantities for provision authorizing leases for indeterminate periods upon condition of diligent development and continued operation except for strikes, the elements, or casualties not attributable to lessees; provisions for payment of royalties as determined by the Secretary of not less than 121/2 per centum of coal value, except as reduced for coal from underground mining operations for provisions specifying royalties as stated in the lease, but not less than 5 cents per ton; provision for rentals as prescribed by regulation for provision setting rentals as fixed by the Secretary at not less than 25 cents per acre for the first year, 50 cents for the second, third, fourth and fifth years, and $1 for each year thereafter, and provision for readjustment of royalties and terms and conditions after primary period of twenty years and subsequent ten year intervals for provision for readjustment after twenty years unless otherwise provided by law, and added subsecs. (b) and (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 201, 203, 208, 1256, 1272 of this title; title 10 sections 7421, 7435.
-

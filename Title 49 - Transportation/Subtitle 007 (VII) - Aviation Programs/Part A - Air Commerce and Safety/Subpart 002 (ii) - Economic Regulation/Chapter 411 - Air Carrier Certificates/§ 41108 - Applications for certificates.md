@@ -96,7 +96,3 @@ In subsection (c)(1), the words “In any determination as to whether or not” 
 
 In subsection (c)(2), the words “In any determination as to whether” are omitted as surplus. The reference is to section 41102(b)(2), rather than 41102(a), of the revised title to reflect the termination of authority under 49 App.:1551(a)(1)(A).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41102, 41109, 41111 of this title.
-

@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to establish, construct, equip, oper
 
 (Aug. 6, 1956, ch. 978, §1, 70 Stat. 1057.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 760–8 of this title.
-

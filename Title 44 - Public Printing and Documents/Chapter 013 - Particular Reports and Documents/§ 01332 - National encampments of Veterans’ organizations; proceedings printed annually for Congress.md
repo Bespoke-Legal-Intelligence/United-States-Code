@@ -12,7 +12,3 @@ Based on 44 U.S. Code, 1964 ed., §275b (Mar. 2, 1931, ch. 378, §1, 46 Stat. 14
 
 1998—Pub. L. 105–225 struck out “the United Spanish War Veterans,” before “the Veterans of Foreign Wars of the United States”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 36 section 10101.
-

@@ -26,7 +26,7 @@ Within 24 months after November 15, 1990, the Administrator shall conduct an ass
 
 &emsp;&emsp;(A) add any State or portion of a State to a visibility transport region when the Administrator determines that the interstate transport of air pollutants from such State significantly contributes to visibility impairment in a class I area located within the transport region, or
 
-&emsp;&emsp;(B) remove any State or portion of a State from the region whenever the Administrator has reason to believe that the control of emissions in that State or portion of the State pursuant to this section will not significantly contribute to the protection or enhancement of visibility in any class I area in the region.
+&emsp;&emsp;(B) remove any State or portion of a State from the region whenever the Administratorhas reason to believe that the control of emissions in that State or portion of the State pursuant to this section will not significantly contribute to the protection or enhancement of visibility in any class I area in the region.
 
 #### (2) Visibility transport commissions
 
@@ -62,7 +62,7 @@ A Visibility Transport Commission—
 
 #### (e) Duties of Administrator
 
-(1) The Administrator shall, taking into account the studies pursuant to subsection (a)(1) of this section and the reports pursuant to subsection (d)(2) of this section and any other relevant information, within eighteen months of receipt of the report referred to in subsection (d)(2) of this section, carry out the Administrator's regulatory responsibilities under section7491 of this title, including criteria for measuring “reasonable progress” toward the national goal.
+(1) The Administrator shall, taking into account the studies pursuant to subsection (a)(1) of this section and the reports pursuant to subsection (d)(2) of this section and any other relevant information, within eighteen months of receipt of the report referred to in subsection (d)(2) of this section, carry out the Administrator's regulatory responsibilities under section 7491 of this title, including criteria for measuring “reasonable progress” toward the national goal.
 
 (2) Any regulations promulgated under section 7491 of this title pursuant to this subsection shall require affected States to revise within 12 months their implementation plans under section 7410 of this title to contain such emission limits, schedules of compliance, and other measures as may be necessary to carry out regulations promulgated pursuant to this subsection.
 

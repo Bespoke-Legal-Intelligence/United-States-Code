@@ -22,7 +22,3 @@ If the Secretary arbitrarily or capriciously fails to seek relief under this sec
 
 Rule 65 of the Federal Rules of Civil Procedures, referred to in subsec. (b), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 1341; title 3 section 425.
-

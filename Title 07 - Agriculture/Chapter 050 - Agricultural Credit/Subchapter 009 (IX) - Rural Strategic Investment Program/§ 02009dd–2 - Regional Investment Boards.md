@@ -50,7 +50,7 @@ The National Board may certify a group representing the interests described in s
 
 #### (D) Certification
 
-&emsp;&emsp;To be certified by the National Board, a Regional Board shall demonstrate to the National Board that the Regional Board isbroadly representative of the interests described in subparagraph (A).
+&emsp;&emsp;To be certified by the National Board, a Regional Board shall demonstrate to the National Board that the Regional Board is broadly representative of the interests described in subparagraph (A).
 
 #### (E) Appeals
 
@@ -81,8 +81,4 @@ The National Board may certify a group representing the interests described in s
 &emsp;&emsp;(E) select a non-Federal organization (such as a regional development organization) in the local area served by the Regional Board that has previous experience in the management of Federal funds to serve as fiscal manager of any funds of the Regional Board.
 
 (Pub. L. 87–128, title III, §385C, as added Pub. L. 107–171, title VI, §6030, May 13, 2002, 116 Stat. 403.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2009dd–1, 2009dd–3, 2009dd–5, 2009dd–6 of this title.
 

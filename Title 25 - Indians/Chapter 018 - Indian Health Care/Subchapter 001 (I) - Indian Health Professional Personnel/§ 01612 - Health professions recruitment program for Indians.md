@@ -38,7 +38,3 @@ Subsec. (c). Pub. L. 102–573, §117(b)(1), struck out subsec. (c) which author
 
 1980—Subsec. (c). Pub. L. 96–537 substituted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, for provisions authorizing appropriation of such amounts as may be specifically authorized by an act enacted after Sept. 30, 1976.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1603 of this title.
-

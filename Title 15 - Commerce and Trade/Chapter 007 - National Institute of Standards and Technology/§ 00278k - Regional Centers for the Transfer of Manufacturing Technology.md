@@ -2,7 +2,7 @@
 
 #### (a) Creation and support of Centers; affiliations; merit review in determining awards; objectives
 
-The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of Regional Centers for the Transfer of Manufacturing Technology (hereafter in this chapter referred to as the “Centers”). Such centers <sup>1</sup> shall be affiliated with any United States-based nonprofit institution or organization, or group thereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2) of this section. Individual awards shall be decided on the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
+The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of Regional Centers for the Transfer of Manufacturing Technology <sup>1</sup> (hereafter in this chapter referred to as the “Centers”). Such centers <sup>2</sup> shall be affiliated with any United States-based nonprofit institution or organization, or group thereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2) of this section. Individual awards shall be decidedon the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
 
 &emsp;(1) the transfer of manufacturing technology and techniques developed at the Institute to Centers and, through them, to manufacturing companies throughout the United States;
 
@@ -52,7 +52,7 @@ The activities of the Centers shall include—
 
 #### (d) Acceptance of funds from other Federal departments and agencies
 
-In addition to such sums as may be authorized and appropriated to the Secretary and Director to operate the Centers program, the Secretary and Director also may accept funds from other Federal departments and agencies for the purpose of providing Federal funds to support Centers. Any Center which is supported with funds which originally came from other Federal departments and agencies shall be selected and operated according to the provisions of this section.
+In addition to such sums as may be authorized and appropriated to the Secretary and Directorto operate the Centers program, the Secretary and Director also may accept funds from other Federal departments and agencies for the purpose of providing Federal funds to support Centers. Any Center which is supported with funds which originally came from other Federal departments and agencies shall be selected and operated according to the provisions of this section.
 
 (Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935.)
 
@@ -63,6 +63,10 @@ In addition to such sums as may be authorized and appropriated to the Secretary 
 1992—Subsec. (c)(6). Pub. L. 102–245, §105(e)(1), inserted before period at end “except for contracts for such specific technology extension or transfer services as may be specified by statute or by the Director”.
 
 Subsec. (d). Pub. L. 102–245, §105(e)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated for the purposes of carrying out this section, a combined total of not to exceed $40,000,000 for fiscal years 1989 and 1990. Such sums shall remain available until expended.”
+
+#### Change of Name
+
+Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2879, provided in part: “That hereafter the Manufacturing Extension Partnership Program authorized under 15 U.S.C. 278k shall be renamed the Hollings Manufacturing Partnership Program and the centers established and receiving funding under 15 U.S.C. 278k paragraph (a) shall be named the Hollings Manufacturing Extension Centers.”
 
 #### Agreements and Contributions for Collective Research and Development Initiatives
 
@@ -86,9 +90,7 @@ Pub. L. 103–317, title II, Aug. 26, 1994, 108 Stat. 1741.
 
 Pub. L. 100–519, title I, §102(d), Oct. 24, 1988, 102 Stat. 2590, provided that: “The requirement of section 25(c)(2) of the Act of March 3, 1901, \[15 U.S.C. 278k(c)(2)\], shall be considered to have been met by the publication made by the National Bureau of Standards on July 18, 1988 (53 Fed. Reg. 27060).”
 
-#### Section Referred to in Other Sections
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 
-This section is referred to in sections 272, 278g–5, 278<i>l</i> of this title; title 10 section 2199.
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

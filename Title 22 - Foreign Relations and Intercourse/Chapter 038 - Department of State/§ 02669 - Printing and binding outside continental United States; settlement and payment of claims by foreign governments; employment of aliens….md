@@ -16,25 +16,27 @@ The Secretary of State may use funds appropriated or otherwise available to the 
 
 &emsp;(g) obtain services as authorized by section 3109 of title 5 at a rate not to exceed the maximum rate payable for GS–18 under section 5332 of such title 5;
 
-&emsp;(h) directly procure goods and services in the United States or abroad, solely for use by United States Foreign Service posts abroad when the Secretary of State, in accordance with guidelines established in consultation with the Administrator of General Services, determines that use of the Federal SupplyService or otherwise applicable Federal goods and services acquisition authority would not meet emergency overseas security requirements determined necessary by the Secretary, taking into account overseas delivery, installation, maintenance, or replacement requirements, except that the authority granted by this paragraph shall cease to be effective when the amendment made by section 2711 of the Competition in Contracting Act of 1984 takes effect and thereafter procurement by the Secretary of State for the purposes described in this paragraph shall be in accordance with section 253(c)(2) of title 41;
+&emsp;(h) directly procure goods and services in the United States or abroad, solely for use by United States Foreign Service posts abroad when the Secretary of State, in accordance with guidelines established in consultation with the Administrator of General Services, determines that use of the Federal Supply Service or otherwise applicable Federal goods and services acquisition authority would not meet emergency overseas security requirements determined necessary by the Secretary, taking into account overseas delivery, installation, maintenance, or replacement requirements, except that the authority granted by this paragraph shall cease to be effective when the amendment made by section 2711 of the Competition in Contracting Act of 1984 takes effect and thereafter procurement by the Secretary of State for the purposes described in this paragraph shall be in accordance with section 253(c)(2) of title 41;
 
 &emsp;(i) pay obligations assumed in Germany on or after June 5, 1945;
 
 &emsp;(j) provide telecommunications services;
 
-&emsp;(k) provide maximum physical security in Government-owned and leased properties and vehicles abroad; and
+&emsp;(k) provide maximum physical security in Government-owned and leased properties and vehicles abroad;
 
-&emsp;(<i>l</i>) purchase special purpose passenger motor vehicles without regard to any price limitation otherwise established by law.
+&emsp;(<i>l</i>) purchase special purpose passenger motor vehicles without regard to any price limitation otherwise established by law;
 
-&emsp;(m) pay obligations arising under international agreements, conventions, and binational contracts to the extent otherwise authorized by law.
+&emsp;(m) pay obligations arising under international agreements, conventions, and binational contracts to the extent otherwise authorized by law;
 
-&emsp;(n) exercise the authority provided in subsection (c) of this section, upon the request of the Secretary of Defense or the head of any other department or agency of the United States, to enter into personal service contracts with individuals to perform services in support of the Department of Defense or such other department or agency, as the case may be.
+&emsp;(n) exercise the authority provided in subsection (c) of this section, upon the request of the Secretary of Defense or the head of any other department or agency of the United States, to enter into personal service contracts with individuals to perform services in support of the Department of Defense or such other department or agency, as the case may be; and
 
-(Aug. 1, 1956, ch. 841, title I, §2, 70 Stat. 890; Pub. L. 86–624, §2, July 12, 1960, 74 Stat. 411; Pub. L. 86–707, title V, §511(a)(2), Sept. 6, 1960, 74 Stat. 800; Pub. L. 87–565, pt. IV, §402, Aug. 1, 1962, 76 Stat. 263; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 98–533, title III, §303(a), Oct. 19, 1984, 98 Stat. 2710; Pub. L. 99–93, title I, §§114, 118(a), Aug. 16, 1985, 99 Stat. 411, 412; Pub. L. 101–246, title I, §111, Feb. 16, 1990, 104 Stat. 21; Pub. L. 102–20, §4, Mar. 27, 1991, 105 Stat. 68; Pub. L. 102–138, title I, §120, Oct. 28, 1991, 105 Stat. 658; Pub. L. 103–236, title I, §§137, 162(k)(4), 180(b), Apr. 30, 1994, 108 Stat. 397, 409, 416; Pub. L. 107–107, div. A, title VIII, §833, Dec. 28, 2001, 115 Stat. 1191.)
+&emsp;(<i>o</i>) make administrative corrections or adjustments to an employee's pay, allowances, or differentials, resulting from mistakes or retroactive personnel actions, as well as provide back pay and other categories of payments under section 5596 of title 5, as part of the settlement or compromise of administrative claims or grievances filed against the Department.
+
+(Aug. 1, 1956, ch. 841, title I, §2, 70 Stat. 890; Pub. L. 86–624, §2, July 12, 1960, 74 Stat. 411; Pub. L. 86–707, title V, §511(a)(2), Sept. 6, 1960, 74 Stat. 800; Pub. L. 87–565, pt. IV, §402, Aug. 1, 1962, 76 Stat. 263; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 98–533, title III, §303(a), Oct. 19, 1984, 98 Stat. 2710; Pub. L. 99–93, title I, §§114, 118(a), Aug. 16, 1985, 99 Stat. 411, 412; Pub. L. 101–246, title I, §111, Feb. 16, 1990, 104 Stat. 21; Pub. L. 102–20, §4, Mar. 27, 1991, 105 Stat. 68; Pub. L. 102–138, title I, §120, Oct. 28, 1991, 105 Stat. 658; Pub. L. 103–236, title I, §§137, 162(k)(4), 180(b), Apr. 30, 1994, 108 Stat. 397, 409, 416; Pub. L. 107–107, div. A, title VIII, §833, Dec. 28, 2001, 115 Stat. 1191; Pub. L. 108–447, div. B, title IV, §413, Dec. 8, 2004, 118 Stat. 2906.)
 
 #### References in Text
 
-The effective date of the amendment made by section 2711 of the Competition in Contracting Act of 1984, referred to in subsec. (h), is the effective date of section 2711 of title VII of Pub. L. 98–369, div. B, July 18, 1984, 98 Stat. 1175, 1203, which amended section 253 of Title 41, Public Contracts, applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985. See section 2751(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 251 of Title 41.
+The effective date of the amendment made by section 2711 of the Competition in Contracting Act of 1984, referred to in subsec. (h), is the effective date of section 2711 of title VII of Pub. L. 98–369, div. B, July 18, 1984, 98 Stat. 1175, 1203, which amended section 253 of Title41, Public Contracts, applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985. See section 2751(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 251 of Title 41.
 
 #### Codification
 
@@ -43,6 +45,16 @@ In subsec. (a), “section 501 of title 44” substituted for “section 11 of t
 Section was formerly classified to section 170g of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+2004—Subsec. (k). Pub. L. 108–447, §413(b)(1), which directed the striking out of “and”, was executed by striking out “and” after semicolon, to reflect the probable intent of Congress.
+
+Subsec. (<i>l</i>). Pub. L. 108–447, §413(b)(3), substituted semicolon for period at end.
+
+Subsec. (m). Pub. L. 108–447, §413(b)(2), (3), transferred subsec. (m) to appear after subsec. (<i>l</i>) and substituted semicolon for period at end.
+
+Subsec. (n). Pub. L. 108–447, §413(b)(4), substituted “; and” for period at end.
+
+Subsec. (<i>o</i>). Pub. L. 108–447, §413(a), added subsec. (<i>o</i>).
 
 2001—Subsec. (n). Pub. L. 107–107 added subsec. (n).
 
@@ -80,9 +92,5 @@ Section 118(b) of Pub. L. 99–93 provided that: “Authority provided by the am
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2605, 4341, 4904 of this title; title 15 section 4723.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

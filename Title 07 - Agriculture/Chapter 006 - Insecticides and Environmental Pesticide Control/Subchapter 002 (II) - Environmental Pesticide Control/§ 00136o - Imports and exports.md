@@ -52,7 +52,3 @@ Section 18(b) of Pub. L. 95–396 provided that: “The amendment made by subsec
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 136a of this title.
-

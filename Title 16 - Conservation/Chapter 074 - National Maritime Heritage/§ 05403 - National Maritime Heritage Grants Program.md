@@ -70,7 +70,7 @@ There is hereby established within the Department of the Interior the National M
 
 #### (d) Criteria for direct grant and subgrant eligibility
 
-To qualify for a subgrant from the National Trust under subsection (b) of this section, or adirect grant to or a subgrant from a State Historic Preservation Officer under subsection (c) of this section, a person must—
+To qualify for a subgrant from the National Trust under subsection (b) of this section, or a direct grant to or a subgrant from a State Historic Preservation Officer under subsection (c) of this section, a person must—
 
 &emsp;(1) demonstrate that the project for which the direct grant or subgrant will be used has the potential for reaching a broad audience with an effective educational program based on American maritime history, technology, or the role of maritime endeavors in American culture;
 
@@ -191,10 +191,6 @@ The Secretary shall submit to the Congress, after review by the Committee, an an
 &emsp;(3) recommended priorities for achieving the policy set forth in section 5402 of this title.
 
 (Pub. L. 103–451, §4, Nov. 2, 1994, 108 Stat. 4770.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5404, 5405, 5406 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

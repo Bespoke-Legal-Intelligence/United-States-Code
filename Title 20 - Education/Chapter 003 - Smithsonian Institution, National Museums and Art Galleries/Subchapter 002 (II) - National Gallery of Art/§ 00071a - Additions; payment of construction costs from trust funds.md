@@ -16,7 +16,3 @@ Section 4 of Pub. L. 90–376 provided that: “The Commissioner \[Mayor\] of th
 
 Section 5 of Pub. L. 90–376 provided that: “If any public utility (whether privately or publicly owned) located within the area referred to in the first section of this Act \[this section\] is required to be relocated or protected by reason of the construction within such area of any addition to the National Gallery of Art, the cost of such relocation or protection shall be paid from trust funds administered by the Trustees of the National Gallery of Art.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 71b of this title.
-

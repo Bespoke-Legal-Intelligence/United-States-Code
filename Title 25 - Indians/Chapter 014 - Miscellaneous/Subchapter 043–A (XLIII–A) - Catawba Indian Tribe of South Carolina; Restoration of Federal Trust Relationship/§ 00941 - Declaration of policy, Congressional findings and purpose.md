@@ -26,7 +26,7 @@ The Congress declares and finds that:
 
 &emsp;(6) The 102d Congress has enacted legislation suspending until October 1, 1993, the running of any unexpired statute of limitation applicable to the Tribe's land claim in order to provide additional time to negotiate settlement of these claims.
 
-&emsp;(7) It is recognized that both Indian and non-Indian parties enter into this settlement to resolve the disputes raised in these lawsuits andto derive certain benefits. The parties’ Settlement Agreement constitutes a good faith effort to resolve these lawsuits and other claims and requires implementing legislation by the Congress of the United States, the General Assembly of the State of South Carolina, and the governing bodies of the South Carolina counties of York and Lancaster.
+&emsp;(7) It is recognized that both Indian and non-Indian parties enter into this settlement to resolve the disputes raised in these lawsuits and to derive certain benefits. The parties’ Settlement Agreement constitutes a good faith effort to resolve these lawsuits and other claims and requires implementing legislation by the Congress of the United States, the General Assembly of the State of South Carolina, and the governing bodies of the South Carolina counties of York and Lancaster.
 
 &emsp;(8) To advance the goals of the Federal policy of Indian self-determination and restoration of terminated Indian Tribes, and in recognition of the United States obligation to the Tribe and the Federal policy of settling historical Indian claims through comprehensive settlement agreements, it is appropriate that the United States participate in the funding and implementation of the Settlement Agreement.
 

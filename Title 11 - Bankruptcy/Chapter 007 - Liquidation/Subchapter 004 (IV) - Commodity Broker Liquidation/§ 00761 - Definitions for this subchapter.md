@@ -152,7 +152,7 @@ Paragraph (b) \[probably should be “(6)” which was enacted as (5)\] defines 
 
 Paragraphs (7), (8), and (9) \[enacted as (6), (7), and (8)\] define “commodity options dealer,” “contract market,” “contract of sale,” “commodity,” “future delivery,” “board of trade,” and “futures commission merchant.”
 
-Paragraph (10) \[enacted as (9)\] defines the term “customer” to mean with respect to a futures commission merchant or a foreign futures commission merchant, the entity for whom the debtor carries a commodity futures contract or foreign future, or with whom such a contract is carried (such as another commodity broker), or from whom the debtor has received, acquired, or holds cash, securities, or other property arising out of or connected with specified transactions involving commodity futures contracts or foreign futures. This section also defines “customer” in the context of leverage transaction merchants, clearing organizations, and commodity options dealers. Persons associated with a commodity broker, such as its employees, officers, or partners, may be customers under this definition.
+Paragraph (10) \[enacted as (9)\] defines the term “customer” to mean with respect to a futures commissionmerchant or a foreign futures commission merchant, the entity for whom the debtor carries a commodity futures contract or foreign future, or with whom such a contract is carried (such as another commodity broker), or from whom the debtor has received, acquired, or holds cash, securities, or other property arising out of or connected with specified transactions involving commodity futures contracts or foreign futures. This section also defines “customer” in the context of leverage transaction merchants, clearing organizations, and commodity options dealers. Persons associated with a commodity broker, such as its employees, officers, or partners, may be customers under this definition.
 
 The definition of “customer” serves to isolate that class of persons entitled to the protection subchapter IV provides to customers. In addition, section 101(5) defines “commodity broker” to mean a futures commission merchant, foreign futures commission merchant, clearing organization, leverage transaction merchant, or commodity options dealer, with respect to which there is a customer. Accordingly, the definition of customer also serves to designate those entities which must utilize chapter 7 and are precluded from reorganizing under chapter 11.
 
@@ -180,7 +180,7 @@ Paragraph (15) \[enacted as (17)\] defines “net equity” to include the value
 
 #### References in Text
 
-The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat.998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
 
@@ -225,8 +225,4 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 362, 546, 548, 556 of this title; title 12 section 1821.
 

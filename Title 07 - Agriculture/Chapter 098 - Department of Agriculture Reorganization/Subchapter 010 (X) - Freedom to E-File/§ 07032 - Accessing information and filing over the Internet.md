@@ -16,7 +16,3 @@ In carrying out subsection (a) of this section, the Secretary shall ensure that 
 
 (Pub. L. 106–222, §3, June 20, 2000, 114 Stat. 354.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7033 and 7034 of this title.
-

@@ -12,7 +12,3 @@ Any Presidential action taken under this chapter with respect to a foreign count
 
 (Pub. L. 105–292, title IV, §409, Oct. 27, 1998, 112 Stat. 2809.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6442 of this title.
-

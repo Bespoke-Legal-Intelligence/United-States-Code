@@ -4,7 +4,3 @@ The areas of sumps 1(a) and 1(b) in the Klamath project lying within the Executi
 
 (Pub. L. 88–567, §5, Sept. 2, 1964, 78 Stat. 851.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 695r of this title.
-

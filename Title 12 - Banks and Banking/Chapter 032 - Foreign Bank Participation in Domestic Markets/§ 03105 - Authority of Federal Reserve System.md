@@ -90,7 +90,7 @@
 
 #### (B) Other considerations
 
-&emsp;&emsp;In deciding whether to use its discretion under subparagraph (A), the Board shall also consider whether the foreign bank has adopted and implements procedures to combat money laundering. The Board may also take into account whether the home country of the foreign bank is developing a legal regime to address money laundering or is participating in multilateral efforts to combat money laundering.
+&emsp;&emsp;In deciding whether to use its discretion under subparagraph (A), the Board shall also consider whether the foreign bank hasadopted and implements procedures to combat money laundering. The Board may also take into account whether the home country of the foreign bank is developing a legal regime to address money laundering or is participating in multilateral efforts to combat money laundering.
 
 #### (C) Additional conditions
 
@@ -232,7 +232,7 @@ The Board shall request and consider any views of the appropriate State bank sup
 
 #### (B) Money laundering offense defined
 
-&emsp;&emsp;The term “money laundering offense” means any criminal offense under section1956 or 1957 of title 18 or under section 5322 of title 31.
+&emsp;&emsp;The term “money laundering offense” means any criminal offense under section 1956 or 1957 of title 18 or under section 5322 of title 31.
 
 #### (j) Study on equivalence of foreign bank capital
 
@@ -335,10 +335,6 @@ Amendment by section 1604(a)(1), (2), (12), (13) of Pub. L. 102–550 effective 
 #### Moratorium on Examination Fees Under This Chapter
 
 Section 115(a) of Pub. L. 103–328 provided that: “Section 7(c)(1)(D) of the International Banking Act of 1978 \[12 U.S.C. 3105(c)(1)(D)\] shall not apply with respect to any examination under section 7(c)(1)(A) of such Act which begins before or during the 3-year period beginning on July 25, 1994.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 347d, 372, 461, 1813, 1820, 3102, 3103, 3107 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

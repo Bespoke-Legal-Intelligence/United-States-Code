@@ -6,7 +6,7 @@ For the purpose of obtaining Federal payments and commodities in conjunction wit
 
 #### (b) Administration of program; eligibility determinations and regulations
 
-The Secretary of Defense shall administer breakfast programs authorized by this section and shall determine eligibility for free and reduced-price breakfasts under the criteria published by the Secretary of Agriculture, except that the Secretary of Defense shall prescribe regulations governing computation of income eligibility standards for families of students participating in the school breakfast program under this section.
+The Secretary of Defense shall administer breakfast programs authorized by this section and shall determine eligibility for free and reduced-price breakfasts under the criteria published by the Secretary of Agriculture, except that the Secretary of Defense shall prescribe regulations governing computation of incomeeligibility standards for families of students participating in the school breakfast program under this section.
 
 #### (c) Nutritional standards for meals; noncompliance with standards
 
@@ -32,13 +32,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Effective Date
 
-Section effective Oct. 1, 1978, and no provisions to be construed to impair or to prevent the taking of effectof any other Act providing for the transfer of the described functions to an executive department having responsibility for education, see section 1415 of Pub. L. 95–561, set out as a note under section 921 of Title 20, Education.
+Section effective Oct. 1, 1978, and no provisions to be construed to impair or to prevent the taking of effect of any other Act providing for the transfer of the described functions to an executive department having responsibility for education, see section 1415 of Pub. L. 95–561, set out as a note under section 921 of Title 20, Education.
 
 #### Transfer of Functions
 
 For transfer to Secretary of Education of functions of Secretary of Defense and Department of Defense relating to operation of overseas schools for dependents of Department of Defense and under Defense Dependents’ Education Act of 1978, 42 U.S.C. 921 et seq., see section 3442(a) of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2243.
 

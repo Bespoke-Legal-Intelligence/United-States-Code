@@ -12,7 +12,3 @@ Section 29 of act Aug. 27, 1954, provided that: “All Acts or parts of Acts, in
 
 Section 30 of act Aug. 27, 1954, provided that: “If any provision of this Act \[this subchapter\], or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 676b of this title.
-

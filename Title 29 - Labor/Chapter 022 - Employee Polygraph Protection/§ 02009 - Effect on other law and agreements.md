@@ -4,7 +4,3 @@ Except as provided in subsections (a), (b), and (c) of section 2006 of this titl
 
 (Pub. L. 100–347, §10, June 27, 1988, 102 Stat. 653.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2006 of this title.
-

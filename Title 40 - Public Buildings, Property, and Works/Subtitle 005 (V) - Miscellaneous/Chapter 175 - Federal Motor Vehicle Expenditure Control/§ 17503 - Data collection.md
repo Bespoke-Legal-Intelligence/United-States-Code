@@ -36,7 +36,3 @@ Pub. L. 99–272, title XV, §15302, Apr. 7, 1986, 100 Stat. 335.
 
 In subsection (a), the words “including vehicles owned or leased by the Federal Government and privately owned vehicles” are substituted for “Government-owned vehicles, leased vehicles, and privately owned vehicles” for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 17504 of this title.
-

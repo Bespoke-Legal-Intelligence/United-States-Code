@@ -100,7 +100,3 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 Section 623(b)(3) of Pub. L. 98–525 provided that: “A member of the uniformed services who, on September 30, 1984, was entitled to special pay under section 307 of title 37, United States Code \[this section\], as in effect on such date, may continue to be paid the special pay authorized by such section as though the amendments made by this subsection \[amending this section\] had not been made. However, a member may not be paid the special pay authorized by such section as in effect on September 30, 1984, and the special pay authorized by such section as amended by this section.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 201, 907 of this title.
-

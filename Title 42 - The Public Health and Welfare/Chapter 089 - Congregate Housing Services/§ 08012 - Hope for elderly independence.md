@@ -18,9 +18,9 @@ In connection with this demonstration, the Secretary of Housing and Urban Develo
 
 &emsp;&emsp;(B) The public housing agency shall ensure the provision of at least 50 percent from sources other than under this section.
 
-&emsp;&emsp;(C) Notwithstanding any other provision of law, each frail elderly person shall pay 10percent of the costs of the supportive services that the person receives, except that a frail elderly person may not be required to pay an amount that exceeds 20 percent of the adjusted income (as the term is defined in section 1437a(b)(5) of this title) of such person and the Secretary shall provide for the waiver of the requirement to pay costs under this subparagraph for persons whose income is determined to be insufficient to provide for any payment.
+&emsp;&emsp;(C) Notwithstanding any other provision of law, each frail elderly person shall pay 10 percent of the costs of the supportive services that the person receives, except that a frail elderly person may not be required to pay an amount that exceeds 20 percent of the adjusted income (as the term is defined in section 1437a(b)(5) of this title) of such person and the Secretary shall provide for the waiver of the requirement to pay costs under this subparagraph for persons whose income is determined to be insufficient to provide for any payment.
 
-&emsp;&emsp;(D) To the extent that the limitation under subparagraph (C) regarding the percentage of income frail elderly persons may pay for services will result in collected amounts for any public housing agency of less than 10 percent of the cost of providing the services, 50 percent of such remaining costs shall be provided by the public housing agency and 50 percent of such remaining costs shall be provided by the Secretary from amounts appropriated under this section.
+&emsp;&emsp;(D) To the extent that the limitation under subparagraph (C) regarding the percentage of income frail elderly persons maypay for services will result in collected amounts for any public housing agency of less than 10 percent of the cost of providing the services, 50 percent of such remaining costs shall be provided by the public housing agency and 50 percent of such remaining costs shall be provided by the Secretary from amounts appropriated under this section.
 
 #### (2) Provision of services for entire demonstration
 
@@ -78,7 +78,7 @@ An application under this section shall be submitted by a public housing agency 
 
 #### (2) Consultation with HHS
 
-&emsp;In reviewing the applications, the Secretary shall consult with the Secretary of Health andHuman Services with respect to the supportive services aspects.
+&emsp;In reviewing the applications, the Secretary shall consult with the Secretary of Health and Human Services with respect to the supportive services aspects.
 
 #### (3) Funding limitations
 
@@ -195,10 +195,6 @@ Subsec. (g)(1). Pub. L. 102–550, §605(c)(2), added par. (1) and struck out fo
 Subsec. (j). Pub. L. 102–550, §605(a), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The Secretary may provide assistance under sections 1437f(b) and 1437f(<i>o</i>) of this title in connection with the demonstrations under this section, in an amount not to exceed $34,000,000 for fiscal year 1991, and $35,500,000 for fiscal year 1992, subject to the approval of sufficient amounts in appropriations Acts under section 1437c of this title.”
 
 Subsec. (k). Pub. L. 102–550, §605(b), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “There are authorized to be appropriated for the Secretary to carry out the responsibilities for supportive services under the demonstrations under this section, $10,000,000 to become available in fiscal year 1991, and $10,400,000 to become available in fiscal year 1992, and remain available until expended.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8011 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should precede “and”.</i>
 

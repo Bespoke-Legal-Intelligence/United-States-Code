@@ -8,7 +8,3 @@ It shall not be lawful for the court to sentence any person convicted in such tr
 
 R.S. §4304 derived from act June 11, 1864, ch. 121, §5, 13 Stat. 125.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 47 section 31.
-

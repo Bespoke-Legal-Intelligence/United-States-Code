@@ -24,7 +24,3 @@
 
 Pub. L. 106–523, §1, Nov. 22, 2000, 114 Stat. 2488, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Military Extraterritorial Jurisdiction Act of 2000’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7, 3262, 3263, 3264, 3265 of this title.
-

@@ -20,7 +20,3 @@ Pub. L. 105–269, §1, Oct. 19, 1998, 112 Stat. 2381, provided that: “This Ac
 
 Act of Mar. 16, 1934, ch. 71, 48 Stat. 451, as amended, which is classified generally to this subchapter, is popularly known as the “Migratory Bird Hunting Stamp Act” and also as the “Duck Stamp Act”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 718e of this title.
-

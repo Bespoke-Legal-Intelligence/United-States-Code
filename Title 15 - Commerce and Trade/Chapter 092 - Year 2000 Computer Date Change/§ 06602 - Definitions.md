@@ -58,7 +58,3 @@ In this chapter:
 
 (Pub. L. 106–37, §3, July 20, 1999, 113 Stat. 187.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6003 of this title.
-

@@ -18,7 +18,7 @@
 
 &emsp;(G) except as provided in paragraph (2) of this subsection, for each fiscal year thereafter an amount equal to 5 percent of such sum for fiscal year 1971.
 
-(2) After fiscal year 1984, the Postal Service may reduce the percentage figure in paragraph (1)(G) of this subsection, including a reduction to 0, if the Postal Service finds that theamounts determined under such paragraph are no longer required to operate the Postal Service in accordance with the policies of this title.
+(2) After fiscal year 1984, the Postal Service may reduce the percentage figure in paragraph (1)(G) of this subsection, including a reduction to 0, if the Postal Service finds that the amounts determined under such paragraph are no longer required to operate the Postal Service in accordance with the policies of this title.
 
 (c) There are authorized to be appropriated to the Postal Service each year a sum determined by the Postal Service to be equal to the difference between the revenues the Postal Service would have received if sections 3217 and 3403 through 3406 had not been enacted and the estimated revenues to be received on mail carried under such sections. In requesting an appropriation under this subsection for a fiscal year, the Postal Service shall include an amount to reconcile sums authorized to be appropriated for prior fiscal years on the basis of estimated mail volume.
 
@@ -30,7 +30,7 @@
 
 &emsp;(2) postal operations generally, including data on the speed and reliability of service provided for the various classes of mail and types of mail service, mail volume, productivity, trends in postal operations, and analyses of the impact of internal and external factors upon the Postal Service;
 
-&emsp;(3) a listing of the total expenditures and obligations incurred by the Postal Service for the most recent fiscal year for which information is available, an estimate of the total expenditures and obligations to be incurred by the Postal Service during the fiscal year for which funds are requested to be appropriated, and the means by which these estimated expenses will be financed; and
+&emsp;(3) a listing of the total expenditures and obligations incurred by the Postal Service for the most recent fiscal year for which information is available, an estimate of the total expenditures and obligations to be incurred by the Postal Service during the fiscal year for which funds are requested to be appropriated,and the means by which these estimated expenses will be financed; and
 
 &emsp;(4) such other matters as the committees may determine necessary to ensure that the Congress is fully and currently consulted and informed on postal operations, plans, and policies.
 
@@ -88,6 +88,10 @@ Subsec. (c). Pub. L. 96–499, §414(a), inserted provision requiring Postal Ser
 
 Subsecs. (d) to (i). Pub. L. 94–421, §2(b), added subsecs. (d) to (i).
 
+#### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
 #### Effective Date of 1993 Amendments
 
 Section 703(b) of Pub. L. 103–123 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993.”
@@ -120,7 +124,7 @@ Subsec. (a) of this section effective July 1, 1971, pursuant to Resolution No. 7
 
 #### Abolition of House Committee on Post Office and Civil Service
 
-Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No.6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Termination of Reporting Requirements
 
@@ -137,8 +141,4 @@ Section 1723 of Pub. L. 97–35, as amended effective Oct. 1, 1982, by Pub. L. 9
 &emsp;“(2) $708,000,000 for fiscal year 1983; or
 
 &emsp;“(3) $760,000,000 for fiscal year 1984.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2003, 2009, 2803, 2804, 3626, 3627 of this title.
 

@@ -30,7 +30,3 @@ A member of the Advisory Commission shall recuse himself or herself from any dec
 
 (Pub. L. 100–690, title I, §1042, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 231.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1531 of this title.
-

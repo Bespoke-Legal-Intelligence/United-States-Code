@@ -6,7 +6,7 @@ The Director shall provide for members of the Civilian Community Corps to receiv
 
 #### (b) Living allowance
 
-The Director shall provide a living allowance to members of the Corps for the period during which such members are engaged in training or any activity on a Corps project. The Director shall establish the amount of the allowance at any amount not in excess of the amount equal to 100 percent of the poverty line that is applicable to a family of two (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of this title.<sup>1</sup>
+The Director shall provide a living allowance to members of the Corps for the period during which such members are engaged in training orany activity on a Corps project. The Director shall establish the amount of the allowance at any amount not in excess of the amount equal to 100 percent of the poverty line that is applicable to a family of two (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of this title.<sup>1</sup>
 
 #### (c) Other authorized benefits
 
@@ -63,10 +63,6 @@ Subsecs. (f) to (h). Pub. L. 103–82, §104(g), added subsecs. (f) and (g) and 
 #### Effective Date of 1993 Amendment
 
 Amendment by section 104(b), (g) of Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 32 section 509.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the period.</i>
 

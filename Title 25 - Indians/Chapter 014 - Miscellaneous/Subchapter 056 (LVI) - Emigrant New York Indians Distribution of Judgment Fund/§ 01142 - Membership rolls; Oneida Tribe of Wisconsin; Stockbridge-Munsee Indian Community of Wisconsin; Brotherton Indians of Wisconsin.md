@@ -4,7 +4,3 @@ The Secretary of the Interior shall prepare rolls of all persons born on or prio
 
 (Pub. L. 90–93, §2, Sept. 27, 1967, 81 Stat. 229.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1143, 1144, 1145 of this title.
-

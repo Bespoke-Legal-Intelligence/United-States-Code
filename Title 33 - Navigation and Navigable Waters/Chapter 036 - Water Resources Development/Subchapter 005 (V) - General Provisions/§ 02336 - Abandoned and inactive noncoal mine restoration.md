@@ -16,7 +16,7 @@ Assistance provided under subsection (a) of this section may be in support of pr
 
 #### (c) Non-Federal share
 
-The non-Federal share of the cost of assistance under subsection (a) of this section shall be 50 percent, except that the Federal share with respect to projects located on land owned by the United States shall be 100 percent.
+The non-Federal share of the cost of assistance under subsection (a) of this section shall be50 percent, except that the Federal share with respect to projects located on land owned by the United States shall be 100 percent.
 
 #### (d) Effect on authority of Secretary of the Interior
 

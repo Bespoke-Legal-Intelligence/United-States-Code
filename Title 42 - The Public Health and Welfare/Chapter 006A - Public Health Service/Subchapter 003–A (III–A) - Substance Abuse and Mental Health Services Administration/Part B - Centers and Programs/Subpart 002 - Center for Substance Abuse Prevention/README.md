@@ -15,3 +15,4 @@ subpart 2—center for substance abuse prevention
 - [&sect; 00290bb&#8211;25c - Services for individuals with fetal alcohol syndrome](%C2%A7%2000290bb%E2%80%9325c%20-%20Services%20for%20individuals%20with%20fetal%20alcohol%20syndrome.md)
 - [&sect; 00290bb&#8211;25d - Centers of excellence on services for individuals with fetal alcohol syndrome and alcohol-related birth defects and treatment for&#8230;](%C2%A7%2000290bb%E2%80%9325d%20-%20Centers%20of%20excellence%20on%20services%20for%20individuals%20with%20fetal%20alcohol%20syndrome%20and%20alcohol-related%20birth%20defects%20and%20treatment%20for%E2%80%A6.md)
 - [&sect; 00290bb&#8211;25e - Prevention of methamphetamine and inhalant abuse and addiction](%C2%A7%2000290bb%E2%80%9325e%20-%20Prevention%20of%20methamphetamine%20and%20inhalant%20abuse%20and%20addiction.md)
+- [&sect; 00290bb&#8211;25f - Prevention and education programs](%C2%A7%2000290bb%E2%80%9325f%20-%20Prevention%20and%20education%20programs.md)

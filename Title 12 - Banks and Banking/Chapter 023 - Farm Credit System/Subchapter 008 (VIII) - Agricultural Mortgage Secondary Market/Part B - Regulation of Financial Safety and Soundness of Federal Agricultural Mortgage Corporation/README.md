@@ -1,9 +1,5 @@
 Part B—Regulation of Financial Safety and Soundness of Federal Agricultural Mortgage Corporation
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 2279cc of this title.
-
 
 ---
 

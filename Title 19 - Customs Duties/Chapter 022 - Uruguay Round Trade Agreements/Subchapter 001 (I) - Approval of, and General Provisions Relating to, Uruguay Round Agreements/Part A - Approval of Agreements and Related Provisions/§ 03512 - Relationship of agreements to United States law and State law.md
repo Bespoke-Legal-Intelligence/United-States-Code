@@ -44,7 +44,7 @@
 
 #### (C) Federal-State cooperation in WTO dispute settlement
 
-&emsp;&emsp;(i) When a WTO member requests consultations with the United States under Article 4 of the Understanding on Rules and Procedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of this title (hereafter in this subsection referred to as the “Dispute Settlement Understanding”) concerning whether the law of a State is inconsistent with the obligations undertaken by the United States in any of the Uruguay Round Agreements, the Trade Representative shall notify the Governor of the State or the Governor's designee, and the chief legal officer of the jurisdiction whose law is the subject of the consultations, as soon aspossible after the request is received, but in no event later than 7 days thereafter.
+&emsp;&emsp;(i) When a WTO member requests consultations with the United States under Article 4 of the Understanding on Rules and Procedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of this title (hereafter in this subsection referred to as the “Dispute Settlement Understanding”) concerning whether the law of a State is inconsistent with the obligations undertaken by the United States in any of the Uruguay Round Agreements, the Trade Representative shall notify the Governor of the State or the Governor's designee, and the chief legal officer of the jurisdiction whose law is the subject of the consultations, as soon as possible after the request is received, but in no event later than 7 days thereafter.
 
 &emsp;&emsp;(ii) Not later than 30 days after receiving such a request for consultations, the Trade Representative shall consult with representatives of the State concerned regarding the matter. If the consultations involve the laws of a large number of States, the Trade Representative may consult with an appropriate group of representatives of the States concerned, as determined by those States.
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(ii) the United States shall have the burden of proving that the law that is the subject of the action, or the application of that law, is inconsistent with the agreement in question;
 
-&emsp;&emsp;&emsp;(iii) any State whose interests may be impaired or impeded in the action shall have the unconditional right to intervene in the action as a party, and the United States shall be entitled to amend its complaint to include a claim or cross-claim concerning the law of a State that so intervenes; and
+&emsp;&emsp;&emsp;(iii) any State whose interests may be impaired or impeded in the action shall have the unconditional right to intervene in the action as a party, and the UnitedStates shall be entitled to amend its complaint to include a claim or cross-claim concerning the law of a State that so intervenes; and
 
 &emsp;&emsp;&emsp;(iv) any State law that is declared invalid shall not be deemed to have been invalid in its application during any period before the court's judgment becomes final and all timely appeals, including discretionary review, of such judgment are exhausted.
 

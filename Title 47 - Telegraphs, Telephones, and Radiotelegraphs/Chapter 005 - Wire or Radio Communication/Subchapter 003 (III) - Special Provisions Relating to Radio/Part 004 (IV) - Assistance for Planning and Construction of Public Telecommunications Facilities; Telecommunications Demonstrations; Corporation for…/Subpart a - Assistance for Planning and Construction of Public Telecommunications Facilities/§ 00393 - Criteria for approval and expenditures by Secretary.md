@@ -36,7 +36,3 @@ Of the sums appropriated pursuant to section 391 of this title for any fiscal ye
 
 Amendment by Pub. L. 95–567 effective Nov. 2, 1978, see section 403 of Pub. L. 95–567, set out as a note under section 390 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 392, 902 of this title.
-

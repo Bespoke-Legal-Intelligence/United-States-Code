@@ -20,7 +20,3 @@ The several district courts of the United States are vested with jurisdiction sp
 
 1998—Subsecs. (a), (b)(1). Pub. L. 105–185 substituted “order” for “plan” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4609, 4610a of this title.
-

@@ -30,7 +30,3 @@ Fourth par. Pub. L. 95–188, §202(c), required Class C members to be elected t
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 442 of this title.
-

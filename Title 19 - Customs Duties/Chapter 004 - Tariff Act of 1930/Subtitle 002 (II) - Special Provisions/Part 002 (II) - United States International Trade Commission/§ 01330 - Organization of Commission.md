@@ -14,7 +14,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 #### (c) Chairman and vice chairman; quorum
 
-(1) The chairman and the vice chairman of the Commission shall be designated by the President from among the members of the Commission not ineligible, under paragraph (3), for designation. The President shall notify the Congress of his designations under this paragraph. If, as of the date on which a term begins under paragraph (2), the President has not designatedthe chairman of the Commission for such term, the Commissioner <sup>1</sup> who, as of such date—
+(1) The chairman and the vice chairman of the Commission shall be designated by the President from among the members of the Commission not ineligible, under paragraph (3), for designation. The President shall notify the Congress of his designations under this paragraph. If, as of the date on which a term begins under paragraph (2), the President has not designated the chairman of the Commission for such term, the Commissioner <sup>1</sup> who, as of such date—
 
 &emsp;(A) is a member of a different political party than the chairman of the Commission for the immediately preceding term, and
 
@@ -64,7 +64,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 (4) In a case to which paragraph (2)(B)(ii) applies, for purposes of section 2253(a) of this title, notwithstanding section 2192(a)(1)(A) of this title, the second blank space in the joint resolution described in such section 2192(a)(1)(A) of this title shall be filled with the appropriate date and the following: “The action which shall take effect under section 203(a) of the Trade Act of 1974 is the finding or recommendation agreed upon by Commissioners \_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_\_\_, and \_\_\_\_\_\_\_\_\_\_\_\_.” The three blank spaces shall be filled with the names of the appropriate Commissioners.
 
-(5) Whenever, in any case in which the Commission is authorized to make an investigationupon its own motion, upon complaint, or upon application of any interested party, one-half of the number of commissioners voting agree that the investigation should be made, such investigation shall thereupon be carried out in accordance with the statutory authority covering the matter in question. Whenever the Commission is authorized to hold hearings in the course of any investigation and one-half of the number of commissioners voting agree that hearings should be held, such hearings shall thereupon be held in accordance with the statutory authority covering the matter in question.
+(5) Whenever, in any case in which the Commission is authorized to make an investigation upon its own motion, upon complaint, or upon application of any interested party, one-half of the number of commissioners voting agree that the investigation should be made, such investigation shall thereupon be carried out in accordance with the statutory authority covering the matter in question. Whenever the Commission is authorized to hold hearings in the course of any investigation and one-half of the number of commissioners voting agree that hearings should be held, such hearings shall thereupon be held in accordance with the statutory authority covering the matter in question.
 
 #### (e) Authorization of appropriations
 
@@ -88,7 +88,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 The Commission shall be considered to be an independent regulatory agency for purposes of chapter 35 of title 44.
 
-(June 17, 1930, ch. 497, title III, §330, 46 Stat. 696; Aug. 7, 1953, ch. 348, title II, §201, 67 Stat. 472; Pub. L. 93–618, title I, §§172(a), (b), 175(b), Jan. 3, 1975, 88 Stat. 2009–2011; Pub. L. 94–455, title XVIII, §1801(a), (b), Oct. 4, 1976, 90 Stat. 1762; Pub. L. 95–106, §§1, 2(a), Aug. 17, 1977, 91 Stat. 867; Pub. L. 95–430, Oct. 10, 1978, 92 Stat. 1020; Pub. L. 97–456, §1(a), Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title II, §248(c), title VII, §701, Oct. 30, 1984, 98 Stat. 2998, 3043; Pub. L. 99–272, title XIII, §13021, Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–203, title IX, §9502, Dec. 22, 1987, 101 Stat. 1330–380; Pub. L. 100–418, title I, §§1401(b)(4), 1611, 1612, Aug. 23, 1988, 102 Stat. 1240, 1262; Pub. L. 100–647, title IX, §9001(a)(15), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–207, §2, Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §101, Aug. 20, 1990, 104 Stat. 633; Pub. L. 102–185, §1(a)(1), (2), (c)(1), Dec. 4, 1991, 105 Stat. 1280; Pub. L. 107–210, div. A, title III, §371, Aug. 6, 2002, 116 Stat. 991.)
+(June 17, 1930, ch. 497, title III, §330, 46 Stat. 696; Aug. 7, 1953, ch. 348, title II, §201, 67 Stat. 472; Pub. L. 93–618, title I, §§172(a), (b), 175(b), Jan. 3, 1975, 88 Stat. 2009–2011; Pub. L. 94–455, titleXVIII, §1801(a), (b), Oct. 4, 1976, 90 Stat. 1762; Pub. L. 95–106, §§1, 2(a), Aug. 17, 1977, 91 Stat. 867; Pub. L. 95–430, Oct. 10, 1978, 92 Stat. 1020; Pub. L. 97–456, §1(a), Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title II, §248(c), title VII, §701, Oct. 30, 1984, 98 Stat. 2998, 3043; Pub. L. 99–272, title XIII, §13021, Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–203, title IX, §9502, Dec. 22, 1987, 101 Stat. 1330–380; Pub. L. 100–418, title I, §§1401(b)(4), 1611, 1612, Aug. 23, 1988, 102 Stat. 1240, 1262; Pub. L. 100–647, title IX, §9001(a)(15), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–207, §2, Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §101, Aug. 20, 1990, 104 Stat. 633; Pub. L. 102–185, §1(a)(1), (2), (c)(1), Dec. 4, 1991, 105 Stat. 1280; Pub. L. 107–210, div. A, title III, §371, Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(13), Dec. 3, 2004, 118 Stat. 2590.)
 
 #### References in Text
 
@@ -104,11 +104,13 @@ Provisions similar to those in this section were contained in act Sept. 8, 1916,
 
 #### Amendments
 
+2004—Subsec. (e)(4). Pub. L. 108–429 made technical correction to directory language of Pub. L. 107–210, §371(b). See 2002 Amendment note below.
+
 2002—Subsec. (e)(2)(A)(i). Pub. L. 107–210, §371(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “$41,170,000 for fiscal year 1991.”
 
 Subsec. (e)(2)(A)(ii). Pub. L. 107–210, §371(a)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “$44,052,000 for fiscal year 1992.”
 
-Subsec. (e)(4). Pub. L. 107–210, §371(b), added par. (4).
+Subsec. (e)(4). Pub. L. 107–210, §371(b), as amended by Pub. L. 108–429, added par. (4).
 
 1991—Subsec. (c)(1). Pub. L. 102–185, §1(c)(1), inserted at end “If, as of the date on which a term begins under paragraph (2), the President has not designated the chairman of the Commission for such term, the Commissioner who, as of such date—
 
@@ -225,10 +227,6 @@ Section 1(b) of Pub. L. 102–185 provided that: “In the case of the term of t
 &emsp;“(1) section 330(c)(3)(A) of the Tariff Act of 1930 \[19 U.S.C. 1330(c)(3)(A)\] shall not apply, and
 
 &emsp;“(2) the President shall designate as chairman a Commissioner who is a member of the same political party as the chairman of the Commission serving on June 16, 1986.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2231, 2253, 3353, 3371 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -12,7 +12,7 @@ Development and Certification.—The Administrator of the Federal Aviation Admin
 
 (b)
 
-Installation and Operation.—The Administrator shall require by regulation that, not later than 30 months after the date certificationis made under subsection (a)(2) of this section, TCAS–II be installed and operated on each civil aircraft that has a maximum passenger capacity of at least 31 seats and is used to provide air transportation of passengers, including intrastate air transportation of passengers. The Administrator may extend the deadline in this subsection for not more than 2 years if the Administrator finds the extension is necessary to promote—
+Installation and Operation.—The Administrator shall require by regulation that, not later than 30 months after the date certification is made under subsection (a)(2) of this section, TCAS–II be installed and operated on each civil aircraft that has a maximum passenger capacity of at least 31 seats and is used to provide air transportation of passengers, including intrastate air transportation of passengers. The Administrator may extend the deadline in this subsection for not more than 2 years if the Administrator finds the extension is necessary to promote—
 
 &emsp;(1) a safe and orderly transition to the operation of a fleet of civil aircraft described in this subsection equipped with TCAS–II; or
 
@@ -119,8 +119,4 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of reporting provisions in subsec. (a)(3) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 8th item on page 138 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44701, 44711, 45302, 46310, 47531 of this title.
 

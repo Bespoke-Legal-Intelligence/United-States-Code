@@ -48,7 +48,3 @@ Amendment by Pub. L. 99–272 applicable to hospital care, nursing home care, an
 
 Provision of health care and services to a veteran pursuant to this section ratified with respect to period beginning Feb. 1, 1992, and ending May 20, 1992, see section 2(e) of Pub. L. 102–291, set out as a note under section 1163 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1524 of this title.
-

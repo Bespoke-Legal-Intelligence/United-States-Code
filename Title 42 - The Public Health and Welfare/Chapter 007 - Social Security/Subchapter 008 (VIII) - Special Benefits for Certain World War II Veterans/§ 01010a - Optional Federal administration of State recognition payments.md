@@ -24,7 +24,3 @@ Administration fees, upon collection, shall be credited to a special fund establ
 
 (Aug. 14, 1935, ch. 531, title VIII, §810A, as added Pub. L. 106–554, §1(a)(1) \[title V, §518(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–73.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1320a–8a of this title.
-

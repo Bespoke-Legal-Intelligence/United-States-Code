@@ -10,7 +10,7 @@
 
 &emsp;(2) the veteran is unable to obtain a loan for such purpose from the Secretary of Agriculture under title III of the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.).
 
-(d)(1) Loans made under this section shall bear interest at a rate determined by the Secretary,not to exceed the rate authorized for guaranteed home loans, or manufactured home loans, as appropriate, and shall be subject to such requirements or limitations prescribed for loans guaranteed under this title as may be applicable.
+(d)(1) Loans made under this section shall bear interest at a rate determined by the Secretary, not to exceed the rate authorized for guaranteed home loans, or manufactured home loans, as appropriate, and shall be subject to such requirements or limitations prescribed for loans guaranteed under this title as may be applicable.
 
 (2)(A) Except for any loan made under this chapter for the purposes described in section 3712 of this title, the original principal amount of any loan made under this section shall not exceed an amount which bears the same ratio to $33,000 as the amount of guaranty to which the veteran is entitled under section 3710 of this title at the time the loan is made bears to $36,000; and the guaranty entitlement of any veteran who heretofore or hereafter has been granted a loan under this section shall be charged with an amount which bears the same ratio to $36,000 as the amount of the loan bears to $33,000.
 
@@ -94,7 +94,7 @@ Subsec. (d)(2). Pub. L. 96–385, §402(b), substituted in two places “$27,500
 
 1978—Subsec. (d)(2)(A). Pub. L. 95–476, §105(b)(1), substituted “$25,000” for “$17,500” in two places.
 
-Subsec. (d)(2)(B). Pub. L. 95–476, §105(b)(2), substituted formula for determining maximum amount of original principal of any loan made under this section for purposes of section 1819 of this title for provision that such original amount was not to exceed amount specified by Administrator pursuant to section 1819(d) of this title and inserted provision relating to amount of guaranty entitlement under section 1810(c) of this title.
+Subsec. (d)(2)(B). Pub. L. 95–476, §105(b)(2), substituted formula for determining maximum amount of originalprincipal of any loan made under this section for purposes of section 1819 of this title for provision that such original amount was not to exceed amount specified by Administrator pursuant to section 1819(d) of this title and inserted provision relating to amount of guaranty entitlement under section 1810(c) of this title.
 
 1976—Subsec. (b). Pub. L. 94–324, §7(12), substituted “the Administrator shall” for “he shall” and “The Administrator” for “He”.
 
@@ -175,8 +175,4 @@ Amendment by Pub. L. 93–569 effective Dec. 31, 1974, see section 10 of Pub. L.
 #### Effective Date of 1967 Amendment
 
 Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3710, 3712, 3729, 3732 of this title.
 

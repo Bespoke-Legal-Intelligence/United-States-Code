@@ -1,5 +1,5 @@
 
-17 U.S.C.<br>United States Code, 2003 Edition<br>Title 17 - COPYRIGHTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+17 U.S.C.<br>United States Code, 2004 Edition<br>Title 17 - COPYRIGHTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 17—COPYRIGHTS
 
@@ -14,7 +14,7 @@
 | [<b>5.</b>](Chapter%20005%20-%20Copyright%20Infringement%20and%20Remedies/README.md) | <b>Copyright Infringement and Remedies</b> | <b>501</b> |
 | [<b>6.</b>](Chapter%20006%20-%20Manufacturing%20Requirements%20and%20Importation/README.md) | <b>Manufacturing Requirements and Importation</b> | <b>601</b> |
 | [<b>7.</b>](Chapter%20007%20-%20Copyright%20Office/README.md) | <b>Copyright Office</b> | <b>701</b> |
-| [<b>8.</b>](Chapter%20008%20-%20Copyright%20Arbitration%20Royalty%20Panels/README.md) | <b>Copyright Arbitration Royalty Panels</b> | <b>801</b> |
+| [<b>8.</b>](Chapter%20008%20-%20Proceedings%20by%20Copyright%20Royalty%20Judges/README.md) | <b>Proceedings by Copyright Royalty Judges</b> | <b>801</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/README.md) | <b>Protection of Semiconductor Chip Products</b> | <b>901</b> |
 | [<b>10.</b>](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/README.md) | <b>Digital Audio Recording Devices and Media</b> | <b>1001</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Sound%20Recordings%20and%20Music%20Videos/README.md) | <b>Sound Recordings and Music Videos</b> | <b>1101</b> |
@@ -24,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–419, §3(b), Nov. 30, 2004, 118 Stat. 2361, substituted “Proceedings by Copyright Royalty Judges” for “Copyright Arbitration Royalty Panels” in item relating to chapter 8.
 
 1998—Pub. L. 105–304, title I, §103(b), title V, §503(a), Oct. 28, 1998, 112 Stat. 2876, 2916, added items relating to chapters 12 and 13.
 
@@ -589,10 +591,6 @@ Section 114 of Pub. L. 94–553, Oct. 19, 1976, 90 Stat. 2602, provided that: �
 
 Section 103 of Pub. L. 94–553, Oct. 19, 1976, 90 Stat. 2599, provided that: “This Act \[enacting this title\] does not provide copyright protection for any work that goes into the public domain before January 1, 1978. The exclusive rights, as provided by section 106 of title 17 as amended by the first section of this Act, to reproduce a work in phonorecords and to distribute phonorecords of the work, do not extend to any nondramatic musical work copyrighted before July 1, 1909.”
 
-#### Title Referred to in Other Sections
-
-This title is referred to in title 2 sections 179p, 1704, 1711; title 11 section 101; title 15 section 1129; title 18 sections 2319, 2319A; title 19 section 1337; title 20 section 9582; title 26 section 543; title 47 sections 542, 544, 605.
-
 
 ---
 
@@ -605,7 +603,7 @@ This title is referred to in title 2 sections 179p, 1704, 1711; title 11 section
 - [Chapter 005 - Copyright Infringement and Remedies](Chapter%20005%20-%20Copyright%20Infringement%20and%20Remedies/README.md)
 - [Chapter 006 - Manufacturing Requirements and Importation](Chapter%20006%20-%20Manufacturing%20Requirements%20and%20Importation/README.md)
 - [Chapter 007 - Copyright Office](Chapter%20007%20-%20Copyright%20Office/README.md)
-- [Chapter 008 - Copyright Arbitration Royalty Panels](Chapter%20008%20-%20Copyright%20Arbitration%20Royalty%20Panels/README.md)
+- [Chapter 008 - Proceedings by Copyright Royalty Judges](Chapter%20008%20-%20Proceedings%20by%20Copyright%20Royalty%20Judges/README.md)
 - [Chapter 009 - Protection of Semiconductor Chip Products](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/README.md)
 - [Chapter 010 - Digital Audio Recording Devices and Media](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/README.md)
 - [Chapter 011 - Sound Recordings and Music Videos](Chapter%20011%20-%20Sound%20Recordings%20and%20Music%20Videos/README.md)

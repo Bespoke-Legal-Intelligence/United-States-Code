@@ -224,7 +224,3 @@ Subsec. (n)(1). Pub. L. 98–473, §2301(f), struck out “for at least seven su
 
 Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 333, 848, 970 of this title; title 18 sections 38, 229B, 793, 794, 798, 982, 986, 1028, 1029, 1834, 3554; title 18 section 1037; title 28 sections 524, 2461; title 31 sections 5317, 5332; title 33 section 1415; title 42 section 1786; title 50 section 783.
-

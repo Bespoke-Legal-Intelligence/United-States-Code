@@ -11,3 +11,6 @@ left exactly as it was in its last available edition, and its changes appear in 
 | 2001 | USCODE-2001-title5 | not in govinfo (absent from GPO's sitemap for this edition) | the 2000 edition |
 | 2002 | USCODE-2002-title10 | not in govinfo (absent from GPO's sitemap for this edition) | the 2001 edition |
 | 2003 | USCODE-2003-title50 | not in govinfo (absent from GPO's sitemap for this edition) | the 2002 edition |
+| 2004 | USCODE-2004-title10 | not in govinfo (absent from GPO's sitemap for this edition) | the 2003 edition |
+| 2004 | USCODE-2004-title26 | not in govinfo (absent from GPO's sitemap for this edition) | the 2003 edition |
+| 2004 | USCODE-2004-title46 | not in govinfo (absent from GPO's sitemap for this edition) | the 2003 edition |

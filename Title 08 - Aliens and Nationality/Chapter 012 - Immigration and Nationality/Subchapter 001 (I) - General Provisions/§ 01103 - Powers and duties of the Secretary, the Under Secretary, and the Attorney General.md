@@ -20,7 +20,7 @@
 
 (9) Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.
 
-(10) In the event the Attorney General determines that an actual or imminent mass influx ofaliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, with the consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
+(10) In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, with the consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
 
 (11) The Attorney General, in support of persons in administrative detention in non-Federal institutions, is authorized—
 
@@ -44,7 +44,7 @@ The Commissioner shall be a citizen of the United States and shall be appointed 
 
 #### (d) Statistical information system
 
-(1) The Commissioner, in consultation with interested academicians, government agencies, and other parties, shall provide for a system for collection and dissemination, to Congress and the public, of information (not in individually identifiable form) useful in evaluating the social, economic, environmental, and demographic impact of immigration laws.
+(1) The Commissioner, in consultation with interested academicians, government agencies, and other parties, shall provide for a system for collection and dissemination, to Congress andthe public, of information (not in individually identifiable form) useful in evaluating the social, economic, environmental, and demographic impact of immigration laws.
 
 (2) Such information shall include information on the alien population in the United States, on the rates of naturalization and emigration of resident aliens, on aliens who have been admitted, paroled, or granted asylum, on nonimmigrants in the United States (by occupation, basis for admission, and duration of stay), on aliens who have not been admitted or have been removed from the United States, on the number of applications filed and granted for cancellation of removal, and on the number of aliens estimated to be present unlawfully in the United States in each fiscal year.
 
@@ -70,7 +70,19 @@ The Attorney General shall allocate to each State not fewer than 10 full-time ac
 
 &emsp;The Attorney General shall establish such regulations, prescribe such forms of bond, reports, entries, and other papers, issue such instructions, review such administrative determinations in immigration proceedings, delegate such authority, and perform such other acts as the Attorney General determines to be necessary for carrying out this section.
 
-(June 27, 1952, ch. 477, title I, §103, 66 Stat. 173; Pub. L. 100–525, §9(c), Oct. 24, 1988, 102 Stat. 2619; Pub. L. 101–649, title I, §142, Nov. 29, 1990, 104Stat. 5004; Pub. L. 104–208, div. C, title I, §§102(d), 125, 134(a), title III, §§308(d)(4)(C), (e)(4), 372, 373, Sept. 30, 1996, 110 Stat. 3009–555, 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647; Pub. L. 107–296, title XI, §1102, Nov. 25, 2002, 116 Stat. 2273; Pub. L. 108–7, div. L, §105(a)(1), (2), Feb. 20, 2003, 117 Stat. 531.)
+#### (h) Office of Special Investigations
+
+(1) The Attorney General shall establish within the Criminal Division of the Department of Justice an Office of Special Investigations with the authority to detect and investigate, and, where appropriate, to take legal action to denaturalize any alien described in section 1182(a)(3)(E) of this title.
+
+(2) The Attorney General shall consult with the Secretary of Homeland Security in making determinations concerning the criminal prosecution or extradition of aliens described in section 1182(a)(3)(E) of this title.
+
+(3) In determining the appropriate legal action to take against an alien described in section 1182(a)(3)(E) of this title, consideration shall be given to—
+
+&emsp;(A) the availability of criminal prosecution under the laws of the United States for any conduct that may form the basis for removal and denaturalization; or
+
+&emsp;(B) the availability of extradition of the alien to a foreign jurisdiction that is prepared to undertake a prosecution for such conduct.
+
+(June 27, 1952, ch. 477, title I, §103, 66 Stat. 173; Pub. L. 100–525, §9(c), Oct. 24, 1988, 102 Stat. 2619; Pub. L. 101–649, title I, §142, Nov. 29, 1990, 104 Stat. 5004; Pub. L. 104–208, div. C, title I, §§102(d), 125, 134(a), title III, §§308(d)(4)(C), (e)(4), 372, 373, Sept. 30, 1996, 110 Stat. 3009–555, 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647; Pub. L. 107–296, title XI, §1102, Nov. 25, 2002, 116 Stat. 2273; Pub. L. 108–7, div. L, §105(a)(1), (2), Feb. 20, 2003, 117 Stat. 531; Pub. L. 108–458, title V, §5505(a), Dec. 17, 2004, 118 Stat. 3741.)
 
 #### References in Text
 
@@ -81,6 +93,8 @@ The Immigration Reform, Accountability and Security Enhancement Act of 2002, ref
 “Section 3113 of title 40” substituted in subsec. (b)(3) for “the Act of August 1, 1888 (Chapter 728; 25 Stat. 357)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+2004—Subsec. (h). Pub. L. 108–458 added subsec. (h).
 
 2003—Subsec. (a). Pub. L. 108–7, §105(a)(1), amended Pub. L. 107–296, §1102(2). See 2002 Amendment notes below.
 
@@ -290,8 +304,4 @@ Pub. L. 99–570, title I, §1751(e), Oct. 27, 1986, 100 Stat. 3207–48, provid
 #### Emergency Plans for Regulation of Nationals of Enemy Countries
 
 Attorney General to develop national security emergency plans for regulation of immigration, regulation of nationals of enemy countries, and plans to implement laws for control of persons entering or leaving the United States, see section 1101(4) of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 sections 521, 522.
 

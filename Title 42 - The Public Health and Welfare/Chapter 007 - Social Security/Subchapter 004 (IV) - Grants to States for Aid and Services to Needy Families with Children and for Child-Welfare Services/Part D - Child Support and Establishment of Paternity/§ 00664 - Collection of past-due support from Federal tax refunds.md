@@ -18,11 +18,11 @@
 
 #### (b) Regulations; contents, etc.
 
-(1) The Secretary of the Treasury shall issue regulations, approved by the Secretary of Health and Human Services, prescribing the time or times at which States must submit notices of past-due support, the manner in whichsuch notices must be submitted, and the necessary information that must be contained in or accompany the notices. The regulations shall be consistent with the provisions of subsection (a)(3) of this section, shall specify the minimum amount of past-due support to which the offset procedure established by subsection (a) of this section may be applied, and the fee that a State must pay to reimburse the Secretary of the Treasury for the full cost of applying the offset procedure, and shall provide that the Secretary of the Treasury will advise the Secretary of Health and Human Services, not less frequently than annually, of the States which have furnished notices of past-due support under subsection (a) of this section, the number of cases in each State with respect to which such notices have been furnished, the amount of support sought to be collected under this subsection by each State, and the amount of such collections actually made in the case of each State. Any fee paid to the Secretary of the Treasury pursuant to this subsection may be used to reimburse appropriations which bore all or part of the cost of applying such procedure.
+(1) The Secretary of the Treasury shall issue regulations, approved by the Secretary of Health and Human Services, prescribing the time or times at which States must submit notices of past-due support, the manner in which such notices must be submitted, and the necessary information that must be contained in or accompany the notices. The regulations shall be consistent with the provisions of subsection (a)(3) of this section, shall specify the minimum amount of past-due support to which the offset procedure established by subsection (a) of this section may be applied, and the fee that a State must pay to reimburse the Secretary of the Treasury for the full cost of applying the offset procedure, and shall provide that the Secretary of the Treasury will advise the Secretary of Health and Human Services, not less frequently than annually, of the States which have furnished notices of past-due support under subsection (a) of this section, the number of cases in each State with respect to which such notices have been furnished, the amount of support sought to be collected under this subsection by each State, and the amount of such collections actually made in the case of each State. Any fee paid to the Secretary of the Treasury pursuant to this subsection may be used to reimburse appropriations which bore all or part of the cost of applying such procedure.
 
 (2) In the case of withholdings made under subsection (a)(2) of this section, the regulations promulgated pursuant to this subsection shall include the following requirements:
 
-&emsp;(A) The withholding shall apply only in the case where the State determines that the amount of the past-due support which will be owed at the time the withholding is to be made, based upon the pattern of payment of support and other enforcement actions being pursued to collect the past-due support, is equal to or greater than $500. The State may limit the $500 threshold amount to amounts of past-due support accrued since the time that the State first began to enforce the child support order involved under the State plan, and may limit the application of the withholding to past-due support accrued since such time.
+&emsp;(A) The withholding shall apply only in the case where the State determines that the amount of the past-due support which will be owed at the time the withholding is to be made, based upon the pattern of payment of support and other enforcement actions being pursued to collect the past-due support, is equal to or greater than $500. The State may limit the $500 threshold amount to amounts of past-due support accrued since the time thatthe State first began to enforce the child support order involved under the State plan, and may limit the application of the withholding to past-due support accrued since such time.
 
 &emsp;(B) The fee which the Secretary of the Treasury may impose to cover the costs of the withholding and notification may not exceed $25 per case submitted.
 
@@ -80,7 +80,7 @@ Subsec. (c)(1). Pub. L. 98–378, §21(c), designated existing provisions as par
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 5513(a)(4) of Pub. L. 105–33 effective as if included in section 108 of the Personal Responsibility and Work Opportunity Reconciliation Actof 1996, Pub. L. 104–193, at the time such section 108 became law, see section 5518(b) of Pub. L. 105–33, set out as a note under section 652 of this title.
+Amendment by section 5513(a)(4) of Pub. L. 105–33 effective as if included in section 108 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 108 became law, see section 5518(b) of Pub. L. 105–33, set out as a note under section 652 of this title.
 
 Amendment by sections 5531(b) and 5532(i)(1) of Pub. L. 105–33 effective as if included in the enactment of title III of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5557 of Pub. L. 105–33, set out as a note under section 608 of this title.
 
@@ -103,8 +103,4 @@ Amendment by section 21(a)–(c) of Pub. L. 98–378 applicable with respect to 
 #### Effective Date
 
 Section effective Oct. 1, 1981, except as otherwise specifically provided, see section 2336 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 651 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 608, 654, 657 of this title; title 5 section 552a; title 26 section 6402.
 

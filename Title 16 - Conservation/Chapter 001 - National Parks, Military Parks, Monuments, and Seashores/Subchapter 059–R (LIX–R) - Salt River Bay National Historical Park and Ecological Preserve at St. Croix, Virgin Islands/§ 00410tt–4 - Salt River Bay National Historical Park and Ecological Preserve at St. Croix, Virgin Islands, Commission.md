@@ -46,7 +46,7 @@ Members of the Commission shall serve without compensation as such, but the Secr
 
 #### (h) Federal Advisory Committee Act
 
-Except with respect to the provisions of section 14(b) of the Federal Advisory Committee Act, and except as otherwise provided in this subchapter, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Commission.
+Except with respect to the provisions of section 14(b) of the Federal Advisory CommitteeAct, and except as otherwise provided in this subchapter, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Commission.
 
 #### (i) Termination
 
@@ -57,8 +57,4 @@ The Commission shall terminate 10 years after February 24, 1992, unless the Secr
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410tt–3 of this title.
 

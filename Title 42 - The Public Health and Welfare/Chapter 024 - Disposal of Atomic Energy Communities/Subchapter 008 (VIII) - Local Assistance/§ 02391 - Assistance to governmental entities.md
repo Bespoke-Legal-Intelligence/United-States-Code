@@ -32,7 +32,7 @@ With respect to any entity not less than six months prior to the expiration of t
 
 #### (e) Reduction or termination of assistance payments; determination by Administrator of financial self-sufficiency
 
-In exercising the authority of subsection (a) of this section the Administrator shall assure that the governmental or other entities receiving assistance hereunder utilize all reasonable, available means to achieve financial self-sufficiency to the end that assistance payments by the Administrator may be reduced or terminated at the earliest practical time.
+In exercising the authority of subsection (a) of this section the Administrator shall assure that the governmental or other entities receiving assistance hereunder utilize all reasonable, available means to achieve financial self-sufficiencyto the end that assistance payments by the Administrator may be reduced or terminated at the earliest practical time.
 
 (Aug. 4, 1955, ch. 543, ch. 9, §91, 69 Stat. 481; Pub. L. 90–190, §2, Dec. 14, 1967, 81 Stat. 576; Pub. L. 94–187, title VI, §601(1)–(6), Dec. 31, 1975, 89 Stat. 1077, 1078; Pub. L. 95–238, title II, §205(a), Feb. 25, 1978, 92 Stat. 60; Pub. L. 104–106, div. C, title XXXI, §3161(c), Feb. 10, 1996, 110 Stat. 627.)
 
@@ -68,15 +68,17 @@ Energy Research and Development Administration terminated and functions vested b
 
 #### Conveyance to Los Alamos, New Mexico
 
-Pub. L. 105–119, title VI, §632, Nov. 26, 1997, 111 Stat. 2523, provided that:
+Pub. L. 105–119, title VI, §632, Nov. 26, 1997, 111 Stat. 2523, as amended by Pub. L. 108–375, div. C, title XXXI, §3148, Oct. 28, 2004, 118 Stat. 2177, provided that:
 
 “(a)
 
 In General.—The Secretary of Energy shall—
 
-&emsp;“(1) convey, without consideration, to the Incorporated County of Los Alamos, New Mexico (in this section referred to as the ‘County’), or to the designee of the County, fee title to the parcels of land that are allocated for conveyance to the County in the agreement under subsection (e); and
+&emsp;“(1) except as provided in paragraph (2), convey, without consideration, to the Incorporated County of Los Alamos, New Mexico (in this section referred to as the ‘County’), or to the designee of the County, fee title to the parcels of land that are allocated for conveyance to the County in the agreement under subsection (e);
 
-&emsp;“(2) transfer to the Secretary of the Interior, in trust for the Pueblo of San Ildefonso (in this section referred to as the ‘Pueblo’), administrative jurisdiction over the parcels that are allocated for transfer to the Secretary of the Interior in such agreement.
+&emsp;“(2) notwithstanding paragraph (1) and the agreement under subsection (e), convey, without consideration, to the Board of Education of the Los Alamos Public Schools, New Mexico, within the County, fee title to the parcels of land identified by the Department of Energy as Parcel A–8 and Parcel A–15–1 that are currently located in Technical Area–21 of Los Alamos National Laboratory upon the entry of Los Alamos Public Schools and the County into an agreement for the use of the parcel of land identified as Parcel A–8; and
+
+&emsp;“(3) transfer to the Secretary of the Interior, in trust for the Pueblo of San Ildefonso (in this section referred to as the ‘Pueblo’), administrative jurisdiction over the parcels that are allocated for transfer to the Secretary of the Interior in such agreement.
 
 “(b)
 
@@ -94,7 +96,7 @@ Preliminary Identification of Parcels of Land for Conveyance or Transfer.—(1) 
 
 Review of Title.—(1) Not later than one year after the date of enactment of this Act \[Nov. 26, 1997\], the Secretary shall submit to the congressional defense committees a report setting forth the results of a title search on each parcel of land identified as suitable for conveyance or transfer under subsection (b), including an analysis of any claims against or other impairments to the fee title to each such parcel.
 
-“(2) In the period beginning on the date of the completion of the title search with respect to a parcel under paragraph (1) and ending on the date of the submittal of the report under that paragraph, the Secretary shall take appropriate actions to resolve the claims against or other impairments, if any, to fee title that are identified with respect to the parcel in the title search.
+“(2) In the period beginning on the date of the completion of the title search with respect to a parcel under paragraph (1) and ending on the date of the submittal of the report under that paragraph, the Secretary shall take appropriate actions to resolve the claims against or other impairments, if any, to fee titlethat are identified with respect to the parcel in the title search.
 
 “(d)
 
@@ -151,10 +153,6 @@ Pub. L. 99–145, title XV, §1532, Nov. 8, 1985, 99 Stat. 773, as amended by Pu
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 
 Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to any authorization or appropriation for any military application of nuclear energy, etc., see section 209 of Pub. L. 95–238, Feb. 25, 1978, 92 Stat. 76, set out as a note under section 5821 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2392, 2393, 2394 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -36,7 +36,7 @@ Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided t
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–435, §1(a), Sept. 19, 1988, 102 Stat. 1645, provided that: “This Act \[amending sections 2012, 2014 to 2017, 2020 to 2023, 2025, and 2026 of this title, section 713a–14 of Title 15, Commerce and Trade, and sections 1761, 1766, 1773, and 1786 of Title 42, The Public Healthand Welfare, enacting provisions set out as notes under sections 612c and 2012 of this title and sections 1766 and 1786 of Title 42, and amending provisions set out as notes under sections 612c, 1731, and 2012 of this title\] may be cited as the ‘Hunger Prevention Act of 1988’.”
+Pub. L. 100–435, §1(a), Sept. 19, 1988, 102 Stat. 1645, provided that: “This Act \[amending sections 2012, 2014 to 2017, 2020 to 2023, 2025, and 2026 of this title, section 713a–14 of Title 15, Commerce and Trade, and sections 1761, 1766, 1773, and 1786 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 612c and 2012 of this title and sections 1766 and 1786 of Title 42, and amending provisions set out as notes under sections 612c, 1731, and 2012 of this title\] may be cited as the ‘Hunger Prevention Act of 1988’.”
 
 Pub. L. 100–232, §1, Jan. 5, 1988, 101 Stat. 1566, provided that: “This Act \[amending section 2014 of this title and enacting provisions set out as a note under section 612c of this title\] may be cited as the ‘Charitable Assistance and Food Bank Act of 1987’.”
 
@@ -46,7 +46,7 @@ Pub. L. 99–570, title XI, §11001, Oct. 27, 1986, 100 Stat. 3207–167, provid
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–253, title I, §140, Sept. 8, 1982, 96 Stat. 772, provided that: “This subtitle \[subtitle E (§§140–193) of title I of Pub. L. 97–253, amending sections 2012, 2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2025, 2026, 2027, 2028, and 2029 of this title and enacting provisions set out as notes under sections 1624, 2012, and 2028 of this title\] may be cited as the ‘Food Stamp Act Amendments of 1982’.”
+Pub. L. 97–253, title I, §140, Sept. 8, 1982, 96 Stat. 772, provided that: “This subtitle \[subtitle E (§§140–193) of title I of Pub. L. 97–253, amending sections 2012, 2014,2015, 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2025, 2026, 2027, 2028, and 2029 of this title and enacting provisions set out as notes under sections 1624, 2012, and 2028 of this title\] may be cited as the ‘Food Stamp Act Amendments of 1982’.”
 
 #### Short Title of 1981 Amendment
 
@@ -126,7 +126,7 @@ Purpose.—It shall be the purpose of the Committee, in consultation, where appr
 
 &emsp;“(4) to recommend common or simplified programs and policies (including recommendations for changes in law, regulations, and administrative practice and for policies that do not currently exist in such programs) that would substantially reduce difficulties in applying for and obtaining benefits from more than one program and significantly increase the ability of administrators of such programs to efficiently provide timely and appropriate assistance to those eligible for more than one type of assistance; and
 
-&emsp;“(5) to describe the major effects of such common or simplified programs and policies (including how such common or simplified programs and policies would enhance or conflict with the purposes of such programs, how they would ease burdens on administrators and recipients, how they would affect program costs and participation, and the degree to which they would change the relationships between the Federal Government and the States in such programs) and the reasons for recommending such programs and policies (including reasons, if any, that might be sufficient to override special rules derived from the purposes of individual programs).
+&emsp;“(5) to describe the major effects of such common or simplified programs and policies (including how such common or simplified programs and policies would enhance or conflict with the purposes of such programs, how they would ease burdens on administrators and recipients, how they would affect program costs and participation, and the degree to which they would change the relationships between the Federal Government and the States in such programs) and the reasons for recommending such programs andpolicies (including reasons, if any, that might be sufficient to override special rules derived from the purposes of individual programs).
 
 “(c)
 

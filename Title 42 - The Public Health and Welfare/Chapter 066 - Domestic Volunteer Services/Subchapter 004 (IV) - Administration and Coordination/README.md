@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—ADMINISTRATION AND COORDINATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 5084 of this title.
-
 
 ---
 

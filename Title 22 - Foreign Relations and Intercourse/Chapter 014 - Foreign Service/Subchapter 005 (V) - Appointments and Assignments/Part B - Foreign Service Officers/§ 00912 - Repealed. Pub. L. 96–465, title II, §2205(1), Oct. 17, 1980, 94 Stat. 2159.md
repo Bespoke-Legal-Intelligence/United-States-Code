@@ -8,7 +8,7 @@ Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 o
 
 #### Transfer of Officers From Old to New Classes
 
-Act Aug. 13, 1946, ch. 957, title XI, §1102, 60 Stat. 1033, which related to transfer of officers from old class to new class, was repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159.
+Act Aug. 13, 1946, ch. 957, title XI, §1102, 60 Stat. 1033, which related to transfer of officers from old class tonew class, was repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
 #### In Class Promotions
 

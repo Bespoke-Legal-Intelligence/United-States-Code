@@ -120,7 +120,3 @@ In subsection (c)(3), the words “shall file the warrant, proof of service, and
 
 Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 32706 of this title.
-

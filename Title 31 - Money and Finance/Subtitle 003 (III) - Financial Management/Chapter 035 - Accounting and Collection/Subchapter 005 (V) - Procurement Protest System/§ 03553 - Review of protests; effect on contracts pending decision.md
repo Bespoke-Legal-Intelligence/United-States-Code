@@ -24,7 +24,7 @@
 
 (3) A finding may not be made under paragraph (2)(A) of this subsection unless the award of the contract is otherwise likely to occur within 30 days after the making of such finding.
 
-(d)(1) A contractor awarded a Federal agency contract may, during the period described in paragraph (4), begin performance of the contract and engage in any related activities that result in obligations being incurred by the United States under the contract unless the contracting officer responsible for the award of the contract withholds authorization to proceed with performance of the contract.
+(d)(1) A contractor awarded a Federal agency contract may, during the period described in paragraph (4), begin performance of the contract and engage in any related activities that result in obligations being incurred by the United States under the contract unless the contractingofficer responsible for the award of the contract withholds authorization to proceed with performance of the contract.
 
 (2) The contracting officer may withhold an authorization to proceed with performance of the contract during the period described in paragraph (4) if the contracting officer determines in writing that—
 
@@ -66,9 +66,13 @@
 
 (C) A protective order under this paragraph shall not be considered to authorize the withholding of any document or information from Congress or an executive agency.
 
-(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1200; amended Pub. L. 103–355, title I, §§1402, 1403(c), Oct. 13, 1994, 108 Stat. 3287, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(2), div. E, title LV, §5501(1), Feb. 10, 1996, 110 Stat. 674, 698.)
+(g) If an interested party files a protest in connection with a public-private competition described in section 3551(2)(B) of this title, a person representing a majority of the employees of the Federal agency who are engaged in the performance of the activity or function subject to the public-private competition may intervene in protest.
+
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1200; amended Pub. L. 103–355, title I, §§1402, 1403(c), Oct. 13, 1994, 108 Stat. 3287, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(2), div. E, title LV, §5501(1), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 108–375, div. A, title III, §326(c), Oct. 28, 2004, 118 Stat. 1848.)
 
 #### Amendments
+
+2004—Subsec. (g). Pub. L. 108–375 added subsec. (g).
 
 1996—Subsec. (b)(2)(A). Pub. L. 104–106, §5501(1), substituted “30 days” for “35 days”.
 
@@ -98,6 +102,10 @@ Subsec. (d). Pub. L. 103–355, §1402(b), amended subsec. (d) generally. Prior 
 
 Subsec. (f). Pub. L. 103–355, §1403(c), designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–375 applicable to protests filed under this subchapter that relate to studies initiated under Office of Management and Budget Circular A–76 on or after the end of the 90-day period beginning on Oct. 28, 2004, see section 326(d) of Pub. L. 108–375, set out as a note under section 3551 of this title.
+
 #### Effective Date of 1996 Amendment
 
 For effective date and applicability of amendment by section 4321(d)(2) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
@@ -112,7 +120,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 251 of Title 41, Public Contracts.
 
-#### Section Referred to in Other Sections
+#### Construction of 2004 Amendment
 
-This section is referred to in sections 3554, 3556 of this title; title 22 section 3862.
+Amendment by Pub. L. 108–375 not to be construed to authorize the use of a protest under this subchapter with regard to a decision made by an agency tender official, see section 326(e) of Pub. L. 108–375, set out as a note under section 3551 of this title.
 

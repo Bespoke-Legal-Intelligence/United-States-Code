@@ -8,7 +8,3 @@ There are authorized to be appropriated such sums, but not more than $722,000, a
 
 1974—Pub. L. 93–477 substituted “$722,000” for “$115,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430pp, 430qq of this title.
-

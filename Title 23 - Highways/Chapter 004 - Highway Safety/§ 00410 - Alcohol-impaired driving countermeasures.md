@@ -14,7 +14,7 @@ Maintenance of effort.—No grant may be made to a State under this section in a
 
 &emsp;(3)
 
-Maximum period of eligibility.—No State may receive grants under this section in more than 7 fiscal years beginning after September 30, 1997.
+Maximum period of eligibility.—No State may receive grants under this section in more than 8 fiscal years beginning after September 30, 1997.
 
 &emsp;(4)
 
@@ -24,7 +24,7 @@ Federal share.—The Federal share of the cost of implementing and enforcing in 
 
 &emsp;&emsp;(B) in each of the third and fourth fiscal years in which the State receives a grant under this section, 50 percent; and
 
-&emsp;&emsp;(C) in each of the fifth, sixth, and seventh fiscal years in which the State receives a grant under this section, 25 percent.
+&emsp;&emsp;(C) in each of the fifth, sixth,,<sup>1</sup> seventh, and eighth fiscal years in which the State receives a grant under this section, 25 percent.
 
 (b)
 
@@ -64,7 +64,7 @@ Graduated licensing system.—A 3-stage graduated licensing system for young dri
 
 &emsp;&emsp;(E)
 
-Drivers with high bac.—Programs to target individuals with high blood alcoholconcentrations who operate a motor vehicle. Such programs may include implementation of a system of graduated penalties and assessment of individuals convicted of driving under the influence of alcohol.
+Drivers with high bac.—Programs to target individuals with high blood alcohol concentrations who operate a motor vehicle. Such programs may include implementation of a system of graduated penalties and assessment of individuals convicted of driving under the influence of alcohol.
 
 &emsp;&emsp;(F)
 
@@ -154,13 +154,17 @@ Controlled substances.—The term “controlled substances” has the meaning gi
 
 Motor vehicle.—The term “motor vehicle” has the meaning given such term in section 405.
 
-(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, §8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, §6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, §2004(a), June 9, 1998, 112 Stat.328; Pub. L. 108–88, §6(e)(1), Sept. 30, 2003, 117 Stat. 1120.)
+(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, §8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, §6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, §2004(a), June 9, 1998, 112 Stat. 328; Pub. L. 108–88, §6(e)(1), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–310, §6(e)(1), Sept. 30, 2004, 118 Stat. 1152.)
 
 #### References in Text
 
 The date of enactment of the Transportation Equity Act for the 21st Century, referred to in subsecs. (a)(2) and (b)(1)(A)(i), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
 #### Amendments
+
+2004—Subsec. (a)(3). Pub. L. 108–310, §6(e)(1)(A), substituted “8” for “7”.
+
+Subsec. (a)(4)(C). Pub. L. 108–310, §6(e)(1)(B), substituted “, seventh, and eighth” for “and seventh”.
 
 2003—Subsec. (a)(3). Pub. L. 108–88, §6(e)(1)(A), substituted “7” for “6”.
 
@@ -250,7 +254,7 @@ Study.—The Comptroller General shall conduct a study to evaluate the effective
 
 “(b)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Comptroller General shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the results of the study conducted under this section.”
+Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Comptroller General shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, andTransportation of the Senate a report containing the results of the study conducted under this section.”
 
 #### States Eligible for Grants Before December 18, 1991
 
@@ -291,4 +295,6 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[No
 “(c)
 
 Authorization of Appropriation.—There is authorized to be appropriated to carry out this section $300,000 for fiscal year 1989.”
+
+<i><sup>1</sup></i><i> So in original.</i>
 

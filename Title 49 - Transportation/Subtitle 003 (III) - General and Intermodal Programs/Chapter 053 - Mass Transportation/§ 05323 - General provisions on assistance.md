@@ -40,7 +40,7 @@ Condition on Charter Bus Transportation Service.—(1) Financial assistance unde
 
 (e)
 
-Bus Passenger Seat Functional Specifications.—The initial advertising by a State or local governmental authority for bids to acquire buses using financial assistance under this chapter may include passenger seat functional specifications that are at least equal to performancespecifications the Secretary of Transportation prescribes. The specifications shall be based on a finding by the State or local governmental authority of local requirements for safety, comfort, maintenance, and life cycle costs.
+Bus Passenger Seat Functional Specifications.—The initial advertising by a State or local governmental authority for bids to acquire buses using financial assistance under this chapter may include passenger seat functional specifications that are at least equal to performance specifications the Secretary of Transportation prescribes. The specifications shall be based on a finding by the State or local governmental authority of local requirements for safety, comfort, maintenance, and life cycle costs.
 
 (f)
 
@@ -106,7 +106,7 @@ Buy America.—(1) The Secretary of Transportation may obligate an amount that m
 
 (7)
 
-Opportunity to correct inadvertent error.—The Secretary may allow a manufacturer or supplier of steel, iron, or manufactured goods to correct after bid opening any certification of noncompliance or failure to properlycomplete the certification (but not including failure to sign the certification) under this subsection if such manufacturer or supplier attests under penalty of perjury that such manufacturer or supplier submitted an incorrect certification as a result of an inadvertent or clerical error. The burden of establishing inadvertent or clerical error is on the manufacturer or supplier.
+Opportunity to correct inadvertent error.—The Secretary may allow a manufacturer or supplier of steel, iron, or manufactured goods to correct after bid opening any certification of noncompliance or failure to properly complete the certification (but not including failure to sign the certification) under this subsection if such manufacturer or supplier attests under penalty of perjury that such manufacturer or supplier submitted an incorrect certification as a result of an inadvertent or clerical error. The burden of establishing inadvertent or clerical error is on the manufacturer or supplier.
 
 (k)
 
@@ -367,10 +367,6 @@ In General.—All buses manufactured on or after September 1, 1999, that are pur
 “(b)
 
 Rule of Construction.—For purposes of this section, a bus shall be considered to be manufactured on or after September 1, 1999, if the manufacturing process for that bus is not completed on or before August 31, 1999.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5307, 5311, 5314, 5324, 5333, 5334, 5336 of this title; title 23 sections 135, 142.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—PEACETIME DEATH COMPENSATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1137 of this title; title 26 section 6334.
-
 
 ---
 

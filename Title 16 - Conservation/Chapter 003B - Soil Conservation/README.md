@@ -48,10 +48,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 7 sections 624, 1282, 1364, 1385, 1388, 1390, 1392, 2279; title 26 section 126.
-
 
 ---
 

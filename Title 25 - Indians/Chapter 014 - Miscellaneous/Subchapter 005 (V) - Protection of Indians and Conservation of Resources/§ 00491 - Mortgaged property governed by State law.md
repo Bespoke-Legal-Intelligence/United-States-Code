@@ -4,7 +4,3 @@ Trust or restricted tribal or tribal corporation property mortgaged pursuant to 
 
 (Pub. L. 91–229, §4, Apr. 11, 1970, 84 Stat. 120.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 488, 489, 490, 492, 493, 494 of this title; title 7 section 1985.
-

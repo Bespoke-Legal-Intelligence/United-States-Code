@@ -24,7 +24,7 @@ The Secretary of Agriculture (referred to in this section as the “Secretary”
 
 &emsp;The Secretary may waive the matching funds requirement specified in paragraph (1) with respect to a research project if the Secretary determines that—
 
-&emsp;&emsp;(A) the results of the project, while of particular benefit to a specific agriculturalcommodity, are likely to be applicable to agricultural commodities generally; or
+&emsp;&emsp;(A) the results of the project, while of particular benefit to a specific agricultural commodity, are likely to be applicable to agricultural commodities generally; or
 
 &emsp;&emsp;(B) the project involves a minor commodity, the project deals with scientifically important research, and the grant recipient is unable to satisfy the matching funds requirement.
 
@@ -114,7 +114,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (17) Wild pampas grass control, management, and eradication research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of control,management, and eradication of wild pampas grass.
+&emsp;Research and extension grants may be made under this section for the purpose of control, management, and eradication of wild pampas grass.
 
 #### (18) Food safety, including pathogen detection and limitation, research and extension
 
@@ -230,6 +230,10 @@ Following the completion of a peer review process for grant proposals received u
 
 &emsp;Research grants may be made under this section for the purpose of maintaining acceptable yields under reduced production inputs, implementing marker-assisted breeding strategies and other basic plant genomic technologies to screen for improved plant resistance to diseases, weeds, and insects toward minimizing pesticide use, enhancing food, fiber and energy production, and developing varieties for maximum performance under prevailing conditions, including management for improved soil and water conservation.
 
+#### (45) Specialty crop research
+
+&emsp;Research and extension grants may be made under this section for the purpose of improving the efficiency, productivity, and profitability of specialty crop production in the United States.
+
 #### (f) Imported fire ant control, management, and eradication
 
 #### (1) Task force
@@ -268,7 +272,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (C) Submission
 
-&emsp;&emsp;The Secretary shall submit to Congress the final national plan prepared under subparagraph (B) for the control, management, and possible eradication of imported fire ants.
+&emsp;&emsp;The Secretary shall submit to Congress the final national plan prepared under subparagraph (B) for the control, management,and possible eradication of imported fire ants.
 
 #### (g) Formosan termite research and eradication
 
@@ -296,9 +300,11 @@ Following the completion of a peer review process for grant proposals received u
 
 There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007.
 
-(Pub. L. 101–624, title XVI, §1672, Nov. 28, 1990, 104 Stat. 3770; Pub. L. 102–237, title IV, §§406, 407(11), Dec. 13, 1991, 105 Stat. 1864, 1865; Pub. L. 104–127, title VIII, §§836, 863, 888, Apr. 4, 1996, 110 Stat. 1169, 1174, 1180; Pub. L. 105–185, title II, §242, June 23, 1998, 112 Stat. 549; Pub. L. 107–171, title VII, §§7119, 7208(b), May 13, 2002, 116 Stat. 434, 442.)
+(Pub. L. 101–624, title XVI, §1672, Nov. 28, 1990, 104 Stat. 3770; Pub. L. 102–237, title IV, §§406, 407(11), Dec. 13, 1991, 105 Stat. 1864, 1865; Pub. L. 104–127, title VIII, §§836, 863, 888, Apr. 4, 1996, 110 Stat. 1169, 1174, 1180; Pub. L. 105–185, title II, §242, June 23, 1998, 112 Stat. 549; Pub. L. 107–171, title VII, §§7119, 7208(b), May 13, 2002, 116 Stat. 434, 442; Pub. L. 108–465, title III, §302, Dec. 21, 2004, 118 Stat. 3885.)
 
 #### Amendments
+
+2004—Subsec. (e)(45). Pub. L. 108–465 added par. (45).
 
 2002—Subsec. (e)(25) to (44). Pub. L. 107–171, §7208(b), added pars. (25) to (44).
 
@@ -347,6 +353,18 @@ Subsec. (k). Pub. L. 104–127, §863(2), redesignated subsec. (k) as (g).
 Subsec. (i). Pub. L. 102–237, §406(1), substituted “Secretary of Agriculture, acting through the Cooperative State Research Service, to make competitive grants” for “Agricultural Research Service”.
 
 Subsec. (k)(1). Pub. L. 102–237, §406(2), substituted “Research” for “Except for research funded under subsection (i), research”.
+
+#### Methyl Bromide Alternatives
+
+Pub. L. 108–465, title III, §301, Dec. 21, 2004, 118 Stat. 3885, provided that:
+
+“(a)
+
+Priority.—The Secretary of Agriculture shall elevate the priority of current methyl bromide alternative research and extension activities and reexamine the risks and benefits of extending the phase-out deadline in effect on the date of the enactment of this Act \[Dec. 21, 2004\], including the estimated cost to the grower or processor associated with any alternatives proposed.
+
+“(b)
+
+Authorization of Appropriations.—For each of the fiscal years 2005 through 2009, there is authorized to be appropriated to the Secretary of Agriculture $5,000,000 to carry out this section.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

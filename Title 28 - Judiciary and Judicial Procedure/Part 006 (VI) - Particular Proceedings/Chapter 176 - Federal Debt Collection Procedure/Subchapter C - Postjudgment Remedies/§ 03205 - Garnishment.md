@@ -22,7 +22,7 @@ General requirements.—The United States shall include in its application for a
 
 Proper garnishee for particular property.—
 
-&emsp;&emsp;(A) If the property consists of a right to or share in the stock of an association or corporation, or interests or profits therein, for which a certificate of stock or other negotiable instrument is not outstanding, thecorporation, or the president or treasurer of the association shall be the garnishee.
+&emsp;&emsp;(A) If the property consists of a right to or share in the stock of an association or corporation, or interests or profits therein, for which a certificate of stock or other negotiable instrument is not outstanding, the corporation, or the president or treasurer of the association shall be the garnishee.
 
 &emsp;&emsp;(B) If the property consists of an interest in a partnership interest, any partner other than the debtor shall be the garnishee on behalf of the partnership.
 
@@ -84,7 +84,7 @@ Objections to answer.—Within 20 days after receipt of the answer, the judgment
 
 &emsp;(6)
 
-Garnishee's failure to answer or pay.—If a garnishee fails to answer the writ of garnishment or to withhold property in accordance with the writ, the United States may petition the court for an order requiring the garnishee to appear before the court to answer the writ and to so withhold property before the appearance date. If the garnishee fails to appear, or appears and fails to show good cause why the garnishee failed to comply with the writ, the court shall enter judgment against the garnishee for the value of the judgment debtor's nonexempt interest in such property (including nonexempt disposable earnings). The court may award a reasonable attorney's fee to the United States and against the garnishee if the writ is not answered within the time specified therein and a petition requiring the garnishee to appear is filed as provided in this section.
+Garnishee's failure to answer or pay.—If a garnishee fails to answer the writ of garnishment or to withhold property in accordance with the writ, the United States may petition the court for an order requiring thegarnishee to appear before the court to answer the writ and to so withhold property before the appearance date. If the garnishee fails to appear, or appears and fails to show good cause why the garnishee failed to comply with the writ, the court shall enter judgment against the garnishee for the value of the judgment debtor's nonexempt interest in such property (including nonexempt disposable earnings). The court may award a reasonable attorney's fee to the United States and against the garnishee if the writ is not answered within the time specified therein and a petition requiring the garnishee to appear is filed as provided in this section.
 
 &emsp;(7)
 
@@ -98,7 +98,7 @@ Priorities.—Judicial orders and garnishments for the support of a person shall
 
 Accounting.—(A) While a writ of garnishment is in effect under this section, the United States shall give an annual accounting on the garnishment to the judgment debtor and the garnishee.
 
-&emsp;(B) Within 10 days after the garnishment terminates, the United States shall give a cumulative written accounting to the judgment debtor and garnishee of all property it receives under a writ of garnishment. Within 10 days after such accounting is received, the judgment debtor or garnishee may file a written objection to the accounting and a request for hearing. The party objecting shall state grounds for the objection. The court shall holda hearing on the objection within 10 days after the court receives the request for a hearing, or as soon thereafter as is practicable.
+&emsp;(B) Within 10 days after the garnishment terminates, the United States shall give a cumulative written accounting to the judgment debtor and garnishee of all property it receives under a writ of garnishment. Within 10 days after such accounting is received, the judgment debtor or garnishee may file a written objection to the accounting and a request for hearing. The party objecting shall state grounds for the objection. The court shall hold a hearing on the objection within 10 days after the court receives the request for a hearing, or as soon thereafter as is practicable.
 
 &emsp;(10)
 
@@ -111,10 +111,6 @@ Termination of garnishment.—A garnishment under this chapter is terminated onl
 &emsp;&emsp;(C) satisfaction of the debt with respect to which the writ is issued.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4956.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3002, 3104 of this title; title 8 section 1183a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “possession,”.</i>
 

@@ -48,7 +48,3 @@
 
 (Pub. L. 108–184, §7, Dec. 16, 2003, 117 Stat. 2679.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80r–9 of this title.
-

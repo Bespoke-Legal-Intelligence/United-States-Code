@@ -18,7 +18,3 @@ The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is
 
 Section applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as a note under section 1973ff of Title 42, The Public Health and Welfare.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2401, 3627 of this title; title 42 section 15386.
-

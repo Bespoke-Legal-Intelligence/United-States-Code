@@ -36,7 +36,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;(B) such reports as the Secretary may require.
 
-(2) The Secretary shall provide for evaluations of projects carried out pursuant to subsection (a) of this section and shall annually submit to the Congress a report describing such projects. The report shall include the findings made as a result of such evaluations and may include any recommendations of the Secretary for appropriate administrative and legislative initiatives with respect to the program established in this section.
+(2) The Secretary shall provide for evaluations of projects carried out pursuant to subsection (a) of this section and shall annually submit to the Congress a report describing such projects. The report shall include the findings made as aresult of such evaluations and may include any recommendations of the Secretary for appropriate administrative and legislative initiatives with respect to the program established in this section.
 
 #### (e) Authorization of appropriations
 
@@ -48,7 +48,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 1999—Subsec. (a)(1). Pub. L. 106–129 substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator for Health Care Policy and Research”.
 
-1993—Subsec. (a)(1). Pub. L. 103–43, §1811(4)(A), inserted “, acting through the Director of the National Institutes of Health and after consultation with the Administrator for Health Care Policy and Research,” after “The Secretary” and “, including treatment andprevention of HIV infection and related conditions among women” after “syndrome”.
+1993—Subsec. (a)(1). Pub. L. 103–43, §1811(4)(A), inserted “, acting through the Director of the National Institutes of Health and after consultation with the Administrator for Health Care Policy and Research,” after “The Secretary” and “, including treatment and prevention of HIV infection and related conditions among women” after “syndrome”.
 
 Subsec. (b)(3). Pub. L. 103–43, §2008(d)(5), substituted “AIDS Research Advisory Committee” for “Clinical Research Review Committee”.
 

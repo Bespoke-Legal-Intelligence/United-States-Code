@@ -4,7 +4,3 @@ At least once a year and at such other times as the needs of the service require
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 178.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 252, 253, 255, 258, 259, 260, 261, 283, 285 of this title.
-

@@ -54,7 +54,7 @@ Participating jurisdictions shall have discretion to invest funds made available
 
 #### (c) Administrative costs
 
-In each fiscal year, each participating jurisdiction may use not more than 10 percent of the funds made available under this part to the jurisdiction for such year for any administrative and planning costs of the jurisdiction in carrying out this part, including the costs of the salaries of persons engaged in administering and managing activities assisted with funds made available under this part.
+In each fiscal year, each participating jurisdiction may use not more than 10 percent of the funds made available under this part to the jurisdiction for such year for any administrativeand planning costs of the jurisdiction in carrying out this part, including the costs of the salaries of persons engaged in administering and managing activities assisted with funds made available under this part.
 
 #### (d) Prohibited uses
 
@@ -62,7 +62,7 @@ Funds made available under this part may not be used to—
 
 &emsp;(1) defray any administrative cost of a participating jurisdiction that exceed the amount specified under subsection (c) of this section,
 
-&emsp;(2) provide tenant-based rental assistance for the special purposes of the existing section 8\[42 U.S.C. 1437f\] program, including replacing public housing that is demolished or disposed of, preserving federally assisted housing, assisting in the disposition of housing owned or held by the Secretary, preventing displacement from rental rehabilitation projects, or extending or renewing tenant-based assistance under section 1437f of this title,
+&emsp;(2) provide tenant-based rental assistance for the special purposes of the existing section 8 \[42 U.S.C. 1437f\] program, including replacing public housing that is demolished or disposed of, preserving federally assisted housing, assisting in the disposition of housing owned or held by the Secretary, preventing displacement from rental rehabilitation projects, or extending or renewing tenant-based assistance under section 1437f of this title,
 
 &emsp;(3) provide non-Federal matching contributions required under any other Federal program,
 
@@ -122,7 +122,7 @@ Pub. L. 102–550, §205, inserted at end “For the purpose of this part, the t
 
 Subsec. (a)(2). Pub. L. 102–550, §203(a)(1), struck out “under paragraph (3) of this subsection or” after “authorized” in concluding provisions.
 
-Subsec. (a)(3). Pub. L. 102–550, §204(b), added cl. (ii) of par. (3)(A) and struck out former cl. (ii) which read as follows: “the tenant-based rental assistance is provided to persons from the waiting lists eligible for section 8 assistance in accordance with the applicable preferences.”
+Subsec. (a)(3). Pub. L. 102–550, §204(b), added cl. (ii) of par. (3)(A) and struck out former cl. (ii) which read asfollows: “the tenant-based rental assistance is provided to persons from the waiting lists eligible for section 8 assistance in accordance with the applicable preferences.”
 
 Pub. L. 102–550, §204(a), added subpar. (E).
 
@@ -151,10 +151,6 @@ Amendment by title V of Pub. L. 105–276 effective and applicable beginning upo
 #### Effective Date of 1992 Amendment
 
 Amendment by sections 203–207 of Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12747, 12772 of this title; title 12 section 4116.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

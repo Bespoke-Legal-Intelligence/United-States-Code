@@ -8,7 +8,7 @@
 
 &emsp;(B) Under the Single Convention on Narcotic Drugs, 1961, and under the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, the parties are required to criminalize certain drug-related activities, provide appropriately severe penalties, and cooperate in the extradition of accused offenders.
 
-&emsp;(C) International narcotics control programs should include, as priority goals, the suppression of the illicit manufacture of and trafficking in narcotic and psychotropic drugs, money laundering, and precursor chemical diversion, and the progressive elimination of the illicit cultivation of the crops from which narcotic and psychotropic drugs are derived.
+&emsp;(C) International narcotics control programs should include, as priority goals, the suppression of the illicit manufacture of and trafficking in narcotic and psychotropic drugs, money laundering, and precursor chemical diversion,and the progressive elimination of the illicit cultivation of the crops from which narcotic and psychotropic drugs are derived.
 
 &emsp;(D) International criminal activities, particularly international narcotics trafficking, money laundering, and corruption, endanger political and economic stability and democratic development, and assistance for the prevention and suppression of international criminal activities should be a priority for the United States.
 
@@ -46,7 +46,7 @@
 
 #### (3) Exception for exigent, threatening circumstances
 
-&emsp;Paragraph (1) does not prohibit an officer or employee from taking direct action to protectlife or safety if exigent circumstances arise which are unanticipated and which pose an immediate threat to United States officers or employees, officers or employees of a foreign government, or members of the public.
+&emsp;Paragraph (1) does not prohibit an officer or employee from taking direct action to protect life or safety if exigent circumstances arise which are unanticipated and which pose an immediate threat to United States officers or employees, officers or employees of a foreign government, or members of the public.
 
 #### (4) Exception for maritime law enforcement
 
@@ -72,7 +72,7 @@
 
 #### (3) Report upon determination of harm to environment or health
 
-&emsp;If the President determines that any such use is harmful to the environment or the health of individuals, the President shall immediately report that determination to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, together with such recommendations as the President deems appropriate.
+&emsp;If the President determines that any such use is harmful to the environment or thehealth of individuals, the President shall immediately report that determination to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, together with such recommendations as the President deems appropriate.
 
 #### (e) Definitions
 
@@ -198,7 +198,7 @@ Pub. L. 102–550, §1519(b), added par. (7) and redesignated former pars. (7) a
 
 &emsp;“(ii) which countries identified pursuant to clause (i) have financial institutions engaging in currency transactions involving international narcotics trafficking proceeds that include significant amounts of United States currency or currency derived from illegal drug sales in the United States or that otherwise significantly affect the United States;
 
-&emsp;“(iii) which countries identified pursuant to clause (ii) have not reached agreement with the United States authorities on a mechanism for exchanging adequate records in connection with narcotics investigations and proceedings;
+&emsp;“(iii) which countries identified pursuant to clause (ii) have not reached agreement with the UnitedStates authorities on a mechanism for exchanging adequate records in connection with narcotics investigations and proceedings;
 
 &emsp;“(iv) which countries identified pursuant to clause (iii)—
 
@@ -312,7 +312,7 @@ Subsec. (k). Pub. L. 100–690, §4405(a), added subsec. (k).
 
 1987—Subsec. (e)(7). Pub. L. 100–204, §805(a), added par. (7).
 
-Subsec. (h)(2)(A). Pub. L. 100–202 designated existing provisions of subpar. (A) as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and in subcl. (I) inserted “in satisfying the goals agreed toin an applicable bilateral narcotics agreement with the United States, (as described in (ii)) and,” after “on its own,”, and added cl. (ii).
+Subsec. (h)(2)(A). Pub. L. 100–202 designated existing provisions of subpar. (A) as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and in subcl. (I) inserted “in satisfying the goals agreed to in an applicable bilateral narcotics agreement with the United States, (as described in (ii)) and,” after “on its own,”, and added cl. (ii).
 
 Subsec. (h)(4)(A). Pub. L. 100–204, §805(b), which directed that subpar. (A) of subsec. (h) of this section be amended by substituting “45” for “30”, was executed by making the substitution in subpar. (A) of subsec. (h)(4) of this section to reflect the probable intent of Congress.
 
@@ -488,7 +488,7 @@ Reports.—Not later than one year after the date of enactment of this Act \[Nov
 
 “(c)
 
-Penalties.—After consulting with the Attorney General and the Director of the Office of National Drug Control Policy, the President shall impose penalties or sanctions including temporarily or permanently prohibiting any corporation, partnership, individual or business association (i) refusing to maintain records for the purpose of monitoring and regulating transactions of listed precursor chemicals, or (ii) refusing to make such records available to United States law enforcement authorities for investigative purposes (in coordination with the local law enforcement agency in which such corporation, partnership, individual, or business association resides, is created or has its principal place of business) from engaging in any or all transactions, in goods or services, within the commerce of the United States.
+Penalties.—After consulting with the Attorney General and the Director of the Office of National Drug Control Policy, the President shall impose penalties orsanctions including temporarily or permanently prohibiting any corporation, partnership, individual or business association (i) refusing to maintain records for the purpose of monitoring and regulating transactions of listed precursor chemicals, or (ii) refusing to make such records available to United States law enforcement authorities for investigative purposes (in coordination with the local law enforcement agency in which such corporation, partnership, individual, or business association resides, is created or has its principal place of business) from engaging in any or all transactions, in goods or services, within the commerce of the United States.
 
 “(d)
 
@@ -540,7 +540,7 @@ Congressional Review of Agreements.—The President shall submit any such agreem
 
 “(b) \[(c)\]
 
-Coordination with Multilateral Debt Relief Activities.—The authority provided in subsection\(a) shall be exercised in coordination with multilateral debt relief activities.
+Coordination with Multilateral Debt Relief Activities.—The authority provided in subsection (a) shall be exercised in coordination with multilateral debt relief activities.
 
 “(c) \[(d)\]
 
@@ -560,7 +560,7 @@ Pub. L. 101–167, title V, §569(d), Nov. 21, 1989, 103 Stat. 1244, provided th
 
 #### Definition of Terms Used in International Narcotics Control Act of 1988
 
-Section 4003 of title IV of Pub. L. 100–690 defined terms “drug” and “narcotic” to mean narcotic and psychotropic drugs and other controlled substances as defined in subsec. (i)(3) of this section for purposes of title IV of Pub. L. 100–690, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Section 4003 of title IV of Pub. L. 100–690 defined terms “drug” and “narcotic” to mean narcotic and psychotropic drugs and other controlled substances as defined in subsec. (i)(3) of this section for purposes of titleIV of Pub. L. 100–690, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 
 #### Regional Anti-Narcotics Forces
 
@@ -618,7 +618,7 @@ Section 2029 of Pub. L. 99–570 directed Director of United States Information 
 
 Pub. L. 107–68, title I, §103, Nov. 12, 2001, 115 Stat. 568, provided that:
 
-“(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate from the appropriations account ‘Expenses of the UnitedStates Senate Caucus on International Narcotics Control’ under the heading ‘Congressional Operations’ shall be paid from the Senate appropriations account for ‘Salaries, Officers and Employees’.
+“(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate from the appropriations account ‘Expenses of the United States Senate Caucus on International Narcotics Control’ under the heading ‘Congressional Operations’ shall be paid from the Senate appropriations account for ‘Salaries, Officers and Employees’.
 
 “(b) This section shall apply to pay periods beginning on or after October 1, 2001.”
 
@@ -648,7 +648,7 @@ Membership.—(1) The Caucus shall be composed of 12 members as follows:
 
 “(d)
 
-Powers.—In carrying out this section, the Caucus may require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memorandums, papers, and documents as it deems necessary. Subpoenas may be issued over the signature of the Chairman of the Caucus or any member designated by him, and may be served by any person designated by the Chairman or such member. The Chairman of the Caucus, or any member designated by him, may administer oaths to any witness.
+Powers.—In carrying out this section, the Caucus may require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memorandums, papers, and documents as it deems necessary. Subpoenas may be issued over the signature of the Chairman of the Caucus or any member designated byhim, and may be served by any person designated by the Chairman or such member. The Chairman of the Caucus, or any member designated by him, may administer oaths to any witness.
 
 “(e)
 
@@ -710,7 +710,7 @@ Section 502(a)(2)–(4) of Pub. L. 97–113 provided that:
 
 “(3) Funds appropriated for the fiscal year 1980 to carry out section 481 of the Foreign Assistance Act of 1961 \[this section\] which were obligated for assistance for the Republic of Colombia may be used for purposes other than those set forth in section 482(a)(2) of that Act \[22 U.S.C. 2291a\] as in effect immediately before the enactment of the International Security and Development Cooperation Act of 1980 \[Dec. 16, 1980\].
 
-“(4) Paragraphs (2) and (3) of this subsection shall apply only to the extent provided in advance in an appropriations Act. For such purpose, the funds describedin those paragraphs are authorized to be made available for the purposes specified in those paragraphs.”
+“(4) Paragraphs (2) and (3) of this subsection shall apply only to the extent provided in advance in an appropriations Act. For such purpose, the funds described in those paragraphs are authorized to be made available for the purposes specified in those paragraphs.”
 
 #### United States Citizens Imprisoned in Mexico
 
@@ -734,15 +734,11 @@ Section 4(a) \[Nov. 21, 1990, 104 Stat. 3353\]; section 4(e); and, in consultati
 
 (2) Delegate to the Secretary of Defense the functions conferred upon me by section 8 of the INCA \[set out as a note above\].
 
-(3) Delegate to the heads of executive departments and agencies those functions under the INCA relating to notifications to the Congress insofar as such functions relate to programs for which those heads of departments and agencies have responsibilities for notifications to the Congress under Executive Order No. 12163, as amended \[22 U.S.C. 2381 note\]; provided that the heads of departments and agencies shall consult with the Secretary of State before exercising the functions delegated by this paragraph with regard to narcotics-related assistance.
+(3) Delegate to the heads of executive departments and agencies those functions under the INCA relatingto notifications to the Congress insofar as such functions relate to programs for which those heads of departments and agencies have responsibilities for notifications to the Congress under Executive Order No. 12163, as amended \[22 U.S.C. 2381 note\]; provided that the heads of departments and agencies shall consult with the Secretary of State before exercising the functions delegated by this paragraph with regard to narcotics-related assistance.
 
 The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2151x–2, 2291a, 2291j–1 of this title; title 7 section 1736g–1; title 12 section 635; title 19 section 2492; title 48 sections 1902, 1903.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

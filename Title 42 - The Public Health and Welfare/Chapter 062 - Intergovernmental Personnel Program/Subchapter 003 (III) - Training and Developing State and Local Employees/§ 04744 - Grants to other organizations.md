@@ -2,7 +2,7 @@
 
 #### (a) Amount of grants; conditions
 
-The Office is authorized to make grants to other organizations to pay up to 75 per centum\(or, with respect to fiscal years commencing after the expiration of three years following the effective date of the grant provisions of this chapter, up to 50 per centum) of the costs of providing training to professional, administrative, or technical employees and officials of State or local governments if the Office—
+The Office is authorized to make grants to other organizations to pay up to 75 per centum (or, with respect to fiscal years commencing after the expiration of three years following the effective date of the grant provisions of this chapter, up to 50 per centum) of the costs of providing training to professional, administrative, or technical employees and officials of State or local governments if the Office—
 
 &emsp;(1) finds that State or local governments have requested the proposed program;
 
@@ -29,8 +29,4 @@ For effective date of the grant provisions of this chapter, referred to in subse
 #### Transfer of Functions
 
 “Office”, meaning Office of Personnel Management, substituted for “Commission”, meaning Civil Service Commission, in subsec. (a) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4764 of this title.
 

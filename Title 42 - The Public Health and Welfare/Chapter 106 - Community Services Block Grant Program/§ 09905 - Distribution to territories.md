@@ -18,7 +18,3 @@ Section 9905, Pub. L. 97–35, title VI, §676, Aug. 13, 1981, 95 Stat. 516, rel
 
 Section 9905a, Pub. L. 97–35, title VI, §676A, as added Pub. L. 98–558, title II, §203(d), Oct. 30, 1984, 98 Stat. 2885; amended Pub. L. 99–425, title IV, §403(a)(2)–(4), Sept. 30, 1986, 100 Stat. 968, 969; Pub. L. 101–501, title IV, §404(c), Nov. 3, 1990, 104 Stat. 1252, related to procedures for review of termination or reduction of funding.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9903, 9907, 9908, 9915, 9916 of this title.
-

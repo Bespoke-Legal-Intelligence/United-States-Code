@@ -78,9 +78,5 @@ Final report.—Not later than 1 year after the date of enactment of this Act \[
 
 #### Potato Futures Study; Submission of Report to Congress
 
-Pub. L. 95–405, §27, Sept. 30, 1978, 92 Stat. 877, required, within one year of Oct. 1, 1978, Secretary of Agriculture to (1) conduct a comprehensive study of marketing of Irish potatoes and of making and trading of contracts of sale for future delivery of Irish potatoes,including rules and regulations pertaining to such trading issued by Commodity Futures Trading Commission or any contract market designated by Commission; and (2) submit to each House of Congress a detailed report on results of such study, and that report should also include any proposals Secretary may have concerning any legislation needed to implement such recommendations and concerning any modifications and rules and regulations needed to improve regulation of such contracts by Commission or any contract market designated by Commission.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6f, 6k, 7b–1 of this title.
+Pub. L. 95–405, §27, Sept. 30, 1978, 92 Stat. 877, required, within one year of Oct. 1, 1978, Secretary of Agriculture to (1) conduct a comprehensive study of marketing of Irish potatoes and of making and trading of contracts of sale for future delivery of Irish potatoes, including rules and regulations pertaining to such trading issued by Commodity Futures Trading Commission or any contract market designated by Commission; and (2) submit to each House of Congress a detailed report on results of such study, and that report should also include any proposals Secretary may have concerning any legislation needed to implement such recommendations and concerning any modifications and rules and regulations needed to improve regulation of such contracts by Commission or any contract market designated by Commission.
 

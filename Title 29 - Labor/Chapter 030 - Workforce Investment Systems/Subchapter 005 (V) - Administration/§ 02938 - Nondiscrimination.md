@@ -24,7 +24,7 @@
 
 #### (b) Action of Secretary
 
-Whenever the Secretary finds that a State or other recipient of funds under this chapter hasfailed to comply with a provision of law referred to in subsection (a)(1) of this section, or with paragraph (2), (3), (4), or (5) of subsection (a) of this section, including an applicable regulation prescribed to carry out such provision or paragraph, the Secretary shall notify such State or recipient and shall request that the State or recipient comply. If within a reasonable period of time, not to exceed 60 days, the State or recipient fails or refuses to comply, the Secretary may—
+Whenever the Secretary finds that a State or other recipient of funds under this chapter has failed to comply with a provision of law referred to in subsection (a)(1) of this section, or with paragraph (2), (3), (4), or (5) of subsection (a) of this section, including an applicable regulation prescribed to carry out such provision or paragraph, the Secretary shall notify such State or recipient and shall request that the State or recipient comply. If within a reasonable period of time, not to exceed 60 days, the State or recipient fails or refuses to comply, the Secretary may—
 
 &emsp;(1) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted; or
 
@@ -61,10 +61,6 @@ Provisions similar to this section were contained in section 1577 of this title 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2935 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

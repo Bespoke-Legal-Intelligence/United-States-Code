@@ -10,7 +10,7 @@
 
 &emsp;(A)(i) may on the basis of the materials provided under section 289a(b)(2) of this title respecting research conducted at the institute, make recommendations to the Director of the institute respecting such research,
 
-&emsp;(ii) may review applications for grants and cooperative agreements for research or training and for which advisory council approval isrequired under section 284(b)(2) of this title and recommend for approval applications for projects which show promise of making valuable contributions to human knowledge, and
+&emsp;(ii) may review applications for grants and cooperative agreements for research or training and for which advisory council approval is required under section 284(b)(2) of this title and recommend for approval applications for projects which show promise of making valuable contributions to human knowledge, and
 
 &emsp;(iii) may review any grant, contract, or cooperative agreement proposed to be made or entered into by the institute;
 
@@ -115,8 +115,4 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 284, 284b, 285b–7, 285c–6, 285r, 287c–21, 287c–31, 289c, 300cc–40a of this title.
 

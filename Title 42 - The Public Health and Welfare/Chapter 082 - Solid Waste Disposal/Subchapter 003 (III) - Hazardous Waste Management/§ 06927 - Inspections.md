@@ -24,7 +24,7 @@ For purposes of developing or assisting in the development of any regulation or 
 
 > A designation under this paragraph shall be made in writing and in such manner as the Administrator may prescribe.
 
-(4) Notwithstanding any limitation contained in this section or any other provision of law, all information reported to, or otherwise obtained by, the Administrator (or any representative of the Administrator) under this chapter shall be made available, upon written request of any duly authorized committee of the Congress, to such committee.
+(4) Notwithstanding any limitation contained in this section or any other provision of law, all information reported to, or otherwise obtained by, the Administrator (or any representative of the Administrator) under this chapter shall bemade available, upon written request of any duly authorized committee of the Congress, to such committee.
 
 #### (c) Federal facility inspections
 
@@ -32,7 +32,7 @@ The Administrator shall undertake on an annual basis a thorough inspection of ea
 
 #### (d) State-operated facilities
 
-The Administrator shall annually undertake a thorough inspection of every facility for the treatment, storage, or disposal of hazardous waste which is operated by a State or local government for which a permit is required undersection 6925 of this title. The records of such inspection shall be available to the public as provided in subsection (b) of this section.
+The Administrator shall annually undertake a thorough inspection of every facility for the treatment, storage, or disposal of hazardous waste which is operated by a State or local government for which a permit is required under section 6925 of this title. The records of such inspection shall be available to the public as provided in subsection (b) of this section.
 
 #### (e) Mandatory inspections
 
@@ -66,9 +66,5 @@ Subsec. (b)(2) to (4). Pub. L. 96–482, §12(b)(3), added pars. (2) to (4).
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6933, 6934, 6937, 6939, 6945, 6992c, 7412, 9606 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 

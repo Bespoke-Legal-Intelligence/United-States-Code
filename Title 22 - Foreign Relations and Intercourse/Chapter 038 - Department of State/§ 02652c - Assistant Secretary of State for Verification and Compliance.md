@@ -68,6 +68,10 @@ The Secretary of State shall designate one of the Assistant Secretaries of State
 
 (Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1112\], Nov. 29, 1999, 113 Stat. 1536, 1501A–486.)
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out asa note under section 401 of Title 50, War and National Defense.
+
 #### Definitions
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1102\], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: “In this title \[see Short Title of 1999 Amendment note set out under section 2551 of this title\]:

@@ -12,7 +12,7 @@
 
 #### Prior Provisions
 
-Prior section 4106, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1245; Pub. L. 89–785, title I, §106, Nov. 7, 1966, 80 Stat. 1369; Pub. L. 94–123, §5(c), Oct. 22, 1975, 89 Stat. 675; Pub. L. 94–581, title I, §110(5), title II, §209(a)(1), (b)(1), Oct. 21, 1976, 90 Stat. 2848, 2860, 2861; Pub. L. 96–151, title III, §303, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 98–160, title II, §203(a), Nov. 21, 1983, 97 Stat. 1000; Pub.L. 99–576, title VII, §701(86), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–322, title II, §221, May 20, 1988, 102 Stat. 531; Pub. L. 101–237, title II, §203, Dec. 18, 1989, 103 Stat. 2067, related to period of appointment and promotions of persons appointed to Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See section 7403 of this title.
+Prior section 4106, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1245; Pub. L. 89–785, title I, §106, Nov. 7, 1966, 80 Stat. 1369; Pub. L. 94–123, §5(c), Oct. 22, 1975, 89 Stat. 675; Pub. L. 94–581, title I, §110(5), title II, §209(a)(1), (b)(1), Oct. 21, 1976, 90 Stat. 2848, 2860, 2861; Pub. L. 96–151, title III, §303, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 98–160, title II, §203(a), Nov. 21, 1983, 97 Stat. 1000; Pub. L. 99–576, title VII, §701(86), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–322, title II, §221, May 20, 1988, 102 Stat. 531; Pub. L. 101–237, title II, §203, Dec. 18, 1989, 103 Stat. 2067, related to period of appointment and promotions of persons appointed to Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See section 7403 of this title.
 
 Provisions similar to those comprising this section were contained in former section 2005 of this title prior to the amendment of this chapter by Pub. L. 92–540.
 
@@ -28,7 +28,7 @@ Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “4102A(b)” for “2002
 
 1988—Subsec. (a). Pub. L. 100–323, §15(a)(2), struck out “of Labor” after “Secretary” in first and fifth sentences.
 
-Pub. L. 100–323, §2(b), (e)(2), substituted “in all of the States for the purposes specified in paragraph (5) of section 2002A(b) of this title and to fund the National Veterans’ Employment and Training Services Institute under section 2009” for “to fund the disabled veterans’ outreach program under section 2003A” and “with such sections” for “with such section” in fifth sentence, inserted after fifth sentence “Each budget submission with respect to such funds shall include separate listings of the amount for the National Veterans’ Employment and Training Services Institute and of the proposed numbers, by State, of disabled veterans’ outreach program specialists appointed under section 2003A of this title and local veterans’ employment representatives assigned under section 2004 of this title, together with information demonstrating the compliance of such budget submission with the funding requirements specified in the preceding sentence.”, and struck out at end “Each budget submission with respect to such funds shall include a separate listing of the proposed number, by State, for disabled veterans outreach program specialists appointed under such section. The Secretary shall carry out this subsection through the Assistant Secretary for Veterans’ Employment.”
+Pub. L. 100–323, §2(b), (e)(2), substituted “in all of the States for the purposes specified in paragraph (5) of section 2002A(b) of this title and to fund the National Veterans’ Employment and Training Services Institute under section 2009” for “to fund the disabled veterans’ outreach program under section 2003A” and “with such sections” for “with such section” in fifth sentence, inserted after fifth sentence “Each budget submissionwith respect to such funds shall include separate listings of the amount for the National Veterans’ Employment and Training Services Institute and of the proposed numbers, by State, of disabled veterans’ outreach program specialists appointed under section 2003A of this title and local veterans’ employment representatives assigned under section 2004 of this title, together with information demonstrating the compliance of such budget submission with the funding requirements specified in the preceding sentence.”, and struck out at end “Each budget submission with respect to such funds shall include a separate listing of the proposed number, by State, for disabled veterans outreach program specialists appointed under such section. The Secretary shall carry out this subsection through the Assistant Secretary for Veterans’ Employment.”
 
 Subsec. (d). Pub. L. 100–323, §2(c), struck out “, except with the approval of the Secretary of Labor, upon the recommendation of the Assistant Secretary of Labor for Veterans’ Employment, based on a demonstrated lack of need for such funds for such purposes” after “in such subsections”.
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 #### Effective Date
 
 Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92–540, set out as an Effective Date of 1972 Amendment note under section 4101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4107 of this title.
 

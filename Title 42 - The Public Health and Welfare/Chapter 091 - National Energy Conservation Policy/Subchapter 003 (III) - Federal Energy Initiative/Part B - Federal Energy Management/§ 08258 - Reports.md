@@ -50,13 +50,9 @@ Subsec. (b)(1). Pub. L. 102–486, §152(g)(1), substituted “including—” a
 
 Subsec. (c). Pub. L. 102–486, §152(g)(2), added subsec. (c).
 
-1988—Pub. L. 100–615 amended section generally, substituting provisions relating to reports to Secretary and Congress for former requirement that in leasing Federal buildings for its own use or that of another Federal agency, each Federal agency should give appropriate preference to buildings which used solar heating and cooling equipment or other renewable energy sources or which otherwise minimized life cycle costs.
+1988—Pub. L. 100–615 amended section generally, substituting provisions relating to reports to Secretaryand Congress for former requirement that in leasing Federal buildings for its own use or that of another Federal agency, each Federal agency should give appropriate preference to buildings which used solar heating and cooling equipment or other renewable energy sources or which otherwise minimized life cycle costs.
 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 16th item on page 89 identifies a reporting provision which, as subsequently amended, is contained in subsec. (b) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6361, 8253, 8262c, 8262e, 8262g of this title.
 

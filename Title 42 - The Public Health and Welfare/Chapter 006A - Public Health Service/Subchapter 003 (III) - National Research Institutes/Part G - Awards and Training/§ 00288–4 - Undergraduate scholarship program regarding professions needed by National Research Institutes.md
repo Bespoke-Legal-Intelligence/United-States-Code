@@ -88,7 +88,3 @@ Amounts appropriated for a fiscal year for scholarships under this section shall
 
 The provisions of title 5 relating to appointment and compensation, referred to in subsec. (c)(3), are classified generally to section 3301 et seq. and section 5301 et seq., respectively, of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 288 of this title.
-

@@ -38,7 +38,7 @@ Screening and Foreign Air Carrier and Airport Security.—The Under Secretary sh
 
 &emsp;&emsp;(B) for which extraordinary security measures are in place.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1220; Pub. L. 103–305, title V, §502, Aug. 23, 1994, 108 Stat. 1595; Pub. L. 105–362, title XV, §1502(b), Nov. 10, 1998, 112 Stat. 3295; Pub. L. 107–71, title I, §101(f)(7), (9), Nov. 19, 2001, 115 Stat. 603.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1220; Pub. L. 103–305, title V, §502, Aug. 23, 1994, 108Stat. 1595; Pub. L. 105–362, title XV, §1502(b), Nov. 10, 1998, 112 Stat. 3295; Pub. L. 107–71, title I, §101(f)(7), (9), Nov. 19, 2001, 115 Stat. 603.)
 
 Historical and Revision Notes
 
@@ -105,8 +105,4 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 337, 44907, 44937 of this title.
 

@@ -4,7 +4,3 @@ Except as provided in section 11004 of this title, this chapter does not apply t
 
 (Pub. L. 99–499, title III, §327, Oct. 17, 1986, 100 Stat. 1757.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11004 of this title.
-

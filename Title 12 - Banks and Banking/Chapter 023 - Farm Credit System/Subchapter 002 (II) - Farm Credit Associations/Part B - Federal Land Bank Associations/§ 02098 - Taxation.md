@@ -18,7 +18,3 @@ A prior section 2.16 of Pub. L. 92–181 was renumbered section 2.15 and is clas
 
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2214 of this title.
-

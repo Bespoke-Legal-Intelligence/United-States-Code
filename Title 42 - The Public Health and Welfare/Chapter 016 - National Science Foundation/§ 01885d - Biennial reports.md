@@ -1,6 +1,6 @@
 ### §1885d. Biennial reports
 
-(a) By January 30, 1982, and biennially thereafter, the Director shall simultaneously transmit a report to the Congress, the Attorney General, the Director of the Office of Science and Technology Policy, the Chairman of the Equal Employment Opportunity Commission, the Director of the Office of Personnel Management, the Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services.
+(a) By January 30 of each odd-numbered year, the Director shall simultaneously transmit a report to the Congress, the Attorney General, the Director of the Office of Science and Technology Policy, the Chairman of the Equal Employment Opportunity Commission, the Director of the Office of Personnel Management, the Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services.
 
 (b) The report required by subsection (a) of this section shall contain—
 
@@ -20,7 +20,7 @@
 
 &emsp;(3) such other data, analyses, and evaluations as the Director, acting on the advice of the Committee on Equal Opportunities in Science and Engineering, determines appropriate to carry out the Foundation's functions as well as the policies and programs of sections 1885 to 1885d of this title.
 
-(Pub. L. 96–516, §37, Dec. 12, 1980, 94 Stat. 3013; Pub. L. 99–159, title I, §111(b)(9), Nov. 22, 1985, 99 Stat. 893.)
+(Pub. L. 96–516, §37, Dec. 12, 1980, 94 Stat. 3013; Pub. L. 99–159, title I, §111(b)(9), Nov. 22, 1985, 99 Stat. 893; Pub. L. 108–360, title II, §208, Oct. 25, 2004, 118 Stat. 1679.)
 
 #### References in Text
 
@@ -32,11 +32,9 @@ Section was enacted as part of the Science and Engineering Equal Opportunities A
 
 #### Amendments
 
+2004—Subsec. (a). Pub. L. 108–360 substituted “By January 30 of each odd-numbered year” for “By January 30, 1982, and biennially thereafter”.
+
 1985—Subsec. (b)(1), (2). Pub. L. 99–159, §111(b)(9)(A), substituted “engineering” for “technical” wherever appearing.
 
 Subsec. (b)(3). Pub. L. 99–159, §111(b)(9)(B), substituted “Engineering” for “Technology”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1885c of this title.
 

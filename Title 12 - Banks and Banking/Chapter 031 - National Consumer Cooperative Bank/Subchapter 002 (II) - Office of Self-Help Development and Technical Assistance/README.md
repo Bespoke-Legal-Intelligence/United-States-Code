@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—OFFICE OF SELF-HELP DEVELOPMENT AND TECHNICAL ASSISTANCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3015 of this title.
-
 
 ---
 

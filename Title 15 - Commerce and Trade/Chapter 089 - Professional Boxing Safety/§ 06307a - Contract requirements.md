@@ -8,7 +8,3 @@ Within 2 years after May 26, 2000, the Association of Boxing Commissions (ABC) s
 
 A prior section 9 of Pub. L. 104–272 was renumbered section 17 and is classified to section 6308 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6309 of this title.
-

@@ -72,7 +72,3 @@ In subsection (b)(2), the words “no longer gainfully employed” are substitut
 
 In subsection (b)(4), the words “an individual who has severely impaired vision or hearing or another physical or mental handicap” are substituted for “handicapped person” and “For the purposes of this subsection, the term ‘handicapped person’ means any person who has severely impaired vision or hearing, and any other physically or mentally handicapped person, as defined by the Board” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41110 of this title.
-

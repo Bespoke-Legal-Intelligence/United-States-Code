@@ -6,7 +6,7 @@ No real estate shall be purchased for military park purposes by the Government u
 
 #### Change of Name
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Transfer of Functions
 
@@ -17,8 +17,4 @@ National Park Service substituted for Office of National Parks, Buildings, and R
 #### Secretary of the Air Force
 
 For transfer of certain functions relating to real property under jurisdiction of Department of the Air Force from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order No. 14 \[§2(4)\], eff. July 1, 1948.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 455a of this title.
 

@@ -32,7 +32,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 &emsp;(ii) If the Secretary approves the conveyance of a historic light station referenced in this paragraph, such conveyance shall be subject to the conditions set forth in subsection (c) of this section and any other terms or conditions the Secretary considers necessary to protect the resources of the park unit or wildlife refuge.
 
-&emsp;(iii) If the Secretary approves the sale of a historic light station referenced in this paragraph, such sale shall be subject to the conditions set forth in subparagraphs (A) through (D) and (H) of subsection (c)(1) of this section and subsection (c)(2) of this section and anyother terms or conditions the Secretary considers necessary to protect the resources of the park unit or wildlife refuge.
+&emsp;(iii) If the Secretary approves the sale of a historic light station referenced in this paragraph, such sale shall be subject to the conditions set forth in subparagraphs (A) through (D) and (H) of subsection (c)(1) of this section and subsection (c)(2) of this section and any other terms or conditions the Secretary considers necessary to protect the resources of the park unit or wildlife refuge.
 
 &emsp;(iv) For those historic light stations referenced in this paragraph, the Secretary is encouraged to enter into cooperative agreements with appropriate eligible entities, as provided in this subchapter, to the extent such cooperative agreements are consistent with the Secretary's responsibilities to manage and administer the park unit or wildlife refuge, as appropriate.
 
@@ -77,6 +77,16 @@ In order to provide a national historic light station program, the Secretary sha
 &emsp;&emsp;(E) the eligible entity to which the historic light station is conveyed, conducts any commercial activities at the historic light station, any part thereof, or in conjunction with any associated historic artifact, without approval of the Secretary; or
 
 &emsp;&emsp;(F) at least 30 days before the reversion, the Administrator provides written notice to the owner that the historic light station or any part thereof is needed for national security purposes.
+
+#### (4) Light stations originally conveyed under other authority
+
+&emsp;Upon receiving notice of an executed or intended conveyance by an owner who—
+
+&emsp;&emsp;(A) received from the Federal Government under authority other than this subchapteran historic light station in which the United States retains a reversionary or other interest; and
+
+&emsp;&emsp;(B) is conveying it to another person by sale, gift, or any other manner,
+
+> &emsp;the Secretary shall review the terms of the executed or proposed conveyance to ensure that any new owner is capable of or is complying with any and all conditions of the original conveyance. The Secretary may require the parties to the conveyance and relevant Federal agencies to provide such information as is necessary to complete this review. If the Secretary determines that the new owner has not or is unable to comply with those conditions, the Secretary shall immediately advise the Administrator, who shall invoke any reversionary interest or take such other action as may be necessary to protect the interests of the United States.
 
 #### (d) Description of property
 
@@ -128,7 +138,7 @@ For purposes of this section:
 
 &emsp;The term “Secretary” means the Secretary of the Interior.
 
-(Pub. L. 89–665, title III, §308, as added Pub. L. 106–355, §2, Oct. 24, 2000, 114 Stat. 1385; amended Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+(Pub. L. 89–665, title III, §308, as added Pub. L. 106–355, §2, Oct. 24, 2000, 114 Stat. 1385; amended Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 108–293, title VI, §627, Aug. 9, 2004, 118 Stat. 1066.)
 
 #### References in Text
 
@@ -140,15 +150,13 @@ Section 416(d) of the Coast Guard Authorization Act of 1998, referred to in subs
 
 #### Amendments
 
+2004—Subsec. (c)(4). Pub. L. 108–293 added par. (4).
+
 2000—Subsec. (b)(3)(A). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 470w–8 of this title.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

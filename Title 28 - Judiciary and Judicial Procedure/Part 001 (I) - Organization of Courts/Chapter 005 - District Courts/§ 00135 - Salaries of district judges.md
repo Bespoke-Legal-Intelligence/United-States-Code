@@ -1,8 +1,8 @@
 ### §135. Salaries of district judges
 
-Each judge of a district court of the United States shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967 (2 U.S.C. 351–361), as adjusted by section 461 of this title.
+Each judge of a district court of the United States shall receive a salary at an annual ratedetermined under section 225 of the Federal Salary Act of 1967 (2 U.S.C. 351–361), as adjusted by section 461 of this title.
 
-(June 25, 1948, ch. 646, 62 Stat. 897; Mar. 2, 1955, ch. 9, §1(c), 69 Stat. 10; Pub. L. 88–426, title IV,§403(c), Aug. 14, 1964, 78 Stat. 434; Pub. L. 94–82, title II, §205(b)(3), Aug. 9, 1975, 89 Stat. 422.)
+(June 25, 1948, ch. 646, 62 Stat. 897; Mar. 2, 1955, ch. 9, §1(c), 69 Stat. 10; Pub. L. 88–426, title IV, §403(c), Aug. 14, 1964, 78 Stat. 434; Pub. L. 94–82, title II, §205(b)(3), Aug. 9, 1975, 89 Stat. 422.)
 
 #### Historical and Revision Notes
 
@@ -42,7 +42,9 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Salary Increases
 
-2004—Salaries of district judges increased to $158,100 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2004, by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+2005—Salaries of district judges increased to $162,100 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2005, by Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+
+2004—Salaries of district judges increased to $158,100 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2004, by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, formerly set out as a note under section 5332 of Title 5.
 
 Salaries of district judges increased to $157,000 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2004, by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
 
@@ -123,8 +125,4 @@ Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 
 Salaries of chief justice and associate justices of Supreme Court of District of Columbia, forerunner of District Court for District of Columbia, were set at $5,000 by act Mar. 3, 1901, ch. 854, §1, 30 Stat. 1199, and increased to $7,500 a year by act Feb. 25, 1919, ch. 29, §1, 40 Stat. 1156.
 
 1911—Salaries of district court judges set at $6,000 a year by Judicial Code of 1911, act Mar. 3, 1911, ch. 231, §1, 36 Stat. 1087.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 153, 634 of this title; title 26 section 7443.
 

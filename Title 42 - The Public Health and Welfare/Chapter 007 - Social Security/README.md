@@ -103,6 +103,10 @@ Interfund borrowing.
 
 Accounting for unnegotiated benefit checks.
 
+(n)
+
+Payments to Funds in satisfaction of obligations.
+
 |  |  |
 | :--- | ---: |
 | [401a.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000401a%20-%20Omitted.md) | Omitted. |
@@ -164,7 +168,7 @@ Repealed.
 
 (n)
 
-Termination of benefits upon deportation of primary beneficiary.
+Termination of benefits upon removal of primary beneficiary.
 
 (<i>o</i>)
 
@@ -204,7 +208,7 @@ Increase in old-age insurance benefit amounts on account of delayed retirement.
 
 (x)
 
-Limitation on payments to prisoners and certain other inmates of publicly funded institutions.
+Limitation on payments to prisoners, certain other inmates of publicly funded institutions, fugitives, probationers, and parolees.
 
 (y)
 
@@ -296,7 +300,7 @@ Collection of delinquent amounts.
 
 (g)
 
-Recovery of overpayment of supplemental security income benefits.
+Cross-program recovery of overpayments.
 
 |  |  |
 | :--- | ---: |
@@ -441,13 +445,17 @@ In general.
 
 (b)
 
-Violations by certified payees.
+Restitution.
 
 (c)
 
-Effect upon certification as payee; definitions.
+Violations by certified payees.
 
 (d)
+
+Effect upon certification as payee; definitions.
+
+(e)
 
 Application of subsection (a)(6) and (7) to certain aliens.
 
@@ -662,6 +670,10 @@ Amount required for a quarter of coverage.
 (b)
 
 “Currently insured individual” defined.
+
+(c)
+
+Criterion described.
 
 |  |  |
 | :--- | ---: |
@@ -1338,6 +1350,10 @@ Access to State employment records.
 (j)
 
 Worker profiling.
+
+(k)
+
+Transfer of unemployment experience upon transfer of business.
 
 |  |  |
 | :--- | ---: |
@@ -3182,37 +3198,9 @@ Appropriations.
 
 |  |  |
 | :--- | ---: |
-| [801\.](Subchapter%20006%20%28VI%29%20-%20Temporary%20State%20Fiscal%20Relief/%C2%A7%2000801%20-%20Temporary%20State%20fiscal%20relief.md) | Temporary State fiscal relief. |
+| [801\.](Subchapter%20006%20%28VI%29%20-%20Temporary%20State%20Fiscal%20Relief/%C2%A7%2000801%20-%20Repealed.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Appropriation.
-
-(b)
-
-Payments.
-
-(c)
-
-Payments based on population.
-
-(d)
-
-Use of payment.
-
-(e)
-
-Certification.
-
-(f)
-
-Definition of State.
-
-(g)
-
-Repeal.
 
 #### SUBCHAPTER VII—ADMINISTRATION
 
@@ -3272,7 +3260,7 @@ Chairman.
 
 (f)
 
-Expenses and per diem.
+Compensation, expenses, and per diem.
 
 (g)
 
@@ -3503,6 +3491,18 @@ Accountability monitoring.
 
 Restitution.
 
+(j)
+
+Misuse of benefits.
+
+(k)
+
+Periodic onsite review.
+
+(<i>l</i>)
+
+Liability for misused amounts.
+
 |  |  |
 | :--- | ---: |
 | [1008\.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001008%20-%20Overpayments%20and%20underpayments.md) | Overpayments and underpayments. |
@@ -3515,19 +3515,19 @@ In general.
 
 (b)
 
-No effect on subchapter VIII eligibility or benefit amount.
+Waiver of recovery of overpayment.
 
 (c)
 
-Waiver of recovery of overpayment.
+Limited immunity for disbursing officers.
 
 (d)
 
-Limited immunity for disbursing officers.
+Authorized collection practices.
 
 (e)
 
-Authorized collection practices.
+Cross-program recovery of overpayments.
 
 |  |  |
 | :--- | ---: |
@@ -3595,7 +3595,7 @@ In general.
 
 (b)
 
-Restitution by representative payee.
+Court order for restitution.
 
 |  |  |
 | :--- | ---: |
@@ -3912,6 +3912,23 @@ Medicaid payments to territories for fiscal year 1998 and thereafter.
 | :--- | ---: |
 | [1309\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001309%20-%20Amounts%20disregarded%20not%20to%20be%20taken%20into%20account%20in%20determining%20eligibility%20of%20other%20individuals.md) | Amounts disregarded not to be taken into account in determining eligibility of other individuals. |
 | [1310\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001310%20-%20Cooperative%20research%20or%20demonstration%20projects.md) | Cooperative research or demonstration projects. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Limitations and costs.
+
+(c)
+
+Survey of use of payments.
+
+|  |  |
+| :--- | ---: |
 | [1311\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001311%20-%20Public%20assistance%20payments%20to%20legal%20representatives.md) | Public assistance payments to legal representatives. |
 | [1312\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001312%20-%20Medical%20care%20guides%20and%20reports%20for%20public%20assistance%20and%20medical%20assistance.md) | Medical care guides and reports for public assistance and medical assistance. |
 | [1313\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001313%20-%20Assistance%20for%20United%20States%20citizens%20returned%20from%20foreign%20countries.md) | Assistance for United States citizens returned from foreign countries. |
@@ -4177,7 +4194,7 @@ Contumacy or refusal to obey subpena; contempt proceedings.
 
 (c)
 
-Nondisclosure of personal medical records by General Accounting Office.
+Nondisclosure of personal medical records by Government Accountability Office.
 
 |  |  |
 | :--- | ---: |
@@ -4415,7 +4432,7 @@ Definitions and special rules.
 
 (a)
 
-False statements or representations of material fact; proceedings to exclude.
+False statements or representations of material fact; proceedings to exclude; wrongful conversions by representative payees.
 
 (b)
 
@@ -4493,6 +4510,7 @@ Consultations.
 
 |  |  |
 | :--- | ---: |
+| 1320a–8b. | Attempts to interfere with administration of this chapter. |
 | 1320a–9. | Demonstration projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4724,7 +4742,7 @@ Public surveys.
 
 |  |  |
 | :--- | ---: |
-| 1320b–10. | Prohibition of misuse of symbols, emblems, or names in reference to Social Security or Medicare. |
+| 1320b–10. | Prohibitions relating to references to Social Security or Medicare. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -4842,6 +4860,10 @@ Notice to eligible individuals.
 
 Mandatory provision of statements.
 
+(d)
+
+Disclosure to governmental employees of effect of noncovered employment.
+
 |  |  |
 | :--- | ---: |
 | 1320b–14. | Outreach efforts to increase awareness of the availability of medicare cost-sharing and subsidies for low-income individuals under subchapter XVIII. |
@@ -4877,7 +4899,7 @@ In general.
 |  |  |
 | :--- | ---: |
 | 1320b–16. | Public disclosure of certain information on hospital financial interest and referral patterns. |
-| 1320b–17. | Recovery of SSI overpayments from other benefits. |
+| 1320b–17. | Cross-program recovery of overpayments from benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -4887,11 +4909,23 @@ In general.
 
 (b)
 
-No effect on SSI eligibility or benefit amount.
+Limitation applicable to current benefits.
+
+(c)
+
+No effect on eligibility or benefit amount under subchapter VIII or XVI.
+
+(d)
+
+Inapplicability of prohibition against assessment and legal process.
+
+(e)
+
+Programs described.
 
 |  |  |
 | :--- | ---: |
-| 1320b–18. | Recovery of social security benefit overpayments from subchapter VIII benefits. |
+| 1320b–18. | Repealed. |
 | 1320b–19. | The Ticket to Work and Self-Sufficiency Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -5203,7 +5237,7 @@ Organizations with contracts.
 | 1320c–10. | Annual reports. |
 | 1320c–11. | Exemptions for religious nonmedical health care institutions. |
 | 1320c–12. | Medical officers in American Samoa, Northern Mariana Islands, and Trust Territory of Pacific Islands to be included in utilization and quality control peer review program. |
-| 1320c–13. | Repealed. |
+| 1320c–13 to 1320c–22. | Repealed or Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -5753,7 +5787,24 @@ Reinstatement of eligibility on the basis of blindness or disability.
 
 |  |  |
 | :--- | ---: |
-| [1383a.](Subchapter%20016%20%28XVI%29%20-%20Supplemental%20Security%20Income%20for%20Aged%2C%20Blind%2C%20and%20Disabled/Part%20B%20-%20Procedural%20and%20General%20Provisions/%C2%A7%2001383a%20-%20Fraudulent%20acts%3B%20penalties%3B%20restitution.md) | Fraudulent acts; penalties; restitution. |
+| [1383a.](Subchapter%20016%20%28XVI%29%20-%20Supplemental%20Security%20Income%20for%20Aged%2C%20Blind%2C%20and%20Disabled/Part%20B%20-%20Procedural%20and%20General%20Provisions/%C2%A7%2001383a%20-%20Penalties%20for%20fraud.md) | Penalties for fraud. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Restitution.
+
+(c)
+
+Prohibition on certification as representative payee.
+
+|  |  |
+| :--- | ---: |
 | [1383b.](Subchapter%20016%20%28XVI%29%20-%20Supplemental%20Security%20Income%20for%20Aged%2C%20Blind%2C%20and%20Disabled/Part%20B%20-%20Procedural%20and%20General%20Provisions/%C2%A7%2001383b%20-%20Administration.md) | Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -9770,6 +9821,10 @@ Employed individual with a medically improved disability.
 
 Independent foster care adolescent.
 
+(x)
+
+Strategies, treatment, and services.
+
 |  |  |
 | :--- | ---: |
 | [1396e.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396e%20-%20Enrollment%20of%20individuals%20under%20group%20health%20plans.md) | Enrollment of individuals under group health plans. |
@@ -10567,7 +10622,7 @@ Coverage of costs through part B of medicare program.
 
 (g)
 
-Special rule.
+Special rules.
 
 |  |  |
 | :--- | ---: |
@@ -11005,10 +11060,6 @@ Child health assistance.
 (c)
 
 Additional definitions.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 256b, 299a, 907a, 1437f, 4636, 11606, 12637, 13021 of this title; title 2 section 651; title 5 sections 8403, 8442; title 7 sections 2012, 2015; title 8 section 1324a; title 12 section 1701z–11; title 22 sections 3968, 4071i; title 25 sections 13d, 459e, 609c–1, 640d–21, 1264, 1300d–25, 1407, 1408, 2307, 3304; title 26 sections 86, 162, 401, 412, 415, 1402, 6103; title 29 sections 716, 728, 1082, 2931; title 31 sections 1516, 3701, 3716; title 38 sections 5303A, 8126; title 40 section 14502; title 43 section 1626; title 45 sections 231, 231a, 231b, 231c, 231d, 231e, 231f, 231q, 231r, 231u; title 50 App. section 1291.
 
 
 ---

@@ -16,7 +16,3 @@ Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing other than third place it appears in subsec. (a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3742 of this title.
-

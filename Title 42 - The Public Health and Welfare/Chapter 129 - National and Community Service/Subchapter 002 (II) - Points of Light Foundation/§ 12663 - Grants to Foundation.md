@@ -14,7 +14,3 @@ Notwithstanding any other provision of law, the Foundation may hold funds grante
 
 (Pub. L. 101–610, title III, §304, Nov. 16, 1990, 104 Stat. 3181.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12664 of this title.
-

@@ -26,7 +26,7 @@ Funding provided in Public Law 101–121 under the “Trust Territory of the Pac
 
 #### References in Text
 
-The Compact, referred to in subsecs. (a) and (b), is the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
+The Compact, referred to in subsecs. (a) and (b), is the Compact of Free Association between the United Statesand the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
 
 For Oct. 1, 1994, as the date the Compact of Free Association with Palau entered into full force and effect, referred to in subsecs. (a)(1), (2), (4) and (b), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of this title.
 

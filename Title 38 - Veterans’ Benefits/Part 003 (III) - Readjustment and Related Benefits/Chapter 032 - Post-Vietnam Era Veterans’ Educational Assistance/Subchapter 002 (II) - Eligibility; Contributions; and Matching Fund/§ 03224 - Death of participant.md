@@ -26,7 +26,3 @@ In the event of a participant's death, the amount of such participant's unused c
 
 Section 802(d)(2) of Pub. L. 96–466 provided that: “The amendments made by sections 402 through 406 \[amending this section and sections 1622, 1631, and 1641 \[now 3222, 3231, and 3241\] of this title\] shall become effective on October 1, 1980.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3223 of this title.
-

@@ -28,7 +28,3 @@ The decision of the Board on any question or other matter relating to an appeal 
 
 1997—Subsec. (a). Pub. L. 105–85 substituted “Commission” for “President”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3661 of this title.
-

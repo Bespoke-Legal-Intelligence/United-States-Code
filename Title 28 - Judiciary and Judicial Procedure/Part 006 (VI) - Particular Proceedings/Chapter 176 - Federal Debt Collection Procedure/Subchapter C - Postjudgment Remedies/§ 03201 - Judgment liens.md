@@ -38,7 +38,3 @@ Sale of Property Subject to Judgment Lien.—(1) On proper application to a cour
 
 Section 6323(f) of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to section 6323(f) of Title 26, Internal Revenue Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3102, 3105 of this title; title 8 section 1183a; title 12 section 3758; title 18 section 3613.
-

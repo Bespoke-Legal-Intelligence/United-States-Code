@@ -14,7 +14,3 @@ Amendment by Pub. L. 104–99 is based on section 107(4) of H.R. 2099, One Hundr
 
 1991—Pub. L. 102–83 renumbered section 782 of this title as this section and substituted “Secretary” for “Administrator”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1925, 1969 of this title.
-

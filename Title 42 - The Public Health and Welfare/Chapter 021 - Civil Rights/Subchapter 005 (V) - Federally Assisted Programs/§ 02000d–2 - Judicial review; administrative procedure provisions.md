@@ -8,7 +8,3 @@ Any department or agency action taken pursuant to section 2000d–1 of this titl
 
 “Chapter 7 of title 5” and “that chapter” substituted in text for “section 10 of the Administrative Procedure Act” and “that section”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. Prior to the enactment of Title 5, section 10 of the Administrative Procedure Act was classified to section 1009 of Title 5.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2930c, 2971c, 2985g, 9821, 9849, 10406 of this title; title 20 section 7905; title 39 section 410.
-

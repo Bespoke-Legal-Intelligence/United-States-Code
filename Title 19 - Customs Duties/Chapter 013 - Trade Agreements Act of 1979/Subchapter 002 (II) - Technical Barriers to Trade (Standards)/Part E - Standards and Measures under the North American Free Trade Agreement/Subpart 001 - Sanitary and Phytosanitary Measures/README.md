@@ -1,9 +1,5 @@
 subpart 1—sanitary and phytosanitary measures
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 2576 of this title.
-
 
 ---
 

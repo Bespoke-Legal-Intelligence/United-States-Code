@@ -82,7 +82,3 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3416 of this title.
-

@@ -142,7 +142,3 @@ Small tribes.—The Secretary may define small Indian tribes and small tribally 
 
 Section effective on the date provided by the Secretary of Housing and Urban Development pursuant to section 4116(a) of this title to provide for timely submission and review of Indian housing plans as necessary for the provision of assistance under this chapter in fiscal year 1998, see section 4113(e) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4103, 4111, 4113 of this title.
-

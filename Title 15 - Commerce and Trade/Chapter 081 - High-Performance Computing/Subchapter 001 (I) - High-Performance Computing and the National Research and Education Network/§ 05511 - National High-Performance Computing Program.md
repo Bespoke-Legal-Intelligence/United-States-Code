@@ -154,7 +154,3 @@ Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive order, the funct
 
 (b) The Committee shall terminate June 1, 2005, unless extended by the President prior to such date.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5503, 5513, 5523, 5528 of this title.
-

@@ -14,7 +14,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 “Secretary of the Interior, or such officer as he may designate,” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1164 of this title.
-

@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(3) the skills, knowledge and experience in these urban institutions, if applied in a systematic and sustained manner, can make a significant contribution to the solution of such problems; and
 
-&emsp;(4) the application of such skills, knowledge and experience is hindered by the limited funds available to redirect attention to solutions to such urban problems.
+&emsp;(4) the application of such skills, knowledge and experience is hindered by the limitedfunds available to redirect attention to solutions to such urban problems.
 
 (Pub. L. 89–329, title VII, §751, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1798.)
 

@@ -4,7 +4,3 @@ Within three years after an arbitral award falling under the Convention is made,
 
 (Added Pub. L. 91–368, §1, July 31, 1970, 84 Stat. 693.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 302 of this title.
-

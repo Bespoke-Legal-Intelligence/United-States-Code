@@ -40,7 +40,3 @@ Availability of report.—The Secretary shall provide a copy of a report submitt
 
 A prior section 6719, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1027, related to compliance agreements, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6703 of this title.
-

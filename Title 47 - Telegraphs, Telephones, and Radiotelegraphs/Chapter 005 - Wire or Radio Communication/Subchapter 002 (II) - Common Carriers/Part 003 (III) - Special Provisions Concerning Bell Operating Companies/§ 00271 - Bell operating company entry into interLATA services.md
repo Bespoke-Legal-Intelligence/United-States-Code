@@ -50,7 +50,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (B) Competitive checklist
 
-&emsp;&emsp;Access or interconnection provided or generally offered by a Bell operating company to other telecommunications carriers meets the requirements of this subparagraph ifsuch access and interconnection includes each of the following:
+&emsp;&emsp;Access or interconnection provided or generally offered by a Bell operating company to other telecommunications carriers meets the requirements of this subparagraph if such access and interconnection includes each of the following:
 
 &emsp;&emsp;&emsp;(i) Interconnection in accordance with the requirements of sections 251(c)(2) and 252(d)(1) of this title.
 
@@ -156,7 +156,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (B) Limitation
 
-&emsp;&emsp;Except for single-LATA States and States that have issued an order by December 19, 1995, requiring a Bell operating company to implement intraLATA toll dialing parity, a State may not require a Bell operating company to implement intraLATA toll dialing parity in that State before a Bell operating company has been granted authority under this section to provide interLATA services originating in that State or before 3 years after February 8, 1996, whichever is earlier. Nothing in this subparagraph precludes a State from issuing an order requiring intraLATA toll dialing parity in that State prior to either such date so long as such order does not take effect until after the earlier of either such dates.
+&emsp;&emsp;Except for single-LATA States and States that have issued an order by December 19, 1995, requiring a Bell operating company toimplement intraLATA toll dialing parity, a State may not require a Bell operating company to implement intraLATA toll dialing parity in that State before a Bell operating company has been granted authority under this section to provide interLATA services originating in that State or before 3 years after February 8, 1996, whichever is earlier. Nothing in this subparagraph precludes a State from issuing an order requiring intraLATA toll dialing parity in that State prior to either such date so long as such order does not take effect until after the earlier of either such dates.
 
 #### (f) Exception for previously authorized activities
 
@@ -219,10 +219,6 @@ For purposes of this section, a Bell operating company application to provide 80
 #### References in Text
 
 Section 254(h)(5) of this title, referred to in subsec. (g)(2), was redesignated section 254(h)(7) of this title by Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 160, 272, 273, 402 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -84,6 +84,8 @@
 | [<b>85.</b>](Subpart%20G%20-%20Insurance%20and%20Annuities/Chapter%20085%20-%20Unemployment%20Compensation/README.md) | <b>Unemployment Compensation</b> | <b>8501</b> |
 | [<b>87.</b>](Subpart%20G%20-%20Insurance%20and%20Annuities/Chapter%20087%20-%20Life%20Insurance/README.md) | <b>Life Insurance</b> | <b>8701</b> |
 | [<b>89.</b>](Subpart%20G%20-%20Insurance%20and%20Annuities/Chapter%20089%20-%20Health%20Insurance/README.md) | <b>Health Insurance</b> | <b>8901</b> |
+| [<b>89A.</b>](Subpart%20G%20-%20Insurance%20and%20Annuities/Chapter%20089A%20-%20Enhanced%20Dental%20Benefits/README.md) | <b>Enhanced Dental Benefits</b> | <b>8951</b> |
+| [<b>89B.</b>](Subpart%20G%20-%20Insurance%20and%20Annuities/Chapter%20089B%20-%20Enhanced%20Vision%20Benefits/README.md) | <b>Enhanced Vision Benefits</b> | <b>8981</b> |
 | [<b>90.</b>](Subpart%20G%20-%20Insurance%20and%20Annuities/Chapter%20090%20-%20Long-Term%20Care%20Insurance/README.md) | <b>Long-Term Care Insurance</b> | <b>9001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -107,11 +109,16 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>97.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20097%20-%20Department%20of%20Homeland%20Security/README.md) | <b>Department of Homeland Security</b> | <b>9701</b> |
+| [<b>98.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20098%20-%20National%20Aeronautics%20and%20Space%20Administration/README.md) | <b>National Aeronautics and Space Administration</b> | <b>9801</b> |
 | [<b>99.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20099%20-%20Department%20of%20Defense%20National%20Security%20Personnel%20System/README.md) | <b>Department of Defense National Security Personnel System</b> | <b>9901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–496, §4, Dec. 23, 2004, 118 Stat. 4010, added items for chapters 89A and 89B.
+
+Pub. L. 108–201, §3(b), Feb. 24, 2004, 118 Stat. 477, added item for chapter 98.
 
 2003—Pub. L. 108–136, div. A, title XI, §§1101(a)(2), 1129(b), Nov. 24, 2003, 117 Stat. 1633, 1645, added items for chapters 54 and 99.
 
@@ -136,10 +143,6 @@ Pub. L. 106–265, title I, §1002(b), Sept. 19, 2000, 114 Stat. 769, added item
 1984—Pub. L. 98–615, title II, §201(b), Nov. 8, 1984, 98 Stat. 3214, substituted “Performance Management and Recognition System” for “Merit Pay and Cash Awards” in item for chapter 54.
 
 1978—Pub. L. 95–454, title I, §101(b)(1), title II, §203(b), title V, §503(i), title VI, §601(b), title VII, §703(b), title IX, §906(c)(5), Oct. 13, 1978, 92 Stat. 1118, 1134, 1184, 1188, 1217, 1227, added items for chapters 23, 34, 47, 54, and 72, substituted in item for chapter 43 “Appraisal” for “Rating” and in item for chapter 71 “Labor-Management Relations” for “Policies”, and inserted in heading of subpart F “Labor-Management and” before “Employee”.
-
-#### Part Referred to in Other Sections
-
-This part is referred to in title 28 section 996; title 42 section 3056b; title 44 section 2105; title 47 sections 154, 332.
 
 
 ---

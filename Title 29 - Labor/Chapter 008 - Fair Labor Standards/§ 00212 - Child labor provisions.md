@@ -6,7 +6,7 @@ No producer, manufacturer, or dealer shall ship or deliver for shipment in comme
 
 #### (b) Investigations and inspections
 
-The Secretary of Labor or any of his authorized representatives, shall make all investigations and inspections under section 211(a) of this title with respect to the employment of minors, and, subject to the direction and control of the Attorney General, shall bring all actions under section 217 of this title to enjoin any act orpractice which is unlawful by reason of the existence of oppressive child labor, and shall administer all other provisions of this chapter relating to oppressive child labor.
+The Secretary of Labor or any of his authorized representatives, shall make all investigations and inspections under section 211(a) of this title with respect to the employment of minors, and, subject to the direction and control of the Attorney General, shall bring all actions under section 217 of this title to enjoin any act or practice which is unlawful by reason of the existence of oppressive child labor, and shall administer all other provisions of this chapter relating to oppressive child labor.
 
 #### (c) Oppressive child labor
 
@@ -45,8 +45,4 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 “Secretary of Labor” substituted for “Chief of the Children's Bureau in the Department of Labor” in subsec. (b) by 1946 Reorg. Plan No. 2. See note set out under section 203 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 211, 213, 215, 216 of this title; title 2 section 1313; title 3 section 413.
 

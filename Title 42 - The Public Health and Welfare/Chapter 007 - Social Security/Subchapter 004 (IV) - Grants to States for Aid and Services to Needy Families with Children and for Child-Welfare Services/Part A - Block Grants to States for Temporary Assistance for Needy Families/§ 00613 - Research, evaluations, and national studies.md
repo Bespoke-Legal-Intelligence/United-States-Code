@@ -22,7 +22,7 @@ The Secretary shall develop innovative methods of disseminating information on a
 
 #### (1) Annual ranking of States
 
-&emsp;The Secretary shall rank annually the States to which grants are paid under section 603 of this title in the order of their success in placing recipients of assistance under the State program funded under this part into long-term private sector jobs, reducing the overall welfare caseload, and, when a practicable method for calculating this information becomes available, diverting individuals from formally applying to the State program and receiving assistance. In ranking States under this subsection, the Secretary shall take into account the average number of minor children living at home in families in the State that have incomes below the poverty line and the amount of funding provided each State for such families.
+&emsp;The Secretary shall rank annually the States to which grants are paid under section 603 of this title in the order of their success in placing recipients of assistance under the State program funded under this part into long-term private sector jobs, reducing the overall welfare caseload, and, when a practicable method for calculating this information becomes available, diverting individuals from formally applying to the State program and receiving assistance. In ranking States under this subsection, the Secretary shall take into account the average number of minor children living at home in families inthe State that have incomes below the poverty line and the amount of funding provided each State for such families.
 
 #### (2) Annual review of most and least successful work programs
 
@@ -96,7 +96,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (1) In general
 
-&emsp;Out of any money in the Treasury of the United States not otherwise appropriated,there are appropriated $15,000,000 for each of fiscal years 1997 through 2002 for the purpose of paying—
+&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $15,000,000 for each of fiscal years 1997 through 2002 for the purpose of paying—
 
 &emsp;&emsp;(A) the cost of conducting the research described in subsection (a) of this section;
 
@@ -180,11 +180,11 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 &emsp;&emsp;Not later than January 1, 2001,<sup>2</sup> (or at a later date, if the Secretary informs the Committees of the Congress with jurisdiction over the subject matter of the report) the Secretary shall submit a final report on the matter described in subparagraph (A).
 
-(Aug. 14, 1935, ch. 531, title IV, §413, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996,110 Stat. 2153; amended Pub. L. 105–33, title V, §§5001(f), 5509, 5514(c), Aug. 5, 1997, 111 Stat. 592, 618, 620; Pub. L. 105–200, title IV, §410(a), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title IV, §401(c), Dec. 14, 1999, 113 Stat. 1858.)
+(Aug. 14, 1935, ch. 531, title IV, §413, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2153; amended Pub. L. 105–33, title V, §§5001(f), 5509, 5514(c), Aug. 5, 1997, 111 Stat. 592, 618, 620; Pub. L. 105–200, title IV, §410(a), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title IV, §401(c), Dec. 14, 1999, 113 Stat. 1858.)
 
 #### References in Text
 
-Section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (i)(2), is section 103 of Pub. L. 104–193, which enacted this part, amended sections 602, 603, and 1308 of this title, and repealed provisions formerly set out as this part. For complete classification of section 103 to the Code, see Tables.
+Section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (i)(2), is section 103 of Pub. L. 104–193, which enacted this part, amended sections 602, 603, and 1308 of this title, and repealed provisions formerly set out asthis part. For complete classification of section 103 to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -267,10 +267,6 @@ Study.—The Secretary shall, in cooperation with the States, study and analyze 
 “(b)
 
 Report.—Not later than September 30, 1998, the Secretary shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report containing the findings of the study required by subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 603, 612, 1308 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (b) of this section, any eligible employee who takes leaveunder section 2612 of this title for the intended purpose of the leave shall be entitled, on return from such leave—
+&emsp;Except as provided in subsection (b) of this section, any eligible employee who takes leave under section 2612 of this title for the intended purpose of the leave shall be entitled, on return from such leave—
 
 &emsp;&emsp;(A) to be restored by the employer to the position of employment held by the employee when the leave commenced; or
 
@@ -89,8 +89,4 @@
 &emsp;&emsp;&emsp;The certification described in subparagraph (A)(i) shall be sufficient if the certification states that the employee is needed to care for the son, daughter, spouse, or parent who has a serious health condition on the date that the leave of the employee expired.
 
 (Pub. L. 103–3, title I, §104, Feb. 5, 1993, 107 Stat. 12.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2618, 2632 of this title; title 2 section 1312; title 3 section 412.
 

@@ -54,7 +54,7 @@ Subsec. (b)(3). Pub. L. 104–191, §231(f), substituted “up to $10,000 for ea
 
 1994—Subsec. (b)(1). Pub. L. 103–432 substituted “whether” for “whehter” in third sentence.
 
-1990—Subsec. (b)(1). Pub. L. 101–508, §4205(a)(1), inserted “and, if appropriate, after the practitioner or person has been given a reasonable opportunity to enter into and complete a corrective action plan (which may include remedial education) agreed to by the organization, and has failed successfully to complete such plan,” after “concerned,” in introductory provisions and inserted after second sentence “In determining whehter \[sic\] a practitioner or person has demonstrated an unwillingness or lack of ability substantially to comply with such obligations, the Secretary shall consider the practitioner's or person's willingness or lack of ability, during the period before the organization submits its report and recommendations, to enter into and successfully complete a corrective action plan.”
+1990—Subsec. (b)(1). Pub. L. 101–508, §4205(a)(1), inserted “and, if appropriate, after the practitioner or person has been given a reasonable opportunity to enter into and complete a corrective action plan (which may include remedial education) agreed to by the organization, and has failed successfully to complete such plan,” after “concerned,” in introductory provisions and inserted after second sentence “In determining whehter \[sic\] a practitioner or person has demonstrated an unwillingness or lack of ability substantially to comply with such obligations, the Secretary shall consider the practitioner's or person's willingness or lack of ability, during the period before the organizationsubmits its report and recommendations, to enter into and successfully complete a corrective action plan.”
 
 Subsec. (b)(5). Pub. L. 101–597 substituted “health professional shortage area” for “health manpower shortage area (HMSA)”.
 
@@ -92,7 +92,7 @@ Section 4205(d)(2)(B) of Pub. L. 101–508, as amended by Pub. L. 103–432, tit
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, seesection 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendments
 
@@ -123,10 +123,6 @@ Transition for Current Cases.—In the case of a practitioner or person—
 “(d)
 
 Redeterminations in Certain Cases.—If, in hearing under subsection (c), the judge does not determine, by a preponderance of the evidence, that the provider or practitioner will pose a serious risk to individuals entitled to benefits under title XVIII of the Social Security Act \[subchapter XVIII of this chapter\] if permitted to continue or resume furnishing such services, the Secretary shall not effect the exclusion (or shall suspend the exclusion, if previously effected) under paragraph (2) of section 1156(b) of such Act \[subsec. (b) of this section\] until the provider or practitioner has been provided an administrative hearing thereon under paragraph (4) of such section, notwithstanding any failure by the provider or practitioner to request the hearing on a timely basis.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 704, 1320a–7, 1320a–7a, 1320c–3, 1320c–9, 1395y, 1396b, 1397d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “pay”.</i>
 

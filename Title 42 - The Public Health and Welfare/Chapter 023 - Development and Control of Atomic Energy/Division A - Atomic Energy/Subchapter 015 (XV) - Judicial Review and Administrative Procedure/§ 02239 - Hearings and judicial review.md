@@ -8,7 +8,7 @@
 
 (iii) After receiving a request for a hearing under clause (i), the Commission expeditiously shall either deny or grant the request. If the request is granted, the Commission shall determine, after considering petitioners’ prima facie showing and any answers thereto, whether during a period of interim operation, there will be reasonable assurance of adequate protection of the public health and safety. If the Commission determines that there is such reasonable assurance, it shall allow operation during an interim period under the combined license.
 
-(iv) The Commission, in its discretion, shall determine appropriate hearing procedures, whether informal or formal adjudicatory, forany hearing under clause (i), and shall state its reasons therefor.
+(iv) The Commission, in its discretion, shall determine appropriate hearing procedures, whether informal or formal adjudicatory, for any hearing under clause (i), and shall state its reasons therefor.
 
 (v) The Commission shall, to the maximum possible extent, render a decision on issues raised by the hearing request within 180 days of the publication of the notice provided by clause (i) or the anticipated date for initial loading of fuel into the reactor, whichever is later. Commencement of operation under a combined license is not subject to subparagraph (A).
 
@@ -71,10 +71,6 @@ No court or regulatory body to have jurisdiction to compel performance of or to 
 #### Administrative Orders Review Act
 
 Court of appeals exclusive jurisdiction respecting final orders of Atomic Energy Commission, now the Nuclear Regulatory Commission and the Secretary of Energy, made reviewable by this section, see section 2342 of Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2155a, 2235, 2242, 10154 of this title; title 28 section 2342.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

@@ -52,7 +52,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (1) Civil action
 
-&emsp;In any case in which the attorney general of a State, or an official or agency of a State, has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by any person who violates paragraph (1) or (2) of section 7704(a), who violates section 7704(d), or who engages in a pattern or practice that violates paragraph (3), (4), or (5) of section 7704(a), of this title, the attorney general, official, or agency of the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction—
+&emsp;In any case in which the attorney general of a State, or an official or agency of a State, hasreason to believe that an interest of the residents of that State has been or is threatened or adversely affected by any person who violates paragraph (1) or (2) of section 7704(a), who violates section 7704(d), or who engages in a pattern or practice that violates paragraph (3), (4), or (5) of section 7704(a), of this title, the attorney general, official, or agency of the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction—
 
 &emsp;&emsp;(A) to enjoin further violation of section 7704 of this title by the defendant; or
 
@@ -215,10 +215,6 @@ The Farm Credit Act of 1971, referred to in subsec. (b)(9), is Pub. L. 92–181,
 The Communications Act of 1934, referred to in subsec. (b)(10), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7705 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

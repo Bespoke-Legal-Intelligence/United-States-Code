@@ -28,7 +28,7 @@ Except as provided in subsection (b) of this section, the following persons who 
 
 #### (b) Persons ineligible to be residents
 
-A person described in subsection (a) of this section who has been convicted of a felony or is not free of drug, alcohol, or psychiatric problems shall be ineligible to become a resident of the Retirement Home.
+A person described in subsection (a) of this section who has been convicted of a felony or isnot free of drug, alcohol, or psychiatric problems shall be ineligible to become a resident of the Retirement Home.
 
 #### (c) Acceptance
 

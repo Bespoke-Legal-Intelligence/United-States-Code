@@ -1,9 +1,5 @@
 subpart iii—general provisions
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 300x–6, 300x–9, 300x–32, 300x–35 of this title.
-
 <i><sup>1</sup></i><i> So in original. The words “is the collection of data in this paragraph” probably should not appear.</i>
 
 

@@ -16,7 +16,3 @@ The Act approved July 1, 1898, referred to in text, popularly known as the Bankr
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 1951.
-

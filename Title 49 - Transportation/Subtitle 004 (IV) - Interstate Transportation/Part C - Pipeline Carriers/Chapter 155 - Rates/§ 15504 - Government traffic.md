@@ -8,7 +8,3 @@ A pipeline carrier providing transportation or service for the United States Gov
 
 Provisions similar to those in this section were contained in section 10721 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 section 3726.
-

@@ -4,7 +4,3 @@ The Secretary is hereby directed to complete studies that have been undertaken r
 
 (Pub. L. 88–567, §7, Sept. 2, 1964, 78 Stat. 851.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 695r of this title.
-

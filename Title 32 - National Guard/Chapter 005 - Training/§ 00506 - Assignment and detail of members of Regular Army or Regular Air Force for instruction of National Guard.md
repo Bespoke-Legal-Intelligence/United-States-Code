@@ -30,7 +30,3 @@ In subsection (a), the words “members of the Regular Army and the Regular Air 
 
 In subsection (b), the words “members” is substituted for the words “officers and enlisted men”. The words “one or more”, “information”, and “encampment, maneuver, or other” are omitted as surplusage.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 37 section 204.
-

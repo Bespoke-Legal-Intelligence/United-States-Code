@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1381, 1434 of this title.
-
 
 ---
 

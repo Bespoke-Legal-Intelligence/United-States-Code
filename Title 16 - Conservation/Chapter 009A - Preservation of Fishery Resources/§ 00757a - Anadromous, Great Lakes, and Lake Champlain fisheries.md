@@ -66,9 +66,5 @@ Section 8, formerly section 7, of Pub. L. 89–304, as added by Pub. L. 91–249
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior, by Reorg. Plan No. 4 of 1970, see note set out under section 755 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 757b, 757c, 757d, 757e, 757f, 1225 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

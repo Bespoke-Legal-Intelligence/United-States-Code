@@ -98,7 +98,7 @@ Limitations on obligations apply.—Nothing in this subsection shall be construe
 
 Limiting Authority of Secretary.—The authority of the Secretary to make grants during a fiscal year from amounts that were apportioned for a prior fiscal year and remain available for approved airport development project grants under subsection (b) of this section may be impaired only by a law enacted after September 3, 1982, that expressly limits that authority.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 103–305, title I, §116(a), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(68), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §§123, 124(d), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(82), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(c)(1), (2), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §7, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(d), May 21, 1999, 113 Stat. 113; Pub. L. 106–181, title I, §§104(e)–(g), 129,title II, §231(f), Apr. 5, 2000, 114 Stat. 70, 77, 114; Pub. L. 108–176, title I, §§149(c), 150, 151, Dec. 12, 2003, 117 Stat. 2505, 2506.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 103–305, title I, §116(a), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(68), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §§123, 124(d), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(82), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(c)(1), (2), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §7, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(d), May 21, 1999, 113 Stat. 113; Pub. L. 106–181, title I, §§104(e)–(g), 129, title II, §231(f), Apr. 5, 2000, 114 Stat. 70, 77, 114; Pub. L. 108–176, title I, §§149(c), 150, 151, Dec. 12, 2003, 117 Stat. 2505, 2506.)
 
 Historical and Revision Notes
 
@@ -230,7 +230,7 @@ The Clean Air Act, referred to in subsec. (e)(1)(A), is act July 14, 1955, ch. 3
 
 Subsec. (c)(2). Pub. L. 108–176, §149(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A sponsor of a primary airport may make an agreement with the Secretary of Transportation waiving any part of the amount apportioned for the airport under section 47114(c)(1) of this title if the Secretary makes the waived amount available for a grant for another public-use airport in the same State or geographical area as the primary airport.”
 
-Subsec. (e)(1)(A). Pub. L. 108–176, §151, substituted “At least 35 percent” for “At least 34 percent”, “section 47505(a)(2),” for “section 47505(a)(2) of this title and”, “, for noise mitigation projects approved in anenvironmental record of decision for an airport development project under this title, for compatible land use planning and projects carried out by State and local governments under section 47141, and for airport development described in section 47102(3)(F), 47102(3)(K), or 47102(3)(L) to comply with the Clean Air Act (42 U.S.C. 7401 et seq.).” for “of this title.”, and “35 percent requirement” for “34 percent requirement”.
+Subsec. (e)(1)(A). Pub. L. 108–176, §151, substituted “At least 35 percent” for “At least 34 percent”, “section 47505(a)(2),” for “section 47505(a)(2) of this title and”, “, for noise mitigation projects approved in an environmental record of decision for an airport development project under this title, for compatible land use planning and projects carried out by State and local governments under section 47141, and for airport development described in section 47102(3)(F), 47102(3)(K), or 47102(3)(L) to comply with the Clean Air Act (42 U.S.C. 7401 et seq.).” for “of this title.”, and “35 percent requirement” for “34 percent requirement”.
 
 2000—Subsec. (e)(1)(A). Pub. L. 106–181, §104(e), substituted “34 percent” for “31 percent” in two places.
 
@@ -314,7 +314,7 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -327,10 +327,6 @@ Amendment by Pub. L. 105–102 effective as if included in the provisions of the
 Section 8(2) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(B), Nov. 20, 1997, 111 Stat. 2215, provided that: “The amendments made by section 5(81)(B), (82)(A), and (83)(A) \[amending this section and sections 47115 and 47118 of this title\] shall take effect on September 30, 1998.”
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47104, 47115, 47118, 47141 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

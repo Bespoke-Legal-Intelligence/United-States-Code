@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—GENERALIZED SYSTEM OF PREFERENCES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2253, 2703, 3105, 3203, 3331 of this title; title 22 sections 290k–3, 6062; title 26 section 871.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 
 

@@ -104,7 +104,7 @@ Section 405(b) of Pub. L. 90–206 provided that:
 
 “(1) The amendments made by section 404 of this Act \[enacting this section and amending analysis preceding section 8701 of this title\] shall take effect on the first day of the first pay period which begins on or after the one hundred and eightieth day following the date of enactment \[Dec. 16, 1967\], or on any earlier date that the Civil Service Commission may prescribe, which is at least sixty days after the date of enactment \[Dec. 16, 1967\]. In the case of an employee who dies during the period beginning on the date of enactment \[Dec. 16, 1967\] and ending on the effective date prescribed by or pursuant to this subsection, or during the sixty days immediately following such period if the Commission determines that he did not have a reasonable opportunity to elect the optional insurance made available by section 404, the insurance of such employee shall be determined as if the amendments made by section 404 had been in effect on the date of such death, and the employee had elected to receive the maximum amount of optional insurance available to him under such amendments. An employee who retires during the period beginning on the date of enactment and ending on the effective date prescribed by or pursuant to this subsection shall have an opportunity to elect the optional insurance made available by section 404.
 
-“(2) In the case of an employee in the service on the effective date prescribed by or pursuant to this subsection, (i) the period during which such employee may elect to receive optional insurance under the amendment made by section 404 shall not expire prior to thesixtieth day after such effective date, and (ii) for the purpose of determining the amount of insurance to be continued after retirement, the period during which such optional insurance was available to such employee shall not be considered to have commenced prior to the expiration of sixty days following such effective date.”
+“(2) In the case of an employee in the service on the effective date prescribed by or pursuant to this subsection, (i) the period during which such employee may elect to receive optional insurance under the amendment made by section 404 shall not expire prior to the sixtieth day after such effective date, and (ii) for the purpose of determining the amount of insurance to be continued after retirement, the period during which such optional insurance was available to such employee shall not be considered to have commenced prior to the expiration of sixty days following such effective date.”
 
 #### Retroactive Effect
 
@@ -113,10 +113,6 @@ Enactment of this section by Pub. L. 90–206 to have no effect in the case of a
 #### Availability of Certain Funds in Employees’ Life Insurance Fund
 
 Section 11 of Pub. L. 96–427 provided that: “Amounts credited to the Employees’ Life Insurance Fund under section 8714a(d) of title 5, United States Code shall be available for expenses incurred by the Office of Personnel Management in implementing the amendments made by sections 7 and 8 of this Act \[enacting sections 8714b, 8714c, and 8701(d) of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8714b, 8714c, 8714d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1) of this subsection,”.</i>
 

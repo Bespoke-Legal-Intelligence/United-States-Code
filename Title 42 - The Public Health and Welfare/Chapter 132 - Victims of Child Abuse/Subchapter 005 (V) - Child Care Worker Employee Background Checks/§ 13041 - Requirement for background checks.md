@@ -26,7 +26,7 @@ Any conviction for a sex crime, an offense involving a child victim, or a drug f
 
 #### (d) Employment applications
 
-(1) Employment applications for individuals who are seeking work for an agency of the Federal Government, or for a facility or program operated by (or through contract with) the Federal Government, in any of the positions listed in subsection (a)(1) of this section, shall contain a question asking whether the individual has ever been arrested for or charged with a crimeinvolving a child, and if so requiring a description of the disposition of the arrest or charge. An application shall state that it is being signed under penalty of perjury, with the applicable Federal punishment for perjury stated on the application.
+(1) Employment applications for individuals who are seeking work for an agency of the Federal Government, or for a facility or program operated by (or through contract with) the Federal Government, in any of the positions listed in subsection (a)(1) of this section, shall contain a question asking whether the individual has ever been arrested for or charged with a crime involving a child, and if so requiring a description of the disposition of the arrest or charge. An application shall state that it is being signed under penalty of perjury, with the applicable Federal punishment for perjury stated on the application.
 
 (2) A Federal agency seeking a criminal history record check shall first obtain the signature of the employee or prospective employee indicating that the employee or prospective employee has been notified of the employer's obligation to require a record check as a condition of employment and the employee's right to obtain a copy of the criminal history report made available to the employing Federal agency and the right to challenge the accuracy and completeness of any information contained in the report.
 
@@ -41,8 +41,4 @@ Federal agencies and facilities are encouraged to submit identifying information
 1991—Subsec. (a)(1). Pub. L. 102–190, §1094(a)(1), substituted “May 29, 1991. Except as provided in subsection (b)(3) of this section, no additional staff” for “6 months after November 29, 1990, and no additional staff”.
 
 Subsec. (b)(3). Pub. L. 102–190, §1094(a)(2), added par. (3).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 section 590.
 

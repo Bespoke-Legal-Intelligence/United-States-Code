@@ -1,114 +1,212 @@
 ### §2206. Descent and distribution
 
-#### (a) Testamentary disposition
+#### (a) Nontestamentary disposition
 
-#### (1) In general
+#### (1) Rules of descent
 
-&emsp;Interests in trust or restricted land may be devised only to—
+&emsp;Subject to any applicable Federal law relating to the devise or descent of trust or restricted property, any trust or restricted interest in land or interest in trust personalty that is not disposed of by a valid will—
 
-&emsp;&emsp;(A) the decedent's Indian spouse or any other Indian person; or
+&emsp;&emsp;(A) shall descend according to an applicable tribal probate code approved in accordance with section 2205 of this title; or
 
-&emsp;&emsp;(B) the Indian tribe with jurisdiction over the land so devised.
+&emsp;&emsp;(B) in the case of a trust or restricted interest in land or interest in trust personalty to which a tribal probate code does not apply, shall descend in accordance with—
 
-#### (2) Life estate
+&emsp;&emsp;&emsp;(i) paragraphs (2) through (5); and
 
-&emsp;Any devise of an interest in trust or restricted land to a non-Indian shall create a life estate with respect to such interest.
+&emsp;&emsp;&emsp;(ii) other applicable Federal law.
 
-#### (3) Remainder
+#### (2) Rules governing descent of estate
+
+#### (A) Surviving spouse
+
+&emsp;&emsp;If there is a surviving spouse of the decedent, such spouse shall receive trust and restricted land and trust personalty in the estate as follows:
+
+&emsp;&emsp;&emsp;(i) If the decedent is survived by 1 or more eligible heirs described in subparagraph (B)(i), (ii), (iii), or (iv), the surviving spouse shall receive 1/3 of the trust personalty of the decedent and a life estate without regard to waste in the interests in trust or restricted lands of the decedent.
+
+&emsp;&emsp;&emsp;(ii) If there are no eligible heirs described in subparagraph (B)(i), (ii), (iii), or (iv), the surviving spouse shall receive all of the trust personalty of the decedent and a life estate without regard to waste in the trust or restricted lands of the decedent.
+
+&emsp;&emsp;&emsp;(iii) The remainder shall pass as set forth in subparagraph (B).
+
+&emsp;&emsp;&emsp;(iv) Trust personalty passing to a surviving spouse under the provisions of this subparagraph shall be maintained by the Secretary in an account as trust personalty, but only if such spouse is Indian.
+
+#### (B) Individual and tribal heirs
+
+&emsp;&emsp;Where there is no surviving spouse of the decedent, or there is a remainder interest pursuant to subparagraph (A), the trust or restricted estate or such remainder shall, subject to subparagraphs (A) and (D), pass as follows:
+
+&emsp;&emsp;&emsp;(i) To those of the decedent's children who are eligible heirs (or if 1 or more of such children do not survive the decedent, the children of any such deceased child who are eligible heirs, by right of representation, but only if such children of the deceased child survive the decedent) in equal shares.
+
+&emsp;&emsp;&emsp;(ii) If the property does not pass under clause (i), to those of the decedent's surviving great-grandchildren who are eligible heirs, in equal shares.
+
+&emsp;&emsp;&emsp;(iii) If the property does not pass under clause (i) or (ii), to the decedent's surviving parent who is an eligible heir, and if both parents survive the decedent and are both eligible heirs, to both parents in equal shares.
+
+&emsp;&emsp;&emsp;(iv) If the property does not pass under clause (i), (ii), or (iii), to those of the decedent's surviving siblings who are eligible heirs, in equal shares.
+
+&emsp;&emsp;&emsp;(v) If the property does not pass under clause (i), (ii), (iii), or (iv), to the Indian tribe with jurisdiction over the interests in trust or restricted lands;
+
+> &emsp;&emsp;except that notwithstanding clause (v), an Indian co-owner (including the Indian tribe referred to in clause (v)) of a parcel of trust or restricted land may acquire an interest that would otherwise descend under that clause by paying into the estate of the decedent, before the close of the probate of the estate, the fair market value of the interest in the land; if more than 1 Indian co-owner offers to pay for such interest, the highest bidder shall acquire the interest.
+
+#### (C) No Indian tribe
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If there is no Indian tribe with jurisdiction over the interests in trust or restricted lands that would otherwise descend under subparagraph (B)(v), then such interests shall be divided equally among co-owners of trust or restricted interests in the parcel; if there are no such co-owners, then to the United States, provided that any such interests in land passing to the United States under this subparagraph shall be sold by the Secretary and the proceeds from such sale deposited into the land acquisition fund established under section 2215 of this title and used for the purposes described in subsection (b) of that section.
+
+#### (ii) Contiguous parcel
+
+&emsp;&emsp;&emsp;If the interests passing to the United States under this subparagraph are in a parcel of land that is contiguous to another parcel of trust or restricted land, the Secretary shall give the owner or owners of the trust or restricted interest in the contiguous parcel the first opportunity to purchase the interest at not less than fair market value determined in accordance with this chapter. If more than 1 such owner in the contiguous parcel request to purchase the parcel, the Secretary shall sell the parcel by public auction or sealed bid (as determined by the Secretary) at not less than fair market value to the owner of a trust or restricted interest in the contiguous parcel submitting the highest bid.
+
+#### (D) Intestate descent of small fractional interests in land
+
+#### (i) General rule
+
+&emsp;&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), and subject to any applicable Federal law, any trust or restricted interest in land in the decedent's estate that is not disposed of by a valid will and represents less than 5 percent of the entire undivided ownership of the parcel of land of which such interest is a part, as evidenced by the decedent's estate inventory at the time ofthe heirship determination, shall descend in accordance with clauses (ii) through (iv).
+
+#### (ii) Surviving spouse
+
+&emsp;&emsp;&emsp;If there is a surviving spouse, and such spouse was residing on a parcel of land described in clause (i) at the time of the decedent's death, the spouse shall receive a life estate without regard to waste in the decedent's trust or restricted interest in only such parcel, and the remainder interest in that parcel shall pass in accordance with clause (iii).
+
+#### (iii) Single heir rule
+
+&emsp;&emsp;&emsp;Where there is no life estate created under clause (ii) or there is a remainder interest under that clause, the trust or restricted interest or remainder interest that is subject to this subparagraph shall descend, in trust or restricted status, to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the decedent's surviving child, but only if such child is an eligible heir; and if 2 or more surviving children are eligible heirs, then to the oldest of such children;
+
+&emsp;&emsp;&emsp;&emsp;(II) if the interest does not pass under subclause (I), the decedent's surviving grandchild, but only if such grandchild is an eligible heir; and if 2 or more surviving grandchildren are eligible heirs, then to the oldest of such grandchildren;
+
+&emsp;&emsp;&emsp;&emsp;(III) if the interest does not pass under subclause (I) or (II), the decedent's surviving great grandchild, but only if such great grandchild is an eligible heir; and if 2 or more surviving great grandchildren are eligible heirs, then to the oldest of such great grandchildren;
+
+&emsp;&emsp;&emsp;&emsp;(IV) if the interest does not pass under subclause (I), (II), or (III), the Indian tribe with jurisdiction over the interest; or
+
+&emsp;&emsp;&emsp;&emsp;(V) if the interest does not pass under subclause (I), (II), or (III), and there is no such Indian tribe to inherit the property under subclause (IV), the interest shall be divided equally among co-owners of trust or restricted interests in the parcel; and if there are no such co-owners, then to the United States, to be sold, and the proceeds from sale used, in the same manner provided in subparagraph (C).
+
+> &emsp;&emsp;The determination of which person is the oldest eligible heir for inheritance purposes under this clause shall be made by the Secretary in the decedent's probate proceeding and shall be consistent with the provisions of this chapter.
+
+#### (iv) Exceptions
+
+&emsp;&emsp;&emsp;Notwithstanding clause (iii)—
+
+&emsp;&emsp;&emsp;&emsp;(I)(aa) the heir of an interest under clause (iii), unless the heir is a minor or incompetent person, may agree in writing entered into the record of the decedent's probate proceeding to renounce such interest, in trust or restricted status, in favor of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) any other eligible heir or Indian person related to the heir by blood, but in any case never in favor of more than 1 such heir or person;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) any co-owner of another trust or restricted interest in such parcel of land; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(CC) the Indian tribe with jurisdiction over the interest, if any; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) the Secretary shall give effect to such agreement in the distribution of the interest in the probate proceeding; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the governing body of the Indian tribe with jurisdiction over an interest in trust or restricted land that is subject to the provisions of this subparagraph may adopt a rule of intestate descent applicable to such interest that differs from the order of decedent set forth in clause (iii). The Secretary shall apply such rule to the interest in distributing the decedent's estate, but only if—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a copy of the tribal rule is delivered to the official designated by the Secretary to receive copies of tribal rules for the purposes of this clause;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the tribal rule provides for the intestate inheritance of such interest by no more than 1 heir, so that the interest does not further fractionate;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the tribal rule does not apply to any interest disposed of by a valid will;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) the decedent died on or after the date described in subsection (b) of section 8 of the American Indian Probate <sup>1</sup> Act of 2004, or on or after the date on which a copy of the tribal rule was delivered to the Secretary pursuant to item (aa), whichever is later; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) the Secretary does not make a determination within 90 days after a copy of the tribal rule is delivered pursuant to item (aa) that the rule would be unreasonably difficult to administer or does not conform with the requirements in item (bb) or (cc).
+
+#### (v) Rule of construction
+
+&emsp;&emsp;&emsp;This subparagraph shall not be construed to limit a person's right to devise any trust or restricted interest by way of a valid will in accordance with subsection (b) of this section.
+
+#### (3) Right of representation
+
+&emsp;If, under this subsection, all or any part of the estate of a decedent is to pass to children of a deceased child by right of representation, that part is to be divided into as many equal shares as there are living children of the decedent and pre-deceased children who left issue who survive the decedent. Each living child of the decedent, if any, shall receive 1 share, and the share of each pre-deceased child shall be divided equally among the pre-deceased child's children.
+
+#### (4) Special rule relating to survival
+
+&emsp;In the case of intestate succession under this subsection, if an individual fails to survive the decedent by at least 120 hours, as established by clear and convincing evidence—
+
+&emsp;&emsp;(A) the individual shall be deemed to have predeceased the decedent for the purpose of intestate succession; and
+
+&emsp;&emsp;(B) the heirs of the decedent shall be determined in accordance with this section.
+
+#### (5) Status of inherited interests
+
+&emsp;Except as provided in paragraphs (2)(A) and (D) regarding the life estate of a surviving spouse, a trust or restricted interest in land or trust personalty that descends under the provisions of this subsection shall vest in the heir in the same trust or restricted status as such interest was held immediately prior to the decedent's death.
+
+#### (b) Testamentary disposition
+
+#### (1) General devise of an interest in trust or restricted land
 
 #### (A) In general
 
-&emsp;&emsp;Except where the remainder from the life estate referred to in paragraph (2) is devised to an Indian, such remainder shall descend to the decedent's Indian spouse or Indian heirs of the first or second degree pursuant to the applicable law of intestate succession.
+&emsp;&emsp;Subject to any applicable Federal law relating to the devise or descent of trust or restricted land, or a tribal probate code approved by the Secretary in accordance with section 2205 of this title, the owner of a trust or restricted interest in land may devise such interest to—
 
-#### (B) Descent of interests
+&emsp;&emsp;&emsp;(i) any lineal descendant of the testator;
 
-&emsp;&emsp;If a decedent described in subparagraph (A) has no Indian heirs of the first or second degree, the remainder interest described in such subparagraph shall descend to any of the decedent's collateral heirs of the first or second degree, pursuant to the applicable laws of intestate succession, if on the date of the decedent's death, such heirs were a co-owner of an interest in the parcel of trust or restricted land involved.
+&emsp;&emsp;&emsp;(ii) any person who owns a preexisting undivided trust or restricted interest in the same parcel of land;
 
-#### (C) Definition
+&emsp;&emsp;&emsp;(iii) the Indian tribe with jurisdiction over the interest in land; or
 
-&emsp;&emsp;For purposes of this section, the term “collateral heirs of the first or second degree” means the brothers, sisters, aunts, uncles, nieces, nephews, and first cousins, of a decedent.
+&emsp;&emsp;&emsp;(iv) any Indian;
 
-#### (4) Descent to tribe
+> &emsp;&emsp;in trust or restricted status.
 
-&emsp;If the remainder interest described in paragraph (3)(A) does not descend to an Indian heir or heirs it shall descend to the Indian tribe that exercises jurisdiction over the parcel of trust or restricted lands involved, subject to paragraph (5).
+#### (B) Rules of interpretation
 
-#### (5) Acquisition of interest by Indian co-owners
+&emsp;&emsp;Any devise of a trust or restricted interest in land pursuant to subparagraph (A) to an Indian or the Indian tribe with jurisdiction over the interest shall be deemed to be a devise of the interest in trust or restricted status. Any devise of a trust or restricted interest in land to a person who is only eligible to be a devisee under clause (i) or (ii) of subparagraph (A) shall be presumed to be a devise of the interest in trust or restricted status unless language in such devise clearly evidences an intent on the part of the testator that the interest is to pass as a life estate or fee interest in accordance with paragraph (2)(A).
 
-&emsp;An Indian co-owner of a parcel of trust or restricted land may prevent the descent of an interest in Indian land to an Indian tribe under paragraph (4) by paying into the decedent's estate the fair market value of the interest in such land. If more than 1 Indian co-owner offers to pay for such an interest, the highest bidder shall obtain the interest. If payment is not received before the close of the probate of the decedent's estate, the interest shall descend to the tribe that exercises jurisdiction over the parcel.
-
-#### (6) Special rule
+#### (2) Devise of trust or restricted land as a life estate or in fee
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (2), an owner of trust or restricted land who does not have an Indian spouse, Indian lineal descendant, an Indian heir of the first or second degree, or an Indian collateral heir of the first or second degree, may devise his or her interests in such land to any of the decedent's heirs of the first or second degree or collateral heirs of the first or second degree.
+&emsp;&emsp;Except as provided under any applicable Federal law, any trust or restricted interest in land that is not devised in accordance with paragraph (1)(A) may be devised only—
 
-#### (B) Acquisition of interest by tribe
+&emsp;&emsp;&emsp;(i) as a life estate to any person, with the remainder being devised only in accordance with subparagraph (B) or paragraph (1); or
 
-&emsp;&emsp;An Indian tribe that exercises jurisdiction over an interest in trust or restricted land described in subparagraph (A) may acquire any interest devised to a non-Indian as provided for in section 2205(c) of this title.
+&emsp;&emsp;&emsp;(ii) except as provided in subparagraph (B), as a fee interest without Federal restrictions against alienation to any person who is not eligible to be a devisee under clause (iv) of paragraph (1)(A).
 
-#### (b) Intestate succession
+#### (B) Indian reorganization act lands
 
-#### (1) In general
+&emsp;&emsp;Any interest in trust or restricted land that is subject to section 464 of this title, may be devised only in accordance with—
 
-&emsp;An interest in trust or restricted land shall pass by intestate succession only to a decedent's spouse or heirs of the first or second degree, pursuant to the applicable law of intestate succession.
+&emsp;&emsp;&emsp;(i) that section;
 
-#### (2) Life estate
+&emsp;&emsp;&emsp;(ii) subparagraph (A)(i); or
 
-&emsp;Notwithstanding paragraph (1), with respect to land described in such paragraph, a non-Indian spouse or non-Indian heirs of the first or second degree shall only receive a life estate in such land.
+&emsp;&emsp;&emsp;(iii) paragraph (1)(A);
 
-#### (3) Descent of interests
+> &emsp;&emsp;provided that nothing in this section or in section 464 of this title, shall be construed to authorize the devise of any interest in trust or restricted land that is subject to section 464 of this title to any person as a fee interest under subparagraph (A)(ii).
 
-&emsp;If a decedent described in paragraph (1) has no Indian heirs of the first or second degree, the remainder interest from the life estate referred to in paragraph (2) shall descend to any of the decedent's collateral Indian heirs of the first or second degree, pursuant to the applicable laws of intestate succession, if on the date of the decedent's death, such heirs were a co-owner of an interest in the parcel of trust or restricted land involved.
+#### (3) General devise of an interest in trust personalty
 
-#### (4) Descent to tribe
+#### (A) Trust personality <sup>2</sup> defined
 
-&emsp;If the remainder interest described in paragraph (3) does not descend to an Indian heir or heirs it shall descend to the Indian tribe that exercises jurisdiction over the parcel of trust or restricted lands involved, subject to paragraph (5).
+&emsp;&emsp;The term “trust personalty” as used in this section includes all funds and securities of any kind which are held in trust in an individual Indian money account or otherwise supervised by the Secretary.
 
-#### (5) Acquisition of interest by Indian co-owners
+#### (B) In general
 
-&emsp;An Indian co-owner of a parcel of trust or restricted land may prevent the descent of an interest in such land for which there is no heir of the first or second degree by paying into the decedent's estate the fair market value of the interest in such land. If more than 1 Indian co-owner makes an offer to pay for such an interest, the highest bidder shall obtain the interest. If no such offer is made, the interest shall descend to the Indian tribe that exercises jurisdiction over the parcel of land involved.
+&emsp;&emsp;Subject to any applicable Federal law relating to the devise or descent of such trust personalty, or a tribal probate code approved by the Secretary in accordance with section 2205 of this title, the owner of an interest in trust personalty may devise such an interest to any person or entity.
+
+#### (C) Maintenance as trust personalty
+
+&emsp;&emsp;In the case of a devise of an interest in trust personalty to a person or Indian tribe eligible to be a devisee under paragraph (1)(A), the Secretary shall maintain and continue to manage such interests as trust personalty.
+
+#### (D) Direct disbursement and distribution
+
+&emsp;&emsp;In the case of a devise of an interest in trust personalty to a person or Indian tribe not eligible to be a devisee under paragraph (1)(A), the Secretary shall directly disburse and distribute such personalty to the devisee.
+
+#### (4) Invalid devises and wills
+
+#### (A) Land
+
+&emsp;&emsp;Any trust or restricted interest in land that is not devised in accordance with paragraph (1) or (2) or that is not disposed of by a valid will shall descend in accordance with the applicable law of intestate succession as provided for in subsection (a) of this section.
+
+#### (B) Personalty
+
+&emsp;&emsp;Any trust personalty that is not disposed of by a valid will shall descend in accordance with the applicable law of intestate succession as provided for in subsection (a) of this section.
 
 #### (c) Joint tenancy; right of survivorship
 
-#### (1) Testate
+#### (1) Presumption of joint tenancy
 
-&emsp;If a testator devises interests in the same parcel of trust or restricted lands to more than 1 person, in the absence of express language in the devise to the contrary, the devise shall be presumed to create joint tenancy with the right of survivorship in the land involved.
+&emsp;If a testator devises trust or restricted interests in the same parcel of land to more than 1 person, in the absence of clear and express language in the devise stating that the interest is to pass to the devisees as tenants in common, the devise shall be presumed to create a joint tenancy with the right of survivorship in the interests involved.
 
-#### (2) Intestate
+#### (2) Exception
 
-#### (A) In general
-
-&emsp;&emsp;Any interest in trust or restricted land that—
-
-&emsp;&emsp;&emsp;(i) passes by intestate succession to more than 1 person, including a remainder interest under subsection (a) or (b) of this section; and
-
-&emsp;&emsp;&emsp;(ii) that constitutes 5 percent or more of the undivided interest in a parcel of trust or restricted land;
-
-> &emsp;&emsp;shall be held as tenancy in common.
-
-#### (B) Limited interest
-
-&emsp;&emsp;Any interest in trust or restricted land that—
-
-&emsp;&emsp;&emsp;(i) passes by intestate succession to more than 1 person, including a remainder interest under subsection (a) or (b) of this section; and
-
-&emsp;&emsp;&emsp;(ii) that constitutes less than 5 percent of the undivided interest in a parcel of trust or restricted land;
-
-> &emsp;&emsp;shall be held by such heirs with the right of survivorship.
-
-#### (3) Effective date
-
-#### (A) In general
-
-&emsp;&emsp;This subsection (other than subparagraph (B)) shall become effective on the later of—
-
-&emsp;&emsp;&emsp;(i) the date referred to in subsection (g)(5) of this section; or
-
-&emsp;&emsp;&emsp;(ii) the date that is six months after the date on which the Secretary makes the certification required under subparagraph (B).
-
-#### (B) Certification
-
-&emsp;&emsp;Upon a determination by the Secretary that the Department of the Interior has the capacity, including policies and procedures, to track and manage interests in trust or restricted land held with the right of survivorship, the Secretary shall certify such determination and publish such certification in the Federal Register.
+&emsp;Paragraph (1) shall not apply to any devise of an interest in trust or restricted land where the will in which such devise is made was executed prior to the date that is 1 year after the date on which the Secretary publishes the certification required by section 8(a)(4) of the American Indian Probate Reform Act of 2004.
 
 #### (d) Descent of off-reservation lands
 
@@ -140,71 +238,547 @@ The official authorized to adjudicate the probate of trust or restricted lands s
 
 #### (1) In general
 
-&emsp;The Secretary shall provide estate planning assistance in accordance with this subsection, to the extent amounts are appropriated for such purpose.
+&emsp;(A) The activities conducted under this subsection shall be conducted in accordance with any applicable—
+
+&emsp;&emsp;(i) tribal probate code; or
+
+&emsp;&emsp;(ii) tribal land consolidation plan.
+
+&emsp;(B) The Secretary shall provide estate planning assistance in accordance with this subsection, to the extent amounts are appropriated for such purpose.
 
 #### (2) Requirements
 
 &emsp;The estate planning assistance provided under paragraph (1) shall be designed to—
 
-&emsp;&emsp;(A) inform, advise, and assist Indian landowners with respect to estate planning in order to facilitate the transfer of trust or restricted lands to a devisee or devisees selected by the landowners; and
+&emsp;&emsp;(A) inform, advise, and assist Indian landowners with respect to estate planning in order to facilitate the transfer of trust or restricted lands to a devisee or devisees selected by the landowners;
 
-&emsp;&emsp;(B) assist Indian landowners in accessing information pursuant to section 2216(e) of this title.
+&emsp;&emsp;(B) dramatically increase the use of wills and other methods of devise among Indian landowners;
 
-#### (3) Contracts
+&emsp;&emsp;(C) substantially reduce the quantity and complexity of Indian estates that pass intestate through the probate process, while protecting the rights and interests of Indian landowners; and
 
-&emsp;In carrying out this section, the Secretary may enter into contracts with entities that have expertise in Indian estate planning and tribal probate codes.
+&emsp;&emsp;(D) assist Indian landowners in accessing information pursuant to section 2216(e) of this title.
 
-#### (g) Notification to Indian tribes and owners of trust or restricted lands
+#### (3) Probate code development and legal assistance grants
+
+&emsp;In carrying out this section, the Secretary may award grants to—
+
+&emsp;&emsp;(A) Indian tribes, for purposes of tribal probate code development and estate planning services to tribal members;
+
+&emsp;&emsp;(B) organizations that provide legal assistance services for Indian tribes, Indian organizations, and individual owners of interests in trust or restricted lands that are qualified as nonprofit organizations under section 501(c)(3) of title 26 and provide such services pursuant to Federal poverty guidelines, for purposes of providing civil legal assistance to such Indian tribes, individual owners, and Indian organizations for the development of tribal probate codes, for estate planning services or for other purposes consistent with the services they provide to Indians and Indian tribes; and
+
+&emsp;&emsp;(C) in specific areas and reservations where qualified nonprofit organizations referred to in subparagraph (B) do not provide such legal assistance to Indian tribes, Indian organizations, or individual owners of trust or restricted land, to other providers of such legal assistance;
+
+> &emsp;that submit an application to the Secretary, in such form and manner as the Secretary may prescribe.
+
+#### (4) Authorization for appropriations
+
+&emsp;There is authorized to be appropriated such sums as may be necessary to carry out the provisions of paragraph (3).
+
+#### (g) Repealed. Pub. L. 108–374, §6(a)(4), Oct. 27, 2004, 118 Stat. 1800
+
+#### (h) Applicable Federal law
 
 #### (1) In general
 
-&emsp;Not later than 180 days after November 7, 2000, the Secretary shall notify Indian tribes and owners of trust or restricted lands of the amendments made by the Indian Land Consolidation Act Amendments of 2000.
+&emsp;Any references in subsections (a) and (b) of this section to applicable Federal law include—
 
-#### (2) Specifications
+&emsp;&emsp;(A) Public Law 91–627 (84 Stat. 1874);
 
-&emsp;The notice required under paragraph (1) shall be designed to inform Indian owners of trust or restricted land of—
+&emsp;&emsp;(B) Public Law 92–377 (86 Stat. 530);
 
-&emsp;&emsp;(A) the effect of this chapter, with emphasis on the effect of the provisions of this section, on the testate disposition and intestate descent of their interests in trust or restricted land; and
+&emsp;&emsp;(C) Public Law 92–443 (86 Stat. 744);
 
-&emsp;&emsp;(B) estate planning options available to the owners, including any opportunities for receiving estate planning assistance or advice.
+&emsp;&emsp;(D) Public Law 96–274 (94 Stat. 537); and
 
-#### (3) Requirements
+&emsp;&emsp;(E) Public Law 98–513 (98 Stat. 2411).
 
-&emsp;The Secretary shall provide the notice required under paragraph (1)—
+#### (2) No effect on laws
 
-&emsp;&emsp;(A) by direct mail for those Indians with interests in trust and restricted lands for which the Secretary has an address for the interest holder;
+&emsp;Nothing in this chapter amends or otherwise affects the application of any law described in paragraph (1), or any other Federal law that pertains to—
 
-&emsp;&emsp;(B) through the Federal Register;
+&emsp;&emsp;(A) trust or restricted land located on 1 or more specific Indian reservations that are expressly identified in such law; or
 
-&emsp;&emsp;(C) through local newspapers in areas with significant Indian populations, reservation newspapers, and newspapers that are directed at an Indian audience; and
+&emsp;&emsp;(B) the allotted lands of 1 or more specific Indian tribes that are expressly identified in such law.
 
-&emsp;&emsp;(D) through any other means determined appropriate by the Secretary.
+#### (i) Rules of interpretation
 
-#### (4) Certification
+In the absence of a contrary intent, and except as otherwise provided under this chapter, applicable Federal law, or a tribal probate code approved by the Secretary pursuant to section 2205 of this title, wills shall be construed as to trust and restricted land and trust personalty in accordance with the following rules:
 
-&emsp;After providing notice under this subsection, the Secretary shall certify that the requirements of this subsection have been met and shall publish notice of such certification in the Federal Register.
+#### (1) Construction that will passes all property
 
-#### (5) Effective date
+&emsp;A will shall be construed to apply to all trust and restricted land and trust personalty which the testator owned at his death, including any such land or personalty acquired after the execution of his will.
 
-&emsp;The provisions of this section shall not apply to the estate of an individual who dies prior to the day that is 365 days after the Secretary makes the certification required under paragraph (4).
+#### (2) Class gifts
 
-(Pub. L. 97–459, title II, §207, as added Pub. L. 106–462, title I, §103(4), Nov. 7, 2000, 114 Stat. 1995.)
+#### (A) No differentiation between relationship by blood and relationship by affinity
+
+&emsp;&emsp;Terms of relationship that do not differentiate relationships by blood from those by affinity, such as “uncles”, “aunts”, “nieces”, or “nephews”, are construed to exclude relatives by affinity. Terms of relationship that do not differentiate relationships by the half blood from those by the whole blood, such as “brothers”, “sisters”, “nieces”, or “nephews”, are construed to include both types of relationships.
+
+#### (B) Meaning of “heirs” and “next of kin”, etc.; time of ascertaining class
+
+&emsp;&emsp;A devise of trust or restricted interest in land or an interest in trust personalty to the testator's or another designated person's “heirs”, “next of kin”, “relatives”, or “family” shall mean those persons, including the spouse, who would be entitled to take under the provisions of this chapter for nontestamentary disposition. The class is to be ascertained as of the date of the testator's death.
+
+#### (C) Time for ascertaining class
+
+&emsp;&emsp;In construing a devise to a class other than a class described in subparagraph (B), the class shall be ascertained as of the time the devise is to take effect in enjoyment. The surviving issue of any member of the class who is then dead shall take by right of representation the share which their deceased ancestor would have taken.
+
+#### (3) Meaning of “die without issue” and similar phrases
+
+&emsp;In any devise under this chapter,<sup>3</sup> the words “die without issue”, “die without leaving issue”, “have no issue”, or words of a similar import shall be construed to mean that an individual had no lineal descendants in his lifetime or at his death, and not that there will be no lineal descendants at some future time.
+
+#### (4) Persons born out of wedlock
+
+&emsp;In construing provisions of this chapter <sup>3</sup> relating to lapsed and void devises, and in construing a devise to a person or persons described by relationship to the testator or to another, a person born out of wedlock shall be considered the child of the natural mother and also of the natural father.
+
+#### (5) Lapsed devises
+
+&emsp;Subject to the provisions of subsection (b) of this section, where the testator devises or bequeaths a trust or restricted interest in land or trust personalty to the testator's grandparents or to the lineal descendent of a grandparent, and the devisee or legatee dies before the testator leaving lineal descendents, such descendents shall take the interest so devised or bequeathed per stirpes.
+
+#### (6) Void devises
+
+&emsp;Except as provided in paragraph (5), and if the disposition shall not be otherwise expressly provided for by a tribal probate code approved under section 2205 of this title, if a devise other than a residuary devise of a trust or restricted interest in land or trust personalty fails for any reason, such interest shall become part of the residue and pass, subject to the provisions of subsection (b) of this section, to the other residuary devisees, if any, in proportion to their respective shares or interests in the residue.
+
+#### (7) Family cemetery plot
+
+&emsp;If a family cemetery plot owned by the testator at his decease is not mentioned in the decedent's will, the ownership of the plot shall descend to his heirs as if he had died intestate.
+
+#### (j) Heirship by killing
+
+#### (1) Heir by killing defined
+
+&emsp;As used in this subsection, “heir by killing” means any person who knowingly participates, either as a principal or as an accessory before the fact, in the willful and unlawful killing of the decedent.
+
+#### (2) No acquisition of property by killing
+
+&emsp;Subject to any applicable Federal law relating to the devise or descent of trust or restricted land, no heir by killing shall in any way acquire any trust or restricted interests in land or interests in trust personalty as the result of the death of the decedent, but such property shall pass in accordance with this subsection.
+
+#### (3) Descent, distribution, and right of survivorship
+
+&emsp;The heir by killing shall be deemed to have predeceased the decedent as to decedent's trust or restricted interests in land or trust personalty which would have passed from the decedent or his estate to such heir—
+
+&emsp;&emsp;(A) under intestate succession under this section;
+
+&emsp;&emsp;(B) under a tribal probate code, unless otherwise provided for;
+
+&emsp;&emsp;(C) as the surviving spouse;
+
+&emsp;&emsp;(D) by devise;
+
+&emsp;&emsp;(E) as a reversion or a vested remainder;
+
+&emsp;&emsp;(F) as a survivorship interest; and
+
+&emsp;&emsp;(G) as a contingent remainder or executory or other future interest.
+
+#### (4) Joint tenants, joint owners, and joint obligees
+
+&emsp;(A) Any trust or restricted land or trust personalty held by only the heir by killing and the decedent as joint tenants, joint owners, orjoint obligees shall pass upon the death of the decedent to his or her estate, as if the heir by killing had predeceased the decedent.
+
+&emsp;(B) As to trust or restricted land or trust personalty held jointly by 3 or more persons, including both the heir by killing and the decedent, any income which would have accrued to the heir by killing as a result of the death of the decedent shall pass to the estate of the decedent as if the heir by killing had predeceased the decedent and any surviving joint tenants.
+
+&emsp;(C) Notwithstanding any other provision of this subsection, the decedent's trust or restricted interest land or trust personalty that is held in a joint tenancy with the right of survivorship shall be severed from the joint tenancy as though the property held in the joint tenancy were to be severed and distributed equally among the joint tenants and the decedent's interest shall pass to his estate; the remainder of the interests shall remain in joint tenancy with right of survivorship among the surviving joint tenants.
+
+#### (5) Life estate for the life of another
+
+&emsp;If the estate is held by a third person whose possession expires upon the death of the decedent, it shall remain in such person's hands for the period of time following the decedent's death equal to the life expectancy of the decedent but for the killing.
+
+#### (6) Preadjudication rule
+
+#### (A) In general
+
+&emsp;&emsp;If a person has been charged, whether by indictment, information, or otherwise by the United States, a tribe, or any State, with voluntary manslaughter or homicide in connection with a decedent's death, then any and all trust or restricted land or trust personalty that would otherwise pass to that person from the decedent's estate shall not pass or be distributed by the Secretary until the charges have been resolved in accordance with the provisions of this paragraph.
+
+#### (B) Dismissal or withdrawal
+
+&emsp;&emsp;Upon dismissal or withdrawal of the charge, or upon a verdict of not guilty, such land and personalty shall pass as if no charge had been filed or made.
+
+#### (C) Conviction
+
+&emsp;&emsp;Upon conviction of such person, and the exhaustion of all appeals, if any, the trust and restricted land and trust personalty in the estate shall pass in accordance with this subsection.
+
+#### (7) Broad construction; policy of subsection
+
+&emsp;This subsection shall not be considered penal in nature, but shall be construed broadly in order to effect the policy that no person shall be allowed to profit by his own wrong, wherever committed.
+
+#### (k) General rules governing probate
+
+#### (1) Scope
+
+&emsp;Except as provided under applicable Federal law or a tribal probate code approved under section 2205 of this title, the provisions of this subsection shall govern the probate of estates containing trust and restricted interests in land or trust personalty.
+
+#### (2) Pretermitted spouses and children
+
+#### (A) Spouses
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), if the surviving spouse of a testator married the testator after the testator executed the will of the testator, the surviving spouse shall receive the intestate share in the decedent's trust or restricted land and trust personalty that the spouse would have received if the testator had died intestate.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;Clause (i) shall not apply to a trust or restricted interest land where—
+
+&emsp;&emsp;&emsp;&emsp;(I) the will of a testator is executed before October 27, 2004;
+
+&emsp;&emsp;&emsp;&emsp;(II)(aa) the spouse of a testator is a non-Indian; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) the testator devised the interests in trust or restricted land of the testator to 1 or more Indians;
+
+&emsp;&emsp;&emsp;&emsp;(III) it appears, based on an examination of the will or other evidence, that the will was made in contemplation of the marriage of the testator to the surviving spouse;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the will expresses the intention that the will is to be effective notwithstanding any subsequent marriage; or
+
+&emsp;&emsp;&emsp;&emsp;(V)(aa) the testator provided for the spouse by a transfer of funds or property outside the will; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) an intent that the transfer be in lieu of a testamentary provision is demonstrated by statements of the testator or through a reasonable inference based on the amount of the transfer or other evidence.
+
+#### (iii) Spouses married at the time of the will
+
+&emsp;&emsp;&emsp;Should the surviving spouse of the testator be omitted from the will of the testator, the surviving spouse shall be treated, for purposes of trust or restricted land or trust personalty in the testator's estate, in accordance with the provisions of subsection (a)(2)(A) of this section, as though there was no will but only if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the testator and surviving spouse were continuously married without legal separation for the 5-year period preceding the decedent's death;
+
+&emsp;&emsp;&emsp;&emsp;(II) the testator and surviving spouse have a surviving child who is the child of the testator;
+
+&emsp;&emsp;&emsp;&emsp;(III) the surviving spouse has made substantial payments toward the purchase of, or improvements to, the trust or restricted land in such estate; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) the surviving spouse is under a binding obligation to continue making loan payments for the trust or restricted land for a substantial period of time;
+
+&emsp;&emsp;&nbsp;except that, if there is evidence that the testator adequately provided for the surviving spouse and any minor children by atransfer of funds or property outside of the will, this clause shall not apply.
+
+#### (B) Children
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If a testator executed the will of the testator before the birth or adoption of 1 or more children of the testator, and the omission of the children from the will is a product of inadvertence rather than an intentional omission, the children shall share in the trust or restricted interests in land and trust personalty as if the decedent had died intestate.
+
+#### (ii) Adopted heirs
+
+&emsp;&emsp;&emsp;Any person recognized as an heir by virtue of adoption under the Act of July 8, 1940 (25 U.S.C. 372a), shall be treated as the child of a decedent under this subsection.
+
+#### (iii) Adopted-out children
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;For purposes of this chapter, an adopted person shall not be considered the child or issue of his natural parents, except in distributing the estate of a natural kin, other than the natural parent, who has maintained a family relationship with the adopted person. If a natural parent shall have married the adopting parent, the adopted person for purposes of inheritance by, from and through him shall also be considered the issue of such natural parent.
+
+#### (II) Eligible heir pursuant to other Federal law or tribal law
+
+&emsp;&emsp;&emsp;&emsp;Notwithstanding the provisions of subparagraph (B)(iii)(I), other Federal laws and laws of the Indian tribe with jurisdiction over the trust or restricted interest in land may otherwise define the inheritance rights of adopted-out children.
+
+#### (3) Divorce
+
+#### (A) Surviving spouse
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;An individual who is divorced from a decedent, or whose marriage to the decedent has been annulled, shall not be considered to be a surviving spouse unless, by virtue of a subsequent marriage, the individual is married to the decedent at the time of death of the decedent.
+
+#### (ii) Separation
+
+&emsp;&emsp;&emsp;A decree of separation that does not dissolve a marriage, and terminate the status of husband and wife, shall not be considered a divorce for the purpose of this subsection.
+
+#### (iii) No effect on adjudications
+
+&emsp;&emsp;&emsp;Nothing in clause (i) shall prevent the Secretary from giving effect to a property right settlement relating to a trust or restricted interest in land or an interest in trust personalty if 1 of the parties to the settlement dies before the issuance of a final decree dissolving the marriage of the parties to the property settlement.
+
+#### (B) Effect of subsequent divorce on a will or devise
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If, after executing a will, a testator is divorced or the marriage of the testator is annulled, as of the effective date of the divorce or annulment, any disposition of trust or restricted interests in land or of trust personalty made by the will to the former spouse of the testator shall be considered to be revoked unless the will expressly provides otherwise.
+
+#### (ii) Property
+
+&emsp;&emsp;&emsp;Property that is prevented from passing to a former spouse of a decedent under clause (i) shall pass as if the former spouse failed to survive the decedent.
+
+#### (iii) Provisions of wills
+
+&emsp;&emsp;&emsp;Any provision of a will that is considered to be revoked solely by operation of this subparagraph shall be revived by the remarriage of a testator to the former spouse of the testator.
+
+#### (4) After-born heirs
+
+&emsp;A child in gestation at the time of decedent's death will be treated as having survived the decedent if the child lives at least 120 hours after its birth.
+
+#### (5) Advancements of trust personalty during lifetime; effect on distribution of estate
+
+&emsp;(A) The trust personalty of a decedent who dies intestate as to all or a portion of his or her estate, given during the decedent's lifetime to a person eligible to be an heir of the decedent under subsection (b)(2)(B) of this section, shall be treated as an advancement against the heir's inheritance, but only if the decedent declared in a contemporaneous writing, or the heir acknowledged in writing, that the gift is an advancement or is to be taken into account in computing the division and distribution of the decedent's intestate estate.
+
+&emsp;(B) For the purposes of this section, trust personalty advanced during the decedent's lifetime is valued as of the time the heir came into possession or enjoyment of the property or as of the time of the decedent's death, whichever occurs first.
+
+&emsp;(C) If the recipient of the trust personalty predeceases the decedent, the property shall not be treated as an advancement or taken into account in computing the division and distribution of the decedent's intestate estate unless the decedent's contemporaneous writing provides otherwise.
+
+#### (6) Heirs related to decedent through 2 lines; single share
+
+&emsp;A person who is related to the decedent through 2 lines of relationship is entitled to only a single share of the trust or restricted land or trust personalty in the decedent's estate based on the relationship that would entitle such person to the larger share.
+
+#### (7) Notice
+
+#### (A) In general
+
+&emsp;&emsp;To the maximum extent practicable, the Secretary shall notify each owner of trustand restricted land of the provisions of this chapter.
+
+#### (B) Combined notices
+
+&emsp;&emsp;The notice under subparagraph (A) may, at the discretion of the Secretary, be provided with the notice required under subsection (a) of section 8 of the American Indian Probate Reform Act of 2004.
+
+#### (8) Renunciation or disclaimer of interests
+
+#### (A) In general
+
+&emsp;&emsp;Any person 18 years of age or older may renounce or disclaim an inheritance of a trust or restricted interest in land or in trust personalty through intestate succession or devise, either in full or subject to the reservation of a life estate (where the interest is an interest in land), in accordance with subparagraph (B), by filing a signed and acknowledged declaration with the probate decisionmaker prior to entry of a final probate order. No interest so renounced or disclaimed shall be considered to have vested in the renouncing or disclaiming heir or devisee, and the renunciation or disclaimer shall not be considered to be a transfer or gift of the renounced or disclaimed interest.
+
+#### (B) Eligible recipients of renounced or disclaimed interests; notice to recipients
+
+#### (i) Interests in land
+
+&emsp;&emsp;&emsp;A trust or restricted interest in land may be renounced or disclaimed only in favor of—
+
+&emsp;&emsp;&emsp;&emsp;(I) an eligible heir;
+
+&emsp;&emsp;&emsp;&emsp;(II) any person who would have been eligible to be a devisee of the interest in question pursuant to subsection (b)(1)(A) of this section (but only in cases where the renouncing person is a devisee of the interest under a valid will); or
+
+&emsp;&emsp;&emsp;&emsp;(III) the Indian tribe with jurisdiction over the interest in question;
+
+&emsp;&emsp;&nbsp;and the interest so renounced shall pass to its recipient in trust or restricted status.
+
+#### (ii) Trust personalty
+
+&emsp;&emsp;&emsp;An interest in trust personalty may be renounced or disclaimed in favor of any person who would be eligible to be a devisee of such an interest under subsection (b)(3) of this section and shall pass to the recipient in accordance with the provisions of that subsection.
+
+#### (iii) Unauthorized renunciations and disclaimers
+
+&emsp;&emsp;&emsp;Unless renounced or disclaimed in favor of a person or Indian tribe eligible to receive the interest in accordance with the provisions of this subparagraph, a renounced or disclaimed interest shall pass as if the renunciation or disclaimer had not been made.
+
+#### (C) Acceptance of interest
+
+&emsp;&emsp;A renunciation or disclaimer of an interest filed in accordance with this paragraph shall be considered accepted when implemented in a final order by a decisionmaker, and shall thereafter be irrevocable. No renunciation or disclaimer of an interest shall be included in such order unless the recipient of the interest has been given notice of the renunciation or disclaimer and has not refused to accept the interest. All disclaimers and renunciations filed and implemented in probate orders made effective prior to October 27, 2004, are hereby ratified.
+
+#### (D) Rule of construction
+
+&emsp;&emsp;Nothing in this paragraph shall be construed to allow the renunciation of an interest that is subject to the provisions of subsection (a)(2)(D) of this section in favor of more than 1 person.
+
+#### (9) Consolidation agreements
+
+#### (A) In general
+
+&emsp;&emsp;During the pendency of probate, the decisionmaker is authorized to approve written consolidation agreements effecting exchanges or gifts voluntarily entered into between the decedent's eligible heirs or devisees, to consolidate interests in any tract of land included in the decedent's trust inventory. Such agreements may provide for the conveyance of interests already owned by such heirs or devisees in such tracts, without having to comply with the Secretary's rules and requirements otherwise applicable to conveyances by deed of trust or restricted interests in land.
+
+#### (B) Effective
+
+&emsp;&emsp;An agreement approved under subparagraph (A) shall be considered final when implemented in an order by a decisionmaker. The final probate order shall direct any changes necessary to the Secretary's land records, to reflect and implement the terms of the approved agreement.
+
+#### (C) Effect on purchase option at probate
+
+&emsp;&emsp;Any interest in trust or restricted land that is subject to a consolidation agreement under this paragraph or subsection (e) of this section shall not be available for purchase under subsection (p) of this section unless the decisionmaker determines that the agreement should not be approved.
+
+#### (<i>l</i>) Notification to landowners
+
+After receiving written request by any owner of a trust or restricted interest in land, the Secretary shall provide to such landowner the following information with respect to each tract of trust or restricted land in which the landowner has an interest:
+
+&emsp;(1) The location of the tract of land involved.
+
+&emsp;(2) The identity of each other co-owner of interests in the parcel of land.
+
+&emsp;(3) The percentage of ownership of each owner of an interest in the tract.
+
+#### (m) Pilot project for the management of trust assets of Indian families and relatives
+
+#### (1) Development pilot project
+
+&emsp;The Secretary shall consult with tribes, individual landowner organizations, Indian advocacy organizations, and other interested parties to—
+
+&emsp;&emsp;(A) develop a pilot project for the creation of legal entities such as private or familytrusts, partnerships corporations, or other organizations to improve, facilitate, and assist in the efficient management of interests in trust or restricted lands or funds owned by Indian family members and relatives; and
+
+&emsp;&emsp;(B) develop proposed rules, regulations, and guidelines to implement the pilot project, including—
+
+&emsp;&emsp;&emsp;(i) the criteria for establishing such legal entities;
+
+&emsp;&emsp;&emsp;(ii) reporting and other requirements that the Secretary determines to be appropriate for administering such entities; and
+
+&emsp;&emsp;&emsp;(iii) provisions for suspending or revoking the authority of an entity to engage in activities relating to the management of trust or restricted assets under the pilot project in order to protect the interests of the beneficial owners of such assets.
+
+#### (2) Primary purposes; limitation; approval of transactions; payments by Secretary
+
+#### (A) Purposes
+
+&emsp;&emsp;The primary purpose of any entity organized under the pilot project shall be to improve, facilitate, and assist in the management of interests in trust or restricted land, held by 1 or more persons, in furtherance of the purposes of this chapter.
+
+#### (B) Limitation
+
+&emsp;&emsp;The organization or activities of any entity under the pilot project shall not be construed to impair, impede, replace, abrogate, or modify in any respect the trust duties or responsibilities of the Secretary, nor shall anything in this subsection or in any rules, regulations, or guidelines developed under this subsection enable any private or family trustee of trust or restricted interests in land to exercise any powers over such interests greater than that held by the Secretary with respect to such interests.
+
+#### (C) Secretarial approval of transactions
+
+&emsp;&emsp;Any transaction involving the lease, use, mortgage or other disposition of trust or restricted land or other trust assets administered by or through an entity under the pilot project shall be subject to approval by the Secretary in accordance with applicable Federal law.
+
+#### (D) Payments
+
+&emsp;&emsp;The Secretary shall have the authority to make payments of income and revenues derived from trust or restricted land or other trust assets administered by or through an entity participating in the pilot project directly to the entity, in accordance with requirements of the regulations adopted pursuant to this subsection.
+
+#### (3) Limitations on pilot project
+
+#### (A) Number of organizations
+
+&emsp;&emsp;The number of entities established under the pilot project authorized by this subsection shall not exceed 30.
+
+#### (B) Regulations required
+
+&emsp;&emsp;No entity shall commence activities under the pilot project authorized by this subsection until the Secretary has adopted final rules and regulations under paragraph (1)(B).
+
+#### (4) Report to Congress
+
+&emsp;Prior to the expiration of the pilot project provided for under this subsection, the Secretary shall submit a report to Congress stating—
+
+&emsp;&emsp;(A) a description of the Secretary's consultation with Indian tribes, individual landowner associations, Indian advocacy organizations, and other parties consulted with regarding the development of rules and regulations for the creation and management of interests in trust and restricted lands under the pilot project;
+
+&emsp;&emsp;(B) the feasibility of accurately monitoring the performance of legal entities such as those involved in the pilot project, and the effectiveness of such entities as mechanisms to manage and protect trust assets;
+
+&emsp;&emsp;(C) the impact that the use of entities such as those in the pilot project may have with respect to the accomplishment of the goals of this chapter; and
+
+&emsp;&emsp;(D) any recommendations that the Secretary may have regarding whether to adopt a permanent program as a management and consolidation measure for interests in trust or restricted lands.
+
+#### (n) Notice to heirs
+
+Prior to holding a hearing to determine the heirs to trust or restricted property, or making a decision determining such heirs, the Secretary shall seek to provide actual written notice of the proceedings to all heirs. Such efforts shall include—
+
+&emsp;(1) a search of publicly available records and Federal records, including telephone and address directories and including electronic search services or directories;
+
+&emsp;(2) an inquiry with family members and co-heirs of the property;
+
+&emsp;(3) an inquiry with the tribal government of which the owner is a member, and the tribal government with jurisdiction over the property, if any; and
+
+&emsp;(4) if the property is of a value greater than $2,000, engaging the services of an independent firm to conduct a missing persons search.
+
+#### (<i>o</i>) Missing heirs
+
+(1) For purposes of this subsection and subsection (m) of this section, an heir may be presumed missing if—
+
+&emsp;(A) such heir's whereabouts remain unknown 60 days after completion of notice efforts under subsection (m) of this section; and
+
+&emsp;(B) in the proceeding to determine a decedent's heirs, the Secretary finds that the heir has had no contact with other heirs of the decedent, if any, or with the Department relating to trust or restricted land or other trust assets at any time during the 6-year period preceding the hearing to determine heirs.
+
+(2) Before the date for declaring an heir missing, any person may request an extension of time to locate such heir. The Secretary shall grant a reasonable extension of time for good cause.
+
+(3) An heir shall be declared missing only after a review of the efforts made in the heirship proceeding and a finding has been made that this subsection has been complied with.
+
+(4) An heir determined to be missing pursuant to this subsection shall be deemed to have predeceased the decedent for purposes of descent and devise of trust or restricted land and trust personalty within that decedent's estate.
+
+#### (p) Purchase option at probate
+
+#### (1) In general
+
+&emsp;The trust or restricted interests in a parcel of land in the decedent's estate may be purchased at probate in accordance with the provisions of this subsection.
+
+#### (2) Sale of interest at fair market value
+
+&emsp;Subject to paragraph (3), the Secretary is authorized to sell trust or restricted interests in land subject to this subsection, including the interest that a surviving spouse would otherwise receive under subsection (a)(2)(A) or (D) of this section, at no less than fair market value, as determined in accordance with the provisions of this chapter, to any of the following eligible purchasers:
+
+&emsp;&emsp;(A) Any other eligible heir taking an interest in the same parcel of land by intestate succession or the decedent's other devisees of interests in the same parcel who are eligible to receive a devise under subsection (b)(1)(A) of this section.
+
+&emsp;&emsp;(B) All persons who own undivided trust or restricted interests in the same parcel of land involved in the probate proceeding.
+
+&emsp;&emsp;(C) The Indian tribe with jurisdiction over the interest, or the Secretary on behalf of such Indian tribe.
+
+#### (3) Request to purchase; auction; consent requirements
+
+&emsp;No sale of an interest in probate shall occur under this subsection unless—
+
+&emsp;&emsp;(A) an eligible purchaser described in paragraph (2) submits a written request to purchase prior to the distribution of the interest to heirs or devisees of the decedent and in accordance with any regulations of the Secretary; and
+
+&emsp;&emsp;(B) except as provided in paragraph (5), the heirs or devisees of such interest, and the decedent's surviving spouse, if any, receiving a life estate under subsection (a)(2)(A) or (D) of this section consent to the sale.
+
+> &emsp;If the Secretary receives more than 1 request to purchase the same interest, the Secretary shall sell the interest by public auction or sealed bid (as determined by the Secretary) at not less than the appraised fair market value to the eligible purchaser submitting the highest bid.
+
+#### (4) Appraisal and notice
+
+&emsp;Prior to the sale of an interest pursuant to this subsection, the Secretary shall—
+
+&emsp;&emsp;(A) appraise the interest at its fair market value in accordance with this chapter;
+
+&emsp;&emsp;(B) provide eligible heirs, other devisees, and the Indian tribe with jurisdiction over the interest with written notice, sent by first class mail, that the interest is available for purchase in accordance with this subsection; and
+
+&emsp;&emsp;(C) if the Secretary receives more than 1 request to purchase the interest by a person described in subparagraph (B), provide notice of the manner (auction or sealed bid), time and place of the sale, a description, and the appraised fair market value, of the interest to be sold—
+
+&emsp;&emsp;&emsp;(i) to the heirs or other devisees and the Indian tribe with jurisdiction over the interest, by first class mail; and
+
+&emsp;&emsp;&emsp;(ii) to all other eligible purchasers, by posting written notice in at least 5 conspicuous places in the vicinity of the place of hearing.
+
+#### (5) Small undivided interests in Indian lands
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), the consent of a person who is an heir otherwise required under paragraph (3)(B) shall not be required for the auction and sale of an interest at probate under this subsection if—
+
+&emsp;&emsp;&emsp;(i) the interest is passing by intestate succession; and
+
+&emsp;&emsp;&emsp;(ii) prior to the auction the Secretary determines in the probate proceeding that the interest passing to such heir represents less than 5 percent of the entire undivided ownership of the parcel of land as evidenced by the Secretary's records as of the time the determination is made.
+
+#### (B) Exception
+
+&emsp;&emsp;Notwithstanding subparagraph (A), the consent of such heir shall be required for the sale at probate of the heir's interest if, at the time of the decedent's death, the heir was residing on the parcel of land of which the interest to be sold was a part.
+
+#### (6) Distribution of proceeds
+
+&emsp;Proceeds from the sale of interests under this subsection shall be distributed to the heirs, devisees, or spouse whose interest was sold in accordance with the values of their respective interests. The proceeds attributable to an heir or devisee shall be held in an account as trust personalty if the interest sold would have otherwise passed to the heir or devisee in trust or restricted status.
+
+(Pub. L. 97–459, title II, §207, as added Pub. L. 106–462, title I, §103(4), Nov. 7, 2000, 114 Stat. 1995; amended Pub. L. 108–374, §§3, 6(a)(2), (4), (e), Oct. 27, 2004, 118 Stat. 1774, 1797, 1800, 1805.)
 
 #### References in Text
 
-The Indian Land Consolidation Act Amendments of 2000, referred to in subsec. (g)(1), is Pub. L. 106–462, Nov. 7, 2000, 114 Stat. 1991. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 2201 of this title and Tables.
+This chapter, referred to in subsecs. (a)(2)(C)(ii), (D)(iii), (h)(2), introductory provisions of (i) and (i)(2)(B), (k)(2)(B)(iii)(I), (7)(A), (m)(2)(A), (p)(2), (4)(A), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress. This chapter, referred to in the original in subsec. (i)(3), (4), probably should have been “this title”, meaning title II of Pub. L. 97–459 which enacted this chapter.
 
-This chapter, referred to in subsec. (g)(2)(A), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
+Section 8 of the American Indian Probate Reform Act of 2004, referred to in subsecs. (a)(2)(D)(iv)(II)(dd), (c)(2), and (k)(7)(B), is section 8 of Pub. L. 108–374, which is set out as a note under section 2201 of this title.
+
+Public Law 91–627, referred to in subsec. (h)(1)(A), is Pub. L. 91–627, Dec. 31, 1970, 84 Stat. 1874, which amended section 607 of this title and enacted provisions set out as a note under section 607 of this title.
+
+Public Law 92–377, referred to in subsec. (h)(1)(B), is Pub. L. 92–377, Aug. 10, 1972, 86 Stat. 530, which is not classified to the Code.
+
+Public Law 92–443, referred to in subsec. (h)(1)(C), is Pub. L. 92–443, Sept. 29, 1972, 86 Stat. 744, which is not classified to the Code.
+
+Public Law 96–274, referred to in subsec. (h)(1)(D), is Pub. L. 96–274, June 17, 1980, 94 Stat. 537, which is not classified to the Code.
+
+Public Law 98–513, referred to in subsec. (h)(1)(E), is Pub. L. 98–513, Oct. 19, 1984, 98 Stat. 2411, which is not classified to the Code.
+
+Act of July 8, 1940, referred to in subsec. (k)(2)(B)(ii), is act July 8, 1940, ch. 555, 54 Stat. 746, which enacted section 372a of this title and provisions set out as a note under section 372a of this title.
 
 #### Prior Provisions
 
 A prior section 2206, Pub. L. 97–459, title II, §207, Jan. 12, 1983, 96 Stat. 2519; Pub. L. 98–608, §1(4), Oct. 30, 1984, 98 Stat. 3172; Pub. L. 101–644, title III, §301(a), Nov. 29, 1990, 104 Stat. 4666, related to escheat to tribe of trust or restricted or controlled lands, fractional interests, and Indian tribal codes, prior to repeal by Pub. L. 106–462, title I, §103(4), Nov. 7, 2000, 114 Stat. 1995.
 
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–374, §3(a), added subsec. (a) and struck out heading and text of former subsec. (a) which related to testamentary disposition.
+
+Subsec. (b). Pub. L. 108–374, §3(b), added subsec. (b) and struck out heading and text of former subsec. (b) which related to intestate succession.
+
+Subsec. (c). Pub. L. 108–374, §3(c), added text of subsec. (c) and struck out text of former subsec. (c) which related to ownership interests in the same parcel of trust or restricted lands devised or passed to more than one person.
+
+Subsec. (f)(1). Pub. L. 108–374, §6(e)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary shall provide estate planning assistance in accordance with this subsection, to the extent amounts are appropriated for such purpose.”
+
+Subsec. (f)(2)(B) to (D). Pub. L. 108–374, §6(e)(2), added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
+
+Subsec. (f)(3), (4). Pub. L. 108–374, §6(e)(3), added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: “In carrying out this section, the Secretary may enter into contracts with entities that have expertise in Indian estate planning and tribal probate codes.”
+
+Subsec. (g). Pub. L. 108–374, §6(a)(4), struck out heading and text of subsec. (g) which related to notification to Indian tribes and owners of trust or restricted lands of amendments made by the Indian Land Consolidation Act Amendments of 2000.
+
+Subsecs. (h) to (k). Pub. L. 108–374, §3(d), added subsecs. (h) to (k).
+
+Subsecs. (<i>l</i>) to (<i>o</i>). Pub. L. 108–374, §6(e)(4), which directed amendment of section by adding subsecs. (<i>l</i>) to (<i>o</i>) at end, was executed by adding those subsecs. after subsec. (k), to reflect the probable intent of Congress.
+
+Subsec. (p). Pub. L. 108–374, §6(a)(2), added subsec. (p).
+
+#### Effective Date of 2004 Amendment
+
+Section, except for subsecs. (e) and (f), inapplicable to estate of individual who dies before date that is one year after Secretary makes certification required by section 8(a)(4) of Pub. L. 108–374, see section 8 of Pub. L. 108–374, set out as a Notice; Effective Date of 2004 Amendment note under section 2201 of this title.
+
 #### Judicial Review
 
-Pub. L. 106–462, title I, §104, Nov. 7, 2000, 114 Stat. 2006, provided that: “Notwithstanding section 207(g)(5) of the Indian Land Consolidation Act (25 U.S.C.2206(f)(5) \[2206(g)(5)\]), after the Secretary of the Interior provides the certification required under section 207(g)(4) of such Act, the owner of an interest in trust or restricted land may bring an administrative action to challenge the application of such section 207 to the devise or descent of his or her interest or interests in trust or restricted lands, and may seek judicial review of the final decision of the Secretary of the Interior with respect to such challenge.”
+Pub. L. 106–462, title I, §104, Nov. 7, 2000, 114 Stat. 2006, provided that: “Notwithstanding section 207(g)(5) of the Indian Land Consolidation Act (25 U.S.C. 2206(f)(5) \[2206(g)(5)\]), after the Secretary of the Interior provides the certification required under section 207(g)(4) of such Act, the owner of an interest in trust or restricted land may bring an administrative action to challenge the application of such section 207 to the devise or descent of his or her interest or interests in trust or restricted lands, and may seek judicial review of the final decision of the Secretary of the Interior with respect to such challenge.”
 
-#### Section Referred to in Other Sections
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “Reform”.</i>
 
-This section is referred to in sections 2205, 2212, 2218 of this title.
+<i><sup>2</sup></i><i> So in original. Probably should be “personalty”.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

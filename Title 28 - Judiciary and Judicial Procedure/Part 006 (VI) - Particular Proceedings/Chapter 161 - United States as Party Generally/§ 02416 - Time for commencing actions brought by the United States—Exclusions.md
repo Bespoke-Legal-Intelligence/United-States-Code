@@ -12,7 +12,3 @@ For the purpose of computing the limitations periods established in section 2415
 
 (Added Pub. L. 89–505, §1, July 18, 1966, 80 Stat. 305.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2415 of this title; title 30 section 1724.
-

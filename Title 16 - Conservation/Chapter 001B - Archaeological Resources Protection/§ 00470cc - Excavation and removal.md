@@ -18,7 +18,7 @@ A permit may be issued pursuant to an application under subsection (a) of this s
 
 #### (c) Notification to Indian tribes of possible harm to or destruction of sites having religious or cultural importance
 
-If a permit issued under this section may result in harm to, or destruction of, any religious or cultural site, as determined by the Federal land manager, before issuing such permit, theFederal land manager shall notify any Indian tribe which may consider the site as having religious or cultural importance. Such notice shall not be deemed a disclosure to the public for purposes of section 470hh of this title.
+If a permit issued under this section may result in harm to, or destruction of, any religious or cultural site, as determined by the Federal land manager, before issuing such permit, the Federal land manager shall notify any Indian tribe which may consider the site as having religious or cultural importance. Such notice shall not be deemed a disclosure to the public for purposes of section 470hh of this title.
 
 #### (d) Terms and conditions of permit
 
@@ -59,8 +59,4 @@ Upon the written request of the Governor of any State, the Federal land manager 
 Act of June 8, 1906, referred to in subsecs. (g)(1) and (h), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which is classified generally to sections 431, 432, and 433 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 431 of this title and Tables.
 
 Following the enactment of this chapter, referred to in subsec. (h)(2), means following the enactment of Pub. L. 96–95, approved Oct. 31, 1979.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 470ee of this title; title 25 section 3002.
 

@@ -14,7 +14,7 @@ The Trade Representative shall monitor the implementation of each measure undert
 
 #### (A) Failure to implement recommendation
 
-&emsp;&emsp;If the measure or agreement referred to in subsection (a) of this section concerns the implementation of a recommendation made pursuant to dispute settlement proceedings under the World Trade Organization, and the Trade Representative considers that the foreign country has failed to implement it, the Trade Representative shall make the determination in paragraph (1) no later than 30 days after the expiration of the reasonable period of time provided for such implementation under paragraph 21 of the Understanding on Rules and Procedures Governing the Settlement of Disputes that is referred to in section 3511(d)(16) of this title.
+&emsp;&emsp;If the measure or agreement referred to in subsection (a) of this section concerns theimplementation of a recommendation made pursuant to dispute settlement proceedings under the World Trade Organization, and the Trade Representative considers that the foreign country has failed to implement it, the Trade Representative shall make the determination in paragraph (1) no later than 30 days after the expiration of the reasonable period of time provided for such implementation under paragraph 21 of the Understanding on Rules and Procedures Governing the Settlement of Disputes that is referred to in section 3511(d)(16) of this title.
 
 #### (B) Revision of retaliation list and action
 
@@ -54,7 +54,7 @@ Before making any determination under subsection (b) of this section, the Trade 
 
 &emsp;(2) provide an opportunity for the presentation of views by interested persons.
 
-(Pub. L. 93–618, title III, §306, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 299; amended Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1173; Pub. L. 103–465, title III,§314(e), Dec. 8, 1994, 108 Stat. 4941; Pub. L. 104–295, §20(c)(1), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 106–200, title IV, §407, May 18, 2000, 114 Stat. 293.)
+(Pub. L. 93–618, title III, §306, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 299; amended Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1173; Pub. L. 103–465, title III, §314(e), Dec. 8, 1994, 108 Stat. 4941; Pub. L. 104–295, §20(c)(1), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 106–200, title IV, §407, May 18, 2000, 114 Stat. 293.)
 
 #### References in Text
 
@@ -78,7 +78,7 @@ In General.—The Trade Representative shall monitor the implementation of each 
 
 “(b)
 
-Further Action.—If, on the basis of the monitoring carried out under subsection (a) of this section, the Trade Representative considers that a foreign country is not satisfactorily implementing a measure or agreement referred to in subsection (a) of this section, the Trade Representative shall determine what further action the Trade Representative shall take under section 2411(a) of this title. For purposes of section 2411 of this title, any such determination shall be treated as a determination made under section 2414(a)(1) of this title.”
+Further Action.—If, on the basis of the monitoring carried out under subsection (a) of this section,the Trade Representative considers that a foreign country is not satisfactorily implementing a measure or agreement referred to in subsection (a) of this section, the Trade Representative shall determine what further action the Trade Representative shall take under section 2411(a) of this title. For purposes of section 2411 of this title, any such determination shall be treated as a determination made under section 2414(a)(1) of this title.”
 
 1988—Pub. L. 100–418 amended section generally, substituting provisions relating to monitoring of foreign compliance for provisions relating to administration. See section 2419 of this title.
 
@@ -89,8 +89,4 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations initiated, under section 2412 of this title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as a note under section 2411 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2411 of this title.
 

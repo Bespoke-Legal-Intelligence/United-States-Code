@@ -1,6 +1,6 @@
 ### §301. Collection and publication
 
-(a) The Secretary is authorized to collect information from all persons exporting from, or importing into, the United States and the noncontiguous areas over which the United States exercises sovereignty, jurisdiction, or control, and from all persons engaged in trade between the United States and such noncontiguous areas and between those areas, or from the owners, or operators of carriers engaged in such foreign commerce or trade, and shall compile and publish such information pertaining to exports, imports, trade, and transportation relating thereto, as he deems necessary or appropriate to enable him to foster, promote, develop, and further the commerce, domestic and foreign, of the United States and for other lawful purposes.
+(a) The Secretary is authorized to collect information from all persons exporting from, or importing into, the United States and the noncontiguous areas over which the United States exercises sovereignty, jurisdiction, or control, and from all persons engaged in trade between the United States and such noncontiguous areas and between those areas, or from the owners, or operators of carriers engaged in such foreign commerce or trade, and shall compile and publish such information pertaining to exports, imports, trade, and transportation relating thereto, as he deems necessary or appropriate to enable him to foster, promote, develop, and furtherthe commerce, domestic and foreign, of the United States and for other lawful purposes.
 
 (b) The Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, on quarterly and cumulative bases, statistics on United States imports for consumption and United States exports by country and by product. Statistics on United States imports shall be submitted in accordance with the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof, in detail as follows:
 
@@ -106,7 +106,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1252(b)\], Nov. 2
 
 “(1)
 
-In general.—The Secretary of Commerce, with the concurrence of the Secretary of State, shall publish regulations in the Federal Register to require that, upon the effective date of those regulations, exporters (or their agents) who are required to file Shippers’ Export Declarations under chapter 9 of title 13, UnitedStates Code, file such Declarations through the Automated Export System with respect to exports of items on the United States Munitions List or the Commerce Control List.
+In general.—The Secretary of Commerce, with the concurrence of the Secretary of State, shall publish regulations in the Federal Register to require that, upon the effective date of those regulations, exporters (or their agents) who are required to file Shippers’ Export Declarations under chapter 9 of title 13, United States Code, file such Declarations through the Automated Export System with respect to exports of items on the United States Munitions List or the Commerce Control List.
 
 “(2)
 

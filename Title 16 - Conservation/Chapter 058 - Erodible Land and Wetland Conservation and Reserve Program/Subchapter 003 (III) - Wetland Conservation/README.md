@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—WETLAND CONSERVATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3835, 3838c, 3843 of this title; title 7 sections 7211, 7231, 7915, 7931, 7955, 7957, 7996; title 12 section 2219d.
-
 
 ---
 

@@ -1,9 +1,5 @@
 Part A—Innovative Programs
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1232h, 5891b, 6212, 6316, 7345, 7345a, 7801 of this title.
-
 
 ---
 

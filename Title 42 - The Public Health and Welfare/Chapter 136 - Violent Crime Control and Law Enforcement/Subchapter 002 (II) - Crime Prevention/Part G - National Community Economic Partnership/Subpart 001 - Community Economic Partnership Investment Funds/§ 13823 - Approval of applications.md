@@ -58,7 +58,3 @@ Pub. L. 105–277, §101(f) \[title VIII, §405(d)(44)\], substituted “authori
 
 Amendment by section 101(f) \[title VIII, §405(d)(44)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(35)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13824, 14214 of this title.
-

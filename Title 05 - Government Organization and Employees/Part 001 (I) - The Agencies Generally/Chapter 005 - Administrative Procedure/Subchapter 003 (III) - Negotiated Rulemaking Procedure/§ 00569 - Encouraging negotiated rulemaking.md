@@ -18,7 +18,3 @@ Subsec. (f)(2). Pub. L. 102–354, §3(a)(5)(B), substituted “section 568(c)�
 
 Subsec. (g). Pub. L. 102–354, §3(a)(5)(C), substituted “section 595(c)(12)” for “section 575(c)(12)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 568 of this title.
-

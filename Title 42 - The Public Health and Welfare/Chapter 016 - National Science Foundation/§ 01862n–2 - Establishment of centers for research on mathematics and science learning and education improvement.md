@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(A) the ability of the applicant to effectively carry out the research program, including the activities described in paragraph (1)(E);
 
-&emsp;&emsp;(B) the experience of the applicant in conducting research on the science of teaching and learning and the capacity of the applicant to foster new multidisciplinary collaborations;
+&emsp;&emsp;(B) the experience of the applicant in conducting research on the science of teachingand learning and the capacity of the applicant to foster new multidisciplinary collaborations;
 
 &emsp;&emsp;(C) the capacity of the applicant to attract elementary school and secondary school teachers from a diverse array of schools, and with diverse professional experiences, for participation in Center activities; and
 

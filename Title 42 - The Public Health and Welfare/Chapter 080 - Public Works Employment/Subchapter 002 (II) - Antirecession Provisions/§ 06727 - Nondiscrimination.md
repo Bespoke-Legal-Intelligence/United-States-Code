@@ -28,9 +28,5 @@ In subsec. (b), “sections 6701(a)(2), (3), 6716–6720, 6721, and 6723(f) of t
 
 1977—Pub. L. 95–30 amended section generally, inserting reference to discriminatory practices prohibited by the Age Discrimination Act of 1975 and the Rehabilitation Act of 1973 and generally restructuring the enforcement and remedies provisions to incorporate the procedures of the Secretary and of the Attorney General under the State and Local Fiscal Assistance Act of 1972.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6725, 6736 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

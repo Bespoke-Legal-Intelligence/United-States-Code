@@ -20,7 +20,7 @@ Section was not enacted as part of the Plant Protection Act which comprises this
 
 2000—Subsecs. (a) to (e). Pub. L. 106–224 struck out subsecs. (a) to (e), which authorized measures for control and eradication of plant pests, set forth provisions relating to intergovernmental cooperation and responsibility of cooperating foreign agencies, defined terms as used in this section, and authorized rules and regulations to provide for inspection and certification of plants and plant products offered for export or transiting the United States.
 
-1990—Subsec. (b). Pub. L. 101–624, §2504, substituted “foreign countries” for “all countries of the Western Hemisphere” and inserted “foreign or” before “international”.
+1990—Subsec. (b). Pub. L. 101–624, §2504, substituted “foreign countries” for “all countries of the WesternHemisphere” and inserted “foreign or” before “international”.
 
 Subsec. (f). Pub. L. 101–624, §2509(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “There are hereby authorized to be appropriated such sums as the Congress may annually determine to be necessary to enable the Secretary of Agriculture to carry out the provisions of this section. Unless otherwise specifically authorized, or provided for in appropriations, no part of such sums shall be used to pay the cost or value of property injured or destroyed.”
 
@@ -33,8 +33,4 @@ Subsec. (f). Pub. L. 94–231 redesignated subsec. (c) as (f) and substituted pr
 1957—Subsec. (a). Pub. L. 85–36 inserted “insect pests, plant diseases, and nematodes, such as imported fire ant, soybean cyst nematode, witchweed, spotted alfalfa aphid,” after “or to prevent or retard the spread of”.
 
 1949—Subsec. (a). Act June 17, 1949, authorized the Secretary to carry out operations to combat the citrus blackfly, white-fringed beetle, and the Hall scale.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1508 of this title.
 

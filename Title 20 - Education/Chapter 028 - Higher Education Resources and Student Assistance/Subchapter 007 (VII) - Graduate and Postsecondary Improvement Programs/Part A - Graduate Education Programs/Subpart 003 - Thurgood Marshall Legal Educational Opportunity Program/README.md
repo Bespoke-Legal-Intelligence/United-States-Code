@@ -1,9 +1,5 @@
 subpart 3—thurgood marshall legal educational opportunity program
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 1137 of this title.
-
 
 ---
 

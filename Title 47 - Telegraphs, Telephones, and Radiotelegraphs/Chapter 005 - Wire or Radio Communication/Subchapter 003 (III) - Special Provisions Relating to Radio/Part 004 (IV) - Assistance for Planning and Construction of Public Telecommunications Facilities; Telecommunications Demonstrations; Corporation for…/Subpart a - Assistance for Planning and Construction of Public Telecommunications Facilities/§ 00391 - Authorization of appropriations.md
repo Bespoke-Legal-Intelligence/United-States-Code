@@ -34,7 +34,3 @@ Section 12 of Pub. L. 100–626 provided that: “This Act and the amendments ma
 
 Amendment by Pub. L. 95–567 effective Nov. 2, 1978, see section 403 of Pub. L. 95–567, set out as a note under section 390 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 393, 902 of this title.
-

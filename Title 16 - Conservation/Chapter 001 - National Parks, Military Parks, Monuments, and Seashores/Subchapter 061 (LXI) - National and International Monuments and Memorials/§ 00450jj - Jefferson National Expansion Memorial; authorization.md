@@ -6,7 +6,7 @@ There is authorized to be constructed by the Secretary of the Interior upon the 
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–398, title II, §203, Aug. 24, 1984, 98 Stat. 1472, provided that: “This title \[enacting sections 450jj–3 to 450jj–9 of this title, enacting provisions set out as a note under section 450jj–3 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Jefferson National Expansion Memorial Amendments Act of 1984’.”
+Pub. L. 98–398, title II, §203, Aug. 24, 1984, 98 Stat. 1472, provided that: “This title \[enacting sections 450jj–3 to 450jj–9 of this title, enacting provisions setout as a note under section 450jj–3 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Jefferson National Expansion Memorial Amendments Act of 1984’.”
 
 #### Disposition of Funds Received by National Park Service as Reimbursement for Costs Incurred
 
@@ -22,11 +22,7 @@ Section 11, formerly section 4, of act May 17, 1954, as amended by Pub. L. 85–
 
 “(2) Federal funds expended under paragraph (1) for development may not exceed 75 percent of the actual cost of such development. The remaining share of such actual costs shall be provided from non-Federal funds, services, or materials, or a combination thereof, fairly valued as determined by the Secretary. Any non-Federal expenditures for the acquisition, removal, or relocation of the grain elevator and business shall be included as part of the non-Federal cost share: <i>Provided</i>, That credit shall not be given for any such expenditures which exceed the cost of acquisition, removal, or relocation of the grain elevator and business located within the East St. Louis unit of the Memorial if such action had been accomplished by the Federal Government as determined by the Secretary under existing law: <i>Provided further</i>, That only those non-Federal funds expended at least sixty days after the transmission of the report referred to in paragraph (3) for the removal of such grain elevator shall be credited towards the non-Federal cost share. For the purposes of this paragraph, the Secretary may accept and utilize for such purposes any non-Federal funds, services, and materials so contributed.
 
-“(3) Within one year after the date of enactment of this paragraph \[Aug. 26, 1992\], the Secretary, in direct consultation with the city of East St. Louis, Gateway Arch Park Expansion, and the Southwestern Illinois Development Authority, shall develop and transmit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Interior and Insular Affairs \[now Committee on Natural Resources\] of the United States House of Representativesa study of alternatives to, and costs associated with, the removal of the grain elevator located within the East St. Louis unit of the Memorial. The study shall contain, but need not be limited to, at least one alternative which would incorporate and retain the existing grain elevator into the draft development and management plan and environmental assessment referred to in paragraph (1).
+“(3) Within one year after the date of enactment of this paragraph \[Aug. 26, 1992\], the Secretary, in direct consultation with the city of East St. Louis, Gateway Arch Park Expansion, and the Southwestern Illinois Development Authority, shall develop and transmit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Interior and Insular Affairs \[now Committee on Natural Resources\] of the United States House of Representatives a study of alternatives to, and costs associated with, the removal of the grain elevator located within the East St. Louis unit of the Memorial. The study shall contain, but need not be limited to, at least one alternative which would incorporate and retain the existing grain elevator into the draft development and management plan and environmental assessment referred to in paragraph (1).
 
 “(c) Funds appropriated under subsection (b) of this section shall remain available until expended.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450jj–1, 450jj–2, 450jj–4, 450jj–5, 450jj–6, 450jj–8, 450jj–9 of this title.
 

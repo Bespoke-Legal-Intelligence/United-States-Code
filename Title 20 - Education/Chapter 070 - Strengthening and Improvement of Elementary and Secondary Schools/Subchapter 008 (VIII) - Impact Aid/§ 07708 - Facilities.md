@@ -24,9 +24,5 @@ Section 10 of the Act of September 23, 1950 (Public Law 815, 81st Congress) (as 
 
 Sections 204 and 310 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on January 1, 1958), referred to in subsec. (b)(1), probably mean sections 204 and 310 of act Sept. 23, 1950, ch. 995, which were classified to sections 274 and 300, respectively, of this title prior to the general amendment of that Act by Pub. L. 85–620, Aug. 12, 1958, 72 Stat. 548. The act Sept. 30, 1950, did not contain a section 204 or 310 on Jan. 1, 1958.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7707, 7714 of this title; title 10 section 2008.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

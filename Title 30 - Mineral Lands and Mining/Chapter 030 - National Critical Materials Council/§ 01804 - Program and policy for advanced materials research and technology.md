@@ -2,7 +2,7 @@
 
 #### (a) Functions of Council
 
-In addition to the responsibilities described in section 1803 of this title, the Council shall be responsible for coordination with appropriateagencies and departments of the Federal Government relative to Federal materials research and development policies and programs. Such policies and programs shall be consistent with the policies and goals described in the National Materials and Minerals Policy, Research and Development Act of 1980 \[30 U.S.C. 1601 et seq.\]. In carrying out this responsibility the Council shall—
+In addition to the responsibilities described in section 1803 of this title, the Council shall be responsible for coordination with appropriate agencies and departments of the Federal Government relative to Federal materials research and development policies and programs. Such policies and programs shall be consistent with the policies and goals described in the National Materials and Minerals Policy, Research and Development Act of 1980 \[30 U.S.C. 1601 et seq.\]. In carrying out this responsibility the Council shall—
 
 &emsp;(1)(A) establish a national Federal program plan for advanced materials research and development, recommend the designation of the key responsibilities for carrying out such research, and to provide <sup>1</sup> for coordination of this plan with the Office of Science and Technology Policy, the Office of Management and Budget, and such other Federal offices and agencies as may be deemed appropriate, and (B) annually review such plan and report thereon to the Congress;
 
@@ -22,7 +22,7 @@ The National Materials and Minerals Policy, Research and Development Act of 1980
 
 #### National Federal Program Plan for Advanced Materials Research and Development
 
-Pub. L. 100–418, title V, §5181, Aug. 23, 1988, 102 Stat. 1454, directed National Critical Materials Council to prepare the national Federal program plan for advanced materials research and development under 30 U.S.C. 1804(a)(1)(A) and to submit such plan to Congress not later than 180 days after Aug. 23, 1988.
+Pub. L. 100–418, title V, §5181, Aug. 23, 1988, 102 Stat. 1454, directed National Critical Materials Council toprepare the national Federal program plan for advanced materials research and development under 30 U.S.C. 1804(a)(1)(A) and to submit such plan to Congress not later than 180 days after Aug. 23, 1988.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “and provide”.</i>
 

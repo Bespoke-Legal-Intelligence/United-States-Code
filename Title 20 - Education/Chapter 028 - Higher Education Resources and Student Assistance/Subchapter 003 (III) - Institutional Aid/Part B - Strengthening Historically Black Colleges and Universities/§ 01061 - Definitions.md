@@ -18,15 +18,11 @@ For the purpose of this part:
 
 A prior section 1061, Pub. L. 89–329, title III, §322, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1393, defined terms used in this part, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1061, Pub. L. 89–329, title IV, §401, Nov. 8, 1965, 79 Stat. 1232; Pub. L. 90–575, title I, §101(a), (b)(1), Oct. 16, 1968, 82 Stat. 1017; Pub. L. 91–95, §4, Oct. 22, 1969, 83 Stat. 143; Pub. L. 92–318, title I, §131(a)(1)(A), June 23, 1972, 86 Stat. 247, related to statement of purpose and authorization of appropriations for educational opportunity grants, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
+Another prior section 1061, Pub. L. 89–329, title IV, §401, Nov. 8, 1965, 79 Stat. 1232; Pub. L. 90–575, title I, §101(a), (b)(1), Oct. 16, 1968, 82 Stat. 1017; Pub. L. 91–95,§4, Oct. 22, 1969, 83 Stat. 143; Pub. L. 92–318, title I, §131(a)(1)(A), June 23, 1972, 86 Stat. 247, related to statement of purpose and authorization of appropriations for educational opportunity grants, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
 #### Amendments
 
 1988—Par. (2). Pub. L. 100–369 inserted “,, except that any branch campus of a southern institution of higher education that prior to September 30, 1986, received a grant as an institution with special needs under section 1060 of this title and was formally recognized by the National Center for Education Statistics as a Historically Black College or University but was determined not to be a part B institution on or after October 17, 1986, shall, from July 18, 1988, be considered a part B institution” after “accreditation”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1085, 1131–1, 1131a, 1131c, 9501 of this title; title 15 section 7501; title 25 section 1809; title 29 section 718; title 42 sections 1862d, 3032a, 5197h.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

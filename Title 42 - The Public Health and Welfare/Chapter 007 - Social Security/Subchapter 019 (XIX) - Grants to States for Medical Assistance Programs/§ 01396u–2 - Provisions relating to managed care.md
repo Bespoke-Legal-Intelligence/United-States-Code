@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the requirements described in the succeeding paragraphs of this subsection are met; and
 
-&emsp;&emsp;&emsp;(ii) may restrict the number of provider agreements with managed care entities under the State plan if such restriction does not substantially impair access to services.
+&emsp;&emsp;&emsp;(ii) may restrict the number of provider agreements with managed care entitiesunder the State plan if such restriction does not substantially impair access to services.
 
 #### (B) “Managed care entity” defined
 
@@ -306,7 +306,7 @@
 
 #### (iv) Availability of results
 
-&emsp;&emsp;&emsp;The results of each external independent review conducted under this subparagraph shall be available to participating health care providers, enrollees, and potential enrollees of the organization, except that the results may not be made available in a manner that discloses the identity of any individual patient.
+&emsp;&emsp;&emsp;The results of each external independent review conducted under this subparagraph shall be available to participating healthcare providers, enrollees, and potential enrollees of the organization, except that the results may not be made available in a manner that discloses the identity of any individual patient.
 
 #### (B) Nonduplication of accreditation
 
@@ -362,7 +362,7 @@
 
 #### (ii) Consultation in review of market materials
 
-&emsp;&emsp;&emsp;In the process of reviewing and approving such materials, the State shall providefor consultation with a medical care advisory committee.
+&emsp;&emsp;&emsp;In the process of reviewing and approving such materials, the State shall provide for consultation with a medical care advisory committee.
 
 #### (B) Service market
 
@@ -382,7 +382,7 @@
 
 #### (3) State conflict-of-interest safeguards in medicaid risk contracting
 
-&emsp;A medicaid managed care organization may not enter into a contract with any State under section 1396b(m) of this title unless the State has in effect conflict-of-interest safeguards with respect to officers and employees of the State with responsibilities relating to contracts with such organizations or to the default enrollment process described in subsection (a)(4)(C)(ii) of this section that are at least as effective as the Federal safeguards provided under section 423 of title 41, against conflicts of interest that apply with respect to Federal procurement officials with comparable responsibilities with respect to such contracts.
+&emsp;A medicaid managed care organization may not enter into a contract with any State undersection 1396b(m) of this title unless the State has in effect conflict-of-interest safeguards with respect to officers and employees of the State with responsibilities relating to contracts with such organizations or to the default enrollment process described in subsection (a)(4)(C)(ii) of this section that are at least as effective as the Federal safeguards provided under section 423 of title 41, against conflicts of interest that apply with respect to Federal procurement officials with comparable responsibilities with respect to such contracts.
 
 #### (4) Use of unique physician identifier for participating physicians
 
@@ -428,7 +428,7 @@
 
 &emsp;&emsp;&emsp;(iii) With respect to a determination under paragraph (1)(A)(ii), double the excess amount charged in violation of such subsection (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned).
 
-&emsp;&emsp;&emsp;(iv) Subject to clause (ii), with respect to a determination under paragraph (1)(A)(iii), $15,000 for each individual notenrolled as a result of a practice described in such subsection.
+&emsp;&emsp;&emsp;(iv) Subject to clause (ii), with respect to a determination under paragraph (1)(A)(iii), $15,000 for each individual not enrolled as a result of a practice described in such subsection.
 
 &emsp;&emsp;(B) The appointment of temporary management—
 
@@ -571,8 +571,4 @@ Study.—The Secretary of Health and Human Services, in consultation with States
 &emsp;“(B)
 
 Report.—Not later than 2 years after the date of the enactment of this Act \[Aug. 5, 1997\], the Secretary shall submit to Committees described in paragraph (1)(B) a report on such study.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320a–3, 1395eee, 1396a, 1396b, 1396d, 1396r–4, 1396u–4 of this title.
 

@@ -6,7 +6,3 @@ At any time after fifteen years from December 24, 1970, the Secretary, after pub
 
 (Pub. L. 91–581, §7, Dec. 24, 1970, 84 Stat. 1569.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1017 of this title.
-

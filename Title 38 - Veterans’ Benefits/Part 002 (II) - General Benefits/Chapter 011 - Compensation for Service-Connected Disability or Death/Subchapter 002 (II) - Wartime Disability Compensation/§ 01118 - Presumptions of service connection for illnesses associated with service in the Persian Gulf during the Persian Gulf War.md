@@ -12,9 +12,9 @@
 
 (4) For purposes of this section, signs or symptoms that may be a manifestation of an undiagnosed illness include the signs and symptoms listed in section 1117(g) of this title.
 
-(b)(1)(A) Whenever the Secretary makes a determination described in subparagraph (B), the Secretary shall prescribe regulations providing that a presumption of service connection is warranted for the illness covered by that determination for purposes of this section.
+(b)(1)(A) Whenever the Secretary makes a determination described in subparagraph (B), theSecretary shall prescribe regulations providing that a presumption of service connection is warranted for the illness covered by that determination for purposes of this section.
 
-(B) A determination referred to in subparagraph (A) is a determination based on soundmedical and scientific evidence that a positive association exists between—
+(B) A determination referred to in subparagraph (A) is a determination based on sound medical and scientific evidence that a positive association exists between—
 
 &emsp;(i) the exposure of humans or animals to a biological, chemical, or other toxic agent, environmental or wartime hazard, or preventive medicine or vaccine known or presumed to be associated with service in the Southwest Asia theater of operations during the Persian Gulf War; and
 
@@ -63,8 +63,4 @@ Subsec. (e). Pub. L. 107–103, §202(d)(1), substituted “on September 30, 201
 #### Effective Date of 2001 Amendment
 
 Amendment by section 202(b)(2) of Pub. L. 107–103 effective Mar. 1, 2002, see section 202(c) of Pub. L. 107–103, set out as a note under section 1117 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1113, 1117 of this title.
 

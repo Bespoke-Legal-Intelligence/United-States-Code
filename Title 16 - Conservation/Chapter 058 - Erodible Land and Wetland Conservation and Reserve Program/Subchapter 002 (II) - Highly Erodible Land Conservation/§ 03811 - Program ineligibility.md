@@ -106,7 +106,3 @@ Selection of Counties and Producers.—The pilot project shall be conducted for 
 
 Errors in Delineation.—If the Secretary determines that a significant error has occurred in delineating cropland under the pilot project, the Secretary shall, at the request of the owners or operators of the cropland, conduct a new delineation of the cropland using the most accurate available delineation process, as determined by the Secretary.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3812, 3812a of this title; title 7 section 7251.
-

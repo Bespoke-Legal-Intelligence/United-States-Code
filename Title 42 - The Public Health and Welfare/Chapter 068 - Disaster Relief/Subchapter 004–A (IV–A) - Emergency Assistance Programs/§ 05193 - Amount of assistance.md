@@ -26,7 +26,3 @@ The Federal share for assistance provided under this subchapter shall be equal t
 
 (Pub. L. 93–288, title V, §503, as added Pub. L. 100–707, title I, §107(a), Nov. 23, 1988, 102 Stat. 4707.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5191 of this title.
-

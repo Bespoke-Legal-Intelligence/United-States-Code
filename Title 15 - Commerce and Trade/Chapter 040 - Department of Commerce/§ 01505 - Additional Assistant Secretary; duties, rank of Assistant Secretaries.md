@@ -22,7 +22,3 @@ Pursuant to powers transferred to Secretary of Commerce under Reorg. Plan No. 5 
 
 For order of succession during any period when both Secretary and Deputy Secretary of Commerce are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13242, Dec. 18, 2001, 66 F.R. 66260, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1506 of this title.
-

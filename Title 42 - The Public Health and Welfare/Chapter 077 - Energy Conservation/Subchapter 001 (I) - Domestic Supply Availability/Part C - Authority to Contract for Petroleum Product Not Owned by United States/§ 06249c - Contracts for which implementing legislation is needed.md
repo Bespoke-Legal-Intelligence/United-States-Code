@@ -24,7 +24,7 @@ The Secretary shall consult, at the earliest possible time and on a continuing b
 
 Each contract and each amendment to a contract for which an implementing bill is necessary may become effective only if—
 
-&emsp;(1) the Secretary, not less than 30 days before the day on which such contract is entered into, notifies the House of Representatives and the Senate of the intention to enter into sucha contract and promptly thereafter publishes notice of such intention in the Federal Register;
+&emsp;(1) the Secretary, not less than 30 days before the day on which such contract is entered into, notifies the House of Representatives and the Senate of the intention to enter into such a contract and promptly thereafter publishes notice of such intention in the Federal Register;
 
 &emsp;(2) after entering into the contract, the Secretary transmits a report to the House of Representatives and to the Senate containing a copy of the final text of such contract together with—
 

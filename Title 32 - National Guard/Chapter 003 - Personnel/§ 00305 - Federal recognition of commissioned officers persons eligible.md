@@ -4,13 +4,13 @@
 
 &emsp;(1) Members of the National Guard.
 
-&emsp;(2) Members of the Army, Navy, Air Force, or Marine Corps.
+&emsp;(2) Members of the armed forces.
 
-&emsp;(3) Former officers of the Army, Navy, Air Force, or Marine Corps.
+&emsp;(3) Former officers of the armed forces.
 
-&emsp;(4) Former enlisted members of the Army, Navy, Air Force, or Marine Corps who were discharged honorably or under honorable conditions.
+&emsp;(4) Former enlisted members of the armed forces who were discharged honorably or under honorable conditions.
 
-&emsp;(5) Graduates of the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy.
+&emsp;(5) Graduates of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the United States Coast Guard Academy.
 
 &emsp;(6) Graduates of a school, college, university, or officer's training camp who received military instruction under the supervision of a commissioned officer of the Regular Army or the Regular Air Force, and whose fitness for appointment has been certified by that officer.
 
@@ -18,7 +18,7 @@
 
 (b) To be eligible for Federal recognition under this section with a view to serving as a nurse, a person must be a graduate of a hospital or university training school and a registered nurse.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 602; Pub. L. 85–861, §2(5), Sept. 2, 1958, 72 Stat. 1543; Pub. L. 90–130, §2(1), Nov. 8, 1967, 81 Stat. 383.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 602; Pub. L. 85–861, §2(5), Sept. 2, 1958, 72 Stat. 1543; Pub. L. 90–130, §2(1), Nov. 8, 1967, 81 Stat. 383; Pub. L. 108–375, div. A, title V, §505, Oct. 28, 2004, 118 Stat. 1875.)
 
 Historical and Revision Notes<br>1956
 
@@ -67,6 +67,10 @@ July 30, 1956, ch. 789, §§2 (less applicability to age), 3, 70 Stat. 729.
 The words “who are citizens of the United States” are omitted as covered by section 313(b) of this title. The words “with a view to serving” are substituted for the words “to serve”. The words “and have the physical and other qualifications prescribed by the Secretary of the Army” and section 3 of the source statute are omitted as covered by section 307(a)(2) of this title. The applicability of section 3 of the source statute to section 1 of the source statute is omitted as unnecessary.
 
 #### Amendments
+
+2004—Subsec. (a)(2) to (4). Pub. L. 108–375, §505(1), substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps”.
+
+Subsec. (a)(5). Pub. L. 108–375, §505(2), substituted “the United States Air Force Academy, or the United States Coast Guard Academy” for “or the United States Air Force Academy”.
 
 1967—Subsec. (a). Pub. L. 90–130, §2(1)(A), struck out provision that, except as provided in subsec. (b), only male persons from the enumerated categories were eligible for Federal recognition as commissioned officers of the National Guard.
 

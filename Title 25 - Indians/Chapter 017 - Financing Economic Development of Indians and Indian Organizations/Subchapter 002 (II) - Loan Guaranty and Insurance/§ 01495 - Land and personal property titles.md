@@ -4,7 +4,3 @@ Title to any land purchased by a tribe or by an individual Indian with loans gua
 
 (Pub. L. 93–262, title II, §215, Apr. 12, 1974, 88 Stat. 81.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1499 of this title.
-

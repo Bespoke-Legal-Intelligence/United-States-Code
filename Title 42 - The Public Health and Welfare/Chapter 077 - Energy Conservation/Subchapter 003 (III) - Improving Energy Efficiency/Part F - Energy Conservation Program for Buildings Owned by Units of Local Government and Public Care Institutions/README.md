@@ -4,10 +4,6 @@ Part F—Energy Conservation Program for Buildings Owned by Units of Local Gover
 
 This part was, in the original, designated part H and has been changed to part F for purposes of codification.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 6371j of this title.
-
 
 ---
 

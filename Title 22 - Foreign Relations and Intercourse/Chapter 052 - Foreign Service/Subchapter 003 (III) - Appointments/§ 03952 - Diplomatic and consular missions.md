@@ -2,7 +2,7 @@
 
 #### (a) Recommendations by Secretary of State; appointment by President; vice consul; performance of official functions under commission
 
-The Secretary of State may recommend to the President that a member of the Service who is a citizen of the United States be commissioned as a diplomatic or consular officer or both. The President may, by and with the advice and consent of the Senate, commission such member of the Service as a diplomatic or consular officer or both. The Secretary of State may commission as a vice consul a member of the Service who is a citizen of the United States. All official functions performed by a diplomatic or consular officer, including a vice consul, shall be performed under such a commission.
+The Secretary of State may recommend to the President that a member of the Service who is a citizen of the United States be commissioned as a diplomatic or consular officer or both. ThePresident may, by and with the advice and consent of the Senate, commission such member of the Service as a diplomatic or consular officer or both. The Secretary of State may commission as a vice consul a member of the Service who is a citizen of the United States. All official functions performed by a diplomatic or consular officer, including a vice consul, shall be performed under such a commission.
 
 #### (b) Function of commissioned Service members
 
@@ -13,8 +13,4 @@ Members of the Service commissioned under this section may, in accordance with t
 The Secretary of State shall define the limits of consular districts.
 
 (Pub. L. 96–465, title I, §312, Oct. 17, 1980, 94 Stat. 2087.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 6301.
 

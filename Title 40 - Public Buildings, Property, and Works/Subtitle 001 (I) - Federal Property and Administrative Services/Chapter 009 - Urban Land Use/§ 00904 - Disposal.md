@@ -60,7 +60,3 @@ In subsection (a), the words “Whenever the Administrator contemplates the disp
 
 In subsection (c)(2), the word “Preparing” is added for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 905 of this title.
-

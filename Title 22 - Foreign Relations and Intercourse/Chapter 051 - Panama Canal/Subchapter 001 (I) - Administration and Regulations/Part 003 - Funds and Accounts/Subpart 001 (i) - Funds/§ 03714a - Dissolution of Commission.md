@@ -12,7 +12,7 @@
 
 #### (b) Termination office
 
-The Commission shall during fiscal year 1998 establish an office to close out the affairs of the Commission that are still pending after the termination of the Panama Canal Treaty of 1977.
+The Commission shall during fiscal year 1998 establish an office to close out the affairs of theCommission that are still pending after the termination of the Panama Canal Treaty of 1977.
 
 #### (c) Panama Canal Commission Dissolution Fund
 
@@ -34,7 +34,7 @@ The Commission shall during fiscal year 1998 establish an office to close out th
 
 (4)(A) The Secretary of the Treasury shall invest excess amounts in the Fund in public debt securities with maturities suitable to the needs of the Fund, as determined by the manager of the Fund.
 
-(B) Securities invested under subparagraph (A) shall bear interest at rates determined by theSecretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturity.
+(B) Securities invested under subparagraph (A) shall bear interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturity.
 
 (C) Interest earned on securities invested under subparagraph (A) shall be credited to and form part of the Fund.
 
@@ -81,8 +81,4 @@ Effective date.—This subsection shall be effective on and after the terminatio
 “(c)
 
 Oversight of Close-Out Activities.—The Panama Canal Commission shall enter into an agreement with the head of a department or agency of the Federal Government to supervise the close out of the affairs of the Commission under section 1305 of the Panama Canal Act of 1979 and to certify the completion of that function.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3712, 3792 of this title.
 

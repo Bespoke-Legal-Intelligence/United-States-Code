@@ -8,7 +8,3 @@ The Institute shall annually prepare a report on the activities of the Institute
 
 A prior section 626 of Pub. L. 89–329 was renumbered section 627 and is classified to section 1131e of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1131e of this title.
-

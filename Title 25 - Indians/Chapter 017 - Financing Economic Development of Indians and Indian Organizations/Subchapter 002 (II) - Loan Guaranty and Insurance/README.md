@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—LOAN GUARANTY AND INSURANCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1511, 1541 of this title.
-
 
 ---
 

@@ -6,10 +6,6 @@
 
 1986—Pub. L. 99–544, §1(b), Oct. 27, 1986, 100 Stat. 3046, struck out “DRAINAGE” after “IRRIGATION,”.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 221, 222, 223, 225 of this title.
-
 
 ---
 

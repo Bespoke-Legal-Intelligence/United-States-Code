@@ -8,7 +8,3 @@ It shall be the duty of the Attorney General of the United States, when he shall
 
 Section was formerly classified to section 75 of Title 8, Aliens and Nationality.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1503 of this title.
-

@@ -12,7 +12,7 @@ The purposes of the Foundation are—
 
 &emsp;(2) to undertake and conduct such other activities as will further the conservation and management of the fish, wildlife, and plant resources of the United States, and its territories and possessions, for present and future generations of Americans; and
 
-&emsp;(3) to participate with, and otherwise assist, foreign governments, entities, and individuals in undertaking and conducting activities that will further the conservation and managementof the fish, wildlife, and plant resources of other countries.
+&emsp;(3) to participate with, and otherwise assist, foreign governments, entities, and individuals in undertaking and conducting activities that will further the conservation and management of the fish, wildlife, and plant resources of other countries.
 
 (Pub. L. 98–244, §2, Mar. 26, 1984, 98 Stat. 107; Pub. L. 100–240, §1(a), Jan. 11, 1988, 101 Stat. 1785; Pub. L. 103–232, title I, §102, Apr. 11, 1994, 108 Stat. 336; Pub. L. 106–408, title II, §202, Nov. 1, 2000, 114 Stat. 1777.)
 
@@ -43,8 +43,4 @@ Pub. L. 101–593, title I, §110(a), Nov. 16, 1990, 104 Stat. 2959, provided th
 #### Short Title
 
 Section 1 of Pub. L. 98–244 provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Fish and Wildlife Foundation Establishment Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3703, 3706, 3743 of this title.
 

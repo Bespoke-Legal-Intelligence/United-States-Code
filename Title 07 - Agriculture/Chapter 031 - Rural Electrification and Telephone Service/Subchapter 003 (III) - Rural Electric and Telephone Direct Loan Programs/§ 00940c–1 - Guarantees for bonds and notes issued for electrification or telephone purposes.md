@@ -98,6 +98,8 @@ The authority provided under this section shall terminate on September 30, 2007.
 
 #### Regulations and Implementation
 
+Pub. L. 108–199, div. A, title VII, §750(b), Jan. 23, 2004, 118 Stat. 38, provided that: “The Secretary shall publish a proposed rule to carry out section 313A of the Rural Electrification Act of 1936 \[7 U.S.C. 940c–1\] within 60 days of enactment of this Act \[Jan. 23, 2004\].”
+
 Pub. L. 107–171, title VI, §6101(b), May 13, 2002, 116 Stat. 415, provided that:
 
 “(1)

@@ -40,7 +40,37 @@ If a claim is presented in accordance with this section, including a claim for i
 
 The President shall promulgate, and may from time to time amend, regulations for the presentation, filing, processing, settlement, and adjudication of claims under this Act against the Fund.
 
-(Pub. L. 101–380, title I, §1013, Aug. 18, 1990, 104 Stat. 501; Pub. L. 104–324, title XI, §1142(b), Oct. 19, 1996, 110 Stat. 3991.)
+#### (f) Loan program
+
+#### (1) In general
+
+&emsp;The President shall establish a loan program under the Fund to provide interim assistance to fishermen and aquaculture producer claimants during the claims procedure.
+
+#### (2) Eligibility for loan
+
+&emsp;A loan may be made under paragraph (1) only to a fisherman or aquaculture producer that—
+
+&emsp;&emsp;(A) has incurred damages for which claims are authorized under section 2702 of this title;
+
+&emsp;&emsp;(B) has made a claim pursuant to this section that is pending; and
+
+&emsp;&emsp;(C) has not received an interim payment under section 2705(a) of this title for the amount of the claim, or part thereof, that is pending.
+
+#### (3) Terms and conditions of loans
+
+&emsp;A loan awarded under paragraph (1)—
+
+&emsp;&emsp;(A) shall have flexible terms, as determined by the President;
+
+&emsp;&emsp;(B) shall be for a period ending on the later of—
+
+&emsp;&emsp;&emsp;(i) the date that is 5 years after the date on which the loan is made; or
+
+&emsp;&emsp;&emsp;(ii) the date on which the fisherman or aquaculture producer receives payment for the claim to which the loan relates under the procedure established by subsections (a) through (e) of this section; and
+
+&emsp;&emsp;(C) shall be at a low interest rate, as determined by the President.
+
+(Pub. L. 101–380, title I, §1013, Aug. 18, 1990, 104 Stat. 501; Pub. L. 104–324, title XI, §1142(b), Oct. 19, 1996, 110 Stat. 3991; Pub. L. 108–293, title VII, §708(a), Aug. 9, 2004, 118 Stat. 1077.)
 
 #### References in Text
 
@@ -48,13 +78,11 @@ This Act, referred to in subsec. (e), is Pub. L. 101–380, Aug. 18, 1990, 104 S
 
 #### Amendments
 
+2004—Subsec. (f). Pub. L. 108–293 added subsec.(f).
+
 1996—Subsec. (d). Pub. L. 104–324 substituted “section, including a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled,” for “section”.
 
 #### Delegation of Functions
 
 Functions of President under subsec. (e) of this section delegated to Secretary of Department in which Coast Guard is operating by section 7(c)(2) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54767, set out as a note under section 1321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2702, 2705, 2708, 2712 of this title.
 

@@ -4,7 +4,3 @@ Appraisals of the land and timber thereon shall be made, in the manner prescribe
 
 (May 24, 1939, ch. 144, §2, 53 Stat. 754.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 869–4, 1181f–1 of this title.
-

@@ -46,7 +46,7 @@ A class III device—
 
 &emsp;(C) a full description of the methods used in, and the facilities and controls used for, the manufacture, processing, and, when relevant, packing and installation of, such device;
 
-&emsp;(D) an identifying reference to any performance standard under section 360d of this title which would be applicable to any aspect of such device if it were a class II device, and either adequate information to show that such aspect of such device fully meets such performance standard or adequate information to justify any deviation from such standard;
+&emsp;(D) an identifying reference to any performance standard under section 360d of this titlewhich would be applicable to any aspect of such device if it were a class II device, and either adequate information to show that such aspect of such device fully meets such performance standard or adequate information to justify any deviation from such standard;
 
 &emsp;(E) such samples of such device and of components thereof as the Secretary may reasonably require, except that where the submission of such samples is impracticable or unduly burdensome, the requirement of this subparagraph may be met by the submission of complete information concerning the location of one or more such devices readily available for examination and testing;
 
@@ -90,7 +90,7 @@ A class III device—
 
 &emsp;(iv) Each reference in other sections of this chapter to a device for which an application under this section has been approved, or has been denied, suspended, or withdrawn, other than such a reference in section 379i or 379j of this title, shall be considered to be a reference to a device for which a report under subparagraph (A) has been approved, or has been denied, suspended, or withdrawn, respectively.
 
-(3) <sup>1</sup> Upon receipt of an application meeting the requirements set forth in paragraph (1), the Secretary—
+(3) Upon receipt of an application meeting the requirements set forth in paragraph (1), the Secretary—
 
 &emsp;(A) may on the Secretary's own initiative, or
 
@@ -98,9 +98,9 @@ A class III device—
 
 > refer such application to the appropriate panel under section 360c of this title for study and for submission (within such period as he may establish) of a report and recommendation respecting approval of the application, together with all underlying data and the reasons or basis for the recommendation. Where appropriate, the Secretary shall ensure that such panel includes, or consults with, one or more pediatric experts.
 
-(3)(A) <sup>1</sup> Prior to the submission of an application under this subsection, the Secretary shall accept and review any portion of the application that the applicant and the Secretary agree is complete, ready, and appropriate for review, except that such requirement does not apply, and the Secretary has discretion whether to accept and review such portion, during any period in which, under section 379j(g) of this title, the Secretary does not have the authority to collect fees under section 379j(a) of this title.
+(4)(A) Prior to the submission of an application under this subsection, the Secretary shall accept and review any portion of the application that the applicant and the Secretary agree is complete, ready, and appropriate for review, except that such requirement does not apply, and the Secretary has discretion whether to accept and review such portion, during any period in which, under section 379j(g) of this title, the Secretary does not have the authority to collect fees under section 379j(a) of this title.
 
-(B) Each portion of a submission reviewed under subparagraph (A) and found acceptable by the Secretary shall not be further reviewed after receipt of an application that satisfies the requirements of paragraph (1), unless an issue of safety or effectiveness provides the Secretary reason to review such accepted portion.
+(B) Each portion of a submission reviewed under subparagraph (A) and found acceptable by the Secretary shall not be further reviewed after receipt of an application that satisfies the requirements of paragraph (1), unless a significant issue of safety or effectiveness provides the Secretary reason to review such accepted portion.
 
 (C) Whenever the Secretary determines that a portion of a submission under subparagraph (A) is unacceptable, the Secretary shall, in writing, provide to the applicant a description of any deficiencies in such portion and identify the information that is required to correct these deficiencies, unless the applicant is no longer pursuing the application.
 
@@ -152,7 +152,7 @@ A class III device—
 
 (B) The Secretary and the applicant may, by mutual consent, establish a different schedule for a meeting required under this paragraph.
 
-(4) An applicant whose application has been denied approval may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such denial, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g) of this section, and any interested person may obtain review, in accordance with paragraph (1) or (2) of subsection (g) of this section, of an order of the Secretary approving an application.
+(4) An applicant whose application has been denied approval may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such denial, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g) of this section, and any interested person may obtain review, in accordance with paragraph (1) or (2) of subsection (g) ofthis section, of an order of the Secretary approving an application.
 
 (5) In order to provide for more effective treatment or diagnosis of life-threatening or irreversibly debilitating human diseases or conditions, the Secretary shall provide review priority for devices—
 
@@ -196,11 +196,11 @@ A class III device—
 
 (2) The holder of an application subject to an order issued under paragraph (1) withdrawing approval of the application may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such withdrawal, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g) of this section.
 
-(3) If, after providing an opportunity for an informal hearing, the Secretary determines there is reasonable probability that the continuation of distribution of a device under an approved application would cause serious, adverse health consequences or death, the Secretary shall by order temporarily suspend the approval of the application approved under this section. If the Secretary issues such an order, the Secretary shall proceed expeditiously under paragraph (1) to withdraw such application.
+(3) If, after providing an opportunity for an informal hearing, the Secretary determines there is reasonable probability that the continuation of distribution of a device under an approved application would cause serious, adverse healthconsequences or death, the Secretary shall by order temporarily suspend the approval of the application approved under this section. If the Secretary issues such an order, the Secretary shall proceed expeditiously under paragraph (1) to withdraw such application.
 
 #### (f) Product development protocol
 
-(1) In the case of a class III device which is required to have an approval of an application submitted under subsection (c) of this section,such device shall be considered as having such an approval if a notice of completion of testing conducted in accordance with a product development protocol approved under paragraph (4) has been declared completed under paragraph (6).
+(1) In the case of a class III device which is required to have an approval of an application submitted under subsection (c) of this section, such device shall be considered as having such an approval if a notice of completion of testing conducted in accordance with a product development protocol approved under paragraph (4) has been declared completed under paragraph (6).
 
 (2) Any person may submit to the Secretary a proposed product development protocol with respect to a device. Such a protocol shall be accompanied by data supporting it. If, within thirty days of the receipt of such a protocol, the Secretary determines that it appears to be appropriate to apply the requirements of this subsection to the device with respect to which the protocol is submitted, the Secretary—
 
@@ -256,7 +256,7 @@ A class III device—
 
 (C) A final order issued under subparagraph (A) or (B) shall be in writing and shall contain the reasons to support the conclusions thereof.
 
-(7) At any time after a notice of completion has become effective, the Secretary may issuean order (after due notice and opportunity for an informal hearing to the person for whom the notice is effective) revoking the approval of a device provided by a notice of completion which has become effective as provided in subparagraph (B) if he finds that any of the grounds listed in subparagraphs (A) through (G) of subsection (e)(1) of this section apply. Each reference in such subparagraphs to an application shall be considered for purposes of this paragraph as a reference to a protocol and the notice of completion of such protocol, and each reference to the time when an application was approved shall be considered for purposes of this paragraph as a reference to the time when a notice of completion took effect.
+(7) At any time after a notice of completion has become effective, the Secretary may issue an order (after due notice and opportunity for an informal hearing to the person for whom the notice is effective) revoking the approval of a device provided by a notice of completion which has become effective as provided in subparagraph (B) if he finds that any of the grounds listed in subparagraphs (A) through (G) of subsection (e)(1) of this section apply. Each reference in such subparagraphs to an application shall be considered for purposes of this paragraph as a reference to a protocol and the notice of completion of such protocol, and each reference to the time when an application was approved shall be considered for purposes of this paragraph as a reference to the time when a notice of completion took effect.
 
 (8) A person who has an approved protocol subject to an order issued under paragraph (6)(A) revoking such protocol, a person who has an approved protocol with respect to which an order under paragraph (6)(B) was issued declaring that the protocol had not been completed, or a person subject to an order issued under paragraph (7) revoking the approval of a device may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such order, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g) of this section.
 
@@ -300,9 +300,15 @@ Orders of the Secretary under this section shall be served (1) in person by any 
 
 (3) The Secretary shall, as promptly as is reasonably achievable, but not later than 12 months after the effective date of the regulation requiring a device to remain in class III, establish a schedule for the promulgation of a subsection (b) of this section regulation for each device which is subject to the regulation requiring the device to remain in class III.
 
-(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349; Pub. L. 107–250, title II, §§209, 210, title III, §302(c), Oct. 26, 2002, 116 Stat. 1613, 1614, 1618.)
+(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349; Pub. L. 107–250, title II, §§209, 210, title III, §302(c), Oct. 26, 2002, 116 Stat. 1613, 1614, 1618; Pub. L. 108–214, §2(d)(1), Apr. 1, 2004, 118 Stat. 576.)
 
 #### Amendments
+
+2004—Subsec. (c)(3). Pub. L. 108–214, §2(d)(1)(B), amended directory language of Pub. L. 107–250, §210. See 2002 Amendment note below.
+
+Pub. L. 108–214, §2(d)(1)(A)(i), redesignated par. (3) relating to acceptance and review of any portion of the application prior to submission as (4).
+
+Subsec. (c)(4). Pub. L. 108–214, §2(d)(1)(A), redesignated par. (3) relating to acceptance and review of any portion of the application prior to submission as (4) and substituted “unless a significant issue of safety” for “unless an issue of safety” in subpar. (B).
 
 2002—Subsec. (a). Pub. L. 107–250, §302(c)(1), inserted “or, as applicable, an approval under subsection (c)(2) of this section of a report seeking premarket approval” before period in concluding provisions.
 
@@ -310,7 +316,7 @@ Subsec. (c)(2). Pub. L. 107–250, §302(c)(2)(B), added par. (2). Former par. (
 
 Subsec. (c)(3). Pub. L. 107–250, §302(c)(2)(A), redesignated par. (2) relating to Secretary's referral of application to appropriate panel as (3).
 
-Pub. L. 107–250, §210, which directed amendment of subsec. (c), as amended by section 302(c)(2)(A) of Pub. L. 107–250, by adding at the end of par. (3) “Where appropriate, the Secretary shall ensure that such panel includes, or consults with, one or more pediatric experts.”, was executed by inserting the language at the end of the concluding provisions of par. (3) relating to Secretary's referral of application to appropriate panel, to reflect the probable intent of Congress.
+Pub. L. 107–250, §210, as amended by Pub. L. 108–214, §2(d)(1)(B), inserted “Where appropriate, the Secretary shall ensure that such panel includes, or consults with, one or more pediatric experts.” at the end of the concluding provisions of par. (3) as redesignated by Pub. L. 107–250, §302(c)(2)(A).
 
 Pub. L. 107–250, §209, added par. (3) relating to acceptance and review of any portion of the application prior to submission.
 
@@ -342,19 +348,13 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Report on Certain Devices
 
-Pub. L. 107–250, title II, §205, Oct. 26, 2002, 116 Stat. 1612, directed the Secretary of Health and Human Services, not later than one year after Oct. 26, 2002, to report to the appropriate committees of Congress on the timeliness and effectiveness of device premarket reviews by centers other than the Center for Devices and Radiological Health, including information on thetimes required to log in and review original submissions and supplements, times required to review manufacturers’ replies to submissions, times to approve or clear such devices, and recommendations on improvement of performance and reassignment of responsibility for regulating such devices.
+Pub. L. 107–250, title II, §205, Oct. 26, 2002, 116 Stat. 1612, directed the Secretary of Health and Human Services, not later than one year after Oct. 26, 2002, to report to the appropriate committees of Congress on the timeliness and effectiveness of device premarket reviews by centers other than the Center for Devices and Radiological Health, including information on the times required to log in and review original submissions and supplements, times required to review manufacturers’ replies to submissions, times to approve or clear such devices, and recommendations on improvement of performance and reassignment of responsibility for regulating such devices.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 351, 353, 356–1, 360, 360c, 360g, 360j, 360aaa, 360bbb–1, 360bbb–3, 374, 379i, 379j, 381, 382, 1604 of this title; title 35 section 156; title 42 section 1395<i>l</i>.
-
-<i><sup>1</sup></i><i> So in original. Two pars. (3) have been enacted.</i>
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—PROCUREMENT PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 405, 414a, 418a, 421 of this title; title 5 sections 595, 7342; title 6 section 426; title 7 section 1736a; title 10 sections 2194, 2562, 2576, 2667, 2676, 2691, 2696, 2854a, 2878, 7305, 9444, 9781; title 14 sections 92, 93, 641; title 15 sections 205f, 205<i>l</i>, 637; title 16 sections 670<i>o</i>, 793; title 22 section 277d–44; title 25 section 450j; title 28 section 524; title 31 sections 3718, 9703; title 35 section 2; title 38 section 3720; title 40 sections 102, 111, 311, 1308, 3304, 3305; title 42 sections 1592d, 12651, 13556; title 43 section 1736; title 44 section 311; title 49 sections 103, 40110.
-
 
 ---
 

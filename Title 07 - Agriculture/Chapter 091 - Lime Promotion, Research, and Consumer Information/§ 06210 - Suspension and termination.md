@@ -30,7 +30,3 @@ The Secretary shall suspend or terminate the order at the end of the marketing y
 
 (Pub. L. 101–624, title XIX, §1961, Nov. 28, 1990, 104 Stat. 3880.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6209 of this title.
-

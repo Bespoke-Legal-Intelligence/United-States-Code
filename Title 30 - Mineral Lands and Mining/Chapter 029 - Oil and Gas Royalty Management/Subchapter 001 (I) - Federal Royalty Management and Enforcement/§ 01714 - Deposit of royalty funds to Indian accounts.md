@@ -8,7 +8,3 @@ Deposits of any royalty funds derived from the production of oil or gas from, or
 
 Section 104(c) of Pub. L. 97–451 provided that: “The provisions of this section \[enacting this section and amending section 191 of this title\] shall apply with respect to payments received by the Secretary after October 1, 1983, unless the Secretary, by rule, prescribes an earlier effective date.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1721 of this title.
-

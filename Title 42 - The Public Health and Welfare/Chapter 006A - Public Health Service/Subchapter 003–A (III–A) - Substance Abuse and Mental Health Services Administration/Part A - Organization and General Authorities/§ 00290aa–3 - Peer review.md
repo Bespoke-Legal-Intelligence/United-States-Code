@@ -6,7 +6,7 @@ The Secretary, after consultation with the Administrator, shall require appropri
 
 #### (b) Members
 
-The members of any peer review group established under subsection (a) of this section shall be individuals who by virtue of their training or experience are eminently qualified to perform the review functions of the group. Not more than one-fourth of the members of any such peer review group shall be officers or employees of the United States.
+The members of any peer review group established under subsection (a) of this section shall be individuals who by virtue of their training or experience are eminently qualified to perform the review functions of the group. Not more than one-fourth of the members of any such peerreview group shall be officers or employees of the United States.
 
 #### (c) Advisory council review
 
@@ -51,8 +51,4 @@ Pub. L. 102–321 amended section generally, substituting provisions relating to
 Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L. 102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
 
 Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as a note under section 236 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 290aa, 290aa–1 of this title.
 

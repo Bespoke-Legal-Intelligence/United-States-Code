@@ -10,7 +10,3 @@ Within 1 year after October 24, 1992, the Secretary shall solicit proposals for 
 
 (Pub. L. 102–486, title XXI, §2105, Oct. 24, 1992, 106 Stat. 3070.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13451 of this title.
-

@@ -18,7 +18,3 @@ The Secretary shall adopt approval procedures designed to assure that there is e
 
 1985—Pub. L. 99–159 substituted “Secretary” for “Foundation” in pars. (1) and (2) of subsec. (a) and in subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3988 of this title.
-

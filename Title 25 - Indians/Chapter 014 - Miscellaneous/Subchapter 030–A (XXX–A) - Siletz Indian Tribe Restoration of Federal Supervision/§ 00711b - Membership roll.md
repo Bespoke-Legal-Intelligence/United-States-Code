@@ -30,7 +30,3 @@ For purposes of sections 711c and 711d of this title, a member who is eighteen y
 
 (Pub. L. 95–195, §4, Nov. 18, 1977, 91 Stat. 1416.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 711, 711c, 711d of this title.
-

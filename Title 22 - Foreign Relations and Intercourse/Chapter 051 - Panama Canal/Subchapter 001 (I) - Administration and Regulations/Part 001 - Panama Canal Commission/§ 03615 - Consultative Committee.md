@@ -10,7 +10,3 @@ The Consultative Committee shall function as a diplomatic forum for the exchange
 
 (Pub. L. 96–70, title I, §1105, Sept. 27, 1979, 93 Stat. 457.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3617 of this title.
-

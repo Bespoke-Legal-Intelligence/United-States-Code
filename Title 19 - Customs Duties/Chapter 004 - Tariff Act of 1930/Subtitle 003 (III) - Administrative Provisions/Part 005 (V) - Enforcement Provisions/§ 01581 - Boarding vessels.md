@@ -2,7 +2,7 @@
 
 #### (a) Customs officers
 
-Any officer of the customs may at any time go on board of any vessel or vehicle at any place in the United States or within the customs waters or, as he may be authorized, within a customs-enforcement area established under the Anti-Smuggling Act \[19 U.S.C. 1701 et seq.\], or at any other authorized place, without as well as within his district, and examine the manifest and other documents and papers and examine, inspect, and search the vessel or vehicle and every part thereof and any person, trunk, package, or cargo on board, and to this end may hail and stop such vessel or vehicle, and use all necessary force to compel compliance.
+Any officer of the customs may at any time go on board of any vessel or vehicle at any place inthe United States or within the customs waters or, as he may be authorized, within a customs-enforcement area established under the Anti-Smuggling Act \[19 U.S.C. 1701 et seq.\], or at any other authorized place, without as well as within his district, and examine the manifest and other documents and papers and examine, inspect, and search the vessel or vehicle and every part thereof and any person, trunk, package, or cargo on board, and to this end may hail and stop such vessel or vehicle, and use all necessary force to compel compliance.
 
 #### (b) Officers of Department of the Treasury
 
@@ -57,8 +57,4 @@ Prior provisions dealing with the subject matter of this section were contained 
 #### Transfer of Functions
 
 Word “Treasury” was substituted for “Commerce” in subsection (b) upon authority of Reorg. Plan No. 3 of 1946. See note set out under section 1613 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1587, 1703 of this title.
 

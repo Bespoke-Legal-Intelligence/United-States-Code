@@ -8,7 +8,3 @@ The authorities of any State which had troops engaged in the Battle of Kings Mou
 
 Transfer of administrative functions of park, see note set out under section 430a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 430 of this title.
-

@@ -14,7 +14,3 @@
 
 A prior section 1456c, Pub. L. 89–454, title III, §310, as added Pub. L. 94–370, §9, July 26, 1976, 90 Stat. 1029, related to research and technical assistance for coastal zone management, prior to repeal by Pub. L. 99–272, title VI, §6045(1), Apr. 7, 1986, 100 Stat. 127.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1460 of this title.
-

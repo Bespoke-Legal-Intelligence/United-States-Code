@@ -16,7 +16,7 @@ In order to provide for public outdoor recreation use and enjoyment of certain s
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
+#### Short Title of 2004 Amendment
 
-This section is referred to in sections 459i–2, 459i–5, 459i–6, 459i–7 of this title.
+Pub. L. 108–447, div. E, title I, §145(c), Dec. 8, 2004, 118 Stat. 3074, provided that: “This section \[amending section 459i–5 of this title and provisions listed in a table of Wildernesss Areas set out under section 1132 of this title\] may be cited as the ‘Cumberland Island Wilderness Boundary Adjustment Act of 2004’.”
 

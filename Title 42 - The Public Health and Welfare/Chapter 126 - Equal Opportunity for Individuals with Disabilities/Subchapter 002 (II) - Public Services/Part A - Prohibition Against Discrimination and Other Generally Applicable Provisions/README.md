@@ -1,9 +1,5 @@
 Part A—Prohibition Against Discrimination and Other Generally Applicable Provisions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 12206 of this title.
-
 
 ---
 

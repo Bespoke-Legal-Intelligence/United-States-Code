@@ -18,7 +18,3 @@ Protection under this chapter shall not be available for a design that is—
 
 1999—Par. (5). Pub. L. 106–44 substituted “2 years” for “1 year”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1301, 1303 of this title.
-

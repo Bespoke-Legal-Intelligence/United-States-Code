@@ -24,7 +24,7 @@
 
 #### (b) Search of mail not sealed against inspection and other mail
 
-Mail not sealed against inspection under the postal laws and regulations of the United States,mail which bears a Customs declaration, and mail with respect to which the sender or addressee has consented in writing to search, may be searched by a Customs officer.
+Mail not sealed against inspection under the postal laws and regulations of the United States, mail which bears a Customs declaration, and mail with respect to which the sender or addressee has consented in writing to search, may be searched by a Customs officer.
 
 #### (c) Search of mail sealed against inspection weighing in excess of 16 ounces
 
@@ -66,7 +66,7 @@ Mail not sealed against inspection under the postal laws and regulations of the 
 
 Notwithstanding any other provision of this section, subsection (a)(1) of this section shall not apply to mail weighing 16 ounces or less sealed against inspection under the postal laws and regulations of the United States.
 
-(June 17, 1930, ch. 497, title IV, §583, as added Pub. L. 107–210, div. A, title III, §344(a), Aug. 6, 2002, 116 Stat. 986.)
+(June 17, 1930, ch. 497, title IV, §583, as added Pub. L. 107–210, div. A, title III, §344(a), Aug. 6, 2002, 116 Stat. 986; amended Pub. L. 108–429, title II, §2004(a)(12), Dec. 3, 2004, 118 Stat. 2590.)
 
 #### References in Text
 
@@ -74,7 +74,7 @@ The Customs laws of the United States, referred to in subsec. (a)(1), are classi
 
 The Export Administration Act of 1979, referred to in subsecs. (a)(2)(D) and (c)(1)(G), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsecs. (a)(2)(F) and (c)(1)(I), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (a)(2)(F) and (c)(1)(I), is title IIof Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 Section 2332a(b) of title 18, referred to in subsec. (c)(1)(B), does not define the term “weapon of mass destruction”. However, that term is defined elsewhere in that section.
 
@@ -85,6 +85,10 @@ Rule 41 of the Federal Rules of Criminal Procedure, referred to in subsec. (c)(2
 #### Prior Provisions
 
 A prior section 1583, acts June 17, 1930, ch. 497, title IV, §583, 46 Stat. 748; Aug. 2, 1956, ch. 887, §4(c), 70 Stat. 948, related to delivery and certification of manifest, prior to repeal by Pub. L. 103–182, title VI, §690(b)(9), Dec. 8, 1993, 107 Stat. 2223.
+
+#### Amendments
+
+2004—Subsec. (c)(1). Pub. L. 108–429 realigned margins.
 
 #### Effective Date
 
@@ -104,7 +108,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Certification by Secretary
 
-Pub. L. 107–210, div. A, title III, §344(b), Aug. 6, 2002, 116 Stat. 987, provided that: “Not later than 3 months after the date of enactment of this section \[Aug. 6, 2002\], the Secretary of State shall determine whether the application of section 583 of the Tariff Act of 1930 \[this section\] to foreign mail transiting the United States that is imported or exported by the United States Postal Service is being handled in a manner consistent with international law and any international obligation of the United States. Section 583 of such Act shall not apply to such foreign mail unless the Secretary certifies to Congress that the application of suchsection 583 is consistent with international law and any international obligation of the United States.”
+Pub. L. 107–210, div. A, title III, §344(b), Aug. 6, 2002, 116 Stat. 987, provided that: “Not later than 3 months after the date of enactment of this section \[Aug. 6, 2002\], the Secretary of State shall determine whether the application of section 583 of the Tariff Act of 1930 \[this section\] to foreign mail transiting the United States that is imported or exported by the United States Postal Service is being handled in a manner consistent with international law and any international obligation of the United States. Section 583 of such Act shall not apply to such foreign mail unless the Secretary certifies to Congress that the application of such section 583 is consistent with international law and any international obligation of the United States.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

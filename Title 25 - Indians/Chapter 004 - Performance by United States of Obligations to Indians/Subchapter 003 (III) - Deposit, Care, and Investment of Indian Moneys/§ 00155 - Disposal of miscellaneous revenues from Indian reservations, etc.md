@@ -16,9 +16,5 @@ Act May 29, 1928, repealed the provisions of acts Mar. 3, 1883 and Mar. 2, 1887,
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 155b, 161b, 672 of this title; title 16 section 835e; title 43 section 597a; title 48 section 50f.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

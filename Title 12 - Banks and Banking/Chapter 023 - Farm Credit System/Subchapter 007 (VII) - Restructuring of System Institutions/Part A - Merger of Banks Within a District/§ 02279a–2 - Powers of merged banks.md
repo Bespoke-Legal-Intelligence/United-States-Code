@@ -10,7 +10,3 @@ The Farm Credit Administration shall issue regulations that establish the manner
 
 (Pub. L. 92–181, title VII, §7.2, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1645.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2279f of this title.
-

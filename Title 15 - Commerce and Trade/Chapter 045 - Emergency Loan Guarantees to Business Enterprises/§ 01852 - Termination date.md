@@ -4,7 +4,3 @@ The authority of the Board to enter into any guarantee or to make any commitment
 
 (Pub. L. 92–70, §13, Aug. 9, 1971, 85 Stat. 182.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1851 of this title.
-

@@ -68,13 +68,13 @@ Consideration.—Upon review of the record, the court of appeals shall determine
 
 &emsp;(4) was imposed for an offense for which there is no applicable sentencing guideline and is plainly unreasonable.
 
-> The court of appeals shall give due regard to the opportunity of the district court to judge the credibility of the witnesses, and shall accept the findings of fact of the district court unless they are clearly erroneous and, except with respect to determinations under subsection (3)(A) or (3)(B), shall give due deference to the district court's application of the guidelines to the facts. Withrespect to determinations under subsection (3)(A) or (3)(B), the court of appeals shall review de novo the district court's application of the guidelines to the facts.
+> The court of appeals shall give due regard to the opportunity of the district court to judge the credibility of the witnesses, and shall accept the findings of fact of the district court unless they are clearly erroneous and, except with respect to determinations under subsection (3)(A) or (3)(B), shall give due deference to the district court's application of the guidelines to the facts. With respect to determinations under subsection (3)(A) or (3)(B), the court of appeals shall review de novo the district court's application of the guidelines to the facts.
 
 (f)
 
 Decision and Disposition.—If the court of appeals determines that—
 
-&emsp;(1) the sentence was imposed in violation of law or imposed as a result of an incorrect application of the sentencing guidelines, the court shall remand the case for further sentencing proceedings with such instructions as the court considers appropriate;
+&emsp;(1) the sentence was imposed in violation of law or imposed as a result of an incorrect application of the sentencing guidelines, thecourt shall remand the case for further sentencing proceedings with such instructions as the court considers appropriate;
 
 &emsp;(2) the sentence is outside the applicable guideline range and the district court failed to provide the required statement of reasons in the order of judgment and commitment, or the departure is based on an impermissible factor, or is to an unreasonable degree, or the sentence was imposed for an offense for which there is no applicable sentencing guideline and is plainly unreasonable, it shall state specific reasons for its conclusions and—
 
@@ -216,7 +216,7 @@ Subsec. (e)(2)(B). Pub. L. 99–646, §73(a)(2), substituted provision directing
 
 #### Change of Name
 
-Words “Magistrate Judge” and “United States magistrate judge” substituted for “Magistrate” and “United States magistrate”, respectively, in subsec. (g) pursuant to section 321 of Pub. L. 101–650, set out as anote under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words “Magistrate Judge” and “United States magistrate judge” substituted for “Magistrate” and “United States magistrate”, respectively, in subsec. (g) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1987 Amendment
 
@@ -225,8 +225,4 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 #### Effective Date
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3143, 3553, 3557, 3562, 3572, 3582, 3664, 4106A of this title.
 

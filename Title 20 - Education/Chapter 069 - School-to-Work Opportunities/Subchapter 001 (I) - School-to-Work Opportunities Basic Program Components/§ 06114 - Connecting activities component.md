@@ -26,7 +26,3 @@ The connecting activities component of a School-to-Work Opportunities program sh
 
 (Pub. L. 103–239, title I, §104, May 4, 1994, 108 Stat. 577.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 6111, 6145, 6192 of this title.
-

@@ -58,7 +58,3 @@ Pub. L. 108–136, div. A, title XIII, §1301(a), Nov. 24, 2003, 117 Stat. 1657,
 
 Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1406.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5961 of this title.
-

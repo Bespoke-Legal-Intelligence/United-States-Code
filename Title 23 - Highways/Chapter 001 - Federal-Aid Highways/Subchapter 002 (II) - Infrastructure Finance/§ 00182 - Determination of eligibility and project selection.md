@@ -74,7 +74,7 @@ In general.—The selection criteria shall include the following:
 
 &emsp;&emsp;(B)
 
-Preliminary rating opinion letter.—For purposes of subparagraph (A)(ii), the Secretary shall require each project applicant to provide a preliminary rating opinion letter from at least 1 rating agency indicating that the project's senior obligations have the potential to achieve an investment-grade rating.
+Preliminary rating opinion letter.—For purposes of subparagraph (A)(ii), theSecretary shall require each project applicant to provide a preliminary rating opinion letter from at least 1 rating agency indicating that the project's senior obligations have the potential to achieve an investment-grade rating.
 
 (c)
 
@@ -95,8 +95,4 @@ The Civil Rights Act of 1964, referred to in subsec. (c)(1), is Pub. L. 88–352
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (c)(3), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat. 1894, as amended, and which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 183, 184 of this title.
 

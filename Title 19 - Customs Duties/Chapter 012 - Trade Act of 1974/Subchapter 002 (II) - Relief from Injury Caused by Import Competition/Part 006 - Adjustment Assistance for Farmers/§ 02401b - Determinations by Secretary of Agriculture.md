@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-As soon as practicable after the date on which a petition is filed under section 2401a of this title, but in any event not later than 40 days after that date, the Secretary shall determine whether the petitioning group meets the requirements of section 2401a(c) or (d) of this title, as the case may be, and shall, if the group meetsthe requirements, issue a certification of eligibility to apply for assistance under this part covering agricultural commodity producers in any group that meets the requirements. Each certification shall specify the date on which eligibility under this part begins.
+As soon as practicable after the date on which a petition is filed under section 2401a of this title, but in any event not later than 40 days after that date, the Secretary shall determine whether the petitioning group meets the requirements of section 2401a(c) or (d) of this title, as the case may be, and shall, if the group meets the requirements, issue a certification of eligibility to apply for assistance under this part covering agricultural commodity producers in any group that meets the requirements. Each certification shall specify the date on which eligibility under this part begins.
 
 #### (b) Notice
 
@@ -13,8 +13,4 @@ Upon making a determination on a petition, the Secretary shall promptly publish 
 Whenever the Secretary determines, with respect to any certification of eligibility under this part, that the decline in price for the agricultural commodity covered by the certification is no longer attributable to the conditions described in section 2401a of this title, the Secretary shall terminate such certification and promptly cause notice of such termination to be published in the Federal Register, together with the Secretary's reasons for making such determination.
 
 (Pub. L. 93–618, title II, §293, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 948.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2395, 2401a, 2401e of this title.
 

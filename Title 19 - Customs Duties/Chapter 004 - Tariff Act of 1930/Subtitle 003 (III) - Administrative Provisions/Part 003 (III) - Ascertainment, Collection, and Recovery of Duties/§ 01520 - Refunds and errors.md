@@ -16,17 +16,11 @@ The Secretary of the Treasury is authorized to refund duties or other receipts i
 
 The necessary moneys to make such refunds are authorized to be appropriated annually from the general fund of the Treasury.
 
-#### (c) Reliquidation of entry or reconciliation
-
-Notwithstanding a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry or reconciliation to correct—
-
-&emsp;(1) a clerical error, mistake of fact, or other inadvertence, whether or not resulting from or contained in electronic transmission, not amounting to an error in the construction of a law, adverse to the importer and manifest from the record or established by documentary evidence, in any entry, liquidation, or other customs transaction, when the error, mistake, or inadvertence is brought to the attention of the Customs Service within one year after the date of liquidation or exaction; or
-
-&emsp;(2) any assessment of duty on household or personal effects in respect of which an application for refund has been filed, with such employee as the Secretary of the Treasury shall designate, within one year after the date of entry.
+#### (c) Repealed. Pub. L. 108–429, title II, §2105, Dec. 3, 2004, 118 Stat. 2598
 
 #### (d) Goods qualifying under free trade agreement rules of origin
 
-Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties (including any merchandise processing fees) paid on a good qualifying under the rules of origin set out in section 3332 of this title or section 202 of the United States-Chile Free Trade Agreement Implementation Act for which no claim for preferential tariff treatment was madeat the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
+Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties (including any merchandise processing fees) paid on a good qualifying under the rules of origin set out in section 3332 of this title or section 202 of the United States-Chile Free Trade Agreement Implementation Act for which no claim for preferential tariff treatment was made at the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
 
 &emsp;(1) a written declaration that the good qualified under the applicable rules at the time of importation;
 
@@ -34,7 +28,7 @@ Notwithstanding the fact that a valid protest was not filed, the Customs Service
 
 &emsp;(3) such other documentation relating to the importation of the goods as the Customs Service may require.
 
-(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25, 1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; Pub. L. 91–271, title II, §210, June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title II, §210, Oct. 3, 1978, 92 Stat. 903; Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), Oct. 30, 1984, 98 Stat. 2977, 2984, renumbered Pub. L. 99–514, title XVIII, §1889(3), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, Dec. 8, 1993, 107 Stat. 2095, 2205, 2207; Pub. L. 106–36, title II, §2408(a), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §206, Sept. 3, 2003, 117 Stat. 931.)
+(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25, 1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; Pub. L. 91–271, title II, §210, June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title II, §210, Oct. 3, 1978, 92 Stat. 903; Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), Oct. 30, 1984, 98 Stat. 2977, 2984, renumbered Pub. L. 99–514, title XVIII, §1889(3), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, Dec. 8, 1993, 107 Stat. 2095, 2205, 2207; Pub. L. 106–36, title II, §2408(a), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §206, Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2105, Dec. 3, 2004, 118 Stat. 2598.)
 
 #### Amendment of Section
 
@@ -52,7 +46,7 @@ Act June 26, 1934, effective July 1, 1935, provided for repeal of certain perman
 
 This section, as originally enacted, contained a paragraph (b) making a permanent appropriation of the moneys necessary to make refunds. Effective July 1, 1935, paragraph (b) was repealed by act June 26, 1934, ch. 756, §2, 48 Stat. 1225, such act authorizing, in lieu thereof, an annual appropriation from the general fund of the Treasury.
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §520, 42 Stat. 973. That section was superseded by section 520 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §520, 42Stat. 973. That section was superseded by section 520 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions somewhat similar to those in subdivisions (1) and (3) of paragraph (a) for refund of moneys paid on account of unascertained or estimated duties or payments on appeal, and for correction of clerical errors within one year, with further provisions making an appropriation and requiring reports to Congress of moneys refunded, were contained in act Oct. 3, 1913, ch. 16, §III, Y, 38 Stat. 191, which reenacted the provisions of Customs Administrative Act June 10, 1890, ch. 407, §24, 26 Stat. 140, as renumbered and reenacted by Payne-Aldrich Tariff Act of August 5, 1909, ch. 6, §28, 36 Stat. 103. Said section III, Y, of the 1913 act was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
@@ -63,6 +57,8 @@ R.S. §3011 (as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and act
 Act June 7, 1924, ch. 357, 43 Stat. 660, authorizing the remission of unpaid customs duties on material belonging to the United States and theretofore imported by the War Department, was omitted from the Code as temporary.
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–429 struck out subsec. (c) which related to reliquidation of entry or reconciliation.
 
 2003—Subsec. (d). Pub. L. 108–77, §§107(c), 206(1), (2), temporarily inserted heading and inserted “or section 202 of the United States-Chile Free Trade Agreement Implementation Act” after “title” in introductory provisions. See Effective and Termination Dates of 2003 Amendment note below.
 
@@ -95,6 +91,10 @@ Subsec. (d). Pub. L. 98–573, §210(b), added subsec. (d).
 Subsec. (c)(2). Act Aug. 8, 1953, permitted correction of assessments of duty on household or personal effects which are subject to duty.
 
 1938—Subsecs. (b), (c). Act June 25, 1938, added subsecs. (b) and (c).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–429 applicable to merchandise entered, or withdrawn from warehouse for consumption, on or after the 15th day after Dec. 3, 2004, see section 2108 of Pub. L. 108–429, set out as a note under section 1401 of this title.
 
 #### Effective and Termination Dates of 2003 Amendment
 
@@ -141,8 +141,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Availability of Transportation and Storage Facilities for Military Purposes
 
 Act Sept. 29, 1942, ch. 567, 56 Stat. 761, authorized removal of merchandise in bond or customs custody from transportation and storage facilities needed for military purposes, prior to repeal by act July 25, 1947, ch. 327, §1, 61 Stat. 449.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1503, 1505, 1509, 1514 of this title.
 

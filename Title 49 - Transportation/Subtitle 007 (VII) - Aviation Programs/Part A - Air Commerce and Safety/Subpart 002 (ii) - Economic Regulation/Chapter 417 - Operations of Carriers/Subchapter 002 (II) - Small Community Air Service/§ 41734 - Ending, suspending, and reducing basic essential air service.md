@@ -8,7 +8,7 @@ Notice Required.—An air carrier may end, suspend, or reduce air transportation
 
 Continuation of Service for 30
 
-Days After Notice Period.—If at the end of the notice period under subsection (a) of this section the Secretary has not found another air carrier to provide basic essential air service to the eligible place, the Secretary shall require the carrier providing notice to continue to provide basic essential air service to the place for an additional 30-day period or until another carrierbegins to provide basic essential air service to the place, whichever occurs first.
+Days After Notice Period.—If at the end of the notice period under subsection (a) of this section the Secretary has not found another air carrier to provide basic essential air service to the eligible place, the Secretary shall require the carrier providing notice to continue to provide basic essential air service to the place for an additional 30-day period or until another carrier begins to provide basic essential air service to the place, whichever occurs first.
 
 (c)
 
@@ -94,7 +94,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(b)(2), (5)–(8); added Oct
 
 49 App.:1389(b)(7).
 
-In subsection (b), the words “If at the end of the notice period under subsection (a) of this section” are substituted for “If an air carrier has provided notice to the Secretary under paragraph (2) of such air carrier's intention to suspend, terminate, or reduce service to any eligible point below the level of basic essential airservice to such point, and if at the conclusion of the applicable period of notice” for clarity and to eliminate unnecessary words.
+In subsection (b), the words “If at the end of the notice period under subsection (a) of this section” are substituted for “If an air carrier has provided notice to the Secretary under paragraph (2) of such air carrier's intention to suspend, terminate, or reduce service to any eligible point below the level of basic essential air service to such point, and if at the conclusion of the applicable period of notice” for clarity and to eliminate unnecessary words.
 
 In subsection (c), the words “either with or without compensation” are omitted as unnecessary. The words “shall require the carrier providing service to continue to provide service for additional 30-day periods” are substituted for “shall extend such requirement for such additional 30-day periods . . . as may be necessary to continue basic essential air service to such eligible point”, and the words “the Secretary shall decide if another carrier will provide service on a continuing basis” are substituted for “making the same determination”, for clarity.
 
@@ -131,8 +131,4 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 #### Definitions
 
 For definitions of the terms “slot” and “high density airport” used in subsec. (h) of this section, see section 41714(h) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41110, 41714, 41732, 41733, 41735, 41737 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—JOB CORPS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2801 of this title; title 20 section 9274; title 48 section 1921d.
-
 
 ---
 

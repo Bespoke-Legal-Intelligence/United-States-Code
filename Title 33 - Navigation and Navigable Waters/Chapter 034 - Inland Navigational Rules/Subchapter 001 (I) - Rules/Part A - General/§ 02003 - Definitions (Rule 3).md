@@ -50,6 +50,10 @@ For the purpose of these Rules and this chapter, except where the context otherw
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3416; Pub. L. 100–448, §14(1), Sept. 28, 1988, 102 Stat. 1844.)
 
+#### Repeal of Section
+
+<i>Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that this section is repealed effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 2071 of this title.</i>
+
 #### References in Text
 
 These Rules and Inland Rules, referred to in text, mean the Inland Navigational Rules which are classified to this subchapter.
@@ -68,5 +72,5 @@ Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the I
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

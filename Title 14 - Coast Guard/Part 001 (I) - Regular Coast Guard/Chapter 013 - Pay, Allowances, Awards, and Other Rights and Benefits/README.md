@@ -9,7 +9,9 @@
 | [469\.](%C2%A7%2000469%20-%20Training.md) | Training. |
 | [470\.](%C2%A7%2000470%20-%20Special%20instruction%20at%20universities.md) | Special instruction at universities. |
 | [471\.](%C2%A7%2000471%20-%20Attendance%20at%20professional%20meetings.md) | Attendance at professional meetings. |
-| \[471a to 474. Repealed.\] |  |
+| \[471a. | Repealed.\] |
+| [472\.](%C2%A7%2000472%20-%20Education%20loan%20repayment%20program.md) | Education loan repayment program. |
+| \[473, 474. | Repealed.\] |
 | [475\.](%C2%A7%2000475%20-%20Leasing%20and%20hiring%20of%20quarters%3B%20rental%20of%20inadequate%20housing.md) | Leasing and hiring of quarters; rental of inadequate housing. |
 | [476\.](%C2%A7%2000476%20-%20Contingent%20expenses.md) | Contingent expenses. |
 | [477\.](%C2%A7%2000477%20-%20Equipment%20to%20prevent%20accidents.md) | Equipment to prevent accidents. |
@@ -52,6 +54,7 @@
 | [514\.](%C2%A7%2000514%20-%20Reimbursement%20for%20adoption%20expenses.md) | Reimbursement for adoption expenses. |
 | [515\.](%C2%A7%2000515%20-%20Child%20development%20services.md) | Child development services. |
 | [516\.](%C2%A7%2000516%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md) | Presentation of United States flag upon retirement. |
+| [517\.](%C2%A7%2000517%20-%20Travel%20card%20management.md) | Travel card management. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -60,6 +63,8 @@
 Chapter 13 of this title deals with pay, allowances, awards, and other rights and benefits for personnel of the Coast Guard. Some of these sections are new as applied to the Coast Guard, some clarify and consolidate existing law, and others merely restate existing law. There is no intention to amend, enlarge or curtail the Pay Readjustment Act of 1942, as amended. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+2004—Pub. L. 108–293, title II, §§210(b), 218(b), Aug. 9, 2004, 118 Stat. 1036, 1039, added items 472 and 517.
 
 2002—Pub. L. 107–295, title III, §312(b), Nov. 25, 2002, 116 Stat. 2102, added item 511 and struck out former item 511 “Compensatory absence of military personnel at isolated aids to navigation.”
 
@@ -83,7 +88,7 @@ Pub. L. 107–248, title VIII, §8143(c)(4)(B), Oct. 23, 2002, 116 Stat. 1571, a
 
 1970—Pub. L. 91–278, §1(12), June 12, 1970, 84 Stat. 306, substituted “Leasing and hiring of quarters; rental of inadequate housing” for “Hiring of quarters for personnel” as item 475.
 
-1968—Pub. L. 90–377, §7, July 5, 1968, 82 Stat. 288, substituted “Persons discharged as result of court-martial;allowances to” for “Prisoners; allowances to; transportation” in item 509.
+1968—Pub. L. 90–377, §7, July 5, 1968, 82 Stat. 288, substituted “Persons discharged as result of court-martial; allowances to” for “Prisoners; allowances to; transportation” in item 509.
 
 1966—Pub. L. 89–718, §73(c)(2), Nov. 2, 1966, 80 Stat. 1124, struck out reference to pay and allowances and to pay of officers indebted to the United States and inserted reference to discharge in item 461.
 
@@ -111,10 +116,6 @@ Act Aug. 1, 1956, ch. 837, title V, §502(8)(B), 70 Stat. 886, struck out item 4
 
 Act May 5, 1950, ch. 169, §16(b), 64 Stat. 149, added items 508 and 509.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 705 of this title.
-
 
 ---
 
@@ -132,7 +133,7 @@ This chapter is referred to in section 705 of this title.
 - [&sect; 00470 - Special instruction at universities](%C2%A7%2000470%20-%20Special%20instruction%20at%20universities.md)
 - [&sect; 00471 - Attendance at professional meetings](%C2%A7%2000471%20-%20Attendance%20at%20professional%20meetings.md)
 - [&sect; 00471a - Repealed. Pub. L. 87&#8211;651, title III, &sect;307B, Sept. 7, 1962, 76 Stat. 526](%C2%A7%2000471a%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93651%2C%20title%20III%2C%20%C2%A7307B%2C%20Sept.%207%2C%201962%2C%2076%20Stat.%20526.md)
-- [&sect; 00472 - Repealed. Aug. 3, 1950, ch. 536, &sect;36, 64 Stat. 408](%C2%A7%2000472%20-%20Repealed.%20Aug.%203%2C%201950%2C%20ch.%20536%2C%20%C2%A736%2C%2064%20Stat.%20408.md)
+- [&sect; 00472 - Education loan repayment program](%C2%A7%2000472%20-%20Education%20loan%20repayment%20program.md)
 - [&sect; 00473 - Repealed. Pub. L. 97&#8211;295, &sect;2(15)(A), Oct. 12, 1982, 96 Stat. 1302](%C2%A7%2000473%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93295%2C%20%C2%A72%2815%29%28A%29%2C%20Oct.%2012%2C%201982%2C%2096%20Stat.%201302.md)
 - [&sect; 00474 - Repealed. Sept. 1, 1954, ch. 1211, &sect;5, 68 Stat. 1130](%C2%A7%2000474%20-%20Repealed.%20Sept.%201%2C%201954%2C%20ch.%201211%2C%20%C2%A75%2C%2068%20Stat.%201130.md)
 - [&sect; 00475 - Leasing and hiring of quarters; rental of inadequate housing](%C2%A7%2000475%20-%20Leasing%20and%20hiring%20of%20quarters%3B%20rental%20of%20inadequate%20housing.md)
@@ -178,3 +179,4 @@ This chapter is referred to in section 705 of this title.
 - [&sect; 00514 - Reimbursement for adoption expenses](%C2%A7%2000514%20-%20Reimbursement%20for%20adoption%20expenses.md)
 - [&sect; 00515 - Child development services](%C2%A7%2000515%20-%20Child%20development%20services.md)
 - [&sect; 00516 - Presentation of United States flag upon retirement](%C2%A7%2000516%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md)
+- [&sect; 00517 - Travel card management](%C2%A7%2000517%20-%20Travel%20card%20management.md)

@@ -1557,6 +1557,10 @@ Purposes for which grants may be used.
 
 State coalition grants.
 
+(d)
+
+Tribal coalition grants.
+
 |  |  |
 | :--- | ---: |
 | 3796gg–0. | Establishment of Violence Against Women Office. |
@@ -2188,6 +2192,10 @@ Facilities costs.
 
 Administrative costs.
 
+(e)
+
+Backlog defined.
+
 |  |  |
 | :--- | ---: |
 | [3797n.](Subchapter%20015%20%28XV%29%20-%20Paul%20Coverdell%20Forensic%20Sciences%20Improvement%20Grants/%C2%A7%2003797n%20-%20Administrative%20provisions.md) | Administrative provisions. |
@@ -2438,13 +2446,49 @@ Certification.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XIX—ADULT AND JUVENILE COLLABORATION PROGRAM GRANTS
+
+|  |  |
+| :--- | ---: |
+| [3797aa](Subchapter%20019%20%28XIX%29%20-%20Adult%20and%20Juvenile%20Collaboration%20Program%20Grants/%C2%A7%2003797aa%20-%20Adult%20and%20juvenile%20collaboration%20programs.md) | Adult and juvenile collaboration programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Definitions.
+
+(b)
+
+Planning and implementation grants.
+
+(c)
+
+Priority.
+
+(d)
+
+Matching requirements.
+
+(e)
+
+Federal use of funds.
+
+(f)
+
+Interagency task force.
+
+(g)
+
+Minimum allocation.
+
+(h)
+
+Authorization of appropriations.
+
 #### Codification
 
-Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising this chapter, was originally enacted by Pub. L. 90–351, June 19, 1968, 82 Stat. 197, and amended by Pub. L. 91–644, Jan. 2, 1971, 84 Stat. 1880; Pub. L. 93–83, Aug. 6, 1973, 87 Stat. 197; Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 94–237, Mar. 19, 1976, 90 Stat. 241; Pub. L. 94–273, Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–430, Sept. 29, 1976, 90 Stat. 1346; Pub. L. 94–503, Oct. 15, 1976, 90 Stat. 2407; Pub. L. 95–115, Oct. 3, 1977, 91 Stat. 1048. Such title is shown herein, however,as having been added by Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, without reference to such intervening amendments because of the extensive revision of the title's provisions by Pub. L. 96–157.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 5119b, 10501 of this title.
+Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising this chapter, was originally enacted by Pub. L. 90–351, June 19, 1968, 82 Stat. 197, and amended by Pub. L. 91–644, Jan. 2, 1971, 84 Stat. 1880; Pub. L. 93–83, Aug. 6, 1973, 87 Stat. 197; Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 94–237, Mar. 19, 1976, 90 Stat. 241; Pub. L. 94–273, Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–430, Sept. 29, 1976, 90 Stat. 1346; Pub. L. 94–503, Oct. 15, 1976, 90 Stat. 2407; Pub. L. 95–115, Oct. 3, 1977, 91 Stat. 1048. Such title is shown herein, however, as having been added by Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, without reference to such intervening amendments because of the extensive revision of the title's provisions by Pub. L. 96–157.
 
 
 ---
@@ -2483,3 +2527,4 @@ This chapter is referred to in sections 5119b, 10501 of this title.
 - [Subchapter 016 (XVI) - Drug Courts](Subchapter%20016%20%28XVI%29%20-%20Drug%20Courts/README.md)
 - [Subchapter 017 (XVII) - Offender Reentry and Community Safety](Subchapter%20017%20%28XVII%29%20-%20Offender%20Reentry%20and%20Community%20Safety/README.md)
 - [Subchapter 018 (XVIII) - Crime Free Rural State Grants](Subchapter%20018%20%28XVIII%29%20-%20Crime%20Free%20Rural%20State%20Grants/README.md)
+- [Subchapter 019 (XIX) - Adult and Juvenile Collaboration Program Grants](Subchapter%20019%20%28XIX%29%20-%20Adult%20and%20Juvenile%20Collaboration%20Program%20Grants/README.md)

@@ -34,7 +34,3 @@ Sec. 3. Implementing regulations adopted pursuant to this Order shall, at a mini
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 202 of this title.
-

@@ -14,7 +14,7 @@ The Ambassador at Large shall have the following responsibilities:
 
 #### (1) In general
 
-&emsp;The primary responsibility of the Ambassador at Large shall be to advance the right to freedom of religion abroad, to denounce the violation of that right, and to recommend appropriate responses by the United States Government when this right is violated.
+&emsp;The primary responsibility of the Ambassador at Large shall be to advance the right tofreedom of religion abroad, to denounce the violation of that right, and to recommend appropriate responses by the United States Government when this right is violated.
 
 #### (2) Advisory role
 
@@ -41,8 +41,4 @@ The Ambassador at Large shall have the following responsibilities:
 The Secretary of State shall provide the Ambassador at Large with such funds as may be necessary for the hiring of staff for the Office, for the conduct of investigations by the Office, and for necessary travel to carry out the provisions of this section.
 
 (Pub. L. 105–292, title I, §101, Oct. 27, 1998, 112 Stat. 2791.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4028, 6402 of this title.
 

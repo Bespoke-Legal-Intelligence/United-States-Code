@@ -44,7 +44,3 @@ In subsection (a)(2), the words “in any manner whatsoever” are omitted as un
 
 In subsection (b), the words “set out the categories of equipment” are substituted for “showing . . . categories of equipment” to clarify the required form and content of the report. The words “The Administrator shall submit a report to the Senate (or to the Secretary of the Senate if the Senate is not in session) and to the House of Representatives (or to the Clerk of the House if the House is not in session) summarizing and analyzing the reports of the executive agencies” are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note). See, also, page 173 of House Document No. 103–7.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 556 of this title.
-

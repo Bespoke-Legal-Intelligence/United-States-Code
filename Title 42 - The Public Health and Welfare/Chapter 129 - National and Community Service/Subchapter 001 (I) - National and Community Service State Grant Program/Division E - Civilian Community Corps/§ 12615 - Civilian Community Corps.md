@@ -50,7 +50,7 @@ The Director shall ensure that the Corps units and camps are distributed in urba
 
 #### (1) In general
 
-&emsp;The superintendent of each camp shall establish and enforce standards of conduct topromote proper moral and disciplinary conditions in the camp.
+&emsp;The superintendent of each camp shall establish and enforce standards of conduct to promote proper moral and disciplinary conditions in the camp.
 
 #### (2) Sanctions
 
@@ -91,8 +91,4 @@ Subsec. (d)(3). Pub. L. 103–82, §104(e)(2)(C)(iii), substituted “section 12
 #### Effective Date of 1993 Amendment
 
 Amendment by section 104(b), (e)(2)(C) of Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12626 of this title.
 

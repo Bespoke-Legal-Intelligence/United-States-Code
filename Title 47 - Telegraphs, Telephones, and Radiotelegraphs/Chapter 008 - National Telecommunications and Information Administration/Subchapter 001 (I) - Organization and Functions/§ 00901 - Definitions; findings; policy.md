@@ -28,7 +28,7 @@ The Congress finds the following:
 
 &emsp;(5) As one of the largest users of the Nation's telecommunications facilities and resources, the Federal Government must manage its radio spectrum use and other internal communications operations in the most efficient and effective manner possible.
 
-&emsp;(6) It is in the national interest to codify the authority of the National Telecommunications and Information Administration, an agency in the Department of Commerce, as the executive branch agency principally responsible for advising the President on telecommunications and information policies, and for carrying out the related functions it currently performs, as reflected in Executive Order 12046.
+&emsp;(6) It is in the national interest to codify the authority of the National Telecommunications and Information Administration, an agency in the Department of Commerce, asthe executive branch agency principally responsible for advising the President on telecommunications and information policies, and for carrying out the related functions it currently performs, as reflected in Executive Order 12046.
 
 #### (c) Policy
 
@@ -53,6 +53,12 @@ This chapter, referred to in subsec. (a), was in the original, “this title”,
 The Communications Satellite Act of 1962, referred to in subsec. (a)(5), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended. Title III of the Act is classified generally to subchapter III (§731 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 Executive Order 12046, referred to in subsec. (b)(6), is set out as a note under section 305 of this title.
+
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–494, title I, §101, Dec. 23, 2004, 118 Stat. 3986, provided that: “This title \[enacting section 942 of this title and provisions set out as notes under section 942 of this title\] may be cited as the ‘Ensuring Needed Help Arrives Near Callers Employing 911 Act of 2004’ or the ‘ENHANCE 911 Act of 2004’.”
+
+Pub. L. 108–494, title II, §201, Dec. 23, 2004, 118 Stat. 3991, provided that: “This title \[enacting section 928 of this title, amending sections 309, 614, and 923 of this title, and enacting provisions set out as notes under sections 921, 923, and 928 of this title\] may be cited as the ‘Commercial Spectrum Enhancement Act’.”
 
 #### Short Title of 2002 Amendment
 
@@ -90,7 +96,7 @@ Sec. 3. <i>Administration</i>. (a) The heads of Executive agencies shall, to the
 
 (c) Any expenses of the Committee shall, to the extent permitted by law, be paid from funds available to the Secretary of Homeland Security.
 
-Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive Order, the functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), except that of reporting annually to the Congress, which are applicable to the Committee, shall be performed by the Secretary of Homeland Security, in accord with guidelines and procedures established by the Administrator of General Services.
+Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive Order, the functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), except that of reporting annually to the Congress, which are applicable to the Committee, shall be performed by the Secretary of Homeland Security, inaccord with guidelines and procedures established by the Administrator of General Services.
 
 (b) In accordance with the Federal Advisory Committee Act, as amended, the Committee shall terminate on December 31, 1982, unless sooner extended.
 

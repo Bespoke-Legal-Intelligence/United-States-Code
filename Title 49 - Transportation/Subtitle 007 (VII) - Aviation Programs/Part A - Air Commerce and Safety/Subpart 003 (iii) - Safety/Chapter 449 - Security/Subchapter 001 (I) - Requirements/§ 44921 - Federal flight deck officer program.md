@@ -88,7 +88,7 @@ Elements.—The training of a Federal flight deck officer shall include, at a mi
 
 &emsp;&emsp;&emsp;(ii) Training to ensure that the officer maintains exclusive control over the officer's firearm at all times, including training in defensive maneuvers.
 
-&emsp;&emsp;&emsp;(iii) Training to assist the officer in determining when it is appropriate to use the officer's firearm and when it is appropriate to use less than lethal force.
+&emsp;&emsp;&emsp;(iii) Training to assist the officer in determining when it is appropriate to use theofficer's firearm and when it is appropriate to use less than lethal force.
 
 &emsp;&emsp;(C)
 
@@ -182,7 +182,7 @@ Procedures Following Accidental Discharges.—If an accidental discharge of a fi
 
 (j)
 
-Limitation on Authority of Air Carriers.—No air carrier shall prohibit or threaten any retaliatory action against a pilot employed by the air carrier from becoming a Federal flight deck officer under this section. No air carrier shall—
+Limitation on Authority of Air Carriers.—No air carrier shall prohibit or threatenany retaliatory action against a pilot employed by the air carrier from becoming a Federal flight deck officer under this section. No air carrier shall—
 
 &emsp;(1) prohibit a Federal flight deck officer from piloting an aircraft operated by the air carrier; or
 
@@ -237,10 +237,6 @@ Pub. L. 108–176, title VI, §609(c), Dec. 12, 2003, 117 Stat. 2570, provided t
 #### Time for Implementation
 
 Pub. L. 108–176, title VI, §609(d), Dec. 12, 2003, 117 Stat. 2570, provided that: “The requirements of subsection (e) \[section 609 of Pub. L. 108–176 has no subsec. (e)\] shall have no effect on the deadlines for implementation contained in section 44921 of title 49, United States Code, as in effect on the day before the date of enactment of this Act \[Dec. 12, 2003\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 44940 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

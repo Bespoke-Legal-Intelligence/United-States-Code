@@ -14,7 +14,7 @@ The clerical staff of each standing committee of the Senate (other than the Comm
 
 #### (d) Recordation of committee hearings, data, etc.; access to records
 
-All committee hearings, records, data, charts, and files shall be kept separate and distinct from the congressional office records of the Member serving as chairman of the committee; and such records shall be the property of theCongress and all members of the committee and the respective Houses shall have access to such records. Each committee is authorized to have printed and bound such testimony and other data presented at hearings held by the committee.
+All committee hearings, records, data, charts, and files shall be kept separate and distinct from the congressional office records of the Member serving as chairman of the committee; and such records shall be the property of the Congress and all members of the committee and the respective Houses shall have access to such records. Each committee is authorized to have printed and bound such testimony and other data presented at hearings held by the committee.
 
 #### (e) Repealed. Pub. L. 91–510, title IV, §477(a)(3), Oct. 26, 1970, 84 Stat. 1195
 
@@ -24,7 +24,7 @@ No committee shall appoint to its staff any experts or other personnel detailed 
 
 #### (g) Appointments when no vacancy exists; payment from Senate contingent fund
 
-In any case in which a request for the appointment of a minority staff member under subsection (a) or subsection (c) of this section is made at any time when no vacancy exists to which the appointment requested may be made—
+In any case in which a request for the appointment of a minority staff member under subsection (a) or subsection (c) of this section is made at any time when no vacancy exists towhich the appointment requested may be made—
 
 &emsp;(1) the person appointed pursuant to such a request under subsection (a) of this section may serve in addition to any other professional staff members authorized by such subsection and may be paid from the contingent fund of the Senate until such time as such a vacancy occurs, at which time such person shall be considered to have been appointed to such vacancy; and
 
@@ -50,7 +50,7 @@ Staff members appointed pursuant to a request by minority members of a committee
 
 (3) A committee providing assistance under this subsection shall obtain from any employee receiving such assistance such agreement with respect to continued employment with the committee as the committee may deem necessary to assure that it will receive the benefits of such employee's services upon completion of his training.
 
-(4) During any period for which an employee is separated from employment with a committee for the purpose of undergoing training under this subsection, such employee shall be considered to have performed service (in nonpay status) as an employee of the committee at the rate of compensation received immediately prior to commencing such training (including any increases in compensation provided by law during the period of training) for the purposes of—
+(4) During any period for which an employee is separated from employment with a committeefor the purpose of undergoing training under this subsection, such employee shall be considered to have performed service (in nonpay status) as an employee of the committee at the rate of compensation received immediately prior to commencing such training (including any increases in compensation provided by law during the period of training) for the purposes of—
 
 &emsp;(A) subchapter III (relating to civil service retirement) of chapter 83 of title 5,
 
@@ -84,9 +84,9 @@ Subsec. (k)(5) was based on House Resolution No. 239 of the Eighty-fifth Congres
 
 #### Amendments
 
-<b>1997</b>—Subsec. (j)(1). Pub. L. 105–55 amended directory language of Pub. L. 104–186, §204(11). See 1996 Amendment note below.
+1997—Subsec. (j)(1). Pub. L. 105–55 amended directory language of Pub. L. 104–186, §204(11). See 1996 Amendment note below.
 
-<b>1996</b>—Subsec. (f). Pub. L. 104–186, §204(10)(A), substituted “House Oversight” for “House Administration”.
+1996—Subsec. (f). Pub. L. 104–186, §204(10)(A), substituted “House Oversight” for “House Administration”.
 
 Subsec. (i)(1). Pub. L. 104–186, §204(10), substituted “House Oversight” for “House Administration”, “contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions which, in the case of the Senate,” for “contingent funds of the respective Houses pursuant to resolutions, which”, and “the appropriate House” for “such respective Houses”.
 
@@ -94,13 +94,13 @@ Subsec. (i)(3). Pub. L. 104–186, §204(10)(A), substituted “House Oversight�
 
 Subsec. (j)(1). Pub. L. 104–186, §204(11), as amended by Pub. L. 105–55, §105(a), substituted “committee involved in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions, which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House” for “Committee on House Administration in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent funds of the respective Houses pursuant to resolutions, which shall specify the maximum amounts which may be used for such purpose, approved by such respective Houses” and “Chief Administrative Officer of the House of Representatives” for “Clerk of the House”.
 
-<b>1988</b>—Subsec. (i)(1). Pub. L. 100–458 inserted “or with respect to the administration of the affairs of the committee” before period at end.
+1988—Subsec. (i)(1). Pub. L. 100–458 inserted “or with respect to the administration of the affairs of the committee” before period at end.
 
-<b>1971</b>—Subsec. (g). Pub. L. 92–136, §5(a), permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any other clerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that this status continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
+1971—Subsec. (g). Pub. L. 92–136, §5(a), permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any other clerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that this status continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
 
-Subsec. (j)(1). Pub. L. 92–136, §5(b), authorized the same training opportunities for professional staff members of the Senate Appropriations Committee, the Senate Majority and Minority Policy Committees and joint committees whose expenses are paid out of funds disbursed by the Secretary of the Senate or the Clerk of the House, as are afforded to professional staff members of standing committees.
+Subsec. (j)(1). Pub. L. 92–136, §5(b), authorized the same training opportunities for professional staff members of the Senate Appropriations Committee, the Senate Majority and Minority Policy Committees and joint committees whose expenses are paid out of fundsdisbursed by the Secretary of the Senate or the Clerk of the House, as are afforded to professional staff members of standing committees.
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–510, §301(a), restricted the provisions to standing committees of the Senate, deleting “and the House of Representatives” after “Senate”, increased numerical limitation of professional staff members from four to six, provided for appointment of two staff members by majority vote of minority members of a committee whenever majority of minority members so request and assignment of such appointees to such committee business as the minority members deem advisable, and substituted provision for termination of services of staff members appointed by majority vote of the committee and services of members appointed pursuant to request of minority members of the committee by the committee when majority of such minority members so request for prior termination provision by majority vote of the committee.
+1970—Subsec. (a). Pub. L. 91–510, §301(a), restricted the provisions to standing committees of the Senate, deleting “and the House of Representatives” after “Senate”, increased numerical limitation of professional staff members from four to six, provided for appointment of two staff members by majority vote of minority members of a committee whenever majority of minority members so request and assignment of such appointees to such committee business as the minority members deem advisable, and substituted provision for termination of services of staff members appointed by majority vote of the committee and services of members appointed pursuant to request of minority members of the committee by the committee when majority of such minority members so request for prior termination provision by majority vote of the committee.
 
 Subsec. (c). Pub. L. 91–510, §301(b), inserted “of the Senate (other than the Committee on Appropriations)” after “each standing committee”, provided for appointment of one clerical staff member by majority vote of minority members of a committee whenever majority of minority members so request and handling by such appointee of committee correspondence and stenographic work for minority members of the committee and for any members of the committee staff appointed under subsec. (a) of this section pursuant to request by the minority members, on matters related to committee work, and for termination of services of clerical staff members appointed by majority vote of the committee and services of members appointed pursuant to request of minority members of the committee by the committee when majority of such minority members so request.
 
@@ -114,15 +114,15 @@ Subsec. (i). Pub. L. 91–510, §303, added subsec. (i).
 
 Subsec. (j). Pub. L. 91–510, §304, added subsec. (j).
 
-<b>1964</b>—Subsec. (e). Pub. L. 88–426 increased maximum basic annual compensation to professional staff members and clerical staff from $8,880 to highest amount which, together with additional compensation authorized by law, will not exceed maximum rate authorized by Classification Act of 1949, as amended.
+1964—Subsec. (e). Pub. L. 88–426 increased maximum basic annual compensation to professional staff members and clerical staff from $8,880 to highest amount which, together with additional compensation authorized by law, will not exceed maximum rate authorized by Classification Act of 1949, as amended.
 
-<b>1958</b>—Subsec. (e). Pub. L. 85–462 substituted “$8,880” for “$8,820” in two places.
+1958—Subsec. (e). Pub. L. 85–462 substituted “$8,880” for “$8,820” in two places.
 
-<b>1955</b>—Subsec. (e). Act Aug. 5, 1955, increased maximum basic annual compensation of professional staff and clerical staff from $8,000 to $8,820.
+1955—Subsec. (e). Act Aug. 5, 1955, increased maximum basic annual compensation of professional staff and clerical staff from $8,000 to $8,820.
 
-<b>1949</b>—Subsec. (g). Act Feb. 24, 1949, repealed subsec. (g).
+1949—Subsec. (g). Act Feb. 24, 1949, repealed subsec. (g).
 
-<b>1947</b>—Subsec. (e). Act July 30, 1947, omitted figure $2,000 as lowest salary to be paid clerks.
+1947—Subsec. (e). Act July 30, 1947, omitted figure $2,000 as lowest salary to be paid clerks.
 
 #### Change of Name
 
@@ -146,7 +146,7 @@ Section 601 of Pub. L. 91–510 provided that:
 
 “(2) Part 2 of title II \[amending section 11 of former Title 31\] shall be effective with respect to fiscal years beginning on or after July 1, 1972.
 
-“(3) Section 203(d)(2) and (3) of the Legislative Reorganization Act of 1946, as amended by section 321 of thisAct \[section 166(d)(2) and (3) of this title\], shall become effective at the close of the first session of the Ninety-second Congress.
+“(3) Section 203(d)(2) and (3) of the Legislative Reorganization Act of 1946, as amended by section 321 of this Act \[section 166(d)(2) and (3) of this title\], shall become effective at the close of the first session of the Ninety-second Congress.
 
 “(4) Section 203(i) of the Legislative Reorganization Act of 1946, as amended by section 321 of this Act \[section 166(i) of this title\], shall be effective with respect to fiscal years beginning on or after July 1, 1970.
 
@@ -168,7 +168,7 @@ Amendment by act Aug. 5, 1955, effective Aug. 1, 1955, see section 14 of that ac
 
 #### Effective Date
 
-Section 245 of title II of act Aug. 2, 1946, provided that: “This title \[see Tables for classification\] shall take effect on the date of its enactment \[Aug. 2, 1946\]; except that sections 202(a), (b), (c), (e), (f), and (h), 222, 223, 224, and 243 shall take effect on the day on which the Eightieth Congress convenes \[Jan. 3, 1947\].”
+Section 245 of title II of act Aug. 2, 1946, provided that: “This title \[see Tables for classification\] shalltake effect on the date of its enactment \[Aug. 2, 1946\]; except that sections 202(a), (b), (c), (e), (f), and (h), 222, 223, 224, and 243 shall take effect on the day on which the Eightieth Congress convenes \[Jan. 3, 1947\].”
 
 #### Short Title
 
@@ -222,7 +222,7 @@ S. Res. 243, One Hundredth Congress, July 1, 1987, provided: “That (a) there i
 
 “
 
-Sec. 2. (a) The Secretary shall appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this resolution. The Director, with the approval of the Secretary, shall prescribe the duties and responsibilities of such personnel. If a Director is not appointed, the Office shall be headed by an Acting Director. The Secretary shall appoint and fix the compensation of the Acting Director.
+Sec. 2. (a) The Secretary shall appoint and fix the compensation of such personnel as may be necessary tocarry out the provisions of this resolution. The Director, with the approval of the Secretary, shall prescribe the duties and responsibilities of such personnel. If a Director is not appointed, the Office shall be headed by an Acting Director. The Secretary shall appoint and fix the compensation of the Acting Director.
 
 “(b) The Majority and Minority Leaders of the Senate may each designate a Majority staff assistant and a Minority staff assistant to serve as their liaisons to the Office. Upon such designation, the Secretary shall appoint and fix the compensation of the Majority and Minority liaison assistants.
 
@@ -273,8 +273,4 @@ Pub. L. 95–391, title I, §105, Sept. 30, 1978, 92 Stat. 772, as amended by Pu
 #### Authorization of Appropriations
 
 Section 244 of act Aug. 2, 1946, provided in part: “All necessary funds required to carry out the provisions of this Act \[see Short Title note above for classification\], by the Secretary of the Senate and the Clerk of the House, are hereby authorized to be appropriated.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 72d, 288, 442 of this title.
 

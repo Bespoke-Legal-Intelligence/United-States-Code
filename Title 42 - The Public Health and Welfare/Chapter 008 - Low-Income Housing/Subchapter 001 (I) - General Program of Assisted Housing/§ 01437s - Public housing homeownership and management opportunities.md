@@ -18,7 +18,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 &emsp;(A) The Secretary may provide assistance from the Capital Fund to a public housing project in which homeownership activities under this section are conducted.
 
-&emsp;(B) The Secretary may provide financial assistance to public housing agencies, resident management corporations, or resident councils that obtain, by contract or otherwise, training, technical assistance, and educational assistance as the Secretary determines to be necessary to promote homeownership opportunities under this section.
+&emsp;(B) The Secretary may provide financial assistance to public housing agencies, resident management corporations, or resident councils that obtain, by contract or otherwise, training, technical assistance, and educational assistance as the Secretary determines to benecessary to promote homeownership opportunities under this section.
 
 &emsp;(C) This paragraph shall not have effect after February 4, 1991. The Secretary may not provide financial assistance under subparagraph (B), after such date, unless the Secretary determines that such assistance is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990.
 
@@ -80,7 +80,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 &emsp;&emsp;(ii) the value, as determined by such means as the Secretary shall determine through regulation, of any improvements installed at the expense of the owner during the owner's tenure as owner; and
 
-&emsp;&emsp;(iii) the appreciated value determined by an inflation allowance at a rate which may be based on a cost of living index, an income index, or market index as determined by the Secretary through regulation and agreed toby the purchaser and the resident management corporation or the public housing agency, whichever is appropriate, at the time of initial sale, and applied against the contribution to equity; the resident management corporation or the public housing agency may, at the time of initial sale, enter into an agreement with the owner to set a maximum amount which this appreciation may not exceed.
+&emsp;&emsp;(iii) the appreciated value determined by an inflation allowance at a rate which may be based on a cost of living index, an income index, or market index as determined by the Secretary through regulation and agreed to by the purchaser and the resident management corporation or the public housing agency, whichever is appropriate, at the time of initial sale, and applied against the contribution to equity; the resident management corporation or the public housing agency may, at the time of initial sale, enter into an agreement with the owner to set a maximum amount which this appreciation may not exceed.
 
 &emsp;(E) Upon sale, the resident management corporation or the public housing agency, whichever is appropriate, shall ensure that subsequent owners are bound by the same limitations on resale and further restrictions on equity appreciation.
 
@@ -140,7 +140,7 @@ The Secretary shall issue such regulations as may be necessary to carry out the 
 
 Any authority of the Secretary under this section to provide financial assistance, or to enter into contracts to provide financial assistance, shall be effective only to such extent or in such amounts as are or have been provided in advance in an appropriation Act.
 
-(Sept. 1, 1937, ch. 896, title I, §21, as added Pub. L. 100–242, title I, §123, Feb. 5, 1988, 101 Stat. 1842;renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; amended Pub. L. 101–625, title IV, §416, title V, §572(1), Nov. 28, 1990, 104 Stat. 4161, 4236; Pub. L. 102–550, title I, §118, Oct. 28, 1992, 106 Stat. 3695; Pub. L. 104–66, title I, §1071(a), Dec. 21, 1995, 109 Stat. 720; Pub. L. 105–276, title V, §§518(a)(2)(A), 532(b), Oct. 21, 1998, 112 Stat. 2551, 2575.)
+(Sept. 1, 1937, ch. 896, title I, §21, as added Pub. L. 100–242, title I, §123, Feb. 5, 1988, 101 Stat. 1842; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; amended Pub. L. 101–625, title IV, §416, title V, §572(1), Nov. 28, 1990, 104 Stat. 4161, 4236; Pub. L. 102–550, title I, §118, Oct. 28, 1992, 106 Stat. 3695; Pub. L. 104–66, title I, §1071(a), Dec. 21, 1995, 109 Stat. 720; Pub. L. 105–276, title V, §§518(a)(2)(A), 532(b), Oct. 21, 1998, 112 Stat. 2551, 2575.)
 
 #### References in Text
 

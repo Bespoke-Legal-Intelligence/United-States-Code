@@ -52,7 +52,3 @@ This amends 49:44711(a)(2)(B), (5), and (7) and 46310(b) to correct erroneous cr
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
-

@@ -28,7 +28,7 @@ The report and order of the Office under this section shall become the final age
 
 The Secretary may enforce a final order of the Office under this section which becomes final agency action by—
 
-&emsp;(1) withholding from the recipient any portion of the amount payable to it, including the amount payable for administrative costs, under the applicable program; or
+&emsp;(1) withholding from the recipient any portion of the amount payable to it, including theamount payable for administrative costs, under the applicable program; or
 
 &emsp;(2) certifying the facts to the Attorney General who shall cause an appropriate proceeding to be brought for the enforcement of the order.
 
@@ -41,8 +41,4 @@ The Secretary may enforce a final order of the Office under this section which b
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1234, 1234c, 1234g, 6777 of this title.
 

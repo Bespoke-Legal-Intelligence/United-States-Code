@@ -24,7 +24,7 @@ To be eligible for benefits from the Facility under this subchapter, a country m
 
 #### (b) Eligibility determinations
 
-Consistent with subsection (a) of this section, the President shall determine whether a countryis eligible to receive benefits under this subchapter. The President shall notify the appropriate congressional committees of his intention to designate a country as an eligible country at least 15 days in advance of any formal determination.
+Consistent with subsection (a) of this section, the President shall determine whether a country is eligible to receive benefits under this subchapter. The President shall notify the appropriate congressional committees of his intention to designate a country as an eligible country at least 15 days in advance of any formal determination.
 
 (Pub. L. 87–195, pt. IV, §703, as added Pub. L. 102–549, title VI, §602(a), Oct. 28, 1992, 106 Stat. 3664.)
 
@@ -36,9 +36,5 @@ A prior section 703 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 463, am
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
-Functions of President under this section delegated to Secretary of the Treasury by section 1 of Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, set out as a note under section 1738 of Title 7, Agriculture.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2430a, 2430g, 2431c of this title.
+For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of Title 7, Agriculture.
 

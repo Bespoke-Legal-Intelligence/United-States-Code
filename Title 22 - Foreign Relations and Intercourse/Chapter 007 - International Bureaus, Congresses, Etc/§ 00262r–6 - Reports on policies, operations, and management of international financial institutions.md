@@ -1,8 +1,6 @@
 ### §262r–6. Reports on policies, operations, and management of international financial institutions
 
-#### (a) Annual report on financial operations
-
-Beginning 180 days after the date of enactment of this Act \[November 6, 2000\], or October 31, 2000, whichever is later, and on October 31 of each year thereafter, the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the sufficiency of audits of the financial operations of each multilateral development bank conducted by persons or entities outside such bank.
+#### (a) Repealed. Pub. L. 108–199, div. D, title V, §599B(c), Jan. 23, 2004, 118 Stat. 211
 
 #### (b) Annual report on United States supported policies
 
@@ -22,7 +20,7 @@ Not later than 90 days after the date of enactment of this Act \[November 6, 200
 
 &emsp;(2) the extent to which debt relief contributes to the graduation of a country from reliance on financing on concessionary terms and international development assistance.
 
-(Pub. L. 106–429, §101(a) \[title VIII, §803\], Nov. 6, 2000, 114 Stat. 1900, 1900A–66.)
+(Pub. L. 106–429, §101(a) \[title VIII, §803\], Nov. 6, 2000, 114 Stat. 1900, 1900A–66; Pub. L. 108–199, div. D, title V, §599B(c), Jan. 23, 2004, 118 Stat. 211.)
 
 #### References in Text
 
@@ -31,6 +29,10 @@ Section 802(b), referred to in subsec. (b)(1), is section 101(a), \[title VIII, 
 #### Codification
 
 Section is comprised of section 101(a) \[title VIII, §803\] of Pub. L. 106–429. Section 101(a) \[title VIII, §803(c)\] of Pub. L. 106–429 amended section 262r–4 of this title.
+
+#### Amendments
+
+2004—Pub. L. 108–199 repealed heading and text of subsec. (a). Text read as follows: “Beginning 180 days after the date of enactment of this Act, or October 31, 2000, whichever is later, and on October 31 of each year thereafter, the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the sufficiency of audits of the financial operations of each multilateral development bank conducted by persons or entities outside such bank.”
 
 #### Definitions
 
@@ -50,7 +52,7 @@ Fund.—The term ‘Fund’ means the International Monetary Fund.
 
 &emsp;“(4)
 
-International financial institutions.—The term ‘international financial institutions’ means the multilateral development banks and the International Monetary Fund.
+International financial institutions.—The term ‘international financial institutions’ means themultilateral development banks and the International Monetary Fund.
 
 &emsp;“(5)
 

@@ -22,15 +22,11 @@ For the purpose of this subchapter—
 
 &emsp;(7) the term “comparability payment” means a payment payable under section 5304;
 
-&emsp;(8) the term “rates of pay under the General Schedule”, “rates of pay for the General Schedule”, or “scheduled rates of basic pay” means—
-
-&emsp;&emsp;(A) the rates of basic pay set forth in the General Schedule; and
-
-&emsp;&emsp;(B) in the case of an employee receiving a retained rate of basic pay under section 5363, the rate of basic pay payable under such section; and
+&emsp;(8) the term “rates of pay under the General Schedule”, “rates of pay for the General Schedule”, or “scheduled rates of basic pay”means the rates of basic pay under the General Schedule as established by section 5332, excluding pay under section 5304 and any other additional pay of any kind; and
 
 &emsp;(9) the term “General Schedule position” means any position to which subchapter III applies.
 
-(Added Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1429; amended Pub. L. 102–378, §2(25), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 103–89, §3(b)(1)(E), Sept. 30, 1993, 107 Stat. 981.)
+(Added Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1429; amended Pub. L. 102–378, §2(25), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 103–89, §3(b)(1)(E), Sept. 30, 1993, 107 Stat. 981; Pub. L. 108–411, title III, §301(a)(1), Oct. 30, 2004, 118 Stat. 2313.)
 
 #### References in Text
 
@@ -42,6 +38,12 @@ A prior section 5302, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458, provided fo
 
 #### Amendments
 
+2004—Par. (8). Pub. L. 108–411 added par. (8) and struck out former par. (8) which read as follows: “the term ‘rates of pay under the General Schedule’, ‘rates of pay for the General Schedule’, or ‘scheduled rates of basic pay’ means—
+
+&emsp;“(A) the rates of basic pay set forth in the General Schedule; and
+
+&emsp;“(B) in the case of an employee receiving a retained rate of basic pay under section 5363, the rate of basic pay payable under such section; and”.
+
 1993—Par. (8). Pub. L. 103–89, §3(b)(1)(E)(i), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “in the case of an employee covered by the performance management and recognition system, the rates of basic pay under chapter 54; and”.
 
 Par. (9). Pub. L. 103–89, §3(b)(1)(E)(ii), substituted “applies” for “applies (including any position under the performance management and recognition system)”.
@@ -49,6 +51,10 @@ Par. (9). Pub. L. 103–89, §3(b)(1)(E)(ii), substituted “applies” for “a
 1992—Par. (1)(C). Pub. L. 102–378, §2(25)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “chapter 73 of title 38, relating to the Veterans Health Services and Research Administration;”.
 
 Par. (8)(C). Pub. L. 102–378, §2(25)(B), added subpar. (C).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–411 effective on the first day of the first applicable pay period beginning on or after the 180th day after Oct. 30, 2004, with provisions relating to conversion rules, see section 301(d) of Pub. L. 108–411, set out as a note under section 5363 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -61,8 +67,4 @@ Amendment by Pub. L. 102–378 effective Feb. 3, 1991, see section 9(b)(5) of Pu
 #### Effective Date
 
 Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5304, 5402, 9903 of this title; title 2 section 906; title 18 section 207.
 

@@ -26,7 +26,25 @@ Nothing in this subchapter shall be construed to prohibit the use of condemnatio
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
-#### Section Referred to in Other Sections
+#### Sleeping Bear Dunes National Lakeshore
 
-This section is referred to in section 460x–2 of this title.
+Pub. L. 108–229, May 28, 2004, 118 Stat. 645, provided that:
+
+#### “SECTION 1. EXPANSION OF SLEEPING BEAR DUNES NATIONAL LAKESHORE.
+
+“(a)
+
+In General.—When title to the land described in subsection (b) has vested in the United States in fee simple, the boundary of Sleeping Bear Dunes National Lakeshore is revised to include such land in that park.
+
+“(b)
+
+Land Described.—The land referred to in subsection (a) consists of approximately 104.45 acres of unimproved lands generally depicted on National Park Service map number 634/80078, entitled ‘Bayberry Mills, Inc. Crystal River, MI Proposed Expansion Unit to Sleeping Bear Dunes National Lakeshore’. The Secretary of the Interior shall keep such map on file and available for public inspection in the appropriate offices of the National Park Service.
+
+“(c)
+
+Purchase of Lands Authorized.—The Secretary of the Interior may acquire the land described in subsection (b), only by purchase from a willing seller.
+
+#### “SEC. 2. LIMITATION ON ACQUISITION BY EXCHANGE OR CONVEYANCE.
+
+“The Secretary of the Interior may not acquire any of the land described in subsection (b) of section 1 through any exchange or conveyance of lands that are within the boundary of the Sleeping Bear Dunes National Lakeshore as of the date of the enactment of this Act \[May 28, 2004\].”
 

@@ -84,7 +84,7 @@ Each order shall specify the powers and duties of the board established under th
 
 &emsp;(3) to meet, organize, and select from among the members of the board a chairperson, other officers, and committees and subcommittees, as the board determines to be appropriate;
 
-&emsp;(4) to employ persons, other than the members, as the board considers necessary to assistthe board in carrying out its duties, and to determine the compensation and specify the duties of the persons;
+&emsp;(4) to employ persons, other than the members, as the board considers necessary to assist the board in carrying out its duties, and to determine the compensation and specify the duties of the persons;
 
 &emsp;(5) subject to subsection (e) of this section, to develop and carry out generic promotion, research, and information activities relating to the agricultural commodity covered by the order;
 
@@ -138,7 +138,7 @@ A board may not engage in, and shall prohibit the employees and agents of the bo
 
 #### (5) Limitation on spending
 
-&emsp;For fiscal years beginning 3 or more years after the date of the establishment of a board, the board may not expend for administration (except for reimbursements to the Secretary required under paragraph (2)(B)), maintenance, and functioning of the board in a fiscal year an amount that exceeds 15 percent of the assessment and other income received by the board for the fiscal year.
+&emsp;For fiscal years beginning 3 or more years after the date of the establishment of a board,the board may not expend for administration (except for reimbursements to the Secretary required under paragraph (2)(B)), maintenance, and functioning of the board in a fiscal year an amount that exceeds 15 percent of the assessment and other income received by the board for the fiscal year.
 
 #### (f) Contracts and agreements
 
@@ -232,15 +232,11 @@ In accordance with section 7401(c) of this title, each order shall require the b
 
 #### (D) Penalty
 
-&emsp;&emsp;Any person who willfully violates this subsection shall be subject, on conviction, to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both.
+&emsp;&emsp;Any person who willfully violates this subsection shall be subject, on conviction, to afine of not more than $1,000 or to imprisonment for not more than 1 year, or both.
 
 #### (5) Withholding information
 
 &emsp;This subsection shall not authorize the withholding of information from Congress.
 
 (Pub. L. 104–127, title V, §515, Apr. 4, 1996, 110 Stat. 1036.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7415 of this title.
 

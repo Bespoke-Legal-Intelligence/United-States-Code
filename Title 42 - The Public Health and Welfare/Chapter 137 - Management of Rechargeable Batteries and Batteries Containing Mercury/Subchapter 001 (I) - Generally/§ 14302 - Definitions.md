@@ -62,7 +62,3 @@ For purposes of this chapter:
 
 (Pub. L. 104–142, §3, May 13, 1996, 110 Stat. 1329.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14323 of this title.
-

@@ -14,9 +14,9 @@ A prior section 58a, Pub. L. 95–94, title I, §112(g), Aug. 5, 1977, 91 Stat. 
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–439 struck out “(except services for which the charge is based on the amount of time the service is used)” after “Senator's State”.
+1986—Pub. L. 99–439 struck out “(except services for which the charge is based on the amount of time the service is used)” after “Senator's State”.
 
-<b>1985</b>—Pub. L. 99–65 inserted “and in such Senator's State (except services for which the charge is based on the amount of time the service is used)”.
+1985—Pub. L. 99–65 inserted “and in such Senator's State (except services for which the charge is based on the amount of time the service is used)”.
 
 #### Effective Date of 1985 Amendment
 

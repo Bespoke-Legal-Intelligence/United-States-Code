@@ -90,9 +90,5 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, 15 U.S.C. 2201 et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §201, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2106b of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

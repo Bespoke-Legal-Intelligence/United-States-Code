@@ -28,7 +28,3 @@ The area referred to in subsection (a) of this section shall also include a righ
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459c, 459c–2, 459c–4, 459c–5, 459c–6, 459c–6b, 459c–7 of this title.
-

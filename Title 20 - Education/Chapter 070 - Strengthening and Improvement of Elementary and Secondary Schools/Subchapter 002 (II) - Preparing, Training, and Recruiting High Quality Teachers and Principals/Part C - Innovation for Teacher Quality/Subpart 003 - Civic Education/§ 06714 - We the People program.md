@@ -70,9 +70,5 @@ In this section, the term “Bureau-funded school” has the meaning given such 
 
 Section 2026 of title 25, referred to in subsec. (c), was omitted in the general amendment of chapter 22 of Title 25, Indians, by Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2007. See section 2021 of Title 25.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6713 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -22,7 +22,3 @@ Beginning on the date funds are withdrawn pursuant to this section, any trust re
 
 (Pub. L. 103–412, title II, §202, Oct. 25, 1994, 108 Stat. 4242.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300d–24, 4023 of this title.
-

@@ -8,7 +8,3 @@ The Public Printer, under the direction of the Joint Committee on Printing, may 
 
 Based on 44 U.S. Code, 1964 ed., §150 (Jan. 12, 1895 ch. 23, §40, 28 Stat. 607).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 721 of this title.
-

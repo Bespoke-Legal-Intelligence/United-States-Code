@@ -84,9 +84,5 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47107, 47119 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “632(p)”.</i>
 

@@ -16,7 +16,3 @@ Sections 1a–9 to 1a–13 of this title, referred to in text, was in the origin
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1a–10 of this title.
-

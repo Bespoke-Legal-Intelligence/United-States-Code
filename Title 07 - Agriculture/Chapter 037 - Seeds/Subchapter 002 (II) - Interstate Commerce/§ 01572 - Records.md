@@ -14,7 +14,3 @@ All persons transporting, or delivering for transportation, in interstate commer
 
 See section 1610 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1573 of this title.
-

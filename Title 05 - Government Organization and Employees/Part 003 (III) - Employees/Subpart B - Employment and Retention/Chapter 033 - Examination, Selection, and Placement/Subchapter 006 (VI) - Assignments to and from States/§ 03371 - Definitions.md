@@ -104,7 +104,3 @@ Written Agreement.—An employee shall enter into a written agreement regarding 
 
 Section 401 of title IV of Pub. L. 91–648, as amended by Pub. L. 95–454, title VI, §602(b), Oct. 13, 1978, 92 Stat. 1189, provided that: “The purpose of this title \[see Effective Date note above\] is to provide for the temporary assignment of personnel between the Federal Government and State and local governments, institutions of higher education, and other organizations.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3372 of this title; title 22 section 2124c.
-

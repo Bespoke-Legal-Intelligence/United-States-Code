@@ -8,7 +8,3 @@ In return for the agreement of the owner or operator, the Secretary shall (1) ma
 
 1980—Pub. L. 96–182 inserted provisions that the rates of annual payment shall be adjusted, to the extent provided for in advance by appropriation acts, in accordance with section 1302 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1302 of this title.
-

@@ -24,7 +24,7 @@ The Secretary shall take such actions as may be necessary to further the purpose
 
 The Secretary shall—
 
-&emsp;(1) ensure that significant caves are considered in the preparation or implementation ofany land management plan if the preparation or revision of the plan began after November 18, 1988; and
+&emsp;(1) ensure that significant caves are considered in the preparation or implementation of any land management plan if the preparation or revision of the plan began after November 18, 1988; and
 
 &emsp;(2) foster communication, cooperation, and exchange of information between land managers, those who utilize caves, and the public.
 

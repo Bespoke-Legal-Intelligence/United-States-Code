@@ -18,7 +18,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 “Officer, as the Secretary of the Interior may designate” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land office to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 968, 969, 970 of this title.
-

@@ -78,10 +78,6 @@
 
 1984—Pub. L. 98–353, title III, §471, July 10, 1984, 98 Stat. 380, substituted “Successor” for “Succesor” in item 703.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 103, 109, 303, 321, 326, 327, 330, 341, 346, 347, 362, 365, 502, 508, 521, 524, 547, 1106, 1112, 1129, 1141, 1173, 1174, 1201, 1207, 1208, 1225, 1228, 1301, 1306, 1307, 1325, 1328 of this title; title 7 section 24; title 15 section 78fff–1; title 20 section 1087; title 21 section 356c; title 26 sections 108, 1398, 4980, 6012; title 28 sections 586, 1930; title 29 section 1362.
-
 
 ---
 

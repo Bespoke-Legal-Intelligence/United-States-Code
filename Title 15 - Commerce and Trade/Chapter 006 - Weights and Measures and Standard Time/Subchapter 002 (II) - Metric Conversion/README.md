@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—METRIC CONVERSION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3704 of this title; title 22 section 3873.
-
 <i><sup>1</sup></i><i> Denotes exact figures.</i>
 
 

@@ -6,7 +6,3 @@
 
 (May 27, 1955, ch. 105, §2, 69 Stat. 66.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1856b, 1856c of this title.
-

@@ -34,7 +34,3 @@ The Tribe shall have the right to determine future membership in the Tribe; howe
 
 (Pub. L. 103–116, §7, Oct. 27, 1993, 107 Stat. 1124.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 941f, 941i of this title.
-

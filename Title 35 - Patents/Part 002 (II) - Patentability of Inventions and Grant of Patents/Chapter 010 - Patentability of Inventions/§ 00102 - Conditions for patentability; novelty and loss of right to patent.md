@@ -68,15 +68,11 @@ Section 3(b) of Pub. L. 92–358 provided that: “Section 2 of this Act \[amend
 
 Section 4 of act July 19, 1952, ch. 950, 66 Stat. 815, provided that subsection (d) of this section should not apply to existing patents and pending applications, but that the law previously in effect, namely the first paragraph of R.S. 4887 \[first paragraph of section 32 of former Title 35\], should apply to such patents and applications. Said paragraph of section 32 provided that:
 
-“No person otherwise entitled thereto shall be debarred from receiving a patent for his invention or discovery, nor shall any patent be declared invalid by reason of its having been first patented or caused to be patented by the inventor or his legal representatives or assigns in a foreign country, unless the application for said foreign patent was filed more than twelve months, in cases within the provisions of section 31 of this title,and six months in cases of designs, prior to the filing of the application in this country, in which case no patent shall be granted in this country.”
+“No person otherwise entitled thereto shall be debarred from receiving a patent for his invention or discovery, nor shall any patent be declared invalid by reason of its having been first patented or caused to be patented by the inventor or his legal representatives or assigns in a foreign country, unless the application for said foreign patent was filed more than twelve months, in cases within the provisions of section 31 of this title, and six months in cases of designs, prior to the filing of the application in this country, in which case no patent shall be granted in this country.”
 
 #### Emergency Relief From Postal Situation Affecting Patent Cases
 
 Relief as to filing date of patent application or patent affected by postal situation beginning on Mar. 18, 1970, and ending on or about Mar. 30, 1970, but patents issued with earlier filing dates not effective as prior art under subsec. (e) of this section of such earlier filing dates, see note set out under section 111 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 103, 172, 273, 363, 374, 375 of this title; title 15 section 638.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

@@ -114,7 +114,7 @@
 
 #### (ii) Policies
 
-&emsp;&emsp;&emsp;In a case in which the entities are grantees, or the representatives are employees, of area agencies on aging, the State agency shall develop the policies in consultation with the area agencies on aging. The policies shall provide for participation and comment by the agencies and for resolution of concerns with respect to case activity.
+&emsp;&emsp;&emsp;In a case in which the entities are grantees, or the representatives are employees,of area agencies on aging, the State agency shall develop the policies in consultation with the area agencies on aging. The policies shall provide for participation and comment by the agencies and for resolution of concerns with respect to case activity.
 
 #### (iii) Confidentiality and disclosure
 
@@ -208,7 +208,7 @@ The State agency shall—
 
 &emsp;&emsp;(C) is not employed by, or participating in the management of, a long-term care facility; and
 
-&emsp;&emsp;(D) does not receive, or have the right to receive, directly or indirectly, remuneration (in cash or in kind) under a compensation arrangement with an owner or operator of a long-term care facility; and
+&emsp;&emsp;(D) does not receive, or have the right to receive, directly or indirectly, remuneration (in cash or in kind) under a compensationarrangement with an owner or operator of a long-term care facility; and
 
 &emsp;(4) establish, and specify in writing, mechanisms to identify and remove conflicts of interest referred to in paragraphs (1) and (2), and to identify and eliminate the relationships described in subparagraphs (A) through (D) of paragraph (3), including such mechanisms as—
 
@@ -248,7 +248,7 @@ The State agency shall require the Office to—
 
 &emsp;&emsp;&emsp;(ii) protecting the health, safety, welfare, and rights of the residents;
 
-&emsp;&emsp;(E)(i) analyzing the success of the program including success in providing services toresidents of board and care facilities and other similar adult care facilities; and
+&emsp;&emsp;(E)(i) analyzing the success of the program including success in providing services to residents of board and care facilities and other similar adult care facilities; and
 
 &emsp;&emsp;(ii) identifying barriers that prevent the optimal operation of the program; and
 
@@ -318,7 +318,7 @@ Section 3012(a)(21) of this title, referred to in subsec. (c)(2)(D), was redesig
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (h)(6)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 
-The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (h)(6)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
+The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (h)(6)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
 
 #### Amendments
 
@@ -337,10 +337,6 @@ Subsec. (h)(8), (9). Pub. L. 106–501, §704(2)(B)–(D), added par. (8) and re
 Subsec. (h)(4)(A). Pub. L. 103–171, §3(a)(9)(A), substituted “Director of the Office of Long-Term Care Ombudsman Programs” for “Associate Commissioner for Ombudsman Programs”.
 
 Subsec. (j)(1). Pub. L. 103–171, §3(a)(9)(B), substituted “Assistant Secretary” for “Commissioner”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395i–3, 1396r, 3002, 3011, 3018, 3021, 3027, 3058d, 3058f, 3058h of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -74,9 +74,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 Charge of expenses to appropriation or account not affected by provisions for accounting adjustments between appropriations, see section 3 of Pub. L. 89–473, June 29, 1966, 80 Stat. 221, set out as a note under section 628a of Title 31, Money and Finance.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2194, 2321j, 2347c, 2403 of this title; title 10 section 2211.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

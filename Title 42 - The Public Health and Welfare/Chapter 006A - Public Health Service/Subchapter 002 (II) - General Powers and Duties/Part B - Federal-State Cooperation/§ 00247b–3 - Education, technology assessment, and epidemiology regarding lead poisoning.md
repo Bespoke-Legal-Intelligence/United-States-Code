@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(v) identify the practical and technological constraints to expanding lead poisoning prevention;
 
-&emsp;&emsp;(vi) annually carry out a comprehensive review of Federal programs providing assistance to prevent lead poisoning, and not later than May 1 of each year, submit to the Committee on Labor and Human Resources of the Senate and the Committee on the Environment and Public Works of the Senate, and to the Committee on Energy and Commerce of the House of Representatives, a report that summarizes the findings made as a result of such review and that contains the recommendations of the Task Force on the programs and policies with respect to whichthe Task Force is established, including related budgetary recommendations; and
+&emsp;&emsp;(vi) annually carry out a comprehensive review of Federal programs providing assistance to prevent lead poisoning, and not later than May 1 of each year, submit to the Committee on Labor and Human Resources of the Senate and the Committee on the Environment and Public Works of the Senate, and to the Committee on Energy and Commerce of the House of Representatives, a report that summarizes the findings made as a result of such review and that contains the recommendations of the Task Force on the programs and policies with respect to which the Task Force is established, including related budgetary recommendations; and
 
 &emsp;&emsp;(vii) annually review and coordinate departmental and agency budgetary requests with respect to all lead poisoning prevention activities of the Federal Government.
 
@@ -58,9 +58,11 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### Amendments
 
-1993—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 103–531, §303(b), which enacted this section.
+1993—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §303(b), which enacted this section.
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

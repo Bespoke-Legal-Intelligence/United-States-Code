@@ -48,7 +48,3 @@ Section 240(f)(1), (2) of Pub. L. 90–248 provided that: “In the case of any 
 
 &emsp;“(2) any sums appropriated, allotted, or reallotted pursuant to part 3 of title V; for the fiscal year ending June 30, 1968, shall be deemed appropriated, allotted, or reallotted (as the case may be) under part B of title IV of such Act \[this part\] for such fiscal year;”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 621 of this title.
-

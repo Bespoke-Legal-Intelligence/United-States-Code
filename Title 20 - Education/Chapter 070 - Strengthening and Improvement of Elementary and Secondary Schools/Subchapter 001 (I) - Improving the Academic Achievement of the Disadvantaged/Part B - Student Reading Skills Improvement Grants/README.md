@@ -1,9 +1,5 @@
 Part B—Student Reading Skills Improvement Grants
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 6371 of this title; title 25 section 2019; title 31 section 6703.
-
 
 ---
 

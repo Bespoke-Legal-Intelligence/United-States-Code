@@ -38,7 +38,3 @@ The Secretary, in establishing the plan required by subsection (a) of this secti
 
 (Pub. L. 99–645, title III, §301, Nov. 10, 1986, 100 Stat. 3586.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>l</i>–8, 3922, 3954, 4404 of this title.
-

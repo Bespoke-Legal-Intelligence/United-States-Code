@@ -16,7 +16,7 @@
 
 (h) An appointment under this section does not terminate any appointments held by an officer concerned under any other provisions of this title. The President may terminate temporary appointments made under this section at any time. An appointment under this section is effective for such period as the President determines. However, an appointment may not be effective later than six months after the end of the war or national emergency. When his temporary appointment under this section is terminated or expires, the officer shall revert to his former grade.
 
-(i) Not later than six months after the end of the war or national emergency the President shall, under such regulations as he may prescribe, reestablish the active duty promotion list with adjustments and additions appropriate to the conditions of original appointment and wartime service of all officers to be includedthereon. The President may, by and with the advice and consent of the Senate, appoint officers on the reestablished active duty promotion list to fill vacancies in the authorized active duty strength of each grade. Such appointments shall be considered to have been made under section 271 of this title.
+(i) Not later than six months after the end of the war or national emergency the President shall, under such regulations as he may prescribe, reestablish the active duty promotion list with adjustments and additions appropriate to the conditions of original appointment and wartime service of all officers to be included thereon. The President may, by and with the advice and consent of the Senate, appoint officers on the reestablished active duty promotion list to fill vacancies in the authorized active duty strength of each grade. Such appointments shall be considered to have been made under section 271 of this title.
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 182; amended Pub. L. 92–129, title VI, §605, Sept. 28, 1971, 85 Stat. 362; Pub. L. 97–417, §2(6), Jan. 4, 1983, 96 Stat. 2085.)
 
@@ -29,8 +29,4 @@
 #### Delegation of Authority
 
 Authority of President under subsec. (a) of this section as invoked by section 2 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, delegated to Secretary of Homeland Security by section 5 of Ex. Ord. No. 13223, set out as a note under section 12302 of Title 10, Armed Forces.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 257, 710 of this title.
 

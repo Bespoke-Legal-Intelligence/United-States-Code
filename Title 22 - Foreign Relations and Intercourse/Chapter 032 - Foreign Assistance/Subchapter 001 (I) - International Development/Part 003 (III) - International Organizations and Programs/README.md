@@ -1,9 +1,5 @@
 Part III—International Organizations and Programs
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 2151b of this title.
-
 
 ---
 
@@ -16,3 +12,4 @@ This part is referred to in section 2151b of this title.
 - [&sect; 02225 - Integration of women](%C2%A7%2002225%20-%20Integration%20of%20women.md)
 - [&sect; 02226 - Reports on international organizations](%C2%A7%2002226%20-%20Reports%20on%20international%20organizations.md)
 - [&sect; 02227 - Withholding of United States proportionate share for certain programs of international organizations](%C2%A7%2002227%20-%20Withholding%20of%20United%20States%20proportionate%20share%20for%20certain%20programs%20of%20international%20organizations.md)
+- [&sect; 02228 - International Youth Opportunity Fund](%C2%A7%2002228%20-%20International%20Youth%20Opportunity%20Fund.md)

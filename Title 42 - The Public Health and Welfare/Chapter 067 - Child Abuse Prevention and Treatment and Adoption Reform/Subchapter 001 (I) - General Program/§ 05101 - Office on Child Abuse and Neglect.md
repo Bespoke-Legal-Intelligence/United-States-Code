@@ -8,7 +8,7 @@ The Secretary of Health and Human Services may establish an office to be known a
 
 The purpose of the Office established under subsection (a) of this section shall be to execute and coordinate the functions and activities of this subchapter and subchapter III of this chapter. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that such functions and activities are executed with the necessary expertise and in a fully coordinated manner involving regular intradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
 
-(Pub. L. 93–247, title I, §101, formerly §2, Jan. 31, 1974, 88 Stat. 5; Pub. L. 93–644, §8(d)(1), Jan. 4, 1975, 88 Stat. 2310; Pub. L. 95–266, title I, §101, Apr. 24, 1978, 92 Stat. 205; Pub. L. 98–457, title I, §101, Oct. 9, 1984, 98 Stat. 1749; Pub. L. 99–401, title I, §103(a), Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §101, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 104–235, title I, §101, Oct. 3, 1996, 110 Stat. 3064.)
+(Pub. L. 93–247, title I, §101, formerly §2, Jan. 31, 1974, 88 Stat. 5; Pub. L. 93–644, §8(d)(1), Jan. 4, 1975, 88 Stat. 2310; Pub. L. 95–266, title I, §101,Apr. 24, 1978, 92 Stat. 205; Pub. L. 98–457, title I, §101, Oct. 9, 1984, 98 Stat. 1749; Pub. L. 99–401, title I, §103(a), Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §101, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 104–235, title I, §101, Oct. 3, 1996, 110 Stat. 3064.)
 
 #### Amendments
 
@@ -58,7 +58,7 @@ Pub. L. 105–251, title II, §221, Oct. 9, 1998, 112 Stat. 1885, provided that:
 
 #### Short Title of 1996 Amendment
 
-Section 1(a) of Pub. L. 104–235 provided that: “This Act \[enacting sections 5106i and 5116 to 5116i of thistitle, amending this section and sections 5102, 5104 to 5106, 5106a, 5106c to 5106f, 5106g to 5106i, 5111, 5113, 5115, 5777, 10402, 10403, 10409, 10603a, and 13004 of this title, repealing sections 5103, 5106b, 5117 to 5117d, 5118 to 5118e, 5778, and 11481 to 11489 of this title, amending provisions set out as notes under this section and section 670 of this title, and repealing provisions set out as notes under section 5117 of this title\] may be cited as the ‘Child Abuse Prevention and Treatment Act Amendments of 1996’.”
+Section 1(a) of Pub. L. 104–235 provided that: “This Act \[enacting sections 5106i and 5116 to 5116i of this title, amending this section and sections 5102, 5104 to 5106, 5106a, 5106c to 5106f, 5106g to 5106i, 5111, 5113, 5115, 5777, 10402, 10403, 10409, 10603a, and 13004 of this title, repealing sections 5103, 5106b, 5117 to 5117d, 5118 to 5118e, 5778, and 11481 to 11489 of this title, amending provisions set out as notes under this section and section 670 of this title, and repealing provisions set out as notes under section 5117 of this title\] may be cited as the ‘Child Abuse Prevention and Treatment Act Amendments of 1996’.”
 
 #### Short Title of 1994 Amendment
 
@@ -82,7 +82,7 @@ Section 1 of Pub. L. 100–294 provided that: “This Act \[enacting sections 51
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–401 provided that: “This Act \[enacting subchapter IV of this chapter and section 10603a of this title, amending this section and sections 290dd–3, 290ee–3, 5103, 5105, 10601, and 10603 of this title, and enacting provisions set out as notes under this section and section 5117 of this title\] may be cited as the ‘Children's Justice and Assistance Act of 1986’.”
+Section 1 of Pub. L. 99–401 provided that: “This Act \[enacting subchapter IV of this chapter and section 10603a of this title, amending this section and sections 290dd–3, 290ee–3, 5103, 5105, 10601, and 10603 of this title,and enacting provisions set out as notes under this section and section 5117 of this title\] may be cited as the ‘Children's Justice and Assistance Act of 1986’.”
 
 Section 101 of title I of Pub. L. 99–401 provided that: “This title \[enacting section 10603a of this title, amending this section and sections 290dd–3, 290ee–3, 5103, 5105, 10601, and 10603 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Children's Justice Act’.”
 
@@ -203,8 +203,4 @@ Section 2 of Pub. L. 93–247, as added by Pub. L. 102–295, title I, §102(a),
 &emsp;&emsp;“(E) helping communities to carry out their child and family protection plans by promoting the competence of professional, paraprofessional, and volunteer resources; and
 
 &emsp;&emsp;“(F) providing leadership to end the abuse and neglect of the nation's children and youth.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5107 of this title.
 

@@ -8,7 +8,3 @@ The Task Force shall, within the program developed under subsection (a),<sup>1</
 
 1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §1209, which enacted this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4741 of this title.
-

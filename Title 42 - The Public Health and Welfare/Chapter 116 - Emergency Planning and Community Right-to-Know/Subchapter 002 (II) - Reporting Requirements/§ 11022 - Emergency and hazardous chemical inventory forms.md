@@ -48,7 +48,7 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 &emsp;&emsp;For purposes of reporting information under this paragraph, the Administrator may—
 
-&emsp;&emsp;&emsp;(i) modify the categories of health and physical hazards as set forth under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act by requiring information to be reported in terms of groups of hazardous chemicals which present similar hazards in an emergency, or
+&emsp;&emsp;&emsp;(i) modify the categories of health and physical hazards as set forth under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act by requiring information to be reported in terms of groups of hazardous chemicals whichpresent similar hazards in an emergency, or
 
 &emsp;&emsp;&emsp;(ii) require reporting on individual hazardous chemicals of special concern to emergency response personnel.
 
@@ -109,8 +109,4 @@ The Administrator shall publish a uniform format for inventory forms within thre
 #### References in Text
 
 The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1) and (d)(1)(A), (C)(i), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11001, 11042, 11043, 11044, 11045, 11046 of this title.
 

@@ -16,7 +16,7 @@ The Director is authorized, without the review or approval of the Secretary, to 
 
 &emsp;(4) decisions to appoint conservators for the enterprises;
 
-&emsp;(5) administrative and enforcement actions under subchapter II of this chapter, actions taken under subchapter III of this chapter with respect to enforcement of subchapter II of this chapter, and other matters relating to safety and soundness;
+&emsp;(5) administrative and enforcement actions under subchapter II of this chapter, actionstaken under subchapter III of this chapter with respect to enforcement of subchapter II of this chapter, and other matters relating to safety and soundness;
 
 &emsp;(6) approval of payments of capital distributions by the enterprises under section 1718(c)(2) of this title and section 1452(b)(2) of this title;
 
@@ -55,8 +55,4 @@ This chapter, referred to in subsecs. (a) and (b)(11), was in the original “th
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–277, div. A, §122, Oct. 21, 1998, 112 Stat. 2681–546, provided that the amendment made by section 122 is effective upon enactment of Pub. L. 105–276 (Oct. 21, 1998).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4526, 4541 of this title.
 

@@ -14,7 +14,7 @@ Not later than 1 year after July 26, 1990, the Secretary shall issue final regul
 
 &emsp;The regulations issued under this section shall require each public entity which operates a fixed route system to provide the paratransit and other special transportation services required under this section—
 
-&emsp;&emsp;(A)(i) to any individual with a disability who is unable, as a result of a physical or mental impairment (including a vision impairment) and without the assistance of another individual (except an operator of a wheelchair lift or other boarding assistance device), to board, ride, or disembark from any vehicle on the system which is readilyaccessible to and usable by individuals with disabilities;
+&emsp;&emsp;(A)(i) to any individual with a disability who is unable, as a result of a physical or mental impairment (including a vision impairment) and without the assistance of another individual (except an operator of a wheelchair lift or other boarding assistance device), to board, ride, or disembark from any vehicle on the system which is readily accessible to and usable by individuals with disabilities;
 
 &emsp;&emsp;(ii) to any individual with a disability who needs the assistance of a wheelchair lift or other boarding assistance device (and is able with such assistance) to board, ride, and disembark from any vehicle which is readily accessible to and usable by individuals with disabilities if the individual wants to travel on a route on the system during the hours of operation of the system at a time (or within a reasonable period of such time) when such a vehicle is not being used to provide designated public transportation on the route; and
 
@@ -78,7 +78,7 @@ Not later than 1 year after July 26, 1990, the Secretary shall issue final regul
 
 #### (3) Modification of disapproved plan
 
-&emsp;Not later than 90 days after the date of disapproval of a plan under this subsection, the public entity which submitted the plan shall modify the plan to meet the requirements ofthis section and shall submit to the Secretary, and commence implementation of, such modified plan.
+&emsp;Not later than 90 days after the date of disapproval of a plan under this subsection, the public entity which submitted the plan shall modify the plan to meet the requirements of this section and shall submit to the Secretary, and commence implementation of, such modified plan.
 
 #### (e) “Discrimination” defined
 
@@ -107,8 +107,4 @@ Nothing in this section shall be construed as preventing a public entity—
 #### Effective Date
 
 Subsec. (a) of this section effective 18 months after July 26, 1990, and subsecs. (b) to (f) of this section effective July 26, 1990, see section 231 of Pub. L. 101–336, set out as a note under section 12141 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12134, 12149, 12209 of this title; title 2 section 1331; title 49 section 5302.
 

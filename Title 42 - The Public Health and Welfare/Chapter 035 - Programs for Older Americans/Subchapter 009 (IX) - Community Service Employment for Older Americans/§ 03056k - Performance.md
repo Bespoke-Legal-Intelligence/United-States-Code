@@ -16,7 +16,7 @@
 
 &emsp;&emsp;The levels of performance described in subparagraph (A) applicable to a grantee shall be adjusted only with respect to the following factors:
 
-&emsp;&emsp;&emsp;(i) High rates of unemployment, poverty, or welfare recipiency in the areas served by a grantee, relative to other areas of the State or Nation.
+&emsp;&emsp;&emsp;(i) High rates of unemployment, poverty, or welfare recipiency in the areas servedby a grantee, relative to other areas of the State or Nation.
 
 &emsp;&emsp;&emsp;(ii) Significant downturns in the areas served by the grantee or in the national economy.
 
@@ -75,8 +75,4 @@ The indicators described in subsection (a) of this section shall include—
 A State or other grantee that does not achieve the established levels of performance on the performance measures shall submit to the Secretary, for approval, a plan of correction as described in subsection (e) or (f) of section 3056<i>l</i> of this title to achieve the established levels of performance.
 
 (Pub. L. 89–73, title V, §513, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2281.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3056a, 3056<i>l</i> of this title.
 

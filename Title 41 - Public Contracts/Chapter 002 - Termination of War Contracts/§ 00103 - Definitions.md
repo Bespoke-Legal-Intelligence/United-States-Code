@@ -38,7 +38,7 @@ The Reconstruction Finance Corporation Act, referred to in subsec. (g), is act J
 
 #### Codification
 
-In subsec. (g), the Smaller War Plants Corporation was omitted from the definition of the term “contracting agency,” in subsec. (g) on the authority of section 207 of Act June 30, 1947, which provided: “The liquidation of the affairs of the Smaller War Plants Corporation administered by the Reconstruction Finance Corporation pursuant to Executive Order 9665 shall be carried out by the Reconstruction Finance Corporation, notwithstanding the provisions of the last paragraph of section 5 of the First War Powers Act, 1941 \[section 605 of Title 50, Appendix, War and National Defense\]. The Smaller War Plants Corporation is hereby abolished.”
+In subsec. (g), the Smaller War Plants Corporation was omitted from the definition of the term “contracting agency,” in subsec. (g) on the authority of section 207 of Act June 30, 1947, which provided: “The liquidation of the affairs of the Smaller War Plants Corporation administered by the Reconstruction Finance Corporation pursuant to Executive Order 9665 shall be carried out by the Reconstruction Finance Corporation, notwithstanding the provisions of the last paragraph of section 5 of the First War Powers Act, 1941 \[section 605of Title 50, Appendix, War and National Defense\]. The Smaller War Plants Corporation is hereby abolished.”
 
 #### Transfer of Functions
 
@@ -53,10 +53,6 @@ Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 
 #### Abolition of Reconstruction Finance Corporation
 
 Reorg. Plan No. 1 of 1957, §6(a), eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, abolished Reconstruction Finance Corporation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 sections 443, 3287.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

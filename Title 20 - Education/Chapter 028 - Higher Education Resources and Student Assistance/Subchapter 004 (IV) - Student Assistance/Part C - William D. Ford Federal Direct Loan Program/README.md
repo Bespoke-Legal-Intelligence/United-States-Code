@@ -4,10 +4,6 @@ Part C—William D. Ford Federal Direct Loan Program
 
 This part was, in the original, part D of title IV of Pub. L. 89–329, the Higher Education Act of 1965. The letter designation was changed from “D” to “C” for codification purposes. Part C of title IV of Pub. L. 89–329, consisting of sections 441 to 447, as added by Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429, is set out as section 2751 et seq. of Title 42, The Public Health and Welfare, because sections 441 to 446 of Pub. L. 89–329 had originally been enacted as part C of title I of the Economic Opportunity Act of 1964, consisting of sections 121 to 126 of Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 513, prior to the transfer of such sections into Pub. L. 89–329, and had already been classified to section 2751 et seq. of Title 42 at the time of the transfer.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1070a, 1078, 1078–3, 1078–11, 1082, 1085, 1087tt, 1090, 1091, 1091a, 1091b, 1092, 1092b, 1094, 1098c, 1099c of this title; title 2 sections 60c–5, 906; title 5 section 5379; title 10 sections 2171, 2174, 16301, 16302; title 11 section 525; title 26 section 6103.
-
 
 ---
 

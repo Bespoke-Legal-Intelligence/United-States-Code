@@ -12,7 +12,3 @@ The said Stones River National Battlefield shall be under the control of the Sec
 
 Transfer of administrative functions of park, see note set out under section 426 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 426c, 426e, 426j, 426k, 426n of this title.
-

@@ -8,7 +8,3 @@ The Sergeant at Arms shall report to the Committee on Rules and Administration o
 
 Section effective Oct. 1, 1987, see section 4 of Pub. L. 100–123, set out as a note under section 58a–1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 58a–1, 58a–2 of this title.
-

@@ -34,7 +34,3 @@ The Indian Reorganization Act, referred to in subsec. (a), is act June 18, 1934,
 
 For the effective date of this subchapter, referred to in subsec. (b), see Effective Date note set out under section 941 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 941h of this title.
-

@@ -24,7 +24,7 @@ The President shall establish a program under this subchapter to provide agricul
 
 1985—Subsec. (b). Pub. L. 99–198, §1102, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The minimum quantity of agricultural commodities distributed under this subchapter—
 
-&emsp;“(1) for fiscal years 1978 through 1980 shall be 1,600,000 metric tons, of which not less than 1,300,000 metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program;
+&emsp;“(1) for fiscal years 1978 through 1980 shall be 1,600,000 metric tons, of which not less than 1,300,000metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program;
 
 &emsp;“(2) for fiscal year 1981 shall be 1,650,000 metric tons, of which not less than 1,350,000 metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program; and
 
@@ -89,8 +89,4 @@ Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as authorizing Commodity Credit C
 #### Implementation of Program
 
 Program under this subchapter to provide for donation of agricultural commodities to foreign countries to be implemented by Administrator of the Agency for International Development, see Ex. Ord. No. 12752, §1(b), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1722 of this title.
 

@@ -52,7 +52,7 @@ Until such time as new and comprehensive rules and regulations governing exchang
 
 (1) Notwithstanding the provisions of this Act and other applicable laws which require that exchanges of land or interests therein be for equal value, where the Secretary concerned determines it is in the public interest and that the consummation of a particular exchange will be expedited thereby, the Secretary concerned may exchange lands or interests therein which are of approximately equal value in cases where—
 
-&emsp;(A) the combined value of the lands or interests therein to be transferred from Federalownership by the Secretary concerned in such exchange is not more than $150,000; and
+&emsp;(A) the combined value of the lands or interests therein to be transferred from Federal ownership by the Secretary concerned in such exchange is not more than $150,000; and
 
 &emsp;(B) the Secretary concerned finds in accordance with the regulations to be promulgated pursuant to subsection (f) of this section that a determination of approximately equal value can be made without formal appraisals, as based on a statement of value made by a qualified appraiser and approved by an authorized officer; and
 
@@ -125,8 +125,4 @@ Section 4 of Pub. L. 100–409 provided that: “In order to ensure that there a
 #### Savings Provision
 
 Section 5 of Pub. L. 100–409 provided that: “Nothing in this Act \[see Short Title of 1988 Amendment note set out under section 1701 of this title\] shall be construed as amending the Alaska Native Claims Settlement Act (Public Law 92–203, as amended) \[43 U.S.C. 1601 et seq.\] or the Alaska National Interest Lands Conservation Act (Public Law 96–487, as amended) \[see Tables for classification\] or as enlarging or diminishing the authority with regard to exchanges conferred upon either the Secretary of the Interior or the Secretary of Agriculture by either such Acts. If any provision of this Act or the application thereof is held invalid, the remainder of the Act and the application thereof shall not be affected thereby. Nothing in this Act shall be construed to change the discretionary nature of land exchanges or to prohibit the Secretary concerned or any other party or parties involved in a land exchange from withdrawing from the exchange at any time, unless the Secretary concerned and the other party or parties specifically commit otherwise by written agreement.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1715, 1718, 1719 of this title; title 16 sections 410aaa–77, 460kk, 460mm–1, 460uu–43, 460ccc–4, 521b, 539m–11, 545b; title 25 section 1776c; title 30 sections 193, 1260.
 

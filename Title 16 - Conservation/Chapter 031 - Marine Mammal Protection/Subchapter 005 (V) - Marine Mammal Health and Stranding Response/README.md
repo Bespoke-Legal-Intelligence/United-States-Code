@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—MARINE MAMMAL HEALTH AND STRANDING RESPONSE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1362, 1372, 1379, 1382, 1384 of this title.
-
 
 ---
 

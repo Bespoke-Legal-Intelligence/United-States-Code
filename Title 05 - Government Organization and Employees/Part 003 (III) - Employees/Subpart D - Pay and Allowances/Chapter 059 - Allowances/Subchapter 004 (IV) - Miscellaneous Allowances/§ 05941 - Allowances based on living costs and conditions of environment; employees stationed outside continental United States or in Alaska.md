@@ -50,7 +50,7 @@ Pub. L. 102–141, title IV, §1, Oct. 28, 1991, 105 Stat. 861, as amended by Pu
 
 &emsp;“(1) an examination of the pay practices of other employers in the affected areas;
 
-&emsp;“(2) a consideration of alternative approaches to dealing with the unusual and unique circumstances ofthe affected areas, including modifications to the current methodology for calculating allowances to take into account all cost of living in the geographic areas of the affected employee; and
+&emsp;“(2) a consideration of alternative approaches to dealing with the unusual and unique circumstances of the affected areas, including modifications to the current methodology for calculating allowances to take into account all cost of living in the geographic areas of the affected employee; and
 
 &emsp;“(3) an evaluation of the likely impact of the different approaches on the Government's ability to recruit and retain a well-qualified workforce.
 
@@ -88,7 +88,7 @@ Persons Eligible to Receive Foreign Post Differential. (a) In order that an empl
 
 (1) Persons recruited or transferred from the United States.
 
-(2) Persons employed locally but (a) who were originally recruited from the United States and have been in substantially continuous employment by other Federal agencies, United States firms, interests, or organizations, international organizations in which the United States Government participates, or foreign governments, and whose conditions of employment provide for their return transportation to the United States, or (b) who were at the time of employment temporarily absent from the United States for purposes of travel or formal study and maintained residence in the United States during such temporary absence. When used in a geographical sense in section 105(b) hereof, “United States” includes the areas included within the definition of non-foreign areas as set forth in section 201 hereof.
+(2) Persons employed locally but (a) who were originally recruited from the United States and have been in substantially continuous employment by other Federal agencies, United States firms, interests, or organizations, international organizations in which the United States Government participates, or foreign governments, and whose conditions of employment provide for their return transportation to the United States, or (b) who were at the time of employment temporarilyabsent from the United States for purposes of travel or formal study and maintained residence in the United States during such temporary absence. When used in a geographical sense in section 105(b) hereof, “United States” includes the areas included within the definition of non-foreign areas as set forth in section 201 hereof.
 
 (3) Persons who are not normally residents of the area concerned and who are discharged from the military service of the United States in such area to accept employment therein with an agency of the Federal Government.
 
@@ -182,7 +182,7 @@ Periodic Review. The Office of Personnel Management shall periodically review th
 
 Sec. 301.
 
-Temporary Regulations. During the period commencing with the date of this order or the effective date of section 207 of the Act (as defined in section 101 hereof), whichever shall occur earlier, and ending on a date or dates fixed by the Secretary of State and the Office of Personnel Management, respectively, as the effective dates of the designation of places and of the fixing of additional rates of compensation, under PartsI and II of this order, but in no event later than January 1, 1949, and notwithstanding the provisions of Parts I and II of this order, the payment of salaries and compensation (including the payment of additional compensation) of persons subject to the provisions of said section 207 shall be governed by the regulations and practices in effect in the respective Executive departments, independent establishments, and wholly owned government corporations immediately prior to April 20, 1948. Executive Order No. 9962 of May 24, 1948 is hereby revoked.
+Temporary Regulations. During the period commencing with the date of this order or the effective date of section 207 of the Act (as defined in section 101 hereof), whichever shall occur earlier, and ending on a date or dates fixed by the Secretary of State and the Office of Personnel Management, respectively, as the effective dates of the designation of places and of the fixing of additional rates of compensation, under Parts I and II of this order, but in no event later than January 1, 1949, and notwithstanding the provisions of Parts I and II of this order, the payment of salaries and compensation (including the payment of additional compensation) of persons subject to the provisions of said section 207 shall be governed by the regulations and practices in effect in the respective Executive departments, independent establishments, and wholly owned government corporations immediately prior to April 20, 1948. Executive Order No. 9962 of May 24, 1948 is hereby revoked.
 
 #### Part IV—Foreign Service Salary Differentials
 
@@ -201,8 +201,4 @@ Publication. This order, and the places designated, the rates fixed, and the reg
 #### Executive Order No. 12070
 
 Ex. Ord. No. 12070, June 30, 1978, 43 F.R. 28977, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which related to suspension of certain requirements in determination of cost of living allowance rates, was superseded by Ex. Ord. No. 12510, Apr. 17, 1985, 50 F.R. 15535.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5307, 5545b of this title; title 10 section 1603; title 20 section 906; title 22 section 2506; title 39 section 1005.
 

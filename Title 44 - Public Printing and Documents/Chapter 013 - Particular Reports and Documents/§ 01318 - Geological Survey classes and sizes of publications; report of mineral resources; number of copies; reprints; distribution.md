@@ -26,7 +26,3 @@ Based on 44 U.S. Code, 1964 ed., §260 (Jan. 12, 1895, ch. 23, §73, 28 Stat. 61
 
 Geological Survey redesignated United States Geological Survey by provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 41.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—EXTENSION OF RIGHTS AND PROTECTIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1384, 1405, 1434 of this title.
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 #### (a) Transitional allowances; procedures applicable
 
-Any hospital may file an application with the Secretary (in such form and including such data and information as the Secretary may require) for establishment of a transitional allowance under this subchapter with respect to the closing or conversion of an underutilized hospital facility. The Secretary also may establish procedures, consistent with this section, by which a hospital, before undergoing an actual closure or conversion of a hospital facility, can have a determination made as to whether or not it will be eligible for a transitional allowance under this section with respect to such closure or conversion.
+Any hospital may file an application with the Secretary (in such form and including such data and information as the Secretary may require) for establishment of a transitional allowance under this subchapter with respect to the closing or conversion of an underutilized hospital facility. The Secretary also may establish procedures, consistent with this section, by which ahospital, before undergoing an actual closure or conversion of a hospital facility, can have a determination made as to whether or not it will be eligible for a transitional allowance under this section with respect to such closure or conversion.
 
 #### (b) Allowable costs as transitional allowances; findings and determinations
 
@@ -67,8 +67,4 @@ Pub. L. 98–369, div. B, title III, §2353, July 18, 1984, 98 Stat. 1099, direc
 #### Establishment and Evaluation of Transitional Allowances; Report and Recommendations to Congress
 
 Section 2101(b) of Pub. L. 97–35 prohibited Secretary of Health and Human Services from establishing under this section transitional allowances with respect to more than 50 hospitals prior to Jan. 1, 1984, and directed Secretary to evaluate effectiveness of program of transitional allowances established under this section and, not later than Jan. 1, 1983, report to Congress on such evaluation and include in such report such recommendations for such legislative changes as deemed appropriate.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1396b of this title.
 

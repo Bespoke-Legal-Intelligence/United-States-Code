@@ -60,7 +60,7 @@ Interest rate.—The interest rate on the secured loan shall be not less than th
 
 &emsp;(5)
 
-Maturity date.—The final maturity date of the secured loan shall be not later than 35years after the date of substantial completion of the project.
+Maturity date.—The final maturity date of the secured loan shall be not later than 35 years after the date of substantial completion of the project.
 
 &emsp;(6)
 
@@ -84,7 +84,7 @@ Schedule.—The Secretary shall establish a repayment schedule for each secured 
 
 &emsp;(2)
 
-Commencement.—Scheduled loan repayments of principal or interest on a secured loan under this section shall commence not later than 5 years after the date of substantial completion of the project.
+Commencement.—Scheduled loan repayments of principal or interest on a secured loan under this section shall commence notlater than 5 years after the date of substantial completion of the project.
 
 &emsp;(3)
 
@@ -155,8 +155,4 @@ In general.—The Secretary may provide a loan guarantee to a lender in lieu of 
 Terms.—The terms of a guaranteed loan shall be consistent with the terms set forth in this section for a secured loan, except that the rate on the guaranteed loan and any prepayment features shall be negotiated between the obligor and the lender, with the consent of the Secretary.
 
 (Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 245.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 181, 184 of this title.
 

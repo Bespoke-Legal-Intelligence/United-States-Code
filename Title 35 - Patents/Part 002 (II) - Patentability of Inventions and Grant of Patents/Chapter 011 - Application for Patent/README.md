@@ -25,10 +25,6 @@
 
 1994—Pub. L. 103–465, title V, §532(c)(6), Dec. 8, 1994, 108 Stat. 4987, substituted “Application” for “Application for patent” in item 111 and “Benefit of earlier filing date; right of priority” for “Benefit of earlier filing date in foreign country; right of priority” in item 119.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 371, 373, 375 of this title.
-
 
 ---
 

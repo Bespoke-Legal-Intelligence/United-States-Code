@@ -52,10 +52,6 @@ Sec. 3. This order shall be effective upon publication in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3307 of this title; title 26 section 3121; title 42 section 410.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “which”.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

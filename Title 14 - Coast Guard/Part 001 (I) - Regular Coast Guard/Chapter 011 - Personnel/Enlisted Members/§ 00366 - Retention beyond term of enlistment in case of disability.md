@@ -18,7 +18,3 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 1984—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man in four places.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 369 of this title.
-

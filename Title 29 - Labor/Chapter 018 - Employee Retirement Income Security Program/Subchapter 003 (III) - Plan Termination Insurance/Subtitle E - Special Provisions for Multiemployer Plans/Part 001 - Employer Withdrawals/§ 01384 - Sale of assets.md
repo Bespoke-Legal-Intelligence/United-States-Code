@@ -60,7 +60,3 @@ For purposes of this section, the term “unrelated party” means a purchaser o
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1391, 1401, 1405 of this title.
-

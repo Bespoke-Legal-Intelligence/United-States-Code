@@ -40,7 +40,3 @@ Subsec. (a)(7). Pub. L. 89–733, §1, substituted “National Association of Co
 
 Subsec. (c). Pub. L. 89–733, §2, inserted provision that members shall serve until their successors are appointed, except as provided in section 4274(d) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4274 of this title.
-

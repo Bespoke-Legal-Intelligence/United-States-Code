@@ -60,10 +60,6 @@
 
 1994—Pub. L. 103–440, title II, §§206(b), 207(b), 210(b), 211(b), 212(b), 213(b), 214(b), 215(b), 219(b), title III, §§301(b), 302(b), Nov. 2, 1994, 108 Stat. 4621–4624, 4626, 4628, substituted “Biennial” for “Annual” in item 20116 and “cars” for “equipment” in item 20133 and added items 20145 to 20153.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 21301, 21302, 21311 of this title; title 45 section 54a.
-
 
 ---
 

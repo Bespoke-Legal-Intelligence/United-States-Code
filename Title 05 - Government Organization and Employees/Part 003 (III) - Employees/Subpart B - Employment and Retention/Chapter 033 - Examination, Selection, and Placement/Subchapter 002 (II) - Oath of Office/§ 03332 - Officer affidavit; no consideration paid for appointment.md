@@ -26,7 +26,3 @@ The section is restated for clarity and conciseness. The term “officer” is c
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5507 of this title; title 22 section 4001; title 42 section 211.
-

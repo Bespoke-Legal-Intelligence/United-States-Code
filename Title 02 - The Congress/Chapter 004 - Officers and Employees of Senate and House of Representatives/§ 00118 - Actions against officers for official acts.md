@@ -12,7 +12,3 @@ The provisions of section 8 of act July 28, 1866, ch. 298, 14 Stat. 329, referre
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney”. See section 541 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 118a of this title.
-

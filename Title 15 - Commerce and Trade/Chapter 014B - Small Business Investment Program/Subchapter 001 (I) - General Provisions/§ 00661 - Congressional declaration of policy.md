@@ -14,6 +14,10 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 1992—Pub. L. 102–366 inserted at end “It is the intention of the Congress that in the award of financial assistance under this chapter, when practicable, priority be accorded to small business concerns which lease or purchase equipment and supplies which are produced in the United States and that small business concerns receiving such assistance be encouraged to continue to lease or purchase such equipment and supplies.”
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–232, §1, May 28, 2004, 118 Stat. 649, provided that:“This Act \[amending section 697e of this title\] may be cited as the ‘Premier Certified Lenders Program Improvement Act of 2004’.”
+
 #### Short Title of 2001 Amendment
 
 Pub. L. 107–100, §1, Dec. 21, 2001, 115 Stat. 966, provided that: “This Act \[amending sections 636, 683, 687d, 687e, and 697 of this title, section 1833a of Title 12, Banks and Banking, and section 1014 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 636, 683, and 697 of this title\] may be cited as the ‘Small Business Investment Company Amendments Act of 2001’.”
@@ -68,7 +72,7 @@ Section 1 of Pub. L. 86–502, June 11, 1960, 74 Stat. 196, provided: “That th
 
 #### Short Title
 
-Section 101 of Pub. L. 85–699, as amended by Pub. L. 106–9, §2(d)(3), Apr. 5, 1999, 113 Stat. 18, provided that:“This Act \[enacting this chapter, amending sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 \[now 212\], 218 \[now 213\], 221 \[now 216\], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealing section 352a of Title 12, Banks and Banking, and enacting notes set out under this section and former section 352a of title 12\] may be cited as the ‘Small Business Investment Act of 1958’.”
+Section 101 of Pub. L. 85–699, as amended by Pub. L. 106–9, §2(d)(3), Apr. 5, 1999, 113 Stat. 18, provided that: “This Act \[enacting this chapter, amending sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 \[now 212\], 218 \[now 213\], 221 \[now 216\], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealing section 352a of Title 12, Banks and Banking, and enacting notes set out under this section and former section 352a of title 12\] may be cited as the ‘Small Business Investment Act of 1958’.”
 
 #### Regulations
 

@@ -18,7 +18,3 @@ There are authorized to be appropriated for each fiscal year (commencing with th
 
 Section is from the Supplemental Appropriations Act, 1985.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 31a–2a of this title.
-

@@ -28,7 +28,7 @@ The Comptroller General (and his duly authorized representatives) shall have the
 
 #### (3) Status of Comptroller General representatives
 
-&emsp;The Comptroller General and his duly authorized representatives shall be immune from civil and criminal process relating to words spoken or written and all acts performed by them in their official capacity and falling within their functions, except insofar as such immunity may be expressly waived by the Government of the United States. The Comptroller General and his duly authorized representatives shall not be liable to arrest or detention pending trial, except in the case of a grave crime and pursuant to a decision by a competent judicial authority, and such persons shall enjoy immunity from seizure of personal property, immigration restrictions, and laws relating to alien registration, fingerprinting, and the registration of foreign agents. Such persons shall enjoy the same taxation exemptions as are set forth in Article 34 of the Vienna Convention on Diplomatic Relations. The privileges, exemptions and immunities accorded under this paragraph are not for the personal benefit of the individuals concerned but are to safeguard the independent exercise of their official functions. Without prejudice to those privileges, exemptions and immunities, it is the duty of all such persons to respect the laws and regulations of the Government of the Federated States of Micronesia.
+&emsp;The Comptroller General and his duly authorized representatives shall be immune from civil and criminal process relating to words spoken or written and all acts performed by them in their official capacity and falling within their functions, except insofar as such immunity may be expressly waived by the Government of the United States. The Comptroller General and his duly authorized representatives shall not be liable to arrest or detention pending trial, except in the case of a grave crime and pursuant to a decision by a competent judicial authority, and such persons shall enjoy immunity from seizure of personal property, immigration restrictions, and laws relating to alien registration, fingerprinting, and the registration of foreign agents. Such persons shall enjoy the same taxation exemptions as are set forth in Article 34 of the Vienna Convention on Diplomatic Relations. The privileges, exemptions and immunities accorded under this paragraph are not forthe personal benefit of the individuals concerned but are to safeguard the independent exercise of their official functions. Without prejudice to those privileges, exemptions and immunities, it is the duty of all such persons to respect the laws and regulations of the Government of the Federated States of Micronesia.
 
 #### (4) Audits defined
 
@@ -40,15 +40,11 @@ The Comptroller General (and his duly authorized representatives) shall have the
 
 #### (5) Cooperation by Federated States of Micronesia
 
-&emsp;The Government of the Federated States of Micronesia will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable theComptroller General to fully discharge his responsibilities under this joint resolution.
+&emsp;The Government of the Federated States of Micronesia will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
 (Pub. L. 108–188, title I, §102, Dec. 17, 2003, 117 Stat. 2725.)
 
 #### References in Text
 
 This joint resolution, referred to in subsec. (b)(5), is Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under sections 1901 and 1921 of this title and amended provisions set out as a note under section 3101 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1921d of this title.
 

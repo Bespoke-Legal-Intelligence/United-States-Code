@@ -24,7 +24,3 @@ The Conservation Area shall consist of approximately 48,438 acres of public land
 
 (Pub. L. 107–282, title VI, §604, Nov. 6, 2002, 116 Stat. 2010.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460qqq–1 of this title.
-

@@ -14,7 +14,3 @@ Offense and Penalty.—A person, having escaped from a Federal correctional inst
 
 1996—Subsecs. (a), (b). Pub. L. 104–294 substituted “Federal correctional institution” for “Federal prison”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 14135a.
-

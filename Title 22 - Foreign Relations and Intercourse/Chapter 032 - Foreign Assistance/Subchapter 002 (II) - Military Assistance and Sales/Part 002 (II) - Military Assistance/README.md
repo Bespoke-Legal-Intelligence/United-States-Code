@@ -1,9 +1,5 @@
 Part II—Military Assistance
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 2304, 2360, 2415, 2428b, 2796, 2796a, 2796b, 7432 of this title; title 10 section 7307.
-
 
 ---
 

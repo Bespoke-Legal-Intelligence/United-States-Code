@@ -10,7 +10,7 @@ Right to Bring a Civil Action.—
 
 &emsp;(1)
 
-In general.—Every person that has furnished labor or material in carrying out work provided for in a contract for which a payment bond is furnished under section 3131 of this title and that has not been paid in full within 90 days after the day on which the person did or performed the last of the labor or furnished or supplied the material for which the claim is made may bring a civil action on the payment bond for the amount unpaid at the time the civil action is brought and may prosecute the action to final execution and judgment for the amount due.
+In general.—Every person that has furnished labor or material in carrying out workprovided for in a contract for which a payment bond is furnished under section 3131 of this title and that has not been paid in full within 90 days after the day on which the person did or performed the last of the labor or furnished or supplied the material for which the claim is made may bring a civil action on the payment bond for the amount unpaid at the time the civil action is brought and may prosecute the action to final execution and judgment for the amount due.
 
 &emsp;(2)
 
@@ -83,8 +83,4 @@ In subsection (b)(1), the words “may bring a civil action” are substituted f
 In subsection (b)(2), the words “to the contractor at any place he maintains an office or conducts his business, or his residence, or in any manner in which the United States marshal of the district in which the public improvement is situated is authorized by law to serve summons” are restated to reflect the probable intent of Congress. See H. Rept. 106–277, Part 1, 106th Cong., 1st Sess., pp. 4, 7.
 
 In subsection (c), the words “bring a civil action” are substituted for “sue” for consistency in the revised title and with other titles of the United States Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2701; title 15 section 636; title 25 sections 47a, 1656; title 31 sections 3905, 9303; title 39 section 410; title 42 sections 9619, 11707.
 

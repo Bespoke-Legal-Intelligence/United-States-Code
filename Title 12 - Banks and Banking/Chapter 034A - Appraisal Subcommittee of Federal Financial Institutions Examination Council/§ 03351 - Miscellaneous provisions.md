@@ -62,9 +62,5 @@ A corporation, partnership, or other business entity may provide appraisal servi
 
 Subsecs. (b) to (f). Pub. L. 103–325, §315(1), (2), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3337 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -66,23 +66,19 @@ Examination of Plan.—(1) Before funds are provided to the Governor of a State 
 
 (e)
 
-Exclusion From End-Strength Computation.—Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10.
-
-(f)
-
 End Strength Limitation.—(1) Except as provided in paragraph (2), at the end of a fiscal year there may not be more than 4000 members of the National Guard—
 
-&emsp;(A) on full-time National Guard duty under section 502(f) of this title to perform drug interdiction or counter-drug activities pursuant to an order to duty for a period of more than 180 days; or
+&emsp;(A) on full-time National Guard duty under section 502(f) of this title to perform drug interdiction or counter-drug activities pursuant to an order to duty; or
 
-&emsp;(B) on duty under State authority to perform drug interdiction or counter-drug activities pursuant to an order to duty for a period of more than 180 days with State pay and allowances being reimbursed with funds provided under subsection (a)(1).
+&emsp;(B) on duty under State authority to perform drug interdiction or counter-drug activities pursuant to an order to duty with State pay and allowances being reimbursed with funds provided under subsection (a)(1).
 
 (2) The Secretary of Defense may increase the end strength authorized under paragraph (1) by not more than 20 percent for any fiscal year if the Secretary determines that such an increase is necessary in the national security interests of the United States.
 
-(g)
+(f)
 
 Annual Report.—The Secretary of Defense shall submit to Congress an annual report regarding assistance provided and activities carried out under this section during the preceding fiscal year. The report shall include the following:
 
-&emsp;(1) The number of members of the National Guard excluded under subsection (e) from the computation of end strengths.
+&emsp;(1) The number of members of the National Guard excluded under subsection (e) <sup>1</sup> from the computation of end strengths.
 
 &emsp;(2) A description of the drug interdiction and counter-drug activities conducted under State drug interdiction and counter-drug activities plans referred to in subsection (c) with funds provided under this section.
 
@@ -90,27 +86,37 @@ Annual Report.—The Secretary of Defense shall submit to Congress an annual rep
 
 &emsp;(4) A description of the effect on military training and readiness of using units and personnel of the National Guard to perform activities under the State drug interdiction and counter-drug activities plans.
 
-(h)
+(g)
 
 Statutory Construction.—Nothing in this section shall be construed as a limitation on the authority of any unit of the National Guard of a State, when such unit is not in Federal service, to perform law enforcement functions authorized to be performed by the National Guard by the laws of the State concerned.
 
-(i)
+(h)
 
 Definitions.—For purposes of this section:
 
 &emsp;(1) The term “drug interdiction and counter-drug activities”, with respect to the National Guard of a State, means the use of National Guard personnel in drug interdiction and counter-drug law enforcement activities, including drug demand reduction activities, authorized by the law of the State and requested by the Governor of the State.
 
-&emsp;(2) The term “Governor of a State” means, in the case of the District of Columbia, the Commanding General of the National Guard of the District of Columbia.
+&emsp;(2) The term “Governor of a State” means, in the case of the District of Columbia, theCommanding General of the National Guard of the District of Columbia.
 
 &emsp;(3) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or possession of the United States.
 
-(Added Pub. L. 101–189, div. A, title XII, §1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, §703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, §9099A, Oct. 6, 1992, 106 Stat. 1926; Pub. L. 104–106, div. A, title X, §1021, Feb. 10, 1996, 110 Stat. 426; Pub. L. 104–208, div. C, title VI, §660, Sept. 30, 1996, 110 Stat. 3009–720; Pub. L. 105–85, div. A, title X, §1031, Nov. 18, 1997, 111 Stat. 1880; Pub. L. 105–261, div. A, title X, §1022, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 106–65, div. A, title X, §1021, Oct. 5, 1999, 113 Stat. 746.)
+(Added Pub. L. 101–189, div. A, title XII, §1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, §703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, §9099A, Oct. 6, 1992, 106 Stat. 1926; Pub. L. 104–106, div. A, title X, §1021, Feb. 10, 1996, 110 Stat. 426; Pub. L. 104–208, div. C, title VI, §660, Sept. 30, 1996, 110 Stat. 3009–720; Pub. L. 105–85, div. A, title X, §1031, Nov. 18, 1997, 111 Stat. 1880; Pub. L. 105–261, div. A, title X, §1022, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 106–65, div. A, title X, §1021, Oct. 5, 1999, 113 Stat. 746; Pub. L. 108–375, div. A, title IV, §416(k), Oct. 28, 2004, 118 Stat. 1869.)
+
+#### References in Text
+
+Subsection (e), referred to in subsec. (f)(1), was repealed and subsec. (f) was redesignated (e) by Pub. L. 108–375, div. A, title IV, §416(k)(1), (2), Oct. 28, 2004, 118 Stat. 1869.
 
 #### Prior Provisions
 
 Similar provisions were contained in Pub. L. 100–456, div. A, title XI, §1105, Sept. 29, 1988, 102 Stat. 2047, which was set out as a note under section 374 of Title 10, Armed Forces, prior to repeal by Pub. L. 101–189, §1207(b).
 
 #### Amendments
+
+2004—Subsec. (e). Pub. L. 108–375, §416(k)(1), (2), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10.”
+
+Subsec. (e)(1)(A), (B). Pub. L. 108–375, §416(k)(3), struck out “for a period of more than 180 days” after “order to duty”.
+
+Subsecs. (f) to (i). Pub. L. 108–375, §416(k)(2), redesignated subsecs. (g) to (i) as (f) to (h), respectively.
 
 1999—Subsec. (a)(3). Pub. L. 106–65 substituted “per item” for “per purchase order” in second sentence.
 
@@ -186,7 +192,5 @@ Subsec. (h)(1). Pub. L. 104–106, §1021(g), amended par. (1) generally. Prior 
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 101.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,9 +8,5 @@ At projects, the construction of which has commenced or been completed as of Jul
 
 1992—Pub. L. 102–575 substituted “not less than one-half the costs of operation” for “costs of operation”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460<i>l</i>–17 of this title.
-
 <i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
 

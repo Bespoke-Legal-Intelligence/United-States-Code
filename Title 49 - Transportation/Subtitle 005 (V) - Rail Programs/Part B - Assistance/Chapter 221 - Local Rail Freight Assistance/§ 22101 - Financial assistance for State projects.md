@@ -6,7 +6,7 @@ General.—The Secretary of Transportation shall provide financial assistance to
 
 &emsp;(1) acquiring, in any way the State considers appropriate, an interest in a rail line or rail property to maintain existing, or to provide future, rail freight transportation, but only if the Surface Transportation Board has authorized, or exempted from the requirements of that authorization, the abandonment of, or the discontinuance of rail transportation on, the rail line related to the project;
 
-&emsp;(2) improving and rehabilitating rail property on a rail line to the extent necessary to allow adequate and efficient rail freight transportation on the line, but only if the rail carrier certifies that the rail line related to the project carried not more than 5,000,000 grosston-miles of freight a mile in the prior year; and
+&emsp;(2) improving and rehabilitating rail property on a rail line to the extent necessary to allow adequate and efficient rail freight transportation on the line, but only if the rail carrier certifies that the rail line related to the project carried not more than 5,000,000 gross ton-miles of freight a mile in the prior year; and
 
 &emsp;(3) building rail or rail-related facilities (including new connections between at least 2 existing rail lines, intermodal freight terminals, sidings, bridges, and relocation of existing lines) to improve the quality and efficiency of the rail freight transportation, but only if the rail carrier certifies that the rail line related to the project carried not more than 5,000,000 gross ton-miles of freight a mile in the prior year.
 
@@ -85,8 +85,4 @@ In subsection (c)(2), the words “If the rail carrier that provided the transpo
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 22103, 22104, 22105 of this title.
 

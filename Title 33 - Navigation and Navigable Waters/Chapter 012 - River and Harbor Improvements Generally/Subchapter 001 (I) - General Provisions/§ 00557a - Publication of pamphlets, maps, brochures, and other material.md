@@ -4,7 +4,3 @@ The Chief of Engineers is authorized to publish information pamphlets, maps, bro
 
 (Pub. L. 85–480, §1, July 2, 1958, 72 Stat. 279.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 557b of this title.
-

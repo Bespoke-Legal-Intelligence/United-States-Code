@@ -20,7 +20,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), there are authorized to be appropriated to carry out sections 2915 through 2917 of this title and section 9273 of title 20 such sums as may be necessary for each of the fiscal years 1999 through 2003.
+&emsp;Subject to paragraph (2), there are authorized to be appropriated to carry out sections2915 through 2917 of this title and section 9273 of title 20 such sums as may be necessary for each of the fiscal years 1999 through 2003.
 
 #### (2) Reservations
 
@@ -93,10 +93,6 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 #### Construction of 2002 Amendment
 
 Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2918 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraphs”.</i>
 

@@ -68,7 +68,7 @@ Definitions.—In this section—
 
 “(b)
 
-Rule of Construction.—Effective on the date of the enactment of this Act \[Oct. 21, 1998\] and thereafter, and notwithstanding any other provision of law, for purposes of chapter 171 of title 28, United States Code, or any other provision of law relating to tort liability, a law enforcement officer shall be construed to be acting within the scope of his or her office or employment, if the officer takes reasonable action, including the use of force, to—
+Rule of Construction.—Effective on the date of the enactment of this Act \[Oct. 21, 1998\] and thereafter, and notwithstanding any other provision of law, for purposes of chapter 171 of title 28, United States Code, or any other provision of law relating to tort liability,a law enforcement officer shall be construed to be acting within the scope of his or her office or employment, if the officer takes reasonable action, including the use of force, to—
 
 &emsp;“(1) protect an individual in the presence of the officer from a crime of violence;
 
@@ -101,8 +101,4 @@ Findings.—The Congress finds and declares the following:
 “(b)
 
 Purpose.—It is the purpose of this Act \[see Short Title of 1988 Amendment note under section 1 of this title\] to protect Federal employees from personal liability for common law torts committed within the scope of their employment, while providing persons injured by the common law torts of Federal employees with an appropriate remedy against the United States.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 8477; title 8 section 1357; title 16 section 4604; title 20 section 4420; title 25 section 450f; title 42 sections 7142c, 12555n; title 50 section 2783.
 

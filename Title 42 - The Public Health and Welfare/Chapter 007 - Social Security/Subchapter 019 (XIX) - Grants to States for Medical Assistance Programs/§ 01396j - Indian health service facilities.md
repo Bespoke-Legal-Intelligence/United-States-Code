@@ -50,13 +50,9 @@ Pub. L. 94–437, title IV, §402(b), Sept. 30, 1976, 90 Stat. 1409, which autho
 
 #### Payments Into Special Fund To Improve Indian Health Service Facilities To Achieve Compliance With Conditions and Requirements; Certification of Compliance by Secretary
 
-Section 402(c) of Pub. L. 94–437, as amended by Pub. L. 100–713, title IV, §401(a), Nov. 23, 1988, 102 Stat. 4818, provided that payments to which any Indian Health Service facility was entitled by reason of this section were to be placed in a special fund of the Secretary for improvements of facilities of the Service to comply with requirements of this subchapter, required minimum funding for each service unit making collections for such facilities, and provided for section 402(c) of Pub. L. 94–437 to cease to apply when Secretary determined that substantially all such facilities complied with requirements of this subchapter, prior to the general amendment of section 402 of Pub. L. 94–437 by Pub. L. 102–573, title IV, §401(b)(1), Oct. 29, 1992, 106 Stat. 4565. Similar provisions are contained in section 402(a) of Pub. L. 94–437 which is classified to section 1642(a) of Title 25, Indians.
+Section 402(c) of Pub. L. 94–437, as amended by Pub. L. 100–713, title IV, §401(a), Nov. 23, 1988, 102 Stat. 4818, provided that payments to which any Indian Health Service facility was entitled by reason of this section were to be placed in a special fund of the Secretary for improvements of facilities of the Service to comply with requirements of this subchapter, required minimum funding for each service unit making collections for such facilities, and provided for section 402(c) of Pub. L. 94–437 to cease to apply when Secretary determined that substantially all such facilities complied with requirements of this subchapter, prior to the general amendment of section 402 of Pub. L. 94–437 by Pub. L. 102–573, title IV, §401(b)(1), Oct. 29, 1992, 106 Stat.4565. Similar provisions are contained in section 402(a) of Pub. L. 94–437 which is classified to section 1642(a) of Title 25, Indians.
 
 #### Medicaid Payments Not Considered in Determining Appropriations for Indian Health Care
 
 Section 402(d) of Pub. L. 94–437 provided that any payments received for services provided recipients under this section were not to be considered in determining appropriations for the provision of health care and services to Indians, prior to the general amendment of section 402 of Pub. L. 94–437 by Pub. L. 102–573, title IV, §401(b)(1), Oct. 29, 1992, 106 Stat. 4565. Similar provisions are contained in section 402(b) of Pub. L. 94–437 which is classified to section 1642(b) of Title 25, Indians.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 290ff of this title; title 25 sections 1642, 1645.
 

@@ -14,7 +14,7 @@ Training provided pursuant to grants made under this part may include current in
 
 &emsp;(6) sex stereotyping of female and male victims of rape and sexual assault, racial stereotyping of rape victims and defendants, and the impact of such stereotypes on credibility of witnesses, sentencing, and other aspects of the administration of justice;
 
-&emsp;(7) application of rape shield laws and other limits on introduction of evidence that maysubject victims to improper sex stereotyping and harassment in both rape and nonrape cases, including the need for sua sponte judicial intervention in inappropriate cross-examination;
+&emsp;(7) application of rape shield laws and other limits on introduction of evidence that may subject victims to improper sex stereotyping and harassment in both rape and nonrape cases, including the need for sua sponte judicial intervention in inappropriate cross-examination;
 
 &emsp;(8) the use of expert witness testimony on rape trauma syndrome, child sexual abuse accommodation syndrome, post-traumatic stress syndrome, and similar issues;
 
@@ -38,7 +38,7 @@ Training provided pursuant to grants made under this part may include current in
 
 &emsp;(18) the need for orders of protection, and the implications of mutual orders of protection, dual arrest policies, and mediation in domestic violence and dating violence cases;
 
-&emsp;(19) recognition of and response to gender-motivated crimes of violence other than rape, sexual assault and domestic violence, such as mass or serial murder motivated by the gender of the victims;
+&emsp;(19) recognition of and response to gender-motivated crimes of violence other than rape,sexual assault and domestic violence, such as mass or serial murder motivated by the gender of the victims;
 
 &emsp;(20) the issues raised by domestic violence in determining custody and visitation, including how to protect the safety of the child and of a parent who is not a predominant aggressor of domestic violence, the legitimate reasons parents may report domestic violence, the ways domestic violence may relate to an abuser's desire to seek custody, and evaluating expert testimony in custody and visitation determinations involving domestic violence;
 
@@ -61,10 +61,6 @@ Par. (17). Pub. L. 106–386, §1406(d)(2)(D), inserted “or dating violence”
 Par. (18). Pub. L. 106–386, §1406(d)(2)(E), inserted “and dating violence” after “domestic violence”.
 
 Pars. (20) to (22). Pub. L. 106–386, §1406(a)(1), added pars. (20) to (22).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14001, 14214 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

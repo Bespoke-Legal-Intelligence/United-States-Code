@@ -48,7 +48,7 @@ In this division:
 
 &emsp;&emsp;(F) a provision specifying that no requirements of any program described in section 7315a(b) of this title and included by a State educational agency in the scope of the grant of authority shall apply to that agency, except as otherwise provided in this division;
 
-&emsp;&emsp;(G) a 5-year plan describing how the State educational agency intends to consolidate and use the funds from programs included in the scope of the grant of authority, for any educational purpose authorized under this chapter, in order to make adequate yearly progress and advance the education priorities of the State and the local educational agencies with which the State educational agency enters into performance agreements;
+&emsp;&emsp;(G) a 5-year plan describing how the State educational agency intends to consolidate and use the funds from programs included in the scope of the grant of authority, for anyeducational purpose authorized under this chapter, in order to make adequate yearly progress and advance the education priorities of the State and the local educational agencies with which the State educational agency enters into performance agreements;
 
 &emsp;&emsp;(H) an assurance that the State educational agency will provide parents, teachers, and representatives of local educational agencies and schools with notice and an opportunity to comment on the proposed terms of the grant of authority;
 
@@ -120,7 +120,7 @@ The Secretary shall—
 
 #### (A) Deemed approval
 
-&emsp;&emsp;A proposed amendment to a grant of flexibility authority submitted by a State educational agency pursuant to paragraph (1) shall be deemed to be approved by the Secretary unless the Secretary makes a writtendetermination, prior to the expiration of the 120-day period beginning on the date on which the Secretary received the proposed amendment, that the proposed amendment is not in compliance with this division.
+&emsp;&emsp;A proposed amendment to a grant of flexibility authority submitted by a State educational agency pursuant to paragraph (1) shall be deemed to be approved by the Secretary unless the Secretary makes a written determination, prior to the expiration of the 120-day period beginning on the date on which the Secretary received the proposed amendment, that the proposed amendment is not in compliance with this division.
 
 #### (B) Disapproval
 
@@ -155,8 +155,4 @@ The Secretary shall—
 &emsp;Beginning on the effective date of an amendment executed under paragraph (1)(A), each program requirement of each program removed from the scope of a grant of authority shall apply to the use of funds made available under the program by the State educational agency and each local educational agency with which the State educational agency has a performance agreement.
 
 (Pub. L. 89–10, title VI, §6141, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1879.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7315b, 7315c of this title.
 

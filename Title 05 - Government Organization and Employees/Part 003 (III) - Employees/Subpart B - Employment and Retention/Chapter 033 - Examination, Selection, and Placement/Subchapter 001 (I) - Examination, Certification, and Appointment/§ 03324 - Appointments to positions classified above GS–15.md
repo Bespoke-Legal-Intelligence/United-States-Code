@@ -76,7 +76,7 @@ Amendment by Pub. L. 102–378 effective May 4, 1991, see section 9(b)(4) of Pub
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990,see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1979 Amendment
 
@@ -89,8 +89,4 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Effective Date of 1967 Amendment
 
 Amendment by Pub. L. 90–83 effective as of Sept. 6, 1966, for all purposes, see section 9(h) of Pub. L. 90–83, set out as a note under section 5102 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1204, 1212, 7204 of this title; title 10 sections 4540, 7212, 9540; title 20 section 3461; title 42 section 7231.
 

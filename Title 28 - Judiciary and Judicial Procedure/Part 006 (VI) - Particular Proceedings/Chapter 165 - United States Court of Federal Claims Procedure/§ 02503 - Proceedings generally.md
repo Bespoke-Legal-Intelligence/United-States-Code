@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 102–572, §909, added subsec. (d).
 
 Subsec. (a). Pub. L. 97–164 substituted “Parties to any suit in the United States Claims Court may appear before a judge of that court in person or by attorney, produce evidence, and examine witnesses” for “Parties to any suit in the Court of Claims may appear before a commissioner in person or by attorney, produce evidence and examine witnesses” and redesignated as subsec. (c) provisions that, in accordance with rules and orders of the court, commissioners would fix times for trials, administer oaths or affirmations to and examine witnesses, receive evidence and report findings of fact, that when directed by the court, commissioners would report their recommendations for conclusions of law in cases assigned to them, and that hearings would, if convenient, be held in the counties where the witnesses resided.
 
-Subsec. (b). Pub. L. 97–164 substituted “The proceedings of the Claims Court shall be in accordance with such rules of practice and procedure (other than the rules of evidence) as the Claims Court may prescribeand in accordance with the Federal Rules of Evidence” for “The rules of the court shall provide for the filing in court of the commissioner's report of facts and recommendations for conclusions of law, and for opportunity for the parties to file exceptions thereto, and a hearing thereon before the court within a reasonable time” and struck out provision that this section did not prevent the court from passing upon all questions and findings regardless of whether exceptions were taken before a commissioner.
+Subsec. (b). Pub. L. 97–164 substituted “The proceedings of the Claims Court shall be in accordance with such rules of practice and procedure (other than the rules of evidence) as the Claims Court may prescribe and in accordance with the Federal Rules of Evidence” for “The rules of the court shall provide for the filing in court of the commissioner's report of facts and recommendations for conclusions of law, and for opportunity for the parties to file exceptions thereto, and a hearing thereon before the court within a reasonable time” and struck out provision that this section did not prevent the court from passing upon all questions and findings regardless of whether exceptions were taken before a commissioner.
 
 Subsec. (c). Pub. L. 97–164 redesignated provisions in second and third sentences of former subsec. (a) as (c) and substituted “The judges of the Claims Court” for “In accordance with rules and orders of the court, commissioners” and “enter dispositive judgments” for “report findings of fact and, when directed by the court, their recommendations for conclusions of law in cases assigned to them”.
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 798 of this title.
 

@@ -178,7 +178,7 @@ Subsec. (b)(2). Pub. L. 105–385, §212(b)(3)(C)(iii), substituted “trust” 
 
 Subsec. (b)(2)(A). Pub. L. 105–385, §212(b)(3)(B), substituted “trust” for “reserve” in introductory provisions.
 
-Subsec. (b)(2)(B). Pub. L. 105–385, §212(a)(1)(C), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “Any use of funds to acquire eligible commodities through purchases from producers or in the market to replenish the reserve must be authorized in an appropriations Act.”
+Subsec. (b)(2)(B). Pub. L. 105–385, §212(a)(1)(C), added subpar. (B) and struck out heading and text of formersubpar. (B). Text read as follows: “Any use of funds to acquire eligible commodities through purchases from producers or in the market to replenish the reserve must be authorized in an appropriations Act.”
 
 Subsec. (c)(1)(B). Pub. L. 105–385, §212(b)(3)(B), substituted “trust” for “reserve” in introductory provisions.
 
@@ -205,8 +205,4 @@ Section 303 of title III of Pub. L. 96–494 provided that former section 1736f�
 Section 301 of title III of Pub. L. 96–494, as added by Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959, and amended by Pub. L. 105–385, title II, §212(b)(2), Nov. 13, 1998, 112 Stat. 3466, provided that: “This title \[enacting this section\] may be cited as the ‘Bill Emerson Humanitarian Trust Act’.”
 
 A prior section 301 of title III of Pub. L. 96–494 provided that title III (enacting former section 1736f–1 of this title and provisions set out as a note under that section) could be cited as the “Food Security Wheat Reserve Act of 1980”, prior to the general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, §225(a).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4001 of this title; title 46 App. section 1241f.
 

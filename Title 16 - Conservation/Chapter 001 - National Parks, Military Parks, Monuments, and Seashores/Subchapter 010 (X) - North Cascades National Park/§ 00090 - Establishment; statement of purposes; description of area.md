@@ -24,7 +24,3 @@ Sec. 3. The Secretary of the Interior is further authorized and directed to caus
 
 Sec. 4. There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 90e, 90e–1 of this title.
-

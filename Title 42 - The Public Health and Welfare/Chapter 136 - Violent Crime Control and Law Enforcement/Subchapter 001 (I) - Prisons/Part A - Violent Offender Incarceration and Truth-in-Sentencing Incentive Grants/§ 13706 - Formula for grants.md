@@ -36,7 +36,3 @@ In determining the amount of funds that States organized as a regional compact m
 
 A prior section 13706, Pub. L. 103–322, title II, §20106, Sept. 13, 1994, 108 Stat. 1818, related to technical assistance and training prior to the general amendment of this part by Pub. L. 104–134.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13705, 14214 of this title.
-

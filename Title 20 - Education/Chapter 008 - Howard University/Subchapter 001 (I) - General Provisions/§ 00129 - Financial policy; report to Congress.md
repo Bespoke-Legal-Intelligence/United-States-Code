@@ -4,7 +4,3 @@ It is declared to be the policy of the Congress that, to the extent consistent w
 
 (Pub. L. 87–262, §6, Sept. 21, 1961, 75 Stat. 544.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 128 of this title.
-

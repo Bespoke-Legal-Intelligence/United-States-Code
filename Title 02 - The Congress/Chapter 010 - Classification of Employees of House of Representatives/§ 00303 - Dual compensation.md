@@ -4,7 +4,3 @@ For the purposes of applicable law relating to the payment to any employee subje
 
 (Pub. L. 88–652, §14, Oct. 13, 1964, 78 Stat. 1084.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 60e–13 of this title.
-

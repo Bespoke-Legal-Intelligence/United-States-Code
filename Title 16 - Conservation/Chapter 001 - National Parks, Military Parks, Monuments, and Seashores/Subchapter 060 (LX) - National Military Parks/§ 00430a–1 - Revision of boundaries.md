@@ -10,7 +10,3 @@ In order to consolidate the Federal ownership of lands in, and to facilitate pro
 
 (Pub. L. 86–62, §1, June 23, 1959, 73 Stat. 108.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430a–2, 430a–3 of this title.
-

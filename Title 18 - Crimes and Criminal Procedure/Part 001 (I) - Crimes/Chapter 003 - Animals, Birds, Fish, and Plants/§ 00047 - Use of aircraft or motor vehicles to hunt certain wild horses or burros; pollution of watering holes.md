@@ -16,7 +16,3 @@
 
 1994—Subsecs. (a), (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 1338a.
-

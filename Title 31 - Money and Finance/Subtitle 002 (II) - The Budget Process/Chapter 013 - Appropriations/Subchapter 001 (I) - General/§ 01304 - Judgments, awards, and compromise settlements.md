@@ -96,11 +96,7 @@ Section 2(m) of Pub. L. 97–258 provided that the amendment made by that sectio
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3723, 7430, 7432, 7433 of this title; title 7 section 136m; title 10 sections 2733, 2734; title 16 sections 79g, 429b, 460bb–2, 838<i>l</i>; title 18 section 2712; title 25 sections 1777c, 1778c, 1779f; title 26 sections 7426, 7435; title 28 sections 1961, 3906; title 32 sections 334, 715; title 41 section 612.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

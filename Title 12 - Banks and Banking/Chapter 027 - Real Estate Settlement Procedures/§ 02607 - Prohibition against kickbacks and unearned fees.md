@@ -60,9 +60,5 @@ Amendment by Pub. L. 94–205 effective Jan. 2, 1976, see section 12 of Pub. L. 
 
 Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2614 of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -72,7 +72,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (3)(A) If an amendment to the articles of incorporation of a Native Corporation extending alienability restrictions for a specified period of time is approved pursuant to paragraph (2), the restrictions shall automatically terminate at the end of such period unless the restrictions are extended in accordance with the provisions of paragraph (2)(D).
 
-(B) If the board of directors of a Native Corporation electing application of this subsection does not submit for a shareholder vote an amendment to the articles of incorporation ofthe corporation in accordance with paragraph (2)(B), or if the amendment submitted does not comply with paragraph (2)(C), alienability restrictions shall not terminate and shall instead remain in effect until such time as a court of competent jurisdiction, upon petition of one or more shareholders of the corporation, orders that a shareholder vote be taken on an amendment which complies with paragraph (2)(C) and such vote is conducted. Following the vote, the status of alienability restrictions shall be determined in accordance with the other provisions of this subsection and the amendment, if approved.
+(B) If the board of directors of a Native Corporation electing application of this subsection does not submit for a shareholder vote an amendment to the articles of incorporation of the corporation in accordance with paragraph (2)(B), or if the amendment submitted does not comply with paragraph (2)(C), alienability restrictions shall not terminate and shall instead remain in effect until such time as a court of competent jurisdiction, upon petition of one or more shareholders of the corporation, orders that a shareholder vote be taken on an amendment which complies with paragraph (2)(C) and such vote is conducted. Following the vote, the status of alienability restrictions shall be determined in accordance with the other provisions of this subsection and the amendment, if approved.
 
 (4)(A) A Native Corporation that approves an amendment to its articles of incorporation pursuant to paragraph (2) to extend alienability restrictions for an indefinite period of time may later amend its articles of incorporation to terminate the restrictions. Such amendment shall specify the time of termination, either by establishing a date certain or by describing the specific event upon which the restrictions shall terminate.
 
@@ -82,7 +82,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 &emsp;(i) voted against such amendment, and
 
-&emsp;(ii) desires to relinquish his or her Settlement Common Stock in exchange for the stock or payment authorized by the board of directors pursuant to subparagraph (B),
+&emsp;(ii) desires to relinquish his or her Settlement Common Stock in exchange for thestock or payment authorized by the board of directors pursuant to subparagraph (B),
 
 > shall notify the Corporation within ninety days of the date of the vote of the shareholders on the amendment of his or her desire.
 
@@ -153,8 +153,4 @@ Section 16(b) of the Alaska Native Claims Settlement Act Amendments of 1987, ref
 1990—Subsec. (d)(1)(A). Pub. L. 101–378, §301(1), inserted before period at end “and such resolution is not validly rescinded pursuant to paragraph (2)(B)(ii)”.
 
 Subsec. (d)(2)(B). Pub. L. 101–378, §301(2), (3), designated existing provisions as cl. (i) and added cls. (ii) and (iii).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1606, 1620, 1629b, 1629d of this title; title 15 section 78m.
 

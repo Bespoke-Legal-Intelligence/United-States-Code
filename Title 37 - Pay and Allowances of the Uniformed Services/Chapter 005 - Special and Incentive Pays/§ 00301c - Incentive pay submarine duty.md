@@ -8,7 +8,7 @@ Eligibility Requirements.—(1) Subject to regulations prescribed by the Preside
 
 (3) To be entitled to continuous monthly submarine duty incentive pay through 26 years of service (as computed under section 205 of this title, but excluding, in the case of an officer, periods as an enlisted member before initial appointment as an officer), a member must perform operational submarine duties for at least 6 of the first 12, and at least 10 of the first 18, years of his submarine service. However, if a member performs the prescribed operational submarine duties for at least 8 but less than 10 of the first 18 years of his submarine service, he is entitled to continuous monthly submarine duty incentive pay for the first 22 years of his service (as computed under section 205 of this title, but excluding, in the case of an officer, periods as an enlisted member before initial appointment as an officer).
 
-(4) If upon completion of either 12 or 18 years of submarine service it is determined that a member has failed to perform the minimum prescribed operational submarine duty requirements during the prescribed periods of time, his entitlement to continuous monthly submarine duty incentive pay ceases. If entitlement to continuous monthly submarine duty incentive pay ceases upon completion of 12 years of submarine service, entitlement to that pay may again commence upon completion of 18 years of submarine service if the minimum operational submarine duty requirements have been met, and such pay shall continue for the period of time prescribed in accordance with this section. However, if entitlement to continuous monthly submarine duty incentive pay ceases in the case of any member at the completion of either 12 or 18 years of submarine service or 26 years of service (as computed under section 205 of this title, butexcluding, in the case of an officer, periods as an enlisted member before initial appointment as an officer), such member shall be entitled to that pay in the amount prescribed pursuant to subsection (b) for the performance of subsequent operational submarine duty, or for the performance of service as a member of a submarine operational command staff, if such member's duties require serving on a submarine during underway operations.
+(4) If upon completion of either 12 or 18 years of submarine service it is determined that a member has failed to perform the minimum prescribed operational submarine duty requirements during the prescribed periods of time, his entitlement to continuous monthly submarine duty incentive pay ceases. If entitlement to continuous monthly submarine duty incentive pay ceases upon completion of 12 years of submarine service, entitlement to that pay may again commence upon completion of 18 years of submarine service if the minimum operational submarine duty requirements have been met, and such pay shall continue for the period of time prescribed in accordance with this section. However, if entitlement to continuous monthly submarine duty incentive pay ceases in the case of any member at the completion of either 12 or 18 years of submarine service or 26 years of service (as computed under section 205 of this title, but excluding, in the case of an officer, periods as an enlisted member before initial appointment asan officer), such member shall be entitled to that pay in the amount prescribed pursuant to subsection (b) for the performance of subsequent operational submarine duty, or for the performance of service as a member of a submarine operational command staff, if such member's duties require serving on a submarine during underway operations.
 
 (5) In this section:
 
@@ -64,7 +64,7 @@ Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added p
 
 &emsp;“(2) the number of enlisted members and officers, by pay grade, who, during such fiscal year, had at least 18 years of submarine service and who were entitled to such incentive pay.
 
-> The Secretary shall include in each such report the number of enlisted members and the number of officers in each category referred to in the first sentence of this subsection, the number of such officers who, during the fiscal year concerned, were performing operational submarine duties, who were performing submarine command staff duties, and who were not performing submarine duties at all.”
+> The Secretary shall include in each such report the number of enlisted members and the number of officersin each category referred to in the first sentence of this subsection, the number of such officers who, during the fiscal year concerned, were performing operational submarine duties, who were performing submarine command staff duties, and who were not performing submarine duties at all.”
 
 1988—Subsec. (a). Pub. L. 100–456 made clarifying amendment to directory language of Pub. L. 100–180, §623(a). See 1987 Amendment note below.
 
@@ -125,8 +125,4 @@ Pub. L. 107–107, div. A, title VI, §617(c), Dec. 28, 2001, 115 Stat. 1137, pr
 &emsp;“(1) January 1, 2002.
 
 &emsp;“(2) The date on which the Secretary of the Navy prescribes new submarine duty incentive pay rates as authorized by the amendment made by subsection (a) \[amending this section\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 308 of this title.
 

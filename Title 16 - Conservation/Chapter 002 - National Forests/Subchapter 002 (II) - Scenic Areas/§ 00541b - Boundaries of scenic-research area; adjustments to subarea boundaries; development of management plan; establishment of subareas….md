@@ -22,7 +22,3 @@ Within the Area, the following subareas shall be established and shall be manage
 
 (Pub. L. 93–535, §3, Dec. 22, 1974, 88 Stat. 1732.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 541c of this title.
-

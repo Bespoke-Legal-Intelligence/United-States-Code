@@ -6,7 +6,7 @@ No environmental rule, regulation, or procedure shall become effective with rega
 
 #### References in Text
 
-The Nuclear Non-Proliferation Act of 1978, referred to in text, is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§3201 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of Title 22 and Tables.
+The Nuclear Non-Proliferation Act of 1978, referred to in text, is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§3201 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, seeShort Title note set out under section 3201 of Title 22 and Tables.
 
 #### Codification
 

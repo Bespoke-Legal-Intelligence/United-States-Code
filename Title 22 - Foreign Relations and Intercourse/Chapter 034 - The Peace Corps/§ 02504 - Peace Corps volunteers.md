@@ -106,7 +106,7 @@ Subsec. (f)(1)(B). Pub. L. 96–465, §2202(a)(1)(B), substituted “Foreign Ser
 
 Subsec. (h). Pub. L. 96–465, §2202(a)(2), substituted “section 2702 of this title” for “section 817 of this title” and “President” for “Director of ACTION”.
 
-1978—Subsec. (c). Pub. L. 95–331, §4(1), struck out provisions relating to allowances for volunteers withminor children at the time of their entering a period of pre-enrollment training.
+1978—Subsec. (c). Pub. L. 95–331, §4(1), struck out provisions relating to allowances for volunteers with minor children at the time of their entering a period of pre-enrollment training.
 
 Subsec. (h). Pub. L. 95–331, §4(2), inserted provisions relating to applicability of malpractice protection.
 
@@ -192,7 +192,7 @@ Report to Congress.—Not later than 90 days after receipt of a report required 
 
 Definitions.—For purposes of this section—
 
-&emsp;“(1) the term ‘appropriate congressional committees’ means the Committee on Foreign Relations and the Committee on Appropriations of the Senate andthe Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Appropriations of the House of Representatives; and
+&emsp;“(1) the term ‘appropriate congressional committees’ means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Appropriations of the House of Representatives; and
 
 &emsp;“(2) the term ‘eligible organization’ means an independent health-care accreditation organization or other independent organization with expertise in evaluating health-care systems similar to that of the Peace Corps.”
 
@@ -204,7 +204,7 @@ Section 2(b) of Pub. L. 89–572 provided that: “The authority contained in su
 
 Ex. Ord. No. 11103, Apr. 10, 1963, 28 F.R. 3571, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-By virtue of the authority vested in me by the Civil Service Act (22 Stat. 403) \[see, generally, section 1101 et seq. of Title 5, Government Organization and Employers\], and section 1753 of the Revised Statutes \[section 3301 of Title 5\], and as President of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Civil Service Act (22 Stat. 403) \[see, generally, section 1101 etseq. of Title 5, Government Organization and Employers\], and section 1753 of the Revised Statutes \[section 3301 of Title 5\], and as President of the United States, it is hereby ordered as follows:
 
 Section 1. Under such regulations as the Office of Personnel Management may prescribe, the head of any agency in the Executive Branch may appoint in the competitive service any person who is certified by the Director of the Peace Corps as having served satisfactorily as a Volunteer or Volunteer Leader under the Peace Corps Act \[see Short Title note set out under section 2501 of this title\] and who passes such examination as the Office of Personnel Management may prescribe. Any person so appointed shall, upon completion of the prescribed probationary period, acquire a competitive status.
 
@@ -215,8 +215,4 @@ Sec. 3. Certificates of satisfactory service for the purposes of this order shal
 Sec. 4. Any appointment under this order shall be effected within a period of one year after completion of the appointee's service under the Peace Corps Act \[see Short Title note set out under section 2501 of this title\]: <i>Provided</i>, That such period may be extended to not more than three years in the case of persons who, following such service, are engaged in military service, in the pursuit of studies at a recognized institution of higher learning, or in other activities which, in the view of the appointing authority, warrant an extension of such period.
 
 Sec. 5. Any law, Executive Order, or regulation which would disqualify an applicant for appointment in the competitive service or in the excepted service concerned shall also disqualify an applicant for appointment under this order.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2505, 2509, 2715b of this title; title 5 sections 8142, 8332, 8334, 8422; title 26 sections 912, 3401, 9801; title 29 section 1181; title 42 sections 300gg, 409, 14402.
 

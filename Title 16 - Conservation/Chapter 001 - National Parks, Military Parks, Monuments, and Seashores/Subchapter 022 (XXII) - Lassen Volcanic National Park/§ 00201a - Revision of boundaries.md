@@ -12,7 +12,3 @@ All of those lands lying within the boundary lines above described and the prese
 
 (Jan. 19, 1929, ch. 75, §1, 45 Stat. 1081.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 201b of this title.
-

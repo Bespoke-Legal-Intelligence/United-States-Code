@@ -8,7 +8,3 @@ Whenever any legally organized water-users’ association or irrigation district
 
 Section is comprised of part of first sentence of section 5 of act Aug. 13, 1914. Remainder of first sentence and second sentence of such section 5 are classified to section 492 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 475, 511 of this title; title 25 section 564<i>l.</i>
-

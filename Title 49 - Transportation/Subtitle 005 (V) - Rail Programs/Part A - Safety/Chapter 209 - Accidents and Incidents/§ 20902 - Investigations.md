@@ -62,7 +62,3 @@ In subsection (b), the words “In carrying out an investigation” are substitu
 
 In subsection (c), the words “When in the public interest” are substituted for “when he deems it to the public interest” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 20903 of this title.
-

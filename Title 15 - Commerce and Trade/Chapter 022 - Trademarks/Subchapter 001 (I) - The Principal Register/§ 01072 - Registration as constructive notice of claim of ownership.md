@@ -12,7 +12,3 @@ Acts March 3, 1881, and February 20, 1905, referred to in text, are acts Mar. 3,
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1094 of this title.
-

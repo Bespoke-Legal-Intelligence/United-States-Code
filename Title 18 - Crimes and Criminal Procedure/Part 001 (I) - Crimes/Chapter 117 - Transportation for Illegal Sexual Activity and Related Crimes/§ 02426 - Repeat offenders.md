@@ -22,7 +22,3 @@ Definitions.—In this section—
 
 2003—Subsec. (a). Pub. L. 108–21 inserted “, unless section 3559(e) applies” before period at end.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2247 of this title.
-

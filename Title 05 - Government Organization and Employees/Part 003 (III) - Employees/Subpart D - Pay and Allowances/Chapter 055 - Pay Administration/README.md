@@ -87,6 +87,7 @@
 | [5549\.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005549%20-%20Effect%20on%20other%20statutes.md) | Effect on other statutes. |
 | \[5550. | Repealed.\] |
 | [5550a.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005550a%20-%20Compensatory%20time%20off%20for%20religious%20observances.md) | Compensatory time off for religious observances. |
+| [5550b.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005550b%20-%20Compensatory%20time%20off%20for%20travel.md) | Compensatory time off for travel. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -141,6 +142,8 @@
 
 #### Amendments
 
+2004—Pub. L. 108–411, title II, §203(b), Oct. 30, 2004, 118 Stat. 2313, added item 5550b.
+
 1999—Pub. L. 106–65, div. A, title VI, §651(a)(2), Oct. 5, 1999, 113 Stat. 664, struck out item 5532 “Employment of retired members of the uniformed services; reduction in retired or retainer pay.”
 
 1998—Pub. L. 105–277, div. A, §101(h) \[title VI, §628(b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, added item 5545b.
@@ -184,10 +187,6 @@ Pub. L. 92–392, §10(b), Aug. 19, 1972, 86 Stat. 574, added item 5550.
 Pub. L. 90–588, §2(c), Oct. 17, 1968, 82 Stat. 1152, added item 5519.
 
 1967—Pub. L. 90–83, §1(23), (26)(B), (28), (30), (35), Sept. 11, 1967, 81 Stat. 200, 201, 203, inserted items 5534a, 5595 and 5596, included Sunday rates in item 5544, Sunday and hazardous duty differential in item 5545 and Sundays in item 5546, substituted “Severance Pay and Back Pay” for “Back Pay” in heading of subchapter IX, and struck out items 5591 to 5594.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 5362, 9701, 9902 of this title.
 
 
 ---

@@ -26,7 +26,3 @@ Another prior section 1501 of Pub. L. 90–351, title X, June 19, 1968, 82 Stat.
 
 Subsec. (b). Pub. L. 103–322, §180101(c), inserted before period at end “, based on the decennial census of 1990 through fiscal year 1997”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13862, 13971 of this title.
-

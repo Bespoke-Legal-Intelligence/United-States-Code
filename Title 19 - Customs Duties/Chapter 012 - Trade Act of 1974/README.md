@@ -449,7 +449,7 @@ I74subpart a—petitions and determinations
 
 |  |  |
 | :--- | ---: |
-| [2391\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20005%20-%20Miscellaneous%20Provisions/%C2%A7%2002391%20-%20General%20Accounting%20Office%20study%20and%20report.md) | General Accounting Office study and report. |
+| [2391\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20005%20-%20Miscellaneous%20Provisions/%C2%A7%2002391%20-%20GAO%20study%20and%20report.md) | GAO study and report. |
 | (a) | Adjustment assistance programs. |
 | (b) | Assistance from Labor and Commerce Departments. |
 | [2392\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20005%20-%20Miscellaneous%20Provisions/%C2%A7%2002392%20-%20Adjustment%20Assistance%20Coordinating%20Committee.md) | Adjustment Assistance Coordinating Committee. |
@@ -695,10 +695,6 @@ I74subpart a—petitions and determinations
 | [2495\.](Subchapter%20007%20%28VII%29%20-%20Tariff%20Treatment%20of%20Products%20of%2C%20and%20Other%20Sanctions%20Against%2C%20Uncooperative%20Major%20Drug%20Producing%20or%20Drug-Transit%20Countries/%C2%A7%2002495%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1352, 2502, 2804, 2805, 3004, 3105 of this title; title 6 section 212; title 28 sections 1581, 2631; title 29 section 2919.
 
 
 ---

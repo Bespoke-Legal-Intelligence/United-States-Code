@@ -8,7 +8,3 @@ The Chief Counsel may from time to time prepare and publish such reports as he d
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 634d, 634e, 634g of this title.
-

@@ -48,7 +48,3 @@ Par. (9). Pub. L. 103–189, §8(a)(2), (k)(3)(E), redesignated par. (7) as (9) 
 
 Par. (10). Pub. L. 103–189, §3(a)(2), added par. (10).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4906, 4912 of this title.
-

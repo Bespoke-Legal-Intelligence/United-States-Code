@@ -8,7 +8,3 @@ The Indians designated as the Tiwa Indians of Ysleta, Texas, by the Tiwa Indians
 
 The Tiwa Indians Act, referred to in text, is Pub. L. 90–287, Apr. 12, 1968, 82 Stat. 93, which was not classified to the Code and was repealed by section 1300g–5 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300g of this title.
-

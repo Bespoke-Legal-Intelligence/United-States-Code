@@ -24,7 +24,3 @@ It is unlawful for any person subject to the jurisdiction of the United States�
 
 (Pub. L. 104–43, title I, §106, Nov. 3, 1995, 109 Stat. 371.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5506, 5507, 5508, 5509 of this title.
-

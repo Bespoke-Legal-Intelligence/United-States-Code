@@ -4,7 +4,3 @@ No lands located within the park boundaries held in private, municipal, or State
 
 (Jan. 26, 1915, ch. 19, §3, 38 Stat. 800.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 192, 197 of this title.
-

@@ -8,7 +8,3 @@ Consent of the Congress of the United States is given to each of the several Sta
 
 Act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title, is popularly known as the Weeks Law.
 
-#### Weeks Law Referred to in Other Sections
-
-The Weeks Law is referred to in sections 47–1, 460a–4, 460vv–18, 460<i>lll</i>–12, 505b, 515 to 521a, 527, 569, 577e, 663, 683 of this title; title 25 sections 564w–1, 592; title 30 sections 181, 226, 351.
-

@@ -10,9 +10,5 @@ The Multiple-Use Sustained-Yield Act of 1960, referred to in text, is Pub. L. 86
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 1601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1601 of this title.
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 

@@ -4,7 +4,3 @@ Subject to conditions prescribed by the Secretary of Agriculture, any part of th
 
 (July 2, 1942, ch. 476, title I, 56 Stat. 597.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 172, 173 of this title.
-

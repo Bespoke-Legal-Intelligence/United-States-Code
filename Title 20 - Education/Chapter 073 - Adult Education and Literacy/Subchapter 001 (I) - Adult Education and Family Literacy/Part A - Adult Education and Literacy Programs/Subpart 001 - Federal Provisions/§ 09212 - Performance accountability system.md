@@ -38,7 +38,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each eligible agency submitting a State plan, there shall be established, inaccordance with this subparagraph, levels of performance for each of the core indicators of performance described in paragraph (2)(A) for adult education and literacy activities authorized under this part. The levels of performance established under this subparagraph shall, at a minimum—
+&emsp;&emsp;&emsp;For each eligible agency submitting a State plan, there shall be established, in accordance with this subparagraph, levels of performance for each of the core indicators of performance described in paragraph (2)(A) for adult education and literacy activities authorized under this part. The levels of performance established under this subparagraph shall, at a minimum—
 
 &emsp;&emsp;&emsp;&emsp;(I) be expressed in an objective, quantifiable, and measurable form; and
 
@@ -93,8 +93,4 @@ The purpose of this section is to establish a comprehensive performance accounta
 #### Amendments
 
 1998—Subsec. (b)(3)(A)(vi). Pub. L. 105–277 substituted “2871(i)(1) of title 29” for “2871(j) of title 29”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9224, 9241 of this title.
 

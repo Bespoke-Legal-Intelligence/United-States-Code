@@ -1,6 +1,6 @@
 ### §4503. Fellowship recipients
 
-(a) The Foundation is authorized to award fellowships to outstanding students and teacherswho will pursue graduate study leading to the degree of Master of Arts in teaching or other appropriate masters degree for teachers, with a major in social studies or American history. Each recipient must take at least twelve semester hours, or its equivalent in topics directly related to the Constitution of the United States, as determined by the Board.
+(a) The Foundation is authorized to award fellowships to outstanding students and teachers who will pursue graduate study leading to the degree of Master of Arts in teaching or other appropriate masters degree for teachers, with a major in social studies or American history. Each recipient must take at least twelve semester hours, or its equivalent in topics directly related to the Constitution of the United States, as determined by the Board.
 
 (b)(1) James Madison fellowships shall be awarded to individuals who are, or who desire to become, social studies and American history teachers in accordance with paragraphs (2) and (3).
 

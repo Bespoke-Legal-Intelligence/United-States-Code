@@ -28,7 +28,7 @@ The purpose of this part is to provide grants, contracts, or cooperative agreeme
 
 &emsp;&emsp;&emsp;(vii) initiatives that address the development of community quality assurance systems and the training related to the development, implementation, and evaluation of such systems, including training of individuals with developmental disabilities and their families;
 
-&emsp;&emsp;&emsp;(viii) initiatives that address the needs of aging individuals with developmentaldisabilities and aging caregivers of adults with developmental disabilities in the community;
+&emsp;&emsp;&emsp;(viii) initiatives that address the needs of aging individuals with developmental disabilities and aging caregivers of adults with developmental disabilities in the community;
 
 &emsp;&emsp;&emsp;(ix) initiatives that create greater access to and use of generic services systems, community organizations, and associations, and initiatives that assist in community economic development;
 
@@ -39,8 +39,4 @@ The purpose of this part is to provide grants, contracts, or cooperative agreeme
 &emsp;&emsp;&emsp;(xii) initiatives that address other areas of emerging need.
 
 (Pub. L. 106–402, title I, §161, Oct. 30, 2000, 114 Stat. 1725.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15082, 15083 of this title.
 

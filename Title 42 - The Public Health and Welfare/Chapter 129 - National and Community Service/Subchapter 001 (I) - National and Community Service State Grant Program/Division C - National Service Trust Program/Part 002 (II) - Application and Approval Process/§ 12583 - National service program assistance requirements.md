@@ -80,7 +80,3 @@ The Corporation may also require an assurance by the applicant that any national
 
 A prior section 131 of Pub. L. 101–610 was renumbered section 199J and is classified to section 12655j of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12592 of this title.
-

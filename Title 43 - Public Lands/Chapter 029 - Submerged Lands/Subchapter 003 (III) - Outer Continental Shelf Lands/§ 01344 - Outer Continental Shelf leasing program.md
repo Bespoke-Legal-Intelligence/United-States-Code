@@ -4,7 +4,7 @@
 
 The Secretary, pursuant to procedures set forth in subsections (c) and (d) of this section, shall prepare and periodically revise, and maintain an oil and gas leasing program to implement the policies of this subchapter. The leasing program shall consist of a schedule of proposed lease sales indicating, as precisely as possible, the size, timing, and location of leasing activity which he determines will best meet national energy needs for the five-year period following its approval or reapproval. Such leasing program shall be prepared and maintained in a manner consistent with the following principles:
 
-&emsp;(1) Management of the outer Continental Shelf shall be conducted in a manner whichconsiders economic, social, and environmental values of the renewable and nonrenewable resources contained in the outer Continental Shelf, and the potential impact of oil and gas exploration on other resource values of the outer Continental Shelf and the marine, coastal, and human environments.
+&emsp;(1) Management of the outer Continental Shelf shall be conducted in a manner which considers economic, social, and environmental values of the renewable and nonrenewable resources contained in the outer Continental Shelf, and the potential impact of oil and gas exploration on other resource values of the outer Continental Shelf and the marine, coastal, and human environments.
 
 &emsp;(2) Timing and location of exploration, development, and production of oil and gas among the oil- and gas-bearing physiographic regions of the outer Continental Shelf shall be based on a consideration of—
 
@@ -89,10 +89,6 @@ The heads of all Federal departments and agencies shall provide the Secretary wi
 #### Transfer of Functions
 
 Functions of Secretary of the Interior to promulgate regulations under this subchapter which relate to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1349 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “nonprivileged”.</i>
 

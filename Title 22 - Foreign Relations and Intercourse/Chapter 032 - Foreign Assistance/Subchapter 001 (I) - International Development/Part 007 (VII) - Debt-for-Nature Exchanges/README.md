@@ -1,9 +1,5 @@
 Part VII—Debt-for-Nature Exchanges
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 7 section 1738k.
-
 
 ---
 

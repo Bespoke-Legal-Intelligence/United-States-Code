@@ -88,7 +88,7 @@ Between agencies.—If the Administrator transfers a function from one executive
 
 (f)
 
-Advisory Committees.—The Administrator may establish advisory committees to provide advice on any function of the Administrator under this subtitle. Members of the advisory committees shall serve without compensation but are entitled to transportation and not more than $25 a day instead of expenses under section 5703 of title 5.
+Advisory Committees.—The Administrator may establish advisory committees to provide advice on any function of the Administrator under this subtitle. Members of the advisory committees shall serve without compensation but are entitled to transportation and not morethan $25 a day instead of expenses under section 5703 of title 5.
 
 (g)
 
@@ -288,9 +288,9 @@ Sec. 2. (a) The Secretary of Labor (“Secretary”) may investigate an organiza
 
 (b) The Secretary shall receive and may investigate complaints by employees of any entity covered under section 2(a) of this order where such complaints allege lawfully striking employees have been permanently replaced.
 
-(c) The Secretary may hold such hearings, public or private, as he or she deems advisable, to determinewhether an entity covered under section 2(a) has permanently replaced lawfully striking employees.
+(c) The Secretary may hold such hearings, public or private, as he or she deems advisable, to determine whether an entity covered under section 2(a) has permanently replaced lawfully striking employees.
 
-Sec. 3. (a) When the Secretary determines that a contractor has permanently replaced lawfully striking employees, the Secretary may make a finding that it is appropriate to terminate the contract for convenience. The Secretary shall transmit that finding to the head of any department or agency that contracts with the contractor.
+Sec. 3. (a) When the Secretary determines that a contractor has permanently replaced lawfully striking employees, the Secretary may make a finding that it isappropriate to terminate the contract for convenience. The Secretary shall transmit that finding to the head of any department or agency that contracts with the contractor.
 
 (b) The head of the contracting department or agency may object to the termination for convenience of a contract or contracts of a contractor determined to have permanently replaced legally striking employees. If the head of the agency so objects, he or she shall set forth the reasons for not terminating the contract or contracts in a response in writing to the Secretary. In such case, the termination for convenience shall not be issued. The head of the contracting agency or department shall report to the Secretary those contracts that have been terminated for convenience under this section.
 
@@ -448,7 +448,7 @@ Sec. 3. <i>Establishment and Responsibilities of Agency Senior Real Property Off
 
 (i) information that lists and describes real property assets under the jurisdiction, custody, or control of that agency, except for classified information; and
 
-(ii) any other relevant information the Director of the Office of Management and Budget or the Administrator of General Services may request for inclusion in the Government-wide listing of all Federal real property assets and leased property.
+(ii) any other relevant information the Director of the Office of Management and Budget or the Administrator of General Services may request for inclusion inthe Government-wide listing of all Federal real property assets and leased property.
 
 (e) The designation of the Senior Real Property Officer shall be made by agencies within 30 days after the date of this order.
 
@@ -501,8 +501,4 @@ Sec. 8. Executive Order 12512 of April 29, 1985, is hereby revoked.
 Sec. 9. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 111, 113, 124, 584 of this title; title 6 section 232; title 10 sections 2381, 2572, 4681, 4682, 4684, 7541, 7541a, 7542, 7545, 9681, 9682, 9684, 9686; title 31 section 3511; title 41 sections 257, 421; title 49 section 40110.
 

@@ -30,7 +30,3 @@ Historical and Revision Notes
 
 Oct. 24, 1951, ch. 559, §5, 65 Stat. 634; Pub. L. 88–391, §1, Aug. 1, 1964, 78 Stat. 365; Pub. L. 103–279, §9(a), July 21, 1994, 108 Stat. 1416.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6306, 6307 of this title.
-

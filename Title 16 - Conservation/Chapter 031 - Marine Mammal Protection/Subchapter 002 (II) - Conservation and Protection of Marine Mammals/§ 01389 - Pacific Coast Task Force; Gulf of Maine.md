@@ -24,7 +24,7 @@ Notwithstanding any other provision of this subchapter, the Secretary may permit
 
 (3) Within 60 days after establishment, and after reviewing public comments in response to the Federal Register notice under paragraph (1), the Pinniped-Fishery Interaction Task Force shall—
 
-&emsp;(A) recommend to the Secretary whether to approve or deny the proposed intentional lethal taking of the pinniped or pinnipeds, including along with the recommendation a description of the specific pinniped individual or individuals, the proposed location, time, and method of such taking, criteria for evaluating the success of the action, and the duration of the intentional lethal taking authority; and
+&emsp;(A) recommend to the Secretary whether to approve or deny the proposed intentional lethal taking of the pinniped or pinnipeds, including along with the recommendation a description of the specific pinniped individual orindividuals, the proposed location, time, and method of such taking, criteria for evaluating the success of the action, and the duration of the intentional lethal taking authority; and
 
 &emsp;(B) suggest nonlethal alternatives, if available and practicable, including a recommended course of action.
 
@@ -64,7 +64,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 > The Secretary shall conclude this investigation and prepare a report on its results no later than October 1, 1995.
 
-(2) Upon completion of the scientific investigation required under paragraph (1), the Secretary shall enter into discussions with the Pacific States Marine Fisheries Commission, onbehalf of the States of Washington, Oregon, and California, for the purpose of addressing any issues or problems identified as a result of the scientific investigation, and to develop recommendations to address such issues or problems. Any recommendations resulting from such discussions shall be submitted, along with the report, to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+(2) Upon completion of the scientific investigation required under paragraph (1), the Secretary shall enter into discussions with the Pacific States Marine Fisheries Commission, on behalf of the States of Washington, Oregon, and California, for the purpose of addressing any issues or problems identified as a result of the scientific investigation, and to develop recommendations to address such issues or problems. Any recommendations resulting from such discussions shall be submitted, along with the report, to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 (3) The Secretary shall make the report and the recommendations submitted under paragraph (2) available to the public for review and comment for a period of 90 days.
 

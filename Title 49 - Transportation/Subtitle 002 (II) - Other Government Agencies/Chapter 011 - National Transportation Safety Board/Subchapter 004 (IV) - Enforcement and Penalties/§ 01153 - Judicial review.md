@@ -20,7 +20,11 @@ Persons Seeking Judicial Review of Aviation Matters.—(1) A person disclosing a
 
 Administrator Seeking Judicial Review of Aviation Matters.—When the Administrator of the Federal Aviation Administration decides that an order of the Board under section 44709 or 46301(d)(5) of this title will have a significant adverse impact on carrying out this chapter related to an aviation matter, the Administrator may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 756.)
+(d)
+
+Commandant Seeking Judicial Review of Maritime Matters.—If the Commandant of the Coast Guard decides that an order of the Board issued pursuant to a review of a Coast Guard action under section 1133 of this title will have an adverse impact on maritime safety or security, the Commandant may obtain judicial review of the order under subsection (a). The Commandant, in the official capacity of the Commandant, shall be a party to the judicial review proceedings.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 756; Pub. L. 108–293, title VI, §622, Aug. 9, 2004, 118 Stat. 1063.)
 
 Historical and Revision Notes
 
@@ -119,4 +123,8 @@ In subsection (b)(3), the word “amend” is added for consistency in the revis
 In subsection (b)(4), the words “made in the proceeding conducted by” are substituted for “urged before” for clarity.
 
 In subsection (c), the source provisions are combined to eliminate unnecessary words and are restated in this chapter to alert the reader to the authority of the Administrator of the Federal Aviation Administration to seek judicial review of an order of the National Transportation Safety Board under section 44709 or 46301(d) of the revised title that the Administrator decides will have a significant adverse impact on carrying out source provisions restated in this chapter that are derived from title VII of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 781).
+
+#### Amendments
+
+2004—Subsec. (d). Pub. L. 108–293 added subsec. (d).
 

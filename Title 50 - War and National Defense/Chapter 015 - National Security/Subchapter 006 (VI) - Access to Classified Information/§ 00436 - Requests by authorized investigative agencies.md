@@ -66,7 +66,3 @@ The Right to Financial Privacy Act, referred to in subsec. (f), probably means t
 
 The Fair Credit Reporting Act, referred to in subsec. (f), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1601 of Title 15 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 435 of this title.
-

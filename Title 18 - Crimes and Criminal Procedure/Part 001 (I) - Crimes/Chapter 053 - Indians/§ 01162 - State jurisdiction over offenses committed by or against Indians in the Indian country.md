@@ -33,7 +33,3 @@ Subsec. (c). Pub. L. 91–523, §2, inserted “as areas over which the several 
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 25 sections 566e, 711e, 713f, 714e, 715d, 1300b–15, 1300f, 1300i–1, 1323, 1747, 1772d, 1918, 2433.
-

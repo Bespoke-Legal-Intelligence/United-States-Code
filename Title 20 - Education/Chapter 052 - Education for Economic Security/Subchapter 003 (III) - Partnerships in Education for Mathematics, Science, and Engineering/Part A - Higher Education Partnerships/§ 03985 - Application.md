@@ -46,7 +46,3 @@ A regional consortium of applicants in two or more States may file a joint appli
 
 1985—Subsec. (a). Pub. L. 99–159 substituted “Secretary” for “Foundation” in two places in provisions preceding par. (1) and in par. (8).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3986 of this title.
-

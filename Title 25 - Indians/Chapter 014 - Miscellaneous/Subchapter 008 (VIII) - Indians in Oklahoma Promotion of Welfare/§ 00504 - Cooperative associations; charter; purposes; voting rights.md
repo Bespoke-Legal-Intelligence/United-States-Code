@@ -8,7 +8,3 @@ Any ten or more Indians, as determined by the official tribal rolls, or Indian d
 
 Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of this chapter. Provisions of the Act defining “Indian” appear in section 479 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 505 of this title.
-

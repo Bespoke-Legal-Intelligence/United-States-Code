@@ -26,7 +26,7 @@ Contents and Form.—An application for a project grant under this subchapter—
 
 &emsp;(2) may propose a project only for a public-use airport included in the current national plan of integrated airport systems;
 
-&emsp;(3) may propose airport development only if the development complies with standards the Secretary prescribes or approves, including standards for site location, airport layout, site preparation, paving, lighting, and safety of approaches; and
+&emsp;(3) may propose airport development only if the development complies with standards theSecretary prescribes or approves, including standards for site location, airport layout, site preparation, paving, lighting, and safety of approaches; and
 
 &emsp;(4) shall be in the form and contain other information the Secretary prescribes.
 
@@ -117,8 +117,4 @@ In subsection (e), the words “of an airport for which” are substituted for �
 1994—Subsec. (a)(1)(B). Pub. L. 103–305, §106, in introductory provisions, substituted “1 or more airports” for “at least 2 airports” in two places and struck out “similar” before “projects”.
 
 Subsecs. (e), (f). Pub. L. 103–305, §107(a), added subsec. (e) and redesignated former subsec. (e) as (f).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 47117 of this title.
 

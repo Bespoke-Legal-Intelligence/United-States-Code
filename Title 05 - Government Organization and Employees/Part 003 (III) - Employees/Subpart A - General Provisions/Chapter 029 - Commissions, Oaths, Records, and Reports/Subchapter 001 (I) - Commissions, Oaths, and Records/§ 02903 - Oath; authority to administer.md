@@ -42,7 +42,7 @@ June 26, 1943, ch. 145, §206 (less 1st 9 words after last comma), 57 Stat. 196.
 
 5 U.S.C. 16a(b).
 
-Sept. 30, 1961, Pub. L. 87–322 (par. under “General Provision”), 75 Stat. 743.
+Sept. 30, 1961, Pub. L. 87–332 (par. under “General Provision”), 75 Stat. 743.
 
 &nbsp;
 
@@ -55,8 +55,4 @@ In subsection (b), the words “On and after June 26, 1943” are omitted as exe
 In subsection (c), the word “Constitution” is omitted because “laws”, as used in this title, encompasses the Constitution. In subsection (c)(1), the words “of the United States” are omitted as unnecessary. In subsection (c)(2), the words “an individual authorized by local law to administer oaths in the State, District, or territory, or possession of the United States where the oath is administered” are coextensive with and substituted for “notaries public duly appointed in any State, District, or Territory of the United States, by clerks and prothonotaries of courts of record of any such State, District, or Territory, by the deputies of such clerks and prothonotaries, and by all magistrates authorized by the laws of or pertaining to any such State, District, or Territory to administer oaths”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 39 section 1011.
 

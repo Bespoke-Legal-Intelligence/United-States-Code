@@ -18,7 +18,3 @@ Provision with respect to property in different districts was added to conform w
 
 See, also, section 1392 of this title which fixes venue of an action involving property in different districts in the same State.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 79c; title 42 section 2222.
-

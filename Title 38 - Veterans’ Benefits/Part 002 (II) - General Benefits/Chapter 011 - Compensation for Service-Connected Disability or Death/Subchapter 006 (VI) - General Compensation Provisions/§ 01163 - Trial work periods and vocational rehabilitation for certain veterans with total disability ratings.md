@@ -48,7 +48,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 1988—Subsec. (a)(2)(B). Pub. L. 100–687, §1301(a), substituted “1992” for “1989”.
 
-Subsec. (c)(1). Pub. L. 100–687, §1301(b)(2), (3), substituted “(1) In” for “(1)(A) Except as provided in paragraph (4) of this subsection, in”, redesignated cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively, and struck out former subpar. (B) which required that, after providing notice, Administrator arrange promptly for evaluation to determine whether achievement of vocational goal by veteran is feasible.
+Subsec. (c)(1). Pub. L. 100–687, §1301(b)(2), (3), substituted “(1) In” for “(1)(A) Except as provided in paragraph (4) of this subsection, in”, redesignated cls. (i),\(ii), and (iii) as subpars. (A), (B), and (C), respectively, and struck out former subpar. (B) which required that, after providing notice, Administrator arrange promptly for evaluation to determine whether achievement of vocational goal by veteran is feasible.
 
 Subsec. (c)(2). Pub. L. 100–687, §1301(b)(1), (3)(B), added par. (2) and struck out former par. (2) which related to failure of veteran to participate in evaluation, and reduction of disability rating.
 

@@ -88,7 +88,3 @@ A State organic certification program approved under this chapter may contain ad
 
 1998—Subsec. (d). Pub. L. 105–185 added subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6502, 6515 of this title.
-

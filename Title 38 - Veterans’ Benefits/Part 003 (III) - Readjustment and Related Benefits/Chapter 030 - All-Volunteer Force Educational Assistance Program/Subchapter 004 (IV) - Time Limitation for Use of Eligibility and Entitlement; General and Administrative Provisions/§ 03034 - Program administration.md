@@ -120,7 +120,7 @@ Section 413(b) of Pub. L. 101–237 provided that: “Through July 1, 1990, no p
 
 Section 422(c) of Pub. L. 101–237 provided that:
 
-“(1)(A) The Secretary of Veterans Affairs shall conduct an evaluation of paying educational assistance forflight training under chapter 30 of title 38, United States Code, and chapter 106 of title 10, United States Code.
+“(1)(A) The Secretary of Veterans Affairs shall conduct an evaluation of paying educational assistance for flight training under chapter 30 of title 38, United States Code, and chapter 106 of title 10, United States Code.
 
 “(B) The evaluation required by subparagraph (A) shall be designed to determine the effectiveness of the provision of educational assistance referred to in such subparagraph in preparing the recipients of such assistance for recognized vocational objectives in the field of aviation.
 
@@ -139,8 +139,4 @@ Section 422(c) of Pub. L. 101–237 provided that:
 &emsp;&emsp;“(v) the extent to which the training (I) assists the recipients in achieving employment in the field of aviation, or (II) was used only or primarily for recreational or avocational purposes; and
 
 &emsp;“(B) any recommendations for legislation that the Secretary considers appropriate to include in the report.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3020, 3032, 3680A, 3688 of this title.
 

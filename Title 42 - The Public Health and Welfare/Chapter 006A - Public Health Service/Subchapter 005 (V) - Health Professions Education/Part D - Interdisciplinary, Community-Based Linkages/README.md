@@ -1,9 +1,5 @@
 Part D—Interdisciplinary, Community-Based Linkages
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 295<i>o</i>–1 of this title.
-
 
 ---
 

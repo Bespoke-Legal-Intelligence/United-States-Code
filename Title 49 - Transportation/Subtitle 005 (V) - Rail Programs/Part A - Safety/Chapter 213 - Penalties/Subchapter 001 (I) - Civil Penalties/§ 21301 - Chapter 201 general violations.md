@@ -88,7 +88,3 @@ Pub. L. 104–287, §5(53)(A), inserted “A person may not fail to comply with 
 
 Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 20112, 20138 of this title.
-

@@ -10,13 +10,13 @@
 
 > shall be fined under this title, or imprisoned not more than 5 years, or both.
 
-(b) Notwithstanding subsection (a) or any other provision of law, if a forged, counterfeited,mutilated, or altered seal of a department or agency of the United States, or any facsimile thereof, is—
+(b) Notwithstanding subsection (a) or any other provision of law, if a forged, counterfeited, mutilated, or altered seal of a department or agency of the United States, or any facsimile thereof, is—
 
 &emsp;(1) so forged, counterfeited, mutilated, or altered;
 
 &emsp;(2) used, affixed, or impressed to or upon any certificate, instrument, commission, document, or paper of any description; or
 
-&emsp;(3) with fraudulent intent, possessed, sold, offered for sale, furnished, offered to furnish, given away, offered to give away, transported, offered to transport, imported, or offered to import,
+&emsp;(3) with fraudulent intent, possessed, sold, offered for sale, furnished, offered to furnish,given away, offered to give away, transported, offered to transport, imported, or offered to import,
 
 > with the intent or effect of facilitating an alien's application for, or receipt of, a Federal benefit to which the alien is not entitled, the penalties which may be imposed for each offense under subsection (a) shall be two times the maximum fine, and 3 times the maximum term of imprisonment, or both, that would otherwise be imposed for an offense under subsection (a).
 
@@ -57,10 +57,6 @@ Minor changes in phraseology were also made.
 “Shall be fined under this title or imprisoned not more than five years, or both.”
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1717 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “42”.</i>
 

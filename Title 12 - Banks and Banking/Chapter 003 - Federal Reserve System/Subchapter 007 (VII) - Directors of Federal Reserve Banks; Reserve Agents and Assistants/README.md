@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—DIRECTORS OF FEDERAL RESERVE BANKS; RESERVE AGENTS AND ASSISTANTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 442 of this title.
-
 
 ---
 

@@ -32,7 +32,7 @@ The requirements of this section shall apply to—
 
 #### (2) Definitions
 
-&emsp;For purposes of the application of title II of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq.) under this section, the term “public entity” means any entity listedin subsection (a) of this section that provides public services, programs, or activities.
+&emsp;For purposes of the application of title II of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq.) under this section, the term “public entity” means any entity listed in subsection (a) of this section that provides public services, programs, or activities.
 
 #### (c) Remedy
 
@@ -68,7 +68,7 @@ The remedy for a violation of subsection (b) of this section shall be such remed
 
 #### (2) Agency regulations
 
-&emsp;The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Attorney General and the Secretary of Transportation to implement the statutory provisions referred to in subsection (b) of this section except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+&emsp;The regulations issued under paragraph (1) shall be the same as substantive regulationspromulgated by the Attorney General and the Secretary of Transportation to implement the statutory provisions referred to in subsection (b) of this section except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 #### (3) Entity responsible for correction
 
@@ -104,11 +104,11 @@ The remedy for a violation of subsection (b) of this section shall be such remed
 
 &emsp;Subsections (b), (c), and (d) of this section shall be effective on January 1, 1997.
 
-#### (2) General Accounting Office, Government Printing Office, and Library of Congress
+#### (2) Government Accountability Office, Government Printing Office, and Library of Congress
 
 &emsp;Subsection (g) of this section shall be effective 1 year after transmission to the Congress of the study under section 1371 of this title.
 
-(Pub. L. 104–1, title II, §210, Jan. 23, 1995, 109 Stat. 13.)
+(Pub. L. 104–1, title II, §210, Jan. 23, 1995, 109 Stat. 13; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -120,7 +120,7 @@ Subsection (g) of this section, referred to in subsec. (h)(2), amended section 1
 
 Section is comprised of section 210 of Pub. L. 104–1. Subsec. (g) of section 210 of Pub. L. 104–1 amended section 12209 of Title 42, The Public Health and Welfare.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 1341, 1361, 1407, 1414, 1415, 1416, 1435 of this title.
+2004—Subsec. (h)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
 

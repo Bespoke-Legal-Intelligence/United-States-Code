@@ -48,7 +48,7 @@ The demonstration projects shall be conducted—
 
 #### (e) Evaluation and report
 
-The Secretary shall evaluate the operations of the demonstration projects and shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate—
+The Secretary shall evaluate the operations of the demonstration projects and shall submit tothe Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate—
 
 &emsp;(1) not later than 18 months after the beginning of the first project, a preliminary report that contains—
 
@@ -72,7 +72,7 @@ Each demonstration project shall provide for other research to be carried out at
 
 #### (g) Authorization of appropriations
 
-(1) To carry out this section, there are authorized to be appropriated $10,000,000 for fiscal year1989 and such sums as are necessary for each of the fiscal years 1990 through 1992.
+(1) To carry out this section, there are authorized to be appropriated $10,000,000 for fiscal year 1989 and such sums as are necessary for each of the fiscal years 1990 through 1992.
 
 (2) Amounts appropriated pursuant to paragraph (1) shall remain available until September 10, 1992.
 
@@ -111,6 +111,8 @@ Subsec. (g)(1). Pub. L. 100–690, §2618(h)(10), substituted “fiscal year 198
 Subsec. (h). Pub. L. 100–527 substituted “Secretary of the Department of Veterans Affairs” and “Department of Veterans Affairs” for “Administrator of the Veterans’ Administration” and “Veterans’ Administration”, respectively.
 
 #### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

@@ -4,7 +4,3 @@ If a dam is constructed pursuant to an agreement concluded under the authorizati
 
 (Pub. L. 86–605, §3, July 7, 1960, 74 Stat. 360.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 277d–16 of this title; title 16 section 460fff–1.
-

@@ -8,7 +8,3 @@ A rail carrier providing transportation subject to the jurisdiction of the Board
 
 A prior section 10742, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1391, related to facilities for interchange of traffic, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 10742 and 15506 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10705 of this title.
-

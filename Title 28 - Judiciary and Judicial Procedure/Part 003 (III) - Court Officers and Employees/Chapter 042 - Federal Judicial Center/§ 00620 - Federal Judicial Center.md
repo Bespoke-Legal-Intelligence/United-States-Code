@@ -14,7 +14,7 @@
 
 &emsp;(5) Insofar <sup>1</sup> as may be consistent with the performance of the other functions set forth in this section, to cooperate with the State Justice Institute in the establishment and coordination of research and programs concerning the administration of justice; and
 
-&emsp;(6) insofar as may be consistent with the performance of the other functions set forth in this section, to cooperate with and assist agencies of the Federal Government and other appropriate organizations in providing information and advice to further improvement in the administration of justice in the courts of foreign countries and to acquire information about judicial administration in foreign countries that may contribute to performing the other functions set forth in this section.
+&emsp;(6) insofar as may be consistent with the performance of the other functions set forth inthis section, to cooperate with and assist agencies of the Federal Government and other appropriate organizations in providing information and advice to further improvement in the administration of justice in the courts of foreign countries and to acquire information about judicial administration in foreign countries that may contribute to performing the other functions set forth in this section.
 
 (Added Pub. L. 90–219, title I, §101, Dec. 20, 1967, 81 Stat. 664; amended Pub. L. 95–598, title II, §227, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 98–620, title II, §214, Nov. 8, 1984, 98 Stat. 3346; Pub. L. 99–336, §6(b), June 19, 1986, 100 Stat. 639; Pub. L. 100–702, title III, §303, Nov. 19, 1988, 102 Stat. 4648; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title VI, §602(a), Oct. 29, 1992, 106 Stat. 4514.)
 
@@ -49,10 +49,6 @@ Amendment by Pub. L. 98–620 effective Oct. 1, 1985, see section 216 of Pub. L.
 #### Study of Intercircuit Conflicts and Structural Alternatives for Courts of Appeals by Federal Judicial Center
 
 Pub. L. 101–650, title III, §302, Dec. 1, 1990, 104 Stat. 5104, as amended by Pub. L. 102–572, title V, §502(c), Oct. 29, 1992, 106 Stat. 4513, directed Board of the Federal Judicial Center to conduct study and submit report to Congress by Jan. 1, 1992, on number and frequency of conflicts among judicial circuits in interpreting law that remain unresolved because they are not heard by the Supreme Court, and further directed Board to study full range of structural alternatives for Federal Courts of Appeals and submit report on the study to Congress and Judicial Conference of the United States, no later than 2 years and 9 months after Dec. 1, 1990.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 14001.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -10,7 +10,3 @@ It shall be unlawful for any person without just cause to hinder, delay, or obst
 
 (Aug. 22, 1940, ch. 686, title I, §48, 54 Stat. 846.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–6, 80a–64 of this title.
-

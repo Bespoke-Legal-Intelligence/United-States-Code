@@ -30,7 +30,7 @@ A health insurance issuer may nonrenew or discontinue health insurance coverage 
 
 #### (6) Association membership ceases
 
-&emsp;In the case of health insurance coverage that is made available in the small or large group market (as the case may be) only through one or more bona fide associations,the membership of an employer in the association (on the basis of which the coverage is provided) ceases but only if such coverage is terminated under this paragraph uniformly without regard to any health status-related factor relating to any covered individual.
+&emsp;In the case of health insurance coverage that is made available in the small or large group market (as the case may be) only through one or more bona fide associations, the membership of an employer in the association (on the basis of which the coverage is provided) ceases but only if such coverage is terminated under this paragraph uniformly without regard to any health status-related factor relating to any covered individual.
 
 #### (c) Requirements for uniform termination of coverage
 
@@ -79,8 +79,4 @@ A prior section 2712 of act July 1, 1944, was successively renumbered by subsequ
 #### Effective Date
 
 Section applicable with respect to group health plans, and health insurance coverage offered in connection with group health plans, for plan years beginning after June 30, 1997, except as otherwise provided, see section 102(c) of Pub. L. 104–191, set out as a note under section 300gg of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300gg–41 of this title.
 

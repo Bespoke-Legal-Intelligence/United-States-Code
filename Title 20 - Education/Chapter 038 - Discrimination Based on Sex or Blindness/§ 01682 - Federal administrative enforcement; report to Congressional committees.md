@@ -8,7 +8,3 @@ Each Federal department and agency which is empowered to extend Federal financia
 
 Functions of President relating to approval of rules, regulations, and orders of general applicability under this section, delegated to Attorney General, see section 1–102 of Ex. Ord. No. 12250, Nov. 2, 1980, 45 F.R. 72995, set out under section 2000d–1 of Title 42, The Public Health and Welfare.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1683 of this title.
-

@@ -10,7 +10,11 @@ It is declared to be the policy of Congress, as a measure of national security, 
 
 #### Effective Date of 1989 Amendment
 
-Section 2 of Pub. L. 101–147 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1989 Amendment notebelow\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
+Section 2 of Pub. L. 101–147 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
+
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–265, §1(a), June 30, 2004, 118 Stat. 729, provided that: “This Act \[enacting sections 1754 and 1769i of this title, amending sections 1396a, 1758, 1759a, 1760, 1761, 1762a, 1766, 1769, 1769b–1, 1769c, 1769g, 1773, 1776, 1786, and 1788 of this title and section 2020 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 1754, 1758, 1766, 1769c, 1773, and 1786 of this title, and amending provisions set out as a note under section 612c of Title 7\] may be cited as the ‘Child Nutrition and WIC Reauthorization Act of 2004’.”
 
 #### Short Title of 1998 Amendment
 
@@ -34,7 +38,7 @@ Section 1(a) of Pub. L. 101–147 provided that: “This Act \[enacting sections
 
 #### Short Title of 1986 Amendments
 
-Pub. L. 99–661, §4001(a), Nov. 14, 1986, 100 Stat. 4070, provided that: “This division \[div. D (§§4001–4503) of Pub. L. 99–661, amending sections 1752, 1755, 1758, 1760, 1761, 1762a, 1766, 1769 to 1769b, 1772, 1773, 1776, 1784, 1786, 1788, and 1789 of this title, repealing sections 1767, 1768, and 1769c of this title, and enacting provisions set out as notes under sections 1758, 1760, 1766, 1772, 1773, and 1786 of this title and section 1431e of Title 7, Agriculture\] may be cited as the ‘Child Nutrition Amendments of 1986’.”
+Pub. L. 99–661, §4001(a), Nov. 14, 1986, 100 Stat. 4070, provided that: “This division \[div. D (§§4001–4503) of Pub. L. 99–661, amending sections 1752, 1755, 1758, 1760, 1761, 1762a, 1766, 1769 to 1769b, 1772, 1773, 1776, 1784, 1786,1788, and 1789 of this title, repealing sections 1767, 1768, and 1769c of this title, and enacting provisions set out as notes under sections 1758, 1760, 1766, 1772, 1773, and 1786 of this title and section 1431e of Title 7, Agriculture\] may be cited as the ‘Child Nutrition Amendments of 1986’.”
 
 Pub. L. 99–500, title III, §301(a), Oct. 18, 1986, 100 Stat. 1783–359, and Pub. L. 99–591, title III, §301(a), Oct. 30, 1986, 100 Stat. 3341–362, provided that: “This title \[amending sections 1752, 1755, 1758, 1760, 1761, 1762a, 1766, 1769 to 1769b, 1772, 1773, 1776, 1784, 1786, 1788, and 1789 of this title and section 1929a of Title 7, Agriculture, repealing sections 1767, 1768, and 1769c of this title, and enacting provisions set out as notes under sections 1758, 1760, 1766, 1772, 1773, and 1786 of this title and sections 1431e and 1929a of Title 7\] may be cited as the ‘School Lunch and Child Nutrition Amendments of 1986’.”
 
@@ -62,6 +66,62 @@ Pub. L. 93–150, §1, Nov. 7, 1973, 87 Stat. 560, provided: “That this Act \[
 
 Section 1 of act June 4, 1946, as amended by Pub. L. 106–78, title VII, §752(a), Oct. 22, 1999, 113 Stat. 1169, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Richard B. Russell National School Lunch Act’.”
 
+#### Local Wellness Policy
+
+Pub. L. 108–265, title II, §204, June 30, 2004, 118 Stat. 780, provided that:
+
+“(a)
+
+In General.—Not later than the first day of the school year beginning after June 30, 2006, each local educational agency participating in a program authorized by the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall establish a local school wellness policy for schools under the local educational agency that, at a minimum—
+
+&emsp;“(1) includes goals for nutrition education, physical activity, and other school-based activities that are designed to promote student wellness in a manner that the local educational agency determines is appropriate;
+
+&emsp;“(2) includes nutrition guidelines selected by the local educational agency for all foods available on each school campus under the local educational agency during the school day with the objectives of promoting student health and reducing childhood obesity;
+
+&emsp;“(3) provides an assurance that guidelines for reimbursable school meals shall not be less restrictive than regulations and guidance issued by the Secretary of Agriculture pursuant to subsections (a) and (b) of section 10 of the Child Nutrition Act (42 U.S.C. 1779) and sections 9(f)(1) and 17(a) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(f)(1), 1766(a)), as those regulations and guidance apply to schools;
+
+&emsp;“(4) establishes a plan for measuring implementation of the local wellness policy, including designation of 1 or more persons within the local educational agency or at each school, as appropriate, charged with operational responsibility for ensuring that the school meets the local wellness policy; and
+
+&emsp;“(5) involves parents, students, representatives of the school food authority, the school board, school administrators, and the public in the development of the school wellness policy.
+
+“(b)
+
+Technical Assistance and Best Practices.—
+
+&emsp;“(1)
+
+In general.—The Secretary, in coordination with the Secretary of Education and in consultation with the Secretary of Health and Human Services, acting through the Centers for Disease Control and Prevention, shall make available to local educational agencies, school food authorities, and State educational agencies, on request, information and technical assistance for use in—
+
+&emsp;&emsp;“(A) establishing healthy school nutrition environments;
+
+&emsp;&emsp;“(B) reducing childhood obesity; and
+
+&emsp;&emsp;“(C) preventing diet-related chronic diseases.
+
+&emsp;“(2)
+
+Content.—Technical assistance provided by the Secretary under this subsection shall—
+
+&emsp;&emsp;“(A) include relevant and applicable examples of schools and local educational agencies that have taken steps to offer healthy options for foods sold or served in schools;
+
+&emsp;&emsp;“(B) include such other technical assistance as is required to carry out the goals of promoting sound nutrition and establishing healthy school nutrition environments that are consistent with this section;
+
+&emsp;&emsp;“(C) be provided in such a manner as to be consistent with the specific needs and requirements of local educational agencies; and
+
+&emsp;&emsp;“(D) be for guidance purposes only and not be construed as binding or as a mandate to schools, local educational agencies, school food authorities, or State educational agencies.
+
+&emsp;“(3)
+
+Funding.—
+
+&emsp;&emsp;“(A)
+
+In general.—On July 1, 2006, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary of Agriculture to carry out this subsection $4,000,000, to remain available until September 30, 2009.
+
+&emsp;&emsp;“(B)
+
+Receipt and acceptance.—The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds transferred under subparagraph (A), without further appropriation.”
+
 #### Coordination of School Lunch, School Breakfast, and Summer Food Service Programs
 
 Pub. L. 104–193, title VII, §741, Aug. 22, 1996, 110 Stat. 2307, as amended by Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that:
@@ -76,7 +136,7 @@ In general.—The Secretary of Agriculture shall develop proposed changes to the
 
 &emsp;“(2)
 
-Consultation.—In developing proposed changes to the regulations under paragraph (1), the Secretary of Agriculture shall consult with local,State, and regional administrators of the programs described in such paragraph.
+Consultation.—In developing proposed changes to the regulations under paragraph (1), the Secretary of Agriculture shall consult with local, State, and regional administrators of the programs described in such paragraph.
 
 “(b)
 
@@ -139,8 +199,4 @@ Pub. L. 101–624, title XVII, §1779, Nov. 28, 1990, 104 Stat. 3816, directed S
 #### Comprehensive Study of Benefits of Programs; Report to Congress
 
 Pub. L. 93–150, §10, Nov. 7, 1973, 87 Stat. 564, directed Secretary of Agriculture to carry out a comprehensive study to determine if the benefits of the National School Lunch Act and the Child Nutrition Act are accruing to the maximum extent possible to all of the nation's school children, and to determine if regional cost differentials exist in Alaska and other States so as to require additional reimbursement, such report with recommendations to be submitted to Congress no later than June 30, 1974.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1755 of this title.
 

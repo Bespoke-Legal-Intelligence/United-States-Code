@@ -92,7 +92,7 @@ In this section:
 
 #### (4) Area conditions required for payment
 
-&emsp;The Corporation shall limit prevented planting payments for producers to those situationsin which other producers, in the area where a first crop is prevented from being planted is located, are also generally affected by the conditions that prevented the first crop from being planted.
+&emsp;The Corporation shall limit prevented planting payments for producers to those situations in which other producers, in the area where a first crop is prevented from being planted is located, are also generally affected by the conditions that prevented the first crop from being planted.
 
 #### (5) Planting date
 

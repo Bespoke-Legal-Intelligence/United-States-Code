@@ -12,7 +12,3 @@ Section was enacted as a part of the Flood Control Act of 1970 and not as a part
 
 1996—Pub. L. 104–303 inserted “(including shore protection projects such as projects for beach nourishment, including the replacement of sand)” after “water resource projects”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1962d–17 of this title; title 33 section 2332.
-

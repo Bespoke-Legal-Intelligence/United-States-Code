@@ -4,7 +4,3 @@ Prior to the expiration of the trust period of any Indian allottee to whom a tru
 
 (June 21, 1906, ch. 3504, 34 Stat. 326.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 348a of this title.
-

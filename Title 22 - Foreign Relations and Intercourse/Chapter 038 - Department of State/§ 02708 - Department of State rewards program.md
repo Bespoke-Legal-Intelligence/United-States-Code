@@ -16,7 +16,7 @@
 
 #### (b) Rewards authorized
 
-In the sole discretion of the Secretary (except as provided in subsection (c)(2) of this section) and in consultation, as appropriate, with the Attorney General, the Secretary may pay a reward to any individual who furnishes information leading to—
+In the sole discretion of the Secretary (except as provided in subsection (c)(2) of this section)and in consultation, as appropriate, with the Attorney General, the Secretary may pay a reward to any individual who furnishes information leading to—
 
 &emsp;(1) the arrest or conviction in any country of any individual for the commission of an act of international terrorism against a United States person or United States property;
 
@@ -36,9 +36,15 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 &emsp;(4) the arrest or conviction in any country of any individual aiding or abetting in the commission of an act described in paragraph (1), (2), or (3);
 
-&emsp;(5) the prevention, frustration, or favorable resolution of an act described in paragraph (1), (2), or (3), including by dismantling an organization in whole or significant part; or
+&emsp;(5) the prevention, frustration, or favorable resolution of an act described in paragraph (1), (2), or (3), including by dismantling an organization in whole or significant part;
 
-&emsp;(6) the identification or location of an individual who holds a key leadership position in a terrorist organization.
+&emsp;(6) the identification or location of an individual who holds a key leadership position in a terrorist organization; or
+
+&emsp;(7) the disruption of financial mechanisms of a foreign terrorist organization, including the use by the organization of illicit narcotics production or international narcotics trafficking—
+
+&emsp;&emsp;(A) to finance acts of international terrorism; or
+
+&emsp;&emsp;(B) to sustain or support any terrorist organization.
 
 #### (c) Coordination
 
@@ -76,7 +82,7 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 #### (1) Maximum amount
 
-&emsp;No reward paid under this section may exceed $5,000,000, except as personally authorized by the Secretary of State if he determines that offer or payment of an award of a larger amount is necessary to combat terrorism or defend the Nation against terrorist acts..<sup>1</sup>
+&emsp;No reward paid under this section may exceed $25,000,000, except as personally authorized by the Secretary of State if he determines that offer or payment of an award of a larger amount is necessary to combat terrorism or defend the Nation against terrorist acts. Without first making such determination, the Secretary may authorize a reward of up to twice the amount specified in this paragraph for the capture or information leading to the capture of a leader of a foreign terrorist organization.
 
 #### (2) Approval
 
@@ -93,6 +99,10 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 #### (5) Protection measures
 
 &emsp;If the Secretary determines that the identity of the recipient of a reward or of the members of the recipient's immediate family must be protected, the Secretary may take such measures in connection with the payment of the reward as he considers necessary to effect such protection.
+
+#### (6) Forms of reward payment
+
+&emsp;The Secretary may make a reward under this section in the form of money, a nonmonetary item (including such items as automotive vehicles), or a combination thereof.
 
 #### (f) Ineligibility
 
@@ -112,11 +122,21 @@ An officer or employee of any entity of Federal, State, or local government or o
 
 Notwithstanding any other provision of this section, in the sole discretion of the Secretary, the resources of the rewards program shall be available for the publication of rewards offered by foreign governments regarding acts of international terrorism which do not involve United States persons or property or a violation of the narcotics laws of the United States.
 
-#### (i) Determinations of Secretary
+#### (i) Media surveys and advertisements
+
+#### (1) Surveys conducted
+
+&emsp;For the purpose of more effectively disseminating information about the rewards program, the Secretary may use the resources of the rewards program to conduct media surveys, including analyses of media markets, means of communication, and levels of literacy, in countries determined by the Secretary to be associated with acts of international terrorism.
+
+#### (2) Creation and purchase of advertisements
+
+&emsp;The Secretary may use the resources of the rewards program to create advertisements to disseminate information about the rewards program. The Secretary may base the content of such advertisements on the findings of the surveys conducted under paragraph (1). The Secretary may purchase radio or television time, newspaper space, or make use of any other means of advertisement, as appropriate.
+
+#### (j) Determinations of Secretary
 
 A determination made by the Secretary under this section shall be final and conclusive and shall not be subject to judicial review.
 
-#### (j) Definitions
+#### (k) Definitions
 
 As used in this section:
 
@@ -124,7 +144,7 @@ As used in this section:
 
 &emsp;The term “act of international terrorism” includes—
 
-&emsp;&emsp;(A) any act substantially contributing to the acquisition of unsafeguarded special nuclear material (as defined in paragraph (8) ofsection 6305 of this title) or any nuclear explosive device (as defined in paragraph (4) of that section) by an individual, group, or non-nuclear-weapon state (as defined in paragraph (5) of that section); and
+&emsp;&emsp;(A) any act substantially contributing to the acquisition of unsafeguarded special nuclear material (as defined in paragraph (8) of section 6305 of this title) or any nuclear explosive device (as defined in paragraph (4) of that section) by an individual, group, or non-nuclear-weapon state (as defined in paragraph (5) of that section); and
 
 &emsp;&emsp;(B) any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currency or the illegal use of other monetary instruments by an individual, group, or country supporting international terrorism as determined for purposes of section 2405(j)(1)(A) of title 50, Appendix.
 
@@ -158,7 +178,7 @@ As used in this section:
 
 &emsp;&emsp;(B) an alien lawfully present in the United States.
 
-(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27, 1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029; Pub. L. 107–56, title V, §502, Oct. 26, 2001, 115 Stat. 364.)
+(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27, 1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L.104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029; Pub. L. 107–56, title V, §502, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–447, div. B, title IV, §405(a)–(d), Dec. 8, 2004, 118 Stat. 2902, 2903.)
 
 #### References in Text
 
@@ -169,6 +189,14 @@ Section 102 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 19
 A prior section 36 of act Aug. 1, 1956, was renumbered section 37 by section 102 of Pub. L. 98–533, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
+
+2004—Subsec. (b)(7). Pub. L. 108–447, §405(a), added par. (7).
+
+Subsec. (e)(1). Pub. L. 108–447, §405(b), substituted “$25,000,000” for “$5,000,000”, struck out period after “terrorist acts.”, and inserted at end “Without first making such determination, the Secretary may authorize a reward of up to twice the amount specified in this paragraph for the capture or information leading to the capture of a leader of a foreign terrorist organization.”
+
+Subsec. (e)(6). Pub. L. 108–447, §405(c), added par. (6).
+
+Subsecs. (i) to (k). Pub. L. 108–447, §405(d), added subsec. (i) and redesignated former subsecs. (i) and (j) as (j) and (k), respectively.
 
 2001—Subsec. (b)(4). Pub. L. 107–56, §502(1)(A), struck out “or” at end.
 
@@ -238,7 +266,7 @@ Authority.—In the sole discretion of the Secretary of State (except as provide
 
 Procedures.—
 
-&emsp;“(1) To ensure that the payment of rewards pursuant to this section does not duplicate or interfere with the payment of informants or the obtaining of evidence or information, as authorized to the Department of Justice, subject to paragraph (3), the offering, administration, and payment of rewards under this section, including procedures for—
+&emsp;“(1) To ensure that the payment of rewards pursuant to this section does not duplicate or interfere with the payment of informants or the obtaining ofevidence or information, as authorized to the Department of Justice, subject to paragraph (3), the offering, administration, and payment of rewards under this section, including procedures for—
 
 &emsp;&emsp;“(A) identifying individuals, organizations, and offenses with respect to which rewards will be offered;
 
@@ -283,10 +311,4 @@ Section 13(b) of Pub. L. 101–231 provided that: “If the Foreign Relations Au
 #### Rewards for International Terrorists
 
 Section 501 of Pub. L. 99–399 provided that: “It is the sense of the Congress that the Secretary of State should more vigorously utilize the moneys available under section 36(a) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2708(a); relating to rewards for information on international terrorism) to more effectively apprehend and prosecute international terrorists. It is further the sense of the Congress that the Secretary of State should consider widely publicizing the sizable rewards available under present law so that major international terrorist figures may be brought to justice.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4802, 5512 of this title; title 8 sections 1101, 1255; title 18 section 3076.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

@@ -16,7 +16,7 @@ Pennsylvania is divided into three judicial districts to be known as the Eastern
 
 ### Western District
 
-(c) The Western District comprises the counties of Allegheny, Armstrong, Beaver, Bedford, Blair, Butler, Cambria, Clarion, Clearfield, Crawford, Elk, Erie, Fayette, Forest, Greene, Indiana, Jefferson, Lawrence, McKean, Mercer, Somerset, Venango, Warren, Washington, and Westmoreland.
+(c) The Western District comprises the counties of Allegheny, Armstrong, Beaver, Bedford,Blair, Butler, Cambria, Clarion, Clearfield, Crawford, Elk, Erie, Fayette, Forest, Greene, Indiana, Jefferson, Lawrence, McKean, Mercer, Somerset, Venango, Warren, Washington, and Westmoreland.
 
 &emsp;&emsp;Court for the Western District shall be held at Erie, Johnstown, and Pittsburgh.
 
@@ -24,7 +24,7 @@ Pennsylvania is divided into three judicial districts to be known as the Eastern
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §184 (Mar. 3, 1911, ch. 231, §103, 36 Stat. 1123; Mar. 3, 1913, ch. 113, 37 Stat.730; June 6, 1914, ch. 104, 38 Stat. 385; Sept. 9, 1914, ch. 296, 38 Stat. 713; Apr. 26, 1926, ch. 185, 44 Stat. 324; June 27, 1930, ch. 634, 46 Stat. 820; Aug. 3, 1935, ch. 433, 49 Stat. 514; May 13, 1936, ch. 385, 49 Stat. 1271; June 13, 1938, ch. 351, 52 Stat. 674; Mar. 5, 1942, ch. 143, 56 Stat. 132).
+Based on title 28, U.S.C., 1940 ed., §184 (Mar. 3, 1911, ch. 231, §103, 36 Stat. 1123; Mar. 3, 1913, ch. 113, 37 Stat. 730; June 6, 1914, ch. 104, 38 Stat. 385; Sept. 9, 1914, ch. 296, 38 Stat. 713; Apr. 26, 1926, ch. 185, 44 Stat. 324; June 27, 1930, ch. 634, 46 Stat. 820; Aug. 3, 1935, ch. 433, 49 Stat. 514; May 13, 1936, ch. 385, 49 Stat. 1271; June 13, 1938, ch. 351, 52 Stat. 674; Mar. 5, 1942, ch. 143, 56 Stat. 132).
 
 Provisions relating to maintenance of offices at certain places by the clerks and marshals were omitted as covered by sections 541 \[see 561\] and 751 of this title.
 

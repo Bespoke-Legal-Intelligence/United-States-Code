@@ -52,7 +52,3 @@ Act June 28, 1938, ch. 795, §2, 52 Stat. 1215, provided that this section, as t
 
 Provisions of act June 28, 1938, ch. 795, §2, 52 Stat. 1215, referred to above, were extended to the Muskingum River Valley dams and reservoirs by section 4 of act Aug. 11, 1939, ch. 699, 53 Stat. 1414.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701b–2, 701b–7, 701b–11, 701c–1, 701e, 701s of this title.
-

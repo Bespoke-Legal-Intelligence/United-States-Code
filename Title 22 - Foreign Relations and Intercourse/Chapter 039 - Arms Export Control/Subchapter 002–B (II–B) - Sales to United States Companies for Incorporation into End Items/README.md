@@ -1,9 +1,5 @@
 ### SUBCHAPTER II–B—SALES TO UNITED STATES COMPANIES FOR INCORPORATION INTO END ITEMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2761 of this title.
-
 
 ---
 

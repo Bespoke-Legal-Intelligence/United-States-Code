@@ -24,7 +24,7 @@ Notice of Release of Prisoners.—(1) At least 5 days prior to the date on which
 
 &emsp;(B) the prisoner's criminal history, including a description of the offense of which the prisoner was convicted; and
 
-&emsp;(C) any restrictions on conduct or other conditions to the release of the prisoner that are imposed by law, the sentencing court, or the Bureau of Prisons or any other Federal agency.
+&emsp;(C) any restrictions on conduct or other conditions to the release of the prisoner that areimposed by law, the sentencing court, or the Bureau of Prisons or any other Federal agency.
 
 (3) A prisoner is described in this paragraph if the prisoner was convicted of—
 
@@ -44,7 +44,7 @@ Notice of Sex Offender Release.—(1) In the case of a person described in parag
 
 (2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall be subject to a registration requirement as a sex offender. For a person who is released from the custody of the Bureau of Prisons whose expected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (4) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
 
-(3) The Director of the Bureau of Prisons shall inform a person described in paragraph (4) whois released from prison that the person shall be subject to a registration requirement as a sex offender in any State in which the person resides, is employed, carries on a vocation, or is a student (as such terms are defined for purposes of section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994), and the same information shall be provided to a person described in paragraph (4) who is sentenced to probation by the probation officer responsible for supervision of the person or in a manner specified by the Director of the Administrative Office of the United States Courts.
+(3) The Director of the Bureau of Prisons shall inform a person described in paragraph (4) who is released from prison that the person shall be subject to a registration requirement as a sex offender in any State in which the person resides, is employed, carries on a vocation, or is a student (as such terms are defined for purposes of section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994), and the same information shall be provided to a person described in paragraph (4) who is sentenced to probation by the probation officer responsible for supervision of the person or in a manner specified by the Director of the Administrative Office of the United States Courts.
 
 (4) A person is described in this paragraph if the person was convicted of any of the following offenses (including such an offense prosecuted pursuant to section 1152 or 1153):
 
@@ -169,8 +169,4 @@ Pub. L. 100–690, title VII, §7302, Nov. 18, 1988, 102 Stat. 4463, provided th
 &emsp;“(2) establishing and regulating drug treatment programs for inmates held in such facilities in coordination and cooperation with the National Institute on Drug Abuse; and
 
 &emsp;“(3) establishing and managing work programs in accordance with guidelines under the Bureau of Prisons for persons held in such facilities and in cooperation with the installation commander.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3563, 3583 of this title; title 42 section 14072.
 

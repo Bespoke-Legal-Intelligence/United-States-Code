@@ -2,7 +2,7 @@
 
 #### (a) Interest rates
 
-In order to prevent discrimination against State-chartered insured depository institutions, including insured savings banks, or insured branches of foreign banks with respect to interest rates, if the applicable rate prescribed in this subsection exceeds the rate such State bank or insured branch of a foreign bank would be permitted to charge in the absence of this subsection, such State bank or such insured branch of a foreign bank may, notwithstanding any State constitution or statute which is hereby preempted for the purposes of this section, take, receive, reserve, and charge on any loan or discount made, or upon any note, bill of exchange, or other evidence of debt, interest at a rate of not more than 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where such State bank or such insured branch of a foreign bank is located or at the rate allowed by the laws of the State, territory, or district where the bank is located, whichever may be greater.
+In order to prevent discrimination against State-chartered insured depository institutions, including insured savings banks, or insured branches of foreign banks with respect to interest rates, if the applicable rate prescribed in this subsection exceeds the rate such State bank or insured branch of a foreign bank would be permitted to charge in the absence of this subsection, such State bank or such insured branch of a foreign bank may, notwithstanding any State constitution or statute which is hereby preempted for the purposes of this section, take, receive, reserve, and charge on any loan or discount made, or upon any note, bill of exchange, or other evidence of debt, interest at a rate of not more than 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where such State bank or such insured branch of a foreign bank is located or at the rate allowed by the laws of the State,territory, or district where the bank is located, whichever may be greater.
 
 #### (b) Interest overcharge; forfeiture; interest payment recovery
 
@@ -31,8 +31,4 @@ In any case in which one or more provisions of, or amendments made by, title V o
 #### Definition of “State”
 
 For purposes of this section, the term “State” to include the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands, see section 527 of Pub. L. 96–221, set out as a note under section 1735f–7a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1831u of this title.
 

@@ -30,7 +30,3 @@ To effectuate the declared policy of section 6101(b) of this title, the Secretar
 
 (Pub. L. 101–624, title XIX, §1924, Nov. 28, 1990, 104 Stat. 3856.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6105 of this title.
-

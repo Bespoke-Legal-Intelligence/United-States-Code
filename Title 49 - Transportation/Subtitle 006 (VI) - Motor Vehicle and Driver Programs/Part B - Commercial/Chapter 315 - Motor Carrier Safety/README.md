@@ -13,10 +13,6 @@
 
 Chapter 315 is a restatement of existing chapter 31 of title 49, United States Code, that is redesignated as chapter 315 by section 1(c) of the bill.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 113, 302, 501, 31148 of this title.
-
 
 ---
 

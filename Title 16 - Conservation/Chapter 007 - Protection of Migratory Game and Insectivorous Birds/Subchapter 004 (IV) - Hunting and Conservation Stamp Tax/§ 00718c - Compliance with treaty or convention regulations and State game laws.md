@@ -8,7 +8,3 @@ Nothing in this subchapter shall be construed to authorize any person to take an
 
 1978—Pub. L. 95–616 provided for convention regulations.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 718e of this title.
-

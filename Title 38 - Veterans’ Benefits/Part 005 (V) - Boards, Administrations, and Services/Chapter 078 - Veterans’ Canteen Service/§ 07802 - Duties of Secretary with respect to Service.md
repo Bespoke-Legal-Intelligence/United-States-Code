@@ -10,7 +10,7 @@ Warehouses and Storage Depots.—The Secretary shall establish, maintain, and op
 
 (c)
 
-Space, Buildings, and Structures.—The Secretary shall furnish the Service for its use inconnection with the establishment, maintenance, and operation thereof, such space, buildings, and structures under control of the Department as the Secretary may consider necessary, including normal maintenance and repair service thereon. Reasonable charges, to be determined by the Secretary, shall be paid annually by the Service for the space, buildings, and structures so furnished, except that the Secretary may reduce or waive such charges whenever payment of such charges would impair the working capital required by the Service.
+Space, Buildings, and Structures.—The Secretary shall furnish the Service for its use in connection with the establishment, maintenance, and operation thereof, such space, buildings, and structures under control of the Department as the Secretary may consider necessary, including normal maintenance and repair service thereon. Reasonable charges, to be determined by the Secretary, shall be paid annually by the Service for the space, buildings, and structures so furnished, except that the Secretary may reduce or waive such charges whenever payment of such charges would impair the working capital required by the Service.
 
 (d)
 
@@ -93,8 +93,4 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 #### Effective Date of 1959 Amendment
 
 Section 2 of Pub. L. 86–109 provided that: “This Act \[amending this section\] shall take effect on the first day of July 1959.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 sections 2302, 5102.
 

@@ -22,7 +22,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Upon incorporation into the Code, the words “Secretary of Commerce” were substituted for “Secretary of Commerce and Labor” to conform to act Mar. 4, 1913, which provided that the Secretary of Commerce and Labor should be called the Secretary of Commerce.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1234, 1236 of this title.
-

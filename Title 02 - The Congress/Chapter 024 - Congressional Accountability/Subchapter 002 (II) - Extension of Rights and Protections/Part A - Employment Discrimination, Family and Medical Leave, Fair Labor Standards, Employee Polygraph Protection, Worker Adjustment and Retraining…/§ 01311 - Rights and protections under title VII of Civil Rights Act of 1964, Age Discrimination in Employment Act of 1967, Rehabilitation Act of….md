@@ -18,7 +18,7 @@ All personnel actions affecting covered employees shall be made free from any di
 
 &emsp;&emsp;(A) such remedy as would be appropriate if awarded under section 706(g) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5(g)); and
 
-&emsp;&emsp;(B) such compensatory damages as would be appropriate if awarded under section 1981 of title 42, or as would be appropriate if awarded under sections 1981a(a)(1), 1981a(b)(2), and, irrespective of the size of the employing office, 1981a(b)(3)(D) of title 42.
+&emsp;&emsp;(B) such compensatory damages as would be appropriate if awarded under section 1981of title 42, or as would be appropriate if awarded under sections 1981a(a)(1), 1981a(b)(2), and, irrespective of the size of the employing office, 1981a(b)(3)(D) of title 42.
 
 #### (2) Age discrimination
 
@@ -49,8 +49,4 @@ This section shall take effect 1 year after January 23, 1995.
 #### Codification
 
 Section is comprised of section 201 of Pub. L. 104–1. Subsec. (c) of section 201 of Pub. L. 104–1 amended section 633a of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1331, 1408, 1415, 1432, 1435 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services shall establish a health insurance advisory service program (in this section referred to as the “beneficiary assistance program”) to assist medicare-eligible individuals with the receipt of services under the medicare and medicaid programs and other health insurance programs.
+The Secretary of Health and Human Services shall establish a health insurance advisory service program (in this section referred to as the “beneficiary assistance program”) to assistmedicare-eligible individuals with the receipt of services under the medicare and medicaid programs and other health insurance programs.
 
 #### (b) Outreach elements
 
@@ -116,5 +116,5 @@ Report.—The Secretary shall submit to Congress a report on such evaluation and
 
 #### Qualified Medicare Beneficiary Outreach
 
-Pub. L. 103–432, title I, §154, Oct. 31, 1994, 108 Stat. 4437, provided that: “Not later than 1 year after the date of the enactment of this Act \[Oct. 31, 1994\], the Secretary of Health and Human Services shall establish and implement a method for obtaining information from newly eligible medicare beneficiaries that may be used to determine whether such beneficiaries may be eligible for medical assistance for medicare cost-sharing under State medicaid plans as qualified medicare beneficiaries, and for transmitting such information to the State in which such a beneficiary resides.”
+Pub. L. 103–432, title I, §154, Oct. 31, 1994, 108 Stat. 4437, provided that: “Not later than 1 year after thedate of the enactment of this Act \[Oct. 31, 1994\], the Secretary of Health and Human Services shall establish and implement a method for obtaining information from newly eligible medicare beneficiaries that may be used to determine whether such beneficiaries may be eligible for medical assistance for medicare cost-sharing under State medicaid plans as qualified medicare beneficiaries, and for transmitting such information to the State in which such a beneficiary resides.”
 

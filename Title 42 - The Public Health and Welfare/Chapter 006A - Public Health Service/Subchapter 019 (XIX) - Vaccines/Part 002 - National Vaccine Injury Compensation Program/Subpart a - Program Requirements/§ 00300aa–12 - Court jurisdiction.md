@@ -6,7 +6,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 #### (b) Parties
 
-(1) In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title, the Secretary shall be named as the respondent, shall participate, and shall be represented in accordance with section 518(a) of title 28.
+(1) In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title,the Secretary shall be named as the respondent, shall participate, and shall be represented in accordance with section 518(a) of title 28.
 
 (2) Within 30 days after the Secretary receives service of any petition filed under section 300aa–11 of this title the Secretary shall publish notice of such petition in the Federal Register. The special master designated with respect to such petition under subsection (c) of this section shall afford all interested persons an opportunity to submit relevant, written information—
 
@@ -106,7 +106,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 &emsp;(C) remand the petition to the special master for further action in accordance with the court's direction.
 
-> The court shall complete its action on a petition within 120 days of the filing of a response under paragraph (1) excluding any days the petition isbefore a special master as a result of a remand under subparagraph (C). The court may allow not more than 90 days for remands under subparagraph (C).
+> The court shall complete its action on a petition within 120 days of the filing of a response under paragraph (1) excluding any days the petition is before a special master as a result of a remand under subparagraph (C). The court may allow not more than 90 days for remands under subparagraph (C).
 
 (3) In the absence of a motion under paragraph (1) respecting the special master's decision or if the United States Court of Federal Claims takes the action described in paragraph (2)(A) with respect to the special master's decision, the clerk of the United States Court of Federal Claims shall immediately enter judgment in accordance with the special master's decision.
 
@@ -118,7 +118,7 @@ The findings of fact and conclusions of law of the United States Court of Federa
 
 If—
 
-&emsp;(1) a special master fails to make a decision on a petition within the 240 days prescribed by subsection (d)(3)(A)(ii) of this section (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D) of this section, and (B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C) of this section), or
+&emsp;(1) a special master fails to make a decision on a petition within the 240 days prescribed by subsection (d)(3)(A)(ii) of this section (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D) of this section, and\(B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C) of this section), or
 
 &emsp;(2) the United States Court of Federal Claims fails to enter a judgment under this section on a petition within 420 days (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D) of this section, and (B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C) of this section) after the date on which the petition was filed,
 
@@ -235,10 +235,6 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(6)(E) of t
 Section 322(c) of Pub. L. 99–660, as added by Pub. L. 101–502, §5(g)(2), Nov. 3, 1990, 104 Stat. 1288, and amended by Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, provided that: “If the review authorized by section 2112(f) \[subsec. (f) of this section\] is held invalid because the judgment of the United States Court of Federal Claims being reviewed did not arise from a case or controversy under Article III of the Constitution, such judgment shall be reviewed by a 3-judge panel of the United States Court of Federal Claims. Such panel shall not include the judge who participated in such judgment.”
 
 \[Enactment of section 322(c) of Pub. L. 99–660 by section 5(g)(2) of Pub. L. 101–502, set out above, effective Nov. 14, 1986, see section 5(h) of Pub. L. 101–502, set out as an Effective Date of 1990 Amendment note under section 300aa–11 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300aa–11, 300aa–15, 300aa–21 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be a reference to the United States Court of Federal Claims.</i>
 

@@ -42,7 +42,7 @@ If the Secretary finds that a severe energy supply interruption may be imminent,
 
 &emsp;(B) shall not exceed the price that would have been paid if the Secretary had acquired petroleum products of a similar quality on the open market under competitive bid procedures without regard to the source of the petroleum products.
 
-(Pub. L. 94–163, title I, §160, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 96–294, title VIII, §§801(a), 802(a), 803, June 30, 1980, 94 Stat. 775, 776; Pub. L. 97–35, title X, §1033, Aug. 13, 1981, 95 Stat. 618; Pub. L. 97–229, §4(a)(1), (b)(2)(C), Aug. 3, 1982, 96 Stat. 250, 252; Pub. L. 99–58, title I, §§102(b), 103(b)(1), July 2, 1985, 99 Stat. 103, 104; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat.342; Pub. L. 99–272, title VII, §7102, Apr. 7, 1986, 100 Stat. 141; Pub. L. 99–509, title III, §3202, Oct. 21, 1986, 100 Stat. 1889; Pub. L. 101–383, §§4(b), (c), 5(a), (b)(3), 7, Sept. 15, 1990, 104 Stat. 728, 729, 734; Pub. L. 101–548, §1, Nov. 14, 1990, 104 Stat. 2398; Pub. L. 102–486, title XIV, §1404(a), (b)(2), Oct. 24, 1992, 106 Stat. 2994, 2995; Pub. L. 104–66, title I, §1051(f), Dec. 21, 1995, 109 Stat. 716; Pub. L. 106–469, title I, §103(14), Nov. 9, 2000, 114 Stat. 2031.)
+(Pub. L. 94–163, title I, §160, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 96–294, title VIII,§§801(a), 802(a), 803, June 30, 1980, 94 Stat. 775, 776; Pub. L. 97–35, title X, §1033, Aug. 13, 1981, 95 Stat. 618; Pub. L. 97–229, §4(a)(1), (b)(2)(C), Aug. 3, 1982, 96 Stat. 250, 252; Pub. L. 99–58, title I, §§102(b), 103(b)(1), July 2, 1985, 99 Stat. 103, 104; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 342; Pub. L. 99–272, title VII, §7102, Apr. 7, 1986, 100 Stat. 141; Pub. L. 99–509, title III, §3202, Oct. 21, 1986, 100 Stat. 1889; Pub. L. 101–383, §§4(b), (c), 5(a), (b)(3), 7, Sept. 15, 1990, 104 Stat. 728, 729, 734; Pub. L. 101–548, §1, Nov. 14, 1990, 104 Stat. 2398; Pub. L. 102–486, title XIV, §1404(a), (b)(2), Oct. 24, 1992, 106 Stat. 2994, 2995; Pub. L. 104–66, title I, §1051(f), Dec. 21, 1995, 109 Stat. 716; Pub. L. 106–469, title I, §103(14), Nov. 9, 2000, 114 Stat. 2031.)
 
 #### Amendments
 
@@ -102,7 +102,7 @@ Subsec. (e)(2). Pub. L. 99–58, §102(b)(3), substituted “may become effectiv
 
 Subsec. (e)(3), (4). Pub. L. 99–58, §102(b)(3), (4), redesignated par. (4) as (3). Former par. (3), which related to application of section 6422 of this title for purposes of par. (1)(B), was struck out.
 
-1982—Subsec. (c). Pub. L. 97–229, §4(a)(1), substituted provisions directing the President to fill the Strategic Petroleum Reserve with petroleum products at a level sufficient to assure an increase at an annual rate of at least the minimum required fill rate, 300,000 barrels per day, until the quantity of petroleum products stored is at least 500,000,000 barrels, allowing for a lower minimum required fill rate of 220,000 barrels per day if the President finds that compliance with the 300,000 barrels per day rate would not be in the national interest, specifying the effective period of such a Presidential finding, authorizing a higher minimum required rate than the 220,000 barrels per day if funds are available in any fiscal year after fiscal year 1982, making the Impoundment Control Act of 1974 applicable to funds available under section 6247(b) and (e) of this title, and providing that, after the Strategic Petroleum Reserve reaches 500,000,000 barrels, the President shall seek to fill the Reserve at an annual rate of at least 300,000 barrels per day of petroleum products until the Reserve reaches 750,000,000 barrels for provisions directing the President to seek to fill the Strategic Petroleum Reserve with crude oil at a level sufficient to assure that crude oil in storage will be increased at an average annual rate of at least 300,000 barrels per day until the Reserve is at least 750,000,000 barrels.
+1982—Subsec. (c). Pub. L. 97–229, §4(a)(1), substituted provisions directing the President to fill the Strategic Petroleum Reserve with petroleum products at a level sufficient to assure an increase at an annual rate of at least the minimum required fill rate, 300,000 barrels per day, until the quantity of petroleum products stored is at least 500,000,000 barrels, allowing for a lower minimum required fill rate of 220,000 barrels per day if the President finds that compliance with the 300,000 barrels per day rate would not be in the national interest, specifying the effective period of such a Presidential finding, authorizing a higher minimum required rate than the 220,000 barrels per day if funds are available inany fiscal year after fiscal year 1982, making the Impoundment Control Act of 1974 applicable to funds available under section 6247(b) and (e) of this title, and providing that, after the Strategic Petroleum Reserve reaches 500,000,000 barrels, the President shall seek to fill the Reserve at an annual rate of at least 300,000 barrels per day of petroleum products until the Reserve reaches 750,000,000 barrels for provisions directing the President to seek to fill the Strategic Petroleum Reserve with crude oil at a level sufficient to assure that crude oil in storage will be increased at an average annual rate of at least 300,000 barrels per day until the Reserve is at least 750,000,000 barrels.
 
 Subsec. (e)(4). Pub. L. 97–229, §4(b)(2)(C), substituted “petroleum product” for “crude oil”.
 
@@ -168,7 +168,7 @@ Section 805 of Pub. L. 96–294 provided that:
 
 > shall be deposited in a special account which the Secretary of the Treasury shall establish on the books of the Treasury of the United States.
 
-“(2)(A) Subject to the provisions of any Act enacted pursuant to section 660 of the Department of EnergyOrganization Act \[42 U.S.C. 7270\], such account shall be available (except as provided in subparagraph (B)) for use by the Secretary of Energy, without fiscal year limitation, for the purchase of crude oil for the Strategic Petroleum Reserve, to the extent provided in advance in appropriation Acts.
+“(2)(A) Subject to the provisions of any Act enacted pursuant to section 660 of the Department of Energy Organization Act \[42 U.S.C. 7270\], such account shall be available (except as provided in subparagraph (B)) for use by the Secretary of Energy, without fiscal year limitation, for the purchase of crude oil for the Strategic Petroleum Reserve, to the extent provided in advance in appropriation Acts.
 
 “(B) Amounts in such account attributable to the proceeds from the sale of entitlements under the amendment to the regulation under subsection (a) are hereby appropriated for fiscal year 1981 for acquisition of crude oil for the Strategic Petroleum Reserve pursuant to subsection (a).
 
@@ -199,10 +199,6 @@ By the authority vested in me as President of the United States of America by Ti
 1–103. The functions vested in the President by Section 805(a) of the Energy Security Act \[section 805(a) of Pub. L. 96–294, set out as a note above\] are, consistent with Section 2 of Executive Order No. 11790, as amended \[set out as a note under section 761 of Title 15, Commerce and Trade\], delegated to the Secretary of Energy.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6239, 6247 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

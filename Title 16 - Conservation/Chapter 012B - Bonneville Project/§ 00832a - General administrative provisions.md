@@ -10,7 +10,7 @@ The office of the Administrator of the Bonneville project is constituted an offi
 
 #### (b) Electric transmission lines and equipment
 
-In order to encourage the widest possible use of all electric energy that can be generated and marketed and to provide reasonable outlets therefor, and to prevent the monopolization thereof by limited groups, the administrator is authorized and directed to provide, construct, operate, maintain, and improve such electric transmission lines and substations, and facilities and structures appurtenant thereto, as he finds necessary, desirable, or appropriate for the purpose of transmitting electric energy, available for sale, from the Bonneville project to existing and potential markets, and, for the purpose of interchange of electric energy, to interconnect the Bonneville project with other Federal projects and publicly owned power systems constructed on or after August 20, 1937.
+In order to encourage the widest possible use of all electric energy that can be generated and marketed and to provide reasonable outletstherefor, and to prevent the monopolization thereof by limited groups, the administrator is authorized and directed to provide, construct, operate, maintain, and improve such electric transmission lines and substations, and facilities and structures appurtenant thereto, as he finds necessary, desirable, or appropriate for the purpose of transmitting electric energy, available for sale, from the Bonneville project to existing and potential markets, and, for the purpose of interchange of electric energy, to interconnect the Bonneville project with other Federal projects and publicly owned power systems constructed on or after August 20, 1937.
 
 #### (c) Acquisition of property
 
@@ -57,10 +57,6 @@ In subsec. (a), “Secretary of Energy” substituted for “Secretary of the In
 Provisions of the second sentence of the second par. of subsec. (a), which related to the advisory board and its composition, were omitted pursuant to Reorg. Plan No. 4 of 1965, §§11(c) and 13(a), set out in the Appendix to Title 5, Government Organization and Employees, which abolished the advisory board and transferred its functions, including the functions of the chairman and other officers, to the Secretary of the Interior.
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 832, 838i, 839f of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “cancellation”.</i>
 

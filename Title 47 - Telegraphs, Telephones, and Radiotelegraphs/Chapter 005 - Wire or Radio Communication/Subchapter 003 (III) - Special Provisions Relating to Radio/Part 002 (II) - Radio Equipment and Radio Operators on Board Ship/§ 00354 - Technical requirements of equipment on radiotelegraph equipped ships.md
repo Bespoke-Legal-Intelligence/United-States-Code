@@ -62,7 +62,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 “Commandant of the Coast Guard” substituted in subsec. (b) for “Bureau of Marine Inspection and Navigation, Department of Commerce” on authority of Reorg. Plan No. 3 of 1946, §§101–104, set out in the Appendix to Title 5.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 354a of this title; title 46 section 14305.
-

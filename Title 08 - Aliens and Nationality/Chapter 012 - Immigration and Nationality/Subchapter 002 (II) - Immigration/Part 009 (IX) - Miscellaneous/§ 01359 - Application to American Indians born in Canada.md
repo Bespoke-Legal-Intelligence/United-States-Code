@@ -4,7 +4,3 @@ Nothing in this subchapter shall be construed to affect the right of American In
 
 (June 27, 1952, ch. 477, title II, ch. 9, §289, 66 Stat. 234.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1612 of this title.
-

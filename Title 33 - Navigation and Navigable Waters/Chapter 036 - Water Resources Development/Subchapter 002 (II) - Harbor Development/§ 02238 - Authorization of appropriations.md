@@ -18,7 +18,3 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 1990—Subsec. (a)(2). Pub. L. 101–640 substituted “up to 100 percent” for “not more than 40 percent”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 9505.
-

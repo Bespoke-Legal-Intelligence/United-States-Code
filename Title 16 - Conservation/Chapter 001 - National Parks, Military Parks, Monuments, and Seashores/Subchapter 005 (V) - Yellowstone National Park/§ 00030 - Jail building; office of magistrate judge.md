@@ -12,7 +12,3 @@ Section 9 of the act of May 7, 1894, contained the added clause, “the cost of 
 
 “United States magistrate judge” substituted in text for “magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 21b, 30a of this title.
-

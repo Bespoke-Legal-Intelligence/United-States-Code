@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 310 of this title; title 12 sections 1464, 1786, 1817, 1818, 1829b, 3401, 3413; title 15 sections 78q, 6802; title 18 sections 1952, 1956, 1961, 3322; title 22 section 2714.
-
 
 ---
 
@@ -17,7 +13,7 @@ This subchapter is referred to in section 310 of this title; title 12 sections 1
 - [&sect; 05316 - Reports on exporting and importing monetary instruments](%C2%A7%2005316%20-%20Reports%20on%20exporting%20and%20importing%20monetary%20instruments.md)
 - [&sect; 05317 - Search and forfeiture of monetary instruments](%C2%A7%2005317%20-%20Search%20and%20forfeiture%20of%20monetary%20instruments.md)
 - [&sect; 05318 - Compliance, exemptions, and summons authority](%C2%A7%2005318%20-%20Compliance%2C%20exemptions%2C%20and%20summons%20authority.md)
-- [&sect; 05318A - Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern](%C2%A7%2005318A%20-%20Special%20measures%20for%20jurisdictions%2C%20financial%20institutions%2C%20or%20international%20transactions%20of%20primary%20money%20laundering%20concern.md)
+- [&sect; 05318A - Special measures for jurisdictions, financial institutions, international transactions, or types of accounts of primary money laundering&#8230;](%C2%A7%2005318A%20-%20Special%20measures%20for%20jurisdictions%2C%20financial%20institutions%2C%20international%20transactions%2C%20or%20types%20of%20accounts%20of%20primary%20money%20laundering%E2%80%A6.md)
 - [&sect; 05319 - Availability of reports](%C2%A7%2005319%20-%20Availability%20of%20reports.md)
 - [&sect; 05320 - Injunctions](%C2%A7%2005320%20-%20Injunctions.md)
 - [&sect; 05321 - Civil penalties](%C2%A7%2005321%20-%20Civil%20penalties.md)

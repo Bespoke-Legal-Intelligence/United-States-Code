@@ -10,7 +10,3 @@ The Commission shall initiate within one year after January 4, 1975, a rulemakin
 
 (Pub. L. 93–637, title I, §109, Jan. 4, 1975, 88 Stat. 2189.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2311 of this title.
-

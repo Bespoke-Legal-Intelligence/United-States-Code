@@ -28,6 +28,7 @@
 | [44922\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044922%20-%20Deputation%20of%20State%20and%20local%20law%20enforcement%20officers.md) | Deputation of State and local law enforcement officers. |
 | [44923\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044923%20-%20Airport%20security%20improvement%20projects.md) | Airport security improvement projects. |
 | [44924\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044924%20-%20Repair%20station%20security.md) | Repair station security. |
+| [44925\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044925%20-%20Deployment%20and%20use%20of%20detection%20equipment%20at%20airport%20screening%20checkpoints.md) | Deployment and use of detection equipment at airport screening checkpoints. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -53,10 +54,15 @@
 | :--- | ---: |
 | [44943\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044943%20-%20Performance%20management%20system.md) | Performance management system.<sup>1</sup> |
 | [44944\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044944%20-%20Voluntary%20provision%20of%20emergency%20services.md) | Voluntary provision of emergency services. |
+| [44945\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044945%20-%20Disposition%20of%20unclaimed%20money.md) | Disposition of unclaimed money. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–458, title IV, §4013(b), Dec. 17, 2004, 118 Stat. 3720, added item 44925.
+
+Pub. L. 108–334, title V, §515(c), Oct. 18, 2004, 118 Stat. 1318, added item 44945.
 
 2003—Pub. L. 108–176, title VI, §§605(b)(3), 611(b)(2), Dec. 12, 2003, 117 Stat. 2568, 2572, added items 44923 and 44924.
 
@@ -64,15 +70,11 @@ Pub. L. 108–7, div. I, title III, §351(c), Feb. 20, 2003, 117 Stat. 420, adde
 
 2002—Pub. L. 107–296, title XIV, §1402(b)(1), Nov. 25, 2002, 116 Stat. 2305, added item 44921.
 
-2001—Pub. L. 107–71, title I, §§101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, 115 Stat. 603, 607, 611, 613, 622, 632, 635, added items 44917 to 44920,44939, 44941, and 44944 and struck out items 44931 “Director of Intelligence and Security” and 44932 “Assistant Administrator for Civil Aviation Security”.
+2001—Pub. L. 107–71, title I, §§101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, 115 Stat. 603, 607, 611, 613, 622, 632, 635, added items 44917 to 44920, 44939, 44941, and 44944 and struck out items 44931 “Director of Intelligence and Security” and 44932 “Assistant Administrator for Civil Aviation Security”.
 
 Pub. L. 107–71, title I, §118(b), Nov. 19, 2001, 115 Stat. 627, which directed addition of item 44940 to the analysis for chapter 449 without specifying the Code title to be amended, was executed by adding item 44940 to this analysis to reflect the probable intent of Congress.
 
 1996—Pub. L. 104–264, title III, §312(b), Oct. 9, 1996, 110 Stat. 3254, added item 44916.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 106, 114, 46301, 48301 of this title; title 6 section 233.
 
 
 ---

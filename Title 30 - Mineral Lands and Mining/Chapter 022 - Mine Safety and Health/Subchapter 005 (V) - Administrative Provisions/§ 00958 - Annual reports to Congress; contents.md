@@ -4,7 +4,7 @@
 
 (b) Repealed. Pub. L. 96–470, title I, §106(f), Oct. 19, 1980, 94 Stat. 2238.
 
-(Pub. L. 91–173, title V, §511, Dec. 30, 1969, 83 Stat. 803; Pub. L. 95–164, title III, §303(f), Nov. 9,1977, 91 Stat. 1321; Pub. L. 96–470, title I, §106(f), Oct. 19, 1980, 94 Stat. 2238.)
+(Pub. L. 91–173, title V, §511, Dec. 30, 1969, 83 Stat. 803; Pub. L. 95–164, title III, §303(f), Nov. 9, 1977, 91 Stat. 1321; Pub. L. 96–470, title I, §106(f), Oct. 19, 1980, 94 Stat. 2238.)
 
 #### Amendments
 

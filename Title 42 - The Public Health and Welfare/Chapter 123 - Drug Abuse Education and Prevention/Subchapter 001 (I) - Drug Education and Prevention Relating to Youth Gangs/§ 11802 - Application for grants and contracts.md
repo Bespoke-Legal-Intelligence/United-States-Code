@@ -22,7 +22,3 @@ Each application for assistance under this subchapter shall—
 
 (Pub. L. 100–690, title III, §3502, Nov. 18, 1988, 102 Stat. 4254.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11803 of this title.
-

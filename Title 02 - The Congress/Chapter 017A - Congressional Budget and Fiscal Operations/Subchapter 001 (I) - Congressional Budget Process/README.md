@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 632, 907a, 907b, 907c of this title; title 42 section 6247.
-
 
 ---
 

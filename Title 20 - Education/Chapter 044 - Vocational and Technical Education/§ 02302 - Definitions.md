@@ -18,7 +18,7 @@ In this chapter:
 
 &emsp;&emsp;(B) the department of a public secondary school exclusively or principally used for providing vocational and technical education in not fewer than 5 different occupational fields to individuals who are available for study in preparation for entering the labor market;
 
-&emsp;&emsp;(C) a public or nonprofit technical institution or vocational and technical educationschool used exclusively or principally for the provision of vocational and technical education to individuals who have completed or left secondary school and who are available for study in preparation for entering the labor market, if the institution or school admits as regular students both individuals who have completed secondary school and individuals who have left secondary school; or
+&emsp;&emsp;(C) a public or nonprofit technical institution or vocational and technical education school used exclusively or principally for the provision of vocational and technical education to individuals who have completed or left secondary school and who are available for study in preparation for entering the labor market, if the institution or school admits as regular students both individuals who have completed secondary school and individuals who have left secondary school; or
 
 &emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides vocational and technical education in not fewer than five different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits as regular students both individuals who have completed secondary school and individuals who have left secondary school.
 
@@ -247,10 +247,6 @@ Pars. (8), (16), (21). Pub. L. 107–110, §1076(k)(2), (3), substituted “7801
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 19 section 2291; title 29 section 2801.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

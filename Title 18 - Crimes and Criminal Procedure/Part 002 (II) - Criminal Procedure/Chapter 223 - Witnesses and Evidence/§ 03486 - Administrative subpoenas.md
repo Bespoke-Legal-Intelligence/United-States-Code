@@ -18,7 +18,7 @@ Authorization.—(1)(A) In any investigation of—
 
 (C) A subpoena issued under subparagraph (A) with respect to a provider of electronic communication service or remote computing service, in an investigation of a Federal offense involving the sexual exploitation or abuse of children shall not extend beyond—
 
-&emsp;(i) requiring that provider to disclose the information specified in section 2703(c)(2), which may be relevant to an authorized law enforcement inquiry; or
+&emsp;(i) requiring that provider to disclose the information specified in section 2703(c)(2), whichmay be relevant to an authorized law enforcement inquiry; or
 
 &emsp;(ii) requiring a custodian of the records of that provider to give testimony concerning the production and authentication of such records or information.
 
@@ -107,10 +107,6 @@ Subsec. (a)(1). Pub. L. 105–277 inserted “or any act or activity involving a
 #### Transfer of Functions
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1510 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “3056(a),”.</i>
 

@@ -26,7 +26,7 @@ In awarding grants under this subchapter, the Attorney General shall give priori
 
 &emsp;(3) have established cooperative agreements or can demonstrate effective ongoing collaborative arrangements with neighboring jurisdictions to facilitate the enforcement of protection orders from other States and jurisdictions (including tribal jurisdictions); and
 
-&emsp;(4) in applications describing plans to further the purposes stated in paragraph (4) or (7) of section 3796hh(b) of this title, will give priority to using the grant to develop and install data collection and communication systems,including computerized systems, and training on how to use these systems effectively to link police, prosecutors, courts, and tribal jurisdictions for the purpose of identifying and tracking protection orders and violations of protection orders, in those jurisdictions where such systems do not exist or are not fully effective.
+&emsp;(4) in applications describing plans to further the purposes stated in paragraph (4) or (7) of section 3796hh(b) of this title, will give priority to using the grant to develop and install data collection and communication systems, including computerized systems, and training on how to use these systems effectively to link police, prosecutors, courts, and tribal jurisdictions for the purpose of identifying and tracking protection orders and violations of protection orders, in those jurisdictions where such systems do not exist or are not fully effective.
 
 #### (c) Dissemination of information
 

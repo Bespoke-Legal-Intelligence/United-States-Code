@@ -68,7 +68,3 @@ Par. (8). Pub. L. 103–359 added par. (8).
 
 &emsp;“(B) when used in the context of section 3073 shall have the meaning given to it in the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1957 of this title; title 49 section 44941.
-

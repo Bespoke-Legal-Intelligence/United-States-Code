@@ -18,7 +18,3 @@ Section was enacted as part of the Financial Institutions Reform, Recovery, and 
 
 The definitions in section 1441a–1 of this title apply to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1441a–1 of this title.
-

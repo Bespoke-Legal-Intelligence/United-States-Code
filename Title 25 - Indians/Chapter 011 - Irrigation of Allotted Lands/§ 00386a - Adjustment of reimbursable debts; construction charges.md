@@ -12,7 +12,3 @@ The Secretary of the Interior is hereby authorized and directed to adjust or eli
 
 Pub. L. 97–375, §208(a)(2), substituted “ninety calendar days” for “sixty legislative days” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 564<i>l</i> of this title; title 43 sections 620c, 1542.
-

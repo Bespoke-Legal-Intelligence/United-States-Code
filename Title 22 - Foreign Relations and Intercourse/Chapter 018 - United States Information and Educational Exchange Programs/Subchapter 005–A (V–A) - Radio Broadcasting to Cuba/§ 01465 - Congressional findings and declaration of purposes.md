@@ -24,7 +24,3 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 
 Section 1 of Pub. L. 98–111 provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Radio Broadcasting to Cuba Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1465a, 1465d of this title.
-

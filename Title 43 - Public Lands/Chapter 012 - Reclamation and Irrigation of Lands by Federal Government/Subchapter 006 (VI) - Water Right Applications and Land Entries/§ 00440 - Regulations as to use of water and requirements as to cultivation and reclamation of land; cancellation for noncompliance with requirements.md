@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to make general rules and regulation
 
 (Aug. 13, 1914, ch. 247, §8, 38 Stat. 688.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 475 of this title.
-

@@ -158,7 +158,3 @@ Definition.—In this section, the term ‘World War II’ has the meaning given
 
 For payment for individuals in the uniformed services referred to in subsec. (c) of this section held in captive status between Nov. 4, 1979, and Jan. 21, 1981, see section 802 of Pub. L. 99–399, set out as a note under section 5569 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1013 of this title; title 10 sections 1095a, 2181.
-

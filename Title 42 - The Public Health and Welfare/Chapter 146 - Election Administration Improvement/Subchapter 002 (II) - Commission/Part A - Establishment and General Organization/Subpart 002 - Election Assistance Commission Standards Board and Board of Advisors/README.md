@@ -1,9 +1,5 @@
 subpart 2—election assistance commission standards board and board of advisors
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 15321 of this title.
-
 
 ---
 

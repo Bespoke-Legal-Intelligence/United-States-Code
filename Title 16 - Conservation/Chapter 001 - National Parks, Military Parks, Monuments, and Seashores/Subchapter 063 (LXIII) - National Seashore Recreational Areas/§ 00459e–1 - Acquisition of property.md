@@ -24,7 +24,7 @@ With one exception the Secretary shall not acquire any privately owned improved 
 
 &emsp;(2) that the owner or owners shall retain a life estate in said property, measured on the life of the sole owner or on the life of any one person among multiple owners (notice of the person so designated to be filed in writing with the Secretary within six months after the taking) or on the life of the survivor in title of any estate held on July 1, 1963, as a tenancy by the entirety. The price in such case shall be diminished by the actuarial fair market value of the life estate retained, determined on the basis of standard actuarial methods;
 
-&emsp;(3) that the owner or owners shall retain an estate for twenty-five years. The price in this case shall likewise be diminished by the value of the estate retained.
+&emsp;(3) that the owner or owners shall retain an estate for twenty-five years. The price in thiscase shall likewise be diminished by the value of the estate retained.
 
 #### (f) “Improved property” defined
 
@@ -75,8 +75,4 @@ The authority of the Secretary to condemn undeveloped tracts within the Dune Dis
 1984—Subsecs. (h), (i). Pub. L. 98–482 added subsecs. (h) and (i).
 
 1978—Subsec. (g). Pub. L. 95–625 added subsec. (g).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459e–2, 459e–5, 459e–6, 459e–7, 459e–9 of this title.
 

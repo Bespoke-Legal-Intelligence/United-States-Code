@@ -46,7 +46,3 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 Ex. Ord. No. 12845, Apr. 21, 1993, 58 F.R. 21887, which required Federal agencies to procure computer equipment that met EPA Energy Star requirements for energy efficiency, was revoked by Ex. Ord. No. 13123, §604, June 3, 1999, 64 F.R. 30859, set out as a note under section 8251 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8258 of this title.
-

@@ -31,10 +31,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 101, 103, 109, 321, 326, 329, 330, 346, 347, 348, 362, 363, 365, 502, 706, 1106, 1112 of this title; title 7 section 2008h; title 15 section 1673; title 20 section 1087; title 28 sections 157, 586, 1930.
-
 
 ---
 

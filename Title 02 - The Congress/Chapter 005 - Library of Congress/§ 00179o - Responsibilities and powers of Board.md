@@ -22,13 +22,9 @@ The Board shall consider, for inclusion in the National Film Registry, nominatio
 
 #### Termination of Section
 
-<i>For termination of section, see section 179w of this title.</i>
+<i>For termination of section, see section 179w of this title and section 1205(a) of Pub. L. 108–447, set out as an Effective Date Extension note under section 179w of this title.</i>
 
 #### Codification
 
 “Section 151703 of title 36” substituted in subsec. (c)(2) for “section 203”, meaning section 203 of the National Film Preservation Act of 1996, on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 179<i>l</i>, 179s, 179t, 179u, 179v, 179w of this title.
 

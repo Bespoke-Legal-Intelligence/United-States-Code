@@ -6,9 +6,11 @@ In addition to using funds provided under section 1433 of this title to maintain
 
 &emsp;(2) to expand and improve on services for infants and toddlers and their families under this subchapter that are otherwise available;
 
-&emsp;(3) to provide a free appropriate public education, in accordance with subchapter II of this chapter, to children with disabilities from their third birthday to the beginning of the following school year; and
+&emsp;(3) to provide a free appropriate public education, in accordance with subchapter II, to children with disabilities from their third birthday to the beginning of the following school year;
 
-&emsp;(4) in any State that does not provide services for at-risk infants and toddlers under section 1437(a)(4) of this title, to strengthen the statewide system by initiating, expanding, or improving collaborative efforts related to at-risk infants and toddlers, including establishing linkages with appropriate public or private community-based organizations, services, and personnel for the purposes of—
+&emsp;(4) with the written consent of the parents, to continue to provide early intervention services under this subchapter to children with disabilities from their 3rd birthday until such children enter, or are eligible under State law to enter, kindergarten, in lieu of a free appropriate public education provided in accordance with subchapter II; and
+
+&emsp;(5) in any State that does not provide services for at-risk infants and toddlers under section 1437(a)(4) of this title, to strengthen the statewide system by initiating, expanding, or improving collaborative efforts related to at-risk infants and toddlers, including establishing linkages with appropriate public or private community-based organizations, services, and personnel for the purposes of—
 
 &emsp;&emsp;(A) identifying and evaluating at-risk infants and toddlers;
 
@@ -16,5 +18,9 @@ In addition to using funds provided under section 1433 of this title to maintain
 
 &emsp;&emsp;(C) conducting periodic follow-up on each such referral to determine if the status of the infant or toddler involved has changed with respect to the eligibility of the infant or toddler for services under this subchapter.
 
-(Pub. L. 91–230, title VI, §638, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 114.)
+(Pub. L. 91–230, title VI, §638, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2755.)
+
+#### Prior Provisions
+
+A prior section 1438, Pub. L. 91–230, title VI, §638, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 114, related to uses of funds, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 

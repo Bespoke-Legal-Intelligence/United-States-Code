@@ -24,7 +24,3 @@ The prohibition of subsection (a) of this section shall not apply to the governm
 
 (Pub. L. 107–206, title II, §2007, Aug. 2, 2002, 116 Stat. 905.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7422 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER XXXII—PAIUTE INDIANS OF UTAH: TERMINATION OF FEDERAL SUPERVISION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 762 of this title.
-
 
 ---
 

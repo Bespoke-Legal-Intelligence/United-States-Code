@@ -4,7 +4,3 @@ Funds payable under sections 781 to 785 of this title to minors or to persons un
 
 (Aug. 1, 1955, ch. 444, §4, 69 Stat. 432.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 782, 784, 785 of this title.
-

@@ -8,7 +8,3 @@ A State may apply for more than one obsolete ship under this chapter. The Secret
 
 1984—Pub. L. 98–623 substituted “obsolete ships” for “Liberty ships” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1220d of this title.
-

@@ -18,7 +18,3 @@ The boundaries of the national seashore shall extend from the easterly boundary 
 
 Pub. L. 98–482, §1, Oct. 17, 1984, 98 Stat. 2255, provided: “That this Act \[amending sections 459e–1 and 459e–2 of this title\] may be cited as the ‘Fire Island National Seashore Amendments Act of 1984’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459e–1, 459e–2, 459e–5, 459e–6, 459e–7, 459e–9 of this title.
-

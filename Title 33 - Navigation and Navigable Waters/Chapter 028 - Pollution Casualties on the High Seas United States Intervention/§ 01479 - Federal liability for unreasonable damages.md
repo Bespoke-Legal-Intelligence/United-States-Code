@@ -38,7 +38,3 @@ For effective date of amendment by Pub. L. 95–302, see section 2 of Pub. L. 95
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1472 of this title.
-

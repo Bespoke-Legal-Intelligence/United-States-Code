@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) a description of methods and procedures, in conjunction with appropriate Federal agencies, to restore the quality of such lakes;
 
-&emsp;&emsp;(D) methods and procedures to mitigate the harmful effects of high acidity, including innovative methods of neutralizing and restoring buffering capacity of lakes and methods of removing from lakes toxic metals and other toxic substances mobilized by high acidity;
+&emsp;&emsp;(D) methods and procedures to mitigate the harmful effects of high acidity, including innovative methods of neutralizing and restoring buffering capacity of lakes andmethods of removing from lakes toxic metals and other toxic substances mobilized by high acidity;
 
 &emsp;&emsp;(E) a list and description of those publicly owned lakes in such State for which uses are known to be impaired, including those lakes which are known not to meet applicable water quality standards or which require implementation of control programs to maintain compliance with applicable standards and those lakes in which water quality has deteriorated as a result of high acidity that may reasonably be due to acid deposition; and
 
@@ -136,9 +136,5 @@ Subsec. (c)(2). Pub. L. 95–217, §4(f), substituted “$150,000,000 for the fi
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1329, 1376, 1377 of this title.
+Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b)of Pub. L. 107–303, set out as a note under section 1254 of this title.
 

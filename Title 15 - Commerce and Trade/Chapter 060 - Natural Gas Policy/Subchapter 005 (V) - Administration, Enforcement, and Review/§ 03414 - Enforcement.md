@@ -48,7 +48,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (D) Statute of limitations
 
-&emsp;&emsp;No person shall be subject to any civil penalty under this paragraph with respect to any violation occurring more than 3 years before the date on which such person is provided notice of the proposed penalty under subparagraph (E). The preceding sentence shall not apply in any case in which an untrue statement of material fact was made to the Commission or a State or Federal agency by, or acquiesced to by, the violator with respect to the acts or omissions constitutingsuch violation, or if there was omitted a material fact necessary in order to make any statement made by, or acquiesced to by, the violator with respect to such acts or omissions not misleading in light of circumstances under such statement was made.
+&emsp;&emsp;No person shall be subject to any civil penalty under this paragraph with respect to any violation occurring more than 3 years before the date on which such person is provided notice of the proposed penalty under subparagraph (E). The preceding sentence shall not apply in any case in which an untrue statement of material fact was made to the Commission or a State or Federal agency by, or acquiesced to by, the violator with respect to the acts or omissions constituting such violation, or if there was omitted a material fact necessary in order to make any statement made by, or acquiesced to by, the violator with respect to such acts or omissions not misleading in light of circumstances under such statement was made.
 
 #### (E) Assessed by Commission
 
@@ -101,10 +101,6 @@ Subsec. (b). Pub. L. 101–60, §3(a)(4), substituted “paragraph (2)” for �
 #### Effective Date of 1989 Amendment
 
 Amendment by section 3(b)(6) of Pub. L. 101–60 effective Jan. 1, 1993, see section 3(b) of Pub. L. 101–60, set out as a note under section 3372 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3416 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “assess”.</i>
 

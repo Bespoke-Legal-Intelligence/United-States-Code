@@ -16,11 +16,7 @@
 
 (b)(1) For the purpose of research, investigations, studies, demonstrations, or training, or for reasons of national security, the Administrator may exempt for a specified period of time any product, or class thereof, from paragraphs (1), (2), (3), and (5) of subsection (a) of this section, upon such terms and conditions as he may find necessary to protect the public health or welfare.
 
-(2) Paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall not apply with respect to any product which is manufactured solely for use outside any State and which (and the container of which) is labeled or otherwise marked to show that it is manufactured solely for use outside any State; except that such paragraphs shall apply to such product if it is in fact distributed in commerce for use in any State.
+(2) Paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall not apply with respect to any product which is manufactured solely for use outside any State and which (and the container of which) is labeled or otherwise marked to show that it is manufactured solely for useoutside any State; except that such paragraphs shall apply to such product if it is in fact distributed in commerce for use in any State.
 
 (Pub. L. 92–574, §10, Oct. 27, 1972, 86 Stat. 1242.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4910, 4911, 4916, 4917 of this title.
 

@@ -12,7 +12,3 @@ To provide a permanent endowment for the Eisenhower Exchange Fellowship Program,
 
 (Pub. L. 101–454, §5, Oct. 24, 1990, 104 Stat. 1064.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5202 of this title.
-

@@ -12,7 +12,7 @@ Each person described in subsection (b) of this section shall provide the corpor
 
 The persons covered by subsection (a) of this section are each contributing sponsor, and each member of a contributing sponsor's controlled group, of a single-employer plan covered by this subchapter, if—
 
-&emsp;(1) the aggregate unfunded vested benefits at the end of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of this title) of plans maintained by the contributing sponsor and the members of its controlled group exceed $50,000,000 (disregarding plans with no unfunded vested benefits);
+&emsp;(1) the aggregate unfunded vested benefits at the end of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of thistitle) of plans maintained by the contributing sponsor and the members of its controlled group exceed $50,000,000 (disregarding plans with no unfunded vested benefits);
 
 &emsp;(2) the conditions for imposition of a lien described in section 1082(f)(1)(A) and (B) of this title or section 412(n)(1)(A) and (B) of title 26 have been met with respect to any plan maintained by the contributing sponsor or any member of its controlled group; or
 

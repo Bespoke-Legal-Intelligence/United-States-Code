@@ -10,7 +10,7 @@ It shall be unlawful for any person to manufacture or distribute a controlled su
 
 #### (b) Possession, manufacture, or distribution by person on board aircraft
 
-It shall be unlawful for any United States citizen on board any aircraft, or any person onboard an aircraft owned by a United States citizen or registered in the United States, to—
+It shall be unlawful for any United States citizen on board any aircraft, or any person on board an aircraft owned by a United States citizen or registered in the United States, to—
 
 &emsp;(1) manufacture or distribute a controlled substance or listed chemical; or
 
@@ -35,8 +35,4 @@ Pub. L. 104–237, §102(a), inserted “or listed chemical” after “schedule
 Subsec. (b). Pub. L. 104–237, §102(b), inserted “or listed chemical” after “controlled substance” in pars. (1) and (2).
 
 1986—Pub. L. 99–570 designated first sentence as subsec. (a) and inserted “or into waters within a distance of 12 miles of the coast of the United States” in pars. (1) and (2), added subsec. (b), and designated last two sentences as subsec. (c).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 960 of this title; title 18 sections 5032, 5038; title 28 section 994.
 

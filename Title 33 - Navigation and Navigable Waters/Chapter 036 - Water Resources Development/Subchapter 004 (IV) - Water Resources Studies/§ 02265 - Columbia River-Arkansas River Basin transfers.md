@@ -6,7 +6,3 @@
 
 (Pub. L. 99–662, title VII, §715, Nov. 17, 1986, 100 Stat. 4161.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 2223.
-

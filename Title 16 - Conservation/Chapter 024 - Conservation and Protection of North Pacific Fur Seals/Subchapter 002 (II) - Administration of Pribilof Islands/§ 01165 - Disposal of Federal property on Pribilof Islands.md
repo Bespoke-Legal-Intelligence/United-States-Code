@@ -36,7 +36,7 @@ A Memorandum of Understanding shall be entered into by the Secretary, a represen
 
 &emsp;(2) funding to be allocated by the State of Alaska for the construction of boat harbors on St. Paul and St. George Islands;
 
-&emsp;(3) assumption of the State of Alaska of traditional State responsibilities for facilitiesand services on such islands in accordance with applicable laws and regulations;
+&emsp;(3) assumption of the State of Alaska of traditional State responsibilities for facilities and services on such islands in accordance with applicable laws and regulations;
 
 &emsp;(4) preservation of wildlife resources within the Secretary's jurisdiction;
 
@@ -86,7 +86,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Pribilof Islands Environmental Cleanup
 
-Pub. L. 104–91, §3, Jan. 6, 1996, 110 Stat. 8, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(5)(A)(iv), (6)(A), (7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–246, 2763A–248; Pub. L. 106–562, title I, §§105(a)(4), 106(a), 107, Dec. 23, 2000, 114 Stat. 2797, 2799, provided that:
+Pub. L. 104–91, §3, Jan. 6, 1996, 110 Stat. 8, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(5)(A)(iv), (6)(A), (7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–246, 2763A–248; Pub. L. 106–562, title I, §§105(a)(4), 106(a), 107, Dec. 23, 2000, 114 Stat. 2797, 2799; Pub. L. 108–447, div. B, title II, §212, Dec. 8, 2004, 118 Stat. 2884, provided that:
 
 “(a)
 
@@ -96,7 +96,7 @@ In General.—The Secretary of Commerce shall, subject to the availability of ap
 
 Obligations of Secretary.—In carrying out cleanup activities under subsection (a), the Secretary of Commerce shall—
 
-&emsp;“(1) to the maximum extent practicable, execute agreements with the State of Alaska, and affectedlocal governments, entities, and residents eligible to receive conveyance of lands under the Fur Seal Act of 1966 (16 U.S.C. 1161 et seq.) \[16 U.S.C. 1151 et seq.\] or other applicable law;
+&emsp;“(1) to the maximum extent practicable, execute agreements with the State of Alaska, and affected local governments, entities, and residents eligible to receive conveyance of lands under the Fur Seal Act of 1966 (16 U.S.C. 1161 et seq.) \[16 U.S.C. 1151 et seq.\] or other applicable law;
 
 &emsp;“(2) manage such activities with the minimum possible overhead, delay, and duplication of State and local planning and design work;
 
@@ -130,7 +130,7 @@ Authorization of Appropriations.—
 
 &emsp;“(1)
 
-In general.—There are authorized to be appropriated $10,000,000 for each of fiscal years 2001, 2002, 2003, 2004, and 2005 for the purposes of carrying out this section.
+In general.—There are authorized to be appropriated $10,000,000 for each of fiscal years 2001, 2002, 2003, 2004, 2005, 2006, and 2007 for the purposes of carrying out this section.
 
 &emsp;“(2)
 
@@ -159,10 +159,6 @@ Reversion of funds.—Before the Secretary may provide any funds to the State of
 \[Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(5)(A)(iv), (6)(A), (7)\], and Pub. L. 106–562, §§105(a)(4), 106(a), 107, made substantially identical amendments to section 3 of Pub. L. 104–91, set out above. The text of subsecs. (f) and (g) of section 3 is based on amendments by Pub. L. 106–562.\]
 
 \[Pub. L. 106–562, title I, §105(c), Dec. 23, 2000, 114 Stat. 2798, provided that, effective on the date on which the Secretary of Commerce makes the certification described in Pub. L. 106–562, §105(b)(2), set out in a Termination of Responsibilities note under section 1161 of this title, section 3 of Pub. L. 104–91, set out above, is repealed. Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(5)(C)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–247, enacted a provision substantially identical to Pub. L. 106–562, §105(c).\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1175 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

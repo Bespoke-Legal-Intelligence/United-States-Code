@@ -48,7 +48,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 &emsp;(B) will meet the obligation of the facility under clause (1) of section 291c(e) of this title.
 
-(2) The Secretary may waive the recovery rights of the United States under subsection (a)(2) of this section with respect to a facility in any State if the Secretary determines, in accordance with regulations, that there is good cause for waiving such rights with respect to such facility.
+(2) The Secretary may waive the recovery rights of the United States under subsection (a)(2) of this section with respect to a facility inany State if the Secretary determines, in accordance with regulations, that there is good cause for waiving such rights with respect to such facility.
 
 #### (e) Lien
 
@@ -76,15 +76,11 @@ Provisions similar to those comprising this section were contained in section 29
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education,and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Regulations and Personnel
 
 Section 2381(c) of Pub. L. 98–369 provided that: “Not later than the expiration of the one-hundred-and-eighty-day period beginning on the date of the enactment of this section \[July 18, 1984\], the Secretary shall have in effect regulations and personnel to place in effect the amendments made by this section \[amending sections 291i and 300s–1a of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 291j of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

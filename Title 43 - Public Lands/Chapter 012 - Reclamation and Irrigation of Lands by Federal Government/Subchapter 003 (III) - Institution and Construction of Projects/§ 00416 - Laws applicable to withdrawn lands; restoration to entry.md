@@ -30,7 +30,3 @@ Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 372, 373, 383, 391, 411, 420, 421, 432, 491, 498 of this title; title 16 section 406d–5; title 30 sections 83, 84, 125.
-

@@ -6,7 +6,7 @@ Motor Carrier Requirements.—
 
 &emsp;(1)
 
-Liability insurance requirement.—The Secretary may register a motor carrier under section 13902 only if the registrant files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary, in an amount not less than such amount as the Secretary prescribes pursuant to, or as is required by, sections 31138 and 31139, and the laws of the State or States in which the registrant is operating, to the extent applicable. The security must be sufficient to pay, not more than the amount of the security, for each final judgment against the registrant for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of motor vehicles, or for loss or damage to property (except property referred to in paragraph (3) of this subsection), or both. A registration remains in effect only as long as the registrant continues to satisfy the security requirements of this paragraph.
+Liability insurance requirement.—The Secretary may register a motor carrier under section 13902 only if the registrant files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary, in an amount not less than such amount as the Secretary prescribes pursuant to, or as is required by, sections 31138 and 31139, and the laws of the State or States inwhich the registrant is operating, to the extent applicable. The security must be sufficient to pay, not more than the amount of the security, for each final judgment against the registrant for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of motor vehicles, or for loss or damage to property (except property referred to in paragraph (3) of this subsection), or both. A registration remains in effect only as long as the registrant continues to satisfy the security requirements of this paragraph.
 
 &emsp;(2)
 
@@ -67,8 +67,4 @@ Section 104(h) of Pub. L. 104–88 provided that: “The Secretary of Transporta
 &emsp;“(2) the continued qualification of all carriers then so qualified under the terms and conditions set by the Interstate Commerce Commission or Secretary at the time of qualification.”
 
 \[Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13902, 13904, 13905, 13908, 14707, 31102 of this title.
 

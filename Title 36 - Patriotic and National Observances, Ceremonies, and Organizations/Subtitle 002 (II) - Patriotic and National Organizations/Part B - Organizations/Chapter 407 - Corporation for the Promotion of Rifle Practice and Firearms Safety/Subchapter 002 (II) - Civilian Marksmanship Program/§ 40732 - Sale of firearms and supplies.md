@@ -72,7 +72,3 @@ In subsection (c)(1), the word “sell” is substituted for “offer for sale�
 
 In subsection (c)(2), the words “any item” are substituted for “rifles, ammunition, or any other item available for sale to individuals under the Civilian Marksmanship Program” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40722, 40728 of this title; title 18 section 922.
-

@@ -38,7 +38,7 @@ By no later than the date that is 30 days after the date on which the annual rep
 
 &emsp;(B) take into account information from such sources as may be available to the Trade Representative and such information as may be submitted to the Trade Representative by interested persons, including information contained in reports submitted under section 2241(b) of this title and petitions submitted under section 2412 of this title.
 
-(3) The Trade Representative may identify a foreign country under subsection (a)(1)(B) of thissection only if the Trade Representative finds that there is a factual basis for the denial of fair and equitable market access as a result of the violation of international law or agreement, or the existence of barriers, referred to in subsection (d)(3) of this section.
+(3) The Trade Representative may identify a foreign country under subsection (a)(1)(B) of this section only if the Trade Representative finds that there is a factual basis for the denial of fair and equitable market access as a result of the violation of international law or agreement, or the existence of barriers, referred to in subsection (d)(3) of this section.
 
 (4) In identifying foreign countries under paragraphs (1) and (2) of subsection (a) of this section, the Trade Representative shall take into account—
 
@@ -163,8 +163,4 @@ Section 1303(a) of Pub. L. 100–418 provided that:
 &emsp;“(B) the absence of adequate and effective protection of United States intellectual property rights, and the denial of fair and equitable market access, seriously impede the ability of the United States persons that rely on protection of intellectual property rights to export and operate overseas, thereby harming the economic interests of the United States.
 
 “(2) The purpose of this section \[enacting this section and this note\] is to provide for the development of an overall strategy to ensure adequate and effective protection of intellectual property rights and fair and equitable market access for United States persons that rely on protection of intellectual property rights.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2412 of this title.
 

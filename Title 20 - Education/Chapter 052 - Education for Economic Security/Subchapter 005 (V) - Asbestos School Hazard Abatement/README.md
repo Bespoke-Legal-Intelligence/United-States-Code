@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—ASBESTOS SCHOOL HAZARD ABATEMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 15 section 2646.
-
 
 ---
 

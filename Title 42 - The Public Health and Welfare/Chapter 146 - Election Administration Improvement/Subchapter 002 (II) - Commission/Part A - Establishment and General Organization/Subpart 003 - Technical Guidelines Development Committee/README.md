@@ -1,9 +1,5 @@
 subpart 3—technical guidelines development committee
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 15321, 15322, 15327, 15342, 15371, 15441, 15451 of this title.
-
 
 ---
 

@@ -8,7 +8,3 @@ Upon transfer of sovereignty from Mexico to the United States of the 481.68 acre
 
 “United States Fish and Wildlife Service” substituted in text for “Fish and Wildlife Service, Bureau of Sport Fisheries and Wildlife” pursuant to section 1(3) of Pub. L. 93–271, see section 742b of Title 16, Conservation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 277d–38 of this title.
-

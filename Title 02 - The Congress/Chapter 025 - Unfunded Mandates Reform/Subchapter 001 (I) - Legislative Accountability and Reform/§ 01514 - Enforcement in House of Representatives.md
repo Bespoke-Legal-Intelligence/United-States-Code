@@ -12,7 +12,3 @@ The Committee on Rules shall include in the report required by clause 1(d) of ru
 
 Section is comprised of section 107 of Pub. L. 104–4. Subsec. (a) of section 107 of Pub. L. 104–4 amended the Rules of the House of Representatives, which are not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1515 of this title.
-

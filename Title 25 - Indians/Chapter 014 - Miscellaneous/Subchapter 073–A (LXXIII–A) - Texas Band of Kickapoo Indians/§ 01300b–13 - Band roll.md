@@ -26,7 +26,3 @@ The Immigration and Nationality Act, referred to in subsec. (d), is act June 27,
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300b–16 of this title.
-

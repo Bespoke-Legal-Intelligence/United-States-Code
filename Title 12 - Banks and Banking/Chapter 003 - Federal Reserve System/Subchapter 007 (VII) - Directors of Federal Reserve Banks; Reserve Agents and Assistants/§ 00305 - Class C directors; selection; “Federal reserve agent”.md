@@ -12,7 +12,3 @@ Section is comprised of par. 22 of section 4 of act Dec. 23, 1913. For classific
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 442 of this title.
-

@@ -10,7 +10,3 @@ Not later than 3 years after December 19, 2002, the Secretary shall submit the m
 
 (Pub. L. 107–373, §8, Dec. 19, 2002, 116 Stat. 3106.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410iii–7, 410iii–8 of this title.
-

@@ -10,7 +10,3 @@ In the case of any designated processing site located on Indian lands, the Secre
 
 (Pub. L. 95–604, title I, §107, Nov. 8, 1978, 92 Stat. 3029.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7912 of this title.
-

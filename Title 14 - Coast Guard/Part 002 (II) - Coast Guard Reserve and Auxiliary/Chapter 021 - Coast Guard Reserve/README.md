@@ -99,10 +99,6 @@ Pub. L. 87–649, §7(d), Sept. 7, 1962, 76 Stat. 495, substituted “Benefits�
 
 1956—Act Aug. 10, 1956, ch. 1041, §§15(b), 16(b), 70A Stat. 625, 626, added items 751a, 752a, 753a, 758a, and 759a.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 10 sections 10114, 12645, 12646.
-
 
 ---
 

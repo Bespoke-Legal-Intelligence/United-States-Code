@@ -22,7 +22,7 @@ As used in this chapter:
 
 &emsp;(v) any article the sale of which is subject to the tax imposed by section 4181 of the Internal Revenue Code of 1986 \[26 U.S.C. 4181\] (determined without regard to any exemptions from such tax provided by section 4182 or 4221 or any other provision of such Code), and
 
-&emsp;(vi) any food, food additive, drug, cosmetic, or device (as such terms are defined in section 201 of the Federal Food, Drug, and CosmeticAct \[21 U.S.C. 321\]) when manufactured, processed, or distributed in commerce for use as a food, food additive, drug, cosmetic, or device.
+&emsp;(vi) any food, food additive, drug, cosmetic, or device (as such terms are defined in section 201 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321\]) when manufactured, processed, or distributed in commerce for use as a food, food additive, drug, cosmetic, or device.
 
 > The term “food” as used in clause (vi) of this subparagraph includes poultry and poultry products (as defined in sections 4(e) and 4(f) of the Poultry Products Inspection Act \[21 U.S.C. 453(e) and (f)\]), meat and meat food products (as defined in section 1(j) of the Federal Meat Inspection Act \[21 U.S.C. 601(j)\]), and eggs and egg products (as defined in section 4 of the Egg Products Inspection Act \[21 U.S.C. 1033\]).
 

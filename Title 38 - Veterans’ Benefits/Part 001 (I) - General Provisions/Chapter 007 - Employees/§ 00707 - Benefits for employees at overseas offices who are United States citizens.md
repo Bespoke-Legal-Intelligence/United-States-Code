@@ -22,7 +22,7 @@
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsecs. (a)(1)–(5) and (b), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 901, 903, 904(d), and 905 of the Foreign Service Act of 1980 are classified to sections 4081, 4083, 4084(d), and 4085, respectively of Title 22. For complete classification of this Act to the Code,see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsecs. (a)(1)–(5) and (b), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 901, 903, 904(d), and 905 of the Foreign Service Act of 1980 are classified to sections 4081, 4083, 4084(d), and 4085, respectively of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 #### Prior Provisions
 
@@ -44,7 +44,7 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 
 Ex. Ord. No. 12228, July 24, 1980, 45 F.R. 49903, as amended by Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967, provided:
 
-By the authority vested in me as President of the United States of America by Sections 7 and 8 of the Defense Department Overseas Teachers Pay and Personnel Practices Act of 1959, as amended (20 U.S.C. 905–906), Section 235 \[see 707\] of Title 38 of the United States Code, and Section 301 of Title 3 of the United States Code, and in order to delegate authority with respect to allowances for Veterans Administration \[now Department of Veterans Affairs\] personnel and to update existing authorities, it is hereby ordered as follows:
+By the authority vested in me as President of the United States of America by Sections 7 and 8 of the Defense Department Overseas Teachers Pay and Personnel Practices Act of 1959, as amended (20 U.S.C. 905–906), Section 235 \[see 707\] of Title 38 of the United States Code, and Section 301 of Title 3 of the United StatesCode, and in order to delegate authority with respect to allowances for Veterans Administration \[now Department of Veterans Affairs\] personnel and to update existing authorities, it is hereby ordered as follows:
 
 1–101. Payment of the additional compensation authorized by Section 8(a)(2) of the Defense Department Overseas Teachers Pay and Personnel Practices Act of 1959, as amended, shall be governed by the regulations contained in Executive Order No. 10000, as amended \[set out as a note under section 5941 of Title 5, Government Organization and Employees\], which govern the payment of additional compensation in foreign areas (referred to as foreign post differential), subject to the provisions of Section 8(b) of that Act (20 U.S.C. 906(a)(2) and (b)).
 

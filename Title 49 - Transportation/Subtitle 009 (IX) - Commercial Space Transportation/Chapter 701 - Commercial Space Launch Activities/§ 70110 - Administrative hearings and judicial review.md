@@ -4,7 +4,7 @@
 
 Administrative Hearings.—The Secretary of Transportation shall provide an opportunity for a hearing on the record to—
 
-&emsp;(1) an applicant under this chapter, for a decision of the Secretary under section 70105(a) of this title to issue or transfer a license with terms or deny the issuance or transfer of a license;
+&emsp;(1) an applicant under this chapter, for a decision of the Secretary under section 70105(a) or 70105a of this title to issue or transfer a license with terms or deny the issuance or transfer of a license;
 
 &emsp;(2) an owner or operator of a payload under this chapter, for a decision of the Secretary under section 70104(c) of this title to prevent the launch or reentry of the payload; and
 
@@ -18,7 +18,7 @@ Administrative Hearings.—The Secretary of Transportation shall provide an oppo
 
 Judicial Review.—A final action of the Secretary under this chapter is subject to judicial review as provided in chapter 7 of title 5.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1335; Pub. L. 105–303, title I, §102(a)(10), Oct. 28, 1998, 112 Stat. 2849.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1335; Pub. L. 105–303, title I, §102(a)(10), Oct. 28, 1998, 112 Stat. 2849; Pub. L. 108–492, §2(c)(20), Dec. 23, 2004, 118 Stat. 3981.)
 
 Historical and Revision Notes
 
@@ -54,11 +54,9 @@ In subsection (b), the words “to issue, transfer, deny the issuance or transfe
 
 #### Amendments
 
+2004—Subsec. (a)(1). Pub. L. 108–492 inserted “or 70105a” after “70105(a)”.
+
 1998—Subsec. (a)(2). Pub. L. 105–303, §102(a)(10)(A), inserted “or reentry” after “prevent the launch”.
 
 Subsec. (a)(3)(B). Pub. L. 105–303, §102(a)(10)(B), inserted “or reentry site, or reentry of a reentry vehicle,” after “operation of a launch site”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 70107, 70108 of this title.
 

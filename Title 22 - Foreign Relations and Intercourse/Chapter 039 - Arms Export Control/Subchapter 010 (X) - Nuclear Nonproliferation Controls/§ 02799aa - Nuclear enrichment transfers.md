@@ -44,7 +44,3 @@ Sanctions contained in this section waived in certain regards with respect to In
 
 Sanctions contained in this section waived in certain regards with respect to India and Pakistan by Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64 F.R. 60649, set out as a note under section 2799aa–1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2295a, 2295b, 2375 of this title.
-

@@ -88,10 +88,6 @@ All references to fixed terms of holding court were also omitted in order to ves
 
 For short title of Pub. L. 95–408, Oct. 2, 1978, 92 Stat. 883, as “Federal District Court Organization Act of 1978”, see note set out under section 1 of this title.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 451, 1827, 1869 of this title; title 18 section 3006A; title 22 section 1623.
-
 
 ---
 

@@ -14,7 +14,7 @@
 
 #### (1) General agreements
 
-&emsp;The Secretary may enter into cooperative agreements with the owners of the World War II Child Development Centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67A, pursuant to which the Secretary may mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions under which the Secretary shall have the right of access at reasonable times to public portions of the property for interpretive and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement.
+&emsp;The Secretary may enter into cooperative agreements with the owners of the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A, pursuant to which the Secretary may mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions under which the Secretary shall have the right of access at reasonable times to public portions of the property for interpretive and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement.
 
 #### (2) Limited agreements
 
@@ -66,7 +66,7 @@ The Secretary may establish a World War II Home Front Education Center in the Fo
 
 #### (2) Other facilities
 
-&emsp;The Secretary may acquire, from willing sellers, lands or interests in the World War II day care centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67, through donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange.
+&emsp;The Secretary may acquire, from willing sellers, lands or interests in the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A, through donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange.
 
 #### (3) Artifacts
 
@@ -90,9 +90,13 @@ The Secretary may accept and use donations of funds, property, and services to c
 
 &emsp;The general management plan shall include a determination of whether there are additional representative sites in Richmond that should be added to the park or sites in the rest of the United States that relate to the industrial, governmental, and citizen efforts during World War II that should be linked to and interpreted at the park. Such determination shall consider any information or findings developed in the National Park Service study of the World War II Home Front under section 410ggg–2 of this title.
 
-(Pub. L. 106–352, §3, Oct. 24, 2000, 114 Stat. 1370.)
+(Pub. L. 106–352, §3, Oct. 24, 2000, 114 Stat. 1370; Pub. L. 108–352, §6(2), Oct. 21, 2004, 118 Stat. 1396.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 410ggg–3 of this title.
+2004—Subsec. (a)(1). Pub. L. 108–352, §6(2)(A), made technical amendment to reference in original act which appears in text as reference to sections 1, 2, 3, and 4 of this title.
+
+Subsec. (b)(1). Pub. L. 108–352, §6(2)(B), substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A” for “the World War II Child Development Centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67A”.
+
+Subsec. (e)(2). Pub. L. 108–352, §6(2)(C), substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A,” for “the World War II day care centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67,”.
 

@@ -263,10 +263,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 802, 1101, 1341 of this title; title 49 sections 24901, 24904, 24907.
-
 
 ---
 

@@ -184,7 +184,3 @@ Another prior section 502 of Pub. L. 89–73, title V, as added Pub. L. 93–29,
 
 For short title of this subchapter as the “Older American Community Service Employment Act”, see section 501 of Pub. L. 89–73, set out as a note under section 3001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3056d, 3056<i>l</i> of this title.
-

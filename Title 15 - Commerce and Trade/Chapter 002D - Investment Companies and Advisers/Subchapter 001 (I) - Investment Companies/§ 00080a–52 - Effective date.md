@@ -20,7 +20,3 @@ Section 30 of Pub. L. 91–547 provided that: “This Act \[see Short Title note
 
 &emsp;“(4) that part of section 20 which adds a subsection (b) to section 36 of the Investment Company Act of 1940 \[section 80a–35 of this title\] shall take effect upon the expiration of eighteen months after the date of enactment of this Act \[Dec. 14, 1970\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–6, 80a–58 of this title.
-

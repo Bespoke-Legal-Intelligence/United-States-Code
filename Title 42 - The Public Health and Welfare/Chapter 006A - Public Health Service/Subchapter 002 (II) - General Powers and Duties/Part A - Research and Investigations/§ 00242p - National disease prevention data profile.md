@@ -8,7 +8,7 @@
 
 &emsp;(3) the physical determinants of health of the population of the United States and the relationship between these determinants of health and the incidence and prevalence of preventable causes of death and disability; and
 
-&emsp;(4) the behavioral determinants of health of the population of the United States including,but not limited to, smoking, nutritional and dietary habits, exercise, and alcohol consumption, and the relationship between these determinants of health and the incidence and prevalence of preventable causes of death and disability.
+&emsp;(4) the behavioral determinants of health of the population of the United States including, but not limited to, smoking, nutritional and dietary habits, exercise, and alcohol consumption, and the relationship between these determinants of health and the incidence and prevalence of preventable causes of death and disability.
 
 (b) In preparing the profile required by subsection (a) of this section, the Secretary, acting through the National Center for Health Statistics, shall comply with all relevant provisions of sections 242k and 242m of this title.
 

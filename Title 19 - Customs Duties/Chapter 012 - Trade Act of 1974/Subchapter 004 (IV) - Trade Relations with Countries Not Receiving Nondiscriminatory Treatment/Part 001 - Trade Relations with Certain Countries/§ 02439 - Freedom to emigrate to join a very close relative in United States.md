@@ -14,7 +14,7 @@ To assure the continued dedication of the United States to the fundamental human
 
 #### (b) Report to Congress concerning emigration policies
 
-After January 3, 1975, (A) a nonmarket economy country may participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, and (B) the President may conclude a commercial agreement with such country, only after the President has submitted to the Congress a report indicating that such country is not in violation of paragraph (1), (2), or (3) of subsection (a) of this section. Such report with respect to such country shall include information as to the nature and implementation of its laws and policies and restrictions or discrimination applied to or against persons wishing to emigrate to the United States to join close relatives. The report required by this subsection shall be submitted initially as provided herein and, with current information, on or before each June 30 and December 31 thereafter, so long as such credits or guarantees are extended or such agreement is in effect.
+After January 3, 1975, (A) a nonmarket economy country may participate in any program ofthe Government of the United States which extends credits or credit guarantees or investment guarantees, and (B) the President may conclude a commercial agreement with such country, only after the President has submitted to the Congress a report indicating that such country is not in violation of paragraph (1), (2), or (3) of subsection (a) of this section. Such report with respect to such country shall include information as to the nature and implementation of its laws and policies and restrictions or discrimination applied to or against persons wishing to emigrate to the United States to join close relatives. The report required by this subsection shall be submitted initially as provided herein and, with current information, on or before each June 30 and December 31 thereafter, so long as such credits or guarantees are extended or such agreement is in effect.
 
 #### (c) Exemption from application of section
 
@@ -33,10 +33,6 @@ The Tariff Schedules of the United States, referred to in subsec. (c), to be tre
 #### Delegation of Functions
 
 For delegation of congressional reporting functions of President under subsec. (b) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2192, 2437 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

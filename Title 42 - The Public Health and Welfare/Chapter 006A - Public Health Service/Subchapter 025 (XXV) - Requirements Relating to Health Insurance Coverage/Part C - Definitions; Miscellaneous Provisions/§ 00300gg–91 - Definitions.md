@@ -230,10 +230,6 @@ For purposes of this subchapter:
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(4)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 6 of subtitle B of title I of the Act is classified generally to part 6 (§1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300e, 300gg, 300gg–11, 300gg–21, 300gg–41, 300gg–63, 1320d, 1395w–141, 1397cc, 1397ii, 1397jj of this title; title 21 section 360aaa–5.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “term”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>

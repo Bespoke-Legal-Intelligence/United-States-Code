@@ -28,7 +28,3 @@ Not later than 21/2 years after October 30, 2000, the Secretary shall prepare an
 
 (Pub. L. 106–402, title II, §210, Oct. 30, 2000, 114 Stat. 1733.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15101 of this title.
-

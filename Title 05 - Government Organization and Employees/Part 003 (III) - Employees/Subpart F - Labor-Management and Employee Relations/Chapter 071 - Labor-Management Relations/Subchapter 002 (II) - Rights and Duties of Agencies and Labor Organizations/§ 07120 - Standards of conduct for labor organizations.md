@@ -2,7 +2,7 @@
 
 (a) An agency shall only accord recognition to a labor organization that is free from corrupt influences and influences opposed to basic democratic principles. Except as provided in subsection (b) of this section, an organization is not required to prove that it is free from such influences if it is subject to governing requirements adopted by the organization or by a national or international labor organization or federation of labor organizations with which it is affiliated, or in which it participates, containing explicit and detailed provisions to which it subscribes calling for—
 
-&emsp;(1) the maintenance of democratic procedures and practices including provisions forperiodic elections to be conducted subject to recognized safeguards and provisions defining and securing the right of individual members to participate in the affairs of the organization, to receive fair and equal treatment under the governing rules of the organization, and to receive fair process in disciplinary proceedings;
+&emsp;(1) the maintenance of democratic procedures and practices including provisions for periodic elections to be conducted subject to recognized safeguards and provisions defining and securing the right of individual members to participate in the affairs of the organization, to receive fair and equal treatment under the governing rules of the organization, and to receive fair process in disciplinary proceedings;
 
 &emsp;(2) the exclusion from office in the organization of persons affiliated with communist or other totalitarian movements and persons identified with corrupt influences;
 
@@ -29,8 +29,4 @@
 &emsp;(2) take any other appropriate disciplinary action.
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1210.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 1351; title 7 section 7011.
 

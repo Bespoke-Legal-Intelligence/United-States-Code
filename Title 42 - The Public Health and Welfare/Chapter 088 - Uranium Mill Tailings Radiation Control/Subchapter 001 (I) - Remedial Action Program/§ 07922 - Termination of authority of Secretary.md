@@ -24,7 +24,3 @@ The amounts authorized to be appropriated to carry out the purposes of this subc
 
 1988—Subsec. (a). Pub. L. 100–616 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The authority of the Secretary to perform remedial action under this subchapter shall terminate on the date seven years after the date of promulgation by the Administrator of general standards applicable to such remedial action unless such termination date is specifically extended by an Act of Congress enacted after November 8, 1978.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7912, 7942 of this title.
-

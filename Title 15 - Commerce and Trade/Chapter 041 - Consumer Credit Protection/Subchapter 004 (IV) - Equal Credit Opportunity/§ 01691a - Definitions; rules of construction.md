@@ -16,7 +16,3 @@
 
 (Pub. L. 90–321, title VII, §702, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1522.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1681a, 1691d of this title.
-

@@ -1,6 +1,6 @@
 ### §5942a. Separate maintenance allowance for duty at Johnston Island
 
-(a) Notwithstanding section 5536 of this title, and under regulations prescribed by the President, an employee of an Executive agency (other than a Government corporation) who is assignedto a post of duty at Johnston Island, a possession of the United States in the Pacific Ocean, is entitled to receive a separate maintenance allowance if the head of the employing agency finds that—
+(a) Notwithstanding section 5536 of this title, and under regulations prescribed by the President, an employee of an Executive agency (other than a Government corporation) who is assigned to a post of duty at Johnston Island, a possession of the United States in the Pacific Ocean, is entitled to receive a separate maintenance allowance if the head of the employing agency finds that—
 
 &emsp;(1) it is necessary for the employee to maintain the employee's spouse or dependents, or both, at a location other than Johnston Island—
 

@@ -40,7 +40,3 @@ Amendment by Pub. L. 95–454 effective on first day of first applicable pay per
 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 sections 501, 502; title 15 section 1541; title 30 sections 185, 823, 956; title 41 section 422; title 46 sections 7702, 9303; title 50 App. sections 2159, 2412.
-

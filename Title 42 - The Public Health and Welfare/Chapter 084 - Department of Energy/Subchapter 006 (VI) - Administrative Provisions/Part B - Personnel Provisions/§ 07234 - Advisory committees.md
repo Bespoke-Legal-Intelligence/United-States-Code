@@ -20,7 +20,3 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 Pub. L. 108–136, div. C, title XXXI, §3112, Nov. 24, 2003, 117 Stat. 1743, provided that: “An officer or employee of a management and operating contractor of the Department of Energy, when serving as a member of a group reviewing or advising on matters related to any one or more management and operating contracts of the Department, shall be treated as an officer or employee of the Department for purposes of determining whether the group is an advisory committee within the meaning of section 3 of the Federal Advisory Committee Act (5 U.S.C. App.).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5588 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—NEIGHBORHOOD REINVESTMENT CORPORATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 12 section 1834a.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 
 <i><sup>2</sup></i><i> So in original. The word “opportunity” probably should be followed by a period.</i>

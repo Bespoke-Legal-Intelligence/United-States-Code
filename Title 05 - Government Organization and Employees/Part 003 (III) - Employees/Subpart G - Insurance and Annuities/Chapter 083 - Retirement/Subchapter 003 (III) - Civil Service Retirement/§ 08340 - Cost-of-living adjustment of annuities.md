@@ -6,7 +6,7 @@
 
 &emsp;(2) the price index for a base quarter is the arithmetical mean of such index for the 3 months comprising such quarter.
 
-(b) Except as provided in subsection (c) of this section, effective December 1 of each year, each annuity payable from the Fund having a commencing date not later than such December 1 shall be increased by the percent change in the price index for the base quarter of such year over the price index for the base quarter of the preceding year in which an adjustment under this subsection was made, adjusted to the nearest 1/10 of 1 percent.
+(b) Except as provided in subsection (c) of this section, effective December 1 of each year, each annuity payable from the Fund having a commencing date not later than such December 1 shall be increased by the percent change in the price index for the base quarter of such year over the price index for the base quarter of thepreceding year in which an adjustment under this subsection was made, adjusted to the nearest 1/10 of 1 percent.
 
 (c) Eligibility for an annuity increase under this section is governed by the commencing date of each annuity payable from the Fund as of the effective date of an increase, except as follows:
 
@@ -68,7 +68,7 @@ July 31, 1956, ch. 804, §401 “Sec. 18”; added Oct. 11, 1962, Pub. L. 87–7
 
 In subsection (a), the words “After January 1, 1964” and “other than 1964” and subsection (a)(1) of former section 2268, are omitted as executed.
 
-In subsection (b), the words “subsection (a) of this section” are substituted for “subsection (a)(1) or (a)(2) of this section” since subsection (a)(1) has been omitted as executed.
+In subsection (b), the words “subsection (a) of this section” are substituted for “subsection (a)(1) or (a)(2)of this section” since subsection (a)(1) has been omitted as executed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -142,7 +142,7 @@ Subsec. (g). Pub. L. 97–253, §309(a), added subsec. (g).
 
 Subsec. (c)(1). Pub. L. 97–35, §1702(b), in opening provision inserted reference to the widow or widower of a deceased annuitant whose annuity has not been increased under this subsection or subsection (b) of this section, in par. (A) substituted “1/12” for “1/6”, and in subpar. (B) designated existing provisions as item (i) and added item (ii).
 
-1980—Subsec. (c)(1). Pub. L. 96–499, substituted formula for computing the first increase to be made undersubsec. (b) of this section to an annuity which is payable from the Fund to an employee or Member who retires, to the widow or widower of a deceased employee or Member for provisions that an annuity, except a deferred annuity under section 8338 of this title or any other provision of law, payable from the Fund to an employee or Member who retires, or to the widow or widower of a deceased employee or Member and having a commencing date after the effective date of the then last preceding annuity increase under subsec. (b) of this section shall not be less than the annuity which would have been payable if the commencing date of such annuity had been the effective date of the then last preceding annuity increase under subsec. (b) of this section and that employees or deceased employees were to be deemed, for purposes of section 8339(m) of this title to have to their credit, on the effective date of the last preceding increase under subsec. (b), unused sick leave equal to that unused sick leave to his credit on the date of separation from service.
+1980—Subsec. (c)(1). Pub. L. 96–499, substituted formula for computing the first increase to be made under subsec. (b) of this section to an annuity which is payable from the Fund to an employee or Member who retires, to the widow or widower of a deceased employee or Member for provisions that an annuity, except a deferred annuity under section 8338 of this title or any other provision of law, payable from the Fund to an employee or Member who retires, or to the widow or widower of a deceased employee or Member and having a commencing date after the effective date of the then last preceding annuity increase under subsec. (b) of this section shall not be less than the annuity which would have been payable if the commencing date of such annuity had been the effective date of the then last preceding annuity increase under subsec. (b) of this section and that employees or deceased employees were tobe deemed, for purposes of section 8339(m) of this title to have to their credit, on the effective date of the last preceding increase under subsec. (b), unused sick leave equal to that unused sick leave to his credit on the date of separation from service.
 
 1978—Subsecs. (a)(1), (b)(1). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
@@ -285,10 +285,6 @@ Section 301(a)–(c) of Pub. L. 97–253, as amended by Pub. L. 98–270, title 
 #### Cost-of-Living Adjustment of Retired Pay or Retainer Pay of Members and Former Members of Armed Forces and Commissioned Officers of National Oceanic and Atmospheric Administration and Public Health Service; Effective Date of Amendment
 
 See provisions of section 801(c) of Pub. L. 94–361, title VIII, July 14, 1976, 90 Stat. 929, set out as a note under section 1401a of Title 10, Armed Forces.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8334, 8339, 8341, 8344, 8348, 8349, 8443, 8462 of this title; title 22 sections 3682, 4066; title 28 sections 373, 376, 377, 611, 627; title 31 section 777; title 50 section 2131.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

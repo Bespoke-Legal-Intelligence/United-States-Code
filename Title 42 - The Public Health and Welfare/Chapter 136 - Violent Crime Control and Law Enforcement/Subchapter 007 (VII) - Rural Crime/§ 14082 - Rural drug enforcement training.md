@@ -24,7 +24,3 @@ There are authorized to be appropriated to carry out subsection (a) of this sect
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

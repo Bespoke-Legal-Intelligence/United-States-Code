@@ -38,7 +38,7 @@
 
 &emsp;(B) carry firearms;
 
-&emsp;(C) make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if theyhave reasonable grounds to believe that the person to be arrested has committed or is committing such felony;
+&emsp;(C) make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony;
 
 &emsp;(D) offer and pay rewards for services and information leading to the apprehension of persons involved in the violation or potential violation of those provisions of law which the Secret Service is authorized to enforce;
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 86–168 effective Dec. 31, 1959, see section 104(k) of Pub
 
 #### Transfer of Functions
 
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security,and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Funds for Training
 
@@ -308,7 +308,7 @@ Sec. 11. Section 2 of Public Law 90–331 (82 Stat. 170) \[formerly set out as a
 
 “
 
-Sec. 12. In carrying out the protection of the President of the United States, pursuant to section 3056(a) of title 18, at the one non-governmental property designated by the President of the United States to be fully secured by the United States Secret Service on a permanent basis, as provided in section 3.(a) of Public Law 94–524 \[section 3(a) of this note\], or at an airport facility used for travel en route to or from such property\[,\] the Secretary of the Treasury may utilize, with their consent, the law enforcement services, personnel, equipment, and facilities of the affected State and local governments. Further, the Secretary of the Treasury is authorized to reimburse such State and local governments for the utilization of such services, personnel, equipment, and facilities. All claims for such reimbursement by the affected governments willbe submitted to the Secretary of the Treasury on a quarterly basis. Expenditures for this reimbursement are authorized not to exceed $300,000 at the one nongovernmental property, and $70,000 at the airport facility, in any one fiscal year: <i>Provided</i>, That the designated site is located in a municipality or political subdivision of any State where the permanent resident population is 7,000 or less and where the absence of such Federal assistance would place an undue economic burden on the affected State and local governments: <i>Provided further</i>, That the airport facility is wholly or partially located in a municipality or political subdivison \[sic\] of any State where the permanent resident population is 7,000 or less, the airport is located within 25 nautical miles of the designated nongovernmental property, and where the absence of such Federal assistance would place an undue economic burden on the affected State and local governments.”
+Sec. 12. In carrying out the protection of the President of the United States, pursuant to section 3056(a) of title 18, at the one non-governmental property designated by the President of the United States to be fully secured by the United States Secret Service on a permanent basis, as provided in section 3.(a) of Public Law 94–524 \[section 3(a) of this note\], or at an airport facility used for travel en route to or from such property\[,\] the Secretary of the Treasury may utilize, with their consent, the law enforcement services, personnel, equipment, and facilities of the affected State and local governments. Further, the Secretary of the Treasury is authorized to reimburse such State and local governments for the utilization of such services, personnel, equipment, and facilities. All claims for such reimbursement by the affected governments will be submitted to the Secretary of the Treasury on a quarterly basis. Expenditures for this reimbursement are authorized not to exceed $300,000 at the one nongovernmental property, and $70,000 at the airport facility, in any one fiscal year: <i>Provided</i>, That the designated site is located in a municipality or political subdivision of any State where the permanent resident population is 7,000 or less and where the absence of such Federal assistance would place an undue economic burden on the affected State and local governments: <i>Provided further</i>, That the airport facility is wholly or partially located in a municipality or political subdivison \[sic\] of any State where the permanent resident population is 7,000 or less, the airport is located within 25 nautical miles of the designated nongovernmental property, and where the absence of such Federal assistance would place an undue economic burden on the affected State and local governments.”
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -323,10 +323,6 @@ Pub. L. 90–145, Nov. 17, 1967, 81 Stat. 466, extended until Mar. 1, 1969, the 
 #### Applicability of Reorg. Plan No. 26 of 1950
 
 Section 5 of Pub. L. 91–651 provided that: “Section 3056 of title 18, United States Code, as amended by section 4 of this Act, shall be subject to Reorganization Plan Numbered 26 of 1950 (64 Stat. 1280) \[set out in the Appendix to Title 5, Government Organization and Employees\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 115, 351, 879, 1030, 1752, 2332b, 3486, 4247 of this title; title 5 sections 552a, 5542; title 12 section 3414; title 22 sections 2709, 4304; title 31 sections 1344, 1537.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

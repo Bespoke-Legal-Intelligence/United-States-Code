@@ -10,7 +10,3 @@ The provisions of this chapter shall also apply to all deposits of coal, phospha
 
 1960—Pub. L. 86–705 included native asphalt, solid and semisolid bitumen, and bituminous rock.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 275, 285 of this title; title 10 sections 7421, 7435.
-

@@ -10,7 +10,7 @@
 
 &emsp;(B) provide for the establishment of a State health planning council, which shall include representatives of Federal, State, and local agencies (including as an ex officio member, if there is located in such State one or more hospitals or other health care facilities of the Department of Veterans Affairs, the individual whom the Secretary of Veterans Affairs shall have designated to serve on such council as the representative of the hospitals or other health care facilities of such Department which are located in such State) and nongovernmental organizations and groups concerned with health (including representation of the regional medical program or programs included in whole or in part within the State), and of consumers of health services, to advise such State agency in carrying out its functions under the plan, and a majority of the membership of such council shall consist of representatives of consumers of health services;
 
-&emsp;(C) set forth policies and procedures for the expenditure of funds under the plan, which, in the judgment of the Secretary, are designed to provide for comprehensive State planning forhealth services (both public and private and including home health care), including the facilities and persons required for the provision of such services, to meet the health needs of the people of the State and including environmental considerations as they relate to public health;
+&emsp;(C) set forth policies and procedures for the expenditure of funds under the plan, which, in the judgment of the Secretary, are designed to provide for comprehensive State planning for health services (both public and private and including home health care), including the facilities and persons required for the provision of such services, to meet the health needs of the people of the State and including environmental considerations as they relate to public health;
 
 &emsp;(D) provide for encouraging cooperative efforts among governmental or nongovernmental agencies, organizations and groups concerned with health services, facilities, or manpower, and for cooperative efforts between such agencies, organizations, and groups and similar agencies, organizations, and groups in the fields of education, welfare, and rehabilitation;
 
@@ -18,7 +18,7 @@
 
 &emsp;(F) provide such methods of administration (including methods relating to the establishment and maintenance of personnel standards on a merit basis, except that the Secretary shall exercise no authority with respect to the selection, tenure of office, and compensation of any individual employed in accordance with such methods) as are found by the Secretary to be necessary for the proper and efficient operation of the plan;
 
-&emsp;(G) provide that the State agency will make such reports, in such form and containing such information, as the Secretary may from time to time reasonably require, and will keep such records and afford such access thereto as the Secretary finds necessary to assure the correctness and verification of such reports;
+&emsp;(G) provide that the State agency will make such reports, in such form and containing suchinformation, as the Secretary may from time to time reasonably require, and will keep such records and afford such access thereto as the Secretary finds necessary to assure the correctness and verification of such reports;
 
 &emsp;(H) provide that the State agency will from time to time, but not less often than annually, review its State plan approved under this subsection and submit to the Secretary appropriate modifications thereof;
 
@@ -36,9 +36,9 @@
 
 #### (b) Project grants for areawide health planning; authorization of appropriations; prerequisites for grants; application; contents
 
-(1)(A) The Secretary is authorized, during the period beginning July 1, 1966, and ending June 30, 1974, to make, with the approval of the State agency administering or supervising the administration of the State plan approved under subsection (a) of this section, project grants to any other public or nonprofit private agency or organization (but with appropriate representation of the interests of local government where the recipient of the grant is not a local government orcombination thereof or an agency of such government or combination) to cover not to exceed 75 per centum of the costs of projects for developing (and from time to time revising) comprehensive regional, metropolitan area, or other local area plans for coordination of existing and planned health services, including the facilities and persons required for provision of such services; and including the provision of such services through home health care; except that in the case of project grants made in any State prior to July 1, 1968, approval of such State agency shall be required only if such State has such a State plan in effect at the time of such grants. No grant may be made under this subsection after June 30, 1970, to any agency or organization to develop or revise health plans for an area unless the Secretary determines that such agency or organization provides means for appropriate representation of the interests of the hospitals, other health care facilities, and practicing physicians serving such area, and the general public. For the purposes of carrying out this subsection, there are hereby authorized to be appropriated $5,000,000 for the fiscal year ending June 30, 1967, $7,500,000 for the fiscal year ending June 30, 1968, $10,000,000 for the fiscal year ending June 30, 1969, $15,000,000 for the fiscal year ending June 30, 1970, $20,000,000 for the fiscal year ending June 30, 1971, $30,000,000 for the fiscal year ending June 30, 1972, $40,000,000 for the fiscal year ending June 30, 1973, and $25,100,000 for the fiscal year ending June 30, 1974.
+(1)(A) The Secretary is authorized, during the period beginning July 1, 1966, and ending June 30, 1974, to make, with the approval of the State agency administering or supervising the administration of the State plan approved under subsection (a) of this section, project grants to any other public or nonprofit private agency or organization (but with appropriate representation of the interests of local government where the recipient of the grant is not a local government or combination thereof or an agency of such government or combination) to cover not to exceed 75 per centum of the costs of projects for developing (and from time to time revising) comprehensive regional, metropolitan area, or other local area plans for coordination of existing and planned health services, including the facilities and persons required for provision of such services; and including the provision of such services through home health care; except that in the case of project grants made in any State prior to July 1, 1968, approval of such State agency shall be required only if such State has such a State plan in effect at the time of such grants. No grant may be made under this subsection after June 30, 1970, to any agency or organization to develop or revise health plans for an area unless the Secretary determines that such agency or organization provides means for appropriate representation of the interests of the hospitals, other health care facilities, and practicing physicians serving such area, and the general public. For the purposes of carrying out this subsection, there are hereby authorized to be appropriated $5,000,000 for the fiscal year ending June 30, 1967, $7,500,000 for the fiscal year ending June 30, 1968, $10,000,000 for the fiscal year ending June 30, 1969, $15,000,000 for the fiscal year ending June 30, 1970, $20,000,000 for the fiscal year ending June 30, 1971, $30,000,000 for the fiscal year ending June 30, 1972, $40,000,000 for the fiscal year ending June 30, 1973, and $25,100,000 for the fiscal year ending June 30, 1974.
 
-(B) Project grants may be made by the Secretary under subparagraph (A) to the State agency administering or supervising the administration of the State plan approved under subsection (a) of this section with respect to a particular region or area, but only if (i) no application for such a grant with respect to such region or area has been filed by any other agency or organization qualified to receive such a grant, and (ii) such State agency certifies, and the Secretary finds, that ample opportunity has been afforded to qualified agencies and organizations to file application for such a grant with respect to such region or area and that it is improbable that, in the foreseeable future, any agency or organization which is qualified for such a grant will file application therefor.
+(B) Project grants may be made by the Secretary under subparagraph (A) to the Stateagency administering or supervising the administration of the State plan approved under subsection (a) of this section with respect to a particular region or area, but only if (i) no application for such a grant with respect to such region or area has been filed by any other agency or organization qualified to receive such a grant, and (ii) such State agency certifies, and the Secretary finds, that ample opportunity has been afforded to qualified agencies and organizations to file application for such a grant with respect to such region or area and that it is improbable that, in the foreseeable future, any agency or organization which is qualified for such a grant will file application therefor.
 
 (2)(A) In order to be approved under this subsection, an application for a grant under this subsection must contain or be supported by reasonable assurances that there has been or will be established, in or for the area with respect to which such grant is sought, an areawide health planning council. The membership of such council shall include representatives of public, voluntary, and nonprofit private agencies, institutions, and organizations concerned with health (including representatives of the interests of local government of the regional medical program for such area, and of consumers of health services). A majority of the members of such council shall consist of representatives of consumers of health services.
 
@@ -66,7 +66,7 @@ Subsec. (d)(4)(A). Pub. L. 96–32, §6(f), in provision following subd. (II) of
 
 Subsec. (g)(2)(D)(iv). Pub. L. 96–79 substituted “a plan which is consistent with the State health plan in effect for the State under section 300m–3(c) of this title and” for “a plan”.
 
-1978—Subsec. (d). Pub. L. 95–626, §201(b)(2), completely revised subsec. (d) under which the Secretary is authorized to make grants to State health authorities to assist in meeting the costs of providing comprehensive public health services by including requirements that the States submit an application outlining how funds will be used to supplement non-Federal support for the provision of public health services in the State, by setting out formulae under which funds will be made available to States including definitions of “applicable grant computation percentage” and “State and local expenditures for comprehensive public health services”, by requiring implementation of a national health program reporting system to assure accountability for expenditure of funds, and by authorizing appropriations of $150,000,000 for fiscal year ending Sept. 30, 1980, and $170,000,000 for fiscal year ending Sept. 30, 1981.
+1978—Subsec. (d). Pub. L. 95–626, §201(b)(2), completely revised subsec. (d) under which the Secretary is authorized to make grants to State health authorities to assist in meeting the costs of providing comprehensive public health services by including requirements thatthe States submit an application outlining how funds will be used to supplement non-Federal support for the provision of public health services in the State, by setting out formulae under which funds will be made available to States including definitions of “applicable grant computation percentage” and “State and local expenditures for comprehensive public health services”, by requiring implementation of a national health program reporting system to assure accountability for expenditure of funds, and by authorizing appropriations of $150,000,000 for fiscal year ending Sept. 30, 1980, and $170,000,000 for fiscal year ending Sept. 30, 1981.
 
 Subsec. (d)(7)(A). Pub. L. 95–626, §201(a)(1), inserted provision authorizing an appropriation of $103,000,000 for fiscal year ending Sept. 30, 1979.
 
@@ -110,7 +110,7 @@ Subsec. (a)(2)(B). Pub. L. 91–515, §220(b), (c), inserted provisions authoriz
 
 Subsec. (a)(2)(C). Pub. L. 91–515, §220(d), inserted “and including home health care” after “private” and “and including environmental considerations as they relate to public health” after “people of the State”.
 
-Subsec. (b). Pub. L. 91–515, §230, redesignated existing provisions as subsec. (b)(1)(A), and, as so redesignated,extended period for making project grants from June 30, 1970 to June 30, 1973, inserted “and including the provision of such services through home health care” after “such services”, and authorized appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, and added subsec. (b)(1)(B) and (b)(2).
+Subsec. (b). Pub. L. 91–515, §230, redesignated existing provisions as subsec. (b)(1)(A), and, as so redesignated, extended period for making project grants from June 30, 1970 to June 30, 1973, inserted “and including the provision of such services through home health care” after “such services”, and authorized appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, and added subsec. (b)(1)(B) and (b)(2).
 
 Pub. L. 91–296, §111(b), inserted provisions requiring that before grants be made to agencies or organizations to develop or revise health plans for an area the Secretary determine that the agency or organization provides means for appropriate representation of the interests of the hospitals, practicing physicians, and the general public.
 
@@ -170,7 +170,7 @@ Subsec. (g). Pub. L. 89–749 substituted provisions for consultation with State
 
 Subsecs. (h) to (m). Pub. L. 89–749 struck out subsecs. (h) to (m) which dealt, respectively, with requirement that State funds be provided for same purpose as that for which allotted funds are spent, cessation of Federal aid and procedures in connection therewith, promulgation of rules and regulations and consultation with State health authorities precedent thereto, availability of appropriated funds for administrative expenses including printing and travel expenses, applicability of section to Guam and Samoa, and reduction of payments commensurate to expense of detailing of Public Health Service personnel to States.
 
-1965—Subsec. (c). Pub. L. 89–109 substituted “first six fiscal years ending after June 30, 1961” for “first five fiscal years ending after June 30, 1961” and “$5,000,000” for “$2,500,000”.
+1965—Subsec. (c). Pub. L. 89–109 substituted “first six fiscal years ending after June 30, 1961” for “first fivefiscal years ending after June 30, 1961” and “$5,000,000” for “$2,500,000”.
 
 1962—Subsec. (<i>l</i>). Pub. L. 87–688 inserted “and American Samoa”, “or American Samoa”, and “or American Samoa, respectively” after “Guam”.
 
@@ -238,7 +238,7 @@ Section 401(b)(1) of Pub. L. 91–296 provided that the amendment made by that s
 
 Section 2(d)(2), (f) of Pub. L. 90–174 provided that the amendments made by that section are effective July 1, 1968.
 
-Section 3(b) of Pub. L. 90–174 provided that the amendment of this section, the repeal of section 291n of this title, and the enactment of provisions set out as a note under section 242b of this title by such section 3(b)is effective with respect to appropriations for fiscal years ending after June 30, 1967.
+Section 3(b) of Pub. L. 90–174 provided that the amendment of this section, the repeal of section 291n of this title, and the enactment of provisions set out as a note under section 242b of this title by such section 3(b) is effective with respect to appropriations for fiscal years ending after June 30, 1967.
 
 #### Effective Date of 1966 Amendment
 
@@ -258,7 +258,7 @@ Section 18 of act Aug. 1, 1956, provided that the amendment made by that section
 
 #### Repeals
 
-The directory language of, but not the amendment made by, Pub. L. 96–398, title I, §107(d), cited as a credit to this section and set out as an Effective Date of 1980 Amendment note above, which provided for repeal of subsec. (g) of this section, effective Sept. 30, 1981, was repealed by section 902(e)(1) of Pub. L. 97–35, title IX, Aug. 13, 1981, 95 Stat. 560, effective Oct. 1, 1981.
+The directory language of, but not the amendment made by, Pub. L. 96–398, title I, §107(d), cited as a creditto this section and set out as an Effective Date of 1980 Amendment note above, which provided for repeal of subsec. (g) of this section, effective Sept. 30, 1981, was repealed by section 902(e)(1) of Pub. L. 97–35, title IX, Aug. 13, 1981, 95 Stat. 560, effective Oct. 1, 1981.
 
 #### Transfer of Functions
 
@@ -302,7 +302,7 @@ Section 2 of act July 3, 1956, provided that:
 
 #### Limitation on Grants-in-Aid to Schools of Public Health
 
-Section 2 of Pub. L. 85–544, which had limited the authority of the Surgeon General to make grants-in-aid totaling not to exceed $1,000,000 annually to schools of public health for fiscal year beginning July 1, 1958, andJuly 1, 1959, was repealed by section 2 of Pub. L. 86–720, Sept. 8, 1960, 74 Stat. 820.
+Section 2 of Pub. L. 85–544, which had limited the authority of the Surgeon General to make grants-in-aid totaling not to exceed $1,000,000 annually to schools of public health for fiscal year beginning July 1, 1958, and July 1, 1959, was repealed by section 2 of Pub. L. 86–720, Sept. 8, 1960, 74 Stat. 820.
 
 #### Grants to States To Provide for Vaccination Against Poliomyelitis
 
@@ -311,8 +311,4 @@ The Poliomyelitis Vaccination Assistance Act of 1955, act Aug. 12, 1955, ch. 863
 #### Applicability of Reorganization Plan No. 3 of 1966
 
 Section 7 of Pub. L. 89–749 provided that: “The provisions enacted by this Act \[amending this section and sections 242g and 243 of this title\] shall be subject to the provisions of Reorganization Plan No. 3 of 1966 \[set out as a note under section 202 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 201, 235, 248a, 291e, 1320a–1, 4728, 7610 of this title; title 48 section 1666.
 

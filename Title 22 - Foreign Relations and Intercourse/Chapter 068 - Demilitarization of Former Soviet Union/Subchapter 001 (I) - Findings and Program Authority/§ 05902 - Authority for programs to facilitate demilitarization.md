@@ -52,7 +52,3 @@ Authority of President under subsec. (a) of this section delegated to Secretary 
 
 Authority of President under subsec. (d) of this section delegated to Secretary of State by section 1 of Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3193.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5911, 5952 of this title.
-

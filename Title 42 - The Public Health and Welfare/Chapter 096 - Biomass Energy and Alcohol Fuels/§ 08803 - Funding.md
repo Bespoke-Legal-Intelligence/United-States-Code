@@ -24,7 +24,7 @@ Funds made available under subsection (a) of this section shall remain available
 
 &emsp;(C) price guarantees and purchase agreements shall be counted at the value determined by the Secretary concerned as of the date of each such contract based upon the Secretary's determination of the maximum potential liability of the United States under the contract; and
 
-&emsp;(D) any increase in the liability of the United States pursuant to any amendment orother modification to a contract for a loan, loan guarantee, price guarantee, or purchase agreement, shall be counted to the extent of such increase.
+&emsp;(D) any increase in the liability of the United States pursuant to any amendment or other modification to a contract for a loan, loan guarantee, price guarantee, or purchase agreement, shall be counted to the extent of such increase.
 
 (2) Determinations under paragraph (1) shall be made in accordance with generally accepted accounting principles, consistently applied.
 
@@ -53,10 +53,6 @@ Subsec. (a)(2). Pub. L. 97–35, §1062, substituted “$460,000,000” for “$
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1038 of Pub. L. 97–35, set out as a note under section 6240 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8813 of this title.
 
 <i><sup>1</sup></i><i> So in original. Pub. L. 97–35 decreased appropriation to $460,000,000 from $600,000,000 without amending sum of $500,000,000.</i>
 

@@ -26,7 +26,3 @@ A prior section 3303 of Pub. L. 89–10 was classified to section 6923 of this t
 
 2002—Par. (1). Pub. L. 107–279 substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6821 of this title.
-

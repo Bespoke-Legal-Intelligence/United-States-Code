@@ -68,7 +68,7 @@ Subsecs. (c) to (e). Pub. L. 97–259, §105(b), (c), redesignated subsecs. (d) 
 
 1961—Subsec. (c). Pub. L. 87–192, §1, repealed subsec. (c) which provided for establishment of review staff, its composition, responsibility and duties.
 
-Subsec. (d)(1). Pub. L. 87–192, §2, substituted provisions which authorized the delegation of functions by published rule or by order to a panel of commissioners, and individual commissioner, an employee board, or an individual employee, and of review functions to an employee board of three or more employees, enumerated the functions to be delegated, with stated exceptions, and prescribed majority vote for order delegating review functions for former provision which authorized the assignment of reference of work, business or functions by order to an individual commissioner or commissioners or to a board of one or more employees and eliminated provision concerning force, effect and enforcement of orders, now incorporated in par. (3) of this subsection.
+Subsec. (d)(1). Pub. L. 87–192, §2, substituted provisions which authorized the delegation of functions by published rule or by order to a panel of commissioners,and individual commissioner, an employee board, or an individual employee, and of review functions to an employee board of three or more employees, enumerated the functions to be delegated, with stated exceptions, and prescribed majority vote for order delegating review functions for former provision which authorized the assignment of reference of work, business or functions by order to an individual commissioner or commissioners or to a board of one or more employees and eliminated provision concerning force, effect and enforcement of orders, now incorporated in par. (3) of this subsection.
 
 Subsec. (d)(2). Pub. L. 87–192, §2, added par. (2). The subject matter was formerly covered by the introductory words of former par. (1) of this subsection which read “Except as provided in section 409 of this title.” Sentences 1 and 2 of former par. (2) redesignated pars. (4) and (6), respectively.
 
@@ -85,8 +85,4 @@ Subsec. (d)(7), (8). Pub. L. 87–192, §2, added pars. (7) and (8).
 Subsec. (d)(9). Pub. L. 87–192, §2, redesignated former par. (3) as (9) and made it applicable to each panel of the Commission, each employee board instead of each board, and each individual employee.
 
 1952—Act July 16, 1952, amended section generally to provide for the organization of the staff, integrated bureaus, and for a review staff.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 405, 409 of this title.
 

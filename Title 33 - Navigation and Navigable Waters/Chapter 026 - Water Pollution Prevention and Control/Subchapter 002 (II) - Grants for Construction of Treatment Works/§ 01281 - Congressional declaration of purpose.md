@@ -6,7 +6,7 @@ It is the purpose of this subchapter to require and to assist the development an
 
 #### (b) Application of technology: confined disposal of pollutants; consideration of advanced techniques
 
-Waste treatment management plans and practices shall provide for the application of the best practicable waste treatment technology beforeany discharge into receiving waters, including reclaiming and recycling of water, and confined disposal of pollutants so they will not migrate to cause water or other environmental pollution and shall provide for consideration of advanced waste treatment techniques.
+Waste treatment management plans and practices shall provide for the application of the best practicable waste treatment technology before any discharge into receiving waters, including reclaiming and recycling of water, and confined disposal of pollutants so they will not migrate to cause water or other environmental pollution and shall provide for consideration of advanced waste treatment techniques.
 
 #### (c) Waste treatment management area and scope
 
@@ -44,7 +44,7 @@ The Administrator shall encourage waste treatment management which combines “o
 
 (3) The Administrator shall not approve any grant after July 1, 1973, for treatment works under this section unless the applicant shows to the satisfaction of the Administrator that each sewer collection system discharging into such treatment works is not subject to excessive infiltration.
 
-(4) The Administrator is authorized to make grants to applicants for treatment works grants under this section for such sewer system evaluation studies as may be necessary to carry out the requirements of paragraph (3) of this subsection. Such grants shall be made in accordance with rules and regulations promulgated by the Administrator. Initial rules and regulations shall be promulgated under this paragraph not later than 120 days after October 18, 1972.
+(4) The Administrator is authorized to make grants to applicants for treatment works grantsunder this section for such sewer system evaluation studies as may be necessary to carry out the requirements of paragraph (3) of this subsection. Such grants shall be made in accordance with rules and regulations promulgated by the Administrator. Initial rules and regulations shall be promulgated under this paragraph not later than 120 days after October 18, 1972.
 
 (5) The Administrator shall not make grants from funds authorized for any fiscal year beginning after September 30, 1978, to any State, municipality, or intermunicipal or interstate agency for the erection, building, acquisition, alteration, remodeling, improvement, or extension of treatment works unless the grant applicant has satisfactorily demonstrated to the Administrator that innovative and alternative wastewater treatment processes and techniques which provide for the reclaiming and reuse of water, otherwise eliminate the discharge of pollutants, and utilize recycling techniques, land treatment, new or improved methods of waste treatment management for municipal and industrial waste (discharged into municipal systems) and the confined disposal of pollutants, so that pollutants will not migrate to cause water or other environmental pollution, have been fully studied and evaluated by the applicant taking into account subsection (d) of this section and taking into account and allowing to the extent practicable the more efficient use of energy and resources.
 
@@ -86,7 +86,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 (1) Notwithstanding any other provisions of this subchapter, the Administrator is authorized to make a grant from any funds otherwise allotted to the State of California under section 1285 of this title to the project (and in the amount) specified in Order WQG 81–1 of the California State Water Resources Control Board.
 
-(2) Notwithstanding any other provision of this chapter, the Administrator shall make a grant from any funds otherwise allotted to the State of California to the city of Eureka, California, in connection with project numbered C–06–2772, for the purchase of one hundred andthirty-nine acres of property as environmental mitigation for siting of the proposed treatment plant.
+(2) Notwithstanding any other provision of this chapter, the Administrator shall make a grant from any funds otherwise allotted to the State of California to the city of Eureka, California, in connection with project numbered C–06–2772, for the purchase of one hundred and thirty-nine acres of property as environmental mitigation for siting of the proposed treatment plant.
 
 (3) Notwithstanding any other provision of this chapter, the Administrator shall make a grant from any funds otherwise allotted to the State of California to the city of San Diego, California, in connection with that city's aquaculture sewage process (total resources recovery system) as an innovative and alternative waste treatment process.
 
@@ -146,7 +146,7 @@ Subsec. (j). Pub. L. 95–217, §16, added subsec. (j).
 
 #### Effective Date of 1980 Amendment
 
-Section 2(g) of Pub. L. 96–483 provided that: “The amendments made by this section \[amending sections 1281, 1284, and 1293 of this title, enacting provisions set out as notes under section 1284 of this title, and amending provisions set out as a note under section 1284 of this title\] shall take effect on December 27, 1977.”
+Section 2(g) of Pub. L. 96–483 provided that: “The amendments made by this section \[amending sections1281, 1284, and 1293 of this title, enacting provisions set out as notes under section 1284 of this title, and amending provisions set out as a note under section 1284 of this title\] shall take effect on December 27, 1977.”
 
 #### Environmental Protection Agency State and Tribal Assistance Grants
 
@@ -158,7 +158,7 @@ Pub. L. 104–303, title V, §586, Oct. 12, 1996, 110 Stat. 3791, provided that:
 
 “(a)
 
-In General.—Notwithstanding the provisions of title II of the Federal Water Pollution Control Act (33 U.S.C. 1281 et seq.), Executive Order 12803 \[5 U.S.C. 601 note\], or any other law or authority, an entity that received Federal grant assistance for an infrastructure asset under the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\] shall not be required to repayany portion of the grant upon the lease or concession of the asset only if—
+In General.—Notwithstanding the provisions of title II of the Federal Water Pollution Control Act (33 U.S.C. 1281 et seq.), Executive Order 12803 \[5 U.S.C. 601 note\], or any other law or authority, an entity that received Federal grant assistance for an infrastructure asset under the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\] shall not be required to repay any portion of the grant upon the lease or concession of the asset only if—
 
 &emsp;“(1) ownership of the asset remains with the entity that received the grant; and
 
@@ -252,7 +252,7 @@ Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 132
 
 #### Grants to Trust Territory of the Pacific Islands, American Samoa, Guam, Northern Mariana Islands, and Virgin Islands; Waiver of Collector Sewers Limitation
 
-Pub. L. 99–396, §12(b), Aug. 27, 1986, 100 Stat. 841, provided that: “In awarding grants to the Trust Territory of the Pacific Islands, American Samoa, Guam, the Northern Mariana Islands and the Virgin Islands under section 201(g)(1) of the Clean Water Act (33 U.S.C. 1251 et seq.) \[subsec. (g)(1) of this section\], the Administrator of the Environmental Protection Agency may waive limitations regarding grant eligibility for sewerage facilities and related appurtenances, insofar as such limitations relate to collector sewers, based upon a determination that applying such limitations couldhinder the alleviation of threats to public health and water quality. In making such a determination, the Administrator shall take into consideration the public health and water quality benefits to be derived and the availability of alternate funding sources. The Administrator shall not award grants under this section for the operation and maintenance of sewerage facilities, for construction of facilities which are not an essential component of the sewerage facilities, or any other activities or facilities which are not concerned with the management of wastewater to alleviate threats to public health and water quality.” \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
+Pub. L. 99–396, §12(b), Aug. 27, 1986, 100 Stat. 841, provided that: “In awarding grants to the Trust Territory of the Pacific Islands, American Samoa, Guam, the Northern Mariana Islands and the Virgin Islands under section 201(g)(1) of the Clean Water Act (33 U.S.C. 1251 et seq.) \[subsec. (g)(1) of this section\], the Administrator of the Environmental Protection Agency may waive limitations regarding grant eligibility for sewerage facilities and related appurtenances, insofar as such limitations relate to collector sewers, based upon a determination that applying such limitations could hinder the alleviation of threats to public health and water quality. In making such a determination, the Administrator shall take into consideration the public health and water quality benefits to be derived and the availability of alternate funding sources. The Administrator shall not award grants under this section for the operation and maintenance of sewerage facilities, for construction of facilities which are not an essential component of the sewerage facilities, or any other activities or facilities which are not concerned with the management of wastewater to alleviate threats to public health and water quality.” \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
 #### Environmental Financing Authority
 
@@ -282,7 +282,7 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 
 “(g) \[Issuance of Obligations\] (1) The Authority is authorized, with the approval of the Secretary of the Treasury, to issue and have outstanding obligations having such maturities and bearing such rate or rates of interest as may be determined by the Authority. Such obligations may be redeemable at the option of the Authority before maturity in such manner as may be stipulated therein.
 
-“(2) As authorized in appropriation Acts, and such authorizations may be without fiscal year limitations, the Secretary of the Treasury may in his discretion purchase or agree to purchase any obligations issued pursuant to paragraph (1) of this subsection, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force, are extended to include such purchases. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate not less than a rate determined by the Secretary of the Treasury, taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturities. The Secretary of the Treasury may sell, upon such terms and conditions and at such price or prices as he shall determine, any of the obligations acquired by him under this paragraph. All purchases and sales by the Secretary of the Treasury of such obligations under this paragraph shall be treated as public debt transactions of the United States. (As amended Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067.)
+“(2) As authorized in appropriation Acts, and such authorizations may be without fiscal year limitations, the Secretary of the Treasury may in his discretionpurchase or agree to purchase any obligations issued pursuant to paragraph (1) of this subsection, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force, are extended to include such purchases. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate not less than a rate determined by the Secretary of the Treasury, taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturities. The Secretary of the Treasury may sell, upon such terms and conditions and at such price or prices as he shall determine, any of the obligations acquired by him under this paragraph. All purchases and sales by the Secretary of the Treasury of such obligations under this paragraph shall be treated as public debt transactions of the United States. (As amended Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067.)
 
 “(h) \[Interest Differential\] The Secretary of the Treasury is authorized and directed to make annual payments to the Authority in such amounts as are necessary to equal the amount by which the dollar amount of interest expense accrued by the Authority on account of its obligations exceeds the dollar amount of interest income accrued by the Authority on account of obligations purchased by it pursuant to subsection (e) of this section.
 
@@ -319,10 +319,6 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 “(<i>o</i>) \[Financial Controls\] The budget and audit provisions of chapter 91 of title 31 shall be applicable to the Environmental Financing Authority in the same manner as they are applied to the wholly owned Government corporations. (As amended Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067.)
 
 “(p) \[Subsec. (p) amended section 711 of former Title 31, Money and Finance, and is not set out herein.\]”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1254, 1281a, 1281b, 1282, 1283, 1284, 1285, 1286, 1288, 1291, 1292, 1297, 1298, 1311, 1314, 1371, 1375, 1382, 1383 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

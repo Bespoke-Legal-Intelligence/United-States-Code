@@ -10,7 +10,7 @@ The lands within the recreation area, subject to valid existing rights, are here
 
 #### (c) Disposal of receipts
 
-All receipts derived from permits and leases issued on lands or interest in lands within the recreation area under the mineral leasing laws shall be disposed of as provided in such laws; and receipts from the disposition of nonleasable minerals within the recreation area shall be disposed of in the same manner as moneys received from the sale of public lands.
+All receipts derived from permits and leases issued on lands or interest in lands within the recreation area under the mineral leasing laws shall be disposed of as provided in such laws; andreceipts from the disposition of nonleasable minerals within the recreation area shall be disposed of in the same manner as moneys received from the sale of public lands.
 
 (Pub. L. 96–487, title XIII, §1312, Dec. 2, 1980, 94 Stat. 2483.)
 
@@ -25,8 +25,4 @@ The United States mining laws and the mineral leasing laws, referred to in subse
 #### Codification
 
 Section was not enacted as part of title IV of Pub. L. 96–487, which comprises this subchapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460mm–2, 460mm–3 of this title.
 

@@ -10,7 +10,7 @@
 
 &emsp;(B) the final order in a proceeding under section 2255.
 
-(2) A certificate of appealability may issue under paragraph (1) only if the applicant has made a substantial showing of the denial of a constitutional right.
+(2) A certificate of appealability may issue under paragraph (1) only if the applicant hasmade a substantial showing of the denial of a constitutional right.
 
 (3) The certificate of appealability under paragraph (1) shall indicate which specific issue or issues satisfy the showing required by paragraph (2).
 
@@ -45,8 +45,4 @@ This section corrects a typographical error in the second paragraph of section 2
 1951—Act Oct. 31, 1951, substituted “to remove, to another district or place for commitment or trial, a person charged with a criminal offense against the United States, or to test the validity of his” for “of removal issued pursuant to section 3042 of Title 18 or the” in second par.
 
 1949—Act May 24, 1949, substituted “3042” for “3041” in second par.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 8 section 1226a.
 

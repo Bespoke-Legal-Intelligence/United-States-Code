@@ -1,9 +1,5 @@
 Part F—Land Exchanges
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 460nnn–1, 460nnn–23, 460nnn–24 of this title.
-
 
 ---
 

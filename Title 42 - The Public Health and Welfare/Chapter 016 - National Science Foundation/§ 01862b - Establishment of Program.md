@@ -16,7 +16,7 @@
 
 (1) The Program shall be carried out through projects which involve the repair, renovation, or, in exceptional cases, replacement of specific science and engineering facilities devoted primarily to research at eligible institutions, or consortia thereof, and for which funds are awarded in response to specific proposals submitted by such eligible institutions or consortia in accordance with procedures prescribed by the Director pursuant to section 1862c of this title.
 
-(2) Awards made under the Program shall not exceed $7,000,000 to any institution or consortium over any period of 5 years for the repair, renovation, or, in exceptional cases, replacement of academic research facilities.
+(2) Awards made under the Program shall not exceed $7,000,000 to any institution or consortium over any period of 5 years for the repair,renovation, or, in exceptional cases, replacement of academic research facilities.
 
 (3) The Director shall, in making awards under the Program, consider the extent to which that institution or consortium has received funds for the repair, renovation, construction, or replacement of academic facilities from any other Federal funding source within the 5-year period immediately preceding the application. The Director shall give priority to institutions or consortia that have not received such funds in the preceding 5 years.
 
@@ -51,8 +51,4 @@ A prior section 1862b, Pub. L. 100–418, title VI, §6403, Aug. 23, 1988, 102 S
 #### Major Research Instrumentation
 
 Pub. L. 107–368, §13, Dec. 19, 2002, 116 Stat. 3055, required Director of the National Science Foundation to conduct a review and assessment of the major research instrumentation program and, not later than 1 year after Dec. 19, 2002, submit a report, including specified estimates, descriptions and analyses, of findings and recommendations to certain Congressional committees, and also required the Director to enter into an arrangement with the National Academy of Sciences to assess the need for an interagency program to establish and support fully equipped, state-of-the-art university-based centers for interdisciplinary research and advanced instrumentation development, and not later than 15 months after Dec. 19, 2002, to transmit to the committees the assessment conducted by the National Academy of Sciences together with the Foundation's reaction to the assessment.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1862a, 1862c of this title.
 

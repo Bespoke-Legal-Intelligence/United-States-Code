@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—DISSEMINATION ABROAD OF INFORMATION ABOUT THE UNITED STATES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1471 of this title.
-
 
 ---
 

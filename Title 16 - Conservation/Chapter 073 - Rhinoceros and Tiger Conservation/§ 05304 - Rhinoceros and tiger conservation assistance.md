@@ -48,7 +48,3 @@ Each person that receives assistance under this section for a project shall prov
 
 2002—Subsec. (e). Pub. L. 107–112 amended heading and text generally. Prior to amendment, text read as follows: “To the maximum extent practical, the Secretary should give consideration to projects which will enhance sustainable development programs to ensure effective, long-term conservation of rhinoceros and tigers.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4246, 5305 of this title.
-

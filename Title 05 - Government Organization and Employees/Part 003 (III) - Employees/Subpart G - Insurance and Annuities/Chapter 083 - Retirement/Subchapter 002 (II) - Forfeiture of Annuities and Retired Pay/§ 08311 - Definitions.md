@@ -18,13 +18,13 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) pay or compensation which may not be diminished under section 1 of Article III of the Constitution of the United States;
 
-&emsp;&emsp;(C) that portion of a benefit payable under subchapter II of chapter 7 of title 42 which would be payable without taking into account, for any of the purposes of that subchapter, including determinations of periods of disability under section 416(i) of title 42, pay for services as an employee;
+&emsp;&emsp;(C) that portion of a benefit payable under subchapter II of chapter 7 of title 42 whichwould be payable without taking into account, for any of the purposes of that subchapter, including determinations of periods of disability under section 416(i) of title 42, pay for services as an employee;
 
 &emsp;&emsp;(D) monthly annuity awarded under section 228b or 228e of title 45 before September 26, 1961, whether or not computed under section 228c(e) of title 45;
 
 &emsp;&emsp;(E) that portion of an annuity awarded under section 228b or 228e of title 45 after September 25, 1961, which would be payable without taking into account military service creditable under section 228c–1 of title 45;
 
-&emsp;&emsp;(F) a retirement benefit, including a disability insurance benefit and a dependent'sor survivor's benefit under subchapter II of chapter 7 of title 42, awarded before September 1, 1954, to an individual or his survivor or beneficiary, insofar as the individual, before September 1, 1954—
+&emsp;&emsp;(F) a retirement benefit, including a disability insurance benefit and a dependent's or survivor's benefit under subchapter II of chapter 7 of title 42, awarded before September 1, 1954, to an individual or his survivor or beneficiary, insofar as the individual, before September 1, 1954—
 
 &emsp;&emsp;&emsp;(i) was convicted of an offense named by subsection (b) of section 8312 of this title, to the extent provided by that subsection; or
 
@@ -99,8 +99,4 @@ Section 5 of the Uniformed Services Contingency Option Act of 1953 (67 Stat. 504
 #### Amendments
 
 1991—Pars. (2)(A), (3)(A). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5531, 8312, 8313, 8314, 8315 of this title.
 

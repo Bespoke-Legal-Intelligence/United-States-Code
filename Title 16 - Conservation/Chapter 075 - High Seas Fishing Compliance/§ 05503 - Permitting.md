@@ -72,7 +72,3 @@ This chapter, referred to in subsec. (e)(2), was in the original “this Act”,
 
 Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5504, 5505, 5507 of this title.
-

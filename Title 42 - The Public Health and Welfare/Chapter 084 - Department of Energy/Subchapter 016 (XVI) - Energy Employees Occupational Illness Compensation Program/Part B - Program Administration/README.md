@@ -1,9 +1,5 @@
 Part B—Program Administration
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 7384d, 7384f, 7385, 7385a, 7385b, 7385d, 7385e, 7385f, 7385g, 7385h, 7385i of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
@@ -22,3 +18,5 @@ This part is referred to in sections 7384d, 7384f, 7385, 7385a, 7385b, 7385d, 73
 - [&sect; 07384t - Medical benefits](%C2%A7%2007384t%20-%20Medical%20benefits.md)
 - [&sect; 07384u - Separate treatment of certain uranium employees](%C2%A7%2007384u%20-%20Separate%20treatment%20of%20certain%20uranium%20employees.md)
 - [&sect; 07384v - Assistance for claimants and potential claimants](%C2%A7%2007384v%20-%20Assistance%20for%20claimants%20and%20potential%20claimants.md)
+- [&sect; 07384w - Subpoenas; oaths; examination of witnesses](%C2%A7%2007384w%20-%20Subpoenas%3B%20oaths%3B%20examination%20of%20witnesses.md)
+- [&sect; 07384w&#8211;1 - Completion of site profiles](%C2%A7%2007384w%E2%80%931%20-%20Completion%20of%20site%20profiles.md)

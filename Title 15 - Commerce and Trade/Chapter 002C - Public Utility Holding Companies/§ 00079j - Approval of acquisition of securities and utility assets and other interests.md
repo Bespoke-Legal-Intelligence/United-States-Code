@@ -38,7 +38,7 @@ If the requirements of subsection (f) of this section are satisfied, the Commiss
 
 &emsp;(3) such acquisition will unduly complicate the capital structure of the holding-company system of the applicant or will be detrimental to the public interest or the interest of investors or consumers or the proper functioning of such holding-company system.
 
-> The Commission may condition its approval of the acquisition of securities of another company upon such a fair offer to purchase such of the other securities of the company whose security is to be acquired as the Commission may find necessary or appropriate in the public interest or for the protection of investors or consumers.
+> The Commission may condition its approval of the acquisition of securities of another company upon such a fair offer to purchase such of the other securities of the company whose securityis to be acquired as the Commission may find necessary or appropriate in the public interest or for the protection of investors or consumers.
 
 #### (c) Conditions barring approval
 
@@ -58,15 +58,11 @@ The Commission, in any order approving the acquisition of securities or utility 
 
 #### (f) Compliance with State laws as condition of approval
 
-The Commission shall not approve any acquisition as to which an application is made underthis section unless it appears to the satisfaction of the Commission that such State laws as may apply in respect of such acquisition have been complied with, except where the Commission finds that compliance with such State laws would be detrimental to the carrying out of the provisions of section 79k of this title.
+The Commission shall not approve any acquisition as to which an application is made under this section unless it appears to the satisfaction of the Commission that such State laws as may apply in respect of such acquisition have been complied with, except where the Commission finds that compliance with such State laws would be detrimental to the carrying out of the provisions of section 79k of this title.
 
 (Aug. 26, 1935, ch. 687, title I, §10, 49 Stat. 818.)
 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 18, 79i of this title.
 

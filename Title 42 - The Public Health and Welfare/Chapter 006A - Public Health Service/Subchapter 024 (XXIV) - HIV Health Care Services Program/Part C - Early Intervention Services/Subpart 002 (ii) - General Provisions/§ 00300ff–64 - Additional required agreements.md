@@ -130,7 +130,3 @@ Subsec. (g)(4). Pub. L. 104–146, §3(d)(5)(A), (B)(ii), (C), added par. (4).
 
 Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–61, 300ff–62, 300ff–65 of this title.
-

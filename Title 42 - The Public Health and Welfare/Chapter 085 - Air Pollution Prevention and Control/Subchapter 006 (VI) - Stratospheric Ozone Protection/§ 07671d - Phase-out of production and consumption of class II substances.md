@@ -50,7 +50,3 @@ By December 31, 1999, the Administrator shall promulgate regulations phasing out
 
 (July 14, 1955, ch. 360, title VI, §605, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2658.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7671a, 7671b, 7671e of this title.
-

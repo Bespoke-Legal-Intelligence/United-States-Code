@@ -10,7 +10,7 @@ There shall be in the Department the Institute of Education Sciences, to be admi
 
 &emsp;The mission of the Institute is to provide national leadership in expanding fundamental knowledge and understanding of education from early childhood through postsecondary study, in order to provide parents, educators, students, researchers, policymakers, and the general public with reliable information about—
 
-&emsp;&emsp;(A) the condition and progress of education in the United States, including early childhood education;
+&emsp;&emsp;(A) the condition and progress of education in the United States, including early childhood education and special education;
 
 &emsp;&emsp;(B) educational practices that support learning and improve academic achievement and access to educational opportunities for all students; and
 
@@ -36,13 +36,17 @@ The Institute shall consist of the following:
 
 &emsp;&emsp;(A) the National Center for Education Research (as described in part B of this subchapter);
 
-&emsp;&emsp;(B) the National Center for Education Statistics (as described in part C of this subchapter); and
+&emsp;&emsp;(B) the National Center for Education Statistics (as described in part C of this subchapter);
 
-&emsp;&emsp;(C) the National Center for Education Evaluation and Regional Assistance (as described in part D of this subchapter).
+&emsp;&emsp;(C) the National Center for Education Evaluation and Regional Assistance (as described in part D of this subchapter); and
 
-(Pub. L. 107–279, title I, §111, Nov. 5, 2002, 116 Stat. 1944.)
+&emsp;&emsp;(D) the National Center for Special Education Research (as described in part E of this subchapter).
 
-#### Section Referred to in Other Sections
+(Pub. L. 107–279, title I, §111, Nov. 5, 2002, 116 Stat. 1944; Pub. L. 108–446, title II, §201(b)(2)(A), (B), Dec. 3, 2004, 118 Stat. 2802.)
 
-This section is referred to in sections 9501, 9513 of this title.
+#### Amendments
+
+2004—Subsec. (b)(1)(A). Pub. L. 108–446, §201(b)(2)(A), inserted “and special education” after “early childhood education”.
+
+Subsec. (c)(3)(D). Pub. L. 108–446, §201(b)(2)(B), added subpar. (D).
 

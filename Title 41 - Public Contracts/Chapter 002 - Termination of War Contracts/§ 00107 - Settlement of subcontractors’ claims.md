@@ -18,7 +18,7 @@ Any contracting agency may settle directly termination claims of subcontractors 
 
 #### (e) Amount of settlement
 
-Any contracting agency may make settlements with subcontractors in accordance withany of the provisions of this chapter without regard to any limitation on the amount payable by the Government to the prime contractor.
+Any contracting agency may make settlements with subcontractors in accordance with any of the provisions of this chapter without regard to any limitation on the amount payable by the Government to the prime contractor.
 
 #### (f) Equitable payments
 
@@ -39,8 +39,4 @@ Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 
 #### Application to Terminated War Contracts
 
 For application of this section to war contracts terminated at or before July 21, 1944, see section 124 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 124 of this title.
 

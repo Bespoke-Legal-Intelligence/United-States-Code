@@ -28,13 +28,9 @@ The United States reserves and retains the ownership of and the right to extract
 
 #### References in Text
 
-Paragraph (1) of subsection (b) of section 5 of the Atomic Energy Act of 1946, as amended, referred to in subsec. (e), is par. (1) of section 5(b) of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which was classified to section 1805 of Title 42, The Public Health and Welfare, prior to the general amendment of the Atomic Energy Act of 1946 by act Aug. 30, 1954, ch. 1073, 68 Stat. 921. See section 2014(z) of Title 42.
+Paragraph (1) of subsection (b) of section 5 of the Atomic Energy Act of 1946, as amended, referred to in subsec. (e), is par. (1) of section 5(b) of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which was classified to section 1805 of Title 42, The Public Health and Welfare, prior to thegeneral amendment of the Atomic Energy Act of 1946 by act Aug. 30, 1954, ch. 1073, 68 Stat. 921. See section 2014(z) of Title 42.
 
 #### Key Largo Coral Reef Preserve
 
 Withdrawal of area designated Key Largo Coral Reef Preserve from disposition, see Proc. No. 3339, Mar. 15, 1960, 25 F.R. 2352, set out as a note under section 461 of Title 16, Conservation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1353 of this title.
 

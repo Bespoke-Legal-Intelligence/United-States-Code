@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized, in his discretion, to accept, as he
 
 (May 25, 1926, ch. 382, §2, 44 Stat. 635.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 404c–11 of this title.
-

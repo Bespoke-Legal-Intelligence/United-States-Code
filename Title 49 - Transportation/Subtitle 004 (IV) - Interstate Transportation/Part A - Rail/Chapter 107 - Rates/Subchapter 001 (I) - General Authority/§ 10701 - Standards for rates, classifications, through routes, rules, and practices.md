@@ -42,7 +42,3 @@ Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10704, 10705 of this title.
-

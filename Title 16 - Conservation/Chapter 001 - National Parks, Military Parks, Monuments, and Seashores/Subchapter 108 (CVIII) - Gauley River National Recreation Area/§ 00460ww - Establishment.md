@@ -10,7 +10,7 @@ The recreation area shall consist of the land, waters, and interests therein gen
 
 #### (c) Boundary modifications
 
-Within five years after October 26, 1988, the Secretary of the Interior (hereinafter in thissubchapter referred to as the “Secretary”) shall submit to the Committee on Natural Resources of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a report containing any boundary modifications which the Secretary recommends, together with the reasons therefor.
+Within five years after October 26, 1988, the Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall submit to the Committee on Natural Resources of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a report containing any boundary modifications which the Secretary recommends, together with the reasons therefor.
 
 (Pub. L. 100–534, title II, §201, Oct. 26, 1988, 102 Stat. 2702; Pub. L. 103–437, §6(d)(21), Nov. 2, 1994, 108 Stat. 4584.)
 
@@ -25,10 +25,6 @@ This Act, referred to in subsec. (a), is Pub. L. 100–534, Oct. 26, 1988, 102 S
 #### Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460ww–4 of this title.
 
 <i><sup>1</sup></i><i> So in original. Should be “referred”.</i>
 

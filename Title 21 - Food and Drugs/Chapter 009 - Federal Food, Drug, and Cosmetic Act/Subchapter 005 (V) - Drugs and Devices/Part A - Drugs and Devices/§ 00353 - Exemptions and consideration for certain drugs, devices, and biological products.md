@@ -18,7 +18,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (3) The Secretary may by regulation remove drugs subject to section 355 of this title from the requirements of paragraph (1) of this subsection when such requirements are not necessary for the protection of the public health.
 
-(4)(A) A drug that is subject to paragraph (1) shall be deemed to be misbranded if at any timeprior to dispensing the label of the drug fails to bear, at a minimum, the symbol “Rx only”.
+(4)(A) A drug that is subject to paragraph (1) shall be deemed to be misbranded if at any time prior to dispensing the label of the drug fails to bear, at a minimum, the symbol “Rx only”.
 
 (B) A drug to which paragraph (1) does not apply shall be deemed to be misbranded if at any time prior to dispensing the label of the drug bears the symbol described in subparagraph (A).
 
@@ -80,7 +80,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (C) Each drug manufacturer or authorized distributor of record which makes distributions by mail or common carrier under this paragraph shall maintain, for a period of 3 years, the request forms submitted for such distributions and the receipts submitted for such distributions and shall maintain a record of distributions of drug samples which identifies the drugs distributed and the recipients of the distributions. Forms, receipts, and records required to be maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to Federal and State officials engaged in the regulation of drugs and in the enforcement of laws applicable to drugs.
 
-(3) The manufacturer or authorized distributor of record of a drug subject to subsection (b) ofthis section may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor of record makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
+(3) The manufacturer or authorized distributor of record of a drug subject to subsection (b) of this section may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor of record makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
 
 &emsp;(A) Drug samples may only be distributed—
 
@@ -94,7 +94,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(C) Drug manufacturers or authorized distributors of record shall conduct, at least annually, a complete and accurate inventory of all drug samples in the possession of representatives of the manufacturer or authorized distributor of record. Drug manufacturers or authorized distributors of record shall maintain lists of the names and address of each of their representatives who distribute drug samples and of the sites where drug samples are stored. Drug manufacturers or authorized distributors of record shall maintain records for at least 3 years of all drug samples distributed, destroyed, or returned to the manufacturer or authorized distributor of record, of all inventories maintained under this subparagraph, of all thefts or significant losses of drug samples, and of all requests made under subparagraph (A) for drug samples. Records and lists maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to the Secretary upon request.
 
-&emsp;(D) Drug manufacturers or authorized distributors of record shall notify the Secretary of any significant loss of drug samples and any known theft of drug samples.
+&emsp;(D) Drug manufacturers or authorized distributors of record shall notify the Secretaryof any significant loss of drug samples and any known theft of drug samples.
 
 &emsp;(E) Drug manufacturers or authorized distributors of record shall report to the Secretary any conviction of their representatives for violations of subsection (c)(1) of this section or a State law because of the sale, purchase, or trade of a drug sample or the offer to sell, purchase, or trade a drug sample.
 
@@ -122,7 +122,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(i) because of its toxicity or other potentiality for harmful effect, or the method of its use, or the collateral measures necessary for its use, is not safe for animal use except under the professional supervision of a licensed veterinarian, or
 
-&emsp;(ii) is limited by an approved application under subsection (b) of section 360b of this title to use under the professional supervision of a licensed veterinarian,
+&emsp;(ii) is limited by an approved application under subsection (b) of section 360b of this title, a conditionally-approved application under section 360ccc of this title, or an index listing under section 360ccc–1 of this title to use under the professional supervision of a licensed veterinarian,
 
 > shall be dispensed only by or upon the lawful written or oral order of a licensed veterinarian in the course of the veterinarian's professional practice.
 
@@ -148,9 +148,9 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 > The preceding sentence shall not apply to any drug dispensed in the course of the conduct of a business of dispensing drugs pursuant to diagnosis by mail.
 
-(3) The Secretary may by regulation exempt drugs for animals other than man subject to section 360b of this title from the requirements of paragraph (1) when such requirements are not necessary for the protection of the public health.
+(3) The Secretary may by regulation exempt drugs for animals other than man subject to section 360b, 360ccc, or 360ccc–1 of this title from the requirements of paragraph (1) when such requirements are not necessary for the protection of the public health.
 
-(4) A drug which is subject to paragraph (1) shall be deemed to be misbranded if at any time prior to dispensing its label fails to bear the statement “Caution: Federal law restricts this drug to use by or on the order of a licensed veterinarian.”. A drug to which paragraph (1) does not apply shall be deemed to be misbranded if at any time prior to dispensing its label bears the statement specified in the preceding sentence.
+(4) A drug which is subject to paragraph (1) shall be deemed to be misbranded if at any time prior to dispensing its label fails to bear the statement “Caution: Federal law restricts this drug to use by or on the order of a licensed veterinarian.”. A drug to which paragraph (1) doesnot apply shall be deemed to be misbranded if at any time prior to dispensing its label bears the statement specified in the preceding sentence.
 
 #### (g) Regulation of combination products
 
@@ -206,7 +206,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;&emsp;(iii) approval of a biologics license application under subsection (a) of section 262 of title 42.
 
-(June 25, 1938, ch. 675, §503, 52 Stat. 1051; Oct. 26, 1951, ch. 578, §1, 65 Stat. 648; Pub. L. 87–781, title I, §104(e)(2), Oct. 10, 1962, 76 Stat. 785; Pub. L. 91–601, §6(e), formerly §7(e), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 100–293, §§4–6, Apr. 22, 1988, 102 Stat. 96–98; Pub. L. 100–670, title I, §105, Nov. 16, 1988, 102 Stat. 3983; Pub. L. 101–629, §16(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–108, §2(d), Aug. 17, 1991, 105 Stat. 550; Pub. L. 102–300, §6(d), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §§2(a)–(c), 4, Aug. 26, 1992, 106 Stat. 941, 942; Pub. L. 104–250, §5(a), Oct. 9, 1996, 110 Stat. 3155; Pub. L. 105–115, title I, §§123(e), 126(a), (c)(1), (2), Nov. 21, 1997, 111 Stat. 2324, 2327, 2328; Pub. L. 107–250, title II, §204, Oct. 26, 2002, 116 Stat. 1611.)
+(June 25, 1938, ch. 675, §503, 52 Stat. 1051; Oct. 26, 1951, ch. 578, §1, 65 Stat. 648; Pub. L. 87–781, titleI, §104(e)(2), Oct. 10, 1962, 76 Stat. 785; Pub. L. 91–601, §6(e), formerly §7(e), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 100–293, §§4–6, Apr. 22, 1988, 102 Stat. 96–98; Pub. L. 100–670, title I, §105, Nov. 16, 1988, 102 Stat. 3983; Pub. L. 101–629, §16(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–108, §2(d), Aug. 17, 1991, 105 Stat. 550; Pub. L. 102–300, §6(d), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §§2(a)–(c), 4, Aug. 26, 1992, 106 Stat. 941, 942; Pub. L. 104–250, §5(a), Oct. 9, 1996, 110 Stat. 3155; Pub. L. 105–115, title I, §§123(e), 126(a), (c)(1), (2), Nov. 21, 1997, 111 Stat. 2324, 2327, 2328; Pub. L. 107–250, title II, §204, Oct. 26, 2002, 116 Stat. 1611; Pub. L. 108–282, title I, §102(b)(5)(F), Aug. 2, 2004, 118 Stat. 903.)
 
 #### References in Text
 
@@ -217,6 +217,10 @@ Section 357 of this title, referred to in subsec. (g)(5)(C)(i), was repealed by 
 In subsec. (b)(5), “sections 4721, 6001, and 6151 of title 26” and “section 4761 of title 26” substituted for “section 3220 of the Internal Revenue Code (26 U.S.C. 3220)” and “section 3238(b) of the Internal Revenue Code (26 U.S.C. 3238(b))”, respectively, on authority of section 7852(b) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2004—Subsec. (f)(1)(A)(ii). Pub. L. 108–282, §102(b)(5)(F)(i), substituted “360b of this title, a conditionally-approved application under section 360ccc of this title, or an index listing under section 360ccc–1 of this title” for “360b of this title”.
+
+Subsec. (f)(3). Pub. L. 108–282, §102(b)(5)(F)(ii), substituted “section 360b, 360ccc, or 360ccc–1” for “section 360b”.
 
 2002—Subsec. (g)(1). Pub. L. 107–250, §204(1)(A), substituted “shall in accordance with this subsection assign an agency center” for “shall designate a component of the Food and Drug Administration” in first sentence of introductory provisions.
 
@@ -383,10 +387,6 @@ Section 2 of Pub. L. 100–293 provided that: “The Congress finds the followin
 &emsp;“(7) The bulk resale of below wholesale priced prescription drugs by health care entities, for ultimate sale at retail, helps fuel the diversion market and is an unfair form of competition to wholesalers and retailers that must pay otherwise prevailing market prices.
 
 &emsp;“(8) The effect of these several practices and conditions is to create an unacceptable risk that counterfeit, adulterated, misbranded, subpotent, or expired drugs will be sold to American consumers.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 333, 360, 360bbb–2, 379g, 379r, 381, 384, 825, 829, 885, 1602 of this title; title 15 section 1459; title 35 section 156.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

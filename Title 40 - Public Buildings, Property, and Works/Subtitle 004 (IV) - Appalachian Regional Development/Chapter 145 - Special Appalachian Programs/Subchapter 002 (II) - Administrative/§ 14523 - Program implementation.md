@@ -34,7 +34,3 @@ Historical and Revision Notes
 
 Pub. L. 89–4, title II, §223, Mar. 9, 1965, 79 Stat. 18; Pub. L. 90–103, title I, §118, Oct. 11, 1967, 81 Stat. 264; Pub. L. 94–188, title I, §116, Dec. 31, 1975, 89 Stat. 1083.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14502 of this title.
-

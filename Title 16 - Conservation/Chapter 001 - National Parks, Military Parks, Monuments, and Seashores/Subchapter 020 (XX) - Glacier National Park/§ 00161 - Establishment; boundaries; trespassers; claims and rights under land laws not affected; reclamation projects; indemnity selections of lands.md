@@ -22,7 +22,3 @@ In sentence beginning “Nothing herein contained”, the words “before May 11
 
 Reclamation Service, established in July 1902, changed to Bureau of Reclamation in June 1923.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 162 of this title.
-

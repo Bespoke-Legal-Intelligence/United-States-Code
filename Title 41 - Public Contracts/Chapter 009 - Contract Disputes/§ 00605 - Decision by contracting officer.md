@@ -36,7 +36,7 @@ Notwithstanding any other provision of this chapter, a contractor and a contract
 
 In any case in which the contracting officer rejects a contractor's request for alternative dispute resolution proceedings, the contracting officer shall provide the contractor with a written explanation, citing one or more of the conditions in section 572(b) of title 5 or such other specific reasons that alternative dispute resolution procedures are inappropriate for the resolution of the dispute. In any case in which a contractor rejects a request of an agency for alternative dispute resolution proceedings, the contractor shall inform the agency in writing of the contractor's specific reasons for rejecting the request.
 
-(Pub. L. 95–563, §6, Nov. 1, 1978, 92 Stat. 2384; Pub. L. 101–552, §6(a), Nov. 15, 1990, 104 Stat. 2745; Pub. L. 102–572, title IX, §907(a)(1), Oct. 29, 1992, 106 Stat. 4518; Pub. L. 103–355, title II, §§2351(a)\[(1)\], (b), (e), 2352, Oct. 13, 1994, 108 Stat. 3322; Pub. L. 104–106, div. D, title XLIII, §§4321(a)(6), (7), 4322(b)(6), Feb. 10, 1996, 110 Stat. 671, 677; Pub. L. 104–320, §6, Oct. 19, 1996, 110 Stat. 3871; Pub. L. 105–85, div. A, title X, §1073(g)(3), Nov. 18, 1997, 111 Stat. 1906.)
+(Pub. L. 95–563, §6, Nov. 1, 1978, 92 Stat. 2384; Pub. L. 101–552, §6(a), Nov. 15, 1990, 104 Stat. 2745; Pub. L. 102–572, title IX, §907(a)(1), Oct. 29, 1992, 106 Stat. 4518; Pub. L. 103–355, title II, §§2351(a)(1), (b), (e), 2352, Oct. 13, 1994, 108 Stat. 3322; Pub. L. 104–106, div. D, title XLIII, §§4321(a)(6), (7), 4322(b)(6), Feb. 10, 1996, 110 Stat. 671, 677; Pub. L. 104–320, §6, Oct. 19, 1996, 110 Stat. 3871; Pub. L. 105–85, div. A, title X, §1073(g)(3), Nov. 18, 1997, 111 Stat. 1906.)
 
 #### Amendments
 
@@ -89,8 +89,4 @@ Section 907(a)(4) of Pub. L. 102–572 provided that: “The amendments made by 
 #### Effect of Contract Provisions Providing for Submission of Claims Earlier Than Six Years After Accrual
 
 Section 2351(a)(2) of Pub. L. 103–355 provided that: “Notwithstanding the third sentence of section 6(a) of the Contract Disputes Act of 1978 \[41 U.S.C. 605(a)\], as added by paragraph (1), if a contract in existence on the date of the enactment of this Act \[Oct. 13, 1994\] requires that a claim referred to in that sentence be submitted earlier than 6 years after the accrual of the claim, then the claim shall be submitted within the period required by the contract. The preceding sentence does not apply to a claim by the Federal Government against a contractor that is based on a claim by the contractor involving fraud.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 256, 606, 609, 611 of this title; title 5 section 504; title 10 section 2324; title 28 section 1491; title 31 section 3907.
 

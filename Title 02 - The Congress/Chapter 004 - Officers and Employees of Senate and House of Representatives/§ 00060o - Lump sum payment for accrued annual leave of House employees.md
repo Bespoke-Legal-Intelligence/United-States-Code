@@ -40,7 +40,7 @@ Section is from the Congressional Operations Appropriations Act, 1996, which is 
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–55, §103(a)(1), (2), in introductory provisions, struck out “who is separated from employment,” after “House of Representatives” and substituted “of the employee or for any other purpose” for “of the employee”.
+1997—Subsec. (a). Pub. L. 105–55, §103(a)(1), (2), in introductory provisions, struck out “who is separated from employment,” after “House of Representatives” and substituted “of the employee or for any other purpose” for “of the employee”.
 
 Subsec. (a)(1)(B). Pub. L. 105–55, §103(a)(3), substituted “in the case of a lump sum payment for the accrued annual leave of the employee, the amount” for “the amount”.
 
@@ -62,7 +62,7 @@ Pub. L. 106–554, §1(a)(2) \[title I, §6\], Dec. 21, 2000, 114 Stat. 2763, 27
 
 &emsp;&emsp;“(A) has approved a written leave policy authorizing employees to accrue leave and establishing the conditions upon which accrued leave may be paid; and
 
-&emsp;&emsp;“(B) submits written certification to the Financial Clerk of the Senate of the number of days of annual leave accrued by the employee for which payment is to be made under the written leave policy of the employing office; and
+&emsp;&emsp;“(B) submits written certification to the Financial Clerk of the Senate of the number of days ofannual leave accrued by the employee for which payment is to be made under the written leave policy of the employing office; and
 
 &emsp;“(2) there are sufficient funds to cover the lump sum payment.
 

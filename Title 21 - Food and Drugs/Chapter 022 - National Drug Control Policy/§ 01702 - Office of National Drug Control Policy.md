@@ -62,9 +62,13 @@ The location of the Office in the Executive Office of the President shall not be
 
 #### Gifts to Office of National Drug Control Policy
 
-Pub. L. 108–7, div. J, title III, Feb. 20, 2003, 117 Stat. 446, provided in part: “That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office”.
+Pub. L. 108–447, div. H, title III, Dec. 8, 2004, 118 Stat. 3249, provided in part: “That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–199, div. F, title III, Jan. 23, 2004, 118 Stat. 324.
+
+Pub. L. 108–7, div. J, title III, Feb. 20, 2003, 117 Stat. 446.
 
 Pub. L. 107–67, title III, Nov. 12, 2001, 115 Stat. 530.
 
@@ -109,8 +113,4 @@ Sec. 2. The seal shall be of the design that is attached hereto and made a part 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 [Image not captured: t211702.gif]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1701, 1703 of this title.
 

@@ -110,7 +110,7 @@ Procedures.—Any procedures necessary to carry out this subsection shall be est
 
 &emsp;&emsp;(B) in the case of any employees who are not within such a unit, representation by any appropriate organization which represents a substantial percentage of those employees or, if none, in such other manner as may be appropriate, consistent with the purposes of the subsection;
 
-&emsp;&emsp;(C) the fair and expeditious handling of the consultation and mediation process described in subparagraph (B) of paragraph (1),including procedures by which, if the number of employee representatives providing recommendations exceeds 5, such representatives select a committee or other unified representative with which the Secretary and Director may meet and confer; and
+&emsp;&emsp;(C) the fair and expeditious handling of the consultation and mediation process described in subparagraph (B) of paragraph (1), including procedures by which, if the number of employee representatives providing recommendations exceeds 5, such representatives select a committee or other unified representative with which the Secretary and Director may meet and confer; and
 
 &emsp;&emsp;(D) the selection of representatives in a manner consistent with the relative number of employees represented by the organizations or other representatives involved.
 
@@ -163,8 +163,4 @@ Section 1501 of the Homeland Security Act of 2002, referred to in subsec. (h), i
 #### Effective Date
 
 Section effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as a note under section 101 of Title 6, Domestic Security.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 section 412.
 

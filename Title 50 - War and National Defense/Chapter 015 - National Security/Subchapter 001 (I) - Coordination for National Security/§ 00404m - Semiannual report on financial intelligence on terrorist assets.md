@@ -30,7 +30,3 @@ In this section, the term “appropriate congressional committees” means the f
 
 (July 26, 1947, ch. 343, title I, §118, as added Pub. L. 107–306, title III, §342(a)(1), Nov. 27, 2002, 116 Stat. 2398.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 415b of this title.
-

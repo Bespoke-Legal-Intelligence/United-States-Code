@@ -48,7 +48,7 @@ Pub. L. 105–304, title V, §504, Oct. 28, 1998, 112 Stat. 2917, as amended by 
 
 “(a)
 
-In General.—Not later than November 1, 2003, the Register of Copyrights and the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall submit to the Committees on the Judiciary of the Senate and the House of Representatives a joint report evaluating the effect of the amendments made by this title \[enacting this chapter and amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure\].
+In General.—Not later than November 1, 2003, the Register of Copyrights and the Under Secretary of Commerce for Intellectual Property and Director of theUnited States Patent and Trademark Office shall submit to the Committees on the Judiciary of the Senate and the House of Representatives a joint report evaluating the effect of the amendments made by this title \[enacting this chapter and amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure\].
 
 “(b)
 

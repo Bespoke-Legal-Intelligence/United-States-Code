@@ -20,7 +20,7 @@ A local educational agency may receive funds under this part for any fiscal year
 
 #### (A) Comparable services
 
-&emsp;&emsp;Except as provided in paragraphs (4) and (5), a local educational agency may receive funds under this part only if State and local funds will be used in schools served underthis part to provide services that, taken as a whole, are at least comparable to services in schools that are not receiving funds under this part.
+&emsp;&emsp;Except as provided in paragraphs (4) and (5), a local educational agency may receive funds under this part only if State and local funds will be used in schools served under this part to provide services that, taken as a whole, are at least comparable to services in schools that are not receiving funds under this part.
 
 #### (B) Substantially comparable services
 
@@ -28,7 +28,7 @@ A local educational agency may receive funds under this part for any fiscal year
 
 #### (C) Basis
 
-&emsp;&emsp;A local educational agency may meet the requirements of subparagraphs (A) and (B) on a grade-span by grade-span basis or a school-by-school basis.
+&emsp;&emsp;A local educational agency may meet the requirements of subparagraphs (A) and (B)on a grade-span by grade-span basis or a school-by-school basis.
 
 #### (2) Written assurance
 
@@ -81,8 +81,4 @@ For the purpose of complying with subsections (b) and (c) of this section, a Sta
 A prior section 6321, Pub. L. 89–10, title I, §1120, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3557, related to participation of children enrolled in private schools, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6320 of this title.
 
 A prior section 1120A of Pub. L. 89–10 was classified to section 6322 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6313, 6314, 6316, 6394, 6435 of this title.
 

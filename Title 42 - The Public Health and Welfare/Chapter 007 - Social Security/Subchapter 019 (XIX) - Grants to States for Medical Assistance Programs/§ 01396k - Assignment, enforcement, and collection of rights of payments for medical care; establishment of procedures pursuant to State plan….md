@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) to assign the State any rights, of the individual or of any other person who is eligible for medical assistance under this subchapter and on whose behalf the individual has the legal authority to execute an assignment of such rights, to support (specified as support for the purpose of medical care by a court or administrative order) and to payment for medical care from any third party;
 
-&emsp;&emsp;(B) to cooperate with the State (i) in establishing the paternity of such person (referred to in subparagraph (A)) if the person is a child born out of wedlock, and (ii) in obtaining support and payments (described in subparagraph (A)) for himself and for such person, unless (in either case) the individual is described in section 1396a(<i>l</i>)(1)(A) of this title or the individual is found to have goodcause for refusing to cooperate as determined by the State agency in accordance with standards prescribed by the Secretary, which standards shall take into consideration the best interests of the individuals involved; and
+&emsp;&emsp;(B) to cooperate with the State (i) in establishing the paternity of such person (referred to in subparagraph (A)) if the person is a child born out of wedlock, and (ii) in obtaining support and payments (described in subparagraph (A)) for himself and for such person, unless (in either case) the individual is described in section 1396a(<i>l</i>)(1)(A) of this title or the individual is found to have good cause for refusing to cooperate as determined by the State agency in accordance with standards prescribed by the Secretary, which standards shall take into consideration the best interests of the individuals involved; and
 
 &emsp;&emsp;(C) to cooperate with the State in identifying, and providing information to assist the State in pursuing, any third party who may be liable to pay for care and services available under the plan, unless such individual has good cause for refusing to cooperate as determined by the State agency in accordance with standards prescribed by the Secretary, which standards shall take into consideration the best interests of the individuals involved; and
 
@@ -35,8 +35,4 @@ Amendment by Pub. L. 99–272 applicable to calendar quarters beginning on or af
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective Oct. 1, 1984, except as otherwise provided, see section 2367(c) of Pub. L. 98–369, set out as a note under section 1396a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 652, 654, 666, 1396a, 1396b of this title; title 29 section 1169.
 

@@ -10,7 +10,3 @@
 
 (Pub. L. 100–228, §4, Dec. 31, 1987, 101 Stat. 1557.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1772c of this title.
-

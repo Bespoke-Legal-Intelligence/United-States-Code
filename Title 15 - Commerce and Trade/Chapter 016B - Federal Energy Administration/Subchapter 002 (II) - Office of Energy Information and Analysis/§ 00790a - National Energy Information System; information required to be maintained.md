@@ -48,7 +48,3 @@ Functions assigned to Director of Office of Energy Information and Analysis unde
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 790c of this title; title 42 section 7135.
-

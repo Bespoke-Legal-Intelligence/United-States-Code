@@ -122,7 +122,3 @@ Amendment by Pub. L. 105–102 effective as if included in the provisions of the
 
 Section 6(c) of Pub. L. 104–152 provided that: “The information system established under section 30502 of title 49, United States Code, shall be effective as provided in the rules promulgated by the Attorney General.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30501, 30503, 30504 of this title.
-

@@ -25,6 +25,6 @@
 - [&sect; 04238 - Monitoring of compliance](%C2%A7%2004238%20-%20Monitoring%20of%20compliance.md)
 - [&sect; 04239 - Performance reports](%C2%A7%2004239%20-%20Performance%20reports.md)
 - [&sect; 04240 - Review and audit by Secretary](%C2%A7%2004240%20-%20Review%20and%20audit%20by%20Secretary.md)
-- [&sect; 04241 - General Accounting Office audits](%C2%A7%2004241%20-%20General%20Accounting%20Office%20audits.md)
+- [&sect; 04241 - Government Accountability Office audits](%C2%A7%2004241%20-%20Government%20Accountability%20Office%20audits.md)
 - [&sect; 04242 - Reports to Congress](%C2%A7%2004242%20-%20Reports%20to%20Congress.md)
 - [&sect; 04243 - Authorization of appropriations](%C2%A7%2004243%20-%20Authorization%20of%20appropriations.md)

@@ -18,7 +18,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 #### (1) General rule
 
-&emsp;If the Commission, in its final determination under section 1673d(b) of this title, finds material injury or threat of material injury which,but for the suspension of liquidation under section 1673b(d)(2) of this title would have led to a finding of material injury, then entries of the subject merchandise, the liquidation of which has been suspended under section 1673b(d)(2) of this title, shall be subject to the imposition of antidumping duties under section 1673 of this title.
+&emsp;If the Commission, in its final determination under section 1673d(b) of this title, finds material injury or threat of material injury which, but for the suspension of liquidation under section 1673b(d)(2) of this title would have led to a finding of material injury, then entries of the subject merchandise, the liquidation of which has been suspended under section 1673b(d)(2) of this title, shall be subject to the imposition of antidumping duties under section 1673 of this title.
 
 #### (2) Special rule
 
@@ -70,7 +70,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 &emsp;&emsp;(A) make all business proprietary information supplied to the administering authority under paragraph (1) available under a protective order in accordance with section 1677f(c) of this title to all interested parties described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title, and
 
-&emsp;&emsp;(B) afford all interested parties an opportunity to file written comments on whether the posting of bond or other security underparagraph (1) in lieu of the deposit of estimated antidumping duties should be permitted.
+&emsp;&emsp;(B) afford all interested parties an opportunity to file written comments on whether the posting of bond or other security under paragraph (1) in lieu of the deposit of estimated antidumping duties should be permitted.
 
 #### (d) Special rule for regional industries
 
@@ -110,13 +110,9 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, andto reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1673c, 1673d, 1673f, 1673h, 1675, 1677, 1677f, 1677j, 1677m, 1677n of this title.
 

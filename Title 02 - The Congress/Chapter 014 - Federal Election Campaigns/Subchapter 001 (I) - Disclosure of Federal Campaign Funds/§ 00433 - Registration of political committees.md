@@ -40,7 +40,7 @@ Any change in information previously submitted in a statement of organization sh
 
 #### Amendments
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–187 substituted provisions requiring each authorized campaign committee, each segregated fund established under section 441b(b) of this title, and all other committees to file a statement of organization 10 days after establishment for provisions requiring each political committee anticipating the receipt or expenditure during the calendar year of an amount exceeding $1,000 to file with the Commission a statement of organization within 10 days after organization or 10 days after receipt of information causing the anticipation of receipt or expenditure in excess of $1,000 and requiring each committee in existence on the date of enactment of this Act to file a statement of organization at such time as the Commission prescribes.
+1980—Subsec. (a). Pub. L. 96–187 substituted provisions requiring each authorized campaign committee, each segregated fund established under section 441b(b) of this title, and all other committees to file a statement of organization 10 days after establishment for provisions requiring each political committee anticipating the receipt or expenditure during the calendar year of an amount exceeding $1,000 to file with the Commission a statement of organization within 10 days after organization or 10 days after receipt of information causing the anticipation of receipt or expenditure in excess of $1,000 and requiring each committee in existence on the date of enactment of this Act to file a statement of organization at such time as the Commission prescribes.
 
 Subsec. (b). Pub. L. 96–187 inserted “of a political committee” in introductory clause; in par. (1) inserted reference to type of committee; in par. (2) inserted reference to type of organization or affiliated committee; in par. (3) substituted provisions relating to the name, address and position of custodian of books and accounts for provisions relating to area, scope or jurisdiction of the committee; in par. (4) substituted provisions relating to the name and address of the treasurer for provisions relating to the name, address and position of the custodian of books and accounts; in par. (5) substituted provisions relating to the name, address, office sought and party affiliation of the candidate for provisions relating to the name, address and position of principal officers including officers of the finance committee; in par. (6) substituted provisions relating to listings of banks, safety deposit boxes, etc. for provisions relating to name and address, office sought and political affiliation of supported candidates, and struck out pars. (7) to (11) relating to other information.
 
@@ -50,7 +50,7 @@ Subsec. (d). Pub. L. 96–187 redesignated existing provisions as par. (1), subs
 
 Subsec. (e). Pub. L. 96–187 struck out subsec. (e) relating to filing of required reports and notifications with the appropriate principal campaign committee instead of the Commission in the case of a political committee which is not a principal campaign committee.
 
-<b>1974</b>—Pub. L. 93–443, §208(c)(3)(A), substituted “Commission” for “supervisory officer” wherever appearing.
+1974—Pub. L. 93–443, §208(c)(3)(A), substituted “Commission” for “supervisory officer” wherever appearing.
 
 Subsec. (a). Pub. L. 93–443, §208(c)(3)(B), substituted “it prescribes” for “he prescribes”.
 
@@ -63,8 +63,4 @@ Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub.
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under section 431 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 441a of this title; title 18 section 608; title 26 section 9008.
 

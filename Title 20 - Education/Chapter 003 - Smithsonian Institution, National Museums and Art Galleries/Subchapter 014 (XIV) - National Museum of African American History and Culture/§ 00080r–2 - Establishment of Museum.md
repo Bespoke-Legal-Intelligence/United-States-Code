@@ -34,7 +34,3 @@ The purpose of the Museum shall be to provide for—
 
 (Pub. L. 108–184, §4, Dec. 16, 2003, 117 Stat. 2677.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80r–1 of this title.
-

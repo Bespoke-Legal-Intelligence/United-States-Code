@@ -18,7 +18,7 @@ Nothing in this section shall be construed to affect in any way the December 31,
 
 #### (c) Regional management plans for waste disposal
 
-The Administrator, in cooperation with the Secretary, the Secretary of Commerce, andother officials of appropriate Federal, State, and local agencies, shall assess the feasibility in coastal areas of regional management plans for the disposal of waste materials. Such plans should integrate where appropriate Federal, State, regional, and local waste disposal activities into a comprehensive regional disposal strategy. These plans should address, among other things—
+The Administrator, in cooperation with the Secretary, the Secretary of Commerce, and other officials of appropriate Federal, State, and local agencies, shall assess the feasibility in coastal areas of regional management plans for the disposal of waste materials. Such plans should integrate where appropriate Federal, State, regional, and local waste disposal activities into a comprehensive regional disposal strategy. These plans should address, among other things—
 
 &emsp;(1) the sources, quantities, and types of materials that require and will require disposal;
 
@@ -51,8 +51,4 @@ In subsec. (a)(1)(A), October 6, 1980, was substituted for “the date of the en
 1986—Subsecs. (c), (d). Pub. L. 99–272 added subsecs. (c) and (d).
 
 1980—Pub. L. 96–381 substituted provision authorizing the Administrator of the Environmental Protection Agency to conduct research, etc., and to encourage and cooperate with public authorities, etc., for the purpose of determining means of minimizing or ending, as soon as possible after Oct. 6, 1980, dumping in ocean waters, or waters described in section 1411(b) of this title, of materials which may unreasonably degrade or endanger human health or the marine environment and to develop disposal methods as alternatives to dumping for provision authorizing the Secretary of Commerce to conduct research, etc., and to encourage and cooperate with public authorities, etc., for the purpose of minimizing or ending all dumping of materials within five years after the effective date of Pub. L. 92–532, which was approved Oct. 23, 1972, and inserted provision directing that nothing in this section be construed to affect in any way the Dec. 31, 1981, termination date, established by section 1412a of this title for ocean dumping of sewage sludge.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1442, 1444 of this title.
 

@@ -22,7 +22,3 @@ There are authorized to be appropriated such sums as may be necessary to cover a
 
 Section was formerly set out as a note under section 1681 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1932 of this title.
-

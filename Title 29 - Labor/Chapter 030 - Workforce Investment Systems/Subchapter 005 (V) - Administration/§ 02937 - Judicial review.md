@@ -24,9 +24,5 @@ The court shall have jurisdiction to make and enter a decree affirming, modifyin
 
 Provisions similar to this section were contained in section 1578 of this title prior to repeal by Pub. L. 105–220.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2936 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 

@@ -40,7 +40,3 @@ The provisions of this section shall apply to the separation of firemen in commu
 
 (Pub. L. 93–236, title VII, §702, as added Pub. L. 97–35, title XI, §1143(a), Aug. 13, 1981, 95 Stat. 662.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 231, 351, 741, 797d, 797i, 1103 of this title.
-

@@ -10,7 +10,3 @@ Provisions similar to those in this section were contained in section 11163 of t
 
 A prior section 11161, added Pub. L. 96–448, title III, §302(a), Oct. 14, 1980, 94 Stat. 1934, related to Railroad Accounting Principles Board, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11162 of this title.
-

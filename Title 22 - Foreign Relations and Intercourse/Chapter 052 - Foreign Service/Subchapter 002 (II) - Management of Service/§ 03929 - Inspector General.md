@@ -56,7 +56,7 @@ Final reports of investigations.—In order to ensure that final reports of inve
 
 #### (d) Reports by Inspector General and Secretary of State
 
-(1) The Inspector General shall keep the Secretary of State fully and currently informed, by means of the reports required by paragraphs (2) and (3) and otherwise, concerning fraud and other serious problems, abuses, and deficiencies relating to the administration of activities and operations administered or financed by the Department of State.
+(1) The Inspector General shall keep the Secretary of State fully and currently informed, by means of the reports required by paragraphs (2)and (3) and otherwise, concerning fraud and other serious problems, abuses, and deficiencies relating to the administration of activities and operations administered or financed by the Department of State.
 
 (2) The Inspector General shall, not later than April 30 of each year, prepare and furnish to the Secretary of State an annual report summarizing the activities of the Inspector General. Such report shall include—
 
@@ -149,8 +149,4 @@ For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this
 #### No Grievance or Right of Action
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: “A failure to comply with the amendments made by this section \[amending this section\] shall not give rise to any private right of action in any court or to an administrative complaint or grievance under any law.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3929a, 4102, 4861, 6203 of this title.
 

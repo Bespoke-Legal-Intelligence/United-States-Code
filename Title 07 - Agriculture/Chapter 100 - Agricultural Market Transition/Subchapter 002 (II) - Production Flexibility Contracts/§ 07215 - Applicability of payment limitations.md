@@ -4,7 +4,3 @@ Sections 1308 through 1308–3 of this title shall be applicable to contract pay
 
 (Pub. L. 104–127, title I, §115(a), Apr. 4, 1996, 110 Stat. 902.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7213 of this title.
-

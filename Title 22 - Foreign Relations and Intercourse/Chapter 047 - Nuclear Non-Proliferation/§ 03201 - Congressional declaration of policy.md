@@ -8,7 +8,7 @@ The Congress finds and declares that the proliferation of nuclear explosive devi
 
 &emsp;(c) strongly encourage nations which have not ratified the Treaty on the Non-Proliferation of Nuclear Weapons to do so at the earliest possible date; and
 
-&emsp;(d) cooperate with foreign nations in identifying and adapting suitable technologies for energy production and, in particular, to identify alternative options to nuclear power inaiding such nations to meet their energy needs, consistent with the economic and material resources of those nations and environmental protection.
+&emsp;(d) cooperate with foreign nations in identifying and adapting suitable technologies for energy production and, in particular, to identify alternative options to nuclear power in aiding such nations to meet their energy needs, consistent with the economic and material resources of those nations and environmental protection.
 
 (Pub. L. 95–242, §2, Mar. 10, 1978, 92 Stat. 120.)
 

@@ -12,7 +12,7 @@ The Secretary shall not prohibit an employee of a State, county or area committe
 
 #### (2) State office
 
-&emsp;In the case of a loan application from an employee of a State office, the Farm ServiceAgency national office shall be responsible for reviewing and approving the application.
+&emsp;In the case of a loan application from an employee of a State office, the Farm Service Agency national office shall be responsible for reviewing and approving the application.
 
 (Pub. L. 87–128, title III, §377, as added Pub. L. 107–171, title V, §5321, May 13, 2002, 116 Stat. 349.)
 

@@ -40,7 +40,3 @@ For the effective date of the Federal Mine Safety and Health Amendments Act of 1
 
 Section effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under section 801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 814 of this title.
-

@@ -46,7 +46,3 @@ In accordance with the regulations or guidelines established by the Attorney Gen
 
 (Pub. L. 90–351, title I, §1702, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1811.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3796dd, 3796dd–5 of this title.
-

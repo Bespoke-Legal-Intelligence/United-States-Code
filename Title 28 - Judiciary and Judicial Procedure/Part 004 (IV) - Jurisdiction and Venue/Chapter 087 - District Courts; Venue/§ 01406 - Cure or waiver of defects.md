@@ -18,7 +18,7 @@ Subsection (b) is declaratory of existing law. (See <i>Panama R.R. Co. v. Johnso
 
 #### 1949 Act
 
-This section removes an ambiguity in section 1406(a) of title 28, U.S.C., by substituting “may” for “shall”, thus making it clear that the court may decline to transfer a case brought in the wrong district under circumstances where it would not be in the interest of justice to make such transfer.
+This section removes an ambiguity in section 1406(a) of title 28, U.S.C., by substituting “may” for “shall”, thus making it clear that the court may decline to transfer a case brought in the wrong district under circumstances where it would not be in the interest of justice to make such transfer. \[The amendment to section 1406(a) of this title described in this note was altered in the bill as enacted. See Cong. Rec., vol. 95, pt. 5, pp. 5826, 5827, 6283, 6284.\]
 
 #### Amendments
 
@@ -47,8 +47,4 @@ Amendment by Pub. L. 87–845 effective Jan. 2, 1962, see section 25 of Pub. L. 
 #### Effective Date of 1960 Amendment
 
 Section 4 of Pub. L. 86–770 provided in part that: “The amendments made by sections 1 and 2 of this Act \[adding subsec. (c) of this section and section 1506 of this title\] shall apply to any case or proceeding pending on, or brought after, the date of enactment of this Act \[Sept. 13, 1960\] in the district courts or the Court of Claims.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 2000e–5.
 

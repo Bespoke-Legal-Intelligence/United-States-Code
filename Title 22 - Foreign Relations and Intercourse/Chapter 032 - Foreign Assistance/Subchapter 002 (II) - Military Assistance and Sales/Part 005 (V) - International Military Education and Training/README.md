@@ -1,9 +1,5 @@
 Part V—International Military Education and Training
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 2304, 2305, 2314, 2321i, 2321j, 2375, 2394–1, 2403, 2415, 2761, 7102, 7432 of this title; title 10 sections 168, 9415.
-
 
 ---
 

@@ -88,7 +88,7 @@ Subsec. (d). Pub. L. 105–80, §7(b), amended subsec. (d) generally. Prior to a
 
 1992—Subsec. (a)(2). Pub. L. 102–307 struck out “in its first term” after “copyright” and substituted “$20” for “$12”.
 
-1990—Subsec. (a). Pub. L. 101–318, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The following fees shall be paid to the Register of Copyrights:
+1990—Subsec. (a). Pub. L. 101–318, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) readas follows: “The following fees shall be paid to the Register of Copyrights:
 
 &emsp;“(1) on filing each application for registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration if registration is made, $10;
 
@@ -157,8 +157,4 @@ Section 406(b) of Pub. L. 95–94 provided that the amendment made by that secti
 #### Carry-over of Existing Fees
 
 Pub. L. 106–379, §3(c)(2), Oct. 27, 2000, 114 Stat. 1446, provided that: “The fees under section 708(a) of title 17, United States Code, on the date of the enactment of this Act \[Oct. 27, 2000\] shall be the fees in effect under section 708(a) of such title on the day before such date of enactment.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 104A, 205, 407, 408, 704, 705, 706, 908 of this title.
 

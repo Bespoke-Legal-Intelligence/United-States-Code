@@ -14,7 +14,3 @@ There are authorized to be appropriated for grants under section 13811 of this t
 
 (Pub. L. 103–322, title III, §30802, Sept. 13, 1994, 108 Stat. 1858.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

@@ -26,7 +26,3 @@
 
 A prior section 11144, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1426; Pub. L. 96–296, §24(c), July 1, 1980, 94 Stat. 816, related to form, inspection, and preservation of records, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 11144, 14122, and 15722 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11901, 11904 of this title.
-

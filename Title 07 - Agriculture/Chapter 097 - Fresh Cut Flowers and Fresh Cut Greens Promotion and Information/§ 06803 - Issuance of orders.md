@@ -50,7 +50,3 @@ The Secretary, from time to time, may amend an order. The provisions of this cha
 
 (Pub. L. 103–190, §4, Dec. 14, 1993, 107 Stat. 2271.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6804, 6806 of this title.
-

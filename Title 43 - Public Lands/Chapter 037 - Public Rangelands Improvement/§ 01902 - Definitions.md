@@ -14,7 +14,7 @@ As used in this chapter—
 
 (f) The term “range improvement” means any activity or program on or relating to rangelands which is designed to improve production of forage; change vegetative composition; control patterns of use; provide water; stabilize soil and water conditions; and provide habitat for livestock and wildlife. The term includes, but is not limited to, structures, treatment projects, and use of mechanical means to accomplish the desired results.
 
-(g) The term “court ordered environmental impact statement” means any environmental statements which are required to be prepared by the Secretary of the Interior pursuant to the final judgment or subsequent modification thereof as set forth on June 18, 1975, in the matter of Natural Resources Defense Council against Andrus.
+(g) The term “court ordered environmental impact statement” means any environmental statements which are required to be prepared by the Secretary of the Interior pursuant to the final judgment or subsequent modificationthereof as set forth on June 18, 1975, in the matter of Natural Resources Defense Council against Andrus.
 
 (h) The term “Secretary” unless specifically designated otherwise, means the Secretary of the Interior.
 
@@ -25,8 +25,4 @@ As used in this chapter—
 #### References in Text
 
 This chapter, referred to in opening provision and in subsec. (b), was in the original “this Act”, meaning Pub. L. 95–514, Oct. 25, 1978, 92 Stat. 1803, which enacted this chapter and amended sections 1739 and 1751 to 1753 of this title and sections 1332 and 1333 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 1333.
 

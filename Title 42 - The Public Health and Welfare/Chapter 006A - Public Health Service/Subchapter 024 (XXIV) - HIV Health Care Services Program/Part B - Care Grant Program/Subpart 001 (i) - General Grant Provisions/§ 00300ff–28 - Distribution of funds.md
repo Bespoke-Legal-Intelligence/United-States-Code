@@ -52,7 +52,7 @@
 
 #### (E) Determination of Secretary regarding data on HIV cases
 
-&emsp;&emsp;If under section 300ff–13(a)(3)(D)(i) of this title the Secretary determines that data on cases of HIV disease are not sufficiently accurate and reliable, then notwithstandingsubparagraph (D) of this paragraph, for any fiscal year prior to fiscal year 2007 the references in such subparagraph to cases of HIV disease do not have any legal effect.
+&emsp;&emsp;If under section 300ff–13(a)(3)(D)(i) of this title the Secretary determines that data on cases of HIV disease are not sufficiently accurate and reliable, then notwithstanding subparagraph (D) of this paragraph, for any fiscal year prior to fiscal year 2007 the references in such subparagraph to cases of HIV disease do not have any legal effect.
 
 #### (F) Puerto Rico, Virgin Islands, Guam
 
@@ -192,7 +192,7 @@
 
 #### (d) Reallocation
 
-Any amounts appropriated in any fiscal year and made available to a State under this part that have not been obligated as described in subsection (d) <sup>3</sup> of this section shall be repaid to theSecretary and reallotted to other States in proportion to the original grants made to such States.
+Any amounts appropriated in any fiscal year and made available to a State under this part that have not been obligated as described in subsection (d) <sup>3</sup> of this section shall be repaid to the Secretary and reallotted to other States in proportion to the original grants made to such States.
 
 (July 1, 1944, ch. 373, title XXVI, §2618, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 595; amended Pub. L. 102–531, title III, §312(d)(30), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(5), (g)(2), 5, 6(c)(3), May 20, 1996, 110 Stat. 1355, 1363, 1365, 1368; Pub. L. 105–392, title IV, §417, Nov. 13, 1998, 112 Stat. 3591; Pub. L. 106–345, title II, §206, Oct. 20, 2000, 114 Stat. 1334.)
 
@@ -238,7 +238,7 @@ Subsec. (a)(1). Pub. L. 104–146, §6(c)(3)(A), which directed amendment of sub
 
 Subsec. (b)(1). Pub. L. 104–146, §6(c)(3)(B), which directed amendment of subsec. (b)(1) by substituting “section 300ff–77 of this title” for “section 300ff–30 of this title”, could not be executed because the words “section 300ff–30 of this title” did not appear subsequent to the general amendment of subsec. (b)(1) by Pub. L. 104–146, §5. See below.
 
-Pub. L. 104–146, §5, amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Subject to the extent of amounts made available under section 300ff–30 of this title, the amount of a grant to be made under this part for—
+Pub. L. 104–146, §5, amended heading and text of par. (1) generally. Prior to amendment, text read as follows:“Subject to the extent of amounts made available under section 300ff–30 of this title, the amount of a grant to be made under this part for—
 
 &emsp;“(A) each of the several States and the District of Columbia for a fiscal year shall be the greater of—
 
@@ -269,10 +269,6 @@ Subsec. (c)(5) to (7). Pub. L. 104–146, §3(c)(5)(C), (D), added pars. (5) and
 #### Effective Date of 1996 Amendment
 
 Amendment by sections 3(c)(5), (g)(2) and 6(c)(3)(A) of Pub. L. 104–146 effective Oct. 1, 1996, and amendment by sections 5 and 6(c)(3)(B) of Pub. L. 104–146 effective May 20, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–22, 300ff–30, 300ff–38 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “ ‘non-EMA”.</i>
 

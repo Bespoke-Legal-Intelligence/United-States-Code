@@ -38,9 +38,5 @@ Section 333B of the Consolidated Farm and Rural Development Act (7 U.S.C. 1983b)
 
 Another section 6 of Pub. L. 91–229 was added by Pub. L. 101–624, title XVIII, §1854(b), Nov. 28, 1990, 104 Stat. 3837, and is classified to section 494 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 488, 489, 490, 491, 492, 494 of this title; title 7 section 1985.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

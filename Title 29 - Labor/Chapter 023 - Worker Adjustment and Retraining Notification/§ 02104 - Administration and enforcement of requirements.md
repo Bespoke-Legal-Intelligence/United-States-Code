@@ -40,9 +40,5 @@ The remedies provided for in this section shall be the exclusive remedies for an
 
 (Pub. L. 100–379, §5, Aug. 4, 1988, 102 Stat. 893.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 1315; title 3 section 415.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

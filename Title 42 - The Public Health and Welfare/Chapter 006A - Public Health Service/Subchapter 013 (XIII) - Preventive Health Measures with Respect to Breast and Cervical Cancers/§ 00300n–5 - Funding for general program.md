@@ -6,7 +6,7 @@ For the purpose of carrying out this subchapter, there are authorized to be appr
 
 #### (b) Set-aside for technical assistance and provision of supplies and services
 
-Of the amounts appropriated under subsection (a) of this section for a fiscal year, the Secretaryshall reserve not more than 20 percent for carrying out section 300n–3 of this title.
+Of the amounts appropriated under subsection (a) of this section for a fiscal year, the Secretary shall reserve not more than 20 percent for carrying out section 300n–3 of this title.
 
 (July 1, 1944, ch. 373, title XV, §1510, formerly §1509, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 415; renumbered §1510 and amended Pub. L. 103–183, title I, §§102(a)(1), (b), 103, Dec. 14, 1993, 107 Stat. 2229, 2230; Pub. L. 105–340, title II, §203(c)(2), Oct. 31, 1998, 112 Stat. 3194.)
 
@@ -25,8 +25,4 @@ Section 300n–6, act July 1, 1944, ch. 373, title XV, §1537, as added Aug. 13,
 1993—Pub. L. 103–183, §102(b), inserted “for general program” after “Funding” in section catchline.
 
 Subsec. (a). Pub. L. 103–183, §103, struck out “and” after “1991,” and inserted before period at end “, $150,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1998”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300n–4, 300n–4a of this title.
 

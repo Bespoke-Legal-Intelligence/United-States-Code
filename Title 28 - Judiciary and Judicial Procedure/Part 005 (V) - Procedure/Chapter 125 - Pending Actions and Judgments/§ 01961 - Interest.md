@@ -1,6 +1,6 @@
 ### §1961. Interest
 
-(a) Interest shall be allowed on any money judgment in a civil case recovered in a district court. Execution therefor may be levied by the marshal, in any case where, by the law of the State in which such court is held, execution may be levied for interest on judgments recovered in the courts of the State. Such interest shall be calculated from the date of the entry of the judgment, at a rate equal to the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding.<sup>1</sup> the date of the judgment. The Director of the Administrative Office of the United States Courts shall distribute notice of that rate and any changes in it to all Federal judges.
+(a) Interest shall be allowed on any money judgment in a civil case recovered in a district court. Execution therefor may be levied by the marshal, in any case where, by the law of the State in which such court is held, execution may be levied for interest on judgments recovered in the courts of the State. Such interest shall be calculated from the date of the entry ofthe judgment, at a rate equal to the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding.<sup>1</sup> the date of the judgment. The Director of the Administrative Office of the United States Courts shall distribute notice of that rate and any changes in it to all Federal judges.
 
 (b) Interest shall be computed daily to the date of payment except as provided in section 2516(b) of this title and section 1304(b) of title 31, and shall be compounded annually.
 
@@ -55,10 +55,6 @@ Amendment by section 1511(c)(17) of Pub. L. 99–514 applicable for purposes of 
 Section 2(m) of Pub. L. 97–258 provided that the amendment made by that section is effective Oct. 1, 1982.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2412, 2465 of this title; title 15 section 4303; title 21 section 844a; title 22 section 6082; title 26 section 6622.
 
 <i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

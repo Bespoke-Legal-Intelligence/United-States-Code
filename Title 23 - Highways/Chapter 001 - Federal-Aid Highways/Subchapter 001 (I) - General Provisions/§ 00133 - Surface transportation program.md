@@ -32,7 +32,7 @@ Eligible Projects.—A State may obligate funds apportioned to it under section 
 
 &emsp;(13) <sup>1</sup> Infrastructure-based intelligent transportation systems capital improvements.
 
-&emsp;(14) Environmental restoration and pollution abatement projects (including the retrofit or construction of storm water treatment systems) to address water pollution or environmental degradation caused or contributed to by transportation facilities, which projects shall be carried out when the transportation facilities are undergoing reconstruction, rehabilitation, resurfacing, or restoration; except that the expenditure of funds under this section for any such environmental restoration or pollution abatement project shall not exceed 20 percent of the total cost of the reconstruction, rehabilitation, resurfacing, or restoration project.
+&emsp;(14) Environmental restoration and pollution abatement projects (including the retrofit or construction of storm water treatment systems) to address water pollution or environmental degradation caused or contributed to by transportation facilities, which projects shall be carried out when the transportation facilities are undergoing reconstruction, rehabilitation, resurfacing, or restoration; exceptthat the expenditure of funds under this section for any such environmental restoration or pollution abatement project shall not exceed 20 percent of the total cost of the reconstruction, rehabilitation, resurfacing, or restoration project.
 
 (c)
 
@@ -84,7 +84,7 @@ Noncontiguous states exemption.—Subparagraph (A) shall not apply to Hawaii and
 
 &emsp;&emsp;(E)
 
-Distribution between urbanized areas of over 200,000 population.—The amount of funds which a State is required toobligate under subparagraph (A)(i) shall be obligated in urbanized areas described in subparagraph (A)(i) based on the relative population of such areas; except that the State may obligate such funds based on other factors if the State and the relevant metropolitan planning organizations jointly apply to the Secretary for the permission to do so and the Secretary grants the request.
+Distribution between urbanized areas of over 200,000 population.—The amount of funds which a State is required to obligate under subparagraph (A)(i) shall be obligated in urbanized areas described in subparagraph (A)(i) based on the relative population of such areas; except that the State may obligate such funds based on other factors if the State and the relevant metropolitan planning organizations jointly apply to the Secretary for the permission to do so and the Secretary grants the request.
 
 &emsp;(4)
 
@@ -112,7 +112,7 @@ Administration.—
 
 &emsp;(1)
 
-Noncompliance.—If the Secretary determines that a State or local government has failed to comply substantially with any provision of this section, the Secretary shall notify the State that, if the State fails to take corrective action within 60 days from the date of receipt of the notification, the Secretary will withhold future apportionments under section 104(b)(3) until the Secretary is satisfied that appropriate corrective action has been taken.
+Noncompliance.—If the Secretary determines that a State or local government has failed to comply substantially with any provision of this section, the Secretary shall notifythe State that, if the State fails to take corrective action within 60 days from the date of receipt of the notification, the Secretary will withhold future apportionments under section 104(b)(3) until the Secretary is satisfied that appropriate corrective action has been taken.
 
 &emsp;(2)
 
@@ -216,7 +216,7 @@ In general.—A State that is required to obligate in an urbanized area with an 
 
 Joint responsibility.—Each State, each affected metropolitan planning organization, and the Secretary shall jointly ensure compliance with paragraph (1).
 
-(Added Pub. L. 102–240, title I, §1007(a)(1), Dec. 18, 1991, 105 Stat. 1927; amended Pub. L. 103–429, §3(4), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §§315, 316, Nov. 28, 1995, 109 Stat. 586, 587; Pub. L. 105–178, title I, §§1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 138–140, 193.)
+(Added Pub. L. 102–240, title I, §1007(a)(1), Dec. 18, 1991, 105 Stat. 1927; amended Pub. L. 103–429,§3(4), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §§315, 316, Nov. 28, 1995, 109 Stat. 586, 587; Pub. L. 105–178, title I, §§1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 138–140, 193.)
 
 #### References in Text
 
@@ -299,10 +299,6 @@ Suspension.—The Secretary may suspend the application of paragraph (1) if the 
 #### Encouragement of Use of Youth Conservation or Service Corps
 
 Pub. L. 105–178, title I, §1108(g), June 9, 1998, 112 Stat. 141, provided that: “The Secretary shall encourage the States to enter into contracts and cooperative agreements with qualified youth conservation or service corps to perform appropriate transportation enhancement activities under chapter 1 of title 23, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 103, 104, 105, 106, 126, 149, 157, 160, 322 of this title.
 
 <i><sup>1</sup></i><i> So in original. No par. (12) has been enacted.</i>
 

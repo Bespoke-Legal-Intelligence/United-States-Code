@@ -44,7 +44,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 #### (4) Limitation
 
-&emsp;(A)(i) At any time during fiscal years 2004 through 2008, no United States contribution tothe Global Fund may cause the total amount of United States Government contributions to the Global Fund to exceed 33 percent of the total amount of funds contributed to the Global Fund from all sources. Contributions to the Global Fund from the International Bank for Reconstruction and Development and the International Monetary Fund shall not be considered in determining compliance with this paragraph.
+&emsp;(A)(i) At any time during fiscal years 2004 through 2008, no United States contribution to the Global Fund may cause the total amount of United States Government contributions to the Global Fund to exceed 33 percent of the total amount of funds contributed to the Global Fund from all sources. Contributions to the Global Fund from the International Bank for Reconstruction and Development and the International Monetary Fund shall not be considered in determining compliance with this paragraph.
 
 &emsp;(ii) If, at any time during any of the fiscal years 2004 through 2008, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of section 2405(j)(1) of title 50, Appendix, has repeatedly provided support for acts of international terrorism, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the amount expended by the Fund to the government of each such country.
 
@@ -54,11 +54,15 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 &emsp;(v) If, at any time during any of the fiscal years 2004 through 2008, the President determines that the salary of any individual employed by the Global Fund exceeds the salary of the Vice President of the United States (as determined under section 104 of title 3) for that fiscal year, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the aggregate amount by which the salary of each such individual exceeds the salary of the Vice President of the United States.
 
+&emsp;(vi) for <sup>1</sup> the purposes of clause (i), “funds contributed to the Global Fund from all sources” means funds contributed to the Global Fund at any time during fiscal years 2004 through 2008 that are not contributed to fulfill a commitment made for a fiscal year prior to fiscal year 2004.
+
 &emsp;(B)(i) Any amount made available under this subsection that is withheld by reason of subparagraph (A)(i) shall be contributed to the Global Fund as soon as practicable, subject to subparagraph (A)(i), after additional contributions to the Global Fund are made from other sources.
 
 &emsp;(ii) Any amount made available under this subsection that is withheld by reason of subparagraph (A)(iii) shall be transferred to the Activities to Combat HIV/AIDS Globally Fund and shall remain available under the same terms and conditions as funds appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance.
 
 &emsp;(iii) Any amount made available under this subsection that is withheld by reason of clause (ii) or (iii) of subparagraph (A) is authorized to be made available to carry out section 2151b–2 of this title. Amounts made available under the preceding sentence are in addition to amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance.
+
+&emsp;(iv) Notwithstanding clause (i), after July 31 of each of the fiscal years 2004 through 2008, any amount made available under this subsection that is withheld by reason of subparagraph (A)(i) is authorized to be made available to carry out sections 2151b–2, 2151b–3, and 2151b–4 of this title.
 
 &emsp;(C)(i) The President may suspend the application of subparagraph (A) with respect to a fiscal year if the President determines that an international health emergency threatens the national security interests of the United States.
 
@@ -108,7 +112,7 @@ The Coordinator of United States Government Activities to Combat HIV/AIDS Global
 
 &emsp;(2) Reports provided to the Global Fund and the Activities to Combat HIV/AIDS Globally Fund by organizations contracted to audit recipients of funds.
 
-&emsp;(3) Project proposals submitted by applicants for funding from the Global Fund and the Activities to Combat HIV/AIDS Globally Fund, but which were not funded.
+&emsp;(3) Project proposals submitted by applicants for funding from the Global Fund andthe Activities to Combat HIV/AIDS Globally Fund, but which were not funded.
 
 &emsp;(4) Progress reports submitted to the Global Fund and the Activities to Combat HIV/AIDS Globally Fund by grantees.
 
@@ -132,7 +136,7 @@ It is the sense of the Congress that the President should—
 
 &emsp;&emsp;(B) making public service announcements on radio and television.
 
-(Pub. L. 108–25, title II, §202, May 27, 2003, 117 Stat. 724.)
+(Pub. L. 108–25, title II, §202, May 27, 2003, 117 Stat. 724; Pub. L. 108–199, div. D, title V, §595(1), (2), Jan. 23, 2004, 118 Stat. 209.)
 
 #### References in Text
 
@@ -140,7 +144,13 @@ The Global AIDS and Tuberculosis Relief Act of 2000, referred to in subsec. (a)(
 
 This chapter, referred to in subsec. (e)(2)(B), was in the original a reference to this Act, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
+#### Amendments
+
+2004—Subsec. (d)(4)(A)(vi). Pub. L. 108–199, §595(1), added cl. (vi).
+
+Subsec. (d)(4)(B)(iv). Pub. L. 108–199, §595(2), added cl. (iv).
+
 #### Delegation of Functions
 
-Functions of President under subsec. (c) of this section delegated to Secretary of State by Memorandum of President of Feb. 23, 2004, 69 F.R. 9509, set out as a note under section 7611 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title, and Memorandum of President of Feb. 23, 2004, 69 F.R. 9509, set out as a note under section 7611 of this title.
 

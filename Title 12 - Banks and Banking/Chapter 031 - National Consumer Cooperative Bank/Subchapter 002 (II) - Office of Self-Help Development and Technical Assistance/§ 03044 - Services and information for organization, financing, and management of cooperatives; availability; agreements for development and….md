@@ -4,7 +4,3 @@ The Office shall make available information and services concerning the organiza
 
 (Pub. L. 95–351, title II, §204, Aug. 20, 1978, 92 Stat. 512.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3051 of this title.
-

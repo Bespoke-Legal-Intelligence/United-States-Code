@@ -60,7 +60,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In lieu of carrying out action under paragraph (1), the President may conclude a binding agreement with the respective foreign government as described in section 6445(c) of this title. The existence of a binding agreement under this paragraph with a foreign government may be considered by the President prior to making any determination or taking any action under this subchapter.
+&emsp;&emsp;In lieu of carrying out action under paragraph (1), the President may conclude abinding agreement with the respective foreign government as described in section 6445(c) of this title. The existence of a binding agreement under this paragraph with a foreign government may be considered by the President prior to making any determination or taking any action under this subchapter.
 
 #### (B) Statutory construction
 
@@ -92,7 +92,7 @@
 
 #### (5) Exception for ongoing, multiple, broad-based sanctions in response to human rights violations
 
-&emsp;At the time the President determines a country to be a country of particular concern, if that country is already subject to multiple, broad-based sanctions imposed in significant part in response to human rights abuses, and such sanctions are ongoing, the President may determine that one or more of these sanctions also satisfies the requirements of this subsection. In a report to Congress pursuant to section 6444(a)(1), (2), (3), and (4) of this title,and, as applicable, to section 6448 of this title, the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection. The sanctions so designated shall remain in effect subject to section 6449 of this title.
+&emsp;At the time the President determines a country to be a country of particular concern, if that country is already subject to multiple, broad-based sanctions imposed in significant part in response to human rights abuses, and such sanctions are ongoing, the President may determine that one or more of these sanctions also satisfies the requirements of this subsection. In a report to Congress pursuant to section 6444(a)(1), (2), (3), and (4) of this title, and, as applicable, to section 6448 of this title, the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection. The sanctions so designated shall remain in effect subject to section 6449 of this title.
 
 #### (d) Statutory construction
 
@@ -113,8 +113,4 @@ This chapter, referred to in subsecs. (c)(4) and (d), was in the original “thi
 Subsec. (c)(4). Pub. L. 106–55, §2(a)(2)(A), inserted “under this chapter” after “Exception for ongoing Presidential action” in heading.
 
 Subsec. (c)(4)(B) to (D), (5). Pub. L. 106–55, §2(a)(2)(B)–(D), inserted “and” at end of subpar. (B), substituted period for “; and” at end of subpar. (C), redesignated subpar. (D) as par. (5), inserted par. heading, and substituted “At the time” for “at the time”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6412, 6441, 6443, 6444, 6445, 6448 of this title.
 

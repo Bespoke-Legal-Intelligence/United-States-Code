@@ -104,7 +104,3 @@ For purposes of this part, the term “State Pharmaceutical Assistance Program�
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–23, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2128.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395w–111, 1395w–113, 1395w–134, 1395w–151 of this title.
-

@@ -12,7 +12,7 @@ Whenever any war contractor is aggrieved by the findings of a contracting agency
 
 Any proceeding under subsection (b) of this section shall be governed by the following conditions:
 
-&emsp;(1) When any contracting agency provides a procedure within the agency for protest against such findings or for other appeal therefrom by the war contractor, the war contractor, before proceeding under subsection (b) of this section, (i) in his discretion may resort to such procedure within the time specified inhis contract or, if no time is specified, within thirty days after the delivery to him of the findings; and (ii) shall resort to such procedure for protest or other appeal to the extent required by the Administrator of General Services, but failure of the contracting agency to act on any such required protest or appeal within thirty days shall operate as a refusal by the agency to modify its findings. Any revision of the findings by the contracting agency, upon protest or appeal within the agency, shall be treated as the findings of the agency for the purpose of appeal or suit under subsection (b) of this section. Notwithstanding any contrary provision in any war contract, no war contractor shall be required to protest or appeal from such findings within the contracting agency except in accordance with this paragraph.
+&emsp;(1) When any contracting agency provides a procedure within the agency for protest against such findings or for other appeal therefrom by the war contractor, the war contractor, before proceeding under subsection (b) of this section, (i) in his discretion may resort to such procedure within the time specified in his contract or, if no time is specified, within thirty days after the delivery to him of the findings; and (ii) shall resort to such procedure for protest or other appeal to the extent required by the Administrator of General Services, but failure of the contracting agency to act on any such required protest or appeal within thirty days shall operate as a refusal by the agency to modify its findings. Any revision of the findings by the contracting agency, upon protest or appeal within the agency, shall be treated as the findings of the agency for the purpose of appeal or suit under subsection (b) of this section. Notwithstanding any contrary provision in any war contract, no war contractor shall be required to protest or appeal from such findings within the contracting agency except in accordance with this paragraph.
 
 &emsp;(2) A war contractor may initiate proceedings in accordance with subsection (b) of this section (i) within ninety days after delivery to him of the findings by the contracting agency, or (ii) in case of protests or appeal within the agency, within ninety days after the determination of such protest or appeal, or (iii) in case of failure to deliver such findings, within one year after his demand therefor. If he does not initiate such proceedings within the time specified, he shall be precluded thereafter from initiating any proceedings in accordance with subsection (b) of this section, and the findings of the contracting agency shall be final and conclusive, or if no findings were made, he shall be deemed to have waived such termination claim.
 
@@ -80,7 +80,7 @@ Act July 14, 1952, ch. 739, 66 Stat. 627, provided: “That the Appeal Board est
 
 “Sec. 2. (a) Upon the effective date of the abolition of the Appeal Board all appeals and disputes pending therein shall be terminated without prejudice and the right of the parties to pursue such other remedies as are provided by law shall not be affected thereby.
 
-“(b) In any such terminated appeal, timely initiated in the Appeal Board, where the period for pursuit of any other remedy pursuant to section 13(b)(2) of the Contract Settlement Act of 1944 \[41 U.S.C. 113(b)(2)\] shall have expired or would expire within sixty days after the effective date of the abolition of the Appeal Board, the period within which proceedings may be initiated in accordance with the said section shall be extended to sixty days after said effective date.
+“(b) In any such terminated appeal, timely initiated in the Appeal Board, where the period for pursuit of any other remedy pursuant to section 13(b)(2) of the Contract Settlement Act of 1944 \[41 U.S.C. 113(b)(2)\]shall have expired or would expire within sixty days after the effective date of the abolition of the Appeal Board, the period within which proceedings may be initiated in accordance with the said section shall be extended to sixty days after said effective date.
 
 “(c) Effective thirty days after the enactment of this Act \[July 14, 1952\] no further appeals or submitted disputes shall be accepted for determination by said Appeal Board.
 
@@ -89,8 +89,4 @@ Act July 14, 1952, ch. 739, 66 Stat. 627, provided: “That the Appeal Board est
 #### Application to Terminated War Contracts
 
 For application of this section to war contracts terminated at or before July 21, 1944, see section 124 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 117, 124 of this title.
 

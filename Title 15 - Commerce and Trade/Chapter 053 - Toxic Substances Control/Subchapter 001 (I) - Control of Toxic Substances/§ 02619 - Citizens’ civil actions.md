@@ -18,7 +18,7 @@ No civil action may be commenced—
 
 &emsp;&emsp;(A) before the expiration of 60 days after the plaintiff has given notice of such violation (i) to the Administrator, and (ii) to the person who is alleged to have committed such violation, or
 
-&emsp;&emsp;(B) if the Administrator has commenced and is diligently prosecuting a proceeding for the issuance of an order under section 2615(a)(2) of this title to require compliance with this chapter or with such rule or order or if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States to requirecompliance with this chapter or with such rule or order, but if such proceeding or civil action is commenced after the giving of notice, any person giving such notice may intervene as a matter of right in such proceeding or action; or
+&emsp;&emsp;(B) if the Administrator has commenced and is diligently prosecuting a proceeding for the issuance of an order under section 2615(a)(2) of this title to require compliance with this chapter or with such rule or order or if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States to require compliance with this chapter or with such rule or order, but if such proceeding or civil action is commenced after the giving of notice, any person giving such notice may intervene as a matter of right in such proceeding or action; or
 
 &emsp;(2) under subsection (a)(2) of this section before the expiration of 60 days after the plaintiff has given notice to the Administrator of the alleged failure of the Administrator to perform an act or duty which is the basis for such action or, in the case of an action under such subsection for the failure of the Administrator to file an action under section 2606 of this title, before the expiration of ten days after such notification.
 
@@ -51,8 +51,4 @@ When two or more civil actions brought under subsection (a) of this section invo
 1992—Subsec. (a)(1). Pub. L. 102–550 substituted “subchapter II or IV of this chapter” for “subchapter II of this chapter” in two places.
 
 1986—Subsec. (a)(1). Pub. L. 99–519 inserted references to subchapter II of this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2647 of this title; title 42 section 4852d.
 

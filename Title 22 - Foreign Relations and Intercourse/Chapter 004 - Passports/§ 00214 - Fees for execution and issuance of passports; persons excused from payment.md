@@ -26,7 +26,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §233(c)\], Nov. 29,
 
 #### Effective and Termination Date of 1971 Amendment
 
-Section 2 of Pub. L. 92–14, as amended by Pub. L. 93–126, §8, Oct. 18, 1973, 87 Stat. 453, provided that: “Theamendment made by this Act \[amending this section\] shall become effective on the date of enactment \[May 14, 1971\] and shall continue in effect until June 30, 1974.”
+Section 2 of Pub. L. 92–14, as amended by Pub. L. 93–126, §8, Oct. 18, 1973, 87 Stat. 453, provided that: “The amendment made by this Act \[amending this section\] shall become effective on the date of enactment \[May14, 1971\] and shall continue in effect until June 30, 1974.”
 
 #### Effective Date of 1968 Amendment
 
@@ -39,8 +39,4 @@ Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1760, provided in part “T
 #### Information From United States Passports
 
 Pub. L. 101–604, title II, §203(d), Nov. 16, 1990, 104 Stat. 3083, provided that: “Notwithstanding any other provision of law, to the extent provided in appropriation Acts, for each fiscal year not more than $5,000,000 in passport fees collected by the Department of State may be credited to a Department of State account. Amounts credited to such account shall be available only for the costs associated with the acquisition and production of machine-readable United States passports and visas and compatible reading equipment. Amounts credited to such account are authorized to remain available until expended.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 214a, 2504 of this title.
 

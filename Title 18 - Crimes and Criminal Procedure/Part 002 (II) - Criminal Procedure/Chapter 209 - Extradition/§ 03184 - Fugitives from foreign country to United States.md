@@ -16,7 +16,7 @@ Minor changes of phraseology were made.
 
 1990—Pub. L. 101–647 inserted “or, if there is reason to believe the person will shortly enter the United States” after “are not known” in second sentence.
 
-1988—Pub. L. 100–690 inserted after first sentence “Such complaint may be filed before and such warrant may be issued by a judge or magistrate of the United States District Court for the District of Columbia if the whereabouts within the United States of the person charged are not known.”
+1988—Pub. L. 100–690 inserted after first sentence “Such complaint may be filed before and such warrantmay be issued by a judge or magistrate of the United States District Court for the District of Columbia if the whereabouts within the United States of the person charged are not known.”
 
 1968—Pub. L. 90–578 substituted “magistrate” for “commissioner” in two places.
 
@@ -27,8 +27,4 @@ Words “magistrate judge” substituted for “magistrate” wherever appearing
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3186 of this title.
 

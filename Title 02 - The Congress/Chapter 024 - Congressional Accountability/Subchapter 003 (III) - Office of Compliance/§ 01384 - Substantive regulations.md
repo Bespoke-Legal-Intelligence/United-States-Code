@@ -26,7 +26,7 @@ The Board shall adopt the regulations referred to in subsection (a)(1) of this s
 
 #### (1) Proposal
 
-&emsp;The Board shall publish a general notice of proposed rulemaking under section 553(b) oftitle 5, but, instead of publication of a general notice of proposed rulemaking in the Federal Register, the Board shall transmit such notice to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal. Such notice shall set forth the recommendations of the Deputy Director for the Senate in regard to regulations under subsection (a)(2)(B)(i) of this section, the recommendations of the Deputy Director for the House of Representatives in regard to regulations under subsection (a)(2)(B)(ii) of this section, and the recommendations of the Executive Director for regulations under subsection (a)(2)(B)(iii) of this section.
+&emsp;The Board shall publish a general notice of proposed rulemaking under section 553(b) of title 5, but, instead of publication of a general notice of proposed rulemaking in the Federal Register, the Board shall transmit such notice to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal. Such notice shall set forth the recommendations of the Deputy Director for the Senate in regard to regulations under subsection (a)(2)(B)(i) of this section, the recommendations of the Deputy Director for the House of Representatives in regard to regulations under subsection (a)(2)(B)(ii) of this section, and the recommendations of the Executive Director for regulations under subsection (a)(2)(B)(iii) of this section.
 
 #### (2) Comment
 
@@ -105,8 +105,4 @@ The Executive Director, the Deputy Directors, and the Board—
 #### References in Text
 
 Subchapter II of this chapter, referred to in subsec. (a)(1), was in the original “title II”, meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, as amended, which enacted subchapter II of this chapter and amended section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare. For complete classification of title II to the Code, see Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1312, 1313, 1314, 1315, 1316, 1316a, 1331, 1341, 1351, 1382, 1409, 1431 of this title.
 

@@ -16,7 +16,3 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 Section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or subchapter VI (§541 et seq.) of chapter 10 of former title 40 \[now 40 U.S.C. 1101–1104\], see section 1054(b) of Pub. L. 103–355, set out as a note under section 253h of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 253h, 253i of this title; title 10 section 2382.
-

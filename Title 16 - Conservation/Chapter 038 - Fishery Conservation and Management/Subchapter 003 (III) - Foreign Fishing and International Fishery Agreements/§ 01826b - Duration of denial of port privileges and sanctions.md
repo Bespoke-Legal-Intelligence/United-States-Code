@@ -8,7 +8,3 @@ Any denial of port privileges or sanction under section 1826a of this title with
 
 Section was enacted as part of the High Seas Driftnet Fisheries Enforcement Act, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1826c of this title.
-

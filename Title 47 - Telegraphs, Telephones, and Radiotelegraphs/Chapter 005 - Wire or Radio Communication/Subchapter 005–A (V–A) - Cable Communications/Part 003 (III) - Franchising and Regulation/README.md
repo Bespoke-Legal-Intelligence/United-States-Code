@@ -1,9 +1,5 @@
 Part III—Franchising and Regulation
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 571, 573 of this title.
-
 
 ---
 

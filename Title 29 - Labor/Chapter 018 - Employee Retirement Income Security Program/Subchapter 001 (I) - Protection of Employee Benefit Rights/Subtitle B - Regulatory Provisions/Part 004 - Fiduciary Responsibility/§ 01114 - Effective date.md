@@ -48,7 +48,3 @@ Subsec. (e). Pub. L. 101–239, §7894(h)(4), added subsec. (e).
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1107 of this title.
-

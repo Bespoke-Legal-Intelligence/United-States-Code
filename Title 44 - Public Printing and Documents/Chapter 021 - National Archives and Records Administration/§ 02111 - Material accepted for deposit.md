@@ -34,7 +34,7 @@ Amendment by Pub. L. 95–591 effective with respect to Presidential records cre
 
 #### Presidential Recordings and Materials Preservation Act
 
-Pub. L. 93–526, title I, §§101–106, Dec. 19, 1974, 88 Stat. 1695–1698, as amended by Pub. L. 98–497, title I, §107(c), Oct. 19, 1984, 98 Stat. 2291, provided: “That this Act \[enacting this note, sections 3315 to 3324 of this title, and provisions set out as a note under section 3315 of this title\] may be cited as the ‘Presidential Recordings and Materials Preservation Act’.
+Pub. L. 93–526, title I, §§101–106, Dec. 19, 1974, 88 Stat. 1695–1698, as amended by Pub. L. 98–497, title I, §107(c), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 108–199, div. F, title V, §543(a), Jan. 23, 2004, 118 Stat. 346, provided: “That this Act \[enacting this note, sections 3315 to 3324 of this title, and provisions set out as a note under section 3315 of this title\] may be cited as the ‘Presidential Recordings and Materials Preservation Act’.
 
 #### “Title I—Preservation of Presidential Recordings and Materials
 
@@ -70,7 +70,7 @@ Sec. 102. (a) None of the tape recordings or other materials referred to in sect
 
 “
 
-Sec. 103. The Archivist shall issue at the earliest possible date such regulations as may be necessary to assure the protection of the tape recordings and other materials referred to in section 101 from loss or destruction, and to prevent access to such recordings and materials by unauthorized persons. Custody of such recordings and materials shall be maintained in Washington, District of Columbia, or its metropolitan area, except as may otherwise be necessary to carry out the provisions of this title.
+Sec. 103. The Archivist shall issue at the earliest possible date such regulations as may be necessary to assure the protection of the tape recordings and other materials referred to in section 101 from loss or destruction, and to prevent access to such recordings and materials by unauthorized persons. The Archivist may transfer such recordings and materials to a Presidential archival depository in accordance with section 2112 of title 44, United States Code.
 
 #### “regulations relating to public access
 
@@ -114,11 +114,9 @@ Sec. 105. (a) The United States District Court for the District of Columbia shal
 
 Sec. 106. There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this title.”
 
+\[Pub. L. 108–199, div. F, title V, §543(b), Jan. 23, 2004, 118 Stat. 346, provided that: “Nothing in section 103 of the Presidential Recordings and Materials Preservation Act (Public Law 93–526; 44 U.S.C. 2111 note), as amended by subsection (a), may be construed as affecting public access to the recordings and materials referred to in that section as provided in regulations promulgated pursuant to section 104 of such Act.\]”
+
 #### Classified National Security Information
 
 For provisions authorizing Archivist to review, downgrade, and declassify information of former Presidents under control of Archivist pursuant to this section or provisions set out as a note under this section, see Ex. Ord. No. 12958, §3.6(b)(4), Apr. 17, 1995, 60 F.R. 19835, set out as a note under section 435 of Title 50, War and National Defense.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2107, 2112, 3102, 3317 of this title.
 

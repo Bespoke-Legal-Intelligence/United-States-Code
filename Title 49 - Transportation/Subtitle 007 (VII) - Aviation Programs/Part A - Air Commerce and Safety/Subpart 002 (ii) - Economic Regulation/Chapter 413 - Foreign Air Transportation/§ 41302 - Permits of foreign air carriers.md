@@ -34,7 +34,3 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 In this section, before clause (1), the words “person (except a citizen of the United States)” and “person” are substituted for “applicant” for clarity and consistency because only a person other than a United States citizen may be a “foreign air carrier” as defined in section 40102(a) of the revised title. In clauses (1) and (2), the word “provide” is substituted for “perform” for consistency in the revised title. In clause (1), the word “properly” is omitted as surplus. The word “comply” is substituted for “conform” for consistency in the revised title. The word “rules” is omitted as being synonymous with “regulations”. The word “requirements” is omitted as surplus. In clause (2)(A), the words “government of its country” are substituted for “its government” for consistency in the revised title and with other titles of the United States Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41303, 41304, 41305, 41306, 41307, 41310, 41313, 41703, 41709, 44901, 46316 of this title.
-

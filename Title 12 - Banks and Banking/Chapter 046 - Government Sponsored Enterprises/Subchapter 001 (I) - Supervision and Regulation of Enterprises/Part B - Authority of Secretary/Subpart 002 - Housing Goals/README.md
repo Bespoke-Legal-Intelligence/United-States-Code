@@ -1,9 +1,5 @@
 subpart 2—housing goals
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 1456, 1723a, 4544, 4631, 4636 of this title.
-
 
 ---
 

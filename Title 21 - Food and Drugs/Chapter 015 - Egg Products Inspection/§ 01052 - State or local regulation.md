@@ -20,7 +20,7 @@ The detainer authority conferred on representatives of the Secretary of Agricult
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b) and (c), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b) and (c), is act June 25, 1938, ch. 675, 52Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 The Fair Packaging and Labeling Act, referred to in subsecs. (b) and (c), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, as amended, which is classified generally to chapter 39 (§1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
 
@@ -34,5 +34,5 @@ The Fair Packaging and Labeling Act, referred to in subsecs. (b) and (c), is Pub
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective 12 months after promulgation of final implementing regulations,see section 1012(h) of Pub. L. 102–237, set out as a note under section 1034 of this title.
+Amendment by Pub. L. 102–237 effective 12 months after promulgation of final implementing regulations, see section 1012(h) of Pub. L. 102–237, set out as a note under section 1034 of this title.
 

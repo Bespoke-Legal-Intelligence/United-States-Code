@@ -42,7 +42,7 @@ Transfer of Excess Real Property.—(1) Except as provided in subsection (d), be
 
 “(b)
 
-Conditions of Transfer.—(1) Any transfer of excess real property to the Government of Guam may be only for a public purpose and shall be without further consideration.
+Conditions of Transfer.—(1) Any transfer of excess real property to the Government of Guam may beonly for a public purpose and shall be without further consideration.
 
 “(2) All transfers of excess real property to the Government of Guam shall be subject to such restrictive covenants as the Administrator, in consultation with the Secretary of Defense, in the case of property reported excess by a military department, determines to be necessary to ensure that: (A) the use of the property is compatible with continued military activities on Guam; (B) the use of the property is consistent with the environmental condition of the property; (C) access is available to the United States to conduct any additional environmental remediation or monitoring that may be required; (D) the property is used only for a public purpose and can not be converted to any other use; and (E) to the extent that facilities on the property have been occupied and used by another Federal agency for a minimum of 2 years, that the transfer to the Government of Guam is subject to the terms and conditions for such use and occupancy.
 
@@ -78,7 +78,7 @@ Exemptions.—Notwithstanding that such property may be excess real property, th
 
 &emsp;&emsp;“(B) If the parties reach an agreement under subparagraph (A) within 180 days after notification of the declaration of excess, the real property shall be transferred and managed in accordance with such agreement: <i>Provided</i>, That such agreement shall be transmitted to the Committee on Energy and Natural Resources of the United States Senate and the appropriate committees of the United States House of Representatives not less than 60 days prior to such transfer and any such transfer shall be subject to the other provisions of this section.
 
-&emsp;&emsp;“(C) If the parties do not reach an agreement under subparagraph (A) within 180 days after notification of the declaration of excess, the Administrator shall provide a report to Congress on the status of the discussions, together with his recommendations on the likelihood of resolution of differences and the comments of the Fish and Wildlife Service and the Government of Guam. If the subjectproperty is under the jurisdiction of a military department, the military department may transfer administrative control over the property to the General Services Administration subject to any terms and conditions applicable to such property. In the event of such a transfer by a military department to the General Services Administration, the Department of the Interior shall be responsible for all reasonable costs associated with the custody, accountability and control of such property until final disposition.
+&emsp;&emsp;“(C) If the parties do not reach an agreement under subparagraph (A) within 180 days after notification of the declaration of excess, the Administrator shall provide a report to Congress on the status of the discussions, together with his recommendations on the likelihood of resolution of differences and the comments of the Fish and Wildlife Service and the Government of Guam. If the subject property is under the jurisdiction of a military department, the military department may transfer administrative control over the property to the General Services Administration subject to any terms and conditions applicable to such property. In the event of such a transfer by a military department to the General Services Administration, the Department of the Interior shall be responsible for all reasonable costs associated with the custody, accountability and control of such property until final disposition.
 
 &emsp;&emsp;“(D) If the parties come to agreement prior to congressional action, the real property shall be transferred and managed in accordance with such agreement: <i>Provided</i>, That such agreement shall be transmitted to the Committee on Energy and Natural Resources of the United States Senate and the appropriate committees of the United States House of Representatives not less than 60 days prior to such transfer and any such transfer shall be subject to the other provisions of this section.
 
@@ -97,8 +97,4 @@ Dual Classification Property.—If a parcel of real property on Guam that is dec
 “(f)
 
 Authority To Issue Regulations.—The Administrator of General Services, after consultation with the Secretary of Defense and the Secretary of the Interior, may issue such regulations as he deems necessary to carry out this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 556 of this title.
 

@@ -60,10 +60,6 @@ Subsec. (c). Pub. L. 100–690, §6452(b)(1), struck out “or convictions” af
 
 Subsec. (e). Pub. L. 100–690, §6470(d), struck out “required by section 841(b) of this title” after “mandatory term of imprisonment”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 841 of this title; title 18 sections 3592, 3663.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

@@ -80,7 +80,3 @@ The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. 
 
 The Inspector General Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 901, 3512 of this title; title 12 sections 1441a, 1821, 4703; title 38 section 309.
-

@@ -62,10 +62,6 @@
 
 1957—Pub. L. 85–207, §7, Aug. 28, 1957, 71 Stat. 482, in amending analysis generally, substituted “MANUFACTURES” for “MANUFACTURERS” in item for subchapter I; substituted in item 141 “Population, unemployment, and housing” for “Population, agriculture, irrigation, drainage, and unemployment; territory included”, and in item 142 “Agriculture, irrigation, and drainage.” for “Housing, scope of inquiries; territory included; supplementary statistics.”, struck out items 143 to 146, 162 and 163; and added Subchapter V.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 25, 307 of this title.
-
 
 ---
 

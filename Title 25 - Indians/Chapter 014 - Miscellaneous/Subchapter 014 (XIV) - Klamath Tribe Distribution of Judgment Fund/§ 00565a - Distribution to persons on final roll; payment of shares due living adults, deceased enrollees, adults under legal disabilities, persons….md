@@ -8,7 +8,3 @@
 
 August 13, 1954, referred to in text, is a reference to section 3 of act Aug. 13, 1954, ch. 732, 68 Stat. 718, which is classified to section 564b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 565c, 565d, 565e of this title.
-

@@ -4,7 +4,3 @@ The standard grades for apples when packed in barrels which shall be shipped or 
 
 (Aug. 3, 1912, ch. 273, §2, 37 Stat. 250.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 21, 22, 23 of this title.
-

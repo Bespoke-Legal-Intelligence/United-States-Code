@@ -8,7 +8,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (1) Duration of program
 
-&emsp;The provisions of this section shall be effective, subject to the provisions of paragraph (2), only during the 3-year period beginning upon the commencement of the first fiscal year forwhich amounts are provided pursuant to paragraph (2)(A).
+&emsp;The provisions of this section shall be effective, subject to the provisions of paragraph (2), only during the 3-year period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A).
 
 #### (2) Annual fiscal limitations
 
@@ -38,7 +38,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (ii) Realizable disposition value
 
-&emsp;&emsp;&emsp;The term “realizable disposition value” means the estimated sale price that the Corporation reasonably would be able to obtain upon the sale of a property by the Corporation under the provisions of this chapter, not including this section, and any other applicable laws. Not later than the expiration of the 120-day period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A), the Corporation shall establish, and publish in the Federal Register, procedures for determining the realizable disposition value of a property transferred under this section, which shall take into consideration such factors as the Corporation considers appropriate, including the actual sale prices of properties disposed of by the Resolution Trust Corporation under section 1441a(c) of this title, the prices of other properties sold under similar programs, and the appraised value of the property transferred under this section. Until such procedures are established, the Corporation may consider the realizable disposition value of any eligible residential or condominium property to be equal to the appraised value of the property.
+&emsp;&emsp;&emsp;The term “realizable disposition value” means the estimated sale price that the Corporation reasonably would be able to obtain upon the sale of a property by the Corporation under the provisions of this chapter, not including this section, and any other applicable laws. Not later than the expiration of the 120-day period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A), the Corporation shall establish, and publish in the Federal Register, procedures for determining the realizable disposition value of a property transferred under this section, which shall take into consideration such factors as the Corporation considers appropriate, including the actual sale prices of properties disposed of by the Resolution Trust Corporation under section 1441a(c) of this title, the prices of other properties sold under similar programs, and the appraised value of the property transferredunder this section. Until such procedures are established, the Corporation may consider the realizable disposition value of any eligible residential or condominium property to be equal to the appraised value of the property.
 
 #### (3) Existing contracts
 
@@ -156,7 +156,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (1) In general
 
-&emsp;With respect to properties under paragraph (2), rents charged to tenants for units made available for occupancy by very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 50 percent of the median income for the area, as determined by the Secretary, with adjustment for family size. Rents charged to tenants for units made available for occupancy by low-income families other than very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 65 percent of the median income for the area,as determined by the Secretary, with adjustment for family size.
+&emsp;With respect to properties under paragraph (2), rents charged to tenants for units made available for occupancy by very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 50 percent of the median income for the area, as determined by the Secretary, with adjustment for family size. Rents charged to tenants for units made available for occupancy by low-income families other than very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 65 percent of the median income for the area, as determined by the Secretary, with adjustment for family size.
 
 #### (2) Applicability
 
@@ -186,7 +186,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (B) Purchase loan
 
-&emsp;&emsp;The Corporation may provide a loan at market interest rates to any purchaser of eligible residential property for all or a portion of the purchase price, which loan shall be secured by a first or second mortgage on the property. The Corporation may provide the loan at below market interest rates to the extent necessary to facilitate an expedited sale of eligible residential property and permit (i) a low-income family to purchase an eligible single family property under subsection (c) of this section, or (ii) a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to the purchase of an eligible residential property under subsection (c) or (d) of this section. The Corporation shall provide loans under this subparagraph in a form permitting sale or transfer of the loan to a subsequent holder. In providing financing for combinations of eligible multifamily housing properties under this section, the Corporation may hold a participating share, including a subordinate participation. The Corporation shall periodically provide, to a wide range of minority- and women-owned businesses engaged in providing affordable housing and to nonprofit organizations, more than 50 percent of the control of which is held by 1 or more minority individuals, that are engaged in providing affordable housing, information that is sufficient to inform such businesses and organizations of the availability and terms of financing under this subparagraph; such information may be provided directly, by notices published in periodicals and other publications that regularly provide information to such businesses or organizations, and through persons and organizations that regularly provide information or services to such businesses or organizations. For purposes of this subparagraph, the terms “women-owned business” and “minority-owned business” have the meanings given such terms in section 1441a(r) of this title, and the term “minority” has the meaning given such term in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
+&emsp;&emsp;The Corporation may provide a loan at market interest rates to any purchaser of eligible residential property for all or a portion of the purchase price, which loan shall be secured by a first or second mortgage on the property. The Corporation may provide the loan at below market interest rates to the extent necessary to facilitate an expedited sale of eligible residential property andpermit (i) a low-income family to purchase an eligible single family property under subsection (c) of this section, or (ii) a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to the purchase of an eligible residential property under subsection (c) or (d) of this section. The Corporation shall provide loans under this subparagraph in a form permitting sale or transfer of the loan to a subsequent holder. In providing financing for combinations of eligible multifamily housing properties under this section, the Corporation may hold a participating share, including a subordinate participation. The Corporation shall periodically provide, to a wide range of minority- and women-owned businesses engaged in providing affordable housing and to nonprofit organizations, more than 50 percent of the control of which is held by 1 or more minority individuals, that are engaged in providing affordable housing, information that is sufficient to inform such businesses and organizations of the availability and terms of financing under this subparagraph; such information may be provided directly, by notices published in periodicals and other publications that regularly provide information to such businesses or organizations, and through persons and organizations that regularly provide information or services to such businesses or organizations. For purposes of this subparagraph, the terms “women-owned business” and “minority-owned business” have the meanings given such terms in section 1441a(r) of this title, and the term “minority” has the meaning given such term in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
 
 #### (2) Assistance by HUD
 
@@ -232,7 +232,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (3) National Affordable Housing Act
 
-&emsp;The Corporation shall coordinate the disposition of eligible residential property under this section with appropriate programs and provisions of, and amendments made by, the Cranston-Gonzalez National Affordable Housing Act, including titles II \[42 U.S.C. 12721 et seq.\] and IV of such Act.
+&emsp;The Corporation shall coordinate the disposition of eligible residential property under this section with appropriate programs and provisions of, and amendments made by, theCranston-Gonzalez National Affordable Housing Act, including titles II \[42 U.S.C. 12721 et seq.\] and IV of such Act.
 
 #### (i) Exemption for certain transactions with insured depository institutions
 
@@ -326,7 +326,7 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 #### (B) Multiple-unit purchases
 
-&emsp;&emsp;If any nonprofit organization, public agency, or for-profit entity purchases more than 1 eligible condominium property as a part of the same negotiation or purchase, the Corporation may (in the discretion of the Corporation) waive the requirement under subparagraph (A) and provide instead that not less than 35 percent of all eligible condominium properties purchased shall be (i) made available for occupancy by and maintained as affordable for low-income families for the remaining useful life of the property, or (ii) made available for purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause\(i) of the preceding sentence shall be contained in the deed or other recorded instrument.
+&emsp;&emsp;If any nonprofit organization, public agency, or for-profit entity purchases more than 1 eligible condominium property as a part of the same negotiation or purchase, the Corporation may (in the discretion of the Corporation) waive the requirement under subparagraph (A) and provide instead that not less than 35 percent of all eligible condominium properties purchased shall be (i) made available for occupancy by and maintained as affordable for low-income families for the remaining useful life of the property, or (ii) made available for purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause (i) of the preceding sentence shall be contained in the deed or other recorded instrument.
 
 #### (C) Sale to other purchasers
 
@@ -380,7 +380,7 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 &emsp;The agreement required under paragraph (1) shall provide a plan for—
 
-&emsp;&emsp;(A) a program unifying all activities and responsibilities of the Corporation and theResolution Trust Corporation, and the design of the unified program shall take into consideration the substantial experience of the Resolution Trust Corporation regarding—
+&emsp;&emsp;(A) a program unifying all activities and responsibilities of the Corporation and the Resolution Trust Corporation, and the design of the unified program shall take into consideration the substantial experience of the Resolution Trust Corporation regarding—
 
 &emsp;&emsp;&emsp;(i) seller financing;
 
@@ -432,7 +432,7 @@ For purposes of this section:
 
 &emsp;The term “eligible condominium property” means a condominium unit, as such term is defined in section 3603 of title 15—
 
-&emsp;&emsp;(A) to which such Corporation acquires title in its corporate capacity, its capacity as conservator, or its capacity as receiver (including in its capacity as the sole owner of a subsidiary corporation of a depository institution under conservatorship or receivership, which subsidiary has as its principal business the ownership of real property); and
+&emsp;&emsp;(A) to which such Corporation acquires title in its corporate capacity, its capacity as conservator, or its capacity as receiver (including in its capacity as the sole owner of a subsidiary corporation of a depositoryinstitution under conservatorship or receivership, which subsidiary has as its principal business the ownership of real property); and
 
 &emsp;&emsp;(B) that has an appraised value that does not exceed the amount provided in section 203(b)(2)(A) of the National Housing Act \[12 U.S.C. 1709(b)(2)(A)\] except that such amount shall not exceed $101,250 in the case of a 1-family residence, $114,000 in the case of a 2-family residence, $138,000 in the case of a 3-family residence, and $160,000 in the case of a 4-family residence.
 
@@ -544,7 +544,7 @@ For purposes of this section:
 
 &emsp;&emsp;The term “ineligible residential property” includes ineligible single family properties, ineligible multifamily housing properties, and ineligible condominium properties.
 
-(Sept. 21, 1950, ch. 967, §2\[40\], as added Pub. L. 102–242, title II, §241(a), Dec. 19, 1991, 105 Stat. 2317; amended Pub. L. 102–389, title II, Oct. 6,1992, 106 Stat. 1592, 1593; Pub. L. 102–550, title V, §503(c)(4), Oct. 28, 1992, 106 Stat. 3780; Pub. L. 103–204, §§13, 14(a)(2), (d)(2), (e)(2), (f)(2), Dec. 17, 1993, 107 Stat. 2391, 2393, 2396, 2398; Pub. L. 103–325, title VI, §602(a)(65), (66), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+(Sept. 21, 1950, ch. 967, §2\[40\], as added Pub. L. 102–242, title II, §241(a), Dec. 19, 1991, 105 Stat. 2317; amended Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592, 1593; Pub. L. 102–550, title V, §503(c)(4), Oct. 28, 1992, 106 Stat. 3780; Pub. L. 103–204, §§13, 14(a)(2), (d)(2), (e)(2), (f)(2), Dec. 17, 1993, 107 Stat. 2391, 2393, 2396, 2398; Pub. L. 103–325, title VI, §602(a)(65), (66), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 
@@ -644,7 +644,7 @@ Interim members.—The members of the Advisory Board under paragraph (2)(E) shal
 
 “(5)
 
-Vacancies.—Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+Vacancies.—Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member'sterm until a successor has taken office. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
 “(6)
 
@@ -675,8 +675,4 @@ Sunset.—The Advisory Board established under this subsection shall terminate o
 #### Coordination and Consultation Between Federal Deposit Insurance Corporation and Resolution Trust Corporation Under Affordable Housing Programs
 
 Section 241(b) of Pub. L. 102–242, as amended by Pub. L. 102–550, title XVI, §1604(c)(1), Oct. 28, 1992, 106 Stat. 4083, provided that: “The Federal Deposit Insurance Corporation and the Resolution Trust Corporation shall consult and coordinate with each other in carrying out their respective responsibilities under the affordable housing programs under section 40 of the Federal Deposit Insurance Act \[12 U.S.C. 1831q\] and section 21A(c) of the Federal Home Loan Bank Act \[12 U.S.C. 1441a(c)\]. Such corporations shall develop any procedures, and may enter into any agreements, necessary to provide for the coordinated, efficient, and effective operation of such programs.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1441a, 1821 of this title; title 15 section 2227.
 

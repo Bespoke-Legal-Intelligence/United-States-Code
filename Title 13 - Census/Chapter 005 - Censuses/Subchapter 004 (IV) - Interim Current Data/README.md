@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—INTERIM CURRENT DATA
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 9, 132, 221, 222, 223, 225 of this title.
-
 
 ---
 

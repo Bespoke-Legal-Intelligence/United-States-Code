@@ -24,7 +24,3 @@ Subsection (e) of such section 41(26), relating to defense in nature of interple
 
 Changes were made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1332, 1397, 2361 of this title.
-

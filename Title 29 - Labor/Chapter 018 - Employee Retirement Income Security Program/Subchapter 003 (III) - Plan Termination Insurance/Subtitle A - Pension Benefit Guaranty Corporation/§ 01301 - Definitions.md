@@ -226,10 +226,6 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 This subchapter not applicable in interpreting Internal Revenue Code of 1986, except to the extent specifically provided in such Code, or as determined by the Secretary of the Treasury, see section 9343(a) of Pub. L. 100–203, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1002, 1023, 1056, 1082, 1083, 1085a, 1365, 1366, 1441, 1461 of this title; title 26 sections 412, 418.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>

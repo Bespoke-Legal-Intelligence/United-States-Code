@@ -20,7 +20,7 @@
 
 (4) The Secretary shall annually monitor, assess, and make available to the public findings regarding the population, structure, and health of the free roaming horses in the national seashore.
 
-(5) Nothing in this subsection shall be construed to require the Secretary to replace horses or otherwise increase the number of horses within the boundaries of the seashore where the herdnumbers fall below 100 as a result of natural causes, including, but not limited to, disease or natural disasters.
+(5) Nothing in this subsection shall be construed to require the Secretary to replace horses or otherwise increase the number of horses within the boundaries of the seashore where the herd numbers fall below 100 as a result of natural causes, including, but not limited to, disease or natural disasters.
 
 (6) Nothing in this subsection shall be construed as creating liability for the United States for any damages caused by the free roaming horses to property located inside or outside the boundaries of the seashore.
 
@@ -33,8 +33,4 @@ Enactment of this subsection, referred to in subsec. (b)(2), is the date of enac
 #### Amendments
 
 1998—Pub. L. 105–202 and Pub. L. 105–229 amended section identically, designating existing provisions as subsec. (a) and adding subsec. (b).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459g–1, 459g–2, 459g–5, 459g–7 of this title.
 

@@ -20,7 +20,3 @@ A loan may not be made under this section unless the person applying for such lo
 
 (Pub. L. 96–294, title II, §232, June 30, 1980, 94 Stat. 697.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8835, 8836 of this title.
-

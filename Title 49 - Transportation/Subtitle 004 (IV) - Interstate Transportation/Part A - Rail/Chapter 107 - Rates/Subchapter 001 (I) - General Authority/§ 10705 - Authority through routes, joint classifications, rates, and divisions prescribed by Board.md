@@ -26,7 +26,3 @@ Section 10705, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1375; Pub. L. 96–296,
 
 Section 10705a, added Pub. L. 96–448, title II, §217(a)(1), Oct. 14, 1980, 94 Stat. 1916; amended Pub. L. 103–272, §4(j)(20), July 5, 1994, 108 Stat. 1369, related to joint rate surcharges and cancellations.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10907 of this title.
-

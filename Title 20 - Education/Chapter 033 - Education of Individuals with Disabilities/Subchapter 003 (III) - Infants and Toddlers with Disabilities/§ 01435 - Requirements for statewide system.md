@@ -4,37 +4,37 @@
 
 A statewide system described in section 1433 of this title shall include, at a minimum, the following components:
 
-&emsp;(1) A definition of the term “developmental delay” that will be used by the State in carrying out programs under this subchapter.
+&emsp;(1) A rigorous definition of the term “developmental delay” that will be used by the State in carrying out programs under this subchapter in order to appropriately identify infants and toddlers with disabilities that are in need of services under this subchapter.
 
-&emsp;(2) A State policy that is in effect and that ensures that appropriate early intervention services are available to all infants and toddlers with disabilities and their families, including Indian infants and toddlers and their families residing on a reservation geographically located in the State.
+&emsp;(2) A State policy that is in effect and that ensures that appropriate early intervention services based on scientifically based research, to the extent practicable, are available to all infants and toddlers with disabilities and their families, including Indian infants and toddlers with disabilities and their families residing on a reservation geographically located in the State and infants and toddlers with disabilities who are homeless children and their families.
 
-&emsp;(3) A timely, comprehensive, multidisciplinary evaluation of the functioning of each infant or toddler with a disability in the State, and a family-directed identification of the needs of each family of such an infant or toddler, to appropriately assist in the development of the infant or toddler.
+&emsp;(3) A timely, comprehensive, multidisciplinary evaluation of the functioning of each infant or toddler with a disability in the State, and a family-directed identification of the needs of each family of such an infant or toddler, to assist appropriately in the development of the infant or toddler.
 
 &emsp;(4) For each infant or toddler with a disability in the State, an individualized family service plan in accordance with section 1436 of this title, including service coordination services in accordance with such service plan.
 
-&emsp;(5) A comprehensive child find system, consistent with subchapter II of this chapter, including a system for making referrals to service providers that includes timelines and provides for participation by primary referral sources.
+&emsp;(5) A comprehensive child find system, consistent with subchapter II, including a system for making referrals to service providers that includes timelines and provides for participation by primary referral sources and that ensures rigorous standards for appropriately identifying infants and toddlers with disabilities for services under this subchapter that will reduce the need for future services.
 
-&emsp;(6) A public awareness program focusing on early identification of infants and toddlers with disabilities, including the preparation and dissemination by the lead agency designated or established under paragraph (10) to all primary referral sources, especially hospitals and physicians, of information for parents on the availability of early intervention services, and procedures for determining the extent to which such sources disseminate such information to parents of infants and toddlers.
+&emsp;(6) A public awareness program focusing on early identification of infants and toddlers with disabilities, including the preparation and dissemination by the lead agency designated or established under paragraph (10) to all primary referral sources, especially hospitals and physicians, of information to be given to parents, especially to inform parents with premature infants, or infants with other physical risk factors associated with learning or developmental complications, on the availability of early intervention services under this subchapter and of services under section 1419 of this title, and procedures for assisting such sources in disseminating such information to parents of infants and toddlers with disabilities.
 
-&emsp;(7) A central directory which includes information on early intervention services, resources, and experts available in the State and research and demonstration projects being conducted in the State.
+&emsp;(7) A central directory that includes information on early intervention services, resources, and experts available in the State and research and demonstration projects being conducted in the State.
 
-&emsp;(8) A comprehensive system of personnel development, including the training of paraprofessionals and the training of primary referral sources respecting the basic components of early intervention services available in the State, that is consistent with the comprehensive system of personnel development described in section 1412(a)(14) of this title and may include—
+&emsp;(8) A comprehensive system of personnel development, including the training of paraprofessionals and the training of primary referral sources with respect to the basic components of early intervention services available in the State that—
 
-&emsp;&emsp;(A) implementing innovative strategies and activities for the recruitment and retention of early education service providers;
+&emsp;&emsp;(A) shall include—
 
-&emsp;&emsp;(B) promoting the preparation of early intervention providers who are fully and appropriately qualified to provide early intervention services under this subchapter;
+&emsp;&emsp;&emsp;(i) implementing innovative strategies and activities for the recruitment and retention of early education service providers;
 
-&emsp;&emsp;(C) training personnel to work in rural and inner-city areas; and
+&emsp;&emsp;&emsp;(ii) promoting the preparation of early intervention providers who are fully and appropriately qualified to provide early intervention services under this subchapter; and
 
-&emsp;&emsp;(D) training personnel to coordinate transition services for infants and toddlers served under this subchapter from an early intervention program under this subchapter to preschool or other appropriate services.
+&emsp;&emsp;&emsp;(iii) training personnel to coordinate transition services for infants and toddlers served under this subchapter from a program providing early intervention services under this subchapter and under subchapter II (other than section 1419 of this title), to a preschool program receiving funds under section 1419 of this title, or another appropriate program; and
 
-&emsp;(9) Subject to subsection (b) of this section, policies and procedures relating to the establishment and maintenance of standards to ensure that personnel necessary to carry out this subchapter are appropriately and adequately prepared and trained, including—
+&emsp;&emsp;(B) may include—
 
-&emsp;&emsp;(A) the establishment and maintenance of standards which are consistent with any State-approved or recognized certification, licensing, registration, or other comparable requirements which apply to the area in which such personnel are providing early intervention services; and
+&emsp;&emsp;&emsp;(i) training personnel to work in rural and inner-city areas; and
 
-&emsp;&emsp;(B) to the extent such standards are not based on the highest requirements in the State applicable to a specific profession or discipline, the steps the State is taking to require the retraining or hiring of personnel that meet appropriate professional requirements in the State;
+&emsp;&emsp;&emsp;(ii) training personnel in the emotional and social development of young children.
 
-> &emsp;except that nothing in this subchapter, including this paragraph, prohibits the use of paraprofessionals and assistants who are appropriately trained and supervised, in accordance with State law, regulations, or written policy, to assist in the provision of early intervention services to infants and toddlers with disabilities under this subchapter.
+&emsp;(9) Policies and procedures relating to the establishment and maintenance of qualifications to ensure that personnel necessary to carry out this subchapter are appropriately and adequately prepared and trained, including the establishment and maintenance of qualifications that are consistent with any State-approved or recognized certification, licensing, registration, or other comparable requirements that apply to the area in which such personnel are providing early intervention services, except that nothing in this subchapter (including this paragraph) shall be construed to prohibit the use of paraprofessionals and assistants who are appropriately trained and supervised in accordance with State law, regulation, or written policy, to assist in the provision of early intervention services under this subchapter to infants and toddlers with disabilities.
 
 &emsp;(10) A single line of responsibility in a lead agency designated or established by the Governor for carrying out—
 
@@ -64,19 +64,69 @@ A statewide system described in section 1433 of this title shall include, at a m
 
 &emsp;&emsp;(A) to the maximum extent appropriate, early intervention services are provided in natural environments; and
 
-&emsp;&emsp;(B) the provision of early intervention services for any infant or toddler occurs in a setting other than a natural environment only when early intervention cannot be achieved satisfactorily for the infant or toddler in a natural environment.
+&emsp;&emsp;(B) the provision of early intervention services for any infant or toddler with a disability occurs in a setting other than a natural environment that is most appropriate, as determined by the parent and the individualized family service plan team, only when early intervention cannot be achieved satisfactorily for the infant or toddler in a natural environment.
 
 #### (b) Policy
 
-In implementing subsection (a)(9) of this section, a State may adopt a policy that includes making ongoing good-faith efforts to recruit and hire appropriately and adequately trained personnel to provide early intervention services to infants and toddlers with disabilities, including, in a geographic area of the State where there is a shortage of such personnel, the most qualified individuals available who are making satisfactory progress toward completing applicable course work necessary to meet the standards described in subsection (a)(9) of this section, consistent with State law within 3 years.
+In implementing subsection (a)(9), a State may adopt a policy that includes making ongoing good-faith efforts to recruit and hire appropriately and adequately trained personnel to provide early intervention services to infants and toddlers with disabilities, including, in a geographic area of the State where there is a shortage of such personnel, the most qualified individuals available who are making satisfactory progress toward completing applicable course work necessary to meet the standards described in subsection (a)(9).
 
-(Pub. L. 91–230, title VI, §635, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 108.)
+#### (c) Flexibility to serve children 3 years of age until entrance into elementary school
+
+#### (1) In general
+
+&emsp;A statewide system described in section 1433 of this title may include a State policy, developed and implemented jointly by the lead agency and the State educational agency, under which parents of children with disabilities who are eligible for services under section 1419 of this title and previously received services under this subchapter, may choose the continuation of early intervention services (which shall include an educational component that promotes school readiness and incorporates preliteracy, language, and numeracy skills) for such children under this subchapter until such children enter, or are eligible under State law to enter, kindergarten.
+
+#### (2) Requirements
+
+&emsp;If a statewide system includes a State policy described in paragraph (1), the statewide system shall ensure that—
+
+&emsp;&emsp;(A) parents of children with disabilities served pursuant to this subsection are provided annual notice that contains—
+
+&emsp;&emsp;&emsp;(i) a description of the rights of such parents to elect to receive services pursuant to this subsection or under subchapter II; and
+
+&emsp;&emsp;&emsp;(ii) an explanation of the differences between services provided pursuant to this subsection and services provided under subchapter II, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) types of services and the locations at which the services are provided;
+
+&emsp;&emsp;&emsp;&emsp;(II) applicable procedural safeguards; and
+
+&emsp;&emsp;&emsp;&emsp;(III) possible costs (including any fees to be charged to families as described in section 1432(4)(B)) of this title, if any, to parents of infants or toddlers with disabilities;
+
+&emsp;&emsp;(B) services provided pursuant to this subsection include an educational component that promotes school readiness and incorporates preliteracy, language, and numeracy skills;
+
+&emsp;&emsp;(C) the State policy will not affect the right of any child served pursuant to this subsection to instead receive a free appropriate public education under subchapter II;
+
+&emsp;&emsp;(D) all early intervention services outlined in the child's individualized family service plan under section 1436 of this title are continued while any eligibility determination is being made for services under this subsection;
+
+&emsp;&emsp;(E) the parents of infants or toddlers with disabilities (as defined in section 1432(5)(A) of this title) provide informed written consent to the State, before such infants or toddlers reach 3 years of age, as to whether such parents intend to choose the continuation of early intervention services pursuant to this subsection for such infants or toddlers;
+
+&emsp;&emsp;(F) the requirements under section 1437(a)(9) of this title shall not apply with respect to a child who is receiving services in accordance with this subsection until not less than 90 days (and at the discretion of the parties to the conference, not more than 9 months) before the time the child will no longer receive those services; and
+
+&emsp;&emsp;(G) there will be a referral for evaluation for early intervention services of a child who experiences a substantiated case of trauma due to exposure to family violence (as defined in section 10421 of title 42).
+
+#### (3) Reporting requirement
+
+&emsp;If a statewide system includes a State policy described in paragraph (1), the State shall submit to the Secretary, in the State's report under section 1437(b)(4)(A) of this title, a report on the number and percentage of children with disabilities who are eligible for services under section 1419 of this title but whose parents choose for such children to continue to receive early intervention services under this subchapter.
+
+#### (4) Available funds
+
+&emsp;If a statewide system includes a State policy described in paragraph (1), the policy shall describe the funds (including an identification as Federal, State, or local funds) that will be used to ensure that the option described in paragraph (1) is available to eligible children and families who provide the consent described in paragraph (2)(E), including fees (if any) to be charged to families as described in section 1432(4)(B) of this title.
+
+#### (5) Rules of construction
+
+#### (A) Services under subchapter II
+
+&emsp;&emsp;If a statewide system includes a State policy described in paragraph (1), a State that provides services in accordance with this subsection to a child with a disability who is eligible for services under section 1419 of this title shall not be required to provide the child with a free appropriate public education under subchapter II for the period of time in which the child is receiving services under this subchapter.
+
+#### (B) Services under this subchapter
+
+&emsp;&emsp;Nothing in this subsection shall be construed to require a provider of services under this subchapter to provide a child served under this subchapter with a free appropriate public education.
+
+(Pub. L. 91–230, title VI, §635, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2747.)
 
 #### Prior Provisions
 
-A prior section 1435, Pub. L. 91–230, title VI, §635, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 99–457, title III, §311, Oct. 8, 1986, 100 Stat. 1169; Pub. L. 101–476, title IV, §405, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–119, §§9(c)(2), 10, 25(a)(13), Oct. 7, 1991, 105 Stat. 595, 606, authorized appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1435, Pub. L. 91–230, title VI, §635, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 108, related to requirements for statewide system, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1087ee, 1412, 1432, 1434, 1437, 1439, 1441, 1442 of this title.
+Another prior section 1435, Pub. L. 91–230, title VI, §635, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 99–457, title III, §311, Oct. 8, 1986, 100 Stat. 1169; Pub. L. 101–476, title IV, §405, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–119, §§9(c)(2), 10, 25(a)(13), Oct. 7, 1991, 105 Stat. 595, 606, authorized appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

@@ -30,7 +30,3 @@ Oversight Responsibility.—The Secretary shall have authority over any motor ca
 
 The date of the enactment of this section, referred to in subsecs. (a) and (b)(2), is the date of enactment of Pub. L. 106–159, which was approved Dec. 9, 1999.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 31144 of this title.
-

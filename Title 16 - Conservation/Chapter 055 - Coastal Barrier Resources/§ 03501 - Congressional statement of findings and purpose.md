@@ -36,7 +36,7 @@ Pub. L. 106–514, §1, Nov. 13, 2000, 114 Stat. 2394, provided that: “This Ac
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–167, §1, Dec. 9, 1999, 113 Stat. 1803, provided that: “This Act \[amending this section and sections3502, 3503, and 3509 of this title, section 1441a–3 of Title 12, Banks and Banking, and section 4028 of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under section 3503 of this title\] may be cited as the ‘John H. Chafee Coastal Barrier Resources System Act’.”
+Pub. L. 106–167, §1, Dec. 9, 1999, 113 Stat. 1803, provided that: “This Act \[amending this section and sections 3502, 3503, and 3509 of this title, section 1441a–3 of Title 12, Banks and Banking, and section 4028 of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under section 3503 of this title\] may be cited as the ‘John H. Chafee Coastal Barrier Resources System Act’.”
 
 #### Short Title of 1990 Amendment
 

@@ -14,7 +14,3 @@ For the purpose of accumulating data useful to the Congress in the formulation o
 
 Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>lll</i>–49, 831ee of this title.
-

@@ -50,9 +50,5 @@ From the funds appropriated under section 7176 of this title for any fiscal year
 
 (Pub. L. 89–10, title IV, §4202, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1766.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7173, 7174, 7305b, 7315a of this title.
-
 <i><sup>1</sup></i><i> Subparagraph designation editorially supplied.</i>
 

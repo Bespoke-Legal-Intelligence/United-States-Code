@@ -14,7 +14,7 @@ The Secretary of the Senate is authorized to withhold fees from the salary of an
 
 #### (c) Deposit in General Fund
 
-The Secretary of the Senate shall remit all fees required by subsection (a)(2) of this section that are collected pursuant to subsection (b) of this section or by direct payment to the General Fund of the Treasury as miscellaneous receipts unless otherwise provided by law.
+The Secretary of the Senate shall remit all fees required by subsection (a)(2) of this section that are collected pursuant to subsection (b) of this section or by direct payment to the GeneralFund of the Treasury as miscellaneous receipts unless otherwise provided by law.
 
 #### (d) Effective date
 

@@ -76,7 +76,3 @@ Provisions similar to those in this section were contained in section 11145 of t
 
 1997—Subsec. (c)(2)(B). Pub. L. 105–102 inserted “in” before “no event”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14303 of this title.
-

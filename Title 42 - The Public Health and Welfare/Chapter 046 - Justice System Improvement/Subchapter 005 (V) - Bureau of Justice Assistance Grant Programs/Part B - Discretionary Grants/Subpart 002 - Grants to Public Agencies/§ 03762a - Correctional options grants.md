@@ -4,7 +4,7 @@
 
 The Director, in consultation with the Director of the National Institute of Corrections, may make—
 
-&emsp;(1) 4 grants in each fiscal year, in various geographical areas throughout the UnitedStates, to public agencies for correctional options (including the cost of construction) that provide alternatives to traditional modes of incarceration and offender release programs—
+&emsp;(1) 4 grants in each fiscal year, in various geographical areas throughout the United States, to public agencies for correctional options (including the cost of construction) thatprovide alternatives to traditional modes of incarceration and offender release programs—
 
 &emsp;&emsp;(A) to provide more appropriate intervention for youthful offenders who are not career criminals, but who, without such intervention, are likely to become career criminals or more serious offenders;
 
@@ -61,8 +61,4 @@ For prior section 515 of Pub. L. 90–351, see note set out preceding section 37
 #### Transfer of Functions
 
 Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3762b, 3763, 3766 of this title; title 10 section 2693.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—TRANSITION TO INTERNATIONAL AGREEMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1464, 1468, 1470 of this title.
-
 
 ---
 

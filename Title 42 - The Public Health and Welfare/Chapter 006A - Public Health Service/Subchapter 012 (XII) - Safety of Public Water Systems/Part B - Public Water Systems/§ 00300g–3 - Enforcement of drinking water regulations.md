@@ -32,7 +32,7 @@ Notice.—If the Administrator takes any action pursuant to this paragraph, the 
 
 #### (b) Judicial determinations in appropriate Federal district courts; civil penalties, separate violations
 
-The Administrator may bring a civil action in the appropriate United States district court to require compliance with any applicable requirement with an order issued under subsection (g) of this section, or with any schedule or other requirement imposed pursuant to a variance or exemption granted under section 300g–4 or 300g–5 of this title if—
+The Administrator may bring a civil action in the appropriate United States district court to require compliance with any applicable requirement with an order issued under subsection (g)of this section, or with any schedule or other requirement imposed pursuant to a variance or exemption granted under section 300g–4 or 300g–5 of this title if—
 
 &emsp;(1) authorized under paragraph (1) or (2) of subsection (a) of this section, or
 
@@ -110,7 +110,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;&emsp;(I) be provided to appropriate broadcast media;
 
-&emsp;&emsp;&emsp;&emsp;(II) be prominently published in a newspaper of general circulation serving the area not later than 1 day after distribution of a notice pursuant to clause (i) or the date of publication of the next issue of the newspaper; or
+&emsp;&emsp;&emsp;&emsp;(II) be prominently published in a newspaper of general circulation serving the area not later than 1 day after distribution of a notice pursuant to clause\(i) or the date of publication of the next issue of the newspaper; or
 
 &emsp;&emsp;&emsp;&emsp;(III) be provided by posting or door-to-door notification in lieu of notification by means of broadcast media or newspaper.
 
@@ -148,7 +148,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (A) Annual reports to consumers
 
-&emsp;&emsp;The Administrator, in consultation with public water systems, environmental groups, public interest groups, risk communication experts, and the States, and other interested parties, shall issue regulations within 24 months after August 6, 1996, to require each community water system to mail to each customer of the system at least once annually a report on the level of contaminants inthe drinking water purveyed by that system (referred to in this paragraph as a “consumer confidence report”). Such regulations shall provide a brief and plainly worded definition of the terms “maximum contaminant level goal”, “maximum contaminant level”, “variances”, and “exemptions” and brief statements in plain language regarding the health concerns that resulted in regulation of each regulated contaminant. The regulations shall also include a brief and plainly worded explanation regarding contaminants that may reasonably be expected to be present in drinking water, including bottled water. The regulations shall also provide for an Environmental Protection Agency toll-free hotline that consumers can call for more information and explanation.
+&emsp;&emsp;The Administrator, in consultation with public water systems, environmental groups, public interest groups, risk communication experts, and the States, and other interested parties, shall issue regulations within 24 months after August 6, 1996, to require each community water system to mail to each customer of the system at least once annually a report on the level of contaminants in the drinking water purveyed by that system (referred to in this paragraph as a “consumer confidence report”). Such regulations shall provide a brief and plainly worded definition of the terms “maximum contaminant level goal”, “maximum contaminant level”, “variances”, and “exemptions” and brief statements in plain language regarding the health concerns that resulted in regulation of each regulated contaminant. The regulations shall also include a brief and plainly worded explanation regarding contaminants that may reasonably be expected to be present in drinking water, including bottled water. The regulations shall also provide for an Environmental Protection Agency toll-free hotline that consumers can call for more information and explanation.
 
 #### (B) Contents of report
 
@@ -196,7 +196,7 @@ Whenever, on the basis of information available to him, the Administrator finds 
 
 #### (e) State authority to adopt or enforce laws or regulations respecting drinking water regulations or public water systems unaffected
 
-Nothing in this subchapter shall diminish any authority of a State or political subdivision toadopt or enforce any law or regulation respecting drinking water regulations or public water systems, but no such law or regulation shall relieve any person of any requirement otherwise applicable under this subchapter.
+Nothing in this subchapter shall diminish any authority of a State or political subdivision to adopt or enforce any law or regulation respecting drinking water regulations or public water systems, but no such law or regulation shall relieve any person of any requirement otherwise applicable under this subchapter.
 
 #### (f) Notice and public hearing; availability of recommendations transmitted to State and public water system
 
@@ -206,7 +206,7 @@ If the Administrator makes a finding of noncompliance (described in subparagraph
 
 &emsp;(2) the means for the maximum feasible protection of the public health during any period in which such system is not in compliance with a national primary drinking water regulation or requirement applicable to a variance or exemption.
 
-> On the basis of such hearings the Administrator shall issue recommendations which shall be sent to such State and public water system and shall be made available to the public and communications media.
+> On the basis of such hearings the Administrator shall issue recommendations which shall be sent to such State and public water system and shallbe made available to the public and communications media.
 
 #### (g) Administrative order requiring compliance; notice and hearing; civil penalty; civil actions
 
@@ -299,10 +299,6 @@ Subsec. (c). Pub. L. 99–339, §103, substituted provisions relating to amendme
 Subsec. (g). Pub. L. 99–339, §102(d), added subsec. (g).
 
 1977—Subsec. (c). Pub. L. 95–190 inserted provisions relating to frequency of required notice, and notice respecting contaminant levels, and substituted “issued under this subsection” for “thereunder”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300g–4, 300g–5, 300j–7 of this title.
 
 <i><sup>1</sup></i><i> So in original. There probably should be a comma.</i>
 

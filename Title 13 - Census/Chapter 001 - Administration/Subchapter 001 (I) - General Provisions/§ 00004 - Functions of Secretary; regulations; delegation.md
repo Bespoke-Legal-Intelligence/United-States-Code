@@ -6,7 +6,7 @@ The Secretary shall perform the functions and duties imposed upon him by this ti
 
 #### Historical and Revision Notes
 
-Section is new, and was inserted to conform with 1950 Reorganization Plan No. 5, effective May 24, 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, which is set out as a note under section 591 of title 5, U. S. C., 1952 ed., Executive Departments and Government Officers and Employees \[now set out in the Appendix to Title 5, GovernmentOrganization and Employees\]. That plan transferred all functions (with a few exceptions not applicable to the Census Bureau) of all agencies, officers and employees of the Department of Commerce to the Secretary of Commerce, and vested power in him to delegate the functions so transferred, or any of his other functions, to such agencies, officers or employees within the Department as he designates.
+Section is new, and was inserted to conform with 1950 Reorganization Plan No. 5, effective May 24, 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, which is set out as a note under section 591 of title 5, U. S. C., 1952 ed., Executive Departments and Government Officers and Employees \[now set out in the Appendix to Title 5, Government Organization and Employees\]. That plan transferred all functions (with a few exceptions not applicable to the Census Bureau) of all agencies, officers and employees of the Department of Commerce to the Secretary of Commerce, and vested power in him to delegate the functions so transferred, or any of his other functions, to such agencies, officers or employees within the Department as he designates.
 
 See, also, section 253 of title 13, U.S.C., 1952 ed., which provided for delegation of functions in connection with the quinquennial censuses of governments, and authorized the Secretary to promulgate rules and regulations with respect to such censuses. That section has been omitted from this revised title, as the provision thereof for delegation of functions is covered by this section, and the provision thereof which related to rules and regulations is covered by section 22 of title 1, U.S.C., 1952 ed., General Provisions.
 
@@ -19,8 +19,4 @@ Because of the transfer effected by 1950 Reorganization Plan No. 5, referred to 
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as a note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 307 of this title.
 

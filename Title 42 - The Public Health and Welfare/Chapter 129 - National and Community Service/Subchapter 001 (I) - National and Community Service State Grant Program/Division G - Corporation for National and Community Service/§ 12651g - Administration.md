@@ -60,7 +60,7 @@
 
 #### (b) Contracts
 
-Subject to the Federal Property and Administrative Services Act of 1949,<sup>1</sup> the Corporation may enter into contracts, and cooperative and interagency agreements, with Federal and State agencies, private firms, institutions, and individuals to conduct activities necessary to assist the Corporation in carrying out the duties of the Corporation under the national service laws.
+Subject to the Federal Property and Administrative Services Act of 1949,<sup>1</sup> the Corporationmay enter into contracts, and cooperative and interagency agreements, with Federal and State agencies, private firms, institutions, and individuals to conduct activities necessary to assist the Corporation in carrying out the duties of the Corporation under the national service laws.
 
 #### (c) Office of Management and Budget
 
@@ -83,10 +83,6 @@ Amendment by section 203(a)(1)(B) of Pub. L. 103–82 effective Apr. 4, 1994, se
 #### Effective Date
 
 Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out as a note under section 12651 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12601, 12651d of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,3 @@ A prior section 1103e, Pub. L. 89–329, title V, §516, as added Pub. L. 102–
 
 A prior section 516 of Pub. L. 89–329 was classified to section 1106 of this title prior to repeal by Pub. L. 97–35.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1103 of this title.
-

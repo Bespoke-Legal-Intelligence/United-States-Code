@@ -20,7 +20,3 @@ In sections 698u to 698u–7 of this title:
 
 (Pub. L. 104–333, div. I, title X, §1003, Nov. 12, 1996, 110 Stat. 4205.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698u, 698u–3, 698u–6, 698u–7 of this title.
-

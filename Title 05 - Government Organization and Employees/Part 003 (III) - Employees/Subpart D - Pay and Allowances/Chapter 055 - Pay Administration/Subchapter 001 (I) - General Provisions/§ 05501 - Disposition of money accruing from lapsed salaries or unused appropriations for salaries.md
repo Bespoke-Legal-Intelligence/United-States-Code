@@ -24,7 +24,3 @@ In the last sentence, the word “removed” is substituted for “summarily rem
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 1916.
-

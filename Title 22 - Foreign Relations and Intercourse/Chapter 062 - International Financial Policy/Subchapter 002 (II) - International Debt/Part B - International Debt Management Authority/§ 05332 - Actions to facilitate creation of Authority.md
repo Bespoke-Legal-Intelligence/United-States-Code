@@ -6,7 +6,7 @@ No funds, appropriations, contributions, callable capital, financial guarantee, 
 
 &emsp;(1) the United States Executive Director of the International Monetary Fund to determine the amount of, and alternative methods by which, gold stock of the Fund which, subject to action by its Board of Governors, could be pledged as collateral to obtain financing for the activities of the authority specified in section 5331 of this title; and
 
-&emsp;(2) the United States Executive Director to the International Bank for Reconstruction and Development to determine the amount of, and alternative methods by which, liquid assets controlled by such Bank and not currently committed to any loan program which, subject to action by its Board of Governors, could be pledged as collateral for obtaining financing for the activities of the authority specified in section 5331 of this title.
+&emsp;(2) the United States Executive Director to the International Bank for Reconstruction and Development to determine the amount of, andalternative methods by which, liquid assets controlled by such Bank and not currently committed to any loan program which, subject to action by its Board of Governors, could be pledged as collateral for obtaining financing for the activities of the authority specified in section 5331 of this title.
 
 > The Secretary of the Treasury shall include a report on the results of the review in the first report submitted under section 5331(c) of this title.
 
@@ -15,8 +15,4 @@ No funds, appropriations, contributions, callable capital, financial guarantee, 
 Subsection (a) of this section shall not be construed to affect any provision of the Articles of Agreement of the International Monetary Fund or of the International Bank for Reconstruction and Development or any agreement entered into under either of such Agreements.
 
 (Pub. L. 100–418, title III, §3112, Aug. 23, 1988, 102 Stat. 1378.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5331 of this title.
 

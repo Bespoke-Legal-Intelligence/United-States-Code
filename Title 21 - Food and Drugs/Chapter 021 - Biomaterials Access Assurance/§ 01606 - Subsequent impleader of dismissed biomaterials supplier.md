@@ -30,7 +30,3 @@ Nothing in this section shall give a claimant or any other party the right to ob
 
 (Pub. L. 105–230, §7, Aug. 13, 1998, 112 Stat. 1528.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1603, 1604, 1605 of this title.
-

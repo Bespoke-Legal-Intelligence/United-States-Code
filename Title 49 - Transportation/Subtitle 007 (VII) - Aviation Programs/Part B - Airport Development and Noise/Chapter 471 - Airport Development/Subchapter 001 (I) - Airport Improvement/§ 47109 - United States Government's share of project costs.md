@@ -32,7 +32,7 @@ Grandfather Rule.—
 
 In general.—In the case of any project approved after September 30, 2003, at a small hub airport or nonhub airport that is located in a State containing unappropriated and unreserved public lands and nontaxable Indian lands (individual and tribal) of more than 5 percent of the total area of all lands in the State, the Government's share of allowable costs of the project shall be increased by the same ratio as the basic share of allowable costs of a project divided into the increased (Public Lands States) share of allowable costs of a project as shown on documents of the Federal Aviation Administration dated August 3, 1979, at airports for which the general share was 80 percent on August 3, 1979. This subsection shall apply only if—
 
-&emsp;&emsp;(A) the State contained unappropriated and unreserved public lands and nontaxable Indian lands of more than 5 percent of the total area of all lands in the State on August 3, 1979; and
+&emsp;&emsp;(A) the State contained unappropriated and unreserved public lands and nontaxableIndian lands of more than 5 percent of the total area of all lands in the State on August 3, 1979; and
 
 &emsp;&emsp;(B) the application under subsection (b), does not increase the Government's share of allowable costs of the project.
 
@@ -121,10 +121,6 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 #### Temporary Increase in Government Share of Certain AIP Project Costs
 
 Pub. L. 108–176, title I, §161, Dec. 12, 2003, 117 Stat. 2513, provided that: “Notwithstanding section 47109(a) of title 49, United States Code, the Government's share of allowable project costs for a grant made in each of fiscal years 2004 through 2007 under chapter 471 of that title for a project described in paragraph (2) or (3) of that section shall be 95 percent.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47137, 47504, 47505 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

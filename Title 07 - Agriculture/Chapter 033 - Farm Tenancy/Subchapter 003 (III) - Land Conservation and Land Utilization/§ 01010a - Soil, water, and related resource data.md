@@ -12,7 +12,3 @@ Section was not enacted as part of the Bankhead-Jones Farm Tenant Act which cons
 
 1980—Pub. L. 96–470 struck out provision that the Secretary issue at not less than five-year intervals a land inventory report reflecting soil, water, and related resource conditions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2276 of this title; title 16 section 1602.
-

@@ -54,7 +54,3 @@ Feb. 10, 1925, ch. 200, 43 Stat. 851.
 
 June 5, 1924, ch. 266, 43 Stat. 460.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 228c of this title; title 11 section 525.
-

@@ -10,7 +10,7 @@ Senior ROTC Members in Advanced Training.—(1)Except when on active duty, a mem
 
 (b)
 
-Senior ROTC Members Appointed in Reserves.— Except when on active duty, a cadet or midshipman appointed under section 2107 of title 10 is entitled to a monthly subsistence allowance at a rate prescribed under subsection\(a). A member enrolled in the first two years of a four-year program is entitled to receive subsistence for a maximum of twenty months. A member enrolled in the advanced course is entitled to subsistence as prescribed for a member enrolled under section 2104 of title 10 as prescribed in subsection (a).
+Senior ROTC Members Appointed in Reserves.— Except when on active duty, a cadet or midshipman appointed under section 2107 of title 10 is entitled to a monthly subsistence allowance at a rate prescribed under subsection (a). A member enrolled in the first two years of a four-year program is entitled to receive subsistence for a maximum of twenty months. A member enrolled in the advanced course is entitled to subsistence as prescribed for a member enrolled under section 2104 of title 10 as prescribed in subsection (a).
 
 (c)
 
@@ -88,7 +88,7 @@ Subsec. (d). Pub. L. 96–579 struck out par. (1) designation and par. (2) prohi
 
 Pub. L. 96–342 added subsec. (d).
 
-1977—Pub. L. 95–79, §302(a)(3)(B), substituted “Members of precommissioning programs” for “Members ofSenior Reserve Officers’ Training Corps” in section catchline.
+1977—Pub. L. 95–79, §302(a)(3)(B), substituted “Members of precommissioning programs” for “Members of Senior Reserve Officers’ Training Corps” in section catchline.
 
 Subsec. (c). Pub. L. 95–79, §302(a)(3)(A), substituted provisions authorizing rates of pay for cadets and midshipmen in the Senior Reserve Officers’ Training Corps and applicants for membership in the Corps to be computed under section 203(c) of this title, for provisions authorizing rates of pay for members of the Senior Reserve Officers’ Training Corps to be computed under section 201(c) of this title and for applicants for membership in the Corps to be computed under section 203 of this title for enlisted members in pay grade E–1.
 
@@ -104,7 +104,7 @@ Subsec. (c). Pub. L. 89–718, §51(2), struck out “, United States Code,” 
 
 Subsec. (b). Pub. L. 89–51 substituted “subsistence allowance” for “retainer pay”.
 
-1964—Pub. L. 88–647 substituted provisions which grant a trainee under section 2104 of title 10, retainer pay of from $40 to $50 monthly for his instruction period under said section 2104, limited to not more than 20 months, provide that such assistance does not fall within section 456(d)(1) of title 50 App., grant cadets or midshipmen under section 2107 of title 10 retainer pay, limited to not more than 4 years, authorize pay for trainees attending field training or practice cruises under section 2109 of title 10 at the rate prescribed for cadets and midshipmen at the military academies under section 201(c) of this title, and pay for applicants attending field training or practice cruises to satisfy section 2104(b)(6)(B) of title 10, as in section 203 of this title for enlisted men grade E–1, for provisions entitling midshipmen appointed under section 6904 of title 10 to $50 a month for his instruction period up to 4 academic years, seamen recruits under section 6905 of title 10 to $50 monthly for his instruction period under said section 6905, and midshipmen in flight training or on flight duty under section 6906 of title 10 to pay as for midshipmen at the Naval Academy plus an amount equal to 50 percent of his pay for flight duty.
+1964—Pub. L. 88–647 substituted provisions which grant a trainee under section 2104 of title 10, retainer pay of from $40 to $50 monthly for his instruction period under said section 2104, limited to not more than 20 months, provide that such assistance does not fall within section 456(d)(1) of title 50 App., grant cadets or midshipmen under section 2107 of title 10 retainer pay, limited to not more than 4 years, authorize pay for trainees attending field training or practice cruises under section 2109 of title 10 at the rate prescribed for cadets and midshipmen at the military academies under section 201(c) of this title, and pay for applicants attending field training or practice cruises to satisfy section 2104(b)(6)(B) of title 10, as in section 203 of this title for enlisted men grade E–1, for provisions entitling midshipmen appointed under section 6904 of title10 to $50 a month for his instruction period up to 4 academic years, seamen recruits under section 6905 of title 10 to $50 monthly for his instruction period under said section 6905, and midshipmen in flight training or on flight duty under section 6906 of title 10 to pay as for midshipmen at the Naval Academy plus an amount equal to 50 percent of his pay for flight duty.
 
 #### Effective Date of 2003 Amendment
 
@@ -149,8 +149,4 @@ Amendment by Pub. L. 89–51 effective Oct. 13, 1964, see section 4 of Pub. L. 8
 #### Subsistence Allowances for Members of the Marine Corps Officer Candidate Programs
 
 Pub. L. 92–172, Nov. 24, 1971, 85 Stat. 491, as amended by Pub. L. 94–361, title VI, §604, July 14, 1976, 90 Stat. 929; Pub. L. 95–79, title VIII, §806, July 30, 1977, 91 Stat. 334; Pub. L. 95–485, title VIII, §803, Oct. 20, 1978, 92 Stat. 1620, which provided that until Sept. 30, 1980, except when on active duty, a member enrolled in a Marine Corps officer candidate program which required a baccalaureate degree as a prerequisite to being commissioned as a regular or reserve officer, and who was not enrolled in a program or an academy established under chapter 103, 403, 603, or 903 of Title 10, Armed Forces, could be paid a subsistence allowance at the same rate as that prescribed by subsec. (a) of this section, was repealed by Pub. L. 96–342, title VIII, §811(b), Sept. 8, 1980, 94 Stat. 1098. See subsec. (d) of this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 1478, 2103a; title 14 section 705.
 

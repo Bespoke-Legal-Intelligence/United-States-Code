@@ -44,7 +44,7 @@ Nothing contained in this section prohibits a State nonmember insured bank from 
 
 The Board of Directors shall prescribe such regulations as may be necessary to the strict enforcement of this section and the prevention of evasions thereof.
 
-(Sept. 21, 1950, ch. 967, §2\[20\], as added Pub. L. 90–203, §3, Dec. 15, 1967, 81 Stat. 610; amended Pub. L. 103–325, title VI, §602(a)(51), Sept. 23, 1994, 108 Stat. 2290.)
+(Sept. 21, 1950, ch. 967, §2\[20\], as added Pub. L. 90–203, §3, Dec. 15, 1967, 81 Stat. 610; amendedPub. L. 103–325, title VI, §602(a)(51), Sept. 23, 1994, 108 Stat. 2290.)
 
 #### Amendments
 
@@ -53,8 +53,4 @@ The Board of Directors shall prescribe such regulations as may be necessary to t
 #### Effective Date
 
 Section effective Apr. 1, 1968, see section 6 of Pub. L. 90–203, set out as a note under section 25a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 1306.
 

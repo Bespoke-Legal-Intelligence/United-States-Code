@@ -6,7 +6,3 @@
 
 (Pub. L. 95–87, title IX, §904, Aug. 3, 1977, 91 Stat. 530.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1326 of this title.
-

@@ -42,7 +42,7 @@ The development of the occupational and educational skills of prison inmates is 
 
 Under sections 3621 and 3622 of title 18, United States Code, the Bureau of Prisons is empowered to authorize Federal prisoners to work at paid employment in the community during their terms of imprisonment under conditions that protect against both the exploitation of convict labor and unfair competition with free labor.
 
-Several states and other jurisdictions have similar laws or regulations under which individuals confinedfor violations of the laws of those places may be authorized to work at paid employment in the community.
+Several states and other jurisdictions have similar laws or regulations under which individuals confined for violations of the laws of those places may be authorized to work at paid employment in the community.
 
 Executive Order No. 325A, which was originally issued by President Theodore Roosevelt in 1905, prohibits the employment, in the performance of Federal contracts, of any person who is serving a sentence of imprisonment at hard labor imposed by a court of a State, territory, or municipality.
 
@@ -71,8 +71,4 @@ Sec. 2. The Federal Procurement Regulations, the Armed Services Procurement Regu
 Sec. 3. Executive Order No. 325A is hereby superseded.
 
 Sec. 4. This order shall be effective as of January 1, 1974.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 28 section 994.
 

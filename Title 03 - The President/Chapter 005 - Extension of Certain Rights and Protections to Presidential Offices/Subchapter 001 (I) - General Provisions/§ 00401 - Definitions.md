@@ -68,7 +68,3 @@ In general.—The President, or the designee of the President, shall issue regul
 
 Agency regulations.—The regulations issued under paragraph (1) to implement a provision shall be the same as substantive regulations promulgated by the head of the appropriate executive agency to implement the provision, except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under the section.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 28 section 3908.
-

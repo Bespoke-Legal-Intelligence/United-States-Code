@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the extent of amounts made available in appropriations Acts, a grant made for purposes of this paragraph to an eligible area shall be made in an amount equal to the product of—
+&emsp;&emsp;Subject to the extent of amounts made available in appropriations Acts, a grantmade for purposes of this paragraph to an eligible area shall be made in an amount equal to the product of—
 
 &emsp;&emsp;&emsp;(i) an amount equal to the amount available for distribution under paragraph (2) for the fiscal year involved; and
 
@@ -66,7 +66,7 @@
 
 #### (iii) Grants and technical assistance regarding counting of HIV cases
 
-&emsp;&emsp;&emsp;Of the amounts appropriated under section 247c–2 of this title for a fiscal year, the Secretary shall reserve amounts tomake grants and provide technical assistance to States and eligible areas with respect to obtaining data on cases of HIV disease to ensure that data on such cases is available from all States and eligible areas as soon as is practicable but not later than the beginning of fiscal year 2007.
+&emsp;&emsp;&emsp;Of the amounts appropriated under section 247c–2 of this title for a fiscal year, the Secretary shall reserve amounts to make grants and provide technical assistance to States and eligible areas with respect to obtaining data on cases of HIV disease to ensure that data on such cases is available from all States and eligible areas as soon as is practicable but not later than the beginning of fiscal year 2007.
 
 #### (E) Unexpended funds
 
@@ -134,7 +134,7 @@
 
 &emsp;&emsp;In determining severe need in accordance with paragraph (1)(B), the Secretary shall consider the ability of the qualified applicant to expend funds efficiently and the impact of relevant factors on the cost and complexity of delivering health care and support services to individuals with HIV disease in the eligible area, including factors such as—
 
-&emsp;&emsp;&emsp;(i) sexually transmitted diseases, substance abuse, tuberculosis, severe mentalillness, or other comorbid factors determined relevant by the Secretary;
+&emsp;&emsp;&emsp;(i) sexually transmitted diseases, substance abuse, tuberculosis, severe mental illness, or other comorbid factors determined relevant by the Secretary;
 
 &emsp;&emsp;&emsp;(ii) new or growing subpopulations of individuals with HIV disease;
 
@@ -198,7 +198,7 @@ Subsec. (a)(3)(C). Pub. L. 106–345, §111(b)(1)(B), in concluding provisions, 
 
 Subsec. (a)(3)(D), (E). Pub. L. 106–345, §111(b)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (a)(4). Pub. L. 106–345, §111(c), amended heading and text of par. (4) generally. Prior to amendment,text read as follows: “With respect to an eligible area under section 300ff–11(a) of this title, the Secretary shall increase the amount of a grant under paragraph (2) for a fiscal year to ensure that such eligible area receives not less than—
+Subsec. (a)(4). Pub. L. 106–345, §111(c), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “With respect to an eligible area under section 300ff–11(a) of this title, the Secretary shall increase the amount of a grant under paragraph (2) for a fiscal year to ensure that such eligible area receives not less than—
 
 &emsp;“(A) with respect to fiscal year 1996, 100 percent;
 
@@ -230,7 +230,7 @@ Pub. L. 106–345, §112(a)(2), redesignated subpar. (B) as (C). Former subpar. 
 
 Subsec. (b)(2)(D). Pub. L. 106–345, §112(a)(2), (6), redesignated subpar. (C) as (D) and substituted “subparagraph (C)” for “subparagraph (B)”.
 
-Subsec. (b)(4). Pub. L. 106–345, §112(c)(1), (2), redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “The amount of each grant made for purposes of this subsection shall be determined by the Secretary based on the application submitted by the eligible area under section 300ff–15(b) of this title.”
+Subsec. (b)(4). Pub. L. 106–345, §112(c)(1), (2), redesignated par. (5) as (4) and struck out heading and text offormer par. (4). Text read as follows: “The amount of each grant made for purposes of this subsection shall be determined by the Secretary based on the application submitted by the eligible area under section 300ff–15(b) of this title.”
 
 Subsec. (b)(4)(B). Pub. L. 106–345, §112(c)(3), substituted “an expedited grant” for “an expedited grants”.
 
@@ -305,10 +305,6 @@ Amount relating to per capita incidence of cases.—The amount referred to in cl
 #### Effective Date of 1996 Amendment
 
 Amendment by sections 3(b)(2), (3), 4, 6(c)(1)(B), and 12(c)(2) of Pub. L. 104–146 effective Oct. 1, 1996, and amendment by section 6(c)(1)(A) of Pub. L. 104–146 effective May 20, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–11, 300ff–15, 300ff–28 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

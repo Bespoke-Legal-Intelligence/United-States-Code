@@ -16,7 +16,3 @@ Section was formerly set out as a note under section 1681 of this title.
 
 Pub. L. 99–396, §2, Aug. 27, 1986, 100 Stat. 838, authorized use of up to $4,000,000 of funds reserved for use by the economic development loan fund, as established under section 702(c) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, 48 U.S.C. 1801 note, for capital improvement projects, if such funds became available for use by the economic development loan fund, and were not obligated for economic development loans.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1804, 1805 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—APPORTIONMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 2 sections 60a–2, 661d; title 5 section 5306; title 16 section 831n–4; title 22 sections 277d–3, 1461b; title 39 section 2003; title 42 sections 2204, 2204a, 2210, 2295, 2394, 10156, 10222.
-
 
 ---
 

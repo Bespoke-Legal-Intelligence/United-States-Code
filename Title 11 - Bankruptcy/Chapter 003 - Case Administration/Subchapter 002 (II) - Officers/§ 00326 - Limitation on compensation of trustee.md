@@ -20,7 +20,7 @@ Section 326(b) of the House amendment derives from section 326(c) of H.R. 8200 a
 
 #### senate report no. 95–989
 
-This section is derived in part from section 48c of the Bankruptcy Act \[section 76(c) of former title 11\]. Itmust be emphasized that this section does not authorize compensation of trustees. This section simply fixes the maximum compensation of a trustee. Proposed 11 U.S.C. 330 authorizes and fixes the standard of compensation. Under section 48c of current law, the maximum limits have tended to become minimums in many cases. This section is not intended to be so interpreted. The limits in this section, together with the limitations found in section 330, are to be applied as outer limits, and not as grants or entitlements to the maximum fees specified.
+This section is derived in part from section 48c of the Bankruptcy Act \[section 76(c) of former title 11\]. It must be emphasized that this section does not authorize compensation of trustees. This section simply fixes the maximum compensation of a trustee. Proposed 11 U.S.C. 330 authorizes and fixes the standard of compensation. Under section 48c of current law, the maximum limits have tended to become minimums in many cases. This section is not intended to be so interpreted. The limits in this section, together with the limitations found in section 330, are to be applied as outer limits, and not as grants or entitlements to the maximum fees specified.
 
 The maximum fee schedule is derived from section 48c(1) of the present act \[section 76(c)(1) of former title 11\], but with a change relating to the bases on which the percentage maxima are computed. The maximum fee schedule is based on decreasing percentages of increasing amounts. The amounts are the amounts of money distributed by the trustee to parties in interest, excluding the debtor, but including secured creditors. These amounts were last amended in 1952. Since then, the cost of living has approximately doubled. Thus, the bases were doubled.
 
@@ -71,8 +71,4 @@ Until the amendments made by subtitle A (§§201 to 231) of title II of Pub. L. 
 &emsp;(3) to section 1302(a) of this title is deemed to be a reference to section 1202(a) or 1302(a) of this title,
 
 > see section 302(c)(3)(A), (d), (e) of Pub. L. 99–554, set out as an Effective Date note under section 581 of Title 28.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 330, 557 of this title.
 

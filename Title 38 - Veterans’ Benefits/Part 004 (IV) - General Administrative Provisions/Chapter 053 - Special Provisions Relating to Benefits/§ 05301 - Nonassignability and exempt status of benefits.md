@@ -14,7 +14,7 @@
 
 (c)(1) Notwithstanding any other provision of this section, the Secretary may, after receiving a request under paragraph (2) of this subsection relating to a veteran, collect by offset of any compensation or pension payable to the veteran under laws administered by the Secretary the uncollected portion of the amount of any indebtedness associated with the veteran's participation in a plan prescribed in chapter 73 of title 10.
 
-(2) If the Secretary concerned (as defined in section 101(5) of title 37) has tried under section3711(a) of title 31 to collect an amount described in paragraph (1) of this subsection in the case of any veteran, has been unable to collect such amount, and has determined that the uncollected portion of such amount is not collectible from amounts payable by that Secretary to the veteran or that the veteran is not receiving any payment from that Secretary, that Secretary may request the Secretary to make collections in the case of such veteran as authorized in paragraph (1) of this subsection.
+(2) If the Secretary concerned (as defined in section 101(5) of title 37) has tried under section 3711(a) of title 31 to collect an amount described in paragraph (1) of this subsection in the case of any veteran, has been unable to collect such amount, and has determined that the uncollected portion of such amount is not collectible from amounts payable by that Secretary to the veteran or that the veteran is not receiving any payment from that Secretary, that Secretary may request the Secretary to make collections in the case of such veteran as authorized in paragraph (1) of this subsection.
 
 (3)(A) A collection authorized by paragraph (1) of this subsection shall be conducted in accordance with the procedures prescribed in section 3716 of title 31 for administrative offset collections made after attempts to collect claims under section 3711(a) of such title.
 
@@ -40,7 +40,7 @@
 
 #### References in Text
 
-The Electronic Funds Transfers Act, referred to in subsec. (a)(3)(B), probably means the Electronic Funds Transfer Act, title IX of Pub. L. 90–321, as added by Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3728, as amended, which is classfied generally to subchapter VI (§1693 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Electronic Funds Transfers Act, referred to in subsec. (a)(3)(B), probably means the Electronic Funds Transfer Act, title IX of Pub. L. 90–321, as added by Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3728, as amended, which is classified generally to subchapter VI (§1693 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Amendments
 
@@ -86,7 +86,7 @@ Subsecs. (d), (e). Pub. L. 99–576, §504(1), redesignated former subsecs. (c) 
 
 1978—Subsec. (d). Pub. L. 95–479 added subsec. (d).
 
-1976—Subsec. (a). Pub. L. 94–502 inserted provision which prohibits, as an assignment, a payee of an educational assistance allowance from designating an attorney-in-fact's address as the payee's address for thepurpose of receiving checks and benefits where the attorney-in-fact has also been given authority to negotiate the checks and benefits.
+1976—Subsec. (a). Pub. L. 94–502 inserted provision which prohibits, as an assignment, a payee of an educational assistance allowance from designating an attorney-in-fact's address as the payee's address for the purpose of receiving checks and benefits where the attorney-in-fact has also been given authority to negotiate the checks and benefits.
 
 #### Effective Date of 1991 Amendment
 
@@ -111,8 +111,4 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Undue Hardship Cases
 
 Pub. L. 95–202, title III, §305(c), Nov. 23, 1977, 91 Stat. 1444, provided that Administrator could provide equitable relief to educational institutions and accredited correspondence schools which were in possession of a veteran's or eligible person's benefit check payable to the veteran or person and mailed to the institution or school for certain courses or lessons completed by the veteran or person at the institution or school before certain dates in 1977 and which were holding a power of attorney executed by the veteran or person before Dec. 1, 1976, authorizing negotiation of the check.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1908 of this title; title 26 section 140; title 42 sections 417, 659.
 

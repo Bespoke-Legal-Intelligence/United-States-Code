@@ -24,7 +24,7 @@ Any agreement entered into under subsection (a) of this section shall not requir
 
 &emsp;(C) when an individual first becomes a Member, the request shall be effective on the day such individual takes the oath of office as a Member, if the individual makes the request at such time.
 
-(2) A Member or employee may change the State designated by such Member or employee for purposes of having withholdings made, and may request that the withholdings be remitted in accordance with such change. A Member or employee also may revoke any request of such Member or employee for withholding. Any change in the State designated or revocation is effective on the first day of the month in which the request or the revocation is processed by the Chief Administrative Officer, but in no event later than on the first day of the first month beginning after the day on which such request or revocation is received by the Chief Administrative Officer.
+(2) A Member or employee may change the State designated by such Member or employee for purposes of having withholdings made, and may request that the withholdings be remitted in accordance with such change. A Member or employee also may revoke any request of such Member or employee for withholding. Any change in the State designated or revocation is effective on the first day of the month in which the request or the revocation is processed by theChief Administrative Officer, but in no event later than on the first day of the first month beginning after the day on which such request or revocation is received by the Chief Administrative Officer.
 
 #### (e) Provisions as not imposing duty, burden, requirement or penalty on United States, House, or any officer or employee of United States; effect of filing paper, form, or document with Chief Administrative Officer
 
@@ -38,7 +38,7 @@ Section is based on section 1 of House Resolution No. 732, Ninety-fourth Congres
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–186, §204(4)(B), substituted “provide that the Chief Administrative Officer shall withhold” for “provide that—
+1996—Subsec. (a). Pub. L. 104–186, §204(4)(B), substituted “provide that the Chief Administrative Officer shall withhold” for “provide that—
 
 &emsp;“(1) the Clerk, in the case of employees whose compensation is disbursed by the Clerk; and
 
@@ -46,7 +46,7 @@ Section is based on section 1 of House Resolution No. 732, Ninety-fourth Congres
 
 > shall withhold”.
 
-Pub. L. 104–186, §204(4)(A), substituted “Chief Administrative Officer of the House of Representatives shall,in accordance with” for “Clerk of the House of Representatives (hereinafter in this section and section 60e–1b of this title referred to as the ‘Clerk’) and the Sergeant at Arms of the House of Representatives (hereinafter in this section and section 60e–1b of this title referred to as the ‘Sergeant at Arms’) shall, in accordance with the provisions of”.
+Pub. L. 104–186, §204(4)(A), substituted “Chief Administrative Officer of the House of Representatives shall, in accordance with” for “Clerk of the House of Representatives (hereinafter in this section and section 60e–1b of this title referred to as the ‘Clerk’) and the Sergeant at Arms of the House of Representatives (hereinafter in this section and section 60e–1b of this title referred to as the ‘Sergeant at Arms’) shall, in accordance with the provisions of”.
 
 Subsec. (b). Pub. L. 104–186, §204(4)(C), substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms”.
 
@@ -55,8 +55,4 @@ Subsec. (c)(1). Pub. L. 104–186, §204(4)(D), substituted “Chief Administrat
 Subsec. (c)(2). Pub. L. 104–186, §204(4)(E), substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms, as the case may be,” in two places.
 
 Subsecs. (d), (e). Pub. L. 104–186, §204(4)(F), substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms” wherever appearing.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 60e–1b of this title.
 

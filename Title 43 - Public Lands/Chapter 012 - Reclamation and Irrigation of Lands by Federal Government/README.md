@@ -193,6 +193,14 @@
 | (a) | Authorization. |
 | (b) | Cost share. |
 | (c) | Limitation. |
+| 390h–17a. | Williamson County, Texas, water recycling and reuse project. |
+| (a) | Authorization. |
+| (b) | Cost share. |
+| (c) | Limitation. |
+| 390h–18. | Irvine basin groundwater and surface water improvement projects. |
+| (a) | Authorization. |
+| (b) | Cost share. |
+| (c) | Limitation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -518,7 +526,7 @@
 | [498\.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000498%20-%20Transfer%20of%20management%20and%20operation%20of%20works%20to%20water%20users%20generally.md) | Transfer of management and operation of works to water users generally. |
 | [499\.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000499%20-%20Discretionary%20power%20to%20transfer%20management.md) | Discretionary power to transfer management. |
 | [499a.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000499a%20-%20Transfer%20of%20title%20to%20movable%20property%3B%20use%20of%20appropriations.md) | Transfer of title to movable property; use of appropriations. |
-| [499b.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000499b%20-%20Transfer%20to%20municipal%20corporations%20or%20other%20organizations%20of%20care%2C%20operation%2C%20and%20maintenance%20of%20works%20supplying%20water%20for%20municipal%E2%80%A6.md) | Transfer to municipal corporations or other organizations of care, operation, and maintenance of work supplying water for municipal, domestic, or industrial use. |
+| [499b.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000499b%20-%20Transfer%20to%20municipal%20corporations%20or%20other%20organizations%20of%20care%2C%20operation%2C%20and%20maintenance%20of%20works%20supplying%20water%20for%20municipal%E2%80%A6.md) | Transfer to municipal corporations or other organizations of care, operation, and maintenance of works supplying water for municipal, domestic, or industrial use. |
 | [500\.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000500%20-%20Duty%20of%20association%20or%20district%20to%20take%20over%20management.md) | Duty of association or district to take over management. |
 | [501\.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000501%20-%20Disposition%20of%20profits%20of%20project%20taken%20over%20by%20water%20users.md) | Disposition of profits of project taken over by water users. |
 | [502\.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000502%20-%20Emergency%20fund%20to%20assure%20continuous%20operation%20of%20projects%20and%20project%20facilities%20governed%20by%20Federal%20reclamation%20law.md) | Emergency fund to assure continuous operation of projects and project facilities governed by Federal reclamation law. |
@@ -537,9 +545,15 @@
 | [508\.](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/%C2%A7%2000508%20-%20Costs%20incurred%20in%20the%20modification%20of%20structures.md) | Costs incurred in the modification of structures. |
 | (a) | Costs resulting from age and normal deterioration or lack of maintenance of structures. |
 | (b) | Nonreimbursable costs resulting from new hydrologic or seismic data or changes in criteria. |
-| (c) | Reimbursable costs resulting from new hydrologic or seismic data or changes in criteria. |
+| (c) | Reimbursement of certain modification costs. |
 | (d) | Contracts for return of costs. |
+| (e) | Cost containment; modification status. |
 | [509\.](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/%C2%A7%2000509%20-%20Authorization%20of%20appropriations%3B%20report%20to%20Congress.md) | Authorization of appropriations; report to Congress. |
+| [509a.](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/%C2%A7%2000509a%20-%20Project%20beneficiaries.md) | Project beneficiaries. |
+| (a) | Notice of modification. |
+| (b) | Consultation. |
+| (c) | Alternatives. |
+| (d) | Waiver. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -845,7 +859,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XLIII—SAVERY-POTHOOK PROJECT, COLORADO-WYOMING; BOSTWICK PARK AND FRUITLAND MESA PROJECTS, COLORADO
+#### SUBCHAPTER XLIII—SAVERY-POT HOOK PROJECT, COLORADO-WYOMING; BOSTWICK PARK AND FRUITLAND MESA PROJECTS, COLORADO
 
 |  |
 | :--- |

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the succeeding subsections of this section and section 300gg–44 of this title, eachhealth insurance issuer that offers health insurance coverage (as defined in section 300gg–91(b)(1) of this title) in the individual market in a State may not, with respect to an eligible individual (as defined in subsection (b) of this section) desiring to enroll in individual health insurance coverage—
+&emsp;Subject to the succeeding subsections of this section and section 300gg–44 of this title, each health insurance issuer that offers health insurance coverage (as defined in section 300gg–91(b)(1) of this title) in the individual market in a State may not, with respect to an eligible individual (as defined in subsection (b) of this section) desiring to enroll in individual health insurance coverage—
 
 &emsp;&emsp;(A) decline to offer such coverage to, or deny enrollment of, such individual; or
 
@@ -141,10 +141,6 @@ In general.—Except as provided in this subsection, part B of title XXVII of th
 “(2)
 
 Application of certification rules.—The provisions of section 102(d)(2) \[102(c)(2)\] of this Act \[set out as a note under section 300gg of this title\] shall apply to section 2743 of the Public Health Service Act \[section 300gg–43 of this title\] in the same manner as it applies to section 2701(e) of such Act \[section 300gg(e) of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300gg–44 of this title.
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
 

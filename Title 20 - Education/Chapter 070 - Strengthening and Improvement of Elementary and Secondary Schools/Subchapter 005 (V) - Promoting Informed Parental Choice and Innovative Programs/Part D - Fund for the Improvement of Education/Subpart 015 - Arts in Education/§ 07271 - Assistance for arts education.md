@@ -42,7 +42,7 @@ Assistance made available under this subpart may be used for any of the followin
 
 &emsp;(5) The development of model inservice professional development programs for arts educators and other instructional staff.
 
-&emsp;(6) Supporting collaborative activities with Federal agencies or institutions involved in arts education, arts educators, and organizations representing the arts, including State and local arts agencies involved in arts education.
+&emsp;(6) Supporting collaborative activities with Federal agencies or institutions involved inarts education, arts educators, and organizations representing the arts, including State and local arts agencies involved in arts education.
 
 &emsp;(7) Supporting model projects and programs in the performing arts for children and youth through arrangements made with the John F. Kennedy Center for the Performing Arts.
 

@@ -70,7 +70,3 @@ Pub. L. 99–198, title XI, §1163, Dec. 23, 1985, 99 Stat. 1499, as amended by 
 
 \[Amendment of section 1163 of Pub. L. 99–198, set out above, by Pub. L. 100–435 effective and implemented on Oct. 1, 1988, see section 701 of Pub. L. 100–435, set out as a note under section 2012 of this title.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1736, 1736f–1, 1736<i>o</i> of this title.
-

@@ -12,7 +12,7 @@ During the 5-year period beginning on October 28, 2003, the Comptroller General 
 
 #### (b) Report to Congress
 
-Before the end of the 5-year period referred to in subsection (a), the Comptroller General shall submit a report to the Congress containing thefindings and conclusions of the Comptroller General in connection with the evaluation conducted pursuant to subsection (a), together with such recommendations for legislative and administrative action as the Comptroller General may determine to be appropriate.
+Before the end of the 5-year period referred to in subsection (a), the Comptroller General shall submit a report to the Congress containing the findings and conclusions of the Comptroller General in connection with the evaluation conducted pursuant to subsection (a), together with such recommendations for legislative and administrative action as the Comptroller General may determine to be appropriate.
 
 (Pub. L. 108–100, §18, Oct. 28, 2003, 117 Stat. 1191.)
 

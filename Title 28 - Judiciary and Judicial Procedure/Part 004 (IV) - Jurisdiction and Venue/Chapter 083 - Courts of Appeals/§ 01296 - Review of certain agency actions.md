@@ -24,7 +24,3 @@ A prior section 1296, added Pub. L. 97–164, title I, §127(a), Apr. 2, 1982, 9
 
 Section 3(d) of Pub. L. 104–331 provided that: “The amendments made by this section \[enacting this section and sections 1413 and 3901 to 3908 of this title and amending sections 1346 and 2402 of this title\] shall take effect on October 1, 1997.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3902, 3903, 3905 of this title; title 3 sections 425, 435, 451, 454 of this title.
-

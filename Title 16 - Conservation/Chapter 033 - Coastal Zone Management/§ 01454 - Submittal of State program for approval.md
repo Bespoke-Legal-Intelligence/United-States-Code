@@ -36,7 +36,3 @@ Subsecs. (h), (i). Pub. L. 94–370 added subsec. (h) which incorporated provisi
 
 Section 2(b)(3) of Pub. L. 104–150 provided that: “This subsection \[amending this section and section 1456a of this title\] shall take effect on October 1, 1999.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1456a, 1460 of this title; title 43 sections 1331, 1344.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—BILLING AND COLLECTION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 5711 of this title; title 47 section 228.
-
 
 ---
 

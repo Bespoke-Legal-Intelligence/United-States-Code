@@ -42,7 +42,7 @@ The master, person in charge of a vehicle, or aircraft pilot shall present, or t
 
 #### (e) Prohibition on departures and discharge
 
-Unless otherwise authorized by law, a vessel, aircraft or vehicle after arriving in the United States or Virgin Islands may, but only in accordance with regulations prescribed by the Secretary—
+Unless otherwise authorized by law, a vessel, aircraft or vehicle after arriving in the UnitedStates or Virgin Islands may, but only in accordance with regulations prescribed by the Secretary—
 
 &emsp;(1) depart from the port, place, or airport of arrival; or
 
@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 103–182, §652(3), amended subsec. (e) generally. Prior t
 
 > only in accordance with regulations prescribed by the Secretary.”
 
-1986—Pub. L. 99–570 amended section generally. Prior to amendment, section read as follows: “Within twenty-four hours after the arrival of any vessel from a foreign port or place, or of a foreign vessel from a domestic port, or of a vessel of the United States carrying bonded merchandise, or foreign merchandise for whichentry has not been made, at any port or place within the United States at which such vessel shall come to, the master shall, unless otherwise provided by law, report the arrival of the vessel at the nearest customhouse, under such regulations as the Commissioner of Customs may prescribe.”
+1986—Pub. L. 99–570 amended section generally. Prior to amendment, section read as follows: “Within twenty-four hours after the arrival of any vessel from a foreign port or place, or of a foreign vessel from a domestic port, or of a vessel of the United States carrying bonded merchandise, or foreign merchandise for which entry has not been made, at any port or place within the United States at which such vessel shall come to, the master shall, unless otherwise provided by law, report the arrival of the vessel at the nearest customhouse, under such regulations as the Commissioner of Customs may prescribe.”
 
 #### Effective Date of 2000 Amendment
 
@@ -83,8 +83,4 @@ Amendment by Pub. L. 106–476, except as otherwise provided, applicable with re
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1436, 1441, 1448, 1459 of this title; title 46 section 12109.
 

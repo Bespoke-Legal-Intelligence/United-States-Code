@@ -24,7 +24,3 @@ Pub. L. 106–102, title V, §510, Nov. 12, 1999, 113 Stat. 1445, provided that:
 
 &emsp;“(2) that sections 504 \[15 U.S.C. 6804\] and 506 \[enacting section 6806 of this title and amending section 1681s of this title\] shall be effective upon enactment \[Nov. 12, 1999\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6803, 6805 of this title.
-

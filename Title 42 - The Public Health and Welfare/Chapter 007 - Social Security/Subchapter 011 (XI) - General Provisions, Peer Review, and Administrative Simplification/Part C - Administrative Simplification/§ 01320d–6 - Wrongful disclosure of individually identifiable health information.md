@@ -24,7 +24,3 @@ A person described in subsection (a) of this section shall—
 
 (Aug. 14, 1935, ch. 531, title XI, §1177, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2029.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1320d–5 of this title.
-

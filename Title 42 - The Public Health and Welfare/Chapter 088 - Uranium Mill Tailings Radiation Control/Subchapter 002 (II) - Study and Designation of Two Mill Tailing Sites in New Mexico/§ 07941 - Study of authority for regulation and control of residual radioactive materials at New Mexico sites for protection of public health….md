@@ -10,7 +10,3 @@ The Atomic Energy Act of 1954, referred to in text, is act Aug. 1, 1946, ch. 724
 
 Title II of this Act, referred to in text, is title II (§§201–209) of Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3033, as amended, which enacted sections 2022, 2113, 2114 of this title, amended sections 2014, 2021, 2111, and 2201 of this title, and enacted provisions set out as notes under sections 2014, 2021, and 2113 of this title. For complete classification of title II to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7942 of this title.
-

@@ -14,7 +14,7 @@ An eligible entity that receives a grant under subsection (a) of this section, m
 
 &emsp;(1) train public health personnel;
 
-&emsp;(2) develop, enhance, coordinate, or improve participation in an electronic network by which disease detection and public health related information can be rapidly shared amongnational, regional, State, and local public health agencies and health care providers;
+&emsp;(2) develop, enhance, coordinate, or improve participation in an electronic network by which disease detection and public health related information can be rapidly shared among national, regional, State, and local public health agencies and health care providers;
 
 &emsp;(3) develop a plan for responding to public health emergencies, including significant outbreaks of infectious diseases or bioterrorism attacks, which is coordinated with the capacities of applicable national, State, and local health agencies and health care providers; and
 
@@ -37,8 +37,4 @@ Funds appropriated under this section shall be used to supplement and not suppla
 #### Change of Name
 
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 247d–3a, 247d–7c of this title.
 

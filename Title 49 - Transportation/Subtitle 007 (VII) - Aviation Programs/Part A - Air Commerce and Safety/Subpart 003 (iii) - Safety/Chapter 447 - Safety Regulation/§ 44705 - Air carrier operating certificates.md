@@ -32,7 +32,3 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 In this section, the word “Administrator” in section 604(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 778) is retained on authority of 49:106(g). Before clause (1), the words “may file with the Secretary of Transportation an application for an air carrier operating certificate” and “the requirements of” are omitted as surplus. The word “rules” is omitted as being synonymous with “regulations”. In clause (1), the words “conditions, and limitations . . . reasonably” are omitted as surplus. In clause (2), the word “places” is substituted for “points” for consistency in the revised title. The words “under an air carrier operating certificate” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44107, 44701, 44711, 45302, 46310, 47531 of this title.
-

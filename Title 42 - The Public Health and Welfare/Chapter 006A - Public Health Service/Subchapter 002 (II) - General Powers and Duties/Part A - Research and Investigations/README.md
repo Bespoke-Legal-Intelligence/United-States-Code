@@ -25,3 +25,4 @@ Part A—Research and Investigations
 - [&sect; 00242q&#8211;3 - Reports](%C2%A7%2000242q%E2%80%933%20-%20Reports.md)
 - [&sect; 00242q&#8211;4 - Definitions](%C2%A7%2000242q%E2%80%934%20-%20Definitions.md)
 - [&sect; 00242q&#8211;5 - Authorization of appropriations](%C2%A7%2000242q%E2%80%935%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00242r - Improvement and publication of data on food-related allergic responses](%C2%A7%2000242r%20-%20Improvement%20and%20publication%20of%20data%20on%20food-related%20allergic%20responses.md)

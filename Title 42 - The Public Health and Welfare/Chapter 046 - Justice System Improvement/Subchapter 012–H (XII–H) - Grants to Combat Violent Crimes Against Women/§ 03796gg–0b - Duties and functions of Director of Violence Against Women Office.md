@@ -46,7 +46,3 @@ A prior section 2004 of Pub. L. 90–351 was renumbered section 2009 and is clas
 
 Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–273, set out as a note under section 3796gg–0 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3796gg–0 of this title.
-

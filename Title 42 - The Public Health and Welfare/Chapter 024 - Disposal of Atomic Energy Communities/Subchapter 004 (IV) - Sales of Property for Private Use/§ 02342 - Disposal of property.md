@@ -16,7 +16,7 @@ The Commission may, but shall not be required to, dispose of any other real prop
 
 #### (c) Terms and conditions; impairment of rights
 
-Such property shall be disposed of on such terms and conditions, consistent with this subchapter, as the Commission shall prescribe in the national interest, and without regard to any preferences or priorities whatever except those provided for pursuant to this chapter. Transfers by the Commission of such property shall not impair rights under existing leases and covenants, including any purchase rights therein conferred.
+Such property shall be disposed of on such terms and conditions, consistent with this subchapter, as the Commission shall prescribe inthe national interest, and without regard to any preferences or priorities whatever except those provided for pursuant to this chapter. Transfers by the Commission of such property shall not impair rights under existing leases and covenants, including any purchase rights therein conferred.
 
 (Aug. 4, 1955, ch. 543, ch. 5, §52, 69 Stat. 476; Pub. L. 87–719, §9, Sept. 28, 1962, 76 Stat. 665.)
 
@@ -27,8 +27,4 @@ Such property shall be disposed of on such terms and conditions, consistent with
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2326, 2343, 2345 of this title.
 

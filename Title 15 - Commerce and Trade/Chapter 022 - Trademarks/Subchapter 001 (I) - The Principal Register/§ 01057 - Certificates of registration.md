@@ -6,7 +6,7 @@ Certificates of registration of marks registered upon the principal register sha
 
 #### (b) Certificate as prima facie evidence
 
-A certificate of registration of a mark upon the principal register provided by this chapter shall be prima facie evidence of the validity of the registered mark and of the registration of the mark, of the registrant's ownership of the mark, and of the registrant's exclusive right to use the registered mark in commerce on or in connection with the goods or services specified in the certificate, subject to any conditions or limitations stated in the certificate.
+A certificate of registration of a mark upon the principal register provided by this chapter shall be prima facie evidence of the validity of the registered mark and of the registration of the mark, of the registrant's ownership of the mark, and of the registrant's exclusive right to use the registered mark in commerce on or inconnection with the goods or services specified in the certificate, subject to any conditions or limitations stated in the certificate.
 
 #### (c) Application to register mark considered constructive use
 
@@ -32,7 +32,7 @@ Copies of any records, books, papers, or drawings belonging to the Patent and Tr
 
 #### (g) Correction of Patent and Trademark Office mistake
 
-Whenever a material mistake in a registration, incurred through the fault of the Patent and Trademark Office, is clearly disclosed by the records of the Office a certificate stating the fact and nature of such mistake, shall be issued without charge and recorded and a printed copy thereof shall be attached to each printed copy of the registration certificate and such correctedregistration shall thereafter have the same effect as if the same had been originally issued in such corrected form, or in the discretion of the Director a new certificate of registration may be issued without charge. All certificates of correction heretofore issued in accordance with the rules of the Patent and Trademark Office and the registrations to which they are attached shall have the same force and effect as if such certificates and their issue had been specifically authorized by statute.
+Whenever a material mistake in a registration, incurred through the fault of the Patent and Trademark Office, is clearly disclosed by the records of the Office a certificate stating the fact and nature of such mistake, shall be issued without charge and recorded and a printed copy thereof shall be attached to each printed copy of the registration certificate and such corrected registration shall thereafter have the same effect as if the same had been originally issued in such corrected form, or in the discretion of the Director a new certificate of registration may be issued without charge. All certificates of correction heretofore issued in accordance with the rules of the Patent and Trademark Office and the registrations to which they are attached shall have the same force and effect as if such certificates and their issue had been specifically authorized by statute.
 
 #### (h) Correction of applicant's mistake
 
@@ -103,8 +103,4 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1068, 1071, 1092, 1094, 1115, 1141f of this title.
 

@@ -14,7 +14,3 @@ Transportation Allowances.—Under regulations prescribed by the Director of the
 
 1998—Pub. L. 105–315 amended section generally, substituting provisions relating to compensation of arbitrators and neutrals for provisions relating to district courts that may authorize arbitration.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 651, 652 of this title.
-

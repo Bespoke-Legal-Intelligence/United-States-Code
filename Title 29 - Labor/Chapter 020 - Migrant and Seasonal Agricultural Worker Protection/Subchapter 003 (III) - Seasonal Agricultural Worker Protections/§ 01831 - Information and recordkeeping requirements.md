@@ -70,9 +70,5 @@ The information required to be disclosed by subsections (a) and (b) of this sect
 
 Amendment by Pub. L. 104–49 effective upon expiration of 90 days after the date final regulations are issued by Secretary of Labor to implement such amendment, see section 4(c) of Pub. L. 104–49, set out as a note under section 1821 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1843 of this title.
-
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

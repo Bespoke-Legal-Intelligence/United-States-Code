@@ -14,3 +14,4 @@ This subchapter was enacted as title XXXVI of div. C of the Floyd D. Spence Nati
 - [Part B - Program Administration](Part%20B%20-%20Program%20Administration/README.md)
 - [Part C - Treatment, Coordination, and Forfeiture of Compensation and Benefits](Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/README.md)
 - [Part D - Assistance in State Workers&#8217; Compensation Proceedings](Part%20D%20-%20Assistance%20in%20State%20Workers%E2%80%99%20Compensation%20Proceedings/README.md)
+- [Part E - Contractor Employee Compensation](Part%20E%20-%20Contractor%20Employee%20Compensation/README.md)

@@ -62,7 +62,3 @@ There are authorized to be appropriated to the Administrator of the Environmenta
 
 (Pub. L. 108–153, §6, Dec. 3, 2003, 117 Stat. 1929.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7507 of this title.
-

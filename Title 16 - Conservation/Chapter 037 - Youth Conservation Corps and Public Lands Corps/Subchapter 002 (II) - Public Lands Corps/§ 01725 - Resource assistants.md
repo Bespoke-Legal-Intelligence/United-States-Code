@@ -16,7 +16,3 @@ The civil service laws, referred to in subsec. (a), are set forth in Title 5, Go
 
 The classification laws, referred to in subsec. (a), are classified to chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1722 of this title.
-

@@ -38,7 +38,7 @@ In general.—Furniture and furnishings passing to the control of the Administra
 
 &emsp;&emsp;(B)
 
-Exception for trust fund.—If furniture and furnishings that were purchased from a trust fund pass to the control of theAdministrator under this section, the Administrator shall reimburse the trust fund for the fair market value of the furniture and furnishings.
+Exception for trust fund.—If furniture and furnishings that were purchased from a trust fund pass to the control of the Administrator under this section, the Administrator shall reimburse the trust fund for the fair market value of the furniture and furnishings.
 
 &emsp;(3)
 
@@ -63,8 +63,4 @@ Historical and Revision Notes
 June 30, 1949, ch. 288, title II, §210(g), as added Sept. 1, 1954, ch. 1211, §3, 68 Stat. 1129.
 
 In subsection (f)(2), the reimbursement requirement in 40:490(g) (last sentence) is set out as an exception to a general “without reimbursement” rule in 40:490(g) (3d sentence) to harmonize an inconsistency in the source law.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3712a.
 

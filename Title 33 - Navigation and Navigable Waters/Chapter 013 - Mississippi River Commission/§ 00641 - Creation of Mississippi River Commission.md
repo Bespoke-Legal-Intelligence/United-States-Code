@@ -16,7 +16,3 @@ Section 7 of act June 28, 1879, omitted as temporary and executed, provided for 
 
 The Missouri River Commission was created by act July 5, 1884, ch. 229, §1, 23 Stat. 144, and repealed by act July 13, 1902, ch. 1079, §1, 32 Stat. 367.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 642, 647, 653, 653a of this title.
-

@@ -140,7 +140,3 @@ Limitations.—
 
 &emsp;“(2) Nothing in this section shall be construed to prohibit the Secretary of Transportation from issuing or enforcing regulations for the international transportation of hazardous materials.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5102, 5117, 5120, 5125, 31101, 31132, 31136, 31301, 31310, 40113 of this title; title 8 section 1288; title 46 section 2101.
-

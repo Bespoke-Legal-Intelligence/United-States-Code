@@ -34,7 +34,7 @@ Regulations under subsection (a)(4) of this section shall—
 
 #### (c) Exemptions
 
-(1) The Administrator may, by rule, after notice and opportunity for public hearing, exempt any major stationary source from the requirement of subsection (b)(2)(A) of this section, upon his determination that such source does not or will not, by itself or in combination with othersources, emit any air pollutant which may reasonably be anticipated to cause or contribute to a significant impairment of visibility in any mandatory class I Federal area.
+(1) The Administrator may, by rule, after notice and opportunity for public hearing, exempt any major stationary source from the requirement of subsection (b)(2)(A) of this section, upon his determination that such source does not or will not, by itself or in combination with other sources, emit any air pollutant which may reasonably be anticipated to cause or contribute to a significant impairment of visibility in any mandatory class I Federal area.
 
 (2) Paragraph (1) of this subsection shall not be applicable to any fossil-fuel fired powerplant with total design capacity of 750 megawatts or more, unless the owner or operator of any such plant demonstrates to the satisfaction of the Administrator that such powerplant is located at such distance from all areas listed by the Administrator under subsection (a)(2) of this section that such powerplant does not or will not, by itself or in combination with other sources, emit any air pollutant which may reasonably be anticipated to cause or contribute to significant impairment of visibility in any such area.
 
@@ -58,7 +58,7 @@ For the purpose of this section—
 
 &emsp;(1) in determining reasonable progress there shall be taken into consideration the costs of compliance, the time necessary for compliance, and the energy and nonair quality environmental impacts of compliance, and the remaining useful life of any existing source subject to such requirements;
 
-&emsp;(2) in determining best available retrofit technology the State (or the Administrator in determining emission limitations which reflect such technology) shall take into consideration the costs of compliance, the energy and nonair quality environmental impacts of compliance, any existing pollution control technology in use at the source, the remaining useful life of the source, and the degree of improvement in visibility which may reasonably be anticipated to result from the use of such technology;
+&emsp;(2) in determining best available retrofit technology the State (or the Administrator in determining emission limitations which reflect such technology) shall take into consideration the costs of compliance, the energy and nonair quality environmental impacts of compliance, any existing pollution controltechnology in use at the source, the remaining useful life of the source, and the degree of improvement in visibility which may reasonably be anticipated to result from the use of such technology;
 
 &emsp;(3) the term “manmade air pollution” means air pollution which results directly or indirectly from human activities;
 
@@ -75,8 +75,4 @@ For the purpose of this section—
 #### Effective Date
 
 Subpart effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7492, 7604 of this title.
 

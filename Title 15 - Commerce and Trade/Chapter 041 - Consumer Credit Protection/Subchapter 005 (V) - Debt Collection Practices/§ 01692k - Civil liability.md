@@ -34,7 +34,3 @@ No provision of this section imposing any liability shall apply to any act done 
 
 (Pub. L. 90–321, title VIII, §813, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1692j of this title.
-

@@ -18,7 +18,3 @@ All fines and penalties imposed by a court pursuant to this chapter shall be pai
 
 (June 25, 1938, ch. 680, §9, 52 Stat. 1103.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 354 of this title.
-

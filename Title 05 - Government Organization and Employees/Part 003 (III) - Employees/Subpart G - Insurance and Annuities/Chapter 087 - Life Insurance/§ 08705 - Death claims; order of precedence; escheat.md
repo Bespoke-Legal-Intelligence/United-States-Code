@@ -1,6 +1,6 @@
 ### §8705. Death claims; order of precedence; escheat
 
-(a) Except as provided in subsection (e), the amount of group life insurance and group accidental death insurance in force on an employee at the date of his death shall be paid, on the establishment of a valid claim, to the person or persons surviving at the date of his death, in the following order of precedence:
+(a) Except as provided in subsection (e), the amount of group life insurance and group accidental death insurance in force on an employeeat the date of his death shall be paid, on the establishment of a valid claim, to the person or persons surviving at the date of his death, in the following order of precedence:
 
 &emsp;First, to the beneficiary or beneficiaries designated by the employee in a signed and witnessed writing received before death in the employing office or, if insured because of receipt of annuity or of benefits under subchapter I of chapter 81 of this title as provided by section 8706(b) of this title, in the Office of Personnel Management. For this purpose, a designation, change, or cancellation of beneficiary in a will or other document not so executed and filed has no force or effect.
 
@@ -18,7 +18,7 @@
 
 (c) If, within 2 years after the death of the employee, no claim for payment has been filed by a person entitled under the order of precedence named by subsection (a) of this section, and neither the Office nor the administrative office established by the company concerned pursuant to section 8709(b) of this title has received notice that such a claim will be made, payment may be made to the claimant who in the judgment of the Office is equitably entitled thereto, and the payment bars recovery by any other person.
 
-(d) If, within 4 years after the death of the employee, payment has not been made under this section and no claim for payment by a person entitled under this section is pending, theamount payable escheats to the credit of the Employees’ Life Insurance Fund.
+(d) If, within 4 years after the death of the employee, payment has not been made under this section and no claim for payment by a person entitled under this section is pending, the amount payable escheats to the credit of the Employees’ Life Insurance Fund.
 
 (e)(1) Any amount which would otherwise be paid to a person determined under the order of precedence named by subsection (a) shall be paid (in whole or in part) by the Office to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation.
 
@@ -93,8 +93,4 @@ Subsec. (c). Pub. L. 95–454 substituted “Office” for “Commission” wher
 Amendment by Pub. L. 95–583 effective Nov. 2, 1978, see section 3 of Pub. L. 95–583, set out as a note under section 8706 of this title.
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8714a, 8714b, 8714c of this title.
 

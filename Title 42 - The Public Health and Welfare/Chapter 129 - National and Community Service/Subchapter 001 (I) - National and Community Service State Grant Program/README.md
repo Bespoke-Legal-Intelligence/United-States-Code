@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—NATIONAL AND COMMUNITY SERVICE STATE GRANT PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 12681 of this title; title 20 sections 1078, 1087vv.
-
 
 ---
 

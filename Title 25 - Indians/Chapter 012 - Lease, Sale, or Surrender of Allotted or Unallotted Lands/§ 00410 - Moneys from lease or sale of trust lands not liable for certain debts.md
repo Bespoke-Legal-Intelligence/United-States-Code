@@ -4,7 +4,3 @@ No money accruing from any lease or sale of lands held in trust by the United St
 
 (June 21, 1906, ch. 3504, 34 Stat. 327.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 955 of this title.
-

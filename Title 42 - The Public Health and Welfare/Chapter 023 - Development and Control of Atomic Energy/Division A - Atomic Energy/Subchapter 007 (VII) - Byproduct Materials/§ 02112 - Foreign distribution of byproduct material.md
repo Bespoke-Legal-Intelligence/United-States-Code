@@ -18,7 +18,3 @@ The Commission is authorized to license others to distribute byproduct material 
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2014, 2111, 2141, 2153, 2154, 2155, 2282 of this title.
-

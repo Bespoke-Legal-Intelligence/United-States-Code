@@ -22,7 +22,3 @@ The contract with each tribe negotiated pursuant to section 1198 of this title s
 
 Fort Randall Reservoir redesignated Lake Francis Case by Pub. L. 88–97, Aug. 15, 1963, 77 Stat. 124.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1200, 1200a, 1200b of this title.
-

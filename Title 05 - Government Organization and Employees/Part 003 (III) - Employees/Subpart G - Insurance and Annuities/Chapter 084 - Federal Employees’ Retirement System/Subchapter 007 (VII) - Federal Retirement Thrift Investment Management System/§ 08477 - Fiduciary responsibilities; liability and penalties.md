@@ -104,7 +104,7 @@
 
 &emsp;(iii) the Secretary of Labor affords an opportunity for a hearing and makes a determination on the record with respect to the respective requirements of clauses (i), (ii), and (iii) of subparagraph (C).
 
-(E) Notwithstanding subparagraph (D), the Secretary of Labor may determine that an exemption granted for any class of fiduciaries or transactions under section 408(a) of the Employee Retirement Income Security Act of 1974shall, upon publication of notice in the Federal Register under this subparagraph, constitute an exemption for purposes of the provisions of paragraph (2).
+(E) Notwithstanding subparagraph (D), the Secretary of Labor may determine that an exemption granted for any class of fiduciaries or transactions under section 408(a) of the Employee Retirement Income Security Act of 1974 shall, upon publication of notice in the Federal Register under this subparagraph, constitute an exemption for purposes of the provisions of paragraph (2).
 
 (d) This section does not prohibit any fiduciary from—
 
@@ -166,7 +166,7 @@
 
 (4)(A) In all civil actions under paragraph (3)(A), attorneys appointed by the Secretary may represent the Secretary (except as provided in section 518(a) of title 28), however all such litigation shall be subject to the direction and control of the Attorney General.
 
-(B) The Attorney General shall defend any civil action or proceeding brought in any court against any fiduciary referred to in paragraph (3)(C)(ii) (or the estate of such fiduciary) for any such injury. Any fiduciary against whom such a civil action or proceeding is brought shall deliver, within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such fiduciary (or an attested copy thereof) to the Executive Director of the Board, who shall promptly furnish copies of the pleading and process to the Attorney General and the United States Attorney for the district wherein the action or proceeding is brought.
+(B) The Attorney General shall defend any civil action or proceeding brought in any court against any fiduciary referred to in paragraph (3)(C)(ii) (or the estate of such fiduciary) for any such injury. Any fiduciary against whom such a civil action or proceeding is brought shall deliver, within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such fiduciary (or an attested copy thereof) to the Executive Director of the Board, who shall promptly furnish copies of the pleading and process tothe Attorney General and the United States Attorney for the district wherein the action or proceeding is brought.
 
 (C) Upon certification by the Attorney General that a fiduciary described in paragraph (3)(C)(ii) was acting in the scope of such fiduciary's duties or employment as a fiduciary at the time of the occurrence or omission out of which the action arose, any such civil action or proceeding commenced in a State court shall be—
 
@@ -291,8 +291,4 @@ Section 114(a) of Pub. L. 99–556 provided that:
 “(1) Subject to paragraph (2), until such time as final regulations under subparagraph (E) of section 8477(e)(1) of title 5, United States Code, become effective, a fiduciary (as defined by section 8477(a)(3) of title 5, United States Code) may, in accordance with procedures established by the Federal Retirement Thrift Investment Board, make any allocation of fiduciary responsibilities.
 
 “(2) The authority to make any allocation under section 8477(e)(1)(E) using the procedures referred to in paragraph (1), and any allocation so made using such procedures, shall expire not later than December 31, 1988.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8401, 8433, 8438, 8478a of this title.
 

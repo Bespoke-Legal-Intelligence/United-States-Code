@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established, as a unit of the National Park System in the State of Ohio, the Dayton Aviation Heritage National Historical Park (hereinafter in this subchapter referred to as the “park”).
+There is established, as a unit of the National Park System in the State of Ohio, the DaytonAviation Heritage National Historical Park (hereinafter in this subchapter referred to as the “park”).
 
 #### (b) Areas included
 
@@ -49,8 +49,4 @@ Section 2 of Pub. L. 102–419 provided that: “The purposes of this Act \[this
 &emsp;“(1) to establish a unit of the National Park System in Dayton, Ohio, consisting of certain lands and structures associated with Wilbur and Orville Wright and the early development of aviation; and
 
 &emsp;“(2) to create partnerships among Federal, State, and local governments and the private sector to preserve, enhance, and interpret for present and future generations the historic and cultural structures, districts, and artifacts in Dayton and the Miami Valley in the State of Ohio, which are associated with the Wright brothers, the invention and development of aviation, or the life and works of Paul Laurence Dunbar, and which, as a whole, represent a nationally significant resource.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410ww–1, 410ww–21 of this title.
 

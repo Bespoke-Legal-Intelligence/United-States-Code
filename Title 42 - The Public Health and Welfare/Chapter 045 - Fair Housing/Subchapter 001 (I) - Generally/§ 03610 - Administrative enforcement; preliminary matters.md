@@ -10,7 +10,7 @@
 
 (B) Upon the filing of such a complaint—
 
-&emsp;(i) the Secretary shall serve notice upon the aggrieved person acknowledging such filingand advising the aggrieved person of the time limits and choice of forums provided under this subchapter;
+&emsp;(i) the Secretary shall serve notice upon the aggrieved person acknowledging such filing and advising the aggrieved person of the time limits and choice of forums provided under this subchapter;
 
 &emsp;(ii) the Secretary shall, not later than 10 days after such filing or the identification of an additional respondent under paragraph (2), serve on the respondent a notice identifying the alleged discriminatory housing practice and advising such respondent of the procedural rights and obligations of respondents under this subchapter, together with a copy of the original complaint;
 
@@ -143,8 +143,4 @@ A prior section 3610, Pub. L. 90–284, title VIII, §810, Apr. 11, 1968, 82 Sta
 #### Effective Date
 
 Section effective on 180th day beginning after Sept. 13, 1988, see section 13(a) of Pub. L. 100–430, set out as an Effective Date of 1988 Amendment note under section 3601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3602, 3604, 3608, 3613, 3614, 3616a of this title.
 

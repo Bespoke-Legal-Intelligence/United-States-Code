@@ -34,7 +34,7 @@
 
 &emsp;&emsp;If the plan or coverage includes an annual limit on substantially all medical and surgical benefits (in this paragraph referred to as the “applicable annual limit”), the plan or coverage shall either—
 
-&emsp;&emsp;&emsp;(i) apply the applicable annual limit both to medical and surgical benefits to which it otherwise would apply and to mental health benefits and not distinguish in the application of such limit betweensuch medical and surgical benefits and mental health benefits; or
+&emsp;&emsp;&emsp;(i) apply the applicable annual limit both to medical and surgical benefits to which it otherwise would apply and to mental health benefits and not distinguish in the application of such limit between such medical and surgical benefits and mental health benefits; or
 
 &emsp;&emsp;&emsp;(ii) not include any annual limit on mental health benefits that is less than the applicable annual limit.
 
@@ -86,15 +86,17 @@ For purposes of this section—
 
 #### (f) Sunset
 
-This section shall not apply to benefits for services furnished on or after December 31, 2004.
+This section shall not apply to benefits for services furnished after December 31, 2005.
 
-(July 1, 1944, ch. 373, title XXVII, §2705, as added Pub. L. 104–204, title VII, §703(a), Sept. 26, 1996, 110 Stat. 2947; amended Pub. L. 107–116, title VII, §701(b), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–313, §2(b), Dec. 2, 2002, 116 Stat. 2457; Pub. L. 108–197, §2(b), Dec. 19, 2003, 117 Stat. 2898.)
+(July 1, 1944, ch. 373, title XXVII, §2705, as added Pub. L. 104–204, title VII, §703(a), Sept. 26, 1996, 110 Stat. 2947; amended Pub. L. 107–116, title VII, §701(b), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–313, §2(b), Dec. 2, 2002, 116 Stat. 2457; Pub. L. 108–197, §2(b), Dec. 19, 2003, 117 Stat. 2898; Pub. L. 108–311, title III, §302(c), Oct. 4, 2004, 118 Stat. 1179.)
 
 #### Prior Provisions
 
 A prior section 2705 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238d of this title.
 
 #### Amendments
+
+2004—Subsec. (f). Pub. L. 108–311 substituted “after December 31, 2005” for “on or after December 31, 2004”.
 
 2003—Subsec. (f). Pub. L. 108–197 substituted “December 31, 2004” for “December 31, 2003”.
 

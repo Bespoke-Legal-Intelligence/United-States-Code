@@ -10,7 +10,3 @@ Based on Title 35, U.S.C., 1946 ed., §70, part (R.S. 4921, amended (1) Mar. 3, 
 
 This section is substantially the same as the corresponding provision in R.S. 4921; “in exceptional cases” has been added as expressing the intention of the present statute as shown by its legislative history and as interpreted by the courts.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 154, 157, 271, 273, 287, 296 of this title.
-

@@ -8,9 +8,9 @@
 
 &emsp;&emsp;(A) may enter into trade agreements with foreign countries before—
 
-&emsp;&emsp;&emsp;(i) June 1, 2005; or
+&emsp;&emsp;&emsp;(i) July 1, 2005; or
 
-&emsp;&emsp;&emsp;(ii) June 1, 2007, if trade authorities procedures are extended under subsection (c) of this section; and
+&emsp;&emsp;&emsp;(ii) July 1, 2007, if trade authorities procedures are extended under subsection (c) of this section; and
 
 &emsp;&emsp;(B) may, subject to paragraphs (2) and (3), proclaim—
 
@@ -88,9 +88,9 @@
 
 &emsp;(C) The President may enter into a trade agreement under this paragraph before—
 
-&emsp;&emsp;(i) June 1, 2005; or
+&emsp;&emsp;(i) July 1, 2005; or
 
-&emsp;&emsp;(ii) June 1, 2007, if trade authorities procedures are extended under subsection (c) of this section.
+&emsp;&emsp;(ii) July 1, 2007, if trade authorities procedures are extended under subsection (c) of this section.
 
 #### (2) Conditions
 
@@ -118,11 +118,11 @@
 
 &emsp;&emsp;&emsp;(i) the President requests such extension under paragraph (2); and
 
-&emsp;&emsp;&emsp;(ii) neither House of the Congress adopts an extension disapproval resolution under paragraph (5) before June 1, 2005.
+&emsp;&emsp;&emsp;(ii) neither House of the Congress adopts an extension disapproval resolution under paragraph (5) before July 1, 2005.
 
 #### (2) Report to Congress by the President
 
-&emsp;If the President is of the opinion that the trade authorities procedures should be extended to implementing bills described in paragraph (1)(B), the President shall submit to the Congress, not later than March 1, 2005, a written report that contains a request for such extension, together with—
+&emsp;If the President is of the opinion that the trade authorities procedures should be extended to implementing bills described in paragraph (1)(B), the President shall submit to the Congress, not later than April 1, 2005, a written report that contains a request for such extension, together with—
 
 &emsp;&emsp;(A) a description of all trade agreements that have been negotiated under subsection (b) of this section and the anticipated schedule for submitting such agreements to the Congress for approval;
 
@@ -134,7 +134,7 @@
 
 #### (A) Report by the Advisory Committee
 
-&emsp;&emsp;The President shall promptly inform the Advisory Committee for Trade Policy and Negotiations established under section 2155 of this title of the President's decision to submit a report to the Congress under paragraph (2). The Advisory Committee shall submit to the Congress as soon as practicable, but not later than May 1, 2005, a written report that contains—
+&emsp;&emsp;The President shall promptly inform the Advisory Committee for Trade Policy and Negotiations established under section 2155 of this title of the President's decision to submit a report to the Congress under paragraph (2). The Advisory Committee shall submit to the Congress as soon as practicable, but not later than June 1, 2005, a written report that contains—
 
 &emsp;&emsp;&emsp;(i) its views regarding the progress that has been made in negotiations to achieve the purposes, policies, priorities, and objectives of this chapter; and
 
@@ -142,7 +142,7 @@
 
 #### (B) Report by ITC
 
-&emsp;&emsp;The President shall promptly inform the International Trade Commission of the President's decision to submit a report to the Congress under paragraph (2). The International Trade Commission shall submit tothe Congress as soon as practicable, but not later than May 1, 2005, a written report that contains a review and analysis of the economic impact on the United States of all trade agreements implemented between August 6, 2002, and the date on which the President decides to seek an extension requested under paragraph (2).
+&emsp;&emsp;The President shall promptly inform the International Trade Commission of the President's decision to submit a report to the Congress under paragraph (2). The International Trade Commission shall submit tothe Congress as soon as practicable, but not later than June 1, 2005, a written report that contains a review and analysis of the economic impact on the United States of all trade agreements implemented between August 6, 2002, and the date on which the President decides to seek an extension requested under paragraph (2).
 
 #### (4) Status of reports
 
@@ -172,17 +172,25 @@
 
 In order to contribute to the continued economic expansion of the United States, the President shall commence negotiations covering tariff and nontariff barriers affecting any industry, product, or service sector, and expand existing sectoral agreements to countries that are not parties to those agreements, in cases where the President determines that such negotiations are feasible and timely and would benefit the United States. Such sectors include agriculture, commercial services, intellectual property rights, industrial and capital goods, government procurement, information technology products, environmental technology and services, medical equipment and services, civil aircraft, and infrastructure products. In so doing, the President shall take into account all of the principal negotiating objectives set forth in section 3802(b) of this title.
 
-(Pub. L. 107–210, div. B, title XXI, §2103, Aug. 6, 2002, 116 Stat. 1004.)
+(Pub. L. 107–210, div. B, title XXI, §2103, Aug. 6, 2002, 116 Stat. 1004; Pub. L. 108–429, title II, §2004(a)(17), Dec. 3, 2004, 118 Stat. 2591.)
 
 #### References in Text
 
 The Bipartisan Trade Promotion Authority Act of 2002, referred to in subsec. (c)(5)(A), is title XXI of Pub. L. 107–210, div. B, Aug. 6, 2002, 116 Stat. 993, which is classified principally to this chapter. Section 2103 of the Act is classified to this section. For complete classification of title XXI to the Code, see section 3801(a) of this title and Tables.
 
+#### Amendments
+
+2004—Subsec. (a)(1)(A). Pub. L. 108–429, §2004(a)(17)(A), substituted “July 1” for “June 1” in two places.
+
+Subsec. (b)(1)(C). Pub. L. 108–429, §2004(a)(17)(B), substituted “July 1” for “June 1” in two places.
+
+Subsec. (c)(1)(B)(ii). Pub. L. 108–429, §2004(a)(17)(C)(i), substituted “July 1” for “June 1”.
+
+Subsec. (c)(2). Pub. L. 108–429, §2004(a)(17)(C)(ii), substituted “April 1” for “March 1” in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 108–429, §2004(a)(17)(C)(iii), substituted “June 1” for “May 1” in two places.
+
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2151, 2152, 2153, 2154, 2155, 2212, 3802, 3804, 3805, 3806, 3810 of this title.
 

@@ -22,10 +22,6 @@ The Secretary and Department of Health, Education, and Welfare was redesignated 
 
 The Food and Drug Administration in the Department of Agriculture and its functions, except those functions relating to the administration of the Naval Stores Act, this chapter, were transferred to the Federal Security Agency by 1940 Reorg. Plan No. IV, §12, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 608c of this title.
-
 
 ---
 

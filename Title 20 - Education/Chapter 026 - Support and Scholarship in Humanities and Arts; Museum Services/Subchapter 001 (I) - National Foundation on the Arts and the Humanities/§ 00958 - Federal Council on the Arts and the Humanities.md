@@ -40,7 +40,7 @@ Subsec. (d). Pub. L. 101–512, §318 \[title I, §108(b)\], struck out subsec. 
 
 Subsec. (c)(1). Pub. L. 99–194, §109(2), substituted “Chairperson” for “Chairman” wherever appearing.
 
-Subsec. (d). Pub. L. 99–194, §109(3), added subsec. (d). Former subsec. (d), relating to a study and report tothe President and the Congress on artistic employment opportunities, was struck out.
+Subsec. (d). Pub. L. 99–194, §109(3), added subsec. (d). Former subsec. (d), relating to a study and report to the President and the Congress on artistic employment opportunities, was struck out.
 
 Subsec. (e). Pub. L. 99–194, §109(3), struck out subsec. (e) which provided for a study and report to the President and the Congress on arts and artifacts indemnification.
 
@@ -69,8 +69,4 @@ Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title I
 #### Effective Date of 1973 Amendment
 
 Amendment by Pub. L. 93–133 effective on and after July 1, 1973, see section 2(b) of Pub. L. 93–133, set out a a note under section 951 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 971 of this title.
 

@@ -8,7 +8,3 @@ There is authorized to be appropriated for fiscal years beginning after Septembe
 
 1996—Pub. L. 104–266, §2(b)(3), made technical amendment to reference in original act which appears in text as reference to section 390h–14 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390h, 390h–1, 390h–2, 390h–4, 390h–7, 390h–8, 390h–9, 390h–14 of this title.
-

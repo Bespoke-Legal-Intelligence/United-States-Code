@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Each guaranty agency shall, not later than 60 days after October 7, 1998, deposit all funds, securities, and other liquid assets contained in thereserve fund established pursuant to section 1072 of this title into a Federal Student Loan Reserve Fund (in this section and section 1072b of this title referred to as the “Federal Fund”), which shall be an account of a type selected by the agency, with the approval of the Secretary.
+Each guaranty agency shall, not later than 60 days after October 7, 1998, deposit all funds, securities, and other liquid assets contained in the reserve fund established pursuant to section 1072 of this title into a Federal Student Loan Reserve Fund (in this section and section 1072b of this title referred to as the “Federal Fund”), which shall be an account of a type selected by the agency, with the approval of the Secretary.
 
 #### (b) Investment of funds
 
@@ -56,7 +56,7 @@ The Federal Fund, and any nonliquid asset (such as a building or equipment) deve
 
 #### (3) Repayment provisions
 
-&emsp;Each guaranty agency shall begin repayment of sums transferred pursuant to this subsection not later than the start of the fourth year after the establishment of the Operating Fund, and shall repay all amounts transferred not later than 5 years from the date of the establishment of the Operating Fund. With respect to amounts transferred from the Federal Fund, the guaranty agency shall not be required to repay any interest on the funds transferred and subsequently repaid. The guaranty agency shall provide to the Secretary a reasonable schedule for repayment of the sums transferred and an annual financial analysis demonstrating the agency's ability to comply with the schedule and repay all outstanding sums transferred.
+&emsp;Each guaranty agency shall begin repayment of sums transferred pursuant to this subsection not later than the start of the fourth year after the establishment of the Operating Fund, and shall repay all amounts transferred not later than 5 years from the date of the establishment of the Operating Fund. With respect to amounts transferred from the Federal Fund, the guaranty agency shall not be required to repay any interest on the fundstransferred and subsequently repaid. The guaranty agency shall provide to the Secretary a reasonable schedule for repayment of the sums transferred and an annual financial analysis demonstrating the agency's ability to comply with the schedule and repay all outstanding sums transferred.
 
 #### (4) Prohibition
 
@@ -105,8 +105,4 @@ The Federal Fund, and any nonliquid asset (such as a building or equipment) deve
 #### Effective Date
 
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1072, 1072b, 1078, 1087h of this title.
 

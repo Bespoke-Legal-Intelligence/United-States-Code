@@ -4,7 +4,3 @@ If the coal-land laws have been or shall be extended over lands applied for, ent
 
 (Feb. 27, 1917, ch. 133, §3, 39 Stat. 945.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 87, 89 of this title.
-

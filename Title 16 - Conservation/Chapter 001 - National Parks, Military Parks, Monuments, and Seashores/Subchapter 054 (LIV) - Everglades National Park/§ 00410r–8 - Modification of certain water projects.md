@@ -94,7 +94,3 @@ Committee on Natural Resources of House of Representatives treated as referring 
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410r–5, 410r–6, 410r–7 of this title.
-

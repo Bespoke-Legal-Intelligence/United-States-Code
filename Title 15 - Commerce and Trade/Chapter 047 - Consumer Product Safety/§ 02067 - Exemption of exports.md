@@ -20,7 +20,3 @@ Not less than thirty days before any person exports to a foreign country any pro
 
 1978—Subsec. (a). Pub. L. 95–631 designated existing text as subsec. (a) and cl. (A) and in subsec. (a), as so designated, added cl. (B), and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2068 of this title.
-

@@ -2,7 +2,7 @@
 
 The purposes of assistance under this part are to halt the proliferation of nuclear, chemical, and biological weapons, and conventional weaponry, through support of activities designed—
 
-&emsp;(1) to enhance the nonproliferation and export control capabilities of friendly countriesby providing training and equipment to detect, deter, monitor, interdict, and counter proliferation;
+&emsp;(1) to enhance the nonproliferation and export control capabilities of friendly countries by providing training and equipment to detect, deter, monitor, interdict, and counter proliferation;
 
 &emsp;(2) to strengthen the bilateral ties of the United States with friendly governments by offering concrete assistance in this area of vital national security interest;
 

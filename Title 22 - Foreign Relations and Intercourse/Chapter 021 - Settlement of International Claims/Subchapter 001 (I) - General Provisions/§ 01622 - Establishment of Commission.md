@@ -52,11 +52,11 @@ There is hereby established the Foreign Claims Settlement Commission of the Unit
 
 #### Sec. 2. Transfer of Functions
 
-(a) All functions of the War Claims Commission and of the members, officers, and employees thereof are hereby transferred to the Foreign Claims Settlement Commission of the United States.
+(a) All functions of the War Claims Commission and of the members, officers, and employees thereof arehereby transferred to the Foreign Claims Settlement Commission of the United States.
 
 (b) All functions of the International Claims Commission of the United States (hereinafter referred to as the International Claims Commission) and the members, officers, and employees thereof are hereby transferred to the Foreign Claims Settlement Commission of the United States.
 
-(c) The functions of the Secretary of State and of the Department of State with respect to the International Claims Commission and its affairs, exclusive of thefunctions of the said Secretary and Department under sections 3(c), 4(b), and 5, and the first sentence of section 8(d), of the International Claims Settlement Act of 1949, 64 Stat. 12, as amended \[22 U.S.C. 1622(c), 1623(b), 1624, and 1627(d)\], are hereby transferred to the Commission.
+(c) The functions of the Secretary of State and of the Department of State with respect to the International Claims Commission and its affairs, exclusive of the functions of the said Secretary and Department under sections 3(c), 4(b), and 5, and the first sentence of section 8(d), of the International Claims Settlement Act of 1949, 64 Stat. 12, as amended \[22 U.S.C. 1622(c), 1623(b), 1624, and 1627(d)\], are hereby transferred to the Commission.
 
 (d) The functions of the Commissioner provided for in the Joint Resolution approved August 4, 1939, ch. 421, 53 Stat. 1199, together with the functions of the Secretary of State under section 2 thereof, are hereby transferred to the Commission.
 

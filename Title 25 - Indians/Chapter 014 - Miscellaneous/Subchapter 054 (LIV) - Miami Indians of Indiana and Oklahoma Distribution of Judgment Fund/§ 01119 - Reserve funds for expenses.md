@@ -14,7 +14,3 @@ The funds reserved shall be available for appropriate withdrawal by the Secretar
 
 The Indian Claims Commission, referred to in subsec. (a), terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1116, 1117 of this title.
-

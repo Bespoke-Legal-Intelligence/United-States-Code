@@ -64,11 +64,11 @@
 
 #### (D) Rule of construction
 
-&emsp;&emsp;Nothing contained in this chapter shall be construed so as to be inconsistent with the Inspector General Act of 1978 (5 U.S.C. App.)or government auditing standards issued by the Comptroller General of the United States.
+&emsp;&emsp;Nothing contained in this chapter shall be construed so as to be inconsistent with the Inspector General Act of 1978 (5 U.S.C. App.) or government auditing standards issued by the Comptroller General of the United States.
 
 #### (c) Accessibility of reports
 
-Each State, each local board, and each recipient (other than a subrecipient, subgrantee, or contractor of a recipient) receiving funds under this chapter—
+Each State, each local board, and each recipient (other than a subrecipient, subgrantee, orcontractor of a recipient) receiving funds under this chapter—
 
 &emsp;(1) shall make readily accessible such reports concerning its operations and expenditures as shall be prescribed by the Secretary;
 

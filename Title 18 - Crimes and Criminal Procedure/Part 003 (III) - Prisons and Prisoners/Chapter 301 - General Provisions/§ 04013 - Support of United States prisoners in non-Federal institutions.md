@@ -22,7 +22,7 @@
 
 &emsp;(B) the availability of appropriate Federal, State, and local government detention facilities.
 
-(2) In order to be eligible for a contract for the housing, care, and security of persons held incustody of the United States Marshals pursuant to Federal law and funding under subsection (a)(3), a private entity shall—
+(2) In order to be eligible for a contract for the housing, care, and security of persons held in custody of the United States Marshals pursuant to Federal law and funding under subsection (a)(3), a private entity shall—
 
 &emsp;(A) be located in a district that has been designated as needing additional Federal detention facilities pursuant to paragraph (1);
 
@@ -78,7 +78,7 @@ Notice to prisoners of law.—Each person who is or becomes a prisoner shall be 
 
 &emsp;(4)
 
-Notice to prisoners of state or local implementation.—The implementation of this subsection by the State or local government, and any amendment to that implementation, shall not take effect until the expiration of the 30-day period beginning on the date on which each prisoner in the prison system is provided with written and oral notices of the provisions of that implementation (or amendment, as the case may be). A fee under this subsection may not be assessed against, or collected from, a prisoner pursuant to such implementation (or amendments, as the case may be) for services provided before the expiration of such period.
+Notice to prisoners of state or local implementation.—The implementation of this subsection by the State or local government, and any amendment to that implementation, shall not take effect until the expiration of the 30-day period beginning on the date on which each prisoner in the prison system is provided with written and oral notices of the provisions of that implementation (or amendment, as the case may be). A fee under thissubsection may not be assessed against, or collected from, a prisoner pursuant to such implementation (or amendments, as the case may be) for services provided before the expiration of such period.
 
 &emsp;(5)
 
@@ -123,8 +123,4 @@ Similar provisions were contained in the following prior appropriations act:
 Pub. L. 106–113, div. B, §1000(a)(1) \[title I\], Nov. 29, 1999, 113 Stat. 1535, 1501A–7.
 
 Pub. L. 105–277, div. A, §101(b) \[title I\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–54, provided that: “There is hereby established a Justice Prisoner and Alien Transportation System Fund for the payment of necessary expenses related to the scheduling and transportation of United States prisoners and illegal and criminal aliens in the custody of the United States Marshals Service, as authorized in 18 U.S.C. 4013, including, without limitation, salaries and expenses, operations, and the acquisition, lease, and maintenance of aircraft and support facilities: <i>Provided</i>, That the Fund shall be reimbursed or credited with advance payments from amounts available to the Department of Justice, other Federal agencies, and other sources at rates that will recover the expenses of Fund operations, including, without limitation, accrual of annual leave and depreciation of plant and equipment of the Fund: <i>Provided further</i>, That proceeds from the disposal of Fund aircraft shall be credited to the Fund: <i>Provided further</i>, That amounts in the Fund shall be available without fiscal year limitation, and may be used for operating equipment lease agreements that do not exceed 5 years.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 13711.
 

@@ -1,6 +1,6 @@
 ### §1903. Audit; monitoring and evaluation
 
-(a) The books and accounts of the Center shall be audited annually by an independent auditor in the manner prescribed by the Secretary and a report on each such audit shall be submitted by the auditor to the Secretary within 15 days following the completion of the audit and acceptance of the audit by the Center.
+(a) The books and accounts of the Center shall be audited annually by an independent auditor in the manner prescribed by the Secretary and areport on each such audit shall be submitted by the auditor to the Secretary within 15 days following the completion of the audit and acceptance of the audit by the Center.
 
 (b)(1) The Secretary shall establish procedures for monitoring, on a regular basis, the services performed and the training conducted by the Center.
 
@@ -15,8 +15,4 @@
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (b)(2) of this section relating to submitting a written report to the Clerk of the House of Representatives and the Secretary of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 81 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1907 of this title.
 

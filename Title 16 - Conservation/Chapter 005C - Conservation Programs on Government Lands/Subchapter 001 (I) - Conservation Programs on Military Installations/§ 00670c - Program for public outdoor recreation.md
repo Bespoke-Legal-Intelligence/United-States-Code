@@ -20,7 +20,7 @@ The Secretary of Defense is also authorized to carry out a program for the devel
 
 #### (c) Acceptance of donations
 
-In connection with the facilities and programs for public outdoor recreation at military installations, in particular the requirement under subsection (b) of this section to provide access for persons described in paragraph (2) of such subsection, the Secretary of Defense may accept—
+In connection with the facilities and programs for public outdoor recreation at military installations, in particular the requirement undersubsection (b) of this section to provide access for persons described in paragraph (2) of such subsection, the Secretary of Defense may accept—
 
 &emsp;(1) the voluntary services of individuals and organizations; and
 

@@ -22,7 +22,7 @@ It shall be the function and duty of such agency or board to—
 
 &emsp;(5) receive, investigate, and take appropriate action with respect to, any charge or complaint filed with the board to the effect that any individual licensed as a nursing home administrator has failed to comply with the requirements of such standards; and
 
-&emsp;(6) conduct a continuing study and investigation of nursing homes and administratorsof nursing homes within the State with a view to the improvement of the standards imposed for the licensing of such administrators and of procedures and methods for the enforcement of such standards with respect to administrators of nursing homes who have been licensed as such.
+&emsp;(6) conduct a continuing study and investigation of nursing homes and administrators of nursing homes within the State with a view to the improvement of the standards imposed for the licensing of such administrators and of procedures and methods for the enforcement of such standards with respect to administrators of nursing homes who have been licensed as such.
 
 #### (d) Waiver of standards other than good character or suitability standards
 
@@ -83,10 +83,6 @@ Amendment by section 268(b) of Pub. L. 92–603 effective Oct. 30, 1972, see sec
 #### Effective Date
 
 Section 236(c) of Pub. L. 90–248 provided that: “Except as otherwise specified in the text thereof, the amendments made by this section \[enacting this section and amending section 1396a of this title\] shall take effect on July 1, 1970.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1396a of this title; title 29 section 1169.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be “; and”.</i>
 

@@ -18,7 +18,7 @@ The Commission is authorized to—
 
 &emsp;(1) cause inspections, analyses, tests, and examinations to be made of any product, fabric or related material which it has reason to believe falls within the prohibitions of this chapter; and
 
-&emsp;(2) cooperate on matters related to the purposes of this chapter with any department or agency of the Government; with any State or territory or with the District of Columbia or the Commonwealth of Puerto Rico; or with any department, agency, or political subdivision thereof; or with any person.
+&emsp;(2) cooperate on matters related to the purposes of this chapter with any department oragency of the Government; with any State or territory or with the District of Columbia or the Commonwealth of Puerto Rico; or with any department, agency, or political subdivision thereof; or with any person.
 
 #### (e) Penalties
 
@@ -75,8 +75,4 @@ Subsec. (d)(2). Pub. L. 90–189, §4(b), substituted “or territory or with th
 #### Transfer of Functions
 
 Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1195 of this title.
 

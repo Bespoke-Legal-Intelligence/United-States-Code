@@ -2,7 +2,7 @@
 
 #### (a) Grant authority of Director; chief executive of States; amount; insufficient funds
 
-(1) Subject to the availability of money in the Fund, the Director shall make an annual grant from any portion of the Fund made available by section 10601(d)(2) <sup>1</sup> of this title for the purposeof grants under this subsection, or for the purpose of grants under section 10602 of this title but not used for that purpose, to the chief executive of each State for the financial support of eligible crime victim assistance programs.
+(1) Subject to the availability of money in the Fund, the Director shall make an annual grant from any portion of the Fund made available by section 10601(d)(2) <sup>1</sup> of this title for the purpose of grants under this subsection, or for the purpose of grants under section 10602 of this title but not used for that purpose, to the chief executive of each State for the financial support of eligible crime victim assistance programs.
 
 (2) Such chief executive shall—
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;(i) for fellowships and clinical internships; and
 
-&emsp;&emsp;(ii) to carry out programs of training and special workshops for the presentation and dissemination of information resulting fromdemonstrations, surveys, and special projects.
+&emsp;&emsp;(ii) to carry out programs of training and special workshops for the presentation and dissemination of information resulting from demonstrations, surveys, and special projects.
 
 (4) The Director may reimburse other instrumentalities of the Federal Government and contract for the performance of functions authorized under this subsection.
 
@@ -118,7 +118,7 @@ As used in this section—
 
 &emsp;(5) the term “chief executive” includes a person designated by a chief executive to perform the functions of the chief executive under this section.
 
-(Pub. L. 98–473, title II, §1404, Oct. 12, 1984, 98 Stat. 2172; Pub. L. 99–401, title I, §102(b)(4), (5), Aug. 27, 1986, 100 Stat. 905; Pub. L. 99–646, §71, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–690, title VII, §§7122, 7123(b)(4)–(9), 7127, 7128, title IX, §9306(a), Nov. 18, 1988, 102 Stat. 4420, 4421, 4423, 4537; Pub. L. 103–317, title I, §112, Aug. 26, 1994, 108 Stat. 1736; Pub. L. 103–322, title XXIII, §§230204, 230205, 230208, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–132, title II, §232(c)(2), Apr. 24, 1996, 110 Stat. 1244; Pub. L. 107–56, title VI, §623, Oct. 26, 2001, 115 Stat. 372.)
+(Pub. L. 98–473, title II, §1404, Oct. 12, 1984, 98 Stat. 2172; Pub. L. 99–401, title I, §102(b)(4), (5),Aug. 27, 1986, 100 Stat. 905; Pub. L. 99–646, §71, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–690, title VII, §§7122, 7123(b)(4)–(9), 7127, 7128, title IX, §9306(a), Nov. 18, 1988, 102 Stat. 4420, 4421, 4423, 4537; Pub. L. 103–317, title I, §112, Aug. 26, 1994, 108 Stat. 1736; Pub. L. 103–322, title XXIII, §§230204, 230205, 230208, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–132, title II, §232(c)(2), Apr. 24, 1996, 110 Stat. 1244; Pub. L. 107–56, title VI, §623, Oct. 26, 2001, 115 Stat. 372.)
 
 #### References in Text
 
@@ -178,7 +178,7 @@ Subsec. (d)(1). Pub. L. 100–690, §9306(a), struck out “, except for the pu
 
 Pub. L. 100–690, §7127, inserted reference to the United States Virgin Islands.
 
-1986—Subsec. (a)(1). Pub. L. 99–401, §102(b)(5), substituted “made available by section 10601(d)(2) of thistitle for the purpose of grants under this subsection, or for the purpose of grants under section 10602 of this title but not used for that purpose” for “not used for grants under section 10602 of this title with respect to a particular fiscal year, and after any deduction under subsection (c) of this section”.
+1986—Subsec. (a)(1). Pub. L. 99–401, §102(b)(5), substituted “made available by section 10601(d)(2) of this title for the purpose of grants under this subsection, or for the purpose of grants under section 10602 of this title but not used for that purpose” for “not used for grants under section 10602 of this title with respect to a particular fiscal year, and after any deduction under subsection (c) of this section”.
 
 Subsec. (c)(1), (2). Pub. L. 99–401, §102(b)(4), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
@@ -195,10 +195,6 @@ Subsec. (c)(3). Pub. L. 99–401, §102(b)(4), substituted “The Assistant Atto
 #### Effective Date of 1988 Amendment
 
 Amendment by sections 7122, 7123(b)(4)–(9), 7127, and 7128 of Pub. L. 100–690 not applicable with respect to a State compensation program that was an eligible State crime victim compensation program on Nov. 18, 1988, until Oct. 1, 1991, see section 7129 of Pub. L. 100–690, as amended, set out as a note under section 10601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10601, 10603a, 10603b, 10605 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

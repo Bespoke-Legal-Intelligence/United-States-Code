@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—USE OF PRIVATE LEGAL RESOURCES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 4205, 4207, 4225, 4227 of this title.
-
 
 ---
 

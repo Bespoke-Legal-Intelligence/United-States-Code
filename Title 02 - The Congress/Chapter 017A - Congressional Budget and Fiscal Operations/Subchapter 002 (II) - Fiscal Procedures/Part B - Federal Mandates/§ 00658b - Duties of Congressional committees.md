@@ -50,9 +50,5 @@ When a committee of authorization of the Senate or the House of Representatives 
 
 #### Amendments
 
-<b>1999</b>—Subsec. (d)(3). Pub. L. 106–141 added par. (3).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 658d, 1515 of this title.
+1999—Subsec. (d)(3). Pub. L. 106–141 added par. (3).
 

@@ -36,7 +36,3 @@ Subject to subsection (c)(1) of this section, it shall be considered discriminat
 
 Section effective July 26, 1990, see section 231(b) of Pub. L. 101–336, set out as a note under section 12141 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12145, 12148, 12209 of this title; title 2 section 1331.
-

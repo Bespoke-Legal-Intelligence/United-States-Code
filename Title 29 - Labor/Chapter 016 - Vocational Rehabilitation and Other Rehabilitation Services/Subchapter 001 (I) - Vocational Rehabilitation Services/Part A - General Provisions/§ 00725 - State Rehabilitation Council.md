@@ -20,11 +20,11 @@
 
 &emsp;&emsp;&emsp;(i) at least one representative of the Statewide Independent Living Council established under section 796d of this title, which representative may be the chairperson or other designee of the Council;
 
-&emsp;&emsp;&emsp;(ii) at least one representative of a parent training and information center established pursuant to section 682(a) of the Individuals with Disabilities Education Act \[20 U.S.C. 1482(a)\] (as added by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; Public Law 105–17);
+&emsp;&emsp;&emsp;(ii) at least one representative of a parent training and information center established pursuant to section 671 of the Individuals with Disabilities Education Act \[20 U.S.C. 1471\];
 
 &emsp;&emsp;&emsp;(iii) at least one representative of the client assistance program established under section 732 of this title;
 
-&emsp;&emsp;&emsp;(iv) at least one qualified vocational rehabilitation counselor, with knowledge of and experience with vocational rehabilitation programs, who shall serve as an exofficio, nonvoting member of the Council if the counselor is an employee of the designated State agency;
+&emsp;&emsp;&emsp;(iv) at least one qualified vocational rehabilitation counselor, with knowledge of and experience with vocational rehabilitation programs, who shall serve as an ex officio, nonvoting member of the Council if the counselor is an employee of the designated State agency;
 
 &emsp;&emsp;&emsp;(v) at least one representative of community rehabilitation program service providers;
 
@@ -178,7 +178,7 @@ The Council shall, after consulting with the State workforce investment board—
 
 &emsp;(5) prepare and submit an annual report to the Governor and the Commissioner on the status of vocational rehabilitation programs operated within the State, and make the report available to the public;
 
-&emsp;(6) to avoid duplication of efforts and enhance the number of individuals served, coordinate activities with the activities of other councils within the State, including the Statewide Independent Living Council established under section 796d of this title, the advisory panel established under section 612(a)(21) of the Individual <sup>1</sup> with Disabilities Education Act \[20 U.S.C. 1412(a)(21)\] (as amended by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; Public Law 105–17), the State Council on Developmental Disabilities established under section 15025 of title 42, the State mental health planning council established under section 300x–3(a) of title 42, and the State workforce investment board;
+&emsp;(6) to avoid duplication of efforts and enhance the number of individuals served, coordinate activities with the activities of other councils within the State, including the Statewide Independent Living Council established under section 796d of this title, the advisory panel established under section 612(a)(20) of the Individuals with Disabilities Education Act \[20 U.S.C. 1412(a)(20)\], the State Council on Developmental Disabilities established under section 15025 of title 42, the State mental health planning council established under section 300x–3(a) of title 42, and the State workforce investment board;
 
 &emsp;(7) provide for coordination and the establishment of working relationships between the designated State agency and the Statewide Independent Living Council and centers for independent living within the State; and
 
@@ -192,7 +192,7 @@ The Council shall, after consulting with the State workforce investment board—
 
 #### (2) Resolution of disagreements
 
-&emsp;To the extent that there is a disagreement between the Council and the designated Stateunit in regard to the resources necessary to carry out the functions of the Council as set forth in this section, the disagreement shall be resolved by the Governor consistent with paragraph (1).
+&emsp;To the extent that there is a disagreement between the Council and the designated State unit in regard to the resources necessary to carry out the functions of the Council as set forth in this section, the disagreement shall be resolved by the Governor consistent with paragraph (1).
 
 #### (3) Supervision and evaluation
 
@@ -218,7 +218,7 @@ The Council may use funds allocated to the Council by the designated State unit 
 
 The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.
 
-(Pub. L. 93–112, title I, §105, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1151; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 106–402, title IV, §401(b)(3)(A), Oct. 30, 2000, 114 Stat. 1737.)
+(Pub. L. 93–112, title I, §105, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1151; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 106–402, title IV, §401(b)(3)(A), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–446, title III, §305(h)(2), (3), Dec. 3, 2004, 118 Stat. 2805.)
 
 #### References in Text
 
@@ -230,19 +230,17 @@ A prior section 725, Pub. L. 93–112, title I, §105, as added Pub. L. 102–56
 
 #### Amendments
 
+2004—Subsec. (b)(1)(A)(ii). Pub. L. 108–446, §305(h)(2), substituted “671 of the Individuals with Disabilities Education Act” for “682(a) of the Individuals with Disabilities Education Act (as added by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; Public Law 105–17)”.
+
+Subsec. (c)(6). Pub. L. 108–446, §305(h)(3), substituted “section 612(a)(20)” for “section 612(a)(21)” and “Individuals with” for “Individual with” and struck out “(as amended by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; Public Law 105–17)” before “, the State Council”.
+
 2000—Subsec. (c)(6). Pub. L. 106–402 substituted “the State Council on Developmental Disabilities established under section 15025 of title 42” for “the State Developmental Disabilities Council described in section 6024 of title 42”.
 
-1998—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(A)\], substituted “Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “Governor” in first sentence and “appointing authority” for “Governor” in second and third sentences.
+1998—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(A)\], substituted “Governor or, in the case ofa State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “Governor” in first sentence and “appointing authority” for “Governor” in second and third sentences.
 
 Subsec. (b)(4)(A)(i). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(B)\], substituted “section 705(20)(B)” for “section 705(20)(A)”.
 
 Subsec. (b)(5)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(C)\], substituted “chief executive officer” for “Governor” in heading and “appointing authority described in paragraph (3) shall” for “Governor shall” in text.
 
 Subsec. (b)(6)(A)(ii), (7)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(D)\], substituted “appointing authority described in paragraph (3)” for “Governor”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 705, 721, 727, 796d of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “Individuals”.</i>
 

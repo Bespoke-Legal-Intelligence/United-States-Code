@@ -62,7 +62,7 @@ Pub. L. 105–277, div. J, title I, §1011(b), Oct. 21, 1998, 112 Stat. 2681–9
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section\] apply to articles enteredon or after the date of the enactment of this Act \[Oct. 21, 1998\].
+In general.—The amendments made by this section \[amending this section\] apply to articles entered on or after the date of the enactment of this Act \[Oct. 21, 1998\].
 
 “(2)
 
@@ -96,13 +96,13 @@ Requests.—Liquidation or reliquidation may be made under paragraph (2) with re
 
 #### Retroactive Application for Certain Liquidations and Reliquidations
 
-Pub. L. 107–210, div. D, title XLI, §4101(b), Aug. 6, 2002, 116 Stat. 1040, provided that:
+Pub. L. 107–210, div. D, title XLI, §4101(b), Aug. 6, 2002, 116 Stat. 1040, as amended by Pub. L. 108–429, title II, §2004(a)(20), Dec. 3, 2004, 118 Stat. 2591, provided that:
 
 “(1)
 
-In general.—Notwithstanding section 514 of the Tariff Act of 1930 \[19 U.S.C. 1514\] or any other provision of law, and subject to paragraph (2), the entry—
+In general.—Notwithstanding section 514 of the Tariff Act of 1930 \[19 U.S.C. 1514\] or any other provision of law, and subject to paragraph (2), the entry of any article—
 
-&emsp;“(A) of any article to which duty-free treatment under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] would have applied if the entry had been made on September 30, 2001,
+&emsp;“(A) to which duty-free treatment under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] would have applied if the entry had been made on September 30, 2001,
 
 &emsp;“(B) that was made after September 30, 2001, and before the date of the enactment of this Act \[Aug. 6, 2002\], and
 

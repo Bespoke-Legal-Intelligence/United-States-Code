@@ -124,9 +124,5 @@ Definitions.—For purposes of this subsection—
 
 A prior section 6704, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1013; Pub. L. 98–185, §9(b), Nov. 30, 1983, 97 Stat. 1311, related to qualifications of State or local governments for payments under this chapter, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6705, 6706, 6709, 6720 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

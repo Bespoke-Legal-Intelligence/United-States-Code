@@ -42,7 +42,3 @@ The aggregate number of mortgages and loans insured under this section and secti
 
 1988—Subsec. (g). Pub. L. 100–242 struck out reference to section 1715z–16 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1709, 1715z–10 of this title.
-

@@ -10,7 +10,7 @@ Eligible Members.—The following members are eligible to receive a cost-of-livi
 
 &emsp;(1) A member assigned to a high cost area in the continental United States.
 
-&emsp;(2) A member assigned to an unaccompanied tour of duty outside the continental United States if the primary dependent of the member resides in a high cost area in the continental United States.
+&emsp;(2) A member assigned to an unaccompanied tour of duty outside the continental UnitedStates if the primary dependent of the member resides in a high cost area in the continental United States.
 
 &emsp;(3) A member assigned to duty in the continental United States if the Secretary of the uniformed service concerned determines that—
 
@@ -78,7 +78,7 @@ Other Definitions.—In this section:
 
 &emsp;(3) The term “uniformed services cost of living” means the price index selected as described in paragraph (2) and adjusted as the Secretary of Defense, in consultation with the other administering Secretaries, considers appropriate to reflect variations between expenses of members of the uniformed services (as offset by the basic allowance for subsistence) and the corresponding expenses of persons not members of the uniformed services with regard to the following:
 
-&emsp;&emsp;(A) Nonhousing costs (including costs of transportation, goods, and services, taking into consideration savings attributable touse of such military facilities as commissary stores and exchange stores).
+&emsp;&emsp;(A) Nonhousing costs (including costs of transportation, goods, and services, taking into consideration savings attributable to use of such military facilities as commissary stores and exchange stores).
 
 &emsp;&emsp;(B) Average income tax paid.
 

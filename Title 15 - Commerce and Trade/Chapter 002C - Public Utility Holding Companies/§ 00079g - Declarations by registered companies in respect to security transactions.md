@@ -10,7 +10,7 @@ A registered holding company or subsidiary company thereof may file a declaratio
 
 #### (b) Effective date of declaration; order of Commission
 
-A declaration filed under this section shall become effective within such reasonable period oftime after the filing thereof as the Commission shall fix by rules and regulations or order, unless the Commission prior to the expiration of such period shall have issued an order to the declarant to show cause why such declaration should become effective. Within a reasonable time after an opportunity for hearing upon an order to show cause under this subsection, unless the declarant shall withdraw its declaration, the Commission shall enter an order either permitting such declaration to become effective as filed or amended, or refusing to permit such declaration to become effective. Amendments to a declaration may be made upon such terms and conditions as the Commission may prescribe.
+A declaration filed under this section shall become effective within such reasonable period of time after the filing thereof as the Commission shall fix by rules and regulations or order, unless the Commission prior to the expiration of such period shall have issued an order to the declarant to show cause why such declaration should become effective. Within a reasonable time after an opportunity for hearing upon an order to show cause under this subsection, unless the declarant shall withdraw its declaration, the Commission shall enter an order either permitting such declaration to become effective as filed or amended, or refusing to permit such declaration to become effective. Amendments to a declaration may be made upon such terms and conditions as the Commission may prescribe.
 
 #### (c) Conditions precedent to permitting declaration to become effective
 
@@ -34,7 +34,7 @@ If the requirements of subsections (c) and (g) of this section are satisfied, th
 
 &emsp;(4) the fees, commissions, or other remuneration, to whomsoever paid, directly or indirectly, in connection with the issue, sale, or distribution of the security are not reasonable;
 
-&emsp;(5) in the case of a security that is a guaranty of, or assumption of liability on, a security of another company, the circumstances are such as to constitute the making of such guaranty or the assumption of such liability an improper risk for the declarant; or
+&emsp;(5) in the case of a security that is a guaranty of, or assumption of liability on, a security of another company, the circumstances are such as to constitute the making of suchguaranty or the assumption of such liability an improper risk for the declarant; or
 
 &emsp;(6) the terms and conditions of the issue or sale of the security are detrimental to the public interest or the interest of investors or consumers.
 
@@ -55,8 +55,4 @@ If a State commission or State securities commission, having jurisdiction over a
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 79f of this title.
 

@@ -22,7 +22,7 @@ There is established a Federal Acquisition Regulatory Council (hereinafter in th
 
 (2) Any other regulations relating to procurement issued by an executive agency shall be limited to (A) regulations essential to implement Government-wide policies and procedures within the agency, and (B) additional policies and procedures required to satisfy the specific and unique needs of the agency.
 
-(3) The Administrator, in consultation with the Council, shall ensure that procurement regulations promulgated by executive agencies are consistent with the Federal Acquisition Regulation and in accordance with any policies issued pursuant to section 405(a) of this title.
+(3) The Administrator, in consultation with the Council, shall ensure that procurement regulations promulgated by executive agencies areconsistent with the Federal Acquisition Regulation and in accordance with any policies issued pursuant to section 405(a) of this title.
 
 (4)(A) Under procedures established by the Administrator, a person may request the Administrator to review any regulation relating to procurement on the basis that such regulation is inconsistent with the Federal Acquisition Regulation.
 
@@ -103,10 +103,6 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 #### Status of Director of Defense Procurement
 
 Pub. L. 102–190, div. A, title VIII, §809, Dec. 5, 1991, 105 Stat. 1423, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: “For the purposes of the amendment made by section 807 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1593) to section 25(b)(2) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(b)(2)), the Director of Defense Procurement of the Department of Defense shall be considered to be an official at an organizational level of an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 256, 259 of this title; title 10 section 2302; title 15 section 638; title 42 section 8287; title 50 App. section 2154.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

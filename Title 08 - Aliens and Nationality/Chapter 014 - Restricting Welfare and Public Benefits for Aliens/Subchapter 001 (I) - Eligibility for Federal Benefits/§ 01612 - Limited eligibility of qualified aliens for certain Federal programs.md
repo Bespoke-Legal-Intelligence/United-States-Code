@@ -56,7 +56,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (III) Grandfather provision
 
-&emsp;&emsp;&emsp;&emsp;The provisions of this subsection and the redetermination under subclause (I),shall only apply with respect to the benefits of an individual described in subclause (I) for months beginning on or after September 30, 1998.
+&emsp;&emsp;&emsp;&emsp;The provisions of this subsection and the redetermination under subclause (I), shall only apply with respect to the benefits of an individual described in subclause (I) for months beginning on or after September 30, 1998.
 
 #### (IV) Notice
 
@@ -110,7 +110,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (I) Food stamp exception for certain elderly individuals
 
-&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any individual who on August 22, 1996—
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described inparagraph (3)(B), paragraph (1) shall not apply to any individual who on August 22, 1996—
 
 &emsp;&emsp;&emsp;(i) was lawfully residing in the United States; and
 
@@ -136,7 +136,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (L) Food stamp exception for certain qualified aliens
 
-&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described inparagraph (3)(B), paragraph (1) shall not apply to any qualified alien who has resided in the United States with a status within the meaning of the term “qualified alien” for a period of 5 years or more beginning on the date of the alien's entry into the United States.
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any qualified alien who has resided in the United States with a status within the meaning of the term “qualified alien” for a period of 5 years or more beginning on the date of the alien's entry into the United States.
 
 #### (3) “Specified Federal program” defined
 
@@ -206,7 +206,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;(ii) on active duty (other than active duty for training) in the Armed Forces of the United States, or
 
-&emsp;&emsp;&emsp;(iii) the spouse or unmarried dependent child of an individual described in clause (i) or (ii) or the unremarried survivingspouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38.
+&emsp;&emsp;&emsp;(iii) the spouse or unmarried dependent child of an individual described in clause (i) or (ii) or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38.
 
 #### (D) Transition for those currently receiving benefits
 
@@ -252,7 +252,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 The Immigration and Nationality Act, referred to in subsecs. (a)(2)(B)(i) and (b)(2)(B)(i), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-The Social Security Act, referred to in subsecs. (a)(2)(B)(ii)(I), (3)(A) and (b)(2)(B)(ii)(I), (F), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, XIX, and XX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(2)(B)(ii)(I), (3)(A) and (b)(2)(B)(ii)(I), (F), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, XIX, and XX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, ofchapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
@@ -276,7 +276,7 @@ Subsec. (a)(2)(J). Pub. L. 107–171, §4401(b)(1), substituted “who is under 
 
 Subsec. (a)(2)(L). Pub. L. 107–171, §4401(c)(1), added subpar. (L).
 
-1998—Subsec. (a)(2)(A). Pub. L. 105–185, §503, struck out cl. (i) designation and heading after subpar. (A) heading, substituted “programs described in paragraph (3)” for “program described in paragraph (3)(A)” in introductory provisions, redesignated subcls. (I) to (V) as cls. (i) to (v), respectively, and realigned their margins,and struck out heading and text of former cl. (ii) which related to eligibility of certain aliens for the food stamp program.
+1998—Subsec. (a)(2)(A). Pub. L. 105–185, §503, struck out cl. (i) designation and heading after subpar. (A) heading, substituted “programs described in paragraph (3)” for “program described in paragraph (3)(A)” in introductory provisions, redesignated subcls. (I) to (V) as cls. (i) to (v), respectively, and realigned their margins, and struck out heading and text of former cl. (ii) which related to eligibility of certain aliens for the food stamp program.
 
 Subsec. (a)(2)(F). Pub. L. 105–185, §504(1), substituted “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
 
@@ -370,7 +370,7 @@ Pub. L. 105–185, title V, §510(b), June 23, 1998, 112 Stat. 580, provided tha
 
 #### Effective Date of 1997 Amendments
 
-Section 5308 of title V of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments madeby this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Section 5308 of title V of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
 Amendment by sections 5562 and 5563 of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
@@ -379,10 +379,6 @@ Section 6005(b) of Pub. L. 105–18 provided that: “The amendment made by subs
 #### Effective Date of 1996 Amendment
 
 Section 510 of div. C of Pub. L. 104–208 provided that the amendment made by that section is effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1611, 1613, 1614, 1622, 1631, 1646 of this title; title 7 section 2016.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “alien is”.</i>
 

@@ -68,7 +68,7 @@ For purposes of this part:
 
 #### References in Text
 
-Section 300j–6(b) of this title, referred to in subsec. (b)(1)(D), was repealed, and a new section 300j–6(b) relating to administrative penalty orders was added, by Pub. L. 104–182, title I, §129(a), Aug. 6, 1996, 110 Stat. 1660.
+Section 300j–6(b) of this title, referred to in subsec. (b)(1)(D), was repealed, and a new section 300j–6(b) relating to administrative penalty orders was added, byPub. L. 104–182, title I, §129(a), Aug. 6, 1996, 110 Stat. 1660.
 
 #### Amendments
 
@@ -81,10 +81,6 @@ Section 300j–6(b) of this title, referred to in subsec. (b)(1)(D), was repeale
 Subsec. (d)(1). Pub. L. 96–502, §3, inserted provision that such term does not include the underground injection of natural gas for purposes of storage.
 
 1977—Subsec. (b)(3). Pub. L. 95–190 added par. (3).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300h–1, 300h–4, 300j–2, 300j–6 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,7 +28,7 @@ The Director shall not delegate any of the functions of the Director to any pers
 
 #### (e) Coordination
 
-The Director shall ensure coordination of the policies and activities of the Institute with thepolicies and activities of other agencies and offices of the Federal Government having interest in and responsibilities for the improvement of museums and libraries and information services. Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under section 6383 of this title.
+The Director shall ensure coordination of the policies and activities of the Institute with the policies and activities of other agencies and offices of the Federal Government having interest in and responsibilities for the improvement of museums and libraries and information services. Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under section 6383 of this title.
 
 #### (f) Regulatory authority
 
@@ -77,8 +77,4 @@ Subsecs. (f), (g). Pub. L. 108–81, §103(2), added subsecs. (f) and (g).
 #### Service of Individuals Serving on September 30, 1996
 
 Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §705\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, which provided that the individual who was appointed to the position of Director of the Institute of Museum Services and was serving in such position on the day before Sept. 30, 1996, would serve, at the pleasure of the President, as the first Director of the Institute of Museum and Library Services, was repealed by Pub. L. 108–81, title V, §505(b), Sept. 25, 2003, 117 Stat. 1004.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9101 of this title.
 

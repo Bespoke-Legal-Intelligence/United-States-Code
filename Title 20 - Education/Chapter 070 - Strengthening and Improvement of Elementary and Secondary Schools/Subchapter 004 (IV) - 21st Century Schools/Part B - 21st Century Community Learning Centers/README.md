@@ -2,10 +2,6 @@ Part B—21
 
 st Century Community Learning Centers
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 7345, 7345a, 7801, 7881 of this title.
-
 
 ---
 

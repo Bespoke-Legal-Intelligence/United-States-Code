@@ -102,7 +102,9 @@
 
 &emsp;(C) the identity, if known, of the foreign government and the name and position of the individual who presented the gift.
 
-(4) In transmitting such listings for the Central Intelligence Agency, the Director of Central Intelligence may delete the information described in subparagraphs (A) and (C) of paragraphs (2) and (3) if the Director certifies in writing to the Secretary of State that the publication of such information could adversely affect United States intelligence sources.
+(4)(A) In transmitting such listings for the Central Intelligence Agency, the Director of the Central Intelligence Agency may delete the information described in subparagraphs (A) and (C) of paragraphs (2) and (3) if the Director certifies in writing to the Secretary of State that the publication of such information could adversely affect United States intelligence sources.
+
+(B) In transmitting such listings for the Office of the Director of National Intelligence, the Director of National Intelligence may delete the information described in subparagraphs (A) and (C) of paragraphs (2) and (3) if the Director certifies in writing to the Secretary of State that the publication of such information could adversely affect United States intelligence sources.
 
 (g)(1) Each employing agency shall prescribe such regulations as may be necessary to carry out the purpose of this section. For all employing agencies in the executive branch, such regulations shall be prescribed pursuant to guidance provided by the Secretary of State. These regulations shall be implemented by each employing agency for its employees.
 
@@ -122,7 +124,7 @@
 
 (k) The provisions of this section do not apply to grants and other forms of assistance to which section 108A of the Mutual Educational and Cultural Exchange Act of 1961 applies.
 
-(Added Pub. L. 90–83, §1(45)(C), Sept. 11, 1967, 81 Stat. 208; amended Pub. L. 95–105, title V, §515(a)(1), Aug. 17, 1977, 91 Stat. 862; Pub. L. 95–426, title VII, §712(a)–(c), Oct. 7, 1978, 92 Stat. 994; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–217, §3(a)(1), Aug. 21, 2002, 116 Stat. 1295.)
+(Added Pub. L. 90–83, §1(45)(C), Sept. 11, 1967, 81 Stat. 208; amended Pub. L. 95–105, title V, §515(a)(1), Aug. 17, 1977, 91 Stat. 862; Pub. L. 95–426, title VII, §712(a)–(c), Oct. 7, 1978, 92 Stat. 994; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–217, §3(a)(1), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–458, title I, §1079(b), Dec. 17, 2004, 118 Stat. 3696.)
 
 Historical and Revision Notes
 
@@ -182,6 +184,8 @@ Section 108A of the Mutual Educational and Cultural Exchange Act of 1961, referr
 
 #### Amendments
 
+2004—Subsec. (f)(4). Pub. L. 108–458 designated existing provisions as subpar. (A), substituted “the Director of the Central Intelligence Agency” for “the Director of Central Intelligence”, and added subpar. (B).
+
 2002—Subsec. (e)(1). Pub. L. 107–217 substituted “provisions of subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” for “provisions of the Federal Property and Administrative Services Act of 1949”.
 
 1986—Subsecs. (a)(1)(G), (e)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
@@ -208,6 +212,10 @@ Subsec. (e). Pub. L. 95–105 substituted provisions relating to the disposal of
 
 Subsecs. (f) to (k). Pub. L. 95–105 added subsecs. (f) to (k).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of Title 50, War and National Defense.
+
 #### Effective Date of 1977 Amendment
 
 Section 515(a)(2) of Pub. L. 95–105 provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect on January 1, 1978.”
@@ -233,8 +241,4 @@ Ex. Ord. No. 11320, Dec. 12, 1966, 31 F.R. 15789, which delegated to the Secreta
 Ex. Ord. No. 11446, Jan. 16, 1969, 34 F.R. 803, as amended by Ex. Ord. No. 13286, §62, Feb. 28, 2003, 68 F.R. 10629, provided:
 
 By virtue of the authority vested in me as President of the United States and as Commander in Chief of the Armed Forces of the United States, I hereby authorize the Secretary of Defense, with respect to members of the Army, Navy, Air Force, and Marine Corps, and the Secretary of Homeland Security, with respect to members of the Coast Guard when it is not operating as a service in the Navy, to prescribe regulations for the acceptance of medals and ribbons which are offered by multilateral organizations, other than the United Nations, to members of the Armed Forces of the United States in recognition of service conducted under the auspices of those organizations. A determination that service for a multilateral organization in a particular geographical area or for a particular purpose constitutes a justifiable basis for authorizing acceptance of the medal or ribbon offered to eligible members of the Armed Forces of the United States shall be made with the concurrence of the Secretary of State.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 31–2; title 10 section 1051b; title 15 section 278g; title 22 sections 2458a, 2694; title 31 section 1353.
 

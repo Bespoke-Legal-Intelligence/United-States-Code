@@ -44,7 +44,7 @@ For the purpose of this title–
 
 > &emsp;but does not include applicants for, or members of, the Senior Executive Service, the Defense Intelligence Senior Executive Service, the Senior Cryptologic Executive Service, or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service;
 
-&emsp;(4) except for the purposes of chapters 43 and 75 of this title, “preference eligible” does notinclude a retired member of the armed forces unless—
+&emsp;(4) except for the purposes of chapters 43 and 75 of this title, “preference eligible” does not include a retired member of the armed forces unless—
 
 &emsp;&emsp;(A) the individual is a disabled veteran; or
 
@@ -174,9 +174,5 @@ Amendment by Pub. L. 90–623 effective Sept. 11, 1967, for all purposes, see se
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2302, 3305, 3309, 3312, 3318, 3352, 3502, 3504 of this title; title 2 section 1316a; title 3 section 115; title 10 sections 943, 1614; title 16 section 3198; title 22 sections 1438, 3941; title 32 section 709; title 38 sections 106, 5303A, 7281, 7802; title 39 section 1005; title 42 sections 2992a–1, 9839; title 49 section 47112.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

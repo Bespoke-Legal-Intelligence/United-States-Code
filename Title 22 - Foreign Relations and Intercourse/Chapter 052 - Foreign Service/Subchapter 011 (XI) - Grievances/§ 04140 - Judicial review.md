@@ -22,7 +22,3 @@ Amendment by Pub. L. 102–138 not applicable with respect to any grievance, wit
 
 Pub. L. 101–246, title I, §152, Feb. 16, 1990, 104 Stat. 42, provided that: “For the purposes of judicial review under section 1110 of the Foreign Service Act of 1980 \[22 U.S.C. 4140\], any recommendation made by the Foreign Service Grievance Board with respect to the tenure of a grievant which was reviewed by the Secretary of State before the date of enactment of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 \[Dec. 22, 1987\], shall be considered to be a final action of the Department of State, and any such recommendation shall be considered to have been made within the authority of the Foreign Service Grievance Board.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4010, 4137 of this title.
-

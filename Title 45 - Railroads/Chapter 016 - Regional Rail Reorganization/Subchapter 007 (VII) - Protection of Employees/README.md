@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—PROTECTION OF EMPLOYEES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 231, 351 of this title.
-
 
 ---
 

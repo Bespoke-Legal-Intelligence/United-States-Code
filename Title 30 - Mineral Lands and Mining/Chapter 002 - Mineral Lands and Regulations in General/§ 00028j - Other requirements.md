@@ -2,7 +2,7 @@
 
 #### (a) Federal Land Policy and Management Act requirements
 
-Nothing in sections 28f to 28k of this title shall change or modify the requirements of section 314(b) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1744(b)), or the requirements of section 314(c) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1744(c)) related to filings required by section 314(b), and such requirements shall remain in effect with respect to claims, and mill or tunnel sites for which fees are required to be paid under this section.
+Nothing in sections 28f to 28k of this title shall change or modify the requirements of section314(b) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1744(b)), or the requirements of section 314(c) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1744(c)) related to filings required by section 314(b), and such requirements shall remain in effect with respect to claims, and mill or tunnel sites for which fees are required to be paid under this section.
 
 #### (b) Omitted
 
@@ -23,8 +23,4 @@ Section is comprised of section 10105 of Pub. L. 103–66. Subsec. (b) of sectio
 #### Similar Provisions
 
 Similar provisions were contained in Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1378, 1379.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 28i, 28k of this title.
 

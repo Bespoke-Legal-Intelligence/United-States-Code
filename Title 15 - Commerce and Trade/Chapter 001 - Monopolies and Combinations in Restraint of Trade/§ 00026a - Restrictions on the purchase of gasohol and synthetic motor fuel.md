@@ -16,7 +16,7 @@ Except as provided in subsection (b) of this section, it shall be unlawful for a
 
 (3) Nothing in this section shall—
 
-&emsp;(A) preclude any person referred to in subsection (a) of this section from requiring reasonable labeling of pumps dispensing the gasohol or other synthetic motor fuel referred to in subsection (a) of this section to indicate, as appropriate, that such gasohol or other synthetic motor fuel is not manufactured, distributed, or sold by such person;
+&emsp;(A) preclude any person referred to in subsection (a) of this section from requiring reasonable labeling of pumps dispensing the gasohol or other synthetic motor fuel referred to in subsection (a) of this section to indicate, asappropriate, that such gasohol or other synthetic motor fuel is not manufactured, distributed, or sold by such person;
 
 &emsp;(B) preclude such person from issuing appropriate disclaimers of product liability for damage resulting from use of the gasohol or other synthetic motor fuel;
 

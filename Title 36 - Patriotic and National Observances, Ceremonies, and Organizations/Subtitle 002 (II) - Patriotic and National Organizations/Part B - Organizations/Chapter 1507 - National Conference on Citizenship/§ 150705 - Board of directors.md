@@ -48,7 +48,3 @@ In subsection (d), the words “and exercise” are omitted as unnecessary.
 
 In subsection (e), the words “who shall have the qualifications and terms of employment decided” are substituted for “in keeping with qualifications and terms of employment adopted” for clarity and consistency.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 150704, 150708 of this title.
-

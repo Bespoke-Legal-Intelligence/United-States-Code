@@ -18,7 +18,3 @@ Definition.—For purposes of this section, the term “chop shop” means any b
 
 (Added Pub. L. 102–519, title I, §105(a), Oct. 25, 1992, 106 Stat. 3385.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 33103.
-

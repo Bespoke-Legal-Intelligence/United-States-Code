@@ -112,7 +112,7 @@ In subsection (c), before clause (1), the words “In promulgating any bumper st
 
 In subsection (d), before clause (1), the words “to the public” are substituted for “to the public and to the consumer” because they are inclusive. In clause (2), the word “prospective” is omitted as surplus.
 
-In subsection (e), the words “Section 553 of title 5 applies to a standard prescribed under this section” are substituted for “All rules establishing, amending, or revoking a bumper standard under this subchapter shall be issued pursuant to section 553 of title 5”, the words “opportunity to make oral and written presentations of information, views, and arguments” are substituted for “opportunity for oral presentation of data, views, or arguments, and the opportunity to make written submissions”, the words “Under conditions prescribed by the Secretary” are substituted for “in accordance with such conditions or limitations as he may make applicable thereto”, and the words “material to a standard” are substituted for “material to the establishing, amending, or revoking of a bumper standard”, to eliminate unnecessary words.
+In subsection (e), the words “Section 553 of title 5 applies to a standard prescribed under this section” aresubstituted for “All rules establishing, amending, or revoking a bumper standard under this subchapter shall be issued pursuant to section 553 of title 5”, the words “opportunity to make oral and written presentations of information, views, and arguments” are substituted for “opportunity for oral presentation of data, views, or arguments, and the opportunity to make written submissions”, the words “Under conditions prescribed by the Secretary” are substituted for “in accordance with such conditions or limitations as he may make applicable thereto”, and the words “material to a standard” are substituted for “material to the establishing, amending, or revoking of a bumper standard”, to eliminate unnecessary words.
 
 In subsection (f), the words “However, the Secretary may prescribe a later date when the Secretary submits” are substituted for “unless the Secretary presents” for clarity. The word “reasons” is substituted for “a detailed explanation of the reasons” to eliminate unnecessary words.
 
@@ -121,10 +121,6 @@ In subsection (f), the words “However, the Secretary may prescribe a later dat
 1998—Subsec. (c). Pub. L. 105–277, §101(g) \[title III, §351(b)(1)(A)\], substituted “all or any part of a standard” for “any part of a standard” in introductory provisions.
 
 Subsec. (c)(3). Pub. L. 105–277, §101(g) \[title III, §351(b)(1)(B)–(D)\], added par. (3).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 32503, 32504, 32506, 32507, 32508, 32511 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “30113(b)”.</i>
 

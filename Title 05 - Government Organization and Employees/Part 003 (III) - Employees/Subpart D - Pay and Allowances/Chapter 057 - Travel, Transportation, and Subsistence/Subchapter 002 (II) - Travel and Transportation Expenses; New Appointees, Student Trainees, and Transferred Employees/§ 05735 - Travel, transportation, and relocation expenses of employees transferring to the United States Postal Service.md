@@ -20,7 +20,3 @@ Covered Employees.—Subsection (a) applies to any employee of the Department of
 
 Section 345(b) of Pub. L. 103–337 provided that: “The amendments made by subsection (a) \[enacting this section\] shall apply to persons separated from employment with the Department of Defense on or after the date of the enactment of this Act \[Oct. 5, 1994\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5738 of this title.
-

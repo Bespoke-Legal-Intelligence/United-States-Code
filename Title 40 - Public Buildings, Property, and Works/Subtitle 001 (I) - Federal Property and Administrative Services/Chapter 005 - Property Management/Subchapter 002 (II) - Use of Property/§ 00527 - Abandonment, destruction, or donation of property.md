@@ -24,7 +24,3 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title II, §202(h), 63 Stat. 385.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 556 of this title.
-

@@ -94,7 +94,3 @@ A prior section 3796ee–2, Pub. L. 90–351, title I, §1803, as added Pub. L. 
 
 A prior section 1802 of Pub. L. 90–351 was classified to section 3796ee–1 of this title prior to the general amendment of this subchapter by Pub. L. 107–273.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3796ee–3 of this title.
-

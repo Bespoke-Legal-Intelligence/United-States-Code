@@ -4,7 +4,3 @@ Nothing contained in section 870 of this title is intended or shall be held or c
 
 (Jan. 25, 1927, ch. 57, §2, 44 Stat. 1027.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 870 of this title.
-

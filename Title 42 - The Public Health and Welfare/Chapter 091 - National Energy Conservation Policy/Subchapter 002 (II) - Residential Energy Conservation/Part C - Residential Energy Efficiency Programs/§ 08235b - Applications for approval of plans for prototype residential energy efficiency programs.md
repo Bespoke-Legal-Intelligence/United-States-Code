@@ -14,7 +14,3 @@ Each application for the approval of a plan under section 8235a(a) of this title
 
 (Pub. L. 95–619, title II, §263, as added Pub. L. 96–294, title V, §562, June 30, 1980, 94 Stat. 748.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8235a, 8235c of this title.
-

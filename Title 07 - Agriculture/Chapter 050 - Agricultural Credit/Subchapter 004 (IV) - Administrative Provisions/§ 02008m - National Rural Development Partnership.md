@@ -96,7 +96,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;A Federal employee shall fully participate in the governance and operations of the Coordinating Committee, including activitiesrelated to grants, contracts, and other agreements, in accordance with this section.
+&emsp;&emsp;A Federal employee shall fully participate in the governance and operations of the Coordinating Committee, including activities related to grants, contracts, and other agreements, in accordance with this section.
 
 #### (B) Conflicts
 
@@ -104,7 +104,7 @@ In this section:
 
 #### (5) Administrative support
 
-&emsp;The Secretary may provide such administrative support for the Coordinating Committee as the Secretary determines is necessary to carry out the duties of the Coordinating Committee.
+&emsp;The Secretary may provide such administrative support for the Coordinating Committeeas the Secretary determines is necessary to carry out the duties of the Coordinating Committee.
 
 #### (6) Procedures
 
@@ -180,7 +180,7 @@ In this section:
 
 #### (2) Exceptions to matching requirement for certain Federal funds
 
-&emsp;Paragraph (1) shall not apply to funds, grants, funds provided under contracts or cooperative agreements, gifts, contributions, ortechnical assistance received by a State rural development council from a Federal agency that are used—
+&emsp;Paragraph (1) shall not apply to funds, grants, funds provided under contracts or cooperative agreements, gifts, contributions, or technical assistance received by a State rural development council from a Federal agency that are used—
 
 &emsp;&emsp;(A) to support 1 or more specific program or project activities; or
 
@@ -215,8 +215,4 @@ In this section:
 The authority provided under this section shall terminate on the date that is 5 years after May 13, 2002.
 
 (Pub. L. 87–128, title III, §378, as added Pub. L. 107–171, title VI, §6021, May 13, 2002, 116 Stat. 363.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1991 of this title.
 

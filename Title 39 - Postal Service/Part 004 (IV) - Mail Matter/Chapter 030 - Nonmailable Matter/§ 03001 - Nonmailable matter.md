@@ -12,7 +12,7 @@
 
 > is nonmailable.
 
-(2) Matter made nonmailable by this subsection which reaches the office of destinationmay be delivered in accordance with its address, if the party addressed furnishes the name and address of the sender.
+(2) Matter made nonmailable by this subsection which reaches the office of destination may be delivered in accordance with its address, if the party addressed furnishes the name and address of the sender.
 
 (d) Matter otherwise legally acceptable in the mails which—
 
@@ -38,7 +38,7 @@
 
 (f) Any matter which is unsolicited by the addressee, which contains a “household substance” (as defined by section 2 of the Poison Prevention Packaging Act of 1970), and which does not comply with the requirements for special child-resistant packaging established for that substance by the Consumer Product Safety Commission, is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs.
 
-(g)(1) Matter otherwise legally acceptable in the mails which contains or includes a fragrance advertising sample is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless the sample is sealed, wrapped, treated, or otherwise prepared in a manner reasonably designed to prevent individuals from being unknowingly or involuntarily exposed to the sample.
+(g)(1) Matter otherwise legally acceptable in the mails which contains or includes a fragrance advertising sample is nonmailable matter, shallnot be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless the sample is sealed, wrapped, treated, or otherwise prepared in a manner reasonably designed to prevent individuals from being unknowingly or involuntarily exposed to the sample.
 
 (2) The Postal Service shall by regulation establish the standards or requirements which a fragrance advertising sample must satisfy in order for the mail matter involved not to be considered nonmailable under this subsection.
 
@@ -54,7 +54,7 @@
 
 &emsp;(3) such matter is contained in a publication for which the addressee has paid or promised to pay a consideration or which he has otherwise indicated he desires to receive, except that this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
 
-(i) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for information or the contribution of funds or membership fees and which reasonably could be interpreted or construed as implying any Federal Government connection,approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
+(i) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for information or the contribution of funds or membership fees and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
 
 &emsp;(1) such nongovernmental entity has such expressed connection, approval or endorsement;
 
@@ -80,7 +80,7 @@
 
 (k)(1) In this subsection—
 
-&emsp;(A) the term “clearly and conspicuously displayed” means presented in a manner that is readily noticeable, readable, and understandable to the group to whom the applicable matter is disseminated;
+&emsp;(A) the term “clearly and conspicuously displayed” means presented in a manner that isreadily noticeable, readable, and understandable to the group to whom the applicable matter is disseminated;
 
 &emsp;(B) the term “facsimile check” means any matter that—
 
@@ -126,7 +126,7 @@
 
 &emsp;(VIII) represents that an individual is a winner of a prize unless that individual has won such prize; or
 
-&emsp;(IX) contains a representation that contradicts, or is inconsistent with sweepstakes rules or any other disclosure required to be made under this subsection, including anystatement qualifying, limiting, or explaining the rules or disclosures in a manner inconsistent with such rules or disclosures;
+&emsp;(IX) contains a representation that contradicts, or is inconsistent with sweepstakes rules or any other disclosure required to be made under this subsection, including any statement qualifying, limiting, or explaining the rules or disclosures in a manner inconsistent with such rules or disclosures;
 
 &emsp;(B)(i) includes entry materials for a skill contest or a promotion that purports to be a skill contest; and
 
@@ -244,7 +244,7 @@ Pub. L. 106–168, title I, §111, Dec. 12, 1999, 113 Stat. 1817, provided that:
 
 Section 6 of Pub. L. 101–524 provided that: “The provisions of this Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes below\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1990\], except the amendments made by section 2 \[amending this section and section 3005 of this title\] shall apply to matter deposited for mailing and delivery on or after 180 days after the date of the enactment of this Act.”
 
-Section 3 of Pub. L. 101–493 provided that: “The amendments made by this Act \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Oct. 31, 1990\], and shall apply with respect to any matter mailed on or after that effective date.”
+Section 3 of Pub. L. 101–493 provided that: “The amendments made by this Act \[amending this section\]shall take effect 180 days after the date of enactment of this Act \[Oct. 31, 1990\], and shall apply with respect to any matter mailed on or after that effective date.”
 
 #### Effective Date of 1971 Amendment
 
@@ -289,10 +289,6 @@ Section 4 of Pub. L. 101–524 provided that: “The United States Postal Servic
 #### Notice With Respect to Obscene Matter Distributed by Mail and Detention Thereof
 
 Pub. L. 87–793, §307, Oct. 11, 1962, 76 Stat. 841, provided that: “In order to alert the recipients of mail and the general public to the fact that large quantities of obscene, lewd, lascivious, and indecent matter are being introduced into this country from abroad and disseminated in the United States by means of the United States mails, the Postmaster General shall publicize such fact (1) by appropriate notices posted in post offices, and (2) by notifying recipients of mail, whenever he deems it appropriate in order to carry out the purposes of this section, that the United States mails may contain such obscene, lewd, lascivious, or indecent matter. Any person may file a written request with his local post office to detain obscene, lewd, lascivious, or indecent matter addressed to him, and the Postmaster General shall detain and dispose of such matter for such period as the request is in effect. The Postmaster General shall permit the return of mail containing obscene, lewd, lascivious, or indecent matter, to local post offices, without cost to the recipient thereof. Nothing in this section shall be deemed to authorize the Postmaster General to open, inspect, or censor any mail except on specific request by the addressee thereof. The Postmaster General is authorized to prescribe such regulations as he may deem appropriate to carry out the purposes of this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3005, 3012, 3017 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

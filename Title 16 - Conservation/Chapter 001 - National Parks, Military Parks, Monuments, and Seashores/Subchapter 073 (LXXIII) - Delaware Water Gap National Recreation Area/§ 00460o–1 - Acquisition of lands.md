@@ -6,7 +6,7 @@ The Secretary of the Army is authorized and directed to acquire, by such means a
 
 &emsp;(1) completion of acquisition of lands for which condemnation proceedings have been started pursuant to the authorization of the project referred to in this subsection;
 
-&emsp;(2) acquisition of lands of beneficial owners, not being a corporation, who in the judgmentof the Secretary would suffer hardship if acquisition of their lands were delayed;
+&emsp;(2) acquisition of lands of beneficial owners, not being a corporation, who in the judgment of the Secretary would suffer hardship if acquisition of their lands were delayed;
 
 &emsp;(3) acquisition of lands on which, in the judgment of the Secretary, there is an imminent danger of development that would be incompatible with the purposes of the recreation area;
 
@@ -39,8 +39,4 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 1978—Subsec. (a). Pub. L. 95–625 authorized acquisition of lands within the exterior boundaries of the area by the Secretary of the Interior, retention of use and occupancy rights, termination of Federal agency authority over lands and transfer of authority and funds to the Secretary of the Interior, and prescribed acquisition priorities for the Secretary of the Interior.
 
 1972—Subsec. (d). Pub. L. 92–575 provided for waiver of benefits or rights under the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, upon election to retain right of use and occupancy pursuant to this subchapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>o</i>–2, 460<i>o</i>–7 of this title.
 

@@ -18,10 +18,6 @@
 
 1986—Pub. L. 99–603, title I, §103(b), Nov. 6, 1986, 100 Stat. 3380, amended item 1546 generally, striking out “entry” before “documents”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3291 of this title.
-
 
 ---
 

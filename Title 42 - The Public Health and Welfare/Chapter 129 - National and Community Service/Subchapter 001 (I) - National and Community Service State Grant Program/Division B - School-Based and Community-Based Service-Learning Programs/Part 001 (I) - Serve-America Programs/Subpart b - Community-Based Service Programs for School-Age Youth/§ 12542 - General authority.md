@@ -24,7 +24,3 @@ From the funds appropriated to carry out this subpart for a fiscal year, the Cor
 
 A prior section 12542, Pub. L. 101–610, title I, §122, Nov. 16, 1990, 104 Stat. 3140, as amended, which related to allocation of funds by Commission for conservation and youth corps programs, was renumbered section 199B of Pub. L. 101–610 by Pub. L. 103–82, §101(a), and transferred to section 12655a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12511, 12541, 12543, 12544, 12545, 12547 of this title.
-

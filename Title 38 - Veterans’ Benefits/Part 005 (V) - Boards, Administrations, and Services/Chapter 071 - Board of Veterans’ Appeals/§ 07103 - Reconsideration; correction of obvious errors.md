@@ -34,7 +34,3 @@
 
 Amendment by Pub. L. 100–687 effective Jan. 1, 1989, see section 401(d) of Pub. L. 100–687, set out as an Effective Date note under section 7251 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7107 of this title.
-

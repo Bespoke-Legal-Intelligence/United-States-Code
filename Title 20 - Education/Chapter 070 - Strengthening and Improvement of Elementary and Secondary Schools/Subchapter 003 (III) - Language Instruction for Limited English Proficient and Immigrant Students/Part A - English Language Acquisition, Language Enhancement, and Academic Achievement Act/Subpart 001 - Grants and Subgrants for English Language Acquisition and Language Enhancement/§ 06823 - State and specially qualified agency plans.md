@@ -82,7 +82,3 @@ The Secretary shall provide technical assistance, if requested, in the developme
 
 A prior section 3113 of Pub. L. 89–10 was classified to section 6813 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6821 of this title.
-

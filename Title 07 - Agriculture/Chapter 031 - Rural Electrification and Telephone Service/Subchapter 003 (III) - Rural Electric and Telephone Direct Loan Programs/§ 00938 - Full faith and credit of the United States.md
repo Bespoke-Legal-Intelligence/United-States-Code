@@ -14,7 +14,3 @@ Any contract of insurance or guarantee executed by the Secretary under this subc
 
 Section effective May 11, 1973, see section 12 of Pub. L. 93–32, set out as a note under section 930 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 939 of this title.
-

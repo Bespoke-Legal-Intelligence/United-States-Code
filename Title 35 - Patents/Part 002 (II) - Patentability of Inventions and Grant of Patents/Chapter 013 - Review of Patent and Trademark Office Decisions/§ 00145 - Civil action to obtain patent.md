@@ -6,7 +6,7 @@ An applicant dissatisfied with the decision of the Board of Patent Appeals and I
 
 #### Historical and Revision Notes
 
-Based on Title 35, U.S.C., 1946 ed., §63 (R.S. 4915, amended (1) Mar. 2, 1927, ch. 273, §11, 44 Stat. 1336, (2) Mar. 2, 1929, ch. 488, §2(b), 45 Stat. 1476, (3) Aug. 5, 1939, ch. 451, §4, 53 Stat. 1212).
+Based on Title 35, U.S.C., 1946 ed., §63 (R.S. 4915, amended (1) Mar. 2, 1927, ch. 273, §11, 44 Stat. 1336, (2)Mar. 2, 1929, ch. 488, §2(b), 45 Stat. 1476, (3) Aug. 5, 1939, ch. 451, §4, 53 Stat. 1212).
 
 Bill in equity is changed to civil action and the section is restricted to exclude interferences which are covered by the next section. The time for filing the action is changed to the same as the time for appeal. The requirement for the applicant to file a copy of the decision in the Patent Office is omitted.
 
@@ -39,8 +39,4 @@ Amendment by Pub. L. 98–622 effective three months after Nov. 8, 1984, see sec
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 141, 154, 306 of this title; title 28 section 1295.
 

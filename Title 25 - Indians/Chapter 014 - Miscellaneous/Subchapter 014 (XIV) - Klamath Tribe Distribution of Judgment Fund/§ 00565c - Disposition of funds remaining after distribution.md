@@ -8,9 +8,5 @@ Funds remaining in the United States Treasury to the credit of the said Klamath 
 
 The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 565d, 565e of this title.
-
 <i><sup>1</sup></i><i> So in original. No closing parenthesis was enacted.</i>
 

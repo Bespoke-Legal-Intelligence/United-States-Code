@@ -4,7 +4,7 @@
 
 Except as authorized under subsection (b) of this section, no consumer reporting agency may make any consumer report containing any of the following items of information:
 
-(1) Cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years.
+(1) Cases under title 11 or under the Bankruptcy Act that, from the date of entry of theorder for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years.
 
 (2) Civil suits, civil judgments, and records of arrest that, from date of entry, antedate the report by more than seven years or until the governing statute of limitations has expired, whichever is the longer period.
 
@@ -42,7 +42,7 @@ The provisions of subsection (a) of this section are not applicable in the case 
 
 #### (2) Key factor in credit score information
 
-&emsp;Any consumer reporting agency that furnishes a consumer report that contains any credit score or any other risk score or predictor on any consumer shall include in the report a clear and conspicuous statement that a key factor (as defined in section 1681g(f)(2)(B) of this title) that adversely affected such score or predictor was the number of enquiries, if such a predictor was in fact a key factor that adversely affected such score. This paragraph shall not apply to a check services company, acting as such, which issues authorizations forthe purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, but only to the extent that such company is engaged in such activities.
+&emsp;Any consumer reporting agency that furnishes a consumer report that contains any credit score or any other risk score or predictor on any consumer shall include in the report a clear and conspicuous statement that a key factor (as defined in section 1681g(f)(2)(B) of this title) that adversely affected such score or predictor was the number of enquiries, if such a predictor was in fact a key factor that adversely affected such score. This paragraph shall not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, but only to the extent that such company is engaged in such activities.
 
 #### (e) Indication of closure of account by consumer
 
@@ -108,7 +108,7 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 #### References in Text
 
-The Bankruptcy Act, referred to in subsec. (a)(1), was act July 1, 1898, ch. 541, 30 Stat. 544, as amended, whichwas classified to section 1 et seq. of former Title 11, Bankruptcy, prior to its repeal by Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549, section 101 of which enacted revised Title 11.
+The Bankruptcy Act, referred to in subsec. (a)(1), was act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified to section 1 et seq. of former Title 11, Bankruptcy, prior to its repeal by Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549, section 101 of which enacted revised Title 11.
 
 #### Amendments
 
@@ -150,7 +150,7 @@ Pub. L. 108–159, title VIII, §811(c)(2)(B), Dec. 4, 2003, 117 Stat. 2011, pro
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 of Pub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 ofPub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -159,10 +159,6 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1681b, 1681e, 1681g, 1681t of this title; title 20 sections 1080a, 1087cc.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “which”.</i>
 

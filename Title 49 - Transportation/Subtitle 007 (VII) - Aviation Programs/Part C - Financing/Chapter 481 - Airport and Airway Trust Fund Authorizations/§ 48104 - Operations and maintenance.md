@@ -2,7 +2,7 @@
 
 (a)
 
-Authorization of Appropriations.—the <sup>1</sup> balance of the money available in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26U.S.C. 9502) may be appropriated to the Secretary of Transportation out of the Fund for—
+Authorization of Appropriations.—the <sup>1</sup> balance of the money available in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) may be appropriated to the Secretary of Transportation out of the Fund for—
 
 &emsp;(1) direct costs the Secretary incurs to flight check, operate, and maintain air navigation facilities referred to in section 44502(a)(1)(A) of this title safely and efficiently; and
 
@@ -93,10 +93,6 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 48105, 48108 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

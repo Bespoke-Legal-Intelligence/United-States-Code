@@ -66,7 +66,3 @@ The functions and activities of the program shall include, at a minimum—
 
 (Pub. L. 101–619, §5, Nov. 16, 1990, 104 Stat. 3328.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5503 of this title.
-

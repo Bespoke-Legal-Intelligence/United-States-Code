@@ -2,7 +2,7 @@
 
 The Secretary of State is authorized to—
 
-&emsp;(a) provide for participation by the United States in international activities which arise from time to time in the conduct of foreign affairs for which provision has not been made by the terms of any treaty, convention, or special Act of Congress: <i>Provided</i>, That this subsection shall not be construed as granting authority to accept membership for the United States in any international organization, or to participate in the activities of any international organization for more than one year without approval by the Congress; and
+&emsp;(a) provide for participation by the United States in international activities which arisefrom time to time in the conduct of foreign affairs for which provision has not been made by the terms of any treaty, convention, or special Act of Congress: <i>Provided</i>, That this subsection shall not be construed as granting authority to accept membership for the United States in any international organization, or to participate in the activities of any international organization for more than one year without approval by the Congress; and
 
 &emsp;(b) pay the expenses of participation in activities in which the United States participates by authority of subsection (a) of this section, including, but not limited to the following:
 

@@ -14,7 +14,7 @@ The Secretary shall require as a condition to providing Federal assistance for t
 
 &emsp;(6) submit a plan of repayment satisfactory to the Secretary for any loan or advancement made under the provisions of section 1006a of this title.
 
-(Aug. 4, 1954, ch. 656, §4, 68 Stat. 667; Aug. 7, 1956, ch. 1027, §1(c)–(e), 70 Stat. 1088; Pub. L. 85–865, §1, Sept. 2, 1958, 72 Stat. 1605; Pub. L. 86–545, June29, 1960, 74 Stat. 254; Pub. L. 87–703, title I, §§103, 104, Sept. 27, 1962, 76 Stat. 608, 609; Pub. L. 92–419, title II, §201(d)–(f), Aug. 30, 1972, 86 Stat. 668; Pub. L. 97–98, title XV, §1512(d), Dec. 22, 1981, 95 Stat. 1333.)
+(Aug. 4, 1954, ch. 656, §4, 68 Stat. 667; Aug. 7, 1956, ch. 1027, §1(c)–(e), 70 Stat. 1088; Pub. L. 85–865, §1, Sept. 2, 1958, 72 Stat. 1605; Pub. L. 86–545, June 29, 1960, 74 Stat. 254; Pub. L. 87–703, title I, §§103, 104, Sept. 27, 1962, 76 Stat. 608, 609; Pub. L. 92–419, title II, §201(d)–(f), Aug. 30, 1972, 86 Stat. 668; Pub. L. 97–98, title XV, §1512(d), Dec. 22, 1981, 95 Stat. 1333.)
 
 #### Amendments
 
@@ -52,7 +52,7 @@ Section 2 of Pub. L. 85–865 provided that: “The Secretary of Agriculture sha
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 1002 of this title.
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1002 of this title.
 
 #### Public Access to Water Impoundments
 
@@ -61,8 +61,4 @@ Pub. L. 99–662, title IX, §930, Nov. 17, 1986, 100 Stat. 4196, provided that:
 #### Extension of Benefits to Projects Authorized Before Aug. 7, 1956
 
 Amendment by act Aug. 7, 1956, as applicable to all works of improvement and plans for such works under the provisions of this chapter, see Extension of Benefits note set out under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1005 of this title.
 

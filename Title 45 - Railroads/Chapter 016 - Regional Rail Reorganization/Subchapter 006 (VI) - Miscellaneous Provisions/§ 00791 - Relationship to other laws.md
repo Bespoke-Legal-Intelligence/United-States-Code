@@ -30,11 +30,11 @@ The provisions of section 4332(2)(C) of title 42 shall not apply with respect to
 
 (3) The Secretary shall begin the necessary engineering studies and improvements on January 2, 1974.
 
-(4) The final system plan shall provide for any necessary coordination with freight or commuter services of use of the facilities designated in section 716(c)(1)(C) of this title. Such coordination may be effectuated through a single operating entity, designated in the final systemplan, or as mutually agreed upon by the interested parties.
+(4) The final system plan shall provide for any necessary coordination with freight or commuter services of use of the facilities designated in section 716(c)(1)(C) of this title. Such coordination may be effectuated through a single operating entity, designated in the final system plan, or as mutually agreed upon by the interested parties.
 
 (5) Construction or improvements made pursuant to this subsection may be made in consultation with the Corps of Engineers.
 
-(Pub. L. 93–236, title VI, §601(a)–(d), Jan. 2, 1974, 87 Stat. 1021; Pub. L. 94–210, title VI, §618, title VII, §706(b), formerly §705(b), Feb. 5, 1976, 90 Stat. 117, 123, renumbered Pub. L. 96–254, title II, §206(a), May 30, 1980, 94 Stat. 412.)
+(Pub. L. 93–236, title VI, §601(a)–(d), Jan. 2, 1974, 87 Stat. 1021; Pub. L. 94–210, title VI, §618, title VII, §706(b), formerly §705(b), Feb. 5, 1976, 90Stat. 117, 123, renumbered Pub. L. 96–254, title II, §206(a), May 30, 1980, 94 Stat. 412.)
 
 #### References in Text
 
@@ -83,10 +83,6 @@ See section 1341 of this title.
 #### Applicability of National Environmental Policy Act
 
 Section 619 of title VI of Pub. L. 94–210 provided that: “Nothing in this title \[enacting sections 726 and 745 to 747 of this title and amending sections 702, 711 to 713, 716, 718 to 721, 724, 725, 741, 743, 744, 771, 772, 774, 775, 778, 779, and 791 of this title, and section 856 of former Title 31, Money and Finance\] shall affect the application of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) to actions of the Commission.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 716, 719, 741, 742, 743 of this title; title 11 section 1166; title 49 section 24907.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

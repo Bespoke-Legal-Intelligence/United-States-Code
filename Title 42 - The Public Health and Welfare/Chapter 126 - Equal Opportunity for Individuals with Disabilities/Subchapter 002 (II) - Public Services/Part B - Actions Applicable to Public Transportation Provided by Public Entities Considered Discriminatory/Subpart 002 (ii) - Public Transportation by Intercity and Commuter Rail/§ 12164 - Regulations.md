@@ -8,7 +8,3 @@ Not later than 1 year after July 26, 1990, the Secretary of Transportation shall
 
 Section effective July 26, 1990, see section 246(b) of Pub. L. 101–336, set out as a note under section 12161 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12134, 12162, 12165 of this title.
-

@@ -4,7 +4,3 @@ No assignment after March 28, 1908, of an entry made under sections 321 to 323, 
 
 (Mar. 28, 1908, ch. 112, §2, 35 Stat. 52.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 449 of this title.
-

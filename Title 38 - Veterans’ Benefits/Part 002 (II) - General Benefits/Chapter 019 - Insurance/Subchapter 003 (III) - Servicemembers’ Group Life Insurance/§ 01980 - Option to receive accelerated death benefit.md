@@ -24,7 +24,7 @@
 
 (g) If a person insured under Servicemembers’ Group Life Insurance elects to receive a benefit under this section and the person's Servicemembers’ Group Life Insurance is thereafter converted to Veterans’ Group Life Insurance as provided in section 1968(b) of this title, the amount of the benefit paid under this section shall reduce the amount of Veterans’ Group Life Insurance available to the person under section 1977(a) of this title.
 
-(h) Notwithstanding any other provision of law, the amount of the accelerated death benefit received by a person under this section shall not be considered income or resources for purposes of determining eligibility for or the amount of benefits under any Federal or federally-assisted program or for any other purpose.
+(h) Notwithstanding any other provision of law, the amount of the accelerated death benefit received by a person under this section shall not be considered income or resources for purposesof determining eligibility for or the amount of benefits under any Federal or federally-assisted program or for any other purpose.
 
 (Added Pub. L. 105–368, title III, §302(a)(1), Nov. 11, 1998, 112 Stat. 3332.)
 

@@ -32,7 +32,3 @@ For purposes of this section, the inflation percentage applicable to a fiscal ye
 
 1970—Pub. L. 91–620 substituted “$100,000” for “$60,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1943 of this title.
-

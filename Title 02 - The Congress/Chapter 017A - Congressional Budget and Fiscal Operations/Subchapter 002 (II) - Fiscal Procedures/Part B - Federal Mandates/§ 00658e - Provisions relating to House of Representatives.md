@@ -28,7 +28,3 @@ It shall not be in order in the House of Representatives to consider a rule or o
 
 (Pub. L. 93–344, title IV, §426, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 59.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1515 of this title.
-

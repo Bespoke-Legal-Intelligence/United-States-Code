@@ -54,7 +54,3 @@ Section 6(b) of Pub. L. 95–524 provided that: “It is the purpose of this sec
 
 Section 6(e) of Pub. L. 95–524 provided that: “Nothing in this section or the amendments made by this section \[enacting this section, amending sections 173 and 186 of this title, and enacting provisions set out as notes under this section\] shall affect the terms and conditions of any collective bargaining agreement whether in effect prior to or entered into after the date of enactment of this section \[Oct. 27, 1978\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 173 of this title.
-

@@ -8,7 +8,3 @@ The Secretary is authorized to prescribe rules and regulations to carry out the 
 
 Section was not enacted as part of act May 18, 1928, ch. 624, 45 Stat. 602, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 662 of this title.
-

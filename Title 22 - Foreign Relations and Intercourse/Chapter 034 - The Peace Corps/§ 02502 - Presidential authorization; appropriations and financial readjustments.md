@@ -2,7 +2,7 @@
 
 #### (a) Terms and conditions of authorization
 
-The President is authorized to carry out programs in furtherance of the purposes of this chapter, on such terms and conditions as he may determine.
+The President is authorized to carry out programs in furtherance of the purposes of thischapter, on such terms and conditions as he may determine.
 
 #### (b) Authorization of appropriations
 
@@ -134,5 +134,5 @@ Section 601(e)(2) of Pub. L. 97–113 provided that: “The amendment made by pa
 
 #### Payment of Readjustment Allowances From Amount Appropriated for Fiscal Year 1977; Limitation on Amount Available
 
-Section 3 of Pub. L. 94–281 provided that: “Of the amount appropriated for fiscal year 1977 to carry outthe purposes of the Peace Corps Act \[see Short Title note set out under section 2501 of this title\], $10,100,000 shall be available only for payment of the readjustment allowances authorized by sections 5(c) and 6(1) of such Act \[sections 2504(c) and 2505(1) of this title\].”
+Section 3 of Pub. L. 94–281 provided that: “Of the amount appropriated for fiscal year 1977 to carry out the purposes of the Peace Corps Act \[see Short Title note set out under section 2501 of this title\], $10,100,000 shall be available only for payment of the readjustment allowances authorized by sections 5(c) and 6(1) of such Act \[sections 2504(c) and 2505(1) of this title\].”
 

@@ -28,7 +28,7 @@ For purposes of sections 46 to 48c of this title—
 
 (7) The terms “Government” and “entity of the Government” include any entity of the legislative branch or the judicial branch, any executive agency or military department (as such agency and department are respectively defined by sections 102 and 105 of title 5), the United States Postal Service, and any nonappropriated fund instrumentality under the jurisdiction of the Armed Forces.
 
-(8) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
+(8) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico,the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
 (June 25, 1938, ch. 697, §5, as added Pub. L. 92–28, §1, June 23, 1971, 85 Stat. 81; amended Pub. L. 93–358, §1(3), July 25, 1974, 88 Stat. 393; Pub. L. 94–273, §3(22), Apr. 21, 1976, 90 Stat. 377.)
 
@@ -45,8 +45,4 @@ Section effective Aug. 1, 1971, see section 2 of Pub. L. 92–28, set out as an 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2410d; title 40 section 502.
 

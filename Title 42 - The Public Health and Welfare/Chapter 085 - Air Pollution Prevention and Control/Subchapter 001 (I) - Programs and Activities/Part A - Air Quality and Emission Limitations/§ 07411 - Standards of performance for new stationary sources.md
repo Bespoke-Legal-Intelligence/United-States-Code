@@ -56,7 +56,7 @@ For purposes of this section:
 
 &emsp;(B) to enforce the provisions of such plan in cases where the State fails to enforce them as he would have under sections 7413 and 7414 of this title with respect to an implementation plan.
 
-> In promulgating a standard of performance under a plan prescribed under this paragraph, the Administrator shall take into consideration, among other factors, remaining useful lives ofthe sources in the category of sources to which such standard applies.
+> In promulgating a standard of performance under a plan prescribed under this paragraph, the Administrator shall take into consideration, among other factors, remaining useful lives of the sources in the category of sources to which such standard applies.
 
 #### (e) Prohibited acts
 
@@ -110,7 +110,7 @@ After the effective date of standards of performance promulgated under this sect
 
 (1) For purposes of this section, if in the judgment of the Administrator, it is not feasible to prescribe or enforce a standard of performance, he may instead promulgate a design, equipment, work practice, or operational standard, or combination thereof, which reflects the best technological system of continuous emission reduction which (taking into consideration the cost of achieving such emission reduction, and any non-air quality health and environmental impact and energy requirements) the Administrator determines has been adequately demonstrated. In the event the Administrator promulgates a design or equipment standard under this subsection, he shall include as part of such standard such requirements as will assure the proper operation and maintenance of any such element of design or equipment.
 
-(2) For the purpose of this subsection, the phrase “not feasible to prescribe or enforce a standard of performance” means any situation in which the Administrator determines that (A) a pollutant or pollutants cannot be emitted through a conveyance designed and constructed to emit or capture such pollutant, or that any requirement for, or use of, such a conveyance would be inconsistent with any Federal, State,or local law, or (B) the application of measurement methodology to a particular class of sources is not practicable due to technological or economic limitations.
+(2) For the purpose of this subsection, the phrase “not feasible to prescribe or enforce a standard of performance” means any situation in which the Administrator determines that (A) a pollutant or pollutants cannot be emitted through a conveyance designed and constructed to emit or capture such pollutant, or that any requirement for, or use of, such a conveyance would be inconsistent with any Federal, State, or local law, or (B) the application of measurement methodology to a particular class of sources is not practicable due to technological or economic limitations.
 
 (3) If after notice and opportunity for public hearing, any person establishes to the satisfaction of the Administrator that an alternative means of emission limitation will achieve a reduction in emissions of any air pollutant at least equivalent to the reduction in emissions of such air pollutant achieved under the requirements of paragraph (1), the Administrator shall permit the use of such alternative by the source for purposes of compliance with this section with respect to such pollutant.
 
@@ -208,7 +208,7 @@ Subsec. (g)(5) to (8). Pub. L. 101–549, §302(b), redesignated par. (7) as (5)
 
 “(5) Upon application by the Governor of a State showing that the Administrator has failed to list any air pollutant which causes, or contributes to, air pollution which may reasonably be anticipated to result in an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness as a hazardous air pollutant under section 7412 of this title the Administrator shall revise the list of hazardous air pollutants under such section to include such pollutant.
 
-“(6) Upon application by the Governor of a State showing that any category of stationary sources of a hazardous air pollutant listed under section 7412 of this title is not subject to emission standards under such section, the Administrator shall propose and promulgate such emission standards applicable to such category of sources.”
+“(6) Upon application by the Governor of a State showing that any category of stationary sources of ahazardous air pollutant listed under section 7412 of this title is not subject to emission standards under such section, the Administrator shall propose and promulgate such emission standards applicable to such category of sources.”
 
 1978—Subsecs. (d)(1)(A)(ii), (g)(4)(B). Pub. L. 95–623, §13(a)(2), substituted “under this section” for “under subsection (b) of this section”.
 
@@ -262,7 +262,7 @@ Applicability.—The provisions of subsections (a) \[amending this section\] and
 
 #### Transfer of Functions
 
-Enforcement functions of Administrator or other official in Environmental Protection Agency related to compliance with new source performance standards under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, eff. July 1, 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
+Enforcement functions of Administrator or other official in Environmental Protection Agency related to compliance with new source performance standards under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, eff. July 1, 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 #### Pending Actions and Proceedings
 
@@ -270,11 +270,7 @@ Suits, actions, and other proceedings lawfully commenced by or against the Admin
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7412, 7413, 7414, 7416, 7417, 7418, 7420, 7422, 7425, 7429, 7475, 7479, 7501, 7511a, 7511b, 7550, 7604, 7607, 7608, 7616, 7617, 7625–1, 7627, 7651a, 7651d, 7651f, 7651h, 7651n, 7661a, 9601 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an EffectiveDate of 1977 Amendment note under section 7401 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -22,11 +22,11 @@ In providing assistance under such program, the Secretary is also authorized to 
 
 #### (d) Interest rate; term
 
-Each loan made pursuant to this section shall bear interest at a discount or interest rate equal to the rate in effect (at the time the loan ismade) for water resources planning projects under section 80 of the Water Resources Development Act of 1974 (42 U.S.C. 1962(d)–17(a)).<sup>1</sup> Each loan shall be for such term as the Secretary deems appropriate, but not in excess of ten years for loans under subsection (b) of this section or thirty years for loans under subsection (c) of this section.
+Each loan made pursuant to this section shall bear interest at a discount or interest rate equal to the rate in effect (at the time the loan is made) for water resources planning projects under section 80 of the Water Resources Development Act of 1974 (42 U.S.C. 1962(d)–17(a)).<sup>1</sup> Each loan shall be for such term as the Secretary deems appropriate, but not in excess of ten years for loans under subsection (b) of this section or thirty years for loans under subsection (c) of this section.
 
 #### (e) Funding; deposit of amount repaid
 
-Loans pursuant to this section shall be made from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 of this title; and amounts repaid on such loans shall be deposited in the Geothermal Resources Development Fund for purposes of this subchapter.
+Loans pursuant to this section shall be made from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 of this title; and amounts repaid on such loans shall bedeposited in the Geothermal Resources Development Fund for purposes of this subchapter.
 
 #### (f) Authorization of appropriations
 

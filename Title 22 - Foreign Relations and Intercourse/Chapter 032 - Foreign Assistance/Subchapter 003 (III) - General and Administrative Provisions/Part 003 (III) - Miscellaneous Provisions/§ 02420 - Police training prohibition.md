@@ -104,10 +104,6 @@ This determination shall be published in the Federal Register.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2151q, 2152d, 2346c, 2398 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The word “or” probably should appear at end of par. (6).</i>

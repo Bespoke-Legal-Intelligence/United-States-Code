@@ -22,7 +22,3 @@ Any area outside of the national forests that the Secretary and the Governor of 
 
 (Pub. L. 88–655, §2, Oct. 13, 1964, 78 Stat. 1087.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 469d, 469h of this title.
-

@@ -1,6 +1,6 @@
 ### §2113. Depository for agreements between States
 
-The Archivist may receive duplicate originals or authenticated copies of agreements or compacts entered into under the Constitution and laws of the United States, between States of the Union, and take necessary actions for their preservation and servicing.
+The Archivist may receive duplicate originals or authenticated copies of agreements or compacts entered into under the Constitution and laws of the United States, between States of theUnion, and take necessary actions for their preservation and servicing.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1290, §2109; renumbered §2113 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(7), Oct. 19, 1984, 98 Stat. 2280, 2286.)
 
@@ -19,8 +19,4 @@ A prior section 2113 was renumbered section 2117 of this title.
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3102 of this title.
 

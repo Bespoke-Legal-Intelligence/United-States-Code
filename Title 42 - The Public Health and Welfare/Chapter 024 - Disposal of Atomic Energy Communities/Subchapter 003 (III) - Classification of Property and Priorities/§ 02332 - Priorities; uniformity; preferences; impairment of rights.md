@@ -1,6 +1,6 @@
 ### §2332. Priorities; uniformity; preferences; impairment of rights
 
-The Commission shall establish, by rule or regulation, a detailed system of reasonable andfair priority rights applicable to the sale of Government-owned property to private purchasers at each community. The priorities shall—
+The Commission shall establish, by rule or regulation, a detailed system of reasonable and fair priority rights applicable to the sale of Government-owned property to private purchasers at each community. The priorities shall—
 
 &emsp;(a) be uniform in each class or subclass of property;
 
@@ -25,8 +25,4 @@ The Commission shall establish, by rule or regulation, a detailed system of reas
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2326 of this title.
 

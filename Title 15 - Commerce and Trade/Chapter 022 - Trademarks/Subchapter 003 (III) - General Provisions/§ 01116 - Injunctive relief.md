@@ -22,7 +22,7 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 &emsp;(ii) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of this chapter are made available by reason of section 220506 of title 36;
 
-> but such term does not include any mark or designation used on or in connection with goods or services of which the manufacture <sup>1</sup> or producer was, at the time of the manufacture or production in question authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation.
+> but such term does not include any mark or designation used on or in connection with goods or services of which the manufacture <sup>1</sup> or producer was, at the time of the manufacture or production in question authorized to use the mark or designation for the type of goods or services somanufactured or produced, by the holder of the right to use such mark or designation.
 
 (2) The court shall not receive an application under this subsection unless the applicant has given such notice of the application as is reasonable under the circumstances to the United States attorney for the judicial district in which such order is sought. Such attorney may participate in the proceedings arising under such application if such proceedings may affect evidence of an offense against the United States. The court may deny such application if the court determines that the public interest in a potential prosecution so requires.
 
@@ -76,9 +76,9 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 (B) In connection with a hearing under this paragraph, the court may make such orders modifying the time limits for discovery under the Rules of Civil Procedure as may be necessary to prevent the frustration of the purposes of such hearing.
 
-(11) A person who suffers damage by reason of a wrongful seizure under this subsection has a cause of action against the applicant for the order under which such seizure was made, and shall be entitled to recover such relief as may be appropriate, including damages for lost profits, cost of materials, loss of good will, and punitive damages in instances where the seizure was sought in bad faith, and, unless the court finds extenuating circumstances, to recover a reasonable attorney's fee. The court in its discretion may award prejudgment interest on relief recovered under this paragraph, at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of service of the claimant's pleading setting forth the claim under this paragraph and ending on the date such recovery is granted, or for such shorter time as the court deems appropriate.
+(11) A person who suffers damage by reason of a wrongful seizure under this subsection has a cause of action against the applicant for the order under which such seizure was made, and shall be entitled to recover such relief as may be appropriate, including damages for lost profits,cost of materials, loss of good will, and punitive damages in instances where the seizure was sought in bad faith, and, unless the court finds extenuating circumstances, to recover a reasonable attorney's fee. The court in its discretion may award prejudgment interest on relief recovered under this paragraph, at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of service of the claimant's pleading setting forth the claim under this paragraph and ending on the date such recovery is granted, or for such shorter time as the court deems appropriate.
 
-(July 5, 1946, ch. 540, title VI, §34, 60 Stat. 439; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–473, title II, §1503(1), Oct. 12, 1984, 98 Stat. 2179; Pub. L. 100–667, title I, §128(c)–(e), Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §6, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, §3(a)(1), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B,§1000(a)(9) \[title III, §3003(a)(1), title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–548, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(8)–(10), Nov. 2, 2002, 116 Stat. 1908.)
+(July 5, 1946, ch. 540, title VI, §34, 60 Stat. 439; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–473, title II, §1503(1), Oct. 12, 1984, 98 Stat. 2179; Pub. L. 100–667, title I, §128(c)–(e), Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §6, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, §3(a)(1), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3003(a)(1), title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–548, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(8)–(10), Nov. 2, 2002, 116 Stat. 1908.)
 
 #### References in Text
 
@@ -137,10 +137,6 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1117, 1118, 1122, 1125 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “manufacturer”.</i>
 

@@ -6,7 +6,7 @@ It shall be unlawful for any person, directly or indirectly, by the use of the m
 
 &emsp;(1) For the purpose of creating a false or misleading appearance of active trading in any security registered on a national securities exchange, or a false or misleading appearance with respect to the market for any such security, (A) to effect any transaction in such security which involves no change in the beneficial ownership thereof, or (B) to enter an order or orders for the purchase of such security with the knowledge that an order or orders of substantially the same size, at substantially the same time, and at substantially the same price, for the sale of any such security, has been or will be entered by or for the same or different parties, or (C) to enter any order or orders for the sale of any such security with the knowledge that an order or orders of substantially the same size, at substantially the same time, and at substantially the same price, for the purchase of such security, has been or will be entered by or for the same or different parties.
 
-&emsp;(2) To effect, alone or with one or more other persons, a series of transactions in any security registered on a national securities exchange or in connection with any security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) with respect to such security creating actual or apparent active trading in such security, or raising or depressing the price of such security, for the purpose of inducing the purchase or sale of such security by others.
+&emsp;(2) To effect, alone or with one or more other persons, a series of transactions in any security registered on a national securities exchange or in connection with any security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) with respect to such security creating actual or apparent active trading in such security, or raising or depressing the price of such security,for the purpose of inducing the purchase or sale of such security by others.
 
 &emsp;(3) If a dealer or broker, or other person selling or offering for sale or purchasing or offering to purchase the security or a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) with respect to such security, to induce the purchase or sale of any security registered on a national securities exchange or any security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) with respect to such security by the circulation or dissemination in the ordinary course of business of information to the effect that the price of any such security will or is likely to rise or fall because of market operations of any one or more persons conducted for the purpose of raising or depressing the price of such security.
 
@@ -14,7 +14,7 @@ It shall be unlawful for any person, directly or indirectly, by the use of the m
 
 &emsp;(5) For a consideration, received directly or indirectly from a dealer or broker, or other person selling or offering for sale or purchasing or offering to purchase the security or a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) with respect to such security, to induce the purchase of any security registered on a national securities exchange or any security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) with respect to such security by the circulation or dissemination of information to the effect that the price of any such security will or is likely to rise or fall because of the market operations of any one or more persons conducted for the purpose of raising or depressing the price of such security.
 
-&emsp;(6) To effect either alone or with one or more other persons any series of transactions for the purchase and/or sale of any security registered on a national securities exchange for the purpose of pegging, fixing, or stabilizing the price of such security in contravention of such rules and regulations as the Commissionmay prescribe as necessary or appropriate in the public interest or for the protection of investors.
+&emsp;(6) To effect either alone or with one or more other persons any series of transactions for the purchase and/or sale of any security registered on a national securities exchange for the purpose of pegging, fixing, or stabilizing the price of such security in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
 #### (b) Transactions relating to puts, calls, straddles, or options
 
@@ -62,7 +62,7 @@ It shall be unlawful for any person, by the use of the mails or any means or ins
 
 The authority of the Commission under this section with respect to security-based swap agreements (as defined in section 206B of the Gramm-Leach-Bliley Act) shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
 
-(June 6, 1934, ch. 404, title I, §9, 48 Stat. 889; Pub. L. 97–303, §3, Oct. 13, 1982, 96 Stat. 1409; Pub. L.101–432, §6(a), Oct. 16, 1990, 104 Stat. 975; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(1), (2), title III, §303(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–425, 2763A–426, 2763A–453, 2763A–454.)
+(June 6, 1934, ch. 404, title I, §9, 48 Stat. 889; Pub. L. 97–303, §3, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 101–432, §6(a), Oct. 16, 1990, 104 Stat. 975; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(1), (2), title III, §303(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–425, 2763A–426, 2763A–453, 2763A–454.)
 
 #### References in Text
 
@@ -101,8 +101,4 @@ Subsec. (g). Pub. L. 97–303, §3(2), added subsec. (g).
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78j, 78y, 78hh of this title.
 

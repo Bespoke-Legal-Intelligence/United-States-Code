@@ -4,7 +4,3 @@ Any end product manufacturer who is a retail baker shall be exempt from the prov
 
 (Pub. L. 95–113, title XVII, §1707, Sept. 29, 1977, 91 Stat. 1036.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3405 of this title.
-

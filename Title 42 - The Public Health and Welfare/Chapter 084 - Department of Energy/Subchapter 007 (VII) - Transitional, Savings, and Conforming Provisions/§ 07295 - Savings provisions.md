@@ -34,7 +34,3 @@ If, before October 1, 1977, any department or agency, or officer thereof in his 
 
 (Pub. L. 95–91, title VIII, §705, Aug. 4, 1977, 91 Stat. 606.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7341 of this title.
-

@@ -4,7 +4,3 @@ The Special Counsel or any employee of the Special Counsel designated by the Spe
 
 (Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 28.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 40122.
-

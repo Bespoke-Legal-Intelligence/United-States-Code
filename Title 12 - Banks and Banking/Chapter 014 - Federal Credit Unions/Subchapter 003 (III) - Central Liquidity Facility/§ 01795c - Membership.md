@@ -54,9 +54,5 @@ Subsecs. (d), (e). Pub. L. 96–221, §309(a)(4), (b)(2), substituted “Board�
 
 Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630 set out as a note under section 1752 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1795d of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

@@ -4,7 +4,3 @@ The Secretary of the Interior and the Secretary of Agriculture are authorized an
 
 (June 24, 1954, ch. 357, §2, 68 Stat. 271.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1181g, 1181j, 1735, 1752 of this title; title 16 section 521a; title 30 sections 601, 603.
-

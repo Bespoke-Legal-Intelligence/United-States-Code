@@ -46,7 +46,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;&emsp;(B) is operating, to the satisfaction of the Secretary—
 
-&emsp;&emsp;&emsp;(i) a statewide information system from which can be readily determined the status, demographic characteristics, location, and goals for the placement of every child who is (or, within the immediately preceding 12 months, has been) in foster care;
+&emsp;&emsp;&emsp;(i) a statewide information system from which can be readily determined thestatus, demographic characteristics, location, and goals for the placement of every child who is (or, within the immediately preceding 12 months, has been) in foster care;
 
 &emsp;&emsp;&emsp;(ii) a case review system (as defined in section 675(5) of this title) for each child receiving foster care under the supervision of the State;
 
@@ -70,7 +70,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;(14) provide that the State shall collect and report information on children who are adopted from other countries and who enter into State custody as a result of the disruption of a placement for adoption or the dissolution of an adoption, including the number of children, the agencies who handled the placement or adoption, the plans for the child, and the reasons for the disruption or dissolution.
 
-(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Pub. L. 90–248, title II, §240(c), (d), Jan. 2, 1968, 81 Stat. 912, 915; Pub. L. 93–647, §3(a)(6), (7), (h), Jan. 4, 1975, 88 Stat. 2348, 2349; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 517; Pub. L. 101–239, title X, §10403(b)(1), Dec. 19, 1989, 103 Stat. 2488; Pub. L. 103–66, title XIII, §13711(b)(1), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–382, title V, §554, 108 Stat. 4057; Pub. L. 103–432, title II, §§202(a), 204(a), Oct. 31, 1994, 108 Stat. 4453, 4456; Pub. L. 104–193, title I, §108(b), Aug. 22, 1996, 110 Stat. 2165; Pub. L. 105–33, title V, §5592(a)(1)(A), (2), Aug. 5, 1997, 111 Stat. 644; Pub. L. 105–89, title I, §102(1), title II, §202(a), Nov. 19, 1997, 111 Stat. 2117, 2125; Pub. L. 105–200, title IV, §410(b), July 16, 1998, 112 Stat. 673; Pub. L. 106–279, title II, §205, Oct. 6, 2000, 114 Stat. 837.)
+(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Pub. L. 90–248, title II, §240(c), (d), Jan. 2, 1968, 81 Stat. 912, 915; Pub. L. 93–647, §3(a)(6), (7), (h), Jan. 4, 1975, 88 Stat. 2348, 2349; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 517; Pub. L. 101–239, title X, §10403(b)(1), Dec. 19, 1989, 103 Stat. 2488; Pub. L. 103–66, title XIII, §13711(b)(1), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–382, title V, §554, Oct. 20, 1994, 108 Stat. 4057; Pub. L. 103–432, title II, §§202(a), 204(a), Oct. 31, 1994, 108 Stat. 4453, 4456; Pub. L. 104–193, title I, §108(b), Aug. 22, 1996, 110 Stat. 2165; Pub. L. 105–33, title V, §5592(a)(1)(A), (2), Aug. 5, 1997, 111 Stat. 644; Pub. L. 105–89, title I, §102(1), title II, §202(a), Nov. 19, 1997, 111 Stat. 2117, 2125; Pub. L. 105–200, title IV, §410(b), July 16, 1998, 112 Stat. 673; Pub. L. 106–279, title II, §205, Oct. 6, 2000, 114 Stat. 837.)
 
 #### References in Text
 
@@ -78,7 +78,7 @@ Section 103(d) of the Adoption Assistance and Child Welfare Act of 1980, referre
 
 Parts A and E of this subchapter, referred to in subsec. (b)(2), are classified to sections 601 et seq. and 670 et seq. of this title.
 
-The Indian Child Welfare Act, referred to in subsec. (b)(10), probably means the Indian Child Welfare Act of 1978, Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 etseq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
+The Indian Child Welfare Act, referred to in subsec. (b)(10), probably means the Indian Child Welfare Act of 1978, Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
 
 #### Amendments
 
@@ -160,7 +160,7 @@ Section 5593 of title V of Pub. L. 105–33 provided that: “The amendments mad
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisionsrelating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -224,11 +224,7 @@ Section 103(d) of Pub. L. 96–272 provided that: “Notwithstanding section 422
 
 #### Overpayments or Underpayments
 
-Section 240(f)(3) of Pub. L. 90–248 provided that in the case of any State which has a plan developed as provided in part 3 of this subchapter as in effect prior to Jan. 2, 1968, sections 721 to 728 of this title, “any overpayment or underpayment which the Secretary determines was made to the State under section 523 of theSocial Security Act \[section 723 of this title\] and with respect to which adjustment has not then already been made under subsection (b) of such section shall, for purposes of section 422 of such Act \[this section\], be considered an overpayment or underpayment (as the case may be) made under section 422 of such Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 623, 624, 625, 672, 1320a–9, 14914 of this title.
+Section 240(f)(3) of Pub. L. 90–248 provided that in the case of any State which has a plan developed as provided in part 3 of this subchapter as in effect prior to Jan. 2, 1968, sections 721 to 728 of this title, “any overpayment or underpayment which the Secretary determines was made to the State under section 523 of the Social Security Act \[section 723 of this title\] and with respect to which adjustment has not then already been made under subsection (b) of such section shall, for purposes of section 422 of such Act \[this section\], be considered an overpayment or underpayment (as the case may be) made under section 422 of such Act.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

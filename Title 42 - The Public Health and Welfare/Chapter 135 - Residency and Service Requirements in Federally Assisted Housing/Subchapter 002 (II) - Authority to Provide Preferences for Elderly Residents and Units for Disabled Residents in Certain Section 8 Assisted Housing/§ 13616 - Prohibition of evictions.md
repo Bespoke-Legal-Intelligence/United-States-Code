@@ -8,7 +8,3 @@ Any tenant who, except for reservation of a percentage of the units of a project
 
 Covered section 8 housing, referred to in text, is defined in section 13619 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437f, 13611 of this title.
-

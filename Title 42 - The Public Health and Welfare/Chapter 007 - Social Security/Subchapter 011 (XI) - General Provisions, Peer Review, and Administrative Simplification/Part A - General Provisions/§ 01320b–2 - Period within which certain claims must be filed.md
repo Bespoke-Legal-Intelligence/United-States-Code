@@ -38,7 +38,3 @@ Section 306(b), (c) of Pub. L. 96–272 provided that:
 
 “(c) Notwithstanding any other provision of law, there shall be no time limit for the filing or payment of such claims except as provided in this section, unless such other provision of law, in imposing such a time limitation, specifically exempts such filing or payment from the provisions of this section.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1397gg of this title.
-

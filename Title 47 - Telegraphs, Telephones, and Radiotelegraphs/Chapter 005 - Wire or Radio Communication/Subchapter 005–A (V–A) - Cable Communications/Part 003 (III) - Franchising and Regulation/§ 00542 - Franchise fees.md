@@ -74,7 +74,3 @@ Amendment by Pub. L. 102–385 effective 60 days after Oct. 5, 1992, see section
 
 Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 573 of this title.
-

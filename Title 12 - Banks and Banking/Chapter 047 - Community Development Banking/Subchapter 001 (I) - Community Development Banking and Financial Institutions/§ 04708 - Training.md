@@ -40,9 +40,5 @@ The Fund shall coordinate with other appropriate Federal departments or agencies
 
 (Pub. L. 103–325, title I, §109, Sept. 23, 1994, 108 Stat. 2176.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4702, 4711, 4718 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

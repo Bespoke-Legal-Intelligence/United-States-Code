@@ -50,7 +50,3 @@
 
 2001—Pub. L. 107–95 renumbered section 1772 of this title as this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2031, 2042, 2062 of this title.
-

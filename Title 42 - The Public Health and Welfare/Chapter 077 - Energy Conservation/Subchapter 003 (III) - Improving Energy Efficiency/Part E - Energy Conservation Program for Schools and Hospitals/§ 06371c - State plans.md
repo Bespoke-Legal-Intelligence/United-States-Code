@@ -6,7 +6,7 @@ The Secretary shall invite the State energy agency of each State to submit, with
 
 &emsp;(1) the results of preliminary energy audits conducted in accordance with the guidelines prescribed under section 6371a(a)(1) of this title, and an estimate of the energy savings that may result from the modification of maintenance and operating procedures and installation of energy conservation measures in the schools and hospitals in such State;
 
-&emsp;(2) a recommendation as to the types of energy conservation projects considered appropriate for schools and hospitals in such State,together with an estimate of the costs of carrying out such projects in each year for which funds are appropriated;
+&emsp;(2) a recommendation as to the types of energy conservation projects considered appropriate for schools and hospitals in such State, together with an estimate of the costs of carrying out such projects in each year for which funds are appropriated;
 
 &emsp;(3) a program for identifying persons qualified to carry out energy conservation projects;
 
@@ -16,7 +16,7 @@ The Secretary shall invite the State energy agency of each State to submit, with
 
 &emsp;&emsp;(B) to insure that equitable consideration is given to all eligible public or nonprofit institutions regardless of size and type of ownership;
 
-&emsp;(5) a statement of the extent to which, and by which methods, such State will encourage utilization of solar space heating, cooling, and electric systems and solar water heating systems where appropriate;
+&emsp;(5) a statement of the extent to which, and by which methods, such State will encourageutilization of solar space heating, cooling, and electric systems and solar water heating systems where appropriate;
 
 &emsp;(6) procedures to assure that all assistance under this part in such State will be expended in compliance with the requirements of an approved State plan for such State, and in compliance with the requirements of this part;
 
@@ -45,8 +45,4 @@ Subsec. (a)(2). Pub. L. 105–388, §5(a)(10)(B), substituted semicolon for peri
 Subsec. (a)(3), (5). Pub. L. 105–388, §5(a)(10)(A), substituted semicolon for comma at end.
 
 Subsec. (a)(6). Pub. L. 105–388, §5(a)(10)(C), substituted semicolon for colon at end.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6371, 6371d, 6371e of this title.
 

@@ -4,7 +4,3 @@ Whoever steals, unlawfully abstracts, unlawfully and willfully converts to his o
 
 (Aug. 22, 1940, ch. 686, title I, §37, 54 Stat. 841.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–6, 80a–58 of this title.
-

@@ -1,9 +1,5 @@
 Part D—Lamb Reporting
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1636, 1636a of this title.
-
 
 ---
 

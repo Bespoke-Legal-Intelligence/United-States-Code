@@ -34,7 +34,3 @@ Secretary of the Interior empowered to promulgate regulations under this section
 
 Pub. L. 105–312, title I, §104, Oct. 30, 1998, 112 Stat. 2956, provided that: “Not later than 5 years after the date of enactment of this Act \[Oct. 30, 1998\], the Secretary of the Interior shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report analyzing the effect of the amendments made by section 2 \[probably should be section 102, which amended this section\], and the general practice of baiting, on migratory bird conservation and law enforcement efforts under the Migratory Bird Treaty Act (16 U.S.C. 701 et seq.) \[16 U.S.C. 703 et seq.\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 707, 708 of this title.
-

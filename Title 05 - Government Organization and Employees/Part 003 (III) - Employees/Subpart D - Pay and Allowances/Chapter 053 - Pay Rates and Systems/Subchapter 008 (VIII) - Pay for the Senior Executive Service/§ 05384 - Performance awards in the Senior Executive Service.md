@@ -30,7 +30,7 @@
 
 1984—Subsec. (b)(2). Pub. L. 98–615, §302(1), substituted “but may not be less than 5 percent nor more than 20 percent” for “but may not exceed 20 percent”.
 
-Subsec. (b)(3). Pub. L. 98–615, §302(2), substituted provisions limiting the aggregate amount of performance awards paid under this section by an agency during any fiscal year to the greater of 3 percent of the aggregate basic pay of career appointees in that agency during the preceding fiscal year or 15 percent of the average of the annual rates of basic pay of such appointees during such fiscal year for provisions limiting the number of career appointees paid performance awards under this section during any fiscal year to 50 percent of the number of Senior Executive Service positions in such agency, except for an agency having less than 4 such positions.
+Subsec. (b)(3). Pub. L. 98–615, §302(2), substituted provisions limiting the aggregate amount of performance awards paid under this section by an agency during anyfiscal year to the greater of 3 percent of the aggregate basic pay of career appointees in that agency during the preceding fiscal year or 15 percent of the average of the annual rates of basic pay of such appointees during such fiscal year for provisions limiting the number of career appointees paid performance awards under this section during any fiscal year to 50 percent of the number of Senior Executive Service positions in such agency, except for an agency having less than 4 such positions.
 
 #### Effective Date of 1998 Amendment
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 98–615 effective following expiration of 90-day period be
 
 #### Limitation on Number of Performance Awards for Career Appointees
 
-Section 306(c) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, and incorporated by reference in Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat.1189, to be effective as if enacted into law, provided that: “None of the funds appropriated by this Act or any other Act shall be used by any agency to pay performance awards in fiscal year 1983 under section 5384 of title 5, United States Code, or any comparable personnel system established on or after October 13, 1978, to more than 20 per centum of the number of Senior Executive Service or comparable personnel system positions in such agency: <i>Provided</i>, That an agency with less than five Senior Executive Service employees or equivalent positions may grant one such performance award.”
+Section 306(c) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, and incorporated by reference in Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, to be effective as if enacted into law, provided that: “None of the funds appropriated by this Act or any other Act shall be used by any agency to pay performance awards in fiscal year 1983 under section 5384 of title 5, United States Code, or any comparable personnel system established on or after October 13, 1978, to more than 20 per centum of the number of Senior Executive Service or comparable personnel system positions in such agency: <i>Provided</i>, That an agency with less than five Senior Executive Service employees or equivalent positions may grant one such performance award.”
 
 Similar provisions were contained in the following acts:
 
@@ -53,10 +53,6 @@ Pub. L. 96–536, §101(c), Dec. 16, 1980, 94 Stat. 3167.
 Pub. L. 96–369, §101(c), Oct. 1, 1980, 94 Stat. 1352.
 
 Pub. L. 96–304, title III, §303, July 8, 1980, 94 Stat. 927.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3151, 4314, 4507, 9505 of this title; title 10 section 1606; title 22 section 3965; title 31 section 733; title 38 section 7404.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

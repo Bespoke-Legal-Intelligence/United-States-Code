@@ -4,7 +4,3 @@ On the admission of a new State into the Union one star shall be added to the un
 
 (July 30, 1947, ch. 389, 61 Stat. 642.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5 of this title.
-

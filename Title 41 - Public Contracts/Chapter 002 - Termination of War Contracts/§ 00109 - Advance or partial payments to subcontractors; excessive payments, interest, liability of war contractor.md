@@ -10,7 +10,3 @@
 
 For application of this section to war contracts terminated at or before July 21, 1944, see section 124 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 124 of this title.
-

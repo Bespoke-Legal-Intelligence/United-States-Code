@@ -14,7 +14,7 @@
 
 &emsp;(C) Post a surety bond for any injury that may result if the detention or exclusion of the articles proves to be unjustified.
 
-(2) Articles imported in violation of the rights set forth in section 905 are subject to seizure and forfeiture in the same manner as property imported in violation of the customs laws. Any such forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be, except that the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of the law.
+(2) Articles imported in violation of the rights set forth in section 905 are subject to seizure and forfeiture in the same manner as property imported in violation of the customs laws. Any such forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be, except that the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer hadno reasonable grounds for believing that his or her acts constituted a violation of the law.
 
 (Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3352; amended Pub. L. 101–553, §2(b)(1), Nov. 15, 1990, 104 Stat. 2750; Pub. L. 105–80, §12(a)(23), Nov. 13, 1997, 111 Stat. 1535.)
 
@@ -35,8 +35,4 @@ The customs laws, referred to in subsec. (c)(2), are classified generally to Tit
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–553 effective with respect to violations that occur on or after Nov. 15, 1990, see section 3 of Pub. L. 101–553, set out as a note under section 501 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 908, 911, 913 of this title.
 

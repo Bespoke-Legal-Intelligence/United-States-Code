@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—WHISTLEBLOWER PROTECTION PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 46301 of this title.
-
 
 ---
 

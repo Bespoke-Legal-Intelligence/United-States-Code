@@ -44,7 +44,7 @@ Subsecs. (c) to (e). Pub. L. 95–424 struck out subsecs. (c) to (e).
 
 Subsec. (b)(2). Pub. L. 95–88, §113(b)(2), inserted “environment and natural resources;” after “population planning and health;”.
 
-Subsec. (d). Pub. L. 95–88, §101(a), substituted provisions under which the President developed the criteria and factors to be used in assessing the commitment and progress of countries in meeting the objectives set forth in subsec. (c) and transmitted a report by Jan. 31, 1978, to the Speaker of the House and to the Committee on Foreign Relations of the Senate for provisions under which the President had established the criteria without Congressional involvement.
+Subsec. (d). Pub. L. 95–88, §101(a), substituted provisions under which the President developed the criteria and factors to be used in assessing the commitment andprogress of countries in meeting the objectives set forth in subsec. (c) and transmitted a report by Jan. 31, 1978, to the Speaker of the House and to the Committee on Foreign Relations of the Senate for provisions under which the President had established the criteria without Congressional involvement.
 
 Subsec. (e). Pub. L. 95–88, §101(b), added subsec. (e).
 
@@ -73,6 +73,10 @@ Pub. L. 96–53, title V, §512, Aug. 14, 1979, 93 Stat. 380, provided that:
 #### Effective Date of 1978 Amendment
 
 Section 605 of Pub. L. 95–424 provided that: “The amendments made by this Act \[see Short Title of 1978 Amendment note below\] shall take effect on October 1, 1978.”
+
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–484, §1, Dec. 23, 2004, 118 Stat. 3922, provided that: “This Act \[enacting sections 2211 to 2211d, 2214, and 2214a of this title, amending sections 2212 and 2213 of this title, transferring sections 2151f and 2152b of this title to sections 2212 and 2213, respectively, of this title, repealing section 2152a of this title, enacting provisions set out as notes under section 2211 of this title, and amending provisions set out as a note under section 2212 of this title\] may be cited as the ‘Microenterprise Results and Accountability Act of 2004’.”
 
 #### Short Title of 2003 Amendments
 
@@ -132,7 +136,7 @@ Pub. L. 103–392, §1, Oct. 22, 1994, 108 Stat. 4098, provided that: “This Ac
 
 Pub. L. 102–583, §1, Nov. 2, 1992, 106 Stat. 4914, provided that Pub. L. 102–583 could be cited as the “International Narcotics Control Act of 1992”, prior to repeal by Pub. L. 103–447, title I, §103(a), Nov. 2, 1994, 108 Stat. 4693.
 
-Pub. L. 102–549, §1, Oct. 28, 1992, 106 Stat. 3651, provided that: “This Act \[enacting sections 2077, 2200b, 2421a to 2421e, and 2430 to 2430i of this title and section 4723a of Title 15, Commerce and Trade, amending sections 2191, 2191a, 2194, 2195, 2197 to 2199, 2200a, 2421, and 5401 of this title, section 5314 of Title 5, Government Organization and Employees, section 1738i of Title 7, Agriculture, and sections 635q to 635s of Title 12, Banks and Banking, repealing section 2296 of this title, enacting provisions set out as notes under this section and sections 262s–2, 2296, 2421, and 2421a of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Jobs Through Exports Act of 1992’.”
+Pub. L. 102–549, §1, Oct. 28, 1992, 106 Stat. 3651, provided that: “This Act \[enacting sections 2077, 2200b, 2421a to 2421e, and 2430 to 2430i of this title and section 4723a of Title 15, Commerce and Trade, amending sections 2191, 2191a, 2194, 2195, 2197 to 2199, 2200a, 2421, and 5401 of this title, section 5314 of Title 5, Government Organization and Employees, section 1738i of Title 7, Agriculture, and sections 635q to 635s of Title 12, Banks andBanking, repealing section 2296 of this title, enacting provisions set out as notes under this section and sections 262s–2, 2296, 2421, and 2421a of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Jobs Through Exports Act of 1992’.”
 
 Pub. L. 102–549, title VI, §601, Oct. 28, 1992, 106 Stat. 3664, provided that: “This title \[enacting sections 2077 and 2430 to 2430i of this title, amending section 1738i of Title 7, Agriculture, repealing section 2296 of this title, and enacting provisions set out as a note under section 2296 of this title\] may be cited as the ‘Enterprise for the Americas Act of 1992’.”
 
@@ -160,7 +164,7 @@ Pub. L. 100–461, title V, §555 \[H.R. 5263, title I, §101, and S. 2757, titl
 
 Pub. L. 99–570, title II, §2001, Oct. 27, 1986, 100 Stat. 3207–60, provided that title II of Pub. L. 99–570 could be cited as the “International Narcotics Control Act of 1986”, prior to repeal by Pub. L. 103–447, title I, §103(c), Nov. 2, 1994, 108 Stat. 4694.
 
-Pub. L. 99–529, §1, Oct. 24, 1986, 100 Stat. 3010, provided that: “This Act \[enacting section 2151p–1 of this title, amending sections 290f, 2151b, 2151p, 2151q, 2222, 2291a,2427, and 3929 of this title, and enacting provisions set out as a note under section 290f of this title\] may be cited as the ‘Special Foreign Assistance Act of 1986’.”
+Pub. L. 99–529, §1, Oct. 24, 1986, 100 Stat. 3010, provided that: “This Act \[enacting section 2151p–1 of this title, amending sections 290f, 2151b, 2151p, 2151q, 2222, 2291a, 2427, and 3929 of this title, and enacting provisions set out as a note under section 290f of this title\] may be cited as the ‘Special Foreign Assistance Act of 1986’.”
 
 #### Short Title of 1985 Amendments
 
@@ -218,7 +222,7 @@ Section 1 of Pub. L. 94–161 provided: “That this Act \[redesignating as sect
 
 #### Short Title of 1974 Amendments
 
-Pub. L. 93–559, §1, Dec. 30, 1974, 88 Stat. 1795, provided: “That this Act \[enacting sections 2151m, 2175a, 2182a, 2225, 2293, 2304, 2321h, 2321i, 2419 to 2424, 2435, and 2441 to 2443 of this title, amending sections 278, 2151a to 2151c, 2163, 2181, 2183, 2219a, 2222, 2261, 2312, 2318, 2321b, 2321f, 2346a, 2360, 2364, 2370, 2394, 2399, 2413, 2415, 2416, 2753, 2763, 2764, 2771, 2773, 2775, and 2776 of this title, repealing sections 2151j and 2200 of this title, enacting provisions set out as notes under sections 2166, 2175, 2311, 2370, 2399, 2406, 2415, 2431 to 2433, 2551, and 2764 of this title, and repealing provisions set out as a note under this section\] may be cited as the ‘Foreign Assistance Act of 1974’.”
+Pub. L. 93–559, §1, Dec. 30, 1974, 88 Stat. 1795, provided: “That this Act \[enacting sections 2151m, 2175a, 2182a, 2225, 2293, 2304, 2321h, 2321i, 2419 to 2424, 2435, and 2441 to 2443 of this title, amending sections 278, 2151a to 2151c,2163, 2181, 2183, 2219a, 2222, 2261, 2312, 2318, 2321b, 2321f, 2346a, 2360, 2364, 2370, 2394, 2399, 2413, 2415, 2416, 2753, 2763, 2764, 2771, 2773, 2775, and 2776 of this title, repealing sections 2151j and 2200 of this title, enacting provisions set out as notes under sections 2166, 2175, 2311, 2370, 2399, 2406, 2415, 2431 to 2433, 2551, and 2764 of this title, and repealing provisions set out as a note under this section\] may be cited as the ‘Foreign Assistance Act of 1974’.”
 
 Pub. L. 93–390, §1, Aug. 27, 1974, 88 Stat. 763, provided: “That this Act \[amending sections 2191, 2194, 2195, 2197, 2199, 2200 and 2200a of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1974’.”
 
@@ -246,7 +250,7 @@ Pub. L. 90–554, §1, Oct. 8, 1968, 82 Stat. 960, provided: “That this Act \[
 
 #### Short Title of 1967 Amendment
 
-Section 1 of Pub. L. 90–137 provided: “That this Act \[enacting sections 2167 to 2169, 2178, 2219, 2219a, 2220, 2224, 2243, 2302, 2341 to 2345, and 2409 of this title, amending this section and sections 276, 276c–1, 1928b to 1928d, 1934, 2161, 2162, 2165, 2171, 2172, 2174, 2181 to 2184, 2192, 2211, 2212, 2218, 2221, 2222, 2241, 2242, 2261, 2271, 2301, 2302,2311, 2312, 2314, 2318 to 2321, 2341 to 2345, 2351, 2358, 2360, 2361, 2364, 2384 to 2386, 2389, 2392, 2394 to 2397, 2399a, and 2403 of this title, repealing sections 2217b and 2317(a) of this title, and enacting provision set out as a note under section 2395 of this title\] may be cited as the ‘Foreign Assistance Act of 1967’.”
+Section 1 of Pub. L. 90–137 provided: “That this Act \[enacting sections 2167 to 2169, 2178, 2219, 2219a, 2220, 2224, 2243, 2302, 2341 to 2345, and 2409 of this title, amending this section and sections 276, 276c–1, 1928b to 1928d, 1934, 2161, 2162, 2165, 2171, 2172, 2174, 2181 to 2184, 2192, 2211, 2212, 2218, 2221, 2222, 2241, 2242, 2261, 2271, 2301, 2302, 2311, 2312, 2314, 2318 to 2321, 2341 to 2345, 2351, 2358, 2360, 2361, 2364, 2384 to 2386, 2389, 2392, 2394 to 2397, 2399a, and 2403 of this title, repealing sections 2217b and 2317(a) of this title, and enacting provision set out as a note under section 2395 of this title\] may be cited as the ‘Foreign Assistance Act of 1967’.”
 
 #### Short Title of 1966 Amendment
 
@@ -270,7 +274,7 @@ Section 1 of Pub. L. 87–565 provided: “That this Act \[enacting sections 221
 
 #### Short Title
 
-Section 1 of Pub. L. 87–195, as added by Pub. L. 87–329, title I, §111, Sept. 30, 1961, 75 Stat. 719, provided: “That this Act \[enacting this chapter and sections 1613d and 1945 of this title, amending sections 276, 279a, 1041, 1112, 1136, 1148, 1157, 1754, 1783, 1925, 1951 and 1964 of this title, section 1704 of Title 7, Agriculture, and sections 1651 and 1701 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 276, 1613d, and 1925 of this title, and repealing sections 1750, 1750a, 1750b to 1753a, 1755 to 1759, 1760, 1761 to 1765, 1766a to 1766c, 1767a, 1768, 1781, 1782, 1784 to 1795, 1797, 1811, 1812 to 1817, 1841, 1851, 1852, 1854, 1870, 1871 to 1876, 1891 to 1896, 1897, 1920, 1921, 1923, 1924, 1926, 1927, 1929, 1931, 1933, 1935, 1936, 1939 to 1940a, 1941, 2051 to 2053, 2071 and 2072 of this title, Reorganization Plan No. 7 of 1953, and provisions set out as notes under sections 1753, 1783, 1922, 1928b, 1939 and 1951 of this title\] may be cited as ‘The Foreign Assistance Act of 1961’.”
+Section 1 of Pub. L. 87–195, as added by Pub. L. 87–329, title I, §111, Sept. 30, 1961, 75 Stat. 719, provided: “That this Act \[enacting this chapter and sections 1613d and 1945 of this title, amending sections 276, 279a, 1041, 1112, 1136, 1148, 1157, 1754, 1783, 1925, 1951 and 1964 of this title,section 1704 of Title 7, Agriculture, and sections 1651 and 1701 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 276, 1613d, and 1925 of this title, and repealing sections 1750, 1750a, 1750b to 1753a, 1755 to 1759, 1760, 1761 to 1765, 1766a to 1766c, 1767a, 1768, 1781, 1782, 1784 to 1795, 1797, 1811, 1812 to 1817, 1841, 1851, 1852, 1854, 1870, 1871 to 1876, 1891 to 1896, 1897, 1920, 1921, 1923, 1924, 1926, 1927, 1929, 1931, 1933, 1935, 1936, 1939 to 1940a, 1941, 2051 to 2053, 2071 and 2072 of this title, Reorganization Plan No. 7 of 1953, and provisions set out as notes under sections 1753, 1783, 1922, 1928b, 1939 and 1951 of this title\] may be cited as ‘The Foreign Assistance Act of 1961’.”
 
 Section 101 of Pub. L. 87–195 which provided that this subchapter should be cited as the “Act for International Development of 1961” was repealed by section 101(b) of Pub. L. 88–205.
 
@@ -340,7 +344,7 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;“(11) Israel has withdrawn all of its armed forces from Lebanon in accordance with United Nations Security Council Resolution 425 (March 19, 1978), as certified by the United Nations Secretary General.
 
-&emsp;“(12) Even in the face of this United Nations certification that acknowledged Israel's full compliance with Security Council Resolution 425, Syrian- and Iranian-supported Hizballah continues to attack Israeli outposts at Shebaa Farms, under the pretense that Shebaa Farms is territory from which Israel was required to withdraw by Security Counsel Resolution 425, and Syrian- and Iranian-supported Hizballah and other militant organizations continue to attack civilian targets in Israel.
+&emsp;“(12) Even in the face of this United Nations certification that acknowledged Israel's full compliance with Security Council Resolution 425, Syrian- and Iranian-supported Hizballah continues to attack Israeli outposts at Shebaa Farms, under the pretense that Shebaa Farms is territory from which Israel was required to withdraw by Security Counsel Resolution 425, and Syrian- and Iranian-supported Hizballah andother militant organizations continue to attack civilian targets in Israel.
 
 &emsp;“(13) Syria will not allow Lebanon—a sovereign country—to fulfill its obligation in accordance with Security Council Resolution 425 to deploy its troops to southern Lebanon.
 
@@ -426,7 +430,7 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;“(5) Syria is in violation of United Nations Security Council Resolution 520 (September 17, 1982) through its continued occupation of Lebanese territory and its encroachment upon Lebanon's political independence;
 
-&emsp;“(6) Syria's obligation to withdraw from Lebanon is not conditioned upon progress in the Israeli-Syrian orIsraeli-Lebanese peace process but derives from Syria's obligation under Security Council Resolution 520;
+&emsp;“(6) Syria's obligation to withdraw from Lebanon is not conditioned upon progress in the Israeli-Syrian or Israeli-Lebanese peace process but derives from Syria's obligation under Security Council Resolution 520;
 
 &emsp;“(7) Syria's acquisition of weapons of mass destruction and ballistic missile programs threaten the security of the Middle East and the national security interests of the United States;
 
@@ -506,11 +510,11 @@ Form.—The report submitted under subsection (a) shall be in unclassified form 
 
 #### Iraq Relief and Reconstruction Fund
 
-Pub. L. 108–106, title II, §§2207, 2208, Nov. 6, 2003, 117 Stat. 1231, provided that:
+Pub. L. 108–106, title II, §§2207, 2208, Nov. 6, 2003, 117 Stat. 1231, as amended by section 574(a) of H.R. 4818, One Hundred Eighth Congress, as passed by the House of Representatives on July 15, 2004, and as enacted into law by Pub. L. 108–309, §135, Sept. 30, 2004, 118 Stat. 1143, provided that:
 
 “
 
-Sec. 2207. (a) The Director of the Office of Management and Budget, in consultation with the Administrator of the Coalition Provisional Authority (CPA) and the Committees on Appropriations, shall submit to the Committees on Appropriations not later than January 5, 2004 and prior to the initial obligation of funds appropriated by this Act under the heading ‘Iraq Relief and Reconstruction Fund’ \[117 Stat. 1225\] a report on the proposed uses of all funds under this heading on a project-by-project basis, for which the obligation of funds is anticipated during the 3 month period from such date, including estimates by the CPA of the costs required to complete each such project: <i>Provided</i>, That up to 20 percent of funds appropriated under such heading may be obligated before the submission of the report: <i>Provided further</i>, That in addition such report shall include the following:
+Sec. 2207. (a) The Secretary of State shall submit to the Committees on Appropriations not later than January 5, 2004 and prior to the initial obligation of funds appropriated by this Act under the heading ‘Iraq Relief and Reconstruction Fund’ \[117 Stat. 1225\] a report on the proposed uses of all funds under this heading on a project-by-project basis, for which the obligation of funds is anticipated during the 3 month period from such date, including estimates by the CPA of the costs required to complete each such project: <i>Provided</i>, That up to 20 percent of funds appropriated under such heading may be obligated before the submission of the report: <i>Provided further</i>, That in addition such report shall include the following:
 
 &emsp;“(1) The use of all funds on a project-by-project basis for which funds appropriated under such heading were obligated prior to the submission of the report, including estimates by the CPA of the costs required to complete each project.
 
@@ -548,7 +552,7 @@ Pub. L. 108–11, title I, §1506, Apr. 16, 2003, 117 Stat. 580, provided that:
 
 Initial Report.—Not later than 45 days after the date of enactment of this Act \[Apr. 16, 2003\], the President shall submit to the Committees on Appropriations a report on the United States strategy regarding activities related to post-conflict security, humanitarian assistance, governance, and reconstruction in Iraq that are undertaken as a result of Operation Iraqi Freedom. The report shall include the following:
 
-&emsp;“(1) The distribution of duties and responsibilities regarding such activities among agencies of the United States Government, including the Department of State, the United States Agency for International Development, and the Department of Defense (to be provided within 30 days of enactment of this Act).
+&emsp;“(1) The distribution of duties and responsibilities regarding such activities among agencies of theUnited States Government, including the Department of State, the United States Agency for International Development, and the Department of Defense (to be provided within 30 days of enactment of this Act).
 
 &emsp;“(2) A detailed plan describing the roles and responsibilities of foreign governments and international organizations including the United Nations, in carrying out activities related to post-conflict security, humanitarian assistance, governance, and reconstruction in Iraq.
 
@@ -598,15 +602,23 @@ Report.—
 
 Notification.—Assistance provided under subsection (a) shall be subject to the regular notification procedures of the Committees on Appropriations.”
 
-Similar provisions were contained in the following prior appropriation act:
+Provisions similar to section 582(a), (c) of div. E of Pub. L. 108–7 were contained in the following appropriation acts:
+
+Pub. L. 108–447, div. D, title V, §564, Dec. 8, 2004, 118 Stat. 3022.
+
+Pub. L. 108–199, div. D, title V, §573, Jan. 23, 2004, 118 Stat. 199.
 
 Pub. L. 107–115, title V, §587, Jan. 10, 2002, 115 Stat. 2173.
 
 #### Assistance for Zimbabwe
 
-Pub. L. 108–7, div. E, title V, §556, Feb. 20, 2003, 117 Stat. 202, provided that: “The Secretary of the Treasury shall instruct the United States executive director to each international financial institution to vote against any extension by the respective institution of any loans, to the Government of Zimbabwe, except to meet basic human needs or to promote democracy, unless the Secretary of State determines and certifies to the Committees on Appropriations that the rule of law has been restored in Zimbabwe, including respect for ownership and title to property, freedom of speech and association.”
+Pub. L. 108–447, div. D, title V, §580, Dec. 8, 2004, 118 Stat. 3030, provided that: “The Secretary of the Treasury shall instruct the United States executive director to each international financial institution to vote against any extension by the respective institution of any loans to the Government of Zimbabwe, except to meet basic human needs or to promote democracy, unless the Secretary of State determines and certifies to the Committees on Appropriations that the rule of law has been restored in Zimbabwe, including respect for ownership and title to property, freedom of speech and association.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–199, div. D, title V, §557, Jan. 23, 2004, 118 Stat. 190.
+
+Pub. L. 108–7, div. E, title V, §556, Feb. 20, 2003, 117 Stat. 202.
 
 Pub. L. 107–115, title V, §560, Jan. 10, 2002, 115 Stat. 2162.
 
@@ -702,7 +714,7 @@ Fulfillment of agreement ending war in democratic republic of congo.—The Gover
 
 &emsp;“(5)
 
-Military and national police subordinate to civilian government.—The Zimbabwean Armed Forces, the National Police of Zimbabwe, and otherstate security forces are responsible to and serve the elected civilian government.
+Military and national police subordinate to civilian government.—The Zimbabwean Armed Forces, the National Police of Zimbabwe, and other state security forces are responsible to and serve the elected civilian government.
 
 “(e)
 
@@ -746,7 +758,7 @@ Supersedes Other Laws.—The authority in this section supersedes any other prov
 
 #### Report on Relations With Vietnam
 
-Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2805, Oct. 21, 1998, 112 Stat. 2681–846, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that: “In order to provide Congress with the necessary information by which to evaluate the relationship between the United States and Vietnam, the Secretary of State shall submit a report to the appropriate congressional committees \[Committee on International Relations of House of Representatives and Committee on Foreign Relations of Senate\], not later than 90 days after the date of enactment of this Act \[Oct. 21, 1998\] and every 180 days thereafter during the period ending September 30, 2001, on the extent to which—
+Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2805, Oct. 21, 1998, 112 Stat. 2681–846, as amended by Pub. L.106–113, div. B, §1000(a)(7) \[div. A, title II, §209(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that: “In order to provide Congress with the necessary information by which to evaluate the relationship between the United States and Vietnam, the Secretary of State shall submit a report to the appropriate congressional committees \[Committee on International Relations of House of Representatives and Committee on Foreign Relations of Senate\], not later than 90 days after the date of enactment of this Act \[Oct. 21, 1998\] and every 180 days thereafter during the period ending September 30, 2001, on the extent to which—
 
 &emsp;“(1) the Government of the Socialist Republic of Vietnam is cooperating with the United States in providing the fullest possible accounting of all unresolved cases of prisoners of war (POWs) or persons missing-in-action (MIAs) through the provision of records and the unilateral and joint recovery and repatriation of American remains;
 
@@ -820,7 +832,7 @@ Military assistance.—(A) The President is authorized to direct the drawdown of
 
 “(b)
 
-Humanitarian Assistance.—The Congress urges the President to use existing authorities under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] to provide humanitarian assistance to individuals living in areas of Iraq controlled by organizations designated in accordance with section 5, with emphasis on addressing the needs of individuals who have fled to such areas from areas under the control of the Saddam Hussein regime.
+Humanitarian Assistance.—The Congress urges the President to use existing authorities under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] to provide humanitarian assistance to individuals livingin areas of Iraq controlled by organizations designated in accordance with section 5, with emphasis on addressing the needs of individuals who have fled to such areas from areas under the control of the Saddam Hussein regime.
 
 “(c)
 
@@ -880,7 +892,7 @@ Notification Requirement.—At least 15 days in advance of designating an Iraqi 
 
 #### “SEC. 7. ASSISTANCE FOR IRAQ UPON REPLACEMENT OF SADDAM HUSSEIN REGIME.
 
-“It is the sense of the Congress that once the Saddam Hussein regime is removed from power in Iraq, the United States should support Iraq's transition to democracy by providing immediate and substantial humanitarian assistance to the Iraqi people, by providingdemocracy transition assistance to Iraqi parties and movements with democratic goals, and by convening Iraq's foreign creditors to develop a multilateral response to Iraq's foreign debt incurred by Saddam Hussein's regime.
+“It is the sense of the Congress that once the Saddam Hussein regime is removed from power in Iraq, the United States should support Iraq's transition to democracy by providing immediate and substantial humanitarian assistance to the Iraqi people, by providing democracy transition assistance to Iraqi parties and movements with democratic goals, and by convening Iraq's foreign creditors to develop a multilateral response to Iraq's foreign debt incurred by Saddam Hussein's regime.
 
 #### “SEC. 8. RULE OF CONSTRUCTION.
 
@@ -1174,7 +1186,7 @@ Authorization of Limited Assistance.—The President is authorized to provide—
 
 &emsp;“(2) assistance for the resettlement of refugees, the demobilization and retraining of troops, and the provision of other appropriate assistance:
 
-> <i>Provided</i>, That the President determines and so certifies to the Committee on Foreign Relations and theCommittee on Appropriations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Appropriations of the House of Representatives that Liberia has made significant progress toward democratization and that the provision of such assistance will assist that country in making further progress and is otherwise in the national interest of the United States. A separate determination and certification shall be required for each fiscal year in which such assistance is to be provided.”
+> <i>Provided</i>, That the President determines and so certifies to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Appropriations of the House of Representatives that Liberia has made significant progress toward democratization and that the provision of such assistance will assist that country in making further progress and is otherwise in the national interest of the United States. A separate determination and certification shall be required for each fiscal year in which such assistance is to be provided.”
 
 #### Suspension of Certain Programs and Activities Relating to the People's Republic of China
 
@@ -1204,7 +1216,7 @@ Crime control and detection instruments and equipment.—The issuance of any lic
 
 &emsp;“(5)
 
-Export of satellites for launch by the people's republic of china.—Exports of any satellite of United States origin that is intended for launch from a launch vehicle owned by the People's Republic of China shall remain suspended, unless the President makes a report under subsection (b)(1) or (2) of this section.
+Export of satellites for launch by the people's republic of china.—Exports of any satellite of United States origin that is intended for launch from a launch vehicle owned by the People's Republic of China shall remain suspended, unless the Presidentmakes a report under subsection (b)(1) or (2) of this section.
 
 &emsp;“(6)
 
@@ -1414,7 +1426,7 @@ Section 133 of Pub. L. 95–88, as amended by Pub. L. 96–53, title I, §123, A
 
 &emsp;“(5) a detailed projection of the administrative budgetary impact of the establishment of the section on minority business; and
 
-&emsp;“(6) a detailed set of objective criteria upon which determinations will be made as to the qualificationsof minority business enterprises to receive contracts funded by such agency.
+&emsp;“(6) a detailed set of objective criteria upon which determinations will be made as to the qualifications of minority business enterprises to receive contracts funded by such agency.
 
 “(c)(1) Upon the enactment of the International Development Cooperation Act of 1979 \[Aug. 14, 1979\], the section on minority business established pursuant to subsection (a) shall be redesignated as the Minority Resource Center (hereafter in this section referred to as the ‘Center’) which shall be responsible for increasing the participation of economically and socially disadvantaged business enterprises in contract, procurement, grant, and research and development activities funded by the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 \[this subchapter\] (hereafter in this section referred to as the ‘agency’).
 
@@ -1507,8 +1519,4 @@ Defense service.—The term ‘defense service’ has the meaning given the term
 &emsp;“(3)
 
 Excess defense article.—The term ‘excess defense article’ has the meaning given the term in section 644(g) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(g)).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2151–1, 2151v, 2162, 2399c, 3502, 6593 of this title.
 

@@ -12,7 +12,3 @@ Acts July 31, 1894, and June 10, 1921, abolished offices of First Comptroller an
 
 “Undersecretary of the Treasury” was substituted in text for “the First Comptroller” on authority of act Feb. 17, 1922.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 97 of this title.
-

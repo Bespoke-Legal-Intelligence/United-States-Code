@@ -20,9 +20,5 @@ Pub. L. 107–368, §26, Dec. 19, 2002, 116 Stat. 3067, provided that: “The Di
 
 \[For definitions of terms used in section 26 of Pub. L. 107–368, set out above, see section 4 of Pub. L. 107–368, set out as a note under section 1862n of this title.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1862n–7 of this title; title 15 sections 638, 657d.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

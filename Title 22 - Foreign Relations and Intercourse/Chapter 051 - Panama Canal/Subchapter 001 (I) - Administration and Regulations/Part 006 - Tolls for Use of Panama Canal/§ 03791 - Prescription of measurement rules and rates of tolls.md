@@ -24,7 +24,3 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 “(b) Such rules of measurement and tolls prevailing on October 1, 1979, shall continue in effect until changed as provided in this part.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3794 of this title.
-

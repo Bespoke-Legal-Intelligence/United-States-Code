@@ -54,7 +54,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “2302” for “902” in two places in introductory provisions.
 
-1990—Subsec. (b)(2). Pub. L. 101–508 inserted “(other than a veteran whose eligibility for benefits under thissubsection is based on being a veteran of any war)” after “if such veteran”.
+1990—Subsec. (b)(2). Pub. L. 101–508 inserted “(other than a veteran whose eligibility for benefits under this subsection is based on being a veteran of any war)” after “if such veteran”.
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -115,8 +115,4 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 Amendment
 
 Section 10(b) of Pub. L. 93–43 provided that: “Clause (1) of section 5(a) \[amending this section\] shall take effect on the first day of the second calendar month following the date of enactment of this Act \[June 18, 1973\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 113, 2307 of this title.
 

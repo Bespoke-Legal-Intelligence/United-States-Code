@@ -46,13 +46,13 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 #### (f) Grants-in-aid programs; designation of State administrative agency; matching funds; applications and plans; allotments; cost limitations; grants to regional groups; non-Federal funding; definitions; suspension of grants; single entity limitation
 
-(1) The Chairperson, with the advice of the National Council on the Humanities, is authorized, in accordance with the provisions of this subsection, to establish and carry out a program of grants-in-aid in each of the several States in order to support not more than 50 per centum of the cost of existing activities which meet the standards enumerated in subsection (c) of this section, and in order to develop a program in thehumanities in such a manner as will furnish adequate programs in the humanities in each of the several States.
+(1) The Chairperson, with the advice of the National Council on the Humanities, is authorized, in accordance with the provisions of this subsection, to establish and carry out a program of grants-in-aid in each of the several States in order to support not more than 50 per centum of the cost of existing activities which meet the standards enumerated in subsection (c) of this section, and in order to develop a program in the humanities in such a manner as will furnish adequate programs in the humanities in each of the several States.
 
 (2)(A) Whenever a State desires to designate or to provide for the establishment of a State agency as the sole agency for the administration of the State plan, such State shall designate the humanities council in existence on the date the State agency is established as the State agency, and shall match from State funds a sum equal to 50 per centum of that portion of Federal financial assistance received by such State under this subsection which is described in the first sentence of paragraph (4) relating to the minimum State grant, or 25 per centum of the total amount of Federal financial assistance received by such State under this subsection, whichever is greater, for the fiscal year involved. In any State in which the State selects the option described in this subparagraph, the State shall submit, before the beginning of each fiscal year, an application for grants and accompany such application with a plan which the Chairperson finds—
 
 &emsp;(i) designates or provides for the establishment of a State agency (hereinafter in this section referred to as the “State agency”) as the sole agency for the administration of the State plan;
 
-&emsp;(ii) provides that the chief executive officer of the State will appoint new members to the State humanities council designated under the provisions of this subparagraph, as vacancies occur as a result of the expiration of the terms of members of such council, until the chief executive officer has appointed all of the members of such council;
+&emsp;(ii) provides that the chief executive officer of the State will appoint new members to the State humanities council designated under theprovisions of this subparagraph, as vacancies occur as a result of the expiration of the terms of members of such council, until the chief executive officer has appointed all of the members of such council;
 
 &emsp;(iii) provides, from State funds, an amount equal to 50 per centum of that portion of Federal financial assistance received by such State under this subsection which is described in the first sentence of paragraph (4) relating to the minimum State grant, or 25 per centum of the total amount of Federal financial assistance received by such State under this subsection, whichever is greater, for the fiscal year involved;
 
@@ -94,7 +94,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;(D) provides a nomination process which assures opportunities for nomination to membership from various groups within the State involved and from a variety of segments of the population of such State, and including individuals who by reason of their achievement, scholarship, or creativity in the humanities, are especially qualified to serve;
 
-&emsp;(E) provides for a membership rotation process which assures the regular rotation of themembership and officers of such grant recipient;
+&emsp;(E) provides for a membership rotation process which assures the regular rotation of the membership and officers of such grant recipient;
 
 &emsp;(F) establishes reporting procedures which are designed to inform the chief executive officer of the State involved, and other appropriate officers and agencies, of the activities of such grant recipient;
 
@@ -158,7 +158,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 #### (g) Payment of performers and supporting personnel; standards, regulations, and procedures
 
-It shall be a condition of the receipt of any grant under this section that the group, individual, or State agency or entity receiving such grant furnish adequate assurances to the Secretary of Labor that (1) all professional performers and related or supporting professional personnel employed on projects or productions which are financed in whole or in part under this section will be paid, without subsequent deduction or rebate on any account, not less than the minimum compensation as determined by the Secretary of Labor to be the prevailing minimum compensation for persons employed in similar activities; and (2) no part of any project or production which is financed in whole or in part under this section will be performed or engaged in under working conditions which are unsanitary or hazardous or dangerous to the health and safety of the employees engaged in such project or production. Compliance with the safety and sanitary laws of the State in which the performance or part thereof is to take place shall be prima facie evidence of compliance. The Secretary of Labor shall prescribe standards, regulations, and procedures necessary to carry out this subsection.
+It shall be a condition of the receipt of any grant under this section that the group, individual, or State agency or entity receiving such grant furnish adequate assurances to the Secretary of Labor that (1) all professional performers and related or supporting professional personnel employed on projects or productions which are financed in whole or in part under thissection will be paid, without subsequent deduction or rebate on any account, not less than the minimum compensation as determined by the Secretary of Labor to be the prevailing minimum compensation for persons employed in similar activities; and (2) no part of any project or production which is financed in whole or in part under this section will be performed or engaged in under working conditions which are unsanitary or hazardous or dangerous to the health and safety of the employees engaged in such project or production. Compliance with the safety and sanitary laws of the State in which the performance or part thereof is to take place shall be prima facie evidence of compliance. The Secretary of Labor shall prescribe standards, regulations, and procedures necessary to carry out this subsection.
 
 #### (h) Program of contracts or grants-in-aid to public agencies and private nonprofit organizations; limitation on payments
 
@@ -192,7 +192,7 @@ It shall be a condition of the receipt of any grant under this section that the 
 
 #### (k) National information and data collection system on humanities, scholars, educational and cultural groups, and audiences; development and implementation plan; state of the humanities reports
 
-The Chairperson of the National Endowment for the Humanities shall, in ongoing consultation with State and local agencies, other relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the humanities, scholars, educational and cultural groups, and their audiences. Such system shall include cultural and financial trends in the various humanities fields, trends in audience participation, and trends in humanities education on national, regional, and State levels. Such system shall be used, along with a summary of the data submitted with plans under subsection (f) of this section, to prepare a report on the state of the humanities in the Nation. The state of the humanities report shall include a description of the availability of the Endowment's programs to emerging and culturally diverse scholars, cultural and educational organizations, and communities and of the participation of such scholars, organizations, and communities in such programs. The state of the humanities report shall be submitted to the President and the Congress, and provided the States, not later than October 1, 1992, and quadrennially thereafter.
+The Chairperson of the National Endowment for the Humanities shall, in ongoing consultation with State and local agencies, other relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the humanities, scholars, educational and cultural groups, and their audiences. Such system shall include cultural and financial trends in the various humanities fields, trends in audience participation, and trends in humanities education on national, regional, and State levels. Such system shall be used, along with a summary of the data submitted with plans under subsection (f) of this section, to prepare a report on the state of the humanities in the Nation. The state of the humanities report shall include a description of the availability of the Endowment's programs to emerging and culturally diverse scholars, cultural and educational organizations, and communities and of the participation of suchscholars, organizations, and communities in such programs. The state of the humanities report shall be submitted to the President and the Congress, and provided the States, not later than October 1, 1992, and quadrennially thereafter.
 
 #### (<i>l</i>) Eligibility of group for financial assistance
 
@@ -308,6 +308,8 @@ Subsec. (c)(5). Pub. L. 91–346, §8(c), announced intention to foster educatio
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1990 Amendment
@@ -328,9 +330,5 @@ Amendment by section 2(a)(6) of Pub. L. 93–133 effective on and after July 1, 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (k) of this section relating to quadrennially submitting the state of the humanities report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 183 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 952, 959, 960 of this title.
+For termination, effective May 15, 2000, of provisions in subsec. (k) of this section relating to quadrenniallysubmitting the state of the humanities report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 183 of House Document No. 103–7.
 

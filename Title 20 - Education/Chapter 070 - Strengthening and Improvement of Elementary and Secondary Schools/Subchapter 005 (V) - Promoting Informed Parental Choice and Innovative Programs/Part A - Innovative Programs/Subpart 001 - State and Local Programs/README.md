@@ -1,9 +1,5 @@
 subpart 1—state and local programs
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 7321a of this title.
-
 
 ---
 

@@ -30,9 +30,5 @@ Funds appropriated under subsections (a)(2) and (b) of this section shall not be
 
 The Land and Water Conservation Fund (16 U.S.C. 460<i>l</i>–4 and following), referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 544 to 544i, 544<i>l</i>, 544m, 544<i>o</i>, 544p of this title.
-
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a colon.</i>
 

@@ -32,7 +32,3 @@ Subsec. (d). Pub. L. 98–129 reenacted subsec. (d) without change other than th
 
 “Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (d) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1175 of this title.
-

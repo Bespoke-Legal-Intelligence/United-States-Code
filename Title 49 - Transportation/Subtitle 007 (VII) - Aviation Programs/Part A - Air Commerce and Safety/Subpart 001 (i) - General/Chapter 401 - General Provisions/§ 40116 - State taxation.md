@@ -136,7 +136,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1112; added Dec. 23, 1970, Pub.
 
 Subsection (a) is made applicable to subsections (b) and (e) of this section to avoid having to repeat the term being defined. In subsection (a), the words “Commonwealth of Puerto Rico, the Virgin Islands, Guam” are omitted as surplus because of the definition of “territory or possession of the United States” in section 40102(a) of the revised title. The word “authority” is substituted for “agencies” for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b), before clause (1), reference to 49 App.:1513(f), restated as subsection (c) of this section, is added for clarity. The words “directly or indirectly” are omitted as surplus. The text of 49 App.:1513(a)\(words after “subsection (e) and”) is omitted as surplus.
+In subsection (b), before clause (1), reference to 49 App.:1513(f), restated as subsection (c) of this section, is added for clarity. The words “directly or indirectly” are omitted as surplus. The text of 49 App.:1513(a) (words after “subsection (e) and”) is omitted as surplus.
 
 In subsections (d)(2)(A), before clause (i), and (f)(1)(C) and (2), the word “political” is added for consistency in the revised title and with other titles of the Code.
 
@@ -167,8 +167,4 @@ Subsec. (f)(3). Pub. L. 103–305, §208, added par. (3).
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 46301, 46316, 47134 of this title.
 

@@ -26,7 +26,3 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(e); added Oct. 31, 1988, Pu
 
 In clause (2), the word “importation” is substituted for “entry” for clarity and consistency in this chapter. The words “of the incomplete motor vehicle or item of equipment” are omitted as unnecessary because of the restatement. The words “prescribed under this chapter” are substituted for “Federal” for consistency in this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30112, 30165 of this title.
-

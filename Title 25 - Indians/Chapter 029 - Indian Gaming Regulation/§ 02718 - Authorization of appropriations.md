@@ -16,7 +16,3 @@ Subsec. (b). Pub. L. 105–83, §123(b)(2), added subsec. (b) and struck out for
 
 1991—Subsec. (b). Pub. L. 102–238 inserted at end “Notwithstanding the provisions of section 2717 of this title, there are authorized to be appropriated such sums as may be necessary to fund the operation of the Commission for each of the fiscal years beginning October 1, 1991, and October 1, 1992.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2717 of this title.
-

@@ -8,7 +8,3 @@ The provisions of section 5 of title 41 shall not apply to any purchase by the F
 
 1950—Act Apr. 24, 1950, increased open market purchase limitation from $500 to $10,000 on forest-tree seed or cones or forage plant seed.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 580k of this title.
-

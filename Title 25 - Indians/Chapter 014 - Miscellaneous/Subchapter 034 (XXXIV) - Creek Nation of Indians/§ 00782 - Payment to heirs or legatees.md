@@ -10,7 +10,3 @@ Before a payment authorized by sections 781 to 785 of this title is made to an h
 
 (Aug. 1, 1955, ch. 444, §3, 69 Stat. 432.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 783, 784, 785 of this title.
-

@@ -10,11 +10,7 @@ Reorganization Plan Numbered 14 of 1950, referred to in text, is Reorg. Plan No.
 
 #### Codification
 
-In text, “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931, as amended, known as the Davis-Bacon Act (46 Stat. 1494; 40 U.S.C., sec. 276a through 276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (48 Stat. 948; 40 U.S.C. 276c)” on authority ofPub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1382 of this title.
+In text, “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931, as amended,known as the Davis-Bacon Act (46 Stat. 1494; 40 U.S.C., sec. 276a through 276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (48 Stat. 948; 40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section,”.</i>
 

@@ -14,7 +14,3 @@ A prior section 506 of act June 19, 1934, ch. 652, was classified to section 506
 
 Section 6 of act Aug. 13, 1954, provided that: “This Act \[enacting this section and amending sections 153, 154, and 504 of this title\] shall take effect on November 13, 1954.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 503, 504 of this title.
-

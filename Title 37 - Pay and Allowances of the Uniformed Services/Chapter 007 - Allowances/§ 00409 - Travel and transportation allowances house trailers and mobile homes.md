@@ -14,7 +14,7 @@
 
 (d) The Secretaries concerned shall prescribe regulations to carry out this section.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 475; Pub. L. 88–406, Aug. 7, 1964, 78 Stat. 383; Pub. L. 89–718,§§61, 62, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–246, Jan. 2, 1968, 81 Stat. 782; Pub. L. 96–342, title VIII, §808(a)(1), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–314, div. A, title VI, §654(b)(3), Dec. 2, 2002, 116 Stat. 2582.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 475; Pub. L. 88–406, Aug. 7, 1964, 78 Stat. 383; Pub. L. 89–718, §§61, 62, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–246, Jan. 2, 1968, 81 Stat. 782; Pub. L. 96–342, title VIII, §808(a)(1), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–314, div. A, title VI, §654(b)(3), Dec. 2, 2002, 116 Stat. 2582.)
 
 Historical and Revision Notes
 
@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §303(c) (12th sentence); added Mar. 31, 1955, ch. 20, §2(13), 69 Stat. 22; Mar. 17, 1958, Pub. L. 85–347, 72 Stat. 37; restated Oct. 4, 1961, Pub. L. 87–374, 75 Stat. 804.
 
-The words “the United States, except in Hawaii or Alaska,” are substituted for the words “the continental United States” to conform to the definition of United States in section 101(1) of this revised title and to reflect the opinion of the Comptroller General in B–139624, June 29, 1959, that Alaska was not included within those words. The words “an agent of the United States” are substituted for the words “the Government”, for clarity. The words “United States” are substituted for the word “Government”. The words “of the uniformed services” are omitted as surplusage in view of the definition of member in section 101(23) of this revised title.
+The words “the United States, except in Hawaii or Alaska,” are substituted for the words “the continental United States” to conform to the definition of United States in section 101(1) of this revised title and to reflect the opinion of the Comptroller General in B–139624, June 29, 1959, that Alaska was not included within those words. The words “an agent of the United States” are substituted for the words “the Government”, for clarity. The words “United States” are substituted for the word “Government”. The words “of the uniformed services” are omitted as surplusage in viewof the definition of member in section 101(23) of this revised title.
 
 #### Amendments
 
@@ -51,8 +51,4 @@ The words “the United States, except in Hawaii or Alaska,” are substituted f
 #### Effective Date of 1980 Amendment
 
 Section 808(b) of Pub. L. 96–342 provided that: “The amendments made by subsection (a) \[amending this section\] shall only apply to transportation of house trailers and mobile home dwellings which is completed after September 30, 1980.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 406a, 411, 420, 554, 1003 of this title; title 5 section 4109; title 10 section 2013.
 

@@ -12,11 +12,11 @@ Whenever any invention is made in the performance of any work under any contract
 
 #### (b) Contract provisions for furnishing reports of inventions, discoveries, improvements, or innovations
 
-Each contract entered into by the Administrator with any party for the performance of any work shall contain effective provisions under which such party shall furnish promptlyto the Administrator a written report containing full and complete technical information concerning any invention, discovery, improvement, or innovation which may be made in the performance of any such work.
+Each contract entered into by the Administrator with any party for the performance of any work shall contain effective provisions under which such party shall furnish promptly to the Administrator a written report containing full and complete technical information concerning any invention, discovery, improvement, or innovation which may be made in the performance of any such work.
 
 #### (c) Patent application
 
-No patent may be issued to any applicant other than the Administrator for any invention which appears to the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (hereafter in this section referred to as the “Director”) to have significant utility in the conduct of aeronautical and space activities unless the applicant files with the Director, with the application or within thirty days after request therefor by the Director, a written statement executed under oath setting forth the full facts concerning the circumstances under which such invention was made and stating the relationship (if any) of such invention to the performance of any work under any contract of the Administration. Copies of each such statement and the application to which it relates shall be transmitted forthwith by the Director to the Administrator.
+No patent may be issued to any applicant other than the Administrator for any invention which appears to the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (hereafter in this section referred to as the “Director”) to have significant utility in the conduct of aeronautical and space activities unless the applicant files with the Director, with the application or within thirty days after request therefor by the Director, a written statementexecuted under oath setting forth the full facts concerning the circumstances under which such invention was made and stating the relationship (if any) of such invention to the performance of any work under any contract of the Administration. Copies of each such statement and the application to which it relates shall be transmitted forthwith by the Director to the Administrator.
 
 #### (d) Issuance of patent to applicant; request by Administrator; notice; hearing; determination; review
 
@@ -95,8 +95,4 @@ Amendment by Pub. L. 96–517 effective July 1, 1981, but implementing regulatio
 #### Emergency Relief From Postal Situation Affecting National Space Program Cases
 
 Excusal of delayed fees or actions affected by postal situation beginning on Mar. 18, 1970, and ending on or about Mar. 30, 1970, see Pub. L. 92–34, June 30, 1971, 85 Stat. 87, set out as a note under section 111 of Title 35, Patents.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2458, 2459b of this title; title 35 section 210.
 

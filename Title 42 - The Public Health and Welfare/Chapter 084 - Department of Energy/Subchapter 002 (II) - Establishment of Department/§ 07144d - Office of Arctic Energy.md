@@ -8,7 +8,7 @@ The Secretary of Energy may establish within the Department of Energy an Office 
 
 The purposes of such office shall be as follows:
 
-&emsp;(1) To promote research, development, and deployment of electric power technology that is cost-effective and especially well suited to meet the needs of rural and remote regions of the United States, especially where permafrost is present or located nearby.
+&emsp;(1) To promote research, development, and deployment of electric power technology that is cost-effective and especially well suited tomeet the needs of rural and remote regions of the United States, especially where permafrost is present or located nearby.
 
 &emsp;(2) To promote research, development, and deployment in such regions of—
 

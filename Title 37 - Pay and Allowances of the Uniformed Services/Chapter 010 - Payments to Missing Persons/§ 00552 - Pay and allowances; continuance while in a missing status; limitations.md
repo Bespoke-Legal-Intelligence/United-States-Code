@@ -18,7 +18,7 @@
 
 (d) A member who is performing full-time training duty or inactive-duty training is entitled to the benefits of this section only when he is officially determined to be in a missing status that results from the performance of duties prescribed by competent authority.
 
-(e) A member in a missing status who is continued in that status under section 555 of thistitle or under chapter 76 of title 10 is entitled to be credited with pay and allowances under subsection (a).
+(e) A member in a missing status who is continued in that status under section 555 of this title or under chapter 76 of title 10 is entitled to be credited with pay and allowances under subsection (a).
 
 (Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 625; amended Pub. L. 92–169, §1, Nov. 24, 1971, 85 Stat. 489; Pub. L. 92–482, Oct. 12, 1972, 86 Stat. 796; Pub. L. 93–26, §1, Apr. 27, 1973, 87 Stat. 26; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, §569(c)(2), Feb. 10, 1996, 110 Stat. 351.)
 
@@ -99,8 +99,4 @@ Section 2 of Pub. L. 93–26 provided that: “For the purposes of chapter 13 \[
 #### Effective Date of 1971 Amendment
 
 Amendment by Pub. L. 92–169 effective for the purposes of chapter 13 (§1301 et seq.) of Title 38, Veterans’ Benefits, on Nov. 24, 1971, and for all other purposes effective as of Feb. 28, 1961, see section 3 of Pub. L. 92–169, set out as a note under section 1302 of Title 38.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 553, 555, 556, 557, 559 of this title; title 26 sections 112, 6013.
 

@@ -2,7 +2,7 @@
 
 Whoever knowingly fails to—
 
-&emsp;(1) remedy a defective filing within 60 days after notice of such a defect by the Secretary of the Senate or the Clerk of the House of Representatives; or
+&emsp;(1) remedy a defective filing within 60 days after notice of such a defect by the Secretaryof the Senate or the Clerk of the House of Representatives; or
 
 &emsp;(2) comply with any other provision of this chapter;
 

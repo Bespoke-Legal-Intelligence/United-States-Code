@@ -10,7 +10,3 @@ For all purposes, including actions in any court in the United States, the Congr
 
 (Pub. L. 102–383, title II, §201, Oct. 5, 1992, 106 Stat. 1452.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5722, 5731 of this title.
-

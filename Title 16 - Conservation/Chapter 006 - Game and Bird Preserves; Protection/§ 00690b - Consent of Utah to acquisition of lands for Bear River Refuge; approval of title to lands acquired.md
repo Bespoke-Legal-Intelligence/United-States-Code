@@ -8,7 +8,3 @@ No such area shall be acquired by the Secretary of the Interior unless or until 
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 671 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 690a, 690c, 690d, 690e, 690f, 690g, 690h of this title.
-

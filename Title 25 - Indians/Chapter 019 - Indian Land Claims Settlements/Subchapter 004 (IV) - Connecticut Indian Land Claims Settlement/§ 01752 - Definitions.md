@@ -10,7 +10,7 @@ For the purposes of this subchapter—
 
 &emsp;&emsp;(A) the eight hundred acres, more or less, of privately held land which are identified by a red outline on a map filed with the secretary of the State of Connecticut in accordance with the agreement referred to in section 1751(d) of this title, and
 
-&emsp;&emsp;(B) the lands known as the Cedar Swamp which are adjacent to the MashantucketPequot Reservation as it exists on October 18, 1983. Within thirty days of October 18, 1983, the secretary of the State of Connecticut shall transmit to the Secretary a certified copy of said map.
+&emsp;&emsp;(B) the lands known as the Cedar Swamp which are adjacent to the Mashantucket Pequot Reservation as it exists on October 18, 1983. Within thirty days of October 18, 1983, the secretary of the State of Connecticut shall transmit to the Secretary a certified copy of said map.
 
 &emsp;(4) The term “settlement lands” means—
 

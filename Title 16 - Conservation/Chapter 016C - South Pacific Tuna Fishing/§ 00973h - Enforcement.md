@@ -50,7 +50,3 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 (Pub. L. 100–330, §10, June 7, 1988, 102 Stat. 597.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 973, 973i, 973j of this title.
-

@@ -14,7 +14,7 @@ In accordance with regulations of the Farm Credit Administration, qualified lend
 
 &emsp;(5) except with respect to stock guaranteed under section 2162 of this title, a statement indicating that stock that is purchased is at risk; and
 
-&emsp;(6) a statement indicating the various types of loan options available to borrowers, with anexplanation of the terms and borrowers’ rights that apply to each type of loan.
+&emsp;(6) a statement indicating the various types of loan options available to borrowers, with an explanation of the terms and borrowers’ rights that apply to each type of loan.
 
 #### (b) Differential interest rates
 

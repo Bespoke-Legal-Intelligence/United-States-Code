@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—CLAIMS AGAINST BULGARIA, HUNGARY, RUMANIA, ITALY, AND THE SOVIET UNION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1642h of this title; title 50 App. section 2017g.
-
 
 ---
 

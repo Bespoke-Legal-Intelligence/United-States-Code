@@ -26,7 +26,7 @@ Sections 73 to 76, inclusive, of an Act entitled “An Act to reduce taxation, t
 
 Act February 12, 1913, is set out as amendments to sections 8 and 11 of this title.
 
-The Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes”, approved October 15, 1914, referred to in text, is the Clayton Act. For classification of theAct to the Code, see References in Text note set out under section 12 of this title.
+The Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes”, approved October 15, 1914, referred to in text, is the Clayton Act. For classification of the Act to the Code, see References in Text note set out under section 12 of this title.
 
 #### Codification
 

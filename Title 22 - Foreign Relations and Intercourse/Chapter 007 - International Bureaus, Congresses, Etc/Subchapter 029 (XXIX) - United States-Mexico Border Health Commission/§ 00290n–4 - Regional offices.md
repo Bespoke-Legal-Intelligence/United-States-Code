@@ -1,6 +1,6 @@
 ### §290n–4. Regional offices
 
-The Commission may designate or establish one border health office in each of the States of Texas, New Mexico, Arizona, and California. Such office should be located within the United States-Mexico Border Area, and should be coordinated with—
+The Commission may designate or establish one border health office in each of the States ofTexas, New Mexico, Arizona, and California. Such office should be located within the United States-Mexico Border Area, and should be coordinated with—
 
 &emsp;(1) State border health offices; and
 

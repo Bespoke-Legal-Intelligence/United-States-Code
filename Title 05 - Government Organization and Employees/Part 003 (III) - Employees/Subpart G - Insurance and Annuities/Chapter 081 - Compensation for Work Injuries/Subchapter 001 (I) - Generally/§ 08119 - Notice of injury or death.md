@@ -60,7 +60,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any injury or death occurring on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8122 of this title.
-

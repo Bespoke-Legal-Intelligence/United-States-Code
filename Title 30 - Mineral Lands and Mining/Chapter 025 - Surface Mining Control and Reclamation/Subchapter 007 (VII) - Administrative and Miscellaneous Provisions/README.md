@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—ADMINISTRATIVE AND MISCELLANEOUS PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1253 of this title.
-
 
 ---
 

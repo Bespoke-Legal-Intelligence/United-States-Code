@@ -20,7 +20,3 @@ Subsec. (a). Pub. L. 104–324, §405(a)(2), (3), inserted “(including members
 
 Pub. L. 95–61, §8, July 1, 1977, 91 Stat. 260, which authorized Coast Guard to assist Department of Health, Education, and Welfare in providing medical emergency helicopter services to civilians, if assistance was provided in areas of regular Coast Guard unit assignment, did not interfere with Coast Guard mission, or increase required Coast Guard operating funds, and further providing that no individual (or his estate) operating within scope of his duties under this section's program would be civilly liable for damage caused incident thereto, was repealed and reenacted as section 147a of this title by Pub. L. 97–295, §§2(6)(A), 6(b), Oct. 12, 1982, 96 Stat. 1301, 1314.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 4724; title 46 section 13109.
-

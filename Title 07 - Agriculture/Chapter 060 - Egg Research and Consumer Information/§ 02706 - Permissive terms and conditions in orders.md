@@ -20,7 +20,3 @@ Terms and conditions incidental to and not inconsistent with the terms and condi
 
 (Pub. L. 93–428, §7, Oct. 1, 1974, 88 Stat. 1173.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2707 of this title.
-

@@ -232,7 +232,7 @@ Subsec. (a)(2). Pub. L. 104–132, §440(c)(2), struck out subpar. (B) which rea
 
 Pub. L. 104–132, §440(c)(1)(C), struck out “but subject to subparagraph (B)” before “, the Attorney General shall not release”.
 
-Pub. L. 104–132, §440(c)(1)(B), as amended by Pub. L. 104–208, §§306(d), 308(g)(10)(H), substituted “any criminal offense covered in section 1251(a)(2)(A)(iii), (B), (C),or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to the date of their commission, otherwise covered by section 1227(a)(2)(A)(i) of this title” for “an aggravated felony upon release of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or further confinement in respect of the same offense)”.
+Pub. L. 104–132, §440(c)(1)(B), as amended by Pub. L. 104–208, §§306(d), 308(g)(10)(H), substituted “any criminal offense covered in section 1251(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to the date of their commission, otherwise covered by section 1227(a)(2)(A)(i) of this title” for “an aggravated felony upon release of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or further confinement in respect of the same offense)”.
 
 Pub. L. 104–132, §440(c)(1)(A), substituted “(2) The Attorney” for “(2)(A) The Attorney”.
 
@@ -302,7 +302,7 @@ Section 306(c) of div. C of Pub. L. 104–208, as amended by Pub. L. 104–302, 
 
 “(1)
 
-In general.—Subject to paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and section 1231 of this title and repealing section 1105a of this title\] shall apply as provided under section 309 \[8 U.S.C. 1101 note\], except that subsection (g) of section 242 of the Immigration and Nationality Act \[8 U.S.C. 1252(g)\] (as added by subsection (a)), shall apply without limitation to claims arising from all past, pending, or future exclusion, deportation, or removal proceedings under such Act \[8 U.S.C. 1101 et seq.\].
+In general.—Subject to paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and section 1231 of this title and repealing section 1105a of this title\] shall apply as provided under section 309 \[8 U.S.C. 1101 note\], except that subsection\(g) of section 242 of the Immigration and Nationality Act \[8 U.S.C. 1252(g)\] (as added by subsection (a)), shall apply without limitation to claims arising from all past, pending, or future exclusion, deportation, or removal proceedings under such Act \[8 U.S.C. 1101 et seq.\].
 
 “(2)
 
@@ -386,7 +386,7 @@ Section 545(d) of Pub. L. 101–649 provided that: “Within 6 months after the 
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
@@ -403,10 +403,6 @@ In General.—Subject to subsection (b) and notwithstanding any other provision 
 “(b)
 
 Limitation.—The Attorney General shall terminate or rescind the exercise of the authority under subsection (a) if the Attorney General determines that the exercise of such authority has resulted in discrimination by law enforcement officials on the basis of race, color, or national origin.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1228, 1229a, 1255a, 1326 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

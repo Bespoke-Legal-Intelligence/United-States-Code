@@ -1,9 +1,5 @@
 subpart 1—requirements payments
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 15301, 15304, 15327 of this title.
-
 
 ---
 

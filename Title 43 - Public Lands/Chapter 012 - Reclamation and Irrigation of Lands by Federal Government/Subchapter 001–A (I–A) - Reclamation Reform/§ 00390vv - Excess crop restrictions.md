@@ -18,7 +18,3 @@ In addition, notwithstanding any other provision of law, in the case of any Fede
 
 (Pub. L. 97–293, title II, §222, Oct. 12, 1982, 96 Stat. 1272.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390cc of this title.
-

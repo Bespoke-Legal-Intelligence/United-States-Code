@@ -26,7 +26,3 @@ Subsec. (a). Pub. L. 105–62, §506(2), (3), inserted “planning, design, and 
 
 Pub. L. 105–62, §506(1), which directed the substitution of “project” for “study”, was executed by substituting “Project” for “Study” to reflect the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390h–13 of this title.
-

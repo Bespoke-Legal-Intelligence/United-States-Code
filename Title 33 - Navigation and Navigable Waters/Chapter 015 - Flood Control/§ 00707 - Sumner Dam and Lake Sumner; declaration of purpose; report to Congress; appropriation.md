@@ -16,7 +16,3 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Pub. L. 93–447 provided: “That the Alamogordo Dam and Reservoir, New Mexico, referred to in the Act of August 11, 1939 (53 Stat. 1414) \[which enacted this section\], are redesignated as Sumner Dam and Lake Sumner, respectively. Any law, regulation, map, document, record, or other paper of the United States in which such dam or reservoir is referred to shall be held to refer to such dam as Sumner Dam or such reservoir as Lake Sumner.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 701b–4 of this title.
-

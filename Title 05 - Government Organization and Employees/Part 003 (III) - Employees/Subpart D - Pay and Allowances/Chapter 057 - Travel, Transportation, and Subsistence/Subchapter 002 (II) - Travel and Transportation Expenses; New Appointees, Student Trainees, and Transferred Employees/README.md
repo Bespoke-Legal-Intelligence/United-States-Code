@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAINEES, AND TRANSFERRED EMPLOYEES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 8 section 1353; title 46 App. section 1717.
-
 
 ---
 

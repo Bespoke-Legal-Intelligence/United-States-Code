@@ -10,5 +10,5 @@ In carrying out performance reviews of research centers by the Foundation, the D
 
 #### Codification
 
-Section was enacted as part of the National Science Foundation Authorization Act of 1988, and not as partof the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the National Science Foundation Authorization Act of 1988, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 

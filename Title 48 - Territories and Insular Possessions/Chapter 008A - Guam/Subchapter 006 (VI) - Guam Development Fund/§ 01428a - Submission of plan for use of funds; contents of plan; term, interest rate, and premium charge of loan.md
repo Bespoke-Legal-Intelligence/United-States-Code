@@ -8,7 +8,3 @@ Prior to receiving any funds pursuant to this subchapter the government of Guam 
 
 Section was not enacted as part of the Organic Act of Guam which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1428c of this title.
-

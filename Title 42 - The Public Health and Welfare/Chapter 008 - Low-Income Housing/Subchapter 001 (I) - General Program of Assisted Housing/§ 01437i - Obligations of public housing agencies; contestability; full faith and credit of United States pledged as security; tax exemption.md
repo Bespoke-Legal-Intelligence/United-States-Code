@@ -20,7 +20,3 @@ A prior section 11 of act Sept. 1, 1937, ch. 896, 50 Stat. 893, as amended, auth
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1437q of this title; title 26 section 149.
-

@@ -24,7 +24,3 @@ Changes in phraseology were made.
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 754 of this title.
-

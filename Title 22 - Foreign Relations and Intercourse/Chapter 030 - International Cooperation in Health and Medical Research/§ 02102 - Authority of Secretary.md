@@ -36,7 +36,7 @@ The Vocational Rehabilitation Act, referred to in subsec. (a), is act June 2, 19
 
 #### Codification
 
-In subsec. (b)(5), (6), “section 5703 of title 5” and “section 3109 of title 5” substituted for “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)” and “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)” respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (b)(5), (6), “section 5703 of title 5” and “section 3109 of title 5” substituted for “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)” and “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)” respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first sectionof which enacted Title 5, Government Organization and Employees.
 
 #### Transfer of Functions
 

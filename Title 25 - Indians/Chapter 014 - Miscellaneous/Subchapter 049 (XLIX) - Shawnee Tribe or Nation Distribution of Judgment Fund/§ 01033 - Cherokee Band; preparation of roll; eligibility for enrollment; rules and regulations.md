@@ -8,7 +8,3 @@ For the purpose of determining individual interests in the funds placed to the c
 
 Act of March 2, 1889, referred to in text, is act Mar. 2, 1889, ch. 412, 25 Stat. 994. Provisions of the act relating to roll of the Cherokee Shawnee were not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1034 of this title.
-

@@ -12,7 +12,3 @@ As used in this chapter, the terms “bank”, “bank holding company”, “su
 
 Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as a note under section 24 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 2016.
-

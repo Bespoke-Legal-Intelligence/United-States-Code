@@ -6,7 +6,7 @@ The purpose of this subchapter is to ensure that the Secretary, States, and othe
 
 &emsp;(2) increasing administrative flexibility and developing and enforcing effective, compatible, and cost-beneficial motor carrier, commercial motor vehicle, and driver safety regulations and practices, including improving enforcement of State and local traffic safety laws and regulations;
 
-&emsp;(3) assessing and improving statewide program performance by setting program outcome goals, improving problem identification and countermeasures planning, designing appropriate performance standards, measures, and benchmarks, improving performance information and analysis systems, and monitoring program effectiveness;
+&emsp;(3) assessing and improving statewide program performance by setting program outcome goals, improving problem identification and countermeasures planning, designing appropriate performance standards, measures,and benchmarks, improving performance information and analysis systems, and monitoring program effectiveness;
 
 &emsp;(4) ensuring that drivers of commercial motor vehicles and enforcement personnel obtain adequate training in safe operational practices and regulatory requirements; and
 
@@ -118,7 +118,7 @@ Establishment.—The Secretary may establish a commercial motor vehicle safety a
 
 “(b)
 
-Composition.—The members of the advisory committee shall be appointed by the Secretary and shall include representatives of the motor carrier industry, drivers, safety advocates, manufacturers, safety enforcement officials, law enforcement agencies of border States, and other individuals affected by rulemakings under consideration by the Department of Transportation. Representatives of a single interest group may not constitute a majority of the members of the advisory committee.
+Composition.—The members of the advisory committee shall be appointed by the Secretary and shall include representatives of the motor carrier industry, drivers, safety advocates, manufacturers, safety enforcement officials, law enforcement agencies of border States, and other individuals affected by rulemakings under consideration by the Department ofTransportation. Representatives of a single interest group may not constitute a majority of the members of the advisory committee.
 
 “(c)
 

@@ -18,7 +18,7 @@ There is established within the Department an independent regulatory commission 
 
 #### (c) Duties and responsibilities of Chairman
 
-The Chairman shall be responsible on behalf of the Commission for the executive and administrative operation of the Commission, including functions of the Commission with respect to (1) the appointment and employment of hearing examiners in accordance with the provisions of title 5, (2) the selection, appointment, and fixing of the compensation of such personnel as he deems necessary, including an executive director, (3) the supervision of personnel employed by or assigned to the Commission, except that each member of the Commission may select and supervise personnel for his personal staff, (4) the distribution of business among personnel and among administrative units of the Commission, and (5) the procurement of services of experts and consultants in accordance with section 3109 of title 5. The Secretary shall provide to the Commission such support and facilities as the Commission determines it needs to carry out its functions.
+The Chairman shall be responsible on behalf of the Commission for the executive and administrative operation of the Commission, including functions of the Commission with respect to (1) the appointment and employment of hearing examiners in accordance with the provisions of title 5, (2) the selection, appointment, and fixing of the compensation of such personnel as he deems necessary, including an executive director, (3) the supervision of personnel employed byor assigned to the Commission, except that each member of the Commission may select and supervise personnel for his personal staff, (4) the distribution of business among personnel and among administrative units of the Commission, and (5) the procurement of services of experts and consultants in accordance with section 3109 of title 5. The Secretary shall provide to the Commission such support and facilities as the Commission determines it needs to carry out its functions.
 
 #### (d) Supervision and direction of members, employees, or other personnel of Commission
 
@@ -68,7 +68,7 @@ Pub. L. 101–549, title VIII, §808, Nov. 15, 1990, 104 Stat. 2690, provided th
 
 “(a)
 
-Definition.—For purposes of this section, ‘renewable energy’ means energy from photovoltaic, solar thermal, wind, geothermal, and biomass energy production technologies.
+Definition.—For purposes of this section, ‘renewable energy’ means energy from photovoltaic, solarthermal, wind, geothermal, and biomass energy production technologies.
 
 “(b)
 
@@ -84,9 +84,11 @@ Report.—The Commission shall transmit the study and the model regulations to C
 
 #### Retention and Use of Revenues From Licensing Fees, Inspection Services, and Other Services and Collections; Reduction To Achieve Final Fiscal Year Appropriation
 
-Pub. L. 108–137, title III, Dec. 1, 2003, 117 Stat. 1859, provided in part: “That notwithstanding any other provision of law, not to exceed $204,400,000 of revenues from fees and annual charges, and other services and collections in fiscal year 2004 shall be retained and used for necessary expenses in this account, and shall remain available until expended: <i>Provided further</i>, That the sum herein appropriated from the general fund shall be reduced as revenues are received during fiscal year 2004 so as to result in a final fiscal year 2004 appropriation from the general fund estimated at not more than $0.”
+Pub. L. 108–447, div. C, title III, Dec. 8, 2004, 118 Stat. 2957, provided in part: “That notwithstanding any other provision of law, not to exceed $210,000,000 of revenues from fees and annual charges, and other services and collections in fiscal year 2005 shall be retained and used for necessary expenses in this account, and shall remain available until expended: <i>Provided further</i>, That the sum herein appropriated from the general fund shall be reduced as revenues are received during fiscal year 2005 so as to result in a final fiscal year 2005 appropriation from the general fund estimated at not more than $0.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–137, title III, Dec. 1, 2003, 117 Stat. 1859.
 
 Pub. L. 108–7, div. D, title III, Feb. 20, 2003, 117 Stat. 153.
 
@@ -121,8 +123,4 @@ Pub. L. 100–371, title III, July 19, 1988, 102 Stat. 870.
 Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–124.
 
 Pub. L. 99–500, §101(e) \[title III\], Oct. 18, 1986, 100 Stat. 1783–194, 1783–208, and Pub. L. 99–591, §101(e) \[title III\], Oct. 30, 1986, 100 Stat. 3341–194, 3341–208.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7192 of this title.
 

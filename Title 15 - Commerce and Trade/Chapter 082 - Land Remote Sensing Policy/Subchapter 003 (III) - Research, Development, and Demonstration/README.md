@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—RESEARCH, DEVELOPMENT, AND DEMONSTRATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 5625 of this title.
-
 
 ---
 

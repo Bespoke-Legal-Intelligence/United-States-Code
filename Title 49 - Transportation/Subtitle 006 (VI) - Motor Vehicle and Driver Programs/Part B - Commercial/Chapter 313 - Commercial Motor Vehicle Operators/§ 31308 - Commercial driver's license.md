@@ -46,7 +46,3 @@ The words “Not later than July 15, 1988” are omitted as obsolete.
 
 Pub. L. 105–178, title IV, §4011(c)(2), June 9, 1998, 112 Stat. 407, provided that: “Not later than 180 days after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall issue regulations to carry out the amendment made by paragraph (1) \[amending this section\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 31302, 31309, 31311 of this title.
-

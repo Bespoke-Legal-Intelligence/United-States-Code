@@ -44,13 +44,9 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 #### Transfer of Functions
 
-“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (b)(6) on authority of Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
+“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec.\(b)(6) on authority of Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
 
 #### Executive Order No. 10014
 
 Ex. Ord. No. 10014, Nov. 3, 1948, 13 F.R. 6601, which related to the cooperation of Federal and State agencies to prevent pollution of surface and underground waters, was superseded by Ex. Ord. No. 11258, Nov. 17, 1965, 30 F.R. 14483.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1252a, 1375 of this title.
 

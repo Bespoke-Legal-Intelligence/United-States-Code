@@ -28,7 +28,7 @@ In any case in which an employer has completely or partially withdrawn from a mu
 
 &emsp;&emsp;(i) fails to file such an appeal, or
 
-&emsp;&emsp;(ii) the corporation, pursuant to such an appeal, fails to find that the new plan would suffer substantial financial harm as a result of the transfer described in the notice under paragraph (2)(B) within 180 days after the date on which the appeal is filed,
+&emsp;&emsp;(ii) the corporation, pursuant to such an appeal, fails to find that the new plan would suffer substantial financial harm as a result of the transfer described in the notice underparagraph (2)(B) within 180 days after the date on which the appeal is filed,
 
 > then the plan sponsor of the old plan shall transfer the appropriate amount of assets and liabilities to the new plan.
 
@@ -101,8 +101,4 @@ The Railway Labor Act, referred to in subsec. (g)(2), is act May 20, 1926, ch. 3
 #### Effective Date
 
 Section effective Sept. 26, 1980, see section 1461(e)(4) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1461 of this title.
 

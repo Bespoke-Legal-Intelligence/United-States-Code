@@ -2,7 +2,7 @@
 
 #### (a) Adjustments by Secretary
 
-The Secretary may adjust, in accordance with this section, payments under parts A and B toany institution which has in effect an agreement with the Secretary under section 1395cc of this title, and any person who has accepted payment on the basis of an assignment under section 1395u(b)(3)(B)(ii) of this title, where such institution or person—
+The Secretary may adjust, in accordance with this section, payments under parts A and B to any institution which has in effect an agreement with the Secretary under section 1395cc of this title, and any person who has accepted payment on the basis of an assignment under section 1395u(b)(3)(B)(ii) of this title, where such institution or person—
 
 &emsp;(1) has (or previously had) in effect an agreement with a State agency to furnish medical care and services under a State plan approved under subchapter XIX of this chapter, and
 

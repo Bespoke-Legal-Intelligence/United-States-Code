@@ -42,7 +42,7 @@
 
 &emsp;(5) is qualified under regulations prescribed by the Secretary in carrying out this subsection.
 
-(e)(1) The Secretary may prescribe a way in which a check issued to an individual (except a trust or estate) as a refund for taxes imposed under subtitle A of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.) may become a series Esavings bond. However, a check may become a bond only if the claim for a refund is filed by the last day prescribed by law for filing the return (determined without any extensions) for the taxable year for which the refund is made. The Secretary may prescribe the time and way in which the check becomes a bond.
+(e)(1) The Secretary may prescribe a way in which a check issued to an individual (except a trust or estate) as a refund for taxes imposed under subtitle A of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.) may become a series E savings bond. However, a check may become a bond only if the claim for a refund is filed by the last day prescribed by law for filing the return (determined without any extensions) for the taxable year for which the refund is made. The Secretary may prescribe the time and way in which the check becomes a bond.
 
 (2) A bond issued under this subsection is deemed to be a series E bond issued under this section, except that the bond shall bear an issue date of the first day of the first month beginning after the close of the taxable year for which the bond is issued. The Secretary also may provide that a bond issued to joint payees may be redeemed by either payee alone.
 
@@ -201,8 +201,4 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Transitional Rule
 
 Pub. L. 97–248, title II, §289(b), Sept. 3, 1982, 96 Stat. 57, provided that for a savings bond issued before the 30th day after Sept. 3, 1982, for purposes of sections 757c and 757c–2 of former Title 31, the minimum yield for the period held is the scheduled investment yield for the period in effect on the 30th day.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3106, 3108 of this title; title 26 section 135.
 

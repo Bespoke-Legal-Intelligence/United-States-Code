@@ -26,7 +26,3 @@ If the President makes a determination under subsection (a) of this section, the
 
 (Pub. L. 102–484, div. A, title XVII, §1708, Oct. 23, 1992, 106 Stat. 2580.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6003 of this title.
-

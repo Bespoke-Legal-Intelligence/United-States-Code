@@ -10,7 +10,3 @@
 
 Senior Executive Service, referred to in subsec. (a), see section 5382 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 503 of this title.
-

@@ -116,7 +116,3 @@ Report.—Not later than 2 years after the date of enactment of this Act \[Nov. 
 
 Pub. L. 102–395, title I, §109(b), Oct. 6, 1992, 106 Stat. 1842, directed Attorney General, acting through Director of National Institute of Justice, to evaluate existing and proposed anti-stalking legislation in the States, develop model anti-stalking legislation that is constitutional and enforceable, prepare and disseminate to State authorities the findings made as a result of such evaluation, and report to Congress the findings and the need or appropriateness of further action by the Federal Government by Sept. 30, 1993.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5603 of this title.
-

@@ -16,7 +16,3 @@ Pub. L. 100–398, §1, Aug. 17, 1988, 102 Stat. 985, provided that: “This Act
 
 Time of choosing electors, see Const. Art. 2, §1, cl. 3.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 sections 871, 1751.
-

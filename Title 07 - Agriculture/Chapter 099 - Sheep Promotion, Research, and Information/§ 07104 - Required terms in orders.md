@@ -28,7 +28,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 &emsp;&emsp;Arkansas
 
-1   
+1&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;California
 
@@ -100,7 +100,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 &emsp;&emsp;Michigan
 
-1&nbsp;&nbsp;&nbsp;
+1   
 
 &emsp;&emsp;Minnesota
 
@@ -264,7 +264,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (A) Producer nominations
 
-&emsp;&emsp;The solicitation of nominations for subsequent appointment to the Board from eligible organizations certified under paragraph\(3) shall be initiated by the Secretary, with the Board securing the nominations for the Secretary.
+&emsp;&emsp;The solicitation of nominations for subsequent appointment to the Board from eligible organizations certified under paragraph (3) shall be initiated by the Secretary, with the Board securing the nominations for the Secretary.
 
 #### (B) Feeder and importer nominations
 
@@ -470,7 +470,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 &emsp;The order shall provide that any person processing or causing to be processed sheep or sheep products of that person's own production and marketing shall—
 
-&emsp;&emsp;(A) pay an assessment on the sheep or sheep products at the time of sale at a rate equivalent to the rate provided for in paragraph (1) or (2), as appropriate; and
+&emsp;&emsp;(A) pay an assessment on the sheep or sheep products at the time of sale at a rateequivalent to the rate provided for in paragraph (1) or (2), as appropriate; and
 
 &emsp;&emsp;(B) remit the assessment to the Board in the manner prescribed by the order.
 
@@ -649,8 +649,4 @@ The order shall define the powers and duties of the Board and shall include the 
 The order shall provide such terms and conditions, not inconsistent with this section, as are necessary to carry out the order, including provisions for the assessment of a penalty for the late payment of an assessment due under the order.
 
 (Pub. L. 103–407, §5, Oct. 22, 1994, 108 Stat. 4213.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7102 of this title.
 

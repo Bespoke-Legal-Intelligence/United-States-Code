@@ -20,7 +20,3 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 1983—Pub. L. 98–141 substituted “$13,903,000” for “$7,903,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459g–1, 459g–2, 459g–4, 459g–5 of this title.
-

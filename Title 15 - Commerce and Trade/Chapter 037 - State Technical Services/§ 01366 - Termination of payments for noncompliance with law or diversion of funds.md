@@ -10,7 +10,3 @@ Whenever the Secretary, after reasonable notice and opportunity for hearing to a
 
 (Pub. L. 89–182, §16, Sept. 14, 1965, 79 Stat. 684.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1367 of this title.
-

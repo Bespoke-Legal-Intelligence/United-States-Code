@@ -22,7 +22,3 @@ This section corrects typographical errors in section 1444 of title 28, U.S.C.
 
 1949—Act May 24, 1949, inserted “court” between “State” and “may”, and substituted “division” for “divisions”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2410 of this title; title 26 section 7424.
-

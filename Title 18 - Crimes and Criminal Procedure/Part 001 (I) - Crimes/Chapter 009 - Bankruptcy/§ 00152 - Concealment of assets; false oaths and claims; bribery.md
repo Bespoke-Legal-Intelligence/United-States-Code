@@ -12,7 +12,7 @@ A person who—
 
 &emsp;(5) knowingly and fraudulently receives any material amount of property from a debtor after the filing of a case under title 11, with intent to defeat the provisions of title 11;
 
-&emsp;(6) knowingly and fraudulently gives, offers, receives, or attempts to obtain any money or property, remuneration, compensation, reward, advantage, or promise thereof for acting or forbearing to act in any case under title 11;
+&emsp;(6) knowingly and fraudulently gives, offers, receives, or attempts to obtain any money orproperty, remuneration, compensation, reward, advantage, or promise thereof for acting or forbearing to act in any case under title 11;
 
 &emsp;(7) in a personal capacity or as an agent or officer of any person or corporation, in contemplation of a case under title 11 by or against the person or any other person or corporation, or with intent to defeat the provisions of title 11, knowingly and fraudulently transfers or conceals any of his property or the property of such other person or corporation;
 
@@ -61,8 +61,4 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 #### Savings Provision
 
 Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter 96 (§1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1956 of this title; title 7 section 12a; title 15 sections 78<i>o</i>, 80b–3.
 

@@ -52,7 +52,7 @@
 | (d) | Money penalties in administrative proceedings. |
 | (e) | Authority to enter order requiring accounting and disgorgement. |
 | (f) | Cease-and-desist proceedings. |
-| (g) | Corporate or other trustees performing functions of investment advisors. |
+| (g) | Corporate or other trustees performing functions of investment advisers. |
 | 80a–10. | Affiliations or interest of directors, officers, and employees. |
 | (a) | Interested persons of company who may serve on board of directors. |
 | (b) | Employment and use of directors, officers, etc., as regular broker, principal underwriter, or investment banker. |

@@ -1,6 +1,6 @@
 ### §1102. Distribution of funds; persons entitled
 
-After the deduction of attorney fees, litigation expenses, the costs of roll preparation, and such sums as may be required to distribute individual shares, the funds, including interest, remaining to the credit of the Nooksack Tribe, which were appropriated by the Act of April 30, 1965 (Public Law 89–16), shall be distributed in equal shares to those persons whose names appear on the rollprepared in accordance with section 1101 of this title.
+After the deduction of attorney fees, litigation expenses, the costs of roll preparation, and suchsums as may be required to distribute individual shares, the funds, including interest, remaining to the credit of the Nooksack Tribe, which were appropriated by the Act of April 30, 1965 (Public Law 89–16), shall be distributed in equal shares to those persons whose names appear on the roll prepared in accordance with section 1101 of this title.
 
 (Pub. L. 89–656, §2, Oct. 14, 1966, 80 Stat. 906.)
 

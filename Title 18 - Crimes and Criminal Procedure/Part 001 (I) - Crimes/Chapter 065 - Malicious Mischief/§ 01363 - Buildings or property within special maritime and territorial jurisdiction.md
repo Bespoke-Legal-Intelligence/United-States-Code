@@ -18,7 +18,3 @@ Said sections were consolidated and rewritten both as to form and substance. The
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” after “shipping, shall be” and for “fined not more than $5,000” after “jeopardy, shall be”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1956, 2332b, 2339A, 3050 of this title.
-

@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 This section is based on the language about consultation in the source provisions for several sections in this chapter and is created to avoid having to repeat in each of those sections the individuals with whom the Secretary is required to consult in carrying out those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5703, 5704, 5705, 5706, 5707, 5708 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary is authorized to conduct a study to assess the feasibility of a comprehensive water reclamation and reuse system for Southern California. For the purpose of sections 390h to 390h–17 of this title, the term “Southern California” means those portions of the counties of Imperial, Los Angeles, Orange, San Bernadino, Riverside, San Diego, and Ventura within the south coast and Colorado River hydrologic regions as defined by the California Department of Water Resources.
+The Secretary is authorized to conduct a study to assess the feasibility of a comprehensive water reclamation and reuse system for Southern California. For the purpose of sections 390h to 390h–18 of this title, the term “Southern California” means those portions of the counties of Imperial, Los Angeles, Orange, San Bernadino, Riverside, San Diego, and Ventura within the south coast and Colorado River hydrologic regions as defined by the California Department of Water Resources.
 
 #### (b) Cooperation with State; Federal share
 
@@ -10,7 +10,7 @@ The Secretary shall conduct the study authorized by this section in cooperation 
 
 #### (c) Report
 
-The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than six years afterappropriation of funds authorized by sections 390h to 390h–17 of this title.
+The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than six years after appropriation of funds authorized by sections 390h to 390h–18 of this title.
 
 (Pub. L. 102–575, title XVI, §1606, Oct. 30, 1992, 106 Stat. 4665; Pub. L. 103–437, §16(a)(2), Nov. 2, 1994, 108 Stat. 4594.)
 
@@ -89,8 +89,4 @@ Cooperation.—The Secretary shall carry out this paragraph in cooperation with 
 “(d)
 
 Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,000,000. Such sums shall remain available until expended.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390h–2 of this title.
 

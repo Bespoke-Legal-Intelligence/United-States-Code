@@ -34,7 +34,7 @@ Civil Actions.—
 
 &emsp;(1)
 
-Complaint.—When a person begins a civil action under subsection (b) to enforce an order of the Board requiring the payment of damages by a pipeline carrier providing transportation subject to this part, the text of the order of the Board must be included in the complaint. In addition to the district courts of the United States, a State court of general jurisdiction having jurisdiction of the parties has jurisdiction to enforce an order under this paragraph. The findings and order of the Board are competent evidence of the facts stated in them. Trial in a civil action brought in a district court of the United States under this paragraph is in the judicial district in which the plaintiff resides or in which the principal operating office of the carrier is located. In a civil action under this paragraph, the plaintiff is liable for only those costs that accrue on an appeal taken by the plaintiff.
+Complaint.—When a person begins a civil action under subsection (b) to enforce an order of the Board requiring the payment of damages by a pipeline carrier providing transportation subject to this part, the text of the order of the Board must be included in the complaint. In addition to the district courts of the United States, a State court of general jurisdiction having jurisdiction of the parties has jurisdiction to enforce an order under this paragraph. The findings and order of the Board are competent evidence of the facts stated in them. Trial in a civil action brought in a district court of the United States under this paragraph is in the judicial district in which the plaintiff resides or in which the principal operating office of the carrier is located. In acivil action under this paragraph, the plaintiff is liable for only those costs that accrue on an appeal taken by the plaintiff.
 
 &emsp;(2)
 
@@ -57,8 +57,4 @@ Provisions similar to those in this section were contained in section 11705 of t
 1998—Subsec. (c)(1). Pub. L. 105–225 inserted “section” before “15901(b)”.
 
 1997—Subsec. (c)(1). Pub. L. 105–102 substituted “15901(b)” for “section 11501(b)”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15905 of this title.
 

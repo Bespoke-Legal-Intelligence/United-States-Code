@@ -18,7 +18,7 @@ The Administrator shall coordinate, with the Assistant Secretary for Health of t
 
 #### (d) Monitoring
 
-The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services, establish and be responsible for research aimed at the development, in cooperation with local, State, and Federal agencies, of monitoring techniques and instruments which may be used in the detection of toxic chemical substances and mixtures and which are reliable, economical, and capable of being implemented under a wide variety of conditions.
+The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services, establish and be responsible for research aimed at the development, in cooperation with local, State, and Federal agencies, of monitoring techniques and instruments whichmay be used in the detection of toxic chemical substances and mixtures and which are reliable, economical, and capable of being implemented under a wide variety of conditions.
 
 #### (e) Basic research
 
@@ -45,8 +45,4 @@ In subsecs. (a) and (b)(2)(B), “section 3324(a) and (b) of title 31” substit
 #### Availability of Grants
 
 Grants awarded under this section are available for research, development, monitoring, public education, training, demonstrations, and studies, beginning in fiscal year 2000 and thereafter, see provisions of title III of Pub. L. 106–74, set out as a note under section 136r of Title 7, Agriculture.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2628 of this title.
 

@@ -2,7 +2,7 @@
 
 As used in this subchapter and in subchapter II of this chapter:
 
-&emsp;(1) The term “unit of general local government” means a city, town, township, county, parish, village, or other general purpose political subdivision of a State; the Federated States of Micronesia and Palau, the Marshall Islands, or a general purpose political subdivision thereof; a consortium of such political subdivisions recognized by the Secretary in accordance with section 12746(2) of this title; and any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive to act on behalf of the jurisdiction with regard to provisions of this Act.
+&emsp;(1) The term “unit of general local government” means a city, town, township, county, parish, village, or other general purpose political subdivision of a State; the FederatedStates of Micronesia and Palau, the Marshall Islands, or a general purpose political subdivision thereof; a consortium of such political subdivisions recognized by the Secretary in accordance with section 12746(2) of this title; and any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive to act on behalf of the jurisdiction with regard to provisions of this Act.
 
 &emsp;(2) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive officer to act on behalf of the State with regard to the provisions of this Act.
 
@@ -30,7 +30,7 @@ As used in this subchapter and in subchapter II of this chapter:
 
 &emsp;&emsp;(D) has a history of serving the local community or communities within which housing to be assisted under this Act is to be located.
 
-> &emsp;In the case of an organization serving more than one county, the Secretary may not require that such organization, to be considereda community housing development organization for purposes of this Act, include as members on the organization's governing board low-income persons residing in each county served.
+> &emsp;In the case of an organization serving more than one county, the Secretary may not require that such organization, to be considered a community housing development organization for purposes of this Act, include as members on the organization's governing board low-income persons residing in each county served.
 
 &emsp;(7) The term “government-sponsored mortgage finance corporations” means the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the Federal Agricultural Mortgage Corporation.
 
@@ -141,10 +141,6 @@ Section 222 of title II of Pub. L. 102–550 provided that: “The Secretary of 
 #### Transition Rule
 
 Section 217(b) of Pub. L. 102–550 provided that: “For the purposes of determining compliance with the requirements of section 104(6) of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12704(6)\], the Secretary of Housing and Urban Development may provide an exception for organizations that meet the definition of community housing development organization, except for significant representation of low-income community residents on the board, if such organization fulfills such requirement within 6 months of receiving funds under title II of such Act \[42 U.S.C. 12721 et seq.\] or September 30, 1993, whichever is sooner.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437bbb–8, 1472, 11403g, 12773, 12896, 12902 of this title; title 12 section 4116.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(22)”.</i>
 

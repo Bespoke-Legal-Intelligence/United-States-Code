@@ -14,7 +14,7 @@ Property.—The term “property” means all personal property, including vesse
 
 (b)
 
-Voluntarily Abandoned Property.—Property voluntarily abandoned to any agency in a way that vests title to the property in theGovernment may be retained by the agency and devoted to official use only. If the agency does not desire to retain the property, the head of the agency immediately shall notify the Administrator of General Services to that effect, and the Administrator, within a reasonable time, shall—
+Voluntarily Abandoned Property.—Property voluntarily abandoned to any agency in a way that vests title to the property in the Government may be retained by the agency and devoted to official use only. If the agency does not desire to retain the property, the head of the agency immediately shall notify the Administrator of General Services to that effect, and the Administrator, within a reasonable time, shall—
 
 &emsp;(1) order the agency to deliver the property to another agency that requests the property and that the Administrator believes should be given the property; or
 
@@ -114,7 +114,7 @@ Regulations.—With the approval of the Secretary, the Administrator may prescri
 
 &emsp;(2)
 
-Other laws not repealed.—This section does not repeal any other laws relating to thedisposition of forfeited or abandoned property, except provisions of those laws directly in conflict with this section which were enacted prior to August 27, 1935.
+Other laws not repealed.—This section does not repeal any other laws relating to the disposition of forfeited or abandoned property, except provisions of those laws directly in conflict with this section which were enacted prior to August 27, 1935.
 
 &emsp;(3)
 
@@ -195,8 +195,4 @@ In subsection (h)(3), the text of 40:304m(1) is omitted because section 4 of the
 #### References in Text
 
 The Controlled Substances Act, referred to in subsec. (h)(3)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 3668.
 

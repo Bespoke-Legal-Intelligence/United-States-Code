@@ -16,7 +16,7 @@ Notwithstanding any other provision of this chapter, the Secretary may, with res
 
 #### (c) Insurance of mortgage as obligation of General Insurance Fund
 
-Notwithstanding any other provision of this chapter, the insurance of a mortgage using the authority contained in this section shall be the obligation of the General Insurance Fund established in section 1735c of this title. The mortgagee shall be eligible to receive the benefits of insurance as provided in section 1710 of this title with respect to mortgages insured pursuant to this section, except that (1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2) all references in section 1710 of this title to section 1709 of this title shall be construed to refer to the section under which the mortgage is insured.
+Notwithstanding any other provision of this chapter, the insurance of a mortgage using the authority contained in this section shall be the obligation of the General Insurance Fund established in section 1735c of this title. The mortgagee shall be eligible to receive the benefits of insurance as provided in section 1710 of this titlewith respect to mortgages insured pursuant to this section, except that (1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2) all references in section 1710 of this title to section 1709 of this title shall be construed to refer to the section under which the mortgage is insured.
 
 #### (d) “Native Hawaiian” and “Hawaiian home lands” defined
 
@@ -24,7 +24,7 @@ For purposes of this section:
 
 #### (1) Native Hawaiian
 
-&emsp;The term “native Hawaiian” means any descendant of not less than one-half part of the blood of the races inhabiting the Hawaiian Islands before January 1, 1778, or, in the case of an individual who is awarded an interest in a lease of Hawaiian home lands through transfer or succession, such lower percentage as may be established for such transfer or succession under section 208 or 209 of the Hawaiian HomesCommission Act of 1920 (42 Stat. 111), or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled “An Act to provide for the admission of the State of Hawaii into the Union”, approved March 18, 1959 (73 Stat. 5).
+&emsp;The term “native Hawaiian” means any descendant of not less than one-half part of the blood of the races inhabiting the Hawaiian Islands before January 1, 1778, or, in the case of an individual who is awarded an interest in a lease of Hawaiian home lands through transfer or succession, such lower percentage as may be established for such transfer or succession under section 208 or 209 of the Hawaiian Homes Commission Act of 1920 (42 Stat. 111), or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled “An Act to provide for the admission of the State of Hawaii into the Union”, approved March 18, 1959 (73 Stat. 5).
 
 #### (2) Hawaiian home lands
 
@@ -61,8 +61,4 @@ Pub. L. 100–242, §413(a), (b), made amendment identical to Pub. L. 100–202.
 1987—Subsec. (c). Pub. L. 100–202 added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 100–202 extended subsec. (c)(1) term “native Hawaiian” to include in the case of succession in an interest in a lease of Hawaiian homelands any descendant of a percentage less than one-half of the blood of the races inhabiting the Hawaiian Islands before Jan. 1, 1778, as may be established under statute or constitution for succession; and redesignated subsec. (c), including such par. (1), as subsec. (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1709 of this title.
 

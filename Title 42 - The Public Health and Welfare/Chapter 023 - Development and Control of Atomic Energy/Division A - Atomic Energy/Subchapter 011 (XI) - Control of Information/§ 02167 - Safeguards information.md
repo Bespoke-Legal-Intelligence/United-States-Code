@@ -28,7 +28,7 @@ Any determination by the Commission concerning the applicability of this section
 
 #### (d) Reports to Congress; contents
 
-Upon prescribing or issuing any regulation or order under subsection (a) of this section, the Commission shall submit to Congress a report that:
+Upon prescribing or issuing any regulation or order under subsection (a) of this section, theCommission shall submit to Congress a report that:
 
 &emsp;(1) specifically identifies the type of information the Commission intends to protect from disclosure under the regulation or order;
 
@@ -45,10 +45,6 @@ Subsection (e) of this section, which required the Commission to submit to Congr
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2169, 2231, 2286b, 2297f of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

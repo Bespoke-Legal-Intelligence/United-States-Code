@@ -37,10 +37,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1202, 1677, 2272, 2492, 3203 of this title; title 6 section 212; title 20 section 226; title 22 section 6062; title 26 section 936.
-
 
 ---
 

@@ -143,9 +143,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
+#### SUBCHAPTER V—REPORTING REQUIREMENT
 
-This chapter is referred to in section 403–3 of this title; title 8 sections 1532, 1534; title 18 sections 2232, 2511, 2522, 3121; title 47 section 1008.
+|  |  |
+| :--- | ---: |
+| [1871\.](Subchapter%20005%20%28V%29%20-%20Reporting%20Requirement/%C2%A7%2001871%20-%20Semiannual%20report%20of%20the%20Attorney%20General.md) | Semiannual report of the Attorney General. |
+| (a) | Report. |
+| (b) | Frequency. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ---
@@ -156,3 +162,4 @@ This chapter is referred to in section 403–3 of this title; title 8 sections 1
 - [Subchapter 002 (II) - Physical Searches](Subchapter%20002%20%28II%29%20-%20Physical%20Searches/README.md)
 - [Subchapter 003 (III) - Pen Registers and Trap and Trace Devices for Foreign Intelligence Purposes](Subchapter%20003%20%28III%29%20-%20Pen%20Registers%20and%20Trap%20and%20Trace%20Devices%20for%20Foreign%20Intelligence%20Purposes/README.md)
 - [Subchapter 004 (IV) - Access to Certain Business Records for Foreign Intelligence Purposes](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/README.md)
+- [Subchapter 005 (V) - Reporting Requirement](Subchapter%20005%20%28V%29%20-%20Reporting%20Requirement/README.md)

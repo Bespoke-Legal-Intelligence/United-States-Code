@@ -44,9 +44,5 @@ Section was formerly classified to section 1202 of Title 2, The Congress.
 
 Section effective Nov. 21, 1991, except as otherwise provided, see section 402 of Pub. L. 102–166, set out as an Effective Date of 1991 Amendment note under section 1981 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2000e–16a, 2000e–16c of this title; title 2 section 1435.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

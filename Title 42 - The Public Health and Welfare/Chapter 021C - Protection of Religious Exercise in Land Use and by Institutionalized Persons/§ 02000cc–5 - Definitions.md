@@ -48,7 +48,3 @@ In this chapter:
 
 (Pub. L. 106–274, §8, Sept. 22, 2000, 114 Stat. 806.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2000bb–2 of this title.
-

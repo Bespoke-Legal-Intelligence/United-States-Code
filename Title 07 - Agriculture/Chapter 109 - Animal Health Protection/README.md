@@ -65,12 +65,13 @@
 | (a) | In general. |
 | (b) | Automated recordkeeping system. |
 | (c) | Authorization of appropriations. |
+| [8321\.](%C2%A7%2008321%20-%20Pest%20and%20Disease%20Response%20Fund.md) | Pest and Disease Response Fund. |
+| (a) | Establishment. |
+| (b) | Availability. |
+| (c) | Use of Fund. |
+| (d) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 1907 of this title; title 6 section 231.
 
 
 ---
@@ -97,3 +98,4 @@ This chapter is referred to in section 1907 of this title; title 6 section 231.
 - [&sect; 08318 - Veterinary training](%C2%A7%2008318%20-%20Veterinary%20training.md)
 - [&sect; 08319 - Surveillance of zoonotic diseases](%C2%A7%2008319%20-%20Surveillance%20of%20zoonotic%20diseases.md)
 - [&sect; 08320 - Expansion of Animal and Plant Health Inspection Service activities](%C2%A7%2008320%20-%20Expansion%20of%20Animal%20and%20Plant%20Health%20Inspection%20Service%20activities.md)
+- [&sect; 08321 - Pest and Disease Response Fund](%C2%A7%2008321%20-%20Pest%20and%20Disease%20Response%20Fund.md)

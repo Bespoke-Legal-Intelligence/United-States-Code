@@ -22,7 +22,3 @@ The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352
 
 The Fair Housing Act, referred to in subsec. (a)(1), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12748, 12821 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—OFFICE OF ENERGY INFORMATION AND ANALYSIS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 42 section 7135.
-
 
 ---
 

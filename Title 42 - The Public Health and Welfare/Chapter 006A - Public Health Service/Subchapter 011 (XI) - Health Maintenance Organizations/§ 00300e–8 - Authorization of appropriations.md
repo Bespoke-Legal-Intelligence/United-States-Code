@@ -20,7 +20,7 @@ Subsec. (b). Pub. L. 97–35, §941(b), substituted provisions relating to maint
 
 1977—Subsec. (a). Pub. L. 95–83 substituted, where appearing the second time, “September 30, 1979” for “September 30, 1977”.
 
-1976—Subsec. (a). Pub. L. 94–460 substituted “$40,000,000 for the fiscal year ending June 30, 1976, $45,000,000 for the fiscal year ending September 30, 1977, and $45,000,000 for the fiscal year ending September 30, 1978;” for “and $85,000,000 for the fiscal year ending June 30, 1976;” and “for the fiscal year ending September 30, 1977, there is authorized to be appropriated$50,000,000” for “for the fiscal year ending June 30, 1977, there is authorized to be appropriated $85,000,000”.
+1976—Subsec. (a). Pub. L. 94–460 substituted “$40,000,000 for the fiscal year ending June 30, 1976, $45,000,000 for the fiscal year ending September 30, 1977, and $45,000,000 for the fiscal year ending September 30, 1978;” for “and $85,000,000 for the fiscal year ending June 30, 1976;” and “for the fiscal year ending September 30, 1977, there is authorized to be appropriated $50,000,000” for “for the fiscal year ending June 30, 1977, there is authorized to be appropriated $85,000,000”.
 
 #### Effective Date of 1986 Amendment
 

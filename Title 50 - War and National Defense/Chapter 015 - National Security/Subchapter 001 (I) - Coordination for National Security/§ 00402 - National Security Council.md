@@ -58,7 +58,7 @@ The President shall establish within the National Security Council a board to be
 
 (2) The Committee shall be composed of the following:
 
-&emsp;(A) The Director of Central Intelligence.
+&emsp;(A) The Director of National Intelligence.
 
 &emsp;(B) The Secretary of State.
 
@@ -84,7 +84,7 @@ The President shall establish within the National Security Council a board to be
 
 &emsp;(C) conduct an annual review of the elements of the intelligence community in order to determine the success of such elements in collecting, analyzing, and disseminating the intelligence identified under subparagraph (B).
 
-(5) The Committee shall submit each year to the Council and to the Director of Central Intelligence a comprehensive report on its activities during the preceding year, including its activities under paragraphs (3) and (4).
+(5) The Committee shall submit each year to the Council and to the Director of National Intelligence a comprehensive report on its activities during the preceding year, including its activities under paragraphs (3) and (4).
 
 #### (i) <sup>1</sup> Committee on Transnational Threats
 
@@ -92,7 +92,7 @@ The President shall establish within the National Security Council a board to be
 
 (2) The Committee shall include the following members:
 
-&emsp;(A) The Director of Central Intelligence.
+&emsp;(A) The Director of National Intelligence.
 
 &emsp;(B) The Secretary of State.
 
@@ -128,15 +128,15 @@ The President shall establish within the National Security Council a board to be
 
 &emsp;(B) Any individual or group that engages in an activity referred to in subparagraph (A).
 
-#### (j) Participation of Director of Central Intelligence
+#### (j) Participation of Director of National Intelligence
 
-The Director of Central Intelligence (or, in the Director's absence, the Deputy Director of Central Intelligence) may, in the performance of the Director's duties under this Act and subject to the direction of the President, attend and participate in meetings of the National Security Council.
+The Director of National Intelligence (or, in the Director's absence, the Principal Deputy Director of National Intelligence) may, in the performance of the Director's duties under this Act and subject to the direction of the President, attend and participate in meetings of the National Security Council.
 
 #### (i) <sup>2</sup> Special Adviser to the President on International Religious Freedom
 
 It is the sense of the Congress that there should be within the staff of the National Security Council a Special Adviser to the President on International Religious Freedom, whose position should be comparable to that of a director within the Executive Office of the President. The Special Adviser should serve as a resource for executive branch officials, compiling and maintaining information on the facts and circumstances of violations of religious freedom (as defined in section 6402 of title 22), and making policy recommendations. The Special Adviser should serve as liaison with the Ambassador at Large for International Religious Freedom, the United States Commission on International Religious Freedom, Congress and, as advisable, religious nongovernmental organizations.
 
-(July 26, 1947, ch. 343, title I, §101, 61 Stat. 496; Aug. 10, 1949, ch. 412, §3, 63 Stat. 579; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Oct. 10, 1951, ch. 479, title V, §501(e)(1), 65 Stat. 378; Pub. L. 99–433, title II, §203, Oct. 1, 1986, 100 Stat. 1011; Pub. L. 99–500, §101(c) \[title IX, §9115(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, and Pub. L. 99–591, §101(c) \[title IX, §9115(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125; Pub. L. 99–661, div. A, title XIII, §1311(f), Nov. 14, 1986, 100 Stat. 3986; Pub. L. 100–690, title I, §1003(a)(3), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 102–496, title VII, §703, Oct. 24, 1992, 106 Stat. 3189; Pub. L. 104–293, title VIII, §§802, 804, Oct. 11, 1996, 110 Stat. 3474, 3476; Pub. L. 105–277, div. C, title VII, §713(b), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 105–292, title III, §301, Oct. 27, 1998, 112 Stat. 2800.)
+(July 26, 1947, ch. 343, title I, §101, 61 Stat. 496; Aug. 10, 1949, ch. 412, §3, 63 Stat. 579; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Oct. 10, 1951, ch. 479, title V, §501(e)(1), 65 Stat. 378; Pub. L. 99–433, title II, §203, Oct. 1, 1986, 100 Stat. 1011; Pub. L. 99–500, §101(c) \[title IX, §9115(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, and Pub. L. 99–591, §101(c) \[title IX, §9115(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125; Pub. L. 99–661, div. A, title XIII, §1311(f), Nov. 14, 1986, 100 Stat. 3986; Pub. L. 100–690, title I, §1003(a)(3), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 102–496, title VII, §703, Oct. 24, 1992, 106 Stat. 3189; Pub. L. 104–293, title VIII, §§802, 804, Oct. 11, 1996, 110 Stat. 3474, 3476; Pub. L. 105–277, div. C, title VII, §713(b), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 105–292, title III, §301, Oct. 27, 1998, 112 Stat. 2800; Pub. L. 108–458, title I, §§1071(a)(1)(A)–(D), 1072(a)(1), Dec. 17, 2004, 118 Stat. 3689, 3692.)
 
 #### References in Text
 
@@ -153,6 +153,16 @@ In subsec. (c), provisions that specified compensation of $10,000 per year for t
 In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2004—Subsec. (h)(2)(A). Pub. L. 108–458, §1071(a)(1)(A), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+Subsec. (h)(5). Pub. L. 108–458, §1071(a)(1)(B), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+Subsec. (i)(2)(A). Pub. L. 108–458, §1071(a)(1)(C), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+Subsec. (j). Pub. L. 108–458, §1072(a)(1), substituted “Principal Deputy Director of National Intelligence” for “Deputy Director of Central Intelligence”.
+
+Pub. L. 108–458, §1071(a)(1)(D), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 1998—Subsecs. (f), (g). Pub. L. 105–277 added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -177,6 +187,10 @@ Subsec. (f). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended se
 1949—Subsec. (a). Act Aug. 10, 1949, added the Vice President to the Council, removed the Secretaries of the military departments, to authorize the President to add, with the consent of the Senate, Secretaries and Under Secretaries of other executive departments and of the military department, and the Chairmen of the Munitions Board and the Research and Development Board.
 
 Subsec. (c). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923, as amended”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Effective and Termination Dates of 1988 Amendment
 
@@ -206,9 +220,55 @@ For rule of construction for certain duplicate provisions of Public Laws 99–50
 
 Repeals by section 542(a) of Mutual Security Act of 1954 did not repeal amendment to this section by act Oct. 10, 1951.
 
+#### Pilot Program on Cryptologic Service Training
+
+Pub. L. 108–375, div. A, title IX, §922, Oct. 28, 2004, 118 Stat. 2029, provided that:
+
+“(a)
+
+Program Authorized.—The Director of the National Security Agency may carry out a pilot program on cryptologic service training for the intelligence community.
+
+“(b)
+
+Objective of Program.—The objective of the pilot program is to increase the number of qualified entry-level language analysts and intelligence analysts available to the National Security Agency and the other elements of the intelligence community through the directed preparation and recruitment of qualified entry-level language analysts and intelligence analysts who commit to a period of service or a career in the intelligence community.
+
+“(c)
+
+Program Scope.—The pilot program shall be national in scope.
+
+“(d)
+
+Program Participants.—(1) Subject to the provisions of this subsection, the Director shall select the participants in the pilot program from among individuals qualified to participate in the pilot program utilizing such procedures as the Director considers appropriate for purposes of the pilot program.
+
+“(2) Each individual who receives financial assistance under the pilot program shall perform one year of obligated service with the National Security Agency, or another element of the intelligence community approved by the Director, for each academic year for which such individual receives such financial assistance upon such individual's completion of post-secondary education.
+
+“(3) Each individual selected to participate in the pilot program shall be qualified for a security clearance appropriate for the individual under the pilot program.
+
+“(4) The total number of participants in the pilot program at any one time may not exceed 400 individuals.
+
+“(e)
+
+Program Management.—In carrying out the pilot program, the Director shall—
+
+&emsp;“(1) identify individuals interested in working in the intelligence community, and committed to taking college-level courses that will better prepare them for a career in the intelligence community as a language analyst or intelligence analyst;
+
+&emsp;“(2) provide each individual selected for participation in the pilot program—
+
+&emsp;&emsp;“(A) financial assistance for the pursuit of courses at institutions of higher education selected by the Director in fields of study that will qualify such individual for employment by an element of the intelligence community as a language analyst or intelligence analyst; and
+
+&emsp;&emsp;“(B) educational counseling on the selection of courses to be so pursued; and
+
+&emsp;“(3) provide each individual so selected information on the opportunities available for employment in the intelligence community.
+
+“(f)
+
+Duration of Program.—(1) The Director shall terminate the pilot program not later than six years after the date of the enactment of this Act \[Oct. 28, 2004\].
+
+“(2) The termination of the pilot program under paragraph (1) shall not prevent the Director from continuing to provide assistance, counseling, and information under subsection (e) to individuals who are participating in the pilot program on the date of termination of the pilot program throughout the academic year in progress as of that date.”
+
 #### National Security Agency Act of 1959
 
-Pub. L. 86–36, May 29, 1959, 73 Stat. 63, as amended by Pub. L. 87–367, title II, §§201, 204, Oct. 4, 1961, 75 Stat. 789, 791; Pub. L. 87–793, §1001(c), Oct. 11, 1962, 76 Stat. 864; Sept. 23, 1950, ch. 1024, title III, §306(a), as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 170; Aug. 14, 1964, Pub. L. 88–426, title III, §306(h), 78 Stat. 430; Oct. 6, 1964, Pub. L. 88–631, §3(d), 78 Stat. 1008; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 660; Oct. 8, 1966, Pub. L. 89–632, §1(e), 80 Stat. 878; Pub. L. 91–187, §2, Dec. 30, 1969, 83 Stat. 850; Pub. L. 96–450, title IV, §402(a), Oct. 14, 1980, 94 Stat. 1977; Pub. L. 97–89, title VI, §§601–603, Dec. 4, 1981, 95 Stat. 1154–1156, eff. Oct. 1, 1981; Pub. L. 99–335, title V, §507(a), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; Pub. L. 101–193, title V, §505(b), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 101–194, title V, §506(c)(2), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 102–88, title V, §503, Aug. 14, 1991, 105 Stat. 436; Pub. L. 102–183, title IV, §405, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–496, title III, §304(a), title IV, §405, title VIII, §803(b), Oct. 24, 1992, 106 Stat. 3183, 3186, 3253; Pub. L. 103–359, title VIII, §806(b)(2), Oct. 14, 1994, 108 Stat. 3442; Pub. L. 104–106, div. A, title X, §1064(b), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–201, div. A, title XVI,§1633(b)(1), Sept. 23, 1996, 110 Stat. 2751; Pub. L. 107–108, title V, §506, Dec. 28, 2001, 115 Stat. 1406; Pub. L. 107–306, title VIII, §841(f), Nov. 27, 2002, 116 Stat. 2432, provided: “That this Act \[this note\] may be cited as the ‘National Security Agency Act of 1959’. \[Amended Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 96–450, title IV, §402(a)(2), Oct. 14, 1980, 94 Stat. 1978.\]
+Pub. L. 86–36, May 29, 1959, 73 Stat. 63, as amended by Pub. L. 87–367, title II, §§201, 204, Oct. 4, 1961, 75 Stat. 789, 791; Pub. L. 87–793, §1001(c), Oct. 11, 1962, 76 Stat. 864; Sept. 23, 1950, ch. 1024, title III, §306(a), as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 170; Aug. 14, 1964, Pub. L. 88–426, title III, §306(h), 78 Stat. 430; Oct. 6, 1964, Pub. L. 88–631, §3(d), 78 Stat. 1008; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 660; Oct. 8, 1966, Pub. L. 89–632, §1(e), 80 Stat. 878; Pub. L. 91–187, §2, Dec. 30, 1969, 83 Stat. 850; Pub. L. 96–450, title IV, §402(a), Oct. 14, 1980, 94 Stat. 1977; Pub. L. 97–89, title VI, §§601–603, Dec. 4, 1981, 95 Stat. 1154–1156, eff. Oct. 1, 1981; Pub. L. 99–335, title V, §507(a), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; Pub. L. 101–193, title V, §505(b), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 101–194, title V, §506(c)(2), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 102–88, title V, §503, Aug. 14, 1991, 105 Stat. 436; Pub. L. 102–183, title IV, §405, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–496, title III, §304(a), title IV, §405, title VIII, §803(b), Oct. 24, 1992, 106 Stat. 3183, 3186, 3253; Pub. L. 103–359, title VIII, §806(b)(2), Oct. 14, 1994, 108 Stat. 3442; Pub. L. 104–106, div. A, title X, §1064(b), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751; Pub. L. 107–108, title V, §506, Dec. 28, 2001, 115 Stat. 1406; Pub. L. 107–306, title VIII, §841(f), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title III, §377(c), title V, §501, Dec. 13, 2003, 117 Stat. 2630, 2633; Pub. L. 108–487, title V, §501, Dec. 23, 2004, 118 Stat. 3950, provided: “That this Act \[this note\] may be cited as the ‘National Security Agency Act of 1959’. \[Amended Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 96–450, title IV, §402(a)(2), Oct. 14, 1980, 94 Stat. 1978.\]
 
 “\[
 
@@ -270,7 +330,7 @@ Sec. 9. (a) Notwithstanding section 322 of the Act of June 30, 1932 (\[former\] 
 
 \[Amended Pub. L. 97–89, title VI, §601, Dec. 4, 1981, 95 Stat. 1154.\]
 
-\[Added Pub. L. 96–450, title IV, §401(a)(1), Oct. 14, 1980, 94 Stat. 1977.\]
+\[Added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1977.\]
 
 “
 
@@ -324,7 +384,7 @@ Sec. 10. (a) The Director of the National Security Agency shall arrange for, and
 
 “
 
-Sec. 11. (a)(1) The Director of the National Security Agency may authorize agency personnel within the United States to perform the same functions as special policemen of the General Services Administration perform under the first section of the Act entitled ‘An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policemen for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes’ (\[former\] 40 U.S.C. 318) with the powers set forth in that section, except that such personnel shall perform such functions and exercise such powers—
+Sec. 11. (a)(1) The Director of the National Security Agency may authorize agency personnel within the United States to perform the same functions as officers and agents of the Department of Homeland Security, as provided in section 1315(b)(2) of title 40, United States Code, with the powers set forth in that section, except that such personnel shall perform such functions and exercise such powers—
 
 &emsp;“(A) at the National Security Agency Headquarters complex and at any facilities and protected property which are solely under the administration and control of, or are used exclusively by, the National Security Agency; and
 
@@ -338,9 +398,21 @@ Sec. 11. (a)(1) The Director of the National Security Agency may authorize agenc
 
 “(5) Not later than July 1 each year through 2004, the Director shall submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report that describes in detail the exercise of the authority granted by this subsection and the underlying facts supporting the exercise of such authority, during the preceding fiscal year. The Director shall make each such report available to the Inspector General of the National Security Agency.
 
-“(b) The Director of the National Security Agency is authorized to establish penalties for violations of the rules or regulations prescribed by the Director under subsection (a). Such penalties shall not exceed those specified in the fourth section of the Act referred to in subsection (a) (\[former\] 40 U.S.C. 318c).
+“(b) The Director of the National Security Agency is authorized to establish penalties for violations of the rules or regulations prescribed by the Director under subsection (a). Such penalties shall not exceed those specified in section 1315(c)(2) of title 40, United States Code.
 
-“(c) Agency personnel designated by the Director of the National Security Agency under subsection (a) shall be clearly identifiable as United States Government security personnel while engaged in the performance of the functions to which subsection (a) refers. \[Added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1978; amended Pub. L. 107–108, title V, §506, Dec. 28, 2001, 115 Stat. 1406; Pub. L. 107–306, title VIII, §841(f), Nov. 27, 2002, 116 Stat. 2432.\]
+“(c) Agency personnel designated by the Director of the National Security Agency under subsection (a) shall be clearly identifiable as United States Government security personnel while engaged in the performance of the functions to which subsection (a) refers.
+
+“(d)(1) Notwithstanding any other provision of law, agency personnel designated by the Director of the National Security Agency under subsection (a) shall be considered for purposes of chapter 171 of title 28, United States Code, or any other provision of law relating to tort liability, to be acting within the scope of their office or employment when such agency personnel take reasonable action, which may include the use of force, to—
+
+&emsp;“(A) protect an individual in the presence of such agency personnel from a crime of violence;
+
+&emsp;“(B) provide immediate assistance to an individual who has suffered or who is threatened with bodily harm; or
+
+&emsp;“(C) prevent the escape of any individual whom such agency personnel reasonably believe to have committed a crime of violence in the presence of such agency personnel.
+
+“(2) Paragraph (1) shall not affect the authorities of the Attorney General under section 2679 of title 28, United States Code.
+
+“(3) In this subsection, the term ‘crime of violence’ has the meaning given that term in section 16 of title 18, United States Code. \[Added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1978; amended Pub. L. 107–108, title V, §506, Dec. 28, 2001, 115 Stat. 1406; Pub. L. 107–306, title VIII, §841(f), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title III, §377(c), title V, §501, Dec. 13, 2003, 117 Stat. 2630, 2633.\]
 
 “
 
@@ -436,7 +508,17 @@ Sec. 17. Repealed. Pub. L. 103–359, title VIII, §806(b)(2), Oct. 14, 1994, 10
 
 Sec. 18. (a) The Secretary of Defense may pay the expenses referred to in section 5742(b) of title 5, United States Code, in the case of any employee of the National Security Agency who dies while on a rotational tour of duty within the United States or while in transit to or from such tour of duty.
 
-“(b) For the purposes of this section, the term ‘rotational tour of duty’, with respect to an employee, means a permanent change of station involving the transfer of the employee from the National Security Agency headquarters to another post of duty for a fixed period established by regulation to be followed at the end of such period by a permanent change of station involving a transfer of the employee back to such headquarters.” \[Added Pub. L. 102–183, title IV, §405, Dec. 4, 1991, 105 Stat. 1267; amended Pub. L. 102–496, title III, §304(a), Oct. 24, 1992, 106 Stat. 3183.\]
+“(b) For the purposes of this section, the term ‘rotational tour of duty’, with respect to an employee, means a permanent change of station involving the transfer of the employee from the National Security Agency headquarters to another post of duty for a fixed period established by regulation to be followed at the end of such period by a permanent change of station involving a transfer of the employee back to such headquarters. \[Added Pub. L. 102–183, title IV, §405, Dec. 4, 1991, 105 Stat. 1267; amended Pub. L. 102–496, title III, §304(a), Oct. 24, 1992, 106 Stat. 3183.\]
+
+“
+
+Sec. 19. (a) There is established the National Security Agency Emerging Technologies Panel. The Panel is a standing panel of the National Security Agency. The Panel shall be appointed by, and shall report directly to, the Director of the National Security Agency.
+
+“(b) The Panel shall study and assess, and periodically advise the Director on, the research, development, and application of existing and emerging science and technology advances, advances in encryption, and other topics.
+
+“(c) The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Panel.” \[Added Pub. L. 108–487, title V, §501, Dec. 23, 2004, 118 Stat. 3950.\]
+
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.\]
 
 #### Executive Order No. 10483
 
@@ -490,7 +572,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 &emsp;(vi) ensure the readiness and coordinated deployment of Federal response teams to respond to terrorist threats or attacks, working with the Assistant to the President for National Security Affairs, when appropriate.
 
-(d) <i>Prevention</i>. The Office shall coordinate efforts to prevent terrorist attacks within the United States. In performing this function, the Office shall work with Federal, State, and local agencies, and private entities, as appropriate, to:
+(d) <i>Prevention</i>. The Office shall coordinate efforts to prevent terrorist attacks within the United States. In performing this function, the Office shall work withFederal, State, and local agencies, and private entities, as appropriate, to:
 
 &emsp;(i) facilitate the exchange of information among such agencies relating to immigration and visa matters and shipments of cargo; and, working with the Assistant to the President for National Security Affairs, ensure coordination among such agencies to prevent the entry of terrorists and terrorist materials and supplies into the United States and facilitate removal of such terrorists from the United States, when appropriate;
 
@@ -526,7 +608,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 &emsp;(v) coordinate containment and removal of biological, chemical, radiological, explosive, or other hazardous materials in the event of a terrorist threat or attack involving such hazards and coordinate efforts to mitigate the effects of such an attack.
 
-(g) <i>Incident Management</i>. Consistent with applicable law, including the statutory functions of the Secretary of Homeland Security, the Assistant to the President for Homeland Security shall be the official primarily responsible for advising and assisting the President in the coordination of domestic incident management activities of all departments and agencies in the event of a terrorist threat, and during and in the aftermath ofterrorist attacks, major disasters, or other emergencies, within the United States. Generally, the Assistant to the President for Homeland Security shall serve as the principal point of contact for and to the President with respect to the coordination of such activities. The Assistant to the President for Homeland Security shall coordinate with the Assistant to the President for National Security Affairs, as appropriate.
+(g) <i>Incident Management</i>. Consistent with applicable law, including the statutory functions of the Secretary of Homeland Security, the Assistant to the President for Homeland Security shall be the official primarily responsible for advising and assisting the President in the coordination of domestic incident management activities of all departments and agencies in the event of a terrorist threat, and during and in the aftermath of terrorist attacks, major disasters, or other emergencies, within the United States. Generally, the Assistant to the President for Homeland Security shall serve as the principal point of contact for and to the President with respect to the coordination of such activities. The Assistant to the President for Homeland Security shall coordinate with the Assistant to the President for National Security Affairs, as appropriate.
 
 (h) <i>Continuity of Government</i>. The Assistant to the President for Homeland Security, in coordination with the Assistant to the President for National Security Affairs, shall review plans and preparations for ensuring the continuity of the Federal Government in the event of a terrorist attack that threatens the safety and security of the United States Government or its leadership.
 
@@ -574,7 +656,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13231, Oct. 16, 2001, 66 F.R. 53063, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to ensure protection of information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems, in the information age, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to ensure protection of information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems, in the information age, it is hereby ordered as follows:
 
 Section 1. <i>Policy.</i>
 
@@ -714,7 +796,7 @@ Sec. 8. <i>Standing Committees</i>. (a) The Board may establish standing and ad 
 
 &emsp;(vii) <i>Physical Security</i>, co-chaired by the designees of the Secretary of Defense and the Attorney General, to coordinate programs to ensure the physical security of information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems. The standing committee shall coordinate its work with the Office of Homeland Security and shall work closely with the Physical Security Working Group of the Records Access and Information Security Policy Coordinating Committee to ensure coordination of efforts.
 
-&emsp;(viii) <i>Infrastructure Interdependencies</i>, co-chaired by the designees of the Secretaries of Transportation and Energy, to coordinate programs to assess the unique risks, threats, and vulnerabilities associated with the interdependency of information systems for critical infrastructures, including the development of effective models, simulations, and other analytic tools and cost-effective technologies in this area.
+&emsp;(viii) <i>Infrastructure Interdependencies</i>, co-chaired by the designees of the Secretaries of Transportationand Energy, to coordinate programs to assess the unique risks, threats, and vulnerabilities associated with the interdependency of information systems for critical infrastructures, including the development of effective models, simulations, and other analytic tools and cost-effective technologies in this area.
 
 &emsp;(ix) <i>International Affairs</i>, chaired by a designee of the Secretary of State, to support Department of State coordination of United States Government programs for international cooperation covering international information infrastructure issues.
 
@@ -786,53 +868,9 @@ Sec. 14. <i>General Provisions</i>. (a) Nothing in this order shall supersede an
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13260. Establishing the President's Homeland Security Advisory Council and Senior Advisory Committees for Homeland Security
+#### Executive Order No. 13260
 
-Ex. Ord. No. 13260, Mar. 19, 2002, 67 F.R. 13241, as amended by Ex. Ord. No. 13286, §4, Feb. 28, 2003, 68 F.R. 10619, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. <i>President's Homeland Security Advisory Council.</i>
-
-(a) <i>Establishment and Membership</i>. I hereby establish the President's Homeland Security Advisory Council (PHSAC). The PHSAC shall be composed of not more than 21 members appointed by the President. In addition, the Chair and the Vice Chair of the National Infrastructure Advisory Council; the Chairman of the President's National Security Telecommunications Advisory Committee; and the Chair of the Panel on the Science and Technology of Combating Terrorism, President's Council of Advisors on Science and Technology, shall serve as ex officio members of the PHSAC. The appointed members of the PHSAC shall be selected from the private sector, academia, professional service associations, federally funded research and development centers, nongovernmental organizations, State and local governments, and other appropriate professions and communities.
-
-(b) <i>Chair and Vice Chair</i>. The President shall designate a Chair and Vice Chair from among the appointed members of the PHSAC.
-
-(c) <i>Senior Advisory Committees</i>. (i) <i>Establishment and Membership</i>. The following four Senior Advisory Committees for Homeland Security (SACs) are hereby established to advise the PHSAC: (1) State and Local Officials; (2) Academia and Policy Research; (3) Private Sector; and (4) Emergency Services, Law Enforcement, and Public Health and Hospitals. Each SAC shall generally be composed of not more than 17 members selected by the Secretary of Homeland Security (Secretary). The President may establish additional SACs as appropriate, consistent with this order.
-
-(ii) <i>Chairs and Vice Chairs</i>. The Assistant \[Secretary\] shall from time to time designate a Chair and Vice Chair for each of the SACs from among the PHSAC's members.
-
-(iii) <i>Subcommittees</i>. The Chair of each SAC, in consultation with the PHSAC, may as appropriate establish subcommittees to advise the SAC.
-
-Sec. 2. <i>Functions</i>. The PHSAC shall meet periodically at the Assistant's \[Secretary's\] request to:
-
-(a) provide advice to the President through the Secretary on developing and coordinating the implementation of a comprehensive national strategy to secure the United States from terrorist threats or attacks;
-
-(b) recommend to the President through the Secretary ways to improve coordination, cooperation, and communication among Federal, State, and local officials and private and other entities, and provide a means to collect scholarly research, technological advice, and information concerning processes and organizational management practices both inside and outside of the Federal Government;
-
-(c) provide advice to the President through the Secretary regarding the feasibility of implementing specific measures to detect, prepare for, prevent, protect against, respond to, and recover from terrorist threats or attacks within the United States;
-
-(d) examine, and advise the President through the Secretary on, the effectiveness of the implementation of specific strategies to detect, prepare for, prevent, protect against, respond to, and recover from terrorist threats or attacks within the United States; and
-
-(e) report periodically, as appropriate, to the President through the Secretary on matters within the scope of the PHSAC's functions as described in paragraphs (a) through (d) of this section.
-
-Sec. 3. <i>Administration</i>. (a) Upon the request of the Chair of the PHSAC, through the Secretary, and to the extent permitted by law, the heads of executive departments and agencies shall provide the PHSAC with such information relating to homeland security matters as the PHSAC may need for the purpose of carrying out its functions.
-
-(b) The PHSAC shall have an Executive Director selected by the Secretary.
-
-(c) Members shall serve without compensation for their work on the PHSAC, the SACs, and any subcommittees thereof. However, members shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Federal Government service (5 U.S.C. 5701–5707).
-
-(d) To the extent permitted by law, and subject to the availability of appropriations, the Department of Homeland Security shall provide the PHSAC with administrative support and with such funds as may be necessary for the performance of the PHSAC's functions.
-
-Sec. 4. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of any portion of this order, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Homeland Security in accordance with the guidelines that have been issued by the Administrator of General Services.
-
-(b) The PHSAC, any SACs, and any SAC subcommittees shall terminate 2 years from the date of this order unless extended by the President.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 6402.
+Ex. Ord. No. 13260, Mar. 19, 2002, 67 F.R. 13241, as amended by Ex. Ord. No. 13286, §4, Feb. 28, 2003, 68 F.R. 10619, which established the President's Homeland Security Advisory Council and Senior Advisory Committees for Homeland Security, was revoked by Ex. Ord. No. 13286, §4, Feb. 28, 2003, 68 F.R. 10619, eff. Mar. 31, 2003.
 
 <i><sup>1</sup></i><i> So in original. Another subsec. (i) is set out after subsec. (j).</i>
 

@@ -50,7 +50,7 @@ For purposes of this section, the term “disadvantaged”, with respect to an i
 
 #### (2) Special consideration for certain schools
 
-&emsp;In making Federal capital contributions to student loan funds for purposes of subsection (a) of this section, the Secretary shall give special consideration to health professions schools that have enrollments of underrepresented minorities above the national average for health professions schools.
+&emsp;In making Federal capital contributions to student loan funds for purposes of subsection\(a) of this section, the Secretary shall give special consideration to health professions schools that have enrollments of underrepresented minorities above the national average for health professions schools.
 
 (July 1, 1944, ch. 373, title VII, §724, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2018; amended Pub. L. 105–392, title I, §132, Nov. 13, 1998, 112 Stat. 3575.)
 
@@ -67,8 +67,4 @@ Pub. L. 105–392, §132(a), substituted “$8,000,000 for each of the fiscal ye
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–392, title I, §132(b), Nov. 13, 1998, 112 Stat. 3575, provided that the repeal of subsec. (f)(1) of this section is effective Oct. 1, 2002.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 292s of this title.
 

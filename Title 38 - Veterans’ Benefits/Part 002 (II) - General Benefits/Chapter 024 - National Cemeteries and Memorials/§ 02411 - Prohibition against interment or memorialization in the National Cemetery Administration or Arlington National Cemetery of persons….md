@@ -6,7 +6,7 @@
 
 &emsp;(B) honor the memory of such person in a memorial area in a cemetery in the National Cemetery Administration (described in section 2403(a) of this title) or in such an area in Arlington National Cemetery (described in section 2409(a) of this title).
 
-(2) In the case of a person described in subsection (b)(1) or (b)(2), the prohibition under paragraph (1) shall not apply unless written notice of a conviction referred to in subsection (b)(1) or (b)(2), as the case may be, is received by the appropriate Federal official before such official approves an application for the interment or memorialization of such person. Such written notice shall be furnished to such official by the Attorney General, in the case of a Federal capital crime, or by an appropriate State official, in the case of a State capital crime.
+(2) In the case of a person described in subsection (b)(1) or (b)(2), the prohibition under paragraph (1) shall not apply unless written notice of a conviction referred to in subsection (b)(1) or (b)(2), as the case may be, is received bythe appropriate Federal official before such official approves an application for the interment or memorialization of such person. Such written notice shall be furnished to such official by the Attorney General, in the case of a Federal capital crime, or by an appropriate State official, in the case of a State capital crime.
 
 (b) A person referred to in subsection (a) is any of the following:
 
@@ -47,8 +47,4 @@ Subsecs. (a)(1)(A), (B), (d)(3)(A). Pub. L. 105–368, §403(d)(1), substituted 
 #### Effective Date
 
 Section 1(c) of Pub. L. 105–116 provided that: “Section 2411 of title 38, United States Code, as added by subsection (a), shall apply with respect to applications for interment or memorialization made on or after the date of the enactment of this Act \[Nov. 21, 1997\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 112, 2301, 2306, 2408 of this title.
 

@@ -44,7 +44,7 @@ Subject to this section, a referendum conducted under this section shall be cond
 
 #### (2) Penalty for violations
 
-&emsp;An officer or employee of the Department who knowingly violates paragraph (1) shall be subject to the penalties described in section 7484(i)(3)(C)(ii) of this title.
+&emsp;An officer or employee of the Department who knowingly violates paragraph (1) shall besubject to the penalties described in section 7484(i)(3)(C)(ii) of this title.
 
 (Pub. L. 104–127, title V, §576, Apr. 4, 1996, 110 Stat. 1081.)
 

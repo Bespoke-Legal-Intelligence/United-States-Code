@@ -186,7 +186,7 @@ Sec. 202. Regulations approved under authority delegated by the provisions of Se
 
 (b) Shall not apply to employees who are stationed in either the Canal Zone or in any “foreign area” as defined in 5 U.S.C. 5921(6).
 
-(c) Shall be limited to employees whose rates of basic compensation are fixed in conformity with rates paid by the Government for work of a comparable level of difficulty and responsibility to employees stationed in the continental United States, exclusive of Alaska.
+(c) Shall be limited to employees whose rates of basic compensation are fixed in conformity with rates paidby the Government for work of a comparable level of difficulty and responsibility to employees stationed in the continental United States, exclusive of Alaska.
 
 (d) Shall not, with respect to any locality, authorize allowances which exceed those prescribed under Executive Order No. 10000 of September 16, 1948, as amended, for other employees of the United States in the same locality.
 
@@ -195,8 +195,4 @@ Sec. 202. Regulations approved under authority delegated by the provisions of Se
 Sec. 301. All actions heretofore taken by the President or his delegate with respect to the matters affected by this order, and in effect at the time of the issuance of this order, including any regulations prescribed or approved by the President or his delegate with respect to such matters, shall, except as they are inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to appropriate authority.
 
 Sec. 302. This order, and the regulations prescribed or approved under the authority thereof, shall be published in the Federal Register.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5924 of this title; title 22 section 1474.
 

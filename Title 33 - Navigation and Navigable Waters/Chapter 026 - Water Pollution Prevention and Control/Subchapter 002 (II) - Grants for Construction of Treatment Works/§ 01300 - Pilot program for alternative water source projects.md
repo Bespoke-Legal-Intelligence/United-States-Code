@@ -10,13 +10,13 @@ The Administrator may establish a pilot program to make grants to State, interst
 
 #### (c) Eligible entity
 
-The Administrator may make grants under this section to an entity only if the entity hasauthority under State law to develop or provide water for municipal, industrial, and agricultural uses in an area of the State that is experiencing critical water supply needs.
+The Administrator may make grants under this section to an entity only if the entity has authority under State law to develop or provide water for municipal, industrial, and agricultural uses in an area of the State that is experiencing critical water supply needs.
 
 #### (d) Selection of projects
 
 #### (1) Limitation
 
-&emsp;A project that has received funds under the reclamation and reuse program conducted under the Reclamation Projects Authorization and Adjustment Act of 1992 (43 U.S.C. 390h et seq.) shall not be eligible for grant assistance under this section.
+&emsp;A project that has received funds under the reclamation and reuse program conductedunder the Reclamation Projects Authorization and Adjustment Act of 1992 (43 U.S.C. 390h et seq.) shall not be eligible for grant assistance under this section.
 
 #### (2) Additional consideration
 

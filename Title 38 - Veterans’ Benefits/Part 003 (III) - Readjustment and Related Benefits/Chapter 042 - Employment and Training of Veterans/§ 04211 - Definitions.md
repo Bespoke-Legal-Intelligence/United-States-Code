@@ -66,7 +66,7 @@ Par. (5). Pub. L. 97–306, §309(2), inserted provision that the United States 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–288, §2(b)(3), Nov. 7, 2002, 116 Stat. 2036, provided that: “The amendments made by this subsection \[amending this section and section 4212 of this title\] shall apply with respect to contracts entered into on or after the first day of the first month that begins 12 months after the date of the enactment of this Act \[Nov. 7, 2002\].”
+Pub. L. 107–288, §2(b)(3), Nov. 7, 2002, 116 Stat. 2036, provided that: “The amendments made by this subsection \[amending this section and section 4212 of this title\] shall apply with respect to contracts entered into on or after the first day of the first month that begins12 months after the date of the enactment of this Act \[Nov. 7, 2002\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -87,8 +87,4 @@ Amendment by Pub. L. 94–502 effective Dec. 1, 1976, see section 703(c) of Pub.
 #### Effective Date
 
 Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92–540, set out as an Effective Date of 1972 Amendment note under section 4101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4101, 4107, 4214 of this title; title 15 sections 636, 637, 1022a; title 42 section 6706.
 

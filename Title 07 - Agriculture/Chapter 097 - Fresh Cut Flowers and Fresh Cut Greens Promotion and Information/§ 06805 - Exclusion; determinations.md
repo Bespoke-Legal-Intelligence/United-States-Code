@@ -26,7 +26,7 @@ An order shall exclude from assessments under the order any sale of cut flowers 
 
 &emsp;&emsp;&emsp;(iii) in the case of an individual or a partnership, sales attributable to any corporation or other entity in which the individual or partnership owns more than 50 percent of the stock or (if the entity is not a corporation) that the individual or partnership controls; and
 
-&emsp;&emsp;&emsp;(iv) in the case of a corporation, sales attributable to any corporate subsidiary orother corporation or entity in which the corporation owns more than 50 percent of the stock or (if the entity is not a corporation) that the corporation controls.
+&emsp;&emsp;&emsp;(iv) in the case of a corporation, sales attributable to any corporate subsidiary or other corporation or entity in which the corporation owns more than 50 percent of the stock or (if the entity is not a corporation) that the corporation controls.
 
 #### (B) Stock and ownership interest
 
@@ -37,8 +37,4 @@ An order shall exclude from assessments under the order any sale of cut flowers 
 &emsp;For the purpose of this subsection, the order may require a person who sells cut flowers or cut greens to retailers to submit reports to the PromoFlor Council on annual sales by the person.
 
 (Pub. L. 103–190, §6, Dec. 14, 1993, 107 Stat. 2283.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6804 of this title.
 

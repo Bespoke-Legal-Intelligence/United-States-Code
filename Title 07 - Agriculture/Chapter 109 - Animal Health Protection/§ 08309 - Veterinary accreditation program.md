@@ -22,7 +22,7 @@ The Secretary shall consult with State animal health officials and veterinary pr
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may summarily suspend the accreditation of a veterinarian whom theSecretary has reason to believe knowingly violated this chapter.
+&emsp;&emsp;The Secretary may summarily suspend the accreditation of a veterinarian whom the Secretary has reason to believe knowingly violated this chapter.
 
 #### (B) Hearings
 
@@ -41,10 +41,6 @@ This title, referred to in subsec. (c)(1), is title X of Pub. L. 107–171, May 
 #### Transfer of Functions
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8313, 8314 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

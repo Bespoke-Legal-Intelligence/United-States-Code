@@ -26,7 +26,7 @@ Refusing To Work Because of Hazardous Conditions.—(1) A railroad carrier engag
 
 (c)
 
-Dispute Resolution.—A dispute, grievance, or claim arising under this section is subject to resolution under section 3 of the Railway Labor Act (45 U.S.C. 153). In a proceeding by the National Railroad Adjustment Board, a division or delegate of the Board, or another board of adjustment established under section 3 to resolve the dispute, grievance, or claim, the proceeding shall be expedited and the dispute, grievance, or claim shall be resolved not later than 180 days after it is filed. If the violation is a form of discrimination that does not involve discharge, suspension, or another action affecting pay, and no other remedy is available under this subsection, the Board, division, delegate, or other board of adjustment may award the employeereasonable damages, including punitive damages, of not more than $20,000.
+Dispute Resolution.—A dispute, grievance, or claim arising under this section is subject to resolution under section 3 of the Railway Labor Act (45 U.S.C. 153). In a proceeding by the National Railroad Adjustment Board, a division or delegate of the Board, or another board of adjustment established under section 3 to resolve the dispute, grievance, or claim, the proceeding shall be expedited and the dispute, grievance, or claim shall be resolved not later than 180 days after it is filed. If the violation is a form of discrimination that does not involve discharge, suspension, or another action affecting pay, and no other remedy is available under this subsection, the Board, division, delegate, or other board of adjustment may award the employee reasonable damages, including punitive damages, of not more than $20,000.
 
 (d)
 

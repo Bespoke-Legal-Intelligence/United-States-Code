@@ -32,7 +32,3 @@ The Director shall appoint such hearing officers and other employees as are nece
 
 (Pub. L. 103–354, title II, §272, Oct. 13, 1994, 108 Stat. 3229.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6902 of this title.
-

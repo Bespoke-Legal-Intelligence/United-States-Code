@@ -2,7 +2,7 @@
 
 #### (a) Assurances
 
-A State educational agency, in consultation with the Governor of the State, that submits a consolidated State plan or consolidated State application under this chapter, whether separately or under section 7842 of this title, shallhave on file with the Secretary a single set of assurances, applicable to each program for which the plan or application is submitted, that provides that—
+A State educational agency, in consultation with the Governor of the State, that submits a consolidated State plan or consolidated State application under this chapter, whether separately or under section 7842 of this title, shall have on file with the Secretary a single set of assurances, applicable to each program for which the plan or application is submitted, that provides that—
 
 &emsp;(1) each such program will be administered in accordance with all applicable statutes, regulations, program plans, and applications;
 
@@ -28,7 +28,7 @@ A State educational agency, in consultation with the Governor of the State, that
 
 &emsp;&emsp;(B) maintain such records, provide such information to the Secretary, and afford such access to the records as the Secretary may find necessary to carry out the Secretary's duties; and
 
-&emsp;(7) before the plan or application was submitted to the Secretary, the State afforded a reasonable opportunity for public comment on the plan or application and considered such comment.
+&emsp;(7) before the plan or application was submitted to the Secretary, the State afforded a reasonable opportunity for public comment onthe plan or application and considered such comment.
 
 #### (b) GEPA provision
 

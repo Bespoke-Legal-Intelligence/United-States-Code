@@ -1,9 +1,5 @@
 ### SUBCHAPTER XIV—PATENTS AND FINAL WATER-RIGHT CERTIFICATES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 512, 593 of this title.
-
 
 ---
 

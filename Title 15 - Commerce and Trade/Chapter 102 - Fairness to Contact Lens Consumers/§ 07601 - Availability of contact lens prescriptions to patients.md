@@ -14,7 +14,7 @@ A prescriber may not—
 
 &emsp;(1) require purchase of contact lenses from the prescriber or from another person as a condition of providing a copy of a prescription under subsection (a)(1) or (a)(2) or verification of a prescription under subsection (a)(2);
 
-&emsp;(2) require payment in addition to, or as part of, the fee for an eye examination, fitting, andevaluation as a condition of providing a copy of a prescription under subsection (a)(1) or (a)(2) or verification of a prescription under subsection (a)(2); or
+&emsp;(2) require payment in addition to, or as part of, the fee for an eye examination, fitting, and evaluation as a condition of providing a copy of a prescription under subsection (a)(1) or (a)(2) or verification of a prescription under subsection (a)(2); or
 
 &emsp;(3) require the patient to sign a waiver or release as a condition of verifying or releasing a prescription.
 

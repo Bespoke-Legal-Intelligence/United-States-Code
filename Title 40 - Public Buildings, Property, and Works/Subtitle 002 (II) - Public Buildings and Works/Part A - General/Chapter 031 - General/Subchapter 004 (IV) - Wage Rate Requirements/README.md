@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—WAGE RATE REQUIREMENTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3162 of this title; title 50 App. sections 2095, 2096.
-
 
 ---
 

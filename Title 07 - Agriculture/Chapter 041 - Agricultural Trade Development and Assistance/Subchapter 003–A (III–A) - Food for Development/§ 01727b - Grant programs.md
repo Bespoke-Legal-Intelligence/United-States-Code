@@ -6,7 +6,7 @@ To carry out the policies and accomplish the objectives described in section 169
 
 #### Prior Provisions
 
-A prior section 303 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, which enacted section 1692 of this title,was renumbered section 310 by Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548.
+A prior section 303 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, which enacted section 1692 of this title, was renumbered section 310 by Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548.
 
 #### Amendments
 
@@ -25,8 +25,4 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date
 
 Section effective Oct. 1, 1977, see section 215 of Pub. L. 95–88, set out as an Effective Date of 1977 Amendment note under section 1702 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1731 of this title.
 

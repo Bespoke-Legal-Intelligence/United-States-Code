@@ -34,7 +34,3 @@ No public members appointed pursuant to this section may be, at the time of thei
 
 Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provided, see section 24 of Pub. L. 104–65, set out as an Effective Date note under section 1601 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3965, 3966, 4001, 4007, 4131 of this title.
-

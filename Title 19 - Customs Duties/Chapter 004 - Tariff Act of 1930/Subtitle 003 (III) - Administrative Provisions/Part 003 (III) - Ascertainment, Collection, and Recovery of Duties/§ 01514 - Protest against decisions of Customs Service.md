@@ -2,7 +2,7 @@
 
 #### (a) Finality of decisions; return of papers
 
-Except as provided in subsection (b) of this section, section 1501 of this title (relating to voluntary reliquidations), section 1516 of this title (relating to petitions by domestic interested parties), and section 1520 of this title (relating to refunds and errors), decisions of the Customs Service, including the legality of all orders and findings entering into the same, as to—
+Except as provided in subsection (b) of this section, section 1501 of this title (relating to voluntary reliquidations), section 1516 of this title (relating to petitions by domestic interested parties), and section 1520 of this title (relating to refunds), any clerical error, mistake of fact, or other inadvertence, whether or not resulting from or contained in an electronic transmission, adverse to the importer, in any entry, liquidation, or reliquidation, and, decisions of the Customs Service, including the legality of all orders and findings entering into the same, as to—
 
 &emsp;(1) the appraised value of merchandise;
 
@@ -12,13 +12,13 @@ Except as provided in subsection (b) of this section, section 1501 of this title
 
 &emsp;(4) the exclusion of merchandise from entry or delivery or a demand for redelivery to customs custody under any provision of the customs laws, except a determination appealable under section 1337 of this title;
 
-&emsp;(5) the liquidation or reliquidation of an entry, or reconciliation as to the issues contained therein, or any modification thereof;
+&emsp;(5) the liquidation or reliquidation of an entry, or reconciliation as to the issues contained therein, or any modification thereof, including the liquidation of an entry, pursuant to either section 1500 of this title or section 1504 of this title;
 
 &emsp;(6) the refusal to pay a claim for drawback; or
 
-&emsp;(7) the refusal to reliquidate an entry under subsection (c) or (d) of section 1520 of this title;
+&emsp;(7) the refusal to reliquidate an entry under subsection (d) of section 1520 of this title;
 
-> shall be final and conclusive upon all persons (including the United States and any officer thereof) unless a protest is filed in accordance with this section, or unless a civil action contesting the denial of a protest, in whole or in part, is commenced in the United States Court of International Trade in accordance with chapter 169 of title 28 within the time prescribed bysection 2636 of that title. When a judgment or order of the United States Court of International Trade has become final, the papers transmitted shall be returned, together with a copy of the judgment or order to the Customs Service, which shall take action accordingly.
+> shall be final and conclusive upon all persons (including the United States and any officer thereof) unless a protest is filed in accordance with this section, or unless a civil action contesting the denial of a protest, in whole or in part, is commenced in the United States Court of International Trade in accordance with chapter 169 of title 28 within the time prescribed by section 2636 of that title. When a judgment or order of the United States Court of International Trade has become final, the papers transmitted shall be returned, together with a copy of the judgment or order to the Customs Service, which shall take action accordingly.
 
 #### (b) Finality of determinations
 
@@ -36,7 +36,7 @@ With respect to determinations made under section 1303 <sup>1</sup> of this tit
 
 &emsp;(D) any other matter required by the Secretary by regulation.
 
-> Only one protest may be filed for each entry of merchandise, except that where the entry covers merchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under section 3332 of this title, that is the subject of a protest are deemed to be part of a single protest. A protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) of this section which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to section 1515 of this title at any time prior to the disposition of the protest in accordance with that section.
+> Only one protest may be filed for each entry of merchandise, except that where the entry covers merchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under section 3332 of this title, that is the subject of a protest are deemed to be part of a single protest. Unless a request for accelerated disposition is filed under section 1515(b) of this title, a protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) of this section which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to section 1515of this title at any time prior to the disposition of the protest in accordance with that section.
 
 (2) Except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed with respect to merchandise which is the subject of a decision specified in subsection (a) of this section by—
 
@@ -52,13 +52,13 @@ With respect to determinations made under section 1303 <sup>1</sup> of this tit
 
 &emsp;(F) any authorized agent of any of the persons described in clauses (A) through (E).
 
-(3) A protest of a decision, order, or finding described in subsection (a) of this section shall be filed with the Customs Service within ninety days after but not before—
+(3) A protest of a decision, order, or finding described in subsection (a) of this section shall be filed with the Customs Service within 180 days after but not before—
 
-&emsp;(A) notice of liquidation or reliquidation, or
+&emsp;(A) date of liquidation or reliquidation, or
 
 &emsp;(B) in circumstances where subparagraph (A) is inapplicable, the date of the decision as to which protest is made.
 
-> A protest by a surety which has an unsatisfied legal claim under its bond may be filed within 90 days from the date of mailing of notice of demand for payment against its bond. If another party has not filed a timely protest, the surety's protest shall certify that it is not being filed collusively to extend another authorized person's time to protest as specified in this subsection.
+> A protest by a surety which has an unsatisfied legal claim under its bond may be filed within 180 days from the date of mailing of notice of demand for payment against its bond. If another party has not filed a timely protest, the surety's protest shall certify that it is not being filed collusively to extend another authorized person's time to protest as specified in this subsection.
 
 #### (d) Limitation on protest of reliquidation
 
@@ -82,7 +82,7 @@ If the Customs Service finds indications of a pattern of conduct by an exporter 
 
 If the Bureau of Customs and Border Protection or the Bureau of Immigration and Customs Enforcement finds indications of a pattern of conduct by an importer of false or unsupported representations that goods qualify under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act, the Bureau of Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may deny preferential tariff treatment under the United States-Chile Free Trade Agreement to entries of identical goods imported by that person until the person establishes to the satisfaction of the Bureau of Customs and Border Protection that representations of that person are in conformity with such section 202.
 
-(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §205(b), Sept. 3, 2003, 117 Stat. 931.)
+(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §205(b), Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2103, Dec. 3, 2004, 118 Stat. 2597.)
 
 #### Amendment of Section
 
@@ -92,7 +92,7 @@ If the Bureau of Customs and Border Protection or the Bureau of Immigration and 
 
 The customs laws, referred to in subsec. (a)(4), are classified generally to this title.
 
-Section 1303 of this title, referred to in subsec. (b), is defined in section 1677(26) of this title to mean section 1330 as in effect on the day before Jan. 1, 1995.
+Section 1303 of this title, referred to in subsec. (b), is defined in section 1677(26) of this title to mean section 1303 as in effect on the day before Jan. 1, 1995.
 
 Section 202 of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsec. (g), is section 202 of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
 
@@ -104,11 +104,23 @@ Section was formerly classified to former section 579 of this title subsequent t
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §514, 42 Stat. 969. That section was superseded by section 514 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Provisions that the decision of the collector as to duties, including dutiable costs and charges, and as to all fees and exactions, should be final and conclusive unless a protest was filed within 30 days after ascertainment and liquidation of duties, or within 15 days after payment of fees, charges and exactions, with further provisions as to fees, transmission of the papers to the Board of General Appraisers, etc., were contained in act Oct. 3, 1913, ch. 16, §III, N, 38 Stat. 187, the provisions of which were substituted for provisions of a similar nature in the Customs Administrative Act of June 10, 1890, ch. 407, §14, 26 Stat. 137, as amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 100. Section III, N, of the 1913 act was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
+Provisions that the decision of the collector as to duties, including dutiable costs and charges, and as to all fees and exactions, should be final and conclusive unless a protest was filed within 30 days after ascertainment and liquidation of duties, or within 15 days afterpayment of fees, charges and exactions, with further provisions as to fees, transmission of the papers to the Board of General Appraisers, etc., were contained in act Oct. 3, 1913, ch. 16, §III, N, 38 Stat. 187, the provisions of which were substituted for provisions of a similar nature in the Customs Administrative Act of June 10, 1890, ch. 407, §14, 26 Stat. 137, as amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 100. Section III, N, of the 1913 act was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
 Provisions relating to decisions of the collector, and appeals therefrom to the Secretary of the Treasury were contained in R.S. §§2931, 2932, prior to repeal by section 29 of the Customs Administrative Act, 26 Stat. 141.
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–429, §2103(1)(A), substituted “(relating to refunds), any clerical error, mistake of fact, or other inadvertence, whether or not resulting from or contained in an electronic transmission, adverse to the importer, in any entry, liquidation, or reliquidation, and” for “(relating to refunds and errors)” in introductory provisions.
+
+Subsec. (a)(5). Pub. L. 108–429, §2103(1)(B), inserted “, including the liquidation of an entry, pursuant to either section 1500 of this title or section 1504 of this title” after “thereof”.
+
+Subsec. (a)(7). Pub. L. 108–429, §2103(1)(C), struck out “(c) or” after “subsection”.
+
+Subsec. (c)(1). Pub. L. 108–429, §2103(2)(A), which directed substitution of “Unless a request for accelerated disposition is filed under section 1515(b) of this title, a protest may be amended,” for “A protest may be amended,” in the sixth sentence, was executed by making the substitution in the fifth sentence, to reflect the probable intent of Congress.
+
+Subsec. (c)(3). Pub. L. 108–429, §2103(2)(B)(i), (iii), substituted “180 days” for “ninety days” in introductory provisions and “180 days” for “90 days” in concluding provisions.
+
+Subsec. (c)(3)(A). Pub. L. 108–429, §2103(2)(B)(ii), substituted “date of” for “notice of”.
 
 2003—Subsec. (g). Pub. L. 108–77, §§107(c), 205(b), temporarily added subsec. (g). See Effective and Termination Dates of 2003 Amendment note below.
 
@@ -154,11 +166,15 @@ Subsec. (b). Pub. L. 96–39, §1001(b)(3)(D), added subsec. (b). Former subsec.
 
 Subsec. (c)(1). Pub. L. 96–39, §1001(b)(3)(C), (E), redesignated former subsec. (b)(1) as (c)(1) and substituted provisions that, except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed by importers or consignees or their sureties, persons paying a charge or exaction, persons seeking entry or delivery, persons filing a claim for drawback, and authorized agents of such persons for provisions that, except as otherwise provided in section 1557(b) of this title, protests could be filed only by importers, consignees, or the authorized agents of persons paying any charges, or exactions, persons filing claims for drawback, or persons seeking entry or delivery.
 
-Subsec. (c)(2). Pub. L. 96–39, §1001(b)(3)(C), (F), redesignated former subsec. (b)(2) as (c)(2) and inserted provision that a protest by a surety which has an unsatisfied legal claim under its bond may be filed within 90 days from the date of mailing of notice of demand for payment against its bond and that, if another party has not filed a timely protest, the surety's protest shall certify that it is not being filed collusively to extend another authorized person's time to protest as specified in this subsection.
+Subsec. (c)(2). Pub. L. 96–39, §1001(b)(3)(C), (F), redesignated former subsec. (b)(2) as (c)(2) and inserted provision that a protest by a surety which has an unsatisfied legal claim under its bond may be filed within 90 days from the date of mailing of notice of demand for payment against its bond and that, if another party has not filed a timely protest, the surety's protest shall certify that it is not being filed collusively to extendanother authorized person's time to protest as specified in this subsection.
 
 Subsec. (d). Pub. L. 96–39, §1001(b)(3)(C), redesignated former subsec. (c) as (d).
 
 1970—Pub. L. 91–271 designated existing provisions as subsec. (a), expanded references to sections excepted from application of this section, substituted decisions of the appropriate customs officer for all decisions of the collector as deemed to be final and conclusive, reorganized the categories of decisions and findings subject to such finality and conclusiveness, and revised the procedures for filing of protests, and added subsecs. (b) and (c).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–429 applicable to merchandise entered, or withdrawn from warehouse for consumption, on or after the 15th day after Dec. 3, 2004, see section 2108 of Pub. L. 108–429, set out as a note under section 1401 of this title.
 
 #### Effective and Termination Dates of 2003 Amendment
 
@@ -222,7 +238,7 @@ Pub. L. 100–690, title VII, §7361(c), Nov. 18, 1988, 102 Stat. 4474, provided
 
 &emsp;“(B) establish procedures that allow individuals described in section 514(c)(1) of the Tariff Act of 1930 (19 U.S.C. 1514(c)(1)), any port authority, and any other interested party (within the meaning of section 516(a)(2) of the Tariff Act of 1930 (19 U.S.C. 1516(a)(2))) to petition the Secretary to obtain such uniformity in an expedited and timely fashion.
 
-“(2) The Secretary of the Treasury shall publish in the Federal Register and submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives the proposed and final form of the regulations prescribed under paragraph (1) and shall receive and consider comments from the public regarding the proposed form of such regulations during the 60-day period beginning on the date the proposed form of such regulations are published in the Federal Register.
+“(2) The Secretary of the Treasury shall publish in the Federal Register and submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives the proposedand final form of the regulations prescribed under paragraph (1) and shall receive and consider comments from the public regarding the proposed form of such regulations during the 60-day period beginning on the date the proposed form of such regulations are published in the Federal Register.
 
 “(3) The regulations prescribed under paragraph (1) shall take effect by no later than April 1, 1989.
 
@@ -231,10 +247,6 @@ Pub. L. 100–690, title VII, §7361(c), Nov. 18, 1988, 102 Stat. 4474, provided
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1499, 1509, 1515, 1557, 1592, 1593a, 2013, 3011, 3522 of this title; title 28 sections 2631, 2638.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

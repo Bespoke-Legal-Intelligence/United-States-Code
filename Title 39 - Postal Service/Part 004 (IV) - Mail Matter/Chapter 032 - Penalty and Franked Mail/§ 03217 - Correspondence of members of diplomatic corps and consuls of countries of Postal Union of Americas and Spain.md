@@ -4,7 +4,3 @@ Correspondence of the members of the diplomatic corps of the countries of the Po
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 755.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2401, 3627 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—WHALING CONVENTION ACT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1371, 1402 of this title.
-
 
 ---
 

@@ -36,7 +36,7 @@ Pub. L. 108–183, title VI, §601, Dec. 16, 2003, 117 Stat. 2667, provided that
 
 “(a)
 
-Review of Mission, Procedures, and Administration.—(1) The Secretary of Veterans Affairs and the Secretary of Defense shall jointly conduct a review of the mission, procedures, and administration of the Radiation Dose Reconstruction Program of the Department of Defense.
+Review of Mission, Procedures, and Administration.—(1) The Secretary of Veterans Affairs and theSecretary of Defense shall jointly conduct a review of the mission, procedures, and administration of the Radiation Dose Reconstruction Program of the Department of Defense.
 
 “(2) In conducting the review under paragraph (1), the Secretaries shall—
 
@@ -150,7 +150,7 @@ Content of Registry.—Except as provided in subsection (c), the Registry shall 
 
 “(c)
 
-Veterans Submitting Claims Before Date of Enactment.—If in the case of a veteran described in subsection (b)(1) the application or claim referred to in such subsection was submitted or filed before October 28, 1986, the Secretary shall include in the Registry, to the extent feasible, such veteran's name and the dataand information described in subsection (b) relating to the veteran.
+Veterans Submitting Claims Before Date of Enactment.—If in the case of a veteran described in subsection (b)(1) the application or claim referred to in such subsection was submitted or filed before October 28, 1986, the Secretary shall include in the Registry, to the extent feasible, such veteran's name and the data and information described in subsection (b) relating to the veteran.
 
 “(d)
 
@@ -318,7 +318,7 @@ Sec. 7. (a) In connection with the duties of the Director of the Defense Nuclear
 
 &emsp;&emsp;“(C) enter into an interagency agreement with the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] for the purpose of assisting the Administrator in identifying agencies or other entities capable of furnishing services involving the use of such devices and techniques.
 
-“(b) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\], in resolving material differences between a radiation dose estimate, from a credible source, submitted by a veteran or survivor and a radiation dose estimate prepared and transmitted by the Director of the Defense Nuclear Agency, shall provide for the preparation of a radiation dose estimate by an independent expert, who shall be selected by the Director of the National Institutes of Health and who shall not be affiliated with the Defense Nuclear Agency, and the Administrator shall provide for the consideration of such independent estimate in connection with the adjudication of the claim for Veterans’ Administration \[now Department of Veterans Affairs\] compensation.”
+“(b) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\], in resolving material differences between a radiation dose estimate, from a credible source, submitted by a veteran or survivor and a radiation dose estimate prepared and transmitted by the Director of the Defense Nuclear Agency, shall provide for the preparation of a radiation dose estimate by an independent expert, who shall be selected by the Director of the National Institutes of Health and whoshall not be affiliated with the Defense Nuclear Agency, and the Administrator shall provide for the consideration of such independent estimate in connection with the adjudication of the claim for Veterans’ Administration \[now Department of Veterans Affairs\] compensation.”
 
 \[Pub. L. 102–4, §10(e), Feb. 6, 1991, 105 Stat. 20, as amended by Pub. L. 102–86, title V, §503(b)(2), Aug. 14, 1991, 105 Stat. 425, provided that:
 

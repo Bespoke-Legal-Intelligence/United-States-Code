@@ -32,7 +32,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 #### (D) Extremely high rates
 
-&emsp;&emsp;In addition to hardship loans that are made under subparagraphs (A) and (B), the Secretary shall make insured electric loans,to the extent of qualifying applications for the loans, at an interest rate of 5 percent per year to any applicant for a loan whose residential revenue exceeds 15.0 cents per kilowatt-hour sold. A qualifying application from such an applicant for the purpose of furnishing or improving electric service to a consumer located outside of an urbanized area shall not be subject to the conditions or limitation of subparagraph (A) or (C).
+&emsp;&emsp;In addition to hardship loans that are made under subparagraphs (A) and (B), the Secretary shall make insured electric loans, to the extent of qualifying applications for the loans, at an interest rate of 5 percent per year to any applicant for a loan whose residential revenue exceeds 15.0 cents per kilowatt-hour sold. A qualifying application from such an applicant for the purpose of furnishing or improving electric service to a consumer located outside of an urbanized area shall not be subject to the conditions or limitation of subparagraph (A) or (C).
 
 #### (2) Municipal rate loans
 
@@ -211,10 +211,6 @@ Section 4 of Pub. L. 94–570 provided that: “This Act \[amending this section
 #### Effective Date
 
 Section effective May 11, 1973, see section 12 of Pub. L. 93–32, set out as a note under section 930 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 928, 936b, 939, 940, 940d, 948 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(2)(A)(ii)”.</i>
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(i) before August 20, 1990, has, under an historic export quota approved by the Secretary concerned, purchased unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States in substitution for exported unprocessed timber originating from private lands;
 
-&emsp;&emsp;(ii) certifies to the Secretary concerned, within 3 months after August 20, 1990, that the person will, within 6 months after August 20, 1990, cease exporting unprocessed timber originating from private lands; and
+&emsp;&emsp;(ii) certifies to the Secretary concerned, within 3 months after August 20, 1990, thatthe person will, within 6 months after August 20, 1990, cease exporting unprocessed timber originating from private lands; and
 
 &emsp;&emsp;(iii) ceases exports in accordance with such certification.
 
@@ -74,7 +74,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 &emsp;&emsp;(B) information regarding the location of each timber manufacturing facility owned or operated by such person within the proposed sourcing area boundaries at which the applicant proposes to process timber originating from Federal lands.
 
-> &emsp;The prohibition contained in subsection (a) of this section shall not apply to a person before the date which is 1 month after the procedures referred to in this paragraph are prescribed. With respect to any person who submits an application in accordance with such procedures by the end of the time period set forth in the preceding sentence, the prohibition contained in subsection (a) of this section shall not apply to such person before the date on which the Secretary concerned approves or disapproves such application.
+> &emsp;The prohibition contained in subsection (a) of this section shall not apply to a person before the date which is 1 month after the procedures referred to in this paragraph are prescribed. With respect to any person who submits an application in accordance with such procedures by the end of the time period set forth in the preceding sentence, the prohibition contained in subsection (a) of this section shall not apply to such person before the date on which theSecretary concerned approves or disapproves such application.
 
 #### (3) Grant of approval for sourcing areas for processing facilities located outside of the northwestern private timber open market area
 
@@ -120,7 +120,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 &emsp;&emsp;&emsp;(ii) the radius of the circle—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall be the furthest distance that the sourcing area applicant or holderproposes to haul Federal timber for processing at the processing facility; and
+&emsp;&emsp;&emsp;&emsp;(I) shall be the furthest distance that the sourcing area applicant or holder proposes to haul Federal timber for processing at the processing facility; and
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be determined solely by the sourcing area applicant or holder;
 
@@ -193,8 +193,4 @@ Subsec. (c)(4), (5). Pub. L. 105–83, §602(a)(2)(D), (E), inserted “for sour
 Subsec. (c)(6), (7). Pub. L. 105–83, §602(a)(2)(F), added pars. (6) and (7).
 
 Subsec. (d). Pub. L. 105–83, §602(a)(3), added subsec. (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 620d, 620f of this title.
 

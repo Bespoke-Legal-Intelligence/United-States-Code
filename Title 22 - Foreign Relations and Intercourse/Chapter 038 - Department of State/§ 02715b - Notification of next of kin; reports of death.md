@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Whenever a United States citizen or national dies abroad, a consular officer shall endeavor to notify, or assist the Secretary of State in notifying, the next of kin or legal guardian as soon as possible, except that, in the case of death of any Peace Corps volunteer (within the meaning of section 2504(a) of this title), any member of the Armed Forces, any dependent of such a volunteer or member, or any Department of Defense employee, the consular officer shall assist the Peace Corps or the appropriate military authorities, as the case may be, in making such notifications.
+Whenever a United States citizen or national dies abroad, a consular officer shall endeavor to notify, or assist the Secretary of State in notifying, the next of kin or legal guardian as soon as possible, except that, in the case of death ofany Peace Corps volunteer (within the meaning of section 2504(a) of this title), any member of the Armed Forces, any dependent of such a volunteer or member, or any Department of Defense employee, the consular officer shall assist the Peace Corps or the appropriate military authorities, as the case may be, in making such notifications.
 
 #### (b) Reports of death or presumptive death
 
@@ -25,8 +25,4 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §234(c)\], Nov. 29,
 #### Administrative Assistance in Arrangements Following Death of United States Citizen Abroad
 
 Pub. L. 95–426, title I, §121, Oct. 7, 1978, 92 Stat. 970, as amended by Pub. L. 97–241, title V, §505(a)(2), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that: “The Congress finds that the Department of State should, in the performance of its consular duties, render all reasonable administrative assistance to a United States citizen who is making necessary arrangements following the death of another United States citizen abroad.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2715 of this title.
 

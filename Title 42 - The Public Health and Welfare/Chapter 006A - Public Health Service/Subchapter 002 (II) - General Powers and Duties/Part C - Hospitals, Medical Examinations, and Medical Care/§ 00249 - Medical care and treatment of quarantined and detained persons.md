@@ -68,7 +68,3 @@ Section 988 of Pub. L. 97–35 provided that:
 
 Section 810(c), formerly §710(c), of act July 1, 1944, as renumbered by acts Aug. 13, 1946, ch. 958, §5, 60 Stat. 1049; July 30, 1956, ch. 779, §3(b), 70 Stat. 720, which gave foreign seamen the same benefits as accorded seamen employed on United States vessels under subsec. (a)(1) of this section, was repealed effective Jan. 25, 1948, by Joint Res. July 25, 1947, ch. 327, §2(b), 61 Stat. 451.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 238a, 238m, 254e, 2651 of this title; title 24 section 168b.
-

@@ -40,7 +40,7 @@ Section 484a, act Apr. 23, 1949, ch. 89, §4, 63 Stat. 59, authorized Housing an
 
 Section 484b, act Apr. 23, 1949, ch. 89, §5, 63 Stat. 69, provided for retention of permanent housing by the Housing and Home Finance Administrator.
 
-Section 484c, act Apr. 23, 1949, ch. 89, §6, 63 Stat. 60, authorized transfer of real or personal property of other Government departments or agencies to Alaska Housing Authority.
+Section 484c, act Apr. 23, 1949, ch. 89, §6, 63 Stat. 60, authorized transfer of real or personal property ofother Government departments or agencies to Alaska Housing Authority.
 
 Section 484d, act June 27, 1934, ch. 847, title II, §214, as added Apr. 23, 1949, ch. 89, §2(a), 63 Stat. 57, and amended, related to insurance of mortgages on property in Alaska. See section 1715d of Title 12, Banks and Banking.
 

@@ -14,7 +14,3 @@ A disclaimer, modification, or limitation made in violation of this section shal
 
 (Pub. L. 93–637, title I, §108, Jan. 4, 1975, 88 Stat. 2189.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2301, 2304, 2311 of this title.
-

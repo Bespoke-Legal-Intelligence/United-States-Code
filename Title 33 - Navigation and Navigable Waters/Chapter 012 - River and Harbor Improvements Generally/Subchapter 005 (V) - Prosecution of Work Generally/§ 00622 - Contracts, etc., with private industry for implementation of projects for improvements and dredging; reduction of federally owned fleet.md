@@ -2,7 +2,7 @@
 
 #### (a) Contracts for dredging and related work
 
-The Secretary of the Army, acting through the Chief of Engineers (hereinafter referred to as the “Secretary”), in carrying out projects for improvement of rivers and harbors (other than surveys, estimates, and gagings) shall, by contract or otherwise, carry out such work in the manner most economical and advantageous to the United States. The Secretary shall havedredging and related work done by contract if he determines private industry has the capability to do such work and it can be done at reasonable prices and in a timely manner. During the four-year period which begins on April 26, 1978, the Secretary may limit the application of the second sentence of this subsection for work for which the federally owned fleet is available to achieve an orderly transition to full implementation of this subsection.
+The Secretary of the Army, acting through the Chief of Engineers (hereinafter referred to as the “Secretary”), in carrying out projects for improvement of rivers and harbors (other than surveys, estimates, and gagings) shall, by contract or otherwise, carry out such work in the manner most economical and advantageous to the United States. The Secretary shall have dredging and related work done by contract if he determines private industry has the capability to do such work and it can be done at reasonable prices and in a timely manner. During the four-year period which begins on April 26, 1978, the Secretary may limit the application of the second sentence of this subsection for work for which the federally owned fleet is available to achieve an orderly transition to full implementation of this subsection.
 
 #### (b) Reduction of federally owned fleet
 
@@ -50,7 +50,7 @@ As private industry reasonably demonstrates its capability under subsection (a) 
 
 #### (C) Remaining dredges
 
-&emsp;&emsp;In carrying out the program under this section, the Secretary shall not reduce theavailability and utilization of Federal hopper dredge vessels stationed on the Pacific and Atlantic coasts below that which occurred in fiscal year 1996 to meet the navigation dredging needs of the ports on those coasts.
+&emsp;&emsp;In carrying out the program under this section, the Secretary shall not reduce the availability and utilization of Federal hopper dredge vessels stationed on the Pacific and Atlantic coasts below that which occurred in fiscal year 1996 to meet the navigation dredging needs of the ports on those coasts.
 
 #### (8) Contracts; payment of capital costs
 

@@ -20,7 +20,7 @@ The Commission shall conduct, in each of the respective fiscal years referred to
 
 > In reviewing the rates of pay of the offices or positions referred to in subparagraph (D) of this section, the Commission shall determine and consider the appropriateness of the executive levels of such offices and positions.
 
-(Pub. L. 90–206, title II, §225(f), Dec. 16, 1967, 81 Stat. 643; Pub. L. 91–375, §6(a), Aug. 12, 1970, 84 Stat. 775; Pub. L. 94–82, title II, §206(a), Aug. 9, 1975, 89 Stat. 423; Pub. L. 95–598, title III, §301, Nov. 6, 1978, 92 Stat. 2673; Pub. L. 97–164, title I, §143, Apr. 2, 1982, 96 Stat. 45; Pub. L. 99–190, §135(b), Dec. 19, 1985, 99 Stat. 1322; Pub. L.100–202, §101(a) \[title IV, §408(c)\], Dec. 22, 1987, 101 Stat. 1329, 1329–27; Pub. L. 101–194, title VII, §701(d), Nov. 30, 1989, 103 Stat. 1764; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 90–206, title II, §225(f), Dec. 16, 1967, 81 Stat. 643; Pub. L. 91–375, §6(a), Aug. 12, 1970, 84 Stat. 775; Pub. L. 94–82, title II, §206(a), Aug. 9, 1975, 89 Stat. 423; Pub. L. 95–598, title III, §301, Nov. 6, 1978, 92 Stat. 2673; Pub. L. 97–164, title I, §143, Apr. 2, 1982, 96 Stat. 45; Pub. L. 99–190, §135(b), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 100–202, §101(a) \[title IV, §408(c)\], Dec. 22, 1987, 101 Stat. 1329, 1329–27; Pub. L. 101–194, title VII, §701(d), Nov. 30, 1989, 103 Stat. 1764; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### References in Text
 
@@ -30,21 +30,21 @@ The rates of pay of justices, judges, and other personnel in the judicial branch
 
 #### Amendments
 
-<b>1992</b>—Par. (C). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Par. (C). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-<b>1989</b>—Pub. L. 101–194 substituted “subparagraphs (A) and (B) of section 352(8) of this title” for “section 352(2) and (3) of this title”.
+1989—Pub. L. 101–194 substituted “subparagraphs (A) and (B) of section 352(8) of this title” for “section 352(2) and (3) of this title”.
 
-<b>1987</b>—Par. (C). Pub. L. 100–202 substituted “except bankruptcy judges, but including” for “and magistrates and”.
+1987—Par. (C). Pub. L. 100–202 substituted “except bankruptcy judges, but including” for “and magistrates and”.
 
-<b>1985</b>—Pub. L. 99–190 inserted last sentence relating to review of rates of pay of offices or positions.
+1985—Pub. L. 99–190 inserted last sentence relating to review of rates of pay of offices or positions.
 
-<b>1982</b>—Par. (C). Pub. L. 97–164 inserted reference to judges of the United States Claims Court.
+1982—Par. (C). Pub. L. 97–164 inserted reference to judges of the United States Claims Court.
 
-<b>1978</b>—Par. (C). Pub. L. 95–598 struck out reference to section 402(d) and inserted reference to magistrates.
+1978—Par. (C). Pub. L. 95–598 struck out reference to section 402(d) and inserted reference to magistrates.
 
-<b>1975</b>—Par. (A). Pub. L. 94–82 inserted “the Vice President of the United States” before “Senators”, and “the Speaker of the House of Representatives, the President pro tempore of the Senate, and the majority and minority leaders of the Senate and the House of Representatives” after “Puerto Rico”.
+1975—Par. (A). Pub. L. 94–82 inserted “the Vice President of the United States” before “Senators”, and “the Speaker of the House of Representatives, the President pro tempore of the Senate, and the majority and minority leaders of the Senate and the House of Representatives” after “Puerto Rico”.
 
-<b>1970</b>—Par. (E). Pub. L. 91–375 added par. (E).
+1970—Par. (E). Pub. L. 91–375 added par. (E).
 
 #### Effective Date of 1992 Amendment
 
@@ -69,8 +69,4 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 #### Effective Rates of Pay Pending Changes in Rates Pursuant to Federal Salary Act of 1967
 
 Section 206(b) of Pub. L. 94–82 provided that: “Until such time as a change in the rate of pay of the offices referred to in the amendment made by subsection (a) of this section \[amending par. (A) of this section\] occurs under the provisions of the Federal Salary Act of 1967 (2 U.S.C. 351–361), as amended by subsection (a) of this section, such rates of pay shall be the rates of pay in effect immediately prior to the date of enactment of this Act \[Aug. 9, 1975\], as adjusted under sections 203 and 204 of this title \[amending sections 31, 60a note, 136a and 136a–1 of this title, section 104 of Title 3, The President, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property, and Works, and section 303 of Title 44, Public Printing and Documents\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 60a–2a, 357, 358, 362, 363, 364 of this title.
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(vi) device similar to any of the devices described in the preceding clauses;
 
-&emsp;(B) any type of weapon (other than a shotgun or a shotgun shell which the Attorney General finds is generally recognized as particularly suitable for sporting purposes) bywhatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
+&emsp;(B) any type of weapon (other than a shotgun or a shotgun shell which the Attorney General finds is generally recognized as particularly suitable for sporting purposes) by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
 
 &emsp;(C) any combination of parts either designed or intended for use in converting any device into any destructive device described in subparagraph (A) or (B) and from which a destructive device may be readily assembled.
 
@@ -34,7 +34,7 @@
 
 (6) The term “short-barreled shotgun” means a shotgun having one or more barrels less than eighteen inches in length and any weapon made from a shotgun (whether by alteration, modification or otherwise) if such a weapon as modified has an overall length of less than twenty-six inches.
 
-(7) The term “rifle” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of an explosive to fire only a single projectile through a rifled bore for each single pull of the trigger.
+(7) The term “rifle” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy ofan explosive to fire only a single projectile through a rifled bore for each single pull of the trigger.
 
 (8) The term “short-barreled rifle” means a rifle having one or more barrels less than sixteen inches in length and any weapon made from a rifle (whether by alteration, modification, or otherwise) if such weapon, as modified, has an overall length of less than twenty-six inches.
 
@@ -72,7 +72,7 @@
 
 &emsp;(ii) a full jacketed projectile larger than .22 caliber designed and intended for use in a handgun and whose jacket has a weight of more than 25 percent of the total weight of the projectile.
 
-(C) The term “armor piercing ammunition” does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Attorney General finds is primarily intended to be used for sporting purposes, or any otherprojectile or projectile core which the Attorney General finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.
+(C) The term “armor piercing ammunition” does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Attorney General finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Attorney General finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.
 
 (18) The term “Attorney General” means the Attorney General of the United States <sup>1</sup>
 
@@ -136,67 +136,7 @@
 
 &emsp;(B) any combination of parts from which a firearm described in subparagraph (A) can be assembled.
 
-(30) The term “semiautomatic assault weapon” means—
-
-&emsp;(A) any of the firearms, or copies or duplicates of the firearms in any caliber, known as—
-
-&emsp;&emsp;(i) Norinco, Mitchell, and Poly Technologies Avtomat Kalashnikovs (all models);
-
-&emsp;&emsp;(ii) Action Arms Israeli Military Industries UZI and Galil;
-
-&emsp;&emsp;(iii) Beretta Ar70 (SC–70);
-
-&emsp;&emsp;(iv) Colt AR–15;
-
-&emsp;&emsp;(v) Fabrique National FN/FAL, FN/LAR, and FNC;
-
-&emsp;&emsp;(vi) SWD M–10, M–11, M–11/9, and M–12;
-
-&emsp;&emsp;(vii) Steyr AUG;
-
-&emsp;&emsp;(viii) INTRATEC TEC–9, TEC–DC9 and TEC–22; and
-
-&emsp;&emsp;(ix) revolving cylinder shotguns, such as (or similar to) the Street Sweeper and Striker 12;
-
-&emsp;(B) a semiautomatic rifle that has an ability to accept a detachable magazine and has at least 2 of—
-
-&emsp;&emsp;(i) a folding or telescoping stock;
-
-&emsp;&emsp;(ii) a pistol grip that protrudes conspicuously beneath the action of the weapon;
-
-&emsp;&emsp;(iii) a bayonet mount;
-
-&emsp;&emsp;(iv) a flash suppressor or threaded barrel designed to accommodate a flash suppressor; and
-
-&emsp;&emsp;(v) a grenade launcher;
-
-&emsp;(C) a semiautomatic pistol that has an ability to accept a detachable magazine and has at least 2 of—
-
-&emsp;&emsp;(i) an ammunition magazine that attaches to the pistol outside of the pistol grip;
-
-&emsp;&emsp;(ii) a threaded barrel capable of accepting a barrel extender, flash suppressor, forward handgrip, or silencer;
-
-&emsp;&emsp;(iii) a shroud that is attached to, or partially or completely encircles, the barrel and that permits the shooter to hold the firearm with the nontrigger hand without being burned;
-
-&emsp;&emsp;(iv) a manufactured weight of 50 ounces or more when the pistol is unloaded; and
-
-&emsp;&emsp;(v) a semiautomatic version of an automatic firearm; and
-
-&emsp;(D) a semiautomatic shotgun that has at least 2 of—
-
-&emsp;&emsp;(i) a folding or telescoping stock;
-
-&emsp;&emsp;(ii) a pistol grip that protrudes conspicuously beneath the action of the weapon;
-
-&emsp;&emsp;(iii) a fixed magazine capacity in excess of 5 rounds; and
-
-&emsp;&emsp;(iv) an ability to accept a detachable magazine.
-
-(31) The term “large capacity ammunition feeding device”—
-
-&emsp;(A) means a magazine, belt, drum, feed strip, or similar device manufactured after the date of enactment of the Violent Crime Control and Law Enforcement Act of 1994 that has a capacity of, or that can be readily restored or converted to accept, more than 10 rounds of ammunition; but
-
-&emsp;(B) does not include an attached tubular device designed to accept, and capable of operating only with, .22 caliber rimfire ammunition.
+\[(30), (31) Repealed. Pub. L. 103–322, title XI, §110105(2), Sept. 13, 1994, 108 Stat. 2000.\]
 
 (32) The term “intimate partner” means, with respect to a person, the spouse of the person, a former spouse of the person, an individual who is a parent of a child of the person, and an individual who cohabitates or has cohabited with the person.
 
@@ -224,23 +164,17 @@
 
 &emsp;(B) a device incorporated into the design of the firearm that is designed to prevent the operation of the firearm by anyone not having access to the device; or
 
-&emsp;(C) a safe, gun safe, gun case, lock box, or other device that is designed to be or can beused to store a firearm and that is designed to be unlocked only by means of a key, a combination, or other similar means.
+&emsp;(C) a safe, gun safe, gun case, lock box, or other device that is designed to be or can be used to store a firearm and that is designed to be unlocked only by means of a key, a combination, or other similar means.
 
 (35) The term “body armor” means any product sold or offered for sale, in interstate or foreign commerce, as personal protective body covering intended to protect against gunfire, regardless of whether the product is to be worn alone or is sold as a complement to another product or garment.
 
 (b) For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490; Pub. L. 107–273, div. C, title I, §11009(e)(1), Nov. 2, 2002, 116 Stat. 1821; Pub. L. 107–296, title XI, §1112(f)(1)–(3), (6), Nov. 25, 2002, 116 Stat. 2276.)
-
-#### Amendment of Section
-
-<i>For repeal of amendment by section 110105(2) of Pub. L. 103–322, see Effective and Termination Dates of 1994 Amendment note below.</i>
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110105(2), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2000, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490; Pub. L. 107–273, div. C, title I, §11009(e)(1), Nov. 2, 2002, 116 Stat. 1821; Pub. L. 107–296, title XI, §1112(f)(1)–(3), (6), Nov. 25, 2002, 116 Stat. 2276.)
 
 #### References in Text
 
 For definition of Canal Zone, referred to in subsec. (a)(2), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
-
-The date of enactment of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (a)(31)(A), is the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
 
 #### Amendments
 
@@ -282,9 +216,9 @@ Subsec. (a)(17)(C). Pub. L. 103–322, §110519, added subpar. (C).
 
 Subsec. (a)(22)(C)(iii). Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping”.
 
-Subsec. (a)(30). Pub. L. 103–322, §§110102(b), 110105(2), temporarily added par. (30). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (a)(30). Pub. L. 103–322, §110102(b), which added par. (30) defining “semiautomatic assault weapon”, was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (a)(31). Pub. L. 103–322, §§110103(b), 110105(2), temporarily added par. (31). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (a)(31). Pub. L. 103–322, §110103(b), which added par. (31) defining “large capacity ammunition feeding device”, was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
 Subsec. (a)(32). Pub. L. 103–322, §110401(a), added par. (32).
 
@@ -334,11 +268,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Effective and Termination Dates of 1994 Amendment
 
-Section 110105 of title XI of Pub. L. 103–322 provided that: “This subtitle \[subtitle A (§§110101–110106) of title XI of Pub. L. 103–322, amending this section and sections 922 to 924 of this title and enacting provisions set out as notes under this section\] and the amendments made by this subtitle—
-
-&emsp;“(1) shall take effect on the date of the enactment of this Act \[Sept. 13, 1994\]; and
-
-&emsp;“(2) are repealed effective as of the date that is 10 years after that date.”
+Pub. L. 103–322, title XI, §110105, Sept. 13, 1994, 108 Stat. 2000, provided that subtitle A (§§110101–110106) of title XI of Pub. L. 103–322 (amending this section and sections 922 to 924 of this title and enacting provisions set out as notes under this section) and the amendments made by that subtitle were effective Sept. 13, 1994, and were repealed effective as of the date that is 10 years after that date.
 
 #### Effective Date of 1990 Amendment
 
@@ -370,17 +300,19 @@ Section 105 of Pub. L. 90–618 provided that:
 
 “(a) Except as provided in subsection (b), the provisions of chapter 44 of title 18, United States Code, as amended by section 102 of this title \[amending this chapter\], shall take effect on December 16, 1968.
 
-“(b) The following sections of chapter 44 of title 18, United States Code, as amended by section 102 of this title shall take effect on the date of the enactment of this title \[Oct. 22, 1968\]: Sections 921, 922(<i>l</i>), 925(a)(1), and 925(d).”
+“(b) The following sections of chapter 44 of title 18, United States Code, as amended by section 102 of thistitle shall take effect on the date of the enactment of this title \[Oct. 22, 1968\]: Sections 921, 922(<i>l</i>), 925(a)(1), and 925(d).”
 
 #### Effective Date
 
 Section 907 of title IV of Pub. L. 90–351 provided that: “The amendments made by this title \[enacting this chapter and provisions set out as notes under this section and repealing sections 901 to 910 of Title 15, Commerce and Trade\] shall become effective one hundred and eighty days after the date of its enactment \[June 19, 1968\]; except that repeal of the Federal Firearms Act \[sections 901 to 910 of Title 15\] shall not in itself terminate any valid license issued pursuant to that Act and any such license shall be deemed valid until it shall expire according to its terms unless it be sooner revoked or terminated pursuant to applicable provisions of law.”
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–277, §1, July 22, 2004, 118 Stat. 865, provided that: “This Act \[enacting sections 926B and 926C of this title\] may be cited as the ‘Law Enforcement Officers Safety Act of 2004’.”
+
 #### Short Title of 1994 Amendment
 
-Section 110101 of title XI of Pub. L. 103–322 provided that: “This subtitle \[subtitle A (§§110101–110106) of title XI of Pub. L. 103–322, amending this section and sections 922 to 924 of this title and enacting provisions setout as notes under this section\] may be cited as the ‘Public Safety and Recreational Firearms Use Protection Act’.”
-
-\[Section 110101 of Pub. L. 103–322, set out above, repealed effective 10 years after Sept. 13, 1994, see Effective and Termination Dates of 1994 Amendment note above.\]
+Pub. L. 103–322, title XI, §110101, Sept. 13, 1994, 108 Stat. 1996, provided that subtitle A (§§110101–110106) of title XI of Pub. L. 103–322 (amending this section and sections 922 to 924 of this title and enacting provisions set out as notes under this section) could be cited as the “Public Safety and Recreational Firearms Use Protection Act”, prior to repeal by Pub. L. 103–322, title XI, §110105(2), Sept. 13, 1994, 108 Stat. 2000, effective 10 years after Sept. 13, 1994.
 
 #### Short Title of 1993 Amendment
 
@@ -416,17 +348,7 @@ For provisions relating to statutory construction of, and admissibility of evide
 
 #### Study By Attorney General
 
-Section 110104 of Pub. L. 103–322 provided that:
-
-“(a)
-
-Study.—The Attorney General shall investigate and study the effect of this subtitle \[see Short Title of 1994 Amendment note above\] and the amendments made by this subtitle, and in particular shall determine their impact, if any, on violent and drug trafficking crime. The study shall be conducted over a period of 18 months, commencing 12 months after the date of enactment of this Act \[Sept. 13, 1994\].
-
-“(b)
-
-Report.—Not later than 30 months after the date of enactment of this Act \[Sept. 13, 1994\], the Attorney General shall prepare and submit to the Congress a report setting forth in detail the findings and determinations made in the study under subsection (a).”
-
-\[Section 110104 of Pub. L. 103–322, set out above, repealed effective 10 years after Sept. 13, 1994, see Effective and Termination Dates of 1994 Amendment note above.\]
+Pub. L. 103–322, title XI, §110104, Sept. 13, 1994, 108 Stat. 2000, which provided that the Attorney General was to study the effect of subtitle A (§§110101–110106) of title XI of Pub. L. 103–322 and to report the results of the study to Congress not later than 30 months after Sept. 13, 1994, was repealed by Pub. L. 103–322, title XI, §110105(2), Sept. 13, 1994, 108 Stat. 2000, effective 10 years after Sept. 13, 1994.
 
 #### Congressional Findings and Declaration
 
@@ -446,7 +368,7 @@ Section 1(b) of Pub. L. 99–308 provided that: “The Congress finds that—
 
 &emsp;“(2) additional legislation is required to reaffirm the intent of the Congress, as expressed in section 101 of the Gun Control Act of 1968 \[section 101 of Pub. L. 90–618, set out below\], that ‘it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes.’.”
 
-Section 101 of title I of Pub. L. 90–618 provided that: “The Congress hereby declares that the purposes of this title \[amending this chapter\] is to provide support to Federal, State, and local law enforcement officials in their fight against crime and violence, and it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
+Section 101 of title I of Pub. L. 90–618 provided that: “The Congress hereby declares that the purposes of this title \[amending this chapter\] is to provide support to Federal, State, and local law enforcement officials in their fight against crime and violence, and it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intendedto discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
 
 Section 901 of title IV of Pub. L. 90–351 provided that:
 
@@ -499,10 +421,6 @@ Section 904 of title IV of Pub. L. 90–351, as amended by Pub. L. 99–514, §2
 #### Definition of “Handgun”
 
 Section 10 of Pub. L. 99–408 provided that: “For purposes of section 921(a)(17)(B) of title 18, United States Code, as added by the first section of this Act, ‘handgun’ means any firearm including a pistol or revolver designed to be fired by the use of a single hand. The term also includes any combination of parts from which a handgun can be assembled.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 842, 845, 923, 925, 1791, 1993, 2332a, 3565, 3583, 3592 of this title; title 8 sections 1101, 1227; title 10 sections 2722, 4687; title 20 sections 3351, 7151; title 21 section 881; title 22 section 2778; title 26 section 5845; title 40 section 5104; title 42 section 13726b.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

@@ -86,9 +86,5 @@ Amendment by section 941(h)(1), (2), (4)(B), (i)(1), (5) of Pub. L. 94–63 effe
 
 Amendment by Pub. L. 89–751 effective in the case of payments to student loan funds made after Nov. 3, 1966, except in the case of payments pursuant to commitments (made prior to Nov. 3, 1966) to make loans under section 297f of this title as in effect prior to Nov. 3, 1966, see section 6(e)(1) of Pub. L. 89–751, set out as a note under section 297d of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 297d of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

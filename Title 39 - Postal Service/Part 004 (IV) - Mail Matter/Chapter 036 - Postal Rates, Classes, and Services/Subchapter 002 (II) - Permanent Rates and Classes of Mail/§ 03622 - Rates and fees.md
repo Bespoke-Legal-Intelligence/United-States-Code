@@ -46,7 +46,3 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (d), is P
 
 Pub. L. 106–384, §2(a), Oct. 27, 2000, 114 Stat. 1461, provided that: “In any proceeding in which rates are to be established under chapter 36 of title 39, United States Code, for mail matter under former sections 4452 (b) and (c) of that title, pending as of the date of enactment of section 1 of this Act \[Oct. 27, 2000\], the estimated reduction in postal revenue from such mail matter caused by the enactment of section 3626(a)(6)(A) of that title, if any, shall be treated as a reasonably assignable cost of the Postal Service under section 3622(b)(3) of that title.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3624, 3626, 3641 of this title.
-

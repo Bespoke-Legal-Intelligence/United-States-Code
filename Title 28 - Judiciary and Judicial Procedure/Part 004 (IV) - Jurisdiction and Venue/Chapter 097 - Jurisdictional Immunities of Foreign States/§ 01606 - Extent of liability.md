@@ -14,7 +14,3 @@ As to any claim for relief with respect to which a foreign state is not entitled
 
 Amendment by Pub. L. 105–277 applicable to any claim for which a foreign state is not immune under section 1605(a)(7) of this title arising before, on, or after Oct. 21, 1998, see section 101(h) \[title I, §117(c)\] of Pub. L. 105–277, set out as a note under section 1610 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1330, 1604 of this title.
-

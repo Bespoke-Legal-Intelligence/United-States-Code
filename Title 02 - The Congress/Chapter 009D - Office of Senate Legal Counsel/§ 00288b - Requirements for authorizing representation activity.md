@@ -26,7 +26,3 @@ The Office shall make no recommendation with respect to the consideration of a r
 
 (Pub. L. 95–521, title VII, §703, Oct. 26, 1978, 92 Stat. 1877.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 288c, 288d, 288e, 288f, 288j of this title.
-

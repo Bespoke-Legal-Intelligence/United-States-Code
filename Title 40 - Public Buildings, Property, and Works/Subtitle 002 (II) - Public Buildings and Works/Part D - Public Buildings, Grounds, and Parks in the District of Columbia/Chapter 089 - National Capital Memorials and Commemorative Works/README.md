@@ -19,10 +19,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 20 section 80r–6.
-
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 108–126 without corresponding amendment of analysis.</i>
 
 

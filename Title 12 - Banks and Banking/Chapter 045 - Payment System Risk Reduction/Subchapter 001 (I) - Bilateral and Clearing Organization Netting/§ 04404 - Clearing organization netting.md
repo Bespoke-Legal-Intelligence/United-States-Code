@@ -30,7 +30,3 @@ This section shall be given effect notwithstanding that a member is a failed mem
 
 (Pub. L. 102–242, title IV, §404, Dec. 19, 1991, 105 Stat. 2374.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4405 of this title.
-

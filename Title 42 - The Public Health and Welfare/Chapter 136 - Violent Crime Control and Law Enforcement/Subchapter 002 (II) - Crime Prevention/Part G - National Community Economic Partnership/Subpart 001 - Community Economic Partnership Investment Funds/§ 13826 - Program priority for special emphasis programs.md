@@ -10,7 +10,3 @@ Not less than 5 percent of the amounts made available under section 13822(a)(2)(
 
 (Pub. L. 103–322, title III, §31116, Sept. 13, 1994, 108 Stat. 1885.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13822, 14214 of this title.
-

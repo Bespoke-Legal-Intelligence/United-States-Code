@@ -8,7 +8,3 @@ Powers granted herein shall be in addition to, and not in derogation of, any pow
 
 Section was not enacted as part of the Organic Act of Guam which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1425d of this title.
-

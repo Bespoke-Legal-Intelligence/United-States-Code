@@ -18,7 +18,7 @@
 
 &emsp;(G) an assessment of the feasibility and desirability of a schedule of taxes which would take into account one or more of the following: the likelihood of a release of a hazardous substance, the degree of hazard and risk of harm to public health, welfare, and the environment resulting from any such release, incentives to proper handling, recycling, incineration, and neutralization of hazardous wastes, and disincentives to improper or illegal handling or disposal of hazardous materials, administrative and reporting burdens on Government and industry, and the extent to which the tax burden falls on the substances and parties which create the problems addressed by this chapter. In preparing the report, the President shall consult with appropriate Federal, State, and local agencies, affected industries and claimants, and such other interested parties as he may find useful. Based upon the analyses and consultation required by this subsection, the President shall also include in the report any recommendations for legislative changes he may deem necessary for the better effectuation of the purposes of this chapter, including but not limited to recommendations concerning authorization levels, taxes, State participation, liability and liability limits, and financial responsibility provisions for the Response Trust Fund and the Post-closure Liability Trust Fund;
 
-&emsp;(H) an exemption from or an increase in the substances or the amount of taxes imposed by section 4661 of title 26 for copper, lead, and zinc oxide, and for feedstocks when used in the manufacture and production of fertilizers, based upon the expenditure experience of the Response Trust Fund;
+&emsp;(H) an exemption from or an increase in the substances or the amount of taxes imposed by section 4661 of title 26 for copper, lead, and zinc oxide, and for feedstocks when used in themanufacture and production of fertilizers, based upon the expenditure experience of the Response Trust Fund;
 
 &emsp;(I) the economic impact of taxing coal-derived substances and recycled metals.
 
@@ -56,7 +56,7 @@ The Administrator of the Environmental Protection Agency shall, in consultation 
 
 (1) In order to determine the adequacy of existing common law and statutory remedies in providing legal redress for harm to man and the environment caused by the release of hazardous substances into the environment, there shall be submitted to the Congress a study within twelve months of December 11, 1980.
 
-(2) This study shall be conducted with the assistance of the American Bar Association, the American Law Institute, the Association of American Trial Lawyers, and the National Association of State Attorneys General with the President of each entity selecting three members from each organization to conduct the study. The study chairman and one reporter shall be elected from among the twelve members of the study group.
+(2) This study shall be conducted with the assistance of the American Bar Association, theAmerican Law Institute, the Association of American Trial Lawyers, and the National Association of State Attorneys General with the President of each entity selecting three members from each organization to conduct the study. The study chairman and one reporter shall be elected from among the twelve members of the study group.
 
 (3) As part of their review of the adequacy of existing common law and statutory remedies, the study group shall evaluate the following:
 
@@ -146,7 +146,7 @@ The President, acting through the Administrator of the Environmental Protection 
 
 This chapter, referred to in subsecs. (a)(1)(A), (E), (G), (c)(1), and (g), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which enacted this chapter, section 6911a of this title, and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code, amended section 6911 of this title, section 1364 of Title 33, Navigation and Navigable Waters, and section 11901 of Title 49, Transportation, and enacted provisions set out as notes under section 6911 of this title and sections 1 and 4611 of Title 26. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
-Subchapter II of this chapter, referred to in subsec. (a)(1)(F), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 ofthis title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
+Subchapter II of this chapter, referred to in subsec. (a)(1)(F), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
 
 For effective date of this chapter, referred to in subsec. (a)(2), see section 9652 of this title.
 
@@ -167,10 +167,6 @@ Subsec. (c)(1). Pub. L. 99–499, §107(d)(3), inserted at end “Notwithstandin
 Subsec. (g). Pub. L. 99–499, §208, added subsec. (g).
 
 Subsec. (h). Pub. L. 99–499, §212, added subsec. (h).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9604, 9607, 9612, 9613 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

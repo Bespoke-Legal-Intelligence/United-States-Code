@@ -1,6 +1,6 @@
 ### §1534. Adjustments between appropriations
 
-(a) An appropriation available to an agency may be charged at any time during a fiscal year for the benefit of another appropriation available to the agency to pay costs—
+(a) An appropriation available to an agency may be charged at any time during a fiscal yearfor the benefit of another appropriation available to the agency to pay costs—
 
 &emsp;(1) when amounts are available in both the appropriation to be charged and the appropriation to be benefited; and
 

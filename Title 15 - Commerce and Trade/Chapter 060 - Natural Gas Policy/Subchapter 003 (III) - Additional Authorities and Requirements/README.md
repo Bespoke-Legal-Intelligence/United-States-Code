@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—ADDITIONAL AUTHORITIES AND REQUIREMENTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 42 section 7511a.
-
 
 ---
 

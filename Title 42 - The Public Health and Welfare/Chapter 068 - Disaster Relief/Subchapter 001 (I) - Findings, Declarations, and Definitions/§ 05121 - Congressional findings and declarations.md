@@ -6,7 +6,7 @@
 
 &emsp;(2) because disasters often disrupt the normal functioning of governments and communities, and adversely affect individuals and families with great severity;
 
-> special measures, designed to assist the efforts of the affected States in expediting the rendering of aid, assistance, and emergency services, and the reconstruction and rehabilitation of devastated areas, are necessary.
+> special measures, designed to assist the efforts of the affected States in expediting the rendering of aid, assistance, and emergency services,and the reconstruction and rehabilitation of devastated areas, are necessary.
 
 (b) It is the intent of the Congress, by this chapter, to provide an orderly and continuing means of assistance by the Federal Government to State and local governments in carrying out their responsibilities to alleviate the suffering and damage which result from such disasters by—
 
@@ -74,7 +74,7 @@ Section 702(m), formerly section 602(m), of Pub. L. 93–288, as renumbered by P
 
 #### Report on State Management of Small Disasters Initiative
 
-Pub. L. 106–390, title II, §208, Oct. 30, 2000, 114 Stat. 1571, provided that: “Not later than 3 years after thedate of the enactment of this Act \[Oct. 30, 2000\], the President shall submit to Congress a report describing the results of the State Management of Small Disasters Initiative, including—
+Pub. L. 106–390, title II, §208, Oct. 30, 2000, 114 Stat. 1571, provided that: “Not later than 3 years after the date of the enactment of this Act \[Oct. 30, 2000\], the President shall submit to Congress a report describing the results of the State Management of Small Disasters Initiative, including—
 
 &emsp;“(1) identification of any administrative or financial benefits of the initiative; and
 
@@ -186,7 +186,7 @@ Composition.—The Commission shall be composed of 16 members. The members of th
 
 &emsp;&emsp;“(I) a person nominated by the United States Conference of Mayors and appointed by the President; and
 
-&emsp;&emsp;“(J) six persons, appointed by the Secretary of Agriculture in coordination with the Secretary of the Interior and the Secretary of the Army, who shall be representative of groups acutely affected by drought emergencies, such as the agricultural production community, the credit community, rural and urban water associations, Native Americans, and fishing and environmental interests.
+&emsp;&emsp;“(J) six persons, appointed by the Secretary of Agriculture in coordination with the Secretary of the Interior and the Secretary of the Army, who shall be representative of groups acutely affectedby drought emergencies, such as the agricultural production community, the credit community, rural and urban water associations, Native Americans, and fishing and environmental interests.
 
 &emsp;“(2)
 
@@ -314,7 +314,7 @@ Ex. Ord. No. 11749, Dec. 10, 1973, 38 F.R. 34177, which related to consolidation
 
 Ex. Ord. No. 11795, July 11, 1974, 39 F.R. 25939, as amended by Ex. Ord. No. 11910, Apr. 13, 1976, 41 F.R. 15681; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571, provided:
 
-By virtue of the authority vested in me by the Disaster Relief Act of 1974 (Public Law 93–288; 88 Stat. 143)\[see References to Disaster Relief Act of 1974 note above\], section 301 of title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Disaster Relief Act of 1974 (Public Law 93–288; 88 Stat. 143) \[see References to Disaster Relief Act of 1974 note above\], section 301 of title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
 \[
 

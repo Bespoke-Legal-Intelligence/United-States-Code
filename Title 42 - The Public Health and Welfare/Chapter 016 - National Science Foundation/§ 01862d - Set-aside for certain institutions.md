@@ -10,9 +10,5 @@ Section 101 of this Act, referred to in text, is section 101 of Pub. L. 100–57
 
 #### Codification
 
-Section was enacted as part of the Academic Research Facilities Modernization Act of 1988, and also as part of the National Science Foundation Authorization Act of 1988, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1862a, 1862b, 1862c of this title.
+Section was enacted as part of the Academic Research Facilities Modernization Act of 1988, and also aspart of the National Science Foundation Authorization Act of 1988, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 

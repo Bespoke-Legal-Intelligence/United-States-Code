@@ -6,7 +6,7 @@ For the purpose of this section, the term—
 
 &emsp;(1) “oil” means oil of any kind or in any form, including, but not limited to, petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil;
 
-&emsp;(2) “discharge” includes, but is not limited to, any spilling, leaking, pumping, pouring, emitting, emptying or dumping, but excludes (A) discharges in compliance with a permit under section 1342 of this title, (B) discharges resulting from circumstances identified and reviewed and made a part of the public record with respect to a permit issued or modified under section 1342 of this title, and subject to a condition in such permit,,<sup>1</sup> (C) continuous or anticipated intermittent discharges from a point source, identified in a permit or permit application under section 1342 of this title, which are caused by events occurring within the scope of relevant operating or treatment systems, and (D) discharges incidental to mechanical removal authorized by the President under subsection (c) of this section;
+&emsp;(2) “discharge” includes, but is not limited to, any spilling, leaking, pumping, pouring, emitting, emptying or dumping, but excludes (A) discharges in compliance with a permit under section 1342 of this title, (B) discharges resulting from circumstances identified and reviewed and made a part of the public recordwith respect to a permit issued or modified under section 1342 of this title, and subject to a condition in such permit,,<sup>1</sup> (C) continuous or anticipated intermittent discharges from a point source, identified in a permit or permit application under section 1342 of this title, which are caused by events occurring within the scope of relevant operating or treatment systems, and (D) discharges incidental to mechanical removal authorized by the President under subsection (c) of this section;
 
 &emsp;(3) “vessel” means every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on water other than a public vessel;
 
@@ -54,13 +54,19 @@ For the purpose of this section, the term—
 
 &emsp;&emsp;(A) in the case of a vessel, a discharge in adverse weather conditions of its entire cargo; and
 
-&emsp;&emsp;(B) in the case of an offshore facility or onshore facility, the largest foreseeable discharge in adverse weather conditions; and
+&emsp;&emsp;(B) in the case of an offshore facility or onshore facility, the largest foreseeable discharge in adverse weather conditions;
 
 &emsp;(25) “removal costs” means—
 
 &emsp;&emsp;(A) the costs of removal of oil or a hazardous substance that are incurred after it is discharged; and
 
-&emsp;&emsp;(B) in any case in which there is a substantial threat of a discharge of oil or a hazardous substance, the costs to prevent, minimize, or mitigate that threat.
+&emsp;&emsp;(B) in any case in which there is a substantial threat of a discharge of oil or a hazardous substance, the costs to prevent, minimize, or mitigate that threat; and
+
+&emsp;(26) “nontank vessel” means a self-propelled vessel of 400 gross tons as measured under section 14302 of title 46 or greater, other than a tank vessel, that carries oil of any kind as fuel for main propulsion and that—
+
+&emsp;&emsp;(A) is a vessel of the United States; or
+
+&emsp;&emsp;(B) operates on the navigable waters of the United States.
 
 #### (b) Congressional declaration of policy against discharges of oil or hazardous substances; designation of hazardous substances; study of higher standard of care incentives and report to Congress; liability; penalties; civil actions: penalty limitations, separate offenses, jurisdiction, mitigation of damages and costs, recovery of removal costs, alternative remedies, and withholding clearance of vessels
 
@@ -74,7 +80,7 @@ For the purpose of this section, the term—
 
 (4) The President shall by regulation determine for the purposes of this section those quantities of oil and any hazardous substances the discharge of which may be harmful to the public health or welfare or the environment of the United States, including but not limited to fish, shellfish, wildlife, and public and private property, shorelines, and beaches.
 
-(5) Any person in charge of a vessel or of an onshore facility or an offshore facility shall, as soon as he has knowledge of any discharge of oil or a hazardous substance from such vessel or facility in violation of paragraph (3) of this subsection, immediately notify the appropriate agency of the United States Government of such discharge. The Federal agency shall immediately notify the appropriate State agency of any State which is, or may reasonably be expected to be, affected by the discharge of oil or a hazardous substance. Any such person (A) in charge of a vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(i) of this subsection, or (B) in charge of a vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(ii) ofthis subsection and who is otherwise subject to the jurisdiction of the United States at the time of the discharge, or (C) in charge of an onshore facility or an offshore facility, who fails to notify immediately such agency of such discharge shall, upon conviction, be fined in accordance with title 18, or imprisoned for not more than 5 years, or both. Notification received pursuant to this paragraph shall not be used against any such natural person in any criminal case, except a prosecution for perjury or for giving a false statement.
+(5) Any person in charge of a vessel or of an onshore facility or an offshore facility shall, as soon as he has knowledge of any discharge of oil or a hazardous substance from such vessel or facility in violation of paragraph (3) of this subsection, immediately notify the appropriate agency of the United States Government of such discharge. The Federal agency shall immediately notify the appropriate State agency of any State which is, or may reasonably be expected to be, affected by the discharge of oil or a hazardous substance. Any such person (A) in charge of a vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(i) of this subsection, or (B) in charge of a vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(ii) of this subsection and who is otherwise subject to the jurisdiction of the United States at the time of the discharge, or (C) in charge of an onshore facility or an offshore facility, who fails to notify immediately such agency of such discharge shall, upon conviction, be fined in accordance with title 18, or imprisoned for not more than 5 years, or both. Notification received pursuant to this paragraph shall not be used against any such natural person in any criminal case, except a prosecution for perjury or for giving a false statement.
 
 (6)
 
@@ -144,7 +150,7 @@ Judicial review.—Any person against whom a civil penalty is assessed under thi
 
 &emsp;&emsp;(ii) in the case of assessment of a class II civil penalty, in United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business,
 
-> &emsp;by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or Secretary, as the case may be, and the Attorney General. The Administrator or Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion.
+> &emsp;by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or Secretary, as the case may be, and the Attorney General. The Administrator or Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's orSecretary's assessment of the penalty constitutes an abuse of discretion.
 
 &emsp;(H)
 
@@ -200,7 +206,7 @@ Determination of amount.—In determining the amount of a civil penalty under pa
 
 (9)
 
-Mitigation of damage.—In addition to establishing a penalty for the discharge of oil or a hazardous substance, the Administrator or the Secretary of the department in which the CoastGuard is operating may act to mitigate the damage to the public health or welfare caused by such discharge. The cost of such mitigation shall be deemed a cost incurred under subsection (c) of this section for the removal of such substance by the United States Government.
+Mitigation of damage.—In addition to establishing a penalty for the discharge of oil or a hazardous substance, the Administrator or the Secretary of the department in which the Coast Guard is operating may act to mitigate the damage to the public health or welfare caused by such discharge. The cost of such mitigation shall be deemed a cost incurred under subsection (c) of this section for the removal of such substance by the United States Government.
 
 (10)
 
@@ -212,7 +218,7 @@ Limitation.—Civil penalties shall not be assessed under both this section and 
 
 (12)
 
-Withholding clearance.—If any owner, operator, or person in charge of a vessel is liable for a civil penalty under this subsection, or if reasonable cause exists to believe that the owner, operator, or person in charge may be subject to a civil penalty under this subsection, the Secretary of the Treasury, upon the request of the Secretary of the department in which the Coast Guard is operating or the Administrator, shall with respect to such vessel refuse or revoke—
+Withholding clearance.—If any owner, operator, or person in charge of a vessel is liable for a civil penalty under this subsection, or if reasonable cause exists to believe that the owner, operator, or person in charge may be subject to a civil penalty under this subsection, the Secretary of the Treasury, upon the request of the Secretary of the department in which the Coast Guard is operating or the Administrator,shall with respect to such vessel refuse or revoke—
 
 &emsp;(A) the clearance required by section 91 of title 46, Appendix;
 
@@ -296,7 +302,7 @@ Withholding clearance.—If any owner, operator, or person in charge of a vessel
 
 #### (2) Contents
 
-&emsp;The National Contingency Plan shall provide for efficient, coordinated, and effective action to minimize damage from oil and hazardous substance discharges, including containment, dispersal, and removal of oil and hazardous substances, and shall include, but not be limited to, the following:
+&emsp;The National Contingency Plan shall provide for efficient, coordinated, and effectiveaction to minimize damage from oil and hazardous substance discharges, including containment, dispersal, and removal of oil and hazardous substances, and shall include, but not be limited to, the following:
 
 &emsp;&emsp;(A) Assignment of duties and responsibilities among Federal departments and agencies in coordination with State and local agencies and port authorities including, but not limited to, water pollution control and conservation and trusteeship of natural resources (including conservation of fish and wildlife).
 
@@ -358,7 +364,7 @@ Withholding clearance.—If any owner, operator, or person in charge of a vessel
 
 #### (1) Orders protecting public health
 
-&emsp;In addition to any action taken by a State or local government, when the President determines that there may be an imminent and substantial threat to the public health or welfare of the United States, including fish, shellfish, and wildlife, public and private property, shorelines, beaches, habitat, and other living and nonliving natural resources under the jurisdiction or control of the United States, because of an actual or threatened discharge of oil or a hazardous substance from a vessel or facility in violation of subsection (b) of this section, the President may—
+&emsp;In addition to any action taken by a State or local government, when the President determines that there may be an imminent and substantial threat to the public health or welfare of the United States, including fish, shellfish, and wildlife, public and private property, shorelines, beaches, habitat, and other living and nonliving natural resources under the jurisdiction or control of the United States, because of an actual or threatened discharge ofoil or a hazardous substance from a vessel or facility in violation of subsection (b) of this section, the President may—
 
 &emsp;&emsp;(A) require the Attorney General to secure any relief from any person, including the owner or operator of the vessel or facility, as may be necessary to abate such endangerment; or
 
@@ -376,7 +382,7 @@ Withholding clearance.—If any owner, operator, or person in charge of a vessel
 
 (3) Except where an owner or operator of an offshore facility can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any such facility from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall, notwithstanding any other provision of law, be liable to the United States Government for the actual costs incurred under subsection (c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed $50,000,000, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. The United States may bring an action against the owner or operator of such a facility in any court of competent jurisdiction to recover such costs.
 
-(4) The costs of removal of oil or a hazardous substance for which the owner or operator of avessel or onshore or offshore facility is liable under subsection (f) of this section shall include any costs or expenses incurred by the Federal Government or any State government in the restoration or replacement of natural resources damaged or destroyed as a result of a discharge of oil or a hazardous substance in violation of subsection (b) of this section.
+(4) The costs of removal of oil or a hazardous substance for which the owner or operator of a vessel or onshore or offshore facility is liable under subsection (f) of this section shall include any costs or expenses incurred by the Federal Government or any State government in the restoration or replacement of natural resources damaged or destroyed as a result of a discharge of oil or a hazardous substance in violation of subsection (b) of this section.
 
 (5) The President, or the authorized representative of any State, shall act on behalf of the public as trustee of the natural resources to recover for the costs of replacing or restoring such resources. Sums recovered shall be used to restore, rehabilitate, or acquire the equivalent of such natural resources by the appropriate agencies of the Federal Government, or the State government.
 
@@ -474,19 +480,25 @@ In any case where an owner or operator of a vessel or an onshore facility or an 
 
 &emsp;&emsp;(ii) periodically review Area Contingency Plans so approved.
 
-#### (5) Tank vessel and facility response plans
+#### (5) Tank vessel, nontank vessel, and facility response plans
 
-&emsp;(A) The President shall issue regulations which require an owner or operator of a tank vessel or facility described in subparagraph (B) to prepare and submit to the President a plan for responding, to the maximum extent practicable, to a worst case discharge, and to a substantial threat of such a discharge, of oil or a hazardous substance.
+&emsp;(A)(i) The President shall issue regulations which require an owner or operator of a tank vessel or facility described in subparagraph (C) to prepare and submit to the President a plan for responding, to the maximum extent practicable, to a worst case discharge, and to a substantial threat of such a discharge, of oil or a hazardous substance.
 
-&emsp;(B) The tank vessels and facilities referred to in subparagraph (A) are the following:
+&emsp;(ii) The President shall also issue regulations which require an owner or operator of a non-tank <sup>3</sup> vessel to prepare and submit to the President a plan for responding, to the maximum extent practicable, to a worst case discharge, and to a substantial threat of such a discharge, of oil.
+
+&emsp;(B) The Secretary of the Department in which the Coast Guard is operating may issue regulations which require an owner or operator of a tank vessel, a non-tank <sup>3</sup> vessel, or a facility described in subparagraph (C) that transfers noxious liquid substances in bulk to or from a vessel to prepare and submit to the Secretary a plan for responding, to the maximum extent practicable, to a worst case discharge, and to a substantial threat of such a discharge, of a noxious liquid substance that is not designated as a hazardous substance or regulated as oil in any other law or regulation. For purposes of this paragraph, the term “noxious liquid substance” has the same meaning when that term is used in the MARPOL Protocol described in section 1901(a)(3) of this title.
+
+&emsp;(C) The tank vessels, nontank vessels, and facilities referred to in subparagraphs (A) and (B) are the following:
 
 &emsp;&emsp;(i) A tank vessel, as defined under section 2101 of title 46.
 
-&emsp;&emsp;(ii) An offshore facility.
+&emsp;&emsp;(ii) A nontank vessel.
 
-&emsp;&emsp;(iii) An onshore facility that, because of its location, could reasonably be expected to cause substantial harm to the environment by discharging into or on the navigable waters, adjoining shorelines, or the exclusive economic zone.
+&emsp;&emsp;(iii) An offshore facility.
 
-&emsp;(C) A response plan required under this paragraph shall—
+&emsp;&emsp;(iv) An onshore facility that, because of its location, could reasonably be expected to cause substantial harm to the environment by discharging into or on the navigable waters, adjoining shorelines, or the exclusive economic zone.
+
+&emsp;(D) A response plan required under this paragraph shall—
 
 &emsp;&emsp;(i) be consistent with the requirements of the National Contingency Plan and Area Contingency Plans;
 
@@ -500,43 +512,45 @@ In any case where an owner or operator of a vessel or an onshore facility or an 
 
 &emsp;&emsp;(vi) be resubmitted for approval of each significant change.
 
-&emsp;(D) With respect to any response plan submitted under this paragraph for an onshore facility that, because of its location, could reasonably be expected to cause significant and substantial harm to the environment by discharging into or on the navigable waters or adjoining shorelines or the exclusive economic zone, and with respect to each response plan submitted under this paragraph for a tank vessel or offshore facility, the President shall—
+&emsp;(E) With respect to any response plan submitted under this paragraph for an onshore facility that, because of its location, could reasonably be expected to cause significant and substantial harm to the environment by discharging into or on the navigable waters or adjoining shorelines or the exclusive economic zone, and with respect to each response plan submitted under this paragraph for a tank vessel, nontank vessel, or offshore facility, the President shall—
 
 &emsp;&emsp;(i) promptly review such response plan;
 
 &emsp;&emsp;(ii) require amendments to any plan that does not meet the requirements of this paragraph;
 
-&emsp;&emsp;(iii) approve any plan that meets the requirements of this paragraph; and
+&emsp;&emsp;(iii) approve any plan that meets the requirements of this paragraph;
 
-&emsp;&emsp;(iv) review each plan periodically thereafter.
+&emsp;&emsp;(iv) review each plan periodically thereafter; and
 
-&emsp;(E) A tank vessel, offshore facility, or onshore facility required to prepare a response plan under this subsection may not handle, store, or transport oil unless—
+&emsp;&emsp;(v) in the case of a plan for a nontank vessel, consider any applicable State-mandated response plan in effect on August 9, 2004, and ensure consistency to the extent practicable.
 
-&emsp;&emsp;(i) in the case of a tank vessel, offshore facility, or onshore facility for which a response plan is reviewed by the President under subparagraph (D), the plan has been approved by the President; and
+&emsp;(F) A tank vessel, non-tank <sup>3</sup> vessel, offshore facility, or onshore facility required to prepare a response plan under this subsection may not handle, store, or transport oil unless—
+
+&emsp;&emsp;(i) in the case of a tank vessel, non-tank <sup>3</sup> vessel, offshore facility, or onshore facility for which a response plan is reviewed by the President under subparagraph (E), the plan has been approved by the President; and
 
 &emsp;&emsp;(ii) the vessel or facility is operating in compliance with the plan.
 
-&emsp;(F) Notwithstanding subparagraph (E), the President may authorize a tank vessel, offshore facility, or onshore facility to operate without a response plan approved under this paragraph, until not later than 2 years after the date of the submission to the President of a plan for the tank vessel or facility, if the owner or operator certifies that the owner or operator has ensured by contract or other means approved by the President the availability of private personnel and equipment necessary to respond, to the maximum extent practicable, to a worst case discharge or a substantial threat of such a discharge.
+&emsp;(G) Notwithstanding subparagraph (E), the President may authorize a tank vessel, non-tank <sup>3</sup> vessel, offshore facility, or onshore facility to operate without a response plan approved under this paragraph, until not later than 2 years after the date of the submission to the President of a plan for the tank vessel, non-tank <sup>3</sup> vessel, or facility, if the owner or operator certifies that the owner or operator has ensured by contract or other means approved by the President the availability of private personnel and equipment necessary to respond, to the maximum extent practicable, to a worst case discharge or a substantial threat of such a discharge.
 
-&emsp;(G) The owner or operator of a tank vessel, offshore facility, or onshore facility may not claim as a defense to liability under title I of the Oil Pollution Act of 1990 \[33 U.S.C. 2701 et seq.\] that the owner or operator was acting in accordance with an approved response plan.
+&emsp;(H) The owner or operator of a tank vessel, nontank vessel, offshore facility, or onshore facility may not claim as a defense to liability under title I of the Oil Pollution Act of 1990 \[33 U.S.C. 2701 et seq.\] that the owner or operator was acting in accordance with an approved response plan.
 
-&emsp;(H) The Secretary shall maintain, in the Vessel Identification System established under chapter 125 of title 46, the dates of approval and review of a response plan under this paragraph for each tank vessel that is a vessel of the United States.
+&emsp;(I) The Secretary shall maintain, in the Vessel Identification System established under chapter 125 of title 46, the dates of approval and review of a response plan under this paragraph for each tank vessel and nontank vessel that is a vessel of the United States.
 
 #### (6) Equipment requirements and inspection
 
-&emsp;Not later than 2 years after August 18, 1990, the President shall require—
+&emsp;The President may require—
 
 &emsp;&emsp;(A) periodic inspection of containment booms, skimmers, vessels, and other major equipment used to remove discharges; and
 
-&emsp;&emsp;(B) vessels operating on navigable waters and carrying oil or a hazardous substance in bulk as cargo to carry appropriate removal equipment that employs the best technology economically feasible and that is compatible with the safe operation of the vessel.
+&emsp;&emsp;(B) vessels operating on navigable waters and carrying oil or a hazardous substance in bulk as cargo, and nontank vessels carrying oil of any kind as fuel for main propulsion, to carry appropriate removal equipment that employs the best technology economically feasible and that is compatible with the safe operation of the vessel.
 
 #### (7) Area drills
 
-&emsp;The President shall periodically conduct drills of removal capability, without prior notice, in areas for which Area Contingency Plans are required under this subsection and under relevant tank vessel and facility response plans. The drills may include participation by Federal, State, and local agencies, the owners and operators of vessels and facilities in the area, and private industry. The President may publish annual reports on these drills, including assessments of the effectiveness of the plans and a list of amendments made to improve plans.
+&emsp;The President shall periodically conduct drills of removal capability, without prior notice, in areas for which Area Contingency Plans are required under this subsection and under relevant tank vessel, nontank vessel, and facility response plans. The drills may include participation by Federal, State, and local agencies, the owners and operators of vessels and facilities in the area, and private industry. The President may publish annual reports on these drills, including assessments of the effectiveness of the plans and a list of amendments made to improve plans.
 
 #### (8) United States Government not liable
 
-&emsp;The United States Government is not liable for any damages arising from its actions oromissions relating to any response plan required by this section.
+&emsp;The United States Government is not liable for any damages arising from its actions or omissions relating to any response plan required by this section.
 
 #### (k) Repealed. Pub. L. 101–380, title II, §2002(b)(2), Aug. 18, 1990, 104 Stat. 507
 
@@ -598,7 +612,7 @@ The several district courts of the United States are invested with jurisdiction 
 
 #### (q) Establishment of maximum limit of liability with respect to onshore or offshore facilities
 
-The President is authorized to establish, with respect to any class or category of onshore oroffshore facilities, a maximum limit of liability under subsections (f)(2) and (3) of this section of less than $50,000,000, but not less than $8,000,000.
+The President is authorized to establish, with respect to any class or category of onshore or offshore facilities, a maximum limit of liability under subsections (f)(2) and (3) of this section of less than $50,000,000, but not less than $8,000,000.
 
 #### (r) Liability limitations not to limit liability under other legislation
 
@@ -608,7 +622,7 @@ Nothing in this section shall be construed to impose, or authorize the impositio
 
 The Oil Spill Liability Trust Fund established under section 9509 of title 26 shall be available to carry out subsections (b), (c), (d), (j), and (<i>l</i>) of this section as those subsections apply to discharges, and substantial threats of discharges, of oil. Any amounts received by the United States under this section shall be deposited in the Oil Spill Liability Trust Fund.
 
-(June 30, 1948, ch. 758, title III, §311, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 862; amended Pub. L. 93–207, §1(4), Dec. 28, 1973, 87 Stat. 906; Pub. L. 95–217, §§57, 58(a)–(g), (i), (k)–(m), Dec. 27, 1977, 91 Stat. 1593–1596; Pub. L. 95–576, §1(b), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–478, §13(b), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 96–483, §8, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 97–164, title I, §161(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 100–4, title V, §502(b), Feb. 4, 1987, 101 Stat. 75; Pub. L. 101–380, title II, §2002(b), title IV, §§4201(a), (b), (b)\[(c)\], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, Aug. 18, 1990, 104 Stat. 507, 523–527, 532, 533, 540, 541; Pub. L. 102–388, title III, §349, Oct. 6, 1992, 106 Stat. 1554; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title XI, §§1143, 1144, Oct. 19, 1996, 110 Stat. 3992; Pub. L. 105–383, title IV, §411, Nov. 13, 1998, 112 Stat. 3432.)
+(June 30, 1948, ch. 758, title III, §311, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 862; amended Pub. L. 93–207, §1(4), Dec. 28, 1973, 87 Stat. 906; Pub. L. 95–217, §§57, 58(a)–(g), (i), (k)–(m), Dec. 27, 1977, 91 Stat. 1593–1596; Pub. L. 95–576, §1(b), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–478, §13(b), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 96–483, §8, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 97–164, title I, §161(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 100–4, title V, §502(b), Feb. 4, 1987, 101 Stat. 75; Pub. L. 101–380, title II, §2002(b), title IV, §§4201(a), (b), (b)\[(c)\], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, Aug. 18, 1990, 104 Stat. 507, 523–527, 532, 533, 540, 541; Pub. L. 102–388, title III, §349, Oct. 6, 1992, 106 Stat. 1554; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title XI, §§1143, 1144, Oct. 19, 1996, 110 Stat. 3992; Pub. L. 105–383, title IV, §411, Nov. 13, 1998, 112 Stat. 3432; Pub. L. 108–293, title VII, §701(a), (b), (d), Aug. 9, 2004, 118 Stat. 1067, 1068.)
 
 #### References in Text
 
@@ -628,13 +642,49 @@ Section 1443 of title 19, referred to in subsec. (b)(12)(C), was repealed by Pub
 
 The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (c)(4)(B)(ii), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
-The Oil Pollution Act of 1990, referred to in subsecs. (c)(5)(B), (d)(2)(H), and (j)(5)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§2701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§2701 et seq.) of chapter 40 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
-
-#### Codification
-
-August 18, 1990, referred to in subsec. (j)(6), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 101–380, which enacted subsec. (j)(2) to (8), to reflect the probable intent of Congress.
+The Oil Pollution Act of 1990, referred to in subsecs. (c)(5)(B), (d)(2)(H), and (j)(5)(H), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§2701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§2701 et seq.) of chapter 40 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (a)(26). Pub. L. 108–293, §701(a), added par. (26).
+
+Subsec. (j)(5). Pub. L. 108–293, §701(b)(1), inserted “, nontank vessel,” after “vessel” in heading.
+
+Subsec. (j)(5)(A). Pub. L. 108–293, §701(b)(2), (d)(3), designated existing text as cl. (i), substituted “subparagraph (C)” for “subparagraph (B)”, and added cl. (ii).
+
+Subsec. (j)(5)(B). Pub. L. 108–293, §701(d)(2), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Pub. L. 108–293, §701(b)(3), (4), inserted “, nontank vessels,” after “vessels” in introductory provisions, added cl. (ii), and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+
+Subsec. (j)(5)(C). Pub. L. 108–293, §701(d)(1), (4), redesignated subpar. (B) as (C) and substituted “subparagraphs (A) and (B)” for “subparagraph (A)” in introductory provisions. Former subpar. (C) redesignated (D).
+
+Subsec. (j)(5)(D). Pub. L. 108–293, §701(d)(1), redesignated subpar. (C) as (D). Former subpar (D) redesignated (E).
+
+Pub. L. 108–293, §701(b)(5), inserted “, nontank vessel,” after “vessel” in introductory provisions and added cl. (v).
+
+Subsec. (j)(5)(E). Pub. L. 108–293, §701(d)(1), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
+
+Pub. L. 108–293, §701(b)(6), inserted “non-tank vessel,” after “vessel,” in two places.
+
+Subsec. (j)(5)(F). Pub. L. 108–293, §701(d)(1), (5), redesignated subpar. (E) as (F) and substituted “subparagraph (E),” for “subparagraph (D),” in cl. (i). Former subpar. (F) redesignated (G).
+
+Pub. L. 108–293, §701(b)(7), inserted “non-tank vessel,” after “vessel,” and substituted “vessel, non-tank vessel, or” for “vessel or”.
+
+Subsec. (j)(5)(G). Pub. L. 108–293, §701(d)(1), redesignated subpar. (F) as (G). Former subpar. (G) redesignated (H).
+
+Pub. L. 108–293, §701(b)(8), inserted “nontank vessel,” after “vessel,”.
+
+Subsec. (j)(5)(H). Pub. L. 108–293, §701(d)(1), redesignated subpar. (G) as (H). Former subpar. (H) redesignated (I).
+
+Pub. L. 108–293, §701(b)(9), inserted “and nontank vessel” after “each tank vessel”.
+
+&emsp;Subsec. (j)(5)(I). Pub. L. 108–293, §701(d)(1), redesignated subpar. (H) as (I).
+
+Subsec. (j)(6). Pub. L. 108–293, §701(b)(10), substituted “The President may require—” for “Not later than 2 years after August 18, 1990, the President shall require—” in introductory provisions.
+
+Subsec. (j)(6)(B). Pub. L. 108–293, §701(b)(11), inserted “, and nontank vessels carrying oil of any kind as fuel for main propulsion,” after “cargo”.
+
+Subsec. (j)(7). Pub. L. 108–293, §701(b)(12), inserted “, nontank vessel,” after “vessel”.
 
 1998—Subsec. (a)(2). Pub. L. 105–383, §411(b), substituted “, (C)” for “and (C)” and inserted “, and (D) discharges incidental to mechanical removal authorized by the President under subsection (c) of this section” before semicolon at end.
 
@@ -650,7 +700,7 @@ Subsec. (c)(3)(B). Pub. L. 104–324, §1144, inserted “, except that the own
 
 Subsec. (j)(2)(A). Pub. L. 104–324, §1143(1), inserted “and of information regarding previous spills, including data from universities, research institutions, State governments, and other nations, as appropriate, which shall be disseminated as appropriate to response groups and area committees, and” after “paragraph (4),”.
 
-Subsec. (j)(4)(C)(v). Pub. L. 104–324, §1143(2), inserted “compile a list of local scientists, both inside and outside Federal Government service, with expertise in the environmental effects of spills of the types of oil typically transported in the area, who may be contacted to provide information or, where appropriate, participatein meetings of the scientific support team convened in response to a spill, and” before “describe”.
+Subsec. (j)(4)(C)(v). Pub. L. 104–324, §1143(2), inserted “compile a list of local scientists, both inside and outside Federal Government service, with expertise in the environmental effects of spills of the types of oil typically transported in the area, who may be contacted to provide information or, where appropriate, participate in meetings of the scientific support team convened in response to a spill, and” before “describe”.
 
 1992—Subsec. (b)(12). Pub. L. 102–388 added par. (12).
 
@@ -734,7 +784,7 @@ Subsec. (b)(2)(B)(v). Pub. L. 95–217, §57, added cl. (v).
 
 Subsec. (b)(3). Pub. L. 95–217, §58(a)(3), (4), designated part of existing provisions preceding cl. (A) as cl. (i) and added cl. (ii), and, in cl. (A), inserted “or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976)” after “waters of the contiguous zone” and struck out “article IV of” before “the International Convention for the Prevention of Pollution of the Sea by Oil, 1954”.
 
-Subsec. (b)(4). Pub. L. 95–217, §58(a)(5), struck out provisions under which, in the case of the discharge of oil into or upon the waters of the contiguous zone, only those discharges which threatened the fishery resources of the contiguous zone or threatened to pollute or contribute to the pollution of the territory or the territorial sea of the United States could be determined to be harmful.
+Subsec. (b)(4). Pub. L. 95–217, §58(a)(5), struck out provisions under which, in the case of the discharge of oil into or upon the waters of the contiguous zone, only those discharges which threatened the fishery resources of the contiguous zone or threatened to polluteor contribute to the pollution of the territory or the territorial sea of the United States could be determined to be harmful.
 
 Subsec. (b)(5). Pub. L. 95–217, §58(a)(6), added cls. (A), (B), and (C) between “Any such person” and “who fails to notify”.
 
@@ -798,7 +848,7 @@ Section 58(h) of Pub. L. 95–217 provided that: “The amendments made by parag
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Enforcement functions of Administrator or other official of the Environmental Protection Agency under this section relating to spill prevention, containment and countermeasure plans with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
+Enforcement functions of Administrator or other official of the Environmental Protection Agency under this section relating to spill prevention, containment and countermeasure plans with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gaswere transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 #### Delegation of Functions
 
@@ -811,6 +861,10 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### Termination of United States District Court for the District of the Canal Zone
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+
+#### Implementation Date for Vessel Response Plans for Nontank Vessels
+
+Pub. L. 108–293, title VII, §701(c), Aug. 9, 2004, 118 Stat. 1068, provided that: “No later than one year after the date of enactment of this Act \[Aug. 9, 2004\], the owner or operator of a nontank vessel (as defined \[sic\] section 311(j)(9) \[311(a)(26)\] of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)(9) \[1321(a)(26)\], as amended by this section) shall prepare and submit a vessel response plan for such vessel.”
 
 #### Report on Oil Spill Responder Immunity
 
@@ -1006,7 +1060,7 @@ Sec. 7. <i>Management of the Oil Spill Liability Trust Fund and Claims</i>. (a)(
 
 (b) The functions vested in the President by Section 1012(c) of OPA, respecting designation of Federal officials who may obligate money, are delegated to each head of the departments and agencies to whom functions have been delegated under section 7(a) of this order for the purpose of carrying out such functions.
 
-(c)(1) The functions vested in the President by Section 1012(d) and (e) of OPA, respecting the obligation of the Trust Fund on the request of a Governor or pursuant to an agreement with a State, entrance into agreements with States, agreement upon terms and conditions, and the promulgation of regulations concerning such obligation and entrance into such agreement, are delegated to the Secretary of the Department in which the Coast Guard is operating, in consultation with the Administrator.
+(c)(1) The functions vested in the President by Section 1012(d) and (e) of OPA, respecting the obligation of the Trust Fund on the request of a Governor or pursuant to an agreement with a State, entrance into agreements with States, agreement upon terms and conditions, and the promulgation of regulations concerning such obligation and entrance into such agreement, are delegated to the Secretary of the Department in whichthe Coast Guard is operating, in consultation with the Administrator.
 
 (2) The functions vested in the President by Section 1013(e) of OPA \[33 U.S.C. 2713(e)\], respecting the promulgation and amendment of regulations for the presentation, filing, processing, settlement, and adjudication of claims under OPA against the Trust Fund, are delegated to the Secretary of the Department in which the Coast Guard is operating, in consultation with the Attorney General.
 
@@ -1044,11 +1098,9 @@ Sec. 10. <i>Litigation</i>. (a) Notwithstanding any other provision of this orde
 
 (d) The Attorney General, in his discretion, is authorized to require that, with respect to a particular oil spill, an agency refrain from taking administrative enforcement action without first consulting with the Attorney General.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1266, 1314, 1318, 1319, 1322, 1376, 1402, 2701, 2702, 2703, 2704, 2712, 2735, 2752 of this title; title 8 section 1288; title 14 section 690; title 26 sections 9507, 9509; title 42 sections 6991b, 7412, 9601, 9602, 9605, 9606, 9607, 9611, 9651, 9652, 9654, 10601; title 43 sections 1356a, 1653, 1656; title 46 sections 2101, 3715.
-
 <i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “nontank”.</i>
 

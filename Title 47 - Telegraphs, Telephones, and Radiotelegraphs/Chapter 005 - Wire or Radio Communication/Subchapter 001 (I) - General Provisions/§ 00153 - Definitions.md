@@ -18,7 +18,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;The term “Bell operating company”—
 
-&emsp;&emsp;(A) means any of the following companies: Bell Telephone Company of Nevada, Illinois Bell Telephone Company, Indiana Bell Telephone Company, Incorporated, Michigan Bell Telephone Company, New England Telephone and Telegraph Company, New Jersey Bell Telephone Company, New York Telephone Company, U S West Communications Company, South Central Bell Telephone Company, Southern Bell Telephone and Telegraph Company, Southwestern Bell Telephone Company, The Bell TelephoneCompany of Pennsylvania, The Chesapeake and Potomac Telephone Company, The Chesapeake and Potomac Telephone Company of Maryland, The Chesapeake and Potomac Telephone Company of Virginia, The Chesapeake and Potomac Telephone Company of West Virginia, The Diamond State Telephone Company, The Ohio Bell Telephone Company, The Pacific Telephone and Telegraph Company, or Wisconsin Telephone Company; and
+&emsp;&emsp;(A) means any of the following companies: Bell Telephone Company of Nevada, Illinois Bell Telephone Company, Indiana Bell Telephone Company, Incorporated, Michigan Bell Telephone Company, New England Telephone and Telegraph Company, New Jersey Bell Telephone Company, New York Telephone Company, U S West Communications Company, South Central Bell Telephone Company, Southern Bell Telephone and Telegraph Company, Southwestern Bell Telephone Company, The Bell Telephone Company of Pennsylvania, The Chesapeake and Potomac Telephone Company, The Chesapeake and Potomac Telephone Company of Maryland, The Chesapeake and Potomac Telephone Company of Virginia, The Chesapeake and Potomac Telephone Company of West Virginia, The Diamond State Telephone Company, The Ohio Bell Telephone Company, The Pacific Telephone and Telegraph Company, or Wisconsin Telephone Company; and
 
 &emsp;&emsp;(B) includes any successor or assign of any such company that provides wireline telephone exchange service; but
 
@@ -70,7 +70,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (16) Exchange access
 
-&emsp;The term “exchange access” means the offering of access to telephone exchange services or facilities for the purpose of the origination or termination of telephone toll services.
+&emsp;The term “exchange access” means the offering of access to telephone exchange servicesor facilities for the purpose of the origination or termination of telephone toll services.
 
 #### (17) Foreign communication
 
@@ -94,7 +94,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (22) Interstate communication
 
-&emsp;The term “interstate communication” or “interstate transmission” means communication or transmission (A) from any State, Territory, or possession of the United States (other than the Canal Zone), or the District of Columbia, to any other State, Territory, orpossession of the United States (other than the Canal Zone), or the District of Columbia, (B) from or to the United States to or from the Canal Zone, insofar as such communication or transmission takes place within the United States, or (C) between points within the United States but through a foreign country; but shall not, with respect to the provisions of subchapter II of this chapter (other than section 223 of this title), include wire or radio communication between points in the same State, Territory, or possession of the United States, or the District of Columbia, through any place outside thereof, if such communication is regulated by a State commission.
+&emsp;The term “interstate communication” or “interstate transmission” means communication or transmission (A) from any State, Territory, or possession of the United States (other than the Canal Zone), or the District of Columbia, to any other State, Territory, or possession of the United States (other than the Canal Zone), or the District of Columbia, (B) from or to the United States to or from the Canal Zone, insofar as such communication or transmission takes place within the United States, or (C) between points within the United States but through a foreign country; but shall not, with respect to the provisions of subchapter II of this chapter (other than section 223 of this title), include wire or radio communication between points in the same State, Territory, or possession of the United States, or the District of Columbia, through any place outside thereof, if such communication is regulated by a State commission.
 
 #### (23) Land station
 
@@ -130,7 +130,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (30) Number portability
 
-&emsp;The term “number portability” means the ability of users of telecommunications services to retain, at the same location, existing telecommunications numbers without impairment of quality, reliability, or convenience when switching from one telecommunications carrier to another.
+&emsp;The term “number portability” means the ability of users of telecommunications services to retain, at the same location, existing telecommunications numbers without impairment of quality, reliability, or conveniencewhen switching from one telecommunications carrier to another.
 
 #### (31) Operator
 
@@ -342,13 +342,9 @@ Section 3(b) of Pub. L. 104–104 provided that: “Except as otherwise provided
 
 #### Great Lakes Agreement
 
-The Great Lakes Agreement, referred to in this section, relates to the bilateral Agreement for the Promotion of Safety on the Great Lakes by Means of Radio, signed at Ottawa, Canada, Feb. 21, 1952; entered into force Nov. 13, 1954, 3 UST 4926. A subsequent agreement for Promotion of Safety on the Great Lakes by Means of Radio, 1973, was signed at Ottawa, Canada, Feb. 26, 1973, and entered into force May 16, 1975, 25 UST 935.
+The Great Lakes Agreement, referred to in this section, relates to the bilateral Agreement for the Promotion of Safety on the Great Lakes by Means of Radio, signed at Ottawa, Canada, Feb. 21, 1952; entered into force Nov. 13, 1954, 3 UST 4926. A subsequent agreement for Promotion of Safety on the Great Lakes byMeans of Radio, 1973, was signed at Ottawa, Canada, Feb. 26, 1973, and entered into force May 16, 1975, 25 UST 935.
 
 #### Safety Convention
 
 The United States was a party to the International Convention for the Safety of Life at Sea, signed at London May 31, 1929, entered into force as to the United States, Nov. 7, 1936, 50 Stat. 1121, 1306. For subsequent International Conventions for the Safety of Life at Sea to which the United States has been a party, see section 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 224, 225, 271, 273, 274, 332, 541, 556, 557, 741, 769 of this title; title 7 section 924; title 15 section 78c; title 17 section 1202; title 18 sections 1029, 2510; title 22 section 1465ff.
 

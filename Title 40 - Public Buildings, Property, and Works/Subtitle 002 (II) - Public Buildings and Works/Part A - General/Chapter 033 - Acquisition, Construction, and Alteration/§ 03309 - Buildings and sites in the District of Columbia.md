@@ -68,7 +68,3 @@ The Act of March 4, 1907, referred to in subsec. (c)(1), is act Mar. 4, 1907, ch
 
 The District of Columbia Stadium Act of 1957, referred to in subsec. (d), is Pub. L. 85–300, Sept. 7, 1957, 71 Stat. 619, as amended, which is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 450ss–6.
-

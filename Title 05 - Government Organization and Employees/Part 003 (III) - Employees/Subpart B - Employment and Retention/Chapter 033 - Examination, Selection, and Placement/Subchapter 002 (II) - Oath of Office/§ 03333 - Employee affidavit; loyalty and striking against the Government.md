@@ -30,7 +30,3 @@ In subsection (a), the words “after August 9, 1955” are omitted as executed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 4001; title 39 section 410.
-

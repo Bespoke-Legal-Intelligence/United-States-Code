@@ -1,9 +1,5 @@
 part 6—continuation coverage and additional standards for group health plans
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1191b of this title; title 26 section 9832; title 42 sections 300gg–91, 1396a, 1396e.
-
 
 ---
 

@@ -94,7 +94,3 @@ In subsection (c), the words “For purposes of this section, the term ‘cost i
 
 In subsection (d), the words “by the Secretary or any officer or employee under his control” and “duly” are omitted as surplus. The words “to have the information” are added for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30103, 30117, 30118, 30166 of this title.
-

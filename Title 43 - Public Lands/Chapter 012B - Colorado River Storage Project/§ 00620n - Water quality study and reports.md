@@ -4,7 +4,3 @@ The Secretary of the Interior is directed to continue studies and to make a repo
 
 (Apr. 11, 1956, ch. 203, §15, 70 Stat. 111.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1596, 1597 of this title.
-

@@ -20,7 +20,3 @@ Any Indian, Indian nation, or tribe of Indians (other than the Indian Corporatio
 
 The Trade and Intercourse Act of 1790, Act of July 22, 1790, ch. 33, sec. 4, 1 Stat. 137, referred to in subsec. (a)(1), was not classified to the Code. See sections 177, 179, 180, 193, 194, 201, 229, 230, 251, 263, and 264 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1706, 1707, 1712 of this title.
-

@@ -116,7 +116,7 @@ Subsections (a)(4) and (b) of section 202 of the Federal Employees’ Retirement
 
 The Foreign Service Act of 1980, referred to in subsec. (b)(4), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Subchapter II of chapter 8 of the Act probably means subchapter II of chapter 8 of title I of the Act which is classified generally to part II (§4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
-Chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (c)(2)(B), means chapter 67 (§1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), seesection 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
+Chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (c)(2)(B), means chapter 67 (§1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
 
 Section 10 of the Federal Reserve Act, referred to in subsecs. (g) and (i), is section 10 of act Dec. 23, 1913, ch. 6, 38 Stat. 260, as amended. For classification of section 10 to the Code, see Codification note set out under section 241 of Title 12, Banks and Banking, and Tables.
 
@@ -232,7 +232,7 @@ Requirements.—
 
 Requirements of the individual.—In order to receive credit under chapter 84 of title 5, United States Code, for any service described in subsection (a), the individual who performed such service (or, if deceased, any person who is or would be eligible for a survivor annuity under the Federal Employees’ Retirement System based on the service of such individual)—
 
-&emsp;&emsp;“(A) shall file a written application with the Office of Personnel Management not later than 36 months after the effective date of the regulations prescribed to carry out this section (as specified in those regulations); and
+&emsp;&emsp;“(A) shall file a written application with the Office of Personnel Management not later than 36months after the effective date of the regulations prescribed to carry out this section (as specified in those regulations); and
 
 &emsp;&emsp;“(B) shall remit to the Office (for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund) the total amount that, under section 8422 of such title 5, should have been deducted from the basic pay of such individual for such service if such service had then been creditable under such chapter 84.
 
@@ -361,10 +361,6 @@ Order of precedence.—Section 8424(d) of title 5, United States Code, shall app
 Implementation.—The Office of Personnel Management, in consultation with the Secretary, shall prescribe such regulations and take such action as may be necessary and appropriate to implement this section.”
 
 \[For definitions of “Department” and “Secretary” as used in section 321 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of Title 22, Foreign Relations and Intercourse.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8401, 8410, 8415, 8422, 8432, 8442, 8443, 8451 of this title; title 2 sections 121b, 162b, 2064; title 16 section 460<i>lll</i>–47; title 38 section 7426; title 50 section 2154.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

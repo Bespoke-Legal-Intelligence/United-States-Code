@@ -34,7 +34,7 @@ Service of one individual, until the completion of the investigation authorized 
 
 #### References in Text
 
-Sections 281 and 283 of title 18, referred to in subsec. (f), were repealed by Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, except as they may apply to retired officersof the armed forces of the United States, and were supplanted by sections 203 and 205 of Title 18, Crimes and Criminal Procedure.
+Sections 281 and 283 of title 18, referred to in subsec. (f), were repealed by Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, except as they may apply to retired officers of the armed forces of the United States, and were supplanted by sections 203 and 205 of Title 18, Crimes and Criminal Procedure.
 
 Section 284 of title 18, referred to in subsec. (f), was repealed by Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, and was supplanted by section 207 of title 18.
 
@@ -79,10 +79,6 @@ Pub. L. 106–554, §1(a)(2) \[title I, §7\], Dec. 21, 2000, 114 Stat. 2763, 27
 “(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate from the appropriations account ‘Joint Economic Committee’ under the heading ‘JOINT ITEMS’ shall be paid from the Senate appropriations account for ‘Salaries, Officers and Employees’.
 
 “(b) This section shall apply to pay periods beginning on or after October 1, 2000.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1022 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

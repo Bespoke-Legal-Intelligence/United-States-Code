@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—CRITICAL AGRICULTURAL MATERIALS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3311 of this title.
-
 
 ---
 

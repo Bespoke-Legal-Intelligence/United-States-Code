@@ -10,7 +10,7 @@ The National Counterintelligence Executive shall be the head of the Office of th
 
 #### (c) Location of Office
 
-The Office of the National Counterintelligence Executive shall be located in the Office of the Director of Central Intelligence.
+The Office of the National Counterintelligence Executive shall be located in the Office of the Director of National Intelligence.
 
 #### (d) General Counsel
 
@@ -42,11 +42,11 @@ Subject to the direction and control of the National Counterintelligence Executi
 
 #### (4) National counterintelligence strategic analyses
 
-&emsp;As directed by the Director of Central Intelligence and in consultation with appropriate elements of the departments and agencies of the United States Government, to oversee and coordinate the production of strategic analyses of counterintelligence matters, including the production of counterintelligence damage assessments and assessments of lessons learned from counterintelligence activities.
+&emsp;As directed by the Director of National Intelligence and in consultation with appropriate elements of the departments and agencies of the United States Government, to oversee and coordinate the production of strategicanalyses of counterintelligence matters, including the production of counterintelligence damage assessments and assessments of lessons learned from counterintelligence activities.
 
 #### (5) National counterintelligence program budget
 
-&emsp;In consultation with the Director of Central Intelligence—
+&emsp;In consultation with the Director of National Intelligence—
 
 &emsp;&emsp;(A) to coordinate the development of budgets and resource allocation plans for the counterintelligence programs and activities of the Department of Defense, the Federal Bureau of Investigation, the Central Intelligence Agency, and other appropriate elements of the United States Government;
 
@@ -84,7 +84,7 @@ Subject to the direction and control of the National Counterintelligence Executi
 
 (1) A National Threat Identification and Prioritization Assessment under subsection (e)(1) of this section, and any modification of such assessment, shall not go into effect until approved by the President.
 
-(2) A National Counterintelligence Strategy under subsection (e)(2) of this section, and anymodification of such strategy, shall not go into effect until approved by the President.
+(2) A National Counterintelligence Strategy under subsection (e)(2) of this section, and any modification of such strategy, shall not go into effect until approved by the President.
 
 (3) The National Counterintelligence Executive shall submit to the congressional intelligence committees each National Threat Identification and Prioritization Assessment, or modification thereof, and each National Counterintelligence Strategy, or modification thereof, approved under this section.
 
@@ -106,9 +106,9 @@ Subject to the direction and control of the National Counterintelligence Executi
 
 #### (h) Support
 
-(1) The Attorney General, Secretary of Defense, and Director of Central Intelligence may each provide the Office of the National Counterintelligence Executive such support as may be necessary to permit the Office to carry out its functions under this section.
+(1) The Attorney General, Secretary of Defense, and Director of National Intelligence may each provide the Office of the National Counterintelligence Executive such support as may be necessary to permit the Office to carry out its functions under this section.
 
-(2) Subject to any terms and conditions specified by the Director of Central Intelligence, the Director may provide administrative and contract support to the Office as if the Office were an element of the Central Intelligence Agency.
+(2) Subject to any terms and conditions specified by the Director of National Intelligence, the Director may provide administrative and contract support to the Office as if the Office were an element of the Central Intelligence Agency.
 
 (3) Support provided under this subsection may be provided on a reimbursable or nonreimbursable basis, at the election of the official providing such support.
 
@@ -128,7 +128,7 @@ The files of the Office shall be treated as operational files of the Central Int
 
 #### (<i>l</i>) Oversight by Congress
 
-The location of the Office of the National Counterintelligence Executive within the Office of the Director of Central Intelligence shall not be construed as affecting access by Congress, or any committee of Congress, to—
+The location of the Office of the National Counterintelligence Executive within the Office of the Director of National Intelligence shall not be construed as affecting access by Congress, or any committee of Congress, to—
 
 &emsp;(1) any information, document, record, or paper in the possession of the Office; or
 
@@ -136,9 +136,9 @@ The location of the Office of the National Counterintelligence Executive within 
 
 #### (m) Construction
 
-Nothing in this section shall be construed as affecting the authority of the Director of Central Intelligence, the Secretary of Defense, the Secretary of State, the Attorney General, or the Director of the Federal Bureau of Investigation as provided or specified under the National Security Act of 1947 or under other provisions of law.
+Nothing in this section shall be construed as affecting the authority of the Director of National Intelligence, the Secretary of Defense, the Secretary of State, the Attorney General, or the Director of the Federal Bureau of Investigation as provided or specified under the National Security Act of 1947 or under other provisions of law.
 
-(Pub. L. 107–306, title IX, §904, Nov. 27, 2002, 116 Stat. 2434.)
+(Pub. L. 107–306, title IX, §904, Nov. 27, 2002, 116 Stat. 2434; Pub. L. 108–458, title I, §§1071(g)(2)(B), 1072(d)(1)(C), Dec. 17, 2004, 118 Stat. 3691, 3693.)
 
 #### References in Text
 
@@ -150,9 +150,23 @@ The National Security Act of 1947, referred to in subsec. (m), is act July 26, 1
 
 Section was enacted as part of the Counterintelligence Enhancement Act of 2002, and also as part of the Intelligence Authorization Act for Fiscal Year 2003, and not as part of the National Security Act of 1947 which comprises this chapter.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 402a, 402b of this title.
+2004—Subsec. (c). Pub. L. 108–458, §1072(d)(1)(C)(i), substituted “Office of the Director of National Intelligence” for “Office of the Director of Central Intelligence”.
+
+Subsec. (e)(4). Pub. L. 108–458, §1071(g)(2)(B)(i), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+Subsec. (e)(5). Pub. L. 108–458, §1071(g)(2)(B)(ii), substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+
+Subsec. (h)(1), (2). Pub. L. 108–458, §1071(g)(2)(B)(iii), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+Subsec. (<i>l</i>). Pub. L. 108–458, §1072(d)(1)(C)(ii), substituted “Office of the Director of National Intelligence” for “Office of the Director of Central Intelligence” in introductory provisions.
+
+Subsec. (m). Pub. L. 108–458, §1071(g)(2)(B)(iv), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

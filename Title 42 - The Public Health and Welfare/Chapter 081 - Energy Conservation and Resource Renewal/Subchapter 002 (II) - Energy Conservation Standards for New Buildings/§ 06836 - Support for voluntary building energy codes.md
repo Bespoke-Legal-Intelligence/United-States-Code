@@ -28,7 +28,3 @@ The Secretary shall periodically review the technical and economic basis of volu
 
 A prior section 6836, Pub. L. 94–385, title III, §307, Aug. 14, 1976, 90 Stat. 1149; Pub. L. 95–619, title II, §255, Nov. 9, 1978, 92 Stat. 3238, set forth provisions respecting grants to States for adoption and implementation of performance standards, prior to repeal by Pub. L. 97–35, title X, §1041(b), Aug. 13, 1981, 95 Stat. 621.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6837 of this title.
-

@@ -40,7 +40,7 @@ Section 2009g(i) of this title shall apply to any guarantee of a trust certifica
 
 #### (2) Ownership rights
 
-&emsp;No Federal, State, or local law shall preclude or limit the exercise by the Secretary ofthe ownership rights of the Secretary in a debenture residing in a trust or pool against which 1 or more trust certificates are issued under this section.
+&emsp;No Federal, State, or local law shall preclude or limit the exercise by the Secretary of the ownership rights of the Secretary in a debenture residing in a trust or pool against which 1 or more trust certificates are issued under this section.
 
 #### (e) Management and administration
 
@@ -69,8 +69,4 @@ Section 2009g(i) of this title shall apply to any guarantee of a trust certifica
 &emsp;Nothing in this subsection prohibits the use of a book-entry or other electronic form of registration for trust certificates issued under this section.
 
 (Pub. L. 87–128, title III, §384F, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 393.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009cc–6 of this title.
 

@@ -8,7 +8,7 @@ As used in this chapter, the term—
 
 &emsp;(3) “Commission” means the Interstate Commerce Commission;
 
-&emsp;(4) “employee” includes any employee of the Rock Island Railroad as of August 1, 1979, but does not include any individual serving as president, vice-president, secretary, treasurer,comptroller, counsel, member of the board of directors, or any other person performing such functions;
+&emsp;(4) “employee” includes any employee of the Rock Island Railroad as of August 1, 1979, but does not include any individual serving as president, vice-president, secretary, treasurer, comptroller, counsel, member of the board of directors, or any other person performing such functions;
 
 &emsp;(5) the term “Rock Island Railroad” means the Chicago, Rock Island and Pacific Railroad Company, the estate of such Company in its reorganization proceeding, or the trustee appointed in such proceeding; and
 

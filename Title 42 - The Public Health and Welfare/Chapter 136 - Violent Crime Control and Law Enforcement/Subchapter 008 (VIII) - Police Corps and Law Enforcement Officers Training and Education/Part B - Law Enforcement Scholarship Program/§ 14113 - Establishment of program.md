@@ -48,7 +48,7 @@ A State that receives an allotment under section 14112 of this title may reserve
 
 #### (e) Special rule
 
-A State that receives an allotment under section 14112 of this title shall ensure that eachscholarship recipient under this part be compensated at the same rate of pay and benefits and enjoy the same rights under applicable agreements with labor organizations and under State and local law as other law enforcement personnel of the same rank and tenure in the office of which the scholarship recipient is a member.
+A State that receives an allotment under section 14112 of this title shall ensure that each scholarship recipient under this part be compensated at the same rate of pay and benefits and enjoy the same rights under applicable agreements with labor organizations and under State and local law as other law enforcement personnel of the same rank and tenure in the office of which the scholarship recipient is a member.
 
 #### (f) Supplementation of funding
 
@@ -59,10 +59,6 @@ Funds received under this part shall only be used to supplement, and not to supp
 #### References in Text
 
 Section 14116 of this title, referred to in subsec. (b)(1), was in the original “section 200203”, and was translated as reading “section 200207”, meaning section 200207 of Pub. L. 103–322, to reflect the probable intent of Congress, because section 200203 of Pub. L. 103–322, which is classified to section 14112 of this title, does not provide for submission of applications, and section 14116 does so provide.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14119 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

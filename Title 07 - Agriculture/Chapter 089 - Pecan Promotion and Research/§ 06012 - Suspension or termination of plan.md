@@ -18,7 +18,3 @@ The termination or suspension of any plan, or any provision thereof, shall not b
 
 (Pub. L. 101–624, title XIX, §1917, Nov. 28, 1990, 104 Stat. 3854.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6011 of this title.
-

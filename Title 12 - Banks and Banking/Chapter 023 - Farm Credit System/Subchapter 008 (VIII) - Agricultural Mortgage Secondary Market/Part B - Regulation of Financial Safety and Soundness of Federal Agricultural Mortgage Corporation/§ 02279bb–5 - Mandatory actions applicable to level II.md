@@ -2,11 +2,11 @@
 
 #### (a) Capital restoration plan
 
-If the Corporation is classified as within level II, the Corporation shall, within the time perioddetermined by the Director, submit to the Director a capital restoration plan and, after approval, carry out the plan.
+If the Corporation is classified as within level II, the Corporation shall, within the time period determined by the Director, submit to the Director a capital restoration plan and, after approval, carry out the plan.
 
 #### (b) Restriction on dividends
 
-If the Corporation is classified as within level II, the Corporation may not make any payment of dividends that would result in the Corporation being reclassified as within level III or IV.
+If the Corporation is classified as within level II, the Corporation may not make any paymentof dividends that would result in the Corporation being reclassified as within level III or IV.
 
 #### (c) Reclassification from level II to level III
 
@@ -23,8 +23,4 @@ The Director shall immediately reclassify the Corporation as within level III (a
 This section shall take effect upon the expiration of the 30-month period beginning on December 13, 1991.
 
 (Pub. L. 92–181, title VIII, §8.36, as added Pub. L. 102–237, title V, §503(b)(2), Dec. 13, 1991, 105 Stat. 1876.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2279bb–4 of this title.
 

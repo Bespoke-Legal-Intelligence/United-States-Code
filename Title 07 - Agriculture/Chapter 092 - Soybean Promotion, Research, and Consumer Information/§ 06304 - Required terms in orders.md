@@ -284,7 +284,7 @@ The order shall define the powers and duties that the Board may assign to the Co
 
 #### (2) Coordination
 
-&emsp;To enhance coordination, the Board, when entering into contracts or agreements for theimplementation and carrying out of activities authorized by this chapter, shall ensure that all plans or projects implemented for consumer information, industry information, promotion, or research are each implemented by a single entity. There shall not be in force, at any one time, more than one contract or agreement for implementation of plans or projects for consumer information, for industry information, for promotion, or for research, except that, upon approval of the Secretary, the Board may contract with qualified State soybean boards to implement plans or projects within their respective States.
+&emsp;To enhance coordination, the Board, when entering into contracts or agreements for the implementation and carrying out of activities authorized by this chapter, shall ensure that all plans or projects implemented for consumer information, industry information, promotion, or research are each implemented by a single entity. There shall not be in force, at any one time, more than one contract or agreement for implementation of plans or projects for consumer information, for industry information, for promotion, or for research, except that, upon approval of the Secretary, the Board may contract with qualified State soybean boards to implement plans or projects within their respective States.
 
 #### (3) Terms
 
@@ -338,7 +338,7 @@ The order shall require the Board to—
 
 #### (i) Collection
 
-&emsp;&emsp;&emsp;The order shall provide that each first purchaser of soybeans from a producer shall collect, in the manner prescribed by the order, an assessment from the producer and remit the assessment to the Board. The Board shall use qualified State soybean boards to collect such assessments in States in which such boards operate.
+&emsp;&emsp;&emsp;The order shall provide that each first purchaser of soybeans from a producer shall collect, in the manner prescribed by the order, an assessment from the producer and remit the assessment to theBoard. The Board shall use qualified State soybean boards to collect such assessments in States in which such boards operate.
 
 #### (ii) Rate
 
@@ -458,7 +458,7 @@ The order shall require the Board to—
 
 #### (4) Credit for contributions to qualified State soybean boards
 
-&emsp;A producer who can establish that such producer is contributing to a qualified State soybean board shall receive credit, in determining the assessment due to the Board from such producer, for contributions to the qualified State soybean board of up to one-quarter of 1 percent of the net market price of soybeans or the equivalent thereof. For purposes of this chapter, there shall be only one qualified State soybean board in each State. A producer may receive a credit under this paragraph only if the contribution is to the qualified State soybean board in the State in which the soybeans are produced, except that the Board, with the approval of the Secretary, may authorize exceptions to such State-of-origin rule as are appropriate to ensure effective coordination of collection procedures among States.
+&emsp;A producer who can establish that such producer is contributing to a qualified State soybean board shall receive credit, in determining the assessment due to the Board from such producer, for contributions to the qualified State soybean board of up to one-quarter of 1 percent of the net market price of soybeans or the equivalent thereof. For purposes of this chapter, there shall be only one qualified State soybean board in each State. A producer may receive a credit under this paragraph only if the contribution is to the qualifiedState soybean board in the State in which the soybeans are produced, except that the Board, with the approval of the Secretary, may authorize exceptions to such State-of-origin rule as are appropriate to ensure effective coordination of collection procedures among States.
 
 #### (5) Single process of assessment
 
@@ -466,7 +466,7 @@ The order shall require the Board to—
 
 #### (m) Credit for certain costs to States
 
-The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half of any fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessmentscollected and remitted to the Board under subsection (<i>l</i>) of this section.
+The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half of any fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessments collected and remitted to the Board under subsection (<i>l</i>) of this section.
 
 #### (n) Minimum level of assessments to States
 
@@ -536,7 +536,7 @@ The order shall provide that the Board may provide a credit to each qualified St
 
 #### (A) In general
 
-&emsp;&emsp;Information maintained under paragraph (1) shall be made available to the Secretary as is appropriate for the administration or enforcement of this chapter, or any order or regulation issued under this chapter.
+&emsp;&emsp;Information maintained under paragraph (1) shall be made available to the Secretaryas is appropriate for the administration or enforcement of this chapter, or any order or regulation issued under this chapter.
 
 #### (B) Other information
 
@@ -583,8 +583,4 @@ The order shall provide terms and conditions, not inconsistent with the provisio
 Subsec. (<i>l</i>)(2)(F)(vii)(V). Pub. L. 102–237, §806(1)(B), substituted “that request” for “that requests”.
 
 Subsec. (q)(4). Pub. L. 102–237, §806(1)(C), inserted a comma after “and” and struck out semicolon after “Board”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6302, 6309 of this title.
 

@@ -12,7 +12,7 @@
 
 #### (b) Program contents
 
-Each State program under this section shall provide for the implementation, at a minimum,of management measures in conformity with the guidance published under subsection (g) of this section, to protect coastal waters generally, and shall also contain the following:
+Each State program under this section shall provide for the implementation, at a minimum, of management measures in conformity with the guidance published under subsection (g) of this section, to protect coastal waters generally, and shall also contain the following:
 
 #### (1) Identifying land uses
 
@@ -223,10 +223,6 @@ Section was enacted as part of the Coastal Zone Act Reauthorization Amendments o
 #### Amendments
 
 1992—Subsec. (i)(3). Pub. L. 102–587 struck out comma after “ ‘coastal waters’ ” and inserted “Zone” before “Management”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1455 of this title; title 42 section 300j–14.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

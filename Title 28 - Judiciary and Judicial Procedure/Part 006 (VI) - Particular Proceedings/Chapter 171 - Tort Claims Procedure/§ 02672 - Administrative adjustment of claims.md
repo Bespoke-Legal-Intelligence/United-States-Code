@@ -46,7 +46,3 @@ Section 10 of Pub. L. 89–506 provided that: “This Act \[amending this sectio
 
 Section 424(b) of act Aug. 2, 1946, ch. 753, title IV, 60 Stat. 856, provided that: “Nothing contained herein shall be deemed to repeal any provision of law authorizing any Federal agency to consider, ascertain, adjust, settle, determine, or pay any claim on account of damage to or loss of property or on account of personal injury or death, in cases in which such damage, loss, injury, or death was not caused by any negligent or wrongful act or omission of an employee of the Government while acting within the scope of his office or employment, or any other claim not cognizable under part 2 of this title.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2678, 2679 of this title; title 5 section 8477; title 7 sections 2262a, 7752, 8312; title 8 section 1357; title 10 sections 1054, 1089, 2733; title 15 section 2081; title 21 section 904; title 22 sections 1474, 2669, 2669–1, 2702; title 29 section 2897; title 31 section 1304; title 32 section 715; title 38 sections 515, 1151, 7316; title 39 section 2603; title 42 sections 233, 238q, 2458a, 5055; title 50 section 2783.
-

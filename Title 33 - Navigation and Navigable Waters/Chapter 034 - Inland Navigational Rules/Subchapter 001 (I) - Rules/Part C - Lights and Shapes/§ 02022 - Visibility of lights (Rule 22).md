@@ -58,6 +58,10 @@ In an inconspicuous, partly submerged vessel or object being towed:
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3424.)
 
+#### Repeal of Section
+
+<i>Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that this section is repealed effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 2071 of this title.</i>
+
 #### References in Text
 
 These Rules, referred to in text, are the Inland Navigational Rules which are classified to this subchapter.
@@ -67,8 +71,4 @@ Annex I to these Rules, referred to in text, is to be established by the Secreta
 #### Codification
 
 Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the Inland Navigational Rules which comprise this subchapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2020, 2031, 2038 of this title.
 

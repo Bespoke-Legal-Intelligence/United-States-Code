@@ -144,7 +144,3 @@ Subsec. (g)(5) to (7). Pub. L. 95–376, §2(7)(C), added pars. (5) to (7).
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (f)(5) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 sections 1371, 1821, 1826, 1826a, 4242, 5301.
-

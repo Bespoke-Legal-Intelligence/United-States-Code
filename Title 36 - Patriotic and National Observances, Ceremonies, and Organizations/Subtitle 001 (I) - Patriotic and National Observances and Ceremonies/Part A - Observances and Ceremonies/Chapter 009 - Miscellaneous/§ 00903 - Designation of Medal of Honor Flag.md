@@ -10,10 +10,6 @@ Presentation.—The Medal of Honor Flag shall be presented as specified in secti
 
 (Added Pub. L. 107–248, title VIII, §8143(b)(1), Oct. 23, 2002, 116 Stat. 1570.)
 
-#### References in Text
-
-Sections 3755, 6257, and 8755 of title 10, referred to in subsec. (b), probably means the sections 3755, 6257, and 8755 of title 10 added by pars. (1)(A), (2)(A), and (3)(A), respectively, of section 8143(c) of Pub. L. 107–248.
-
 #### Findings
 
 Pub. L. 107–248, title VIII, §8143(a), Oct. 23, 2002, 116 Stat. 1570, provided that: “Congress finds that—
@@ -29,8 +25,4 @@ Pub. L. 107–248, title VIII, §8143(a), Oct. 23, 2002, 116 Stat. 1570, provide
 #### Presentation of Medal of Honor Flag
 
 Pub. L. 107–248, title VIII, §8143(d), Oct. 23, 2002, 116 Stat. 1571, provided that: “The President shall provide for the presentation of the Medal of Honor Flag designated under section 903 of title 36, United States Code, as added by subsection (b), to each person awarded the Medal of Honor before the date of enactment of this Act \[Oct. 23, 2002\] who is living as of that date. Such presentation shall be made as expeditiously as possible after the date of the designation of the Medal of Honor Flag by the Secretary of Defense under such section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 3755, 6257, 8755; title 14 section 505.
 

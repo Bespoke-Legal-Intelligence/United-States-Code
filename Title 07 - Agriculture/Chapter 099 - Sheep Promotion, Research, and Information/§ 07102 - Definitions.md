@@ -104,7 +104,7 @@ As used in this chapter (unless the context clearly requires otherwise):
 
 #### (24) Research
 
-&emsp;The term “research” means development projects and studies relating to the production (including the feeding of sheep), processing, distribution, or use of sheep or sheep products to encourage, expand, improve, or make more efficient the marketing of sheep or sheep products.
+&emsp;The term “research” means development projects and studies relating to the production\(including the feeding of sheep), processing, distribution, or use of sheep or sheep products to encourage, expand, improve, or make more efficient the marketing of sheep or sheep products.
 
 #### (25) Secretary
 

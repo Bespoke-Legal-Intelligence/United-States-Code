@@ -132,9 +132,5 @@ Amendment by Pub. L. 102–586 effective Nov. 4, 1992, but not applicable with r
 
 Amendment by Pub. L. 102–401 effective Oct. 7, 1992, but not applicable with respect to fiscal years beginning before Oct. 1, 1992, see section 4 of Pub. L. 102–401, set out as a note under section 9835 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9858a, 9858i of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

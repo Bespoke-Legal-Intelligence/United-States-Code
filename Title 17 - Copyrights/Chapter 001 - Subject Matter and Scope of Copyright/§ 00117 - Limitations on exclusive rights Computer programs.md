@@ -48,7 +48,3 @@ Under section 117, an action for infringement of a copyrighted work by means of 
 
 1980—Pub. L. 96–517 substituted provision respecting limitations on exclusive rights in connection with computer programs for prior provision enunciating scope of exclusive rights and use of the work in conjunction with computers and similar information systems and declaring owner of copyright in a work without any greater or lesser rights with respect to the use of the work in conjunction with automatic systems capable of storing, processing, retrieving, or transferring information, or in conjunction with any similar device, machine, or process, than those afforded to works under the law, whether this title or the common law or statutes of a State, in effect on Dec. 31, 1977, as held applicable and construed by the court in an action brought under this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 501, 511 of this title; title 18 section 2319.
-

@@ -24,7 +24,7 @@ Maximum Payment Period.—(1) In the case of a change of permanent station descr
 
 &emsp;(A) the period for which such expenses are to be paid or reimbursed under this section may not exceed five days; and
 
-&emsp;(B) such payment or reimbursement may be provided only for expenses incurred before leaving the United States (other than Hawaii or Alaska).
+&emsp;(B) such payment or reimbursement may be provided only for expenses incurred beforeleaving the United States (other than Hawaii or Alaska).
 
 (d)
 
@@ -85,8 +85,4 @@ Section 122(c) of Pub. L. 97–60 provided that: “The amendments made by this 
 #### Prohibition on Payment of Temporary Lodging Expenses; Exception
 
 Pub. L. 99–500, §101(c) \[title IX, §9097\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–117, and Pub. L. 99–591, §101(c) \[title IX, §9097\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–117, provided that none of the funds appropriated by the Department of Defense Appropriations Act, 1987, Pub. L. 99–500, §101(c), and Pub. L. 99–591, §101(c), were to be available to pay temporary lodging expenses pursuant to subsec. (a) of this section, except that during fiscal year 1987, this provision was not to apply to those military personnel with dependents in grades E–4 and below.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 411, 420 of this title.
 

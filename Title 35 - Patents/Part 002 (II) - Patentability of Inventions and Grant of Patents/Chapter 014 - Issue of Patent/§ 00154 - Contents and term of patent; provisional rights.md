@@ -38,7 +38,7 @@ Guarantee of prompt patent and trademark office responses.—Subject to the limi
 
 &emsp;&emsp;&emsp;&emsp;(II) the date on which an international application fulfilled the requirements of section 371 of this title;
 
-&emsp;&emsp;&emsp;(ii) respond to a reply under section 132, or to an appeal taken under section 134, within 4 months after the date on whichthe reply was filed or the appeal was taken;
+&emsp;&emsp;&emsp;(ii) respond to a reply under section 132, or to an appeal taken under section 134, within 4 months after the date on which the reply was filed or the appeal was taken;
 
 &emsp;&emsp;&emsp;(iii) act on an application within 4 months after the date of a decision by the Board of Patent Appeals and Interferences under section 134 or 135 or a decision by a Federal court under section 141, 145, or 146 in a case in which allowable claims remain in the application; or
 
@@ -106,7 +106,7 @@ Procedures for patent term adjustment determination.—
 
 &emsp;&emsp;(C) The Director shall reinstate all or part of the cumulative period of time of an adjustment under paragraph (2)(C) if the applicant, prior to the issuance of the patent, makes a showing that, in spite of all due care, the applicant was unable to respond within the 3-month period, but in no case shall more than three additional months for each such response beyond the original 3-month period be reinstated.
 
-&emsp;&emsp;(D) The Director shall proceed to grant the patent after completion of the Director's determination of a patent term adjustment under the procedures established under this subsection, notwithstanding any appeal taken by the applicant of such determination.
+&emsp;&emsp;(D) The Director shall proceed to grant the patent after completion of the Director's determination of a patent term adjustmentunder the procedures established under this subsection, notwithstanding any appeal taken by the applicant of such determination.
 
 &emsp;(4)
 
@@ -134,7 +134,7 @@ Remedies.—The remedies of sections 283, 284, and 285 of this title shall not a
 
 &emsp;(3)
 
-Remuneration.—The acts referred to in paragraph (2) may be continued only upon the payment of an equitable remuneration to the patentee that is determined in an action brought under chapter 28 and chapter 29 (other than those provisions excluded by paragraph (2)) of this title.
+Remuneration.—The acts referred to in paragraph (2) may be continued only upon the payment of an equitable remuneration to the patentee that is determined in an action brought under chapter 28 and chapter 29 (other than those provisions excluded by paragraph (2)) of this title.<sup>1</sup>
 
 (d)
 
@@ -184,13 +184,13 @@ The wording of the granting clause is changed to “the right to exclude others 
 
 #### References in Text
 
-The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (c)(1), (2)(A), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
+The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (c)(1), (2)(A), isthe date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 #### Amendments
 
 2002—Subsec. (b)(4)(A). Pub. L. 107–273, §13206(a)(8), struck out “, United States Code,” after “title 5”.
 
-Subsec. (d)(4)(A). Pub. L. 107–273, §13204, amended subsec. (d)(4)(A) as in effect on Nov. 29, 2000, by substituting “the date of” for “the date on which the Patent andTrademark Office receives a copy of the” and “publication in the English language” for “international application in the English language”.
+Subsec. (d)(4)(A). Pub. L. 107–273, §13204, amended subsec. (d)(4)(A) as in effect on Nov. 29, 2000, by substituting “the date of” for “the date on which the Patent and Trademark Office receives a copy of the” and “publication in the English language” for “international application in the English language”.
 
 1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4504(1)\], inserted “; provisional rights” after “patent” in section catchline.
 
@@ -256,7 +256,5 @@ Amendment by Pub. L. 89–83 effective three months after July 24, 1965, see sec
 
 Section 532(a)(2) of Pub. L. 103–465 authorized the Commissioner of Patents and Trademarks to prescribe regulations for further limited reexamination of applications pending 2 years or longer and for examination of more than 1 independent and distinct invention in applications pending 3 years or longer, as of the effective date of section 154(a)(2) of this title, and to establish appropriate related fees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 103, 122, 155, 155A, 156, 282, 284, 374 of this title; title 28 section 1295.
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection.”</i>
 

@@ -12,7 +12,3 @@ Lands withdrawn or classified as phosphate, nitrate, potash, oil, gas, or asphal
 
 Increase of limitation with respect to desert entries to 320 acres, see note set out under section 83 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 122, 124, 125 of this title.
-

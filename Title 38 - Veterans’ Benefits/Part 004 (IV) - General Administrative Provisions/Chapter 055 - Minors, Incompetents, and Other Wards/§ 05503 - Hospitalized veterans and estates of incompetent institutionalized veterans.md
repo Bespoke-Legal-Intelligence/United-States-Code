@@ -12,7 +12,7 @@
 
 (b) Notwithstanding any other provision of this section or any other provision of law, no reduction shall be made in the pension of any veteran for any part of the period during which the veteran is furnished hospital treatment, or institutional or domiciliary care, for Hansen's disease, by the United States or any political subdivision thereof.
 
-(c) Where any veteran in receipt of an aid and attendance allowance described in section 1114(r) of this title is hospitalized at Government expense, such allowance shall be discontinued from the first day of the second calendar month which begins after the date of the veteran's admission for such hospitalization for so long as such hospitalization continues. Any discontinuance required by administrative regulation, during hospitalization of a veteran by the Department, of increased pension based on need of regular aid and attendance or additional compensation based on need of regular aid and attendance as described in subsection (<i>l</i>) or (m) of section 1114 of this title, shall not be effective earlier than the first day of the second calendar month which begins after the date of the veterans’ admission for hospitalization. In case a veteran affected by this subsection leaves a hospital against medical advice and is thereafter admitted to hospitalization within six months from the date of such departure, such allowance, increased pension, or additional compensation, as the case may be, shall be discontinued from the date of such readmission for so long as such hospitalization continues.
+(c) Where any veteran in receipt of an aid and attendance allowance described in section 1114(r) of this title is hospitalized at Government expense, such allowance shall be discontinued from the first day of the second calendar month which begins after the date of the veteran's admission for such hospitalization for so long assuch hospitalization continues. Any discontinuance required by administrative regulation, during hospitalization of a veteran by the Department, of increased pension based on need of regular aid and attendance or additional compensation based on need of regular aid and attendance as described in subsection (<i>l</i>) or (m) of section 1114 of this title, shall not be effective earlier than the first day of the second calendar month which begins after the date of the veterans’ admission for hospitalization. In case a veteran affected by this subsection leaves a hospital against medical advice and is thereafter admitted to hospitalization within six months from the date of such departure, such allowance, increased pension, or additional compensation, as the case may be, shall be discontinued from the date of such readmission for so long as such hospitalization continues.
 
 (d)(1) For the purposes of this subsection—
 
@@ -138,7 +138,7 @@ Subsec. (a)(1)(D). Pub. L. 97–66, §602(2), added subpar. (D).
 
 1972—Subsec. (a). Pub. L. 92–328, §104(a), (b), redesignated subsec. (d) as (a). Former subsec. (a), which related to payment of compensation or retirement pay to veterans being furnished hospital treatment, institutional or domiciliary care by the Veterans’ Administration, was struck out.
 
-Subsec. (b)(1). Pub. L. 92–328, §104(c), redesignated par. (2) as (1) and inserted provisions relating to the rating by the Veterans’ Administration of a veteran as incompetent by reason of mental illness and provisions relating to the payment of a lump sum to the veteran until after the expiration of six months following the finding of competency of the veteran. Former par. (1), which related to the payment of compensation or retirement pay pursuant to the provisions of subsec. (a) of this section to veterans rated by the Veterans’ Administration as incompetent, was struck out.
+Subsec. (b)(1). Pub. L. 92–328, §104(c), redesignated par. (2) as (1) and inserted provisions relating to the rating by the Veterans’ Administration of a veteran as incompetent by reason of mental illness and provisionsrelating to the payment of a lump sum to the veteran until after the expiration of six months following the finding of competency of the veteran. Former par. (1), which related to the payment of compensation or retirement pay pursuant to the provisions of subsec. (a) of this section to veterans rated by the Veterans’ Administration as incompetent, was struck out.
 
 Subsec. (b)(2). Pub. L. 92–328, §104(c), (d), redesignated par. (3) as (2) and substituted “(1)” for “(2)” wherever appearing. Former par. (2) redesignated (1).
 
@@ -216,7 +216,7 @@ Amendment by Pub. L. 93–177 effective Jan. 1, 1974, see section 8 of Pub. L. 9
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–328 effective first day of second calendar month which begins after June 30, 1972, see section 301(a) of Pub. L. 92–328, set out as a note under section 1114 of this title.
+Amendment by Pub. L. 92–328 effective first day of second calendar month which begins after June 30, 1972,see section 301(a) of Pub. L. 92–328, set out as a note under section 1114 of this title.
 
 #### Effective Date of 1964 Amendment
 
@@ -257,8 +257,4 @@ Section 3 of Pub. L. 89–362 provided that: “The amendments made by this Act 
 Section 2(a) of Pub. L. 87–556 provided that: “The amendments made by this Act \[amending this section\] shall not apply to cases in which pension is payable pursuant to sections 9(b) and (c) of the Veterans’ Pension Act of 1959 \[set out as notes under section 1521 of this title\].”
 
 Section 2 of Pub. L. 87–544 provided that: “The amendment made by this Act \[amending this section\] shall also apply to cases in which pension eligibility is subject to the provisions of section 9(b) of the Veterans’ Pension Act of 1959 \[set out as notes under section 1521 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1114 of this title.
 

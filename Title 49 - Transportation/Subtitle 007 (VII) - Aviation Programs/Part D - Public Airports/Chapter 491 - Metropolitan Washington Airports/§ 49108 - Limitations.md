@@ -44,7 +44,3 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 49106, 49112 of this title.
-

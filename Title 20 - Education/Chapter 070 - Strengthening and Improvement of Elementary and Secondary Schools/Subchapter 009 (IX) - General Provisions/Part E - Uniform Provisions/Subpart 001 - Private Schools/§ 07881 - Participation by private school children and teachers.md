@@ -12,7 +12,7 @@
 
 #### (3) Special rule
 
-&emsp;Educational services and other benefits provided under this section for private school children, teachers, and other educational personnel shall be equitable in comparison to services and other benefits for public school children, teachers, and other educational personnel participating in the program and shall be provided in a timely manner.
+&emsp;Educational services and other benefits provided under this section for private schoolchildren, teachers, and other educational personnel shall be equitable in comparison to services and other benefits for public school children, teachers, and other educational personnel participating in the program and shall be provided in a timely manner.
 
 #### (4) Expenditures
 
@@ -123,8 +123,4 @@ References to part A of subchapter III of this chapter are considered to be refe
 #### Prior Provisions
 
 A prior section 7881, Pub. L. 89–10, title IX, §9161, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3793; amended Pub. L. 105–220, title II, §251(b)(2)(E), Aug. 7, 1998, 112 Stat. 1080, defined terms, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 7491 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6612, 6622, 7113, 7305b, 7315, 7321, 7883, 7884 of this title.
 

@@ -50,10 +50,6 @@
 
 1950—Act Sept. 23, 1950, ch. 1024, title I, §31(b), 64 Stat. 1019, added item 1507.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3521 of this title.
-
 
 ---
 

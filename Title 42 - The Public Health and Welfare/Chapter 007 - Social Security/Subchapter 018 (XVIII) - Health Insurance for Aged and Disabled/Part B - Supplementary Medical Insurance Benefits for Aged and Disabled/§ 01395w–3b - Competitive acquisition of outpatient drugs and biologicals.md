@@ -70,7 +70,7 @@
 
 #### (B) Process for adjustments
 
-&emsp;&emsp;The Secretary shall provide a process for adjustments to payments in the case in which payment is made for drugs and biologicals which were billed at the time of dispensing but which were not actually administered.
+&emsp;&emsp;The Secretary shall provide a process for adjustments to payments in the case in which payment is made for drugs and biologicals which were billed at the time ofdispensing but which were not actually administered.
 
 #### (C) Information for purposes of cost-sharing
 
@@ -230,7 +230,7 @@
 
 #### (4) Uniformity of bids within area
 
-&emsp;The amount of the bid submitted under a contract offer for any competitively biddable drug or biological for an area shall be the same for that drug or biological for all portions of that area.
+&emsp;The amount of the bid submitted under a contract offer for any competitively biddable drug or biological for an area shall be thesame for that drug or biological for all portions of that area.
 
 #### (5) Confidentiality of bids
 
@@ -324,7 +324,7 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 #### References in Text
 
-Section 1395ee(b) of this title, referred to in subsec. (b)(2)(C), was added by section 942(a)(5) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, Pub. L. 108–173, not section 923 of that Act, and relates to the Council for Technology and Innovation, not to the Medicare Provider Ombudsman.
+Section 1395ee(b) of this title, referred to in subsec. (b)(2)(C), was added by section 942(a)(5) of the MedicarePrescription Drug, Improvement, and Modernization Act of 2003, Pub. L. 108–173, not section 923 of that Act, and relates to the Council for Technology and Innovation, not to the Medicare Provider Ombudsman.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. subsec. (b)(4)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
@@ -339,10 +339,6 @@ Pub. L. 108–173, title III, §303(d)(2), Dec. 8, 2003, 117 Stat. 2252, provide
 Amendment by section 303 of Pub. L. 108–173, insofar as applicable to payments for drugs or biologicals and drug administration services furnished by physicians, is applicable only to physicians in the specialties of hematology, hematology/oncology, and medical oncology under this subchapter, see section 303(j) of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
 Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L. 108–173 also applicable to payments for drugs or biologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395<i>l</i>, 1395u, 1395w–3a, 1395w–4, 1395x, 1395y, 1395rr, 1396r–8 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

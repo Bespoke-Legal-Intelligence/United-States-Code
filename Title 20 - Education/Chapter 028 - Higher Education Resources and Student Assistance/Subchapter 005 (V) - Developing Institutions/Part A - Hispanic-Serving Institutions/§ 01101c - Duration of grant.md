@@ -22,7 +22,3 @@ A prior section 504 of Pub. L. 89–329 was classified to section 1102c of this 
 
 Another prior section 504 of Pub. L. 89–329 was classified to section 1091c of this title prior to repeal by Pub. L. 94–482.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1101b of this title.
-

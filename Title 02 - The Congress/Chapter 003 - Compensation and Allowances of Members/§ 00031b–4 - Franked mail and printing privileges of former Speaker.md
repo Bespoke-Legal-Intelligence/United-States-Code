@@ -18,7 +18,3 @@ References to sections of Title 39, Postal Service, have been substituted for re
 
 Section effective Jan. 8, 1971, see Effective Date note set out under section 31b–1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 31b–1, 31b–7 of this title.
-

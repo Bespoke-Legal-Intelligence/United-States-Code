@@ -1,9 +1,5 @@
 Part C—Clean Fuel Vehicles
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 7511a, 7512a, 7522, 7542, 7552, 7607, 13257 of this title.
-
 
 ---
 

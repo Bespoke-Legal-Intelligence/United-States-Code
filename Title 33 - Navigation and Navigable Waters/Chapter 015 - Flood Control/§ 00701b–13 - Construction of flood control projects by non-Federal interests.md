@@ -12,7 +12,7 @@ Non-Federal interests are authorized to undertake flood control projects in the 
 
 #### (2) By Secretary
 
-&emsp;Upon request of an appropriate non-Federal interest, the Secretary may undertake all necessary studies and design activities for any construction to be undertaken pursuant to subsection (a) of this section and provide technical assistance in obtaining all necessary permits for such construction if the non-Federal interest contracts with the Secretary to provide to the United States funds for the studies and design activities during the period in which the studies and design activities will be conducted.
+&emsp;Upon request of an appropriate non-Federal interest, the Secretary may undertake all necessary studies and design activities for any construction to be undertaken pursuant tosubsection (a) of this section and provide technical assistance in obtaining all necessary permits for such construction if the non-Federal interest contracts with the Secretary to provide to the United States funds for the studies and design activities during the period in which the studies and design activities will be conducted.
 
 #### (c) Completion of studies and design activities
 
@@ -42,7 +42,7 @@ In the case of any study or design documents for a flood control project that we
 
 #### (B) Studies and design activities under subsection (c)
 
-&emsp;&emsp;Any non-Federal interest that has received from the Secretary under subsection (c) ofthis section a favorable recommendation to carry out a flood control project, or separable element of a flood control project, based on the results of completed studies and design documents for the project or element may carry out the project or element if a final environmental impact statement under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) has been filed for the project or element.
+&emsp;&emsp;Any non-Federal interest that has received from the Secretary under subsection (c) of this section a favorable recommendation to carry out a flood control project, or separable element of a flood control project, based on the results of completed studies and design documents for the project or element may carry out the project or element if a final environmental impact statement under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) has been filed for the project or element.
 
 #### (2) Permits
 
@@ -110,7 +110,7 @@ For the purpose of demonstrating the potential advantages and effectiveness of n
 
 #### (1) Berryessa Creek, California
 
-&emsp;The Berryessa Creek element of the project for flood control, Coyote and Berryessa Creeks, California, authorized by section101(a)(5) of the Water Resources Development Act of 1990 (104 Stat. 4606); except that, subject to the approval of the Secretary as provided by this section, the non-Federal interest may design and construct an alternative to such element.
+&emsp;The Berryessa Creek element of the project for flood control, Coyote and Berryessa Creeks, California, authorized by section 101(a)(5) of the Water Resources Development Act of 1990 (104 Stat. 4606); except that, subject to the approval of the Secretary as provided by this section, the non-Federal interest may design and construct an alternative to such element.
 
 #### (2) Los Angeles County Drainage Area, California
 

@@ -4,7 +4,7 @@ Notwithstanding the provisions of section 1441 of this title, beginning with the
 
 &emsp;(1) Price support for wheat accompanied by domestic certificates shall be at such level not less than 65 per centum or more than 90 per centum of the parity price therefor as the Secretary determines appropriate, taking into consideration the factors specified in section 1421(b) of this title.
 
-&emsp;(2) Price support for wheat accompanied by export certificates shall be at such level not more than 90 per centum of the parity price therefor as the Secretary determines appropriate, taking into consideration the factors specified in section 1421(b) of this title.
+&emsp;(2) Price support for wheat accompanied by export certificates shall be at such level not more than 90 per centum of the parity pricetherefor as the Secretary determines appropriate, taking into consideration the factors specified in section 1421(b) of this title.
 
 &emsp;(3) Price support for wheat not accompanied by marketing certificates shall be at such level, not in excess of 90 per centum of the parity price therefor, as the Secretary determines appropriate, taking into consideration competitive world prices of wheat, the feeding value of wheat in relation to feed grains, and the level at which price support is made available for feed grains.
 
@@ -44,7 +44,7 @@ Subsec. (4). Pub. L. 88–297 redesignated former subsec. (3) as (4). Former sub
 
 Subsec. (5). Pub. L. 88–297 redesignated former subsec. (4) as (5) and inserted introductory phrase “Effective with respect to crops planted for harvest in the calendar year 1966 and any subsequent year,”. Former subsec. (5) redesignated (6).
 
-Subsec. (6). Pub. L. 88–297 redesignated former subsec. (5) as (6), struck out introductory clause “if marketing quotas are in effect for the crop of wheat”, struck out from cl. (i)(A) “or any other commodity” after “wheat”, substituted in cl. (i)(B) “the farm acreage allotment for wheat on any other farm on which the producer shares in the production of wheat” for “the farm acreage allotment on any other farm for any commodity in which he has an interest as a producer”, inserted “Effective with respect to crops planted for harvest in the calendar year 1966 and any subsequent year,” before “if marketing quotas”, and inserted provision for deeming a producer as not having exceeded a farm acreage allotment for wheat if the production on the acreage in excess of the farm acreage allotment is stored pursuant to section 1379c(b) of this title, but making the producer ineligible to receive price support on the wheat so stored.
+Subsec. (6). Pub. L. 88–297 redesignated former subsec. (5) as (6), struck out introductory clause “if marketing quotas are in effect for the crop of wheat”, struck out from cl. (i)(A) “or any other commodity” after “wheat”, substituted in cl. (i)(B) “the farm acreage allotment for wheat on any other farm on which the producer shares in the production of wheat” for “the farm acreage allotment on any other farm for any commodity in which he has an interest as a producer”, inserted “Effective with respect to crops planted for harvest in the calendar year 1966 and any subsequent year,” before “if marketing quotas”, and inserted provision fordeeming a producer as not having exceeded a farm acreage allotment for wheat if the production on the acreage in excess of the farm acreage allotment is stored pursuant to section 1379c(b) of this title, but making the producer ineligible to receive price support on the wheat so stored.
 
 #### Effective and Termination Dates of 1973 Amendment
 
@@ -73,8 +73,4 @@ Pub. L. 97–98, title III, §305, Dec. 22, 1981, 95 Stat. 1227, provided that: 
 Pub. L. 95–113, title IV, §409, Sept. 29, 1977, 91 Stat. 928, provided that: “Section 107 of the Agricultural Act of 1949, as amended \[this section\], shall not be applicable to the 1977 through 1981 crops of wheat.”
 
 Pub. L. 95–113, title IV, §410, Sept. 29, 1977, 91 Stat. 928, provided that: “Except as otherwise provided in section 401 of this Act \[enacting section 1445b(a)–(c) of this title effective only for the 1977 through 1981 crops of wheat\], section 107 of the Agricultural Act of 1949, as added by the Agricultural Act of 1970, as amended \[this section as amended by Pub. L. 91–524, as amended\], to be effective only for the 1974 through 1977 crops of wheat, shall not be applicable to the 1977 crop of wheat.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1379c, 7301, 7992 of this title.
 

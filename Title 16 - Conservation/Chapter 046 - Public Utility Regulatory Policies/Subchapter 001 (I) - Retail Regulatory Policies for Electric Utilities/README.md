@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—RETAIL REGULATORY POLICIES FOR ELECTRIC UTILITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2633, 2634 of this title.
-
 
 ---
 

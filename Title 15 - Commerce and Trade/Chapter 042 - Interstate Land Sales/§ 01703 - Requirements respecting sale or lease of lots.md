@@ -38,7 +38,7 @@ Any contract or agreement which is for the sale or lease of a lot not exempt und
 
 &emsp;(1) a description of the lot which makes such lot clearly identifiable and which is in a form acceptable for recording by the appropriate public official responsible for maintaining land records in the jurisdiction in which the lot is located;
 
-&emsp;(2) that, in the event of a default or breach of the contract or agreement by the purchaser or lessee, the seller or lessor (or successorthereof) will provide the purchaser or lessee with written notice of such default or breach and of the opportunity, which shall be given such purchaser or lessee, to remedy such default or breach within twenty days after the date of the receipt of such notice; and
+&emsp;(2) that, in the event of a default or breach of the contract or agreement by the purchaser or lessee, the seller or lessor (or successor thereof) will provide the purchaser or lessee with written notice of such default or breach and of the opportunity, which shall be given such purchaser or lessee, to remedy such default or breach within twenty days after the date of the receipt of such notice; and
 
 &emsp;(3) that, if the purchaser or lessee loses rights and interest in the lot as a result of a default or breach of the contract or agreement which occurs after the purchaser or lessee has paid 15 per centum of the purchase price of the lot, excluding any interest owed under the contract or agreement, the seller or lessor (or successor thereof) shall refund to such purchaser or lessee any amount which remains after subtracting (A) 15 per centum of the purchase price of the lot, excluding any interest owed under the contract or agreement, or the amount of damages incurred by the seller or lessor (or successor thereof) as a result of such breach, whichever is greater, from (B) the amount paid by the purchaser or lessee with respect to the purchase price of the lot, excluding any interest paid under the contract or agreement,
 
@@ -46,7 +46,7 @@ Any contract or agreement which is for the sale or lease of a lot not exempt und
 
 #### (e) Repayment of purchaser or lessee upon revocation of all money paid under contract or agreement to seller or lessor
 
-If a contract or agreement is revoked pursuant to subsection (b), (c), or (d) of this section, if the purchaser or lessee tenders to the seller or lessor (or successor thereof) an instrument conveying his or her rights and interests in the lot, and if the rights and interests and the lot are in a condition which is substantially similar to the condition in which they were conveyed or purported to be conveyed to the purchaser or lessee, such purchaser or lessee shall be entitled to all money paid by him or her under such contract or agreement.
+If a contract or agreement is revoked pursuant to subsection (b), (c), or (d) of this section, if the purchaser or lessee tenders to the seller or lessor (or successor thereof) an instrument conveying his or her rights and interests in the lot, and if the rights and interests and the lot are in a condition which is substantially similar to thecondition in which they were conveyed or purported to be conveyed to the purchaser or lessee, such purchaser or lessee shall be entitled to all money paid by him or her under such contract or agreement.
 
 (Pub. L. 90–448, title XIV, §1404, Aug. 1, 1968, 82 Stat. 591; Pub. L. 93–383, title VIII, §812(c)(1), Aug. 22, 1974, 88 Stat. 737; Pub. L. 96–153, title IV, §403, Dec. 21, 1979, 93 Stat. 1127.)
 
@@ -67,8 +67,4 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 #### Effective Date of 1974 Amendment
 
 Section 812(c)(2) of Pub. L. 93–383 provided that: “The amendments made by paragraph (1) \[amending this section\] shall be effective sixty days after the date of the enactment of this Act \[Aug. 22, 1974\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1702, 1709, 1711 of this title.
 

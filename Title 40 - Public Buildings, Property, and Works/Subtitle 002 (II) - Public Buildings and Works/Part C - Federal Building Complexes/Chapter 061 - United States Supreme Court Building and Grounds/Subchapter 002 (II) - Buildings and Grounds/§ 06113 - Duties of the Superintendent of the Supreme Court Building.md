@@ -22,7 +22,3 @@ May 7, 1934, ch. 222, §3, 48 Stat. 668; June 25, 1948, ch. 646, §27, 62 Stat. 
 
 The words “Except as provided in section 6111(a) of this title” are substituted for “other” for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6111 of this title.
-

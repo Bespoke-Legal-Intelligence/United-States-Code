@@ -38,7 +38,3 @@ Schedules I and II, referred to in text, are set out in section 812(c) of this t
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, but with Attorney General authorized to postpone such effective date for such period as he might determine to be necessary for the efficient administration of this subchapter, see section 704(c) of Pub. L. 91–513, set out as a note under section 801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 823, 824, 842 of this title.
-

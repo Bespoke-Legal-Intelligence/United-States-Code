@@ -62,7 +62,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (B) 6 years or less
 
-&emsp;&emsp;In the case of a transfer within 6 years of the acquisition under the program, thehomeownership program shall provide for appropriate restrictions to assure that an eligible family may not receive any undue profit. The plan shall provide for limiting the family's consideration for its interest in the property to the total of—
+&emsp;&emsp;In the case of a transfer within 6 years of the acquisition under the program, the homeownership program shall provide for appropriate restrictions to assure that an eligible family may not receive any undue profit. The plan shall provide for limiting the family's consideration for its interest in the property to the total of—
 
 &emsp;&emsp;&emsp;(i) the contribution to equity paid by the family;
 
@@ -133,8 +133,4 @@ Subsec. (b)(3)(E). Pub. L. 102–550, §309(2), added subpar. (E).
 Subsec. (b)(8). Pub. L. 102–550, §309(3), substituted “Except in the case of limited equity cooperatives, resident” for “Resident”.
 
 Subsec. (b)(10). Pub. L. 102–550, §309(4), struck out “, as determined by the Secretary,” after “entity that assumes”, substituted “4112(c)” for “4112(d)”, and struck out at end “This requirement shall only apply to an entity, such as a cooperative association, that, as determined by the Secretary, intends to own the housing on a permanent basis.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4110 of this title; title 42 section 1437f.
 

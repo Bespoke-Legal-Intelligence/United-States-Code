@@ -4,7 +4,3 @@ The owner of the land described as the northeast quarter of the northwest quarte
 
 (May 10, 1926, ch. 281, §1, 44 Stat. 497.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 221d of this title.
-

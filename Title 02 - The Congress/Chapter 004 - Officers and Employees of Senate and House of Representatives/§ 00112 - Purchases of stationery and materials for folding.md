@@ -8,9 +8,9 @@ All contracts and bonds for purchases made under the authority of this section s
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 struck out “or the Committee on Accounts of the House of Representatives respectively” before period at end.
+1996—Pub. L. 104–186 struck out “or the Committee on Accounts of the House of Representatives respectively” before period at end.
 
-<b>1946</b>—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for the “Committee to Audit and Control the Contingent Expenses”.
+1946—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for the “Committee to Audit and Control the Contingent Expenses”.
 
 #### Effective Date of 1946 Amendment
 

@@ -84,7 +84,3 @@ Section 403(c) of Pub. L. 102–556 provided that: “This section \[amending th
 
 Section 108(b) of Pub. L. 97–259 provided that: “Any minimum performance standard established by the Federal Communications Commission under section 302(a)(2) of the Communications Act of 1934 \[subsec. (a)(2) of this section\], as added by the amendment made in subsection (a)(1), shall not apply to any home electronic equipment or systems manufactured before the date of the enactment of this Act \[Sept. 13, 1982\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 510 of this title.
-

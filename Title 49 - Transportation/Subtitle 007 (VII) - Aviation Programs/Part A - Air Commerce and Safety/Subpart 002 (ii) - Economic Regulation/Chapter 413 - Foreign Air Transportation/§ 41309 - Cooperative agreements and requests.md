@@ -114,7 +114,3 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 Pub. L. 107–71, title I, §116, Nov. 19, 2001, 115 Stat. 624, which related to air transportation arrangements for flights that both originate and terminate at points within the same State, was repealed by Pub. L. 107–273, div. C, title IV, §14102(g), Nov. 2, 2002, 116 Stat. 1922.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41101, 41110, 41308, 41503, 41710, 42111 of this title.
-

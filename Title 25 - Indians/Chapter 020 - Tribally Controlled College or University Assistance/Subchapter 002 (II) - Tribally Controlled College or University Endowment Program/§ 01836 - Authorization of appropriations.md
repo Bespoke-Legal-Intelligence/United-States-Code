@@ -24,7 +24,3 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1832, 1835 of this title.
-

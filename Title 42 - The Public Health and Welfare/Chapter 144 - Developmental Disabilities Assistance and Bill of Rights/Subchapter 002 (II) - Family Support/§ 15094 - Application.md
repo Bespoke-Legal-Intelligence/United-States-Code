@@ -4,7 +4,3 @@ To be eligible to receive a grant under this subchapter, a State shall submit an
 
 (Pub. L. 106–402, title II, §205, Oct. 30, 2000, 114 Stat. 1731.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15093, 15095 of this title.
-

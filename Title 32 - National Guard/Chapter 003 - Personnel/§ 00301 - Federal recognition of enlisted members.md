@@ -18,7 +18,3 @@ Historical and Revision Notes
 
 July 9, 1952, ch. 608, §703(a) (as applicable to enlisted members), 66 Stat. 502.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 323, 709 of this title.
-

@@ -98,7 +98,3 @@ The fiscal year in which this Act is enacted, referred to in subsec. (b)(3), is 
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1573 of this title.
-

@@ -8,7 +8,3 @@ As used in sections 2223a to 2223e of this title, the term “emergency response
 
 Section was enacted as part of the Firefighters’ Safety Study Act, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2223a, 2223c of this title.
-

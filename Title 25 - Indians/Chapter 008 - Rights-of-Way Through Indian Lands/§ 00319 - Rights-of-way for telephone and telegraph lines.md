@@ -10,7 +10,3 @@ The “former Indian Territory”, referred to in text, was in the original “I
 
 Section is comprised of the first par. of section 3 of act Mar. 3, 1901. The second par. of such section 3 is classified to section 357 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 322 of this title.
-

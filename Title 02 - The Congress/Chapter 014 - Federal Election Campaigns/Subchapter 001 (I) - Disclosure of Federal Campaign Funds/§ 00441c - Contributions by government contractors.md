@@ -28,7 +28,3 @@ A prior section 317 of Pub. L. 92–225 was renumbered section 313, and is class
 
 Another prior section 317 of Pub. L. 92–225 was renumbered section 312, and is classified to section 439 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 437g of this title.
-

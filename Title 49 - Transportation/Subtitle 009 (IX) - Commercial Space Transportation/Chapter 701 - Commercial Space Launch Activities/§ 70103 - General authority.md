@@ -8,15 +8,19 @@ General.—The Secretary of Transportation shall carry out this chapter.
 
 Facilitating Commercial Launches and Reentries.—In carrying out this chapter, the Secretary shall—
 
-&emsp;(1) encourage, facilitate, and promote commercial space launches and reentries by the private sector; and
+&emsp;(1) encourage, facilitate, and promote commercial space launches and reentries by the private sector, including those involving space flight participants; and
 
 &emsp;(2) take actions to facilitate private sector involvement in commercial space transportation activity, and to promote public-private partnerships involving the United States Government, State governments, and the private sector to build, expand, modernize, or operate a space launch and reentry infrastructure.
 
 (c)
 
+Safety.—In carrying out the responsibilities under subsection (b), the Secretary shall encourage, facilitate, and promote the continuous improvement of the safety of launch vehicles designed to carry humans, and the Secretary may, consistent with this chapter, promulgate regulations to carry out this subsection.
+
+(d)
+
 Executive Agency Assistance.—When necessary, the head of an executive agency shall assist the Secretary in carrying out this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1332; Pub. L. 105–303, title I, §102(a)(4), Oct. 28, 1998, 112 Stat. 2847.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1332; Pub. L. 105–303, title I, §102(a)(4), Oct. 28, 1998, 112 Stat. 2847; Pub. L. 108–492, §2(c)(1), (2), Dec. 23, 2004, 118 Stat. 3976.)
 
 Historical and Revision Notes
 
@@ -49,6 +53,10 @@ In subsection (a), the words “be responsible for” are omitted as surplus.
 In subsection (c), the words “To the extent permitted by law” are omitted as surplus. The words “the head of an executive agency” are substituted for “Federal agencies” for consistency in the revised title and with other titles of the United States Code.
 
 #### Amendments
+
+2004—Subsec. (b)(1). Pub. L. 108–492, §2(c)(1), inserted “, including those involving space flight participants” after “private sector”.
+
+Subsecs. (c), (d). Pub. L. 108–492, §2(c)(2), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1998—Subsec. (b). Pub. L. 105–303, §102(a)(4)(A), inserted “and Reentries” after “Launches” in heading.
 

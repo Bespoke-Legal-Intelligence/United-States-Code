@@ -38,9 +38,5 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explici
 
 Section 8(e) of Pub. L. 95–142 provided that: “The amendments made by this section \[enacting this section and amending sections 1395cc, 1396b, and 1397a of this title\] shall apply with respect to contracts, agreements, and arrangements entered into and approvals given pursuant to applications or requests made on and after the first day of the fourth month beginning after the date of the enactment of this Act \[Oct. 25, 1977\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320a–3a, 1320a–7, 1320a–7a, 1395i–3, 1395bbb, 1396r, 1396t, 1397gg, 15025 of this title.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

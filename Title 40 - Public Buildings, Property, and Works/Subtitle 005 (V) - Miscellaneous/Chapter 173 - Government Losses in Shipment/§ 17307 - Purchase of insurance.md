@@ -1,6 +1,6 @@
 ### §17307. Purchase of insurance
 
-An executive department, independent establishment, agency, wholly owned Government corporation, officer, or employee may expendmoney, or incur an obligation, for insurance, or for the payment of premiums on insurance, against loss, destruction, or damage in the shipment of valuables only as specifically authorized by the Secretary of the Treasury. The Secretary may give the authorization if the Secretary finds that the risk of loss, destruction, or damage in the shipment cannot be guarded against adequately by the facilities of the Federal Government or that adequate replacement cannot be provided under this chapter.
+An executive department, independent establishment, agency, wholly owned Government corporation, officer, or employee may expend money, or incur an obligation, for insurance, or for the payment of premiums on insurance, against loss, destruction, or damage in the shipment of valuables only as specifically authorized by the Secretary of the Treasury. The Secretary may give the authorization if the Secretary finds that the risk of loss, destruction, or damage in the shipment cannot be guarded against adequately by the facilities of the Federal Government or that adequate replacement cannot be provided under this chapter.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1282.)
 

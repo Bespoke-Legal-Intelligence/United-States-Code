@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—REPORTS AND RECORDS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 11901, 11903 of this title.
-
 
 ---
 

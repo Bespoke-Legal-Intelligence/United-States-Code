@@ -18,10 +18,6 @@
 
 1988—Pub. L. 100–496, §9(b), Oct. 17, 1988, 102 Stat. 2463, added item 3905 and redesignated former items 3905 and 3906 as 3906 and 3907, respectively.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 10 section 1095c; title 15 section 644; title 25 sections 450<i>l</i>, 458aaa–7, 2506; title 39 section 410.
-
 
 ---
 

@@ -12,7 +12,7 @@ Section 5885, Pub. L. 103–227, title III, §305, Mar. 31, 1994, 108 Stat. 159;
 
 Section 5886, Pub. L. 103–227, title III, §306, Mar. 31, 1994, 108 Stat. 160; Pub. L. 104–134, title I, §101(d) \[title VII, §§702(a), 703(a)(9), 705(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251, 1321–253, 1321–256; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to State improvement plans.
 
-Section 5887, Pub. L. 103–227, title III, §307, Mar. 31, 1994, 108 Stat. 167; Pub. L. 104–134, title I, §101(d) \[title VII, §705(c)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–256; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to Secretary's review of applications and payments.
+Section 5887, Pub. L. 103–227, title III, §307, Mar. 31, 1994, 108 Stat. 167; Pub. L. 104–134, title I, §101(d) \[titleVII, §705(c)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–256; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to Secretary's review of applications and payments.
 
 Section 5888, Pub. L. 103–227, title III, §308, Mar. 31, 1994, 108 Stat. 168; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(10)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to State use of funds.
 

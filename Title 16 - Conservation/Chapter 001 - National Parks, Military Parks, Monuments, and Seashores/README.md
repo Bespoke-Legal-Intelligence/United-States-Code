@@ -357,6 +357,7 @@
 | [110a.](Subchapter%20011%20%28XI%29%20-%20Mount%20Rainier%20National%20Park/%C2%A7%2000110a%20-%20Headquarters%20site%3B%20acquisition%20of%20lands.md) | Headquarters site; acquisition of lands. |
 | [110b.](Subchapter%20011%20%28XI%29%20-%20Mount%20Rainier%20National%20Park/%C2%A7%2000110b%20-%20Administration%20of%20headquarters%20site.md) | Administration of headquarters site. |
 | [110c.](Subchapter%20011%20%28XI%29%20-%20Mount%20Rainier%20National%20Park/%C2%A7%2000110c%20-%20Boundary%20adjustments.md) | Boundary adjustments. |
+| [110d.](Subchapter%20011%20%28XI%29%20-%20Mount%20Rainier%20National%20Park/%C2%A7%2000110d%20-%20Mount%20Rainier%20National%20Park%20Boundary%20Adjustment.md) | Mount Rainier National Park Boundary Adjustment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -719,6 +720,7 @@
 | [266\.](Subchapter%20028%20%28XXVIII%29%20-%20Cumberland%20Gap%20National%20Historical%20Park/%C2%A7%2000266%20-%20Authorization%20of%20appropriations%20for%20acquisition%20of%20additional%20lands.md) | Authorization of appropriations for acquisition of additional lands. |
 | [267\.](Subchapter%20028%20%28XXVIII%29%20-%20Cumberland%20Gap%20National%20Historical%20Park/%C2%A7%2000267%20-%20Authority%20of%20Secretary%20to%20acquire%20additional%20lands.md) | Authority of Secretary to acquire additional lands. |
 | [268\.](Subchapter%20028%20%28XXVIII%29%20-%20Cumberland%20Gap%20National%20Historical%20Park/%C2%A7%2000268%20-%20Authority%20of%20Secretary%20to%20acquire%20lands%20for%20trailheads.md) | Authority of Secretary to acquire lands for trailheads. |
+| [268a.](Subchapter%20028%20%28XXVIII%29%20-%20Cumberland%20Gap%20National%20Historical%20Park/%C2%A7%2000268a%20-%20Acquisition%20of%20Fern%20Lake%20watershed.md) | Acquisition of Fern Lake watershed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1842,6 +1844,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER LIX–II—LEWIS AND CLARK NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410kkk.](Subchapter%20059%E2%80%93II%20%28LIX%E2%80%93II%29%20-%20Lewis%20and%20Clark%20National%20Historical%20Park/%C2%A7%2000410kkk%20-%20Definitions.md) | Definitions. |
+| 410kkk–1. | Lewis and Clark National Historical Park. |
+| 410kkk–2. | Administration. |
+| 410kkk–3. | References. |
+| 410kkk–4. | Private property protection. |
+| 410kkk–5. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER LX—NATIONAL MILITARY PARKS
 
 |  |  |
@@ -1950,6 +1965,9 @@
 | [428m.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000428m%20-%20Authorization%20of%20appropriation.md) | Authorization of appropriation. |
 | [428n.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000428n%20-%20Change%20in%20name%20to%20Fort%20Donelson%20National%20Battlefield.md) | Change in name to Fort Donelson National Battlefield. |
 | 428<i>o.</i> | Administration, protection, and development. |
+| [428p.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000428p%20-%20Fort%20Donelson%20National%20Battlefield.md) | Fort Donelson National Battlefield. |
+| 428p–1. | Land acquisition related to Fort Donelson National Battlefield. |
+| 428p–2. | Administration of Fort Donelson National Battlefield. |
 | [429\.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000429%20-%20Brices%20Cross%20Roads%20and%20Tupelo%20battlefields%20in%20Mississippi%3B%20establishment.md) | Brices Cross Roads and Tupelo battlefields in Mississippi; establishment. |
 | [429a.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000429a%20-%20Jurisdiction%20and%20control%3B%20authorization%20of%20annual%20appropriation.md) | Jurisdiction and control; authorization of annual appropriation. |
 | 429a–1. | Tupelo National Battlefield; acquisition of additional lands. |
@@ -2038,7 +2056,7 @@
 | [430hh.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430hh%20-%20Administration%2C%20protection%2C%20and%20development%3B%20improvements.md) | Administration, protection, and development; improvements. |
 | [430ii.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430ii%20-%20Dedication.md) | Dedication. |
 | [430jj.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430jj%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [430kk.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430kk%20-%20Wilson%27s%20Creek%20National%20Battlefield%3B%20establishment%3B%20acquisition%20of%20lands.md) | Wilson's Creek National Battlefield; establishment; acquisition of lands. |
+| [430kk.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430kk%20-%20Wilson%27s%20Creek%20National%20Battlefield%20establishment%20and%20acquisition%20of%20lands.md) | Wilson's Creek National Battlefield: establishment and acquisition of lands. |
 | 430<i>ll.</i> | Designation. |
 | [430mm.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430mm%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [430nn.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430nn%20-%20Antietam%20Battlefield%20site%3B%20acquisition%20of%20lands%2C%20buildings%2C%20structures%2C%20and%20other%20property.md) | Antietam Battlefield site; acquisition of lands, buildings, structures, and other property. |
@@ -2071,7 +2089,7 @@
 | [433e.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433e%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93141%2C%20%C2%A77%28b%29%2C%20Oct.%2031%2C%201983%2C%2097%20Stat.%20910.md) | Repealed. |
 | [433f.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433f%20-%20Inconsistent%20laws%20repealed.md) | Inconsistent laws repealed. |
 | 433f–1. | Change in name of Perry's Victory and International Peace Memorial National Monument. |
-| [433g.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433g%20-%20Fort%20Frederica%20National%20Monument%3B%20establishment.md) | Fort Federica National Monument; establishment. |
+| [433g.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433g%20-%20Fort%20Frederica%20National%20Monument%3B%20establishment.md) | Fort Frederica National Monument; establishment. |
 | [433h.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433h%20-%20Donation%20of%20property%3B%20acquisition%20of%20lands.md) | Donation of property; acquisition of lands. |
 | 433h–1. | Acquisition of additional lands. |
 | [433i.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000433i%20-%20Museum%3B%20historical%20markers.md) | Museum; historical markers. |
@@ -2152,7 +2170,7 @@
 | [450aa.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450aa%20-%20George%20Washington%20Carver%20National%20Monument%3B%20acquisition%20of%20land.md) | George Washington Carver National Monument; acquisition of land. |
 | 450aa–1. | Establishment and supervision. |
 | 450aa–2. | Maintenance of museum; construction of roads and use of markers. |
-| [450bb.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450bb%20-%20Harpers%20Ferry%20National%20Historical%20Park%3B%20establishment%3B%20acceptance%20of%20donations%20of%20land%2C%20etc.md) | Harpers Ferry National Historical Park; establishment; acceptance of donations of land, etc. |
+| [450bb.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450bb%20-%20Harpers%20Ferry%20National%20Historical%20Park.md) | Harpers Ferry National Historical Park. |
 | 450bb–1. | Administration. |
 | 450bb–2. | Maintenance of museum; acceptance of museum articles; construction of roads, etc. |
 | 450bb–3. | Acquisition of additional lands. |
@@ -2196,10 +2214,7 @@
 | 450<i>ll</i>–1. | Establishment and supervision. |
 | 450<i>ll</i>–2. | Maintenance of museum; provision for parks, construction of roads and use of markers. |
 | 450<i>ll</i>–3. | Additional lands. |
-| [450mm.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450mm%20-%20Fort%20Clatsop%20National%20Memorial%3B%20establishment.md) | Fort Clatsop National Memorial; establishment. |
-| 450mm–1. | Designation of land and improvements; size. |
-| 450mm–2. | Acquisition of lands. |
-| 450mm–3. | Effective date; administration. |
+| 450mm to 450mm–3. Repealed. |  |
 | [450nn.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450nn%20-%20General%20Grant%20National%20Memorial%3B%20establishment.md) | General Grant National Memorial; establishment. |
 | 450<i>oo.</i> | Grand Portage National Monument; establishment; effective date. |
 | 450<i>oo</i>–1. | Acceptance of donations of land; instruments of relinquishment; life assignments. |
@@ -2227,11 +2242,10 @@
 | [450ss.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450ss%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
 | 450ss–1. | Definitions. |
 | 450ss–2. | Oklahoma City National Memorial. |
-| 450ss–3. | Oklahoma City National Memorial Trust. |
-| 450ss–4. | Duties and authorities of Trust. |
+| 450ss–3. | Transfer of Memorial property, rights, authorities, and duties. |
+| 450ss–4. | Repealed. |
 | 450ss–5. | Limitations on funding. |
-| 450ss–6. | Alfred P. Murrah Federal Building. |
-| 450ss–7. | General Accounting Office study. |
+| 450ss–6, 450ss–7. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2336,7 +2350,7 @@
 | 459g–7. | Authorization of appropriations; master plan to Congressional committees; time; contents. |
 | [459h.](Subchapter%20063%20%28LXIII%29%20-%20National%20Seashore%20Recreational%20Areas/%C2%A7%2000459h%20-%20Gulf%20Islands%20National%20Seashore.md) | Gulf Islands National Seashore. |
 | 459h–1. | Acquisition of property. |
-| 459h–2. | Designation by Secretary of hunting and fishing zones; regulation of maritime activities. |
+| 459h–2. | Designation of hunting and fishing zones; regulation of maritime activities. |
 | 459h–3. | Rights-of-way or easements for transportation of oil and gas minerals. |
 | 459h–4. | Administration of seashore; conservation and management of wildlife and natural resources; authority to designate areas as national historic sites; agreements. |
 | 459h–5. | Beach erosion control and hurricane protection; study and formulation of plans; activities by Chief of Engineers, Department of Army. |
@@ -3144,7 +3158,7 @@
 | 460ww–2. | Miscellaneous. |
 | 460ww–3. | Authorization of appropriations. |
 | 460ww–4. | Special conditions. |
-| 460ww–5. | Advisory committee. |
+| 460ww–5. | Advisory Committee. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3155,7 +3169,7 @@
 | [460xx.](Subchapter%20109%20%28CIX%29%20-%20San%20Pedro%20Riparian%20National%20Conservation%20Area/%C2%A7%2000460xx%20-%20Establishment.md) | Establishment. |
 | 460xx–1. | Management. |
 | 460xx–2. | Management plan. |
-| 460xx–3. | Advisory committee. |
+| 460xx–3. | Advisory Committee. |
 | 460xx–4. | Land acquisition. |
 | 460xx–5. | Report to Congress. |
 | 460xx–6. | Authorization of appropriations. |
@@ -3236,6 +3250,7 @@
 | :--- | ---: |
 | [460ccc.](Subchapter%20114%20%28CXIV%29%20-%20Red%20Rock%20Canyon%20National%20Conservation%20Area/%C2%A7%2000460ccc%20-%20Definitions.md) | Definitions. |
 | 460ccc–1. | Establishment. |
+| 460ccc–2. | Management. |
 | 460ccc–3. | Management plan. |
 | 460ccc–4. | Acquisitions. |
 | 460ccc–5. | Withdrawal; exchange of lands. |
@@ -3399,13 +3414,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER CXXIV—COLORADO CANYONS NATIONAL CONSERVATION AREA
+#### SUBCHAPTER CXXIV—McINNIS CANYONS NATIONAL CONSERVATION AREA
 
 |  |  |
 | :--- | ---: |
-| [460mmm.](Subchapter%20124%20%28CXXIV%29%20-%20Colorado%20Canyons%20National%20Conservation%20Area/%C2%A7%2000460mmm%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
+| [460mmm.](Subchapter%20124%20%28CXXIV%29%20-%20McInnis%20Canyons%20National%20Conservation%20Area/%C2%A7%2000460mmm%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
 | 460mmm–1. | Definitions. |
-| 460mmm–2. | Colorado Canyons National Conservation Area. |
+| 460mmm–2. | McInnis Canyons National Conservation Area. |
 | 460mmm–3. | Black Ridge Canyons Wilderness designation. |
 | 460mmm–4. | Management. |
 | 460mmm–5. | Maps and legal descriptions. |
@@ -3671,6 +3686,7 @@ I74subpart 1—designation and purposes
 - [Subchapter 059&#8211;FF (LIX&#8211;FF) - Great Sand Dunes National Park and Preserve](Subchapter%20059%E2%80%93FF%20%28LIX%E2%80%93FF%29%20-%20Great%20Sand%20Dunes%20National%20Park%20and%20Preserve/README.md)
 - [Subchapter 059&#8211;GG (LIX&#8211;GG) - Cedar Creek and Belle Grove National Historical Park](Subchapter%20059%E2%80%93GG%20%28LIX%E2%80%93GG%29%20-%20Cedar%20Creek%20and%20Belle%20Grove%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;HH (LIX&#8211;HH) - Congaree National Park](Subchapter%20059%E2%80%93HH%20%28LIX%E2%80%93HH%29%20-%20Congaree%20National%20Park/README.md)
+- [Subchapter 059&#8211;II (LIX&#8211;II) - Lewis and Clark National Historical Park](Subchapter%20059%E2%80%93II%20%28LIX%E2%80%93II%29%20-%20Lewis%20and%20Clark%20National%20Historical%20Park/README.md)
 - [Subchapter 060 (LX) - National Military Parks](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/README.md)
 - [Subchapter 061 (LXI) - National and International Monuments and Memorials](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/README.md)
 - [Subchapter 062 (LXII) - Miscellaneous](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/README.md)
@@ -3736,7 +3752,7 @@ I74subpart 1—designation and purposes
 - [Subchapter 121 (CXXI) - Jemez National Recreational Area](Subchapter%20121%20%28CXXI%29%20-%20Jemez%20National%20Recreational%20Area/README.md)
 - [Subchapter 122 (CXXII) - Boston Harbor Islands National Recreation Area](Subchapter%20122%20%28CXXII%29%20-%20Boston%20Harbor%20Islands%20National%20Recreation%20Area/README.md)
 - [Subchapter 123 (CXXIII) - Land Between the Lakes Protection](Subchapter%20123%20%28CXXIII%29%20-%20Land%20Between%20the%20Lakes%20Protection/README.md)
-- [Subchapter 124 (CXXIV) - Colorado Canyons National Conservation Area](Subchapter%20124%20%28CXXIV%29%20-%20Colorado%20Canyons%20National%20Conservation%20Area/README.md)
+- [Subchapter 124 (CXXIV) - McInnis Canyons National Conservation Area](Subchapter%20124%20%28CXXIV%29%20-%20McInnis%20Canyons%20National%20Conservation%20Area/README.md)
 - [Subchapter 125 (CXXV) - Steens Mountain Cooperative Management and Protection Area](Subchapter%20125%20%28CXXV%29%20-%20Steens%20Mountain%20Cooperative%20Management%20and%20Protection%20Area/README.md)
 - [Subchapter 126 (CXXVI) - Las Cienegas National Conservation Area](Subchapter%20126%20%28CXXVI%29%20-%20Las%20Cienegas%20National%20Conservation%20Area/README.md)
 - [Subchapter 127 (CXXVII) - Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area](Subchapter%20127%20%28CXXVII%29%20-%20Black%20Rock%20Desert-High%20Rock%20Canyon%20Emigrant%20Trails%20National%20Conservation%20Area/README.md)

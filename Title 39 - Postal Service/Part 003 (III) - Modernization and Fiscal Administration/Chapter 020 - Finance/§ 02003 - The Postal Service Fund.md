@@ -20,7 +20,7 @@
 
 &emsp;(8) any transfers from the Secretary of the Treasury from the Department of the Treasury Forfeiture Fund which shall be available to the Postmaster General only for Federal law enforcement related purposes.
 
-(c) If the Postal Service determines that the moneys of the Fund are in excess of current needs, it may request the investment of such amounts as it deems advisable by the Secretary of the Treasury in obligations of, or obligations guaranteed by, the Government of the United States, and, with the approval of the Secretary, in such other obligations or securities as it deems appropriate.
+(c) If the Postal Service determines that the moneys of the Fund are in excess of currentneeds, it may request the investment of such amounts as it deems advisable by the Secretary of the Treasury in obligations of, or obligations guaranteed by, the Government of the United States, and, with the approval of the Secretary, in such other obligations or securities as it deems appropriate.
 
 (d) With the approval of the Secretary of the Treasury, the Postal Service may deposit moneys of the Fund in any Federal Reserve bank, any depository for public funds, or in such other places and in such manner as the Postal Service and the Secretary may mutually agree.
 
@@ -141,10 +141,6 @@ and 1989.—
 &emsp;“(2)
 
 Capital investment programs.—For the purposes of paragraph (1) the term ‘capital investment program’ shall include all investments in long-term assets and capital investment expenditures (including direct and indirect costs associated with such investments and expenditures, such as obligations through contracts).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2001, 3604 of this title; title 18 section 2254; title 21 section 881; title 28 section 524; title 31 sections 3806, 9703; title 42 section 10601.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

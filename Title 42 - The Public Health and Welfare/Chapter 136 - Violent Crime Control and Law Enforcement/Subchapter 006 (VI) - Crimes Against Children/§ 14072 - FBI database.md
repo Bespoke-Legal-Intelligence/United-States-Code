@@ -196,10 +196,6 @@ Subsec. (i). Pub. L. 105–119, §115(a)(6)(C), inserted “or pursuant to secti
 
 For effective date of section, see section 10 of Pub. L. 104–236, as amended, set out as an Effective Date of 1996 Amendment note under section 14071 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14071 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>

@@ -1,6 +1,6 @@
 ### §299. Definitions
 
-(a) The expression “article of merchandise” as used in sections 294 to 300 of this title shall signify any goods, wares, works of art, commodity, or other thing which may be lawfully kept or offered for sale.
+(a) The expression “article of merchandise” as used in sections 294 to 300 of this title shall signify any goods, wares, works of art, commodity,or other thing which may be lawfully kept or offered for sale.
 
 (b) The term “person” means an individual, partnership, corporation, or any other form of business enterprise, capable of being in violation of sections 294 to 300 of this title.
 
@@ -23,8 +23,4 @@ For separability provision of Pub. L. 91–366, see section 2 of Pub. L. 91–36
 #### Construction of 1970 Amendment
 
 Amendment by Pub. L. 91–366 to be held to be in addition to and not in substitution for or limitation of the provisions of any other Act of the United States, see section 3 of Pub. L. 91–366, set out as a note under section 297 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 298, 300 of this title.
 

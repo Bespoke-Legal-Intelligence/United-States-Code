@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—INTERVENTION AND JUDICIAL REVIEW
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2613 of this title.
-
 
 ---
 

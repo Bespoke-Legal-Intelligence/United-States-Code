@@ -188,7 +188,3 @@ Report.—Not later than December 31, 2000, the Administrator shall transmit to 
 
 Authorization.—There is authorized to be appropriated to the Administrator to carry out this section $12,000,000 for each of fiscal years 2000, 2001, and 2002.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 40106, 40109, 44101, 44502, 46301, 46307, 46316 of this title.
-

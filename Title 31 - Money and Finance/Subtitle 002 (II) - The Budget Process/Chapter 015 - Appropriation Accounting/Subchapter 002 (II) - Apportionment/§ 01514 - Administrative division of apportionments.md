@@ -36,7 +36,3 @@ In subsection (a), the word “official” is substituted for “officer” for 
 
 In subsection (b), the words “dividing” and “division” are substituted for “subdivision” for consistency in the revised section. The word “appropriations” is substituted for “appropriations or funds” because of the definition of “appropriation” in section 1511 of the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1517 of this title; title 16 section 470m.
-

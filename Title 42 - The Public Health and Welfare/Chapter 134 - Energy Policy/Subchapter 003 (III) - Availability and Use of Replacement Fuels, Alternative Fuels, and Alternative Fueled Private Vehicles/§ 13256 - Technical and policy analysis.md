@@ -20,7 +20,3 @@ The Secretary shall publish a proposed version of each analysis under this secti
 
 (Pub. L. 102–486, title V, §506, Oct. 24, 1992, 106 Stat. 2891.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13257 of this title.
-

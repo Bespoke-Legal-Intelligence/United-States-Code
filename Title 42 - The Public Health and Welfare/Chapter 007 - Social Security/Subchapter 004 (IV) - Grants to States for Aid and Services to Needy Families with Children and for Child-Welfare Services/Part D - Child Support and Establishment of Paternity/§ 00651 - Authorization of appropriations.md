@@ -28,7 +28,7 @@ For effective date of amendment by section 395(d)(1)(A) of Pub. L. 104–193, se
 
 Section 2336 of Pub. L. 97–35 provided that:
 
-“(a) Except as otherwise specifically provided in the preceding sections of this chapter \[sections 2331–2335 of Pub. L. 97–35\] or in subsection (b), the provisions of this chapter and the amendments and repeals made by this chapter \[amending this section, sections 652, 653, 654, 657, and 664 of this title, and sections 6305 and 6402 of Title 26, Internal Revenue Code\] shall become effective on October 1, 1981.
+“(a) Except as otherwise specifically provided in the preceding sections of this chapter \[sections 2331–2335 of Pub. L. 97–35\] or in subsection (b), the provisions of thischapter and the amendments and repeals made by this chapter \[amending this section, sections 652, 653, 654, 657, and 664 of this title, and sections 6305 and 6402 of Title 26, Internal Revenue Code\] shall become effective on October 1, 1981.
 
 “(b) If a State agency administering a plan approved under part D of title IV of the Social Security Act \[this part\] demonstrates, to the satisfaction of the Secretary of Health and Human Services, that it cannot, by reason of State law, comply with the requirements of an amendment made by this chapter to which the effective date specified in subsection (a) applies, the Secretary may prescribe that, in the case of such State, the amendment will become effective beginning with the first month beginning after the close of the first session of such State's legislature ending on or after October 1, 1981. For purposes of the preceding sentence, the term ‘session of a State's legislature’ includes any regular, special, budget, or other session of a State legislature.”
 
@@ -118,7 +118,7 @@ In general.—The Secretary of Health and Human Services and the Secretary of La
 
 Requirements.—The National Medical Support Notice shall—
 
-&emsp;“(A) conform with the requirements which apply to medical child support orders under section 609(a)(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1169(a)(3)) in connection with group health plans (subject to section 609(a)(4) of such Act), irrespective of whether the group health plan is covered under section 4 of such Act \[29 U.S.C. 1003\];
+&emsp;“(A) conform with the requirements which apply to medical child support orders under section 609(a)(3) ofthe Employee Retirement Income Security Act of 1974 (29 U.S.C. 1169(a)(3)) in connection with group health plans (subject to section 609(a)(4) of such Act), irrespective of whether the group health plan is covered under section 4 of such Act \[29 U.S.C. 1003\];
 
 &emsp;“(B) conform with the requirements of part D of title IV of the Social Security Act \[this part\]; and
 
@@ -148,5 +148,5 @@ Final regulations.—Not later than 1 year after the issuance of the interim reg
 
 #### Authorization of Appropriations
 
-Subsec. 101(e) of Pub. L. 93–647 provided that: “There are authorized to be appropriated to the Secretary ofHealth, Education, and Welfare such sums as may be necessary to plan and prepare for the implementation of the program established by this section \[this part and section 6305 of Title 26, Internal Revenue Code\].”
+Subsec. 101(e) of Pub. L. 93–647 provided that: “There are authorized to be appropriated to the Secretary of Health, Education, and Welfare such sums as may be necessary to plan and prepare for the implementation of the program established by this section \[this part and section 6305 of Title 26, Internal Revenue Code\].”
 

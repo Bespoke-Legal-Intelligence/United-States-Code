@@ -12,7 +12,7 @@ The members of the Commission shall be allowed travel expenses, including per di
 
 #### (1) In general
 
-&emsp;The Director of the Office of Financial Education of the Department of the Treasury shallprovide assistance to the Commission, upon request of the Commission, without reimbursement.
+&emsp;The Director of the Office of Financial Education of the Department of the Treasury shall provide assistance to the Commission, upon request of the Commission, without reimbursement.
 
 #### (2) Detail of Government employees
 

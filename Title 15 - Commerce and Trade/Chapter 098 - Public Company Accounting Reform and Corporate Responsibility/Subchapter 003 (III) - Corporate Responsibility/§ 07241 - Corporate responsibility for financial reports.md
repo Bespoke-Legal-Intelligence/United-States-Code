@@ -6,7 +6,7 @@ The Commission shall, by rule, require, for each company filing periodic reports
 
 &emsp;(1) the signing officer has reviewed the report;
 
-&emsp;(2) based on the officer's knowledge, the report does not contain any untrue statement of a material fact or omit to state a materialfact necessary in order to make the statements made, in light of the circumstances under which such statements were made, not misleading;
+&emsp;(2) based on the officer's knowledge, the report does not contain any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements made, in light of the circumstances under which such statements were made, not misleading;
 
 &emsp;(3) based on such officer's knowledge, the financial statements, and other financial information included in the report, fairly present in all material respects the financial condition and results of operations of the issuer as of, and for, the periods presented in the report;
 
@@ -14,7 +14,7 @@ The Commission shall, by rule, require, for each company filing periodic reports
 
 &emsp;&emsp;(A) are responsible for establishing and maintaining internal controls;
 
-&emsp;&emsp;(B) have designed such internal controls to ensure that material information relating to the issuer and its consolidated subsidiaries is made known to such officers by others within those entities, particularly during the period in which the periodic reports are being prepared;
+&emsp;&emsp;(B) have designed such internal controls to ensure that material information relating to the issuer and its consolidated subsidiaries is made known to such officers by otherswithin those entities, particularly during the period in which the periodic reports are being prepared;
 
 &emsp;&emsp;(C) have evaluated the effectiveness of the issuer's internal controls as of a date within 90 days prior to the report; and
 
@@ -37,8 +37,4 @@ Nothing in this section shall be interpreted or applied in any way to allow any 
 The rules required by subsection (a) of this section shall be effective not later than 30 days after July 30, 2002.
 
 (Pub. L. 107–204, title III, §302, July 30, 2002, 116 Stat. 777.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 78<i>l</i> of this title.
 

@@ -14,7 +14,7 @@
 
 &emsp;(A) permits perfection of an interest in property to be effective against an entity that acquires rights in such property before the date of perfection; or
 
-&emsp;(B) provides for the maintenance or continuation of perfection of an interest in property to be effective against an entity that acquires rights in such property before the date on which action is taken to effect such maintenance or continuation.
+&emsp;(B) provides for the maintenance or continuation of perfection of an interest in property to be effective against an entity that acquiresrights in such property before the date on which action is taken to effect such maintenance or continuation.
 
 (2) If—
 
@@ -50,7 +50,7 @@
 
 (g) Notwithstanding sections 544, 545, 547, 548(a)(1)(B) and 548(b) of this title, the trustee may not avoid a transfer under a swap agreement, made by or to a swap participant, in connection with a swap agreement and that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
 
-(g) <sup>1</sup> Notwithstanding the rights and powers of a trustee under sections 544(a), 545, 547, 549, and 553, if the court determines on a motion by the trustee made not later than 120 days after the date of the order for relief in a case under chapter 11 of this title and after notice and a hearing, that a return is in the best interests of the estate, the debtor, with the consent of a creditor, may return goods shipped to the debtor by the creditor before the commencement of thecase, and the creditor may offset the purchase price of such goods against any claim of the creditor against the debtor that arose before the commencement of the case.
+(g) <sup>1</sup> Notwithstanding the rights and powers of a trustee under sections 544(a), 545, 547, 549, and 553, if the court determines on a motion by the trustee made not later than 120 days after the date of the order for relief in a case under chapter 11 of this title and after notice and a hearing, that a return is in the best interests of the estate, the debtor, with the consent of a creditor, may return goods shipped to the debtor by the creditor before the commencement of the case, and the creditor may offset the purchase price of such goods against any claim of the creditor against the debtor that arose before the commencement of the case.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 97–222, §4, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§351, 393, 461, July 10, 1984, 98 Stat. 358, 365, 377; Pub. L. 99–554, title II, §§257(d), 283(<i>l</i>), Oct. 27, 1986, 100 Stat. 3114, 3117; Pub. L. 101–311, title I, §103, title II, §203, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title II, §§204(b), 209, 216, 222(a), title V, §501(b)(4), Oct. 22, 1994, 108 Stat. 4122, 4125, 4126, 4129, 4142; Pub. L. 105–183, §3(c), June 19, 1998, 112 Stat. 518.)
 
@@ -129,10 +129,6 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 362, 552, 901 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(h)”.</i>
 

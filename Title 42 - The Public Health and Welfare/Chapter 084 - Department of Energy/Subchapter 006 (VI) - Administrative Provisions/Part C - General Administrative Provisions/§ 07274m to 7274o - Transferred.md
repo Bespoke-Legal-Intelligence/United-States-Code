@@ -10,7 +10,7 @@ Section 7274<i>o</i>, Pub. L. 104–201, div. C, title XXXI, §3159, Sept. 23, 1
 
 #### Submittal of Annual Report on Status of Security Functions at Nuclear Weapons Facilities
 
-Pub. L. 105–85, div. C, title XXXI, §3162, Nov. 18, 1997, 111 Stat. 2049, as amended by Pub. L. 106–65, div. C, title XXXI, §3142(h)(2), Oct. 5, 1999, 113 Stat. 934, which was formerly set out as a note under section 7274m of this title, was renumbered section 4506 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI,§3141(h)(7)(A)–(C), Nov. 24, 2003, 117 Stat. 1773, and is classified to section 2657 of Title 50, War and National Defense.
+Pub. L. 105–85, div. C, title XXXI, §3162, Nov. 18, 1997, 111 Stat. 2049, as amended by Pub. L. 106–65, div. C, title XXXI, §3142(h)(2), Oct. 5, 1999, 113 Stat. 934, which was formerly set out as a note under section 7274m of this title, was renumbered section 4506 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(7)(A)–(C), Nov. 24, 2003, 117 Stat. 1773, and is classified to section 2657 of Title 50, War and National Defense.
 
 #### Employee Incentives for Employees at Closure Project Facilities
 

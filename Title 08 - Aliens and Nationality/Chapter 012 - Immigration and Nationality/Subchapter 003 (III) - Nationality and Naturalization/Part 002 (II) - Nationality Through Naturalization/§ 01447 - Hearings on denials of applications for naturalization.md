@@ -56,7 +56,7 @@ Subsec. (e). Pub. L. 97–116, §15(d)(4), (5), redesignated subsec. (f) as (e).
 
 Subsec. (f). Pub. L. 97–116, §15(d)(5), redesignated subsec. (f) as (e).
 
-1969—Subsec. (c). Pub. L. 91–136 struck out requirement that Attorney General, as a prerequisite to waiver of the waiting period, make an affirmative finding that such waiver will promote the security of the United States, and further struck out the provision prohibiting the acquisition of citizenship by final oath within 60 days preceding a general election and prior to the tenth day following such election.
+1969—Subsec. (c). Pub. L. 91–136 struck out requirement that Attorney General, as a prerequisite to waiver of the waiting period, make an affirmative findingthat such waiver will promote the security of the United States, and further struck out the provision prohibiting the acquisition of citizenship by final oath within 60 days preceding a general election and prior to the tenth day following such election.
 
 #### Effective Date of 1991 Amendment
 
@@ -69,8 +69,4 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1421, 1427, 1445, 1446 of this title; title 18 section 1429.
 

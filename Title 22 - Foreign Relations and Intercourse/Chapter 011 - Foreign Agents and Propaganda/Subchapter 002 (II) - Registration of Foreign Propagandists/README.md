@@ -4,7 +4,7 @@
 
 Ex. Ord. No. 9176, May 29, 1942, 7 F.R. 4127, provided:
 
-By virtue of the authority vested in me by Title I of the First War Powers Act, 1941, approved December 18, 1941 (Public Law No. 354, 77th Congress \[section 601 etseq. of Title 50, Appendix, War and National Defense\]), and as President of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me by Title I of the First War Powers Act, 1941, approved December 18, 1941 (Public Law No. 354, 77th Congress \[section 601 et seq. of Title 50, Appendix, War and National Defense\]), and as President of the United States, it is hereby ordered as follows:
 
 1\. All functions, powers and duties of the Secretary of State under the act of June 8, 1938 (52 Stat. 631), as amended by the act of August 7, 1939 (53 Stat. 1244), requiring the registration of agents of foreign principals, are hereby transferred to and vested in the Attorney General.
 
@@ -17,10 +17,6 @@ By virtue of the authority vested in me by Title I of the First War Powers Act, 
 5\. This order shall become effective as of June 1, 1942.
 
 Franklin D Roosevelt.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3613 of this title; title 2 section 1602; title 8 section 1227; title 18 sections 219, 1956; title 48 section 1905; title 50 App. section 34.
 
 
 ---

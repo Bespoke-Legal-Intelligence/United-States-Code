@@ -20,7 +20,3 @@ Definition.—For purposes of this section, the term “directly affected covere
 
 (Added Pub. L. 103–440, title II, §203(a), Nov. 2, 1994, 108 Stat. 4619.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 21303 of this title.
-

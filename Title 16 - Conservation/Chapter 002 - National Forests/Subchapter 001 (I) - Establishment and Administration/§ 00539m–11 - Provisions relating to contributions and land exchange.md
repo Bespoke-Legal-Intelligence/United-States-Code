@@ -34,7 +34,7 @@
 
 #### (5) Failure to make offer
 
-&emsp;If the land exchange offer is not made by the date that is 180 days after February 20, 2003, the Secretary shall submit to the Committee on Energy and Natural Resources of theUnited States Senate and the Committee on Resources of the United States House of Representatives, a report explaining the reasons for the failure to make the offer including an assessment of the need for any additional legislation that may be necessary for the exchange. If additional legislation is not necessary, the Secretary, consistent with this section, should proceed with the exchange pursuant to existing law.
+&emsp;If the land exchange offer is not made by the date that is 180 days after February 20, 2003, the Secretary shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives, a report explaining the reasons for the failure to make the offer including an assessment of the need for any additional legislation that may be necessary for the exchange. If additional legislation is not necessary, the Secretary, consistent with this section, should proceed with the exchange pursuant to existing law.
 
 #### (c) Land acquisition and other compensation
 
@@ -85,10 +85,6 @@ Sections 539m to 539m–12 of this title, referred to in subsecs. (a)(1)(B) and 
 Section 1716(b) of title 43, referred to in subsec. (b)(2), was in the original “section 206(b) of the Federal Land Policy and Management Act” and was translated as reading “section 206(b) of the Federal Land Policy and Management Act of 1976” to reflect the probable intent of Congress.
 
 The Equal Access to Justice Act, referred to in subsec. (d)(2), is title II of Pub. L. 96–481, Oct. 21, 1980, 94 Stat. 2325, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 504 of Title 5, Government Organization and Employees, and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 539m, 539m–1, 539m–2, 539m–3, 539m–4, 539m–6, 539m–7, 539m–8, 539m–9, 539m–10, 539m–12 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “28”.</i>
 

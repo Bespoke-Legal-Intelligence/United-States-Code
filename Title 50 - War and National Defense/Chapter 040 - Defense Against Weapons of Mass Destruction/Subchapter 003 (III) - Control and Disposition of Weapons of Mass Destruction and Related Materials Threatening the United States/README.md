@@ -1,11 +1,5 @@
 ### SUBCHAPTER III—CONTROL AND DISPOSITION OF WEAPONS OF MASS DESTRUCTION AND RELATED MATERIALS THREATENING THE UNITED STATES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2361 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

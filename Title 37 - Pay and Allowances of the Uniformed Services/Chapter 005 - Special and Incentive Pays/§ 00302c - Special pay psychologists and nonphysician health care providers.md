@@ -38,7 +38,7 @@ Army, Navy, and Air Force Psychologists.—The Secretary of Defense may provide 
 
 Nonphysician Health Care Providers.—The Secretary concerned may authorize the payment of special pay at the rates specified in subsection (b) to an officer who—
 
-&emsp;(1) is an officer in the Medical Services Corps of the Army or Navy, a biomedical sciences officer in the Air Force, an officer in the Army Medical Specialist Corps, an officer of the Nurse Corps of the Army or Navy, an officer of the Air Force designated as a nurse, an officerof the Coast Guard or Coast Guard Reserve designated as a physician assistant, or an officer in the Regular or Reserve Corps of the Public Health Service;
+&emsp;(1) is an officer in the Medical Services Corps of the Army or Navy, a biomedical sciences officer in the Air Force, an officer in the Army Medical Specialist Corps, an officer of the Nurse Corps of the Army or Navy, an officer of the Air Force designated as a nurse, an officer of the Coast Guard or Coast Guard Reserve designated as a physician assistant, or an officer in the Regular or Reserve Corps of the Public Health Service;
 
 &emsp;(2) is a health care provider (other than a psychologist);
 
@@ -50,7 +50,7 @@ Nonphysician Health Care Providers.—The Secretary concerned may authorize the 
 
 #### Prior Provisions
 
-A prior section 302c, added Pub. L. 96–284, §3(a)(1), June 28, 1980, 94 Stat. 589, related to special pay for medical officers of the Public Health Service, prior to repeal by Pub. L. 96–513, title IV, §414(a), Dec. 12, 1980, 94 Stat. 2906, eff. Sept. 15, 1981.
+A prior section 302c, added Pub. L. 96–284, §3(a)(1), June 28, 1980, 94 Stat. 589, related to special pay formedical officers of the Public Health Service, prior to repeal by Pub. L. 96–513, title IV, §414(a), Dec. 12, 1980, 94 Stat. 2906, eff. Sept. 15, 1981.
 
 #### Amendments
 
@@ -109,8 +109,4 @@ Section 704(d) of Pub. L. 101–189 provided that: “The Secretary of Defense m
 &emsp;“(2) describing the manner in which that authority will be implemented.”
 
 \[Report submitted to Committees on Apr. 20, 1994.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 302f, 303, 303a, 303b of this title.
 

@@ -142,7 +142,7 @@ Nothing in this subchapter or the amendments made by this subchapter shall requi
 
 #### (<i>l</i>) Consideration of factors
 
-In carrying out this section, the Secretary shall take into consideration energy security, costs, safety, lead time requirements, vehicle miles traveled annually, effect on greenhouse gases, technological feasibility, energy requirements, economic impacts, including impacts on workers and the impact on consumers (including users of the alternative fuel for purposes such as for residences, agriculture, process use, and non-fuel purposes) and fleets, the availability of alternative fuels and alternative fueled vehicles, and other relevant factors.
+In carrying out this section, the Secretary shall take into consideration energy security, costs, safety, lead time requirements, vehicle miles traveled annually, effect on greenhouse gases, technological feasibility, energy requirements, economic impacts, including impacts on workers and the impact on consumers (includingusers of the alternative fuel for purposes such as for residences, agriculture, process use, and non-fuel purposes) and fleets, the availability of alternative fuels and alternative fueled vehicles, and other relevant factors.
 
 #### (m) Consultation and participation of other Federal agencies
 
@@ -150,7 +150,7 @@ In carrying out this section and section 13256 of this title, the Secretary shal
 
 #### (n) Petitions
 
-As part of the rule promulgated either pursuant to subsection (b) or (g) of this section, the Secretary shall establish procedures for any fleet owner or operator or motor vehicle manufacturer to request that the Secretary modify or suspend a fleet requirement program established under either subsection nationally, by region, or in an applicable fleet area because, as demonstrated by the petitioner, the infrastructure or fuel supply or distribution system for an applicable alternative fuel is inadequate to meetthe needs of a fleet. In the event that the Secretary determines that a modification or suspension of the fleet requirement program on a regional basis would detract from the nationwide character of any fleet requirement program established by rule or would sufficiently diminish the economies of scale for the production of alternative fueled vehicles or alternative fuels and thereafter the practicability and effectiveness of such program, the Secretary may only modify or suspend the program nationally. The procedures shall include provisions for notice and public hearings. The Secretary shall deny or grant the petition within 180 days after filing.
+As part of the rule promulgated either pursuant to subsection (b) or (g) of this section, the Secretary shall establish procedures for any fleet owner or operator or motor vehicle manufacturer to request that the Secretary modify or suspend a fleet requirement program established under either subsection nationally, by region, or in an applicable fleet area because, as demonstrated by the petitioner, the infrastructure or fuel supply or distribution system for an applicable alternative fuel is inadequate to meet the needs of a fleet. In the event that the Secretary determines that a modification or suspension of the fleet requirement program on a regional basis would detract from the nationwide character of any fleet requirement program established by rule or would sufficiently diminish the economies of scale for the production of alternative fueled vehicles or alternative fuels and thereafter the practicability and effectiveness of such program, the Secretary may only modify or suspend the program nationally. The procedures shall include provisions for notice and public hearings. The Secretary shall deny or grant the petition within 180 days after filing.
 
 #### (<i>o</i>) Mandatory State fleet programs
 
@@ -181,8 +181,4 @@ This subchapter, referred to in subsecs. (b)(1)(A), (e)(1)(A), (g)(3), (j), and 
 #### Codification
 
 In subsecs. (b)(1)(C)(ii) and (<i>o</i>)(2)(B), “chapter 301 of title 49” substituted for “the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1381 et seq.\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13256, 13259, 13261 of this title.
 

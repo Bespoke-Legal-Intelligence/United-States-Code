@@ -4,7 +4,3 @@ In the formulation of remedies under section 1712 or 1713 of this title the line
 
 (Pub. L. 93–380, title II, §216, Aug. 21, 1974, 88 Stat. 518.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1713 of this title.
-

@@ -34,7 +34,7 @@ Eligible activities to be conducted by institutions of higher education pursuant
 
 #### (c) Applications
 
-No grant may be made and no contract may be entered into under this section unless an institution of higher education submits an application to the Secretary at such time and in such manner as the Secretary may reasonably require. Each such application shall be accompanied by a copy of the agreement entered into by the institution of higher education with a business enterprise, trade organization or association engaged in international economic activity, or a combination or consortium of such enterprises, organizations or associations, forthe purpose of establishing, developing, improving or expanding activities eligible for assistance under subsection (b) of this section. Each such application shall contain assurances that the institution of higher education will use the assistance provided under this section to supplement and not to supplant activities conducted by institutions of higher education described in subsection (b) of this section.
+No grant may be made and no contract may be entered into under this section unless an institution of higher education submits an application to the Secretary at such time and in such manner as the Secretary may reasonably require. Each such application shall be accompanied by a copy of the agreement entered into by the institution of higher education with a business enterprise, trade organization or association engaged in international economic activity, or a combination or consortium of such enterprises, organizations or associations, for the purpose of establishing, developing, improving or expanding activities eligible for assistance under subsection (b) of this section. Each such application shall contain assurances that the institution of higher education will use the assistance provided under this section to supplement and not to supplant activities conducted by institutions of higher education described in subsection (b) of this section.
 
 #### (d) Federal share
 
@@ -57,8 +57,4 @@ A prior section 613 of Pub. L. 89–329 was renumbered section 614 and is classi
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1130b of this title.
 

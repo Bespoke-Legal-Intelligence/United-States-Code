@@ -16,7 +16,3 @@ Any record required to be maintained by this section shall be maintained for suc
 
 (Mar. 4, 1907, ch. 2907, title II, §202, as added Pub. L. 90–201, §14, Dec. 15, 1967, 81 Stat. 593.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 645, 661, 678 of this title.
-

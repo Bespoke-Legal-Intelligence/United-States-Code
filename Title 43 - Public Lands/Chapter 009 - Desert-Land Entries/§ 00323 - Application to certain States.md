@@ -20,7 +20,3 @@ The Territories of Washington, Idaho, Montana, Utah, Wyoming, Arizona, New Mexic
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 321, 322, 324, 326, 328, 329, 333, 641, 1303 of this title; title 16 section 460iii–2.
-

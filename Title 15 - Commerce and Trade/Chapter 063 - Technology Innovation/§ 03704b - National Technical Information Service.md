@@ -120,10 +120,6 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 Pub. L. 102–395, title II, Oct. 6, 1992, 106 Stat. 1853, provided that: “For establishment of a National Technical Information Service Revolving Fund, $8,000,000 without fiscal year limitation: <i>Provided</i>, That unexpended balances in Information Products and Services shall be transferred to and merged with this account, to remain available until expended. Notwithstanding 15 U.S.C. 1525 and 1526, all payments collected by the National Technical Information Service in performing its activities authorized by chapters 23 and 63 of title 15 of the United States Code shall be credited to this Revolving Fund. Without further appropriations action, all expenses incurred in performing the activities of the National Technical Information Service, including modernization, capital equipment and inventory, shall be paid from the fund. A business-type budget for the fund shall be prepared in the manner prescribed by 31 U.S.C. 9103.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3704b–2 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

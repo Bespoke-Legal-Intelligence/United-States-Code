@@ -34,7 +34,7 @@
 
 #### (2) Exceptions
 
-&emsp;Paragraph (1) and the provisions relating to wages (pursuant to paragraph (1)) in any contract or agreement for assistance, sale, or lease pursuant to this chapter, shall not apply to any individual who receives no compensation or is paid expenses, reasonable benefits, or a nominal fee to perform the services for which the individual volunteered and who is not otherwise employed at any time in the construction work.
+&emsp;Paragraph (1) and the provisions relating to wages (pursuant to paragraph (1)) in any contract or agreement for assistance, sale, or lease pursuant to this chapter, shall not apply to any individual who receives no compensation or is paid expenses, reasonable benefits, or a nominal fee to perform the services forwhich the individual volunteered and who is not otherwise employed at any time in the construction work.
 
 #### (3) Application of tribal laws
 

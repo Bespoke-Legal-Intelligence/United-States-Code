@@ -8,7 +8,3 @@ Prior to and concurrent with the making or guaranteeing of any loan under subcha
 
 1984—Pub. L. 98–449 amended section generally, inserting “Prior to and” and “for preparation of the application and/or administration of funds granted”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1542 of this title.
-

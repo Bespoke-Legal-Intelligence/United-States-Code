@@ -8,18 +8,21 @@
 | (a) | Establishment; authorization of appropriations. |
 | (b) | Breakfast assistance payments to State educational agencies; calculation; national average payments for breakfasts, free breakfasts and reduced price breakfasts; maximum price for reduced cost breakfasts; minimum daily nutrition requirements criteria; additional payments for severe need schools; maximum severe need payments. |
 | (c) | Disbursement of apportioned funds by State; preference for schools in poor economic areas, for students traveling long distances daily, and for schools for improvement of nutrition and dietary practices of children of working mothers and from low-income families. |
-| (d) | Severe need assistance; eligibility standards; receipt of lesser of operating costs of breakfast program or meal reimbursement rate. |
+| (d) | Severe need assistance. |
 | (e) | Nutritional requirements; service free or at reduced price; compliance assistance. |
 | [1774\.](%C2%A7%2001774%20-%20Disbursement%20directly%20to%20schools%20or%20institutions.md) | Disbursement directly to schools or institutions. |
 | [1775\.](%C2%A7%2001775%20-%20Certification%20to%20Secretary%20of%20the%20Treasury%20of%20amounts%20to%20be%20paid%20to%20States.md) | Certification to Secretary of the Treasury of amounts to be paid to States. |
 | [1776\.](%C2%A7%2001776%20-%20State%20administrative%20expenses.md) | State administrative expenses. |
-| (a) | Amount available; formula for computation of payment; improved program integrity and meal quality; use for costs of administration of programs for which allocation made; retention of funds by Secretary. |
+| (a) | Amount and allocation of funds. |
 | (b) | Funds, usage: compensation, benefits, and travel expenses of personnel; support services; office equipment; staff development. |
 | (c) | Fund adjustment; State administered programs. |
 | (d) | Unused funds; availability for obligation and expenditure, and reallocation to other States. |
-| (e) | State plan; use of funds. |
+| (e) | Plans for use of administrative expense funds. |
 | (f) | State funding requirement. |
-| (g) | Authorization of appropriations. |
+| (g) | State training. |
+| (h) | Funding for training and administrative reviews. |
+| (i) | Technology infrastructure improvement. |
+| (j) | Authorization of appropriations. |
 | 1776a, 1776b. Omitted. |  |
 | [1777\.](%C2%A7%2001777%20-%20Use%20in%20school%20breakfast%20program%20of%20food%20designated%20as%20being%20in%20abundance%20or%20food%20donated%20by%20the%20Secretary%20of%20Agriculture.md) | Use in school breakfast program of food designated as being in abundance or food donated by the Secretary of Agriculture. |
 | [1778\.](%C2%A7%2001778%20-%20Nonprofit%20programs.md) | Nonprofit programs. |
@@ -40,7 +43,7 @@
 | (d) | Eligible participants. |
 | (e) | Nutrition education and drug abuse education. |
 | (f) | Plan of operation and administration by State agency. |
-| (g) | Authorization of appropriations; allocation of funds; estimate of families having income below limit for participation. |
+| (g) | Authorization of appropriations. |
 | (h) | Funds for nutrition services and administration. |
 | (i) | Division of funds formula; reallocation of unspent funds; use of State allocation to buy supplemental foods; use of amounts available for succeeding fiscal year. |
 | (j) | Initiative to provide program services at community and migrant health centers. |
@@ -51,18 +54,20 @@
 | (<i>o</i>) | Disqualification of vendors convicted of trafficking or illegal sales. |
 | (p) | Criminal forfeiture. |
 | (q) | Provision of technical assistance to Secretary of Defense. |
-| (r) | Demonstration project relating to use of the WIC program for identification and enrollment of children in certain health programs. |
 | [1787\.](%C2%A7%2001787%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7730%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202305.md) | Repealed. |
-| [1788\.](%C2%A7%2001788%20-%20Nutrition%20education%20and%20training.md) | Nutrition education and training. |
-| (a) | Congressional findings. |
-| (b) | Statement of purpose. |
-| (c) | “Nutrition education and training program” defined. |
-| (d) | Nutrition education and training; grants; coordination with other nutrition activities; coordination with Department of Health and Human Services: transfer of funds; State contracts: nutrition training grants and pilot projects. |
-| (e) | Agreements with State agencies; regulations. |
-| (f) | Use of funds; planning and assessment grants; administrative expenses. |
-| (g) | Accounts, records, and reports; inspection, audit, and preservation. |
-| (h) | State coordinators for nutrition; duties; budget and need assessment. |
-| (i) | Authorization of appropriations. |
+| [1788\.](%C2%A7%2001788%20-%20Team%20nutrition%20network.md) | Team nutrition network. |
+| (a) | Purposes. |
+| (b) | Definition of team nutrition network. |
+| (c) | Grants. |
+| (d) | Allocation. |
+| (e) | Requirements for State participation. |
+| (f) | State coordinator. |
+| (g) | Authorized activities. |
+| (h) | Local nutrition and physical activity grants. |
+| (i) | Nutrition education support. |
+| (j) | Limitation. |
+| (k) | Team nutrition network independent evaluation. |
+| (<i>l</i>) | Authorization of appropriations. |
 | [1789\.](%C2%A7%2001789%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md) | Department of Defense overseas dependents’ schools. |
 | (a) | Purpose of program; availability of payments and commodities. |
 | (b) | Administration of program; eligibility determinations and regulations. |
@@ -83,10 +88,6 @@
 | (f) | Construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1752, 1755, 1758, 1759a, 1760, 1761, 1762a, 1765, 1766, 1766a, 1769, 1769h, 1776a, 1776b of this title; title 7 sections 2018, 4004; title 8 sections 1255a, 1613, 1615, 1632; title 20 sections 6082, 7182.
 
 
 ---
@@ -111,7 +112,7 @@ This chapter is referred to in sections 1752, 1755, 1758, 1759a, 1760, 1761, 176
 - [&sect; 01785 - Accounts and records; availability for inspection; authority to settle, adjust, or waive claims](%C2%A7%2001785%20-%20Accounts%20and%20records%3B%20availability%20for%20inspection%3B%20authority%20to%20settle%2C%20adjust%2C%20or%20waive%20claims.md)
 - [&sect; 01786 - Special supplemental nutrition program for women, infants, and children](%C2%A7%2001786%20-%20Special%20supplemental%20nutrition%20program%20for%20women%2C%20infants%2C%20and%20children.md)
 - [&sect; 01787 - Repealed. Pub. L. 104&#8211;193, title VII, &sect;730, Aug. 22, 1996, 110 Stat. 2305](%C2%A7%2001787%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7730%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202305.md)
-- [&sect; 01788 - Nutrition education and training](%C2%A7%2001788%20-%20Nutrition%20education%20and%20training.md)
+- [&sect; 01788 - Team nutrition network](%C2%A7%2001788%20-%20Team%20nutrition%20network.md)
 - [&sect; 01789 - Department of Defense overseas dependents&#8217; schools](%C2%A7%2001789%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md)
 - [&sect; 01790 - Breastfeeding promotion program](%C2%A7%2001790%20-%20Breastfeeding%20promotion%20program.md)
 - [&sect; 01791 - Bill Emerson Good Samaritan Food Donation Act](%C2%A7%2001791%20-%20Bill%20Emerson%20Good%20Samaritan%20Food%20Donation%20Act.md)

@@ -57,7 +57,3 @@ In the case of one or more withdrawals of an employer attributable to the same s
 
 (Pub. L. 93–406, title IV, §4225, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1243.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1381, 1386, 1391, 1401, 1403 of this title.
-

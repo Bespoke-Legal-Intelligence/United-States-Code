@@ -72,7 +72,3 @@ In clause (11)(C), the words “aviation regulations” are substituted for “F
 
 For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 22nd item on page 132 and the 10th item on page 135 of House Document No. 103–7.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 46301 of this title.
-

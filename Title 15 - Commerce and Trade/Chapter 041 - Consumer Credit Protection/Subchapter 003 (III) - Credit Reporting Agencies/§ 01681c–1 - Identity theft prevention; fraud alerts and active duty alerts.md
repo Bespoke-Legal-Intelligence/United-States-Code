@@ -120,7 +120,3 @@ Pub. L. 108–159, title I, §151(b), Dec. 4, 2003, 117 Stat. 1964, provided tha
 
 \[For definitions of terms used in section 151(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1681j, 1681s, 1681t of this title.
-

@@ -40,7 +40,7 @@ The program shall be operated under such rules and regulations issued by the Sec
 
 (1) The payments made under the program shall be made at a rate or rates established or approved by the Secretary, taking into consideration, among other things the type of product to be exported, the domestic price of dairy products, the world price of the dairy products, and any additional amount that may be required to assist in the development of world markets for United States dairy products.
 
-(2) Any such rate established or approved by the Secretary shall be published in the FederalRegister or publicly announced through other appropriate means, and shall be at a level or levels as will encourage the exportation of United States dairy products by entities.
+(2) Any such rate established or approved by the Secretary shall be published in the Federal Register or publicly announced through other appropriate means, and shall be at a level or levels as will encourage the exportation of United States dairy products by entities.
 
 #### (f) Required funding
 
@@ -91,8 +91,4 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–435 effective and implemented on Oct. 1, 1988, see section 701(a) of Pub. L. 100–435, set out as a note under section 2012 of Title 7, Agriculture.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 sections 7502, 7983; title 22 section 7201.
 

@@ -10,7 +10,3 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1178 of this title, and prior thereto to section 78 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4199 of this title.
-

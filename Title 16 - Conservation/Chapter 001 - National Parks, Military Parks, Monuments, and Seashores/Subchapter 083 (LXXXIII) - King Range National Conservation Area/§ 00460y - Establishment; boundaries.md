@@ -4,7 +4,3 @@ The Secretary of the Interior (hereinafter referred to as the “Secretary”) i
 
 (Pub. L. 91–476, §1, Oct. 21, 1970, 84 Stat. 1067.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460y–8 of this title.
-

@@ -34,9 +34,5 @@ The Student Loan Reform Act of 1993, referred to in subsec. (a)(2), is subtitle 
 
 Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1087c, 1087e of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

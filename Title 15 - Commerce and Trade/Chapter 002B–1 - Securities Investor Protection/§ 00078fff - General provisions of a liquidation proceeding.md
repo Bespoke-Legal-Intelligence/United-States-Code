@@ -42,7 +42,7 @@ This chapter, referred to in subsecs. (a)(1), (3), (b), (c), and (d), was in the
 
 1978—Pub. L. 95–283 substituted “General provisions of a liquidation proceeding” for “Liquidation proceedings” in section catchline.
 
-Subsec. (a). Pub. L. 95–283 in heading substituted “Purposes” for “General purposes of liquidation proceeding”, in introductory text substituted provisions relating to purposes of liquidation proceedings under this chapter, for provisions relating to purposes of any proceeding in which a trustee has been appointed under section 78eee(b)(3) of this title, in par. (1) substituted provisions requiring execution of authorities to deliver customer name securities and distribute customer property in accordance with this chapter, for provisions requiring execution of authorities to return specifically identifiable property and distribute the single and separate fund in accordance with this section, and in par. (2) substituted provisions authorizing sale, etc., of productive units of the debtor, for provisions authorizing operation of the business of the debtor.
+Subsec. (a). Pub. L. 95–283 in heading substituted “Purposes” for “General purposes of liquidation proceeding”, in introductory text substituted provisions relating to purposes of liquidation proceedings under this chapter, for provisions relating to purposes of any proceeding in which a trustee has been appointed undersection 78eee(b)(3) of this title, in par. (1) substituted provisions requiring execution of authorities to deliver customer name securities and distribute customer property in accordance with this chapter, for provisions requiring execution of authorities to return specifically identifiable property and distribute the single and separate fund in accordance with this section, and in par. (2) substituted provisions authorizing sale, etc., of productive units of the debtor, for provisions authorizing operation of the business of the debtor.
 
 Subsec. (b). Pub. L. 95–598, §308(g), in heading substituted “title 11” for “Bankruptcy Act” and in text “under chapters 1, 3, and 5 and subchapters I and II of chapter 7 of title 11. For the purposes of applying such title in carrying out this section, a reference in such title to the date of the filing of the petition shall be deemed to be a reference to the filing date under this chapter.” for “under, the Bankruptcy Act. For purposes of applying the Bankruptcy Act to this chapter, any reference in the Bankruptcy Act to the date of commencement of proceedings under the Bankruptcy Act shall be deemed to be a reference to the filing date under this chapter.”
 
@@ -69,8 +69,4 @@ Subsec. (j). Pub. L. 95–283 struck out subsec. (j) which related to nonapplica
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78fff–2, 78<i>lll</i> of this title.
 

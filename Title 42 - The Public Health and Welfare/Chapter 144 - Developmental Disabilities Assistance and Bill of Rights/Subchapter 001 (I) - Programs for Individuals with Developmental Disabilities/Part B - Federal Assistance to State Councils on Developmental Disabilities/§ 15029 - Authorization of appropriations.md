@@ -16,7 +16,3 @@ Except as described in subsection (b) of this section, there are authorized to b
 
 (Pub. L. 106–402, title I, §129, Oct. 30, 2000, 114 Stat. 1712.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15022, 15081, 15083 of this title.
-

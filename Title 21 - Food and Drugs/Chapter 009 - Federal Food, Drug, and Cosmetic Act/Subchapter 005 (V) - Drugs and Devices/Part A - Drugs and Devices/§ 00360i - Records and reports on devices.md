@@ -40,7 +40,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 > &emsp;&emsp;unless such report or information is necessary to determine if the device should be reclassified or if the device is adulterated or misbranded. and <sup>1</sup>
 
-> In prescribing such regulations, the Secretary shall have due regard for the professional ethics of the medical profession and the interests of patients. The prohibitions of paragraph (7) of thissubsection continue to apply to records, reports, and information concerning any individual who has been a patient, irrespective of whether or when he ceases to be a patient. The Secretary shall by regulation require distributors to keep records and make such records available to the Secretary upon request. Paragraphs (4) and (8) apply to distributors to the same extent and in the same manner as such paragraphs apply to manufacturers and importers.
+> In prescribing such regulations, the Secretary shall have due regard for the professional ethics of the medical profession and the interests of patients. The prohibitions of paragraph (7) of this subsection continue to apply to records, reports, and information concerning any individual who has been a patient, irrespective of whether or when he ceases to be a patient. The Secretary shall by regulation require distributors to keep records and make such records available to the Secretary upon request. Paragraphs (4) and (8) apply to distributors to the same extent and in the same manner as such paragraphs apply to manufacturers and importers.
 
 #### (b) User reports
 
@@ -182,7 +182,7 @@ Subsec. (d). Pub. L. 105–115, §213(a)(2), struck out heading and text of subs
 
 Subsec. (e). Pub. L. 105–115, §211, amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “Every person who registers under section 360 of this title and is engaged in the manufacture of—
 
-&emsp;“(1) a device the failure of which would be reasonably likely to have serious adverse health consequences and which is (A) a permanently implantabledevice, or (B) a life sustaining or life supporting device used outside a device user facility, or
+&emsp;“(1) a device the failure of which would be reasonably likely to have serious adverse health consequences and which is (A) a permanently implantable device, or (B) a life sustaining or life supporting device used outside a device user facility, or
 
 &emsp;“(2) any other device which the Secretary may designate,
 
@@ -207,6 +207,10 @@ Subsecs. (b), (c). Pub. L. 101–629, §2(a), added subsec. (b) and redesignated
 Subsecs. (d), (e). Pub. L. 101–629, §3(b)(1), added subsecs. (d) and (e).
 
 Subsec. (f). Pub. L. 101–629, §7, added subsec. (f).
+
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1997 Amendment
 
@@ -283,10 +287,6 @@ Section 2(e) of Pub. L. 101–629 directed Comptroller General of the United Sta
 #### Report to Congress on Reporting Requirements for Device User Facilities
 
 Section 2(f) of Pub. L. 101–629 directed Secretary of Health and Human Services, not later than 36 months after Nov. 28, 1990, to prepare and submit to appropriate committees of Congress a report containing an evaluation of the requirements of 21 U.S.C. 360i(b), consisting of an evaluation of the safety benefits of the requirements, the burdens placed on the Food and Drug Administration and on device user facilities by the requirements, and the cost-effectiveness of the requirements and recommendations for legislative reform.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 333, 352, 360c, 360e, 360g, 360j, 374 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

@@ -12,7 +12,3 @@ Act Mar. 3, 1911, vested jurisdiction in “district” courts, instead of “ci
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys of the United States”. See section 541 et seq. of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5 of this title.
-

@@ -146,7 +146,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 &emsp;&emsp;&emsp;&emsp;(II) 5, including 2 governmental employees, shall be appointed for a term of 2 years, and
 
-&emsp;&emsp;&emsp;&emsp;(III) 5, including 2 governmental employees, shall be appointed for a term of1 year, as designated by the Secretary at the time of appointment.
+&emsp;&emsp;&emsp;&emsp;(III) 5, including 2 governmental employees, shall be appointed for a term of 1 year, as designated by the Secretary at the time of appointment.
 
 #### (iii) Continuation
 
@@ -178,7 +178,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 &emsp;&emsp;(D) A review of urban and community forestry research, including—
 
-&emsp;&emsp;&emsp;(i) a review of all ongoing research associated with urban and community forests, arboricultural practices, and the economic, social, and psychological benefits of trees and forest cover in urban and community environments being conducted by the Forest Service, other Federal agencies, and associated land grant colleges and universities;
+&emsp;&emsp;&emsp;(i) a review of all ongoing research associated with urban and community forests, arboricultural practices, and the economic, social, and psychological benefitsof trees and forest cover in urban and community environments being conducted by the Forest Service, other Federal agencies, and associated land grant colleges and universities;
 
 &emsp;&emsp;&emsp;(ii) recommendations for new and expanded research efforts directed toward urban and community forestry concerns; and
 
@@ -220,7 +220,7 @@ For the purposes of this section—
 
 #### (i) Authorization of appropriations
 
-There are hereby authorized to be appropriated $30,000,000 for each of the fiscal years1991 through 1995, and such sums as may be necessary for each fiscal year thereafter, for the implementation of this section.
+There are hereby authorized to be appropriated $30,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each fiscal year thereafter, for the implementation of this section.
 
 (Pub. L. 95–313, §9, formerly §6, July 1, 1978, 92 Stat. 369; renumbered §9 and amended Pub. L. 101–624, title XII, §§1215(1), 1219(a), Nov. 28, 1990, 104 Stat. 3525, 3533; Pub. L. 102–237, title X, §1018(a)(3), Dec. 13, 1991, 105 Stat. 1905.)
 
@@ -241,8 +241,4 @@ Subsec. (h)(2). Pub. L. 102–237, §1018(a)(3)(D), substituted “subsection (g
 #### Termination of Advisory Councils
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2106b, 2109 of this title.
 

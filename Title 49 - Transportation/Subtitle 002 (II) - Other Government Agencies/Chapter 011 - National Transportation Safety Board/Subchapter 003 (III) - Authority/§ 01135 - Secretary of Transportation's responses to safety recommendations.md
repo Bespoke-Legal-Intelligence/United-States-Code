@@ -2,7 +2,7 @@
 
 (a)
 
-General.—When the National Transportation Safety Board submits a recommendation about transportation safety to the Secretary of Transportation, the Secretary shall give a formal written response to each recommendationnot later than 90 days after receiving the recommendation. The response shall indicate whether the Secretary intends—
+General.—When the National Transportation Safety Board submits a recommendation about transportation safety to the Secretary of Transportation, the Secretary shall give a formal written response to each recommendation not later than 90 days after receiving the recommendation. The response shall indicate whether the Secretary intends—
 
 &emsp;(1) to carry out procedures to adopt the complete recommendation;
 
@@ -100,11 +100,11 @@ Failure To Report.—If the Board has not received a report required to be submi
 
 #### NTSB Safety Recommendations
 
-Pub. L. 107–355, §19, Dec. 17, 2002, 116 Stat. 3009, provided that:
+Pub. L. 107–355, §19, Dec. 17, 2002, 116 Stat. 3009, as amended by Pub. L. 108–426, §2(c)(3), Nov. 30, 2004, 118 Stat. 2424, provided that:
 
 “(a)
 
-In General.—The Secretary of Transportation, the Administrator of Research and Special Program Administration, and the Director of the Office of Pipeline Safety shall fully comply with section 1135 of title 49, United States Code, to ensure timely responsiveness to National Transportation Safety Board recommendations about pipeline safety.
+In General.—The Secretary of Transportation, the Administrator of Pipeline and Hazardous Materials Safety Administration, and the Director of the Office of Pipeline Safety shall fully comply with section 1135 of title 49, United States Code, to ensure timely responsiveness to National Transportation Safety Board recommendations about pipeline safety.
 
 “(b)
 

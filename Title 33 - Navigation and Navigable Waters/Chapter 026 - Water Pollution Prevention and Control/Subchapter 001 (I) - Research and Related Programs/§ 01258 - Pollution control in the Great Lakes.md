@@ -24,7 +24,3 @@ There is authorized to be appropriated $5,000,000 to carry out the provisions of
 
 (June 30, 1948, ch. 758, title I, §108, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 828.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1376 of this title.
-

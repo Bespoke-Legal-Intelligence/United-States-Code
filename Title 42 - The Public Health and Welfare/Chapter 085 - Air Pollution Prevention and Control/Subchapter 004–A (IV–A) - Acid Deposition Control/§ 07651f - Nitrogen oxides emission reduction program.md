@@ -66,10 +66,6 @@ If the permitting authority determines, in accordance with regulations issued by
 
 Part B of title III, referred to in subsecs. (d) and (e), means title III of the Clean Air Act, act July 14, 1955, ch. 360, as added, which is classified to subchapter III of this chapter, but title III does not contain parts. For provisions of the Clean Air Act relating to permits, see subchapter V (§7661 et seq.) of this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7651g, 7651j of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

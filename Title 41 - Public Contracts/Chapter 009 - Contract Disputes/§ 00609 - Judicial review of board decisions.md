@@ -22,7 +22,7 @@ If two or more suits arising from one contract are filed in the United States Co
 
 #### (e) Judgments as to fewer than all claims
 
-In any suit filed pursuant to this chapter involving two or more claims, counterclaims, cross-claims, or third-party claims, and where a portion of one such claim can be divided for purposes of decision or judgment, and in any such suit where multiple parties are involved, thecourt, whenever such action is appropriate, may enter a judgment as to one or more but fewer than all of the claims, portions thereof, or parties.
+In any suit filed pursuant to this chapter involving two or more claims, counterclaims, cross-claims, or third-party claims, and where a portion of one such claim can be divided for purposes of decision or judgment, and in any such suit where multiple parties are involved, the court, whenever such action is appropriate, may enter a judgment as to one or more but fewer than all of the claims, portions thereof, or parties.
 
 #### (f) Advisory opinions
 
@@ -59,8 +59,4 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 603 of this title; title 5 section 9003; title 10 section 2410m; title 22 sections 3861, 3862; title 28 sections 1295, 1346, 1491.
 

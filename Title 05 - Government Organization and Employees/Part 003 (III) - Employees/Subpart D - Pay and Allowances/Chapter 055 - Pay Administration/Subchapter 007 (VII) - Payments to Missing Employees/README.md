@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—PAYMENTS TO MISSING EMPLOYEES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5307, 5520a of this title; title 10 section 1511; title 18 section 1923; title 22 section 3970; title 50 App. section 1291.
-
 
 ---
 

@@ -14,7 +14,3 @@ Pub. L. 101–82, §502(2), temporarily substituted “any fiscal year in which 
 
 Section 502(2) of Pub. L. 101–82 provided in part that amendment by section 502(2) of Pub. L. 101–82 is effective only for fiscal year 1989.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3811, 3821 of this title.
-

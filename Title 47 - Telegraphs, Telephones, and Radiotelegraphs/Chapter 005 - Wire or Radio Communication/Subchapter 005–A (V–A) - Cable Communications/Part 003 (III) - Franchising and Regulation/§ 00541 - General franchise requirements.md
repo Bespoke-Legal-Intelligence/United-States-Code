@@ -42,7 +42,7 @@
 
 &emsp;(ii) to discontinue the operation of a cable system, to the extent such cable system is used for the provision of a telecommunications service, by reason of the failure of such cable operator or affiliate thereof to obtain a franchise or franchise renewal under this subchapter with respect to the provision of such telecommunications service.
 
-(D) Except as otherwise permitted by sections 531 and 532 of this title, a franchising authority may not require a cable operator to provide any telecommunications service or facilities, other than institutional networks, as a condition of the initial grant of a franchise, a franchise renewal, or a transfer of a franchise.
+(D) Except as otherwise permitted by sections 531 and 532 of this title, a franchising authority may not require a cable operator to provide any telecommunications service or facilities, otherthan institutional networks, as a condition of the initial grant of a franchise, a franchise renewal, or a transfer of a franchise.
 
 #### (c) Status of cable system as common carrier or utility
 
@@ -91,8 +91,4 @@ Amendment by Pub. L. 102–385 effective 60 days after Oct. 5, 1992, see section
 #### Effective Date
 
 Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 522, 532, 555 of this title.
 

@@ -78,7 +78,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (e) Prohibition on branded advertising
 
-A program or project conducted under this chapter shall not make any reference to private brand names or use false or unwarranted claims on behalf of fluid milk products, or false or unwarranted statements with respect to the attributes or use of any competing products, except that this subsection shall not preclude theBoard from offering its programs and projects for use by commercial parties, under such terms and conditions as the Board may prescribe as approved by the Secretary.
+A program or project conducted under this chapter shall not make any reference to private brand names or use false or unwarranted claims on behalf of fluid milk products, or false or unwarranted statements with respect to the attributes or use of any competing products, except that this subsection shall not preclude the Board from offering its programs and projects for use by commercial parties, under such terms and conditions as the Board may prescribe as approved by the Secretary.
 
 #### (f) Contracts and agreements
 
@@ -160,7 +160,7 @@ A program or project conducted under this chapter shall not make any reference t
 
 #### (4) Penalty
 
-&emsp;Any person violating this subsection, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if such person is an agent of the Board or an officer or employee of the Department, shall be removed from office.
+&emsp;Any person violating this subsection, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if such personis an agent of the Board or an officer or employee of the Department, shall be removed from office.
 
 #### (5) Withholding information
 
@@ -197,8 +197,4 @@ The Secretary shall provide annually for an independent evaluation of the effect
 The order also shall contain such terms and conditions, not inconsistent with this chapter, as are necessary to effectuate this chapter, including regulations relating to the assessment of late payment charges.
 
 (Pub. L. 101–624, title XIX, §1999H, Nov. 28, 1990, 104 Stat. 3916.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6402 of this title.
 

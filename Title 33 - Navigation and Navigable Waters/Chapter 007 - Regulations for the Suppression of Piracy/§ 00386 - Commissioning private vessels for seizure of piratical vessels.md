@@ -8,7 +8,3 @@ The President is authorized to instruct the commanders of the public-armed vesse
 
 R.S. §4298 derived from act Aug. 5, 1861, ch. 48, §2, 12 Stat. 315.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 385 of this title.
-

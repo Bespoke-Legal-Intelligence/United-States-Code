@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized, in his discretion and upon submissi
 
 (Mar. 3, 1931, ch. 448, §2, 46 Stat. 1514.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 408d, 408e of this title.
-

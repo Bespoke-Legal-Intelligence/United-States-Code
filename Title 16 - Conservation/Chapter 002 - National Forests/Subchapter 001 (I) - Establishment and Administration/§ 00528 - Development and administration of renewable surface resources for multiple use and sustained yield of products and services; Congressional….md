@@ -6,7 +6,7 @@ It is the policy of the Congress that the national forests are established and s
 
 #### Short Title
 
-Section 5 of Pub. L. 86–517, as added Pub. L. 94–588, §19, Oct. 22, 1976, 90 Stat. 2962, provided that: “This Act\[enacting this section and sections 529 to 531 of this title\] may be cited as the ‘Multiple-Use Sustained-Yield Act of 1960’.”
+Section 5 of Pub. L. 86–517, as added Pub. L. 94–588, §19, Oct. 22, 1976, 90 Stat. 2962, provided that: “This Act \[enacting this section and sections 529 to 531 of this title\] may be cited as the ‘Multiple-Use Sustained-Yield Act of 1960’.”
 
 #### Pilot Program of Charges and Fees for Harvest of Forest Botanical Products
 
@@ -62,7 +62,7 @@ Funds available.—Funds deposited into the special account in accordance with p
 
 &emsp;“(3)
 
-Authorized uses.—The funds made available under paragraph (2) shall be expended at units of the National Forest System in proportion to the fees collected at that unit under subsection (c) to pay for the costs of conducting inventories of forest botanical products, determining sustainable levels of harvest, monitoring and assessing the impacts of harvest levels and methods, conducting restoration activities, including any necessary vegetation, and covering costs of the Department of Agriculture described in subsection (c)(1).
+Authorized uses.—The funds made available under paragraph (2) shall be expended at units of the National Forest System in proportion to the fees collected at that unit under subsection (c) to pay for the costs of conducting inventories of forest botanical products, determining sustainable levels of harvest,monitoring and assessing the impacts of harvest levels and methods, conducting restoration activities, including any necessary vegetation, and covering costs of the Department of Agriculture described in subsection (c)(1).
 
 &emsp;“(4)
 
@@ -106,13 +106,5 @@ Collection of fees.—The Secretary of Agriculture may collect fees under the au
 
 Use of special account.—The Secretary may make expenditures from the special account under subsection (f) until September 30 of the fiscal year following the last fiscal year specified in paragraph (1). After that date, amounts remaining in the special account shall be transferred to the general fund of the Treasury.”
 
-\[Pub. L. 108–108, §335(3), which directed amendment of section 1000(a)(3) \[title III, §339(d)(1)\] of Pub. L. 106–113, set out above, was executed to to section 1000(a)(3) \[title III, §339(e)(1)\] of Pub. L. 106–113 to reflect the probable intent of Congress.\]
-
-#### Act Referred to in Other Sections
-
-The Multiple-Use Sustained-Yield Act of 1960 is referred to in sections 472a, 670h, 698v–1, 1133, 1600, 1602, 1604, 1607 of this title; title 30 section 1272.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 529, 530, 531 of this title.
+\[Pub. L. 108–108, §335(3), which directed amendment of section 1000(a)(3) \[title III, §339(d)(1)\] of Pub. L. 106–113, set out above, was executed to section 1000(a)(3) \[title III, §339(e)(1)\] of Pub. L. 106–113 to reflect the probable intent of Congress.\]
 

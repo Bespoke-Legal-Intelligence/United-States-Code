@@ -14,7 +14,7 @@ The President is authorized to transfer excess defense articles under this secti
 
 &emsp;(C) the transfer of such articles will not have an adverse impact on the military readiness of the United States;
 
-&emsp;(D) with respect to a proposed transfer of such articles on a grant basis, such a transfer is preferable to a transfer on a sales basis, after taking into account the potential proceeds from, and likelihood of, such sales, and the comparative foreign policy benefits that may accrue to the United States as the result of a transfer on either a grant or sales basis;
+&emsp;(D) with respect to a proposed transfer of such articles on a grant basis, such a transferis preferable to a transfer on a sales basis, after taking into account the potential proceeds from, and likelihood of, such sales, and the comparative foreign policy benefits that may accrue to the United States as the result of a transfer on either a grant or sales basis;
 
 &emsp;(E) the President determines that the transfer of such articles will not have an adverse impact on the national technology and industrial base and, particularly, will not reduce the opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are transferred; and
 
@@ -30,7 +30,7 @@ The President is authorized to transfer excess defense articles under this secti
 
 #### (2) Priority
 
-&emsp;Notwithstanding any other provision of law, the delivery of excess defense articles underthis section to member countries of the North Atlantic Treaty Organization (NATO) on the southern and southeastern flank of NATO, to major non-NATO allies on such southern and southeastern flank, and to the Philippines shall be given priority to the maximum extent feasible over the delivery of such excess defense articles to other countries.
+&emsp;Notwithstanding any other provision of law, the delivery of excess defense articles under this section to member countries of the North Atlantic Treaty Organization (NATO) on the southern and southeastern flank of NATO, to major non-NATO allies on such southern and southeastern flank, and to the Philippines shall be given priority to the maximum extent feasible over the delivery of such excess defense articles to other countries.
 
 #### (d) Waiver of requirement for reimbursement of Department of Defense expenses
 
@@ -96,7 +96,7 @@ For purposes of this section, the term “excess defense articles” shall be de
 
 Section 573(e) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990, referred to in subsec. (b)(2), is section 573(e) of Pub. L. 101–167, which is set out in a note below.
 
-The Arms Export Control Act, referred to in subsec. (f)(1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, asamended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (f)(1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Prior Provisions
 
@@ -164,7 +164,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Mediterranean Excess Defense Articles
 
-Pub. L. 104–208, div. A, title I, §101(c) \[title V, §535\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–153, provided that: “For the four-year period beginning on October 1, 1996, the President shall ensure that excess defense articles will be made available under section\[s\] 516 and 519 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2321j, 2321m\] consistent with the manner in which the President made available excess defense articles under those sections during the four-year period that began on October 1, 1992, pursuant to section 573(e) of the ForeignOperations, Export Financing, Related Programs Appropriations Act, 1990 \[Pub. L. 101–167, set out below\].”
+Pub. L. 104–208, div. A, title I, §101(c) \[title V, §535\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–153, provided that: “For the four-year period beginning on October 1, 1996, the President shall ensure that excess defense articles will be made available under section\[s\] 516 and 519 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2321j, 2321m\] consistent with the manner in which the President made available excess defense articles under those sections during the four-year period that began on October 1, 1992, pursuant to section 573(e) of the Foreign Operations, Export Financing, Related Programs Appropriations Act, 1990 \[Pub. L. 101–167, set out below\].”
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -266,7 +266,7 @@ Major Illicit Drug Producing Countries in Latin America and the Caribbean.—
 
 &emsp;“(1)
 
-Purpose.—Excess defense articles shall be transferred under subsection (a)(2) for the purpose of encouraging the military forces of an eligible country in Latin America and the Caribbean to participate with local law enforcement agencies in a comprehensive national antinarcotics program, conceived and developed by the government of that country, by conducting activities within that country and on the high seas to prevent the production, processing, trafficking, transportation, and consumption of illicit narcotic or psychotrophic \[sic\] drugs or other controlled substances.
+Purpose.—Excess defense articles shall be transferred under subsection (a)(2) for the purpose ofencouraging the military forces of an eligible country in Latin America and the Caribbean to participate with local law enforcement agencies in a comprehensive national antinarcotics program, conceived and developed by the government of that country, by conducting activities within that country and on the high seas to prevent the production, processing, trafficking, transportation, and consumption of illicit narcotic or psychotrophic \[sic\] drugs or other controlled substances.
 
 &emsp;“(2)
 
@@ -301,10 +301,6 @@ Provisions similar to those appearing in section 573(e) of Pub. L. 101–167, se
 Pub. L. 100–461, title V, §569, Oct. 1, 1988, 102 Stat. 2268–43.
 
 Pub. L. 100–202, §101(e) \[title V, §582\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–182.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 287e–2, 2305 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “four-year period”.</i>
 

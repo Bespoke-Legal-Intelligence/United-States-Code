@@ -6,7 +6,7 @@ Any company desiring to secure the benefits of sections 687a, 687a–2 to 687a�
 
 #### Repeal of Section
 
-<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on</i><i>and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
+<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
 
 #### References in Text
 
@@ -23,10 +23,6 @@ Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-wa
 #### Transfer of Functions
 
 “Such officer as the Secretary of the Interior may designate” substituted in text for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land office to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 942–1, 942–3, 942–4, 942–6, 942–7, 942–8 of this title; title 16 section 3215.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

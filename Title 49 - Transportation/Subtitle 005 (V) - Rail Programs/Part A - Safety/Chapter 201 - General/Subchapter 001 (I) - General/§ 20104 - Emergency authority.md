@@ -48,7 +48,3 @@ In subsection (b), the words “the Secretary” are added for clarity.
 
 In subsection (c), the words “issue an order” are substituted for “seek relief” for consistency in this section. The words “The action must be brought in the judicial district” are substituted for “for the judicial district” for consistency in the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 20111, 20114 of this title.
-

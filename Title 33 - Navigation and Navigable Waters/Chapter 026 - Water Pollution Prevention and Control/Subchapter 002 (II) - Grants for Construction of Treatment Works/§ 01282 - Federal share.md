@@ -52,7 +52,3 @@ Subsec. (a)(2). Pub. L. 96–483, §9(b), inserted provision relating to the mod
 
 Act July 9, 1956, ch. 518, §4, 70 Stat. 507, authorized the Surgeon General to promulgate Federal shares under the Federal Water Pollution Control Grant Program as soon as possible after July 9, 1956, in the manner specified in the Water Pollution Control Act, act June 30, 1948, ch. 758, 62 Stat. 1155, and provided that such shares were to be conclusive for the purposes of section 5 of act June 30, 1948.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1255, 1281, 1283, 1285 of this title.
-

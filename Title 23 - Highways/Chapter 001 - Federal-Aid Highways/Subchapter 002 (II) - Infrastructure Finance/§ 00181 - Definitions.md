@@ -58,7 +58,7 @@ Project.—The term “project” means—
 
 &emsp;&emsp;(C) a project for intercity passenger bus or rail facilities and vehicles, including facilities and vehicles owned by the National Railroad Passenger Corporation and components of magnetic levitation transportation systems; and
 
-&emsp;&emsp;(D) a project for publicly owned intermodal surface freight transfer facilities,other than seaports and airports, if the facilities are located on or adjacent to National Highway System routes or connections to the National Highway System.
+&emsp;&emsp;(D) a project for publicly owned intermodal surface freight transfer facilities, other than seaports and airports, if the facilities are located on or adjacent to National Highway System routes or connections to the National Highway System.
 
 &emsp;(10)
 
@@ -204,7 +204,7 @@ Qualifying Projects.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2), funds in an infrastructure bank established under this section may be used only to provide assistance with respect to projects eligible for assistance under title 23, United States Code, for capital projects (as defined in section 5302 of title 49, United States Code), or for any other project related to surface transportation that the Secretary determines to be appropriate.
+In general.—Subject to paragraph (2), funds in an infrastructure bank established under this sectionmay be used only to provide assistance with respect to projects eligible for assistance under title 23, United States Code, for capital projects (as defined in section 5302 of title 49, United States Code), or for any other project related to surface transportation that the Secretary determines to be appropriate.
 
 &emsp;“(2)
 
@@ -328,7 +328,7 @@ Funding.—
 
 &emsp;“(1)
 
-Separate accounts.—An infrastructure bank established under this section shall maintain a separate highway account for Federal funds contributed to the bank under paragraph (2) and a separate transit account for Federal funds contributed to the bank under paragraph (3). No Federal funds contributed or credited to an account of an infrastructure bank established under this section may be commingled with Federal funds contributed or credited to any other account of such bank.
+Separate accounts.—An infrastructure bank established under this section shall maintain a separate highway account for Federal funds contributed to the bank under paragraph (2) and a separate transit account for Federal funds contributed to the bank under paragraph (3). No Federal funds contributed or credited to an account of an infrastructure bank established under this section may be commingled withFederal funds contributed or credited to any other account of such bank.
 
 &emsp;“(2)
 

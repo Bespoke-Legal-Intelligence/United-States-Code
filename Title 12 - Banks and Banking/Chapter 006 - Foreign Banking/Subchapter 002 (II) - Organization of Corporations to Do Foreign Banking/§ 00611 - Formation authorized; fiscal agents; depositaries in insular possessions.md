@@ -24,7 +24,3 @@ Words “in the Philippine Islands and” following “Canal Zone, or” were de
 
 Section 25A, formerly section 25(a) of act Dec. 23, 1913, ch. 6, as added by act Dec. 24, 1919, ch. 18, 41 Stat. 378, which is classified to this subchapter, is popularly known as the “Edge Act”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 612, 615 of this title.
-

@@ -32,7 +32,3 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 In this section, before clause (1), the words “from time to time” are omitted as unnecessary. In clauses (1) and (2), the word “just” is omitted as being included in “reasonable”. In clause (1), the word “groups” is omitted as being included in “classifications”. The words “transportation provided” are substituted for “services performed” for consistency in the revised title. In clause (2), the word “requirements” is substituted for “rules and regulations pursuant to and consistent with the provisions of this subchapter” as being more appropriate and for consistency in the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41110 of this title.
-

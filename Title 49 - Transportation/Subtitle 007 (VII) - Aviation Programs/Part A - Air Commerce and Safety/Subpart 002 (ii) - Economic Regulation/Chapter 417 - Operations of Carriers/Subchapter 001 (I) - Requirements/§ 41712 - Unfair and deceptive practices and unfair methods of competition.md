@@ -42,7 +42,3 @@ The words “such action by” are omitted as surplus. The words “opportunity 
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41110, 46301 of this title.
-

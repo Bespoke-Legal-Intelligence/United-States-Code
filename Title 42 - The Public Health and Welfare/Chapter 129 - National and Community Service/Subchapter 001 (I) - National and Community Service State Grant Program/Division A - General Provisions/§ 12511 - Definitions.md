@@ -122,7 +122,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(A) individuals between the ages of 5 and 17, inclusive; and
 
-&emsp;&emsp;(B) children with disabilities, as defined in section 602(a)(1) <sup>1</sup> of the Individuals with Disabilities Education Act (20 U.S.C. 1401(a)(1)), who receive services under part B of such Act \[20 U.S.C. 1411 et seq.\].
+&emsp;&emsp;(B) children with disabilities, as defined in section 602 of the Individuals with Disabilities Education Act (20 U.S.C. 1401), who receive services under part B of such Act \[20 U.S.C. 1411 et seq.\].
 
 #### (22) Secondary school
 
@@ -156,7 +156,7 @@ For purposes of this subchapter:
 
 #### (26) State
 
-&emsp;The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands. The term also includes Palau, untilsuch time as the Compact of Free Association is ratified.
+&emsp;The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands. The term also includes Palau, until such time as the Compact of Free Association is ratified.
 
 #### (27) State Commission
 
@@ -170,7 +170,7 @@ For purposes of this subchapter:
 
 &emsp;The term “student” means an individual who is enrolled in an elementary or secondary school or institution of higher education on a full- or part-time basis.
 
-(Pub. L. 101–610, title I, §101, Nov. 16, 1990, 104 Stat. 3129; Pub. L. 102–10, §3, Mar. 12, 1991, 105 Stat. 29; Pub. L. 102–384, §3, Oct. 5, 1992, 106 Stat. 1455; Pub. L. 103–82, title I, §111(a), Sept. 21, 1993, 107 Stat. 857; Pub. L. 103–382, title III, §394(h)(1), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 105–220, title IV, §414(g), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–244, title I, §102(a)(13)(K), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 107–110, title X, §1076(ff), Jan. 8, 2002, 115 Stat. 2093.)
+(Pub. L. 101–610, title I, §101, Nov. 16, 1990, 104 Stat. 3129; Pub. L. 102–10, §3, Mar. 12, 1991, 105 Stat. 29; Pub. L. 102–384, §3, Oct. 5, 1992, 106 Stat. 1455; Pub. L. 103–82, title I, §111(a), Sept. 21, 1993, 107 Stat. 857; Pub. L. 103–382, title III, §394(h)(1), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 105–220, title IV, §414(g), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–244, title I, §102(a)(13)(K), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 107–110, title X, §1076(ff), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 108–446, title III, §305(m), Dec. 3, 2004, 118 Stat. 2806.)
 
 #### References in Text
 
@@ -180,11 +180,13 @@ This chapter, referred to in pars. (15) and (17)(A)(ii), was in the original “
 
 The Domestic Volunteer Service Act of 1973, referred to in par. (15), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in par. (21)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20, Education. Section 602 of the Act, which was classified to section 1401 of Title 20, was omitted in the general amendment of subchapter I of chapter 33 of Title 20 by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602, which is classified to section 1401 of Title 20, and contains provisions defining “child with a disability”. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (21)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 For ratification of Compact of Free Association with Palau, referred to in par. (26), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
 #### Amendments
+
+2004—Par. (21)(B). Pub. L. 108–446 substituted “section 602” for “section 602(a)(1)” and “1401” for “1401(a)(1)”.
 
 2002—Pars. (8), (14), (22), (28). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
 
@@ -237,10 +239,4 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2751, 12524, 12531, 12561, 12604, 12605, 12653b, 12682 of this title; title 20 section 1003.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

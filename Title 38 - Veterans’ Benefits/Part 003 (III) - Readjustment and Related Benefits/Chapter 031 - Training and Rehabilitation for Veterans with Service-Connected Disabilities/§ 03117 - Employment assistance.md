@@ -56,7 +56,3 @@ Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3106 of this title.
-

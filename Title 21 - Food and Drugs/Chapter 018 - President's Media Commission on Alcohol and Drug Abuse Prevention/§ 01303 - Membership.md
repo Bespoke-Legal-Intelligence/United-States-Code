@@ -34,7 +34,3 @@ The Commission shall be composed of 12 members appointed by the President within
 
 (Pub. L. 99–570, title VIII, §8004, Oct. 27, 1986, 100 Stat. 3207–162.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1304 of this title.
-

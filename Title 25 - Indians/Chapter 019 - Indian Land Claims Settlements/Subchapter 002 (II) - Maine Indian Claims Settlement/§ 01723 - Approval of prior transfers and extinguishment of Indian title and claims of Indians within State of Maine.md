@@ -26,7 +26,3 @@ The provisions of this section shall take effect immediately upon appropriation 
 
 The Trade and Intercourse Act of 1790, Act of July 22, 1790 (ch. 33, Sec. 4, 1 Stat. 137, 138), referred to in subsec. (a)(1), was not classified to the Code. See sections 177, 179, 180, 193, 194, 201, 229, 230, 251, 263, and 264 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1724, 1725, 1734 of this title.
-

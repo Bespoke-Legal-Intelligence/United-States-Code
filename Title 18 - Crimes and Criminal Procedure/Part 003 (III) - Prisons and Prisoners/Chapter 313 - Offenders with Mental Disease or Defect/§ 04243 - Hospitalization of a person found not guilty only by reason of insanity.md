@@ -2,7 +2,7 @@
 
 (a)
 
-Determination of Present Mental Condition of Acquitted Person.—If a person is foundnot guilty only by reason of insanity at the time of the offense charged, he shall be committed to a suitable facility until such time as he is eligible for release pursuant to subsection (e).
+Determination of Present Mental Condition of Acquitted Person.—If a person is found not guilty only by reason of insanity at the time of the offense charged, he shall be committed to a suitable facility until such time as he is eligible for release pursuant to subsection (e).
 
 (b)
 
@@ -42,11 +42,11 @@ Discharge.—When the director of the facility in which an acquitted person is h
 
 (g)
 
-Revocation of Conditional Discharge.—The director of a medical facility responsible for administering a regimen imposed on an acquitted person conditionally discharged under subsection (f) shall notify the Attorney General and the court having jurisdiction over the person of any failure of the person to comply with the regimen. Upon such notice, or upon other probable cause to believe that the person has failed to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, the person may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. The court shall, after a hearing, determine whether the person should be remanded to a suitable facility on the ground that, in light of his failure to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, his continued release would create a substantial risk of bodily injury to another person or serious damage to property of another.
+Revocation of Conditional Discharge.—The director of a medical facility responsible for administering a regimen imposed on an acquitted person conditionally discharged under subsection (f) shall notify the Attorney General and the court having jurisdiction over the person of any failure of the person to comply with the regimen. Upon such notice, or upon other probable cause to believe that the person has failed tocomply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, the person may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. The court shall, after a hearing, determine whether the person should be remanded to a suitable facility on the ground that, in light of his failure to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, his continued release would create a substantial risk of bodily injury to another person or serious damage to property of another.
 
 (h)
 
-Limitations on Furloughs.—An individual who is hospitalized under subsection (e) of this section after being found not guilty only by reason of insanity of an offense for which subsection (d) of this section creates a burden of proof of clear and convincing evidence, mayleave temporarily the premises of the facility in which that individual is hospitalized only—
+Limitations on Furloughs.—An individual who is hospitalized under subsection (e) of this section after being found not guilty only by reason of insanity of an offense for which subsection (d) of this section creates a burden of proof of clear and convincing evidence, may leave temporarily the premises of the facility in which that individual is hospitalized only—
 
 &emsp;(1) with the approval of the committing court, upon notice to the attorney for the Government and such individual, and after opportunity for a hearing;
 
@@ -118,7 +118,7 @@ Section 301(b) of Pub. L. 104–294 provided that: “Notwithstanding any provis
 
 &emsp;“(1) not later than 30 days after the date of enactment of this Act \[Oct. 11, 1996\], shall provide to the Attorney General copies of all records in the custody or control of the District or the Hospital on such date of enactment pertaining to persons described in section 4243(i) of title 18, United States Code (as added by subsection (a));
 
-&emsp;“(2) not later than 30 days after the creation of any records by employees, agents, or contractors of the District of Columbia or of St. Elizabeth's Hospital pertaining to persons described in section 4243(i) of title 18, United States Code, provide to the Attorney General copies of all such records created after the date of enactment of this Act;
+&emsp;“(2) not later than 30 days after the creation of any records by employees, agents, or contractors of theDistrict of Columbia or of St. Elizabeth's Hospital pertaining to persons described in section 4243(i) of title 18, United States Code, provide to the Attorney General copies of all such records created after the date of enactment of this Act;
 
 &emsp;“(3) shall not prevent or impede any employee, agent, or contractor of the District of Columbia or of St. Elizabeth's Hospital who has obtained knowledge of the persons described in section 4243(i) of title 18, United States Code, in the employee's professional capacity from providing that knowledge to the Attorney General, nor shall civil or criminal liability attach to such employees, agents, or contractors who provide such knowledge; and
 
@@ -127,8 +127,4 @@ Section 301(b) of Pub. L. 104–294 provided that: “Notwithstanding any provis
 #### Clarification of Effect on Certain Testimonial Privileges
 
 Section 301(c) of Pub. L. 104–294 provided that: “The amendments made by this section \[amending this section and enacting provisions set out as notes above\] shall not be construed to affect in any manner any doctor-patient or psychotherapist-patient testimonial privilege that may be otherwise applicable to persons found not guilty by reason of insanity and affected by this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3154, 3603, 4247 of this title; title 10 section 876b; title 28 section 1826.
 

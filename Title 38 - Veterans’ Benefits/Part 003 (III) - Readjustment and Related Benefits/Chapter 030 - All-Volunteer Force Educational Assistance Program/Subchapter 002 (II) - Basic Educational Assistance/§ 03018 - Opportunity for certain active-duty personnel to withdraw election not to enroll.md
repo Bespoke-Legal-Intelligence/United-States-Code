@@ -10,7 +10,7 @@
 
 > shall have the opportunity, in accordance with this section and on such form as the Secretary of Defense shall prescribe, to withdraw an election made under section 3011(c)(1) or 3012(d)(1) of this title not to receive educational assistance under this chapter.
 
-(b) An individual described in clauses (1) through (3) of subsection (a) of this section whomade an election under section 3011(c)(1) or 3012(d)(1) of this title and who—
+(b) An individual described in clauses (1) through (3) of subsection (a) of this section who made an election under section 3011(c)(1) or 3012(d)(1) of this title and who—
 
 &emsp;(1) while serving on active duty during the open period, makes a withdrawal of such an election;
 
@@ -89,8 +89,4 @@ Section 309(b) of Pub. L. 102–568 provided that: “The amendment made by subs
 #### Effective Date of 1991 Amendment
 
 Section 506(b)(2) of Pub. L. 102–86 provided that the amendment made by that section is effective as of Dec. 18, 1989.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3013, 3015, 3016, 3017, 3021 of this title.
 

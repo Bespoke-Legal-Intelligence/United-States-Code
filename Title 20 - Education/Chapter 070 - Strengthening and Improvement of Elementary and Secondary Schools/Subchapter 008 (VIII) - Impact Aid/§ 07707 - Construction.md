@@ -46,7 +46,7 @@
 
 &emsp;From 60 percent of the amount appropriated for each fiscal year under section 7714(e) of this title, the Secretary—
 
-&emsp;&emsp;(A) shall award emergency grants in accordance with this subsection to eligible local educational agencies to enable theagencies to carry out emergency repairs of school facilities; and
+&emsp;&emsp;(A) shall award emergency grants in accordance with this subsection to eligible local educational agencies to enable the agencies to carry out emergency repairs of school facilities; and
 
 &emsp;&emsp;(B) shall award modernization grants in accordance with this subsection to eligible local educational agencies to enable the agencies to carry out the modernization of school facilities.
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;&emsp;(III) The agency has an assessed value of real property per student that may be taxed for school purposes that is less than the average of the assessed value of real property per student that may be taxed for school purposes in the State in which the local educational agency is located.
 
-&emsp;&emsp;(ii) A local educational agency is also eligible to receive a modernization grant underthis subparagraph if the agency is eligible to receive assistance under section 7702 of this title for the fiscal year and meets the requirements of subclauses (II) and (III) of clause (i).
+&emsp;&emsp;(ii) A local educational agency is also eligible to receive a modernization grant under this subparagraph if the agency is eligible to receive assistance under section 7702 of this title for the fiscal year and meets the requirements of subclauses (II) and (III) of clause (i).
 
 #### (D) Special rule
 
@@ -265,8 +265,4 @@
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, and effective with respect to appropriations for use under this subchapter for fiscal year 2002, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7714 of this title.
 

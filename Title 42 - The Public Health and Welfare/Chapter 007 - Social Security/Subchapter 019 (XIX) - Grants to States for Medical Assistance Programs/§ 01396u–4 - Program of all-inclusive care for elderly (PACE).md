@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(C) resides in the service area of the PACE program; and
 
-&emsp;&emsp;(D) meets such other eligibility conditions as may be imposed under the PACE program agreement for the program under subsection (e)(2)(A)(ii) of this section.
+&emsp;&emsp;(D) meets such other eligibility conditions as may be imposed under the PACE programagreement for the program under subsection (e)(2)(A)(ii) of this section.
 
 #### (6) “PACE protocol” defined
 
@@ -68,7 +68,7 @@
 
 #### (7) “PACE demonstration waiver program” defined
 
-&emsp;For purposes of this section, the term “PACE demonstration waiver program”means a demonstration program under either of the following sections (as in effect before the date of their repeal):
+&emsp;For purposes of this section, the term “PACE demonstration waiver program” means a demonstration program under either of the following sections (as in effect before the date of their repeal):
 
 &emsp;&emsp;(A) Section 603(c) of the Social Security Amendments of 1983 (Public Law 98–21), as extended by section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985 (Public Law 99–272).
 
@@ -130,7 +130,7 @@
 
 #### (4) Reference to related provision for services covered under this subchapter but not under subchapter XVIII
 
-&emsp;For provisions relating to limitations on payments to providers participating under the State plan under this subchapter that do not have a contract or other agreement with a PACE provider establishing payment amounts for services covered under such plan (but notunder subchapter XVIII of this chapter) when such services are furnished to enrollees of that PACE provider, see section 1396a(a)(67) of this title.
+&emsp;For provisions relating to limitations on payments to providers participating under the State plan under this subchapter that do not have a contract or other agreement with a PACE provider establishing payment amounts for services covered under such plan (but not under subchapter XVIII of this chapter) when such services are furnished to enrollees of that PACE provider, see section 1396a(a)(67) of this title.
 
 #### (c) Eligibility determinations
 
@@ -268,7 +268,7 @@
 
 #### (A) Annual, close oversight during trial period
 
-&emsp;&emsp;During the trial period (as defined in subsection (a)(9) of this section) with respect to a PACE program operated by a PACE provider, the Secretary (in cooperation with the State administering agency) shall conduct a comprehensive annual review of the operation of the PACE program by the provider in order to assure compliance with the requirements of this section and regulations. Such a review shall include—
+&emsp;&emsp;During the trial period (as defined in subsection (a)(9) of this section) with respect to a PACE program operated by a PACE provider, the Secretary (in cooperation with theState administering agency) shall conduct a comprehensive annual review of the operation of the PACE program by the provider in order to assure compliance with the requirements of this section and regulations. Such a review shall include—
 
 &emsp;&emsp;&emsp;(i) an onsite visit to the program site;
 
@@ -352,7 +352,7 @@
 
 #### (B) Flexibility
 
-&emsp;&emsp;In order to provide for reasonable flexibility in adapting the PACE service deliverymodel to the needs of particular organizations (such as those in rural areas or those that may determine it appropriate to use nonstaff physicians according to State licensing law requirements) under this section and section 1395eee of this title, the Secretary (in close consultation with State administering agencies) may modify or waive provisions of the PACE protocol so long as any such modification or waiver is not inconsistent with and would not impair the essential elements, objectives, and requirements of this section, but may not modify or waive any of the following provisions:
+&emsp;&emsp;In order to provide for reasonable flexibility in adapting the PACE service delivery model to the needs of particular organizations (such as those in rural areas or those that may determine it appropriate to use nonstaff physicians according to State licensing law requirements) under this section and section 1395eee of this title, the Secretary (in close consultation with State administering agencies) may modify or waive provisions of the PACE protocol so long as any such modification or waiver is not inconsistent with and would not impair the essential elements, objectives, and requirements of this section, but may not modify or waive any of the following provisions:
 
 &emsp;&emsp;&emsp;(i) The focus on frail elderly qualifying individuals who require the level of care provided in a nursing facility.
 
@@ -406,7 +406,7 @@ With respect to carrying out a PACE program under this section, the following re
 
 #### (1) In general
 
-&emsp;In order to demonstrate the operation of a PACE program by a private, for-profit entity, the Secretary (in close consultation with State administering agencies) shall grant waivers from the requirement under subsection (a)(3) of this section that a PACE provider may not be a for-profit, private entity.
+&emsp;In order to demonstrate the operation of a PACE program by a private, for-profit entity, the Secretary (in close consultation with State administering agencies) shall grantwaivers from the requirement under subsection (a)(3) of this section that a PACE provider may not be a for-profit, private entity.
 
 #### (2) Similar terms and conditions
 
@@ -465,10 +465,6 @@ Amendment by Pub. L. 108–173 applicable to services furnished on or after Jan.
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–554 effective as if included in the enactment of Pub. L. 105–33, see section 1(a)(6) \[title IX, §902(c)\] of Pub. L. 106–554, set out as a note under section 1395eee of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395cc, 1395eee, 1396b, 1396d, 1396r–5 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -54,7 +54,3 @@ The Fair Labor Standards Act of 1938, referred to in subsecs. (a)(1), (b), and (
 
 Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 401, 471 of this title.
-

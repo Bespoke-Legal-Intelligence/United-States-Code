@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—SPECIAL PROGRAMS TO COMBAT POVERTY IN RURAL AREAS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2707 of this title.
-
 
 ---
 

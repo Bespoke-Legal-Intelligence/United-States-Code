@@ -10,7 +10,7 @@ The Director shall submit the report required by subsection (a) of this section 
 
 #### (c) Consistency with budget estimates
 
-The Director of Central Intelligence and the Secretary of Defense shall ensure that the estimates referred to in subsection (a) of this section are consistent with the budget estimatessubmitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year concerned and with the estimated expenditures and proposed appropriations for the multiyear defense program submitted pursuant to section 114a <sup>1</sup> of title 10.
+The Director of Central Intelligence and the Secretary of Defense shall ensure that the estimates referred to in subsection (a) of this section are consistent with the budget estimates submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year concerned and with the estimated expenditures and proposed appropriations for the multiyear defense program submitted pursuant to section 114a <sup>1</sup> of title 10.
 
 #### (d) Specified congressional committees
 
@@ -37,6 +37,10 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 1996—Subsec. (a). Pub. L. 104–106, §1502(c)(4)(B)(i), substituted “the congressional committees specified in subsection (d) of this section each year” for “the Committees on Armed Services and Appropriations of the Senate and the House of Representatives and the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives each year”.
 
 Subsec. (d). Pub. L. 104–106, §1502(c)(4)(B)(ii), added subsec. (d).
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

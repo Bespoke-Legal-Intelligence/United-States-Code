@@ -60,10 +60,6 @@
 
 1957—Pub. L. 85–207, §1, Aug. 28, 1957, 71 Stat. 481, inserted “, acquisition of reports from governmental and other sources” in item 6, and added items 12, 13 and 26.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 307 of this title.
-
 
 ---
 

@@ -32,7 +32,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1975—Pub. L. 94–22 struck out “or individual” after “employee” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5724 of this title; title 7 sections 3128, 5843; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709, 5727; title 22 section 1474; title 24 section 416.
-

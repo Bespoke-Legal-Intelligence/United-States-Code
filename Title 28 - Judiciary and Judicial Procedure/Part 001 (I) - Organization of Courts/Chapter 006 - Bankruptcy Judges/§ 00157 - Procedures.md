@@ -66,7 +66,3 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under section 581 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 158 of this title; title 11 section 524.
-

@@ -8,7 +8,3 @@ The assets, funds, property, and records of Commodity Credit Corporation, a Dela
 
 For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 714e of this title.
-

@@ -28,7 +28,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 (1) Subsection (a) of this section shall not apply to a particular activity of longshore work in and about a local port if—
 
-&emsp;(A)(i) there is in effect in the local port one or more collective bargaining agreements each covering at least 30 percent of the number of individuals employed in performing longshorework and (ii) each such agreement (covering such percentage of longshore workers) permits the activity to be performed by alien crewmen under the terms of such agreement; or
+&emsp;(A)(i) there is in effect in the local port one or more collective bargaining agreements each covering at least 30 percent of the number of individuals employed in performing longshore work and (ii) each such agreement (covering such percentage of longshore workers) permits the activity to be performed by alien crewmen under the terms of such agreement; or
 
 &emsp;(B) there is no collective bargaining agreement in effect in the local port covering at least 30 percent of the number of individuals employed in performing longshore work, and an employer of alien crewmen (or the employer's designated agent or representative) has filed with the Secretary of Labor at least 14 days before the date of performance of the activity (or later, if necessary due to an unanticipated emergency, but not later than the date of performance of the activity) an attestation setting forth facts and evidence to show that—
 
@@ -120,7 +120,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 &emsp;(A) expire at the end of the 1-year period beginning on the date the employer anticipates the longshore work to begin, as specified in the attestation filed with the Secretary of Labor, and
 
-&emsp;(B) apply to aliens arriving in the United States during such 1-year period if the owner, agent, consignee, master, or commanding officer states in each list under section 1281 of this title that it continues to comply with the conditions in the attestation.
+&emsp;(B) apply to aliens arriving in the United States during such 1-year period if the owner,agent, consignee, master, or commanding officer states in each list under section 1281 of this title that it continues to comply with the conditions in the attestation.
 
 (5)(A) Except as otherwise provided by subparagraph (B), subsection (c)(3) of this section and subparagraphs (A) through (E) of subsection (c)(4) of this section shall apply to attestations filed under this subsection.
 
@@ -211,8 +211,4 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 #### Inapplicability of Amendment by Pub. L. 101–649
 
 Section 203(a)(2) of Pub. L. 101–649 provided that: “This section \[enacting this section, amending section 1101 of this title, and enacting provisions set out as a note under section 1101 of this title\] does not affect the performance of longshore work in the United States by citizens or nationals of the United States.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1101, 1281 of this title.
 

@@ -38,7 +38,3 @@ In subsection (b), the words “shares, certificates, stock, or other” and “
 
 1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 sections 1441, 1441b, 2023, 2079, 2098; title 20 section 1087–2.
-

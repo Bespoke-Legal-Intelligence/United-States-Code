@@ -48,7 +48,7 @@ As a condition for providing any guarantees under this section for securities is
 
 #### (5) No discrimination against States with borrowers rights
 
-&emsp;The facility may not refuse to purchase qualified loans originating in States that have established borrowers rights laws either by statute or under the constitution of suchStates, except that the facility may require discounts or charge fees reasonably related to costs and expenses arising from such statutes or constitutional provisions.
+&emsp;The facility may not refuse to purchase qualified loans originating in States that have established borrowers rights laws either by statute or under the constitution of such States, except that the facility may require discounts or charge fees reasonably related to costs and expenses arising from such statutes or constitutional provisions.
 
 #### (c) Additional authority of Board
 
@@ -143,8 +143,4 @@ Subsec. (f)(1). Pub. L. 100–399, §601(h), substituted “date of the enactmen
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2279aa, 2279aa–3, 2279aa–8, 2279bb–1, 2279bb–2 of this title.
 

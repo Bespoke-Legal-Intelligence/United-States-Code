@@ -34,7 +34,3 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L.
 
 Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 404 of this title.
-

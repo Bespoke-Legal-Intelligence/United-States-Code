@@ -4,7 +4,3 @@ For the purposes of sections 439 to 439e of this title, the Secretary of Agricul
 
 (July 2, 1948, ch. 818, §4, 62 Stat. 1235.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 439a, 439b, 439e of this title.
-

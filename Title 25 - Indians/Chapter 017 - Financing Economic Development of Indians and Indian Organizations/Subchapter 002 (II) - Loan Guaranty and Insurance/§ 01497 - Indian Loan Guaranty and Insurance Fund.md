@@ -14,7 +14,7 @@ All funds, claims, notes, mortgages, contracts, and property acquired by the Sec
 
 #### (d) Utilization of fund for diverse payments
 
-The Secretary may also utilize the fund to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections, and other expenses and advances to protect the Secretary for loans or surety bonds which are guaranteed or insured under this subchapter or held by the Secretary, to acquire such security property at foreclosure sale or otherwise, and to pay administrative expenses.
+The Secretary may also utilize the fund to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections, and other expenses and advances to protect theSecretary for loans or surety bonds which are guaranteed or insured under this subchapter or held by the Secretary, to acquire such security property at foreclosure sale or otherwise, and to pay administrative expenses.
 
 #### (e) Authorization of appropriations
 
@@ -39,8 +39,4 @@ Subsec. (f). Pub. L. 100–442, §4(b), added subsec. (f).
 #### Limitation on New Credit Authority
 
 Section 4(c) of Pub. L. 100–442 provided that: “Any new credit authority (as defined in section 3 of the Congressional Budget and Impoundment Control Act of 1974 \[2 U.S.C. 622\]) which is provided by amendments made by this Act \[enacting sections 1497a, 1499, and 1544 of this title and amending this section and sections 1452, 1484, 1485, 1496, and 1498 of this title\] shall be effective only to such extent and in such amounts as may be approved in advance in appropriation Acts.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1461, 1482, 1497a, 1499 of this title.
 

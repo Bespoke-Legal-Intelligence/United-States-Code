@@ -68,7 +68,7 @@ Nothing in this section may be construed to transfer the responsibility for adju
 
 #### (d) Effective date
 
-Notwithstanding section 4,<sup>1</sup> this section shall take effect on the date on which the transfer offunctions specified under section 251 of this title takes effect.
+Notwithstanding section 4,<sup>1</sup> this section shall take effect on the date on which the transfer of functions specified under section 251 of this title takes effect.
 
 #### (e) References
 

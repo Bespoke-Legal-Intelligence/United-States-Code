@@ -12,7 +12,7 @@ Exemptions for Air Service to Small and Nonhub Airports.—Subject to section 41
 
 (b)
 
-Exemptions for New Entrant and Limited Incumbent Air Carriers.—Subject to section 41714(i), the Secretary shall grant, by order, exemptions from the requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), to any new entrant air carrier or limited incumbent air carrier to provide air transportation to or from LaGuardia Airport or John F. Kennedy International Airport if the number of slot exemptions granted under this subsection to such air carrier with respect to such airport when added to the slots and slot exemptions held by such air carrier with respect to such airport does not exceed 20.
+Exemptions for New Entrant and Limited Incumbent Air Carriers.—Subject to section 41714(i), the Secretary shall grant, by order, exemptions from the requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), to any new entrant air carrier or limited incumbent air carrier to provide air transportation to or from LaGuardia Airport or John F. Kennedy International Airport if the number of slot exemptions granted under this subsection to such air carrier with respect to such airport when added to the slots and slot exemptions held by such air carrier with respect to such airport does not exceed 20; except that the Secretary may grant not to exceed 4 additional slot exemptions at LaGuardia Airport to an incumbent air carrier operating at least 20 but not more than 28 slots at such airport as of October 1, 2004, to provide air transportation between LaGuardia Airport and a small hub airport or nonhub airport.
 
 (c)
 
@@ -28,7 +28,7 @@ Preservation of Certain Existing Slot-Related Air Service.—An air carrier that
 
 &emsp;(2) after September 30, 1999, the air carrier submits an air service termination notice under section 41719 for that route and the Secretary determines that the carrier suffered excessive losses, including substantial losses on operations on that route during any three quarters of the year immediately preceding the date of submission of the notice.
 
-(Added Pub. L. 106–181, title II, §231(c), Apr. 5, 2000, 114 Stat. 109.)
+(Added Pub. L. 106–181, title II, §231(c), Apr. 5, 2000, 114 Stat. 109; amended Pub. L. 108–447, div. H, title I, §199, Dec. 8, 2004, 118 Stat. 3235.)
 
 #### References in Text
 
@@ -38,11 +38,11 @@ The date of the enactment of this subsection, referred to in subsec. (d), is the
 
 A prior section 41716 was renumbered section 41720 of this title.
 
+#### Amendments
+
+2004—Subsec. (b). Pub. L. 108–447 inserted before period at end “; except that the Secretary may grant not to exceed 4 additional slot exemptions at LaGuardia Airport to an incumbent air carrier operating at least 20 but not more than 28 slots at such airport as of October 1, 2004, to provide air transportation between LaGuardia Airport and a small hub airport or nonhub airport”.
+
 #### Effective Date
 
 Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41714, 41715, 41743 of this title.
 

@@ -146,9 +146,13 @@ Report.—Not later than 1 year after the date of enactment of this Act, the Exp
 
 &emsp;&emsp;“(B) whether or not the authority of subsection (a) should be extended.”
 
-\[Pub. L. 108–7, div. E, title I, Feb. 20, 2003, 117 Stat. 160, provided in part: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2003.”\]
+\[Pub. L. 108–447, div. D, title I, Dec. 8, 2004, 118 Stat. 2969, provided in part: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2005.”\]
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+\[Pub. L. 108–199, div. D, title I, Jan. 23, 2004, 118 Stat. 143.
+
+\[Pub. L. 108–7, div. E, title I, Feb. 20, 2003, 117 Stat. 160.
 
 \[Pub. L. 107–115, title I, Jan. 10, 2002, 115 Stat. 2119.
 
@@ -200,7 +204,7 @@ There is hereby established the office of Managing Director of the Export-Import
 
 #### Sec. 2. Deputy Director
 
-There is hereby established the office of Deputy Director of the Export-Import Bank of Washington. TheDeputy Director shall be appointed by the President by and with the advice and consent of the Senate, shall receive compensation at the rate of $16,000 per annum, shall perform such functions as the Managing Director may from time to time prescribe, and shall act as Managing Director during the absence or disability of the Managing Director or in the event of a vacancy in the office of Managing Director.
+There is hereby established the office of Deputy Director of the Export-Import Bank of Washington. The Deputy Director shall be appointed by the President by and with the advice and consent of the Senate, shall receive compensation at the rate of $16,000 per annum, shall perform such functions as the Managing Director may from time to time prescribe, and shall act as Managing Director during the absence or disability of the Managing Director or in the event of a vacancy in the office of Managing Director.
 
 #### Sec. 3. Assistant Director
 
@@ -226,13 +230,9 @@ The following are hereby abolished: (1) The Board of Directors of the Export-Imp
 
 Sections 3 to 7, inclusive, of this reorganization plan shall become effective when the Managing Director first appointed hereunder enters upon office pursuant to the provisions of this reorganization plan.
 
-\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
+\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director ofthe Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
 
 #### United States Trade Representative and Secretary of Commerce as Additional Members of Board of Directors of Export-Import Bank of the United States
 
 For provisions directing that the United States Trade Representative and the Secretary of Commerce serve, ex officio and without vote, as additional members of the Board of Directors of the Export-Import Bank of the United States, see section 3 of 1979 Reorg. Plan No. 3, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 635 of this title.
 

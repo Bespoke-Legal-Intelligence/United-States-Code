@@ -4,7 +4,3 @@ The Secretary of Labor may publish information relating to existing and proposed
 
 (Aug. 16, 1937, ch. 663, §2, 50 Stat. 665.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 38 sections 3672, 3687.
-

@@ -4,7 +4,3 @@ The Secretary shall conduct a theme study of the World War II home front to dete
 
 (Pub. L. 106–352, §4, Oct. 24, 2000, 114 Stat. 1372.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410ggg–1 of this title.
-

@@ -16,7 +16,3 @@ With respect to a determination described in paragraph (1) or (2), the notificat
 
 (July 1, 1944, ch. 373, title XXVI, §2682, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 623.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–84, 300ff–85 of this title.
-

@@ -8,7 +8,7 @@
 
 (B) Nothing contained in this paragraph shall preclude the Secretary from requiring any information or data from any such plan to which this part applies where he finds such data or information is necessary to carry out the purposes of this subchapter nor shall the Secretary be precluded from revoking provisions for simplified reports for any such plan if he finds it necessary to do so in order to carry out the objectives of this subchapter.
 
-(3) The Secretary may by regulation exempt any welfare benefit plan from all or part of the reporting and disclosure requirements of thissubchapter, or may provide for simplified reporting and disclosure if he finds that such requirements are inappropriate as applied to welfare benefit plans.
+(3) The Secretary may by regulation exempt any welfare benefit plan from all or part of the reporting and disclosure requirements of this subchapter, or may provide for simplified reporting and disclosure if he finds that such requirements are inappropriate as applied to welfare benefit plans.
 
 (4) The Secretary may reject any filing under this section—
 
@@ -56,7 +56,7 @@ The Secretary may by regulation require that the administrator of any employee b
 
 &emsp;&emsp;<b>For regulations respecting coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title.</b>
 
-(Pub. L. 93–406, title I, §104, Sept. 2, 1974, 88 Stat. 847; Pub. L. 99–272, title XI, §11016(b)(2), Apr. 7, 1986, 100 Stat. 273; Pub. L. 100–203, title IX, §9342(a)(2), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7894(b)(3), (4), Dec. 19, 1989, 103 Stat. 2448; Pub. L. 104–191, title I, §101(c)(1), Aug. 21, 1996, 110 Stat. 1951; Pub. L. 104–204, title VI, §603(b)(3)(D), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(1), (2)(A), (d)(1)–(3), Aug. 5, 1997, 111 Stat. 1062.)
+(Pub. L. 93–406, title I, §104, Sept. 2, 1974, 88 Stat. 847; Pub. L. 99–272, title XI, §11016(b)(2), Apr. 7,1986, 100 Stat. 273; Pub. L. 100–203, title IX, §9342(a)(2), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7894(b)(3), (4), Dec. 19, 1989, 103 Stat. 2448; Pub. L. 104–191, title I, §101(c)(1), Aug. 21, 1996, 110 Stat. 1951; Pub. L. 104–204, title VI, §603(b)(3)(D), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(1), (2)(A), (d)(1)–(3), Aug. 5, 1997, 111 Stat. 1062.)
 
 #### Amendments
 
@@ -103,10 +103,6 @@ Amendment by Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, s
 #### Regulations
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1021, 1022, 1023, 1027, 1029, 1132, 1185 of this title.
 
 <i><sup>1</sup></i><i> So in original. Comma probably should not appear.</i>
 

@@ -58,10 +58,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 290bb–31, 290ii–1, 290ii–2, 1396r, 3032i, 3058g, 14404, 15043 of this title; title 29 sections 794e, 3002.
-
 
 ---
 

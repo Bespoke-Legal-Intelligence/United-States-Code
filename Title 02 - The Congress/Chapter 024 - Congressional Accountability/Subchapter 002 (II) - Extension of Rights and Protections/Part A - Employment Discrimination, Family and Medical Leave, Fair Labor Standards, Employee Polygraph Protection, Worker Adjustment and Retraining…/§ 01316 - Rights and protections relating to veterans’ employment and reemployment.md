@@ -18,9 +18,9 @@
 
 &emsp;&emsp;(A) the term “eligible employee” means a covered employee performing service in the uniformed services, within the meaning of section 4303(13) of title 38, whose service has not been terminated upon occurrence of any of the events enumerated in section 4304 of title 38,
 
-&emsp;&emsp;(B) the term “covered employee” includes employees of the General Accounting Office and the Library of Congress, and
+&emsp;&emsp;(B) the term “covered employee” includes employees of the Government Accountability Office and the Library of Congress, and
 
-&emsp;&emsp;(C) the term “employing office” includes the General Accounting Office and the Library of Congress.
+&emsp;&emsp;(C) the term “employing office” includes the Government Accountability Office and the Library of Congress.
 
 #### (b) Remedy
 
@@ -42,13 +42,15 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 &emsp;Except as provided in paragraph (2), subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995.
 
-#### (2) General Accounting Office and Library of Congress
+#### (2) Government Accountability Office and Library of Congress
 
-&emsp;This section shall be effective with respect to the General Accounting Office and the Library of Congress 1 year after transmission to the Congress of the study under section 1371 of this title.
+&emsp;This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under section 1371 of this title.
 
-(Pub. L. 104–1, title II, §206, Jan. 23, 1995, 109 Stat. 12.)
+(Pub. L. 104–1, title II, §206, Jan. 23, 1995, 109 Stat. 12; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 1361 of this title.
+2004—Subsec. (a)(2)(B), (C). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
+Subsec. (d)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and text.
 

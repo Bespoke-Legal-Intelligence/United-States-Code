@@ -74,7 +74,7 @@ Remedies available to enforce an affidavit of support under this section include
 
 #### (1) General requirement
 
-&emsp;The sponsor shall notify the Attorney General and the State in which the sponsored alien is currently a resident within 30 days of any change of address of the sponsor duringthe period in which an affidavit of support is enforceable.
+&emsp;The sponsor shall notify the Attorney General and the State in which the sponsored alien is currently a resident within 30 days of any change of address of the sponsor during the period in which an affidavit of support is enforceable.
 
 #### (2) Penalty
 
@@ -116,7 +116,7 @@ An action to enforce an affidavit of support executed under subsection (a) of th
 
 #### (3) Active duty armed services case
 
-&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(E) but is on active duty (other than active duty for training) in the Armed Forces of the United States, is petitioning for the admission of the alien under section 1154 of this title as the spouse or child of the individual, and demonstrates (as provided in paragraph (6)) the means to maintain an annual income equal to at least 100 percent of the Federal poverty line.
+&emsp;Such term also includes an individual who does not meet the requirement of paragraph\(1)(E) but is on active duty (other than active duty for training) in the Armed Forces of the United States, is petitioning for the admission of the alien under section 1154 of this title as the spouse or child of the individual, and demonstrates (as provided in paragraph (6)) the means to maintain an annual income equal to at least 100 percent of the Federal poverty line.
 
 #### (4) Certain employment-based immigrants case
 
@@ -295,10 +295,6 @@ Section 423(d) of Pub. L. 104–193, as amended by Pub. L. 105–277, div. A, §
 &emsp;“(10) Means-tested programs under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
 &emsp;“(11) Benefits under the \[sic\] title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1182, 1183, 1371, 1631, 1632 of this title; title 42 section 608.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

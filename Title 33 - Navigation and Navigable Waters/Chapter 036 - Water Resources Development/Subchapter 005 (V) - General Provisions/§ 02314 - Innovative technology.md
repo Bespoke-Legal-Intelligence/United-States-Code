@@ -38,7 +38,7 @@ Within 2 years after November 17, 1988, and thereafter at the Secretary's discre
 
 #### (d) “Innovative technology” defined
 
-For the purpose of this section, the term “innovative technology” means designs, materials, or methods which the Secretary determines are previously undemonstrated or are too new to be considered standard practice.
+For the purpose of this section, the term “innovative technology” means designs, materials,or methods which the Secretary determines are previously undemonstrated or are too new to be considered standard practice.
 
 (Pub. L. 100–676, §8, Nov. 17, 1988, 102 Stat. 4023; Pub. L. 106–53, title V, §503(b), Aug. 17, 1999, 113 Stat. 337.)
 

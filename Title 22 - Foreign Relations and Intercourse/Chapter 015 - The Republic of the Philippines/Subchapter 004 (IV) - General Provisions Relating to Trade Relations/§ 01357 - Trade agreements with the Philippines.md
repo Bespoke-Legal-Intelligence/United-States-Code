@@ -12,7 +12,3 @@ Section not applicable during such time as the revised agreement between the Uni
 
 The executive agreement provided for in subchapter III of this chapter, referred to in text, expired July 4, 1974.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1373 of this title.
-

@@ -78,7 +78,7 @@
 
 |  |  |
 | :--- | ---: |
-| [591\.](Subchapter%20005%20%28V%29%20-%20Administrative%20Conference%20of%20the%20United%20States/%C2%A7%2000591%20-%20Purpose.md) | Purpose. |
+| [591\.](Subchapter%20005%20%28V%29%20-%20Administrative%20Conference%20of%20the%20United%20States/%C2%A7%2000591%20-%20Purposes.md) | Purposes. |
 | [592\.](Subchapter%20005%20%28V%29%20-%20Administrative%20Conference%20of%20the%20United%20States/%C2%A7%2000592%20-%20Definitions.md) | Definitions. |
 | [593\.](Subchapter%20005%20%28V%29%20-%20Administrative%20Conference%20of%20the%20United%20States/%C2%A7%2000593%20-%20Administrative%20Conference%20of%20the%20United%20States.md) | Administrative Conference of the United States. |
 | [594\.](Subchapter%20005%20%28V%29%20-%20Administrative%20Conference%20of%20the%20United%20States/%C2%A7%2000594%20-%20Powers%20and%20duties%20of%20the%20Conference.md) | Powers and duties of the Conference. |
@@ -88,6 +88,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–401, §2(b)(2), Oct. 30, 2004, 118 Stat. 2255, substituted “Purposes” for “Purpose” in item 591.
 
 1996—Pub. L. 104–320, §§4(b)(2), 10(b), 11(b)(2), (d)(2), Oct. 19, 1996, 110 Stat. 3871, 3873, 3874, in item 569 substituted “Encouraging negotiated rulemaking” for “Role of the Administrative Conference of the United States and other entities”, added items 570a and 584, and struck out item 582 “Compilation of information”.
 
@@ -110,10 +112,6 @@ Pub. L. 101–552, §4(c), Nov. 15, 1990, 104 Stat. 2745, added heading of subch
 1967—Pub. L. 90–83, §1(1)(B), Sept. 11, 1967, 81 Stat. 195, added item 500.
 
 Pub. L. 90–23, §2, June 5, 1967, 81 Stat. 56, substituted “Public information; agency rules, opinions, orders, records and proceedings” for “Publication of information, rules, opinions, orders, and public records” in item 552.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 2 section 437d; title 6 section 112; title 12 sections 1467a, 1730a, 1786, 1818, 2266, 4582, 4633; title 15 sections 77s, 637, 648, 656, 687e, 1541, 1691b, 1715, 2703, 3803; title 16 section 460aa–3; title 20 sections 1068, 7711; title 21 section 342; title 25 sections 450j, 450<i>l</i>, 458aaa–5, 954; title 29 sections 1861, 2939; title 30 section 811; title 33 section 701n; title 39 sections 204, 410, 3001, 3603; title 42 sections 300j–6, 9613, 11504; title 43 section 1740; title 44 section 3507; title 45 sections 1116, 1212; title 46 App. section 1241p; title 49 sections 106, 44936.
 
 
 ---

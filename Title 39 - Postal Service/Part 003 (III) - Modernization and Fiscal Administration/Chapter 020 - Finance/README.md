@@ -50,7 +50,7 @@ Methodology.—Not later than July 31, 2003, the Office of Personnel Management 
 
 &emsp;&emsp;“(A) formulate a plan specifically enumerating the actuarial methods and assumptions by which the Office shall make its computations under paragraph (1); and
 
-&emsp;&emsp;“(B) submit such plan to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate.
+&emsp;&emsp;“(B) submit such plan to the Committee on Government Reform of the House of Representativesand the Committee on Governmental Affairs of the Senate.
 
 &emsp;“(3)
 
@@ -76,7 +76,7 @@ Postal Service Proposal.—
 
 &emsp;“(1)
 
-In general.—The United States Postal Service shall, by September 30, 2003, prepare and submit to the President, the Congress, and the General Accounting Office its proposal detailing how any savings accruing to the Postal Service as a result of the enactment of this Act, which are attributable to any fiscal year after fiscal year 2005, should be expended.
+In general.—The United States Postal Service shall, by September 30, 2003, prepare and submit to the President, the Congress, and the General Accounting Office \[now Government Accountability Office\] its proposal detailing how any savings accruing to the Postal Service as a result of the enactment of this Act, which are attributable to any fiscal year after fiscal year 2005, should be expended.
 
 &emsp;“(2)
 
@@ -98,11 +98,11 @@ Matters to consider.—In preparing its proposal under this subsection, the Post
 
 &emsp;“(3)
 
-GAO review and report.—Not later than 60 days after the Postal Service submits its proposal pursuant to paragraph (1), the General Accounting Office shall prepare and submit a written evaluation of such proposal to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate.
+GAO review and report.—Not later than 60 days after the Postal Service submits its proposal pursuant to paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall prepare and submit a written evaluation of such proposal to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate.
 
 &emsp;“(4)
 
-Legislative action.—Not later than 180 days after it has received both the proposal of the Postal Service and the evaluation of such proposal by the General Accounting Office under this subsection, Congress shall revisit the question of how the savings accruing to the Postal Service as a result of the enactment of this Act should be used.
+Legislative action.—Not later than 180 days after it has received both the proposal of the Postal Service and the evaluation of such proposal by the General Accounting Office \[now Government Accountability Office\] under this subsection, Congress shall revisit the question of how the savings accruing to the Postal Service as a result of the enactment of this Act should be used.
 
 “(f)
 

@@ -24,7 +24,7 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 #### (c) Permanent exemption for cogeneration
 
-After consideration of a petition (and comments thereon) for an exemption from one ormore of the prohibitions of part A for a cogeneration facility, the Secretary may, by order, grant a permanent exemption under this subsection, if he—
+After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a cogeneration facility, the Secretary may, by order, grant a permanent exemption under this subsection, if he—
 
 &emsp;(1) finds that the petitioner has demonstrated that economic and other benefits of cogeneration are unobtainable unless petroleum or natural gas, or both, are used in such facility, and
 
@@ -114,15 +114,11 @@ Subsec. (e). Pub. L. 100–42, §1(c)(10), struck out “or installation” afte
 
 Subsec. (j). Pub. L. 100–42, §1(c)(12)(C), struck out subsec. (j) which related to granting, by Secretary of Energy, of permanent exemptions for use of natural gas for installations served by international pipelines.
 
-Subsec. (k). Pub. L. 100–42, §1(c)(12)(C), struck out subsec. (k) which related to granting, by Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations based upon product or process requirements.
+Subsec. (k). Pub. L. 100–42, §1(c)(12)(C), struck out subsec. (k) which related to granting, by Secretary ofEnergy, of permanent exemptions for use of natural gas or petroleum for installations based upon product or process requirements.
 
 Subsec. (<i>l</i>). Pub. L. 100–42, §1(c)(12)(C), struck out subsec. (<i>l</i>) which related to granting, by Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations necessary to meet scheduled equipment outages.
 
 #### Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After November 9, 1978
 
 For effectiveness of exemption for certain electric powerplants as prior to 180 days after Nov. 9, 1978, see section 902(a) of Pub. L. 95–620, set out as a note under section 8301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8351, 8353, 8471, 8473 of this title.
 

@@ -112,7 +112,3 @@ In subsection (f), the words “the course of the” are omitted as surplus. The
 
 1998—Subsec. (c). Pub. L. 105–178 inserted “(and, in the case of a motor carrier, a contractor)” after “employee” in introductory provisions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 505, 521, 522, 523, 14303 of this title.
-

@@ -54,7 +54,7 @@ Return of possessions.—An assurance that, if requested by the family of a pass
 
 &emsp;(7)
 
-Unclaimed possessions retained.—An assurance that any unclaimed possession of a passenger within the control of the foreign air carrier will be retained by the foreign air carrier for not less than 18 months after the date of the accident.
+Unclaimed possessions retained.—An assurance that any unclaimed possession of a passenger within the control of the foreign aircarrier will be retained by the foreign air carrier for not less than 18 months after the date of the accident.
 
 &emsp;(8)
 

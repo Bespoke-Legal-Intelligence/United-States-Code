@@ -72,7 +72,3 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 415b of this title.
-

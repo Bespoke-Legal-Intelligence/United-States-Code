@@ -10,7 +10,7 @@
 
 &emsp;(B) to the extent practicable, use the same format as the appropriate voluntary building energy code; and
 
-&emsp;(C) consider, in consultation with the Environmental Protection Agency and other Federal agencies, and where appropriate contain,measures with regard to radon and other indoor air pollutants.
+&emsp;(C) consider, in consultation with the Environmental Protection Agency and other Federal agencies, and where appropriate contain, measures with regard to radon and other indoor air pollutants.
 
 #### (b) Omitted
 
@@ -31,8 +31,4 @@ Subsec. (b) of this section, which required the Secretary to identify and descri
 #### Prior Provisions
 
 A prior section 6834, Pub. L. 94–385, title III, §305, Aug. 14, 1976, 90 Stat. 1147, related to availability or approval of Federal financial assistance for new construction, prior to repeal by Pub. L. 97–35, title X, §1041(b), Aug. 13, 1981, 95 Stat. 621.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6835 of this title.
 

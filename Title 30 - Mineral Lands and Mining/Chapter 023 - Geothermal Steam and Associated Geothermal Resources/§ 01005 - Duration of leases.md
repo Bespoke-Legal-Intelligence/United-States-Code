@@ -92,7 +92,7 @@ To meet the bona fide effort requirement referred to in subsection (g)(1) of thi
 
 #### References in Text
 
-The Mineral Leasing Act of February 25, 1920, referred to in subsec. (e), is act Feb. 25, 1920, ch. 85, 41Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+The Mineral Leasing Act of February 25, 1920, referred to in subsec. (e), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
 The Mineral Leasing Act for Acquired Lands, referred to in subsec. (e), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, as amended, which is classified generally to chapter 7 (§351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 351 of this title and Tables.
 
@@ -184,7 +184,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 “(c) Upon receipt of an application for a geothermal lease the Secretary shall determine on the basis of scientific evidence if exploration, development, or utilization of the lands subject to the geothermal lease application is reasonably likely to result in a significant adverse effect on a significant thermal feature listed pursuant to subsection (a) of this section. Such determination shall be subject to notice and public comment. If the Secretary determines on the basis of scientific evidence that the exploration, development, or utilization of the land subject to the geothermal lease application is reasonably likely to result in a significant adverse effect on a significant thermal feature listed pursuant to subsection (a) of this section, the Secretary shall not issue such geothermal lease. In addition, the Secretary shall withdraw from leasing under the Geothermal Steam Act of 1970, as amended, those lands, or portion thereof, subject to the application for geothermal lease, the exploration, development, or utilization of which is reasonably likely to result, based on the Secretary's determination, in a significant adverse effect on a significant thermal feature listed pursuant to subsection (a) of this section.
 
-“(d) With respect to all geothermal leases issued after the date of enactment of this section \[Oct. 18, 1986\] the Secretary shall include stipulations in leasesnecessary to protect significant thermal features listed pursuant to subsection (a) of this section where a determination is made based on scientific evidence that the exploration, development, or utilization of the lands subject to the lease is reasonably likely to adversely affect such significant features. Such stipulations shall include, but are not limited to:
+“(d) With respect to all geothermal leases issued after the date of enactment of this section \[Oct. 18, 1986\] the Secretary shall include stipulations in leases necessary to protect significant thermal features listed pursuant to subsection (a) of this section where a determination is made based on scientific evidence that the exploration, development, or utilization of the lands subject to the lease is reasonably likely to adversely affect such significant features. Such stipulations shall include, but are not limited to:
 
 &emsp;“(1) requiring the lessee to reinject geothermal fluids into the rock formations from which they originate;
 
@@ -201,10 +201,6 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 “(g) Except as provided herein, nothing contained in this section shall affect or modify the authorities or responsibilities of the Secretary under the Geothermal Steam Act of 1970, as amended, or any other provision of law.
 
 “(h) The provisions of this section shall remain in effect until Congress determines otherwise.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1017, 1019 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -28,7 +28,7 @@ To be eligible to receive a grant from the Corporation in the circumstances desc
 
 &emsp;&emsp;(D) partnership described in section 12521(a)(4) of this title that desires to receive such assistance from a State or Indian tribe for an activity described in such section,
 
-> &emsp;to be carried out through a service-learning program described in section 12521 of this title, shall prepare, submit to the State educational agency, Indian tribe, or grantmaking entity, and obtain approval of, an application for the program.
+> &emsp;to be carried out through a service-learning program described in section 12521 of this title,shall prepare, submit to the State educational agency, Indian tribe, or grantmaking entity, and obtain approval of, an application for the program.
 
 #### (2) Submission
 
@@ -55,8 +55,4 @@ No applicant shall submit an application under section 12525 of this title or th
 A prior section 12526, Pub. L. 101–610, title I, §116, Nov. 16, 1990, 104 Stat. 3138; Pub. L. 102–384, §4, Oct. 5, 1992, 106 Stat. 1455, prescribed Federal and local project contributions, prior to repeal by Pub. L. 103–82, §103(a)(2).
 
 A prior section 114 of Pub. L. 101–610 was classified to section 12524 of this title prior to repeal by Pub. L. 103–82.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12521, 12523, 12527 of this title.
 

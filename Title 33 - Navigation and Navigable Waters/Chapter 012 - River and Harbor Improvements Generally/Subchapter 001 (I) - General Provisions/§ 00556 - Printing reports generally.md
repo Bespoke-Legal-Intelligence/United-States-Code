@@ -14,7 +14,7 @@ The Mississippi River Commission was created by act June 28, 1879, set out as se
 
 The words “and Missouri” which appeared in the original text after “Mississippi” were superseded by the abolition of the Missouri River Commission by act June 13, 1902, ch. 1079, §1, 32 Stat. 367.
 
-The second paragraph of this section is from the last paragraph of section 3 of act Mar. 4, 1913, which superseded a similar provision of act July 25, 1912, ch. 253, 37 Stat. 231. Other parts of said section 3 are set out in section 545 of this title.
+The second paragraph of this section is from the last paragraph of section 3 of act Mar. 4, 1913, which superseded a similar provision of act July 25, 1912, ch. 253, 37Stat. 231. Other parts of said section 3 are set out in section 545 of this title.
 
 #### Change of Name
 
@@ -23,8 +23,4 @@ Department of War designated Department of the Army and title of Secretary of Wa
 #### Compilation and Printing of Laws
 
 Act June 5, 1920, ch. 252, §6, 41 Stat. 1014, as amended by act Mar. 3, 1925, ch. 467, §4, 43 Stat. 1190, provided for compilation and printing of laws relating to improvement of rivers and harbors, passed between Mar. 4, 1913, until and including laws of second session of Sixty-eighth Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2295 of this title.
 

@@ -62,7 +62,3 @@ Pub. L. 101–193, title V, §506, Nov. 30, 1989, 103 Stat. 1709, as amended by 
 
 “(d) Each instance of naturalization based on the provisions of subsection (a) shall be reported to the Committees on the Judiciary of the Senate and House of Representatives and to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives prior to such naturalization.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1440–1, 1445 of this title.
-

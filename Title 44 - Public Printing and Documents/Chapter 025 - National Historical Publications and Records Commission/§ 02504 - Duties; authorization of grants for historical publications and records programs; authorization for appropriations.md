@@ -1,12 +1,12 @@
 ### §2504. Duties; authorization of grants for historical publications and records programs; authorization for appropriations
 
-(a) The Commission shall make plans, estimates, and recommendations for historical works and collections of sources it considers appropriate for preserving, publishing or otherwise recording at the public expense. The Chairman of the Commission shall transmit to the President and the Congress from time to time, and at least biennially, the plans, estimates, and recommendations developed and approved by the Commission.
+(a) The Commission shall make plans, estimates, and recommendations for historicalworks and collections of sources it considers appropriate for preserving, publishing or otherwise recording at the public expense. The Chairman of the Commission shall transmit to the President and the Congress from time to time, and at least biennially, the plans, estimates, and recommendations developed and approved by the Commission.
 
 (b) The Commission shall cooperate with, assist and encourage appropriate Federal, State, and local agencies and nongovernmental institutions, societies, and individuals in collecting and preserving and, when it considers it desirable, in editing and publishing papers of outstanding citizens of the United States, and other documents as may be important for an understanding and appreciation of the history of the United States.
 
 (c) The Commission may conduct institutes, training and educational programs, and recommend candidates for fellowships related to the activities of the Commission and may disseminate information about documentary sources through guides, directories, and other technical publications.
 
-(d) The Commission may recommend the expenditure of appropriated or donated funds forthe collecting, describing, preserving, compiling and publishing (including microfilming and other forms of reproduction) of documentary sources significant to the history of the United States and for the activities described in subsection (c).
+(d) The Commission may recommend the expenditure of appropriated or donated funds for the collecting, describing, preserving, compiling and publishing (including microfilming and other forms of reproduction) of documentary sources significant to the history of the United States and for the activities described in subsection (c).
 
 (e) The Archivist of the United States may, within the limits of available appropriated and donated funds, make grants to State and local agencies and to nonprofit organizations, institutions, and individuals, for those activities in subsection (d) after considering the advice and recommendations of the Commission.
 
@@ -38,19 +38,29 @@
 
 &emsp;(M) $10,000,000 for fiscal year 2003;
 
-&emsp;(N) $10,000,000 for fiscal year 2004; and
+&emsp;(N) $10,000,000 for fiscal year 2004;
 
-&emsp;(O) $10,000,000 for fiscal year 2005.
+&emsp;(O) $10,000,000 for fiscal year 2005;
+
+&emsp;(P) $10,000,000 for fiscal year 2006;
+
+&emsp;(Q) $10,000,000 for fiscal year 2007;
+
+&emsp;(R) $10,000,000 for fiscal year 2008; and
+
+&emsp;(S) $10,000,000 for fiscal year 2009.
 
 (2) Amounts appropriated under this subsection shall be available until expended when so provided in appropriation Acts.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1294; Pub. L. 92–546, §1(c), Oct. 25, 1972, 86 Stat. 1155; Pub. L. 93–536, §1(c), Dec. 22, 1974, 88 Stat. 1735; Pub. L. 96–98, §1, Nov. 1, 1979, 93 Stat. 731; Pub. L. 98–189, Nov. 30, 1983, 97 Stat. 1323; Pub. L. 98–497, title I, §107(b)(10), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 100–365, §4, July 13, 1988, 102 Stat. 824; Pub. L. 103–262, §1, May 31, 1994, 108 Stat. 706; Pub. L. 104–274, §1, Oct. 9, 1996, 110 Stat. 3321; Pub. L. 106–410, Nov. 1, 2000, 114 Stat. 1788.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1294; Pub. L. 92–546, §1(c), Oct. 25, 1972, 86 Stat. 1155; Pub. L. 93–536, §1(c), Dec. 22, 1974, 88 Stat. 1735; Pub. L. 96–98, §1, Nov. 1, 1979, 93 Stat. 731; Pub. L. 98–189, Nov. 30, 1983, 97 Stat. 1323; Pub. L. 98–497, title I, §107(b)(10), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 100–365, §4, July 13, 1988, 102 Stat. 824; Pub. L. 103–262, §1, May 31, 1994, 108 Stat. 706; Pub. L. 104–274, §1, Oct. 9, 1996, 110 Stat. 3321; Pub. L. 106–410, Nov. 1, 2000, 114 Stat. 1788; Pub. L. 108–383, §6, Oct. 30, 2004, 118 Stat. 2219.)
 
 #### Historical and Revision Notes
 
 Based on 44 U.S. Code, 1964 ed., §393(d) (June 30, 1949, ch. 288, title V, §503(d), as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, and amended July 28, 1964, Pub. L. 88–383, 78 Stat. 335).
 
 #### Amendments
+
+2004—Subsec. (f)(1)(P) to (S). Pub. L. 108–383 added subpars. (P) to (S).
 
 2000—Subsec. (f)(1)(L) to (O). Pub. L. 106–410 added subpars. (L) to (O).
 
@@ -79,8 +89,4 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to the requirement that the Chairman of the Commission transmit biennial reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 16th item on page 183 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2506, 3102 of this title.
 

@@ -12,7 +12,3 @@ Another prior section 320 of Pub. L. 92–225 was classified to section 441 of t
 
 Another prior section 320 of Pub. L. 92–225 was renumbered section 314, and is classified to section 439c of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 437g of this title.
-

@@ -6,7 +6,7 @@ The Congress finds that if current trends in the degradation of natural resource
 
 #### (b) Assistance authority and emphasis
 
-In order to address the serious problems described in subsection (a) of this section, thePresident is authorized to furnish assistance under subchapter I of this chapter for developing and strengthening the capacity of developing countries to protect and manage their environment and natural resources. Special efforts shall be made to maintain and where possible to restore the land, vegetation, water, wildlife, and other resources upon which depend economic growth and human well-being, especially of the poor.
+In order to address the serious problems described in subsection (a) of this section, the President is authorized to furnish assistance under subchapter I of this chapter for developing and strengthening the capacity of developing countries to protect and manage their environment and natural resources. Special efforts shall be made to maintain and where possible to restore the land, vegetation, water, wildlife, and other resources upon which depend economic growth and human well-being, especially of the poor.
 
 #### (c) Implementation considerations applicable to programs and projects
 
@@ -190,7 +190,7 @@ Availability of Funds.—Funds appropriated pursuant to subsection (a) are autho
 
 “(a)
 
-In General.—Except as provided in subsection (b), the authorities of this subtitle shall terminate 3 years after the date of establishment of the program described in section 643.
+In General.—Except as provided in subsection (b), the authorities of this subtitle shall terminate 3years after the date of establishment of the program described in section 643.
 
 “(b)
 
@@ -201,8 +201,4 @@ Exception.—In lieu of the termination date specified in subsection (a), the te
 “This subtitle shall take effect 90 days after the date of enactment of this Act \[Sept. 30, 2002\].”
 
 \[For definition of “appropriate congressional committees” as used in subtitle D of title VI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2191, 2199 of this title.
 

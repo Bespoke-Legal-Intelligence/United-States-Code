@@ -20,7 +20,3 @@ R.S. §327, contained after the word “Secretary” the following “who shall 
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9 of this title.
-

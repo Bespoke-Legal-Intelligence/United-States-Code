@@ -24,7 +24,7 @@ Notwithstanding any provision of law limiting the Federal share, the areas eligi
 
 &emsp;&emsp;(A) meets (except as provided in subsection (b) of this section) the applicable requirements of the applicable Federal grant program; and
 
-&emsp;&emsp;(B) could be approved for Federal contribution under the Federal grant program if funds were available under the law for the project.
+&emsp;&emsp;(B) could be approved for Federal contribution under the Federal grant program iffunds were available under the law for the project.
 
 #### (2) Certification by Authority
 
@@ -45,8 +45,4 @@ Notwithstanding any provision of law limiting the Federal share, the areas eligi
 #### References in Text
 
 This Act, referred to in subsec. (c)(2)(A), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, as amended. For classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under section 1921 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009bb–5 of this title.
 

@@ -4,7 +4,3 @@ There is authorized to be appropriated such sums as may be necessary for the Uni
 
 (Pub. L. 100–465, §5, Oct. 3, 1988, 102 Stat. 2273.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 277g, 277g–2 of this title.
-

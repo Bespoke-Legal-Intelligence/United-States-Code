@@ -146,7 +146,7 @@
 
 #### (1) In general
 
-&emsp;A contract with any medicare administrative contractor under this section may contain such terms and conditions as the Secretary finds necessary or appropriate and mayprovide for advances of funds to the medicare administrative contractor for the making of payments by it under subsection (a)(4)(B) of this section.
+&emsp;A contract with any medicare administrative contractor under this section may contain such terms and conditions as the Secretary finds necessary or appropriate and may provide for advances of funds to the medicare administrative contractor for the making of payments by it under subsection (a)(4)(B) of this section.
 
 #### (2) Prohibition on mandates for certain data collection
 
@@ -170,7 +170,7 @@
 
 #### (B) Relationship to False Claims Act
 
-&emsp;&emsp;Nothing in this subsection shall be construed to limit liability for conduct that would constitute a violation of sections 3729 through 3731 of title 31.
+&emsp;&emsp;Nothing in this subsection shall be construed to limit liability for conduct thatwould constitute a violation of sections 3729 through 3731 of title 31.
 
 #### (4) Indemnification by Secretary
 
@@ -294,7 +294,7 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### (B) Use of standard protocols when conducting prepayment reviews
 
-&emsp;&emsp;When a medicare administrative contractor conducts a random prepayment review, the contractor may conduct such review only in accordance with a standard protocol for random prepayment audits developed by the Secretary.
+&emsp;&emsp;When a medicare administrative contractor conducts a random prepayment review,the contractor may conduct such review only in accordance with a standard protocol for random prepayment audits developed by the Secretary.
 
 #### (C) Construction
 
@@ -434,7 +434,7 @@ Pub. L. 108–173, title IX, §912(b), Dec. 8, 2003, 117 Stat. 2388, provided th
 
 “(1)
 
-In general.—The provisions of section 1874A(e)(2) of the Social Security Act \[subsec. (e)(2) ofthis section\] (other than subparagraph (B)), as added by subsection (a), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions.
+In general.—The provisions of section 1874A(e)(2) of the Social Security Act \[subsec. (e)(2) of this section\] (other than subparagraph (B)), as added by subsection (a), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions.
 
 “(2)
 
@@ -563,8 +563,4 @@ Definitions.—In this section—
 &emsp;“(1) the term ‘rural area’ has the meaning given that term in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D)); and
 
 &emsp;“(2) the term ‘teaching settings’ are those settings described in section 415.150 of title 42, Code of Federal Regulations.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395h, 1395u, 1395w–111, 1395ff, 1395zz of this title.
 

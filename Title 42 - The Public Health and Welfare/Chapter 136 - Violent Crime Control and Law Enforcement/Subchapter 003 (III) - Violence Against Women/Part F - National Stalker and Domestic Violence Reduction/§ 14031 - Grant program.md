@@ -20,9 +20,5 @@ To be eligible to receive a grant under subsection (a) of this section, a State 
 
 2000—Subsec. (a). Pub. L. 106–386 inserted “and implement” after “improve”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “orders intended to protect victims from stalking”.</i>
 

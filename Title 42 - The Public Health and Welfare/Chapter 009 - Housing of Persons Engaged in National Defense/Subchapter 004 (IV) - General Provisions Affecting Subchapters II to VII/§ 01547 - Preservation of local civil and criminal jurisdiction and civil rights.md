@@ -24,7 +24,3 @@ For transfer of functions to Secretary of Housing and Urban Development, see not
 
 Functions of Federal Works Administrator relating to defense housing consolidated with other agencies into National Housing Agency during World War II by Ex. Ord. No. 9070.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1552 of this title.
-

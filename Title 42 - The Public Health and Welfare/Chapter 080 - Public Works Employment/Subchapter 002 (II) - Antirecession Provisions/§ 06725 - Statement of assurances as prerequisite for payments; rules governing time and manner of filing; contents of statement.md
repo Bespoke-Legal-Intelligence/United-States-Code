@@ -24,7 +24,3 @@ Each State and unit of local government may receive payments under this subchapt
 
 (Pub. L. 94–369, title II, §205, July 22, 1976, 90 Stat. 1006.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6730, 6732, 6736 of this title.
-

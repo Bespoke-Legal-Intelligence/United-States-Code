@@ -12,7 +12,7 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 #### (2) Staff compensation
 
-&emsp;Staff of the Commission may not receive compensation from any other source for work performed in carrying out the duties of the Commission while employed by the Commission.
+&emsp;Staff of the Commission may not receive compensation from any other source for workperformed in carrying out the duties of the Commission while employed by the Commission.
 
 #### (3) Exception
 

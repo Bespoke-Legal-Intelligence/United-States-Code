@@ -10,7 +10,7 @@ In general.—A unit of general local government expending payments under this c
 
 &emsp;(2)
 
-Senior citizens.—A unit of general local government holding a hearing required under this subsection or by the budget process of the government shall try to provide senior citizens and senior citizen organizations with an opportunity to present views at the hearing before the government makes a final decision on the use of the payment.
+Senior citizens.—A unit of general local government holding a hearing required under this subsection or by the budget process of thegovernment shall try to provide senior citizens and senior citizen organizations with an opportunity to present views at the hearing before the government makes a final decision on the use of the payment.
 
 (b)
 

@@ -6,7 +6,7 @@
 
 #### (1) Guidelines for addressing hostile biases
 
-&emsp;The Attorney General and the Secretary of State shall develop and implement guidelines that address potential biases in personnel ofthe Immigration and Naturalization Service and of the Department of State that are hired abroad and involved with duties which could constitute an effective barrier to a refugee claim if such personnel carries a bias against the claimant on the grounds of religion, race, nationality, membership in a particular social group, or political opinion. The subject matter of this training should be culturally sensitive and tailored to provide a nonbiased, nonadversarial atmosphere for the purpose of refugee adjudications.
+&emsp;The Attorney General and the Secretary of State shall develop and implement guidelines that address potential biases in personnel of the Immigration and Naturalization Service and of the Department of State that are hired abroad and involved with duties which could constitute an effective barrier to a refugee claim if such personnel carries a bias against the claimant on the grounds of religion, race, nationality, membership in a particular social group, or political opinion. The subject matter of this training should be culturally sensitive and tailored to provide a nonbiased, nonadversarial atmosphere for the purpose of refugee adjudications.
 
 #### (2) Guidelines for refugee-processing posts in establishing agreements with United States Government-designated refugee processing entities
 
@@ -35,8 +35,4 @@ Subsec. (c)(3). Pub. L. 106–113, §1000(a)(7) \[div. A, title II, §253(b)\], 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6412 of this title.
 

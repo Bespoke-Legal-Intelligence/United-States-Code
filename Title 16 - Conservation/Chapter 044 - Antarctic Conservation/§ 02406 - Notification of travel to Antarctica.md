@@ -4,7 +4,3 @@ The Secretary of State shall prescribe such regulations as may be necessary and 
 
 (Pub. L. 95–541, §7, Oct. 28, 1978, 92 Stat. 2054.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2407 of this title.
-

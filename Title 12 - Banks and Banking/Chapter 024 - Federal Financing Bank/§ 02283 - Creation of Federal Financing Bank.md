@@ -4,7 +4,3 @@ There is hereby created a body corporate to be known as the Federal Financing Ba
 
 (Pub. L. 93–224, §4, Dec. 29, 1973, 87 Stat. 937.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2282 of this title; title 31 section 305.
-

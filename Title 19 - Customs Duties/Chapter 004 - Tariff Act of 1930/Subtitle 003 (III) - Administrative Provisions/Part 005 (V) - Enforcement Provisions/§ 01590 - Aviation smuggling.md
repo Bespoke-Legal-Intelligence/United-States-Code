@@ -18,7 +18,7 @@ It is unlawful for any person to transfer merchandise between an aircraft and a 
 
 #### (c) Civil penalties
 
-Any person who violates any provision of this section is liable for a civil penalty equal totwice the value of the merchandise involved in the violation, but not less than $10,000. The value of any controlled substance included in the merchandise shall be determined in accordance with section 1497(b) of this title.
+Any person who violates any provision of this section is liable for a civil penalty equal to twice the value of the merchandise involved in the violation, but not less than $10,000. The value of any controlled substance included in the merchandise shall be determined in accordance with section 1497(b) of this title.
 
 #### (d) Criminal penalties
 
@@ -77,8 +77,4 @@ A prior section 1590, act June 17, 1930, ch. 497, title IV, §590, 46 Stat. 750,
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 1956.
 

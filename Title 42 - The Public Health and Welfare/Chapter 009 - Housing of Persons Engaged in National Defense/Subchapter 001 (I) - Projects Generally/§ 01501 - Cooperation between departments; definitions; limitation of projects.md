@@ -28,7 +28,3 @@ Functions of Public Housing Administration and Housing and Home Finance Agency (
 
 United States Housing Authority consolidated into Housing and Home Finance Agency by Reorg. Plan No. 3 of 1947, §1, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954, set out in the Appendix to Title 5, Government Organization and Employees, and name of Authority changed to Public Housing Administration by section 4(a) of such Plan. Section 9 of Reorg. Plan No. 3 of 1947 abolished office of Administrator of United States Housing Authority, whose functions were transferred by section 4 of such Plan to Public Housing Commissioner.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1502 of this title.
-

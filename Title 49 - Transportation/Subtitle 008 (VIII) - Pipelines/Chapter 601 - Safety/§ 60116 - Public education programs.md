@@ -40,7 +40,3 @@ The date of enactment of the Pipeline Safety Improvement Act of 2002, referred t
 
 1996—Pub. L. 104–304 substituted “owner or operator of a gas pipeline facility” for “person transporting gas”, inserted “the use of a one-call notification system prior to excavation,” after “educate the public on”, and inserted comma after “gas leaks”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 60102 of this title.
-

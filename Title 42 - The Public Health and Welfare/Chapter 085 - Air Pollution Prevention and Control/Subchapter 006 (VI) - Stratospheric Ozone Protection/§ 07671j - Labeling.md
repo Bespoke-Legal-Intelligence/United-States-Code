@@ -22,7 +22,7 @@ Effective 30 months after November 15, 1990, no container in which a class I or 
 
 &emsp;“Warning: Manufactured with \[insert name of substance\], a substance which harms public health and environment by destroying ozone in the upper atmosphere” <sup>1</sup>
 
-(2) In the case of a class I substance, effective 30 months after November 15, 1990, and before January 1, 2015, the labeling requirements of this subsection shall apply to all products manufactured with a process that uses such class Isubstance unless the Administrator determines that there are no substitute products or manufacturing processes that (A) do not rely on the use of such class I substance, (B) reduce the overall risk to human health and the environment, and (C) are currently or potentially available.
+(2) In the case of a class I substance, effective 30 months after November 15, 1990, and before January 1, 2015, the labeling requirements of this subsection shall apply to all products manufactured with a process that uses such class I substance unless the Administrator determines that there are no substitute products or manufacturing processes that (A) do not rely on the use of such class I substance, (B) reduce the overall risk to human health and the environment, and (C) are currently or potentially available.
 
 #### (e) Petitions
 

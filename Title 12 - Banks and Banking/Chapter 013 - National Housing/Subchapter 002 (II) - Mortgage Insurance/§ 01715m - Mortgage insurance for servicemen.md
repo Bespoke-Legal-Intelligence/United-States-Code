@@ -48,7 +48,7 @@ Subsection (k) of section 1710 of this title, referred to in subsec. (e), was re
 
 #### Codification
 
-The text reading “servicemen in the armed forces of the United States and their families, servicemen in the United States Coast Guard and their families, and servicemen in the United States National Oceanic and Atmospheric Administration and their families” read in subsec. (a) as amended by Pub. L. 91–621 “servicemen in the armed forces of the United States Coast Guard and their families, and servicemen in the United States National Oceanic and Atmospheric Administration and their families” and expresses the Congressional intent as manifest in the legislative history.
+The text reading “servicemen in the armed forces of the United States and their families, servicemen in theUnited States Coast Guard and their families, and servicemen in the United States National Oceanic and Atmospheric Administration and their families” read in subsec. (a) as amended by Pub. L. 91–621 “servicemen in the armed forces of the United States Coast Guard and their families, and servicemen in the United States National Oceanic and Atmospheric Administration and their families” and expresses the Congressional intent as manifest in the legislative history.
 
 #### Amendments
 
@@ -80,7 +80,7 @@ Subsecs. (f), (g). Pub. L. 90–448, §301(2), added subsecs. (f) and (g). A pri
 
 1965—Subsec. (b)(2). Pub. L. 89–117, §212(1), substituted “$30,000” for “$20,000”.
 
-Subsec. (b)(3). Pub. L. 89–117, §212(2), substituted provisions prohibiting the mortgage to have a principal obligation in excess of the sum of (i) 97 per centum of $15,000 of the appraised value of the property as of the date the mortgage is accepted for insurance, (ii) 90 per centum of such value in excess of $15,000 but not in excess of $20,000, and (iii) 85 per centum of such value in excess of $20,000 for provisions which prohibited themortgage to have a principal obligation in an amount in excess of 95 per centum of the appraised value of the property or such higher amount as may be derived by applying the maximum ratio of loan to value prescribed in section 1709(b)(2) of this title.
+Subsec. (b)(3). Pub. L. 89–117, §212(2), substituted provisions prohibiting the mortgage to have a principal obligation in excess of the sum of (i) 97 per centum of $15,000 of the appraised value of the property as of the date the mortgage is accepted for insurance, (ii) 90 per centum of such value in excess of $15,000 but not in excess of $20,000, and (iii) 85 per centum of such value in excess of $20,000 for provisions which prohibited the mortgage to have a principal obligation in an amount in excess of 95 per centum of the appraised value of the property or such higher amount as may be derived by applying the maximum ratio of loan to value prescribed in section 1709(b)(2) of this title.
 
 Subsec. (e). Pub. L. 89–117, §1108(j)(1), substituted “General Insurance Fund” for “Servicemen's Mortgage Insurance Fund”.
 
@@ -107,10 +107,6 @@ Amendment by Pub. L. 100–242 applicable only with respect to mortgages insured
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1709, 1715q of this title; title 10 sections 2831, 2833.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “mortgagee”.</i>
 

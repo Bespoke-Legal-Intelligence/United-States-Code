@@ -8,7 +8,7 @@ The Congress finds the following:
 
 &emsp;(3) The African elephant is listed as threatened under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) and its continued existence will be further jeopardized if this decline is not reversed.
 
-&emsp;(4) Because African elephant ivory is indistinguishable from Asian elephant ivory, there is a need to ensure that the trade in African elephant ivory does not further endanger the Asian elephant, which is listed as endangered under section 4 of the Endangered Species Actof 1973 (16 U.S.C. 1533) and under Appendix I of CITES.
+&emsp;(4) Because African elephant ivory is indistinguishable from Asian elephant ivory, there is a need to ensure that the trade in African elephant ivory does not further endanger the Asian elephant, which is listed as endangered under section 4 of the Endangered Species Act of 1973 (16 U.S.C. 1533) and under Appendix I of CITES.
 
 &emsp;(5) In response to the significant illegal trade in African elephant ivory, the parties to CITES established the CITES Ivory Control System to curtail the illegal trade and to encourage African countries to manage, conserve, and protect their African elephant populations.
 

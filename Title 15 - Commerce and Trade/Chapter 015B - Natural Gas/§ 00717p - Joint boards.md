@@ -10,7 +10,7 @@ The Commission may confer with any State commission regarding rate structures, c
 
 #### (c) Information and reports available to State commissions
 
-The Commission shall make available to the several State commissions such information and reports as may be of assistance in State regulation of natural-gas companies. Whenever the Commission can do so without prejudice to the efficient and proper conduct of its affairs, it may, upon request from a State commission, make available to such State commission as witnesses any of its trained rate, valuation, or other experts, subject to reimbursement of the compensation and traveling expenses of such witnesses. All sums collected hereunder shall be credited to the appropriation from which the amounts were expended in carrying out the provisions of this subsection.
+The Commission shall make available to the several State commissions such information and reports as may be of assistance in State regulation of natural-gas companies. Whenever the Commission can do so without prejudice to the efficient and proper conduct of its affairs, it may, upon request from a State commission, make available to such State commission as witnesses any of its trained rate, valuation, or other experts, subject to reimbursement of the compensation and traveling expenses of suchwitnesses. All sums collected hereunder shall be credited to the appropriation from which the amounts were expended in carrying out the provisions of this subsection.
 
 (June 21, 1938, ch. 556, §17, 52 Stat. 830.)
 
@@ -19,8 +19,4 @@ The Commission shall make available to the several State commissions such inform
 Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 7172.
 

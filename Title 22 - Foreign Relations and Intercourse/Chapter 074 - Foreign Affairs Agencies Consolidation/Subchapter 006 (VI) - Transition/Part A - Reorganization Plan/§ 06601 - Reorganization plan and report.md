@@ -134,7 +134,3 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6552, 6563, 6581, 6611 of this title.
-

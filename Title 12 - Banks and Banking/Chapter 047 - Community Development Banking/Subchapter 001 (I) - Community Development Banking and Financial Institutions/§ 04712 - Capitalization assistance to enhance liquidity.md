@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Fund may provide assistance for the purpose of providing capital to organizationsto purchase loans or otherwise enhance the liquidity of community development financial institutions, if—
+&emsp;The Fund may provide assistance for the purpose of providing capital to organizations to purchase loans or otherwise enhance the liquidity of community development financial institutions, if—
 
 &emsp;&emsp;(A) the primary purpose of such organizations is to promote community development; and
 
@@ -60,11 +60,7 @@ Any proceeds from the sale of loans by an organization assisted under this secti
 
 #### References in Text
 
-The Housing and Community Development Act of 1974, referred to in subsec. (a)(3), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (a)(3), is Pub. L. 93–383, Aug.22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
 Federal tax law, referred to in subsec. (e)(1), is classified generally to Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4704, 4706, 4707, 4711, 4718 of this title.
 

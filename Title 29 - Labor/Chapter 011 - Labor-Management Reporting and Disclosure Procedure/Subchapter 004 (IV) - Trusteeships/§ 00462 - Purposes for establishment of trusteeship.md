@@ -4,7 +4,3 @@ Trusteeships shall be established and administered by a labor organization over 
 
 (Pub. L. 86–257, title III, §302, Sept. 14, 1959, 73 Stat. 531.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 464 of this title.
-

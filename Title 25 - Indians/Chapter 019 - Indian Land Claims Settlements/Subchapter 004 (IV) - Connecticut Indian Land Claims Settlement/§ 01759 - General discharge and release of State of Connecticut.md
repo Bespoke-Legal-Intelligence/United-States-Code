@@ -4,7 +4,3 @@ Except as expressly provided herein, this subchapter shall constitute a general 
 
 (Pub. L. 98–134, §10, Oct. 18, 1983, 97 Stat. 856.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1754 of this title.
-

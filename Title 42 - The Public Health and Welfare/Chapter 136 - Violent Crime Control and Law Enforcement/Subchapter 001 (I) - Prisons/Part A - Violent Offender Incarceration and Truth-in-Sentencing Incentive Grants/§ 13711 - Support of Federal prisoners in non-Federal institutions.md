@@ -10,7 +10,3 @@ Notwithstanding any other provision of this part other than section 13708(a)(2) 
 
 (Pub. L. 103–322, title II, §20111, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13708 of this title.
-

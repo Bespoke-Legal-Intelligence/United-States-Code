@@ -26,7 +26,3 @@ Notwithstanding any other provision of law or previous declaration made by the S
 
 Section is comprised of section 1310 of Pub. L. 107–171. Subsec. (a) of section 1310 of Pub. L. 107–171 amended sections 1428 and 1441 of this title and repealed 7271 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7991 of this title.
-

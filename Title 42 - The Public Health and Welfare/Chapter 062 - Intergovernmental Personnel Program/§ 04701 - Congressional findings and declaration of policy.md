@@ -28,7 +28,3 @@ That Federal financial and technical assistance to State and local governments f
 
 Section 1 of Pub. L. 91–648 provided: “That this Act \[enacting this chapter and sections 3371 to 3376 of Title 5, Government Organization and Employees, amending section 246(f) of this title, section 1304 of Title 5, repealing sections 1881 to 1888 of Title 7, Agriculture, and section 869b of Title 20, Education, and enacting provisions set out as notes under section 3371 of Title 5\] may be cited as the ‘Intergovernmental Personnel Act of 1970’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4722, 4723, 4728, 4743 of this title.
-

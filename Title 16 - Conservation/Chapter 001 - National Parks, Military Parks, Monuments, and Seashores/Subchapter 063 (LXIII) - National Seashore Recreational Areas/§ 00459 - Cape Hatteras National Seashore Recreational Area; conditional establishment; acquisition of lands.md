@@ -8,7 +8,3 @@ When title to all the lands, except those within the limits of established villa
 
 Words “national seashore recreational area” substituted in text for “national seashore” pursuant to act June 29, 1940.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459a–1, 459a–2, 459a–3, 459a–5a of this title.
-

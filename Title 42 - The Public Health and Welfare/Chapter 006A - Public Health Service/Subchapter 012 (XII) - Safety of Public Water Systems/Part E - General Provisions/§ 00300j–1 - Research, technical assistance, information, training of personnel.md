@@ -46,7 +46,7 @@ Information and research facilities.—In carrying out this subchapter, the Admi
 
 #### (b) Emergency situations
 
-The Administrator is authorized to provide technical assistance and to make grants to States, or publicly owned water systems to assist in responding to and alleviating any emergency situation affecting public water systems (including sources of water for such systems) which the Administrator determines to present substantial danger to the public health. Grants provided under this subsection shall be used only to support those actions which (i) are necessary for preventing, limiting or mitigating danger to the public health in such emergency situation and (ii) would not, in the judgment of the Administrator, be taken without such emergency assistance. The Administrator may carry out the program authorized under this subsection as part of, and in accordance with the terms and conditions of, any other program of assistance for environmental emergencies which the Administrator is authorized to carry out under any other provision of law. No limitation on appropriations for any such other programshall apply to amounts appropriated under this subsection.
+The Administrator is authorized to provide technical assistance and to make grants to States, or publicly owned water systems to assist in responding to and alleviating any emergency situation affecting public water systems (including sources of water for such systems) which the Administrator determines to present substantial danger to the public health. Grants provided under this subsection shall be used only to support those actions which (i) are necessary for preventing, limiting or mitigating danger to the public health in such emergency situation and (ii) would not, in the judgment of the Administrator, be taken without such emergency assistance. The Administrator may carry out the program authorized under this subsection as part of, and in accordance with the terms and conditions of, any other program of assistance for environmental emergencies which the Administrator is authorized to carry out under any other provision of law. No limitation on appropriations for any such other program shall apply to amounts appropriated under this subsection.
 
 #### (c) Establishment of training programs and grants for training; training fees
 
@@ -92,9 +92,9 @@ Subsec. (b). Pub. L. 104–182, §121(2), (3), redesignated subsec. (a)(2)(B) as
 
 &emsp;“(1) collect and make available information pertaining to research, investigations, and demonstrations with respect to providing a dependably safe supply of drinking water together with appropriate recommendations in connection therewith;
 
-&emsp;“(2) make available research facilities of the Agency to appropriate public authorities, institutions, and individuals engaged in studies and research relating to the purposes of this subchapter;”.
+&emsp;“(2) make available research facilities of the Agency to appropriate public authorities, institutions, andindividuals engaged in studies and research relating to the purposes of this subchapter;”.
 
-Subsecs. (b)(3), (c)(3). Pub. L. 104–182, §121(1), which directed redesignation of subsec. (b)(3) as par. (3) of subsec. (d) and transfer of that par. to follow par. (2) of subsec. (d), was executed by redesignating subsec. (b)(3) as par. (3) of subsec. (c) and transferring that par. to follow par. (2) of subsec. (c) to reflect the probable intent of Congress and the redesignation of subsec. (d) as\(c) by Pub. L. 104–66. See 1995 Amendment note below. Moreover, subsec. (d) does not have any pars.
+Subsecs. (b)(3), (c)(3). Pub. L. 104–182, §121(1), which directed redesignation of subsec. (b)(3) as par. (3) of subsec. (d) and transfer of that par. to follow par. (2) of subsec. (d), was executed by redesignating subsec. (b)(3) as par. (3) of subsec. (c) and transferring that par. to follow par. (2) of subsec. (c) to reflect the probable intent of Congress and the redesignation of subsec. (d) as (c) by Pub. L. 104–66. See 1995 Amendment note below. Moreover, subsec. (d) does not have any pars.
 
 Subsec. (e). Pub. L. 104–182, §122, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Administrator is authorized to provide technical assistance to small public water systems to enable such systems to achieve and maintain compliance with national drinking water regulations. Such assistance may include ‘circuit-rider’ programs, training, and preliminary engineering studies. There are authorized to be appropriated to carry out this subsection $10,000,000 for each of the fiscal years 1987 through 1991. Not less than the greater of—
 
@@ -159,8 +159,4 @@ Section 203 of Pub. L. 104–182 provided that: “The Administrator of the Envi
 #### Comparative Health Effects Assessment
 
 Section 304(b) of Pub. L. 99–339 provided that: “The Administrator of the Environmental Protection Agency shall conduct a comparative health effects assessment, using available data, to compare the public health effects (both positive and negative) associated with water treatment chemicals and their byproducts to the public health effects associated with contaminants found in public water supplies. Not later than 18 months after the date of the enactment of this Act \[June 19, 1986\], the Administrator shall submit a report to the Congress setting forth the results of such assessment.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300g–1, 300j–3b, 300j–12 of this title.
 

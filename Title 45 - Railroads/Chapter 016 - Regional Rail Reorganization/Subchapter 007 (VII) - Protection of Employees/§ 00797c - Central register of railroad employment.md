@@ -40,7 +40,7 @@ Any dispute, grievance, or claim arising under this section, section 797b of thi
 
 &emsp;(2) The Board shall investigate the dispute, grievance, or claim, and if it concludes that the employee's rights under this section, section 797b of this title, section 907 of this title, or section 1004 of this title may have been violated, the dispute, grievance, or claim shall be subject to resolution in accordance with the procedures set forth in section 153 of this title.
 
-&emsp;(3) In the case of any violation of this section, section 797b of this title, section 907 ofthis title, or section 1004 of this title, the Adjustment Board (or any division or delegate thereof) or any other board of adjustment created under section 153 of this title shall, where appropriate, award such relief, including back pay, as may be necessary to enforce the employee's rights.
+&emsp;(3) In the case of any violation of this section, section 797b of this title, section 907 of this title, or section 1004 of this title, the Adjustment Board (or any division or delegate thereof) or any other board of adjustment created under section 153 of this title shall, where appropriate, award such relief, including back pay, as may be necessary to enforce the employee's rights.
 
 (Pub. L. 93–236, title VII, §704, as added Pub. L. 97–35, title XI, §1143(a), Aug. 13, 1981, 95 Stat. 663; amended Pub. L. 97–468, title II, §235, Jan. 14, 1983, 96 Stat. 2547; Pub. L. 99–272, title IV, §4011(a), (b), Apr. 7, 1986, 100 Stat. 108, 109.)
 
@@ -57,8 +57,4 @@ Subsec. (g). Pub. L. 97–468, §235(b), substituted “this section, section 79
 #### Effective Date of 1986 Amendment
 
 Section 4011(d) of Pub. L. 99–272 provided that: “The amendments made by subsections (a) and (c) \[amending this section and enacting provisions set out as a note under section 797b of this title\] shall take effect on the date of enactment of this Act \[Apr. 7, 1986\], and the amendment made by subsection (b) \[amending this section\] shall be effective as of August 1, 1985.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 741, 797d, 797m of this title.
 

@@ -56,7 +56,3 @@ Specific Requirements.—The descriptions required in subsection (a) shall inclu
 
 Collection and Maintenance of Data.—The Secretary shall collect and maintain data necessary to carry out the purposes of this section and shall coordinate such efforts, to the greatest extent possible, with activities and responsibilities under section 8 of the Department of Housing and Urban Development Act \[42 U.S.C. 3536\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437d, 1437u, 3533 of this title; title 12 section 1831q.
-

@@ -12,7 +12,7 @@
 
 (2) The Secretary of Transportation may not compromise for less than $500 a penalty under section 21302 of title 49 for a violation of chapter 203, 205, or 207 of title 49 or a regulation or requirement prescribed or order issued under any of those chapters.
 
-(c) A compromise under this section is final and conclusive unless gotten by fraud, misrepresentation, presenting a false claim, or mutual mistake of fact. An accountable official is not liable for an amount paid or for the value of property lost or damaged if the amount or value is not recovered because of a compromise under this section.
+(c) A compromise under this section is final and conclusive unless gotten by fraud, misrepresentation, presenting a false claim, or mutualmistake of fact. An accountable official is not liable for an amount paid or for the value of property lost or damaged if the amount or value is not recovered because of a compromise under this section.
 
 (d) The head of an executive, judicial, or legislative agency acts under—
 
@@ -150,7 +150,7 @@
 
 (10) To carry out the purposes of this subsection, the Secretary of the Treasury may prescribe such rules, regulations, and procedures as the Secretary considers necessary and transfer such funds from funds appropriated to the Department of the Treasury as may be necessary to meet existing liabilities and obligations incurred prior to the receipt of revenues that result from debt collections.
 
-(h)(1) The head of an executive, judicial, or legislative agency acting under subsection (a)(1),\(2), or (3) of this section to collect a claim, compromise a claim, or terminate collection action on a claim may obtain a consumer report (as that term is defined in section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a)) or comparable credit information on any person who is liable for the claim.
+(h)(1) The head of an executive, judicial, or legislative agency acting under subsection (a)(1), (2), or (3) of this section to collect a claim, compromise a claim, or terminate collection action on a claim may obtain a consumer report (as that term is defined in section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a)) or comparable credit information on any person who is liable for the claim.
 
 (2) The obtaining of a consumer report under this subsection is deemed to be a circumstance or purpose authorized or listed under section 604 of the Fair Credit Reporting Act (15 U.S.C. 1681b).
 
@@ -371,10 +371,6 @@ Section 31001(bb) of Pub. L. 104–134 provided that: “The Director of the Off
 #### Existing Agency Authority To Litigate, Settle, Compromise, or Close Claims
 
 Pub. L. 89–508, §4, July 19, 1966, 80 Stat. 309, provided that: “Nothing in this Act \[now this section\] shall increase or diminish the existing authority of the head of an agency to litigate claims, or diminish his existing authority to settle, compromise, or close claims.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3701, 3712, 3716, 3720C of this title; title 5 sections 552a, 5514, 5569; title 10 sections 2739, 2780; title 22 section 2671; title 26 section 6103; title 37 section 559; title 38 section 5301; title 42 sections 404, 1008, 1383; title 49 sections 21302, 21303.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Attorney General and the Secretary of the Treasury may prescribe jointly.”</i>
 

@@ -30,7 +30,3 @@ As used in this subchapter, the term “person” includes municipalities, elect
 
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title VI of Pub. L. 96–294, June 30, 1980, 94 Stat. 763, known as the Geothermal Energy Act of 1980. For complete classification of title VI to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1512, 1513, 1514 of this title.
-

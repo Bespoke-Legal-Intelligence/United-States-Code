@@ -10,7 +10,3 @@ An obligation issued by the Foundation, and a document offering an obligation, s
 
 (Pub. L. 104–127, title III, §359, Apr. 4, 1996, 110 Stat. 1014.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5805 of this title.
-

@@ -44,9 +44,5 @@ This chapter shall not apply to—
 
 (Pub. L. 101–624, title XIII, §1322, Nov. 28, 1990, 104 Stat. 3562.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 138b, 138c of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -16,7 +16,7 @@ There is established a commission to be known as the Japan-United States Friends
 
 #### (b) Compensation and travel expenses
 
-Members of the Commission who are not full-time officers or employees of the United States and who are not Members of Congress shall, while serving on business of the Commission, be entitled to receive compensation at rates fixed by the President, but not exceeding the rate specified at the time of such service for grade GS–18 in section 5332 of title 5, including traveltime; and while so serving away from their homes or regular places of business, all members of the Commission may be allowed travel expenses including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.
+Members of the Commission who are not full-time officers or employees of the United Statesand who are not Members of Congress shall, while serving on business of the Commission, be entitled to receive compensation at rates fixed by the President, but not exceeding the rate specified at the time of such service for grade GS–18 in section 5332 of title 5, including traveltime; and while so serving away from their homes or regular places of business, all members of the Commission may be allowed travel expenses including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.
 
 #### (c) Chairman; quorum; meetings
 
@@ -27,8 +27,4 @@ The Chairman of the United States Panel of the Joint Committee on United States-
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2902 of this title.
 

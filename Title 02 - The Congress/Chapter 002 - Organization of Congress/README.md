@@ -28,6 +28,7 @@
 | (a) | Caucus or conference for incumbent Members reelected to and Members-elect of ensuing Congress; time and procedure for calling. |
 | (b) | Payment and reimbursement for travel and per diem expenses for Members attending caucus or conference; exceptions; regulations governing payments and reimbursements; reimbursement vouchers. |
 | (c) | Availability of applicable accounts of House. |
+| (d) | Orientation programs for new Members. |
 | 29b, 29c. | Omitted. |
 | [29d.](%C2%A7%2000029d%20-%20Committee%20on%20Standards%20of%20Official%20Conduct%20of%20House%20of%20Representatives.md) | Committee on Standards of Official Conduct of House of Representatives. |
 | (a) | Omitted. |
@@ -78,7 +79,7 @@ References to Abolished Committees.—Any reference in any provision of law enac
 
 &emsp;“(1) the Committee on District of Columbia of the House of Representatives shall be treated as referring to the Committee on Government Reform and Oversight of the House of Representatives;
 
-&emsp;“(2) the Committee on Post Office and Civil Service of the House of Representatives shall be treated as referring to the Committee on Government Reform andOversight of the House of Representatives, except that a reference with respect to the House Commission on Congressional Mailings \[probably should be “Mailing”\] Standards (the ‘Franking Commission’) shall be treated as referring to the Committee on House Oversight of the House of Representatives; and
+&emsp;“(2) the Committee on Post Office and Civil Service of the House of Representatives shall be treated as referring to the Committee on Government Reform and Oversight of the House of Representatives, except that a reference with respect to the House Commission on Congressional Mailings \[probably should be“Mailing”\] Standards (the ‘Franking Commission’) shall be treated as referring to the Committee on House Oversight of the House of Representatives; and
 
 &emsp;“(3) the Committee on Merchant Marine and Fisheries of the House of Representatives shall be treated as referring to—
 

@@ -28,7 +28,7 @@ The Secretary shall provide such technical and other assistance as may be necess
 
 #### (e) Services to ineligible persons
 
-At the discretion of the tribe or tribal organization, services provided under a demonstration project established under this section may be provided (on a cost basis) to persons otherwise ineligible for the health care benefits of the Service.
+At the discretion of the tribe or tribal organization, services provided under a demonstrationproject established under this section may be provided (on a cost basis) to persons otherwise ineligible for the health care benefits of the Service.
 
 #### (f) Maximum number of demonstration projects
 
@@ -64,7 +64,7 @@ For the purposes of this section, the following definitions shall apply:
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated for each of the fiscal years 1996 through 2000 suchsums as may be necessary to carry out this section. Such sums shall remain available until expended.
+There are authorized to be appropriated for each of the fiscal years 1996 through 2000 such sums as may be necessary to carry out this section. Such sums shall remain available until expended.
 
 (Pub. L. 94–437, title VIII, §821, as added Pub. L. 102–573, title VIII, §809, Oct. 29, 1992, 106 Stat. 4587; amended Pub. L. 104–313, §2(g), Oct. 19, 1996, 110 Stat. 3822.)
 
@@ -75,10 +75,6 @@ The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub
 #### Amendments
 
 1996—Subsec. (i). Pub. L. 104–313 substituted “1996 through 2000” for “1993, 1994, 1995, 1996, and 1997”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1671, 1680<i>o</i> of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

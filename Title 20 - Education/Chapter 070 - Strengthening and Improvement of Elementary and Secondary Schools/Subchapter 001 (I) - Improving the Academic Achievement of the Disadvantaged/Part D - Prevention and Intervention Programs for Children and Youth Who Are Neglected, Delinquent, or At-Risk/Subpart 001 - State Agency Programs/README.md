@@ -1,9 +1,5 @@
 subpart 1—state agency programs
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 6333, 6422, 6471 of this title.
-
 
 ---
 

@@ -12,7 +12,7 @@ The Secretary shall make and insure loans under this subchapter only to the exte
 
 #### (2) Determination
 
-&emsp;Not later than 180 days after April 4, 1996, the Secretary shall determine the appropriate level of insurance to be required under paragraph (1).
+&emsp;Not later than 180 days after April 4, 1996, the Secretary shall determine the appropriatelevel of insurance to be required under paragraph (1).
 
 #### (3) Loans to poultry farmers
 
@@ -20,7 +20,7 @@ The Secretary shall make and insure loans under this subchapter only to the exte
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of this subchapter, the Secretary may makea loan to a poultry farmer under this subchapter to cover the loss of a chicken house for which the farmer did not have hazard insurance at the time of the loss, if the farmer—
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this subchapter, the Secretary may make a loan to a poultry farmer under this subchapter to cover the loss of a chicken house for which the farmer did not have hazard insurance at the time of the loss, if the farmer—
 
 &emsp;&emsp;&emsp;&emsp;(I) applied for, but was unable, to obtain hazard insurance for the chicken house;
 
@@ -82,11 +82,11 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 2000—Subsec. (b)(3). Pub. L. 106–387 added par. (3).
 
-1996—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out former subsec. (b) which read as follows: “An applicant shall be ineligible for financial assistance under this subchapter for crop losses if crop insurance was available to the applicant for such crop losses under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).”
+1996—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out former subsec. (b) which read as follows:“An applicant shall be ineligible for financial assistance under this subchapter for crop losses if crop insurance was available to the applicant for such crop losses under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).”
 
 1988—Subsec. (a). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974” in two places.
 
-1985—Subsec. (a)(1). Pub. L. 99–198, §1308(a), inserted “and who are owner-operators (in the case of loans fora purpose under subchapter I of this chapter) or operators (in the case of loans for a purpose under subchapter II of this chapter) of not larger than family farms” after “United States” in cl. (1) of first sentence, extended applicability to joint operations, and substituted requirement that a majority interest be held by individuals who are citizens of the United States and who are owner-operators (in the case of loans for a purpose under subchapter I of this chapter) or operators (in the case of loans for a purpose under subchapter II of this chapter) of not larger than family farms (or in the case of such cooperatives, corporations, partnerships, or joint operations in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, that such individuals must be either owners or operators of not larger than a family farm and at least one such individual must be an operator of not larger than a family farm) for requirement that a majority interest be held by members, stockholders or partners who are citizens of the United States, in cl. (2) of first sentence, and inserted provision extending the family farm requirement to all farms in which the entity has an ownership and operator interest (in the case of loans for a purpose under subchapter I of this chapter) or an operator interest (in the case of loans for a purpose under subchapter II of this chapter).
+1985—Subsec. (a)(1). Pub. L. 99–198, §1308(a), inserted “and who are owner-operators (in the case of loans for a purpose under subchapter I of this chapter) or operators (in the case of loans for a purpose under subchapter II of this chapter) of not larger than family farms” after “United States” in cl. (1) of first sentence, extended applicability to joint operations, and substituted requirement that a majority interest be held by individuals who are citizens of the United States and who are owner-operators (in the case of loans for a purpose under subchapter I of this chapter) or operators (in the case of loans for a purpose under subchapter II of this chapter) of not larger than family farms (or in the case of such cooperatives, corporations, partnerships, or joint operations in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, that such individuals must be either owners or operators of not larger than a family farm and at least one such individual must be an operator of not larger than a family farm) for requirement that a majority interest be held by members, stockholders or partners who are citizens of the United States, in cl. (2) of first sentence, and inserted provision extending the family farm requirement to all farms in which the entity has an ownership and operator interest (in the case of loans for a purpose under subchapter I of this chapter) or an operator interest (in the case of loans for a purpose under subchapter II of this chapter).
 
 Subsec. (b). Pub. L. 99–198, §1308(b)(1), amended subsec. (b) generally, substituting provision declaring a loan applicant ineligible for financial assistance for crop losses where crop insurance was available to the applicant for former provision which made applicants eligible for loans, though able to obtain credit elsewhere, subject to the other terms and conditions for loans under this subchapter and as prescribed under regulations by the Secretary.
 
@@ -157,8 +157,4 @@ Pub. L. 100–387, title III, §311, Aug. 11, 1988, 102 Stat. 948.
 #### Ninety-Day Extension After January 2, 1974, of Deadline for Seeking Assistance With Regard to Disasters Occurring on or After December 27, 1972
 
 Section 10(c) of Pub. L. 93–237 provided that: “With regard to all disasters occurring on or after December 27, 1972, the Secretary of Agriculture shall extend for ninety days after the date of enactment of this section \[Jan. 2, 1974\] the deadline for seeking assistance under section 321 of the Consolidated Farm and Rural Development Act \[this section\] as amended by this section \[amending this section\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1964, 1991, 2008f, 2008h of this title; title 15 section 636; title 42 section 5154a.
 

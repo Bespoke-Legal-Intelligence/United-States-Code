@@ -74,7 +74,3 @@ Section 101 of Pub. L. 95–523 provided that: “It is the purpose of this titl
 
 &emsp;“(4) to strengthen and supplement the purposes and policies of the Employment Act of 1946 \[this chapter\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1022, 1023, 3117 of this title.
-

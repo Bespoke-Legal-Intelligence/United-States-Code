@@ -24,7 +24,3 @@
 
 Section 1 of Pub. L. 96–479 provided: “That this Act \[enacting this chapter\] may be cited as the ‘National Materials and Minerals Policy, Research and Development Act of 1980’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1811 of this title.
-

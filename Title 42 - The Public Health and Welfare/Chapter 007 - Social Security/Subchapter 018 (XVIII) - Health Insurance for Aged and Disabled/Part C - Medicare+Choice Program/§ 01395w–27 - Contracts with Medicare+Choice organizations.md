@@ -98,7 +98,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;For the purposes of this paragraph, the term “party in interest” means—
 
-&emsp;&emsp;&emsp;(i) any director, officer, partner, or employee responsible for management or administration of a Medicare+Choice organization, any person who is directly or indirectly the beneficial owner of more than 5 percent of the equity of the organization, any person who is the beneficial owner of a mortgage, deed of trust, note, or other interest secured by, and valuing more than 5 percent of the organization, and, in thecase of a Medicare+Choice organization organized as a nonprofit corporation, an incorporator or member of such corporation under applicable State corporation law;
+&emsp;&emsp;&emsp;(i) any director, officer, partner, or employee responsible for management or administration of a Medicare+Choice organization, any person who is directly or indirectly the beneficial owner of more than 5 percent of the equity of the organization, any person who is the beneficial owner of a mortgage, deed of trust, note, or other interest secured by, and valuing more than 5 percent of the organization, and, in the case of a Medicare+Choice organization organized as a nonprofit corporation, an incorporator or member of such corporation under applicable State corporation law;
 
 &emsp;&emsp;&emsp;(ii) any entity in which a person described in clause (i)—
 
@@ -172,7 +172,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (2) Secretary's option to bypass noncomplying organization
 
-&emsp;In the case of a Medicare+Choice eligible organization which the Secretary determines, after notice and opportunity for a hearing, has failed to make payments of amounts in compliance with paragraph (1), the Secretary may provide for direct payment of the amounts owed to providers and suppliers (or, in the case of a Medicare+Choice private fee-for-service plan, amounts owed to the enrollees) for covered services and supplies furnished to individuals enrolled under this part under the contract. If the Secretary provides for the direct payments, the Secretary shall provide for an appropriate reduction in the amount of payments otherwise made to the organization under this part to reflect the amount of the Secretary's payments (and the Secretary's costs in making the payments).
+&emsp;In the case of a Medicare+Choice eligible organization which the Secretary determines, after notice and opportunity for a hearing, has failed to make payments of amounts in compliance with paragraph (1), the Secretary may provide for direct payment of the amountsowed to providers and suppliers (or, in the case of a Medicare+Choice private fee-for-service plan, amounts owed to the enrollees) for covered services and supplies furnished to individuals enrolled under this part under the contract. If the Secretary provides for the direct payments, the Secretary shall provide for an appropriate reduction in the amount of payments otherwise made to the organization under this part to reflect the amount of the Secretary's payments (and the Secretary's costs in making the payments).
 
 #### (g) Intermediate sanctions
 
@@ -286,11 +286,11 @@ To facilitate the offering of Medicare+Choice plans under contracts between Medi
 
 #### <i>“(A) Payment levels and amounts</i>
 
-&emsp;&emsp;<i>“A contract under this section with an MA organization shall require the organization to provide, in any written agreement described in section 1395w–23(a)(4) of this title between the organization and a federally qualified health center, for a level and amount of payment to the federally qualified health center for services provided by such health center that is not less than the level and amount of payment that the plan would make for such services if the serv</i><i>ices had been furnished by a entity providing similar services that was not a federally qualified health center.</i>
+&emsp;&emsp;<i>“A contract under this section with an MA organization shall require the organization to provide, in any written agreement described in section 1395w–23(a)(4) of this title between the organization and a federally qualified health center, for a level and amount of payment to the federally qualified health center for services provided by such health center that is not less than the level and amount of payment that the plan would make for such services if the services had been furnished by a entity providing similar services that was not a federally qualified health center.</i>
 
 #### <i>“(B) Cost-sharing</i>
 
-&emsp;&emsp;<i>“Under the written agreement referred to in subparagraph (A), a federally qualified health center must accept the payment amount referred to in such subparagraph plus the Federal payment provided for in section 1395l</i>(a)(3)(B) of this title as payment in full for services covered by the agreement, except that such a health center may collect any amount of cost-sharing permitted under the contract under this section, so long as the amounts of any deductible, coinsurance, or copayment comply with the requirements under section 1395w–24(e) of this title.”
+&emsp;&emsp;<i>“Under the written agreement referred to in subparagraph (A), a federally qualified health center must accept the payment amount referred to in such subparagraph plus the Federal payment provided for in section 1395l(a)(3)(B) of this title as payment in full for services covered by the agreement, except that such a health center may collect any amount of cost-sharing permitted under the contract under this section, so long as the amounts of any deductible, coinsurance, or copayment comply with the requirements under section 1395w–24(e) of this title.”</i>
 
 #### References in Text
 
@@ -361,8 +361,4 @@ Report.—Not later than January 1, 2007, the Secretary shall submit to Congress
 #### Immediate Effective Date for Certain Requirements for Demonstrations
 
 Section 4002(g) of Pub. L. 105–33 provided that: “Section 1857(e)(2) of the Social Security Act \[subsec. (e)(2) of this section\] (requiring contribution to certain costs related to the enrollment process comparative materials) applies to demonstrations with respect to which enrollment is effected or coordinated under section 1851 of such Act \[section 1395w–21 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395<i>l</i>, 1395w–21, 1395w–22, 1395w–23, 1395w–24, 1395w–25, 1395w–27a, 1395w–28, 1395w–29, 1395w–102, 1395w–112, 1395w–115,1395w–132, 1395w–151, 1395mm, 1395eee, 1396u–4 of this title.
 

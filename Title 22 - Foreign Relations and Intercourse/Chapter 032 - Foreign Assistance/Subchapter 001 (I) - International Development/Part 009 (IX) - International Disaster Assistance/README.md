@@ -1,9 +1,5 @@
 Part IX—International Disaster Assistance
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 2291, 2318, 7102 of this title.
-
 
 ---
 

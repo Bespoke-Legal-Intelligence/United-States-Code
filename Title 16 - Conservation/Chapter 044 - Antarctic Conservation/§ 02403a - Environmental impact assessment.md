@@ -52,7 +52,7 @@
 
 #### (e) Cases of emergency
 
-The requirements of this section, and of regulations promulgated under this section, shall not apply in cases of emergency relating to the safety of human life or of ships, aircraft, or equipment and facilities of high value, or the protection of the environment, which require an activity to be undertaken without fulfilling those requirements.
+The requirements of this section, and of regulations promulgated under this section, shall not apply in cases of emergency relating to the safety of human life or of ships, aircraft, orequipment and facilities of high value, or the protection of the environment, which require an activity to be undertaken without fulfilling those requirements.
 
 #### (f) Exclusive mechanism
 
@@ -70,5 +70,5 @@ Whenever the Secretary of State makes a determination under paragraph (2) of sub
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1,1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

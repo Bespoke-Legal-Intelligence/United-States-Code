@@ -40,6 +40,6 @@
 - [&sect; 00622 - Omitted](%C2%A7%2000622%20-%20Omitted.md)
 - [&sect; 00623 - Actions relating to tax; legalization of prior taxes](%C2%A7%2000623%20-%20Actions%20relating%20to%20tax%3B%20legalization%20of%20prior%20taxes.md)
 - [&sect; 00624 - Limitation on imports; authority of President](%C2%A7%2000624%20-%20Limitation%20on%20imports%3B%20authority%20of%20President.md)
-- [&sect; 00625 - Review of Burley tobacco imports by Secretary of Agriculture; price-support levels; excessive stocks](%C2%A7%2000625%20-%20Review%20of%20Burley%20tobacco%20imports%20by%20Secretary%20of%20Agriculture%3B%20price-support%20levels%3B%20excessive%20stocks.md)
+- [&sect; 00625 - Repealed. Pub. L. 108&#8211;357, title VI, &sect;611(s), Oct. 22, 2004, 118 Stat. 1523](%C2%A7%2000625%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93357%2C%20title%20VI%2C%20%C2%A7611%28s%29%2C%20Oct.%2022%2C%202004%2C%20118%20Stat.%201523.md)
 - [&sect; 00626 - Import inventory](%C2%A7%2000626%20-%20Import%20inventory.md)
 - [&sect; 00627 - Dairy forward pricing pilot program](%C2%A7%2000627%20-%20Dairy%20forward%20pricing%20pilot%20program.md)

@@ -46,7 +46,3 @@ The Energy Reorganization Act of 1982, referred to in subsec. (d)(4), probably m
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10244, 10245, 10246 of this title.
-

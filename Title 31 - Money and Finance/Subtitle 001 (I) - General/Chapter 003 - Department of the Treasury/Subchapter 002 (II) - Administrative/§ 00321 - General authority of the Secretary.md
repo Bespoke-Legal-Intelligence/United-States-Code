@@ -20,7 +20,7 @@
 
 &emsp;(7) with a view to prosecuting persons, take steps to discover fraud and attempted fraud involving receipts and decide on ways to prevent and detect fraud; and
 
-&emsp;(8) maintain separate accounts of taxes received in each State, territory, and possessionof the United States, and collection district, with each account listing—
+&emsp;(8) maintain separate accounts of taxes received in each State, territory, and possession of the United States, and collection district, with each account listing—
 
 &emsp;&emsp;(A) each kind of tax;
 
@@ -226,7 +226,7 @@ Subsec. (e). Pub. L. 101–73, §307(d), added subsec. (e).
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to Secretary of the Treasury, see Parts 1, 2,and 15 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to Secretary of the Treasury, see Parts 1, 2, and 15 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Use of Aircraft in Emergency Law Enforcement Support
 

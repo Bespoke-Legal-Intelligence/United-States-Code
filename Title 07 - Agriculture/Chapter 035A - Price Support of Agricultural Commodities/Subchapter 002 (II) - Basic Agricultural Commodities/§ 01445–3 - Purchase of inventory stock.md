@@ -76,7 +76,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 (ii) Such percentage shall be determined by dividing—
 
-&emsp;(I) the average net cigarettes manufactured by a manufacturer for use for the 12-month period immediately preceding the appropriate determination date (April 7, 1986, and annually thereafter over the course of the respective buy-out periods specified in this subsection); by
+&emsp;(I) the average net cigarettes manufactured by a manufacturer for use for the 12-month period immediately preceding the appropriate determination date (April 7, 1986, and annuallythereafter over the course of the respective buy-out periods specified in this subsection); by
 
 &emsp;(II) the aggregate average net cigarettes manufactured by all domestic cigarette manufacturers for use for such 12-month period.
 
@@ -120,13 +120,15 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 #### (e) Disclosure
 
-The limitations on disclosure set forth in subsections (c) and (d) of section 1314g of this title shall apply to information submitted by domestic manufacturers of cigarettes under this section with respect to net cigarettes manufactured for use, including information provided on ATF Form 3068. Any officer or employee of the Department of Agriculture who violates such limitations on disclosure shall be subject to the penalties set forth in section 1314g(c)(4) of this title.
+The limitations on disclosure set forth in subsections (c) and (d) of section 1314g <sup>1</sup> of this title shall apply to information submitted by domestic manufacturers of cigarettes under this section with respect to net cigarettes manufactured for use, including information provided on ATF Form 3068. Any officer or employee of the Department of Agriculture who violates such limitations on disclosure shall be subject to the penalties set forth in section 1314g(c)(4) <sup>1</sup> of this title.
 
 (Pub. L. 99–272, title I, §1109, Apr. 7, 1986, 100 Stat. 95; Pub. L. 107–296, title XI, §1112(b), Nov. 25, 2002, 116 Stat. 2276.)
 
 #### References in Text
 
 This subtitle, referred to in subsecs. (c)(3) and (d)(2)(A)(ii), is subtitle B (§§1101–1112) of title I of Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 83, which enacted sections 1314g, 1314h, and 1445–3 of this title, amended sections 511d, 1301, 1312, 1314c, 1314e, 1372, 1445, 1445–1, and 1445–2 of this title, and enacted provisions set out as notes under sections 1301, 1314c, 1314e, 1314g, 1314h, 1372, 1445, 1445–1, and 1445–2 of this title. For complete classification of this subtitle to the Code, see Tables.
+
+Section 1314g of this title, referred to in subsec. (e), was repealed by Pub. L. 108–357, title VI, §611(a), Oct. 22, 2004, 118 Stat. 1522.
 
 #### Codification
 
@@ -143,10 +145,6 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Rulemaking Procedures
 
 For implementation of this section by the Secretary of Agriculture without regard to provisions requiring notice and other procedures for public participation in rulemaking contained in section 553 of Title 5, Government Organization and Employees, or in any other directive of the Secretary, see section 1108(c) of Pub. L. 99–272, set out as a note under section 1301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1445 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

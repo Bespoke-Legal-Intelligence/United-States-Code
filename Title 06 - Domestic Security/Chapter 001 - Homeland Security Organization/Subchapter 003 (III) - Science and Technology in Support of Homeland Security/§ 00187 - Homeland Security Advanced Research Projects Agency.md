@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Homeland security research
 
-&emsp;The term “homeland security research” means research relevant to the detection of, prevention of, protection against, response to, attribution of, and recovery from homeland security threats, particularly acts of terrorism.
+&emsp;The term “homeland security research” means research relevant to the detection of, prevention of, protection against, response to,attribution of, and recovery from homeland security threats, particularly acts of terrorism.
 
 #### (3) HSARPA
 

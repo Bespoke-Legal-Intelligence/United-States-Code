@@ -58,7 +58,3 @@ Section 101(a) \[title I, §121\[7(a)\]\] of Pub. L. 104–208 provided that: �
 
 Section 87(a) of Pub. L. 99–646 and section 1 of Pub. L. 99–654 provided, respectively, that: “This section \[enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, The Public Health and Welfare, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title\] may be cited as the ‘Sexual Abuse Act of 1986’.” and “This Act \[enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title\] may be cited as the ‘Sexual Abuse Act of 1986’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2119, 2244, 2255, 3142, 3486, 3559, 3583, 5032 of this title; title 42 sections 14071, 14072, 14135a.
-

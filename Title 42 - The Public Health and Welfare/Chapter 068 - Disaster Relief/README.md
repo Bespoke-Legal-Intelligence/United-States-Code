@@ -256,7 +256,7 @@
 | (e) | Emergency preparedness measures. |
 | (f) | Training programs. |
 | (g) | Public dissemination of emergency preparedness information. |
-| (h) | Interstate emergency preparedness compacts. |
+| (h) | Emergency preparedness compacts. |
 | (i) | Materials and facilities. |
 | (j) | Financial contributions. |
 | (k) | Sale or disposal of certain materials and facilities. |
@@ -331,10 +331,6 @@
 | (b) | Debarment of persons convicted of fraudulent use of “Made in America” labels. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1320b–5, 1382a, 1490q, 3030, 3149, 3796b, 4003, 4104c, 5154a, 5203, 5206, 5306, 8623, 9601, 12750 of this title; title 2 section 59–1; title 6 sections 317, 466; title 7 sections 1421, 1427, 1427a, 1942, 1961, 1964, 1981e, 2008h, 7285; title 10 section 2662; title 12 sections 1709, 1715<i>l</i>; title 15 section 636; title 16 sections 1536, 1723; title 23 section 125; title 26 sections 143, 165, 1033, 5064, 5708; title 33 section 701n; title 38 sections 1785, 3720, 8111A; title 43 section 1600e; title 48 section 1921d.
 
 
 ---

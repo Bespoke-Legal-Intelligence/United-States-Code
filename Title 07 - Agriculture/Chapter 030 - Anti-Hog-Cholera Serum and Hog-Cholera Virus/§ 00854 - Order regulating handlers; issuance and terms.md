@@ -4,7 +4,3 @@ Whenever all the handlers of not less than 75 per centum of the volume of anti-h
 
 (Aug. 24, 1935, ch. 641, §59, 49 Stat. 781.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 852, 855 of this title.
-

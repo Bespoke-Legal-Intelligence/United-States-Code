@@ -54,7 +54,3 @@ Subsec. (g). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(g)\], amen
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, and effective with respect to appropriations for use under this subchapter for fiscal year 2002, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7702, 7703, 7707, 7708 of this title.
-

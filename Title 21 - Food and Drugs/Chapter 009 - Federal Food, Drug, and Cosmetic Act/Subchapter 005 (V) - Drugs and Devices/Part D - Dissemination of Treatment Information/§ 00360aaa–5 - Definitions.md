@@ -38,7 +38,3 @@ For purposes of this part:
 
 <i>For termination of section by section 401(e) of Pub. L. 105–115, see Effective and Termination Dates note set out under section 360aaa of this title.</i>
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 360aaa–1, 360aaa–6 of this title.
-

@@ -22,7 +22,3 @@ Section 103(b) of Pub. L. 102–86 provided that: “The amendment made by subse
 
 Amendment by Pub. L. 98–223 effective Apr. 1, 1984, see section 107 of Pub. L. 98–223, set out as a note under section 1114 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 502, 7252, 7292 of this title.
-

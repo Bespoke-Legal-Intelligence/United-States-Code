@@ -40,7 +40,3 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 For 1975 increase in widows benefits under this section and section 771 of this title, and effective date of such increase, see Pub. L. 94–170, Dec. 23, 1975, 89 Stat. 1022, set out as a note under section 771 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 773, 774, 775, 776 of this title.
-

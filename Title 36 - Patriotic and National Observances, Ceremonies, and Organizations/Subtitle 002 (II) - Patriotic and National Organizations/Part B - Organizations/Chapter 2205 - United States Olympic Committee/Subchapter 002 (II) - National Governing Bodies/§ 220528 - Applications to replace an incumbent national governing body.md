@@ -132,7 +132,3 @@ Subsec. (d). Pub. L. 105–277, §142(p)(4), (5), inserted “open to the public
 
 Subsec. (f)(4). Pub. L. 105–277, §142(p)(6), substituted “title and notify such national governing body of such probation and of the actions needed to comply with such requirements.” for “title.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 220529 of this title.
-

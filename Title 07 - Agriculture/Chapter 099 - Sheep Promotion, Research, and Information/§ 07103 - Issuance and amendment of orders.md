@@ -28,7 +28,3 @@ The Secretary, from time to time, may amend any order issued under this chapter.
 
 (Pub. L. 103–407, §4, Oct. 22, 1994, 108 Stat. 4213.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7102, 7105 of this title.
-

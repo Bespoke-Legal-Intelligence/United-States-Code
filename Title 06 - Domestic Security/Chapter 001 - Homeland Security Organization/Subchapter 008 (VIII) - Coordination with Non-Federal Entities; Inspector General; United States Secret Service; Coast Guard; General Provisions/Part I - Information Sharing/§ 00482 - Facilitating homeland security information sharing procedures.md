@@ -104,7 +104,7 @@ As used in this section:
 
 &emsp;(2) The term “intelligence community” has the meaning given such term in section 401a(4) of title 50.
 
-&emsp;(3) The term “State and local personnel” means any of the following persons involved in prevention, preparation, or response for terrorist attack:
+&emsp;(3) The term “State and local personnel” means any of the following persons involved inprevention, preparation, or response for terrorist attack:
 
 &emsp;&emsp;(A) State Governors, mayors, and other locally elected officials.
 
@@ -129,6 +129,10 @@ Nothing in this chapter shall be construed as authorizing any department, bureau
 #### Amendments
 
 2003—Subsec. (c)(3). Pub. L. 108–177 added par. (3).
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Ex. Ord. No. 13311. Homeland Security Information Sharing
 
@@ -159,8 +163,4 @@ Sec. 2. <i>Rules of Construction</i>. Nothing in this order shall be construed t
 Sec. 3. <i>General Provision</i>. This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 483, 484 of this title.
 

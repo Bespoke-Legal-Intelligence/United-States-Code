@@ -86,7 +86,3 @@ Pub. L. 101–508, §6207, inserted before period at end “, or for the purpos
 
 1986—Subsec. (d)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “No grant made under this section may exceed an amount equal to 80 per centum of the cost of carrying out the purpose or project for which it was awarded.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1456b, 1460, 1464 of this title.
-

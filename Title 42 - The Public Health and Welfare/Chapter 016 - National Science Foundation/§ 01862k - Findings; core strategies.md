@@ -94,11 +94,11 @@ Pub. L. 105–207, title II, §§205, 206, July 29, 1998, 112 Stat. 876, provide
 
 “(a)
 
-Notice of Reprogramming.—If any funds appropriated pursuant to the amendments made by this Act \[See Short Title of 1998 Amendment note set out under section 1861 of this title\] are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the Senate and the House of Representatives, notice of that action shall concurrently be provided to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Labor and Human Resources of the Senate, and the Committee on Science of the House of Representatives.
+Notice of Reprogramming.—If any funds appropriated pursuant to the amendments made by this Act \[See Short Title of 1998 Amendment note set out under section 1861 of this title\] are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the Senate and the House of Representatives, notice of that action shall concurrently be provided to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and the Committee on Science of the House of Representatives.
 
 “(b)
 
-Notice of Reorganization.—Not later than 15 days before any major reorganization of any program, project, or activity of the National Science Foundation, the Director of the National Science Foundation shall provide notice to the Committees on Science and Appropriations of the House of Representatives and the Committees on Commerce, Science and Transportation, Labor and Human Resources of the Senate, and Appropriations of the Senate.
+Notice of Reorganization.—Not later than 15 days before any major reorganization of any program, project, or activity of the National Science Foundation, the Director of the National Science Foundation shall provide notice to the Committees on Science and Appropriations of the House of Representatives and the Committees on Commerce, Science and Transportation, Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and Appropriations of the Senate.
 
 #### “SEC. 206. ENHANCEMENT OF SCIENCE AND MATHEMATICS PROGRAMS.
 

@@ -20,15 +20,11 @@ The Federal antitrust laws, referred to in subsec. (a), are classified generally
 
 #### Codification
 
-The words “the District Court of the United States for the District of Columbia” in subsec. (a) following “district court of the United States” and in subsec. (b) following “district courts of the United States” omitted as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of title 28 which states that “The District of Columbia constitutes one judicial district”.
+The words “the District Court of the United States for the District of Columbia” in subsec. (a) following “district court of the United States” and in subsec. (b) following “district courts of the United States” omitted as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that“There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of title 28 which states that “The District of Columbia constitutes one judicial district”.
 
 #### Transfer of Functions
 
 Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 7172.
 

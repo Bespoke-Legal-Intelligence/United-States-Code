@@ -4,7 +4,3 @@ For the purpose of this part, the term “Native Hawaiian” means any individua
 
 (Pub. L. 89–73, title VI, §625, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 963.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3002 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-With respect to a loan made under this subpart on or after January 1, 1993, the Secretary, in accordance with subsection (b) of this section, shall assess a risk-based premium on an eligible borrower and, if required under this section, an eligible institution that is based on the default rate of the eligible institution involved (as defined in section 292<i>o</i> of this title).
+With respect to a loan made under this subpart on or after January 1, 1993, the Secretary,in accordance with subsection (b) of this section, shall assess a risk-based premium on an eligible borrower and, if required under this section, an eligible institution that is based on the default rate of the eligible institution involved (as defined in section 292<i>o</i> of this title).
 
 #### (b) Assessment of premium
 
@@ -83,8 +83,4 @@ A prior section 708 of act July 1, 1944, was classified to section 292h of this 
 #### Effective Date
 
 Section effective Jan. 1, 1993, and until such date, former section 294e(c) of this title, as in effect on the day before Oct. 13, 1992, to continue in effect in lieu of this section, see section 103 of Pub. L. 102–408, set out as a note under section 292 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 292e of this title.
 

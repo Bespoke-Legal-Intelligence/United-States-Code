@@ -38,27 +38,6 @@ Application of other laws unaffected.
 | 1221e–1d. | Use of Council staff and facilities. |
 | 1221e–2. | Repealed. |
 | 1221e–3. | General authority of Secretary. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Rules and regulations for agency operation; personnel; gifts; transactions; construction of facilities; acquisition and disposal of property; reimbursement of Federal agencies for use of services.
-
-(b)
-
-Qualifications of persons engaged in competitive review of grant applications.
-
-(c)
-
-Delegation of functions.
-
-(d)
-
-“Administrative head of an education agency” defined.
-
-|  |  |
-| :--- | ---: |
 | 1221e–4. | Educational impact statement. |
 | 1221f to 1221i. | Repealed. |
 | [1221j.](Subchapter%20001%20%28I%29%20-%20Functions%20of%20Department%20of%20Education/%C2%A7%2001221j%20-%20Television%20program%20assistance.md) | Television program assistance. |
@@ -359,7 +338,7 @@ Transmittal of final regulations.
 
 |  |  |
 | :--- | ---: |
-| [1232c.](Subchapter%20003%20%28III%29%20-%20General%20Requirements%20and%20Conditions%20Concerning%20Operation%20and%20Administration%20of%20Education%20Programs%20General%20Authority%20of%E2%80%A6/Part%20003%20-%20Administration%20of%20Education%20Programs%20and%20Projects%20by%20States%20and%20Local%20Educational%20Agencies/%C2%A7%2001232c%20-%20State%20agency%20monitoring%20and%20enforcement.md) | State educational agency monitoring and enforcement. |
+| [1232c.](Subchapter%20003%20%28III%29%20-%20General%20Requirements%20and%20Conditions%20Concerning%20Operation%20and%20Administration%20of%20Education%20Programs%20General%20Authority%20of%E2%80%A6/Part%20003%20-%20Administration%20of%20Education%20Programs%20and%20Projects%20by%20States%20and%20Local%20Educational%20Agencies/%C2%A7%2001232c%20-%20State%20agency%20monitoring%20and%20enforcement.md) | State agency monitoring and enforcement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -791,10 +770,6 @@ Publication in Federal Register of notice of intent to enter into repayment arra
 #### Amendments
 
 1970—Pub. L. 91–230, title IV, §401(a)(1), Apr. 13, 1970, 84 Stat. 164, substituted as chapter heading “GENERAL PROVISIONS CONCERNING EDUCATION” for “LEADTIME AND PLANNING AND EVALUATION IN ELEMENTARY AND SECONDARY EDUCATION PROGRAMS”.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1652, 3441, 3489, 6104, 6777, 7001, 9134 of this title; title 42 section 2473b.
 
 
 ---

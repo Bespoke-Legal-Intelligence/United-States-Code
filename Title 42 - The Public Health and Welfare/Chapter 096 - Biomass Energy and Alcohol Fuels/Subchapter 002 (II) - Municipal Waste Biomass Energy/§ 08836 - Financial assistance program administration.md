@@ -4,7 +4,3 @@ The Secretary of Energy shall establish procedures and take such other actions a
 
 (Pub. L. 96–294, title II, §236, June 30, 1980, 94 Stat. 703.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8832, 8833 of this title.
-

@@ -38,7 +38,7 @@
 
 (3) The Secretary, subject to the provisions of section 1407 of this title, shall pay to each person making an election under this subsection, $5,000 out of the Settlement Fund for those persons who are, on the date established pursuant to subsection (a)(4) of this section, below the age of 50 years, and $7,500 out of the Settlement Fund for those persons who are, on that date, age 50 or older.
 
-(4) Any person making an election under this subsection shall no longer have any right or interest whatsoever in the tribal, communal, or unallotted land, property, resources, or rights within, or appertaining to, the Hoopa Valley Reservation or the Hoopa Valley Tribe or, except to the extent authorized by paragraph (3), in the Settlement Fund. Any such person shall also be deemed to have granted to members of the Interim Council established under section 1300i–8 of this title an irrevocable proxy directing them to approve a proposed resolution waiving any claim the Yurok Tribe may have against the United States arising out of the provisions of this subchapter, and granting tribal consent as provided in section 1300i–8(d)(2) of this title.
+(4) Any person making an election under this subsection shall no longer have any right or interest whatsoever in the tribal, communal, or unallotted land, property, resources, or rights within, or appertaining to, the Hoopa Valley Reservation or the Hoopa Valley Tribe or, except to the extent authorized by paragraph (3), in the Settlement Fund. Any such person shallalso be deemed to have granted to members of the Interim Council established under section 1300i–8 of this title an irrevocable proxy directing them to approve a proposed resolution waiving any claim the Yurok Tribe may have against the United States arising out of the provisions of this subchapter, and granting tribal consent as provided in section 1300i–8(d)(2) of this title.
 
 #### (d) Lump sum payment option
 
@@ -49,8 +49,4 @@
 (3) Any person making an election to receive, and having received, a lump sum payment under this subsection shall not thereafter have any interest or right whatsoever in the tribal, communal, or unallotted land, property, resources, or rights within, or appertaining to, the Hoopa Valley Reservation, the Hoopa Valley Tribe, the Yurok Reservation, or the Yurok Tribe or, except authorized by paragraph (1), in the Settlement Fund.
 
 (Pub. L. 100–580, §6, Oct. 31, 1988, 102 Stat. 2929.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300i–3, 1300i–4, 1300i–6, 1300i–8, 1300i–11 of this title.
 

@@ -12,7 +12,3 @@ Act of August 10, 1846, chapter 25, referred to in text, probably should be act 
 
 R.S. §99 derived from act Apr. 5, 1866, ch. 25, §1, 14 Stat. 13.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 152 of this title.
-

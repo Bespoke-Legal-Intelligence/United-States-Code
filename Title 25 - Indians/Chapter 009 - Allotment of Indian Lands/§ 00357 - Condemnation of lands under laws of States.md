@@ -8,7 +8,3 @@ Lands allotted in severalty to Indians may be condemned for any public purpose u
 
 Section is comprised of the second paragraph of section 3 of act Mar. 3, 1901. The first paragraph of such section 3 is classified to section 319 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 322 of this title.
-

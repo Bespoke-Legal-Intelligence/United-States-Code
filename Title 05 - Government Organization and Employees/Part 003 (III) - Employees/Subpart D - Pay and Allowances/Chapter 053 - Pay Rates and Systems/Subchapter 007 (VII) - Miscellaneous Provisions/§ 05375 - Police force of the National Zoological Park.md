@@ -44,7 +44,3 @@ Section 3(a) of Pub. L. 91–34 provided that: “The foregoing provisions of th
 
 Section 3(b) of Pub. L. 91–34 provided that: “No rate of basic pay shall be reduced by reason of the enactment of this Act \[enacting this section and amending sections 5102 and 5109 of this title and section 193n of former Title 40, Public Buildings, Property, and Works\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5102 of this title; title 40 section 6306.
-

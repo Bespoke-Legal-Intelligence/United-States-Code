@@ -52,7 +52,7 @@ Subsection (b) authorizes the court to order an entity, as defined by Section 10
 
 #### Amendments
 
-1998—Subsec. (b)(2)(A). Pub. L. 105–183 inserted before semicolon “, including charitable contributions (that meet the definition of ‘charitable contribution’ under section 548(d)(3)) to a qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)) in an amount not to exceed 15 percent of the gross income of the debtor for the year in which the contributions are made”.
+1998—Subsec. (b)(2)(A). Pub. L. 105–183 inserted before semicolon “, including charitable contributions (that meet the definition of ‘charitable contribution’ undersection 548(d)(3)) to a qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)) in an amount not to exceed 15 percent of the gross income of the debtor for the year in which the contributions are made”.
 
 1986—Subsec. (b)(2)(A). Pub. L. 99–554 substituted “; and” for “; or”.
 
@@ -73,8 +73,4 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1307, 1322, 1329, 1330 of this title.
 

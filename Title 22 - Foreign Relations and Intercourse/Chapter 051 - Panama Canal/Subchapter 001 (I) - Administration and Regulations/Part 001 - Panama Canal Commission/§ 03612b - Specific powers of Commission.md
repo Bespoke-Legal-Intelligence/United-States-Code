@@ -54,7 +54,3 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 1997—Subsec. (e). Pub. L. 105–85 added subsec. (e).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3612a of this title.
-

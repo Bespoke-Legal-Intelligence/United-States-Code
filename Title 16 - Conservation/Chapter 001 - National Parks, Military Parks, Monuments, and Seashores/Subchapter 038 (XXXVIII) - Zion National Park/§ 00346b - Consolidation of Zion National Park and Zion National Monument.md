@@ -4,7 +4,3 @@ For the purpose of combining Zion National Park and Zion National Monument, Utah
 
 (July 11, 1956, ch. 568, §1, 70 Stat. 527.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 346d of this title.
-

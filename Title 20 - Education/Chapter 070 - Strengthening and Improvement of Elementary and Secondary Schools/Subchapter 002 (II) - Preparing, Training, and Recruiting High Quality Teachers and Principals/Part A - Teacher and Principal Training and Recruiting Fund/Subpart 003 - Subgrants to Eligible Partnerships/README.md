@@ -1,9 +1,5 @@
 subpart 3—subgrants to eligible partnerships
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 5891b, 6313, 6613 of this title.
-
 <i><sup>1</sup></i><i> So in original. No par. (9) has been enacted.</i>
 
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—CLASSIFICATION OF POSITIONS AND ASSIGNMENTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3942, 3964, 4131, 4153 of this title.
-
 
 ---
 

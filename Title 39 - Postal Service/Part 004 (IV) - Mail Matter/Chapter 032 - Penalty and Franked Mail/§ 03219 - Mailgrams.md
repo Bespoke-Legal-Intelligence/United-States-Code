@@ -18,7 +18,3 @@ Amendment by Pub. L. 95–521 effective Jan. 3, 1979, see section 717 of Pub. L.
 
 Section effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as an Effective Date of 1976 Amendment note under section 3210 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3216 of this title; title 2 sections 501, 502.
-

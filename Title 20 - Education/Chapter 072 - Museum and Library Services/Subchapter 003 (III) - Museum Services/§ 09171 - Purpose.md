@@ -26,7 +26,7 @@ A prior section 272 of Pub. L. 94–462 was renumbered section 273 and is classi
 
 &emsp;“(1) to encourage and assist museums in their educational role, in conjunction with formal systems of elementary, secondary, and postsecondary education and with programs of nonformal education for all age groups;
 
-&emsp;“(2) to assist museums in modernizing their methods and facilities so that the museums are better ableto conserve the cultural, historic, and scientific heritage of the United States; and
+&emsp;“(2) to assist museums in modernizing their methods and facilities so that the museums are better able to conserve the cultural, historic, and scientific heritage of the United States; and
 
 &emsp;“(3) to ease the financial burden borne by museums as a result of their increasing use by the public.”
 

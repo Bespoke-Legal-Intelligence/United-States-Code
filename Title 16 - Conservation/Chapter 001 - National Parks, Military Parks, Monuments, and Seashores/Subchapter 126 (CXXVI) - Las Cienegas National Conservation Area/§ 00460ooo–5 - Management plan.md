@@ -52,7 +52,3 @@ The National Historic Preservation Act, referred to in subsec. (b)(4), is Pub. L
 
 The Federal Cave Resources Protection Act of 1988, referred to in subsec. (b)(9), is Pub. L. 100–691, Nov. 18, 1988, 102 Stat. 4546, which is classified generally to chapter 63 (§4301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460<i>ooo</i>–4 of this title.
-

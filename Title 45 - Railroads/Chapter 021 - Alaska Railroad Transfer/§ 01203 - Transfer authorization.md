@@ -46,6 +46,8 @@ Subject to the provisions of this chapter, the United States, through the Secret
 
 (C) For purposes of subparagraph (B) of this paragraph, the term “accrue” shall have the meaning contained in section 2401 of title 28.
 
+(D) Any hazardous substance, petroleum or other contaminant release at or from the State-owned rail properties that began prior to January 5, 1985, shall be and remain the liability of the United States for damages and for the costs of investigation and cleanup. Such liability shall be enforceable under 42 U.S.C. 9601 et seq.<sup>1</sup> for any release described in the preceding sentence.
+
 (3)(A) Prior to the date of transfer, the Secretary shall also certify that the State-owned railroad has established arrangements pursuant to section 1206 of this title to protect the employment interests of employees of the Alaska Railroad during the two-year period commencing on the date of transfer. These arrangements shall include provisions—
 
 &emsp;(i) which ensure that the State-owned railroad will adopt collective bargaining agreements in accordance with the provisions of subparagraph (B) of this paragraph;
@@ -60,13 +62,13 @@ Subject to the provisions of this chapter, the United States, through the Secret
 
 &emsp;(vi) for payment to transferred employees retained by the State-owned railroad during the two-year period commencing on the date of transfer, including for one year officers retained or separated under subparagraph (E) of this paragraph, of an amount equivalent to the cost-of-living allowance to which they are entitled as Federal employees on the day before the date of transfer, in accordance with the provisions of subparagraph (D) of this paragraph; and
 
-&emsp;(vii) for health and life insurance programs for transferred employees retained by the State-owned railroad during the two-year period commencing on the date of transfer, substantially equivalent to the Federal health and life insurance programs available to employees on the day before the date of transfer (except for officers of the Alaska Railroad, who shall receive such credit for one year following the date of transfer).
+&emsp;(vii) for health and life insurance programs for transferred employees retained by the State-owned railroad during the two-year period commencing on the date of transfer, substantially equivalent to the Federal health and life insurance programs available to employees on the day before the date of transfer (except for officers of the Alaska Railroad,who shall receive such credit for one year following the date of transfer).
 
 (B) The State-owned railroad shall adopt all collective bargaining agreements which are in effect on the date of transfer. Such agreements shall continue in effect for the two-year period commencing on the date of transfer, unless the parties agree to the contrary before the expiration of that two-year period. Such agreements shall be renegotiated during the two-year period, unless the parties agree to the contrary. Any labor-management negotiation impasse declared before the date of transfer shall be settled in accordance with chapter 71 of title 5. Any impasse declared after the date of transfer shall be subject to applicable State law.
 
 (C) Federal service shall be included in the computation of seniority for transferred employees with priority for reemployment, as provided in subparagraph (A)(iv) of this paragraph.
 
-(D) Payment to transferred employees pursuant to subparagraph (A)(vi) of this paragraph shall not exceed the percentage of any transferred employee's base salary level provided bythe United States as a cost-of-living allowance on the day before the date of transfer, unless the parties agree to the contrary.
+(D) Payment to transferred employees pursuant to subparagraph (A)(vi) of this paragraph shall not exceed the percentage of any transferred employee's base salary level provided by the United States as a cost-of-living allowance on the day before the date of transfer, unless the parties agree to the contrary.
 
 (E) Prior to the date of transfer, the Secretary shall also certify that the State-owned railroad has agreed to the retention, for at least one year from the date of transfer, of the offices of the Alaska Railroad, except in cases of separation for cause, resignation, retirement, or lack of work, at or above their base salaries in effect on the date of transfer, in such positions as the State-owned railroad may determine; or to the payment of lump-sum severance pay in an amount equal to such base salary for one year to officers not retained by the State-owned railroad upon transfer or, for officers separated within one year on or after the date of transfer, of a portion of such lump-sum severance payment (diminished pro rata for employment by the State-owned railroad within one year of the date of transfer prior to separation).
 
@@ -74,7 +76,7 @@ Subject to the provisions of this chapter, the United States, through the Secret
 
 (5) Prior to the date of transfer, the Secretary shall also certify that the State has agreed to compensate the United States at the value, if any, determined pursuant to section 1204(d) of this title.
 
-(Pub. L. 97–468, title VI, §604, Jan. 14, 1983, 96 Stat. 2559; Pub. L. 108–7, div. I, title III, §345(5), Feb. 20, 2003, 117 Stat. 418.)
+(Pub. L. 97–468, title VI, §604, Jan. 14, 1983, 96 Stat. 2559; Pub. L. 108–7, div. I, title III, §345(5), Feb. 20, 2003, 117 Stat. 418; Pub. L. 108–447, div. H, title I, §152(3), Dec. 8, 2004, 118 Stat. 3222.)
 
 #### References in Text
 
@@ -82,17 +84,17 @@ Act of March 12, 1914, and such Act, referred to in subsec. (c)(1), is act Mar. 
 
 Section 615 of this title, referred to in subsec. (c)(1), means section 615 of title VI of Pub. L. 97–468, Jan. 14, 1983, 96 Stat. 2577. Title VI of Pub. L. 97–468 is known as the Alaska Railroad Transfer Act of 1982 and is classified principally to this chapter. Under section 615, the repeal is effective on the date of transfer to the State of Alaska (pursuant to section 1203 of this title) or other disposition (pursuant to section 1210 of this title), whichever first occurs.
 
+42 U.S.C. 9601 et seq., referred to in subsec. (d)(2)(D), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+
 #### Amendments
+
+2004—Subsec. (d)(2)(D). Pub. L. 108–447 added subpar. (D).
 
 2003—Subsec. (b)(1). Pub. L. 108–7 struck out at end: “In the event of reversion to the United States, pursuant to section 1209 of this title, of the State's interests in all or part of the lands subject to such easement, such easement shall terminate with respect to the lands subject to such reversion, and no new exclusive-use easement with respect to such reverted lands shall be granted except by Act of Congress.”
 
 #### Transfer of Alaska Railroad to State of Alaska
 
 The State of Alaska accepted the certification requirements of the Alaska Railroad Transfer Act \[this chapter\] by 1984 SLA ch. 54, eff. May 19, 1984. Thereafter, by 1984 SLA ch. 153, eff. July 6, 1984, the Alaska Railroad Corporation was established to manage and operate the Alaska Railroad. The transfer of the Alaska Railroad to the State of Alaska was carried out on January 5, 1985.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1202, 1204, 1205, 1206, 1207, 1210, 1211 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -50,7 +50,3 @@ This Act, referred to in subsec. (b), probably should be “this title” meanin
 
 > For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States shall be considered to be United States industries.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3204 of this title.
-

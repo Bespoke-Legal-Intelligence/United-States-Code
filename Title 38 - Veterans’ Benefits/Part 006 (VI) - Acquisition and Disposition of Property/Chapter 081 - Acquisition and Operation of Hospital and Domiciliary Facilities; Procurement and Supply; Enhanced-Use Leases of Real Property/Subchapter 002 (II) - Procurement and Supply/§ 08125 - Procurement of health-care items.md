@@ -14,7 +14,7 @@
 
 (2) In the case of the need for an emergency procurement of a health-care item, such item may be procured under a local contract, but no greater quantity of such item may be procured by a local contract than is reasonably necessary to meet the emergency need and the reasonably foreseeable need for the item at the medical center concerned until resupply can be achieved through procurement actions other than emergency procurement.
 
-(3)(A) Except as provided in subparagraphs (C) and (D) of this paragraph, not more than 20 percent of the total of all health-care items procured by the Department in any fiscal year (measured as a percent of the total cost of all such health-care items procured by the Department in that fiscal year) may be procured under local contracts.
+(3)(A) Except as provided in subparagraphs (C) and (D) of this paragraph, not more than 20 percent of the total of all health-care items procured by the Department in any fiscal year (measured as a percent of the total cost of allsuch health-care items procured by the Department in that fiscal year) may be procured under local contracts.
 
 (B) Local contracts for the procurement of health-care items shall, to the maximum extent feasible, be awarded to regular dealers or manufacturers engaged in the wholesale supply of such items.
 

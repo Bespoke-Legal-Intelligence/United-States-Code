@@ -40,7 +40,3 @@ Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insula
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460ccc–2 of this title.
-

@@ -44,10 +44,6 @@ This section amends the analysis of chapter 161 of title 28, U.S.C., to conform 
 
 1949—Act May 24, 1949, ch. 139, §118, 63 Stat. 105, substituted “Interest” for “Interest on judgments against United States” in item 2411.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 12 sections 209, 4621; title 42 section 15346.
-
 
 ---
 

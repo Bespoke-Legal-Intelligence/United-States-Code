@@ -52,15 +52,11 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Flag and General Officers
 
-Pub. L. 94–11, title I, §100, Mar. 26, 1975, 89 Stat. 20, provided in part that: “The total number of flag and general officers of the United States Armed Forces assigned or detailed to military assistance advisory groups, military missions, or similar organizations, or performing duties primarily with respect to the Military Assistance Program and the Foreign Military Sales Program shall not exceed twenty after May 1, 1975.”
+Pub. L. 94–11, title I, §100, Mar. 26, 1975, 89 Stat. 20, provided in part that: “The total number of flag and general officers of the United States Armed Forces assigned or detailed to military assistance advisory groups, military missions, or similar organizations, or performing duties primarily with respect to the Military Assistance Program and the Foreign MilitarySales Program shall not exceed twenty after May 1, 1975.”
 
 #### Approval of Secretary of State
 
 The maintenance of special missions or staffs abroad, the fixing of ranks of chiefs thereof after the chiefs of United States diplomatic missions, and authorization of same compensation and allowances as chief of mission, as defined in section 3902(3) of this title, all under this section, shall be subject to approval of Secretary of State, see section 1–603 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56677, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2389, 2396 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

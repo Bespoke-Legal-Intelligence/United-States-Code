@@ -12,7 +12,3 @@ Section was formerly classified to section 516b of Title 5 prior to the general 
 
 1966—Pub. L. 89–554 repealed third sentence which related to grade of a position. See section 5109 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450c, 450e, 450f, 450g of this title; title 5 section 5109.
-

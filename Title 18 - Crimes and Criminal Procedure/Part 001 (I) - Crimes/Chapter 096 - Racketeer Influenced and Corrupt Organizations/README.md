@@ -19,10 +19,6 @@
 
 1970—Pub. L. 91–452, title IX, §901(a), Oct. 15, 1970, 84 Stat. 941, added chapter 96 and items 1961 to 1968.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3582, 3663 of this title; title 7 section 12a.
-
 <i><sup>1</sup></i><i> So in original.</i>
 
 

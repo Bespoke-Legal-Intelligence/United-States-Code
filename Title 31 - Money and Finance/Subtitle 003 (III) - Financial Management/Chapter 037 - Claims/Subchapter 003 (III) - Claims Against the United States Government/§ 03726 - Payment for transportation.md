@@ -86,7 +86,7 @@ In subsection (a), before clause (1), the word “individual” is substituted f
 
 In subsection (b), before clause (1), the words “<i>Provided, however</i>, That such deductions shall be made” are omitted because of the restatement. The words “found to be” are omitted as surplus. The words “of any overcharge by any carrier or forwarder” and “The term ‘overcharges’ shall be deemed to mean . . . those applicable thereto” are omitted because of the restatement. The word “rate” is substituted for “charges for transportation services” and “rates, fares, and charges” for consistency with title 49. In clause (1), the word “authority” is substituted for “regulatory agency” for consistency. In clause (2), the words “established” and “contract . . . from regulation” are omitted as surplus.
 
-In subsection (c), the text of 31:244(d) and the words “Government”, “or his designee”, and “of the United States” are omitted as unnecessary. The words “under this section” are substituted for “for passenger or freight transportation services to be furnished the United States by any carrier or forwarder” to eliminate unnecessary words. The word “transportation” is substituted for “services” for consistency. The words “ticket, receipt, bill of lading, or equivalent . . . involved” and “as ordered by the United States” are omitted as surplus.
+In subsection (c), the text of 31:244(d) and the words “Government”, “or his designee”, and “of the UnitedStates” are omitted as unnecessary. The words “under this section” are substituted for “for passenger or freight transportation services to be furnished the United States by any carrier or forwarder” to eliminate unnecessary words. The word “transportation” is substituted for “services” for consistency. The words “ticket, receipt, bill of lading, or equivalent . . . involved” and “as ordered by the United States” are omitted as surplus.
 
 In subsection (d)(1), the words “may request” are substituted for “Nothing in subsection (a) of this section hereof shall be deemed to prevent . . . from requesting” to eliminate unnecessary words. The words “of limitation” are omitted as surplus.
 
@@ -156,7 +156,7 @@ Section 7(a) of Pub. L. 103–429 provided that the amendment made by that secti
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note undersection 5314 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under section 5314 of Title 5, Government Organization and Employees.
 
 #### Task Force
 
@@ -174,13 +174,9 @@ Section 2 of Pub. L. 99–627 provided that:
 
 “(c) In studying and investigating the integrated, automated system, the task force shall consider including in that system such elements as automated routing, rating, documentation, payment, and auditing.
 
-“(d) Each department, agency, and instrumentality of the Federal Government shall furnish to the task force, upon its request, such data, reports, and other information (not otherwise prohibited by law) as the task force deems necessary to carry out its functions under this section.
+“(d) Each department, agency, and instrumentality of the Federal Government shall furnish to the taskforce, upon its request, such data, reports, and other information (not otherwise prohibited by law) as the task force deems necessary to carry out its functions under this section.
 
 “(e) The head of each such department, agency, and instrumentality may provide to the task force such services and personnel as the task force requests on such basis (reimbursable or otherwise) as may be agreed upon between such department, agency, or instrumentality and the task force.
 
 “(f) The task force shall submit a final report on the results of its study and investigation to the Congress not later than July 1, 1988.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3322, 3528 of this title; title 2 sections 142b, 142e, 142f, 142<i>l</i>; title 44 section 308; title 49 sections 11705, 14705, 15905.
 

@@ -62,7 +62,3 @@ Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congre
 
 Section 414(b)(2) of Pub. L. 95–454 required President to transmit by Jan. 1, 1980, a plan to Congress for authorizing executive level positions in executive branch.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 21 section 1703; title 33 section 2309.
-

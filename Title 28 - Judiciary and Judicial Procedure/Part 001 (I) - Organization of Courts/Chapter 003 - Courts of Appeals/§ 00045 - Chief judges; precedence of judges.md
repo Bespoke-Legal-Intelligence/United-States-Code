@@ -80,7 +80,3 @@ Section 166 of Pub. L. 97–164 provided that: “Notwithstanding the provisions
 
 Section 2(a) of act June 25, 1948, provided in part that the Chief Justice of the Court of Appeals for the District of Columbia in office on Sept. 1, 1948, shall thereafter be known as the Chief Judge.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 353, 372 of this title.
-

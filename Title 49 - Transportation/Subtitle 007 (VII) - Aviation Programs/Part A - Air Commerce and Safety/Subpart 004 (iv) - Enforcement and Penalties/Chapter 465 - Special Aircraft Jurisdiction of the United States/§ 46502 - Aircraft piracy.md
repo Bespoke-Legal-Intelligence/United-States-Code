@@ -96,7 +96,3 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 The United States is a party to the Convention for the Suppression of Unlawful Seizure of Aircraft, signed at The Hague, Dec. 16, 1970, entered into force as to the United States, Oct. 14, 1971, 22 UST 1641.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44903, 46302, 46507 of this title; title 18 sections 1956, 2332b, 2333, 2339, 2339A, 2516, 3559, 3592, 3663.
-

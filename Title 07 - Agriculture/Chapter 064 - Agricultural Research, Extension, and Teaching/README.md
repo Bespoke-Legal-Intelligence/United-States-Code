@@ -25,7 +25,12 @@
 | (f) | Federal Advisory Committee Act. |
 | (g) | Annual limitation on Advisory Board expenses. |
 | (h) | Termination. |
-| [3123a.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003123a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7853%28a%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201172.md) | Repealed. |
+| [3123a.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003123a%20-%20Specialty%20crop%20committee.md) | Specialty crop committee. |
+| (a) | Establishment. |
+| (b) | Members. |
+| (c) | Annual committee report. |
+| (d) | Consideration by Secretary. |
+| (e) | Annual report by Secretary. |
 | [3124\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003124%20-%20Existing%20research%20programs.md) | Existing research programs. |
 | [3124a.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003124a%20-%20Federal-State%20partnership%20and%20coordination.md) | Federal-State partnership and coordination. |
 | (a) | Covered programs; statement of purposes. |
@@ -439,10 +444,6 @@
 | (e) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 450i of this title; title 16 sections 1647, 1676.
 
 
 ---

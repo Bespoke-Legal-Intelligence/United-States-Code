@@ -94,7 +94,3 @@ Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in cas
 
 Amendment by Pub. L. 91–358 effective on first day of seventh calendar month which begins after July 29, 1970, see section 901(a) of Pub. L. 91–358.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2511 of this title.
-

@@ -68,7 +68,3 @@ Section 504(a) of Pub. L. 95–454 provided that amendment by Pub. L. 95–454 w
 
 Functions of President under former section 2123(e) \[now subsec. (d)\] of this section delegated to Director of Office of Personnel Management, see section 2 of Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739, set out as a note under section 301 of Title 3, The President.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9508 of this title; title 12 section 1441a.
-

@@ -34,7 +34,7 @@ The purpose of the National Summit shall be—
 
 &emsp;(7) to examine the impact and effectiveness of government programs at the Federal, State, and local levels to educate the public about, and to encourage, retirement income savings;
 
-&emsp;(8) to develop such specific and comprehensive recommendations for the legislative and executive branches of the Government and for private sector action as may be appropriate for promoting private pensions and individual retirement savings; and
+&emsp;(8) to develop such specific and comprehensive recommendations for the legislative and executive branches of the Government and for private sector action as may be appropriatefor promoting private pensions and individual retirement savings; and
 
 &emsp;(9) to develop recommendations for the coordination of Federal, State, and local retirement income savings initiatives among the Federal, State, and local levels of government and for the coordination of such initiatives.
 
@@ -114,7 +114,7 @@ The scope of the National Summit shall consist of issues relating to individual 
 
 &emsp;&emsp;(D) prepare and make available background materials for the use of participants in the National Summit that the Secretary considers necessary; and
 
-&emsp;&emsp;(E) appoint and fix the pay of such additional personnel as may be necessary tocarry out the provisions of this section without regard to provisions of title 5 governing appointments in the competitive service, and without regard to chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+&emsp;&emsp;(E) appoint and fix the pay of such additional personnel as may be necessary to carry out the provisions of this section without regard to provisions of title 5 governing appointments in the competitive service, and without regard to chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
 #### (2) Duties
 
@@ -171,6 +171,10 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(1)(E), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the semicolon.</i>
 

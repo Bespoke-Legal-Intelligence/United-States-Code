@@ -1,9 +1,5 @@
 Part II—Radio Equipment and Radio Operators On Board Ship
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 153, 154, 158, 382, 503, 504 of this title.
-
 
 ---
 

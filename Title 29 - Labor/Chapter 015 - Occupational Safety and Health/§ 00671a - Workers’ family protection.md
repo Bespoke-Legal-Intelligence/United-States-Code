@@ -36,7 +36,7 @@ This section may be cited as the “Workers’ Family Protection Act”.
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 18 months after October 26, 1992, the Director of the National Institutefor Occupational Safety and Health (hereafter in this section referred to as the “Director”), in cooperation with the Secretary of Labor, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for Toxic Substances and Disease Registry, and the heads of other Federal Government agencies as determined to be appropriate by the Director, shall conduct a study to evaluate the potential for, the prevalence of, and the issues related to the contamination of workers’ homes with hazardous chemicals and substances, including infectious agents, transported from the workplaces of such workers.
+&emsp;&emsp;Not later than 18 months after October 26, 1992, the Director of the National Institute for Occupational Safety and Health (hereafter in this section referred to as the “Director”), in cooperation with the Secretary of Labor, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for Toxic Substances and Disease Registry, and the heads of other Federal Government agencies as determined to be appropriate by the Director, shall conduct a study to evaluate the potential for, the prevalence of, and the issues related to the contamination of workers’ homes with hazardous chemicals and substances, including infectious agents, transported from the workplaces of such workers.
 
 #### (B) Matters to be evaluated
 
@@ -98,7 +98,7 @@ This section may be cited as the “Workers’ Family Protection Act”.
 
 #### (iii) Final strategy
 
-&emsp;&emsp;&emsp;After the peer review and public comment is conducted under clause (ii), the Director, in consultation with the heads of other government agencies, shall propose a final strategy for investigating issues related to home contamination that shall beimplemented by the National Institute for Occupational Safety and Health and other Federal agencies for the period of time necessary to enable such agencies to obtain the information identified under subparagraph (A)(iii).
+&emsp;&emsp;&emsp;After the peer review and public comment is conducted under clause (ii), the Director, in consultation with the heads of other government agencies, shall propose a final strategy for investigating issues related to home contamination that shall be implemented by the National Institute for Occupational Safety and Health and other Federal agencies for the period of time necessary to enable such agencies to obtain the information identified under subparagraph (A)(iii).
 
 #### (C) Construction
 

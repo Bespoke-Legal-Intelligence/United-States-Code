@@ -44,7 +44,3 @@ The Commission—
 
 Subsec. (c) of this section, which required the Commission to submit a report to Congress every two years on various matters relating to the operation of the Commission, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104-66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 114 of House Document No. 103-7.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2710 of this title.
-

@@ -14,7 +14,3 @@ Section 341 of that Act is set out as a note under section 1921 of Title 7.
 
 1990—Pub. L. 101–624 substituted “section 307(a)(3)(B)” for “section 307(a)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 488, 489, 490, 491, 493, 494 of this title; title 7 section 1985.
-

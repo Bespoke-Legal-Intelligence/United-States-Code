@@ -64,7 +64,3 @@ Application and redemption limitations.—This subsection shall only apply durin
 
 Redemption limitations.—In no event shall a person receive a payment from the Commodity Credit Corporation for a certificate that is redeemed under this subsection in an amount greater than the price paid for the certificate by the person. No expired certificate shall be exchanged under this section if the owner purchased the certificate after January 1, 1990.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7301, 7992 of this title.
-

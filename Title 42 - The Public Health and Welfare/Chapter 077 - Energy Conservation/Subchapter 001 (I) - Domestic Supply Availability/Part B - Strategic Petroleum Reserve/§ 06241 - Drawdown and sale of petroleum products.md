@@ -274,7 +274,3 @@ Administrative procedure.—Regulations issued to carry out the amendment made b
 
 &emsp;“(B) section 501 of the Department of Energy Organization Act (42 U.S.C. 7191).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6234, 6239, 6247 of this title.
-

@@ -18,7 +18,7 @@ Acts Oct. 15, 1949, ch. 695, §5(a), 63 Stat. 880; Aug. 5, 1955, ch. 568, §101,
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–68, which directed amendment of “Section 203(c) of the Federal Legislative Salary Act of 1964 (40 U.S.C. 162a)” by striking “the annual rate of basic pay” and all that follows and inserting “the lesser of the annual salary for the Sergeant at Arms of the House of Representatives or the annual salary for the Sergeant at Arms and Doorkeeper of the Senate.”, was executed by substituting the new language for “the annual rate of basic pay payable for positions at level III of the Executive Schedule under section 5314 of title 5” in this section, which is section 1(1) of Pub. L. 96–146, to reflect the probable intent of Congress.
+2001—Pub. L. 107–68, which directed amendment of “Section 203(c) of the Federal Legislative Salary Act of 1964 (40 U.S.C. 162a)” by striking “the annual rate of basic pay” and all that follows and inserting “the lesser of the annual salary for the Sergeant at Arms of the House of Representatives or the annual salary for the Sergeant at Arms and Doorkeeper of the Senate.”, was executed by substituting the new language for “the annual rate of basic pay payable for positions at level III of the Executive Schedule under section 5314 of title 5”in this section, which is section 1(1) of Pub. L. 96–146, to reflect the probable intent of Congress.
 
 #### Effective Date of 2001 Amendment
 
@@ -26,13 +26,13 @@ Pub. L. 107–68, title I, §129(e), Nov. 12, 2001, 115 Stat. 580, provided that
 
 #### Effective Date
 
-Section 2 of Pub. L. 96–146 provided that: “The provisions of this Act \[enacting this section and section 166b of former Title 40, Public Buildings, Property, andWorks\] shall take effect on the first day of the first applicable pay period commencing on or after the date of the enactment of this Act \[Dec. 14, 1979\].”
+Section 2 of Pub. L. 96–146 provided that: “The provisions of this Act \[enacting this section and section 166b of former Title 40, Public Buildings, Property, and Works\] shall take effect on the first day of the first applicable pay period commencing on or after the date of the enactment of this Act \[Dec. 14, 1979\].”
 
 #### Salary Increases
 
-<b>1987</b>—Salary of Architect increased to $82,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of this title.
+1987—Salary of Architect increased to $82,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of this title.
 
-<b>1977</b>—Salary of Architect increased to $50,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of this title.
+1977—Salary of Architect increased to $50,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of this title.
 
-<b>1969</b>—Salary of Architect increased to $38,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of this title.
+1969—Salary of Architect increased to $38,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of this title.
 

@@ -10,7 +10,7 @@ The Plan shall—
 
 &emsp;(1) establish, for the 10-year period beginning in the year the Plan is submitted, the goals and priorities for Federal global change research which most effectively advance scientific understanding of global change and provide usable information on which to base policy decisions relating to global change;
 
-&emsp;(2) describe specific activities, including research activities, data collection and data analysis requirements, predictive modeling,participation in international research efforts, and information management, required to achieve such goals and priorities;
+&emsp;(2) describe specific activities, including research activities, data collection and data analysis requirements, predictive modeling, participation in international research efforts, and information management, required to achieve such goals and priorities;
 
 &emsp;(3) identify and address, as appropriate, relevant programs and activities of the Federal agencies and departments represented on the Committee that contribute to the Program;
 
@@ -67,8 +67,4 @@ The Chairman of the Council shall enter into an agreement with the National Rese
 In developing the Plan, the Committee shall consult with academic, State, industry, and environmental groups and representatives. Not later than 90 days before the Chairman of the Council submits the Plan, or any revision thereof, to the Congress, a summary of the proposed Plan shall be published in the Federal Register for a public comment period of not less than 60 days.
 
 (Pub. L. 101–606, title I, §104, Nov. 16, 1990, 104 Stat. 3099.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2921, 2933 of this title.
 

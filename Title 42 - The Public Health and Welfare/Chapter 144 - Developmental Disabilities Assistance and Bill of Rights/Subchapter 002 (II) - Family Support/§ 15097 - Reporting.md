@@ -4,7 +4,3 @@ A State that receives a grant under this subchapter shall prepare and submit to 
 
 (Pub. L. 106–402, title II, §208, Oct. 30, 2000, 114 Stat. 1732.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15095 of this title.
-

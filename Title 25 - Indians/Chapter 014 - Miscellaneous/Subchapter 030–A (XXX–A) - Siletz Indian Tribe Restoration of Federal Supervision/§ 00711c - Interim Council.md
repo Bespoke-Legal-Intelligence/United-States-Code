@@ -18,7 +18,3 @@ Within thirty days after receiving notice of a vacancy on the Interim Council, t
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 711, 711b of this title.
-

@@ -92,7 +92,3 @@ In subsection (b)(2)(A) is substituted for 15:2002(<i>l</i>)(1)(C)(i)–(iii) to
 
 In subsection (e), the words “as provided in this section for passenger automobiles” are substituted for “as provided for under paragraph (1)” for clarity. The text of 15:2002(<i>l</i>)(2) (last sentence) is omitted as expired.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 32902, 32904, 32909, 32911, 32912 of this title.
-

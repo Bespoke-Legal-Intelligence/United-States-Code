@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of implementing the tariff treatment and quantitative restrictions provided for under the Agreement, except asotherwise provided in this section, a good originates in the territory of a NAFTA country if—
+&emsp;For purposes of implementing the tariff treatment and quantitative restrictions provided for under the Agreement, except as otherwise provided in this section, a good originates in the territory of a NAFTA country if—
 
 &emsp;&emsp;(A) the good is wholly obtained or produced entirely in the territory of one or more of the NAFTA countries;
 
@@ -162,7 +162,7 @@ nc
 
 &emsp;&emsp;(A) calculating the total cost incurred with respect to all goods produced by that producer, subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the total cost of all such goods, and reasonably allocating the resulting net cost of those goods to the good;
 
-&emsp;&emsp;(B) calculating the total cost incurred with respect to all goods produced by that producer, reasonably allocating the total cost to the good, and subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the portion of the total cost allocated to the good; or
+&emsp;&emsp;(B) calculating the total cost incurred with respect to all goods produced by thatproducer, reasonably allocating the total cost to the good, and subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the portion of the total cost allocated to the good; or
 
 &emsp;&emsp;(C) reasonably allocating each cost that is part of the total cost incurred with respect to the good so that the aggregate of these costs does not include any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, or nonallowable interest costs.
 
@@ -264,7 +264,7 @@ nc
 
 &emsp;&emsp;(A) for a producer's fiscal year beginning on the day closest to January 1, 1998, and thereafter, 56 percent calculated under the net cost method, and for a producer's fiscal year beginning on the day closest to January 1, 2002, and thereafter, 62.5 percent calculated under the net cost method, for—
 
-&emsp;&emsp;&emsp;(i) a good that is a motor vehicle for the transport of 15 or fewer persons providedfor in subheading 8702.10.00 or 8702.90.00, or a motor vehicle provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31; and
+&emsp;&emsp;&emsp;(i) a good that is a motor vehicle for the transport of 15 or fewer persons provided for in subheading 8702.10.00 or 8702.90.00, or a motor vehicle provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31; and
 
 &emsp;&emsp;&emsp;(ii) a good provided for in heading 8407 or 8408, or subheading 8708.40, that is for use in a motor vehicle identified in clause (i); and
 
@@ -292,7 +292,7 @@ nc
 
 #### (7) Election for certain vehicles from Canada
 
-&emsp;In the case of goods provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31, exported from Canada directly to the United States, and entered on or after January 1, 1989, and before the date of entry into force of the Agreement between the United States and Canada, an importer may elect to use the rules of origin set out in this section in lieu of the rules of origin contained in section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988 (19 U.S.C. 2112 note) and may elect to use the method for calculating the value of nonoriginating materials established in article 403(2) of the Agreement in lieu of the method established in article 403(1) of the Agreement for purposes of determining eligibility for preferential duty treatment under the United States-Canada Free-Trade Agreement. Any election under this paragraph shall be made in writing to the Customs Service not later than the date that is 180 days after the date of entry into force of the Agreement between the United States and Canada. Any such election may be made only if the liquidation of such entry has not become final. For purposes of averaging the calculation of regional value-content for the goods covered by such entry, where the producer's 1989–1990 fiscal year began after January 1, 1989, the producer may include the period between January 1, 1989, and the beginning of its first fiscal year after January 1, 1989, as part of fiscal year 1989–1990.
+&emsp;In the case of goods provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31, exported from Canada directly to the United States, and entered on or after January 1, 1989, and before the date of entry into force of the Agreement between the United States and Canada, an importer mayelect to use the rules of origin set out in this section in lieu of the rules of origin contained in section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988 (19 U.S.C. 2112 note) and may elect to use the method for calculating the value of nonoriginating materials established in article 403(2) of the Agreement in lieu of the method established in article 403(1) of the Agreement for purposes of determining eligibility for preferential duty treatment under the United States-Canada Free-Trade Agreement. Any election under this paragraph shall be made in writing to the Customs Service not later than the date that is 180 days after the date of entry into force of the Agreement between the United States and Canada. Any such election may be made only if the liquidation of such entry has not become final. For purposes of averaging the calculation of regional value-content for the goods covered by such entry, where the producer's 1989–1990 fiscal year began after January 1, 1989, the producer may include the period between January 1, 1989, and the beginning of its first fiscal year after January 1, 1989, as part of fiscal year 1989–1990.
 
 #### (d) Accumulation
 
@@ -320,7 +320,7 @@ nc
 
 &emsp;&emsp;(A) the value of all nonoriginating materials used in the production of the good that do not undergo an applicable change in tariff classification (set out in Annex 401 of the Agreement) is not more than 7 percent of the transaction value of the good, adjusted to a F.O.B. basis, or
 
-&emsp;&emsp;(B) where the transaction value of the good is unacceptable under Article 1 of theCustoms Valuation Code, the value of all such nonoriginating materials is not more than 7 percent of the total cost of the good,
+&emsp;&emsp;(B) where the transaction value of the good is unacceptable under Article 1 of the Customs Valuation Code, the value of all such nonoriginating materials is not more than 7 percent of the total cost of the good,
 
 > &emsp;provided that the good satisfies all other applicable requirements of this section and, if the good is subject to a regional value-content requirement, the value of such nonoriginating materials is taken into account in calculating the regional value-content of the good.
 
@@ -392,7 +392,7 @@ nc
 
 #### (5) Goods provided for in chapters 1 through 27 of the HTS
 
-&emsp;Paragraph (1) does not apply to a nonoriginating material used in the production of a good provided for in chapters 1 through 27 ofthe HTS unless the nonoriginating material is provided for in a different subheading than the good for which origin is being determined under this section.
+&emsp;Paragraph (1) does not apply to a nonoriginating material used in the production of a good provided for in chapters 1 through 27 of the HTS unless the nonoriginating material is provided for in a different subheading than the good for which origin is being determined under this section.
 
 #### (6) Goods provided for in chapters 50 through 63 of the HTS
 
@@ -546,7 +546,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) production in the territory of one or more of the NAFTA countries; or
 
-&emsp;&emsp;&emsp;(ii) used goods collected in the territory of one or more of the NAFTA countries, ifsuch goods are fit only for the recovery of raw materials; and
+&emsp;&emsp;&emsp;(ii) used goods collected in the territory of one or more of the NAFTA countries, if such goods are fit only for the recovery of raw materials; and
 
 &emsp;&emsp;(J) goods produced in the territory of one or more of the NAFTA countries exclusively from goods referred to in subparagraphs (A) through (I), or from their derivatives, at any stage of production.
 
@@ -600,7 +600,7 @@ For purposes of this section—
 
 #### (13) Motor vehicle assembler
 
-&emsp;The term “motor vehicle assembler” means a producer of motor vehicles and any related persons or joint ventures in which the producer participates.
+&emsp;The term “motor vehicle assembler” means a producer of motor vehicles and any relatedpersons or joint ventures in which the producer participates.
 
 #### (14) NAFTA country
 
@@ -766,7 +766,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) modifications to the provisions proclaimed under the authority of paragraph (1)(A) as are necessary to implement an agreement with one or more of the NAFTA countries pursuant to paragraph 2 of section 7 of Annex 300–B of the Agreement, and
 
-&emsp;&emsp;(B) before December 8, 1994, modifications to correct any typographical, clerical, or other nonsubstantive technical error regarding the provisions of Appendix 6.A of Annex 300–B and section XI of part B of Annex 401 of the Agreement.
+&emsp;&emsp;(B) before December 8, 1994, modifications to correct any typographical, clerical, orother nonsubstantive technical error regarding the provisions of Appendix 6.A of Annex 300–B and section XI of part B of Annex 401 of the Agreement.
 
 (Pub. L. 103–182, title II, §202, Dec. 8, 1993, 107 Stat. 2069; Pub. L. 104–295, §21(a)(2), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 105–206, title V, §5003(b)(4), July 22, 1998, 112 Stat. 790.)
 
@@ -797,10 +797,6 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 #### North American Free Trade Agreement: Entry Into Force
 
 The North American Free Trade Agreement entered into force on Jan. 1, 1994, see note set out under section 3311 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 58c, 1514, 1520, 1592, 3301, 3333, 3334, 3391, 3602 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

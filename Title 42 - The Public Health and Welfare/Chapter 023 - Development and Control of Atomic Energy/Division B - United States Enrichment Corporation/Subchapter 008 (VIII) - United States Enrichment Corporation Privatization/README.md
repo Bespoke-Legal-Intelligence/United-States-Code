@@ -1,9 +1,5 @@
 ### SUBCHAPTER VIII—UNITED STATES ENRICHMENT CORPORATION PRIVATIZATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2239 of this title.
-
 
 ---
 

@@ -12,7 +12,3 @@ The Secretary is authorized to make such rules and regulations as may be necessa
 
 Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, set out as a note under section 49a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 39 section 3202.
-

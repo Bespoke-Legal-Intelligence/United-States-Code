@@ -6,7 +6,7 @@ The Secretary is authorized, subject to the availability of appropriations, to m
 
 &emsp;(1) Determination of the economic development needs and potential of the Indian tribes involved in the program, including agriculture and natural resources needs.
 
-&emsp;(2) Development of consistent courses of instruction to prepare postsecondary students, tribal officials and others to meet the needs defined under paragraph (1). The development of such courses may be coordinated with secondary institutions to the extent practicable.
+&emsp;(2) Development of consistent courses of instruction to prepare postsecondary students,tribal officials and others to meet the needs defined under paragraph (1). The development of such courses may be coordinated with secondary institutions to the extent practicable.
 
 &emsp;(3) The conduct of vocational courses, including administrative expenses and student support services.
 

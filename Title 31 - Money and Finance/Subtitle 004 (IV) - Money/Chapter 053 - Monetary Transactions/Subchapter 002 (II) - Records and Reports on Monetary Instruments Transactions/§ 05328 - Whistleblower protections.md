@@ -40,17 +40,9 @@ Section 213 of the Federal Credit Union Act, referred to in subsec. (e), is clas
 
 Section 21A(q) of the Home Owners’ Loan Act, referred to in subsec. (e), probably means section 21A(q) of the Federal Home Loan Bank Act, which is classified to section 1441a(q) of Title 12.
 
-#### Codification
-
-Another section 365(c) of Pub. L. 107–56 amended the table of sections at the beginning of this chapter.
-
 #### Amendments
 
 2001—Subsecs. (a), (c), (e). Pub. L. 107–56 inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
-
-#### Termination Date of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

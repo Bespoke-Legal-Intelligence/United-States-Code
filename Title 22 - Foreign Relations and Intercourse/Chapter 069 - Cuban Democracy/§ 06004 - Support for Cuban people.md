@@ -24,7 +24,7 @@ Exports of medicines or medical supplies, instruments, or equipment to Cuba shal
 
 #### (1) Onsite verifications
 
-&emsp;(A) Subject to subparagraph (B), an export may be made under subsection (c) of this section only if the President determines that the United States Government is able to verify, by onsite inspections and other appropriate means, that the exported item is to be used for the purposes for which it was intended and only for the use and benefit of the Cuban people.
+&emsp;(A) Subject to subparagraph (B), an export may be made under subsection (c) of this section only if the President determines that the United States Government is able to verify, by onsite inspections and other appropriatemeans, that the exported item is to be used for the purposes for which it was intended and only for the use and benefit of the Cuban people.
 
 &emsp;(B) Subparagraph (A) does not apply to donations to nongovernmental organizations in Cuba of medicines for humanitarian purposes.
 
@@ -87,8 +87,4 @@ The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96
 #### Delegation of Functions
 
 For delegation of congressional reporting functions of President under subsec. (e) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46075, set out as a note under section 301 of Title 3, The President.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6003, 6005, 6008, 6009, 6064 of this title.
 

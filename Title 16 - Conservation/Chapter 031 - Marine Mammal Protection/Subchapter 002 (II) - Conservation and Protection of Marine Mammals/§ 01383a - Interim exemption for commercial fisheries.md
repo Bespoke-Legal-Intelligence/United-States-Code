@@ -50,7 +50,7 @@
 
 &emsp;(iii) fails to ensure that a decal or other physical evidence of such exemption issued by the Secretary is displayed on or is in possession of the master of the vessel,
 
-> and the master of any such vessel engaged in such fishery, shall be deemed to have violated this subchapter, and shall be subject to the penalties of this subchapter except in the case of unknowing violations before January 1, 1990.
+> and the master of any such vessel engaged in such fishery, shall be deemed to have violatedthis subchapter, and shall be subject to the penalties of this subchapter except in the case of unknowing violations before January 1, 1990.
 
 (D) If the owner of a vessel has obtained and maintains a current and valid exemption from the Secretary under this section and meets the requirements set forth in this section, the owner of such vessel, and the master and crew members of the vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals while such vessel is engaged in a fishery to which the exemption applies.
 
@@ -84,7 +84,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(B) interviews with fishermen; and
 
-&emsp;(C) other such information gathering and verification activities that will enable the Secretary to determine reliably the nature,type, and extent of the incidental taking of marine mammals that occurs in a fishery.
+&emsp;(C) other such information gathering and verification activities that will enable the Secretary to determine reliably the nature, type, and extent of the incidental taking of marine mammals that occurs in a fishery.
 
 > Except to the extent authorized by the provisions of subsection (e) of this section, the program shall not include placement of observers aboard exempted vessels.
 
@@ -275,10 +275,6 @@ Section 404(a)(2) of Pub. L. 104–43 provided that: “The amendment made by pa
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1372, 1384, 1387 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

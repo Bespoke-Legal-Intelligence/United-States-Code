@@ -6,7 +6,7 @@ The Panama Canal Commission shall make deposits on a regular basis to the Fund, 
 
 #### (b) Calculation of amounts to be deposited
 
-The amounts deposited under subsection (a) of this section shall be based upon periodic actuarial studies conducted by experts or consultants whose services are procured by the Panama Canal Commission by contract. The amounts of such deposits shall take into consideration interest earnings in accordance with subsection (c) of this section and expected cost of living adjustments as provided in section 8146a of title 5, but not amounts payable by the Commission forcontinuation of pay pursuant to section 8118 of such title.
+The amounts deposited under subsection (a) of this section shall be based upon periodic actuarial studies conducted by experts or consultants whose services are procured by the Panama Canal Commission by contract. The amounts of such deposits shall take into consideration interest earnings in accordance with subsection (c) of this section and expected cost of living adjustments as provided in section 8146a of title 5, but not amounts payable by the Commission for continuation of pay pursuant to section 8118 of such title.
 
 #### (c) Investment of amounts in Fund
 
@@ -21,8 +21,4 @@ Section was enacted as part of the Panama Canal Commission Compensation Fund Act
 #### Effective Date
 
 Section effective Oct. 1, 1988, see section 10 of Pub. L. 100–705, set out as an Effective Date of 1988 Amendment note under section 3612 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3715b, 3715c of this title.
 

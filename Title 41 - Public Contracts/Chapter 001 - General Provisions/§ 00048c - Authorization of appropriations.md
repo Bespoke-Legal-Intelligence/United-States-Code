@@ -14,7 +14,3 @@ There are authorized to be appropriated to the Committee to carry out sections 4
 
 Section effective Aug. 1, 1971, see section 2 of Pub. L. 92–28, set out as an Effective Date of 1971 Amendment note under section 46 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 46, 47, 48a, 48b of this title.
-

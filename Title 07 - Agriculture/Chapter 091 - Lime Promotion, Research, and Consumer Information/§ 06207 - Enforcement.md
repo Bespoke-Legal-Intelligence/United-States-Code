@@ -30,7 +30,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (1) Commencement of action
 
-&emsp;Any person against whom a violation is found and a civil penalty assessed or cease and desist order issued under subsection (c) of this section may obtain review of the penalty or order in the district court of the United States for the district in which such person resides or does business, or the United States District Court for the District of Columbia, by—
+&emsp;Any person against whom a violation is found and a civil penalty assessed or cease and desist order issued under subsection (c) of this section may obtain review of the penalty or order in the district court of the United States for the district in which such person resides ordoes business, or the United States District Court for the District of Columbia, by—
 
 &emsp;&emsp;(A) filing a notice of appeal in such court not later than 30 days after the date of such order; and
 
@@ -50,15 +50,11 @@ Any person who fails to obey a cease and desist order issued by the Secretary af
 
 #### (f) Failure to pay penalties
 
-If a person fails to pay an assessment of a civil penalty after it has become a final and unappealable order issued by the Secretary, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matterto the Attorney General for recovery of the amount assessed in the district court of the United States in any district in which the person resides or conducts business. In such action, the validity and appropriateness of the final order imposing such civil penalty shall not be subject to review.
+If a person fails to pay an assessment of a civil penalty after it has become a final and unappealable order issued by the Secretary, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States in any district in which the person resides or conducts business. In such action, the validity and appropriateness of the final order imposing such civil penalty shall not be subject to review.
 
 (Pub. L. 101–624, title XIX, §1958, Nov. 28, 1990, 104 Stat. 3877; Pub. L. 102–237, title VIII, §805(2), Dec. 13, 1991, 105 Stat. 1882.)
 
 #### Amendments
 
 1991—Subsec. (d)(1). Pub. L. 102–237 substituted “United States District Court” for “United States district court”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6206, 6208 of this title.
 

@@ -36,7 +36,3 @@ The words “an employee” are substituted for “any civilian officer or emplo
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5567 of this title.
-

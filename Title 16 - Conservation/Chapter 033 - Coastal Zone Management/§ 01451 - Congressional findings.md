@@ -12,7 +12,7 @@ The Congress finds that—
 
 (e) Important ecological, cultural, historic, and esthetic values in the coastal zone which are essential to the well-being of all citizens are being irretrievably damaged or lost.
 
-(f) New and expanding demands for food, energy, minerals, defense needs, recreation, wastedisposal, transportation, and industrial activities in the Great Lakes, territorial sea, exclusive economic zone, and Outer Continental Shelf are placing stress on these areas and are creating the need for resolution of serious conflicts among important and competing uses and values in coastal and ocean waters;
+(f) New and expanding demands for food, energy, minerals, defense needs, recreation, waste disposal, transportation, and industrial activities in the Great Lakes, territorial sea, exclusive economic zone, and Outer Continental Shelf are placing stress on these areas and are creating the need for resolution of serious conflicts among important and competing uses and values in coastal and ocean waters;
 
 (g) Special natural and scenic characteristics are being damaged by ill-planned development that threatens these values.
 
@@ -44,6 +44,10 @@ Subsecs. (k) to (m). Pub. L. 101–508, §6203(a)(3), added subsecs. (k) to (m).
 
 Subsec. (i). Pub. L. 94–370, §2(3), added subsec. (i).
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–456, title I, §101, Dec. 10, 2004, 118 Stat. 3630, provided that: “This title \[enacting and amending provisions set out as notes under this section\] may be cited as the ‘Harmful Algal Bloom and Hypoxia Amendments Act of 2004’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–150, §1, June 3, 1996, 110 Stat. 1380, provided that: “This Act \[enacting section 1465 of this title, amending sections 1454, 1455a, 1456a, 1456b, 1461, and 1464 of this title, and enacting provisions set out as a note under section 1454 of this title\] may be cited as the ‘Coastal Zone Protection Act of 1996’.”
@@ -70,7 +74,9 @@ Section 301 of title III of Pub. L. 89–454, as added by Pub. L. 92–583, prov
 
 #### Harmful Algal Blooms and Hypoxia Research and Control
 
-Pub. L. 105–383, title VI, Nov. 13, 1998, 112 Stat. 3447, provided that:
+Pub. L. 108–456, title I, §102, Dec. 10, 2004, 118 Stat. 3630, provided in part that: “In developing the assessments, reports, and plans under the amendments made by this title \[see Short Title of 2004 Amendment note above\], the Task Force \[Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia\] shall consult with the coastal States, Indian tribes, local governments, appropriate industries (including fisheries, agriculture, and fertilizer), academic institutions, and nongovernmental organizations with expertise in coastal zone science and management.”
+
+Pub. L. 105–383, title VI, Nov. 13, 1998, 112 Stat. 3447, as amended by Pub. L. 108–456, title I, §§102–105, Dec. 10, 2004, 118 Stat. 3630–3633, provided that:
 
 #### “SEC. 601. SHORT TITLE.
 
@@ -82,7 +88,7 @@ Pub. L. 105–383, title VI, Nov. 13, 1998, 112 Stat. 3447, provided that:
 
 &emsp;“(1) the recent outbreak of the harmful microbe Pfiesteria piscicida in the coastal waters of the United States is one example of potentially harmful algal blooms composed of naturally occurring species that reproduce explosively and that are increasing in frequency and intensity in the Nation's coastal waters;
 
-&emsp;“(2) other recent occurrences of harmful algal blooms include red tides in the Gulf of Mexico and the Southeast; brown tides in New York and Texas;ciguatera fish poisoning in Hawaii, Florida, Puerto Rico, and the United States Virgin Islands; and shellfish poisonings in the Gulf of Maine, the Pacific Northwest, and the Gulf of Alaska;
+&emsp;“(2) other recent occurrences of harmful algal blooms include red tides in the Gulf of Mexico and the Southeast; brown tides in New York and Texas; ciguatera fish poisoning in Hawaii, Florida, Puerto Rico, and the United States Virgin Islands; and shellfish poisonings in the Gulf of Maine, the Pacific Northwest, and the Gulf of Alaska;
 
 &emsp;“(3) in certain cases, harmful algal blooms have resulted in fish kills, the deaths of numerous endangered West Indian manatees, beach and shellfish bed closures, threats to public health and safety, and concern among the public about the safety of seafood;
 
@@ -160,9 +166,103 @@ Assessment of Hypoxia.—
 
 &emsp;&emsp;“(C) provide for Federal cooperation and coordination with and assistance to the States, Indian tribes, and local governments in the prevention, reduction, management, mitigation, and control of hypoxia and its environmental impacts.
 
-“(e)\[(d)\]
+“(d)
 
-Disestablishment of Task Force.—The President may disestablish the Task Force after submission of the plan in section 604(d) \[604(b)\].
+Report to Congress on Harmful Algal Bloom Impacts.—
+
+&emsp;“(1)
+
+Development.—Not later than 12 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004 \[Dec. 10, 2004\], the President, in consultation with the chief executive officers of the States, shall develop and submit to the Congress a report that describes and evaluates the effectiveness of measures described in paragraph (2) that may be utilized to protect environmental and public health from impacts of harmful algal blooms. In developing the report, the President shall consult with the Task Force, the coastal States, Indian tribes, local governments, appropriate industries (including fisheries, agriculture, and fertilizer), academic institutions, and nongovernmental organizations with expertise in coastal zone science and management, and also consider the scientific assessments developed under this Act.
+
+&emsp;“(2)
+
+Requirements.—The report shall—
+
+&emsp;&emsp;“(A) review techniques for prediction of the onset, course, and impacts of harmful algal blooms including evaluation of their accuracy and utility in protecting environmental and public health and provisions for their development;
+
+&emsp;&emsp;“(B) identify innovative research and development methods for the prevention, control, and mitigation of harmful algal blooms and provisions for their development; and
+
+&emsp;&emsp;“(C) include incentive-based partnership approaches regarding subparagraphs (A) and (B) where practicable.
+
+&emsp;“(3)
+
+Publication and opportunity for comment.—At least 90 days before submitting the report to the Congress, the President shall cause a summary of the proposed plan to be published in the Federal Register for a public comment period of not less than 60 days.
+
+&emsp;“(4)
+
+Federal assistance.—The Secretary of Commerce, in coordination with the Task Force and to the extent of funds available, shall provide for Federal cooperation with and assistance to the coastal States, Indian tribes, and local governments regarding the measures described in paragraph (2), as requested.
+
+“(e)
+
+Local and Regional Scientific Assessments.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Commerce, in coordination with the Task Force and appropriateState, Indian tribe, and local governments, to the extent of funds available, shall provide for local and regional scientific assessments of hypoxia and harmful algal blooms, as requested by States, Indian tribes, and local governments, or for affected areas as identified by the Secretary. If the Secretary receives multiple requests, the Secretary shall ensure, to the extent practicable, that assessments under this subsection cover geographically and ecologically diverse locations with significant ecological and economic impacts from hypoxia or harmful algal blooms. The Secretary shall establish a procedure for reviewing requests for local and regional assessments. The Secretary shall ensure, through consultation with Sea Grant Programs, that the findings of the assessments are communicated to the appropriate State, Indian tribe, and local governments, and to the general public.
+
+&emsp;“(2)
+
+Purpose.—Local and regional assessments shall examine—
+
+&emsp;&emsp;“(A) the causes and ecological consequences, and the economic cost, of hypoxia or harmful algal blooms in that area;
+
+&emsp;&emsp;“(B) potential methods to prevent, control, and mitigate hypoxia or harmful algal blooms in that area and the potential ecological and economic costs and benefits of such methods; and
+
+&emsp;&emsp;“(C) other topics the Task Force considers appropriate.
+
+“(f)
+
+Scientific Assessment of Freshwater Harmful Algal Blooms.—(1) Not later than 24 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004 \[Dec. 10, 2004\] the Task Force shall complete and submit to Congress a scientific assessment of current knowledge about harmful algal blooms in freshwater, such as the Great Lakes and upper reaches of estuaries, including a research plan for coordinating Federal efforts to better understand freshwater harmful algal blooms.
+
+“(2) The freshwater harmful algal bloom scientific assessment shall—
+
+&emsp;“(A) examine the causes and ecological consequences, and the economic costs, of harmful algal blooms with significant effects on freshwater, including estimations of the frequency and occurrence of significant events;
+
+&emsp;“(B) establish priorities and guidelines for a competitive, peer-reviewed, merit-based interagency research program, as part of the Ecology and Oceanography of Harmful Algal Blooms (ECOHAB) project, to better understand the causes, characteristics, and impacts of harmful algal blooms in freshwater locations; and
+
+&emsp;“(C) identify ways to improve coordination and to prevent unnecessary duplication of effort among Federal agencies and departments with respect to research on harmful algal blooms in freshwater locations.
+
+“(g)
+
+Scientific Assessments of Hypoxia.—(1) Not less than once every 5 years the Task Force shall complete and submit to the Congress a scientific assessment of hypoxia in United States coastal waters including the Great Lakes. The first such assessment shall be completed not less than 24 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004 \[Dec. 10, 2004\].
+
+“(2) The assessments under this subsection shall—
+
+&emsp;“(A) examine the causes and ecological consequences, and the economic costs, of hypoxia;
+
+&emsp;“(B) describe the potential ecological and economic costs and benefits of possible policy and management actions for preventing, controlling, and mitigating hypoxia;
+
+&emsp;“(C) evaluate progress made by, and the needs of, Federal research programs on the causes, characteristics, and impacts of hypoxia, including recommendations of how to eliminate significant gaps in hypoxia modeling and monitoring data; and
+
+&emsp;“(D) identify ways to improve coordination and to prevent unnecessary duplication of effort among Federal agencies and departments with respect to research on hypoxia.
+
+“(h)
+
+Scientific Assessments of Harmful Algal Blooms.—(1) Not less than once every 5 years the Task Force shall complete and submit to Congress a scientific assessment of harmful algal blooms in United States coastal waters. The first such assessment shall be completed not later than 24 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004 \[Dec. 10, 2004\] and shall consider only marine harmful algal blooms. All subsequent assessments shall examine both marine and freshwater harmful algal blooms, including those in the Great Lakes and upper reaches of estuaries.
+
+“(2) The assessments under this subsection shall—
+
+&emsp;“(A) examine the causes and ecological consequences, and economic costs, of harmful algal blooms;
+
+&emsp;“(B) describe the potential ecological and economic costs and benefits of possible actions for preventing, controlling, and mitigating harmful algal blooms;
+
+&emsp;“(C) evaluate progress made by, and the needs of, Federal research programs on the causes, characteristics, and impacts of harmful algal blooms; and
+
+&emsp;“(D) identify ways to improve coordination and to prevent unnecessary duplication of effort among Federal agencies and departments with respect to research on harmful algal blooms.
+
+“(i)
+
+National Scientific Research, Development, Demonstration, and Technology Transfer Plan on Reducing Impacts From Harmful Algal Blooms.—(1) Not later than 12 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004 \[Dec. 10, 2004\], the Task Force shall develop and submit to Congress a plan providing for a comprehensive and coordinated national research program to develop and demonstrate prevention, control, and mitigation methods to reduce the impacts of harmful algal blooms on coastal ecosystems (including the Great Lakes), public health, and the economy.
+
+“(2) The plan shall—
+
+&emsp;“(A) establish priorities and guidelines for a competitive, peer reviewed, merit based interagency research, development, demonstration, and technology transfer program on methods for the prevention, control, and mitigation of harmful algal blooms;
+
+&emsp;“(B) identify ways to improve coordination and to prevent unnecessary duplication of effort among Federal agencies and departments with respect to the actions described in paragraph (1); and
+
+&emsp;“(C) include to the maximum extent practicable diverse institutions, including Historically Black Colleges and Universities and those serving large proportions of Hispanics, Native Americans, Asian Pacific Americans, and other underrepresented populations.
+
+“(3) The Secretary of Commerce, in conjunction with other appropriate Federal agencies, shall establish a research, development, demonstration, and technology transfer program that meets the priorities and guidelines established under paragraph (2)(A). The Secretary shall ensure, through consultation with Sea Grant Programs, that the results and findings of the program are communicated to State, Indian tribe, and local governments, and to the general public.
 
 #### “SEC. 604. NORTHERN GULF OF MEXICO HYPOXIA.
 
@@ -172,21 +272,23 @@ Assessment Report.—Not later than May 30, 1999, the Task Force shall complete 
 
 “(b)
 
-Submission of a Plan.—No later than March 30, 2000, the President, in conjunction with the chief executive officers of the States, shall develop and submit to Congress a plan, based on the integrated assessment submitted under subsection (a), for reducing, mitigating, and controlling hypoxia in the northern Gulf of Mexico. In developing such plan, the President shall consult with State, Indian tribe, and local governments, academic, agricultural, industry, and environmental groups and representatives. Such plan shall include incentive-based partnership approaches. The plan shall also include the social and economic costs and benefits of the measures for reducing, mitigating, and controlling hypoxia. At least 90 days before the President submits such plan to the Congress, a summary of the proposed plan shall be published in the Federal Register for a public comment period of not less than 60 days.
+Submission of a Plan.—No later than March 30, 2000, the President, in conjunction with the chief executive officers of the States, shall develop and submit to Congress a plan, based on the integrated assessmentsubmitted under subsection (a), for reducing, mitigating, and controlling hypoxia in the northern Gulf of Mexico. In developing such plan, the President shall consult with State, Indian tribe, and local governments, academic, agricultural, industry, and environmental groups and representatives. Such plan shall include incentive-based partnership approaches. The plan shall also include the social and economic costs and benefits of the measures for reducing, mitigating, and controlling hypoxia. At least 90 days before the President submits such plan to the Congress, a summary of the proposed plan shall be published in the Federal Register for a public comment period of not less than 60 days.
 
 #### “SEC. 605. AUTHORIZATION OF APPROPRIATIONS.
 
-“There are authorized to be appropriated to the Secretary of Commerce for research, education, and monitoring activities related to the prevention, reduction, and control of harmful algal blooms and hypoxia, $15,000,000 for fiscal year 1999, $18,250,000 for fiscal year 2000, and $19,000,000 for fiscal year 2001, to remain available until expended. The Secretary shall consult with the States on a regular basis regarding the development and implementation of the activities authorized under this section. Of such amounts for each fiscal year—
+“There are authorized to be appropriated to the Secretary of Commerce for research, education, and monitoring activities related to the prevention, reduction, and control of harmful algal blooms and hypoxia, $15,000,000 for fiscal year 1999, $18,250,000 for fiscal year 2000, $19,000,000 for fiscal year 2001, $23,500,000 for fiscal year 2005, $24,500,000 for fiscal year 2006, $25,000,000 for fiscal year 2007, and $25,500,000 for fiscal year 2008, to remain available until expended. The Secretary shall consult with the States on a regular basis regarding the development and implementation of the activities authorized under this section. Of such amounts for each fiscal year—
 
-&emsp;“(1) $1,500,000 for fiscal year 1999, $1,500,000 for fiscal year 2000, and $2,000,000 for fiscal year 2001 may be used to enable the National Oceanic and Atmospheric Administration to carry out research and assessment activities, including procurement of necessary research equipment, at research laboratories of the National Ocean Service and the National Marine Fisheries Service;
+&emsp;“(1) $1,500,000 for fiscal year 1999, $1,500,000 for fiscal year 2000, $2,000,000 for fiscal year 2001, and $2,500,000 for each of fiscal years 2005 through 2008 may be used to enable the National Oceanic and Atmospheric Administration to carry out research and assessment activities, including procurement of necessary research equipment, at research laboratories of the National Ocean Service and the National Marine Fisheries Service;
 
-&emsp;“(2) $4,000,000 for fiscal year 1999, $5,500,000 for fiscal year 2000, and $5,500,000 for fiscal year 2001 may be used to carry out the Ecology and Oceanography of Harmful Algal Blooms (ECOHAB) project under the Coastal Ocean Program established under section 201(c) of Public Law 102–567 \[106 Stat. 4280\];
+&emsp;“(2) $4,000,000 for fiscal year 1999, $5,500,000 for fiscal year 2000, $5,500,000 for fiscal year 2001, and $6,500,000, of which $1,000,000 shall be used for the research program described in section 603(f)(2)(B), for each of fiscal years 2005 through 2008 may be used to carry out the Ecology and Oceanography of Harmful Algal Blooms (ECOHAB) project under the Coastal Ocean Program established under section 201(c) of Public Law 102–567 \[106 Stat. 4280\];
 
-&emsp;“(3) $1,000,000 for fiscal year 1999, $2,000,000 for fiscal year 2000, and $2,000,000 for fiscal year 2001 may be used by the National Ocean Service of the National Oceanic and Atmospheric Administration to carry out a peer-reviewed research project on management measures that can be taken to prevent, reduce, control, and mitigate harmful algal blooms;
+&emsp;“(3) $1,000,000 for fiscal year 1999, $2,000,000 for fiscal year 2000, $2,000,000 for fiscal year 2001, and $3,000,000 for each of fiscal years 2005 through 2008 may be used by the National Ocean Service of the National Oceanic and Atmospheric Administration to carry out a peer-reviewed research project on management measures that can be taken to prevent, reduce, control, and mitigate harmful algal blooms and to carry out section 603(d);
 
-&emsp;“(4) $5,500,000 for each of the fiscal years 1999, 2000, and 2001 may be used to carry out Federal and State annual monitoring and analysis activities for harmful algal blooms administered by the National Ocean Service of the National Oceanic and Atmospheric Administration; and
+&emsp;“(4) $5,500,000 for each of the fiscal years 1999, 2000, 2001, and $6,000,000 for each of fiscal years 2005 through 2008 may be used to carry out Federal and State annual monitoring and analysis activities for harmful algal blooms administered by the National Ocean Service of the National Oceanic and Atmospheric Administration;
 
-&emsp;“(5) $3,000,000 for fiscal year 1999, $3,750,000 for fiscal year 2000, and $4,000,000 for fiscal year 2001 may be used for activities related to research and monitoring on hypoxia by the National Ocean Service and the Office of Oceanic and Atmospheric Research of the National Oceanic and Atmospheric Administration.
+&emsp;“(5) $3,000,000 for fiscal year 1999, $3,750,000 for fiscal year 2000, $4,000,000 for fiscal year 2001, $4,000,000 for fiscal year 2005, $5,000,000 for fiscal year 2006, $5,500,000 for fiscal year 2007, and $6,000,000 for fiscal year 2008 may be used for activities related to research and monitoring on hypoxia by the National Ocean Service and the Office of Oceanic and Atmospheric Research of the National Oceanic and Atmospheric Administration; and
+
+&emsp;“(6) $1,500,000 for each of fiscal years 2005 through 2008 to carry out section 603(e).
 
 #### “SEC. 606. PROTECTION OF STATES’ RIGHTS.
 
@@ -222,7 +324,7 @@ Findings.—Congress finds and declares the following:
 
 “(b)
 
-Purpose.—It is the purpose of Congress in this subtitle \[see Short Title of 1990 Amendment note above\] to enhance the effectiveness of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1451 et seq.\] by increasing our understanding of the coastal environment and expanding the ability of State coastal zone management programs to address coastal environmental problems.”
+Purpose.—It is the purpose of Congress in this subtitle \[see Short Title of 1990 Amendment note above\] to enhance the effectiveness of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1451 et seq.\] by increasing our understanding of the coastal environmentand expanding the ability of State coastal zone management programs to address coastal environmental problems.”
 
 #### Establishment of Positions and Fixing of Compensation by Secretary of Commerce; Appointments
 

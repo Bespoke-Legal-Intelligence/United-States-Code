@@ -14,7 +14,7 @@
 
 (d)(1) An agency may finance initial human capital performance payments using monies from the Human Capital Performance Fund, as available.
 
-(2) In subsequent years, continuation of previously awarded human capital performance payments shall be financed from other agency funds available for salaries and expenses.
+(2) In subsequent years, continuation of previously awarded human capital performancepayments shall be financed from other agency funds available for salaries and expenses.
 
 (Added Pub. L. 108–136, div. A, title XI, §1129(a), Nov. 24, 2003, 117 Stat. 1643.)
 
@@ -24,5 +24,5 @@ Executive Level IV, referred to in subsec. (b)(2), is set out in section 5315 of
 
 #### Prior Provisions
 
-A prior section 5404, added Pub. L. 95–454, title V, §501, Oct. 13, 1978, 92 Stat. 1183; amended Pub. L. 98–615, title II, §201(a), Nov. 8, 1984, 98 Stat. 3210; Pub. L.101–103, §3(a), Sept. 30, 1989, 103 Stat. 670, related to merit increases, prior to repeal by Pub. L. 103–89, §3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
+A prior section 5404, added Pub. L. 95–454, title V, §501, Oct. 13, 1978, 92 Stat. 1183; amended Pub. L. 98–615, title II, §201(a), Nov. 8, 1984, 98 Stat. 3210; Pub. L. 101–103, §3(a), Sept. 30, 1989, 103 Stat. 670, related to merit increases, prior to repeal by Pub. L. 103–89, §3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
 

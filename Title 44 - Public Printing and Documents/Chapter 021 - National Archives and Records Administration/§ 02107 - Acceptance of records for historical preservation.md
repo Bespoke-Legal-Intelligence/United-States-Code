@@ -34,7 +34,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–345, §1, Oct. 6, 1994, 108 Stat. 3128, provided that: “This Act \[amending provisions set out as a notebelow\] may be cited as the ‘President John F. Kennedy Assassination Records Collection Extension Act of 1994’.”
+Pub. L. 103–345, §1, Oct. 6, 1994, 108 Stat. 3128, provided that: “This Act \[amending provisions set out as a note below\] may be cited as the ‘President John F. Kennedy Assassination Records Collection Extension Act of 1994’.”
 
 #### President John F. Kennedy Assassination Records Collection
 
@@ -178,7 +178,7 @@ Additional Requirements.—(1) The Collection shall be preserved, protected, arc
 
 “(e)
 
-Oversight.—The Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives and the Committee on Governmental Affairs of the Senate shall have continuing oversight jurisdiction with respect to the Collection.
+Oversight.—The Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the Collection.
 
 #### “SEC. 5. REVIEW, IDENTIFICATION, TRANSMISSION TO THE NATIONAL ARCHIVES, AND PUBLIC DISCLOSURE OF ASSASSINATION RECORDS BY GOVERNMENT OFFICES.
 
@@ -212,7 +212,7 @@ Review.—(1) Not later than 300 days after the date of enactment of this Act \[
 
 &emsp;“(B) determine which of its assassination records have been officially disclosed or publicly available in a complete and unredacted form;
 
-&emsp;“(C)(i) determine which of its assassination records, or particular information contained in such a record, was created by a third agency or by another Government office; and
+&emsp;“(C)(i) determine which of its assassination records, or particular information contained in such a record,was created by a third agency or by another Government office; and
 
 &emsp;“(ii) transmit to a third agency or other Government office those records, or particular information contained in those records, or complete and accurate copies thereof;
 
@@ -338,11 +338,11 @@ Appointment.—(1) The President, by and with the advice and consent of the Sena
 
 Security Clearances.—(1) All Review Board nominees shall be granted the necessary security clearances in an accelerated manner subject to the standard procedures for granting such clearances.
 
-“(2) All nominees shall qualify for the necessary security clearance prior to being considered for confirmation by the Committee on Governmental Affairs of the Senate.
+“(2) All nominees shall qualify for the necessary security clearance prior to being considered for confirmation by the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate.
 
 “(d)
 
-Confirmation Hearings.—(1) The Committee on Governmental Affairs of the Senate shall hold confirmation hearings within 30 days in which the Senate is in session after the nomination of 3 Review Board members.
+Confirmation Hearings.—(1) The Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall hold confirmation hearings within 30 days in which the Senate is in session after the nomination of 3 Review Board members.
 
 “(2) The Committee on Governmental Affairs shall vote on the nominations within 14 days in which the Senate is in session after the confirmation hearings, and shall report its results to the full Senate immediately.
 
@@ -364,7 +364,7 @@ Removal of Review Board Member.—(1) No member of the Review Board shall be rem
 
 &emsp;“(B) by the action of the President for inefficiency, neglect of duty, malfeasance in office, physical disability, mental incapacity, or any other condition that substantially impairs the performance of the member's duties.
 
-“(2)(A) If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal the President shall submit to the Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives and the Committee on Governmental Affairs of the Senate a report specifying the facts found and the grounds for the removal.
+“(2)(A) If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal the President shall submit to the Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report specifying the facts found and the grounds for the removal.
 
 “(B) The President shall publish in the Federal Register a report submitted under paragraph (2)(A), except that the President may, if necessary to protect the rights of a person named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report until the completion of such pending cases or pursuant to privacy protection requirements in law.
 
@@ -420,7 +420,7 @@ Witness Immunity.—The Review Board shall be considered to be an agency of the 
 
 “(<i>l</i>)
 
-Oversight.—(1) The Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives and the Committee on Governmental Affairs of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
+Oversight.—(1) The Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
 
 “(2) The Review Board shall have the duty to cooperate with the exercise of such oversight jurisdiction.
 
@@ -566,7 +566,7 @@ Notice to Public.—Every 30 calendar days, beginning on the date that is 60 cal
 
 “(f)
 
-Reports by the Review Board.—(1) The Review Board shall report its activities to the leadership of the Congress, the Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives, the Committee on Governmental Affairs of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
+Reports by the Review Board.—(1) The Review Board shall report its activities to the leadership of the Congress, the Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
 
 “(2) The first report shall be issued on the date that is 1 year after the date of enactment of this Act \[Oct. 26, 1992\], and subsequent reports every 12 months thereafter until termination of the Review Board.
 
@@ -606,7 +606,7 @@ Sense of Congress.—It is the sense of the Congress that—
 
 &emsp;“(1) the Attorney General should assist the Review Board in good faith to unseal any records that the Review Board determines to be relevant and held under seal by a court or under the injunction of secrecy of a grand jury;
 
-&emsp;“(2) the Secretary of State should contact the Government of the Republic of Russia and seek the disclosure of all records of the government of the former Soviet Union, including the records of the Komitet Gosudarstvennoy Bezopasnosti (KGB) and the Glaynoye Razvedyvatelnoye Upravleniye (GRU), relevant to the assassination of President Kennedy, andcontact any other foreign government that may hold information relevant to the assassination of President Kennedy and seek disclosure of such information; and
+&emsp;“(2) the Secretary of State should contact the Government of the Republic of Russia and seek the disclosure of all records of the government of the former Soviet Union, including the records of the Komitet Gosudarstvennoy Bezopasnosti (KGB) and the Glaynoye Razvedyvatelnoye Upravleniye (GRU), relevant to the assassination of President Kennedy, and contact any other foreign government that may hold information relevant to the assassination of President Kennedy and seek disclosure of such information; and
 
 &emsp;“(3) all Executive agencies should cooperate in full with the Review Board to seek the disclosure of all information relevant to the assassination of President John F. Kennedy consistent with the public interest.
 
@@ -665,8 +665,4 @@ Interim Funding.—Until such time as funds are appropriated pursuant to subsect
 #### Classified National Security Information
 
 For provisions authorizing Archivist to review, downgrade, and declassify information of former Presidents under control of Archivist pursuant to this section, see Ex. Ord. No. 12958, §3.6(b)(4), Apr. 17, 1995, 60 F.R. 19835, set out as a note under section 435 of Title 50, War and National Defense.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3102, 3317 of this title; title 36 section 2103.
 

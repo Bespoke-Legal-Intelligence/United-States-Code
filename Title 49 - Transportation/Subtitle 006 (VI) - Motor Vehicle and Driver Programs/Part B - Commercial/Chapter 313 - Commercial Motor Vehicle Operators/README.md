@@ -28,10 +28,6 @@
 
 1998—Pub. L. 105–178, title IV, §§4007(b), 4011(b)(2), (f), June 9, 1998, 112 Stat. 403, 407, 408, substituted “Commercial driver's license requirement” for “Limitation on the number of driver's licenses” in item 31302 and “Waivers, exemptions, and pilot programs” for “Waiver authority” in item 31315 and struck out items 31312 “Grants for testing and ensuring the fitness of operators of commercial motor vehicles” and 31313 “Grants for issuing commercial drivers’ licenses and complying with State participation requirements”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 113, 11303, 31148 of this title; title 18 section 2721.
-
 
 ---
 

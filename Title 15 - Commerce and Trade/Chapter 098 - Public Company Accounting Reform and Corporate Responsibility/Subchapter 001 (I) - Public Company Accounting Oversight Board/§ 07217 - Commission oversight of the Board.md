@@ -88,7 +88,3 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 This Act and the Sarbanes-Oxley Act of 2002, referred to in text, are Pub. L. 107–204, July 30, 2002, 116 Stat. 745. Title I of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7201, 7211, 7212, 7213, 7215, 7231 of this title.
-

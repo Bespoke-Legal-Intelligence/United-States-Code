@@ -4,7 +4,7 @@ When used in this chapter—
 
 (a) The term “Secretary” means the Secretary of Commerce;
 
-(b) The term “Board” means the Board which is established to carry out the provisions of thischapter. The Board shall consist of the Secretary of Commerce, who shall be chairman and executive officer of the Board, and the Secretary of the Treasury;
+(b) The term “Board” means the Board which is established to carry out the provisions of this chapter. The Board shall consist of the Secretary of Commerce, who shall be chairman and executive officer of the Board, and the Secretary of the Treasury;
 
 (c) The term “State” includes any State, the District of Columbia, and Puerto Rico;
 

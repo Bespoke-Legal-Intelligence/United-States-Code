@@ -8,7 +8,3 @@ Any mining claim given force and effect as provided in section 501 of this title
 
 For definition of “mineral leasing laws”, see section 505 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 2098.
-

@@ -6,7 +6,7 @@ The Administration is authorized on such terms and to the extent it may deem app
 
 #### (b) Indemnification
 
-Under such regulations in conformity with this section as the Administrator shall prescribe taking into account the availability, cost and terms of liability insurance, any agreement between the Administration and a user of a space vehicle may provide that the United States will indemnify the user against claims (including reasonable expenses of litigation or settlement) by third parties for death, bodily injury, or loss of or damage to property resulting from activities carried on in connection with the launch, operations or recovery of the space vehicle, but only to the extent that such claims are not compensated by liability insurance of the user: <i>Provided</i>, That such indemnification may be limited to claims resulting from other than the actual negligence or willful misconduct of the user.
+Under such regulations in conformity with this section as the Administrator shall prescribetaking into account the availability, cost and terms of liability insurance, any agreement between the Administration and a user of a space vehicle may provide that the United States will indemnify the user against claims (including reasonable expenses of litigation or settlement) by third parties for death, bodily injury, or loss of or damage to property resulting from activities carried on in connection with the launch, operations or recovery of the space vehicle, but only to the extent that such claims are not compensated by liability insurance of the user: <i>Provided</i>, That such indemnification may be limited to claims resulting from other than the actual negligence or willful misconduct of the user.
 
 #### (c) Terms of indemnification agreement; notice; United States control of or assistance in defense
 
@@ -47,8 +47,4 @@ Section 6(c) of Pub. L. 96–48 provided that: “This section \[enacting this s
 #### Experimental Aerospace Vehicle Insurance; Indemnification; Liability
 
 Pub. L. 105–276, title IV, §431, Oct. 21, 1998, 112 Stat. 2513, authorized the Administrator to insure or indemnify the developer of an experimental aerospace vehicle developed or used in execution of an agreement between the Administrator and developer, prior to repeal by Pub. L. 106–74, title IV, §435(b), Oct. 20, 1999, 113 Stat. 1100. See section 2458c of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2458c of this title.
 

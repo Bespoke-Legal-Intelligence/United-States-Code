@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—OPERATING LOANS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1925, 1961, 1963, 1964, 1981b, 1983, 1983a, 1989, 1991, 1994, 2000, 2003, 2006a, 2008h, 2008<i>l</i> of this title.
-
 
 ---
 

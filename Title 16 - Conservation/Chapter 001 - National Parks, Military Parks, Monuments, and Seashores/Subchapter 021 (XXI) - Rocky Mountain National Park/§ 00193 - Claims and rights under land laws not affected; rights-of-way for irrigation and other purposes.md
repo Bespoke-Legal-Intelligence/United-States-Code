@@ -14,9 +14,5 @@ Section 79 of this title, referred to in text, was in the original a reference t
 
 #### Amendments
 
-1931—Act Jan. 26, 1931, repealed provision which authorized granting of easements or rights of way forsteam, electric, or similar transportation upon or across the park.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 192, 194, 197 of this title.
+1931—Act Jan. 26, 1931, repealed provision which authorized granting of easements or rights of way for steam, electric, or similar transportation upon or across the park.
 

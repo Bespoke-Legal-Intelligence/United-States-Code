@@ -76,7 +76,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 &emsp;&emsp;&emsp;(ii) providing ongoing training and technical assistance for regional and program staff charged with monitoring and overseeing the administration of the program carried out under this section;
 
-&emsp;&emsp;&emsp;(iii) providing ongoing training and technical assistance for existing recipients (as of the date of such training or assistance)of grants under subsection (a) of this section and support and program planning and implementation assistance for new recipients of such grants; and
+&emsp;&emsp;&emsp;(iii) providing ongoing training and technical assistance for existing recipients (as of the date of such training or assistance) of grants under subsection (a) of this section and support and program planning and implementation assistance for new recipients of such grants; and
 
 &emsp;&emsp;&emsp;(iv) providing professional development and personnel enhancement activities, including the provision of funds to recipients of grants under subsection (a) of this section for the recruitment and retention of qualified staff with an appropriate level of education and experience.
 
@@ -84,7 +84,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(8), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(8), is title VI of Pub. L. 91–230,Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
 
@@ -119,8 +119,4 @@ Subsec. (h). Pub. L. 105–285, §113(9), struck out heading and text of subsec.
 #### Effective Date
 
 Section effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as an Effective Date of 1994 Amendment note under section 9832 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9835 of this title.
 

@@ -54,7 +54,7 @@ In this part:
 
 #### (8) Tribal share
 
-&emsp;The term “tribal share” means an Indian tribe's portion of all funds and resources that support secretarial programs, services, functions, and activities (or portions thereof) thatare not required by the Secretary for performance of inherent Federal functions.
+&emsp;The term “tribal share” means an Indian tribe's portion of all funds and resources that support secretarial programs, services, functions, and activities (or portions thereof) that are not required by the Secretary for performance of inherent Federal functions.
 
 #### (b) Indian tribe
 
@@ -108,7 +108,7 @@ Pub. L. 106–260, §3, Aug. 18, 2000, 114 Stat. 712, provided that: “It is th
 
 &emsp;&emsp;“(E) to strengthen the government-to-government relationship between the United States and Indian tribes through direct and meaningful consultation with all tribes;
 
-&emsp;&emsp;“(F) to permit an orderly transition from Federal domination of programs and services to provide Indian tribes with meaningful authority, control, funding, and discretion to plan, conduct, redesign, and administer programs, services, functions, and activities (or portions thereof) that meet the needs of the individual tribal communities;
+&emsp;&emsp;“(F) to permit an orderly transition from Federal domination of programs and services to provide Indian tribes with meaningful authority, control,funding, and discretion to plan, conduct, redesign, and administer programs, services, functions, and activities (or portions thereof) that meet the needs of the individual tribal communities;
 
 &emsp;&emsp;“(G) to provide for a measurable parallel reduction in the Federal bureaucracy as programs, services, functions, and activities (or portion thereof) are assumed by Indian tribes;
 

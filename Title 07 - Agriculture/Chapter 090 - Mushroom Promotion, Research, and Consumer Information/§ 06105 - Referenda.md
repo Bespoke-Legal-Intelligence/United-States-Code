@@ -20,7 +20,7 @@
 
 #### (B) Request for referendum
 
-&emsp;&emsp;Effective beginning 3 years after the date on which an order becomes effective under section 6103(b) of this title, the Secretary, on request of a representative group comprising 30 percent or more of the number of mushroom producers and importers, may conduct a referendum to ascertain whether producers and importers favor termination or suspension of the order.
+&emsp;&emsp;Effective beginning 3 years after the date on which an order becomes effective under section 6103(b) of this title, the Secretary, on request of a representative group comprising30 percent or more of the number of mushroom producers and importers, may conduct a referendum to ascertain whether producers and importers favor termination or suspension of the order.
 
 #### (2) Suspension or termination
 
@@ -35,8 +35,4 @@
 Referenda conducted pursuant to this section shall be conducted in such a manner as is determined by the Secretary.
 
 (Pub. L. 101–624, title XIX, §1926, Nov. 28, 1990, 104 Stat. 3861.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6103 of this title.
 

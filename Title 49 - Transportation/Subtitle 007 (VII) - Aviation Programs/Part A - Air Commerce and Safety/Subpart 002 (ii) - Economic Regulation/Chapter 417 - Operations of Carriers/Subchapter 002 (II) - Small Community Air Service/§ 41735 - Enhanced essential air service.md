@@ -14,7 +14,7 @@ Proposals.—(1) A State or local government may submit a proposal to the Secret
 
 &emsp;(B)(i) the Government pay 100 percent of the compensation; and
 
-&emsp;(ii) if the proposed service is not successful for at least a 2-year period under the criteria prescribed by the Secretary under paragraph (3) of this subsection, the eligible place is not eligible for air service or air transportation for which compensation is paid by the Secretary under this subchapter.
+&emsp;(ii) if the proposed service is not successful for at least a 2-year period under the criteria prescribed by the Secretary under paragraph (3) of this subsection, the eligible place is noteligible for air service or air transportation for which compensation is paid by the Secretary under this subchapter.
 
 (3) The Secretary shall prescribe by regulation objective criteria for deciding whether enhanced essential air service to an eligible place under this section is successful in terms of—
 
@@ -40,7 +40,7 @@ Compensation Payments.—(1) The Secretary shall pay compensation under this sec
 
 &emsp;(C) the Secretary decides the compensation is necessary to maintain the service to the place.
 
-(2) The Secretary may require the State or local government or person agreeing to paycompensation under this section to make advance payments or provide other security to ensure that timely payments are made.
+(2) The Secretary may require the State or local government or person agreeing to pay compensation under this section to make advance payments or provide other security to ensure that timely payments are made.
 
 (d)
 
@@ -101,8 +101,4 @@ In subsection (c)(2), the words “State or local government or person agreeing 
 In subsection (d)(2), the words “For service for which the Government pays 50 percent of the compensation” are substituted for “If the enhanced essential air service approved under this subsection is to be at a 50 percent Federal share” because of the restatement. The words “the remaining 50 percent” are substituted for “the non-Federal” for clarity and consistency in this section.
 
 In subsection (d)(3), the words “For service for which the Government pays 100 percent of the compensation” are substituted for “If the enhanced essential air service approved under this subsection is to be at a 100 percent Federal share” because of the restatement.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41110 of this title.
 

@@ -4,7 +4,3 @@ All barrels packed with apples shall be deemed to be below standard if the barre
 
 (Aug. 3, 1912, ch. 273, §4, 37 Stat. 251.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 233 of this title.
-

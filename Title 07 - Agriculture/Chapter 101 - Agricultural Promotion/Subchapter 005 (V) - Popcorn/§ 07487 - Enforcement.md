@@ -14,7 +14,3 @@ A civil action authorized to be brought under this section shall be referred to 
 
 (Pub. L. 104–127, title V, §578, Apr. 4, 1996, 110 Stat. 1082.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7486 of this title.
-

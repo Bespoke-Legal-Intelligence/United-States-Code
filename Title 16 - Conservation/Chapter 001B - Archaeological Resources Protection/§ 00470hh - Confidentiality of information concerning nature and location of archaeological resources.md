@@ -26,7 +26,3 @@ Notwithstanding the provisions of subsection (a) of this section, upon the writt
 
 Act of June 27, 1960 (16 U.S.C. 469–469c), referred to in subsec. (a)(1), is act June 27, 1960, Pub. L. 86–523, 74 Stat. 220, as amended, which is classified generally to sections 469 to 469c–1 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 470cc of this title.
-

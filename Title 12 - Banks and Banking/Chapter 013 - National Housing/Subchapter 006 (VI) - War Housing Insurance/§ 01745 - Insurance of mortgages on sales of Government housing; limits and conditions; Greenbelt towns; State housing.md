@@ -1,6 +1,6 @@
 ### §1745. Insurance of mortgages on sales of Government housing; limits and conditions; Greenbelt towns; State housing
 
-Notwithstanding any of the provisions of this subchapter, the Secretary is authorized, upon application by the mortgagee, to insure or to make commitments to insure under section 1738 or section 1743 of this title any mortgage executed in connection with the sale by the Government, or any agency or official thereof, of any housing acquired or constructed under Public Law 849, Seventy-sixth Congress, as amended; Public Law 781, Seventy-sixth Congress, as amended; or Public Laws 9, 73, or 353, Seventy-seventh Congress, as amended (including any property acquired, held or constructed in connection with such housing or to serve the inhabitants thereof), without regard to—
+Notwithstanding any of the provisions of this subchapter, the Secretary is authorized, uponapplication by the mortgagee, to insure or to make commitments to insure under section 1738 or section 1743 of this title any mortgage executed in connection with the sale by the Government, or any agency or official thereof, of any housing acquired or constructed under Public Law 849, Seventy-sixth Congress, as amended; Public Law 781, Seventy-sixth Congress, as amended; or Public Laws 9, 73, or 353, Seventy-seventh Congress, as amended (including any property acquired, held or constructed in connection with such housing or to serve the inhabitants thereof), without regard to—
 
 &emsp;(1) any limit as to the time when any mortgage may be insured under this subchapter;
 
@@ -16,7 +16,7 @@ The Secretary is further authorized to insure or to make commitments to insure i
 
 The Secretary is further authorized to insure or to make commitments to insure in accordance with the provisions of this section any mortgage executed in connection with the sale by the Government, or any agency or official thereof, of any of the so-called Greenbelt towns, or parts thereof, including projects, or parts thereof, known as Greenhills, Ohio; Greenbelt, Maryland; and Greendale, Wisconsin, developed under the Emergency Relief Appropriation Act of 1935, or of any of the village properties under the jurisdiction of the Tennessee Valley Authority, and any mortgage executed in connection with the first resale, within two years from the date of its acquisition from the Government, of any portion of a project or property of the character described in this section.
 
-The Secretary is further authorized to insure or to make commitments to insure under section 1743 of this title in accordance with the provisions of this section any mortgage executed in connection with the sale by a State or municipality, or an agency, instrumentality, or body politic of either, of any permanent housing (including any property acquired, held, or constructed in connection therewith or to serve the inhabitants thereof), constructed by or on behalf of such State, municipality, agency, instrumentality or body politic, for the occupancy of veterans of World War II, their families, and others: <i>Provided</i>, That the principal obligation of anysuch mortgage does not exceed either 85 per centum of the appraised value of the mortgage property as determined by the Secretary or $8,100 per family unit for such part of such property as may be attributable to dwelling use.
+The Secretary is further authorized to insure or to make commitments to insure under section 1743 of this title in accordance with the provisions of this section any mortgage executed in connection with the sale by a State or municipality, or an agency, instrumentality, or body politic of either, of any permanent housing (including any property acquired, held, or constructed in connection therewith or to serve the inhabitants thereof), constructed by or on behalf of such State, municipality, agency, instrumentality or body politic, for the occupancy of veterans of World War II, their families, and others: <i>Provided</i>, That the principal obligation of any such mortgage does not exceed either 85 per centum of the appraised value of the mortgage property as determined by the Secretary or $8,100 per family unit for such part of such property as may be attributable to dwelling use.
 
 (June 27, 1934, ch. 847, title VI, §610, as added Aug. 5, 1947, ch. 495, §2, 61 Stat. 777; amended Aug. 10, 1948, ch. 832, title I, §101(e), 62 Stat. 1270; Apr. 20, 1950, ch. 94, title I, §§120, 122, 64 Stat. 58, 59; July 14, 1952, ch. 723, §14, 66 Stat. 605; Pub. L. 90–19, §1(a)(3), (<i>o</i>), May 25, 1967, 81 Stat. 17, 19.)
 
@@ -43,8 +43,4 @@ The Emergency Relief Appropriation Act of 1935, referred to in text, is Joint Re
 Act Apr. 20, 1950, §122, substituted “Commissioner” for “Administrator” wherever appearing.
 
 1948—Act Aug. 10, 1948, inserted last par. relating to the Greenbelt towns.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1738 of this title.
 

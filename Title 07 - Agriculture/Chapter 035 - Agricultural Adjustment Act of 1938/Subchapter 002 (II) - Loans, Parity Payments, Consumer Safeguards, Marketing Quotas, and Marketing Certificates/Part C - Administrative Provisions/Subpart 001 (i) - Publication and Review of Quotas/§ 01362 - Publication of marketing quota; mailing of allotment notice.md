@@ -10,7 +10,3 @@ Notice of the farm acreage allotment established for each farm shown by the reco
 
 1949—Act Aug. 29, 1949, inserted paragraph providing for mailing of notice of allotment.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1363 of this title.
-

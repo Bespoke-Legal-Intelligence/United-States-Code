@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than the second Monday in September of 2002, 2003, and 2004 (or July 1 of each other year), each Medicare+Choice organization shall submit to the Secretary, in a form and manner specified by the Secretary and for each Medicare+Choice plan for the service area (or segment of such an area if permitted under subsection (h) of this section) in which it intends to be offered in the following year—
+&emsp;Not later than the second Monday in September of 2002, 2003, and 2004 (or July 1 of each other year), each Medicare+Choice organization shall submit to the Secretary, in a form and manner specified by the Secretary and foreach Medicare+Choice plan for the service area (or segment of such an area if permitted under subsection (h) of this section) in which it intends to be offered in the following year—
 
 &emsp;&emsp;(A) the information described in paragraph (2), (3), or (4) for the type of plan involved; and
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(iii) a description of deductibles, coinsurance, and copayments applicable under the plan and the actuarial value of such deductibles, coinsurance, and copayments, described in subsection (e)(1)(A) of this section; and
 
-&emsp;&emsp;&emsp;(iv) if required under subsection (f)(1) of this section, a description of the additional benefits to be provided pursuant tosuch subsection and the value determined for such proposed benefits under such subsection.
+&emsp;&emsp;&emsp;(iv) if required under subsection (f)(1) of this section, a description of the additional benefits to be provided pursuant to such subsection and the value determined for such proposed benefits under such subsection.
 
 #### (B) Supplemental benefits
 
@@ -226,7 +226,7 @@ The Secretary shall permit a Medicare+Choice organization to elect to apply the 
 
 #### <i>“(A) Initial submission</i>
 
-&emsp;&emsp;<i>“Not later than the second Monday in September of 2002, 2003, and 2004 (or the first Monday in June of each subsequent year), each MA</i><i>organization shall submit to the Secretary, in a form and manner specified by the Secretary and for each MA plan for the service area (or segment of such an area if permitted under subsection (h) of this section) in which it intends to be offered in the following year the following:</i>
+&emsp;&emsp;<i>“Not later than the second Monday in September of 2002, 2003, and 2004 (or the first Monday in June of each subsequent year), each MA organization shall submit to the Secretary, in a form and manner specified by the Secretary and for each MA plan for the service area (or segment of such an area if permitted under subsection (h) of this section) in which it intends to be offered in the following year the following:</i>
 
 &emsp;&emsp;&emsp;<i>“(i) The information described in paragraph (2), (3), (4), or (6)(A) for the type of plan and year involved.</i>
 
@@ -284,7 +284,7 @@ The Secretary shall permit a Medicare+Choice organization to elect to apply the 
 
 #### <i>“(i) Authority</i>
 
-&emsp;&emsp;&emsp;<i>“Subject to clauses (iii) and (iv), the Secretary has the authority to negotiate regarding monthly bid amounts submitted under subparagraph (A) (and the proportions described in subparagraph (A)(ii)), including supplemental benefits provided under subsection (b)(1)(C)(ii)(I) of this section and in exercising such authority the Secretary shall have authority similar to the authority of the Director of the Office of Personnel Management with respect to health benefits plans under chapter 89 of title 5.</i>
+&emsp;&emsp;&emsp;<i>“Subject to clauses (iii) and (iv), the Secretary has the authority to negotiate regarding monthly bid amounts submitted under subparagraph (A) (and the proportions de</i><i>scribed in subparagraph (A)(ii)), including supplemental benefits provided under subsection (b)(1)(C)(ii)(I) of this section and in exercising such authority the Secretary shall have authority similar to the authority of the Director of the Office of Personnel Management with respect to health benefits plans under chapter 89 of title 5.</i>
 
 #### <i>“(ii) Application of FEHBP standard</i>
 
@@ -296,7 +296,7 @@ The Secretary shall permit a Medicare+Choice organization to elect to apply the 
 
 #### <i>“(iv) Exception</i>
 
-&emsp;&emsp;&emsp;<i>“In the case of a plan described in section 1395w–21(a)(2)(C) of this title, the provisions</i><i>of clauses (i) and (ii) shall not apply and the provisions of paragraph (5)(B), prohibiting the review, approval, or disapproval of amounts described in such paragraph, shall apply to the negotiation and rejection of the monthly bid amounts and the proportions referred to in subparagraph (A).”;</i>
+&emsp;&emsp;&emsp;<i>“In the case of a plan described in section 1395w–21(a)(2)(C) of this title, the provisions of clauses (i) and (ii) shall not apply and the provisions of paragraph (5)(B), prohibiting the review, approval, or disapproval of amounts described in such paragraph, shall apply to the negotiation and rejection of the monthly bid amounts and the proportions referred to in subparagraph (A).”;</i>
 
 <i>(3) in subsection (b):</i>
 
@@ -354,7 +354,7 @@ The Secretary shall permit a Medicare+Choice organization to elect to apply the 
 
 #### <i>“(C) MA monthly supplemental beneficiary premium</i>
 
-&emsp;&emsp;<i>“The term ‘MA monthly supplemental beneficiary premium’ means, with respect to an MA plan, the portion of the aggregate monthly bid amount submitted under clause (i) of subsection (a)(6)(A) of this section for the year that is attributable under clause (ii)(III) of such subsection to the provision of supplemental health care benefits, less the amount of rebate credited toward such portion under subsection (b)(1)(C)(ii)(I) of this section.”;</i>
+&emsp;&emsp;<i>“The term ‘MA monthly supplemental beneficiary premium’ means, with respect to an MA</i><i>plan, the portion of the aggregate monthly bid amount submitted under clause (i) of subsection (a)(6)(A) of this section for the year that is attributable under clause (ii)(III) of such subsection to the provision of supplemental health care benefits, less the amount of rebate credited toward such portion under subsection (b)(1)(C)(ii)(I) of this section.”;</i>
 
 &emsp;(iii) by redesignating subparagraph (C) as subparagraph (D); and
 
@@ -506,7 +506,7 @@ Subsec. (f)(1)(E), (F). Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(1)\], 
 
 1999—Subsec. (a)(1). Pub. L. 106–113, §1000(a)(6) \[title V, §516(a)\], substituted “July 1” for “May 1” in introductory provisions.
 
-Pub. L. 106–113, §1000(a)(6) \[title V, §515(a)(1)\], inserted “(or segment of such an area if permitted under subsection (h) of this section)” after “service area” in introductory provisions.
+Pub. L. 106–113, §1000(a)(6) \[title V, §515(a)(1)\], inserted “(or segment of such an area if permitted undersubsection (h) of this section)” after “service area” in introductory provisions.
 
 Subsec. (a)(2)(A). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(C)(i)(I)\], inserted “section” before “1395w–22(a)(1)(A) of this title” in introductory provisions.
 
@@ -524,7 +524,7 @@ Subsec. (h). Pub. L. 106–113, §1000(a)(6) \[title V, §515(a)(2)\], added sub
 
 #### Change of Name
 
-References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -549,8 +549,4 @@ Amendment by section 1000(a)(6) \[title III, §321(k)(6)(C)\] of Pub. L. 106–1
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §515(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–384, provided that: “The amendments made by this section \[amending this section\] apply to contract years beginning on or after January 1, 2001.”
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §516(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–384, provided that: “The amendment made by subsection (a) \[amending this section\] applies to information submitted by Medicare+Choice organizations for years beginning with 1999.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395r, 1395s, 1395t, 1395w, 1395w–22, 1395w–23, 1395w–27, 1395w–27a, 1395w–28, 1395w–103, 1395w–111, 1395w–112, 1395w–113, 1395w–116, 1395w–131, 1395w–141, 1395mm of this title.
 

@@ -32,7 +32,7 @@ Under provisions contained in an energy action, a provision of such an action ma
 
 &emsp;(A) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described by paragraph (2) of this subsection; and it supersedes other rules only to the extent that it is inconsistent therewith; and
 
-&emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of the House.
+&emsp;(B) with full recognition of the constitutional right of either House to change therules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of the House.
 
 (2) For purposes of this subsection, the term “resolution” means only a resolution of either House of Congress described in subparagraph (A) or (B) of this paragraph.
 
@@ -50,7 +50,7 @@ Under provisions contained in an energy action, a provision of such an action ma
 
 (5)(A) When the committee has reported, or has been discharged from further consideration of, a resolution, it shall be at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
-(B) Debate on the resolution referred to in subparagraph (A) of this paragraph shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing such resolution. A motion further to limit debate shall not be debatable. An amendment to, or motion to recommit, the resolution shall not be in order, and it shall not bein order to move to reconsider the vote by which such resolution was agreed to or disagreed to; except that it shall be in order—
+(B) Debate on the resolution referred to in subparagraph (A) of this paragraph shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing such resolution. A motion further to limit debate shall not be debatable. An amendment to, or motion to recommit, the resolution shall not be in order, and it shall not be in order to move to reconsider the vote by which such resolution was agreed to or disagreed to; except that it shall be in order—
 
 &emsp;(i) to offer an amendment in the nature of a substitute, consisting of the text of a resolution described in paragraph (2)(A) of this subsection with respect to an energy action, for a resolution described in paragraph (2)(B) of this subsection with respect to the same such action, or
 
@@ -65,8 +65,4 @@ Under provisions contained in an energy action, a provision of such an action ma
 (7) Notwithstanding any of the provisions of this subsection, if a House has approved a resolution with respect to an energy action, then it shall not be in order to consider in that House any other resolution with respect to the same such action.
 
 (Pub. L. 94–163, title V, §551, Dec. 22, 1975, 89 Stat. 965.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6239, 7172, 8374, 10222 of this title; title 49 section 32902.
 

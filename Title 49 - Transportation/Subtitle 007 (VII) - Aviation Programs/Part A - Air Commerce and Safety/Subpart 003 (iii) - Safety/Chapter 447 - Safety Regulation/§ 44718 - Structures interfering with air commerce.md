@@ -2,7 +2,7 @@
 
 (a)
 
-Notice.—By regulation or by order when necessary, the Secretary of Transportation shall require a person to give adequate public notice, in the form and way the Secretary prescribes, of the construction, alteration, establishment, or expansion, or the proposed construction, alteration, establishment, or expansion, of a structure or sanitary landfill when the notice will promote—
+Notice.—By regulation or by order when necessary, the Secretary of Transportation shall require a person to give adequate public notice,in the form and way the Secretary prescribes, of the construction, alteration, establishment, or expansion, or the proposed construction, alteration, establishment, or expansion, of a structure or sanitary landfill when the notice will promote—
 
 &emsp;(1) safety in air commerce; and
 
@@ -107,8 +107,4 @@ Pub. L. 106–181, title V, §503(a), Apr. 5, 2000, 114 Stat. 133, provided that
 &emsp;“(5) while certain mileage limits have the potential to be arbitrary, keeping landfills at least 6 miles away from an airport, especially an airport served by small planes, is an appropriate minimum requirement for aviation safety; and
 
 &emsp;“(6) closure of existing landfills (due to concerns about aviation safety) should be avoided because of the likely disruption to those who use and depend on such landfills.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 46301, 46316 of this title.
 

@@ -32,7 +32,3 @@ A rural business investment company shall be eligible for a grant under this sec
 
 (Pub. L. 87–128, title III, §384H, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 395.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2009cc–2, 2009cc–3 of this title.
-

@@ -26,7 +26,3 @@ The appropriate Federal banking agencies shall establish uniform systems to impl
 
 (Pub. L. 98–181, title IX, §910, Nov. 30, 1983, 97 Stat. 1282.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3908 of this title.
-

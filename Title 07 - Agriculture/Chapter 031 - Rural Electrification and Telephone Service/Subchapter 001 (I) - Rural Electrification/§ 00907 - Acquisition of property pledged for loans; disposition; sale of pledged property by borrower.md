@@ -12,7 +12,3 @@ No borrower of funds under sections 904 or 922 of this title shall, without the 
 
 1949—Act Oct. 28, 1949, inserted “or section 922” after “904” in second par., and inserted “title I,” in credit of act May 20, 1936.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 932 of this title.
-

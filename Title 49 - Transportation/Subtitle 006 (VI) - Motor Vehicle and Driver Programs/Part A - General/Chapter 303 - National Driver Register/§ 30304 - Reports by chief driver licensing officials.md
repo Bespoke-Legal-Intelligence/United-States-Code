@@ -76,7 +76,3 @@ In subsection (c), before clause (1), the words “required to be transmitted by
 
 1999—Subsec. (e). Pub. L. 106–159 added subsec. (e).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 20135, 30301, 30302, 30303, 30305, 30307, 31311 of this title; title 14 section 93.
-

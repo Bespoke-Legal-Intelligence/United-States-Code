@@ -12,7 +12,7 @@ Within 180 days after October 24, 1992, the Secretary, in consultation with appr
 
 #### (1) Solicitation
 
-&emsp;Within 1 year after October 24, 1992, the Secretary shall solicit proposals for conductingactivities consistent with the 5-year program plan. Such proposals may be submitted by one or more parties.
+&emsp;Within 1 year after October 24, 1992, the Secretary shall solicit proposals for conducting activities consistent with the 5-year program plan. Such proposals may be submitted by one or more parties.
 
 #### (2) Contents of proposals
 

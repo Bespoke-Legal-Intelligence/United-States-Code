@@ -56,7 +56,7 @@ Notification of Eligibility.—(1) The Secretary concerned shall transmit to eac
 
 (f)
 
-Repayment of Bonus.—(1) If a person paid a bonus under this section fails to complete a period of active duty beginning on the date on which the election of the person under subsection (a)(1) is received and ending on the date on which the person completes 20 years of active-duty service as described in subsection (a)(2), the person shall refund to the UnitedStates the amount that bears the same ratio to the amount of the bonus payment as the uncompleted part of that period of active-duty service bears to the total period of such service.
+Repayment of Bonus.—(1) If a person paid a bonus under this section fails to complete a period of active duty beginning on the date on which the election of the person under subsection (a)(1) is received and ending on the date on which the person completes 20 years of active-duty service as described in subsection (a)(2), the person shall refund to the United States the amount that bears the same ratio to the amount of the bonus payment as the uncompleted part of that period of active-duty service bears to the total period of such service.
 
 (2) Subject to paragraph (3), an obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
 
@@ -64,7 +64,7 @@ Repayment of Bonus.—(1) If a person paid a bonus under this section fails to c
 
 (4) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the member signing such agreement from a debt arising under the agreement or this subsection.
 
-(Added Pub. L. 106–65, div. A, title VI, §642(a), Oct. 5, 1999, 113 Stat. 662; amended Pub. L. 107–107, div. A, title VI, §620(a), Dec. 28, 2001, 115 Stat. 1138.)
+(Added Pub. L. 106–65, div. A, title VI, §642(a), Oct. 5, 1999, 113 Stat. 662; amended Pub. L.107–107, div. A, title VI, §620(a), Dec. 28, 2001, 115 Stat. 1138.)
 
 #### Amendments
 
@@ -79,8 +79,4 @@ Section effective Oct. 1, 1999, see section 644 of Pub. L. 106–65, set out as 
 #### Application to Existing Agreements
 
 Pub. L. 107–107, div. A, title VI, §620(b), Dec. 28, 2001, 115 Stat. 1139, provided that: “The Secretary concerned (as defined in section 101(5) of title 37, United States Code) shall extend to each member of the uniformed services who has executed the written agreement required by subsection (a)(2) of section 322 of such title before the date of the enactment of this Act \[Dec. 28, 2001\], but who has not received the lump sum payment by that date, an opportunity to make the election authorized by subsection (d) of such section, as amended by this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 1401a, 1409, 1410.
 

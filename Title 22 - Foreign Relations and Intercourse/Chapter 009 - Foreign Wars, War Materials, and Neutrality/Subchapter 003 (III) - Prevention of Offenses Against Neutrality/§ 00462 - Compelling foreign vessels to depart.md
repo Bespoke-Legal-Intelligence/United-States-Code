@@ -14,7 +14,3 @@ Act June 15, 1917, inserted provisions relating to detention of vessels.
 
 Section was derived from R.S. §5288 (act Apr. 20, 1818, ch. 88, §9, 3 Stat. 449), which was repealed by section 341 of act Mar. 4, 1909.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 408a, 465 of this title.
-

@@ -12,7 +12,7 @@ There are authorized to be appropriated to the Secretary of State for purposes o
 
 #### (b) Agreement with Hungary
 
-There are authorized to be appropriated to the Secretary of State for purposes of implementing the 1989 United States-Hungarian science and technology agreement—
+There are authorized to be appropriated to the Secretary of State for purposes of implementingthe 1989 United States-Hungarian science and technology agreement—
 
 &emsp;(1) $500,000 for fiscal year 1990,
 

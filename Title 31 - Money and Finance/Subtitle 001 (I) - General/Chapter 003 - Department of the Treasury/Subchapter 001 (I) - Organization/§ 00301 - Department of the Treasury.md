@@ -188,7 +188,9 @@ Pub. L. 105–61, title I, §116, Oct. 10, 1997, 111 Stat. 1284, provided that:
 
 “(c) This section shall not be limited (for purposes of determining whether a provision of this section applies or continues to apply) to fiscal year 1998.”
 
-#### Establishment of Office of the Undersecretary for Enforcement
+#### Office of the Undersecretary for Enforcement
+
+Pub. L. 108–447, div. H, title II, §222(b)(2), Dec. 8, 2004, 118 Stat. 3245, provided that: “The Office of the Undersecretary for Enforcement of the Department of the Treasury, established in accordance with section 103 \[105\] of the Treasury Department Appropriations Act, 1994 (Public Law 103–123) \[set out below\] is abolished, and all rights, duties, and responsibilities of that office are transferred on the date of enactment of this Act \[Dec. 8, 2004\] to the Office of the Undersecretary for Terrorism and Financial Crimes of the Department of the Treasury in accordance with this section \[enacting section 313 of this title and amending section 311 of this title\], and the amendments made by this section, except as otherwise specifically provided in this section or the amendments made by this section, or other applicable law.”
 
 Pub. L. 103–123, title I, §105, Oct. 28, 1993, 107 Stat. 1234, provided that: “Notwithstanding any other provision of law, the Secretary of the Treasury shall establish an Office of the Undersecretary for Enforcement within the Department of the Treasury by no later than February 15, 1994.”
 
@@ -213,8 +215,4 @@ Pub. L. 103–2, Jan. 19, 1993, 107 Stat. 4, provided: “That (a) the compensat
 #### Duties and Functions of Department of the Treasury
 
 Nothing in Pub. L. 101–576 \[see Short Title of 1990 Amendment note set out under section 501 of this title\] to be construed to interfere with exercise of functions, duties, and responsibilities of Department of the Treasury, as in effect immediately before Nov. 15, 1990, see section 204 of Pub. L. 101–576, set out as a note under section 501 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 306 of this title; title 12 sections 482, 1462a; title 26 section 7801.
 

@@ -6,7 +6,7 @@
 
 (c) In the case of any forfeiture under this section there shall be no authority after September 1, 1959 (1) to make an apportionment award pursuant to subsection (b) or (2) to make an award to any person of gratuitous benefits based on any period of military, naval, or air service commencing before the date of commission of the offense.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1240, §3504; Pub. L. 86–222, §2, Sept. 1, 1959, 73 Stat. 452; Pub. L. 91–24, §13(b), June 11, 1969, 83 Stat. 34; Pub. L. 97–295, §4(78), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 99–576, title VII, §701(84), Oct. 28, 1986, 100 Stat.3298; renumbered §6104, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1240, §3504; Pub. L. 86–222, §2, Sept. 1, 1959, 73 Stat. 452; Pub. L. 91–24, §13(b), June 11, 1969, 83 Stat. 34; Pub. L. 97–295, §4(78), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 99–576, title VII, §701(84), Oct. 28, 1986, 100 Stat. 3298; renumbered §6104, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
 
 #### Amendments
 
@@ -25,8 +25,4 @@ Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 1969—Subsec. (c). Pub. L. 91–24 substituted “September 1, 1959” for “the date of enactment of this subsection”.
 
 1959—Subsec. (c). Pub. L. 86–222 added subsec. (c).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6103 of this title.
 

@@ -8,7 +8,7 @@ The Secretary of Energy, after consultation with the National Academy of Enginee
 
 In making designations under this section, the Secretary of Energy shall consider the following criteria:
 
-&emsp;(1) Those ten institutions of higher education designated as provided in subsection (e)of this section shall be located in a State with abundant coal reserves.
+&emsp;(1) Those ten institutions of higher education designated as provided in subsection (e) of this section shall be located in a State with abundant coal reserves.
 
 &emsp;(2) The institution of higher education shall have experience in coal research, expertise in several areas of coal research, and potential or currently active, outstanding programs in coal research.
 
@@ -44,9 +44,5 @@ Subsecs. (d), (e). Pub. L. 95–617, §604(c), substituted “Secretary of Energ
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (c) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1291, 1312, 1316 of this title.
+“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (c) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 

@@ -28,7 +28,3 @@ Any official who is serving as Assistant Secretary of Agriculture for Marketing 
 
 Section is comprised of section 285 of Pub. L. 103–354, as added by Pub. L. 105–277. Subsec. (e) of section 285 of Pub. L. 103–354 amended section 5314 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7014 of this title.
-

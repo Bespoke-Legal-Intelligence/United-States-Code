@@ -78,7 +78,3 @@ As used in this chapter, the term—
 
 (Pub. L. 96–501, §3, Dec. 5, 1980, 94 Stat. 2698.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 824k, 839b, 839d–1 of this title.
-

@@ -46,7 +46,3 @@ Any person who is injured in his person or property through the violation by any
 
 The Federal Rules of Civil Procedure, referred to in subsec. (d), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1276 of this title.
-

@@ -2,7 +2,7 @@
 
 (a) In any case in which the Postal Rate Commission fails to transmit a recommended decision on a change in rates of postage or in fees for postal services to the Governors in accordance with section 3624(c) of this title, the Postal Service may establish temporary changes in rates of postage and in fees for postal services in accordance with the proposed changes under consideration by the Commission. Such temporary changes may take effect upon such date as the Postal Service may determine, except that such temporary changes may take effect only after 10 days’ notice in the Federal Register.
 
-(b) Any temporary rate or fee established by the Postal Service under subsection (a) of thissection shall be in accordance with the policies of this title and shall not exceed such amount as may be necessary for sufficient revenues to assure that the total estimated income, including appropriations, of the Postal Service shall, to the extent practicable, be equal to the total estimated costs of the Postal Service.
+(b) Any temporary rate or fee established by the Postal Service under subsection (a) of this section shall be in accordance with the policies of this title and shall not exceed such amount as may be necessary for sufficient revenues to assure that the total estimated income, including appropriations, of the Postal Service shall, to the extent practicable, be equal to the total estimated costs of the Postal Service.
 
 (c) Notwithstanding the provisions of subsection (b) of this section, the Postal Service may not establish any temporary rate for a class of mail or any temporary fee for a postal service which is more than the permanent rate or fee requested for such class or postal service by the Postal Service under section 3622 of this title.
 

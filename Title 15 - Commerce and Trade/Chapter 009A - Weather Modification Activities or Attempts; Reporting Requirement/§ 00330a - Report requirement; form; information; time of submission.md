@@ -4,7 +4,3 @@ No person may engage, or attempt to engage, in any weather modification activity
 
 (Pub. L. 92–205, §2, Dec. 18, 1971, 85 Stat. 736.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 330d of this title.
-

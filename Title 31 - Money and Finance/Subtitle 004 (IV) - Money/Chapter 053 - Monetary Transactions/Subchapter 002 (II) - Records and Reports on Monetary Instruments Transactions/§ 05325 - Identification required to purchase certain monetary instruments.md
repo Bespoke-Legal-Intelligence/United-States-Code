@@ -26,7 +26,3 @@ Transaction Account Defined.—For purposes of this section, the term “transac
 
 Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (c), is classified to section 461(b)(1)(C) of Title 12, Banks and Banking.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5324 of this title.
-

@@ -24,9 +24,9 @@ In the case of any franchise in effect on the effective date of this subchapter,
 
 (1) Nothing in this subchapter shall be construed as prohibiting a franchising authority and a cable operator from specifying, in a franchise or renewal thereof, that certain cable services shall not be provided or shall be provided subject to conditions, if such cable services are obscene or are otherwise unprotected by the Constitution of the United States.
 
-(2) In order to restrict the viewing of of of <sup>1</sup> programming which is obscene or indecent, upon the request of a subscriber, a cable operator shall provide (by sale or lease) a device by which the subscriber can prohibit viewing of a particular cable service during periods selected by that subscriber.
+(2) In order to restrict the viewing of of of <sup>1</sup> programming which is obscene or indecent, uponthe request of a subscriber, a cable operator shall provide (by sale or lease) a device by which the subscriber can prohibit viewing of a particular cable service during periods selected by that subscriber.
 
-(3)(A) If a cable operator provides a premium channel without charge to cable subscribers who do not subscribe to such premium channel, thecable operator shall, not later than 30 days before such premium channel is provided without charge—
+(3)(A) If a cable operator provides a premium channel without charge to cable subscribers who do not subscribe to such premium channel, the cable operator shall, not later than 30 days before such premium channel is provided without charge—
 
 &emsp;(i) notify all cable subscribers that the cable operator plans to provide a premium channel without charge;
 
@@ -105,10 +105,6 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 #### Restoration, Retierment and Repricing of Service Previously Eliminated, Retiered, or Repriced
 
 Section not to be construed to allow a franchising authority, or a State or political subdivision thereof, to require a cable operator to restore, retier or reprice cable service previously eliminated, retiered, or repriced as of Sept. 26, 1984, see section 9(b) of Pub. L. 98–549, set out as a note under section 543 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 531, 546 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

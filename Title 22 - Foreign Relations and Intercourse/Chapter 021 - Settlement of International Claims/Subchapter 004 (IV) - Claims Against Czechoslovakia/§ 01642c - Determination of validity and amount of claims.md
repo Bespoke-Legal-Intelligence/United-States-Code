@@ -4,7 +4,3 @@ The Commission shall determine in accordance with applicable substantive law, in
 
 (Mar. 10, 1950, ch. 54, title IV, §404, as added Pub. L. 85–604, §1, Aug. 8, 1958, 72 Stat. 528.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1642b, 1642d, 1642e, 1642g, 1642h of this title.
-

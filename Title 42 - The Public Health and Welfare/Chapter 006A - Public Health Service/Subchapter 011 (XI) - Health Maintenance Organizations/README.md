@@ -1,9 +1,5 @@
 ### SUBCHAPTER XI—HEALTH MAINTENANCE ORGANIZATIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 12 section 1721.
-
 
 ---
 

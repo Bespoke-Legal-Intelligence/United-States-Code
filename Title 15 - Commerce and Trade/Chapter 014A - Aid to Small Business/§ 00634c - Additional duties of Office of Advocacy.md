@@ -18,7 +18,3 @@ The Office of Advocacy shall also perform the following duties on a continuing b
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 634d, 634e, 634g of this title.
-

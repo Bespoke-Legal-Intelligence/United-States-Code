@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—HAZARDOUS SUBSTANCES RELEASES, LIABILITY, COMPENSATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 9655, 9658, 9659 of this title; title 26 section 9507.
-
 
 ---
 

@@ -12,7 +12,3 @@ The first session of the Thirty-eighth Congress, referred to in text, was begun 
 
 R.S. §2346 derived from Res. Jan. 30, 1865, No. 10, 13 Stat. 567.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 47, 102 of this title; title 16 section 460mm–1.
-

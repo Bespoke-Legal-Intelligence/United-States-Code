@@ -4,7 +4,3 @@ The Secretary shall fix such premium charges for the insurance and guarantee of 
 
 (Pub. L. 93–262, title II, §202, Apr. 12, 1974, 88 Stat. 79.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1499 of this title.
-

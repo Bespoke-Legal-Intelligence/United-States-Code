@@ -16,7 +16,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (3) Petition based upon a derogation of an international undertaking on official export credits
 
-&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
+&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after thedate on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
 
 #### (4) Action with respect to petitions
 
@@ -130,7 +130,7 @@ If, at any time after the initiation of an investigation under this part, the ad
 
 1994—Subsecs. (a), (b)(1). Pub. L. 103–465, §233(a)(6)(A)(i), (ii), substituted “initiated” for “commenced”.
 
-Subsec. (b)(3). Pub. L. 103–465, §§211(a)(1), 212(b)(1)(E), substituted “paragraph (1)” for “subsection (b)(1) ofthis section” and “5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section,” for “twenty days”.
+Subsec. (b)(3). Pub. L. 103–465, §§211(a)(1), 212(b)(1)(E), substituted “paragraph (1)” for “subsection (b)(1) of this section” and “5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section,” for “twenty days”.
 
 Subsec. (b)(4). Pub. L. 103–465, §211(a)(2), added par. (4).
 
@@ -169,8 +169,4 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1516a, 1671b, 1671c, 1677, 1677f, 1677i, 3437 of this title.
 

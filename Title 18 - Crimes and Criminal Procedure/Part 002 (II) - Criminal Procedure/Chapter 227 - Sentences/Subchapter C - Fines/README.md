@@ -21,10 +21,6 @@ Pub. L. 101–647, title XXXV, §3586(2), Nov. 29, 1990, 104 Stat. 4930, substit
 
 1987—Pub. L. 100–185, §8(b), Dec. 11, 1987, 101 Stat. 1282, substituted “Petition of the Government for modification or revision” for “Modification or remission of fine” in item 3573.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3551, 3613, 3663, 3664 of this title; title 43 section 373b.
-
 <i><sup>1</sup></i><i> So in original. Probably should not appear.</i>
 
 

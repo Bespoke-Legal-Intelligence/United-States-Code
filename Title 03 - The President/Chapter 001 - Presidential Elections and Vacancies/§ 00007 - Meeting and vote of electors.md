@@ -10,7 +10,3 @@ Day of voting by electors, see Const. Art. II, §1, cl. 3.
 
 Voting by electors, see Const. Amend. XII.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6 of this title.
-

@@ -46,7 +46,3 @@ The date of the enactment of this chapter, referred to in subsec. (a), is the da
 
 2002—Subsec. (d). Pub. L. 107–355 substituted “The Secretary shall” for “Within 3 years after the date of the enactment of this chapter, the Secretary shall begin to” in introductory provisions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6106, 6107 of this title.
-

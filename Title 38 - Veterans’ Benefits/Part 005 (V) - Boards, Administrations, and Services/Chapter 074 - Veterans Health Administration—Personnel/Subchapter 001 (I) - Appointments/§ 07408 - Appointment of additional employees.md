@@ -18,7 +18,3 @@ Provisions similar to those in this section were contained in section 4111 of th
 
 1994—Subsec. (a). Pub. L. 103–446 substituted “civil service” for “civil-service”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7405, 7454 of this title.
-

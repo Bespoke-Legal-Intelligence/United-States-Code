@@ -14,7 +14,3 @@ The issuance of a license under this chapter shall not be admissible in any way 
 
 The “antitrust laws”, referred to in text, are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9111 of this title.
-

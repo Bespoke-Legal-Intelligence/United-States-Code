@@ -32,7 +32,3 @@ Provisions similar to those in this section were contained in section 11343 of t
 
 A prior section 11323, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1433; Pub. L. 99–521, §10(a), (b)(1), Oct. 22, 1986, 100 Stat. 2997, related to limitation on ownership of other carriers by household goods freight forwarders, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 333, 11324, 11327 of this title.
-

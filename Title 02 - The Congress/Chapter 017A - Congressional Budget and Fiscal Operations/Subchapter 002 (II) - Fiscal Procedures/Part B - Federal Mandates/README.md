@@ -1,9 +1,5 @@
 Part B—Federal Mandates
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1511 of this title.
-
 
 ---
 

@@ -70,7 +70,7 @@ R.S. §3477; May 27, 1908, ch. 206(last par. on p. 411), 35 Stat. 411; Oct. 9, 1
 
 Aug. 10, 1956, ch. 1041, §45, 70A Stat. 638.
 
-In subsection (a)(1), the words “or share thereof” and “whether absolute or conditional, and whatever may bethe consideration therefor” are omitted as surplus. In clause (2), the word “authorization” is substituted for “powers of attorney, orders, or other authorities” to eliminate unnecessary words.
+In subsection (a)(1), the words “or share thereof” and “whether absolute or conditional, and whatever may be the consideration therefor” are omitted as surplus. In clause (2), the word “authorization” is substituted for “powers of attorney, orders, or other authorities” to eliminate unnecessary words.
 
 In subsections (b) and (c), the word “official” is substituted for “officer” for consistency in the revised title and with other titles of the United States Code.
 
@@ -83,8 +83,4 @@ In subsection (d), before clause (1), the words “During a war or national emer
 Subsection (e)(1) is substituted for 31:203(4th par.) to eliminate unnecessary words.
 
 In subsection (e)(2), the words “person receiving an amount under an assignment or allotment” are substituted for “assignees, transferees, or allottees” for clarity and consistency. The words “or to others for them” and “with respect to such assignments, transfers, or allotments or the use of such moneys” are omitted as surplus. The words “person making the assignment or allotment” are substituted for “assignors, transferors, or allotters” for clarity and consistency.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 sections 2392, 4060; title 25 section 1725; title 26 section 6422; title 43 section 1628; title 50 section 1651.
 

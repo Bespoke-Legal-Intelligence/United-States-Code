@@ -84,7 +84,3 @@ The Director shall conduct and support research and build private-public partner
 
 A prior section 299b–1, act July 1, 1944, ch. 373, title IX, §912, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2192; amended Pub. L. 102–410, §§5(a)(1), (c)(1), 6(b), Oct. 13, 1992, 106 Stat. 2096, 2097, 2100, related to the duties of the Office of the Forum for Quality and Effectiveness in Health Care, prior to the general amendment of this subchapter by Pub. L. 106–129.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1320b–12 of this title.
-

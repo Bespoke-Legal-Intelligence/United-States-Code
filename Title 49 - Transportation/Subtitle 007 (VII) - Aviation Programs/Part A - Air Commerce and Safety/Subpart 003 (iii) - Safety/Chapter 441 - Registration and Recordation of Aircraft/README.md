@@ -14,12 +14,13 @@
 | [44110\.](%C2%A7%2044110%20-%20Information%20about%20aircraft%20ownership%20and%20rights.md) | Information about aircraft ownership and rights. |
 | [44111\.](%C2%A7%2044111%20-%20Modifications%20in%20registration%20and%20recordation%20system%20for%20aircraft%20not%20providing%20air%20transportation.md) | Modifications in registration and recordation system for aircraft not providing air transportation. |
 | [44112\.](%C2%A7%2044112%20-%20Limitation%20of%20liability.md) | Limitation of liability. |
+| [44113\.](%C2%A7%2044113%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
+#### Amendments
 
-This chapter is referred to in sections 40102, 45302, 46301, 46316 of this title.
+2004—Pub. L. 108–297, §6(b), Aug. 9, 2004, 118 Stat. 1097, added item 44113.
 
 
 ---
@@ -38,3 +39,4 @@ This chapter is referred to in sections 40102, 45302, 46301, 46316 of this title
 - [&sect; 44110 - Information about aircraft ownership and rights](%C2%A7%2044110%20-%20Information%20about%20aircraft%20ownership%20and%20rights.md)
 - [&sect; 44111 - Modifications in registration and recordation system for aircraft not providing air transportation](%C2%A7%2044111%20-%20Modifications%20in%20registration%20and%20recordation%20system%20for%20aircraft%20not%20providing%20air%20transportation.md)
 - [&sect; 44112 - Limitation of liability](%C2%A7%2044112%20-%20Limitation%20of%20liability.md)
+- [&sect; 44113 - Definitions](%C2%A7%2044113%20-%20Definitions.md)

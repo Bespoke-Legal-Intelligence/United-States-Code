@@ -1,6 +1,6 @@
 ### §1589a. Extension by President of dates for disposal and other actions relating to housing under this subchapter
 
-Notwithstanding any other provision of law, the President is authorized to extend, for such period or periods as he shall specify, the time within which any action is required or permitted to be taken by the Secretary of Housing and Urban Development or others under the provisions of this subchapter or section 1553 of this title (or any contract entered into pursuant thereto), upon a determination by him, after considering the needs of national defense and the effect of such extension upon the general housing situation and the national economy, that such extension is in the public interest.
+Notwithstanding any other provision of law, the President is authorized to extend, for suchperiod or periods as he shall specify, the time within which any action is required or permitted to be taken by the Secretary of Housing and Urban Development or others under the provisions of this subchapter or section 1553 of this title (or any contract entered into pursuant thereto), upon a determination by him, after considering the needs of national defense and the effect of such extension upon the general housing situation and the national economy, that such extension is in the public interest.
 
 (Oct. 14, 1940, ch. 862, title VI, §611, as added Sept. 1, 1951, ch. 378, title VI, §603(d), 65 Stat. 314; amended July 14, 1952, ch. 723, §6, 66 Stat. 603; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669.)
 
@@ -67,8 +67,4 @@ Ex. Ord. No. 10462, June 19, 1953, 18 F.R. 3613, provided:
 1\. The Housing and Home Finance Administrator is hereby designated and empowered to perform, without the approval, ratification, or other action by the President, the functions vested in the President by section 611 of the act entitled “An Act to expedite the provision of housing in connection with national defense, and for other purposes,” approved October 14, 1940, as amended (42 U.S.C. 1589a).
 
 2\. The meaning of the terms “perform” and “functions” as used in this order shall be the same as the meaning of those terms as used in chapter 4 of title 3 of the United States Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1589d of this title.
 

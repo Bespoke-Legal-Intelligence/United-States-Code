@@ -1,9 +1,5 @@
 ### SUBCHAPTER LIX–F—ALASKAN NATIONAL PARKS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3191 of this title.
-
 
 ---
 

@@ -12,7 +12,3 @@ Functions of Secretary of the Interior under this section and section 485 of thi
 
 Act June 25, 1935, ch. 308, 49 Stat. 422, provided that this section should be extended and made applicable to exchanges of lands under acts Feb. 14, 1923, ch. 75, 42 Stat. 1245, and Feb. 7, 1929, ch. 160, 45 Stat. 1154, which authorize the United States to acquire privately owned lands situated within certain townships in the Lincoln National Forest in the State of New Mexico, by exchanging therefor an equal value of unreserved and unappropriated public lands within said State.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 192b–9, 482i, 484a, 577f of this title.
-

@@ -16,13 +16,13 @@
 
 #### Amendments
 
-<b>2003</b>—Subsec. (d)(1). Pub. L. 108–83 added par. (1) and struck out former par. (1) which read as follows: “Three parcels totaling approximately 41 acres, more or less, located in Culpeper County, Virginia, and identified as Culpeper County Tax Parcel Numbers 51–80B, 51–80C, and 51–80D, further described as real estate (consisting of 15.949 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated October 1, 1964, and recorded October 7, 1964, in the Clerk's Office, Circuit Court of Culpeper County, Virginia, in Deed Book 177, page 431; and real estate (consisting of 20.498 acres and consisting of 4.502 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated November 11, 1974, and recorded November 12, 1974, in the Clerk's Office, Circuit Court of Culpeper County, Virginia, in Deed Book 247, page 246.”
+2003—Subsec. (d)(1). Pub. L. 108–83 added par. (1) and struck out former par. (1) which read as follows: “Three parcels totaling approximately 41 acres, more or less, located in Culpeper County, Virginia, and identified as Culpeper County Tax Parcel Numbers 51–80B, 51–80C, and 51–80D, further described as real estate (consisting of 15.949 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated October 1, 1964, and recorded October 7, 1964, in the Clerk's Office, Circuit Court of Culpeper County, Virginia, in Deed Book 177, page 431; and real estate (consisting of 20.498 acres and consisting of 4.502 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated November 11, 1974, and recorded November 12, 1974, in the Clerk's Office, Circuit Court of Culpeper County, Virginia, in Deed Book 247, page 246.”
 
-<b>1997</b>—Subsec. (d). Pub. L. 105–144 added subsec. (d).
+1997—Subsec. (d). Pub. L. 105–144 added subsec. (d).
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–520 and Pub. L. 101–562 made substantively identical amendments, adding subsec. (c).
+1990—Subsec. (c). Pub. L. 101–520 and Pub. L. 101–562 made substantively identical amendments, adding subsec. (c).
 
-<b>1970</b>—Pub. L. 91–281 designated existing provisions as subsec. (a) and added subsec. (b).
+1970—Pub. L. 91–281 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1997 Amendment
 
@@ -31,8 +31,4 @@ Amendment by Pub. L. 105–144 effective upon acquisition by Architect of the Ca
 #### Effective Date of 1990 Amendments
 
 Amendment by Pub. L. 101–520 and Pub. L. 101–562 effective on date \[Nov. 6, 1991\] Architect of the Capitol acquires the property and improvements described in Pub. L. 101–520, §205(a), and Pub. L. 101–562, §1, see section 205(e) of Pub. L. 101–520 and former section 2(d) of Pub. L. 101–562, set out as a Special Facilities Center; Acquisition note under section 141 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 141 of this title; title 40 sections 8501, 8502.
 

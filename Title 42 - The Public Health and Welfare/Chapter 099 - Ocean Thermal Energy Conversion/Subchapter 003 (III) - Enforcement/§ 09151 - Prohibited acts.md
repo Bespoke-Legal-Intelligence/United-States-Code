@@ -20,7 +20,3 @@ It is unlawful for any person who is a United States citizen or national, or a f
 
 Par. (2). Pub. L. 98–623 substituted “to enter or board” for “to board”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9152, 9153 of this title.
-

@@ -8,7 +8,3 @@ Effective on October 1 of the first fiscal year for which Congress does not appr
 
 This subchapter, referred to in text, was in the original “this Act” and was translated as meaning section 101(e) of div. A of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–231, known as the Department of the Interior and Related Agencies Appropriations Act, 1999. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>lll</i>, 460<i>lll</i>–11, 460<i>lll</i>–13, 460<i>lll</i>–21, 460<i>lll</i>–22, 460<i>lll</i>–25, 460<i>lll</i>–27, 460<i>lll</i>–30, 460<i>lll</i>–43, 460<i>lll</i>–45, 460<i>lll</i>–46, 460<i>lll</i>–47, 460<i>lll</i>–49 of this title.
-

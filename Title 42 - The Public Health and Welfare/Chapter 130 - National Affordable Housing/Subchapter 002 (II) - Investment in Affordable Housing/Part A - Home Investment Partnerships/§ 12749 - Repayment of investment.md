@@ -14,7 +14,3 @@ The Secretary shall take such actions as are necessary to ensure that any repaym
 
 (Pub. L. 101–625, title II, §219, Nov. 28, 1990, 104 Stat. 4110.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12748, 12802, 12821 of this title.
-

@@ -4,7 +4,3 @@ There is hereby established the Death Valley National Park (hereinafter in this 
 
 (Pub. L. 103–433, title III, §302, Oct. 31, 1994, 108 Stat. 4485.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410aaa–2, 410aaa–3 of this title.
-

@@ -10,7 +10,7 @@ The boundaries of the park shall be as generally depicted on the drawing entitle
 
 #### (c) Acquisition of lands and interests therein; manner of acquisition
 
-Within the boundaries of the park, the Secretary may acquire lands and interests thereinby donation, purchase with donated or appropriated funds, exchange, or transfer.
+Within the boundaries of the park, the Secretary may acquire lands and interests therein by donation, purchase with donated or appropriated funds, exchange, or transfer.
 
 #### (d) Identification, etc., of other points relevant to park
 

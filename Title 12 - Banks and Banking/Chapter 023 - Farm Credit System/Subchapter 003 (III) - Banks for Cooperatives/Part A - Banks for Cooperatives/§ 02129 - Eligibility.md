@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(C) Any cooperative or other entity described in subsection (b) or (f) of section 2128 of this title.
 
-&emsp;&emsp;(D) Any creditworthy private entity that satisfies the requirements for a service cooperative under paragraphs (1), (2), and (4), orunder the last sentence, of subsection (a) of this section and subsidiaries of the entity, if the entity is organized to benefit agriculture in furtherance of the welfare of its farmer-members and is operated on a not-for-profit basis.
+&emsp;&emsp;(D) Any creditworthy private entity that satisfies the requirements for a service cooperative under paragraphs (1), (2), and (4), or under the last sentence, of subsection (a) of this section and subsidiaries of the entity, if the entity is organized to benefit agriculturein furtherance of the welfare of its farmer-members and is operated on a not-for-profit basis.
 
 &emsp;(2) Notwithstanding the provisions of section 2130 of this title, the board of directors of a bank for cooperatives may determine that, with respect to a loan to any borrower eligible to borrow from a bank under paragraph (1)(A) that is fully guaranteed by the United States, no stock purchase requirement shall apply, other than the requirement that a borrower eligible to own voting stock shall purchase one share of such stock.
 
@@ -79,8 +79,4 @@ Amendment by section 502(f) of Pub. L. 102–237 effective as if included in the
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2122, 2128 of this title.
 

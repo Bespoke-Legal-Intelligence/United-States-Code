@@ -2,7 +2,7 @@
 
 The Office of Personnel Management shall prescribe regulations and instructions under which the awards programs set forth by this subchapter shall be carried out.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 443; Pub. L. 95–454, title V, §503(d), Oct. 13, 1978, 92 Stat. 1184;Pub. L. 97–35, title XVII, §1703(b)(2), Aug. 13, 1981, 95 Stat. 756; Pub. L. 107–67, title VI, §641(b), Nov. 12, 2001, 115 Stat. 555.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 443; Pub. L. 95–454, title V, §503(d), Oct. 13, 1978, 92 Stat. 1184; Pub. L. 97–35, title XVII, §1703(b)(2), Aug. 13, 1981, 95 Stat. 756; Pub. L. 107–67, title VI, §641(b), Nov. 12, 2001, 115 Stat. 555.)
 
 Historical and Revision Notes
 

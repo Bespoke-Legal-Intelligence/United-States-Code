@@ -11,5 +11,6 @@
 - [&sect; 07534 - Reimbursement for assistance](%C2%A7%2007534%20-%20Reimbursement%20for%20assistance.md)
 - [&sect; 07535 - Congressional notification requirements](%C2%A7%2007535%20-%20Congressional%20notification%20requirements.md)
 - [&sect; 07536 - Promoting secure delivery of humanitarian and other assistance in Afghanistan and expansion of the International Security Assistance Force](%C2%A7%2007536%20-%20Promoting%20secure%20delivery%20of%20humanitarian%20and%20other%20assistance%20in%20Afghanistan%20and%20expansion%20of%20the%20International%20Security%20Assistance%20Force.md)
+- [&sect; 07536a - Sense of Congress and report regarding counter-drug efforts in Afghanistan](%C2%A7%2007536a%20-%20Sense%20of%20Congress%20and%20report%20regarding%20counter-drug%20efforts%20in%20Afghanistan.md)
 - [&sect; 07537 - Relationship to other authority](%C2%A7%2007537%20-%20Relationship%20to%20other%20authority.md)
 - [&sect; 07538 - Sunset](%C2%A7%2007538%20-%20Sunset.md)

@@ -412,10 +412,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 801a of this title; title 10 section 374; title 18 section 3582; title 19 section 1595a; title 22 sections 283s, 284k, 285p; title 28 section 524; title 42 section 2000e–2; title 46 App. section 1903.
-
 
 ---
 

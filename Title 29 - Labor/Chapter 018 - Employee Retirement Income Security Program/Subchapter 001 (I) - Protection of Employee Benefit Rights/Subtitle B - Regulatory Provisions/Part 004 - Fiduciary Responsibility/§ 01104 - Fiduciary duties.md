@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(ii) defraying reasonable expenses of administering the plan;
 
-&emsp;(B) with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent man acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like aims;
+&emsp;(B) with the care, skill, prudence, and diligence under the circumstances then prevailingthat a prudent man acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like aims;
 
 &emsp;(C) by diversifying the investments of the plan so as to minimize the risk of large losses, unless under the circumstances it is clearly prudent not to do so; and
 
@@ -20,7 +20,7 @@
 
 #### (b) Indicia of ownership of assets outside jurisdiction of district courts
 
-Except as authorized by the Secretary by regulations, no fiduciary may maintain the indiciaof ownership of any assets of a plan outside the jurisdiction of the district courts of the United States.
+Except as authorized by the Secretary by regulations, no fiduciary may maintain the indicia of ownership of any assets of a plan outside the jurisdiction of the district courts of the United States.
 
 #### (c) Control over assets by participant or beneficiary
 
@@ -102,11 +102,11 @@ Subsec. (d). Pub. L. 101–508, §12002(b)(1), added subsec. (d).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to whichsuch amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of Title 26, Internal Revenue Code.
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to distributions made after final regulations implementing section 657(c)(2)(A) of Pub. L. 107–16 are prescribed, see section 657(d) of Pub. L. 107–16, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 107–16 applicable to distributions made after Mar. 28, 2005, see section 657(d) of Pub. L. 107–16, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
@@ -129,8 +129,4 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 #### Plan Amendments Not Required Until January 1, 1998
 
 For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1003, 1021, 1101, 1105, 1107, 1344, 1403 of this title.
 

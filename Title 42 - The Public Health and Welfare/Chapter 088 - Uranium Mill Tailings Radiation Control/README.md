@@ -75,10 +75,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 2296a–3 of this title; title 30 section 1240a.
-
 
 ---
 

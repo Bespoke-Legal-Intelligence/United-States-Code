@@ -12,7 +12,7 @@ A State receiving a grant under this subchapter, through reports provided to the
 
 &emsp;(5) shall demonstrate a high level of satisfaction among families who have used the services of the community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect;
 
-&emsp;(6) shall demonstrate the establishment or maintenance of innovative funding mechanisms, at the State or community level, that blend Federal, State, local and private funds, and innovative, interdisciplinary service delivery mechanisms, for the development, operation, expansion and enhancement of the community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect;
+&emsp;(6) shall demonstrate the establishment or maintenance of innovative funding mechanisms, at the State or community level, that blend Federal, State, local and private funds,and innovative, interdisciplinary service delivery mechanisms, for the development, operation, expansion and enhancement of the community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect;
 
 &emsp;(7) shall describe the results of a peer review process conducted under the State program; and
 
@@ -28,7 +28,7 @@ A prior section 5116f, Pub. L. 93–247, title II, §207, formerly Pub. L. 98–
 
 2003—Par. (1). Pub. L. 108–36, §127(1), substituted “community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect” for “a Statewide network of community-based, prevention-focused, family resource and support programs”.
 
-Par. (3). Pub. L. 108–36, §127(2), added par. (3) and struck out former par. (3) which read as follows: “shalldemonstrate the establishment of new respite care and other specific new family resources services, and the expansion of existing services, to address unmet needs identified by the inventory and description of current services required under section 5116d(3) of this title;”.
+Par. (3). Pub. L. 108–36, §127(2), added par. (3) and struck out former par. (3) which read as follows: “shall demonstrate the establishment of new respite care and other specific new family resources services, and the expansion of existing services, to address unmet needs identified by the inventory and description of current services required under section 5116d(3) of this title;”.
 
 Par. (4). Pub. L. 108–36, §127(3), inserted “and parents with disabilities,” after “children with disabilities,” and substituted “evaluation of community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect, and in the design, operation and evaluation of the networks of such community-based and prevention-focused programs” for “evaluation of the Statewide network of community-based, prevention-focused, family resource and support programs, and in the design, operation and evaluation of the individual community-based family resource and support programs that are part of the Statewide network funded under this subchapter”.
 

@@ -16,7 +16,7 @@ The trustees of any railroad undergoing reorganization under section 77 of the B
 
 &emsp;(6) the probable value of the assets of the railroad in the event of liquidation provides reasonable protection to the United States.
 
-> The Secretary shall publish notice of his intention to make such finding in the Federal Register not less than fifteen days prior to such finding, give interested persons, including agencies of the Federal Government, an opportunity to submit written data, views, or arguments (with or without opportunity for oral presentation), and give consideration to the relevant matter presented. The Secretary for good cause shown and upon a finding that extraordinary circumstances warrant doing so may waive the requirements of the preceding sentence. Notwithstanding any other provision of this section, the Secretary, in guaranteeing certificates under this section, is authorized to waive the findings required by paragraphs (1), (5), and (6) of this subsection.
+> The Secretary shall publish notice of his intention to make such finding in the Federal Register not less than fifteen days prior to such finding, give interested persons, including agencies of the Federal Government, an opportunityto submit written data, views, or arguments (with or without opportunity for oral presentation), and give consideration to the relevant matter presented. The Secretary for good cause shown and upon a finding that extraordinary circumstances warrant doing so may waive the requirements of the preceding sentence. Notwithstanding any other provision of this section, the Secretary, in guaranteeing certificates under this section, is authorized to waive the findings required by paragraphs (1), (5), and (6) of this subsection.
 
 #### (b) Conditions to guarantee
 
@@ -77,8 +77,4 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 664, 666, 906 of this title.
 

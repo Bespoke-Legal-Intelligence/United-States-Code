@@ -60,7 +60,7 @@ As used in this part, unless otherwise specified, the term—
 
 &emsp;(12) “student” means a child regularly pursuing a full-time course of study or training in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution (for purposes of this paragraph, a child who is a student shall not be deemed to have ceased to be a student during any period between school years, semesters, or terms if the period of nonattendance does not exceed 5 calendar months and if the child shows to the satisfaction of the Secretary of State that he or she has a bona fide intention of continuing to pursue his or her course of study during the school year, semester, or term immediately following such period);
 
-&emsp;(13) “surviving spouse” means the surviving wife or husband of a participant or annuitant who was married to the participant or annuitant for at least 9 months immediately preceding his or her death or is a parent of a child born of the marriage, except that the requirement for at least 9 months of marriage shall be deemed satisfied in any case in which the participant or annuitant dies within the applicable 9-month period, if—
+&emsp;(13) “surviving spouse” means the surviving wife or husband of a participant or annuitant who was married to the participant or annuitant for at least 9 months immediately preceding his or her death or is a parent of a child born of the marriage, except that the requirement for at least 9 months of marriage shallbe deemed satisfied in any case in which the participant or annuitant dies within the applicable 9-month period, if—
 
 &emsp;&emsp;(A) the death of such participant or annuitant was accidental; or
 
@@ -193,8 +193,4 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4046, 4055, 4057, 4060, 4071a, 4159 of this title.
 

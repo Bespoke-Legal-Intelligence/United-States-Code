@@ -4,7 +4,3 @@ A tribe or tribal corporation to which a loan is made or insured pursuant to sec
 
 (Pub. L. 91–229, §3, Apr. 11, 1970, 84 Stat. 120.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 488, 489, 491, 492, 493, 494 of this title; title 7 section 1985.
-

@@ -46,7 +46,3 @@ Amendment by Pub. L. 104–164 applicable with respect to certifications require
 
 Functions of President under subsec. (a) of this section delegated to Secretary of Defense by section 1(r) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2796b of this title.
-

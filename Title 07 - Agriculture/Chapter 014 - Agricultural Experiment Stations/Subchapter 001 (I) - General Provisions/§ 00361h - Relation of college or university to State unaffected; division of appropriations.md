@@ -12,7 +12,3 @@ Section was formerly classified to section 378 of this title.
 
 1955—Act Aug. 11, 1955, amended section generally to provide that the relation between the college and the State is to be unaffected, and to require division of appropriations.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 361g of this title.
-

@@ -13,3 +13,4 @@
 - [&sect; 00266 - Authorization of appropriations for acquisition of additional lands](%C2%A7%2000266%20-%20Authorization%20of%20appropriations%20for%20acquisition%20of%20additional%20lands.md)
 - [&sect; 00267 - Authority of Secretary to acquire additional lands](%C2%A7%2000267%20-%20Authority%20of%20Secretary%20to%20acquire%20additional%20lands.md)
 - [&sect; 00268 - Authority of Secretary to acquire lands for trailheads](%C2%A7%2000268%20-%20Authority%20of%20Secretary%20to%20acquire%20lands%20for%20trailheads.md)
+- [&sect; 00268a - Acquisition of Fern Lake watershed](%C2%A7%2000268a%20-%20Acquisition%20of%20Fern%20Lake%20watershed.md)

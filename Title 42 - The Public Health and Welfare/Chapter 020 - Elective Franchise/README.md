@@ -501,7 +501,7 @@ Registration notification.
 
 |  |  |
 | :--- | ---: |
-| 1973ff–2. | Federal write-in absentee ballot for overseas voters in general elections for Federal office. |
+| 1973ff–2. | Federal write-in absentee ballot in general elections for Federal office for absent uniformed services voters and overseas voters. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -519,7 +519,7 @@ Special rules.
 
 (d)
 
-Second ballot submission; instruction to overseas voter.
+Second ballot submission; instruction to absent uniformed services voter or overseas voter.
 
 (e)
 

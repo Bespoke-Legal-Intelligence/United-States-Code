@@ -8,7 +8,7 @@ The Secretary shall vest in the Assistant Secretary for Indian Affairs all funct
 
 #### (1) In general
 
-&emsp;Not later than 180 days after January 8, 2002, the Director of the Office shall direct and supervise the operations of all personnel directlyand substantially involved in the provision of education program services by the Bureau, including school or institution custodial or maintenance personnel, and personnel responsible for contracting, procurement, and finance functions connected with school operation programs.
+&emsp;Not later than 180 days after January 8, 2002, the Director of the Office shall direct and supervise the operations of all personnel directly and substantially involved in the provision of education program services by the Bureau, including school or institution custodial or maintenance personnel, and personnel responsible for contracting, procurement, and finance functions connected with school operation programs.
 
 #### (2) Transfers
 
@@ -99,8 +99,4 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 A prior section 2006, Pub. L. 95–561, title XI, §1126, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3988, related to Bureau of Indian Affairs education functions, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2006, Pub. L. 95–561, title XI, §1126, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 96–46, §2(b)(6), Aug. 6, 1979, 93 Stat. 341; Pub. L. 98–511, title V, §504, Oct. 19, 1984, 98 Stat. 2393; Pub. L. 99–89, §4, Aug. 15, 1985, 99 Stat. 381; Pub. L. 100–427, §1(c)(3), Sept. 9, 1988, 102 Stat. 1603, related to Bureau of Indian Affairs education functions, prior to the general amendment of this chapter by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2021, 2503 of this title.
 

@@ -4,11 +4,11 @@ Whoever embezzles, steals, purloins, or knowingly converts to his use or the use
 
 Whoever receives, conceals, or retains the same with intent to convert it to his use or gain, knowing it to have been embezzled, stolen, purloined or converted—
 
-Shall be fined under this title or imprisoned not more than ten years, or both; but if the value of such property does not exceed the sum of $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
+Shall be fined under this title or imprisoned not more than ten years, or both; but if the value of such property in the aggregate, combining amounts from all the counts for which the defendant is convicted in a single case, does not exceed the sum of $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
 The word “value” means face, par, or market value, or cost price, either wholesale or retail, whichever is greater.
 
-(June 25, 1948, ch. 645, 62 Stat. 725; Pub. L. 103–322, title XXXIII, §330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 725; Pub. L. 103–322, title XXXIII, §330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 108–275, §4, July 15, 2004, 118 Stat. 833.)
 
 #### Historical and Revision Notes
 
@@ -26,7 +26,7 @@ Words “or aid in concealing” were omitted as unnecessary in view of definiti
 
 Words “or any corporation in which the United States of America is a stockholder” in said section 82 were omitted as unnecessary in view of definition of “agency” in section 6 of this title.
 
-The provisions for fine of not more than $1,000 or imprisonment of not more than 1 year for an offense involving $100 or less and for fine of not more than $10,000 or imprisonment of not more than 10 years, or both, for an offense involving a greater amount were written into this section as more in conformity with the later congressional policy expressed in sections 82 and 87 of title 18, U.S.C., 1940 ed., than the nongraduated penalties of sections 100 and 101 of said title 18.
+The provisions for fine of not more than $1,000 or imprisonment of not more than 1 year for an offense involving $100 or less and for fine of not more than $10,000 or imprisonment of not more than 10 years, or both, foran offense involving a greater amount were written into this section as more in conformity with the later congressional policy expressed in sections 82 and 87 of title 18, U.S.C., 1940 ed., than the nongraduated penalties of sections 100 and 101 of said title 18.
 
 Since the purchasing power of the dollar is less than it was when $50 was the figure which determined whether larceny was petit larceny or grand larceny, the sum $100 was substituted as more consistent with modern values.
 
@@ -40,6 +40,8 @@ Changes were made in phraseology.
 
 #### Amendments
 
+2004—Pub. L. 108–275, in third par., inserted “in the aggregate, combining amounts from all the counts for which the defendant is convicted in a single case,” after “value of such property”.
+
 1996—Pub. L. 104–294 substituted “$1,000” for “$100” in third par.
 
 1994—Pub. L. 103–322, in third par., substituted “fined under this title” for “fined not more than $10,000” after “Shall be” and for “fined not more than $1,000” after “he shall be”.
@@ -47,8 +49,4 @@ Changes were made in phraseology.
 #### Short Title of 1984 Amendment
 
 Pub. L. 98–473, title II, chapter XI, part I (§§1110–1115), §1110, Oct. 12, 1984, 98 Stat. 2148, provided that: “This Part \[enacting section 667 of this title and amending sections 2316 and 2317 of this title\] may be cited as the ‘Livestock Fraud Protection Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1956 of this title; title 22 section 3622; title 40 section 611.
 

@@ -32,7 +32,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(B) which affects any trade, transportation, exchange, or other commerce described in subparagraph (A).
 
-&emsp;(14) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
+&emsp;(14) The term “State” means any State of the United States, the District of Columbia,the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
 
 &emsp;(15) the term “person”, for purposes of applying any provision of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] with respect to any provision of the subchapter, includes a partnership and a corporation.
 
@@ -60,7 +60,7 @@ As used in this subchapter:
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in par. (15), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, asamended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in par. (15), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Codification
 
@@ -95,8 +95,4 @@ Section 1501(d)(1) of Pub. L. 102–486 provided that: “The amendments made by
 #### Regulations
 
 Section 1501(d)(2) of Pub. L. 102–486 provided that: “The Federal Trade Commission shall, within 270 days after the date of the enactment of this Act \[Oct. 24, 1992\], prescribe rules for the purpose of implementing the amendments made in this section \[amending this section and sections 2822 and 2823 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2823 of this title.
 

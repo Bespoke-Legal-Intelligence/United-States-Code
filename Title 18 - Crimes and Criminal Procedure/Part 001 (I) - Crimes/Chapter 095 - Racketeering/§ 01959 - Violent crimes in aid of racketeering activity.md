@@ -40,9 +40,5 @@ Subsec. (a)(6). Pub. L. 103–322, §330016(1)(J), substituted “under this tit
 
 1988—Pub. L. 100–690 renumbered section 1952B of this title as this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1958, 2516 of this title.
-
 <i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
 

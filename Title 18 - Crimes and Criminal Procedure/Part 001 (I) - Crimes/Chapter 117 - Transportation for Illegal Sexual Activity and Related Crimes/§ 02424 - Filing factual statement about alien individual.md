@@ -48,7 +48,3 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1961 of this title.
-

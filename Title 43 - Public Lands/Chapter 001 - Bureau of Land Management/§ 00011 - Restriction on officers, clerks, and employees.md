@@ -14,7 +14,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 “Bureau of Land Management” substituted for “General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1621 of this title.
-

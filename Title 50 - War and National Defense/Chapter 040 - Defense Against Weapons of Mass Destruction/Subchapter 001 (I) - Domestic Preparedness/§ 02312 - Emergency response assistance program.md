@@ -110,7 +110,7 @@ Duties.—The official designated pursuant to subsection (a) shall—
 
 &emsp;“(5) expedite the advancement of high priority Department of Defense projects from research through implementation of initial manufacturing; and
 
-&emsp;“(6) participate in outreach programs established by appropriate Federal Government officials outside the Department of Defense to communicate with first responders and to facilitate awareness of available technology items and equipment to support responses to crises.
+&emsp;“(6) participate in outreach programs established by appropriate Federal Government officials outside the Department of Defense to communicate with firstresponders and to facilitate awareness of available technology items and equipment to support responses to crises.
 
 “(c)
 

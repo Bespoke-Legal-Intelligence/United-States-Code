@@ -28,7 +28,3 @@ Subsec. (b). Pub. L. 89–444, §1(9)(C), added subsec. (b).
 
 1954—Act Sept. 3, 1954, substituted “Classification Act of 1949” for “Classification Act of 1923” and “section 84, chapter 18, subchapter IV of chapter 21, sections 1112, 1113, and 1121–1125, and chapter 23, of title 5” for “sections 29a, 30b–30m, 84, 663, 667, 672a–673, and chapter 18 of title 5”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 5102.
-

@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 101–382, §122(5), added subsec. (c).
 
 1984—Pub. L. 98–573 amended section generally. See explanation below for amendment by Pub. L. 98–473.
 
-Pub. L. 98–473 amended section generally in manner substantially identical to amendment by Pub. L. 98–573. Prior to amendment, section read as follows: “If such value of such vessel, vehicle, merchandise, or baggage does not exceed $10,000, the appropriate customs officer shall cause a notice of the seizure of such articles and the intention to forfeit and sell or otherwise dispose of the same according to law to be published for at least three successive weeks in such manner as the Secretaryof the Treasury may direct. For the purposes of this section and sections 1610 and 1612 of this title merchandise the importation of which is prohibited shall be held not to exceed $10,000 in value.”
+Pub. L. 98–473 amended section generally in manner substantially identical to amendment by Pub. L. 98–573. Prior to amendment, section read as follows: “If such value of such vessel, vehicle, merchandise, or baggage does not exceed $10,000, the appropriate customs officer shall cause a notice of the seizure of such articles and the intention to forfeit and sell or otherwise dispose of the same according to law to be published for at least three successive weeks in such manner as the Secretary of the Treasury may direct. For the purposes of this section and sections 1610 and 1612 of this title merchandise the importation of which is prohibited shall be held not to exceed $10,000 in value.”
 
 1978—Pub. L. 95–410 substituted “$10,000” for “$2,500” wherever appearing.
 
@@ -71,8 +71,4 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1600, 1610, 1612 of this title.
 

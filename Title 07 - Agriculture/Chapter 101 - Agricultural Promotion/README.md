@@ -53,6 +53,9 @@
 | (e) | Late-payment and interest charges. |
 | (f) | Investment of assessments. |
 | (g) | Refund of assessments from escrow account. |
+| [7416a.](Subchapter%20002%20%28II%29%20-%20Issuance%20of%20Orders%20for%20Promotion%2C%20Research%2C%20and%20Information%20Activities%20Regarding%20Agricultural%20Commodities/%C2%A7%2007416a%20-%20Confirmation%20of%20authority%20of%20Secretary%20of%20Agriculture%20to%20collect%20State%20commodity%20assessments.md) | Confirmation of authority of Secretary of Agriculture to collect State commodity assessments. |
+| (a) | Collection from marketing assistance loans. |
+| (b) | Collection pursuant to agreement. |
 | [7417\.](Subchapter%20002%20%28II%29%20-%20Issuance%20of%20Orders%20for%20Promotion%2C%20Research%2C%20and%20Information%20Activities%20Regarding%20Agricultural%20Commodities/%C2%A7%2007417%20-%20Referenda.md) | Referenda. |
 | (a) | Initial referendum. |
 | (b) | Required referenda. |

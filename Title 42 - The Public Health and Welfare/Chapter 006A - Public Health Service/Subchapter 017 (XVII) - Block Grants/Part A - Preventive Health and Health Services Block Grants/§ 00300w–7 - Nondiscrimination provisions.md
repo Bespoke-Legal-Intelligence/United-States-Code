@@ -30,7 +30,3 @@ The Education Amendments of 1972, referred to in subsec. (a)(1), is Pub. L. 92�
 
 The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9875 of this title.
-

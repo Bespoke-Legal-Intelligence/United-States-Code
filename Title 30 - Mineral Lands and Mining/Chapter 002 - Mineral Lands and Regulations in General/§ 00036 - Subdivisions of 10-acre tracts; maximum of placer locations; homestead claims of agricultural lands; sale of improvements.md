@@ -12,7 +12,3 @@ R.S. §2330 derived from act July 9, 1870, ch. 235, §12, 16 Stat. 217.
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 47, 48, 102 of this title; title 16 section 460mm–1.
-

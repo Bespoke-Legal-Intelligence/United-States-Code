@@ -12,7 +12,3 @@ When such fish and game sanctuaries or refuges have been established as provided
 
 Section 10 of act June 25, 1948, provided that the amendment made by that act is effective Sept. 1, 1948.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 694b of this title.
-

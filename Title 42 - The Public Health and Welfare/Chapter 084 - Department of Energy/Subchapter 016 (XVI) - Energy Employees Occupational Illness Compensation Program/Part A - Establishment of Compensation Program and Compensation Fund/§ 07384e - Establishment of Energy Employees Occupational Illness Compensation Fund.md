@@ -30,7 +30,3 @@ Amounts in the compensation fund shall be invested in accordance with section 97
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3612\], Oct. 30, 2000, 114 Stat. 1654, 1654A–497.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7384g, 7384s, 7384t, 7384u of this title.
-

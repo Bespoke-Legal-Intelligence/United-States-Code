@@ -4,7 +4,3 @@ Each member whose name appears on the final roll of the tribe as published in th
 
 (Pub. L. 87–629, §2, Sept. 5, 1962, 76 Stat. 429.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 971 of this title.
-

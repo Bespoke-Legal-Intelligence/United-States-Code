@@ -66,7 +66,7 @@
 
 &emsp;The order shall provide that funds paid to the Board as assessments under subsection (b) of this section may be used by the Board—
 
-&emsp;&emsp;(A) to pay for research, promotion, and consumer information described in the budget of the Board under subsection (a) of thissection and for other expenses incurred by the Board in the administration of an order;
+&emsp;&emsp;(A) to pay for research, promotion, and consumer information described in the budget of the Board under subsection (a) of this section and for other expenses incurred by the Board in the administration of an order;
 
 &emsp;&emsp;(B) to pay such other expenses for the administration, maintenance, and functioning of the Board (including any enforcement efforts for the collection of assessments) as may be authorized by the Secretary, including interest and penalties for late payments; and
 
@@ -143,8 +143,4 @@ Nothing in this subchapter authorizes the withholding of information from Congre
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7466 of this title.
 

@@ -12,7 +12,7 @@ The Director shall make available to the public—
 
 #### (b) Hearings
 
-All hearings on the record with respect to any notice of charges issued by the Director shall beopen to the public, unless the Director, in the Director's discretion, determines that holding an open hearing would be contrary to the public interest.
+All hearings on the record with respect to any notice of charges issued by the Director shall be open to the public, unless the Director, in the Director's discretion, determines that holding an open hearing would be contrary to the public interest.
 
 #### (c) Delay of public disclosure under exceptional circumstances
 

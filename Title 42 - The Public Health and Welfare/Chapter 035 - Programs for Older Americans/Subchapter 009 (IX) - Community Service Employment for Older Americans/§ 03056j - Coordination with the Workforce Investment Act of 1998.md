@@ -10,7 +10,3 @@ In local workforce investment areas where more than one grantee under this subch
 
 (Pub. L. 89–73, title V, §512, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2280.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3056a of this title.
-

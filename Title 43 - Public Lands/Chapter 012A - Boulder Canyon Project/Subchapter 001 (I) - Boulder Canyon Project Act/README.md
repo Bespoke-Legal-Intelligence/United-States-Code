@@ -4,10 +4,6 @@
 
 Consolidation of Parker and Davis Dam projects as not affecting this subchapter, see note preceding this subchapter.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 392a, 618a, 618e, 618g, 618h, 618j, 618k, 618m, 619a, 620f, 620h, 620m, 1524, 1551, 1552, 1597, 1600g of this title; title 16 sections 410aaa–26, 410aaa–73.
-
 
 ---
 

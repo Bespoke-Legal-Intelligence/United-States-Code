@@ -92,7 +92,7 @@ In general.—The Secretary of Health and Human Services, acting through the Nat
 
 “(2)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[June 10, 1993\], the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report concerning the plan developed under paragraph (1).
+Report.—Not later than 180 days after the date of the enactment of this Act \[June 10, 1993\], the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, a report concerning the plan developed under paragraph (1).
 
 “(3)
 
@@ -133,8 +133,4 @@ Sec. 4. <i>General Provisions</i>. (a) Notwithstanding the provisions of any oth
 (b) This order is intended only to improve the internal management of the executive branch, and it is not intended to create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, it officers, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300cc–1, 300cc–41, 300ee–22 of this title.
 

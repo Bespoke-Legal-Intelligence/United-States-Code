@@ -12,7 +12,3 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Transfer of control of Abraham Lincoln National Park \[now Abraham Lincoln Birthplace National Historic Site\] to the Office of National Parks, Buildings and Reservations in the Interior Department, see section 2 of Ex. Ord. No. 6166, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 215, 217, 218a of this title.
-

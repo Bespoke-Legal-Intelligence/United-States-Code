@@ -50,7 +50,3 @@ A prior section 796e, Pub. L. 93–112, title VII, §711, as added Pub. L. 102�
 
 Another prior section 796e, Pub. L. 93–112, title VII, §711, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978, 92 Stat. 2998; amended Pub. L. 98–221, title I, §171, Feb. 22, 1984, 98 Stat. 30; Pub. L. 99–506, title I, §103(d)(2)(C), title VIII, §§804(a)(1), (b), (c), 805, Oct. 21, 1986, 100 Stat. 1810, 1838, 1839; Pub. L. 100–630, title II, §208(f), Nov. 7, 1988, 102 Stat. 3314, related to establishment and operation of independent living centers, prior to repeal by Pub. L. 102–569, §701(1).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 796e–1 of this title.
-

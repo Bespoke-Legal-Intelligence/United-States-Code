@@ -26,7 +26,7 @@ Nothing in this chapter shall apply when financial records are sought by a Gover
 
 #### (g) Disclosure pursuant to legitimate law enforcement inquiry respecting name, address, account number, and type of account of particular customers
 
-The notice requirements of this chapter and sections 3410 and 3412 of this title shall not apply when a Government authority by a means described in section 3402 of this title and for a legitimate law enforcement inquiry is seeking only the name, address, account number, andtype of account of any customer or ascertainable group of customers associated (1) with a financial transaction or class of financial transactions, or (2) with a foreign country or subdivision thereof in the case of a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act \[12 U.S.C. 95a, 50 App. U.S.C. 5(b)\]; the International Emergency Economic Powers Act (title II, Public Law 95–223) \[50 U.S.C. 1701 et seq.\]; or section 287c of title 22.
+The notice requirements of this chapter and sections 3410 and 3412 of this title shall not apply when a Government authority by a means described in section 3402 of this title and for a legitimate law enforcement inquiry is seeking only the name, address, account number, and type of account of any customer or ascertainable group of customers associated (1) with a financial transaction or class of financial transactions, or (2) with a foreign country or subdivision thereof in the case of a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act \[12 U.S.C. 95a, 50 App. U.S.C. 5(b)\]; the International Emergency Economic Powers Act (title II, Public Law 95–223) \[50 U.S.C. 1701 et seq.\]; or section 287c of title 22.
 
 #### (h) Disclosure pursuant to lawful proceeding, investigation, etc., directed at financial institution or legal entity or consideration or administration respecting Government loans, loan guarantees, etc.
 
@@ -54,15 +54,15 @@ The notice requirements of this chapter and sections 3410 and 3412 of this title
 
 Nothing in this chapter (except sections 3415 and 3420 of this title) shall apply to any subpena or court order issued in connection with proceedings before a grand jury, except that a court shall have authority to order a financial institution, on which a grand jury subpoena for customer records has been served, not to notify the customer of the existence of the subpoena or information that has been furnished to the grand jury, under the circumstances and for the period specified and pursuant to the procedures established in section 3409 of this title.
 
-#### (j) Disclosure pursuant to proceeding, investigation, etc., instituted by General Accounting Office and directed at a government authority
+#### (j) Disclosure pursuant to proceeding, investigation, etc., instituted by Government Accountability Office and directed at a government authority
 
-This chapter shall not apply when financial records are sought by the General Accounting Office pursuant to an authorized proceeding, investigation, examination or audit directed at a government authority.
+This chapter shall not apply when financial records are sought by the Government Accountability Office pursuant to an authorized proceeding, investigation, examination or audit directed at a government authority.
 
 #### (k) Disclosure necessary for proper administration of programs of withholding taxes on nonresident aliens, Federal Old-Age, Survivors, and Disability Insurance Benefits, and Railroad Retirement Act Benefits
 
 (1) Nothing in this chapter shall apply to the disclosure by the financial institution of the name and address of any customer to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board, where the disclosure of such information is necessary to, and such information is used solely for the purpose of, the proper administration of section 1441 of title 26, title II of the Social Security Act \[42 U.S.C. 401 et seq.\], or the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\].
 
-(2) Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board andshall be barred from redisclosure by the financial institution or its agents.
+(2) Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board and shall be barred from redisclosure by the financial institution or its agents.
 
 #### (<i>l</i>) Crimes against financial institutions by insiders
 
@@ -90,13 +90,13 @@ This chapter shall not apply to the examination by or disclosure to the Federal 
 
 (1) Nothing in this chapter shall apply to the disclosure by the financial institution of the name and address of any customer to the Department of Veterans Affairs where the disclosure of such information is necessary to, and such information is used solely for the purposes of, the proper administration of benefits programs under laws administered by the Secretary.
 
-(2) Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of Veterans Affairs and shall be barred from redisclosure by the financial institution or its agents.
+(2) Notwithstanding any other provision of law, any request authorized by paragraph (1)\(and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of Veterans Affairs and shall be barred from redisclosure by the financial institution or its agents.
 
 #### (q) Disclosure pursuant to Federal contractor-issued travel charge card
 
 Nothing in this chapter shall apply to the disclosure of any financial record or information to a Government authority in conjunction with a Federal contractor-issued travel charge card issued for official Government travel.
 
-(Pub. L. 95–630, title XI, §1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, §121(c)(3)(C), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, §6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, §104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, §411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, §603(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 105–264, §2(c)(1), Oct. 19, 1998, 112 Stat. 2351.)
+(Pub. L. 95–630, title XI, §1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, §121(c)(3)(C), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, §6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, §104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, §411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, §603(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 105–264, §2(c)(1), Oct. 19, 1998, 112 Stat. 2351; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -113,6 +113,8 @@ The Social Security Act, referred to in subsec. (k)(1), is act Aug. 14, 1935, ch
 The Railroad Retirement Act of 1974, referred to in subsec. (k)(1), is act Aug. 29, 1935, ch. 812, as amended, generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 #### Amendments
+
+2004—Subsec. (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1998—Subsec. (q). Pub. L. 105–264 added subsec. (q).
 
@@ -145,8 +147,4 @@ Amendment by Pub. L. 105–264 effective Oct. 1, 1983, and applicable to any rec
 #### Effective Date of 1983 Amendment
 
 Amendment by Pub. L. 98–21 applicable to benefits received after Dec. 31, 1983, in taxable years ending after such date, except for any portion of a lump-sum payment of social security benefits received after Dec. 31, 1983, if the generally applicable payment date for such portion was before Jan. 1, 1984, see section 121(g) of Pub. L. 98–21, set out as an Effective Date note under section 86 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3402, 3415 of this title; title 38 section 5319; title 42 section 652.
 

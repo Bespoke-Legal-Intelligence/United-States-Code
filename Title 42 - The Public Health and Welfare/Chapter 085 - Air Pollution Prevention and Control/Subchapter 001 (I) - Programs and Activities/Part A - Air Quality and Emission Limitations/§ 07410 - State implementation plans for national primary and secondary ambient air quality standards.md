@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(ii) insuring compliance with the applicable requirements of sections 7426 and 7415 of this title (relating to interstate and international pollution abatement);
 
-&emsp;(E) provide (i) necessary assurances that the State (or, except where the Administrator deems inappropriate, the general purpose localgovernment or governments, or a regional agency designated by the State or general purpose local governments for such purpose) will have adequate personnel, funding, and authority under State (and, as appropriate, local) law to carry out such implementation plan (and is not prohibited by any provision of Federal or State law from carrying out such implementation plan or portion thereof), (ii) requirements that the State comply with the requirements respecting State boards under section 7428 of this title, and (iii) necessary assurances that, where the State has relied on a local or regional government, agency, or instrumentality for the implementation of any plan provision, the State has responsibility for ensuring adequate implementation of such plan provision;
+&emsp;(E) provide (i) necessary assurances that the State (or, except where the Administrator deems inappropriate, the general purpose local government or governments, or a regional agency designated by the State or general purpose local governments for such purpose) will have adequate personnel, funding, and authority under State (and, as appropriate, local) law to carry out such implementation plan (and is not prohibited by any provision of Federal or State law from carrying out such implementation plan or portion thereof), (ii) requirements that the State comply with the requirements respecting State boards under section 7428 of this title, and (iii) necessary assurances that, where the State has relied on a local or regional government, agency, or instrumentality for the implementation of any plan provision, the State has responsibility for ensuring adequate implementation of such plan provision;
 
 &emsp;(F) require, as may be prescribed by the Administrator—
 
@@ -108,7 +108,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 (2)(A) Repealed. Pub. L. 101–549, title I, §101(d)(3)(A), Nov. 15, 1990, 104 Stat. 2409.
 
-(B) No parking surcharge regulation may be required by the Administrator under paragraph (1) of this subsection as a part of an applicable implementation plan. All parking surcharge regulations previously required by the Administrator shall be void upon June 22, 1974. This subparagraph shall not prevent the Administrator from approving parking surcharges if they are adopted and submitted by a State as part of an applicable implementation plan. The Administrator may not condition approval of any implementation plan submitted by a State on such plan's including a parking surcharge regulation.
+(B) No parking surcharge regulation may be required by the Administrator under paragraph (1) of this subsection as a part of an applicableimplementation plan. All parking surcharge regulations previously required by the Administrator shall be void upon June 22, 1974. This subparagraph shall not prevent the Administrator from approving parking surcharges if they are adopted and submitted by a State as part of an applicable implementation plan. The Administrator may not condition approval of any implementation plan submitted by a State on such plan's including a parking surcharge regulation.
 
 (C) Repealed. Pub. L. 101–549, title I, §101(d)(3)(B), Nov. 15, 1990, 104 Stat. 2409.
 
@@ -156,7 +156,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 &emsp;(B) such unemployment or loss can be totally or partially alleviated by such emergency suspension.
 
-> Not more than one such suspension may be issued for any source on the basis of the same set of circumstances or on the basis of the same emergency.
+> Not more than one such suspension may be issued for any source on the basis of the same setof circumstances or on the basis of the same emergency.
 
 (3) A temporary emergency suspension issued by a Governor under this subsection shall remain in effect for a maximum of four months or such lesser period as may be specified in a disapproval order of the Administrator, if any. The Administrator may disapprove such suspension if he determines that it does not meet the requirements of paragraph (2).
 
@@ -202,7 +202,7 @@ As a condition for issuance of any permit required under this subchapter, the ow
 
 #### (B) Completeness finding
 
-&emsp;&emsp;Within 60 days of the Administrator's receipt of a plan or plan revision, but no later than 6 months after the date, if any, by which a State is required to submit the plan or revision, the Administrator shall determine whether the minimum criteria established pursuant to subparagraph (A) have been met. Any plan or plan revision that a State submits to the Administrator, and that has not been determined by the Administrator (by the date 6 months after receipt of the submission) to have failed to meet the minimum criteria established pursuant to subparagraph (A), shall on that date be deemed by operation of law to meet such minimum criteria.
+&emsp;&emsp;Within 60 days of the Administrator's receipt of a plan or plan revision, but no laterthan 6 months after the date, if any, by which a State is required to submit the plan or revision, the Administrator shall determine whether the minimum criteria established pursuant to subparagraph (A) have been met. Any plan or plan revision that a State submits to the Administrator, and that has not been determined by the Administrator (by the date 6 months after receipt of the submission) to have failed to meet the minimum criteria established pursuant to subparagraph (A), shall on that date be deemed by operation of law to meet such minimum criteria.
 
 #### (C) Effect of finding of incompleteness
 
@@ -382,7 +382,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Pending Actions and Proceedings
 
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any otherofficer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
@@ -407,10 +407,6 @@ Section 16 of Pub. L. 91–604 provided that:
 “Federal Energy Administrator”, for purposes of this chapter, to mean Administrator of Federal Energy Administration established by Pub. L. 93–275, May 7, 1974, 88 Stat. 97, which is classified to section 761 et seq. of Title 15, Commerce and Trade, but with the term to mean any officer of the United States designated as such by the President until Federal Energy Administrator takes office and after Federal Energy Administration ceases to exist, see section 798 of Title 15, Commerce and Trade.
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6215, 7405, 7407, 7411, 7414, 7415, 7419, 7420, 7425, 7426, 7475, 7476, 7491, 7492, 7502, 7503, 7506, 7506a, 7509, 7511, 7511a, 7511c, 7512, 7545, 7586, 7589, 7590, 7602, 7607, 7619, 7625–1, 7651g, 7651j, 7661f, 8374, 9601 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

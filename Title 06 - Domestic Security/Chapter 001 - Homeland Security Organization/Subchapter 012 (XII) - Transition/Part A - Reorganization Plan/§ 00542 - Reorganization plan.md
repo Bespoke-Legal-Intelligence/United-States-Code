@@ -22,7 +22,7 @@ The plan transmitted under subsection (a) of this section shall contain, consist
 
 &emsp;(5) Specification of any proposed disposition of property, facilities, contracts, records, and other assets and obligations of agencies transferred under the plan.
 
-&emsp;(6) Specification of the proposed allocations within the Department of the functions of theagencies and subdivisions that are not related directly to securing the homeland.
+&emsp;(6) Specification of the proposed allocations within the Department of the functions of the agencies and subdivisions that are not related directly to securing the homeland.
 
 #### (c) Modification of plan
 
@@ -70,7 +70,7 @@ This Reorganization Plan is submitted pursuant to Section 1502 of the Department
 
 Section 1502(b) of the Act identifies six elements, together with other elements “as the President deems appropriate,” as among those for discussion in the plan. Each of the elements set out in the statute is identified <i>verbatim</i> below, followed by a discussion of current plans with respect to that element.
 
-This plan is subject to modification pursuant to Section 1502(d) of the Act, which provides that on the basis of consultations with appropriate congressional committees the President may modify or revise any part of the plan until that part of the plan becomes effective. Additional details concerning the process for establishing the Department will become available in the coming weeks and months, and the President will work closely with Congress to modify this plan consistent with the Act.
+This plan is subject to modification pursuant to Section 1502(d) of the Act, which provides that on the basisof consultations with appropriate congressional committees the President may modify or revise any part of the plan until that part of the plan becomes effective. Additional details concerning the process for establishing the Department will become available in the coming weeks and months, and the President will work closely with Congress to modify this plan consistent with the Act.
 
 #### Plan Elements
 
@@ -434,6 +434,8 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 \[Bureau of Border Security renamed Bureau of Immigration and Customs Enforcement, and Customs Service renamed Bureau of Customs and Border Protection, by Reorganization Plan Modification for the Department of Homeland Security, H. Doc. No. 108–32, 108th Congress, 1st Session, set out below.\]
 
+\[For transfer of functions of Strategic National Stockpile to Secretary of Health and Human Services, with certain exceptions, see section 3(c)(1), (2) of Pub. L. 108–276, set out as a note under section 247d–6b of Title 42, The Public Health and Welfare.\]
+
 #### Message of the President
 
 38 Weekly Compilation of Presidential Documents 2095, Dec. 2, 2002; H. Doc. No. 108–16, provided:
@@ -524,7 +526,7 @@ Because of the current state of the 2003 budget process, information concerning 
 
 (4) <i>Specification of the proposed allocations within the Department of unexpended funds transferred in connection with transfers under the plan.</i>
 
-The table attached at Tab B \[not set out in the Code\] provides updated estimates of the unobligated balances as of September 30, 2002, for the agencies affected by this modification that will be transferred to the Department. Since October 1, 2002, these agencies have been operating under continuing resolutions, and, as such, have been spending these balances to maintain current operations. As additional information becomes available, it will be provided as may be required in accordance with the procedures under the Act for modification of this Plan or other applicable law.
+The table attached at Tab B \[not set out in the Code\] provides updated estimates of the unobligated balances as of September 30, 2002, for the agencies affected bythis modification that will be transferred to the Department. Since October 1, 2002, these agencies have been operating under continuing resolutions, and, as such, have been spending these balances to maintain current operations. As additional information becomes available, it will be provided as may be required in accordance with the procedures under the Act for modification of this Plan or other applicable law.
 
 (5) <i>Specification of any proposed disposition of property, facilities, contracts, records, and other assets and obligations of agencies transferred under the plan.</i>
 
@@ -549,8 +551,4 @@ Pursuant to section 1502 of the Homeland Security Act of 2002 \[6 U.S.C. 542\] (
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <b><sup>1</sup></b><b> Editorial note</b>. This is the text of identical letters addressed to the Speaker of the House of Representatives and the President of the Senate.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 291, 452, 557 of this title.
 

@@ -10,7 +10,7 @@ An extension of protection for which a certificate of extension of protection ha
 
 &emsp;&emsp;(A) within the 6-month period preceding the expiration of such 10-year period the holder of the international registration files in the United States Patent and Trademark Office an affidavit under subsection (b) of this section together with a fee prescribed by the Director; or
 
-&emsp;&emsp;(B) within 3 months after the expiration of such 10-year period, the holder of the international registration files in the Patent and Trademark Office an affidavit under subsection (b) of this section together with thefee described in subparagraph (A) and the surcharge prescribed by the Director.
+&emsp;&emsp;(B) within 3 months after the expiration of such 10-year period, the holder of the international registration files in the Patent and Trademark Office an affidavit under subsection (b) of this section together with the fee described in subparagraph (A) and the surcharge prescribed by the Director.
 
 #### (b) Contents of affidavit
 

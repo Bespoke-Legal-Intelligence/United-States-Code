@@ -14,7 +14,3 @@
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1131” for “331”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1137 of this title.
-

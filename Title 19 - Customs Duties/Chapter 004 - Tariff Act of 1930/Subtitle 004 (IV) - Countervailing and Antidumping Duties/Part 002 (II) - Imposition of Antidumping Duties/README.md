@@ -6,10 +6,6 @@ The designation “
 
 Part II” was in the original “Subtitle B” and was editorially changed in order to conform the numbering format of this subtitle to the usages employed in the codification of the remainder of the Tariff Act of 1930 as originally enacted.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1337, 1671d, 1677, 1677b–1, 1677c, 1677f, 1677f–1, 1677m, 2033, 2171, 2252 of this title; title 28 section 1582.
-
 
 ---
 

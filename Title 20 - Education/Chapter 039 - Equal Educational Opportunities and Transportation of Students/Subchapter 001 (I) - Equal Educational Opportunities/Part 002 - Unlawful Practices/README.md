@@ -2,10 +2,6 @@ Part 2
 
 —Unlawful Practices
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1710 of this title.
-
 
 ---
 

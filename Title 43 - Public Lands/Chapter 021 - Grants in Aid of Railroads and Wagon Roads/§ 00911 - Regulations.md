@@ -4,7 +4,3 @@ The Secretary of the Interior shall prescribe such rules and regulations as will
 
 (June 25, 1910, ch. 406, §4, 36 Stat. 835.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 908, 910 of this title.
-

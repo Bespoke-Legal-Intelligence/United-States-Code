@@ -6,7 +6,7 @@ Nothing in this subchapter affects, or otherwise biases, the use by the Secretar
 
 #### (b) National Forest System
 
-For projects and activities of the National Forest System other than authorized hazardousfuel reduction projects, nothing in this subchapter affects, or otherwise biases, the notice, comment, and appeal procedures for projects and activities of the National Forest System contained in part 215 of title 36, Code of Federal Regulations, or the consideration or disposition of any legal action brought with respect to the procedures.
+For projects and activities of the National Forest System other than authorized hazardous fuel reduction projects, nothing in this subchapter affects, or otherwise biases, the notice, comment, and appeal procedures for projects and activities of the National Forest System contained in part 215 of title 36, Code of Federal Regulations, or the consideration or disposition of any legal action brought with respect to the procedures.
 
 (Pub. L. 108–148, title I, §107, Dec. 3, 2003, 117 Stat. 1900.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of the Resolution Funding Corporation is to provide funds to the Resolution Trust Corporation to enable the Resolution Trust Corporation to carry out the provisions of this chapter.
+The purpose of the Resolution Funding Corporation is to provide funds to the ResolutionTrust Corporation to enable the Resolution Trust Corporation to carry out the provisions of this chapter.
 
 #### (b) Establishment
 
@@ -104,7 +104,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (8) Authority to sue
 
-&emsp;To sue and be sued in its corporate capacity, and to complain and defend in any action brought by or against the Funding Corporation in any State or Federal court of competent jurisdiction.
+&emsp;To sue and be sued in its corporate capacity, and to complain and defend in any actionbrought by or against the Funding Corporation in any State or Federal court of competent jurisdiction.
 
 #### (9) Incidental powers
 
@@ -128,7 +128,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (2) Par value; transferability
 
-&emsp;Each share of stock issued by the Funding Corporation to a Federal Home Loan Bank shall have a par value in an amount determined by the Thrift Depositor Protection Oversight Board and shall be transferable atnot less than par value only among the Federal Home Loan Banks in the manner and to the extent prescribed by the Thrift Depositor Protection Oversight Board.
+&emsp;Each share of stock issued by the Funding Corporation to a Federal Home Loan Bank shall have a par value in an amount determined by the Thrift Depositor Protection Oversight Board and shall be transferable at not less than par value only among the Federal Home Loan Banks in the manner and to the extent prescribed by the Thrift Depositor Protection Oversight Board.
 
 #### (3) Maximum investment amount limitation for each Federal Home Loan Bank
 
@@ -236,7 +236,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;If the amount of any Federal Home Loan Bank's allocation under paragraph (5) exceeds the maximum amount applicable with respect to such Bank (in this paragraph referred to as a “deficient Bank”) under paragraph (3) at the time of such determination (in this paragraph referred to as the “excess amount”)—
 
-&emsp;&emsp;&emsp;(i) the Thrift Depositor Protection Oversight Board shall require each FederalHome Loan Bank that is not allocated an amount under paragraph (5) that exceeds its maximum under paragraph (3) (in this paragraph referred to as a “remaining Bank”) to purchase stock in the Funding Corporation (in addition to the amount determined under paragraph (5) for such remaining Bank and subject to the maximum amount applicable with respect to such remaining Bank under paragraph (3) at the time of such determination) on behalf of the deficient Bank the amount determined under subparagraph (B);
+&emsp;&emsp;&emsp;(i) the Thrift Depositor Protection Oversight Board shall require each Federal Home Loan Bank that is not allocated an amount under paragraph (5) that exceeds its maximum under paragraph (3) (in this paragraph referred to as a “remaining Bank”) to purchase stock in the Funding Corporation (in addition to the amount determined under paragraph (5) for such remaining Bank and subject to the maximum amount applicable with respect to such remaining Bank under paragraph (3) at the time of such determination) on behalf of the deficient Bank the amount determined under subparagraph (B);
 
 &emsp;&emsp;&emsp;(ii) the Thrift Depositor Protection Oversight Board shall require the deficient Bank to subsequently reimburse the remaining Banks out of its net earnings (or reimbursements received from other Banks) in the manner described in subparagraphs (C) and (D); and
 
@@ -296,7 +296,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;(iii) the Financing Corporation shall have first priority to make the assessment; and
 
-&emsp;&emsp;&emsp;(iv) the amount of the applicable assessment determined under such section 1817of this title shall be reduced by the sum described in clause (ii) of this subparagraph.
+&emsp;&emsp;&emsp;(iv) the amount of the applicable assessment determined under such section 1817 of this title shall be reduced by the sum described in clause (ii) of this subparagraph.
 
 #### (B) Receivership proceeds
 
@@ -406,7 +406,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (B) Authority of Commission
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the Securities and Exchange Commission may, by rule or order, consistent with the public interest and the protection of investors, exempt securities issued by the Funding Corporation from the registration requirements of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], subject to such terms and conditions as the Commission may prescribe.
+&emsp;&emsp;Notwithstanding subparagraph (A), the Securities and Exchange Commission may, by rule or order, consistent with the public interest and the protection of investors, exempt securities issued by the Funding Corporation from the registration requirementsof the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], subject to such terms and conditions as the Commission may prescribe.
 
 #### (9) Minority participation in public or negotiated offerings
 
@@ -601,10 +601,6 @@ Amendment by Pub. L. 102–233 effective Feb. 1, 1992, see section 318 of Pub. L
 #### Abolition of Thrift Depositor Protection Oversight Board
 
 Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, set out as a note under section 1441a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1422, 1426, 1430, 1436, 1441, 1441a, 1821a of this title; title 26 section 501.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

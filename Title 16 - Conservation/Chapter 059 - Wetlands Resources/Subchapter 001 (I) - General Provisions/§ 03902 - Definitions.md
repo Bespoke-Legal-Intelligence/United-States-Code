@@ -4,7 +4,7 @@ For the purpose of this chapter:
 
 &emsp;(1) The term “Committees” means the Committee on Merchant Marine and Fisheries and the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works and the Committee on Energy and Natural Resources of the Senate.
 
-&emsp;(2) The term “designated unit” means a unit of the National Wildlife Refuge System designated by the Secretary under section 3911(a)(2) of this title.
+&emsp;(2) The term “designated unit” means a unit of the National Wildlife Refuge System designated by the Secretary under section 3911(a)(2) <sup>1</sup> of this title.
 
 &emsp;(3) The term “hydric soil” means soil that, in its undrained condition, is saturated, flooded, or ponded long enough during a growing season to develop an anaerobic condition that supports the growth and regeneration of hydrophytic vegetation.
 
@@ -18,6 +18,10 @@ For the purpose of this chapter:
 
 (Pub. L. 99–645, §3, Nov. 10, 1986, 100 Stat. 3583; Pub. L. 103–437, §6(d)(41), Nov. 2, 1994, 108 Stat. 4585.)
 
+#### References in Text
+
+Section 3911 of this title, referred to in par. (2), was repealed by Pub. L. 108–447, div. J, title VIII, §813(c), Dec. 8, 2004, 118 Stat. 3390.
+
 #### Amendments
 
 1994—Par. (1). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
@@ -28,9 +32,5 @@ Committee on Natural Resources of House of Representatives treated as referring 
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 698n of this title.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdictiontransferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -40,9 +40,5 @@ For the purposes of this section, the term “inventory” means a simple itemiz
 
 (Pub. L. 101–601, §5, Nov. 16, 1990, 104 Stat. 3052.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3005, 3006, 3008 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “items.”</i>
 

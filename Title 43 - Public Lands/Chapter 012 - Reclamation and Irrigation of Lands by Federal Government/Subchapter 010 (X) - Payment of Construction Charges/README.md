@@ -1,9 +1,5 @@
 ### SUBCHAPTER X—PAYMENT OF CONSTRUCTION CHARGES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 390b, 390tt, 485h–6, 591a of this title; title 16 sections 835, 835d.
-
 
 ---
 

@@ -32,7 +32,7 @@ Nothing in this section shall be construed to limit or condition the right of an
 
 #### (e) Provisions not to affect public prosecutions
 
-This section shall not be construed to bar or limit in any manner any action by the Commission or the Attorney General under any otherprovision of this chapter, nor shall it bar or limit in any manner any action to recover penalties, or to seek any other order regarding penalties.
+This section shall not be construed to bar or limit in any manner any action by the Commission or the Attorney General under any other provision of this chapter, nor shall it bar or limit in any manner any action to recover penalties, or to seek any other order regarding penalties.
 
 (June 6, 1934, ch. 404, title I, §20A, as added Pub. L. 100–704, §5, Nov. 19, 1988, 102 Stat. 4680.)
 

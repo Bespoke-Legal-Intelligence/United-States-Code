@@ -20,7 +20,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(H) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838); and
 
-&emsp;&emsp;(I) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph;
+&emsp;&emsp;(I) an individual appointed to a position on the office staff of a former President, or aformer Vice President under section 4 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph;
 
 > &emsp;but does not include—
 
@@ -72,7 +72,7 @@ For the purpose of this chapter—
 
 &emsp;(8) “employee organization” means—
 
-&emsp;&emsp;(A) an association or other organization of employees which is national in scope, or inwhich membership is open to all employees of a Government agency who are eligible to enroll in a health benefits plan under this chapter and which, after December 31, 1978, and before January 1, 1980, applied to the Office for approval of a plan provided under section 8903(3) of this title; and
+&emsp;&emsp;(A) an association or other organization of employees which is national in scope, or in which membership is open to all employees of a Government agency who are eligible to enroll in a health benefits plan under this chapter and which, after December 31, 1978, and before January 1, 1980, applied to the Office for approval of a plan provided under section 8903(3) of this title; and
 
 &emsp;&emsp;(B) an association or other organization which is national in scope, in which membership is open only to employees, annuitants, or former spouses, or any combination thereof, and which, during the 90-day period beginning on the date of enactment of section 8903a of this title, applied to the Office for approval of a plan provided under such section;
 
@@ -268,7 +268,7 @@ Pub. L. 106–394, §1, Oct. 30, 2000, 114 Stat. 1629, provided that: “This Ac
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–266, §1, Oct. 19, 1998, 112 Stat. 2363, provided that: “This Act \[enacting section 8903b of this title, amending this section and sections 5948, 8902 to 8903, and 8909 of this title, and enacting provisions set out as notes under this section and sections 5948, 8902, 8902a, 8903b, and 8909 of this title\] may be cited as the ‘Federal Employees Health Care Protection Act of 1998’.”
+Pub. L. 105–266, §1, Oct. 19, 1998, 112 Stat. 2363, provided that: “This Act \[enacting section 8903b of thistitle, amending this section and sections 5948, 8902 to 8903, and 8909 of this title, and enacting provisions set out as notes under this section and sections 5948, 8902, 8902a, 8903b, and 8909 of this title\] may be cited as the ‘Federal Employees Health Care Protection Act of 1998’.”
 
 #### Short Title of 1988 Amendment
 
@@ -354,7 +354,7 @@ Plan.—For purposes of chapter 89 of title 5, United States Code, any period of
 
 &emsp;“(1) in a health benefits plan administered by the Federal Deposit Insurance Corporation before the termination of such plan on or before January 2, 1999; or
 
-&emsp;“(2) subject to subsection (c), in a health benefits plan (not under chapter 89 of such title) with respect to which the eligibility of any employees or retiredemployees of the Board of Governors of the Federal Reserve System terminates on or before January 2, 1999,
+&emsp;“(2) subject to subsection (c), in a health benefits plan (not under chapter 89 of such title) with respect to which the eligibility of any employees or retired employees of the Board of Governors of the Federal Reserve System terminates on or before January 2, 1999,
 
 > shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
 
@@ -366,7 +366,7 @@ Continued Coverage.—(1) Subject to subsection (c), any individual who, on or b
 
 &emsp;“(B) would meet those requirements if, to the extent such requirements involve either retirement system under such title 5, such individual satisfies similar requirements or provisions of the Retirement Plan for Employees of the Federal Reserve System.
 
-> Any determination under subparagraph (B) shall be made under guidelines which the Office of Personnel Management shall establish in consultation with the Board of Governors of the Federal Reserve System.
+> Any determination under subparagraph (B) shall be made under guidelines which the Office of PersonnelManagement shall establish in consultation with the Board of Governors of the Federal Reserve System.
 
 “(2) Subject to subsection (c), any individual who, on or before January 2, 1999, is entitled to continued coverage under a health benefits plan described in subsection (a)(1) or (2) shall be deemed to be entitled to continued coverage under section 8905a of title 5, United States Code, but only for the same remaining period as would have been allowable under the health benefits plan in which such individual was enrolled on or before January 2, 1999, if—
 
@@ -446,7 +446,7 @@ Plan.—For purposes of the administration of chapter 89 of title 5, United Stat
 
 “(b)
 
-Continued Coverage.—(1) Any individual who, on January 7, 1995, is covered by a health benefits plan administered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision may enroll in an approved health benefits plan described under section 8903 or 8903a of title 5, United States Code—
+Continued Coverage.—(1) Any individual who, on January 7, 1995, is covered by a health benefits planadministered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision may enroll in an approved health benefits plan described under section 8903 or 8903a of title 5, United States Code—
 
 &emsp;“(A) either as an individual or for self and family, if such individual is an employee, annuitant, or former spouse as defined under section 8901 of such title; and
 
@@ -483,10 +483,6 @@ Administration and Regulations.—The Office of Personnel Management—
 #### Continued Coverage Under Certain Federal Employee Benefit Programs for Certain Employees of Saint Elizabeths Hospital
 
 For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(<i>o</i>) of Pub. L. 99–335, set out as a note under section 8331 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8902, 8903, 8903a, 8905, 8905a, 8906, 8909, 8913, 9001 of this title; title 2 sections 162b, 2063; title 10 section 1108; title 42 section 251.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

@@ -52,7 +52,3 @@ Section 1043 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2)
 
 Section 27 of the Office of Federal Procurement Policy Act, referred to in subsec. (b)(2)(G), is classified to section 423 of Title 41, Public Contracts.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3702 of this title.
-

@@ -1,9 +1,5 @@
 Part II—Higher Education Innovative Programs for Community Service
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 12681 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
 

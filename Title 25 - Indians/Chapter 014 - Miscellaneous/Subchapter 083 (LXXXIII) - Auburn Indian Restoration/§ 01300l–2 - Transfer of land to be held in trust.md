@@ -22,7 +22,3 @@ Act of June 18, 1934, referred to in subsec. (a), popularly known as the Indian 
 
 1996—Subsec. (a). Pub. L. 104–122 substituted “may” for “shall” in first sentence.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300<i>l</i>–1, 1300<i>l</i>–6 of this title.
-

@@ -140,7 +140,3 @@ The National and Community Service Act of 1990, referred to in subsec. (b)(8)(A)
 
 1998—Subsec. (c)(1). Pub. L. 105–277 substituted “; or” for “; and”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 49g, 721, 2821, 2831, 2851, 2861, 2871, 2944 of this title; title 19 section 2311; title 20 section 2342; title 38 section 4110B; title 42 section 3056.
-

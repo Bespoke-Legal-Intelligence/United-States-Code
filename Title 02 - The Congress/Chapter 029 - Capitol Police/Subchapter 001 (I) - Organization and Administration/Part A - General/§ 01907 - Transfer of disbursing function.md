@@ -8,7 +8,7 @@
 
 #### (2) Transfer
 
-&emsp;Any statutory function, duty, or authority of the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate as disbursing officers for the Capitol Police shall transfer to the Chief of the Capitol Police as the single disbursing officer for the Capitol Police.
+&emsp;Any statutory function, duty, or authority of the Chief Administrative Officer of theHouse of Representatives or the Secretary of the Senate as disbursing officers for the Capitol Police shall transfer to the Chief of the Capitol Police as the single disbursing officer for the Capitol Police.
 
 #### (3) Continuity of function during transition
 
@@ -64,7 +64,7 @@ Except as may otherwise be provided in law, the unexpended balances of appropria
 
 #### (2) Benefits
 
-&emsp;Employees of the Capitol Police who are appointed by the Chief under the authority of this subsection shall be subject to the same type of benefits (including the payment of death gratuities, the withholding of debt, and health, retirement, Social Security, and other applicable employee benefits) as are provided to employees of the House of Representatives, and any such individuals serving as employees of the Capitol Police as of February 20, 2003, shall be subject to the same rules governing rights, protections, pay, and benefits in effect immediately before such date until such rules are changed under applicable laws or regulations.
+&emsp;Employees of the Capitol Police who are appointed by the Chief under the authority of this subsection shall be subject to the same type of benefits (including the payment of death gratuities, the withholding of debt, and health, retirement, Social Security, and other applicable employee benefits) as are provided to employees of the House of Representatives, and any such individuals serving as employees of the Capitol Police as of February 20, 2003, shall be subject to the same rules governing rights, protections, pay, and benefits in effect immediately before such date until such rulesare changed under applicable laws or regulations.
 
 #### (f) Worker's compensation
 

@@ -28,7 +28,7 @@ Each report under this section shall set forth the national emergency planning a
 
 #### (c) Period within which to replace or replenish materials
 
-The stockpile requirements shall be based on those strategic and critical materials necessary for the United States to replenish or replace, within three years of the end of the military conflict scenario required under subsection (b) of this section, all munitions, combat support items, and weapons systems that would be required after such a military conflict.
+The stockpile requirements shall be based on those strategic and critical materials necessaryfor the United States to replenish or replace, within three years of the end of the military conflict scenario required under subsection (b) of this section, all munitions, combat support items, and weapons systems that would be required after such a military conflict.
 
 #### (d) Effect of alternative mobilization periods
 

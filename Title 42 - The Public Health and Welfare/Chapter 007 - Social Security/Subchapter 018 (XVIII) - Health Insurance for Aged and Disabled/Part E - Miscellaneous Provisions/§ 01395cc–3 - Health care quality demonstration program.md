@@ -54,7 +54,7 @@ The Secretary shall establish a 5-year demonstration program under which the Sec
 
 #### (2) Alternative payment systems
 
-&emsp;A health care group that receives assistance under this section may, with respect to thedemonstration project to be carried out with such assistance, include proposals for the use of alternative payment systems for items and services provided to beneficiaries by the group that are designed to—
+&emsp;A health care group that receives assistance under this section may, with respect to the demonstration project to be carried out with such assistance, include proposals for the use of alternative payment systems for items and services provided to beneficiaries by the group that are designed to—
 
 &emsp;&emsp;(A) encourage the delivery of high quality care while accomplishing the objectives described in subsection (b) of this section; and
 

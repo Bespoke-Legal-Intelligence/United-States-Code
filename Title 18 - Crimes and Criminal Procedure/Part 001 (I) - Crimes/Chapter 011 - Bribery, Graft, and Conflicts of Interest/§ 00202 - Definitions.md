@@ -22,9 +22,9 @@
 
 &emsp;&emsp;(A) the Congress; and
 
-&emsp;&emsp;(B) the Office of the Architect of the Capitol, the United States Botanic Garden, the General Accounting Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, office, or commission established in the legislative branch.
+&emsp;&emsp;(B) the Office of the Architect of the Capitol, the United States Botanic Garden, theGovernment Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, office, or commission established in the legislative branch.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1121; amended Pub. L. 90–578, title III, §301(b), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 100–191, §3(a), Dec. 15, 1987, 101 Stat. 1306; Pub. L. 101–194, title IV, §401, Nov. 30, 1989, 103 Stat. 1747; Pub. L. 101–280, §5(a), May 4, 1990, 104 Stat. 158; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(B), Oct. 5, 1994, 108 Stat. 2832.)
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1121; amended Pub. L. 90–578, title III, §301(b), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 100–191, §3(a), Dec. 15, 1987, 101 Stat. 1306; Pub. L. 101–194, title IV, §401, Nov. 30, 1989, 103 Stat. 1747; Pub. L. 101–280, §5(a), May 4, 1990, 104 Stat. 158; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(B), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -35,6 +35,8 @@ Section 29(c) and (d) of the Act of August 10, 1956 (70A Stat. 632; 5 U.S.C. 30r
 A prior section 202, act June 25, 1948, ch. 645, 62 Stat. 691, prescribed penalties for any officer or other person who accepted or solicited anything of value to influence his decision, prior to the general amendment of this chapter by Pub. L. 87–849, and is substantially covered by revised section 201.
 
 #### Amendments
+
+2004—Subsec. (e)(3)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1994—Subsec. (e)(2). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
 
@@ -75,10 +77,6 @@ Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effec
 #### Effective Date
 
 Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849, set out as a note under section 201 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 568; title 6 section 451; title 7 sections 2009aa–1, 2009bb–1, 2009dd–3; title 12 section 2245; title 15 sections 3710d, 4805; title 22 sections 3507, 3508; title 26 sections 1043, 4946; title 28 sections 594, 995; title 35 section 5; title 40 section 14309.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -42,7 +42,3 @@ In this subchapter, the following definitions apply:
 
 Par. (5). Pub. L. 103–238, §24(c)(8), made technical amendment to reference to section 1421f(a) of this title to reflect renumbering of corresponding section of original act.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1421f–1 of this title.
-

@@ -28,7 +28,3 @@
 
 Section 4(d)(4) of Pub. L. 86–752 provided that: “The amendment made by paragraph (2) of subsection (c) of this section \[amending this section\] shall only apply to petitions for rehearing filed on or after the date of the enactment of this Act \[Sept. 13, 1960\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 155, 307, 309 of this title.
-

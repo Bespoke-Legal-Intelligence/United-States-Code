@@ -22,7 +22,3 @@ Subsec. (b). Pub. L. 95–631, §8(a)(2), made chapter applicable to imports int
 
 Subsec. (c). Pub. L. 95–631, §8(a)(3), added subsec. (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1196 of this title.
-

@@ -134,7 +134,3 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7121, 7701, 7703 of this title; title 3 section 454; title 6 section 293; title 31 section 753; title 49 section 40122.
-

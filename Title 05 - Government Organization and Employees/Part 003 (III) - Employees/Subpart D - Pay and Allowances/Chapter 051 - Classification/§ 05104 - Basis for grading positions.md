@@ -284,7 +284,7 @@ Sec. 303. The Civil Service Commission is authorized to secure directly from any
 
 “
 
-Sec. 304. (a) Within one year after the date of enactment of this Act, the Commission shall submit to thePresident and the Congress an interim progress report on the current status and results of its activities under this Act, together with its current findings.
+Sec. 304. (a) Within one year after the date of enactment of this Act, the Commission shall submit to the President and the Congress an interim progress report on the current status and results of its activities under this Act, together with its current findings.
 
 “(b) Within two years after the date of enactment of this Act \[Mar. 17, 1970\]—
 
@@ -297,8 +297,4 @@ Sec. 304. (a) Within one year after the date of enactment of this Act, the Commi
 “(d) The Commission shall periodically consult with, and solicit the views of, appropriate employee and professional organizations.
 
 “(e) The organizational unit established under section 301 of this Act shall cease to exist upon the submission of the report to the Congress under subsection (b) of this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7201 of this title; title 10 section 1586; title 25 section 2802.
 

@@ -34,13 +34,9 @@ Amendment by section 1233(a)(3) of Pub. L. 100–180 applicable as if included i
 
 #### Effective Date of 1985 Amendment
 
-Section 616(b) of Pub. L. 99–145 provided that: “The travel allowances authorized by the amendments made by this section \[amending this section\] are payable only for travel that commences after September 30,1985, but may be paid for members assigned to vessels being overhauled or inactivated away from home port on the date of the enactment of this Act \[Nov. 8, 1985\].”
+Section 616(b) of Pub. L. 99–145 provided that: “The travel allowances authorized by the amendments made by this section \[amending this section\] are payable only for travel that commences after September 30, 1985, but may be paid for members assigned to vessels being overhauled or inactivated away from home port on the date of the enactment of this Act \[Nov. 8, 1985\].”
 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 420 of this title.
 

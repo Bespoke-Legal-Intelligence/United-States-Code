@@ -1,9 +1,5 @@
 Part A—Prohibitions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 8321, 8322 of this title.
-
 
 ---
 

@@ -10,7 +10,3 @@ Each State and local government shall use payments made under this subchapter fo
 
 1976—Pub. L. 94–447 substituted “support payments” for “support grants”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6725, 6736 of this title.
-

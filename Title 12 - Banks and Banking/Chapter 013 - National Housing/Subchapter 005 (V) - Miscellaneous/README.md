@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—MISCELLANEOUS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1702 of this title.
-
 
 ---
 

@@ -72,7 +72,3 @@ Each recipient of assistance for a project under this chapter shall submit to th
 
 (Pub. L. 106–247, §5, July 20, 2000, 114 Stat. 594.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6105 of this title.
-

@@ -16,7 +16,7 @@ Section 34b, act June 5, 1930, ch. 404, 46 Stat. 502, related to appointment of 
 
 Section 34c, act June 1, 1922, ch. 204, title I, 42 Stat. 600, related to appointment of a minister to Egypt.
 
-Section 35, acts Feb. 27, 1925, ch. 364, title I, 43 Stat. 1016; Apr. 29, 1926, ch. 195, title I, 44 Stat. 331; Feb. 24, 1927, ch. 189, title I, 44 Stat. 1180; Feb. 15, 1928, ch. 57, title I, 45 Stat. 65; Jan. 25, 1929, ch. 102, title I, 45 Stat. 1096; Apr. 18, 1930, ch. 184, title I, 46 Stat. 175, related to clerks at embassies and legations.
+Section 35, acts Feb. 27, 1925, ch. 364, title I, 43 Stat. 1016; Apr. 29, 1926, ch. 195, title I, 44 Stat. 331; Feb. 24,1927, ch. 189, title I, 44 Stat. 1180; Feb. 15, 1928, ch. 57, title I, 45 Stat. 65; Jan. 25, 1929, ch. 102, title I, 45 Stat. 1096; Apr. 18, 1930, ch. 184, title I, 46 Stat. 175, related to clerks at embassies and legations.
 
 Section 36, R.S. §1686, related to compensation of persons filling two offices.
 

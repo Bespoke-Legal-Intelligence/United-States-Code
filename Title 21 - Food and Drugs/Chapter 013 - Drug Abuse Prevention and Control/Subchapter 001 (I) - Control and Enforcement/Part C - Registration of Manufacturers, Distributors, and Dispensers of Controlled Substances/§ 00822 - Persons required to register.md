@@ -80,9 +80,5 @@ Section 703 of Pub. L. 91–513, as amended by Pub. L. 99–514, §2, Oct. 22, 1
 
 > whichever occurs first.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 827, 828, 880, 958, 965 of this title; title 18 section 2118.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

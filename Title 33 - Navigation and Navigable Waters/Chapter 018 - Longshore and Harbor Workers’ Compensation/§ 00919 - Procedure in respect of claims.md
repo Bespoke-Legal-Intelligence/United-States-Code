@@ -6,7 +6,7 @@ Subject to the provisions of section 913 of this title a claim for compensation 
 
 #### (b) Notice of claim
 
-Within ten days after such claim is filed the deputy commissioner, in accordance with regulations prescribed by the Secretary, shall notify the employer and any other person (other than the claimant), whom the deputy commissioner considers an interested party, that a claim has been filed. Such notice may be served personallyupon the employer or other person, or sent to such employer or person by registered mail.
+Within ten days after such claim is filed the deputy commissioner, in accordance with regulations prescribed by the Secretary, shall notify the employer and any other person (other than the claimant), whom the deputy commissioner considers an interested party, that a claim has been filed. Such notice may be served personally upon the employer or other person, or sent to such employer or person by registered mail.
 
 #### (c) Investigations; order for hearing; notice; rejection or award
 
@@ -14,7 +14,7 @@ The deputy commissioner shall make or cause to be made such investigations as he
 
 #### (d) Provisions governing conduct of hearing; administrative law judges
 
-Notwithstanding any other provisions of this chapter, any hearing held under this chapter shall be conducted in accordance with the provisions of section 554 of title 5. Any such hearing shall be conducted by a <sup>1</sup> administrative law judge qualified under section 3105 of that title. All powers, duties, and responsibilities vested by this chapter, on October 27, 1972, in the deputy commissioners with respect to such hearings shall be vested in such administrative law judges.
+Notwithstanding any other provisions of this chapter, any hearing held under this chapter shall be conducted in accordance with the provisions of section 554 of title 5. Any such hearingshall be conducted by a <sup>1</sup> administrative law judge qualified under section 3105 of that title. All powers, duties, and responsibilities vested by this chapter, on October 27, 1972, in the deputy commissioners with respect to such hearings shall be vested in such administrative law judges.
 
 #### (e) Filing and mailing of order rejecting claim or making award
 
@@ -53,10 +53,6 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 918, 921 of this title; title 30 section 925.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

@@ -10,13 +10,21 @@ The General Counsel is the chief legal officer of the Central Intelligence Agenc
 
 #### (c) Functions
 
-The General Counsel of the Central Intelligence Agency shall perform such functions as the Director of Central Intelligence may prescribe.
+The General Counsel of the Central Intelligence Agency shall perform such functions as the Director may prescribe.
 
-(June 20, 1949, ch. 227, §20, as added Pub. L. 104–293, title VIII, §813(a), Oct. 11, 1996, 110 Stat. 3483.)
+(June 20, 1949, ch. 227, §20, as added Pub. L. 104–293, title VIII, §813(a), Oct. 11, 1996, 110 Stat. 3483; amended Pub. L. 108–458, title I, §1071(b)(2)(D), Dec. 17, 2004, 118 Stat. 3690.)
 
 #### Codification
 
 Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
+
+#### Amendments
+
+2004—Subsec. (c). Pub. L. 108–458 struck out “of Central Intelligence” after “Director”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Applicability of Appointment Requirements
 
@@ -24,5 +32,5 @@ Section 813(b) of Pub. L. 104–293 provided that: “The requirement establishe
 
 &emsp;“(1) To any vacancy in such position that occurs after the date of the enactment of this Act \[Oct. 11, 1996\].
 
-&emsp;“(2) To the incumbent serving in such position on the date of the enactment of this Act as of the date that is six months after such date of enactment, ifsuch incumbent has served in such position continuously between such date of enactment and the date that is six months after such date of enactment.”
+&emsp;“(2) To the incumbent serving in such position on the date of the enactment of this Act as of the date that is six months after such date of enactment, if such incumbent has served in such position continuously between such date of enactment and the date that is six months after such date of enactment.”
 

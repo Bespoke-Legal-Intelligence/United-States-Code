@@ -34,7 +34,3 @@ Minor changes were made in arrangement and phraseology.
 
 1951—Act Oct. 31, 1951, substituted a colon for a semicolon at end of opening clause.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1307 of this title; title 25 section 2720; title 39 sections 3001, 3003, 3005.
-

@@ -4,9 +4,11 @@
 
 Retention Bonus Authorized.—An officer or enlisted member of the armed forces who is serving on active duty and is qualified in a designated critical military skill may be paid a retention bonus as provided in this section if—
 
-&emsp;(1) in the case of an officer, the member executes a written agreement to remain on active duty for at least one year; or
+&emsp;(1) in the case of an officer, the member executes a written agreement to remain on active duty for at least one year;
 
-&emsp;(2) in the case of an enlisted member, the member reenlists or voluntarily extends the member's enlistment for a period of at least one year.
+&emsp;(2) in the case of an enlisted member, other than an enlisted member referred to in paragraph (3), the member reenlists or voluntarily extends the member's enlistment for a period of at least one year; or
+
+&emsp;(3) in the case of an enlisted member serving pursuant to an indefinite reenlistment, the member executes a written agreement to remain on active duty for a period of at least one year.
 
 (b)
 
@@ -46,19 +48,25 @@ Repayment of Bonus.—(1) If an officer who has entered into a written agreement
 
 (h)
 
-Annual Report.—Not later than February 15 of each year, the Secretary of Defense and the Secretary of Transportation shall submit to Congress a report—
+Annual Report.—Not later than February 15 of each year, the Secretary of Defense and the Secretary of Homeland Security shall submit to Congress a report—
 
-&emsp;(1) analyzing the effect, during the preceding fiscal year, of the provision of bonuses underthis section on the retention of members qualified in the critical military skills for which the bonuses were offered; and
+&emsp;(1) analyzing the effect, during the preceding fiscal year, of the provision of bonuses under this section on the retention of members qualified in the critical military skills for which the bonuses were offered; and
 
 &emsp;(2) describing the intentions of the Secretary regarding the continued use of the bonus authority during the current and next fiscal years.
 
 (i)
 
-Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2004, and no agreement under this section may be entered into after that date.
+Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2005, and no agreement under this section may be entered into after that date.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570; Pub. L. 108–136, div. A, title VI, §§614(d), 622, title X, §1045(b)(1), Nov. 24, 2003, 117 Stat. 1501, 1505, 1612.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, titleXVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570; Pub. L. 108–136, div. A, title VI, §§614(d), 622, title X, §1045(b)(1), Nov. 24, 2003, 117 Stat. 1501, 1505, 1612; Pub. L. 108–375, div. A, title VI, §§614(e), 621, title X, §1084(e)(2), Oct. 28, 2004, 118 Stat. 1948, 1954, 2064.)
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–375, §621, inserted “other than an enlisted member referred to in paragraph (3),” after “enlisted member,” in par. (2) and added par. (3).
+
+Subsec. (h). Pub. L. 108–375, §1084(e)(2), substituted “Secretary of Homeland Security” for “Secretary of Transportation” in introductory provisions.
+
+Subsec. (i). Pub. L. 108–375, §614(e), substituted “December 31, 2005” for “December 31, 2004”.
 
 2003—Subsec. (a). Pub. L. 108–136, §1045(b)(1), substituted “one year” for “1 year” in pars. (1) and (2).
 
@@ -85,8 +93,4 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date
 
 Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–158, provided that: “Section 323 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2000.”
-
-#### Transfer of Functions
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

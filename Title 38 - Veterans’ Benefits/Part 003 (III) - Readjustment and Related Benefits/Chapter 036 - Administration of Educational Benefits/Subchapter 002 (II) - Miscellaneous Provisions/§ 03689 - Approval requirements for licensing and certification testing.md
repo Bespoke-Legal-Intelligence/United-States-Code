@@ -54,7 +54,7 @@ Requirements for Organizations or Entities Offering Tests.—(1) Each organizati
 
 &emsp;&emsp;(ii) the applicability of the test over such periods of time as the Secretary determines appropriate.
 
-(2) With respect to each organization or entity that is an entity of the United States, a State, or political subdivision of a State, that offers a licensing or certification test for which payment may be made under chapters 30, 32, 34, or 35 ofthis title, the following provisions of paragraph (1) shall apply to the entity: subparagraphs (E), (F), (G), and (H).
+(2) With respect to each organization or entity that is an entity of the United States, a State,or political subdivision of a State, that offers a licensing or certification test for which payment may be made under chapters 30, 32, 34, or 35 of this title, the following provisions of paragraph (1) shall apply to the entity: subparagraphs (E), (F), (G), and (H).
 
 (d)
 
@@ -91,8 +91,4 @@ A prior section 3689, added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972
 #### Effective Date
 
 Section effective Mar. 1, 2001, and applicable with respect to licensing and certification tests approved by the Secretary of Veterans Affairs on or after such date, see section 122(d) of Pub. L. 106–419, set out as an Effective Date of 2000 Amendment note under section 3032 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3452, 3501 of this title.
 

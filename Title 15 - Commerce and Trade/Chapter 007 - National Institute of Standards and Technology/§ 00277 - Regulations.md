@@ -1,6 +1,6 @@
 ### §277. Regulations
 
-The Secretary of Commerce shall, from time to time, make regulations regarding the payment of fees, the limits of tolerance to be attained in standards submitted for verification, the sealing of standards, the disbursement andreceipt of moneys, and such other matters as he may deem necessary for carrying this chapter into effect.
+The Secretary of Commerce shall, from time to time, make regulations regarding the payment of fees, the limits of tolerance to be attained in standards submitted for verification, the sealing of standards, the disbursement and receipt of moneys, and such other matters as he may deem necessary for carrying this chapter into effect.
 
 (Mar. 3, 1901, ch. 872, §9, 31 Stat. 1450; Feb. 14, 1903, ch. 552, §10, 32 Stat. 829; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736.)
 

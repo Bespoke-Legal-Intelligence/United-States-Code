@@ -1,9 +1,5 @@
 Part B—Marketing Quotas
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1361, 1372 of this title.
-
 
 ---
 

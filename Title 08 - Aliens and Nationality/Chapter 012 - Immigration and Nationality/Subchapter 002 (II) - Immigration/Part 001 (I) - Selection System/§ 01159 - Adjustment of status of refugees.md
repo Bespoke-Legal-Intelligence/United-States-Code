@@ -34,7 +34,7 @@ Not more than 10,000 of the refugee admissions authorized under section 1157(a) 
 
 The provisions of paragraphs (4), (5), and (7)(A) of section 1182(a) of this title shall not be applicable to any alien seeking adjustment of status under this section, and the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §209, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title I, §104(a)(1), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III,§307(<i>l</i>)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title III, §§308(g)(3)(A), (4)(A), 371(b)(2), Sept. 30, 1996, 110 Stat. 3009–622, 3009–645.)
+(June 27, 1952, ch. 477, title II, ch. 1, §209, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title I, §104(a)(1), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(<i>l</i>)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title III, §§308(g)(3)(A), (4)(A), 371(b)(2), Sept. 30, 1996, 110 Stat. 3009–622, 3009–645.)
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Section 104(c), (d) of Pub. L. 101–649, as amended by Pub. L. 104–208, div. 
 
 “(c)
 
-Waiver of Numerical Limitation for Certain Current Asylees.—The numerical limitation on the number of aliens whose status may be adjusted under section 209(b) of the Immigration and Nationality Act \[8 U.S.C. 1159(b)\] shall not apply to an alien described in subsection (d) or to an alien who has applied for adjustment of status under such section on or before June 1, 1990.
+Waiver of Numerical Limitation for Certain Current Asylees.—The numerical limitation on the number of aliens whose status may be adjusted under section 209(b) of the Immigration and Nationality Act\[8 U.S.C. 1159(b)\] shall not apply to an alien described in subsection (d) or to an alien who has applied for adjustment of status under such section on or before June 1, 1990.
 
 “(d)
 
@@ -99,8 +99,4 @@ In general.—Subject to paragraph (2), the provisions of section 209(b) of the 
 Application of per country limitations.—The number of aliens who are natives of any foreign state who may adjust status pursuant to paragraph (1) in any fiscal year shall not exceed the difference between the per country limitation established under section 202(a) of the Immigration and Nationality Act \[8 U.S.C. 1152(a)\] and the number of aliens who are chargeable to that foreign state in the fiscal year under section 202 of such Act.”
 
 \[Section 104(c), (d) of Pub. L. 101–649 effective Nov. 29, 1990, and (unless otherwise provided) applicable to fiscal year 1991, see section 161(b) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1151, 1158, 1160, 1255a of this title.
 

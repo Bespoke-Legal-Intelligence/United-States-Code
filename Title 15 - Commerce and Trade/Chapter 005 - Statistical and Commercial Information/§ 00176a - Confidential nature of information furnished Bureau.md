@@ -16,7 +16,3 @@ The Confidential Information Protection and Statistical Efficiency Act of 2002, 
 
 For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under section 172 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 6274.
-

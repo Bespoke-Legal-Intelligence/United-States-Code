@@ -18,7 +18,3 @@ Whenever an employee whose compensation is disbursed by the Secretary of the Sen
 
 Section is from the Legislative Branch Appropriation Act, 1977.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 60c–5 of this title.
-

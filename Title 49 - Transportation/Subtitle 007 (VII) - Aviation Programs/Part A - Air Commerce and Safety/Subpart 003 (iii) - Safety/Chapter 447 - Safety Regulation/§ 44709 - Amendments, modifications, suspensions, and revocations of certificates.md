@@ -30,7 +30,7 @@ Appeals.—(1) A person adversely affected by an order of the Administrator unde
 
 &emsp;&emsp;(i) that control or abatement of aircraft noise or sonic boom and the public health and welfare do not require affirmation of the order; or
 
-&emsp;&emsp;(ii) the order, as it is related to a violation of aircraft noise or sonic boom standards and regulations, is not consistent with safety in air commerce or air transportation.
+&emsp;&emsp;(ii) the order, as it is related to a violation of aircraft noise or sonic boom standards andregulations, is not consistent with safety in air commerce or air transportation.
 
 (2) The Board may modify a suspension or revocation of a certificate to imposition of a civil penalty.
 
@@ -58,7 +58,7 @@ Final disposition.—The Board shall make a final disposition of an appeal under
 
 (f)
 
-Judicial Review.—A person substantially affected by an order of the Board under this section, or the Administrator when the Administrator decides that an order of the Board under this section will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 ofthis title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+Judicial Review.—A person substantially affected by an order of the Board under this section, or the Administrator when the Administrator decides that an order of the Board under this section will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1190; Pub. L. 106–181, title VII, §716, Apr. 5, 2000, 114 Stat. 162; Pub. L. 108–176, title II, §227(c), Dec. 12, 2003, 117 Stat. 2532.)
 
@@ -187,8 +187,4 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1133, 1153, 44701, 44711, 45302, 46310, 47531 of this title; title 42 section 4911.
 

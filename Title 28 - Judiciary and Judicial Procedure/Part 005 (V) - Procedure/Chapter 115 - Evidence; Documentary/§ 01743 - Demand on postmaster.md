@@ -1,8 +1,8 @@
 ### §1743. Demand on postmaster
 
-The certificate of the Postmaster General or the General Accounting Office of the mailing to a postmaster of a statement of his account and that payment of the balance stated has not been received shall be sufficient evidence of a demand notwithstanding any allowances or credits subsequently made. A copy of such statement shall be attached to the certificate.
+The certificate of the Postmaster General or the Government Accountability Office of the mailing to a postmaster of a statement of his account and that payment of the balance stated has not been received shall be sufficient evidence of a demand notwithstanding any allowances or credits subsequently made. A copy of such statement shall be attached to the certificate.
 
-(June 25, 1948, ch. 646, 62 Stat. 948.)
+(June 25, 1948, ch. 646, 62 Stat. 948; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Historical and Revision Notes
 
@@ -13,6 +13,10 @@ Provisions in section 670 of title 28, U.S.C., 1940 ed., that the statement shou
 The last clause of section 670 of title 28, U.S.C., 1940 ed., was omitted as covered by the phrase “notwithstanding any allowances or credits subsequently made” in the revised section.
 
 Changes were made in phraseology.
+
+#### Amendments
+
+2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 #### Transfer of Functions
 

@@ -27,10 +27,6 @@
 
 1951—Act Oct. 31, 1951, ch. 655, §23, 65 Stat. 719, added item 798.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 2516 of this title; title 5 section 8312; title 8 section 1227; title 12 section 95a; title 42 section 402; title 50 section 1702; title 50 App. section 5.
-
 
 ---
 

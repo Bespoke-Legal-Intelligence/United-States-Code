@@ -8,7 +8,3 @@ The provisions of sections 593 to 595 of this title relating to river and harbor
 
 1951—Act Oct. 31, 1951, struck out “558a and” in the reference to other sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 702a–12 of this title.
-

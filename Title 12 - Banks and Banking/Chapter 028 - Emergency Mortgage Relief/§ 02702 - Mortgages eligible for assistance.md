@@ -16,7 +16,3 @@ No assistance shall be extended with respect to any mortgage under this chapter 
 
 (Pub. L. 94–50, title I, §103, July 2, 1975, 89 Stat. 249.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2703, 2705 of this title.
-

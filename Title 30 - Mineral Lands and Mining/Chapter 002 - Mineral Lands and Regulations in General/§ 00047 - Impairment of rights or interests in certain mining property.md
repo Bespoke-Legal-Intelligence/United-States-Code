@@ -16,7 +16,3 @@ R.S. §2344 derived from acts July 9, 1870, ch. 235, §17, 16 Stat. 218; May 10,
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 48, 49, 102, 541b of this title; title 16 section 460mm–1; title 25 section 640d–10; title 43 sections 1712, 1714, 1732.
-

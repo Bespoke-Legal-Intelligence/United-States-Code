@@ -16,9 +16,5 @@ This title, referred to in text, means title II of act June 15, 1917, ch. 30, 40
 
 For termination of amendment by act Aug. 9, 1950, see section 4 of act Aug. 9, 1950, set out as a note under section 191 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 267.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,3 @@ Said petition shall be accompanied by an instrument duly executed and acknowledg
 
 (Mar. 1, 1893, ch. 183, §10, 27 Stat. 508.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 661 of this title.
-

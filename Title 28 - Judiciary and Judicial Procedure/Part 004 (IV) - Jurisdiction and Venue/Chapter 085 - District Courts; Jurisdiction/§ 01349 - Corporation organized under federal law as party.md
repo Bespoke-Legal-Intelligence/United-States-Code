@@ -12,7 +12,3 @@ Words “civil action” were substituted for “action or suit,” in view of R
 
 Minor changes were made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 sections 1452, 2279aa–14.
-

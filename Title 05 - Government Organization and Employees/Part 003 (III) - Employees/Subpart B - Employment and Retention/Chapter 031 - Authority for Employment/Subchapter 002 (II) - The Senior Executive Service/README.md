@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—THE SENIOR EXECUTIVE SERVICE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 7 section 16; title 38 section 7425.
-
 
 ---
 

@@ -4,10 +4,6 @@
 
 1955—Act Aug. 11, 1955, ch. 783, title IV, §401, 69 Stat. 646, substituted “ARMED SERVICES” for “MILITARY” and inserted “MORTGAGE” in subchapter heading.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1702, 1715f, 1717, 1731a, 1735f–8, 1743 of this title; title 42 sections 1594, 1594a, 1594e, 1594f.
-
 
 ---
 

@@ -22,13 +22,13 @@
 
 &emsp;thence turning and running in a southeasterly direction paralleling the general alinement of United States Route 6 and generally distant therefrom five-tenths of a mile to a point approximately 700 feet northwesterly of Long Nook Road;
 
-&emsp;thence southwesterly along a ridge generally paralleling the alinement of Long Nook Road and distant approximately 700 feet therefrom to a point two-tenths of a mile northeasterly of the northerly right-of-way line of United States Route 6;
+&emsp;thence southwesterly along a ridge generally paralleling the alinement of Long Nook Roadand distant approximately 700 feet therefrom to a point two-tenths of a mile northeasterly of the northerly right-of-way line of United States Route 6;
 
 &emsp;thence southeasterly paralleling the general alinement of United States Route 6 and generally distant two-tenths of a mile northeasterly thereof to a point 300 feet south of the southerly right-of-way line of Higgins Hollow Road;
 
 &emsp;thence in a general easterly direction paralleling the southerly alinement of Higgins Hollow Road and 300 feet distant southerly therefrom to a point five-tenths of a mile east of the easterly right-of-way line of said Route 6;
 
-&emsp;thence turning and running in a southeasterly and southerly direction paralleling the general alinement of United States Route 6and distant five-tenths of a mile easterly therefrom to a point 300 feet north of the northerly right-of-way line of North Pamet Road;
+&emsp;thence turning and running in a southeasterly and southerly direction paralleling the general alinement of United States Route 6 and distant five-tenths of a mile easterly therefrom to a point 300 feet north of the northerly right-of-way line of North Pamet Road;
 
 &emsp;thence in a generally southwesterly direction paralleling the general alinement of North Pamet Road and generally distant 300 feet northerly therefrom to a point approximately two-tenths of a mile east of the easterly right-of-way line of United States Route 6;
 
@@ -86,7 +86,7 @@
 
 &emsp;thence easterly to a point one-tenth of a mile from United States Route 6;
 
-&emsp;thence turning and running in a generally southerly direction paralleling the general alinement of United States Route 6 and generally distant therefrom one-tenth of a mile toa small stream approximately one-tenth of a mile beyond Governor Prence Road extended;
+&emsp;thence turning and running in a generally southerly direction paralleling the general alinement of United States Route 6 and generally distant therefrom one-tenth of a mile to a small stream approximately one-tenth of a mile beyond Governor Prence Road extended;
 
 &emsp;thence southeasterly along the said stream to the Orleans-Eastham town line;
 
@@ -117,8 +117,4 @@
 #### Separability
 
 Section 10 of Pub. L. 87–126 provided that: “If any provision of this Act \[sections 459b to 459b–8 of this title\] or the application of such provision to any person or circumstance is held invalid, the remainder of this Act \[such sections\] or the application of such provision to persons or circumstances other than those to which it is held invalid shall not be affected thereby.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459b–1 to 459b–8 of this title.
 

@@ -8,7 +8,3 @@ The moneys or securities composing the trust funds given or bequeathed to the bo
 
 Section is comprised of second par. of section 2 of act Mar. 3, 1925. First, third, and fourth pars. of section 2 are classified to sections 156, 158, and 158a of this title, respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 158a, 160 of this title.
-

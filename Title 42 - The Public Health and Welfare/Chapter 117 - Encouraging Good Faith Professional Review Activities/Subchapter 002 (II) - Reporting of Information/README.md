@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—REPORTING OF INFORMATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 11152 of this title.
-
 
 ---
 

@@ -44,7 +44,3 @@ Effective Date of Requirement to Assess Prior Plan.—The first report submitted
 
 GAO Report.—Not later than March 15, 2001, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an assessment of the adequacy of the planning, programming, and budgeting processes of the National Nuclear Security Administration.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2483 of this title.
-

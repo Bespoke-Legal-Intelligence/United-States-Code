@@ -26,7 +26,3 @@ A debt collector may not use unfair or unconscionable means to collect or attemp
 
 (Pub. L. 90–321, title VIII, §808, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 879.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1692a of this title.
-

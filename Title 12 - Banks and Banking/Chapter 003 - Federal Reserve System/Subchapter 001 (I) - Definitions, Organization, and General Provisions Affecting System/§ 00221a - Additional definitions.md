@@ -28,7 +28,3 @@ Subsec. (c). Pub. L. 89–485, §13(b), repealed definition of “holding compan
 
 1935—Subsec. (c). Act Aug. 23, 1935, added last par.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 371d, 1464, 1828 of this title; title 26 section 601.
-

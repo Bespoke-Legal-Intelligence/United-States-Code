@@ -50,7 +50,3 @@ The National Aeronautics and Space Act of 1958, referred to in subsec. (c), is P
 
 “Secretary of Energy” substituted for “Director”, meaning Director of National Science Foundation, in subsec. (b)(1) pursuant to sections 104(f) and 301(h) of Pub. L. 93–438, which are classified to sections 5814(f) and 5871(h) of this title and which transferred functions of National Science Foundation relating to or utilized in connection with solar heating and cooling development to Administrator of Energy Research and Development Administration, and pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2473, 5506, 5507, 5509, 5511, 5513 of this title.
-

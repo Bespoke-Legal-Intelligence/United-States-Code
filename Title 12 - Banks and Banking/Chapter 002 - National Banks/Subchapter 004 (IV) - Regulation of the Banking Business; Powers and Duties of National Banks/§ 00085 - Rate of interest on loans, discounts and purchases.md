@@ -62,7 +62,3 @@ In any case in which one or more provisions of, or amendments made by, title V o
 
 Section 213 of Pub. L. 96–161 provided that the provisions of title II of Pub. L. 96–161, which amended this section, repealed provisions which had formerly amended this section, and enacted provisions set out as notes under this section, to continue to apply until July 1, 1981, in the case of any State having a constitutional provision regarding maximum interest rates.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 86, 1831u of this title.
-

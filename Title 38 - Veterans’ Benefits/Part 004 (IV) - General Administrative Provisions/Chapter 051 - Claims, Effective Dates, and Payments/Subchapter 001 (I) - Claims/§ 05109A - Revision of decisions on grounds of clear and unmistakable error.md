@@ -2,7 +2,7 @@
 
 (a) A decision by the Secretary under this chapter is subject to revision on the grounds of clear and unmistakable error. If evidence establishes the error, the prior decision shall be reversed or revised.
 
-(b) For the purposes of authorizing benefits, a rating or other adjudicative decision that constitutes a reversal or revision of a prior decision on the grounds of clear and unmistakable errorhas the same effect as if the decision had been made on the date of the prior decision.
+(b) For the purposes of authorizing benefits, a rating or other adjudicative decision that constitutes a reversal or revision of a prior decision on the grounds of clear and unmistakable error has the same effect as if the decision had been made on the date of the prior decision.
 
 (c) Review to determine whether clear and unmistakable error exists in a case may be instituted by the Secretary on the Secretary's own motion or upon request of the claimant.
 

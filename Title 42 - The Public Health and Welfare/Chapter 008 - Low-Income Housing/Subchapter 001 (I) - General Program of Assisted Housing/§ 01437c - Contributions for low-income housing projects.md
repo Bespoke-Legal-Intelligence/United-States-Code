@@ -44,7 +44,7 @@ The Secretary may prescribe regulations fixing the maximum contributions availab
 
 &emsp;(viii) for public housing lease adjustments and amendments, not more than $83,055,000;
 
-&emsp;(ix) for conversions from leased housing contracts under section 1421b of this title (as in effect immediately before August 22, 1974) to assistance under section 1437f of this title, not more than $12,767,000; and
+&emsp;(ix) for conversions from leased housing contracts under section 1421b of this title (as in effect immediately before August 22, 1974) toassistance under section 1437f of this title, not more than $12,767,000; and
 
 &emsp;(x) for grants under section 1437v of this title for revitalization of severely distressed public housing, not more than $300,000,000.
 
@@ -90,7 +90,7 @@ In recognition that there should be local determination of the need for low-inco
 
 #### (f) Modification by Secretary of terms of contracts, etc.; limitations; amendment or supersedure of contracts for annual contributions or loans
 
-Subject to the specific limitations or standards in this chapter governing the terms of sales, rentals, leases, loans, contracts for annual contributions, or other agreements, the Secretary may, whenever he deems it necessary or desirable in the fulfillment of the purposes of this chapter, consent to the modification, with respect to rate of interest, time of payment of any installment of principal or interest, security, amount of annual contribution, or any other term, of any contract or agreement of any kind to which the Secretary is a party. When the Secretary finds that it would promote economy or be in the financial interest of the Federal Government or is necessary to assure or maintain the lower income character of the project or projects involved, any contract heretofore or hereafter made for annual contributions, loans, or both, may be amended or superseded by a contract entered into by mutual agreement between the public housing agency and the Secretary. Contracts may not be amended or superseded in a manner which would impair the rights of the holders of any outstanding obligations of the public housing agency involved for which annual contributions have been pledged. Any rule of law contrary to this provision shall be deemed inapplicable.
+Subject to the specific limitations or standards in this chapter governing the terms ofsales, rentals, leases, loans, contracts for annual contributions, or other agreements, the Secretary may, whenever he deems it necessary or desirable in the fulfillment of the purposes of this chapter, consent to the modification, with respect to rate of interest, time of payment of any installment of principal or interest, security, amount of annual contribution, or any other term, of any contract or agreement of any kind to which the Secretary is a party. When the Secretary finds that it would promote economy or be in the financial interest of the Federal Government or is necessary to assure or maintain the lower income character of the project or projects involved, any contract heretofore or hereafter made for annual contributions, loans, or both, may be amended or superseded by a contract entered into by mutual agreement between the public housing agency and the Secretary. Contracts may not be amended or superseded in a manner which would impair the rights of the holders of any outstanding obligations of the public housing agency involved for which annual contributions have been pledged. Any rule of law contrary to this provision shall be deemed inapplicable.
 
 #### (g) Pledge of annual contributions as guarantee of payment of obligations issued by public housing agency; exception
 
@@ -100,7 +100,7 @@ In addition to the authority of the Secretary under subsection (a) of this secti
 
 #### (1) By Secretary and Comptroller General
 
-&emsp;Each contract for contributions for any assistance under this chapter to a public housing agency shall provide that the Secretary, the Inspector General of the Department of Housing and Urban Development, and the Comptroller General of the United States, or any of their duly authorized representatives, shall, for the purpose of audit and examination, have access to any books, documents, papers, and records of the public housing agency that are pertinent to this chapter and to its operationswith respect to financial assistance under the this <sup>1</sup> chapter.
+&emsp;Each contract for contributions for any assistance under this chapter to a public housing agency shall provide that the Secretary, the Inspector General of the Department of Housing and Urban Development, and the Comptroller General of the United States, or any of their duly authorized representatives, shall, for the purpose of audit and examination, have access to any books, documents, papers, and records of the public housing agency that are pertinent to this chapter and to its operations with respect to financial assistance under the this <sup>1</sup> chapter.
 
 #### (2) Withholding of amounts for audits under Single Audit Act
 
@@ -146,7 +146,7 @@ Pub. L. 105–276, §510, added subsec. (<i>l</i>).
 
 1996—Subsec. (j)(1). Pub. L. 104–330, §501(b)(2)(A), struck out “(other than for Indian families)” after “for public housing” in introductory provisions.
 
-Subsec. (<i>l</i>). Pub. L. 104–330, §501(b)(2)(B), struck out subsec. (<i>l</i>) which read as follows: “The Secretary maynot use as a criterion for distributing assistance under this section the progress made by an Indian public housing agency in collecting rents owed by tenants unless—
+Subsec. (<i>l</i>). Pub. L. 104–330, §501(b)(2)(B), struck out subsec. (<i>l</i>) which read as follows: “The Secretary may not use as a criterion for distributing assistance under this section the progress made by an Indian public housing agency in collecting rents owed by tenants unless—
 
 &emsp;“(1) such criterion is used as 1 of several criteria that are weighted proportionally and is established by regulations issued after public notice and opportunity to comment in accordance with section 553 of title 5; or
 
@@ -216,7 +216,7 @@ Subsecs. (d) to (f), (h). Pub. L. 97–35, §322(c), substituted references to l
 
 Subsec. (i). Pub. L. 96–399, §210, added subsec. (i).
 
-1979—Subsec. (c). Pub. L. 96–153 authorized increase in aggregate contractual contributions by $1,140,661,000 on Oct. 1, 1979, and inserted requirements that out of such additional authority not more than $195,053,000 be authorized to be approved in appropriation acts for units assisted under this chapter other than under section1437f of this title and that not less than $50,000,000 of the later amount be authorized to be approved for modernization of the units.
+1979—Subsec. (c). Pub. L. 96–153 authorized increase in aggregate contractual contributions by $1,140,661,000 on Oct. 1, 1979, and inserted requirements that out of such additional authority not more than $195,053,000 be authorized to be approved in appropriation acts for units assisted under this chapter other than under section 1437f of this title and that not less than $50,000,000 of the later amount be authorized to be approved for modernization of the units.
 
 1978—Subsec. (c). Pub. L. 95–619 authorized the Secretary to enter into annual contribution contracts aggregating not more than $10,000,000 per annum for financing the purchase and installation of energy conserving improvement in existing low-income housing projects which the Secretary determined had the greatest need for such improvements.
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 #### Effective Date of 1995 Amendment
 
-Section 1002(d) of Pub. L. 104–19, as amended by Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(1)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §201(b), Sept. 26, 1996, 110 Stat. 2892; Pub. L. 105–65, title II, §201(a), Oct. 27, 1997, 111 Stat. 1364, provided that: Subsections (a), (b), and (c) \[amending this section and sections 1437p and 1437aaa–3 of this title\] shall be effective for applications for the demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken, on, before, or after September 30, 1995 and on or before September 30, 1998.”
+Section 1002(d) of Pub. L. 104–19, as amended by Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(1)\], Apr. 26,1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §201(b), Sept. 26, 1996, 110 Stat. 2892; Pub. L. 105–65, title II, §201(a), Oct. 27, 1997, 111 Stat. 1364, provided that: Subsections (a), (b), and (c) \[amending this section and sections 1437p and 1437aaa–3 of this title\] shall be effective for applications for the demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken, on, before, or after September 30, 1995 and on or before September 30, 1998.”
 
 #### Effective Date of 1992 Amendment
 
@@ -283,10 +283,6 @@ Section 931 of Pub. L. 101–625, as amended by Pub. L. 105–276, title V, §55
 #### Increase in Budget Authority for Moderate Rehabilitation Program for Disaster Relief
 
 Section 932 of Pub. L. 101–625 provided that: “The budget authority available under section 5(c) of the United States Housing Act of 1937 (42 U.S.C. 1437c(c)) for assistance under the moderate rehabilitation program under section 8(e)(2) of such Act \[42 U.S.C. 1437f(e)(2)\] is authorized to be increased in any fiscal year in which a major disaster is declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\] in such amount as may be necessary to provide assistance under such program for individuals and families whose housing has been damaged or destroyed as a result of such disaster, except that in implementing this section, the Secretary shall evaluate the natural hazards to which any permanent replacement housing is exposed and shall take appropriate action to mitigate such hazards.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437c–1, 1437d, 1437f, 1437i, 1437q, 1437u, 1437z–5, 1437z–7, 1437aaa–4, 1437aaa–6, 8012, 11401, 11907 of this title; title 12 sections 1701s, 1701u, 1701z–3, 1715z, 1715z–1, 2294a, 4113; title 31 section 1305.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -100,7 +100,3 @@ Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see secti
 
 Pub. L. 106–58, title VI, §638(h), Sept. 29, 1999, 113 Stat. 476, provided that: “This section \[amending this section and sections 901 and 1105 of this title and enacting provisions set out as a note under section 901 of this title\] shall take effect at noon on January 20, 2001.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 504 of this title.
-

@@ -16,7 +16,3 @@ Section was formerly classified to section 1177 of this title, and prior thereto
 
 1940—Act July 12, 1940, amended section generally.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4191 of this title.
-

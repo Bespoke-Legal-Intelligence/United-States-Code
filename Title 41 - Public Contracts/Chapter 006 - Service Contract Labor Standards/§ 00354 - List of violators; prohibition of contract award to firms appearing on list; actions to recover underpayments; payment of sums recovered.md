@@ -10,7 +10,3 @@
 
 1972—Subsec. (a). Pub. L. 92–473 authorized award of contracts to violators because of unusual circumstances and required the Secretary to forward names of violators to Comptroller General within ninety days of hearing examiner's finding of a violation where the Secretary does not recommend awards because of unusual circumstances.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 351 of this title.
-

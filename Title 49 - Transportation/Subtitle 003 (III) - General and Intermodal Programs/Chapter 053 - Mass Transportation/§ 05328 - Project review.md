@@ -40,11 +40,11 @@ Program of Interrelated Projects.—(1) In this subsection, a program of interre
 
 &emsp;(D) the Baltimore-Washington Transportation Improvement Program, consisting of 3 extensions of the Baltimore Light Rail to Hunt Valley, Penn Station, and Baltimore-Washington Airport, MARC extensions to Frederick and Waldorf, Maryland, and an extension of the Washington Subway system to Largo, Maryland.
 
-&emsp;(E) the Tri-County Metropolitan Transportation District of Oregon Light Rail Program, consisting of the locally preferred alternative for the Westside Light Rail Project, including system related costs, contained in the Department of Transportation and Related Agencies Appropriations Act, 1991 (Public Law 101–516, 104 Stat. 2155), and defined in House Report 101–584, the Hillsboro extension to the Westside Light Rail Project contained in that Act, and the locally preferred alternative for the South/North Corridor Project.
+&emsp;(E) the Tri-County Metropolitan Transportation District of Oregon Light Rail Program, consisting of the locally preferred alternative for the Westside Light Rail Project, including system related costs, contained in the Department of Transportation and Related Agencies Appropriations Act, 1991 (Public Law 101–516, 104 Stat. 2155), and defined in House Report101–584, the Hillsboro extension to the Westside Light Rail Project contained in that Act, and the locally preferred alternative for the South/North Corridor Project.
 
 &emsp;(F) the Queens Local/Express Connector Program, consisting of the locally preferred alternative for the connection of the 63d Street tunnel extension to the Queens Boulevard lines, the bell-mouth part of the connector that will allow for future access by commuter rail trains and other subway lines to the 63d Street tunnel extension, planning elements for connecting the upper and lower levels to commuter and subway lines in Long Island City, and planning elements for providing a connector for commuter rail transportation to the East side of Manhattan and subway lines to the proposed Second Avenue subway.
 
-&emsp;(G) the Dallas Area Rapid Transit Authority light rail elements of the New System Plan, consisting of the locally preferred alternative for the South Oak Cliff corridor, the South Oak Cliff corridor extension-Camp Wisdom,the West Oak Cliff corridor-Westmoreland, the North Central corridor-Park Lane, the North Central corridor-Richardson, Plano, and Garland extensions, the Pleasant Grove corridor-Buckner, and the Carrollton corridors-Farmers Branch and Las Colinas terminal.
+&emsp;(G) the Dallas Area Rapid Transit Authority light rail elements of the New System Plan, consisting of the locally preferred alternative for the South Oak Cliff corridor, the South Oak Cliff corridor extension-Camp Wisdom, the West Oak Cliff corridor-Westmoreland, the North Central corridor-Park Lane, the North Central corridor-Richardson, Plano, and Garland extensions, the Pleasant Grove corridor-Buckner, and the Carrollton corridors-Farmers Branch and Las Colinas terminal.
 
 &emsp;(H) other programs designated by law or the Secretary.
 
@@ -123,10 +123,6 @@ Subsec. (c)(1)(E). Pub. L. 104–205 struck out “Westside” after “District
 #### Effective Date of 1998 Amendment
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5333 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section 5309(o)(1)”.</i>
 

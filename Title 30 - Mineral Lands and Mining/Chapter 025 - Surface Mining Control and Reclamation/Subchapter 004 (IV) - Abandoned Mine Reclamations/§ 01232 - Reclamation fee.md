@@ -6,7 +6,7 @@ All operators of coal mining operations subject to the provisions of this chapte
 
 #### (b) Due date
 
-Such fee shall be paid no later than thirty days after the end of each calendar quarter beginning with the first calendar quarter occurring after August 3, 1977, and ending September 30, 2004, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section.
+Such fee shall be paid no later than thirty days after the end of each calendar quarter beginning with the first calendar quarter occurring after August 3, 1977, and ending June 30, 2005, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section.
 
 #### (c) Submission of statement
 
@@ -34,7 +34,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;(i) An approved abandoned mine reclamation program pursuant to section 1235 of this title.
 
-&emsp;&emsp;(ii) Lands and waters which are eligible pursuant to section 1234 of this title (in thecase of a State not certified under section 1240a(a) of this title) or pursuant to section 1240a(b) of this title (in the case of a State certified under section 1240a(a) of this title).
+&emsp;&emsp;(ii) Lands and waters which are eligible pursuant to section 1234 of this title (in the case of a State not certified under section 1240a(a) of this title) or pursuant to section 1240a(b) of this title (in the case of a State certified under section 1240a(a) of this title).
 
 &emsp;(B) 50 percent of the reclamation fees collected annually with respect to Indian lands shall be allocated annually by the Secretary to the Indian tribe having jurisdiction over such lands, subject to such tribe having each of the following:
 
@@ -78,7 +78,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (6) Any State may receive and retain, without regard to the 3-year limitation referred to in paragraph (1)(D), up to 10 percent of the total of the grants made annually to such State under paragraphs (1) and (5) if such amounts are deposited into either—
 
-&emsp;(A) a special trust fund established under State law pursuant to which such amounts (together with all interest earned on such amounts) are expended by the State solely to achieve the priorities stated in section 1233(a) of this title after September 30, 1995, or
+&emsp;(A) a special trust fund established under State law pursuant to which such amounts\(together with all interest earned on such amounts) are expended by the State solely to achieve the priorities stated in section 1233(a) of this title after September 30, 1995, or
 
 &emsp;(B) an acid mine drainage abatement and treatment fund established under State law as provided in paragraph (7).
 
@@ -126,17 +126,19 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (3)(A) The aggregate amount which may be transferred under paragraph (2) for any fiscal year shall not exceed the amount of expenditures which the trustees of the Combined Fund estimate will be debited against the unassigned beneficiaries premium account under section 9704(e) of title 26 for the fiscal year of the Combined Fund in which the transfer is made.
 
-(B) The aggregate amount which may be transferred under paragraph (2)(B) for all fiscal years shall not exceed an amount equivalent toall interest earned and paid to the fund after September 30, 1992, and before October 1, 1995.
+(B) The aggregate amount which may be transferred under paragraph (2)(B) for all fiscal years shall not exceed an amount equivalent to all interest earned and paid to the fund after September 30, 1992, and before October 1, 1995.
 
 (4) If, for any fiscal year, the amount transferred is more or less than the amount required to be transferred, the Secretary shall appropriately adjust the amount transferred for the next fiscal year.
 
-(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113.)
+(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068.)
 
 #### Codification
 
 November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–447 substituted “June 30, 2005” for “September 30, 2004”.
 
 1992—Subsec. (b). Pub. L. 102–486, §2515, which directed that subsec. (b) be amended by substituting “2004, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section” for “1995”, was executed by inserting “, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section” after “2004”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 102–486, §19143(b)(1). See below.
 
@@ -160,15 +162,11 @@ Subsec. (g). Pub. L. 101–508, §6004, amended subsec. (g) generally, substitut
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (g)(7)(C) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title.
+“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (g)(7)(C) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. L. 101–508 set out as a note under section 1231 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1231, 1233, 1234, 1235, 1239, 1240a, 1251a, 1291 of this title; title 26 section 9705.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “tipple,”.</i>
 

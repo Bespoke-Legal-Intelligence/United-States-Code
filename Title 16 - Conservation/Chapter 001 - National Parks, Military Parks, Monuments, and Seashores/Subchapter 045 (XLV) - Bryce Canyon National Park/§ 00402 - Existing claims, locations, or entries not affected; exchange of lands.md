@@ -6,7 +6,7 @@ Nothing herein contained shall affect any valid claim, location, or entry existi
 
 #### References in Text
 
-Herein, referred to in text, means act June 7, 1924, which is classified to sections 346, 401 and 402 of thistitle. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act June 7, 1924, which is classified to sections 346, 401 and 402 of this title. For complete classification of this Act to the Code, see Tables.
 
 The land laws of the United States, referred to in text, are classified generally to Title 43, Public Lands.
 
@@ -17,8 +17,4 @@ The last sentence of this section as originally enacted is expressly applicable 
 #### Change of Name
 
 “Utah National Park” changed to “Bryce Canyon National Park” by section 1 of act Feb. 25, 1928, classified to section 402a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 402b, 402c of this title.
 

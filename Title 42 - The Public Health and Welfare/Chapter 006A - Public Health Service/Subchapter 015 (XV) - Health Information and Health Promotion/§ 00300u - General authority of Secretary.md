@@ -20,7 +20,7 @@ The Secretary shall—
 
 &emsp;(5) undertake and support appropriate training in, and undertake and support appropriate training in the operation of programs concerned with, health information and health promotion, preventive health services, and education in the appropriate use of health care;
 
-&emsp;(6) undertake and support, through improved planning and implementation of tested modelsand evaluation of results, effective and efficient programs respecting health information and health promotion, preventive health services, and education in the appropriate use of health care;
+&emsp;(6) undertake and support, through improved planning and implementation of tested models and evaluation of results, effective and efficient programs respecting health information and health promotion, preventive health services, and education in the appropriate use of health care;
 
 &emsp;(7)(A) develop model programs through which employers in the public sector, and employers that are small businesses (as defined in section 632 of title 15), can provide for their employees a program to promote healthy behaviors and to discourage participation in unhealthy behaviors;
 
@@ -54,7 +54,7 @@ For the purpose of carrying out this section and sections 300u–1 through 300u�
 
 No grant may be made or contract entered into under this subchapter unless an application therefor has been submitted to and approved by the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may prescribe. Contracts may be entered into under this subchapter without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
 
-(July 1, 1944, ch. 373, title XVII, §1701, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat. 695; amended Pub. L. 96–32, §7(n), July 10, 1979, 93 Stat. 85; Pub. L. 96–76, title II, §209, Sept. 29, 1979, 93 Stat. 584; Pub. L. 98–551, §2(a), Oct. 30, 1984, 98 Stat. 2815; Pub. L. 100–607, title III, §312(a)(1), (b)(1), (c), Nov. 4, 1988, 102 Stat. 3113, 3114; Pub. L. 102–168, title I, §101, Nov. 26, 1991, 105 Stat. 1102; Pub. L. 102–531, title III, §311(b)(1), Oct. 27, 1992, 106 Stat. 3503; Pub. L. 105–392, title IV, §414, Nov. 13, 1998, 112 Stat. 3590.)
+(July 1, 1944, ch. 373, title XVII, §1701, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat.695; amended Pub. L. 96–32, §7(n), July 10, 1979, 93 Stat. 85; Pub. L. 96–76, title II, §209, Sept. 29, 1979, 93 Stat. 584; Pub. L. 98–551, §2(a), Oct. 30, 1984, 98 Stat. 2815; Pub. L. 100–607, title III, §312(a)(1), (b)(1), (c), Nov. 4, 1988, 102 Stat. 3113, 3114; Pub. L. 102–168, title I, §101, Nov. 26, 1991, 105 Stat. 1102; Pub. L. 102–531, title III, §311(b)(1), Oct. 27, 1992, 106 Stat. 3503; Pub. L. 105–392, title IV, §414, Nov. 13, 1998, 112 Stat. 3590.)
 
 #### Codification
 
@@ -198,7 +198,7 @@ Section 1. <i>Policy</i>. This order is issued consistent with the following fin
 
 (c) Individuals of all ages, locations, and levels of personal fitness can benefit from some level of appropriate physical activity, dietary guidance, preventive health screening, and making healthy choices.
 
-(d) While personal fitness is an individual responsibility, the Federal Government may, within the authority and funds otherwise available, expand the opportunities for individuals to empower themselves to improve their general health. Such opportunities may include improving the flow of information about personal fitness, assisting in the utilization of that information, increasing the accessibility of resources for physical activity, and reducing barriers to achieving good personal fitness.
+(d) While personal fitness is an individual responsibility, the Federal Government may, within the authorityand funds otherwise available, expand the opportunities for individuals to empower themselves to improve their general health. Such opportunities may include improving the flow of information about personal fitness, assisting in the utilization of that information, increasing the accessibility of resources for physical activity, and reducing barriers to achieving good personal fitness.
 
 Sec. 2. <i>Agency Responsibilities in Promoting Personal Fitness.</i>
 
@@ -206,13 +206,73 @@ Sec. 2. <i>Agency Responsibilities in Promoting Personal Fitness.</i>
 
 (b) Each department and office included in section 2(a) shall report to the President, through the Secretary of Health and Human Services, its proposed actions within 90 days of the date of this order.
 
-(c) There shall be a Personal Fitness Interagency Working Group (Working Group), composed of the Secretaries or Director of the departments and office included in section 2(a) (or their designees) and chaired by the Secretary of HHS or his designee. In order to improve efficiency through information sharing and to eliminate waste and overlap, the Working Group shall work to ensure the cooperation of Federal agencies in coordinating Federal personal fitness activities. The Working Group shall meet subject to the call of the Chair, but not less than twice a year. The Department of Health and Human Services shall provide such administrative support to the Working Group as the Secretary of HHS deems necessary. Each member of theWorking Group shall be a full-time or permanent part-time officer or employee of the Federal Government.
+(c) There shall be a Personal Fitness Interagency Working Group (Working Group), composed of the Secretaries or Director of the departments and office included in section 2(a) (or their designees) and chaired by the Secretary of HHS or his designee. In order to improve efficiency through information sharing and to eliminate waste and overlap, the Working Group shall work to ensure the cooperation of Federal agencies in coordinating Federal personal fitness activities. The Working Group shall meet subject to the call of the Chair, but not less than twice a year. The Department of Health and Human Services shall provide such administrative support to the Working Group as the Secretary of HHS deems necessary. Each member of the Working Group shall be a full-time or permanent part-time officer or employee of the Federal Government.
 
 Sec. 3. <i>General Provisions</i>. This order is intended only to improve the internal management of the executive branch and it is not intended to, and does not, create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies or entities, its officers or employees, or any person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
+#### Ex. Ord. No. 13335. Incentives for the Use of Health Information Technology and Establishing the Position of the National Health Information Technology Coordinator
 
-This section is referred to in section 300u–4 of this title.
+Ex. Ord. No. 13335, Apr. 27, 2004, 69 F.R. 24059, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to provide leadership for the development and nationwide implementation of an interoperable health information technology infrastructure to improve the quality and efficiency of health care, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services (Secretary) shall establish within the Office of the Secretary the position of National Health Information Technology Coordinator.
+
+(b) The National Health Information Technology Coordinator (National Coordinator), appointed by the Secretary in consultation with the President or his designee, will report directly to the Secretary.
+
+(c) The Secretary shall provide the National Coordinator with appropriate staff, administrative support, and other resources to meet its responsibilities under this order.
+
+(d) The Secretary shall ensure that the National Coordinator begins operations within 90 days of the date of this order.
+
+Sec. 2. <i>Policy</i>. In fulfilling its responsibilities, the work of the National Coordinator shall be consistent with a vision of developing a nationwide interoperable health information technology infrastructure that:
+
+(a) Ensures that appropriate information to guide medical decisions is available at the time and place of care;
+
+(b) Improves health care quality, reduces medical errors, and advances the delivery of appropriate, evidence-based medical care;
+
+(c) Reduces health care costs resulting from inefficiency, medical errors, inappropriate care, and incomplete information;
+
+(d) Promotes a more effective marketplace, greater competition, and increased choice through the wider availability of accurate information on health care costs, quality, and outcomes;
+
+(e) Improves the coordination of care and information among hospitals, laboratories, physician offices, and other ambulatory care providers through an effective infrastructure for the secure and authorized exchange of health care information; and
+
+(f) Ensures that patients’ individually identifiable health information is secure and protected.
+
+Sec. 3. <i>Responsibilities of the National Health Information Technology Coordinator</i>. (a) The National Coordinator shall, to the extent permitted by law, develop, maintain, and direct the implementation of a strategic plan to guide the nationwide implementation of interoperable health information technology in both the public and private health care sectors that will reduce medical errors, improve quality, and produce greater value for health care expenditures. The National Coordinator shall report to the Secretary regarding progress on the development and implementation of the strategic plan within 90 days after the National Coordinator begins operations and periodically thereafter. The plan shall:
+
+&emsp;(i) Advance the development, adoption, and implementation of health care information technology standards nationally through collaboration among public and private interests, and consistent with current efforts to set health information technology standards for use by the Federal Government;
+
+&emsp;(ii) Ensure that key technical, scientific, economic, and other issues affecting the public and private adoption of health information technology are addressed;
+
+&emsp;(iii) Evaluate evidence on the benefits and costs of interoperable health information technology and assess to whom these benefits and costs accrue;
+
+&emsp;(iv) Address privacy and security issues related to interoperable health information technology and recommend methods to ensure appropriate authorization, authentication, and encryption of data for transmission over the Internet;
+
+&emsp;(v) Not assume or rely upon additional Federal resources or spending to accomplish adoption of interoperable health information technology; and
+
+&emsp;(vi) Include measurable outcome goals.
+
+(b) The National Coordinator shall:
+
+&emsp;(i) Serve as the Secretary's principal advisor on the development, application, and use of health information technology, and direct the Department of Health and Human Service's health information technology programs;
+
+&emsp;(ii) Ensure that health information technology policy and programs of the Department of Health and Human Services (HHS) are coordinated with those of relevant executive branch agencies (including Federal commissions) with a goal of avoiding duplicationof efforts and of helping to ensure that each agency undertakes activities primarily within the areas of its greatest expertise and technical capability;
+
+&emsp;(iii) To the extent permitted by law, coordinate outreach and consultation by the relevant executive branch agencies (including Federal commissions) with public and private parties of interest, including consumers, providers, payers, and administrators; and
+
+&emsp;(iv) At the request of the Office of Management and Budget, provide comments and advice regarding specific Federal health information technology programs.
+
+Sec. 4. <i>Reports</i>. To facilitate the development of interoperable health information technologies, the Secretary of Health and Human Services shall report to the President within 90 days of this order on options to provide incentives in HHS programs that will promote the adoption of interoperable health information technology. In addition, the following reports shall be submitted to the President through the Secretary:
+
+(a) The Director of the Office of Personnel Management shall report within 90 days of this order on options to provide incentives in the Federal Employee Health Benefit Program that will promote the adoption of interoperable health information technology; and
+
+(b) Within 90 days, the Secretary of Veterans Affairs and the Secretary of Defense shall jointly report on the approaches the Departments could take to work more actively with the private sector to make their health information systems available as an affordable option for providers in rural and medically underserved communities.
+
+Sec. 5. <i>Administration and Judicial Review</i>. (a) The actions directed by this order shall be carried out subject to the availability of appropriations and to the extent permitted by law.
+
+(b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity against the United States, its agencies, its entities or instrumentalities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

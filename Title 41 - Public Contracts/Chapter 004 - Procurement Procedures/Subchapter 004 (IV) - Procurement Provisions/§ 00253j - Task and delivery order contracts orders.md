@@ -30,7 +30,7 @@ A protest is not authorized in connection with the issuance or proposed issuance
 
 #### (e) Task and delivery order ombudsman
 
-The head of each executive agency who awards multiple task or delivery order contracts pursuant to section 253h(d)(1)(B) or 253i(e) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible forreviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (b) of this section. The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the executive agency's competition advocate.
+The head of each executive agency who awards multiple task or delivery order contracts pursuant to section 253h(d)(1)(B) or 253i(e) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (b) of this section. The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the executive agency's competition advocate.
 
 #### (f) Applicability
 
@@ -45,8 +45,4 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 #### Construction
 
 Section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or subchapter VI (§541 et seq.) of chapter 10 of former title 40 \[now 40 U.S.C. 1101–1104\], see section 1054(b) of Pub. L. 103–355, set out as a note under section 253h of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 253h, 253i, 253k of this title; title 6 section 426; title 10 section 2382.
 

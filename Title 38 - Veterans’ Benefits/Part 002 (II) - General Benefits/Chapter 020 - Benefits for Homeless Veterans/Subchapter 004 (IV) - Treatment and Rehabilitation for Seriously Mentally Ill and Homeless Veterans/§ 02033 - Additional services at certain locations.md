@@ -18,7 +18,3 @@ Subsec. (b). Pub. L. 107–95, §8(b), struck out “not fewer than eight progra
 
 Subsec. (d). Pub. L. 107–95, §5(f), substituted “December 31, 2006” for “December 31, 2001”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2003 of this title.
-

@@ -37,10 +37,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 839b, 839c, 839d, 839e, 839f of this title; title 42 section 7152.
-
 
 ---
 

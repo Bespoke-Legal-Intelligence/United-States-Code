@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—HUNTING AND CONSERVATION STAMP TAX
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 668dd, 670b, 670i of this title; title 18 section 504; title 25 section 564w–1.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “carcasses,”.</i>
 
 

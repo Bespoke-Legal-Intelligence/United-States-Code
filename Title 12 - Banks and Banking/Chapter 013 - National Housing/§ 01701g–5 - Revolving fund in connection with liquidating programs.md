@@ -6,9 +6,9 @@ There is established as of June 30, 1954, a revolving fund, and the Secretary of
 
 #### References in Text
 
-The Lanham Act, as amended, referred to in cls. (1), (6), and (7), is act Oct. 14, 1940, ch. 862, 54 Stat. 1125, asamended, known as the Lanham Public War Housing Act. Title I of the Lanham Act is classified generally to subchapter II (§1521 et seq.) of chapter 9 of Title 42, The Public Health and Welfare. Titles II and V of the Lanham Act were classified to subchapters III (§1531 et seq.) and VI (§1571 et seq.), respectively, of chapter 9 of Title 42, and were omitted from the Code. For further details, see References in Text note set out under section 1522 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 42 and Tables.
+The Lanham Act, as amended, referred to in cls. (1), (6), and (7), is act Oct. 14, 1940, ch. 862, 54 Stat. 1125, as amended, known as the Lanham Public War Housing Act. Title I of the Lanham Act is classified generally to subchapter II (§1521 et seq.) of chapter 9 of Title 42, The Public Health and Welfare. Titles II and V of the Lanham Act were classified to subchapters III (§1531 et seq.) and VI (§1571 et seq.), respectively, of chapter 9 of Title 42, and were omitted from the Code. For further details, see References in Text note set out under section 1522 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 42 and Tables.
 
-The Defense Housing and Community Facilities and Services Act, as amended, referred to in cls. (1) and (6), is act Sept. 1, 1951, ch. 378, 65 Stat. 293, as amended. Title III of the Act is classified generally to subchapter IX (§1592 et seq.) of chapter 9 of Title 42. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under section 1501 of Title 42 and Tables.
+The Defense Housing and Community Facilities and Services Act, as amended, referred to in cls. (1) and (6), is act Sept. 1, 1951, ch. 378, 65 Stat. 293, as amended.Title III of the Act is classified generally to subchapter IX (§1592 et seq.) of chapter 9 of Title 42. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under section 1501 of Title 42 and Tables.
 
 The War Mobilization and Reconversion Act of 1944, referred to in cl. (2), is act Oct. 3, 1944, ch. 480, 58 Stat. 785, as amended, which was classified to section 1651 et seq. of Title 50, Appendix, War and National Defense, and which has been omitted from the Code. Title V of the War Mobilization and Reconversion Act of 1944 was classified to section 1671 of Title 50, Appendix. For complete classification of this Act to the Code, see Tables.
 
@@ -75,8 +75,4 @@ June 30, 1955, ch. 244, title II, 69 Stat. 213.
 #### Transfer of Functions
 
 Functions of Housing and Home Finance Agency and Administrator thereof transferred to Secretary of Housing and Urban Development by section 5(a) of Department of Housing and Urban Development Act (Pub. L. 89–174, Sept. 9, 1965, 79 Stat. 669) which is classified to section 3534(a) of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1701g–5a, 1701g–5b, 1701g–5c of this title; title 42 sections 1585, 5317.
 

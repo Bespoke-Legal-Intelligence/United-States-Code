@@ -30,7 +30,7 @@ The Secretary may—
 
 #### (d) Definition of nontraditional Government contractor
 
-In this section, the term “nontraditional Government contractor” has the same meaning as the term “nontraditional defense contractor” asdefined in section 845(e) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
+In this section, the term “nontraditional Government contractor” has the same meaning as the term “nontraditional defense contractor” as defined in section 845(e) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
 
 (Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224.)
 
@@ -39,4 +39,8 @@ In this section, the term “nontraditional Government contractor” has the sam
 The effective date of this chapter, referred to in subsecs. (a) and (b), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 
 Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (a)(2) and (d), is section 845 of Pub. L. 103–160, which is set out as a note under section 2371 of Title 10, Armed Forces.
+
+#### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

@@ -92,7 +92,3 @@ Section 108 of Pub. L. 98–497 provided that: “For purposes of sections 103 t
 
 &emsp;“(3) the term ‘function’ includes any duty, obligation, power, authority, responsibility, right, privilege, activity, or program.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2101, 3102, 3317 of this title.
-

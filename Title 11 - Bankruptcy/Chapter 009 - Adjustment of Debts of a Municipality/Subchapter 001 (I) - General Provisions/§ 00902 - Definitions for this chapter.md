@@ -56,9 +56,5 @@ Amendment by Pub. L. 100–597 effective Nov. 3, 1988, but not applicable to any
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 901 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,3 @@ Pub. L. 103–322, §330004(8), struck out “, or by any National Agricultural
 
 1982—Pub. L. 97–297 struck out “, or by any joint-stock land bank or banks” after “issued by any Federal land bank or banks”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3056 of this title.
-

@@ -6,5 +6,5 @@ The committee may authorize the establishment of additional positions of the kin
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “applicable accounts” for “contingent fund”.
+1996—Pub. L. 104–186 substituted “applicable accounts” for “contingent fund”.
 

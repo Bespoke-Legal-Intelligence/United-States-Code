@@ -14,7 +14,7 @@ The President, with respect to any agreement that is subject to the provisions o
 
 #### (1) In general
 
-&emsp;Before initiating or continuing negotiations the subject matter of which is directly related to the subject matter under section 3802(b)(10)(A)(i) of this title with any country, the President shall assess whether United States tariffs on agricultural products that were bound under the Uruguay Round Agreements are lower than the tariffs bound by that country. In addition, the President shall consider whether the tariff levels bound and applied throughout the world with respect to imports from the United States are higher than United States tariffs and whether the negotiation provides an opportunity to address any such disparity. The President shall consult with the Committee on Ways and Means and the Committee on Agriculture of the House of Representatives and the Committee on Finance and the Committee on Agriculture, Nutrition, and Forestry of the Senate concerning the results of the assessment, whether it is appropriate for the United States to agree to further tariff reductions based on the conclusions reached in the assessment, and how all applicable negotiating objectives will be met.
+&emsp;Before initiating or continuing negotiations the subject matter of which is directly related to the subject matter under section 3802(b)(10)(A)(i) of this title with any country,the President shall assess whether United States tariffs on agricultural products that were bound under the Uruguay Round Agreements are lower than the tariffs bound by that country. In addition, the President shall consider whether the tariff levels bound and applied throughout the world with respect to imports from the United States are higher than United States tariffs and whether the negotiation provides an opportunity to address any such disparity. The President shall consult with the Committee on Ways and Means and the Committee on Agriculture of the House of Representatives and the Committee on Finance and the Committee on Agriculture, Nutrition, and Forestry of the Senate concerning the results of the assessment, whether it is appropriate for the United States to agree to further tariff reductions based on the conclusions reached in the assessment, and how all applicable negotiating objectives will be met.
 
 #### (2) Special consultations on import sensitive products
 
@@ -126,7 +126,7 @@ The report required under section 135(e)(1) of the Trade Act of 1974 \[19 U.S.C.
 
 #### (1) In general
 
-&emsp;The President, at least 90 calendar days before the day on which the President enters into a trade agreement under section 3803(b) of this title, shall provide the International Trade Commission (referred to in this subsection as “the Commission”) with the details of the agreement as it exists at that time and request the Commission to prepare and submit an assessment of the agreement as described in paragraph (2). Between the time the President makes the request under this paragraph and the time the Commission submits the assessment, the President shall keep the Commission current with respect to the details of the agreement.
+&emsp;The President, at least 90 calendar days before the day on which the President enters into a trade agreement under section 3803(b) of this title, shall provide the International Trade Commission (referred to in this subsection as “the Commission”) with the details of the agreement as it exists at that time and request the Commission to prepare and submit an assessment of the agreement as describedin paragraph (2). Between the time the President makes the request under this paragraph and the time the Commission submits the assessment, the President shall keep the Commission current with respect to the details of the agreement.
 
 #### (2) ITC assessment
 
@@ -149,10 +149,6 @@ Sections 2104(d)(3) and 2102(b)(14) of the Bipartisan Trade Promotion Authority 
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3803, 3805, 3806 of this title.
 
 <i><sup>1</sup></i><i> So in original. Two cls. (iv) have been enacted.</i>
 

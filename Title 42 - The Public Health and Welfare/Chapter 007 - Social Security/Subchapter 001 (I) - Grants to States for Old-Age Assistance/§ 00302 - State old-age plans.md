@@ -34,7 +34,7 @@ A State plan for old-age assistance must—
 
 #### (b) Approval by Secretary
 
-The Secretary shall approve any plan which fulfills the conditions specified in subsection (a) of this section, except that he shall not approve any plan which imposes, as a condition of eligibility for assistance under the plan—
+The Secretary shall approve any plan which fulfills the conditions specified in subsection (a)of this section, except that he shall not approve any plan which imposes, as a condition of eligibility for assistance under the plan—
 
 &emsp;(1) an age requirement of more than sixty-five years; or
 
@@ -135,8 +135,4 @@ Functions, powers, and duties of Secretary under subsec. (a)(5)(A) of this secti
 #### Disregarding of Income of OASDI Recipients in Determining Need for Public Assistance
 
 Section 306 of Pub. L. 92–603 provided that: “In addition to the requirements imposed by law as a condition of approval of a State plan to provide aid or assistance in the form of money payments to individuals under title I, X, XIV, or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\], there is hereby imposed the requirement (and the plan shall be deemed to require) that, in the case of any individual receiving aid or assistance for any month after October 1972, or, at the option of the State, September 1972, and before January 1974 who also receives in such month a monthly insurance benefit under title II of such Act \[subchapter II of this chapter\] which was increased as a result of the enactment of Public Law 92–336, the sum of the aid or assistance received by him for such month, plus the monthly insurance benefit received by him in such month (not including any part of such benefit which is disregarded under such plan), shall exceed the sum of the aid or assistance which would have been received by him for such month under such plan as in effect for October 1972, plus the monthly insurance benefit which would have been received by him in such month, by an amount equal to $4 or (if less) to such increase in his monthly insurance benefit under such title II (whether such excess is brought about by disregarding a portion of such monthly insurance benefit or otherwise).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 304, 306, 1202, 1315, 1352, 4728 of this title; title 25 sections 683, 686, 689, 996.
 

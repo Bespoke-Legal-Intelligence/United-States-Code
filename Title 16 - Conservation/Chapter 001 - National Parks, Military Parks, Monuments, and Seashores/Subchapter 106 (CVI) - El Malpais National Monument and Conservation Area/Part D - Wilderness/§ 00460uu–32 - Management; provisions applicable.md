@@ -12,7 +12,3 @@ The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 
 
 The effective date of the Wilderness Act, referred to in subsec. (a), means Sept. 3, 1964, the date of enactment of Pub. L. 88–577, which enacted chapter 23 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460uu–22 of this title.
-

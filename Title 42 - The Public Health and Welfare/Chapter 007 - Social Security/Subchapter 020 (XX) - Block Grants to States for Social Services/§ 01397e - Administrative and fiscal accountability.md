@@ -14,7 +14,7 @@ Each report prepared and transmitted by a State under subsection (a) of this sec
 
 &emsp;(1) the number of individuals who received services paid for in whole or in part with funds made available under this subchapter, showing separately the number of children and the number of adults who received such services, and broken down in each case to reflect the types of services and circumstances involved;
 
-&emsp;(2) the amount spent in providing each such type of service, showing separately for each type of service the amount spent per child recipient and the amount spent per adult recipient;
+&emsp;(2) the amount spent in providing each such type of service, showing separately for eachtype of service the amount spent per child recipient and the amount spent per adult recipient;
 
 &emsp;(3) the criteria applied in determining eligibility for services (such as income eligibility guidelines, sliding fee scales, the effect of public assistance benefits, and any requirements for enrollment in school or training programs); and
 

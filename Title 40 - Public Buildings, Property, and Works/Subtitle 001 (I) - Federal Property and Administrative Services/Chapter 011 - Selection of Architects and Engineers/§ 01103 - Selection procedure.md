@@ -46,7 +46,3 @@ Pub. L. 108–136, div. A, title XIV, §1427(b), Nov. 24, 2003, 117 Stat. 1670, 
 
 &emsp;“(2) are awarded in accordance with the selection procedures set forth in chapter 11 of title 40, United States Code.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1104 of this title; title 41 section 253m.
-

@@ -2,7 +2,7 @@
 
 #### (a) Maintenance and preservation by manufacturer
 
-Every manufacturer of textile fiber products subject to this subchapter shall maintain proper records showing the fiber content as required bythis subchapter of all such products made by him, and shall preserve such records for at least three years.
+Every manufacturer of textile fiber products subject to this subchapter shall maintain proper records showing the fiber content as required by this subchapter of all such products made by him, and shall preserve such records for at least three years.
 
 #### (b) Maintenance and preservation by person substituting stamp, tag, etc.
 
@@ -17,8 +17,4 @@ The neglect or refusal to maintain or preserve the records required by this sect
 #### References in Text
 
 The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 70f, 70i of this title.
 

@@ -1,6 +1,6 @@
 ### §§1014 to 1025. Repealed. Pub. L. 87–128, title III, §341(a), Aug. 8, 1961, 75 Stat. 318
 
-Section 1014, act July 22, 1937, ch. 517, title IV, §40, 50 Stat. 527, created the Farmers’ Home Corporation and provided for its location, delegation of power by Secretary of Agriculture, capital stock, board of directors, personnel, quorum, compensation, expenses, selection of administrator, powers of corporation, compensation to injured employees, deposit of monies, tax exemption, records and annual report.
+Section 1014, act July 22, 1937, ch. 517, title IV, §40, 50 Stat. 527, created the Farmers’ Home Corporation and provided for its location, delegation of power by Secretary of Agriculture, capital stock, board of directors, personnel, quorum, compensation, expenses, selectionof administrator, powers of corporation, compensation to injured employees, deposit of monies, tax exemption, records and annual report.
 
 Section 1015, acts July 22, 1937, ch. 517, title IV, §41, 50 Stat. 528; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064; July 26, 1947, ch. 339, §1(a), 61 Stat. 493; Oct. 15, 1949, ch. 695, §6(a), 63 Stat. 881; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Aug. 30, 1954, ch. 1076, §1(4), 68 Stat. 966; July 31, 1956, ch. 804, title I, §107(a), 70 Stat. 739; Aug. 1, 1956, ch. 829, §3(a), 70 Stat. 803, related to powers or Secretary of Agriculture.
 
@@ -30,5 +30,5 @@ For subject matter of sections 1014 to 1025 of this title, see section 1921 et s
 
 Repeal effective one hundred and twenty days after Aug. 8, 1961, or such earlier date as the provisions of chapter 50 of this title are made effective by regulations of Secretary of Agriculture, see section 341(a) of Pub. L. 87–128, set out as a note under section 1921 of this title.
 
-Sections repealed effective Oct. 15, 1961, by former section 300.1 of Title 6, Code of Federal Regulations, except that the provisions of section 1018 of this title, as existing prior to amendment by act Aug. 14, 1946, which require mineral reservations in lands disposed of undersections 1010 to 1012 of this title shall not become effective until Dec. 7, 1961, see Effective Date note set out under section 1921 of this title.
+Sections repealed effective Oct. 15, 1961, by former section 300.1 of Title 6, Code of Federal Regulations, except that the provisions of section 1018 of this title, as existing prior to amendment by act Aug. 14, 1946, which require mineral reservations in lands disposed of under sections 1010 to 1012 of this title shall not become effective until Dec. 7, 1961, see Effective Date note set out under section 1921 of this title.
 

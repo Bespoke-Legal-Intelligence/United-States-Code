@@ -10,7 +10,3 @@ The list shall be published within 60 days of November 2, 1994, and annually on 
 
 (Pub. L. 103–454, title I, §104, Nov. 2, 1994, 108 Stat. 4792.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 479a of this title.
-

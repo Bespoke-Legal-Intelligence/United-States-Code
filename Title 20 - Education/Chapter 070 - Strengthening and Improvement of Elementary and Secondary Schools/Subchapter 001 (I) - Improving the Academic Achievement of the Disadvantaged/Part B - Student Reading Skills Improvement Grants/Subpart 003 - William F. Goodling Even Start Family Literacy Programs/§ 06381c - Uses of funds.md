@@ -44,7 +44,7 @@ In carrying out an Even Start program under this subpart, a recipient of funds u
 
 #### (1) In general
 
-&emsp;A State educational agency may use a portion of funds reserved under section 6381b(a) of this title, to assist eligible entities receiving a subgrant under section 6381b(b) of this title inimproving the quality of family literacy services provided under Even Start programs under this subpart, except that in no case may a State educational agency's use of funds for this purpose for a fiscal year result in a decrease from the level of activities and services provided to program participants in the preceding year.
+&emsp;A State educational agency may use a portion of funds reserved under section 6381b(a) of this title, to assist eligible entities receiving a subgrant under section 6381b(b) of this title in improving the quality of family literacy services provided under Even Start programs under this subpart, except that in no case may a State educational agency's use of funds for this purpose for a fiscal year result in a decrease from the level of activities and services provided to program participants in the preceding year.
 
 #### (2) Priority
 
@@ -59,8 +59,4 @@ In carrying out an Even Start program under this subpart, a recipient of funds u
 &emsp;Assistance under paragraph (1) shall be in the form of technical assistance and training, provided by a State educational agency through a grant, contract, or cooperative agreement with an entity that has experience in offering high-quality training and technical assistance to family literacy providers.
 
 (Pub. L. 89–10, title I, §1234, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1559.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6381b, 6381c, 6381g of this title.
 

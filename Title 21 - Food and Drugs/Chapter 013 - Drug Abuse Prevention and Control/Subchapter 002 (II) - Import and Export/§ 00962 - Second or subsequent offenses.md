@@ -30,7 +30,3 @@ Subsec. (b). Pub. L. 98–473, §505, inserted references to laws of a State or 
 
 Amendment by section 1004(a) of Pub. L. 99–570 effective on date of taking effect of section 3583 of Title 18, Crimes and Criminal Procedure (Nov. 1, 1987), see section 1004(b) of Pub. L. 99–570 set out as a note under section 841 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 46 App. section 1903.
-

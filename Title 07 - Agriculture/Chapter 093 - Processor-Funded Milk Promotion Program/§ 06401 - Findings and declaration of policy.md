@@ -42,9 +42,5 @@ Pub. L. 103–72, §1, Aug. 11, 1993, 107 Stat. 717, provided that: “This Act 
 
 Section 1999A of Pub. L. 101–624 provided that: “This subtitle \[subtitle H (§§1999A—1999R) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the ‘Fluid Milk Promotion Act of 1990’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6403 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(7)”.</i>
 

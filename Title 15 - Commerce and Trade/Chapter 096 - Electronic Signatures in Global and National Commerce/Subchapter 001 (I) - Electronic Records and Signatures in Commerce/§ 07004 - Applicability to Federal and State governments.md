@@ -44,7 +44,7 @@ Subject to subsection (c)(2) of this section, nothing in this subchapter limits 
 
 #### (B) Paper or printed form
 
-&emsp;&emsp;Notwithstanding subsection (c)(1) of this section, a Federal regulatory agency or State regulatory agency may interpret section 7001(d) of this title to require retention of a record in a tangible printed or paper form if—
+&emsp;&emsp;Notwithstanding subsection (c)(1) of this section, a Federal regulatory agency or State regulatory agency may interpret section 7001(d) of this title to require retentionof a record in a tangible printed or paper form if—
 
 &emsp;&emsp;&emsp;(i) there is a compelling governmental interest relating to law enforcement or national security for imposing such requirement; and
 

@@ -216,6 +216,20 @@
 | 136w–7. | Department of Agriculture minor use program. |
 | (a) | In general. |
 | (b) | Minor use pesticide data and revolving fund. |
+| 136w–8. | Pesticide registration service fees. |
+| (a) | Definition of costs. |
+| (b) | Fees. |
+| (c) | Pesticide Registration Fund. |
+| (d) | Assessment of fees. |
+| (e) | Reforms to reduce decision time review periods. |
+| (f) | Decision time review periods. |
+| (g) | Judicial review. |
+| (h) | Accounting. |
+| (i) | Auditing. |
+| (j) | Personnel levels. |
+| (k) | Reports. |
+| (<i>l</i>) | Savings clause. |
+| (m) | Termination of effectiveness. |
 | 136x. | Severability. |
 | 136y. | Authorization of appropriations. |
 

@@ -12,7 +12,7 @@ For purposes of this chapter:
 
 &emsp;(2) The term “Secretary” means the Secretary of Agriculture.
 
-&emsp;(3) The term “interstate or foreign commerce” means commerce between any State orTerritory, or the District of Columbia and any place outside thereof; or between points within the same State or Territory, or the District of Columbia but through any place outside thereof. or within the District of Columbia.
+&emsp;(3) The term “interstate or foreign commerce” means commerce between any State or Territory, or the District of Columbia and any place outside thereof; or between points within the same State or Territory, or the District of Columbia but through any place outside thereof, or within the District of Columbia.
 
 &emsp;(4) The term “perishable agricultural commodity”—
 
@@ -32,7 +32,7 @@ For purposes of this chapter:
 
 &emsp;(10) The terms “employ” and “employment” mean any affiliation of any person with the business operations of a licensee, with or without compensation, including ownership or self-employment.
 
-&emsp;(11) The term “retailer” means a person that is a dealer engaged in the business of selling any perishable agricultural commodity at retail.
+&emsp;(11) The term “retailer” means a person that is a dealer engaged in the business of sellingany perishable agricultural commodity at retail.
 
 &emsp;(12) The term “grocery wholesaler” means a person that is a dealer primarily engaged in the full-line wholesale distribution and resale of grocery and related nonfood items (such as perishable agricultural commodities, dry groceries, general merchandise, meat, poultry, and seafood, and health and beauty care items) to retailers. However, such term does not include a person described in the preceding sentence if the person is primarily engaged in the wholesale distribution and resale of perishable agricultural commodities rather than other grocery and related nonfood items.
 
@@ -46,7 +46,7 @@ Section was formerly classified to section 551 of this title.
 
 #### Amendments
 
-1995—Subsec. (b)(9). Pub. L. 104–48, §12(a), inserted at end “A person shall not be deemed to be responsiblyconnected if the person demonstrates by a preponderance of the evidence that the person was not actively involved in the activities resulting in a violation of this chapter and that the person either was only nominally a partner, officer, director, or shareholder of a violating licensee or entity subject to license or was not an owner of a violating licensee or entity subject to license which was the alter ego of its owners.”
+1995—Subsec. (b)(9). Pub. L. 104–48, §12(a), inserted at end “A person shall not be deemed to be responsibly connected if the person demonstrates by a preponderance of the evidence that the person was not actively involved in the activities resulting in a violation of this chapter and that the person either was only nominally a partner, officer, director, or shareholder of a violating licensee or entity subject to license or was not an owner of a violating licensee or entity subject to license which was the alter ego of its owners.”
 
 Subsec. (b)(11), (12). Pub. L. 104–48, §2, added pars. (11) and (12).
 
@@ -148,7 +148,7 @@ Contents.—The study conducted under paragraph (1) shall include—
 
 Report.—Not later than 18 months after the date of enactment of this title \[Nov. 28, 1990\], the Secretary of Agriculture shall prepare and submit, to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report containing the results of the study described in subsection (a). Such report shall include—
 
-&emsp;“(1) the recommendations of the Secretary concerning the manner in which producers of domestic fruitand vegetable commodities that are not receiving assistance under the programs that provide market enhancement assistance (such as the export enhancement program under subtitle B of title XI of the Food Security Act of 1985 (7 U.S.C. 1736p et seq.) to producers of domestic fruit and vegetable commodities, could participate in such programs; and
+&emsp;“(1) the recommendations of the Secretary concerning the manner in which producers of domestic fruit and vegetable commodities that are not receiving assistance under the programs that provide market enhancement assistance (such as the export enhancement program under subtitle B of title XI of the Food Security Act of 1985 (7 U.S.C. 1736p et seq.) to producers of domestic fruit and vegetable commodities, could participate in such programs; and
 
 &emsp;“(2) the recommendations to the Secretary concerning the establishment of additional programs of the type described in paragraph (1) to assist producers of domestic fruit and vegetable commodities in increasing their production and in expanding domestic and foreign markets for the products of such producers.
 
@@ -197,8 +197,4 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 #### Potato Dealers
 
 Section 1(b) of Pub. L. 95–562 provided in part that no person buying potatoes for processing solely within the State where grown shall be deemed or considered to be a dealer under par. (6) of this section as amended by section 1(b) of Pub. L. 95–562 until Jan. 1, 1982.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 499b–1, 1638 of this title; title 31 section 3903.
 

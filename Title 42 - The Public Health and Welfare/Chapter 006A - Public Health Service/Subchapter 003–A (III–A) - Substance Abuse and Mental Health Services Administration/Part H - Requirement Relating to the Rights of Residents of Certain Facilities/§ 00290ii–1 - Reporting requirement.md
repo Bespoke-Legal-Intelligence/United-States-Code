@@ -14,9 +14,5 @@ In this section, the term “facility” has the meaning given the term “facil
 
 The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in text, was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 290ii–2 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

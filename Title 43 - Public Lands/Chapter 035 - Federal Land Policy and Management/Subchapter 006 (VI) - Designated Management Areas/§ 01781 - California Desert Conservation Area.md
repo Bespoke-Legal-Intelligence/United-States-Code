@@ -36,7 +36,7 @@ During the period beginning on October 21, 1976, and ending on the effective dat
 
 #### (f) Applicability of mining laws
 
-Subject to valid existing rights, nothing in this Act shall affect the applicability of the United States mining laws on the public lands within the California Desert Conservation Area, except that all mining claims located on public lands within the California Desert Conservation Area shall be subject to such reasonable regulations as the Secretary may prescribe to effectuate the purposes of this section. Any patent issued on any such mining claim shall recite this limitation and continue to be subject to such regulations. Such regulations shall provide for such measures as may be reasonable to protect the scenic, scientific, and environmental values of the public lands of the California Desert Conservation Area against undue impairment, and to assure against pollution of the streams and waters within the California Desert Conservation Area.
+Subject to valid existing rights, nothing in this Act shall affect the applicability of the United States mining laws on the public lands within the California Desert Conservation Area,except that all mining claims located on public lands within the California Desert Conservation Area shall be subject to such reasonable regulations as the Secretary may prescribe to effectuate the purposes of this section. Any patent issued on any such mining claim shall recite this limitation and continue to be subject to such regulations. Such regulations shall provide for such measures as may be reasonable to protect the scenic, scientific, and environmental values of the public lands of the California Desert Conservation Area against undue impairment, and to assure against pollution of the streams and waters within the California Desert Conservation Area.
 
 #### (g) Advisory Committee; establishment; functions
 
@@ -95,8 +95,4 @@ Designation.—There is hereby established the Dinosaur Trackway Area of Critica
 “(b)
 
 Withdrawal.—Subject to valid existing rights, the Federal lands within and adjacent to the Dinosaur Trackway Area of Critical Environmental Concern, as generally depicted on a map entitled ‘Dinosaur Trackway Mineral Withdrawal Area’, dated July 1993, are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1732, 1733 of this title.
 

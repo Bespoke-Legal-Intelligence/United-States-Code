@@ -8,7 +8,3 @@ With respect to the information reported to the Secretary (or the agency designa
 
 (Pub. L. 99–660, title IV, §426, Nov. 14, 1986, 100 Stat. 3791.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11137 of this title.
-

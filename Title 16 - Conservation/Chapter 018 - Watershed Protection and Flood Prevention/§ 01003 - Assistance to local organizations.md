@@ -18,7 +18,7 @@ In order to assist local organizations in preparing and carrying out plans for w
 
 #### References in Text
 
-Section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supplemented, referred to in par. (6), is section 13 of act Dec. 22, 1944, ch. 665, 58 Stat. 887, which was not classified to the Code.
+Section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supplemented, referred to in par.\(6), is section 13 of act Dec. 22, 1944, ch. 665, 58 Stat. 887, which was not classified to the Code.
 
 #### Amendments
 
@@ -36,13 +36,9 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 1002 of this title.
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1002 of this title.
 
 #### Extension of Benefits to Projects Authorized Before Aug. 7, 1956
 
 Amendment by act Aug. 7, 1956, as applicable to all works of improvement and plans for such works under the provisions of this chapter, see Extension of Benefits note set out under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1007, 1008, 3811, 3821 of this title.
 

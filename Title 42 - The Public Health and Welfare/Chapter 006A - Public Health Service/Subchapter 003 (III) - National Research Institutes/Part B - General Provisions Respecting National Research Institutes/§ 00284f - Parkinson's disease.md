@@ -8,7 +8,7 @@ The Director of NIH shall establish a program for the conduct and support of res
 
 #### (1) In general
 
-&emsp;The Director of NIH shall provide for the coordination of the program established under subsection (a) of this section among all of the national research institutes conducting Parkinson's disease research.
+&emsp;The Director of NIH shall provide for the coordination of the program established undersubsection (a) of this section among all of the national research institutes conducting Parkinson's disease research.
 
 #### (2) Conference
 
@@ -67,6 +67,14 @@ For the purpose of carrying out this section and section 241 of this title and t
 #### Change of Name
 
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+#### Additional Grants
+
+Pub. L. 108–199, div. E, title II, §217, Jan. 23, 2004, 118 Stat. 255, provided that: “Notwithstanding section 409B(c) of the Public Health Service Act \[subsec. (c) of this section\] regarding a limitation on the number of such grants, funds appropriated in this Act \[div. E of Pub. L. 108–199, see Tables for classification\] and Acts in fiscal years thereafter may be expended by the Director of the National Institutes of Health to award Core Center Grants to encourage the development of innovative multidisciplinary research and provide training concerning Parkinson's disease. Each center funded under such grants shall be designated as a Morris K. Udall Center for Research on Parkinson's Disease.”
+
+Similar provisions were contained in Pub. L. 108–7, div. G, title II, §218, Feb. 20, 2003, 117 Stat. 326.
 
 #### Finding and Purpose
 

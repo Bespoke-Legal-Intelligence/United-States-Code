@@ -6,9 +6,9 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (b) The term “firm” means any partnership, association, or other unincorporated business organization.
 
-(c) The term “meat broker” means any person, firm, or corporation engaged in the business of buying or selling carcasses, parts of carcasses, meat, or meat food products of cattle, sheep, swine, goats, horses, mules, or other equines on commission, or otherwise negotiating purchases or sales of such articles other than for his own account or as an employee of another person, firm, or corporation.
+(c) The term “meat broker” means any person, firm, or corporation engaged in the business of buying or selling carcasses, parts of carcasses, meat, or meat food products of cattle, sheep, swine, goats, horses, mules, or other equines on commission, or otherwise negotiating purchases or sales of such articles other than for his ownaccount or as an employee of another person, firm, or corporation.
 
-(d) The term “renderer” means any person, firm, or corporation engaged in the business ofrendering carcasses or parts or products of the carcasses, of cattle, sheep, swine, goats, horses, mules, or other equines, except rendering conducted under inspection or exemption under this subchapter.
+(d) The term “renderer” means any person, firm, or corporation engaged in the business of rendering carcasses or parts or products of the carcasses, of cattle, sheep, swine, goats, horses, mules, or other equines, except rendering conducted under inspection or exemption under this subchapter.
 
 (e) The term “animal food manufacturer” means any person, firm, or corporation engaged in the business of manufacturing or processing animal food derived wholly or in part from carcasses, or parts or products of the carcasses, of cattle, sheep, swine, goats, horses, mules, or other equines.
 
@@ -58,7 +58,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(2) if it is offered for sale under the name of another food;
 
-&emsp;(3) if it is an imitation of another food, unless its label bears, in type of uniform size and prominence, the word “imitation” and immediately thereafter, the name of the food imitated;
+&emsp;(3) if it is an imitation of another food, unless its label bears, in type of uniform size andprominence, the word “imitation” and immediately thereafter, the name of the food imitated;
 
 &emsp;(4) if its container is so made, formed, or filled as to be misleading;
 
@@ -137,12 +137,4 @@ Section 1 of Pub. L. 90–201 provided in part that the provisions of act Mar. 4
 #### Separability
 
 Section 19 of Pub. L. 90–201 provided that: “If any provision of this Act or of the amendments made hereby \[see Short Title note above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the remaining amendments \[see Short Title note above\] and of the application of such provision to other persons and circumstances shall not be affected thereby.”
-
-#### Act Referred to in Other Sections
-
-The Wholesome Meat Act is referred to in section 1053 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 607, 673, 676 of this title; title 15 sections 2052, 2602.
 

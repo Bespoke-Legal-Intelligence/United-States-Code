@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—NATIONAL EDUCATION REFORM LEADERSHIP, STANDARDS, AND ASSESSMENTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5802, 5934, 6065 of this title.
-
 
 ---
 

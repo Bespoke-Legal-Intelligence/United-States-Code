@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—MANAGEMENT OF BATTERIES CONTAINING MERCURY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 14304, 14323 of this title.
-
 
 ---
 

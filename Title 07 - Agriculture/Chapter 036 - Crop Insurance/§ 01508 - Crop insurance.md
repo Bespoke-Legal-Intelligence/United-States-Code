@@ -90,7 +90,7 @@
 
 #### (B) Addition of new crops
 
-&emsp;&emsp;Not later than 1 year after October 13, 1994, and annually thereafter, the Corporation shall report to Congress on the progress and expected timetable for expanding crop insurance coverage under this chapter to new and specialty crops.
+&emsp;&emsp;Not later than 1 year after October 13, 1994, and annually thereafter, the Corporationshall report to Congress on the progress and expected timetable for expanding crop insurance coverage under this chapter to new and specialty crops.
 
 #### (C) Addition of direct sale perishable crops
 
@@ -220,7 +220,7 @@
 
 #### (vi) Report
 
-&emsp;&emsp;&emsp;Not later than April 1, 2002, the Secretary shall submit to the Committee onAgriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that evaluates—
+&emsp;&emsp;&emsp;Not later than April 1, 2002, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that evaluates—
 
 &emsp;&emsp;&emsp;&emsp;(I) the operation of this subparagraph; and
 
@@ -228,7 +228,7 @@
 
 #### (C) Time for payment
 
-&emsp;&emsp;The administrative fee required by this paragraph shall be paid by the producer on the date that premium for a policy of additional coverage would be paid by the producer.
+&emsp;&emsp;The administrative fee required by this paragraph shall be paid by the producer onthe date that premium for a policy of additional coverage would be paid by the producer.
 
 #### (D) Use of fees
 
@@ -302,7 +302,7 @@
 
 #### (3) Yield and loss basis
 
-&emsp;A producer shall have the option of purchasing additional coverage based on an individual yield and loss basis or on an area yield and loss basis, if both options are offered by the Corporation.
+&emsp;A producer shall have the option of purchasing additional coverage based on an individualyield and loss basis or on an area yield and loss basis, if both options are offered by the Corporation.
 
 #### (4) Level of coverage
 
@@ -424,11 +424,11 @@
 
 &emsp;&emsp;&emsp;(ii) the amount determined under subsection (d)(2)(B)(ii) of this section for the coverage level selected to cover operating and administrative expenses.
 
-&emsp;&emsp;(F) In the case of additional coverage equal to or greater than 80 percent, but less than 85 percent, of the recorded or appraisedaverage yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
+&emsp;&emsp;(F) In the case of additional coverage equal to or greater than 80 percent, but less than 85 percent, of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
 
 &emsp;&emsp;&emsp;(i) 48 percent of the amount of the premium established under subsection (d)(2)(B)(i) of this section for the coverage level selected; and
 
-&emsp;&emsp;&emsp;(ii) the amount determined under subsection (d)(2)(B)(ii) of this section for the coverage level selected to cover operating and administrative expenses.
+&emsp;&emsp;&emsp;(ii) the amount determined under subsection (d)(2)(B)(ii) of this section for thecoverage level selected to cover operating and administrative expenses.
 
 &emsp;&emsp;(G) Subject to subsection (c)(4) of this section, in the case of additional coverage equal to or greater than 85 percent of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
 
@@ -490,7 +490,7 @@
 
 #### (B) Assigned yield
 
-&emsp;&emsp;If the producer does not provide satisfactory evidence of the yield of a commodityunder subparagraph (A), the producer shall be assigned—
+&emsp;&emsp;If the producer does not provide satisfactory evidence of the yield of a commodity under subparagraph (A), the producer shall be assigned—
 
 &emsp;&emsp;&emsp;(i) a yield that is not less than 65 percent of the transitional yield of the producer (adjusted to reflect actual production reflected in the records acceptable to the Corporation for continuous years), as specified in regulations issued by the Corporation based on production history requirements; or
 
@@ -734,7 +734,7 @@
 
 #### (3) Share of risk
 
-&emsp;The reinsurance agreements of the Corporation with the reinsured companies shall require the reinsured companies to bear a sufficient share of any potential loss under the agreement so as to ensure that the reinsured company will sell and service policies of insurance in a sound and prudent manner, taking into consideration the financial condition of the reinsured companies and the availability of private reinsurance.
+&emsp;The reinsurance agreements of the Corporation with the reinsured companies shall require the reinsured companies to bear a sufficient share of any potential loss under theagreement so as to ensure that the reinsured company will sell and service policies of insurance in a sound and prudent manner, taking into consideration the financial condition of the reinsured companies and the availability of private reinsurance.
 
 #### (4) Rate
 
@@ -798,7 +798,7 @@ The Corporation may offer specific risk protection programs, including protectio
 
 #### (A) Review
 
-&emsp;&emsp;The Corporation shall contract with a qualified person to review the quality loss adjustment procedures of the Corporation so that the procedures more accurately reflect local quality discounts that are applied to agricultural commodities insured under this chapter.
+&emsp;&emsp;The Corporation shall contract with a qualified person to review the quality lossadjustment procedures of the Corporation so that the procedures more accurately reflect local quality discounts that are applied to agricultural commodities insured under this chapter.
 
 #### (B) Procedures
 
@@ -928,7 +928,7 @@ Subsec. (h)(4)(C), (D). Pub. L. 106–224, §146(c)(3), added subpars. (C) and (
 
 Subsec. (h)(5). Pub. L. 106–224, §102(a)(2), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “Any policy, provision of a policy, or rate approved under this subsection shall be published as a notice in the Federal Register and made available to all persons contracting with or reinsured by the Corporation under the terms and conditions of the contract between the Corporation and the person originally submitting the policy or other material.”
 
-Subsec. (h)(6) to (10). Pub. L. 106–224, §146(d), redesignated par. (7) as (6) and struck out former pars. (6)which related to pilot cost of production risk protection plan, (8) which related to pilot program of assigned yields for new producers, (9) which related to revenue insurance pilot program, and (10) which related to time limits for response to submission of new policies.
+Subsec. (h)(6) to (10). Pub. L. 106–224, §146(d), redesignated par. (7) as (6) and struck out former pars. (6) which related to pilot cost of production risk protection plan, (8) which related to pilot program of assigned yields for new producers, (9) which related to revenue insurance pilot program, and (10) which related to time limits for response to submission of new policies.
 
 Subsec. (i). Pub. L. 106–224, §106, designated existing provisions as par. (1), inserted heading, and added pars. (2) to (4).
 
@@ -1219,10 +1219,6 @@ Pub. L. 95–181, §2, Nov. 15, 1977, 91 Stat. 1373, provided that: “The Secre
 #### Validity and Termination of Prior Insurance Contracts
 
 Section 5 of act Aug. 1, 1947, provided: “Nothing in this Act \[amending sections 1502, 1505 (a to d), 1506(d), 1507(d), and 1508 (a to c) of this title\] shall be construed to affect the validity of any insurance contract entered into prior to the enactment of this Act \[Aug. 1, 1947\] insofar as such contract covers the 1947 crop year. Any such contract which purports to cover a crop in the 1948 or any subsequent crop year in any county in which insurance on such crop will be discontinued pursuant to this Act is hereby terminated at the end of the 1947 crop year.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1505, 1506, 1507, 1515, 1516, 1522, 1523, 2008f, 7211, 7333 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

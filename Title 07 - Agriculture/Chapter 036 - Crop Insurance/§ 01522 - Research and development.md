@@ -148,7 +148,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (2) Authority
 
-&emsp;The Corporation may enter into partnerships with the Cooperative State Research, Education, and Extension Service, the Agricultural Research Service, the National Oceanic Atmospheric Administration, and other appropriate public and private entities with demonstrated capabilities in developing and implementing risk management and marketing options for producers of specialty crops and underserved agricultural commodities.
+&emsp;The Corporation may enter into partnerships with the Cooperative State Research, Education, and Extension Service, the Agricultural Research Service, the National Oceanic Atmospheric Administration, and other appropriate public and private entities withdemonstrated capabilities in developing and implementing risk management and marketing options for producers of specialty crops and underserved agricultural commodities.
 
 #### (3) Objectives
 
@@ -219,8 +219,4 @@ Pub. L. 107–20, title II, §2103, July 24, 2001, 115 Stat. 165, provided that:
 “(b) In carrying out this section, the Corporation shall use the authority provided under section 808 of title 5, United States Code.
 
 “(c) The final regulations promulgated under subsection (a) shall take effect on the date of publication of the final regulations.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1508, 1516, 1523 of this title.
 

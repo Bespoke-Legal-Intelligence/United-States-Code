@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule.—Notwithstanding any other provision of law but subject to subsections (b) and (c), if at least 50 percent of a State's apportionment under section 104 or 144 for a fiscal year or at least 50 percent of the funds set-aside under section 133(d) from the State's apportionment <sup>1</sup> section 104(b)(3) may not be transferred to any other apportionment of the State under section 104 or 144 for such fiscal year, then theState may transfer not to exceed 50 percent of such apportionment or set aside to any other apportionment of such State under section 104 or 144 for such fiscal year.
+General Rule.—Notwithstanding any other provision of law but subject to subsections (b) and (c), if at least 50 percent of a State's apportionment under section 104 or 144 for a fiscal year or at least 50 percent of the funds set-aside under section 133(d) from the State's apportionment <sup>1</sup> section 104(b)(3) may not be transferred to any other apportionment of the State under section 104 or 144 for such fiscal year, then the State may transfer not to exceed 50 percent of such apportionment or set aside to any other apportionment of such State under section 104 or 144 for such fiscal year.
 
 (b)
 

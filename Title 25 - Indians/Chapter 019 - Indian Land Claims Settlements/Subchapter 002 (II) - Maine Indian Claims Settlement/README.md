@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—MAINE INDIAN CLAIMS SETTLEMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 20 section 1087uu–1.
-
 
 ---
 

@@ -14,7 +14,3 @@ Federal Power Commission terminated and its functions, personnel, property, fund
 
 Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 717m; title 39 section 3204; title 42 section 7172.
-

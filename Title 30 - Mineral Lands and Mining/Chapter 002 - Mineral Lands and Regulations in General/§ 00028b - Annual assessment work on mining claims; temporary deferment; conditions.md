@@ -4,7 +4,3 @@ The performance of not less than $100 worth of labor or the making of improvemen
 
 (June 21, 1949, ch. 232, §1, 63 Stat. 214.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 28c, 28d, 28e of this title; title 16 section 460mm–1.
-

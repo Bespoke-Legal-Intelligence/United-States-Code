@@ -46,7 +46,3 @@ Members of the Board of Directors shall receive no additional compensation by re
 
 For short title of this subchapter as the “National Homeownership Trust Act”, see Short Title note set out under section 12701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12854 of this title.
-

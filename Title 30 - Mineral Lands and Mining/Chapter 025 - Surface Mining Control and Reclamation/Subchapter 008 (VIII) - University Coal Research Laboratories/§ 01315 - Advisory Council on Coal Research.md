@@ -42,7 +42,7 @@ Whenever a member of the Council appointed under clauses (1) through (5) is unab
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (a)(2) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title.
+“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (a)(2) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 
 #### Termination of Reporting Requirements
 

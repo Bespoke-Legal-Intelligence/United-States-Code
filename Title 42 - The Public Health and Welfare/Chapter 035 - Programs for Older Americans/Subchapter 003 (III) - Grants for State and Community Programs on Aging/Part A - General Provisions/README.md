@@ -1,9 +1,5 @@
 Part A—General Provisions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 3030g–22 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

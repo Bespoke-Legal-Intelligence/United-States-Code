@@ -78,7 +78,11 @@ The Arms Export Control Act, referred to in subsec. (b)(3), is Pub. L. 90–629,
 
 The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (b)(3), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended. Titles I and III of the Act are classified generally to subchapters II (§1701 et seq.) and III–A (§1727 et seq.), respectively, of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-The FREEDOM Support Act, referred to in subsec. (b)(3), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, asamended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The FREEDOM Support Act, referred to in subsec. (b)(3), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+
+#### Change of Name
+
+General Accounting Office redesignated Government Accountability Office by section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
 
 #### Transfer of Functions
 

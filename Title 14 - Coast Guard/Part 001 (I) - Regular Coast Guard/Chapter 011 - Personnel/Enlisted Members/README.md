@@ -32,3 +32,4 @@
 - [&sect; 00371 - Aviation cadets; procurement; transfer](%C2%A7%2000371%20-%20Aviation%20cadets%3B%20procurement%3B%20transfer.md)
 - [&sect; 00372 - Aviation cadets; benefits](%C2%A7%2000372%20-%20Aviation%20cadets%3B%20benefits.md)
 - [&sect; 00373 - Aviation cadets; appointment as Reserve officers](%C2%A7%2000373%20-%20Aviation%20cadets%3B%20appointment%20as%20Reserve%20officers.md)
+- [&sect; 00374 - Critical skill training bonus](%C2%A7%2000374%20-%20Critical%20skill%20training%20bonus.md)

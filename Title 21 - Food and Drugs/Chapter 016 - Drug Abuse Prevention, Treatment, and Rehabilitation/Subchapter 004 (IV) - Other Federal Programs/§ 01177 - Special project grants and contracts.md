@@ -22,7 +22,7 @@ There are authorized to be appropriated $25,000,000 for the fiscal year ending J
 
 (3) Approval of any application for a grant or contract under this section by the Secretary, including the earmarking of financial assistance for a program or project, may be granted only if the application substantially meets a set of criteria that—
 
-&emsp;(A) provide that the activities and services for which assistance under this section is sought will be substantially administered by or under the supervision of the applicant;
+&emsp;(A) provide that the activities and services for which assistance under this section issought will be substantially administered by or under the supervision of the applicant;
 
 &emsp;(B) provide for such methods of administration as are necessary for the proper and efficient operation of such programs or projects; and
 
@@ -32,7 +32,7 @@ There are authorized to be appropriated $25,000,000 for the fiscal year ending J
 
 #### (d) Programs and projects aimed at underserved groups; encouragement and special consideration given to applications
 
-The Secretary shall encourage the submission of and give special consideration to applications under this section to programs and projects aimed at underserved populations such as racial and ethnic minorities, Native Americans (including Native Hawaiians and Native AmericanPacific Islanders), youth, the elderly, women, handicapped individuals, and families of drug abusers.
+The Secretary shall encourage the submission of and give special consideration to applications under this section to programs and projects aimed at underserved populations such as racial and ethnic minorities, Native Americans (including Native Hawaiians and Native American Pacific Islanders), youth, the elderly, women, handicapped individuals, and families of drug abusers.
 
 #### (e) Payments; advances; reimbursement; installments
 
@@ -97,10 +97,6 @@ Subsecs. (d), (e). Pub. L. 94–371 added subsec. (d) and redesignated former su
 #### Effective Date of 1976 Amendment
 
 Section 10(c)(2) of Pub. L. 94–371 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to applications submitted for grants or contracts under section 410 of the Drug Abuse Office and Treatment Act of 1972 \[this section\] after June 30, 1976.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1178 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

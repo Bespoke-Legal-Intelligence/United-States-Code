@@ -12,7 +12,3 @@ The Federal reclamation laws, referred to in text, include the act of June 17, 1
 
 1972—Pub. L. 92–487 reenacted section without change.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 421a to 421c, 421e to 421h, 502 of this title.
-

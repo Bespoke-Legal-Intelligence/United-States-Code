@@ -36,7 +36,7 @@ As used in this chapter:
 
 #### (9) Handler
 
-&emsp;The term “handler” means any person engaged in the business of handling agriculturalproducts, except such term shall not include final retailers of agricultural products that do not process agricultural products.
+&emsp;The term “handler” means any person engaged in the business of handling agricultural products, except such term shall not include final retailers of agricultural products that do not process agricultural products.
 
 #### (10) Handling operation
 
@@ -95,8 +95,4 @@ As used in this chapter:
 #### References in Text
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (16), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7401 of this title.
 

@@ -90,7 +90,3 @@ On an annual basis, the Advisory Board shall review—
 
 Section is comprised of section 103 of Pub. L. 105–185. Subsec. (f) of section 103 of Pub. L. 105–185 amended sections 361g, 3221, and 3222 of this title and repealed sections 346 and 3314 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 343, 361c, 7621 of this title.
-

@@ -100,7 +100,7 @@ In carrying out the provisions of this section relating to the conduct by the Ad
 
 (1) The Administrator shall, after consultation with appropriate local, State, and Federal agencies, public and private organizations, and interested individuals, as soon as practicable but not later than January 1, 1973, develop and issue to the States for the purpose of carrying out this chapter the latest scientific knowledge available in indicating the kind and extent of effects on health and welfare which may be expected from the presence of pesticides in the water in varying quantities. He shall revise and add to such information whenever necessary to reflect developing scientific knowledge.
 
-(2) The President shall, in consultation with appropriate local, State, and Federal agencies, public and private organizations, and interested individuals, conduct studies and investigations of methods to control the release of pesticides into the environment which study shall include examination of the persistency of pesticides in the water environment and alternatives thereto. The President shall submit reports, from time to time, on such investigations to Congress together with his recommendations for any necessary legislation.
+(2) The President shall, in consultation with appropriate local, State, and Federal agencies, public and private organizations, and interested individuals, conduct studies and investigations of methods to control the release of pesticides into the environment which study shall include examination of the persistency of pesticides inthe water environment and alternatives thereto. The President shall submit reports, from time to time, on such investigations to Congress together with his recommendations for any necessary legislation.
 
 #### (m) Waste oil disposal study
 
@@ -112,7 +112,7 @@ In carrying out the provisions of this section relating to the conduct by the Ad
 
 (1) The Administrator shall, in cooperation with the Secretary of the Army, the Secretary of Agriculture, the Water Resources Council, and with other appropriate Federal, State, interstate, or local public bodies and private organizations, institutions, and individuals, conduct and promote, and encourage contributions to, continuing comprehensive studies of the effects of pollution, including sedimentation, in the estuaries and estuarine zones of the United States on fish and wildlife, on sport and commercial fishing, on recreation, on water supply and water power, and on other beneficial purposes. Such studies shall also consider the effect of demographic trends, the exploitation of mineral resources and fossil fuels, land and industrial development, navigation, flood and erosion control, and other uses of estuaries and estuarine zones upon the pollution of the waters therein.
 
-(2) In conducting such studies, the Administrator shall assemble, coordinate, and organizeall existing pertinent information on the Nation's estuaries and estuarine zones; carry out a program of investigations and surveys to supplement existing information in representative estuaries and estuarine zones; and identify the problems and areas where further research and study are required.
+(2) In conducting such studies, the Administrator shall assemble, coordinate, and organize all existing pertinent information on the Nation's estuaries and estuarine zones; carry out a program of investigations and surveys to supplement existing information in representative estuaries and estuarine zones; and identify the problems and areas where further research and study are required.
 
 (3) The Administrator shall submit to Congress, from time to time, reports of the studies authorized by this subsection but at least one such report during any six-year period. Copies of each such report shall be made available to all interested parties, public and private.
 
@@ -132,7 +132,7 @@ In carrying out the provisions of subsection (a) of this section the Administrat
 
 (1) The Administrator shall conduct a comprehensive program of research and investigation and pilot project implementation into new and improved methods of preventing, reducing, storing, collecting, treating, or otherwise eliminating pollution from sewage in rural and other areas where collection of sewage in conventional, communitywide sewage collection systems is impractical, uneconomical, or otherwise infeasible, or where soil conditions or other factors preclude the use of septic tank and drainage field systems.
 
-(2) The Administrator shall conduct a comprehensive program of research and investigation and pilot project implementation into new and improved methods for the collection and treatment of sewage and other liquid wastes combined with the treatment and disposal of solid wastes.
+(2) The Administrator shall conduct a comprehensive program of research and investigationand pilot project implementation into new and improved methods for the collection and treatment of sewage and other liquid wastes combined with the treatment and disposal of solid wastes.
 
 (3) The Administrator shall establish, either within the Environmental Protection Agency, or through contract with an appropriate public or private non-profit organization, a national clearinghouse which shall (A) receive reports and information resulting from research, demonstrations, and other projects funded under this chapter related to paragraph (1) of this subsection and to subsection (e)(2) of section 1255 of this title; (B) coordinate and disseminate such reports and information for use by Federal and State agencies, municipalities, institutions, and persons in developing new and improved methods pursuant to this subsection; and (C) provide for the collection and dissemination of reports and information relevant to this subsection from other Federal and State agencies, institutions, universities, and persons.
 
@@ -228,13 +228,13 @@ In general.—Effective November 10, 1998, section 501 of the Federal Reports El
 
 “(2)
 
-Applicability.—The Federal Water Pollution Control Act (33 U.S.C. 1254(n)(3)) \[33 U.S.C. 1251 et seq.\] shall be applied and administered on and after the date of enactment of this Act \[Nov. 27, 2002\] as if the amendments made by subsections (a), (b), (c), and (d) of section 501 of the Federal Reports Elimination Act of 1998 (Public Law 105–362; 112 Stat. 3283) had not been enacted.”
+Applicability.—The Federal Water Pollution Control Act (33 U.S.C. 1254(n)(3)) \[33 U.S.C. 1251 et seq.\]shall be applied and administered on and after the date of enactment of this Act \[Nov. 27, 2002\] as if the amendments made by subsections (a), (b), (c), and (d) of section 501 of the Federal Reports Elimination Act of 1998 (Public Law 105–362; 112 Stat. 3283) had not been enacted.”
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 #### Columbia River Basin System; Protection From Oil Spills and Discharges; Criteria for Evaluation and Report to Congress by Commandant of Coast Guard in Consultation With Federal, Etc., Agencies
 
@@ -243,8 +243,4 @@ Pub. L. 95–308, §8, June 30, 1978, 92 Stat. 359, set forth Congressional find
 #### Contiguous Zone of United States
 
 For extension of contiguous zone of United States, see Proc. No. 7219, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1254a, 1255, 1263, 1314, 1322, 1330, 1376, 1377 of this title.
 

@@ -24,7 +24,7 @@
 
 (IV) For purposes of this clause, the term “foreign defense article or defense service” includes any non-United States defense article or defense service of a nature described on the United States Munitions List regardless of whether such article or service is of United States origin or whether such article or service contains United States origin components.
 
-(B) <sup>1</sup> The prohibition under such regulations required by the second sentence of subparagraph (A) shall not extend to any military firearms (orammunition, components, parts, accessories, and attachments for such firearms) of United States manufacture furnished to any foreign government by the United States under this chapter or any other foreign assistance or sales program of the United States if—
+(B) <sup>1</sup> The prohibition under such regulations required by the second sentence of subparagraph (A) shall not extend to any military firearms (or ammunition, components, parts, accessories, and attachments for such firearms) of United States manufacture furnished to any foreign government by the United States under this chapter or any other foreign assistance or sales program of the United States if—
 
 &emsp;(i) such firearms are among those firearms that the Secretary of the Treasury is, or was at any time, required to authorize the importation of by reason of the provisions of section 925(e) of title 18 (including the requirement for the listing of such firearms as curios or relics under section 921(a)(13) of that title); and
 
@@ -56,7 +56,7 @@ In carrying out functions under this section with respect to the export of defen
 
 (1) The President shall periodically review the items on the United States Munitions List to determine what items, if any, no longer warrant export controls under this section. The results of such reviews shall be reported to the Speaker of the House of Representatives and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate. The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.
 
-(2) The President may not authorize an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items under subsection (j) of this section or any other provision of this chapter until 30 days after the date on which the President has transmitted to the Committee on International Relations of the House of Representatives andthe Committee on Foreign Relations of the Senate a notification that includes—
+(2) The President may not authorize an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items under subsection (j) of this section or any other provision of this chapter until 30 days after the date on which the President has transmitted to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a notification that includes—
 
 &emsp;(A) a description of the scope of the exemption, including a detailed summary of the defense articles, defense services, and related technical data covered by the exemption; and
 
@@ -88,9 +88,11 @@ In carrying out functions under this section with respect to the export of defen
 
 &emsp;&emsp;(ix) section 57, 92, 101, 104, 222, 224, 225, or 226 of the Atomic Energy Act of 1954 (42 U.S.C. 2077, 2122, 2131, 2134, 2272, 2274, 2275, and 2276),
 
-&emsp;&emsp;(x) section 601 of the National Security Act of 1947 (relating to intelligence identities protection; 50 U.S.C. 421), or
+&emsp;&emsp;(x) section 601 of the National Security Act of 1947 (relating to intelligence identities protection; 50 U.S.C. 421),
 
-&emsp;&emsp;(xi) section 603(b) or (c) of the Comprehensive Anti-Apartheid Act of 1986 (22 U.S.C. 5113(b) and (c));
+&emsp;&emsp;(xi) section 603(b) or (c) of the Comprehensive Anti-Apartheid Act of 1986 (22 U.S.C. 5113(b) and (c)); <sup>2</sup> or
+
+&emsp;&emsp;(xii) section <sup>3</sup> 3, 4, 5, and 6 of the Prevention of Terrorist Access to Destructive Weapons Act of 2004, relating to missile systems designed to destroy aircraft (18 U.S.C. 2332g), prohibitions governing atomic weapons (42 U.S.C. 2122), radiological dispersal devices (18 U.S.C. 2332h), and variola virus (18 U.S.C. 175b <sup>4</sup>);
 
 &emsp;(B) persons who are the subject of an indictment or have been convicted under section 371 of title 18 for conspiracy to violate any of the statutes cited in subparagraph (A); and
 
@@ -130,7 +132,7 @@ In carrying out functions under this section with respect to the export of defen
 
 (7) The President shall, in coordination with law enforcement and national security agencies, develop standards for identifying high-risk exports for regular end-use verification. These standards shall be published in the Federal Register and the initial standards shall be published not later than October 1, 1988.
 
-(8) Upon request of the Secretary of State, the Secretary of Defense and the Secretary of theTreasury shall detail to the office primarily responsible for export licensing functions under this section, on a nonreimbursable basis, personnel with appropriate expertise to assist in the initial screening of applications for export licenses under this section in order to determine the need for further review of those applications for foreign policy, national security, and law enforcement concerns.
+(8) Upon request of the Secretary of State, the Secretary of Defense and the Secretary of the Treasury shall detail to the office primarily responsible for export licensing functions under this section, on a nonreimbursable basis, personnel with appropriate expertise to assist in the initial screening of applications for export licenses under this section in order to determine the need for further review of those applications for foreign policy, national security, and law enforcement concerns.
 
 (9) For purposes of this subsection—
 
@@ -152,7 +154,7 @@ In carrying out functions under this section with respect to the export of defen
 
 #### (h) Judicial review of designation of items as defense articles or services
 
-The designation by the President (or by an official to whom the President's functions under subsection (a) of this section have been duly delegated), in regulations issued under this section, of items as defense articles or defense services for purposes of this section shall not be subject to judicial review.
+The designation by the President (or by an official to whom the President's functions undersubsection (a) of this section have been duly delegated), in regulations issued under this section, of items as defense articles or defense services for purposes of this section shall not be subject to judicial review.
 
 #### (i) Report to Department of State
 
@@ -176,7 +178,7 @@ As prescribed in regulations issued under this section, a United States person t
 
 #### (2) Requirements of bilateral agreement
 
-&emsp;A bilateral agreement referred to <sup>2</sup> paragraph (1)—
+&emsp;A bilateral agreement referred to <sup>5</sup> paragraph (1)—
 
 &emsp;&emsp;(A) shall, at a minimum, require the foreign country, as necessary, to revise its policies and practices, and promulgate or enact necessary modifications to its laws and regulations to establish an export control regime that is at least comparable to United States law, regulation, and policy requiring—
 
@@ -226,13 +228,15 @@ As prescribed in regulations issued under this section, a United States person t
 
 &emsp;&emsp;&emsp;(ii) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-(Pub. L. 90–629, ch. 3, §38, as added Pub. L. 94–329, title II, §212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, §20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, §22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, §21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, §123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, §119(a), (b), Aug. 8, 1985, 99 Stat. 203, 204; Pub. L. 100–202, §101(b) \[title VIII, §8142(a)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, §1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §§1302(a), 1303, 1304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–510, 1501A–511; Pub. L. 106–280, title I, §102(a), (b), Oct. 6, 2000, 114 Stat. 846, 848; Pub. L. 107–228, div. B, title XIV, §1406, Sept. 30, 2002, 116 Stat. 1458.)
+(Pub. L. 90–629, ch. 3, §38, as added Pub. L. 94–329, title II, §212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, §20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, §22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, §21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, §123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, §119(a), (b), Aug. 8, 1985, 99 Stat. 203, 204; Pub. L. 100–202, §101(b) \[title VIII, §8142(a)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, §1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §§1302(a), 1303, 1304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–510, 1501A–511; Pub. L. 106–280, title I, §102(a), (b), Oct. 6, 2000, 114 Stat. 846, 848; Pub. L. 107–228, div. B, title XIV, §1406, Sept. 30, 2002, 116 Stat. 1458; Pub. L. 108–458, title VI, §6910, Dec. 17, 2004, 118 Stat. 3774.)
 
 #### References in Text
 
 The Export Administration Act of 1979, referred to in subsec. (e), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
 
 Section 104 of the Foreign Corrupt Practices Act (15 U.S.C. 78dd–2), referred to in subsec. (g)(1)(A)(vi), probably means section 104 of the Foreign Corrupt Practices Act of 1977, which is classified to section 78dd–2 of Title 15, Commerce and Trade.
+
+Sections 3, 4, 5, and 6 of the Prevention of Terrorist Access to Destructive Weapons Act of 2004, referred to in subsec. (g)(1)(A)(xii), probably means sections 6903, 6904, 6905, and 6906, respectively, of Pub. L. 108–458, which enacted section 2332g of Title 18, Crimes and Criminal Procedure, amended sections 2122 and 2272 of Title 42, The Public Health and Welfare, and enacted sections 2332h and 175c of Title 18.
 
 The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
@@ -241,6 +245,8 @@ The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act Ju
 Section 212(b)(1) of Pub. L. 94–329 provided in part that: “Any reference to such section \[section 1934 of this title\] shall be deemed to be a reference to section 38 of the Arms Export Control Act \[this section\] and any reference to licenses issued under section 38 of the Arms Export Control Act \[this section\] shall be deemed to include a reference to licenses issued under section 414 of the Mutual Security Act of 1954.”
 
 #### Amendments
+
+2004—Subsec. (g)(1)(A)(xii). Pub. L. 108–458 added cl. (xii).
 
 2002—Subsec. (f)(1). Pub. L. 107–228 substituted “The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.” for “Such a report shall be submitted at least 30 days before any item is removed from the Munitions List and shall describe the nature of any controls to be imposed on that item under the Export Administration Act of 1979.”
 
@@ -266,7 +272,7 @@ Subsec. (e). Pub. L. 104–164, §156, inserted before period at end of first se
 
 Subsec. (h). Pub. L. 101–222, §6, added subsec. (h).
 
-1987—Subsec. (b)(1). Pub. L. 100–204, §1255(b), designated existing provisions as subpar. (A) and added subpar. (B) relating to review by Secretary of the Treasury of munitions control registrations.
+1987—Subsec. (b)(1). Pub. L. 100–204, §1255(b), designated existing provisions as subpar. (A) and addedsubpar. (B) relating to review by Secretary of the Treasury of munitions control registrations.
 
 Pub. L. 100–202 designated existing provisions as subpar. (A) and added subpar. (B) relating to allowance of return to United States of certain military firearms, etc., under certain circumstances.
 
@@ -318,7 +324,7 @@ Section 101(b) \[title VIII, §8142(b)\] of Pub. L. 100–202 provided that:
 
 #### Effective Date of 1985 Amendment
 
-Section 119(c) of Pub. L. 99–83 provided that: “This section \[amending this section\] shall take effect upon the date of enactment of this Act \[Aug. 8, 1985\] or October 1, 1985, whichever is later. The amendments madeby this section apply with respect to violations occurring after the effective date of this section.”
+Section 119(c) of Pub. L. 99–83 provided that: “This section \[amending this section\] shall take effect upon the date of enactment of this Act \[Aug. 8, 1985\] or October 1, 1985, whichever is later. The amendments made by this section apply with respect to violations occurring after the effective date of this section.”
 
 #### Effective Date of 1979 Amendments
 
@@ -442,7 +448,7 @@ Additional Requirement for First Report.—The first annual report required by s
 
 “(d)
 
-Support of Other Agencies.—Upon the request of the officials responsible for preparing the assessments required by subsection (b), the heads of other departments and agencies shall make available to those officials all information necessary to carry out the requirements of this section.
+Support of Other Agencies.—Upon the request of the officials responsible for preparing the assessments required by subsection (b), the heads of other departments and agencies shall make available to thoseofficials all information necessary to carry out the requirements of this section.
 
 “(e)
 
@@ -602,7 +608,7 @@ Annual Report on Implementation of Satellite Technology Safeguards.—(1) The Se
 
 “(a)
 
-Consultation During Review of Applications.—The Secretary of State and Secretary of Defense, as appropriate, shall consult with the Director of Central Intelligence during the review of any application for a license involving the overseas launch of acommercial satellite of United States origin. The purpose of the consultation is to assure that the launch of the satellite, if the license is approved, will meet the requirements necessary to protect the national security interests of the United States.
+Consultation During Review of Applications.—The Secretary of State and Secretary of Defense, as appropriate, shall consult with the Director of Central Intelligence during the review of any application for a license involving the overseas launch of a commercial satellite of United States origin. The purpose of the consultation is to assure that the launch of the satellite, if the license is approved, will meet the requirements necessary to protect the national security interests of the United States.
 
 “(b)
 
@@ -670,6 +676,8 @@ Definitions.—As used in this section:
 
 \[Memorandum of President of the United States, Jan. 5, 2000, 65 F.R. 2279, delegated to Secretary of Defense the duties and responsibilities of the President under section 1402 of Public Law 106–65 and directed Department of Defense to prepare the report required by section 1402 with the assistance of Department of State, Department of Commerce, Department of Energy, Department of the Treasury, Director of Central Intelligence, and Federal Bureau of Investigation and to obtain concurrence on the report from Department of State, Department of Commerce, Director of Central Intelligence on behalf of Intelligence Community, Department of the Treasury, and Federal Bureau of Investigation prior to submission to Congress.\]
 
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
+
 #### Satellite Export Controls
 
 Pub. L. 105–261, div. A, title XV, subtitle B, Oct. 17, 1998, 112 Stat. 2173, as amended by Pub. L. 105–277, div. C, title I, §146(a), Oct. 21, 1998, 112 Stat. 2681–610, provided that:
@@ -684,7 +692,7 @@ Pub. L. 105–261, div. A, title XV, subtitle B, Oct. 17, 1998, 112 Stat. 2173, 
 
 &emsp;“(3) the United States should encourage universal observance of the Guidelines to the Missile Technology Control Regime;
 
-&emsp;“(4) the exportation or transfer of advanced communication satellites and related technologies from United States sources to foreign recipients should notincrease the risks to the national security of the United States;
+&emsp;“(4) the exportation or transfer of advanced communication satellites and related technologies from United States sources to foreign recipients should not increase the risks to the national security of the United States;
 
 &emsp;“(5) due to the military sensitivity of the technologies involved, it is in the national security interests of the United States that United States satellites and related items be subject to the same export controls that apply under United States law and practices to munitions;
 
@@ -702,7 +710,7 @@ Certification.—The President shall certify to the Congress at least 15 days in
 
 &emsp;“(1) such export is not detrimental to the United States space launch industry; and
 
-&emsp;“(2) the missile equipment or technology, including any indirect technical benefit that could be derived from such export, will not measurably improve the missile or space launch capabilities of the People's Republic of China.
+&emsp;“(2) the missile equipment or technology, including any indirect technical benefit that could be derivedfrom such export, will not measurably improve the missile or space launch capabilities of the People's Republic of China.
 
 “(b)
 
@@ -778,7 +786,7 @@ Mandatory licenses for crash-investigations.—In the event of the failure of a 
 
 &emsp;“(4)
 
-Mandatory notification and certification.—All technology transfer control plans for satellites orrelated items shall require any United States person or entity involved in the export of a satellite of United States origin or related items to notify the Department of Defense in advance of all meetings and interactions with any foreign person or entity providing launch services and require the United States person or entity to certify after the launch that it has complied with this notification requirement.
+Mandatory notification and certification.—All technology transfer control plans for satellites or related items shall require any United States person or entity involved in the export of a satellite of United States origin or related items to notify the Department of Defense in advance of all meetings and interactions with any foreign person or entity providing launch services and require the United States person or entity to certify after the launch that it has complied with this notification requirement.
 
 &emsp;“(5)
 
@@ -856,6 +864,8 @@ Militarily Sensitive Characteristics Defined.—In this section, the term ‘mil
 
 &emsp;\[“(2) the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261; Oct. 17, 1998\].”\]
 
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
+
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 
 #### Landmine Export Moratorium
@@ -932,7 +942,7 @@ Pub. L. 102–138, title IV, Oct. 28, 1991, 105 Stat. 718, provided that:
 
 &emsp;“(9) such a regime should be developed, implemented, and agreed to through multilateral negotiations, including under the auspices of the 5 permanent members of the United Nations Security Council;
 
-&emsp;“(10) confidence-building arms control measures such as the establishment of a centralized arms trade registry at the United Nations, greater multinational transparency on the transfer of defense articles andservices prior to agreement or transfer, cooperative verification measures, advanced notification of military exercises, information exchanges, on-site inspections, and creation of a Middle East and Persian Gulf Conflict Prevention Center, are important to implement an effective multilateral arms transfer and control regime;
+&emsp;“(10) confidence-building arms control measures such as the establishment of a centralized arms trade registry at the United Nations, greater multinational transparency on the transfer of defense articles and services prior to agreement or transfer, cooperative verification measures, advanced notification of military exercises, information exchanges, on-site inspections, and creation of a Middle East and Persian Gulf Conflict Prevention Center, are important to implement an effective multilateral arms transfer and control regime;
 
 &emsp;“(11) as an interim step, the United States should consider introducing, during the ongoing negotiations on confidence security-building measures at the Conference on Security and Cooperation in Europe (CSCE) \[now the Organization for Security and Cooperation in Europe\], a proposal regarding the international exchange of information, on an annual basis, on the sale and transfer of major military equipment, particularly to the Middle East and Persian Gulf region; and
 
@@ -1106,11 +1116,13 @@ Ex. Ord. No. 12451, §3, Dec. 20, 1983, 48 F.R. 56563, set out as a note under s
 
 Ex. Ord. No. 12444, §3, Oct. 14, 1983, 48 F.R. 48215, formerly set out as a note under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12451, Dec. 20, 1983, 48 F.R. 56563.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2291–5, 2304, 2373, 2415, 2751, 2753, 2767, 2770, 2776, 2779, 2780, 2785, 2791, 2794, 2797a, 7203 of this title; title 10 sections 2350, 2563, 4543, 4687; title 12 section 635; title 18 sections 1956, 2516; title 19 section 1583; title 26 sections 995, 5847; title 50 sections 415, 2332; title 50 App. sections 2410, 2410b, 2416.
-
 <i><sup>1</sup></i><i> So in original. There are two subpars. designated “(B)”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “in”.</i>
+<i><sup>2</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “sections”.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “175c”.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be followed by “in”.</i>
 

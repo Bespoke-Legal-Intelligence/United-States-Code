@@ -6,7 +6,7 @@
 
 &emsp;(2) take into account the results of annual evaluations carried out under paragraph (1) when negotiating the terms and conditions of a contract or agreement under section 3674 of this title;
 
-&emsp;(3) cooperate with State approving agencies in developing and implementing a uniform national curriculum, to the extent practicable, for training new employees and for continuingthe training of employees of such agencies, and sponsor, with the agencies, such training and continuation of training; and
+&emsp;(3) cooperate with State approving agencies in developing and implementing a uniform national curriculum, to the extent practicable, for training new employees and for continuing the training of employees of such agencies, and sponsor, with the agencies, such training and continuation of training; and
 
 &emsp;(4) prescribe prototype qualification and performance standards, developed in conjunction with State approving agencies, for use by such agencies in the development of qualification and performance standards for State approving agency personnel carrying out approval responsibilities under a contract or agreement entered into under section 3674(a).
 
@@ -49,8 +49,4 @@ Section 13(b)(2) of Pub. L. 100–323 directed Administrator, for purposes of im
 #### Applicability of Qualification Standards to Persons Employed on May 20, 1988
 
 Section 13(b)(3) of Pub. L. 100–323 provided that: “None of the qualification standards implemented pursuant to the amendments made by paragraph (1) \[enacting this section\] shall apply to any person employed by a State approving agency on the date of the enactment of this Act \[May 20, 1988\] as long as such person remains in the position in which the person is employed on such date.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3674, 3682 of this title.
 

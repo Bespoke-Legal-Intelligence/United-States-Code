@@ -108,7 +108,7 @@ Subsec. (d)(1)(A)(ii). Pub. L. 105–276, §551(2)(A)(ii), substituted “8(<i>o
 
 Subsec. (d)(1)(B)(i). Pub. L. 105–276, §522(b)(2), which directed the amendment of subsec. (d)(1)(B)(ii), by striking out “or 14”, was executed by striking out “or 14” after “9” in subsec. (d)(1)(B)(i) to reflect the probable intent of Congress.
 
-Subsec. (d)(2) to (5). Pub. L. 105–276, §551(2)(B), (C), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “Not later than sixty days after approval in an appropriation Act, the Secretary shall allocate from the amounts available for use in nonmetropolitan areas an amount of authority for assistance under section 8(d) of the United States Housing Act of 1937 determined in consultation with the Secretary of Agriculture for use in connection with section 1490m of this title during the fiscal year for which such authority is approved. The amount of assistance allocated to nonmetropolitan areas pursuant to this section in any fiscal year shall not be less than 20 nor more than 25 per centum of the total amount of the assistance that is subject to allocation under paragraph (1)(A).”
+Subsec. (d)(2) to (5). Pub. L. 105–276, §551(2)(B), (C), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “Not later than sixty days after approval in an appropriation Act, the Secretary shall allocate from the amounts available for use in nonmetropolitan areas an amount of authority for assistance under section 8(d) of the United States Housing Act of 1937 determined in consultation with the Secretary of Agriculture for use in connection with section 1490m of this title during the fiscal year for which such authority is approved. The amount of assistance allocated to nonmetropolitan areas pursuant to this section in any fiscal year shallnot be less than 20 nor more than 25 per centum of the total amount of the assistance that is subject to allocation under paragraph (1)(A).”
 
 1996—Subsec. (d)(1)(B)(ii). Pub. L. 104–330 substituted “public housing” for “public and Indian housing”.
 
@@ -185,10 +185,6 @@ Section 104(b) of Pub. L. 101–235 provided that: “Any assistance made availa
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437u, 3545 of this title; title 12 section 1715z.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be “or”.</i>
 

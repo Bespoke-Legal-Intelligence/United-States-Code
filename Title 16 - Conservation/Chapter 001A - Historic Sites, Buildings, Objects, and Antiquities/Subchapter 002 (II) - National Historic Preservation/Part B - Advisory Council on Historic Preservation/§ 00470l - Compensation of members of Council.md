@@ -12,7 +12,3 @@ The members of the Council specified in paragraphs (2), (3), and (4) of section 
 
 1970—Pub. L. 91–243 substituted “(10)” for “(7)” and “(11)” for “(8)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 section 3303.
-

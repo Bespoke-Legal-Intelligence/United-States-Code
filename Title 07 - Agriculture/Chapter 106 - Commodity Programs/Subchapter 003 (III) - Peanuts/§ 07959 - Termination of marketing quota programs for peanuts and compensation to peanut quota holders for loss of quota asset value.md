@@ -34,7 +34,7 @@ The amount of the payment for a fiscal year to an eligible peanut quota holder u
 
 &emsp;(1) $0.11 per pound; by
 
-&emsp;(2) the number of pounds of quota with respect to which the person qualifies as a peanut quota holder under subsection (f) of this section.
+&emsp;(2) the number of pounds of quota with respect to which the person qualifies as a peanutquota holder under subsection (f) of this section.
 
 #### (e) Assignment of payments
 
@@ -70,7 +70,7 @@ The provisions of section 590h(g) of title 16, relating to assignment of payment
 
 #### (1) Eligibility attaches to persons
 
-&emsp;Once a person is eligible for payments under this section, as determined under subsection (f) of this section, the continued eligibility of the person for the payments does not run with a farm, but shall remain with the person for the term of this section irrespective of whether the person sells, or continues to have an interest in, the farm that had the quota that qualified the person as an eligible peanut quota holder under subsection (f) of this section and irrespective of whether the personhas a continuing interest in the production of peanuts.
+&emsp;Once a person is eligible for payments under this section, as determined under subsection (f) of this section, the continued eligibility of the person for the payments does not run with a farm, but shall remain with the person for the term of this section irrespective of whether the person sells, or continues to have an interest in, the farm that had the quota that qualified the person as an eligible peanut quota holder under subsection (f) of this section and irrespective of whether the person has a continuing interest in the production of peanuts.
 
 #### (2) Succession
 

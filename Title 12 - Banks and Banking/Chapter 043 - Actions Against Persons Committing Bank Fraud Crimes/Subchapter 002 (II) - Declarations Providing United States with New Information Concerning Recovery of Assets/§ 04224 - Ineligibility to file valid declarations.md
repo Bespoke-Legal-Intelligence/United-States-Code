@@ -12,7 +12,7 @@ A declaration filed pursuant to section 4221 of this title and in accordance wit
 
 &emsp;(4) the declaration is filed by a member of the immediate family of the individual whose activities are the subject of the declaration or where, in the discretion of the Attorney General, it appears the individual could benefit from the award; or
 
-&emsp;(5) the declaration identifies an asset or assets the nature, location, or possible recovery of which has been disclosed to a member of the public in a criminal, civil, or administrative proceeding, in a congressional, administrative, or General Accounting Office report, hearing, audit or investigation, by any other government source, or by the news media, unless the person providing the declaration is the original source of the information.
+&emsp;(5) the declaration identifies an asset or assets the nature, location, or possible recovery of which has been disclosed to a member of the public in a criminal, civil, or administrative proceeding, in a congressional, administrative, or Government Accountability Office report, hearing, audit or investigation, by any other government source, or by the news media, unless the person providing the declaration is the original source of the information.
 
 #### (b) “Original source” defined
 
@@ -22,11 +22,11 @@ For the purposes of subsection (a)(5) of this section, the term “original sour
 
 If the Attorney General determines at any time that a declaration is invalid under this section, that a declaration fails to meet the requirements of section 4222 of this title, or that a declaration has been disclosed in violation of section 4223 of this title, the Attorney General shall notify the person who filed the declaration in writing that the declaration is invalid, and the declarant shall not enjoy any of the rights of the declarant listed in section 4225 or 4226 of this title.
 
-(Pub. L. 101–647, title XXV, §2579, Nov. 29, 1990, 104 Stat. 4900.)
+(Pub. L. 101–647, title XXV, §2579, Nov. 29, 1990, 104 Stat. 4900; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 4225, 4226 of this title.
+2004—Subsec. (a)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “1833a(c)”.</i>
 

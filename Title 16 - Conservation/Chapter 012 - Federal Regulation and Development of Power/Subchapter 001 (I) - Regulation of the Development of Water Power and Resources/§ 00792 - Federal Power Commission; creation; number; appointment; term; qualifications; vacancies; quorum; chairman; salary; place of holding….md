@@ -56,13 +56,13 @@ The Chairman may from time to time make such provisions as he shall deem appropr
 
 #### Sec. 3. Designation of Chairman
 
-The functions of the Commission with respect to choosing a chairman from among the commissionerscomposing the Commission are hereby transferred to the President.
+The functions of the Commission with respect to choosing a chairman from among the commissioners composing the Commission are hereby transferred to the President.
 
 #### Message of the President
 
 > To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 10 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Securities and Exchange Commission. My reasons for transmitting this plan are stated in an accompanying general message.
+I transmit herewith Reorganization Plan No. 10 of 1950, prepared in accordance with the ReorganizationAct of 1949 and providing for reorganizations in the Securities and Exchange Commission. My reasons for transmitting this plan are stated in an accompanying general message.
 
 After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 10 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 

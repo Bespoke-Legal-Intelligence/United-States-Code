@@ -2,7 +2,7 @@
 
 #### (a) Saturdays, Sundays, and holidays
 
-If the day regularly designated for the delivery of benefit checks under subchapter II, VIII, or XVI of this chapter falls on a Saturday, Sunday, or legal public holiday (as defined in section 6103 of title 5) in any month, the benefit checks which would otherwise be delivered on such day shall be mailed for delivery on the first day preceding such day which is not a Saturday, Sunday, or legal public holiday (as so defined), without regard to whether the delivery of such checks would as a result have to be made before the end of the month for which such checks are issued.
+If the day regularly designated for the delivery of benefit checks under subchapter II, VIII,or XVI of this chapter falls on a Saturday, Sunday, or legal public holiday (as defined in section 6103 of title 5) in any month, the benefit checks which would otherwise be delivered on such day shall be mailed for delivery on the first day preceding such day which is not a Saturday, Sunday, or legal public holiday (as so defined), without regard to whether the delivery of such checks would as a result have to be made before the end of the month for which such checks are issued.
 
 #### (b) Recovery of overpayments
 
@@ -31,8 +31,4 @@ Section 333(b) of Pub. L. 95–216 provided that: “The amendment made by subse
 #### Timing of Delivery of October 1, 2000, SSI Benefit Payments
 
 Pub. L. 105–33, title V, §5527, Aug. 5, 1997, 111 Stat. 625, provided that, notwithstanding the provisions of section 908(a) of this title, the day designated for delivery of benefit payments under subchapter XVI of this chapter for October 2000 would be the second day of that month, prior to repeal by Pub. L. 106–246, div. B, title V, §5105, July 13, 2000, 114 Stat. 582.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 86.
 

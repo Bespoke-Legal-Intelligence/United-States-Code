@@ -14,7 +14,3 @@ It shall be unlawful for any person—
 
 Words “(other than any provision of such titles which amends another law)”, appearing in the original at the end of par. (1), have been omitted as unnecessary. Such titles meant titles I, II, and V of Pub. L. 94–163, which titles are classified to subchapters I, II, and V of this chapter. The provisions of such titles that amended other laws were not classified to subchapters I, II, and V of this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6395 of this title.
-

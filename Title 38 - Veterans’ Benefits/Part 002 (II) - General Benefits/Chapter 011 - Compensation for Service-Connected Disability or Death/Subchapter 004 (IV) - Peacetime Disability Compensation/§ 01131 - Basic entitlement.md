@@ -10,7 +10,7 @@ For disability resulting from personal injury suffered or disease contracted in 
 
 1991—Pub. L. 102–83 renumbered section 331 of this title as this section.
 
-1990—Pub. L. 101–508 substituted “a result of the veteran's own willful misconduct or abuse of alcohol or drugs” for “the result of the veteran's own willful misconduct”.
+1990—Pub. L. 101–508 substituted “a result of the veteran's own willful misconduct or abuse of alcohol ordrugs” for “the result of the veteran's own willful misconduct”.
 
 #### Effective Date of 1998 Amendment
 
@@ -23,8 +23,4 @@ Amendment by Pub. L. 101–508 effective with respect to claims filed after Oct.
 #### Construction of 1998 Amendment
 
 Pub. L. 105–206, title IX, §9014(a), July 22, 1998, 112 Stat. 865, provided that section 8202 of Pub. L. 105–178 is amended generally and that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1132, 1133, 1134 of this title.
 

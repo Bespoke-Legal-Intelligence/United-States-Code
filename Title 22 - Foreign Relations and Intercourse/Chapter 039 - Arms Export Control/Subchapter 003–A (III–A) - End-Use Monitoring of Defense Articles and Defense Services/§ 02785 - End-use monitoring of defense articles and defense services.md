@@ -50,7 +50,7 @@ Another section 40A of Pub. L. 90–629 is classified to section 2781 of this ti
 
 #### Effective Date
 
-Section 150(b) of Pub. L. 104–164 provided that: “Section 40A of the Arms Export Control Act, as added by subsection (a) \[22 U.S.C. 2785\], applies with respect to defense articles and defense services provided before or after the date of the enactment of this Act \[July 21, 1996\].”
+Section 150(b) of Pub. L. 104–164 provided that: “Section 40A of the Arms Export Control Act, as added by subsection (a) \[22 U.S.C. 2785\], applies with respect to defense articles and defense services provided before orafter the date of the enactment of this Act \[July 21, 1996\].”
 
 #### Delegation of Functions
 

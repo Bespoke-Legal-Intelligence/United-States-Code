@@ -48,15 +48,15 @@ The Administrator has authority over, and is responsible for, all programs and a
 
 #### (c) Procurement authority
 
-The Administrator is the senior procurement executive for the Administration for the purposes of section 414(3) of title 41.
+The Administrator is the senior procurement executive for the Administration for the purposes of section 414(3) of title 41.<sup>1</sup>
 
 #### (d) Policy authority
 
 The Administrator may establish Administration-specific policies, unless disapproved by the Secretary of Energy.
 
-#### (e) Membership on Joint Nuclear Weapons Council
+#### (e) Membership on Nuclear Weapons Council
 
-The Administrator serves as a member of the Joint Nuclear Weapons Council under section 179 of title 10.
+The Administrator serves as a member of the Nuclear Weapons Council under section 179 of title 10.
 
 #### (f) Reorganization authority
 
@@ -66,9 +66,15 @@ Except as provided by subsections (b) and (c) of section 2481 of this title:
 
 &emsp;(2) Such authority does not apply to the abolition of organizational units or components established by law or the transfer of functions vested by law in any organizational unit or component.
 
-(Pub. L. 106–65, div. C, title XXXII, §3212, Oct. 5, 1999, 113 Stat. 957; Pub. L. 106–398, §1 \[div. C, title XXXI, §§3152(b), 3159(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464, 1654A–469; Pub. L. 107–107, div. A, title X, §1048(i)(12), Dec. 28, 2001, 115 Stat. 1230.)
+(Pub. L. 106–65, div. C, title XXXII, §3212, Oct. 5, 1999, 113 Stat. 957; Pub. L. 106–398, §1 \[div. C, title XXXI, §§3152(b), 3159(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464, 1654A–469; Pub. L. 107–107, div. A, title X, §1048(i)(12), Dec. 28, 2001, 115 Stat. 1230; Pub. L. 108–375, div. A, title IX, §902(e), Oct. 28, 2004, 118 Stat. 2025.)
+
+#### References in Text
+
+Section 414 of title 41, referred to in subsec. (c), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of title 41.
 
 #### Amendments
+
+2004—Subsec. (e). Pub. L. 108–375 struck out “Joint” before “Nuclear” in heading and text.
 
 2001—Subsecs. (e), (f). Pub. L. 107–107 redesignated subsec. (e), relating to reorganization authority, as (f).
 
@@ -114,7 +120,7 @@ Project Requirements.—A project may not be approved for the pilot program unle
 
 &emsp;“(2)(A) Not less than 50 percent of the costs of the project are to be provided by non-Federal sources.
 
-&emsp;“(B)(i) The calculation of the amount of the costs of the project provided by non-Federal sources shall include cash, personnel, services, equipment, and other resources expended on the project.
+&emsp;“(B)(i) The calculation of the amount of the costs of the project provided by non-Federal sources shallinclude cash, personnel, services, equipment, and other resources expended on the project.
 
 &emsp;“(ii) No funds or other resources expended before the start of the project or outside the project's scope of work may be credited toward the costs provided by non-Federal sources to the project.
 
@@ -186,7 +192,5 @@ Report on Implementation.—(1) Not later than February 1, 2002, the Administrat
 
 \[For definitions of “national security laboratory” and “nuclear weapons production facility” as used in section 1 \[div. C, title XXXI, §3161\] of Pub. L. 106–398, set out above, see section 1 \[div. C, title XXXI, §3165\] of Pub. L. 106–398, set out as a note under section 2401 of this title.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2410 of this title; title 42 sections 7132, 7253.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

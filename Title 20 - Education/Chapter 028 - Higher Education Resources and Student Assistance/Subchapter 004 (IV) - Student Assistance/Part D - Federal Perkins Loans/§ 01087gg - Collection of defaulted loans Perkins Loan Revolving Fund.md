@@ -42,9 +42,5 @@ Amendment by Pub. L. 102–325 to this section, relating to creation of Perkins 
 
 Pub. L. 105–244, title IV, §467(b), Oct. 7, 1998, 112 Stat. 1728, provided that: “Any funds in the Perkins Loan Revolving Fund on the date of enactment of this Act \[Oct. 7, 1998\] shall be transferred to and deposited in the Treasury.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1087cc of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

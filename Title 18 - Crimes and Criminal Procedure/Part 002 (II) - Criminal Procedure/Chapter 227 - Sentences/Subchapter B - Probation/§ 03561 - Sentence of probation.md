@@ -12,7 +12,7 @@ In General.—A defendant who has been found guilty of an offense may be sentenc
 
 (b)
 
-Domestic Violence Offenders.—A defendant who has been convicted for the first time of a domestic violence crime shall be sentenced to a term of probation if not sentenced to a term of imprisonment. The term “domestic violence crime” means a crime of violence for which the defendant may be prosecuted in a court of the United States in which the victim or intended victim is the spouse, former spouse, intimate partner, former intimate partner, child, orformer child of the defendant, or any other relative of the defendant.
+Domestic Violence Offenders.—A defendant who has been convicted for the first time of a domestic violence crime shall be sentenced to a term of probation if not sentenced to a term of imprisonment. The term “domestic violence crime” means a crime of violence for which the defendant may be prosecuted in a court of the United States in which the victim or intended victim is the spouse, former spouse, intimate partner, former intimate partner, child, or former child of the defendant, or any other relative of the defendant.
 
 (c)
 
@@ -57,8 +57,4 @@ Section 10(b) of Pub. L. 99–646 provided that: “The amendment made by this s
 #### Effective Date
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3563, 3583, 5037 of this title.
 

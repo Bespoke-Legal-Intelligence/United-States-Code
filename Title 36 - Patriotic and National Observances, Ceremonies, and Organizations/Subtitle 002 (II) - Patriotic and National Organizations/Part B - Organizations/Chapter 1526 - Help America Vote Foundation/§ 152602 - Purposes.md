@@ -24,7 +24,3 @@ Consultation With State Election Officials.—The foundation shall carry out its
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (a)(3), is classified to section 501 of Title 26, Internal Revenue Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 152609 of this title.
-

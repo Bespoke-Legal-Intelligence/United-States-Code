@@ -18,7 +18,3 @@ For effective date of this Act, referred to in subsec. (b), see Effective Date n
 
 Section effective thirty days before Oct. 24, 1984, see section 6 of Pub. L. 98–544, set out as a note under section 34 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 34 of this title.
-

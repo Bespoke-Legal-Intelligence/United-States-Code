@@ -1,12 +1,24 @@
 ### §50. Reception and arrangement of specimens and objects of art
 
-Whenever suitable arrangements can be made from time to time for their reception, all objects of art and of foreign and curious research, and all objects of natural history, plants, and geological and mineralogical specimens belonging to the United States, which may be in the city of Washington, in whosesoever custody they may be, shall be delivered to such persons as may be authorized by the Board of Regents to receive them, and shall be so arranged and classified in the building erected for the institution as best to facilitate the examination and study of them; and whenever new specimens in natural history, geology, or mineralogy are obtained for the museum of the institution, by exchanges of duplicate specimens, which the Regents may in their discretion make, or by donation, which they may receive, or otherwise, the Regents shall cause such new specimens to be appropriately classed and arranged. The minerals, books, manuscripts, and other property of James Smithson, which have been received by the Government of the United States, shall be preserved separate and apart from other property of the institution.
+Whenever suitable arrangements can be made from time to time for their reception, all objects of art and of foreign and curious research, and all objects of natural history, plants, and geological and mineralogical specimens belonging to the United States, which may be in the city of Washington, in whosesoever custody they may be, shall be delivered to such persons as may be authorized by the Board of Regents to receive them, and shall be so arranged and classified in the building erected for the institution as best to facilitate the examination and study of them; and whenever new specimens in naturalhistory, geology, or mineralogy are obtained for the museum of the institution, by exchanges of duplicate specimens, which the Regents may in their discretion make, or by donation, which they may receive, or otherwise, the Regents shall cause such new specimens to be appropriately classed and arranged. The minerals, books, manuscripts, and other property of James Smithson, which have been received by the Government of the United States, shall be preserved separate and apart from other property of the institution.
 
 (R.S. §5586.)
 
 #### Codification
 
 R.S. §5586 derived from act Aug. 10, 1846, ch. 178, §6, 9 Stat. 105.
+
+#### Veritas Astrophysical Observatory Project; Authorization of Construction and Appropriations
+
+Pub. L. 108–331, Oct. 16, 2004, 118 Stat. 1281, provided that:
+
+#### “SECTION 1. AUTHORIZING BOARD OF REGENTS OF SMITHSONIAN INSTITUTION TO CARRY OUT CONSTRUCTION AND RELATED ACTIVITIES IN SUPPORT OF VERITAS ASTROPHYSICAL OBSERVATORY PROJECT.
+
+“The Board of Regents of the Smithsonian Institution is authorized to carry out construction and related activities in support of the collaborative Very Energetic Radiation Imaging Telescope Array System (VERITAS) project on Kitt Peak near Tucson, Arizona.
+
+#### “SEC. 2. AUTHORIZATION OF APPROPRIATIONS.
+
+“There is authorized to be appropriated $1,000,000 for fiscal year 2005 to carry out section 1.”
 
 #### Collection and Preservation of Artifacts Relating to September 11th Attacks
 
@@ -203,8 +215,4 @@ Res. Feb. 28, 1922, ch. 86, 42 Stat. 399, authorized Secretary of State to trans
 #### Transportation of Property
 
 Quartermaster-General and his officers were required to receive and transport property for National Museum by a provision of act July 5, 1884, ch. 217, 23 Stat. 107.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 57, 67 of this title.
 

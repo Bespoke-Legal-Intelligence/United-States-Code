@@ -58,7 +58,3 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 Amendment by Pub. L. 101–94 effective as if included in Pub. L. 100–687, div. A, see section 302(c) of Pub. L. 101–94, set out as a note under section 5701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7252, 7291 of this title.
-

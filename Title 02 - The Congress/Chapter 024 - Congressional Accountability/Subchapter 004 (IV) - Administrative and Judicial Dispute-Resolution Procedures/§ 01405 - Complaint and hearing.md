@@ -82,7 +82,3 @@ Rule 45(b) of the Federal Rules of Civil Procedure, referred to in subsec. (f)(1
 
 Subchapter II of this chapter, referred to in subsec. (g), was in the original “title II”, meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, as amended, which enacted subchapter II of this chapter and amended section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare. For complete classification of title II to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1331, 1341, 1351, 1361, 1401, 1403, 1404, 1406, 1407, 1411, 1413, 1416, 1435 of this title.
-

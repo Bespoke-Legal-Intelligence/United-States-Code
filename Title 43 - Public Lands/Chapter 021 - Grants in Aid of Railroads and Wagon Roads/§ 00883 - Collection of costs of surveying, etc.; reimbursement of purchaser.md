@@ -4,7 +4,3 @@ If any railroad corporation required by law to pay the costs of surveying, selec
 
 (July 10, 1886, ch. 764, §2, 24 Stat. 143.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 882, 884, 885 of this title.
-

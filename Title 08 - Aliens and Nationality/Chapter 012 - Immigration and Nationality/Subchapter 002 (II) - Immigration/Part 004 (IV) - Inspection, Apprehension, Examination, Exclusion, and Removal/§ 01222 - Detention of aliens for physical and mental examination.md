@@ -52,7 +52,3 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Pub. L. 102–484, div. A, title X, §1079, Oct. 23, 1992, 106 Stat. 2514, as amended by Pub. L. 104–208, div. C, title III, §308(g)(1), Sept. 30, 1996, 110 Stat. 3009–622, provided that: “Notwithstanding any other provision of law, United States military physicians with not less than four years professional experience shall be considered to be civil surgeons for the purpose of the performance of physical examinations required under section 232(b) of the Immigration and Nationality Act (8 U.S.C. 1224 \[8 U.S.C. 1222(b)\]) of special immigrants described in section 101(a)(27)(K) of such Act (8 U.S.C. 1101(a)(27)(K)).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1182, 1229a of this title.
-

@@ -4,7 +4,3 @@ All tribal funds arising under section 155 of this title on June 13, 1930, inclu
 
 (Feb. 12, 1929, ch. 178, §2, as added June 13, 1930, ch. 483, 46 Stat. 584.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 161d, 672 of this title.
-

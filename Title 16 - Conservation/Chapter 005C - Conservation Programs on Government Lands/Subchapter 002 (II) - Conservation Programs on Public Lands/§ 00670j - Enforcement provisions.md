@@ -2,7 +2,7 @@
 
 #### (a) Violations and penalties
 
-(1) Any person who hunts, traps, or fishes on any public land which is subject to a conservation and rehabilitation program implemented under this subchapter without having on his person a valid public land management area stamp, if the possession of such a stamp is required, shall be fined not more than $1,000, or imprisoned for not more than six months, or both.
+(1) Any person who hunts, traps, or fishes on any public land which is subject to a conservation and rehabilitation program implemented under this subchapter without having on his person a valid public land management area stamp,if the possession of such a stamp is required, shall be fined not more than $1,000, or imprisoned for not more than six months, or both.
 
 (2) Any person who knowingly violates or fails to comply with any regulations prescribed under section 670h(c)(5) of this title shall be fined not more than $500, or imprisoned not more than six months, or both.
 
@@ -12,7 +12,7 @@
 
 (2) Upon the sworn information by a competent person, any United States magistrate judge or court of competent jurisdiction may issue process for the arrest of any person charged with committing any offense under subsection (a) of this section.
 
-(3) Any person charged with committing any offense under subsection (a) of this section may be tried and sentenced by any United States magistrate judge designated for that purpose by the court by which he was appointed, in thesame manner and subject to the same conditions as provided for in section 3401 of title 18.
+(3) Any person charged with committing any offense under subsection (a) of this section may be tried and sentenced by any United States magistrate judge designated for that purpose by the court by which he was appointed, in the same manner and subject to the same conditions as provided for in section 3401 of title 18.
 
 #### (c) Seizure and forfeiture of equipment and vessels
 
@@ -31,8 +31,4 @@ The customs laws, referred to in subsec. (d), are classified generally to Title 
 #### Change of Name
 
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (b)(2), (3) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 670h, 670i of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—NATIONAL PARK FOUNDATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3710 of this title.
-
 
 ---
 

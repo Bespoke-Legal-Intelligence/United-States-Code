@@ -42,7 +42,3 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical sections.
 
 Par. (2)(D). Pub. L. 103–322, §40502, added subpar. (D).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2423 of this title; title 20 sections 6777, 9134; title 42 section 3756; title 47 section 254.
-

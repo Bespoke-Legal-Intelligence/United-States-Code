@@ -68,7 +68,3 @@ Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except
 
 Amendment by Pub. L. 98–209 effective on first day of eighth calendar month beginning after Dec. 6, 1983, see section 12(a)(1) of Pub. L. 98–209, set out as a note under section 801 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2350 of this title.
-

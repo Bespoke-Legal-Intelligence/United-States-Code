@@ -40,7 +40,3 @@ All amounts received by the Secretary of Energy as fees, interest, repayment of 
 
 The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(1), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8839 of this title.
-

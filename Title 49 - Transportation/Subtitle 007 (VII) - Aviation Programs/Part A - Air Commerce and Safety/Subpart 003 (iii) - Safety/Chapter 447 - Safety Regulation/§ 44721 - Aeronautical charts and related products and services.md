@@ -10,7 +10,7 @@ In general.—The Administrator of the Federal Aviation Administration may arran
 
 &emsp;(2)
 
-Navigation routes.—In carrying out paragraph (1), the Administrator shall update and arrange for the publication of clearly defined routes for navigating through a complex terminal airspace area and to and from an airport located in such an area, if the Administrator decides that publication of the routeswould promote safety in air navigation. The routes shall be developed in consultation with pilots and other users of affected airports and shall be for the optional use of pilots operating under visual flight rules.
+Navigation routes.—In carrying out paragraph (1), the Administrator shall update and arrange for the publication of clearly defined routes for navigating through a complex terminal airspace area and to and from an airport located in such an area, if the Administrator decides that publication of the routes would promote safety in air navigation. The routes shall be developed in consultation with pilots and other users of affected airports and shall be for the optional use of pilots operating under visual flight rules.
 
 (b)
 
@@ -204,7 +204,7 @@ Continued Effectiveness of Directives.—All orders, determinations, rules, regu
 
 &emsp;“(2) are in effect on the date of transfer,
 
-> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revokedin accordance with law by the President of the United States, the Administrator of the Federal Aviation Administration, a court of competent jurisdiction, or by operation of law.
+> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President of the United States, the Administrator of the Federal Aviation Administration, a court of competent jurisdiction, or by operation of law.
 
 “(b)
 
@@ -252,11 +252,7 @@ Other Transfers.—Effective October 1, 2000, the personnel employed in connecti
 
 #### Procurement of Private Enterprise Mapping, Charting, and Geographic Information Systems
 
-Pub. L. 106–181, title VI, §607, Apr. 5, 2000, 114 Stat. 154, provided that: “The Administrator \[of the Federal Aviation Administration\] shall consider procuring mapping, charting, and geographic information systems necessary to carry out the duties of the Administrator under title 49, United States Code, from private enterprises, if the Administrator determines that such procurement furthers the mission of the Federal Aviation Administration and is cost effective.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 46301 of this title.
+Pub. L. 106–181, title VI, §607, Apr. 5, 2000, 114 Stat. 154, provided that: “The Administrator \[of the Federal Aviation Administration\] shall consider procuringmapping, charting, and geographic information systems necessary to carry out the duties of the Administrator under title 49, United States Code, from private enterprises, if the Administrator determines that such procurement furthers the mission of the Federal Aviation Administration and is cost effective.”
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -192,7 +192,7 @@ Appraisal assumption.—In order to ensure the equitable and uniform appraisal o
 
 &emsp;“(3)
 
-Appraisals.—The values of the offered land and selected land shall be determined by appraisalsutilizing nationally recognized appraisal standards, including applicable provisions of the Uniform Appraisal Standards for Federal Land Acquisitions (1992), the Uniform Standards of Professional Appraisal Practice, and section 206(d) of the Federal Land Policy and Management Act of 1976, as amended (43 U.S.C. 1716(d)).
+Appraisals.—The values of the offered land and selected land shall be determined by appraisals utilizing nationally recognized appraisal standards, including applicable provisions of the Uniform Appraisal Standards for Federal Land Acquisitions (1992), the Uniform Standards of Professional Appraisal Practice, and section 206(d) of the Federal Land Policy and Management Act of 1976, as amended (43 U.S.C. 1716(d)).
 
 &emsp;“(4)
 
@@ -390,7 +390,7 @@ Purchase Consultation.—In furtherance of subsection (a), the Secretary is auth
 
 “(c)
 
-Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from entering into additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
+Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from enteringinto additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
 
 #### “SEC. 608. TIETON RIVER STUDY.
 

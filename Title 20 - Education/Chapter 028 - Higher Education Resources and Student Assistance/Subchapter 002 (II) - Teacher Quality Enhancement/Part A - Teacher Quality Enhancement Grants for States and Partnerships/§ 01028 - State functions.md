@@ -34,7 +34,3 @@ A prior section 1028, Pub. L. 89–329, title II, §208, Nov. 8, 1965, 79 Stat. 
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1027, 1029, 6753 of this title.
-

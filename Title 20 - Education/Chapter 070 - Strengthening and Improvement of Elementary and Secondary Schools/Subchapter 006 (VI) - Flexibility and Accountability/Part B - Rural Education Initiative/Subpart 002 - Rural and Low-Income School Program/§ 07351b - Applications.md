@@ -16,7 +16,3 @@ At a minimum, each application submitted under subsection (a) of this section sh
 
 (Pub. L. 89–10, title VI, §6223, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1895.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7351, 7351c of this title.
-

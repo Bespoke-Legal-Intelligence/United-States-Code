@@ -18,7 +18,7 @@ The evaluation under subsection (a) of this section shall include the following:
 
 &emsp;(3) An analysis of how State reading standards correlate with the essential components of reading instruction.
 
-&emsp;(4) An analysis of whether the receipt of a targeted assistance grant under section 6364 ofthis title results in an increase in the number of children who read proficiently.
+&emsp;(4) An analysis of whether the receipt of a targeted assistance grant under section 6364 of this title results in an increase in the number of children who read proficiently.
 
 &emsp;(5) A measurement of the extent to which specific instructional materials improve reading proficiency.
 
@@ -41,8 +41,4 @@ The findings of the evaluation conducted under this section shall be provided to
 #### Prior Provisions
 
 A prior section 6365, Pub. L. 89–10, title I, §1205, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3580; amended Pub. L. 104–134, title I, §101(b) \[title II, §2755(b)\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–151; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–220, title II, §251(b)(2)(B), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(18)(A), (f)(13)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–331, related to Even Start program elements, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6362, 6363, 6366 of this title.
 

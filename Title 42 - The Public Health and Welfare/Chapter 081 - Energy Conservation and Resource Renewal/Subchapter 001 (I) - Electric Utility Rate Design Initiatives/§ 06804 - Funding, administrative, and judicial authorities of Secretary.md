@@ -14,7 +14,3 @@ The Secretary may—
 
 1978—Pub. L. 95–617 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration in two places.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6808 of this title; title 16 section 2633.
-

@@ -30,9 +30,9 @@ The standards and guidelines required by subsection (a) of this section shall in
 
 In developing standards and guidelines required by subsections (a) and (b) of this section, the Institute shall—
 
-&emsp;(1) consult with other agencies and offices (including, but not limited to, the Director of the Office of Management and Budget, the Departments of Defense and Energy, the National Security Agency, the General Accounting Office, and the Secretary of Homeland Security) to assure—
+&emsp;(1) consult with other agencies and offices (including, but not limited to, the Director of the Office of Management and Budget, the Departments of Defense and Energy, the National Security Agency, the Government Accountability Office, and the Secretary of Homeland Security) to assure—
 
-&emsp;&emsp;(A) use of appropriate information security policies, procedures, and techniques, in order to improve information security and avoid unnecessary and costly duplication of effort; and
+&emsp;&emsp;(A) use of appropriate information security policies, procedures, and techniques, in order to improve information security andavoid unnecessary and costly duplication of effort; and
 
 &emsp;&emsp;(B) that such standards and guidelines are complementary with standards and guidelines employed for the protection of national security systems and information contained in such systems;
 
@@ -94,7 +94,7 @@ As used in this section—
 
 &emsp;(5) the term “national security system” has the same meaning as provided in section 3532(b)(2) of such title.<sup>1</sup>
 
-(Mar. 3, 1901, ch. 872, §20, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(1), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269; Pub. L. 107–305, §§8(b), 9, 10, Nov. 27, 2002, 116 Stat. 2378, 2379; Pub. L. 107–347, title III, §303, Dec. 17, 2002, 116 Stat. 2957.)
+(Mar. 3, 1901, ch. 872, §20, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(1), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269; Pub. L. 107–305, §§8(b), 9, 10, Nov. 27, 2002, 116 Stat. 2378, 2379; Pub. L. 107–347, title III, §303, Dec. 17, 2002, 116 Stat. 2957; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -109,6 +109,8 @@ November 25, 2002, referred to in subsec. (c)(3) and (4), was in the original �
 A prior section 20 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to section 278q of this title.
 
 #### Amendments
+
+2004—Subsec. (c)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 2002—Pub. L. 107–347 added text of section and struck out former text which read as follows:
 
@@ -329,10 +331,6 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 272, 278g–4, 278h, 7406, 7407 of this title; title 6 section 512; title 40 sections 11302, 11331; title 44 sections 3504, 3533, 3538, 3543.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

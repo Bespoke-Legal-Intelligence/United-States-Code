@@ -80,11 +80,11 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 &emsp;(D) “repairman” means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
 
-(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723) or section 46301(b), 46302, 46303, 46318, or 47107(b) (as further defined by the Secretary under section 47107(<i>l</i>) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Under Secretary of Transportation for Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909) or a regulation prescribed or order issued under such chapter 449. The Under Secretary or Administrator shall give written notice of the finding of a violation and the penalty.
+(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723) or section 46301(b), 46302 (for a violation relating to section 46504), 46318, or 47107(b) (as further defined by the Secretary under section 47107(<i>l</i>) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), 46302 <sup>1</sup> (except for a violation relating to section 46504), 46303,<sup>1</sup> or a regulation prescribed or order issued under such chapter 449. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
 
-(3) In a civil action to collect a civil penalty imposed by the Under Secretary or Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
+(3) In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security or Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
 
-(4) Notwithstanding paragraph (2) of this subsection, the district courts of the United States have exclusive jurisdiction of a civil action involving a penalty the Under Secretary or Administrator initiates if—
+(4) Notwithstanding paragraph (2) of this subsection, the district courts of the United States have exclusive jurisdiction of a civil action involving a penalty the Secretary of Homeland Security or Administrator initiates if—
 
 &emsp;(A) the amount in controversy is more than—
 
@@ -180,7 +180,7 @@ Nonapplication.—(1) This section does not apply to the following when performi
 
 Small Business Concern Defined.—In this section, the term “small business concern” has the meaning given that term in section 3 of the Small Business Act (15 U.S.C. 632).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642; Pub. L. 107–296, title XVI, §1602, Nov. 25, 2002, 116 Stat. 2312; Pub. L. 108–176, title V, §503(a)–(c), Dec. 12, 2003, 117 Stat. 2557, 2558.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642; Pub. L. 107–296, title XVI, §1602, Nov. 25, 2002, 116 Stat. 2312; Pub. L. 108–176, title V, §503(a)–(c), Dec. 12, 2003, 117 Stat. 2557, 2558; Pub. L. 108–458, title IV, §4027(a), Dec. 17, 2004, 118 Stat. 3727.)
 
 Historical and Revision Notes
 
@@ -366,13 +366,21 @@ The date of enactment of the Vision 100—Century of Aviation Reauthorization Ac
 
 #### Amendments
 
+2004—Subsec. (d)(2). Pub. L. 108–458, §4027(a)(1)–(3), substituted “46302 (for a violation relating to section 46504),” for “46302, 46303,”, “The Secretary of Homeland Security may” for “The Under Secretary of Transportation for Security may”, “44909), 46302 (except for a violation relating to section 46504), 46303,” for “44909)”, and “The Secretary of Homeland Security or” for “The Under Secretary or”.
+
+Subsec. (d)(3). Pub. L. 108–458, §4027(a)(3), substituted “Secretary of Homeland Security or” for “Under Secretary or”.
+
+Subsec. (d)(4). Pub. L. 108–458, §4027(a)(3), substituted “Secretary of Homeland Security or” for “Under Secretary or” in introductory provisions.
+
+Subsec. (d)(4)(A). Pub. L. 108–458, §4027(a)(4), realigned margins.
+
 2003—Subsec. (a)(1). Pub. L. 108–176, §503(a)(1), substituted “$25,000 (or $1,100 if the person is an individual or small business concern)” for “$1,000” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 108–176, §503(a)(2), (3), struck out “or” before “section 47107(b)” and substituted “section), or section 47133” for “section)”.
 
 Subsec. (a)(2). Pub. L. 108–176, §503(a)(5), substituted “section 41719” for “section 41715” in two places.
 
-Pub. L. 108–176, §503(a)(4), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “A person operating an aircraft for the transportation of passengers or property for compensation (except an airman serving as an airman) is liable to the Government for a civil penalty of not more than $10,000 for violating—
+Pub. L. 108–176, §503(a)(4), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “A person operating an aircraft for the transportation of passengers or property for compensation (except an airman serving as an airman) is liable to the Governmentfor a civil penalty of not more than $10,000 for violating—
 
 &emsp;“(A) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
 
@@ -462,7 +470,7 @@ Subsec. (c)(1)(A). Pub. L. 104–287, §5(77)(D)(ii), (iii), struck out “or”
 
 Pub. L. 104–287, §5(77)(D)(i), substituted “chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714),” for “any of sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, or 41731–41742,”.
 
-Subsec. (d)(2). Pub. L. 104–287, §5(77)(E), substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902,44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, 44932–44938,”.
+Subsec. (d)(2). Pub. L. 104–287, §5(77)(E), substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, 44932–44938,”.
 
 Pub. L. 104–264, §1220(b), which directed amendment of par. (2) by inserting “44718(d),” after “44716,”, was repealed by Pub. L. 105–102.
 
@@ -538,7 +546,5 @@ Pub. L. 102–345, §2(c), Aug. 26, 1992, 106 Stat. 925, provided that: “Notwi
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 1133, 1153, 40109, 41110, 41705, 46304 of this title.
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

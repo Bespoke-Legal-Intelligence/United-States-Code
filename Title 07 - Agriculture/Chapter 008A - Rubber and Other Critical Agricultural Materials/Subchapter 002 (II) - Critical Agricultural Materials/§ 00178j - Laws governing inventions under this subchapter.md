@@ -4,7 +4,3 @@ Relative to the definitions of, title to, and licensing of inventions made or co
 
 (Pub. L. 95–592, §12, Nov. 4, 1978, 92 Stat. 2533.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 35 section 210.
-

@@ -24,7 +24,7 @@
 
 &emsp;(2) to cause or attempt to cause an agency to discriminate against any employee in the exercise by the employee of any right under this chapter;
 
-&emsp;(3) to coerce, discipline, fine, or attempt to coerce a member of the labor organization as punishment, reprisal, or for the purpose of hindering or impeding the member's work performance or productivity as an employee or the discharge of the member's duties as an employee;
+&emsp;(3) to coerce, discipline, fine, or attempt to coerce a member of the labor organization as punishment, reprisal, or for the purpose ofhindering or impeding the member's work performance or productivity as an employee or the discharge of the member's duties as an employee;
 
 &emsp;(4) to discriminate against an employee with regard to the terms or conditions of membership in the labor organization on the basis of race, color, creed, national origin, sex, age, preferential or nonpreferential civil service status, political affiliation, marital status, or handicapping condition;
 
@@ -58,15 +58,11 @@
 
 &emsp;(3) informs employees of the Government's policy relating to labor-management relations and representation,
 
-> shall not, if the expression contains no threat of reprisal or force or promise of benefit or was notmade under coercive conditions, (A) constitute an unfair labor practice under any provision of this chapter, or (B) constitute grounds for the setting aside of any election conducted under any provisions of this chapter.
+> shall not, if the expression contains no threat of reprisal or force or promise of benefit or was not made under coercive conditions, (A) constitute an unfair labor practice under any provision of this chapter, or (B) constitute grounds for the setting aside of any election conducted under any provisions of this chapter.
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1204.)
 
 #### Partial Suspension of Federal Service Labor-Management Relations
 
 Subsec. (a)(5) of this section suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces, and subsec. (a)(7) of this section suspended with regard to any regulation governing the implementation by the United States Forces, of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(b), (c) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under section 7103 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5596, 7103, 7120 of this title; title 2 section 1351.
 

@@ -56,7 +56,3 @@ Preclusion of Notice to Subject of Governmental Access.—A governmental entity 
 
 (Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1864.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2703, 2704, 3103a of this title.
-

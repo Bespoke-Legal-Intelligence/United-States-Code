@@ -26,9 +26,5 @@ The Secretary of the Interior shall certify to the Secretary of the Treasury, at
 
 1984—Subsec. (b). Pub. L. 98–381 substituted a period for “, except that the aggregate amount of such advances shall not exceed the sum of $165,000,000” at end of first sentence.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 617c, 617n, 617u, 618, 618a, 618f of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

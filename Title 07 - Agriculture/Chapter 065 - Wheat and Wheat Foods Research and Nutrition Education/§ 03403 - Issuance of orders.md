@@ -10,7 +10,3 @@ After notice and opportunity for hearing as provided in subsection (a) of this s
 
 (Pub. L. 95–113, title XVII, §1704, Sept. 29, 1977, 91 Stat. 1033.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3413 of this title.
-

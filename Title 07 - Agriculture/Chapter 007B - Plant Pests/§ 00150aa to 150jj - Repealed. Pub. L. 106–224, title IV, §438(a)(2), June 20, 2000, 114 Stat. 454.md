@@ -18,7 +18,7 @@ Section 150hh, Pub. L. 85–36, title I, §109, May 23, 1957, 71 Stat. 34, relat
 
 Section 150ii, Pub. L. 85–36, title I, §111, May 23, 1957, 71 Stat. 34, provided that authority conferred by this chapter was to be in addition to that conferred by other statutes.
 
-Section 150jj, Pub. L. 85–36, title I, §111, May 23, 1957, 71 Stat. 35, provided that nothing in this chapter was to amend or repeal provisions of the Plant Quarantine Act.
+Section 150jj, Pub. L. 85–36, title I, §111, May 23, 1957, 71 Stat. 35, provided that nothing in this chapter was toamend or repeal provisions of the Plant Quarantine Act.
 
 #### Short Title
 

@@ -10,7 +10,7 @@ Section 8 of Pub. L. 94–583 provided that: “This Act \[enacting this chapter
 
 #### Short Title
 
-For short title of Pub. L. 94–583 as the “Foreign Sovereign Immunities Act of 1976”, see section 1 of Pub. L.94–583, set out as a Short Title of 1976 Amendments note under section 1 of this title.
+For short title of Pub. L. 94–583 as the “Foreign Sovereign Immunities Act of 1976”, see section 1 of Pub. L. 94–583, set out as a Short Title of 1976 Amendments note under section 1 of this title.
 
 #### Separability
 

@@ -1,9 +1,5 @@
 Part B—Steens Mountain Wilderness Area
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 460nnn, 460nnn–24 of this title.
-
 
 ---
 

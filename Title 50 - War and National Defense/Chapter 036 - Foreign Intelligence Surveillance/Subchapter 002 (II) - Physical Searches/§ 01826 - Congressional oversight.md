@@ -10,7 +10,3 @@ On a semiannual basis the Attorney General shall fully inform the Permanent Sele
 
 (Pub. L. 95–511, title III, §306, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3451.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1822 of this title.
-

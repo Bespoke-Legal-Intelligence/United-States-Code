@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) the number and amounts of separation incentive payments to be offered; and
 
-&emsp;&emsp;(C) a description of how such incentive payments will facilitate the successful transfer of the Panama Canal to the Republic of Panama;
+&emsp;&emsp;(C) a description of how such incentive payments will facilitate the successfultransfer of the Panama Canal to the Republic of Panama;
 
 &emsp;(3) a separation incentive payment under section 663 may be paid to a Commission employee only to the extent necessary to facilitate the successful transfer of the Panama Canal by the United States of America to the Republic of Panama as required by the Panama Canal Treaty of 1977;
 

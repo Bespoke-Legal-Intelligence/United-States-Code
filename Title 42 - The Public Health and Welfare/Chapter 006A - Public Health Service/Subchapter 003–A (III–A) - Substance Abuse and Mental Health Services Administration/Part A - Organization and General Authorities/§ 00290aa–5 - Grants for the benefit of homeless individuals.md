@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall award grants, contracts and cooperative agreements to community-based public and private nonprofit entities for the purposes of providing mental health and substance abuse services for homeless individuals. In carrying out this section, the Secretary shall consult with the Interagency Council on the Homeless, established under section 11311 of this title.
+The Secretary shall award grants, contracts and cooperative agreements to community-based public and private nonprofit entities for the purposes of providing mental health and substance abuse services for homeless individuals. In carrying out this section, the Secretary shall consult with the Interagency Council on the Homeless <sup>1</sup>, established under section 11311 of this title.
 
 #### (b) Preferences
 
@@ -60,7 +60,13 @@ Subsec. (a). Pub. L. 106–400 made technical amendment to reference in original
 
 1987—Subsecs. (c), (d). Pub. L. 100–77 added subsec. (c), redesignated former subsec. (c) as (d), and substituted “subsection (a) or (c)” for “subsection (a)”.
 
+#### Change of Name
+
+Interagency Council on the Homeless changed to United States Interagency Council on Homelessness by Pub. L. 108–199, div. G, title II, §216, Jan. 23, 2004, 118 Stat. 394.
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as a note under section 236 of this title.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

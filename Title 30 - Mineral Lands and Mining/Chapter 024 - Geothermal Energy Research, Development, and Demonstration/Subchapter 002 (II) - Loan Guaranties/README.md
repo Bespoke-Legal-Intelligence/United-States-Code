@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—LOAN GUARANTIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1121, 1125, 1164 of this title.
-
 
 ---
 

@@ -4,7 +4,3 @@ The Secretary of the Treasury shall invest from time to time in interest-bearing
 
 (Pub. L. 96–465, title I, §819, Oct. 17, 1980, 94 Stat. 2120.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4071a of this title.
-

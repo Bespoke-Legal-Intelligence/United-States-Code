@@ -10,7 +10,7 @@
 
 &emsp;(ii) 90 percent of the amount received and used under this part for the first year it participated in the program.
 
-(B) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1999 and is afirst or second time participant, an amount equal to the greatest of—
+(B) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1999 and is a first or second time participant, an amount equal to the greatest of—
 
 &emsp;(i) $5,000;
 
@@ -42,7 +42,7 @@
 
 #### (b) Allocation of excess based on share of excess eligible amounts
 
-(1) From the remainder of the amount appropriated pursuant to section 2751(b) of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
+(1) From the remainder of the amount appropriated pursuant to section 2751(b) of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which hasan excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
 
 (2) For any eligible institution, the excess eligible amount is the amount, if any, by which—
 
@@ -104,7 +104,7 @@
 
 #### (d) Reallocation of excess allocations
 
-(1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 5 percent of the total amount of funds granted to such institution under this section to compensate students employed in tutoring in reading and family literacy activities in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (b) of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
+(1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 5 percent of the total amount of funds granted to such institution under this section to compensate studentsemployed in tutoring in reading and family literacy activities in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (b) of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
 
 (2) If, under paragraph (1) of this subsection, an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing this paragraph would be contrary to the interest of the program.
 
@@ -210,11 +210,7 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 #### College Work-Study Allotment for Specific Fiscal Years
 
-Pub. L. 98–8, title I, §100, Mar. 24, 1983, 97 Stat. 27, provided that notwithstanding subsecs. (a), (b), (c), and (e) of this section and section 11 of Public Law 97–301, set out as a note below, the Secretary should allot the sums appropriated pursuant to section 2751(b) of this title for fiscal year 1983 among the States so that each State's allotment bore the same ratio to the total amount appropriated as that State's allotment in fiscalyear 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981.
+Pub. L. 98–8, title I, §100, Mar. 24, 1983, 97 Stat. 27, provided that notwithstanding subsecs. (a), (b), (c), and (e) of this section and section 11 of Public Law 97–301, set out as a note below, the Secretary should allot the sums appropriated pursuant to section 2751(b) of this title for fiscal year 1983 among the States so that each State's allotment bore the same ratio to the total amount appropriated as that State's allotment in fiscal year 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981.
 
 Pub. L. 97–301, §11, Oct. 13, 1982, 96 Stat. 1403, which provided that notwithstanding subsecs. (a), (b), (c), and (e) of this section, if in fiscal year 1983, fiscal year 1984, or fiscal year 1985 the sums appropriated pursuant to section 2751(b) of this title were less than the sums appropriated pursuant to such section for the fiscal year 1981, the Secretary should allot the sums appropriated pursuant to that section for such fiscal year among the States so that each State's allotment bore the same ratio to the total amount appropriated as that State's allotment in fiscal year 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981 was repealed by Pub. L. 99–498, title IV, §408(b), Oct. 17, 1986, 100 Stat. 1495, eff. with respect to any academic year beginning on or after July 1, 1988.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2756 of this title; title 20 sections 1089, 1095.
 

@@ -8,7 +8,3 @@ The Legislature of Puerto Rico may create public corporate authorities to undert
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 916 of this title.
-

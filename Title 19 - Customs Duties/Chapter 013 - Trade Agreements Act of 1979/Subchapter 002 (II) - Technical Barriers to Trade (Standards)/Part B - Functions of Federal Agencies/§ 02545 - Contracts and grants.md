@@ -8,7 +8,7 @@ For purposes of carrying out this subchapter, and otherwise encouraging complian
 
 &emsp;(2) to facilitate international trade through the appropriate international and domestic standards-related activities;
 
-&emsp;(3) to provide, if appropriate, and pursuant to section 2543 of this title, adequate UnitedStates representation in international standards-related activities; and
+&emsp;(3) to provide, if appropriate, and pursuant to section 2543 of this title, adequate United States representation in international standards-related activities; and
 
 &emsp;(4) to encourage United States exports through increased awareness of foreign standards-related activities that may affect United States exports.
 

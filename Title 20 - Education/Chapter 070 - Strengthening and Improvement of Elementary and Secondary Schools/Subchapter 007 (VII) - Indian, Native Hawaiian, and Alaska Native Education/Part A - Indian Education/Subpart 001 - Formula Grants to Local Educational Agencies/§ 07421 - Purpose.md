@@ -12,7 +12,3 @@ It is the purpose of this subpart to support local educational agencies in their
 
 A prior section 7421, Pub. L. 89–10, title VII, §7111, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3719, related to financial assistance for bilingual education, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6911 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7425 of this title.
-

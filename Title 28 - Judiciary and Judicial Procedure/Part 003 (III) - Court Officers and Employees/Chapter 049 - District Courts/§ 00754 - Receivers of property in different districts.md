@@ -24,7 +24,3 @@ Under section 117 of title 28, U.S.C., 1940 ed., failure to file copies of the c
 
 Changes were made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 1956.
-

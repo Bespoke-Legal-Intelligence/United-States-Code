@@ -8,7 +8,3 @@ It shall be unlawful for any person willfully to fail or refuse to permit entry 
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6761, 6762 of this title.
-

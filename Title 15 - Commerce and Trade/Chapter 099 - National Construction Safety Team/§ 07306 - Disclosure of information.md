@@ -22,7 +22,3 @@ A Team and the National Institute of Standards and Technology shall not publicly
 
 (Pub. L. 107–231, §7, Oct. 1, 2002, 116 Stat. 1475.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7301 of this title.
-

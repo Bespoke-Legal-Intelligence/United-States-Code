@@ -26,7 +26,3 @@ Changes were made in phraseology.
 
 1957—Pub. L. 85–207 substituted “II, IV, or V” for “II or IV”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 225 of this title.
-

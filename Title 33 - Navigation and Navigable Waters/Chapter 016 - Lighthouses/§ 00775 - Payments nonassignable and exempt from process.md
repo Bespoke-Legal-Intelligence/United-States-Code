@@ -4,7 +4,3 @@ No payment under sections 771 to 775 of this title shall be assignable, either i
 
 (Aug. 19, 1950, ch. 761, §5, 64 Stat. 466.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 773, 774, 776 of this title.
-

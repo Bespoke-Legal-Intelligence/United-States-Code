@@ -48,7 +48,3 @@ Without regard to the amount in controversy, any action under this section may b
 
 (Pub. L. 90–321, title IX, §915, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3737.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1693f of this title.
-

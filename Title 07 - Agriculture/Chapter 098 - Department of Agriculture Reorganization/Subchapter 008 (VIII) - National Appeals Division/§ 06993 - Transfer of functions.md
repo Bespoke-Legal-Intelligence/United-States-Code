@@ -20,9 +20,5 @@ Section 1433e of this title, referred to in par. (1), was repealed by Pub. L. 10
 
 Section 1983b of this title, referred to in par. (2), was repealed by Pub. L. 103–354, title II, §281(c), Oct. 13, 1994, 108 Stat. 3233.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6912 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

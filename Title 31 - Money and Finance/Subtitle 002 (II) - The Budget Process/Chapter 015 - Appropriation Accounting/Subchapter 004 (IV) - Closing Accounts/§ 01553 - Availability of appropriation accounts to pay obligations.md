@@ -6,7 +6,7 @@
 
 (2) The total amount of charges to an account under paragraph (1) may not exceed an amount equal to 1 percent of the total appropriations for that account.
 
-(c)(1) In the case of a fixed appropriation account with respect to which the period of availability for obligation has ended, if an obligation of funds from that account to provide funds for a program, project, or activity to cover amounts required for contract changes would cause the total amount of obligations from that appropriation during a fiscal year for contract changes for that program, project, or activity to exceed $4,000,000, the obligation may only be made if the obligation is approved by the head of the agency (or an officer of the agency within the Office of the head of the agency to whom the head of the agency has delegated the authority to approve such an obligation).
+(c)(1) In the case of a fixed appropriation account with respect to which the period of availability for obligation has ended, if an obligation of funds from that account to provide funds for a program, project, or activity to cover amountsrequired for contract changes would cause the total amount of obligations from that appropriation during a fiscal year for contract changes for that program, project, or activity to exceed $4,000,000, the obligation may only be made if the obligation is approved by the head of the agency (or an officer of the agency within the Office of the head of the agency to whom the head of the agency has delegated the authority to approve such an obligation).
 
 (2) In the case of a fixed appropriation account with respect to which the period of availability for obligation has ended, if an obligation of funds from that account to provide funds for a program, project, or activity to cover amounts required for contract changes would cause the total amount obligated from that appropriation during a fiscal year for that program, project, or activity to exceed $25,000,000, the obligation may not be made until—
 
@@ -63,8 +63,4 @@ In subsection (b), the words “Comptroller General” are substituted for “Co
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–510 applicable to any appropriation account the obligated balance of which, on Nov. 5, 1990, has not been transferred under section 1552(a)(1) of this title, as in effect Nov. 4, 1990, with transitional provisions, see section 1405(b) of Pub. L. 101–510, set out as a note under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1554 of this title.
 

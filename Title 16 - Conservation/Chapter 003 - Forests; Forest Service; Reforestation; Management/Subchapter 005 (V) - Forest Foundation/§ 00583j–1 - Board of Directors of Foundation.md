@@ -22,7 +22,7 @@ The Board shall meet at the call of the Chairman at least once a year. If a Dire
 
 #### (f) Reimbursement of expenses
 
-Voting members of the Board shall serve without pay, but may be reimbursed for the actualand necessary traveling and subsistence expenses incurred by them in the performance of their duties for the Foundation. Such reimbursement may not exceed such amount as would be authorized under section 5703 of title 5 for the payment of expenses and allowances for individuals employed intermittently in the Federal Government service.
+Voting members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of their duties for the Foundation. Such reimbursement may not exceed such amount as would be authorized under section 5703 of title 5 for the payment of expenses and allowances for individuals employed intermittently in the Federal Government service.
 
 #### (g) General powers
 
@@ -30,7 +30,7 @@ The Board may complete the organization of the Foundation by appointing employee
 
 #### (h) Officers and employees
 
-Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their services. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+Officers and employees may not be appointed until the Foundation has sufficient funds to payfor their services. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
 (Pub. L. 101–593, title IV, §403, Nov. 16, 1990, 104 Stat. 2970; Pub. L. 107–63, title II, Nov. 5, 2001, 115 Stat. 450.)
 
@@ -43,8 +43,4 @@ The provisions of title 5 governing appointments in the competitive service, ref
 #### Amendments
 
 2001—Subsec. (a). Pub. L. 107–63 inserted “At the discretion of the Secretary of Agriculture, the Secretary may increase the number of Directors to not more than twenty.” after first sentence.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 583j–3 of this title.
 

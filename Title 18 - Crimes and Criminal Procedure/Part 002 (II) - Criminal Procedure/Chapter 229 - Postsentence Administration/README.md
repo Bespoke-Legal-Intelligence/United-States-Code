@@ -45,10 +45,6 @@ Section 3623, added Pub. L. 98–596, §6(a), Oct. 30, 1984, 98 Stat. 3137, rela
 
 Section 3624, added Pub. L. 98–596, §6(a), Oct. 30, 1984, 98 Stat. 3138, related to security for stayed fine.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3558, 3673 of this title.
-
 
 ---
 

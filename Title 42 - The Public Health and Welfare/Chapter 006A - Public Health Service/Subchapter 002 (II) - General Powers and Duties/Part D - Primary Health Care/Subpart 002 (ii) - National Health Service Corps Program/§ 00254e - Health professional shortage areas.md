@@ -158,7 +158,7 @@ Pub. L. 101–597, §102(c)(4), redesignated par. (3) as (2) and struck out form
 
 “(A) each health systems agency (designated under section 300<i>l</i>–4 of this title) for a health service area which includes all or any part of the area, population group, medical facility, or other public facility so designated; or
 
-“(B) the State health planning and development agency of the State (designated under section 300m ofthis title) if there is a part of such area, population group, medical facility, or other public facility within a health service area for which no health systems agency has been designated; and”.
+“(B) the State health planning and development agency of the State (designated under section 300m of this title) if there is a part of such area, population group, medical facility, or other public facility within a health service area for which no health systems agency has been designated; and”.
 
 Subsecs. (g), (h). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
@@ -219,8 +219,4 @@ Reference to community health center, migrant health center, public housing heal
 #### Evaluation of Criteria Used To Designate Health Manpower Shortage Areas; Report to Congress
 
 Section 2702(c) of Pub. L. 97–35 directed the Secretary of Health and Human Services, effective Oct. 1, 1981, to evaluate the criteria used under section 254e(b) of this title to determine if the use of the criteria resulted in areas which did not have a shortage of health professions personnel being designated as health manpower shortage areas, and to consider different criteria (including the actual use of health professions personnel in an area by the residents, taking into account their health status and indicators of unmet demand and likelihood that such demand would not be met in two years) which might be used to designate health manpower shortage areas. The Secretary was to report the results of his activities to Congress not later than Nov. 30, 1982.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 254c, 254d, 254f, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 254n, 254p, 254t, 256f, 295p, 296j, 297q, 1395<i>l</i>, 1395m, 1395x, 9840, 11709 of this title; title 5 section 8902; title 8 section 1182.
 

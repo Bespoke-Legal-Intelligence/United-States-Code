@@ -50,7 +50,3 @@ Section 2, referred to in subsec. (a)(1), means section 2 of act Feb. 25, 1920, 
 
 The date of enactment of this Act, referred to in subsecs. (f) and (g), probably means the date of enactment of Pub. L. 94–377, which was approved Aug. 4, 1976.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1272 of this title.
-

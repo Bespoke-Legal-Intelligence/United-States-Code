@@ -14,7 +14,3 @@ The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referr
 
 Pub. L. 106–402, §401(b)(15)(A)(ii), substituted “subtitle B, D, or E of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part B, D, or E of the Developmental Disabilities Assistance and Bill of Rights Act”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6062, 6082, 14405 of this title.
-

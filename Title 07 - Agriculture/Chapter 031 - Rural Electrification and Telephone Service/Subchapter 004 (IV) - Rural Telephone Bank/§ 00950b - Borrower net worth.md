@@ -12,7 +12,3 @@ Except as provided in subsection (b)(2) of section 948 of this title, notwithsta
 
 Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a note under section 921a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 939 of this title.
-

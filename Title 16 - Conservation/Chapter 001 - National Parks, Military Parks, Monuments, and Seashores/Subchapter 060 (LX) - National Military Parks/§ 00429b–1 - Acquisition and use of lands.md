@@ -8,7 +8,7 @@
 
 #### (b) Acquisition of fee simple title with the consent of owner; hearing and review
 
-With respect to areas within the 1954 boundaries of the park, as identified on the map referred to in section 429b of this title, the Secretary may not acquire fee simple title to such areas without the consent of the owner so long as the lands continue to be devoted to a use which is the same as that in effect on September 1, 1980. Further, if the Secretary proposes to acquire fee simple title to such property because of a change in use, the owner of such property may seek a review of the proposed acquisition of his or her property and is entitled to a hearing on the record in accordance with section 554 of title 5.
+With respect to areas within the 1954 boundaries of the park, as identified on the map referred to in section 429b of this title, the Secretary may not acquire fee simple title to such areas without the consent of the owner so long as the lands continue to be devoted to a use which is the same as that in effect on September 1, 1980. Further, if the Secretary proposes to acquire fee simple title to such property because of a change in use, the owner of such property may seek a review of the proposed acquisition ofhis or her property and is entitled to a hearing on the record in accordance with section 554 of title 5.
 
 #### (c) Secretary authorized to make land available for Route 234 bypass
 
@@ -23,8 +23,4 @@ The Secretary may not close any State roads within the park unless action permit
 #### Amendments
 
 1988—Subsec. (a). Pub. L. 100–647 designated existing provisions as par. (1) and added par. (2).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 429b, 429b–2 to 429b–5 of this title.
 

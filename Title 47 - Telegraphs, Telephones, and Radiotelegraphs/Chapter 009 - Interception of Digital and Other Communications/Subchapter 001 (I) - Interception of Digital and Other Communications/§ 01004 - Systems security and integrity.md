@@ -8,7 +8,3 @@ A telecommunications carrier shall ensure that any interception of communication
 
 Section effective on the date that is 4 years after Oct. 25, 1994, see section 111(b) of Pub. L. 103–414, set out as a note under section 1001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 229 of this title.
-

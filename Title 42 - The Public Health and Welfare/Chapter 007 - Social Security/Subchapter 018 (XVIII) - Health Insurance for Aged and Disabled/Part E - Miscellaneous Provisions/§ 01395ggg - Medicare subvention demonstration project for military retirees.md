@@ -44,7 +44,7 @@ In this section:
 
 #### (8) Trust funds
 
-&emsp;The term “trust funds” means the Federal Hospital Insurance Trust Fund established insection 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund established in section 1395t of this title.
+&emsp;The term “trust funds” means the Federal Hospital Insurance Trust Fund established in section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund established in section 1395t of this title.
 
 #### (b) Demonstration project
 
@@ -150,7 +150,7 @@ Participation of medicare-eligible military retirees or dependents in the demons
 
 #### (1) Modification of TRICARE contracts
 
-&emsp;In carrying out the demonstration project, the Secretary of Defense is authorized to amend existing TRICARE contracts (including contracts with designated providers) in order to provide the medicare health care services to the medicare-eligible military retirees and dependents enrolled in the demonstration project consistent with part C of this subchapter.
+&emsp;In carrying out the demonstration project, the Secretary of Defense is authorized toamend existing TRICARE contracts (including contracts with designated providers) in order to provide the medicare health care services to the medicare-eligible military retirees and dependents enrolled in the demonstration project consistent with part C of this subchapter.
 
 #### (2) Health care benefits
 
@@ -208,7 +208,7 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 #### (B) Annual report by the Comptroller General
 
-&emsp;&emsp;Not later than December 31 of each year during which the demonstration project isconducted, the Comptroller General shall submit to the administering Secretaries and the appropriate committees of Congress a report on the extent, if any, to which the costs of the Secretary under the medicare program under this subchapter increased during the preceding fiscal year as a result of the demonstration project.
+&emsp;&emsp;Not later than December 31 of each year during which the demonstration project is conducted, the Comptroller General shall submit to the administering Secretaries and the appropriate committees of Congress a report on the extent, if any, to which the costs of the Secretary under the medicare program under this subchapter increased during the preceding fiscal year as a result of the demonstration project.
 
 #### (2) Required response in case of increase in costs
 
@@ -226,7 +226,7 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 &emsp;&emsp;&emsp;(i) under subparagraph (A)(i) shall include payment of the amount of such increased expenditures by the Secretary of Defense from the current medical care appropriation of the Department of Defense to the trust funds; and
 
-&emsp;&emsp;&emsp;(ii) under subparagraph (A)(ii) shall include suspending or terminating the demonstration project (in whole or in part) or lowering the amount of payment under subsection (i)(1) of this section.
+&emsp;&emsp;&emsp;(ii) under subparagraph (A)(ii) shall include suspending or terminating the demonstration project (in whole or in part) orlowering the amount of payment under subsection (i)(1) of this section.
 
 #### (k) Evaluation and reports
 
@@ -270,7 +270,7 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 #### Amendment of Section
 
-<i>Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(c)(2), (3), (d), (f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–177 to 1654A–179, provided that, effective on the date as is provided for in the</i><i>agreement proposed under the amendment made by section 1 \[\[div. A\], title VII, §712(c)(1)\] of Pub. L. 106–398 to subsection (b)(4) of this section and as is provided for in an Act enacted after Oct. 30, 2000, this section is amended as follows:</i>
+<i>Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(c)(2), (3), (d), (f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–177 to 1654A–179, provided that, effective on the date as is provided for in the agreement proposed under the amendment made by section 1 \[\[div. A\], title VII, §712(c)(1)\] of Pub. L. 106–398 to subsection (b)(4) of this section and as is provided for in an Act enacted after Oct. 30, 2000, this section is amended as follows:</i>
 
 <i>(1) in the section catchline, by striking “demonstration project” and inserting “program”;</i>
 
@@ -298,7 +298,7 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 #### <i>“(4) Cap on amount</i>
 
-&emsp;<i>“The maximum aggregate expenditures from the trust funds under this subsection pursuant to the agreement entered into between the administering Secretaries under subsection (b) of this section for a fiscal year (before fiscal year 2006) shall not exceed the amount agreed by the Secretaries to be the amount that would have been expended from the trust funds on beneficiaries who enroll in the program, had the program not been established, plus the following:</i>
+&emsp;<i>“The maximum aggregate expenditures from the trust funds under this subsection pursuant to the</i><i>agreement entered into between the administering Secretaries under subsection (b) of this section for a fiscal year (before fiscal year 2006) shall not exceed the amount agreed by the Secretaries to be the amount that would have been expended from the trust funds on beneficiaries who enroll in the program, had the program not been established, plus the following:</i>
 
 &emsp;&emsp;<i>“(A) $35,000,000 for fiscal year 2002.</i>
 
@@ -386,7 +386,7 @@ Amendment by section 1 \[\[div. A\], title VII, §712(a)(2)\] of Pub. L. 106–3
 
 Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–179, provided that:
 
-“(1) Upon negotiating an agreement under the amendment made by subsection (c)(1) \[amending this section\], the Secretary of Defense and the Secretary of Health and Human Services shall jointly transmit a notification of the proposed agreement to the Committee on Armed Services and the Committee on Finance of the Senate and the Committee on Armed Services and the Committee on Ways and Means of the House of Representatives, and shall include with the transmittal a copy of the proposed agreement and all related agreements and supporting documents.
+“(1) Upon negotiating an agreement under the amendment made by subsection (c)(1) \[amending thissection\], the Secretary of Defense and the Secretary of Health and Human Services shall jointly transmit a notification of the proposed agreement to the Committee on Armed Services and the Committee on Finance of the Senate and the Committee on Armed Services and the Committee on Ways and Means of the House of Representatives, and shall include with the transmittal a copy of the proposed agreement and all related agreements and supporting documents.
 
 “(2) Such proposed agreement shall take effect, and the amendments made by subsections (c)(2), (c)(3), (d), and (e) \[amending this section\] shall take effect, on such date as is provided for in such agreement and in an Act enacted after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -397,10 +397,6 @@ Pub. L. 107–314, div. A, title VII, §713, Dec. 2, 2002, 116 Stat. 2589, provi
 #### Implementation Plan for Veterans Subvention
 
 Section 4015(b) of Pub. L. 105–33 provided that: “Not later than 12 months after the start of the demonstration project, the Secretary of Health and Human Services and the Secretary of Veterans Affairs shall jointly submit to Congress a detailed implementation plan for a subvention demonstration project (that follows the model of the demonstration project conducted under section 1896 of the Social Security Act \[this section\] (as added by subsection (a)) to begin in 1999 for veterans (as defined in section 101 of title 38, United States Code) that are eligible for benefits under title XVIII of the Social Security Act \[this subchapter\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 1108.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

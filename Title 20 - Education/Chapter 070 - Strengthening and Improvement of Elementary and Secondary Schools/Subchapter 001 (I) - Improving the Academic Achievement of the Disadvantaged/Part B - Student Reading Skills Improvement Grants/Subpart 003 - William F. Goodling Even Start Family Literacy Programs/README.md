@@ -1,9 +1,5 @@
 subpart 3—william f. goodling even start family literacy programs
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 5891b, 6302, 7544, 7801, 7881 of this title.
-
 
 ---
 

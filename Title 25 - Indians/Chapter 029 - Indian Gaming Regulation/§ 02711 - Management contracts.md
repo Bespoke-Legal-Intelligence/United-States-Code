@@ -78,7 +78,3 @@ The Commission shall require a potential contractor to pay a fee to cover the co
 
 (Pub. L. 100–497, §12, Oct. 17, 1988, 102 Stat. 2479.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2704, 2705, 2710, 2712, 2714 of this title.
-

@@ -8,7 +8,3 @@ The Secretary is directed to make application through appropriate channels to ot
 
 “Department of Commerce” substituted in text for “Department of the Interior” in view of transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 755 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 760c of this title.
-

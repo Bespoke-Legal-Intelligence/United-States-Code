@@ -1,9 +1,5 @@
 Part A—Volunteers in Service to America
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 4972, 5055, 5061, 5081, 12576, 12651e of this title; title 5 sections 8332, 8334, 8411, 8422; title 22 section 4071c.
-
 
 ---
 

@@ -8,7 +8,7 @@ Developmental Work and Service Testing.—The Administrator of the Federal Aviat
 
 Research.—The Administrator shall conduct or supervise research—
 
-&emsp;(1) to develop technologies and analyze information to predict the effects of aircraft design, maintenance, testing, wear, and fatigueon the life of aircraft, including nonstructural aircraft systems, and air safety;
+&emsp;(1) to develop technologies and analyze information to predict the effects of aircraft design, maintenance, testing, wear, and fatigue on the life of aircraft, including nonstructural aircraft systems, and air safety;
 
 &emsp;(2) to develop methods of analyzing and improving aircraft maintenance technology and practices, including nondestructive evaluation of aircraft structures;
 
@@ -24,7 +24,7 @@ Research.—The Administrator shall conduct or supervise research—
 
 (c)
 
-Authority To Buy Items Offering Special Advantages.—In carrying out this section, the Administrator, by negotiation or otherwise, may buy or exchange experimental aircraft, aircraft engines, propellers, and appliances that the Administrator decides may offer special advantages to aeronautics.
+Authority To Buy Items Offering Special Advantages.—In carrying out this section, the Administrator, by negotiation or otherwise,may buy or exchange experimental aircraft, aircraft engines, propellers, and appliances that the Administrator decides may offer special advantages to aeronautics.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1176; Pub. L. 106–181, title IX, §904, Apr. 5, 2000, 114 Stat. 196.)
 
@@ -125,8 +125,4 @@ In General.—The Administrator \[of the Federal Aviation Administration\] may w
 “(b)
 
 Report.—Not later than 6 months after entering into an agreement with a consortium described in subsection (a), the Administrator shall transmit to Congress a report on the goals and efforts of the consortium.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44501, 44508, 48102 of this title.
 

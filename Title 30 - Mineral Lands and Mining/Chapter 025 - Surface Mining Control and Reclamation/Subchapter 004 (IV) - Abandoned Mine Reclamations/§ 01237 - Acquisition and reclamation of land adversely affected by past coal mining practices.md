@@ -16,7 +16,7 @@ If the Secretary or the State pursuant to an approved State program, makes a fin
 
 #### (b) Studies or exploratory work
 
-The Secretary, his agents, employees, or contractors or the State pursuant to an approved State program, shall have the right to enter upon any property for the purpose of conductingstudies or exploratory work to determine the existence of adverse effects of past coal mining practices and to determine the feasibility of restoration, reclamation, abatement, control, or prevention of such adverse effects. Such entry shall be construed as an exercise of the police power for the protection of public health, safety, and general welfare and shall not be construed as an act of condemnation of property nor trespass thereon.
+The Secretary, his agents, employees, or contractors or the State pursuant to an approved State program, shall have the right to enter upon any property for the purpose of conducting studies or exploratory work to determine the existence of adverse effects of past coal mining practices and to determine the feasibility of restoration, reclamation, abatement, control, or prevention of such adverse effects. Such entry shall be construed as an exercise of the police power for the protection of public health, safety, and general welfare and shall not be construed as an act of condemnation of property nor trespass thereon.
 
 #### (c) Requirements for acquisition of affected land
 
@@ -26,7 +26,7 @@ The Secretary or the State pursuant to an approved State program, may acquire an
 
 &emsp;(2) permanent facilities such as a treatment plant or a relocated stream channel will be constructed on the land for the restoration, reclamation, abatement, control, or prevention of the adverse effects of past coal mining practices; or
 
-&emsp;(3) acquisition of coal refuse disposal sites and all coal refuse thereon will serve the purposes of this subchapter or that public ownership is desirable to meet emergency situations and prevent recurrences of the adverse effects of past coal mining practices.
+&emsp;(3) acquisition of coal refuse disposal sites and all coal refuse thereon will serve the purposes of this subchapter or that public ownership is desirable to meet emergency situationsand prevent recurrences of the adverse effects of past coal mining practices.
 
 #### (d) Title to affected land; value
 
@@ -48,7 +48,7 @@ The Secretary, in formulating regulations for making grants to the States to acq
 
 #### (h) Construction or rehabilitation of housing for disabled, displaced, or dislocated persons; grants
 
-In addition to the authority to acquire land under subsection (d) of this section the Secretary is authorized to use money in the fund to acquire land by purchase, donation, or condemnation, and to reclaim and transfer acquired land to any State or to a political subdivision thereof, or to any person, firm, association, or corporation, if he determines that such is an integral and necessary element of an economically feasible plan for the project to construct or rehabilitate housing for persons disabled as the result of employment in the mines or work incidental thereto, persons displaced by acquisition of land pursuant to this section, or persons dislocated as the result of adverse effects of coal mining practices which constitute an emergency as provided in section 1240 of this title or persons dislocated as the result of natural disasters or catastrophic failures from any cause. Suchactivities shall be accomplished under such terms and conditions as the Secretary shall require, which may include transfers of land with or without monetary consideration: <i>Provided</i>, That, to the extent that the consideration is below the fair market value of the land transferred, no portion of the difference between the fair market value and the consideration shall accrue as a profit to such persons, firm, association, or corporation. No part of the funds provided under this subchapter may be used to pay the actual construction costs of housing. The Secretary may carry out the purposes of this subsection directly or he may make grants and commitments for grants, and may advance money under such terms and conditions as he may require to any State, or any department, agency, or instrumentality of a State, or any public body or nonprofit organization designated by a State.
+In addition to the authority to acquire land under subsection (d) of this section the Secretary is authorized to use money in the fund to acquire land by purchase, donation, or condemnation, and to reclaim and transfer acquired land to any State or to a political subdivision thereof, or to any person, firm, association, or corporation, if he determines that such is an integral and necessary element of an economically feasible plan for the project to construct or rehabilitate housing for persons disabled as the result of employment in the mines or work incidental thereto, persons displaced by acquisition of land pursuant to this section, or persons dislocated as the result of adverse effects of coal mining practices which constitute an emergency as provided in section 1240 of this title or persons dislocated as the result of natural disasters or catastrophic failures from any cause. Such activities shall be accomplished under such terms and conditions as the Secretary shall require, which may include transfers of land with or without monetary consideration: <i>Provided</i>, That, to the extent that the consideration is below the fair market value of the land transferred, no portion of the difference between the fair market value and the consideration shall accrue as a profit to such persons, firm, association, or corporation. No part of the funds provided under this subchapter may be used to pay the actual construction costs of housing. The Secretary may carry out the purposes of this subsection directly or he may make grants and commitments for grants, and may advance money under such terms and conditions as he may require to any State, or any department, agency, or instrumentality of a State, or any public body or nonprofit organization designated by a State.
 
 (Pub. L. 95–87, title IV, §407, Aug. 3, 1977, 91 Stat. 462; Pub. L. 101–508, title VI, §6012(d)(4)–(7), Nov. 5, 1990, 104 Stat. 1388–298.)
 
@@ -63,8 +63,4 @@ Subsec. (g)(2). Pub. L. 101–508, §6012(d)(7), substituted “use or” for �
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. L. 101–508 set out as a note under section 1231 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1240a of this title.
 

@@ -6,7 +6,7 @@ It shall be unlawful for any employer or association of employers or any person 
 
 &emsp;(1) to any representative of any of his employees who are employed in an industry affecting commerce; or
 
-&emsp;(2) to any labor organization, or any officer or employee thereof, which represents, seeks to represent, or would admit to membership, any of the employees of such employer who are employed in an industry affecting commerce; or
+&emsp;(2) to any labor organization, or any officer or employee thereof, which represents, seeksto represent, or would admit to membership, any of the employees of such employer who are employed in an industry affecting commerce; or
 
 &emsp;(3) to any employee or group or committee of employees of such employer employed in an industry affecting commerce in excess of their normal compensation for the purpose of causing such employee or group or committee directly or indirectly to influence any other employees in the exercise of the right to organize and bargain collectively through representatives of their own choosing; or
 
@@ -79,8 +79,4 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 #### Applicability to Collective Bargaining Agreements
 
 Amendment by Pub. L. 95–524 not to affect terms and conditions of any collective bargaining agreement whether in effect prior to or entered into after Oct. 27, 1978, see section 6(e) of Pub. L. 95–524, set out as an Effective Date note under section 175a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 432, 433, 523, 1002, 1111 of this title; title 18 section 2516; title 26 sections 9702, 9712; title 33 section 917.
 

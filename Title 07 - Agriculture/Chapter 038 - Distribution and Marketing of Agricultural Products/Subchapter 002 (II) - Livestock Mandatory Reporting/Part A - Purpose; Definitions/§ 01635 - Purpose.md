@@ -16,7 +16,7 @@ The purpose of this subchapter is to establish a program of information regardin
 
 #### Livestock Mandatory Reporting
 
-Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, provided that:
+Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, as amended by Pub. L. 108–444, §1, Dec. 3, 2004, 118 Stat. 2635, provided that:
 
 #### “SEC. 901. SHORT TITLE.
 
@@ -174,5 +174,5 @@ Final Regulations.—Not later than 60 days after the conclusion of the comment 
 
 #### “SEC. 942. TERMINATION OF AUTHORITY.
 
-“The authority provided by this title \[enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing section 229a of this title, and amending provisions set out as a note under section 1421 of this title\] and the amendments made by this title terminate 5 years after the date of the enactment of this Act \[Oct. 22, 1999\].”
+“The authority provided by this title \[enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing section 229a of this title, and amending provisions set out as a note under section 1421 of this title\] and the amendments made by this title terminate on September 30, 2005.”
 

@@ -16,13 +16,13 @@ It shall be unlawful for any person who is related to a business development com
 
 The provisions of subsection (a) of this section shall apply to the following persons:
 
-&emsp;(1) Any director, officer, employee, or member of an advisory board of a business development company or any person (other than thebusiness development company itself) who is, within the meaning of section 80a–2(a)(3)(C) of this title, an affiliated person of any such person specified in this paragraph.
+&emsp;(1) Any director, officer, employee, or member of an advisory board of a business development company or any person (other than the business development company itself) who is, within the meaning of section 80a–2(a)(3)(C) of this title, an affiliated person of any such person specified in this paragraph.
 
 &emsp;(2) Any investment adviser or promoter of, general partner in, principal underwriter for, or person directly or indirectly either controlling, controlled by, or under common control with, a business development company (except the business development company itself and any person who, if it were not directly or indirectly controlled by the business development company, would not be directly or indirectly under the control of a person who controls the business development company), or any person who is, within the meaning of section 80a–2(a)(3)(C) or (D) of this title, an affiliated person of any such person specified in this paragraph.
 
 #### (c) Exemption orders
 
-Notwithstanding paragraphs (1), (2), and (3) of subsection (a) of this section, any person may file with the Commission an application for an order exempting a proposed transaction of the applicant from one or more provisions of such paragraphs. The Commission shall grant such application and issue such order of exemption if evidence establishes that—
+Notwithstanding paragraphs (1), (2), and (3) of subsection (a) of this section, any person may file with the Commission an application for anorder exempting a proposed transaction of the applicant from one or more provisions of such paragraphs. The Commission shall grant such application and issue such order of exemption if evidence establishes that—
 
 &emsp;(1) the terms of the proposed transaction, including the consideration to be paid or received, are reasonable and fair and do not involve overreaching of the business development company or its shareholders or partners on the part of any person concerned;
 
@@ -56,7 +56,7 @@ The provisions of subsection (d) of this section shall apply to the following pe
 
 Notwithstanding subsection (d) of this section, a person described in subsection (e) of this section may engage in a proposed transaction described in subsection (d) of this section if such proposed transaction is approved by the required majority (as defined in subsection (<i>o</i>) of this section) of the directors of or general partners in the business development company on the basis that—
 
-&emsp;(1) the terms thereof, including the consideration to be paid or received, are reasonable and fair to the shareholders or partners of the business development company and do not involve overreaching of such company or itsshareholders or partners on the part of any person concerned;
+&emsp;(1) the terms thereof, including the consideration to be paid or received, are reasonable and fair to the shareholders or partners of the business development company and do not involve overreaching of such company or its shareholders or partners on the part of any person concerned;
 
 &emsp;(2) the proposed transaction is consistent with the interests of the shareholders or partners of the business development company and is consistent with the policy of such company as recited in filings made by such company with the Commission under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], its registration statement and reports filed under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], and its reports to shareholders or partners; and
 
@@ -120,7 +120,7 @@ The provisions of subsection (k) of this section shall apply to the following pe
 
 &emsp;(B) Any person who is, within the meaning of section 82a–2(a)(3)(A), (B), (C), or (D) of this title, an affiliated person of any investment adviser of, general partner in, or person directly or indirectly either controlling, controlled by, or under common control with, the business development company.
 
-&emsp;(C) Any person who is, within the meaning of section 80a–2(a)(3)(C) of this title, an affiliated person of any person who is an affiliated person of the business development company within the meaning of section 80a–2(a)(3)(A) of this title.
+&emsp;(C) Any person who is, within the meaning of section 80a–2(a)(3)(C) of this title, an affiliated person of any person who is an affiliated person of the business development companywithin the meaning of section 80a–2(a)(3)(A) of this title.
 
 #### (m) Receipt of fee or salary from transaction participant
 
@@ -153,8 +153,4 @@ The Securities Exchange Act of 1934, referred to in subsecs. (c)(2) and (f)(2), 
 #### Amendments
 
 1987—Subsec. (i). Pub. L. 100–181 substituted “subsections (a) and (d) of section 80a–17 of this title” for “sections 80a–17(a) and (d) of this title” in two places.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–2, 80a–6, 80a–53, 80a–54, 80a–60, 80a–61, 80a–62, 80b–2, 80b–5 of this title.
 

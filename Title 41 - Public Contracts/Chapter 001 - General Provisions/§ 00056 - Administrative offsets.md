@@ -18,7 +18,7 @@ A contracting officer of a contracting agency may offset the amount of a kickbac
 
 #### (c) Claim of Government
 
-An offset under subsection (a) of this section or a direction or order of a contracting officerunder subsection (b) of this section is a claim by the Government for the purposes of the Contract Disputes Act of 1978 \[41 U.S.C. 601 et seq.\].
+An offset under subsection (a) of this section or a direction or order of a contracting officer under subsection (b) of this section is a claim by the Government for the purposes of the Contract Disputes Act of 1978 \[41 U.S.C. 601 et seq.\].
 
 #### (d) “Contracting officer” defined
 
@@ -33,8 +33,4 @@ The Contract Disputes Act of 1978, referred to in subsecs. (c) and (d), is Pub. 
 #### Effective Date
 
 Section effective with respect to conduct described in section 53 of this title which occurs on or after Nov. 7, 1986, see section 3(a) of Pub. L. 99–634, set out as an Effective Date of 1986 Amendment note under section 51 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 51, 52 of this title.
 

@@ -64,7 +64,7 @@ A council may—
 
 (1) A council may develop and submit to the Secretary for approval, or upon the request of a council the Secretary shall develop, quality standards for a fish or fish product described in accordance with section 4009(b)(3) of this title. Any quality standard developed under this paragraph shall be consistent with the purposes of this chapter.
 
-(2) A quality standard developed under paragraph (1) of this subsection may be adopted by a council by a majority of the members of the council if first approved, in a referendum conducted by the council, by a majority of the sector participants of the sector concerned voting and the majority collectively accounted for, in the twelve-month period immediately preceding the month in which the referendum is held, not less than sixty-six percent of the value of the fish or fish products described in accordancewith section 4009(b)(3) of this title that were handled by that sector during such period.
+(2) A quality standard developed under paragraph (1) of this subsection may be adopted by a council by a majority of the members of the council if first approved, in a referendum conducted by the council, by a majority of the sector participants of the sector concerned voting and the majority collectively accounted for, in the twelve-month period immediately preceding the month in which the referendum is held, not less than sixty-six percent of the value of the fish or fish products described in accordance with section 4009(b)(3) of this title that were handled by that sector during such period.
 
 (3) With respect to a quality standard adopted under paragraph (2) of this subsection, the council shall develop and file with the Secretary an official identification in the form of a symbol, stamp, label, or seal that will be used to indicate that a fish or fish product meets the quality standard at the time the official identification is affixed to the fish or fish product, or is affixed to or printed on the packaging material of the fish or fish product.
 
@@ -87,10 +87,6 @@ A council may—
 A council may submit to the Secretary amendments to the text of the council's charter. Any proposed amendments to a charter shall be approved or disapproved in the same manner as the original charter was approved under section 4009(d) and (e) of this title, with the exception of section 4009(d)(1)(B) of this title.
 
 (Pub. L. 99–659, title II, §211, Nov. 14, 1986, 100 Stat. 3724.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4009, 4011, 4012 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -34,7 +34,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 #### (1) In general
 
-&emsp;Each recipient shall assure that contributions equal to not less than 25 percent of thegrant amounts under this section are provided from non-Federal sources to carry out the homeownership program.
+&emsp;Each recipient shall assure that contributions equal to not less than 25 percent of the grant amounts under this section are provided from non-Federal sources to carry out the homeownership program.
 
 #### (2) Form
 
@@ -82,7 +82,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(J) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located (or, during the first 12 months after November 28, 1990, that the application is consistent with such other existing State or local housing plan or strategy that the Secretary shall determine to be appropriate); and
 
-&emsp;&emsp;(K) a certification that the applicant will comply with the requirements of the Fair Housing Act \[42 U.S.C. 3601 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], and will affirmatively further fair housing.
+&emsp;&emsp;(K) a certification that the applicant will comply with the requirements of the Fair Housing Act \[42 U.S.C. 3601 et seq.\], title VIof the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], and will affirmatively further fair housing.
 
 #### (e) Selection criteria
 
@@ -100,7 +100,7 @@ The Secretary shall establish selection criteria for assistance under this part,
 
 &emsp;(6) national geographic diversity among housing for which applicants are selected to receive assistance; and
 
-&emsp;(7) the extent to which a sufficient supply of affordable rental housing of the type assisted under this part exists in the locality, so thatthe implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units.
+&emsp;(7) the extent to which a sufficient supply of affordable rental housing of the type assisted under this part exists in the locality, so that the implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units.
 
 #### (f) Approval
 

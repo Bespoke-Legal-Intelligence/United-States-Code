@@ -4,7 +4,3 @@ The levees along the Mississippi River from the head of the Morganza Floodway to
 
 (June 15, 1936, ch. 548, §3, 49 Stat. 1509.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701c–1, 702a–1, 702a–11/2, 702a–13/4, 702a–4, 702a–11, 702j–1, 702k–1, 702k–2 of this title.
-

@@ -12,9 +12,5 @@ Section 450j–1(a)(3) of this title, referred to in text, was repealed and a ne
 
 1988—Pub. L. 100–472 amended section generally. Prior to amendment, section read as follows: “The provisions of any other laws to the contrary notwithstanding, any funds appropriated pursuant to section 13 of this title, for any fiscal year which are not obligated and expended prior to the beginning of the fiscal year succeeding the fiscal year for which such funds were appropriated shall remain available for obligation and expenditure during such succeeding fiscal year.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450c, 450j–1 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

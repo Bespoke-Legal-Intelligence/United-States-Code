@@ -4,10 +4,6 @@
 
 <i>For termination of subchapter, see Effective and Termination Dates note set out under section 900 of this title.</i>
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 922 of this title; title 22 section 5853; title 38 section 113; title 39 section 2009a; title 42 section 300aa–15.
-
 
 ---
 

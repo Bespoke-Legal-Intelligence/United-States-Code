@@ -24,7 +24,3 @@ Section was formerly classified to section 98h–1 of this title.
 
 Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 98h–7 of this title.
-

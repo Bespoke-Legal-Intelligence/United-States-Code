@@ -42,7 +42,7 @@ In any case in which a termination, reduction, or suspension of financial assist
 
 #### (e) Establishment of alternative agency by Indian tribe
 
-(1) The Secretary shall by regulation specify a process by which an Indian tribe may identify and establish an alternative agency, and request that the alternative agency be designated under section 9836 of this title as the Head Start agency providing services to the tribe, if—
+(1) The Secretary shall by regulation specify a process by which an Indian tribe may identify and establish an alternative agency, and request that the alternative agency be designated undersection 9836 of this title as the Head Start agency providing services to the tribe, if—
 
 &emsp;(A) the Secretary terminates financial assistance under this section to the only agency that was receiving financial assistance to provide Head Start services to the Indian tribe; and
 
@@ -79,8 +79,4 @@ Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Hea
 #### Effective Date of 1990 Amendment
 
 Amendment by section 115(1), (2) of Pub. L. 101–501 effective Oct. 1, 1990, and amendment by section 115(3) of Pub. L. 101–501 effective Apr. 1, 1990, see section 1001(a), (b)(2) of Pub. L. 101–501, set out as a note under section 8621 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9836 of this title.
 

@@ -12,7 +12,3 @@ Section was not enacted as part of the Submarine Cable Act which comprises this 
 
 For delegation of functions, vested in President by sections 34 to 39 of this title, to Federal Communications Commission, see section 5(a) of Ex. Ord. No. 10530, eff. May 10, 1954, 19 F.R. 2709, set out under section 301 of Title 3, The President.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 36, 37, 38, 39 of this title.
-

@@ -22,7 +22,7 @@ Any license issued by the Commission for a monitored retrievable storage facilit
 
 &emsp;(2) construction of such facility or acceptance of spent nuclear fuel or high-level radioactive waste shall be prohibited during such time as the repository license is revoked by the Commission or construction of the repository ceases;
 
-&emsp;(3) the quantity of spent nuclear fuel or high-level radioactive waste at the site of such facility at any one time may not exceed 10,000 metric tons of heavy metal until a repository under this chapter first accepts spent nuclearfuel or solidified high-level radioactive waste; and
+&emsp;(3) the quantity of spent nuclear fuel or high-level radioactive waste at the site of such facility at any one time may not exceed 10,000 metric tons of heavy metal until a repository under this chapter first accepts spent nuclear fuel or solidified high-level radioactive waste; and
 
 &emsp;(4) the quantity of spent nuclear fuel or high-level radioactive waste at the site of such facility at any one time may not exceed 15,000 metric tons of heavy metal.
 
@@ -35,8 +35,4 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is
 #### Codification
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10162 of this title.
 

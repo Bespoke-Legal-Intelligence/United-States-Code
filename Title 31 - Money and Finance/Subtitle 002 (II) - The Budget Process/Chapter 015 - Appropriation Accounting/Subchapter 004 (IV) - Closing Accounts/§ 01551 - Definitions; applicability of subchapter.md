@@ -72,7 +72,7 @@ Cancellation of unobligated balances.—All balances of unobligated funds withdr
 
 “(4)
 
-Cancellation of obligated balances.—On the third September 30th after the date of the enactment ofthis Act, all obligated balances transferred under subsection 1552(a)(1) of title 31, United States Code, as in effect on the day before the date of the enactment of this Act, shall be canceled.
+Cancellation of obligated balances.—On the third September 30th after the date of the enactment of this Act, all obligated balances transferred under subsection 1552(a)(1) of title 31, United States Code, as in effect on the day before the date of the enactment of this Act, shall be canceled.
 
 “(5)
 
@@ -120,9 +120,5 @@ Certifications.—No obligation or adjustment of an obligation may be charged pu
 
 “(E)
 
-Alternative to certification.—If the Secretary of Defense is unable to make the certifications referred to in subparagraph (D) within 60 days after the date of the enactment of this subparagraph \[Oct. 23, 1992\], the Secretary shall submit to the Congress a report stating that the Secretary is unable to make such certifications and setting forth the actions that the Secretary will take in order to enable the Secretary to make such certifications after the end of that period.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2216.
+Alternative to certification.—If the Secretary of Defense is unable to make the certifications referred to in subparagraph (D) within 60 days after the date of the enactment of this subparagraph \[Oct. 23, 1992\], the Secretary shall submit to the Congress a report stating that the Secretary is unable to make such certifications and setting forth the actions that theSecretary will take in order to enable the Secretary to make such certifications after the end of that period.”
 

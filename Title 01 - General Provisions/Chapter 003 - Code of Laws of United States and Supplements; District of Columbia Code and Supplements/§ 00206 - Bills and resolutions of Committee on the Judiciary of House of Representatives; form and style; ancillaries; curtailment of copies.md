@@ -4,7 +4,3 @@ All bills and resolutions relating to the revision of the laws referred to or re
 
 (July 30, 1947, ch. 388, 61 Stat. 639.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 208 of this title; title 44 section 707.
-

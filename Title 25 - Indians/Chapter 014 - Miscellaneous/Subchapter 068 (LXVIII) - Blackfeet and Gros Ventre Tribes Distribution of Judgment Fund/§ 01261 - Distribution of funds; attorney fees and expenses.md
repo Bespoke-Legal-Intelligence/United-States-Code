@@ -10,7 +10,3 @@ Act of October 21, 1968, referred to in text, is act Oct. 21, 1968, Pub. L. 90â€
 
 The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1262 of this title.
-

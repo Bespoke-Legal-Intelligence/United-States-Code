@@ -124,7 +124,7 @@ Not later than 30 months after November 13, 2000, the Assistant Secretary shall 
 
 #### (j) Administrative expenses
 
-Of the funds appropriated under section 3020f of this title to carry out this section for a fiscalyear, not more than $100,000 may be used by the Administration for administrative expenses.
+Of the funds appropriated under section 3020f of this title to carry out this section for a fiscal year, not more than $100,000 may be used by the Administration for administrative expenses.
 
 (Pub. L. 89–73, title II, §215, as added Pub. L. 106–501, title II, §202(5), Nov. 13, 2000, 114 Stat. 2231.)
 
@@ -141,8 +141,4 @@ A prior section 215 of Pub. L. 89–73 was renumbered section 216 and is classif
 #### Termination of Advisory Panels
 
 Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3012, 3020f of this title.
 

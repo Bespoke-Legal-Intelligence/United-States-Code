@@ -2,7 +2,7 @@
 
 #### (a) Basic requirement
 
-The owner or operator of a facility subject to the requirements of this section shall completea toxic chemical release form as published under subsection (g) of this section for each toxic chemical listed under subsection (c) of this section that was manufactured, processed, or otherwise used in quantities exceeding the toxic chemical threshold quantity established by subsection (f) of this section during the preceding calendar year at such facility. Such form shall be submitted to the Administrator and to an official or officials of the State designated by the Governor on or before July 1, 1988, and annually thereafter on July 1 and shall contain data reflecting releases during the preceding calendar year.
+The owner or operator of a facility subject to the requirements of this section shall complete a toxic chemical release form as published under subsection (g) of this section for each toxic chemical listed under subsection (c) of this section that was manufactured, processed, or otherwise used in quantities exceeding the toxic chemical threshold quantity established by subsection (f) of this section during the preceding calendar year at such facility. Such form shall be submitted to the Administrator and to an official or officials of the State designated by the Governor on or before July 1, 1988, and annually thereafter on July 1 and shall contain data reflecting releases during the preceding calendar year.
 
 #### (b) Covered owners and operators of facilities
 
@@ -66,7 +66,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 > &emsp;&emsp;a significant adverse effect on the environment of sufficient seriousness, in the judgment of the Administrator, to warrant reporting under this section. The number of chemicals included on the list described in subsection (c) of this section on the basis of the preceding sentence may constitute in the aggregate no more than 25 percent of the total number of chemicals on the list.
 
-> &emsp;A determination under this paragraph shall be based on generally accepted scientific principles or laboratory tests, or appropriately designed and conducted epidemiological or other population studies, available to the Administrator.
+> &emsp;A determination under this paragraph shall be based on generally accepted scientific principles or laboratory tests, or appropriately designed and conducted epidemiological or otherpopulation studies, available to the Administrator.
 
 #### (3) Deletions
 
@@ -74,7 +74,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (4) Effective date
 
-&emsp;Any revision made on or after January 1 and before December 1 of any calendar year shall take effect beginning with the next calendar year. Any revision made on or after December 1 of any calendar year and before January 1 ofthe next calender year shall take effect beginning with the calendar year following such next calendar year.
+&emsp;Any revision made on or after January 1 and before December 1 of any calendar year shall take effect beginning with the next calendar year. Any revision made on or after December 1 of any calendar year and before January 1 of the next calender year shall take effect beginning with the calendar year following such next calendar year.
 
 #### (e) Petitions
 
@@ -269,8 +269,4 @@ This directive is for the internal management of the executive branch and does n
 The Director of the Office of Management and Budget is authorized and directed to publish this Memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11042, 11043, 11045, 11046, 11049, 13102, 13106 of this title.
 

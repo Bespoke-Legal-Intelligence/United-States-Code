@@ -6,15 +6,11 @@ When directed to do so pursuant to section 288b(c) of this title, the Counsel sh
 
 #### (b) Notification; publication
 
-The Counsel shall notify the Joint Leadership Group of any legal action or proceeding in whichthe Counsel is of the opinion that intervention or appearance as amicus curiae under subsection (a) of this section is in the interest of the Senate. Such notification shall contain a description of the legal action or proceeding together with the reasons that the Counsel is of the opinion that intervention or appearance as amicus curiae is in the interest of the Senate. The Joint Leadership Group shall cause said notification to be published in the Congressional Record for the Senate.
+The Counsel shall notify the Joint Leadership Group of any legal action or proceeding in which the Counsel is of the opinion that intervention or appearance as amicus curiae under subsection (a) of this section is in the interest of the Senate. Such notification shall contain a description of the legal action or proceeding together with the reasons that the Counsel is of the opinion that intervention or appearance as amicus curiae is in the interest of the Senate. The Joint Leadership Group shall cause said notification to be published in the Congressional Record for the Senate.
 
 #### (c) Powers and responsibilities of Congress
 
 The Counsel shall limit any intervention or appearance as amicus curiae in an action or proceeding to issues relating to the powers and responsibilities of Congress.
 
 (Pub. L. 95–521, title VII, §706, Oct. 26, 1978, 92 Stat. 1880.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 288, 288b, 288<i>l</i> of this title.
 

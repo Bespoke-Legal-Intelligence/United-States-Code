@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—PREVENTION AND CONTROL OF AQUATIC NUISANCE SPECIES DISPERSAL
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 4741 of this title.
-
 
 ---
 

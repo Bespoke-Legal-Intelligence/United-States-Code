@@ -23,7 +23,7 @@
 | [5316\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005316%20-%20Reports%20on%20exporting%20and%20importing%20monetary%20instruments.md) | Reports on exporting and importing monetary instruments. |
 | [5317\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005317%20-%20Search%20and%20forfeiture%20of%20monetary%20instruments.md) | Search and forfeiture of monetary instruments. |
 | [5318\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005318%20-%20Compliance%2C%20exemptions%2C%20and%20summons%20authority.md) | Compliance, exemptions, and summons authority. |
-| [5318A.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005318A%20-%20Special%20measures%20for%20jurisdictions%2C%20financial%20institutions%2C%20or%20international%20transactions%20of%20primary%20money%20laundering%20concern.md) | Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern. |
+| [5318A.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005318A%20-%20Special%20measures%20for%20jurisdictions%2C%20financial%20institutions%2C%20international%20transactions%2C%20or%20types%20of%20accounts%20of%20primary%20money%20laundering%E2%80%A6.md) | Special measures for jurisdictions, financial institutions, international transactions, or types of accounts of primary money laundering concern. |
 | [5319\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005319%20-%20Availability%20of%20reports.md) | Availability of reports. |
 | [5320\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005320%20-%20Injunctions.md) | Injunctions. |
 | [5321\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005321%20-%20Civil%20penalties.md) | Civil penalties. |
@@ -72,7 +72,11 @@
 
 #### Amendments
 
-2001—Pub. L. 107–56, title III, §365(c), Oct. 26, 2001, 115 Stat. 335, which directed the amendment of chapter 53 analysis by inserting item 5331 after the item relating to section 5332 (as added by section 112 of this title), was executed by inserting item 5331 after item 5330 to reflect the probable intent of Congress.
+2004—Pub. L. 108–458, title VI, §6203(i), Dec. 17, 2004, 118 Stat. 3747, substituted item 5318A for former item 5318A “Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern”.
+
+Pub. L. 108–458, title VI, §6202(n)(1), (<i>o</i>), Dec. 17, 2004, 118 Stat. 3746, amended Pub. L. 107–56, §365. See 2001 Amendment note below.
+
+2001—Pub. L. 107–56, title III, §365(d), formerly §365(c), Oct. 26, 2001, 115 Stat. 335, as renumbered and amended by Pub. L. 108–458, title VI, §6202(n)(1), (<i>o</i>), Dec. 17, 2004, 118 Stat. 3746, added item 5331.
 
 Pub. L. 107–56, title III, §§311(b), 371(c), Oct. 26, 2001, 115 Stat. 304, 338, added items 5318A and 5332.
 
@@ -89,10 +93,6 @@ Pub. L. 107–56, title III, §§311(b), 371(c), Oct. 26, 2001, 115 Stat. 304, 3
 1986—Pub. L. 99–570, title I, §§1354(b), 1356(d), Oct. 27, 1986, 100 Stat. 3207–22, 3207–25, substituted “Compliance, exemptions, and summons authority” for “Compliance and exemptions” in item 5318 and added item 5324.
 
 1984—Pub. L. 98–473, title II, §901(f), Oct. 12, 1984, 98 Stat. 2136, added item 5323.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 9703 of this title; title 18 section 1510; title 19 sections 1431, 1613b.
 
 
 ---

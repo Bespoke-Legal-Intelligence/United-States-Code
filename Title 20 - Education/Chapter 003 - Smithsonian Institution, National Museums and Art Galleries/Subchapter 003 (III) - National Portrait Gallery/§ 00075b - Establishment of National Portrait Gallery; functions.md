@@ -50,7 +50,3 @@ In general.—The Secretary shall—
 
 Status of smithsonian.—In carrying out this subsection, and in carrying out other projects in the District of Columbia which are subject to the review and approval of the National Capital Planning Commission in accordance with section 16 of the Act of June 20, 1938 (sec. 6–641.15, D.C. Official Code), the Smithsonian Institution shall be deemed to be an agency for purposes of compliance with regulations promulgated by the Advisory Council on Historic Preservation pursuant to section 106 of the National Historic Preservation Act (16 U.S.C. 470f).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 75e of this title.
-

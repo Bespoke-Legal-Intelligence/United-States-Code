@@ -36,7 +36,7 @@ The General Counsel may prescribe regulations providing for informal methods by 
 
 #### (f) Hearing
 
-The Board (or any member thereof or any individual employed by the Board and designated for such purpose) shall conduct a hearing on the complaint not earlier than 5 days after the date on which the complaint is served. In the discretion of the individual or individuals conducting the hearing, any person involved may be allowed to intervene in the hearing and to present testimony. Any such hearing shall, to the extent practicable, be conducted in accordance with the provisions of subchapter II of chapter 5 of title 5, except that the parties shall not be bound byrules of evidence, whether statutory, common law, or adopted by a court. A transcript shall be kept of the hearing. After such a hearing the Board, in its discretion, may upon notice receive further evidence or hear argument.
+The Board (or any member thereof or any individual employed by the Board and designated for such purpose) shall conduct a hearing on the complaint not earlier than 5 days after the date on which the complaint is served. In the discretion of the individual or individuals conducting the hearing, any person involved may be allowed to intervene in the hearing and to present testimony. Any such hearing shall, to the extent practicable, be conducted in accordance with the provisions of subchapter II of chapter 5 of title 5, except that the parties shall not be bound by rules of evidence, whether statutory, common law, or adopted by a court. A transcript shall be kept of the hearing. After such a hearing the Board, in its discretion, may upon notice receive further evidence or hear argument.
 
 #### (g) Findings of fact relative to issuance of orders; backpay
 
@@ -57,8 +57,4 @@ If the Board (or any member thereof or any individual employed by the Board and 
 If the individual or individuals conducting the hearing determine that the preponderance of the evidence received fails to demonstrate that the Department or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, the individual or individuals shall state in writing their findings of fact and shall issue an order dismissing the complaint.
 
 (Pub. L. 96–465, title I, §1016, Oct. 17, 1980, 94 Stat. 2139.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4109 of this title.
 

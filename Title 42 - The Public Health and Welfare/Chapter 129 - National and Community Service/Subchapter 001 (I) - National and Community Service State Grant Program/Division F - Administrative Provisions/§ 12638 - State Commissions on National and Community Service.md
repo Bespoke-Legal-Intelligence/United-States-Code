@@ -62,7 +62,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 #### (5) Limitation on number of State employees as members
 
-&emsp;The number of voting members of a State Commission selected under paragraph (1) or (2) who are officers or employees of the State may not exceed 25 percent (reduced to the nearest whole number) of the total membership of the State Commission.
+&emsp;The number of voting members of a State Commission selected under paragraph (1) or (2) who are officers or employees of the Statemay not exceed 25 percent (reduced to the nearest whole number) of the total membership of the State Commission.
 
 #### (d) Miscellaneous matters
 
@@ -283,10 +283,6 @@ Use of alternatives to state commission.—If a State does not have a State Comm
 “(2)
 
 Application of subsection.—This subsection shall apply only during the 27-month period beginning on the date of the enactment of this Act \[Sept. 21, 1993\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5011, 12511, 12572, 12576, 12651d, 12651f, 12651h of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “to” probably should not appear.</i>
 

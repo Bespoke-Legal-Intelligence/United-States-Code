@@ -2,7 +2,7 @@
 
 #### (a) Responsiveness to long-term needs
 
-In order to further the conservation of soil, water, and related resources, it is declared to be the policy of the United States and purpose of this chapter that the conduct of programs administered by the Secretary of Agriculture for the conservation of such resources shall be responsive to the long-term needs of the Nation, as determined under the provisions of this chapter.
+In order to further the conservation of soil, water, and related resources, it is declared to be the policy of the United States and purpose of this chapter that the conduct of programs administered by the Secretary of Agriculture for the conservation of such resources shall be responsive to the long-term needs of the Nation,as determined under the provisions of this chapter.
 
 #### (b) Full utilization of cooperative arrangements with State agencies
 
@@ -22,5 +22,5 @@ The Secretary shall promote the attainment of the policies and purposes expresse
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 2002 of this title.
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 2002 of this title.
 

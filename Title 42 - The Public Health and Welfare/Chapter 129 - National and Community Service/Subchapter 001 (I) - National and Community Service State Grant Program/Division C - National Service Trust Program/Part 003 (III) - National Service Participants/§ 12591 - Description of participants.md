@@ -38,7 +38,3 @@ A prior section 12591, Pub. L. 101–610, title I, §155, Nov. 16, 1990, 104 Sta
 
 1994—Subsec. (c). Pub. L. 103–304 substituted “subsection (a)(5)” for “subsection (a)(5)(A)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12602 of this title; title 16 section 1723.
-

@@ -32,7 +32,7 @@ The Secretary shall ensure that the responsibilities of the Department regarding
 
 Subject to the direction and control of the Secretary, the responsibilities of the Under Secretary for Information Analysis and Infrastructure Protection shall be as follows:
 
-&emsp;(1) To access, receive, and analyze law enforcement information, intelligence information, and other information from agencies of the Federal Government, State and local government agencies (including law enforcement agencies), and private sector entities, and to integrate such information in order to—
+&emsp;(1) To access, receive, and analyze law enforcement information, intelligence information, and other information from agencies ofthe Federal Government, State and local government agencies (including law enforcement agencies), and private sector entities, and to integrate such information in order to—
 
 &emsp;&emsp;(A) identify and assess the nature and scope of terrorist threats to the homeland;
 
@@ -54,7 +54,7 @@ Subject to the direction and control of the Secretary, the responsibilities of t
 
 &emsp;&emsp;(A) exercising primary responsibility for public advisories related to threats to homeland security; and
 
-&emsp;&emsp;(B) in coordination with other agencies of the Federal Government, providing specific warning information, and advice about appropriate protective measures and countermeasures, to State and local governmentagencies and authorities, the private sector, other entities, and the public.
+&emsp;&emsp;(B) in coordination with other agencies of the Federal Government, providing specific warning information, and advice about appropriate protective measures and countermeasures, to State and local government agencies and authorities, the private sector, other entities, and the public.
 
 &emsp;(8) To review, analyze, and make recommendations for improvements in the policies and procedures governing the sharing of law enforcement information, intelligence information, intelligence-related information, and other information relating to homeland security within the Federal Government and between the Federal Government and State and local government agencies and authorities.
 
@@ -74,7 +74,7 @@ Subject to the direction and control of the Secretary, the responsibilities of t
 
 &emsp;(14) To establish and utilize, in conjunction with the chief information officer of the Department, a secure communications and information technology infrastructure, including data-mining and other advanced analytical tools, in order to access, receive, and analyze data and information in furtherance of the responsibilities under this section, and to disseminate information acquired and analyzed by the Department, as appropriate.
 
-&emsp;(15) To ensure, in conjunction with the chief information officer of the Department, that any information databases and analytical tools developed or utilized by the Department—
+&emsp;(15) To ensure, in conjunction with the chief information officer of the Department, that any information databases and analyticaltools developed or utilized by the Department—
 
 &emsp;&emsp;(A) are compatible with one another and with relevant information databases of other agencies of the Federal Government; and
 
@@ -164,6 +164,10 @@ Section is comprised of section 201 of Pub. L. 107–296. Subsec. (h) of section
 
 2003—Subsec. (f)(2)(E). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Ex. Ord. No. 13231. Critical Infrastructure Protection in the Information Age
 
 Ex. Ord. No. 13231, Oct. 16, 2001, 66 F.R. 53063, as amended by Ex. Ord. No. 13284, §2, Jan. 23, 2003, 68 F.R. 4075; Ex. Ord. No. 13286, §7, Feb. 28, 2003, 68 F.R. 10620, provided:
@@ -210,7 +214,7 @@ Sec. 3. <i>The National Infrastructure Advisory Council</i>. The National Infras
 
 &emsp;(iii) Senior Federal Government officials may participate in the meetings of the NIAC, as appropriate.
 
-&emsp;(iv) Members shall serve without compensation for their work on the NIAC. However, members may be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Federal Government service (5 U.S.C. 5701–5707).
+&emsp;(iv) Members shall serve without compensation for their work on the NIAC. However, members may be reimbursed for travel expenses, including per diem inlieu of subsistence, as authorized by law for persons serving intermittently in Federal Government service (5 U.S.C. 5701–5707).
 
 &emsp;(v) To the extent permitted by law and subject to the availability of appropriations, the Department of Homeland Security shall provide the NIAC with administrative services, staff, and other support services, and such funds as may be necessary for the performance of the NIAC's functions.
 
@@ -293,8 +297,4 @@ Sec. 21. This order shall become effective on January 24, 2003.
 Sec. 22. This order does not create any right or benefit, substantive or procedural, enforceable at law or equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 143 of this title.
 

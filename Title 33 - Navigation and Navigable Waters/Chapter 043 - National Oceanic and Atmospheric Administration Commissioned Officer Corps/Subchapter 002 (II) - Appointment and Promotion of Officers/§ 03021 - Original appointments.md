@@ -20,7 +20,7 @@
 
 #### (4) Revocation of commission of officers found not qualified
 
-&emsp;The President may revoke the commission of any officer appointed under this section during the officer's first three years of serviceif the officer is found not qualified for the service. Any such revocation shall be made under regulations prescribed by the President.
+&emsp;The President may revoke the commission of any officer appointed under this section during the officer's first three years of service if the officer is found not qualified for the service. Any such revocation shall be made under regulations prescribed by the President.
 
 #### (b) Lineal list
 
@@ -41,4 +41,8 @@ Each person appointed under this section shall be placed on the lineal list in a
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 853t of this title prior to repeal by Pub. L. 107–372.
+
+#### Delegation of Functions
+
+Functions of President under subsec. (a)(4) of this section delegated to Secretary of Commerce by section 1(g) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Program for Employees of Air Carriers and Foreign Air Carriers.—The Administrator of the Federal Aviation Administration shall prescribe regulations establishing requirementsfor rehabilitation programs that at least provide for the identification and opportunity for treatment of employees of air carriers and foreign air carriers referred to in section 45102(a)(1) of this title who need assistance in resolving problems with the use of alcohol or a controlled substance in violation of law or a United States Government regulation. Each air carrier and foreign air carrier is encouraged to make such a program available to all its employees in addition to the employees referred to in section 45102(a)(1). The Administrator shall decide on the circumstances under which employees shall be required to participate in a program. This subsection does not prevent an air carrier or foreign air carrier from establishing a program under this subsection in cooperation with another air carrier or foreign air carrier.
+Program for Employees of Air Carriers and Foreign Air Carriers.—The Administrator of the Federal Aviation Administration shall prescribe regulations establishing requirements for rehabilitation programs that at least provide for the identification and opportunity for treatment of employees of air carriers and foreign air carriers referred to in section 45102(a)(1) of this title who need assistance in resolving problems with the use of alcohol or a controlled substance in violation of law or a United States Government regulation. Each air carrier and foreign air carrier is encouraged to make such a program available to all its employees in addition to the employees referred to in section 45102(a)(1). The Administrator shall decide on the circumstances under which employees shall be required to participate in a program. This subsection does not prevent an air carrier or foreign air carrier from establishing a program under this subsection in cooperation with another air carrier or foreign air carrier.
 
 (b)
 
@@ -45,8 +45,4 @@ This amends 49:45105(a) to correct an error in the codification enacted by secti
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 45103 of this title.
 

@@ -16,7 +16,7 @@ If any notice of disapproval of a repository site designation has been submitted
 
 (1) The provisions of this subsection are enacted by the Congress—
 
-&emsp;(A) as an exercise of the rulemaking power of the Senate, and as such they are deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed in the Senate in the case of resolutionsof repository siting approval, and such provisions supersede other rules of the Senate only to the extent that they are inconsistent with such other rules; and
+&emsp;(A) as an exercise of the rulemaking power of the Senate, and as such they are deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed in the Senate in the case of resolutions of repository siting approval, and such provisions supersede other rules of the Senate only to the extent that they are inconsistent with such other rules; and
 
 &emsp;(B) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
@@ -54,7 +54,7 @@ If any notice of disapproval of a repository site designation has been submitted
 
 (2) Resolutions of repository siting approval shall upon introduction, be immediately referred by the Speaker of the House to the appropriate committee or committees of the House. Any such resolution received from the Senate shall be held at the Speaker's table.
 
-(3) Upon the expiration of 60 days of continuous session after the introduction of the first resolution of repository siting approval with respect to any site, each committee to which such resolution was referred shall be discharged from further consideration of such resolution, and such resolution shall be referred to the appropriate calendar, unless such resolution or an identical resolution was previously reported by each committee to which it was referred.
+(3) Upon the expiration of 60 days of continuous session after the introduction of the first resolution of repository siting approval with respect to any site, each committee to which suchresolution was referred shall be discharged from further consideration of such resolution, and such resolution shall be referred to the appropriate calendar, unless such resolution or an identical resolution was previously reported by each committee to which it was referred.
 
 (4) It shall be in order for the Speaker to recognize a Member favoring a resolution to call up a resolution of repository siting approval after it has been on the appropriate calendar for 5 legislative days. When any such resolution is called up, the House shall proceed to its immediate consideration and the Speaker shall recognize the Member calling up such resolution and a Member opposed to such resolution for 2 hours of debate in the House, to be equally divided and controlled by such Members. When such time has expired, the previous question shall be considered as ordered on the resolution to adoption without intervening motion. No amendment to any such resolution shall be in order, nor shall it be in order to move to reconsider the vote by which such resolution is agreed to or disagreed to.
 
@@ -85,8 +85,4 @@ In considering any notice of disapproval submitted to the Congress under section
 #### Yucca Mountain, Nevada Repository Site
 
 Pub. L. 107–200, July 23, 2002, 116 Stat. 735, provided: “That there hereby is approved the site at Yucca Mountain, Nevada, for a repository, with respect to which a notice of disapproval was submitted by the Governor of the State of Nevada on April 8, 2002.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10121, 10134, 10136, 10138, 10155, 10161, 10166, 10168, 10225 of this title.
 

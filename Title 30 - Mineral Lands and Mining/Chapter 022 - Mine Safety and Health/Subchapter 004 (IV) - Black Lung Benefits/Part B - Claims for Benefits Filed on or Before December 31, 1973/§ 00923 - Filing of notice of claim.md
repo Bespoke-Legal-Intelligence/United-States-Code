@@ -2,7 +2,7 @@
 
 #### (a) Promulgation of regulations; time requirement
 
-Except as otherwise provided in section 924 of this title, no payment of benefits shall be made under this part except pursuant to a claim filed therefor on or before December 31, 1973, in such manner, in such form, and containing such information, as the Secretary shall by regulation prescribe.
+Except as otherwise provided in section 924 of this title, no payment of benefits shall be made under this part except pursuant to a claim filedtherefor on or before December 31, 1973, in such manner, in such form, and containing such information, as the Secretary shall by regulation prescribe.
 
 #### (b) Utilization of personnel and procedures; evidence required to establish claim; medical evidence; affidavits; autopsy reports; reimbursement of expenses
 
@@ -28,7 +28,7 @@ The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 5
 
 2002—Subsec. (a). Pub. L. 107–275, §2(a), substituted “Secretary” for “Commissioner of Social Security”.
 
-Subsec. (b). Pub. L. 107–275, §2(b)(2), substituted “No” for “In carrying out the provisions of this part, the Commissioner of Social Security shall to the maximumextent feasible (and consistent with the provisions of this part) utilize the personnel and procedures he uses in determining entitlement to disability insurance benefit payments under section 223 of the Social Security Act, but no”.
+Subsec. (b). Pub. L. 107–275, §2(b)(2), substituted “No” for “In carrying out the provisions of this part, the Commissioner of Social Security shall to the maximum extent feasible (and consistent with the provisions of this part) utilize the personnel and procedures he uses in determining entitlement to disability insurance benefit payments under section 223 of the Social Security Act, but no”.
 
 Pub. L. 107–275, §2(a), substituted “Secretary has” for “Commissioner of Social Security has” in two places and “Secretary shall” for “Commissioner of Social Security shall” in two places.
 
@@ -71,8 +71,4 @@ Amendment by section 4(f) of Pub. L. 92–303 effective Dec. 30, 1969, see secti
 Section 1(c)(5)(B) of Pub. L. 92–303 provided that: “Only section 205(b), (g), and (h) of those sections of the Social Security Act \[section 405(b), (g), and (h) of Title 42, The Public Health and Welfare\] recited in subparagraph (A) of this paragraph \[amending this section\] shall be effective as of the date provided in subsection (d) of this section.”
 
 \[There is no subsec. (d) in section 1 of Pub. L. 92–303 as it was enacted. However, Senate Report No. 92–743, at page 30, refers to such a subsec. (d) applying the provisions of section of Pub. L. 92–303 retroactively to Dec. 30, 1969.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 902 of this title; title 31 section 3716.
 

@@ -20,7 +20,3 @@ The school-based learning component of a School-to-Work Opportunities program sh
 
 The Goals 2000: Educate America Act, referred to in par. (3), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 6111, 6113, 6114, 6145, 6192 of this title.
-

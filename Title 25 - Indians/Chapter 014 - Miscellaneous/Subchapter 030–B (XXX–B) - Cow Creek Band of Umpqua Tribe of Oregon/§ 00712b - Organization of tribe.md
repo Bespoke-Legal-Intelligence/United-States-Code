@@ -26,7 +26,3 @@ Until the tribe adopts a final governing document, the tribe's governing body sh
 
 1987—Pub. L. 100–139 amended section generally. Prior to amendment, section read as follows: “The tribe may organize for its common welfare and adopt an appropriate instrument, in writing, to govern the affairs of the tribe when acting in its governmental capacity. The tribe shall file with the Secretary of the Interior a copy of its organic governing document and any amendments thereto.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 712c of this title.
-

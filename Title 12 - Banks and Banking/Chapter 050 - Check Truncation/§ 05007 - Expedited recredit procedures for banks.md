@@ -82,7 +82,3 @@ If the indemnifying bank provides the claimant bank with the original check or a
 
 (Pub. L. 108–100, §8, Oct. 28, 2003, 117 Stat. 1186.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5009, 5013 of this title.
-

@@ -76,9 +76,5 @@ Amendment by Pub. L. 100–435 to be effective and implemented on Sept. 19, 1988
 
 Section 2 of Pub. L. 98–92 provided in part that the amendment made by that section is effective Oct. 1, 1983.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7501, 7514 of this title.
-
 <i><sup>1</sup></i><i> So in original. The word “be” probably should not appear.</i>
 

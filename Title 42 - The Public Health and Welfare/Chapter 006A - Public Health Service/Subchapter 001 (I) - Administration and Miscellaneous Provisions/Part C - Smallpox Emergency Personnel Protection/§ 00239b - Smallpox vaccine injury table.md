@@ -12,9 +12,5 @@
 
 (July 1, 1944, ch. 373, title II, §263, as added Pub. L. 108–20, §2, Apr. 30, 2003, 117 Stat. 641.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 239a of this title.
-
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

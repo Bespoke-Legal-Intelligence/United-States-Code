@@ -10,7 +10,7 @@ For purposes of this section, the term “emergency condition” means, with res
 
 &emsp;(3) a part of the remains of a particular culture or civilization, the record of which is in jeopardy from pillage, dismantling, dispersal, or fragmentation which is, or threatens to be, of crisis proportions;
 
-> and application of the import restrictions set forth in section 2606 of this title on a temporarybasis would, in whole or in part, reduce the incentive for such pillage, dismantling, dispersal or fragmentation.
+> and application of the import restrictions set forth in section 2606 of this title on a temporary basis would, in whole or in part, reduce the incentive for such pillage, dismantling, dispersal or fragmentation.
 
 #### (b) Presidential action
 
@@ -35,8 +35,4 @@ Section 2602 of this title, referred to in subsec. (c)(4), was in the original �
 #### Delegation of Functions
 
 For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, set out as a note under section 2602 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2601, 2602, 2604, 2605 of this title.
 

@@ -8,9 +8,5 @@ For the efficient administration and enforcement of this chapter, the provision 
 
 The last paragraph of section 49 of title 15, and the provisions of section 409(<i>l</i>) of title 47, referred to in text, which related to immunity of witnesses, were repealed by sections 211 and 242, respectively, of Pub. L. 91–452, Oct. 15, 1970, title II, 84 Stat. 929, 930. For provisions relating to immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 454 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

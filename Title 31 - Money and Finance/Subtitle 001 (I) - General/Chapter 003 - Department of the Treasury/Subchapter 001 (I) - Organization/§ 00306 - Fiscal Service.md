@@ -10,9 +10,9 @@
 
 &emsp;(2) Bureau of the Public Debt, having as its head a Commissioner of the Public Debt.
 
-(d) The Secretary of the Treasury may designate another officer of the Department to act as the Fiscal Assistant Secretary when the Fiscal Assistant Secretary is absent or unable to serve or when the office of Fiscal Assistant Secretary is vacant.
+(d) The Secretary of the Treasury may designate another officer or employee of the Department to act as the Fiscal Assistant Secretary when the Fiscal Assistant Secretary is absent or unable to serve or when the office of Fiscal Assistant Secretary is vacant.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 879.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 879; Pub. L. 108–458, title VII, §7801, Dec. 17, 2004, 118 Stat. 3860.)
 
 Historical and Revision Notes
 
@@ -40,13 +40,17 @@ Subsection (d) is substituted for the text of section 1(a)(7)(last sentence) of 
 
 The Bureau of Government Financial Operations, referred to in subsec. (c)(1), is now known as the Financial Management Service and has as its head a Commissioner of the Financial Management Service.
 
+#### Amendments
+
+2004—Subsec. (d). Pub. L. 108–458 inserted “or employee” after “another officer”.
+
 #### Reimbursement of Financial Management Service and Bureau of the Public Debt
 
 Pub. L. 105–277, div. A, §101(h) \[title I\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–486, provided in part: “That notwithstanding any other provisions of law, effective upon enactment \[Oct. 21, 1998\] and thereafter, the Bureau of the Public Debt shall be fully and directly reimbursed by the funds described in section 104 of Public Law 101–136 (103 Stat. 789) \[set out below\] for costs and services performed by the Bureau in the administration of such funds.”
 
 Similar provisions were contained in Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1279.
 
-Pub. L. 103–329, title I, §105, Sept. 30, 1994, 108 Stat. 2390, provided that: “Notwithstanding any other provision of law, beginning in fiscal year 1995 and thereafter, the Financial Management Service (FMS) shall be reimbursed, for postage incurred by FMS to make check payments on their behalf, by: the Department of Veterans Affairs, for the mailing of Compensation and Pension benefit payments; the Department of Health and Human Services, for the mailing of Supplemental Security Income payments; and the Office of Personnel Management, for the mailing of Retirement payments.Such reimbursement shall be due beginning with checks mailed on October 1, 1994, and such reimbursement shall occur on a monthly basis.”
+Pub. L. 103–329, title I, §105, Sept. 30, 1994, 108 Stat. 2390, provided that: “Notwithstanding any other provision of law, beginning in fiscal year 1995 and thereafter, the Financial Management Service (FMS) shall be reimbursed, for postage incurred by FMS to make check payments on their behalf, by: the Department of Veterans Affairs, for the mailing of Compensation and Pension benefit payments; the Department of Health and Human Services, for the mailing of Supplemental Security Income payments; and the Office of Personnel Management, for the mailing of Retirement payments. Such reimbursement shall be due beginning with checks mailed on October 1, 1994, and such reimbursement shall occur on a monthly basis.”
 
 Pub. L. 102–393, title I, §105, Oct. 6, 1992, 106 Stat. 1737, provided that: “Notwithstanding any other provision of law, beginning October 1, 1992, and thereafter, the Financial Management Service (FMS) shall be reimbursed by the Internal Revenue Service (IRS) and the Department of Agriculture, National Finance Center (NFC), for the postage costs the FMS incurs to make check payments on behalf of the IRS and the NFC.”
 

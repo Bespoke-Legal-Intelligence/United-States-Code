@@ -4,7 +4,3 @@ For the purpose of stimulating the acquisition, development, and proper administ
 
 (Aug. 29, 1935, ch. 808, §1, 49 Stat. 963.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 567b, 567c of this title.
-

@@ -118,7 +118,7 @@ If, in connection with a protest, the head of an executive agency determines tha
 
 (1) Except as provided in paragraph (2), a proposal in the possession or control of an executive agency may not be made available to any person under section 552 of title 5.
 
-(2) Paragraph (1) does not apply to any proposal that is set forth or incorporated by reference in a contract entered into between the agency and the contractor that submitted the proposal.
+(2) Paragraph (1) does not apply to any proposal that is set forth or incorporated by reference in a contract entered into between theagency and the contractor that submitted the proposal.
 
 (3) In this subsection, the term “proposal” means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
@@ -214,7 +214,7 @@ Section 1. Heads of executive departments and agencies (“agencies”) engaged 
 
 Sec. 2. The Administrator for Federal Procurement Policy shall: (a) work with the heads of executive agencies to provide policy guidance and leadership necessary to implement provisions of this order; and
 
-(b) review and evaluate agency experience and performance under this order, and report on any findingsto the President within 2 years from the date of this order.
+(b) review and evaluate agency experience and performance under this order, and report on any findings to the President within 2 years from the date of this order.
 
 Sec. 3. The Administrator of General Services, the Secretary of Defense, and the Administrator of the National Aeronautics and Space Administration, in coordination with the Office of Federal Procurement Policy, shall amend the Federal Acquisition Regulation, 48 C.F.R. 1, within 180 days of the date of this order to further the purposes of this order.
 
@@ -223,8 +223,4 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Definitions
 
 The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 253m, 257, 431 of this title; title 20 section 1018a.
 

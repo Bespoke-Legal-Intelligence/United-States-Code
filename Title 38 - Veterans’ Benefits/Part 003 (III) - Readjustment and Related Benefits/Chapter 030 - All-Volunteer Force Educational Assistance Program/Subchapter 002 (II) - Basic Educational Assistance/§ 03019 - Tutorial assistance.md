@@ -16,7 +16,3 @@
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3492” for “1692”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3035, 3680A of this title.
-

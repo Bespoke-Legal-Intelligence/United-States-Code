@@ -2,7 +2,7 @@
 
 #### (a) Program of grants
 
-The Director of the Institute, in consultation with the advisory council for the Institute, mayaward research grants to one or more Diabetes Eye Research Institutions for the support of programs in clinical or health services aimed at—
+The Director of the Institute, in consultation with the advisory council for the Institute, may award research grants to one or more Diabetes Eye Research Institutions for the support of programs in clinical or health services aimed at—
 
 &emsp;(1) providing comprehensive eye care services for people with diabetes, including a full complement of preventive, diagnostic and treatment procedures;
 
@@ -37,8 +37,4 @@ Amounts received under a grant awarded under this section shall be used for the 
 The purposes for which a grant under subsection (a) of this section may be expended include equipment for the research described in such subsection.
 
 (July 1, 1944, ch. 373, title IV, §456, as added Pub. L. 103–43, title XI, §1101(a), June 10, 1993, 107 Stat. 168.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 285i of this title.
 

@@ -1,6 +1,6 @@
 ### §4512. President and Executive Secretary of Foundation
 
-(a)(1) The Board may appoint a President of the Foundation to serve full-time or part-time and for such a term as the Board shall determine.
+(a)(1) The Board may appoint a President of the Foundation to serve full-time or part-timeand for such a term as the Board shall determine.
 
 (2) The President shall carry out such of the functions and duties of the Foundation as the Board may determine, subject to the supervision and direction of the Board.
 

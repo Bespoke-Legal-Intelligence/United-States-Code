@@ -16,7 +16,7 @@ The Secretary may make competitive grants (or grants without regard to any requi
 
 &emsp;(4) to design and implement food and agricultural programs, or programs emphasizing rural economic, community, and business development, to build teaching and research capacity at colleges and universities having significant minority enrollments;
 
-&emsp;(5) to conduct undergraduate scholarship programs to meet national and international needs for training food and agricultural scientists and professionals, or professionals in rural economic, community, and business development; and
+&emsp;(5) to conduct undergraduate scholarship programs to meet national and internationalneeds for training food and agricultural scientists and professionals, or professionals in rural economic, community, and business development; and
 
 &emsp;(6) to conduct graduate and postdoctoral fellowship programs to attract highly promising individuals to research or teaching careers in the food and agricultural sciences.
 
@@ -92,7 +92,7 @@ Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapte
 
 &emsp;&emsp;(A) promote and strengthen secondary education and 2-year postsecondary education in agriscience and agribusiness in order to help ensure the existence in the United States of a qualified workforce to serve the food and agricultural sciences system; and
 
-&emsp;&emsp;(B) promote complementary and synergistic linkages among secondary, 2-year postsecondary, and higher education programs in the food and agricultural sciences in order to promote excellence in education and encourage more young Americans to pursue and complete a baccalaureate or higher degree in the food and agricultural sciences.
+&emsp;&emsp;(B) promote complementary and synergistic linkages among secondary, 2-year postsecondary, and higher education programs in the food and agricultural sciences in order to promote excellence in educationand encourage more young Americans to pursue and complete a baccalaureate or higher degree in the food and agricultural sciences.
 
 #### (3) Grants
 
@@ -122,7 +122,7 @@ There are authorized to be appropriated for carrying out this section $60,000,00
 
 #### References in Text
 
-Act of June 29, 1935, referred to in subsec. (h), is act June 29, 1935, ch. 338, 49 Stat. 436, as amended, knownas the Bankhead-Jones Act, which was classified principally to sections 329 and 427 to 427j of this title, and was repealed by act Aug. 11, 1966, ch. 790, §2, 69 Stat. 674, except for sections 1, 10, and 22 of the Act, which are classified to sections 427, 427i, and 329 of this title, respectively. For complete classification of this Act to the Code, see Tables.
+Act of June 29, 1935, referred to in subsec. (h), is act June 29, 1935, ch. 338, 49 Stat. 436, as amended, known as the Bankhead-Jones Act, which was classified principally to sections 329 and 427 to 427j of this title, and was repealed by act Aug. 11, 1966, ch. 790, §2, 69 Stat. 674, except for sections 1, 10, and 22 of the Act, which are classified to sections 427, 427i, and 329 of this title, respectively. For complete classification of this Act to the Code, see Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -205,8 +205,4 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3311 of this title.
 

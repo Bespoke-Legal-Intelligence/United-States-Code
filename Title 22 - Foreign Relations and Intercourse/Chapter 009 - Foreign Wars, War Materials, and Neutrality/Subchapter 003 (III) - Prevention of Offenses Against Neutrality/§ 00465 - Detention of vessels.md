@@ -18,7 +18,3 @@ Section was formerly classified to section 38 of title 18 prior to the general r
 
 Definition of United States as used in this section, see section 408a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 408a of this title.
-

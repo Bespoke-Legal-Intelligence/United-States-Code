@@ -28,7 +28,3 @@ Within 2 years after October 28, 1992, the Administrator shall promulgate regula
 
 (Pub. L. 94–469, title IV, §406, as added Pub. L. 102–550, title X, §1021(a), Oct. 28, 1992, 106 Stat. 3920.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2684 of this title; title 42 sections 4822, 4852d.
-

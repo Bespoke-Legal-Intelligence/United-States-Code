@@ -88,7 +88,3 @@ Contents.—The study conducted under paragraph (1) shall—
 
 &emsp;“(E) examine the abandonment/issuance ratios and length of application pendency before patent issuance or abandonment for published versus unpublished applications.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2, 5, 102, 135, 154, 374 of this title.
-

@@ -4,7 +4,3 @@ There is hereby established in the United States Treasury a fund to be known as 
 
 (Pub. L. 95–395, §4, Sept. 30, 1978, 92 Stat. 814.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1704, 1707 of this title.
-

@@ -34,7 +34,7 @@ Section 31 of the Trademark Act of 1946, referred to in subsec. (c), is classifi
 
 #### Amendments
 
-2002—Subsecs. (a), (b). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113,§1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+2002—Subsecs. (a), (b). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
 1999—Subsecs. (a), (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 

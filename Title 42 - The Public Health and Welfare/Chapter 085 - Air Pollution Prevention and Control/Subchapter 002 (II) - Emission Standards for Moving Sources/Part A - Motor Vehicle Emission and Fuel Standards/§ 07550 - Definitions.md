@@ -16,7 +16,7 @@ As used in this part—
 
 &emsp;(7)
 
-Vehicle curb weight, gross vehicle weight rating, light-duty truck, light-duty vehicle, and loaded vehicle weight.—The terms “vehicle curb weight”, “gross vehicle weight rating” (GVWR), “light-duty truck” (LDT), light-duty vehicle,<sup>1</sup> and “loaded vehicle weight” (LVW) have the meaning provided in regulations promulgated by the Administrator and in effect as of November 15, 1990. The abbreviations in parentheses corresponding to any term referred to in this paragraph shallhave the same meaning as the corresponding term.
+Vehicle curb weight, gross vehicle weight rating, light-duty truck, light-duty vehicle, and loaded vehicle weight.—The terms “vehicle curb weight”, “gross vehicle weight rating” (GVWR), “light-duty truck” (LDT), light-duty vehicle,<sup>1</sup> and “loaded vehicle weight” (LVW) have the meaning provided in regulations promulgated by the Administrator and in effect as of November 15, 1990. The abbreviations in parentheses corresponding to any term referred to in this paragraph shall have the same meaning as the corresponding term.
 
 &emsp;(8)
 
@@ -53,10 +53,6 @@ Par. (1). Pub. L. 91–604, §10(d)(1), inserted reference to section 7521 of th
 Par. (3). Pub. L. 91–604, §10(d)(2), inserted provisions which defined such terms with respect to imported vehicles or engines.
 
 1967—Pub. L. 90–148 inserted “as used in sections 7522, 7525, 7541, and 7542 of this title” after “manufacturer” in par. (1).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7511b, 7545, 7581, 7602, 13211, 13271 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be set off by quotation marks.</i>
 

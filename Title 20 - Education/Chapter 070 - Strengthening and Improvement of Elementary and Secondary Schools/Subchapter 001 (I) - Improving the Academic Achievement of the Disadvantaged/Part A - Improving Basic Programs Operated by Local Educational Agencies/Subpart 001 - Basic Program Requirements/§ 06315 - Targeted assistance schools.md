@@ -24,7 +24,7 @@ In all schools selected to receive funds under section 6313(c) of this title tha
 
 #### (A) In general
 
-&emsp;&emsp;Children who are economically disadvantaged, children with disabilities, migrantchildren or limited English proficient children, are eligible for services under this part on the same basis as other children selected to receive services under this part.
+&emsp;&emsp;Children who are economically disadvantaged, children with disabilities, migrant children or limited English proficient children, are eligible for services under this part on the same basis as other children selected to receive services under this part.
 
 #### (B) Head Start, Even Start, or Early Reading First children
 
@@ -88,7 +88,7 @@ To promote the integration of staff supported with funds under this part into th
 
 &emsp;(1) participate in general professional development and school planning activities; and
 
-&emsp;(2) assume limited duties that are assigned to similar personnel who are not so paid, including duties beyond classroom instruction or that do not benefit participating children, so long as the amount of time spent on suchduties is the same proportion of total work time as prevails with respect to similar personnel at the same school.
+&emsp;(2) assume limited duties that are assigned to similar personnel who are not so paid, including duties beyond classroom instruction or that do not benefit participating children, so long as the amount of time spent on such duties is the same proportion of total work time as prevails with respect to similar personnel at the same school.
 
 #### (e) Special rules
 
@@ -119,8 +119,4 @@ To promote the integration of staff supported with funds under this part into th
 #### Prior Provisions
 
 A prior section 6315, Pub. L. 89–10, title I, §1115, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3539, related to targeted assistance schools, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6311, 6312, 6313, 6316, 6319, 6320, 6394 of this title.
 

@@ -22,6 +22,8 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;“Copies” are material objects, other than phonorecords, in which a work is fixed by any method now known or later developed, and from which the work can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. The term “copies” includes the material object, other than a phonorecord, in which the work is first fixed.
 
+&emsp;A “Copyright Royalty Judge” is a Copyright Royalty Judge appointed under section 802 of this title, and includes any individual serving as an interim Copyright Royalty Judge under such section.
+
 &emsp;“Copyright owner”, with respect to any one of the exclusive rights comprised in a copyright, refers to the owner of that particular right.
 
 &emsp;A work is “created” when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work.
@@ -166,7 +168,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;The terms “WTO Agreement” and “WTO member country” have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–298, title II, §205, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 105–304, title I, §102(a), Oct. 28, 1998, 112 Stat. 2861; Pub. L. 106–44, §1(g)(1), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1011(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–544; Pub. L. 106–379, §2(a), Oct. 27, 2000, 114 Stat. 1444; Pub. L. 107–273, div. C, title III, §13210(5), Nov. 2, 2002, 116 Stat. 1909.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–298, title II, §205, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 105–304, title I, §102(a), Oct. 28, 1998, 112 Stat. 2861; Pub. L. 106–44, §1(g)(1), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1011(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–544; Pub. L. 106–379, §2(a), Oct. 27, 2000, 114 Stat. 1444; Pub. L. 107–273, div. C, title III, §13210(5), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–419, §4, Nov. 30, 2004, 118 Stat. 2361.)
 
 #### Historical and Revision Notes
 
@@ -185,6 +187,8 @@ Section 2(a)(1) of the Work Made For Hire and Copyright Corrections Act of 2000,
 Section 2 of the Uruguay Round Agreements Act, referred to in definitions of “WTO Agreement” and “WTO member country”, is classified to section 3501 of Title 19, Customs Duties.
 
 #### Amendments
+
+2004—Pub. L. 108–419 inserted definition of “Copyright Royalty Judge” after definition of “Copies”.
 
 2002—Pub. L. 107–273, §13210(5)(B), transferred definition of “Registration” to appear after definition of “publicly”.
 
@@ -245,6 +249,10 @@ Pub. L. 100–568, §4(a)(1)(C), inserted definition of “country of origin”.
 Pub. L. 100–568, §4(a)(1)(A), in definition of “Pictorial, graphic, and sculptural works” substituted “diagrams, models, and technical drawings, including architectural plans” for “technical drawings, diagrams, and models”.
 
 1980—Pub. L. 96–517 inserted definition of “computer program”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject to transition provisions, see section 6 of Pub. L. 108–419, set out as an Effective Date; Transition Provisions note under section 801 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -326,6 +334,12 @@ Effective Date.—This Act and the amendments made by this Act \[enacting sectio
 
 Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose.”
 
+#### Short Title of 2004 Amendments
+
+Pub. L. 108–447, div. J, title IX, §1(a), Dec. 8, 2004, 118 Stat. 3393, provided that: “This title \[enacting sections 340 and 341 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending sections 111, 119, 122, and 803 of this title and sections 307, 312, 325, 338, and 339 of Title 47, enacting provisions set out as notes under section 119 of this title and sections 325 and 338 of Title 47, and amending provisions set out as a note under section 119 of this title\] may be cited as the ‘Satellite Home Viewer Extension and Reauthorization Act of 2004’ or the ‘W. J. (Billy) Tauzin Satellite Television Act of 2004’.”
+
+Pub. L. 108–419, §1, Nov. 30, 2004, 118 Stat. 2341, provided that: “This Act \[enacting chapter 8 of this title, amending this section and sections 111, 112, 114 to 116, 118, 119, 1004, 1006, 1007, and 1010 of this title, and enacting provisions set out as a note under section 801 of this title\] may be cited as the ‘Copyright Royalty and Distribution Reform Act of 2004’.”
+
 #### Short Title of 2002 Amendments
 
 Pub. L. 107–321, §1, Dec. 4, 2002, 116 Stat. 2780, provided that: “This Act \[amending section 114 of this title and enacting provisions set out as notes under section 114 of this title\] may be cited as the ‘Small Webcaster Settlement Act of 2002’.”
@@ -372,7 +386,7 @@ Pub. L. 103–198, §1, Dec. 17, 1993, 107 Stat. 2304, provided that: “This Ac
 
 #### Short Title of 1992 Amendments
 
-Pub. L. 102–563, §1, Oct. 28, 1992, 106 Stat. 4237, provided that: “This Act \[enacting chapter 10 of this title, amending this section, sections 801, 804, and 912 of this title, and section 1337 of Title 19, Customs Duties, and enacting provisions set out as a note under section 1001 of this title\] may be cited as the ‘Audio Home Recording Act of 1992’.”
+Pub. L. 102–563, §1, Oct. 28, 1992, 106 Stat. 4237, provided that: “This Act \[enacting chapter 10 of this title, amending this section, sections 801, 804, and 912 of this title, and section 1337 of Title 19, Customs Duties, and enacting provisions set out as a note under section 1001of this title\] may be cited as the ‘Audio Home Recording Act of 1992’.”
 
 Section 1 of Pub. L. 102–307 provided that: “This Act \[enacting sections 179 to 179k of Title 2, The Congress, amending this section and sections 108, 304, 408, 409, and 708 of this title, repealing sections 178 to 178<i>l</i> of Title 2, enacting provisions set out as notes under this section, section 304 of this title, and section 179 of Title 2, and repealing provisions set out as a note under section 178 of Title 2\] may be cited as the ‘Copyright Amendments Act of 1992’.”
 
@@ -384,7 +398,7 @@ Pub. L. 102–64, §1, June 28, 1991, 105 Stat. 320, provided that: “This Act 
 
 #### Short Title of 1990 Amendments
 
-Section 601 of title VI of Pub. L. 101–650 provided that: “This title \[enacting section 106A of this title,amending this section and sections 107, 113, 301, 411, 412, 501, and 506 of this title, and enacting provisions set out as notes under this section and section 106A of this title\] may be cited as the ‘Visual Artists Rights Act of 1990’.”
+Section 601 of title VI of Pub. L. 101–650 provided that: “This title \[enacting section 106A of this title, amending this section and sections 107, 113, 301, 411, 412, 501, and 506 of this title, and enacting provisions set out as notes under this section and section 106A of this title\] may be cited as the ‘Visual Artists Rights Act of 1990’.”
 
 Section 701 of title VII of Pub. L. 101–650 provided that: “This title \[enacting section 120 of this title, amending this section and sections 102, 106, and 301 of this title, and enacting provisions set out as a note above\] may be cited as the ‘Architectural Works Copyright Protection Act’.”
 
@@ -444,7 +458,7 @@ Relationship With Domestic Law.—The provisions of the Berne Convention—
 
 “(b)
 
-Certain Rights Not Affected.—The provisions of the Berne Convention, the adherence of the United States thereto, and satisfaction of United States obligations thereunder, do not expand or reduce any right of an author of a work, whether claimed under Federal, State, or the common law—
+Certain Rights Not Affected.—The provisions of the Berne Convention, the adherence of the United States thereto, and satisfaction of United States obligations thereunder, do not expand or reduce any rightof an author of a work, whether claimed under Federal, State, or the common law—
 
 &emsp;“(1) to claim authorship of the work; or
 
@@ -461,8 +475,4 @@ Pub. L. 103–465, title V, §501, Dec. 8, 1994, 108 Stat. 4973, provided that: 
 &emsp;“(1) the term ‘WTO Agreement’ has the meaning given that term in section 2(9) of the Uruguay Round Agreements Act \[19 U.S.C. 3501(9)\]; and
 
 &emsp;“(2) the term ‘WTO member country’ has the meaning given that term in section 2(10) of the Uruguay Round Agreements Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106A, 114 of this title; title 2 sections 179u, 1741; title 15 section 1129; title 18 sections 2318, 2319; title 28 section 4001.
 

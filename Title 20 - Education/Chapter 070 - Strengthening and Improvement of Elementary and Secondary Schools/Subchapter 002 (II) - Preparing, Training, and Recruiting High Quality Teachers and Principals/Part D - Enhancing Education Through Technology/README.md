@@ -1,9 +1,5 @@
 Part D—Enhancing Education Through Technology
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 6622, 6623, 7345, 7345a, 7351a, 7801, 7881 of this title.
-
 
 ---
 

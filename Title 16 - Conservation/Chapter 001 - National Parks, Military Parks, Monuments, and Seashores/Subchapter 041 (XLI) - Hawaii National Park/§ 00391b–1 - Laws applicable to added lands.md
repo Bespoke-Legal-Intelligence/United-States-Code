@@ -14,7 +14,3 @@ The Federal Power Act, referred to in text, was in the original the “Act of Ju
 
 Section is comprised of section 4 of act June 20, 1938, less last proviso which is classified to section 392b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 392b, 392c, 396c of this title.
-

@@ -34,7 +34,7 @@ Recordkeeping and reporting violations.—A person required to make a report to 
 
 &emsp;(C)
 
-Violations pertaining to cdls.—Any person who is determined by the Secretary, after notice and opportunity for a hearing, tohave committed an act which is a violation of section 31302, 31303, 31304, 31305(b), or 31310(g)(1)(A) of this title shall be liable to the United States for a civil penalty not to exceed $2,500 for each offense.
+Violations pertaining to cdls.—Any person who is determined by the Secretary, after notice and opportunity for a hearing, to have committed an act which is a violation of section 31302, 31303, 31304, 31305(b), or 31310(g)(1)(A) of this title shall be liable to the United States for a civil penalty not to exceed $2,500 for each offense.
 
 &emsp;(D)
 
@@ -141,7 +141,7 @@ Subsec. (b)(8) to (14). Pub. L. 106–159, §206(b), added par. (8) and redesign
 
 1998—Subsec. (b)(1)(A). Pub. L. 105–178, §4015(a)(1), struck out “fix a reasonable time for abatement of the violation,” before “specify the proposed civil penalty”.
 
-Subsec. (b)(1)(B). Pub. L. 105–178, §4015(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “The Secretary shall, not later than 60 days after November 3, 1990, establish operational procedures to require a highway safety specialist or other appropriate representative of the Secretary to initiate, at the time of a safety review, compliance review, or other inspection or audit activity, or within a reasonable time thereafter, an enforcement action whenever any of the offenses referred to in paragraph (2)(A) and (B) can be documented, except recordkeeping violations not specified by the Secretary as serious. The procedures shall—
+Subsec. (b)(1)(B). Pub. L. 105–178, §4015(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “The Secretary shall, not later than 60days after November 3, 1990, establish operational procedures to require a highway safety specialist or other appropriate representative of the Secretary to initiate, at the time of a safety review, compliance review, or other inspection or audit activity, or within a reasonable time thereafter, an enforcement action whenever any of the offenses referred to in paragraph (2)(A) and (B) can be documented, except recordkeeping violations not specified by the Secretary as serious. The procedures shall—
 
 &emsp;“(i) specify those serious recordkeeping violations for which an enforcement action shall be initiated, including instances in which the falsification of records of duty status or drivers’ medical certificates is required or permitted, and such other recordkeeping violations as the Secretary determines to be serious; and
 
@@ -153,7 +153,7 @@ Subsec. (b)(2)(B) to (D). Pub. L. 105–178, §4015(b)(2), (3), added subpar. (B
 
 1996—Subsec. (b)(1)(B). Pub. L. 104–287 substituted “November 3, 1990” for “the date of enactment of this subparagraph” in introductory provisions.
 
-1994—Subsec. (b)(1)(A). Pub. L. 103–272, §5(m)(11)(A), substituted “a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A), or 31502 of this title” for “section 3102 of this title or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, 12005(b), or12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” and “any of those provisions” for “such sections or Act”.
+1994—Subsec. (b)(1)(A). Pub. L. 103–272, §5(m)(11)(A), substituted “a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A), or 31502 of this title” for “section 3102 of this title or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” and “any of those provisions” for “such sections or Act”.
 
 Subsec. (b)(2)(A). Pub. L. 103–272, §5(m)(11)(B), substituted “under subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title” for “pursuant to section 3102 of this title or the Motor Carrier Safety Act of 1984”.
 
@@ -231,11 +231,7 @@ Submission to congress.—The Secretary shall transmit the results of such study
 
 #### Report; Penalties; Effectiveness
 
-Section 213(d) of Pub. L. 98–554 directed Secretary of Transportation to conduct a study of effectiveness of civil and criminal penalties established by amendments made by section 213 of Pub. L. 98–554 in deterring violations of commercial motor vehicle safety regulations issued under title II of Pub. L. 98–554 and in effectively prosecuting such violations when they occur, which study was to examine the effectiveness of penalties in effect before Oct. 30, 1984, in comparison to the penalties established by the amendments made by title II of Pub. L. 98–554, and was to further investigate the need for, and make recommendations concerning, increased fine levels for civil and criminal penalties, and the need for additional categories of civil and criminal penalties to deter further, and prosecute effectively,violations of such commercial motor vehicle safety regulations, and further directed Secretary to submit to Congress a report on the findings of this study, together with legislative recommendations, not later than 2 years after Oct. 30, 1984.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 31144 of this title.
+Section 213(d) of Pub. L. 98–554 directed Secretary of Transportation to conduct a study of effectiveness of civil and criminal penalties established by amendments made by section 213 of Pub. L. 98–554 in deterring violations of commercial motor vehicle safety regulations issued under title II of Pub. L. 98–554 and in effectively prosecuting such violations when they occur, which study was to examine the effectiveness of penalties in effect before Oct. 30, 1984, in comparison to the penalties established by the amendments made by title II of Pub. L. 98–554, and was to further investigate the need for, and make recommendations concerning, increased fine levels for civil and criminal penalties, and the need for additional categories of civil and criminal penalties to deter further, and prosecute effectively, violations of such commercial motor vehicle safety regulations, and further directed Secretary to submit to Congress a report on the findings of this study, together with legislative recommendations, not later than 2 years after Oct. 30, 1984.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

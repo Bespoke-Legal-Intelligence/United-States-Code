@@ -4,7 +4,3 @@ The Petersburg National Military Park, established under authority of sections 4
 
 (Pub. L. 87–603, §1, Aug. 24, 1962, 76 Stat. 403.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 423h–2 of this title.
-

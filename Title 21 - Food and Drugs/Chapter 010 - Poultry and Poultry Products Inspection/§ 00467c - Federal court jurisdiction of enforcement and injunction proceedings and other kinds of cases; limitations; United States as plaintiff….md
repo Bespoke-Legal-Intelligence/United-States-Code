@@ -4,7 +4,3 @@ The United States district courts, the District Court of Guam, the District Cour
 
 (Pub. L. 85–172, §21, as added Pub. L. 90–492, §17, Aug. 18, 1968, 82 Stat. 806.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 454, 467b, 467d of this title.
-

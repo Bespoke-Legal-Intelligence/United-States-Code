@@ -4,7 +4,3 @@ Where any said company shall have sold to citizens of the United States, or to p
 
 (Mar. 3, 1887, ch. 376, §5, 24 Stat. 557.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 897, 903, 906 of this title.
-

@@ -1,6 +1,6 @@
 ### §5925d. International organic research collaboration
 
-The Secretary, acting through the Agricultural Research Service (including the National Agricultural Library) and the Economic Research Service, shall facilitate access by research and extension professionals, farmers, and other interested persons in the United States to, and the use by those persons of, organic research conducted outside the United States.
+The Secretary, acting through the Agricultural Research Service (including the NationalAgricultural Library) and the Economic Research Service, shall facilitate access by research and extension professionals, farmers, and other interested persons in the United States to, and the use by those persons of, organic research conducted outside the United States.
 
 (Pub. L. 107–171, title VII, §7408, May 13, 2002, 116 Stat. 461.)
 

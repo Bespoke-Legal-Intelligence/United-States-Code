@@ -10,9 +10,11 @@ In this chapter—
 
 &emsp;&emsp;(C) an entity organized or existing under the laws of a foreign country if the controlling interest (as defined by the Secretary of Transportation) is held by an individual or entity described in subclause (A) or (B) of this clause.
 
-&emsp;(2) “executive agency” has the same meaning given that term in section 105 of title 5.
+&emsp;(2) “crew” means any employee of a licensee or transferee, or of a contractor or subcontractor of a licensee or transferee, who performs activities in the course of that employment directly relating to the launch, reentry, or other operation of or in a launch vehicle or reentry vehicle that carries human beings.
 
-&emsp;(3) “launch” means to place or try to place a launch vehicle or reentry vehicle and any payload from Earth—
+&emsp;(3) “executive agency” has the same meaning given that term in section 105 of title 5.
+
+&emsp;(4) “launch” means to place or try to place a launch vehicle or reentry vehicle and any payload, crew, or space flight participant from Earth—
 
 &emsp;&emsp;(A) in a suborbital trajectory;
 
@@ -22,55 +24,65 @@ In this chapter—
 
 > &emsp;including activities involved in the preparation of a launch vehicle or payload for launch, when those activities take place at a launch site in the United States.
 
-&emsp;(4) “launch property” means an item built for, or used in, the launch preparation or launch of a launch vehicle.
+&emsp;(5) “launch property” means an item built for, or used in, the launch preparation or launch of a launch vehicle.
 
-&emsp;(5) “launch services” means—
+&emsp;(6) “launch services” means—
 
-&emsp;&emsp;(A) activities involved in the preparation of a launch vehicle and payload for launch; and
+&emsp;&emsp;(A) activities involved in the preparation of a launch vehicle, payload, crew (including crew training), or space flight participant for launch; and
 
 &emsp;&emsp;(B) the conduct of a launch.
 
-&emsp;(6) “launch site” means the location on Earth from which a launch takes place (as defined in a license the Secretary issues or transfers under this chapter) and necessary facilities at that location.
+&emsp;(7) “launch site” means the location on Earth from which a launch takes place (as defined in a license the Secretary issues or transfers under this chapter) and necessary facilities at that location.
 
-&emsp;(7) “launch vehicle” means—
+&emsp;(8) “launch vehicle” means—
 
-&emsp;&emsp;(A) a vehicle built to operate in, or place a payload in, outer space; and
+&emsp;&emsp;(A) a vehicle built to operate in, or place a payload or human beings in, outer space; and
 
 &emsp;&emsp;(B) a suborbital rocket.
 
-&emsp;(8) “obtrusive space advertising” means advertising in outer space that is capable of being recognized by a human being on the surface of the Earth without the aid of a telescope or other technological device.
+&emsp;(9) “obtrusive space advertising” means advertising in outer space that is capable of being recognized by a human being on the surface of the Earth without the aid of a telescope or other technological device.
 
-&emsp;(9) “payload” means an object that a person undertakes to place in outer space by means of a launch vehicle or reentry vehicle, including components of the vehicle specifically designed or adapted for that object.
+&emsp;(10) “payload” means an object that a person undertakes to place in outer space by means of a launch vehicle or reentry vehicle, including components of the vehicle specifically designed or adapted for that object.
 
-&emsp;(10) “person” means an individual and an entity organized or existing under the laws of a State or country.
+&emsp;(11) except in section 70104(c), “permit” means an experimental permit issued under section 70105a.
 
-&emsp;(11) “reenter” and “reentry” mean to return or attempt to return, purposefully, a reentry vehicle and its payload, if any, from Earth orbit or from outer space to Earth.
+&emsp;(12) “person” means an individual and an entity organized or existing under the laws of a State or country.
 
-&emsp;(12) “reentry services” means—
+&emsp;(13) “reenter” and “reentry” mean to return or attempt to return, purposefully, a reentry vehicle and its payload, crew, or space flight participants, if any, from Earth orbit or from outer space to Earth.
 
-&emsp;&emsp;(A) activities involved in the preparation of a reentry vehicle and its payload, if any, for reentry; and
+&emsp;(14) “reentry services” means—
+
+&emsp;&emsp;(A) activities involved in the preparation of a reentry vehicle and payload, crew (including crew training), or space flight participant, if any, for reentry; and
 
 &emsp;&emsp;(B) the conduct of a reentry.
 
-&emsp;(13) “reentry site” means the location on Earth to which a reentry vehicle is intended to return (as defined in a license the Secretary issues or transfers under this chapter).
+&emsp;(15) “reentry site” means the location on Earth to which a reentry vehicle is intended to return (as defined in a license the Secretary issues or transfers under this chapter).
 
-&emsp;(14) “reentry vehicle” means a vehicle designed to return from Earth orbit or outer space to Earth, or a reusable launch vehicle designed to return from Earth orbit or outer space to Earth, substantially intact.
+&emsp;(16) “reentry vehicle” means a vehicle designed to return from Earth orbit or outer space to Earth, or a reusable launch vehicle designed to return from Earth orbit or outer space to Earth, substantially intact.
 
-&emsp;(15) “State” means a State of the United States, the District of Columbia, and a territory or possession of the United States.
+&emsp;(17) “space flight participant” means an individual, who is not crew, carried within a launch vehicle or reentry vehicle.
 
-&emsp;(16) “third party” means a person except—
+&emsp;(18) “State” means a State of the United States, the District of Columbia, and a territory or possession of the United States.
+
+&emsp;(19) unless and until regulations take effect under section 70120(c)(2), “suborbital rocket” means a vehicle, rocket-propelled in whole or in part, intended for flight on a suborbital trajectory, and the thrust of which is greater than its lift for the majority of the rocket-powered portion of its ascent.
+
+&emsp;(20) “suborbital trajectory” means the intentional flight path of a launch vehicle, reentry vehicle, or any portion thereof, whose vacuum instantaneous impact point does not leave the surface of the Earth.
+
+&emsp;(21) “third party” means a person except—
 
 &emsp;&emsp;(A) the United States Government or the Government's contractors or subcontractors involved in launch services or reentry services;
 
 &emsp;&emsp;(B) a licensee or transferee under this chapter;
 
-&emsp;&emsp;(C) a licensee's or transferee's contractors, subcontractors, or customers involved in launch services or reentry services; or
+&emsp;&emsp;(C) a licensee's or transferee's contractors, subcontractors, or customers involved in launch services or reentry services;
 
-&emsp;&emsp;(D) the customer's contractors or subcontractors involved in launch services or reentry services.
+&emsp;&emsp;(D) the customer's contractors or subcontractors involved in launch services or reentry services; or
 
-&emsp;(17) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States.
+&emsp;&emsp;(E) crew or space flight participants.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1331; Pub. L. 104–287, §5(92), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(3), Oct. 28, 1998, 112 Stat. 2846; Pub. L. 106–391, title III, §322(a), Oct. 30, 2000, 114 Stat. 1598.)
+&emsp;(22) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1331; Pub. L. 104–287, §5(92), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(3), Oct. 28, 1998, 112 Stat. 2846; Pub. L. 106–391, title III, §322(a), Oct. 30, 2000, 114 Stat. 1598; Pub. L. 108–492, §2(b), Dec. 23, 2004, 118 Stat. 3975.)
 
 Historical and Revision Notes
 
@@ -136,6 +148,42 @@ This amends 49:70102(6) to correct an error in the codification enacted by secti
 
 #### Amendments
 
+2004—Par. (2). Pub. L. 108–492, §2(b)(2), added par. (2). Former par. (2) redesignated (3).
+
+Par. (3). Pub. L. 108–492, §2(b)(1), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+Par. (4). Pub. L. 108–492, §2(b)(1), (3), redesignated par. (3) as (4) and inserted “, crew, or space flight participant” after “any payload” in introductory provisions. Former par. (4) redesignated (5).
+
+Par. (5). Pub. L. 108–492, §2(b)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Par. (6). Pub. L. 108–492, §2(b)(1), (4), redesignated par. (5) as (6) and substituted “, payload, crew (including crew training), or space flight participant” for “and payload” in subpar. (A). Former par. (6) redesignated (7).
+
+Par. (7). Pub. L. 108–492, §2(b)(1), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+
+Par. (8). Pub. L. 108–492, §2(b)(1), (5), redesignated par. (7) as (8) and inserted “or human beings” after “place a payload” in subpar. (A). Former par. (8) redesignated (9).
+
+Pars. (9), (10). Pub. L. 108–492, §2(b)(1), redesignated pars. (8) and (9) as (9) and (10), respectively. Former par. (10) redesignated (12).
+
+Par. (11). Pub. L. 108–492, §2(b)(6), added par. (11). Former par. (11) redesignated (13).
+
+Par. (12). Pub. L. 108–492, §2(b)(1), redesignated par. (10) as (12). Former par. (12) redesignated (14).
+
+Par. (13). Pub. L. 108–492, §2(b)(1), (7), redesignated par. (11) as (13) and inserted “crew, or space flight participants,” after “and its payload,”. Former par. (13) redesignated (15).
+
+Par. (14). Pub. L. 108–492, §2(b)(1), (8), redesignated par. (12) as (14) and substituted “and payload, crew (including crew training), or space flight participant” for “and its payload” in subpar. (A). Former par. (14) redesignated (16).
+
+Pars. (15), (16). Pub. L. 108–492, §2(b)(1), redesignated pars. (13) and (14) as (15) and (16), respectively. Former pars. (15) and (16) redesignated (18) and (21), respectively.
+
+Par. (17). Pub. L. 108–492, §2(b)(9), added par. (17). Former par. (17) redesignated (22).
+
+Par. (18). Pub. L. 108–492, §2(b)(1), redesignated par. (15) as (18).
+
+Pars. (19), (20). Pub. L. 108–492, §2(b)(10), added pars. (19) and (20).
+
+Par. (21). Pub. L. 108–492, §2(b)(1), (11), redesignated par. (16) as (21) and added subpar. (E).
+
+Par. (22). Pub. L. 108–492, §2(b)(1), redesignated par. (17) as (22).
+
 2000—Pars. (8) to (17). Pub. L. 106–391 added par. (8) and redesignated former pars. (8) to (16) as (9) to (17), respectively.
 
 1998—Par. (3). Pub. L. 105–303, §102(a)(3)(A), substituted “or reentry vehicle and any payload from Earth” for “and any payload” in introductory provisions and a comma for the period at end of subpar. (C) and inserted concluding provisions.
@@ -155,8 +203,4 @@ Par. (16). Pub. L. 105–303, §102(a)(3)(C), redesignated par. (12) as (16).
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 70104 of this title.
 

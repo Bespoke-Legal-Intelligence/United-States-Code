@@ -82,7 +82,3 @@ Pub. L. 103–172, §1(a), Dec. 2, 1993, 107 Stat. 1995, provided that: “This 
 
 Pub. L. 99–251, title I, §110, Feb. 27, 1986, 100 Stat. 17, directed Director of Office of Personnel Management to conduct a demonstration project to determine most effective method of furnishing health protection, health promotion, disease prevention, and secondary prevention services to Federal Government employees, with Director to report to Congress no later than 60 days after termination of project on Feb. 27, 1988.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 50 section 403j.
-

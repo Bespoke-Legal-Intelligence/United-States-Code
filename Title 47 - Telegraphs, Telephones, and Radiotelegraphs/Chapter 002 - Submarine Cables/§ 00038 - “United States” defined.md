@@ -14,7 +14,3 @@ Words “the Philippine Islands” deleted on authority of Proc. No. 2695 issued
 
 Section was not enacted as part of the Submarine Cable Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 34, 36, 39 of this title.
-

@@ -20,7 +20,7 @@ Section is comprised of subsec. (b) of section 14 of act Dec. 23, 1913. For clas
 
 1980—Par. (1). Pub. L. 96–221 inserted provisions relating to obligations of a foreign government or agency thereof.
 
-1979—Par. (1). Pub. L. 96–18, §1(a), struck out proviso under which Federal Reserve banks had been allowed, until May 1, 1979, to buy and sell either in the open market or directly from or to the United States bonds, notes, or other obligations which were direct obligations of the United States or which were fully guaranteed by the United States and, after Apr. 30, 1979, hadallowed such obligations to be purchased but only in the open market.
+1979—Par. (1). Pub. L. 96–18, §1(a), struck out proviso under which Federal Reserve banks had been allowed, until May 1, 1979, to buy and sell either in the open market or directly from or to the United States bonds, notes, or other obligations which were direct obligations of the United States or which were fully guaranteed by the United States and, after Apr. 30, 1979, had allowed such obligations to be purchased but only in the open market.
 
 Pub. L. 96–18, §3(b), inserted provision that notwithstanding any other provision of this chapter, any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.
 
@@ -99,10 +99,6 @@ Section 3(b) of Pub. L. 96–18 provided that the amendment made by that section
 #### Expiration of 1942 Amendment
 
 Amendment of the proviso of this section by act Mar. 27, 1942, remained in force only until the date fixed by section 645 of Appendix to Title 50, War and National Defense, after which provisions in force before the amendment again became effective. Before the 1942 amendment, the proviso of this section read: <i>“Provided</i>, That any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 263, 347, 412, 2158 of this title; title 20 section 1087–2.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

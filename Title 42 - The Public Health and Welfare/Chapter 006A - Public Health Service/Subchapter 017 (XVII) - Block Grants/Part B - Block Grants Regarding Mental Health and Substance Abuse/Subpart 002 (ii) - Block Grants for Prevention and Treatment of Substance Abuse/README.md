@@ -1,9 +1,5 @@
 subpart ii—block grants for prevention and treatment of substance abuse
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 290kk, 300x–59, 422, 1383e of this title.
-
 
 ---
 

@@ -22,7 +22,3 @@ Section was not enacted as part of the Federal Credit Union Act which comprises 
 
 “Board” and “the Board's”, meaning the National Credit Union Administration Board, substituted in par. (3) for “Director” and “his”, respectively, meaning Director of Bureau of Federal Credit Unions, pursuant to section 3 of Pub. L. 91–206 and section 501 of Pub. L. 95–630 \[12 U.S.C. 1752a\] which transferred functions of Bureau of Federal Credit Unions, and Director thereof, to National Credit Union Administration and vested authority for management of Administration in National Credit Union Administration Board.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1773 of this title.
-

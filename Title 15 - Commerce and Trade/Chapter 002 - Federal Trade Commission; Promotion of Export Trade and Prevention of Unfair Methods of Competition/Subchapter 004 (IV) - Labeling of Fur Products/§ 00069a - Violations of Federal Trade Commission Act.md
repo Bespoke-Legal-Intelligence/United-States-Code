@@ -30,7 +30,3 @@ Subsections (a), (b), and (c) of this section shall not apply to any common carr
 
 The Federal Trade Commission Act, referred to in section catchline and subsecs. (a) to (e), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 69f, 69g, 69h, 69i of this title.
-

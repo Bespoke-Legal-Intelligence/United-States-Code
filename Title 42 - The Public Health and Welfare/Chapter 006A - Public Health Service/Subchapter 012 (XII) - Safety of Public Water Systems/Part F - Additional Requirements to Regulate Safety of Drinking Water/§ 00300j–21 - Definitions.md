@@ -4,7 +4,7 @@ As used in this part—
 
 #### (1) Drinking water cooler
 
-&emsp;The term “drinking water cooler” means any mechanical device affixed to drinkingwater supply plumbing which actively cools water for human consumption.
+&emsp;The term “drinking water cooler” means any mechanical device affixed to drinking water supply plumbing which actively cools water for human consumption.
 
 #### (2) Lead free
 

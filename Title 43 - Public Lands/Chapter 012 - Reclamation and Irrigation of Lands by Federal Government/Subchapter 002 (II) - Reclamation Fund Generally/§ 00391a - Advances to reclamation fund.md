@@ -8,7 +8,3 @@ The Secretary of the Treasury is authorized, upon request of the Secretary of th
 
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 391a–1 of this title.
-

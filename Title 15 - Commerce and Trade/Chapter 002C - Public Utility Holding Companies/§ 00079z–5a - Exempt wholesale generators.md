@@ -32,7 +32,7 @@ Notwithstanding paragraphs (1) and (2) of subsection (a) of this section, retail
 
 #### (c) State consent for existing rate-based facilities
 
-If a rate or charge for, or in connection with, the construction of a facility, or for electric energy produced by a facility (other than any portion of a rate or charge which represents recovery of the cost of a wholesale rate or charge) was in effect under the laws of any State as of October 24, 1992, in order for the facility to be considered an eligible facility, every State commission having jurisdiction over any such rate or charge must make a specific determination that allowing such facility to be an eligible facility (1) will benefit consumers, (2) is in the public interest, and (3) does not violate State law; <i>Provided</i>, That in the case of such a rate or charge which is a rate or charge of an affiliate of a registered holding company:
+If a rate or charge for, or in connection with, the construction of a facility, or for electric energy produced by a facility (other than any portion of a rate or charge which represents recovery of the cost of a wholesale rate or charge) was in effect under the laws of any State as of October 24, 1992, in order for the facility to beconsidered an eligible facility, every State commission having jurisdiction over any such rate or charge must make a specific determination that allowing such facility to be an eligible facility (1) will benefit consumers, (2) is in the public interest, and (3) does not violate State law; <i>Provided</i>, That in the case of such a rate or charge which is a rate or charge of an affiliate of a registered holding company:
 
 &emsp;(A) such determination with respect to the facility in question shall be required from every State commission having jurisdiction over the retail rates and charges of the affiliates of such registered holding company; and
 
@@ -40,7 +40,7 @@ If a rate or charge for, or in connection with, the construction of a facility, 
 
 #### (d) Hybrids
 
-(1) No exempt wholesale generator may own or operate a portion of any facility if any other portion of the facility is owned or operated byan electric utility company that is an affiliate or associate company of such exempt wholesale generator.
+(1) No exempt wholesale generator may own or operate a portion of any facility if any other portion of the facility is owned or operated by an electric utility company that is an affiliate or associate company of such exempt wholesale generator.
 
 (2)
 
@@ -72,7 +72,7 @@ The issuance of securities by a registered holding company for purposes of finan
 
 &emsp;(5) the Commission shall make its decision under paragraph (3) to approve or disapprove the issue or sale of a security or the guarantee of a security within 120 days of the filing of a declaration concerning such issue, sale or guarantee; and
 
-&emsp;(6) the Commission shall promulgate regulations with respect to the actions which would be considered, for purposes of this subsection, to have a substantial adverse impact on the financial integrity of the registered holding company system; such regulations shall ensure that the action has no adverse impact on any utility subsidiary or its customers, or on the ability of State commissions to protect such subsidiary or customers, and shall take into account the amount and type of capital invested in exempt wholesale generators, the ratio of such capital to the total capital invested in utility operations, the availability of books and records, and the financial and operating experience of the registered holding company and the exempt wholesale generator; the Commission shall promulgate such regulations within 6 months after October 24, 1992; after such 6-month period the Commission shall not approve any actions under paragraph (3), (4) or (5) except in accordance with such issued regulations.
+&emsp;(6) the Commission shall promulgate regulations with respect to the actions which would be considered, for purposes of this subsection, to have a substantial adverse impact on the financial integrity of the registered holdingcompany system; such regulations shall ensure that the action has no adverse impact on any utility subsidiary or its customers, or on the ability of State commissions to protect such subsidiary or customers, and shall take into account the amount and type of capital invested in exempt wholesale generators, the ratio of such capital to the total capital invested in utility operations, the availability of books and records, and the financial and operating experience of the registered holding company and the exempt wholesale generator; the Commission shall promulgate such regulations within 6 months after October 24, 1992; after such 6-month period the Commission shall not approve any actions under paragraph (3), (4) or (5) except in accordance with such issued regulations.
 
 #### (i) Application of chapter to other eligible facilities
 
@@ -129,8 +129,4 @@ A prior section 32 of act Aug. 26, 1935, ch. 687, was renumbered section 35 and 
 #### State Authorities; Construction
 
 Nothing in this section to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 79 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 sections 796, 2621.
 

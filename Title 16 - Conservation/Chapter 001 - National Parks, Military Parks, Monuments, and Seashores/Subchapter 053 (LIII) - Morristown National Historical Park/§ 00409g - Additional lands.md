@@ -20,7 +20,3 @@ Section was not enacted as a part of act Mar. 2, 1933, ch. 182, 47 Stat. 1421, a
 
 Section 3 of Pub. L. 88–601, as amended by Pub. L. 93–477, title I, §101(8), Oct. 26, 1974, 88 Stat. 1445, provided that: “There are authorized to be appropriated such sums, but not more than $2,111,000 for acquisition of lands and interests in land, as may be necessary to carry out the purposes of this Act \[sections 409g and 409h of this title\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 409h of this title.
-

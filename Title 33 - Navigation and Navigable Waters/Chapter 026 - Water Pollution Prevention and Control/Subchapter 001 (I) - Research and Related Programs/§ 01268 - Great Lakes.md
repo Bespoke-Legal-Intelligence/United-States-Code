@@ -14,7 +14,7 @@
 
 #### (2) Purpose
 
-&emsp;It is the purpose of this section to achieve the goals embodied in the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments, through improved organization and definition of mission on the part of the Agency, funding of State grants for pollution control in the Great Lakes area, and improved accountability for implementation of such agreement.
+&emsp;It is the purpose of this section to achieve the goals embodied in the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and anyother agreements and amendments, through improved organization and definition of mission on the part of the Agency, funding of State grants for pollution control in the Great Lakes area, and improved accountability for implementation of such agreement.
 
 #### (3) Definitions
 
@@ -78,7 +78,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;&emsp;(iii) includes such Remedial Action Plans within the State's water quality plan by January 1, 1993.
 
-&emsp;(B) For each area of concern for which Canada has agreed to draft a Remedial Action Plan, the Program Office shall, pursuant to subparagraph (c)(1)(C) of this section, work with Canada to assure the submission of such Remedial Action Plans to the InternationalJoint Commission by June 30, 1991, and to finalize such Remedial Action Plans by January 1, 1993.
+&emsp;(B) For each area of concern for which Canada has agreed to draft a Remedial Action Plan, the Program Office shall, pursuant to subparagraph (c)(1)(C) of this section, work with Canada to assure the submission of such Remedial Action Plans to the International Joint Commission by June 30, 1991, and to finalize such Remedial Action Plans by January 1, 1993.
 
 &emsp;(C) For any area of concern designated as such subsequent to November 16, 1990, the Program Office shall (i) if the United States has agreed to draft the Remedial Action Plan, ensure that the Great Lakes State in which such area of concern is located submits such Plan to the Program Office within two years of the area's designation, submits it to the International Joint Commission no later than six months after submitting it to the Program Office, and includes such Plan in the State's water quality plan no later than one year after submitting it to the Commission; and (ii) if Canada has agreed to draft the Remedial Action Plan, work with Canada, pursuant to subparagraph (c)(1)(C) of this section, to ensure the submission of such Plan to the International Joint Commission within two years of the area's designation and the finalization of such Plan no later than eighteen months after submitting it to such Commission.
 
@@ -298,7 +298,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (1) Joint plan
 
-&emsp;Before October 1 of each year, the Program Office and the Research Office shall prepare ajoint research plan for the fiscal year which begins in the following calendar year.
+&emsp;Before October 1 of each year, the Program Office and the Research Office shall prepare a joint research plan for the fiscal year which begins in the following calendar year.
 
 #### (2) Contents of plan
 
@@ -368,11 +368,15 @@ Subsec. (e)(3). Pub. L. 101–596, §106, added par. (3).
 
 Subsec. (h). Pub. L. 101–596, §105, substituted “and 1990, and $25,000,000 for fiscal year 1991” for “1990, and 1991” in introductory provisions and inserted “or $3,300,000, whichever is the lesser,” after “30 percent” in par. (3).
 
-1988—Subsecs. (a)(1)(B), (2), (c)(1)(A), (6)(A), (D), (e)(2)(A), (f). Pub. L. 100–688 inserted “, as amended bythe Water Quality Agreement of 1987 and any other agreements and amendments,” after “the Great Lakes Water Quality Agreement of 1978”.
+1988—Subsecs. (a)(1)(B), (2), (c)(1)(A), (6)(A), (D), (e)(2)(A), (f). Pub. L. 100–688 inserted “, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,” after “the Great Lakes Water Quality Agreement of 1978”.
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Funds Contributed by a Non-Federal Sponsor
+
+Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3332, provided in part that: “The Administrator \[of the Environmental Protection Agency\] may hereafter receive and use funds contributed by a non-Federal sponsor as its share of the cost of a project to carry out a project under paragraph (c)(12) of section 118 of the Federal Water Pollution Control Act \[33 U.S.C. 1268(c)(12)\], as amended.”
 
 #### Great Lakes Remedial Action Plans and Sediment Remediation
 
@@ -418,9 +422,59 @@ Non-federal share.—Non-Federal interests shall contribute 35 percent of costs 
 
 Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $10,000,000 for each of fiscal years 2001 through 2006.”
 
-#### Section Referred to in Other Sections
+#### Ex. Ord. No. 13340. Establishment of Great Lakes Interagency Task Force and Promotion of a Regional Collaboration of National Significance for the Great Lakes
 
-This section is referred to in section 2902 of this title; title 16 section 1447b.
+Ex. Ord. No. 13340, May 18, 2004, 69 F.R. 29043, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to help establish a regional collaboration of national significance for the Great Lakes, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The Great Lakes are a national treasure constituting the largest freshwater system in the world. The United States and Canada have made great progress addressing past and current environmental impacts to the Great Lakes ecology. The Federal Government is committed to making progress on the many significant challenges that remain. Along with numerous State, tribal, and local programs, over 140 Federal programs help fund and implement environmental restoration and management activities throughout the Great Lakes system. A number of intergovernmental bodies are providing leadership in the region to address environmental and resource management issues in the Great Lakes system. These activities would benefit substantially from more systematic collaboration and better integration of effort. It is the policy of the Federal Government to support local and regional efforts to address environmental challenges and to encourage local citizen and community stewardship. To this end, the Federal Government will partner with the Great Lakes States, tribal and local governments, communities, and other interests to establish a regional collaboration to address nationally significant environmental and natural resource issues involving the Great Lakes. It is the further policy of the Federal Government that its executive departments and agencies will ensure that their programs are funding effective, coordinated, and environmentally sound activities in the Great Lakes system.
+
+Sec. 2. <i>Definitions</i>. For purposes of this order:
+
+(a) “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron (including Lake Saint Clair), Lake Michigan, and Lake Superior, and the connecting channels (Saint Marys River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canadian Border).
+
+(b) “Great Lakes system” means all the streams, rivers, lakes, and other bodies of water within the drainage basin of the Great Lakes.
+
+Sec. 3. <i>Great Lakes Interagency Task Force</i>.
+
+(a) Task Force Purpose. To further the policy described in section 1 of this order, there is established, within the Environmental Protection Agency for administrative purposes, the “Great Lakes Interagency Task Force” (Task Force) to:
+
+&emsp;(i) Help convene and establish a process for collaboration among the members of the Task Force and the members of the Working Group that is established in paragraph b(ii) of this section, with the Great Lakes States, local communities, tribes, regional bodies, and other interests in the Great Lakes region regarding policies, strategies, plans, programs, projects, activities, and priorities for the Great Lakes system.
+
+&emsp;(ii) Collaborate with Canada and its provinces and with bi-national bodies involved in the Great Lakesregion regarding policies, strategies, projects, and priorities for the Great Lakes system.
+
+&emsp;(iii) Coordinate the development of consistent Federal policies, strategies, projects, and priorities for addressing the restoration and protection of the Great Lakes system and assisting in the appropriate management of the Great Lakes system.
+
+&emsp;(iv) Develop outcome-based goals for the Great Lakes system relying upon, among other things, existing data and science-based indicators of water quality and related environmental factors. These goals shall focus on outcomes such as cleaner water, sustainable fisheries, and biodiversity of the Great Lakes system and ensure that Federal policies, strategies, projects, and priorities support measurable results.
+
+&emsp;(v) Exchange information regarding policies, strategies, projects, and activities of the agencies represented on the Task Force related to the Great Lakes system.
+
+&emsp;(vi) Work to coordinate government action associated with the Great Lakes system.
+
+&emsp;(vii) Ensure coordinated Federal scientific and other research associated with the Great Lakes system.
+
+&emsp;(viii) Ensure coordinated government development and implementation of the Great Lakes portion of the Global Earth Observation System of Systems.
+
+&emsp;(ix) Provide assistance and support to agencies represented on the Task Force in their activities related to the Great Lakes system.
+
+&emsp;(x) Submit a report to the President by May 31, 2005, and thereafter as appropriate, that summarizes the activities of the Task Force and provides any recommendations that would, in the judgment of the Task Force, advance the policy set forth in section 1 of this order.
+
+(b) Membership and Operation.
+
+&emsp;(i) The Task Force shall consist exclusively of the following officers of the United States: the Administrator of the Environmental Protection Agency (who shall chair the Task Force), the Secretary of State, the Secretary of the Interior, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Secretary of Homeland Security, the Secretary of the Army, and the Chairman of the Council on Environmental Quality. A member of the Task Force may designate, to perform the Task Force functions of the member, any person who is part of the member's department, agency, or office and who is either an officer of the United States appointed by the President or a full-time employee serving in a position with pay equal to or greater than the minimum rate payable for GS–15 of the General Schedule. The Task Force shall report to the President through the Chairman of the Council on Environmental Quality.
+
+&emsp;(ii) The Task Force shall establish a “Great Lakes Regional Working Group” (Working Group) composed of the appropriate regional administrator or director with programmatic responsibility for the Great Lakes system for each agency represented on the Task Force including: the Great Lakes National Program Office of the Environmental Protection Agency; the United States Fish and Wildlife Service, National Park Service, and United States Geological Survey within the Department of the Interior; the Natural Resources Conservation Service and the Forest Service of the Department of Agriculture; the National Oceanic and Atmospheric Administration of the Department of Commerce; the Department of Housing and Urban Development; the Department of Transportation; the Coast Guard within the Department of Homeland Security; and the Army Corps of Engineers within the Department of the Army. The Working Group will coordinate and make recommendations on how to implement the policies, strategies, projects, and priorities of the Task Force.
+
+(c) Management Principles for Regional Collaboration of National Significance. To further the policy described in section 1, the Task Force shall recognize and apply key principles and foster conditions to ensure successful collaboration. To that end, the Environmental Protection Agency will coordinate the development of a set of principles of successful collaboration.
+
+Sec. 4. <i>Great Lakes National Program Office</i>. The Great Lakes National Program Office of the Environmental Protection Agency shall assist the Task Force and the Working Group in the performance of their functions. The Great Lakes National Program Manager shall serve as chair of the Working Group.
+
+Sec. 5. <i>Preservation of Authority</i>. Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, regulatory, and legislative proposals. Nothing in this order shall be construed to affect the statutory authority or obligations of any Federal agency or any bi-national agreement with Canada.
+
+Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities or entities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original.</i>
 

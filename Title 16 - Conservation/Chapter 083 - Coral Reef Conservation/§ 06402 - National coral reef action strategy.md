@@ -6,7 +6,7 @@ Not later than 180 days after December 23, 2000, the Administrator shall submit 
 
 #### (b) Goals and objectives
 
-The action strategy shall include a statement of goals and objectives as well as an implementation plan, including a description of the funds obligated each fiscal year to advance coral reef conservation. The action strategy and implementation plan shall include discussion of—
+The action strategy shall include a statement of goals and objectives as well as an implementation plan, including a description of the fundsobligated each fiscal year to advance coral reef conservation. The action strategy and implementation plan shall include discussion of—
 
 &emsp;(1) coastal uses and management;
 
@@ -29,8 +29,4 @@ The action strategy shall include a statement of goals and objectives as well as
 #### References in Text
 
 Executive Order 13089, referred to in subsec. (a), is set out as a note under section 6401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6403, 6404, 6407 of this title.
 

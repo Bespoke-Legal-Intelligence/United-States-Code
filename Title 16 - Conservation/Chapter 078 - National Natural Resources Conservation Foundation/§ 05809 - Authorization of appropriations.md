@@ -4,7 +4,3 @@ There are authorized to be appropriated to the Department to be made available t
 
 (Pub. L. 104–127, title III, §360, Apr. 4, 1996, 110 Stat. 1014.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5805 of this title.
-

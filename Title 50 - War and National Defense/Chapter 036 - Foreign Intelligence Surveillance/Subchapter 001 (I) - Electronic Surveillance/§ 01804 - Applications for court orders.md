@@ -58,7 +58,7 @@ The judge may require the applicant to furnish such other information as may be 
 
 #### (e) Personal review by Attorney General
 
-(1)(A) Upon written request of the Director of the Federal Bureau of Investigation, the Secretary of Defense, the Secretary of State, or the Director of Central Intelligence, the Attorney General shall personally review under subsection (a) of this section an application under that subsection for a target described in section 1801(b)(2) of this title.
+(1)(A) Upon written request of the Director of the Federal Bureau of Investigation, the Secretary of Defense, the Secretary of State, or the Director of National Intelligence, the Attorney General shall personally review under subsection (a) of this section an application under that subsection for a target described in section 1801(b)(2) of this title.
 
 (B) Except when disabled or otherwise unavailable to make a request referred to in subparagraph (A), an official referred to in that subparagraph may not delegate the authority to make a request referred to in that subparagraph.
 
@@ -70,7 +70,7 @@ The judge may require the applicant to furnish such other information as may be 
 
 (C) Upon review of any modifications of an application set forth under subparagraph (B), the official notified of the modifications under this paragraph shall modify the application if such official determines that such modification is warranted. Such official shall supervise the making of any modification under this subparagraph. Except when disabled or otherwise unavailable to supervise the making of any modification under the preceding sentence, such official may not delegate the responsibility to supervise the making of any modification under that preceding sentence. Each such official shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event such official is disabled or otherwise unavailable to supervise the making of such modification.
 
-(Pub. L. 95–511, title I, §104, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 106–567, title VI, §602(a), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291.)
+(Pub. L. 95–511, title I, §104, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 106–567, title VI, §602(a), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691.)
 
 #### Amendment of Section
 
@@ -78,9 +78,15 @@ The judge may require the applicant to furnish such other information as may be 
 
 #### Amendments
 
+2004—Subsec. (e)(1)(A). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
 2001—Subsec. (a)(7)(B). Pub. L. 107–56, §§218, 224, temporarily substituted “a significant purpose” for “the purpose”. See Termination Date of 2001 Amendment note below.
 
 2000—Subsec. (e). Pub. L. 106–567 added subsec. (e).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Termination Date of 2001 Amendment
 
@@ -89,8 +95,4 @@ Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amen
 #### Designation of Certain Officials To Make Certifications
 
 For designation of certain officials to make certifications required by subsec. (a)(7) of this section, see Ex. Ord. No. 12139, May 23, 1979, 44 F.R. 30311, set out under section 1802 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1802, 1805, 1806 of this title.
 

@@ -44,7 +44,3 @@ Now, therefore, by virtue of the authority vested in me by the foregoing statuto
 
 This order supersedes Executive Order No. 8381 of March 22, 1940, entitled “Defining Certain Vital Military and Naval Installations and Equipment.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 796, 797, 951 of this title; title 19 section 1583; title 50 App. section 34.
-

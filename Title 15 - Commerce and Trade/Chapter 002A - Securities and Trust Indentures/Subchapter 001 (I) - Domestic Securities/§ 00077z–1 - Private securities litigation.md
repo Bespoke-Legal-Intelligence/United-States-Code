@@ -42,7 +42,7 @@
 
 #### (ii) Multiple actions
 
-&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the same claim or claims arising under this subchapter is filed, only the plaintiff or plaintiffs in the first filed action shall be required to cause notice to be published in accordance with clause (i).
+&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the sameclaim or claims arising under this subchapter is filed, only the plaintiff or plaintiffs in the first filed action shall be required to cause notice to be published in accordance with clause (i).
 
 #### (iii) Additional notices may be required under Federal rules
 
@@ -52,7 +52,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 90 days after the date on which a notice is published under subparagraph (A)(i), the court shall consider any motion made by a purported class member in response to the notice, including any motion by a class member who is not individually named as a plaintiff in the complaint or complaints, and shall appoint as lead plaintiff the member or members of the purported plaintiff class that the courtdetermines to be most capable of adequately representing the interests of class members (hereafter in this paragraph referred to as the “most adequate plaintiff”) in accordance with this subparagraph.
+&emsp;&emsp;&emsp;Not later than 90 days after the date on which a notice is published under subparagraph (A)(i), the court shall consider any motion made by a purported class member in response to the notice, including any motion by a class member who is not individually named as a plaintiff in the complaint or complaints, and shall appoint as lead plaintiff the member or members of the purported plaintiff class that the court determines to be most capable of adequately representing the interests of class members (hereafter in this paragraph referred to as the “most adequate plaintiff”) in accordance with this subparagraph.
 
 #### (ii) Consolidated actions
 
@@ -176,7 +176,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), for purposes of paragraph (2), the court shall adopt a presumption that the appropriate sanction—
+&emsp;&emsp;Subject to subparagraphs (B) and (C), for purposes of paragraph (2), the court shalladopt a presumption that the appropriate sanction—
 
 &emsp;&emsp;&emsp;(i) for failure of any responsive pleading or dispositive motion to comply with any requirement of Rule 11(b) of the Federal Rules of Civil Procedure is an award to the opposing party of the reasonable attorneys’ fees and other expenses incurred as a direct result of the violation; and
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;The presumption described in subparagraph (A) may be rebutted only upon proof by the party or attorney against whom sanctions are to be imposed that—
 
-&emsp;&emsp;&emsp;(i) the award of attorneys’ fees and other expenses will impose an unreasonable burden on that party or attorney and would be unjust, and the failure to make such anaward would not impose a greater burden on the party in whose favor sanctions are to be imposed; or
+&emsp;&emsp;&emsp;(i) the award of attorneys’ fees and other expenses will impose an unreasonable burden on that party or attorney and would be unjust, and the failure to make such an award would not impose a greater burden on the party in whose favor sanctions are to be imposed; or
 
 &emsp;&emsp;&emsp;(ii) the violation of Rule 11(b) of the Federal Rules of Civil Procedure was de minimis.
 

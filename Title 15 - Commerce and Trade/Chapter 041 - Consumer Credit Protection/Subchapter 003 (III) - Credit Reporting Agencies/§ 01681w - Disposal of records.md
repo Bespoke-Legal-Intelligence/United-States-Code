@@ -36,7 +36,3 @@ Public Law 106–102, referred to in subsec. (a)(2)(B), is Pub. L. 106–102, No
 
 Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1681t of this title.
-

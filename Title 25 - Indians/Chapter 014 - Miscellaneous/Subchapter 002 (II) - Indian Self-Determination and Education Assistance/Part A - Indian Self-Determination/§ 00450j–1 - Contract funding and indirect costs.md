@@ -44,7 +44,7 @@ The amount of funds required by subsection (a) of this section—
 
 &emsp;&emsp;(A) a reduction in appropriations from the previous fiscal year for the program or function to be contracted;
 
-&emsp;&emsp;(B) a directive in the statement of the managers accompanying a conference reporton an appropriation bill or continuing resolution;
+&emsp;&emsp;(B) a directive in the statement of the managers accompanying a conference report on an appropriation bill or continuing resolution;
 
 &emsp;&emsp;(C) a tribal authorization;
 
@@ -100,7 +100,7 @@ In calculating the indirect costs associated with a self-determination contract 
 
 #### (i) Indian Health Service and Bureau of Indian Affairs budget consultations
 
-On an annual basis, the Secretary shall consult with, and solicit the participation of, Indiantribes and tribal organizations in the development of the budget for the Indian Health Service and the Bureau of Indian Affairs (including participation of Indian tribes and tribal organizations in formulating annual budget requests that the Secretary submits to the President for submission to Congress pursuant to section 1105 of title 31).
+On an annual basis, the Secretary shall consult with, and solicit the participation of, Indian tribes and tribal organizations in the development of the budget for the Indian Health Service and the Bureau of Indian Affairs (including participation of Indian tribes and tribal organizations in formulating annual budget requests that the Secretary submits to the President for submission to Congress pursuant to section 1105 of title 31).
 
 #### (j) Use of funds for matching or cost participation requirements
 
@@ -195,8 +195,4 @@ Subsecs. (j) to (<i>o</i>). Pub. L. 103–413, §102(19), added subsecs. (j) to 
 Subsec. (f). Pub. L. 101–301, §2(a)(8), substituted “prior to enactment of chapter 75 of title 31” for “prior to enactment of the Single Agency Audit Act of 1984 (chapter 75 of title 31)”, which for purposes of codification was translated as “prior to October 19, 1984”, requiring no change in text.
 
 Subsec. (i). Pub. L. 101–301, §2(a)(9), substituted “agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency)” for “agency personnel”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13a, 450c, 450f, 450j, 450<i>l</i>, 458aaa–4, 458aaa–5, 458aaa–7, 458aaa–15, 2008, 2507 of this title.
 

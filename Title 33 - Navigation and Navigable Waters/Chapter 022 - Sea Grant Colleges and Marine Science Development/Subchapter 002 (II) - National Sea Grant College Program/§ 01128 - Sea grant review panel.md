@@ -72,7 +72,3 @@ Subsec. (c)(3). Pub. L. 100–220, §3108(2)(D), struck out “, or until 90 da
 
 1980—Subsec. (c)(3). Pub. L. 96–289 substituted authorization for reappointment for one additional full term of an appointee to a partial or full term for prior authorization for filling vacancies for remainder of appointee's term and prohibition against status as a voting member after service of one full term as such voting member.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1122 of this title.
-

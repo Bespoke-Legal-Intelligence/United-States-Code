@@ -4,7 +4,3 @@ If any person claiming to be a bona fide purchaser of any lands erroneously pate
 
 (Mar. 2, 1896, ch. 39, §2, 29 Stat. 43.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 903 of this title.
-

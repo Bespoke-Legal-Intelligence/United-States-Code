@@ -44,7 +44,3 @@ There is authorized to be appropriated $1,000,000 for fiscal year 1991 and such 
 
 Subsec. (f). Pub. L. 104–278, §3(b), inserted “and section 80q–9a of this title” after “to carry out this section”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80q–10, 80q–11, 80q–12, 80q–15 of this title.
-

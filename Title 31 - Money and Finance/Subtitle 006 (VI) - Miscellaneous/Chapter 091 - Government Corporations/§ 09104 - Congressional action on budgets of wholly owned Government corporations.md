@@ -42,7 +42,3 @@ In subsection (a), the words “budget programs for wholly owned Government corp
 
 In subsection (b), the word “existing” is omitted as surplus. In clause (1), the word “another” is added for clarity. In clause (3), the words “contracts or other” and “reference to” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5134 of this title; title 5 sections 3109, 5721, 7903; title 15 section 633; title 41 section 5a; title 42 sections 295h–3d, 4017; title 44 section 309; title 48 section 1574b.
-

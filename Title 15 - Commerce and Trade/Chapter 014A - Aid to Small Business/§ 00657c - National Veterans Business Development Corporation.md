@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established a federally chartered corporation to be known as the National Veterans Business Development Corporation (in this section referred to as the “Corporation”) which shall be incorporated under the laws of the District of Columbia and which shall have the powers granted in this section.
+There is established a federally chartered corporation to be known as the National Veterans Business Development Corporation (in this section referred to as the “Corporation”) which shall be incorporated under the laws of the District of Columbia and which shall have the powers granted in this section. Notwithstanding any other provision of law, the Corporation is a private entity and is not an agency, instrumentality, authority, entity, or establishment of the United States Government.
 
 #### (b) Purposes of the Corporation
 
@@ -120,7 +120,7 @@ On or before October 1 of each year, the Board of Directors shall transmit a rep
 
 #### (h) Assumption of duties of advisory committee
 
-On October 1, 2004, the Corporation established under this section shall assume the duties, responsibilities, and authority of the Advisory Committee on Veterans Affairs established under section 203 of this Act.<sup>1</sup>
+On October 1, 2006, the Corporation established under this section shall assume the duties, responsibilities, and authority of the Advisory Committee on Veterans Affairs established under section 203 of this Act.<sup>1</sup>
 
 #### (i) Use of mails
 
@@ -178,7 +178,7 @@ The Corporation may use the United States mails in the same manner and under the
 
 &emsp;The Corporation shall institute and implement a plan to raise private funds and become a self-sustaining corporation.
 
-(Pub. L. 85–536, §2\[33\], as added Pub. L. 106–50, title II, §202(a), Aug. 17, 1999, 113 Stat. 236; amended Pub. L. 106–554, §1(a)(9) \[title VIII, §808\], Dec. 21, 2000, 114 Stat. 2763, 2763A–706.)
+(Pub. L. 85–536, §2\[33\], as added Pub. L. 106–50, title II, §202(a), Aug. 17, 1999, 113 Stat. 236; amended Pub. L. 106–554, §1(a)(9) \[title VIII, §808\], Dec. 21, 2000, 114 Stat. 2763, 2763A–706; Pub. L. 108–447, div. B, title VI, §636, div. K, title I, §§143(a), 146, Dec. 8, 2004, 118 Stat. 2922, 3455.)
 
 #### References in Text
 
@@ -189,6 +189,10 @@ Section 203 of this Act, referred to in subsec. (h), probably means section 203 
 August 17, 1999, referred to in subsec. (c)(4), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 106–50, which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–447, §§146 and 636, amended subsec. (a) identically, inserting at end “Notwithstanding any other provision of law, the Corporation is a private entity and is not an agency, instrumentality, authority, entity, or establishment of the United States Government.”
+
+Subsec. (h). Pub. L. 108–447, §143(a), substituted “October 1, 2006” for “October 1, 2004”.
 
 2000—Subsec. (k)(1). Pub. L. 106–554, §1(a)(9) \[title VIII, §808(1)\], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Subject to paragraph (2), there are authorized to be appropriated to the Corporation to carry out this section—
 
@@ -204,13 +208,13 @@ Subsec. (k)(2)(A). Pub. L. 106–554, §1(a)(9) \[title VIII, §808(2)\], substi
 
 Subsec. (k)(2)(B). Pub. L. 106–554, §1(a)(9) \[title VIII, §808(3)\], substituted “2003 or 2004” for “2002 or 2003”.
 
+#### Change of Name
+
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+
 #### General Accounting Office Report
 
-Pub. L. 106–50, title II, §202(b), Aug. 17, 1999, 113 Stat. 239, provided that: “Not later than 180 days after the last day of the second fiscal year beginning after the date on which the initial members of the Board of Directors of the National Veterans Business Development Corporation are appointed under section 33(c) of the Small Business Act \[15 U.S.C. 657c(c)\] (as added by this section), the Comptroller General of the United States shall evaluate the effectiveness of the National Veterans Business Development Corporation in carrying out the purposes under section 33(b) of the Small Business Act (as added by this section), and submit to Congress a report on the results of that evaluation.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 38 section 3452.
+Pub. L. 106–50, title II, §202(b), Aug. 17, 1999, 113 Stat. 239, provided that not later than 180 days after the last day of the second fiscal year beginning after the date on which the initial members of the Board of Directors of the National Veterans Business Development Corporation were appointed under subsec. (c) of this section, the Comptroller General of the United States was to evaluate the effectiveness of the National Veterans Business Development Corporation in carrying out the purposes under subsec. (b) of this section, and submit to Congress a report on the results of that evaluation.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

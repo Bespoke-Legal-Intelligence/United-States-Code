@@ -8,7 +8,3 @@ Any organization desiring to avail itself of the benefits provided in this subch
 
 1986—Pub. L. 99–546 substituted “$5,000” for “$1,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 422d, 422j of this title.
-

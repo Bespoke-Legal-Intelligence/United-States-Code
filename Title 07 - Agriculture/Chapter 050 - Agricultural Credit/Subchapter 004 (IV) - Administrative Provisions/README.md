@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 25 section 492.
-
 
 ---
 
@@ -16,7 +12,7 @@ This subchapter is referred to in title 25 section 492.
 - [&sect; 01981d - Notice of loan service programs](%C2%A7%2001981d%20-%20Notice%20of%20loan%20service%20programs.md)
 - [&sect; 01981e - Planting and production history guidelines](%C2%A7%2001981e%20-%20Planting%20and%20production%20history%20guidelines.md)
 - [&sect; 01981f - Underwriting forms and standards](%C2%A7%2001981f%20-%20Underwriting%20forms%20and%20standards.md)
-- [&sect; 01982 - Repealed. Pub. L. 103&#8211;354, title II, &sect;227(b)(1), Oct. 13, 1994, 108 Stat. 3218](%C2%A7%2001982%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93354%2C%20title%20II%2C%20%C2%A7227%28b%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203218.md)
+- [&sect; 01982 - Relief for mobilized military reservists from certain agricultural loan obligations](%C2%A7%2001982%20-%20Relief%20for%20mobilized%20military%20reservists%20from%20certain%20agricultural%20loan%20obligations.md)
 - [&sect; 01983 - Special conditions and limitations on loans](%C2%A7%2001983%20-%20Special%20conditions%20and%20limitations%20on%20loans.md)
 - [&sect; 01983a - Prompt approval of loans and loan guarantees](%C2%A7%2001983a%20-%20Prompt%20approval%20of%20loans%20and%20loan%20guarantees.md)
 - [&sect; 01983b - Repealed. Pub. L. 103&#8211;354, title II, &sect;281(c), Oct. 13, 1994, 108 Stat. 3233](%C2%A7%2001983b%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93354%2C%20title%20II%2C%20%C2%A7281%28c%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203233.md)

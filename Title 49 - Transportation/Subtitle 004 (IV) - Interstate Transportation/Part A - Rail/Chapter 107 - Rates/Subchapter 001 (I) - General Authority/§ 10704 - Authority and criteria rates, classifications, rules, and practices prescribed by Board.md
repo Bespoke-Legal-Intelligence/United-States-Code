@@ -30,7 +30,3 @@ A prior section 10704, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1373; Pub. L. 9
 
 1996—Subsec. (d). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10701 of this title.
-

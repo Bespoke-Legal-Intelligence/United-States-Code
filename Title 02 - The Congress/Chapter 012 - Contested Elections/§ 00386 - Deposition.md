@@ -40,7 +40,3 @@ When the testimony is fully transcribed, the deposition shall be submitted to th
 
 (Pub. L. 91–138, §7, Dec. 5, 1969, 83 Stat. 286.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 387 of this title.
-

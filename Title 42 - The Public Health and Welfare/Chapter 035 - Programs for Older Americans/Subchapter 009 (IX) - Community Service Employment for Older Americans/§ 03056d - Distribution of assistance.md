@@ -136,7 +136,3 @@ A prior section 3056d, Pub. L. 89–73, title V, §506, formerly title IX, §906
 
 Another prior section 506 of Pub. L. 89–73 was classified to section 3041e of this title, prior to repeal by Pub. L. 95–478.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3056, 3056a, 3056e, 3056f of this title; title 29 section 2942.
-

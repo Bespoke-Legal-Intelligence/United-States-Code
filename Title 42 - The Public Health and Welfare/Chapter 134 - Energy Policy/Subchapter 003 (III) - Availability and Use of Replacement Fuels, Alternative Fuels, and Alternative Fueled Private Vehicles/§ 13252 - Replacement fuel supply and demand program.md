@@ -28,7 +28,3 @@ Under the program established under subsection (a) of this section, the Secretar
 
 (Pub. L. 102–486, title V, §502, Oct. 24, 1992, 106 Stat. 2888.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13254, 13255, 13256, 13257 of this title.
-

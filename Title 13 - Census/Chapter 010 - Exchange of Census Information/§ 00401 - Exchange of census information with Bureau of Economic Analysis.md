@@ -10,7 +10,7 @@ Requests for Information.—The Director of the Bureau requesting information un
 
 (c)
 
-Definition.—As used in subsection (a), the terms “business enterprise” and “UnitedStates” have the meanings given those terms in section 3 of the International Investment and Trade in Services Survey Act.
+Definition.—As used in subsection (a), the terms “business enterprise” and “United States” have the meanings given those terms in section 3 of the International Investment and Trade in Services Survey Act.
 
 (Added Pub. L. 101–533, §5(a), Nov. 7, 1990, 104 Stat. 2347.)
 

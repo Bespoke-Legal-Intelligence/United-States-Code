@@ -25,10 +25,6 @@
 
 1958—Pub. L. 85–755, §8, Aug. 25, 1958, 72 Stat. 850, substituted “Judges of other courts” for “Circuit or district judges to Court of Customs and Patent Appeals” in item 293.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 175, 456, 1407 of this title.
-
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 85–755 without corresponding amendment of analysis.</i>
 
 

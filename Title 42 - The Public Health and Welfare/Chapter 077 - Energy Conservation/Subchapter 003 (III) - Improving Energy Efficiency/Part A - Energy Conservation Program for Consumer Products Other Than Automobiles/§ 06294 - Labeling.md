@@ -14,13 +14,13 @@
 
 (D)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labeling rules under this section for showerheads and faucets to which standards are applicable under subsection (j) of section 6295 of this title. Such rules shall provide that the labeling of any showerhead or faucet manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.18.1M–1989, except that each showerhead and flow restricting or controlling spout-end device shall bear a permanent legible marking indicating the flow rate, expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 6295 of this title.
 
-(ii) If the marking and labeling requirements of ASME A112.18.1M–1989 are revised at any time and approved by ANSI, the Commission shall amend the labeling rules established pursuant to clause (i) to be consistent with such revised ASME/ANSI requirements unless such requirements are inconsistent with the purposes of this chapter or the requirement specified in clause (i) requiring each showerhead and flow restricting or controlling spout-end device to bear apermanent legible marking indicating the flow rate of such product.
+(ii) If the marking and labeling requirements of ASME A112.18.1M–1989 are revised at any time and approved by ANSI, the Commission shall amend the labeling rules established pursuant to clause (i) to be consistent with such revised ASME/ANSI requirements unless such requirements are inconsistent with the purposes of this chapter or the requirement specified in clause (i) requiring each showerhead and flow restricting or controlling spout-end device to bear a permanent legible marking indicating the flow rate of such product.
 
 (E)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labeling rules under this section for water closets and urinals to which standards are applicable under subsection (k) of section 6295 of this title. Such rules shall provide that the labeling of any water closet or urinal manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.19.2M–1990, except that each fixture (and flushometer valve associated with such fixture) shall bear a permanent legible marking indicating the water use, expressed in gallons per flush (gpf), and the water use value shall be the actual water use or the maximum water use specified by the standards established in subsection (k) of section 6295 of this title.
 
 (ii) If the marking and labeling requirements of ASME A112.19.2M–1990 are revised at any time and approved by ANSI, the Commission shall amend the labeling rules established pursuant to clause (i) to be consistent with such revised ASME/ANSI requirements unless such requirements are inconsistent with the purposes of this chapter or the requirement specified in clause (i) requiring each fixture and flushometer valve to bear a permanent legible marking indicating the water use of such fixture or flushometer valve.
 
-(iii) Any labeling rules prescribed under this subparagraph before January 1, 1997, shall provide that, with respect to any gravity tank-type white 2-piece toilet which has a water use greater than 1.6 gallons per flush (gpf), any printed matter distributed or displayed in connection with such product (including packaging and point of sale material, catalog material, and print advertising) shall include, in a conspicuous manner, the words “For Commercial Use Only”.
+(iii) Any labeling rules prescribed under this subparagraph before January 1, 1997, shall provide that, with respect to any gravity tank-typewhite 2-piece toilet which has a water use greater than 1.6 gallons per flush (gpf), any printed matter distributed or displayed in connection with such product (including packaging and point of sale material, catalog material, and print advertising) shall include, in a conspicuous manner, the words “For Commercial Use Only”.
 
 (3) The Commission may prescribe a labeling rule under this section applicable to covered products of a type specified in paragraph (19) of section 6292(a) of this title (or a class thereof) if—
 
@@ -110,7 +110,7 @@ The Secretary and the Commission shall consult with each other on a continuing b
 
 #### (g) Other authority of the Commission
 
-Until such time as labeling rules under this section take effect with respect to a type orclass of covered product, this section shall not affect any authority of the Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] to require labeling with respect to energy consumption of such type or class of covered product.
+Until such time as labeling rules under this section take effect with respect to a type or class of covered product, this section shall not affect any authority of the Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] to require labeling with respect to energy consumption of such type or class of covered product.
 
 (Pub. L. 94–163, title III, §324, Dec. 22, 1975, 89 Stat. 920; Pub. L. 95–619, title IV, §425(b), (c), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3265, 3288; Pub. L. 100–12, §11(a)(1), (b)(2), Mar. 17, 1987, 101 Stat. 124, 125; Pub. L. 100–357, §2(d), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(e), Oct. 24, 1992, 106 Stat. 2822; Pub. L. 105–388, §5(a)(4), Nov. 13, 1998, 112 Stat. 3478.)
 
@@ -183,8 +183,4 @@ Subsec. (c)(1)(A)(i). Pub. L. 95–619, §691(b)(2), substituted “Secretary”
 Subsec. (c)(5). Pub. L. 95–619, §425(c), inserted “including instructions for the maintenance, use, or repair of the covered product,” after “energy consumption”.
 
 Subsecs. (e), (f). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator” wherever appearing.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6293, 6295, 6296, 6297, 6302, 6304, 6306, 6316, 6317 of this title.
 

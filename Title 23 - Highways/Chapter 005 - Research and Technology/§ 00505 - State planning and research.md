@@ -2,11 +2,11 @@
 
 (a)
 
-General Rule.—Two percent of the sums apportioned to a State for fiscal year 1998 and each fiscal year thereafter under section 104 (other than sections 104(f) and 104(h)) and undersection 144 shall be available for expenditure by the State, in consultation with the Secretary, only for the following purposes:
+General Rule.—Two percent of the sums apportioned to a State for fiscal year 1998 and each fiscal year thereafter under section 104 (other than sections 104(f) and 104(h)) and under section 144 shall be available for expenditure by the State, in consultation with the Secretary, only for the following purposes:
 
 &emsp;(1) Engineering and economic surveys and investigations.
 
-&emsp;(2) The planning of future highway programs and local public transportation systems and the planning of the financing of such programs and systems, including metropolitan and statewide planning under sections 134 and 135.
+&emsp;(2) The planning of future highway programs and local public transportation systems and the planning of the financing of such programsand systems, including metropolitan and statewide planning under sections 134 and 135.
 
 &emsp;(3) Development and implementation of management systems under section 303.
 
@@ -65,8 +65,4 @@ Pub. L. 87–866, §13, Oct. 23, 1962, 76 Stat. 1149, as amended by Pub. L. 97�
 “(d) Nothing in this section shall be construed as creating any obligation in the Congress, express or implied, to carry out the recommendations referred to in subsections (b) and (c).
 
 “(e) There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to be available until expended, the sum of $800,000 for the purpose of making the studies, surveys, and report authorized by subsections (a) and (b) hereof.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 115, 135, 506 of this title; title 49 section 5505.
 

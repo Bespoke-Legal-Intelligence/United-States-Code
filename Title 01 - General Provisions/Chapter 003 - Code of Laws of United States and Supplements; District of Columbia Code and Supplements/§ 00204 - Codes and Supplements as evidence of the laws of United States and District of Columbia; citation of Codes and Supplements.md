@@ -72,7 +72,3 @@ Title 49, Transportation—Pub. L. 95–473, §1, Oct. 17, 1978, 92 Stat. 1337; 
 
 The Internal Revenue Code of 1954 was enacted in the form of a separate code by act Aug. 16, 1954, ch. 736, 68A Stat. 1. Pub. L. 99–514, §2(a), Oct. 22, 1986, 100 Stat. 2095, provided that the Internal Revenue Title enacted Aug. 16, 1954, as heretofore, hereby, or hereafter amended, may be cited as the “Internal Revenue Code of 1986”. The sections of Title 26, United States Code, are identical to the sections of the Internal Revenue Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 208 of this title.
-

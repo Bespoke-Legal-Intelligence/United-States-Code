@@ -6,7 +6,7 @@ The Director shall keep a register of all marks communicated to him by the inter
 
 #### (b) Benefits of section to persons whose country of origin is party to convention or treaty
 
-Any person whose country of origin is a party to any convention or treaty relating to trademarks, trade or commercial names, or the repression of unfair competition, to which the United States is also a party, or extends reciprocal rights to nationals of the United States by law, shall be entitled to the benefits of this section under the conditions expressed herein to the extent necessary to give effect to any provision of such convention, treaty or reciprocal law, in addition to the rights to which any owner of a mark is otherwise entitled by this chapter.
+Any person whose country of origin is a party to any convention or treaty relating to trademarks, trade or commercial names, or the repression of unfair competition, to which the United States is also a party, or extends reciprocal rights to nationals of the United States by law, shall be entitled to the benefits of this section under the conditions expressed herein to the extent necessary to give effect to any provision of such convention, treaty or reciprocal law, in addition to the rights to which anyowner of a mark is otherwise entitled by this chapter.
 
 #### (c) Prior registration in country of origin; country of origin defined
 
@@ -117,8 +117,4 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1051, 1057, 1063, 1141j of this title.
 

@@ -10,7 +10,3 @@ Not later than 120 days after the Tribe adopts a constitution and bylaws under s
 
 (Pub. L. 103–454, title III, §308, Nov. 2, 1994, 108 Stat. 4795.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300m–2, 1300m–4, 1300m–5 of this title.
-

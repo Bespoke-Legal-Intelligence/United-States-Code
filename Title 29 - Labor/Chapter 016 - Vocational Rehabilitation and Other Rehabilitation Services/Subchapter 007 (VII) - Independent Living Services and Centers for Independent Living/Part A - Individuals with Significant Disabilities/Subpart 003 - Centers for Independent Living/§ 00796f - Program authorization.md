@@ -68,7 +68,7 @@ From the funds appropriated for fiscal year 1999 and for each subsequent fiscal 
 
 #### (d) Reallotment
 
-Whenever the Commissioner determines that any amount of an allotment to a State for any fiscal year will not be expended by such State for carrying out the provisions of this subpart, the Commissioner shall make such amount available for carrying out the provisions of this subpart to one or more of the States that the Commissioner determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
+Whenever the Commissioner determines that any amount of an allotment to a State for any fiscal year will not be expended by such State for carrying out the provisions of this subpart, the Commissioner shall make such amountavailable for carrying out the provisions of this subpart to one or more of the States that the Commissioner determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
 
 (Pub. L. 93–112, title VII, §721, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1226.)
 
@@ -81,8 +81,4 @@ Part B of this subchapter, as in effect on the day before October 29, 1992, refe
 A prior section 796f, Pub. L. 93–112, title VII, §721, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4452; amended Pub. L. 103–73, title I, §114(h), Aug. 11, 1993, 107 Stat. 730, authorized program to assist centers for independent living, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 Another prior section 796f, Pub. L. 93–112, title VII, §721, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978, 92 Stat. 2999; amended Pub. L. 99–506, title X, §1001(g)(4), Oct. 21, 1986, 100 Stat. 1843; Pub. L. 100–630, title II, §208(g), Nov. 7, 1988, 102 Stat. 3314, related to establishment of independent living service programs for older blind individuals, prior to repeal by Pub. L. 102–569, §701(1).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 796f–1, 796f–2 of this title.
 

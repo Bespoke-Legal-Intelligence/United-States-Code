@@ -36,7 +36,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Federal Reserve Act
 
-&emsp;No provision of this section shall be construed as affecting the applicability of the20th undesignated paragraph of section 9 of the Federal Reserve Act \[12 U.S.C. 335\].
+&emsp;No provision of this section shall be construed as affecting the applicability of the 20th undesignated paragraph of section 9 of the Federal Reserve Act \[12 U.S.C. 335\].
 
 (Sept. 21, 1950, ch. 967, §2\[46\], as added Pub. L. 106–102, title I, §121(d)(1), Nov. 12, 1999, 113 Stat. 1380.)
 
@@ -47,8 +47,4 @@ Section 121(b) of the Gramm-Leach-Bliley Act, referred to in subsec. (a)(4), is 
 #### Effective Date
 
 Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as an Effective Date of 1999 Amendment note under section 24 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1843 of this title.
 

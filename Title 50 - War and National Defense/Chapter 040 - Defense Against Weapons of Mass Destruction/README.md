@@ -59,8 +59,9 @@
 | (b) | Urging of revision to guidelines. |
 | [2333\.](Subchapter%20002%20%28II%29%20-%20Interdiction%20of%20Weapons%20of%20Mass%20Destruction%20and%20Related%20Materials/%C2%A7%2002333%20-%20International%20border%20security.md) | International border security. |
 | (a) | Secretary of Defense responsibility. |
-| (b) | Funding. |
+| (b) | Other countries. |
 | (c) | Assistance to states of former Soviet Union. |
+| [2334\.](Subchapter%20002%20%28II%29%20-%20Interdiction%20of%20Weapons%20of%20Mass%20Destruction%20and%20Related%20Materials/%C2%A7%2002334%20-%20Training%20program.md) | Training program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -95,7 +96,7 @@
 
 |  |  |
 | :--- | ---: |
-| [2351\.](Subchapter%20004%20%28IV%29%20-%20Coordination%20of%20Policy%20and%20Countermeasures%20Against%20Proliferation%20of%20Weapons%20of%20Mass%20Destruction/%C2%A7%2002351%20-%20National%20coordinator%20on%20nonproliferation.md) | National Coordinator on Nonproliferation. |
+| [2351\.](Subchapter%20004%20%28IV%29%20-%20Coordination%20of%20Policy%20and%20Countermeasures%20Against%20Proliferation%20of%20Weapons%20of%20Mass%20Destruction/%C2%A7%2002351%20-%20National%20coordinator%20on%20nonproliferation.md) | National coordinator on nonproliferation. |
 | (a) | Designation of position. |
 | (b) | Duties. |
 | (c) | Allocation of funds. |

@@ -16,7 +16,3 @@ For repeal of inconsistent acts, see section 7 of act May 11, 1938, set out as a
 
 Section 1 of act May 27, 1955, authorized the leasing of minerals for mining purposes. See note under section 463 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 396a, 396d, 459c, 1724, 2105 of this title.
-

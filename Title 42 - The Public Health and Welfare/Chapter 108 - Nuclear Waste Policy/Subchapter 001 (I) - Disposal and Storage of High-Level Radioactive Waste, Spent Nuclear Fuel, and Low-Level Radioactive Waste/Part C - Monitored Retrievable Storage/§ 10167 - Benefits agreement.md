@@ -8,7 +8,3 @@ Once selection of a site for a monitored retrievable storage facility is made by
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10162 of this title.
-

@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Allocation.—On October 15 of fiscal year 2000 and each fiscal year thereafter, the Secretary shall allocate for such fiscal year an amount of funds equal to the amount determined pursuant to section 251(b)(1)(B)(ii)(I)(cc) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C 901(b)(2)(B)(ii)(I)(cc)) <sup>1</sup> if the amount determined pursuant to such section for such fiscal year is greater than zero.
+Allocation.—On October 15 of fiscal year 2000 and each fiscal year thereafter, the Secretary shall allocate for such fiscal year an amount of funds equal to the amount determined pursuant to section 251(b)(1)(B)(ii)(I)(cc)of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C 901(b)(2)(B)(ii)(I)(cc)) <sup>1</sup> if the amount determined pursuant to such section for such fiscal year is greater than zero.
 
 &emsp;(2)
 
@@ -64,7 +64,7 @@ Another section 110 was renumbered section 126 of this title.
 
 #### Prior Provisions
 
-A prior section 110, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894, related to project agreements, prior to repeal by Pub. L. 105–178, title I, §1105(a), June 9, 1998, 112 Stat. 130.
+A prior section 110, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894, related to project agreements, prior to repealby Pub. L. 105–178, title I, §1105(a), June 9, 1998, 112 Stat. 130.
 
 #### Amendments
 

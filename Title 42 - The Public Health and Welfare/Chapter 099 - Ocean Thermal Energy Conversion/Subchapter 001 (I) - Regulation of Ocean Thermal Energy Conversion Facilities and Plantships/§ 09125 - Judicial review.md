@@ -8,7 +8,3 @@ Any person suffering legal wrong, or who is adversely affected or aggrieved by t
 
 (Pub. L. 96–320, title I, §115, Aug. 3, 1980, 94 Stat. 990.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9153 of this title.
-

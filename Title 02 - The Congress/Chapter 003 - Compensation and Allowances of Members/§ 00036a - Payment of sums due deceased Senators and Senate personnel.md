@@ -12,11 +12,7 @@ Section 50 of the Revised Statutes, referred to in text, was classified to secti
 
 #### Amendments
 
-<b>1972</b>—Pub. L. 92–607 inserted provisions for designation of a beneficiary by Senators and officers and employees whose compensation is disbursed by Secretary of Senate to whom shall be paid any unpaid balance of salary or other sums due such person at time of death.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 5581.
+1972—Pub. L. 92–607 inserted provisions for designation of a beneficiary by Senators and officers and employees whose compensation is disbursed by Secretary of Senate to whom shall be paid any unpaid balance of salary or other sums due such person at time of death.
 
 <i><sup>1</sup></i><i>See References in Text note below.</i>
 

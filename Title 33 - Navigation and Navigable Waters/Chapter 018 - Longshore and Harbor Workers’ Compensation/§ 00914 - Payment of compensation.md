@@ -14,7 +14,7 @@ Upon making the first payment, and upon suspension of payment for any cause, the
 
 #### (d) Right to compensation controverted
 
-If the employer controverts the right to compensation he shall file with the deputy commissioner on or before the fourteenth day after he has knowledge of the alleged injury or death, anotice, in accordance with a form prescribed by the Secretary stating that the right to compensation is controverted, the name of the claimant, the name of the employer, the date of the alleged injury or death, and the grounds upon which the right to compensation is controverted.
+If the employer controverts the right to compensation he shall file with the deputy commissioner on or before the fourteenth day after he has knowledge of the alleged injury or death, a notice, in accordance with a form prescribed by the Secretary stating that the right to compensation is controverted, the name of the claimant, the name of the employer, the date of the alleged injury or death, and the grounds upon which the right to compensation is controverted.
 
 #### (e) Additional compensation for overdue installment payments payable without award
 
@@ -87,8 +87,4 @@ Amendment by act July 26, 1956, applicable only with respect to injuries and dea
 #### Effective Date of 1948 Amendment
 
 Amendment by act June 24, 1948, applicable to death or injuries occurring after June 24, 1948, see section 6 of act June 24, 1948, set out as a note under section 906 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 928 of this title; title 42 section 1702.
 

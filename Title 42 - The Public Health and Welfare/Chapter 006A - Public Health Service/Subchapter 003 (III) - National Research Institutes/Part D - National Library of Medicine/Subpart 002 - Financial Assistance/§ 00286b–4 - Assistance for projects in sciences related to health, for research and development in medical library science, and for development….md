@@ -34,7 +34,3 @@ The Secretary shall make grants to appropriate public or private nonprofit insti
 
 1993—Subsec. (c). Pub. L. 103–43 added subsec. (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 286a–2, 286b–8 of this title.
-

@@ -64,7 +64,3 @@ Section 608 of Pub. L. 95–426, as amended by Pub. L. 97–241, title V, §505(
 
 “(c) \[Repealed. Pub. L. 97–241, title V, §505(a)(2), Aug. 24, 1982, 96 Stat. 299.\]”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3503 of this title.
-

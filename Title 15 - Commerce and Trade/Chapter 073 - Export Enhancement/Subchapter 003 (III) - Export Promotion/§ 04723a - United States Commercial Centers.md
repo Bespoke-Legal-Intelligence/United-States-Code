@@ -104,7 +104,3 @@ Section was enacted as part of the Jobs Through Exports Act of 1992, and not as 
 
 1995—Subsec. (j). Pub. L. 104–66 struck out heading and text of subsec. (j). Text read as follows: “The Secretary of Commerce shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, not later than 1 year after October 28, 1992, and not later than the end of each 1-year period occurring thereafter, a report on the status, activities, and effectiveness of the Centers. Each such report shall include any recommendations with respect to the program established under this section.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4729 of this title.
-

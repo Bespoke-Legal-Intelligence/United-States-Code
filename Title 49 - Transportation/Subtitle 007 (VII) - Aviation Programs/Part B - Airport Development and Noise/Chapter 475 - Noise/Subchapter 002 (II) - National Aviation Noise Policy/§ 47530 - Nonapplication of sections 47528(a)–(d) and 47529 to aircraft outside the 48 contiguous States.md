@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 Nov. 5, 1990, Pub. L. 101–508, §9308(d), 104 Stat. 1388–383; Oct. 28, 1991, Pub. L. 102–143, §349(a), 105 Stat. 949.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47528, 47529, 47531, 47532 of this title.
-

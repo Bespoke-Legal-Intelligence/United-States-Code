@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—RESOURCE ENHANCEMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3312, 3313, 3314, 3342, 3343 of this title.
-
 
 ---
 

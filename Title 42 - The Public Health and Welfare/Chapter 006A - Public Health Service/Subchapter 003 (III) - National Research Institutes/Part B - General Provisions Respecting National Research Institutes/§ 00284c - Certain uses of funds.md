@@ -24,7 +24,7 @@
 
 “(B) For the programs under section 285a–1 of this title, there are authorized to be appropriated $68,000,000 for fiscal year 1986, $74,000,000 for fiscal year 1987, and $80,000,000 for fiscal year 1988.
 
-“(2)(A) For the National Heart, Lung, and Blood Institute (other than its programs under section 285b–1 of this title), there are authorized to be appropriated $809,000,000 for fiscal year 1986, $871,000,000 for fiscal year 1987, and $927,000,000 for fiscal year 1988. Of the amount appropriated under this subsection for such fiscal year, not less than 15 percent of such amount shall be reserved for programs respecting diseases of the lung and not less than 15 percent of such amount shall be reserved for programs respecting blood diseases and blood resources.
+“(2)(A) For the National Heart, Lung, and Blood Institute (other than its programs under section 285b–1 of this title), there are authorized to be appropriated $809,000,000 for fiscal year 1986, $871,000,000 for fiscal year 1987, and $927,000,000 for fiscal year 1988. Of the amount appropriated under this subsection for such fiscal year, not less than 15 percent of such amount shallbe reserved for programs respecting diseases of the lung and not less than 15 percent of such amount shall be reserved for programs respecting blood diseases and blood resources.
 
 “(B) For the programs under section 285b–1 of this title, there are authorized to be appropriated $82,000,000 for fiscal year 1986, $90,000,000 for fiscal year 1987, and $98,000,000 for fiscal year 1988.”
 
@@ -43,8 +43,4 @@ Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 
 #### Warren G. Magnuson Clinical Center; Availability of Funds for Payment of Nurses; Rate of Pay and Options and Benefits
 
 Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 738, provided that: “Funds made available for fiscal year 1986 and hereafter to the Warren G. Magnuson Clinical Center of the National Institutes of Health shall be available for payment of nurses at the rates of pay and with schedule options and benefits authorized for the Veterans Administration pursuant to 38 U.S.C. 4107.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 285m–6 of this title.
 

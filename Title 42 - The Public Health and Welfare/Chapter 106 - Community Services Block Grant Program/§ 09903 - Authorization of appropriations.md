@@ -24,7 +24,3 @@ Of the amounts appropriated under subsection (a) of this section for each fiscal
 
 A prior section 9903, Pub. L. 97–35, title VI, §674, Aug. 13, 1981, 95 Stat. 512; Pub. L. 99–425, title IV, §405(c)(1), Sept. 30, 1986, 100 Stat. 970; Pub. L. 101–501, title IV, §403, Nov. 3, 1990, 104 Stat. 1251; Pub. L. 103–171, §7(c)(2), Dec. 2, 1993, 107 Stat. 1994; Pub. L. 103–252, title II, §202(b), May 18, 1994, 108 Stat. 651, related to State allocations for technical assistance and training, prior to the general amendment of this chapter by Pub. L. 105–285.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9905, 9906, 9913, 9917, 9918, 9921 of this title.
-

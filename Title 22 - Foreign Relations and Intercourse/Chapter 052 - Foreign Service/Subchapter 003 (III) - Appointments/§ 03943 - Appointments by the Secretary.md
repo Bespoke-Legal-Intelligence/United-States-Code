@@ -70,7 +70,3 @@ You are authorized and directed to report this determination to the Congress and
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3903, 3922, 3946, 3948, 3951, 4001, 4006 of this title; title 5 section 5927.
-

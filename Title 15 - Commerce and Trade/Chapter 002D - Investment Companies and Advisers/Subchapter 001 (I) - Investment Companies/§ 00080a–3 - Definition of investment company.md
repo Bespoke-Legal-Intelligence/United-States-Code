@@ -140,7 +140,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;(vi) the term “charitable gift annuity” means an annuity issued by a charitable organization that is described in section 501(m)(5) of title 26.
 
-&emsp;(11) Any employee's stock bonus, pension, or profit-sharing trust which meets the requirements for qualification under section 401 of title 26; or any governmental plan described in section 77c(a)(2)(C) of this title; or any collective trust fund maintained by a bank consisting solely of assets of such trusts or governmental plans, or both; or any separate account the assets of which are derived solely from (A) contributions under pension or profit-sharing plans which meet the requirements of section 401 of title 26 or the requirements for deduction of the employer's contribution under section 404(a)(2) of title 26, (B) contributions under governmental plans in connection with which interests, participations, or securities are exempted from the registration provisions of section 77e of this title by section 77c(a)(2)(C) of this title, and (C) advances made by an insurance company in connection with the operation of such separate account.
+&emsp;(11) Any employee's stock bonus, pension, or profit-sharing trust which meets the requirements for qualification under section 401 of title 26; or any governmental plan described in section 77c(a)(2)(C) of this title; or any collective trust fund maintained by a bank consisting solely of assets of one or more of such trusts, government plans, or church plans, companies or accounts that are excluded from the definition of an investment company under paragraph (14) of this subsection; or any separate account the assets of which are derived solely from (A) contributions under pension or profit-sharing plans which meet the requirements of section 401 of title 26 or the requirements for deduction of the employer's contribution under section 404(a)(2) of title 26, (B) contributions under governmental plans in connection with which interests, participations, or securities are exempted from the registration provisions of section 77e of this title by section 77c(a)(2)(C) of this title, and (C) advances made by an insurance company in connection with the operation of such separate account.
 
 &emsp;(12) Any voting trust the assets of which consist exclusively of securities of a single issuer which is not an investment company.
 
@@ -156,13 +156,15 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;&emsp;(ii) administering or providing benefits pursuant to church plans.
 
-(Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; Pub. L. 89–485, §13(i), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §3(a), (b), Dec. 14, 1970, 84 Stat. 1414; Pub. L. 94–210, title III, §308(c), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title I, §102, title VII, §703, Oct. 21, 1980, 94 Stat. 2276, 2295; Pub. L. 100–181, title VI, §§604–606, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 104–62, §2(a), Dec. 8, 1995, 109 Stat. 682; Pub. L. 104–290, title II, §209(a), (c), title V, §508(a), Oct. 11, 1996, 110 Stat. 3432, 3435, 3447; Pub. L. 105–353, title III, §301(c)(2), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §221(c), Nov. 12, 1999, 113 Stat. 1401.)
+(Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; Pub. L. 89–485, §13(i), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §3(a), (b), Dec. 14, 1970, 84 Stat. 1414; Pub. L. 94–210, title III, §308(c), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title I, §102, title VII, §703, Oct. 21, 1980, 94 Stat. 2276, 2295; Pub. L. 100–181, title VI, §§604–606, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 104–62, §2(a), Dec. 8, 1995, 109 Stat. 682; Pub. L. 104–290, title II, §209(a), (c), title V, §508(a), Oct. 11, 1996, 110 Stat. 3432, 3435, 3447; Pub. L. 105–353, title III, §301(c)(2), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §221(c), Nov. 12, 1999, 113 Stat. 1401; Pub. L. 108–359, §1(a), Oct. 25, 2004, 118 Stat. 1666.)
 
 #### References in Text
 
 The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(8), is act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of this title. For complete classification of this Act to the Code, see section 79 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (c)(11). Pub. L. 108–359, which directed the substitution of “one or more of such trusts, government plans, or church plans, companies or accounts that are excluded from the definition of an investment company under paragraph (14) of this subsection” for “such trusts or government plans, or both”, was executed by making the substitution for “such trusts or governmental plans, or both”, to reflect the probable intent of Congress.
 
 1999—Subsec. (c)(3). Pub. L. 106–102 inserted “, if—” and subpars. (A) to (C) before period at end.
 
@@ -172,7 +174,7 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(8), i
 
 Subsec. (a)(2)(C). Pub. L. 104–290, §209(c)(6), substituted “which (i) are” for “which are” and added cl. (ii).
 
-Subsec. (c)(1). Pub. L. 104–290, §209(a)(1), inserted after first sentence “Such issuer shall be deemed to bean investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title governing the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer.”
+Subsec. (c)(1). Pub. L. 104–290, §209(a)(1), inserted after first sentence “Such issuer shall be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title governing the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer.”
 
 Subsec. (c)(1)(A). Pub. L. 104–290, §209(a)(2), inserted “and is or, but for the exception provided for in this paragraph or paragraph (7), would be an investment company,” after “voting securities of the issuer,” and struck out “unless, as of the date of the most recent acquisition by such company of securities of that issuer, the value of all securities owned by such company of all issuers which are or would, but for the exception set forth in this subparagraph, be excluded from the definition of investment company solely by this paragraph, does not exceed 10 per centum of the value of the company's total assets. Such issuer nonetheless is deemed to be an investment company for purposes of section 80a–12(d)(1) of this title” after “(other than short-term paper)”.
 
@@ -228,7 +230,7 @@ Amendment by Pub. L. 106–102 effective 18 months after Nov. 12, 1999, see sect
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 209 of Pub. L. 104–290 effective on earlier of 180 days after Oct. 11, 1996, or date onwhich required rulemaking is completed, see section 209(e) of Pub. L. 104–290 set out as a note under section 80a–2 of this title.
+Amendment by section 209 of Pub. L. 104–290 effective on earlier of 180 days after Oct. 11, 1996, or date on which required rulemaking is completed, see section 209(e) of Pub. L. 104–290 set out as a note under section 80a–2 of this title.
 
 #### Effective Date of 1995 Amendment
 
@@ -288,9 +290,5 @@ Registration requirements.—Any security issued by or any interest or participa
 
 “(2)
 
-Treatment of church plans.—No church plan described in section 414(e) of the Internal Revenue Code of 1986 \[26 U.S.C. 414(e)\], no person or entity eligible to establish and maintain such a plan under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\], no company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and no trustee, director, officer, or employee of or volunteer for any such plan, person, entity, company, or account shall be required to qualify, register, or be subject to regulation as an investment company or as a broker, dealer, investment adviser, or agent under the laws of any State solely because such plan, person, entity, company, or account buys, holds, sells, or trades in securities for its own account or in its capacity as a trustee or administrator of or otherwise on behalf of, or for the account of, or provides investment advice to, for, or on behalf of, any such plan, person, or entity or any company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940, as added by subsection (a) of this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77c, 77z–2, 78c, 78<i>l</i>, 78u–5, 80a–2, 80a–3a, 80a–6, 80a–7, 80a–29, 80a–58, 80a–62, 80a–64, 80b–3, 80b–5, 6102, 6827 of this title; title 12 section 1843; title 26 sections 851, 6049.
+Treatment of church plans.—No church plan described in section 414(e) of the Internal Revenue Code of 1986 \[26 U.S.C. 414(e)\], no person or entity eligible to establish and maintain such a plan under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\], no company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and no trustee,director, officer, or employee of or volunteer for any such plan, person, entity, company, or account shall be required to qualify, register, or be subject to regulation as an investment company or as a broker, dealer, investment adviser, or agent under the laws of any State solely because such plan, person, entity, company, or account buys, holds, sells, or trades in securities for its own account or in its capacity as a trustee or administrator of or otherwise on behalf of, or for the account of, or provides investment advice to, for, or on behalf of, any such plan, person, or entity or any company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940, as added by subsection (a) of this section.”
 

@@ -58,10 +58,6 @@
 
 1994—Pub. L. 103–272, §1(c), (d), July 5, 1994, 108 Stat. 745, added subtitle II (comprised of chapter 11, §§1101–1155) and struck out former subtitle II, except that chapter 31 (comprised of §§3101–3104) of subtitle II was redesignated and restated as chapter 315 (comprised of §§31501–31504) of subtitle VI, as enacted by Pub. L. 103–272, §1(e).
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 329 of this title.
-
 
 ---
 

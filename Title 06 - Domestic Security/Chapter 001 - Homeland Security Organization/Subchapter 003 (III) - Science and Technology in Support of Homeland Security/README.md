@@ -18,3 +18,4 @@
 - [&sect; 00191 - Homeland Security Science and Technology Advisory Committee](%C2%A7%2000191%20-%20Homeland%20Security%20Science%20and%20Technology%20Advisory%20Committee.md)
 - [&sect; 00192 - Homeland Security Institute](%C2%A7%2000192%20-%20Homeland%20Security%20Institute.md)
 - [&sect; 00193 - Technology clearinghouse to encourage and support innovative solutions to enhance homeland security](%C2%A7%2000193%20-%20Technology%20clearinghouse%20to%20encourage%20and%20support%20innovative%20solutions%20to%20enhance%20homeland%20security.md)
+- [&sect; 00194 - Enhancement of public safety communications interoperability](%C2%A7%2000194%20-%20Enhancement%20of%20public%20safety%20communications%20interoperability.md)

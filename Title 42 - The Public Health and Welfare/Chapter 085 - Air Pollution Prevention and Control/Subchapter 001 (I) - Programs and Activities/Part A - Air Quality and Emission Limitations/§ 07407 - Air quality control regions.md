@@ -90,7 +90,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 &emsp;&emsp;(iii) No nonattainment area may be redesignated as an attainment area under this subparagraph.
 
-&emsp;&emsp;(iv) Notwithstanding paragraph (1)(C)(ii) of this subsection, if an ozone or carbon monoxide nonattainment area located within a metropolitan statistical area or consolidated metropolitan statistical area (as established by the Bureau of the Census) is classified under part D of this subchapter as a Serious, Severe, or Extreme Area, the boundaries of such area are hereby revised (on the date 45 days after such classification) by operation of law to include the entire metropolitan statistical area or consolidated metropolitan statistical area, as the case may be, unless within such 45-day period the Governor (in consultation with State and local air pollution control agencies) notifies the Administrator that additional time is necessary to evaluate the application of clause (v). Whenever a Governor has submitted such a notice to the Administrator, such boundary revision shall occur on the later of the date 8 months after such classification or 14 months after November 15, 1990, unless the Governor makes the finding referred to in clause (v), and the Administrator concurs in such finding, within such period. Except as otherwise provided in this paragraph, a boundary revision under this clause or clause (v) shall apply for purposes of any State implementation plan revision required to be submitted after November 15, 1990.
+&emsp;&emsp;(iv) Notwithstanding paragraph (1)(C)(ii) of this subsection, if an ozone or carbon monoxide nonattainment area located within a metropolitan statistical area or consolidated metropolitan statistical area (as establishedby the Bureau of the Census) is classified under part D of this subchapter as a Serious, Severe, or Extreme Area, the boundaries of such area are hereby revised (on the date 45 days after such classification) by operation of law to include the entire metropolitan statistical area or consolidated metropolitan statistical area, as the case may be, unless within such 45-day period the Governor (in consultation with State and local air pollution control agencies) notifies the Administrator that additional time is necessary to evaluate the application of clause (v). Whenever a Governor has submitted such a notice to the Administrator, such boundary revision shall occur on the later of the date 8 months after such classification or 14 months after November 15, 1990, unless the Governor makes the finding referred to in clause (v), and the Administrator concurs in such finding, within such period. Except as otherwise provided in this paragraph, a boundary revision under this clause or clause (v) shall apply for purposes of any State implementation plan revision required to be submitted after November 15, 1990.
 
 &emsp;&emsp;(v) Whenever the Governor of a State has submitted a notice under clause (iv), the Governor, in consultation with State and local air pollution control agencies, shall undertake a study to evaluate whether the entire metropolitan statistical area or consolidated metropolitan statistical area should be included within the nonattainment area. Whenever a Governor finds and demonstrates to the satisfaction of the Administrator, and the Administrator concurs in such finding, that with respect to a portion of a metropolitan statistical area or consolidated metropolitan statistical area, sources in the portion do not contribute significantly to violation of the national ambient air quality standard, the Administrator shall approve the Governor's request to exclude such portion from the nonattainment area. In making such finding, the Governor and the Administrator shall consider factors such as population density, traffic congestion, commercial development, industrial development, meteorological conditions, and pollution transport.
 
@@ -110,15 +110,35 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 &emsp;The Administrator may, in the Administrator's discretion at any time the Administrator deems appropriate, require a State to designate areas (or portions thereof) with respect to the national ambient air quality standard for lead in effect as of November 15, 1990, in accordance with the procedures under subparagraphs (A) and (B) of paragraph (1), except that in applying subparagraph (B)(i) of paragraph (1) the phrase “2 years from the date of promulgation of the new or revised national ambient air quality standard” shall be replaced by the phrase “1 year from the date the Administrator notifies the State of the requirement to designate areas with respect to the standard for lead”.
 
+#### (6) Designations
+
+#### (A) Submission
+
+&emsp;&emsp;Notwithstanding any other provision of law, not later than February 15, 2004, the Governor of each State shall submit designations referred to in paragraph (1) for the July 1997 PM<sub>2.5</sub> national ambient air quality standards for each area within the State, based on air quality monitoring data collected in accordance with any applicable Federal reference methods for the relevant areas.
+
+#### (B) Promulgation
+
+&emsp;&emsp;Notwithstanding any other provision of law, not later than December 31, 2004, the Administrator shall, consistent with paragraph (1), promulgate the designations referred to in subparagraph (A) for each area of each State for the July 1997 PM<sub>2.5</sub> national ambient air quality standards.
+
+#### (7) Implementation plan for regional haze
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding any other provision of law, not later than 3 years after the date on which the Administrator promulgates the designations referred to in paragraph (6)(B) for a State, the State shall submit, for the entire State, the State implementation plan revisions to meet the requirements promulgated by the Administrator under section 7492(e)(1) of this title (referred to in this paragraph as “regional haze requirements”).
+
+#### (B) No preclusion of other provisions
+
+&emsp;&emsp;Nothing in this paragraph precludes the implementation of the agreements and recommendations stemming from the Grand Canyon Visibility Transport Commission Report dated June 1996, including the submission of State implementation plan revisions by the States of Arizona, California, Colorado, Idaho, Nevada, New Mexico, Oregon, Utah, or Wyoming by December 31, 2003, for implementation of regional haze requirements applicable to those States.
+
 #### (e) Redesignation of air quality control regions
 
 (1) Except as otherwise provided in paragraph (2), the Governor of each State is authorized, with the approval of the Administrator, to redesignate from time to time the air quality control regions within such State for purposes of efficient and effective air quality management. Upon such redesignation, the list under subsection (d) of this section shall be modified accordingly.
 
 (2) In the case of an air quality control region in a State, or part of such region, which the Administrator finds may significantly affect air pollution concentrations in another State, the Governor of the State in which such region, or part of a region, is located may redesignate from time to time the boundaries of so much of such air quality control region as is located within such State only with the approval of the Administrator and with the consent of all Governors of all States which the Administrator determines may be significantly affected.
 
-(3) No compliance date extension granted under section 7413(d)(5) <sup>1</sup> of this title (relating tocoal conversion) shall cease to be effective by reason of the regional limitation provided in section 7413(d)(5) <sup>1</sup> of this title if the violation of such limitation is due solely to a redesignation of a region under this subsection.
+(3) No compliance date extension granted under section 7413(d)(5) <sup>1</sup> of this title (relating to coal conversion) shall cease to be effective by reason of the regional limitation provided in section 7413(d)(5) <sup>1</sup> of this title if the violation of such limitation is due solely to a redesignation of a region under this subsection.
 
-(July 14, 1955, ch. 360, title I, §107, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1678; amended Pub. L. 95–95, title I, §103, Aug. 7, 1977, 91 Stat. 687; Pub. L. 101–549, title I, §101(a), Nov. 15, 1990, 104 Stat. 2399.)
+(July 14, 1955, ch. 360, title I, §107, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1678; amended Pub. L. 95–95, title I, §103, Aug. 7, 1977, 91 Stat. 687; Pub. L. 101–549, title I, §101(a), Nov. 15, 1990, 104 Stat. 2399; Pub. L. 108–199, div. G, title IV, §425(a), Jan. 23, 2004, 118 Stat. 417.)
 
 #### References in Text
 
@@ -136,6 +156,8 @@ Another prior section 107 of act July 14, 1955, as added Dec. 17, 1963, Pub. L. 
 
 #### Amendments
 
+2004—Subsec. (d)(6), (7). Pub. L. 108–199 added pars. (6) and (7).
+
 1990—Subsec. (d). Pub. L. 101–549 amended subsec. (d) generally, substituting present provisions for provisions which required States to submit lists of regions not in compliance on Aug. 7, 1977, with certain air quality standards to be submitted to the Administrator, and which authorized States to revise and resubmit such lists from time to time.
 
 1977—Subsecs. (d), (e). Pub. L. 95–95 added subsecs. (d) and (e).
@@ -145,6 +167,8 @@ Another prior section 107 of act July 14, 1955, as added Dec. 17, 1963, Pub. L. 
 Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Ozone and Particulate Matter Standards
+
+Pub. L. 108–199, div. G, title IV, §425(b), Jan. 23, 2004, 118 Stat. 417, provided that: “Except as provided in paragraphs (6) and (7) of section 107(d) of the Clean Air Act \[subsec. (d)(6), (7) of this section\] (as added by subsection (a)), section 6101, subsections (a) and (b) of section 6102, and section 6103 of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178\] (42 U.S.C. 7407 note; 112 Stat. 463), as in effect on the day before the date of enactment of this Act \[Jan. 23, 2004\], shall remain in effect.”
 
 Pub. L. 105–178, title VI, June 9, 1998, 112 Stat. 463, provided that:
 
@@ -178,7 +202,7 @@ Pub. L. 105–178, title VI, June 9, 1998, 112 Stat. 463, provided that:
 
 “(c)(1) The Governors shall be required to submit designations referred to in section 107(d)(1) of the Clean Air Act \[42 U.S.C. 7407(d)(1)\] for each area following promulgation of the July 1997 PM<sub>2.5</sub> national ambient air quality standard within 1 year after receipt of 3 years of air quality monitoring data performed in accordance with any applicable Federal reference methods for the relevant areas. Only data from the monitoring network designated in subsection (a) and other Federal reference method PM<sub>2.5</sub> monitors shall be considered for such designations. Nothing in the previous sentence shall be construed as affecting the Governor's authority to designate an area initially as nonattainment, and the Administrator's authority to promulgate the designation of an area as nonattainment, under section 107(d)(1) of the Clean Air Act, based on its contribution to ambient air quality in a nearby nonattainment area.
 
-“(2) For any area designated as nonattainment for the July 1997 PM<sub>2.5</sub> national ambient air quality standard in accordance with the schedule set forth in this section, notwithstanding the time limit prescribed in paragraph (2) of section 169B(e) of the Clean Air Act \[42 U.S.C. 7492(e)(2)\], the Administrator shall require State implementation plan revisions referred to in such paragraph (2) to be submitted at the same time as State implementation plan revisions referred to in section 172 of the Clean Air Act \[42 U.S.C. 7502\] implementing the revised national ambient air quality standard for fineparticulate matter are required to be submitted. For any area designated as attainment or unclassifiable for such standard, the Administrator shall require the State implementation plan revisions referred to in such paragraph (2) to be submitted 1 year after the area has been so designated. The preceding provisions of this paragraph shall not preclude the implementation of the agreements and recommendations set forth in the Grand Canyon Visibility Transport Commission Report dated June 1996.
+“(2) For any area designated as nonattainment for the July 1997 PM<sub>2.5</sub> national ambient air quality standard in accordance with the schedule set forth in this section, notwithstanding the time limit prescribed in paragraph (2) of section 169B(e) of the Clean Air Act \[42 U.S.C. 7492(e)(2)\], the Administrator shall require State implementation plan revisions referred to in such paragraph (2) to be submitted at the same time as State implementation plan revisions referred to in section 172 of the Clean Air Act \[42 U.S.C. 7502\] implementing the revised national ambient air quality standard for fine particulate matter are required to be submitted. For any area designated as attainment or unclassifiable for such standard, the Administrator shall require the State implementation plan revisions referred to in such paragraph (2) to be submitted 1 year after the area has been so designated. The preceding provisions of this paragraph shall not preclude the implementation of the agreements and recommendations set forth in the Grand Canyon Visibility Transport Commission Report dated June 1996.
 
 “(d) The Administrator shall promulgate the designations referred to in section 107(d)(1) of the Clean Air Act \[42 U.S.C. 7407(d)(1)\] for each area following promulgation of the July 1997 PM<sub>2.5</sub> national ambient air quality standard by the earlier of 1 year after the initial designations required under subsection (c)(1) are required to be submitted or December 31, 2005.
 
@@ -201,10 +225,6 @@ Suits, actions, and other proceedings lawfully commenced by or against the Admin
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
 All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7406, 7429, 7471, 7472, 7477, 7501, 7502, 7505a, 7506, 7509, 7511, 7511e, 7512, 7513, 7513a, 7514, 7545, 7607, 7651d of this title; title 23 sections 101, 109, 149.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

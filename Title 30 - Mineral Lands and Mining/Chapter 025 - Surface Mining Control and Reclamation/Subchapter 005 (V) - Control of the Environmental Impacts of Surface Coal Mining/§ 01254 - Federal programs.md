@@ -42,7 +42,3 @@ Any Federal program shall include a process for coordinating the review and issu
 
 (Pub. L. 95–87, title V, §504, Aug. 3, 1977, 91 Stat. 471.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1252, 1253, 1256, 1271, 1272, 1291, 1292 of this title.
-

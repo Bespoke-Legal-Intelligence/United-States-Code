@@ -16,7 +16,7 @@ The President shall transmit to the Congress not later than January 20 of each y
 
 #### (b) Appendix to report
 
-The President also shall transmit simultaneously as an appendix to such annual report, areport, by agency and department, on the total dollar value of all Federal contracts exceeding $10,000 in amount and the dollar amount (including the subcontracts thereunder in excess of $10,000) awarded to small, minority-owned, female-owned, and veteran-owned businesses.
+The President also shall transmit simultaneously as an appendix to such annual report, a report, by agency and department, on the total dollar value of all Federal contracts exceeding $10,000 in amount and the dollar amount (including the subcontracts thereunder in excess of $10,000) awarded to small, minority-owned, female-owned, and veteran-owned businesses.
 
 #### (c) Supplementary reports
 
@@ -70,6 +70,10 @@ Subsec. (e)(3). Pub. L. 105–135, §604(c), added par. (3).
 
 1988—Subsec. (e). Pub. L. 100–533 and Pub. L. 100–590 added subsecs. (e) which were identical, except that the subsec. (e) added by Pub. L. 100–533, which is set out as text of this section, contained the phrase “, by gender,” in par. (1).
 
+#### Change of Name
+
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001. Previously, Select Committee on Small Business of Senate became Committee on Small Business of Senate. See Senate Resolution No. 101, Ninety-Seventh Congress, Mar. 25, 1981.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
@@ -81,10 +85,6 @@ Section effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of reporting provisions in subsecs. (a) and (b) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 17 and 34 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 644 of this title.
 
 <i><sup>1</sup></i><i> See 1988 Amendment note below.</i>
 

@@ -22,7 +22,3 @@ Pub. L. 88–515, §1, Aug. 30, 1964, 78 Stat. 696.
 
 The words “manufactured on or after the effective date of this section” are omitted as executed.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 17103 of this title.
-

@@ -22,7 +22,7 @@
 
 #### (B) Commodities and certificates
 
-&emsp;&emsp;If payments are made available to producers as provided for under subparagraph\(A)(ii), such producers may elect to receive such payments either in the form of—
+&emsp;&emsp;If payments are made available to producers as provided for under subparagraph (A)(ii), such producers may elect to receive such payments either in the form of—
 
 &emsp;&emsp;&emsp;(i) such commodities; or
 
@@ -130,7 +130,7 @@ Subsec. (a)(2)(F)(iii). Pub. L. 100–203, §1110(2), temporarily added cl. (iii
 
 Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under section 1421 of this title.
 
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as a note under section 511r of this title.
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under section 940d of this title.
 
 #### Effective and Termination Dates of 1989 Amendment
 
@@ -202,7 +202,7 @@ Procedure for use of calculation.—If the Secretary decides to use the calculat
 
 &emsp;&emsp;“(ii) shall have the option to make the reimbursement in a lump sum or in installments;
 
-&emsp;&emsp;“(iii) shall, not later than 90 days after the date of enactment of this Act, notify producers who are eligible to receive the reimbursement of their 1988or 1989 advance deficiency payment refund under this section—
+&emsp;&emsp;“(iii) shall, not later than 90 days after the date of enactment of this Act, notify producers who are eligible to receive the reimbursement of their 1988 or 1989 advance deficiency payment refund under this section—
 
 &emsp;&emsp;&emsp;“(I) of the timing of the payment of the reimbursement (either in lump sum or in installments);
 
@@ -241,8 +241,4 @@ Application.—This subparagraph shall apply if—
 #### Advance Deficiency Payments
 
 Pub. L. 99–509, title I, §1021, Oct. 21, 1986, 100 Stat. 1877, required Secretary of Agriculture to make advance deficiency payments available for 1987 crops of wheat, feed grains, upland cotton, and rice, and provided that percentage of projected payment rate used in computing such payments shall not be less than (1) 40 percent in the case of wheat and feed grains, and (2) 30 percent in the case of rice and upland cotton.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7213, 7214, 7301 of this title.
 

@@ -66,7 +66,3 @@ Changes were made in phraseology.
 
 A prior section 541, acts June 25, 1948, ch. 646, 62 Stat 910; Mar. 18, 1959, Pub. L. 86–3, §11(c), (d), 73 Stat. 9, related to appointment, residence and tenure of marshals, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 561 of this title by section 4(c) of Pub. L. 89–554.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 546 of this title.
-

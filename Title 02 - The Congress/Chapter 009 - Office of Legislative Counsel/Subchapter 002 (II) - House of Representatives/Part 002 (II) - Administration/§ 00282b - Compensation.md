@@ -2,7 +2,7 @@
 
 (a) The Legislative Counsel shall be paid at a per annum gross rate equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule of section 5314 of title 5.
 
-(b) Members of the staff of the Office other than the Legislative Counsel shall be paid at per annum gross rates fixed by the Legislative Counsel with the approval of the Speaker or in accordance with policies approved by the Speaker, but not in excess of the rate of basic pay for one pay level above the maximum pay level foremployees of the House of Representatives provided under clause 6(c) of Rule XI of the Rules of the House of Representatives.
+(b) Members of the staff of the Office other than the Legislative Counsel shall be paid at per annum gross rates fixed by the Legislative Counsel with the approval of the Speaker or in accordance with policies approved by the Speaker, but not in excess of the rate of basic pay for one pay level above the maximum pay level for employees of the House of Representatives provided under clause 6(c) of Rule XI of the Rules of the House of Representatives.
 
 (Pub. L. 91–510, title V, §523, Oct. 26, 1970, 84 Stat. 1203; Pub. L. 95–94, title I, §115, Aug. 5, 1977, 91 Stat. 668.)
 
@@ -16,11 +16,11 @@ Amendment by Pub. L. 95–94 is based on par. (2) of House Resolution No. 8, Nin
 
 #### Prior Provisions
 
-House Resolution 312, 89th Congress, Mar. 31, 1965, which was enacted into permanent law by section 103 of Pub. L. 89–90, July 27, 1965, 79 Stat. 281, provided that effective Apr. 1, 1965, the compensation of the Legislative Counsel of the House of Representatives shall be at a gross per annum rate which is equal to the gross per annum rate of compensation of the Legislative Counsel of the Senate, and that the additional sums necessary to carry out this resolution shall be paid out of the contingent fund of the House until otherwise provided by law.
+House Resolution 312, 89th Congress, Mar. 31, 1965, which was enacted into permanent law by section 103 of Pub. L. 89–90, July 27, 1965, 79 Stat. 281, provided that effective Apr. 1, 1965, the compensation of the Legislative Counsel of the House of Representatives shall be at a gross per annum rate which is equal to the gross per annum rate of compensation of the Legislative Counselof the Senate, and that the additional sums necessary to carry out this resolution shall be paid out of the contingent fund of the House until otherwise provided by law.
 
 #### Amendments
 
-<b>1977</b>—Subsec. (b). Pub. L. 95–94 substituted provisions authorizing compensation at a rate not in excess of the rate of basic pay for one pay level above the maximum pay level for House employees provided under cl. 6(c) of Rule XI of the Rules of the House of Representatives, for provisions authorizing compensation at per annum gross rates not in excess of a per annum gross rate equal to the rate of basic pay for level V of the Executive Schedule of section 5316 of title 5.
+1977—Subsec. (b). Pub. L. 95–94 substituted provisions authorizing compensation at a rate not in excess of the rate of basic pay for one pay level above the maximum pay level for House employees provided under cl. 6(c) of Rule XI of the Rules of the House of Representatives, for provisions authorizing compensation at per annum gross rates not in excess of a per annum gross rate equal to the rate of basic pay for level V of the Executive Schedule of section 5316 of title 5.
 
 #### Increases in Compensation
 

@@ -58,6 +58,10 @@ The signals prescribed in this Rule are not signals of vessels in distress and r
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3427; Pub. L. 100–448, §14(2), (3), Sept. 28, 1988, 102 Stat. 1844.)
 
+#### Repeal of Section
+
+<i>Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that this section is repealed effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 2071 of this title.</i>
+
 #### References in Text
 
 Rule 30, referred to in pars. (b)(iv), (d)(iii), and (f), is classified to section 2030 of this title.
@@ -77,8 +81,4 @@ Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the I
 1988—Par. (b). Pub. L. 100–448, §14(2), substituted “mineclearance” for “minesweeping” in introductory provisions.
 
 Par. (f). Pub. L. 100–448, §14(3), amended par. (f) generally. Prior to amendment, par. (f) read as follows: “A vessel engaged in minesweeping operations shall, in addition to the lights prescribed for a power-driven vessel in Rule 23, exhibit three all-round green lights or three balls. One of these lights or shapes shall be exhibited near the foremast head and one at each end of the fore yard. These lights or shapes indicate that it is dangerous for another vessel to approach closer than 1,000 meters astern or 500 meters on either side of the minesweeper.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2020, 2031 of this title.
 

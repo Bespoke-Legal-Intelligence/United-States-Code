@@ -4,7 +4,3 @@ The Secretary of Agriculture is authorized and directed to enforce this chapter.
 
 (Mar. 3, 1927, ch. 309, §2, 44 Stat. 1355.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 499c, 499d, 499n of this title.
-

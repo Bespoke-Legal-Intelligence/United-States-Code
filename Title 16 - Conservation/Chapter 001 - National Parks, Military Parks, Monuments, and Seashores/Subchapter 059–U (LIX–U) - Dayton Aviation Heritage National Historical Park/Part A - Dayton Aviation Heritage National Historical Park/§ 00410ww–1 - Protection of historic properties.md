@@ -14,7 +14,3 @@ The Secretary is authorized to enter into cooperative agreements with other Fede
 
 (Pub. L. 102–419, title I, §102, Oct. 16, 1992, 106 Stat. 2142.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410ww–7 of this title.
-

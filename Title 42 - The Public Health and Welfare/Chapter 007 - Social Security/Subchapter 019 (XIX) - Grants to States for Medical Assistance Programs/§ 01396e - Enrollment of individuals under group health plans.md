@@ -12,7 +12,7 @@ Each State plan—
 
 #### (b) Timing of enrollment; failure to enroll
 
-(1) In establishing guidelines under subsection (a)(1) of this section, the Secretary shall take into account that an individual may only be eligible to enroll in group health plans at limited times and only if other individuals (not entitled to medical assistance under the plan) are also enrolled in the plan simultaneously.
+(1) In establishing guidelines under subsection (a)(1) of this section, the Secretary shall take into account that an individual may only be eligible to enroll in group health plans at limited times and only if other individuals (not entitledto medical assistance under the plan) are also enrolled in the plan simultaneously.
 
 (2) If a parent of a child fails to enroll the child in a group health plan in accordance with subsection (a)(2) of this section, such failure shall not affect the child's eligibility for benefits under this subchapter.
 
@@ -38,7 +38,7 @@ In this section:
 
 &emsp;(2) The term “cost-effective” means, as established by the Secretary, that the reduction in expenditures under this subchapter with respect to an individual who is enrolled in a group health plan is likely to be greater than the additional expenditures for premiums and cost-sharing required under this section with respect to such enrollment.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1906, as added Pub. L. 101–508, title IV, §4402(a)(2), Nov. 5, 1990,104 Stat. 1388–161; amended Pub. L. 105–33, title IV, §4741(b), Aug. 5, 1997, 111 Stat. 523.)
+(Aug. 14, 1935, ch. 531, title XIX, §1906, as added Pub. L. 101–508, title IV, §4402(a)(2), Nov. 5, 1990, 104 Stat. 1388–161; amended Pub. L. 105–33, title IV, §4741(b), Aug. 5, 1997, 111 Stat. 523.)
 
 #### References in Text
 
@@ -65,10 +65,6 @@ Subsec. (d). Pub. L. 105–33, §4741(b)(2), struck out subsec. (d) which read a
 #### Effective Date
 
 Section applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after Jan. 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4402 of Pub. L. 101–508 have been promulgated by such date, see section 4402(e) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under section 1396a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1396a, 1396b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,3 @@ The Secretary, in coordination with the Director, shall monitor and evaluate the
 
 1980—Pub. L. 96–294 substituted “Secretary” for “Administrator” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6871 of this title.
-

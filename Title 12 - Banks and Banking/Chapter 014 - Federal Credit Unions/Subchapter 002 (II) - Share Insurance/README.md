@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—SHARE INSURANCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1795f of this title.
-
 
 ---
 

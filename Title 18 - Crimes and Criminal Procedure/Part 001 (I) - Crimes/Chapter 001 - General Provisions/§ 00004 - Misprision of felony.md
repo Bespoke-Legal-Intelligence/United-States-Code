@@ -14,7 +14,3 @@ Changes in phraseology only.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1531 of this title; title 50 section 422.
-

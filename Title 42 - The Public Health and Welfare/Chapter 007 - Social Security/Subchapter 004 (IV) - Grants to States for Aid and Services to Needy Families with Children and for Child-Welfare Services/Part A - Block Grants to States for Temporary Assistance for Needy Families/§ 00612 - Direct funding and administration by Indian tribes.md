@@ -6,13 +6,13 @@
 
 #### (A) In general
 
-&emsp;&emsp;For each of fiscal years 1997, 1998, 1999, 2000, 2001, 2002, and 2003, the Secretary shall pay to each Indian tribe that has an approved tribal family assistance plan a tribal family assistance grant for the fiscal year in an amount equal to the amount determined under subparagraph (B), which shall be reduced for a fiscal year, on a pro rata basis for each quarter, in the case of a tribal family assistance plan approved during a fiscal year for which the plan is to be in effect, and shall reduce the grant payable under section 603(a)(1) of this title to any State in whichlies the service area or areas of the Indian tribe by that portion of the amount so determined that is attributable to expenditures by the State.
+&emsp;&emsp;For each of fiscal years 1997, 1998, 1999, 2000, 2001, 2002, and 2003, the Secretary shall pay to each Indian tribe that has an approved tribal family assistance plan a tribal family assistance grant for the fiscal year in an amount equal to the amount determined under subparagraph (B), which shall be reduced for a fiscal year, on a pro rata basis for each quarter, in the case of a tribal family assistance plan approved during a fiscal year for which the plan is to be in effect, and shall reduce the grant payable under section 603(a)(1) of this title to any State in which lies the service area or areas of the Indian tribe by that portion of the amount so determined that is attributable to expenditures by the State.
 
 #### (B) Amount determined
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount determined under this subparagraph is an amount equal to the total amount of the Federal payments to a State or States under section 603 of this title (as in effect during such fiscal year) for fiscal year 1994 attributable to expenditures (other than child care expenditures) by the State or States under parts A and F of this subchapter (as so in effect) for fiscal year 1994 for Indian families residing in the service area or areas identified by the Indian tribe pursuant to subsection (b)(1)(C) of this section.
+&emsp;&emsp;&emsp;The amount determined under this subparagraph is an amount equal to the total amount of the Federal payments to a State or States under section 603 of thistitle (as in effect during such fiscal year) for fiscal year 1994 attributable to expenditures (other than child care expenditures) by the State or States under parts A and F of this subchapter (as so in effect) for fiscal year 1994 for Indian families residing in the service area or areas identified by the Indian tribe pursuant to subsection (b)(1)(C) of this section.
 
 #### (ii) Use of State submitted data
 
@@ -78,7 +78,7 @@
 
 #### (1) In general
 
-&emsp;Any Indian tribe that desires to receive a tribal family assistance grant shall submit to the Secretary a 3-year tribal family assistance plan that—
+&emsp;Any Indian tribe that desires to receive a tribal family assistance grant shall submit tothe Secretary a 3-year tribal family assistance plan that—
 
 &emsp;&emsp;(A) outlines the Indian tribe's approach to providing welfare-related services for the 3-year period, consistent with this section;
 
@@ -150,7 +150,7 @@ Section 611 of this title shall apply to an Indian tribe with an approved tribal
 
 #### References in Text
 
-Part F of this subchapter, referred to in subsec. (a)(1)(B)(i), was classified to section 681 et seq. of thistitle, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
+Part F of this subchapter, referred to in subsec. (a)(1)(B)(i), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
 Section 682 of this title, referred to in subsec. (a)(2)(A), (B), was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
@@ -207,8 +207,4 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 #### Effective Date
 
 Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 602, 603, 605, 606, 607, 609, 613 of this title.
 

@@ -117,10 +117,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1301, 1391, 6933, 7936, 7996 of this title; title 12 section 1150a; title 21 section 889; title 26 section 6109; title 42 section 405.
-
 
 ---
 

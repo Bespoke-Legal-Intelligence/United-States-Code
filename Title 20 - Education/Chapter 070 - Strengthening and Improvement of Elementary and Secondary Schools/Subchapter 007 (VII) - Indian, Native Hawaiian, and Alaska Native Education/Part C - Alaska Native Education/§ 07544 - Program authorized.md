@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(J) Education and training of Alaska Native students enrolled in a degree program that will lead to certification or licensing as teachers.
 
-&emsp;&emsp;(K) Parenting education for parents and caregivers of Alaska Native children to improve parenting and caregiving skills (including skills relating to discipline and cognitive development), including parentingeducation provided through in-home visitation of new mothers.
+&emsp;&emsp;(K) Parenting education for parents and caregivers of Alaska Native children to improve parenting and caregiving skills (including skills relating to discipline and cognitive development), including parenting education provided through in-home visitation of new mothers.
 
 &emsp;&emsp;(L) Cultural education programs operated by the Alaska Native Heritage Center and designed to share the Alaska Native culture with students.
 

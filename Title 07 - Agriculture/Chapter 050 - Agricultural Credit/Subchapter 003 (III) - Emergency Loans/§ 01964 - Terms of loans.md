@@ -80,7 +80,7 @@ Subsecs. (c) to (e). Pub. L. 96–438, §3(b)(1), added subsecs. (c) to (e).
 
 1978—Subsecs. (b), (c). Pub. L. 95–334 redesignated subsec. (c) as (b). Former subsec. (b), which related to reductions in the interest rate based on interest rate of the Small Business Administration, was struck out.
 
-1977—Subsec. (a). Pub. L. 95–89 designated existing provisions as subsec. (a) and struck out last provisoprescribing for any loan made by the Small Business Administration in connection with a disaster occurring on or after Aug. 5, 1975, under section 636(b)(1), (2), or (4) of title 15 a rate of interest determined in the first paragraph following section 636(b)(8) of title 15 for loans under paragraphs (3), (5), (6), (7), or (8) of section 636(b) of title 15, now covered in subsec. (b) of this section.
+1977—Subsec. (a). Pub. L. 95–89 designated existing provisions as subsec. (a) and struck out last proviso prescribing for any loan made by the Small Business Administration in connection with a disaster occurring on or after Aug. 5, 1975, under section 636(b)(1), (2), or (4) of title 15 a rate of interest determined in the first paragraph following section 636(b)(8) of title 15 for loans under paragraphs (3), (5), (6), (7), or (8) of section 636(b) of title 15, now covered in subsec. (b) of this section.
 
 Subsecs. (b), (c). Pub. L. 95–89 added subsecs. (b) and (c).
 
@@ -113,8 +113,4 @@ Section 119 of Pub. L. 95–334 provided that the amendment made by that section
 #### Small Business Disaster Loans; Interest Rate; Cancellation of Loans
 
 Loans by Small Business Administration in connection with any disaster occurring on or after Apr. 20, 1973 made under section 636(b)(1), (2), or (4) of Title 15, as subject to interest rate determined under this section and prohibition against cancellation of such loan under any provision of law, see section 9 of Pub. L. 93–24, set out as a note under section 636 of Title 15, Commerce and Trade.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1961, 1963 of this title.
 

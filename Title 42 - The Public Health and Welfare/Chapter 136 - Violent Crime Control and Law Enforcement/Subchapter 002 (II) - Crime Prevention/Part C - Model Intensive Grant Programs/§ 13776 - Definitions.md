@@ -14,7 +14,3 @@ In this part—
 
 (Pub. L. 103–322, title III, §30306, Sept. 13, 1994, 108 Stat. 1846.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

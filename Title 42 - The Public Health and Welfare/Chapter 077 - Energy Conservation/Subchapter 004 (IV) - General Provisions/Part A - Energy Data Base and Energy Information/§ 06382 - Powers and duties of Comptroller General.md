@@ -16,7 +16,7 @@ For the purpose of carrying out his authority under section 6381 of this title�
 
 &emsp;&emsp;(A) enter, at reasonable times, any business premise or facility; and
 
-&emsp;&emsp;(B) inspect, at reasonable times and in a reasonable manner, any such premise or facility, inventory and sample any stock of energy resources therein, and examine and copy books, records, papers, or other documents, relating to any energy information,or any financial information in the case of a vertically integrated petroleum company.
+&emsp;&emsp;(B) inspect, at reasonable times and in a reasonable manner, any such premise or facility, inventory and sample any stock of energy resources therein, and examine and copy books, records, papers, or other documents, relating to any energy information, or any financial information in the case of a vertically integrated petroleum company.
 
 #### (b) Information in possession of Federal agencies
 
@@ -34,11 +34,11 @@ If the verification examination was conducted at the request of any committee of
 
 #### (e) Disclosure of geological or geophysical information
 
-(1) Any information obtained by the Comptroller General or any officer or employee of the General Accounting Office pursuant to the exercise of responsibilities or authorities under this section which relates to geological or geophysical information, or any estimate or interpretation thereof, the disclosure of which would result in significant competitive disadvantage or significant loss to the owner thereof shall not be disclosed except to a committee of Congress. Any such information so furnished to a committee of the Congress shall be deemed the property of such committee and may not be disclosed except in accordance with the rules of the committee and the rules of the House of Representatives or the Senate and as permitted by law.
+(1) Any information obtained by the Comptroller General or any officer or employee of the Government Accountability Office pursuant to the exercise of responsibilities or authorities under this section which relates to geological or geophysical information, or any estimate or interpretation thereof, the disclosure of which would result in significant competitive disadvantage or significant loss to the owner thereof shall not be disclosed except to a committee of Congress. Any such information so furnished to a committee of the Congress shall be deemed the property of such committee and may not be disclosed except in accordance with the rules of the committee and the rules of the House of Representatives or the Senate and as permitted by law.
 
 (2) Any person who knowingly discloses information in violation of paragraph (1) shall be subject to the penalties specified in section 754(a)(3)(B) and (4) <sup>1</sup> of title 15.
 
-(Pub. L. 94–163, title V, §502, Dec. 22, 1975, 89 Stat. 957; Pub. L. 104–316, title I, §122(p), Oct. 19, 1996, 110 Stat. 3838.)
+(Pub. L. 94–163, title V, §502, Dec. 22, 1975, 89 Stat. 957; Pub. L. 104–316, title I, §122(p), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -46,11 +46,9 @@ Section 754 of title 15, referred to in subsec. (e)(2), was omitted from the Cod
 
 #### Amendments
 
+2004—Subsec. (e)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
 1996—Subsec. (f). Pub. L. 104–316 struck out subsec. (f) which read as follows: “The Comptroller General shall prepare and submit to the Congress an annual report with respect to the exercise of its authorities under this part, which report shall specifically identify any deficiencies in energy information or financial information reviewed by the Comptroller General and include a discussion of action taken by the person or company so examined, if any, to correct any such deficiencies.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6384 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,7 +34,7 @@ If a State uses its own funds to provide commodities or services to organization
 
 Pub. L. 104–127, §403(c)(1), substituted “2002” for “1995”.
 
-Subsec. (b). Pub. L. 104–193, §871(d)(1)–(3), redesignated subsec. (g) as (b), substituted “subsection (a) of this section,” for “subsection (f) of this section or subsection (j) of this section if applicable,” and “subsection (a) of this section” for “subsection (f) of thissection”, and struck out former subsec. (b) which provided definitions for section.
+Subsec. (b). Pub. L. 104–193, §871(d)(1)–(3), redesignated subsec. (g) as (b), substituted “subsection (a) of this section,” for “subsection (f) of this section or subsection (j) of this section if applicable,” and “subsection (a) of this section” for “subsection (f) of this section”, and struck out former subsec. (b) which provided definitions for section.
 
 Subsec. (c). Pub. L. 104–193, §871(d)(4), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Subject to subsections (e) and (f) of this section, or subsection (j) of this section if applicable, purchases under this section shall be made by the Secretary at such times and under such conditions as the Secretary determines appropriate within each fiscal year. All such commodities purchased for each such fiscal year shall be delivered at reasonable intervals to States based on the allotments calculated under subsection (f) of this section, or reallocated under subsection (g) of this section, or calculated under subsection (j) of this section if applicable, before the end of such fiscal year. Each State shall be entitled to receive that value of additional commodities that results from the application of the formula set forth in this section to the total value of additional commodities.”
 
@@ -54,7 +54,7 @@ Subsec. (j). Pub. L. 104–193, §871(d)(1), struck out subsec. (j) which author
 
 1990—Subsec. (a). Pub. L. 101–624, §1772(g)(1), substituted “fiscal years 1991 through 1995” for “fiscal years 1989 and 1990”.
 
-Subsec. (e). Pub. L. 101–624, §1772(g)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “During each of the fiscal years 1989 and 1990, the Secretary shall spend $120,000,000 to purchase, process, and distribute additional commodities under this section.”
+Subsec. (e). Pub. L. 101–624, §1772(g)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “During each of the fiscal years 1989 and 1990, the Secretary shall spend$120,000,000 to purchase, process, and distribute additional commodities under this section.”
 
 Subsec. (k). Pub. L. 101–624, §1772(h)(1), struck out heading and text of subsec. (k). Text read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this section.”
 
@@ -69,8 +69,4 @@ Amendment by section 1772(g) of Pub. L. 101–624 effective Oct. 1, 1990, and am
 #### Effective Date
 
 Section to be effective and implemented on Oct. 1, 1988, see section 701(a) of Pub. L. 100–435, set out as an Effective Date of 1988 Amendment note under section 2012 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2036, 7501, 7512, 7514 of this title.
 

@@ -8,7 +8,3 @@ Grant provisions of this chapter shall become effective one hundred and eighty d
 
 This chapter, referred to in text, means the provisions of subchapters I, II, III, and IV of this chapter. See section 4761 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4723, 4743 of this title.
-

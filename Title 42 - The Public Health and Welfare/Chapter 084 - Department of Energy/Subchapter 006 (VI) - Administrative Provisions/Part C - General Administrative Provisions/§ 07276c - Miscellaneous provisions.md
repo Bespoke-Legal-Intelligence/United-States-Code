@@ -26,9 +26,5 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pu
 
 Section was enacted as part of the Hoover Power Plant Act of 1984, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7275, 7276, 7276a, 7276b of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

@@ -48,7 +48,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 &emsp;&emsp;&emsp;(ii) that is a voluntary early retirement incentive plan consistent with the relevant purpose or purposes of this chapter.
 
-> &emsp;Notwithstanding clause (i) or (ii) of subparagraph (B), no such employee benefit plan or voluntary early retirement incentive plan shall excuse the failure to hire any individual, and no such employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title, because of the age of such individual. An employer, employment agency, or labor organization acting under subparagraph (A), or under clause (i) or (ii) of subparagraph (B), shall have the burden of proving that such actions are lawful in any civil enforcement proceeding brought under this chapter; or
+> &emsp;Notwithstanding clause (i) or (ii) of subparagraph (B), no such employee benefit plan orvoluntary early retirement incentive plan shall excuse the failure to hire any individual, and no such employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title, because of the age of such individual. An employer, employment agency, or labor organization acting under subparagraph (A), or under clause (i) or (ii) of subparagraph (B), shall have the burden of proving that such actions are lawful in any civil enforcement proceeding brought under this chapter; or
 
 &emsp;(3) to discharge or otherwise discipline an individual for good cause.
 
@@ -170,7 +170,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;&emsp;(iii) the package of benefits provided by the employer is as described in clauses (i) and (ii).
 
-&emsp;(E)(i) If the obligation of the employer to provide retiree health benefits is of limited duration, the value for each individual shall be calculated at a rate of $3,000 per year for benefit years before age 65, and $750 per year for benefit years beginning at age 65 and above.
+&emsp;(E)(i) If the obligation of the employer to provide retiree health benefits is of limitedduration, the value for each individual shall be calculated at a rate of $3,000 per year for benefit years before age 65, and $750 per year for benefit years beginning at age 65 and above.
 
 &emsp;(ii) If the obligation of the employer to provide retiree health benefits is of unlimited duration, the value for each individual shall be calculated at a rate of $48,000 for individuals below age 65, and $24,000 for individuals age 65 and above.
 
@@ -180,7 +180,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;(F) If an employer that has implemented a deduction pursuant to subparagraph (A) fails to fulfill the obligation described in subparagraph (E), any aggrieved individual may bring an action for specific performance of the obligation described in subparagraph (E). The relief shall be in addition to any other remedies provided under Federal or State law.
 
-&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employeebenefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
+&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employee benefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
 
 &emsp;&emsp;(A) paid to the individual that the individual voluntarily elects to receive; or
 
@@ -244,7 +244,7 @@ Pub. L. 101–433, §103(3), added subsec. (<i>l</i>).
 
 1986—Subsec. (g)(1). Pub. L. 99–272, §9201(b)(1), and Pub. L. 99–592, §2(a), made identical amendments, substituting “or older” for “through 69” in two places.
 
-Subsec. (g)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (g)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (h). Pub. L. 99–272, §9201(b)(3), and Pub. L. 99–592, §2(b), made identical amendments, redesignating subsec. (g), relating to practices of foreign corporations controlled by American employers, as (h).
 
@@ -424,7 +424,7 @@ Applicability to Employees with Service after 1988.—
 
 &emsp;“(1)
 
-In general.—The amendments made by sections 9201 and 9202 \[amending this section, section 1054 of this title, and section 411 of Title 26, Internal Revenue Code\] shall apply only with respect to plan years beginning on or after January 1, 1988, and only to employees who have 1 hour of service in any plan year to which such amendments apply.
+In general.—The amendments made by sections 9201 and 9202 \[amending this section, section1054 of this title, and section 411 of Title 26, Internal Revenue Code\] shall apply only with respect to plan years beginning on or after January 1, 1988, and only to employees who have 1 hour of service in any plan year to which such amendments apply.
 
 &emsp;“(2)
 
@@ -565,10 +565,6 @@ Development of Standards for Wellness Programs.—Not later than 2 years after t
 “(f)
 
 Authorization of Appropriations.—There is authorized to be appropriated $5,000,000 to carry out this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 626 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -4,7 +4,3 @@ With respect to any sales transaction where a credit card has been used to obtai
 
 (Pub. L. 90–321, title I, §166, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1514.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1610 of this title.
-

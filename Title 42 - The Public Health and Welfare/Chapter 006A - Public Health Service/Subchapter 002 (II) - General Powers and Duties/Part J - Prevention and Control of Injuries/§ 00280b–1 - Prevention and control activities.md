@@ -40,13 +40,9 @@ Subsec. (b)(2). Pub. L. 103–183, §203(b)(1), substituted “to promote activi
 
 Subsec. (b)(1). Pub. L. 102–531, §301(1), struck out “and” after semicolon at end.
 
-Subsec. (b)(2). Pub. L. 102–531, §301(2), inserted sentence requiring Secretary to disseminate information on injury control to the public, including through elementary and secondary schools and substituted “; and” for period at end.
+Subsec. (b)(2). Pub. L. 102–531, §301(2), inserted sentence requiring Secretary to disseminate informationon injury control to the public, including through elementary and secondary schools and substituted “; and” for period at end.
 
 Subsec. (b)(3). Pub. L. 102–531, §301(3), added par. (3).
 
 1990—Subsec. (b)(2). Pub. L. 101–558 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “work in cooperation with Federal, State, and local agencies to promote injury control.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 280b–1a of this title.
 

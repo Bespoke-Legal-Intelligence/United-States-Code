@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—RESTATEMENT OF BILL OF RIGHTS FOR MENTAL HEALTH PATIENTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 10851 of this title.
-
 
 ---
 

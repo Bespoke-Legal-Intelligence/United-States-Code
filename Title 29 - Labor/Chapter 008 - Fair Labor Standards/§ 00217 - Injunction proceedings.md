@@ -6,7 +6,7 @@ The district courts, together with the United States District Court for the Dist
 
 #### Amendments
 
-1961—Pub. L. 87–30 substituted “, including in the case of violations of section 215(a)(2) of this title the restraint of any withholding of payment of minimum wages or overtime compensation found by the court to be due to employees under this chapter (except sums which employees are barred from recovering, at thetime of the commencement of the action to restrain the violations, by virtue of the provisions of section 255 of this title” for “: <i>Provided</i>, That no court shall have jurisdiction, in any action brought by the Administrator to restrain such violations, to order the payment to employees of unpaid minimum wages or unpaid overtime compensation or an additional equal amount as liquidated damages in such action”.
+1961—Pub. L. 87–30 substituted “, including in the case of violations of section 215(a)(2) of this title the restraint of any withholding of payment of minimum wages or overtime compensation found by the court to be due to employees under this chapter (except sums which employees are barred from recovering, at the time of the commencement of the action to restrain the violations, by virtue of the provisions of section 255 of this title” for “: <i>Provided</i>, That no court shall have jurisdiction, in any action brought by the Administrator to restrain such violations, to order the payment to employees of unpaid minimum wages or unpaid overtime compensation or an additional equal amount as liquidated damages in such action”.
 
 1960—Pub. L. 86–624 struck out reference to the District Court for Territory of Alaska.
 
@@ -28,13 +28,9 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified tosections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Transfer of Functions
 
 Functions relating to enforcement and administration of equal pay provisions vested by this section in Secretary of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 212, 216, 626 of this title.
 

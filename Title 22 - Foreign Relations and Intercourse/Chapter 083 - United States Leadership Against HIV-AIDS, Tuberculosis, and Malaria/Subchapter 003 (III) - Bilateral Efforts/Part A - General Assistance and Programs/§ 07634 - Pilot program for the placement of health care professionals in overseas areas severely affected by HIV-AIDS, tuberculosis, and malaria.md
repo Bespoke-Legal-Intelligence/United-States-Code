@@ -64,7 +64,11 @@ Not later than 18 months after May 27, 2003, the President shall submit to the a
 
 #### (2) Availability of funds
 
-&emsp;Amounts appropriated pursuant to the authorization of appropriations under paragraph\(1) are authorized to remain available until expended.
+&emsp;Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
 
 (Pub. L. 108–25, title III, §304, May 27, 2003, 117 Stat. 737.)
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

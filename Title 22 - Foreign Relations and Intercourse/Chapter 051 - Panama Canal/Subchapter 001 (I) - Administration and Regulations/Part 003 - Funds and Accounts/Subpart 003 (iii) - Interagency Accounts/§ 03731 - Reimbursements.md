@@ -32,7 +32,7 @@ Amounts expended for furnishing services referred to in subsection (c) of this s
 
 #### (f) Reimbursement of United States by Republic of Panama for salaries and other employment costs
 
-For purposes of the reimbursement of the United States by the Republic of Panama for thesalaries and other employment costs of employees of the Commission who are assigned to assist the Republic of Panama in the operation of activities which are transferred to that Government as a result of any provision of the Panama Canal Treaty of 1977 and related agreements, which reimbursement is provided for in paragraph 8 of Article 10 of that Treaty, the Commission shall be deemed to be the United States of America.
+For purposes of the reimbursement of the United States by the Republic of Panama for the salaries and other employment costs of employees of the Commission who are assigned to assist the Republic of Panama in the operation of activities which are transferred to that Government as a result of any provision of the Panama Canal Treaty of 1977 and related agreements, which reimbursement is provided for in paragraph 8 of Article 10 of that Treaty, the Commission shall be deemed to be the United States of America.
 
 #### (g) Operation of Canal Zone College
 
@@ -81,8 +81,4 @@ Amendment by Pub. L. 100–705 effective Oct. 1, 1988, see section 10 of Pub. L.
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–223 effective Oct. 1, 1985, see section 8 of Pub. L. 99–223, set out as a note under section 3612 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3751 of this title.
 

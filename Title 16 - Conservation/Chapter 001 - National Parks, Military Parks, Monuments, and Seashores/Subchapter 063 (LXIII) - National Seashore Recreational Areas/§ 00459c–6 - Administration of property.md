@@ -14,7 +14,3 @@ The Secretary may permit hunting and fishing on lands and waters under his juris
 
 1976—Subsec. (a). Pub. L. 94–544 and Pub. L. 94–567 made substantially identical amendments by inserting provision which directed the Secretary to administer the property acquired in such a manner so as to provide recreational, educational, historic preservation, interpretation, and scientific research opportunities consistent with the maximum protection, restoration, and preservation of the environment.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459c–2, 459c–4, 459c–5, 459c–6b, 459c–7 of this title.
-

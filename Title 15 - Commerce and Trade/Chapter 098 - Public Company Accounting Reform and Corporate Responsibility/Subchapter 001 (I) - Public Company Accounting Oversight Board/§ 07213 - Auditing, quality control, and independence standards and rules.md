@@ -88,7 +88,3 @@ This Act, referred to in subsec. (a)(1), is Pub. L. 107–204, July 30, 2002, 11
 
 Title II of this Act, referred to in subsec. (b), is title II of Pub. L. 107–204, July 30, 2002, 116 Stat. 771, which enacted subchapter II of this chapter and amended sections 78c, 78j–1, 78<i>l</i>, and 78q of this title. For complete classification of title II to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7201, 7211, 7214, 7217 of this title.
-

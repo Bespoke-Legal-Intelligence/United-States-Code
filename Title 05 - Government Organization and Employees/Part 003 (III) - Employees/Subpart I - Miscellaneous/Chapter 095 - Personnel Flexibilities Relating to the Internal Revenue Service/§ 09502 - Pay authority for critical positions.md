@@ -6,7 +6,3 @@
 
 (Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 712.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9501, 9503, 9504, 9507 of this title.
-

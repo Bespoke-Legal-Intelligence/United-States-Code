@@ -8,7 +8,3 @@ Funds appropriated for the Capitol Grounds after October 1, 1976, shall be avail
 
 Section was classified to section 223 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2164 of this title.
-

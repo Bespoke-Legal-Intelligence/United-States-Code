@@ -58,7 +58,3 @@ Section 501 of the Rehabilitation Act of 1973, referred to in subsec. (d)(2)(B),
 
 Subsec. (d) of this section effective Oct. 26, 1996, see section 471(b) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 435, 471 of this title; title 28 section 3905.
-

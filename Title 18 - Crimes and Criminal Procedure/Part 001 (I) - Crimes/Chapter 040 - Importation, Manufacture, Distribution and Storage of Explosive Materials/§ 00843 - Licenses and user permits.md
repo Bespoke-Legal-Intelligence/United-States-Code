@@ -34,7 +34,7 @@
 
 (h)(1) If the Secretary <sup>1</sup> receives, from an employer, the name and other identifying information of a responsible person or an employee who will be authorized by the employer to possess explosive materials in the course of employment with the employer, the Secretary <sup>1</sup> shall determine whether the responsible person or employee is one of the persons described in any paragraph of section 842(i). In making the determination, the Secretary <sup>1</sup> may take into account a letter or document issued under paragraph (2).
 
-(2)(A) If the Secretary <sup>1</sup> determines that the responsible person or the employee is not one of the persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer in writing or electronically of the determination and issue, to the responsible person or employee, a letter of clearance, which confirms the determination.
+(2)(A) If the Secretary <sup>1</sup> determines that the responsible person or the employee is not one ofthe persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer in writing or electronically of the determination and issue, to the responsible person or employee, a letter of clearance, which confirms the determination.
 
 (B) If the Secretary <sup>1</sup> determines that the responsible person or employee is one of the persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer in writing or electronically of the determination and issue to the responsible person or the employee, as the case may be, a document that—
 
@@ -115,10 +115,6 @@ Exception.—Notwithstanding any provision of this Act \[see Tables for classifi
 #### Continuation in Business or Operation of Any Person Engaged in Business or Operation on October 15, 1970
 
 Filing of application for a license or permit prior to the effective date of this section as authorizing any person engaged in a business or operation requiring a license or a permit on Oct. 15, 1970 to continue such business or operation pending final action on such application, see section 1105(c) of Pub. L. 91–452, set out as a note under section 841 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 842 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Attorney General”.</i>
 

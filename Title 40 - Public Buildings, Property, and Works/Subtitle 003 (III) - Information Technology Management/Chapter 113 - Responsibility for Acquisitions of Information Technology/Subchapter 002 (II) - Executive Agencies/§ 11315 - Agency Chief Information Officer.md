@@ -10,7 +10,7 @@ General Responsibilities.—The Chief Information Officer of an executive agency
 
 &emsp;(1) providing advice and other assistance to the head of the executive agency and other senior management personnel of the executive agency to ensure that information technology is acquired and information resources are managed for the executive agency in a manner that implements the policies and procedures of this subtitle, consistent with chapter 35 of title 44 and the priorities established by the head of the executive agency;
 
-&emsp;(2) developing, maintaining, and facilitating the implementation of a sound and integrated information technology architecture for the executive agency; and
+&emsp;(2) developing, maintaining, and facilitating the implementation of a sound, secure, and integrated information technology architecture for the executive agency; and
 
 &emsp;(3) promoting the effective and efficient design and operation of all major information resources management processes for the executive agency, including improvements to work processes of the executive agency.
 
@@ -24,7 +24,7 @@ Duties and Qualifications.—The Chief Information Officer of an agency listed i
 
 &emsp;(3) annually, as part of the strategic planning and performance evaluation process required (subject to section 1117 of title 31) under section 306 of title 5 and sections 1105(a)(28), 1115–1117, and 9703 (as added by section 5(a) of the Government Performance and Results Act of 1993 (Public Law 103–62, 107 Stat. 289)) of title 31—
 
-&emsp;&emsp;(A) assesses the requirements established for agency personnel regarding knowledgeand skill in information resources management and the adequacy of those requirements for facilitating the achievement of the performance goals established for information resources management;
+&emsp;&emsp;(A) assesses the requirements established for agency personnel regarding knowledge and skill in information resources management and the adequacy of those requirements for facilitating the achievement of the performance goals established for information resources management;
 
 &emsp;&emsp;(B) assesses the extent to which the positions and personnel at the executive level of the agency and the positions and personnel at management level of the agency below the executive level meet those requirements;
 
@@ -32,7 +32,7 @@ Duties and Qualifications.—The Chief Information Officer of an agency listed i
 
 &emsp;&emsp;(D) reports to the head of the agency on the progress made in improving information resources management capability.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1241.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1241; Pub. L. 108–458, title VIII, §8401(4), Dec. 17, 2004, 118 Stat. 3869.)
 
 Historical and Revision Notes
 
@@ -52,7 +52,7 @@ Pub. L. 104–106, div. E, title LI, §5125(b)–(d), Feb. 10, 1996, 110 Stat. 6
 
 In subsection (c)(3), before subclause (A), the reference to 31:1105(a)(29) is changed to 1105(a)(28) because of the redesignation of 1105(a)(29) as 1105(a)(28) by section 4(1) of the Act of October 11, 1996, (Public Law 104–287, 110 Stat. 3388). The words “as added by section 5(a) of the Government Performance and Results Act of 1993 (Public Law 103–62, 107 Stat. 289)” are added for clarity because there is another 31:9703.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 11103 of this title; title 10 section 2223.
+2004—Subsec. (b)(2). Pub. L. 108–458 inserted “, secure,” after “sound”.
 

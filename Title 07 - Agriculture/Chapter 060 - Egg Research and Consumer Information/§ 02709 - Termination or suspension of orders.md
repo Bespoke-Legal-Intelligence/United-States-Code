@@ -14,7 +14,3 @@ The termination or suspension of any order, or any provision thereof, shall not 
 
 (Pub. L. 93–428, §10, Oct. 1, 1974, 88 Stat. 1176.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2712 of this title.
-

@@ -14,7 +14,3 @@ The application for a loan to be guaranteed hereunder shall be submitted to the 
 
 1984—Pub. L. 98–449 substituted “$350,000” for “$100,000”, and inserted after first sentence “The Secretary shall review each loan application individually and independently from the lender.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1499 of this title.
-

@@ -56,7 +56,3 @@ For purposes of this chapter:
 
 (Pub. L. 99–198, title XVI, §1613, Dec. 23, 1985, 99 Stat. 1607.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4809 of this title.
-

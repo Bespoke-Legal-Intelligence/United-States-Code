@@ -12,7 +12,7 @@ The benchmark compensation amount applicable for a fiscal year is the median amo
 
 In this section:
 
-&emsp;(1) The term “compensation”, for a fiscal year, means the total amount of wages, salary,bonuses and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
+&emsp;(1) The term “compensation”, for a fiscal year, means the total amount of wages, salary, bonuses and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
 
 &emsp;(2) The term “senior executives”, with respect to a contractor, means the five most highly compensated employees in management positions at each home office and each segment of the contractor.
 
@@ -65,8 +65,4 @@ Section 808(g) of Pub. L. 105–85, as amended by Pub. L. 105–261, div. A, tit
 &emsp;“(1) The term ‘covered contract’ has the meaning given such term in section 2324(<i>l</i>) of title 10, United States Code, and section 306(<i>l</i>) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 256(<i>l</i>)).
 
 &emsp;“(2) The terms ‘compensation’ and ‘senior executives’ have the meanings given such terms in section 2324(<i>l</i>) of title 10, United States Code, and section 306(m) of the Federal Property and Administrative Services Act of 1949.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 256 of this title; title 10 section 2324.
 

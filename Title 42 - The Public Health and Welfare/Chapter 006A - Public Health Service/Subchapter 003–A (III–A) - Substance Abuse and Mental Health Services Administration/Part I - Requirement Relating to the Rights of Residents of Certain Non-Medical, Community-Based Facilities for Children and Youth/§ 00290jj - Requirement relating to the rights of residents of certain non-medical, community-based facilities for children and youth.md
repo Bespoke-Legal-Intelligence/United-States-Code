@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(i) ensure that a supervisory or senior staff person with training in restraint and seclusion who is competent to conduct a face-to-face assessment (as defined in regulations promulgated by the Secretary), will assess the mental and physical well-being of the child or youth being restrained or secluded and assure that the restraint or seclusion is being done in a safe manner;
 
-&emsp;&emsp;&emsp;(ii) ensure that the assessment required under clause (i) take place as soon as practicable, but in no case later than 1 hourafter the initiation of the restraint or seclusion; and
+&emsp;&emsp;&emsp;(ii) ensure that the assessment required under clause (i) take place as soon as practicable, but in no case later than 1 hour after the initiation of the restraint or seclusion; and
 
 &emsp;&emsp;&emsp;(iii) ensure that the supervisory or senior staff person continues to monitor the situation for the duration of the restraint and seclusion.
 

@@ -8,7 +8,7 @@ Subject to subsection (b) of this section, the Secretary may issue such amendmen
 
 #### (1) In general
 
-&emsp;The Secretary may conduct at any time a referendum of persons who, during a representative period as determined by the Secretary, have been fluid milk processors on adjusting the assessment rate under the order issued under this chapter then in effect, and shall hold such a referendum on request of the Board or any group of such processors that among them marketed during a representative period, as determined by the Secretary, 10 percent or more of the volume of fluid milk products marketed by all processors.
+&emsp;The Secretary may conduct at any time a referendum of persons who, during a representative period as determined by the Secretary, have been fluid milk processors on adjusting the assessment rate under the order issued under this chapter then in effect, and shall hold such a referendum on request of theBoard or any group of such processors that among them marketed during a representative period, as determined by the Secretary, 10 percent or more of the volume of fluid milk products marketed by all processors.
 
 #### (2) Adjustment to assessment rate
 
@@ -29,8 +29,4 @@ Subject to subsection (b) of this section, the Secretary may issue such amendmen
 &emsp;Subsections (c) and (d) of section 6413 of this title shall apply to a referendum conducted under this subsection.
 
 (Pub. L. 101–624, title XIX, §1999P, Nov. 28, 1990, 104 Stat. 3926.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6409 of this title.
 

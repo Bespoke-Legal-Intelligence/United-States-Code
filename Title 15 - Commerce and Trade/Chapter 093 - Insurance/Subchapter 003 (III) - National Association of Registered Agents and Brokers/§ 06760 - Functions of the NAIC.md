@@ -16,7 +16,3 @@ Determinations of the NAIC, for purposes of making rules pursuant to section 675
 
 (Pub. L. 106–102, title III, §330, Nov. 12, 1999, 113 Stat. 1430.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6762 of this title.
-

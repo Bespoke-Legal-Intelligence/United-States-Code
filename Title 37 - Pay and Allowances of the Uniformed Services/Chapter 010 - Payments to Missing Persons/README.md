@@ -24,10 +24,6 @@
 
 1966—Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 625, added chapter 10 and items 551 to 558.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 10 sections 1482, 1511, 1524; title 18 section 1923; title 38 section 107.
-
 
 ---
 

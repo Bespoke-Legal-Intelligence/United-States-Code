@@ -30,7 +30,7 @@ Modification of Powers; Removal.—On motion of the receiver or on its own initi
 
 (f)
 
-Priority.—If more than one court appoints a receiver for particular property, the receiver first qualifying under law shall be entitled to take possession, control, or custody of the property.
+Priority.—If more than one court appoints a receiver for particular property, the receiverfirst qualifying under law shall be entitled to take possession, control, or custody of the property.
 
 (g)
 
@@ -41,8 +41,4 @@ Compensation of Receivers.—(1) A receiver is entitled to such commissions, not
 (3) At the termination of a receivership, the receiver shall file a final accounting of the receipts and disbursements and apply for compensation setting forth the amount sought and the services rendered by the receiver.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4944.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3101 of this title.
 

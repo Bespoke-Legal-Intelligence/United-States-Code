@@ -4,7 +4,3 @@ The Secretary of Agriculture is authorized to furnish persons attending Forest S
 
 (Apr. 24, 1950, ch. 97, §8, 64 Stat. 84.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 580k of this title.
-

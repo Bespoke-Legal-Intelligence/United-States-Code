@@ -32,11 +32,11 @@ After consultation with the heating oil industry, the Secretary shall determine 
 
 &emsp;(2) in all such sales or exchanges, the Secretary shall receive revenue or its equivalent in petroleum distillate that provides the Department with fair market value. At no time may the oil be sold or exchanged resulting in a loss of revenue or value to the United States; and
 
-&emsp;(3) the Secretary shall only sell or dispose of the oil in the Reserve to entities customarilyengaged in the sale and distribution of petroleum distillate.
+&emsp;(3) the Secretary shall only sell or dispose of the oil in the Reserve to entities customarily engaged in the sale and distribution of petroleum distillate.
 
 #### (e) Plan
 
-Within 45 days of November 9, 2000, the Secretary shall transmit to the President and, if the President approves, to the Congress a plan describing—
+Within 45 days of November 9, 2000, the Secretary shall transmit to the President and, ifthe President approves, to the Congress a plan describing—
 
 &emsp;(1) the acquisition of storage and related facilities or storage services for the Reserve, including the potential use of storage facilities not currently in use;
 

@@ -1,6 +1,10 @@
 ### §831b. Officers and employees; wages of laborers and mechanics; application of employees’ compensation provisions
 
-The board shall without regard to the provisions of Civil Service laws applicable to officers and employees of the United States, appoint such managers, assistant managers, officers, employees, attorneys, and agents as are necessary for the transaction of its business, fix their compensation, define their duties, and provide a system of organization to fix responsibility and promote efficiency. Any appointee of the board may be removed in the discretion of the board. No regular officer or employee of the Corporation shall receive a salary in excess of that received by the members of the board.
+#### (a) Appointment by the chief executive officer
+
+The chief executive officer shall appoint, with the advice and consent of the Board, and without regard to the provisions of the civil service laws applicable to officers and employees of the United States, such managers, assistant managers, officers, employees, attorneys, and agents as are necessary for the transaction of the business of the Corporation.
+
+#### (b) Wage rates
 
 All contracts to which the Corporation is a party and which require the employment of laborers and mechanics in the construction, alteration, maintenance, or repair of buildings, dams, locks, or other projects shall contain a provision that not less than the prevailing rate of wages for work of a similar nature prevailing in the vicinity shall be paid to such laborers or mechanics.
 
@@ -10,19 +14,25 @@ Where such work as is described in the two preceding paragraphs is done directly
 
 Insofar as applicable, the benefits of subchapter I of chapter 81 of title 5 shall extend to persons given employment under the provisions of this chapter.
 
-(May 18, 1933, ch. 32, §3, 48 Stat. 59; Pub. L. 92–310, title II, §225(a), June 6, 1972, 86 Stat. 206.)
+(May 18, 1933, ch. 32, §3, 48 Stat. 59; Pub. L. 92–310, title II, §225(a), June 6, 1972, 86 Stat. 206; Pub. L. 108–447, div. C, title VI, §602, Dec. 8, 2004, 118 Stat. 2966.)
 
 #### References in Text
 
-The Civil Service laws, referred to in text, are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5. Offices and positions in the Tennessee Valley Authority were specifically excepted from the provisions of the Ramspeck Act (act Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211), which authorized the President to cover into the classified (competitive) civil service any offices or positions in the executive branch.
+The civil service laws, referred to in subsec. (a), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5. Offices and positions in the Tennessee Valley Authority were specifically excepted from the provisions of the Ramspeck Act (act Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211), which authorized the President to cover into the classified (competitive) civil service any offices or positions in the executive branch.
 
 #### Codification
 
-In the last par., “subchapter I of chapter 81 of title 5” substituted for “the Act entitled ‘An Act to provide compensation for employees of the United States suffering injuries while in the performance of their duties, and for other purposes,’ approved September 7, 1916, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In the last par. of subsec. (b), “subchapter I of chapter 81 of title 5” substituted for “the Act entitled ‘An Act to provide compensation for employees of the United States suffering injuries while in the performance of their duties, and for other purposes,’ approved September 7, 1916, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
+2004—Pub. L. 108–447 added subsec. (a), designated existing provisions as subsec. (b) and inserted heading, and struck out former first undesignated par. which read as follows: “The board shall without regard to the provisions of Civil Service laws applicable to officers and employees of the United States, appoint such managers, assistant managers, officers, employees, attorneys, and agents as are necessary for the transaction of its business, fix their compensation, define their duties, and provide a system of organization to fix responsibility and promote efficiency. Any appointee of the board may be removed in the discretion of the board. No regular officer or employee of the Corporation shall receive a salary in excess of that received by the members of the board.”
+
 1972—Pub. L. 92–310 struck out provisions which permitted the board to require bonds from managers, assistant managers, officers, employees, attorneys, and agents.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominated under section 604(a) of Pub. L. 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out in an Appointments; Effective Date; Transition note under section 831a of this title.
 
 #### Payment of Physicians Allowances
 
@@ -45,8 +55,4 @@ Pub. L. 99–500, §101(e) \[title IV\], Oct. 18, 1986, 100 Stat. 1783–194, 17
 #### Legal Representation
 
 Customs Courts Act of 1980 as not affecting authority of Tennessee Valley Authority under this chapter to represent itself by attorneys of its choosing, see Pub. L. 96–417, title VII, §705, Oct. 10, 1980, 94 Stat. 1748, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 sections 5373, 5948; title 18 section 205.
 

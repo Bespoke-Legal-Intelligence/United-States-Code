@@ -74,7 +74,3 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 288, 357 of this title; title 10 section 1406.
-

@@ -62,7 +62,7 @@ This chapter, referred to in subsec. (c)(1), was in the original “this Act”,
 
 #### Prior Provisions
 
-A prior section 1062, Pub. L. 89–329, title III, §323, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1395, provided for duration of grants to institutions with special needs, prior to the general revision of this subchapter by Pub. L. 99–498.
+A prior section 1062, Pub. L. 89–329, title III, §323, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat.1395, provided for duration of grants to institutions with special needs, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 Another prior section 1062, Pub. L. 89–329, title IV, §402, Nov. 8, 1965, 79 Stat. 1232; Pub. L. 90–575, title I, §102, Oct. 16, 1968, 82 Stat. 1017, related to determination of amount of grant and establishment of basic criteria or schedules, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
@@ -103,10 +103,6 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1063a, 1068, 1068b, 1068c of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,7 +34,7 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 #### (e) Exemptions
 
-(1) Not later than 1 year after November 9, 1978, and from time to time thereafter, the Commission shall, after consultation with representatives of State regulatory authorities, electric utilities, owners of cogeneration facilities and owners of small power production facilities, and after public notice and a reasonable opportunity for interested persons (including State and Federal agencies) to submit oral as well as written data, views, and arguments, prescribe rules under which geothermal small power production facilities of not more than 80 megawatts capacity, qualifying cogeneration facilities, and qualifying small power production facilities are exempted in whole or part from the Federal Power Act \[16 U.S.C. 791a et seq.\], from the Public Utility Holding Company Act \[15 U.S.C. 79 et seq.\], from State laws and regulations respecting the rates, or respecting the financial or organizational regulation, of electric utilities, or from any combination of the foregoing, if the Commission determines such exemption is necessary to encourage cogeneration and small power production.
+(1) Not later than 1 year after November 9, 1978, and from time to time thereafter, the Commission shall, after consultation with representatives of State regulatory authorities, electric utilities, owners of cogeneration facilities and owners of small power production facilities, and after public notice and a reasonable opportunity for interested persons (including State and Federal agencies) to submit oral as well as written data, views, and arguments, prescribe rules under which geothermal small power productionfacilities of not more than 80 megawatts capacity, qualifying cogeneration facilities, and qualifying small power production facilities are exempted in whole or part from the Federal Power Act \[16 U.S.C. 791a et seq.\], from the Public Utility Holding Company Act \[15 U.S.C. 79 et seq.\], from State laws and regulations respecting the rates, or respecting the financial or organizational regulation, of electric utilities, or from any combination of the foregoing, if the Commission determines such exemption is necessary to encourage cogeneration and small power production.
 
 (2) No qualifying small power production facility (other than a qualifying small power production facility which is an eligible solar, wind, waste, or geothermal facility as defined in section 3(17)(E) of the Federal Power Act \[16 U.S.C. 796(17)(E)\]) which has a power production capacity which, together with any other facilities located at the same site (as determined by the Commission), exceeds 30 megawatts, or 80 megawatts for a qualifying small power production facility using geothermal energy as the primary energy source, may be exempted under rules under paragraph (1) from any provision of law or regulation referred to in paragraph (1), except that any qualifying small power production facility which produces electric energy solely by the use of biomass as a primary energy source, may be exempted by the Commission under such rules from the Public Utility Holding Company Act \[15 U.S.C. 79 et seq.\] and from State laws and regulations referred to in such paragraph (1).
 
@@ -50,7 +50,7 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 (1) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) of this section or revised under such subsection, each State regulatory authority shall, after notice and opportunity for public hearing, implement such rule (or revised rule) for each electric utility for which it has ratemaking authority.
 
-(2) Beginning on or before the date one year after any rule is prescribed by the Commissionunder subsection (a) of this section or revised under such subsection, each nonregulated electric utility shall, after notice and opportunity for public hearing, implement such rule (or revised rule).
+(2) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) of this section or revised under such subsection, each nonregulated electric utility shall, after notice and opportunity for public hearing, implement such rule (or revised rule).
 
 #### (g) Judicial review and enforcement
 
@@ -92,7 +92,7 @@ Except for a hydroelectric project located at a Government dam (as defined in se
 
 #### (3) Fish and wildlife terms and conditions
 
-&emsp;The project meets the terms and conditions set by fish and wildlife agencies under thesame procedures as provided for under section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\].
+&emsp;The project meets the terms and conditions set by fish and wildlife agencies under the same procedures as provided for under section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\].
 
 #### (k) “New dam or diversion” defined
 
@@ -130,7 +130,7 @@ Section was enacted as part of the Public Utility Regulatory Policies Act of 197
 
 Subsec. (e)(1). Pub. L. 96–294, §643(b)(2), inserted provisions relating to applicability to geothermal small power production facilities.
 
-Subsec. (e)(2). Pub. L. 96–294, §643(b)(3), inserted provisions respecting a qualifying small power production facility using geothermal energy as the primary energy source.
+Subsec. (e)(2). Pub. L. 96–294, §643(b)(3), inserted provisions respecting a qualifying small power productionfacility using geothermal energy as the primary energy source.
 
 #### Effective Date of 1986 Amendment
 
@@ -193,10 +193,6 @@ Section 8(e) of Pub. L. 99–495 provided that: “Notwithstanding the amendment
 &emsp;“(2) a project described in paragraphs (2), (3), or (4) of subsection (b) \[set out as a note above\].
 
 > For purposes of this subsection, the term ‘moratorium period’ means the period beginning on the date of the enactment of this Act and ending at the expiration of the first full session of Congress after the session during which the report under subsection (d) \[set out as a note above\] has been submitted to the Congress.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 136; title 42 section 6807.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

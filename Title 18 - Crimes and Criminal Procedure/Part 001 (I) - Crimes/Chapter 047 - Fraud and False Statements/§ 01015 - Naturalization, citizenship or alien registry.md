@@ -36,7 +36,3 @@ Such changes of arrangement and phraseology were made as were appropriate and ne
 
 Amendment by Pub. L. 106–395 effective as if included in the enactment of section 215 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, div. C of Pub. L. 104–208, and applicable to an alien prosecuted on or after Sept. 30, 1996, except in the case of an alien whose criminal proceeding (including judicial review thereof) has been finally concluded before Oct. 30, 2000, see section 201(d)(3) of Pub. L. 106–395, set out as a note under section 611 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 15544.
-

@@ -2,7 +2,7 @@
 
 #### (a) Contracts
 
-(1) During the period following January 7, 1983, but not later than January 1, 1990, the Secretary is authorized to enter into contracts with persons who generate or own spent nuclear fuel resulting from civilian nuclear activities for the storage of such spent nuclear fuel in any storage capacity provided under this part: <i>Provided, however</i>, That the Secretary shall not enter into contracts for spent nuclear fuel in amounts in excess of the available storage capacity specified in section 10155(a) of this title. Those contracts shall provide that the Federal Government will (1) take title at the civilian nuclear power reactor site, to such amounts of spent nuclear fuel from the civilian nuclear power reactor as the Commission determines cannot be stored onsite, (2) transport the spent nuclear fuel to a federally owned and operated interim away-from-reactor storage facility, and (3) store such fuel in the facility pending further processing, storage, or disposal. Each such contract shall (A) provide for payment to the Secretary of fees determined in accordance with the provisions of this section; and (B) specify the amount of storage capacity to be provided for the person involved.
+(1) During the period following January 7, 1983, but not later than January 1, 1990, the Secretary is authorized to enter into contracts with persons who generate or own spent nuclear fuel resulting from civilian nuclear activities for the storage of such spent nuclear fuel in any storage capacity provided under this part: <i>Provided, however</i>, That the Secretary shall not enter into contracts for spent nuclear fuel in amounts in excess of the available storage capacity specified in section 10155(a) of this title. Those contracts shall provide that the Federal Government will (1) take title at the civilian nuclear power reactor site, to such amounts of spent nuclear fuel from the civilian nuclear power reactor as the Commission determines cannot be stored onsite, (2) transport the spent nuclear fuel to a federally owned and operated interim away-from-reactor storage facility, and (3) store such fuel in the facility pending further processing, storage, or disposal. Each such contract shall (A) provide for payment to the Secretary of fees determined in accordance with the provisions of this section; and (B) specify the amountof storage capacity to be provided for the person involved.
 
 (2) The Secretary shall undertake a study and, not later than 180 days after January 7, 1983, submit to the Congress a report, establishing payment charges that shall be calculated on an annual basis, commencing on or before January 1, 1984. Such payment charges and the calculation thereof shall be published in the Federal Register, and shall become effective not less than 30 days after publication. Each payment charge published in the Federal Register under this paragraph shall remain effective for a period of 12 months from the effective date as the charge for the cost of the interim storage of any spent nuclear fuel. The report of the Secretary shall specify the method and manner of collection (including the rates and manner of payment) and any legislative recommendations determined by the Secretary to be appropriate.
 
@@ -48,7 +48,7 @@ The Secretary may make expenditures from the Storage Fund, subject to subsection
 
 &emsp;(A) allocated in a fair and equitable manner with a priority to those States or units of local government suffering the most severe impacts; and
 
-&emsp;(B) utilized by States or units of local governments only for (i) planning, (ii) construction and maintenance of public services, (iii)provision of public services related to the providing of such interim storage authorized under this subchapter, and (iv) compensation for loss of taxable property equivalent to that if the storage had been provided under private ownership.
+&emsp;(B) utilized by States or units of local governments only for (i) planning, (ii) construction and maintenance of public services, (iii) provision of public services related to the providing of such interim storage authorized under this subchapter, and (iv) compensation for loss of taxable property equivalent to that if the storage had been provided under private ownership.
 
 (3) Such payments shall be subject to such terms and conditions as the Secretary determines necessary to ensure that the purposes of this subsection shall be achieved. The Secretary shall issue such regulations as may be necessary to carry out the provisions of this subsection.
 
@@ -85,10 +85,6 @@ Such Act, referred to in subsec. (f)(5), probably means chapter 31 of Title 31, 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (f)(1) of this section relating to annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 1st item on page 140 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10101, 10155, 10157, 10198 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “jurisdictional”.</i>
 

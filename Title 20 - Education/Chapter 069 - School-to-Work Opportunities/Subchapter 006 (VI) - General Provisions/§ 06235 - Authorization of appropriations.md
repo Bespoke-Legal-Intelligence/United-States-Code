@@ -34,7 +34,3 @@ The Job Training Partnership Act, referred to in subsec. (b)(3), is Pub. L. 97�
 
 1998—Subsec. (b)(2). Pub. L. 105–362, which directed substitution of “(as defined in section 2026(3) of title 25)” for “(as defined in section 2019(3) of title 25)” in section “605(b)(2) of the School-to-Work Opportunity Act of 1994”, was executed by making the substitution in subsec. (b)(2) of this section, which is section 605 of the School-to-Work Opportunities Act of 1994, to reflect the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6122, 6142, 6144, 6161, 6172, 6173, 6196 of this title.
-

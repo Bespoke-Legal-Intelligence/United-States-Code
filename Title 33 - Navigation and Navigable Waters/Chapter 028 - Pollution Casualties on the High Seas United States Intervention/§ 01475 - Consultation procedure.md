@@ -10,7 +10,3 @@ Before taking any measure under section 1474 of this title, the Secretary shall�
 
 (Pub. L. 93–248, §6, Feb. 5, 1974, 88 Stat. 9.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1476 of this title.
-

@@ -90,7 +90,3 @@ Each recipient of financial assistance under subsection (d) of this section shal
 
 (Pub. L. 101–425, §5, Oct. 15, 1990, 104 Stat. 916.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5305, 5306 of this title.
-

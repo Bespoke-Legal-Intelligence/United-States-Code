@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—DAIRY PROMOTION PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 4533, 4535, 7401 of this title.
-
 
 ---
 

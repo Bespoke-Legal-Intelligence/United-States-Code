@@ -1,6 +1,6 @@
 ### §6101. Basic 40-hour workweek; work schedules; regulations
 
-(a)(1) For the purpose of this subsection, “employee” includes an employee of the government of the District of Columbia and an employee whose pay is fixed and adjusted from time to time under section 5343 or 5349 of this title, or bya wage board or similar administrative authority serving the same purpose, but does not include an employee or individual excluded from the definition of employee in section 5541(2) of this title, except as specifically provided under this paragraph.
+(a)(1) For the purpose of this subsection, “employee” includes an employee of the government of the District of Columbia and an employee whose pay is fixed and adjusted from time to time under section 5343 or 5349 of this title, or by a wage board or similar administrative authority serving the same purpose, but does not include an employee or individual excluded from the definition of employee in section 5541(2) of this title, except as specifically provided under this paragraph.
 
 (2) The head of each Executive agency, military department, and of the government of the District of Columbia shall—
 
@@ -104,7 +104,7 @@ Oct. 29, 1965, Pub. L. 89–301, §16, 79 Stat. 1123.
 
 \[None.\]
 
-In subsection (a)(4), the words “without regard to the requirements of such paragraph” are omitted as redundant in view of the words “notwithstanding paragraph (3) of this subsection” at the beginning thereof. The words “an Executive agency, a military department”are coextensive with and substituted for “each such department, establishment, or agency” and to conform to subsections (a)(2) and (a)(3). The words “officers” and “officer” are omitted as included in “employees” and “employee”. The word “pay” is substituted for “compensation” to conform to the style of title 5, United States Code.
+In subsection (a)(4), the words “without regard to the requirements of such paragraph” are omitted as redundant in view of the words “notwithstanding paragraph (3) of this subsection” at the beginning thereof. The words “an Executive agency, a military department” are coextensive with and substituted for “each such department, establishment, or agency” and to conform to subsections (a)(2) and (a)(3). The words “officers” and “officer” are omitted as included in “employees” and “employee”. The word “pay” is substituted for “compensation” to conform to the style of title 5, United States Code.
 
 Subsection (b)(1) is added on authority of former sections 901 and 902 of title 5, which are now codified in 5 U.S.C. 5541.
 
@@ -172,7 +172,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 “(2) Each agency may conduct one or more experiments under titles I and II of this Act. Such experiments shall be subject to such regulations as the Commission may prescribe under section 305 of this Act.
 
-“(b) The Commission shall, not later than 90 days after the effective date of this section, establish a master plan which shall contain guidelines and criteria by which the Commission will study and evaluate experiments conducted under titles I and II of this Act. Such master plan shall provide for the study and evaluation of experiments within a sample of organizations of different size, geographic location, and functions and activities, sufficient to insure adequate evaluation of the impact of varied work schedules on—
+“(b) The Commission shall, not later than 90 days after the effective date of this section, establish a master plan which shall contain guidelines and criteria bywhich the Commission will study and evaluate experiments conducted under titles I and II of this Act. Such master plan shall provide for the study and evaluation of experiments within a sample of organizations of different size, geographic location, and functions and activities, sufficient to insure adequate evaluation of the impact of varied work schedules on—
 
 &emsp;“(1) the efficiency of Government operations;
 
@@ -186,7 +186,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 &emsp;“(6) individuals and families generally.
 
-“(c) The Commission shall provide educational material, and technical aids and assistance, for use by anagency before and during the period such agency is conducting experiments under this Act \[enacting section 5550a of this title and this note\].
+“(c) The Commission shall provide educational material, and technical aids and assistance, for use by an agency before and during the period such agency is conducting experiments under this Act \[enacting section 5550a of this title and this note\].
 
 “(d) If the head of an agency determines that the implementation of an experimental program referred to in subsection (a) would substantially disrupt the agency in carrying out its functions, such agency head shall request the Commission to exempt such agency from the requirements of any experiment conducted by the Commission under subsection (a). Such request shall be accompanied by a report detailing the reasons for such determination. The Commission shall exempt an agency from such requirements only if it finds that including the agency within the experiment would not be in the best interest of the public, the Government, or the employees. The filing of such a request with the Commission shall exclude the agency from the experiment until the Commission has made its determination or until 180 days after the date the request is filed, whichever first occurs.
 
@@ -258,7 +258,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 #### “time-recording devices
 
-“Sec. 105. Notwithstanding section 6106 of title 5, United States Code, the Commission or an agency mayuse recording clocks as part of its experiments under this title.
+“Sec. 105. Notwithstanding section 6106 of title 5, United States Code, the Commission or an agency may use recording clocks as part of its experiments under this title.
 
 #### “credit hours; accumulation and compensation
 
@@ -328,7 +328,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 #### “application of experiments in the case of negotiated contracts
 
-“Sec. 302. (a) Employees within a unit with respect to which an organization of Government employees has been accorded exclusive recognition shall not be included within any experiment under title I or II of this Act except to the extent expressly provided under a written agreement between the agency and such organization.
+“Sec. 302. (a) Employees within a unit with respect to which an organization of Government employees hasbeen accorded exclusive recognition shall not be included within any experiment under title I or II of this Act except to the extent expressly provided under a written agreement between the agency and such organization.
 
 “(b) The Commission or an agency may not participate in a flexible or compressed schedule experiment under a negotiated contract which contains premium pay provisions which are inconsistent with the provisions of section 103 or 203 of this Act, as applicable.
 
@@ -391,8 +391,4 @@ Pub. L. 97–221, §4, July 23, 1982, 96 Stat. 234, provided that:
 > the agency shall, notwithstanding any provision of a negotiated agreement, immediately terminate such schedule and such termination shall not be subject to negotiation or to administrative review (except as the President may provide) or to judicial review.
 
 “(2) If a schedule established pursuant to a negotiated agreement is terminated under paragraph (1), either the agency or the exclusive representative concerned may, by written notice to the other party within 90 days after the date of such termination, initiate collective bargaining pertaining to the establishment of another flexible or compressed work schedule under subchapter II of chapter 61 of title 5, United States Code, which would be effective for the unexpired portion of the term of the negotiated agreement.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5504, 6122, 6127 of this title; title 2 sections 1844, 1845; title 10 sections 4338, 6952, 9338; title 32 section 709.
 

@@ -68,7 +68,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 &emsp;(A) if the employee is survived only by a widow or widower, such unpaid amount of the award shall be payable to such widow or widower,
 
-&emsp;(B) if the employee is survived only by a child or children, such unpaid amount of theaward shall be paid to such child or children in equal shares,
+&emsp;(B) if the employee is survived only by a child or children, such unpaid amount of the award shall be paid to such child or children in equal shares,
 
 &emsp;(C) if the employee is survived by a widow or widower and a child or children, such unpaid amount of the award shall be payable to such survivors in equal shares,
 
@@ -92,7 +92,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 &emsp;(3) Any request, filed after September 28, 1984, for apportionment of liability to the special fund established under section 944 of this title for the payment of compensation benefits, and a statement of the grounds therefore, shall be presented to the deputy commissioner prior to the consideration of the claim by the deputy commissioner. Failure to present such request prior to such consideration shall be an absolute defense to the special fund's liability for the payment of any benefits in connection with such claim, unless the employer could not have reasonably anticipated the liability of the special fund prior to the issuance of a compensation order.
 
-(g) Maintenance for employees undergoing vocational rehabilitation: An employee who as a result of injury is or may be expected to be totally or partially incapacitated for a remunerative occupation and who, under the direction of the Secretary as provided by section 939(c) of this title, is being rendered fit to engage in a remunerative occupation, shall receive additional compensation necessary for his maintenance, but such additional compensation shall not exceed $25 a week. The expense shall be paid out of the special fund established in section 944 of this title.
+(g) Maintenance for employees undergoing vocational rehabilitation: An employee who as a result of injury is or may be expected to be totally or partially incapacitated for a remunerative occupation and who, under the direction of the Secretary as provided by section 939(c) of this title, is being rendered fit to engage in a remunerative occupation, shall receive additionalcompensation necessary for his maintenance, but such additional compensation shall not exceed $25 a week. The expense shall be paid out of the special fund established in section 944 of this title.
 
 (h) The wage-earning capacity of an injured employee in cases of partial disability under subsection (c)(21) of this section or under subsection (e) of this section shall be determined by his actual earnings if such actual earnings fairly and reasonably represent his wage-earning capacity: <i>Provided, however</i>, That if the employee has no actual earnings or his actual earnings do not fairly and reasonably represent his wage-earning capacity, the deputy commissioner may, in the interest of justice, fix such wage-earning capacity as shall be reasonable, having due regard to the nature of his injury, the degree of physical impairment, his usual employment, and any other factors or circumstances in the case which may affect his capacity to earn wages in his disabled condition, including the effect of disability as it may naturally extend into the future.
 
@@ -150,7 +150,7 @@ Subsec. (j). Pub. L. 98–426, §8(h), added subsec. (j).
 
 1972—Subsec. (c)(20). Pub. L. 92–576, §7, included compensation for serious disfigurement of the neck and other normally exposed areas likely to handicap the employee in securing or maintaining employment.
 
-Subsec. (d). Pub. L. 92–576, §5(c), in revising provisions substituted par. (1), subpars. (A) to (D) and pars.\(2) to (4) for former provisions having an introductory par. and pars. (1) to (5), making the following changes:
+Subsec. (d). Pub. L. 92–576, §5(c), in revising provisions substituted par. (1), subpars. (A) to (D) and pars. (2) to (4) for former provisions having an introductory par. and pars. (1) to (5), making the following changes:
 
 &emsp;Par. (1) incorporated former introductory par. providing for payments to survivors rather than for payments “for the benefit of the persons after”; subpar. (A) incorporated former par. (1) providing for a widower rather than dependent husband;
 
@@ -225,8 +225,4 @@ Amendment by act July 26, 1956, applicable only with respect to injuries and dea
 #### Effective Date of 1948 Amendment
 
 Amendment by act June 24, 1948, applicable to death or injuries occurring after June 24, 1948, see section 6 of act June 24, 1948, set out as a note under section 906 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 904, 922, 944 of this title; title 30 section 932; title 42 sections 1652, 1702.
 

@@ -42,3 +42,7 @@ Commission Defined.—For purposes of this section, the term “Commission” me
 
 (Added Pub. L. 108–44, §2(a), July 3, 2003, 117 Stat. 842.)
 
+#### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+

@@ -1,9 +1,5 @@
 ### SUBCHAPTER XII–C—RURAL DRUG ENFORCEMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3782, 3783, 3793 of this title.
-
 
 ---
 

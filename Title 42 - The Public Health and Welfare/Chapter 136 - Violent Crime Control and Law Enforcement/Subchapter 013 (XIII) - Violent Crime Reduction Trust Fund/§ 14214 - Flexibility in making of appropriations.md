@@ -192,7 +192,7 @@ Section 31901, referred to in subsec. (d), is section 31901 of Pub. L. 103–322
 
 Section 32001, referred to in subsec. (d), is section 32001 of Pub. L. 103–322, 108 Stat. 1896, which amended section 3621 of Title 18, Crimes and Criminal Procedure.
 
-Section 32101, referred to in subsec. (d), is section 32101 of Pub. L. 103–322, 108 Stat. 1898, which enacted subchapter XII–G (§3796ff et seq.) of chapter 46 of this title and amended sections 3791, 3793, and 3797 of this title.
+Section 32101, referred to in subsec. (d), is section 32101 of Pub. L. 103–322, 108 Stat. 1898, which enactedsubchapter XII–G (§3796ff et seq.) of chapter 46 of this title and amended sections 3791, 3793, and 3797 of this title.
 
 Section 40114, referred to in subsec. (d), is section 40114 of Pub. L. 103–322, 108 Stat. 1910, which is not classified to the Code.
 

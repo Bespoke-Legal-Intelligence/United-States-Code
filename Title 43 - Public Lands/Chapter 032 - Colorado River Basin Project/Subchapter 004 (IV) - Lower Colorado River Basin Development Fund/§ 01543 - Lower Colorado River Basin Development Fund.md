@@ -30,19 +30,135 @@ All moneys collected and credited to the development fund pursuant to subsection
 
 #### (e) Appropriation by Congress required for construction of works
 
-Revenues credited to the development fund shall not be available for construction of the works comprised within any unit of the project herein or hereafter authorized except upon appropriation by the Congress.
+Except as provided in subsection (f) of this section, revenues credited to the development fund shall not be available for construction of the works comprised within any unit of the project herein or hereafter authorized except upon appropriation by the Congress.
 
-#### (f) Return of costs and interest
+#### (f) Additional uses of revenue funds
 
-Moneys credited to the development fund pursuant to subsection (b) and clauses (1) and (3) of subsection (c) of this section and the portion of revenues derived from the sale of power and energy for use in Arizona pursuant to clause (2) of subsection (c) of this section in excess of the amount necessary to meet the requirements of clauses (1) and (2) of subsection (d) of this section shall be paid annually to the general fund of the Treasury to return—
+#### (1) Crediting against Central Arizona Water Conservation District payments
 
-&emsp;(1) the costs of each unit of the projects or separable feature thereof authorized pursuantto subchapter III of this chapter which are allocated to irrigation, commercial power, or municipal and industrial water supply, pursuant to this chapter within a period not exceeding fifty years from the date of completion of each such unit or separable feature, exclusive of any development period authorized by law: <i>Provided</i>, That return of the cost, if any, required by section 616aa–1 of this title shall not be made until after the payout period of the Central Arizona Project as authorized herein; and
+&emsp;Funds credited to the development fund pursuant to subsection (b) of this section and paragraphs (1) and (3) of subsection (c) of this section, the portion of revenues derived from the sale of power and energy for use in the State of Arizona pursuant to subsection (c)(2) of this section in excess of the amount necessary to meet the requirements of paragraphs (1) and (2) of subsection (d) of this section, and any annual payment by the Central Arizona Water Conservation District to effect repayment of reimbursable Central Arizona Project construction costs, shall be credited annually against the annual payment owed by the Central Arizona Water Conservation District to the United States for the Central Arizona Project.
 
-&emsp;(2) interest (including interest during construction) on the unamortized balance of the investment in the commercial power and municipal and industrial water supply features of the project at a rate determined by the Secretary of the Treasury in accordance with the provisions of subsection (h) of this section, and interest due shall be a first charge.
+#### (2) Further use of revenue funds credited against payments of Central Arizona Water Conservation District
+
+&emsp;After being credited in accordance with paragraph (1), the funds and portion of revenues described in that paragraph shall be available annually, without further appropriation, in order of priority—
+
+&emsp;&emsp;(A) to pay annually the fixed operation, maintenance, and replacement charges associated with the delivery of Central Arizona Project water held under long-term contracts for use by Arizona Indian tribes (as defined in section 2 of the Arizona Water Settlements Act) in accordance with clause 8(d)(i)(1)(i) of the Repayment Stipulation (as defined in section 2 of the Arizona Water Settlements Act);
+
+&emsp;&emsp;(B) to make deposits, totaling $53,000,000 in the aggregate, in the Gila River Indian Community Water OM\&R Trust Fund established by section 208 of the Arizona Water Settlements Act;
+
+&emsp;&emsp;(C) to pay $147,000,000 for the rehabilitation of the San Carlos Irrigation Project, of which not more than $25,000,000 shall be available annually consistent with attachment 6.5.1 of exhibit 20.1 of the Gila River agreement, except that the total amount of $147,000,000 shall be increased or decreased, as appropriate, based on ordinary fluctuations since January 1, 2000, in construction cost indices applicable to the types of construction involved in the rehabilitation;
+
+&emsp;&emsp;(D) in addition to amounts made available for the purpose through annual appropriations, as reasonably allocated by the Secretary without regard to any trust obligation on the part of the Secretary to allocate the funding under any particular priority and without regard to priority (except that payments required by clause (i) shall be made first)—
+
+&emsp;&emsp;&emsp;(i) to make deposits totaling $66,000,000, adjusted to reflect changes since January 1, 2004, in the construction cost indices applicable to the types of construction involved in construction of the New Mexico Unit, into the New Mexico Unit Fund as provided by section 212(i) of the Arizona Water Settlements Act in 10 equal annual payments beginning in 2012;
+
+&emsp;&emsp;&emsp;(ii) upon satisfaction of the conditions set forth in subsections (j) and (k) of section 212, to pay certain of the costs associated with construction of the New Mexico Unit, in addition to any amounts that maybe expended from the New Mexico Unit Fund, in a minimum amount of $34,000,000 and a maximum amount of $62,000,000, as provided in section 212 of the Arizona Water Settlements Act, as adjusted to reflect changes since January 1, 2004, in the construction cost indices applicable to the types of construction involved in construction of the New Mexico Unit;
+
+&emsp;&emsp;&emsp;(iii) to pay the costs associated with the construction of distribution systems required to implement the provisions of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the contract entered into between the United States and the Gila River Indian Community, numbered 6–07–03–W0345, and dated July 20, 1998;
+
+&emsp;&emsp;&emsp;&emsp;(II) section 3707(a)(1) of the San Carlos Apache Tribe Water Rights Settlement Act of 1992 (106 Stat. 4747); and
+
+&emsp;&emsp;&emsp;&emsp;(III) section 304 of the Southern Arizona Water Rights Settlement Amendments Act of 2004;
+
+&emsp;&emsp;&emsp;(iv) to pay $52,396,000 for the rehabilitation of the San Carlos Irrigation Project as provided in section 203(d)(4) of the Arizona Water Settlements Act, of which not more than $9,000,000 shall be available annually, except that the total amount of $52,396,000 shall be increased or decreased, as appropriate, based on ordinary fluctuations since January 1, 2000, in construction cost indices applicable to the types of construction involved in the rehabilitation;
+
+&emsp;&emsp;&emsp;(v) to pay other costs specifically identified under—
+
+&emsp;&emsp;&emsp;&emsp;(I) sections 213(g)(1) and 214 of the Arizona Water Settlements Act; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the Southern Arizona Water Rights Settlement Amendments Act of 2004;
+
+&emsp;&emsp;&emsp;(vi) to pay a total of not more than $250,000,000 to the credit of the Future Indian Water Settlement Subaccount of the Lower Colorado Basin Development Fund, for use for Indian water rights settlements in Arizona approved by Congress after the date of enactment of this Act, subject to the requirement that, notwithstanding any other provision of this chapter, any funds credited to the Future Indian Water Settlement Subaccount that are not used in furtherance of a congressionally approved Indian water rights settlement in Arizona by December 31, 2030, shall be returned to the main Lower Colorado Basin Development Fund for expenditure on authorized uses pursuant to this chapter, provided that any interest earned on funds held in the Future Indian Water Settlement Subaccount shall remain in such subaccount until disbursed or returned in accordance with this section;
+
+&emsp;&emsp;&emsp;(vii) to pay costs associated with the installation of gages on the Gila River and its tributaries to measure the water level of the Gila River and its tributaries for purposes of the New Mexico Consumptive Use and Forbearance Agreement in an amount not to exceed $500,000; and
+
+&emsp;&emsp;&emsp;(viii) to pay the Secretary's costs of implementing the Central Arizona Project Settlement Act of 2004;
+
+&emsp;&emsp;(E) in addition to amounts made available for the purpose through annual appropriations—
+
+&emsp;&emsp;&emsp;(i) to pay the costs associated with the construction of on-reservation Central Arizona Project distribution systems for the Yavapai Apache (Camp Verde), Tohono O'odham Nation (Sif Oidak District), Pascua Yaqui, and Tonto Apache tribes; and
+
+&emsp;&emsp;&emsp;(ii) to make payments to those tribes in accordance with paragraph 8(d)(i)(1)(iv) of the repayment stipulation (as defined in section 2 of the Arizona Water Settlements Act), except that if a water rights settlement Act of Congress authorizes such construction, payments to those tribes shall be made from funds in the Future Indian Water Settlement Subaccount; and
+
+&emsp;&emsp;(F) if any amounts remain in the development fund at the end of a fiscal year, to be carried over to the following fiscal year for use for the purposes described in subparagraphs (A) through (E).
+
+#### (3) Revenue funds in excess of revenue funds credited against Central Arizona Water Conservation District payments
+
+&emsp;The funds and portion of revenues described in paragraph (1) that are in excess of amounts credited under paragraph (1) shall be available, on an annual basis, without further appropriation, in order of priority—
+
+&emsp;&emsp;(A) to pay annually the fixed operation, maintenance and replacement charges associated with the delivery of Central Arizona Project water under long-term contracts held by Arizona Indian tribes (as defined in section 2 of the Arizona Water Settlements Act);
+
+&emsp;&emsp;(B) to make the final outstanding annual payment for the costs of each unit of the projects authorized under subchapter III of this chapter that are to be repaid by the Central Arizona Water Conservation District;
+
+&emsp;&emsp;(C) to reimburse the general fund of the Treasury for fixed operation, maintenance, and replacement charges previously paid under paragraph (2)(A);
+
+&emsp;&emsp;(D) to reimburse the general fund of the Treasury for costs previously paid under subparagraphs (B) through (E) of paragraph (2);
+
+&emsp;&emsp;(E) to pay to the general fund of the Treasury the annual installment on any debt relating to the Central Arizona Project under section 485h(d) of this title, made nonreimbursable under section 106(b) of the Arizona Water Settlements Act;
+
+&emsp;&emsp;(F) to pay to the general fund of the Treasury the difference between—
+
+&emsp;&emsp;&emsp;(i) the costs of each unit of the projects authorized under subchapter III of this chapter that are repayable by the Central Arizona Water Conservation District; and
+
+&emsp;&emsp;&emsp;(ii) any costs allocated to reimbursable functions under any Central Arizona Project cost allocation undertaken by the United States; and
+
+&emsp;&emsp;(G) for deposit in the general fund of the Treasury.
+
+#### (4) Investment of amounts
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary of the Treasury shall invest such portion of the development fund as is not, in the judgment of the Secretary of the Interior, required to meet current needs of the development fund.
+
+#### (B) Permitted investments
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding any other provision of law, including any provision requiring the consent or concurrence of any party, the investments referred to in subparagraph (A) shall include 1 or more of the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) Any investments referred to in the Act of June 24, 1938 (25 U.S.C. 162a).
+
+&emsp;&emsp;&emsp;&emsp;(II) Investments in obligations of government corporations and government-sponsored entities whose charter statutes provide that their obligations are lawful investments for federally managed funds.
+
+&emsp;&emsp;&emsp;&emsp;(III) The obligations referred to in section 401 of title 42.
+
+#### (ii) Lawful investments
+
+&emsp;&emsp;&emsp;For purposes of clause (i), obligations of government corporations and government-sponsored entities whose charter statutes provide that their obligations are lawful investments for federally managed funds includes any of the following securities or securities with comparable language concerning the investment of federally managed funds:
+
+&emsp;&emsp;&emsp;&emsp;(I) Obligations of the United States Postal Service as authorized by section 2005 of title 39.
+
+&emsp;&emsp;&emsp;&emsp;(II) Bonds and other obligations of the Tennessee Valley Authority as authorized by section 831n–4 of title 16.
+
+&emsp;&emsp;&emsp;&emsp;(III) Mortgages, obligations, or other securities of the Federal Home Loan Mortgage Corporation as authorized by section 1452 of title 12.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Bonds, notes, or debentures of the Commodity Credit Corporation as authorized by section 4 of the Act of March 4, 1939 <sup>1</sup> (15 U.S.C. 713a–4).
+
+#### (C) Acquisition of obligations
+
+&emsp;&emsp;For the purpose of investments under subparagraph (A), obligations may be acquired—
+
+&emsp;&emsp;&emsp;(i) on original issue at the issue price; or
+
+&emsp;&emsp;&emsp;(ii) by purchase of outstanding obligations at the market price.
+
+#### (D) Sale of obligations
+
+&emsp;&emsp;Any obligation acquired by the development fund may be sold by the Secretary of the Treasury at the market price.
+
+#### (E) Credits to fund
+
+&emsp;&emsp;The interest on, and the proceeds from the sale or redemption of, any obligations held in the development fund shall be credited to and form a part of the development fund.
+
+#### (5) Amounts not available for certain Federal obligations
+
+&emsp;None of the provisions of this section, including paragraphs (2)(A) and (3)(A), shall be construed to make any of the funds referred to in this section available for the fulfillment of any Federal obligation relating to the payment of OM\&R charges if such obligation is undertaken pursuant to Public Law 95–328, Public Law 98–530, or any settlement agreement with the United States (or amendments thereto) approved by or pursuant to either of those acts.
 
 #### (g) Repayment of costs
 
-All revenues credited to the development fund in accordance with clause (c)(2) of this section (excluding only those revenues derived from the sale of power and energy for use in Arizona during the payout period of the Central Arizona Project as authorized herein) and such other revenues as remain in the development fund after making the payments required by subsections (d) and (f) of this section shall be available (1) to make payments, if any, as required by sections 616aa–1 and 620d–1 of this title, (2) for repayment to the general fund of the Treasury the costs of each salinity control unit or separable feature thereof <sup>1</sup> the costs of measures to replace incidental fish and wildlife values foregone, and the costs of on-farm measures payable from the Lower Colorado River Basin Development Fund in accordance with sections 1595(a)(2), 1595(a)(3), and 1595(b) of this title and (3) upon appropriation by the Congress, to assist in the repayment of reimbursable costs incurred in connection with units hereafter constructed to provide for the augmentation of the water supplies of the Colorado River for use below Lee Ferry as may be authorized as a result of the investigations and recommendations made pursuant to sections 1511 and 1513(a) of this title.
+All revenues credited to the development fund in accordance with subsection (c)(2) of this section (excluding only those revenues derived from the sale of power and energy for use in Arizona during the payout period of the Central Arizona Project as authorized herein) and such other revenues as remain in the development fund after making the payments required by subsections (d) and (f) of this section shall be available (1) to make payments, if any, as required by sections 616aa–1 and 620d–1 of this title, (2) for repayment to the general fund of the Treasury the costs of each salinity control unit or separable feature thereof <sup>2</sup> the costs of measures to replace incidental fish and wildlife values foregone, and the costs of on-farm measures payable from the Lower Colorado River Basin Development Fund in accordance with sections 1595(a)(2), 1595(a)(3), and 1595(b) of this title and (3) upon appropriation by the Congress, to assist in the repayment of reimbursable costs incurred in connection with units hereafter constructed to provide for the augmentation of the water supplies of the Colorado River for use below Lee Ferry as may be authorized as a result of the investigations and recommendations made pursuant to sections 1511 and 1513(a) of this title.
 
 #### (h) Interest rate
 
@@ -52,9 +168,37 @@ The interest rate applicable to those portions of the reimbursable costs of each
 
 Business-type budgets shall be submitted to the Congress annually for all operations financed by the development fund.
 
-(Pub. L. 90–537, title IV, §403, Sept. 30, 1968, 82 Stat. 894; Pub. L. 93–320, title II, §205(b)(2), June 24, 1974, 88 Stat. 273; Pub. L. 98–381, title I, §102, Aug. 17, 1984, 98 Stat. 1333; Pub. L. 98–569, §4(f)(2), Oct. 30, 1984, 98 Stat. 2939.)
+(Pub. L. 90–537, title IV, §403, Sept. 30, 1968, 82 Stat. 894; Pub. L. 93–320, title II, §205(b)(2), June 24, 1974, 88 Stat. 273; Pub. L. 98–381, title I, §102, Aug. 17, 1984, 98 Stat. 1333; Pub. L. 98–569, §4(f)(2), Oct. 30, 1984, 98 Stat. 2939; Pub. L. 108–451, title I, §107(a), (c), Dec. 10, 2004, 118 Stat. 3493, 3498.)
+
+#### References in Text
+
+Sections 2, 106, 203, 208, 213, and 214 of the Arizona Water Settlements Act, referred to in subsec. (f)(2), (3), are sections 2 and 106 of title I, and sections 203, 208, 213, and 214 of title II, of Pub. L. 108–451, Dec. 10, 2004, 118 Stat. 3479, 3492, 3499, 3521, 3531, 3534, which are not classified to the Code.
+
+Section 212 of the Arizona Water Settlements Act, referred to in subsec. (f)(2)(D)(i), (ii), is section 212 of Pub. L. 108–451, title II, Dec. 10, 2004, 118 Stat. 3527, which is not classified to the Code except for section 212(d), which amended section 1524 of this title.
+
+Section 3707(a)(1) of the San Carlos Apache Tribe Water Rights Settlement Act of 1992, referred to in subsec. (f)(2)(D)(iii)(II), is section 3707(a)(1) of title XXXVII of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4747, which is not classified to the Code.
+
+The Southern Arizona Water Rights Settlement Amendments Act of 2004, referred to in subsec. (f)(2)(D)(iii)(III), (v)(II), is title III of Pub. L. 108–451, Dec. 10, 2004, 118 Stat. 3535, which is not classified to the Code.
+
+The date of enactment of this Act, referred to in subsec. (f)(2)(D)(vi), probably means the date of enactment of Pub. L. 108–451, which enacted a new subsec. (f) of this section and was approved Dec. 10, 2004.
+
+The Central Arizona Project Settlement Act of 2004, referred to in subsec. (f)(2)(D)(viii), is title I of Pub. L. 108–451, Dec. 10, 2004, 118 Stat. 3486. For complete classification of this Act to the Code, see Short Title of 2004 Amendment note set out under section 1501 of this title and Tables.
+
+Act of June 24, 1938, referred to in subsec. (f)(4)(B)(i)(I), is act June 24, 1938, ch. 648, 52 Stat. 1037, as amended, which enacted section 162a of Title 25, Indians, repealed section 162 of Title 25, and enacted provisions set out as a note under section 162a of Title 25. For complete classification of this Act to the Code, see Tables.
+
+Section 4 of the Act of March 4, 1939, referred to in subsec. (f)(4)(B)(ii)(IV), probably should be a reference to section 4 of act March 8, 1938, as amended by act March 4, 1939, which is classified to section 713a–4 of Title 15, Commerce and Trade.
+
+Public Law 95–328, referred to in subsec. (f)(5), is Pub. L. 95–328, July 28, 1978, 92 Stat. 409, which is not classified to the Code.
+
+Public Law 98–530, referred to in subsec. (f)(5), is Pub. L. 98–530, Oct. 19, 1984, 98 Stat. 2698, which is not classified to the Code.
 
 #### Amendments
+
+2004—Subsec. (e). Pub. L. 108–451, §107(c)(2), substituted “Except as provided in subsection (f) of this section, revenues” for “Revenues”.
+
+Subsec. (f). Pub. L. 108–451, §107(a), inserted heading and text and struck out former text relating to return of costs and interest.
+
+Subsec. (g). Pub. L. 108–451, §107(c)(1), substituted “subsection (c)(2)” for “clause (c)(2)”.
 
 1984—Subsec. (b). Pub. L. 98–381, §102(a), designated existing provisions as par. (1) and added par. (2).
 
@@ -74,9 +218,23 @@ Amendment by Pub. L. 98–569 effective Oct. 30, 1984, see section 6 of Pub. L. 
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (i) of this section is listed as the 7th item on page 114), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
+#### Limitation on Funds
+
+Pub. L. 108–451, title I, §107(b), Dec. 10, 2004, 118 Stat. 3498, provided that: “Amounts made available under the amendment made by subsection (a) \[amending this section\]—
+
+&emsp;“(1) shall be identified and retained in the Lower Colorado River Basin Development Fund established by section 403 of the Colorado River Basin Project Act (43 U.S.C. 1543); and
+
+&emsp;“(2) shall not be expended or withdrawn from that fund until the later of—
+
+&emsp;&emsp;“(A) the date on which the findings described in section 207(c) \[118 Stat. 3519\] are published in the Federal Register; or
+
+&emsp;&emsp;“(B) January 1, 2010.”
+
+\[For repeal of section 107(b) of Pub. L. 108–451, set out above, effective Jan. 1, 2008, and for provision that any action taken by Secretary of the Interior and any contract entered to be void, if Secretary does not publish statement of findings under section 207(c) of Pub. L. 108–451 by Dec. 31, 2007, see section 111(a)(1) of Pub. L. 108–451, set out as a note under section 1501 of this title.\]
+
 #### Payment From Development Fund to General Fund of Treasury
 
-Pub. L. 108–137, title II, §205, Dec. 1, 2003, 117 Stat. 1849, provided that:
+Pub. L. 108–447, div. C, title II, §203, Dec. 8, 2004, 118 Stat. 2948, provided that:
 
 “(a)
 
@@ -84,19 +242,19 @@ In General.—Notwithstanding section 403(f) of the Colorado River Basin Project
 
 “(b)
 
-Payment to General Fund.—If any of the provisions of the stipulation referred to in subsection (a) are not met by the date that is 10 years after the date of enactment of this Act \[Dec. 1, 2003\], payments to the general fund of the Treasury shall resume in accordance with section 403(f) of the Colorado River Basin Project Act (43 U.S.C. 1543(f)).
+Payment to General Fund.—If any of the provisions of the stipulation referred to in subsection (a) are not met by the date that is 10 years after the date of enactment of this Act \[Dec. 8, 2004\], payments to the general fund of the Treasury shall resume in accordance with section 403(f) of the Colorado River Basin Project Act (43 U.S.C. 1543(f)).
 
 “(c)
 
 Authorization.—Amounts in the Lower Colorado River Basin Development Fund that but for this section would be returned to the general fund of the Treasury shall not be expended until further Act of Congress.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–137, title II, §205, Dec. 1, 2003, 117 Stat. 1849.
 
 Pub. L. 107–66, title II, §204, Nov. 12, 2001, 115 Stat. 500.
 
-#### Section Referred to in Other Sections
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-This section is referred to in sections 618, 620d–1, 1521, 1525, 1528, 1595, 1597 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

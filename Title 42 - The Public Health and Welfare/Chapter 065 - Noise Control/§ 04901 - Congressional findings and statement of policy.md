@@ -24,7 +24,3 @@ Section 1 of Pub. L. 92–574 provided that: “This Act \[enacting this chapter
 
 For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4903 of this title.
-

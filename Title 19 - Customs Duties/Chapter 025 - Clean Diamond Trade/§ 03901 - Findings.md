@@ -10,7 +10,7 @@ Congress finds the following:
 
 &emsp;(4) The United Nations Security Council has acted at various times under chapter VII of the Charter of the United Nations to address threats to international peace and security posed by conflicts linked to diamonds. Through these actions, it has prohibited all states from exporting weapons to certain countries affected by such conflicts. It has further required all states to prohibit the direct and indirect import of rough diamonds from Sierra Leone unless the diamonds are controlled under specified certificate of origin regimes and to prohibit absolutely the direct and indirect import of rough diamonds from Liberia.
 
-&emsp;(5) In response, the United States implemented sanctions restricting the importation of rough diamonds from Sierra Leone to thosediamonds accompanied by specified certificates of origin and fully prohibiting the importation of rough diamonds from Liberia. The United States is now taking further action against trade in conflict diamonds.
+&emsp;(5) In response, the United States implemented sanctions restricting the importation of rough diamonds from Sierra Leone to those diamonds accompanied by specified certificates of origin and fully prohibiting the importation of rough diamonds from Liberia. The United States is now taking further action against trade in conflict diamonds.
 
 &emsp;(6) Without effective action to eliminate trade in conflict diamonds, the trade in legitimate diamonds faces the threat of a consumer backlash that could damage the economies of countries not involved in the trade in conflict diamonds and penalize members of the legitimate trade and the people they employ. To prevent that, South Africa and more than 30 other countries are involved in working, through the “Kimberley Process”, toward devising a solution to this problem. As the consumer of a majority of the world's supply of diamonds, the United States has an obligation to help sever the link between diamonds and conflict and press for implementation of an effective solution.
 
@@ -18,7 +18,7 @@ Congress finds the following:
 
 &emsp;(8) Initiatives of the United States seek to resolve the regional conflicts in sub-Saharan Africa which facilitate the trade in conflict diamonds.
 
-&emsp;(9) The Interlaken Declaration on the Kimberley Process Certification Scheme for Rough Diamonds of November 5, 2002, states that Participants will ensure that measures taken to implement the Kimberley Process Certification Scheme for Rough Diamonds will be consistent with international trade rules.
+&emsp;(9) The Interlaken Declaration on the Kimberley Process Certification Scheme for Rough Diamonds of November 5, 2002, states that Participants will ensure that measures taken toimplement the Kimberley Process Certification Scheme for Rough Diamonds will be consistent with international trade rules.
 
 (Pub. L. 108–19, §2, Apr. 25, 2003, 117 Stat. 631.)
 

@@ -14,7 +14,3 @@ The authority of the head of an agency under this section to waive a termination
 
 (Pub. L. 100–690, title V, §5155, Nov. 18, 1988, 102 Stat. 4307.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 12644.
-

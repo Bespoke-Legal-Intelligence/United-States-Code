@@ -52,7 +52,7 @@ The Statistics Center shall collect, report, analyze, and disseminate statistica
 
 &emsp;(4) assisting public and private educational agencies, organizations, and institutions in improving and automating statistical and data collection activities, which may include assisting State educational agencies and local educational agencies with the disaggregation of data and with the development of longitudinal student data systems;
 
-&emsp;(5) determining voluntary standards and guidelines to assist State educational agencies in developing statewide longitudinal data systems that link individual student data consistent with the requirements of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), promote linkages acrossStates, and protect student privacy consistent with section 9573 of this title, to improve student academic achievement and close achievement gaps;
+&emsp;(5) determining voluntary standards and guidelines to assist State educational agencies in developing statewide longitudinal data systems that link individual student data consistent with the requirements of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), promote linkages across States, and protect student privacy consistent with section 9573 of this title, to improve student academic achievement and close achievement gaps;
 
 &emsp;(6) acquiring and disseminating data on educational activities and student achievement (such as the Third International Math and Science Study) in the United States compared with foreign nations;
 
@@ -75,8 +75,4 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(5
 #### Study by National Center for Education Statistics Respecting Condition of Education for Hispanic Americans
 
 Pub. L. 98–211, §24(b), Dec. 8, 1983, 97 Stat. 1419, provided that: “The National Center for Education Statistics shall not terminate the study of the condition of education for Hispanic Americans unless specifically required or authorized to do so by law.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1232j, 7909, 9572, 9607 of this title.
 

@@ -18,7 +18,7 @@ Allowance for Officers Serving in Certain Ranks or Positions.—In addition to o
 
 Allowance for Certain Naval Officers.—In addition to other pay or allowances authorized by law, an officer who is serving in one of the following positions is entitled to the amount set forth for that position, to be paid annually out of naval appropriations for pay, and to be spent in his discretion for the contingencies of his position—
 
-&emsp;(1) Superintendent of the Naval Postgraduate School—$400;
+&emsp;(1) President of the Naval Postgraduate School—$400;
 
 &emsp;(2) Commandant of Midshipmen at the Naval Academy—$800;
 
@@ -32,7 +32,7 @@ Allowance for Certain Naval Officers.—In addition to other pay or allowances a
 
 Allowance for Senior Enlisted Members.—In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, or the Master Chief Petty Officer of the Coast Guard.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 476; Pub. L. 89–718, §49(a)(2), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 102–25, title VII, §702(b)(2), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–149.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 476; Pub. L. 89–718, §49(a)(2), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 102–25, title VII, §702(b)(2), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–149; Pub. L. 108–375, div. A, title V, §557(a)(2), Oct. 28, 2004, 118 Stat. 1915.)
 
 Historical and Revision Notes
 
@@ -58,6 +58,8 @@ In subsection (b), the words “pay or” are inserted to conform to subsection 
 
 #### Amendments
 
+2004—Subsec. (b)(1). Pub. L. 108–375 substituted “President of the Naval Postgraduate School” for “Superintendent of the Naval Postgraduate School”.
+
 2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(b)(1)\], inserted heading.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(b)(2)\], inserted heading.
@@ -77,8 +79,4 @@ Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(c)\], Oct. 30, 2000, 114 St
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1003 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—AVAILABILITY AND USE OF REPLACEMENT FUELS, ALTERNATIVE FUELS, AND ALTERNATIVE FUELED PRIVATE VEHICLES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 13211, 13220 of this title.
-
 
 ---
 

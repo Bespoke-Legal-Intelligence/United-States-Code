@@ -12,7 +12,3 @@ A declaration filed pursuant to section 4201 of this title shall—
 
 (Pub. L. 101–647, title XXV, §2562, Nov. 29, 1990, 104 Stat. 4894.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4204, 4205, 4206 of this title.
-

@@ -8,7 +8,7 @@
 
 #### (2) Eliminating a breach
 
-&emsp;Each non-exempt account within a category shall be reduced by a dollar amount calculatedby multiplying the baseline level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to eliminate a breach within that category; except that the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent and the uniform percent applicable to all other programs under this paragraph shall be increased (if necessary) to a level sufficient to eliminate that breach. If, within a category, the discretionary spending limits for both new budget authority and outlays are breached, the uniform percentage shall be calculated by—
+&emsp;Each non-exempt account within a category shall be reduced by a dollar amount calculated by multiplying the baseline level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to eliminate a breach within that category; except that the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent and the uniform percent applicable to all other programs under this paragraph shall be increased (if necessary) to a level sufficient to eliminate that breach. If, within a category, the discretionary spending limits for both new budget authority and outlays are breached, the uniform percentage shall be calculated by—
 
 &emsp;&emsp;(A) first, calculating the uniform percentage necessary to eliminate the breach in new budget authority, and
 
@@ -114,7 +114,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 #### (C) Continuing disability reviews
 
-&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted thatspecifies an amount for continuing disability reviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration, the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such reviews for that fiscal year and the additional outlays flowing from such amounts, but shall not exceed—
+&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration, the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such reviews for that fiscal year and the additional outlays flowing from such amounts, but shall not exceed—
 
 &emsp;&emsp;&emsp;(I) for fiscal year 1998, $290,000,000 in additional new budget authority and $338,000,000 in additional outlays;
 
@@ -136,7 +136,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 #### (D) Allowance for IMF
 
-&emsp;&emsp;If an appropriation bill or joint resolution is enacted for a fiscal year through 2002 that includes an appropriation with respect to clause (i) or (ii), the adjustment shall be the amount of budget authority in the measure that is the dollar equivalent of the Special Drawing Rights with respect to—
+&emsp;&emsp;If an appropriation bill or joint resolution is enacted for a fiscal year through 2002 thatincludes an appropriation with respect to clause (i) or (ii), the adjustment shall be the amount of budget authority in the measure that is the dollar equivalent of the Special Drawing Rights with respect to—
 
 &emsp;&emsp;&emsp;(i) an increase in the United States quota as part of the International Monetary Fund Eleventh General Review of Quotas (United States Quota); or
 
@@ -178,7 +178,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 &emsp;&emsp;(i) If a bill or resolution making appropriations for any fiscal year appropriates an amount for the conservation spending category that is less than the limit for the conservation spending category as specified in subsection (c) of this section, then the adjustment for new budget authority and outlays for the following fiscal year for that category shall be the amount of new budget authority and outlays that equals the difference between the amount appropriated and the amount of that category specified in subsection (c) of this section.
 
-&emsp;&emsp;(ii) If a bill or resolution making appropriations for any fiscal year appropriates anamount for any conservation spending sub-category that is less than the limit for that conservation spending sub-category as specified in subsections (c)(11)–(c)(16) <sup>3</sup> of this section, then the adjustment for new budget authority for the following fiscal year for that sub-category shall be the amount of new budget authority that equals the difference between the amount appropriated and the amount of that sub-category specified in subsection (c)(11)–(c)(16) <sup>3</sup> of this section.
+&emsp;&emsp;(ii) If a bill or resolution making appropriations for any fiscal year appropriates an amount for any conservation spending sub-category that is less than the limit for that conservation spending sub-category as specified in subsections (c)(11)–(c)(16) <sup>3</sup> of this section, then the adjustment for new budget authority for the following fiscal year for that sub-category shall be the amount of new budget authority that equals the difference between the amount appropriated and the amount of that sub-category specified in subsection (c)(11)–(c)(16) <sup>3</sup> of this section.
 
 &emsp;&emsp;(iii) The total amount provided for any conservation activity within the conservation spending category may not exceed any authorized ceiling for that activity.
 
@@ -212,7 +212,7 @@ As used in this subchapter, the term “discretionary spending limit” means—
 
 > as adjusted in strict conformance with subsection (b) of this section.
 
-(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127.)
+(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160.)
 
 #### Termination of Section
 
@@ -232,19 +232,23 @@ Pub. L. 101–508, §13101(e)(2), redesignated former subsec. (a)(6)(I) of this 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b)(2). Pub. L. 108–88, §10(a), struck out “through 2002” after “succeeding year” in introductory provisions.
+2004—Subsec. (b)(2). Pub. L. 108–310, §10(a), which directed amendment of par. (2) by striking out “through 2002” in introductory provisions, could not be executed because the phrase “through 2002” did not appear subsequent to amendment by Pub. L. 108–88, §10(a). See 2003 Amendment note below.
+
+Subsec. (c). Pub. L. 108–310, §10(b), which directed the amendment of subsec. (c) by redesignating par. (8) as par. (1), substituting “with respect to fiscal year 2005—” for “with respect to fiscal year 2005” and adding subpars. (A) and (B) in par. (1), redesignating remaining provisions of par. (1) as subpar. (C), redesignating pars. (9) to (16) as (2) to (9), respectively, and striking out former pars. (1) to (7), which defined “discretionary spending limit” with respect to fiscal years 2002 to 2006, either could not be executed or could not be executed as intended because of prior amendments by Pub. L. 108–88, §10(b). See 2003 Amendment notes below.
+
+2003—Subsec. (b)(2). Pub. L. 108–88, §10(a), struck out “through 2002” after “succeeding year” in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 108–88, §10(b)(1), redesignated par. (8) as (1), substituted “with respect to fiscal year 2004—” for “with respect to fiscal year 2004”, added subpars. (A) and (B), redesignated remaining provisions of par. (1) as subpar. (C), and struck out former par. (1), which defined “discretionary spending limit” with respect to fiscal year 1997.
 
 Subsec. (c)(2) to (16). Pub. L. 108–88, §10(b), redesignated pars. (9) to (16) as (2) to (9), respectively, and struck out former pars. (2) to (7), which defined “discretionary spending limit” with respect to fiscal years 1998 to 2003.
 
-<b>2002</b>—Subsec. (c)(6)(A). Pub. L. 107–117, §101(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “for the discretionary category: $551,074,000,000 in new budget authority and $560,799,000,000 in outlays;”.
+2002—Subsec. (c)(6)(A). Pub. L. 107–117, §101(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “for the discretionary category: $551,074,000,000 in new budget authority and $560,799,000,000 in outlays;”.
 
 Subsec. (c)(6)(C). Pub. L. 107–117, §101(a)(2), struck out second “and” at end.
 
 Subsec. (c)(6)(D). Pub. L. 107–117, §101(a)(3), substituted “$1,473,000,000” for “$1,232,000,000”.
 
-<b>2000</b>—Subsec. (b)(2)(H). Pub. L. 106–291, §801(b), added subpar. (H).
+2000—Subsec. (b)(2)(H). Pub. L. 106–291, §801(b), added subpar. (H).
 
 Subsec. (c)(5)(A). Pub. L. 106–429 added subpar. (A) and struck out former subpar. (A) which read as follows: “for the discretionary category: $542,032,000,000 in new budget authority and $564,396,000,000 in outlays;”.
 
@@ -254,7 +258,7 @@ Subsec. (c)(7)(C). Pub. L. 106–291, §801(a)(2), added subpar. (C).
 
 Subsec. (c)(8) to (16). Pub. L. 106–291, §801(a)(3), added pars. (8) to (16).
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–178, §8101(d), designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) to (E).
+1998—Subsec. (b)(1). Pub. L. 105–178, §8101(d), designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) to (E).
 
 Subsec. (c)(3)(D), (E). Pub. L. 105–178, §8101(a)(1), added subpars. (D) and (E).
 
@@ -266,7 +270,7 @@ Subsec. (c)(6). Pub. L. 105–178, §8101(a)(4), substituted a dash for comma af
 
 Subsec. (c)(7). Pub. L. 105–178, §8101(a)(5), added par. (7).
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10203(a)(1), struck out “Fiscal Years 1991–1998” before “Enforcement” in heading.
+1997—Subsec. (a). Pub. L. 105–33, §10203(a)(1), struck out “Fiscal Years 1991–1998” before “Enforcement” in heading.
 
 Subsec. (a)(3). Pub. L. 105–33, §10203(a)(2), substituted “section 905(f)” for “section 905(h)” in two places.
 
@@ -278,7 +282,7 @@ Subsec. (b)(2)(G). Pub. L. 105–89 added subpar. (G).
 
 Subsec. (c). Pub. L. 105–33, §10203(b), added subsec. (c).
 
-<b>1996</b>—Subsec. (b)(2)(G). Pub. L. 104–208 substituted “fiscal years 1994, 1995, and 1997” for “fiscal year 1994 and 1995” in two places.
+1996—Subsec. (b)(2)(G). Pub. L. 104–208 substituted “fiscal years 1994, 1995, and 1997” for “fiscal year 1994 and 1995” in two places.
 
 Subsec. (b)(2)(H). Pub. L. 104–121 added subpar. (H).
 
@@ -286,11 +290,11 @@ Subsec. (b)(2)(H)(i). Pub. L. 104–193, §211(d)(5)(B)(i), substituted “$175,
 
 Subsec. (b)(2)(H)(ii)(I). Pub. L. 104–193, §211(d)(5)(B)(ii), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the term ‘continuing disability reviews’ has the meaning given such term by section 401(g)(1)(A) of title 42;”.
 
-<b>1994</b>—Subsec. (b)(2)(D)(i). Pub. L. 103–354 inserted at end “This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.”
+1994—Subsec. (b)(2)(D)(i). Pub. L. 103–354 inserted at end “This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.”
 
 Subsec. (b)(2)(G). Pub. L. 103–306 substituted “1994 and 1995” for “1994” in two places.
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–66, §14002(c)(1)(A), substituted “1998” for “1995” in heading.
+1993—Subsec. (a). Pub. L. 103–66, §14002(c)(1)(A), substituted “1998” for “1995” in heading.
 
 Subsec. (b)(1). Pub. L. 103–66, §14002(c)(1)(B)(i), in introductory provisions, substituted “1995, 1996, 1997, or 1998” for “or 1995” and “outyear through 1998” for “outyear through 1995”.
 
@@ -306,11 +310,11 @@ Subsec. (b)(2)(F). Pub. L. 103–66, §14002(c)(1)(B)(vi), inserted before perio
 
 Subsec. (b)(2)(G). Pub. L. 103–87 added subpar. (G).
 
-<b>1990</b>—Pub. L. 101–508, §13101(a), amended section generally, substituting subsecs. (a) and (b) relating to enforcement of discretionary spending limits for former subsecs. (a) to (e) relating to reporting of excess deficits.
+1990—Pub. L. 101–508, §13101(a), amended section generally, substituting subsecs. (a) and (b) relating to enforcement of discretionary spending limits for former subsecs. (a) to (e) relating to reporting of excess deficits.
 
 Subsec. (a)(6)(I). Pub. L. 101–508, §13101(e)(2), redesignated subsec. (a)(6)(I) of this section as section 907(e) of this title.
 
-<b>1987</b>—Pub. L. 100–119 amended section generally, substituting provisions consisting of subsecs. (a) to (e) relating to reports by Director of CBO to Director of OMB and to Congress and by Director of OMB to President and Congress for provisions consisting of subsecs.\(a) to (g) relating to joint reports by Directors of CBO and OMB to Comptroller General and report by Comptroller General to President and Congress.
+1987—Pub. L. 100–119 amended section generally, substituting provisions consisting of subsecs. (a) to (e) relating to reports by Director of CBO to Director of OMB and to Congress and by Director of OMB to President and Congress for provisions consisting of subsecs. (a) to (g) relating to joint reports by Directors of CBO and OMB to Comptroller General and report by Comptroller General to President and Congress.
 
 Subsec. (a)(6)(B). Pub. L. 100–203, §8003(f), struck out “and” before “contract authority” and inserted provision whereby the authority to provide insurance through the Federal Housing Administration Fund be continued.
 
@@ -350,7 +354,7 @@ Adjustment of discretionary spending limit for fy2002.—The discretionary spend
 
 #### Level of Obligation Limitations
 
-Pub. L. 105–178, title VIII, §8103, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 108–88, §11(a), (b), Sept. 30, 2003, 117 Stat. 1128, provided that:
+Pub. L. 105–178, title VIII, §8103, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 108–88, §11(a), (b), Sept. 30, 2003, 117 Stat. 1128; Pub. L. 108–310, §11(a), (b), Sept. 30, 2004, 118 Stat. 1161, provided that:
 
 “(a)
 
@@ -364,9 +368,11 @@ Highway Category.—For the purposes of section 251(b) of the Balanced Budget an
 
 &emsp;“(4) for fiscal year 2002, $27,767,000,000;
 
-&emsp;“(5) for fiscal year 2003, $28,233,000,000; and
+&emsp;“(5) for fiscal year 2003, $28,233,000,000;
 
-&emsp;“(6) for fiscal year 2004, $34,498,000,000.
+&emsp;“(6) for fiscal year 2004, $34,498,000,000; and
+
+&emsp;“(7) for fiscal year 2005, $35,392,000,000.
 
 “(b)
 
@@ -380,15 +386,13 @@ Mass Transit Category.—For the purposes of section 251(b) of the Balanced Budg
 
 &emsp;“(4) for fiscal year 2002, $6,747,000,000;
 
-&emsp;“(5) for fiscal year 2003, $7,226,000,000; and
+&emsp;“(5) for fiscal year 2003, $7,226,000,000;
 
-&emsp;“(6) for fiscal year 2004, $7,303,000,000.
+&emsp;“(6) for fiscal year 2004, $7,303,000,000; and
+
+&emsp;“(7) for fiscal year 2005, $7,265,000,000.
 
 > For purposes of this subsection, the term ‘obligation limitations’ means the sum of budget authority and obligation limitations.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 633, 643, 645, 691a, 691c, 900, 902, 903, 904, 907 of this title; title 16 section 556c; title 23 section 110; title 33 section 2736; title 38 sections 113, 1729A; title 39 section 2009a; title 42 sections 5203, 8621; title 43 section 1474a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

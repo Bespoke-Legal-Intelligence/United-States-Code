@@ -16,21 +16,17 @@
 
 #### (e) Repeal of subsections (b) to (d); equitable distribution of escrow remainder to claimants
 
-Subsections (b), (c), and (d) of this section are repealed, and any rights that may have arisen are extinguished, on the date of the enactment of the Department of the Interior and Related Agencies Appropriations Act, 1999. After that date, the amount available for direct restitution to current and future refined petroleum product claimants under this chapter is reduced by the amounts specified in title II of that Act as being derived from amounts held in escrow under section 4501(d) of this title. The Secretary shall assure that the amount remaining in escrow to satisfy refined petroleum product claims for direct restitution is allocated equitably among the claimants.
+Subsections (b), (c), and (d) of this section are repealed, and any rights that may have arisen are extinguished, on the date of the enactment of the Department of the Interior and RelatedAgencies Appropriations Act, 1999. After that date, the amount available for direct restitution to current and future refined petroleum product claimants under this chapter is reduced by the amounts specified in title II of that Act as being derived from amounts held in escrow under section 4501(d) of this title. The Secretary shall assure that the amount remaining in escrow to satisfy refined petroleum product claims for direct restitution is allocated equitably among the claimants.
 
 (Pub. L. 99–509, title III, §3003, Oct. 21, 1986, 100 Stat. 1882; Pub. L. 105–277, div. A, §101(e) \[title III, §337\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295.)
 
 #### References in Text
 
-The Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in subsec. (e), is section 101(e) of div. A of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–231. Provisions of title II of the Act relating to amounts held in escrow under section 4501(d) ofthis title (112 Stat. 2681–276) are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+The Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in subsec. (e), is section 101(e) of div. A of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–231. Provisions of title II of the Act relating to amounts held in escrow under section 4501(d) of this title (112 Stat. 2681–276) are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 This chapter, referred to in subsec. (e), was in the original “this Act”, which was translated as meaning this subtitle, which enacted this chapter, to reflect the probable intent of Congress.
 
 #### Amendments
 
 1998—Subsecs. (b) to (e). Pub. L. 105–277 added subsec. (e) which struck out subsec. (b) relating to disbursement of restitutionary amounts as direct restitution to injured persons, subsec. (c) relating to determination of excess amount to be used for indirect restitution, and subsec. (d) relating to disbursement of excess amount as indirect restitution for energy conservation programs.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4503, 4505, 4506 of this title.
 

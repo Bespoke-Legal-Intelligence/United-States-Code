@@ -30,7 +30,3 @@ Another prior section 5102 was renumbered section 8302 of this title.
 
 Pub. L. 108–183, title VII, §701(c), Dec. 16, 2003, 117 Stat. 2670, provided that: “The amendments made by this section \[amending this section and section 5103 of this title\] shall take effect as if enacted on November 9, 2000, immediately after the enactment of the Veterans Claims Assistance Act of 2000 (Public Law 106–475; 114 Stat. 2096).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3034 of this title.
-

@@ -24,7 +24,3 @@ An application submitted under subsection (a) of this section shall contain—
 
 (Pub. L. 89–10, title V, §5223, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1800.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7223a of this title.
-

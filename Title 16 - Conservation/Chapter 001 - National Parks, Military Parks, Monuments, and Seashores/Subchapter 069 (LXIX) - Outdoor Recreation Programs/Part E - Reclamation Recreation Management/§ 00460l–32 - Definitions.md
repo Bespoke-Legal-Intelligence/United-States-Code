@@ -18,9 +18,5 @@ This part, referred to in text, was in the original “this title”, meaning ti
 
 The Federal reclamation laws, referred to in pars. (2) and (3), include act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, known as the Reclamation Act, and Acts amendatory thereof and supplementary thereto, which are classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of act June 17, 1902 to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 373c.
-
 <i><sup>1</sup></i><i> So in original. There should probably be only a single closing parenthesis.</i>
 

@@ -32,7 +32,3 @@ Department of Defense Goals.—For the purpose of determining whether the Depart
 
 Duration of Test.—The test program established by subsection (a) shall not apply to solicitations issued on or after October 1, 2000.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3714b; title 35 section 2; title 50 App. section 460.
-

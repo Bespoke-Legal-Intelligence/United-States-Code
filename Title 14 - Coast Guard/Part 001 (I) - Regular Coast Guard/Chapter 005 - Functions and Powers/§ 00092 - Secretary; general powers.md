@@ -12,7 +12,7 @@ For the purpose of executing the duties and functions of the Coast Guard the Sec
 
 &emsp;\[(e) Repealed. Oct. 31, 1951, ch. 654, §1(32), 65 Stat. 702\]
 
-&emsp;(f) acquire land or interests in land, including acceptance of gifts thereof, where required for the purpose of carrying out any project or purpose for which an appropriation has been made;
+&emsp;(f) acquire land or interests in land, including acceptance of gifts thereof, where requiredfor the purpose of carrying out any project or purpose for which an appropriation has been made;
 
 &emsp;(g) exchange land or interests in land in part or in full payment for such other land or interests in land as may be necessary or desirable, the balance of such part payment to be defrayable in accordance with other provisions of this section;
 
@@ -178,7 +178,7 @@ Pub. L. 101–225, title II, §213, Dec. 12, 1989, 103 Stat. 1914, provided that
 
 #### Lifesaving Equipment on Passenger Ferries
 
-Section 10 of Pub. L. 98–557 provided that: “The Secretary of the department in which the Coast Guard is operating shall proceed vigorously with efforts to develop improved lifesaving equipment for use on passenger ferries.”
+Section 10 of Pub. L. 98–557 provided that: “The Secretary of the department in which the Coast Guard isoperating shall proceed vigorously with efforts to develop improved lifesaving equipment for use on passenger ferries.”
 
 #### Leasing of Existing Housing for Assignment as Public Quarters to Military Personnel and Dependents
 

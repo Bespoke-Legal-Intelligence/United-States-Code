@@ -40,7 +40,3 @@ NOW, THEREFORE, by virtue of the power vested in me by the Constitution and laws
 
 2\. If any article or product so labelled, packaged or otherwise bearing the flag of the United States or any representation thereof, as provided for in section 1, should, by force of circumstances, be diverted to the ordinary channels of domestic trade, no person shall be considered as violating the rules and customs pertaining to the display of the flag of the United States, as set forth in the Joint Resolution approved June 22, 1942, as amended by the Joint Resolution approved December 22, 1942 (U.S.C., Supp. II, title 36, secs. 171–178) \[now sections 4 to 10 of this title\] for possessing, transporting, displaying, selling or otherwise transferring any such article or product solely because the label, package, carton, case, or other container bears the flag of the United States or any representation thereof.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2249b.
-

@@ -108,7 +108,7 @@ Notification.—Effective on and after July 1, 1991, all manufacturers of automa
 
 “(f)
 
-Preemption.—In applying section 26(a) of the Consumer Product Safety Act (15 U.S.C. 2075) \[15 U.S.C. 2075(a)\] with respect to the consumer product safety rule of the Consumer Product Safety Commission under subsection (a), only those provisions of laws of States or political subdivisions which relate to the labeling of automatic residential garage door openers and those provisions which do not provide at least the equivalent degree of protection from the risk of injury associated with automatic residential garage door openers as the consumer product safety rule provides shall be subject to such section.
+Preemption.—In applying section 26(a) of the Consumer Product Safety Act (15 U.S.C. 2075) \[15 U.S.C. 2075(a)\] with respect to the consumer product safety rule of the Consumer Product Safety Commission under subsection (a), only those provisions of laws of States or political subdivisions which relate to the labeling of automatic residential garage door openers and those provisions which do not provide at least the equivalent degree of protection from the risk of injury associatedwith automatic residential garage door openers as the consumer product safety rule provides shall be subject to such section.
 
 “(g)
 
@@ -117,8 +117,4 @@ Regulations.—Section 553 of title 5, United States Code, shall apply with resp
 “(h)
 
 Construction.—Nothing in this section shall affect or modify in any way the obligations or liabilities of any person under the common law or any Federal or State law.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2052, 2058, 2060, 6004 of this title.
 

@@ -1,9 +1,5 @@
 Part B—Claims for Benefits Filed on or Before December 31, 1973
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 902, 932a, 936, 940 of this title; title 31 section 3716.
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 The Attorney General shall not institute a civil action under section 1706 of this title before he—
 
-&emsp;(a) gives to the appropriate educational agency notice of the condition or conditionswhich, in his judgment, constitute a violation of part 2 of this subchapter; and
+&emsp;(a) gives to the appropriate educational agency notice of the condition or conditions which, in his judgment, constitute a violation of part 2 of this subchapter; and
 
 &emsp;(b) certifies to the appropriate district court of the United States that he is satisfied that such educational agency has not, within a reasonable time after such notice, undertaken appropriate remedial action.
 

@@ -10,7 +10,7 @@ A prior section 33, act Mar. 3, 1883, ch. 143, 22 Stat. 632, entitled Senators t
 
 #### Amendments
 
-<b>1981</b>—Pub. L. 97–51 struck out “monthly” after “may receive their compensation”.
+1981—Pub. L. 97–51 struck out “monthly” after “may receive their compensation”.
 
 #### Effective Date of 1981 Amendment
 

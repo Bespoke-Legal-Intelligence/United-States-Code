@@ -144,7 +144,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (4) Payment adjustment
 
-&emsp;Under regulations of the Secretary, in the case of individuals enrolled under this partunder a Medicare+Choice religious fraternal benefit society plan described in paragraph (2), the Secretary shall provide for such adjustment to the payment amounts otherwise established under section 1395w–24 of this title as may be appropriate to assure an appropriate payment level, taking into account the actuarial characteristics and experience of such individuals.
+&emsp;Under regulations of the Secretary, in the case of individuals enrolled under this part under a Medicare+Choice religious fraternal benefit society plan described in paragraph (2), the Secretary shall provide for such adjustment to the payment amounts otherwise established under section 1395w–24 of this title as may be appropriate to assure an appropriate payment level, taking into account the actuarial characteristics and experience of such individuals.
 
 #### (f) Restriction on enrollment for specialized MA plans for special needs individuals
 
@@ -187,8 +187,4 @@ Pub. L. 108–173, title II, §231(f)(2), Dec. 8, 2003, 117 Stat. 2208, provided
 #### Authority To Designate Other Plans as Specialized MA Plans
 
 Secretary of Health and Human Services authorized, in promulgating regulations to carry out subsection (b)(6) of this section, to provide, notwithstanding subsection (b)(6)(A) of this section, for the offering of specialized MA plans for special needs individuals by MA plans that disproportionately serve special needs individuals, see section 231(d) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395w–21, 1395w–22, 1395w–23, 1395w–101 of this title; title 26 section 138.
 

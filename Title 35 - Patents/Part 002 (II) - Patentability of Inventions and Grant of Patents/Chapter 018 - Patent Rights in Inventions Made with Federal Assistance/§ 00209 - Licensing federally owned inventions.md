@@ -46,7 +46,7 @@ Terms and Conditions.—Any licenses granted under section 207(a)(2) shall conta
 
 (e)
 
-Public Notice.—No exclusive or partially exclusive license may be granted under section 207(a)(2) unless public notice of the intention to grant an exclusive or partially exclusive license on a federally owned invention has been provided in an appropriate manner at least 15 days before the license is granted, and the Federal agency has considered all comments received before the end of the comment period in response to that public notice. This subsection shall not apply to the licensing of inventions made under a cooperative research and development agreement entered into under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a).
+Public Notice.—No exclusive or partially exclusive license may be granted under section 207(a)(2) unless public notice of the intention to grant an exclusive or partially exclusive license on a federally owned invention has been provided in an appropriate manner at least 15 days before the license is granted, and the Federalagency has considered all comments received before the end of the comment period in response to that public notice. This subsection shall not apply to the licensing of inventions made under a cooperative research and development agreement entered into under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a).
 
 (f)
 
@@ -63,8 +63,4 @@ The Federal antitrust laws, referred to in subsecs. (a)(4) and (d)(3)(D), are cl
 2002—Subsecs. (d)(2), (f). Pub. L. 107–273 struck out “of the United States Code” after “title 5”.
 
 2000—Pub. L. 106–404 amended section catchline and text generally, restructuring and revising provisions setting forth criteria, terms, and conditions relating to granting of licenses on federally owned inventions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 sections 3710, 3710a.
 

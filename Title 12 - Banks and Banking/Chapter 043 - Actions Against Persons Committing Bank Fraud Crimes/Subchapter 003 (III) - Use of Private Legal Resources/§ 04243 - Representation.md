@@ -4,7 +4,3 @@ Notwithstanding sections 516, 518(b), 519, and 547(2) of title 28, private couns
 
 (Pub. L. 101–647, title XXV, §2590, Nov. 29, 1990, 104 Stat. 4906.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4243 of this title.
-

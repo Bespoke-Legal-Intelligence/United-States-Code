@@ -28,7 +28,3 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1161 of this title.
-

@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;(i) special projects and demonstration programs of service delivery for adults who are either low-functioning and deaf or low-functioning and hard of hearing;
 
-&emsp;&emsp;&emsp;(ii) supported employment, including community-based supported employment programs to meet the needs of individuals with the most significant disabilities or to provide technical assistance to States and community organizations to improve and expand the provision of supported employment services; and
+&emsp;&emsp;&emsp;(ii) supported employment, including community-based supported employment programs to meet the needs of individuals with the most significant disabilities or to provide technical assistance to States andcommunity organizations to improve and expand the provision of supported employment services; and
 
 &emsp;&emsp;&emsp;(iii) model transitional planning services for youths with disabilities.
 
@@ -188,7 +188,7 @@
 
 &emsp;&emsp;&emsp;(i) to coordinate training and information activities with Centers for Independent Living;
 
-&emsp;&emsp;&emsp;(ii) to coordinate and work closely with parent training and information centers established pursuant to section 1482(a) of title 20; and
+&emsp;&emsp;&emsp;(ii) to coordinate and work closely with parent training and information centers established pursuant to section 1471 of title 20; and
 
 &emsp;&emsp;&emsp;(iii) to effectively conduct the training and information activities authorized under this subsection;
 
@@ -210,7 +210,7 @@
 
 #### (6) Coordination
 
-&emsp;The Commissioner shall provide coordination and technical assistance by grant or cooperative agreement for establishing, developing, and coordinating the training and information programs. To the extent practicable, such assistance shall be provided by the parent training and information centers established pursuant to section 1482(a) of title 20.
+&emsp;The Commissioner shall provide coordination and technical assistance by grant or cooperative agreement for establishing, developing, and coordinating the training and information programs. To the extent practicable, such assistance shall be provided by the parent training and information centers established pursuant to section 1471 of title 20.
 
 #### (7) Review
 
@@ -246,7 +246,7 @@
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1999 through 2003.
 
-(Pub. L. 93–112, title III, §303, as added Pub. L. 105–220, title IV, §406, Aug. 7, 1998, 112 Stat. 1190.)
+(Pub. L. 93–112, title III, §303, as added Pub. L. 105–220, title IV, §406, Aug. 7, 1998, 112 Stat. 1190; amended Pub. L. 108–446, title III, §305(h)(5), (6), Dec. 3, 2004, 118 Stat. 2805.)
 
 #### References in Text
 
@@ -259,4 +259,10 @@ Sections 711 and 777a of this title (as in effect on the day before August 7, 19
 A prior section 773, Pub. L. 93–112, title III, §304, formerly §303, Sept. 26, 1973, 87 Stat. 379; Pub. L. 95–602, title I, §113, Nov. 6, 1978, 92 Stat. 2968; Pub. L. 99–506, title I, §103(d)(2)(C), title X, §1001(d)(2), Oct. 21, 1986, 100 Stat. 1810, 1843; renumbered §304 and amended Pub. L. 102–569, title I, §102(p)(17), title III, §§301(b)(3), 304, Oct. 29, 1992, 106 Stat. 4358, 4411, 4417, related to loan guarantees for community rehabilitation programs, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 A prior section 303 of Pub. L. 93–112 was classified to section 772 of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
+
+#### Amendments
+
+2004—Subsec. (c)(4)(A)(ii). Pub. L. 108–446, §305(h)(6), substituted “section 1471” for “section 1482(a)”.
+
+Subsec. (c)(6). Pub. L. 108–446, §305(h)(5), substituted “section 1471” for “section 1482(a)”.
 

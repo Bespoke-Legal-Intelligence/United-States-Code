@@ -4,13 +4,13 @@ For the purposes of this chapter—
 
 (a) The term “person” means one or more individuals, partnerships, associations, labor organizations, corporations, business trusts, legal representatives, or any organized groups of persons.
 
-(b) The term “employer” means a person engaged in an industry affecting commerce who has twenty or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year: <i>Provided</i>, That prior to June 30, 1968, employers having fewer than fifty employees shall not be considered employers. The term also means (1) any agent of such a person, and (2) a State or political subdivision of a State and any agency or instrumentality of a State or a political subdivision of a State, and any interstate agency, but such term does not include the United States, or a corporation wholly owned by the Government of the United States.
+(b) The term “employer” means a person engaged in an industry affecting commerce who has twenty or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year: <i>Provided</i>, That prior to June 30, 1968, employers havingfewer than fifty employees shall not be considered employers. The term also means (1) any agent of such a person, and (2) a State or political subdivision of a State and any agency or instrumentality of a State or a political subdivision of a State, and any interstate agency, but such term does not include the United States, or a corporation wholly owned by the Government of the United States.
 
 (c) The term “employment agency” means any person regularly undertaking with or without compensation to procure employees for an employer and includes an agent of such a person; but shall not include an agency of the United States.
 
 (d) The term “labor organization” means a labor organization engaged in an industry affecting commerce, and any agent of such an organization, and includes any organization of any kind, any agency, or employee representation committee, group, association, or plan so engaged in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours, or other terms or conditions of employment, and any conference, general committee, joint or system board, or joint council so engaged which is subordinate to a national or international labor organization.
 
-(e) A labor organization shall be deemed to be engaged in an industry affecting commerce if (1)it maintains or operates a hiring hall or hiring office which procures employees for an employer or procures for employees opportunities to work for an employer, or (2) the number of its members (or, where it is a labor organization composed of other labor organizations or their representatives, if the aggregate number of the members of such other labor organization) is fifty or more prior to July 1, 1968, or twenty-five or more on or after July 1, 1968, and such labor organization—
+(e) A labor organization shall be deemed to be engaged in an industry affecting commerce if (1) it maintains or operates a hiring hall or hiring office which procures employees for an employer or procures for employees opportunities to work for an employer, or (2) the number of its members (or, where it is a labor organization composed of other labor organizations or their representatives, if the aggregate number of the members of such other labor organization) is fifty or more prior to July 1, 1968, or twenty-five or more on or after July 1, 1968, and such labor organization—
 
 &emsp;(1) is the certified representative of employees under the provisions of the National Labor Relations Act, as amended \[29 U.S.C. 151 et seq.\], or the Railway Labor Act, as amended \[45 U.S.C. 151 et seq.\]; or
 
@@ -83,8 +83,4 @@ Amendment by Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L
 #### Transfer of Functions
 
 Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 626 of this title.
 

@@ -22,7 +22,7 @@
 
 #### (1) Liability of other persons
 
-&emsp;The defense provided by section 9607(b)(3) of this title shall not be available to any potentially responsible party with respect to any costs or damages caused by any act or omission of a response action contractor. Except as provided in subsection (a)(4) of this section and the preceding sentence, nothing in thissection shall affect the liability under this chapter or under any other Federal or State law of any person, other than a response action contractor.
+&emsp;The defense provided by section 9607(b)(3) of this title shall not be available to any potentially responsible party with respect to any costs or damages caused by any act or omission of a response action contractor. Except as provided in subsection (a)(4) of this section and the preceding sentence, nothing in this section shall affect the liability under this chapter or under any other Federal or State law of any person, other than a response action contractor.
 
 #### (2) Burden of plaintiff
 
@@ -170,7 +170,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Codification
 
-In subsec. (g)(1), “sections 3131 and 3133 of title 40” substituted for “the Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the ‘Miller Act’ ” and for “such Act of August 24, 1935” and “section 3134 of title 40” substituted for “the Act of April 29, 1941 (40 U.S.C. 270e–270f)”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (g)(1), “sections 3131 and 3133 of title 40” substituted for “the Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the ‘Miller Act’ ” and for “such Act of August 24, 1935” and “section 3134 of title 40” substituted for “the Act of April 29, 1941 (40 U.S.C. 270e–270f)”, on authority of Pub. L. 107–217, §5(c),Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -195,10 +195,6 @@ Subsec. (g). Pub. L. 101–584, §1(3), added subsec. (g).
 #### Coordination of Titles I to IV of Pub. L. 99–499
 
 Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trust fund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9613 of this title; title 10 section 2701; title 14 section 691.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

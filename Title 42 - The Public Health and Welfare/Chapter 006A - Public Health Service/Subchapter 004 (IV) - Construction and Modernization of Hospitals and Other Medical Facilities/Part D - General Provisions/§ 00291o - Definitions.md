@@ -16,7 +16,7 @@ For the purposes of this subchapter—
 
 (d) The term “public health center” means a publicly owned facility for the provision of public health services, including related publicly owned facilities such as laboratories, clinics, and administrative offices operated in connection with such a facility.
 
-(e) The term “nonprofit” as applied to any facility means a facility which is owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+(e) The term “nonprofit” as applied to any facility means a facility which is owned and operated by one or more nonprofit corporations or associations no part of the net earnings of whichinures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
 (f) The term “outpatient facility” means a facility (located in or apart from a hospital) for the diagnosis or diagnosis and treatment of ambulatory patients (including ambulatory inpatients)—
 
@@ -101,8 +101,4 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 291e of this title; title 29 section 731.
 

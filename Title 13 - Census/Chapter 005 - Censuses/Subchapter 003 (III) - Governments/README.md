@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—GOVERNMENTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 9, 225 of this title.
-
 
 ---
 

@@ -22,7 +22,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Act May 21, 1928, ch. 658, 45 Stat. 644, provided that: “The Secretary of the Interior be, and he is hereby, authorized to accept on behalf of the United States, title to the northeast quarter northeast quarter section 27, township 30 north, range 5 east, Mount Diablo base and meridian, situate within the exterior boundaries of Lassen Volcanic National Park, from the State of California, and in exchange therefor may patent an area of unreserved, vacant, nonmineral public land of equal value situate in the same State. The land which may be acquired by the United States under this Act shall, upon acceptance of title, become a part of Lassen Volcanic National Park.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 201b, 203, 204c, 205a of this title.
-

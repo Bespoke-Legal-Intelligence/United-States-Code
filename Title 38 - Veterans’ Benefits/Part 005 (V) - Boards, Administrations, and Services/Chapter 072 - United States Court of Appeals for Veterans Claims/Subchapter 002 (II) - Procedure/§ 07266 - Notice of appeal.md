@@ -12,7 +12,7 @@
 
 (d) For a notice of appeal mailed to the Court to be deemed to be received under subsection (c)(2) on a particular date, the United States Postal Service postmark on the cover in which the notice is posted must be legible. The Court shall determine the legibility of any such postmark and the Court's determination as to legibility shall be final and not subject to review by any other Court.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4116, §4066; renumbered §7266 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105Stat. 404, 405; Pub. L. 103–446, title V, §511(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–103, title V, §507, Dec. 27, 2001, 115 Stat. 997.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4116, §4066; renumbered §7266 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title V, §511(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–103, title V, §507, Dec. 27, 2001, 115 Stat. 997.)
 
 #### Amendments
 
@@ -39,8 +39,4 @@ Section 511(b) of Pub. L. 103–446 provided that: “The amendment made by subs
 #### Interim Provision for Filing Notices of Appeal
 
 Pub. L. 101–94, title II, §202, Aug. 16, 1989, 103 Stat. 626, provided that in the case of a person adversely affected by a final decision of the Board of Veterans’ Appeals that was made before the date on which the United States Court of Veterans Appeals published in the Federal Register a notice by the Court that it had commenced operations, the period prescribed under this section within which a notice of appeal had to be filed with the Court was to be extended to the end of the 30-day period beginning on the date such notice was published, if the end of that period was later than the date that would otherwise be applicable under this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7264 of this title.
 

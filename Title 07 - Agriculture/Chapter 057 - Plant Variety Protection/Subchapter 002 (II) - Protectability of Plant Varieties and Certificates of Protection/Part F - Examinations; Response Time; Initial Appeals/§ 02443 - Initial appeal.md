@@ -4,7 +4,3 @@ When an application for plant variety protection has been refused by the Plant V
 
 (Pub. L. 91–577, title II, §63, Dec. 24, 1970, 84 Stat. 1550.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2461, 2462 of this title.
-

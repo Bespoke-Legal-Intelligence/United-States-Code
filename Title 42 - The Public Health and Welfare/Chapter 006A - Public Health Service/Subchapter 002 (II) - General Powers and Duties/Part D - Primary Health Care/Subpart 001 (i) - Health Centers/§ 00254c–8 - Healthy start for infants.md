@@ -12,7 +12,7 @@
 
 #### (3) Additional grants
 
-&emsp;Effective upon increased funding beyond fiscal year 1999 for such Initiative, additional grants may be made to States to assist communities with technical assistance, replication of successful projects, and State policy formation to reduce infant and maternal mortality and morbidity.
+&emsp;Effective upon increased funding beyond fiscal year 1999 for such Initiative, additionalgrants may be made to States to assist communities with technical assistance, replication of successful projects, and State policy formation to reduce infant and maternal mortality and morbidity.
 
 #### (b) Requirements for making grants
 
@@ -36,7 +36,7 @@ Except to the extent inconsistent with this section, this section may not be con
 
 &emsp;The Secretary may make a grant under paragraph (1) only if the geographic area in which services under the grant will be provided is a geographic area in which a project under subsection (a) of this section is being carried out, and if the Secretary determines that the grant will add to or expand the level of health services available in such area to pregnant women and infants.
 
-#### (3) Evaluation by General Accounting Office
+#### (3) Evaluation by Government Accountability Office
 
 #### (A) In general
 
@@ -78,13 +78,17 @@ Except to the extent inconsistent with this section, this section may not be con
 
 &emsp;&emsp;Of the amounts appropriated under subparagraph (A) for a fiscal year, the Secretary shall make available not less than 10 percent for providing services under subsection (e) of this section (including ultrasound services) through visits by mobile units to communities that are eligible for services under subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title III, §330H, as added Pub. L. 106–310, div. A, title XV, §1501, Oct. 17, 2000, 114 Stat. 1146.)
+(July 1, 1944, ch. 373, title III, §330H, as added Pub. L. 106–310, div. A, title XV, §1501, Oct. 17, 2000, 114 Stat. 1146; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
 The effective date of this section, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 106–310, which was approved Oct. 17, 2000.
 
 The Social Security Act, referred to in subsecs. (b) and (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title V of the Act is classified generally to subchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+#### Amendments
+
+2004—Subsec. (e)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
 
 #### Change of Name
 

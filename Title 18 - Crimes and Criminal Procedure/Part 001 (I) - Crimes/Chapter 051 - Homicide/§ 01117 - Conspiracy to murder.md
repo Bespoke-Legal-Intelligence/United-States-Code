@@ -8,7 +8,3 @@ If two or more persons conspire to violate section 1111, 1114, 1116, or 1119 of 
 
 1994—Pub. L. 103–322 substituted “1116, or 1119” for “or 1116”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 115, 930 of this title.
-

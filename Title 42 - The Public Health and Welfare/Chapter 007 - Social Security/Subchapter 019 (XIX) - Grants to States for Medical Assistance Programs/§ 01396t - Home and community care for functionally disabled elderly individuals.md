@@ -192,7 +192,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (1) Requirements
 
-&emsp;Home and Community <sup>1</sup> care provided under this section must meet such requirements forindividuals’ rights and quality as are published or developed by the Secretary under subsection (k) of this section. Such requirements shall include—
+&emsp;Home and Community <sup>1</sup> care provided under this section must meet such requirements for individuals’ rights and quality as are published or developed by the Secretary under subsection (k) of this section. Such requirements shall include—
 
 &emsp;&emsp;(A) the requirement that individuals providing care are competent to provide such care; and
 
@@ -276,7 +276,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;&emsp;(A) must disclose persons with an ownership or control interest (including such persons as defined in section 1320a–3(a)(3) of this title) in the setting; and
 
-&emsp;&emsp;(B) may not have, as a person with an ownership or control interest in the setting, anyindividual or person who has been excluded from participation in the program under this subchapter or who has had such an ownership or control interest in one or more community care settings which have been found repeatedly to be substandard or to have failed to meet the requirements of paragraph (2).
+&emsp;&emsp;(B) may not have, as a person with an ownership or control interest in the setting, any individual or person who has been excluded from participation in the program under this subchapter or who has had such an ownership or control interest in one or more community care settings which have been found repeatedly to be substandard or to have failed to meet the requirements of paragraph (2).
 
 #### (i) Survey and certification process
 
@@ -390,7 +390,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (C) Civil money penalty
 
-&emsp;&emsp;If the Secretary finds on the basis of a review under subsection (i)(2) of this section or otherwise that a home or community care provider no longer meets the requirements of this section, the Secretary shall impose a civil money penalty in an amount not to exceed $10,000 for each day of noncompliance. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall specify criteria, as to when and how this remedy is to be applied and the amounts of any penalties. Such criteria shall be designed so as to minimize the time between the identification of violations and final imposition of the penalties and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
+&emsp;&emsp;If the Secretary finds on the basis of a review under subsection (i)(2) of this section or otherwise that a home or community care provider no longer meets the requirements of this section, the Secretary shall impose acivil money penalty in an amount not to exceed $10,000 for each day of noncompliance. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall specify criteria, as to when and how this remedy is to be applied and the amounts of any penalties. Such criteria shall be designed so as to minimize the time between the identification of violations and final imposition of the penalties and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
 
 #### (k) Secretarial responsibilities
 
@@ -438,7 +438,7 @@ States may waive the requirement of section 1396a(a)(1) of this title (related t
 
 #### (2) Assurance of entitlement to service
 
-&emsp;A State which receives Federal medical assistance for expenditures for home and community care under this section must provide home and community care specified under the Individual Community Care Plan under subsection (d) of this section to individuals described in subsection (b) of this section for the duration of the election period, without regardto the amount of funds available to the State under paragraph (1). For purposes of this paragraph, an election period is the period of 4 or more calendar quarters elected by the State, and approved by the Secretary, for the provision of home and community care under this section.
+&emsp;A State which receives Federal medical assistance for expenditures for home and community care under this section must provide home and community care specified under the Individual Community Care Plan under subsection (d) of this section to individuals described in subsection (b) of this section for the duration of the election period, without regard to the amount of funds available to the State under paragraph (1). For purposes of this paragraph, an election period is the period of 4 or more calendar quarters elected by the State, and approved by the Secretary, for the provision of home and community care under this section.
 
 #### (3) Limitation on eligibility
 
@@ -465,10 +465,6 @@ Subsec. (<i>l</i>). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(3)\], s
 #### Effective Date
 
 Section applicable to home and community care furnished on or after July 1, 1991, without regard to whether or not final regulations to carry out the amendments made by section 4711 of Pub. L. 101–508 have been promulgated by such date, see section 4711(e) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under section 1396a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1396d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -92,10 +92,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 13d–2, 458cc of this title; title 20 sections 1131a, 1131c, 1401, 2327, 2373, 3489, 7011, 7454; title 29 section 3002.
-
 
 ---
 

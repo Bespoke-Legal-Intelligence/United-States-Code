@@ -54,7 +54,7 @@
 - [&sect; 00277d&#8211;42 - Construction, operation, and maintenance of flood control works; authorization of appropriations; restrictions](%C2%A7%2000277d%E2%80%9342%20-%20Construction%2C%20operation%2C%20and%20maintenance%20of%20flood%20control%20works%3B%20authorization%20of%20appropriations%3B%20restrictions.md)
 - [&sect; 00277d&#8211;43 - Definitions](%C2%A7%2000277d%E2%80%9343%20-%20Definitions.md)
 - [&sect; 00277d&#8211;44 - Actions to be taken by the Commission and the Administrator](%C2%A7%2000277d%E2%80%9344%20-%20Actions%20to%20be%20taken%20by%20the%20Commission%20and%20the%20Administrator.md)
-- [&sect; 00277d&#8211;45 - Negotiation of new Treaty Minute](%C2%A7%2000277d%E2%80%9345%20-%20Negotiation%20of%20new%20Treaty%20Minute.md)
+- [&sect; 00277d&#8211;45 - New Treaty Minute](%C2%A7%2000277d%E2%80%9345%20-%20New%20Treaty%20Minute.md)
 - [&sect; 00277d&#8211;46 - Authorization of appropriations](%C2%A7%2000277d%E2%80%9346%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00277e - Disposal of lands; issuance of licenses for use of lands; compensation for injured property](%C2%A7%2000277e%20-%20Disposal%20of%20lands%3B%20issuance%20of%20licenses%20for%20use%20of%20lands%3B%20compensation%20for%20injured%20property.md)
 - [&sect; 00277f - Valley Gravity Canal and Storage Project](%C2%A7%2000277f%20-%20Valley%20Gravity%20Canal%20and%20Storage%20Project.md)

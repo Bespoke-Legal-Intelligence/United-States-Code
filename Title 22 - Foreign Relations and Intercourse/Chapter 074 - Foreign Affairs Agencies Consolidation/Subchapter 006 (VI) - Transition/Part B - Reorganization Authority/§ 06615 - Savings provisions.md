@@ -56,7 +56,3 @@ This chapter, referred to in text, was in the original “this subdivision”, m
 
 The effective dates of the respective subchapters of this chapter, referred to in subsecs. (a)(2), (b)(1), (c)(1), and (e), was in the original, references to the effective dates of the respective titles of this subdivision, meaning the effective dates of titles XI to XVI of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 765. Titles XI and XVI of subdiv. A of div. G of Pub. L. 105–277 are effective Oct. 21, 1998. For the effective dates of titles XII, XIII, XIV, and XV of subdiv. A of div. G of Pub. L. 105–277, see sections 1201, 1301, 1401, and 1501, respectively, of div. G of Pub. L. 105–277, set out as notes under sections 6511, 6531, 6561, and 6581, respectively, of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6612 of this title.
-

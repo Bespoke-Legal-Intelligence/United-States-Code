@@ -20,9 +20,5 @@ The return of articles from space shall not be considered an importation, and an
 
 #### Effective Date
 
-Section applicable with respect to articles launched into space from the customs territory of the UnitedStates on or after Jan. 1, 1985, see section 214(c)(4) of Pub. L. 98–573, set out as an Effective Date of 1984 Amendment note under section 1304 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1202 of this title.
+Section applicable with respect to articles launched into space from the customs territory of the United States on or after Jan. 1, 1985, see section 214(c)(4) of Pub. L. 98–573, set out as an Effective Date of 1984 Amendment note under section 1304 of this title.
 

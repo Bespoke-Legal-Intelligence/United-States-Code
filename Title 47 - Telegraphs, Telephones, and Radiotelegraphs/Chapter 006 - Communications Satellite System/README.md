@@ -140,10 +140,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 902 of this title; title 26 sections 168, 883.
-
 
 ---
 

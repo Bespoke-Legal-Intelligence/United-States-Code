@@ -60,7 +60,7 @@ Section 2502(a)(2) of Pub. L. 100–418 provided that: “The authorities confer
 
 Section 101(b), (c) of Pub. L. 95–223 provided that:
 
-“(b) Notwithstanding the amendment made by subsection (a) \[amending par. (1) of this section\], the authorities conferred upon the President by section 5(b) of the Trading With the Enemy Act \[this section\], which were being exercised with respect to a countryon July 1, 1977, as a result of a national emergency declared by the President before such date, may continue to be exercised with respect to such country, except that, unless extended, the exercise of such authorities shall terminate (subject to the savings provisions of the second sentence of section 101(a) of the National Emergencies Act \[section 1601(a) of Title 50, War and National Defense\]) at the end of the two-year period beginning on the date of enactment of the National Emergencies Act \[Sept 14, 1976\]. The President may extend the exercise of such authorities for one-year periods upon a determination for each such extension that the exercise of such authorities with respect to such country for another year is in the national interest of the United States.
+“(b) Notwithstanding the amendment made by subsection (a) \[amending par. (1) of this section\], the authorities conferred upon the President by section 5(b) of the Trading With the Enemy Act \[this section\], which were being exercised with respect to a country on July 1, 1977, as a result of a national emergency declared by the President before such date, may continue to be exercised with respect to such country, except that, unless extended, the exercise of such authorities shall terminate (subject to the savings provisions of the second sentence of section 101(a) of the National Emergencies Act \[section 1601(a) of Title 50, War and National Defense\]) at the end of the two-year period beginning on the date of enactment of the National Emergencies Act \[Sept 14, 1976\]. The President may extend the exercise of such authorities for one-year periods upon a determination for each such extension that the exercise of such authorities with respect to such country for another year is in the national interest of the United States.
 
 “(c) The termination and extension provisions of subsection (b) of this section supersede the provisions of section 101(a) \[section 1601(a) of Title 50, War and National Defense\] and of title II \[section 1621 et seq. of Title 50\] of the National Emergencies Act to the extent that the provisions of subsection (b) of this section are inconsistent with those provisions.”
 
@@ -112,7 +112,7 @@ A. All of the following transactions are prohibited, except as specifically auth
 
 (2) The acquisition by, or transfer to, any person within the United States of any interest in any security or evidence thereof if the attendant circumstances disclose or indicate that the security or evidence thereof is not physically situated within the United States.
 
-B. The Secretary of the Treasury may investigate, regulate, or prohibit under such regulations, rulings, or instructions as he may prescribe, by means of licenses or otherwise, the sending, mailing, importing or otherwise bringing, directly or indirectly, into the UnitedStates, from any foreign country, of any securities or evidences thereof or the receiving or holding in the United States of any securities or evidences thereof so brought into the United States.
+B. The Secretary of the Treasury may investigate, regulate, or prohibit under such regulations, rulings, or instructions as he may prescribe, by means of licenses or otherwise, the sending, mailing, importing or otherwise bringing, directly or indirectly, into the United States, from any foreign country, of any securities or evidences thereof or the receiving or holding in the United States of any securities or evidences thereof so brought into the United States.
 
 #### section 3. foreign countries affected; effective date of prohibitions
 
@@ -290,7 +290,7 @@ Ex. Ord. No. 10348, Apr. 26, 1952, 17 F.R. 3769, which provided that Ex. Ord. No
 
 #### Executive Order No. 11387
 
-Ex. Ord. No. 11387, Jan. 1, 1968, 33 F.R. 47, which prohibited transfers of capital to or within a foreign country or to any national thereof outside the UnitedStates by a person subject to the jurisdiction of the United States who owns a 10 percent interest in a foreign business venture, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 11387, Jan. 1, 1968, 33 F.R. 47, which prohibited transfers of capital to or within a foreign country or to any national thereof outside the United States by a person subject to the jurisdiction of the United States who owns a 10 percent interest in a foreign business venture, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Ex. Ord. No. 11825. Revocation of Executive Orders Pertaining to Regulation of Acquisition of, Holding of, or Other Transactions in Gold
 
@@ -305,8 +305,4 @@ Section 2. The revocation, in whole or in part, of such prior Executive orders r
 This order shall become effective on December 31, 1974.
 
 Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 95b, 212, 3409, 3413 of this title; title 22 sections 6004, 6005; title 31 section 5315.
 

@@ -28,7 +28,3 @@ This part, referred to in subsec. (a), was in the original “this subpart” me
 
 Subsec. (d) of this section amended section 726 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1312 of this title.
-

@@ -76,15 +76,15 @@ List of toxic chemicals.—Toxic chemicals which have been identified for the ap
 
 United states.—The term “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
 
-&emsp;&emsp;(A) any of the places within the provisions of paragraph (41) of section 40102 of title 49, United States Code;
+&emsp;&emsp;(A) any of the places within the provisions of paragraph (41) <sup>1</sup> of section 40102 of title 49, United States Code;
 
-&emsp;&emsp;(B) any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (37), respectively, of section 40102 of title 49, United States Code; and
+&emsp;&emsp;(B) any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (37),<sup>1</sup> respectively, of section 40102 of title 49, United States Code; and
 
 &emsp;&emsp;(C) any vessel of the United States, as such term is defined in section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b)).
 
 (Added Pub. L. 105–277, div. I, title II, §201(a), Oct. 21, 1998, 112 Stat. 2681–869.)
 
-#### Section Referred to in Other Sections
+#### References in Text
 
-This section is referred to in section 2332a of this title.
+Paragraphs (17), (37), and (41) of section 40102 of title 49, referred to in par. (9)(A), (B), probably means paragraphs (17), (37), and (41) of subsection (a) of section 40102 of title 49. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by Pub. L. 108–176, title II, §225(a)(1), (3), Dec. 12, 2003, 117 Stat. 2528.
 

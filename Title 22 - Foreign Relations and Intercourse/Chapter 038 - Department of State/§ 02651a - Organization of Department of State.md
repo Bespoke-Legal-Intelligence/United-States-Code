@@ -26,7 +26,17 @@
 
 #### (3) Under Secretary for Public Diplomacy
 
-&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Public Diplomacy, who shall have primary responsibility to assist the Secretary and the Deputy Secretary in the formation and implementation of United States public diplomacy policies and activities, including international educational and cultural exchange programs, information, and international broadcasting.
+&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Public Diplomacy, who shall have primary responsibility to assist the Secretary and the Deputy Secretary in the formation and implementation of United States public diplomacy policies and activities, including international educational and cultural exchange programs, information, and international broadcasting. The Under Secretary for Public Diplomacy shall—
+
+&emsp;&emsp;(A) prepare an annual strategic plan for public diplomacy in collaboration with overseas posts and in consultation with the regional and functional bureaus of the Department;
+
+&emsp;&emsp;(B) ensure the design and implementation of appropriate program evaluation methodologies;
+
+&emsp;&emsp;(C) provide guidance to Department personnel in the United States and overseas who conduct or implement public diplomacy policies, programs, and activities;
+
+&emsp;&emsp;(D) assist the United States Agency for International Development and the Broadcasting Board of Governors to present the policies of the United States clearly and effectively; and
+
+&emsp;&emsp;(E) submit statements of United States policy and editorial material to the Broadcasting Board of Governors for broadcast consideration.
 
 #### (4) Nomination of Under Secretaries
 
@@ -120,7 +130,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;&emsp;&emsp;&emsp;(VI) Resolving policy, program, and funding disputes among the relevant executive branch agencies.
 
-&emsp;&emsp;&emsp;&emsp;(VII) Directly approving all activities of the United States (including funding) relating to combatting HIV/AIDS in each of Botswana, Cote d'Ivoire, Ethiopia, Guyana, Haiti, Kenya, Mozambique, Namibia, Nigeria, Rwanda, South Africa, Tanzania, Uganda, Zambia, and other countries designated by the President, which other designated countries may include those countries in which the United States is implementing HIV/AIDS programs as of May 27, 2003.
+&emsp;&emsp;&emsp;&emsp;(VII) Directly approving all activities of the United States (including funding)relating to combatting HIV/AIDS in each of Botswana, Cote d'Ivoire, Ethiopia, Guyana, Haiti, Kenya, Mozambique, Namibia, Nigeria, Rwanda, South Africa, Tanzania, Uganda, Zambia, and other countries designated by the President, which other designated countries may include those countries in which the United States is implementing HIV/AIDS programs as of May 27, 2003.
 
 &emsp;&emsp;&emsp;&emsp;(VIII) Establishing due diligence criteria for all recipients of funds section and all activities subject to the coordination and appropriate monitoring, evaluation, and audits carried out by the Coordinator necessary to assess the measurable outcomes of such activities.
 
@@ -158,11 +168,11 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;The officer of the Department of State with primary responsibility for assisting the Secretary with respect to international narcotics and law enforcement, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) law enforcement or international narcotics policy.
 
-(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721.)
+(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(1) and (f)(2)(C)(iv), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, as amended, known as the State Department Basic Authorities Act of 1956, which enacted this section, sections 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2730 of this title, and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
+This Act, referred to in subsecs. (a)(1) and (f)(2)(C)(iv), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, as amended, known as the State Department Basic Authorities Act of 1956, which enacted this section, sections 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2732 of this title, and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
 
 The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, referred to in subsec. (f)(2)(B)(i), is Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which enacted chapter 83 and sections 262p–8 and 2151b–2 to 2151b–4 of this title, amended this section, sections 2151b and 2222 of this title, and section 242l of Title 42, The Public Health and Welfare, and enacted provisions set out as a note under section 7601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
@@ -173,6 +183,8 @@ Section was formerly classified to section 2662 of this title.
 Section was also formerly classified to section 170f of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+2004—Subsec. (b)(3). Pub. L. 108–458 inserted “The Under Secretary for Public Diplomacy shall—” at end and added subpars. (A) to (E).
 
 2003—Subsecs. (f), (g). Pub. L. 108–25 added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -227,6 +239,26 @@ Section 161(b) of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(f)(2),
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–241, effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an Effective Date note under section 4301 of this title.
+
+#### Consultation
+
+Pub. L. 108–458, title VII, §7109(b)(2), Dec. 17, 2004, 118 Stat. 3793, provided that: “The Under Secretary of State for Public Diplomacy, in carrying out the responsibilities described in section 1(b)(3) of such Act \[22 U.S.C. 2651a(b)(3)\] (as amended by paragraph (1)), shall consult with public diplomacy officers operating at United States overseas posts and in the regional bureaus of the Department of State.”
+
+#### Office of the Coordinator for Reconstruction and Stabilization
+
+Pub. L. 108–447, div. B, title IV, §408, Dec. 8, 2004, 118 Stat. 2904, provided that: “There is established within the Department of State the Office of the Coordinator for Reconstruction and Stabilization: <i>Provided</i>, That the head of the Office shall be the Coordinator for Reconstruction and Stabilization, who shall report directly to the Secretary of State: <i>Provided further</i>, That the functions of the Office of the Coordinator for Reconstruction and Stabilization shall include—
+
+&emsp;“(1) cataloguing and monitoring the non-military resources and capabilities of Executive agencies (as that term is defined in section 105 of title 5, United States Code), State and local governments, and entities in the private and non-profit sectors that are available to address crises in countries or regions that are in, or are in transition from, conflict or civil strife;
+
+&emsp;“(2) monitoring political and economic instability worldwide to anticipate the need for mobilizing United States and international assistance for countries or regions described in paragraph (1);
+
+&emsp;“(3) assessing crises in countries or regions described in paragraph (1) and determining the appropriate non-military United States, including but not limited to demobilization, policing, human rights monitoring, and public information efforts;
+
+&emsp;“(4) planning for response efforts under paragraph (3);
+
+&emsp;“(5) coordinating with relevant Executive agencies the development of interagency contingency plans for such response efforts; and
+
+&emsp;“(6) coordinating the training of civilian personnel to perform stabilization and reconstruction activities in response to crises in such countries or regions described in paragraph (1).”
 
 #### Comprehensive Workforce Plan
 
@@ -372,7 +404,7 @@ Duties.—The Adviser shall—
 
 Section 161(c) of Pub. L. 103–236 provided that: “Any officer of the Department of State holding office on the date of the enactment of this Act \[Apr. 30, 1994\] shall not be required to be reappointed to any other office, at the Department of State at the same level performing similar functions, as determined by the President, by reason of the enactment of the amendments made by this section and section 162 \[see Effective Date of 1994 Amendment note above for classification\].”
 
-\[Functions of President under section 161(c) of Pub. L. 103–236, set out above, delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.\]
+\[Functions of President under section 161(c) of Pub. L. 103–236, set out above, delegated to Secretary of State by Memorandum of President of the UnitedStates, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.\]
 
 #### References to Officials and Offices of Department of State Whose Authority Is vested in Secretary of State Deemed References to Secretary of State or Department of State
 
@@ -403,10 +435,6 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Definitions
 
 For definitions of “Secretary”, “Department”, and “appropriate congressional committees” as used in sections 301, 302, 324, and 325 of Pub. L. 107–228, set out as notes above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2652c, 7622, 7634 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “under”.</i>
 

@@ -10,7 +10,7 @@ Pub. L. 106–202, §1, May 18, 2000, 114 Stat. 308, provided that: “This Act 
 
 #### Short Title of 1998 Amendments
 
-Pub. L. 105–334, §1, Oct. 31, 1998, 112 Stat. 3137, provided that: “This Act \[amending section 213 of this titleand enacting provisions set out as a note under section 213 of this title\] may be cited as the ‘Drive for Teen Employment Act’.”
+Pub. L. 105–334, §1, Oct. 31, 1998, 112 Stat. 3137, provided that: “This Act \[amending section 213 of this title and enacting provisions set out as a note under section 213 of this title\] may be cited as the ‘Drive for Teen Employment Act’.”
 
 Pub. L. 105–221, §1, Aug. 7, 1998, 112 Stat. 1248, provided that: “This Act \[amending section 203 of this title\] may be cited as the ‘Amy Somers Volunteers at Food Banks Act’.”
 
@@ -20,7 +20,7 @@ Pub. L. 104–188, \[title II\], §2104(a), Aug. 20, 1996, 110 Stat. 1928, provi
 
 #### Short Title of 1995 Amendment
 
-Pub. L. 104–26, §1, Sept. 6, 1995, 109 Stat. 264, provided that: “This Act \[amending section 207 of this title and enacting provisions set out as a note under section 207 of this title\] may be cited as the ‘Court Reporter Fair Labor Amendments of 1995’.”
+Pub. L. 104–26, §1, Sept. 6, 1995, 109 Stat. 264, provided that: “This Act \[amending section 207 of this title andenacting provisions set out as a note under section 207 of this title\] may be cited as the ‘Court Reporter Fair Labor Amendments of 1995’.”
 
 #### Short Title of 1989 Amendment
 

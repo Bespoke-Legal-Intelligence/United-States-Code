@@ -38,13 +38,9 @@ The seal provided under subsection (a)(3) of this section may only be used on fi
 
 #### Termination of Section
 
-<i>For termination of section, see section 179w of this title.</i>
+<i>For termination of section, see section 179w of this title and section 1205(a) of Pub. L. 108–447, set out as an Effective Date Extension note under section 179w of this title.</i>
 
 #### References in Text
 
 The National Film Preservation Act of 1992, referred to in subsec. (a)(1)(A), is title II of Pub. L. 102–307, June 26, 1992, 106 Stat. 267, which was classified principally to sections 179 to 179k of this title and was repealed by Pub. L. 104–285, title I, §114, Oct. 11, 1996, 110 Stat. 3382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 179<i>l</i>, 179<i>o</i>, 179q, 179s, 179t, 179u, 179v, 179w of this title.
 

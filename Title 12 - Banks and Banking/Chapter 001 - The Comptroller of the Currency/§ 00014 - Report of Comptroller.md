@@ -18,7 +18,3 @@ R.S. §333 derived from acts June 3, 1864, ch. 106, §61, 13 Stat. 117, and Feb.
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 36 of this title.
-

@@ -57,10 +57,6 @@ Religious belief unaffected.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1988, 1996a of this title; title 5 section 504.
-
 
 ---
 

@@ -4,7 +4,7 @@
 
 #### (1) Basis
 
-&emsp;An individual with responsibility for the operation of a program that receives assistance under this chapter shall not discriminate against a participant in, or member of the staff of, such program on the basis of race, color, national origin, sex, age, or political affiliation of such participant or member, or on the basis of disability, if the participant or member is a qualified individual with a disability.
+&emsp;An individual with responsibility for the operation of a program that receives assistanceunder this chapter shall not discriminate against a participant in, or member of the staff of, such program on the basis of race, color, national origin, sex, age, or political affiliation of such participant or member, or on the basis of disability, if the participant or member is a qualified individual with a disability.
 
 #### (2) Definition
 
@@ -53,8 +53,4 @@ Subsec. (c). Pub. L. 96–143, §12(b), added subsec. (c).
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as a note under section 4951 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5061 of this title.
 

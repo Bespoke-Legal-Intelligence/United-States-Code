@@ -58,7 +58,7 @@ In any Y2K action that is maintained as a class action, the court, in addition t
 
 #### (C) Period of limitations tolled
 
-&emsp;&emsp;Upon dismissal or remand, the period of limitations for any claim that was asserted in an action on behalf of any named or unnamed member of any proposed class shall be deemed tolled to the full extent provided under Federal law.
+&emsp;&emsp;Upon dismissal or remand, the period of limitations for any claim that was asserted in an action on behalf of any named or unnamed member of any proposed class shallbe deemed tolled to the full extent provided under Federal law.
 
 #### (D) Dismissal without prejudice
 

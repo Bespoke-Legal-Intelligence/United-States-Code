@@ -8,7 +8,7 @@ The Secretary shall make available to the public, in forms useful to the public 
 
 #### (1) Proprietary data
 
-&emsp;Except as provided in paragraph (2), the Secretary may not make available to the publicdata that the Secretary determines pursuant to section 4546 of this title are proprietary information.
+&emsp;Except as provided in paragraph (2), the Secretary may not make available to the public data that the Secretary determines pursuant to section 4546 of this title are proprietary information.
 
 #### (2) Exception
 
@@ -19,8 +19,4 @@ The Secretary shall make available to the public, in forms useful to the public 
 The Secretary may charge reasonable fees to cover the cost of making data available under this section to the public.
 
 (Pub. L. 102–550, title XIII, §1323, Oct. 28, 1992, 106 Stat. 3954.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4546 of this title.
 

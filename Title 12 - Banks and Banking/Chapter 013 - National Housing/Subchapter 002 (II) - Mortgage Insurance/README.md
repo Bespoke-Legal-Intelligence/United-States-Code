@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—MORTGAGE INSURANCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1701s, 1701x, 1702, 1703, 1705, 1709–1a, 1715f, 1715z–1, 1715z–4a, 1715z–13a, 1715z–13b, 1721, 1731a, 1735f–2, 1735f–6, 1735f–8, 1735f–9, 1735f–10, 1735f–14, 1743, 1748b, 2803, 2810, 3702, 3751, 3752 of this title; title 38 sections 3707, 3707A, 3728; title 42 sections 1437aaa–3, 1472, 1479, 3535, 5403, 12773, 12852, 12874.
-
 
 ---
 

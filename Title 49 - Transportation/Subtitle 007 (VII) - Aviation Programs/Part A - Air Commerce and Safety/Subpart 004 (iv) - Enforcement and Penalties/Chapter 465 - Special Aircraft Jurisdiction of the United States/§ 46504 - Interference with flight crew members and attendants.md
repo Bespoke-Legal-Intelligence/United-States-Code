@@ -26,7 +26,3 @@ The words “or threatens” are omitted as being included in “intimidating”
 
 2001—Pub. L. 107–56 inserted “or attempts or conspires to do such an act,” before “shall be fined under title 18,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 46302, 46507 of this title; title 18 sections 2332b, 3286, 3663.
-

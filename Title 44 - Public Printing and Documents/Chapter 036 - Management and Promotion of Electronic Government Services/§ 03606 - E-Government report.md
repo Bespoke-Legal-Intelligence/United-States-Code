@@ -16,7 +16,7 @@
 
 The E-Government Act of 2002, referred to in subsec. (b)(3), is Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2899. Section 202(f) of the Act is set out in a note under section 3501 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
+#### Change of Name
 
-This section is referred to in sections 3602, 3604 of this title.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

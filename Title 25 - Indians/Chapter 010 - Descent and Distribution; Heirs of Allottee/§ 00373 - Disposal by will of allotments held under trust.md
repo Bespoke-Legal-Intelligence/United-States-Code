@@ -16,7 +16,3 @@ The Indian Land Consolidation Act, referred to in text, is title II of Pub. L. 9
 
 1913—Act Feb. 14, 1913, amended section generally.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 353, 372, 374, 406, 564h, 697, 747 of this title; title 43 section 1617.
-

@@ -1,5 +1,7 @@
 ### <b>CHAPTER 21—CIVIC ACHIEVEMENT AWARD PROGRAM IN HONOR OF OFFICE OF SPEAKER OF HOUSE OF REPRESENTATIVES</b>
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

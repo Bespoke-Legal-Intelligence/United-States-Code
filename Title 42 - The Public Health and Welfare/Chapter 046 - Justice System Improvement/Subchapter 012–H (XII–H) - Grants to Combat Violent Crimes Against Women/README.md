@@ -1,9 +1,5 @@
 ### SUBCHAPTER XII–H—GRANTS TO COMBAT VIOLENT CRIMES AGAINST WOMEN
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3783, 3793 of this title.
-
 
 ---
 

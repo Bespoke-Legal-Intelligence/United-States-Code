@@ -32,7 +32,3 @@ The statement of record shall contain the information and be accompanied by the 
 
 1970—Par. (5). Pub. L. 91–609 required the statement of record to contain a statement of the existence of any unusual conditions relating to noise or safety which affect the subdivision and are known to the developer.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1702, 1707, 1708 of this title.
-

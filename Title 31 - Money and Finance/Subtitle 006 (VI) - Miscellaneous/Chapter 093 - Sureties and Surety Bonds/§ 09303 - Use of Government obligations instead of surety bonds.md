@@ -114,7 +114,3 @@ Subsec. (e)(2)(A). Pub. L. 107–217, §3(h)(9)(C), substituted “sections 3131
 
 Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 11 section 345; title 26 sections 5177, 5403, 7102, 7485.
-

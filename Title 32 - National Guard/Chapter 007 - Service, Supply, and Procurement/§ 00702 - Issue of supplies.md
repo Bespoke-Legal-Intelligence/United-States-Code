@@ -50,7 +50,3 @@ In subsection (d), the words “No property may be issued to \* \* \* unless t
 
 Subsecs. (b) to (d). Pub. L. 100–456, §1234(b)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 18502.
-

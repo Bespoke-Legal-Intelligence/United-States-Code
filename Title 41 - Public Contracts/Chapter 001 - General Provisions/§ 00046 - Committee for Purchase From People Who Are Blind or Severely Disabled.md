@@ -4,7 +4,7 @@
 
 There is established a committee to be known as the Committee for Purchase From People Who Are Blind or Severely Disabled (hereafter in sections 46 to 48c of this title referred to as the “Committee”). The Committee shall be composed of fifteen members appointed as follows:
 
-(1) The President shall appoint as a member one officer or employee from each of the following: The Department of Agriculture, the Department of Defense, the Department of the Army, the Department of the Navy, the Department of the Air Force, the Department of Health and Human Services, the Department of Commerce, the Department of Veterans Affairs, the Department of Justice, the Department of Labor, and the General Services Administration. The head of each such department and agency shall nominate one officer or employee in his department or agency for appointment under this paragraph.
+(1) The President shall appoint as a member one officer or employee from each of the following: The Department of Agriculture, the Department of Defense, the Department of the Army, the Department of the Navy, the Department of the Air Force, the Department of Education, the Department of Commerce, the Department of Veterans Affairs, the Department of Justice, the Department of Labor, and the General Services Administration. The head of each such department and agency shall nominate one officer or employee in his department or agency for appointment under this paragraph.
 
 (2)(A) The President shall appoint one member from persons who are not officers or employees of the Government and who are conversant with the problems incident to the employment of the blind.
 
@@ -42,11 +42,11 @@ The members of the Committee shall elect one of their number to be Chairman.
 
 #### (e) Pay and travel expenses
 
-(1) Except as provided in paragraph (2), members of the Committee shall each be entitled to receive the daily equivalent of the annual rateof basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which they are engaged in the actual performance of services for the Committee.
+(1) Except as provided in paragraph (2), members of the Committee shall each be entitled to receive the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which they are engaged in the actual performance of services for the Committee.
 
 (2) Members of the Committee who are officers or employees of the Government shall receive no additional pay on account of their service on the Committee.
 
-(3) While away from their homes or regular places of business in the performance of services for the Committee, members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) <sup>1</sup> of title 5.
+(3) While away from their homes or regular places of business in the performance of services for the Committee, members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manneras persons employed intermittently in the Government service are allowed expenses under section 5703(b) <sup>1</sup> of title 5.
 
 #### (f) Staff
 
@@ -94,13 +94,9 @@ Subsec. (d)(4). Pub. L. 93–358, §1(2)(B), added par. (4).
 
 1971—Pub. L. 92–28, in substituting subsecs. (a) to (i) for former paragraph, among other changes: renamed Committee on Purchases of Blind-made Products as Committee for Purchase of Products and Services of the Blind and Other Severely Handicapped; increased membership of Committee from seven to fourteen members; provided for appointments from Departments of Defense, Air Force, Health, Education, and Welfare, Justice, and Labor and from Veterans’ Administration and General Services Administration; eliminated appointments from Treasury Department and Department of Interior; substituted appointment from Department of the Army for appointment from War Department; required one appointee to be also conversant with problems incident to employment of other severely handicapped individuals; substituted requirement that such appointment be from persons not officers or employees of the Government rather than that he be a private citizen; reenacted provision for Presidential appointment; substituted subsec. (e) pay and travel expenses provisions for former requirement for service of Committee members without additional compensation; incorporated in subsec. (c) provision for selection of a Chairman, substituting “election” for “designation”; and inserted provisions incorporated in subsecs. (a)(1) (for nomination by head of each department and agency of one officer or employee of the department or agency for appointment under par. (1)), (a)(2)(B), (C), (b), (d), and (f) to (i).
 
-#### Change of Name
-
-“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (a)(1) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
-
 #### Effective Date of 1971 Amendment
 
-Section 2 of Pub. L. 92–28 provided that: “The amendment made by the first section of this Act \[amendingthis section and sections 47 and 48 and enacting sections 48a to 48c of this title\] shall take effect on the first day of the first month which begins more than thirty days after the date of enactment of this Act \[June 23, 1971\].”
+Section 2 of Pub. L. 92–28 provided that: “The amendment made by the first section of this Act \[amending this section and sections 47 and 48 and enacting sections 48a to 48c of this title\] shall take effect on the first day of the first month which begins more than thirty days after the date of enactment of this Act \[June 23, 1971\].”
 
 #### Short Title
 
@@ -114,13 +110,9 @@ For termination, effective May 15, 2000, of provisions in subsec. (i) of this se
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-#### Act Referred to in Other Sections
+#### Transfer of Functions
 
-The Javits-Wagner-O'Day Act is referred to in section 253 of this title; title 10 sections 2304, 2461; title 15 sections 657a, 657f; title 40 sections 502, 593.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47, 48a, 48b, 48c of this title; title 15 section 644.
+“Department of Education” substituted for “Department of Health, Education, and Welfare” in subsec. (a)(1) pursuant to sections 301(a)(4)(A), (C), (b)(3) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(4)(A), (C), (b)(3) and 3507 of Title 20, Education, and which transferred to the Department of Education the functions and offices of the Department of Health, Education, and Welfare that had the major governmental function in the field of vocational rehabilitation for the blind and other severely handicapped and administered related vocational rehabiliation programs for individuals with disabilities.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

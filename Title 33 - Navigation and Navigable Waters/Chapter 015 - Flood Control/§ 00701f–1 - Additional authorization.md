@@ -24,15 +24,11 @@ Sections 15 and 17 of act July 24, 1946, ch. 596, 60 Stat. 653, provided:
 
 “
 
-Sec. 15. That the sum of $772,000,000 is hereby authorized to be appropriated for carrying out improvements by the War Department \[now Department of the Army\], the sum of $10,000,000 additional is authorized to be appropriated and expended in equal amounts by the Departments of War \[now Army\] and Agriculture for carrying out any examination or survey provided for in this Act and any other Acts of Congress to be prosecuted by said Departments.
+Sec. 15. That the sum of $772,000,000 is hereby authorized to be appropriated for carrying out improvements by the War Department \[now Department of the Army\], the sum of $10,000,000 additional is authorized tobe appropriated and expended in equal amounts by the Departments of War \[now Army\] and Agriculture for carrying out any examination or survey provided for in this Act and any other Acts of Congress to be prosecuted by said Departments.
 
 “
 
 Sec. 17. That the $5,000,000 authorized to be appropriated in section 10 of the Flood Control Act approved August 18, 1941 \[set out as a note under this section\], is reauthorized to be appropriated, and the sum of $20,000,000 additional is authorized to be appropriated, for expenditure by the Department of Agriculture for the prosecution of the works of improvement authorized to be carried out by that Department by the Flood Control Act of December 22, 1944 \[act Dec. 22, 1944, ch. 665, 58 Stat. 887\].”
 
 Act Aug. 18, 1941, ch. 377, §10, 55 Stat. 651, provided as follows: “That the sum of $275,000,000 is hereby authorized to be appropriated for carrying out the improvements herein, the sum of $10,000,000 additional is authorized to be appropriated and expended in equal amounts by the Departments of War \[now Army\] and Agriculture for carrying out any examinations and surveys provided for in this Act and any other Acts of Congress to be prosecuted by said departments. There is also hereby authorized to be appropriated for expenditure by the Department of Agriculture in carrying on works of improvement of the character specified in section 7 of the Flood Control Act of June 28, 1938 \[section 701b–1 of this title\], and which the Department is not otherwise authorized to undertake, such additional sums, not to exceed $5,000,000, as may be necessary for that purpose. All appropriations necessary for operation and maintenance of flood-control works authorized by law to be operated and maintained by the United States are hereby authorized.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701b–4, 701c–1 of this title.
 

@@ -18,7 +18,3 @@ As soon as practicable after December 21, 2000, the Secretary shall submit to Co
 
 2001—Subsec. (b). Pub. L. 107–63 substituted “October 3, 2001” for “July 19, 2000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460ppp–1, 460ppp–3 of this title.
-

@@ -106,7 +106,3 @@
 
 (Pub. L. 95–313, §19, as added Pub. L. 101–624, title XII, §1222, Nov. 28, 1990, 104 Stat. 3540.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2103, 2103b, 2103c of this title.
-

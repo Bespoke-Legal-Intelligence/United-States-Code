@@ -36,7 +36,3 @@ Section 25 of the Federal Reserve Act, referred to in subsec. (b)(1)(A)(ii), is 
 
 The Federal Credit Union Act, referred to in subsec. (b)(1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6824 of this title.
-

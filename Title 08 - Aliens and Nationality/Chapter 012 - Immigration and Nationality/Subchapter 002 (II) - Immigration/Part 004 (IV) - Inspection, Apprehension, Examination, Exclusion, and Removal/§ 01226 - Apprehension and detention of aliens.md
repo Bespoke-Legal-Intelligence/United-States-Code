@@ -28,7 +28,7 @@ The Attorney General at any time may revoke a bond or parole authorized under su
 
 &emsp;&emsp;(B) is deportable by reason of having committed any offense covered in section 1227(a)(2)(A)(ii), (A)(iii), (B), (C), or (D) of this title,
 
-&emsp;&emsp;(C) is deportable under section 1227(a)(2)(A)(i) of this title on the basis of anoffense for which the alien has been sentence <sup>1</sup> to a term of imprisonment of at least 1 year, or
+&emsp;&emsp;(C) is deportable under section 1227(a)(2)(A)(i) of this title on the basis of an offense for which the alien has been sentence <sup>1</sup> to a term of imprisonment of at least 1 year, or
 
 &emsp;&emsp;(D) is inadmissible under section 1182(a)(3)(B) of this title or deportable under section 1227(a)(4)(B) of this title,
 
@@ -108,7 +108,7 @@ In general.—During the period in which this paragraph is in effect pursuant to
 
 Release.—The Attorney General may release the alien only if the alien is an alien described in subparagraph (A)(ii) or (A)(iii) and—
 
-&emsp;&emsp;“(i) the alien was lawfully admitted to the United States and satisfies the Attorney General that the alien will not pose a danger to the safety of other persons or of property and is likely to appear for any scheduled proceeding, or
+&emsp;&emsp;“(i) the alien was lawfully admitted to the United States and satisfies the Attorney General that thealien will not pose a danger to the safety of other persons or of property and is likely to appear for any scheduled proceeding, or
 
 &emsp;&emsp;“(ii) the alien was not lawfully admitted to the United States, cannot be removed because the designated country of removal will not accept the alien, and satisfies the Attorney General that the alien will not pose a danger to the safety of other persons or of property and is likely to appear for any scheduled proceeding.”
 
@@ -198,7 +198,7 @@ Treatment of certain facilities.—All of the incarceration facilities within th
 
 #### “SEC. 2. STUDY AND REPORT.
 
-“Not later than 1 year after the date of the enactment of this Act \[Dec. 5, 1997\], the Attorney Generalshall complete a study, and submit a report to the Congress, concerning the logistical and technological feasibility of implementing the program under section 1 in a greater number of locations than those selected under such section through—
+“Not later than 1 year after the date of the enactment of this Act \[Dec. 5, 1997\], the Attorney General shall complete a study, and submit a report to the Congress, concerning the logistical and technological feasibility of implementing the program under section 1 in a greater number of locations than those selected under such section through—
 
 &emsp;“(1) the assignment of a single Immigration and Naturalization Service employee to more than 1 incarceration facility; and
 
@@ -219,10 +219,6 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 &emsp;“(1) $3,400,000 for fiscal year 1996; and
 
 &emsp;“(2) $5,000,000 for each of fiscal years 1997 through 2001.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1228, 1368 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sentenced”.</i>
 

@@ -20,7 +20,7 @@ The purposes of this subchapter are to—
 
 &emsp;&emsp;(A) privacy and confidentiality, including section 552a of title 5;
 
-&emsp;&emsp;(B) security of information, including section 11332 of title 40 <sup>1</sup>; and
+&emsp;&emsp;(B) security of information, including section 11332 of title 40 <sup>1</sup> ; and
 
 &emsp;&emsp;(C) access to information, including section 552 of title 5;
 
@@ -50,7 +50,7 @@ Another prior section 3501, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302, rela
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
+Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] ofPub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
 
 #### Effective Date
 
@@ -82,7 +82,7 @@ This chapter is popularly known as the “Paperwork Reduction Act”.
 
 #### Federal Management and Promotion of Electronic Government Services
 
-Pub. L. 107–347, title II, Dec. 17, 2002, 116 Stat. 2910, provided that:
+Pub. L. 107–347, title II, Dec. 17, 2002, 116 Stat. 2910, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–281, §1, Aug. 2, 2004, 118 Stat. 889, provided that:
 
 #### “SEC. 201. DEFINITIONS.
 
@@ -220,7 +220,7 @@ Criteria.—To the extent practicable, the integrated system shall be designed a
 
 &emsp;&emsp;“(B) An ongoing effort to ensure that Internet-based Government services relevant to a given citizen activity are available from a single point.
 
-&emsp;&emsp;“(C) Access to Federal Government information and services consolidated, as appropriate, withInternet-based information and services provided by State, local, and tribal governments.
+&emsp;&emsp;“(C) Access to Federal Government information and services consolidated, as appropriate, with Internet-based information and services provided by State, local, and tribal governments.
 
 &emsp;&emsp;“(D) Access to Federal Government information held by 1 or more agencies shall be made available in a manner that protects privacy, consistent with law.
 
@@ -274,19 +274,31 @@ Exceptions.—Documents that are filed that are not otherwise available to the p
 
 &emsp;“(3)
 
-Privacy and security concerns.—(A)(i) The Supreme Court shall prescribe rules, in accordance with sections 2072 and 2075 of title 28, United States Code, to protect privacy and security concerns relating to electronic filing of documents and the public availability under this subsection of documents filed electronically.
+Privacy and security concerns.—
 
-&emsp;“(ii) Such rules shall provide to the extent practicable for uniform treatment of privacy and security issues throughout the Federal courts.
+&emsp;&emsp;“(A)(i) The Supreme Court shall prescribe rules, in accordance with sections 2072 and 2075 of title 28, United States Code, to protect privacy and security concerns relating to electronic filing of documents and the public availability under this subsection of documents filed electronically or converted to electronic form.
 
-&emsp;“(iii) Such rules shall take into consideration best practices in Federal and State courts to protect private information or otherwise maintain necessary information security.
+&emsp;&emsp;“(ii) Such rules shall provide to the extent practicable for uniform treatment of privacy and security issues throughout the Federal courts.
 
-&emsp;“(iv) To the extent that such rules provide for the redaction of certain categories of information in order to protect privacy and security concerns, such rules shall provide that a party that wishes to file an otherwise proper document containing such information may file an unredacted document under seal, which shall be retained by the court as part of the record, and which, at the discretion of the court and subject to any applicable rules issued in accordance with chapter 131 of title 28, United States Code, shall be either in lieu of, or in addition, to, a redacted copy in the public file.
+&emsp;&emsp;“(iii) Such rules shall take into consideration best practices in Federal and State courts to protect private information or otherwise maintain necessary information security.
 
-&emsp;“(B)(i) Subject to clause (ii), the Judicial Conference of the United States may issue interim rules, and interpretive statements relating to the application of such rules, which conform to the requirements of this paragraph and which shall cease to have effect upon the effective date of the rules required under subparagraph (A).
+&emsp;&emsp;“(iv) Except as provided in clause (v), to the extent that such rules provide for the redaction of certain categories of information in order to protect privacy and security concerns, such rules shall provide that a party that wishes to file an otherwise proper document containing such protected information may file an unredacted document under seal, which shall be retained by the court as part of the record, and which, at the discretion of the court and subject to any applicable rules issued in accordance with chapter 131 of title 28, United States Code, shall be either in lieu of, or in addition to, a redacted copy in the public file.
 
-&emsp;“(ii) Pending issuance of the rules required under subparagraph (A), any rule or order of any court, or of the Judicial Conference, providing for the redaction of certain categories of information in order to protect privacy and security concerns arising from electronic filing shall comply with, and be construed in conformity with, subparagraph (A)(iv).
+&emsp;&emsp;“(v) Such rules may require the use of appropriate redacted identifiers in lieu of protected information described in clause (iv) in any pleading, motion, or other paper filed with the court (except with respect to a paper that is an exhibit or other evidentiary matter, or with respect to a reference list described in this subclause), or in any written discovery response—
 
-&emsp;“(C) Not later than 1 year after the rules prescribed under subparagraph (A) take effect, and every 2 years thereafter, the Judicial Conference shall submit to Congress a report on the adequacy of those rules to protect privacy and security.
+&emsp;&emsp;&emsp;“(I) by authorizing the filing under seal, and permitting the amendment as of right under seal, of a reference list that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(aa) identifies each item of unredacted protected information that the attorney or, ifthere is no attorney, the party, certifies is relevant to the case; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(bb) specifies an appropriate redacted identifier that uniquely corresponds to each item of unredacted protected information listed; and
+
+&emsp;&emsp;&emsp;“(II) by providing that all references in the case to the redacted identifiers in such reference list shall be construed, without more, to refer to the corresponding unredacted item of protected information.
+
+&emsp;&emsp;“(B)(i) Subject to clause (ii), the Judicial Conference of the United States may issue interim rules, and interpretive statements relating to the application of such rules, which conform to the requirements of this paragraph and which shall cease to have effect upon the effective date of the rules required under subparagraph (A).
+
+&emsp;&emsp;“(ii) Pending issuance of the rules required under subparagraph (A), any rule or order of any court, or of the Judicial Conference, providing for the redaction of certain categories of information in order to protect privacy and security concerns arising from electronic filing or electronic conversion shall comply with, and be construed in conformity with, subparagraph (A)(iv).
+
+&emsp;&emsp;“(C) Not later than 1 year after the rules prescribed under subparagraph (A) take effect, and every 2 years thereafter, the Judicial Conference shall submit to Congress a report on the adequacy of those rules to protect privacy and security.
 
 “(d)
 
@@ -486,7 +498,7 @@ Committee functions.—Not later than 2 years after the date of enactment of thi
 
 Functions of the archivist.—Not later than 1 year after the submission of recommendations by the Committee under paragraph (1), the Archivist of the United States shall issue policies—
 
-&emsp;&emsp;“(A) requiring the adoption by agencies of policies and procedures to ensure that chapters 21, 25,27, 29, and 31 of title 44, United States Code, are applied effectively and comprehensively to Government information on the Internet and to other electronic records; and
+&emsp;&emsp;“(A) requiring the adoption by agencies of policies and procedures to ensure that chapters 21, 25, 27, 29, and 31 of title 44, United States Code, are applied effectively and comprehensively to Government information on the Internet and to other electronic records; and
 
 &emsp;&emsp;“(B) imposing timetables for the implementation of the policies, procedures, and technologies by agencies.
 
@@ -824,7 +836,7 @@ Information technology training reporting.—The Director of the Office of Manag
 
 &emsp;“(6)
 
-Authority to detail employees to non-Federal employers.—In carrying out the preceding provisions of this subsection, the Director of the Office of Personnel Management may provide for a program under which a Federal employee may be detailed to a non-Federal employer. The Director of the Office of Personnel Management shall prescribe regulations for such program, including the conditions for service and duties as the Director considers necessary.
+Authority to detail employees to non-Federal employers.—In carrying out the preceding provisions of this subsection, the Director of the Office of Personnel Management may provide for a programunder which a Federal employee may be detailed to a non-Federal employer. The Director of the Office of Personnel Management shall prescribe regulations for such program, including the conditions for service and duties as the Director considers necessary.
 
 &emsp;“(7)
 
@@ -852,7 +864,7 @@ In general.—\[Enacted chapter 37 of Title 5, Government Organization and Emplo
 
 &emsp;“(2)
 
-Report.—Not later than 4 years after the date of the enactment of this Act \[Dec. 17, 2002\], the General Accounting Office shall prepare and submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate a report on the operation of chapter 37 of title 5, United States Code (as added by this subsection). Such report shall include—
+Report.—Not later than 4 years after the date of the enactment of this Act \[Dec. 17, 2002\], the Government Accountability Office shall prepare and submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report on the operation of chapter 37 of title 5, United States Code (as added by this subsection). Such report shall include—
 
 &emsp;&emsp;“(A) an evaluation of the effectiveness of the program established by such chapter; and
 
@@ -898,7 +910,7 @@ Exchange program defined.—For purposes of this subsection, the term ‘exchang
 
 &emsp;“(2)
 
-Reporting requirement.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 2002\], the Office of Personnel Management shall prepare and submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate a report identifying all existing exchange programs.
+Reporting requirement.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 2002\], the Office of Personnel Management shall prepare and submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report identifying all existing exchange programs.
 
 &emsp;“(3)
 
@@ -918,7 +930,7 @@ Report on the Establishment of a Governmentwide Information Technology Training 
 
 &emsp;“(1)
 
-In general.—Not later January 1, 2003, the Office of Personnel Management, in consultation with the Chief Information Officers Council and the Administrator of General Services, shall review and submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate a written report on the following:
+In general.—Not later January 1, 2003, the Office of Personnel Management, in consultation with the Chief Information Officers Council and the Administrator of General Services, shall review and submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a written report on the following:
 
 &emsp;&emsp;“(A) The adequacy of any existing information technology training programs available to Federal employees on a Governmentwide basis.
 
@@ -960,7 +972,7 @@ Other Contracts.—\[Enacted section 266a of Title 41.\]
 
 “(c)
 
-Development of Incentives.—The Director of the Office of Management and Budget shall, in consultation with the Committee on Governmental Affairs of the Senate, the Committee on Government Reform of the House of Representatives, and executive agencies, develop techniques to permit an executive agency to retain a portion of the savings (after payment of the contractor's share of the savings) derived from share-in-savings contracts as funds are appropriated to the agency in future fiscal years.
+Development of Incentives.—The Director of the Office of Management and Budget shall, in consultation with the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform of the House of Representatives, and executive agencies, develop techniques to permit an executive agency to retain a portion of the savings (after payment of the contractor's share of the savings) derived from share-in-savings contracts as funds are appropriated to the agency in future fiscal years.
 
 “(d)
 
@@ -1040,7 +1052,7 @@ Procedures.—Not later than 30 days after the date of the enactment of this Act
 
 “(c)
 
-Report.—Not later than December 31, 2004, the Administrator shall submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate a report on the implementation and effects of the amendment made by subsection (a).
+Report.—Not later than December 31, 2004, the Administrator shall submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report on the implementation and effects of the amendment made by subsection (a).
 
 #### “SEC. 212. INTEGRATED REPORTING STUDY AND PILOT PROJECTS.
 
@@ -1068,7 +1080,7 @@ Report.—
 
 &emsp;“(1)
 
-In general.—Not later than 3 years after the date of enactment of this Act \[Dec. 17, 2002\], the Director shall oversee a study, in consultation with agencies, the regulated community, public interest organizations, and the public, and submit a report to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives on progress toward integrating Federal information systems across agencies.
+In general.—Not later than 3 years after the date of enactment of this Act \[Dec. 17, 2002\], the Director shall oversee a study, in consultation with agencies, the regulated community, public interest organizations, and the public, and submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform of the House of Representatives on progress toward integrating Federal information systems across agencies.
 
 &emsp;“(2)
 
@@ -1148,7 +1160,7 @@ Study and Report.—Not later than 2 years after the effective date of this titl
 
 &emsp;“(2) submit a report on the study to—
 
-&emsp;&emsp;“(A) the Committee on Governmental Affairs of the Senate;
+&emsp;&emsp;“(A) the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate;
 
 &emsp;&emsp;“(B) the Committee on Health, Education, Labor, and Pensions of the Senate;
 
@@ -1252,7 +1264,7 @@ In General.—
 
 &emsp;“(1)
 
-Study on enhancement of crisis response.—Not later than 90 days after the date of enactment of this Act \[Dec. 17, 2002\], the Administrator, in consultation with the Federal Emergency Management Agency, shall ensure that a study is conducted on using information technology to enhance crisis preparedness, response, and consequence management of natural and manmade disasters.
+Study on enhancement of crisis response.—Not later than 90 days after the date of enactment of this Act \[Dec. 17, 2002\], the Administrator, in consultation with the Federal Emergency Management Agency, shall ensure that a study is conducted onusing information technology to enhance crisis preparedness, response, and consequence management of natural and manmade disasters.
 
 &emsp;“(2)
 
@@ -1270,7 +1282,7 @@ Contents.—The study under this subsection shall address—
 
 Report.—Not later than 2 years after the date on which a contract is entered into under paragraph (1), the Administrator shall submit a report on the study, including findings and recommendations to—
 
-&emsp;&emsp;“(A) the Committee on Governmental Affairs of the Senate; and
+&emsp;&emsp;“(A) the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate; and
 
 &emsp;&emsp;“(B) the Committee on Government Reform of the House of Representatives.
 
@@ -1298,7 +1310,7 @@ Study.—Not later than 90 days after the date of enactment of this Act \[Dec. 1
 
 &emsp;“(2)
 
-Report.—Not later than 2 years after the date of enactment of this Act, the Administrator of General Services shall submit to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives a final report of the study under this section, which shall set forth the findings, conclusions, and recommendations of the National Research Council.
+Report.—Not later than 2 years after the date of enactment of this Act, the Administrator of General Services shall submit to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform of the House of Representatives a final report of the study under this section, which shall set forth the findings, conclusions, and recommendations of the National Research Council.
 
 “(b)
 
@@ -1320,7 +1332,7 @@ Contents.—The report under subsection (a) shall include a study of—
 
 “(c)
 
-Recommendations.—The report shall include recommendations on actions to ensure that online Government initiatives shall not have the unintended result ofincreasing any deficiency in public access to Government services.
+Recommendations.—The report shall include recommendations on actions to ensure that online Government initiatives shall not have the unintended result of increasing any deficiency in public access to Government services.
 
 “(d)
 
@@ -1381,6 +1393,8 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 #### Information Security Responsibilities of Certain Agencies
 
 Pub. L. 107–347, title III, §301(c)(1)(A), Dec. 17, 2002, 116 Stat. 2955, provided that: “Nothing in this Act \[see Tables for classification\] (including any amendment made by this Act) shall supersede any authority of the Secretary of Defense, the Director of Central Intelligence, or other agency head, as authorized by law and as directed by the President, with regard to the operation, control, or management of national security systems, as defined by section 3542(b)(2) of title 44, United States Code.”
+
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
 #### Atomic Energy Act of 1954
 
@@ -1458,9 +1472,9 @@ Reports.—
 
 &emsp;“(1) The head of each agency shall provide to the Director of the Office of Management and Budget such reports and other information as the Director requests.
 
-&emsp;“(2) Each Designated Statistical Agency referred to in section 522 shall report annually to the Director of the Office of Management and Budget, the Committee on Government Reform of the House of Representatives, and the Committee on Governmental Affairs of the Senate on the actions it has taken to implement sections 523 and 524. The report shall include copies of each written agreement entered into pursuant to section 524(a) for the applicable year.
+&emsp;“(2) Each Designated Statistical Agency referred to in section 522 shall report annually to the Director of the Office of Management and Budget, the Committee on Government Reform of the House of Representatives, and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate on the actions it has taken to implement sections 523 and 524. The report shall include copies of each written agreement entered into pursuant to section 524(a) for the applicable year.
 
-&emsp;“(3) The Director of the Office of Management and Budget shall include a summary of reports submitted to the Director under paragraph (2) and actions taken by the Director to advance the purposes of this title in the annual report to the Congress on statistical programs prepared under section 3504(e)(2) of title 44, United States Code.
+&emsp;“(3) The Director of the Office of Management and Budget shall include a summary of reports submitted to the Director under paragraph (2) and actions takenby the Director to advance the purposes of this title in the annual report to the Congress on statistical programs prepared under section 3504(e)(2) of title 44, United States Code.
 
 #### “SEC. 504. EFFECT ON OTHER LAWS.
 
@@ -1566,7 +1580,7 @@ Rule for Use of Data or Information for Nonstatistical Purposes.—A statistical
 
 “(d)
 
-Designation of Agents.—A statistical agency or unit may designate agents, by contract or by entering into a special agreement containing the provisions required under section 502(2) for treatment as an agent under that section, who may perform exclusively statistical activities, subject to the limitations and penalties described in this title.
+Designation of Agents.—A statistical agency or unit may designate agents, by contract or by entering into a special agreement containing the provisions required under section 502(2) for treatment as an agentunder that section, who may perform exclusively statistical activities, subject to the limitations and penalties described in this title.
 
 #### “SEC. 513. FINES AND PENALTIES.
 
@@ -1650,7 +1664,7 @@ In General.—A Designated Statistical Agency may provide business data in an id
 
 “(b)
 
-Responsibilities of Agencies Under Other Laws.—The provision of business data by an agency to a Designated Statistical Agency under this subtitle shall in no way alter the responsibility of the agency providing the data under other statutes (including section 552 of title 5, United States Code (popularly known as the Freedom of Information Act), and section 552b of title 5, United States Code (popularly known as the Privacy Act of 1974 \[Pub. L. 93–579, see Short Title note set out under section 552a of Title 5, Government Organization and Employees\])) with respect to the provision or withholding of such information by the agency providing the data.
+Responsibilities of Agencies Under Other Laws.—The provision of business data by an agency to a Designated Statistical Agency under this subtitle shall in no way alter the responsibility of the agency providing the data under other statutes (including section 552 of title 5, United States Code (popularly known as the Freedom of Information Act), and section 552b of title 5, United States Code (popularly known as the Privacy Act of 1974 \[Pub. L. 93–579, see Short Title note setout under section 552a of Title 5, Government Organization and Employees\])) with respect to the provision or withholding of such information by the agency providing the data.
 
 “(c)
 

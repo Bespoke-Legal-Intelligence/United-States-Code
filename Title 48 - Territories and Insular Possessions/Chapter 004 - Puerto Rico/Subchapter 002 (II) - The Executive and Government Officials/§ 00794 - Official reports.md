@@ -18,7 +18,7 @@ Coordination of Functions and Policies of Federal Civil Agencies in Puerto Rico 
 
 Ex. Ord. No. 9383, eff. Oct. 5, 1943, 8 F.R. 13781, provided:
 
-1\. Each Federal civil agency performing services in Puerto Rico or in the Virgin Islands shall make current reports to the Secretary of the Interior concerning the work of such agency in such manner and form and at such times as may be prescribed by the Secretary of the Interior.
+1\. Each Federal civil agency performing services in Puerto Rico or in the Virgin Islands shall make currentreports to the Secretary of the Interior concerning the work of such agency in such manner and form and at such times as may be prescribed by the Secretary of the Interior.
 
 2\. The Secretary of the Interior shall make such recommendations to the heads of Federal civil agencies so reporting as may in his judgment serve to correlate the work of such agencies in Puerto Rico and in the Virgin Islands, eliminate unessential Federal activities, assist insular agencies to assume increasing responsibility in civil administration, meet more efficiently the needs of the people of Puerto Rico and the Virgin Islands for essential Federal services, and implement the policies of the United States with respect to its island possessions.
 

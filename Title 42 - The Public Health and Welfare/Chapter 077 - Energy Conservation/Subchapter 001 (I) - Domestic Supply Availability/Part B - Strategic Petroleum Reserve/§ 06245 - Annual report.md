@@ -48,7 +48,7 @@ Pub. L. 97–229, §6, Aug. 3, 1982, 96 Stat. 253, provided that:
 
 “(a)
 
-Impact Analysis.—(1) The Secretary of Energy shall analyze the impact on the domestic economy and on consumers in the United States of reliance on market allocation and pricing during any substantial reduction in the amount of petroleum products available to the United States. In making such analysis, the Secretary of Energy may consult with the Secretary of the Treasury, the Secretary of Agriculture, the Director of the Office of Management and Budget, and the heads of other appropriate Federal agencies. Such analysis shall—
+Impact Analysis.—(1) The Secretary of Energy shall analyze the impact on the domestic economy and on consumers in the United States of reliance on market allocation and pricing during any substantial reduction in the amount of petroleum products available to the United States. In making such analysis, the Secretary of Energy may consult with the Secretary of the Treasury, the Secretary of Agriculture, the Director of the Office of Management and Budget, and the heads ofother appropriate Federal agencies. Such analysis shall—
 
 &emsp;“(A) examine the equity and efficiency of such reliance,
 
@@ -89,8 +89,4 @@ Strategic Alcohol Fuel Reserve Report.—The Secretary of Energy shall, in consu
 “(e)
 
 Meaning of Terms.—As used in this section, the terms ‘international energy program’, ‘petroleum product’, ‘Reserve’, ‘severe energy supply interruption’, and ‘Strategic Petroleum Reserve’ have the meanings given such terms in sections 3 and 152 of the Energy Policy and Conservation Act (42 U.S.C. 6202 and 6232).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6241 of this title.
 

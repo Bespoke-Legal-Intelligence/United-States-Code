@@ -18,9 +18,5 @@ The President shall prescribe for each technical office established under subsec
 
 #### Delegation of Functions
 
-Functions of President under subsec. (b) of this section delegated to Secretary of Commerce regarding technical office established under subsec. (a)(1) of this section, and to Secretary of Agriculture regarding technical office established under subsec. (a)(2) of thissection, see section 1–103(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 990, set out as a note under section 2171 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2544 of this title.
+Functions of President under subsec. (b) of this section delegated to Secretary of Commerce regarding technical office established under subsec. (a)(1) of this section, and to Secretary of Agriculture regarding technical office established under subsec. (a)(2) of this section, see section 1–103(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 990, set out as a note under section 2171 of this title.
 

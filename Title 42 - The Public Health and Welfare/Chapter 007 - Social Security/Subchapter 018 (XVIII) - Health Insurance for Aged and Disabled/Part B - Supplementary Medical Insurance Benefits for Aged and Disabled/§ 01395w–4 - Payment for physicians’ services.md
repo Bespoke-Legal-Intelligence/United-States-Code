@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the actual charge for the service, or
 
-&emsp;&emsp;(B) subject to the succeeding provisions of this subsection, the amount determinedunder the fee schedule established under subsection (b) of this section for services furnished during that year (in this subsection referred to as the “fee schedule amount”).
+&emsp;&emsp;(B) subject to the succeeding provisions of this subsection, the amount determined under the fee schedule established under subsection (b) of this section for services furnished during that year (in this subsection referred to as the “fee schedule amount”).
 
 #### (2) Transition to full fee schedule
 
@@ -46,7 +46,7 @@
 
 #### (C) Special rule for anesthesia and radiology services
 
-&emsp;&emsp;With respect to physicians’ services which are anesthesia services, the Secretary shall provide for a transition in the same manner as a transition is provided for other services under subparagraph (B). With respect to radiology services, “109 percent” and “9 percent” shall be substituted for “115 percent” and “15 percent”, respectively, in subparagraph (A)(ii).
+&emsp;&emsp;With respect to physicians’ services which are anesthesia services, the Secretary shallprovide for a transition in the same manner as a transition is provided for other services under subparagraph (B). With respect to radiology services, “109 percent” and “9 percent” shall be substituted for “115 percent” and “15 percent”, respectively, in subparagraph (A)(ii).
 
 #### (D) “Adjusted historical payment basis” defined
 
@@ -64,7 +64,7 @@
 
 #### (3) Incentives for participating physicians and suppliers
 
-&emsp;In applying paragraph (1)(B) in the case of a nonparticipating physician or a nonparticipating supplier or other person, the fee schedule amount shall be 95 percent of such amount otherwise applied under this subsection (without regard to this paragraph). In the case of physicians’ services (including services which the Secretary excludes pursuant to subsection (j)(3) of this section) of a nonparticipatingphysician, supplier, or other person for which payment is made under this part on a basis other than the fee schedule amount, the payment shall be based on 95 percent of the payment basis for such services furnished by a participating physician, supplier, or other person.
+&emsp;In applying paragraph (1)(B) in the case of a nonparticipating physician or a nonparticipating supplier or other person, the fee schedule amount shall be 95 percent of such amount otherwise applied under this subsection (without regard to this paragraph). In the case of physicians’ services (including services which the Secretary excludes pursuant to subsection (j)(3) of this section) of a nonparticipating physician, supplier, or other person for which payment is made under this part on a basis other than the fee schedule amount, the payment shall be based on 95 percent of the payment basis for such services furnished by a participating physician, supplier, or other person.
 
 #### (4) Special rule for medical direction
 
@@ -106,7 +106,7 @@
 
 #### (B) Anesthesia services
 
-&emsp;&emsp;In establishing the fee schedule for anesthesia services for which a relative value guide has been established under section 4048(b) of the Omnibus Budget Reconciliation Act of 1987, the Secretary shall use, to the extent practicable, such relative value guide, with appropriate adjustment of the conversion factor, in a manner to assure that the fee schedule amounts for anesthesia services are consistent with the fee schedule amounts for other services determined by the Secretary to be of comparable value. In applying the previous sentence, the Secretary shall adjust the conversion factor by geographic adjustment factors in the same manner as such adjustment is made under paragraph (1)(C).
+&emsp;&emsp;In establishing the fee schedule for anesthesia services for which a relative value guide has been established under section 4048(b) of the Omnibus Budget Reconciliation Act of 1987, the Secretary shall use, to the extent practicable, such relative value guide, with appropriate adjustment of the conversion factor, in a manner to assurethat the fee schedule amounts for anesthesia services are consistent with the fee schedule amounts for other services determined by the Secretary to be of comparable value. In applying the previous sentence, the Secretary shall adjust the conversion factor by geographic adjustment factors in the same manner as such adjustment is made under paragraph (1)(C).
 
 #### (C) Consultation
 
@@ -136,7 +136,7 @@
 
 #### (B) “Practice expense component” defined
 
-&emsp;&emsp;The term “practice expense component” means the portion of the resources used in furnishing the service that reflects the general categories of expenses (such as office rent and wages of personnel, but excludingmalpractice expenses) comprising practice expenses.
+&emsp;&emsp;The term “practice expense component” means the portion of the resources used in furnishing the service that reflects the general categories of expenses (such as office rent and wages of personnel, but excluding malpractice expenses) comprising practice expenses.
 
 #### (C) “Malpractice component” defined
 
@@ -182,7 +182,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) subparagraph (I) insofar as it relates to a physician fee schedule for 2005 or 2006 shall not be taken into account in applying clause (ii)(II) for drug administration services under the fee schedule for such year for a specialty described in subparagraph (I)(ii)(II); and
 
-&emsp;&emsp;&emsp;&emsp;(III) subparagraph (J) insofar as it relates to a physician fee schedule for 2005 or 2006 shall not be taken into account in applying clause (ii)(II) for drug administration services under the fee schedule for such year.
+&emsp;&emsp;&emsp;&emsp;(III) subparagraph (J) insofar as it relates to a physician fee schedule for 2005or 2006 shall not be taken into account in applying clause (ii)(II) for drug administration services under the fee schedule for such year.
 
 #### (C) Computation of relative value units for components
 
@@ -498,7 +498,7 @@
 
 &emsp;&emsp;&emsp;An amount determined by—
 
-&emsp;&emsp;&emsp;&emsp;(I) computing the difference (which may be positive or negative) between the amount of the allowed expenditures forphysicians’ services (as determined under subparagraph (C)) from April 1, 1996, through the end of the prior year and the amount of the actual expenditures for such services during that period;
+&emsp;&emsp;&emsp;&emsp;(I) computing the difference (which may be positive or negative) between the amount of the allowed expenditures for physicians’ services (as determined under subparagraph (C)) from April 1, 1996, through the end of the prior year and the amount of the actual expenditures for such services during that period;
 
 &emsp;&emsp;&emsp;&emsp;(II) dividing that difference by actual expenditures for such services for the prior year as increased by the sustainable growth rate under subsection (f) of this section for the year for which the update adjustment factor is to be determined; and
 
@@ -618,7 +618,7 @@
 
 #### (2) Specification of growth rate
 
-&emsp;The sustainable growth rate for all physicians’ services for a fiscal year (beginning with fiscal year 1998 and ending with fiscal year 2000) and a year beginning with 2000 shall be equal to the product of—
+&emsp;The sustainable growth rate for all physicians’ services for a fiscal year (beginningwith fiscal year 1998 and ending with fiscal year 2000) and a year beginning with 2000 shall be equal to the product of—
 
 &emsp;&emsp;(A) 1 plus the Secretary's estimate of the weighted average percentage increase (divided by 100) in the fees for all physicians’ services in the applicable period involved,
 
@@ -696,7 +696,7 @@
 
 #### (iv) Refund of excess collections
 
-&emsp;&emsp;&emsp;If such a physician, supplier, or other person collects an actual charge for a service in violation of clause (i), the physician, supplier, or other person shall provide on a timely basis a refund to the individual charged in the amount by which the amount collected exceeded the limiting charge for the service. The amount of such a refund shall be reduced to the extent the individual has an outstanding balance owed by the individual to the physician.
+&emsp;&emsp;&emsp;If such a physician, supplier, or other person collects an actual charge for a service in violation of clause (i), the physician,supplier, or other person shall provide on a timely basis a refund to the individual charged in the amount by which the amount collected exceeded the limiting charge for the service. The amount of such a refund shall be reduced to the extent the individual has an outstanding balance owed by the individual to the physician.
 
 #### (B) Sanctions
 
@@ -722,7 +722,7 @@
 
 &emsp;&emsp;&emsp;(ii) the recognized payment amount for the service of the physician (as a nonparticipating physician) as of such date.
 
-> &emsp;&emsp;In the case of evaluation and management services (as specified in section1395u(b)(16)(B)(ii) of this title), the preceding sentence shall be applied by substituting “40 percent” for “25 percent”.
+> &emsp;&emsp;In the case of evaluation and management services (as specified in section 1395u(b)(16)(B)(ii) of this title), the preceding sentence shall be applied by substituting “40 percent” for “25 percent”.
 
 #### (B) For 1992
 
@@ -782,7 +782,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;The Secretary shall, by not later than April 15 of each year (beginning in 1992), report to the Congress information on the extent to which actual charges exceed limitingcharges, the number and types of services involved, and the average amount of excess charges and information regarding the changes described in subparagraph (A)(ii).
+&emsp;&emsp;The Secretary shall, by not later than April 15 of each year (beginning in 1992), report to the Congress information on the extent to which actual charges exceed limiting charges, the number and types of services involved, and the average amount of excess charges and information regarding the changes described in subparagraph (A)(ii).
 
 #### (C) Plan
 
@@ -822,7 +822,7 @@
 
 #### (h) Sending information to physicians
 
-Before the beginning of each year (beginning with 1992), the Secretary shall send to each physician or nonparticipating supplier or other person furnishing physicians’ services (as defined in subsection (j)(3) of this section) furnishing physicians’ services under this part, for services commonly performed by the physician, supplier, or other person, information on fee schedule amounts that apply for the year in the fee schedule area for participating and non-participating physicians, and the maximum amount that may be charged consistent with subsection (g)(2) of this section. Such information shall be transmitted in conjunction with notices to physicians, suppliers, and other persons under section 1395u(h) of this title (relating to the participating physician program) for a year.
+Before the beginning of each year (beginning with 1992), the Secretary shall send to each physician or nonparticipating supplier or other person furnishing physicians’ services (as defined in subsection (j)(3) of this section) furnishing physicians’ services under this part, for services commonly performed by the physician, supplier,or other person, information on fee schedule amounts that apply for the year in the fee schedule area for participating and non-participating physicians, and the maximum amount that may be charged consistent with subsection (g)(2) of this section. Such information shall be transmitted in conjunction with notices to physicians, suppliers, and other persons under section 1395u(h) of this title (relating to the participating physician program) for a year.
 
 #### (i) Miscellaneous provisions
 
@@ -854,7 +854,7 @@ Before the beginning of each year (beginning with 1992), the Secretary shall sen
 
 &emsp;For physicians’ services for which payment under this part is determined under this section—
 
-&emsp;&emsp;(A) a carrier may not make any adjustment in the payment amount under section1395u(b)(3)(B) of this title on the basis that the payment amount is higher than the charge applicable, for comparable services and under comparable circumstances, to the policyholders and subscribers of the carrier,
+&emsp;&emsp;(A) a carrier may not make any adjustment in the payment amount under section 1395u(b)(3)(B) of this title on the basis that the payment amount is higher than the charge applicable, for comparable services and under comparable circumstances, to the policyholders and subscribers of the carrier,
 
 &emsp;&emsp;(B) no payment adjustment may be made under section 1395u(b)(8) of this title, and
 
@@ -880,7 +880,7 @@ In this section:
 
 &emsp;The term “practice expenses” includes all expenses for furnishing physicians’ services, excluding malpractice expenses, physician compensation, and other physician fringe benefits.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1848, as added Pub. L. 101–239, title VI, §6102(a), Dec. 19, 1989, 103 Stat. 2169; amended Pub. L. 101–508, title IV, §§4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), Nov. 5, 1990, 104 Stat. 1388–56, 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; Pub. L. 103–66, title XIII, §§13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), Aug. 10, 1993, 107 Stat. 580–583, 585, 586; Pub. L. 103–432, title I, §§121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), Oct. 31, 1994, 108 Stat. 4409, 4410, 4412, 4415, 4416; Pub. L. 105–33, title IV, §§4022(b)(2)(B), (C), 4102(d), 4103(d), 4104(d), 4105(a)(2), 4106(b), 4501, 4502(a)(1), (b), 4503, 4504(a), 4505(a), (b), (e), (f)(1), 4644(d), 4714(b)(2), Aug. 5, 1997, 111 Stat. 354, 355, 361, 362, 365, 366, 368, 432–437, 488, 510; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(1), (2)(A), (3)(A), (b), title III, §321(k)(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–345 to 1501A–348, 1501A–366; Pub. L. 106–554, §1(a)(6) \[title I, §104(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–469; Pub. L. 108–7, div. N, title IV, §402(a), Feb. 20, 2003, 117 Stat. 548; Pub. L. 108–173, title III, §303(a)(1), (g)(2), title IV, §412, title VI, §§601(a)(1), (2), (b)(1), 602, 611(c), title VII, §736(b)(10), Dec. 8, 2003, 117 Stat. 2233, 2253, 2274, 2300, 2301, 2304, 2356.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1848, as added Pub. L. 101–239, title VI, §6102(a), Dec. 19, 1989, 103 Stat. 2169; amended Pub. L. 101–508, title IV, §§4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), Nov. 5, 1990, 104 Stat. 1388–56, 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; Pub. L. 103–66, title XIII, §§13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), Aug. 10, 1993, 107 Stat. 580–583, 585, 586; Pub. L. 103–432, title I, §§121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), Oct. 31, 1994, 108 Stat. 4409, 4410, 4412, 4415, 4416; Pub. L. 105–33, title IV, §§4022(b)(2)(B), (C), 4102(d), 4103(d), 4104(d), 4105(a)(2), 4106(b), 4501, 4502(a)(1), (b), 4503, 4504(a), 4505(a), (b), (e), (f)(1), 4644(d), 4714(b)(2), Aug. 5, 1997, 111 Stat. 354, 355, 361, 362, 365, 366, 368, 432–437, 488, 510; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(1), (2)(A), (3)(A),\(b), title III, §321(k)(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–345 to 1501A–348, 1501A–366; Pub. L. 106–554, §1(a)(6) \[title I, §104(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–469; Pub. L. 108–7, div. N, title IV, §402(a), Feb. 20, 2003, 117 Stat. 548; Pub. L. 108–173, title III, §303(a)(1), (g)(2), title IV, §412, title VI, §§601(a)(1), (2), (b)(1), 602, 611(c), title VII, §736(b)(10), Dec. 8, 2003, 117 Stat. 2233, 2253, 2274, 2300, 2301, 2304, 2356.)
 
 #### References in Text
 
@@ -964,7 +964,7 @@ Subsec. (f)(4). Pub. L. 106–113, §1000(a)(6) \[title II, §211(b)(4)\], redes
 
 Subsec. (j)(3). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(5)\], substituted “section 1395x(<i>oo</i>)(2) of this title)” for “section 1395x(<i>oo</i>)(2) of this title,”, “(B),” for “(B),”, and “, and (15)” for “and (15)”.
 
-1997—Subsec. (b)(1). Pub. L. 105–33, §4644(d), substituted “Before November 1 of the preceding year, for each year beginning with 1998” for “Before January 1 of each year beginning with 1992” in introductory provisions.
+1997—Subsec. (b)(1). Pub. L. 105–33, §4644(d), substituted “Before November 1 of the preceding year, foreach year beginning with 1998” for “Before January 1 of each year beginning with 1992” in introductory provisions.
 
 Subsec. (c)(2)(B)(iii). Pub. L. 105–33, §4022(b)(2)(C), substituted “Medicare Payment Advisory Commission” for “Physician Payment Review Commission”.
 
@@ -1002,7 +1002,7 @@ Subsec. (d)(2)(F). Pub. L. 105–33, §4022(b)(1)(B)(i), struck out heading and 
 
 Subsec. (d)(3). Pub. L. 105–33, §4502(a)(1), amended heading and text generally. Prior to amendment, text related to updates of conversion factor based on index and made provision for adjustments in update.
 
-Subsec. (f). Pub. L. 105–33, §4503(b), amended subsec. heading and heading and text of par. (1) generally.Prior to amendment, par. (1) related to process for establishing medicare volume performance standard rates of increase.
+Subsec. (f). Pub. L. 105–33, §4503(b), amended subsec. heading and heading and text of par. (1) generally. Prior to amendment, par. (1) related to process for establishing medicare volume performance standard rates of increase.
 
 Subsec. (f)(1)(B). Pub. L. 105–33, §4022(b)(2)(B)(ii), struck out heading and text of subpar. (B). Text read as follows: “The Physician Payment Review Commission shall review the recommendation transmitted during a year under subparagraph (A) and shall make its recommendation to Congress, by not later than May 15 of the year, respecting the performance standard rates of increase for the fiscal year beginning in that year.”
 
@@ -1042,7 +1042,7 @@ Pub. L. 103–432, §122(a), substituted “shall, in consultation with appropri
 
 Subsec. (e)(1)(D). Pub. L. 103–432, §122(b), added subpar. (D).
 
-Subsec. (f)(2)(A)(i). Pub. L. 103–432, §126(g)(7), made technical amendment to directory language of Pub. L. 101–508, §4118(f)(1)(N)(ii). See 1990 Amendment note below.
+Subsec. (f)(2)(A)(i). Pub. L. 103–432, §126(g)(7), made technical amendment to directory language of Pub. L.101–508, §4118(f)(1)(N)(ii). See 1990 Amendment note below.
 
 Subsec. (f)(2)(C). Pub. L. 103–432, §126(g)(2)(B), inserted heading.
 
@@ -1064,7 +1064,7 @@ Subsec. (a)(4). Pub. L. 103–66, §13516(a)(1), added par. (4).
 
 Pub. L. 103–66, §13515(a)(1), struck out heading and text of par. (4). Text read as follows: “In the case of physicians’ services furnished by a physician before the end of the physician's first full calendar year of furnishing services for which payment may be made under this part, and during each of the 3 succeeding years, the fee schedule amount to be applied shall be 80 percent, 85 percent, 90 percent, and 95 percent, respectively, of the fee schedule amount applicable to physicians who are not subject to this paragraph. The preceding sentence shall not apply to primary care services or services furnished in a rural area (as defined in section 1395ww(d)(2) of this title) that is designated under section 249(a)(1)(A) of this title as a health manpower shortage area.”
 
-Subsec. (b)(3). Pub. L. 103–66, §13514(a), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “If payment is made under this part for a visit to a physician or consultation with aphysician and, as part of or in conjunction with the visit or consultation there is an electrocardiogram performed or ordered to be performed, no payment may be made under this part with respect to the interpretation of the electrocardiogram and no physician may bill an individual enrolled under this part separately for such an interpretation. If a physician knowingly and willfully bills one or more individuals in violation of the previous sentence, the Secretary may apply sanctions against the physician or entity in accordance with section 1395u(j)(2) of this title.”
+Subsec. (b)(3). Pub. L. 103–66, §13514(a), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “If payment is made under this part for a visit to a physician or consultation with a physician and, as part of or in conjunction with the visit or consultation there is an electrocardiogram performed or ordered to be performed, no payment may be made under this part with respect to the interpretation of the electrocardiogram and no physician may bill an individual enrolled under this part separately for such an interpretation. If a physician knowingly and willfully bills one or more individuals in violation of the previous sentence, the Secretary may apply sanctions against the physician or entity in accordance with section 1395u(j)(2) of this title.”
 
 Subsec. (c)(2)(A)(i). Pub. L. 103–66, §13515(c)(2), inserted before period at end “and section 13515(b) of the Omnibus Budget Reconciliation Act of 1993”.
 
@@ -1106,7 +1106,7 @@ Pub. L. 103–66, §13517(a)(6), inserted “, except for purposes of subsectio
 
 1990—Subsec. (a)(1). Pub. L. 101–508, §4104(b)(2), struck out “or 1395m(f)” after “section 1395m(b)” in introductory provisions.
 
-Subsec. (a)(2)(C). Pub. L. 101–508, §4102(b), inserted “and radiology” after “Special rule for anesthesia” in heading and inserted at end “With respect to radiology services, ‘109 percent’ and ‘9 percent’ shall be substituted for ‘115 percent’ and ‘15 percent’, respectively, in subparagraph (A)(ii).”
+Subsec. (a)(2)(C). Pub. L. 101–508, §4102(b), inserted “and radiology” after “Special rule for anesthesia” in heading and inserted at end “With respect to radiologyservices, ‘109 percent’ and ‘9 percent’ shall be substituted for ‘115 percent’ and ‘15 percent’, respectively, in subparagraph (A)(ii).”
 
 Subsec. (a)(2)(D)(ii). Pub. L. 101–508, §4102(g)(2)(A), inserted “, but excluding nuclear medicine services that are subject to section 6105(b) of the Omnibus Budget Reconciliation Act of 1989” after “section 1395m(b)(6) of this title)”.
 
@@ -1202,7 +1202,7 @@ Subsec. (i)(2). Pub. L. 101–508, §4107(a)(1), added par. (2).
 
 Subsec. (i)(3). Pub. L. 101–508, §4118(k), added par. (3).
 
-Subsec. (j)(1). Pub. L. 101–508, §4118(f)(1)(S), which directed the amendment of par. (1) by substituting “(as defined by the Secretary) and all other physicians’ services” for “, and such other” and all that follows through the period was executed by making the substitution for “, and such other category or categories of physicians’ services as the Secretary, from time to time, defines in regulation.” to reflect the probable intent of Congress.
+Subsec. (j)(1). Pub. L. 101–508, §4118(f)(1)(S), which directed the amendment of par. (1) by substituting “(asdefined by the Secretary) and all other physicians’ services” for “, and such other” and all that follows through the period was executed by making the substitution for “, and such other category or categories of physicians’ services as the Secretary, from time to time, defines in regulation.” to reflect the probable intent of Congress.
 
 #### Change of Name
 
@@ -1234,7 +1234,7 @@ Amendment by section 4103(d) of Pub. L. 105–33 applicable to items and service
 
 Amendment by section 4104(d) of Pub. L. 105–33 applicable to items and services furnished on or after Jan. 1, 1998, see section 4104(e) of Pub. L. 105–33, set out as a note under section 1395<i>l</i> of this title.
 
-Amendment by section 4105(a)(2) of Pub. L. 105–33 applicable to items and services furnished on or afterJuly 1, 1998, see section 4105(d)(1) of Pub. L. 105–33, set out as a note under section 1395m of this title.
+Amendment by section 4105(a)(2) of Pub. L. 105–33 applicable to items and services furnished on or after July 1, 1998, see section 4105(d)(1) of Pub. L. 105–33, set out as a note under section 1395m of this title.
 
 Amendment by section 4106(b) of Pub. L. 105–33 applicable to bone mass measurements performed on or after July 1, 1998, see section 4106(d) of Pub. L. 105–33, set out as a note under section 1395x of this title.
 
@@ -1386,7 +1386,7 @@ Study.—The Comptroller General of the United States shall conduct a study of d
 
 &emsp;“(C) an evaluation of the methods used to determine professional liability insurance costs used in computing the malpractice component, including a review of increases in professional liability insurance premiums and variation in such increases by State and physician specialty and methods used to update the geographic cost of practice index and relative weights for the malpractice component; and
 
-&emsp;“(D) an evaluation of the effect of the adjustment to the physician work geographic index under section 1848(e)(1)(E) of the Social Security Act \[subsection (e)(1)(E) of this section\], as added by section 412, onphysician location and retention in areas affected by such adjustment, taking into account—
+&emsp;“(D) an evaluation of the effect of the adjustment to the physician work geographic index under section 1848(e)(1)(E) of the Social Security Act \[subsection (e)(1)(E) of this section\], as added by section 412, on physician location and retention in areas affected by such adjustment, taking into account—
 
 &emsp;&emsp;“(i) differences in recruitment costs and retention rates for physicians, including specialists, between large urban areas and other areas; and
 
@@ -1472,7 +1472,7 @@ Report.—Not later than January 1, 2005, the Commission shall submit to Congres
 
 #### Report on Physician Compensation
 
-Pub. L. 108–173, title IX, §953(a)(2), Dec. 8, 2003, 117 Stat. 2428, provided that: “Not later than 12 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Comptroller General shall submit to Congress a report on all aspects of physician compensation for services furnished under title XVIII of the Social Security Act \[this subchapter\], and how those aspects interact and the effect on appropriate compensation for physician services. Such report shall review alternativesfor the physician fee schedule under section 1848 of such title (42 U.S.C. 1395w–4).”
+Pub. L. 108–173, title IX, §953(a)(2), Dec. 8, 2003, 117 Stat. 2428, provided that: “Not later than 12 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Comptroller General shall submit to Congress a report on all aspects of physician compensation for services furnished under title XVIII of the Social Security Act \[this subchapter\], and how those aspects interact and the effect on appropriate compensation for physician services. Such report shall review alternatives for the physician fee schedule under section 1848 of such title (42 U.S.C. 1395w–4).”
 
 #### Treatment of Certain Physician Pathology Services Under Medicare
 
@@ -1624,7 +1624,7 @@ Section 4106(c) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, 
 
 #### Publication of Performance Standard Rates
 
-Section 4105(d) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §126(g)(2)(C), Oct. 31, 1994, 108 Stat. 4416, provided that: “Not later than 45 days after thedate of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Health and Human Services, based on the most recent data available, shall estimate and publish in the Federal Register the performance standard rates of increase specified in section 1848(f)(2)(C) of the Social Security Act \[subsec. (f)(2)(C) of this section\] for fiscal year 1991.”
+Section 4105(d) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §126(g)(2)(C), Oct. 31, 1994, 108 Stat. 4416, provided that: “Not later than 45 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Health and Human Services, based on the most recent data available, shall estimate and publish in the Federal Register the performance standard rates of increase specified in section 1848(f)(2)(C) of the Social Security Act \[subsec. (f)(2)(C) of this section\] for fiscal year 1991.”
 
 #### Study of Regional Variations in Impact of Medicare Physician Payment Reform
 
@@ -1663,8 +1663,4 @@ Pub. L. 101–239, title VI, §6102(d), Dec. 19, 1989, 103 Stat. 2185, as amende
 #### Distribution of Model Fee Schedule
 
 Section 6102(e)(11) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV, §4118(f)(2)(E), Nov. 5, 1990, 104 Stat. 1388–70, provided that: “By September 1, 1990, the Secretary of Health and Human Services shall develop a Model Fee Schedule, using the methodology set forth in section 1848 of the Social Security Act \[this section\]. The Model Fee Schedule shall include as many services as the Secretary of Health and Human Services concludes can be assigned valid relative values. The Secretary of Health and Human Services shall submit the Model Fee Schedule to the appropriate committees of Congress and make it generally available to the public.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395a, 1395b–6, 1395f, 1395<i>l</i>, 1395m, 1395u, 1395w–22, 1395w–23, 1395y, 1395ff, 1395qq, 1395rr, 1395ww of this title; title 5 section 8904; title 10 section 1079.
 

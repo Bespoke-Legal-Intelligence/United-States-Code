@@ -12,7 +12,3 @@ It shall be the policy of the Federal Government, in partnership with the States
 
 (Pub. L. 103–451, §3, Nov. 2, 1994, 108 Stat. 4770.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5403, 5404 of this title.
-

@@ -14,7 +14,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Words “the accounts of a district land office” substituted for “a register's accounts” and “officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of 1946 Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 99 of this title.
-

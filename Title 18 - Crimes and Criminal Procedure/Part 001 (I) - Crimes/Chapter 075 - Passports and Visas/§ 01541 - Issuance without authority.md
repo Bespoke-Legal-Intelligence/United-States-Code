@@ -34,9 +34,5 @@ Pub. L. 103–322, §130009(a)(1), substituted “under this title, imprisoned n
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, seesection 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 982, 2516, 3291 of this title.
+Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 

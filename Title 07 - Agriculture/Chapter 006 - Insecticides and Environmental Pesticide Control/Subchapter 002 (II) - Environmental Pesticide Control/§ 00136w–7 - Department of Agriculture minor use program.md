@@ -22,7 +22,7 @@ The Secretary of Agriculture (hereinafter in this section referred to as the “
 
 #### (B) Applicants
 
-&emsp;&emsp;Any person who wants to develop data to support minor use pesticide registrations and reregistrations may apply for a grant under subparagraph (A). Priority shall be given to an applicant for such a grant whodoes not directly receive funds from the sale of pesticides registered for minor uses.
+&emsp;&emsp;Any person who wants to develop data to support minor use pesticide registrations and reregistrations may apply for a grant under subparagraph (A). Priority shall be given to an applicant for such a grant who does not directly receive funds from the sale of pesticides registered for minor uses.
 
 #### (C) Data ownership
 

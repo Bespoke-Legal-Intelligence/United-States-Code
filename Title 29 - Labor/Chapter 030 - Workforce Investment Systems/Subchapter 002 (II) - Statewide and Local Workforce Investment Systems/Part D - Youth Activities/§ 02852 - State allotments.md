@@ -6,7 +6,7 @@ The Secretary shall—
 
 &emsp;(1) for each fiscal year in which the amount appropriated under section 2872(a) of this title exceeds $1,000,000,000, reserve a portion determined under subsection (b)(1)(A) of this section of the amount appropriated under section 2872(a) of this title for use under sections 2912 (relating to migrant and seasonal farmworker programs) and 2914 (relating to youth opportunity grants) of this title; and
 
-&emsp;(2) use the remainder of the amount appropriated under section 2872(a) of this title for a fiscal year to make allotments and grants in accordance with subparagraphs (B) and (C) of subsection (b)(1) of this section and make funds available for use under section 2911 of this title (relating to Native American programs).
+&emsp;(2) use the remainder of the amount appropriated under section 2872(a) of this title for afiscal year to make allotments and grants in accordance with subparagraphs (B) and (C) of subsection (b)(1) of this section and make funds available for use under section 2911 of this title (relating to Native American programs).
 
 #### (b) Allotment among States
 
@@ -42,7 +42,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) to provide assistance to the outlying areas to carry out youth activities and statewide workforce investment activities; and
 
-&emsp;&emsp;&emsp;&emsp;(II) for each of fiscal years 1999, 2000, and 2001, to carry out the competition described in clause (ii), except that the funds reserved to carry out such clause for any such fiscal year shall not exceed the amount reserved for the Freely Associated States for fiscal year 1997, fromamounts reserved under sections 252(a) and 262(a)(1) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
+&emsp;&emsp;&emsp;&emsp;(II) for each of fiscal years 1999, 2000, and 2001, to carry out the competition described in clause (ii), except that the funds reserved to carry out such clause for any such fiscal year shall not exceed the amount reserved for the Freely Associated States for fiscal year 1997, from amounts reserved under sections 252(a) and 262(a)(1) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
 
 #### (ii) Limitation for Freely Associated States
 
@@ -118,7 +118,7 @@ The Secretary shall—
 
 #### (II) Small State minimum allotment
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclauses (I), (III), and (IV), the Secretary shall ensure that no State shall receive an allotment underthis subparagraph that is less than the total of—
+&emsp;&emsp;&emsp;&emsp;Subject to subclauses (I), (III), and (IV), the Secretary shall ensure that no State shall receive an allotment under this subparagraph that is less than the total of—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) 3/10 of 1 percent of $1,000,000,000 of the remainder described in clause (i)(II) for the fiscal year; and
 
@@ -201,8 +201,4 @@ The Secretary shall—
 Public Law 95–134, referred to in subsec. (b)(1)(B)(iii), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
 
 The Job Training Partnership Act, referred to in subsec. (b)(1)(B)(i)(II), (C)(iv)(I)(bb), (IV), (2)(A), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Parts B and C of title II of the Act were classified generally to parts B (§1630 et seq.) and C (§1641 et seq.) of subchapter II of chapter 19 of this title, respectively, prior to repeal by Pub. L. 105–220. Sections 252 and 262 of the Act were classified to sections 1631 and 1642 of this title, respectively, prior to repeal by Pub. L. 105–220. For complete classification of this Act to the Code, see Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2801, 2822, 2831, 2851, 2853, 2854, 2862, 2864, 2871, 2872, 2912, 2914, 2932, 2944 of this title.
 

@@ -134,7 +134,7 @@ The purposes of this section are as follows:
 
 #### (1) Compensation of members
 
-&emsp;Members of the Commission shall be compensated in the same manner provided for the compensation of members of the Trade Deficit Review Commission under section 127(g)(1) andsection 127(g)(6) of the Trade Deficit Review Commission Act (19 U.S.C. 2213 note).
+&emsp;Members of the Commission shall be compensated in the same manner provided for the compensation of members of the Trade Deficit Review Commission under section 127(g)(1) and section 127(g)(6) of the Trade Deficit Review Commission Act (19 U.S.C. 2213 note).
 
 #### (2) Travel expenses
 
@@ -216,6 +216,8 @@ Subsec. (e)(3). Pub. L. 107–67, §645(a), inserted at end “The executive dir
 
 #### Change of Name
 
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 Pub. L. 108–7, div. P, §2(b)(2), Feb. 20, 2003, 117 Stat. 552, provided that: “Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to the United States-China Security Review Commission shall be deemed to refer to the United States-China Economic and Security Review Commission.”
 
 #### Effective Date of 2003 Amendment
@@ -236,7 +238,7 @@ Proliferation practices.—The Commission shall analyze and assess the Chinese r
 
 &emsp;“(B)
 
-Economic reforms and united states economic transfers.—The Commission shall analyze and assess the qualitative and quantitative nature of the shift of United States production activities to China, including the relocation of high-technology, manufacturing, and R\&D facilities; the impact of these transfers on United States national security, including political influence by the Chinese Government over American firms, dependence of the United States national security industrial base on Chinese imports, the adequacy of United States export control laws, and the effect of these transfers on United States economic security, employment, and the standard of living of the American people; analyze China's national budget and assess China's fiscal strength to address internal instability problems and assess the likelihood of externalization of such problems.
+Economic reforms and united states economic transfers.—The Commission shall analyze and assess the qualitative and quantitative nature of the shift of United States production activities to China, including the relocation of high-technology,manufacturing, and R\&D facilities; the impact of these transfers on United States national security, including political influence by the Chinese Government over American firms, dependence of the United States national security industrial base on Chinese imports, the adequacy of United States export control laws, and the effect of these transfers on United States economic security, employment, and the standard of living of the American people; analyze China's national budget and assess China's fiscal strength to address internal instability problems and assess the likelihood of externalization of such problems.
 
 &emsp;“(C)
 

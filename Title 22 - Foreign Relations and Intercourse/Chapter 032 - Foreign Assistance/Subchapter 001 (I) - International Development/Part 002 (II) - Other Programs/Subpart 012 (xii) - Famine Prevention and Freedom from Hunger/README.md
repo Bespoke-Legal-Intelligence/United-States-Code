@@ -1,9 +1,5 @@
 subpart xii—famine prevention and freedom from hunger
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in title 7 section 3124a.
-
 
 ---
 

@@ -4,7 +4,3 @@ If any such company shall fail to construct and put in operation one-tenth of it
 
 (Mar. 2, 1899, ch. 374, §4, 30 Stat. 991.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 312, 314, 316, 317, 318, 322 of this title.
-

@@ -74,7 +74,3 @@ Subsection (c)(2) is substituted for 31:49 and the words “and, to the extent h
 
 Pub. L. 101–576, title III, §307, Nov. 15, 1990, 104 Stat. 2855, provided that: “No capital accounting standard or principle, including any human capital standard or principle, shall be adopted for use in an executive department or agency until such standard has been reported to the Congress and a period of 45 days of continuous session of the Congress has expired.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3512, 3513 of this title; title 10 sections 3022, 5025, 8022.
-

@@ -54,7 +54,3 @@ The Secretary shall ensure that programs supported under this subpart are design
 
 (Pub. L. 89–10, title V, §5411, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1811.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7243a, 7243b of this title.
-

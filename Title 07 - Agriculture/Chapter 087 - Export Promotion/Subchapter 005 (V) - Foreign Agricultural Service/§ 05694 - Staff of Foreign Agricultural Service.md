@@ -30,7 +30,3 @@ Assessment of Foreign Language Competence.—The Foreign Agricultural Service sh
 
 Precedence in Promotion.—The Director of Personnel of the Foreign Agricultural Service shall instruct promotion panels to take account of language ability and, all criteria for promotion otherwise being equal, to give precedence in promotions to officers who have achieved at least the General Professional Speaking Proficiency level in 1 or more foreign languages over officers who lack that level of proficiency.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1748 of this title.
-

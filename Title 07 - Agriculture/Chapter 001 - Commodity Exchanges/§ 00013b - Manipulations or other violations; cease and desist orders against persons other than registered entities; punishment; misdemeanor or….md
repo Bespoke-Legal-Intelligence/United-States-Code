@@ -26,9 +26,5 @@ For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 
 
 Section effective 120 days after Feb. 19, 1968, see section 28 of Pub. L. 90–258, set out as an Effective Date of 1968 Amendment note under section 2 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2, 9c of this title.
-
 <i><sup>1</sup></i><i> So in original. The words “or the commission” probably should not appear.</i>
 

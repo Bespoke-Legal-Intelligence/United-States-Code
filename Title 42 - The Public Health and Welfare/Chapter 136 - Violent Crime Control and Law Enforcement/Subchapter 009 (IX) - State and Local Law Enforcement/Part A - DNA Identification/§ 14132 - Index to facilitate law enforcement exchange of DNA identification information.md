@@ -4,7 +4,13 @@
 
 The Director of the Federal Bureau of Investigation may establish an index of—
 
-&emsp;(1) DNA identification records of persons convicted of crimes;
+&emsp;(1) DNA identification records of—
+
+&emsp;&emsp;(A) persons convicted of crimes;
+
+&emsp;&emsp;(B) persons who have been charged in an indictment or information with a crime; and
+
+&emsp;&emsp;(C) other persons whose DNA samples are collected under applicable legal authorities, provided that DNA profiles from arrestees who have not been charged in an indictment or information with a crime, and DNA samples that are voluntarily submitted solely for elimination purposes shall not be included in the National DNA Index System;
 
 &emsp;(2) analyses of DNA samples recovered from crime scenes;
 
@@ -18,7 +24,11 @@ The index described in subsection (a) of this section shall include only informa
 
 &emsp;(1) based on analyses performed by or on behalf of a criminal justice agency (or the Secretary of Defense in accordance with section 1565 of title 10) in accordance with publicly available standards that satisfy or exceed the guidelines for a quality assurance program for DNA analysis, issued by the Director of the Federal Bureau of Investigation under section 14131 of this title;
 
-&emsp;(2) prepared by laboratories, and DNA analysts, that undergo semiannual external proficiency testing by a DNA proficiency testing program meeting the standards issued under section 14131 of this title; and
+&emsp;(2) prepared by laboratories that—
+
+&emsp;&emsp;(A) not later than 2 years after October 30, 2004, have been accredited by a nonprofit professional association of persons actively involved in forensic science that is nationally recognized within the forensic science community; and
+
+&emsp;&emsp;(B) undergo external audits, not less than once every 2 years, that demonstrate compliance with standards established by the Director of the Federal Bureau of Investigation; and
 
 &emsp;(3) maintained by Federal, State, and local criminal justice agencies (or the Secretary of Defense in accordance with section 1565 of title 10) pursuant to rules that allow disclosure of stored DNA samples and DNA analyses only—
 
@@ -52,13 +62,41 @@ Access to the index established by this section is subject to cancellation if th
 
 #### (2) By States
 
-&emsp;(A) As a condition of access to the index described in subsection (a) of this section, a State shall promptly expunge from that index the DNA analysis of a person included in the index by that State if the responsible agency or official of that State receives, for each conviction of the person of an offense on the basis of which that analysis was or could have been included in the index, a certified copy of a final court order establishing that such conviction has been overturned.
+&emsp;(A) As a condition of access to the index described in subsection (a) of this section, a State shall promptly expunge from that index the DNA analysis of a person included in the index by that State if—
+
+&emsp;&emsp;(i) the responsible agency or official of that State receives, for each conviction of the person of an offense on the basis of which that analysis was or could have been included in the index, a certified copy of a final court order establishing that such conviction has been overturned; or
+
+&emsp;&emsp;(ii) the person has not been convicted of an offense on the basis of which that analysis was or could have been included in the index, and all charges for which the analysis was or could have been included in the index have been dismissed or resulted in acquittal.
 
 &emsp;(B) For purposes of subparagraph (A), a court order is not “final” if time remains for an appeal or application for discretionary review with respect to the order.
 
-(Pub. L. 103–322, title XXI, §210304, Sept. 13, 1994, 108 Stat. 2069; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §120\], Nov. 29, 1999, 113 Stat. 1535, 1501A–23; Pub. L. 106–546, §6(b), Dec. 19, 2000, 114 Stat. 2733.)
+#### (e) Authority for keyboard searches
+
+#### (1) In general
+
+&emsp;The Director shall ensure that any person who is authorized to access the index described in subsection (a) of this section for purposes of including information on DNA identification records or DNA analyses in that index may also access that index for purposes of carrying out a one-time keyboard search on information obtained from any DNA sample lawfully collected for a criminal justice purpose except for a DNA sample voluntarily submitted solely for elimination purposes.
+
+#### (2) Definition
+
+&emsp;For purposes of paragraph (1), the term “keyboard search” means a search under which information obtained from a DNA sample is compared with information in the index without resulting in the information obtained from a DNA sample being included in the index.
+
+#### (3) No preemption
+
+&emsp;This subsection shall not be construed to preempt State law.
+
+(Pub. L. 103–322, title XXI, §210304, Sept. 13, 1994, 108 Stat. 2069; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §120\], Nov. 29, 1999, 113 Stat. 1535, 1501A–23; Pub. L. 106–546, §6(b), Dec. 19, 2000, 114 Stat. 2733; Pub. L. 108–405, title II, §203(a), (d), title III, §302, Oct. 30, 2004, 118 Stat. 2269, 2270, 2272.)
 
 #### Amendments
+
+2004—Subsec. (a)(1). Pub. L. 108–405, §203(a)(1), substituted “of—” for “of persons convicted of crimes;” and added subpars (A) to (C).
+
+Subsec. (b)(2). Pub. L. 108–405, §302, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “prepared by laboratories, and DNA analysts, that undergo semiannual external proficiency testing by a DNA proficiency testing program meeting the standards issued under section 14131 of this title; and”.
+
+Subsec. (d)(2)(A). Pub. L. 108–405, §203(a)(2)(B), (C), which directed that subsection (d)(2) be amended by substituting “; or” for period at end and by adding cl. (ii) at end, was executed by making the amendment to subpar. (A) of subsec. (d)(2) to reflect the probable intent of Congress.
+
+Pub. L. 108–405, §203(a)(2)(A), substituted “if—” for “if” and inserted cl. (i) designation before “the responsible agency”.
+
+Subsec. (e). Pub. L. 108–405, §203(d), added subsec. (e).
 
 2000—Subsec. (b)(1). Pub. L. 106–546, §6(b)(1), inserted “(or the Secretary of Defense in accordance with section 1565 of title 10)” after “criminal justice agency”.
 
@@ -69,8 +107,4 @@ Subsec. (b)(3). Pub. L. 106–546, §6(b)(3), inserted “(or the Secretary of D
 Subsec. (d). Pub. L. 106–546, §6(b)(4), added subsec. (d).
 
 1999—Subsec. (a)(4). Pub. L. 106–113 added par. (4).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14134, 14135, 14135e, 14214 of this title; title 10 section 1565.
 

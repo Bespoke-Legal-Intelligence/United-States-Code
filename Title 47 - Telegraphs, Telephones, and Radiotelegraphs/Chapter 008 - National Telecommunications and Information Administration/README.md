@@ -59,6 +59,12 @@
 | [927\.](Subchapter%20002%20%28II%29%20-%20Transfer%20of%20Auctionable%20Frequencies/%C2%A7%2000927%20-%20Existing%20allocation%20and%20transfer%20authority%20retained.md) | Existing allocation and transfer authority retained. |
 | (a) | Additional reallocation. |
 | (b) | Implementation of new technologies and services. |
+| [928\.](Subchapter%20002%20%28II%29%20-%20Transfer%20of%20Auctionable%20Frequencies/%C2%A7%2000928%20-%20Spectrum%20Relocation%20Fund.md) | Spectrum Relocation Fund. |
+| (a) | Establishment of Spectrum Relocation Fund. |
+| (b) | Crediting of receipts. |
+| (c) | Used to pay relocation costs. |
+| (d) | Fund availability. |
+| (e) | Transfer to eligible Federal entities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -77,6 +83,12 @@
 | (h) | Compliance report. |
 | (i) | Suspension of new domain. |
 | (j) | Definitions. |
+| [942\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2000942%20-%20Coordination%20of%20E%E2%80%93911%20implementation.md) | Coordination of E–911 implementation. |
+| (a) | E–911 Implementation Coordination Office. |
+| (b) | Phase II E–911 implementation grants. |
+| (c) | Diversion of E–911 charges. |
+| (d) | Authorization; termination. |
+| (e) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

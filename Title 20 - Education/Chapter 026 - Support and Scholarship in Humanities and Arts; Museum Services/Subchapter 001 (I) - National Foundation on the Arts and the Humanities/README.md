@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 29 section 653.
-
 
 ---
 

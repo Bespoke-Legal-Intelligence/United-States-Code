@@ -12,10 +12,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in section 3305 of this title; title 5 section 7342; title 6 section 232; title 10 sections 2194, 2562, 2576, 2667, 2676, 2691, 2694a, 2696, 2854a, 2878, 7305, 9444, 9781; title 14 sections 92, 93, 641, 685; title 35 section 2; title 44 section 311; title 49 section 103.
-
 
 ---
 

@@ -42,7 +42,7 @@ For the purposes of this chapter—
 
 &emsp;(20) the term “prime farmland” shall have the same meaning as that previously prescribed by the Secretary of Agriculture on the basis of such factors as moisture availability, temperature regime, chemical balance, permeability, surface layer composition, susceptibility to flooding, and erosion characteristics, and which historically have been used for intensive agricultural purposes, and as published in the Federal Register.<sup>2</sup>
 
-&emsp;(21) “reclamation plan” means a plan submitted by an applicant for a permit under aState program or Federal program which sets forth a plan for reclamation of the proposed surface coal mining operations pursuant to section 1258 of this title;
+&emsp;(21) “reclamation plan” means a plan submitted by an applicant for a permit under a State program or Federal program which sets forth a plan for reclamation of the proposed surface coal mining operations pursuant to section 1258 of this title;
 
 &emsp;(22) “regulatory authority” means the State regulatory authority where the State is administering this chapter under an approved State program or the Secretary where the Secretary is administering this chapter under a Federal program;
 
@@ -58,7 +58,7 @@ For the purposes of this chapter—
 
 &emsp;(28) “surface coal mining operations” means—
 
-&emsp;&emsp;(A) activities conducted on the surface of lands in connection with a surface coal mine or subject to the requirements of section 1266 of this title surface operations and surface impacts incident to an underground coal mine, the products of which enter commerce or the operations of which directly or indirectly affect interstate commerce. Such activities include excavation for the purpose of obtaining coal including such common methods as contour, strip, auger, mountaintop removal, box cut, open pit, and area mining, the uses of explosives and blasting, and in situ distillation or retorting, leaching or other chemical or physical processing, and the cleaning, concentrating, or other processing or preparation, loading of coal for interstate commerce at or near the mine site: <i>Provided, however</i>, That such activities do not include the extraction of coal incidental to the extraction of other minerals where coal does not exceed 162/3 per centum of the tonnage of minerals removed for purposes of commercial use or sale or coal explorations subject to section 1262 of this title; and
+&emsp;&emsp;(A) activities conducted on the surface of lands in connection with a surface coal mine or subject to the requirements of section1266 of this title surface operations and surface impacts incident to an underground coal mine, the products of which enter commerce or the operations of which directly or indirectly affect interstate commerce. Such activities include excavation for the purpose of obtaining coal including such common methods as contour, strip, auger, mountaintop removal, box cut, open pit, and area mining, the uses of explosives and blasting, and in situ distillation or retorting, leaching or other chemical or physical processing, and the cleaning, concentrating, or other processing or preparation, loading of coal for interstate commerce at or near the mine site: <i>Provided, however</i>, That such activities do not include the extraction of coal incidental to the extraction of other minerals where coal does not exceed 162/3 per centum of the tonnage of minerals removed for purposes of commercial use or sale or coal explorations subject to section 1262 of this title; and
 
 &emsp;&emsp;(B) the areas upon which such activities occur or where such activities disturb the natural land surface. Such areas shall also include any adjacent land the use of which is incidental to any such activities, all lands affected by the construction of new roads or the improvement or use of existing roads to gain access to the site of such activities and for haulage, and excavations, workings, impoundments, dams, ventilation shafts, entryways, refuse banks, dumps, stockpiles, overburden piles, spoil banks, culm banks, tailings, holes or depressions, repair areas, storage areas, processing areas, shipping areas and other areas upon which are sited structures, facilities, or other property or materials on the surface, resulting from or incident to such activities; and <sup>3</sup>
 
@@ -85,10 +85,6 @@ For the purposes of this chapter—
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1252 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -14,6 +14,7 @@
 | (a) | Complete defenses. |
 | (b) | Defenses as to particular claimants. |
 | (c) | Limitation on complete defense. |
+| (d) | Definition of contractual relationship. |
 | [2704\.](Subchapter%20001%20%28I%29%20-%20Oil%20Pollution%20Liability%20and%20Compensation/%C2%A7%2002704%20-%20Limits%20on%20liability.md) | Limits on liability. |
 | (a) | General rule. |
 | (b) | Division of liability for mobile offshore drilling units. |
@@ -61,6 +62,7 @@
 | (c) | Election. |
 | (d) | Uncompensated damages. |
 | (e) | Procedure for claims against Fund. |
+| (f) | Loan program. |
 | [2714\.](Subchapter%20001%20%28I%29%20-%20Oil%20Pollution%20Liability%20and%20Compensation/%C2%A7%2002714%20-%20Designation%20of%20source%20and%20advertisement.md) | Designation of source and advertisement. |
 | (a) | Designation of source and notification. |
 | (b) | Advertisement by responsible party or guarantor. |
@@ -69,6 +71,7 @@
 | (a) | In general. |
 | (b) | Interim damages. |
 | (c) | Actions on behalf of Fund. |
+| (d) | Authority to settle. |
 | [2716\.](Subchapter%20001%20%28I%29%20-%20Oil%20Pollution%20Liability%20and%20Compensation/%C2%A7%2002716%20-%20Financial%20responsibility.md) | Financial responsibility. |
 | (a) | Requirement. |
 | (b) | Sanctions. |
@@ -143,7 +146,7 @@
 | (a) | Sections 2731, 2733, and 2734. |
 | (b) | Use of interest only. |
 | (c) | Use for section 2712. |
-| (c) | Section 2738. |
+| (d) | Section 2738. |
 | [2737\.](Subchapter%20002%20%28II%29%20-%20Prince%20William%20Sound%20Provisions/%C2%A7%2002737%20-%20Limitation.md) | Limitation. |
 | [2738\.](Subchapter%20002%20%28II%29%20-%20Prince%20William%20Sound%20Provisions/%C2%A7%2002738%20-%20North%20Pacific%20Marine%20Research%20Institute.md) | North Pacific Marine Research Institute. |
 | (a) | Institute established. |
@@ -185,10 +188,6 @@
 | (f) | Funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 1321 of this title; title 26 section 9509; title 43 sections 1474b–1, 1653.
 
 
 ---

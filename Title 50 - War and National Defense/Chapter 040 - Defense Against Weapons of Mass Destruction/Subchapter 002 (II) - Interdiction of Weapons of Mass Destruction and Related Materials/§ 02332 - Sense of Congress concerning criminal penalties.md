@@ -24,7 +24,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(3), 
 
 #### Codification
 
-Section is comprised of section 1423 of Pub. L. 104–201 which also enacted provisions listed in a table of provisions for review, promulgation, or amendment of Federal sentencing guidelines relating to specific offenses set out under section 994 of Title 28, Judiciary and Judicial Procedure.
+Section is comprised of section 1423 of Pub. L. 104–201 which also enacted provisions listed in a table of sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
 

@@ -32,7 +32,7 @@ A vessel aground shall give the bell signal and if required the gong signal pres
 
 #### (h) Vessels of less than 12 meters in length
 
-A vessel of less than 12 meters in length shall not be obliged to give the above-mentioned signals but, if she does not, shall make some other efficient sound signal at intervals of not more than 2 minutes.
+A vessel of less than 12 meters in length shall not be obliged to give the above-mentioned signals but, if she does not, shall make some otherefficient sound signal at intervals of not more than 2 minutes.
 
 #### (i) Pilot vessels
 
@@ -47,6 +47,10 @@ The following vessels shall not be required to sound signals as prescribed in pa
 &emsp;(ii) a barge, canal boat, scow, or other nondescript craft.
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3431.)
+
+#### Repeal of Section
+
+<i>Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that this section is repealed effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 2071 of this title.</i>
 
 #### Codification
 

@@ -96,7 +96,3 @@ In subsection (d), the word “person” is substituted for “someone” for co
 
 In subsection (e), before clause (1), the words “at least 2” are substituted for “more than one” for consistency in the revised title and with other titles of the United States Code. In clause (1), the words “civil action” are substituted for “an original suit” for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The words “whichever is appropriate” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80111 of this title.
-

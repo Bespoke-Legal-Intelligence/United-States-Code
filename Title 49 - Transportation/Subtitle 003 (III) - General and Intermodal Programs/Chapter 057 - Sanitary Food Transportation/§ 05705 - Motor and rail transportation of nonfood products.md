@@ -6,7 +6,7 @@ Prohibitions.—The regulations prescribed under section 5703(a)(1) of this titl
 
 (b)
 
-List of Unsafe Nonfood Products.—(1) After consultation required by section 5709 of this title, the Secretary of Transportation shall publish in the Federal Register a list of nonfood products the Secretary decides would make cosmetics, devices, drugs, food, or food additives unsafe to humans or animals because of transportation of the nonfood products in a motor vehicle or rail vehicle used to transport cosmetics, devices, drugs, food, or food additives. The Secretary may amend the list periodically by publication in the Federal Register.
+List of Unsafe Nonfood Products.—(1) After consultation required by section 5709 of this title, the Secretary of Transportation shall publish in the Federal Register a list of nonfoodproducts the Secretary decides would make cosmetics, devices, drugs, food, or food additives unsafe to humans or animals because of transportation of the nonfood products in a motor vehicle or rail vehicle used to transport cosmetics, devices, drugs, food, or food additives. The Secretary may amend the list periodically by publication in the Federal Register.
 
 (2) The list published under paragraph (1) of this subsection may not include cardboard, pallets, beverage containers, and other food packaging except to the extent the Secretary decides that the transportation of cardboard, pallets, beverage containers, or other food packaging in a motor vehicle or rail vehicle used to transport cosmetics, devices, drugs, food, or food additives would make the cosmetics, devices, drugs, food, or food additives unsafe to humans or animals.
 
@@ -29,8 +29,4 @@ Historical and Revision Notes
 Nov. 3, 1990, Pub. L. 101–500, §6, 104 Stat. 1216.
 
 In subsection (b)(1), the word “decides” is substituted for “determined” for consistency in the revised title. The words “of the nonfood products” are added for clarity.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5703, 5709 of this title.
 

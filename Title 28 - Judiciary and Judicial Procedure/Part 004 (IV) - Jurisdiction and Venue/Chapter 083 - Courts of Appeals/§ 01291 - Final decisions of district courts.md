@@ -82,7 +82,3 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1295, 1334, 1452, 2072 of this title; title 11 section 305; title 15 sections 29, 57b–1, 78aa, 79y, 80a–43, 80b–14, 1314, 1719; title 16 sections 825p, 1456; title 18 section 3145; title 31 section 3733; title 39 section 3016; title 42 section 2000e–5; title 45 sections 153, 719, 743, 1105; title 50 App. section 17.
-

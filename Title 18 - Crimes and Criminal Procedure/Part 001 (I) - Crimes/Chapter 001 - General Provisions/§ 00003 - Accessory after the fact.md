@@ -32,7 +32,3 @@ Pub. L. 103–322, §330011(h), amended directory language of Pub. L. 101–647,
 
 Section 330011(h) of Pub. L. 103–322 provided that the amendment made by that section is effective as of Nov. 29, 1990.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1531, 2332b of this title.
-

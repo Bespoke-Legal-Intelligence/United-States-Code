@@ -46,7 +46,7 @@ Not a general license.—The defense asserted by a person under this section is 
 
 &emsp;(4)
 
-Burden of proof.—A person asserting the defense under this section shall have theburden of establishing the defense by clear and convincing evidence.
+Burden of proof.—A person asserting the defense under this section shall have the burden of establishing the defense by clear and convincing evidence.
 
 &emsp;(5)
 

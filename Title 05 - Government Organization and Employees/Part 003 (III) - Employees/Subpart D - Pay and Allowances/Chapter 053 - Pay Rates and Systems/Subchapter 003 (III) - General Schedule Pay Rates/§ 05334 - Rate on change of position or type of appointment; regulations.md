@@ -30,6 +30,8 @@
 
 &emsp;(B) his existing rate of basic pay, if that rate is the higher.
 
+> If an employee's rate after promotion or transfer is greater than the maximum rate of basic pay for the employee's grade, that rate shall be treated as a retained rate under section 5363. The Office of Personnel Management shall prescribe by regulation the circumstances under which and the extent to which special rates under section 5305 (or similar provision of law) or locality-adjusted rates under section 5304 (or similar provision of law) are considered to be basic pay in applying this subsection.
+
 (c) An employee in the legislative branch who is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, and who has completed two or more years of service as such an employee, and a Member of the Senate or House of Representatives who has completed two or more years of service as such a Member, may, on appointment to a position to which this subchapter applies, have his initial rate of pay fixed—
 
 &emsp;(1) at the minimum rate of the appropriate grade; or
@@ -46,9 +48,21 @@
 
 &emsp;(3) the lowest step of the Federal grade for which the rate of basic pay is equal to or greater than the highest previous rate of pay of the employee, if the Federal Civil Service position under this subchapter is at a lower grade than the last grade the employee had while an employee of the county committee.
 
-(f) An employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) who moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter, may have such employee's initial rate of basic pay fixed at the minimum rate of the appropriate grade or at any step of such grade that does not exceed the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c). In the case of a nonappropriated fund employee who is moved involuntarily from such nonappropriated fund instrumentality without a break in service of more than 3 days and without substantial change in duties to a position that is subject to this subchapter, the employee's pay shall be set at a rate (not above the maximum for the grade, except as may be provided for under section 5365) that is not less than the employee's rate of basic pay under the nonappropriated fund instrumentality immediately prior to so moving.
+(f) An employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) who moves, without a break in service of more than3 days, to a position in the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter, may have such employee's initial rate of basic pay fixed at the minimum rate of the appropriate grade or at any step of such grade that does not exceed the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c). In the case of a nonappropriated fund employee who is moved involuntarily from such nonappropriated fund instrumentality without a break in service of more than 3 days and without substantial change in duties to a position that is subject to this subchapter, the employee's pay shall be set at a rate (not above the maximum for the grade, except as may be provided for under section 5365) that is not less than the employee's rate of basic pay under the nonappropriated fund instrumentality immediately prior to so moving.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat.3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, §1104(a), Nov. 18, 1997, 111 Stat. 1923; Pub. L. 105–393, title II, §223, Nov. 13, 1998, 112 Stat. 3626; Pub. L. 107–171, title X, §10701, May 13, 2002, 116 Stat. 515; Pub. L. 108–178, §4(a), Dec. 15, 2003, 117 Stat. 2640.)
+(g) In the case of an employee who—
+
+&emsp;(1) moves to a new official duty station, and
+
+&emsp;(2) by virtue of such move, becomes subject to a different pay schedule,
+
+> any rate adjustment under the preceding provisions of this section, with respect to such employee in connection with such move, shall be made—
+
+&emsp;(A) first, by determining the rate of pay to which such employee would be entitled at the new official duty station based on such employee's position, grade, and step (or relative position in the rate range) before the move, and
+
+&emsp;(B) then, by applying the provisions of this section that would otherwise apply (if any), treating the rate determined under subparagraph (A) as if it were the rate last received by the employee before the rate adjustment.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, §1104(a), Nov. 18, 1997, 111 Stat. 1923; Pub. L. 105–393, title II, §223, Nov. 13, 1998, 112 Stat. 3626; Pub. L. 107–171, title X, §10701, May 13, 2002, 116 Stat. 515; Pub. L. 108–178, §4(a), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 108–411, title III, §301(a)(3), Oct. 30, 2004, 118 Stat. 2315.)
 
 Historical and Revision Notes
 
@@ -96,6 +110,10 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+2004—Subsec. (b). Pub. L. 108–411, §301(a)(3)(A), inserted concluding provisions.
+
+Subsec. (g). Pub. L. 108–411, §301(a)(3)(B), added subsec. (g).
+
 2003—Subsec. (a). Pub. L. 108–178 substituted “section 14306(a)(2) of title 40” for “section 106(2) of the Appalachian Regional Development Act of 1965 (40 U.S.C. App.)”.
 
 2002—Subsec. (e). Pub. L. 107–171 added subsec. (e) and struck out former subsec. (e) which read as follows: “An employee of a county committee established pursuant to section 590h(b) of title 16 may, upon appointment to a position subject to this subchapter, have his initial rate of basic pay fixed at the minimum rate of the appropriate grade, or at any step of such grade that does not exceed the highest previous rate of basic pay received by him during service with such county committee.”
@@ -136,6 +154,10 @@ Pub. L. 90–367 added subsec. (f).
 
 1967—Subsec. (a). Pub. L. 90–103 provided for treatment as a transfer from a position in the executive branch to which this subchapter does not apply of certain regional commission employees who were Federal employees immediately prior to employment by a commission and were employed within six months after separation from the commission in a position subject to this subchapter.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–411 effective on the first day of the first applicable pay period beginning on or after the 180th day after Oct. 30, 2004, with provisions relating to conversion rules, see section 301(d) of Pub. L. 108–411, set out as a note under section 5363 of this title.
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–178, §5, Dec. 15, 2003, 117 Stat. 2642, provided that: “This Act \[see Tables for classification\] and amendments and repeals made by this Act are effective August 21, 2002.”
@@ -154,7 +176,7 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987,moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Effective Date of 1984 Amendment
 

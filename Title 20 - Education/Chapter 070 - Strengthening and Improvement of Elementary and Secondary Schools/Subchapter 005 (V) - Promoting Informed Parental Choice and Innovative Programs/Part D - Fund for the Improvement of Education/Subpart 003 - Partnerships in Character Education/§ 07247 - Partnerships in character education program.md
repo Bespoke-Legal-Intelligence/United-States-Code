@@ -224,7 +224,7 @@ Each eligible entity that receives a grant under this section shall provide, to 
 
 &emsp;&emsp;&emsp;(ii) Providing technical assistance to State and local programs, particularly on matters of program evaluation.
 
-&emsp;&emsp;&emsp;(iii) Conducting evaluations of State and local programs receiving funding under this section, that may be conducted through a national clearinghouse under clause (iv).
+&emsp;&emsp;&emsp;(iii) Conducting evaluations of State and local programs receiving funding under this section, that may be conductedthrough a national clearinghouse under clause (iv).
 
 &emsp;&emsp;&emsp;(iv) Compiling and disseminating, through a national clearinghouse or other means—
 

@@ -34,7 +34,3 @@ References to the Secretary (of Commerce) were substituted for references to the
 
 Changes were made in phraseology and arrangement.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 33 section 2720.
-

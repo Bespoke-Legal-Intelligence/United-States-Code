@@ -12,7 +12,3 @@ Act Feb. 29, 1888, ch. 17, 25 Stat. 41, which enacted sections 21 to 33 of this 
 
 The protection of submarine cables was made the subject of an international convention between the United States and Germany, Argentine Confederation, Austria-Hungary, Belgium, Brazil, Costa Rica, Denmark, Dominican Republic, Spain, United States of Columbia, France, Great Britain, Guatemala, Greece, Italy, Turkey, Netherlands, Persia, Portugal, Roumania, Russia, Salvador, Servia, Sweden and Norway, Uruguay, and the British Colonies. It was concluded Mar. 14, 1884, ratified Jan. 26, 1885, ratifications exchanged Apr. 16, 1885, proclaimed May 22, 1885, and entered into force for the United States May 1, 1888. Its provisions were set forth in 24 Stat. 989 to 1000.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 23 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Previous contractual obligations; tax exemption
 
-Funds distributed under sections 117a to 117c of this title shall not be liable for the payment of previously contracted obligations except as may be provided by the governing body of the tribe and distributions of such funds shall be subject to the provisions of section 7 of the Act of October 19, 1973 (87 Stat. 466), as amended \[25 U.S.C. 1407\].
+Funds distributed under sections 117a to 117c of this title shall not be liable for the payment of previously contracted obligations except as may be provided by the governing body of thetribe and distributions of such funds shall be subject to the provisions of section 7 of the Act of October 19, 1973 (87 Stat. 466), as amended \[25 U.S.C. 1407\].
 
 #### (b) Funds appropriated in satisfaction of judgments
 
@@ -17,8 +17,4 @@ Nothing in sections 117a to 117c of this title, except the provisions of subsect
 #### References in Text
 
 Act of October 19, 1973, referred to in subsec. (b), is Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, as amended, known as the Indian Tribal Judgment Funds Use or Distribution Act, which is classified generally to chapter 16 (§1401 et seq.) of this title. For complete classification of this Act to the Code, see section 1401(c) of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 117c of this title.
 

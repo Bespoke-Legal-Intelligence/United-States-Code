@@ -172,6 +172,10 @@
 | (c) | Program funding. |
 | (d) | Industry fee system. |
 | (e) | Implementation plan. |
+| [1861b.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001861b%20-%20Fisheries%20enforcement%20plans%20and%20reporting.md) | Fisheries enforcement plans and reporting. |
+| (a) | Fisheries enforcement plans. |
+| (b) | Fishery patrols. |
+| (c) | Annual summary. |
 | [1862\.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001862%20-%20North%20Pacific%20fisheries%20conservation.md) | North Pacific fisheries conservation. |
 | (a) | In general. |
 | (b) | Standards. |
@@ -182,6 +186,7 @@
 | (g) | Bycatch reduction incentives. |
 | (h) | Catch measurement. |
 | (i) | Full retention and utilization. |
+| (j) | Bering Sea and Aleutian Islands crab rationalization. |
 | [1863\.](Subchapter%20004%20%28IV%29%20-%20National%20Fishery%20Management%20Program/%C2%A7%2001863%20-%20Northwest%20Atlantic%20Ocean%20Fisheries%20Reinvestment%20Program.md) | Northwest Atlantic Ocean Fisheries Reinvestment Program. |
 | (a) | Program. |
 | (b) | Assistance of other agencies. |
@@ -237,10 +242,6 @@
 | (d) | Catch limits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 917, 971b, 971d, 1432, 1827, 3125, 3373, 3377, 3601, 3607, 3631, 4102, 5103, 5106, 5107a, 5107b, 5152, 5154, 5158, 5504, 5609, 6403, 6406, 6409 of this title; title 22 section 1980; title 33 section 1321; title 42 sections 9601, 9603; title 46 sections 12102, 12108; title 48 section 1904.
 
 
 ---

@@ -40,7 +40,3 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsecs. (a)(4), (b)(
 
 2000—Subsecs. (a)(4), (b)(2). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 3752.
-

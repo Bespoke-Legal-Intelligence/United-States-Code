@@ -34,7 +34,7 @@
 
 &emsp;(1) the judge is not reappointed following expiration of the term for which appointed; and
 
-&emsp;(2) at or before the time of the expiration of that term, the judge is eligible for and electsto receive retired pay under section 7296 of this title.
+&emsp;(2) at or before the time of the expiration of that term, the judge is eligible for and elects to receive retired pay under section 7296 of this title.
 
 (f)(1) If a judge who makes an election under subsection (b) of this section dies after having rendered at least 18 months of civilian service (computed as prescribed in subsection (<i>l</i>) of this section), for the last 18 months of which the salary deductions provided for by subsection (c) of this section or the deposits required by subsection (d) of this section have actually been made (and not withdrawn) or the salary deductions required by the civil service retirement laws have actually been made (and not withdrawn)—
 
@@ -94,7 +94,7 @@
 
 (5) In a case in which the annuities of all persons entitled to annuity based upon the service of a judge terminate before the aggregate amount of annuity paid equals the total amount credited to the individual account of such judge (with interest at 3 percent per year, compounded on December 31 of each year to the date of the death of the judge), the difference shall be paid, upon establishment of a valid claim therefor, in the order of precedence prescribed in paragraph (2) of this subsection.
 
-(6) Any accrued annuity remaining unpaid upon the termination (other than by death) of the annuity of any individual based upon theservice of a judge shall be paid to that individual. Any accrued annuity remaining unpaid upon the death of an individual receiving an annuity based upon the service of a judge shall be paid, upon the establishment of a valid claim therefor, in the following order of precedence:
+(6) Any accrued annuity remaining unpaid upon the termination (other than by death) of the annuity of any individual based upon the service of a judge shall be paid to that individual. Any accrued annuity remaining unpaid upon the death of an individual receiving an annuity based upon the service of a judge shall be paid, upon the establishment of a valid claim therefor, in the following order of precedence:
 
 &emsp;(A) To the executor or administrator of the estate of that person.
 
@@ -126,7 +126,7 @@
 
 (n) A judge making an election under subsection (b) of this section shall, at the time of such election, waive all benefits under the civil service retirement laws except section 8440d of title 5. Such a waiver shall be made in the same manner and shall have the same force and effect as an election filed under section 7296(d) of this title.
 
-(<i>o</i>) Each survivor annuity payable from the retirement fund shall be increased at the same time as, and by the same percentage by which, annuities payable from the Judicial Survivors’ Annuities Fund are increased pursuant to section 376(m) of title 28.
+(<i>o</i>) Each survivor annuity payable from the retirement fund shall be increased at the same time as, and by the same percentage by which, annuities payable from the Judicial Survivors’Annuities Fund are increased pursuant to section 376(m) of title 28.
 
 (Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 620, §4097; renumbered §7297 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(6), June 13, 1991, 105 Stat. 287; Pub. L. 102–82, §5(c)(2), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(E), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §§503, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§1023, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595.)
 
@@ -189,8 +189,4 @@ Amendment by section 1035(2) of Pub. L. 106–117 effective Nov. 30, 1999, with 
 #### Effective Date of 1998 Amendment
 
 Amendment by section 512(a)(1) of Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7296, 7298 of this title.
 

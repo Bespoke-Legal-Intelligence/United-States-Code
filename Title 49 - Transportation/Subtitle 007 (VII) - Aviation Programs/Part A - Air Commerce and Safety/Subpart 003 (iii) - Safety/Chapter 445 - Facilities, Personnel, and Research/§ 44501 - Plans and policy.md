@@ -44,7 +44,7 @@ National Aviation Research Plan.—(1) The Administrator of the Federal Aviation
 
 (B) The plan shall—
 
-&emsp;(i) provide estimates by year of the schedule, cost, and work force levels for each active and planned major research and development project under sections 40119, 44504, 44505, 44507, 44509, 44511–44513, and 44912 of this title, including activities carried out under cooperative agreements with other Federal departments and agencies;
+&emsp;(i) provide estimates by year of the schedule, cost, and work force levels for each active andplanned major research and development project under sections 40119, 44504, 44505, 44507, 44509, 44511–44513, and 44912 of this title, including activities carried out under cooperative agreements with other Federal departments and agencies;
 
 &emsp;(ii) specify the goals and the priorities for allocation of resources among the major categories of research and development activities, including the rationale for the priorities identified;
 
@@ -120,7 +120,7 @@ Subsec. (c)(3). Pub. L. 106–181, §902(a)(2), inserted at end “The report sh
 
 Subsec. (c)(2)(A). Pub. L. 104–264, §1105(1), substituted “5-year period” for “15-year period”.
 
-Subsec. (c)(2)(B). Pub. L. 104–264, §1105(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) set out the requirements for research plans includingspecific requirements for the first two years of the plan, for the 3rd, 4th, and 5th years, and for the 6th and subsequent years.
+Subsec. (c)(2)(B). Pub. L. 104–264, §1105(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) set out the requirements for research plans including specific requirements for the first two years of the plan, for the 3rd, 4th, and 5th years, and for the 6th and subsequent years.
 
 Subsec. (c)(3). Pub. L. 104–264, §1105(3), inserted “, including a description of the dissemination to the private sector of research results and a description of any new technologies developed” after “during the prior fiscal year”.
 
@@ -131,8 +131,4 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 44938, 48101 of this title.
 

@@ -4,7 +4,7 @@
 
 #### (1) Requirement for integrated immigration and naturalization data system
 
-&emsp;The Immigration and Naturalization Service shall fully integrate all databases and data systems maintained by the Service that process or contain information on aliens. The fully integrated data system shall be an interoperable component of the electronic data system described in paragraph (2).
+&emsp;The Immigration and Naturalization Service shall fully integrate all databases and data systems maintained by the Service that process or contain information on aliens. The fullyintegrated data system shall be an interoperable component of the electronic data system described in paragraph (2).
 
 #### (2) Requirement for interoperable data system
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) to any Federal official responsible for determining an alien's admissibility to or deportability from the United States; and
 
-&emsp;&emsp;(C) to any Federal law enforcement or intelligence officer determined by regulationto be responsible for the investigation or identification of aliens.
+&emsp;&emsp;(C) to any Federal law enforcement or intelligence officer determined by regulation to be responsible for the investigation or identification of aliens.
 
 #### (6) Limitation on access
 
@@ -108,11 +108,11 @@ Section 309 of the Intelligence Authorization Act for Fiscal Year 1998, referred
 
 Section is comprised of section 202 of Pub. L. 107–173. Subsec. (a)(4)(B) of section 202 of Pub. L. 107–173 amended section 1379 of this title.
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1701, 1723, 1724, 1737, 1772 of this title; title 6 section 237.
 

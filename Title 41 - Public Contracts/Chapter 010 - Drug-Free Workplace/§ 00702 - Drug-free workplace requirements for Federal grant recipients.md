@@ -34,7 +34,7 @@
 
 #### (2) Individuals
 
-&emsp;No Federal agency shall make a grant to any individual unless such individual agrees as a condition of such grant that the individual will not engage in the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance in conducting any activity with such grant.
+&emsp;No Federal agency shall make a grant to any individual unless such individual agrees as acondition of such grant that the individual will not engage in the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance in conducting any activity with such grant.
 
 #### (b) Suspension, termination, or debarment of grantee
 
@@ -75,8 +75,4 @@ Subsec. (b)(1)(B), (C). Pub. L. 105–85, §809(2)(B), redesignated subpars. (B)
 #### Effective Date
 
 Section effective 120 days after Nov. 18, 1988, see section 5160 of Pub. L. 100–690, set out as a note under section 701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 703, 706 of this title; title 42 section 12644.
 

@@ -4,7 +4,3 @@ The Secretary is authorized to convey to the State of New Mexico a right-of-way 
 
 (Pub. L. 88–249, §3, Dec. 30, 1963, 77 Stat. 819.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 407h of this title.
-

@@ -64,7 +64,3 @@ Subsec. (e). Pub. L. 100–418, §1104(4), added subsec. (e).
 
 Amendment by section 1401(b)(1)(A) of Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under part 1 (§2251 et seq.) of subchapter III of this chapter on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2114d, 2151, 2152, 2153, 2154, 2212, 2463, 3356 of this title.
-

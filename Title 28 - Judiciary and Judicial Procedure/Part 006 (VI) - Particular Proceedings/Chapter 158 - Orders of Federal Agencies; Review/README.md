@@ -5,7 +5,7 @@
 | [2341\.](%C2%A7%2002341%20-%20Definitions.md) | Definitions. |
 | [2342\.](%C2%A7%2002342%20-%20Jurisdiction%20of%20court%20of%20appeals.md) | Jurisdiction of court of appeals. |
 | [2343\.](%C2%A7%2002343%20-%20Venue.md) | Venue. |
-| [2344\.](%C2%A7%2002344%20-%20Review%20of%20orders%3B%20time%3B%20notice%3B%20contents%20of%20petition%3B%20service.md) | Review of orders; time; notice; contents of petitions; service. |
+| [2344\.](%C2%A7%2002344%20-%20Review%20of%20orders%3B%20time%3B%20notice%3B%20contents%20of%20petition%3B%20service.md) | Review of orders; time; notice; contents of petition; service. |
 | [2345\.](%C2%A7%2002345%20-%20Prehearing%20conference.md) | Prehearing conference. |
 | [2346\.](%C2%A7%2002346%20-%20Certification%20of%20record%20on%20review.md) | Certification of record on review. |
 | [2347\.](%C2%A7%2002347%20-%20Petitions%20to%20review%3B%20proceedings.md) | Petitions to review; proceedings. |
@@ -22,10 +22,6 @@
 1982—Pub. L. 97–164, title I, §138, Apr. 2, 1982, 96 Stat. 42, struck out item 2353 “Decision of the Plant Variety Protection Office”.
 
 1966—Pub. L. 89–773, §4, Nov. 6, 1966, 80 Stat. 1323, struck out item 2352 “Rules”.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 2321 of this title; title 2 section 1407; title 7 sections 2279e, 7734, 8309, 8313; title 8 section 1252; title 31 section 755; title 39 section 3628; title 42 sections 2000e–16c, 2239, 2242, 3612; title 45 section 431; title 46 App. section 1712; title 47 section 402; title 49 sections 13907, 20114; title 50 section 167h.
 
 
 ---

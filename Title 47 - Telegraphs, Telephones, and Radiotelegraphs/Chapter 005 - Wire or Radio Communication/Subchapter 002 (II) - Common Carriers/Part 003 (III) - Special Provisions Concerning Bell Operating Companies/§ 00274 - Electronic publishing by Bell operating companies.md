@@ -62,7 +62,7 @@ A separated affiliate or electronic publishing joint venture shall be operated i
 
 #### (C) Electronic publishing joint ventures
 
-&emsp;&emsp;A Bell operating company or affiliate may participate on a nonexclusive basis in electronic publishing joint ventures with entities that are not a Bell operating company, affiliate, or separated affiliate to provide electronic publishing services, if the Bell operating company or affiliate has not more than a 50 percent direct or indirect equity interest (or the equivalent thereof) or the right to more than 50 percent of the gross revenues under a revenue sharing or royalty agreement in any electronic publishing joint venture. Officers and employees of a Bell operating company or affiliate participating inan electronic publishing joint venture may not have more than 50 percent of the voting control over the electronic publishing joint venture. In the case of joint ventures with small, local electronic publishers, the Commission for good cause shown may authorize the Bell operating company or affiliate to have a larger equity interest, revenue share, or voting control but not to exceed 80 percent. A Bell operating company participating in an electronic publishing joint venture may provide promotion, marketing, sales, or advertising personnel and services to such joint venture.
+&emsp;&emsp;A Bell operating company or affiliate may participate on a nonexclusive basis in electronic publishing joint ventures with entities that are not a Bell operating company, affiliate, or separated affiliate to provide electronic publishing services, if the Bell operating company or affiliate has not more than a 50 percent direct or indirect equity interest (or the equivalent thereof) or the right to more than 50 percent of the gross revenues under a revenue sharing or royalty agreement in any electronic publishing joint venture. Officers and employees of a Bell operating company or affiliate participating in an electronic publishing joint venture may not have more than 50 percent of the voting control over the electronic publishing joint venture. In the case of joint ventures with small, local electronic publishers, the Commission for good cause shown may authorize the Bell operating company or affiliate to have a larger equity interest, revenue share, or voting control but not to exceed 80 percent. A Bell operating company participating in an electronic publishing joint venture may provide promotion, marketing, sales, or advertising personnel and services to such joint venture.
 
 #### (d) Bell operating company requirement
 
@@ -158,15 +158,11 @@ As used in this section—
 
 &emsp;(9) The term “separated affiliate” means a corporation under common ownership or control with a Bell operating company that does not own or control a Bell operating company and is not owned or controlled by a Bell operating company and that engages in the provision of electronic publishing which is disseminated by means of such Bell operating company's or any of its affiliates’ basic telephone service.
 
-&emsp;(10) The term “Bell operating company” has the meaning provided in section 153 of this title, except that such term includes any entity or corporation that is owned or controlled by such a company (as so defined) but does not include an electronic publishing joint venture owned by such an entity or corporation.
+&emsp;(10) The term “Bell operating company” has the meaning provided in section 153 of thistitle, except that such term includes any entity or corporation that is owned or controlled by such a company (as so defined) but does not include an electronic publishing joint venture owned by such an entity or corporation.
 
 (June 19, 1934, ch. 652, title II, §274, as added Pub. L. 104–104, title I, §151(a), Feb. 8, 1996, 110 Stat. 100.)
 
 #### References in Text
 
 The Securities Exchange Act of 1934, referred to in subsec. (i)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 272 of this title.
 

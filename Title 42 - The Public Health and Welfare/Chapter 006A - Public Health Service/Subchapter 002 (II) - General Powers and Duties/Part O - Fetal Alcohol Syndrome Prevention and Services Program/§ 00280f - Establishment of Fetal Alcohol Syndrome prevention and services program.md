@@ -42,7 +42,7 @@ In carrying out this section, the Secretary shall develop a procedure for dissem
 
 &emsp;&emsp;(A) be chaired by an individual to be appointed by the Secretary and staffed by the Administration; and
 
-&emsp;&emsp;(B) include the Chairperson of the Interagency Coordinating Committee on Fetal Alcohol Syndrome of the Department of Health and Human Services, individualswith Fetal Alcohol Syndrome and Fetal Alcohol Effect, and representatives from advocacy and research organizations such as the Research Society on Alcoholism, the FAS Family Resource Institute, the National Organization of Fetal Alcohol Syndrome, the Arc, the academic community, and Federal, State and local government agencies and offices.
+&emsp;&emsp;(B) include the Chairperson of the Interagency Coordinating Committee on Fetal Alcohol Syndrome of the Department of Health and Human Services, individuals with Fetal Alcohol Syndrome and Fetal Alcohol Effect, and representatives from advocacy and research organizations such as the Research Society on Alcoholism, the FAS Family Resource Institute, the National Organization of Fetal Alcohol Syndrome, the Arc, the academic community, and Federal, State and local government agencies and offices.
 
 #### (3) Functions
 
@@ -88,7 +88,7 @@ Findings.—Congress finds that—
 
 &emsp;“(3) thousands more infants are born each year with Fetal Alcohol Effect, also known as Alcohol Related Neurobehavioral Disorder (ARND), a related and equally tragic syndrome;
 
-&emsp;“(4) children of women who use alcohol while pregnant have a significantly higher infant mortality rate (13.3 per 1,000) than children of those women who do not use alcohol (8.6 per 1,000);
+&emsp;“(4) children of women who use alcohol while pregnant have a significantly higher infant mortalityrate (13.3 per 1,000) than children of those women who do not use alcohol (8.6 per 1,000);
 
 &emsp;“(5) Fetal Alcohol Syndrome and Fetal Alcohol Effect are national problems which can impact any child, family, or community, but their threat to American Indians and Alaska Natives is especially alarming;
 
@@ -112,9 +112,5 @@ Purpose.—It is the purpose of this section \[enacting this part and provisions
 
 &emsp;“(3) coordinate, support and conduct research and demonstration projects to develop effective developmental and behavioral interventions and programs that foster effective advocacy, educational and vocational training, appropriate therapies, counseling, medical and mental health, and other supportive services, as well as models that integrate or coordinate such services, aimed at the unique challenges facing individuals with Fetal Alcohol Syndrome or Fetal Alcohol Effect and their families; and
 
-&emsp;“(4) foster coordination among all Federal, State and local agencies, and promote partnerships between research institutions and communities that conduct or support Fetal Alcohol Syndrome and Fetal Alcohol Effect research, programs, surveillance, prevention, and interventions and otherwise meet the generalneeds of populations already affected or at risk of being impacted by Fetal Alcohol Syndrome and Fetal Alcohol Effect.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 280f–2, 280f–3 of this title.
+&emsp;“(4) foster coordination among all Federal, State and local agencies, and promote partnerships between research institutions and communities that conduct or support Fetal Alcohol Syndrome and Fetal Alcohol Effect research, programs, surveillance, prevention, and interventions and otherwise meet the general needs of populations already affected or at risk of being impacted by Fetal Alcohol Syndrome and Fetal Alcohol Effect.”
 

@@ -14,7 +14,3 @@ Words at conclusion of section “provided in section 246 of this title” added
 
 Minor changes were made in arrangement and phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1161, 3670 of this title.
-

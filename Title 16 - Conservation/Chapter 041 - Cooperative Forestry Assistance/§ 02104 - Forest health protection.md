@@ -94,7 +94,7 @@ A prior section 8 of Pub. L. 95–313 was renumbered section 11 and is classifie
 
 #### Stewardship End Result Contracting Projects
 
-Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471, provided in part that: “The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with section 347 of title III of section 101(e) of division A of Public Law 105–277 \[set out as a note below\] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions asprovided in that section: <i>Provided</i>, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6.”
+Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471, provided in part that: “The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with section 347 of title III of section 101(e) of division A of Public Law 105–277 \[set out as a note below\] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: <i>Provided</i>, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6.”
 
 Similar provisions were contained in Pub. L. 106–291, title III, §338, Oct. 11, 2000, 114 Stat. 998, as amended by Pub. L. 107–20, title II, §2604, July 24, 2001, 115 Stat. 178.
 
@@ -208,7 +208,7 @@ Monitoring, Evaluation and Reporting.—The Forest Service and the Bureau of Lan
 
 #### Herger-Feinstein Quincy Library Group Forest Recovery
 
-Pub. L. 105–277, div. A, §101(e) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–305, as amended by Pub. L.107–171, title VI, §6201(d)(5), May 13, 2002, 116 Stat. 419, provided that:
+Pub. L. 105–277, div. A, §101(e) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–305, as amended by Pub. L. 107–171, title VI, §6201(d)(5), May 13, 2002, 116 Stat. 419, provided that:
 
 “
 
@@ -312,7 +312,7 @@ Prohibition on use of certain funds.—The Secretary may not conduct the pilot p
 
 &emsp;“(3)
 
-Flexibility.—Subject to normal reprogramming guidelines, during the term of the pilot project, the forest supervisors of Plumas National Forest, Lassen National Forest, and Tahoe National Forest may allocate and use all accounts that contain year-end excess funds and all available excess funds for the administration and management of Plumas National Forest, Lassen National Forest, and the SierravilleRanger District of Tahoe National Forest to perform the resource management activities described in subsection (d).
+Flexibility.—Subject to normal reprogramming guidelines, during the term of the pilot project, the forest supervisors of Plumas National Forest, Lassen National Forest, and Tahoe National Forest may allocate and use all accounts that contain year-end excess funds and all available excess funds for the administration and management of Plumas National Forest, Lassen National Forest, and the Sierraville Ranger District of Tahoe National Forest to perform the resource management activities described in subsection (d).
 
 &emsp;“(4)
 
@@ -415,8 +415,4 @@ Sec. 402.
 Short Title. Section 401 of this title may be cited as the ‘Herger-Feinstein Quincy Library Group Forest Recovery Act’.”
 
 \[Pub. L. 108–7, div. F, title III, §338, Feb. 20, 2003, 117 Stat. 278, provided that: “Congress reaffirms its original intent that the Herger-Feinstein Quincy Library Group Forest Recovery Act of 1998 \[Pub. L. 105–277, div. A, §101(e) \[title IV, §401\], set out above\] be implemented, and hereby extends the expiration of the Quincy Library Group Act by 5 years.”\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2106b, 2109 of this title.
 

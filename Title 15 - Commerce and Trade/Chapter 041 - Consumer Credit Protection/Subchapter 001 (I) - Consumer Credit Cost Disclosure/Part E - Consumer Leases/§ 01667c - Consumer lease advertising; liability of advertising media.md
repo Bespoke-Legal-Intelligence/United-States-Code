@@ -86,7 +86,3 @@ Section 336(b) of Pub. L. 103–325 provided that: “Not later than 365 days af
 
 &emsp;“(3) how such rules could be modified, if at all, for radio advertisements without diminishing consumer protection.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1667d of this title.
-

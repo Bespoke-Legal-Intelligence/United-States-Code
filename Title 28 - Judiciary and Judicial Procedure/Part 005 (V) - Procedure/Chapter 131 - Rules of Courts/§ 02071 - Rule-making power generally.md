@@ -2,7 +2,7 @@
 
 (a) The Supreme Court and all courts established by Act of Congress may from time to time prescribe rules for the conduct of their business. Such rules shall be consistent with Acts of Congress and rules of practice and procedure prescribed under section 2072 of this title.
 
-(b) Any rule prescribed by a court, other than the Supreme Court, under subsection (a) shall be prescribed only after giving appropriate public notice and an opportunity for comment. Suchrule shall take effect upon the date specified by the prescribing court and shall have such effect on pending proceedings as the prescribing court may order.
+(b) Any rule prescribed by a court, other than the Supreme Court, under subsection (a) shall be prescribed only after giving appropriate public notice and an opportunity for comment. Such rule shall take effect upon the date specified by the prescribing court and shall have such effect on pending proceedings as the prescribing court may order.
 
 (c)(1) A rule of a district court prescribed under subsection (a) shall remain in effect unless modified or abrogated by the judicial council of the relevant circuit.
 
@@ -10,7 +10,7 @@
 
 (d) Copies of rules prescribed under subsection (a) by a district court shall be furnished to the judicial council, and copies of all rules prescribed by a court other than the Supreme Court under subsection (a) shall be furnished to the Director of the Administrative Office of the United States Courts and made available to the public.
 
-(e) If the prescribing court determines that there is an immediate need for a rule, such court may proceed under this section without public notice and opportunity for comment, but such court shall promptly thereafter afford such notice and opportunity for comment.
+(e) If the prescribing court determines that there is an immediate need for a rule, such courtmay proceed under this section without public notice and opportunity for comment, but such court shall promptly thereafter afford such notice and opportunity for comment.
 
 (f) No rule may be prescribed by a district court other than under this section.
 
@@ -70,9 +70,5 @@ Section 405 of title IV of Pub. L. 100–702 provided that: “The amendments ma
 
 #### Admiralty Rules
 
-The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however in the Supplemental Rules for Certain Admiralty and Maritime Claims, rules A to F, Federal Rules of Civil Procedure, Appendix to this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 332, 604, 651, 652, 653, 654, 657, 2077 of this title; title 42 section 300aa–12.
+The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however in the Supplemental Rules for Certain Admiralty and Maritime Claims, rules A to F,Federal Rules of Civil Procedure, Appendix to this title.
 

@@ -28,7 +28,7 @@ Any person who, after notice and demand for payment of any fee charged under sub
 
 #### (e) Small airport, seaport, or other facility account; expenditures for services
 
-Fees collected by the Secretary of the Treasury under subsection (a) of this section with respect to the provision of services at an airport, seaport, or other facility shall be deposited in anaccount within the Treasury of the United States that is specially designated for such airport, seaport, or other facility. The Secretary of the Treasury is authorized and directed to pay out of any funds available in such account any expenses incurred by the Federal Government in providing customs services at such airport, seaport, or other facility (including expenses incurred for the salaries and expenses of individuals employed to provide such services). None of the funds deposited into such account shall be available for any purpose other than making payments authorized under the preceding sentence.
+Fees collected by the Secretary of the Treasury under subsection (a) of this section with respect to the provision of services at an airport, seaport, or other facility shall be deposited in an account within the Treasury of the United States that is specially designated for such airport, seaport, or other facility. The Secretary of the Treasury is authorized and directed to pay out of any funds available in such account any expenses incurred by the Federal Government in providing customs services at such airport, seaport, or other facility (including expenses incurred for the salaries and expenses of individuals employed to provide such services). None of the funds deposited into such account shall be available for any purpose other than making payments authorized under the preceding sentence.
 
 #### (f) Customs services for foreign trade zones or subzones
 
@@ -65,8 +65,4 @@ Section effective on 15th day after Oct. 30, 1984, see section 214(a), (b) of Pu
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 58b–1, 58c of this title.
 

@@ -54,7 +54,7 @@ Each comprehensive plan developed pursuant to this section shall be consistent w
 
 #### (d) State agency agreements not cooperative agreements under other provisions
 
-Agreements entered into by State agencies under the authority of this section shall not be deemed to be, or treated as, cooperative agreements to which chapter 63 of title 31 applies.
+Agreements entered into by State agencies under the authority of this section shall not bedeemed to be, or treated as, cooperative agreements to which chapter 63 of title 31 applies.
 
 (Pub. L. 86–797, title II, §202, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1369; amended Pub. L. 97–396, §4, Dec. 31, 1982, 96 Stat. 2005.)
 
@@ -73,8 +73,4 @@ In subsec. (d), “chapter 63 of title 31” substituted for “the Federal Gran
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 670g, 670j, 670<i>o</i> of this title.
 

@@ -8,7 +8,3 @@ Prior to expenditure by a State of payments made to it under section 1397a of th
 
 A prior section 1397c, act Aug. 14, 1935, ch. 531, title XX, §2004, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88 Stat. 2346; amended June 17, 1980, Pub. L. 96–272, title II, §206(a), (b), 94 Stat. 525, related to services program planning, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1397e of this title.
-

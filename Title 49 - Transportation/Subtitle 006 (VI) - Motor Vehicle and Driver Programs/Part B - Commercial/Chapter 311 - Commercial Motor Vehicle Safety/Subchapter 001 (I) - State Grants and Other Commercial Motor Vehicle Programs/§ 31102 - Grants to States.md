@@ -36,7 +36,7 @@ State Plan Procedures and Contents.—(1) The Secretary shall prescribe procedur
 
 &emsp;(N) ensures that information is exchanged among the States in a timely manner;
 
-&emsp;(O) provides satisfactory assurances that the State will undertake efforts that will emphasize and improve enforcement of State and local traffic safety laws and regulations related to commercial motor vehicle safety;
+&emsp;(O) provides satisfactory assurances that the State will undertake efforts that will emphasize and improve enforcement of State andlocal traffic safety laws and regulations related to commercial motor vehicle safety;
 
 &emsp;(P) provides satisfactory assurances that the State will promote activities in support of national priorities and performance goals, including—
 
@@ -54,7 +54,7 @@ State Plan Procedures and Contents.—(1) The Secretary shall prescribe procedur
 
 &emsp;(T) ensures that roadside inspections will be conducted at a location that is adequate to protect the safety of drivers and enforcement personnel.
 
-(2) If the Secretary disapproves a plan under this subsection, the Secretary shall give theState a written explanation and allow the State to modify and resubmit the plan for approval.
+(2) If the Secretary disapproves a plan under this subsection, the Secretary shall give the State a written explanation and allow the State to modify and resubmit the plan for approval.
 
 (3) In estimating the average level of State expenditure under paragraph (1)(D) <sup>1</sup> of this subsection, the Secretary—
 
@@ -233,10 +233,6 @@ Report.—Not later than 2 years after the date of the enactment of this Act \[J
 “(c)
 
 Adjustment of State Allocations.—The Secretary is authorized to adjust State allocations under section 31103 of title 49, United States Code, to reflect the results of the study.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 31103, 31104, 31133, 31142 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -48,23 +48,23 @@ As used in this section:
 
 &emsp;No facility may conduct an examination or procedure described in paragraph (2) involving mammography after October 1, 1994, unless the facility obtains—
 
-&emsp;&emsp;(A) a certificate—
+&emsp;&emsp;(A) a certificate or a temporary renewal certificate—
 
-&emsp;&emsp;&emsp;(i) that is issued, and, if applicable, renewed, by the Secretary in accordance with subsection (c)(1) of this section;
+&emsp;&emsp;&emsp;(i) that is issued, and, if applicable, renewed, by the Secretary in accordance with paragraphs <sup>1</sup> (1) or (2) of subsection (c) of this section;
 
 &emsp;&emsp;&emsp;(ii) that is applicable to the examination or procedure to be conducted; and
 
 &emsp;&emsp;&emsp;(iii) that is displayed prominently in such facility; or
 
-&emsp;&emsp;(B) a provisional certificate—
+&emsp;&emsp;(B) a provisional certificate or a limited provisional certificate—
 
-&emsp;&emsp;&emsp;(i) that is issued by the Secretary in accordance with subsection (c)(2) of this section;
+&emsp;&emsp;&emsp;(i) that is issued by the Secretary in accordance with paragraphs (3) and (4) of subsection (c) of this section;
 
 &emsp;&emsp;&emsp;(ii) that is applicable to the examination or procedure to be conducted; and
 
 &emsp;&emsp;&emsp;(iii) that is displayed prominently in such facility.
 
-> &emsp;The reference to a certificate in this section includes a provisional certificate.
+> &emsp;The reference to a certificate in this section includes a temporary renewal certificate, provisional certificate, or a limited provisional certificate.
 
 #### (2) Examination or procedure
 
@@ -82,7 +82,19 @@ As used in this section:
 
 &emsp;The Secretary may issue or renew a certificate for a facility if the person or agent described in subsection (d)(1)(A) of this section meets the applicable requirements of subsection (d)(1) of this section with respect to the facility. The Secretary may issue or renew a certificate under this paragraph for not more than 3 years.
 
-#### (2) Provisional certificate
+#### (2) Temporary renewal certificate
+
+&emsp;The Secretary may issue a temporary renewal certificate, for a period of not to exceed 45 days, to a facility seeking reaccreditation if the accreditation body has issued an accreditation extension, for a period of not to exceed 45 days, for any of the following:
+
+&emsp;&emsp;(A) The facility has submitted the required materials to the accreditation body within the established time frames for the submission of such materials but the accreditation body is unable to complete the reaccreditation process before the certification expires.
+
+&emsp;&emsp;(B) The facility has acquired additional or replacement equipment, or has had significant personnel changes or other unforeseen situations that have caused the facility to be unable to meet reaccreditation timeframes, but in the opinion of the accreditation body have not compromised the quality of mammography.
+
+#### (3) Limited provisional certificate
+
+&emsp;The Secretary may, upon the request of an accreditation body, issue a limited provisional certificate to an entity to enable the entity to conduct examinations for educational purposes while an onsite visit from an accreditation body is in progress. Such certificate shall be valid only during the time the site visit team from the accreditation body is physically in the facility, and in no case shall be valid for longer than 72 hours. The issuance of a certificate under this paragraph, shall not preclude the entity from qualifying for a provisional certificate under paragraph (4).
+
+#### (4) Provisional certificate
 
 &emsp;The Secretary may issue a provisional certificate for an entity to enable the entity to qualify as a facility. The applicant for a provisional certificate shall meet the requirements of subsection (d)(1) of this section, except providing information required by clauses (iii) and (iv) of subsection (d)(1)(A) of this section. A provisional certificate may be in effect no longer than 6 months from the date it is issued, except that it may be extended once for a period of not more than 90 days if the owner, lessor, or agent of the facility demonstrates to the Secretary that without such extension access to mammography in the geographic area served by the facility would be significantly reduced and if the owner, lessor, or agent of the facility will describe in a report to the Secretary steps that will be taken to qualify the facility for certification under subsection (b)(1) of this section.
 
@@ -230,7 +242,7 @@ As used in this section:
 
 #### (B) Report
 
-&emsp;&emsp;The Secretary shall annually prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of theHouse of Representatives a report that describes the results of the evaluation conducted in accordance with subparagraph (A).
+&emsp;&emsp;The Secretary shall annually prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes the results of the evaluation conducted in accordance with subparagraph (A).
 
 #### (f) Quality standards
 
@@ -428,7 +440,7 @@ As used in this section:
 
 #### (B) Hearing
 
-&emsp;&emsp;If the Secretary suspends a certificate under subparagraph (A), the Secretary shall provide an opportunity for a hearing to the owner or operator of the facility not later than 60 days from the effective date of the suspension. The suspension shall remain in effect until the decision of the Secretary made after the hearing.
+&emsp;&emsp;If the Secretary suspends a certificate under subparagraph (A), the Secretary shall provide an opportunity for a hearing to the owner or operator of the facility not laterthan 60 days from the effective date of the suspension. The suspension shall remain in effect until the decision of the Secretary made after the hearing.
 
 #### (3) Ineligibility to own or operate facilities after revocation
 
@@ -492,7 +504,7 @@ If the Secretary determines that—
 
 #### (m) State laws
 
-Nothing in this section shall be construed to limit the authority of any State to enact and enforce laws relating to the matters covered by this section that are at least as stringent as this section or the regulations issued under this section.
+Nothing in this section shall be construed to limit the authority of any State to enact andenforce laws relating to the matters covered by this section that are at least as stringent as this section or the regulations issued under this section.
 
 #### (n) National Advisory Committee
 
@@ -510,7 +522,7 @@ Nothing in this section shall be construed to limit the authority of any State t
 
 &emsp;&emsp;(C) other health professionals,
 
-> &emsp;whose clinical practice, research specialization, or professional expertise include a significant focus on mammography. The Secretary shall appoint at least 4 individuals from among national breast cancer or consumer health organizations with expertise in mammography and at least 2 practicing physicians who provide mammography services.
+> &emsp;whose clinical practice, research specialization, or professional expertise include a significant focus on mammography. The Secretary shall appoint at least 4 individuals from among national breast cancer or consumer health organizations with expertise in mammography, at least 2 industry representatives with expertise in mammography equipment, and at least 2 practicing physicians who provide mammography services.
 
 #### (3) Functions and duties
 
@@ -540,7 +552,7 @@ Nothing in this section shall be construed to limit the authority of any State t
 
 #### (4) Meetings
 
-&emsp;The Advisory Committee shall meet not less than quarterly for the first 3 years of the program and thereafter, at least biannually.
+&emsp;The Advisory Committee shall meet not less than quarterly for the first 3 years of the program and thereafter, at least annually.
 
 #### (5) Chairperson
 
@@ -598,7 +610,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 &emsp;The Secretary may, upon application, authorize a State—
 
-&emsp;&emsp;(A) to carry out, subject to paragraph (2), the certification program requirementsunder subsections (b), (c), (d), (g)(1), (h), (i), and (j) of this section (including the requirements under regulations promulgated pursuant to such subsections), and
+&emsp;&emsp;(A) to carry out, subject to paragraph (2), the certification program requirements under subsections (b), (c), (d), (g)(1), (h), (i), and (j) of this section (including the requirements under regulations promulgated pursuant to such subsections), and
 
 &emsp;&emsp;(B) to implement the standards established by the Secretary under subsection (f) of this section,
 
@@ -654,17 +666,17 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (ii) Appropriations
 
-&emsp;&emsp;&emsp;Fees collected under subparagraph (A) shall be collected and available only to the extent provided in advance in appropriation Acts.
+&emsp;&emsp;&emsp;Fees collected under subparagraph (A) shall be collected and available only to theextent provided in advance in appropriation Acts.
 
 #### (2) Authorization of appropriations
 
 &emsp;There are authorized to be appropriated to carry out this section—
 
-&emsp;&emsp;(A) to award research grants under subsection (p) of this section, such sums as may be necessary for each of the fiscal years 1993 through 2002; and
+&emsp;&emsp;(A) to award research grants under subsection (p) of this section, such sums as may be necessary for each of the fiscal years 1993 through 2007; and
 
-&emsp;&emsp;(B) for the Secretary to carry out other activities which are not supported by fees authorized and collected under paragraph (1), such sums as may be necessary for fiscal years 1993 through 2002.
+&emsp;&emsp;(B) for the Secretary to carry out other activities which are not supported by fees authorized and collected under paragraph (1), such sums as may be necessary for fiscal years 1993 through 2007.
 
-(July 1, 1944, ch. 373, title III, §354, as added Pub. L. 102–539, §2, Oct. 27, 1992, 106 Stat. 3547; amended Pub. L. 105–248, §§2–13, Oct. 9, 1998, 112 Stat. 1864–1867.)
+(July 1, 1944, ch. 373, title III, §354, as added Pub. L. 102–539, §2, Oct. 27, 1992, 106 Stat. 3547; amended Pub. L. 105–248, §§2–13, Oct. 9, 1998, 112 Stat. 1864–1867; Pub. L. 108–365, §§2–4, Oct. 25, 2004, 118 Stat. 1738–1740.)
 
 #### Prior Provisions
 
@@ -673,6 +685,20 @@ A prior section 263b, act July 1, 1944, ch. 373, title III, §354, as added Oct.
 Sections 263c to 263n, act July 1, 1944, ch. 373, title III, §§355–360F, as added Oct. 18, 1968, Pub. L. 90–602, §2(3), 82 Stat. 1174, and amended, which related to electronic product radiation control, were renumbered sections 531 to 542, respectively, of the Federal Food, Drug, and Cosmetic Act by Pub. L. 101–629, §19(a)(4), Nov. 28, 1990, 104 Stat. 4530, and are classified to sections 360hh to 360ss, respectively, of Title 21, Food and Drugs.
 
 #### Amendments
+
+2004—Subsec. (b)(1). Pub. L. 108–365, §2(1)(C), substituted “temporary renewal certificate, provisional certificate, or a limited provisional certificate” for “provisional certificate” in concluding provisions.
+
+Subsec. (b)(1)(A). Pub. L. 108–365, §2(1)(A), inserted “or a temporary renewal certificate” after “certificate” in introductory provisions and substituted “paragraphs (1) or (2) of subsection (c)” for “subsection (c)(1)” in cl. (i).
+
+Subsec. (b)(1)(B). Pub. L. 108–365, §2(1)(B), inserted “or a limited provisional certificate” after “certificate” in introductory provisions and substituted “paragraphs (3) and (4) of subsection (c)” for “subsection (c)(2)” in cl. (i).
+
+Subsec. (c)(2) to (4). Pub. L. 108–365, §2(2), added pars. (2) and (3) and redesignated former par. (2) as (4).
+
+Subsec. (n)(2). Pub. L. 108–365, §3(1), reenacted subpar. (C) without change, added concluding provisions, and struck out former concluding provisions which read as follows: “whose clinical practice, research specialization, or professional expertise include a significant focus on mammography. The Secretary shall appoint at least 4 individuals from among national breast cancer or consumer health organizations with expertise in mammography and at least 2 practicing physicians who provide mammography services.”
+
+Subsec. (n)(4). Pub. L. 108–365, §3(2), substituted “annually” for “biannually”.
+
+Subsec. (r)(2). Pub. L. 108–365, §4, substituted “2007” for “2002” in subpars. (A) and (B).
 
 1998—Subsec. (a)(4). Pub. L. 105–248, §9(1), inserted “or local” after “State”.
 
@@ -730,7 +756,9 @@ Subsec. (r)(2)(B). Pub. L. 105–248, §2, substituted “fiscal years” for �
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a)of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Termination of Advisory Committees
 
@@ -749,8 +777,4 @@ Pub. L. 103–183, title VII, §707, Dec. 14, 1993, 107 Stat. 2241, provided tha
 #### Study
 
 Section 3 of Pub. L. 102–539 directed Comptroller General of United States to conduct a study of the certification program authorized by this section to determine if the program has resulted in improvement of quality and accessibility of mammography services, and if the program has reduced the frequency of poor quality mammography and improved early detection of breast cancer, with Comptroller General, not later than 3 years from Oct. 27, 1992, submit to Congress an interim report of results of study and, not later than 5 years from such date to submit a final report.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395m, 1395x of this title; title 38 section 7319.
 

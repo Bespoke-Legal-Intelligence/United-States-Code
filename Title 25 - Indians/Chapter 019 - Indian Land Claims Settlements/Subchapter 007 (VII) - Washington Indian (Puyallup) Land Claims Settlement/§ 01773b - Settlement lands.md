@@ -28,7 +28,7 @@ The lands referred to in subsection (a) of this section, and more particularly d
 
 &emsp;(7) The Taylor Way and East-West Road properties, two properties totaling approximately 7.4 acres.
 
-&emsp;(8) The submerged lands in the Puyallup River within the 1873 Survey Area below the mean high water line, as provided in section I. B. of the Settlement Agreement. To the extent that the United States has title to any of the lands described in this subpart,<sup>1</sup> then such lands shall be held by the United States intrust for the use and benefit of the Puyallup Tribe.
+&emsp;(8) The submerged lands in the Puyallup River within the 1873 Survey Area below the mean high water line, as provided in section I. B. of the Settlement Agreement. To the extent that the United States has title to any of the lands described in this subpart,<sup>1</sup> then such lands shall be held by the United States in trust for the use and benefit of the Puyallup Tribe.
 
 &emsp;(9) The approximately 600 acres of open space, forest, and cultural lands to be acquired by the Tribe with cash received pursuant to section I of the Settlement Agreement or other tribal funds.
 
@@ -41,10 +41,6 @@ Nothing in this subchapter is intended to affect the boundaries of the Puyallup 
 There is authorized to be appropriated $500,000 for the Federal share for the purchase of the lands referred to in subsection (c)(9) of this section.
 
 (Pub. L. 101–41, §4, June 21, 1989, 103 Stat. 85.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1773c of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection,”.</i>
 

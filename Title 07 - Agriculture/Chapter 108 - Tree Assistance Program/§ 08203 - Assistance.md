@@ -8,7 +8,3 @@ Subject to section 8204 of this title, the assistance provided by the Secretary 
 
 (Pub. L. 107–171, title X, §10203, May 13, 2002, 116 Stat. 491.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8202 of this title.
-

@@ -10,7 +10,7 @@ There are authorized to be appropriated to carry out the provisions of this subc
 
 #### (c) Availability of appropriations
 
-Amounts appropriated under this section for any fiscal year for programs and activitiesunder this subchapter shall be made available for obligation in the succeeding fiscal year.
+Amounts appropriated under this section for any fiscal year for programs and activities under this subchapter shall be made available for obligation in the succeeding fiscal year.
 
 #### (d) Authorization of appropriations for leveraged resources
 
@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 103–252, §§303(a)(1), 311(c)(1)(A), substituted “this
 
 Subsec. (c)(1). Pub. L. 103–252, §311(c)(1)(B), made technical amendment to reference to this subchapter to correct reference to corresponding provision of original act.
 
-Pub. L. 103–252, §303(a)(2), which directed the substitution of “October 1” for “July 1” and “following the year in which” for “for which” in last sentence of subsec. (c), was executed by making the substitutions in last sentence of subsec. (c)(1) to reflect the probable intent of Congress.
+Pub. L. 103–252, §303(a)(2), which directed the substitution of “October 1” for “July 1” and “following theyear in which” for “for which” in last sentence of subsec. (c), was executed by making the substitutions in last sentence of subsec. (c)(1) to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 103–252, §303(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated to carry out section 8626a of this title, $25,000,000 in fiscal year 1992, and $50,000,000 for each of the fiscal years 1993, 1994, and 1995.”
 
@@ -129,8 +129,4 @@ Section 301(a) of title III of Pub. L. 103–252 provided that: “This title \[
 #### Short Title
 
 Section 2601 of title XXVI of Pub. L. 97–35 provided that: “This title \[enacting this subchapter and repealing subchapter I of this chapter\] may be cited as the ‘Low-Income Home Energy Assistance Act of 1981’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6862, 8623, 8626a, 8626b, 8628a of this title.
 

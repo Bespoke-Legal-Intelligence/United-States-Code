@@ -124,7 +124,3 @@ Pub. L. 101–227, §2, Dec. 12, 1989, 103 Stat. 1943, which was repealed by Pub
 
 Pub. L. 100–203, title VI, §6001, Dec. 22, 1987, 101 Stat. 1330–275, as amended by Pub. L. 101–103, §6, Sept. 30, 1989, 103 Stat. 672; Pub. L. 101–508, title VII, §7001(a)(2)(C)(i), Nov. 5, 1990, 104 Stat. 1388–328.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8342, 8348 of this title; title 50 section 2143.
-

@@ -2,7 +2,7 @@
 
 An air carrier that will receive payments from another air carrier under an agreement between the air carriers for the time the one air carrier is not providing foreign air transportation, or is providing reduced levels of foreign air transportation, because of a labor strike must file a true copy of the agreement with the Secretary of Transportation and have it approved by the Secretary under section 41309 of this title. Notwithstanding section 41309, the Secretary shall approve the agreement only if it provides that—
 
-&emsp;(1) the air carrier will receive payments of not more than 60 percent of direct operatingexpenses, including interest expenses, but not depreciation or amortization expenses;
+&emsp;(1) the air carrier will receive payments of not more than 60 percent of direct operating expenses, including interest expenses, but not depreciation or amortization expenses;
 
 &emsp;(2) benefits may be paid for not more than 8 weeks, and may not be for losses incurred during the first 30 days of a strike; and
 
@@ -37,8 +37,4 @@ In this section, before clause (1), the text of 49 App.:1382(c)(1) is omitted as
 #### References in Text
 
 The Railway Labor Act, referred to in par. (3), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41101, 41308, 41503, 41710 of this title.
 

@@ -4,7 +4,7 @@
 
 (1) For the purpose of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, the term “award year” shall be defined as the period beginning July 1 and ending June 30 of the following year.
 
-(2) For the purpose of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, the term “academic year” shall require a minimum of 30 weeks of instructional time, and, with respect to an undergraduate course of study, shall require that during such minimum period of instructional time a full-time student is expected to complete at least 24 semester or trimester hours or 36 quarter hours at an institution that measures program length in credit hours, or at least 900 clock hours at aninstitution that measures program length in clock hours. The Secretary may reduce such minimum of 30 weeks to not less than 26 weeks for good cause, as determined by the Secretary on a case-by-case basis, in the case of an institution of higher education that provides a 2-year or 4-year program of instruction for which the institution awards an associate or baccalaureate degree.
+(2) For the purpose of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, the term “academic year” shall require a minimum of 30 weeks of instructional time, and, with respect to an undergraduate course of study, shall require that during such minimum period of instructional time a full-time student is expected to complete at least 24 semester or trimester hours or 36 quarter hours at an institution that measures program length in credit hours, or at least 900 clock hours at an institution that measures program length in clock hours. The Secretary may reduce such minimum of 30 weeks to not less than 26 weeks for good cause, as determined by the Secretary on a case-by-case basis, in the case of an institution of higher education that provides a 2-year or 4-year program of instruction for which the institution awards an associate or baccalaureate degree.
 
 #### (b) Eligible program
 
@@ -58,7 +58,7 @@ Subsec. (a)(4). Pub. L. 105–216, which directed the amendment of par. (4), eff
 
 Subsec. (a)(3)(D). Pub. L. 103–208, §2(h)(2), substituted “do not have a high school diploma or its recognized equivalent” for “are admitted pursuant to section 1091(d) of this title” and inserted before period at end “, except that the Secretary may waive the limitation contained in this subparagraph if a nonprofit institution demonstrates to the satisfaction of the Secretary that it exceeds such limitation because it serves, through contracts with Federal, State, or local government agencies, significant numbers of students who do not have a high school diploma or its recognized equivalent”.
 
-Subsec. (a)(4)(A). Pub. L. 103–208, §2(h)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “such institution has filed for bankruptcy; or”.
+Subsec. (a)(4)(A). Pub. L. 103–208, §2(h)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such institution has filed for bankruptcy; or”.
 
 Subsec. (d)(2). Pub. L. 103–208, §2(h)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purpose of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, the term ‘academic year’ shall require a minimum of 30 weeks of instructional time in which a full-time student is expected to complete at least 24 semester or trimester hours or 36 quarter hours at an institution which measures program length in credit hours or at least 900 clock hours at an institution which measures program length in clock hours.”
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 102–26 applicable to any grant, loan, or work assistance 
 
 #### Effective Date of 1990 Amendment
 
-Section 3005(c) of Pub. L. 101–508, which provided that the amendments made by section 3005 (amending thissection and section 1091 of this title) were to apply to any grant, loan, or work assistance to cover the cost of instruction for periods of enrollment beginning on or after Jan. 1, 1991, was repealed by section 2(d)(2)(A) of Pub. L. 102–26. See Construction of 1991 Amendment note below.
+Section 3005(c) of Pub. L. 101–508, which provided that the amendments made by section 3005 (amending this section and section 1091 of this title) were to apply to any grant, loan, or work assistance to cover the cost of instruction for periods of enrollment beginning on or after Jan. 1, 1991, was repealed by section 2(d)(2)(A) of Pub. L. 102–26. See Construction of 1991 Amendment note below.
 
 #### Effective Date of 1987 Amendment
 
@@ -149,8 +149,4 @@ Section 2(d)(2)(A) of Pub. L. 102–26 provided that: “Section 3005 of the Omn
 #### Need-Based Aid
 
 Section 1544 of Pub. L. 102–325 authorized institutions of higher education to voluntarily agree with other such institutions to award financial aid not awarded under this chapter to students attending such institutions only on basis of demonstrated financial need for such aid, and to discuss and adopt principles of professional judgment for determining student financial need for such aid, with exceptions for cases pending on July 23, 1992, and for discussions or agreements on prospective financial aid awards to specific common applicants, and provided that such authorization was to expire on Sept. 30, 1994, prior to repeal by Pub. L. 103–382, title V, §568(e)(2), Oct. 20, 1994, 108 Stat. 4061. See section 568(a)–(d) of Pub. L. 103–382, set out as a note under section 1 of Title 15, Commerce and Trade.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1075, 1078, 1078–8, 1093, 5938 of this title; title 26 sections 25A, 529; title 29 section 2204; title 42 sections 604, 3796d–6.
 

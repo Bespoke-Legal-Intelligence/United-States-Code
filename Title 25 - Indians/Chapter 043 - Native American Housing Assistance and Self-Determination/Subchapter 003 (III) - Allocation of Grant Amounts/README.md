@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—ALLOCATION OF GRANT AMOUNTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 4191 of this title.
-
 
 ---
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—COMMISSION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 15304, 15481, 15545 of this title.
-
 
 ---
 

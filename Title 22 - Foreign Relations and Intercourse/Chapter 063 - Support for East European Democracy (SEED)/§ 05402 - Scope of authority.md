@@ -20,7 +20,3 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this A
 
 Sections 301 and 304, referred to in subsec. (a), are sections 301 and 304 of Pub. L. 101–179, title III, Nov. 28, 1989, 103 Stat. 1311, 1312. Section 301 amended section 2462 of Title 19, Customs Duties. Section 304 enacted section 2185 of this title, amended section 2184 of this title, and enacted provisions set out as a note under section 2185 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 635.
-

@@ -10,7 +10,3 @@ The Sawtooth National Recreation Area (hereafter referred to as the “recreatio
 
 (Pub. L. 92–400, §1, Aug. 22, 1972, 86 Stat. 612.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460aa–2 of this title.
-

@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (1) State law
 
-&emsp;The term “State law” includes all laws, decisions, rules, regulations, or other State action having the effect of law, of any State. A law of the United States applicable only to the District of Columbia shall be treated as a State law rather than a law of the United States.
+&emsp;The term “State law” includes all laws, decisions, rules, regulations, or other State action having the effect of law, of any State. Alaw of the United States applicable only to the District of Columbia shall be treated as a State law rather than a law of the United States.
 
 #### (2) State
 
@@ -63,8 +63,4 @@ Amendment by Pub. L. 104–204 applicable with respect to group health plans for
 #### Effective Date
 
 Section applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section 101(g) of Pub. L. 104–191, set out as a note under section 1181 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1144, 1185 of this title.
 

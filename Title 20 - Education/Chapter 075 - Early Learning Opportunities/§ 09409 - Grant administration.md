@@ -64,7 +64,3 @@ A State that receives a grant under this chapter may use—
 
 (Pub. L. 106–554, §1(a)(1) \[title VIII, §810\], Dec. 21, 2000, 114 Stat. 2763, 2763A–85.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9406, 9407, 9410 of this title.
-

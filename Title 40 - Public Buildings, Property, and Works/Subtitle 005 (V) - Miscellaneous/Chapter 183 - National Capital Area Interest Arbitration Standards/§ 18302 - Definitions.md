@@ -6,13 +6,13 @@ In this chapter, the following definitions apply:
 
 Arbitration.—The term “arbitration”—
 
-&emsp;&emsp;(A) means the arbitration of disputes, regarding the terms and conditions of employment, that is required under an interstate compact governing an interstate compact agency operating in the national capital area; but
+&emsp;&emsp;(A) means the arbitration of disputes, regarding the terms and conditions of employment, that is required under an interstate compact governing an interstate compactagency operating in the national capital area; but
 
 &emsp;&emsp;(B) does not include the interpretation and application of rights arising from an existing collective bargaining agreement.
 
 &emsp;(2)
 
-Arbitrator.—The term “arbitrator” refers to either a single arbitrator, or a board ofarbitrators, chosen under applicable procedures.
+Arbitrator.—The term “arbitrator” refers to either a single arbitrator, or a board of arbitrators, chosen under applicable procedures.
 
 &emsp;(3)
 

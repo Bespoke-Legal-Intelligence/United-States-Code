@@ -18,7 +18,3 @@ The Secretary of Agriculture is authorized and directed to collect and publish s
 
 Section 4 of act Aug. 27, 1935, which amended this section and sections 502 and 505 of this title, provided as follows: “If any provision of this act, or the application of such provision to any person or circumstances, is held invalid, the remainder of the act and the application of such provisions to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 503, 2276 of this title.
-

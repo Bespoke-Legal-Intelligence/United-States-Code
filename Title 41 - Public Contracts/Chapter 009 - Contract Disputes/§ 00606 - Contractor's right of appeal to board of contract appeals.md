@@ -4,7 +4,3 @@ Within ninety days from the date of receipt of a contracting officer's decision 
 
 (Pub. L. 95–563, §7, Nov. 1, 1978, 92 Stat. 2385.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 256 of this title; title 10 sections 2324, 2410m.
-

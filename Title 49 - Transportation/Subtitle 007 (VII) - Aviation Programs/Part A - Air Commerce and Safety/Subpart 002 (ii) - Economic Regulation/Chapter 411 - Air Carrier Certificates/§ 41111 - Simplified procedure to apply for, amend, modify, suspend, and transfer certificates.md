@@ -76,7 +76,3 @@ In subsection (b), the words “to act on an application for a certificate to pr
 
 In subsection (c)(2), the words “by such person” are omitted as surplus. The words “a response opposing or supporting the issuance of a certificate” are substituted for “a protest or memorandum filed with respect to such application” for consistency.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41108, 41109, 41110 of this title.
-

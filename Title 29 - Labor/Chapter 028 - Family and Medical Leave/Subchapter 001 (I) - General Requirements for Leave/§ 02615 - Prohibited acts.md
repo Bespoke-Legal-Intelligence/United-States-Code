@@ -22,7 +22,3 @@ It shall be unlawful for any person to discharge or in any other manner discrimi
 
 (Pub. L. 103–3, title I, §105, Feb. 5, 1993, 107 Stat. 14.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2617 of this title; title 2 section 1312; title 3 section 412.
-

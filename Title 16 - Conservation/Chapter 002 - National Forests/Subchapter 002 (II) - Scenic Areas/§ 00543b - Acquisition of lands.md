@@ -12,7 +12,7 @@ The Secretary is authorized to acquire all lands and interests therein within th
 
 (1) Not later than six months after September 28, 1984, the Secretary shall publish specific guidelines under which determinations shall be made under paragraph (2) of subsection (a) of this section. No use which existed prior to June 1, 1984, within the area included in the Scenic Area shall be treated under such guidelines as a detrimental or incompatible use within the meaning of such paragraph (2).
 
-(2) For purposes of subsection (a)(2) of this section, any development or proposed developmentof private property within the boundary of the Scenic Area that is significantly different from, or a significant expansion of, development existing as of June 1, 1984, shall be considered by the Secretary as detrimental to the integrity of the Scenic Area. No reconstruction or expansion of a private or commercial building, including—
+(2) For purposes of subsection (a)(2) of this section, any development or proposed development of private property within the boundary of the Scenic Area that is significantly different from, or a significant expansion of, development existing as of June 1, 1984, shall be considered by the Secretary as detrimental to the integrity of the Scenic Area. No reconstruction or expansion of a private or commercial building, including—
 
 &emsp;(A) reconstruction of an existing building,
 
@@ -25,8 +25,4 @@ The Secretary is authorized to acquire all lands and interests therein within th
 Notwithstanding any other provision of law, the Secretary shall only be required to prepare an environmental assessment of any exchange of mineral or geothermal interest authorized by sections 543 to 543h of this title.
 
 (Pub. L. 98–425, title III, §303, Sept. 28, 1984, 98 Stat. 1633.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 543a of this title.
 

@@ -70,7 +70,3 @@ Section 423(b) of Pub. L. 100–628 provided that: “The Comptroller General of
 
 &emsp;“(2) recommendations for such legislation as the Comptroller General determines appropriate, including recommendations on how to prevent homelessness as a result of mortgage foreclosures.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11372, 11375 of this title.
-

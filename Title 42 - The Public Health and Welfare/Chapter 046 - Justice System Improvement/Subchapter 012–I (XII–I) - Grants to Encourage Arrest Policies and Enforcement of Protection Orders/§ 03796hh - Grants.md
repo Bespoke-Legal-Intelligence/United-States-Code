@@ -36,7 +36,7 @@ Eligible grantees are States, Indian tribal governments <sup>1</sup> State and 
 
 &emsp;(2) demonstrate that their laws, policies, or practices and their training programs discourage dual arrests of offender and victim;
 
-&emsp;(3) certify that their laws, policies, or practices prohibit issuance of mutual restrainingorders of protection except in cases where both spouses file a claim and the court makes detailed findings of fact indicating that both spouses acted primarily as aggressors and that neither spouse acted primarily in self-defense; and
+&emsp;(3) certify that their laws, policies, or practices prohibit issuance of mutual restraining orders of protection except in cases where both spouses file a claim and the court makes detailed findings of fact indicating that both spouses acted primarily as aggressors and that neither spouse acted primarily in self-defense; and
 
 &emsp;(4) certify that their laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, or in connection with the filing, issuance, registration, or service of a protection order, or a petition for a protection order, to protect a victim of domestic violence, stalking, or sexual assault, that the victim bear the costs associated with the filing of criminal charges against the offender, or the costs associated with the filing, issuance, registration, or service of a warrant, protection order, petition for a protection order, or witness subpoena, whether issued inside or outside the State, tribal, or local jurisdiction.
 
@@ -79,10 +79,6 @@ Subsec. (c)(4). Pub. L. 106–386, §1101(b)(2)(A), added par. (4) and struck ou
 Subsec. (d). Pub. L. 106–386, §1101(b)(2)(B), added subsec. (d).
 
 Subsec. (e). Pub. L. 106–386, §1102(b)(4), added subsec. (e).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3796hh–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

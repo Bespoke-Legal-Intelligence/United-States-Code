@@ -22,7 +22,3 @@ Setoff.—The United States Government may deduct the amount of a civil penalty 
 
 Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 46301 of this title.
-

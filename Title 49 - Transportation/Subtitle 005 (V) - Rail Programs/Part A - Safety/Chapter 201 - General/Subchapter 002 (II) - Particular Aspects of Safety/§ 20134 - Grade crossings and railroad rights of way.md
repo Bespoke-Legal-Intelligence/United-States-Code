@@ -60,7 +60,3 @@ In subsection (c)(1), before clause (A), the words “and incidents” are added
 
 1996—Subsec. (c)(2). Pub. L. 104–287 substituted “Committee on Transportation and Infrastructure” for “Committee on Energy and Commerce”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 103, 20117 of this title.
-

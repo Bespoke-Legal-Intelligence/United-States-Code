@@ -26,7 +26,3 @@ Not later than January 31 of each year, the Director General of the Foreign Serv
 
 1994—Subsec. (b). Pub. L. 103–236 substituted “institution” for “Institute”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4171 of this title.
-

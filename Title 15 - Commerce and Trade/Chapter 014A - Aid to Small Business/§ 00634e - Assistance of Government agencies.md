@@ -8,7 +8,3 @@ Each department, agency, and instrumentality of the Federal Government is author
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 634d, 634g of this title.
-

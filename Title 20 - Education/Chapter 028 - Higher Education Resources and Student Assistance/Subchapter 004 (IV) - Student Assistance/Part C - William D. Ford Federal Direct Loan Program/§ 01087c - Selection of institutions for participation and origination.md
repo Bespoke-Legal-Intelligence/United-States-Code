@@ -8,7 +8,7 @@ The Secretary shall enter into agreements pursuant to section 1087d(a) of this t
 
 #### (1) Application
 
-&emsp;Each institution of higher education desiring to participate in the direct student loanprogram under this part shall submit an application satisfactory to the Secretary containing such information and assurances as the Secretary may require.
+&emsp;Each institution of higher education desiring to participate in the direct student loan program under this part shall submit an application satisfactory to the Secretary containing such information and assurances as the Secretary may require.
 
 #### (2) Selection procedure
 
@@ -109,8 +109,4 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1091a of this title.
 

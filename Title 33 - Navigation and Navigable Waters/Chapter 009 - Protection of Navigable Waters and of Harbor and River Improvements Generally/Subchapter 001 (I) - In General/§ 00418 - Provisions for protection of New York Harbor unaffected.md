@@ -12,7 +12,3 @@ Subchapter III (§441 et seq.) of this chapter, referred to in text, was in the 
 
 Section is from part of section 20(a) of act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”. See Codification and Amendment notes set out under section 415 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 409, 412 of this title.
-

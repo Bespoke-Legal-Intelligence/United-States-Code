@@ -6,7 +6,7 @@
 
 &emsp;(2) the term of the patent has never been extended under subsection (e)(1) of this section;
 
-&emsp;(3) an application for extension is submitted by the owner of record of the patent or itsagent and in accordance with the requirements of paragraphs (1) through (4) of subsection (d);
+&emsp;(3) an application for extension is submitted by the owner of record of the patent or its agent and in accordance with the requirements of paragraphs (1) through (4) of subsection (d);
 
 &emsp;(4) the product has been subject to a regulatory review period before its commercial marketing or use;
 
@@ -68,7 +68,7 @@
 
 &emsp;(A) the identity of the approved product and the Federal statute under which regulatory review occurred;
 
-&emsp;(B) the identity of the patent for which an extension is being sought and the identity of each claim of such patent which claims the approved product or a method of using or manufacturing the approved product;
+&emsp;(B) the identity of the patent for which an extension is being sought and the identity ofeach claim of such patent which claims the approved product or a method of using or manufacturing the approved product;
 
 &emsp;(C) information to enable the Director to determine under subsections (a) and (b) the eligibility of a patent for extension and the rights that will be derived from the extension and information to enable the Director and the Secretary of Health and Human Services or the Secretary of Agriculture to determine the period of the extension under subsection (g);
 
@@ -104,7 +104,7 @@
 
 &emsp;(v) such patent or other information as the Director may require.
 
-(B) If the Director determines that, except for permission to market or use the product commercially, the patent would be eligible for an extension of the patent term under this section, the Director shall publish in the Federal Register a notice of such determination, includingthe identity of the product under regulatory review, and shall issue to the applicant a certificate of interim extension for a period of not more than 1 year.
+(B) If the Director determines that, except for permission to market or use the product commercially, the patent would be eligible for an extension of the patent term under this section, the Director shall publish in the Federal Register a notice of such determination, including the identity of the product under regulatory review, and shall issue to the applicant a certificate of interim extension for a period of not more than 1 year.
 
 (C) The owner of record of a patent, or its agent, for which an interim extension has been granted under subparagraph (B), may apply for not more than 4 subsequent interim extensions under this paragraph, except that, in the case of a patent subject to subsection (g)(6)(C), the owner of record of the patent, or its agent, may apply for only 1 subsequent interim extension under this paragraph. Each such subsequent application shall be made during the period beginning 60 days before, and ending 30 days before, the expiration of the preceding interim extension.
 
@@ -158,7 +158,7 @@
 
 &emsp;(7) The term “date of enactment” as used in this section means September 24, 1984, for a human drug product, a medical device, food additive, or color additive.
 
-&emsp;(8) The term “date of enactment” as used in this section means the date of enactment of the Generic Animal Drug and Patent Term Restoration Act for an animal drug or a veterinary biological product.
+&emsp;(8) The term “date of enactment” as used in this section means the date of enactment ofthe Generic Animal Drug and Patent Term Restoration Act for an animal drug or a veterinary biological product.
 
 (g) For purposes of this section, the term “regulatory review period” has the following meanings:
 
@@ -214,7 +214,7 @@
 
 &emsp;&emsp;&emsp;(iii) no clinical investigation described in paragraph (3) was begun or product development protocol described in such paragraph was submitted,
 
-> &emsp;&emsp;before such date for the approved product the period of extension determined on thebasis of the regulatory review period determined under any such paragraph may not exceed five years.
+> &emsp;&emsp;before such date for the approved product the period of extension determined on the basis of the regulatory review period determined under any such paragraph may not exceed five years.
 
 &emsp;&emsp;(C) If the patent involved was issued before the date of the enactment of this section and if an action described in subparagraph (B) was taken before the date of the enactment of this section with respect to the approved product and the commercial marketing or use of the product has not been approved before such date, the period of extension determined on the basis of the regulatory review period determined under such paragraph may not exceed two years or in the case of an approved product which is a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act or the Virus-Serum-Toxin Act), three years.
 
@@ -335,10 +335,6 @@ Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(A)\] of Pub. L. 106–
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective 6 months after Dec. 8, 1994, and applicable to all patent applications filed in the United States on or after that effective date, with provisions relating to earliest filed patent application, see section 534(b)(1), (3) of Pub. L. 103–465, set out as a note under section 154 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 273, 282 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Commissioner”.</i>
 

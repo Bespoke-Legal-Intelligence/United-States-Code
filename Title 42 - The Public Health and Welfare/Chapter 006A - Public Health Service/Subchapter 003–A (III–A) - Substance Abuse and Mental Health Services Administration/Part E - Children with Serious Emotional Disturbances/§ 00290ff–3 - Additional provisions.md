@@ -30,11 +30,11 @@ A funding agreement for a grant under section 290ff(a) of this title is that, if
 
 &emsp;(2) will be adjusted to reflect the income of the family of the child involved; and
 
-&emsp;(3) will not be imposed on any child whose family has income and resources of equal to or less than 100 percent of the official poverty line, as established by the Director of the Office of Management and Budget and revised bythe Secretary in accordance with section 9902(2) of this title.
+&emsp;(3) will not be imposed on any child whose family has income and resources of equal to or less than 100 percent of the official poverty line, as established by the Director of the Office of Management and Budget and revised by the Secretary in accordance with section 9902(2) of this title.
 
 #### (d) Relationship to items and services under other programs
 
-A funding agreement for a grant under section 290ff(a) of this title is that the grant, and the non-Federal contributions made with respect to the grant, will not be expended to make payment for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service—
+A funding agreement for a grant under section 290ff(a) of this title is that the grant, and the non-Federal contributions made with respect to the grant, will not be expended to make payment for any item or service to the extent thatpayment has been made, or can reasonably be expected to be made, with respect to such item or service—
 
 &emsp;(1) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
 
@@ -67,8 +67,4 @@ The Secretary may make a grant under section 290ff(a) of this title only if an a
 #### Effective Date
 
 Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 290ff–1 of this title.
 

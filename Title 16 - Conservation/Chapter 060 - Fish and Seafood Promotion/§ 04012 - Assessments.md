@@ -22,7 +22,7 @@ A council may not impose an assessment on any person that was not eligible to vo
 
 #### (d) Voluntary payments
 
-Any person may make voluntary payments or in-kind contributions to a council for purposesof assisting the council in carrying out its functions.
+Any person may make voluntary payments or in-kind contributions to a council for purposes of assisting the council in carrying out its functions.
 
 #### (e) Deposit of funds
 
@@ -47,8 +47,4 @@ All funds collected or received by a council under this section shall be deposit
 &emsp;(B) removed from office if an officer or employee of a council or the Department of Commerce.
 
 (Pub. L. 99–659, title II, §213, Nov. 14, 1986, 100 Stat. 3727.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4009, 4010, 4013, 4015 of this title.
 

@@ -30,7 +30,3 @@ Section was formerly classified to section 564 of this title.
 
 Pub. L. 99–198, title XVII, §1704, Dec. 23, 1985, 99 Stat. 1635, as amended by Pub. L. 104–66, title I, §1011(g), Dec. 21, 1995, 109 Stat. 710, provided that: “The Secretary of Agriculture shall perform random spot checks of potatoes entering through ports of entry in the northeastern United States.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 499h of this title; title 42 section 418.
-

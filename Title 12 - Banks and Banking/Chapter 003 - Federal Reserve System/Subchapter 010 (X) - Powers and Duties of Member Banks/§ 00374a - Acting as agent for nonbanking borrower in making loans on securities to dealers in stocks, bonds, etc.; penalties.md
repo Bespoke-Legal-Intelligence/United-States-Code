@@ -8,7 +8,3 @@ No member bank shall act as the medium or agent of any nonbanking corporation, p
 
 Section is comprised of subsec. (d), formerly seventh par., of section 19 of act Dec. 23, 1913, as redesignated by Pub. L. 89–597.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 248, 1424, 1828, 3105 of this title.
-

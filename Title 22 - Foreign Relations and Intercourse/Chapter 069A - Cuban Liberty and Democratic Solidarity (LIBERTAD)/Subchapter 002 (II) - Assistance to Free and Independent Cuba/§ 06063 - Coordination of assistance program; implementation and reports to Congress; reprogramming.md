@@ -44,7 +44,3 @@ Any changes in the assistance to be provided under the plan developed under sect
 
 (Pub. L. 104–114, title II, §203, Mar. 12, 1996, 110 Stat. 809.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6033, 6034, 6035, 6037, 6038, 6062, 6064, 6082 of this title.
-

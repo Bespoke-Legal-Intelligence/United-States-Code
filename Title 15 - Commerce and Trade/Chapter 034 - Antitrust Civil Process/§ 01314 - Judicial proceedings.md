@@ -62,7 +62,3 @@ Subsec. (f). Pub. L. 94–435, §104(e), added subsec. (f).
 
 Amendment by Pub. L. 94–435 effective Sept. 30, 1976, see section 106 of Pub. L. 94–435, set out as a note under section 1311 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1312, 1313 of this title.
-

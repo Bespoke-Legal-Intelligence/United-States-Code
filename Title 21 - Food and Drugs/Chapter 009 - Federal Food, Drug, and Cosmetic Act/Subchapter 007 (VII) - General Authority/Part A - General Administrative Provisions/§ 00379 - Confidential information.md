@@ -4,7 +4,3 @@ The Secretary may provide any information which is exempt from disclosure pursua
 
 (June 25, 1938, ch. 675, §708, as added Pub. L. 94–295, §8, May 28, 1976, 90 Stat. 582.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 397 of this title.
-

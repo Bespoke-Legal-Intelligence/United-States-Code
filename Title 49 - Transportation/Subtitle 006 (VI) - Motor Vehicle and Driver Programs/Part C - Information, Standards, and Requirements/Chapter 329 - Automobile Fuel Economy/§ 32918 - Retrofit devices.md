@@ -60,7 +60,7 @@ Oct. 20, 1972, Pub. L. 92–513, §511, as added Dec. 22, 1975, Pub. L. 94–163
 
 This restates 15:2011 to include 15:2011 in the scope of the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 745).
 
-In subsection (a), the words “Administrator of the Environmental Protection Agency” are substituted for “Administrator” for clarity and to conform to the style of the codification which is to state the complete title the first time a descriptive title is used, and thereafter, to use a shorter title unless the context requires the complete title to be used.
+In subsection (a), the words “Administrator of the Environmental Protection Agency” are substituted for “Administrator” for clarity and to conform to the style of the codification which is to state the complete title the first time a descriptive title is used, andthereafter, to use a shorter title unless the context requires the complete title to be used.
 
 In subsections (c) and (e), the word “regulations” is substituted for “rules” and “by rule” for consistency with the restatement of title 49.
 
@@ -69,8 +69,4 @@ In subsection (e)(1), the words “The Administrator shall prescribe regulations
 #### Prior Provisions
 
 A prior section 32918 was renumbered section 32919 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 32911 of this title.
 

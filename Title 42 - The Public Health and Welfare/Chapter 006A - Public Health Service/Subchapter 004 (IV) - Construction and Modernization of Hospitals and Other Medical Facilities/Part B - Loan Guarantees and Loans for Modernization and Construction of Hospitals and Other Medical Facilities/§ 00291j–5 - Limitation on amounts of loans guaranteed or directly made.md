@@ -6,7 +6,7 @@ The cumulative total of the principal of the loans outstanding at any time with 
 
 &emsp;(2) in the case of loans covered by allotments for the fiscal year ending June 30, 1971, $500,000,000; for the fiscal year ending June 30, 1972, $1,000,000,000; and for each of the fiscal years ending June 30, 1973, and June 30, 1974, $1,500,000,000.
 
-(July 1, 1944, ch. 373, title VI, §625, as added Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 347;amended Pub. L. 93–45, title I, §108(b)(2), June 18, 1973, 87 Stat. 93.)
+(July 1, 1944, ch. 373, title VI, §625, as added Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 347; amended Pub. L. 93–45, title I, §108(b)(2), June 18, 1973, 87 Stat. 93.)
 
 #### Amendments
 

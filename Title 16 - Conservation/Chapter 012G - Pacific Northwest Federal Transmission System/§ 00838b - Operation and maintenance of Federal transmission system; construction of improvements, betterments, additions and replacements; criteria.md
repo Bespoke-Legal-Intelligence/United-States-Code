@@ -16,7 +16,3 @@ The Secretary of Energy, acting by and through the Administrator, shall operate 
 
 “Secretary of Energy” substituted in text for “Secretary of the Interior” pursuant to Pub. L. 95–91, §302(a)(1)(D), which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 838c of this title.
-

@@ -14,7 +14,7 @@ The Director of the National Science Foundation (referred to in this section as 
 
 &emsp;&emsp;(ii) shall prepare and submit to the Director an application at such time, in such manner, and containing such information as the Director may require; and
 
-&emsp;&emsp;(iii) shall certify to the Director that the individual intends to use amounts received under the scholarship to enroll or continue enrollment at an institution of higher education (as defined in section 1001(a) of title 20) in order to pursue an associate, undergraduate, or graduate level degree in mathematics, engineering, or computer science.
+&emsp;&emsp;(iii) shall certify to the Director that the individual intends to use amounts received under the scholarship to enroll or continue enrollment at an institution of higher education (as defined in section 1001(a) of title 20) in order to pursue an associate, undergraduate, or graduate level degree in mathematics, engineering, computer science, or other technology and science programs designated by the Director.
 
 #### (B) Ability
 
@@ -22,13 +22,17 @@ The Director of the National Science Foundation (referred to in this section as 
 
 #### (3) Limitation
 
-The amount of a scholarship awarded under this section shall be determined by the Director, except that the Director shall not award a scholarship in an amount exceeding $3,125 per year. The Director may renew scholarships for up to 4 years.
+The amount of a scholarship awarded under this section shall be determined by the Director, except that the Director shall not award a scholarship in an amount exceeding $10,000 per year. The Director may renew scholarships for up to 4 years.
 
 #### (4) Funding
 
-The Director shall carry out this section only with funds made available under section 1356(s)(3) of title 8.
+The Director shall carry out this section only with funds made available under section 1356(s)(3) of title 8. The Director may use no more than 50 percent of such funds for undergraduate programs for curriculum development, professional and workforce development, and to advance technological education. Funds for these other programs may be used for purposes other than scholarships.
 
-(Pub. L. 105–277, div. C, title IV, §414(d), Oct. 21, 1998, 112 Stat. 2681–653; Pub. L. 106–313, title I, §110(b), Oct. 17, 2000, 114 Stat. 1256.)
+#### (5) Federal Register
+
+Not later than 60 days after December 8, 2004, the Director shall publish in the Federal Register a list of eligible programs of study.
+
+(Pub. L. 105–277, div. C, title IV, §414(d), Oct. 21, 1998, 112 Stat. 2681–653; Pub. L. 106–313, title I, §110(b), Oct. 17, 2000, 114 Stat. 1256; Pub. L. 108–447, div. J, title IV, §429, Dec. 8, 2004, 118 Stat. 3360.)
 
 #### References in Text
 
@@ -40,9 +44,17 @@ Section was enacted as part of the American Competitiveness and Workforce Improv
 
 #### Amendments
 
+2004—Par. (2)(A)(iii). Pub. L. 108–447, §429(a), substituted “computer science, or other technology and science programs designated by the Director” for “or computer science”.
+
+Par. (3). Pub. L. 108–447, §429(b), substituted “$10,000 per year” for “$3,125 per year”.
+
+Par. (4). Pub. L. 108–447, §429(c), inserted at end “The Director may use no more than 50 percent of such funds for undergraduate programs for curriculum development, professional and workforce development, and to advance technological education. Funds for these other programs may be used for purposes other than scholarships.”
+
+Par. (5). Pub. L. 108–447, §429(d), added par. (5).
+
 2000—Par. (3). Pub. L. 106–313 substituted “$3,125 per year. The Director may renew scholarships for up to 4 years” for “$2,500 per year.”
 
-#### Section Referred to in Other Sections
+#### Effective Date of 2004 Amendment
 
-This section is referred to in title 8 section 1356.
+Amendment by Pub. L. 108–447 effective 90 days after Dec. 8, 2004, see section 430(a) of Pub. L. 108–447, set out as a note under section 1182 of Title 8, Aliens and Nationality.
 

@@ -4,7 +4,7 @@
 
 (1) From allotments made pursuant to paragraph (4), the Administrator may make grants to States to carry out public water system supervision programs.
 
-(2) No grant may be made under paragraph (1) unless an application therefor has been submitted to the Administrator in such form and manner as he may require. The Administrator may not approve an application of a State for its first grant under paragraph (1) unless he determines that the State—
+(2) No grant may be made under paragraph (1) unless an application therefor has been submitted to the Administrator in such form and manner as he may require. The Administrator maynot approve an application of a State for its first grant under paragraph (1) unless he determines that the State—
 
 &emsp;(A) has established or will establish within one year from the date of such grant a public water system supervision program, and
 
@@ -60,7 +60,7 @@ Duty of administrator.—If the Administrator reserves funds from the allocation
 
 (2) No grant may be made under paragraph (1) unless an application therefor has been submitted to the Administrator in such form and manner as he may require. No grant may be made to any State under paragraph (1) unless the State has assumed primary enforcement responsibility within two years after the date the Administrator promulgates regulations for State underground injection control programs under section 300h of this title. The prohibition contained in the preceding sentence shall not apply to such grants when made to Indian Tribes.
 
-(3) A grant under paragraph (1) shall be made to cover not more than 75 per centum of thegrant recipient's cost (as determined under regulations of the Administrator) in carrying out, during the one-year period beginning on the date the grant is made, and underground water source protection program.
+(3) A grant under paragraph (1) shall be made to cover not more than 75 per centum of the grant recipient's cost (as determined under regulations of the Administrator) in carrying out, during the one-year period beginning on the date the grant is made, and underground water source protection program.
 
 (4) In each fiscal year the Administrator shall, in accordance with regulations, allot the sums appropriated for such year under paragraph (5) among the States on the basis of population, geographical area, and other relevant factors.
 
@@ -101,11 +101,13 @@ For purposes of this section:
 
 #### (4) Authorization
 
-&emsp;There are authorized to be appropriated to the Administrator to carry out this subsection for each of fiscal years 1997 through 2003, $15,000,000 for the purpose of providing assistance to the State of New York to carry out paragraph (1).
+&emsp;There are authorized to be appropriated to the Administrator to carry out this subsection for each of fiscal years 2003 through 2010, $15,000,000 for the purpose of providing assistance to the State of New York to carry out paragraph (1).
 
-(July 1, 1944, ch. 373, title XIV, §1443, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1684; amended Pub. L. 95–190, §§2(b), (c), 5(a), Nov. 16, 1977, 91 Stat. 1393, 1395; Pub. L. 96–63, §2, Sept. 6, 1979, 93 Stat. 411; Pub. L. 96–502, §§2(c), 4(d), Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title III, §§301(b), (c), 302(d), June 19, 1986, 100 Stat. 664, 666; Pub. L. 104–182, title I, §§120(c), 124, 128, Aug. 6, 1996, 110 Stat. 1651, 1653, 1659.)
+(July 1, 1944, ch. 373, title XIV, §1443, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1684; amended Pub. L. 95–190, §§2(b), (c), 5(a), Nov. 16, 1977, 91 Stat. 1393, 1395; Pub. L. 96–63, §2, Sept. 6, 1979, 93 Stat. 411; Pub. L. 96–502, §§2(c), 4(d), Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title III, §§301(b), (c), 302(d), June 19, 1986, 100 Stat. 664, 666; Pub. L. 104–182, title I, §§120(c), 124, 128, Aug. 6, 1996, 110 Stat. 1651, 1653, 1659; Pub. L. 108–328, §1, Oct. 16, 2004, 118 Stat. 1273.)
 
 #### Amendments
+
+2004—Subsec. (d)(4). Pub. L. 108–328 substituted “2003 through 2010” for “1997 through 2003”.
 
 1996—Subsec. (a)(7). Pub. L. 104–182, §124(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “For purposes of making grants under paragraph (1) there are authorized to be appropriated $15,000,000 for the fiscal year ending June 30, 1976, $25,000,000 for the fiscal year ending June 30, 1977, $35,000,000 for fiscal year 1978, $45,000,000 for fiscal year 1979, $29,450,000 for the fiscal year ending September 30, 1980, $32,000,000 for the fiscal year ending September 30, 1981, and $34,000,000 for the fiscal year ending September 30, 1982. For the purposes of making grants under paragraph (1) there are authorized to be appropriated not more than the following amounts:
 
@@ -162,8 +164,4 @@ Subsec. (b)(5). Pub. L. 96–63, §2(b), authorized appropriation of $7,795,000,
 Subsec. (a)(7). Pub. L. 95–190, §§2(b), 5(a), redesignated former par. (5) as (7) and authorized appropriations for fiscal years 1978 and 1979.
 
 Subsec. (b)(5). Pub. L. 95–190, §2(c), inserted provisions authorizing appropriations for fiscal years 1978 and 1979.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300g–6, 300j–1, 300j–12 of this title.
 

@@ -56,7 +56,3 @@ Subsec. (b). Pub. L. 102–484, §1122(2), inserted before period at end “; a
 
 1977—Subsec. (a). Pub. L. 95–79 substituted “Under regulations prescribed by him, the Secretary of the Army may have an inspection made” for “The Secretary of the Army shall have an inspection made at least once a year” and added cl. (6).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 10542.
-

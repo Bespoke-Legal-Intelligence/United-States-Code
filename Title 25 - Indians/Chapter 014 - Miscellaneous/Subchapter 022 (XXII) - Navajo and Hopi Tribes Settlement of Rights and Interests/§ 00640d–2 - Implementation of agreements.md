@@ -14,7 +14,3 @@ For the purpose of this section, the negotiating teams may make any provision in
 
 (Pub. L. 93–531, §3, Dec. 22, 1974, 88 Stat. 1713.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 640d, 640d–3, 640d–4, 640d–5, 640d–9, 640d–13, 640d–14, 640d–15, 640d–17, 640d–18 of this title.
-

@@ -42,7 +42,7 @@
 
 #### (A) Application
 
-&emsp;&emsp;An entity shall submit an application for a grant, cooperative agreement, or contract to provide benefits planning and assistance to the Commissioner at such time, in such manner, and containing such information as the Commissioner may determine is necessary to meet the requirements of this section.
+&emsp;&emsp;An entity shall submit an application for a grant, cooperative agreement, or contract to provide benefits planning and assistance to the Commissioner at such time, in such manner, and containing such information asthe Commissioner may determine is necessary to meet the requirements of this section.
 
 #### (B) Statewideness
 
@@ -106,13 +106,21 @@ In this section:
 
 #### (2) Disabled beneficiary
 
-&emsp;The term “disabled beneficiary” has the meaning given that term in section 1320b–19(k)(2) of this title.
+&emsp;The term “disabled beneficiary” means an individual—
+
+&emsp;&emsp;(A) who is a disabled beneficiary as defined in section 1320b–19(k)(2) of this title;
+
+&emsp;&emsp;(B) who is receiving a cash payment described in section 1382e(a) of this title or a supplementary payment described in section 212(a)(3) of Public Law 93–66 (without regard to whether such payment is paid by the Commissioner pursuant to an agreement under section 1382e(a) of this title or under section 212(b) of Public Law 93–66);
+
+&emsp;&emsp;(C) who, pursuant to section 1382h(b) of this title, is considered to be receiving benefits under subchapter XVI of this chapter; or
+
+&emsp;&emsp;(D) who is entitled to benefits under part A of subchapter XVIII of this chapter by reason of the penultimate sentence of section 426(b) of this title.
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $23,000,000 for each of the fiscal years 2000 through 2004.
+There are authorized to be appropriated to carry out this section $23,000,000 for each of the fiscal years 2000 through 2009.
 
-(Aug. 14, 1935, ch. 531, title XI, §1149, as added Pub. L. 106–170, title I, §121, Dec. 17, 1999, 113 Stat. 1887.)
+(Aug. 14, 1935, ch. 531, title XI, §1149, as added Pub. L. 106–170, title I, §121, Dec. 17, 1999, 113 Stat. 1887; amended Pub. L. 108–203, title IV, §§404(a)(1), 407(a), Mar. 2, 2004, 118 Stat. 525, 527.)
 
 #### References in Text
 
@@ -122,11 +130,25 @@ The Individuals with Disabilities Education Act, referred to in subsec. (a)(3), 
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Subtitle B of title I of the Act is classified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (b)(1)(C)(ii)(I), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat.355, as amended. Title VII of the Act is classified generally to subchapter VII (§796 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(1)(C)(ii)(I), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title VII of the Act is classified generally to subchapter VII (§796 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 Section 6024 of this title, referred to in subsec. (b)(1)(C)(ii)(I), was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. See section 15025 of this title.
 
 Part A of subchapter IV of this chapter, referred to in subsec. (b)(1)(C)(ii)(II), is classified to section 601 et seq. of this title.
+
+Section 212 of Public Law 93–66, referred to in subsec. (c)(2)(B), is set out as a note under section 1382 of this title.
+
+Part A of subchapter XVIII of this chapter, referred to in subsec. (c)(2)(D), is classified to section 1395c et seq. of this title.
+
+#### Amendments
+
+2004—Subsec. (c)(2). Pub. L. 108–203, §404(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘disabled beneficiary’ has the meaning given that term in section 1320b–19(k)(2) of this title.”
+
+Subsec. (d). Pub. L. 108–203, §407(a), substituted “2009” for “2004”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–203, title IV, §404(a)(2), Mar. 2, 2004, 118 Stat. 526, provided that: “The amendment made by this subsection \[amending this section\] shall apply with respect to grants, cooperative agreements, or contracts entered into on or after the date of the enactment of this Act \[Mar. 2, 2004\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 

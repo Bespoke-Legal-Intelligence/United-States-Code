@@ -2,7 +2,7 @@
 
 #### (a) Annual assessments
 
-The Director may, to the extent provided in appropriation Acts, establish and collect from the enterprises annual assessments in an amount not exceeding the amount sufficient toprovide for reasonable costs and expenses of the Office, including the expenses of any examinations under section 4517 of this title. The initial annual assessment shall include any startup costs of the Office and any anticipated costs and expenses of the Office for the following fiscal year.
+The Director may, to the extent provided in appropriation Acts, establish and collect from the enterprises annual assessments in an amount not exceeding the amount sufficient to provide for reasonable costs and expenses of the Office, including the expenses of any examinations under section 4517 of this title. The initial annual assessment shall include any startup costs of the Office and any anticipated costs and expenses of the Office for the following fiscal year.
 
 #### (b) Allocation of annual assessment to enterprises
 
@@ -34,7 +34,7 @@ If any amount from any annual assessment collected from an enterprise remains un
 
 #### (e) Initial special assessment
 
-Not later than the expiration of the 30-day period beginning on October 28, 1992, the enterprises shall each pay into the Federal Housing Enterprises Oversight Fund established under subsection (f) of this section an initial assessment of $1,500,000 to cover the startup costs of the Office, including space and modifications thereof, capital equipment, supplies, recruitment, and activities of the Office during the period preceding the first annual assessment under subsection (a) of this section. Any amounts collected from an enterprise under this subsection shall be credited against the first annual assessment collected pursuant to subsection (a) of this section, and are hereby appropriated, and shall be available and used, without fiscal year limitation, as provided in this section.
+Not later than the expiration of the 30-day period beginning on October 28, 1992, the enterprises shall each pay into the Federal Housing Enterprises Oversight Fund established under subsection (f) of this section an initial assessment of $1,500,000 to cover the startup costs of the Office, including space and modifications thereof, capital equipment, supplies, recruitment, and activities of the Office during the period preceding the first annual assessment under subsection (a) of this section. Any amounts collected from an enterprise under this subsection shall be credited against the first annual assessment collected pursuant to subsection (a) of thissection, and are hereby appropriated, and shall be available and used, without fiscal year limitation, as provided in this section.
 
 #### (f) Fund
 
@@ -71,10 +71,6 @@ This chapter, referred to in subsec. (f)(2), was in the original “this title�
 #### Non-Reduction of First Annual Assessment
 
 Pub. L. 103–124, title II, Oct. 28, 1993, 107 Stat. 1290, provided in part: “That notwithstanding the last sentence in section 1316(e) of such Act \[12 U.S.C. 4516(e)\], the amount of this first annual assessment shall not be reduced by any part of the amount of the initial special assessment under section 1316(e)”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1455, 1719, 4548 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “bear”.</i>
 

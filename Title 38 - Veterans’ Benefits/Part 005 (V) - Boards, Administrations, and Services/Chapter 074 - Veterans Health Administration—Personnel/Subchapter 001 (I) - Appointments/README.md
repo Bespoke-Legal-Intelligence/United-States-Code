@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—APPOINTMENTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 7426, 7455 of this title.
-
 
 ---
 

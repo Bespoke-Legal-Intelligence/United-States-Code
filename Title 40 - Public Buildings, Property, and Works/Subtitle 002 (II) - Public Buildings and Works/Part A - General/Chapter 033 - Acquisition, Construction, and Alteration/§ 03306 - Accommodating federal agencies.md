@@ -30,7 +30,7 @@ Unit of general local government.—The term “unit of general local government
 
 (b)
 
-Duties of Administrator.—To carry out the duties of the Administrator of General Services under sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5) of this title and under any other authority with respect to constructing, operating, maintaining, altering, and otherwise managing or acquiring space necessary to accommodate federal agencies and to accomplish the purposes of sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5), the Administrator shall—
+Duties of Administrator.—To carry out the duties of the Administrator of General Services under sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5) of this title and under any other authority with respect to constructing, operating, maintaining, altering, and otherwise managing or acquiring space necessary to accommodate federal agencies and to accomplishthe purposes of sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5), the Administrator shall—
 
 &emsp;(1) acquire and utilize space in suitable buildings of historical, architectural, or cultural significance, unless use of the space would not prove feasible and prudent compared with available alternatives;
 
@@ -121,8 +121,4 @@ Sec. 4. <i>Improving Preservation Partnerships</i>. In carrying out the authorit
 Sec. 5. <i>Judicial Review</i>. This order is not intended to create, nor does it create, any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 581, 3303 of this title; title 31 section 782.
 

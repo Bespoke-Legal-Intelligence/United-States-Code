@@ -14,7 +14,7 @@
 
 &emsp;(D)(i) The term “eligible institution” means an institution that is an—
 
-&emsp;&emsp;(I) eligible institution under part A of this subchapter or would be considered to be suchan institution if section 1058(b)(1)(C) of this title referred to a postgraduate degree rather than a bachelor's degree;
+&emsp;&emsp;(I) eligible institution under part A of this subchapter or would be considered to be such an institution if section 1058(b)(1)(C) of this title referred to a postgraduate degree rather than a bachelor's degree;
 
 &emsp;&emsp;(II) institution eligible for assistance under part B of this subchapter or would be considered to be such an institution if section 1063 of this title referred to a postgraduate degree rather than a baccalaureate degree; or
 
@@ -40,7 +40,7 @@
 
 (4)(A) An institution of higher education is eligible to receive a grant under this section if it is an eligible institution as described in subsection (a)(2)(D) of this section.
 
-(B) No institution shall be ineligible for an endowment challenge grant under this section for a fiscal year by reason of the previous receipt of such a grant but no institution shall be eligible to receive such a grant for more than 2 fiscal years out of any period of 5 consecutive fiscal years.
+(B) No institution shall be ineligible for an endowment challenge grant under this section fora fiscal year by reason of the previous receipt of such a grant but no institution shall be eligible to receive such a grant for more than 2 fiscal years out of any period of 5 consecutive fiscal years.
 
 (5) An endowment challenge grant awarded under this section to an eligible institution shall be in an amount which is not less than $50,000 in any fiscal year.
 
@@ -94,7 +94,7 @@ In selecting eligible institutions for grants under this section for any fiscal 
 
 #### (g) Application
 
-Any institution which is eligible for assistance under this section may submit to the Secretary a grant application at such time, in such form, and containing such information as the Secretary may prescribe, including a description of the long- and short-term plans for raising and using the funds under this part. Subject to the availability of appropriations to carry out this section and consistent with the requirement of subsection (f) of this section, the Secretary may approve an application for a grant if an institution, in its application, provides adequate assurances that it will comply with the requirements of this section.
+Any institution which is eligible for assistance under this section may submit to the Secretary a grant application at such time, in such form, and containing such information as the Secretary may prescribe, including a description ofthe long- and short-term plans for raising and using the funds under this part. Subject to the availability of appropriations to carry out this section and consistent with the requirement of subsection (f) of this section, the Secretary may approve an application for a grant if an institution, in its application, provides adequate assurances that it will comply with the requirements of this section.
 
 #### (h) Termination and recovery provisions
 
@@ -124,7 +124,7 @@ A prior section 1065a, Pub. L. 89–329, title III, §333, as added Pub. L. 98�
 
 1998—Subsec. (b)(1). Pub. L. 105–244, §305(1), substituted “section 1068h” for “section 1069f”.
 
-Subsec. (b)(2)(B), (C). Pub. L. 105–244, §305(2), added subpars. (B) and (C) and struck out former subpars. (B)and (C) which authorized Secretary to make grants under this part to eligible institutions in amounts which varied depending on amount appropriated in each fiscal year to carry out this part and limited rights of institutions to reapply for grants when amount appropriated was below specified amounts.
+Subsec. (b)(2)(B), (C). Pub. L. 105–244, §305(2), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which authorized Secretary to make grants under this part to eligible institutions in amounts which varied depending on amount appropriated in each fiscal year to carry out this part and limited rights of institutions to reapply for grants when amount appropriated was below specified amounts.
 
 1993—Subsecs. (a)(2)(D), (b)(2)(B), (C), (5). Pub. L. 103–208 realigned margins and in subsec. (b)(5) substituted “An endowment” for “an endowment”.
 
@@ -175,8 +175,4 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1057, 1063b, 4425 of this title; title 25 section 1832.
 

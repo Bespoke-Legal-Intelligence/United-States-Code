@@ -10,7 +10,3 @@ Not later than January 1, 2001, the Commission shall submit to the President and
 
 (Pub. L. 104–127, title I, §184, Apr. 4, 1996, 110 Stat. 940.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7318 of this title.
-

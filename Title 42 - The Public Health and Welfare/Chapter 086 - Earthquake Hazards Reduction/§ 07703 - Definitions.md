@@ -14,11 +14,17 @@ As used in this chapter, unless the context otherwise requires:
 
 &emsp;(6) The term “lifelines” means public works and utilities, including transportation facilities and infrastructure, oil and gas pipelines, electrical power and communication facilities and infrastructure, and water supply and sewage treatment facilities.
 
-&emsp;(7) The term “Program agencies” means the Federal Emergency Management Agency, theUnited States Geological Survey, the National Science Foundation, and the National Institute of Standards and Technology.
+&emsp;(7) The term “Program agencies” means the Federal Emergency Management Agency, the United States Geological Survey, the National Science Foundation, and the National Institute of Standards and Technology.
 
-(Pub. L. 95–124, §4, Oct. 7, 1977, 91 Stat. 1099; Pub. L. 101–614, §4, Nov. 16, 1990, 104 Stat. 3232; Pub. L. 106–503, title II, §209, Nov. 13, 2000, 114 Stat. 2308.)
+&emsp;(8) The term “Interagency Coordinating Committee” means the Interagency Coordinating Committee on Earthquake Hazards Reduction established under section 7704(a) of this title.
+
+&emsp;(9) The term “Advisory Committee” means the Advisory Committee established under section 7704(a)(5) of this title.
+
+(Pub. L. 95–124, §4, Oct. 7, 1977, 91 Stat. 1099; Pub. L. 101–614, §4, Nov. 16, 1990, 104 Stat. 3232; Pub. L. 106–503, title II, §209, Nov. 13, 2000, 114 Stat. 2308; Pub. L. 108–360, title I, §102, Oct. 25, 2004, 118 Stat. 1668.)
 
 #### Amendments
+
+2004—Pars. (8), (9). Pub. L. 108–360 added pars. (8) and (9).
 
 2000—Par. (6). Pub. L. 106–503 inserted “and infrastructure” after “communication facilities”.
 

@@ -8,7 +8,3 @@
 
 (Added Pub. L. 99–570, title VI, §6004(a), Oct. 27, 1986, 100 Stat. 3207–159.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7363 of this title.
-

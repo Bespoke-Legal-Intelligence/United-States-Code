@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—LABELING OF WOOL PRODUCTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 70 of this title.
-
 
 ---
 

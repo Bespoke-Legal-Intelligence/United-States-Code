@@ -22,7 +22,7 @@ National Historic Sites
 
 Adams National Historic Site, Massachusetts \[redesignated Adams National Historical Park by Pub. L. 105–342, §5(e), Nov. 2, 1998, 112 Stat. 3202 (16 U.S.C. 410eee et seq.)\].—Designated Dec. 9, 1946.
 
-Allegheny Portage Railroad National Historic Site, Pennsylvania.—Pub. L. 88–546, Aug. 31, 1964, 78 Stat. 752; Pub. L. 107–369, Dec. 19, 2002, 116 Stat. 3069.
+Allegheny Portage Railroad National Historic Site, Pennsylvania.—Pub. L. 88–546, Aug. 31, 1964, 78 Stat. 752; Pub. L. 107–369, Dec. 19, 2002, 116 Stat. 3069; Pub. L. 108–352, §16, Oct. 21, 2004, 118 Stat. 1398.
 
 Andersonville National Historic Site, Georgia.—Pub. L. 91–465, Oct. 16, 1970, 84 Stat. 989; Pub. L. 107–357, §1, Dec. 17, 2002, 116 Stat. 3014.
 
@@ -90,9 +90,11 @@ Golden Spike National Historic Site, Utah.—Pub. L. 89–102, July 30, 1965, 79
 
 Grant-Kohrs Ranch National Historic Site, Montana.—Pub. L. 92–406, Aug. 25, 1972, 86 Stat. 632; Pub. L. 105–365, Nov. 6, 1998, 112 Stat. 3301.
 
+Grey Towers National Historic Site, Pennsylvania.—Pub. L. 108–447, div. E, title III, §348, Dec. 8, 2004, 118 Stat. 3106.
+
 Hampton National Historic Site, Maryland.—Designated June 22, 1948.
 
-Harry S Truman National Historic Site, Missouri.—Pub. L. 98–32, May 23, 1983, 97 Stat. 193; Pub. L. 101–105, Oct. 2, 1989, 103 Stat. 675; Pub. L. 103–184, §1, Dec. 14, 1993, 107 Stat. 2243.
+Harry S Truman National Historic Site, Missouri.—Pub. L. 98–32, May 23, 1983, 97 Stat. 193; Pub. L. 101–105, Oct. 2, 1989, 103 Stat. 675; Pub. L. 103–184, §1, Dec. 14, 1993, 107 Stat. 2243; Pub. L. 108–396, Oct. 30, 2004, 118 Stat. 2250.
 
 Herbert Hoover National Historic Site, Iowa.—Pub. L. 89–119, Aug. 12, 1965, 79 Stat. 510.
 
@@ -110,7 +112,9 @@ Jimmy Carter National Historic Site, Georgia.—Pub. L. 100–206, Dec. 23, 1987
 
 John Fitzgerald Kennedy National Historic Site, Massachusetts.—Pub. L. 90–20, May 26, 1967, 81 Stat. 29.
 
-John Muir National Historic Site, California.—Pub. L. 88–547, Aug. 31, 1964, 78 Stat. 753; Pub. L. 100–563, §5, Oct. 31, 1988, 102 Stat. 2829.
+John Muir National Historic Site, California.—Pub. L. 88–547, Aug. 31, 1964, 78 Stat. 753; Pub. L. 100–563, §5, Oct. 31, 1988, 102 Stat. 2829; Pub. L. 108–385, Oct. 30, 2004, 118 Stat. 2227.
+
+Kate Mullany National Historic Site, New York.–Pub. L. 108–438, Dec. 3, 2004, 118 Stat. 2625.
 
 Knife River Indian Villages National Historic Site, North Dakota.—Pub. L. 93–486, title I, §101(a)(3), Oct. 26, 1974, 88 Stat. 1461; Pub. L. 101–430, §1, Oct. 15, 1990, 104 Stat. 959.
 
@@ -130,7 +134,7 @@ Manzanar National Historic Site, California.—Pub. L. 102–248, title I, Mar. 
 
 Mar-A-Lago National Historic Site, Florida \[redesignated Mar-A-Lago National Historic Landmark by Pub. L. 96–586, §4(a)(2), Dec. 23, 1980, 94 Stat. 3386 (16 U.S.C. 467a note)\].—Designated Jan. 16, 1969; Pub. L. 92–527, Oct. 21, 1972, 86 Stat. 1049; repealed by Pub. L. 96–586, §4(a)(1), Dec. 23, 1980, 94 Stat. 3386.
 
-Martin Luther King, Junior, National Historic Site, Georgia.—Pub. L. 96–428, Oct. 10, 1980, 94 Stat. 1839; Pub. L. 102–575, title XL, §4024, Oct. 30, 1992, 106 Stat. 4768.
+Martin Luther King, Junior, National Historic Site, Georgia.—Pub. L. 96–428, Oct. 10, 1980, 94 Stat. 1839; Pub. L. 102–575, title XL, §4024, Oct. 30, 1992, 106 Stat. 4768; Pub. L. 108–314, Oct. 5, 2004, 118 Stat. 1198.
 
 Martin Van Buren National Historic Site, New York.—Pub. L. 93–486, title I, §101(a)(6), Oct. 26, 1974, 88 Stat. 1462.
 
@@ -208,7 +212,7 @@ Blackstone River Valley National Heritage Corridor, Massachusetts and Rhode Isla
 
 Cache La Poudre Corridor, Colorado.—Pub. L. 104–323, Oct. 19, 1996, 110 Stat. 3889.
 
-Delaware and Lehigh National Heritage Corridor, Pennsylvania.—Pub. L. 100–692, Nov. 18, 1988, 102 Stat. 4552; Pub. L. 105–355, title IV, Nov. 6, 1998, 112 Stat. 3258.
+Delaware and Lehigh National Heritage Corridor, Pennsylvania.—Pub. L. 100–692, Nov. 18, 1988, 102 Stat. 4552; Pub. L. 105–355, title IV, Nov. 6, 1998, 112 Stat. 3258; Pub. L. 108–199, div. H, §141, Jan. 23, 2004, 118 Stat. 443.
 
 Erie Canalway National Heritage Corridor, New York.—Pub. L. 106–554, §1(a)(4) \[div. B, title VIII\], Dec. 21, 2000, 114 Stat. 2763, 2763A–295.
 
@@ -236,9 +240,15 @@ Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title
 
 Hudson River Valley National Heritage Area, New York.—Pub. L. 104–333, div. II, title IX, Nov. 12, 1996, 110 Stat. 4275; Pub. L. 105–83, title III, §§317, 324, Nov. 14, 1997, 111 Stat. 1595, 1597; Pub. L. 106–176, title II, §206, Mar. 10, 2000, 114 Stat. 31.
 
-Lackawanna Valley National Heritage Area, Pennsylvania.—Pub. L. 106–278, title I, Oct. 6, 2000, 114 Stat. 814.
+Lackawanna Valley National Heritage Area, Pennsylvania.—Pub. L. 106–278, title I, Oct. 6, 2000, 114 Stat. 814; Pub. L. 108–352, §2, Oct. 21, 2004, 118 Stat. 1395.
+
+Mississippi Gulf Coast National Heritage Area, Mississippi.—Pub. L. 108–447, div. J, title VII, Dec. 8, 2004, 118 Stat. 3374.
+
+National Aviation Heritage Area, Ohio.—Pub. L. 108–447, div. J, title V, Dec. 8, 2004, 118 Stat. 3361.
 
 National Coal Heritage Area, West Virginia.—Pub. L. 104–333, div. II, title I, Nov. 12, 1996, 110 Stat. 4243; Pub. L. 106–176, title II, §201, Mar. 10, 2000, 114 Stat. 31.
+
+Oil Region National Heritage Area, Pennsylvania.—Pub. L. 108–447, div. J, title VI, Dec. 8, 2004, 118 Stat. 3368.
 
 Rivers of Steel National Heritage Area \[formerly Steel Industry American Heritage Area\], Pennsylvania.—Pub. L. 104–333, div. II, title IV, Nov. 12, 1996, 110 Stat. 4252; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §116\], Nov. 29, 1999, 113 Stat. 1535, 1501A–158.
 
@@ -264,7 +274,7 @@ Pub. L. 106–577, title III, §302, Dec. 28, 2000, 114 Stat. 3072, established 
 
 #### Route 66 Corridor
 
-Pub. L. 106–45, Aug. 10, 1999, 113 Stat. 224, authorized the Secretary of the Interior, acting through the Cultural Resource Programs at the National Park Service, to develop and carry out programs of technical assistance, grants, and coordination of activities for thepreservation of the Route 66 corridor and authorized appropriations for these purposes.
+Pub. L. 106–45, Aug. 10, 1999, 113 Stat. 224, authorized the Secretary of the Interior, acting through the Cultural Resource Programs at the National Park Service, to develop and carry out programs of technical assistance, grants, and coordination of activities for the preservation of the Route 66 corridor and authorized appropriations for these purposes.
 
 #### Chesapeake Bay Initiative
 
@@ -322,7 +332,7 @@ Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. 
 
 &emsp;“(1) the first thorough exploration of the Puget Sound area, by Captain George Vancouver, in 1792;
 
-&emsp;“(2) settlement by Colonel Isaac Neff Ebey who led the first permanent settlers to Whidbey Island,quickly became an important figure in Washington Territory, and ultimately was killed by Haidahs from the Queen Charlotte Islands during a period of Indian unrest in 1857;
+&emsp;“(2) settlement by Colonel Isaac Neff Ebey who led the first permanent settlers to Whidbey Island, quickly became an important figure in Washington Territory, and ultimately was killed by Haidahs from the Queen Charlotte Islands during a period of Indian unrest in 1857;
 
 &emsp;“(3) early active settlement during the years of the Donation Land Law (1850–1855) \[Sept. 27, 1850, ch. 76, 9 Stat. 496, Feb. 14, 1853, ch. 69, 10 Stat. 158, July 17, 1854, ch. 84, 10 Stat. 305\] and thereafter; and
 
@@ -467,8 +477,4 @@ DONE at the City of Washington this fifteenth day of March in the year of our Lo
 seal\]
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 410ddd, 410eee, 410eee–3, 410fff–2, 410ggg–1, 410hhh–5, 410iii–5, 423<i>l</i>–5, 430f–5, 430f–10, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 450ss–2, 450ss–4, 459h–4, 460kkk, 462, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 698u–3, 1133, 1244, 3206 of this title; title 40 sections 550, 1303; title 43 section 377b.
 

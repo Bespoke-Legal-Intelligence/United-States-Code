@@ -12,7 +12,3 @@ A prior section 505, act Aug. 4, 1949, ch. 393, 63 Stat. 537, related to escorts
 
 2002—Pub. L. 107–314 substituted “October 23, 2002” for “the date of the enactment of this section”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 36 section 903.
-

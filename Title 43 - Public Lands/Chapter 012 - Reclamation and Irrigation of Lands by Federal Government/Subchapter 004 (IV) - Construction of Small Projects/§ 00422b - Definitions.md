@@ -12,7 +12,7 @@ As used in this subchapter—
 
 (e) The term “Secretary” shall mean the Secretary of the Interior.
 
-(f) The maximum allowable estimated total project cost of a proposal submitted during any given calendar year shall be determined by the Secretary using the Bureau of Reclamation composite construction cost index for January of that year with $15,000,000 as the January 1971 base.
+(f) The maximum allowable estimated total project cost of a proposal submitted during anygiven calendar year shall be determined by the Secretary using the Bureau of Reclamation composite construction cost index for January of that year with $15,000,000 as the January 1971 base.
 
 (Aug. 6, 1956, ch. 972, §2, 70 Stat. 1044; Pub. L. 89–553, §1(1), Sept. 2, 1966, 80 Stat. 376; Pub. L. 92–167, §1(1), Nov. 24, 1971, 85 Stat. 488; Pub. L. 94–181, §1(a), (b), Dec. 27, 1975, 89 Stat. 1049.)
 
@@ -33,8 +33,4 @@ Subsec. (f). Pub. L. 94–181, §1(b), added subsec. (f).
 #### Retroactive Effect of 1966 Amendment
 
 Section 2 of Pub. L. 89–553 provided that: “Nothing contained in this Act \[amending this section and sections 422d, 422e, 422h, and 422j of this title\] shall be applicable to or affect in any way the terms on which any loan or grant has been made prior to the effective date of this Act \[Sept. 2, 1966\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 422e of this title.
 

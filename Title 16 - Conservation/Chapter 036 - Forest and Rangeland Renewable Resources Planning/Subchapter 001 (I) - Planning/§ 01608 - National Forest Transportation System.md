@@ -22,13 +22,13 @@ Roads constructed on National Forest System lands shall be designed to standards
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 1601 of this title.
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 
 #### County Payment Mitigation; Transportation System Moratorium
 
 Pub. L. 105–174, title III, §3006, May 1, 1998, 112 Stat. 85, provided that:
 
-“(a)(1) This section provides compensation for loss of revenues that would have been provided to counties if no road moratorium, as described in subsection (a)(2), were implemented or no substitute sales offered as described in subsection (b)(1). This section does not endorse or prohibit the road building moratorium nordoes it affect the applicability of existing law to any moratorium.
+“(a)(1) This section provides compensation for loss of revenues that would have been provided to counties if no road moratorium, as described in subsection (a)(2), were implemented or no substitute sales offered as described in subsection (b)(1). This section does not endorse or prohibit the road building moratorium nor does it affect the applicability of existing law to any moratorium.
 
 “(2) The Chief of the Forest Service, Department of Agriculture, in his sole discretion, may offer any timber sales that were scheduled October 1, 1997, or thereafter, to be offered in fiscal year 1998 or fiscal year 1999 even if such sales would have been delayed or halted as a result of any moratorium (resulting from the Federal Register proposal of January 28, 1998, pages 4351–4354) on construction of roads in roadless areas within the National Forest System adopted as policy or by regulation that would otherwise be applicable to such sales.
 

@@ -34,7 +34,7 @@ The United States Government shall seek the consent of the owner or the operator
 
 &emsp;&emsp;&emsp;(i) in the case of any facility owned or operated by a non-Government entity related to Schedule 1 chemical agents, the intensity, duration, timing, and mode of the requested inspection is based on the risk to the object and purpose of the Convention by the quantities of chemical produced, the characteristics of the facility and the nature of activities carried out at the facility, and the requested inspection, when considered with previous such inspections of the facility undertaken in the current calendar year, shall not exceed the number reasonably required based on the risk to the object and purpose of the Convention as described above;
 
-&emsp;&emsp;&emsp;(ii) in the case of any facility related to Schedule 2 chemical agents, the Technical Secretariat gave due consideration to the risk to the object and purpose of the Convention posed by the relevant chemical, the characteristics of the plant site and the nature of activities carried out there, taking into account the respective facility agreement as well as the results of the initial inspections and subsequent inspections; and
+&emsp;&emsp;&emsp;(ii) in the case of any facility related to Schedule 2 chemical agents, the Technical Secretariat gave due consideration to the risk to the object and purpose of the Convention posed by the relevant chemical, the characteristics of the plant site andthe nature of activities carried out there, taking into account the respective facility agreement as well as the results of the initial inspections and subsequent inspections; and
 
 &emsp;&emsp;&emsp;(iii) in the case of any facility related to Schedule 3 chemical agents or unscheduled discrete organic chemicals, the facility was selected randomly by the Technical Secretariat using appropriate mechanisms, such as specifically designed computer software, on the basis of two weighting factors: (I) equitable geographical distribution of inspections; and (II) the information on the declared sites available to the Technical Secretariat, related to the relevant chemical, the characteristics of the plant site, and the nature of activities carried out there;
 
@@ -105,8 +105,4 @@ This chapter, referred to in subsec. (b)(4)(B)(v), was in the original “this A
 #### Delegation of Functions
 
 For authority of Secretary of Commerce to obtain and execute certain warrants pursuant to this section, see section 4 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under section 6711 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6724 of this title.
 

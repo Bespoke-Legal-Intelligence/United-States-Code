@@ -20,7 +20,7 @@ For purposes of this section, the term—
 
 #### (c) Time of withholding and transmission
 
-The Secretary and the Architect shall, to the extent practicable, carry out subsection (b) of this section at or about the time of the Combined Federal Campaign and other fundraising in the executive branch of the Federal Government conducted pursuant to Executive Order 10927, dated March 18, 1961, and at such other times as each such officer deems appropriate.
+The Secretary and the Architect shall, to the extent practicable, carry out subsection (b) ofthis section at or about the time of the Combined Federal Campaign and other fundraising in the executive branch of the Federal Government conducted pursuant to Executive Order 10927, dated March 18, 1961, and at such other times as each such officer deems appropriate.
 
 #### (d) Amount
 

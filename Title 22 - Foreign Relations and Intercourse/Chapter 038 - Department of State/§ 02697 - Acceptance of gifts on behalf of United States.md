@@ -10,7 +10,7 @@ Any unconditional gift of money accepted under subsection (a) of this section, t
 
 #### (c) Evidences of unconditional gift of intangible personal property
 
-The evidences of any unconditional gift of intangible personal property (other than money) accepted under subsection (a) of this section,shall be deposited with the Secretary of the Treasury who may hold or liquidate them, except that they shall be liquidated upon the request of the Secretary of State whenever necessary to meet payments required in the operation of the Department of State (including the Foreign Service) or the performance of its functions.
+The evidences of any unconditional gift of intangible personal property (other than money) accepted under subsection (a) of this section, shall be deposited with the Secretary of the Treasury who may hold or liquidate them, except that they shall be liquidated upon the request of the Secretary of State whenever necessary to meet payments required in the operation of the Department of State (including the Foreign Service) or the performance of its functions.
 
 #### (d) Use of real property or tangible personal property received unconditionally
 
@@ -63,8 +63,4 @@ Congressional Review.—It is the sense of the Congress that the United States s
 “(b)
 
 Study and Report.—The Secretary of State shall conduct a study of any offer of a gift for the purpose of providing a place of official residence for the Secretary of State. Such study shall include an examination of the costs to the United States associated with accepting such gift, including the costs of acquisition, maintenance, security, and daily operation of a residence. The Secretary shall report the results of any study conducted under this section to the Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and to the Committee on Foreign Relations and the Committee on Environment and Public Works of the Senate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2056, 2715c of this title; title 26 sections 170, 2055.
 

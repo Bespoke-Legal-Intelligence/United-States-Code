@@ -40,7 +40,3 @@ Section 5051(c) of Pub. L. 103–355 provided that: “Within one year after the
 
 Section 5051(d) of Pub. L. 103–355 provided that: “Not later than one year after the date of the enactment of this Act \[Oct. 13, 1994\], the Administrator for Federal Procurement Policy shall submit to Congress any recommended legislation that the Secretary considers necessary to carry out section 313 of the Federal Property and Administrative Services Act of 1949, as added by subsection (a) \[41 U.S.C. 263\], and otherwise to facilitate and enhance management of Federal Government acquisition programs and the acquisition workforce of the Federal Government on the basis of performance.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 405, 433 of this title.
-

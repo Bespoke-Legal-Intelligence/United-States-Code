@@ -14,7 +14,3 @@ In consultation with the Committee on Agriculture of the House of Representative
 
 (Pub. L. 103–354, title II, §217, Oct. 13, 1994, 108 Stat. 3212.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5713 of this title.
-

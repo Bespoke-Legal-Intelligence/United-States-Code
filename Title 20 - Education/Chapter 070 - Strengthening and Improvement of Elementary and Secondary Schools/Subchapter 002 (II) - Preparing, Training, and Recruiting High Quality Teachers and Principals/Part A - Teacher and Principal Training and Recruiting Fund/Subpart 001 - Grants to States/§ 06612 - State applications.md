@@ -8,7 +8,7 @@ For a State to be eligible to receive a grant under this part, the State educati
 
 Each application submitted under this section shall include the following:
 
-&emsp;(1) A description of how the activities to be carried out by the State educational agency under this subpart will be based on a review of scientifically based research and an explanation of why the activities are expected to improve student academic achievement.
+&emsp;(1) A description of how the activities to be carried out by the State educational agencyunder this subpart will be based on a review of scientifically based research and an explanation of why the activities are expected to improve student academic achievement.
 
 &emsp;(2) A description of how the State educational agency will ensure that a local educational agency receiving a subgrant to carry out subpart 2 of this part will comply with the requirements of such subpart.
 
@@ -69,8 +69,4 @@ If the State educational agency responds to the Secretary's notification describ
 If the State educational agency does not respond to the Secretary's notification described in subsection (e)(2) of this section during the 45-day period beginning on the date on which the agency received the notification, such application shall be deemed to be disapproved.
 
 (Pub. L. 89–10, title II, §2112, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1623.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6611 of this title.
 

@@ -1,9 +1,5 @@
 Part C—HOPE for Youth: Youthbuild
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 12870 of this title; title 12 section 1701u; title 25 section 4183.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “homes”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “this section.”</i>

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—CIVIL GOVERNMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1408a, 1574 of this title.
-
 
 ---
 

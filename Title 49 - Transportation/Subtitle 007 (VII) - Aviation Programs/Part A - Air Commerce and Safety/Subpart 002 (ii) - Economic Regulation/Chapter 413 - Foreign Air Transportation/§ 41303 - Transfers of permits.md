@@ -26,7 +26,3 @@ Aug. 23, 1958, Pub. L. 85–726, §402(g), 72 Stat. 758.
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41310 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—ELECTRIC MOTOR VEHICLES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 13263 of this title.
-
 
 ---
 

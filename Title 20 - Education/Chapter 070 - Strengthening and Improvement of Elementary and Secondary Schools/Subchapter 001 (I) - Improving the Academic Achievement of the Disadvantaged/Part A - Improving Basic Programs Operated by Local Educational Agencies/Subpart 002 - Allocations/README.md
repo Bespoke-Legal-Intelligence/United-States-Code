@@ -1,9 +1,5 @@
 subpart 2—allocations
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 6303, 6316, 6317, 6318, 6362, 7172 of this title.
-
 
 ---
 

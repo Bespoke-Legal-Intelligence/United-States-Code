@@ -72,7 +72,3 @@ Pub. L. 89–4, title II, §225, as added Pub. L. 94–188, title I, §118, Dec.
 
 The Public Works and Economic Development Act of 1965, referred to in subsec. (a)(3)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified principally to chapter 38 (§3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14523 of this title.
-

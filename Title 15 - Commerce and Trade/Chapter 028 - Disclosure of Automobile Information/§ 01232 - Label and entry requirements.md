@@ -24,7 +24,3 @@ Every manufacturer of new automobiles distributed in commerce shall, prior to th
 
 (Pub. L. 85–506, §3, July 7, 1958, 72 Stat. 326.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1233 of this title; title 49 sections 32304, 32908.
-

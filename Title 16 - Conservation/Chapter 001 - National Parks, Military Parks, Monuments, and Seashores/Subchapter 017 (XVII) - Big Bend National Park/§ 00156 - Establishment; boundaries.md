@@ -4,7 +4,3 @@ When title to such lands as may be determined by the Secretary of the Interior a
 
 (June 20, 1935, ch. 283, §1, 49 Stat. 393.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 157, 157d of this title.
-

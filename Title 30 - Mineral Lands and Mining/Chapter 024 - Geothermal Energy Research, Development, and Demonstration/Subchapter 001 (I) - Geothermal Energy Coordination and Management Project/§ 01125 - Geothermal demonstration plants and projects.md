@@ -64,7 +64,3 @@ If the estimate of the Federal investment with respect to construction and opera
 
 1978—Subsec. (e)(3). Pub. L. 95–238 inserted provisions relating to goals and requirements of the demonstration program.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1126, 1162 of this title.
-

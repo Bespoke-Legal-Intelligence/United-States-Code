@@ -4,7 +4,7 @@
 
 &emsp;(1) the offer or sale under a plan of a security of the debtor, of an affiliate participating in a joint plan with the debtor, or of a successor to the debtor under the plan—
 
-&emsp;&emsp;(A) in exchange for a claim against, an interest in, or a claim for an administrative expense in the case concerning, the debtor or such affiliate; or
+&emsp;&emsp;(A) in exchange for a claim against, an interest in, or a claim for an administrativeexpense in the case concerning, the debtor or such affiliate; or
 
 &emsp;&emsp;(B) principally in such exchange and partly for cash or property;
 
@@ -42,7 +42,7 @@
 
 &emsp;(D) is an issuer, as used in such section 2(11), with respect to such securities.
 
-(2) An entity is not an underwriter under section 2(11) of the Securities Act of 1933 <sup>1</sup> or underparagraph (1) of this subsection with respect to an agreement that provides only for—
+(2) An entity is not an underwriter under section 2(11) of the Securities Act of 1933 <sup>1</sup> or under paragraph (1) of this subsection with respect to an agreement that provides only for—
 
 &emsp;(A)(i) the matching or combining of fractional interests in securities offered or sold under the plan into whole interests; or
 
@@ -66,7 +66,7 @@ Section 1145 of the House amendment deletes a provision contained in section 114
 
 In light of the amendments made to the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] in title III of the House amendment to H.R. 8200, a specific exemption from the Trust Indenture Act \[15 U.S.C. 77aaa et seq.\] is required in order to create certainty regarding plans of reorganization. Section 1145(d) is not intended to imply that commercial notes issued under a plan that matures more than 1 year after the effective date of the plan are automatically covered by the Trust Indenture Act of 1939 since such notes may fall within another exemption thereto.
 
-One other point with respect to Section 1145 deserves comment. Section 1145(a)(3) grants a debtor in possession or trustee in chapter 11 an extremely narrow portfolio security exemption from section 5 of the Securities Act of 1933 \[15 U.S.C. 77e\] or any comparable State law. The provision was considered by Congress and adopted after much study. The exemption is reasonable and is more restrictive than comparable provisions under the Securities Act \[15 U.S.C. 77a et seq.\] relating to the estates of decedents. Subsequent to passage of H.R. 8200 by the House of Representatives, the Securities and Exchange Commission promulgated Rule 148 to treat with this problem under existing law. Members of Congress received opinions from attorneys indicating dissatisfaction with the Commission's rule although the rule has been amended, the ultimate limitation of 1 percent promulgated by the Commission is wholly unacceptable.
+One other point with respect to Section 1145 deserves comment. Section 1145(a)(3) grants a debtor in possession or trustee in chapter 11 an extremely narrow portfolio security exemption from section 5 of the Securities Act of 1933 \[15 U.S.C. 77e\] or any comparable State law. The provision was considered by Congress and adopted after much study. The exemption is reasonableand is more restrictive than comparable provisions under the Securities Act \[15 U.S.C. 77a et seq.\] relating to the estates of decedents. Subsequent to passage of H.R. 8200 by the House of Representatives, the Securities and Exchange Commission promulgated Rule 148 to treat with this problem under existing law. Members of Congress received opinions from attorneys indicating dissatisfaction with the Commission's rule although the rule has been amended, the ultimate limitation of 1 percent promulgated by the Commission is wholly unacceptable.
 
 The Commission rule would permit a trustee or debtor in possession to distribute securities at the rate of 1 percent every 6 months. Section 1145(a)(3) permits the trustee to distribute 4 percent of the securities during the 2-year period immediately following the date of the filing of the petition. In addition, the security must be of a reporting company under section 13 of the Securities and Exchange Act of 1934 \[15 U.S.C. 78m\], and must be in compliance with all applicable requirements for the continuing of trading in the security on the date that the trustee offers or sells the security.
 
@@ -82,7 +82,7 @@ Paragraph (2) of subsection (a) exempts the offer or sale of any security of the
 
 Paragraph (3) of subsection (a) exempts the offer or sale of any security that arises from the exercise of a subscription right or from the exercise of a conversion privilege when such subscription right or conversion privilege was issued under a plan. This exemption is necessary in order to enhance the marketability of subscription rights or conversion privileges, including warrants, offered or sold under a plan. This is present law.
 
-Paragraph (4) of subsection (a) exempts sales of portfolio securities, excluding securities of the debtor or its affiliate, owned by the debtor on the date of the filing of the petition. The purpose of this exemption is to allow the debtor or trustee to sell or distribute, without allowing manipulation schemes, restricted portfolio securities held or acquired by the debtor. Subparagraph (B) of section 1145(a)(4) limits the exemption to securities of a company that is required to file reports under section 13 of the Securities Act \[15 U.S.C. 78m\] and that is in compliance with all requirements for the continuance of trading those securities. This limitation effectively prevents selling into the market “cats and dogs” of a nonreporting company. Subparagraph (C) places a limitation on the amount of restricted securities that may be distributed. During the case, the trustee may sell up to 4 percent of each class of restricted securities at any time during the first 2 years and 1 percent during any 180-day period thereafter. This relaxation of the resale rules for debtors inholding restricted securities is similar to but less extensive than the relaxation in SEC Rule 114(c)(3)(v) for the estates of deceased holders of securities.
+Paragraph (4) of subsection (a) exempts sales of portfolio securities, excluding securities of the debtor or its affiliate, owned by the debtor on the date of the filing of the petition. The purpose of this exemption is to allow the debtor or trustee to sell or distribute, without allowing manipulation schemes, restricted portfolio securities held or acquired by the debtor. Subparagraph (B) of section 1145(a)(4) limits the exemption to securities of a company that is required to file reports under section 13 of the Securities Act \[15 U.S.C. 78m\] and that is in compliance with all requirements for the continuance of trading those securities. This limitation effectively prevents selling into the market “cats and dogs” of a nonreporting company. Subparagraph (C) places a limitation on the amount of restricted securities that may be distributed. During the case, the trustee may sell up to 4 percent of each class of restricted securities at any time during the first 2 years and 1 percent during any 180-day period thereafter. This relaxation of the resale rules for debtors in holding restricted securities is similar to but less extensive than the relaxation in SEC Rule 114(c)(3)(v) for the estates of deceased holders of securities.
 
 Paragraph (5) contains an exemption for brokers and dealers (stockbrokers, as defined in title 11) akin to the exemption provided by section 4(3)(A) of the Securities Act of 1933 \[15 U.S.C. 77d(3)(A)\]. Instead of being required to supply a prospectus, however, the stockbroker is required to supply the approved disclosure statement, and if the court orders, information supplementing the disclosure statement. Under present law, the stockholder is not required to supply anything.
 
@@ -139,10 +139,6 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 364, 901 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

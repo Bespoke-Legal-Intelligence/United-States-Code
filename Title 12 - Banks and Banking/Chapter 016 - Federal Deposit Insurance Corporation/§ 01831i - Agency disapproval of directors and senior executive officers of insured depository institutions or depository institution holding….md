@@ -38,7 +38,7 @@ The appropriate Federal banking agency shall issue a notice of disapproval with 
 
 Each appropriate Federal banking agency shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a) of this section.
 
-(Sept. 21, 1950, ch. 967, §2\[32\], as added Pub. L. 101–73, title IX, §914(a), Aug. 9, 1989, 103 Stat. 484;amended Pub. L. 104–208, div. A, title II, §2209, Sept. 30, 1996, 110 Stat. 3009–409.)
+(Sept. 21, 1950, ch. 967, §2\[32\], as added Pub. L. 101–73, title IX, §914(a), Aug. 9, 1989, 103 Stat. 484; amended Pub. L. 104–208, div. A, title II, §2209, Sept. 30, 1996, 110 Stat. 3009–409.)
 
 #### Amendments
 
@@ -53,8 +53,4 @@ Subsec. (a)(2). Pub. L. 104–208, §2209(1)(C), (F), added par. (2) and struck 
 Subsec. (a)(3). Pub. L. 104–208, §2209(1)(D), redesignated par. (3) as (1).
 
 Subsec. (b). Pub. L. 104–208, §2209(2), substituted “notice period, not to exceed 90 days,” for “30-day period”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 93, 1464, 1785, 1818, 1828 of this title.
 

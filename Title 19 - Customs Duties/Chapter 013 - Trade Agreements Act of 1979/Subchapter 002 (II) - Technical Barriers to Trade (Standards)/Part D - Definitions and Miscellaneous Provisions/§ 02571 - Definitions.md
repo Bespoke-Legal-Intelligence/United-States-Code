@@ -146,7 +146,3 @@ Special representative.—The term ‘Special Representative’ means the Specia
 
 Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 352 of Pub. L. 103–465, set out as a note under section 2531 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2532, 2575b, 2576b, 2577 of this title.
-

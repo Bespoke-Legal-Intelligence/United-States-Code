@@ -84,11 +84,7 @@ June 6, 1930, ch. 407, 46 Stat. 513.
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–7 substituted “Deputy Architect” for “Assistant Architect”.
+2003—Pub. L. 108–7 substituted “Deputy Architect” for “Assistant Architect”.
 
-<b>1989</b>—Pub. L. 101–163 struck out “, and, in case of the absence or disability of the Assistant Architect, the Executive Assistant shall so act” before period at end.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1848 of this title.
+1989—Pub. L. 101–163 struck out “, and, in case of the absence or disability of the Assistant Architect, the Executive Assistant shall so act” before period at end.
 

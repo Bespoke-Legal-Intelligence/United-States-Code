@@ -6,7 +6,3 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 575.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8348, 8470 of this title.
-

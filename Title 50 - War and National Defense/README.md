@@ -1,5 +1,5 @@
 
-50 U.S.C.<br>United States Code, 2002 Edition<br>Title 50 - WAR AND NATIONAL DEFENSE<br>From the U.S. Government Publishing Office, www.gpo.gov
+50 U.S.C.<br>United States Code, 2004 Edition<br>Title 50 - WAR AND NATIONAL DEFENSE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 50—WAR AND NATIONAL DEFENSE
 
@@ -50,16 +50,13 @@
 | [<b>39.</b>](Chapter%20039%20-%20Spoils%20of%20War/README.md) | <b>Spoils of War</b> | <b>2201</b> |
 | [<b>40.</b>](Chapter%20040%20-%20Defense%20Against%20Weapons%20of%20Mass%20Destruction/README.md) | <b>Defense Against Weapons of Mass Destruction</b> | <b>2301</b> |
 | [<b>41.</b>](Chapter%20041%20-%20National%20Nuclear%20Security%20Administration/README.md) | <b>National Nuclear Security Administration</b> | <b>2401</b> |
+| [<b>42.</b>](Chapter%20042%20-%20Atomic%20Energy%20Defense%20Provisions/README.md) | <b>Atomic Energy Defense Provisions</b> | <b>2501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ratification of Japanese Treaty
 
 The Treaty of Peace with Japan, signed at San Francisco on Sept. 8, 1951, was ratified by the United States Senate on Mar. 20, 1952. For Resolution of Ratification, see Congressional Record, Vol. 98, No. 46, Thursday, Mar. 20, 1952, p. 2634. According to Proc. No. 2974, eff. Apr. 29, 1952, 17 F.R. 3813, 66 Stat. c31, terminating the national emergencies proclaimed on September 8, 1939, and May 27, 1941, and set out as a note preceding section 1 of the Appendix to this title, such treaty came into force on Apr. 28, 1952.
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 49 section 40125.
 
 
 ---
@@ -111,3 +108,4 @@ This title is referred to in title 49 section 40125.
 - [Chapter 039 - Spoils of War](Chapter%20039%20-%20Spoils%20of%20War/README.md)
 - [Chapter 040 - Defense Against Weapons of Mass Destruction](Chapter%20040%20-%20Defense%20Against%20Weapons%20of%20Mass%20Destruction/README.md)
 - [Chapter 041 - National Nuclear Security Administration](Chapter%20041%20-%20National%20Nuclear%20Security%20Administration/README.md)
+- [Chapter 042 - Atomic Energy Defense Provisions](Chapter%20042%20-%20Atomic%20Energy%20Defense%20Provisions/README.md)

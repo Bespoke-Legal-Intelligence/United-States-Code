@@ -156,9 +156,9 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Effective dates of mobile service amendments.—The amendments made by subsection (b)(2) \[amending this section and sections 152 and 153 of this title\] shall be effective on the date of enactment of this Act \[Aug. 10, 1993\], except that—
 
-&emsp;“(A) section 332(c)(3)(A) of the Communications Act of 1934 \[subsec. (c)(3)(A) of this section\], as amended by such subsection, shall take effect 1 year after such date of enactment; and
+&emsp;“(A) section 332(c)(3)(A) of the Communications Act of 1934 \[subsec. (c)(3)(A) of this section\], as amendedby such subsection, shall take effect 1 year after such date of enactment; and
 
-&emsp;“(B) any private land mobile service provided by any person before such date of enactment, and any paging service utilizing frequencies allocated as of January 1, 1993, for private land mobile services, shall, except for purposes of section 332(c)(6) of suchAct \[subsec. (c)(6) of this section\], be treated as a private mobile service until 3 years after such date of enactment.”
+&emsp;“(B) any private land mobile service provided by any person before such date of enactment, and any paging service utilizing frequencies allocated as of January 1, 1993, for private land mobile services, shall, except for purposes of section 332(c)(6) of such Act \[subsec. (c)(6) of this section\], be treated as a private mobile service until 3 years after such date of enactment.”
 
 #### Availability of Property
 
@@ -175,8 +175,4 @@ Section 6002(d)(3) of Pub. L. 103–66 provided that: “Within 1 year after the
 &emsp;“(C) shall issue such other regulations as are necessary to implement the amendments made by subsection (b)(2); and
 
 &emsp;“(D) shall include, in such regulations, modifications, and terminations, such provisions as are necessary to provide for an orderly transition.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 152, 153, 160, 222, 253, 271, 309, 1001, 1002 of this title; title 15 section 7712.
 

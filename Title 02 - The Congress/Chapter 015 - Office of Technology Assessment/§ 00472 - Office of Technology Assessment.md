@@ -48,7 +48,3 @@ Assessments made by the Office, including information, surveys, studies, reports
 
 (Pub. L. 92–484, §3, Oct. 13, 1972, 86 Stat. 797.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 476 of this title.
-

@@ -10,7 +10,3 @@ The Enabling Act of June 20, 1910, referred to in text, probably means act June 
 
 Section 315g of title 43, referred to in text, was repealed by Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 463a of this title.
-

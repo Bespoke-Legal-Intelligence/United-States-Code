@@ -2,7 +2,7 @@
 
 #### (a) Existing and new systems
 
-No grant shall be made for a sewage collection system under this subchapter unless such grant (1) is for replacement or major rehabilitation of an existing collection system and is necessary to the total integrity and performance of the waste treatment works servicing such community, or (2) is for a new collection system in an existing community with sufficient existing or planned capacity adequately to treat such collected sewage and is consistent with section 1281 of this title.
+No grant shall be made for a sewage collection system under this subchapter unless such grant (1) is for replacement or major rehabilitation of an existing collection system and is necessary to the total integrity and performance of thewaste treatment works servicing such community, or (2) is for a new collection system in an existing community with sufficient existing or planned capacity adequately to treat such collected sewage and is consistent with section 1281 of this title.
 
 #### (b) Use of population density as test
 
@@ -21,8 +21,4 @@ No grant shall be made under this subchapter from funds authorized for any fisca
 1981—Subsec. (c). Pub. L. 97–117 substituted “September 30, 1985” for “September 30, 1982”.
 
 1977—Pub. L. 95–217 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1382 of this title.
 

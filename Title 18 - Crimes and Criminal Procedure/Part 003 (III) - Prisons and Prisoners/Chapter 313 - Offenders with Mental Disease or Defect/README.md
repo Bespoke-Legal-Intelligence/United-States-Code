@@ -20,10 +20,6 @@
 
 1949—Act Sept. 7, 1949, ch. 535, §2, 63 Stat. 688, added items 4244 to 4248.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3006A of this title; title 10 section 876b.
-
 
 ---
 

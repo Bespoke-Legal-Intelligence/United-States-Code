@@ -62,7 +62,7 @@
 
 #### (d) Existing paraprofessionals
 
-Each local educational agency receiving assistance under this part shall ensure that allparaprofessionals hired before January 8, 2002, and working in a program supported with funds under this part shall, not later than 4 years after January 8, 2002, satisfy the requirements of subsection (c) of this section.
+Each local educational agency receiving assistance under this part shall ensure that all paraprofessionals hired before January 8, 2002, and working in a program supported with funds under this part shall, not later than 4 years after January 8, 2002, satisfy the requirements of subsection (c) of this section.
 
 #### (e) Exceptions for translation and parental involvement activities
 
@@ -145,8 +145,4 @@ Each local educational agency that receives funds under this part shall use not 
 A prior section 6319, Pub. L. 89–10, title I, §1118, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3550, related to parental involvement, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6318 of this title.
 
 A prior section 1119 of Pub. L. 107–110 was classified to section 6320 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6311, 6312, 6314, 6315, 6316, 6320, 6362, 6491, 6612, 6613, 6622, 6623, 6641, 7273c, 7325c of this title.
 

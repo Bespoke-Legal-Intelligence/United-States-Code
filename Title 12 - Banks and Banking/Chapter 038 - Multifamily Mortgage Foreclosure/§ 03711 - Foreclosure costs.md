@@ -14,7 +14,3 @@ The following foreclosure costs shall be paid from the sale proceeds prior to sa
 
 (Pub. L. 97–35, title III, §369C, Aug. 13, 1981, 95 Stat. 429.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3709, 3710, 3712, 3714 of this title.
-

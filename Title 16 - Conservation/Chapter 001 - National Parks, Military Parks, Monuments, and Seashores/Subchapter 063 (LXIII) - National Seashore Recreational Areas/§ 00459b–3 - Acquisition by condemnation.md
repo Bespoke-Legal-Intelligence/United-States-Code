@@ -38,7 +38,3 @@ Nothing in this section or elsewhere in sections 459b to 459b–8 of this title 
 
 (Pub. L. 87–126, §4, Aug. 7, 1961, 75 Stat. 288.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459b–1, 459b–2, 459b–4 to 459b–8 of this title.
-

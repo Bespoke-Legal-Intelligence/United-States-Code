@@ -20,7 +20,7 @@ Indian country.—The term “Indian country” has the meaning stated in sectio
 
 &emsp;(5)
 
-Protection order.—The term “protection order” includes any injunction or other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil and criminal court (other than a support or child custody order issued pursuant to State divorce and child custody laws, except to the extent that such an order is entitled tofull faith and credit under other Federal law) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.
+Protection order.—The term “protection order” includes any injunction or other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil and criminal court (other than a support or child custody order issued pursuant to State divorce and child custody laws, except to the extent that such an order is entitled to full faith and credit under other Federal law) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.
 
 &emsp;(6)
 
@@ -51,8 +51,4 @@ Travel in interstate or foreign commerce.—The term “travel in interstate or 
 #### Amendments
 
 2000—Pub. L. 106–386 reenacted section catchline without change and amended text generally. Prior to amendment, text defined “bodily injury”, “Indian country”, “protection order”, “spouse or intimate partner”, “State”, and “travel across State lines”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1993 of this title; title 10 section 1561a; title 42 sections 3796gg–5, 3796hh.
 

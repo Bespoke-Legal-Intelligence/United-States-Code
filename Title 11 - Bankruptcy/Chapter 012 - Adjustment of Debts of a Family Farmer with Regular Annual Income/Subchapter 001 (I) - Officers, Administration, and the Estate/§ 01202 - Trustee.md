@@ -1,6 +1,6 @@
 ### §1202. Trustee
 
-(a) If the United States trustee has appointed an individual under section 586(b) of title 28 toserve as standing trustee in cases under this chapter and if such individual qualifies as a trustee under section 322 of this title, then such individual shall serve as trustee in any case filed under this chapter. Otherwise, the United States trustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as trustee in the case if necessary.
+(a) If the United States trustee has appointed an individual under section 586(b) of title 28 to serve as standing trustee in cases under this chapter and if such individual qualifies as a trustee under section 322 of this title, then such individual shall serve as trustee in any case filed under this chapter. Otherwise, the United States trustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as trustee in the case if necessary.
 
 (b) The trustee shall—
 
@@ -22,7 +22,7 @@
 
 &emsp;(5) if the debtor ceases to be a debtor in possession, perform the duties specified in sections 704(8), 1106(a)(1), 1106(a)(2), 1106(a)(6), 1106(a)(7), and 1203.
 
-(Added and amended Pub. L. 99–554, title II, §§227, 255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3103, 3106, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891.)
+(Added and amended Pub. L. 99–554, title II, §§227, 255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3103, 3106, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, §2(a), Oct. 25, 2004, 118 Stat. 1749.)
 
 #### Termination of Section
 
@@ -77,8 +77,4 @@ Until the amendments made by subtitle A (§§201 to 231) of title II of Pub. L. 
 &emsp;(2) any reference to section 586(b) of Title 28, Judiciary and Judicial Procedure, is deemed to be a reference to subsec. (c) of this section,
 
 > see section 302(c)(3)(B), (d), (e) of Pub. L. 99–554, set out as an Effective Date note under section 581 of Title 28.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 322, 326, 327, 546, 557, 1226 of this title.
 

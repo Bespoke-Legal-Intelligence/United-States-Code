@@ -61,10 +61,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3113, 3116, 3117, 3131, 3132 of this title; title 2 section 632.
-
 
 ---
 

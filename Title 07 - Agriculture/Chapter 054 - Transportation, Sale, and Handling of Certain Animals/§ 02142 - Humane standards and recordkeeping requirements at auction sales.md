@@ -14,7 +14,3 @@ The Secretary is authorized to promulgate humane standards and recordkeeping req
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2135, 2137, 2138, 2139, 2146, 2147, 2149 of this title.
-

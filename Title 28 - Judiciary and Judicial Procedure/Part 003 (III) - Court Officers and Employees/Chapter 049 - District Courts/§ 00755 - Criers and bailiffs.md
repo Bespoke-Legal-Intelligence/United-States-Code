@@ -1,6 +1,6 @@
 ### §755. Criers and bailiffs
 
-Each district judge may appoint a crier for the court in which he presides who shall perform also the duties of bailiff and messenger. A crier may perform also the duties of law clerk if he is qualified to do so and the district judge who appointed him designates him to serve as a crier-law clerk. A crier designated to serve as a crier-law clerk shall receive the compensation of a law clerk, but only so much of that compensation as is in excess of the compensation to which he would be entitled as a crier shall be deemed the compensation of a law clerk for the purposes of any limitation imposed by law upon the aggregate salaries of law clerks and secretaries appointed by a district judge.
+Each district judge may appoint a crier for the court in which he presides who shall perform also the duties of bailiff and messenger. A criermay perform also the duties of law clerk if he is qualified to do so and the district judge who appointed him designates him to serve as a crier-law clerk. A crier designated to serve as a crier-law clerk shall receive the compensation of a law clerk, but only so much of that compensation as is in excess of the compensation to which he would be entitled as a crier shall be deemed the compensation of a law clerk for the purposes of any limitation imposed by law upon the aggregate salaries of law clerks and secretaries appointed by a district judge.
 
 Each United States marshal may employ, with the approval of the judge, not exceeding four bailiffs as the district judge may determine, to attend the court, maintain order, wait upon the grand and petit juries, and perform such other necessary duties as the judge or marshal may direct.
 
@@ -10,7 +10,7 @@ If the position of crier or bailiff is to be filled by the appointment of a pers
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§9, 595, 596 (R.S. §715; Mar. 3, 1905, ch. 1487, 33 Stat. 1259; Mar. 3, 1911, ch. 231, §5, 36 Stat. 1088; June 1, 1922, ch. 204, title II, 42 Stat. 617; Jan. 3, 1923, ch. 21, title II, 42 Stat. 1084; May 28, 1924, ch. 204, title II, 43 Stat. 221; May 14, 1940, ch. 189, title III, 54 Stat. 204; June 28, 1941, ch. 258, title III,55 Stat. 295; July 2, 1942, ch. 472, title III, 56 Stat. 486; July 1, 1943, ch. 182, title II, 57 Stat. 286; June 28, 1944, ch. 294, title II, 58 Stat. 410; Dec. 7, 1944, ch. 522, §§1, 2, 58 Stat. 796; May 21, 1945, ch. 129, title II, 59 Stat. 184).
+Based on title 28, U.S.C., 1940 ed., §§9, 595, 596 (R.S. §715; Mar. 3, 1905, ch. 1487, 33 Stat. 1259; Mar. 3, 1911, ch. 231, §5, 36 Stat. 1088; June 1, 1922, ch. 204, title II, 42 Stat. 617; Jan. 3, 1923, ch. 21, title II, 42 Stat. 1084; May 28, 1924, ch. 204, title II, 43 Stat. 221; May 14, 1940, ch. 189, title III, 54 Stat. 204; June 28, 1941, ch. 258, title III, 55 Stat. 295; July 2, 1942, ch. 472, title III, 56 Stat. 486; July 1, 1943, ch. 182, title II, 57 Stat. 286; June 28, 1944, ch. 294, title II, 58 Stat. 410; Dec. 7, 1944, ch. 522, §§1, 2, 58 Stat. 796; May 21, 1945, ch. 129, title II, 59 Stat. 184).
 
 Section consolidates parts of sections 9, 595, and 596 of title 28, U.S.C., 1940 ed. The other provisions of such sections appear in section 604 of this title.
 

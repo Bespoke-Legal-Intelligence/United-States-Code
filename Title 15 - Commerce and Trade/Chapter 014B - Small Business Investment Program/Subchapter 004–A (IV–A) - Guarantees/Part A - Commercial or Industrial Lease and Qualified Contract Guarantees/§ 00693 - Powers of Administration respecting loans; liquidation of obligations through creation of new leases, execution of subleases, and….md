@@ -8,7 +8,3 @@ Without limiting the authority conferred upon the Administrator and the Administ
 
 1970—Pub. L. 91–609 substituted “part” for “title”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 694–1, 694b of this title.
-

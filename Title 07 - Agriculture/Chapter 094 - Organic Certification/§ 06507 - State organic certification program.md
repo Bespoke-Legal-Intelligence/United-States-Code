@@ -30,15 +30,11 @@ The governing State official may prepare and submit a plan for the establishment
 
 #### (2) Changes in program
 
-&emsp;The governing State official, prior to implementing any substantive change to programsapproved under this subsection, shall submit such change to the Secretary for approval.
+&emsp;The governing State official, prior to implementing any substantive change to programs approved under this subsection, shall submit such change to the Secretary for approval.
 
 #### (3) Time for determination
 
 &emsp;The Secretary shall make a determination concerning any plan, proposed change to a program, or a review of a program not later than 6 months after receipt of such plan, such proposed change, or the initiation of such review.
 
 (Pub. L. 101–624, title XXI, §2108, Nov. 28, 1990, 104 Stat. 3939.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6506 of this title.
 

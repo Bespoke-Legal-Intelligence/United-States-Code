@@ -36,15 +36,11 @@ The Board shall perform the following functions:
 
 #### (b) Excluded functions
 
-The functions of the Board under this subchapter do not include functions relating to the safety of atomic weapons. However, the Board shall have access to any information on atomicweapons that is within the Department of Energy and is necessary to carry out the functions of the Board.
+The functions of the Board under this subchapter do not include functions relating to the safety of atomic weapons. However, the Board shall have access to any information on atomic weapons that is within the Department of Energy and is necessary to carry out the functions of the Board.
 
 (Aug. 1, 1946, ch. 724, title I, §312, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2077; amended Pub. L. 102–190, div. C, title XXXII, §3202(b)(2), Dec. 5, 1991, 105 Stat. 1582; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Amendments
 
 1991—Pub. L. 102–190 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2286b, 2286d of this title.
 

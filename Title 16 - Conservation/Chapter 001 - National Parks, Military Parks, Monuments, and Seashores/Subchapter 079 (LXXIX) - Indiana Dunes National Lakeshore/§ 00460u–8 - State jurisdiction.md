@@ -8,7 +8,3 @@ Nothing in this subchapter shall deprive the State of Indiana or any political s
 
 A prior section 8 of Pub. L. 89–761 was renumbered section 7 and is classified to section 460u–7 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460u–1 of this title.
-

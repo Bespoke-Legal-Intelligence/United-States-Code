@@ -22,7 +22,7 @@ A basic permit shall be conditioned upon compliance with the requirements of sec
 
 #### (e) Revocation, suspension, and annulment
 
-A basic permit shall by order of the Secretary of the Treasury, after due notice and opportunity for hearing to the permittee, (1) be revoked, or suspended for such period as the Secretary of the Treasury deems appropriate, if the Secretary finds that the permittee has wilfully violated any of the conditions thereof, provided that for a first violation of the conditions thereof the permit shall be subject to suspension only; or (2) be revoked if the Secretary finds that the permittee has not engaged in the operations authorized by the permit for a period of more than two years; or (3) be annulled if the Secretary finds that the permit was procured through fraud, or misrepresentation, or concealment of material fact. The order shall state the findings which are the basis for the order.
+A basic permit shall by order of the Secretary of the Treasury, after due notice and opportunity for hearing to the permittee, (1) be revoked, or suspended for such period as the Secretary of the Treasury deems appropriate, if the Secretary finds that the permittee has wilfully violated any of the conditions thereof, provided that for a first violation of the conditions thereof the permit shall be subject to suspension only; or (2) be revoked if the Secretary finds that the permittee has not engaged in the operations authorized by the permit for a period of more than two years; or (3) be annulled if theSecretary finds that the permit was procured through fraud, or misrepresentation, or concealment of material fact. The order shall state the findings which are the basis for the order.
 
 #### (f) Service of orders
 
@@ -52,7 +52,7 @@ In subsec. (h) of this section, “section 1254 of title 28” was substituted f
 
 Subsec. (d). Pub. L. 100–690, §8001(b)(3), made technical amendment to references to sections 205 and 206 of this title to reflect renumbering of corresponding sections of original act.
 
-1958—Subsec. (h). Pub. L. 85–791, in third sentence, substituted “transmitted by the clerk of the court to the Secretary, or” for “served upon, the Secretary, or upon any”, substituted “file in the court” for “certifyand file in the court a transcript of”, and inserted “as provided in section 2112 of title 28”, and in fourth sentence, substituted “petition” for “transcript”.
+1958—Subsec. (h). Pub. L. 85–791, in third sentence, substituted “transmitted by the clerk of the court to the Secretary, or” for “served upon, the Secretary, or upon any”, substituted “file in the court” for “certify and file in the court a transcript of”, and inserted “as provided in section 2112 of title 28”, and in fourth sentence, substituted “petition” for “transcript”.
 
 #### Change of Name
 
@@ -65,8 +65,4 @@ Subsec. (d). Pub. L. 100–690, §8001(b)(3), made technical amendment to refere
 #### Applicability of Administrative Procedure Act
 
 Section 35 of Pub. L. 85–791 provided that: “This Act shall not be construed to repeal or modify any provision of the Administrative Procedure Act \[subchapter II of chapter 5, and chapter 7, of Title 5, Government Organization and Employees\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 5171.
 

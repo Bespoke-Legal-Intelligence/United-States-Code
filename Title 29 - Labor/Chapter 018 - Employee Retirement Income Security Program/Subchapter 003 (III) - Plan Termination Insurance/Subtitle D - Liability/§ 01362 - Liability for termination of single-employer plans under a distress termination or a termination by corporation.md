@@ -68,7 +68,7 @@ A person described in subsection (a) of this section shall be subject to liabili
 
 #### (C) Timing of determination
 
-&emsp;&emsp;For purposes of this paragraph, determinations of net worth shall be made as of a day chosen by the corporation (during the 120-day period ending with the termination date) and shall be computed without regard to any liability under this section.
+&emsp;&emsp;For purposes of this paragraph, determinations of net worth shall be made as of a day chosen by the corporation (during the 120-day period ending with the terminationdate) and shall be computed without regard to any liability under this section.
 
 #### (2) Pre-tax profits
 
@@ -78,7 +78,7 @@ A person described in subsection (a) of this section shall be subject to liabili
 
 &emsp;&emsp;(B) for any fiscal year of an organization described in section 501(c) of title 26, the excess of income over expenses (as such terms are defined for such organizations under generally accepted accounting principles),
 
-> &emsp;before provision for or deduction of Federal or other income tax, any contribution to any single-employer plan of which such person is acontributing sponsor at any time during the period beginning on the termination date and ending with the end of such fiscal year, and any amounts required to be paid for such fiscal year under this section. The corporation may by regulation require such information to be filed on such forms as may be necessary to determine the existence and amount of such pre-tax profits.
+> &emsp;before provision for or deduction of Federal or other income tax, any contribution to any single-employer plan of which such person is a contributing sponsor at any time during the period beginning on the termination date and ending with the end of such fiscal year, and any amounts required to be paid for such fiscal year under this section. The corporation may by regulation require such information to be filed on such forms as may be necessary to determine the existence and amount of such pre-tax profits.
 
 #### (e) Treatment of substantial cessation of operations
 
@@ -142,7 +142,7 @@ Subsec. (f). Pub. L. 99–272, §11011(a)(1), (b), redesignated former subsec. (
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(f)(2), (10)(A), (B) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(f)(2), (10)(A), (B) of Pub. L. 101–239 effective, except as otherwise provided, as ifincluded in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
@@ -165,8 +165,4 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 #### Special Delayed Payment Rule
 
 Section 11012(d) of Pub. L. 99–272 provided that: “In the case of a distress termination under section 4041(c) of the Employee Retirement Income Security Act of 1974 (as amended by section 11009) \[29 U.S.C. 1341(c)\] pursuant to a notice of intent to terminate filed before January 1, 1987, no payment of liability otherwise payable as provided in section 4062(c)(2)(B) of such Act \[29 U.S.C. 1362(c)(2)(B)\] (as amended by this section \[Act\]) shall be required to be made before January 1, 1989.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1322, 1341, 1342, 1363, 1364, 1367, 1368, 1370, 1398, 1412 of this title; title 26 section 404.
 

@@ -8,7 +8,3 @@ When appropriations have been made for the commencement or continuation of const
 
 The definitions in section 485a of this title apply to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 485, 485d, 485e, 485f, 485g, 485i, 485j, 485k of this title.
-

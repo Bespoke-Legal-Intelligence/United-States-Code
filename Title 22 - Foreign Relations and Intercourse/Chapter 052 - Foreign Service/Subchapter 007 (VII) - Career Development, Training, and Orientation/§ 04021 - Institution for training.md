@@ -50,7 +50,7 @@ Training and instruction may be provided at the Institute <sup>2</sup> for not 
 
 The authorities of section 4024 of this title shall apply to training and instruction provided under this section.
 
-(Pub. L. 96–465, title I, §701, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 98–164, title I, §126, Nov. 22, 1983, 97 Stat. 1026; Pub. L. 103–236, title I, §126(2), (3), Apr. 30, 1994, 108 Stat. 393, 394; Pub. L. 103–415, §1(y), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(a)(1), (3), Oct. 21, 1998, 112 Stat. 2681–808, 2681–809; Pub. L. 107–132, §1(a), Jan. 16, 2002, 115 Stat. 2412; Pub. L. 107–228, div. A, title III, §318(2), Sept. 30, 2002, 116 Stat. 1379.)
+(Pub. L. 96–465, title I, §701, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 98–164, title I, §126, Nov. 22, 1983, 97 Stat. 1026; Pub. L. 103–236, title I, §126(2), (3), Apr. 30, 1994, 108 Stat. 393, 394; Pub. L. 103–415, §1(y), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(a)(1), (3), Oct. 21, 1998, 112 Stat. 2681–808, 2681–809; Pub. L. 107–132, §1(a), Jan. 16, 2002, 115 Stat. 2412; Pub. L.107–228, div. A, title III, §318(2), Sept. 30, 2002, 116 Stat. 1379.)
 
 #### References in Text
 
@@ -162,7 +162,7 @@ Jurisdiction and Custody.—The facility constructed under this section and the 
 
 “(e)
 
-Operation, Maintenance, Security, Alteration, and Repair.—(1) The Administrator of General Services shall delegate, in accordance with section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486) \[see 40 U.S.C. 121 and Historical and Revision notes thereunder\] and section 15 of thePublic Buildings Act of 1959 (40 U.S.C. 614) \[now 40 U.S.C. 3313\], to the Secretary of State responsibility for the operation, maintenance, and security of and alterations and repairs to the facility constructed pursuant to this section, provided the facility is used by the Secretary for the purposes authorized by this section.
+Operation, Maintenance, Security, Alteration, and Repair.—(1) The Administrator of General Services shall delegate, in accordance with section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486) \[see 40 U.S.C. 121 and Historical and Revision notes thereunder\] and section 15 of the Public Buildings Act of 1959 (40 U.S.C. 614) \[now 40 U.S.C. 3313\], to the Secretary of State responsibility for the operation, maintenance, and security of and alterations and repairs to the facility constructed pursuant to this section, provided the facility is used by the Secretary for the purposes authorized by this section.
 
 “\[(2) Repealed. Pub. L. 105–277, div. G, subdiv. B, title XXII, §2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817.\]
 
@@ -175,10 +175,6 @@ Exemption From Payment of Charges.—(1) Except as provided in paragraph (2), th
 #### Language Training for Family Members of Foreign Service Personnel
 
 Pub. L. 95–105, title IV, §414, Aug. 17, 1977, 91 Stat. 857, as amended by Pub. L. 97–241, title V, §505(a)(3), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that: “It is the sense of Congress that, in order to increase the effectiveness of United States diplomatic representation abroad, the Secretary of State should make greater use of his authority under section 701 of the Foreign Service Act of 1946 \[former section 1041 of this title\] in order to increase the language training opportunities available to the family members of Foreign Service personnel.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2002.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

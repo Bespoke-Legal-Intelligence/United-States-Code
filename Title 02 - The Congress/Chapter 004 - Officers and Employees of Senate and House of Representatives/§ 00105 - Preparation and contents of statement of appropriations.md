@@ -4,7 +4,3 @@ The statement of all appropriations made during each session of Congress shall b
 
 (Oct. 19, 1888, ch. 1210, §1, 25 Stat. 587; July 19, 1897, ch. 9, 30 Stat. 136; June 7, 1924, ch. 303, §1, 43 Stat. 586.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 44 section 725.
-

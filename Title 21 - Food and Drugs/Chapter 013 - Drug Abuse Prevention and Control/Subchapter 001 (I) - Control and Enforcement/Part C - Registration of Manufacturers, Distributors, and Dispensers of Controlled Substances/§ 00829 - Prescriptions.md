@@ -6,7 +6,7 @@ Except when dispensed directly by a practitioner, other than a pharmacist, to an
 
 #### (b) Schedule III and IV substances
 
-Except when dispensed directly by a practitioner, other than a pharmacist, to an ultimate user, no controlled substance in schedule III or IV, which is a prescription drug as determined under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], may be dispensed without a written or oral prescription in conformity with section 503(b) of that Act \[21 U.S.C. 353(b)\]. Such prescriptions may not be filled or refilled more than six months after the date thereof or be refilled more than five times after the date of the prescription unless renewed by the practitioner.
+Except when dispensed directly by a practitioner, other than a pharmacist, to an ultimate user, no controlled substance in schedule III or IV, which is a prescription drug as determined under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], may be dispensed without a written or oral prescription in conformity with section 503(b) of that Act \[21 U.S.C. 353(b)\]. Such prescriptions may not be filled or refilled more than six months after the date thereof or be refilled more than five times after the date ofthe prescription unless renewed by the practitioner.
 
 #### (c) Schedule V substances
 
@@ -26,9 +26,5 @@ Schedules II, III, IV, and V, referred to in subsecs. (a) to (c), are set out in
 
 #### Effect of Scheduling on Prescriptions
 
-Pub. L. 101–647, title XIX, §1902(c), Nov. 29, 1990, 104 Stat. 4852, provided that: “Any prescription for anabolic steroids subject to refill on or after the date of enactment of the amendments made by this section \[Nov.29, 1990\] may be refilled without restriction under section 309(a) of the Controlled Substances Act (21 U.S.C. 829(a)).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 842, 902 of this title.
+Pub. L. 101–647, title XIX, §1902(c), Nov. 29, 1990, 104 Stat. 4852, provided that: “Any prescription for anabolic steroids subject to refill on or after the date of enactment of the amendments made by this section \[Nov. 29, 1990\] may be refilled without restriction under section 309(a) of the Controlled Substances Act (21 U.S.C. 829(a)).”
 

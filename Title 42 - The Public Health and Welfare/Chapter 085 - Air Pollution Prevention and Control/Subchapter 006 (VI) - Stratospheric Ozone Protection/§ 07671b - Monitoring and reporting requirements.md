@@ -24,7 +24,7 @@ Unless such information has previously been reported to the Administrator, on th
 
 &emsp;(C) the date by which the atmospheric abundance of chlorine is projected to return to a level of two parts per billion.
 
-> Such updated projections shall be made on the basis of current international and domestic controls on substances covered by this subchapter as well as on the basis of such controls supplemented by a year 2000 global phase out of allhalocarbon emissions (the base case). It is the purpose of the Congress through the provisions of this section to monitor closely the production and consumption of class II substances to assure that the production and consumption of such substances will not:
+> Such updated projections shall be made on the basis of current international and domestic controls on substances covered by this subchapter as well as on the basis of such controls supplemented by a year 2000 global phase out of all halocarbon emissions (the base case). It is the purpose of the Congress through the provisions of this section to monitor closely the production and consumption of class II substances to assure that the production and consumption of such substances will not:
 
 &emsp;(i) increase significantly the peak chlorine loading that is projected to occur under the base case established for purposes of this section;
 
@@ -34,7 +34,7 @@ Unless such information has previously been reported to the Administrator, on th
 
 #### (e) Technology status report in 2015
 
-The Administrator shall review, on a periodic basis, the progress being made in the development of alternative systems or products necessary to manufacture and operate appliances without class II substances. If the Administrator finds, after notice and opportunity for public comment, that as a result of technological development problems, the development of such alternative systems or products will not occur within the time necessary to provide for the manufacture of such equipment without such substances prior to the applicable deadlines under section 7671d of this title, the Administrator shall, not later than January 1, 2015, so inform the Congress.
+The Administrator shall review, on a periodic basis, the progress being made in the development of alternative systems or products necessary to manufacture and operate applianceswithout class II substances. If the Administrator finds, after notice and opportunity for public comment, that as a result of technological development problems, the development of such alternative systems or products will not occur within the time necessary to provide for the manufacture of such equipment without such substances prior to the applicable deadlines under section 7671d of this title, the Administrator shall, not later than January 1, 2015, so inform the Congress.
 
 #### (f) Emergency report
 

@@ -30,7 +30,3 @@ Resolutions of disputes under this section shall not be subject to judicial revi
 
 (Pub. L. 96–465, title I, §1014, Oct. 17, 1980, 94 Stat. 2137.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4107, 4109, 4115 of this title.
-

@@ -30,7 +30,7 @@ Subject to section 2082(d) of this title and subsection (b) of this section, a p
 
 #### (3) Share for former wife or husband
 
-&emsp;Payment of the former participant's lump-sum credit shall be subject to the terms of a court order under section 2094(c) of this title concerning any former wife or husband of the former participant if—
+&emsp;Payment of the former participant's lump-sum credit shall be subject to the terms of acourt order under section 2094(c) of this title concerning any former wife or husband of the former participant if—
 
 &emsp;&emsp;(A) the court order expressly relates to any portion of such lump-sum credit; and
 
@@ -103,8 +103,4 @@ Subsecs. (f), (g). Pub. L. 103–178, §202(a)(11)(B), added subsec. (f) and red
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403n, 2002, 2021, 2051, 2052, 2054, 2094, 2121 of this title.
 

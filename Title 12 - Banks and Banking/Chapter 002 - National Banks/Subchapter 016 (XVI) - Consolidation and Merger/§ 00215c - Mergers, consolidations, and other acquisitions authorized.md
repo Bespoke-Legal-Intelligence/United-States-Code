@@ -12,7 +12,7 @@ Subject to sections 1815(d)(3) and 1828(c) of this title and all other applicabl
 
 #### (2) Extensions of period
 
-&emsp;The period for approval or disapproval referred to in paragraph (1) may be extended for an additional 30-day period if the Comptroller of the Currency determines that—
+&emsp;The period for approval or disapproval referred to in paragraph (1) may be extended foran additional 30-day period if the Comptroller of the Currency determines that—
 
 &emsp;&emsp;(A) an applicant has not furnished all of the information required to be submitted; or
 

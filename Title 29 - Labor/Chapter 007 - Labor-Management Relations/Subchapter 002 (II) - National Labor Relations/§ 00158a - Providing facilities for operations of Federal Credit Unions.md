@@ -8,7 +8,3 @@ Provision by an employer of facilities for the operations of a Federal Credit Un
 
 This section was not enacted either as part of the Labor Management Relations Act, 1947, which comprises this chapter, or as part of the National Labor Relations Act, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 1951.
-

@@ -72,7 +72,7 @@ The Administrator shall establish a program to be known as the Federal and State
 
 &emsp;&emsp;&emsp;(i) to make grants or loans to companies to pay a portion or all of the cost of developing SBIR proposals;
 
-&emsp;&emsp;&emsp;(ii) to establish or operate a Mentoring Network within the FAST program to provide business advice and counseling that will assist small business concerns that have been identified by FAST program participants, program managers of participating SBIR agencies, the Administration, or other entities that are knowledgeable about the SBIR and STTR programs as good candidates for the SBIR and STTR programs, and that would benefit from mentoring, in accordance with section 657e of this title;
+&emsp;&emsp;&emsp;(ii) to establish or operate a Mentoring Network within the FAST program to provide business advice and counseling that will assist small business concerns that have been identified by FAST program participants, program managers of participating SBIR agencies, the Administration, or other entities that are knowledgeable about the SBIR and STTR programs asgood candidates for the SBIR and STTR programs, and that would benefit from mentoring, in accordance with section 657e of this title;
 
 &emsp;&emsp;&emsp;(iii) to create or participate in a training program for individuals providing SBIR outreach and assistance at the State and local levels; and
 
@@ -152,7 +152,7 @@ In carrying out the FAST program under this section, the Administrator shall coo
 
 #### (C) Types of funding
 
-&emsp;&emsp;The non-Federal share of the cost of an activity carried out by a recipient shall be comprised of not less than 50 percent cash and not more than 50 percent of indirect costs and in-kind contributions, except that no such costs or contributions may be derived from funds from any other Federal program.
+&emsp;&emsp;The non-Federal share of the cost of an activity carried out by a recipient shall becomprised of not less than 50 percent cash and not more than 50 percent of indirect costs and in-kind contributions, except that no such costs or contributions may be derived from funds from any other Federal program.
 
 #### (D) Rankings
 
@@ -228,6 +228,10 @@ A prior section 2\[34\] of Pub. L. 85–536 was renumbered section 2\[37\] and i
 
 Subsec. (c)(4). Pub. L. 107–50, §8(b), inserted at end “The Administrator shall promulgate regulations establishing standards for the consideration of proposals under paragraph (2), including standards regarding each of the considerations identified in paragraph (2)(B).”
 
+#### Change of Name
+
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+
 #### Findings
 
 Pub. L. 106–554, §1(a)(9) \[title I, §111(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–674, provided that: “Congress finds that—
@@ -237,8 +241,4 @@ Pub. L. 106–554, §1(a)(9) \[title I, §111(a)\], Dec. 21, 2000, 114 Stat. 276
 &emsp;“(2) States that do not aggressively support the development of small high-technology firms, including participation by small business concerns in the SBIR program, are at a competitive disadvantage in establishing a business climate that is conducive to technology development; and
 
 &emsp;“(3) building stronger national, State, and local support for science and technology research in these disadvantaged States will expand economic opportunities in the United States, create jobs, and increase the competitiveness of the United States in the world market.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 657e of this title.
 

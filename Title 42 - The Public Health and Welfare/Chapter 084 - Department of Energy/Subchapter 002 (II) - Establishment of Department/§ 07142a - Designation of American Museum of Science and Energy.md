@@ -32,7 +32,3 @@ Any reference in a law, map, regulation, document, paper, or other record of the
 
 Section was enacted as part of the Miscellaneous Appropriations Act, 2001, and also as part of the Consolidated Appropriations Act, 2001, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7142d of this title.
-

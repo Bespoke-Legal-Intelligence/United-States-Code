@@ -20,7 +20,7 @@ A vessel shall not cross a narrow channel or fairway if such crossing impedes th
 
 #### (e) Overtaking vessels
 
-(i) In a narrow channel or fairway when overtaking, the power-driven vessel intending to overtake another power-driven vessel shall indicate her intention by sounding the appropriate signal prescribed in Rule 34(c) and take steps to permit safe passing. The power-driven vessel being overtaken, if in agreement, shall sound the same signal and may, if specifically agreed to <sup>1</sup> take steps to permit safe passing. If in doubt she shall sound the danger signal prescribed in Rule 34(d).
+(i) In a narrow channel or fairway when overtaking, the power-driven vessel intending to overtake another power-driven vessel shall indicate her intention by sounding the appropriate signal prescribed in Rule 34(c) and take steps topermit safe passing. The power-driven vessel being overtaken, if in agreement, shall sound the same signal and may, if specifically agreed to <sup>1</sup> take steps to permit safe passing. If in doubt she shall sound the danger signal prescribed in Rule 34(d).
 
 (ii) This Rule does not relieve the overtaking vessel of her obligation under Rule 13.
 
@@ -33,6 +33,10 @@ A vessel nearing a bend or an area of a narrow channel or fairway where other ve
 Every vessel shall, if the circumstances of the case admit, avoid anchoring in a narrow channel.
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3419; Pub. L. 104–324, title VII, §701(1), Oct. 19, 1996, 110 Stat. 3932.)
+
+#### Repeal of Section
+
+<i>Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that this section is repealed effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 2071 of this title.</i>
 
 #### References in Text
 
@@ -49,10 +53,6 @@ Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the I
 #### Amendments
 
 1996—Par. (e)(i). Pub. L. 104–324 amended par. (e)(i) generally. Prior to amendment, par. (e)(i) read as follows: “In a narrow channel or fairway when overtaking, the vessel intending to overtake shall indicate her intention by sounding the appropriate signal prescribed in Rule 34(c) and take steps to permit safe passing. The overtaken vessel, if in agreement, shall sound the same signal. If in doubt she shall sound the danger signal prescribed in Rule 34(d).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2004, 2013, 2018, 2019 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—JOINT RESEARCH AND DEVELOPMENT PROGRAMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 5861 of this title.
-
 
 ---
 

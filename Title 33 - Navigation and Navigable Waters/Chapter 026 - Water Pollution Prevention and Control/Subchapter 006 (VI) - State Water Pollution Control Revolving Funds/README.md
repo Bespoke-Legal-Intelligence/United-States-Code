@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—STATE WATER POLLUTION CONTROL REVOLVING FUNDS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1285, 1330, 1375, 1414b of this title; title 42 section 300j–14.
-
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(e)”.</i>
 
 

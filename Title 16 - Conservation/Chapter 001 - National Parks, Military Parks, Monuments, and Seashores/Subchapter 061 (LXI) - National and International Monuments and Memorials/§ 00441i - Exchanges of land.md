@@ -16,7 +16,3 @@ The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, c
 
 Words “Park” and “park” substituted in text for “Monument” and “monument”, respectively, pursuant to Pub. L. 95–625, §611, which is classified to section 441e–1 of this title and which redesignated Badlands National Monument as Badlands National Park.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 441f, 441g of this title.
-

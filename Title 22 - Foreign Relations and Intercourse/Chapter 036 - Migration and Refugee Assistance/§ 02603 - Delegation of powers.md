@@ -18,7 +18,7 @@ Section 1. <i>Department of State</i>. (a) The Secretary of State is hereby desi
 
 (1) The functions provided for in Sections 2(a) and 2(b)(1) of the Act \[section 2601(a), (b)(1) of this title\].
 
-(2) The functions provided for in Section 2(b)(2) of the Act \[section 2601(b)(2) of this title\], exclusive of so much thereof as is assigned or reserved by the provisions of Section 2(1) of this order.
+(2) The functions provided for in Section 2(b)(2) of the Act \[section 2601(b)(2) of this title\], exclusive of somuch thereof as is assigned or reserved by the provisions of Section 2(1) of this order.
 
 (3) In connection with functions under the Act assigned to the Secretary of State, the functions provided for in Sections 3(a), 4(b), and 5(a) of the Act \[sections 2602(a), 2604, and 2605(a) of this title\].
 

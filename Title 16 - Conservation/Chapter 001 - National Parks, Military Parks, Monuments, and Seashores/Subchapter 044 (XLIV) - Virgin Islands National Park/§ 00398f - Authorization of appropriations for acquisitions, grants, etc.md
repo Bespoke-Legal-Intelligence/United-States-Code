@@ -18,7 +18,3 @@ The Historic Preservation Act, referred to in text, probably means Pub. L. 89–
 
 1974—Pub. L. 93–477 substituted “$12,250,000” for “$1,250,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 398c, 398d, 398e of this title.
-

@@ -34,7 +34,7 @@ Except as otherwise provided by this section, the Secretary shall convey to NANA
 
 (3) Within 90 days after September 25, 1985, the Secretary shall execute the necessary documents evidencing the grant to NANA of the easement granted by this section.
 
-(4) Except as regards the trail easement described in Exhibit D to the Agreement (to whichthe “Transportation System Lands” shall be subject as if such lands had been conveyed to NANA pursuant to paragraph A(1) of the Agreement), access to the lands subject to the easement granted by this section shall be subject to such limitations, restrictions or conditions as may be imposed by NANA, its successors and assigns, but NANA and its successors and assigns shall permit representatives of the Secretary such access as the Secretary determines is necessary for the monitoring required by this section.
+(4) Except as regards the trail easement described in Exhibit D to the Agreement (to which the “Transportation System Lands” shall be subject as if such lands had been conveyed to NANA pursuant to paragraph A(1) of the Agreement), access to the lands subject to the easement granted by this section shall be subject to such limitations, restrictions or conditions as may be imposed by NANA, its successors and assigns, but NANA and its successors and assigns shall permit representatives of the Secretary such access as the Secretary determines is necessary for the monitoring required by this section.
 
 #### (e) Compliance with local laws
 
@@ -42,7 +42,7 @@ The easement granted by this section makes available land for the transportation
 
 #### (f) Reconveyance of easement by NANA
 
-The easement granted to NANA by this section may be reconveyed by NANA, but after any such reconveyance the terms and conditions specified in Exhibit B of the Agreement shall continue to apply in full to the easement.
+The easement granted to NANA by this section may be reconveyed by NANA, but after anysuch reconveyance the terms and conditions specified in Exhibit B of the Agreement shall continue to apply in full to the easement.
 
 #### (g) Construction materials taken from borrow sites within easement
 
@@ -71,8 +71,4 @@ Notwithstanding paragraph D(23) of the Agreement, the Secretary shall not agree 
 #### Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1629a of this title.
 

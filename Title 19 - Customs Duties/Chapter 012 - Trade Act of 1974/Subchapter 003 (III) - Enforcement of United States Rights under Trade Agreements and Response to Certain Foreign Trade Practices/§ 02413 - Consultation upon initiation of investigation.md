@@ -42,7 +42,3 @@ Subsec. (b). Pub. L. 98–573, §304(e)(2), added subsec. (b).
 
 Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations initiated, under section 2412 of this title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as a note under section 2411 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2414, 2420 of this title.
-

@@ -20,5 +20,5 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 #### Change of Name
 
-Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title.
+Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 

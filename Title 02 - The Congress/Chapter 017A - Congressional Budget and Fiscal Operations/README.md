@@ -95,7 +95,7 @@
 | (c) | Exceptions. |
 | [652\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20A%20-%20General%20Provisions/%C2%A7%2000652%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9333%2C%20title%20X%2C%20%C2%A710116%28b%29%2C%20Aug.%205%2C%201997%2C%20111%20Stat.%20692.md) | Repealed. |
 | [653\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20A%20-%20General%20Provisions/%C2%A7%2000653%20-%20Analysis%20by%20Congressional%20Budget%20Office.md) | Analysis by Congressional Budget Office. |
-| [654\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20A%20-%20General%20Provisions/%C2%A7%2000654%20-%20Study%20by%20General%20Accounting%20Office%20of%20forms%20of%20Federal%20financial%20commitment%20not%20reviewed%20annually%20by%20Congress.md) | Study by General Accounting Office of forms of Federal financial commitment not reviewed annually by Congress. |
+| [654\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20A%20-%20General%20Provisions/%C2%A7%2000654%20-%20Study%20by%20Government%20Accountability%20Office%20of%20forms%20of%20Federal%20financial%20commitment%20not%20reviewed%20annually%20by%20Congress.md) | Study by Government Accountability Office of forms of Federal financial commitment that are not reviewed annually by Congress. |
 | [655\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20A%20-%20General%20Provisions/%C2%A7%2000655%20-%20Off-budget%20agencies%2C%20programs%2C%20and%20activities.md) | Off-budget agencies, programs, and activities. |
 | [656\.](Subchapter%20002%20%28II%29%20-%20Fiscal%20Procedures/Part%20A%20-%20General%20Provisions/%C2%A7%2000656%20-%20Member%20User%20Group.md) | Member User Group. |
 

@@ -26,7 +26,3 @@ The Federal Advisory Committee Act (5 U.S.C. App. et seq.), referred to in subse
 
 1983—Subsec. (c). Pub. L. 98–44 substituted “shall not be considered” for “shall be considered”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3601 of this title.
-

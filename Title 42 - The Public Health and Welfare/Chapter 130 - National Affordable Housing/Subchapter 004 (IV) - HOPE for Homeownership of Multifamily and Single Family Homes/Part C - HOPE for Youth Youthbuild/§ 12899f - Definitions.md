@@ -82,7 +82,7 @@ For purposes of this part:
 
 #### (16) State
 
-&emsp;The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth ofthe Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, the Trust Territories of the Pacific Islands, or any other territory or possession of the United States.
+&emsp;The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, the Trust Territories of the Pacific Islands, or any other territory or possession of the United States.
 
 #### (17) Transitional housing
 
@@ -119,10 +119,6 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12899b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

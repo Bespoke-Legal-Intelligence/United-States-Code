@@ -4,7 +4,7 @@
 
 #### (1) Conditional basis for status
 
-&emsp;Notwithstanding any other provision of this chapter, an alien entrepreneur (as defined in subsection (f)(1) of this section), alien spouse, and alien child (as defined in subsection (f)(2) of this section) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
+&emsp;Notwithstanding any other provision of this chapter, an alien entrepreneur (as defined in subsection (f)(1) of this section), alien spouse,and alien child (as defined in subsection (f)(2) of this section) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
 
 #### (2) Notice of requirements
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(ii) the alien entrepreneur appears at any interview described in paragraph (1)(B),
 
-> &emsp;&emsp;the Attorney General shall make a determination, within 90 days of the date of the such filing <sup>1</sup> or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) of this section and alleged in the petition are true with respect to the qualifying commercial enterprise.
+> &emsp;&emsp;the Attorney General shall make a determination, within 90 days of the date of the such filing <sup>1</sup> or interview (whichever islater), as to whether the facts and information described in subsection (d)(1) of this section and alleged in the petition are true with respect to the qualifying commercial enterprise.
 
 #### (B) Removal of conditional basis if favorable determination
 
@@ -118,7 +118,7 @@
 
 #### (3) Personal interview
 
-&emsp;The interview under subsection (c)(1)(B) of this section shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) of this section and at a local office of the Service, designated by the Attorney General, which is convenient to theparties involved. The Attorney General, in the Attorney General's discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
+&emsp;The interview under subsection (c)(1)(B) of this section shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) of this section and at a local office of the Service, designated by the Attorney General, which is convenient to the parties involved. The Attorney General, in the Attorney General's discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
 
 #### (e) Treatment of period for purposes of naturalization
 
@@ -220,7 +220,7 @@ Reopening petitions previously denied.—
 
 &emsp;&emsp;“(A)
 
-In general.—In the case of a petition described in paragraph (1)(C) that was denied under section 216A(c)(3)(C) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(3)(C)) before thedate of the enactment of this Act, upon a motion to reopen such petition filed by the eligible alien not later than 60 days after such date, the Attorney General shall make determinations on such petition pursuant to subsection (c).
+In general.—In the case of a petition described in paragraph (1)(C) that was denied under section 216A(c)(3)(C) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(3)(C)) before the date of the enactment of this Act, upon a motion to reopen such petition filed by the eligible alien not later than 60 days after such date, the Attorney General shall make determinations on such petition pursuant to subsection (c).
 
 &emsp;&emsp;“(B)
 
@@ -310,9 +310,9 @@ Petition.—In order for a conditional basis continued under paragraph (1)(F)(ii
 
 Period for filing petition.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;“(i) 90-
 
-90-day period before second anniversary.—Except as provided in clause (ii), the petition under subparagraph (B) must be filed during the 90-day period before the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
+day period before second anniversary.—Except as provided in clause (ii), the petition under subparagraph (B) must be filed during the 90-day period before the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -360,7 +360,7 @@ Requirements relating to adverse determinations.—
 
 &emsp;&emsp;&emsp;“(i)
 
-Notice.—If the Attorney General renders an adverse determination under subparagraph (E), the Attorney General shall so notify the alien involved. The notice shall be in writing and shall state the factual basis for any adverse determination. The Attorney General shall provide thealien with an opportunity to submit evidence to rebut any adverse determination. If the Attorney General reverses all adverse determinations pursuant to such rebuttal, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) effective as of the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
+Notice.—If the Attorney General renders an adverse determination under subparagraph (E), the Attorney General shall so notify the alien involved. The notice shall be in writing and shall state the factual basis for any adverse determination. The Attorney General shall provide the alien with an opportunity to submit evidence to rebut any adverse determination. If the Attorney General reverses all adverse determinations pursuant to such rebuttal, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) effective as of the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -388,7 +388,7 @@ In General.—With respect to each eligible alien described in subsection (b), t
 
 Eligible Aliens Described.—An alien is an eligible alien described in this subsection if the alien—
 
-&emsp;“(1) filed, under section 204(a)(1)(H) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(H)) (or any predecessor provision), a petition to accord the alien a status under section 203(b)(5) of such Act (8 U.S.C. 1153(b)(5)) that was approved by the Attorney General after January 1, 1995, and before August 31, 1998;
+&emsp;“(1) filed, under section 204(a)(1)(H) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(H)) (or any predecessor provision), a petition to accord the alien a status under section 203(b)(5) of such Act (8U.S.C. 1153(b)(5)) that was approved by the Attorney General after January 1, 1995, and before August 31, 1998;
 
 &emsp;“(2) pursuant to such approval, timely filed before the date of the enactment of this Act \[Nov. 2, 2002\] an application for adjustment of status under section 245 of such Act (8 U.S.C. 1255) or an application for an immigrant visa under section 203(b)(5) of such Act (8 U.S.C. 1153(b)(5)); and
 
@@ -459,10 +459,6 @@ Clarification With Respect to Children.—In the case of an alien who was a chil
 #### “SEC. 11034. DEFINITIONS.
 
 “Except as otherwise provided, the terms used in this chapter shall have the meaning given such terms in section 101(b) of the Immigration and Nationality Act (8 U.S.C. 1101(b)).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1227, 1255 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

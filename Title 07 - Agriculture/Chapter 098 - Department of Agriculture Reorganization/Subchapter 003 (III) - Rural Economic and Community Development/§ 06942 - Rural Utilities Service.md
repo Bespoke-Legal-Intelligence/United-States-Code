@@ -56,9 +56,5 @@ Section is comprised of section 232 of Pub. L. 103–354. Subsec. (b)(3) of sect
 
 1996—Subsec. (c)(2)(A). Pub. L. 104–127 substituted “section 1932(b)” for “section 1932(b)(2)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6912 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

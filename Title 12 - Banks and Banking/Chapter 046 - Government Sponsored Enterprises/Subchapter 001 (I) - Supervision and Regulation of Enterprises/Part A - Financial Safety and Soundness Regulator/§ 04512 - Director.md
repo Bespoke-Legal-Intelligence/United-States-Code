@@ -28,7 +28,3 @@ A Director may serve after the expiration of the term for which the Director was
 
 (Pub. L. 102–550, title XIII, §1312, Oct. 28, 1992, 106 Stat. 3945.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4515, 4526, 4603 of this title.
-

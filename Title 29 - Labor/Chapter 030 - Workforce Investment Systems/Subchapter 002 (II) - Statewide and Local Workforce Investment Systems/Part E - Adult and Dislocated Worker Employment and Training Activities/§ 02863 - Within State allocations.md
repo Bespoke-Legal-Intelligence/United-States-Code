@@ -50,7 +50,7 @@
 
 #### (ii) Information
 
-&emsp;&emsp;&emsp;The information described in clause (i) shall include insured unemployment data, unemployment concentrations, plant closing and mass layoff data, declining industries data, farmer-rancher economic hardship data, and long-term unemployment data.
+&emsp;&emsp;&emsp;The information described in clause (i) shall include insured unemployment data,unemployment concentrations, plant closing and mass layoff data, declining industries data, farmer-rancher economic hardship data, and long-term unemployment data.
 
 #### (C) Application
 
@@ -121,8 +121,4 @@
 &emsp;For purposes of this subsection, an eligible local area means a local area that has obligated at least 80 percent of the local area allocation under paragraph (2)(A) or (3) of subsection (b) of this section for such activities, for the program year prior to the program year for which the determination under paragraph (2) is made.
 
 (Pub. L. 105–220, title I, §133, Aug. 7, 1998, 112 Stat. 987.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2821, 2822, 2832, 2842, 2853, 2854, 2864, 2916, 2918, 2932 of this title.
 

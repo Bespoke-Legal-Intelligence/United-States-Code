@@ -18,7 +18,3 @@ The Secretary, on his own motion, may, to the same extent as provided in subsect
 
 The definition of Secretary in section 2602 of Title 16, Conservation, applies to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3207 of this title.
-

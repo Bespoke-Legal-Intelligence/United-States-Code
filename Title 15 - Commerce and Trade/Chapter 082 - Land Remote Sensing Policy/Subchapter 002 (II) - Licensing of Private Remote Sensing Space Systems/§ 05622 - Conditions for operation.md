@@ -34,9 +34,5 @@ In addition to the requirements of paragraph <sup>1</sup> (b), any license issu
 
 1998—Subsec. (b)(6). Pub. L. 105–303 inserted “significant or substantial” after “Secretary of any”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5621 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

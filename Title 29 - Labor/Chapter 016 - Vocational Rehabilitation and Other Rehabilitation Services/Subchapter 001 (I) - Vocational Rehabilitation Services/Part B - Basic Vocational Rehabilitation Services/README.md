@@ -1,9 +1,5 @@
 Part B—Basic Vocational Rehabilitation Services
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 705, 716, 720, 721, 724, 751 of this title.
-
 
 ---
 

@@ -44,7 +44,3 @@ A prior section 13704, Pub. L. 103–322, title II, §20104, Sept. 13, 1994, 108
 
 2000—Subsec. (a). Pub. L. 106–297 redesignated par. (1) as subpar. (A) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, redesignated par. (2) as subpar. (B), redesignated par. (3) as subpar. (C) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added par. (2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13702, 13705, 13706, 13708, 13709, 13712, 14214 of this title.
-

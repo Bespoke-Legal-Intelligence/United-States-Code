@@ -18,7 +18,7 @@ A grant may not be made to a State under this subchapter unless an application t
 
 &emsp;(8) a description of outreach activities that the entity and the community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect will undertake to maximize the participation of racial and ethnic minorities, children and adults with disabilities, homeless families and those at risk of homelessness, and members of other underserved or underrepresented groups;
 
-&emsp;(9) a plan for providing operational support, training and technical assistance to community-based and prevention-focused programsand activities designed to strengthen and support families to prevent child abuse and neglect for development, operation, expansion and enhancement activities;
+&emsp;(9) a plan for providing operational support, training and technical assistance to community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect for development, operation, expansion and enhancement activities;
 
 &emsp;(10) a description of how the applicant entity's activities and those of the network and its members (where appropriate) will be evaluated;
 
@@ -55,8 +55,4 @@ Par. (10). Pub. L. 108–36, §125(9), inserted “(where appropriate)” after 
 Par. (11). Pub. L. 108–36, §125(10), substituted “community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect” for “prevention-focused, family resource and support program”.
 
 Pars. (12), (13). Pub. L. 108–36, §125(11), redesignated par. (13) as (12).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5116, 5116f of this title.
 

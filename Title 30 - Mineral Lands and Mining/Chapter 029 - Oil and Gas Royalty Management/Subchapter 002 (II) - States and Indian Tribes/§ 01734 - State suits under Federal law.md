@@ -16,7 +16,7 @@
 
 #### (b) Venue; jurisdiction of district court
 
-An action brought under subsection (a) of this section may be brought only in a United States district court for the judicial district in which the lease site or the leasing activity complained of is located. Such district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to require compliance or order payment in any such action.
+An action brought under subsection (a) of this section may be brought only in a United States district court for the judicial district in which the lease site or the leasing activity complainedof is located. Such district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to require compliance or order payment in any such action.
 
 #### (c) Recovery of civil penalty by State; deposit of rent, royalty, or interest recovery in Treasury of the United States
 
@@ -25,8 +25,4 @@ An action brought under subsection (a) of this section may be brought only in a 
 (2) Any rent, royalty, or interest recovered by a State under subsection (a) of this section shall be deposited in the Treasury of the United States in the same manner, and subject to the same requirements, as are applicable in the case of any rent, royalty, or interest collected by an officer or employee of the United States, except that such amounts shall be deposited in the Treasury not later than 10 days after receipt by the State.
 
 (Pub. L. 97–451, title II, §204, Jan. 12, 1983, 96 Stat. 2458.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 196, 1731a, 1733 of this title.
 

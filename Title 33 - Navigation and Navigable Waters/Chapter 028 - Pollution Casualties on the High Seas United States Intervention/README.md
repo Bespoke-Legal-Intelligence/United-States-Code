@@ -28,10 +28,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2702, 2703, 2704 of this title; title 42 section 9611.
-
 
 ---
 

@@ -144,10 +144,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 774 of this title; title 22 section 7109; title 26 section 3306.
-
 
 ---
 

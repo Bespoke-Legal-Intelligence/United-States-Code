@@ -4,7 +4,3 @@ Not later than January 15, 1982, the President shall prepare and submit to the C
 
 (Pub. L. 95–91, title X, §1001, Aug. 4, 1977, 91 Stat. 612.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7352 of this title.
-

@@ -26,7 +26,7 @@ Subsec. (a)(2). Pub. L. 101–380, §8101(b), substituted “$350,000,000” for
 
 Subsec. (b). Pub. L. 101–380, §8101(c), inserted “in the State of Alaska” after “any area”, “related to the Trans-Alaska Pipeline System, including operation of the terminal,” after “any activities”, and “or State” after “any other Federal”.
 
-Subsec. (c). Pub. L. 101–380, §8102(a)(1), struck out subsec. (c) which related to liability for discharges ofoil loaded at terminal facilities and to establishment of Trans-Alaska Pipeline Liability Fund.
+Subsec. (c). Pub. L. 101–380, §8102(a)(1), struck out subsec. (c) which related to liability for discharges of oil loaded at terminal facilities and to establishment of Trans-Alaska Pipeline Liability Fund.
 
 Subsec. (c)(2). Pub. L. 101–380, §8102(b), substituted “caused solely by” for “caused by”.
 
@@ -98,13 +98,9 @@ Authorization.—The amounts transferred and deposited in the Fund shall be avai
 
 #### Liabilities of Trustees of TAPS Fund
 
-Section 8102(a)(5)(B) of Pub. L. 101–380 provided that: “Upon the effective date of the repeal pursuant to subparagraph (A) \[see Effective Date of 1990 Amendment note above\], the trustees of the TAPS Fund shall be relieved of all responsibilities under section 204(c) of the Trans-Alaska Pipeline Authorization Act \[43 U.S.C. 1653(c)\], but not any existing legal liability.”
+Section 8102(a)(5)(B) of Pub. L. 101–380 provided that: “Upon the effective date of the repeal pursuant to subparagraph (A) \[see Effective Date of 1990 Amendment note above\], the trustees of the TAPS Fund shall be relieved of all responsibilities under section 204(c) of theTrans-Alaska Pipeline Authorization Act \[43 U.S.C. 1653(c)\], but not any existing legal liability.”
 
 #### Preservation of Rights and Remedies of Contributors to TAPS Fund
 
 Section 8102(a)(6) provided that: “This subsection \[amending this section and enacting provisions set out as notes above\] is intended expressly to preserve any and all rights and remedies of contributors to the TAPS Fund under section 1491 of title 28, United States Code (commonly referred to as the ‘Tucker Act’).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 9509.
 

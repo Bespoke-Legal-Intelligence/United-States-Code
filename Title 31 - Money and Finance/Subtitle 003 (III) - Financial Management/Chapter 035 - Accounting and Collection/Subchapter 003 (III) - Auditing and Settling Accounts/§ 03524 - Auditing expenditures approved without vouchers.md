@@ -2,7 +2,7 @@
 
 (a)(1) The Comptroller General may audit expenditures, accounted for only on the approval, authorization, or certificate of the President or an official of an executive agency, to decide if the expenditure was authorized by law and made. Records and related information shall be made available to the Comptroller General in conducting the audit.
 
-(2) The Comptroller General may release the results of the audit or disclose related information only to the President or head of the agency,or, if there is an unresolved discrepancy, to the Committee on Governmental Affairs of the Senate, the Committee on Government Operations of the House of Representatives, and the committees of Congress having legislative or appropriation oversight of the expenditure.
+(2) The Comptroller General may release the results of the audit or disclose related information only to the President or head of the agency, or, if there is an unresolved discrepancy, to the Committee on Governmental Affairs of the Senate, the Committee on Government Operations of the House of Representatives, and the committees of Congress having legislative or appropriation oversight of the expenditure.
 
 (b) Before December 1 of each year, the Director of the Office of Management and Budget shall submit a report listing each account that may be subject to this section to the Committees on the Budget and Appropriations of both Houses of Congress, the Committee on Governmental Affairs, and to the Committee on Government Operations, and to the Comptroller General.
 
@@ -72,13 +72,11 @@ In subsection (e), the words “from the provisions of paragraph (1)” are omit
 
 #### Change of Name
 
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the reporting requirement under subsec. (b) of this section is listed on page 42), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 716 of this title.
 

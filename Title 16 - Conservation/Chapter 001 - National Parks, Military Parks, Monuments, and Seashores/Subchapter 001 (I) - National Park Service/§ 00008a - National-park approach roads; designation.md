@@ -4,7 +4,3 @@ Whenever the Secretary of the Interior shall determine it to be in the public in
 
 (Apr. 9, 1924, ch. 86, §4, as added Jan. 31, 1931, ch. 79, 46 Stat. 1053.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1c, 8b, 8c, 8d of this title.
-

@@ -22,7 +22,3 @@ A prior section 274<i>l</i>, act July 1, 1944, ch. 373, title III, §379A, as ad
 
 Section effective Oct. 1, 1998, see section 7 of Pub. L. 105–196, set out as an Effective Date of 1998 Amendment note under section 274k of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 274k of this title.
-

@@ -10,7 +10,3 @@
 
 See note set out under section 1763 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1732 of this title.
-

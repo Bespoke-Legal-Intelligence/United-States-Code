@@ -14,7 +14,3 @@ There are authorized to be appropriated to carry out this section—$100,000 for
 
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

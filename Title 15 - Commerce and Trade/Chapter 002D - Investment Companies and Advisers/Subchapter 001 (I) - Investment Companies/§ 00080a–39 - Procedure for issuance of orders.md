@@ -2,7 +2,7 @@
 
 #### (a) Notice and hearing
 
-Orders of the Commission under this subchapter shall be issued only after appropriate notice and opportunity for hearing. Notice to the parties to a proceeding before the Commission shall be given by personal service upon each party or by registered mail or certified mail or confirmed telegraphic notice to the party's last known business address. Notice to interested persons, if any, other than parties may be given in the same manner or by publication in the Federal Register.
+Orders of the Commission under this subchapter shall be issued only after appropriate notice and opportunity for hearing. Notice to the parties to a proceeding before the Commission shall be given by personal service upon each party or by registered mail or certified mail orconfirmed telegraphic notice to the party's last known business address. Notice to interested persons, if any, other than parties may be given in the same manner or by publication in the Federal Register.
 
 #### (b) Application verified under oath admissible as evidence
 
@@ -21,8 +21,4 @@ In any proceeding before the Commission, the Commission, in accordance with such
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–6, 80a–9, 80a–58 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER XVI—UNITED NATIONS ORGANIZATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 289b of this title.
-
 
 ---
 

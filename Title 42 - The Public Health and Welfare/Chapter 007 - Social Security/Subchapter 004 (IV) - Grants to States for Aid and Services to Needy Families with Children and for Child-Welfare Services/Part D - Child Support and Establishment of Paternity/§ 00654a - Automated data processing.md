@@ -26,7 +26,7 @@ In order to enable the Secretary to determine the incentive payments and penalty
 
 #### (d) Information integrity and security
 
-The State agency shall have in effect safeguards on the integrity, accuracy, and completeness of, access to, and use of data in the automated system required by this section, which shall include the following (in addition to such other safeguards as the Secretary may specify in regulations):
+The State agency shall have in effect safeguards on the integrity, accuracy, and completeness of, access to, and use of data in the automated system required by this section, which shall include the following (in addition to suchother safeguards as the Secretary may specify in regulations):
 
 #### (1) Policies restricting access
 
@@ -102,7 +102,7 @@ The State shall use the automated system required by this section to extract inf
 
 #### (1) Federal Case Registry of Child Support Orders
 
-&emsp;Furnishing to the Federal Case Registry of Child Support Orders established under section 653(h) of this title (and update as necessary, with information including notice of expiration of orders) the minimum amount of information on child support cases recorded inthe State case registry that is necessary to operate the registry (as specified by the Secretary in regulations).
+&emsp;Furnishing to the Federal Case Registry of Child Support Orders established under section 653(h) of this title (and update as necessary, with information including notice of expiration of orders) the minimum amount of information on child support cases recorded in the State case registry that is necessary to operate the registry (as specified by the Secretary in regulations).
 
 #### (2) Federal Parent Locator Service
 
@@ -179,8 +179,4 @@ For provisions relating to effective date of title III of Pub. L. 104–193, see
 #### Regulations
 
 Section 344(a)(3) of Pub. L. 104–193 provided that: “The Secretary of Health and Human Services shall prescribe final regulations for implementation of section 454A of the Social Security Act \[this section\] not later than 2 years after the date of the enactment of this Act \[Aug. 22, 1996\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 603, 652, 653, 654, 654b, 655 of this title.
 

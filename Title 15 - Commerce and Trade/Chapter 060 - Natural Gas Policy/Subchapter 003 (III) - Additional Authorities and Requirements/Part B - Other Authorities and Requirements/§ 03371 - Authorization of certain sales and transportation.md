@@ -138,7 +138,7 @@
 
 #### (C) Determination
 
-&emsp;&emsp;The determination of whether any interruption of any sale authorized under paragraph (1) is required under subparagraph (A)(i) shall be made by the Commission without regard to the character of the use ofnatural gas by any customer of the intrastate pipeline involved.
+&emsp;&emsp;The determination of whether any interruption of any sale authorized under paragraph (1) is required under subparagraph (A)(i) shall be made by the Commission without regard to the character of the use of natural gas by any customer of the intrastate pipeline involved.
 
 #### (D) State intervention
 
@@ -165,8 +165,4 @@ Any authorization granted under this section shall be under such terms and condi
 #### References in Text
 
 The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this act to the Code, see section 717w of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3374, 3431, 3432 of this title.
 

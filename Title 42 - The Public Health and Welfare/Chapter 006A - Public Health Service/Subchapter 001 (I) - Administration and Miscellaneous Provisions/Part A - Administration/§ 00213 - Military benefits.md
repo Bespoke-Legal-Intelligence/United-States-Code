@@ -26,7 +26,7 @@ Active service of commissioned officers of the Service shall be deemed to be act
 
 #### (e) Active service deemed active military service with respect to Servicemembers Civil Relief Act
 
-Active service of commissioned officers of the Service shall be deemed to be active militaryservice in the Armed Forces of the United States for the purposes of all rights, privileges, immunities, and benefits now or hereafter provided under the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.).
+Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for the purposes of all rights, privileges, immunities, and benefits now or hereafter provided under the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.).
 
 #### (f) Active service deemed active military service with respect to anti-discrimination laws
 
@@ -97,8 +97,4 @@ The authority of the President under section 212(b) of the Public Health Service
 The Secretary of Defense shall ensure the publication of this memorandum in the Federal Register.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 213a, 215, 218a of this title; title 26 section 140.
 

@@ -56,7 +56,3 @@ Effective Date.—Subsections (a) and (b) shall take effect on the earlier of—
 
 Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 401, 435, 471 of this title.
-

@@ -65,7 +65,7 @@
 | (c) | Revenues credited to fund. |
 | (d) | Use of revenue funds. |
 | (e) | Appropriation by Congress required for construction of works. |
-| (f) | Return of costs and interest. |
+| (f) | Additional uses of revenue funds. |
 | (g) | Repayment of costs. |
 | (h) | Interest rate. |
 | (i) | Annual budgets; submission to Congress. |
@@ -91,10 +91,6 @@
 | [1556\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001556%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 620c–1, 1511a, 1592, 1597, 1600g of this title.
 
 
 ---

@@ -10,7 +10,7 @@ The Secretary shall provide assistance directly to a jurisdiction only if—
 
 &emsp;(3) the housing strategy, and any annual update of such strategy, is approved by the Secretary.
 
-> The Secretary shall establish such dates and manner for the submission and approval of housing strategies under this section that the Secretary determines will facilitate orderly program management by jurisdictions and provide for timely investment or other use of funds made available under subchapter II of this chapter and other programs requiring submission of a housing strategy. If the Secretary finds thereis good cause, the Secretary may provide reasonable extensions of any deadlines for submission of a jurisdiction's housing strategy.
+> The Secretary shall establish such dates and manner for the submission and approval of housing strategies under this section that the Secretary determines will facilitate orderly program management by jurisdictions and provide for timely investment or other use of funds made available under subchapter II of this chapter and other programs requiring submission of a housing strategy. If the Secretary finds there is good cause, the Secretary may provide reasonable extensions of any deadlines for submission of a jurisdiction's housing strategy.
 
 #### (b) Contents
 
@@ -26,7 +26,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 &emsp;(5) explain the institutional structure, including private industry, nonprofit organizations, and public institutions, through which the jurisdiction will carry out its housing strategy, assessing the strengths and gaps in that delivery system and describing what the jurisdiction will do to overcome those gaps;
 
-&emsp;(6) indicate resources from private and non-Federal public sources that are reasonably expected to be made available to carry out the purposes of this Act, explaining how funds made available will leverage those additional resources and identifying, where the jurisdiction deems it appropriate, publicly owned land or property located within the jurisdiction that may be utilized to carry out the purposes of this Act;
+&emsp;(6) indicate resources from private and non-Federal public sources that are reasonably expected to be made available to carry out thepurposes of this Act, explaining how funds made available will leverage those additional resources and identifying, where the jurisdiction deems it appropriate, publicly owned land or property located within the jurisdiction that may be utilized to carry out the purposes of this Act;
 
 &emsp;(7) set forth the jurisdiction's plan for investment or other use of housing funds made available under subchapter II of this chapter, the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing and Community Development Act of 1974, and the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], during the ensuing year or such longer period as the Secretary determines to be appropriate, indicating the general priorities for allocating investment geographically within the jurisdiction and among different activities and housing needs;
 
@@ -46,7 +46,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 &emsp;(15) include a certification that the jurisdiction will affirmatively further fair housing;
 
-&emsp;(16) include a certification that the jurisdiction has in effect and is following a residentialantidisplacement and relocation assistance plan that, in any case of any such displacement in connection with any activity assisted with amounts provided under subchapter II of this chapter, requires the same actions and provides the same rights as required and provided under a residential antidisplacement and relocation assistance plan under section 104(d) of the Housing and Community Development Act of 1974 \[42 U.S.C. 5304(d)\] in the event of displacement in connection with a development project assisted under section 106 or 119 of such Act \[42 U.S.C. 5306, 5318\];
+&emsp;(16) include a certification that the jurisdiction has in effect and is following a residential antidisplacement and relocation assistance plan that, in any case of any such displacement in connection with any activity assisted with amounts provided under subchapter II of this chapter, requires the same actions and provides the same rights as required and provided under a residential antidisplacement and relocation assistance plan under section 104(d) of the Housing and Community Development Act of 1974 \[42 U.S.C. 5304(d)\] in the event of displacement in connection with a development project assisted under section 106 or 119 of such Act \[42 U.S.C. 5306, 5318\];
 
 &emsp;(17) estimate the number of housing units within the jurisdiction that are occupied by low-income families or very low-income families and that contain lead-based paint hazards, as defined in section 4851b of this title, outline the actions proposed or being taken to evaluate and reduce lead-based paint hazards, and describe how lead-based paint hazard reduction will be integrated into housing policies and programs;
 
@@ -88,7 +88,7 @@ The Secretary may establish such requirements as the Secretary deems appropriate
 
 #### (f) Barrier removal
 
-Not later than 4 months after completion of the final report of the Secretary's Advisory Commission on Regulatory Barriers to Affordable Housing, the Secretary shall submit to the Congress a written report outlining the Secretary's recommendations for legislative and administrative actions to facilitate the removal ormodification of excessive, duplicative, or unnecessary regulations or other requirements of Federal, State, or local governments that (1) inflate the costs of or otherwise inhibit the construction, rehabilitation, or management of housing, particularly housing that otherwise could be affordable to low-income and moderate-income families, or (2) contribute to economic or racial discrimination.
+Not later than 4 months after completion of the final report of the Secretary's Advisory Commission on Regulatory Barriers to Affordable Housing, the Secretary shall submit to the Congress a written report outlining the Secretary's recommendations for legislative and administrative actions to facilitate the removal or modification of excessive, duplicative, or unnecessary regulations or other requirements of Federal, State, or local governments that (1) inflate the costs of or otherwise inhibit the construction, rehabilitation, or management of housing, particularly housing that otherwise could be affordable to low-income and moderate-income families, or (2) contribute to economic or racial discrimination.
 
 #### (g) Treatment of troubled public housing agencies
 
@@ -124,9 +124,9 @@ Subsec. (b)(11) to (15). Pub. L. 105–276, §583(6), (7), added par. (11) and r
 
 Subsec. (b)(16). Pub. L. 105–276, §583(6), redesignated par. (15) as (16). Former par. (16), relating to housing units that contain lead-based paint hazards, redesignated (17), and former par. (16), relating to number of families to whom jurisdiction will provide affordable housing, redesignated (18).
 
-Pub. L. 105–576, §583(5)(A), substituted “programs;” for “programs.” in par. (16) relating to housing units that contain lead-based paint hazards.
+Pub. L. 105–276, §583(5)(A), substituted “programs;” for “programs.” in par. (16) relating to housing units that contain lead-based paint hazards.
 
-Pub. L. 105–576, §583(4)(A), struck out “and” at end of par. (16) relating to number of families to whom jurisdiction will provide affordable housing.
+Pub. L. 105–276, §583(4)(A), struck out “and” at end of par. (16) relating to number of families to whom jurisdiction will provide affordable housing.
 
 Subsec. (b)(17). Pub. L. 105–276, §583(5)(B), redesignated par. (16), relating to housing units that contain lead-based paint hazards, as (17). Former par. (17), relating to reducing the number of households within a jurisdiction with incomes below the poverty line, redesignated (19), and former par. (17), relating to activities to enhance coordination, redesignated (20).
 
@@ -175,10 +175,6 @@ Amendment by title V of Pub. L. 105–276 effective and applicable beginning upo
 Amendment by section 220 of Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
 Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expiration of 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437e, 1437f, 1437aaa–1, 1437aaa–2, 1439, 1485, 1490<i>l</i>, 4852, 5304, 5318a, 8013, 11361, 11375, 11386, 11394, 11403c, 11432, 12705b, 12705c, 12708, 12746, 12747, 12752, 12821, 12872, 12873, 12892, 12893, 12899b, 12899c, 12903 of this title; title 12 sections 1456, 1701q, 1723a, 4117.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraphs”.</i>
 

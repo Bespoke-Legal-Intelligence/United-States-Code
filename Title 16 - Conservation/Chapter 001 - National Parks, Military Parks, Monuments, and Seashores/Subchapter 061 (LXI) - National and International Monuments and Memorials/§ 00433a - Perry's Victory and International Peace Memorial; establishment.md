@@ -12,7 +12,3 @@ The President of the United States is authorized to establish by proclamation th
 
 Memorial and boundaries established by Presidential Proc. No. 2182, July 6, 1936, 50 Stat. 1734.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 433c, 433f, 433f–1 of this title.
-

@@ -58,7 +58,3 @@ Beginning in fiscal year 1999, the Commissioner shall include in each annual rep
 
 A prior section 726, Pub. L. 93–112, title I, §106, as added Pub. L. 102–569, title I, §127(a), Oct. 29, 1992, 106 Stat. 4385, related to evaluation standards and performance indicators, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 721, 727 of this title.
-

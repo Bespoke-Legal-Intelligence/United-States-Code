@@ -38,7 +38,3 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 141, 143, 306, 315 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make appropriate adjustments in the support price for any commodity (excluding cotton) for differences in grade, type, quality, location and other factors. The adjustments shall, so far as practicable, be made in such manner that the average support price for the commodity will, on the basis of the anticipated incidence of such factors be equal to the level of support determined as provided in this Act. Beginning with the 1991 crops of wheat, feed grains, and soybeans for which price support is provided under this Act, the Secretary shall establish premiums and discounts related to cleanliness factors in addition to any other premiums or discounts related to quality.
+The Secretary may make appropriate adjustments in the support price for any commodity (excluding cotton) for differences in grade, type, quality, location and other factors. The adjustments shall, so far as practicable, be made insuch manner that the average support price for the commodity will, on the basis of the anticipated incidence of such factors be equal to the level of support determined as provided in this Act. Beginning with the 1991 crops of wheat, feed grains, and soybeans for which price support is provided under this Act, the Secretary shall establish premiums and discounts related to cleanliness factors in addition to any other premiums or discounts related to quality.
 
 #### (b) Adjustment in support prices for cotton
 
@@ -49,8 +49,4 @@ Functions of Corporations of Department of Agriculture, boards of directors and 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(10) of this title.
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1428, 1444, 1445 of this title.
 

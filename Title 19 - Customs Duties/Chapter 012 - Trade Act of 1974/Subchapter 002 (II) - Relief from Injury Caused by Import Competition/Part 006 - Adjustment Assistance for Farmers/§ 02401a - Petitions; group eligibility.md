@@ -38,7 +38,3 @@ In this part:
 
 (Pub. L. 93–618, title II, §292, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 947.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2401b of this title.
-

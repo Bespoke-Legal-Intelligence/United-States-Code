@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—STUDENT-EMPLOYEES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 5102 of this title.
-
 
 ---
 

@@ -4,7 +4,3 @@ No lands granted to any railroad corporation by any Act of Congress shall be exe
 
 (July 10, 1886, ch. 764, §1, 24 Stat. 143.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 883, 884, 885 of this title.
-

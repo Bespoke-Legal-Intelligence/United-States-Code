@@ -28,7 +28,3 @@ Amendment by Pub. L. 88–426 effective on first day of first pay period which b
 
 Section 112 of act July 31, 1956, cited as a credit to this section, was repealed by section 305(1) of Pub. L. 88–426.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 287r of this title.
-

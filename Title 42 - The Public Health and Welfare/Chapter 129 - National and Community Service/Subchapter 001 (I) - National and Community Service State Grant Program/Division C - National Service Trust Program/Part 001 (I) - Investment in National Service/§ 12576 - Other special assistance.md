@@ -8,7 +8,7 @@
 
 #### (2) Limitation on amount of grants
 
-&emsp;Notwithstanding the amounts specified in paragraph (1), the amount of a grant that maybe provided to a State Commission under this subsection, together with other Federal funds available to establish or operate the State Commission, may not exceed—
+&emsp;Notwithstanding the amounts specified in paragraph (1), the amount of a grant that may be provided to a State Commission under this subsection, together with other Federal funds available to establish or operate the State Commission, may not exceed—
 
 &emsp;&emsp;(A) 85 percent of the total cost to establish or operate the State Commission for the first year for which the State Commission receives assistance under this subsection; and
 
@@ -16,7 +16,7 @@
 
 #### (b) Disaster service
 
-The Corporation may undertake activities, including activities carried out through part A of title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), to involve in disaster relief efforts youth corps programs described in section 12572(a)(2) of this title and other programs that receive assistance under the national service laws.
+The Corporation may undertake activities, including activities carried out through part A oftitle I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), to involve in disaster relief efforts youth corps programs described in section 12572(a)(2) of this title and other programs that receive assistance under the national service laws.
 
 #### (c) Challenge grants for national service programs
 
@@ -57,8 +57,4 @@ Section 12578, Pub. L. 101–610, title I, §148, Nov. 16, 1990, 104 Stat. 3155,
 Section 12579, Pub. L. 101–610, title I, §149, Nov. 16, 1990, 104 Stat. 3156, related to cooperation between public and private entities.
 
 Section 12580, Pub. L. 101–610, title I, §150, Nov. 16, 1990, 104 Stat. 3156, related to in-service education benefits.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12581, 12681 of this title.
 

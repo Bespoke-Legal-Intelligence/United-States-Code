@@ -16,7 +16,7 @@ For purposes of this subchapter and subchapter II of this chapter, the levels of
 
 #### (c) Maximum deficit amount point of order in Senate
 
-It shall not be in order in the Senate to consider any concurrent resolution on the budget for a fiscal year, or to consider any amendment to that concurrent resolution, or to consider a conference report on that concurrent resolution, if—
+It shall not be in order in the Senate to consider any concurrent resolution on the budget for a fiscal year, or to consider any amendment to that concurrent resolution, or to consider aconference report on that concurrent resolution, if—
 
 &emsp;(1) the level of total outlays for the first fiscal year set forth in that concurrent resolution or conference report exceeds; or
 
@@ -46,5 +46,5 @@ This Act, referred to in subsecs. (d) to (f), means Pub. L. 93–344, July 12, 1
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) and (b) and provided that each provision of this Act that established point of order against an amendment also established point of order in Senate against an amendment between Houses and prescribed effect of sustaining point of order against an amendment or bill under this Act.
+1997—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) and (b) and provided that each provision of this Act that established point of order against an amendment also established point of order in Senate against an amendment between Houses and prescribed effect of sustaining point of order against an amendment or bill under this Act.
 

@@ -14,11 +14,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322, which directed the amendment of this section by striking “fined not more than $100”and inserting “fined under this title”, was executed by substituting “fined under this title” for “fined $100”, to reflect the probable intent of Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 8312; title 38 section 6105.
+1994—Pub. L. 103–322, which directed the amendment of this section by striking “fined not more than $100” and inserting “fined under this title”, was executed by substituting “fined under this title” for “fined $100”, to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> See 1994 Amendment note below.</i>
 

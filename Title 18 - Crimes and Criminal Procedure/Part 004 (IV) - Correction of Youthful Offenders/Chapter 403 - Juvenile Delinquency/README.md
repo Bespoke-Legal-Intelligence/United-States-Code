@@ -29,10 +29,6 @@
 
 Words “magistrate judge” substituted for “magistrate” in items 5033 and 5034 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3401, 3601, 4101, 4110, 4216 of this title; title 42 section 257.
-
 
 ---
 

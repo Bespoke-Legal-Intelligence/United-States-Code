@@ -16,7 +16,3 @@ Section is comprised of proviso clause of section 7 of act Mar. 2, 1917. The tex
 
 For delegation to Secretary of the Interior of authority vested in President by this section, see Ex. Ord. No. 10250, eff. June 5, 1951, 16 F.R. 5385, set out under section 301 of Title 3, The President.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 749 of this title.
-

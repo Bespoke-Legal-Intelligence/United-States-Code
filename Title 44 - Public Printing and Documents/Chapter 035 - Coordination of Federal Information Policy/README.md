@@ -73,10 +73,6 @@ Pub. L. 107–198, §3(b), June 28, 2002, 116 Stat. 732, added item 3520 and ren
 
 1980—Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812, substituted in chapter heading “INFORMATION POLICY” for “REPORTING SERVICES”, and amended analysis generally.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3602 of this title; title 5 section 552; title 7 sections 7281, 7991; title 8 section 1753; title 10 section 2223; title 16 sections 1379, 1855; title 19 section 1330; title 20 section 9573; title 22 section 3145; title 29 section 49<i>l</i>–2; title 31 section 3811; title 38 section 310; title 40 sections 11301, 11311, 11315; title 41 section 421; title 42 sections 1396r–8, 6924, 6992i, 7661f; title 49 sections 5107, 5108, 60108.
-
 
 ---
 

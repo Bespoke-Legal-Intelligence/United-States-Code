@@ -10,7 +10,3 @@
 
 1978—Pub. L. 95–617 designated existing provisions as subsec. (a), inserted reference to ten institutions referred to in last sentence of section 1311(a) of this title and substituted provisions authorizing appropriations for each fiscal year thereafter through the fiscal year ending before October 1, 1984, for provisions authorizing appropriations each fiscal year thereafter through the fiscal year ending June 30, 1983, and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1314 of this title.
-

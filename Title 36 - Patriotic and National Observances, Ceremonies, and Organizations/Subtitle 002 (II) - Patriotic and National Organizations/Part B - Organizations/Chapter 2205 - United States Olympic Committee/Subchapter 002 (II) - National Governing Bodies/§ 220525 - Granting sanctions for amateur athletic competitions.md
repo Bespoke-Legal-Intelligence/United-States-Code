@@ -120,7 +120,3 @@ In subsection (a), the words “and determine whether to grant such sanction, in
 
 In subsection (b), the language before paragraph (1) is substituted for 36:392(b)(1) (words before subclause (A)) and (2) (words before subclause (A)) because of the reorganization of the section. Paragraph (1) is substituted for 36:392(b)(1)(A) and (2)(A), and paragraph (4) is substituted for 36:392(b)(1)(B)(i)–(vi) and (2)(B)(i)–(vi), to avoid repeating identical language.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 220522, 220524, 220527, 220528 of this title.
-

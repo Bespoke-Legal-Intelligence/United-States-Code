@@ -14,7 +14,3 @@ Not later than January 31 of each year (beginning with 2004), the Commission sha
 
 (Pub. L. 107–252, title II, §207, Oct. 29, 2002, 116 Stat. 1677.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15441, 15451 of this title.
-

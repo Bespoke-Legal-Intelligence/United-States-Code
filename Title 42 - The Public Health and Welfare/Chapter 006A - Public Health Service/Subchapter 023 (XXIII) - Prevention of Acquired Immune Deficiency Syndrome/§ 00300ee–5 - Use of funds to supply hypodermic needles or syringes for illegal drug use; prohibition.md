@@ -20,7 +20,3 @@ Section was enacted as part of the AIDS Amendments of 1988 and as part of the He
 
 Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300x–31 of this title.
-

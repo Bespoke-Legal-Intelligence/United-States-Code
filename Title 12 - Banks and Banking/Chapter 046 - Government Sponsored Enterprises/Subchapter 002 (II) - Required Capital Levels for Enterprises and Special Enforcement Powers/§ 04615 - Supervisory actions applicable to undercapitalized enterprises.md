@@ -24,7 +24,3 @@ This section shall take effect upon the expiration of the 1-year period beginnin
 
 (Pub. L. 102–550, title XIII, §1365, Oct. 28, 1992, 106 Stat. 3978.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4614, 4617, 4618, 4636 of this title.
-

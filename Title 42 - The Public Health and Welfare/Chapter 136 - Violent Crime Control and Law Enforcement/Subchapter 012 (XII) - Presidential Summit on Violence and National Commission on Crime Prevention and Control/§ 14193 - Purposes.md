@@ -14,7 +14,7 @@ The purposes of the Commission are as follows:
 
 &emsp;(6) To recommend means of utilizing criminal justice resources as effectively as possible, including targeting finite correctional facility space to the most serious and violent offenders, and considering increased use of intermediate sanctions for offenders who can be dealt with adequately by such means.
 
-&emsp;(7) To examine distinctive crime problems and the impact of crime on members of minority groups, Indians living on reservations, andother groups defined by race, ethnicity, religion, age, disability, or other characteristics, and to recommend specific responses to the distinctive crime problems of such groups.
+&emsp;(7) To examine distinctive crime problems and the impact of crime on members of minority groups, Indians living on reservations, and other groups defined by race, ethnicity, religion, age, disability, or other characteristics, and to recommend specific responses to the distinctive crime problems of such groups.
 
 &emsp;(8) To examine the problem of sexual assaults, domestic violence, and other criminal and unlawful acts that particularly affect women, and to recommend Federal, State, and local strategies for more effectively preventing and punishing such crimes and acts.
 
@@ -25,8 +25,4 @@ The purposes of the Commission are as follows:
 &emsp;(11) To examine the nature, scope, causes, and complexities of violence in schools and to recommend a comprehensive response to that problem.
 
 (Pub. L. 103–322, title XXVII, §270003, Sept. 13, 1994, 108 Stat. 2091.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14194 of this title.
 

@@ -16,9 +16,9 @@ Act July 2, 1862, as amended, which is classified to this subchapter, is popular
 
 Pub. L. 107–171, title VII, §7201(e), May 13, 2002, 116 Stat. 437, provided that: “Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall submit a report containing recommended criteria for designating additional 1994 Institutions \[see section 532 of Pub. L. 103–382, set out below\] to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.”
 
-Pub. L. 106–387, §1(a) \[title I\], Oct. 28, 2000, 114 Stat. 1549, 1549A–7, provided in part: “That hereafter, any distribution of the adjusted income from the Native American Institutions Endowment Fund is authorized to be used for facility renovation, repair, construction, and maintenance, in addition to other authorized purposes.”
+Pub. L. 106–387, §1(a) \[title I\], Oct. 28, 2000, 114 Stat. 1549, 1549A–7, provided in part: “That hereafter, any distribution of the adjusted income from the Native American Institutions Endowment Fund is authorized to be used for facility renovation, repair, construction, andmaintenance, in addition to other authorized purposes.”
 
-Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title II, §251, title III, §301(g), June 23, 1998, 112 Stat. 557, 563; Pub. L. 105–332, §3(d), Oct. 31, 1998, 112 Stat. 3126; Pub. L.107–171, title VII, §§7126(f)–7128, 7201(a)–(d), May 13, 2002, 116 Stat. 435–437, provided that:
+Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title II, §251, title III, §301(g), June 23, 1998, 112 Stat. 557, 563; Pub. L. 105–332, §3(d), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 107–171, title VII, §§7126(f)–7128, 7201(a)–(d), May 13, 2002, 116 Stat. 435–437; Pub. L. 108–204, title I, §128, Mar. 2, 2004, 118 Stat. 547; Pub. L. 108–447, div. A, title VII, §777, Dec. 8, 2004, 118 Stat. 2849, provided that:
 
 #### “SEC. 531. SHORT TITLE.
 
@@ -70,25 +70,29 @@ Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by
 
 &emsp;“(21) Oglala Lakota College.
 
-&emsp;“(22) Salish Kootenai College.
+&emsp;“(22) Saginaw Chippewa Tribal College.
 
-&emsp;“(23) Sinte Gleska University.
+&emsp;“(23) Tohono O‘odham Community College.
 
-&emsp;“(24) Sisseton Wahpeton Community College.
+&emsp;“(24) Salish Kootenai College.
 
-&emsp;“(25) Si Tanka/Huron University.
+&emsp;“(25) Sinte Gleska University.
 
-&emsp;“(26) Sitting Bull College.
+&emsp;“(26) Sisseton Wahpeton Community College.
 
-&emsp;“(27) Southwestern Indian Polytechnic Institute.
+&emsp;“(27) Si Tanka/Huron University.
 
-&emsp;“(28) Stone Child College.
+&emsp;“(28) Sitting Bull College.
 
-&emsp;“(29) Turtle Mountain Community College.
+&emsp;“(29) Southwestern Indian Polytechnic Institute.
 
-&emsp;“(30) United Tribes Technical College.
+&emsp;“(30) Stone Child College.
 
-&emsp;“(31) White Earth Tribal and Community College.
+&emsp;“(31) Turtle Mountain Community College.
+
+&emsp;“(32) United Tribes Technical College.
+
+&emsp;“(33) White Earth Tribal and Community College.
 
 #### “SEC. 533. LAND-GRANT STATUS FOR 1994 INSTITUTIONS.
 
@@ -266,7 +270,7 @@ Section 506(a), (b) of Pub. L. 92–318, title V, June 23, 1972, 86 Stat. 350, a
 
 #### Exchange of Land in Missouri
 
-Pub. L. 85–282, Sept. 4, 1957, 71 Stat. 607, provided: “That, notwithstanding the provisions of the Act entitled ‘An Act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts’, approved July 2, 1862 (7 U.S.C. secs. 301–308), the State of Missouri is authorized to convey to the United States all right, title, and interest of such State in and to any land granted to such State under authority of such Act of July 2, 1862, which is located within the exterior boundaries of the national forests situated within such State, and, in exchange therefor, the Secretary of Agriculture is authorized to convey to the State of Missouri all right, title, and interest of the United States in and to not to exceed an equal value of national forest lands (as determined by the Secretary) situated within such State.
+Pub. L. 85–282, Sept. 4, 1957, 71 Stat. 607, provided: “That, notwithstanding the provisions of the Act entitled ‘An Act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts’, approved July 2, 1862 (7 U.S.C. secs. 301–308), the State of Missouri is authorized to convey to the United States all right, title, and interest of such State in and to any land granted to such State under authority of such Act of July 2, 1862, which is located within the exterior boundaries of the national forests situated within such State, and, in exchange therefor, the Secretary of Agriculture is authorized to convey to the State of Missouri all right, title, and interest of the United States in and to not to exceed an equal value of national forest lands\(as determined by the Secretary) situated within such State.
 
 “
 

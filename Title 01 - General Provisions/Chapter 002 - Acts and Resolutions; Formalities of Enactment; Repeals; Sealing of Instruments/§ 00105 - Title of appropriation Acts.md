@@ -12,7 +12,3 @@ The style and title of all Acts making appropriations for the support of Governm
 
 Section 506(b) of Pub. L. 93–344, which provided that the amendment of this section by Pub. L. 93–344 was effective with respect to Acts making appropriations for the support of the Government for any fiscal year commencing on or after Oct. 1, 1976, was omitted in the complete revision of title V of Pub. L. 93–344 by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 sections 622, 691e.
-

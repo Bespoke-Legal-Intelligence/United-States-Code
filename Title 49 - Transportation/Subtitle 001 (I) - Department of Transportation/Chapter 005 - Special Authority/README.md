@@ -34,10 +34,6 @@
 
 1997—Pub. L. 105–102, §2(1), Nov. 20, 1997, 111 Stat. 2204, struck out “DUTIES AND” before “POWERS” in item for heading of subchapter I.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 113, 13905, 31148 of this title.
-
 
 ---
 

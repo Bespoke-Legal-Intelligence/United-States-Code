@@ -36,7 +36,3 @@ Amounts received under subsection (b) of this section—
 
 (Pub. L. 103–340, §3, Oct. 6, 1994, 108 Stat. 3119.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 719b of this title.
-

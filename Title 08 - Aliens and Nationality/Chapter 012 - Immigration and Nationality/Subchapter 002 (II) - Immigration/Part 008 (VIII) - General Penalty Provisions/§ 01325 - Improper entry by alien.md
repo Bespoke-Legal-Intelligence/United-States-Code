@@ -54,7 +54,3 @@ Amendment by section 543(b)(2) of Pub. L. 101–649 applicable to actions taken 
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1101, 1225, 1329, 1330 of this title; title 10 section 374.
-

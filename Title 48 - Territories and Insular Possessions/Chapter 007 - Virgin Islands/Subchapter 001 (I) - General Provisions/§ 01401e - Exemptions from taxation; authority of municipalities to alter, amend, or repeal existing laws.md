@@ -4,7 +4,3 @@ Nothing in sections 1401 to 1401e of this title shall be construed as altering, 
 
 (May 26, 1936, ch. 450, §6, 49 Stat. 1373.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1401b of this title.
-

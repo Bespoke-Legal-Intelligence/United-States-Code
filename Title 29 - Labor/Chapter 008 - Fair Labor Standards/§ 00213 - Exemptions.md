@@ -14,7 +14,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(5) any employee employed in the catching, taking, propagating, harvesting, cultivating, or farming of any kind of fish, shellfish, crustacea, sponges, seaweeds, or other aquatic forms of animal and vegetable life, or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations, including the going to and returning from work and loading and unloading when performed by any such employee; or
 
-&emsp;(6) any employee employed in agriculture (A) if such employee is employed by an employer who did not, during any calendar quarter during the preceding calendar year, use more than five hundred man-days of agricultural labor, (B) if such employee is the parent, spouse, child, or other member of his employer's immediate family, (C) if such employee (i) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) commutes daily from his permanent residence to the farm on which he is so employed, and (iii) has been employed in agriculture lessthan thirteen weeks during the preceding calendar year, (D) if such employee (other than an employee described in clause (C) of this subsection) (i) is sixteen years of age or under and is employed as a hand harvest laborer, is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) is employed on the same farm as his parent or person standing in the place of his parent, and (iii) is paid at the same piece rate as employees over age sixteen are paid on the same farm, or (E) if such employee is principally engaged in the range production of livestock; or
+&emsp;(6) any employee employed in agriculture (A) if such employee is employed by an employer who did not, during any calendar quarter during the preceding calendar year, use more than five hundred man-days of agricultural labor, (B) if such employee is the parent, spouse, child, or other member of his employer's immediate family, (C) if such employee (i) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) commutes daily from his permanent residence to the farm on which he is so employed, and (iii) has been employed in agriculture less than thirteen weeks during the preceding calendar year, (D) if such employee (other than an employee described in clause (C) of this subsection) (i) is sixteen years of age or under and is employed as a hand harvest laborer, is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) is employed on the same farm as his parent or person standing in the place of his parent, and (iii) is paid at the same piece rate as employees over age sixteen are paid on the same farm, or (E) if such employee is principally engaged in the range production of livestock; or
 
 &emsp;(7) any employee to the extent that such employee is exempted by regulations, order, or certificate of the Secretary issued under section 214 of this title; or
 
@@ -74,7 +74,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(11) any employee employed as a driver or driver's helper making local deliveries, who is compensated for such employment on the basis of trip rates, or other delivery payment plan, if the Secretary shall find that such plan has the general purpose and effect of reducing hours worked by such employees to, or below, the maximum workweek applicable to them under section 207(a) of this title; or
 
-&emsp;(12) any employee employed in agriculture or in connection with the operation or maintenance of ditches, canals, reservoirs, or waterways, not owned or operated for profit, or operated on a sharecrop basis, and which areused exclusively for supply and storing of water, at least 90 percent of which was ultimately delivered for agricultural purposes during the preceding calendar year; or
+&emsp;(12) any employee employed in agriculture or in connection with the operation or maintenance of ditches, canals, reservoirs, or waterways, not owned or operated for profit, or operated on a sharecrop basis, and which are used exclusively for supply and storing of water, at least 90 percent of which was ultimately delivered for agricultural purposes during the preceding calendar year; or
 
 &emsp;(13) any employee with respect to his employment in agriculture by a farmer, notwithstanding other employment of such employee in connection with livestock auction operations in which such farmer is engaged as an adjunct to the raising of livestock, either on his own account or in conjunction with other farmers, if such employee (A) is primarily employed during his workweek in agriculture by such farmer, and (B) is paid for his employment in connection with such livestock auction operations at a wage rate not less than that prescribed by section 206(a)(1) of this title; or
 
@@ -234,6 +234,24 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 > For purposes of subparagraph (G), the term “occasional and incidental” is no more than one-third of an employee's worktime in any workday and no more than 20 percent of an employee's worktime in any workweek.
 
+(7)(A)(i) Subject to subparagraph (B), in the administration and enforcement of the child labor provisions of this chapter, it shall not be considered oppressive child labor for a new entrant into the workforce to be employed inside or outside places of business where machinery is used to process wood products.
+
+(ii) In this paragraph, the term “new entrant into the workforce” means an individual who—
+
+&emsp;(I) is under the age of 18 and at least the age of 14, and
+
+&emsp;(II) by statute or judicial order is exempt from compulsory school attendance beyond the eighth grade.
+
+(B) The employment of a new entrant into the workforce under subparagraph (A) shall be permitted—
+
+&emsp;(i) if the entrant is supervised by an adult relative of the entrant or is supervised by an adult member of the same religious sect or division as the entrant;
+
+&emsp;(ii) if the entrant does not operate or assist in the operation of power-driven woodworking machines;
+
+&emsp;(iii) if the entrant is protected from wood particles or other flying debris within the workplace by a barrier appropriate to the potential hazard of such wood particles or flying debris or by maintaining a sufficient distance from machinery in operation; and
+
+&emsp;(iv) if the entrant is required to use personal protective equipment to prevent exposure to excessive levels of noise and saw dust.
+
 #### (d) Delivery of newspapers and wreathmaking
 
 The provisions of sections 206, 207, and 212 of this title shall not apply with respect to any employee engaged in the delivery of newspapers to the consumer or to any homeworker engaged in the making of wreaths composed principally of natural holly, pine, cedar, or other evergreens (including the harvesting of the evergreens or other forest products used in making such wreaths).
@@ -302,7 +320,7 @@ The provisions of section 207 of this title shall not apply for a period or peri
 
 > &emsp;compensation at a rate not less than one and one-half times the regular rate at which he is employed. No week included in any fifty-two week period for purposes of the preceding sentence may be included for such purposes in any other fifty-two week period.
 
-(June 25, 1938, ch. 676, §13, 52 Stat. 1067; Aug. 9, 1939, ch. 605, 53 Stat. 1266; Oct. 26, 1949, ch. 736, §11, 63 Stat. 917; Aug. 8, 1956, ch. 1035, §3, 70 Stat. 1118; Pub. L. 85–231, §1(1), Aug. 30, 1957, 71 Stat. 514; Pub. L. 86–624, §21(b), July 12, 1960, 74 Stat. 417; Pub. L. 87–30, §§9, 10, May 5, 1961, 75 Stat. 71, 74; Pub. L. 89–601, title II, §§201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), Sept. 23, 1966, 80 Stat. 833–838; Pub. L. 89–670, §8(e), Oct. 15, 1966, 80 Stat. 943; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 92–318, title IX, §906(b)(1), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), Apr. 8, 1974, 88 Stat. 61–69, 72; Pub. L. 95–151, §§4–8, 9(d), 11, 14, Nov. 1, 1977, 91 Stat. 1249, 1250–1252; Pub. L. 96–70, title I, §1225(a), Sept. 27, 1979, 93 Stat. 468; Pub. L. 101–157, §3(c), Nov. 17, 1989, 103 Stat. 939; Pub. L. 103–329, title VI, §633(d), Sept. 30, 1994, 108 Stat. 2428; Pub. L. 104–88, title III, §340, Dec. 29, 1995, 109 Stat. 955; Pub. L. 104–174, §1, Aug. 6, 1996, 110 Stat. 1553; Pub. L. 104–188, \[title II\], §2105(a), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–78, title I, §105, Nov. 13, 1997, 111 Stat. 1477; Pub. L. 105–334, §2(a), Oct. 31, 1998, 112 Stat. 3137.)
+(June 25, 1938, ch. 676, §13, 52 Stat. 1067; Aug. 9, 1939, ch. 605, 53 Stat. 1266; Oct. 26, 1949, ch. 736, §11, 63 Stat. 917; Aug. 8, 1956, ch. 1035, §3, 70 Stat. 1118; Pub. L. 85–231, §1(1), Aug. 30, 1957, 71 Stat. 514; Pub. L. 86–624, §21(b), July 12, 1960, 74 Stat. 417; Pub. L. 87–30, §§9, 10, May 5, 1961, 75 Stat. 71, 74; Pub. L. 89–601, title II, §§201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), Sept. 23, 1966, 80 Stat. 833–838; Pub. L. 89–670, §8(e), Oct. 15, 1966, 80 Stat. 943; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 92–318, title IX, §906(b)(1), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), Apr. 8, 1974, 88 Stat. 61–69, 72; Pub. L. 95–151, §§4–8, 9(d), 11, 14, Nov. 1, 1977, 91 Stat. 1249, 1250–1252; Pub. L. 96–70, title I, §1225(a), Sept. 27, 1979, 93 Stat. 468; Pub. L. 101–157, §3(c), Nov. 17, 1989, 103 Stat. 939; Pub. L. 103–329, title VI, §633(d), Sept. 30, 1994, 108 Stat. 2428; Pub. L. 104–88, title III, §340, Dec. 29, 1995, 109 Stat. 955; Pub. L. 104–174, §1, Aug. 6, 1996, 110 Stat. 1553; Pub. L. 104–188, \[title II\], §2105(a), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–78, title I, §105, Nov. 13, 1997, 111 Stat. 1477; Pub. L. 105–334, §2(a), Oct. 31, 1998, 112 Stat. 3137; Pub. L. 108–199, div. E, title I, §108, Jan. 23, 2004, 118 Stat. 236.)
 
 #### References in Text
 
@@ -317,6 +335,8 @@ In subsec. (a)(1), “subchapter II of chapter 5 of title 5” substituted for �
 In subsec. (b)(1), “section 31502 of title 49” substituted for “section 3102 of title 49” on authority of Pub. L. 103–272, §§1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, “section 3102 of title 49” substituted for “section 204 of the Motor Carrier Act, 1935 \[49 U.S.C. 304\]”, on authority of Pub. L. 97–449, §6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
 
 #### Amendments
+
+2004—Subsec. (c)(7). Pub. L. 108–199 added par. (7).
 
 1998—Subsec. (c)(6). Pub. L. 105–334 added par. (6).
 
@@ -336,7 +356,7 @@ Subsec. (b)(30). Pub. L. 103–329, §633(d)(2), added par. (30).
 
 Subsec. (a)(4). Pub. L. 101–157, §3(c)(1), struck out par. (4) which related to employees employed by an establishment which qualified as an exempt retail establishment under clause (2) of this subsection and was recognized as a retail establishment in the particular industry notwithstanding that such establishment made or processed at the retail establishment the goods that it sold.
 
-Subsec. (g). Pub. L. 101–157, §3(c)(2), substituted “provided by paragraph (6) of subsection (a) of this section” for “provided by paragraphs (2) and (6) of subsection (a) of this section” and struck out before period at end “, except that the exemption from section 206 of this title provided by paragraph (2) of subsection (a) of this section shall apply with respect to any establishment described in this subsection which has an annual dollar volume of sales which would permit it to qualify for the exemption provided in paragraph (2) of subsection (a) of this section if it were in an enterprise described in section 203(s) of this title”.
+Subsec. (g). Pub. L. 101–157, §3(c)(2), substituted “provided by paragraph (6) of subsection (a) of this section” for “provided by paragraphs (2) and (6) of subsection (a) of this section” and struck out before period at end “, except that the exemption from section 206 of this title provided by paragraph (2) of subsection (a) of this section shall apply with respect to any establishmentdescribed in this subsection which has an annual dollar volume of sales which would permit it to qualify for the exemption provided in paragraph (2) of subsection (a) of this section if it were in an enterprise described in section 203(s) of this title”.
 
 1979—Subsec. (f). Pub. L. 96–70 struck out “; and the Canal Zone” after “Johnston Island”.
 
@@ -460,7 +480,7 @@ Subsec. (b)(1). Pub. L. 89–670 substituted “Secretary of Transportation” f
 
 Subsec. (b)(7). Pub. L. 89–601, §206(c), narrowed the scope of the exemption from any employee of the covered transportation companies to drivers, operators, and conductors only and narrowed the range of covered transportation companies from any street, suburban, or interurban electric railway, or local trolley or motorbus carrier to only those of such named enterprises as have their rates and service subject to regulation by a state or local agency.
 
-Subsec. (b)(8). Pub. L. 89–601, §§201(b)(1), 211, repealed par. (8) which named employees of gasoline service stations as a group to which section 207 of this title shall not apply and enacted a new par. (8) providing that section 207 of this title shall not apply with respect to hotel, motel, or restaurant employees and employees who receive compensation for employment in excess 48 hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed and who is employed by an institution other than a hospital primarily engaged in the care of the sick, the aged, or the mentally ill or defective residing on the premises.
+Subsec. (b)(8). Pub. L. 89–601, §§201(b)(1), 211, repealed par. (8) which named employees of gasoline service stations as a group to which section 207 of this title shall not apply and enacted a new par. (8) providing that section 207 of this title shall not apply with respect to hotel, motel, or restaurant employees and employeeswho receive compensation for employment in excess 48 hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed and who is employed by an institution other than a hospital primarily engaged in the care of the sick, the aged, or the mentally ill or defective residing on the premises.
 
 Subsec. (b)(10). Pub. L. 89–601, §§209(b), 212(a), repealed par. (10) which granted an unlimited overtime exemption relating to petroleum distribution employees and enacted a new par. (10) relating to salesmen, partsmen, or mechanics primarily engaged in selling or servicing automobiles, trailers, trucks, farm implements, or aircraft if employed by a nonmanufacturing establishment primarily engaged in the business of selling such vehicles to ultimate purchasers. See subsec. (b)(3) of this section.
 
@@ -622,7 +642,7 @@ Section 3 of Pub. L. 104–174 provided that: “Section 1 \[amending this secti
 
 #### Regulations Concerning Computer, Software, and Other Similarly Skilled Professionals
 
-Pub. L. 101–583, §2, Nov. 15, 1990, 104 Stat. 2871, provided that: “Not later than 90 days after the date of enactment of this Act \[Nov. 15, 1990\], the Secretary of Labor shall promulgate regulations that permit computer systems analysts, computer programmers, software engineers, and other similarly skilled professional workers as defined in such regulations to qualify as exempt executive, administrative, or professional employees under section 13(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 213(a)(1)). Such regulationsshall provide that if such employees are paid on an hourly basis they shall be exempt only if their hourly rate of pay is at least 61/2 times greater than the applicable minimum wage rate under section 6 of such Act (29 U.S.C. 206).”
+Pub. L. 101–583, §2, Nov. 15, 1990, 104 Stat. 2871, provided that: “Not later than 90 days after the date of enactment of this Act \[Nov. 15, 1990\], the Secretary of Labor shall promulgate regulations that permit computer systems analysts, computer programmers, software engineers, and other similarly skilled professional workers as defined in such regulations to qualify as exempt executive, administrative, or professional employees under section 13(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 213(a)(1)). Such regulations shall provide that if such employees are paid on an hourly basis they shall be exempt only if their hourly rate of pay is at least 61/2 times greater than the applicable minimum wage rate under section 6 of such Act (29 U.S.C. 206).”
 
 #### Public Agency Employees in Fire Protection and Law Enforcement Activities; Studies in 1976 of 1975 Tours of Duty
 
@@ -634,7 +654,7 @@ Section 23(c) of Pub. L. 93–259 provided in part for amendment of subsec. (b)(
 
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 
-Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602 of Pub. L. 89–601, set out as a note under section 203 of this title.
+Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602of Pub. L. 89–601, set out as a note under section 203 of this title.
 
 #### Study of Agricultural Handling and Processing Exemptions and Rates of Pay in Exempt Food Service Enterprises
 
@@ -643,8 +663,4 @@ Section 13 of Pub. L. 87–30 directed Secretary of Labor to study complicated s
 #### Transportation of Migrant Farm Workers
 
 Section 3 of act Aug. 3, 1956, provided that: “Section 13(b)(1) of the Fair Labor Standards Act, as amended \[subsec. (b)(1) of this section\] shall not apply in the case of any employee with respect to whom the Interstate Commerce Commission \[now Secretary of Transportation\] has power to establish qualifications and maximum hours of service solely by virtue of section 204(a)(3a) of the Interstate Commerce Act \[now 49 U.S.C. 31502\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 206, 216, 218, 1803, 2612 of this title; title 5 sections 5343, 5349, 5545a; title 42 sections 300e–9, 3056, 8009, 8011.
 

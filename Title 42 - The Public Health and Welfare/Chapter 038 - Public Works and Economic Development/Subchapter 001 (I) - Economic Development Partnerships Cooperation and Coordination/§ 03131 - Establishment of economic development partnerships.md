@@ -6,7 +6,7 @@ In providing assistance under this subchapter, the Secretary shall cooperate wit
 
 #### (b) Technical assistance
 
-The Secretary may provide such technical assistance to States, political subdivisions of States, sub-State regional organizations (including organizations that cross State boundaries), and multi-State regional organizations as the Secretary determines is appropriate to—
+The Secretary may provide such technical assistance to States, political subdivisions of States, sub-State regional organizations (including organizations that cross State boundaries), multi-State regional organizations, and nonprofit organizations as the Secretary determines is appropriate to—
 
 &emsp;(1) alleviate economic distress;
 
@@ -22,19 +22,21 @@ The Secretary shall promulgate regulations to ensure that appropriate State and 
 
 #### (1) In general
 
-&emsp;The Secretary may enter into a cooperation agreement with any 2 or more adjoining States, or an organization of any 2 or more adjoining States, in support of effective economic development.
+&emsp;The Secretary may enter into a cooperation agreement with any 2 or more States, or an organization of any 2 or more States, in support of effective economic development.
 
 #### (2) Participation
 
 &emsp;Each cooperation agreement shall provide for suitable participation by other governmental and nongovernmental entities that are representative of significant interests in and perspectives on economic development in an area.
 
-(Pub. L. 89–136, title I, §101, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3600.)
+(Pub. L. 89–136, title I, §101, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3600; amended Pub. L. 108–373, title I, §103, Oct. 27, 2004, 118 Stat. 1759.)
 
 #### Prior Provisions
 
 A prior section 3131, Pub. L. 89–136, title I, §101, Aug. 26, 1965, 79 Stat. 552; Pub. L. 91–123, title III, §301(1), Nov. 25, 1969, 83 Stat. 219; Pub. L. 92–65, title I, §102, Aug. 5, 1971, 85 Stat. 166; Pub. L. 94–487, title I, §103, Oct. 12, 1976, 90 Stat. 2331, authorized direct and supplementary grants, prior to repeal by Pub. L. 105–393, §102(a).
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 3338 of this title.
+2004—Subsec. (b). Pub. L. 108–373, §103(1), substituted “multi-State regional organizations, and nonprofit organizations” for “and multi-State regional organizations” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 108–373, §103(2), struck out “adjoining” before “States” in two places.
 

@@ -4,7 +4,3 @@ Every person required to file any report under this subchapter shall maintain re
 
 (Pub. L. 86–257, title II, §206, Sept. 14, 1959, 73 Stat. 529.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 461 of this title.
-

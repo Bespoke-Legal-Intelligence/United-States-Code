@@ -56,7 +56,3 @@ Subsec. (d)(4). Pub. L. 101–301, §9(2), added par. (4).
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300i, 1300i–5, 1300i–6 of this title.
-

@@ -12,7 +12,3 @@ Section was enacted as part of the EURATOM Cooperation Act of 1958 which compris
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2296 of this title.
-

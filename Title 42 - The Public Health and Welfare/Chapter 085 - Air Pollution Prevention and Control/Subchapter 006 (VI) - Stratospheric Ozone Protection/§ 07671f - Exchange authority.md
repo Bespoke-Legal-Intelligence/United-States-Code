@@ -28,7 +28,3 @@ The rules under this section shall also provide for the issuance of consumption 
 
 (July 14, 1955, ch. 360, title VI, §607, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2660.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7671a of this title.
-

@@ -14,7 +14,3 @@ The Congress notes with approval that the Inter-American Development Bank, under
 
 Section effective Aug. 13, 1981, see section 1372 of Pub. L. 97–35, set out as a note under section 290i of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 262g–2 of this title.
-

@@ -34,7 +34,7 @@ If, within twenty years after the completion of any construction (except minor r
 
 &emsp;(2) the institution ceases to be the owner of the facility,
 
-> the United States shall be entitled to recover from the applicant or other owner of the facility an amount which has the same ratio with respect to the current market value of the facility as the amount of Federal funds expended for construction of such facility bears to the total cost of construction of the facility. The current market value of the facility shall be determined by agreement of the parties or by action broughtin the United States district court for the district in which the facility is situated.
+> the United States shall be entitled to recover from the applicant or other owner of the facility an amount which has the same ratio with respect to the current market value of the facility as the amount of Federal funds expended for construction of such facility bears to the total cost of construction of the facility. The current market value of the facility shall be determined by agreement of the parties or by action brought in the United States district court for the district in which the facility is situated.
 
 (Pub. L. 99–371, title I, §112, formerly title II, §202, Aug. 4, 1986, 100 Stat. 785; renumbered title I, §112, and amended Pub. L. 102–421, title I, §§101(b)(3), (4), 121, 151(a)(4), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, §§202, 203(g), Aug. 11, 1993, 107 Stat. 732, 734; Pub. L. 105–244, title IX, §914, Oct. 7, 1998, 112 Stat. 1830.)
 
@@ -84,6 +84,8 @@ Subsec. (b)(6). Pub. L. 102–421, §121(3), added par. (6).
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1998 Amendment
@@ -97,8 +99,4 @@ Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L
 #### Establishment of Institute
 
 Pursuant to an agreement entered into between the Secretary and the Rochester Institute of Technology on Dec. 20, 1966, the National Technical Institute for the Deaf (N.T.I.D.) was established and located at Rochester, New York.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4353, 4354, 4357 of this title.
 

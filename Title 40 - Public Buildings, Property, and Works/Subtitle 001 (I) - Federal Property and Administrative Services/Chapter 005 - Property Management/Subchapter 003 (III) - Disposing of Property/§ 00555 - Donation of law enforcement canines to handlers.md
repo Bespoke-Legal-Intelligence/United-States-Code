@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title II, §203(r), as added Pub. L. 105–27, §1, July 18, 1997, 111 Stat. 244.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 2577, 2814; title 14 section 641; title 28 section 604; title 38 section 8162; title 42 sections 3796<i>ll</i>–3, 11411.
-

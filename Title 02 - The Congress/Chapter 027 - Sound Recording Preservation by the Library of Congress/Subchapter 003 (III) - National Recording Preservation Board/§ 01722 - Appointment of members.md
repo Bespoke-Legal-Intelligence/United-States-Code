@@ -68,7 +68,3 @@ The Librarian shall appoint one member of the Board to serve as Chair.
 
 (Pub. L. 106–474, title I, §122, Nov. 9, 2000, 114 Stat. 2088.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1721 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—GENERAL PROVISIONS RELATING TO TRADE RELATIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1373 of this title; title 48 section 734.
-
 
 ---
 

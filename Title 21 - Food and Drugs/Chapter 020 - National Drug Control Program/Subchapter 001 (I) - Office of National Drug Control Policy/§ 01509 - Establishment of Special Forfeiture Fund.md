@@ -20,7 +20,7 @@ Amounts in the Fund which are not currently needed for the purposes of this sect
 
 #### (e) President's budget
 
-The President shall, in consultation with the Director for National Drug Control Policy, include, as part of the budget submitted to the Congress under section 1105(a) of title 31, a separate and detailed request for the use of the amounts in the Fund. This request shall reflectthe priorities of the National Drug Control Strategy.
+The President shall, in consultation with the Director for National Drug Control Policy, include, as part of the budget submitted to the Congress under section 1105(a) of title 31, a separate and detailed request for the use of the amounts in the Fund. This request shall reflect the priorities of the National Drug Control Strategy.
 
 #### (f) Funds provided supplemental
 
@@ -63,8 +63,4 @@ Subsecs. (c) to (g). Pub. L. 103–322, §90205(d), added subsec. (c) and redesi
 #### Termination Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 repealed effective Sept. 30, 2003, see section 715 of Pub. L. 105–277, which is classified to section 1712 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 28 section 524; title 31 section 9703.
 

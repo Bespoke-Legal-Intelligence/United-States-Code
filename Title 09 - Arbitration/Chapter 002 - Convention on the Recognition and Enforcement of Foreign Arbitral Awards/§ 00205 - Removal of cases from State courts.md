@@ -4,7 +4,3 @@ Where the subject matter of an action or proceeding pending in a State court rel
 
 (Added Pub. L. 91–368, §1, July 31, 1970, 84 Stat. 692.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 302 of this title.
-

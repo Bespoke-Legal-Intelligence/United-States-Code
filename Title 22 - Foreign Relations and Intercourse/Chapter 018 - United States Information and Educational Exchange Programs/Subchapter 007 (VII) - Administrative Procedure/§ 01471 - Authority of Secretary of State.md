@@ -108,7 +108,7 @@ Exception.—
 
 &emsp;&emsp;“(D) the statutes of a host foreign country prohibit the use of United States contractors on such projects within that country.
 
-&emsp;“(2) An exception under paragraph (1)(D) shall only become effective with respect to a foreign country 30 days after the Secretary of State certifies to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate what specific actions the Secretary has taken to urge the foreign country to permit the use of United States contractors on such projects.
+&emsp;“(2) An exception under paragraph (1)(D) shall only become effective with respect to a foreign country 30 days after the Secretary of State certifies to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate what specificactions the Secretary has taken to urge the foreign country to permit the use of United States contractors on such projects.
 
 “(d) \[sic\]
 

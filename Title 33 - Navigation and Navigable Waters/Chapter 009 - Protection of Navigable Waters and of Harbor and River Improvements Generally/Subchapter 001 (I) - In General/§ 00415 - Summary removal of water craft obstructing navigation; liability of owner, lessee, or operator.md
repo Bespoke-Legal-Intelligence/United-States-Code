@@ -6,7 +6,7 @@ Under emergency, in the case of any vessel, boat, water craft, or raft, or other
 
 #### (b) Removal requirement
 
-Not later than 24 hours after the Secretary of the Department in which the Coast Guard is operating issues an order to stop or delay navigation in any navigable waters of the United States because of conditions related to the sinking or grounding of a vessel, the owner or operator of the vessel, with the approval of the Secretary of the Army, shall begin removal of the vessel using the most expeditious removal method available or, if appropriate, secure the vessel pending removal to allow navigation to resume. If the owner or operator fails to begin removal or to secure the vessel pending removal or fails to complete removal on an expedited basis, the Secretary of the Army shall remove or destroy the vessel using the summary removal procedures under subsection (a) of this section.
+Not later than 24 hours after the Secretary of the Department in which the Coast Guard is operating issues an order to stop or delay navigation in any navigable waters of the United States because of conditions related to the sinking or grounding of a vessel, the owner or operator of the vessel, with the approval of the Secretary of the Army, shall begin removal of the vessel using the most expeditious removal method available or, if appropriate, secure the vessel pending removal to allow navigation to resume. If the owner or operator fails to begin removal or to secure the vessel pending removal or fails to complete removal on an expedited basis, theSecretary of the Army shall remove or destroy the vessel using the summary removal procedures under subsection (a) of this section.
 
 #### (c) Liability of owner, lessee, or operator
 
@@ -41,8 +41,4 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
 For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force and Department of the Air Force from Secretary of the Army and Department of the Army, see Secretary of Defense Transfer Order No. 40 \[App. A(57)\], July 22, 1949.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 409, 411, 412, 416, 418 of this title; title 43 section 2105.
 

@@ -118,7 +118,3 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 Part, relating to multiemployer plan reorganization, effective, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of the date on which the last collective-bargaining agreement providing for employer contributions under the plan, which was in effect on Sept. 26, 1980, expires, without regard to extensions agreed to after Sept. 26, 1980, or three years after Sept. 26, 1980, see section 1461(e)(3) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1202, 1301, 1412, 1415, 1423, 1426, 1461 of this title.
-

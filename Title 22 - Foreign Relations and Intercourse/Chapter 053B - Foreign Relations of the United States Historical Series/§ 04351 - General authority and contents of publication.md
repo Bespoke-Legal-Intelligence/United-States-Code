@@ -22,7 +22,3 @@ Section 198(c)(2) of Pub. L. 102–138 provided that:
 
 “(B) If the Secretary cannot reasonably meet the requirements of subparagraph (A), the Secretary shall notify the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and describe how the Department of State plans to meet the requirements of subparagraph (A). In no event shall volumes subject to subparagraph (A) be published later than 5 years after the date of the enactment of this Act.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4354 of this title.
-

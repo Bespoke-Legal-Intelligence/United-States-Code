@@ -28,9 +28,9 @@ The registration requirements of section 851 of this title do not apply to any p
 
 Section was not enacted as part of the Internal Security Act of 1950 which comprises subchapters I to III of this chapter.
 
-#### Section Referred to in Other Sections
+#### Change of Name
 
-This section is referred to in section 851 of this title.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

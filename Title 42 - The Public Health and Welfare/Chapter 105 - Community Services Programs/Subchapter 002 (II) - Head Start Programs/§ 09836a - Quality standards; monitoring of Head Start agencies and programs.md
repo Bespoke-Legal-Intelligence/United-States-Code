@@ -98,7 +98,7 @@
 
 #### (5) Additional local results-based performance measures
 
-&emsp;In addition to other applicable results-based performance measures, Head Start agencies may establish local results-based educational performance measures.
+&emsp;In addition to other applicable results-based performance measures, Head Start agenciesmay establish local results-based educational performance measures.
 
 #### (c) Monitoring of local agencies and programs
 
@@ -168,7 +168,7 @@
 
 #### (3) Training and technical assistance
 
-&emsp;The Secretary shall provide training and technical assistance to Head Start agencieswith respect to the development or implementation of such quality improvement plans to the extent the Secretary finds such provision to be feasible and appropriate given available funding and other statutory responsibilities.
+&emsp;The Secretary shall provide training and technical assistance to Head Start agencies with respect to the development or implementation of such quality improvement plans to the extent the Secretary finds such provision to be feasible and appropriate given available funding and other statutory responsibilities.
 
 #### (e) Summaries of monitoring outcomes
 
@@ -237,10 +237,6 @@ Subsec. (e). Pub. L. 105–285, §108(e), inserted at end “Such report shall b
 #### Effective Date
 
 Section effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as an Effective Date of 1994 Amendment note under section 9832 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9835, 9836, 9841, 9843, 9846 of this title; title 20 section 6312.
 
 <i><sup>1</sup></i><i> So in original. The period should probably be a semicolon.</i>
 

@@ -10,7 +10,3 @@ The Secretary may develop guidelines to enable entities eligible to receive assi
 
 (July 1, 1944, ch. 373, title III, §319K, as added Pub. L. 107–188, title I, §124, June 12, 2002, 116 Stat. 614.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 247d–7c of this title.
-

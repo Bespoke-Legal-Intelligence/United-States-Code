@@ -10,7 +10,7 @@ Section 1514, Pub. L. 97–300, title I, §104, Oct. 13, 1982, 96 Stat. 1331; Pu
 
 Section 1515, Pub. L. 97–300, title I, §105, Oct. 13, 1982, 96 Stat. 1332; Pub. L. 102–367, title I, §114, Sept. 7, 1992, 106 Stat. 1030, related to review and approval of plan.
 
-Section 1516, Pub. L. 97–300, title I, §106, Oct. 13, 1982, 96 Stat. 1333; Pub. L. 97–404, §1(b), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 99–496, §15(b), Oct. 16, 1986, 100 Stat. 1266; Pub. L. 100–418, title VI, §6304(a), Aug. 23, 1988, 102 Stat. 1538; Pub. L. 100–628, title VII, §§713(b), 714(b), Nov. 7, 1988, 102 Stat. 3255, 3256; Pub. L. 102–367, title I, §115(a), Sept. 7, 1992, 106 Stat. 1030; Pub. L. 104–193, title I, §110(n)(2), Aug. 22, 1996, 110 Stat. 2174, related to performance standards.
+Section 1516, Pub. L. 97–300, title I, §106, Oct. 13, 1982, 96 Stat. 1333; Pub. L. 97–404, §1(b), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 99–496, §15(b), Oct. 16, 1986, 100 Stat. 1266; Pub. L. 100–418, title VI, §6304(a), Aug. 23, 1988, 102 Stat. 1538; Pub. L. 100–628, title VII, §§713(b), 714(b), Nov. 7, 1988, 102 Stat. 3255, 3256; Pub. L. 102–367, title I, §115(a), Sept. 7, 1992, 106 Stat. 1030; Pub. L. 104–193, title I,§110(n)(2), Aug. 22, 1996, 110 Stat. 2174, related to performance standards.
 
 Section 1517, Pub. L. 97–300, title I, §107, Oct. 13, 1982, 96 Stat. 1335; Pub. L. 102–367, title I, §116, Sept. 7, 1992, 106 Stat. 1034, related to selection of service providers.
 

@@ -36,7 +36,3 @@ In subsection (a), the words “a vehicle consisting” are substituted for “a
 
 In subsection (b), the words “Not later than 60 days after the date of the enactment of this Act, the Secretary shall initiate a rulemaking proceeding” are omitted as executed.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 31317 of this title.
-

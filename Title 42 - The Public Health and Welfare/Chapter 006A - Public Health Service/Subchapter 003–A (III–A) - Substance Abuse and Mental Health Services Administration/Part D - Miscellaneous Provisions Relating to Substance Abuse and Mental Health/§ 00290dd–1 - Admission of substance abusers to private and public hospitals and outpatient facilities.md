@@ -38,7 +38,7 @@ Subsec. (b)(4). Pub. L. 98–24, §2(b)(13)(B)(i), substituted “section 290ee�
 
 Subsec. (d). Pub. L. 98–24, §2(b)(13)(B)(ii), substituted “this section” for “this subchapter”, meaning subchapter II (§4561 et seq.) of chapter 60 of this title.
 
-1981—Subsec. (b). Pub. L. 97–35, §§961, 966(d), made changes in nomenclature, and substituted provisionsrelating to responsible State administrative agencies, for provisions relating to single State agencies designated pursuant to section 4573 of this title.
+1981—Subsec. (b). Pub. L. 97–35, §§961, 966(d), made changes in nomenclature, and substituted provisions relating to responsible State administrative agencies, for provisions relating to single State agencies designated pursuant to section 4573 of this title.
 
 1980—Pub. L. 96–180, §6(b)(2)(A), amended section catchline.
 
@@ -49,8 +49,4 @@ Subsec. (b). Pub. L. 96–180, §6(b)(1), designated existing provisions as par.
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as a note under section 236 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 290aa of this title.
 

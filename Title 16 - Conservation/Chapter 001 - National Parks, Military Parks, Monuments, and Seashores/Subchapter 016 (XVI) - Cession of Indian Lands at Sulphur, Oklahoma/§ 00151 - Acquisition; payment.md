@@ -30,7 +30,3 @@ Section 38 of act June 25, 1948, provided that the amendment made by that act is
 
 Pub. L. 94–235, §5, repealed act June 29, 1906, No. 42, 34 Stat. 837, cited as a credit to this section, under which the Sulphur Springs Indian Reservation had been renamed Platt National Park, in honor of Orville Hitchcock Platt, former Senator from Connecticut “and for many years a member of the Committee on Indian Affairs, in recognition of his distinguished services to the Indians and to the country.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 152 of this title.
-

@@ -4,7 +4,7 @@
 
 Any utilization and quality control peer review organization entering into a contract with the Secretary under this part must perform the following functions:
 
-&emsp;(1) The organization shall review some or all of the professional activities in the area, subject to the terms of the contract and subject to the requirements of subsection (d) of this section, of physicians and other health care practitioners and institutional and noninstitutional providers of health care services in the provision of health care services and items for which payment may be made (in whole or in part) under subchapter XVIII of this chapter (including where payment is made for such services to eligible organizations pursuant to contracts under section 1395mm of this title, to Medicare Advantage organizations pursuant to contracts under part C,<sup>1</sup> and to prescription drug sponsors pursuant to contracts underpart D <sup>1</sup> ) for the purpose of determining whether—
+&emsp;(1) The organization shall review some or all of the professional activities in the area, subject to the terms of the contract and subject to the requirements of subsection (d) of this section, of physicians and other health care practitioners and institutional and noninstitutional providers of health care services in the provision of health care services and items for which payment may be made (in whole or in part) under subchapter XVIII of this chapter (including where payment is made for such services to eligible organizations pursuant to contracts under section 1395mm of this title, to Medicare Advantage organizations pursuant to contracts under part C,<sup>1</sup> and to prescription drug sponsors pursuant to contracts under part D <sup>1</sup> ) for the purpose of determining whether—
 
 &emsp;&emsp;(A) such services and items are or were reasonable and medically necessary and whether such services and items are not allowable under subsection (a)(1) or (a)(9) of section 1395y of this title;
 
@@ -26,7 +26,7 @@ Any utilization and quality control peer review organization entering into a con
 
 > &emsp;The organization shall identify cases for which payment should not be made by reason of paragraph (1)(B) only through the use of criteria developed pursuant to guidelines established by the Secretary.
 
-&emsp;(3)(A) Subject to subparagraphs (B) and (D), whenever the organization makes a determination that any health care services or items furnished or to be furnished to a patient by any practitioner or provider are disapproved, the organization shall promptly notify such patient and the agency or organization responsible for the payment of claims under subchapter XVIII of this chapter of such determination.
+&emsp;(3)(A) Subject to subparagraphs (B) and (D), whenever the organization makes a determination that any health care services or items furnished or to be furnished to a patient by any practitioner or provider are disapproved, the organization shall promptly notify such patient and the agency or organization responsible for the payment of claimsunder subchapter XVIII of this chapter of such determination.
 
 &emsp;(B) The notification under subparagraph (A) with respect to services or items disapproved by reason of subparagraph (A) or (C) of paragraph (1) shall not occur until 20 days after the date that the organization has—
 
@@ -90,7 +90,7 @@ Any utilization and quality control peer review organization entering into a con
 
 &emsp;(8) The organization shall perform such duties and functions and assume such responsibilities and comply with such other requirements as may be required by this part or under regulations of the Secretary promulgated to carry out the provisions of this part or as may be required to carry out section 1395y(a)(15) of this title.
 
-&emsp;(9)(A) The organization shall collect such information relevant to its functions, and keep and maintain such records, in such form as the Secretary may require to carry out the purposes of this part, and shall permit access to and use of any such information and records as the Secretary may require for such purposes, subject to the provisions of section 1320c–9 of this title.
+&emsp;(9)(A) The organization shall collect such information relevant to its functions, and keep and maintain such records, in such form as the Secretary may require to carry out the purposes of this part, and shall permit access to and use of any such information and records as the Secretary may require for such purposes,subject to the provisions of section 1320c–9 of this title.
 
 &emsp;(B) If the organization finds, after reasonable notice to and opportunity for discussion with the physician or practitioner concerned, that the physician or practitioner has furnished services in violation of section 1320c–5(a) of this title and the organization determines that the physician or practitioner should enter into a corrective action plan under section 1320c–5(b)(1) of this title, the organization shall notify the State board or boards responsible for the licensing or disciplining of the physician or practitioner of its finding and of any action taken as a result of the finding.
 
@@ -158,7 +158,7 @@ Parts C and D, referred to in subsec. (a)(1), (17), probably means parts C and D
 
 #### Prior Provisions
 
-A prior section 1320c–3, act Aug. 14, 1935, ch. 531, title XI, §1154, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1432; amended Oct. 25, 1977, Pub. L. 95–142, §5(b), (d)(2)(C), 91 Stat. 1184, 1186; Dec. 5, 1980, Pub. L. 96–499, title IX, §924(a), 94 Stat. 2628; Aug. 13,1981, Pub. L. 97–35, title XXI, §§2112(a)(1), (2)(B), (b), 2113(c), 2121(e), 95 Stat. 793, 794, 796, related to trial period for Professional Standards Review Organizations, prior to the general revision of this part by Pub. L. 97–248.
+A prior section 1320c–3, act Aug. 14, 1935, ch. 531, title XI, §1154, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1432; amended Oct. 25, 1977, Pub. L. 95–142, §5(b), (d)(2)(C), 91 Stat. 1184, 1186; Dec. 5, 1980, Pub. L. 96–499, title IX, §924(a), 94 Stat. 2628; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2112(a)(1), (2)(B), (b), 2113(c), 2121(e), 95 Stat. 793, 794, 796, related to trial period for Professional Standards Review Organizations, prior to the general revision of this part by Pub. L. 97–248.
 
 #### Amendments
 
@@ -298,7 +298,7 @@ Section 4205(g)(1)(B) of Pub. L. 101–508 provided that: “The amendments made
 
 Section 4205(g)(2)(B) of Pub. L. 101–508 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[Pub. L. 99–272\].”
 
-Section 4207(a)(1)(C), formerly 4027(a)(1)(C), of Pub. L. 101–508, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendment made by subparagraph (A) \[amending section 1395dd of this title\] shall take effect on the first day of the first month beginning more than 60 days after the date of the enactment of this Act \[Nov. 5, 1990\]. The amendment made by subparagraph (B)\[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[this part\] as of the first day of the first month beginning more than 60 days after the date of the enactment of this Act.”
+Section 4207(a)(1)(C), formerly 4027(a)(1)(C), of Pub. L. 101–508, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendment made by subparagraph (A) \[amending section 1395dd of this title\] shall take effect on the first day of the first month beginning more than 60 days after the date of the enactment of this Act \[Nov. 5, 1990\]. The amendment made by subparagraph (B) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[this part\] as of the first day of the first month beginning more than 60 days after the date of the enactment of this Act.”
 
 Section 4358(c) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §172(a), Oct. 31, 1994, 108 Stat. 4452; Pub. L. 104–18, §1, July 7, 1995, 109 Stat. 192, provided that:
 
@@ -366,7 +366,7 @@ Section 9352(c)(2) of Pub. L. 99–509 provided that: “The amendment made by s
 
 Section 9353(a)(6) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4039(h)(9)(A), (B), as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776, provided that:
 
-“(A)(i) Except as provided in clause (ii), the amendments made by paragraph (1) \[amending this section\]shall apply to contracts entered into or renewed on or after January 1, 1987.
+“(A)(i) Except as provided in clause (ii), the amendments made by paragraph (1) \[amending this section\] shall apply to contracts entered into or renewed on or after January 1, 1987.
 
 “(ii) The amendment made by paragraph (1) shall not be construed as requiring, before January 1, 1989, the review of physicians’ services, other than physicians’ services furnished in a hospital, other inpatient facility, ambulatory surgical center, or rural health clinic.
 
@@ -397,10 +397,6 @@ For provisions relating to changes required to conform State regulatory programs
 #### Review and Analysis of Variations in Utilization of Hospital and Other Health Care Services
 
 Section 9353(a)(4) of Pub. L. 99–509 provided that: “The Secretary of Health and Human Services shall provide, to at least 12 utilization and quality control peer review organizations with contracts under part B of title XI of the Social Security Act \[this part\], data and data processing assistance to allow each of these organizations to review and analyze small-area variations, in the service area of the organization, in the utilization of hospital and other health care services for which payment is made under title XVIII of such Act \[subchapter XVIII of this chapter\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320c–1, 1320c–2, 1320c–4, 1320c–7, 1320c–9, 1395u, 1395w–22, 1395cc, 1395ff, 1395mm, 1396r–2 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,7 +14,7 @@ For each plan year for which section 1321 of this title applies to a plan, the p
 
 &emsp;&emsp;&emsp;(ii) the value of the plan's assets as of the end of the plan year;
 
-&emsp;&emsp;(B) a statement certified by the plan sponsor of each claim for outstanding withdrawal liability (within the meaning of section 1301(a)(12) of this title) and its value as ofthe end of that plan year and as of the end of the preceding plan year; and
+&emsp;&emsp;(B) a statement certified by the plan sponsor of each claim for outstanding withdrawal liability (within the meaning of section 1301(a)(12) of this title) and its value as of the end of that plan year and as of the end of the preceding plan year; and
 
 &emsp;&emsp;(C) the number of employers having an obligation to contribute to the plan and the number of employers required to make withdrawal liability payments.
 
@@ -33,10 +33,6 @@ Section 1343(b) of this title, referred to in par. (2), was redesignated section
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1362 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

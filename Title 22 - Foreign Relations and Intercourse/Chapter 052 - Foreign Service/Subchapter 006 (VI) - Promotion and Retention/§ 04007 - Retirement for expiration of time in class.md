@@ -48,7 +48,3 @@ Notwithstanding any other provision of this section—
 
 (Pub. L. 96–465, title I, §607, Oct. 17, 1980, 94 Stat. 2096.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4001, 4002, 4009, 4046, 4071d, 4131, 4136, 4153 of this title.
-

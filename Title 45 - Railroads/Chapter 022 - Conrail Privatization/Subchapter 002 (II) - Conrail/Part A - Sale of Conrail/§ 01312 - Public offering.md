@@ -26,7 +26,7 @@ Any public offering under this section may be made without the consent of the Co
 
 #### (e) Cancellation of other securities held by United States
 
-(1) In consideration for amounts transferred to the United States under section 1311(b) of thistitle, the Secretary of Transportation shall, concurrent with the initial public offering described in subsection (a) of this section, deliver to the Corporation all preferred stock, 7.5 percent debentures, and contingent interest notes of the Corporation. The Corporation shall immediately cancel such debentures, preferred stock, and contingent interest notes, and any interest of the United States in such debentures, preferred stock, and contingent interest notes shall be thereby extinguished.
+(1) In consideration for amounts transferred to the United States under section 1311(b) of this title, the Secretary of Transportation shall, concurrent with the initial public offering described in subsection (a) of this section, deliver to the Corporation all preferred stock, 7.5 percent debentures, and contingent interest notes of the Corporation. The Corporation shall immediately cancel such debentures, preferred stock, and contingent interest notes, and any interest of the United States in such debentures, preferred stock, and contingent interest notes shall be thereby extinguished.
 
 (2) For purposes of regulation by the Commission and State public utility regulation, the actions authorized by this subsection, the public offering, and the value of the consideration received therefor shall not change the value of the Corporation's assets net of depreciation and shall not be used to alter the calculation of the Corporation's stock or asset values, rate base, expenses, costs, returns, profits, or revenues, or otherwise affect or be the basis for a change in the regulation of any railroad service, rate, or practice provided or established by the Corporation, or any change in the financial reporting practice of the Corporation.
 
@@ -40,21 +40,21 @@ The Secretary of Transportation shall ensure that minority owned or controlled i
 
 (2) No investment banking firm which was not in existence on September 1, 1986, shall participate in the public offering.
 
-#### (h) General Accounting Office authority to conduct audits
+#### (h) Government Accountability Office authority to conduct audits
 
-The General Accounting Office may make such audits as may be deemed appropriate by the Comptroller General of the United States of all accounts, books, records, memoranda, correspondence, and other documents and transactions of the Corporation and the co-lead managers associated with the public offering. The co-lead managers shall agree, in writing, to allow the General Accounting Office to make such audits. The General Accounting Office shall report the results of all such audits to the Congress.
+The Government Accountability Office may make such audits as may be deemed appropriate by the Comptroller General of the United States of all accounts, books, records, memoranda, correspondence, and other documents and transactions of the Corporation and the co-lead managers associated with the public offering. The co-lead managers shall agree, in writing, to allow the Government Accountability Office to make such audits. The Government Accountability Office shall report the results of all such audits to the Congress.
 
-(Pub. L. 99–509, title IV, §4012, Oct. 21, 1986, 100 Stat. 1896.)
+(Pub. L. 99–509, title IV, §4012, Oct. 21, 1986, 100 Stat. 1896; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
 This subchapter, referred to in subsec. (f), was in the original “this part” meaning part 2 (§§4011–4038) of subtitle A of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1895, which enacted this subchapter, amended sections 702, 726, 727, 741, 797, 821, 825, 829, 831, 1105, 1115, and 1116 of this title and section 10362 of Title 49, Transportation, repealed sections 761 to 769c, 797<i>l</i>, 825a, 1107, 1110, and 1114 of this title, and enacted provisions set out as a note under section 797 of this title. For complete classification of part 2 to the Code, see Tables.
 
+#### Amendments
+
+2004—Subsec. (h). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and wherever appearing in text.
+
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1303, 1342 of this title.
 

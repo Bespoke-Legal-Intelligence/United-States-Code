@@ -44,7 +44,3 @@ Subsec. (c)(4). Pub. L. 103–272, §5(e)(5)(B), substituted “section 40102(a)
 
 1988—Subsec. (b)(2). Pub. L. 100–690 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is not a violation of section 511 of this title.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 981, 982 of this title.
-

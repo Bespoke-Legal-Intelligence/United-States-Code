@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 &emsp;(9) the term “Trust Fund” means the Morris K. Udall Scholarship and Excellence in National Environmental Policy Trust Fund established in section 5606 of this title.
 
-(Pub. L. 102–259, §4, Mar. 19, 1992, 106 Stat. 78; Pub. L. 105–156, §2, Feb. 11, 1998, 112 Stat. 8; Pub. L. 105–244, title I, §102(a)(6)(I), Oct. 7, 1998, 112 Stat. 1619.)
+(Pub. L. 102–259, §4, Mar. 19, 1992, 106 Stat. 78; Pub. L. 105–156, §2, Feb. 11, 1998, 112 Stat. 8; Pub.L. 105–244, title I, §102(a)(6)(I), Oct. 7, 1998, 112 Stat. 1619.)
 
 #### References in Text
 
@@ -32,7 +32,7 @@ For ratification of Compact of Free Association with the Republic of Palau, refe
 
 Par. (6). Pub. L. 105–156, §2(3), added par. (6). Former par. (6) redesignated (7).
 
-Par. (7). Pub. L. 105–244, which directed the substitution of “section 1001” for “section 1141(a)” in par. (6),was executed by making the substitution in par. (7) to reflect the probable intent of Congress and the redesignation of par. (6) as (7) by Pub. L. 105–156, §2(1). See below.
+Par. (7). Pub. L. 105–244, which directed the substitution of “section 1001” for “section 1141(a)” in par. (6), was executed by making the substitution in par. (7) to reflect the probable intent of Congress and the redesignation of par. (6) as (7) by Pub. L. 105–156, §2(1). See below.
 
 Pub. L. 105–156, §2(1), (4), redesignated par. (6) as (7) and struck out “and” at end. Former par. (7) redesignated (8).
 

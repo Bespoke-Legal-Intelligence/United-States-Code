@@ -4,7 +4,7 @@
 
 (1) For the purpose of consolidating the authorities relating to the various categories of areas that are administered by the Secretary for the conservation of fish and wildlife, including species that are threatened with extinction, all lands, waters, and interests therein administered by the Secretary as wildlife refuges, areas for the protection and conservation of fish and wildlife that are threatened with extinction, wildlife ranges, game ranges, wildlife management areas, or waterfowl production areas are hereby designated as the “National Wildlife Refuge System” (referred to herein as the “System”), which shall be subject to the provisions of this section, and shall be administered by the Secretary through the United States Fish and Wildlife Service. With respect to refuge lands in the State of Alaska, those programs relating to the management of resources for which any other agency of the Federal Government exercises administrative responsibility through cooperative agreement shall remain in effect, subject to the direct supervision of the United States Fish and Wildlife Service, as long as such agency agrees to exercise such responsibility.
 
-(2) The mission of the System is to administer a national network of lands and waters for theconservation, management, and where appropriate, restoration of the fish, wildlife, and plant resources and their habitats within the United States for the benefit of present and future generations of Americans.
+(2) The mission of the System is to administer a national network of lands and waters for the conservation, management, and where appropriate, restoration of the fish, wildlife, and plant resources and their habitats within the United States for the benefit of present and future generations of Americans.
 
 (3) With respect to the System, it is the policy of the United States that—
 
@@ -88,7 +88,7 @@ In administering the System, the Secretary is authorized to take the following a
 
 #### (c) Prohibited and permitted activities; application of mining and mineral leasing laws, hunting or fishing regulations, and State laws or regulations
 
-No person shall disturb, injure, cut, burn, remove, destroy, or possess any real or personal property of the United States, including natural growth, in any area of the System; or take or possess any fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof within any such area; or enter, use, or otherwise occupy any such area for any purpose; unless such activities are performed by persons authorized to manage such area, or unless such activities are permitted either under subsection (d) of this section or by express provision of the law, proclamation, Executive order, or public land order establishing the area, or amendment thereof: <i>Provided</i>, That the United States mining and mineral leasing laws shall continue to apply to any lands within the System to the same extent they apply prior to October 15, 1966, unless subsequently withdrawn under other authority of law. With the exception of endangered species and threatened species listed by the Secretary pursuant to section 1533 of this title in States wherein a cooperative agreement does not exist pursuant to section 1535(c) of this title, nothing in this Act shall be construed to authorize the Secretary to control or regulate hunting or fishing of resident fish and wildlife on lands not within the system. The regulations permitting hunting and fishing of resident fish and wildlife within the System shall be, to the extent practicable, consistent with State fish and wildlife laws and regulations.
+No person shall disturb, injure, cut, burn, remove, destroy, or possess any real or personal property of the United States, including natural growth, in any area of the System; or take or possess any fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof within any such area; or enter, use, or otherwise occupy any such area for any purpose; unless such activities are performed by persons authorized to manage such area, or unless such activities are permitted either under subsection (d) of this section or by express provision of the law, proclamation, Executive order, or public land order establishing the area, or amendment thereof: <i>Provided</i>, That the United States mining and mineral leasinglaws shall continue to apply to any lands within the System to the same extent they apply prior to October 15, 1966, unless subsequently withdrawn under other authority of law. With the exception of endangered species and threatened species listed by the Secretary pursuant to section 1533 of this title in States wherein a cooperative agreement does not exist pursuant to section 1535(c) of this title, nothing in this Act shall be construed to authorize the Secretary to control or regulate hunting or fishing of resident fish and wildlife on lands not within the system. The regulations permitting hunting and fishing of resident fish and wildlife within the System shall be, to the extent practicable, consistent with State fish and wildlife laws and regulations.
 
 #### (d) Use of areas; administration of migratory bird sanctuaries as game taking areas; rights of way, easements, and reservations; payment of fair market value
 
@@ -120,7 +120,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 &emsp;(v) provide for the expedited consideration of uses that will likely have no detrimental effect on the fulfillment of the purposes of a refuge or the mission of the System;
 
-&emsp;(vi) provide for the elimination or modification of any use as expeditiously as practicable after a determination is made that the use is not a compatible use;
+&emsp;(vi) provide for the elimination or modification of any use as expeditiously as practicableafter a determination is made that the use is not a compatible use;
 
 &emsp;(vii) require, after an opportunity for public comment, reevaluation of each existing use, other than those uses specified in clause (viii), if conditions under which the use is permitted change significantly or if there is significant new information regarding the effects of the use, but not less frequently than once every 10 years, to ensure that the use remains a compatible use, except that, in the case of any use authorized for a period longer than 10 years (such as an electric utility right-of-way), the reevaluation required by this clause shall examine compliance with the terms and conditions of the authorization, not examine the authorization itself;
 
@@ -174,7 +174,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 &emsp;(B) coordinate the development of the conservation plan or revision with relevant State conservation plans for fish and wildlife and their habitats.
 
-(4)(A) In accordance with subparagraph (B), the Secretary shall develop and implement a process to ensure an opportunity for active public involvement in the preparation and revision of comprehensive conservation plans under this subsection. At a minimum, the Secretary shall require that publication of any final plan shall include a summary of the comments made by States, owners of adjacent or potentially affected land, local governments, and any other affected persons, and a statement of the disposition of concerns expressed in those comments.
+(4)(A) In accordance with subparagraph (B), the Secretary shall develop and implement a process to ensure an opportunity for active public involvement in the preparation and revision of comprehensive conservation plans under this subsection. At a minimum, the Secretary shall require that publication of any final plan shallinclude a summary of the comments made by States, owners of adjacent or potentially affected land, local governments, and any other affected persons, and a statement of the disposition of concerns expressed in those comments.
 
 (B) Prior to the adoption of each comprehensive conservation plan under this subsection, the Secretary shall issue public notice of the draft proposed plan, make copies of the plan available at the affected field and regional offices of the United States Fish and Wildlife Service, and provide opportunity for public comment.
 
@@ -236,7 +236,7 @@ Coordination with State fish and wildlife agency personnel or with personnel of 
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, which enacted sections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715<i>l</i>, 715m of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, which enactedsections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715<i>l</i>, 715m of this title. For complete classification of this Act to the Code, see Tables.
 
 The United States mining laws and mineral leasing laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
 
@@ -352,7 +352,7 @@ Section 12(f) of Pub. L. 91–135, Dec. 5, 1969, 83 Stat. 283, provided that: �
 
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with approval to cross national wildlife refuges under sections 668dd and 668ee of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of FederalInspector note under section 719e of Title 15, Commerce and Trade.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with approval to cross national wildlife refuges under sections 668dd and 668ee of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 #### National Wildlife Refuge System Centennial
 
@@ -622,7 +622,7 @@ Section 2 of Pub. L. 105–57 provided that: “The Congress finds the following
 
 &emsp;“(5) The System includes lands purchased not only through the use of tax dollars but also through the proceeds from sales of Duck Stamps and national wildlife refuge entrance fees. It is a System that is financially supported by those benefiting from and utilizing it.
 
-&emsp;“(6) When managed in accordance with principles of sound fish and wildlife management and administration, fishing, hunting, wildlife observation, and environmental education in national wildlife refuges havebeen and are expected to continue to be generally compatible uses.
+&emsp;“(6) When managed in accordance with principles of sound fish and wildlife management and administration, fishing, hunting, wildlife observation, and environmental education in national wildlife refuges have been and are expected to continue to be generally compatible uses.
 
 &emsp;“(7) On March 25, 1996, the President issued Executive Order 12996 \[set out below\], which recognized ‘compatible wildlife-dependent recreational uses involving hunting, fishing, wildlife observation and photography, and environmental education and interpretation as priority public uses of the Refuge System’.
 
@@ -746,7 +746,7 @@ Columbia National Wildlife Refuge, Washington.—Pub. L. 106–291, title I, §1
 
 Cossatot National Wildlife Refuge, Arkansas.—Pub. L. 104–333, div. I, title III, §305(h), Nov. 12, 1996, 110 Stat. 4130.
 
-Desert National Wildlife Range, Nevada.—Pub. L. 107–282, title III, §301, Nov. 6, 2002, 116 Stat. 2006.
+Desert National Wildlife Range, Nevada.—Pub. L. 107–282, title III, §301, Nov. 6, 2002, 116 Stat. 2006; Pub. L. 108–424, title VI, §601, Nov. 30, 2004, 118 Stat. 2419.
 
 Detroit River International Wildlife Refuge (former Wyandotte National Wildlife Refuge), Michigan.—Pub. L. 87–119, Aug. 3, 1961, 75 Stat. 243; Pub. L. 107–91, Dec. 21, 2001, 115 Stat. 894; Pub. L. 108–23, May 19, 2003, 117 Stat. 704.
 
@@ -756,6 +756,8 @@ Edwin B. Forsythe National Wildlife Refuge, New Jersey.—Pub. L. 98–293, May 
 
 Egmont Key National Wildlife Refuge, Florida.—Pub. L. 93–341, July 10, 1974, 88 Stat. 295.
 
+Ernest F. Hollings ACE Basin National Wildlife Refuge, South Carolina.—Pub. L. 108–447, div. E, title I, §137, Dec. 8, 2004, 118 Stat. 3068.
+
 Flattery Rocks National Wildlife Refuge, Washington.—Ex. Ord. No. 703, Oct. 23, 1907; Proc. No. 2416, July 25, 1940, 54 Stat. 2717; Pub. L. 100–226, §3, Dec. 31, 1987, 101 Stat. 1550.
 
 Grays Harbor National Wildlife Refuge, Washington.—Pub. L. 100–406, Aug. 19, 1988, 102 Stat. 1041.
@@ -763,6 +765,8 @@ Grays Harbor National Wildlife Refuge, Washington.—Pub. L. 100–406, Aug. 19,
 Great Dismal Swamp National Wildlife Refuge, Virginia and North Carolina.—Pub. L. 93–402, Aug. 30, 1974, 88 Stat. 801.
 
 Hart Mountain National Antelope Refuge, Oregon.—Pub. L. 105–321, §4(a)–(d), Oct. 30, 1998, 112 Stat. 3023.
+
+Holt Collier National Wildlife Refuge (former Bogue Phalia Unit of the Yazoo National Wildlife Refuge), Mississippi.—Pub. L. 108–199, div. H, §145(g)(1), Jan. 23, 2004, 118 Stat. 444.
 
 Humboldt Bay National Wildlife Refuge, California.—Pub. L. 96–290, §2, June 28, 1980, 94 Stat. 607; Pub. L. 107–130, Jan. 16, 2002, 115 Stat. 2409.
 
@@ -777,6 +781,8 @@ John Heinz National Wildlife Refuge at Tinicum (former Tinicum National Environm
 Kanuti National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(4), Dec. 2, 1980, 94 Stat. 2386.
 
 Kenai National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, §303(4), Dec. 2, 1980, 94 Stat. 2391; Pub. L. 104–333, div. I, title III, §311(d)(3), Nov. 12, 1996, 110 Stat. 4142.
+
+Kilauea Point National Wildlife Refuge, Hawaii.–Pub. L. 108–481, Dec. 23, 2004, 118 Stat. 3910.
 
 Klamath Marsh National Wildlife Refuge, Oregon.—Act Aug. 13, 1954, ch. 732, §28, as added Pub. L. 85–731, §1, Aug. 23, 1958, 72 Stat. 816; amended Pub. L. 86–247, Sept. 9, 1959, 73 Stat. 477; Pub. L. 105–312, title II, §205, Oct. 30, 1998, 112 Stat. 2957; Pub. L. 105–321, §4(e), Oct. 30, 1998, 112 Stat. 3025.
 
@@ -847,6 +853,10 @@ Stillwater National Wildlife Refuge, Nevada.—Pub. L. 101–618, title II, §20
 Tensas River National Wildlife Refuge, Louisiana.—Pub. L. 96–285, June 28, 1980, 94 Stat. 595; Pub. L. 99–191, §2, Dec. 19, 1985, 99 Stat. 1327; Pub. L. 104–253, §1, Oct. 9, 1996, 110 Stat. 3167.
 
 Tetlin National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(8), Dec. 2, 1980, 94 Stat. 2388.
+
+Theodore Roosevelt National Wildlife Refuge, Mississippi.—Pub. L. 108–199, div. H, §145, Jan. 23, 2004, 118 Stat. 443.
+
+Theodore Roosevelt National Wildlife Refuge Complex (former Central Mississippi National Wildlife Refuge Complex), Mississippi.—Pub. L. 108–199, div. H, §145(g)(2), Jan. 23, 2004, 118 Stat. 444.
 
 Togiak National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §303(6), Dec. 2, 1980, 94 Stat. 2392.
 
@@ -919,8 +929,4 @@ Sec. 3. <i>Directives to the Secretary of the Interior</i>. To the extent consis
 Sec. 4. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410hhh–4, 459j–4, 668ee, 742f, 3125, 3212, 5207 of this title; title 23 section 204; title 43 section 1714.
 

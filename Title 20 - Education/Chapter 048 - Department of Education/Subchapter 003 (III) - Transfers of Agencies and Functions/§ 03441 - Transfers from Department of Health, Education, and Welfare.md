@@ -142,7 +142,3 @@ Gallaudet College, referred to in subsec. (a)(2)(M), redesignated Gallaudet Univ
 
 Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3413, 3417 of this title.
-

@@ -114,7 +114,7 @@ Local currencies that are made available for use under this chapter may not be u
 
 &emsp;A sale described in paragraph (1) may be made in United States dollars or other currencies.
 
-(July 10, 1954, ch. 469, title IV, §403, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(3), Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, §1(17), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 95–113, title XII, §1206, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–533, title IV, §407, Dec. 16, 1980, 94 Stat. 3151; Pub. L. 97–98, title XII, §1214, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3646; Pub. L. 102–237, title III, §321, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, §213, Apr. 4, 1996, 110 Stat. 956; Pub. L.107–171, title III, §3009(a), May 13, 2002, 116 Stat. 283.)
+(July 10, 1954, ch. 469, title IV, §403, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(3), Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, §1(17), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 95–113, title XII, §1206, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–533, title IV, §407, Dec. 16, 1980, 94 Stat. 3151; Pub. L. 97–98, title XII, §1214, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3646; Pub. L. 102–237, title III, §321, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, §213, Apr. 4, 1996, 110 Stat. 956; Pub. L. 107–171, title III, §3009(a), May 13, 2002, 116 Stat. 283.)
 
 #### References in Text
 
@@ -169,8 +169,4 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 #### Delegation of Functions
 
 Functions of President under subsec. (j) of this section delegated to Secretary of State by section 4(b) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1431, 1736<i>o</i>, 1736<i>o</i>–1 of this title; title 46 App. section 1241h.
 

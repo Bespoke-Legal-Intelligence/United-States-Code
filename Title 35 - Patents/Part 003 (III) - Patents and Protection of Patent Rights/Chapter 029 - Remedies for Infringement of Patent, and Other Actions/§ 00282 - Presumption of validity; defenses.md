@@ -76,7 +76,3 @@ Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and aft
 
 Amendment by Pub. L. 89–83 effective 3 months after July 24, 1965, see section 7(a) of Pub. L. 89–83, set out as a note under section 41 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 157, 294 of this title.
-

@@ -10,7 +10,7 @@ No payment shall be made under this chapter with respect to any experimental, pi
 
 1984—Pub. L. 98–369 substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-1982—Pub. L. 97–375 struck out subsec. (b) which directed the Secretary to submit an annual report to Congress describing each project approved under former subsec. (a) of this section during the preceding year, including the purpose, probable cost, and expected duration of each project, and struck out “(a)” before “No payment”.
+1982—Pub. L. 97–375 struck out subsec. (b) which directed the Secretary to submit an annual report toCongress describing each project approved under former subsec. (a) of this section during the preceding year, including the purpose, probable cost, and expected duration of each project, and struck out “(a)” before “No payment”.
 
 1975—Subsec. (b). Pub. L. 93–608 substituted provisions relating to an annual submission of the required report to the Congress by the Secretary for each approved project, for provisions relating to submission of the report as soon as possible after approval.
 

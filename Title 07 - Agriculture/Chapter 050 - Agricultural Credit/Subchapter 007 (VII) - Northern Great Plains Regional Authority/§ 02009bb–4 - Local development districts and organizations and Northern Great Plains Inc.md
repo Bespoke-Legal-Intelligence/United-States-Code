@@ -74,7 +74,7 @@ A local development district shall—
 
 #### (d) Northern Great Plains Inc.
 
-Northern Great Plains Inc., a nonprofit corporation incorporated in the State of Minnesota to implement the recommendations of the Northern Great Plains Rural Development Commission established by the Northern Great Plains Rural Development Act (7 U.S.C. 2661 note; Public Law 103–318)—
+Northern Great Plains Inc., a nonprofit corporation incorporated in the State of Minnesotato implement the recommendations of the Northern Great Plains Rural Development Commission established by the Northern Great Plains Rural Development Act (7 U.S.C. 2661 note; Public Law 103–318)—
 
 &emsp;(1) shall serve as an independent, primary resource for the Authority on issues of concern to the region;
 
@@ -85,8 +85,4 @@ Northern Great Plains Inc., a nonprofit corporation incorporated in the State of
 &emsp;(4) may carry out other activities on its own behalf or on behalf of other entities.
 
 (Pub. L. 87–128, title III, §383E, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 382.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009bb–5 of this title.
 

@@ -2,10 +2,6 @@ Part B—1998
 
 Distribution Authority
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1300d–3, 1300d–4 of this title.
-
 
 ---
 

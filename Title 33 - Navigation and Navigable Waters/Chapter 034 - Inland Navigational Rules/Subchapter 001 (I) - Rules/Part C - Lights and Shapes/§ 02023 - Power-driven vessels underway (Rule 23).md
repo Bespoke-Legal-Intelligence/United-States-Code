@@ -26,6 +26,10 @@ A power-driven vessel when operating on the Great Lakes may carry an all-round w
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3424; Pub. L. 104–324, title VII, §701(3), Oct. 19, 1996, 110 Stat. 3932.)
 
+#### Repeal of Section
+
+<i>Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that this section is repealed effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 2071 of this title.</i>
+
 #### Codification
 
 Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the Inland Navigational Rules which comprise this subchapter.
@@ -33,8 +37,4 @@ Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the I
 #### Amendments
 
 1996—Par. (a)(i). Pub. L. 104–324, which directed the striking out of “except that a vessel of less than 20 meters in length need not exhibit this light forward of amidships but shall exhibit it as far forward as is practicable;” after “masthead light forward”, was executed by striking out that language, which appeared after “masthead light forward;” to reflect the probable intent of Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2020, 2024, 2027, 2031, 2038 of this title.
 

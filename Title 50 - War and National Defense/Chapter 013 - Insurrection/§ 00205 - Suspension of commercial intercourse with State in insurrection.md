@@ -8,7 +8,3 @@ Whenever the President, in pursuance of the provisions of this chapter, has call
 
 R.S. §5301 derived from acts July 13, 1861, ch. 3, §5, 12 Stat. 257; July 31, 1861, ch. 32, 12 Stat. 284.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 206, 223 of this title.
-

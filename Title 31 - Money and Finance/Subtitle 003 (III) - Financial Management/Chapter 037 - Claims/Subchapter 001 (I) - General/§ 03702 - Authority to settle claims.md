@@ -138,7 +138,7 @@ Subsec. (e)(2). Pub. L. 107–314, §635(b)(2), substituted “under subsection 
 
 2000—Subsec. (a)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title VI, §664(a)\], inserted “payments for unused accrued leave,” after “transportation,”.
 
-Subsec. (e)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §664(b)\], substituted “claim for pay, allowances, or payment for unused accrued leave under title 37 or a claimfor retired pay under title 10” for “claim for pay or allowances provided under title 37”.
+Subsec. (e)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §664(b)\], substituted “claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10” for “claim for pay or allowances provided under title 37”.
 
 1997—Subsec. (e)(1). Pub. L. 105–85, §1012(1), substituted “Secretary of Defense” for “Comptroller General”.
 
@@ -177,8 +177,4 @@ Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set ou
 #### Regulations
 
 For provision permitting Secretary of the Treasury to prescribe rules, regulations, and procedures as necessary to implement amendment by section 1004(b) of Pub. L. 100–86, including recertification of Treasury checks which have been canceled or for which a claim has been asserted or barred, see section 1005 of Pub. L. 100–86, set out as a note under section 3328 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3328, 3712 of this title; title 16 section 831h.
 

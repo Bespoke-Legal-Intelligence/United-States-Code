@@ -20,7 +20,7 @@ Services provided pursuant to this section may be provided directly by the recip
 
 #### (1) Approval
 
-&emsp;Promptly upon receipt of any application for assistance under this part that includes the provision of outpatient health services, the Secretary of Housing and Urban Development shall consult with the Secretary of Health and Human Services with respect to the proposed outpatient health services. If, within 45 days of such consultation, the Secretary of Health and Human Services determines that the proposal for delivery of the outpatient health services does not meet guidelines for determining the appropriateness of such proposed services, the Secretary of Housing and Urban Development may require resubmission of the application, and the Secretary of Housing and Urban Development may not approve such portion of the application unless and until such portion has been resubmitted in a form that the Secretary of Health and Human Services determines meets such guidelines.
+&emsp;Promptly upon receipt of any application for assistance under this part that includes the provision of outpatient health services, the Secretary of Housing and Urban Development shall consult with the Secretary of Health and Human Services with respect to the proposed outpatient health services. If, within 45 days of such consultation, the Secretary of Health and Human Services determines that the proposal for delivery of the outpatient health services does not meet guidelines for determining the appropriateness of such proposed services, the Secretary of Housing and Urban Development may require resubmission of the application, and the Secretary of Housing and Urban Development may not approve such portion of the application unless and until such portion has been resubmitted in a formthat the Secretary of Health and Human Services determines meets such guidelines.
 
 #### (2) Guidelines
 
@@ -31,8 +31,4 @@ Services provided pursuant to this section may be provided directly by the recip
 #### Prior Provisions
 
 A prior section 11385, Pub. L. 100–77, title IV, §425, July 22, 1987, 101 Stat. 503; Pub. L. 100–628, title IV, §452, Nov. 7, 1988, 102 Stat. 3235; Pub. L. 101–625, title VIII, §833(k)(3), Nov. 28, 1990, 104 Stat. 4365, required recipients of assistance under supportive housing demonstration program to obtain an equal amount of funding from non-Federal sources, prior to repeal by Pub. L. 102–550, §1403(a).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11382, 11389 of this title.
 

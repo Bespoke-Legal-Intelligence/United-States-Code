@@ -20,7 +20,3 @@ The Secretary may not provide financial assistance under subsection (a) of this 
 
 1992—Subsec. (a). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300ee–34 of this title.
-

@@ -2,7 +2,7 @@
 
 (a) This section applies to any person who alleges that—
 
-&emsp;(1) the reemployment of such person by an agency referred to in subsection (a) of section4315 was not in accordance with procedures for the reemployment of such person under subsection (b) of such section; or
+&emsp;(1) the reemployment of such person by an agency referred to in subsection (a) of section 4315 was not in accordance with procedures for the reemployment of such person under subsection (b) of such section; or
 
 &emsp;(2) the failure of such agency to reemploy the person under such section was otherwise wrongful.
 
@@ -33,8 +33,4 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 #### Effective Date
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that provisions necessary for implementation of section 4311 of this title are effective Oct. 13, 1994, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4315 of this title.
 

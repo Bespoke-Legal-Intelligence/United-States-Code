@@ -24,7 +24,3 @@ If, under any other provision of this chapter (other than subchapter I), funds a
 
 (Pub. L. 89–10, title IX, §9601, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1985.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1226c, 6434, 6435, 7253e of this title.
-

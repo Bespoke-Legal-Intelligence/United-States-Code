@@ -20,7 +20,3 @@ The authority of subsection (b) of this section may be exercised only to the ext
 
 1994—Pub. L. 103–236 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 277d–17, 277d–22, 277d–24, 277d–25 of this title.
-

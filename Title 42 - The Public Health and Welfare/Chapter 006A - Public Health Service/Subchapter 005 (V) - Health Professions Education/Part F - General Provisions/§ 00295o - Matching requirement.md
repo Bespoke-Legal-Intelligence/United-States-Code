@@ -10,5 +10,5 @@ A prior section 295<i>o</i>, act July 1, 1944, ch. 373, title VII, §798, as add
 
 A prior section 798 of act July 1, 1944, was classified to section 295h–7 of this title prior to the general amendment of this subchapter by Pub. L. 102–408.
 
-Another prior section 798 of act July 1, 1944, was classified to section 295h–7 of this title prior to the general amendment of part G of this subchapter by Pub. L. 94–484.
+Another prior section 798 of act July 1, 1944, was classified to section 295h–7 of this title prior to the generalamendment of part G of this subchapter by Pub. L. 94–484.
 

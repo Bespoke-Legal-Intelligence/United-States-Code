@@ -22,7 +22,7 @@ The principal office of the Administrator shall be in the District of Columbia, 
 
 #### (e) Study of effects of foreign production on unemployment; report to President and Congress
 
-Whenever the Secretary has reason to believe that in any industry under this chapter the competition of foreign producers in United States markets or in markets abroad, or both, has resulted, or is likely to result, in increased unemployment in the United States, he shall undertake an investigation to gain full information with respect to the matter. If he determines such increased unemployment has in fact resulted, or is in fact likely to result, from such competition, he shall make a full and complete report of his findings and determinations to the President and to the Congress: <i>Provided</i>, That he may also include in such report information on the increased employment resulting from additional exports in any industry under this chapter as he may determine to be pertinent to such report.
+Whenever the Secretary has reason to believe that in any industry under this chapter the competition of foreign producers in United States markets or in markets abroad, or both, has resulted, or is likely to result, in increased unemployment in the United States, he shall undertake an investigation to gain full informationwith respect to the matter. If he determines such increased unemployment has in fact resulted, or is in fact likely to result, from such competition, he shall make a full and complete report of his findings and determinations to the President and to the Congress: <i>Provided</i>, That he may also include in such report information on the increased employment resulting from additional exports in any industry under this chapter as he may determine to be pertinent to such report.
 
 #### (f) Employees of Library of Congress; administration of provisions by Office of Personnel Management
 
@@ -82,7 +82,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Transfer of Functions
 
-Functions relating to enforcement and administration of equal pay provisions vested by subsecs. (d)(1) and (f) of this section in Secretary of Labor and CivilService Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+Functions relating to enforcement and administration of equal pay provisions vested by subsecs. (d)(1) and (f) of this section in Secretary of Labor and Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 “Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (f), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—COMMUNITY DEVELOPMENT BANKING AND FINANCIAL INSTITUTIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 15 section 6908.
-
 
 ---
 

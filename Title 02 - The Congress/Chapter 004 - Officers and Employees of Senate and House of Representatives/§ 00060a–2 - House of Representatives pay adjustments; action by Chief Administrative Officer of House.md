@@ -30,7 +30,7 @@ In subsec. (b), “sections 1341, 1342, and 1349–1351 and subchapter II of cha
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–186, §204(1)(A), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–186, §204(1)(A), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 104–186, §204(1)(D), substituted “Chief Administrative Officer” for “Clerk” in concluding provisions.
 
@@ -50,9 +50,9 @@ Subsec. (b). Pub. L. 104–186, §204(1)(F), substituted “Chief Administrative
 
 Subsec. (d). Pub. L. 104–186, §204(1)(G), substituted “Chief Administrative Officer” for “Clerk of the House of Representatives”.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–378 inserted “of title 5” after “section 5303”.
+1992—Subsec. (a). Pub. L. 102–378 inserted “of title 5” after “section 5303”.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(4)(F)(i)\], substituted “(a) Whenever an adjustment under section 5303 becomes effective with respect to rates of pay under the General Schedule,” for “(a) Whenever a pay adjustment by the President under section 5305 of title 5 is made effective pursuant to subsection (a)(2), or subsections (c) to (m), inclusive, as the case may be, of such section 5305, or section 3(c) of this Act, then”.
+1990—Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(4)(F)(i)\], substituted “(a) Whenever an adjustment under section 5303 becomes effective with respect to rates of pay under the General Schedule,” for “(a) Whenever a pay adjustment by the President under section 5305 of title 5 is made effective pursuant to subsection (a)(2), or subsections (c) to (m), inclusive, as the case may be, of such section 5305, or section 3(c) of this Act, then”.
 
 Subsec. (a)(1). Pub. L. 101–509, §529 \[title I, §101(b)(10)\], made technical correction to Pub. L. 92–298 and Pub. L. 92–392, see 1972 Amendment note below.
 
@@ -60,11 +60,11 @@ Pub. L. 101–509, §529 \[title I, §101(b)(4)(F)(iii)\], in closing provisions
 
 Subsec. (a)(1)(A). Pub. L. 101–509, §529 \[title I, §101(b)(4)(F)(ii)\], substituted “adjustment)” for “pay adjustment by the President)”.
 
-<b>1972</b>—Subsec. (a)(1). Pub. L. 92–298 and Pub. L. 92–392, as amended by Pub. L. 101–509, §529 \[title I, §101(b)(10)\], made identical substitutions in introductory provisions of “effective on the first day of the month in which such pay adjustments by the President” for “effective at the beginning of the first pay period commencing on or after the day on which such pay adjustment by the President”.
+1972—Subsec. (a)(1). Pub. L. 92–298 and Pub. L. 92–392, as amended by Pub. L. 101–509, §529 \[title I, §101(b)(10)\], made identical substitutions in introductory provisions of “effective on the first day of the month in which such pay adjustments by the President” for “effective at the beginning of the first pay period commencing on or after the day on which such pay adjustment by the President”.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1972 Amendment
 

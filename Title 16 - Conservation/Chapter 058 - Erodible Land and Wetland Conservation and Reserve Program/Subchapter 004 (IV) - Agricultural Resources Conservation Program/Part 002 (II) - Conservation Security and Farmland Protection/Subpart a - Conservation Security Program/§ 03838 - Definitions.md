@@ -100,7 +100,3 @@ A prior section 3838, Pub. L. 99–198, title XII, §1238, as added Pub. L. 101�
 
 Pub. L. 107–171, title II, §2001(b), May 13, 2002, 116 Stat. 233, provided that: “Not later than 270 days after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall promulgate regulations implementing the amendment made by subsection (a) \[enacting this subpart\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3844 of this title.
-

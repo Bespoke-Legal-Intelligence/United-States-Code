@@ -26,7 +26,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(7) The term “multifamily property” means—
 
-&emsp;&emsp;(A) in the case of housing for Federal employees or their dependents, a residential building consisting of more than 2 residential units that are under one roof; and
+&emsp;&emsp;(A) in the case of housing for Federal employees or their dependents, a residentialbuilding consisting of more than 2 residential units that are under one roof; and
 
 &emsp;&emsp;(B) in any other case, a residential building consisting of more than 4 residential units that are under one roof.
 

@@ -28,7 +28,7 @@
 
 (2) The Secretary, in consultation with the Administrator of General Services where appropriate, may permit a Federal fleet to acquire a smaller percentage than is required in paragraph (1), so long as the aggregate percentage acquired by all Federal fleets is at least equal to the required percentage.
 
-(3) For purposes of this subsection, the term “Federal fleet” means 20 or more light duty motor vehicles, located in a metropolitan statistical area or consolidated metropolitan statistical area, as established by the Bureau of the Census, with a 1980 population of more than 250,000, that are centrally fueled or capable of being centrally fueled and are owned, operated, leased, or otherwise controlled by or assigned to any Federal executive department, military department, Government corporation, independentestablishment, or executive agency, the United States Postal Service, the Congress, the courts of the United States, or the Executive Office of the President. Such term does not include—
+(3) For purposes of this subsection, the term “Federal fleet” means 20 or more light duty motor vehicles, located in a metropolitan statistical area or consolidated metropolitan statistical area, as established by the Bureau of the Census, with a 1980 population of more than 250,000, that are centrally fueled or capable of being centrally fueled and are owned, operated, leased, or otherwise controlled by or assigned to any Federal executive department, military department, Government corporation, independent establishment, or executive agency, the United States Postal Service, the Congress, the courts of the United States, or the Executive Office of the President. Such term does not include—
 
 &emsp;(A) motor vehicles held for lease or rental to the general public;
 
@@ -62,7 +62,7 @@ There are authorized to be appropriated for carrying out this section, such sums
 
 #### Executive Order No. 12844
 
-Ex. Ord. No. 12844, Apr. 21, 1993, 58 F.R. 21885, as amended by Ex. Ord. No. 12974, §3(b), Sept. 29, 1995, 60 F.R. 51876, which required the Federal Government to institute a Federal fleet vehicle acquisition program and established the Federal Fleet Conversion Task Force to advise on implementation of the program, was revoked by Ex. Ord. No. 13031, §9, Dec. 13, 1996, 61 F.R. 66531, formerly set out below.
+Ex. Ord. No. 12844, Apr. 21, 1993, 58 F.R. 21885, as amended by Ex. Ord. No. 12974, §3(b), Sept. 29, 1995, 60 F.R. 51876, which required the Federal Government to institute a Federal fleet vehicle acquisition program and established the Federal Fleet Conversion TaskForce to advise on implementation of the program, was revoked by Ex. Ord. No. 13031, §9, Dec. 13, 1996, 61 F.R. 66531, formerly set out below.
 
 #### Executive Order No. 13031
 
@@ -96,7 +96,7 @@ Sec. 301. <i>Leadership Responsibilities</i>. The Office of Management and Budge
 
 &emsp;(1) designate a senior official to assume the responsibility for coordinating the collection of agency budget and data submissions pursuant to this order;
 
-&emsp;(2) amend and issue budget guidance to the agencies that requires each agency to identify in its annualbudget submission the funding necessary to meet the requirements of this order;
+&emsp;(2) amend and issue budget guidance to the agencies that requires each agency to identify in its annual budget submission the funding necessary to meet the requirements of this order;
 
 &emsp;(3) review annual agency budget submissions to determine adequacy in meeting the goal of this order and to balance requests for increased funding to support achievement of the goals against other mission priorities for the agency; and
 
@@ -128,7 +128,7 @@ Sec. 301. <i>Leadership Responsibilities</i>. The Office of Management and Budge
 
 &emsp;(2) Within 120 days of this order, the Administrator of GSA, in consultation with other agencies, shall:
 
-&emsp;&emsp;(A) provide a summary of agency AFV acquisition plans to potential AFV manufacturers to assist in their production planning. At least 4 months in advance of agency vehicle ordering cycles, GSA must provide to agencies the best available information on the production plans of AFV manufacturers;
+&emsp;&emsp;(A) provide a summary of agency AFV acquisition plans to potential AFV manufacturers to assist intheir production planning. At least 4 months in advance of agency vehicle ordering cycles, GSA must provide to agencies the best available information on the production plans of AFV manufacturers;
 
 &emsp;&emsp;(B) develop, in coordination with DOE and EPA, methods that will help Federal fleet managers to select vehicles to improve fleet fuel efficiency and to meet Tier 2 vehicle standards; and
 
@@ -170,7 +170,7 @@ Sec. 403. <i>Procurement of Environmentally Preferable Motor Vehicle Products.</
 
 (a) Consistent with Executive Order 13101 \[42 U.S.C. 6961 note\] and section 6002 of the Resource Conservation and Recovery Act (RCRA), 42 U.S.C. 6962, effective 6 months after the date of this order, no Federal agency shall purchase, sell, or arrange for the purchase of virgin petroleum motor vehicle lubricating oils when re-refined motor vehicle lubricating oils are reasonably available and meet the vehicle manufacturer's recommended performance standards.
 
-(b) Consistent with Executive Order 13101 and RCRA section 6962, in acquiring and maintaining motor vehicles, agencies shall acquire and use United States EPA-designated Comprehensive Procurement Guideline items, including but not limited to retread tires, when such products are reasonably available and meet applicable performance standards. In addition, Federal agencies should consider acquiring other recycled contentproducts, such as tires containing a minimum of 5–10 percent post-consumer recovered rubber.
+(b) Consistent with Executive Order 13101 and RCRA section 6962, in acquiring and maintaining motor vehicles, agencies shall acquire and use United States EPA-designated Comprehensive Procurement Guideline items, including but not limited to retread tires, when such products are reasonably available and meet applicable performance standards. In addition, Federal agencies should consider acquiring other recycled content products, such as tires containing a minimum of 5–10 percent post-consumer recovered rubber.
 
 (c) Consistent with Executive Order 13101, Federal agencies are encouraged to use biobased motor vehicle products when such products are reasonably available and meet applicable performance standards.
 
@@ -190,13 +190,9 @@ Sec. 506. <i>Exemptions for Military Tactical, Law Enforcement, and Emergency Ve
 
 Sec. 507. <i>Compliance</i>. (a) If an agency fails to meet requirements of the Energy Policy Act of 1992 or this order, its report to the DOE and OMB under section 302(c) must include an explanation for such failure and an updated strategy for achieving compliance using the agency's current and requested budgets.
 
-(b) OMB, in consultation with DOE, may modify the compliance requirements for an agency under Part 2 of this order, if the agency is unable to comply with the requirements of that part. An agency requesting modification must show that it has made substantial good faith efforts to comply with that part. The availability and costs of alternative fuels and AFVs can be a factor in OMB's decision to modify the agency's compliance with Part 2 of this order.
+(b) OMB, in consultation with DOE, may modify the compliance requirements for an agency under Part 2 of this order, if the agency is unable to comply with the requirements of that part. An agency requesting modification must show that it has made substantial good faith efforts to comply with that part. The availability and costs of alternative fuels and AFVs can be a factorin OMB's decision to modify the agency's compliance with Part 2 of this order.
 
 Sec. 508. <i>Definitions</i>. Terms used in this order shall have the same definitions as those in the Energy Policy Act of 1992 \[see 42 U.S.C. 13211\] and Executive Order 13101 \[42 U.S.C. 6961 note\], unless specifically changed in guidance to be issued by DOE under section 301(b) of this order.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6374, 13213, 13214 of this title.
 

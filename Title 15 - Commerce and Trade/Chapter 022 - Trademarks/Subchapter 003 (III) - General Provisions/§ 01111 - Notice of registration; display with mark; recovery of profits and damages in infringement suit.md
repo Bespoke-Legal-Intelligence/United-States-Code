@@ -28,7 +28,3 @@ Section 4 of Pub. L. 93–596 provided that: “This Act \[amending this section
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1117 of this title.
-

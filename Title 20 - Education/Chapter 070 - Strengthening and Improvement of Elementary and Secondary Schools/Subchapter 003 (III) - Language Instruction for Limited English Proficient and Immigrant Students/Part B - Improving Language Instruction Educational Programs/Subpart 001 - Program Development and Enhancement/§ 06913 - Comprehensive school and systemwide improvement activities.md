@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) aligning the activities carried out under this section with State and local school reform efforts;
 
-&emsp;&emsp;(C) providing training, aligned with State and local standards, to school personnel and participating community-based organization personnel to improve the instruction and assessment of limited English proficient children;
+&emsp;&emsp;(C) providing training, aligned with State and local standards, to school personnel andparticipating community-based organization personnel to improve the instruction and assessment of limited English proficient children;
 
 &emsp;&emsp;(D) developing and implementing plans, coordinated with plans for programs carried out under title II of the Higher Education Act of 1965 \[20 U.S.C. 1021 et seq.\] (where applicable), and subchapter II of this chapter (where applicable), to recruit teachers trained to serve limited English proficient children;
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;(A) not less than one-third of the remainder shall be used to award grants to eligible entities for activities carried out within an entire school district; and
 
-&emsp;&emsp;(B) not less than two-thirds of the remainder shall be used to award grants to eligible entities for activities carried out within individual schools.
+&emsp;&emsp;(B) not less than two-thirds of the remainder shall be used to award grants to eligibleentities for activities carried out within individual schools.
 
 #### (c) Priority
 
@@ -125,8 +125,4 @@ In this section, the term “eligible entity” means—
 The Higher Education Act of 1965, referred to in subsec. (a)(2)(D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 Sections 7112, 7113, 7114, and 7115 (as such sections were in effect on the day before January 8, 2002), referred to in subsec. (b)(1)(A)(i), means sections 7112, 7113, 7114, and 7115 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3719–3722, which were classified to sections 7422, 7423, 7424, and 7425 of this title, respectively, prior to the general amendment of title VII of this chapter by Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1907.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6911, 6914 of this title.
 

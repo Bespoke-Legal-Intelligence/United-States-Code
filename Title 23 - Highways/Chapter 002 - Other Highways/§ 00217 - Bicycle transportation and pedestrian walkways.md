@@ -14,7 +14,7 @@ Use of Federal Lands Highway Funds.—Funds authorized for forest highways, fore
 
 (d)
 
-State Bicycle and Pedestrian Coordinators.—Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) of this titleshall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
+State Bicycle and Pedestrian Coordinators.—Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
 
 (e)
 
@@ -100,7 +100,7 @@ Subsec. (j). Pub. L. 105–178, §1202(a)(7), added subsec. (j) and struck out h
 
 1983—Subsec. (a). Pub. L. 97–424 designated as subsec. (a) that portion of former subsec. (a) relating to pedestrian walkways. Remainder of former subsec. (a) relating to bicycles was redesignated (b)(1).
 
-Subsec. (b). Pub. L. 97–424 redesignated as par. (1) that portion of former subsec. (a) relating to bicycles and added pars. (2) and (3). Provisions of former subsec. (b) relating to pedestrian walkways and bicycles projects were redesignated (c) and (d), respectively.
+Subsec. (b). Pub. L. 97–424 redesignated as par. (1) that portion of former subsec. (a) relating to bicyclesand added pars. (2) and (3). Provisions of former subsec. (b) relating to pedestrian walkways and bicycles projects were redesignated (c) and (d), respectively.
 
 Subsec. (c). Pub. L. 97–424 redesignated as subsec. (c) that portion of former subsec. (b) relating to pedestrian walkways. Provisions of former subsec. (c) relating to pedestrian walkways and to bicycle routes were redesignated (e) and (f), respectively.
 
@@ -153,8 +153,4 @@ Section 141(a)–(e), (i) of Pub. L. 95–599, related to establishment by Secre
 #### Bikeway Demonstration Program
 
 Pub. L. 93–643, §119, Jan. 4, 1975, 88 Stat. 2288, authorized grants to States for demonstration projects for construction of bikeways, prior to repeal by Pub. L. 100–17, title I, §133(e)(2), Apr. 2, 1987, 101 Stat. 173.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 103, 133 of this title.
 

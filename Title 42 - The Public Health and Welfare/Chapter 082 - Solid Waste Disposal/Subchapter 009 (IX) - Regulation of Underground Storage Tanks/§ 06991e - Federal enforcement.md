@@ -32,7 +32,3 @@ Any order issued under this section shall state with reasonable specificity the 
 
 (Pub. L. 89–272, title II, §9006, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3285.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6991b of this title.
-

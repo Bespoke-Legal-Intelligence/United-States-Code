@@ -94,7 +94,3 @@ Township 67 north, range 4 west, fourth principal meridian: Entire township.
 
 The act of June 22, 1956, ch. 425, 70 Stat. 326, as amended, which is classified to sections 577d–1, 577g–1 and 577h of this title, is popularly known as the “Humphrey-Thye-Blatnik-Andresen Act”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 577g–1 of this title; title 31 section 6901.
-

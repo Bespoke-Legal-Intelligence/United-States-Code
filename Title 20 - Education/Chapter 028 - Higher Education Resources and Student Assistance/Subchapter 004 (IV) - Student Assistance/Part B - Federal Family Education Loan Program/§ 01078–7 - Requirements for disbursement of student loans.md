@@ -14,7 +14,7 @@
 
 #### (1) First year students
 
-&emsp;The first installment of the proceeds of any loan made, insured, or guaranteed under this part that is made to a student borrower who is entering the first year of a program of undergraduate education, and who has not previously obtained a loan under this part, shall not (regardless of the amount of such loan or the duration of the period of enrollment) be presented by the institution to the student for endorsement until 30 days after the borrower begins a course of study, but may be delivered to the eligible institution prior to the end of that 30-day period.
+&emsp;The first installment of the proceeds of any loan made, insured, or guaranteed under this part that is made to a student borrower who is entering the first year of a program of undergraduate education, and who has not previously obtained a loan under this part, shall not (regardless of the amount of such loan or the duration of the period of enrollment) bepresented by the institution to the student for endorsement until 30 days after the borrower begins a course of study, but may be delivered to the eligible institution prior to the end of that 30-day period.
 
 #### (2) Other students
 
@@ -62,7 +62,7 @@ An eligible lender shall not sell or transfer a promissory note for any loan mad
 
 Section 1078(a)(2)(A)(i)(III) of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 105–244, title IV, §417(a)(1)(A), Oct. 7, 1998, 112 Stat. 1682. Provisions similar to those contained in section 1078(a)(2)(A)(i)(III) are now contained in section 1078(a)(2)(A)(i)(II).
 
-Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994,except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
+Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 #### Amendments
 
@@ -70,7 +70,7 @@ Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by P
 
 Subsec. (b)(1). Pub. L. 105–244, §422(b), (d), temporarily inserted at end “An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the three most recent fiscal years for which data are available is less than 10 percent shall be exempt from the requirements of this paragraph.” See Effective and Termination Dates of 1998 Amendment note below.
 
-Subsec. (e). Pub. L. 105–244, §422(c), substituted “, made to a student” for “or made to a student” and inserted before the period at end “, or made to a student to cover the cost of attendance in a program of study abroad approved by the home eligible institution if the home eligible institution has a cohort default rate (as calculated under section 1085(m) of this title) of less than 5 percent”.
+Subsec. (e). Pub. L. 105–244, §422(c), substituted “, made to a student” for “or made to a student” and inserted before the period at end “, or made to a student to cover the cost of attendance in a program of study abroad approved by the home eligible institution if the home eligible institution has a cohort defaultrate (as calculated under section 1085(m) of this title) of less than 5 percent”.
 
 1993—Subsec. (c)(3). Pub. L. 103–208 directed the substitution of “disbursed by the lender” for “disbursed” and was executed by making the substitution the first place “disbursed” appeared, to reflect the probable intent of Congress.
 
@@ -109,10 +109,6 @@ Section 3003(b) of Pub. L. 101–508 provided that: “The amendment made by thi
 #### Effective Date
 
 Section applicable with respect to loans made to cover cost of instruction for periods of enrollment beginning on or after Jan. 1, 1990, see section 2004(c) of Pub. L. 101–239, set out as an Effective Date of 1989 Amendment note under section 1077 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1077, 1078, 1078–2, 1078–8, 1087d of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -36,7 +36,3 @@ To the extent that Poland continues to evolve toward pluralism and democracy and
 
 (Pub. L. 101–179, title I, §101, Nov. 28, 1989, 103 Stat. 1302.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5412, 5413 of this title.
-

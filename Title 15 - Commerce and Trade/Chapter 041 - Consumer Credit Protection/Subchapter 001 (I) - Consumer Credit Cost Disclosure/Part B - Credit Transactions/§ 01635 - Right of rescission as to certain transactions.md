@@ -2,7 +2,7 @@
 
 #### (a) Disclosure of obligor's right to rescind
 
-Except as otherwise provided in this section, in the case of any consumer credit transaction\(including opening or increasing the credit limit for an open end credit plan) in which a security interest, including any such interest arising by operation of law, is or will be retained or acquired in any property which is used as the principal dwelling of the person to whom credit is extended, the obligor shall have the right to rescind the transaction until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required under this section together with a statement containing the material disclosures required under this subchapter, whichever is later, by notifying the creditor, in accordance with regulations of the Board, of his intention to do so. The creditor shall clearly and conspicuously disclose, in accordance with regulations of the Board, to any obligor in a transaction subject to this section the rights of the obligor under this section. The creditor shall also provide, in accordance with regulations of the Board, appropriate forms for the obligor to exercise his right to rescind any transaction subject to this section.
+Except as otherwise provided in this section, in the case of any consumer credit transaction (including opening or increasing the credit limit for an open end credit plan) in which a security interest, including any such interest arising by operation of law, is or will be retained or acquired in any property which is used as the principal dwelling of the person to whom credit is extended, the obligor shall have the right to rescind the transaction until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required under this section together with a statement containing the material disclosures required under this subchapter, whichever is later, by notifying the creditor, in accordance with regulations of the Board, of his intention to do so. The creditor shall clearly and conspicuously disclose, in accordance with regulations of the Board, to any obligor in a transaction subject to this section the rights of the obligor under this section. The creditor shall also provide, in accordance with regulations of the Board, appropriate forms for the obligor to exercise his right to rescind any transaction subject to this section.
 
 #### (b) Return of money or property following rescission
 
@@ -62,7 +62,7 @@ An obligor shall have no rescission rights arising solely from the form of writt
 
 &emsp;This subsection shall apply to all consumer credit transactions in existence or consummated on or after September 30, 1995.
 
-(Pub. L. 90–321, title I, §125, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title IV, §§404, 405, 412, Oct. 28, 1974, 88 Stat. 1517, 1519; Pub. L. 96–221, title VI, §612(a)(1), (3)–(6), Mar. 31, 1980, 94 Stat. 175, 176; Pub. L. 98–479, title II, §205, Oct. 17, 1984, 98 Stat. 2234; Pub. L. 104–29, §§5, 8, Sept. 30, 1995, 109 Stat. 274, 275.)
+(Pub. L. 90–321, title I, §125, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title IV, §§404, 405, 412, Oct.28, 1974, 88 Stat. 1517, 1519; Pub. L. 96–221, title VI, §612(a)(1), (3)–(6), Mar. 31, 1980, 94 Stat. 175, 176; Pub. L. 98–479, title II, §205, Oct. 17, 1984, 98 Stat. 2234; Pub. L. 104–29, §§5, 8, Sept. 30, 1995, 109 Stat. 274, 275.)
 
 #### Amendments
 
@@ -97,8 +97,4 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L. 93–495, set out as an Effective Date note under section 1665a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1605, 1610, 1631, 1639, 1640, 1641, 1649 of this title.
 

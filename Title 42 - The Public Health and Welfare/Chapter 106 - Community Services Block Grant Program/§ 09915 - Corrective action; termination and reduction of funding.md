@@ -28,7 +28,3 @@ Whenever a State violates the assurances contained in section 9908(b)(8) of this
 
 (Pub. L. 97–35, title VI, §678C, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2743.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9903, 9908, 9917 of this title.
-

@@ -46,7 +46,3 @@ Before any sale of qualified debt may occur under this section, the President sh
 
 (July 10, 1954, ch. 469, title VI, §616, as added Pub. L. 102–532, §2, Oct. 27, 1992, 106 Stat. 3509.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1738p, 1738r of this title.
-

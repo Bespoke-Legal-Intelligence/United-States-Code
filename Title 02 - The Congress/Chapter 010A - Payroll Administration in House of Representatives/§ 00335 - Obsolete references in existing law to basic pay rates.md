@@ -16,7 +16,7 @@ Section 334 of this title, referred to in text, was repealed by Pub. L. 104–18
 
 #### Amendments
 
-<b>1996</b>—Par. (1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+1996—Par. (1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -42,7 +42,7 @@ In developing any regulation under this section, the Secretary shall consult wit
 
 #### (c) Emergency regulations
 
-(1) If the Secretary determines, on the basis of the best scientific information available (including research conducted under section 1414a of this title and information obtained under the International Dolphin Conservation Program)that the incidental mortality and serious injury of marine mammals authorized under this subchapter is having, or is likely to have, a significant adverse impact on a marine mammal stock or species, the Secretary shall—
+(1) If the Secretary determines, on the basis of the best scientific information available (including research conducted under section 1414a of this title and information obtained under the International Dolphin Conservation Program) that the incidental mortality and serious injury of marine mammals authorized under this subchapter is having, or is likely to have, a significant adverse impact on a marine mammal stock or species, the Secretary shall—
 
 &emsp;(A) notify the Inter-American Tropical Tuna Commission of his or her determination, along with recommendations to the Commission as to actions necessary to reduce incidental mortality and serious injury and mitigate such adverse impact; and
 
@@ -76,15 +76,11 @@ The Endangered Species Act, referred to in subsec. (a)(2)(A), probably means the
 
 #### Prior Provisions
 
-A prior section 1413, Pub. L. 92–522, title III, §303, as added Pub. L. 102–523, §2(a), Oct. 26, 1992, 106 Stat. 3426, related to research programs prior to repeal by Pub. L. 105–42, §6(c), Aug. 15, 1997, 111 Stat. 1130.
+A prior section 1413, Pub. L. 92–522, title III, §303, as added Pub. L. 102–523, §2(a), Oct. 26, 1992, 106 Stat. 3426,related to research programs prior to repeal by Pub. L. 105–42, §6(c), Aug. 15, 1997, 111 Stat. 1130.
 
 A prior section 303 of Pub. L. 92–522 was renumbered section 403 and is classified to section 1421b of this title.
 
 #### Effective Date
 
 For effective date of section, see section 8 of Pub. L. 105–42, set out as an Effective Date of 1997 Amendment note under section 1362 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1374, 1416 of this title.
 

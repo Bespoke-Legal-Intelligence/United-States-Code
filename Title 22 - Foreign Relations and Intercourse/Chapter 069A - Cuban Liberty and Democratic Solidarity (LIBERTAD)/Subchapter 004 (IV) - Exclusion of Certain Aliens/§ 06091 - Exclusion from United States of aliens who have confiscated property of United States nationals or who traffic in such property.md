@@ -46,7 +46,7 @@ As used in this section, the following terms have the following meanings:
 
 &emsp;&emsp;(ii) enters into a commercial arrangement using or otherwise benefiting from confiscated property, or
 
-&emsp;&emsp;(iii) causes, directs, participates in, or profits from, trafficking (as described in clause (i) or (ii)) by another person, or otherwise engages in trafficking (as described in clause (i) or (ii)) through another person,
+&emsp;&emsp;(iii) causes, directs, participates in, or profits from, trafficking (as described inclause (i) or (ii)) by another person, or otherwise engages in trafficking (as described in clause (i) or (ii)) through another person,
 
 > &emsp;without the authorization of any United States national who holds a claim to the property.
 
@@ -105,8 +105,4 @@ Reports Required.—Not later than 30 days after the date of the enactment of th
 “(b)
 
 Protection of Identity of Concerned Entities.—In preparing the report under subsection (a), the names of entities shall not be identified under paragraph (1) or (4).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 section 236; title 8 section 1182d.
 

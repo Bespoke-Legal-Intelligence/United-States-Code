@@ -24,7 +24,7 @@ In addition to the authorities granted under section 515 of this title and secti
 
 #### (e) Eligibility
 
-Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under section 2113(b) of this title and similar regional organizations, the Secretary shall establish eligibility criteria for the designation of forest areas from which lands may be entered into the Forest Legacy Program and subsequently select such appropriate areas. To be eligible, such areas shall have significant environmental values or shallbe threatened by present or future conversion to nonforest uses. Of land proposed to be included in the Forest Legacy Program, the Secretary shall give priority to lands which can be effectively protected and managed, and which have important scenic or recreational values; riparian areas; fish and wildlife values, including threatened and endangered species; or other ecological values.
+Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under section 2113(b) of this title and similar regional organizations, the Secretary shall establish eligibility criteria for the designation of forest areas from which lands may be entered into the Forest Legacy Program and subsequently select such appropriate areas. To be eligible, such areas shall have significant environmental values or shall be threatened by present or future conversion to nonforest uses. Of land proposed to be included in the Forest Legacy Program, the Secretary shall give priority to lands which can be effectively protected and managed, and which have important scenic or recreational values; riparian areas; fish and wildlife values, including threatened and endangered species; or other ecological values.
 
 #### (f) Application
 
@@ -92,7 +92,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 &emsp;&emsp;(A) the Secretary shall use a portion of the funds made available under subsection (m) of this section, as determined by the Secretary, to provide a grant to the State; and
 
-&emsp;&emsp;(B) the State shall use the grant to carry out the Forest Legacy Program in the State,including the acquisition by the State of lands and interests in lands.
+&emsp;&emsp;(B) the State shall use the grant to carry out the Forest Legacy Program in the State, including the acquisition by the State of lands and interests in lands.
 
 #### (3) Transfer of Forest Legacy Program land—
 
@@ -145,10 +145,6 @@ A prior section 7 of Pub. L. 95–313 was renumbered section 10 and is classifie
 Subsec. (e). Pub. L. 102–237, §1018(a)(2)(B), substituted “Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under section 2113(b)” for “Within 1 year from November 28, 1990, and in consultation with State Forest Stewardship Advisory Committees established under section 15(b)”.
 
 Subsec. (f). Pub. L. 102–237, §1018(a)(2)(C), substituted “subsection (e)” for “subsection (d)”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2106b, 2113 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(c)”.</i>
 

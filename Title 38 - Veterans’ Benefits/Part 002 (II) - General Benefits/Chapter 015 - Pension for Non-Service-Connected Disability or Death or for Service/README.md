@@ -112,10 +112,6 @@ Surviving Spouses of Veterans of All Periods of War” following item 543, and s
 
 1959—Pub. L. 86–211, §7(a), Aug. 29, 1959, 73 Stat. 436, substituted “Determinations with respect to annual income” for “Items not considered in determining income” in item 503, “Net worth limitation” for “Income limitations” in item 522, and “Net worth limitation” for “Widows of World War II or Korean conflict veterans” in item 543, included widows of World War II and Korean conflict veterans in item 541 and children of World War II and Korean conflict veterans in item 542, added item 506, and struck out items 544 and 545 which related to children of World War II or Korean conflict veterans and to income limitations.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1312, 1315, 1717, 1718, 5125, 5304, 5306, 5310, 5313B, 5317 of this title; title 26 section 6103; title 31 section 3803; title 42 section 6862.
-
 
 ---
 

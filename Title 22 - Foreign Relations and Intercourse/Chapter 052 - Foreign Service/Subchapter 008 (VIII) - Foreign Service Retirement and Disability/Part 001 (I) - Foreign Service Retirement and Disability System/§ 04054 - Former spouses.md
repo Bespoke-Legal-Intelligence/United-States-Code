@@ -86,7 +86,7 @@
 
 (D) Under regulations prescribed by the Secretary of State, an annuity shall be recomputed (or salary allotment terminated or adjusted), and a refund provided (if appropriate), in a manner comparable to that provided under subparagraph (C), in order to reflect a termination or reduction of future benefits under this subsection for a spouse in the event a former spouse of the participant dies or remarries before attaining age 60 and an increased annuity is provided for that spouse in accordance with this part.
 
-(4) An annuity payable under this subsection to a spouse or former spouse shall commence on the day after the participant dies and shall terminate on the last day of the month before the former spouse's death or remarriage before attaining age 60.
+(4) An annuity payable under this subsection to a spouse or former spouse shall commence onthe day after the participant dies and shall terminate on the last day of the month before the former spouse's death or remarriage before attaining age 60.
 
 (5) Section 4066 of this title shall not apply to any annuity under this subsection, unless authorized under regulations prescribed by the Secretary of State.
 
@@ -143,8 +143,4 @@ Definitions.—For the purpose of this section, the terms ‘participant’ and 
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4046, 4049, 4060, 4064, 4069a, 4069a–1, 4071j, 4159 of this title.
 

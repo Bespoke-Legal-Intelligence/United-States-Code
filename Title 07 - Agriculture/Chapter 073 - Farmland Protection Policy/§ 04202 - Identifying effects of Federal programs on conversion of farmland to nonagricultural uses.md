@@ -18,7 +18,3 @@ The Department of Agriculture may make available to States, units of local gover
 
 1990—Subsec. (b). Pub. L. 101–624 inserted “to identify the quantity of farmland actually converted by Federal programs, and” after “of this section,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4209 of this title.
-

@@ -12,7 +12,7 @@ Section 485b, act May 28, 1948, ch. 354, §3, 62 Stat. 278, authorized Administr
 
 Section 485c, acts May 28, 1948, ch. 354, §4, 62 Stat. 278; Aug. 23, 1958, Pub. L. 85–726, title XIV, §1402(d)(2), 72 Stat. 807, set out powers and duties of Administrator.
 
-Section 485d, acts May 28, 1948, ch. 354, §5, 62 Stat. 278; Oct. 10, 1951, ch. 457, 65 Stat. 371; July 3, 1958, Pub. L.85–503, 72 Stat. 321; Aug. 23, 1958, Pub. L. 85–726, title XIV, §1402(d)(3), 72 Stat. 807, empowered Administrator of Federal Aviation Agency to lease space or property within or upon airports.
+Section 485d, acts May 28, 1948, ch. 354, §5, 62 Stat. 278; Oct. 10, 1951, ch. 457, 65 Stat. 371; July 3, 1958, Pub. L. 85–503, 72 Stat. 321; Aug. 23, 1958, Pub. L. 85–726, title XIV, §1402(d)(3), 72 Stat. 807, empowered Administrator of Federal Aviation Agency to lease space or property within or upon airports.
 
 Section 485e, act May 28, 1948, ch. 354, §6, 62 Stat. 278, authorized Administrator to contract with any person for performance of services at or upon airports.
 

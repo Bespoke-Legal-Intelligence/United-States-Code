@@ -40,7 +40,3 @@ Section effective 60 days after June 30, 1976, see section 604(c) of Pub. L. 94â
 
 Functions of President under subsec. (b) of this section delegated to Secretary of State, with Secretary of State required to consult with Secretary of Defense to avoid interference in application of Department of Defense regulations to sales made under section 2762 of this title, by section 1(m) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2776, 2778 of this title.
-

@@ -1,9 +1,5 @@
 subpart 1—national cancer institute
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 280e–4 of this title.
-
 <i><sup>1</sup></i><i> So in original. There probably should be an additional closing parenthesis.</i>
 
 

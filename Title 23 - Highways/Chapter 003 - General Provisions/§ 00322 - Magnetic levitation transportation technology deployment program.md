@@ -60,7 +60,7 @@ Project Eligibility.—To be eligible to receive financial assistance under subs
 
 &emsp;(5) satisfy applicable statewide and metropolitan planning requirements;
 
-&emsp;(6) be approved by the Secretary based on an application submitted to the Secretary by aState or authority designated by 1 or more States;
+&emsp;(6) be approved by the Secretary based on an application submitted to the Secretary by a State or authority designated by 1 or more States;
 
 &emsp;(7) to the extent that non-United States MAGLEV technology is used within the United States, be carried out as a technology transfer project; and
 
@@ -214,7 +214,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Advanced Technology Pilot Project
 
-Pub. L. 105–178, title III, §3015(c), June 9, 1998, 112 Stat. 361, as amended by Pub. L. 105–206, title IX, §9009(k)(1), July 22, 1998, 112 Stat. 857; Pub. L. 108–88, §8(q), Sept. 30, 2003, 117 Stat. 1125, provided that:
+Pub. L. 105–178, title III, §3015(c), June 9, 1998, 112 Stat. 361, as amended by Pub. L. 105–206, title IX, §9009(k)(1), July 22, 1998, 112 Stat. 857; Pub. L. 108–88, §8(q), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(q), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, §7(q), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, §7(q), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(q), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(q), Sept. 30, 2004, 118 Stat. 1158, provided that:
 
 “(1)
 
@@ -222,9 +222,13 @@ In general.—The Secretary shall make grants for the development of low speed m
 
 “(2)
 
-Funding.—Of the amounts made available under section 5001(a)(2) of this Act \[112 Stat. 419\] for each of fiscal years 1998 through 2003, and for the period of October 1, 2003, through February 29, 2004, $5,000,000 per fiscal year and $2,083,333 for such period shall be available to carry out this subsection. Financial assistance made available under this subsection and projects assisted with the assistance shall be subject to section 5333(a) of title 49, United States Code.
+Funding.—Of the amounts made available under section 5001(a)(2) of this Act \[112 Stat. 419\] for each of fiscal years 1998 through 2004, and for the period of October 1, 2004, through May 31, 2005, $5,000,000 per fiscal year and $3,333,333 for such period shall be available to carry out this subsection. Financial assistance made available under this subsection and projects assisted with the assistance shall be subject to section 5333(a) of title 49, United States Code.
 
 “(3)
 
 Federal share.—The Federal share payable on account of activities carried out using a grant made under this subsection shall be 80 percent of the cost of such activities.”
+
+\[Pub. L. 108–280, §7(q), which directed amendment of Pub. L. 105–178, §3015(c)(2), set out above, by substituting “2004, $5,000,000 per fiscal year” for “2003, and for the period of October 1, 2003, through July 31, 2004 $5,000,000 per fiscal year and $4,142,083 for such period”, was executed by making the substitution for “2003, and for the period of October 1, 2003, through July 31, 2004, $5,000,000 per fiscal year and $4,142,083 for such period”, to reflect the probable intent of Congress.\]
+
+\[Pub. L. 108–224, §7(q)(1), which directed amendment of Pub. L. 105–178, §3015(c)(2), set out above, by substituting “June 30, 2004” for “April 30, 2004,” was executed by making the substitution for “April 30, 2004”, to reflect the probable intent of Congress.\]
 

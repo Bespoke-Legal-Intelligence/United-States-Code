@@ -20,6 +20,10 @@ Last seven words in the statute, “who shall have the powers hereinafter stated
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–383, §1, Oct. 30, 2004, 118 Stat. 2218, provided that: “This Act \[enacting section 2119 of this title, amending sections 2112, 2504, 2903, 2909, and 3303a of this title, and amending provisions set out as a note under section 2901 of this title\] may be cited as the ‘National Archives and Records Administration Efficiency Act of 2004’.”
+
 #### Short Title of 2002 Amendments
 
 Pub. L. 107–347, §1(a), Dec. 17, 2002, 116 Stat. 2899, provided that: “This Act \[see Tables for classification\] may be cited as the ‘E-Government Act of 2002’.”
@@ -64,7 +68,7 @@ Pub. L. 96–511, §1, Dec. 11, 1980, 94 Stat. 2812, provided: “That this Act 
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–591, §1, Nov. 4, 1978, 92 Stat. 2523, provided: “That this Act \[enacting sections 2201 to 2207 of this title, amending sections 2111 and 2112 of this title, and enacting provisions set out as notes under section 2201 of this title\] may be cited as the ‘Presidential Records Act of 1978’.”
+Pub. L. 95–591, §1, Nov. 4, 1978, 92 Stat. 2523, provided: “That this Act \[enacting sections 2201 to 2207 of thistitle, amending sections 2111 and 2112 of this title, and enacting provisions set out as notes under section 2201 of this title\] may be cited as the ‘Presidential Records Act of 1978’.”
 
 #### Short Title of 1976 Amendment
 

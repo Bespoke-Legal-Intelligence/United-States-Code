@@ -6,7 +6,7 @@
 
 (2) Each study required by paragraph (1) of this subsection shall be commenced not later than six months after September 18, 1978, with respect to any area or region where a lease sale has been held or announced by publication of a notice of proposed lease sale before September 18, 1978, and not later than six months prior to the holding of a lease sale with respect to any area or region where no lease sale has been held or scheduled before September 18, 1978. In the case of an agreement under section 1337(k)(2) of this title, each study required by paragraph (1) of this subsection shall be commenced not later than 6 months prior to commencing negotiations for such agreement or the entering into the memorandum of agreement as the case may be. The Secretary may utilize information collected in any study prior to September 18, 1978.
 
-(3) In addition to developing environmental information, any study of an area or region, to the extent practicable, shall be designed to predict impacts on the marine biota which may result from chronic low level pollution or large spills associated with outer Continental Shelf production, from the introduction of drill cuttings and drilling muds in the area, and from the laying of pipe to serve the offshore production area, and the impacts of development offshore on the affected and coastal areas.
+(3) In addition to developing environmental information, any study of an area or region, to the extent practicable, shall be designed to predictimpacts on the marine biota which may result from chronic low level pollution or large spills associated with outer Continental Shelf production, from the introduction of drill cuttings and drilling muds in the area, and from the laying of pipe to serve the offshore production area, and the impacts of development offshore on the affected and coastal areas.
 
 #### (b) Additional studies subsequent to leasing and development of area
 
@@ -18,7 +18,7 @@ The Secretary shall, by regulation, establish procedures for carrying out his du
 
 #### (d) Consideration of relevant environmental information in developing regulations, lease conditions and operating orders
 
-The Secretary shall consider available relevant environmental information in making decisions (including those relating to exploration plans, drilling permits, and development andproduction plans), in developing appropriate regulations and lease conditions, and in issuing operating orders.
+The Secretary shall consider available relevant environmental information in making decisions (including those relating to exploration plans, drilling permits, and development and production plans), in developing appropriate regulations and lease conditions, and in issuing operating orders.
 
 #### (e) Assessment of cumulative effects of activities on environment; submission to Congress
 

@@ -18,7 +18,7 @@ Limitation.—If the International Fuel Tax Agreement is amended, a State not pa
 
 (d)
 
-Nonapplication.—This section does not apply to a State that was participating in the Regional Fuel Tax Agreement on January 1, 1991, and that continues to participate in that Agreement after that date.
+Nonapplication.—This section does not apply to a State that was participating in the Regional Fuel Tax Agreement on January 1,1991, and that continues to participate in that Agreement after that date.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1032.)
 
@@ -41,8 +41,4 @@ Dec. 18, 1991, Pub. L. 102–240, §4008(g), 105 Stat. 2154.
 In subsection (b), the words “as it applies to” are substituted for “with respect to” for clarity.
 
 In subsection (c), before clause (1), the words “a State not participating in the Agreement when the amendment is made is not subject to the conformity requirements of subsections (a) and (b) of this section in regard to the amendment” are substituted for “conformity by a State that is not participating in such Agreement when such amendment is made may not be required with respect to such amendment” for clarity.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 31706, 31707 of this title.
 

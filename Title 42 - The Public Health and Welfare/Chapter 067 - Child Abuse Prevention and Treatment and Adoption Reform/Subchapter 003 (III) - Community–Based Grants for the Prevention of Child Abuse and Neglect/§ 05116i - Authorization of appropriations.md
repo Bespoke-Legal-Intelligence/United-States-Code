@@ -8,7 +8,3 @@ There are authorized to be appropriated to carry out this subchapter $80,000,000
 
 2003—Pub. L. 108–36 amended section catchline and text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter, $66,000,000 for fiscal year 1997 and such sums as may be necessary for each of the fiscal years 1998 through 2001.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5116b of this title.
-

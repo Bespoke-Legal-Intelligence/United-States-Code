@@ -18,7 +18,7 @@
 
 #### (3) Regional centers
 
-&emsp;Such a statewide system shall, to the extent practicable, work with and receive support and assistance from regional educational laboratories established under part E of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9571 et seq.\] and comprehensive centers established under the Educational Technical Assistance Act of 2002 \[20 U.S.C. 9601 et seq.\] and the comprehensive regional technical assistance centers and the regional educational laboratories under section 6041(h) of this title (as such section existed on the day before November 5, 2002), or other providers of technical assistance.
+&emsp;Such a statewide system shall, to the extent practicable, work with and receive support and assistance from regional educational laboratories established under part D of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9561 et seq.\] and comprehensive centers established under the Educational Technical Assistance Act of 2002 \[20 U.S.C. 9601 et seq.\] and the comprehensive regional technical assistance centers and the regional educational laboratories under section 6041(h) of this title (as such section existed on the day before November 5, 2002), or other providers of technical assistance.
 
 #### (4) Statewide system
 
@@ -108,7 +108,7 @@ Priority.—The State educational agency shall give priority to the approach des
 
 &emsp;&emsp;(A) shall use funds reserved under section 6303(a) of this title and may use funds made available under section 6303(g) of this title for the approaches described under subsection (a)(4)(A) of this section; and
 
-&emsp;&emsp;(B) shall use State administrative funds authorized under section 6304(a) of this title to establish the statewide system of supportdescribed under subsection (a) of this section.
+&emsp;&emsp;(B) shall use State administrative funds authorized under section 6304(a) of this title to establish the statewide system of support described under subsection (a) of this section.
 
 #### (2) Reservations of funds by State
 
@@ -134,11 +134,11 @@ Priority.—The State educational agency shall give priority to the approach des
 
 &emsp;&emsp;A school described in subparagraph (A) is a school whose student population is in the highest quartile of schools statewide in terms of the percentage of children from low income families.
 
-(Pub. L. 89–10, title I, §1117, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1498; amended Pub. L. 107–279, title IV, §404(d)(3), Nov. 5, 2002, 116 Stat. 1985.)
+(Pub. L. 89–10, title I, §1117, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1498; amended Pub. L. 107–279, title IV, §404(d)(3), Nov. 5, 2002, 116 Stat. 1985; Pub. L. 108–446, title II, §201(b)(3), Dec. 3, 2004, 118 Stat. 2802.)
 
 #### References in Text
 
-The Education Sciences Reform Act of 2002, referred to in subsec. (a)(3), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941. Part E of the Act is classified generally to part E (§9571 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (a)(3), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, as amended. Part D of the Act is classified generally to part D (§9561 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
 The Educational Technical Assistance Act of 2002, referred to in subsec. (a)(3), is title II of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1975, which is classified generally to subchapter II (§9601 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
@@ -152,9 +152,7 @@ A prior section 1117 of Pub. L. 89–10 was classified to section 6318 of this t
 
 #### Amendments
 
+2004—Subsec. (a)(3). Pub. L. 108–446 substituted “part D” for “part E”.
+
 2002—Subsec. (a)(3). Pub. L. 107–279 inserted “regional educational laboratories established under part E of the Education Sciences Reform Act of 2002 and comprehensive centers established under the Educational Technical Assistance Act of 2002 and” after “assistance from” and “(as such section existed on the day before November 5, 2002)” after “section 6041(h) of this title”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5891b, 6303, 6311, 6314, 6316, 7215 of this title.
 

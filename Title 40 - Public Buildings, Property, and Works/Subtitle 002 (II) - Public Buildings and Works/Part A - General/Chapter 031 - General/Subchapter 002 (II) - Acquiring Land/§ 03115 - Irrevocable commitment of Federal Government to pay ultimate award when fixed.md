@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Irrevocable Commitment.—Action under section 3114 of this title irrevocably committing the Federal Government to the payment of the ultimate award shall not be taken unless the head of the executive department or agency or bureau of the Government empowered to acquire the land believes that the ultimate award probably will be within any limits Congress prescribes on the price to be paid.
+Requirement for Irrevocable Commitment.—Action under section 3114 of this title irrevocably committing the Federal Government to the payment of the ultimate award shall not be taken unless the head of the executive department or agency or bureau of the Government empowered to acquire the land believesthat the ultimate award probably will be within any limits Congress prescribes on the price to be paid.
 
 (b)
 
@@ -33,8 +33,4 @@ Feb. 26, 1931, ch. 307, §3, 46 Stat. 1422.
 Feb. 26, 1931, ch. 307, §5, 46 Stat. 1422; Pub. L. 91–393, §4, Sept. 1, 1970, 84 Stat. 835.
 
 In subsection (b), the words “possession of” are omitted as unnecessary.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 7422; title 16 section 831c; title 25 section 500a; title 33 section 598; title 39 section 410; title 42 sections 1502, 1594a, 2222.
 

@@ -52,7 +52,7 @@ Cooperation With Administrator.—The Administrator of the Environmental Protect
 
 (f)
 
-Availability of Statements.—The Secretary of Transportation shall make a registration statement filed under subsection (a) of this section available for inspection by any person for a fee the Secretary establishes. However, this subsection does not require the release of information described in section 552(b) of title 5 or otherwise protected by law from disclosure to the public.
+Availability of Statements.—The Secretary of Transportation shall make a registration statement filed under subsection (a) of this section available for inspection by any personfor a fee the Secretary establishes. However, this subsection does not require the release of information described in section 552(b) of title 5 or otherwise protected by law from disclosure to the public.
 
 (g)
 
@@ -189,8 +189,4 @@ This amends 49:5108(f) to correct an erroneous cross-reference.
 Subsec. (a)(4). Pub. L. 103–311, §104, added par. (4).
 
 Subsec. (g)(2)(A)(viii). Pub. L. 103–311, §119(d)(1), struck out “5107(e),” before “5108(g)(2)”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5107, 5108, 5116, 5127 of this title.
 

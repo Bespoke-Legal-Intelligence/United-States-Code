@@ -26,7 +26,3 @@ The words “by information or otherwise” are omitted as unnecessary.
 
 Sections 9, 9A, 9B, 9C, and 14 of the Act of July 31, 1946, referred to in text, are classified to sections 1961, 1966, 1967, 1922, and 1969, respectively, of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5107 of this title; title 2 sections 1819, 1961, 1970, 2021, 2161.
-

@@ -12,7 +12,7 @@ The purposes of this subchapter are to—
 
 &emsp;(5) acknowledge that commercially developed information security products offer advanced, dynamic, robust, and effective information security solutions, reflecting market solutions for the protection of critical information infrastructures important to the national defense and economic security of the nation that are designed, built, and operated by the private sector; and
 
-&emsp;(6) recognize that the selection of specific technical hardware and software information security solutions should be left to individual agencies from among commercially developed products.
+&emsp;(6) recognize that the selection of specific technical hardware and software informationsecurity solutions should be left to individual agencies from among commercially developed products.
 
 (Added Pub. L. 107–347, title III, §301(b)(1), Dec. 17, 2002, 116 Stat. 2946.)
 

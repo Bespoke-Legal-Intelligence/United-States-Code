@@ -62,7 +62,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (9) Development services
 
-&emsp;The term “development services” means activities that promote community developmentand are integral to lending or investment activities, including—
+&emsp;The term “development services” means activities that promote community development and are integral to lending or investment activities, including—
 
 &emsp;&emsp;(A) business planning;
 
@@ -143,8 +143,4 @@ For purposes of this subchapter, the following definitions shall apply:
 The Small Business Investment Act of 1958, referred to in par. (6), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in pars. (11) and (12), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1715z–2, 1715z–14, 1757a, 1759, 1834a of this title; title 15 section 6901; title 26 section 45D.
 

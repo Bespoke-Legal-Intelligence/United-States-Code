@@ -28,7 +28,3 @@ Subsec. (b). Pub. L. 107–273, §13202(a)(2)(B), struck out “, if any” aft
 
 Amendment by section 13105(a) of Pub. L. 107–273 applicable with respect to any determination of the Director of the United States Patent and Trademark Office that is made on or after Nov. 2, 2002, see section 13105(b) of Pub. L. 107–273, set out as a note under section 303 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 313 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—SPECIAL DEFENSE ACQUISITION FUND
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2291c of this title; title 10 section 114.
-
 <i><sup>1</sup></i><i> So in original.</i>
 
 

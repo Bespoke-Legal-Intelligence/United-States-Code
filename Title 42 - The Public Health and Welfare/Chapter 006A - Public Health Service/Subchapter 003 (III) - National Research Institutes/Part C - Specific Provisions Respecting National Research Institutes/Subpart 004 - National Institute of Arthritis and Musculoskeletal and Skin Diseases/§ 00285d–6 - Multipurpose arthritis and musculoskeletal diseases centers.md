@@ -56,7 +56,3 @@ Not later than October 1, 1993, the Director shall establish a multipurpose arth
 
 1988—Subsec. (b)(2)(A). Pub. L. 100–607 inserted “and rehabilitation from” after “and treatment of”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 285d–5 of this title.
-

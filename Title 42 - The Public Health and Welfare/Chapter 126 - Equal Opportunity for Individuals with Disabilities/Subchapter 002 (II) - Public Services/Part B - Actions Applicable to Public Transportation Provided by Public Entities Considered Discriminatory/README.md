@@ -1,9 +1,5 @@
 Part B—Actions Applicable to Public Transportation Provided by Public Entities Considered Discriminatory
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 12134, 12206 of this title.
-
 
 ---
 

@@ -1,9 +1,5 @@
 Part C—Studies and Other Activities To Promote Effective Administration of Federal Elections
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 15322 of this title.
-
 
 ---
 

@@ -110,7 +110,7 @@ In the development of specific appraisal guidelines in accordance with subsectio
 
 #### (i) Agency
 
-&emsp;&emsp;&emsp;Utilities, access, or facilities serving a lot that are provided by the agency shall be included as features of the lot being appraised.
+&emsp;&emsp;&emsp;Utilities, access, or facilities serving a lot that are provided by the agency shallbe included as features of the lot being appraised.
 
 #### (ii) Cabin owners
 
@@ -138,7 +138,7 @@ In the development of specific appraisal guidelines in accordance with subsectio
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The appraiser shall consider and adjust, as appropriate, the price of each sale of acomparable parcel for all nonnatural features referred to in subparagraph (A)(ii) that—
+&emsp;&emsp;&emsp;The appraiser shall consider and adjust, as appropriate, the price of each sale of a comparable parcel for all nonnatural features referred to in subparagraph (A)(ii) that—
 
 &emsp;&emsp;&emsp;&emsp;(I)(aa) are present at, or add value to, the comparable parcel; but
 
@@ -169,8 +169,4 @@ In the development of specific appraisal guidelines in accordance with subsectio
 &emsp;&emsp;Periodically, but not less often than once every 10 years, the Secretary shall recalculate the base cabin user fee (including conducting any reappraisal required to recalculate the base cabin user fee).
 
 (Pub. L. 106–291, title VI, §606, Oct. 11, 2000, 114 Stat. 1015.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6203, 6206, 6207, 6209, 6213 of this title.
 

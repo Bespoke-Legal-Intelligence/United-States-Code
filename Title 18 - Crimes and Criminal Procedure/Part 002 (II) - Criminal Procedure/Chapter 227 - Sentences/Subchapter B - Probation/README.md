@@ -17,9 +17,7 @@
 
 1994—Pub. L. 103–322, title XXXIII, §330010(3), Sept. 13, 1994, 108 Stat. 2143, transferred analysis for this subchapter to follow heading for this subchapter.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3551, 3601, 3605 of this title.
+<i><sup>1</sup></i><i> So in original. Probably should be “in”.</i>
 
 <i><sup>1</sup></i><i> So in original. Probably should not appear.</i>
 

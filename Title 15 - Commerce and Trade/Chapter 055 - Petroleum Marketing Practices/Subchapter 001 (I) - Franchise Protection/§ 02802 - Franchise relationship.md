@@ -56,7 +56,7 @@ Except as provided in subsection (b) of this section and section 2803 of this ti
 
 &emsp;&emsp;(iii) in the case of leased marketing premises—
 
-&emsp;&emsp;&emsp;(I) the franchisor, during the 180-day period after notification was given pursuant to section 2804 of this title, either made a bona fide offer to sell, transfer, or assignto the franchisee such franchisor's interests in such premises, or, if applicable, offered the franchisee a right of first refusal of at least 45 days duration of an offer, made by another, to purchase such franchisor's interest in such premises; or
+&emsp;&emsp;&emsp;(I) the franchisor, during the 180-day period after notification was given pursuant to section 2804 of this title, either made a bona fide offer to sell, transfer, or assign to the franchisee such franchisor's interests in such premises, or, if applicable, offered the franchisee a right of first refusal of at least 45 days duration of an offer, made by another, to purchase such franchisor's interest in such premises; or
 
 &emsp;&emsp;&emsp;(II) in the case of the sale, transfer, or assignment to another person of the franchisor's interest in such premises in connection with the sale, transfer, or assignment to such other person of the franchisor's interest in one or more other marketing premises, if such other person offers, in good faith, a franchise to the franchisee on terms and conditions which are not discriminatory to the franchisee as compared to franchises then currently being offered by such other person or franchises then in effect and with respect to which such other person is the franchisor.
 
@@ -167,8 +167,4 @@ In the case of any termination of a franchise (entered into or renewed on or aft
 1994—Subsec. (b)(3)(A)(ii). Pub. L. 103–371, §2, inserted “converting the leased marketing premises to operation by employees or agents of the franchisor for the benefit of the franchisor or otherwise” after “purpose of”.
 
 Subsec. (c)(4). Pub. L. 103–371, §3, redesignated portion of introductory language of par. (4) as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpars. (B) and (C).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2803, 2804, 2805 of this title.
 

@@ -42,7 +42,3 @@ Section 7601, Pub. L. 89–10, title VII, §7501, as added Pub. L. 103–382, ti
 
 Section 7602, Pub. L. 89–10, title VII, §7502, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3748, related to regulations and parental notification. See sections 7012 and 7014 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1059d, 7265e of this title.
-

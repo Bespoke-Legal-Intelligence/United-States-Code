@@ -10,7 +10,7 @@ Section was classified to section 831 of former Title 40, prior to the enactment
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “Committee on House Oversight of the House of Representatives” for “House Committee on House Administration”.
+1996—Pub. L. 104–186 substituted “Committee on House Oversight of the House of Representatives” for “House Committee on House Administration”.
 
 #### Change of Name
 

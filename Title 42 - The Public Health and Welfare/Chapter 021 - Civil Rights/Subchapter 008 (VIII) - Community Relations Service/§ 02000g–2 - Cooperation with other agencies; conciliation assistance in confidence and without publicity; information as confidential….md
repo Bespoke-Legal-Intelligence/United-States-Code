@@ -6,7 +6,3 @@
 
 (Pub. L. 88–352, title X, §1003, July 2, 1964, 78 Stat. 267.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2000g–3 of this title.
-

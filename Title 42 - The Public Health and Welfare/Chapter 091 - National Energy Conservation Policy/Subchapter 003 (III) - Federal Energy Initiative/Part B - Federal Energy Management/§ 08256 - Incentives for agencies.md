@@ -36,7 +36,7 @@
 
 (4) If an agency satisfies the criteria which generally apply to other customers of a utility incentive program, such agency may not be denied collection of rebates or other incentives.
 
-(5)(A) An amount equal to fifty percent of the energy and water cost savings realized by an agency (other than the Department of Defense) with respect to funds appropriated for any fiscal year beginning after fiscal year 1992 (including financial benefits resulting from energy savings performance contracts under subchapter VII of this chapter and utility energy efficiency rebates) shall, subject to appropriation, remain available for expenditure by such agency for additional energy efficiency measures which may include related employee incentive programs, particularly at those facilities at which energy savings were achieved.
+(5)(A) An amount equal to fifty percent of the energy and water cost savings realized by anagency (other than the Department of Defense) with respect to funds appropriated for any fiscal year beginning after fiscal year 1992 (including financial benefits resulting from energy savings performance contracts under subchapter VII of this chapter and utility energy efficiency rebates) shall, subject to appropriation, remain available for expenditure by such agency for additional energy efficiency measures which may include related employee incentive programs, particularly at those facilities at which energy savings were achieved.
 
 (B) Agencies shall establish a fund and maintain strict financial accounting and controls for savings realized and expenditures made under this subsection. Records maintained pursuant to this subparagraph shall be made available for public inspection upon request.
 
@@ -91,10 +91,6 @@ Pub. L. 104–52, title VI, §625, Nov. 19, 1995, 109 Stat. 502, provided that:
 > may be retained and credited to accounts that fund energy and water conservation activities at the agency's facilities, and shall remain available until expended for additional specific energy efficiency or water conservation projects or activities, including improvements and retrofits, facility surveys, additional or improved utility metering, and employee training and awareness programs, as authorized by section 152(f) of the Energy Policy Act (Public Law 102–486) \[amending this section\].
 
 “(b) The remaining 50 percent of each rebate, and the remaining 50 percent of the amount of the agency's share of savings from energy-savings performance contracts, shall be transferred to the General Fund of the Treasury at the end of the fiscal year in which received.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8257, 8258 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -22,7 +22,7 @@ In order to receive an allotment under section 7111(b) of this title for any fis
 
 &emsp;(9) contains the results of a needs assessment conducted by the State for drug and violence prevention programs, which shall be based on ongoing State evaluation activities, including data on—
 
-&emsp;&emsp;(A) the incidence and prevalence of illegal drug use and violence among youth inschools and communities, including the age of onset, the perception of health risks, and the perception of social disapproval among such youth;
+&emsp;&emsp;(A) the incidence and prevalence of illegal drug use and violence among youth in schools and communities, including the age of onset, the perception of health risks, and the perception of social disapproval among such youth;
 
 &emsp;&emsp;(B) the prevalence of risk factors, including high or increasing rates of reported cases of child abuse or domestic violence;
 
@@ -107,8 +107,4 @@ In order to receive an allotment under section 7111(b) of this title for any fis
 #### Prior Provisions
 
 A prior section 7113, Pub. L. 89–10, title IV, §4113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3677, related to State and local educational agency programs, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 7114 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7112, 7116 of this title.
 

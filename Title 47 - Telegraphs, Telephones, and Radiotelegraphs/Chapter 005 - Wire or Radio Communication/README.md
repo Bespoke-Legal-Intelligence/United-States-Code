@@ -386,6 +386,7 @@
 | (c) | Terms of licenses. |
 | (d) | Renewals. |
 | (e) | Operation of certain radio stations without individual licenses. |
+| (f) | Areas in Alaska without access to over the air broadcasts. |
 | [308\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000308%20-%20Requirements%20for%20license.md) | Requirements for license. |
 | (a) | Writing; exceptions. |
 | (b) | Conditions. |
@@ -503,13 +504,27 @@
 | (d) | Channel positioning. |
 | (e) | Compensation for carriage. |
 | (f) | Remedies. |
-| (g) | Regulations by Commission. |
-| (h) | Definitions. |
+| (g) | Carriage of local stations on a single dish. |
+| (h) | Additional notices to subscribers, networks, and stations concerning signal carriage. |
+| (i) | Privacy rights of satellite subscribers. |
+| (j) | Regulations by Commission. |
+| (k) | Definitions. |
 | [339\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000339%20-%20Carriage%20of%20distant%20television%20stations%20by%20satellite%20carriers.md) | Carriage of distant television stations by satellite carriers. |
 | (a) | Provisions relating to carriage of distant signals. |
 | (b) | Extension of network nonduplication, syndicated exclusivity, and sports blackout to satellite retransmission. |
 | (c) | Eligibility for retransmission. |
 | (d) | Definitions. |
+| [340\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000340%20-%20Significantly%20viewed%20signals%20permitted%20to%20be%20carried.md) | Significantly viewed signals permitted to be carried. |
+| (a) | Significantly viewed stations. |
+| (b) | Limitations. |
+| (c) | Publication and modifications of lists; regulations. |
+| (d) | Effect on other obligations and rights. |
+| (e) | Network nonduplication and syndicated exclusivity. |
+| (f) | Enforcement. |
+| (g) | Notices concerning significantly viewed stations. |
+| (h) | Additional corresponding changes in regulations. |
+| (i) | Definitions. |
+| [341\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000341%20-%20Carriage%20of%20television%20signals%20to%20certain%20subscribers.md) | Carriage of television signals to certain subscribers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1079,10 +1094,6 @@ I74subpart a—assistance for planning and construction of public telecommunicat
 | [615b.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000615b%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 15, 312a, 702, 721, 741, 765, 765b, 921, 923, 925, 926, 1108 of this title; title 7 section 923; title 15 sections 44, 79z–5c, 5625, 5656, 7706; title 17 section 119; title 18 section 2511; title 22 section 1465bb; title 40 section 17708; title 41 sections 43, 356; title 49 section 70117.
 
 
 ---

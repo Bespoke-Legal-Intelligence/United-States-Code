@@ -16,7 +16,3 @@ Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-wa
 
 Provisions of section 706(a) of Pub. L. 94–579, except as pertaining to rights-of-way, not to be construed as affecting the authority of the Secretary of Agriculture under this section, see section 706(b) of Pub. L. 94–579, set out as a note under section 1701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 421c, 931d of this title.
-

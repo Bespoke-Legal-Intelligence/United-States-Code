@@ -70,9 +70,5 @@ Section 401(b)(4) of Pub. L. 102–567 provided that:
 
 “(B) The Secretary of Commerce shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries \[now Committee on Science\] of the House of Representatives 60 days prior to the proposed deactivation of any other research vessel of the National Oceanic and Atmospheric Administration, if an equivalent replacement vessel will not become operational at the time of deactivation.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 891, 891c of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

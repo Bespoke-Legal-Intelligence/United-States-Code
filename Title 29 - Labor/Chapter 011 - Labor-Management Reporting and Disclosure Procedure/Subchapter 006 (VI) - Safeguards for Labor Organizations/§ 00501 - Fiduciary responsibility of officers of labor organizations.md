@@ -14,7 +14,3 @@ Any person who embezzles, steals, or unlawfully and willfully abstracts or conve
 
 (Pub. L. 86–257, title V, §501, Sept. 14, 1959, 73 Stat. 535.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 sections 1961, 2516.
-

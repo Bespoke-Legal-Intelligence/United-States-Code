@@ -14,7 +14,7 @@
 
 #### (2) Prohibition of deceptive subject headings
 
-&emsp;It is unlawful for any person to initiate the transmission to a protected computer of acommercial electronic mail message if such person has actual knowledge, or knowledge fairly implied on the basis of objective circumstances, that a subject heading of the message would be likely to mislead a recipient, acting reasonably under the circumstances, about a material fact regarding the contents or subject matter of the message (consistent with the criteria used in enforcement of section 45 of this title).
+&emsp;It is unlawful for any person to initiate the transmission to a protected computer of a commercial electronic mail message if such person has actual knowledge, or knowledge fairly implied on the basis of objective circumstances, that a subject heading of the message would be likely to mislead a recipient, acting reasonably under the circumstances, about a material fact regarding the contents or subject matter of the message (consistent with the criteria used in enforcement of section 45 of this title).
 
 #### (3) Inclusion of return address or comparable mechanism in commercial electronic mail
 
@@ -142,9 +142,5 @@ The Commission shall by regulation, pursuant to section 7711 of this title—
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(4)(A)(iv), was in the original “this Act”, meaning Pub. L. 108–187,Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7705, 7706, 7711 of this title.
+This chapter, referred to in subsec. (a)(4)(A)(iv), was in the original “this Act”, meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 

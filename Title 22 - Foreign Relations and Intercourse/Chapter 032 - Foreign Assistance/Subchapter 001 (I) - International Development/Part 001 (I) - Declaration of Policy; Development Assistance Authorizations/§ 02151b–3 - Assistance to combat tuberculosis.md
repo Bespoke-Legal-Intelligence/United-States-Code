@@ -50,7 +50,7 @@ In this section:
 
 (Pub. L. 87–195, pt. I, §104B, as added Pub. L. 108–25, title III, §302(a), May 27, 2003, 117 Stat. 734.)
 
-#### Section Referred to in Other Sections
+#### Delegation of Functions
 
-This section is referred to in sections 2151b, 2151b–2, 7632 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

@@ -138,7 +138,7 @@ I have determined that the following major illicit drug producing and/or major i
 
 &emsp;Afghanistan and Burma
 
-In making these determinations, I have considered the factors set forth in section 490 of the Act, based on the information contained in the International Narcotics Control Strategy Report of 2001. Given that the performance of each of these countries has differed, I haveattached an explanatory statement for each of the countries subject to this determination \[not set out in the Code\].
+In making these determinations, I have considered the factors set forth in section 490 of the Act, based on the information contained in the International Narcotics Control Strategy Report of 2001. Given that the performance of each of these countries has differed, I have attached an explanatory statement for each of the countries subject to this determination \[not set out in the Code\].
 
 You are hereby authorized and directed to report this determination to the Congress immediately and to publish it in the Federal Register.
 
@@ -171,8 +171,4 @@ Determination of President of the United States, No. 90–12, Feb. 28, 1990, 55 
 Determination of President of the United States, No. 89–11, Feb. 28, 1989, 54 F.R. 9413.
 
 Determination of President of the United States, No. 88–10, Feb. 29, 1988, 53 F.R. 11487.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2291e, 2291h, 2291j–1 of this title; title 12 section 635; title 18 section 981; title 19 sections 1616a, 2703, 3202, 3203; title 21 sections 881, 1703.
 

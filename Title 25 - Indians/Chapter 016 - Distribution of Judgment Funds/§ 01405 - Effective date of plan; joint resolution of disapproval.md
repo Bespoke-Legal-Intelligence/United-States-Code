@@ -30,7 +30,3 @@ Subsec. (b). Pub. L. 97–458, §3(b), substituted “date of enactment of a joi
 
 Subsecs. (c) to (e). Pub. L. 97–458, §3(c), added subsecs. (c) to (e).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1403 of this title.
-

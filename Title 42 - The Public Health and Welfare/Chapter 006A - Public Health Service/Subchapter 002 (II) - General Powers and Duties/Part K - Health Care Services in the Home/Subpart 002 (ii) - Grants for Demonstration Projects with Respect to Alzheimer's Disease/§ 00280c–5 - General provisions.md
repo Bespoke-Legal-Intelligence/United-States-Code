@@ -36,7 +36,7 @@ The Secretary shall—
 
 #### (e) Authorizations of appropriations
 
-For the purpose of carrying out this subpart, there are authorized to be appropriated $5,000,000 for each of the fiscal years 1988 through 1990, $7,500,000 for fiscal year 1991, such sums as may be necessary for each of the fiscal years 1992 and 1993, $8,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
+For the purpose of carrying out this subpart, there are authorized to be appropriated $5,000,000for each of the fiscal years 1988 through 1990, $7,500,000 for fiscal year 1991, such sums as may be necessary for each of the fiscal years 1992 and 1993, $8,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
 
 (July 1, 1944, ch. 373, title III, §398B, formerly §399A, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat. 982; amended Pub. L. 101–557, title I, §102(c), Nov. 15, 1990, 104 Stat. 2767; renumbered §398B, Pub. L. 102–321, title V, §502(1), July 10, 1992, 106 Stat. 427; Pub. L. 105–392, title III, §302(c), Nov. 13, 1998, 112 Stat. 3586.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Powers and duties
 
-The Secretary of State shall be charged with the administration and the enforcement of the provisions of this chapter and all other immigration and nationality laws relating to (1) the powers, duties, and functions of diplomatic and consular officers of the United States, except those powers, duties, and functions conferred upon the consular officers relating to the granting or refusal of visas; (2) the powers, duties, and functions of the Administrator; and (3) the determination of nationality of a person not in the United States. He shall establish such regulations; prescribe such forms of reports, entries and other papers; issue such instructions; and perform such other acts as he deems necessary for carrying out such provisions. He is authorized to confer or impose upon any employee of the United States, with the consent of the head of the department or independent establishment under whose jurisdiction the employee is serving, any of the powers, functions, or duties conferred or imposed by this chapter or regulationsissued thereunder upon officers or employees of the Department of State or of the American Foreign Service.
+The Secretary of State shall be charged with the administration and the enforcement of the provisions of this chapter and all other immigration and nationality laws relating to (1) the powers, duties, and functions of diplomatic and consular officers of the United States, except those powers, duties, and functions conferred upon the consular officers relating to the granting or refusal of visas; (2) the powers, duties, and functions of the Administrator; and (3) the determination of nationality of a person not in the United States. He shall establish such regulations; prescribe such forms of reports, entries and other papers; issue such instructions; and perform such other acts as he deems necessary for carrying out such provisions. He is authorized to confer or impose upon any employee of the United States, with the consent of the head of the department or independent establishment under whose jurisdiction the employee is serving, any of the powers, functions, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Department of State or of the American Foreign Service.
 
 #### (b) Designation and duties of Administrator
 
@@ -20,7 +20,7 @@ The functions heretofore performed by the Passport Division and the Visa Divisio
 
 There shall be a General Counsel of the Visa Office, who shall be appointed by the Secretary of State and who shall serve under the general direction of the Legal Adviser of the Department of State. The General Counsel shall have authority to maintain liaison with the appropriate officers of the Service with a view to securing uniform interpretations of the provisions of this chapter.
 
-(June 27, 1952, ch. 477, title I, §104, 66 Stat. 174; Pub. L. 87-510, §4(a)(2), June 28, 1962, 76 Stat. 123; Pub. L. 88–426, title III, §305(43), Aug. 14, 1964, 78 Stat. 428; Pub. L. 95–105, title I, §109(b)(1), Aug. 17, 1977, 91 Stat. 847; Pub. L. 100–525, §9(d), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 103–236, title I, §162(h)(2), Apr. 30, 1994, 108 Stat. 407.)
+(June 27, 1952, ch. 477, title I, §104, 66 Stat. 174; Pub. L. 87-510, §4(a)(2), June 28, 1962, 76 Stat. 123; Pub. L. 88–426, title III, §305(43), Aug. 14, 1964, 78 Stat. 428; Pub. L. 95–105, title I, §109(b)(1), Aug. 17, 1977, 91 Stat. 847; Pub. L. 100–525, §9(d), Oct.24, 1988, 102 Stat. 2620; Pub. L. 103–236, title I, §162(h)(2), Apr. 30, 1994, 108 Stat. 407.)
 
 #### Amendments
 
@@ -71,8 +71,4 @@ Section 109(b)(4) of Pub. L. 95–105 provided that: “The individual holding t
 #### References to Bureau of Security and Consular Affairs or Administrator
 
 Section 109(b)(5) of Pub. L. 95–105 provided that: “Any reference in any law to the Bureau of Security and Consular Affairs or to the administrator of such Bureau shall be deemed to be a reference to the Bureau of Consular Affairs or to the Assistant Secretary of State for Consular Affairs, respectively.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1101 of this title; title 6 section 236.
 

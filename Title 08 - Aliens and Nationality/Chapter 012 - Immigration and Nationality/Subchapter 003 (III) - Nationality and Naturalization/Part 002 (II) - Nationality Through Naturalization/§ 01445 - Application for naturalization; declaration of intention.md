@@ -10,7 +10,7 @@ No person shall file a valid application for naturalization unless he shall have
 
 #### (c) Hearings
 
-Hearings under section 1447(a) of this title on applications for naturalization shall be held atregular intervals specified by the Attorney General.
+Hearings under section 1447(a) of this title on applications for naturalization shall be held at regular intervals specified by the Attorney General.
 
 #### (d) Filing of application
 
@@ -65,8 +65,4 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1423 of this title; title 20 section 955b; title 42 section 1881.
 

@@ -162,7 +162,3 @@ Subsec. (b)(3). Pub. L. 104–291, §103, added par. (3).
 
 Subsec. (e). Pub. L. 104–291, §102(2), added subsec. (e).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1154 of this title.
-

@@ -28,7 +28,3 @@ Capital investment advances made by the Office pursuant to subsection (a) of thi
 
 Amendment by Pub. L. 97–35 effective on the day after the Final Government Equity Redemption Date (Dec. 31, 1981), see section 396(i) of Pub. L. 97–35, set out as a note under section 3011 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3042, 3051 of this title.
-

@@ -1,6 +1,6 @@
 ### §81. Arson within special maritime and territorial jurisdiction
 
-Whoever, within the special maritime and territorial jurisdiction of the United States, willfully and maliciously sets fire to or burns any building, structure or vessel, any machinery or building materials or supplies, military or naval stores, munitions of war, or any structural aids or appliances for navigation or shipping, or attempts or conspires to do such an act, shall be imprisoned for not more than 25 years, fined the greater of the fine under this title or the cost ofrepairing or replacing any property that is damaged or destroyed, or both.
+Whoever, within the special maritime and territorial jurisdiction of the United States, willfully and maliciously sets fire to or burns any building, structure or vessel, any machinery or building materials or supplies, military or naval stores, munitions of war, or any structural aids or appliances for navigation or shipping, or attempts or conspires to do such an act, shall be imprisoned for not more than 25 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed, or both.
 
 If the building be a dwelling or if the life of any person be placed in jeopardy, he shall be fined under this title or imprisoned for any term of years or for life, or both.
 
@@ -25,8 +25,4 @@ The punishment provisions are new and are graduated with some regard to the grav
 1996—Pub. L. 104–132, in first par., substituted “imprisoned for not more than 25 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed, or both” for “fined under this title or imprisoned not more than five years, or both”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in first par. and for “fined not more than $5,000” in second par.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2332b, 2339A, 3295, 5032 of this title.
 

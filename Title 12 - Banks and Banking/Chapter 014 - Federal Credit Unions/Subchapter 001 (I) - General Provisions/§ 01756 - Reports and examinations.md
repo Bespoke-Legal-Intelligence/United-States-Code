@@ -24,7 +24,3 @@ Transfer of functions of Farm Credit Administration and Governor thereof, genera
 
 Functions of Governor of Farm Credit Administration under this section transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1766, 1772a, 1782 of this title.
-

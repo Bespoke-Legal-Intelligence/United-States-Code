@@ -12,9 +12,5 @@ Section 12858 of this title, referred to in text, was in the original “section
 
 1992—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out this subchapter $250,000,000 for fiscal year 1991 and $521,500,000 for fiscal year 1992. Any amount appropriated under this section shall be deposited in the Fund and remain available until expended, subject to the provisions of section 12858 of this title.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12853 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

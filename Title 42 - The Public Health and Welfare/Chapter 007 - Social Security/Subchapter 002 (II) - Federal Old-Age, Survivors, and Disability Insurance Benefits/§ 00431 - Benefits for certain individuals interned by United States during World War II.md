@@ -32,7 +32,7 @@ There are authorized to be appropriated to the Trust Funds and the Federal Hospi
 
 #### Amendments
 
-1994—Subsec. (b)(3). Pub. L. 103–296, §107(a)(1), (4), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” after “aninternee, the”, after “If the”, and after “so notify the”, substituted “the Commissioner” for “he” before “has been notified” and before “shall then ascertain”, and substituted “Commissioner of Social Security” for “Secretary” before “shall certify no”.
+1994—Subsec. (b)(3). Pub. L. 103–296, §107(a)(1), (4), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” after “an internee, the”, after “If the”, and after “so notify the”, substituted “the Commissioner” for “he” before “has been notified” and before “shall then ascertain”, and substituted “Commissioner of Social Security” for “Secretary” before “shall certify no”.
 
 Subsec. (b)(4). Pub. L. 103–296, §107(a)(1), (4), substituted “Commissioner of Social Security, certify to the Commissioner, with respect to any individual who was an internee, such information as the Commissioner of Social Security deems necessary to carry out the Commissioner's functions under paragraph (3) of this subsection” for “Secretary of Health and Human Services, certify to him, with respect to any individual who was an internee, such information as the Secretary deems necessary to carry out his functions under paragraph (3) of this subsection”.
 
@@ -51,8 +51,4 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 #### Special $50 Payment Under Tax Reduction Act of 1975
 
 Special payment of $50 as soon as practicable after Mar. 29, 1975, by the Secretary of the Treasury to each individual who, for the month of March 1975, was entitled to a monthly insurance benefit payable under this subchapter, see section 702 of Pub. L. 94–12, set out as a note under section 402 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 415 of this title.
 

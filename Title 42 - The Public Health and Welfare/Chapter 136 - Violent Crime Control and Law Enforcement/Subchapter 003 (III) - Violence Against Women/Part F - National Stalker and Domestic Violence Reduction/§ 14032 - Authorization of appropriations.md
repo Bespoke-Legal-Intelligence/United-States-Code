@@ -18,7 +18,3 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 
 &emsp;“(3) $2,750,000 for fiscal year 1998.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

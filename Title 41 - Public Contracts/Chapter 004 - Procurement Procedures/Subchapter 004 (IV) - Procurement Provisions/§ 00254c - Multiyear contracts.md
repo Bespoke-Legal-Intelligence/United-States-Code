@@ -4,7 +4,7 @@
 
 An executive agency may enter into a multiyear contract for the acquisition of property or services if—
 
-&emsp;(1) funds are available and obligated for such contract, for the full period of the contract or for the first fiscal year in which the contract is in effect, and for the estimated costs associated with any necessary termination of such contract; and
+&emsp;(1) funds are available and obligated for such contract, for the full period of the contract orfor the first fiscal year in which the contract is in effect, and for the estimated costs associated with any necessary termination of such contract; and
 
 &emsp;(2) the executive agency determines that—
 
@@ -33,8 +33,4 @@ Nothing in this section is intended to modify or affect any other provision of l
 #### Effective Date
 
 For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 253<i>l</i>–1, 253<i>l</i>–2, 253<i>l</i>–3, 253<i>l</i>–4, 253<i>l</i>–5, 253<i>l</i>–6, 253<i>l</i>–7, 253<i>l</i>–8 of this title; title 50 section 2601.
 

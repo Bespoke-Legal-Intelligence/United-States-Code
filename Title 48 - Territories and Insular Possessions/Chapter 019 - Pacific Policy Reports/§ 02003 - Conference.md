@@ -18,7 +18,3 @@ The Secretary of the Interior shall afford participants in the conference an opp
 
 Section was formerly set out as a note under section 1681 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2004 of this title.
-

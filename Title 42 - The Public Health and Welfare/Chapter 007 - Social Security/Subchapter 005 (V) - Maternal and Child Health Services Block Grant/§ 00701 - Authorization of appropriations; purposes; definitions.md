@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(D) to provide and to promote family-centered, community-based, coordinated care (including care coordination services, as defined in subsection (b)(3) of this section) for children with special health care needs and to facilitate the development of community-based systems of services for such children and their families;
 
-&emsp;(2) for the purpose of enabling the Secretary (through grants, contracts, or otherwise) toprovide for special projects of regional and national significance, research, and training with respect to maternal and child health and children with special health care needs (including early intervention training and services development), for genetic disease testing, counseling, and information development and dissemination programs, for grants (including funding for comprehensive hemophilia diagnostic treatment centers) relating to hemophilia without regard to age, and for the screening of newborns for sickle cell anemia, and other genetic disorders and follow-up services; and
+&emsp;(2) for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance, research, and training with respect to maternal and child health and children with special health care needs (including early intervention training and services development), for genetic disease testing, counseling, and information development and dissemination programs, for grants (including funding for comprehensive hemophilia diagnostic treatment centers) relating to hemophilia without regard to age, and for the screening of newborns for sickle cell anemia, and other genetic disorders and follow-up services; and
 
 &emsp;(3) subject to section 702(b) of this title for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for developing and expanding the following—
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 97–248 effective as if originally included as part of thi
 
 Section 2194 of Pub. L. 97–35 provided that:
 
-“(a) Except as otherwise provided in this section, the amendments made by sections 2192 \[enacting this subchapter and enacting provisions set out as a note under section 706 of this title\] and 2193 \[amending this section and sections 247a, 300a–27, 300b, 300c–11, and 300c–21 of this title with respect to fiscal year ending Sept. 30, 1982, amending sections 300b–3, 300b–6, 1301, 1308, 1320a–1, 1320a–8, 1320b–2, 1320b–4, 1320c–21, 1382d, 1395b–1, 1395x, and 1396a of this title, repealing sections 236,247a, 300a–21 to 300a–28, 300a–41, 300b, 300b–5, 300c–11, and 300c–21 of this title, enacting provisions set out as a note under section 1382d of this title, and amending provisions set out as notes under sections 1320a–8 and 1395b–1 of this title\] of this subtitle do not apply to any grant made, or contract entered into, or amounts payable to States under State plans before the earlier of—
+“(a) Except as otherwise provided in this section, the amendments made by sections 2192 \[enacting this subchapter and enacting provisions set out as a note under section 706 of this title\] and 2193 \[amending this section and sections 247a, 300a–27, 300b, 300c–11, and 300c–21 of this title with respect to fiscal year ending Sept. 30, 1982, amending sections 300b–3, 300b–6, 1301, 1308, 1320a–1, 1320a–8, 1320b–2, 1320b–4, 1320c–21, 1382d, 1395b–1, 1395x, and 1396a of this title, repealing sections 236, 247a, 300a–21 to 300a–28, 300a–41, 300b, 300b–5, 300c–11, and 300c–21 of this title, enacting provisions set out as a note under section 1382d of this title, and amending provisions set out as notes under sections 1320a–8 and 1395b–1 of this title\] of this subtitle do not apply to any grant made, or contract entered into, or amounts payable to States under State plans before the earlier of—
 
 &emsp;“(1) October 1, 1982, or
 
@@ -206,7 +206,7 @@ Section 6507 of Pub. L. 101–239 provided that: “The Secretary of Health and 
 
 #### Demonstration Project on Health Insurance for Medically Uninsurable Children
 
-Section 6508 of Pub. L. 101–239 authorized Secretary of Health and Human Services to conduct not more than 4 demonstration projects to provide health insurance coverage through eligible plans to medically uninsurable children under 19 years of age, further provided for definition of eligible plan, requirements for demonstration projects, including guarantee of insurance coverage for at least two years, provision of non-Federalfunds, as well as further restrictions on insurance plans, and further provided for applications for projects, evaluation of projects by Secretary and report to Congress, and authorization of appropriations for each of fiscal years 1991, 1992, and 1993.
+Section 6508 of Pub. L. 101–239 authorized Secretary of Health and Human Services to conduct not more than 4 demonstration projects to provide health insurance coverage through eligible plans to medically uninsurable children under 19 years of age, further provided for definition of eligible plan, requirements for demonstration projects, including guarantee of insurance coverage for at least two years, provision of non-Federal funds, as well as further restrictions on insurance plans, and further provided for applications for projects, evaluation of projects by Secretary and report to Congress, and authorization of appropriations for each of fiscal years 1991, 1992, and 1993.
 
 #### Maternal and Child Health Handbook
 
@@ -233,10 +233,6 @@ Availability and distribution.—The Secretary shall make the handbook available
 Authorization of Appropriations.—There are authorized to be appropriated $1,000,000 for each of fiscal years 1991, 1992, and 1993, for carrying out the purposes of this section.”
 
 \[Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 256b, 702, 705, 706, 709, 1396u–2 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

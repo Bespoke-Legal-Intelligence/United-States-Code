@@ -4,7 +4,7 @@
 
 (1) For purposes of enforcing the provisions of this subchapter, officers or employees of the Environmental Protection Agency or of any State duly designated by the Administrator are authorized to enter at reasonable times (A) any establishment or other place where pesticides or devices are held for distribution or sale for the purpose of inspecting and obtaining samples of any pesticides or devices, packaged, labeled, and released for shipment, and samples of any containers or labeling for such pesticides or devices, or (B) any place where there is being held any pesticide the registration of which has been suspended or canceled for the purpose of determining compliance with section 136q of this title.
 
-(2) Before undertaking such inspection, the officers or employees must present to the owner, operator, or agent in charge of the establishment or other place where pesticides or devices are held for distribution or sale, appropriate credentials and a written statement as to the reason for the inspection, including a statement as to whether a violation of the law is suspected. If no violation is suspected, an alternate and sufficient reason shall be given in writing. Each such inspection shall be commenced and completed with reasonable promptness. If the officer or employee obtains any samples, prior to leaving the premises, the officer or employee shall give to the owner, operator, or agent in charge a receipt describing the samples obtained and, if requested, a portion of each such sample equal in volume or weight to the portion retained. If an analysis is made of such samples, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge.
+(2) Before undertaking such inspection, the officers or employees must present to the owner, operator, or agent in charge of the establishment or other place where pesticides or devices are held for distribution or sale, appropriate credentials and a written statement as to the reason for the inspection, including a statement as to whether a violation of the law is suspected. Ifno violation is suspected, an alternate and sufficient reason shall be given in writing. Each such inspection shall be commenced and completed with reasonable promptness. If the officer or employee obtains any samples, prior to leaving the premises, the officer or employee shall give to the owner, operator, or agent in charge a receipt describing the samples obtained and, if requested, a portion of each such sample equal in volume or weight to the portion retained. If an analysis is made of such samples, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge.
 
 #### (b) Warrants
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 #### Effective Date
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 136w–1 of this title.
 

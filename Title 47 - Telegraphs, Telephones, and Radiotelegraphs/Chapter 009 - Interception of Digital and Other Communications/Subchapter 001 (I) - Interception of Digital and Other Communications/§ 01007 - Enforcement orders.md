@@ -28,10 +28,6 @@ An order enforcing this subchapter may not—
 
 (Pub. L. 103–414, title I, §108, Oct. 25, 1994, 108 Stat. 4285.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1002, 1005 of this title; title 18 section 2522.
-
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “requirements”.</i>

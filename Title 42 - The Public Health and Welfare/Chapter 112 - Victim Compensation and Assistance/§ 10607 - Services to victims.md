@@ -94,7 +94,7 @@ For the purposes of this section—
 
 #### References in Text
 
-Section 10606(b)(4) of this title, referred to in subsec. (c)(3)(D), was in the original “section 1102(b)(4)”, meaning section 1102(b)(4) of Pub. L. 101–647, which has been translated as reading section 502(b)(4) of Pub. L. 101–647 to reflect the probable intent of Congress because Pub. L. 101–647 does not contain a section 1102 and section 502(b)(4) relates to the right of crime victims to be present at public court proceedings.
+Section 10606(b)(4) of this title, referred to in subsec. (c)(3)(D), was in the original “section 1102(b)(4)”, meaning section 1102(b)(4) of Pub. L. 101–647, which has been translated as reading section 502(b)(4) of Pub. L. 101–647 to reflect the probable intent of Congress because Pub. L. 101–647 does not contain a section 1102 and section 502(b)(4) relates to the right of crime victims to bepresent at public court proceedings. Section 10606 of this title was subsequently repealed by Pub. L. 108–405, title I, §102(c), Oct. 30, 2004, 118 Stat. 2264.
 
 #### Codification
 
@@ -103,10 +103,6 @@ Section enacted as part of the Victims’ Rights and Restitution Act of 1990 and
 #### Amendments
 
 1994—Subsec. (c)(7). Pub. L. 103–322 inserted at end “The Attorney General shall provide for the payment of the cost of up to 2 anonymous and confidential tests of the victim for sexually transmitted diseases, including HIV, gonorrhea, herpes, chlamydia, and syphilis, during the 12 months following sexual assaults that pose a risk of transmission, and the cost of a counseling session by a medically trained professional on the accuracy of such tests and the risk of transmission of sexually transmitted diseases to the victim as the result of the assault. A victim may waive anonymity and confidentiality of any tests paid for under this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 3510.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
 

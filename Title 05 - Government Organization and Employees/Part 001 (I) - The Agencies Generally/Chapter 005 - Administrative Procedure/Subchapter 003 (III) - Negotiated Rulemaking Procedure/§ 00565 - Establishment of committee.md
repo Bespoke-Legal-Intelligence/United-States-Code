@@ -32,9 +32,5 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(1), is Pub. L. 92
 
 Subsec. (a)(1). Pub. L. 102–354, §3(a)(3), substituted “section 564” for “section 584”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 23 section 202; title 25 sections 458gg, 458aaa–16, 2018, 4116; title 42 section 1395w–26.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “negotiated”.</i>
 

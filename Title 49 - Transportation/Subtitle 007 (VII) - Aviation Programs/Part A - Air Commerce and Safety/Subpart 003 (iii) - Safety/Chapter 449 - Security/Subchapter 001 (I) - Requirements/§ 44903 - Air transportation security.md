@@ -32,7 +32,7 @@ Protection Against Violence and Piracy.—The Under Secretary shall prescribe re
 
 (c)
 
-Security Programs.—(1) The Under Secretary shall prescribe regulations under subsection (b) of this section that require each operator of an airport regularly serving an air carrier holding a certificate issued by the Secretary of Transportation to establish an air transportation security program that provides a law enforcement presence and capability at each of those airports that is adequate to ensure the safety of passengers. The regulations shall authorize the operator to use the services of qualified State, local, and private law enforcement personnel. When the Under Secretary decides, after being notified by an operator in the form the Under Secretary prescribes, that not enough qualified State, local, and private law enforcement personnel are available to carry out subsection (b), the Under Secretary may authorizethe operator to use, on a reimbursable basis, personnel employed by the Under Secretary, or by another department, agency, or instrumentality of the Government with the consent of the head of the department, agency, or instrumentality, to supplement State, local, and private law enforcement personnel. When deciding whether additional personnel are needed, the Under Secretary shall consider the number of passengers boarded at the airport, the extent of anticipated risk of criminal violence or aircraft piracy at the airport or to the air carrier aircraft operations at the airport, and the availability of qualified State or local law enforcement personnel at the airport.
+Security Programs.—(1) The Under Secretary shall prescribe regulations under subsection (b) of this section that require each operator of an airport regularly serving an air carrier holding a certificate issued by the Secretary of Transportation to establish an air transportation security program that provides a law enforcement presence and capability at each of those airports that is adequate to ensure the safety of passengers. The regulations shall authorize the operator to use the services of qualified State, local, and private law enforcement personnel. When the Under Secretary decides, after being notified by an operator in the form the Under Secretary prescribes, that not enough qualified State, local, and private law enforcement personnel are available to carry out subsection (b), the Under Secretary may authorize the operator to use, on a reimbursable basis, personnel employed by the Under Secretary, or by another department, agency, or instrumentality of the Government with the consent of the head of the department, agency, or instrumentality, to supplement State, local, and private law enforcement personnel. When deciding whether additional personnel are needed, the Under Secretary shall consider the number of passengers boarded at the airport, the extent of anticipated risk of criminal violence or aircraft piracy at the airport or to the air carrier aircraft operations at the airport, and the availability of qualified State or local law enforcement personnel at the airport.
 
 (2)(A) The Under Secretary may approve a security program of an airport operator, or an amendment in an existing program, that incorporates a security program of an airport tenant (except an air carrier separately complying with part 108 or 129 of title 14, Code of Federal Regulations) having access to a secured area of the airport, if the program or amendment incorporates—
 
@@ -134,7 +134,79 @@ Airport perimeter screening.—The Under Secretary—
 
 &emsp;&emsp;(D) shall require vendors having direct access to the airfield and aircraft to develop security programs; and
 
-&emsp;&emsp;(E) may provide for the use of biometric or other technology that positively verifies the identity of each employee and law enforcement officer who enters a secure area of an airport.
+&emsp;&emsp;(E) shall issue, not later than March 31, 2005, guidance for the use of biometric or other technology that positively verifies the identity of each employee and law enforcement officer who enters a secure area of an airport.
+
+&emsp;(5)
+
+Use of biometric technology in airport access control systems.—In issuing guidance under paragraph (4)(E), the Assistant Secretary of Homeland Security (Transportation Security Administration) in consultation with representatives of the aviation industry, the biometric identifier industry, and the National Institute of Standards and Technology, shall establish, at a minimum—
+
+&emsp;&emsp;(A) comprehensive technical and operational system requirements and performance standards for the use of biometric identifier technology in airport access control systems (including airport perimeter access control systems) to ensure that the biometric identifier systems are effective, reliable, and secure;
+
+&emsp;&emsp;(B) a list of products and vendors that meet the requirements and standards set forth in subparagraph (A);
+
+&emsp;&emsp;(C) procedures for implementing biometric identifier systems—
+
+&emsp;&emsp;&emsp;(i) to ensure that individuals do not use an assumed identity to enroll in a biometric identifier system; and
+
+&emsp;&emsp;&emsp;(ii) to resolve failures to enroll, false matches, and false non-matches; and
+
+&emsp;&emsp;(D) best practices for incorporating biometric identifier technology into airport access control systems in the most effective manner, including a process to best utilize existing airport access control systems, facilities, and equipment and existing data networks connecting airports.
+
+&emsp;(6)
+
+Use of biometric technology for law enforcement officer travel.—
+
+&emsp;&emsp;(A)
+
+In general.—Not later than 120 days after the date of enactment of this paragraph, the Assistant Secretary, in consultation with the Attorney General, shall—
+
+&emsp;&emsp;&emsp;(i) establish a law enforcement officer travel credential that incorporates biometric identifier technology and is uniform across all Federal, State, local, tribal, and territorial government law enforcement agencies;
+
+&emsp;&emsp;&emsp;(ii) establish a process by which the travel credential will be used to verify the identity of a Federal, State, local, tribal, or territorial law enforcement officer seeking to carry a weapon on board an aircraft, without unnecessarily disclosing to the public that the individual is a law enforcement officer;
+
+&emsp;&emsp;&emsp;(iii) establish procedures—
+
+&emsp;&emsp;&emsp;&emsp;(I) to ensure that only Federal, State, local, tribal, and territorial government law enforcement officers are issued a law enforcement travel credential;
+
+&emsp;&emsp;&emsp;&emsp;(II) to resolve failures to enroll, false matches, and false non-matches relating to use of the law enforcement travel credential; and
+
+&emsp;&emsp;&emsp;&emsp;(III) to invalidate any law enforcement travel credential that is lost, stolen, or no longer authorized for use;
+
+&emsp;&emsp;&emsp;(iv) begin issuance of the travel credential to each Federal, State, local, tribal, or territorial government law enforcement officer authorized by the Assistant Secretary to carry a weapon on board an aircraft; and
+
+&emsp;&emsp;&emsp;(v) take such other actions with respect to the travel credential as the Assistant Secretary considers appropriate.
+
+&emsp;&emsp;(B)
+
+Funding.—There is authorized to be appropriated such sums as may be necessary to carry out this paragraph.
+
+&emsp;(7)
+
+Definitions.—In this subsection, the following definitions apply:
+
+&emsp;&emsp;(A)
+
+Biometric identifier information.—The term “biometric identifier information” means the distinct physical or behavioral characteristics of an individual that are used for unique identification, or verification of the identity, of an individual.
+
+&emsp;&emsp;(B)
+
+Biometric identifier.—The term “biometric identifier” means a technology that enables the automated identification, or verification of the identity, of an individual based on biometric information.
+
+&emsp;&emsp;(C)
+
+Failure to enroll.—The term “failure to enroll” means the inability of an individual to enroll in a biometric identifier system due to an insufficiently distinctive biometric sample, the lack of a body part necessary to provide the biometric sample, a system design that makes it difficult to provide consistent biometric identifier information, or other factors.
+
+&emsp;&emsp;(D)
+
+False match.—The term “false match” means the incorrect matching of one individual's biometric identifier information to another individual's biometric identifier information by a biometric identifier system.
+
+&emsp;&emsp;(E)
+
+False non-match.—The term “false non-match” means the rejection of a valid identity by a biometric identifier system.
+
+&emsp;&emsp;(F)
+
+Secure area of an airport.—The term “secure area of an airport” means the sterile area and the Secure Identification Display Area of an airport (as such terms are defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulation to such section).
 
 (i)
 
@@ -162,7 +234,7 @@ Short-Term Assessment and Deployment of Emerging Security Technologies and Proce
 
 &emsp;(1)
 
-In general.—The Under Secretary of Transportation for Security shall recommendto airport operators, within 6 months after the date of enactment of the Aviation and Transportation Security Act, commercially available measures or procedures to prevent access to secure airport areas by unauthorized persons. As part of the 6-month assessment, the Under Secretary for Transportation Security shall—
+In general.—The Under Secretary of Transportation for Security shall recommend to airport operators, within 6 months after the date of enactment of the Aviation and Transportation Security Act, commercially available measures or procedures to prevent access to secure airport areas by unauthorized persons. As part of the 6-month assessment, the Under Secretary for Transportation Security shall—
 
 &emsp;&emsp;(A) review the effectiveness of biometrics systems currently in use at several United States airports, including San Francisco International;
 
@@ -196,6 +268,92 @@ Modifications.—The Secretary of Transportation may modify any requirement unde
 
 &emsp;&emsp;&emsp;(ii) the routine characteristics of passengers, given the nature of the market, regularly triggers primary selectee status.
 
+&emsp;&emsp;(C)
+
+Advanced airline passenger prescreening.—
+
+&emsp;&emsp;&emsp;(i)
+
+Commencement of testing.—Not later than January 1, 2005, the Assistant Secretary of Homeland Security (Transportation Security Administration), or the designee of the Assistant Secretary, shall commence testing of an advanced passenger prescreening system that will allow the Department of Homeland Security to assume the performance of comparing passenger information, as defined by the Assistant Secretary, to the automatic selectee and no fly lists, utilizing all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government.
+
+&emsp;&emsp;&emsp;(ii)
+
+Assumption of function.—Not later than 180 days after completion of testing under clause (i), the Assistant Secretary, or the designee of the Assistant Secretary, shall begin to assume the performance of the passenger prescreening function of comparing passenger information to the automatic selectee and no fly lists and utilize all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government in performing that function.
+
+&emsp;&emsp;&emsp;(iii)
+
+Requirements.—In assuming performance of the function under clause (ii), the Assistant Secretary shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) establish a procedure to enable airline passengers, who are delayed or prohibited from boarding a flight because the advanced passenger prescreening system determined that they might pose a security threat, to appeal such determination and correct information contained in the system;
+
+&emsp;&emsp;&emsp;&emsp;(II) ensure that Federal Government databases that will be used to establish the identity of a passenger under the system will not produce a large number of false positives;
+
+&emsp;&emsp;&emsp;&emsp;(III) establish an internal oversight board to oversee and monitor the manner in which the system is being implemented;
+
+&emsp;&emsp;&emsp;&emsp;(IV) establish sufficient operational safeguards to reduce the opportunities for abuse;
+
+&emsp;&emsp;&emsp;&emsp;(V) implement substantial security measures to protect the system from unauthorized access;
+
+&emsp;&emsp;&emsp;&emsp;(VI) adopt policies establishing effective oversight of the use and operation of the system; and
+
+&emsp;&emsp;&emsp;&emsp;(VII) ensure that there are no specific privacy concerns with the technological architecture of the system.
+
+&emsp;&emsp;&emsp;(iv)
+
+Passenger information.—Not later than 180 days after the completion of the testing of the advanced passenger prescreening system, the Assistant Secretary, by order or interim final rule—
+
+&emsp;&emsp;&emsp;&emsp;(I) shall require air carriers to supply to the Assistant Secretary the passenger information needed to begin implementing the advanced passenger prescreening system; and
+
+&emsp;&emsp;&emsp;&emsp;(II) shall require entities that provide systems and services to air carriers in the operation of air carrier reservations systems to provide to air carriers passenger information in possession of such entities, but only to the extent necessary to comply with subclause (I).
+
+&emsp;&emsp;(D)
+
+Screening of employees against watchlist.—The Assistant Secretary of Homeland Security (Transportation Security Administration), in coordination with the Secretary of Transportation and the Administrator of the Federal Aviation Administration, shall ensure that individuals are screened against all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government before—
+
+&emsp;&emsp;&emsp;(i) being certificated by the Federal Aviation Administration;
+
+&emsp;&emsp;&emsp;(ii) being granted unescorted access to the secure area of an airport; or
+
+&emsp;&emsp;&emsp;(iii) being granted unescorted access to the air operations area (as defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulation to such section) of an airport.
+
+&emsp;&emsp;(E)
+
+Aircraft charter customer and lessee prescreening.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Not later than 90 days after the date on which the Assistant Secretary assumes the performance of the advanced passenger prescreening function under subparagraph (C)(ii), the Assistant Secretary shall establish a process by which operators of aircraft to be used in charter air transportation with a maximum takeoff weight greater than 12,500 pounds and lessors of aircraft with a maximum takeoff weight greater than 12,500 pounds may—
+
+&emsp;&emsp;&emsp;&emsp;(I) request the Department of Homeland Security to use the advanced passenger prescreening system to compare information about any individual seeking to charter an aircraft with a maximum takeoff weight greater than 12,500 pounds, any passenger proposed to be transported aboard such aircraft, and any individual seeking to lease an aircraft with a maximum takeoff weight greater than 12,500 pounds to the automatic selectee and no fly lists, utilizing all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government; and
+
+&emsp;&emsp;&emsp;&emsp;(II) refuse to charter or lease an aircraft with a maximum takeoff weight greater than 12,500 pounds to or transport aboard such aircraft any persons identified on such watch list.
+
+&emsp;&emsp;&emsp;(ii)
+
+Requirements.—The requirements of subparagraph (C)(iii) shall apply to this subparagraph.
+
+&emsp;&emsp;&emsp;(iii) No fly and automatic selectee lists.—The Secretary of Homeland Security, in consultation with the Terrorist Screening Center, shall design and review, as necessary, guidelines, policies, and operating procedures for the collection, removal, and updating of data maintained, or to be maintained, in the no fly and automatic selectee lists.
+
+&emsp;&emsp;(F)
+
+Applicability.—Section 607 of the Vision 100—Century of Aviation Reauthorization Act (49 U.S.C. 44903 note; 117 Stat. 2568) shall not apply to the advanced passenger prescreening system established under subparagraph (C).
+
+&emsp;&emsp;(G)
+
+Appeal procedures.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The Assistant Secretary shall establish a timely and fair process for individuals identified as a threat under one or more of subparagraphs (C), (D), and (E) to appeal to the Transportation Security Administration the determination and correct any erroneous information.
+
+&emsp;&emsp;&emsp;(ii)
+
+Records.—The process shall include the establishment of a method by which the Assistant Secretary will be able to maintain a record of air passengers and other individuals who have been misidentified and have corrected erroneous information. To prevent repeated delays of misidentified passengers and other individuals, the Transportation Security Administration record shall contain information determined by the Assistant Secretary to authenticate the identity of such a passenger or individual.
+
+&emsp;&emsp;(H)
+
+Definition.—In this paragraph, the term “secure area of an airport” means the sterile area and the Secure Identification Display Area of an airport (as such terms are defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulation to such section).
+
 (k)
 
 Limitation on Liability for Acts To Thwart Criminal Violence or Aircraft Piracy.—An individual shall not be liable for damages in any action brought in a Federal or State court arising out of the acts of the individual in attempting to thwart an act of criminal violence or piracy on an aircraft if that individual reasonably believed that such an act of criminal violence or piracy was occurring or was about to occur.
@@ -206,7 +364,7 @@ Air Charter Program.—
 
 &emsp;(1)
 
-In general.—The Under Secretary for Border and Transportation Security of the Department of Homeland Security shall implement an aviation security program for charter air carriers (as defined in section 40102(a)) with a maximum certificated takeoff weight of more than 12,500 pounds.
+In general.—The Under Secretary for Border and Transportation Security of the Department of Homeland Security shall implement an aviation security program for charterair carriers (as defined in section 40102(a)) with a maximum certificated takeoff weight of more than 12,500 pounds.
 
 &emsp;(2)
 
@@ -224,7 +382,7 @@ Security procedures.—The Secretary of Defense, in consultation with the Secret
 
 Armed forces defined.—In this paragraph, the term “armed forces” has the meaning given that term by section 101(a)(4) of title 10.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I, §§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644; Pub. L. 107–296, title XIV, §§1405, 1406, Nov. 25, 2002, 116 Stat. 2307; Pub. L. 108–176, title VI, §606(a), Dec. 12, 2003, 117 Stat. 2568.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I, §§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644; Pub. L. 107–296, title XIV, §§1405, 1406, Nov. 25, 2002, 116 Stat. 2307; Pub. L. 108–176, title VI, §606(a), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 108–458, title IV, §§4011(a), 4012(a)(1), Dec. 17, 2004, 118 Stat. 3712, 3714.)
 
 Historical and Revision Notes
 
@@ -270,7 +428,7 @@ In this section, the word “passengers” is substituted for “persons” for 
 
 In subsection (a)(2), the words “the degree of” are substituted for “such” for clarity.
 
-In subsection (b), before clause (1), the word “rules” is omitted as being synonymous with “regulations”. The words “such reasonable . . . requiring such practices, methods, and procedures, or governing the design, materials, and construction of aircraft, as he may deem necessary” are omitted as surplus. The word “air” after “intrastate” is added for clarity and consistency. The words “and amending” are omitted as surplus. In clause (1), the words “the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities” are substituted for “such other Federal, State, and local agencies” for consistency in the revised title and with other titles of the United States Code. The words “as he may deem appropriate” areomitted as surplus. In clause (2)(A), the words “in air transportation or intrastate air transportation against acts of criminal violence and aircraft piracy” are omitted as surplus. In clause (3), before subclause (A), the words “inspection” and “in air transportation and intrastate air transportation” are omitted as surplus. In subclause (B), the words “that they will receive” and “any air transportation security program established under” are omitted as surplus. In clause (4), the words “contribute to . . . the purposes of” are omitted as surplus.
+In subsection (b), before clause (1), the word “rules” is omitted as being synonymous with “regulations”. The words “such reasonable . . . requiring such practices, methods, and procedures, or governing the design, materials, and construction of aircraft, as he may deem necessary” are omitted as surplus. The word “air” after “intrastate” is added for clarity and consistency. The words “and amending” are omitted as surplus. In clause (1), the words “the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities” are substituted for “such other Federal, State, and local agencies” for consistency in the revised title and with other titles of the United States Code. The words “as he may deem appropriate” are omitted as surplus. In clause (2)(A), the words “in air transportation or intrastate air transportation against acts of criminal violence and aircraft piracy” are omitted as surplus. In clause (3), before subclause (A), the words “inspection” and “in air transportation and intrastate air transportation” are omitted as surplus. In subclause (B), the words “that they will receive” and “any air transportation security program established under” are omitted as surplus. In clause (4), the words “contribute to . . . the purposes of” are omitted as surplus.
 
 In subsection (c)(1), the words “traveling in air transportation or intrastate air transportation from acts of criminal violence and aircraft piracy” and “whose services are made available by their employers” are omitted as surplus. The words “department, agency, or instrumentality of the Government” are substituted for “Federal department or agency” for consistency in the revised title and with other titles of the Code. The word “When” is substituted for “In any case in which” to eliminate unnecessary words. The words “receipt of”, “by order”, “the services of”, “directly”, and “at the airport concerned in such numbers and for such period of time as the Administrator may deem necessary” are omitted as surplus. The words “When deciding whether additional personnel are needed” are substituted for “In making the determination referred to in the preceding sentence” for clarity.
 
@@ -284,13 +442,23 @@ The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–
 
 The date of enactment of this subsection, referred to in subsec. (h)(4)(A), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
 
+The date of enactment of this paragraph, referred to in subsec. (h)(6)(A), is the date of enactment of Pub. L. 108–458, which was approved Dec. 17, 2004.
+
 The date of enactment of this paragraph, referred to in subsec. (i)(3), is the date of enactment of Pub. L. 107–296, which was approved Nov. 25, 2002.
 
 The date of enactment of the Aviation and Transportation Security Act, referred to in subsec. (j)(1), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
 
 The date of enactment of this Act, referred to in subsec. (j)(1), probably means the date of enactment of Pub. L. 107–71, which enacted subsec. (j), originally (i), of this section and which was approved Nov. 19, 2001.
 
+Section 607 of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (j)(2)(F), is section 607 of Pub. L. 108–176, which is set out as a note below.
+
 #### Amendments
+
+2004—Subsec. (h)(4)(E). Pub. L. 108–458, §4011(a)(1), substituted “shall issue, not later than March 31, 2005, guidance for” for “may provide for”.
+
+Subsec. (h)(5) to (7). Pub. L. 108–458, §4011(a)(2), added pars. (5) to (7).
+
+Subsec. (j)(2)(C) to (H). Pub. L. 108–458, §4012(a)(1), added subpars. (C) to (H).
 
 2003—Subsec. (<i>l</i>). Pub. L. 108–176 added subsec. (<i>l</i>).
 
@@ -406,7 +574,7 @@ Pub. L. 108–176, title VIII, §821, Dec. 12, 2003, 117 Stat. 2594, provided th
 
 #### Improved Flight Deck Integrity Measures
 
-2001—Pub. L. 107–71, title I, §104, Nov. 19, 2001, 115 Stat. 605, provided that:
+Pub. L. 107–71, title I, §104, Nov. 19, 2001, 115 Stat. 605, provided that:
 
 “(a)
 
@@ -436,7 +604,7 @@ Implementation of Other Methods.—As soon as possible after such date of enactm
 
 “(c)
 
-Commuter Aircraft.—The Administrator shall investigate means of securing the flight deck of scheduled passenger aircraft operating in air transportation or intrastate air transportation that do not have a rigid fixed door with a lock between the passenger compartment and the flight deck and issue such an order as the Administrator deems appropriate to ensure the inaccessibility, to the greatest extent feasible, of the flight deck while the aircraft is so operating, taking into consideration such aircraft operating in regionswhere there is minimal threat to aviation security or national security.”
+Commuter Aircraft.—The Administrator shall investigate means of securing the flight deck of scheduled passenger aircraft operating in air transportation or intrastate air transportation that do not have a rigid fixed door with a lock between the passenger compartment and the flight deck and issue such an order as the Administrator deems appropriate to ensure the inaccessibility, to the greatest extent feasible, of the flight deck while the aircraft is so operating, taking into consideration such aircraft operating in regions where there is minimal threat to aviation security or national security.”
 
 #### Small and Medium Airports
 
@@ -623,8 +791,4 @@ Pub. L. 104–264, title III, §309, Oct. 9, 1996, 110 Stat. 3253, provided that
 #### Definitions of Terms in Pub. L. 107–71
 
 For definitions of terms used in sections 104, 106(b), (e), 117, 121, 128, and 132(a) of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 40109, 44901, 44915, 44917, 44918, 44921, 44933, 44935, 44937, 44940, 46301, 46314, 46316 of this title.
 

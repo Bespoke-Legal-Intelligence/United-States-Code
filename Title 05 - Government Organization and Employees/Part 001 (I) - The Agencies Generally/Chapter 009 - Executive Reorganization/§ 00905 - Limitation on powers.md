@@ -18,7 +18,7 @@
 
 (b) A provision contained in a reorganization plan may take effect only if the plan is transmitted to Congress (in accordance with section 903(b)) on or before December 31, 1984.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 396; Pub. L. 91–5, Mar. 27, 1969, 83 Stat. 6; Pub. L. 92–179, §4, Dec. 10, 1971, 85 Stat. 576; Pub. L. 95–17, §2, Apr.6, 1977, 91 Stat. 31; Pub. L. 96–230, Apr. 8, 1980, 94 Stat. 329; Pub. L. 98–614, §§2(a), 5(a), Nov. 8, 1984, 98 Stat. 3192, 3193.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 396; Pub. L. 91–5, Mar. 27, 1969, 83 Stat. 6; Pub. L. 92–179, §4, Dec. 10, 1971, 85 Stat. 576; Pub. L. 95–17, §2, Apr. 6, 1977, 91 Stat. 31; Pub. L. 96–230, Apr. 8, 1980, 94 Stat. 329; Pub. L. 98–614, §§2(a), 5(a), Nov. 8, 1984, 98 Stat. 3192, 3193.)
 
 Historical and Revision Notes
 
@@ -95,8 +95,4 @@ Subsec. (b). Pub. L. 92–179, §4(b), substituted “April 1, 1973” for “Ap
 #### Plan for Transportation Department Reorganization
 
 Pub. L. 104–50, title III, §335, Nov. 15, 1995, 109 Stat. 458, provided in part that: “notwithstanding 5 U.S.C. 905(b), the President may prepare and transmit to Congress not later than the date for transmittal to Congress of the Budget Request for Fiscal Year 1997, a reorganization plan pursuant to chapter 9 of title 5, United States Code, for the reorganization of the surface transportation activities of the Department of Transportation and the relationship of the Saint Lawrence Seaway Development Corporation to the Department.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 903, 904 of this title; title 6 section 542; title 22 section 6601.
 

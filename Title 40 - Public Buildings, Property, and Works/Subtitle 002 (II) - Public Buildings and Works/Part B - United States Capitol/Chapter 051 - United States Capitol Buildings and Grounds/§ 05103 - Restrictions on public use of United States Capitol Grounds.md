@@ -22,7 +22,3 @@ July 31, 1946, ch. 707, §2, 60 Stat. 718.
 
 The words “by flagging, paving, or otherwise” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5106, 5107, 5109 of this title; title 2 sections 1819, 1961, 1970, 2021, 2161.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—SALES OF PROPERTY FOR PRIVATE USE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2362 of this title.
-
 
 ---
 

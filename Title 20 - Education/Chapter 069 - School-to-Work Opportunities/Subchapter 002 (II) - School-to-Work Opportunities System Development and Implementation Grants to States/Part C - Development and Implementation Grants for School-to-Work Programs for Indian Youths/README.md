@@ -1,9 +1,5 @@
 Part C—Development and Implementation Grants for School-to-Work Programs for Indian Youths
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 6235 of this title.
-
 
 ---
 

@@ -14,7 +14,3 @@ Section was formerly classified to section 423 of Title 48, Territories and Insu
 
 1938—Act June 15, 1938, inserted last clause relating to use of timber by churches, hospitals, and charitable institutions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3215 of this title; title 43 sections 942–1, 942–3 to 942–8.
-

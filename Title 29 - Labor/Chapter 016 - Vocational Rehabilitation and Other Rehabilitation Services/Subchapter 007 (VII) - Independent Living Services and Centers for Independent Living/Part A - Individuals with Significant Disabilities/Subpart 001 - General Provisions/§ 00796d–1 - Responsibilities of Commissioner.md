@@ -28,7 +28,7 @@ Not later than October 1, 1993, the Commissioner shall develop and publish in th
 
 #### (1) Reviews
 
-&emsp;The Commissioner shall annually conduct onsite compliance reviews of at least 15 percent of the centers for independent living that receive funds under section 796f–1 of this title and shall periodically conduct such a review of each such center. The Commissioner shall annually conduct onsite compliance reviews of at least one-third of the designated State units that receive funding under section 796f–2 of this title, and, to the extent necessary to determine the compliance of such a State unit with subsections (f) and (g) of section 796f–2 of this title, centers that receive funding under section 796f–2 of this title in such State. TheCommissioner shall select the centers and State units described in this paragraph for review on a random basis.
+&emsp;The Commissioner shall annually conduct onsite compliance reviews of at least 15 percent of the centers for independent living that receive funds under section 796f–1 of this title and shall periodically conduct such a review of each such center. The Commissioner shall annually conduct onsite compliance reviews of at least one-third of the designated State units that receive funding under section 796f–2 of this title, and, to the extent necessary to determine the compliance of such a State unit with subsections (f) and (g) of section 796f–2 of this title, centers that receive funding under section 796f–2 of this title in such State. The Commissioner shall select the centers and State units described in this paragraph for review on a random basis.
 
 #### (2) Qualifications of employees conducting reviews
 
@@ -55,8 +55,4 @@ The Commissioner shall include, in the annual report required under section 710 
 A prior section 796d–1, Pub. L. 93–112, title VII, §706, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4448; amended Pub. L. 103–73, title I, §114(d), Aug. 11, 1993, 107 Stat. 729, related to responsibilities of Commissioner, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 Another prior section 796d–1, Pub. L. 93–112, title VII, §706, as added Pub. L. 99–506, title VIII, §803(a), Oct. 21, 1986, 100 Stat. 1837; amended Pub. L. 100–630, title II, §208(e), Nov. 7, 1988, 102 Stat. 3314, provided for a State Independent Living Council, prior to repeal by Pub. L. 102–569, §701(1).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 796e, 796e–1, 796f of this title.
 

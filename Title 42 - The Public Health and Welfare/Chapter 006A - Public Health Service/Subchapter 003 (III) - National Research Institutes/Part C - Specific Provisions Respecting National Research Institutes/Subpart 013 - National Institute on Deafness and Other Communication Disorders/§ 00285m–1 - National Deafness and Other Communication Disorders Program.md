@@ -30,9 +30,5 @@ Pub. L. 100–553 and Pub. L. 100–607 contained identical provisions enacting 
 
 For effective date of amendment by Pub. L. 100–690, see section 2613(b)(1) of Pub. L. 100–690, set out as an Effect of Enactment of Similar Provisions note under section 285m of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 285m–4 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

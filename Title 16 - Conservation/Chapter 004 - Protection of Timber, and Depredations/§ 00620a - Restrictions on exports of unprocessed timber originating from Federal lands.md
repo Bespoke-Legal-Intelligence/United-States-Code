@@ -16,7 +16,3 @@ No person who acquires unprocessed timber originating from Federal lands west of
 
 (Pub. L. 101–382, title IV, §489, Aug. 20, 1990, 104 Stat. 715.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 620d, 620f of this title.
-

@@ -114,7 +114,3 @@ This amends 49:33106(b)(3) to correct an error in the codification enacted by se
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 33102, 33103, 33104 of this title.
-

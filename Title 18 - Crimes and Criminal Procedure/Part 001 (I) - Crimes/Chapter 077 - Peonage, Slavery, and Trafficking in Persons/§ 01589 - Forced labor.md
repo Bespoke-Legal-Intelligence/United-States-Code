@@ -12,7 +12,3 @@ Whoever knowingly provides or obtains the labor or services of a person—
 
 (Added Pub. L. 106–386, div. A, §112(a)(2), Oct. 28, 2000, 114 Stat. 1486.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1592, 1594, 1595, 1961 of this title; title 8 section 1101; title 22 section 7103.
-

@@ -144,7 +144,7 @@
 
 #### (C) Waiver
 
-&emsp;&emsp;If, in any proceeding initiated at the request of any cable operator, the Commission determines that compliance with the requirements of subparagraph (A) would require the cable operator to increase its rates, the Commission may, to the extentconsistent with the public interest, grant such cable operator a waiver from such requirements for such specified period as the Commission determines reasonable and appropriate.
+&emsp;&emsp;If, in any proceeding initiated at the request of any cable operator, the Commission determines that compliance with the requirements of subparagraph (A) would require the cable operator to increase its rates, the Commission may, to the extent consistent with the public interest, grant such cable operator a waiver from such requirements for such specified period as the Commission determines reasonable and appropriate.
 
 #### (c) Regulation of unreasonable rates
 
@@ -196,11 +196,11 @@ Nothing in this subchapter shall be construed as prohibiting any Federal agency,
 
 #### (f) Negative option billing prohibited
 
-A cable operator shall not charge a subscriber for any service or equipment that the subscriber has not affirmatively requested by name. For purposes of this subsection, a subscriber's failure to refuse a cable operator's proposal to provide such service or equipment shall not be deemed to be an affirmative request for such service or equipment.
+A cable operator shall not charge a subscriber for any service or equipment that the subscriberhas not affirmatively requested by name. For purposes of this subsection, a subscriber's failure to refuse a cable operator's proposal to provide such service or equipment shall not be deemed to be an affirmative request for such service or equipment.
 
 #### (g) Collection of information
 
-The Commission shall, by regulation, require cable operators to file with the Commission or a franchising authority, as appropriate, withinone year after October 5, 1992, and annually thereafter, such financial information as may be needed for purposes of administering and enforcing this section.
+The Commission shall, by regulation, require cable operators to file with the Commission or a franchising authority, as appropriate, within one year after October 5, 1992, and annually thereafter, such financial information as may be needed for purposes of administering and enforcing this section.
 
 #### (h) Prevention of evasions
 
@@ -262,7 +262,7 @@ As used in this section—
 
 Notwithstanding any other provision of this section or of section 532 of this title, losses associated with a cable system (including losses associated with the grant or award of a franchise) that were incurred prior to September 4, 1992, with respect to a cable system that is owned and operated by the original franchisee of such system shall not be disallowed, in whole or in part, in the determination of whether the rates for any tier of service or any type of equipment that is subject to regulation under this section are lawful.
 
-(June 19, 1934, ch. 652, title VI, §623, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2788; amended Pub. L. 102–385, §3(a), Oct. 5, 1992, 106 Stat. 1464; Pub. L. 104–104, title III, §301(b), (c), (j), (k)(1), Feb. 8, 1996, 110 Stat. 114, 116, 118.)
+(June 19, 1934, ch. 652, title VI, §623, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2788; amended Pub. L. 102–385, §3(a), Oct. 5, 1992, 106Stat. 1464; Pub. L. 104–104, title III, §301(b), (c), (j), (k)(1), Feb. 8, 1996, 110 Stat. 114, 116, 118.)
 
 #### Amendments
 
@@ -299,8 +299,4 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 #### Restoration, Retierment and Repricing of Service Previously Eliminated, Retiered, or Repriced
 
 Section 9(b) of Pub. L. 98–549 provided that: “Nothing in section 623 or 624 of the Communications Act of 1934 \[sections 543 and 544 of this title\], as added by this Act, shall be construed to allow a franchising authority, or a State or any political subdivision of a State, to require a cable operator to restore, retier, or reprice any cable service which was lawfully eliminated, retiered, or repriced as of September 26, 1984.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 325, 532, 533, 534, 542, 545, 552, 573 of this title.
 

@@ -4,7 +4,3 @@ Nothing in this chapter shall be construed to amend, restrict, or otherwise limi
 
 (Pub. L. 93–627, §23, Jan. 3, 1975, 88 Stat. 2147.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1502 of this title.
-

@@ -1,9 +1,5 @@
 Part IV—Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for Public Broadcasting; General Provisions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 40 section 14507.
-
 
 ---
 

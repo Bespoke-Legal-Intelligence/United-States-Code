@@ -2,7 +2,7 @@
 
 There shall be prepared and published under the supervision of the Committee on the Judiciary of the House of Representatives—
 
-(a) Cumulative Supplements to Code of Laws of United States for each session of Congress.—A supplement for each session of the Congress to the then current edition of the Code of Laws of the United States, cumulatively embracing the legislation of the then current supplement, and correcting errors in such edition and supplement;
+(a) Cumulative Supplements to Code of Laws of United States for each session of Congress.—A supplement for each session of the Congress to the then current edition of the Code of Laws of the United States, cumulatively embracing the legislation of the then current supplement, andcorrecting errors in such edition and supplement;
 
 (b) Cumulative Supplement to District of Columbia Code for each session of Congress.—A supplement for each session of the Congress to the then current edition of the Code of the District of Columbia, cumulatively embracing the legislation of the then current supplement, and correcting errors in such edition and supplement;
 
@@ -15,8 +15,4 @@ There shall be prepared and published under the supervision of the Committee on 
 Council of the District of Columbia, functions respecting, see section 2 of Pub. L. 94–386, Aug. 14, 1976, 90 Stat. 1170, set out as a note under section 285b of Title 2, The Congress.
 
 Office of the Law Revision Counsel, functions respecting preparation, revision, publication, etc., see section 285b of Title 2.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 201, 205, 208, 209, 210, 211, 213 of this title.
 

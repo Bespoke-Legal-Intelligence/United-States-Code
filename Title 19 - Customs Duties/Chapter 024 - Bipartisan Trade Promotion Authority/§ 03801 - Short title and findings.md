@@ -30,7 +30,7 @@ Pub. L. 107–210, §1, Aug. 6, 2002, 116 Stat. 933, provided that: “This Act 
 
 #### Ex. Ord. No. 13277. Delegation of Certain Authorities and Assignment of Certain Functions Under the Trade Act of 2002
 
-Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, provided:
+Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, as amended by Ex. Ord. No. 13346, §4, July 8, 2004, 69 F.R. 41906, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States, including the Trade Act of 2002 (the “Act”) (Public Law 107–210) \[see Short Title note above\] and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -42,13 +42,13 @@ Section 1. <i>Trade Promotion</i>. (a) Except as provided in subsections (b) and
 
 (2) Section 2103(a)(1), (a)(4), (a)(6), b(1) \[(b)(1)\], (c)(1)(B)(i), and (c)(2) of the Act \[19 U.S.C. 3803(a)(1), (4), (6), (b)(1), (c)(1)(B)(i), (2)\];
 
-(3) Section 2105(a)(1) of the Act \[19 U.S.C. 3805(a)(1)\]; and
+(3) Section 2105(a)(1)(A) and (C) of the Act \[19 U.S.C. 3805(a)(1)(A), (C)\]; and
 
 (4) Section 2108(b) of the Act \[19 U.S.C. 3808(b)\].
 
 (c)(i) The Secretary of State, in consultation with the Secretary of Labor and the U.S. Trade Representative, shall carry out the functions of section 2102(c)(2) of the Act \[19 U.S.C. 3802(c)(2)\] with respect to establishing consultative mechanisms. The U.S. Trade Representative, in consultation with the Secretary of State and the Secretary of Labor, shall carry out the reporting function under section 2102(c)(2).
 
-(ii) The Secretary of State, in consultation with the U.S. Trade Representative, shall carry out the functions under section 2102(c)(3) of the Act with respect to establishing consultative mechanisms, with the advice and assistance of the Secretary of the Interior, the Secretary of Health and Human Services, the Administrator of the Environmental Protection Agency, theSecretary of Commerce and, as the Secretary of State determines appropriate, the heads of such other departments and agencies. The U.S. Trade Representative, in consultation with the Secretary of State, shall carry out the reporting function under section 2103(c)(3) \[19 U.S.C. 3803(c)(3)\].
+(ii) The Secretary of State, in consultation with the U.S. Trade Representative, shall carry out the functions under section 2102(c)(3) of the Act with respect to establishing consultative mechanisms, with the advice and assistance of the Secretary of the Interior, the Secretary of Health and Human Services, the Administrator of the Environmental Protection Agency, the Secretary of Commerce and, as the Secretary of State determines appropriate, the heads of such other departments and agencies. The U.S. Trade Representative, in consultation with the Secretary of State, shall carry out the reporting function under section 2103(c)(3) \[19 U.S.C. 3803(c)(3)\].
 
 (iii) The U.S. Trade Representative shall carry out the functions under section 2102(c)(5) of the Act. The U.S. Trade Representative shall, in consultation with the Secretary of Labor, carry out the reporting function and the function of making a report available under section 2102(c)(5).
 
@@ -83,8 +83,4 @@ Sec. 4. \[Amended Ex. Ord. No. 11846, set out as a note under section 2111 of th
 Sec. 5. <i>Judicial Review</i>. This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies, instrumentalities or entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3805 of this title.
 

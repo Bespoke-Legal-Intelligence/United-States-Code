@@ -50,7 +50,7 @@ The national objectives of this chapter are—
 
 #### (6) <sup>1</sup> Exemption
 
-&emsp;Title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] and title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\] shall not apply to actions by federally recognized tribes and the tribally designated housing entities of those tribes under this chapter.
+&emsp;Title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] and title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\] shall not apply to actions by federally recognizedtribes and the tribally designated housing entities of those tribes under this chapter.
 
 (Pub. L. 104–330, title II, §201, Oct. 26, 1996, 110 Stat. 4031; Pub. L. 105–276, title V, §595(e)(7), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–377, §1(a)(1) \[title II, §210\], Oct. 27, 2000, 114 Stat. 1441, 1441A–26; Pub. L. 106–568, title X, §1003(e), Dec. 27, 2000, 114 Stat. 2926.)
 
@@ -83,10 +83,6 @@ Pub. L. 106–377, §1(a)(1) \[title II, §210(1)\], redesignated par. (5), rela
 #### Effective Date
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4112, 4135 of this title.
 
 <i><sup>1</sup></i><i> So in original. Two pars. (6) have been enacted.</i>
 

@@ -36,7 +36,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
 
-Section inapplicable to wheat processors or exporters during period June 1, 1991, through May 31, 1996, seesection 302 of Pub. L. 101–624, set out as a note under section 1379d of this title.
+Section inapplicable to wheat processors or exporters during period June 1, 1991, through May 31, 1996, see section 302 of Pub. L. 101–624, set out as a note under section 1379d of this title.
 
 Section inapplicable to wheat processors or exporters during period June 1, 1986, through May 31, 1991, see section 309 of Pub. L. 99–198, set out as a note under section 1379d of this title.
 

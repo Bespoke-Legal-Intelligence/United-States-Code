@@ -84,7 +84,7 @@ Separate Account in the Treasury.—
 
 &emsp;“(1)
 
-Establishment.—There is established in the Treasury of the United States a separate account which shall consist of amounts deposited into the account by the Architect of the Capitol under subsection (a).
+Establishment.—There is established in the Treasury of the United States a separate accountwhich shall consist of amounts deposited into the account by the Architect of the Capitol under subsection (a).
 
 &emsp;“(2)
 
@@ -194,7 +194,7 @@ House Resolution No. 208, Ninety-fourth Congress, Feb. 24, 1975, as enacted into
 
 #### Inclusion of Additional Areas and Buildings
 
-For inclusion of additional areas and buildings as part of the United States Capitol grounds, see order of the House Office Building Commission affecting the Capitol grounds and buildings, set out as a note undersection 5102 of Title 40, Public Buildings, Property, and Works.
+For inclusion of additional areas and buildings as part of the United States Capitol grounds, see order of the House Office Building Commission affecting the Capitol grounds and buildings, set out as a note under section 5102 of Title 40, Public Buildings, Property, and Works.
 
 #### Compensation of Superintendent of Garages of House Office Buildings
 
@@ -203,8 +203,4 @@ Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2170, as amended by Pub. L. 
 #### Compensation of Personnel Assigned to House Garages in Connection With Parking Activities
 
 Pub. L. 93–245, ch. VI, Jan. 3, 1974, 87 Stat. 1079, provided that: “Effective on the first day of the first applicable pay period which begins on or after the date of enactment of this Act \[Jan. 3, 1974\], the compensation of personnel assigned to the House garages in connection with parking activities and paid from the appropriation ‘House Office Building’ under the Architect of the Capitol, shall be fixed by the Architect of the Capitol without regard to chapter 51 and subchapters III and IV of chapter 53 of title 5, United States Code, and shall thereafter be adjusted in accordance with 5 U.S.C. 5307.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2010, 2162 of this title; title 40 section 3309.
 

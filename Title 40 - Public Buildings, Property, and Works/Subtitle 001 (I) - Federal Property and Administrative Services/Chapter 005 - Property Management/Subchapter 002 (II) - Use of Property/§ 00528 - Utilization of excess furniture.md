@@ -22,7 +22,3 @@ Aug. 7, 1953, ch. 340, §1316, 67 Stat. 439.
 
 The words “Notwithstanding the provisions of any other law” are omitted as unnecessary. The words “may not use funds provided by law to purchase furniture” are substituted for “no funds shall be available in this or any other Act for the purchase of furniture” for clarity and to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 111 of this title.
-

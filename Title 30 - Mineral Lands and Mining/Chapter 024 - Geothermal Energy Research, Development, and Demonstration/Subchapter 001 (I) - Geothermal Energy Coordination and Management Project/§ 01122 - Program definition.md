@@ -14,7 +14,3 @@
 
 “United States Geological Survey” substituted for “Geological Survey” in subsec. (a)(3) pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1121, 1164 of this title.
-

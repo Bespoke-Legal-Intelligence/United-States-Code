@@ -80,7 +80,3 @@ Subsec. (c). Pub. L. 106–569, §403(b)(2), substituted “subsection (a)(3) of
 
 Subsec. (d). Pub. L. 106–569, §403(b)(3), inserted before period at end “, which disclosures shall relate to the mortgagor's rights under this chapter”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4905 of this title.
-

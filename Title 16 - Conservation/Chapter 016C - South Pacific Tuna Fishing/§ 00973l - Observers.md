@@ -18,7 +18,7 @@ The operator shall provide any such observer, while on board the vessel, at no e
 
 #### (c) Removal of fish samples and gathering of other information relating to fisheries
 
-The operator of any vessel from which any fish taken in the Licensing Area is unloaded shall allow, or arrange for, and assist any individual so authorized by the Pacific Island Parties to have full access to any place where such fish is unloaded, to remove samples, and to gather any other information relating to fisheries in the Licensing Area.
+The operator of any vessel from which any fish taken in the Licensing Area is unloaded shall allow, or arrange for, and assist any individual so authorized by the Pacific Island Parties to have full access to any place where such fish is unloaded, to remove samples, and to gather anyother information relating to fisheries in the Licensing Area.
 
 (Pub. L. 100–330, §14, June 7, 1988, 102 Stat. 599.)
 

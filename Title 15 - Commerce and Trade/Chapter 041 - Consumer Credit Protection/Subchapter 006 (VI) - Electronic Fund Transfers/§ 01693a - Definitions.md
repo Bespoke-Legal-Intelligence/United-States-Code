@@ -38,7 +38,3 @@ As used in this subchapter—
 
 (Pub. L. 90–321, title IX, §903, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3728.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1681a of this title.
-

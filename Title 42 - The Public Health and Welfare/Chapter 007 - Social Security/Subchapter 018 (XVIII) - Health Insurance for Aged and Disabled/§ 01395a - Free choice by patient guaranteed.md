@@ -118,7 +118,3 @@ Section 4507(b) of title IV of Pub. L. 105–33 provided that: “Not later than
 
 &emsp;“(2) recommendations as to whether medicare beneficiaries should continue to be able to enter private contracts under section 1802(b) of such Act \[subsec. (b) of this section\] (as added by subsection (a)) and if so, what legislative changes, if any should be made to improve such contracts.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395x, 1395y of this title.
-

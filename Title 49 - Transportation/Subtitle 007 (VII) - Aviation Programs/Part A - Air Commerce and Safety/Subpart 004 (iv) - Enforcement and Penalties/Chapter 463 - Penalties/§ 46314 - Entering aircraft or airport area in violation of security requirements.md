@@ -34,7 +34,3 @@ In subsection (b)(1), the words “Upon conviction” are omitted as surplus.
 
 In subsection (b)(2), the words “airport area” are substituted for “secured area” for consistency in this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 44936 of this title; title 18 section 2333; title 28 section 538.
-

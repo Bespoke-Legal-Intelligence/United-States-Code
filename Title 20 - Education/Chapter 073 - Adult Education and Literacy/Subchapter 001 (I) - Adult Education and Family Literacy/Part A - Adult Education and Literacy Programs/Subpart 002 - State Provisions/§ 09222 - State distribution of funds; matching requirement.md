@@ -26,7 +26,3 @@ Each eligible agency receiving a grant under this part for a fiscal year—
 
 (Pub. L. 105–220, title II, §222, Aug. 7, 1998, 112 Stat. 1066.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9223, 9225 of this title.
-

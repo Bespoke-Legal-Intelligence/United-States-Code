@@ -54,7 +54,3 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 Definition of term “contribution or expenditure” for purposes of subsec. (h) of this section as including any direct or indirect payment, distribution, loan, advance, deposit, or gift of money, or any services, or anything of value (except a loan of money by a national or State bank made in accordance with the applicable banking laws and regulations and in the ordinary course of business) to any candidate, campaign committee, or political party or organization, in connection with any election to any of the offices referred to in section 441b of Title 2, The Congress, but not including (A) communications by a corporation to its stockholders and executive or administrative personnel and their families or by a labor organization to its members and their families on any subject; (B) nonpartisan registration and get-out-the-vote campaigns by a corporation aimed at its stockholders and executive or administrative personnel and their families, or by a labor organization aimed at its members and their families; and (C) the establishment, administration, and solicitation of contributions to a separate segregated fund to be utilized for political purposes by a corporation, labor organization, membership organization, cooperative, or corporation without capital stock, see section 441b(b)(2) of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 441b.
-

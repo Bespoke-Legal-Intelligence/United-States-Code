@@ -211,10 +211,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 918b, 950aaa–2, 1926, 1981, 6941, 6942 of this title; title 12 section 2129; title 16 sections 590z–7, 824k; title 43 sections 485h, 1764.
-
 
 ---
 

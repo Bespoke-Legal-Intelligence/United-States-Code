@@ -6,7 +6,7 @@ The Director of the Institute, with the advice of the Institute's advisory counc
 
 #### (b) Coordination of activities with other national research institutes; minimum activities under program
 
-Activities under the national arthritis and musculoskeletal and skin diseases program shall be coordinated with the other national research institutes to the extent that such institutes have responsibilities respecting arthritis and musculoskeletal and skin diseases, and shall, at least, provide for—
+Activities under the national arthritis and musculoskeletal and skin diseases program shall be coordinated with the other national researchinstitutes to the extent that such institutes have responsibilities respecting arthritis and musculoskeletal and skin diseases, and shall, at least, provide for—
 
 &emsp;(1) investigation into the epidemiology, etiology, and prevention of all forms of arthritis and musculoskeletal and skin diseases, including sports-related disorders, primarily through the support of basic research in such areas as immunology, genetics, biochemistry, microbiology, physiology, bioengineering, and any other scientific discipline which can contribute important knowledge to the treatment and understanding of arthritis and musculoskeletal and skin diseases;
 
@@ -31,8 +31,4 @@ The Director of the Institute shall carry out the national arthritis and musculo
 Subsec. (b)(5). Pub. L. 103–43, §701(b)(2), added par. (5).
 
 1988—Pub. L. 100–607 inserted “and skin” after “musculoskeletal” in section catchline and wherever appearing in text.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 285d–7 of this title.
 

@@ -28,7 +28,7 @@ The Secretary shall—
 
 &emsp;(2) review each such report; and
 
-&emsp;(3) with respect to each such report, make recommendations as the Secretary considers appropriate to carry out the purposes of this subchapter.
+&emsp;(3) with respect to each such report, make recommendations as the Secretary considersappropriate to carry out the purposes of this subchapter.
 
 #### (d) Public availability
 
@@ -49,8 +49,4 @@ The Hawaiian Homes Commission Act, 1920, referred to in subsec. (d)(1), is act J
 #### Codification
 
 Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted identical sections 820 of Pub. L. 104–330. This section is based on the text of section 820 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4238, 4240 of this title.
 

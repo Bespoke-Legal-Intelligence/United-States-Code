@@ -40,7 +40,3 @@ In subsection (a), the text of 49 App.:1509(f) (last sentence) is omitted as unn
 
 In subsection (b)(1), the words “Within 30 days after the date of enactment of subsection (f) of section 1109 of the Federal Aviation Act of 1958 as added by this subsection” are omitted as obsolete.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 46301, 46316 of this title.
-

@@ -46,7 +46,3 @@ Subsec. (b)(1). Pub. L. 105–128, §7(3)(B), inserted “or cooperative agreeme
 
 Subsec. (b)(2). Pub. L. 105–128, §7(3)(C), substituted “Grants, contracts, and cooperative agreements” for “Grants and contracts”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9131 of this title.
-

@@ -154,7 +154,7 @@ Sale or Lease of Defective or Noncompliant Tire.—
 
 &emsp;(1)
 
-In general.—The Secretary shall, within 90 days of the date of the enactment of the Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act, issue a final rule requiring any person who knowingly and willfully sells or leases for use on a motor vehicle a defective tire or a tire which is not compliant with an applicable tiresafety standard with actual knowledge that the manufacturer of such tire has notified its dealers of such defect or noncompliance as required under section 30118(c) or as required by an order under section 30118(b) to report such sale or lease to the Secretary.
+In general.—The Secretary shall, within 90 days of the date of the enactment of the Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act, issue a final rule requiring any person who knowingly and willfully sells or leases for use on a motor vehicle a defective tire or a tire which is not compliant with an applicable tire safety standard with actual knowledge that the manufacturer of such tire has notified its dealers of such defect or noncompliance as required under section 30118(c) or as required by an order under section 30118(b) to report such sale or lease to the Secretary.
 
 &emsp;(2)
 
@@ -327,8 +327,4 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30102, 30103, 30117, 30118, 30141, 30147, 30165, 30170 of this title.
 

@@ -88,7 +88,3 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1925, 1934, 1991, 2008f of this title.
-

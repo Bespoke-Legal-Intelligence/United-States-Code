@@ -20,7 +20,3 @@ Minor changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 959 of this title; title 22 section 461.
-

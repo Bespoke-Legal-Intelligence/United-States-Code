@@ -26,7 +26,3 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 This section to have no effect with respect to Libya in view of prohibition of import into United States of any goods or services of Libyan origin other than publications and materials imported for news publications or broadcast dissemination, see Ex. Ord. No. 12543, Jan. 7, 1986, 51 F.R. 875, set out under section 1701 of Title 50, War and National Defense.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2254, 2503, 2518, 2904, 3810 of this title.
-

@@ -1,6 +1,6 @@
 ### §210. Pay of senior enlisted members during terminal leave and while hospitalized
 
-(a) A noncommissioned officer of an armed force who, immediately following the completion of service as the senior enlisted member of that armed force, is placed on terminal leavepending retirement shall be entitled, for not more than 60 days while in such status, to the rate of basic pay authorized for the senior enlisted member of that armed force.
+(a) A noncommissioned officer of an armed force who, immediately following the completion of service as the senior enlisted member of that armed force, is placed on terminal leave pending retirement shall be entitled, for not more than 60 days while in such status, to the rate of basic pay authorized for the senior enlisted member of that armed force.
 
 (b) A noncommissioned officer of an armed force who is hospitalized and who, during or immediately before such hospitalization, completed service as the senior enlisted member of that armed force, shall continue to be entitled, for not more than 180 days while so hospitalized, to the rate of basic pay authorized for the senior enlisted member of that armed force.
 

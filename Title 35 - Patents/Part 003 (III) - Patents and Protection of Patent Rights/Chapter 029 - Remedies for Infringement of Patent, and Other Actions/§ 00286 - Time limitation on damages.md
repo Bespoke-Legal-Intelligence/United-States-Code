@@ -14,7 +14,3 @@ The first paragraph is the same as the provision in R.S. 4921 with minor changes
 
 The second paragraph is new and relates to extending the period of limitations with respect to suits in the Court of Claims in certain instances when administrative consideration is pending.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 157 of this title.
-

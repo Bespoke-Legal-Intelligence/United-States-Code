@@ -4,7 +4,3 @@ No increase in the construction charges shall, after August 13, 1914, be made, a
 
 (Aug. 13, 1914, ch. 247, §4, 38 Stat. 687.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 470, 475 of this title.
-

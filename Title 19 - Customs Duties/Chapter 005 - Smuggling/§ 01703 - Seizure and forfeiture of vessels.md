@@ -14,7 +14,3 @@ For the purposes of this section, the fact that a vessel has become subject to p
 
 (Aug. 5, 1935, ch. 438, title I, §3, 49 Stat. 518.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1590 of this title.
-

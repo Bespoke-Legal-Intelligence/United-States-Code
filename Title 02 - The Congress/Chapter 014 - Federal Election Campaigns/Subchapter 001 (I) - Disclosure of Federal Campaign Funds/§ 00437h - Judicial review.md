@@ -18,13 +18,13 @@ Another prior section 310 of Pub. L. 92–225 was classified to section 440 of t
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–352 struck out “(a)” before “The Commission” and struck out subsec. (b) which read as follows: “Notwithstanding any other provision of law, any decision on a matter certified under subsection (a) of this section shall be reviewable by appeal directly to the Supreme Court of the United States. Such appeal shall be brought no later than 20 days after the decision of the court of appeals.”
+1988—Pub. L. 100–352 struck out “(a)” before “The Commission” and struck out subsec. (b) which read as follows: “Notwithstanding any other provision of law, any decision on a matter certified under subsection (a) of this section shall be reviewable by appeal directly to the Supreme Court of the United States. Such appeal shall be brought no later than 20 days after the decision of the court of appeals.”
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–620 struck out subsec. (c) which provided for advancement on appellate docket and expedited disposition of any matter certified under subsec. (a) of this section.
+1984—Subsec. (c). Pub. L. 98–620 struck out subsec. (c) which provided for advancement on appellate docket and expedited disposition of any matter certified under subsec. (a) of this section.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–187, §112(c), struck out “of the United States” after “office of President”.
+1980—Subsec. (a). Pub. L. 96–187, §112(c), struck out “of the United States” after “office of President”.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–283, §115(e), struck out references to sections 608, 610, 611, 613, 614, 615, 616, and 617 of title 18.
+1976—Subsec. (a). Pub. L. 94–283, §115(e), struck out references to sections 608, 610, 611, 613, 614, 615, 616, and 617 of title 18.
 
 #### Effective Date of 1988 Amendment
 
@@ -64,7 +64,7 @@ Intervention by Members of Congress.—In any action in which the constitutional
 
 “(c)
 
-Challenge by Members of Congress.—Any Member of Congress may bring an action, subject to the special rules described in subsection (a), for declaratory or injunctive relief to challenge the constitutionality of any provision of this Act or any amendment made by this Act.
+Challenge by Members of Congress.—Any Member of Congress may bring an action, subject tothe special rules described in subsection (a), for declaratory or injunctive relief to challenge the constitutionality of any provision of this Act or any amendment made by this Act.
 
 “(d)
 

@@ -1,9 +1,5 @@
 ### PART B—AIRPORT DEVELOPMENT AND NOISE
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 46110 of this title.
-
 
 ---
 

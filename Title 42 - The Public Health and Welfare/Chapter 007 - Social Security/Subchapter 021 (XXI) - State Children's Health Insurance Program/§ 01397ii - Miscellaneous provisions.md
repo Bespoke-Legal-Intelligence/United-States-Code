@@ -26,7 +26,7 @@
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(1), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (a)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(1), is classified generally to Title 26, Internal Revenue Code. Subtitle K of such Code appears at section 9801 et seq. of Title 26.
 

@@ -35,10 +35,6 @@
 
 1993—Pub. L. 103–62, §11(b)(1), Aug. 3, 1993, 107 Stat. 295, added items 1115 to 1119.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1512, 9109 of this title; title 2 section 907a; title 7 sections 934, 1932; title 19 section 2232; title 21 section 1703; title 42 sections 1487, 1962b–6, 8107, 10156, 10222.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 

@@ -8,7 +8,3 @@ The Secretary of the Interior may, upon petition by any tribe, issue a charter o
 
 1990—Pub. L. 101–301 substituted “by any tribe” for “by at least one-third of the adult Indians”, “by the governing body of such tribe” for “at a special election by a majority vote of the adult Indians living on the reservation”, and “twenty-five years any trust or restricted lands” for “ten years any of the land”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 396b, 473, 473a, 478–1, 713b, 2108 of this title.
-

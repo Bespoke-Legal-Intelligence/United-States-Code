@@ -28,7 +28,3 @@ Amendment by Pub. L. 98–622 applicable to all United States patents granted be
 
 Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and after that date to patent applications filed in the United States and to international applications, where applicable, see section 11 of Pub. L. 94–131, set out as an Effective Date note under section 351 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 111, 121, 154, 273, 365, 373 of this title.
-

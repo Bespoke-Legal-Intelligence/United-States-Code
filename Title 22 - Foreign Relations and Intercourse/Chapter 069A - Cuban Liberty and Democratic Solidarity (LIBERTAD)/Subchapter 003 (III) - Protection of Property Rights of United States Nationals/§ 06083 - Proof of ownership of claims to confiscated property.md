@@ -36,7 +36,3 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 Section is comprised of section 303 of Pub. L. 104–114. Subsec. (b) of section 303 of Pub. L. 104–114 enacted section 1643<i>l</i> of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6082 of this title.
-

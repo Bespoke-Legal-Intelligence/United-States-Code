@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—AGRICULTURAL RESOURCES CONSERVATION PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3801, 3811, 3821, 3841, 3843, 3844 of this title; title 7 sections 1308, 1308–3.
-
 
 ---
 

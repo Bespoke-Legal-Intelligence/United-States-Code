@@ -16,7 +16,3 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 1972—Pub. L. 92–540 inserted “this chapter or” before “chapter 34 or 35”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3689 of this title.
-

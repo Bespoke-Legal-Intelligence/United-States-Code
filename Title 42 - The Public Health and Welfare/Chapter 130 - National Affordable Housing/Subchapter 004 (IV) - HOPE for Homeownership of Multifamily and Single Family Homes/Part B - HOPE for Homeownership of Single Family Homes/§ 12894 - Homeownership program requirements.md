@@ -26,7 +26,7 @@ A homeownership program under this part shall provide, and include a plan, for�
 
 The application shall include a plan ensuring that the unit—
 
-&emsp;(1) will be free from any defects that pose a danger to health or safety before transfer of an ownership interest in, or shares representing, a unit to an eligible family; and
+&emsp;(1) will be free from any defects that pose a danger to health or safety before transfer of anownership interest in, or shares representing, a unit to an eligible family; and
 
 &emsp;(2) will, not later than 2 years after the transfer to an eligible family, meet minimum housing standards established by the Secretary for the purpose of this title.<sup>2</sup>
 
@@ -43,10 +43,6 @@ This title, referred to in subsec. (e)(2), is title IV of Pub. L. 101–625, Nov
 #### Amendments
 
 1992—Subsec. (f). Pub. L. 102–550 added subsec. (f).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12893 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
 

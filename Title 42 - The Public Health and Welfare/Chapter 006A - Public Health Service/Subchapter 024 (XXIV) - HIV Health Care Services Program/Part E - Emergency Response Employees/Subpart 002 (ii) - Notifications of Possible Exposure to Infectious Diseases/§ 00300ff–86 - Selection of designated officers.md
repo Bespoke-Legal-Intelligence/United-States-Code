@@ -10,7 +10,3 @@ In making the designations required in subsection (a) of this section, a public 
 
 (July 1, 1944, ch. 373, title XXVI, §2686, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 627.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300ff–76 of this title.
-

@@ -2,7 +2,7 @@
 
 (a)
 
-Conditions for Termination.—In the case of any work other than a work made for hire,the exclusive or nonexclusive grant of a transfer or license of copyright or of any right under a copyright, executed by the author on or after January 1, 1978, otherwise than by will, is subject to termination under the following conditions:
+Conditions for Termination.—In the case of any work other than a work made for hire, the exclusive or nonexclusive grant of a transfer or license of copyright or of any right under a copyright, executed by the author on or after January 1, 1978, otherwise than by will, is subject to termination under the following conditions:
 
 &emsp;(1) In the case of a grant executed by one author, termination of the grant may be effected by that author or, if the author is dead, by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's termination interest. In the case of a grant executed by two or more authors of a joint work, termination of the grant may be effected by a majority of the authors who executed it; if any of such authors is dead, the termination interest of any such author may be exercised as a unit by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's interest.
 
@@ -38,7 +38,7 @@ Effect of Termination.—Upon the effective date of termination, all rights unde
 
 &emsp;(4) A further grant, or agreement to make a further grant, of any right covered by a terminated grant is valid only if it is made after the effective date of the termination. As an exception, however, an agreement for such a further grant may be made between the persons provided by clause (3) of this subsection and the original grantee or such grantee's successor in title, after the notice of termination has been served as provided by clause (4) of subsection (a).
 
-&emsp;(5) Termination of a grant under this section affects only those rights covered by the grantsthat arise under this title, and in no way affects rights arising under any other Federal, State, or foreign laws.
+&emsp;(5) Termination of a grant under this section affects only those rights covered by the grants that arise under this title, and in no way affects rights arising under any other Federal, State, or foreign laws.
 
 &emsp;(6) Unless and until termination is effected under this section, the grant, if it does not provide otherwise, continues in effect for the term of copyright provided by this title.
 
@@ -58,7 +58,7 @@ The right of termination would be confined to inter vivos transfers or licenses 
 
 &emsp;1\. In the case of a work of joint authorship, where the grant was signed by two or more of the authors, majority action by those who signed the grant, or by their interests, would be required to terminate it.
 
-&emsp;2\. There are three different situations in which the shares of joint authors, or of a dead author's widow or widower, children, and grandchildren, must be divided under the statute: (1) The right to effect a termination; (2) the ownership of the terminated rights; and (3) the right to make further grants of reverted rights. The respective shares of the authors, and of a dead author's widow or widower, children, and grandchildren, would be divided in exactly the same way in each of these situations. The terms “widow,” “widower,” and “children” are defined in section 101 in an effort to avoid problems and uncertainties that have arisen under the present renewal section.
+&emsp;2\. There are three different situations in which the shares of joint authors, or of a dead author's widow or widower, children, and grandchildren, must be divided under the statute: (1) The right to effect a termination; (2) the ownership of the terminated rights;and (3) the right to make further grants of reverted rights. The respective shares of the authors, and of a dead author's widow or widower, children, and grandchildren, would be divided in exactly the same way in each of these situations. The terms “widow,” “widower,” and “children” are defined in section 101 in an effort to avoid problems and uncertainties that have arisen under the present renewal section.
 
 &emsp;3\. The principle of per stirpes representation would also be applied in exactly the same way in all three situations. Take for example, a case where a dead author left a widow, two living children, and three grandchildren by a third child who is dead. The widow will own half of the reverted interests, the two children will each own 162/3 percent, and the three grandchildren will each own a share of roughly 51/2 percent. But who can exercise the right of termination? Obviously, since she owns 50 percent, the widow is an essential party, but suppose neither of the two surviving children is willing to join her in the termination; is it enough that she gets one of the children of the dead child to join, or can the dead child's interest be exercised only by the action of a majority of his children? Consistent with the per stirpes principle, the interest of a dead child can be exercised only as a unit by majority action of his surviving children. Thus, even though the widow and one grandchild would own 551/2 percent of the reverted copyright, they would have to be joined by another child or grandchild in order to effect a termination or a further transfer of reverted rights. This principle also applies where, for example, two joint authors executed a grant and one of them is dead; in order to effect a termination, the living author must be joined by a per stirpes majority of the dead author's beneficiaries. The notice of termination may be signed by the specified owners of termination interests or by “their duly authorized agents,” which would include the legally appointed guardians or committees of persons incompetent to sign because of age or mental disability.
 
@@ -93,8 +93,4 @@ Section 203(b)(6) provides that, unless and until termination is effected under 
 1998—Subsec. (a)(2). Pub. L. 105–298, §103(1), struck out “by his widow or her widower and his or her children or grandchildren” after “exercised,” in introductory provisions.
 
 Subsec. (a)(2)(D). Pub. L. 105–298, §103(2), added subpar. (D).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 36 section 2114.
 

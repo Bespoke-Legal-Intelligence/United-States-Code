@@ -8,7 +8,3 @@ The Secretary of Agriculture is authorized to make such expenditures for equipme
 
 See note under section 426 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 2909.
-

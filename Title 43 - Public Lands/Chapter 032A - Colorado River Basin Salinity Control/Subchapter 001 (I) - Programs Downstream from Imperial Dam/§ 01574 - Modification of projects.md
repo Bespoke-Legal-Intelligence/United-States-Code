@@ -4,7 +4,3 @@ The Secretary is authorized to provide for modifications of the projects authori
 
 (Pub. L. 93–320, title I, §104, June 24, 1974, 88 Stat. 270.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1578 of this title.
-

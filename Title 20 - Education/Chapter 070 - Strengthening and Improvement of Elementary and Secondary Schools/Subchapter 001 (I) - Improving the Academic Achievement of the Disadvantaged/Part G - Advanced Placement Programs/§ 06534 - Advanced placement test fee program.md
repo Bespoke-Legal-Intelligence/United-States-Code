@@ -58,7 +58,3 @@ For purposes of this section the Bureau of Indian Affairs shall be treated as a 
 
 The Higher Education Act of 1965, referred to in subsec. (d)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Chapter 1 of subpart 2 of part A of title IV of the Act is classified generally to division 1 (§1070a–11 et seq.) of subpart 2 of part A of subchapter IV of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6533 of this title.
-

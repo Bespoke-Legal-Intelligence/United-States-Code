@@ -16,7 +16,3 @@ Changes were made in phraseology.
 
 This section was eliminated by Senate amendment. See 80th Congress Senate Report No. 1559.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 8477; title 8 section 1357.
-

@@ -6,15 +6,11 @@ The Commission shall submit to the President a report of the results of each rev
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–194 amended section catchline generally and in text substituted “Commission with respect to rates of pay for” for “Commission of” and “December 15 next following the close of the fiscal year in which the review is conducted by the Commission.” for “December 15 of the fiscal year in which the review is conducted by the Commission.”
+1989—Pub. L. 101–194 amended section catchline generally and in text substituted “Commission with respect to rates of pay for” for “Commission of” and “December 15 next following the close of the fiscal year in which the review is conducted by the Commission.” for “December 15 of the fiscal year in which the review is conducted by the Commission.”
 
-<b>1985</b>—Pub. L. 99–190 substituted “December 15” for “January 1 next following the close”.
+1985—Pub. L. 99–190 substituted “December 15” for “January 1 next following the close”.
 
 #### 1985 Fiscal Year Recommendations on Pay Rates of Offices and Positions
 
 Section 135(g) of Pub. L. 99–190 provided that: “Notwithstanding section 225(g) of such Act (2 U.S.C. 357), the Commission on Executive, Legislative, and Judicial Salaries shall not make recommendations on the rates of pay of offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 225(f) of such Act (2 U.S.C. 356) in connection with the review of rates of pay of such offices and positions conducted by the Commission in fiscal year 1985.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 352, 358, 362, 363 of this title.
 

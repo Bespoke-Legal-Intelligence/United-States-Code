@@ -63,7 +63,30 @@ Sec. 6. \[Selection from public lands; fish and wildlife resources; public schoo
 
 “(<i>l</i>) The grants provided for in this Act shall be in lieu of the grant of land for purposes of internal improvements made to new States by section 8 of the Act of September 4, 1841 (5 Stat. 455), and sections 2378 and 2379 of the Revised Statutes (43 U.S.C., sec. 857), and in lieu of the swampland grant made by the Act of September 28, 1850 (9 Stat. 520), and section 2479 of the Revised Statutes (43 U.S.C., sec. 982), and in lieu of the grant of thirty thousand acres for each Senator and Representative in Congress made by the Act of July 2, 1862, as amended (12 Stat. 503; 7 U.S.C., secs. 301–308), which grants are hereby declared not to extend to the State of Alaska.
 
-“(m) The Submerged Lands Act of 1953 (Public Law 31, Eighty-third Congress, first session; 67 Stat. 29) shall be applicable to the State of Alaska and the said State shall have the same rights as do existing States thereunder. (As amended Pub. L. 86–70, §2(b), June 25, 1959, 73 Stat. 141; Pub. L. 86–173, Aug. 18, 1959, 73 Stat. 395; Pub. L. 86–786, §§3, 4, Sept. 14, 1960, 74 Stat. 1025; Pub. L. 88–135, Oct. 8, 1963, 77 Stat. 223; Pub. L. 88–289, Mar. 25, 1964, 78 Stat. 169; Pub. L. 89–702, title IV, §408(b), Nov. 2, 1966, 80 Stat. 1098; Pub. L. 96–487, title IX, §906(a), (f)(3), Dec. 2, 1980, 94 Stat. 2437, 2440.)
+“(m) The Submerged Lands Act of 1953 (Public Law 31, Eighty-third Congress, first session; 67 Stat. 29) shall be applicable to the State of Alaska and the said State shall have the same rights as do existing States thereunder.
+
+“(n) The minimum tract selection size is waived with respect to a selection made by the State of Alaska under subsection (a) for the following selections:
+
+&nbsp;
+
+| <b>National Forest Community Grant Application Number</b> | <b>Area Name</b> | <b>Est. Acres</b> |
+| :--- | :---: | ---: |
+| 209 | Yakutat Airport Addition | 111&nbsp;&nbsp; |
+| 264 | Bear Valley (Portage) | 120&nbsp;&nbsp; |
+| 284 | Hyder-Fish Creek | 61&nbsp;&nbsp; |
+| 310 | Elfin Cove | 37&nbsp;&nbsp; |
+| 384 | Edna Bay Admin Site | 37&nbsp;&nbsp; |
+| 390 | Point Hilda | 29\. |
+
+“(<i>o</i>)(1) The State of Alaska may elect to convert a selection filed under subsection (b) to a selection under subsection (a) by notifying the Secretary of the Interior in writing.
+
+“(2) If the State of Alaska makes an election under paragraph (1), the entire selection shall be converted to a selection under subsection (a).
+
+“(3) The Secretary of the Interior shall not convey a total of more than 400,000 acres of public domain land selected under subsection (a) or converted under paragraph (1) to a public domain selection under subsection (a).
+
+“(4) Conversion of a selection under paragraph (1) shall not increase the survey obligation of the United States with respect to the land converted.
+
+“(p) All selection applications of the State of Alaska that are on file with the Secretary of the Interior under the public domain provisions of subsection (a) on the date of enactment of this subsection \[Dec. 10, 2004\] and any selection applications that are converted to a subsection (a) selection under subsection (<i>o</i>)(1) are approved as suitable for community or recreational purposes. (As amended Pub. L. 86–70, §2(b), June 25, 1959, 73 Stat. 141; Pub. L. 86–173, Aug. 18, 1959, 73 Stat. 395; Pub. L. 86–786, §§3, 4, Sept. 14, 1960, 74 Stat. 1025; Pub. L. 88–135, Oct. 8, 1963, 77 Stat. 223; Pub. L. 88–289, Mar. 25, 1964, 78 Stat. 169; Pub. L. 89–702, title IV, §408(b), Nov. 2, 1966, 80 Stat. 1098; Pub. L. 96–487, title IX, §906(a), (f)(3), Dec. 2, 1980, 94 Stat. 2437, 2440; Pub. L. 108–452, title I, §101, Dec. 10, 2004, 118 Stat. 3576.)
 
 “
 
@@ -85,11 +108,11 @@ Sec. 8. \[Election of officers; date; propositions; certification of voting resu
 
 “The Governor of Alaska is hereby authorized and directed to take such action as may be necessary or appropriate to insure the submission of said propositions to the people. The return of the votes cast on said propositions shall be made by the election officers directly to the Secretary of Alaska, who shall certify the results of the submission to the Governor. The Governor shall certify the results of said submission, as so ascertained, to the President of the United States.
 
-“(c) If the President shall find that the propositions set forth in the preceding subsection have been duly adopted by the people of Alaska, the President, upon certification of the returns of the election of the officers required to be elected as provided in section 7 of this Act, shall thereupon issue his proclamation announcing the results of said election as so ascertained. Upon the issuance of said proclamation by the President, the State of Alaska shall be deemed admitted into the Union as provided in section 1 of this Act.
+“(c) If the President shall find that the propositions set forth in the preceding subsection have been dulyadopted by the people of Alaska, the President, upon certification of the returns of the election of the officers required to be elected as provided in section 7 of this Act, shall thereupon issue his proclamation announcing the results of said election as so ascertained. Upon the issuance of said proclamation by the President, the State of Alaska shall be deemed admitted into the Union as provided in section 1 of this Act.
 
 “Until the said State is so admitted into the Union, all of the officers of said Territory, including the Delegate in Congress from said Territory, shall continue to discharge the duties of their respective offices. Upon the issuance of said proclamation by the President of the United States and the admission of the State of Alaska into the Union, the officers elected at said election, and qualified under the provisions of the constitution and laws of said State, shall proceed to exercise all the functions pertaining to their offices in or under or by authority of the government of said State, and officers not required to be elected at said initial election shall be selected or continued in office as provided by the constitution and laws of said State. The Governor of said State shall certify the election of the Senators and Representative in the manner required by law, and the said Senators and Representative shall be entitled to be admitted to seats in Congress and to all the rights and privileges of Senators and Representatives of other States in the Congress of the United States.
 
-“(d) Upon admission of the State of Alaska into the Union as herein provided, all of the Territorial laws then in force in the Territory of Alaska shall be and continue in full force and effect throughout said State except as modified or changed by this Act, or by the constitution of the State, or as thereafter modified or changed by the legislature of the State. All of the laws of the United States shall have the same force and effect within said State as elsewhere within the United States. As used in this paragraph, the term ‘Territoriallaws’ includes (in addition to laws enacted by the Territorial Legislature of Alaska) all laws or parts thereof enacted by the Congress the validity of which is dependent solely upon the authority of the Congress to provide for the government of Alaska prior to the admission of the State of Alaska into the Union, and the term ‘laws of the United States’ includes all laws or parts thereof enacted by the Congress that (1) apply to or within Alaska at the time of the admission of the State of Alaska into the Union, (2) are not ‘Territorial laws’ as defined in this paragraph, and (3) are not in conflict with any other provisions of this Act.
+“(d) Upon admission of the State of Alaska into the Union as herein provided, all of the Territorial laws then in force in the Territory of Alaska shall be and continue in full force and effect throughout said State except as modified or changed by this Act, or by the constitution of the State, or as thereafter modified or changed by the legislature of the State. All of the laws of the United States shall have the same force and effect within said State as elsewhere within the United States. As used in this paragraph, the term ‘Territorial laws’ includes (in addition to laws enacted by the Territorial Legislature of Alaska) all laws or parts thereof enacted by the Congress the validity of which is dependent solely upon the authority of the Congress to provide for the government of Alaska prior to the admission of the State of Alaska into the Union, and the term ‘laws of the United States’ includes all laws or parts thereof enacted by the Congress that (1) apply to or within Alaska at the time of the admission of the State of Alaska into the Union, (2) are not ‘Territorial laws’ as defined in this paragraph, and (3) are not in conflict with any other provisions of this Act.
 
 “
 
@@ -119,7 +142,7 @@ Sec. 10. \[National defense withdrawals; jurisdiction.\] (a) The President of th
 
 “(7) The United States District Court for the District of Alaska shall have original jurisdiction, without regard to the sum or value of any matter in controversy, over all civil actions arising within such withdrawals under the laws made applicable thereto by this subsection, as well as over all offenses committed within the withdrawals.
 
-“(e) Nothing contained in subsection (d) of this section shall be construed as limiting the exclusive jurisdiction established in the United States by subsection (c) of this section or the authority of the Congress to implement such exclusive jurisdiction by appropriate legislation, or as denying to persons now or hereafter residing within any portion of the areas described in subsection (b) of this section the right to vote at all elections held within the political subdivisions as prescribed by the State of Alaska where they respectively reside, or as limiting the jurisdiction conferred on the United States District Court for the District of Alaska by any other provision of law, or as continuing in effectlaws relating to the Legislature of the Territory of Alaska. Nothing contained in this section shall be construed as limiting any authority otherwise vested in the Congress or the President. (As amended Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+“(e) Nothing contained in subsection (d) of this section shall be construed as limiting the exclusive jurisdiction established in the United States by subsection (c) of this section or the authority of the Congress to implement such exclusive jurisdiction by appropriate legislation, or as denying to persons now or hereafter residing within any portion of the areas described in subsection (b) of this section the right to vote at all elections held within the political subdivisions as prescribed by the State of Alaska where they respectively reside, or as limiting the jurisdiction conferred on the United States District Court for the District of Alaska by any other provision of law, or as continuing in effect laws relating to the Legislature of the Territory of Alaska. Nothing contained in this section shall be construed as limiting any authority otherwise vested in the Congress or the President. (As amended Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 “
 
@@ -159,7 +182,7 @@ Sec. 12. \[Judicial and criminal provisions; amendment.\] Effective upon the adm
 
 “(j) Subsection (e) of section 3401 of title 18, United States Code, is amended by striking out the words: ‘for Alaska or’;
 
-“(k) Section 3771 of title 18, United States Code, as heretofore amended, is further amended by striking out from the first paragraph of such section the words: ‘the Territory of Alaska,’;
+“(k) Section 3771 of title 18, United States Code, as heretofore amended, is further amended by striking outfrom the first paragraph of such section the words: ‘the Territory of Alaska,’;
 
 “(<i>l</i>) Section 3772 of title 18, United States Code, as heretofore amended, is further amended by striking out from the first paragraph of such section the words: ‘the Territory of Alaska,’;
 
@@ -177,7 +200,7 @@ Sec. 12. \[Judicial and criminal provisions; amendment.\] Effective upon the adm
 
 Sec. 13. \[Continuation of suits.\] No writ, action, indictment, cause, or proceeding pending in the District Court for the Territory of Alaska on the date when said Territory shall become a State, and no case pending in an appellate court upon appeal from the District Court for the Territory of Alaska at the time said Territory shall become a State, shall abate by the admission of the State of Alaska into the Union, but the same shall be transferred and proceeded with as hereinafter provided.
 
-“All civil causes of action and all criminal offenses which shall have arisen or been committed prior to the admission of said State, but as to which no suit, action,or prosecution shall be pending at the date of such admission, shall be subject to prosecution in the appropriate State courts or in the United States District Court for the District of Alaska in like manner, to the same extent, and with like right of appellate review, as if said State had been created and said courts had been established prior to the accrual of said causes of action or the commission of such offenses; and such of said criminal offenses as shall have been committed against the laws of the Territory shall be tried and punished by the appropriate courts of said State, and such as shall have been committed against the laws of the United States shall be tried and punished in the United States District Court for the District of Alaska.
+“All civil causes of action and all criminal offenses which shall have arisen or been committed prior to the admission of said State, but as to which no suit, action, or prosecution shall be pending at the date of such admission, shall be subject to prosecution in the appropriate State courts or in the United States District Court for the District of Alaska in like manner, to the same extent, and with like right of appellate review, as if said State had been created and said courts had been established prior to the accrual of said causes of action or the commission of such offenses; and such of said criminal offenses as shall have been committed against the laws of the Territory shall be tried and punished by the appropriate courts of said State, and such as shall have been committed against the laws of the United States shall be tried and punished in the United States District Court for the District of Alaska.
 
 “
 
@@ -201,7 +224,7 @@ Sec. 18. \[Jurisdiction of District Court; termination date.\] The provisions of
 
 “
 
-Sec. 19. \[Federal Reserve Act; amendment.\] The first paragraph of section 2 of the Federal Reserve Act (38 Stat. 251) is amended by striking out the last sentence thereof and inserting in lieu of such sentence the following: ‘When the State of Alaska is hereafter admitted to the Union the Federal Reserve districts shall be readjusted by the Board of Governors of the Federal Reserve System in such manner as to include such State. Every national bank in any State shall, upon commencing business or within ninety days after admission into the Union of the State in which it is located, become a member bank of the Federal Reserve System by subscribing and paying for stock in the Federal Reserve bank of its district in accordance with the provisions of this Act and shall thereupon be an insured bank under the Federal Deposit Insurance Act, and failure to do so shall subject such bank to the penalty provided by the sixth paragraph of this section.’
+Sec. 19. \[Federal Reserve Act; amendment.\] The first paragraph of section 2 of the Federal Reserve Act (38 Stat. 251) is amended by striking out the last sentence thereof and inserting in lieu of such sentence the following: ‘When the State of Alaska is hereafter admitted to the Union the Federal Reserve districts shall be readjusted by the Board of Governors of the Federal Reserve System in such manner as to include such State. Every national bank in any State shall, upon commencing business or within ninety days after admission into the Union of the State in which it is located, become a member bank of the Federal Reserve System by subscribing and paying for stock in the Federal Reserve bank of its district in accordance with the provisions of this Act and shall thereupon be an insuredbank under the Federal Deposit Insurance Act, and failure to do so shall subject such bank to the penalty provided by the sixth paragraph of this section.’
 
 “
 
@@ -391,7 +414,7 @@ Sec. 19. \[Importation of milk and cream.\] Subsection (b) of section 9 of the A
 
 “
 
-Sec. 20. \[Opium Poppy Control.\] Section 12 of the Opium Poppy Control Act of 1942 (21 U.S.C. 188k) is amended by deleting therefrom the words ‘the Territory of Alaska,’.
+Sec. 20. \[Opium Poppy Control.\] Section 12 of the Opium Poppy Control Act of 1942 (21 U.S.C. 188k) isamended by deleting therefrom the words ‘the Territory of Alaska,’.
 
 “
 
@@ -401,7 +424,7 @@ Sec. 21. \[Highways.\] (a) The Secretary of Transportation shall transfer to the
 
 “(c)(1) The State of Alaska shall be responsible for the maintenance of roads, including bridges, tunnels, and ferries, transferred to it under subsection (a) of this section, as long as any such road is needed for highway purposes.
 
-“(2) Federal-aid funds apportioned to Alaska under title 23, United States Code, for fiscal year 1960 andprior fiscal years, and unobligated on the date of enactment of this Act, may be used for maintenance of highways on the Federal-aid systems in Alaska.
+“(2) Federal-aid funds apportioned to Alaska under title 23, United States Code, for fiscal year 1960 and prior fiscal years, and unobligated on the date of enactment of this Act, may be used for maintenance of highways on the Federal-aid systems in Alaska.
 
 “(d) Effective July 1, 1959, the following provisions of law are repealed:
 
@@ -463,7 +486,7 @@ Sec. 23. \[Courts.\] (a) The Judicial Conference of the United States, with the 
 
 “(b) Title 28, United States Code, section 81A, is amended by inserting the word ‘Ketchikan,’ immediately following the word ‘Juneau,’.
 
-“(c) Such authority as has been exercised by the Attorney General heretofore, with regard to the Federal court system in Alaska, pursuant to section 30 of the Act of June 6, 1900 (48 U.S.C. 25), shall continue to be exercised by him after the court created by section 12(b) of the Act of July 7, 1958 (72 Stat. 339, 348) \[set out above\], providing for the admission of the State of Alaska into the Union, is established.
+“(c) Such authority as has been exercised by the Attorney General heretofore, with regard to the Federal court system in Alaska, pursuant to section 30 of the Act of June 6, 1900 (48 U.S.C. 25), shall continue to be exercised by him after the court created by section 12(b) of the Act of July 7, 1958 (72 Stat. 339, 348) \[set outabove\], providing for the admission of the State of Alaska into the Union, is established.
 
 “(d) All balances of public moneys received by the clerks of each division of the District Court for the Territory of Alaska pursuant to section 10 of the Act of June 6, 1900, as amended (48 U.S.C. 107), which are on hand after all payments ordered by that court and approved by the Administrative Office of the United States Courts shall have been made, shall be covered into the Treasury of the United States as required by law, and the Secretary of the Treasury shall pay the amounts so covered, which are hereby appropriated, to the State of Alaska.
 
@@ -483,7 +506,7 @@ Sec. 25. \[Gold Reserve Act; amendment.\] Section 15 of the Gold Reserve Act of 
 
 “
 
-Sec. 26. \[Silver Purchase Act; amendment.\] Section 10 of the Silver Purchase Act of 1934 (31 U.S.C. 448b), is amended by striking out the words ‘, the District ofColumbia, and the Territory of Alaska’ and inserting in lieu thereof the words ‘and the District of Columbia’.
+Sec. 26. \[Silver Purchase Act; amendment.\] Section 10 of the Silver Purchase Act of 1934 (31 U.S.C. 448b), is amended by striking out the words ‘, the District of Columbia, and the Territory of Alaska’ and inserting in lieu thereof the words ‘and the District of Columbia’.
 
 “
 
@@ -565,7 +588,7 @@ Sec. 37. \[Real property transactions.\] Section 43(c) of the Act of August 10, 
 
 “
 
-Sec. 38. \[Recreation facilities.\] Section 2 of the Act of May 4, 1956 (70 Stat. 130), is hereby repealed. There are hereby authorized to be appropriated for the fiscal year ending June 30, 1960, such sums as may be necessary to complete the construction of facilities described in section 1 of such Act, as amended by the Act of August 30, 1957 (71 Stat. 510), if construction wasbegun prior to June 30, 1959, and to maintain the facilities pending their transfer pursuant to such section.
+Sec. 38. \[Recreation facilities.\] Section 2 of the Act of May 4, 1956 (70 Stat. 130), is hereby repealed. There are hereby authorized to be appropriated for the fiscal year ending June 30, 1960, such sums as may be necessary to complete the construction of facilities described in section 1 of such Act, as amended by the Act of August 30, 1957 (71 Stat. 510), if construction was begun prior to June 30, 1959, and to maintain the facilities pending their transfer pursuant to such section.
 
 “
 
@@ -617,7 +640,7 @@ Sec. 45. \[Transfer of property.\] (a) If the President determines that any func
 
 “
 
-Sec. 46. \[Claims Commission.\] (a) In the event that any disputes arise between the United States and the State of Alaska prior to January 1, 1965, concerning the transfer, conveyance, or other disposal of property to the State of Alaska pursuant to section 6(e) of the Act of July 7, 1958 (72 Stat. 339, 340) \[set out as a note above\], providing for the admission of the State of Alaska into the Union, or pursuant to this Act, the President is authorized (1) to appoint by and with the advice and consent of the Senate a temporary commission of three persons, to consider, ascertain, adjust, determine, and settle such disputes, and (2) to make such rules and regulations as may be necessary to establish such temporary commission or as may be necessary to terminate such temporary commission at the conclusion of its duties. In carrying out its duties under this section, such commission may hold such hearings, take such testimony, sit and act at such times and places, and incur such expenditures as the commission deems necessary. No commission shall be appointed under authority of this subsection after June 30, 1965.
+Sec. 46. \[Claims Commission.\] (a) In the event that any disputes arise between the United States and the State of Alaska prior to January 1, 1965, concerning the transfer, conveyance, or other disposal of property to the State of Alaska pursuant to section 6(e) of the Act of July 7, 1958 (72 Stat. 339, 340) \[set out as a note above\], providing for the admission of the State of Alaska into the Union, or pursuant to this Act, the President is authorized (1) to appoint by and with the advice and consent of the Senate a temporary commission of three persons, to consider, ascertain, adjust, determine, and settle such disputes, and (2) to make such rules and regulations as may be necessary to establishsuch temporary commission or as may be necessary to terminate such temporary commission at the conclusion of its duties. In carrying out its duties under this section, such commission may hold such hearings, take such testimony, sit and act at such times and places, and incur such expenditures as the commission deems necessary. No commission shall be appointed under authority of this subsection after June 30, 1965.
 
 “(b) The commission may, without regard to the civil service laws and the Classification Act of 1949, employ and fix the compensation of such employees as it deems necessary to carry out its duties under this section. The commission is authorized to use the facilities, information, and personnel of the departments, agencies, and establishments of the executive branch of the United States Government which it deems necessary to carry out its duties; and each such department, agency, and instrumentality is authorized to furnish such facilities, information, and personnel to the commission upon request made by the commission. The commission shall reimburse each such department, agency, or instrumentality for the services of any personnel utilized. The commission may establish such procedures, rules, and regulations as may be necessary to carry out its duties under this section.
 
@@ -679,7 +702,7 @@ Sec. 55. \[Modification of Civil Works Projects.\] The Chief of Engineers, under
 
 “
 
-Sec. 56. \[Purchase of Alaska State Bonds.\] The Secretary of Housing and Urban Development is authorizedto purchase, in accordance with the provisions of sections 202(b), 203, and 204 of Title II of the Housing Amendments of 1955 \[42 U.S.C. 1492(b), 1493, and 1494\], the securities and obligations of, or make loans to, the State of Alaska to finance any part of the programs needed to carry out the reconstruction activities in Alaska related to the 1964 earthquake and subsequent seismic waves or to complete capital improvements begun prior to the earthquake: <i>Provided</i>, That the aggregate amount of such purchase or loan shall not exceed $25,000,000. (Added Pub. L. 88–451, §4, Aug. 19, 1964, 78 Stat. 506, and amended Pub. L. 90–19, §15(a), May 25, 1967, 81 Stat. 24.)
+Sec. 56. \[Purchase of Alaska State Bonds.\] The Secretary of Housing and Urban Development is authorized to purchase, in accordance with the provisions of sections 202(b), 203, and 204 of Title II of the Housing Amendments of 1955 \[42 U.S.C. 1492(b), 1493, and 1494\], the securities and obligations of, or make loans to, the State of Alaska to finance any part of the programs needed to carry out the reconstruction activities in Alaska related to the 1964 earthquake and subsequent seismic waves or to complete capital improvements begun prior to the earthquake: <i>Provided</i>, That the aggregate amount of such purchase or loan shall not exceed $25,000,000. (Added Pub. L. 88–451, §4, Aug. 19, 1964, 78 Stat. 506, and amended Pub. L. 90–19, §15(a), May 25, 1967, 81 Stat. 24.)
 
 “
 
@@ -741,7 +764,7 @@ WHEREAS it further appears from information before me that a general election wa
 
 WHEREAS the Acting Governor of Alaska has certified to me the results of the submission to the people of Alaska of the three propositions set forth in section 8(b) of the act of July 7, 1958 \[set out above\], and the results of the general election; and
 
-WHEREAS I find and announce that the people of Alaska have duly adopted the propositions required tobe submitted to them by the act of July 7, 1958 \[set out above\], and have duly elected the officers required to be elected by that act:
+WHEREAS I find and announce that the people of Alaska have duly adopted the propositions required to be submitted to them by the act of July 7, 1958 \[set out above\], and have duly elected the officers required to be elected by that act:
 
 NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of America, do hereby declare and proclaim that the procedural requirements imposed by the Congress on the State of Alaska to entitle that State to admission into the Union have been complied with in all respects and that admission of the State of Alaska into the Union on an equal footing with the other States of the Union is now accomplished.
 

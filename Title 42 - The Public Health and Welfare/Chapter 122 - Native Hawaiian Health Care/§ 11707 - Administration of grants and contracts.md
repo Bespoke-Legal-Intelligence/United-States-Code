@@ -86,7 +86,3 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 
 1992—Pub. L. 102–396 amended section generally. Prior to amendment, section defined terms for purposes of this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300x–63 of this title.
-

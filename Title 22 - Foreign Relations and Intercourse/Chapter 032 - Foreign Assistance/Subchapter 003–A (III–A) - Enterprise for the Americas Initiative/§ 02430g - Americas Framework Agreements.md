@@ -56,7 +56,7 @@ An Americas Framework Agreement with an eligible country shall—
 
 &emsp;&emsp;(C) shall be subject, on an annual basis, to an audit of financial statements conducted in accordance with generally accepted auditing standards by an independent auditor;
 
-&emsp;&emsp;(D) shall be required to grant to representatives of the United States General Accounting Office such access to books and records associated with operations of the Americas Fund as the Comptroller General of the United States may request;
+&emsp;&emsp;(D) shall be required to grant to representatives of the United States Government Accountability Office such access to books and records associated with operations of the Americas Fund as the Comptroller General of the United States may request;
 
 &emsp;&emsp;(E) shall present an annual program for review each year by the Enterprise for the Americas Board; and
 
@@ -88,13 +88,13 @@ Any grant of more than $100,000 from an Americas Fund shall be subject to veto b
 
 In the event that a country ceases to meet the eligibility requirements set forth in section 2430b(a) of this title, as determined by the President pursuant to section 2430b(b) of this title, then grants from the Americas Fund for that country may only be made to nongovernmental organizations until such time as the President determines that such country meets the eligibility requirements set forth in section 2430b(a) of this title.
 
-(Pub. L. 87–195, pt. IV, §708, as added Pub. L. 102–549, title VI, §602(a), Oct. 28, 1992, 106 Stat. 3667.)
+(Pub. L. 87–195, pt. IV, §708, as added Pub. L. 102–549, title VI, §602(a), Oct. 28, 1992, 106 Stat. 3667; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+#### Amendments
+
+2004—Subsec. (c)(3)(D). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 #### Prior Provisions
 
 A prior section 708 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 464, amended sections 1041, 1112, 1136, 1148, and 1157 of this title, prior to repeal by Pub. L. 87–565, pt. IV, §401, Aug. 1, 1962, 76 Stat. 263, except insofar as section 708 affected sections 1041, 1112, 1136, 1148, and 1157.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2430a, 2431g of this title.
 

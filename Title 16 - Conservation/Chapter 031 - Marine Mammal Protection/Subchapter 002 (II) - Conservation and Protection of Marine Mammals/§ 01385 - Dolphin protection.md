@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;(C) the written statements and endorsements referred to in subparagraph (B) comply with regulations promulgated by the Secretary which provide for the verification of tuna products as dolphin safe.
 
-(3)(A) The Secretary of Commerce shall develop an official mark that may be used to labeltuna products as dolphin safe in accordance with this Act.<sup>1</sup>
+(3)(A) The Secretary of Commerce shall develop an official mark that may be used to label tuna products as dolphin safe in accordance with this Act.<sup>1</sup>
 
 (B) A tuna product that bears the dolphin safe mark developed under subparagraph (A) shall not bear any other label or mark that refers to dolphins, porpoises, or marine mammals.
 
@@ -132,7 +132,7 @@ Section was not enacted as part of the Marine Mammal Protection Act of 1972 whic
 
 1997—Subsec. (d). Pub. L. 105–42, §5(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
-“(1) It is a violation of section 45 of title 15 for any producer, importer, exporter, distributor, or seller of any tuna product that is exported from or offered for sale in the United States to include on the label of that product the term ‘Dolphin Safe’ or any other term or symbol that falsely claims or suggests that the tuna contained in the product was harvested using a method of fishing that is not harmful to dolphins if the product contains—
+“(1) It is a violation of section 45 of title 15 for any producer, importer, exporter, distributor, or seller of any tuna product that is exported from or offered for sale in the United States to include on the label of thatproduct the term ‘Dolphin Safe’ or any other term or symbol that falsely claims or suggests that the tuna contained in the product was harvested using a method of fishing that is not harmful to dolphins if the product contains—
 
 &emsp;“(A) tuna harvested on the high seas by a vessel engaged in driftnet fishing; or
 
@@ -175,10 +175,6 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 #### Effective Date of 1997 Amendment
 
 For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1371, 1414a of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “this section”.</i>
 

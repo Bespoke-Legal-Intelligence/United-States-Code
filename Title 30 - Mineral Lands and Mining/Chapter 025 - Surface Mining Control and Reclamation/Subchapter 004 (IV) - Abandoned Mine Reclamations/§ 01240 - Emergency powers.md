@@ -10,7 +10,3 @@
 
 (Pub. L. 95–87, title IV, §410, Aug. 3, 1977, 91 Stat. 466.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1232, 1234, 1235, 1237 of this title.
-

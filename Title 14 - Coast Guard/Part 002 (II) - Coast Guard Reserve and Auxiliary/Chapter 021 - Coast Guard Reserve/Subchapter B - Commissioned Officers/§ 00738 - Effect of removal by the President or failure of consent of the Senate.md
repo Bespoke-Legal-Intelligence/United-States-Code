@@ -12,7 +12,7 @@
 
 Provisions similar to those in this section were contained in section 788 of this title prior to the complete revision of this chapter by Pub. L. 96–322.
 
-#### Section Referred to in Other Sections
+#### Delegation of Functions
 
-This section is referred to in section 729 of this title.
+For assignment of functions of President under subsec. (a) of this section, see section 2(d) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under section 301 of Title 3, The President.
 

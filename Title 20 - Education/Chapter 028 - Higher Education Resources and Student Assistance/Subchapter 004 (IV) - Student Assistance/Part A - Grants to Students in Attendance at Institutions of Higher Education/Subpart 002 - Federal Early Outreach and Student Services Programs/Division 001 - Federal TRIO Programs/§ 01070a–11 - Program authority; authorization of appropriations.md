@@ -54,7 +54,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (5) Number of applications for grants and contracts
 
-&emsp;The Secretary shall not limit the number of applications submitted by an entity under anyprogram authorized under this division if the additional applications describe programs serving different populations or campuses.
+&emsp;The Secretary shall not limit the number of applications submitted by an entity under any program authorized under this division if the additional applications describe programs serving different populations or campuses.
 
 #### (6) Coordination with other programs for disadvantaged students
 
@@ -185,8 +185,4 @@ Amendment by section 2(b)(6), (8), (9) of Pub. L. 103–208 effective as if incl
 Pub. L. 105–244, title VIII, §810, Oct. 7, 1998, 112 Stat. 1808, which authorized grants to States to enable States to reimburse low-income individuals to cover part or all of the cost of advanced placement test fees, required dissemination of information regarding availability of payments, set forth requirements for approval of applications and funding rules, authorized regulations, required annual report, defined terms, and authorized appropriations, was repealed by Pub. L. 107–110, title X, §1011(2), Jan. 8, 2002, 115 Stat. 1986.
 
 Similar provisions were contained in Pub. L. 102–325, title XV, §1545, July 23, 1992, 106 Stat. 837, which was repealed by Pub. L. 107–110, title X, §1011(1), Jan. 8, 2002, 115 Stat. 1986.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1070a–15, 1070d–2 of this title.
 

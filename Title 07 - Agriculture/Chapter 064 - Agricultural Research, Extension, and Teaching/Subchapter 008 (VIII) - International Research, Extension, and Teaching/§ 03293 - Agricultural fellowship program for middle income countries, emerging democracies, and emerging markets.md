@@ -84,9 +84,5 @@ Subsec. (d). Pub. L. 102–511, §705(b), inserted at end “The Secretary may p
 
 1991—Subsec. (e). Pub. L. 102–237 substituted “program” for “Program”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5679 of this title.
-
 <i><sup>1</sup></i><i> So in original. The word “for” probably should not appear.</i>
 

@@ -20,7 +20,3 @@ Provisions similar to those in this section were contained in act Apr. 12, 1900,
 
 “Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 749 of this title.
-

@@ -4,7 +4,3 @@ Upon the execution of any contract between the United States and any irrigation 
 
 (May 15, 1922, ch. 190, §3, 42 Stat. 542.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 511 of this title.
-

@@ -4,7 +4,3 @@ The Congress hereby finds and declares that the construction and maintenance of 
 
 (Pub. L. 88–657, §1, Oct. 13, 1964, 78 Stat. 1089.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 533, 534, 536, 1608 of this title; title 43 section 1770.
-

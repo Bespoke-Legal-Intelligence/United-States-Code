@@ -82,7 +82,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92
 
 #### Amendments
 
-1996—Subsec. (b)(4). Pub. L. 104–127 added par. (4) and struck out former par. (4) which read as follows: “The Secretary may undertake cooperative efforts with other Federal departments and agencies to improve the coordination and effectiveness of Federal programs, services, and actions affecting rural areas. The Secretary may request the heads of other Federal departments and agencies to participate in any working groups that the Secretary deems necessary to carry out the purposes of this section.”
+1996—Subsec. (b)(4). Pub. L. 104–127 added par. (4) and struck out former par. (4) which read as follows: “TheSecretary may undertake cooperative efforts with other Federal departments and agencies to improve the coordination and effectiveness of Federal programs, services, and actions affecting rural areas. The Secretary may request the heads of other Federal departments and agencies to participate in any working groups that the Secretary deems necessary to carry out the purposes of this section.”
 
 #### Effective Date
 
@@ -115,8 +115,4 @@ Section 762 of Pub. L. 104–127 provided that: “Not later than 1 year after t
 #### Executive Order No. 12720
 
 Ex. Ord. No. 12720, July 16, 1990, 55 F.R. 29337, as amended by Ex. Ord. No. 12783, Dec. 17, 1991, 56 F.R. 65977, which established the President's Council on Rural America, was revoked by Ex. Ord. No. 12869, §4(c), Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 926 of this title.
 

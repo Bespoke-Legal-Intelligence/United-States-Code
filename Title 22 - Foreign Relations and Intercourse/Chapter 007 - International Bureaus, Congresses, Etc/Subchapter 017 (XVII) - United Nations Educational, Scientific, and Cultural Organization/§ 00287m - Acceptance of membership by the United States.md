@@ -46,7 +46,7 @@ I74the governments of the states parties to this constitution on behalf of their
 
 &emsp;&emsp;&nbsp;by assuring the conservation and protection of the world's inheritance of books, works of art and monuments of history and science, and recommending to the nations concerned the necessary international conventions;
 
-&emsp;&emsp;&nbsp;by encouraging cooperation among the nations in all branches of intellectual activity, includingthe international exchange of persons active in the fields of education, science and culture and the exchange of publications, objects of artistic and scientific interest and other materials of information;
+&emsp;&emsp;&nbsp;by encouraging cooperation among the nations in all branches of intellectual activity, including the international exchange of persons active in the fields of education, science and culture and the exchange of publications, objects of artistic and scientific interest and other materials of information;
 
 &emsp;&emsp;&nbsp;by initiating methods of international cooperation calculated to give the people of all countries access to the printed and published materials produced by any of them.
 
@@ -60,7 +60,7 @@ I74the governments of the states parties to this constitution on behalf of their
 
 2\. Subject to the conditions of the agreement between this Organisation and the United Nations Organisation, approved pursuant to Article X of this Constitution, States not members of the United Nations Organisation may be admitted to membership of the Organisation, upon recommendation of the Executive Board, by a two-thirds majority vote of the General Conference.
 
-3\. Members of the Organisation which are suspended from the exercise of the rights and privileges of membership of the United Nations Organisation shall, upon the request of the latter, be suspended from the rights and privileges of this Organisation.
+3\. Members of the Organisation which are suspended from the exercise of the rights and privileges of membership of the United Nations Organisation shall, uponthe request of the latter, be suspended from the rights and privileges of this Organisation.
 
 4\. Members of the Organisation which are expelled from the United Nations Organisation shall automatically cease to be members of this Organisation.
 

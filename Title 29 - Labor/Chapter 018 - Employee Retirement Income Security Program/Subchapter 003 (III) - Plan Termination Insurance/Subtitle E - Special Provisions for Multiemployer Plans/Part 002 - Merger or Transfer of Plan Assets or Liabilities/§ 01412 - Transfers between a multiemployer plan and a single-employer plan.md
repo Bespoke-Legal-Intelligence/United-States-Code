@@ -48,7 +48,3 @@ Benefits under a single-employer plan to which liabilities are transferred in ac
 
 (Pub. L. 93–406, title IV, §4232, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1245.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1414 of this title.
-

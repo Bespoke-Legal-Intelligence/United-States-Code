@@ -20,7 +20,3 @@ If the Administrator determines that immediate suspension of the construction or
 
 1984—Subsec. (b). Pub. L. 98–623 substituted “environment” for “environment established by any treaty or convention,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9116 of this title.
-

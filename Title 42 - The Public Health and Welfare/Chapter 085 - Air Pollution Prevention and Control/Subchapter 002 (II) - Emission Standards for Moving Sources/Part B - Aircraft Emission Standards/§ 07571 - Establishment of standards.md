@@ -36,7 +36,7 @@ Section was formerly classified to section 1857f–9 of this title.
 
 1977—Subsec. (a)(2). Pub. L. 95–95, §401(f), substituted “The Administrator shall, from time to time, issue proposed emission standards applicable to the emission of any air pollutant from any class or classes of aircraft engines which in his judgment causes, or contributes to, air pollution which may reasonably be anticipated to endanger public health or welfare” for “Within 180 days after commencing such study and investigation, the Administrator shall publish a report of such study and investigation and shall issue proposed emission standards applicable to emissions of any air pollutant from any class or classes of aircraft or aircraft engines which in his judgment cause or contribute to or are likely to cause or contribute to air pollution which endangers the public health or welfare”.
 
-Subsec. (c). Pub. L. 95–95, §225, substituted “Any regulations in effect under this section on August 7, 1977, or proposed or promulgated thereafter, or amendments thereto, with respect to aircraft shall not apply if disapproved by the President, after notice and opportunity for public hearing, on the basis of a finding by the Secretary of Transportation that any such regulation would create a hazard to aircraft safety” for “Any regulations under this section, or amendments thereto,with respect to aircraft, shall be prescribed only after consultation with the Secretary of Transportation in order to assure appropriate consideration for aircraft safety” and inserted provision that findings include a reasonably specific statement of the basis upon which the finding was made.
+Subsec. (c). Pub. L. 95–95, §225, substituted “Any regulations in effect under this section on August 7, 1977, or proposed or promulgated thereafter, or amendments thereto, with respect to aircraft shall not apply if disapproved by the President, after notice and opportunity for public hearing, on the basis of a finding by the Secretary of Transportation that any such regulation would create a hazard to aircraft safety” for “Any regulations under this section, or amendments thereto, with respect to aircraft, shall be prescribed only after consultation with the Secretary of Transportation in order to assure appropriate consideration for aircraft safety” and inserted provision that findings include a reasonably specific statement of the basis upon which the finding was made.
 
 #### Effective Date of 1996 Amendment
 
@@ -48,7 +48,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an EffectiveDate of 1977 Amendment note under section 7401 of this title.
 
 #### Study and Investigation of Uninstalled Aircraft Engines
 
@@ -73,8 +73,4 @@ Study.—The Administrator of the Environmental Protection Agency and the Secret
 “(b)
 
 Report, Authority To Regulate.—Not later than 24 months after enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administrator of the Environmental Protection Agency and the Secretary of Transportation shall submit to Congress a report of the study conducted under this section. Following the completion of such study, any of the States may adopt or enforce any standard for emissions of oxides of nitrogen from test cells only after issuing a public notice stating whether such standards are in accordance with the findings of the study.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7572, 7607, 7617 of this title; title 49 section 44714.
 

@@ -36,7 +36,3 @@ Functions of Corporations of Department of Agriculture, boards of directors and 
 
 Establishment of Farm Credit Administration as independent agency, and other changes in status, functions, etc., see section 2241 et seq., of Title 12, Banks and Banking.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 604, 673 of this title.
-

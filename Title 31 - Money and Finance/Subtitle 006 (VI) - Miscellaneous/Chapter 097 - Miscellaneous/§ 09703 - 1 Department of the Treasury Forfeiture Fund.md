@@ -92,11 +92,11 @@ Limitations.—
 
 &emsp;(2) Any payment made under subsection (a)(1)(G) with respect to a seizure or forfeiture of property shall not exceed the value of the property at the time of disposition.
 
-&emsp;(3) The Secretary may exempt the procurement of contract services under the Fund fromsection 3709 of the Revised Statutes of the United States (41 U.S.C. 5), title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), and other provisions of law as may be necessary to maintain the security and confidentiality of related criminal investigations.
+&emsp;(3) The Secretary may exempt the procurement of contract services under the Fund from section 3709 of the Revised Statutes of the United States (41 U.S.C. 5), title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), and other provisions of law as may be necessary to maintain the security and confidentiality of related criminal investigations.
 
 &emsp;(4) The Secretary shall assure that any equitable sharing payment made to a State or local law enforcement agency pursuant to subsection (a)(1)(G) and any property transferred to a State or local law enforcement agency pursuant to subsection (h)—
 
-&emsp;&emsp;(A) has a value that bears a reasonable relationship to the degree of participation of the State or local agency in the law enforcement effort resulting in the forfeiture, taking into account the total value of all property forfeited and the total law enforcement effort with respect to the violation of law on which the forfeiture is based; and
+&emsp;&emsp;(A) has a value that bears a reasonable relationship to the degree of participation of the State or local agency in the law enforcement effort resulting in the forfeiture, taking into account the total value of all property forfeited and the total law enforcementeffort with respect to the violation of law on which the forfeiture is based; and
 
 &emsp;&emsp;(B) will serve to encourage further cooperation between the recipient State or local agency and Federal law enforcement agencies.
 
@@ -162,7 +162,7 @@ Reports to Congress.—The Secretary shall transmit to the Congress, not later t
 
 &emsp;&emsp;(B) liens and mortgages paid and the amount of money shared with Federal, State, local, and foreign law enforcement agencies during the preceding fiscal year;
 
-&emsp;&emsp;(C) the net amount realized from the operations of the Fund during the preceding fiscal year, the amount of seized cash beingheld as evidence, and the amount of money that has been carried over into the current fiscal year;
+&emsp;&emsp;(C) the net amount realized from the operations of the Fund during the preceding fiscal year, the amount of seized cash being held as evidence, and the amount of money that has been carried over into the current fiscal year;
 
 &emsp;&emsp;(D) any defendant's property, not forfeited at the end of the preceding fiscal year, if the equity in such property is valued at $1,000,000 or more;
 
@@ -170,7 +170,7 @@ Reports to Congress.—The Secretary shall transmit to the Congress, not later t
 
 &emsp;&emsp;(F) the balance of the Fund at the end of the preceding fiscal year;
 
-&emsp;&emsp;(G) the net amount, if any, of the excess unobligated amounts remaining in the Fund at the end of the preceding fiscal year and available to the Secretary for Federal law enforcement related purposes;
+&emsp;&emsp;(G) the net amount, if any, of the excess unobligated amounts remaining in the Fund at the end of the preceding fiscal year andavailable to the Secretary for Federal law enforcement related purposes;
 
 &emsp;&emsp;(H) a complete set of audited financial statements (including a balance sheet, income statement, and cash flow analysis) prepared in a manner consistent with the requirements of the Chief Financial Officers Act of 1990 (Public Law 101–576); and
 
@@ -228,7 +228,7 @@ Retention or Transfer of Property.—
 
 &emsp;&emsp;(C) is made to a country which, if applicable, has been certified under section 481(h) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291(h)).<sup>9</sup>
 
-&emsp;(3) Nothing in this section shall affect the authority of the Secretary under section 981 of title 18 or section 616 of the Tariff Act of 1930 (19 U.S.C. 1616a).
+&emsp;(3) Nothing in this section shall affect the authority of the Secretary under section 981 oftitle 18 or section 616 of the Tariff Act of 1930 (19 U.S.C. 1616a).
 
 (i)
 
@@ -290,13 +290,13 @@ Department of the treasury law enforcement organization.—The term “Departmen
 
 Secretary.—The term “Secretary” means the Secretary of the Treasury.
 
-(Added Pub. L. 102–393, title VI, §638(b)(1), Oct. 6, 1992, 106 Stat. 1779; amended Pub. L. 103–182, title VI, §685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, §90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, §112, Sept. 30, 1994,108 Stat. 2391; Pub. L. 104–208, div. A, title I, §101(f) \[title I, §116\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325; Pub. L. 105–61, title I, §122(b), (c), Oct. 10, 1997, 111 Stat. 1289; Pub. L. 107–296, title XI, §1112(n), Nov. 25, 2002, 116 Stat. 2278.)
+(Added Pub. L. 102–393, title VI, §638(b)(1), Oct. 6, 1992, 106 Stat. 1779; amended Pub. L. 103–182, title VI, §685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, §90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, §112, Sept. 30, 1994, 108 Stat. 2391; Pub. L. 104–208, div. A, title I, §101(f) \[title I, §116\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325; Pub. L. 105–61, title I, §122(b), (c), Oct. 10, 1997, 111 Stat. 1289; Pub. L. 107–296, title XI, §1112(n), Nov. 25, 2002, 116 Stat. 2278.)
 
 #### References in Text
 
 Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (d)(2)(A), (h)(1), and (j)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. Section 5872(b)(2) of the Internal Revenue Code of 1986, referred to in subsec. (<i>o</i>)(1), is classified to section 5872(b)(2) of Title 26.
 
-The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, as amended, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
+The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, as amended, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of thistitle. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
 
 Section 630 of the Tariff Act of 1930, referred to in subsec. (a)(2)(E), is classified to section 1630 of Title 19, Customs Duties.
 
@@ -356,7 +356,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
@@ -367,10 +367,6 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Law
 #### Unavailable Collections
 
 Section 122(a) of Pub. L. 105–61 provided that: “The Secretary of the Treasury is authorized to receive all unavailable collections transferred from the Special Forfeiture Fund established by section 26073 \[6073\] of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1509) by the Director of the Office of Drug Control Policy as a deposit into the Treasury Forfeiture Fund (31 U.S.C. 9703(a)), to become available for obligation on October 1, 1998, as revenue available for purposes identified under 31 U.S.C. 9703(g)(4)(B).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 21 section 1509; title 28 section 524; title 39 section 2003.
 
 <i><sup>1</sup></i><i> Another section 9703 is set out preceding section 9704 of this title.</i>
 

@@ -22,7 +22,3 @@
 
 (Added Pub. L. 99–53, §1(b)(1), June 17, 1985, 99 Stat. 93.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8901, 8902, 8902a, 8903b, 8905, 8907, 8908, 8909, 8910, 8913 of this title; title 42 section 1395s.
-

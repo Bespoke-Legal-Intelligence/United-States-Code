@@ -16,9 +16,5 @@ In text, “sections 375, 375a, 375b, and 376 of this title” was in the origin
 
 1954—Act Sept. 3, 1954, inserted “or any of the provisions of sections 217, 218, 219, 220, 655, 1005, 1014, 1906, or 1909 of title 18,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 504 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

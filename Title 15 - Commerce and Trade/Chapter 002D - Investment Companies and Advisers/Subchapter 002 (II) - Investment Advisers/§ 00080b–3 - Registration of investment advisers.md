@@ -12,7 +12,7 @@ The provisions of subsection (a) of this section shall not apply to—
 
 &emsp;(2) any investment adviser whose only clients are insurance companies;
 
-&emsp;(3) any investment adviser who during the course of the preceding twelve months has had fewer than fifteen clients and who neitherholds himself out generally to the public as an investment adviser nor acts as an investment adviser to any investment company registered under subchapter I of this chapter, or a company which has elected to be a business development company pursuant to section 80a–53 of this title and has not withdrawn its election. For purposes of determining the number of clients of an investment adviser under this paragraph, no shareholder, partner, or beneficial owner of a business development company, as defined in this subchapter, shall be deemed to be a client of such investment adviser unless such person is a client of such investment adviser separate and apart from his status as a shareholder, partner, or beneficial owner;
+&emsp;(3) any investment adviser who during the course of the preceding twelve months has had fewer than fifteen clients and who neither holds himself out generally to the public as an investment adviser nor acts as an investment adviser to any investment company registered under subchapter I of this chapter, or a company which has elected to be a business development company pursuant to section 80a–53 of this title and has not withdrawn its election. For purposes of determining the number of clients of an investment adviser under this paragraph, no shareholder, partner, or beneficial owner of a business development company, as defined in this subchapter, shall be deemed to be a client of such investment adviser unless such person is a client of such investment adviser separate and apart from his status as a shareholder, partner, or beneficial owner;
 
 &emsp;(4) any investment adviser that is a charitable organization, as defined in section 3(c)(10)(D) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(10)(D)\], or is a trustee, director, officer, employee, or volunteer of such a charitable organization acting within the scope of such person's employment or duties with such organization, whose advice, analyses, or reports are provided only to one or more of the following:
 
@@ -28,7 +28,7 @@ The provisions of subsection (a) of this section shall not apply to—
 
 &emsp;&emsp;(A) an investment company registered under subchapter I of this chapter; or
 
-&emsp;&emsp;(B) a company which has elected to be a business development company pursuant to section 80a–53 of this title and has not withdrawn its election.
+&emsp;&emsp;(B) a company which has elected to be a business development company pursuant tosection 80a–53 of this title and has not withdrawn its election.
 
 #### (c) Procedure for registration; filing of application; effective date of registration; amendment of registration
 
@@ -56,7 +56,7 @@ The provisions of subsection (a) of this section shall not apply to—
 
 &emsp;(B) institute proceedings to determine whether registration should be denied. Such proceedings shall include notice of the grounds for denial under consideration and opportunity for hearing and shall be concluded within one hundred twenty days of the date of the filing of the application for registration. At the conclusion of such proceedings the Commission, by order, shall grant or deny such registration. The Commission may extend the time for conclusion of such proceedings for up to ninety days if it finds good cause for such extension and publishes its reasons for so finding or for such longer period as to which the applicant consents.
 
-> The Commission shall grant such registration if the Commission finds that the requirements ofthis section are satisfied and that the applicant is not prohibited from registering as an investment adviser under section 80b–3a of this title. The Commission shall deny such registration if it does not make such a finding or if it finds that if the applicant were so registered, its registration would be subject to suspension or revocation under subsection (e) of this section.
+> The Commission shall grant such registration if the Commission finds that the requirements of this section are satisfied and that the applicant is not prohibited from registering as an investment adviser under section 80b–3a of this title. The Commission shall deny such registration if it does not make such a finding or if it finds that if the applicant were so registered, its registration would be subject to suspension or revocation under subsection (e) of this section.
 
 #### (d) Other acts prohibited by subchapter
 
@@ -88,7 +88,7 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 &emsp;(5) has willfully violated any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], this subchapter, the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or the rules or regulations under any such statutes or any rule of the Municipal Securities Rulemaking Board, or is unable to comply with any such provision.
 
-&emsp;(6) has willfully aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], this subchapter, the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], the rules or regulations under any of such statutes, or the rules of the Municipal Securities Rulemaking Board, or has failed reasonably to supervise, with a view to preventing violations of the provisions of suchstatutes, rules and regulations, another person who commits such a violation, if such other person is subject to his supervision. For the purposes of this paragraph no person shall be deemed to have failed reasonably to supervise any person, if—
+&emsp;(6) has willfully aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], this subchapter, the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], the rules or regulations under any of such statutes, or the rules of the Municipal Securities Rulemaking Board, or has failed reasonably to supervise, with a view to preventing violations of the provisions of such statutes, rules and regulations, another person who commits such a violation, if such other person is subject to his supervision. For the purposes of this paragraph no person shall be deemed to have failed reasonably to supervise any person, if—
 
 &emsp;&emsp;(A) there have been established procedures, and a system for applying such procedures, which would reasonably be expected to prevent and detect, insofar as practicable, any such violation by such other person, and
 
@@ -104,7 +104,7 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 &emsp;&emsp;(C) aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade, or has been found, by the foreign finanical <sup>2</sup> regulatory authority, to have failed reasonably to supervise, with a view to preventing violations of statutory provisions, and rules and regulations promulgated thereunder, another person who commits such a violation, if such other person is subject to his supervision; or
 
-&emsp;(9) is subject to any final order of a State securities commission (or any agency or officer performing like functions), State authority that supervises or examines banks, savings associations, or credit unions, State insurance commission (or any agency or office performing like functions), an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(q))), or the National Credit Union Administration, that—
+&emsp;(9) is subject to any final order of a State securities commission (or any agency or officer performing like functions), State authoritythat supervises or examines banks, savings associations, or credit unions, State insurance commission (or any agency or office performing like functions), an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(q))), or the National Credit Union Administration, that—
 
 &emsp;&emsp;(A) bars such person from association with an entity regulated by such commission, authority, agency, or officer, or from engaging in the business of securities, insurance, banking, savings association activities, or credit union activities; or
 
@@ -150,7 +150,7 @@ Any person registered under this section may, upon such terms and conditions as 
 
 #### (C) Third tier
 
-&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the maximum amount of penalty for each such act or omission shall be $100,000 for a natural person or $500,000 for any other person if—
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the maximum amount of penalty foreach such act or omission shall be $100,000 for a natural person or $500,000 for any other person if—
 
 &emsp;&emsp;&emsp;(i) the act or omission described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 
@@ -194,7 +194,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (A) In general
 
-&emsp;&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to paragraph (1), or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceedings. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission, notwithstanding section 80b–11(c) of this title, determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
+&emsp;&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to paragraph (1), or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceedings. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission, notwithstanding section 80b–11(c) of this title, determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondentand, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
 
 #### (B) Applicability
 
@@ -252,7 +252,7 @@ Subsec. (f). Pub. L. 107–204, §604(c)(2), substituted “(8), or (9)” for �
 
 1998—Subsec. (e)(8)(B). Pub. L. 105–353 inserted “or” after semicolon at end.
 
-1996—Subsec. (a). Pub. L. 104–290, §303(d), which directed substitution of “subsection (b) of this section and section 80b–3a of this title” for “subsection (b) of this section”, was executed by making the substitution for “subsection (b)” to reflect the probable intent of Congress.
+1996—Subsec. (a). Pub. L. 104–290, §303(d), which directed substitution of “subsection (b) of this section and section 80b–3a of this title” for “subsection (b) ofthis section”, was executed by making the substitution for “subsection (b)” to reflect the probable intent of Congress.
 
 Subsec. (b)(5). Pub. L. 104–290, §508(d), added par. (5).
 
@@ -304,7 +304,7 @@ Subsec. (g). Pub. L. 100–181, §702(4), substituted “subsection (c) or subse
 
 1986—Subsec. (e)(2)(B). Pub. L. 99–571, §102(m)(1), substituted “government securities broker, government securities dealer, fiduciary, or entity or person required to be registered under the Commodity Exchange Act” for “or fiduciary”.
 
-Subsec. (e)(3). Pub. L. 99–571, §102(m)(2), inserted par. (3) and struck out former par. (3) which read as follows: “is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an investment adviser, underwriter, broker, dealer, or municipal securities dealer, or as an affiliated person or employee of any investment company, bank, or insurance company, or from engaging in or continuing any conduct or practice in connectionwith any such activity, or in connection with the purchase or sale of any security.”
+Subsec. (e)(3). Pub. L. 99–571, §102(m)(2), inserted par. (3) and struck out former par. (3) which read as follows: “is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an investment adviser, underwriter, broker, dealer, or municipal securities dealer, or as an affiliated person or employee of any investment company, bank, or insurance company, or from engaging in or continuing any conduct or practice in connection with any such activity, or in connection with the purchase or sale of any security.”
 
 Subsec. (e)(4). Pub. L. 99–571, §102(m)(3), inserted reference to Commodity Exchange Act.
 
@@ -336,7 +336,7 @@ Subsec. (c)(2). Pub. L. 86–750, §3(a), substituted “a statement as to wheth
 
 Subsec. (d). Pub. L. 86–750, §3(b), among other changes, limited the period of suspension to twelve months, included people controlled by the adviser, provided that the ten year period within which convictions are counted be measured from the filing of the application or after specified felonies or misdemeanors, increased the number of offenses by including willful, false or misleading statements as to any material fact, or omissions thereof, in any application for registration or report filed with the Commission, embezzlement, fraudulent conversion, and misappropriation of funds or securities, violations of sections 1341, 1342 or 1343 of title 18, willful violations of, or aiding, abetting, counseling, commanding, inducing or procuring the violation of the Securities Act of 1933, or of the Securities Exchange Act of 1934, or of this title, and any amendment or rule or regulation thereunder.
 
-Subsec. (e). Pub. L. 86–750, §4, substituted provisions postponing the effective date of registration for ninety days at commencement of a proceeding to deny registration, or until final determination whether such registration should be denied, whichever was first, and authorizing the Commission after notice and opportunity for hearing, to postpone said effective date beyond the ninety-day period or final determination, provided that upon request of any interested party, mademore than ninety days after such postponement, the Commission shall consider the postponement's continuation, for provisions prohibiting postponement of the effective date of registration upon a proceeding to deny registration, unless the Commission found it in the public interest to do so, and which limited said postponement to three months.
+Subsec. (e). Pub. L. 86–750, §4, substituted provisions postponing the effective date of registration for ninety days at commencement of a proceeding to deny registration, or until final determination whether such registration should be denied, whichever was first, and authorizing the Commission after notice and opportunity for hearing, to postpone said effective date beyond the ninety-day period or final determination, provided that upon request of any interested party, made more than ninety days after such postponement, the Commission shall consider the postponement's continuation, for provisions prohibiting postponement of the effective date of registration upon a proceeding to deny registration, unless the Commission found it in the public interest to do so, and which limited said postponement to three months.
 
 Subsec. (g). Pub. L. 86–750, §5, substituted “existence” for “business”.
 
@@ -367,10 +367,6 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that amendment by 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78w, 80a–9, 80a–35, 80b–2, 80b–3a, 80b–4, 80b–5, 80b–7, 80b–8, 80b–9, 80b–10a of this title; title 5 section 8438.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of a”.</i>
 

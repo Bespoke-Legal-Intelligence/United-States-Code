@@ -2,7 +2,7 @@
 
 #### (a) Beginning farmers and ranchers and Indian tribes
 
-In carrying out any conservation program administered by the Secretary, the Secretary may provide to beginning farmers and ranchers and Indian tribes (as those terms are defined in section 3838 of this title) and limited resource agricultural producers incentives to participate in the conservation program to—
+In carrying out any conservation program administered by the Secretary, the Secretary may provide to beginning farmers and ranchers andIndian tribes (as those terms are defined in section 3838 of this title) and limited resource agricultural producers incentives to participate in the conservation program to—
 
 &emsp;(1) foster new farming and ranching opportunities; and
 
@@ -80,9 +80,9 @@ In carrying out any conservation program administered by the Secretary, the Secr
 
 &emsp;&emsp;(A) affects any procedure for data collection or disclosure through the National Resources Inventory; or
 
-&emsp;&emsp;(B) limits the authority of Congress or the General Accounting Office to review information collected or disclosed under this subsection.
+&emsp;&emsp;(B) limits the authority of Congress or the Government Accountability Office to review information collected or disclosed under this subsection.
 
-(Pub. L. 99–198, title XII, §1244, as added Pub. L. 107–171, title II, §2004(a), May 13, 2002, 116 Stat. 235.)
+(Pub. L. 99–198, title XII, §1244, as added Pub. L. 107–171, title II, §2004(a), May 13, 2002, 116 Stat. 235; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Prior Provisions
 
@@ -94,5 +94,9 @@ Section 3845, Pub. L. 99–198, title XII, §1245, Dec. 23, 1985, 99 Stat. 1516;
 
 A prior section 3846, Pub. L. 99–198, title XII, §1246, as added Pub. L. 101–624, title XIV, §1444, Nov. 28, 1990, 104 Stat. 3602, directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by Pub. L. 104–66, title I, §1011(a), Dec. 21, 1995, 109 Stat. 709.
 
-A prior section 3847, Pub. L. 99–198, title XII, §1247, as added Pub. L. 101–624, title XIV, §1445, Nov. 28, 1990, 104 Stat. 3603; amended Pub. L. 102–237, title II, §204(8), Dec. 13, 1991, 105 Stat. 1855, which related to assistance for control of spread of weeds and pests, was omitted in the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 3847, Pub. L. 99–198, title XII, §1247, as added Pub. L. 101–624, title XIV, §1445, Nov. 28, 1990, 104 Stat. 3603; amended Pub. L. 102–237, title II, §204(8), Dec. 13, 1991, 105 Stat. 1855, which related to assistance forcontrol of spread of weeds and pests, was omitted in the general amendment of this subchapter by Pub. L. 104–127.
+
+#### Amendments
+
+2004—Subsec. (b)(4)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

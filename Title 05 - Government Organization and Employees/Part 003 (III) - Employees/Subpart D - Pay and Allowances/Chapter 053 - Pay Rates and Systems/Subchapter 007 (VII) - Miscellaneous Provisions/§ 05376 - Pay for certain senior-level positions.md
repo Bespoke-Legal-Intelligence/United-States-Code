@@ -48,7 +48,7 @@ Other References.—Until otherwise provided by law—
 
 &emsp;&emsp;“(ii) to the minimum rate of pay for grade GS–16 of the General Schedule shall be considered a reference to the minimum rate payable under section 5376 of such title (as amended by section 102(a)); and
 
-&emsp;&emsp;“(iii) to a rate of pay for grade GS–16 or 17 of the General Schedule shall (except as provided in clause (ii)) be considered a reference to a rate of pay for a position classified above GS–15 pursuant to section 5108 of such title (as amended by section 102(b)(2)); and
+&emsp;&emsp;“(iii) to a rate of pay for grade GS–16 or 17 of the General Schedule shall (except as provided inclause (ii)) be considered a reference to a rate of pay for a position classified above GS–15 pursuant to section 5108 of such title (as amended by section 102(b)(2)); and
 
 &emsp;&emsp;“(B) to a rate of pay under the General Schedule shall not include any comparability payment payable under section 5304 of such title (as amended by this section) or any geographic adjustment payable under section 302 \[section 529 \[title III, §302\] of Pub. L. 101–509, set out as a note under section 5304 of this title\]; and
 
@@ -61,8 +61,4 @@ Other References.—Until otherwise provided by law—
 “(d)
 
 Regulations.—The Office of Personnel Management may prescribe regulations, consistent with subsection (c)(1)(B) and section 303 \[section 529 \[title III, §303\] of Pub. L. 101–509, set out as a note under section 5301 of this title\], governing the conversion or adjustment of rates of pay, where necessary because of the abolishment of grades GS–16, 17, and 18 of the General Schedule.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3405, 4507a, 5304, 5307, 5331, 5382, 5595, 5948, 9509, 9902, 9903 of this title; title 7 section 7317; title 20 section 9578; title 33 sections 892c, 1123, 1128; title 42 sections 1863, 1864, 5612.
 

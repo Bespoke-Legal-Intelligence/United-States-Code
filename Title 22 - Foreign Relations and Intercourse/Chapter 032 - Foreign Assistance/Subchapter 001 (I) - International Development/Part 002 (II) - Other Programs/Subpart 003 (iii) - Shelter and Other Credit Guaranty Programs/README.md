@@ -1,9 +1,5 @@
 subpart iii—shelter and other credit guaranty programs
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 2394–1 of this title.
-
 
 ---
 

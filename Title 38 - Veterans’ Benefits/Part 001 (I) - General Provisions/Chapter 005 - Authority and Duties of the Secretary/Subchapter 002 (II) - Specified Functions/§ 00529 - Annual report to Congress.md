@@ -18,7 +18,3 @@ Prior section 531, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137; Pub. L. 90–
 
 Prior sections 532 to 537 were renumbered sections 1532 to 1537 of this title, respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 541, 542, 544, 545, 1718, 1754, 2066, 3121, 3733, 3736, 7101, 7726, 7734 of this title.
-

@@ -32,7 +32,3 @@ Pub. L. 108–83, title I, §1301(b), Sept. 30, 2003, 117 Stat. 1033, provided t
 
 1969—Salaries of the Public Printer and Deputy Public Printer increased respectively from $28,750 and $27,500 to $38,000 and $36,000 per annum, commencing on the first day of the pay period which begins after Feb. 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 356.
-

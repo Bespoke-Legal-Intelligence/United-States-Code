@@ -4,7 +4,3 @@ The standard barrel for apples shall be of the following dimensions when measure
 
 (Aug. 3, 1912, ch. 273, §1, 37 Stat. 250.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 232, 233 of this title.
-

@@ -86,7 +86,7 @@
 
 #### (1) Notice
 
-&emsp;Whenever a complaint is made that a person or entity has engaged in or is engaging in any such unfair immigration-related employment practice, an administrative law judge shall have power to issue and cause to be served upon such person or entity a copy of the complaint and a notice of hearing before the judge at a place therein fixed, not less than five days after the serving of the complaint. Any such complaint may be amended by the judge conducting the hearing, upon the motion of the party filing the complaint, in the judge's discretion at any time prior to the issuance of an order based thereon. The person or entity so complained of shall have the right to file an answer to the original or amended complaint and to appear in person or otherwise and give testimony at the place and time fixed in the complaint.
+&emsp;Whenever a complaint is made that a person or entity has engaged in or is engaging in any such unfair immigration-related employmentpractice, an administrative law judge shall have power to issue and cause to be served upon such person or entity a copy of the complaint and a notice of hearing before the judge at a place therein fixed, not less than five days after the serving of the complaint. Any such complaint may be amended by the judge conducting the hearing, upon the motion of the party filing the complaint, in the judge's discretion at any time prior to the issuance of an order based thereon. The person or entity so complained of shall have the right to file an answer to the original or amended complaint and to appear in person or otherwise and give testimony at the place and time fixed in the complaint.
 
 #### (2) Judges hearing cases
 
@@ -206,7 +206,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### (<i>l</i>) Dissemination of information concerning anti-discrimination provisions
 
-(1) Not later than 3 months after November 29, 1990, the Special Counsel, in cooperation with the chairman of the Equal Employment Opportunity Commission, the Secretary of Labor, and the Administrator of the Small Business Administration, shall conduct a campaign to disseminate information respecting the rights and remedies prescribed under this section and under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\] in connection with unfair immigration-related employment practices. Such campaign shall be aimed at increasing the knowledge of employers, employees, and the general public concerning employer and employeerights, responsibilities, and remedies under this section and such title.
+(1) Not later than 3 months after November 29, 1990, the Special Counsel, in cooperation withthe chairman of the Equal Employment Opportunity Commission, the Secretary of Labor, and the Administrator of the Small Business Administration, shall conduct a campaign to disseminate information respecting the rights and remedies prescribed under this section and under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\] in connection with unfair immigration-related employment practices. Such campaign shall be aimed at increasing the knowledge of employers, employees, and the general public concerning employer and employee rights, responsibilities, and remedies under this section and such title.
 
 (2) In order to carry out the campaign under this subsection, the Special Counsel—
 
@@ -292,7 +292,7 @@ Subsec. (h). Pub. L. 100–525, §2(b)(6), substituted “attorney's” for “a
 
 #### Effective Date of 1996 Amendment
 
-Section 421(b) of div. C of Pub. L. 104–208 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to requests made on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Section 421(b) of div. C of Pub. L. 104–208 provided that: “The amendments made by subsection (a)\[amending this section\] shall apply to requests made on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 #### Effective Date of 1994 Amendment
 
@@ -300,7 +300,7 @@ Amendment by Pub. L. 103–416 effective as if included in the enactment of the 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -333,10 +333,6 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 #### No Effect on EEOC Authority
 
 Section 102(b) of Pub. L. 99–603 provided that: “Except as may be specifically provided in this section, nothing in this section shall be construed to restrict the authority of the Equal Employment Opportunity Commission to investigate allegations, in writing and under oath or affirmation, of unlawful employment practices, as provided in section 706 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5), or any other authority provided therein.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1182 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

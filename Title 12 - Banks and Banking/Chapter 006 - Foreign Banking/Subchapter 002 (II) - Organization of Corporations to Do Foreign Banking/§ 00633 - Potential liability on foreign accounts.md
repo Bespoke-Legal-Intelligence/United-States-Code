@@ -24,7 +24,3 @@ Section was enacted as section 25C of the Federal Reserve Act, and not as part o
 
 Section 326(c) of Pub. L. 103–325 provided that: “Section 25C of the Federal Reserve Act \[this section\] (as added by subsection (a)) shall not be applied retroactively and shall not be construed to affect or apply to any claim or cause of action addressed by that section arising from events or circumstances that occurred before the date of enactment of this Act \[Sept. 23, 1994\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1828 of this title.
-

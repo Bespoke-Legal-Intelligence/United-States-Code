@@ -40,7 +40,3 @@ In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liber
 
 1976—Subsec. (b). Pub. L. 94–350 substituted “investment of amounts authorized to be appropriated under section 2902(d) of this title may be made” for “investment may be made” in second sentence.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2902 of this title.
-

@@ -68,7 +68,3 @@ Section 2(b) of Pub. L. 101–123 provided that: “The amendment made by this s
 
 Section 2(b) of Pub. L. 100–700 provided that: “Pursuant to its authority under section 994(p) of title 28, United States Code and section 21 of the Sentencing Act of 1987 \[section 21 of Pub. L. 100–182, set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\], the United States Sentencing Commission shall promulgate guidelines, or shall amend existing guidelines, to provide for appropriate penalty enhancements, where conscious or reckless risk of serious personal injury resulting from the fraud has occurred. The Commission shall consider the appropriateness of assigning to such a defendant an offense level under Chapter Two of the sentencing guidelines that is at least two levels greater than the level that would have been assigned had conscious or reckless risk of serious personal injury not resulted from the fraud.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 981, 982 of this title.
-

@@ -48,7 +48,7 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;(14) a study of the delivery of Head Start programs to Indian children living on and near Indian reservations, to children of Alaskan Natives, and to children of migrant and seasonal farmworkers.
 
-> Promptly after submitting such report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, the Secretary shall publish in the Federal Register a notice indicating that such report is available to the public and specifying how such report may be obtained.
+> Promptly after submitting such report to the Committee on Education and the Workforce ofthe House of Representatives and the Committee on Labor and Human Resources of the Senate, the Secretary shall publish in the Federal Register a notice indicating that such report is available to the public and specifying how such report may be obtained.
 
 #### (b) Facilities
 
@@ -77,6 +77,10 @@ Subsec. (g). Pub. L. 103–252, §118(a)(2)–(4), struck out subsec. (g) design
 Subsec. (g). Pub. L. 101–501, §119, added subsec. (g).
 
 1984—Subsec. (b). Pub. L. 98–558 substituted “not result in the elimination of nor any reduction in the scope or types of health, education, parental involvement, social or other services required to be provided under the standards” for “result in standards which are no less comprehensive than those” in second sentence.
+
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1994 Amendment
 

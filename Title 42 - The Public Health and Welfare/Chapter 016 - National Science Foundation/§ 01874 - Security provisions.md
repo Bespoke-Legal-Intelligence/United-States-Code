@@ -16,7 +16,7 @@ The Foundation shall not support any research or development activity in the fie
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified principally to chapter 23 (§2011 et seq.) of thistitle. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Amendments
 
@@ -53,8 +53,4 @@ Pub. L. 91–441, title II, §205, Oct. 7, 1970, 84 Stat. 908, provided that: �
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
 Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1872 of this title; title 5 section 1304.
 

@@ -22,7 +22,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(3) Vigorously promote policies to increase the effectiveness of the International Monetary Fund, in concert with appropriate international authorities and other international financial institutions (as defined in section 262r(c)(2) of this title), in strengthening financial systems in developing countries, and encouraging the adoption of sound banking principles and practices, including the development of laws and regulations that will help to ensure that domestic financial institutions meet strong standards regarding capital reserves, regulatory oversight, and transparency.
 
-&emsp;(4) Vigorously promote policies to increase the effectiveness of the International Monetary Fund, in concert with appropriate international authorities and other international financial institutions (as defined in section 262r(c)(2) of this title), in facilitating the development and implementation of internationally acceptable domestic bankruptcy laws and regulations in developing countries, including the provision of technical assistance as appropriate.
+&emsp;(4) Vigorously promote policies to increase the effectiveness of the International Monetary Fund, in concert with appropriate international authorities and other international financial institutions (as defined in section 262r(c)(2) of this title), in facilitating the development and implementation of internationally acceptable domestic bankruptcy laws andregulations in developing countries, including the provision of technical assistance as appropriate.
 
 &emsp;(5) Vigorously promote policies that aim at appropriate burden-sharing by the private sector so that investors and creditors bear more fully the consequences of their decisions, and accordingly advocate policies which include—
 
@@ -66,11 +66,27 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(14) Vigorously promote coordination with the International Bank for Reconstruction and Development and other international financial institutions (as defined in section 262r(c)(2) of this title) in promoting structural reforms which facilitate the provision of credit to small businesses, including microenterprise lending, especially in the world's poorest, heavily indebted countries.
 
+&emsp;(15) Work with the International Monetary Fund to—
+
+&emsp;&emsp;(A) foster strong global anti-money laundering (AML) and combat the financing of terrorism (CFT) regimes;
+
+&emsp;&emsp;(B) ensure that country performance under the Financial Action Task Force anti-money laundering and counterterrorist financing standards is effectively and comprehensively monitored;
+
+&emsp;&emsp;(C) ensure note is taken of AML and CFT issues in Article IV reports, International Monetary Fund programs, and other regular reviews of country progress;
+
+&emsp;&emsp;(D) ensure that effective AML and CFT regimes are considered to be indispensable elements of sound financial systems; and
+
+&emsp;&emsp;(E) emphasize the importance of sound AML and CFT regimes to global growth and development.
+
 #### (b) Coordination with other executive departments
 
 To the extent that it would assist in achieving the goals described in subsection (a) of this section, the Secretary of the Treasury shall pursue the goals in coordination with the Secretary of State, the Secretary of Labor, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for International Development, and the United States Trade Representative.
 
-(Pub. L. 95–118, title XV, §1503, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §610(a)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224.)
+(Pub. L. 95–118, title XV, §1503, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §610(a)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224; amended Pub. L. 108–458, title VII, §7703(a), Dec. 17, 2004, 118 Stat. 3860.)
+
+#### Amendments
+
+2004—Subsec. (a)(15). Pub. L. 108–458 added par. (15).
 
 #### Additional Provisions Relating to International Monetary Fund
 
@@ -86,7 +102,7 @@ Report to the Congress Showing Costs of United States Participation in the Inter
 
 “(c)
 
-Continuation of Forgoing of Reimbursement of IMF for Expenses of Administering ESAF.—The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to use the voice, vote, and influence of the United States to urge vigorously the International Monetary Fund to continue to forgo reimbursements of the expenses incurred by the International MonetaryFund in administering the Enhanced Structural Adjustment Facility, until the Heavily Indebted Poor Countries Initiative (as defined in section 1623 of the International Financial Institutions Act \[22 U.S.C. 262p–6\]) is terminated.
+Continuation of Forgoing of Reimbursement of IMF for Expenses of Administering ESAF.—The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to use the voice, vote, and influence of the United States to urge vigorously the International Monetary Fund to continue to forgo reimbursements of the expenses incurred by the International Monetary Fund in administering the Enhanced Structural Adjustment Facility, until the Heavily Indebted Poor Countries Initiative (as defined in section 1623 of the International Financial Institutions Act \[22 U.S.C. 262p–6\]) is terminated.
 
 “(d)
 
@@ -101,8 +117,4 @@ Annual Report by GAO on Consistency of IMF Practices With Statutory Policies.—
 #### Definitions
 
 The definitions in section 262p–5 of this title apply to this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 262r–4 of this title.
 

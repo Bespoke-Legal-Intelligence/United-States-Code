@@ -6,7 +6,7 @@ There shall be an Executive Director of the Council who shall be appointed in th
 
 #### (b) General Counsel; appointment; functions and duties
 
-The Council shall have a General Counsel, who shall be appointed by the Executive Director.The General Counsel shall report directly to the Executive Director and serve as the Council's legal advisor. The Executive Director shall appoint such other attorneys as may be necessary to assist the General Counsel, represent the Council in courts of law whenever appropriate, including enforcement of agreements with Federal agencies to which the Council is a party, assist the Department of Justice in handling litigation concerning the Council in courts of law, and perform such other legal duties and functions as the Executive Director and the Council may direct.
+The Council shall have a General Counsel, who shall be appointed by the Executive Director. The General Counsel shall report directly to the Executive Director and serve as the Council's legal advisor. The Executive Director shall appoint such other attorneys as may be necessary to assist the General Counsel, represent the Council in courts of law whenever appropriate, including enforcement of agreements with Federal agencies to which the Council is a party, assist the Department of Justice in handling litigation concerning the Council in courts of law, and perform such other legal duties and functions as the Executive Director and the Council may direct.
 
 #### (c) Appointment and compensation of officers and employees
 
@@ -44,11 +44,11 @@ In subsec. (f), “(31 U.S.C. 1513(d), 1514)” was substituted for “(31 U.S.C
 
 2000—Subsec. (g). Pub. L. 106–176 substituted “for that purpose.” for “for the purpose.”.
 
-1996—Subsec. (g). Pub. L. 104–333 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The members of the Council specified in paragraphs (2) through (4) of section 470i(a) of this title shall provide the Council, with or without reimbursement as may be agreed upon by the Chairman and the members, with such funds, personnel, facilities, and services under their jurisdiction and control as may be needed by the Council to carry out its duties, to the extent that such funds, personnel, facilities, and services are requested by the Council and are otherwise available for that purpose. To the extent of available appropriations, the Council may obtain, by purchase, rental, donation, or otherwise, such additional property, facilities, and services as may be needed to carry out its duties and may also receive donations of moneys for such purpose, and the Executive Director is authorized, in his discretion, to accept, hold, use, expend, and administer the same for the purposes of this subchapter.”
+1996—Subsec. (g). Pub. L. 104–333 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The members of the Council specified in paragraphs (2) through (4) of section 470i(a) of this title shall provide the Council, with or without reimbursement as may be agreed upon by the Chairman and the members, with such funds, personnel, facilities, and services under their jurisdiction and control as may be needed by the Council to carry out its duties, to the extent that such funds, personnel, facilities, and services are requested by the Council and are otherwise available for that purpose. To the extent of available appropriations, the Council may obtain, by purchase, rental,donation, or otherwise, such additional property, facilities, and services as may be needed to carry out its duties and may also receive donations of moneys for such purpose, and the Executive Director is authorized, in his discretion, to accept, hold, use, expend, and administer the same for the purposes of this subchapter.”
 
 1980—Subsec. (b). Pub. L. 96–515, §301(i), inserted “, including enforcement of agreements with Federal agencies to which the Council is a party” after “wherever appropriate”.
 
-Subsec. (g). Pub. L. 96–515, §301(j), substituted “paragraphs (2) through (4)” for “paragraphs (1) through\(16)” and inserted provision authorizing the Council to accept donations of moneys and the Executive Director, in his discretion, to accept, hold, use, expend, and administer such moneys.
+Subsec. (g). Pub. L. 96–515, §301(j), substituted “paragraphs (2) through (4)” for “paragraphs (1) through (16)” and inserted provision authorizing the Council to accept donations of moneys and the Executive Director, in his discretion, to accept, hold, use, expend, and administer such moneys.
 
 1976—Subsec. (a). Pub. L. 94–422 substituted provisions authorizing appointment of the Executive Director by the Chairman and that the Executive Director shall report to the Council who shall prescribe his functions and duties for provisions designating the Director of the National Park Service or his designee as the Executive Director of the Council and incorporated provisions relating to furnishing of financial and administrative services by the Department of the Interior in subsec. (f).
 
@@ -69,8 +69,4 @@ Subsec. (g). Pub. L. 94–422 added subsec. (g).
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 section 3303.
 

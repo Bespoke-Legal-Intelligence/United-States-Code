@@ -18,7 +18,3 @@ A provision of the original section for the disposition of the proceeds of lease
 
 Repeal of provisions of this section relating to granting rights-of-way to railway or tramway companies for purpose of building and operating a railway or tramway, so far as they relate to lands within Mount Rainier National Park, see section 92a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 92a, 108, 110c of this title.
-

@@ -4,7 +4,3 @@ Individual or tribal owners of trust or restricted Indian land on the San Xavier
 
 (Pub. L. 89–715, §7, Nov. 2, 1966, 80 Stat. 1113.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 416i of this title.
-

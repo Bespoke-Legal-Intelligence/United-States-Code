@@ -18,7 +18,7 @@
 
 (5) A Government corporation shall reimburse the Comptroller General of the United States for the full cost of any audit conducted by the Comptroller General under this subsection, as determined by the Comptroller General. All reimbursements received under this paragraph by the Comptroller General of the United States shall be deposited in the Treasury as miscellaneous receipts.
 
-(b) Upon request of the Comptroller General of the United States, a Government corporation shall provide to the Comptroller General of the United States all books, accounts, financial records, reports, files, workpapers, and property belonging to or in use by the Government corporation and its auditor that the Comptroller General of the United States considers necessary to the performance of any audit or review under this section.
+(b) Upon request of the Comptroller General of the United States, a Government corporationshall provide to the Comptroller General of the United States all books, accounts, financial records, reports, files, workpapers, and property belonging to or in use by the Government corporation and its auditor that the Comptroller General of the United States considers necessary to the performance of any audit or review under this section.
 
 (c) Activities of the Comptroller General of the United States under this section are in lieu of any audit of the financial transactions of a Government corporation that the Comptroller General is required to make under any other law.
 
@@ -110,6 +110,8 @@ Pub. L. 100–233 added par. (4).
 
 #### Change of Name
 
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1993 Amendment
@@ -118,11 +120,11 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 202(i) of Pub.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of Title 12, Banks and Banking.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of Title 12, Banks and Banking.
 
-#### Deposit of Funds Reimbursed to Comptroller General to Appropriation of General Accounting Office
+#### Deposit of Funds Reimbursed to Comptroller General to Appropriation of Government Accountability Office
 
-Pub. L. 106–57, title II, Sept. 29, 1999, 113 Stat. 426, provided in part: “That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the General Accounting Office then available and remain available until expended”.
+Pub. L. 106–57, title II, Sept. 29, 1999, 113 Stat. 426, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided in part: “That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the Government Accountability Office then available and remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -135,8 +137,4 @@ Pub. L. 104–197, title II, Sept. 16, 1996, 110 Stat. 2411.
 Pub. L. 104–53, title II, Nov. 19, 1995, 109 Stat. 534.
 
 Pub. L. 103–283, title II, July 22, 1994, 108 Stat. 1440.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9106 of this title; title 12 sections 1431, 1441, 1441a, 1441b, 1789, 4716; title 16 sections 450ss–3, 698v–4, 831n–4, 838i; title 22 section 3723.
 

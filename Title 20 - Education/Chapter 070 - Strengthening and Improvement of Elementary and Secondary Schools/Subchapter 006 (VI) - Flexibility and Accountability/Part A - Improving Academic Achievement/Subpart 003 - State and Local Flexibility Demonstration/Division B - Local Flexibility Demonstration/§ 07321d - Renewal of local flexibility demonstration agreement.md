@@ -14,7 +14,3 @@ A renewal under this section shall be effective at the end of the original term 
 
 (Pub. L. 89–10, title VI, §6155, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1889.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7321c of this title.
-

@@ -6,7 +6,7 @@ No carrier shall undertake the construction of a new line or of an extension of 
 
 #### (b) Notification of Secretary of Defense, Secretary of State, and State Governor
 
-Upon receipt of an application for any such certificate, the Commission shall cause notice thereof to be given to, and shall cause a copy of such application to be filed with, the Secretaryof Defense, the Secretary of State (with respect to such applications involving service to foreign points), and the Governor of each State in which such line is proposed to be constructed, extended, acquired, or operated, or in which such discontinuance, reduction, or impairment of service is proposed, with the right to those notified to be heard; and the Commission may require such published notice as it shall determine.
+Upon receipt of an application for any such certificate, the Commission shall cause notice thereof to be given to, and shall cause a copy of such application to be filed with, the Secretary of Defense, the Secretary of State (with respect to such applications involving service to foreign points), and the Governor of each State in which such line is proposed to be constructed, extended, acquired, or operated, or in which such discontinuance, reduction, or impairment of service is proposed, with the right to those notified to be heard; and the Commission may require such published notice as it shall determine.
 
 #### (c) Approval or disapproval; injunction
 
@@ -83,8 +83,4 @@ Section 402(b)(2) of Pub. L. 104–104 provided that: “The Commission shall pe
 &emsp;“(A) to be exempt from the requirements of section 214 of the Communications Act of 1934 \[47 U.S.C. 214\] for the extension of any line; and
 
 &emsp;“(B) to file cost allocation manuals and ARMIS reports annually, to the extent such carrier is required to file such manuals or reports.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 158, 252, 253, 254, 259, 571 of this title.
 

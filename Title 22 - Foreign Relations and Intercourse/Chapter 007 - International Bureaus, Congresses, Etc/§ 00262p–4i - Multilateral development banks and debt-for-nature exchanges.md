@@ -4,7 +4,7 @@
 
 The Secretary of the Treasury shall direct the United States Executive Directors of the multilateral development banks to—
 
-&emsp;(1) negotiate for the creation in each respective multilateral development bank, except where the Secretary of the Treasury determines that the provisions of this subsection have previously been met, of a department that will—
+&emsp;(1) negotiate for the creation in each respective multilateral development bank, exceptwhere the Secretary of the Treasury determines that the provisions of this subsection have previously been met, of a department that will—
 
 &emsp;&emsp;(A) be responsible for environmental protection and resource conservation, including support for restoration, protection, and sustainable use policies;
 

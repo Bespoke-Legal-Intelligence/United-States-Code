@@ -18,7 +18,3 @@ There is authorized to be appropriated to carry out this section not to exceed $
 
 The Water Resources Planning Act, referred to in subsec. (a), is Pub. L. 89–80, July 22, 1965, 79 Stat. 244, as amended, which is classified generally to chapter 19B (§1962 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1962 of Title 42 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1287, 1313, 1375, 1376 of this title.
-

@@ -26,7 +26,3 @@ This accords with the following decisions: <i>Rothenburg v. United States</i>, 1
 
 Subsec. (b). Act Oct. 31, 1951, inserted “willfully” before “causes”, and “or another” after “him”, and substituted “is punishable as a principal” for “is also a principal and punishable as such”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1531, 1962 of this title; title 21 sections 848, 854; title 50 section 422.
-

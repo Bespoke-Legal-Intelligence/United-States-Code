@@ -60,7 +60,7 @@ Nonprofit library, archives, educational institutions, or public broadcasting en
 
 &emsp;&emsp;&emsp;(i)
 
-Definition.—In this subparagraph, the term “public broadcasting entity” has the meaning given such term under section 118(g).
+Definition.—In this subparagraph, the term “public broadcasting entity” has the meaning given such term under section 118(g).<sup>1</sup>
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -68,11 +68,13 @@ In general.—In the case of a nonprofit library, archives, educational institut
 
 (Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2874; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5004(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–593.)
 
+#### References in Text
+
+Section 118(g) of this title, referred to in subsec. (c)(5)(B)(i), was redesignated as section 118(f) by Pub. L. 108–419, §5(f)(2), Nov. 30, 2004, 118 Stat. 2366.
+
 #### Amendments
 
 1999—Subsec. (c)(5)(B). Pub. L. 106–113 amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of a nonprofit library, archives, or educational institution, the court shall remit damages in any case in which the library, archives, or educational institution sustains the burden of proving, and the court finds, that the library, archives, or educational institution was not aware and had no reason to believe that its acts constituted a violation.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1201, 1202 of this title.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

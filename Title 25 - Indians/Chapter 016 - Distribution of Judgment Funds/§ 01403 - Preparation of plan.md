@@ -36,10 +36,6 @@ Subsec. (b)(5). Pub. L. 97–458, §2(b), inserted proviso.
 
 Section 2(a) of Pub. L. 97–458 provided in part that plan or plans approved by the Secretary and the tribal governing body of an Indian tribe for disbursements to parents or legal guardian of minors or legal incompetents for health, education, welfare, or emergencies of their charges “shall be limited to urgent needs arising from extenuating circumstances and shall accord with general principles governing administration of trust funds of minors and legal incompetents, including a requirement for strict accounting for expenditures.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1404 of this title.
-
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a colon.</i>
 
 <i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>

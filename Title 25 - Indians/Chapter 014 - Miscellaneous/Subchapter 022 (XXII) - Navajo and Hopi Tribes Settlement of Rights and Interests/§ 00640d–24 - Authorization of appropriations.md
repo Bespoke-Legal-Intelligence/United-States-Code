@@ -16,15 +16,17 @@
 
 (7) For the purpose of carrying out the provisions of subsection (i) of section 640d–28 of this title, there is authorized to be appropriated, effective in fiscal year 1981, not to exceed $1,000,000 annually.
 
-(8) For the purposes of carrying out the provisions of section 640d–14 of this title, there is authorized to be appropriated not to exceed $30,000,000 annually for fiscal years 1995, 1996, 1997, 1998, 1999, and 2000.
+(8) For the purposes of carrying out the provisions of section 640d–14 of this title, there is authorized to be appropriated not to exceed $30,000,000 for each of fiscal years 2003 through 2008.
 
 #### (b) Availability of sums
 
 The funds appropriated pursuant to the authorizations provided in this subchapter shall remain available until expended.
 
-(Pub. L. 93–531, §25, Dec. 22, 1974, 88 Stat. 1722; Pub. L. 96–40, July 30, 1979, 93 Stat. 318; Pub. L. 96–305, §10, July 8, 1980, 94 Stat. 933; Pub. L. 98–48, July 13, 1983, 97 Stat. 244; Pub. L. 100–666, §§2, 4(b), Nov. 16, 1988, 102 Stat. 3929, 3930; Pub. L. 102–180, §2, Dec. 2, 1991, 105 Stat. 1230; Pub. L. 104–15, §1, June 21, 1995, 109 Stat. 189; Pub. L. 104–301, §10, Oct. 11, 1996, 110 Stat. 3652.)
+(Pub. L. 93–531, §25, Dec. 22, 1974, 88 Stat. 1722; Pub. L. 96–40, July 30, 1979, 93 Stat. 318; Pub. L. 96–305, §10, July 8, 1980, 94 Stat. 933; Pub. L. 98–48, July 13, 1983, 97 Stat. 244; Pub. L. 100–666, §§2, 4(b), Nov. 16, 1988, 102 Stat. 3929, 3930; Pub. L. 102–180, §2, Dec. 2, 1991, 105 Stat. 1230; Pub. L. 104–15, §1, June 21, 1995, 109 Stat. 189; Pub. L. 104–301, §10, Oct. 11, 1996, 110 Stat. 3652; Pub. L. 108–204, title I, §102, Mar. 2, 2004, 118 Stat. 543.)
 
 #### Amendments
+
+2004—Subsec. (a)(8). Pub. L. 108–204 substituted “for each of fiscal years 2003 through 2008” for “annually for fiscal years 1995, 1996, 1997, 1998, 1999, and 2000”.
 
 1996—Subsec. (a)(8). Pub. L. 104–301 substituted “1996, 1997, 1998, 1999, and 2000” for “1996, and 1997”.
 

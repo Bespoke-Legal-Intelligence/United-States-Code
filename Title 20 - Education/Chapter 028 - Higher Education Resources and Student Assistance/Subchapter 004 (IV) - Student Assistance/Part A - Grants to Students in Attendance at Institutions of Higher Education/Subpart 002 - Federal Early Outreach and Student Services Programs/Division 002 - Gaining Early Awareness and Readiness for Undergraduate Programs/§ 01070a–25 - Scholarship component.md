@@ -48,7 +48,3 @@ An eligible entity may consider students who have successfully participated in p
 
 A prior section 1070a–25, Pub. L. 89–329, title IV, §404E, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 495; amended Pub. L. 103–208, §2(b)(20), Dec. 20, 1993, 107 Stat. 2459, related to distribution of funds, prior to the general amendment of this division by Pub. L. 105–244.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1070a–22, 1070a–23 of this title.
-

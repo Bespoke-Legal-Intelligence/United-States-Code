@@ -171,7 +171,3 @@ Section 220(b) of Pub. L. 90–206 provided that: “For the purposes of determi
 
 \[Section 220(b) of Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a) (1) of Pub. L. 90–206, set out as an Effective Date note under section 3110 of this title.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5545a, 5545b, 8714a, 8714d of this title.
-

@@ -6,7 +6,13 @@ Wherever practicable the operations of a small business investment company, incl
 
 #### (b) Use of advisory services; depository or fiscal agents; investment of funds
 
-Each small business investment company may make use, wherever practicable, of the advisory services of the Federal Reserve System and of the Department of Commerce which are available for and useful to industrial and commercial businesses, and may provide consulting and advisory services on a fee basis and have on its staff persons competent to provide such services. Any Federal Reserve bank is authorized to act as a depository or fiscal agent for any company operating under provisions of this chapter. Such companies with outstanding financings are authorized to invest funds not reasonably needed for their operations in direct obligations of, or obligations guaranteed as to principal and interest by, the United States, or in certificates of deposit maturing within one year or less, issued by any institution the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or in savings accounts of such institutions.
+Each small business investment company may make use, wherever practicable, of the advisory services of the Federal Reserve System and of the Department of Commerce which are available for and useful to industrial and commercial businesses, and may provide consulting and advisory services on a fee basis and have on its staff persons competent to provide such services. Any Federal Reserve bank is authorized to act as a depository or fiscal agent for any company operating under provisions of this chapter. Any such company that is licensed before October 1, 2004 and has outstanding financings is authorized to invest funds not needed for its operations—
+
+&emsp;(1) in direct obligations of, or obligations guaranteed as to principal and interest by, the United States;
+
+&emsp;(2) in certificates of deposit or other accounts of federally insured banks or other federally insured depository institutions, if the certificates or other accounts mature or are otherwise fully available not more than 1 year after the date of the investment; or
+
+&emsp;(3) in mutual funds, securities, or other instruments that consist of, or represent pooled assets of, investments described in paragraphs (1) or (2).
 
 #### (c) Rules and regulations
 
@@ -14,7 +20,7 @@ The Administration is authorized to prescribe regulations governing the operatio
 
 #### (d) Forfeiture of rights, privileges, and franchises; jurisdiction
 
-Should any small business investment company violate or fail to comply with any of the provisions of this chapter or of regulations prescribed hereunder, all of its rights, privileges, and franchises derived therefrom may thereby be forfeited. Before any such company shall be declared dissolved, or its rights, privileges, and franchises forfeited, any noncompliance with or violation of this chapter shall be determined andadjudged by a court of the United States of competent jurisdiction in a suit brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of such company is located. Any such suit shall be brought by the United States at the instance of the Administration or the Attorney General.
+Should any small business investment company violate or fail to comply with any of the provisions of this chapter or of regulations prescribed hereunder, all of its rights, privileges, and franchises derived therefrom may thereby be forfeited. Before any such company shall be declared dissolved, or its rights, privileges, and franchises forfeited, any noncompliance with or violation of this chapter shall be determined and adjudged by a court of the United States of competent jurisdiction in a suit brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of such company is located. Any such suit shall be brought by the United States at the instance of the Administration or the Attorney General.
 
 #### (e) Liability of United States
 
@@ -34,7 +40,7 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 &emsp;(B) The Administration's plans to insure the provision of small business investment company financing to all areas of the country and to all eligible small business concerns including steps taken to accomplish same.
 
-&emsp;(C) Steps taken by the Administration to maximize recoupment of Government funds incident to the inauguration and administration of the small business investment company program and to insure compliance with statutory and regulatory standards relating thereto.
+&emsp;(C) Steps taken by the Administration to maximize recoupment of Government funds incident to the inauguration and administrationof the small business investment company program and to insure compliance with statutory and regulatory standards relating thereto.
 
 &emsp;(D) An accounting by the Office of Management and Budget with respect to Federal expenditures to business by executive agencies, specifying the proportion of said expenditures going to business concerns falling above and below small business size standards applicable to small business investment companies.
 
@@ -80,13 +86,13 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 (2) In the case of a business loan, the small business investment company making such loan may charge interest on such loan at a rate which does not exceed the maximum rate prescribed by regulation by the Administration for loans made by any licensee (determined without regard to any State rate incorporated by such regulation). In this paragraph, the term “interest” includes only the maximum mandatory sum, expressed in dollars or as a percentage rate, that is payable with respect to the business loan amount received by the small business concern, and does not include the value, if any, of contingent obligations, including warrants, royalty, or conversion rights, granting the small business investment company an ownership interest in the equity or increased future revenue of the small business concern receiving the business loan.
 
-(3) A State law or constitutional provision shall be preempted for purposes of paragraph (2) with respect to any loan if such loan is made before the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the provisions of this subsection to apply with respect to loans made in such State, except that such State law or constitutional or other provision shall be preempted in the case of a loan made, on or after the date on which such law is adopted or such certification is made, pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.
+(3) A State law or constitutional provision shall be preempted for purposes of paragraph (2) with respect to any loan if such loan is made before the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State doesnot want the provisions of this subsection to apply with respect to loans made in such State, except that such State law or constitutional or other provision shall be preempted in the case of a loan made, on or after the date on which such law is adopted or such certification is made, pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.
 
 (4)(A) If the maximum rate of interest authorized under paragraph (2) on any loan made by a small business investment company exceeds the rate which would be authorized by applicable State law if such State law were not preempted for purposes of this subsection, the charging of interest at any rate in excess of the rate authorized by paragraph (2) shall be deemed a forfeiture of the greater of (i) all interest which the loan carries with it, or (ii) all interest which has been agreed to be paid thereon.
 
 (B) In the case of any loan with respect to which there is a forfeiture of interest under subparagraph (A), the person who paid the interest may recover from a small business investment company making such loan an amount equal to twice the amount of the interest paid on such loan. Such interest may be recovered in a civil action commenced in a court of appropriate jurisdiction not later than two years after the most recent payment of interest.
 
-(Pub. L. 85–699, title III, §308, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, §§8, 11(c)(d), Oct. 3, 1961, 75 Stat. 753, 756; Pub. L. 88–273, §5, Feb. 28, 1964, 78 Stat. 147; Pub. L. 89–779, §3, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 90–104, title II, §210, Oct. 11, 1967, 81 Stat. 271; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–501, title II, §204, Oct. 29, 1974, 88 Stat. 1559; Pub. L. 95–507, title I, §102, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 96–104, title I, §104, Nov. 5, 1979, 93 Stat. 790; Pub. L. 96–161, title II, §204, Dec. 28, 1979, 93 Stat. 1236; Pub. L. 96–221, title V, §§524, 529, Mar. 31, 1980, 94 Stat. 166, 168; Pub. L. 99–226, §1, Dec. 28, 1985, 99 Stat. 1744; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–366, title IV, §§408(c), 417(a), Sept. 4, 1992, 106 Stat. 1016, 1019; Pub. L. 103–403, title II, §214, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(e), (h)(1)(B), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747; Pub. L. 106–9, §2(a), Apr. 5, 1999, 113 Stat. 17.)
+(Pub. L. 85–699, title III, §308, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, §§8, 11(c)(d), Oct. 3, 1961, 75 Stat. 753, 756; Pub. L. 88–273, §5, Feb. 28, 1964, 78 Stat. 147; Pub. L. 89–779, §3, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 90–104, title II, §210, Oct. 11, 1967, 81 Stat. 271; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–501, title II, §204, Oct. 29, 1974, 88 Stat. 1559; Pub. L. 95–507, title I, §102, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 96–104, title I, §104, Nov. 5, 1979, 93 Stat. 790; Pub. L. 96–161, title II, §204, Dec. 28, 1979, 93 Stat. 1236; Pub. L. 96–221, title V, §§524, 529, Mar. 31, 1980, 94 Stat. 166, 168; Pub. L. 99–226, §1, Dec. 28, 1985, 99 Stat. 1744; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–366, title IV, §§408(c), 417(a), Sept. 4, 1992, 106 Stat. 1016, 1019; Pub. L. 103–403, title II, §214, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(e), (h)(1)(B), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747; Pub. L. 106–9, §2(a), Apr. 5, 1999, 113 Stat. 17; Pub. L. 108–447, div. K, title II, §202, Dec. 8, 2004, 118 Stat. 3465.)
 
 #### References in Text
 
@@ -100,11 +106,13 @@ The Investment Company Act of 1940, referred to in subsec. (g)(2)(J), is title I
 
 Section 204 of Pub. L. 96–161, cited as a credit to this section, was repealed by section 529 of Pub. L. 96–221 effective at the close of Mar. 31, 1980. The amendment of this section by that repealed provision, described in the 1979 Amendment note set out under this section, shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when the amendment was in effect in such State.
 
-Section 104 of Pub. L. 96–104, cited as a credit to this section, was repealed by section 212 of Pub. L. 96–161,effective at the close of Dec. 27, 1979. The amendment of this section by that repealed provision, described in the 1979 Amendment note set out under this section, shall continue in effect for limited purposes pursuant to section 212 of Pub. L. 96–161. See Saving Provisions note, describing the provisions of section 212 of Pub. L. 96–161, set out under section 85 of Title 12, Banks and Banking.
+Section 104 of Pub. L. 96–104, cited as a credit to this section, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979. The amendment of this section by that repealed provision, described in the 1979 Amendment note set out under this section, shall continue in effect for limited purposes pursuant to section 212 of Pub. L. 96–161. See Saving Provisions note, describing the provisions of section 212 of Pub. L. 96–161, set out under section 85 of Title 12, Banks and Banking.
 
 Section 204 of Pub. L. 93–501, cited as a credit to this section, was repealed by Pub. L. 96–104, §1, Nov. 5, 1979, 93 Stat. 789. The amendment of this section by that repealed provision, described in the 1974 Amendment note, shall continue in effect for limited purposes pursuant to section 1 of Pub. L. 96–104. See Savings Provisions note, describing the provisions of section 1 of Pub. L. 96–104, set out under section 85 of Title 12, Banks and Banking.
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–447, which directed the amendment of section 308(b) of the Small Business Investment Act by substituting “Any such company that is licensed before October 1, 2004 and has outstanding financings is authorized to invest funds not needed for its operations—” and pars. (1) to (3) for last sentence, was executed to this section, which is section 308 of the Small Business Investment Act of 1958, to reflect the probable intent of Congress. Prior to amendment, last sentence read as follows: “Such companies with outstanding financings are authorized to invest funds not reasonably needed for their operations in direct obligations of, or obligations guaranteed as to principal and interest by, the United States, or in certificates of deposit maturing within one year or less, issued by any institution the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or in savings accounts of such institutions.”
 
 1999—Subsec. (i)(2). Pub. L. 106–9 inserted at end: “In this paragraph, the term ‘interest’ includes only the maximum mandatory sum, expressed in dollars or as a percentage rate, that is payable with respect to the business loan amount received by the small business concern, and does not include the value, if any, of contingent obligations, including warrants, royalty, or conversion rights, granting the small business investment company an ownership interest in the equity or increased future revenue of the small business concern receiving the business loan.”
 
@@ -186,13 +194,11 @@ Nothing in amendment by Pub. L. 102–366 to be construed to affect applicabilit
 
 #### Transfer of Functions
 
-Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
-
 Bureau of the Budget designated as Office of Management and Budget and Offices of Director, Deputy Director, and Assistant Directors of Bureau of the Budget designated Director, Deputy Director, and Assistant Directors of Office of Management and Budget, respectively. Records, property, personnel, and funds of Bureau of the Budget transferred to Office of Management and Budget. See Part I of Reorganization Plan 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Choice of Highest Applicable Interest Rate
 
-In any case in which one or more provisions of, or amendments made by, title V of Pub. L. 96–221, section 1735f–7a of Title 12, Banks and Banking, or any other provisions of law, including section 85 of Title 12, apply with respect to the same loan, mortgage, credit sale, or advance, such loan, mortgage, credit sale, or advance may be made at the highest applicable rate, see section 528 of Pub. L. 96–221, set out as a note under section 1735f–7a of Title 12.
+In any case in which one or more provisions of, or amendments made by, title V of Pub. L. 96–221, section 1735f–7a of Title 12, Banks and Banking, or any otherprovisions of law, including section 85 of Title 12, apply with respect to the same loan, mortgage, credit sale, or advance, such loan, mortgage, credit sale, or advance may be made at the highest applicable rate, see section 528 of Pub. L. 96–221, set out as a note under section 1735f–7a of Title 12.
 
 #### States Having Constitutional Provisions Regarding Maximum Interest Rates
 
@@ -201,8 +207,4 @@ Section 213 of Pub. L. 96–161 provided that the provisions of title II of Pub.
 #### Definition of “State”
 
 For purposes of subsec. (i) of this section, the term “State” to include the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands, see section 527 of Pub. L. 96–221, set out as a note under section 1735f–7a of Title 12, Banks and Banking.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 687h of this title.
 

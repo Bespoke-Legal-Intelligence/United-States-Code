@@ -1,9 +1,5 @@
 Part E—Consumer Leases
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1604, 1632, 1640 of this title.
-
 
 ---
 

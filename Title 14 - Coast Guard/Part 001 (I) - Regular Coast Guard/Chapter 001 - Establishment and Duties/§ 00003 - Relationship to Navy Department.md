@@ -22,7 +22,3 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 section 468; title 10 section 5013a; title 49 section 108; title 50 section 191a.
-

@@ -110,10 +110,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 22 sections 2185, 2371, 2394, 2398.
-
 
 ---
 

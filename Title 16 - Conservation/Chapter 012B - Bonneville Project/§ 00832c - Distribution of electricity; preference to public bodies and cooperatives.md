@@ -2,7 +2,7 @@
 
 #### (a) General provisions
 
-In order to insure that the facilities for the generation of electric energy at the Bonneville project shall be operated for the benefit of the general public, and particularly of domestic and rural consumers, the administrator shall at all times, in disposing of electric energy generatedat said project, give preference and priority to public bodies and cooperatives.
+In order to insure that the facilities for the generation of electric energy at the Bonneville project shall be operated for the benefit of the general public, and particularly of domestic and rural consumers, the administrator shall at all times, in disposing of electric energy generated at said project, give preference and priority to public bodies and cooperatives.
 
 #### (b) Prior to January 1, 1942; subsequent thereto
 
@@ -25,8 +25,4 @@ It is declared to be the policy of the Congress, as expressed in this chapter, t
 #### Transfer of Functions
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 839c of this title.
 

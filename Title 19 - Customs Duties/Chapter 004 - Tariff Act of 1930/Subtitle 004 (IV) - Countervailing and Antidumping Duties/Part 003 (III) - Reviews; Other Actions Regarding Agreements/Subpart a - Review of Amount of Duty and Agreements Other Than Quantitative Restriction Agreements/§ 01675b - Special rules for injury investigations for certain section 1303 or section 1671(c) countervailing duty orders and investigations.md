@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(B) in the case of an order described in paragraph (1)(B)(ii), the date on which the order is issued,
 
-> &emsp;liquidation shall be suspended at the cash deposit rate in effect on the date described in subparagraph (A) or (B) (whichever is applicable).
+> &emsp;liquidation shall be suspended at the cash deposit rate in effect on the date described insubparagraph (A) or (B) (whichever is applicable).
 
 #### (b) Investigation procedure and schedule
 
@@ -94,7 +94,7 @@ If, on the date on which a country becomes a Subsidies Agreement country, there 
 
 &emsp;(1) in the case of an investigation in progress, make a final determination under section 1671d(b) of this title within 75 days after the date of an affirmative final determination, if any, by the administering authority,
 
-&emsp;(2) in the case of a suspended investigation to which section 1671c(i)(1)(B) of this title applies, make a final determination under section 1671d(b) of this title within 120 days after receiving notice from the administering authority of the resumption of the investigation pursuant to section 1671c(i) of this title, or within 45 days after the date of an affirmative final determination, if any, by the administering authority, whichever is later, or
+&emsp;(2) in the case of a suspended investigation to which section 1671c(i)(1)(B) of this title applies, make a final determination under section 1671d(b) of this title within 120 days afterreceiving notice from the administering authority of the resumption of the investigation pursuant to section 1671c(i) of this title, or within 45 days after the date of an affirmative final determination, if any, by the administering authority, whichever is later, or
 
 &emsp;(3) in the case of a suspended investigation to which section 1671c(i)(1)(C) of this title applies, treat the countervailing duty order issued pursuant to such section as if it were—
 
@@ -116,7 +116,7 @@ The administering authority or the Commission, as the case may be, shall publish
 
 #### (B) Exception
 
-&emsp;&emsp;If the administering authority determines that the interested party who requested an investigation under this section is a related party or an importer within the meaning of section 1677(4)(B) of this title, the administering authority may decline a request bysuch party to initiate a review of an order under section 1675(c) of this title which involves the same or comparable subject merchandise.
+&emsp;&emsp;If the administering authority determines that the interested party who requested an investigation under this section is a related party or an importer within the meaning of section 1677(4)(B) of this title, the administering authority may decline a request by such party to initiate a review of an order under section 1675(c) of this title which involves the same or comparable subject merchandise.
 
 #### (2) Cumulation
 
@@ -145,10 +145,6 @@ Section effective, except as otherwise provided, on the date on which the WTO Ag
 #### Uruguay Round Agreements: Entry Into Force
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1516a, 1675, 1677e, 1677f, 1677m of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

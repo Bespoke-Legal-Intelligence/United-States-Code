@@ -4,9 +4,9 @@
 
 (b) Any consular officer to whom a commission is addressed to take testimony, who is interested in the outcome of the criminal action or proceeding in which the foreign documents in question are to be used or has participated in the prosecution of such action or proceeding, whether by investigations, preparation of evidence, or otherwise, may be disqualified on his own motion or on that of the United States or any other party to such criminal action or proceeding made to the court from which the commission issued at any time prior to the execution thereof. If after notice and hearing, the court grants the motion, it shall instruct the consular officer thus disqualified to send the commission to any other consular officer of the United States named by the court, and such other officer shall execute the commission according to its terms and shall for all purposes be deemed the officer to whom the commission is addressed.
 
-(c) The provisions of this section and sections 3493–3496 of this title applicable to consular officers shall be applicable to diplomatic officers pursuant to such regulations as may be prescribed by the President. For purposes of this section and sections 3493 through 3496 of this title, the term “consular officers” includes any United States citizen who is designated to perform notarial functions pursuant to section 1750 of the Revised Statutes, as amended (22 U.S.C. 4221).
+(c) The provisions of this section and sections 3493–3496 of this title applicable to consular officers shall be applicable to diplomatic officers pursuant to such regulations as may be prescribed by the President. For purposes of this section and sections 3493 through 3496 of thistitle, the term “consular officers” includes any United States citizen who is designated to perform notarial functions pursuant to section 1750 of the Revised Statutes, as amended (22 U.S.C. 4221).
 
-(June 25, 1948, ch. 645, 62 Stat. 834; May 24, 1949, ch. 139, §53, 63 Stat. 96; Pub. L. 94–149, §4, Dec. 12, 1975, 89 Stat. 806; Pub. L. 105–277, div. G,subdiv. B, title XXII, §2222(c)(2), Oct. 21, 1998, 112 Stat. 2681–818.)
+(June 25, 1948, ch. 645, 62 Stat. 834; May 24, 1949, ch. 139, §53, 63 Stat. 96; Pub. L. 94–149, §4, Dec. 12, 1975, 89 Stat. 806; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2222(c)(2), Oct. 21, 1998, 112 Stat. 2681–818.)
 
 #### Historical and Revision Notes
 
@@ -29,8 +29,4 @@ The Federal Rules of Evidence, referred to in subsec. (a), are set out in the Ap
 1975—Subsec. (a). Pub. L. 94–149 substituted “the authentication requirements of the Federal Rules of Evidence” for “the requirements of section 1732 of Title 28”.
 
 1949—Subsec. (a). Act May 24, 1949, substituted “section 1732” for “section 695”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3491, 3493, 3494, 3495, 3496 of this title.
 

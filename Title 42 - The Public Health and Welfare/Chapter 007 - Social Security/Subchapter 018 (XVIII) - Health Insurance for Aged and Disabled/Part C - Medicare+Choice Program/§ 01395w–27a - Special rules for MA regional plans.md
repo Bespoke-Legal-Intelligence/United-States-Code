@@ -156,7 +156,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;(B) with respect to each other State in such region in which it does not meet requirements, it demonstrates to the satisfaction of the Secretary that it has filed the necessary application to meet such requirements,
 
-> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as the Secretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
+> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as theSecretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
 
 #### (2) Selection of appropriate State
 
@@ -242,7 +242,7 @@ An MA regional plan shall include the following:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The increased amount under this subparagraph for an MA regional plan in an MA region for a year shall be an amount, determined by the Secretary, based on the bid submitted for such plan (or plans) and shall be available to all MA regional plans offered in such region and year. Such amount may be based on the mean, mode, or median, or other measure of such bids and may vary from region to region. The Secretary may not limit the number of plans or bids in a region.
+&emsp;&emsp;&emsp;The increased amount under this subparagraph for an MA regional plan in an MA region for a year shall be an amount, determined by the Secretary, based on the bid submitted for such plan (or plans) andshall be available to all MA regional plans offered in such region and year. Such amount may be based on the mean, mode, or median, or other measure of such bids and may vary from region to region. The Secretary may not limit the number of plans or bids in a region.
 
 #### (ii) Multi-year funding
 
@@ -394,7 +394,7 @@ An MA regional plan shall include the following:
 
 #### (3) Statutory region-specific non-drug amount
 
-&emsp;For purposes of paragraph (2)(A)(i), the term “statutory region-specific non-drug amount” means, for an MA region and year, an amountequal the sum (for each MA local area within the region) of the product of—
+&emsp;For purposes of paragraph (2)(A)(i), the term “statutory region-specific non-drug amount” means, for an MA region and year, an amount equal the sum (for each MA local area within the region) of the product of—
 
 &emsp;&emsp;(A) MA area-specific non-drug monthly benchmark amount under section 1395w–23(j)(1)(A) of this title for that area and year; and
 
@@ -462,11 +462,11 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 &emsp;&emsp;(A) the organization provides assurances satisfactory to the Secretary that the organization will make payment to the hospital for inpatient hospital services of an amount that is not less than the amount that would be payable to the hospital under section 1395ww of this title with respect to such services; and
 
-&emsp;&emsp;(B) with respect to specific inpatient hospital services provided to an enrollee, the hospital demonstrates to the satisfaction of the Secretary that the hospital's costs of such services exceed the payment amount described in subparagraph (A).
+&emsp;&emsp;(B) with respect to specific inpatient hospital services provided to an enrollee, thehospital demonstrates to the satisfaction of the Secretary that the hospital's costs of such services exceed the payment amount described in subparagraph (A).
 
 #### (2) Payment amounts
 
-&emsp;The payment amount under this subsection for inpatient hospital services provided by a subsection (d) hospital to an enrollee in an MAregional plan shall be, subject to the limitation of funds under paragraph (3), the amount (if any) by which—
+&emsp;The payment amount under this subsection for inpatient hospital services provided by a subsection (d) hospital to an enrollee in an MA regional plan shall be, subject to the limitation of funds under paragraph (3), the amount (if any) by which—
 
 &emsp;&emsp;(A) the amount of payment that would have been paid for such services under this subchapter if the enrollees were covered under the original medicare fee-for-service program option and the hospital were a critical access hospital; exceeds
 
@@ -491,8 +491,4 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 #### Effective Date
 
 Section applicable with respect to plan years beginning on or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as an Effective Date of 2003 Amendment note under section 1395w–21 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395w–21, 1395w–22, 1395w–23, 1395w–27, 1395w–29, 1395w–111, 1395w–112, 1395w–113 of this title.
 

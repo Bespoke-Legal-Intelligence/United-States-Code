@@ -84,7 +84,3 @@ A registrant who after registration—
 
 (Pub. L. 104–65, §4, Dec. 19, 1995, 109 Stat. 696.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1604, 1609, 1610 of this title.
-

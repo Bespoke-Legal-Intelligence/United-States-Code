@@ -2,7 +2,7 @@
 
 #### (a) Payments to station employees
 
-Subject to subsection (d) of this section, any employee of a radio station who accepts or agrees to accept from any person (other than such station), or any person (other than such station) who pays or agrees to pay such employee, any money, service or other valuable consideration for the broadcast of any matter over such station shall, in advance of such broadcast, disclose the fact of such acceptance or agreement to such station.
+Subject to subsection (d) of this section, any employee of a radio station who accepts or agrees to accept from any person (other than such station), or any person (other than such station) who pays or agrees to pay such employee, any money, service or other valuableconsideration for the broadcast of any matter over such station shall, in advance of such broadcast, disclose the fact of such acceptance or agreement to such station.
 
 #### (b) Production or preparation of programs
 
@@ -33,8 +33,4 @@ Any person who violates any provision of this section shall, for each such viola
 #### Prior Provisions
 
 A prior section 507 of act June 19, 1934, ch. 652, was renumbered section 506 by section 1 of Pub. L. 96–507, and is classified to section 507 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 317 of this title.
 

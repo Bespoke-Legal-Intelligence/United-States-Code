@@ -36,7 +36,7 @@ The Secretary shall prescribe regulations to insure that Federal funds expended 
 
 #### (f) Wages; labor standards; waiver; authority and functions of Secretary
 
-All laborers and mechanics employed by contractors or subcontractors on projects assisted by the Secretary which are undertaken by approved applicants under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, asdetermined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not extend any financial assistance under this section for any project without first obtaining adequate assurance that these labor standards will be maintained on the construction work; except that compliance with such standards may be waived by the Secretary in cases or classes of cases where laborers or mechanics, not otherwise employed at any time on the project, voluntarily donate their services without compensation for the purpose of lowering the costs of construction and the Secretary determines that any amounts thereby saved are fully credited to the person, corporation, association, organization, or other entity, undertaking the project. The Secretary of Labor shall have, with respect to the labor standards specified in this section, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), and section 3145 of title 40.
+All laborers and mechanics employed by contractors or subcontractors on projects assisted by the Secretary which are undertaken by approved applicants under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not extend any financial assistance under this section for any project without first obtaining adequate assurance that these labor standards will be maintained on the construction work; except that compliance with such standards may be waived by the Secretary in cases or classes of cases where laborers or mechanics, not otherwise employed at any time on the project, voluntarily donate their services without compensation for the purpose of lowering the costs of construction and the Secretary determines that any amounts thereby saved are fully credited to the person, corporation, association, organization, or other entity, undertaking the project. The Secretary of Labor shall have, with respect to the labor standards specified in this section, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), and section 3145 of title 40.
 
 #### (g) Definitions
 
@@ -90,7 +90,7 @@ Housing and related facilities constructed with grants under this section may be
 
 #### (C) Repayment of advance
 
-&emsp;&emsp;Any advance provided under subparagraph (A)(i) shall be repaid on such terms as may be prescribed by the Secretary when the project ceases to be used as housing in accordance with the provisions of this subsection. Recipients shall be required to repay 100 percent of the advance if the housing is used for purposes under this subsection for fewer than 10 years following initial occupancy. If the housing is used for such purposes for more than 10 years, thepercentage of the amount that shall be required to be repaid shall be reduced by 10 percentage points for each year in excess of 10 that the property is so used.
+&emsp;&emsp;Any advance provided under subparagraph (A)(i) shall be repaid on such terms as may be prescribed by the Secretary when the project ceases to be used as housing in accordance with the provisions of this subsection. Recipients shall be required to repay 100 percent of the advance if the housing is used for purposes under this subsection for fewer than 10 years following initial occupancy. If the housing is used for such purposes for more than 10 years, the percentage of the amount that shall be required to be repaid shall be reduced by 10 percentage points for each year in excess of 10 that the property is so used.
 
 #### (D) Prevention of undue benefits
 
@@ -102,7 +102,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;(i) Applications for assistance under this subsection shall be submitted by an applicant in such form and in accordance with such procedures as the Secretary shall establish.
 
-&emsp;&emsp;(ii) The Secretary shall require that applications contain at a minimum (I) a description of the proposed housing, (II) a description of the size and characteristics of the population that would occupy the housing, (III) a description of any public and private resources that are expected to be made available in connection with the housing, (IV) a description of the housing needs for migrant farmworkers and homeless individuals (and the families of such individuals) in the area to be served by the housing, and (V) assurances satisfactory to the Secretary that the housing assisted will be operated for not less than 10 years for the purpose specified in the application.
+&emsp;&emsp;(ii) The Secretary shall require that applications contain at a minimum (I) a description of the proposed housing, (II) a description of the size and characteristics of the population that would occupy the housing, (III) a description of any public and private resources that are expected to be made available in connection with the housing, (IV) a description of the housing needs formigrant farmworkers and homeless individuals (and the families of such individuals) in the area to be served by the housing, and (V) assurances satisfactory to the Secretary that the housing assisted will be operated for not less than 10 years for the purpose specified in the application.
 
 &emsp;&emsp;(iii) The Secretary shall require that an application furnish reasonable assurances that the housing will be available for occupancy by homeless individuals (and the families of such individuals) only on an emergency and temporary basis during the offseason and shall be otherwise available for occupancy by migrant farmworkers (and their families).
 
@@ -172,7 +172,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;(D) The term “operating costs” means expenses incurred by a recipient providing housing under this subsection with respect to the administration, maintenance, repair, and security of such housing and utilities, fuel, furnishings, and equipment for such housing.
 
-(July 15, 1949, ch. 338, title V, §516, as added Pub. L. 88–560, title V, §503(a), Sept. 2, 1964, 78 Stat. 796; amended Pub. L. 91–609, title VIII, §801(c), (d), Dec. 31, 1970, 84 Stat. 1806; Pub. L. 95–557, title V, §505, Oct. 31, 1978, 92 Stat. 2112; Pub. L. 96–153, title V, §509, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 96–399, title V, §507(d), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title V, §513, Nov. 30, 1983, 97 Stat. 1247; Pub. L. 100–242, title III, §305(b), Feb. 5, 1988, 101 Stat. 1895; Pub. L. 100–628, title X, §1043(b), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–625, title VII, §714(a), Nov. 28, 1990, 104 Stat. 4292; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+(July 15, 1949, ch. 338, title V, §516, as added Pub. L. 88–560, title V, §503(a), Sept. 2, 1964, 78 Stat. 796; amended Pub. L. 91–609, title VIII, §801(c), (d), Dec. 31, 1970, 84 Stat. 1806; Pub. L. 95–557, title V, §505, Oct. 31, 1978, 92 Stat. 2112; Pub. L. 96–153, title V, §509, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 96–399, title V, §507(d), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title V, §513, Nov. 30, 1983, 97 Stat. 1247; Pub. L. 100–242, title III,§305(b), Feb. 5, 1988, 101 Stat. 1895; Pub. L. 100–628, title X, §1043(b), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–625, title VII, §714(a), Nov. 28, 1990, 104 Stat. 4292; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 
@@ -213,10 +213,6 @@ Subsec. (a)(3). Pub. L. 91–609, §801(d)(3), inserted “, and such housing a
 Subsec. (b). Pub. L. 91–609, §801(d)(4), substituted “90 per centum” for “two-thirds”.
 
 Subsec. (g)(1). Pub. L. 91–609, §801(c), substituted “structures (including household furnishings)” for “structures” in cls. (A) and (B).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1483, 1484, 1490a, 4851b, 8011 of this title; title 20 section 244.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

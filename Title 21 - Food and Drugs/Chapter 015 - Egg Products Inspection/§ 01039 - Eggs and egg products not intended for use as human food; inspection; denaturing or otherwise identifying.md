@@ -4,7 +4,3 @@ Inspection shall not be provided under this chapter at any plant for the process
 
 (Pub. L. 91–597, §10, Dec. 29, 1970, 84 Stat. 1627.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1037 of this title.
-

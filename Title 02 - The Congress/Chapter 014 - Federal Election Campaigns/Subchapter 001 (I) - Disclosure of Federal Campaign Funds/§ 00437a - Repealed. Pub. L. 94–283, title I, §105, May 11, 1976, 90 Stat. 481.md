@@ -4,5 +4,5 @@ Section, Pub. L. 92–225, title III, §308, as added Pub. L. 93–443, title II
 
 #### Savings Provision
 
-Repeal by Pub. L. 94–283 not to release or extinguish any penalty, forfeiture, or liability incurred under thissection, with this section or penalty to be treated as remaining in force for the purpose of sustaining any proper action or prosecution for the enforcement of any penalty, forfeiture, or liability, see section 114 of Pub. L. 94–283, set out as a note under section 441 of this title.
+Repeal by Pub. L. 94–283 not to release or extinguish any penalty, forfeiture, or liability incurred under this section, with this section or penalty to be treated as remaining in force for the purpose of sustaining any proper action or prosecution for the enforcement of any penalty, forfeiture, or liability, see section 114 of Pub. L. 94–283, set out as a note under section 441 of this title.
 

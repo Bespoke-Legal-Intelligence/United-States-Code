@@ -20,7 +20,3 @@ In cooperation with the appropriate Regional Fishery Management Councils, States
 
 (Pub. L. 99–5, §4, Mar. 15, 1985, 99 Stat. 10.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3638 of this title.
-

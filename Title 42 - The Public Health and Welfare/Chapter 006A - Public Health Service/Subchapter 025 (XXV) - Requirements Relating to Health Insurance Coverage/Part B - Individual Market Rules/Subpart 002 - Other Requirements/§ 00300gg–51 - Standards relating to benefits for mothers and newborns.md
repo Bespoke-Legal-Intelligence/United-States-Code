@@ -30,7 +30,3 @@ A health insurance issuer under this part shall comply with the notice requireme
 
 Section applicable to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market on or after Jan. 1, 1998, see section 605(c) of Pub. L. 104–204, set out as an Effective Date of 1996 Amendment note under section 300gg–44 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300gg–62 of this title.
-

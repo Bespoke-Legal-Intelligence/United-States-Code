@@ -64,7 +64,3 @@ Requests.—Liquidation or reliquidation may be made under subsection (b) with r
 
 &emsp;“(2) to reconstruct the entry if it cannot be located.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2462, 2463 of this title.
-

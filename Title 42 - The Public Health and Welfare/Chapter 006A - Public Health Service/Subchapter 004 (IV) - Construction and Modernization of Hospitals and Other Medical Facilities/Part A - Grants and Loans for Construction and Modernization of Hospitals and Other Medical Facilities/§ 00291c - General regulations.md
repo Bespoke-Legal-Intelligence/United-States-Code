@@ -26,7 +26,7 @@ The Surgeon General, with the approval of the Federal Hospital Council and the S
 
 #### (c) Criteria for determining needs for beds, hospitals and other facilities; plans for distribution of beds and facilities
 
-&emsp;criteria for determining needs for general hospital and long-term care beds, and needs for hospitals and other facilities for which aidunder this part is available, and for developing plans for the distribution of such beds and facilities;
+&emsp;criteria for determining needs for general hospital and long-term care beds, and needs for hospitals and other facilities for which aid under this part is available, and for developing plans for the distribution of such beds and facilities;
 
 #### (d) Criteria for determining need for modernization
 
@@ -40,7 +40,7 @@ The Surgeon General, with the approval of the Federal Hospital Council and the S
 
 #### Prior Provisions
 
-A prior section 291c, act July 1, 1944, ch. 373, title VI, §613, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, related to allotments to States, the determination of their amount, and the disposition of unexpended funds, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291(a), (b) and (d) of this title.
+A prior section 291c, act July 1, 1944, ch. 373, title VI, §613, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, related to allotments to States, the determination of their amount, and the disposition of unexpended funds, prior to the general amendment of this subchapter byPub. L. 88–443. See section 291(a), (b) and (d) of this title.
 
 Provisions similar to those comprising this section were contained in a prior section 291e, act July 1, 1944, ch. 373, title VI, §622, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
@@ -63,8 +63,4 @@ Section 3(b) of Pub. L. 88–581 provided that the amendments made by such secti
 “Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 291d, 291e, 291i, 291j–3 of this title.
 

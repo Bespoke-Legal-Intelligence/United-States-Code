@@ -12,7 +12,3 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 
 For assignment of functions of President under this section, see section 3 of Ex. Ord. No. 13295, Apr. 4, 2003, 68 F.R. 17255, set out as a note under section 264 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 271 of this title.
-

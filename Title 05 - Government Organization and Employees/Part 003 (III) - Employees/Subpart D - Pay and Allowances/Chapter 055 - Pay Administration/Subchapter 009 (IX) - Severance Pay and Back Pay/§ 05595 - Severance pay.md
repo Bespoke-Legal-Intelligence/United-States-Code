@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(iii) an alien employee who occupies a position outside the several States, the District of Columbia, and the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979);
 
-&emsp;&emsp;(iv) an employee who is subject to subchapter III of chapter 83 of this title or anyother retirement statute or retirement system applicable to an employee as defined by section 2105 of this title or a member of a uniformed service and, who, at the time of separation from the service, has fulfilled the requirements for immediate annuity under such a statute or system;
+&emsp;&emsp;(iv) an employee who is subject to subchapter III of chapter 83 of this title or any other retirement statute or retirement system applicable to an employee as defined by section 2105 of this title or a member of a uniformed service and, who, at the time ofseparation from the service, has fulfilled the requirements for immediate annuity under such a statute or system;
 
 &emsp;&emsp;(v) an employee who, at the time of separation from the service, is receiving compensation under subchapter I of chapter 81 of this title, other than one receiving this compensation concurrently with pay or on account of the death of another individual;
 
@@ -86,7 +86,7 @@
 
 &emsp;(iv) any other retirement system of the Federal Government for persons retiring from employment with the Federal Government.
 
-(3) Upon resumption of payment of severance pay under paragraph (2)(A) in the case of a person separated as described in such paragraph, the amount of the severance pay so payable for a period shall be reduced (but not below zero) by the portion (if any) of the amount of any severance pay payable for such period to the person by the nonappropriated fund instrumentality that is attributable to credit for service taken into account under subsection (c) in the computation of the amount of the severance pay so resumed.
+(3) Upon resumption of payment of severance pay under paragraph (2)(A) in the case of a person separated as described in such paragraph, the amount of the severance pay so payable for a period shall be reduced (but not below zero) by the portion (if any) of the amount of any severance pay payable for such period to the personby the nonappropriated fund instrumentality that is attributable to credit for service taken into account under subsection (c) in the computation of the amount of the severance pay so resumed.
 
 (4) Paragraph (1) applies to a person who, on or after January 1, 1987, moves without a break in service—
 
@@ -242,9 +242,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Report
 
-Pub. L. 107–314, div. A, title XI, §1102(b), Dec. 2, 2002, 116 Stat. 2660, provided that: “Not later than one year after the date of the enactment of this Act \[Dec. 2, 2002\], the President shall submit to the Committees on Armed Services and on Governmental Affairs of the Senate and the Committees on Armed Services and on Government Reform of the House of Representatives a report, including recommendations, on whether the authority under section 5595(i) of title 5, United States Code, should be made permanent or expanded to be made Governmentwide.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3381, 3523, 5545a, 5545b, 5597, 5948, 9902 of this title; title 6 section 292; title 15 section 2081; title 22 section 3691; title 38 sections 7453, 7458; title 50 section 409a.
+Pub. L. 107–314, div. A, title XI, §1102(b), Dec. 2, 2002, 116 Stat. 2660, required the President, not later than one year after Dec. 2, 2002, to submit to Committees of Congress a report on whether the authority under section 5595(i) of this title should be made permanent or expanded to be made Governmentwide.
 

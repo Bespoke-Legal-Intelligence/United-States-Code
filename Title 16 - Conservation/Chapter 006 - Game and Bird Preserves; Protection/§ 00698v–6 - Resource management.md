@@ -10,7 +10,7 @@ The Trust shall assume all authority provided by sections 698v to 698v–10 of t
 
 #### (b) Management responsibilities
 
-Upon assumption of management of the Preserve under subsection (a) of this section, the Trust shall manage the land and resources of thePreserve and the use thereof including, but not limited to such activities as—
+Upon assumption of management of the Preserve under subsection (a) of this section, the Trust shall manage the land and resources of the Preserve and the use thereof including, but not limited to such activities as—
 
 &emsp;(1) administration of the operations of the Preserve;
 
@@ -80,7 +80,7 @@ Within two years after assumption of management responsibilities for the Preserv
 
 #### (3) Public access
 
-&emsp;Upon the acquisition of the Baca ranch under section 698v–2(a) of this title, and afteran interim planning period of no more than two years, the public shall have reasonable access to the Preserve for recreation purposes. The Secretary, prior to assumption of management of the Preserve by the Trust, and the Trust thereafter, may reasonably limit the number and types of recreational admissions to the Preserve, or any part thereof, based on the capability of the land, resources, and facilities. The use of reservation or lottery systems is expressly authorized to implement this paragraph.
+&emsp;Upon the acquisition of the Baca ranch under section 698v–2(a) of this title, and after an interim planning period of no more than two years, the public shall have reasonable access to the Preserve for recreation purposes. The Secretary, prior to assumption of management of the Preserve by the Trust, and the Trust thereafter, may reasonably limit the number and types of recreational admissions to the Preserve, or any part thereof, based on the capability of the land, resources, and facilities. The use of reservation or lottery systems is expressly authorized to implement this paragraph.
 
 #### (f) Applicable laws
 
@@ -123,8 +123,4 @@ The American Indian Religious Freedom Act, referred to in subsec. (f)(5), is Pub
 #### Codification
 
 “Section 1302 of title 40” substituted in subsec. (c)(1) for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698v, 698v–1, 698v–3, 698v–4, 698v–5, 698v–7, 698v–8, 698v–9, 698v–10 of this title.
 

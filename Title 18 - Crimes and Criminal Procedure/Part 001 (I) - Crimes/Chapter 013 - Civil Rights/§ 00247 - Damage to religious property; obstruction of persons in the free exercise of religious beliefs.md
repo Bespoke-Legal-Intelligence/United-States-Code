@@ -26,7 +26,7 @@
 
 (f) As used in this section, the term “religious real property” means any church, synagogue, mosque, religious cemetery, or other religious real property, including fixtures or religious objects contained within a place of religious worship.
 
-(g) No person shall be prosecuted, tried, or punished for any noncapital offense under this section unless the indictment is found or the information is instituted not later than 7 yearsafter the date on which the offense was committed.
+(g) No person shall be prosecuted, tried, or punished for any noncapital offense under this section unless the indictment is found or the information is instituted not later than 7 years after the date on which the offense was committed.
 
 (Added Pub. L. 100–346, §1, June 24, 1988, 102 Stat. 644; amended Pub. L. 103–322, title VI, §60006(d), title XXXII, §320103(d), Sept. 13, 1994, 108 Stat. 1971, 2110; Pub. L. 104–155, §3, July 3, 1996, 110 Stat. 1392; Pub. L. 104–294, title VI, §§601(c)(3), 605(r), Oct. 11, 1996, 110 Stat. 3499, 3511; Pub. L. 107–273, div. B, title IV, §4002(c)(1), (e)(4), Nov. 2, 2002, 116 Stat. 1808, 1810.)
 
@@ -97,8 +97,4 @@ Section 2 of Pub. L. 104–155 provided that: “The Congress finds the followin
 &emsp;“(5) Congress has authority, pursuant to the Commerce Clause of the Constitution, to make acts of destruction or damage to religious property a violation of Federal law.
 
 &emsp;“(6) Congress has authority, pursuant to section 2 of the 13th amendment to the Constitution, to make actions of private citizens motivated by race, color, or ethnicity that interfere with the ability of citizens to hold or use religious property without fear of attack, violations of Federal criminal law.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 10602.
 

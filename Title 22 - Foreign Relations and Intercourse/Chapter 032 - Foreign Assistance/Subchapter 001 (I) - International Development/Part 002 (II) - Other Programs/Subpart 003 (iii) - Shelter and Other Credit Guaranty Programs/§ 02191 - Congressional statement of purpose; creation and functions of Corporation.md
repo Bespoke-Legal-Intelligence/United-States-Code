@@ -38,7 +38,7 @@ In carrying out its purpose, the Corporation, utilizing broad criteria, shall un
 
 &emsp;(k)(1) to decline to issue any contract of insurance or reinsurance, or any guaranty, or to enter into any agreement to provide financing for an eligible investor's proposed investment if the Corporation determines that such investment is likely to cause such investor (or the sponsor of an investment project in which such investor is involved) significantly to reduce the number of his employees in the United States production he is replacing his United States production with production from such investment which involves substantially the same product for substantially the same market as his United States production; and (2) to monitor conformance with the representations of the investor on which the Corporation relied in making the determination required by clause (1);
 
-&emsp;(<i>l</i>) to decline to issue any contract of insurance or reinsurance, or any guaranty, or to enter into any agreement to provide financingfor an eligible investor's proposed investment if the Corporation determines that such investment is likely to cause a significant reduction in the number of employees in the United States;
+&emsp;(<i>l</i>) to decline to issue any contract of insurance or reinsurance, or any guaranty, or to enter into any agreement to provide financing for an eligible investor's proposed investment if the Corporation determines that such investment is likely to cause a significant reduction in the number of employees in the United States;
 
 &emsp;(m) to refuse to insure, reinsure, or finance any investment subject to performance requirements which would reduce substantially the positive trade benefits likely to accrue to the United States from the investment; and
 
@@ -103,8 +103,4 @@ Sec. 4. <i>General provisions</i>. (a) As used in this order, the words “funct
 (d) Executive Order No. 10973 of November 3, 1961, as amended \[set out as a note under this section\], is hereby superseded insofar as any provision therein is in conflict with any provision herein.
 
 (e) The provisions of this order shall become effective upon adoption by the Board of Directors of bylaws for the Corporation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2191a, 2194, 2200, 3304 of this title.
 

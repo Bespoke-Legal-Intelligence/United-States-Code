@@ -6,5 +6,5 @@ Each State may establish minimum requirements for training of maintenance applic
 
 #### Prior Provisions
 
-A prior section 30 of act June 25, 1947, ch. 125, was renumbered section 33 and is classified to section 136x of this title.
+A prior section 30 of act June 25, 1947, ch. 125, was renumbered section 34 and is classified to section 136x of this title.
 

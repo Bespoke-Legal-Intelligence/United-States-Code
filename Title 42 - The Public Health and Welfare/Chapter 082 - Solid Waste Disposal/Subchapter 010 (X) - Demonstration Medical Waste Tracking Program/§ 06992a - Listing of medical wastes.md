@@ -32,9 +32,5 @@ The Administrator may exclude from the list under this section any categories or
 
 (Pub. L. 89–272, title II, §11002, as added Pub. L. 100–582, §2(a), Nov. 1, 1988, 102 Stat. 2951.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6992b, 6992i of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “exudates”.</i>
 

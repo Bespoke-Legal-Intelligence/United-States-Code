@@ -28,7 +28,3 @@
 
 Amendment by Pub. L. 101–553 effective with respect to violations that occur on or after Nov. 15, 1990, see section 3 of Pub. L. 101–553, set out as a note under section 501 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 913 of this title.
-

@@ -48,9 +48,5 @@ Amounts provided under this section to a community development corporation shall
 
 Subpart 1, referred to in subsec. (c)(2)(A), was in the original “subtitle A”, and was translated as reading “chapter 1”, meaning chapter 1 of subtitle K of title III of Pub. L. 103–322, to reflect the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

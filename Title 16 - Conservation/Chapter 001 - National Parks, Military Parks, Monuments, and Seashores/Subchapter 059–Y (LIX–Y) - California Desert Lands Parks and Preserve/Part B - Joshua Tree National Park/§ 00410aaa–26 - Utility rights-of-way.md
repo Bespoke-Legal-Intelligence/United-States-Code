@@ -12,7 +12,3 @@ Section 601(a)(2), referred to in text, is section 601(a)(2) of Pub. L. 103–43
 
 Act of June 18, 1932 (47 Stat. 324), referred to in text, is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410aaa–73 of this title.
-

@@ -10,7 +10,3 @@ The Secretary of the Interior (hereinafter referred to as the “Secretary”) s
 
 (Pub. L. 100–696, title VII, §702, Nov. 18, 1988, 102 Stat. 4600.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460zz–2, 460zz–3 of this title.
-

@@ -10,7 +10,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(A) the program under part A of the Energy Conservation and Existing Buildings Act of 1976 (42 U.S.C. 6861 and following);
 
-&emsp;&emsp;(B) the programs under part D of title III of the Energy Policy and Conservation Act (relating to primary and supplemental State energy conservation programs; 42 U.S.C. 6321 and following);
+&emsp;&emsp;(B) the programs under part D of title III of the Energy Policy and Conservation Act (relating to primary and supplemental Stateenergy conservation programs; 42 U.S.C. 6321 and following);
 
 &emsp;&emsp;(C) the program under part G of title III of the Energy Policy and Conservation Act (relating to energy conservation for schools and hospitals; 42 U.S.C. 6371 and following); and
 

@@ -42,7 +42,35 @@ Records and Indexes.—The Administrator shall—
 
 &emsp;&emsp;(B) the names of the parties to each conveyance, lease, and instrument.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1164.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1164; Pub. L. 108–297, §3, Aug. 9, 2004, 118 Stat. 1096.)
+
+#### Amendment of Section
+
+<i>Pub. L. 108–297, §§3, 7, Aug. 9, 2004, 118 Stat. 1096, 1097, provided that, effective Mar. 1, 2006, this section is amended—</i>
+
+<i>(1) in subsection (a)(2)(A), by striking “750” and inserting “550”;</i>
+
+<i>(2) in subsection (a)(3), by striking “clause (1) or (2) of this subsection” and inserting “paragraph (1) or (2)”; and</i>
+
+<i>(3) by adding at the end the following new subsection:</i>
+
+<i>(e) INTERNATIONAL REGISTRY.—</i>
+
+&emsp;<i>(1) DESIGNATION OF UNITED STATES ENTRY POINT.—As permitted under the Cape Town Treaty, the Federal Aviation Administration Civil Aviation Registry is designated as the United States Entry Point to the International Registry relating to—</i>
+
+&emsp;&emsp;<i>(A) civil aircraft of the United States;</i>
+
+&emsp;&emsp;<i>(B) an aircraft for which a United States identification number has been assigned but only with regard to a notice filed under paragraph (2); and</i>
+
+&emsp;&emsp;<i>(C) aircraft engines.</i>
+
+&emsp;<i>(2) SYSTEM FOR FILING NOTICE OF PROSPECTIVE INTERESTS.—</i>
+
+&emsp;&emsp;<i>(A) ESTABLISHMENT.—The Administrator shall establish a system for filing notices of prospective assignments and prospective international interests in, and prospective sales of, aircraft or aircraft engines described in paragraph (1) under the Cape Town Treaty.</i>
+
+&emsp;&emsp;<i>(B) MAINTENANCE OF VALIDITY.—A filing of a notice of prospective assignment, interest, or sale under this paragraph and the registration with the International Registry relating to such assignment, interest, or sale shall not be valid after the 60th day following the date of the filing unless documents eligible for recording under subsection (a) relating to such notice are filed for recordation on or before such 60th day.</i>
+
+&emsp;<i>(3) AUTHORIZATION FOR REGISTRATION OF AIRCRAFT.—A registration with the International Registry relating to an aircraft described in paragraph (1) (other than subparagraph (C)) is valid only if (A) the person seeking the registration first files documents eligible for recording under subsection (a) and relating to the registration with the United States Entry Point, and (B) the United States Entry Point authorizes the registration.</i>
 
 Historical and Revision Notes
 
@@ -132,7 +160,7 @@ In subsection (c), before clause (1), the words “by regulation” are omitted 
 
 In subsection (d), the words “lease, and instrument” are substituted for “other instruments” for clarity and consistency in this subchapter. In clause (1), the words “of the time and date of” before “recordation” are omitted as unnecessary because of the restatement. In clause (2), before subclause (A), the words “in files to be kept for that purpose” are omitted as unnecessary. In subclause (A), the words “location specified in a lease or instrument recorded under subsection (a)(2)(C) or (D) of this section” are substituted for “in the case of an instrument referred to in subsection (a)(3) of this section, the location or locations specified therein” for clarity and consistency in this subchapter.
 
-#### Section Referred to in Other Sections
+#### Effective Date of 2004 Amendment
 
-This section is referred to in sections 44108, 44704 of this title.
+Amendment by Pub. L. 108–297 effective Mar. 1, 2006, and not applicable to any registration or recordation that was made before such date under this chapter or any legal rights relating to such registration or recordation, see section 7 of Pub. L. 108–297, set out as a note under section 44101 of this title.
 

@@ -132,7 +132,3 @@ Section 6369b, Pub. L. 89–10, title I, §1211, as added Pub. L. 105–277, div
 
 Section 6370, Pub. L. 89–10, title I, §1212, formerly §1210, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3584; renumbered §1212, Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409, related to construction of provisions. See section 6381k of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6312, 6362, 6371, 6381a of this title.
-

@@ -54,7 +54,3 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 Section effective Oct. 13, 1994, and to be implemented in Federal Acquisition Regulation not later than 60 days after Oct. 13, 1994, see section 4301(c) of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 10a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10a, 428a of this title; title 6 sections 393, 424.
-

@@ -116,13 +116,13 @@ R.S. §291.
 
 In the section, the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
 
-In subsection (a), the text of 31:538 and 541 is omitted as executed and obsolete. The words “either as debtor or creditor” in 31:71(related to accounts) and “and adjusted” are omitted as surplus. The last 17 words are added to restate that part of section 4 of the Act ofJuly 31, 1894 (ch. 174, 28 Stat. 206), that was inadvertently repealed in the codification of title 5.
+In subsection (a), the text of 31:538 and 541 is omitted as executed and obsolete. The words “either as debtor or creditor” in 31:71(related to accounts) and “and adjusted” are omitted as surplus. The last 17 words are added to restate that part of section 4 of the Act of July 31, 1894 (ch. 174, 28 Stat. 206), that was inadvertently repealed in the codification of title 5.
 
 Subsection (b) is substituted for 31:74(last par. words after 4th comma) for clarity and consistency and because of the restatement.
 
 In subsection (c)(1), the words “Effective three years after May 19, 1947” are omitted as executed. The words “monthly or quarterly . . . disbursing . . . or certifying” are omitted as surplus. The word “official” is substituted for “officer” for consistency in the revised title and with other titles of the United States Code. The words “a period of not to exceed”, “in each case”, and “involved” are omitted as surplus.
 
-In subsection (c)(2), the words “final and”, “the expiration of”, and “date of” are omitted as surplus. The words “However, an amount may be charged against the account after the 3-year period when” are substituted for “to the extent that no further charges or debts shall be raised in such account thereafter except as to” for clarity and consistency.
+In subsection (c)(2), the words “final and”, “the expiration of”, and “date of” are omitted as surplus. Thewords “However, an amount may be charged against the account after the 3-year period when” are substituted for “to the extent that no further charges or debts shall be raised in such account thereafter except as to” for clarity and consistency.
 
 Subsection (c)(3) is substituted for 31:82i(last proviso) to eliminate unnecessary words.
 
@@ -133,8 +133,4 @@ In subsection (d), the text of 31:44(last sentence) is omitted as executed. The 
 In subsection (e), before clause (1), the words “is expended” are substituted for “has been or shall be issued, from the Treasury” for clarity. The words “the purposes of” are omitted as surplus. The word “country” is substituted for “nations” for consistency in the revised title and with other titles of the Code. The words “in pursuance of any law” are omitted as surplus. In clause (1), the word “duly” is omitted as surplus. In clause (2), the words “if the President decides the amount is not to be accounted for specifically” are substituted for “as he may think it advisable not to specify” for clarity. The words “to have been expended” are omitted as surplus.
 
 In subsection (f), the word “settled” is substituted for “which have been finally adjusted” for consistency. The words “together with” are omitted as surplus.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 716, 3323 of this title; title 16 section 831h; title 22 section 2671.
 

@@ -58,7 +58,3 @@
 
 For short title of this subchapter as the “Solar Photovoltaic Energy Research, Development, and Demonstration Act of 1978”, see section 1 of Pub. L. 95–590, set out as a note under section 5501 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5583, 5589 of this title.
-

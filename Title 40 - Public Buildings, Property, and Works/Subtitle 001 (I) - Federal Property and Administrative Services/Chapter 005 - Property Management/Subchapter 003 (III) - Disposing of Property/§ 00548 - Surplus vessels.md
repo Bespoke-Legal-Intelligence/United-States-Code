@@ -24,7 +24,3 @@ June 30, 1949, ch. 288, title II, §203(i), 63 Stat. 386; Pub. L. 97–31, §12(
 
 The Merchant Marine Act, 1936, referred to in text, is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended, which is classified principally to chapter 27 (§1101 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1245 of Title 46, Appendix, and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 2577, 2814; title 14 section 641; title 28 section 604; title 38 section 8162; title 42 sections 3796<i>ll</i>–3, 11411.
-

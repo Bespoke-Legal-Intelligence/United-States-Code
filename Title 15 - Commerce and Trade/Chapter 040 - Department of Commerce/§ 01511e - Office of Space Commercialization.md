@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Technology Administration of the Department of Commerce an Office of Space Commercialization (referred to in this section as the “Office”).
+There is established within the the <sup>1</sup> Department of Commerce an Office of Space Commercialization (referred to in this section as the “Office”).
 
 #### (b) Director
 
@@ -26,9 +26,13 @@ The Office shall be the principal unit for the coordination of space-related iss
 
 &emsp;(7) seeking the removal of legal, policy, and institutional impediments to space commerce.
 
-(Pub. L. 105–309, §8, Oct. 30, 1998, 112 Stat. 2937; Pub. L. 107–305, §14, Nov. 27, 2002, 116 Stat. 2380.)
+(Pub. L. 105–309, §8, Oct. 30, 1998, 112 Stat. 2937; Pub. L. 107–305, §14, Nov. 27, 2002, 116 Stat. 2380; Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2878.)
 
 #### Amendments
 
+2004—Subsec. (a). Pub. L. 108–447 struck out “Technology Administration of” after “within the”.
+
 2002—Subsec. (a). Pub. L. 107–305 inserted “the Technology Administration of” after “within”.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Allotments for States
 
-For the purpose described in subsection (b) of this section, the Secretary shall for each of the fiscal years 1989 through 1991 make an allotment for each State in an amount determined in accordance with section 300ee–17 of this title. The Secretary shall make payments each such fiscal year to each State from the allotment for the State if the Secretary approves for the fiscal year involved an application submitted by the State pursuant to section 300ee–13 of this title.
+For the purpose described in subsection (b) of this section, the Secretary shall for each of thefiscal years 1989 through 1991 make an allotment for each State in an amount determined in accordance with section 300ee–17 of this title. The Secretary shall make payments each such fiscal year to each State from the allotment for the State if the Secretary approves for the fiscal year involved an application submitted by the State pursuant to section 300ee–13 of this title.
 
 #### (b) Purpose of grants
 
@@ -13,8 +13,4 @@ The Secretary may not make payments under subsection (a) of this section for a f
 #### Prior Provisions
 
 A prior section 2501 of act July 1, 1944, was successively renumbered by subsequent acts, see section 238 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ee–12, 300ee–13, 300ee–14, 300ee–15, 300ee–16, 300ee–17, 300ee–18, 300ee–19, 300ee–20, 300ee–24 of this title.
 

@@ -12,7 +12,3 @@ R.S. §2352 derived from act Mar. 3, 1873, ch. 279, §6, 17 Stat. 608.
 
 See note set out under section 71 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 47, 102 of this title.
-

@@ -12,7 +12,3 @@ The persons described in section 611 of this title, referred to in text, was in 
 
 Section is comprised of a part of section 25A, formerly section 25(a), which was added to act Dec. 23, 1913, ch. 6, by act Dec. 24, 1919.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 613, 615 of this title.
-

@@ -28,7 +28,3 @@ The conservation plan for any State must—
 
 (Pub. L. 96–366, §4, Sept. 29, 1980, 94 Stat. 1323.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2902, 2904, 2905 of this title.
-

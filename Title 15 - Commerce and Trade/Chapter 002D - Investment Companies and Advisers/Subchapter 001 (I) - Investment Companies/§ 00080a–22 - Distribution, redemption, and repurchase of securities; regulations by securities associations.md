@@ -28,7 +28,7 @@ No registered investment company shall sell any redeemable security issued by it
 
 #### (e) Suspension of right of redemption or postponement of date of payment
 
-No registered investment company shall suspend the right of redemption, or postpone the date of payment or satisfaction upon redemption of any redeemable security in accordance with its terms for more than seven days after the tender of such security to the company or its agent designated for that purpose for redemption, except—
+No registered investment company shall suspend the right of redemption, or postpone thedate of payment or satisfaction upon redemption of any redeemable security in accordance with its terms for more than seven days after the tender of such security to the company or its agent designated for that purpose for redemption, except—
 
 &emsp;(1) for any period (A) during which the New York Stock Exchange is closed other than customary week-end and holiday closings or (B) during which trading on the New York Stock Exchange is restricted;
 
@@ -56,7 +56,7 @@ Pub. L. 100–181, §616(2), (3), redesignated par. (3) as (2) and substituted �
 
 Subsec. (e). Pub. L. 100–181, §616(4), (5), in introductory provisions, substituted “redemption, or postpone” for “redemption or postpone” and “redemption, except” for “redemption except”, and, in closing provisions, struck out “Any company which, as of March 15, 1940, was required by provision of its charter, certificate of incorporation, articles of association, or trust indenture, or of a bylaw or regulation duly adopted thereunder, to postpone the date of payment or satisfaction upon redemption of redeemable securities issued by it, shall be exempt from the requirements of this subsection; but such exemption shall terminate upon the expiration of one year from the effective date of this subchapter, or upon the repeal or amendment of such provision, or upon the sale by such company after March 15, 1940, of any security (other than short-term paper) of which it is the issuer, whichever first occurs.”
 
-1970—Subsec. (b). Pub. L. 91–547, §12(a), designated existing provisions as par. (1), inserted “notwithstanding the provisions of subsection (b)(8) thereof but”, and “other” in phrase “all other provisions”, substituted exclusion of “excessive sales load” for “unconscionableor grossly excessive sales load”, provided for allowance for reasonable compensation for sales personnel, broker-dealers, and underwriters, and for reasonable sales loads to investors, and for grant by Commission of appropriate qualified exemptions from provisions of this section where on application or otherwise it appears that smaller companies are subject to relatively higher operating costs, and added pars. (2) to (4).
+1970—Subsec. (b). Pub. L. 91–547, §12(a), designated existing provisions as par. (1), inserted “notwithstanding the provisions of subsection (b)(8) thereof but”, and “other” in phrase “all other provisions”, substituted exclusion of “excessive sales load” for “unconscionable or grossly excessive sales load”, provided for allowance for reasonable compensation for sales personnel, broker-dealers, and underwriters, and for reasonable sales loads to investors, and for grant by Commission of appropriate qualified exemptions from provisions of this section where on application or otherwise it appears that smaller companies are subject to relatively higher operating costs, and added pars. (2) to (4).
 
 Subsec. (c). Pub. L. 91–547, §12(b), provided for application of rules and regulations to registered investment companies, struck out introductory phrase “After one year from the effective date of this chapter”, “registered” before “securities association” where first appearing, and substituted “prescribed in subsection (a) of this section” for “prescribed in subsections (a) and (b) of this section” and “. Any rules and regulations” for “; and any rules and regulations”.
 
@@ -69,8 +69,4 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–2, 80a–6, 80a–12 of this title.
 

@@ -70,7 +70,3 @@ Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action 
 
 Section 110 of Pub. L. 94–553 provided that: “The demand and penalty provisions of section 14 of title 17 as it existed on December 31, 1977, apply to any work in which copyright has been secured by publication with notice of copyright on or before that date, but any deposit and registration made after that date in response to a demand under that section shall be made in accordance with the provisions of title 17 as amended by the first section of this Act.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 408, 704, 708 of this title; title 2 section 170.
-

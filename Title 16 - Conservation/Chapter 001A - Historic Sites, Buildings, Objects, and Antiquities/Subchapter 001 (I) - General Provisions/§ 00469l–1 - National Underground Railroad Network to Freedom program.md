@@ -34,7 +34,3 @@ There are authorized to be appropriated to carry out sections 469<i>l</i> to 469
 
 (Pub. L. 105–203, §3, July 21, 1998, 112 Stat. 679.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 469<i>l</i>, 469<i>l</i>–2 of this title.
-

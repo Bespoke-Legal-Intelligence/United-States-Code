@@ -4,21 +4,55 @@ For the purpose of this chapter—
 
 &emsp;(1) “Indian tribe” or “tribe” means any Indian tribe, band, group, pueblo, or community for which, or for the members of which, the United States holds lands in trust;
 
-&emsp;(2) “Indian” means any person who is a member of any Indian tribe or is eligible to become a member of any Indian tribe, or any person who has been found to meet the definition of “Indian” under a provision of Federal law if the Secretary determines that using such law's definition of Indian is consistent with the purposes of this chapter;
+&emsp;(2) “Indian” means—
+
+&emsp;&emsp;(A) any person who is a member of any Indian tribe, is eligible to become a member of any Indian tribe, or is an owner (as of October 27, 2004) of a trust or restricted interest in land;
+
+&emsp;&emsp;(B) any person meeting the definition of Indian under the Indian Reorganization Act (25 U.S.C. 479) and the regulations promulgated thereunder; and
+
+&emsp;&emsp;(C) with respect to the inheritance and ownership of trust or restricted land in the State of California pursuant to section 2206 of this title, any person described in subparagraph (A) or (B) or any person who owns a trust or restricted interest in a parcel of such land in that State.<sup>1</sup>
 
 &emsp;(3) “Secretary” means the Secretary of the Interior;
 
-&emsp;(4) “trust or restricted lands” means lands, title to which is held by the United States in trust for an Indian or an Indian tribe or lands title to which is held by Indians or an Indian tribe subject to a restriction by the United States against alienation; and
+&emsp;(4) “trust or restricted lands” means lands, title to which is held by the United States in trust for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation; and “trust or restricted interest in land” or “trust or restricted interest in a parcel of land” means an interest in land, title to which is held in trust by the United States for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation.<sup>1</sup>
 
-&emsp;(5) “heirs of the first or second degree” means parents, children, grandchildren, grandparents, brothers and sisters of a decedent.
+&emsp;(5) “heirs of the first or second degree” means parents, children, grandchildren, grandparents, brothers and sisters of a decedent.<sup>1</sup>
 
-(Pub. L. 97–459, title II, §202, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 106–462, title I, §103(1), Nov. 7, 2000, 114 Stat. 1992.)
+&emsp;(6) “parcel of highly fractionated Indian land” means a parcel of land that the Secretary, pursuant to authority under a provision of this chapter, determines to have, as evidenced by the Secretary's records at the time of the determination—
+
+&emsp;&emsp;(A) 50 or more but less than 100 co-owners of undivided trust or restricted interests, and no 1 of such co-owners holds a total undivided trust or restricted interest in the parcel that is greater than 10 percent of the entire undivided ownership of the parcel; or
+
+&emsp;&emsp;(B) 100 or more co-owners of undivided trust or restricted interests;
+
+&emsp;(7) “land” means any real property, and includes within its meaning for purposes of this chapter improvements permanently affixed to real property;
+
+&emsp;(8) “person” or “individual” means a natural person;
+
+&emsp;(9) “eligible heirs” means, for purposes of section 2206 of this title, any of a decedent's children, grandchildren, great grandchildren, full siblings, half siblings by blood, and parents who are—
+
+&emsp;&emsp;(A) Indian; or
+
+&emsp;&emsp;(B) lineal descendents within 2 degrees of consanguinity of an Indian; or
+
+&emsp;&emsp;(C) owners of a trust or restricted interest in a parcel of land for purposes of inheriting by descent, renunciation, or consolidation agreement under section 2206 of this title, another trust or restricted interest in such parcel from the decedent; and
+
+&emsp;(10) “without regard to waste” means, with respect to a life estate interest in land, that the holder of such estate is entitled to the receipt of all income, including bonuses and royalties, from such land to the exclusion of the remaindermen.
+
+(Pub. L. 97–459, title II, §202, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 106–462, title I, §103(1), Nov. 7, 2000, 114 Stat. 1992; Pub. L. 108–374, §6(b), Oct. 27, 2004, 118 Stat. 1804.)
 
 #### References in Text
 
-This chapter, referred to in par. (2), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
+The Indian Reorganization Act, referred to in par. (2)(B), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, which is classified generally to subchapter V (§461 et seq.) of chapter 14 of this title. The term “Indian” is defined for purposes of this Act in section 479 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+
+This chapter, referred to in pars. (6) and (7), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2004—Par. (2). Pub. L. 108–374, §6(b)(1), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian’ means any person who is a member of any Indian tribe or is eligible to become a member of any Indian tribe, or any person who has been found to meet the definition of ‘Indian’ under a provision of Federal law if the Secretary determines that using such law's definition of Indian is consistent with the purposes of this chapter;”.
+
+Par. (4). Pub. L. 108–374, §6(b)(2), added par. (4) and struck out former par. (4) which read as follows: “ ‘trust or restricted lands’ means lands, title to which is held by the United States in trust for an Indian or an Indian tribe or lands title to which is held by Indians or an Indian tribe subject to a restriction by the United States against alienation; and”.
+
+Pars. (6) to (10). Pub. L. 108–374, §6(b)(3), added pars. (6) to (10).
 
 2000—Par. (1). Pub. L. 106–462, §103(1)(A), substituted “(1)‘Indian tribe’ or ‘tribe’ ” for “(1) ‘tribe’ ”.
 
@@ -26,19 +60,115 @@ Par. (2). Pub. L. 106–462, §103(1)(B), added par. (2) and struck out former p
 
 Par. (5). Pub. L. 106–462, §103(1)(C)–(E), added par. (5).
 
+#### Notice; Effective Date of 2004 Amendment
+
+Pub. L. 108–374, §8, Oct. 27, 2004, 118 Stat. 1809, provided that:
+
+“(a)
+
+Notice.—
+
+&emsp;“(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[Oct. 27, 2004\], the Secretary shall notify Indian tribes and owners of trust or restricted lands of the amendments made by this Act \[see Short Title of 2004 Amendment note below\].
+
+&emsp;“(2)
+
+Specifications.—The notice required under paragraph (1) shall be designed to inform Indian owners of trust or restricted land of—
+
+&emsp;&emsp;“(A) the effect of this Act and the amendments made by this Act, with emphasis on the effect of the provisions of this Act and the amendments made by this Act, on the testate disposition and intestate descent of their interests in trust or restricted land;
+
+&emsp;&emsp;“(B) estate planning options available to the owners, including any opportunities for receiving estate planning assistance or advice;
+
+&emsp;&emsp;“(C) the use of negotiated sales, gift deeds, land exchanges, and other transactions for consolidating the ownership of land; and
+
+&emsp;&emsp;“(D) a toll-free telephone number to be used for obtaining information regarding the provisions of this Act and any trust assets of such owners.
+
+&emsp;“(3)
+
+Requirements.—The Secretary shall provide the notice required under paragraph (1)—
+
+&emsp;&emsp;“(A) by direct mail for those Indians with interests in trust and restricted lands for which the Secretary has an address for the interest holder;
+
+&emsp;&emsp;“(B) through the Federal Register;
+
+&emsp;&emsp;“(C) through local newspapers in areas with significant Indian populations, reservation newspapers, and newspapers that are directed at an Indian audience; and
+
+&emsp;&emsp;“(D) through any other means determined appropriate by the Secretary.
+
+&emsp;“(4)
+
+Certification.—After providing notice under this subsection, the Secretary shall—
+
+&emsp;&emsp;“(A) certify that the requirements of this subsection have been met; and
+
+&emsp;&emsp;“(B) publish notice of that certification in the Federal Register.
+
+“(b)
+
+Effective Date.—Section 207 of the Indian Land Consolidation Act (25 U.S.C. 2206), except subsections (e) and (f) of that section, shall not apply to the estate of an individual who dies before the date that is 1 year after the date on which the Secretary makes the certification required under subsection (a)(4).”
+
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–374, §1, Oct. 27, 2004, 118 Stat. 1773, provided that: “This Act \[enacting sections 2220 and 2221 of this title, amending this section and sections 348, 464, 2204 to 2206, 2212 to 2216, and 2218 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘American Indian Probate Reform Act of 2004’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–462, §1, Nov. 7, 2000, 114 Stat. 1991, provided that: “This Act \[enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and sections 396 and 2206 of this title\] may be cited as the ‘Indian Land Consolidation Act Amendments of 2000’.”
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–238, §1, Dec. 17, 1991, 105 Stat. 1908, provided that: “This Act \[amending sections 2203, 2703, and2718 of this title, enacting provisions set out as a note under section 1437f of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437f of Title 42\] may be cited as the ‘Technical Amendments to Various Indian Laws Act of 1991’.”
+Pub. L. 102–238, §1, Dec. 17, 1991, 105 Stat. 1908, provided that: “This Act \[amending sections 2203, 2703, and 2718 of this title, enacting provisions set out as a note under section 1437f of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437f of Title 42\] may be cited as the ‘Technical Amendments to Various Indian Laws Act of 1991’.”
 
 #### Short Title
 
 Section 201 of title II of Pub. L. 97–459 provided that: “This title \[enacting this chapter\] may be cited as the ‘Indian Land Consolidation Act’.”
 
+#### Regulations
+
+Pub. L. 108–374, §10, Oct. 27, 2004, 118 Stat. 1810, provided that: “The Secretary is authorized to adopt such regulations as may be necessary to implement the provisions of this Act \[see Short Title of 2004 Amendment note above\].”
+
+#### Severability
+
+Pub. L. 108–374, §9, Oct. 27, 2004, 118 Stat. 1810, provided that: “If any provision of this Act \[see Short Title of 2004 Amendment note above\] or of any amendment made by this Act, or the application of any such provision to any person or circumstance, is held to be invalid for any reason, the remainder of this Act and of amendments made by this Act, and the application of the provisions and of the amendments made by this Act to any other person or circumstance shall not be affected by such holding, except that each of subclauses (II), (III), and (IV) of section 205(d)(2)(I)(i) \[25 U.S.C. 2204(d)(2)(I)(i)\] is deemed to be inseverable from the other 2, such that if any 1 of those 3 subclauses is held to be invalid for any reason, neither of the other 2 of such subclauses shall be given effect.”
+
 #### Congressional Findings
+
+Pub. L. 108–374, §2, Oct. 27, 2004, 118 Stat. 1773, provided that: “Congress finds that—
+
+&emsp;“(1) the Act of February 8, 1887 (commonly known as the ‘Indian General Allotment Act’) (25 U.S.C. 331 et seq.), which authorized the allotment of Indian reservations, did not permit Indian allotment owners to provide for the testamentary disposition of the land that was allotted to them;
+
+&emsp;“(2) that Act provided that allotments would descend according to State law of intestate succession based on the location of the allotment;
+
+&emsp;“(3) the reliance of the Federal Government on the State law of intestate succession with respect to the descent of allotments has resulted in numerous problems affecting Indian tribes, members of Indian tribes, and the Federal Government, including—
+
+&emsp;&emsp;“(A) the increasingly fractionated ownership of trust and restricted land as that land is inherited by successive generations of owners as tenants in common;
+
+&emsp;&emsp;“(B) the application of different rules of intestate succession to each interest of a decedent in or to trust or restricted land if that land is located within the boundaries of more than 1 State, which application—
+
+&emsp;&emsp;&emsp;“(i) makes probate planning unnecessarily difficult; and
+
+&emsp;&emsp;&emsp;“(ii) impedes efforts to provide probate planning assistance or advice;
+
+&emsp;&emsp;“(C) the absence of a uniform general probate code for trust and restricted land, which makes it difficult for Indian tribes to work cooperatively to develop tribal probate codes; and
+
+&emsp;&emsp;“(D) the failure of Federal law to address or provide for many of the essential elements of general probate law, either directly or by reference, which—
+
+&emsp;&emsp;&emsp;“(i) is unfair to the owners of trust and restricted land (and heirs and devisees of owners); and
+
+&emsp;&emsp;&emsp;“(ii) makes probate planning more difficult;
+
+&emsp;“(4) a uniform Federal probate code would likely—
+
+&emsp;&emsp;“(A) reduce the number of fractionated interests in trust or restricted land;
+
+&emsp;&emsp;“(B) facilitate efforts to provide probate planning assistance and advice and create incentives for owners of trust and restricted land to engage in estate planning;
+
+&emsp;&emsp;“(C) facilitate intertribal efforts to produce tribal probate codes in accordance with section 206 of the Indian Land Consolidation Act (25 U.S.C. 2205); and
+
+&emsp;&emsp;“(D) provide essential elements of general probate law that are not applicable on the date of enactment of this Act \[Oct. 27, 2004\] to interests in trust or restricted land; and
+
+&emsp;“(5) the provisions of a uniform Federal probate code and other forth \[sic\] in this Act \[see Short Title of 2004 Amendment note above\] should operate to further the policy of the United States as stated in the Indian Land Consolidated Act Amendments of 2000, Public Law 106–462, \[§\]102, November 7, 2000, 114 Stat. 1992 \[set out as a note below\].”
 
 Pub. L. 106–462, title I, §101, Nov. 7, 2000, 114 Stat. 1991, provided that: “Congress finds that—
 
@@ -91,4 +221,6 @@ Pub. L. 106–462, title I, §102, Nov. 7, 2000, 114 Stat. 1992, provided that: 
 #### Authorization of Appropriations
 
 Pub. L. 106–462, title I, §105, Nov. 7, 2000, 114 Stat. 2007, provided that: “There are authorized to be appropriated not to exceed $8,000,000 for fiscal year 2001 and each subsequent fiscal year to carry out the provisions of this title \[enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and section 2206 of this title\] (and the amendments made by this title) that are not otherwise funded under the authority provided for in any other provision of Federal law.”
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

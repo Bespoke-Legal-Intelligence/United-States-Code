@@ -48,7 +48,7 @@ A drug or device—
 
 > The Secretary shall not delegate the authority granted under this subparagraph.
 
-(C) An appropriate country official, manufacturer, or exporter may request the Secretary to take action under subparagraph (B) to designate an additional country or countries to be added to the list of countries described in clauses (i) and (ii) of subparagraph (A) by submitting documentation to the Secretary in support of such designation. Any person other than a country requesting such designation shall include, along with the request, a letter from the country indicating the desire of such country to be designated.
+(C) An appropriate country official, manufacturer, or exporter may request the Secretary totake action under subparagraph (B) to designate an additional country or countries to be added to the list of countries described in clauses (i) and (ii) of subparagraph (A) by submitting documentation to the Secretary in support of such designation. Any person other than a country requesting such designation shall include, along with the request, a letter from the country indicating the desire of such country to be designated.
 
 (2) A drug described in subsection (a) of this section may be directly exported to a country which is not listed in clause (i) or (ii) of paragraph (1)(A) if—
 
@@ -92,7 +92,7 @@ A drug or device intended for formulation, filling, packaging, labeling, or furt
 
 #### (e) Diagnosis, prevention, or treatment of tropical disease
 
-(1) A drug or device which is used in the diagnosis, prevention, or treatment of a tropical disease or another disease not of significant prevalence in the United States and which does not otherwise qualify for export under this section shall, upon approval of an application, be permitted to be exported if the Secretary finds that the drug or device will not expose patients insuch country to an unreasonable risk of illness or injury and the probable benefit to health from the use of the drug or device (under conditions of use prescribed, recommended, or suggested in the labeling or proposed labeling of the drug or device) outweighs the risk of injury or illness from its use, taking into account the probable risks and benefits of currently available drug or device treatment.
+(1) A drug or device which is used in the diagnosis, prevention, or treatment of a tropical disease or another disease not of significant prevalence in the United States and which does not otherwise qualify for export under this section shall, upon approval of an application, be permitted to be exported if the Secretary finds that the drug or device will not expose patients in such country to an unreasonable risk of illness or injury and the probable benefit to health from the use of the drug or device (under conditions of use prescribed, recommended, or suggested in the labeling or proposed labeling of the drug or device) outweighs the risk of injury or illness from its use, taking into account the probable risks and benefits of currently available drug or device treatment.
 
 (2) The holder of an approved application for the export of a drug or device under this subsection shall report to the Secretary—
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 Insulin and antibiotic drugs may be exported without regard to the requirements in this section if the insulin and antibiotic drugs meet the requirements of section 381(e)(1) of this title.
 
-(June 25, 1938, ch. 675, §802, as added Pub. L. 99–660, title I, §102(2), Nov. 14, 1986, 100 Stat. 3743; amended Pub. L. 104–134, title III, §2102(d)(1),Apr. 26, 1996, 110 Stat. 1321–315; Pub. L. 104–180, title VI, §603(c), Aug. 6, 1996, 110 Stat. 1595; Pub. L. 105–115, title I, §125(c), Nov. 21, 1997, 111 Stat. 2326.)
+(June 25, 1938, ch. 675, §802, as added Pub. L. 99–660, title I, §102(2), Nov. 14, 1986, 100 Stat. 3743; amended Pub. L. 104–134, title III, §2102(d)(1), Apr. 26, 1996, 110 Stat. 1321–315; Pub. L. 104–180, title VI, §603(c), Aug. 6, 1996, 110 Stat. 1595; Pub. L. 105–115, title I, §125(c), Nov. 21, 1997, 111 Stat. 2326.)
 
 #### References in Text
 
@@ -164,13 +164,9 @@ Act of March 4, 1913 (known as the Virus-Serum Toxin Act), referred to in subsec
 
 1997—Subsec. (i). Pub. L. 105–115 added subsec. (i).
 
-1996—Pub. L. 104–134 reenacted section catchline without change and amended text generally. Prior to amendment, text related to exports of certain unapproved products, including provisions relating to drugs intended for human or animal use which required approval or licensing, conditions for export, active pursuit of drug approval or licensing, application for export, contents, approval or disapproval, list of eligible countries for export, and criteria for list change, report to Secretary by holder of approved application, events requiring report, and annual report to Secretary on pursuit of approval of drug, export of drug under approved application prohibited under certain conditions, determination by Secretary of noncompliance, failure of active pursuit of drug approval, imminent hazard of drug to public health, or exportation of drug to noneligible country, notices, hearings, and prohibition on exportation of drug under certain circumstances, drugs used in prevention or treatment of tropical disease, and reference to Secretary and holder of application.
+1996—Pub. L. 104–134 reenacted section catchline without change and amended text generally. Prior to amendment, text related to exports of certain unapproved products, including provisions relating to drugs intended for human or animal use which required approval or licensing, conditions for export, active pursuit of drug approval or licensing, application for export, contents, approval or disapproval, list of eligible countries for export, and criteria for list change, report to Secretary by holder of approved application, events requiring report, and annual report to Secretary on pursuit of approval of drug, export of drug under approved application prohibited under certain conditions, determination by Secretary of noncompliance, failure of active pursuit of drug approval, imminent hazard ofdrug to public health, or exportation of drug to noneligible country, notices, hearings, and prohibition on exportation of drug under certain circumstances, drugs used in prevention or treatment of tropical disease, and reference to Secretary and holder of application.
 
 Subsec. (f)(5). Pub. L. 104–180 substituted “if the labeling of the drug or device is not” for “if the drug or device is not labeled”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 321, 331, 381 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(b)(1)(A)”.</i>
 

@@ -46,7 +46,3 @@ In subsection (b)(2), the word “facilities” is omitted as surplus.
 
 Section 13(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (a), is section 13(b) of Pub. L. 91–258, which was classified to section 1713(b) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 50101, 50102, 50104, 50105 of this title.
-

@@ -4,7 +4,3 @@ The Secretary of Defense, the Secretary of Commerce, the Secretary of Housing an
 
 (Pub. L. 95–91, title VI, §656, Aug. 4, 1977, 91 Stat. 602.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8257 of this title.
-

@@ -54,7 +54,3 @@ In subsection (a), the words “prescribe regulations to ensure” are substitut
 
 In subsection (c), the text of 40:762a(b)(2)–(4) and (c) is omitted as executed and obsolete. The words “In carrying out subsection (a) of this section” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 18103 of this title.
-

@@ -8,7 +8,3 @@ There shall be credited on the books of the Office of Indian Affairs the sum of 
 
 For transfer of functions of other officers, employees, and agencies of the Department of the Interior, with certain exceptions, to the Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 571, 573, 575, 577 of this title.
-

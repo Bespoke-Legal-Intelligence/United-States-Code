@@ -100,7 +100,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (vii) Denial of landing rights
 
-&emsp;&emsp;&emsp;Landing rights in the United States shall be denied to any private aircraft or air carrier owned by a person described in subparagraph (A) except as necessary to provide for emergencies in which the safety of the aircraft or its crew or passengers is threatened.
+&emsp;&emsp;&emsp;Landing rights in the United States shall be denied to any private aircraft or aircarrier owned by a person described in subparagraph (A) except as necessary to provide for emergencies in which the safety of the aircraft or its crew or passengers is threatened.
 
 #### (3) Sanctions on foreign governments
 
@@ -162,11 +162,11 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 The Secretary of State shall deny a visa to, and the Attorney General shall exclude from the United States any alien who, after October 21, 1998—
 
-&emsp;(1) is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any United States confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses <sup>1</sup> or damages to a United States person and for which actions or omissions the United States has been found liable of a tort or taking pursuant to this chapter;
+&emsp;(1) is, or previously served as, an officer or employee of the Organization and who haswillfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any United States confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses <sup>1</sup> or damages to a United States person and for which actions or omissions the United States has been found liable of a tort or taking pursuant to this chapter;
 
 &emsp;(2) traffics in United States confidential business information, a proven claim to which is owned by a United States national;
 
-&emsp;(3) is a corporate officer, principal, shareholder with a controlling interest of an entitywhich has been involved in the unauthorized disclosure of United States confidential business information, a proven claim to which is owned by a United States national; or
+&emsp;(3) is a corporate officer, principal, shareholder with a controlling interest of an entity which has been involved in the unauthorized disclosure of United States confidential business information, a proven claim to which is owned by a United States national; or
 
 &emsp;(4) is a spouse, minor child, or agent of a person excludable under paragraph (1), (2), or (3).
 
@@ -203,8 +203,4 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 The Arms Export Control Act, referred to in subsec. (e)(2)(B)(i), (3)(B)(i), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (e)(3)(B)(vi), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6744 of this title; title 6 section 236.
 

@@ -19,10 +19,6 @@
 
 1994—Pub. L. 103–322, title II, §20409(c), title XXXIII, §330010(3), Sept. 13, 1994, 108 Stat. 1828, 2143, transferred analysis of this subchapter to follow heading for this subchapter and added item 3626.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3586 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should not appear.</i>
 
 

@@ -16,7 +16,3 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act Jun
 
 The Fair Packaging and Labeling Act, referred to in subsec. (a), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, as amended, which is classified generally to chapter 39 (§1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1048 of this title.
-

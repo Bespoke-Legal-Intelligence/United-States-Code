@@ -4,7 +4,3 @@ All persons shall be entitled to be free, at any establishment or place, from di
 
 (Pub. L. 88–352, title II, §202, July 2, 1964, 78 Stat. 244.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2000a–2 of this title.
-

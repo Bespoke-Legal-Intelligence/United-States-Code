@@ -56,7 +56,3 @@ Pub. L. 100–66, §3(2), redesignated former subsec. (b) as (c).
 
 Section 4 of Pub. L. 100–66 provided that: “The amendment made by section 3 \[amending this section\] shall take effect January 1, 1978.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1123 of this title.
-

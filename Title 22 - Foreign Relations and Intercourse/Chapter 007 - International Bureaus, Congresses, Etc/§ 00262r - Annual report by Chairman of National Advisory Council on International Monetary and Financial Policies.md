@@ -200,7 +200,7 @@ Report.—On the termination of the Commission, the Commission shall submit to t
 
 &emsp;“(3) Additional monitoring tools, global standards, or regulations for, among other things, global capital flows, bankruptcy standards, accounting standards, payment systems, and safety and soundness principles for financial institutions.
 
-&emsp;“(4) Possible mergers or abolition of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]), including changes to themanner in which such institutions coordinate their policy and program implementation and their roles and responsibilities.
+&emsp;“(4) Possible mergers or abolition of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]), including changes to the manner in which such institutions coordinate their policy and program implementation and their roles and responsibilities.
 
 &emsp;“(5) Any additional changes necessary to stabilize currencies, promote continued trade liberalization and to avoid future financial crises.
 
@@ -241,10 +241,6 @@ Pub. L. 105–277, div. A, §101(d) \[title VI, §606\], Oct. 21, 1998, 112 Stat
 #### Definitions
 
 Pub. L. 105–277, div. A, §101(d) \[title VI, §607\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224, as amended by Pub. L. 106–200, title IV, §404(a), May 18, 2000, 114 Stat. 291, provided that: “For purposes of sections 601 through 606 of this title \[see Tables for classification\], the term ‘appropriate committees’ means the Committees on Appropriations, Foreign Relations, Finance, and Banking, Housing, and Urban Affairs of the Senate and the Committees on Appropriations, Ways and Means, and Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 262<i>o</i>–1, 262<i>o</i>–2, 262p–4<i>o</i>, 262p–4p, 262p–4r, 2421 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

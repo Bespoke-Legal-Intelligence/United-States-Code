@@ -30,7 +30,7 @@ Amounts paid to a State or a unit of local government under this subchapter shal
 
 &emsp;(11) establishing and maintaining accountability-based programs designed to reduce recidivism among juveniles who are referred by law enforcement personnel or agencies;
 
-&emsp;(12) establishing and maintaining programs to conduct risk and need assessments of juvenile offenders that facilitate the effective early intervention and the provision of comprehensive services, including mental healthscreening and treatment and substance abuse testing and treatment to such offenders;
+&emsp;(12) establishing and maintaining programs to conduct risk and need assessments of juvenile offenders that facilitate the effective early intervention and the provision of comprehensive services, including mental health screening and treatment and substance abuse testing and treatment to such offenders;
 
 &emsp;(13) establishing and maintaining accountability-based programs that are designed to enhance school safety;
 
@@ -55,8 +55,4 @@ A prior section 1801 of Pub. L. 90–351 was renumbered section 2601 and is clas
 #### Effective Date
 
 Pub. L. 107–273, div. C, title II, §12102(b), Nov. 2, 2002, 116 Stat. 1869, provided that: “The amendments made by subsection (a) \[enacting this subchapter\] shall take effect on the first day of the first fiscal year that begins after the date of enactment of this Act \[Nov. 2, 2002\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3796ee–3, 3796ee–6, 3796ee–9 of this title.
 

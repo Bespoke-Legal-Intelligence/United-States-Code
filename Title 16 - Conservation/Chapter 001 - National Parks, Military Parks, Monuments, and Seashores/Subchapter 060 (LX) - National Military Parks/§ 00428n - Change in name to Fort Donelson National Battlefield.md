@@ -4,7 +4,3 @@ Upon acquisition of the additional lands pursuant to authority contained in sect
 
 (Pub. L. 86–738, §4, Sept. 8, 1960, 74 Stat. 876.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 428m of this title.
-

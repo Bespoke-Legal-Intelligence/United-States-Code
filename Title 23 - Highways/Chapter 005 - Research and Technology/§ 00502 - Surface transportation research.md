@@ -84,7 +84,7 @@ Waiver of advertising requirements.—Section 3709 of the Revised Statutes (41 U
 
 Contents of Research Program.—The Secretary shall include in surface transportation research, technology development, and technology transfer programs carried out under this title coordinated activities in the following areas:
 
-&emsp;(1) Development, use, and dissemination of indicators, including appropriate computerprograms for collecting and analyzing data on the status of infrastructure facilities, to measure the performance of the surface transportation systems of the United States, including productivity, efficiency, energy use, air quality, congestion, safety, maintenance, and other factors that reflect system performance.
+&emsp;(1) Development, use, and dissemination of indicators, including appropriate computer programs for collecting and analyzing data on the status of infrastructure facilities, to measure the performance of the surface transportation systems of the United States, including productivity, efficiency, energy use, air quality, congestion, safety, maintenance, and other factors that reflect system performance.
 
 &emsp;(2) Methods, materials, and testing to improve the durability of surface transportation infrastructure facilities and extend the life of bridge structures, including—
 
@@ -176,7 +176,7 @@ Seismic Research Program.—
 
 &emsp;(1)
 
-Establishment.—The Secretary shall establish a program to study the vulnerabilityof the Federal-aid highway system and other surface transportation systems to seismic activity and to develop and implement cost-effective methods to reduce such vulnerability.
+Establishment.—The Secretary shall establish a program to study the vulnerability of the Federal-aid highway system and other surface transportation systems to seismic activity and to develop and implement cost-effective methods to reduce such vulnerability.
 
 &emsp;(2)
 
@@ -186,7 +186,7 @@ Cooperation with national center for earthquake engineering research.—The Secr
 
 Cooperation with agencies participating in national earthquake hazards reduction program.—The Secretary shall conduct the program in consultation and cooperation with Federal departments and agencies participating in the National Earthquake Hazards Reduction Program established by section 5 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704) and shall take such actions as may be necessary to ensure that the program is consistent with—
 
-&emsp;&emsp;(A) planning and coordination activities of the Director of the Federal Emergency Management Agency under section 5(b)(1) of such Act (42 U.S.C. 7704(b)(1)); and
+&emsp;&emsp;(A) planning and coordination activities of the Director of the Federal Emergency Management Agency under section 5(b)(1) <sup>1</sup> of such Act (42 U.S.C. 7704(b)(1)); and
 
 &emsp;&emsp;(B) the plan developed by the Director of the Federal Emergency Management Agency under section 8(b) of such Act (42 U.S.C. 7705b(b)).
 
@@ -215,6 +215,8 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 The date of enactment of this section, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
 The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (e)(1), is Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
+
+Section 5(b)(1) of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704(b)(1)), referred to in subsec. (f)(3)(A), was subsequently amended, and no longer refers to the Director of the Federal Emergency Management Agency.
 
 The date of enactment of the Transportation Equity Act for the 21st Century, referred to in subsec. (g)(2), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
@@ -1130,7 +1132,5 @@ Authorization of Appropriations.—The Secretary shall expend from administrativ
 
 Pub. L. 95–599, title I, §166, Nov. 6, 1978, 92 Stat. 2722, provided that: “The Secretary of Transportation shall make a full and complete investigation and study of all those factors affecting the safe and efficient operation of bridges, tunnels, and roads within the United States, including, but not limited to, structural, operational, environmental, and civil disturbance factors.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 151 of this title.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

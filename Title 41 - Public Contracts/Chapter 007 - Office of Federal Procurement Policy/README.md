@@ -151,6 +151,13 @@
 | (a) | Lists of inapplicable provisions of law. |
 | (b) | Covered law. |
 | (c) | “Commercially available off-the-shelf item” defined. |
+| [431a.](%C2%A7%2000431a%20-%20Inflation%20adjustment%20of%20acquisition-related%20dollar%20thresholds.md) | Inflation adjustment of acquisition-related dollar thresholds. |
+| (a) | Requirement for periodic adjustment. |
+| (b) | Adjustments effective upon publication. |
+| (c) | Acquisition-related dollar thresholds. |
+| (d) | Excluded thresholds. |
+| (e) | Calculation of adjustments. |
+| (f) | Petition for inclusion of omitted threshold. |
 | [432\.](%C2%A7%2000432%20-%20Value%20engineering.md) | Value engineering. |
 | (a) | In general. |
 | (b) | “Value engineering” defined. |
@@ -181,10 +188,6 @@
 | (d) | Expiration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 405a, 405b, 601, 607, 705 of this title; title 25 sections 450j, 458cc, 458aaa–8, 458aaa–9; title 40 sections 113, 501, 503, 506; title 49 section 40110; title 50 section 2462.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “351(a)”.</i>
 
@@ -232,6 +235,7 @@ This chapter is referred to in sections 405a, 405b, 601, 607, 705 of this title;
 - [&sect; 00429 - List of laws inapplicable to contracts not greater than simplified acquisition threshold in Federal Acquisition Regulation](%C2%A7%2000429%20-%20List%20of%20laws%20inapplicable%20to%20contracts%20not%20greater%20than%20simplified%20acquisition%20threshold%20in%20Federal%20Acquisition%20Regulation.md)
 - [&sect; 00430 - List of laws inapplicable to procurements of commercial items in Federal Acquisition Regulation](%C2%A7%2000430%20-%20List%20of%20laws%20inapplicable%20to%20procurements%20of%20commercial%20items%20in%20Federal%20Acquisition%20Regulation.md)
 - [&sect; 00431 - Commercially available off-the-shelf item acquisitions lists of inapplicable laws in Federal Acquisition Regulation](%C2%A7%2000431%20-%20Commercially%20available%20off-the-shelf%20item%20acquisitions%20lists%20of%20inapplicable%20laws%20in%20Federal%20Acquisition%20Regulation.md)
+- [&sect; 00431a - Inflation adjustment of acquisition-related dollar thresholds](%C2%A7%2000431a%20-%20Inflation%20adjustment%20of%20acquisition-related%20dollar%20thresholds.md)
 - [&sect; 00432 - Value engineering](%C2%A7%2000432%20-%20Value%20engineering.md)
 - [&sect; 00433 - Acquisition workforce](%C2%A7%2000433%20-%20Acquisition%20workforce.md)
 - [&sect; 00434 - Modular contracting for information technology](%C2%A7%2000434%20-%20Modular%20contracting%20for%20information%20technology.md)

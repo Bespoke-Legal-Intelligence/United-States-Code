@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 Aug. 2, 1954, ch. 649, title VII, §702(g), as added Pub. L. 87–658, §6, Sept. 14, 1962, 76 Stat. 544; Pub. L. 100–242, title V, §524(2), Feb. 5, 1988, 101 Stat. 1939.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 5153.
-

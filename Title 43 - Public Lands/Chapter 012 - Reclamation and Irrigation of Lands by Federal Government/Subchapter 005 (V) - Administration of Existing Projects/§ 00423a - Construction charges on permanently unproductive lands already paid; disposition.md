@@ -4,7 +4,3 @@ The construction charges prior to May 25, 1926, paid on permanently unproductive
 
 (May 25, 1926, ch. 383, §42, 44 Stat. 647.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 423b, 423c, 423d, 423f, 424d of this title.
-

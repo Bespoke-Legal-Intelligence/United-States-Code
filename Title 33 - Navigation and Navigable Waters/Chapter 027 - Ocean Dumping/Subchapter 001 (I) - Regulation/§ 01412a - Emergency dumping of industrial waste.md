@@ -36,7 +36,3 @@ Subsec. (b). Pub. L. 96–572, §2(2), added subsec. (b). Former subsec. (b), de
 
 Subsecs. (c), (d). Pub. L. 96–572, §2(2), added subsecs. (c) and (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1443 of this title.
-

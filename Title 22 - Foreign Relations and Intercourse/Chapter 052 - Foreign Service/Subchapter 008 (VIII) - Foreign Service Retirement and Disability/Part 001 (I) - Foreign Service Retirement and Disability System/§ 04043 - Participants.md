@@ -2,7 +2,7 @@
 
 #### (a) Career appointees or candidates; chiefs of mission
 
-Except as provided in subsection (d) of this section, the following members of the Service\(hereinafter in this part referred to as “participants”) shall be entitled to the benefits of the System:
+Except as provided in subsection (d) of this section, the following members of the Service (hereinafter in this part referred to as “participants”) shall be entitled to the benefits of the System:
 
 &emsp;(1) Every member who is serving under a career appointment or as a career candidate under section 3946 of this title—
 
@@ -43,8 +43,4 @@ Subsec. (d). Pub. L. 99–335, §414(2), added subsec. (d).
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4071b, 4159 of this title.
 

@@ -54,7 +54,3 @@ Pub. L. 89–4, title II, §203, as added Pub. L. 107–149, §5, Mar. 12, 2002,
 
 40 App.:203(b)(2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14703 of this title.
-

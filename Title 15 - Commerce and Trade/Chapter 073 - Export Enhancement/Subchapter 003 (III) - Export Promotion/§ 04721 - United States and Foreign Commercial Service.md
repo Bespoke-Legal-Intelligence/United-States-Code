@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52\(§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 #### Codification
 
@@ -151,10 +151,6 @@ Subsecs. (f) to (j). Pub. L. 102–429, §203(b), added subsec. (f) and redesign
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to reporting results of audits to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 53 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4727, 4728 of this title; title 12 section 635i–7.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Commercial Service Officer”.</i>
 

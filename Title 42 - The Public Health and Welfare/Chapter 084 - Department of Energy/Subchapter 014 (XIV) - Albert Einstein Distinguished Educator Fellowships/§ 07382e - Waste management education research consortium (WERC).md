@@ -6,9 +6,5 @@ The Secretary is authorized to establish a partnership of Department of Energy l
 
 (Pub. L. 103–382, title V, §517, Oct. 20, 1994, 108 Stat. 4044.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7382f of this title.
-
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

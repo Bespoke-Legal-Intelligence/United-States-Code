@@ -6,7 +6,7 @@
 
 &emsp;Subject to paragraph (4), a person subject to an order may file a written petition with the Secretary—
 
-&emsp;&emsp;(A) that states that the order, any provision of the order, or any obligation imposed in connection with the order is not in accordance with law; and
+&emsp;&emsp;(A) that states that the order, any provision of the order, or any obligation imposedin connection with the order is not in accordance with law; and
 
 &emsp;&emsp;(B) that requests—
 
@@ -39,8 +39,4 @@ The district courts of the United States in any district in which such person is
 #### Amendments
 
 1998—Subsec. (a). Pub. L. 105–185 added subsec. (a) and struck out former subsec. (a) which read as follows: “Any person subject to an order may file, within a period prescribed by the Secretary, a written petition with the Secretary, stating that such order or any provision of such order or any obligation imposed in connection therewith is not in accordance with law and requesting a modification thereof or to be exempted therefrom. Such person shall thereupon be given an opportunity for a hearing upon such petition, in accordance with regulations made by the Secretary. After such hearing, the Secretary shall make a ruling upon such petition which shall be final, if in accordance with law.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4610a of this title.
 

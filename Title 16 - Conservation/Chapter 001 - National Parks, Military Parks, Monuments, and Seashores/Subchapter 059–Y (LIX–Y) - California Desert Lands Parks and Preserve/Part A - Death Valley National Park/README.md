@@ -1,9 +1,5 @@
 Part A—Death Valley National Park
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 410aaa–75 of this title.
-
 
 ---
 

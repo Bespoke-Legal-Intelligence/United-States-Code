@@ -36,7 +36,7 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 #### (E) Additional members
 
-&emsp;&emsp;Subject to the nine-member limit on the number of members on the Council provided in paragraph (1), the Secretary shall appointan additional member to the Council from a region for each additional 50,000,000 pounds of production or imports per year, on average, within the region.
+&emsp;&emsp;Subject to the nine-member limit on the number of members on the Council provided in paragraph (1), the Secretary shall appoint an additional member to the Council from a region for each additional 50,000,000 pounds of production or imports per year, on average, within the region.
 
 #### (F) Average annual production
 
@@ -174,7 +174,7 @@ The order shall define the powers and duties of the Council, which shall include
 
 #### (h) Prohibition
 
-The order shall prohibit any funds received by the Council under the order from being used in any manner for the purpose of influencing legislation or governmental action or policy, except that such funds may be used by the Council for the development and recommendation to the Secretary of amendments to the order as prescribed in this chapter and for the submission to the Secretary of recommended voluntary grade and quality standards for mushrooms under the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.).
+The order shall prohibit any funds received by the Council under the order from being used inany manner for the purpose of influencing legislation or governmental action or policy, except that such funds may be used by the Council for the development and recommendation to the Secretary of amendments to the order as prescribed in this chapter and for the submission to the Secretary of recommended voluntary grade and quality standards for mushrooms under the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.).
 
 #### (i) Books and records
 
@@ -208,7 +208,7 @@ The order shall prohibit any funds received by the Council under the order from 
 
 #### (B) Penalty
 
-&emsp;&emsp;Any person knowingly violating this subsection, on conviction, shall be subject to afine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if an officer or employee of the Council or the Department, shall be removed from office.
+&emsp;&emsp;Any person knowingly violating this subsection, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if an officer or employee of the Council or the Department, shall be removed from office.
 
 #### (5) Withholding information
 
@@ -227,8 +227,4 @@ The Agricultural Marketing Act of 1946, referred to in subsec. (h), is title II 
 #### Amendments
 
 1991—Subsec. (h). Pub. L. 102–237 substituted “governmental” for “government”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6102 of this title.
 

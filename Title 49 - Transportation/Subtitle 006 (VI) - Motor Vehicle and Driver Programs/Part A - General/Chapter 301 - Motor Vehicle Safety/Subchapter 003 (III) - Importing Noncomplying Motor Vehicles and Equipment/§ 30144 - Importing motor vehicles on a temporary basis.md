@@ -66,7 +66,3 @@ The International Organizations Immunities Act, referred to in subsec. (a)(1)(A)
 
 1996—Subsec. (a)(1)(A). Pub. L. 104–287 substituted “International Organizations” for “International Organization”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30112, 30142, 30165 of this title.
-

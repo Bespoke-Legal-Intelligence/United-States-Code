@@ -1,9 +1,5 @@
 Part D—Labor-Management Relations
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1407 of this title.
-
 
 ---
 

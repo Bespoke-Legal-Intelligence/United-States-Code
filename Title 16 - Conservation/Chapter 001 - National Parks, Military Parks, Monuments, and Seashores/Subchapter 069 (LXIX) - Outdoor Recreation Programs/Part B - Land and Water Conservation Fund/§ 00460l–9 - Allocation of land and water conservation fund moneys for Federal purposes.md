@@ -14,7 +14,7 @@ Moneys appropriated from the fund for Federal purposes shall, unless otherwise a
 
 (2) For payment into miscellaneous receipts of the Treasury as a partial offset for those capital costs, if any, of Federal water development projects hereafter authorized to be constructed by or pursuant to an Act of Congress which are allocated to public recreation and the enhancement of fish and wildlife values and financed through appropriations to water resource agencies.
 
-(3) Appropriations allotted for the acquisition of land, waters, or interests in land or waters as set forth under the headings “National Park System; Recreation Areas” and “National Forest System” in paragraph (1) of this subsection shall be available therefor notwithstanding any statutory ceiling on such appropriations contained in any other provision of law enacted prior to the convening of the Ninety-fifth Congress or, in the case of national recreation areas, prior to the convening of the Ninety-sixth Congress; except that for any such area expenditures may not exceed a statutory ceiling during any one fiscal year by 10 per centum of such ceiling or $1,000,000, whichever is greater.
+(3) Appropriations allotted for the acquisition of land, waters, or interests in land or waters as set forth under the headings “National Park System; Recreation Areas” and “National Forest System” in paragraph (1) of this subsection shall be available therefor notwithstanding anystatutory ceiling on such appropriations contained in any other provision of law enacted prior to the convening of the Ninety-fifth Congress or, in the case of national recreation areas, prior to the convening of the Ninety-sixth Congress; except that for any such area expenditures may not exceed a statutory ceiling during any one fiscal year by 10 per centum of such ceiling or $1,000,000, whichever is greater.
 
 #### (b) Acquisition restrictions
 
@@ -99,8 +99,4 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 #### Effective Date of 1968 Amendment
 
 For effective date of amendment by Pub. L. 90–401, see section 1(d) of Pub. L. 90–401, as amended by section 1 of Pub. L. 91–308, set out as a note under section 460<i>l</i>–5 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 110c, 160k, 410r–6, 410nn, 410<i>oo</i>–1, 410qq–1, 410rr–1, 410hhh–6, 423<i>l</i>–3, 429b, 460<i>l</i>–10a, 460<i>l</i>–17, 460p–2, 460v–7, 460ii–4, 460vv–18, 460aaa–1, 460hhh–5, 460iii–4, 541e, 543a, 544g, 546a, 698n, 698v–2 of this title.
 

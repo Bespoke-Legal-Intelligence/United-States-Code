@@ -32,9 +32,5 @@ Subject to the provisions of subsection (b) of this section, the Administrator�
 
 1996—Pub. L. 104–182 made technical amendment to section catchline and subsec. (a) designation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300h–1 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

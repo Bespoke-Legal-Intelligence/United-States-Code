@@ -4,7 +4,3 @@ It is declared to be the policy of the Government so far as practical to distrib
 
 (May 18, 1933, ch. 32, §11, 48 Stat. 64.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>lll</i>–49, 831ee of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER XXXI—ALABAMA AND COUSHATTA INDIANS OF TEXAS: TERMINATION OF FEDERAL SUPERVISION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 733 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 
 

@@ -10,7 +10,7 @@ Except to the extent otherwise provided by or inconsistent with tribal law, in r
 
 &emsp;(3) require the owner or manager to give adequate written notice of termination of the lease, which shall be the period of time required under State, tribal, or local law;
 
-&emsp;(4) specify that, with respect to any notice of eviction or termination, notwithstanding anyState, tribal, or local law, a resident shall be informed of the opportunity, prior to any hearing or trial, to examine any relevant documents, records, or regulations directly related to the eviction or termination;
+&emsp;(4) specify that, with respect to any notice of eviction or termination, notwithstanding any State, tribal, or local law, a resident shall be informed of the opportunity, prior to any hearing or trial, to examine any relevant documents, records, or regulations directly related to the eviction or termination;
 
 &emsp;(5) require that the owner or manager may not terminate the tenancy, during the term of the lease, except for serious or repeated violation of the terms or conditions of the lease, violation of applicable Federal, State, tribal, or local law, or for other good cause; and
 

@@ -63,7 +63,7 @@ Pub. L. 102–16, §2(b)(1)(B), Mar. 22, 1991, 105 Stat. 49, struck out item 166
 
 1989—Pub. L. 101–237, title IV, §405(d)(4)(B), Dec. 18, 1989, 103 Stat. 2082, substituted “Work-study allowance” for “Veteran-student services” in item 1685.
 
-1988—Pub. L. 100–689, title I, §§107(c)(2)(B), 124(c)(1), Nov. 18, 1988, 102 Stat. 4169, 4175, substituted “Tutorial assistance” for “Special supplementary assistance” in item 1692 and struck out items 1682A “Accelerated payment of educational assistance allowances” and 1686 “Education loans”.
+1988—Pub. L. 100–689, title I, §§107(c)(2)(B), 124(c)(1), Nov. 18, 1988, 102 Stat. 4169, 4175, substituted “Tutorialassistance” for “Special supplementary assistance” in item 1692 and struck out items 1682A “Accelerated payment of educational assistance allowances” and 1686 “Education loans”.
 
 1981—Pub. L. 97–35, title XX, §2003(b)(3)(B), Aug. 13, 1981, 95 Stat. 782, struck out item 1677 “Flight training”.
 
@@ -82,10 +82,6 @@ Pub. L. 102–16, §2(b)(1)(B), Mar. 22, 1991, 105 Stat. 49, struck out item 166
 1967—Pub. L. 90–77, title III, §§302(c), 304(b), 306(b)(1), Aug. 31, 1967, 81 Stat. 185, 186, 188, added items 1677, 1678, and 1683, and renumbered former items 1683 to 1686 as 1684 to 1687, respectively.
 
 1966—Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 12, added “CHAPTER 34—VETERANS’ EDUCATIONAL ASSISTANCE”.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 101, 111, 113, 1521, 1718, 3011, 3012, 3015, 3016, 3033, 3202, 3485, 3670, 3671, 3672, 3673, 3674, 3680, 3681, 3682, 3683, 3684, 3685, 3687, 3688, 3689, 3690, 3693, 3694, 3695, 3696, 3697, 5113, 5307, 5313B, 7407 of this title; title 26 sections 25A, 135, 6334; title 29 section 2913.
 
 
 ---

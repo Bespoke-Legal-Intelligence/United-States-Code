@@ -48,7 +48,3 @@ The Social Security Act, referred to in par. (2)(B), (C), is act Aug. 14, 1935, 
 
 Section 1 of Pub. L. 96–247 provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Civil Rights of Institutionalized Persons Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1997a, 2000cc–1 of this title.
-

@@ -1,12 +1,8 @@
 ### §8122. Authority to procure and dispose of property and to negotiate for common services
 
-(a)(1) The Secretary may lease for a term not exceeding three years lands or buildings, or parts or parcels thereof, belonging to the United States and under the Secretary's control. Any lease made pursuant to this subsection to any public or nonprofit organization may be made without regard to the provisions of section 3709 of the Revised Statutes (41 U.S.C. 5). Notwithstanding section 1302 of title 40, or any other provision of law, a lease made pursuant to this subsection to any public or nonprofit organization may provide for the maintenance, protection, or restoration, by the lessee, of the property leased, as a part or all of the consideration for the lease. Prior to the execution of any such lease, the Secretary shall give appropriate public notice of the Secretary's intention to do soin the newspaper of the community in which the lands or buildings to be leased are located. The proceeds from such leases, less expenses for maintenance, operation, and repair of buildings leased for living quarters, shall be covered into the Treasury of the United States as miscellaneous receipts.
+(a)(1) The Secretary may lease for a term not exceeding three years lands or buildings, or parts or parcels thereof, belonging to the United States and under the Secretary's control. Any lease made pursuant to this subsection to any public or nonprofit organization may be made without regard to the provisions of section 3709of the Revised Statutes (41 U.S.C. 5). Notwithstanding section 1302 of title 40, or any other provision of law, a lease made pursuant to this subsection to any public or nonprofit organization may provide for the maintenance, protection, or restoration, by the lessee, of the property leased, as a part or all of the consideration for the lease. Prior to the execution of any such lease, the Secretary shall give appropriate public notice of the Secretary's intention to do so in the newspaper of the community in which the lands or buildings to be leased are located. The proceeds from such leases, less expenses for maintenance, operation, and repair of buildings leased for living quarters, shall be covered into the Treasury of the United States as miscellaneous receipts.
 
-(2)(A) Except as provided in paragraph (3) of this subsection, the Secretary may not during any fiscal year transfer to another Federal agency or to a State (or any political subdivision of a State) any interest in real property described in subparagraph (B) of this paragraph unless (i) the transfer (as proposed) was described in the budget for that fiscal year submitted to Congress pursuant to section 1105 of title 31, and (ii) the Department receives compensation equal to the fair market value of the property.
-
-(B) An interest in real property described in this subparagraph is an interest in real property that is owned by the United States and administered by the Secretary and that has an estimated value in excess of $50,000.
-
-(C) Amounts realized from the transfer of any interest in real property described in subparagraph (B) of this paragraph shall be deposited in the nursing home revolving fund established under section 8116 of this title.
+(2) Except as provided in paragraph (3), the Secretary may not during any fiscal year transfer to any other department or agency of the United States or to any other entity real property that is owned by the United States and administered by the Secretary unless the proposed transfer is described in the budget submitted to Congress pursuant to section 1105 of title 31 for that fiscal year.
 
 (3)(A) Subject to subparagraph (B) of this paragraph, the Secretary may, without regard to paragraph (2) of this subsection or any other provision of law relating to the disposition of real property by the United States, transfer to a State for use as the site of a State nursing-home or domiciliary facility real property described in subparagraph (E) of this paragraph which the Secretary determines to be excess to the needs of the Department.
 
@@ -30,15 +26,35 @@
 
 (c) The Secretary may procure laundry services, and other common services as specifically approved by the Secretary from nonprofit, tax-exempt educational, medical or community institutions, without regard to the requirements of section 302(c) <sup>1</sup> of the Federal Property and Administrative Services Act of 1949, as amended (41 U.S.C. 252(c)), whenever such services are not reasonably available from private commercial sources. Notwithstanding this exclusion, the provisions of section 304 of that Act (41 U.S.C. 254) shall apply to procurement authorized by this subsection.
 
-(d) Real property under the jurisdiction of the Secretary may not be declared excess by the Secretary and disposed of by the General Services Administration or any other entity of the Federal Government unless the Secretary determines that the property is no longer needed by the Department in carrying out its functions and is not suitable for use for the provision of services to homeless veterans by the Department or by another entity under an enhanced-use lease of such property under section 8162 of this title.
+(d)(1) Real property under the jurisdiction of the Secretary may not be declared excess by the Secretary and disposed of by the General Services Administration or any other entity of the Federal Government unless the Secretary determines that the property is no longer needed by the Department in carrying out its functions and is not suitable for use for the provision of services to homeless veterans by the Department or by another entity under an enhanced-use lease of such property under section 8162 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1253, §5012; amended Pub. L. 89–785, title II, §202(a), (b), Nov. 7, 1966, 80 Stat. 1373; Pub. L. 93–82, title III, §302(2), Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title II, §210(e)(7), Oct. 21, 1976, 90 Stat. 2865; renumbered §5022 and amended Pub. L. 96–22, title III, §301(b), June 13, 1979, 93 Stat. 61; Pub. L. 96–330, title IV, §403(a), Aug. 26, 1980, 94 Stat. 1052; Pub. L. 97–295, §4(91), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title IV, §401, Nov. 21, 1983, 97 Stat. 1004; Pub. L. 100–322, title IV, §421(a)(1), May 20, 1988, 102 Stat. 552; Pub. L. 100–687, div. B, title XV, §1505, Nov. 18, 1988, 102 Stat. 4135; renumbered §8122 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(5), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§4(a)(1), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 107–95, §10(a), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(3), Aug. 21, 2002, 116 Stat. 1300.)
+(2) The Secretary may transfer real property under this section, or under section 8118 of this title, if the Secretary—
+
+&emsp;(A) places a notice in the real estate section of local newspapers and in the Federal Register of the Secretary's intent to transfer that real property (including land, structures, and equipment associated with the property);
+
+&emsp;(B) holds a public hearing;
+
+&emsp;(C) provides notice to the Administrator of General Services of the Secretary's intention to transfer that real property and waits for 30 days to elapse after providing that notice; and
+
+&emsp;(D) after such 30-day period has elapsed, notifies the congressional veterans’ affairs committees of the Secretary's intention to dispose of the property and waits for 60 days to elapse from the date of that notice.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1253, §5012; amended Pub. L. 89–785, title II, §202(a), (b), Nov. 7, 1966, 80 Stat. 1373; Pub. L. 93–82, title III, §302(2), Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title II, §210(e)(7), Oct. 21, 1976, 90 Stat. 2865; renumbered §5022 and amended Pub. L. 96–22, title III, §301(b), June 13, 1979, 93 Stat. 61; Pub. L. 96–330, title IV, §403(a), Aug. 26, 1980, 94 Stat. 1052; Pub. L. 97–295, §4(91), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title IV, §401, Nov. 21, 1983, 97 Stat. 1004; Pub. L. 100–322, title IV, §421(a)(1), May 20, 1988, 102 Stat. 552; Pub. L. 100–687, div. B,title XV, §1505, Nov. 18, 1988, 102 Stat. 4135; renumbered §8122 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(5), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§4(a)(1), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 107–95, §10(a), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(3), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–422, title IV, §411(e)(1), (2), Nov. 30, 2004, 118 Stat. 2389, 2390.)
 
 #### References in Text
 
 Subsection (c) of section 302 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252(c)), referred to in subsec. (c), was struck out by section 2714(a)(1)(B) of Pub. L. 98–369 and the provisions formerly contained in subsec. (e) were restated in subsec. (c)(1) of section 302 of the 1949 Act.
 
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–422, §411(e)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+
+“(2)(A) Except as provided in paragraph (3) of this subsection, the Secretary may not during any fiscal year transfer to another Federal agency or to a State (or any political subdivision of a State) any interest in real property described in subparagraph (B) of this paragraph unless (i) the transfer (as proposed) was described in the budget for that fiscal year submitted to Congress pursuant to section 1105 of title 31, and (ii) the Department receives compensation equal to the fair market value of the property.
+
+“(B) An interest in real property described in this subparagraph is an interest in real property that is owned by the United States and administered by the Secretary and that has an estimated value in excess of $50,000.
+
+“(C) Amounts realized from the transfer of any interest in real property described in subparagraph (B) of this paragraph shall be deposited in the nursing home revolving fund established under section 8116 of this title.”
+
+Subsec. (d). Pub. L. 108–422, §411(e)(2), designated existing provisions as par. (1) and added par. (2).
 
 2002—Subsec. (a)(1). Pub. L. 107–217 substituted “section 1302 of title 40” for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)”.
 
@@ -113,10 +129,6 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 #### Transfer of Real Property Deemed Described in Budget for Fiscal Year 1989
 
 Section 421(a)(2) of Pub. L. 100–322 provided that any proposed transfer of real property described in subsec. (a)(2)(B) of this section that was described in a report submitted to Committees on Veterans’ Affairs of Senate and House of Representatives by Administrator not later than 30 days after May 20, 1988, was to be deemed for purposes of subsec. (a)(2)(A) of this section to have been described in the President's budget for fiscal year 1989.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8116, 8162, 8164, 8201 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

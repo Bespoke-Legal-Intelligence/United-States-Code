@@ -106,7 +106,7 @@ For purposes of this chapter:
 
 #### (17) State
 
-&emsp;The term “State” means the States of the United States, the District of Columbia, theCommonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+&emsp;The term “State” means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
 #### (18) Total capital
 
@@ -141,10 +141,6 @@ This Act, referred to in par. (13)(A), is Pub. L. 102–550, Oct. 28, 1992, 106 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1452, 1454, 1717, 1718, 1723a of this title; title 15 section 1681g.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

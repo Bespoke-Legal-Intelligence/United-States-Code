@@ -10,7 +10,3 @@ A right of use and occupancy reserved pursuant to this section shall be subject 
 
 (Pub. L. 88–587, §4, Sept. 11, 1964, 78 Stat. 931.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459e–1, 459e–2, 459e–5, 459e–6, 459e–7, 459e–9 of this title.
-

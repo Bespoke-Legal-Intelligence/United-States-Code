@@ -110,7 +110,3 @@ For the purposes of this chapter, the term—
 
 (Pub. L. 101–630, title III, §304, Nov. 28, 1990, 104 Stat. 4533.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3703 of this title.
-

@@ -64,7 +64,3 @@ There is authorized to be appropriated to the Secretary, for deposit in the loan
 
 Pub. L. 91–667, title II, §200, Jan. 11, 1971, 84 Stat. 2007, provided: “That the Secretary is authorized to issue commitments for direct loans to public agencies in accordance with section 627 of the Public Health Service Act \[this section\] which shall constitute contractual obligations of the United States, the total of such outstanding commitments not to exceed $30,000,000 at any given time; to sell obligations received pursuant to such commitments as provided in section 627, and the proceeds of any such sale shall be used to make a direct loan pursuant to the outstanding commitment under which the obligations were received.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 291j–1, 291j–6 of this title.
-

@@ -4,7 +4,3 @@ The public reservations in such town sites shall be improved and maintained by t
 
 (Apr. 16, 1906, ch. 1631, §3, 34 Stat. 116.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 567, 568 of this title.
-

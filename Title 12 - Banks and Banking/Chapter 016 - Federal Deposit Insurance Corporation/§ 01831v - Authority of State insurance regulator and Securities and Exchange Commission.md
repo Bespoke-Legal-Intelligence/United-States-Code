@@ -38,7 +38,3 @@ For purposes of this section, the following definitions shall apply:
 
 Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as an Effective Date of 1999 Amendment note under section 24 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1828 of this title.
-

@@ -72,7 +72,3 @@ Amendment by Pub. L. 96–481 effective Oct. 1, 1981, and applicable to adversar
 
 Pub. L. 94–559, §1, Oct. 19, 1976, 90 Stat. 2641, provided: “That this Act \[amending this section\] may be cited as ‘The Civil Rights Attorney's Fees Awards Act of 1976’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1981a, 1997e, 3602 of this title.
-

@@ -8,7 +8,7 @@
 
 #### (2) Application
 
-&emsp;Each entity seeking assistance under this subpart shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require. Each such application shall describe how—
+&emsp;Each entity seeking assistance under this subpart shall submit an application to theSecretary at such time, in such manner, and containing such information as the Secretary may reasonably require. Each such application shall describe how—
 
 &emsp;&emsp;(A) the proposed gifted and talented services, materials, and methods can be adapted, if appropriate, for use by all students; and
 
@@ -69,8 +69,4 @@ Scientifically based research activities supported under this subpart—
 2002—Subsec. (e)(1). Pub. L. 107–279 substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement” and “such Institute” for “such Office”.
 
 Subsec. (e)(2). Pub. L. 107–279, §404(d)(6), substituted “such Institute” for “such Office”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7253d of this title.
 

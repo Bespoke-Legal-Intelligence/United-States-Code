@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-Subject to the provisions of this section, the President may obligate and expend Cooperative Threat Reduction funds for a fiscal year, and any Cooperative Threat Reduction funds for a fiscal year before such fiscal year that remain available for obligation, for a proliferation threat reduction project or activity outside the states of the former Soviet Union if the President determines each of the following:
+Subject to the provisions of this section, the President may obligate and expend Cooperative Threat Reduction funds for a fiscal year, and any Cooperative Threat Reduction funds for afiscal year before such fiscal year that remain available for obligation, for a proliferation threat reduction project or activity outside the states of the former Soviet Union if the President determines each of the following:
 
 &emsp;(1) That such project or activity will—
 

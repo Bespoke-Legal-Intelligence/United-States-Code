@@ -30,7 +30,3 @@ Nothing in this chapter shall preclude the Secretary from—
 
 Section is based on section 806 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3756 of this title.
-

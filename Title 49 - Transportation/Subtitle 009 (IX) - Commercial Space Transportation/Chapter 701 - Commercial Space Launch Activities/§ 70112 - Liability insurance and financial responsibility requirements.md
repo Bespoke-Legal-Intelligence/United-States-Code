@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—(1) When a launch or reentry license is issued or transferred under this chapter, the licensee or transferee shall obtain liability insurance or demonstrate financial responsibility in amounts to compensate for the maximum probable loss from claims by—
+General Requirements.—(1) When a launch or reentry license is issued or transferred under this chapter, the licensee or transferee shall obtain liability insurance or demonstratefinancial responsibility in amounts to compensate for the maximum probable loss from claims by—
 
 &emsp;(A) a third party for death, bodily injury, or property damage or loss resulting from an activity carried out under the license; and
 
@@ -32,7 +32,7 @@ General Requirements.—(1) When a launch or reentry license is issued or transf
 
 Reciprocal Waiver of Claims.—(1) A launch or reentry license issued or transferred under this chapter shall contain a provision requiring the licensee or transferee to make a reciprocal waiver of claims with its contractors, subcontractors, and customers, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees resulting from an activity carried out under the applicable license.
 
-(2) The Secretary of Transportation shall make, for the Government, executive agencies of the Government involved in launch services or reentry services, and contractors and subcontractors involved in launch services or reentry services, a reciprocal waiver of claimswith the licensee or transferee, contractors, subcontractors, and customers of the licensee or transferee, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees resulting from an activity carried out under the applicable license. The waiver applies only to the extent that claims are more than the amount of insurance or demonstration of financial responsibility required under subsection (a)(1)(B) of this section. After consulting with the Administrator and the Secretary of the Air Force, the Secretary of Transportation may waive, for the Government and a department, agency, and instrumentality of the Government, the right to recover damages for damage or loss to Government property to the extent insurance is not available because of a policy exclusion the Secretary of Transportation decides is usual for the type of insurance involved.
+(2) The Secretary of Transportation shall make, for the Government, executive agencies of the Government involved in launch services or reentry services, and contractors and subcontractors involved in launch services or reentry services, a reciprocal waiver of claims with the licensee or transferee, contractors, subcontractors, crew, space flight participants, and customers of the licensee or transferee, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees or by space flight participants, resulting from an activity carried out under the applicable license. The waiver applies only to the extent that claims are more than the amount of insurance or demonstration of financial responsibility required under subsection (a)(1)(B) of this section. After consulting with the Administrator and the Secretary of the Air Force, the Secretary of Transportation may waive, for the Government and a department, agency, and instrumentality of the Government, the right to recover damages for damage or loss to Government property to the extent insurance is not available because of a policy exclusion the Secretary of Transportation decides is usual for the type of insurance involved.
 
 (c)
 
@@ -52,7 +52,7 @@ Launches or Reentries Involving Government Facilities and Personnel.—The Secre
 
 Collection and Crediting Payments.—The head of a department, agency, or instrumentality of the Government shall collect a payment owed for damage or loss to Government property under its jurisdiction or control resulting from an activity carried out under a launch or reentry license issued or transferred under this chapter. The payment shall be credited to the current applicable appropriation, fund, or account of the department, agency, or instrumentality.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1336; Pub. L. 104–287, §5(74), (93), Oct. 11, 1996, 110 Stat. 3396, 3398; Pub. L. 105–303, title I, §102(a)(12), Oct. 28, 1998, 112 Stat. 2850.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1336; Pub. L. 104–287, §5(74), (93), Oct. 11, 1996, 110 Stat. 3396, 3398; Pub. L. 105–303, title I, §102(a)(12), Oct. 28, 1998, 112 Stat. 2850; Pub. L. 108–492, §2(c)(21), Dec. 23, 2004, 118 Stat. 3981.)
 
 Historical and Revision Notes
 
@@ -128,6 +128,8 @@ This amends 49:70112(a)(3)(B) to clarify a cross-reference in the codification e
 
 #### Amendments
 
+2004—Subsec. (b)(2). Pub. L. 108–492 inserted “crew, space flight participants,” after “transferee, contractors, subcontractors,” and “or by space flight participants,” after “its own employees”.
+
 1998—Subsec. (a)(1). Pub. L. 105–303, §102(a)(12)(A), inserted “launch or reentry” before “license is issued”.
 
 Subsec. (a)(3). Pub. L. 105–303, §102(a)(12)(B), inserted “or reentry” after “one launch” in introductory provisions.
@@ -195,8 +197,4 @@ Sections.—The report required by this section shall contain sections expressin
 &emsp;&emsp;“(D) the Office of Space Commercialization; and
 
 &emsp;“(2) the public, received as a result of notice in Commerce Business Daily, the Federal Register, and appropriate Federal agency Internet websites.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 70113 of this title; title 42 section 2458c.
 

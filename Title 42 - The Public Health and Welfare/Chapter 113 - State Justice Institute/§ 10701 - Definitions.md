@@ -36,7 +36,7 @@ As used in this chapter, the term—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title” meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original “this title” meaning title II of Pub. L. 98–620, Nov. 8,1984, 98 Stat. 3336, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note below and Tables.
 
 #### Amendments
 
@@ -46,6 +46,10 @@ This chapter, referred to in text, was in the original “this title” meaning 
 
 Section 216 of title II of Pub. L. 98–620 provided that: “The provisions of this title \[enacting this chapter and amending section 620 of Title 28, Judiciary and Judicial Procedure\] shall take effect on October 1, 1985.”
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–372, §1, Oct. 25, 2004, 118 Stat. 1754, provided that: “This Act \[amending sections 3793, 10703, 10704, and 10713 of this title\] may be cited as the ‘State Justice Institute Reauthorization Act of 2004’.”
+
 #### Short Title
 
 Section 201 of title II of Pub. L. 98–620 provided that: “This title \[enacting this chapter and amending section 620 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘State Justice Institute Act of 1984’.”
@@ -53,8 +57,4 @@ Section 201 of title II of Pub. L. 98–620 provided that: “This title \[enact
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13991, 14036 of this title.
 

@@ -112,7 +112,3 @@ Notwithstanding section 12511(29) of this title, as used in this part, the term 
 
 The Higher Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part C of title IV of the Act is classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20, Education, and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12511 of this title.
-

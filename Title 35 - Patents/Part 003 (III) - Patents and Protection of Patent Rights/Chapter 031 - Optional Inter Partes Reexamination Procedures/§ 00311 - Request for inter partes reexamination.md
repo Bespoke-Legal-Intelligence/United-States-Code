@@ -32,9 +32,5 @@ Chapter effective Nov. 29, 1999, and applicable to any patent issuing from an or
 
 #### Report to Congress
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle F, §4606\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, provided that: “Not later than 5 years after the date of the enactment of this Act \[Nov. 29, 1999\], the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall submit to the Congress a report evaluating whether the inter partes reexamination proceedings established under the amendments made by this subtitle \[see ShortTitle of 1999 Amendment note set out under section 1 of this title\] are inequitable to any of the parties in interest and, if so, the report shall contain recommendations for changes to the amendments made by this subtitle to remove such inequity.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 100, 312 of this title.
+Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle F, §4606\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, provided that: “Not later than 5 years after the date of the enactment of this Act \[Nov. 29, 1999\], the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall submit to the Congress a report evaluating whether the inter partes reexamination proceedings established under the amendments made by this subtitle \[see Short Title of 1999 Amendment note set out under section 1 of this title\] are inequitable to any of the parties in interest and, if so, the report shall contain recommendations for changes to the amendments made by this subtitle to remove such inequity.”
 

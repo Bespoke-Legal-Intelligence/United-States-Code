@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—DEPENDENCY AND INDEMNITY COMPENSATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 107 of this title.
-
 
 ---
 

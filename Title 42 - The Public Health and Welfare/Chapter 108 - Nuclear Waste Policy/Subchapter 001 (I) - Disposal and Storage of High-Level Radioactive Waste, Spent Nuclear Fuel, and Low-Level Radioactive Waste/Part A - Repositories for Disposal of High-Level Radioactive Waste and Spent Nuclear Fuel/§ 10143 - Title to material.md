@@ -4,7 +4,3 @@ Delivery, and acceptance by the Secretary, of any high-level radioactive waste o
 
 (Pub. L. 97–425, title I, §123, Jan. 7, 1983, 96 Stat. 2229.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10222 of this title.
-

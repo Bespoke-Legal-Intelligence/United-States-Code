@@ -4,7 +4,3 @@ As used in this subchapter, the terms “mortgage”, “first mortgage”, “m
 
 (June 27, 1934, ch. 847, title IX, §901, as added Sept. 1, 1951, ch. 378, title II, §201, 65 Stat. 295.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1750g of this title.
-

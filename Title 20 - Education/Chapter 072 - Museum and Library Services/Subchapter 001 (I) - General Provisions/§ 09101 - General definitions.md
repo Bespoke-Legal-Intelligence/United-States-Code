@@ -44,7 +44,7 @@ As used in this chapter:
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688,as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Prior Provisions
 
@@ -64,7 +64,7 @@ Pub. L. 108–81, title V, §506, Sept. 25, 2003, 117 Stat. 1005, provided that:
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–81, §1, Sept. 25, 2003, 117 Stat. 991, provided that: “This Act \[enacting sections 9105a and 9107 to 9109 of this title, amending this section, sections 956a, 974, 1503 to 1505, 9102, 9103, 9106, 9121 to 9123, 9131, 9134, 9141, 9162, 9171 to 9173, and 9176 of this title, and section 170of Title 26, Internal Revenue Code, repealing sections 9174 and 9175 of this title, enacting provisions set out as notes under this section and section 956a of this title, and repealing provisions set out as notes under sections 9102, 9103, and 9105 of this title\] may be cited as the ‘Museum and Library Services Act of 2003’.”
+Pub. L. 108–81, §1, Sept. 25, 2003, 117 Stat. 991, provided that: “This Act \[enacting sections 9105a and 9107 to 9109 of this title, amending this section, sections 956a, 974, 1503 to 1505, 9102, 9103, 9106, 9121 to 9123, 9131, 9134, 9141, 9162, 9171 to 9173, and 9176 of this title, and section 170 of Title 26, Internal Revenue Code, repealing sections 9174 and 9175 of this title, enacting provisions set out as notes under this section and section 956a of this title, and repealing provisions set out as notes under sections 9102, 9103, and 9105 of this title\] may be cited as the ‘Museum and Library Services Act of 2003’.”
 
 #### Short Title of 1997 Amendment
 

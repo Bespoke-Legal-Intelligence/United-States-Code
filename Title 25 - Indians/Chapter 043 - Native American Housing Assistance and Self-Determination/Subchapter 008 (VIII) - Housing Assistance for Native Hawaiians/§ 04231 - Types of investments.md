@@ -24,7 +24,7 @@ Subject to section 4230 of this title and an applicable housing plan approved un
 
 The Director may invest grant amounts for the purposes of carrying out affordable housing activities in investment securities and other obligations, as approved by the Secretary.
 
-(Pub. L. 104–330, title VIII, §812, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2888,and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2982.)
+(Pub. L. 104–330, title VIII, §812, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2888, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2982.)
 
 #### Codification
 

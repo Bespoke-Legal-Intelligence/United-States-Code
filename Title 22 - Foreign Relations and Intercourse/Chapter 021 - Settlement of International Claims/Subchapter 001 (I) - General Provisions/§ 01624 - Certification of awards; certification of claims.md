@@ -20,7 +20,3 @@ International Claims Commission of the United States, including offices of its m
 
 For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1626, 1627 of this title.
-

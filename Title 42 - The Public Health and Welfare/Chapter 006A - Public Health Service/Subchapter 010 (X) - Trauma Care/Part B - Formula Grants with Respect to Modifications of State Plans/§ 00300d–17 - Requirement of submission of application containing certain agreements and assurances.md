@@ -14,7 +14,3 @@ The Secretary may not make payments under section 300d–11(a) of this title to 
 
 (July 1, 1944, ch. 373, title XII, §1217, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2924.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300d–11, 300d–18, 300d–32 of this title.
-

@@ -22,7 +22,7 @@ As used in this subchapter:
 
 (7) The term “counterfeit substance” means a controlled substance which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, number, or device, or any likeness thereof, of a manufacturer, distributor, or dispenser other than the person or persons who in fact manufactured, distributed, or dispensed such substance and which thereby falsely purports or is represented to be the product of, or to have been distributed by, such other manufacturer, distributor, or dispenser.
 
-(8) The terms “deliver” or “delivery” mean the actual, constructive, or attempted transfer of a controlled substance or a listed chemical, whether or not there exists an agency relationship.
+(8) The terms “deliver” or “delivery” mean the actual, constructive, or attempted transferof a controlled substance or a listed chemical, whether or not there exists an agency relationship.
 
 (9) The term “depressant or stimulant substance” means—
 
@@ -46,7 +46,7 @@ As used in this subchapter:
 
 (15) The term “manufacture” means the production, preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of such substance or labeling or relabeling of its container; except that such term does not include the preparation, compounding, packaging, or labeling of a drug or other substance in conformity with applicable State or local law by a practitioner as an incident to his administration or dispensing of such drug or substance in the course of his professional practice. The term “manufacturer” means a person who manufactures a drug or other substance.
 
-(16) The term “marihuana” means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin. Such term does not include the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks\(except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
+(16) The term “marihuana” means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin. Such term does not include the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
 
 (17) The term “narcotic drug” means any of the following whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
 
@@ -176,7 +176,7 @@ As used in this subchapter:
 
 &emsp;(Y) Any salt, optical isomer, or salt of an optical isomer of the chemicals listed in subparagraphs (M) through (U) of this paragraph.
 
-(35) The term “list II chemical” means a chemical (other than a list I chemical) specified by regulation of the Attorney General as a chemical that is used in manufacturing a controlled substance in violation of this subchapter, and such term includes (until otherwise specified by regulation of the Attorney General, as considered appropriate by the Attorney General or upon petition to the Attorney General by any person) the following chemicals:
+(35) The term “list II chemical” means a chemical (other than a list I chemical) specified by regulation of the Attorney General as achemical that is used in manufacturing a controlled substance in violation of this subchapter, and such term includes (until otherwise specified by regulation of the Attorney General, as considered appropriate by the Attorney General or upon petition to the Attorney General by any person) the following chemicals:
 
 &emsp;(A) Acetic anhydride.
 
@@ -216,7 +216,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(iv) any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) unless—
 
-&emsp;&emsp;&emsp;(I)(aa) the drug contains ephedrine or its salts, optical isomers, or salts of opticalisomers, pseudoephedrine or its salts, optical isomers, or salts of optical isomers, or phenylpropanolamine or its salts, optical isomers, or salts of optical isomers unless otherwise provided by regulation of the Attorney General issued pursuant to section 814(e) of this title, except that any sale of ordinary over-the-counter pseudoephedrine or phenylpropanolamine products by retail distributors shall not be a regulated transaction (except as provided in section 401(d) of the Comprehensive Methamphetamine Control Act of 1996); or
+&emsp;&emsp;&emsp;(I)(aa) the drug contains ephedrine or its salts, optical isomers, or salts of optical isomers, pseudoephedrine or its salts, optical isomers, or salts of optical isomers, or phenylpropanolamine or its salts, optical isomers, or salts of optical isomers unless otherwise provided by regulation of the Attorney General issued pursuant to section 814(e) of this title, except that any sale of ordinary over-the-counter pseudoephedrine or phenylpropanolamine products by retail distributors shall not be a regulated transaction (except as provided in section 401(d) of the Comprehensive Methamphetamine Control Act of 1996); or
 
 &emsp;&emsp;&emsp;(bb) the Attorney General has determined under section 814 of this title that the drug or group of drugs is being diverted to obtain the listed chemical for use in the illicit production of a controlled substance; and
 
@@ -228,63 +228,139 @@ As used in this subchapter:
 
 (40) The term “chemical mixture” means a combination of two or more chemical substances, at least one of which is not a list I chemical or a list II chemical, except that such term does not include any combination of a list I chemical or a list II chemical with another chemical that is present solely as an impurity.
 
-(41)(A) The term “anabolic steroid” means any drug or hormonal substance, chemically and pharmacologically related to testosterone (other than estrogens, progestins, and corticosteroids) that promotes muscle growth, and includes—
+(41)(A) The term “anabolic steroid” means any drug or hormonal substance, chemically and pharmacologically related to testosterone (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone), and includes—
 
-&emsp;(i) boldenone,
+&emsp;(i) androstanediol—
 
-&emsp;(ii) chlorotestosterone,
+&emsp;&emsp;(I) 3β,17β-dihydroxy-5α-androstane; and
 
-&emsp;(iii) clostebol,
+&emsp;&emsp;(II) 3α,17β-dihydroxy-5α-androstane;
 
-&emsp;(iv) dehydrochlormethyltestosterone,
+&emsp;(ii) androstanedione (5α-androstan-3,17-dione);
 
-&emsp;(v) dihydrotestosterone,
+&emsp;(iii) androstenediol—
 
-&emsp;(vi) drostanolone,
+&emsp;&emsp;(I) 1-androstenediol (3β,17β-dihydroxy-5α-androst-1-ene);
 
-&emsp;(vii) ethylestrenol,
+&emsp;&emsp;(II) 1-androstenediol (3α,17β-dihydroxy-5α-androst-1-ene);
 
-&emsp;(viii) fluoxymesterone,
+&emsp;&emsp;(III) 4-androstenediol (3β,17β-dihydroxy-androst-4-ene); and
 
-&emsp;(ix) formebulone,
+&emsp;&emsp;(IV) 5-androstenediol (3β,17β-dihydroxy-androst-5-ene);
 
-&emsp;(x) mesterolone,
+&emsp;(iv) androstenedione—
 
-&emsp;(xi) methandienone,
+&emsp;&emsp;(I) 1-androstenedione (\[5α\]-androst-1-en-3,17-dione);
 
-&emsp;(xii) methandranone,
+&emsp;&emsp;(II) 4-androstenedione (androst-4-en-3,17-dione); and
 
-&emsp;(xiii) methandriol,
+&emsp;&emsp;(III) 5-androstenedione (androst-5-en-3,17-dione);
 
-&emsp;(xiv) methandrostenolone,
+&emsp;(v) bolasterone (7α,17α-dimethyl-17β-hydroxyandrost-4-en-3-one);
 
-&emsp;(xv) methenolone,
+&emsp;(vi) boldenone (17β-hydroxyandrost-1,4,-diene-3-one);
 
-&emsp;(xvi) methyltestosterone,
+&emsp;(vii) calusterone (7β,17α-dimethyl-17β-hydroxyandrost-4-en-3-one);
 
-&emsp;(xvii) mibolerone,
+&emsp;(viii) clostebol (4-chloro-17β-hydroxyandrost-4-en-3-one);
 
-&emsp;(xviii) nandrolone,
+&emsp;(ix) dehydrochloromethyltestosterone (4-chloro-17β-hydroxy-17α-methyl-androst-1,4-dien-3-one);
 
-&emsp;(xix) norethandrolone,
+&emsp;(x) Δ1-dihydrotestosterone (a.k.a. “1-testosterone”) (17β-hydroxy-5α-androst-1-en-3-one);
 
-&emsp;(xx) oxandrolone,
+&emsp;(xi) 4-dihydrotestosterone (17β-hydroxy-androstan-3-one);
 
-&emsp;(xxi) oxymesterone,
+&emsp;(xii) drostanolone (17β-hydroxy-2α-methyl-5α-androstan-3-one);
 
-&emsp;(xxii) oxymetholone,
+&emsp;(xiii) ethylestrenol (17α-ethyl-17β-hydroxyestr-4-ene);
 
-&emsp;(xxiii) stanolone,
+&emsp;(xiv) fluoxymesterone (9-fluoro-17α-methyl-11β,17β-dihydroxyandrost-4-en-3-one);
 
-&emsp;(xxiv) stanozolol,
+&emsp;(xv) formebolone (2-formyl-17α-methyl-11α,17β-dihydroxyandrost-1,4-dien-3-one);
 
-&emsp;(xxv) testolactone,
+&emsp;(xvi) furazabol (17α-methyl-17β-hydroxyandrostano\[2,3-c\]-furazan);
 
-&emsp;(xxvi) testosterone,
+&emsp;(xvii) 13β-ethyl-17α-hydroxygon-4-en-3-one;
 
-&emsp;(xxvii) trenbolone, and
+&emsp;(xviii) 4-hydroxytestosterone (4,17β-dihydroxy-androst-4-en-3-one);
 
-&emsp;(xxviii) any salt, ester, or isomer of a drug or substance described or listed in this paragraph, if that salt, ester, or isomer promotes muscle growth.
+&emsp;(xix) 4-hydroxy-19-nortestosterone (4,17β-dihydroxy-estr-4-en-3-one);
+
+&emsp;(xx) mestanolone (17α-methyl-17β-hydroxy-5α-androstan-3-one);
+
+&emsp;(xxi) mesterolone (1α-methyl-17β-hydroxy-\[5α\]-androstan-3-one);
+
+&emsp;(xxii) methandienone (17α-methyl-17β-hydroxyandrost-1,4-dien-3-one);
+
+&emsp;(xxiii) methandriol (17α-methyl-3β,17β-dihydroxyandrost-5-ene);
+
+&emsp;(xxiv) methenolone (1-methyl-17β-hydroxy-5α-androst-1-en-3-one);
+
+&emsp;(xxv) 17α-methyl-3β, 17β-dihydroxy-5α-androstane;
+
+&emsp;(xxvi) 17α-methyl-3α,17β-dihydroxy-5α-androstane;
+
+&emsp;(xxvii) 17α-methyl-3β,17β-dihydroxyandrost-4-ene.
+
+&emsp;(xxviii) 17α-methyl-4-hydroxynandrolone (17α-methyl-4-hydroxy-17β-hydroxyestr-4-en-3-one);
+
+&emsp;(xxix) methyldienolone (17α-methyl-17β-hydroxyestra-4,9(10)-dien-3-one);
+
+&emsp;(xxx) methyltrienolone (17α-methyl-17β-hydroxyestra-4,9-11-trien-3-one);
+
+&emsp;(xxxi) methyltestosterone (17α-methyl-17β-hydroxyandrost-4-en-3-one);
+
+&emsp;(xxxii) mibolerone (7α,17α-dimethyl-17β-hydroxyestr-4-en-3-one);
+
+&emsp;(xxxiii) 17α-methyl-Δ1-dihydrotestosterone (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one) (a.k.a. “17-α-methyl-1-testosterone”);
+
+&emsp;(xxxiv) nandrolone (17β-hydroxyestr-4-en-3-one);
+
+&emsp;(xxxv) norandrostenediol—
+
+&emsp;&emsp;(I) 19-nor-4-androstenediol (3β, 17β-dihydroxyestr-4-ene);
+
+&emsp;&emsp;(II) 19-nor-4-androstenediol (3α, 17β-dihydroxyestr-4-ene);
+
+&emsp;&emsp;(III) 19-nor-5-androstenediol (3β, 17β-dihydroxyestr-5-ene); and
+
+&emsp;&emsp;(IV) 19-nor-5-androstenediol (3α, 17β-dihydroxyestr-5-ene);
+
+&emsp;(xxxvi) norandrostenedione—
+
+&emsp;&emsp;(I) 19-nor-4-androstenedione (estr-4-en-3,17-dione); and
+
+&emsp;&emsp;(II) 19-nor-5-androstenedione (estr-5-en-3,17-dione;
+
+&emsp;(xxxvii) norbolethone (13β,17α-diethyl-17β-hydroxygon-4-en-3-one);
+
+&emsp;(xxxviii) norclostebol (4-chloro-17β-hydroxyestr-4-en-3-one);
+
+&emsp;(xxxix) norethandrolone (17α-ethyl-17β-hydroxyestr-4-en-3-one);
+
+&emsp;(xl) normethandrolone (17α-methyl-17β-hydroxyestr-4-en-3-one);
+
+&emsp;(xli) oxandrolone (17α-methyl-17β-hydroxy-2-oxa-\[5α\]-androstan-3-one);
+
+&emsp;(xlii) oxymesterone (17α-methyl-4,17β-dihydroxyandrost-4-en-3-one);
+
+&emsp;(xliii) oxymetholone (17α-methyl-2-hydroxymethylene-17β-hydroxy-\[5α\]-androstan-3-one);
+
+&emsp;(xliv) stanozolol (17α-methyl-17α-hydroxy-\[5α\]-androst-2-eno\[3,2-c\]-pyrazole);
+
+&emsp;(xlv) stenbolone (17β-hydroxy-2-methyl-\[5α\]-androst-1-en-3-one);
+
+&emsp;(xlvi) testolactone (13-hydroxy-3-oxo-13,17-secoandrosta-1,4-dien-17-oic acid lactone);
+
+&emsp;(xlvii) testosterone (17β-hydroxyandrost-4-en-3-one);
+
+&emsp;(xlviii) tetrahydrogestrinone (13β,17α-diethyl-17β-hydroxygon-4,9,11-trien-3-one);
+
+&emsp;(xlix) trenbolone (17β-hydroxyestr-4,9,11-trien-3-one); and
+
+&emsp;(xlx) <sup>1</sup> any salt, ester, or ether of a drug or substance described in this paragraph.
+
+> The substances excluded under this subparagraph may at any time be scheduled by the Attorney General in accordance with the authority and requirements of subsections (a) through (c) of section 811 of this title.
 
 (B)(i) Except as provided in clause (ii), such term does not include an anabolic steroid which is expressly intended for administration through implants to cattle or other nonhuman species and which has been approved by the Secretary of Health and Human Services for such administration.
 
@@ -300,7 +376,7 @@ As used in this subchapter:
 
 &emsp;(C) bringing together a buyer and seller, a buyer and transporter, or a seller and transporter.
 
-(44) The term “felony drug offense” means an offense that is punishable by imprisonment for more than one year under any law of the United States or of a State or foreign country that prohibits or restricts conduct relating to narcotic drugs, marihuana, or depressant or stimulant substances.
+(44) The term “felony drug offense” means an offense that is punishable by imprisonment for more than one year under any law of the United States or of a State or foreign country that prohibits or restricts conduct relating to narcotic drugs, marihuana, anabolic steroids, or depressant or stimulant substances.
 
 (45) The term “ordinary over-the-counter pseudoephedrine or phenylpropanolamine product” means any product containing pseudoephedrine or phenylpropanolamine that is—
 
@@ -322,7 +398,7 @@ As used in this subchapter:
 
 &emsp;(iii) A drug store is an entity within SIC code 5912.
 
-(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808.)
+(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661.)
 
 #### References in Text
 
@@ -337,6 +413,10 @@ The Federal Food, Drug, and Cosmetic Act, referred to in par. (39)(A)(iv), is ac
 Section 401(d) of the Comprehensive Methamphetamine Control Act of 1996, referred to in par. (39)(A)(iv)(I)(aa), is section 401(d) of Pub. L. 104–237, which is set out below.
 
 #### Amendments
+
+2004—Par. (41). Pub. L. 108–358, §2(a)(1), realigned margins, added subpar. (A), and struck out former subpar. (A) which defined “anabolic steroid”.
+
+Par. (44). Pub. L. 108–358, §2(a)(2), inserted “anabolic steroids,” after “marihuana,”.
 
 2002—Pars. (43), (44). Pub. L. 107–273 repealed Pub. L. 104–294, §§604(b)(4), 607(j)(2). See 1996 Amendment note below.
 
@@ -463,6 +543,10 @@ Par. (30). Pub. L. 98–473, §507(a), redesignated former par. (29) as (30).
 #### Change of Name
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (24) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–358, §2(d), Oct. 22, 2004, 118 Stat. 1664, provided that: “The amendments made by this section \[amending this section, section 811 of this title, and provisions set out as a note under this section\] shall take effect 90 days after the date of enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 2002 Amendment
 
@@ -608,7 +692,7 @@ Significant number of instances.—
 
 &emsp;&emsp;“(A)
 
-In general.—For purposes of this subsection, isolated or infrequent use, or use in insubstantial quantities, of ordinary over-the-counter pseudoephedrine or phenylpropanolamine, as defined in section 102(45) of the Controlled Substances Act, as added by section 401(b) of this Act, and sold at the retail level for the illicit manufacture of methamphetamine or amphetamine may not be used by the Attorney General as the basis for establishing the conditions under paragraph (1)(A)(ii) of this subsection, with respect to pseudoephedrine, and paragraph (2)(A)(ii) of this subsection, with respect to phenylpropanolamine.
+In general.—For purposes of this subsection, isolated or infrequent use, or use in insubstantial quantities, of ordinary over-the-counter pseudoephedrine or phenylpropanolamine, as defined in section 102(45) of the Controlled Substances Act, as added by section 401(b) of this Act, and sold at the retail level for the illicit manufacture of methamphetamine or amphetamine may not beused by the Attorney General as the basis for establishing the conditions under paragraph (1)(A)(ii) of this subsection, with respect to pseudoephedrine, and paragraph (2)(A)(ii) of this subsection, with respect to phenylpropanolamine.
 
 &emsp;&emsp;“(B)
 
@@ -646,7 +730,7 @@ In general.—For the purposes of this section, combination ephedrine products s
 
 &emsp;&emsp;&emsp;“(ii) a threshold other than the threshold described in clause (i), if established by the Attorney General not earlier than 1 year after the date of enactment of this Act; and
 
-&emsp;&emsp;“(C) the penalties provided in subsection (d)(1)(B) of this section shall take effect on the date of enactment of this Act for any individual or businessthat violates the single transaction limit of 24 grams for combination ephedrine products.
+&emsp;&emsp;“(C) the penalties provided in subsection (d)(1)(B) of this section shall take effect on the date of enactment of this Act for any individual or business that violates the single transaction limit of 24 grams for combination ephedrine products.
 
 &emsp;“(2)
 
@@ -654,13 +738,9 @@ Definition.—For the purposes of this section, the term ‘combination ephedrin
 
 #### Exemption for Substances in Paragraph (41)
 
-Section 1903 of Pub. L. 101–647 provided that:
+Pub. L. 101–647, title XIX, §1903, Nov. 29, 1990, 104 Stat. 4853, as amended by Pub. L. 108–358, §2(c), Oct. 22, 2004, 118 Stat. 1663, provided that:
 
 “(a)
-
-Abuse Potential.—The Attorney General, upon the recommendation of the Secretary of Health and Human Services, may, by regulation, exempt any compound, mixture, or preparation containing a substance in paragraph (41) of section 102 of the Controlled Substances Act \[21 U.S.C. 802(41)\] (as added by section 2 \[1902\] of this Act) from the application of all or any part of the Controlled Substances Act \[21 U.S.C. 801 et seq.\] if, because of its concentration, preparation, mixture or delivery system, it has no significant potential for abuse.
-
-“(b)
 
 Drugs for Treatment of Rare Diseases.—If the Attorney General finds that a drug listed in paragraph (41) of section 102 of the Controlled Substances Act (as added by section 2 \[1902\] of this Act) is—
 
@@ -668,11 +748,9 @@ Drugs for Treatment of Rare Diseases.—If the Attorney General finds that a dru
 
 &emsp;“(2) does not have a significant potential for abuse, the Attorney General may exempt such drug from any production regulations otherwise issued under the Controlled Substances Act as may be necessary to ensure adequate supplies of such drug for medical purposes.
 
-“(c)
+“(b)
 
-Date of Issuance of Regulations.—The Attorney General shall issue regulations implementing this section not later than 45 days after the date of enactment of this Act \[Nov. 29, 1990\], except that the regulations required under section 3(a) \[1903(a)\] shall be issued not later than 180 days after the date of enactment of this Act.”
+Date of Issuance of Regulations.—The Attorney General shall issue regulations implementing this section not later than 45 days after the date of enactment of this Act \[Nov. 29, 1990\], except that the regulations required under section 3(a) \[former 1903(a)\] shall be issued not later than 180 days after the date of enactment of this Act.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 384, 814, 822, 823, 830, 862a, 889, 951, 956, 957, 958, 967, 1115, 1701, 1907 of this title; title 7 sections 2015, 2021; title 8 sections 1101, 1182, 1227; title 10 section 986; title 16 section 559b; title 18 sections 175b, 342, 521, 842, 922, 924, 1791, 1952, 1961, 2118, 3142, 3563, 3592; title 19 sections 1401, 1584, 1607; title 20 section 1091; title 22 sections 2291, 2708, 2714; title 23 section 410; title 25 section 4103; title 29 sections 1111, 1854, 2892; title 42 sections 201, 1437a, 1437d, 1437f, 1786, 2000e–2, 2473c, 3602, 3607, 5667, 5667a, 9601, 9919, 11851, 11905, 11924, 12602; title 46 section 2101; title 46 App. section 1903; title 48 sections 1902, 1903; title 49 sections 5331, 20140, 30301, 31102, 31301, 31306, 44106, 44111, 44703, 44710, 44713, 45101, 46306, 46317, 80302.
+<i><sup>1</sup></i><i> So in original. Probably should be “(l)”.</i>
 

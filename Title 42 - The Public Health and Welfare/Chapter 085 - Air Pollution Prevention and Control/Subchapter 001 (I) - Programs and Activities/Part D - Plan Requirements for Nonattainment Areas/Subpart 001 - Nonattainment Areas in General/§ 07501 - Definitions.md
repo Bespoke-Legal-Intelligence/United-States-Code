@@ -16,7 +16,7 @@ Nonattainment area.—The term “nonattainment area” means, for any air pollu
 
 &emsp;&emsp;(B) the most stringent emission limitation which is achieved in practice by such class or category of source, whichever is more stringent.
 
-> &emsp;In no event shall the application of this term permit a proposed new or modified source to emit any pollutant in excess of the amount allowable under applicable new source standards of performance.
+> &emsp;In no event shall the application of this term permit a proposed new or modified source toemit any pollutant in excess of the amount allowable under applicable new source standards of performance.
 
 &emsp;(4) The terms “modifications” and “modified” mean the same as the term “modification” as used in section 7411(a)(4) of this title.
 
@@ -35,8 +35,4 @@ Pars. (1), (2). Pub. L. 101–549, §102(a)(2)(B), (C), amended pars. (1) and (2
 #### Effective Date
 
 Part effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7410, 7412, 7503, 7513a of this title; title 49 sections 40117, 47102, 47136, 47140.
 

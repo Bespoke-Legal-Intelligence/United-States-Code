@@ -26,9 +26,5 @@ Centers for Disease Control changed to Centers for Disease Control and Preventio
 
 Section effective upon expiration of 2 years after Oct. 24, 1992, see section 9 of Pub. L. 102–493, set out as a note under section 263a–1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 263a–6, 263a–7 of this title.
-
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

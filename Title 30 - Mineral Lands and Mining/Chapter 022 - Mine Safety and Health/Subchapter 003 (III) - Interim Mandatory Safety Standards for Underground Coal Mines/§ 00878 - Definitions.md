@@ -54,13 +54,9 @@ For the operative date of this subchapter, referred to in par. (i), see section 
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in par. (i) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title.
+“United States Bureau of Mines” substituted for “Bureau of Mines” in par. (i) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–164 effective Nov. 9, 1977, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 841, 861 of this title.
 

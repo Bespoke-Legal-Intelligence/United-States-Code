@@ -34,7 +34,3 @@ Section 7 of Pub. L. 91–652, as amended by Pub. L. 92–226, pt. IV, §408, Fe
 
 “(b) Military and economic assistance provided by the United States to Cambodia and authorized or appropriated pursuant to this or any other Act shall not be construed as a commitment by the United States to Cambodia for its defense.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2318 of this title.
-

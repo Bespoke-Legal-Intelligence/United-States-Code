@@ -16,7 +16,7 @@
 
 (f) A civil action involving an application for the issuance of an order making confidential information available under section 777(c)(2) of the Tariff Act of 1930 is barred unless commenced in accordance with the rules of the Court of International Trade within ten days after the date of the denial of the request for such confidential information.
 
-(g) A civil action contesting the denial or revocation by the Secretary of the Treasury of a customs broker's license or permit under subsection (b) or (c) of section 641 of the Tariff Act of 1930, or the revocation or suspension of such license or permit or the imposition of a monetary penalty in lieu thereof by such Secretary under section 641(d) of such Act, is barred unless commenced in accordance with the rules of the Court of International Trade within sixty days after the date of the entry of the decision or order of such Secretary.
+(g) A civil action contesting the denial or revocation by the Secretary of the Treasury of a customs broker's license or permit under subsection (b) or (c) of section 641 of the Tariff Act of 1930, or the revocation or suspension of such license or permit or the imposition of a monetary penalty in lieu thereof by such Secretary under section 641(d) of such Act, is barred unless commenced in accordance with the rules of theCourt of International Trade within sixty days after the date of the entry of the decision or order of such Secretary.
 
 (h) A civil action contesting the denial, suspension, or revocation by the Customs Service of a private laboratory's accreditation under section 499(b) of the Tariff Act of 1930 is barred unless commenced in accordance with the rules of the Court of International Trade within 60 days after the date of the decision or order of the Customs Service.
 
@@ -32,7 +32,7 @@ Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified
 
 Section 516A of the Tariff Act of 1930, referred to in subsec. (c), is classified to section 1516a of Title 19.
 
-Sections 223, 251, and 271 of the Trade Act of 1974, referred to in subsec. (d), are classified to sections 2273,2341, and 2371, respectively, of Title 19, Customs Duties. Section 2371 of Title 19 was omitted from the Code as terminated Sept. 30, 1982.
+Sections 223, 251, and 271 of the Trade Act of 1974, referred to in subsec. (d), are classified to sections 2273, 2341, and 2371, respectively, of Title 19, Customs Duties. Section 2371 of Title 19 was omitted from the Code as terminated Sept. 30, 1982.
 
 Section 305(b)(1) of the Trade Agreements Act of 1979, referred to in subsec. (e), is classified to section 2515(b)(1) of Title 19.
 
@@ -79,8 +79,4 @@ For purposes of applying amendment by Pub. L. 103–182, any decision or order o
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 19 sections 1514, 1515.
 

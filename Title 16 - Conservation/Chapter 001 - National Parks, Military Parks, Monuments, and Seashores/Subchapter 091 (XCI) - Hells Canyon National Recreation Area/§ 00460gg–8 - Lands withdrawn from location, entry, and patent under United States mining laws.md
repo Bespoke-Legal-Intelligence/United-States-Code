@@ -8,7 +8,3 @@ Notwithstanding the provisions of section 1133(d)(2) of this title and subject t
 
 The mining laws of the United States, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460gg–1 of this title.
-

@@ -4,7 +4,3 @@ The district courts shall have original jurisdiction of all civil actions, broug
 
 (Added Pub. L. 89–635, §1, Oct. 10, 1966, 80 Stat. 880.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 25 section 1725.
-

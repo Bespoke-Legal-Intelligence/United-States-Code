@@ -116,9 +116,5 @@ Provisions similar to this section were contained in section 2341 of this title,
 
 A prior section 2351, Pub. L. 88–210, title III, §301, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2457, related to applications by community-based organizations, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2302, 2322, 2353 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

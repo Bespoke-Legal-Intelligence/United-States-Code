@@ -6,7 +6,7 @@ In General.—Whoever knowingly develops, produces, stockpiles, transfers, acqui
 
 (b)
 
-Additional Offense.—Whoever knowingly possesses any biological agent, toxin, or delivery system of a type or in a quantity that, under the circumstances, is not reasonably justified by a prophylactic, protective, bona fide research, or other peaceful purpose, shall be fined under this title, imprisoned not more than 10 years, or both. In this subsection, the terms “biological agent” and “toxin” do not encompass any biological agent or toxin that is in its naturally occurring environment, if the biological agent or toxin has not been cultivated, collected, or otherwise extracted from its natural source.
+Additional Offense.—Whoever knowingly possesses any biological agent, toxin, or delivery system of a type or in a quantity that, under the circumstances, is not reasonably justified by a prophylactic, protective, bona fide research, or other peaceful purpose, shall be fined under thistitle, imprisoned not more than 10 years, or both. In this subsection, the terms “biological agent” and “toxin” do not encompass any biological agent or toxin that is in its naturally occurring environment, if the biological agent or toxin has not been cultivated, collected, or otherwise extracted from its natural source.
 
 (c)
 
@@ -45,8 +45,4 @@ Purpose.—The purpose of this Act \[see Short Title note above\] is to—
 “(b)
 
 Intent of Act.—Nothing in this Act is intended to restrain or restrict peaceful scientific research or development.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 175a, 176, 177, 2332b, 2339, 2339A, 2516 of this title; title 10 section 382; title 38 section 6105.
 

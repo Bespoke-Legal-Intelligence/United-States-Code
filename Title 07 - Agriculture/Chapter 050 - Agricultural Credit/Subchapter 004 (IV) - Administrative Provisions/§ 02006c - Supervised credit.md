@@ -8,7 +8,3 @@ The Secretary shall provide adequate training to employees of the Farmers Home A
 
 (Pub. L. 87–128, title III, §361, as added Pub. L. 101–624, title XVIII, §1820, Nov. 28, 1990, 104 Stat. 3830.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1949 of this title.
-

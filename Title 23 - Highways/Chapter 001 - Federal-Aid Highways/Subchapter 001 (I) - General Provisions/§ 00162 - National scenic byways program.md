@@ -50,7 +50,7 @@ Eligible Projects.—The following are projects that are eligible for Federal as
 
 &emsp;(4) Construction along a scenic byway of a facility for pedestrians and bicyclists, rest area, turnout, highway shoulder improvement, passing lane, overlook, or interpretive facility.
 
-&emsp;(5) An improvement to a scenic byway that will enhance access to an area for the purpose of recreation, including water-related recreation.
+&emsp;(5) An improvement to a scenic byway that will enhance access to an area for the purposeof recreation, including water-related recreation.
 
 &emsp;(6) Protection of scenic, historical, recreational, cultural, natural, and archaeological resources in an area adjacent to a scenic byway.
 

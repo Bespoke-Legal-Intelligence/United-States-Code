@@ -58,13 +58,9 @@ Section 169 of Pub. L. 97–164 provided that: “Nothing in this Act \[see Shor
 
 #### Transition Provisions: Transfer of Pending Cases
 
-Section 403 of Pub. L. 97–164 provided for transfer of cases or matters pending on Oct. 1, 1982, before Court of Claims or United States Court of Customs and Patent Appeals to United States Court of Appeals for the Federal Circuit, directed that petitions for rehearing, reconsideration, or other changes in decisions of Court of Claims or United States Court of Customs and Patent Appeals rendered prior to such date be determined by United States Court of Appeals for the Federal Circuit,directed that matters pending before Commissioners of United States Court of Claims on such date be determined by United States Claims Court \[now United States Court of Federal Claims\], and directed that any case in which notice of appeal had been filed in district court of United States prior to such date would be decided by court of appeals to which the appeal was taken.
+Section 403 of Pub. L. 97–164 provided for transfer of cases or matters pending on Oct. 1, 1982, before Court of Claims or United States Court of Customs and Patent Appeals to United States Court of Appeals for the Federal Circuit, directed that petitions for rehearing, reconsideration, or other changes in decisions of Court of Claims or United States Court of Customs and Patent Appeals rendered prior to such date be determined by United States Court of Appeals for the Federal Circuit, directed that matters pending before Commissioners of United States Court of Claims on such date be determined by United States Claims Court \[now United States Court of Federal Claims\], and directed that any case in which notice of appeal had been filed in district court of United States prior to such date would be decided by court of appeals to which the appeal was taken.
 
 #### Congressional Statement Regarding Appointment of Judges
 
 For Congressional suggestion that the President select nominees for judgeships on the Claims Court \[now Court of Federal Claims\] and the Court of Appeals for the Federal Circuit from a broad range of qualified individuals, see section 168 of Pub. L. 97–164, set out as a note under section 44 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 178, 797 of this title.
 

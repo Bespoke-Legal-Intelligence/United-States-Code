@@ -12,7 +12,3 @@ For the purposes of sections 450rr to 450rr–6 of this title, the term—
 
 (Pub. L. 99–513, §3, Oct. 21, 1986, 100 Stat. 2082.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450rr, 450rr–3, 450rr–4, 450rr–6 of this title.
-

@@ -22,7 +22,3 @@ The Secretary shall determine under subsection (a) of this section that a facili
 
 (Pub. L. 102–440, title I, §107, Oct. 23, 1992, 106 Stat. 2228.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4903, 4909 of this title.
-

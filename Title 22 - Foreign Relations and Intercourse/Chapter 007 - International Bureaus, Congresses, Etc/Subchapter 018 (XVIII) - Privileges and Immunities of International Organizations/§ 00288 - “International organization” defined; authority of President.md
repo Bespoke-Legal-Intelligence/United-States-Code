@@ -22,7 +22,7 @@ In General.—The President shall ensure that the Government of the United State
 
 “(b)
 
-Representation by the Secretary.—The Secretary of Agriculture shall represent the Governmentof the United States as a member of the International Cotton Advisory Committee and shall delegate the primary responsibility to represent the Government of the United States to appropriately qualified individuals.”
+Representation by the Secretary.—The Secretary of Agriculture shall represent the Government of the United States as a member of the International Cotton Advisory Committee and shall delegate the primary responsibility to represent the Government of the United States to appropriately qualified individuals.”
 
 #### Administrative Supplies for International Organizations
 
@@ -184,6 +184,8 @@ United Nations Educational, Scientific, and Cultural Organization, Ex. Ord. No. 
 
 United Nations Industrial Development Organization, Ex. Ord. No. 12628, Mar. 8, 1988, 53 F.R. 7725.
 
+United States-Mexico Border Health Commission, Ex. Ord. No. 13367, Dec. 21, 2004, 69 F.R. 77605.
+
 Universal Postal Union, Ex. Ord. No. 10727, Aug. 31, 1957, 22 F.R. 7099.
 
 World Health Organization, Ex. Ord. No. 10025, Dec. 30, 1948, 13 F.R. 9361.
@@ -223,8 +225,4 @@ United Nations Relief and Rehabilitation Administration, Ex. Ord. No. 9698, Feb.
 #### Revocation of Executive Order Nos. 9721 and 10103
 
 Ex. Ord. No. 9721, May 10, 1946, 11 F.R. 5209, as amended by Ex. Ord. No. 10103, Feb. 1, 1950, 15 F.R. 597, which provided for the transfer of Federal Government personnel to public international organizations, was revoked with certain savings provisions by section 2 of Ex. Ord. No. 10804, Feb. 12, 1959, 24 F.R. 1147, and subsequently revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7622 of this title; title 8 section 1401; title 10 section 130c; title 15 sections 78dd–1, 78dd–2, 78dd–3; title 16 section 6104; title 18 sections 831, 1116.
 

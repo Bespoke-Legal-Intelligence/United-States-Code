@@ -24,7 +24,7 @@ For purposes of subsection (a) of this section, the importation of the natural g
 
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of Energy and Commission, Commissioners, or other official in Federal Energy Regulatory Commission related to compliance with authorizations for importation of natural gas from Alberta as predeliveries of Alaskan gas issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to the Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(d), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out asan Abolition of Office of Federal Inspector note under section 719e of this title.
+Enforcement functions of Secretary or other official in Department of Energy and Commission, Commissioners, or other official in Federal Energy Regulatory Commission related to compliance with authorizations for importation of natural gas from Alberta as pre-deliveries of Alaskan gas issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to the Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(d), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
 Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
@@ -55,8 +55,4 @@ Sec. 3. The Secretary of Energy is authorized to issue such rules and regulation
 Sec. 4. All Presidential Permits heretofore issued pursuant to Executive Order No. 8202 of July 13, 1939, and in force at the time of the issuance of this order, and all permits issued hereunder, shall remain in full force and effect until modified or revoked by the President or by the Secretary of Energy.
 
 Sec. 5. Executive Order No. 8202 of July 13, 1939, is hereby revoked.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 60104.
 

@@ -14,7 +14,7 @@
 
 (2) The Secretary (A) shall provide the services described in clause (iii) of paragraph (1) for homeowners assisted under section 235 of the National Housing Act \[12 U.S.C. 1715z\]; (B) shall, in consultation with the Secretary of Agriculture, provide such services for borrowers who are first-time homebuyers with guaranteed loans under section 502(h) of the Housing Act of 1949 \[42 U.S.C. 1472(h)\]; and (C) may provide such services for other owners of single family dwelling units insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] or guaranteed or insured under chapter 37 of title 38. For purposes of this paragraph and clause (iii) of paragraph (1), the Secretary may provide the services described in such clause directly or may enter into contracts with, make grants to, and provide other types of assistance to private or public organizations with special competence and knowledge in counseling low- and moderate-income families to provide such services.
 
-(3) There is authorized to be appropriated for the purposes of this subsection, without fiscal year limitation, such sums as may be necessary; except that for such purposes there are authorized to be appropriated $6,025,000 for fiscal year 1993 and $6,278,050 for fiscal year 1994. Of the amounts appropriated for each of fiscal years 1993 and 1994, up to $500,000 shall be available for use for counseling and other activities in connection with the demonstration program under section 152 of the Housing and Community Development Act of 1992. Any amounts so appropriated shall remain available until expended.
+(3) There is authorized to be appropriated for the purposes of this subsection, without fiscal year limitation, such sums as may be necessary; except that for such purposes there are authorized to be appropriated $6,025,000 for fiscal year 1993 and $6,278,050 for fiscal year 1994. Of the amounts appropriated for each of fiscal years 1993 and 1994, up to $500,000 shall be available for use for counseling and other activities in connection with the demonstration program undersection 152 of the Housing and Community Development Act of 1992. Any amounts so appropriated shall remain available until expended.
 
 #### (b) Loans to nonprofit organizations or public housing agencies; purpose and terms; repayment; authorization of appropriations; deposit of appropriations in Low and Moderate Income Sponsor Fund
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(ii) are not already adequately served by homeownership counseling organizations; and
 
-&emsp;&emsp;&emsp;(iii) have a high incidence of mortgages involving principal obligations (includingsuch initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the properties that are insured pursuant to section 203 of the National Housing Act \[12 U.S.C. 1709\]; and
+&emsp;&emsp;&emsp;(iii) have a high incidence of mortgages involving principal obligations (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the properties that are insured pursuant to section 203 of the National Housing Act \[12 U.S.C. 1709\]; and
 
 &emsp;&emsp;(B) to inform the public of the availability of the homeownership counseling.
 
@@ -503,8 +503,4 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 #### Regulations
 
 Section 162(e) of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any regulations necessary to carry out the amendments made by subsection (d) \[amending this section\], not later than the expiration of the 6-month period beginning on the date of the enactment of this Act \[Oct. 28, 1992\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1715z–20 of this title; title 42 sections 1472, 3535, 9816.
 

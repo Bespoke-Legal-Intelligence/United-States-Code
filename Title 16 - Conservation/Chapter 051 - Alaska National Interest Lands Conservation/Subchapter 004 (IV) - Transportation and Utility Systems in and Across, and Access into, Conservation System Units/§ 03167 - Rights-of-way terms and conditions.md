@@ -32,7 +32,3 @@ In the case of a pipeline described in section 185(a) of title 30, a right-of-wa
 
 (Pub. L. 96–487, title XI, §1107, Dec. 2, 1980, 94 Stat. 2463.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410hh of this title.
-

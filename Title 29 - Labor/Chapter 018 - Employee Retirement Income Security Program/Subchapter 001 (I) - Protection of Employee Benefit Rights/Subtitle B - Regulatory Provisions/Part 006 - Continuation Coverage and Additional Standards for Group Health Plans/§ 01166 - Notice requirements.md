@@ -36,7 +36,7 @@ The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch
 
 1996—Subsec. (a)(3). Pub. L. 104–191 substituted “at any time during the first 60 days of continuation coverage under this part” for “at the time of a qualifying event described in section 1163(2) of this title”.
 
-1989—Pub. L. 101–239, §7891(d)(1)(A)(ii), designated first sentence as subsec. (a), added subsec. (b), designated second sentence as subsec. (c), and substituted“For purposes of subsection (a)(4) of this section” for “For purposes of paragraph (4)”.
+1989—Pub. L. 101–239, §7891(d)(1)(A)(ii), designated first sentence as subsec. (a), added subsec. (b), designated second sentence as subsec. (c), and substituted “For purposes of subsection (a)(4) of this section” for “For purposes of paragraph (4)”.
 
 Pub. L. 101–239, §7891(d)(1)(A)(i)(II), inserted in last sentence “(or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan)” after “14 days”.
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 104–191 effective Jan. 1, 1997, regardless of whether qua
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 6703(c) of Pub. L. 101–239 applicable to plan years beginning on or after Dec. 19, 1989, regardless of whether the qualifying event occurred before, on, or after such date, see section 6703(d) of Pub. L. 101–239, set out as a note under section 1162 of this title.
+Amendment by section 6703(c) of Pub. L. 101–239 applicable to plan years beginning on or after Dec. 19, 1989,regardless of whether the qualifying event occurred before, on, or after such date, see section 6703(d) of Pub. L. 101–239, set out as a note under section 1162 of this title.
 
 Amendment by section 7891(d)(1)(A) of Pub. L. 101–239 applicable with respect to plan years beginning on or after Jan. 1, 1990, see section 7891(d)(1)(C) of Pub. L. 101–239, set out as a note under section 4980B of Title 26, Internal Revenue Code.
 
@@ -73,8 +73,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Notification to Covered Employees
 
 Section 10002(e) of Pub. L. 99–272 provided that: “At the time that the amendments made by this section \[enacting this part and amending section 1132 of this title\] apply to a group health plan (within the meaning of section 607(1) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1167(1)\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under part 6 of subtitle B of title I of such Act \[this part\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 606(1) of such Act \[29 U.S.C. 1166(1)\] with respect to such individuals.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1132, 1162, 1165, 1167 of this title.
 

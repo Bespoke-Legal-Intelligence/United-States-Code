@@ -48,7 +48,7 @@
 | (d) | Statutory authorities relating to national forests. |
 | (e) | Cooperative agreements with State and local governments. |
 | [1282\.](%C2%A7%2001282%20-%20Assistance%20to%20State%20and%20local%20projects.md) | Assistance to State and local projects. |
-| (a) | Assistance of the Secretary of the Interior. |
+| (a) | Assistance of Secretary of the Interior. |
 | (b) | Assistance of Secretaries of the Interior, Agriculture, or other Federal agency heads; use of Federal facilities, equipment, etc.; conditions on permits or other authorizations. |
 | [1283\.](%C2%A7%2001283%20-%20Management%20policies.md) | Management policies. |
 | (a) | Action of Secretaries and heads of agencies; cooperative agreements. |
@@ -71,10 +71,6 @@
 | [1287\.](%C2%A7%2001287%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 460gg–3, 460bbb–3, 460nnn–71, 460nnn–72, 544k, 698v–7 of this title; title 43 section 2302.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

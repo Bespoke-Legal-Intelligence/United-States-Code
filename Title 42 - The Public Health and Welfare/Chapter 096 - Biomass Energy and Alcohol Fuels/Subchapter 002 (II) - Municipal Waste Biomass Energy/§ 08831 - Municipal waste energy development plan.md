@@ -28,7 +28,3 @@ Not later than January 1, 1982, the Secretary shall prepare and submit to the Pr
 
 (Pub. L. 96–294, title II, §231, June 30, 1980, 94 Stat. 696.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8836, 8837 of this title.
-

@@ -22,7 +22,7 @@ The President is authorized to exchange notes with the Government of Canada or M
 
 &emsp;&emsp;&emsp;(ii) otherwise ensure the effective implementation of the binational panel review process under chapter 19 of the Agreement regarding final antidumping and countervailing duty determinations; and
 
-&emsp;(2) the Government of such country exchanges notes with the United States providing for the entry into force of the North American Agreement on Environmental Cooperation and the North American Agreement on Labor Cooperation for that country and the United States.
+&emsp;(2) the Government of such country exchanges notes with the United States providing for the entry into force of the North American Agreement on Environmental Cooperation and the North American Agreement onLabor Cooperation for that country and the United States.
 
 (Pub. L. 103–182, title I, §101, Dec. 8, 1993, 107 Stat. 2061.)
 
@@ -96,7 +96,7 @@ Sec. 5. <i>Government Procurement Procedures</i>. (a) Waiver.
 
 (g) Pursuant to section 25 of the Office of Federal Procurement Policy Act, as amended (41 U.S.C. 421(a)), the Federal Acquisition Regulatory Council shall ensure that the policies established herein are incorporated in the FAR within 30 days from the date this order is issued.
 
-Sec. 6. <i>Government Use of Patented Technology</i>. (a) Each agency shall, within 30 days from the date this order is issued, modify or adopt procedures to ensure compliance with Article 1709(10) of the NAFTA regarding notice when patented technology is used by or for the Federal Government without a license from the owner, except that the requirement of Article 1709(10)(b) regarding reasonable efforts to obtain advance authorization from the patent owner:
+Sec. 6. <i>Government Use of Patented Technology</i>. (a) Each agency shall, within 30 days from the date thisorder is issued, modify or adopt procedures to ensure compliance with Article 1709(10) of the NAFTA regarding notice when patented technology is used by or for the Federal Government without a license from the owner, except that the requirement of Article 1709(10)(b) regarding reasonable efforts to obtain advance authorization from the patent owner:
 
 &emsp;(1) is hereby waived for an invention used or manufactured by or for the Federal Government, except that the patent owner must be notified whenever the agency or its contractor, without making a patent search, knows or has demonstrable reasonable grounds to know that an invention described in and covered by a valid United States patent is or will be used or manufactured without a license; and
 
@@ -237,8 +237,4 @@ St. Lawrence Seaway Development Corporation
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
 
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of Title 22, Foreign Relations and Intercourse.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3301, 3314, 3317 of this title.
 

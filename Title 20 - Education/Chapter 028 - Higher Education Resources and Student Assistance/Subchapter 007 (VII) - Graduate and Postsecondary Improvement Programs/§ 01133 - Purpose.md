@@ -44,7 +44,3 @@ Section 1133c, Pub. L. 89–329, title VIII, §804, as added Pub. L. 102–325, 
 
 Pub. L. 92–318, title I, §161(b)(1), June 23, 1972, 86 Stat. 303, provided that: “The programs authorized by title VII of the Higher Education Act of 1965 \[this subchapter\] shall be deemed to be a continuation of the comparable programs authorized by the Higher Education Facilities Act of 1963 \[former section 701 et seq. of this title\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1137 of this title.
-

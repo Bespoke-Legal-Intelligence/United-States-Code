@@ -22,9 +22,9 @@ All functions of the Secretary of Defense and the Department of Defense under th
 
 #### Dependent Student Travel Within United States
 
-For availability of Department of Defense funds for travel and transportation of dependent students of members of the Armed Forces stationed overseas for transportation allowances for travel within or between the contiguous States, see section 808 of Pub. L. 99–145, set out as a note under section 133 of Title 10, Armed Forces.
+For availability of Department of Defense funds for travel and transportation of dependent students of members of the Armed Forces stationed overseas for transportation allowances for travel within or between the contiguous States, see section 808 of Pub. L. 99–145,set out as a note under section 133 of Title 10, Armed Forces.
 
 #### Authority Under the Defense Department Overseas Teachers Pay and Personnel Practices Act Available to Secretary of Education
 
-The authority of the Secretary of Defense and the Secretaries of the military departments under the Defense Department Overseas Teachers Pay and Personnel Practices Act, section 901 et seq. of Title 20, Education, made available to the Secretary of Educationwith respect to all functions transferred from the Secretary of Defense and Department of Defense under this section by section 3442(b) of Title 20, Education.
+The authority of the Secretary of Defense and the Secretaries of the military departments under the Defense Department Overseas Teachers Pay and Personnel Practices Act, section 901 et seq. of Title 20, Education, made available to the Secretary of Education with respect to all functions transferred from the Secretary of Defense and Department of Defense under this section by section 3442(b) of Title 20, Education.
 

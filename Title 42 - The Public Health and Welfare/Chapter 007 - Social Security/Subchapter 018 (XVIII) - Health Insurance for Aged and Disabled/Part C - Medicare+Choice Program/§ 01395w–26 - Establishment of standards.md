@@ -62,7 +62,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish by regulation other standards (not described in subsection\(a) of this section) for Medicare+Choice organizations and plans consistent with, and to carry out, this part. The Secretary shall publish such regulations by June 1, 1998. In order to carry out this requirement in a timely manner, the Secretary may promulgate regulations that take effect on an interim basis, after notice and pending opportunity for public comment.
+&emsp;The Secretary shall establish by regulation other standards (not described in subsection (a) of this section) for Medicare+Choice organizations and plans consistent with, and to carry out, this part. The Secretary shall publish such regulations by June 1, 1998. In order to carry out this requirement in a timely manner, the Secretary may promulgate regulations that take effect on an interim basis, after notice and pending opportunity for public comment.
 
 #### (2) Use of current standards
 
@@ -97,8 +97,4 @@ References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subje
 Pub. L. 106–554, §1(a)(6) \[title VI, §612(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–560, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 Pub. L. 106–554, §1(a)(6) \[title VI, §614(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, provided that: “The amendments made by subsection (a) \[amending this section\] take effect on the date of the enactment of this Act \[Dec. 21, 2000\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395w–21, 1395w–22, 1395w–25, 1395w–28, 1395w–112, 1395mm of this title.
 

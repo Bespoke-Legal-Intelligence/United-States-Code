@@ -42,7 +42,3 @@ Section was formerly classified to section 2352 of Title 5 prior to the general 
 
 Section 2 of Pub. L. 89–391 provided that: “The amendments made by the first section of this Act \[amending this section and section 903 of this title\] shall become effective on the first day of the first pay period which begins after the date of enactment of this Act \[Apr. 14, 1966\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 903, 904 of this title.
-

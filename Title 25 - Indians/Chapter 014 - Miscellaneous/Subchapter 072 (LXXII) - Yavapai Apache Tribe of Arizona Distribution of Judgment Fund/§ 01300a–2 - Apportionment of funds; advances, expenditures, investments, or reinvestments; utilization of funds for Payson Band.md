@@ -4,7 +4,3 @@ Upon completion and approval of the rolls as provided in section 1300a–1 of th
 
 (Pub. L. 92–461, §4, Oct. 6, 1972, 86 Stat. 769.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300a of this title.
-

@@ -12,7 +12,7 @@ Beginning on January 1, 1980, and each year thereafter until January 1, 1986, th
 
 &emsp;(4) contain such other information as may be appropriate.
 
-> Such report shall be prepared in consultation with the Commission, the Secretary of the Interior, and the Administrator and shall contain their separate views, comments, and recommendations, if any. The Commission shall submit to the Secretary and Congress such portionof the report under this subsection as relates to the authorities of the Commission under title II of this Act.
+> Such report shall be prepared in consultation with the Commission, the Secretary of the Interior, and the Administrator and shall contain their separate views, comments, and recommendations, if any. The Commission shall submit to the Secretary and Congress such portion of the report under this subsection as relates to the authorities of the Commission under title II of this Act.
 
 #### (b) Identification of sites; Federal agency jurisdiction; contents; duplication prohibition; use and cooperation respecting other Federal agency information
 

@@ -60,7 +60,7 @@ The authority of the Board to issue regulations under this subchapter does not i
 
 &emsp;&emsp;(ii) require the full adjustment, but permit the creditor to make the required adjustment in partial payments over an extended period of time which the agency considers to be reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a) of this section), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditor to become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>\];
 
-&emsp;(B) the <sup>2</sup> amount of the adjustment would be less than $1, except that if more than one year has elapsed since the date of the violation, the agency may require that such amount be paid into the Treasury of the United States, or
+&emsp;(B) the <sup>2</sup> amount of the adjustment would be less than $1, except that if more than one yearhas elapsed since the date of the violation, the agency may require that such amount be paid into the Treasury of the United States, or
 
 &emsp;(C) except where such disclosure error resulted from a willful violation which was intended to mislead the person to whom credit was extended, in the case of an open-end credit plan, more than two years after the violation, or in the case of any other extension of credit, as follows:
 
@@ -163,10 +163,6 @@ Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L
 #### Transfer of Functions
 
 “National Credit Union Administration Board” substituted for “Director of the Bureau of Federal Credit Unions” in subsec. (a)(3) pursuant to section 3 of Pub. L. 91–206 and section 501 of Pub. L. 95–630 \[12 U.S.C. 1752a\] which transferred functions of Bureau of Federal Credit Unions, and Director thereof, to National Credit Union Administration and vested authority for management of Administration in National Credit Union Administration Board.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1640, 1641 of this title; title 12 section 3806.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,7 +30,7 @@ Each report submitted under subsection (a) of this section shall include the fol
 
 &emsp;(7) For each foreign country or non-State organization that has not achieved the capability to target the United States or its territories with weapons of mass destruction, ballistic missiles, or cruise missiles as of November 18, 1997, an estimate of how far in advance the United States is likely to be warned before such foreign country or non-State organization achieves that capability.
 
-&emsp;(8) For each foreign country or non-State organization that has not achieved the capability to target members of the United States Armed Forces deployed abroad with weapons of mass destruction, ballistic missiles, or cruise missiles as of November 18, 1997, an estimate of how far in advance the United States is likely to be warned before such foreign country or non-State organization achieves that capability.
+&emsp;(8) For each foreign country or non-State organization that has not achieved the capability to target members of the United StatesArmed Forces deployed abroad with weapons of mass destruction, ballistic missiles, or cruise missiles as of November 18, 1997, an estimate of how far in advance the United States is likely to be warned before such foreign country or non-State organization achieves that capability.
 
 #### (d) Classification
 
@@ -41,4 +41,8 @@ Each report under subsection (a) of this section shall be submitted in classifie
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1998, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
 

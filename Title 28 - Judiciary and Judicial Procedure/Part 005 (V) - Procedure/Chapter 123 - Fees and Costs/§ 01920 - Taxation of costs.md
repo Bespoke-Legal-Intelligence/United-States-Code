@@ -12,7 +12,7 @@ A judge or clerk of any court of the United States may tax as costs the followin
 
 &emsp;(5) Docket fees under section 1923 of this title;
 
-&emsp;(6) Compensation of court appointed experts, compensation of interpreters, and salaries, fees, expenses, and costs of special interpretation services under section 1828 of this title.
+&emsp;(6) Compensation of court appointed experts, compensation of interpreters, and salaries,fees, expenses, and costs of special interpretation services under section 1828 of this title.
 
 A bill of costs shall be filed in the case and, upon allowance, included in the judgment or decree.
 
@@ -35,8 +35,4 @@ Changes were made in phraseology.
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–539 effective Oct. 28, 1978, see section 10(a) of Pub. L. 95–539, set out as a note under section 602 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1821, 2412, 2503 of this title; title 21 section 844.
 

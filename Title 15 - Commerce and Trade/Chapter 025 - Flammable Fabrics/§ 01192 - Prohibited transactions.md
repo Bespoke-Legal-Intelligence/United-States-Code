@@ -24,7 +24,3 @@ Subsecs. (b), (c). Pub. L. 90–189 struck out former subsec. (b) which made the
 
 Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1194, 1195, 1196, 1197 of this title.
-

@@ -42,7 +42,7 @@ The Commodity Credit Corporation shall carry out an export enhancement program i
 
 #### (7) Avoidance of preferential application
 
-&emsp;When using the authorities of this section to promote the exporting of wheat, the Secretary shall make reasonable efforts to avoid giving a preference to one class of wheat disproportionately more than another class.
+&emsp;When using the authorities of this section to promote the exporting of wheat, the Secretary shall make reasonable efforts to avoid giving apreference to one class of wheat disproportionately more than another class.
 
 #### (8) Displacement
 
@@ -112,7 +112,7 @@ Notwithstanding any other provision of this section, the Commodity Credit Corpor
 
 &emsp;Notwithstanding paragraph (1), if the export sale of any intermediate agricultural product attains the volume of export sales consistent with the volume of the intermediate agricultural product exported by the United States during the Uruguay Round base period years of 1986 through 1990, the Secretary may make available additional amounts under this section for the encouragement of export sales of the intermediate agricultural product.
 
-(Pub. L. 95–501, title III, §301, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3678; amended Pub. L. 102–237, title III, §311, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 102–511, title VII,§709(b), Oct. 24, 1992, 106 Stat. 3352; Pub. L. 103–465, title IV, §411(a)(3), (4), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title II, §245, Apr. 4, 1996, 110 Stat. 968; Pub. L. 107–171, title III, §3104(a), May 13, 2002, 116 Stat. 290.)
+(Pub. L. 95–501, title III, §301, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3678; amended Pub. L. 102–237, title III, §311, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 102–511, title VII, §709(b), Oct. 24, 1992, 106 Stat. 3352; Pub. L. 103–465, title IV, §411(a)(3), (4), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title II, §245, Apr. 4, 1996, 110 Stat. 968; Pub. L. 107–171, title III, §3104(a), May 13, 2002, 116 Stat. 290.)
 
 #### Prior Provisions
 
@@ -145,8 +145,4 @@ Section 245(a) of Pub. L. 104–127 provided that the amendment made by that sec
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5653, 5661, 5662 of this title.
 

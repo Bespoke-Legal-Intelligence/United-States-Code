@@ -30,7 +30,3 @@ Subsection (a) of this section shall not apply to a polling place—
 
 (Pub. L. 98–435, §3, Sept. 28, 1984, 98 Stat. 1678.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1973gg–4, 15483 of this title.
-

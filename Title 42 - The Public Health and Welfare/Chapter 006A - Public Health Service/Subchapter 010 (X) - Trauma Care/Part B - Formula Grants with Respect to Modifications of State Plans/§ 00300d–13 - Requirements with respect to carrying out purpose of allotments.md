@@ -4,7 +4,7 @@
 
 With respect to the trauma care component of a State plan for the provision of emergency medical services, the modifications referred to in section 300d–11(b) of this title are such modifications to the State plan as may be necessary for the State involved to ensure that the plan provides for access to the highest possible quality of trauma care, and that the plan—
 
-&emsp;(1) specifies that the modifications required pursuant to paragraphs (2) through (10) will be implemented by the principal State agency with respect to emergency medical services or by the designee of such agency;
+&emsp;(1) specifies that the modifications required pursuant to paragraphs (2) through (10) will beimplemented by the principal State agency with respect to emergency medical services or by the designee of such agency;
 
 &emsp;(2) specifies any public or private entity that will designate trauma care regions and trauma centers in the State;
 
@@ -30,7 +30,7 @@ With respect to the trauma care component of a State plan for the provision of e
 
 &emsp;&emsp;(C) to identify the nature and severity of the injury;
 
-&emsp;&emsp;(D) to monitor trauma patient care (including prehospital care) in each designatedtrauma center within regional trauma care systems in the State (including relevant emergency-department discharges and rehabilitation information) for the purpose of evaluating the diagnosis, treatment and treatment outcome of such trauma patients;
+&emsp;&emsp;(D) to monitor trauma patient care (including prehospital care) in each designated trauma center within regional trauma care systems in the State (including relevant emergency-department discharges and rehabilitation information) for the purpose of evaluating the diagnosis, treatment and treatment outcome of such trauma patients;
 
 &emsp;&emsp;(E) to identify the total amount of uncompensated trauma care expenditures for each fiscal year by each designated trauma center in the State; and
 
@@ -72,7 +72,7 @@ With respect to the trauma care component of a State plan for the provision of e
 
 #### (c) Model trauma care plan
 
-Not later than 1 year after November 16, 1990, the Secretary shall develop a model plan for the designation of trauma centers and for triage, transfer and transportation policies that may be adopted for guidance by the State. Such plan shall—
+Not later than 1 year after November 16, 1990, the Secretary shall develop a model plan for thedesignation of trauma centers and for triage, transfer and transportation policies that may be adopted for guidance by the State. Such plan shall—
 
 &emsp;(1) take into account national standards, including those of the American College of Surgeons, American College of Emergency Physicians and the American Academy of Pediatrics;
 
@@ -102,9 +102,5 @@ Subsec. (a)(10). Pub. L. 103–183, §601(f)(3)(C), substituted “conducts” f
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183,see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300d–11, 300d–14, 300d–31, 300d–41, 300w–3 of this title.
+Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
 

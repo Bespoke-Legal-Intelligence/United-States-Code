@@ -10,7 +10,3 @@ This section shall not affect in any way other provisions of this chapter for re
 
 (Pub. L. 91–597, §18, Dec. 29, 1970, 84 Stat. 1630.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1050 of this title.
-

@@ -74,11 +74,7 @@ Except as otherwise expressly provided in this subchapter, the Secretary, not la
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 106–402, Oct. 30,2000, 114 Stat. 1677, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 
 Section 6007 of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15024, 15025, 15026, 15064 of this title.
 

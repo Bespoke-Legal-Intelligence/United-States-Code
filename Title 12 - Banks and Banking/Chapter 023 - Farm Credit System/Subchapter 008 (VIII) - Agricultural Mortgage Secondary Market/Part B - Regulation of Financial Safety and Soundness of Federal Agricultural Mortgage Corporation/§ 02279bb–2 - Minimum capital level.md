@@ -64,7 +64,3 @@ Except as provided in subsection (b) of this section, for purposes of this part,
 
 1996—Pub. L. 104–105 amended section generally, substituting present provisions for provisions relating to minimum capital level, including general provisions, provisions relating to 18-month transition, and provisions relating to linked portfolio assets.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2279bb–3, 2279bb–4 of this title.
-

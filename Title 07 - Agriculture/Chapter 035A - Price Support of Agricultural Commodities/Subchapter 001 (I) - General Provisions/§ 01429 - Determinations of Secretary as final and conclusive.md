@@ -10,7 +10,3 @@ This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as 
 
 The Commodity Credit Corporation Charter Act, referred to in text, is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7301 of this title.
-

@@ -112,7 +112,3 @@ In general.—Notwithstanding subsections (b) and (c) of section 1002 of the Eme
 
 Effective date.—The amendment made by paragraph (1) shall be effective with respect to any plan for the demolition, disposition, or conversion to homeownership of public housing that is approved by the Secretary after September 30, 1995.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1437aaa–2 of this title.
-

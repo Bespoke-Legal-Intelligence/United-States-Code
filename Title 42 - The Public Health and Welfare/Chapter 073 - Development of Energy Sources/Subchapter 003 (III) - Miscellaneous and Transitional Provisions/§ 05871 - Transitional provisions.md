@@ -16,7 +16,7 @@ All orders, determinations, rules, regulations, permits, contracts, certificates
 
 #### (c) Effect of chapter on proceedings pending before Atomic Energy Commission or other department or agency
 
-The provisions of this chapter shall not affect any proceeding pending, at the time this section takes effect, before the Atomic Energy Commission or any department or agency (or component thereof) functions of which are transferred bythis chapter; but such proceedings, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this chapter had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued if this chapter had not been enacted.
+The provisions of this chapter shall not affect any proceeding pending, at the time this section takes effect, before the Atomic Energy Commission or any department or agency (or component thereof) functions of which are transferred by this chapter; but such proceedings, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this chapter had not been enacted; and orders issued in any such proceedingsshall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued if this chapter had not been enacted.
 
 #### (d) Effect of chapter on suits commenced prior to effective date
 
@@ -60,15 +60,11 @@ Except as may be otherwise expressly provided in this chapter, all functions exp
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under section 5801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-References to “at the time this chapter takes effect” in subsec. (b)(2), “the date this chapter takes effect” in subsec. (d)(1), “date on which this chapter takes effect” in subsec. (f), and “the effective date of this chapter”in subsecs. (g), (h), (i), and (k), refer to the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of this title.
+References to “at the time this chapter takes effect” in subsec. (b)(2), “the date this chapter takes effect” in subsec. (d)(1), “date on which this chapter takes effect” in subsec. (f), and “the effective date of this chapter” in subsecs. (g), (h), (i), and (k), refer to the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of this title.
 
 #### Transfer of Functions
 
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg.Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
 
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5872 of this title.
 

@@ -18,7 +18,3 @@ The presentation of the award shall be made by the President with such ceremonie
 
 Pub. L. 105–309, §10, Oct. 30, 1998, 112 Stat. 2939, provided that: “In the administration of section 16 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3711), Environmental Technology shall be established as a separate nomination category with appropriate unique criteria for that category.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3713 of this title.
-

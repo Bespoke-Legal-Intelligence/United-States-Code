@@ -10,7 +10,3 @@
 
 A prior section 2 of Pub. L. 90–409, which was classified to section 47–2(b) of this title, was renumbered section 3 of Pub. L. 90–409 and is classified to section 47–4 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47–4, 47–6 of this title.
-

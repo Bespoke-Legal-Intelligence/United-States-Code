@@ -14,7 +14,3 @@ Section was not enacted as part of the Commodity Exchange Act which comprises th
 
 Section 2 of Pub. L. 85–839 provided that: “This Act \[enacting this section\] shall take effect thirty days after its enactment \[Aug. 28, 1958\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1a of this title.
-

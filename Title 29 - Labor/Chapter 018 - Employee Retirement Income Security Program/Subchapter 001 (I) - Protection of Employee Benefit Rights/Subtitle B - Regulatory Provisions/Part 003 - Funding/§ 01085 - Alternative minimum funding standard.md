@@ -24,7 +24,3 @@ The alternative minimum funding standard account (and items therein) shall be ch
 
 (Pub. L. 93–406, title I, §305, Sept. 2, 1974, 88 Stat. 873.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1082 of this title.
-

@@ -102,7 +102,7 @@ The Commission shall prescribe appropriate rules and regulations to carry out th
 
 #### (3) Time to maintain file
 
-&emsp;The information required under this subsection shall be placed in a political file as soon as possible and shall be retained by the licensee for a period of not less than 2 years.
+&emsp;The information required under this subsection shall be placed in a political file assoon as possible and shall be retained by the licensee for a period of not less than 2 years.
 
 (June 19, 1934, ch. 652, title III, §315, 48 Stat. 1088; July 16, 1952, ch. 879, §11, 66 Stat. 717; Pub. L. 86–274, §1, Sept. 14, 1959, 73 Stat. 557; Pub. L. 92–225, title I, §§103(a)(1), (2)(B), 104(c), Feb. 7, 1972, 86 Stat. 4, 7; Pub. L. 93–443, title IV, §402, Oct. 15, 1974, 88 Stat. 1291; Pub. L. 107–155, title III, §305(a), (b), title V, §504, Mar. 27, 2002, 116 Stat. 100, 101, 115.)
 
@@ -153,8 +153,4 @@ Section 2 of Pub. L. 86–274 provided that:
 #### Suspension of Equal Time Provisions for 1960 Campaign
 
 Pub. L. 86–677, Aug. 24, 1960, 74 Stat. 554, suspended that part of subsec. (a) of this section, which requires any licensee of a broadcast station who permits any person who is a legally qualified candidate for any public office to use a broadcasting station to afford equal opportunities to all other such candidates for that office in the use of such broadcasting station, for the period of the 1960 presidential and vice presidential campaigns with respect to nominees for the offices of President and Vice President of the United States. The Federal Communications Commission was directed to make a report to the Congress, not later than March 1, 1961, with respect to the effect of the provisions of Pub. L. 86–677 and any recommendations the Commission might have for amendments to this chapter as a result of experience under the provisions of Pub. L. 86–677.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 335 of this title.
 

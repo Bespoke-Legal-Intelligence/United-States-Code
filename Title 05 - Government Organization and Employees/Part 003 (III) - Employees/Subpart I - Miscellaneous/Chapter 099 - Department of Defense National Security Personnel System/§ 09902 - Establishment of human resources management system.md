@@ -284,7 +284,7 @@ Labor Management Relations in the Department of Defense.—(1) Notwithstanding s
 
 &emsp;(C)(i) Any part of the proposal described in subparagraph (A) as to which employee representatives do not make a recommendation, or as to which the recommendations are accepted under subparagraph (B), may be implemented immediately.
 
-&emsp;(ii) With respect to any parts of the proposal as to which recommendations have been made but not accepted, at any time after 30 calendar days have elapsed since the consultation and mediation procedures set forth in subparagraph (B), if the Secretary, in his discretion, determines that further consultation and mediation is unlikely to produce agreement, the Secretary may implement any or all of such parts (including any modifications made in response to the recommendations as the Secretary determines advisable), but only after 30 days have elapsed after notifying Congress of the decision to implement the part or parts involved (as so modified, if applicable).
+&emsp;(ii) With respect to any parts of the proposal as to which recommendations have been made but not accepted, at any time after 30 calendar days have elapsed since the consultation and mediation procedures set forth in subparagraph (B), if the Secretary, in his discretion, determines that further consultation and mediation is unlikely to produce agreement, the Secretary may implement any or all of suchparts (including any modifications made in response to the recommendations as the Secretary determines advisable), but only after 30 days have elapsed after notifying Congress of the decision to implement the part or parts involved (as so modified, if applicable).
 
 &emsp;(D) The process for collaborating with employee representatives provided for under this subsection shall begin no later than 60 calendar days after the date of enactment of this subsection.
 
@@ -294,7 +294,7 @@ Labor Management Relations in the Department of Defense.—(1) Notwithstanding s
 
 (6) The labor relations system developed or adjusted under this subsection shall provide for independent third party review of decisions, including defining what decisions are reviewable by the third party, what third party would conduct the review, and the standard or standards for that review.
 
-(7) Nothing in this section, including the authority provided to waive, modify, or otherwise affect provisions of law not listed in subsections (b) and (c) as nonwaivable, shall be construed to expand the scope of bargaining under chapter 71 or this subsection with respect to any provisionof this title that may be waived, modified, or otherwise affected under this section.
+(7) Nothing in this section, including the authority provided to waive, modify, or otherwise affect provisions of law not listed in subsections (b) and (c) as nonwaivable, shall be construed to expand the scope of bargaining under chapter 71 or this subsection with respect to any provision of this title that may be waived, modified, or otherwise affected under this section.
 
 (8) The labor relations system developed or adjusted under this subsection shall be binding on all bargaining units within the Department of Defense, all employee representatives of such units, and the Department of Defense and its subcomponents, and shall supersede all other collective bargaining agreements for bargaining units in the Department of Defense, including collective bargaining agreements negotiated with employee representatives at the level of recognition, except as otherwise determined by the Secretary.
 
@@ -317,6 +317,10 @@ The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (i)
 The date of the enactment of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (i)(6)(B), is the date of enactment of Pub. L. 103–226, which was approved Mar. 30, 1994.
 
 The date of the enactment of this subsection and enactment of this subsection, referred to in subsec. (m)(3)(D), (5), (9), probably mean the date of enactment of Pub. L. 108–136, which was approved Nov. 24, 2003.
+
+#### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 #### Pilot Program for Improved Civilian Personnel Management
 

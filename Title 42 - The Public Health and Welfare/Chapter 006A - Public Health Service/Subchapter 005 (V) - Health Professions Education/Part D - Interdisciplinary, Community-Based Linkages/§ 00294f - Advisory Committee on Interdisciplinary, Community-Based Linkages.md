@@ -12,7 +12,7 @@ The Secretary shall establish an advisory committee to be known as the Advisory 
 
 #### (2) Appointment
 
-&emsp;Not later than 90 days after November 13, 1998, the Secretary shall appoint the members of the Advisory Committee from among individuals who are health professionals from schools of the types described in sections294a(a)(1)(A), 294a(a)(1)(B), 294c(b), 294d(3)(A), and 294e(b) of this title. In making such appointments, the Secretary shall ensure a fair balance between the health professions, that at least 75 percent of the members of the Advisory Committee are health professionals, a broad geographic representation of members and a balance between urban and rural members. Members shall be appointed based on their competence, interest, and knowledge of the mission of the profession involved.
+&emsp;Not later than 90 days after November 13, 1998, the Secretary shall appoint the members of the Advisory Committee from among individuals who are health professionals from schools of the types described in sections 294a(a)(1)(A), 294a(a)(1)(B), 294c(b), 294d(3)(A), and 294e(b) of this title. In making such appointments, the Secretary shall ensure a fair balance between the health professions, that at least 75 percent of the members of the Advisory Committee are health professionals, a broad geographic representation of members and a balance between urban and rural members. Members shall be appointed based on their competence, interest, and knowledge of the mission of the profession involved.
 
 #### (3) Minority representation
 
@@ -91,6 +91,8 @@ Another prior section 294f, act July 1, 1944, ch. 373, title VII, §746, as adde
 #### Change of Name
 
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Termination of Advisory Committees
 

@@ -18,7 +18,7 @@ Publication of Data.—The Secretary shall publish data on incidents and complai
 
 (e)
 
-Air Transport.—For purposes of this section, the air transport of an animal includes the entire period during which an animal is in the custody of an air carrier, from check-in of the animal prior to departure until the animal is returned to the owner or guardian of the animal at the final destination of the animal.
+Air Transport.—For purposes of this section, the air transport of an animal includes the entire period during which an animal is in thecustody of an air carrier, from check-in of the animal prior to departure until the animal is returned to the owner or guardian of the animal at the final destination of the animal.
 
 (Added Pub. L. 106–181, title VII, §710(a), Apr. 5, 2000, 114 Stat. 159.)
 

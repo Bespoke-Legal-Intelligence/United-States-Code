@@ -12,7 +12,3 @@ Whoever, being or having been an employee or member of the Commission, a member 
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2000aa, 2279 of this title; title 18 section 2516.
-

@@ -80,7 +80,3 @@ Establishment as independent agency, membership etc., see section 1752 et seq. o
 
 Establishment of Farm Credit Administration as independent agency, and other changes in status, function, etc., see Ex. Ord. No. 6084, set out prec. section 2241 of Title 12, Banks and Banking. See also section 2001 et seq. of Title 12.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 225, 981, 982, 1510, 1956, 3056, 3293, 3322 of this title; title 12 sections 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b.
-

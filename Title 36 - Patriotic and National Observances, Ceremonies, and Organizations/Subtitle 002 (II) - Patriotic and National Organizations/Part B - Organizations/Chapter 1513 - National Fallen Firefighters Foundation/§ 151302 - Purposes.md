@@ -70,7 +70,3 @@ Pub. L. 107–51, Oct. 16, 2001, 115 Stat. 267, provided that:
 
 <i>“Resolved by the Senate and House of Representatives of the United States of America in Congress assembled</i>, That each year, the American flags on all Federal office buildings will be lowered to half-staff in honor of the National Fallen Firefighters Memorial Service in Emmitsburg, Maryland.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 151309 of this title.
-

@@ -102,7 +102,7 @@ It is the policy of the United States that all programs, projects, and activitie
 
 &emsp;(6) recruitment efforts in disciplines related to developmental disabilities relating to pre-service training, community training, practice, administration, and policymaking must focus on bringing larger numbers of racial and ethnic minorities into the disciplines in order to provide appropriate skills, knowledge, role models, and sufficient personnel to address the growing needs of an increasingly diverse population;
 
-&emsp;(7) with education and support, communities can be accessible to and responsive to theneeds of individuals with developmental disabilities and their families and are enriched by full and active participation in community activities, and contributions, by individuals with developmental disabilities and their families;
+&emsp;(7) with education and support, communities can be accessible to and responsive to the needs of individuals with developmental disabilities and their families and are enriched by full and active participation in community activities, and contributions, by individuals with developmental disabilities and their families;
 
 &emsp;(8) individuals with developmental disabilities have access to opportunities and the necessary support to be included in community life, have interdependent relationships, live in homes and communities, and make contributions to their families, communities, and States, and the Nation;
 
@@ -122,6 +122,126 @@ Pub. L. 106–402, §1(a), Oct. 30, 2000, 114 Stat. 1677, provided that: “This
 
 Pub. L. 106–402, title II, §201, Oct. 30, 2000, 114 Stat. 1728, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Families of Children With Disabilities Support Act of 2000’.”
 
+#### Special Olympics Sport and Empowerment
+
+Pub. L. 108–406, Oct. 30, 2004, 118 Stat. 2294, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Special Olympics Sport and Empowerment Act of 2004’.
+
+#### “SEC. 2. FINDINGS AND PURPOSE.
+
+“(a)
+
+Findings.—Congress finds the following:
+
+&emsp;“(1) Special Olympics celebrates the possibilities of a world where everybody matters, everybody counts, every person has value, and every person has worth.
+
+&emsp;“(2) The Government and the people of the United States recognize the dignity and value the giftedness of children and adults with an intellectual disability.
+
+&emsp;“(3) The Government and the people of the United States are determined to end the isolation and stigmatization of people with an intellectual disability.
+
+&emsp;“(4) For more than 36 years, Special Olympics has encouraged skill, sharing, courage, and joy through year-round sports training and athletic competition for children and adults with intellectual disabilities.
+
+&emsp;“(5) Special Olympics provides year-round sports training and competitive opportunities to 1,500,000 athletes with intellectual disabilities in 26 sports and plans to expand the joy of participation through sport to hundreds of thousands of people with intellectual disabilities within the United States and worldwide over the next 5 years.
+
+&emsp;“(6) Special Olympics has demonstrated its ability to provide a major positive effect on the quality of life of people with intellectual disabilities, improving their health and physical well-being, building their confidence and self-esteem, and giving them a voice to become active and productive members of their communities.
+
+&emsp;“(7) In society as a whole, Special Olympics has become a vehicle and platform for breaking down artificial barriers, improving public health, changing negative attitudes in education, and helping athletes overcome the prejudice that people with intellectual disabilities face in too many places.
+
+&emsp;“(8) The Government of the United States enthusiastically supports Special Olympics, recognizes its importance in improving the lives of people with intellectual disabilities, and recognizes Special Olympics as a valued and important component of the global community.
+
+“(b)
+
+Purpose.—The purposes of this Act are to—
+
+&emsp;“(1) provide support to Special Olympics to increase athlete participation in and public awareness about the Special Olympics movement;
+
+&emsp;“(2) dispel negative stereotypes about people with intellectual disabilities;
+
+&emsp;“(3) build athletic and family involvement through sport; and
+
+&emsp;“(4) promote the extraordinary gifts of people with intellectual disabilities.
+
+#### “SEC. 3. ASSISTANCE FOR SPECIAL OLYMPICS.
+
+“(a)
+
+Education Activities.—The Secretary of Education may award grants to, or enter into contracts or cooperative agreements with, Special Olympics to carry out the following:
+
+&emsp;“(1) Activities to promote the expansion of Special Olympics, including activities to increase the participation of individuals with intellectual disabilities within the United States.
+
+&emsp;“(2) The design and implementation of Special Olympics education programs, including character education and volunteer programs that support the purposes of this Act, that can be integrated into classroom instruction and are consistent with academic content standards.
+
+“(b)
+
+International Activities.—The Secretary of State may award grants to, or enter into contracts or cooperative agreements with, Special Olympics to carry out the following:
+
+&emsp;“(1) Activities to increase the participation of individuals with intellectual disabilities in Special Olympics outside of the United States.
+
+&emsp;“(2) Activities to improve the awareness outside of the United States of the abilities and unique contributions that individuals with intellectual disabilities can make to society.
+
+“(c)
+
+Healthy Athletes.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Health and Human Services may award grants to, or enter into contracts or cooperative agreements with, Special Olympics for the implementation of on-site health assessments, screening for health problems, health education, data collection, and referrals to direct health care services.
+
+&emsp;“(2)
+
+Coordination.—Activities under paragraph (1) shall be coordinated with private health providers, existing authorized programs of State and local jurisdictions, or the Department of Health and Human Services, as applicable.
+
+“(d)
+
+Limitation.—Amounts appropriated to carry out this section shall not be used for direct treatment of diseases, medical conditions, or mental health conditions. Nothing in the preceding sentence shall be construed to limit the use of non-Federal funds by Special Olympics.
+
+#### “SEC. 4. APPLICATION AND ANNUAL REPORT.
+
+“(a)
+
+Application.—
+
+&emsp;“(1)
+
+In general.—To be eligible for a grant, contract, or cooperative agreement under subsection (a), (b), or (c) of section 3, Special Olympics shall submit an application at such time, in such manner, and containing such information as the Secretary of Education, Secretary of State, or Secretary of Health and Human Services, as applicable, may require.
+
+&emsp;“(2)
+
+Content.—At a minimum, an application under this subsection shall contain the following:
+
+&emsp;&emsp;“(A)
+
+Activities.—A description of activities to be carried out with the grant, contract, or cooperative agreement.
+
+&emsp;&emsp;“(B)
+
+Measurable goals.—Information on specific measurable goals and objectives to be achieved through activities carried out with the grant, contract, or cooperative agreement.
+
+“(b)
+
+Annual Report.—
+
+&emsp;“(1)
+
+In general.—As a condition on receipt of any funds under subsection (a), (b), or (c) of section 3, Special Olympics shall agree to submit an annual report at such time, in such manner, and containing such information as the Secretary of Education, Secretary of State, or Secretary of Health and Human Services, as applicable, may require.
+
+&emsp;“(2)
+
+Content.—At a minimum, each annual report under this subsection shall describe the degree to which progress has been made toward meeting the goals and objectives described in the applications submitted under subsection (a).
+
+#### “SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated—
+
+&emsp;“(1) for grants, contracts, or cooperative agreements under section 3(a), $5,500,000 for fiscal year 2005, and such sums as may be necessary for each of the 4 succeeding fiscal years;
+
+&emsp;“(2) for grants, contracts, or cooperative agreements under section 3(b), $3,500,000 for fiscal year 2005, and such sums as may be necessary for each of the 4 succeeding fiscal years; and
+
+&emsp;“(3) for grants, contracts, or cooperative agreements under section 3(c), $6,000,000 for each of fiscal years 2005 through 2009.”
+
 #### Ex. Ord. No. 12994. President's Committee on Mental Retardation
 
 Ex. Ord. No. 12994, Mar. 21, 1996, 61 F.R. 13047, as amended by Ex. Ord. No. 13309, July 25, 2003, 68 F.R. 44851, provided:
@@ -138,7 +258,7 @@ National goals have been established to:
 
 (4) assure the full citizenship rights of all people with intellectual disabilities, including those rights secured by such landmark statutes as the Americans with Disabilities Act of 1990, Public Law 101–336 (42 U.S.C. 12101 <i>et seq</i>.);
 
-(5) recognize the right of all people with intellectual disabilities to self-determination and autonomy, to be treated in a nondiscriminatory manner, and to exercise meaningful choice, with whatever supports are necessary to effectuate these rights;
+(5) recognize the right of all people with intellectual disabilities to self-determination and autonomy, to betreated in a nondiscriminatory manner, and to exercise meaningful choice, with whatever supports are necessary to effectuate these rights;
 
 (6) recognize the right of all people with intellectual disabilities to enjoy a quality of life that promotes independence, self-determination, and participation as productive members of society; and
 
@@ -251,8 +371,4 @@ Secs. 2 to 4. Amended Ex. Ord. No. 12994, set out above.\]
 Sec. 5. The Committee is continued until September 30, 2005.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15004, 15009, 15021, 15025, 15064, 15114 of this title.
 

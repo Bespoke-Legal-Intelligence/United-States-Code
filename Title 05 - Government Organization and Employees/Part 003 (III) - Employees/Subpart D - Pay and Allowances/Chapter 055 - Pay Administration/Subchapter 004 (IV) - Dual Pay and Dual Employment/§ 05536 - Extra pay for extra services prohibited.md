@@ -40,7 +40,3 @@ R.S. §170 was part of title IV of the Revised Statutes. The Act of July 26, 194
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5942a of this title; title 22 sections 3971, 4085, 6104; title 39 section 1001; title 50 section 403e–1.
-

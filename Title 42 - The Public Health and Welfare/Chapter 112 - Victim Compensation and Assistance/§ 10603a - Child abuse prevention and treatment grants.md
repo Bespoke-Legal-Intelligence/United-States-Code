@@ -14,9 +14,5 @@ Section 5106c of this title, referred to in text, was in the original “section
 
 1993—Pub. L. 103–121 substituted “section 10601(d)(2)(D) and (d)(3) of this title.” for “section 10601(d)(2) of this title”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5106c, 5106f, 10601 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

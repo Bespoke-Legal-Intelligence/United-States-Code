@@ -56,7 +56,3 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the former Bureau of Narcotics and Dangerous Drugs on Oct. 27, 1970, were to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a Savings Provision note under section 321 of Title 21, Food and Drugs.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1961, 2516 of this title; title 26 section 6050I.
-

@@ -18,7 +18,3 @@ For the operative date of this chapter, referred to in subsec. (b), see section 
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 953 of this title.
-

@@ -90,6 +90,8 @@ Subsec. (d). Pub. L. 104–201 amended heading and text of subsec. (d) generally
 
 #### Change of Name
 
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1996 Amendment
@@ -98,11 +100,7 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date
 
-For effective date and applicability of section, including amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 254b, 262 of this title.
+For effective date and applicability of section, including amendment by Pub. L. 103–355, see section 10001 ofPub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,3 @@ The Secretary of the Interior is authorized, in his discretion, to acquire by do
 
 “Battlefield” substituted in text for “Military Park” on authority of Pub. L. 96–344, §12, Sept. 8, 1980, 94 Stat. 1136, which redesignated Moores Creek National Military Park as Moores Creek National Battlefield.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 422a–2 of this title.
-

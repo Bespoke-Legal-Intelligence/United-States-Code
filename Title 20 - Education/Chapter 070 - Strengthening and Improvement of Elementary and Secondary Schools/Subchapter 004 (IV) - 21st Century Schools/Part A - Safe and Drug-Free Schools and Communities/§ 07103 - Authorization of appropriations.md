@@ -20,7 +20,3 @@ A prior section 4004 of Pub. L. 89–10 was classified to section 3044 of this t
 
 A prior section 7105, Pub. L. 99–570, title IV, §4302, Oct. 27, 1986, 100 Stat. 3207–153, which established National Trust for Drug-Free Youth to encourage private gifts of property to assist the Secretary of Education in carrying out the national programs of drug abuse research, education, and prevention under subtitle B of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–125 (former 20 U.S.C. 4601 et seq.), was omitted from the Code because of the repeal of subtitle B. Section was formerly classified to section 4665, and subsequently section 3225, of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7111, 7131, 7133, 7134, 7135, 7136, 7137, 7138, 7139, 7140 of this title.
-

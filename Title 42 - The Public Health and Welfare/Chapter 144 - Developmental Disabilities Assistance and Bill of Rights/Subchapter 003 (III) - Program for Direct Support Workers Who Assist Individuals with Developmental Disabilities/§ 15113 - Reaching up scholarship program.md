@@ -2,7 +2,7 @@
 
 #### (a) Program authorization
 
-The Secretary may award grants to eligible entities, on a competitive basis, to enable the entities to carry out scholarship programs by providing vouchers for postsecondary education to direct support workers who assist individuals with developmental disabilities residing in diverse settings. The Secretary shall award the grants to pay for the Federal share of the cost of providing the vouchers.
+The Secretary may award grants to eligible entities, on a competitive basis, to enable the entities to carry out scholarship programs byproviding vouchers for postsecondary education to direct support workers who assist individuals with developmental disabilities residing in diverse settings. The Secretary shall award the grants to pay for the Federal share of the cost of providing the vouchers.
 
 #### (b) Eligible entity
 
@@ -45,8 +45,4 @@ In awarding a grant under this section for a scholarship program, the Secretary 
 The Federal share of the cost of providing the vouchers shall be not more than 80 percent.
 
 (Pub. L. 106–402, title III, §303, Oct. 30, 2000, 114 Stat. 1735.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15115 of this title.
 

@@ -46,7 +46,7 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 &emsp;&emsp;(E) Participation loans with other credit unions, credit union organizations, or financial organizations shall be in accordance with written policies of the board of directors: <i>Provided</i>, That a credit union which originates a loan for which participation arrangements are made in accordance with this subsection shall retain an interest of at least 10 per centum of the face amount of the loan.
 
-&emsp;(6) to receive from its members, from other credit unions, from an officer, employee, or agent of those nonmember units of Federal, Indian tribal, State, or local governments and political subdivisions thereof enumerated in section 1787 of this title and in the manner so prescribed, from the Central Liquidity Facility, and from nonmembers in the case of credit unions serving predominately low-income members (as defined by the Board) payments, representing equity, on—
+&emsp;(6) to receive from its members, from other credit unions, from an officer, employee, or agent of those nonmember units of Federal, Indian tribal, State, or local governments and political subdivisions thereof enumerated in section 1787 of this title and in the manner so prescribed, from the Central Liquidity Facility, and from nonmembers in the case of creditunions serving predominately low-income members (as defined by the Board) payments, representing equity, on—
 
 &emsp;&emsp;(A) shares which may be issued at varying dividend rates;
 
@@ -66,7 +66,7 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 &emsp;(11) to impress and enforce a lien upon the shares and dividends of any member, to the extent of any loan made to him and any dues or charges payable by him;
 
-&emsp;(12) in accordance with rules and regulations prescribed by the Board, to sell to members negotiable checks (including travelers checks), money orders, and other similarmoney transfer instruments, and to cash checks and money orders for members, for a fee;
+&emsp;(12) in accordance with rules and regulations prescribed by the Board, to sell to members negotiable checks (including travelers checks), money orders, and other similar money transfer instruments, and to cash checks and money orders for members, for a fee;
 
 &emsp;(13) in accordance with rules and regulations prescribed by the Board, to purchase, sell, pledge, or discount or otherwise receive or dispose of, in whole or in part, any eligible obligations (as defined by the Board) of its members and to purchase from any liquidating credit union notes made by individual members of the liquidating credit union at such prices as may be agreed upon by the board of directors of the liquidating credit union and the board of directors of the purchasing credit union, but no purchase may be made under authority of this paragraph if, upon the making of that purchase, the aggregate of the unpaid balances of notes purchased under authority of this paragraph would exceed 5 per centum of the unimpaired capital and surplus of the credit union;
 
@@ -126,7 +126,7 @@ Par. (7)(E). Pub. L. 97–320, §516, inserted provisions relating to instrument
 
 Par. (7)(L). Pub. L. 97–320, §514, added cl. (L).
 
-Par. (8). Pub. L. 97–320, §517, inserted “or in banks or institutions the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation,” after “in which the Federal Credit Union does business,”.
+Par. (8). Pub. L. 97–320, §517, inserted “or in banks or institutions the accounts of which are insured by the Federal Deposit Insurance Corporation or the FederalSavings and Loan Insurance Corporation,” after “in which the Federal Credit Union does business,”.
 
 Par. (12). Pub. L. 97–320, §518, substituted “, money orders, and other similar money transfer instruments” for “and money orders”, and struck out “which does not exceed the direct and indirect costs incident to providing such service” after “for a fee”.
 
@@ -196,7 +196,7 @@ Pars. (6), (7). Pub. L. 90–44, §2(3), added par. (6) and redesignated former 
 
 Pars. (8) to (14). Pub. L. 90–44, §§2(2), (3), redesignated former par. (7) as (8), authorized in cl. (D) investment of funds in shares or accounts of mutual savings banks, the accounts of which are insured by the Federal Deposit Insurance Corporation, and redesignated former pars. (8) to (13) as (9) to (14), respectively.
 
-1966—Par. (7). Pub. L. 89–429 expanded list of possible areas of investment of funds by Federal credit unions to include obligations, participations, or other instruments of or issued by, or fully guaranteed as to principal and interest by, the Federal National MortgageAssociation and participation certificates evidencing beneficial interests in obligations, or in the right to receive interest and principal collections therefrom, which obligations have been subjected by one or more Government agencies to a trust or trusts for which any executive department, agency, or instrumentality of the United States (or the head thereof) has been named to act as trustee.
+1966—Par. (7). Pub. L. 89–429 expanded list of possible areas of investment of funds by Federal credit unions to include obligations, participations, or other instruments of or issued by, or fully guaranteed as to principal and interest by, the Federal National Mortgage Association and participation certificates evidencing beneficial interests in obligations, or in the right to receive interest and principal collections therefrom, which obligations have been subjected by one or more Government agencies to a trust or trusts for which any executive department, agency, or instrumentality of the United States (or the head thereof) has been named to act as trustee.
 
 1964—Par. (7)(E). Pub. L. 88–353 added cl. (E).
 
@@ -247,10 +247,6 @@ Federal Home Loan Bank Board and Federal Savings and Loan Insurance Corporation 
 Transfer of functions of Farm Credit Administration and Governor thereof, generally, see notes set out under section 1751 of this title.
 
 Functions of Governor of Farm Credit Administration under this section transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1752, 1761c of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

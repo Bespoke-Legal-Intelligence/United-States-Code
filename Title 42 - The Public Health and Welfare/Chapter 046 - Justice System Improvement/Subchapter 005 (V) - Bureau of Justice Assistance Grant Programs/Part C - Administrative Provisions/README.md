@@ -1,9 +1,5 @@
 Part C—Administrative Provisions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 3796bb–1 of this title.
-
 
 ---
 

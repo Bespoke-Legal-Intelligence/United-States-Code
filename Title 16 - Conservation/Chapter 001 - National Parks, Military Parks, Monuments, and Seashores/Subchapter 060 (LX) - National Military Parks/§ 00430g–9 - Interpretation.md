@@ -4,7 +4,3 @@ In administering the park, the Secretary shall take such action as is necessary 
 
 (Pub. L. 101–377, §6, Aug. 17, 1990, 104 Stat. 467.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430g–4, 430g–5, 430g–8, 430g–10 of this title.
-

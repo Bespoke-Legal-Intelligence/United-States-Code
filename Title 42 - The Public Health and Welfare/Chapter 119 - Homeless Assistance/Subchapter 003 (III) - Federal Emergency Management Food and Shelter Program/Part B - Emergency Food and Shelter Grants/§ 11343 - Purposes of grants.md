@@ -22,7 +22,3 @@ Grants to the National Board may be used—
 
 (Pub. L. 100–77, title III, §313, July 22, 1987, 101 Stat. 492.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11341 of this title.
-

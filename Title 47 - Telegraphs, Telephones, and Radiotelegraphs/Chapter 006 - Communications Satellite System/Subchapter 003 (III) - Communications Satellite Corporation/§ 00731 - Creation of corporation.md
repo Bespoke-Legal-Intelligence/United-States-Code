@@ -12,7 +12,3 @@ There is authorized to be created a communications satellite corporation for pro
 
 A prior section 731, Pub. L. 87–624, title III, §301, Aug. 31, 1962, 76 Stat. 423, authorized creation of a for-profit communications satellite corporation not to be a Government agency, subject to this chapter and the District of Columbia Business Corporation Act, prior to repeal by Pub. L. 103–414, §304(b)(2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 765d of this title.
-

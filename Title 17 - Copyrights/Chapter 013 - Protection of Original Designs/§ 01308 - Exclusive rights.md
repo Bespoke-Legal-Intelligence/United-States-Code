@@ -8,7 +8,3 @@ The owner of a design protected under this chapter has the exclusive right to—
 
 (Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2908.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1328 of this title.
-

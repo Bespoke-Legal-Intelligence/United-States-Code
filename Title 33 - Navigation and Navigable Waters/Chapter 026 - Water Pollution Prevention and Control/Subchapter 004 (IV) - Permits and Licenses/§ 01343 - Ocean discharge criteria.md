@@ -38,7 +38,3 @@ Discharges from point sources in the United States Virgin Islands in existence o
 
 For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1254, 1288, 1311, 1314, 1342, 1344 of this title.
-

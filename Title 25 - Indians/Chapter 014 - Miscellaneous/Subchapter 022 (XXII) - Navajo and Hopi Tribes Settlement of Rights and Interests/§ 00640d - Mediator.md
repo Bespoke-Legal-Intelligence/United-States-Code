@@ -2,7 +2,7 @@
 
 #### (a) Appointment; duties; qualifications; termination of duties
 
-Within thirty days after December 22, 1974, the Director of the Federal Mediation and Conciliation Service shall appoint a Mediator (hereinafter referred to as the “Mediator”) who shall assist in the negotiations for the settlement and partition of the relative rights and interests, as determined by the decision in the case of Healing v. Jones (210 F. Supp. 125, D. Ariz., 1962, aff'd 363 U.S. 758, 1963) (hereinafter referred to as the “Healing case”), of the Hopi and Navajo Tribes (hereinafter referred to as the “tribes”) to and in lands within the reservation established by the Executive order of December 16, 1882, except land management district no. 6 (such lands hereinafter referred to as the “joint use area”). The Mediator shall not have any interest, direct or indirect, in the settlement of the interests and rights set out in this subsection. The duties of the Mediator shall cease upon the entering of a full agreement into the records of the supplemental proceedings pursuant to section 640d–2 of this title or the submission of a report to the District Court after a default in negotiations or a partial agreement pursuant to section 640d–3 of this title.
+Within thirty days after December 22, 1974, the Director of the Federal Mediation and Conciliation Service shall appoint a Mediator (hereinafter referred to as the “Mediator”) who shall assist in the negotiations for the settlement and partition of the relative rights and interests, as determined by the decision in the case of Healing v. Jones (210 F. Supp. 125, D. Ariz., 1962, aff'd 363 U.S. 758, 1963) (hereinafter referred to as the “Healing case”), of the Hopi and Navajo Tribes\(hereinafter referred to as the “tribes”) to and in lands within the reservation established by the Executive order of December 16, 1882, except land management district no. 6 (such lands hereinafter referred to as the “joint use area”). The Mediator shall not have any interest, direct or indirect, in the settlement of the interests and rights set out in this subsection. The duties of the Mediator shall cease upon the entering of a full agreement into the records of the supplemental proceedings pursuant to section 640d–2 of this title or the submission of a report to the District Court after a default in negotiations or a partial agreement pursuant to section 640d–3 of this title.
 
 #### (b) Nature of proceedings
 
@@ -76,7 +76,7 @@ Accommodation.—The term ‘Accommodation’ has the meaning provided that term
 
 &emsp;“(2)
 
-Hopi partitioned lands.—The term ‘Hopi Partitioned Lands’ means lands located in the Hopi Partitioned Area, as defined in section 168.1(g) of title 25, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Oct. 11, 1996\]).
+Hopi partitioned lands.—The term ‘Hopi Partitioned Lands’ means lands located in the Hopi Partitioned Area, as defined in section 168.1(g) of title 25,Code of Federal Regulations (as in effect on the date of enactment of this Act \[Oct. 11, 1996\]).
 
 &emsp;“(3)
 
@@ -206,7 +206,7 @@ Payment.—The Secretary shall make a payment in the amount specified in subsect
 
 #### “SEC. 11. EFFECT OF THIS ACT ON CASES INVOLVING THE NAVAJO NATION AND THE HOPI TRIBE.
 
-“Nothing in this Act or the amendments made by this Act shall be interpreted or deemed to preclude, limit, or endorse, in any manner, actions by the Navajo Nation that seek, in court, an offset from judgments for payments received by the Hopi Tribe under the Settlement Agreement.
+“Nothing in this Act or the amendments made by this Act shall be interpreted or deemed to preclude, limit, or endorse, in any manner, actions by the NavajoNation that seek, in court, an offset from judgments for payments received by the Hopi Tribe under the Settlement Agreement.
 
 #### “SEC. 12. WATER RIGHTS.
 
@@ -271,8 +271,4 @@ Statutory Construction.—Nothing in this section shall be construed to determin
 #### Executive Order No. 11829
 
 Ex. Ord. No. 11829, Jan. 6, 1975, 40 F.R. 1497, as amended by Ex. Ord. No. 11853, Apr. 17, 1975, 40 F.R. 17537, which established the Hopi-Navajo Land Settlement Interagency Committee and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §11, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 640d–3 of this title.
 

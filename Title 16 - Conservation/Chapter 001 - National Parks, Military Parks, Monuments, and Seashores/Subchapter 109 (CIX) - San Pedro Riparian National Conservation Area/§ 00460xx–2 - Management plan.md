@@ -10,15 +10,11 @@ The Secretary shall, in the comprehensive plan referred to in subsection (a) of 
 
 #### (c) Cooperative agreements
 
-The Secretary may enter into cooperative agreements with appropriate State and local agencies, pursuant to section 1737(b) of title 43, to better implement the plan developed pursuant to subsection (a) of this section.
+The Secretary may enter into cooperative agreements with appropriate State and localagencies, pursuant to section 1737(b) of title 43, to better implement the plan developed pursuant to subsection (a) of this section.
 
 #### (d) Research
 
 In order to assist in the development of appropriate management strategies for the conservation area, the Secretary may authorize research on matters including the environmental, biological, hydrological, and cultural resources of the conservation area, pursuant to section 1737(a) of title 43.
 
 (Pub. L. 100–696, title I, §103, Nov. 18, 1988, 102 Stat. 4572.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460xx–1, 460xx–3 of this title.
 

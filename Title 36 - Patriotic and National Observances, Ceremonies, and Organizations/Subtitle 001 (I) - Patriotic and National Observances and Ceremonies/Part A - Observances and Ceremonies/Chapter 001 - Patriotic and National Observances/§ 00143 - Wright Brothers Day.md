@@ -196,7 +196,7 @@ Advisory Committees and Task Forces.—
 
 &emsp;“(2) Federal cooperation.—The head of a Federal department or agency, where appropriate, shall furnish information or assistance requested by the Commission, unless prohibited by law.
 
-&emsp;“(3) Prohibition of pay other than travel expenses.—Members of an advisory committee or task force authorized under paragraph (1) shall not receive pay, but may receive travel expenses pursuant to the policy adopted by the Commission under section 4(d)(2).
+&emsp;“(3) Prohibition of pay other than travel expenses.—Members of an advisory committee or taskforce authorized under paragraph (1) shall not receive pay, but may receive travel expenses pursuant to the policy adopted by the Commission under section 4(d)(2).
 
 “(b)
 
@@ -444,7 +444,7 @@ Prohibition of Compensation Other Than Travel Expenses.—Members of the Advisor
 
 &emsp;“(3) The term ‘Commission’ means the Centennial of Flight Commission.
 
-&emsp;“(4) The term ‘First Flight’ means the first four successful manned, free, controlled, and sustained flights by a power-driven, heavier-than-air machine, which were accomplished by Orville and WilburWright of Dayton, Ohio on December 17, 1903 at Kitty Hawk, North Carolina.
+&emsp;“(4) The term ‘First Flight’ means the first four successful manned, free, controlled, and sustainedflights by a power-driven, heavier-than-air machine, which were accomplished by Orville and Wilbur Wright of Dayton, Ohio on December 17, 1903 at Kitty Hawk, North Carolina.
 
 #### “SEC. 14. TERMINATION.
 

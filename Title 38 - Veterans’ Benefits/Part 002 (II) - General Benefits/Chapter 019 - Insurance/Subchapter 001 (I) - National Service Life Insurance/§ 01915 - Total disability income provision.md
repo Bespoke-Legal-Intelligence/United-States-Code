@@ -24,7 +24,3 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Pub. L. 88–355 provided that the amendment made by Pub. L. 88–355 is effective Jan. 1, 1965.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1907 of this title.
-

@@ -10,7 +10,3 @@ In addition to the amounts authorized to be appropriated under subsection (a) of
 
 (Pub. L. 106–431, §8, Nov. 6, 2000, 114 Stat. 1907.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 546, 546a, 546a–1, 546a–2, 546a–4 of this title.
-

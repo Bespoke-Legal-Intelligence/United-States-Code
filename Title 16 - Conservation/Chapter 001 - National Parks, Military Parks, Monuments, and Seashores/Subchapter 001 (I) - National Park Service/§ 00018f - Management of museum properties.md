@@ -28,7 +28,3 @@ Loan to responsible public or private organizations, institutions, or agencies, 
 
 1996—Subsec. (b). Pub. L. 104–333 struck out “from such donations and bequests of money” before “museum objects”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 18f–1, 18f–2, 18f–3 of this title.
-

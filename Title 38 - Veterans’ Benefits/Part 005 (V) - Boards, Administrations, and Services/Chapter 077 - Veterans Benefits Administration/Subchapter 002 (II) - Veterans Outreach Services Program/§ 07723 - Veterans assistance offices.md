@@ -26,7 +26,3 @@ Provisions similar to those in this section were contained in section 242 of thi
 
 Pub. L. 108–183, title III, §309(c)(2), Dec. 16, 2003, 117 Stat. 2663, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to offices established after the date of the enactment of this Act \[Dec. 16, 2003\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4113 of this title.
-

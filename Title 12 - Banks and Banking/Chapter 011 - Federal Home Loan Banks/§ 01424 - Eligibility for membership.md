@@ -58,9 +58,5 @@ Subsec. (c). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for 
 
 1933—Subsec. (d). Act June 13, 1933, struck out subsec. (d) which provided for direct loans to homeowners. See chapter 12 (§1461 et seq.) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1431 of this title.
-
 <i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
 

@@ -22,7 +22,3 @@ The provisions of section 2937 of this title shall apply to any final action of 
 
 Provisions similar to this section were contained in section 1576 of this title prior to repeal by Pub. L. 105–220.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2937 of this title.
-

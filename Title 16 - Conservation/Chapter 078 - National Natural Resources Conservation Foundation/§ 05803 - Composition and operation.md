@@ -58,7 +58,3 @@ While away from the home or regular place of business of a member of the Board i
 
 (Pub. L. 104–127, title III, §354, Apr. 4, 1996, 110 Stat. 1011.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5801 of this title.
-

@@ -6,7 +6,7 @@ Every employer shall furnish and maintain employment and places of employment wh
 
 #### (b) Studies and investigations by Secretary
 
-The Secretary, in enforcing and administering the provisions of this section, is authorized in addition to such other powers and duties as are conferred upon him—
+The Secretary, in enforcing and administering the provisions of this section, is authorized inaddition to such other powers and duties as are conferred upon him—
 
 &emsp;(1) to make studies and investigations with respect to safety provisions and the causes and prevention of injuries in employments covered by this chapter, and in making such studies and investigations to cooperate with any agency of the United States or with any State agency engaged in similar work;
 
@@ -24,7 +24,7 @@ The Secretary or his authorized representative may inspect such places of employ
 
 #### (d) Requests for advice; variations from safety rules and regulations
 
-Any employer may request the advice of the Secretary or his authorized representative, in complying with the requirements of any rule or regulation adopted to carry out the provisions of this section. In case of practical difficulties or unnecessary hardships, the Secretary in his discretion may grant variations from any such rule or regulation, or particular provisions thereof, and permit the use of other or different devices if he finds that the purpose of the rule or regulation will be observed by the variation and the safety of employees will be equally secured thereby. Any person affected by such rule or regulation, or his agent, may request the Secretary to grant such variation, stating in writing the grounds on which his request is based. Any authorization by the Secretary of a variation shall be in writing, shall describe the conditionsunder which the variation shall be permitted, and shall be published as provided in section 552 of title 5. A properly indexed record of all variations shall be kept in the office of the Secretary and open to public inspection.
+Any employer may request the advice of the Secretary or his authorized representative, in complying with the requirements of any rule or regulation adopted to carry out the provisions of this section. In case of practical difficulties or unnecessary hardships, the Secretary in his discretion may grant variations from any such rule or regulation, or particular provisions thereof, and permit the use of other or different devices if he finds that the purpose of the rule or regulation will be observed by the variation and the safety of employees will be equally secured thereby. Any person affected by such rule or regulation, or his agent, may request the Secretary to grant such variation, stating in writing the grounds on which his request is based. Any authorization by the Secretary of a variation shall be in writing, shall describe the conditions under which the variation shall be permitted, and shall be published as provided in section 552 of title 5. A properly indexed record of all variations shall be kept in the office of the Secretary and open to public inspection.
 
 #### (e) Jurisdiction to restrain violations
 
@@ -66,13 +66,9 @@ As originally enacted, subsec. (e) contained the phrase “, together with the 
 
 1982—Subsec. (b)(1). Pub. L. 97–375 struck out “and from time to time make to Congress such recommendations as he may deem proper as to the best means of preventing such injuries” after “by this chapter”.
 
-1958—Pub. L. 85–742 amended section generally and, among other changes, empowered the Secretary of Labor to prescribe, by regulation or order, safety rulesfor the furnishing and maintenance of safe places of employment and for the installation, furnishing and maintenance of safety devices and safeguards, authorized the Secretary to provide for the establishment and supervision of safety programs, permitted the inspection of places of employment and investigation of employment conditions and practices, granted jurisdiction to the district courts to restrain violations of this section or of any rules, regulations or orders of the Secretary, and to prescribe penalties for violations.
+1958—Pub. L. 85–742 amended section generally and, among other changes, empowered the Secretary of Labor to prescribe, by regulation or order, safety rules for the furnishing and maintenance of safe places of employment and for the installation, furnishing and maintenance of safety devices and safeguards, authorized the Secretary to provide for the establishment and supervision of safety programs, permitted the inspection of places of employment and investigation of employment conditions and practices, granted jurisdiction to the district courts to restrain violations of this section or of any rules, regulations or orders of the Secretary, and to prescribe penalties for violations.
 
 #### “Secretary” Defined
 
 Section 2 of Pub. L. 85–742 provided that: “The term ‘Secretary’ as used in this Act and in amendments made by this Act \[to this section\] means the Secretary of Labor.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 7902; title 30 section 932.
 

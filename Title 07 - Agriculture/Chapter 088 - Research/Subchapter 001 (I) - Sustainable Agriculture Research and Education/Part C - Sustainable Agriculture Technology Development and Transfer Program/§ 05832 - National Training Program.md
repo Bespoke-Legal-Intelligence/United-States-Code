@@ -12,7 +12,7 @@ The National Training Program shall be organized and administered by the Extensi
 
 #### (1) Agricultural agents
 
-&emsp;The Secretary shall ensure that all agricultural agents of the Cooperative ExtensionService have completed the National Training Program not later than the end of the five-year period beginning on November 28, 1990. Such training may occur at a college or university located within each State as designated by the coordinator designated under this section.
+&emsp;The Secretary shall ensure that all agricultural agents of the Cooperative Extension Service have completed the National Training Program not later than the end of the five-year period beginning on November 28, 1990. Such training may occur at a college or university located within each State as designated by the coordinator designated under this section.
 
 #### (2) Proof of training
 
@@ -48,7 +48,7 @@ The National Training Program shall be organized and administered by the Extensi
 
 #### (2) Short courses
 
-&emsp;The purpose of the grants made available under paragraph (1) shall be to establish, in various regions in the United States, training programs that consist of workshops and short courses designed to familiarize participants with the concepts and importance of sustainable agriculture.
+&emsp;The purpose of the grants made available under paragraph (1) shall be to establish, invarious regions in the United States, training programs that consist of workshops and short courses designed to familiarize participants with the concepts and importance of sustainable agriculture.
 
 #### (f) Regional specialists
 

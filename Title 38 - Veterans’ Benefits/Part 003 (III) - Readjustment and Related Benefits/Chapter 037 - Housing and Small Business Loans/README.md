@@ -145,10 +145,6 @@ Consultation of Secretary of Housing and Urban Development with Administrator of
 
 Any loan or mortgage secured by a one- to four-family dwelling and insured, guaranteed, or made under this chapter not to be covered by any State constitutional and legal limit upon amount of interest charged, taken, etc., see section 1709–1a of Title 12, Banks and Banking.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 101, 103, 109, 511, 1521, 2032, 2041, 2104, 5302, 5303A, 5313B, 5701, 5904 of this title; title 12 sections 1464, 1701x, 1709, 1709–1a, 1715y, 1715z–13a, 1715z–13b, 1717, 1721, 1731a, 1735b, 1735g, 2803; title 26 section 6334; title 42 section 1472.
-
 
 ---
 

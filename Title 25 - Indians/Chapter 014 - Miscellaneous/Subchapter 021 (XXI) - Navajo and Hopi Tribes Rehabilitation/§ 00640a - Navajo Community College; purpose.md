@@ -28,7 +28,3 @@ Pub. L. 95–471, title II, §202, Oct. 17, 1978, 92 Stat. 1329, provided that: 
 
 &emsp;“(4) the Congress has already recognized the need for this institution by the passage of the Navajo Community College Act \[sections 640a to 640c–3 of this title\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13d–2, 640c–1, 640c–2, 640c–3, 1812, 1851 of this title; title 20 sections 1085, 2327, 3489.
-

@@ -20,7 +20,7 @@ This Act, referred to in subsec. (c), means Pub. L. 92–532, which is classifie
 
 #### Amendments
 
-1974—Subsec. (b). Pub. L. 93–254 struck out statement of the purpose of this Act as being the regulation oftransportation of material from the United States for dumping into ocean waters, and the dumping of material, transported from outside the United States, if the dumping occurs in ocean waters over which the United States has jurisdiction or over which it may exercise control, under accepted principles of international law, in order to protect its territory or territorial sea, now covered by subsec. (c) of this section.
+1974—Subsec. (b). Pub. L. 93–254 struck out statement of the purpose of this Act as being the regulation of transportation of material from the United States for dumping into ocean waters, and the dumping of material, transported from outside the United States, if the dumping occurs in ocean waters over which the United States has jurisdiction or over which it may exercise control, under accepted principles of international law, in order to protect its territory or territorial sea, now covered by subsec. (c) of this section.
 
 Subsec. (c). Pub. L. 93–254 added subsec. (c).
 
@@ -47,8 +47,4 @@ For provisions relating to environmental effects abroad of major federal actions
 #### Federal Compliance With Pollution Control Standards
 
 For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
-
-#### Act Referred to in Other Sections
-
-The Marine Protection, Research, and Sanctuaries Act of 1972 is referred to in sections 1269, 1345, 1503, 2602, 2622 of this title; title 42 sections 6905, 9621, 10104.
 

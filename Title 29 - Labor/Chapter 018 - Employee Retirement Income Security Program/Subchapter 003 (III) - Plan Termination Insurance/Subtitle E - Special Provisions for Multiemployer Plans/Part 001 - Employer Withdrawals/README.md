@@ -1,9 +1,5 @@
 part 1—employer withdrawals
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1082, 1103, 1108, 1301, 1303, 1342, 1415, 1424, 1461 of this title; title 26 sections 404, 412, 413, 418C, 4975.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 
 

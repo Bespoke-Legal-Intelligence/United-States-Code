@@ -134,7 +134,7 @@ Subsec. (d). Pub. L. 105–353, §301(b)(6), substituted “exceptions” for �
 
 1996—Subsec. (c). Pub. L. 104–290, §104(a)(1), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “It shall be unlawful for any member of a national securities exchange or any broker or dealer, directly or indirectly, to extend or maintain credit or arrange for the extension or maintenance of credit to or for any customer—
 
-&emsp;“(1) on any security (other than an exempted security), in contravention of the rules and regulations which the Board of Governors of the Federal ReserveSystem shall prescribe under subsections (a) and (b) of this section;
+&emsp;“(1) on any security (other than an exempted security), in contravention of the rules and regulations which the Board of Governors of the Federal Reserve System shall prescribe under subsections (a) and (b) of this section;
 
 &emsp;“(2) without collateral or on any collateral other than securities, except in accordance with such rules and regulations as the Board of Governors of the Federal Reserve System may prescribe (A) to permit under specified conditions and for a limited period any such member, broker, or dealer to maintain a credit initially extended in conformity with the rules and regulations of the Board of Governors of the Federal Reserve System, and (B) to permit the extension or maintenance of credit in cases where the extension or maintenance of credit is not for the purpose of purchasing or carrying securities or of evading or circumventing the provisions of paragraph (1) of this subsection.”
 
@@ -158,15 +158,11 @@ Act Aug. 23, 1935, in subsec. (e), substituted “Board of Governors of the Fede
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–508 effective on first day of seventh calendar month which begins after Oct. 26, 1970, except as otherwise provided in section 401(c) of Pub. L. 91–508, see section 401(a) of Pub. L. 91–508, set out as a note under section 1951 of Title 12, Banks and Banking.
+Amendment by Pub. L. 91–508 effective on first day of seventh calendar month which begins after Oct. 26, 1970, except as otherwise provided in section 401(c) ofPub. L. 91–508, see section 401(a) of Pub. L. 91–508, set out as a note under section 1951 of Title 12, Banks and Banking.
 
 Section 401(c) of Pub. L. 91–508 provided that: “The Board of Governors of the Federal Reserve System may by regulation provide that the amendment made by title III \[amending this section\] shall be effective on any date not earlier than the publication of the regulation in the Federal Register and not later than the first day of the thirteenth calendar month which begins after the date of enactment \[Oct. 26, 1970\].”
 
 #### Validity of Rules and Regulations
 
 Section 301(b) of Pub. L. 91–508 provided that: “The amendment made by subsection (a) of this section \[amending this section\] does not affect the continuing validity of any rule or regulation under section 7 of the Securities Exchange Act of 1934 \[this section\] in effect prior to the effective date of the amendment.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78c, 78f, 78m, 78<i>o</i>, 78hh, 80a–2, 80a–54 of this title; title 7 section 2; title 31 section 5315.
 

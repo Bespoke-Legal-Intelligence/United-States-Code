@@ -40,7 +40,7 @@ Not later than 60 days after receiving amounts under an award under subsection (
 
 An award under subsection (a) of this section may be expended for activities that may include the following and similar activities:
 
-&emsp;(1) To develop Statewide plans (including the development of the Bioterrorism and Other Public Health Emergency Preparedness andResponse Plan required under subsection (c) of this section), and community-wide plans for responding to bioterrorism and other public health emergencies that are coordinated with the capacities of applicable national, State, and local health agencies and health care providers, including poison control centers.
+&emsp;(1) To develop Statewide plans (including the development of the Bioterrorism and Other Public Health Emergency Preparedness and Response Plan required under subsection (c) of this section), and community-wide plans for responding to bioterrorism and other public health emergencies that are coordinated with the capacities of applicable national, State, and local health agencies and health care providers, including poison control centers.
 
 &emsp;(2) To address deficiencies identified in the assessment conducted under section 247d–2 of this title.
 
@@ -202,7 +202,7 @@ For purposes of this section, the term “eligible entity” means an entity tha
 
 #### (C) Relationship to formula grants
 
-&emsp;&emsp;In the case of a State that will receive an award pursuant to paragraph (3), and in which there is located a political subdivision that will receive an award pursuant to subparagraph (A), the Secretary shall, in determining the amount under paragraph (3)(C) for the State, subtract from the population of the State an amount equal to the population of such political subdivision.
+&emsp;&emsp;In the case of a State that will receive an award pursuant to paragraph (3), and inwhich there is located a political subdivision that will receive an award pursuant to subparagraph (A), the Secretary shall, in determining the amount under paragraph (3)(C) for the State, subtract from the population of the State an amount equal to the population of such political subdivision.
 
 #### (D) Continuity of funding
 
@@ -234,13 +234,9 @@ For purposes of this section, the term “eligible entity” means an entity tha
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto,to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of functions, personnel, assets, and liabilities of the National Domestic Preparedness Office of the Federal Bureau of Investigation, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(3), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 247d–3b, 247d–7c of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “notwithstanding”.</i>
 

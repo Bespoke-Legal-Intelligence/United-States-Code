@@ -66,7 +66,3 @@ Section 205(c) of Pub. L. 103–432 provided that: “The amendments made by thi
 
 Section 240(g) of Pub. L. 90–248 provided that any appropriations or grants made pursuant to section 726 of this title, as in effect prior to Jan. 2, 1968, were to be deemed to have been appropriated or made under this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 628a of this title.
-

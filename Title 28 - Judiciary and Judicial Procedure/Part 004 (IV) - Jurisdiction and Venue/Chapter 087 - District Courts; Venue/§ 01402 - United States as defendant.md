@@ -18,9 +18,9 @@
 
 Based on title 28, U.S.C., 1940 ed., §§762, 931(a) (Mar. 3, 1887, ch. 359, §5, 24 Stat. 506; Aug. 2, 1946, ch. 753, §410(a), 60 Stat. 843).
 
-Section consolidates the venue provisions of section 762 of title 28, U.S.C., 1940 ed., with the venue provisionsof section 931(a) of such title, the latter provisions relating to tort claims cases. The jurisdictional provisions of such section 931(a) are incorporated in section 1346(b) of this title. For other provisions thereof, see Distribution Table.
+Section consolidates the venue provisions of section 762 of title 28, U.S.C., 1940 ed., with the venue provisions of section 931(a) of such title, the latter provisions relating to tort claims cases. The jurisdictional provisions of such section 931(a) are incorporated in section 1346(b) of this title. For other provisions thereof, see Distribution Table.
 
-Provisions of section 762 of title 28, U.S.C., 1940 ed., relating to the verification and contents of a petition filed against the United States were omitted as unnecessary. Section 265 of title 28, U.S.C., 1940 ed., relative to the petition in cases filed in the Court of Claims was also omitted from the revised title. (See, also, Rule 11 of the Federal Rules of Civil Procedure.)
+Provisions of section 762 of title 28, U.S.C., 1940 ed., relating to the verification and contents of a petitionfiled against the United States were omitted as unnecessary. Section 265 of title 28, U.S.C., 1940 ed., relative to the petition in cases filed in the Court of Claims was also omitted from the revised title. (See, also, Rule 11 of the Federal Rules of Civil Procedure.)
 
 Words “civil action” were substituted for “suit” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -43,8 +43,4 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, see section 203 of Pub. L. 89–719, set out as a note under section 1346 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 7429.
 

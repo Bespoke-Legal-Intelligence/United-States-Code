@@ -4,7 +4,3 @@ An action or proceeding falling under the Convention shall be deemed to arise un
 
 (Added Pub. L. 91–368, §1, July 31, 1970, 84 Stat. 692.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 204, 302 of this title.
-

@@ -50,7 +50,7 @@ Section 106 of title I of Pub. L. 104–262 provided that:
 
 “(a)
 
-Assessment Systems.—The Secretary of Veterans Affairs shall establish information systems to assess the experience of the Department of Veterans Affairs in implementing sections 101, 103, and 104 \[enacting this section and section 1706 of this title, amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title, and enacting provisions set out as a note under section 1701 of this title\], including the amendments made by those sections, during fiscal year 1997. The Secretary shall establish those information systems in time to include assessments under such systems in the report required under subsection (b).
+Assessment Systems.—The Secretary of Veterans Affairs shall establish information systems to assess the experience of the Department of Veterans Affairs in implementing sections 101, 103, and 104 \[enacting this section and section 1706 of this title, amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title, and enacting provisions set out as a note under section 1701 ofthis title\], including the amendments made by those sections, during fiscal year 1997. The Secretary shall establish those information systems in time to include assessments under such systems in the report required under subsection (b).
 
 “(b)
 
@@ -85,8 +85,4 @@ Matters To Be Included.—The report under subsection (b) shall include detailed
 &emsp;“(5) The numbers and characteristics of, and the type and extent of health care furnished to, veterans not enrolled for care (shown separately by reference to each class of eligibility, both in total and separately by facility).
 
 &emsp;“(6) The specific fiscal impact (shown in total and by geographic health-care delivery areas) of changes in delivery patterns instituted under the amendments made by this title \[enacting this section and section 1706 of this title and amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1710, 1714, 1718, 1720, 1725, 1785, 2062 of this title; title 10 section 1076c.
 

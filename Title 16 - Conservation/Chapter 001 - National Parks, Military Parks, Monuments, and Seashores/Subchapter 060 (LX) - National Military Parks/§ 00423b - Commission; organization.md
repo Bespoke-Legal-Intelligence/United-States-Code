@@ -12,7 +12,3 @@ The affairs of the Petersburg National Battlefield shall, subject to the supervi
 
 Transfer of administrative functions of park, see note set out under section 423 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 423c, 423d, 423h–1, 423h–2 of this title.
-

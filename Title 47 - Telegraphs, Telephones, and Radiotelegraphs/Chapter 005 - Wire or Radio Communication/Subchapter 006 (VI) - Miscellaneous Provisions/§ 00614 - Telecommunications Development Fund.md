@@ -56,7 +56,7 @@ The Fund shall maintain its accounts at a financial institution designated for p
 
 All moneys deposited into the accounts of the Fund shall be used solely for—
 
-&emsp;(1) the making of loans, investments, or other extensions of credits to eligible smallbusinesses in accordance with subsection (f) of this section;
+&emsp;(1) the making of loans, investments, or other extensions of credits to eligible small businesses in accordance with subsection (f) of this section;
 
 &emsp;(2) the provision of financial advice to eligible small businesses;
 
@@ -68,7 +68,7 @@ All moneys deposited into the accounts of the Fund shall be used solely for—
 
 #### (f) Lending and credit operations
 
-Loans or other extensions of credit from the Fund shall be made available in accordance with the requirements of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) and any other applicable law to an eligible small business on the basis of—
+Loans or other extensions of credit from the Fund shall be made available to an eligible small business on the basis of—
 
 &emsp;(1) the analysis of the business plan of the eligible small business;
 
@@ -128,15 +128,19 @@ As used in this section:
 
 &emsp;The term “telecommunications industry” means communications businesses using regulated or unregulated facilities or services and includes broadcasting, telecommunications, cable, computer, data transmission, software, programming, advanced messaging, and electronics businesses.
 
-(June 19, 1934, ch. 652, title VII, §714, as added Pub. L. 104–104, title VII, §707(b), Feb. 8, 1996, 110 Stat. 154.)
+(June 19, 1934, ch. 652, title VII, §714, as added Pub. L. 104–104, title VII, §707(b), Feb. 8, 1996, 110 Stat. 154; amended Pub. L. 108–494, title II, §205, Dec. 23, 2004, 118 Stat. 3996.)
 
-#### References in Text
+#### Amendments
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (f), is title V of Pub. L. 93–344 as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress.For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+2004—Subsec. (f). Pub. L. 108–494 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Loans or other extensions of credit from the Fund shall be made available in accordance with the requirements of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) and any other applicable law to an eligible small business on the basis of—
 
-#### Section Referred to in Other Sections
+&emsp;“(1) the analysis of the business plan of the eligible small business;
 
-This section is referred to in section 309 of this title.
+&emsp;“(2) the reasonable availability of collateral to secure the loan or credit extension;
+
+&emsp;“(3) the extent to which the loan or credit extension promotes the purposes of this section; and
+
+&emsp;“(4) other lending policies as defined by the Board.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Fund);”.</i>
 

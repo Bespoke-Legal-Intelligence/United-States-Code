@@ -60,7 +60,7 @@ A consumer reporting agency shall promptly notify the furnisher of information i
 
 &emsp;The sole obligation of the consumer reporting agency under this section, with regard to any request of a consumer under this section, shall be to block the consumer report maintained by the consumer reporting agency from any subsequent use, if—
 
-&emsp;&emsp;(A) the consumer, in accordance with the provisions of subsection (a) of this section, identifies, to a consumer reporting agency, information in the file of the consumer that resulted from identity theft; and
+&emsp;&emsp;(A) the consumer, in accordance with the provisions of subsection (a) of this section,identifies, to a consumer reporting agency, information in the file of the consumer that resulted from identity theft; and
 
 &emsp;&emsp;(B) the consumer reporting agency is a reseller of the identified information.
 
@@ -81,8 +81,4 @@ No provision of this section shall be construed as requiring a consumer reportin
 #### Effective Date
 
 Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1681m, 1681s, 1681s–2, 1681t of this title.
 

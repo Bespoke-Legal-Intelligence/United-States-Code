@@ -98,7 +98,7 @@ In this chapter:
 
 #### (15) State
 
-&emsp;The term “State” means any of the States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Commonwealth ofthe Northern Mariana Islands, the Virgin Islands of the United States, or any territory or possession of the United States.
+&emsp;The term “State” means any of the States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands of the United States, or any territory or possession of the United States.
 
 #### (16) This chapter
 

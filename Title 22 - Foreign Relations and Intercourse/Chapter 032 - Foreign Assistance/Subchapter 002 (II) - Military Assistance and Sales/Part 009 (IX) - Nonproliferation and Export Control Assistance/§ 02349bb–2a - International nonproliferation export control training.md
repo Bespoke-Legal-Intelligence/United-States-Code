@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The President is authorized to furnish, on such terms and conditions consistent with this part (but whenever feasible on a reimbursable basis), education and training to appropriate military and civilian personnel of foreign countries for the purpose of enhancing the nonproliferation and export control capabilities of such personnel through their attendance in special courses of instruction conducted by the United States.
+The President is authorized to furnish, on such terms and conditions consistent with this part\(but whenever feasible on a reimbursable basis), education and training to appropriate military and civilian personnel of foreign countries for the purpose of enhancing the nonproliferation and export control capabilities of such personnel through their attendance in special courses of instruction conducted by the United States.
 
 #### (b) Administration of courses
 
@@ -20,7 +20,7 @@ Education and training activities conducted under this section shall be—
 
 #### (d) Priority to certain countries
 
-In selecting personnel for education and training pursuant to this section, priority should begiven to personnel from countries determined by the Secretary of State to be countries frequently transited by proliferation-related shipments of cargo.
+In selecting personnel for education and training pursuant to this section, priority should be given to personnel from countries determined by the Secretary of State to be countries frequently transited by proliferation-related shipments of cargo.
 
 (Pub. L. 87–195, pt. II, §584, as added Pub. L. 107–228, div. B, title XIII, §1303(2), Sept. 30, 2002, 116 Stat. 1436.)
 

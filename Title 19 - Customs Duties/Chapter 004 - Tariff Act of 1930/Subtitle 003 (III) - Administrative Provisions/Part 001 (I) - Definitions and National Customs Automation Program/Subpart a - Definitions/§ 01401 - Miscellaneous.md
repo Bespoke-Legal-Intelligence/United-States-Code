@@ -36,7 +36,7 @@ The term “United States” includes all Territories and possessions of the Uni
 
 #### (i) Officer of the customs; customs officer
 
-The terms “officer of the customs” and “customs officer” mean any officer of the United States Customs Service of the Treasury Department (also hereinafter referred to as the “Customs Service”) or any commissioned, warrant, or petty officer of the Coast Guard, or any agentor other person, including foreign law enforcement officers, authorized by law or designated by the Secretary of the Treasury to perform any duties of an officer of the Customs Service.
+The terms “officer of the customs” and “customs officer” mean any officer of the United States Customs Service of the Treasury Department (also hereinafter referred to as the “Customs Service”) or any commissioned, warrant, or petty officer of the Coast Guard, or any agent or other person, including foreign law enforcement officers, authorized by law or designated by the Secretary of the Treasury to perform any duties of an officer of the Customs Service.
 
 #### (j) Customs waters
 
@@ -88,9 +88,13 @@ The term “import activity summary statement” refers to data or information t
 
 #### (s) Reconciliation
 
-The term “reconciliation” means an electronic process, initiated at the request of an importer, under which the elements of an entry (other than those elements related to the admissibility of the merchandise) that are undetermined at the time the importer files or transmits the documentation or information required by section 1484(a)(1)(B) of this title, or the import activity summary statement, are provided to the Customs Service at a later time. A reconciliation is treated as an entry for purposes of liquidation, reliquidation, recordkeeping, and protest.
+The term “reconciliation” means an electronic process, initiated at the request of an importer, under which the elements of an entry (other than those elements related to the admissibility of the merchandise) that are undetermined at the time the importer files or transmits the documentation or information requiredby section 1484(a)(1)(B) of this title, or the import activity summary statement, are provided to the Customs Service at a later time. A reconciliation is treated as an entry for purposes of liquidation, reliquidation, recordkeeping, and protest.
 
-(June 17, 1930, ch. 497, title IV, §401, 46 Stat. 708; Aug. 5, 1935, ch. 438, title II, §201, 49 Stat. 521; June 25, 1938, ch. 679, §2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1955, ch. 258, §2(a)(3), 69 Stat. 242; Pub. L. 91–271, title III, §301(c), June 2, 1970, 84 Stat. 288; Pub. L. 99–570, title III, §3111, Oct. 27, 1986, 100 Stat. 3207–80; Pub. L. 103–182, title VI, §634, Dec. 8, 1993, 107 Stat. 2198; Pub. L. 104–295, §§3(a)(6)(A), 18(a), Oct. 11, 1996, 110 Stat. 3515, 3524; Pub. L. 108–7, div. J, title I, §127(b), Feb. 20, 2003, 117 Stat. 441.)
+#### (t) Reconfigured entry
+
+The term “reconfigured entry” means an entry filed on an import activity summary statement which substitutes for all or part of 1 or more entries filed under section 1484(a)(1)(A) of this title or filed on a reconciliation entry that aggregates the entry elements to be reconciled under section 1484(b) of this title for purposes of liquidation, reliquidation, or protest.
+
+(June 17, 1930, ch. 497, title IV, §401, 46 Stat. 708; Aug. 5, 1935, ch. 438, title II, §201, 49 Stat. 521; June 25, 1938, ch. 679, §2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1955, ch. 258, §2(a)(3), 69 Stat. 242; Pub. L. 91–271, title III, §301(c), June 2, 1970, 84 Stat. 288; Pub. L. 99–570, title III, §3111, Oct. 27, 1986, 100 Stat. 3207–80; Pub. L. 103–182, title VI, §634, Dec. 8, 1993, 107 Stat. 2198; Pub. L. 104–295, §§3(a)(6)(A), 18(a), Oct. 11, 1996, 110 Stat. 3515, 3524; Pub. L. 108–7, div. J, title I, §127(b), Feb. 20, 2003, 117 Stat. 441; Pub. L. 108–429, title I, §1561(a), (c), title II, §2106, Dec. 3, 2004, 118 Stat. 2581, 2582, 2598.)
 
 #### References in Text
 
@@ -98,11 +102,9 @@ The Controlled Substances Import and Export Act, referred to in subsec. (m)(2), 
 
 #### Codification
 
-Section is based on the designated subsections of section 401 of act June 17, 1930, as amended. The last undesignated paragraph of section 401, as added by section 201 of act Aug. 5, 1935, is classified to section 1432a of this title.
+Section is based on the designated subsections of section 401 of act June 17, 1930, as amended. The last undesignated paragraph of section 401, as added by section 201 of act Aug. 5, 1935, was classified to section 1432a of this title, prior to being repealed by Pub. L. 103–182, §690(c)(5), Dec. 8, 1993, 107 Stat. 2223.
 
 Words “the Philippine Islands” formerly set out in subsec. (h) were omitted on authority of Proc. No. 2695, which is set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse, and in which the President proclaimed the independence of the Philippines.
-
-Pub. L. 108–7, which directed the amendment of section 1401(i) of title 19, United States Code, was executed by making the amendment to this section, which is section 401 of the Tariff Act of 1930, to reflect the probable intent of Congress. See 2003 Amendment note below.
 
 #### Prior Provisions
 
@@ -116,7 +118,13 @@ The Customs Administrative Act of June 10, 1890, as originally enacted and as am
 
 #### Amendments
 
-2003—Subsec. (i). Pub. L. 108–7 inserted “, including foreign law enforcement officers,” after “or other person”. See Codification note above.
+2004—Subsec. (i). Pub. L. 108–429, §1561(c), repealed Pub. L. 108–7, §127(b). See 2003 Amendment note below.
+
+Pub. L. 108–429, §1561(a), inserted “, including foreign law enforcement officers,” after “or other person”.
+
+Subsec. (t). Pub. L. 108–429, §2106, added subsec. (t).
+
+2003—Subsec. (i). Pub. L. 108–7, §127(b), which directed amendment of section 1401(i) of title 19 by inserting “, including foreign law enforcement officers,” after “or other person”, was repealed by Pub. L. 108–429, §1561(c).
 
 1996—Subsec. (s). Pub. L. 104–295, §18(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “The term ‘reconciliation’ means an electronic process, initiated at the request of an importer, under which the elements of an entry, other than those elements related to the admissibility of the merchandise, that are undetermined at the time of entry summary are provided to the Customs Service at a later time.”
 
@@ -166,6 +174,12 @@ Subsecs. (m), (n). Pub. L. 91–271, §301(c)(2), redesignated subsecs. (m) and 
 
 United States Customs Service substituted for Bureau of Customs in subsec. (i) pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–429, title I, §1561(d), Dec. 3, 2004, 118 Stat. 2582, provided that: “This section \[amending this section and section 1629 of this title and repealing provisions set out as a note under section 1629 of this title\], and the amendments made by this section, take effect on the date of the enactment of this Act \[Dec. 3, 2004\].”
+
+Pub. L. 108–429, title II, §2108, Dec. 3, 2004, 118 Stat. 2598, provided that: “The amendments made by this subtitle \[subtitle B (§§2101–2108) of title II of Pub. L. 108–429, amending this section and sections 1484, 1501, 1504, 1514, 1515, and 1520 of this title\] shall apply to merchandise entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Dec. 3, 2004\].”
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 3(a)(6)(A) of Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as a note under section 1321 of this title.
@@ -184,13 +198,9 @@ Section 37 of act June 25, 1938, provided that: “Sections 31 and 34 of this Ac
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1629, 1677 of this title; title 10 section 374; title 18 section 553; title 22 section 6005; title 46 App. sections 1155, 1903.
 

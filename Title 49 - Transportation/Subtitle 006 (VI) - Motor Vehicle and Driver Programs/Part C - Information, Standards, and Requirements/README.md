@@ -1,9 +1,5 @@
 ### PART C—INFORMATION, STANDARDS, AND REQUIREMENTS
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 15 section 2512; title 18 sections 511, 2721.
-
 
 ---
 

@@ -23,10 +23,6 @@
 
 1961—Pub. L. 87–189, §4, Aug. 30, 1961, 75 Stat. 417, struck out item 1293 “Final decisions of Puerto Rico and Hawaii Supreme Courts”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 22 section 1631e; title 29 sections 1813, 1853, 1854; title 42 section 300gg–22.
-
 
 ---
 

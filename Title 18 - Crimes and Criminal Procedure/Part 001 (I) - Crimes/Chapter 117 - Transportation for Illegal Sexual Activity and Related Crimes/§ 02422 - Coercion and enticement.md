@@ -36,7 +36,3 @@ Subsec. (b). Pub. L. 105–314, §102(2), added subsec. (b) and struck out forme
 
 1986—Pub. L. 99–628 substituted “and enticement” for “or enticement of female” in section catchline and amended text generally. Prior to amendment, text read as follows: “Whoever knowingly persuades, induces, entices, or coerces any woman or girl to go from one place to another in interstate or foreign commerce, or in the District of Columbia or in any Territory or Possession of the United States, for the purpose of prostitution or debauchery, or for any other immoral purpose, or with the intent and purpose on the part of such person that such woman or girl shall engage in the practice of prostitution or debauchery, or any other immoral practice, whether with or without her consent, and thereby knowingly causes such woman or girl to go and to be carried or transported as a passenger upon the line or route of any common carrier or carriers in interstate or foreign commerce, or in the District of Columbia or in any Territory or Possession of the United States, shall be fined not more than $5,000 or imprisoned not more than five years, or both.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1961, 2253, 2254, 2255, 2516, 3142, 3486, 3559, 3583 of this title; title 8 section 1101; title 42 section 14135a.
-

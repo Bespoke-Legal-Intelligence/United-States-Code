@@ -4,7 +4,3 @@ The application must include a list of all the lands which the State certifies s
 
 (Aug. 13, 1954, ch. 727, §3, 68 Stat. 703.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 641d of this title.
-

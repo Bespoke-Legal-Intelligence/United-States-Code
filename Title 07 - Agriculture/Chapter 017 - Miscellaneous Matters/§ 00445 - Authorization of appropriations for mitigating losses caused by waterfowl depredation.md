@@ -4,7 +4,3 @@ There are authorized to be appropriated such sums as may be necessary to reimbur
 
 (July 3, 1956, ch. 512, §4, 70 Stat. 492.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 442, 444 of this title.
-

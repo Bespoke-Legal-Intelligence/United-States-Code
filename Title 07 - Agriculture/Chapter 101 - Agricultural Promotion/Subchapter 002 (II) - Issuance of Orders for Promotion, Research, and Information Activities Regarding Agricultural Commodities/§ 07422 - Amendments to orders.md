@@ -4,7 +4,3 @@ The provisions of this subchapter applicable to an order shall be applicable to 
 
 (Pub. L. 104–127, title V, §523, Apr. 4, 1996, 110 Stat. 1047.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7413 of this title.
-

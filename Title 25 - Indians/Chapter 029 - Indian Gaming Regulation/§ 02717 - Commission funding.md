@@ -40,7 +40,3 @@ Subsec. (a)(2)(B). Pub. L. 105–83, §123(a)(2)(B), substituted “$8,000,000�
 
 Pub. L. 105–83, title I, §123(a)(2)(C), Nov. 14, 1997, 111 Stat. 1566, as amended by Pub. L. 105–277, div. A, §101(e) \[title III, §338\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295, provided that: “\[N\]othing in subsection (a) of this section \[amending this section\] shall apply to the Mississippi Band of Choctaw.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2706, 2710, 2717a, 2718 of this title.
-

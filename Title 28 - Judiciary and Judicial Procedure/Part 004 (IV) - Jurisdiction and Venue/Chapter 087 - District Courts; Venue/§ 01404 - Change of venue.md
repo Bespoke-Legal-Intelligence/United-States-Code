@@ -38,7 +38,3 @@ Section 610(c) of Pub. L. 104–317 provided that: “The amendments made by thi
 
 Amendment by Pub. L. 87–845 effective Jan. 2, 1963, see section 25 of Pub. L. 87–845, set out as a note under section 414 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1407 of this title; title 42 section 2000e–5; title 47 section 325.
-

@@ -76,11 +76,15 @@ LOAN FEE TABLE
 
 (c)
 
-Waiver of Fee.—A fee may not be collected under this section from a veteran who is receiving compensation (or who, but for the receipt of retirement pay, would be entitled to receive compensation) or from a surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability.
+Waiver of Fee.—(1) A fee may not be collected under this section from a veteran who is receiving compensation (or who, but for the receipt of retirement pay, would be entitled to receive compensation) or from a surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability.
 
-(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, §202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669; Pub. L. 105–368, title VI, §§602(e)(1)(D), 603(b), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, §402(b), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–14, §8(b)(4), June 5, 2001, 115 Stat. 36; Pub. L. 107–103, title IV, §§405(c), 406, Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title IV, §405, Dec. 16, 2003, 117 Stat. 2665.)
+(2) A veteran who is rated eligible to receive compensation as a result of a pre-discharge disability examination and rating shall be treated as receiving compensation for purposes of this subsection as of the date on which the veteran is rated eligible to receive compensation as a result of the pre-discharge disability examination and rating without regard to whether an effective date of the award of compensation is established as of that date.
+
+(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, §202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669; Pub. L. 105–368, title VI, §§602(e)(1)(D), 603(b), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, §402(b), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–14, §8(b)(4), June 5, 2001, 115 Stat. 36; Pub. L. 107–103, title IV, §§405(c), 406, Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title IV, §405, Dec. 16, 2003, 117 Stat. 2665; Pub. L. 108–454, title IV, §406, Dec. 10, 2004, 118 Stat. 3617.)
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–454 designated existing provisions as par. (1) and added par. (2).
 
 2003—Subsec. (b)(2). Pub. L. 108–183 amended par. (2) generally, revising table by adding cls. (iii) and (iv) of subpars. (A) and (B) and changing dates in subpars. (A) and (B).
 
@@ -100,7 +104,7 @@ Subsec. (c). Pub. L. 105–368, §603(e)(1)(D)(i), struck out “(1)” before �
 
 “(2) There shall be credited to the Guaranty and Indemnity Fund (in addition to the amount required to be credited to such Fund under clause (A) or (B) of paragraph (2) of section 3725(c) of this title or paragraph (3) of that section), on behalf of a veteran or surviving spouse described in paragraph (1) of this subsection, an amount equal to the fee that, except for paragraph (1) of this subsection, would be collected from such veteran or surviving spouse.
 
-“(3) Credits to the Guaranty and Indemnity Fund under paragraph (2) of this subsection with respect to loans guaranteed, insured, or made under this chapterthat are closed during fiscal year 1990 shall be made in October 1990.”
+“(3) Credits to the Guaranty and Indemnity Fund under paragraph (2) of this subsection with respect to loans guaranteed, insured, or made under this chapter that are closed during fiscal year 1990 shall be made in October 1990.”
 
 1997—Subsec. (a)(2)(A). Pub. L. 105–33, §8032(1)(A), struck out “or 3733(a)” after “section 3711”.
 
@@ -194,7 +198,7 @@ Section 2511(c) of Pub. L. 98–369 provided that:
 
 “(1) The amendments made by subsection (a)(1) \[amending this section\] shall apply with respect to loans closed after the end of the 30-day period beginning on the date of the enactment of this Act \[July 18, 1984\].
 
-“(2) The amendments made by subsections (a)(2) and (b) \[amending this section and section 1824 \[now 3724\] of this title\] shall apply with respect to loans closed on orafter the date of the enactment of this Act \[July 18, 1984\].
+“(2) The amendments made by subsections (a)(2) and (b) \[amending this section and section 1824 \[now 3724\] of this title\] shall apply with respect to loans closed on or after the date of the enactment of this Act \[July 18, 1984\].
 
 “(3) The amendment made by subsection (a)(3) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -249,8 +253,4 @@ Pub. L. 100–136, §1(b), Oct. 16, 1987, 101 Stat. 813, authorized collection o
 #### Home Loan Origination Fee
 
 Pub. L. 99–576, title IV, §409, Oct. 28, 1986, 100 Stat. 3283, provided that: “It is the sense of the Congress that the Veterans’ Administration loan origination fee should not be increased above its present level of one percent of the amount of the loan guaranteed.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2041, 3703, 3722, 3734 of this title.
 

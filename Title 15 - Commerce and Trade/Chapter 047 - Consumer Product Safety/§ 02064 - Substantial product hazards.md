@@ -52,7 +52,7 @@ If the Commission determines (after affording interested parties, including cons
 
 #### (f) Hearing
 
-An order under subsection (c) or (d) of this section may be issued only after an opportunity for a hearing in accordance with section 554 of title 5 except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative). Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.
+An order under subsection (c) or (d) of this section may be issued only after an opportunity fora hearing in accordance with section 554 of title 5 except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative). Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.
 
 #### (g) Preliminary injunction
 
@@ -116,7 +116,7 @@ Requirement to report.—Each manufacturer, distributor, retailer, and importer 
 
 &emsp;&emsp;“(A) an incident occurred in which a child (regardless of age) choked on such a marble, small ball, or latex balloon or on a marble, small ball, latex balloon, or other small part contained in such toy or game; and
 
-&emsp;&emsp;“(B) as a result of that incident the child died, suffered serious injury, ceased breathing for anylength of time, or was treated by a medical professional.
+&emsp;&emsp;“(B) as a result of that incident the child died, suffered serious injury, ceased breathing for any length of time, or was treated by a medical professional.
 
 &emsp;“(2)
 
@@ -129,10 +129,6 @@ Effect on liability.—A report by a manufacturer, distributor, retailer, or imp
 “(b)
 
 Confidentiality Protections.—The confidentiality protections of section 6(b) of the Consumer Product Safety Act (15 U.S.C. 2055(b)) apply to any information reported to the Commission under subsection (a) of this section. For purposes of section 6(b)(5) of such Act, information so reported shall be treated as information submitted pursuant to section 15(b) of such Act \[15 U.S.C. 2064(b)\] respecting a consumer product.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2055, 2066, 2068, 2071, 2073 of this title; title 42 section 300j–22.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “extend”.</i>
 

@@ -30,7 +30,7 @@
 
 (d)(1) Except as provided in paragraph (2), this section does not authorize compensation for work or study performed by a member of a reserve component in connection with correspondence courses of a uniformed service.
 
-(2) A member of the Selected Reserve of the Ready Reserve may be paid compensation under this section at a rate and under terms determined by the Secretary of Defense, but not to exceed the rate otherwise applicable to the member under subsection (a), upon the member's successful completion of a course of instruction undertaken by the member using electronic-based distributed learning methodologies to accomplish training requirements related to unit readiness or mobilization, as directed for the member by the Secretary concerned. The compensation may be paid regardless of whether the course of instruction was under the direct control of the Secretary concerned or included the presence of an instructor.
+(2) A member of the Selected Reserve of the Ready Reserve may be paid compensation under this section at a rate and under terms determined by the Secretary of Defense, but not to exceed the rate otherwise applicable to the member under subsection (a), upon the member's successful completion of a course of instruction undertaken by the member using electronic-based distributed learning methodologies to accomplish training requirements related tounit readiness or mobilization, as directed for the member by the Secretary concerned. The compensation may be paid regardless of whether the course of instruction was under the direct control of the Secretary concerned or included the presence of an instructor.
 
 (e) A member of the National Guard or of a reserve component of the uniformed services may not be paid under this section for more than four periods of equivalent training, instruction, duty, or appropriate duties performed during a fiscal year instead of the member's regular period of instruction or regular period of appropriate duty during that fiscal year.
 
@@ -113,8 +113,4 @@ Amendment by Pub. L. 100–456 applicable with respect to persons who, after Sep
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of Title 10, Armed Forces.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 204, 301, 301a, 301c, 304, 305b, 306, 307, 308d, 310, 316, 320, 402, 433, 707, 1012 of this title; title 5 section 8440e; title 10 sections 101, 1076a, 1076b, 1465, 1466, 12319, 12503; title 26 section 3121; title 31 section 698a; title 32 sections 115, 715; title 38 section 101; title 42 section 409.
 

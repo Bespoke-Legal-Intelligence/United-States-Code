@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to investigate, plan, construct, ope
 
 (Pub. L. 88–536, §1, Aug. 31, 1964, 78 Stat. 744.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 600e of this title.
-

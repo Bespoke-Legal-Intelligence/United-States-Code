@@ -2,7 +2,7 @@
 
 #### (a) Maximum allowance; deduction for unemployment insurance; additional payments for approved training periods
 
-(1) The maximum amount of trade readjustment allowances payable with respect to the period covered by any certification to an adversely affected worker shall be the amount which is the product of 52 multiplied by the trade readjustment allowance payable to the worker for a week of total unemployment (as determined under section 2292(a) of this title), but such product shall be reduced by the total sum of the unemployment insurance to which the worker was entitled (or would have been entitled if he had applied therefor) in the worker's first benefit period described in section 2291(a)(3)(A) of this title.
+(1) The maximum amount of trade readjustment allowances payable with respect to the period covered by any certification to an adversely affected worker shall be the amount which is the product of 52 multiplied by the trade readjustment allowance payable to the worker for a week of total unemployment (as determined under section 2292(a) of this title), but such product shall be reduced by the total sum of theunemployment insurance to which the worker was entitled (or would have been entitled if he had applied therefor) in the worker's first benefit period described in section 2291(a)(3)(A) of this title.
 
 (2) A trade readjustment allowance shall not be paid for any week occurring after the close of the 104-week period (or, in the case of an adversely affected worker who requires a program of remedial education (as described in section 2296(a)(5)(D) of this title) in order to complete training approved for the worker under section 2296 of this title, the 130-week period) that begins with the first week following the week in which the adversely affected worker was most recently totally separated from adversely affected employment—
 
@@ -56,7 +56,7 @@ The Federal-State Extended Unemployment Compensation Act of 1970, referred to in
 
 #### Amendments
 
-2002—Subsec. (a)(2). Pub. L. 107–210, §116(a)(1), in introductory provisions inserted “(or, in the case of an adversely affected worker who requires a program of remedial education (as described in section 2296(a)(5)(D) of this title) in order to complete training approved for the worker under section 2296 of this title, the 130-week period)” after “104-week period”.
+2002—Subsec. (a)(2). Pub. L. 107–210, §116(a)(1), in introductory provisions inserted “(or, in the case of an adversely affected worker who requires a program of remedial education (as described in section 2296(a)(5)(D) of this title) in order to complete training approved forthe worker under section 2296 of this title, the 130-week period)” after “104-week period”.
 
 Subsec. (a)(3). Pub. L. 107–210, §116(a)(2), substituted “52” for “26” wherever appearing.
 
@@ -131,8 +131,4 @@ Section 1425(b) of Pub. L. 100–418 provided that:
 &emsp;“(ii) there is no justifiable cause for such failure or cessation,
 
 > no trade readjustment allowance may be paid to the worker under part I of subchapter B of chapter 2 of title II of the Trade Act of 1974 for the week in which such failure or cessation occurred, or any succeeding week, until the worker begins or resumes participation in a training program approved under section 236(a) of such Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2291, 2292, 2311, 2396 of this title.
 

@@ -14,7 +14,7 @@ If the Commission, in consultation with the Secretary of Agriculture, determines
 
 #### (c) Determination of essential agricultural use requirements
 
-The Secretary of Agriculture shall certify to the Secretary of Energy and the Commission thenatural gas requirements (expressed either as volumes or percentages of use) of persons (or classes thereof) for essential agricultural uses in order to meet the requirements of full food and fiber production.
+The Secretary of Agriculture shall certify to the Secretary of Energy and the Commission the natural gas requirements (expressed either as volumes or percentages of use) of persons (or classes thereof) for essential agricultural uses in order to meet the requirements of full food and fiber production.
 
 #### (d) Authority of Secretary of Agriculture to intervene
 
@@ -51,8 +51,4 @@ For purposes of this section—
 &emsp;&emsp;(D) uses natural gas in any other use the curtailment of which the Secretary of Energy determines would endanger life, health, or maintenance of physical property.
 
 (Pub. L. 95–621, title IV, §401, Nov. 9, 1978, 92 Stat. 3394.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3391a, 3392, 3393 of this title.
 

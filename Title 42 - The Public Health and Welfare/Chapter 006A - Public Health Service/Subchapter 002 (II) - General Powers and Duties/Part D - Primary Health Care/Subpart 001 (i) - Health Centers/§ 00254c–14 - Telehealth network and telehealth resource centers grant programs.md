@@ -156,7 +156,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 #### (C) Coordination
 
-&emsp;&emsp;The eligible entity demonstrates how the project to be carried out under the grant will be coordinated with other relevant federally funded projects in the areas, communities, and populations to be served through the grant.
+&emsp;&emsp;The eligible entity demonstrates how the project to be carried out under the grant will be coordinated with other relevant federally funded projects in the areas, communities,and populations to be served through the grant.
 
 #### (D) Network
 
@@ -230,7 +230,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 &emsp;&emsp;(C)(i) developing and providing distance education, in a manner that enhances access to care in rural areas, frontier communities, or medically underserved areas, or for medically underserved populations; or
 
-&emsp;&emsp;(ii) mentoring, precepting, or supervising health care providers and students seekingto become health care providers, in a manner that enhances access to care in the areas and communities, or for the populations, described in clause (i);
+&emsp;&emsp;(ii) mentoring, precepting, or supervising health care providers and students seeking to become health care providers, in a manner that enhances access to care in the areas and communities, or for the populations, described in clause (i);
 
 &emsp;&emsp;(D) developing and acquiring instructional programming;
 

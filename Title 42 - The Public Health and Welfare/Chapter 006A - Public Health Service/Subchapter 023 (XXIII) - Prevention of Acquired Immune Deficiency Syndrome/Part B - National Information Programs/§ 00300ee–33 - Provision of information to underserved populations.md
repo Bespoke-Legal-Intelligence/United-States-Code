@@ -18,9 +18,5 @@ Sections 254b and 254c of this title, referred to in subsec. (a), were in the or
 
 Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300ee–34 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -134,7 +134,3 @@ Section not to affect or supersede the provisions of section 637(a) of Title 15,
 
 The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 253b, 253m, 257 of this title; title 20 section 1018a.
-

@@ -16,6 +16,88 @@ Section 201 of title II of act Aug. 14, 1946, provided that: “This title \[ena
 
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
+#### Specialty Crops Competitiveness
+
+Pub. L. 108–465, §§2, 3, title I, §101, Dec. 21, 2004, 118 Stat. 3882, 3883, provided that:
+
+#### “SEC. 2. FINDINGS AND PURPOSE.
+
+“(a)
+
+Findings.—Congress finds the following:
+
+&emsp;“(1) A secure domestic food supply is a national security imperative for the United States.
+
+&emsp;“(2) A competitive specialty crop industry in the United States is necessary for the production of an abundant, affordable supply of highly nutritious fruits, vegetables, and other specialty crops, which are vital to the health and well-being of all Americans.
+
+&emsp;“(3) Increased consumption of specialty crops will provide tremendous health and economic benefits to both consumers and specialty crop growers.
+
+&emsp;“(4) Specialty crop growers believe that there are numerous areas of Federal agriculture policy that could be improved to promote increased consumption of specialty crops and increase the competitiveness of producers in the efficient production of affordable specialty crops in the United States.
+
+&emsp;“(5) As the globalization of markets continues, it is becoming increasingly difficult for United States producers to compete against heavily subsidized foreign producers in both the domestic and foreign markets.
+
+&emsp;“(6) United States specialty crop producers also continue to face serious tariff and non-tariff trade barriers in many export markets.
+
+“(b)
+
+Purpose.—It is the purpose of this Act \[see Short Title of 2004 Amendment note set out under section 3101 of this title\] to make necessary changes in Federal agriculture policy to accomplish the goals of increasing fruit, vegetable, and nut consumption and improving the competitiveness of United States specialty crop producers.
+
+#### “SEC. 3. DEFINITIONS.
+
+“In this Act:
+
+&emsp;“(1) The term ‘specialty crop’ means fruits and vegetables, tree nuts, dried fruits, and nursery crops (including floriculture).
+
+&emsp;“(2) The term ‘State’ means the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+&emsp;“(3) The term ‘State department of agriculture’ means the agency, commission, or department of a State government responsible for agriculture within the State.
+
+#### “TITLE I—STATE ASSISTANCE FOR SPECIALTY CROPS
+
+#### “SEC. 101. SPECIALTY CROP BLOCK GRANTS.
+
+“(a)
+
+Availability and Purpose of Grants.—Subject to the appropriation of funds to carry out this section, the Secretary of Agriculture shall make grants to States for each of the fiscal years 2005 through 2009 to be used by State departments of agriculture solely to enhance the competitiveness of specialty crops.
+
+“(b)
+
+Grants Based on Value of Production.—Subject to subsection (c), the amount of the grant for a fiscal year to a State under this section shall bear the same ratio to the total amount appropriated pursuant to the authorization of appropriations in subsection (i) for that fiscal year as the value of specialty crop production in the State during the preceding calendar year bears to the value of specialty crop production during the preceding calendar year in all States whose application for a grant for that fiscal year is accepted by the Secretary under subsection (f).
+
+“(c)
+
+Minimum Grant Amount.—Subject to the appropriation of sufficient funds to carry out this subsection, each State shall receive at least $100,000 each fiscal year as a grant under this section notwithstanding the amount calculated under subsection (b) for the State.
+
+“(d)
+
+Eligibility.—To be eligible to receive a grant under this section, a State department of agriculture shall prepare and submit, for approval by the Secretary of Agriculture, an application at such time, in such a manner, and containing such information as the Secretary shall require by regulation, including—
+
+&emsp;“(1) a State plan that meets the requirements of subsection (e);
+
+&emsp;“(2) an assurance that the State will comply with the requirements of the plan; and
+
+&emsp;“(3) an assurance that grant funds received under this section shall supplement the expenditure of State funds in support of specialty crops grown in that State, rather than replace State funds.
+
+“(e)
+
+Plan Requirements.—The State plan shall identify the lead agency charged with the responsibility of carrying out the plan and indicate how the grant funds will be utilized to enhance the competitiveness of specialty crops.
+
+“(f)
+
+Review of Application.—In reviewing the application of a State submitted under subsection (d), the Secretary of Agriculture shall ensure that the State plan would carry out the purpose of grant program, as specified in subsection (a). The Secretary may accept or reject applications for a grant under this section.
+
+“(g)
+
+Effect of Noncompliance.—If the Secretary of Agriculture, after reasonable notice to a State, finds that there has been a failure by the State to comply substantially with any provision or requirement of the State plan, the Secretary may disqualify, for one or more years, the State from receipt of future grants under this section.
+
+“(h)
+
+Audit Requirements.—For each year that a State receives a grant under this section, the State shall conduct an audit of the expenditures of grant funds by the State. Not later than 30 days after the completion of the audit, the State shall submit a copy of the audit to the Secretary of Agriculture.
+
+“(i)
+
+Authorization of Appropriations.—For each of the fiscal years 2005 through 2009, there is authorized to be appropriated to the Secretary of Agriculture $44,500,000 to make grants under this section.”
+
 #### Agriculture Innovation Center Demonstration Program
 
 Pub. L. 107–171, title VI, §6402, May 13, 2002, 116 Stat. 426, provided that:
@@ -270,7 +352,7 @@ Agricultural Marketing Resource Center Pilot Project.—
 
 &emsp;“(1)
 
-Establishment.—Notwithstanding the limitation on grants in subsection (b)(2), the Secretary shall not use more than 5 percent of the funds made available under subsection (b) to establish a pilot project (to be known as the ‘Agricultural Marketing Resource Center’) at an eligible institution described in paragraph (2) that will—
+Establishment.—Notwithstanding the limitation on grants in subsection (b)(2), the Secretaryshall not use more than 5 percent of the funds made available under subsection (b) to establish a pilot project (to be known as the ‘Agricultural Marketing Resource Center’) at an eligible institution described in paragraph (2) that will—
 
 &emsp;&emsp;“(A) develop a resource center with electronic capabilities to coordinate and provide to independent producers and processors (as determined by the Secretary) of value-added agricultural commodities and products of agricultural commodities information regarding research, business, legal, financial, or logistical assistance; and
 
@@ -312,5 +394,5 @@ Funding.—Funds made available under section 231(b)(4)(A)(i) of the Agricultura
 
 #### National Commission on Food Marketing
 
-Pub. L. 88–354, July 3, 1964, 78 Stat. 269, as amended by Pub. L. 89–20, May 15, 1965, 79 Stat. 111, provided for the establishment of a bipartisan National Commission on Food Marketing composed of fifteen members, fivefrom the Senate, five from the House of Representatives and five from outside the Federal Government, to study and appraise the marketing structure of the food industry and to make a final report of its findings and conclusions to the President and to the Congress by July 1, 1966. The Commission ceased to exist ninety days after submission of its final report.
+Pub. L. 88–354, July 3, 1964, 78 Stat. 269, as amended by Pub. L. 89–20, May 15, 1965, 79 Stat. 111, provided for the establishment of a bipartisan National Commission on Food Marketing composed of fifteen members, five from the Senate, five from the House of Representatives and five from outside the Federal Government, to study and appraise the marketing structure of the food industry and to make a final report of its findings and conclusions to the President and to the Congress by July 1, 1966. The Commission ceased to exist ninety days after submission of its final report.
 

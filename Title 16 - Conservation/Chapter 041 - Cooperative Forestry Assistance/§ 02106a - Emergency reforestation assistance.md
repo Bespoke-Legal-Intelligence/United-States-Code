@@ -82,7 +82,3 @@ Section was enacted as part of the Federal Stewardship Act of 1990 and also as p
 
 1991—Subsec. (c)(3)(C). Pub. L. 102–237 inserted “(16 U.S.C. 2101 et seq.)” after “1978” and made technical amendment to reference to section 590p(b) of this title to correct corresponding provision of original Act.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2106b of this title.
-

@@ -32,7 +32,3 @@ After a borrower has made all accrued payments of principal, interest, and penal
 
 (Pub. L. 92–181, title IV, §4.14D, as added Pub. L. 100–233, title I, §107, Jan. 6, 1988, 101 Stat. 1581.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2202a, 2279aa–9 of this title.
-

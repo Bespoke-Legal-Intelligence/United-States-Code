@@ -8,7 +8,7 @@ The Secretary may make grants, from allocations made under section 7423 of this 
 
 #### (1) Enrollment requirements
 
-&emsp;A local educational agency shall be eligible for a grant under this subpart for any fiscal year if the number of Indian children eligibleunder section 7427 of this title who were enrolled in the schools of the agency, and to whom the agency provided free public education, during the preceding fiscal year—
+&emsp;A local educational agency shall be eligible for a grant under this subpart for any fiscal year if the number of Indian children eligible under section 7427 of this title who were enrolled in the schools of the agency, and to whom the agency provided free public education, during the preceding fiscal year—
 
 &emsp;&emsp;(A) was at least 10; or
 
@@ -33,8 +33,4 @@ The Secretary may make grants, from allocations made under section 7423 of this 
 #### Prior Provisions
 
 A prior section 7422, Pub. L. 89–10, title VII, §7112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3719, related to program development and implementation grants, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7423 of this title.
 

@@ -16,10 +16,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1901, 1902, 1903, 1904, 1905, 1909, 1933, 1952, 1957, 1959, 1973 of this title; title 16 section 470a.
-
 
 ---
 

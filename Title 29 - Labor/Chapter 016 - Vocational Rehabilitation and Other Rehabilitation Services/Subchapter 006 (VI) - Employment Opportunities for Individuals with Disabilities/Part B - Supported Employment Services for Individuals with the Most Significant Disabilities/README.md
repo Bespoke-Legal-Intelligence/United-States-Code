@@ -1,9 +1,5 @@
 Part B—Supported Employment Services for Individuals With the Most Significant Disabilities
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 716, 721, 728, 796 of this title.
-
 
 ---
 

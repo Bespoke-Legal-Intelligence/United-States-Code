@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—STUDENT ASSISTANCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1001, 1002, 1003, 1011c, 1015, 1018, 1018a, 1018b, 1028, 1058, 1068, 1068d, 1101a, 1103, 1103d, 6103, 6674 of this title; title 8 sections 1255a, 1613; title 10 sections 1598, 2410j; title 15 section 1603; title 22 section 2462; title 26 sections 25A, 529; title 29 sections 2842, 2864; title 31 section 3716; title 38 section 3698; title 42 sections 653, 3796d–6, 7274e, 12604; title 48 section 1905; title 50 App. section 462.
-
 
 ---
 

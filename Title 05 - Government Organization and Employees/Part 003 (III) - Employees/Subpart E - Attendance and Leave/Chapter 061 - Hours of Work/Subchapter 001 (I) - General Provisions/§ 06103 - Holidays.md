@@ -22,7 +22,7 @@
 
 &emsp;Christmas Day, December 25.
 
-(b) For the purpose of statutes relating to pay and leave of employees, with respect to a legal public holiday and any other day declared to be a holiday by Federal statute or Executive order, the following rules apply:
+(b) For the purpose of statutes relating to pay and leave of employees, with respect to a legal public holiday and any other day declared to bea holiday by Federal statute or Executive order, the following rules apply:
 
 &emsp;(1) Instead of a holiday that occurs on a Saturday, the Friday immediately before is a legal holiday for—
 
@@ -128,7 +128,7 @@ Section 2 of Pub. L. 90–363 provided that: “The amendment made by subsection
 
 #### References in Laws of the United States to Observances of Legal Public Holidays
 
-Section 1(b) of Pub. L. 90–363 provided that: “Any reference in a law of the United States (in effect on the effective date of the amendment made by subsection (a) of this section) \[January 1, 1971\] to the observance of a legal public holiday on a day other than the day prescribed for the observance of such holiday by section 6103(a) of title 5, United States Code, as amended by subsection (a), shall on and after such effective date be considered a reference to the day for the observance of such holiday prescribed in such amended section 6103(a).”
+Section 1(b) of Pub. L. 90–363 provided that: “Any reference in a law of the United States (in effect on the effective date of the amendment made by subsection (a) of this section) \[January 1, 1971\] to the observance of alegal public holiday on a day other than the day prescribed for the observance of such holiday by section 6103(a) of title 5, United States Code, as amended by subsection (a), shall on and after such effective date be considered a reference to the day for the observance of such holiday prescribed in such amended section 6103(a).”
 
 #### Executive Order No. 10358
 
@@ -173,10 +173,6 @@ Sec. 8. Executive Order No. 10358 of June 9, 1952, entitled <i>Observance of Hol
 Sec. 9. This order is effective as of January 1, 1971.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6104, 6124 of this title; title 12 section 3710; title 15 section 18a; title 21 section 1053; title 29 section 1201; title 38 section 5120; title 42 sections 909, 15381.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,7 +30,3 @@ The customs laws, referred to in subsec. (a), are classified generally to Title 
 
 “Secretary of the Treasury” was substituted in subsec. (a)(1) for “Administrator”, meaning the Administrator of the Federal Alcohol Administration, pursuant to Reorg. Plan No. III of 1940, see note set out under section 201 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 204 of this title.
-

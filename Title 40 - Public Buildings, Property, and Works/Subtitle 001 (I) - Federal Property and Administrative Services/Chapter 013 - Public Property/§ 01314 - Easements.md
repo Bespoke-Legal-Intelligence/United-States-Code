@@ -28,7 +28,7 @@ Real property of the government.—The term “real property of the Government�
 
 &emsp;(3)
 
-State.—The term “State” means a State of the United States, the District of Columbia,Puerto Rico, and the territories and possessions of the United States.
+State.—The term “State” means a State of the United States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 
 (b)
 
@@ -116,5 +116,5 @@ In subsection (c), the words “affected” and “concerned” before “a noti
 
 #### References in Text
 
-The National Park Service Organic Act, referred to in subsec. (a)(2)(A)(ii), is the popular name for act Aug. 25, 1916, ch. 408, 39 Stat. 35, as amended, which is classified generally to sections 1, 2, 3, and 4 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 16 and Tables.
+The National Park Service Organic Act, referred to in subsec. (a)(2)(A)(ii), is act Aug. 25, 1916, ch. 408, 39 Stat. 35, as amended, which is classified generally to sections 1, 2, 3, and 4 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 16 and Tables.
 

@@ -6,7 +6,7 @@
 
 &emsp;(A) To enter into foreign trade agreements with foreign governments or instrumentalities thereof: <i>Provided</i>, That the enactment of the Trade Agreements Extension Act of 1955 shall not be construed to determine or indicate the approval or disapproval by the Congress of the executive agreement known as the General Agreement on Tariffs and Trade.
 
-&emsp;(B) To proclaim such modifications of existing duties and other import restrictions, or such additional import restrictions, or such continuance, and for such minimum periods, of existing customs or excise treatment of any article covered by foreign trade agreements, as are required or appropriate to carry out anyforeign trade agreement that the President has entered into hereunder.
+&emsp;(B) To proclaim such modifications of existing duties and other import restrictions, or such additional import restrictions, or such continuance, and for such minimum periods, of existing customs or excise treatment of any article covered by foreign trade agreements, as are required or appropriate to carry out any foreign trade agreement that the President has entered into hereunder.
 
 (2) No proclamation pursuant to paragraph (1)(B) of this subsection shall be made—
 
@@ -144,7 +144,7 @@ Subsec. (e)(1). Pub. L. 85–686, §3(d), provided for the inclusion in the repo
 
 Subsec. (f). Pub. L. 85–686, §3(e), added subsec. (f).
 
-1955—Subsec. (a). Act June 21, 1955, §3(a), among other changes, authorized the President to reduce tariff rates existing on January 1, 1955 by a total of 15 percent in stages of not more than 5 percent of such rates, orto reduce those rates which are higher than 50 percent of the value of an import to a rate not less than 50 percent, in stages of not more than one-third of the reduction in any one year.
+1955—Subsec. (a). Act June 21, 1955, §3(a), among other changes, authorized the President to reduce tariff rates existing on January 1, 1955 by a total of 15 percent in stages of not more than 5 percent of such rates, or to reduce those rates which are higher than 50 percent of the value of an import to a rate not less than 50 percent, in stages of not more than one-third of the reduction in any one year.
 
 Subsec. (b). Act June 21, 1955, §3(b), made applicable to Cuban products the new limits of authority to reduce tariffs.
 
@@ -192,7 +192,7 @@ Section 401 of Pub. L. 87–456, title IV, May 24, 1962, 76 Stat. 78, provided t
 
 #### Administration of Trade Agreements Program
 
-For provisions relating to the administration of the trade agreements program, see Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out as a note under section 2111 of this title.
+For provisions relating to the administration of the trade agreements program, see Ex. Ord. No. 11846, Mar.27, 1975, 40 F.R. 14291, set out as a note under section 2111 of this title.
 
 #### Congressional Approval or Disapproval of General Agreement on Tariffs and Trade
 
@@ -227,8 +227,4 @@ Ex. Ord. No. 10082, Oct. 5, 1949, 14 F.R. 6105, as amended by Ex. Ord. No. 10170
 #### Executive Order No. 10741
 
 Ex. Ord. No. 10741, Nov. 26, 1957, 22 F.R. 9451, which established the Trade Policy Committee, was revoked by Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473, set out as a note under section 1801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1304, 1352, 1360, 1361, 1862, 1881, 1981, 2135, 3105 of this title; title 16 section 742g; title 22 section 1357.
 

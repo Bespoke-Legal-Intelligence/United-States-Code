@@ -70,11 +70,7 @@
 
 #### References in Text
 
-The Fair Housing Act, referred to in subsec. (a)(4)(C)(iii), (D), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to theCode, see Short Title note set out under section 3601 of this title and Tables.
+The Fair Housing Act, referred to in subsec. (a)(4)(C)(iii), (D), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 The civil rights laws, referred to in subsecs. (a)(4)(C)(iv), (D) and (b)(2)(D), are classified generally to chapter 21 (§1981 et seq.) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13602 of this title.
 

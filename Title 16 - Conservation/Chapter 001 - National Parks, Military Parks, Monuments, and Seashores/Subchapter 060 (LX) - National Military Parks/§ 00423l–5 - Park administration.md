@@ -10,7 +10,7 @@ The Secretary shall provide for the establishment of a monument or memorial suit
 
 #### (c) Cooperative agreements
 
-The Secretary may enter into cooperative agreements with the Commonwealth of Virginia,its political subdivisions (including the City of Richmond), private property owners, and other members of the private sector to develop mechanisms to protect and interpret the historical resources within the battlefield park in a manner that would allow for continued private ownership and use where compatible with the purposes for which the battlefield is established.
+The Secretary may enter into cooperative agreements with the Commonwealth of Virginia, its political subdivisions (including the City of Richmond), private property owners, and other members of the private sector to develop mechanisms to protect and interpret the historical resources within the battlefield park in a manner that would allow for continued private ownership and use where compatible with the purposes for which the battlefield is established.
 
 #### (d) Technical assistance
 
@@ -21,8 +21,4 @@ The Secretary may provide technical assistance to the Commonwealth of Virginia, 
 #### References in Text
 
 Sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title, referred to in subsec. (a), was in the original “this title”, meaning title V of Pub. L. 106–511, Nov. 13, 2000, 114 Stat. 2373, which enacted sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title and repealed sections 423j to 423<i>l</i> of this title. For complete classification of title V to the Code, see Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 423<i>l</i>–1, 423<i>l</i>–2, 423<i>l</i>–4, 423<i>l</i>–6 of this title.
 

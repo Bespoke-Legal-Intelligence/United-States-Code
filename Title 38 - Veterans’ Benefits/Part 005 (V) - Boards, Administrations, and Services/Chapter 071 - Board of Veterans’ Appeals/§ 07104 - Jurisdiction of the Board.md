@@ -24,7 +24,7 @@
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–275 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “After reaching a decision in a case, the Board shall promptly mail a copy of its written decision to the claimant and the claimant's authorized representative (if any) at the last known address of the claimant and at the last known address of such representative (if any).”
+1996—Subsec. (e). Pub. L. 104–275 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “After reaching a decision in a case, the Boardshall promptly mail a copy of its written decision to the claimant and the claimant's authorized representative (if any) at the last known address of the claimant and at the last known address of such representative (if any).”
 
 1994—Subsec. (a). Pub. L. 103–271, §8, substituted “511(a)” for “211(a)”.
 
@@ -65,8 +65,4 @@ Amendment by sections 101(b) and 204 of Pub. L. 100–687 effective Sept. 1, 198
 #### Effective Date of 1961 Amendment
 
 Section 2 of Pub. L. 87–97 provided that: “The amendment made by this Act \[amending this section\] shall take effect as of January 1, 1962.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7102, 7266 of this title.
 

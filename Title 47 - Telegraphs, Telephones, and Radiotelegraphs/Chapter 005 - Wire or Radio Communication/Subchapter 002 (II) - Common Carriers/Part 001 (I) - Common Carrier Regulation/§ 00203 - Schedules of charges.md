@@ -2,7 +2,7 @@
 
 #### (a) Filing; public display
 
-Every common carrier, except connecting carriers, shall, within such reasonable time as the Commission shall designate, file with the Commission and print and keep open for public inspection schedules showing all charges for itself and its connecting carriers for interstate and foreign wire or radio communication between the different points on its own system, and between points on its own system and points on the system of its connecting carriers or points on the system of any other carrier subject to this chapter when a through route has been established, whether such charges are joint or separate, and showing the classifications, practices, and regulations affecting such charges. Suchschedules shall contain such other information, and be printed in such form, and be posted and kept open for public inspection in such places, as the Commission may by regulation require, and each such schedule shall give notice of its effective date; and such common carrier shall furnish such schedules to each of its connecting carriers, and such connecting carriers shall keep such schedules open for inspection in such public places as the Commission may require.
+Every common carrier, except connecting carriers, shall, within such reasonable time as the Commission shall designate, file with the Commission and print and keep open for public inspection schedules showing all charges for itself and its connecting carriers for interstate and foreign wire or radio communication between the different points on its own system, and between points on its own system and points on the system of its connecting carriers or points on the system of any other carrier subject to this chapter when a through route has been established, whether such charges are joint or separate, and showing the classifications, practices, and regulations affecting such charges. Such schedules shall contain such other information, and be printed in such form, and be posted and kept open for public inspection in such places, as the Commission may by regulation require, and each such schedule shall give notice of its effective date; and such common carrier shall furnish such schedules to each of its connecting carriers, and such connecting carriers shall keep such schedules open for inspection in such public places as the Commission may require.
 
 #### (b) Changes in schedule; discretion of Commission to modify requirements
 
@@ -31,8 +31,4 @@ In case of failure or refusal on the part of any carrier to comply with the prov
 1989—Subsec. (e). Pub. L. 101–239 substituted “$6,000” for “$500” and “$300” for “$25”.
 
 1976—Subsec. (b). Pub. L. 94–376 designated existing provisions as par. (1), substituted “after ninety days notice” for “after thirty days’ notice”, and struck out provision that the Commission may, in its discretion and for good cause shown, modify the requirements made by or under authority of this section in particular instances or by a general order applicable to special circumstances or conditions, and added par. (2).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 152 of this title.
 

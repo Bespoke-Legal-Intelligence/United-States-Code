@@ -92,7 +92,7 @@ Subsec. (a)(1). Pub. L. 101–239, §6503(b)(4), added par. (1) and struck out f
 
 Subsec. (a)(2) to (4). Pub. L. 101–239, §6503(b)(4), added pars. (2) to (4) and redesignated former par. (2) as (5).
 
-Subsec. (a)(5). Pub. L. 101–239, §6503(b)(5)(A), (6), in introductory provisions, substituted “provides” for “a statement of assurances that represents to the Secretary”, and in concluding provisions, substituted “The application shall be developed by, or in consultation with, the State maternal and child health agency and shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during its development and after its transmittal.” for “The description and statement shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during development of the description and statement and after its transmittal. The description and statement shall be revised (consistent with this section) throughout the year as may be necessary to reflect substantial changes in any element of such description or statement, and any revision shall be subject to the requirements of the preceding sentence.”
+Subsec. (a)(5). Pub. L. 101–239, §6503(b)(5)(A), (6), in introductory provisions, substituted “provides” for “a statement of assurances that represents to the Secretary”, and in concluding provisions, substituted “The application shall be developed by, or in consultation with, the State maternal and child health agency and shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during its development and after its transmittal.” for “The description and statement shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during development of the description and statement and after its transmittal. The description and statement shall be revised (consistent with this section) throughout the year as may be necessary to reflect substantial changes in any element of such description or statement, andany revision shall be subject to the requirements of the preceding sentence.”
 
 Pub. L. 101–239, §6503(b)(4), redesignated former par. (2) as (5).
 
@@ -124,13 +124,9 @@ Subsec. (2)(D). Pub. L. 97–248, §137(b)(4), substituted “any charges are im
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 6501(b) of Pub. L. 101–239 applicable to appropriations for fiscal years beginningwith fiscal year 1990, and amendment by section 6503(b) of Pub. L. 101–239 applicable to payments for allotments for fiscal years beginning with fiscal year 1991, see section 6510(a), (b)(1) of Pub. L. 101–239, set out as a note under section 701 of this title.
+Amendment by section 6501(b) of Pub. L. 101–239 applicable to appropriations for fiscal years beginning with fiscal year 1990, and amendment by section 6503(b) of Pub. L. 101–239 applicable to payments for allotments for fiscal years beginning with fiscal year 1991, see section 6510(a), (b)(1) of Pub. L. 101–239, set out as a note under section 701 of this title.
 
 #### Effective Date of 1982 Amendment
 
 Amendment by section 137 of Pub. L. 97–248 effective as if originally included as part of this section as this section was amended by the Omnibus Budget Reconciliation Act of 1981, Pub. L. 97–35, see section 137(d)(2) of Pub. L. 97–248, set out as a note under section 1396a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 702, 703, 704, 706, 709, 710, 4728 of this title.
 

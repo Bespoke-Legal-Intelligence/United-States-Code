@@ -16,7 +16,3 @@ Sections 423 to 423g and 610 of this title, referred to in text, was in the orig
 
 Section constitutes a part of section 45 of act May 25, 1926. The remainder of said section 45 (the third par. and the fourth par., except the final proviso, which is classified as the last par. of this section) has been omitted.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 423b, 423f, 424d of this title.
-

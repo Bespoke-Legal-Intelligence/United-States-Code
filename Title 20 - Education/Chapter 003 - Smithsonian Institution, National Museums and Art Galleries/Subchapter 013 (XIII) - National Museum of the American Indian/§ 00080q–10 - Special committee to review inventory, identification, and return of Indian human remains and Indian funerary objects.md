@@ -32,7 +32,7 @@ The Secretary shall ensure that the members of the committee have full and free 
 
 Members of the committee shall—
 
-&emsp;(1) be paid the daily equivalent of the annual rate of basic pay payable for grade GS–18 ofthe General schedule under section 5332 of title 5; and
+&emsp;(1) be paid the daily equivalent of the annual rate of basic pay payable for grade GS–18 of the General schedule under section 5332 of title 5; and
 
 &emsp;(2) be entitled (to the same extent as provided in section 5703 of such title, with respect to employees serving intermittently in the Government service) to per diem, travel, and transportation expenses;
 
@@ -73,10 +73,6 @@ Subsec. (b)(2), (3). Pub. L. 104–278, §5(2)(C), (D), added par. (2) and redes
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80q–11, 80q–15 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “shall so”.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as otherwise provided in this subchapter, no person may offer or provide adoptionservices in connection with a Convention adoption in the United States unless that person—
+Except as otherwise provided in this subchapter, no person may offer or provide adoption services in connection with a Convention adoption in the United States unless that person—
 
 &emsp;(1) is accredited or approved in accordance with this subchapter; or
 
@@ -37,8 +37,4 @@ This subchapter, referred to in subsec. (a), was in the original “this title�
 #### Effective Date
 
 Section effective upon entry into force for the United States of the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, see section 505(a)(2), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14912, 14944 of this title.
 

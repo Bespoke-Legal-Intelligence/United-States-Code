@@ -26,7 +26,3 @@ Four sections were consolidated with only such changes of phraseology as were ne
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in sixth par.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2670.
-

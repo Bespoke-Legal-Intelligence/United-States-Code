@@ -2,7 +2,7 @@
 
 #### (a) Projects relating to natural watercourse or canals
 
-No grant shall be made under section 6702, 6703, or 6704 of this title for any project having as its principal purpose the channelization, damming, diversion, or dredging of any natural watercourse, or the construction or enlargement of any canal (other than a canal or raceway designated for maintenance as an historic site) andhaving as its permanent effect the channelization, damming, diversion, or dredging of such watercourse or construction or enlargement of any canal (other than a canal or raceway designated for maintenance as an historic site).
+No grant shall be made under section 6702, 6703, or 6704 of this title for any project having as its principal purpose the channelization, damming, diversion, or dredging of any natural watercourse, or the construction or enlargement of any canal (other than a canal or raceway designated for maintenance as an historic site) and having as its permanent effect the channelization, damming, diversion, or dredging of such watercourse or construction or enlargement of any canal (other than a canal or raceway designated for maintenance as an historic site).
 
 #### (b) Acquisition of interest in real property
 
@@ -38,7 +38,7 @@ No grant shall be made under this chapter for any project for which the applican
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (e)(2), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (e)(2), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 Act of August 12, 1968, entitled “An Act to insure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, referred to in subsec. (g), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, popularly known as the Architectural Barriers Act of 1968, which is classified generally to chapter 51 (§4151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of this title and Tables.
 
@@ -47,10 +47,6 @@ The Rehabilitation Act of 1973, referred to in subsec. (g), is Pub. L. 93–112,
 #### Amendments
 
 1977—Subsecs. (e) to (g). Pub. L. 95–28 added subsecs. (e) to (g).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6707 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “buildings”.</i>
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;For purposes of subparagraph (A)(i), the percentage of grant or loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 that has been earned by the student is—
 
-&emsp;&emsp;&emsp;(i) equal to the percentage of the payment period or period of enrollment for which assistance was awarded that was completed (as determined in accordance with subsection (d) of this section) as of the day the student withdrew, provided that such date occurs on or before the completion of 60 percent of the payment period or period of enrollment; or
+&emsp;&emsp;&emsp;(i) equal to the percentage of the payment period or period of enrollment forwhich assistance was awarded that was completed (as determined in accordance with subsection (d) of this section) as of the day the student withdrew, provided that such date occurs on or before the completion of 60 percent of the payment period or period of enrollment; or
 
 &emsp;&emsp;&emsp;(ii) 100 percent, if the day the student withdrew occurs after the student has completed 60 percent of the payment period or period of enrollment.
 
@@ -98,7 +98,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Excess funds returned by the institution or the student, as appropriate, in accordancewith paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter and part C of subchapter I of chapter 34 of title 42 to the student or on behalf of the student for the payment period or period of enrollment for which a return of funds is required. Such excess funds shall be credited in the following order:
+&emsp;&emsp;Excess funds returned by the institution or the student, as appropriate, in accordance with paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter and part C of subchapter I of chapter 34 of title 42 to the student or on behalf of the student for the payment period or period of enrollment for which a return of funds is required. Such excess funds shall be credited in the following order:
 
 &emsp;&emsp;&emsp;(i) To outstanding balances on loans made under section 1078–8 of this title for the payment period or period of enrollment for which a return of funds is required.
 
@@ -195,8 +195,4 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1092, 1094 of this title; title 42 section 12604.
 

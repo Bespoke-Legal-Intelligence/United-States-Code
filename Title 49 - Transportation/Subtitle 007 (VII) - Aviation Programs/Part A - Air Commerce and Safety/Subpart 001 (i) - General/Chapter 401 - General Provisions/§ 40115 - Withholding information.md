@@ -42,7 +42,3 @@ In subsection (a)(2), the words “shall order the information withheld from pub
 
 In subsection (b), the words “The Board, the Secretary of State, or the Secretary of Transportation, as the case may be, shall be responsible for classified information in accordance with appropriate law” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 46311 of this title.
-

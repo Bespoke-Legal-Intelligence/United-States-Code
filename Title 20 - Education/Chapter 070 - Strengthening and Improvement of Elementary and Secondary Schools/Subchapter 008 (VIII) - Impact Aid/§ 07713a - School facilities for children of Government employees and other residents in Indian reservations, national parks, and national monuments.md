@@ -10,7 +10,3 @@ Section was not enacted as part of the Elementary and Secondary Education Act of
 
 Section was formerly classified to section 244a of this title. Prior thereto, section was classified to section 76a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1228, 7707, 8512 of this title.
-

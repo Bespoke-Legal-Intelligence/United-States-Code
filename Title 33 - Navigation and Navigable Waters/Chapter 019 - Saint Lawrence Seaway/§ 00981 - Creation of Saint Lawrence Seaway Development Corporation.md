@@ -24,7 +24,3 @@ Pub. L. 89–670, §8(g)(2), which provided that the Administrator of the St. La
 
 Ex. Ord. No. 10534, June 9, 1954, 19 F.R. 3413, as amended by Ex. Ord. No. 10771, June 23, 1958, 23 F.R. 4525, which related to the direction and supervision of the St. Lawrence Seaway Development Corporation, was revoked by section 16 of Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 110.
-

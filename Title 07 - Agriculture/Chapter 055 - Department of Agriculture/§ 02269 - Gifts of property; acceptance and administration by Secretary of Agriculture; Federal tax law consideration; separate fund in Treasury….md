@@ -4,7 +4,3 @@ Notwithstanding any other provision of law, the Secretary of Agriculture is auth
 
 (Pub. L. 95–442, Oct. 10, 1978, 92 Stat. 1065.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3152 of this title; title 16 sections 460<i>lll</i>–26, 1650.
-

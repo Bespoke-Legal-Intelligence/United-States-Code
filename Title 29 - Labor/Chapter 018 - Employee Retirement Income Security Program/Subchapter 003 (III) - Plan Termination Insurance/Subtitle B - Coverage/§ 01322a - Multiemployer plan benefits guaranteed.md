@@ -28,7 +28,7 @@ The corporation shall guarantee, in accordance with this section, the payment of
 
 #### (c) Determinations respecting amount of guarantee
 
-(1) Except as provided in subsection (g) of this section, the monthly benefit of a participant ora beneficiary which is guaranteed under this section by the corporation with respect to a plan is the product of—
+(1) Except as provided in subsection (g) of this section, the monthly benefit of a participant or a beneficiary which is guaranteed under this section by the corporation with respect to a plan is the product of—
 
 &emsp;(A) 100 percent of the accrual rate up to $11, plus 75 percent of the lesser of—
 
@@ -156,7 +156,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 &emsp;(B) in which it is determined by the corporation that substantially all the employers have withdrawn from the plan pursuant to an agreement or arrangement to withdraw.
 
-(Pub. L. 93–406, title IV, §4022A, as added Pub. L. 93–364, title I, §102, Sept. 26, 1980, 94 Stat. 1210; amended Pub. L. 99–272, title XI, §11005(c)(4)–(12), Apr. 7, 1986, 100 Stat. 242; Pub. L. 101–239, title VII, §§7891(a)(1), 7893(b), 7894(g)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2445, 2447, 2451; Pub. L. 106–554, §1(a)(6) \[title IX, §951(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–586.)
+(Pub. L. 93–406, title IV, §4022A, as added Pub. L. 96–364, title I, §102, Sept. 26, 1980, 94 Stat. 1210; amended Pub. L. 99–272, title XI, §11005(c)(4)–(12), Apr. 7, 1986, 100 Stat. 242; Pub. L. 101–239, title VII, §§7891(a)(1), 7893(b), 7894(g)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2445, 2447, 2451; Pub. L. 106–554, §1(a)(6) \[title IX, §951(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–586.)
 
 #### References in Text
 
@@ -198,6 +198,8 @@ Subsec. (g)(4)(D). Pub. L. 99–272, §11005(c)(12), substituted “joint” for
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 2000 Amendment
@@ -219,8 +221,4 @@ Amendment by Pub. L. 99–272 effective for plan years commencing after Dec. 31,
 #### Effective Date
 
 Section effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1301, 1305, 1306, 1322b, 1346, 1361, 1411, 1413, 1424, 1425, 1426, 1441, 1461 of this title; title 26 sections 418C, 418D, 418E.
 

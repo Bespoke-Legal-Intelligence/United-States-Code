@@ -30,9 +30,7 @@ The words “upon such conditions and pursuant to such procedures as he may by r
 
 1992—Pub. L. 102–550 substituted “to an agency, including any State financial institutions supervisory agency,” for “to an agency” in first sentence and inserted after second sentence “The Secretary may only require reports on the use of such information by any State financial institutions supervisory agency for other than supervisory purposes.”
 
-#### Effective and Termination Dates of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of Title 12, Banks and Banking.
 

@@ -1,9 +1,5 @@
 subpart 2—early reading first
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 6302, 6363 of this title.
-
 
 ---
 

@@ -59,7 +59,7 @@
 
 Amendment of State Constitutions to remove legal impediment to the assumption of civil and criminal jurisdiction in accordance with the provisions of section 1162 of Title 18 and section 1360 of Title 28, see act Aug. 15, 1953, ch. 505, §6, 67 Stat. 590, set out as a note under section 1360 of Title 28, Judiciary and Judicial Procedure.
 
-Consent of United States to other States to assume jurisdiction with respect to criminal offenses or civil causes of action, or with respect to both, as providedfor in section 1162 of Title 18 and section 1360 of Title 28, see act Aug. 15, 1953, ch. 505, §7, 67 Stat. 590, set out as a note under section 1360 of Title 28.
+Consent of United States to other States to assume jurisdiction with respect to criminal offenses or civil causes of action, or with respect to both, as provided for in section 1162 of Title 18 and section 1360 of Title 28, see act Aug. 15, 1953, ch. 505, §7, 67 Stat. 590, set out as a note under section 1360 of Title 28.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) in which rights in property in the United States acquired by succession or gift or rights in immovable property situated in the United States are in issue;
 
-&emsp;(5) not otherwise encompassed in paragraph (2) above, in which money damages are sought against a foreign state for personal injury or death, or damage to or loss of property, occurring in the United States and caused by the tortious act or omission of that foreign state or of any official or employee of that foreign state while acting within the scope of his office or employment; except this paragraph shall not apply to—
+&emsp;(5) not otherwise encompassed in paragraph (2) above, in which money damages are soughtagainst a foreign state for personal injury or death, or damage to or loss of property, occurring in the United States and caused by the tortious act or omission of that foreign state or of any official or employee of that foreign state while acting within the scope of his office or employment; except this paragraph shall not apply to—
 
 &emsp;&emsp;(A) any claim based upon the exercise or performance or the failure to exercise or perform a discretionary function regardless of whether the discretion be abused, or
 
@@ -54,7 +54,7 @@ Limitation on Discovery.—
 
 &emsp;(1)
 
-In general.—(A) Subject to paragraph (2), if an action is filed that would otherwisebe barred by section 1604, but for subsection (a)(7), the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
+In general.—(A) Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for subsection (a)(7), the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
 
 &emsp;(B) A stay under this paragraph shall be in effect during the 12-month period beginning on the date on which the court issues the order to stay discovery. The court shall renew the order to stay discovery for additional 12-month periods upon motion by the United States if the Attorney General certifies that discovery would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action.
 
@@ -112,7 +112,7 @@ Subsecs. (e) to (g). Pub. L. 104–132, §221(a)(2), added subsecs. (e) to (g).
 
 Subsec. (b). Pub. L. 100–702, §1(3), struck out at end “Whenever notice is delivered under subsection (b)(1) of this section, the maritime lien shall thereafter be deemed to be an in personam claim against the foreign state which at that time owns the vessel or cargo involved: <i>Provided</i>, That a court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose, such value to be determined as of the time notice is served under subsection (b)(1) of this section.”
 
-Subsec. (b)(1). Pub. L. 100–640, §1(1), substituted “and if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit, the service of process of arrest shall be deemed to constitute valid delivery of such notice, but the party bringing the suit shall be liable for any damages sustained by the foreign state as a result of the arrest if the party bringing the suit had actual or constructive knowledge that the vessel or cargo of a foreign state was involved” for “but such notice shall not be deemed to have been delivered, nor may it thereafter be delivered, if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit—unless the party was unaware that the vessel or cargo of a foreign state was involved, in which event the service of process of arrest shall be deemed to constitute valid delivery of such notice”.
+Subsec. (b)(1). Pub. L. 100–640, §1(1), substituted “and if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit, the service of process of arrest shall be deemed to constitute valid delivery of such notice, but the party bringing the suit shall be liable for any damages sustained by the foreign state as a result of the arrest if the party bringing the suit had actual or constructive knowledge that the vessel or cargo of a foreign statewas involved” for “but such notice shall not be deemed to have been delivered, nor may it thereafter be delivered, if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit—unless the party was unaware that the vessel or cargo of a foreign state was involved, in which event the service of process of arrest shall be deemed to constitute valid delivery of such notice”.
 
 Subsec. (b)(2). Pub. L. 100–640, §1(2), substituted “paragraph (1) of this subsection” for “subsection (b)(1) of this section”.
 
@@ -124,7 +124,7 @@ Pub. L. 105–11 provided that the amendment made by that Act was effective with
 
 #### Effective Date of 1996 Amendment
 
-Section 221(c) of title II of Pub. L. 104–132 provided that: “The amendments made by this subtitle \[subtitle B (§221) of title II of Pub. L. 104–132, amending this section and section 1610 of this title\] shall apply to anycause of action arising before, on, or after the date of the enactment of this Act \[Apr. 24, 1996\].”
+Section 221(c) of title II of Pub. L. 104–132 provided that: “The amendments made by this subtitle \[subtitle B (§221) of title II of Pub. L. 104–132, amending this section and section 1610 of this title\] shall apply to any cause of action arising before, on, or after the date of the enactment of this Act \[Apr. 24, 1996\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -137,8 +137,4 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title V, §589\], Sept. 30, 1996,
 “(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under section 6(j) of the Export Administration Act of 1979 \[50 App. U.S.C. 2405(j)\] while acting within the scope of his or her office, employment, or agency shall be liable to a United States national or the national's legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in section 1605(a)(7).
 
 “(b) Provisions related to statute of limitations and limitations on discovery that would apply to an action brought under 28 U.S.C. 1605(f) and (g) shall also apply to actions brought under this section. No action shall be maintained under this action \[sic\] if an official, employee, or agent of the United States, while acting within the scope of his or her office, employment, or agency would not be liable for such acts if carried out within the United States.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1330, 1391, 1604, 1606, 1607, 1610 of this title; title 15 section 15.
 

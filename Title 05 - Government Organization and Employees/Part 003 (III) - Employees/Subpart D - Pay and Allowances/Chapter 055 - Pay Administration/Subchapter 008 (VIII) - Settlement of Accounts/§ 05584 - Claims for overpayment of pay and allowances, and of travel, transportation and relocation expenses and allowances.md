@@ -106,7 +106,3 @@ Section 4 of Pub. L. 99–224 provided that: “The amendments made by section 1
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54. set out as a note under section 305 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6302, 8118 of this title; title 22 section 2504; title 42 section 5055.
-

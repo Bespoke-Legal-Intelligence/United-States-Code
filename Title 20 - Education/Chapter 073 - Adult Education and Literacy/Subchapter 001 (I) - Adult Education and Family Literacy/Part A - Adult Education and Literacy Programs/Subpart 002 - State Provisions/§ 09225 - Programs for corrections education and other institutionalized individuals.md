@@ -54,7 +54,3 @@ Provisions similar to this section were contained in section 1204 of this title 
 
 Subsec. (c). Pub. L. 105–277, §101(f) \[title VIII, §404(d)(2)\], substituted “within” for “with” before “5 years”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9222 of this title.
-

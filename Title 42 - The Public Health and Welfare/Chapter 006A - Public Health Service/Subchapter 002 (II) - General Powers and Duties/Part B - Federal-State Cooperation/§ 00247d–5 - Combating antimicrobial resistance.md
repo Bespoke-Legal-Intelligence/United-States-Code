@@ -50,7 +50,7 @@ The Secretary and the Director of Agricultural Research Services, consistent wit
 
 &emsp;(3) the epidemiology, mechanisms, and pathogenesis of antimicrobial resistance;
 
-&emsp;(4) the sequencing of the genomes, or other DNA analysis, or other comparative analysis, of priority pathogens (as determined by the Director of the National Institutes of Health in consultation with the task force established under subsection (a) of this section), in collaboration and coordination with the activities of the Department of Defense and theJoint Genome Institute of the Department of Energy; and
+&emsp;(4) the sequencing of the genomes, or other DNA analysis, or other comparative analysis, of priority pathogens (as determined by the Director of the National Institutes of Health in consultation with the task force established under subsection (a) of this section), in collaboration and coordination with the activities of the Department of Defense and the Joint Genome Institute of the Department of Energy; and
 
 &emsp;(5) other relevant research areas.
 
@@ -117,8 +117,4 @@ Subsec. (b)(4). Pub. L. 107–188, §109(1)(B), amended par. (4) generally. Prio
 Subsec. (e)(2). Pub. L. 107–188, §109(2), inserted “schools or programs that train medical laboratory personnel,” after “professional medical societies,”.
 
 Subsec. (g). Pub. L. 107–188, §109(3), substituted “$25,000,000 for each of the fiscal years 2002 and 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006” for “and such sums as may be necessary for each subsequent fiscal year through 2006”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 247d–7c of this title.
 

@@ -18,13 +18,13 @@ The Commission shall remove from the Restricted Data category such data as the C
 
 #### (e) Joint determination on atomic energy programs
 
-The Commission shall remove from the Restricted Data category such information concerning the atomic energy programs of other nations as the Commission and the Director of Central Intelligence jointly determine to be necessary to carry out the provisions of section 403(d) <sup>1</sup> of title 50 and can be adequately safeguarded as defense information.
+The Commission shall remove from the Restricted Data category such information concerning the atomic energy programs of other nations as the Commission and the Director of Central Intelligence jointly determine to be necessary to carry out the provisions of section 102(d) of the National Security Act of 1947, as amended,<sup>1</sup> and can be adequately safeguarded as defense information.
 
 (Aug. 1, 1946, ch. 724, title I, §142, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 941; amended Pub. L. 102–484, div. C, title XXXI, §3152, Oct. 23, 1992, 106 Stat. 2644; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–337, div. A, title XXXI, §3155(c)(2), (3), Oct. 5, 1994, 108 Stat. 3092.)
 
 #### References in Text
 
-Section 403(d) of title 50, referred to in subsec. (e), was struck out and a new subsec. (d) of section 403 of Title 50, War and National Defense, was added by Pub. L. 102–496, title VII, §704(3), Oct. 24, 1992, 106 Stat. 3189. Subsequently, section 403 was repealed and a new section 403 enacted by Pub. L. 104–293, title VIII, §805(a), Oct. 11, 1996, 110 Stat. 3477. See section 403–3 of Title 50.
+Section 102(d) of the National Security Act of 1947, as amended, referred to in subsec. (e), was a reference to section 102(d) of act July 26, 1947, ch. 343, title I, 61 Stat. 497, as amended, which was classified to section 403(d) of Title 50, War and National Defense, prior to repeal by Pub. L. 104–293, title VIII, §805(a), Oct. 11, 1996, 110 Stat. 3477.
 
 #### Amendments
 
@@ -33,6 +33,10 @@ Section 403(d) of title 50, referred to in subsec. (e), was struck out and a new
 Subsec. (f). Pub. L. 103–337, §3155(c)(3), struck out subsec. (f) which read as follows: “Notwithstanding any other law, the President may publicly release Restricted Data regarding the nuclear weapons stockpile of the United States if the United States and member states of the Commonwealth of Independent States reach reciprocal agreement on the release of such data.”
 
 1992—Subsec. (f). Pub. L. 102–484 added subsec. (f).
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Transfer of Functions
 
@@ -77,10 +81,6 @@ John F. Kennedy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Modification of Executive Order No. 11057
 
 Ex. Ord. No. 11057, Oct. 18, 1962, 27 F.R. 10289, set out above, when referring to functions of the Atomic Energy Commission is modified to provide that all such functions shall be exercised by the Secretary of Energy and the Nuclear Regulatory Commission, see section 4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2164, 2168 of this title; title 15 section 6204.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

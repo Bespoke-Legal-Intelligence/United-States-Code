@@ -10,7 +10,7 @@ Any person who—
 
 &emsp;(3) maliciously causes the death or harassment of any wild free-roaming horse or burro, or
 
-&emsp;(4) processes or permits to be processed into commercial products the remains of a wild free-roaming horse or burro, or
+&emsp;(4) except as provided in section 1333(e) of this title, processes or permits to be processed into commercial products the remains of a wild free-roaming horse or burro, or
 
 &emsp;(5) sells, directly or indirectly, a wild free-roaming horse or burro maintained on private or leased land pursuant to section 1334 of this title, or the remains thereof, or
 
@@ -22,7 +22,11 @@ Any person who—
 
 Any employee designated by the Secretary of the Interior or the Secretary of Agriculture shall have power, without warrant, to arrest any person committing in the presence of such employee a violation of this chapter or any regulation made pursuant thereto, and to take such person immediately for examination or trial before an officer or court of competent jurisdiction, and shall have power to execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of this chapter or regulations made pursuant thereto. Any judge of a court established under the laws of the United States, or any United States magistrate judge may, within his respective jurisdiction, upon proper oath or affirmation showing probable cause, issue warrants, in all such cases.
 
-(Pub. L. 92–195, §8, Dec. 15, 1971, 85 Stat. 650; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(Pub. L. 92–195, §8, Dec. 15, 1971, 85 Stat. 650; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 108–447, div. E, title I, §142(b), Dec. 8, 2004, 118 Stat. 3071.)
+
+#### Amendments
+
+2004—Subsec. (a)(4). Pub. L. 108–447 inserted “except as provided in section 1333(e) of this title,” before “processes or permits”.
 
 #### Change of Name
 

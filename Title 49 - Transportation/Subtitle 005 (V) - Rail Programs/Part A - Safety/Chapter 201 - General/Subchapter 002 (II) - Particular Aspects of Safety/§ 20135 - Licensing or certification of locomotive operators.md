@@ -90,7 +90,3 @@ In subsection (b)(5), the word “requirements” is substituted for “terms”
 
 In subsection (c)(1), the words “In establishing the program under this subsection” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 20138 of this title.
-

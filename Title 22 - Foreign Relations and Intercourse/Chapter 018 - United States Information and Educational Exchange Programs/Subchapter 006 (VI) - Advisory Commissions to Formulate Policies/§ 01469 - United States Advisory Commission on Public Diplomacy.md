@@ -76,7 +76,7 @@ Repeal.—Effective September 30, 2001, section 604 of the United States Informa
 
 Pub. L. 107–77, title IV, §407(d), Nov. 28, 2001, 115 Stat. 790, provided that: “Notwithstanding any other provision of law, any period of discontinuity of the United States Advisory Commission on Public Diplomacy shall not affect the appointment or terms of service of members of the commission.”
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding any other provision of law, any period of discontinuity of the United States Advisory Commission on Public Diplomacy shall not affect the appointment or terms of service of members of the commission.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, providedthat: “Notwithstanding any other provision of law, any period of discontinuity of the United States Advisory Commission on Public Diplomacy shall not affect the appointment or terms of service of members of the commission.”
 
 #### Reduction in Staff and Budget
 
@@ -89,8 +89,4 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 #### Continued Service of Commission Members
 
 Pub. L. 101–246, title II, §206(b), Feb. 16, 1990, 104 Stat. 53, provided that each member of the United States Advisory Commission on Public Diplomacy as in existence on the day before Jan. 20, 1989, was to continue to serve for the remainder of the term to which such member was appointed.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6553 of this title.
 

@@ -28,7 +28,3 @@ The Secretary, from time to time, may amend any plan issued under this section. 
 
 (Pub. L. 101–624, title XIX, §1908, Nov. 28, 1990, 104 Stat. 3841.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6002, 6007, 6011 of this title.
-

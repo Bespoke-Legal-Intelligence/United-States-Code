@@ -12,7 +12,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(A) commerce between any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, Wake Island, the Midway Islands, Kingman Reef, or Johnston Island and any place outside thereof;
 
-&emsp;&emsp;(B) commerce between points in any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, theVirgin Islands, American Samoa, Wake Island, the Midway Islands, Kingman Reef, or Johnston Island, but through any place outside thereof; or
+&emsp;&emsp;(B) commerce between points in any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, Wake Island, the Midway Islands, Kingman Reef, or Johnston Island, but through any place outside thereof; or
 
 &emsp;&emsp;(C) commerce wholly within the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, Wake Island, the Midway Islands, Kingman Reef, or Johnston Island.
 
@@ -20,7 +20,7 @@ As used in this subchapter—
 
 &emsp;(6) The term “health” includes, but is not limited to, the prevention of accidents.
 
-&emsp;(7) The term “person” means an individual, partnership, joint stock company, business trust, association, corporation, or any other business or legal entity, including a receiver, trustee, or liquidating agent, and also includes any State, any State agency, or any officer or employee thereof.
+&emsp;(7) The term “person” means an individual, partnership, joint stock company, business trust, association, corporation, or any otherbusiness or legal entity, including a receiver, trustee, or liquidating agent, and also includes any State, any State agency, or any officer or employee thereof.
 
 &emsp;(8) The term <sup>1</sup> “sale” and “distribution” include sampling or any other distribution not for sale.
 

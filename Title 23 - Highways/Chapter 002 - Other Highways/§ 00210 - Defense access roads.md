@@ -1,6 +1,6 @@
 ### §210. Defense access roads
 
-(a) The Secretary is authorized, out of the funds appropriated for defense access roads, toprovide for the construction and maintenance of defense access roads (including bridges, tubes, and tunnels thereon) to military reservations, to defense industries and defense industry sites, and to the sources of raw materials when such roads are certified to the Secretary as important to the national defense by the Secretary of Defense or such other official as the President may designate, and for replacing existing highways and highway connections that are shut off from the general public use by necessary closures or restrictions at military reservations and defense industry sites.
+(a) The Secretary is authorized, out of the funds appropriated for defense access roads, to provide for the construction and maintenance ofdefense access roads (including bridges, tubes, and tunnels thereon) to military reservations, to defense industries and defense industry sites, and to the sources of raw materials when such roads are certified to the Secretary as important to the national defense by the Secretary of Defense or such other official as the President may designate, and for replacing existing highways and highway connections that are shut off from the general public use by necessary closures or restrictions at military reservations and defense industry sites.
 
 (b) Funds appropriated for the purposes of this section shall be available, without regard to apportionment among the several States, for paying all or any part of the cost of the construction and maintenance of defense access roads.
 
@@ -20,7 +20,7 @@
 
 #### References in Text
 
-Act of February 26, 1931, referred to in subsec. (e), is act Feb. 26, 1931, ch. 307, 46 Stat. 1421, as amended, known as the Declaration of Taking Act, which wasclassified to sections 258a to 258e–1 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3114 to 3116 and 3118 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+Act of February 26, 1931, referred to in subsec. (e), is act Feb. 26, 1931, ch. 307, 46 Stat. 1421, as amended, known as the Declaration of Taking Act, which was classified to sections 258a to 258e–1 of former Title 40,Public Buildings, Property, and Works, and was repealed and reenacted as sections 3114 to 3116 and 3118 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 
 #### Amendments
 
@@ -33,10 +33,6 @@ Act of February 26, 1931, referred to in subsec. (e), is act Feb. 26, 1931, ch. 
 1961—Subsec. (h). Pub. L. 87–61 added subsec. (h).
 
 1960—Subsec. (g). Pub. L. 86–657 added subsec. (g).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 114, 2661.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Motion To Determine Competency of Defendant.—At any time after the commencement of a prosecution for an offense and prior to the sentencing of the defendant, the defendant or the attorney for the Government may file a motion for a hearing to determine the mental competency of the defendant. The court shall grant the motion, or shall order such a hearing on its own motion, if there is reasonable cause to believe that the defendant may presently be suffering from a mental disease or defect rendering him mentally incompetent to the extent that he is unable to understand the nature and consequences of the proceedings against him or to assist properly in his defense.
+Motion To Determine Competency of Defendant.—At any time after the commencementof a prosecution for an offense and prior to the sentencing of the defendant, the defendant or the attorney for the Government may file a motion for a hearing to determine the mental competency of the defendant. The court shall grant the motion, or shall order such a hearing on its own motion, if there is reasonable cause to believe that the defendant may presently be suffering from a mental disease or defect rendering him mentally incompetent to the extent that he is unable to understand the nature and consequences of the proceedings against him or to assist properly in his defense.
 
 (b)
 
@@ -14,7 +14,7 @@ Hearing.—The hearing shall be conducted pursuant to the provisions of section 
 
 (d)
 
-Determination and Disposition.—If, after the hearing, the court finds by a preponderance of the evidence that the defendant is presentlysuffering from a mental disease or defect rendering him mentally incompetent to the extent that he is unable to understand the nature and consequences of the proceedings against him or to assist properly in his defense, the court shall commit the defendant to the custody of the Attorney General. The Attorney General shall hospitalize the defendant for treatment in a suitable facility—
+Determination and Disposition.—If, after the hearing, the court finds by a preponderance of the evidence that the defendant is presently suffering from a mental disease or defect rendering him mentally incompetent to the extent that he is unable to understand the nature and consequences of the proceedings against him or to assist properly in his defense, the court shall commit the defendant to the custody of the Attorney General. The Attorney General shall hospitalize the defendant for treatment in a suitable facility—
 
 &emsp;(1) for such a reasonable period of time, not to exceed four months, as is necessary to determine whether there is a substantial probability that in the foreseeable future he will attain the capacity to permit the trial to proceed; and
 
@@ -51,8 +51,4 @@ Changes were made in phraseology and surplusage omitted.
 #### Short Title of 1984 Amendment
 
 Section 401 of chapter IV (§§401–406) of title II of Pub. L. 98–473 provided that: “This chapter \[enacting section 20 of this title and amending this chapter, section 3006A of this title, and rule 12.2 of the Federal Rules of Criminal Procedure and rule 704 of the Federal Rules of Evidence set out in the Appendix to this title\] may be sited \[cited\] as the ‘Insanity Defense Reform Act of 1984’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4246, 4247 of this title; title 10 section 876b.
 

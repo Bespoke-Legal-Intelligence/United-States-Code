@@ -24,15 +24,11 @@ If cross-ownership or circular ownership between a registered investment company
 
 #### Amendments
 
-1987—Subsec. (b). Pub. L. 100–181, §614(1), struck out at end “The prohibitions of this subsection shall notapply to a class of voting-trust certificates, if any certificate of such class was made the subject of a public offering by the issuer or by or through an underwriter prior to March 15, 1940.”
+1987—Subsec. (b). Pub. L. 100–181, §614(1), struck out at end “The prohibitions of this subsection shall not apply to a class of voting-trust certificates, if any certificate of such class was made the subject of a public offering by the issuer or by or through an underwriter prior to March 15, 1940.”
 
 Subsec. (d). Pub. L. 100–181, §614(2), (3), struck out first sentence “If on the effective date of this subchapter cross-ownership or circular ownership exists between a registered investment company and any other company or companies, it shall be the duty of such registered company, within five years after such effective date, to eliminate such cross-ownership or circular ownership.” and “at any time after the effective date of this subchapter” after “If” in second sentence.
 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–6, 80a–16, 80a–58 of this title.
 

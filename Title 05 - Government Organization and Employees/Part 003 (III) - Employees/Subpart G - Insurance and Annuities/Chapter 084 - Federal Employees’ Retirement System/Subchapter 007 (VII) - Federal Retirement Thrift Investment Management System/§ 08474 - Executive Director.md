@@ -30,7 +30,7 @@
 
 &emsp;(5) make such payments out of sums in the Thrift Savings Fund as the Executive Director determines are necessary to carry out the provisions of this subchapter and subchapter III of this chapter and the policies of the Board;
 
-&emsp;(6) pay the compensation, per diem, and travel expenses of individuals appointed underparagraphs (2), (3), and (7) of this subsection from the Thrift Savings Fund;
+&emsp;(6) pay the compensation, per diem, and travel expenses of individuals appointed under paragraphs (2), (3), and (7) of this subsection from the Thrift Savings Fund;
 
 &emsp;(7) accept and use the services of individuals employed intermittently in the Government service and reimburse such individuals for travel expenses, as authorized by section 5703 of this title, including per diem as authorized by section 5702 of this title;
 
@@ -43,8 +43,4 @@
 #### References in Text
 
 The provisions of law governing appointments in the competitive service, referred to in subsec. (a)(1), are classified generally to section 3301 et seq. of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5102, 8401, 8461, 8476 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The penalties set forth in this section shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions. The Secretary may not impose penalties under this section for violations a material cause of which are the failure of the Department, an agent of the Department, or a public housing agency to comply with existing agreements.
+The penalties set forth in this section shall be in addition to any other available civil remedyor any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions. The Secretary may not impose penalties under this section for violations a material cause of which are the failure of the Department, an agent of the Department, or a public housing agency to comply with existing agreements.
 
 #### (b) Penalty for violation of agreement as condition of transfer of physical assets, flexible subsidy loan, capital improvement loan, modification of mortgage terms, or workout agreement
 
@@ -36,7 +36,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(i) Conveyance, transfer, or encumbrance of any of the mortgaged property, or permitting the conveyance, transfer, or encumbrance of such property, without the prior written approval of the Secretary.
 
-&emsp;&emsp;(ii) Assignment, transfer, disposition, or encumbrance of any personal property of the project, including rents, or paying out any funds, except for reasonable operating expenses and necessary repairs, without the prior written approval of the Secretary.
+&emsp;&emsp;(ii) Assignment, transfer, disposition, or encumbrance of any personal property of the project, including rents, other revenues, or contract rights, or paying out any funds, except for reasonable operating expenses and necessary repairs, without the prior written approval of the Secretary.
 
 &emsp;&emsp;(iii) Conveyance, assignment, or transfer of any beneficial interest in any trust holding title to the property, or the interest of any general partner in a partnership owning the property, or any right to manage or receive the rents and profits from the mortgaged property, without the prior written approval of the Secretary.
 
@@ -44,7 +44,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(v) Requiring, as a condition of the occupancy or leasing of any unit in the project, any consideration or deposit other than the prepayment of the first month's rent, plus a security deposit in an amount not in excess of 1 month's rent, to guarantee the performance of the covenants of the lease.
 
-&emsp;&emsp;(vi) Not holding any funds collected as security deposits separate and apart from all other funds of the project in a trust account,the amount of which at all times equals or exceeds the aggregate of all outstanding obligations under the account.
+&emsp;&emsp;(vi) Not holding any funds collected as security deposits separate and apart from all other funds of the project in a trust account, the amount of which at all times equals or exceeds the aggregate of all outstanding obligations under the account.
 
 &emsp;&emsp;(vii) Payment for services, supplies, or materials which exceeds $500 and substantially exceeds the amount ordinarily paid for such services, supplies, or materials in the area where the services are rendered or the supplies or materials furnished.
 
@@ -52,7 +52,15 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(ix) Failure to maintain the books and accounts of the operations of the mortgaged property and of the project in accordance with requirements prescribed by the Secretary.
 
-&emsp;&emsp;(x) Failure to furnish the Secretary, by the expiration of the 60-day period beginning on the 1st day after the completion of each fiscal year, with a complete annual financial report based upon an examination of the books and records of the mortgagor prepared and certified to by an independent public accountant or a certified public accountant and certified to by an officer of the mortgagor, unless the Secretary has approved an extension of the 60-day period in writing. The Secretary shall approve an extension where the mortgagor demonstrates that failure to comply with this subparagraph is due to events beyond the control of the mortgagor.
+&emsp;&emsp;(x) Failure to furnish the Secretary, by the expiration of the 90-day period beginning on the first day after the completion of each fiscal year (unless the Secretary has approved an extension of the 90-day period in writing), with a complete annual financial report, in accordance with requirements prescribed by the Secretary, including requirements that the report be—
+
+&emsp;&emsp;&emsp;(I) based upon an examination of the books and records of the mortgagor;
+
+&emsp;&emsp;&emsp;(II) prepared and certified to by an independent public accountant or a certified public accountant (unless the Secretary has waived this requirement in writing); and
+
+&emsp;&emsp;&emsp;(III) certified to by the mortgagor or an authorized representative of the mortgagor.
+
+> &emsp;&emsp;The Secretary shall approve an extension where the mortgagor demonstrates that failure to comply with this clause is due to events beyond the control of the mortgagor.
 
 &emsp;&emsp;(xi) At the request of the Secretary, the agents of the Secretary, the employees of the Secretary, or the attorneys of the Secretary, failure to furnish monthly occupancy reports or failure to provide specific answers to questions upon which information is sought relative to income, assets, liabilities, contracts, the operation and condition of the property, or the status of the mortgage.
 
@@ -106,7 +114,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (2) Objections not raised in hearing
 
-&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (d)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (d)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additionalevidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
 #### (3) Scope of review
 
@@ -146,9 +154,13 @@ In this section, the terms “agent employed to manage the property that has an 
 
 &emsp;(3) over which the ownership entity exerts effective control.
 
-(June 27, 1934, ch. 847, title V, §537, as added Pub. L. 101–235, title I, §108(a), Dec. 15, 1989, 103 Stat. 2003; amended Pub. L. 105–65, title V, §561(a), Oct. 27, 1997, 111 Stat. 1414.)
+(June 27, 1934, ch. 847, title V, §537, as added Pub. L. 101–235, title I, §108(a), Dec. 15, 1989, 103 Stat. 2003; amended Pub. L. 105–65, title V, §561(a), Oct. 27, 1997, 111 Stat. 1414; Pub. L. 108–447, div. I, title II, §219(b), (c), Dec. 8, 2004, 118 Stat. 3319.)
 
 #### Amendments
+
+2004—Subsec. (c)(1)(B)(ii). Pub. L. 108–447, §219(b), inserted “other revenues, or contract rights,” after “rents,”.
+
+Subsec. (c)(1)(B)(x). Pub. L. 108–447, §219(c), amended cl. (x) generally. Prior to amendment, cl. (x) read as follows: “Failure to furnish the Secretary, by the expiration of the 60-day period beginning on the 1st day after the completion of each fiscal year, with a complete annual financial report based upon an examination of the books and records of the mortgagor prepared and certified to by an independent public accountant or a certified public accountant and certified to by an officer of the mortgagor, unless the Secretary has approved an extension of the 60-day period in writing. The Secretary shall approve an extension where the mortgagor demonstrates that failure to comply with this subparagraph is due to events beyond the control of the mortgagor.”
 
 1997—Subsec. (b)(1). Pub. L. 105–65, §561(a)(1), substituted “on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor” for “on that mortgagor”.
 
@@ -193,8 +205,4 @@ Public comment.—The Secretary shall implement the amendments made by this sect
 “(2)
 
 Timing.—A proposed rule implementing the amendments made by this section shall be published not later than 1 year after the date of enactment of this Act \[Oct. 27, 1997\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1715z–1a of this title; title 42 section 1437z–1.
 

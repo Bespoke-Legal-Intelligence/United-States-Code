@@ -16,9 +16,9 @@
 
 &emsp;(A) because of an incapacitating illness or injury which is not due to the employee's own misconduct is entitled to reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and to payments pursuant to subsection (a) of this section until that location is reached; or
 
-&emsp;(B) because of a personal emergency situation (such as serious illness, injury, or deathof a member of the employee's family, or an emergency situation such as fire, flood, or act of God), may be allowed, with the approval of an appropriate official of the agency concerned, reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and payments pursuant to subsection (a) of this section until that location is reached.
+&emsp;(B) because of a personal emergency situation (such as serious illness, injury, or death of a member of the employee's family, or an emergency situation such as fire, flood, or act of God), may be allowed, with the approval of an appropriate official of the agency concerned, reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and payments pursuant to subsection (a) of this section until that location is reached.
 
-(2)(A) Under regulations prescribed pursuant to section 5707 of this title, an employee who is described in subsection (a) of this section and who, with the approval of an appropriate official of the agency concerned, interrupts the travel assignment prior to its completion for a reason specified in subparagraph (A) or (B) of paragraph (1) of this subsection, may be allowed (subject to the limitation provided in subparagraph (B) of this paragraph)—
+(2)(A) Under regulations prescribed pursuant to section 5707 of this title, an employee who is described in subsection (a) of this section and who, with the approval of an appropriate official of the agency concerned, interrupts the travel assignment prior to its completion for a reason specified in subparagraph (A) or (B) of paragraph\(1) of this subsection, may be allowed (subject to the limitation provided in subparagraph (B) of this paragraph)—
 
 &emsp;(i) reimbursement for expenses of transportation to the location where necessary medical services are provided or the emergency situation exists,
 
@@ -160,7 +160,7 @@ Through 1981;
 
 Rules and Regulations
 
-Section 3 of Pub. L. 96–346, for fiscal years 1979 to 1981, directed the Administrator of General Services tocollect by fiscal year information with respect to agencies spending more than $5,000,000 annually on transportation of people, identifying general causes and purposes of travel and estimates of total payments, average cost and duration of trip, and identifying by specific agency of travel practices which appear to be inefficient and recommendations to Congress on the applicability of alternatives to travel as well as other techniques to improve use of travel in carrying out program objectives relating travel to mission.
+Section 3 of Pub. L. 96–346, for fiscal years 1979 to 1981, directed the Administrator of General Services to collect by fiscal year information with respect to agencies spending more than $5,000,000 annually on transportation of people, identifying general causes and purposes of travel and estimates of total payments, average cost and duration of trip, and identifying by specific agency of travel practices which appear to be inefficient and recommendations to Congress on the applicability of alternatives to travel as well as other techniques to improve use of travel in carrying out program objectives relating travel to mission.
 
 #### Ex. Ord. No. 12561. Delegation of Functions Relating to Travel Outside Continental United States
 
@@ -177,8 +177,4 @@ Sec. 2. There is hereby delegated to the Secretary of State the authority vested
 Sec. 3. Executive Order No. 11294 of August 4, 1966, is revoked.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5569, 5707, 5724a, 8474 of this title; title 2 sections 476, 1723; title 7 sections 2009dd–3, 3128, 5843; title 10 section 2784a; title 12 section 1834a; title 15 sections 1341, 4603; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709, 5727; title 18 section 4285; title 21 section 1544; title 22 sections 1474, 2396, 2704; title 24 section 416; title 25 sections 3006, 3505; title 26 section 4941; title 28 sections 456, 604, 1821; title 31 section 326; title 33 section 2732; title 36 sections 2101, 152403, 152603; title 38 section 111; title 42 sections 1862n–9, 1873, 2210, 2477, 7238, 10163, 10265, 11221, 13458, 14195.
 

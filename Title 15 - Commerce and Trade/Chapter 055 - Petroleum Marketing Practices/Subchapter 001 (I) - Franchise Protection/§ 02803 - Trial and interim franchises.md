@@ -66,7 +66,3 @@ If the notification requirements of section 2804 of this title are met, any fran
 
 (Pub. L. 95–297, title I, §103, June 19, 1978, 92 Stat. 328.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2802, 2804, 2805 of this title.
-

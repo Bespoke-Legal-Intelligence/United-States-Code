@@ -590,7 +590,7 @@
 | (e) | Disclosure of geological or geophysical information. |
 | [6383\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20A%20-%20Energy%20Data%20Base%20and%20Energy%20Information/%C2%A7%2006383%20-%20Accounting%20practices.md) | Accounting practices. |
 | (a) | Development by Securities and Exchange Commission; time of taking effect. |
-| (b) | Consultation with Secretary, General Accounting Office and Federal Energy Regulatory Commission; rules; reliance on practices developed by Financial Accounting Standards Board; opportunity to submit written comment. |
+| (b) | Consultation with Secretary, Government Accountability Office and Federal Energy Regulatory Commission; rules; reliance on practices developed by Financial Accounting Standards Board; opportunity to submit written comment. |
 | (c) | Requirements for accounting practices. |
 | [6384\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20A%20-%20Energy%20Data%20Base%20and%20Energy%20Information/%C2%A7%2006384%20-%20Enforcement.md) | Enforcement. |
 | (a) | Civil penalties. |
@@ -644,10 +644,6 @@
 | (d) | Resolution with respect to contingency plan. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 7135, 7194, 7521, 8255 of this title; title 15 section 719j.
 
 
 ---

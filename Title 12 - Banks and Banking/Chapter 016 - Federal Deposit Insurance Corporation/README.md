@@ -77,6 +77,7 @@
 | (h) | Coordination of examination authority. |
 | (i) | Flood insurance compliance by insured depository institutions. |
 | (j) | Consultation among examiners. |
+| (k) | One-year restrictions on Federal examiners of financial institutions. |
 | [1820a.](%C2%A7%2001820a%20-%20Examination%20of%20investment%20companies.md) | Examination of investment companies. |
 | (a) | Exclusive Commission authority. |
 | (b) | Examination results and other information. |
@@ -463,10 +464,6 @@
 | (e) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 161, 203, 205, 211, 222, 329, 461, 1422, 1441, 1441a, 1464, 1467a, 1470, 1828a, 1841, 1843, 2254, 3104, 3105, 3108, 4713, 4717 of this title; title 7 section 2009cc–9; title 15 sections 78c, 78<i>l</i>, 78m; title 40 section 113; title 42 section 5318a.
 
 
 ---

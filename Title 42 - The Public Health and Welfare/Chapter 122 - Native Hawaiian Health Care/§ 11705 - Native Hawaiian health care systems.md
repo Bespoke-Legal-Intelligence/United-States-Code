@@ -2,7 +2,7 @@
 
 #### (a) Comprehensive health promotion, disease prevention, and primary health services
 
-(1)(A) The Secretary, in consultation with Papa Ola Lokahi, may make grants to, or enter into contracts with, any qualified entity for the purpose of providing comprehensive health promotion and disease prevention services as well as primary health services to Native Hawaiians.
+(1)(A) The Secretary, in consultation with Papa Ola Lokahi, may make grants to, or enterinto contracts with, any qualified entity for the purpose of providing comprehensive health promotion and disease prevention services as well as primary health services to Native Hawaiians.
 
 (B) In making grants and entering into contracts under this paragraph, the Secretary shall give preference to Native Hawaiian health care systems and Native Hawaiian organizations and, to the extent feasible, health promotion and disease prevention services shall be performed through Native Hawaiian health care systems.
 
@@ -101,8 +101,4 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 #### Amendments
 
 1992—Pub. L. 102–396 amended section generally. Prior to amendment, section related to administration of grants and contracts.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11704, 11706, 11707 of this title.
 

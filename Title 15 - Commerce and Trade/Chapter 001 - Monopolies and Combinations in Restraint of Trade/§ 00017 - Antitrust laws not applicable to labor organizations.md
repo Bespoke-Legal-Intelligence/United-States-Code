@@ -8,7 +8,3 @@ The labor of a human being is not a commodity or article of commerce. Nothing co
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 1951; title 29 section 186; title 47 section 606.
-

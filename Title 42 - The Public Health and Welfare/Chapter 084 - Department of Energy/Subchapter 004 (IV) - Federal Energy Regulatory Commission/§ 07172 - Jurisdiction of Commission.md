@@ -64,7 +64,7 @@ The Federal Power Act, referred to in subsec. (a)(1)(A), (B), and (F), is act Ju
 
 The Natural Gas Act, referred to in subsec. (a)(1)(E), (F), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
-Sections 753, 757, and 760a of title 15, referred to in subsec. (c), were omitted from the Code pursuant tosection 760g of Title 15, which provided for the expiration of the President's authority under those sections on Sept. 30, 1981.
+Sections 753, 757, and 760a of title 15, referred to in subsec. (c), were omitted from the Code pursuant to section 760g of Title 15, which provided for the expiration of the President's authority under those sections on Sept. 30, 1981.
 
 Section 6214 of this title, referred to in subsec. (d), was repealed by Pub. L. 106–469, title I, §103(3), Nov. 9, 2000, 114 Stat. 2029.
 
@@ -189,10 +189,6 @@ Oil.—The term ‘oil’ has the same meaning as is given such term for purpose
 &emsp;“(4)
 
 Rate.—The term ‘rate’ means all charges that an oil pipeline requires shippers to pay for transportation services.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2077, 2160, 6303, 7151, 7173, 7174, 7191, 7920, 8433 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

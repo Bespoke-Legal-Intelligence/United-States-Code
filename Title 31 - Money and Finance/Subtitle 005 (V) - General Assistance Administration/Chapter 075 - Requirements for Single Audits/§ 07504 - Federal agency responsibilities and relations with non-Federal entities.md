@@ -32,7 +32,3 @@
 
 &emsp;“(3)(A) coordinate, to the extent practicable, audits done by or under contract with Federal agencies that are in addition to the audits conducted pursuant to this chapter; and (B) ensure that such additional audits build upon the audits conducted pursuant to this chapter.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7502, 7503 of this title; title 49 section 47107.
-

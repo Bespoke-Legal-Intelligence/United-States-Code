@@ -34,7 +34,3 @@ Amendment by Pub. L. 95–222 effective Dec. 28, 1977, see section 17(b) of Pub.
 
 For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to filing annual report with Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 2 on page 202 of House Document No. 103–7.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2996h of this title.
-

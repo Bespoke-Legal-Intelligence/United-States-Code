@@ -30,11 +30,7 @@ Not later than 30 days after the date of cancellation or termination of a privat
 
 #### References in Text
 
-Section 4902(a)(3) of this title, referred to in subsec. (b)(2)(A)(ii), was redesignated section 4902(a)(4) of this title by Pub. L. 106–569, title IV, §404(1)(C), Dec. 27, 2000, 114 Stat. 2958.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4905 of this title.
+Section 4902(a)(3) of this title, referred to in subsec. (b)(2)(A)(ii), was redesignated section 4902(a)(4) of thistitle by Pub. L. 106–569, title IV, §404(1)(C), Dec. 27, 2000, 114 Stat. 2958.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -48,7 +48,3 @@ A plan is described in this subsection if—
 
 (Pub. L. 93–406, title IV, §4216, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1234.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1401, 1423 of this title; title 26 section 418B.
-

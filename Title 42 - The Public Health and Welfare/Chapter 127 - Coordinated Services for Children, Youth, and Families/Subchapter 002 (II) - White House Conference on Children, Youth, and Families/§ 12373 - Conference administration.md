@@ -20,7 +20,7 @@ The Secretary shall, in carrying out the Secretary's responsibilities and functi
 
 &emsp;(1) the conferences under subsection (a)(2) of this section will be conducted so as to ensure broad participation of young individuals;
 
-&emsp;(2) the proposed agenda for the Conference under subsection (a)(3) of this section is published in the Federal Register not less than 180 days before the beginning of the Conferenceand the proposed agenda is open for public comment for a period of not less than 60 days;
+&emsp;(2) the proposed agenda for the Conference under subsection (a)(3) of this section is published in the Federal Register not less than 180 days before the beginning of the Conference and the proposed agenda is open for public comment for a period of not less than 60 days;
 
 &emsp;(3) the final agenda for the Conference, taking into consideration the comments received under paragraph (2), is published in the Federal Register and transmitted to the chief executive officers of the States not later than 30 days after the close of the public comment period provided for under paragraph (2);
 

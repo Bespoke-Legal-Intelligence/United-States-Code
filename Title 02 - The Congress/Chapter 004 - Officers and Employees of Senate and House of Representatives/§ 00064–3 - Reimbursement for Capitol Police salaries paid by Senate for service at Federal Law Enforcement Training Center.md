@@ -10,7 +10,7 @@ Section is from the Supplemental Appropriations Act, 1977.
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–7 substituted “Chief of the Capitol Police” for “Secretary of the Senate” and “the Capitol Police” for “the United States Senate”.
+2003—Pub. L. 108–7 substituted “Chief of the Capitol Police” for “Secretary of the Senate” and “the Capitol Police” for “the United States Senate”.
 
 #### Effective Date of 2003 Amendment
 

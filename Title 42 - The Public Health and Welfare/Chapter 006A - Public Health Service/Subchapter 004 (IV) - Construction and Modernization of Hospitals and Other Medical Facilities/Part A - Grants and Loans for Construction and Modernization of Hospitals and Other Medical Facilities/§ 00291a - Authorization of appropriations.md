@@ -20,7 +20,7 @@ In order to assist the States in carrying out the purposes of section 291 of thi
 
 A prior section 291a, act July 1, 1944, ch. 373, title VI, §611, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, authorized appropriations for surveys and planning, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
-A prior section 291d, act July 1, 1944, ch. 373, title VI, §621, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §2(a), 63 Stat. 897; July 27, 1953, ch. 243, 67 Stat. 196; Aug. 2, 1956, ch. 871, title IV, §401, 70 Stat. 929; Aug. 14, 1958, Pub. L. 85–664, §1(a), 72 Stat. 616, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
+A prior section 291d, act July 1, 1944, ch. 373, title VI, §621, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §2(a), 63 Stat. 897; July 27, 1953, ch. 243, 67 Stat. 196; Aug. 2, 1956, ch. 871, title IV, §401, 70 Stat. 929; Aug. 14, 1958, Pub. L. 85–664, §1(a), 72 Stat. 616, related to subject matter similar to thissection, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 A prior section 291p, act July 1, 1944, ch. 373, title VI, §646, as added July 12, 1954, ch. 471, §2, 68 Stat. 461, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
@@ -49,8 +49,4 @@ Par. (b). Pub. L. 90–574, §402(a)(2), authorized appropriation of $195,000,00
 Section 101(b) of Pub. L. 91–296 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect with respect to appropriations made under such section 601 \[this section\] for fiscal years beginning after June 30, 1970.”
 
 Section 102(a) of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to appropriations made under this section for fiscal years beginning after June 30, 1970.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 291b, 291d, 291g, 291<i>o</i> of this title.
 

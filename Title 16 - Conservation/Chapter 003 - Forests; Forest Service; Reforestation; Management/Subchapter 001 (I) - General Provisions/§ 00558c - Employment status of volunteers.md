@@ -14,7 +14,7 @@ For the purposes of subchapter I of chapter 81 of title 5, relating to compensat
 
 #### (d) Compensation for losses and damages
 
-For the purposes of claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, a volunteer under sections 558a to 558d of this title shall be considered a Federal employee, and the provisions of section 3721 of title 31 shall apply.
+For the purposes of claims relating to damage to, or loss of, personal property of a volunteerincident to volunteer service, a volunteer under sections 558a to 558d of this title shall be considered a Federal employee, and the provisions of section 3721 of title 31 shall apply.
 
 (Pub. L. 92–300, §3, May 18, 1972, 86 Stat. 147; Pub. L. 101–286, title II, §204(a), May 9, 1990, 104 Stat. 175.)
 
@@ -25,8 +25,4 @@ Tort claim provisions of title 28, referred to in subsec. (b), are the provision
 #### Amendments
 
 1990—Subsec. (d). Pub. L. 101–286 added subsec. (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 558d, 583j–4, 1246, 1250, 1282 of this title.
 

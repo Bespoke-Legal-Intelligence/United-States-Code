@@ -76,7 +76,3 @@ Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set ou
 
 Section 2(<i>l</i>) of Pub. L. 97–258 provided that the amendment made by such section is effective Jan. 1, 1982.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 sections 1431, 1441, 1441a, 1441b, 4703; title 49 section 5334.
-

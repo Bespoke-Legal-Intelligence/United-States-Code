@@ -8,7 +8,3 @@ Any person guilty of mutiny, treason, spying, or desertion, or who, because of c
 
 1991—Pub. L. 102–83 renumbered section 711 of this title as this section and substituted “1916(b)” for “716(b)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1910 of this title.
-

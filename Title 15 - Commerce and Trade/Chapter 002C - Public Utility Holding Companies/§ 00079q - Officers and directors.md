@@ -2,7 +2,7 @@
 
 #### (a) Statement of ownership of securities; duty to file
 
-Every person who is an officer or director of a registered holding company shall file with the Commission in such form as the Commission shall prescribe (1) at the time of the registration of such holding company, or within ten days after such person becomes an officer or director, a statement of the securities of such registered holding company or any subsidiary company thereof of which he is, directly or indirectly, the beneficial owner, and (2) within ten days after the close of each calendar month thereafter, if there has been any change in such ownership during such month, a statement of such ownership as of the close of such calendar month andof the changes in such ownership that have occurred during such calendar month.
+Every person who is an officer or director of a registered holding company shall file with the Commission in such form as the Commission shall prescribe (1) at the time of the registration of such holding company, or within ten days after such person becomes an officer or director, a statement of the securities of such registered holding company or any subsidiary company thereof of which he is, directly or indirectly, the beneficial owner, and (2) within ten days after the close of each calendar month thereafter, if there has been any change in such ownership during such month, a statement of such ownership as of the close of such calendar month and of the changes in such ownership that have occurred during such calendar month.
 
 #### (b) Limitation on profits in purchase and sale of securities
 
@@ -17,8 +17,4 @@ After one year from August 26, 1935, no registered holding company or any subsid
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 79p of this title.
 

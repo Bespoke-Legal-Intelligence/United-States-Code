@@ -26,7 +26,7 @@ For the purpose of developing or assisting in the development, administration, a
 
 #### (c) Inspection intervals
 
-The inspections by the regulatory authority shall (1) occur on an irregular basis averaging not less than one partial inspection per month and one complete inspection per calendar quarter for the surface coal mining and reclamation operation covered by each permit; (2) occur without prior notice to the permittee or his agents or employees except for necessary onsite meetings with the permittee; and (3) include the filing of inspection reports adequate to enforce the requirements of and to carry out the terms and purposes of this chapter.
+The inspections by the regulatory authority shall (1) occur on an irregular basis averaging not less than one partial inspection per month and one complete inspection per calendar quarter for the surface coal mining and reclamation operation covered by each permit; (2) occur without prior notice to the permittee or his agents or employees except for necessary onsite meetings with the permittee; and (3) include thefiling of inspection reports adequate to enforce the requirements of and to carry out the terms and purposes of this chapter.
 
 #### (d) Maintenance of sign
 
@@ -55,8 +55,4 @@ No employee of the State regulatory authority performing any function or duty un
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to requirement to report to Congress on actions taken and not taken under subsec. (g), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 109 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300 of this title.
 

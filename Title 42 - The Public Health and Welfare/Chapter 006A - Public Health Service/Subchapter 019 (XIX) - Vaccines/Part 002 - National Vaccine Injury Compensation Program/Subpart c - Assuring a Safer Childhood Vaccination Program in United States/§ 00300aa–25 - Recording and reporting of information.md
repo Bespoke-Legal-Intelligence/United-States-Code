@@ -54,7 +54,3 @@ In subsec. (b)(1), (3), “December 22, 1987” was substituted for “the effec
 
 Subpart effective Dec. 22, 1987, see section 323 of Pub. L. 99–660, set out as a note under section 300aa–1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300aa–19 of this title.
-

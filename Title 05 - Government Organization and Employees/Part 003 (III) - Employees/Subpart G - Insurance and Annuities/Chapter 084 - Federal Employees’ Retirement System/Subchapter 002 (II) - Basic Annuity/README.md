@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—BASIC ANNUITY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5595, 8348, 8401, 8435, 8455, 8461, 8464, 8464a, 8466, 8470 of this title; title 10 sections 942, 945; title 22 section 4071j; title 38 section 7426; title 39 section 1005; title 50 sections 2153, 2154.
-
 
 ---
 

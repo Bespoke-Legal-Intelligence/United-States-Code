@@ -10,13 +10,13 @@
 
 (c) As used in this section—
 
-&emsp;(1) the term “Indian” means any individual who is a member of an Indian tribe, or for thepurposes of this section is certified as an Indian artisan by an Indian tribe;
+&emsp;(1) the term “Indian” means any individual who is a member of an Indian tribe, or for the purposes of this section is certified as an Indian artisan by an Indian tribe;
 
 &emsp;(2) the terms “Indian product” and “product of a particular Indian tribe or Indian arts and crafts organization” has the meaning given such term in regulations which may be promulgated by the Secretary of the Interior;
 
 &emsp;(3) the term “Indian tribe” means—
 
-&emsp;&emsp;(A) any Indian tribe, band, nation, Alaska Native village, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or
+&emsp;&emsp;(A) any Indian tribe, band, nation, Alaska Native village, or other organized group or community which is recognized as eligiblefor the special programs and services provided by the United States to Indians because of their status as Indians; or
 
 &emsp;&emsp;(B) any Indian group that has been formally recognized as an Indian tribe by a State legislature or by a State commission or similar organization legislatively vested with State tribal recognition authority; and
 
@@ -49,8 +49,4 @@ For purposes of this section, an Indian tribe may not impose fee to certify indi
 #### Admission of Alaska as State
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 25 section 305d.
 

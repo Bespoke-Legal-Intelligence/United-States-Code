@@ -366,7 +366,11 @@ Pub. L. 107–355, §1(a), Dec. 17, 2002, 116 Stat. 2985, provided that: “This
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–304 provided that: “This Act \[enacting sections 60126 to 60128 of this title, amendingthis section and sections 60102, 60105 to 60110, 60113 to 60118, 60123 to 60125 of this title, and enacting provisions set out as a note under section 60301 of this title\] may be cited as the ‘Accountable Pipeline Safety and Partnership Act of 1996’.”
+Section 1 of Pub. L. 104–304 provided that: “This Act \[enacting sections 60126 to 60128 of this title, amending this section and sections 60102, 60105 to 60110, 60113 to 60118, 60123 to 60125 of this title, and enacting provisions set out as a note under section 60301 of this title\] may be cited as the ‘Accountable Pipeline Safety and Partnership Act of 1996’.”
+
+#### Transfer of Functions
+
+For transfer of duties, powers, and authority of Research and Special Programs Administration under this chapter to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under section 108 of this title.
 
 #### Pipeline Integrity, Safety, and Reliability Research and Development
 
@@ -455,8 +459,4 @@ Pipeline Integrity Program.—Of the amounts available in the Oil Spill Liabilit
 “(h)
 
 Participating Agencies Defined.—In this section, the term ‘participating agencies’ means the Department of Transportation, the Department of Energy, and the National Institute of Standards and Technology.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 60102 of this title; title 18 section 1366; title 33 section 1232a; title 42 sections 9601, 9607.
 

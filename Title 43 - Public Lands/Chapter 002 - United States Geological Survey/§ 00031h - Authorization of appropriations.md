@@ -32,7 +32,3 @@ Of any amounts appropriated for any fiscal year in excess of the amount appropri
 
 A prior section 31h, Pub. L. 102–285, §9, May 18, 1992, 106 Stat. 171; Pub. L. 105–36, §3(g), Aug. 5, 1997, 111 Stat. 1111, authorized appropriations for the national cooperative geologic mapping program, prior to repeal by Pub. L. 106–148, §9, Dec. 9, 1999, 113 Stat. 1724.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 31a, 31b of this title.
-

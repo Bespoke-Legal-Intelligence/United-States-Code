@@ -88,7 +88,3 @@ Applications under this section shall be submitted in the form and manner prescr
 
 <i>For termination of section by section 401(e) of Pub. L. 105–115, see Effective and Termination Dates note set out under section 360aaa of this title.</i>
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 360aaa, 360aaa–4 of this title.
-

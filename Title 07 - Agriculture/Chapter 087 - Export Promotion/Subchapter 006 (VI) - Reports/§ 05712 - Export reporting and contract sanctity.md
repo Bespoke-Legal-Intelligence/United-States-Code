@@ -60,7 +60,7 @@ A prior section 602 of Pub. L. 95–501 enacted section 1765b–1 of this title 
 
 #### Amendments
 
-1999—Subsec. (a)(1). Pub. L. 106–78, §§921, 942, temporarily inserted “, beef,” after “cotton” in introductoryprovisions. See Termination Date of 1999 Amendment note below.
+1999—Subsec. (a)(1). Pub. L. 106–78, §§921, 942, temporarily inserted “, beef,” after “cotton” in introductory provisions. See Termination Date of 1999 Amendment note below.
 
 1991—Subsec. (a)(1). Pub. L. 102–237, §327(1), substituted “designate produced” for “designate as produced” in introductory provisions.
 
@@ -68,5 +68,5 @@ Subsec. (a)(2). Pub. L. 102–237, §327(2), struck out “in accordance with su
 
 #### Termination Date of 1999 Amendment
 
-Amendment by Pub. L. 106–78 to terminate 5 years after Oct. 22, 1999, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
+Amendment by Pub. L. 106–78 to terminate Sept. 30, 2005, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
 

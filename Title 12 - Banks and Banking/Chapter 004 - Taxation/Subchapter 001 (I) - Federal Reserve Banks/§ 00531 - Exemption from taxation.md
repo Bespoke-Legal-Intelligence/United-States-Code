@@ -12,7 +12,3 @@ Section is comprised of subsec. (c) \[formerly third undesignated par.\] of sect
 
 1993—Pub. L. 103–66 inserted section catchline.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 140.
-

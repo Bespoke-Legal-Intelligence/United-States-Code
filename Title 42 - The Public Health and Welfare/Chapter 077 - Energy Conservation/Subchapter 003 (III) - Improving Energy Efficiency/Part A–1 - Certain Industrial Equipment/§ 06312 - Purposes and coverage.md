@@ -18,7 +18,3 @@ The Secretary may, by rule, include as industrial equipment articles which are c
 
 (Pub. L. 94–163, title III, §341, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3268.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6311 of this title.
-

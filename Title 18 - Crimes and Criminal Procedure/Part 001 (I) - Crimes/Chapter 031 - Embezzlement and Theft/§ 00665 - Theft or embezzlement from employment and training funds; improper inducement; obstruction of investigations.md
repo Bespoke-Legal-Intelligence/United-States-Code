@@ -22,7 +22,7 @@ Section 711(a) of Pub. L. 93–203, cited as a credit to this section, was omitt
 
 2002—Subsec. (c). Pub. L. 107–273 substituted “a fine under this title” for “a fine of not more than $5,000”.
 
-1998—Subsecs. (a) to (c). Pub. L. 105–277 substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Comprehensive Employment and Training Act or the Job Training Partnership Act”.
+1998—Subsecs. (a) to (c). Pub. L. 105–277 substituted “the Job Training Partnership Act or title I of theWorkforce Investment Act of 1998” for “the Comprehensive Employment and Training Act or the Job Training Partnership Act”.
 
 1996—Subsec. (a). Pub. L. 104–294 substituted “$1,000” for “$100”.
 

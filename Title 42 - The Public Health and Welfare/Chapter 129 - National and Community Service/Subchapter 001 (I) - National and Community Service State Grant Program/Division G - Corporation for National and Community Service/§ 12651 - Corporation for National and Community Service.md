@@ -144,7 +144,7 @@ Nonabatement of actions.—No suit, action, or other proceeding commenced by or 
 
 &emsp;“(E)
 
-Administrative actions relating to promulgation of regulations.—Any administrative action relating to the preparation or promulgation of a regulation by the ACTION Agency relating to a function transferred under this subsection may be continuedby the Corporation with the same effect as if this subsection had not been enacted.
+Administrative actions relating to promulgation of regulations.—Any administrative action relating to the preparation or promulgation of a regulation by the ACTION Agency relating to a function transferred under this subsection may be continued by the Corporation with the same effect as if this subsection had not been enacted.
 
 “(9)
 
@@ -254,13 +254,13 @@ Duplication of functions.—The business plan shall include a description of the
 
 “(c)
 
-Definition.—The term ‘transition period’ means the period beginning on October 1, 1993 and ending on the day before the effective date of section 203(c)(2) \[see Effective Date of 1993 Amendment note above\].”
+Definition.—The term ‘transition period’ means the period beginning on October 1, 1993 and ending onthe day before the effective date of section 203(c)(2) \[see Effective Date of 1993 Amendment note above\].”
 
 #### Proc. No. 6662. Transfer of Functions of ACTION Agency to Corporation for National and Community Service
 
 Proc. No. 6662, Apr. 4, 1994, 59 F.R. 16507, provided:
 
-On September 21, 1993, I had the honor of signing into law the National and Community Service Trust Act of 1993 \[Pub. L. 103–82, see Tables for classification\], whichcreated the Corporation for National and Community Service. The Corporation was designed to involve Americans of all ages and backgrounds in community projects to address many of our Nation's most important needs—from educating our children to ensuring public safety to protecting our environment. It was chartered to foster civic responsibility, strengthening the ties that bind us together as a people, while providing educational opportunity for those who make the commitment to serve.
+On September 21, 1993, I had the honor of signing into law the National and Community Service Trust Act of 1993 \[Pub. L. 103–82, see Tables for classification\], which created the Corporation for National and Community Service. The Corporation was designed to involve Americans of all ages and backgrounds in community projects to address many of our Nation's most important needs—from educating our children to ensuring public safety to protecting our environment. It was chartered to foster civic responsibility, strengthening the ties that bind us together as a people, while providing educational opportunity for those who make the commitment to serve.
 
 In the few short months since the Corporation's establishment, enormous progress has been made toward the achievement of these invaluable goals. Final regulations have been published governing the Corporation's new grant programs, grant application packages have been developed, and a national recruitment effort has begun. As a result of intensive outreach efforts, most states have already established State Commissions on National and Community Service, and many local programs, national nonprofit organizations, institutions of higher education, and Federal agencies are eager to participate. Grant competitions have begun for a summer program that will focus on our Nation's public safety concerns, and all community service grant competitions will be completed by this summer. Finally, the Corporation has established the National Civilian Community Corps, which will take advantage of closed and down-sized military bases to launch environmental clean-up and preservation efforts.
 
@@ -292,7 +292,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13285. President's Council on Service and Civic Participation
 
-Ex. Ord. No. 13285, Jan. 29, 2003, 68 F.R. 5203, provided:
+Ex. Ord. No. 13285, Jan. 29, 2003, 68 F.R. 5203, as amended by Ex. Ord. No. 13371, Jan. 27, 2005, 70 F.R. 5041, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to encourage the recognition of volunteer service and civic participation by all Americans, and especially America's youth, it is hereby ordered as follows:
 
@@ -302,23 +302,31 @@ Section 1. <i>The President's Council on Service and Civic Participation</i>. (a
 
 Sec. 2. <i>Mission and Functions of the Council.</i>
 
-&emsp;(a) The mission of the Council shall be to:
+(a) The mission and functions of the Council shall be to:
 
-&emsp;(i) encourage the recognition of outstanding volunteer service and civic participation by individuals, schools, and organizations and thereby encourage more such activity, especially on the part of America's youth; and
+(i) promote volunteer service and civic participation in American society;
 
-&emsp;(ii) facilitate awareness of the ways in which Americans throughout our history have helped to meet the vital needs of their communities and Nation through volunteer service and civic participation.
+(ii) encourage the recognition of outstanding volunteer service through the presentation of the President's Volunteer Service Award by Council members and Certifying Organizations, thereby encouraging more such activity;
 
-&emsp;(b) In carrying out its mission, the Council shall:
+(iii) promote the efforts and needs of local non-profits and volunteer organizations, including volunteer centers;
 
-&emsp;(i) design and recommend programs to recognize individuals, schools, and organizations that excel in their efforts to support volunteer service and civic participation, especially with respect to students in primary schools, secondary schools, and institutions of higher learning;
+(iv) promote greater public access to information about existing volunteer opportunities, including via the Internet;
 
-&emsp;(ii) exchange information and ideas with interested individuals and organizations on ways to expand and improve programs developed pursuant to subsection 2(b)(i) of this order;
+(v) assist with the promotion of Federally administered volunteer programs and the link that they have to increasing and strengthening community volunteer service; and
 
-&emsp;(iii) advise the Chief Executive Officer of the CNCS on broad dissemination, especially among schools and youth organizations, of information regarding recommended practices for the promotion of volunteer service and civic participation, and other relevant educational and promotional materials;
+(vi) promote increased and sustained private sector sponsorship of and engagement in volunteer service.
 
-&emsp;(iv) monitor and advise the Chief Executive Officer of the CNCS on the need for the enhancement of materials disseminated pursuant to subsection 2(b)(iii) of this order; and
+(b) In carrying out its mission, the Council shall:
 
-&emsp;(v) make recommendations from time to time to the President, through the Director of the USA Freedom Corps, on ways to promote and recognize outstanding volunteer service and civic participation by individuals, schools, and organizations and to promote awareness of the ways in which Americans throughout our history have helped to meet the vital needs of their communities and Nation through volunteer service and civic participation.
+(i) encourage broad participation in the President's Volunteer Service Award program by qualified individuals and groups, especially students in primary schools, secondary schools, and institutions of higher learning;
+
+(ii) exchange information and ideas with interested individuals and organizations on ways to expand and improve volunteer service and civic participation;
+
+(iii) advise the Chief Executive Officer of the CNCS on broad dissemination, especially among schools and youth organizations, of information regarding recommended practices for the promotion of volunteer service and civic participation, and other relevant educational and promotional materials;
+
+(iv) monitor and advise the Chief Executive Officer of the CNCS on the need for the enhancement of materials disseminated pursuant to subsection 2(b)(iii) of this order; and
+
+(v) make recommendations from time to time to the President, through the Director of the USA Freedom Corps, on ways to encourage greater levels of volunteer service and civic participation by individuals, schools, and organizations.
 
 Sec. 3. <i>Administration</i>. (a) Each Federal agency, to the extent permitted by law and subject to the availability of appropriations, shall furnish such information and assistance to the Council as the Council may, with the approval of the Director of the USA Freedom Corps, request.
 
@@ -332,11 +340,7 @@ Sec. 3. <i>Administration</i>. (a) Each Federal agency, to the extent permitted 
 
 Sec. 4. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Chief Executive Officer of CNCS in accordance with the guidelines and procedures issued by the Administrator of General Services.
 
-(b) Unless extended by the President, this order shall expire 2 years from the date of this order.
+(b) Unless further extended by the President, this order shall expire on January 29, 2007.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5061, 12511 of this title.
 

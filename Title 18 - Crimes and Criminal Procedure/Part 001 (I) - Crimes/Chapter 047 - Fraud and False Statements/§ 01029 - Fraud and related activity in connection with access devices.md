@@ -30,7 +30,7 @@
 
 (b)(1) Whoever attempts to commit an offense under subsection (a) of this section shall be subject to the same penalties as those prescribed for the offense attempted.
 
-(2) Whoever is a party to a conspiracy of two or more persons to commit an offense under subsection (a) of this section, if any of the parties engages in any conduct in furtherance of such offense, shall be fined an amount not greater than the amount provided as the maximum fine for such offense under subsection (c) of this section or imprisoned not longer than one-half the period provided as the maximum imprisonment for such offense under subsection (c) of this section, or both.
+(2) Whoever is a party to a conspiracy of two or more persons to commit an offense under subsection (a) of this section, if any of the parties engages in any conduct in furtherance of such offense, shall be fined an amount not greater than the amount provided as the maximum fine for such offense under subsection (c) of this section or imprisoned not longer than one-half theperiod provided as the maximum imprisonment for such offense under subsection (c) of this section, or both.
 
 (c)
 
@@ -88,7 +88,7 @@ Forfeiture procedure.—The forfeiture of property under this section, including
 
 (h) Any person who, outside the jurisdiction of the United States, engages in any act that, if committed within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if—
 
-&emsp;(1) the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity within the jurisdiction of the United States; and
+&emsp;(1) the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit cardsystem member, or other entity within the jurisdiction of the United States; and
 
 &emsp;(2) the person transports, delivers, conveys, transfers to or through, or otherwise stores, secrets, or holds within the jurisdiction of the United States, any article used to assist in the commission of the offense or the proceeds of such offense or property derived therefrom.
 
@@ -195,8 +195,4 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 #### Report to Congress
 
 Section 1603 of Pub. L. 98–473 directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 981, 982, 1028, 1030, 1961, 2326, 2516 of this title; title 31 section 9703.
 

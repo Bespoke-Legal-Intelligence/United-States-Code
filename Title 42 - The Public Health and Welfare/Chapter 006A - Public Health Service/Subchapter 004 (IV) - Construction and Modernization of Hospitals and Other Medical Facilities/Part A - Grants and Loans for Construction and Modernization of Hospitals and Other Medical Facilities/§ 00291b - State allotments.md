@@ -64,7 +64,7 @@ For the purposes of this part—
 
 #### (f) Request by State to transfer portion of allotment
 
-In accordance with regulations, any State may file with the Surgeon General a request that a specified portion of an allotment to it under this part for grants for construction of any type of facility, or for modernization of facilities, be added to the corresponding allotment of another State for the purpose of meeting a portion of the Federal share of the cost of a project for the construction of a facility of that type in such other State, or for modernization of a facility in such other State, as the case may be. If it is found by the Surgeon General (or, in the case of a rehabilitation facility, by the Surgeon General and the Secretary) that construction or modernization of the facility with respect to which the request is made would meet needs of the State making the request and that use of the specified portion of such State's allotment, as requested by it, would assist in carrying out the purposes of this subchapter, such portion of such State's allotment shall be added to the corresponding allotment of the other State, to be used for the purpose referred to above.
+In accordance with regulations, any State may file with the Surgeon General a request that a specified portion of an allotment to it under this part for grants for construction of any type of facility, or for modernization of facilities, be added to the corresponding allotment of another State for the purpose of meeting a portion of the Federal share of the cost of a project for the construction of a facility of that type in such other State, or for modernization of a facility in such other State, as the case may be. If it is found by the Surgeon General (or, in the case of a rehabilitation facility, by the Surgeon General and the Secretary) that construction or modernization of the facility with respect to which the request is made would meet needs of the State making the request and that use of the specified portion of such State's allotment, as requested by it, would assist in carrying out thepurposes of this subchapter, such portion of such State's allotment shall be added to the corresponding allotment of the other State, to be used for the purpose referred to above.
 
 (July 1, 1944, ch. 373, title VI, §602, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 448; amended Pub. L. 90–574, title IV, §402(b), Oct. 15, 1968, 82 Stat. 1011; Pub. L. 91–296, title I, §§103(a), (b), 104, 116(a), 119(a)–(c), 122, June 30, 1970, 84 Stat. 338, 341, 343, 344.)
 
@@ -106,7 +106,7 @@ Subsec. (d)(1). Pub. L. 91–296, §§119(c), 122, inserted reference to Trust T
 
 Subsec. (d)(2). Pub. L. 91–296, §119(c), inserted references to Trust Territory of the Pacific Islands.
 
-Subsec. (e). Pub. L. 91–296, §104, authorized any State to make transfers of any amount up to the minimum amount allotted to any state for a particular category and authorized all amounts above such minimums to be transferred from one category of assistance to another without restriction on the amounts with the exception that no funds could be transferred from rehabilitationfacilities category or to new hospital construction category and that all transfers be justified on the basis that either there are no approvable applications in the category from which funds are transferred or, in case of transfers from new hospital construction category, the purposes of the program would be better served by the transfer, and authorized transfers to new hospital construction from modernization category if need is greater.
+Subsec. (e). Pub. L. 91–296, §104, authorized any State to make transfers of any amount up to the minimum amount allotted to any state for a particular category and authorized all amounts above such minimums to be transferred from one category of assistance to another without restriction on the amounts with the exception that no funds could be transferred from rehabilitation facilities category or to new hospital construction category and that all transfers be justified on the basis that either there are no approvable applications in the category from which funds are transferred or, in case of transfers from new hospital construction category, the purposes of the program would be better served by the transfer, and authorized transfers to new hospital construction from modernization category if need is greater.
 
 1968—Subsec. (a)(1). Pub. L. 90–574, §402(b)(1), inserted provision for two-thirds of the sums appropriated in the case of the fifth fiscal year thereafter.
 
@@ -126,7 +126,7 @@ Section 122 of Pub. L. 91–296 provided that the amendment made by that section
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855,80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -143,8 +143,4 @@ Section 103(c) of Pub. L. 91–296 directed Secretary to study effects of the fo
 #### Approval of Application for Modernization Prior to July 1, 1965, or Before Approval of a State Plan
 
 Section 3(b)(5) of Pub. L. 88–443, providing that no application for modernization of any facility may be approved for purposes of receiving funds before the approval of a State plan, as well as other requirements, is set out as an Effective Date note under section 291 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 291<i>o</i> of this title.
 

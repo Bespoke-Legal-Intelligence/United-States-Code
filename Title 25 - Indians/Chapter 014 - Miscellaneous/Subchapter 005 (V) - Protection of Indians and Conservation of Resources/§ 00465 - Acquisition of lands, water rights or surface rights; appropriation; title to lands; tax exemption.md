@@ -42,7 +42,3 @@ Sec. 2. The lands declared to be held in trust for the Seminole Tribe of Indians
 
 Sec. 3. Nothing in this Act shall deprive any Indian of any individual right, ownership, right of possession, or contract right he may have in any land or interest in land referred to in this Act.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 463b, 473a, 475a, 608, 1041e, 1300i–1, 1773c, 1779d, 2202, 2719 of this title.
-

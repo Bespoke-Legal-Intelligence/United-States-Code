@@ -18,7 +18,3 @@ Subsection (a) of this section shall not be construed to require the installatio
 
 Section effective 18 months after July 26, 1990, see section 310(a), (b) of Pub. L. 101–336, set out as a note under section 12181 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12184, 12186, 12188, 12209 of this title; title 2 section 1331; title 3 section 421.
-

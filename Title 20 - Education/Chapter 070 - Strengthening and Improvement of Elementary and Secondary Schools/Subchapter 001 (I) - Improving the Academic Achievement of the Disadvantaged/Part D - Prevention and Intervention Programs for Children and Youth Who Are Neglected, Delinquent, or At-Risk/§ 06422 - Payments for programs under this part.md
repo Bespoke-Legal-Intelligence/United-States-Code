@@ -16,7 +16,3 @@ A prior section 6422, Pub. L. 89–10, title I, §1402, as added Pub. L. 103–3
 
 A prior section 1402 of Pub. L. 89–10 was classified to section 2822 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6452 of this title.
-

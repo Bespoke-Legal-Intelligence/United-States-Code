@@ -130,9 +130,5 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
 Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as a note under section 8621 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9871 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subchapter”.</i>
 

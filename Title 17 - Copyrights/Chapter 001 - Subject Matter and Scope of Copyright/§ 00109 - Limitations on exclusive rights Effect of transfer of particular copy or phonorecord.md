@@ -24,13 +24,13 @@
 
 (3) Nothing in this subsection shall affect any provision of the antitrust laws. For purposes of the preceding sentence, “antitrust laws” has the meaning given that term in the first section of the Clayton Act and includes section 5 of the Federal Trade Commission Act to the extent that section relates to unfair methods of competition.
 
-(4) Any person who distributes a phonorecord or a copy of a computer program (including any tape, disk, or other medium embodying such program) in violation of paragraph (1) is an infringer of copyright under section 501 of this title and is subject to the remedies set forth in sections 502, 503, 504, 505, and 509. Such violation shall not be a criminal offense under section 506 or cause such person to be subject to the criminal penalties set forth in section 2319 of title 18.
+(4) Any person who distributes a phonorecord or a copy of a computer program (including anytape, disk, or other medium embodying such program) in violation of paragraph (1) is an infringer of copyright under section 501 of this title and is subject to the remedies set forth in sections 502, 503, 504, 505, and 509. Such violation shall not be a criminal offense under section 506 or cause such person to be subject to the criminal penalties set forth in section 2319 of title 18.
 
 (c) Notwithstanding the provisions of section 106(5), the owner of a particular copy lawfully made under this title, or any person authorized by such owner, is entitled, without the authority of the copyright owner, to display that copy publicly, either directly or by the projection of no more than one image at a time, to viewers present at the place where the copy is located.
 
 (d) The privileges prescribed by subsections (a) and (c) do not, unless authorized by the copyright owner, extend to any person who has acquired possession of the copy or phonorecord from the copyright owner, by rental, lease, loan, or otherwise, without acquiring ownership of it.
 
-(e) Notwithstanding the provisions of sections 106(4) and 106(5), in the case of an electronic audiovisual game intended for use in coin-operated equipment, the owner of a particular copy of such a game lawfully made under this title, is entitled, without the authority of the copyright owner of the game, to publicly perform or display that game in coin-operated equipment, except that this subsection shall not apply to anywork of authorship embodied in the audiovisual game if the copyright owner of the electronic audiovisual game is not also the copyright owner of the work of authorship.
+(e) Notwithstanding the provisions of sections 106(4) and 106(5), in the case of an electronic audiovisual game intended for use in coin-operated equipment, the owner of a particular copy of such a game lawfully made under this title, is entitled, without the authority of the copyright owner of the game, to publicly perform or display that game in coin-operated equipment, except that this subsection shall not apply to any work of authorship embodied in the audiovisual game if the copyright owner of the electronic audiovisual game is not also the copyright owner of the work of authorship.
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2548; Pub. L. 98–450, §2, Oct. 4, 1984, 98 Stat. 1727; Pub. L. 100–617, §2, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 101–650, title VIII, §§802, 803, Dec. 1, 1990, 104 Stat. 5134, 5135; Pub. L. 103–465, title V, §514(b), Dec. 8, 1994, 108 Stat. 4981; Pub. L. 105–80, §12(a)(5), Nov. 13, 1997, 111 Stat. 1534.)
 
@@ -62,7 +62,7 @@ The committee's intention is to preserve the traditional privilege of the owner 
 
 #### References in Text
 
-The date of the enactment of the Computer Software Rental Amendments Act of 1990, referred to in subsec.\(b)(2)(B), is the date of enactment of Pub. L. 101–650, which was approved Dec. 1, 1990.
+The date of the enactment of the Computer Software Rental Amendments Act of 1990, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 101–650, which was approved Dec. 1, 1990.
 
 The first section of the Clayton Act, referred to in subsec. (b)(3), is classified to section 12 of Title 15, Commerce and Trade.
 
@@ -135,8 +135,4 @@ Evaluation by the Register of Copyrights and the Assistant Secretary for Communi
 “(b)
 
 Report to Congress.—The Register of Copyrights and the Assistant Secretary for Communications and Information of the Department of Commerce shall, not later than 24 months after the date of the enactment of this Act \[Oct. 28, 1998\], submit to the Congress a joint report on the evaluation conducted under subsection (a), including any legislative recommendations the Register and the Assistant Secretary may have.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 104A, 106, 501, 511 of this title; title 18 section 2319.
 

@@ -10,7 +10,3 @@ In order to further the administration and use of the Everglades National Park, 
 
 (Pub. L. 86–269, §1, Sept. 14, 1959, 73 Stat. 553.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410r of this title.
-

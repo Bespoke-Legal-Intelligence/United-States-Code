@@ -14,7 +14,3 @@
 
 Section effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1344, 1346 of this title.
-

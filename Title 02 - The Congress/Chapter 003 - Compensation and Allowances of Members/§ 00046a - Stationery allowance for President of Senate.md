@@ -10,31 +10,31 @@ Section is from Legislative Branch Appropriation Act, 1942, and subsequent Legis
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–7 substituted “$8,000” for “$4,500”.
+2003—Pub. L. 108–7 substituted “$8,000” for “$4,500”.
 
-<b>1975</b>—Pub. L. 94–32 substituted “Effective April 1, 1975, and each fiscal year thereafter” for “Effective with the fiscal year 1972 and thereafter” and “$4,500” for “$3,600”.
+1975—Pub. L. 94–32 substituted “Effective April 1, 1975, and each fiscal year thereafter” for “Effective with the fiscal year 1972 and thereafter” and “$4,500” for “$3,600”.
 
-<b>1972</b>—Pub. L. 92–607 repealed this section insofar as it related to Senators. For purposes of codification this entailed substituting a period for a comma following “President of the Senate shall be $3,600” and striking out provisions which allowed Senators from $3,600 to $5,000 annually depending on the population of the Senator's home State. See section 58 of this title.
+1972—Pub. L. 92–607 repealed this section insofar as it related to Senators. For purposes of codification this entailed substituting a period for a comma following “President of the Senate shall be $3,600” and striking out provisions which allowed Senators from $3,600 to $5,000 annually depending on the population of the Senator's home State. See section 58 of this title.
 
-<b>1971</b>—Pub. L. 92–184 inserted provision for an increased allowance for Senators from more populous States ranging from $3,800 for Senators from States of from 3,000,000 to 4,999,999 population to $5,000 for Senators from States of 17,000,000 population and over.
+1971—Pub. L. 92–184 inserted provision for an increased allowance for Senators from more populous States ranging from $3,800 for Senators from States of from 3,000,000 to 4,999,999 population to $5,000 for Senators from States of 17,000,000 population and over.
 
 Pub. L. 92–51 provided allowance for Senators from States having population of ten million or more inhabitants of $4,000 per annum effective fiscal year 1972 and thereafter.
 
-<b>1969</b>—Pub. L. 91–145 increased allowance from $3,000 to $3,600 effective with fiscal year 1970.
+1969—Pub. L. 91–145 increased allowance from $3,000 to $3,600 effective with fiscal year 1970.
 
-<b>1967</b>—Pub. L. 90–21 increased allowance from $2,400 to $3,000 effective with fiscal year 1967.
+1967—Pub. L. 90–21 increased allowance from $2,400 to $3,000 effective with fiscal year 1967.
 
-<b>1964</b>—Pub. L. 88–258 increased allowance from $1,800 to $2,400 effective with fiscal year 1964.
+1964—Pub. L. 88–258 increased allowance from $1,800 to $2,400 effective with fiscal year 1964.
 
-<b>1955</b>—Act Aug. 5, 1955, increased allowance from $1,200 to $1,800.
+1955—Act Aug. 5, 1955, increased allowance from $1,200 to $1,800.
 
-<b>1953</b>—Act Aug. 1, 1953, increased allowance from $800 to $1,200 effective with fiscal year 1954.
+1953—Act Aug. 1, 1953, increased allowance from $800 to $1,200 effective with fiscal year 1954.
 
-<b>1951</b>—Act Oct. 11, 1951, increased allowance from $500 to $800.
+1951—Act Oct. 11, 1951, increased allowance from $500 to $800.
 
-<b>1948</b>—Act June 14, 1948, increased allowance from $400 to $500.
+1948—Act June 14, 1948, increased allowance from $400 to $500.
 
-<b>1945</b>—Act June 13, 1945, increased allowance from $200 to $400.
+1945—Act June 13, 1945, increased allowance from $200 to $400.
 
 #### Effective Date of 2003 Amendment
 

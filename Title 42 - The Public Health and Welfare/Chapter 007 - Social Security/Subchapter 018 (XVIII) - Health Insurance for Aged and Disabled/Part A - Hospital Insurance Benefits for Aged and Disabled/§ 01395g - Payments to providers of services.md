@@ -2,11 +2,11 @@
 
 #### (a) Determination of amount
 
-The Secretary shall periodically determine the amount which should be paid under this part to each provider of services with respect to the services furnished by it, and the provider of services shall be paid, at such time or times as the Secretary believes appropriate (but not less often than monthly) and prior to audit or settlement by the General Accounting Office, from the Federal Hospital Insurance Trust Fund, the amounts so determined, with necessary adjustments on account of previously made overpayments or underpayments; except that no such payments shall be made to any provider unless it has furnished such information as the Secretary may request in order to determine the amounts due such provider under this part for the period with respect to which the amounts are being paid or any prior period.
+The Secretary shall periodically determine the amount which should be paid under this part to each provider of services with respect to the services furnished by it, and the provider of services shall be paid, at such time or times as the Secretary believes appropriate (but not less often than monthly) and prior to audit or settlement by the Government Accountability Office, from the Federal Hospital Insurance Trust Fund, the amounts so determined, with necessary adjustments on account of previously made overpayments or underpayments; except that no such payments shall be made to any provider unless it has furnished such information as the Secretary may request in order to determine the amounts due such provider under this part for the period with respect to which the amounts are being paid or any prior period.
 
 #### (b) Conditions
 
-No payment shall be made to a provider of services which is a hospital for or with respect to services furnished by it for any period with respect to which it is deemed, under section 1395x(w)(2) of this title, to have in effect an arrangement with a quality control and peer review organization for the conduct of utilization review activities by such organization unless such hospital has paid to such organization the amount due (as determined pursuant to such section) to such organization for the review activities conducted by it pursuant to such arrangements or such hospital has provided assurances satisfactory to the Secretary that such organization will promptly be paid the amount so due to it from the proceeds of the payment claimed by the hospital. Payment under this subchapter for utilization review activities provided by a quality control and peer review organization pursuant to an arrangement or deemed arrangement with a hospital under section 1395x(w)(2) of this title shall be calculated without any requirement that the reasonable cost of such activities be apportioned among the patients of such hospital, if any, to whom such activities were not applicable.
+No payment shall be made to a provider of services which is a hospital for or with respect to services furnished by it for any period with respect to which it is deemed, under section 1395x(w)(2) of this title, to have in effect an arrangement with a quality control and peer review organization for the conduct of utilization review activities by such organization unless such hospital has paid to such organization the amount due (as determined pursuant to such section) to such organization for the review activities conducted by it pursuant to such arrangements or such hospital has provided assurances satisfactory to the Secretary that such organization will promptly be paid the amount so due to it from the proceeds of the payment claimed by the hospital. Payment under thissubchapter for utilization review activities provided by a quality control and peer review organization pursuant to an arrangement or deemed arrangement with a hospital under section 1395x(w)(2) of this title shall be calculated without any requirement that the reasonable cost of such activities be apportioned among the patients of such hospital, if any, to whom such activities were not applicable.
 
 #### (c) Payments under assignment or power of attorney
 
@@ -20,7 +20,7 @@ Whenever a final determination is made that the amount of payment made under thi
 
 (1) The Secretary shall provide payment under this part for inpatient hospital services furnished by a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title, and including a distinct psychiatric or rehabilitation unit of such a hospital) and a subsection (d) Puerto Rico hospital (as defined in section 1395ww(d)(9)(A) of this title) on a periodic interim payment basis (rather than on the basis of bills actually submitted) in the following cases:
 
-&emsp;(A) Upon the request of a hospital which is paid through an agency or organization with an agreement with the Secretary under section 1395h of this title, if the agency or organization, for three consecutive calendar months, fails to meet the requirements of subsection\(c)(2) of such section and if the hospital meets the requirements (in effect as of October 1, 1986) applicable to payment on such a basis, until such time as the agency or organization meets such requirements for three consecutive calendar months.
+&emsp;(A) Upon the request of a hospital which is paid through an agency or organization with an agreement with the Secretary under section 1395h of this title, if the agency or organization, for three consecutive calendar months, fails to meet the requirements of subsection (c)(2) of such section and if the hospital meets the requirements (in effect as of October 1, 1986) applicable to payment on such a basis, until such time as the agency or organization meets such requirements for three consecutive calendar months.
 
 &emsp;(B) In the case of a hospital that—
 
@@ -62,9 +62,11 @@ Whenever a final determination is made that the amount of payment made under thi
 
 &emsp;(B) the merging or consolidating hospitals or campuses would each meet the requirement of paragraph (1)(B)(i) if such hospitals or campuses were treated as independent hospitals for purposes of this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1815, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 94–182, title I, §112(a)(2), Dec. 31, 1975, 89 Stat. 1055; Pub. L. 95–142, §2(a)(2), Oct. 25, 1977, 91 Stat. 1175; Pub. L. 96–473, §6(i), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–248, title I, §§117(a)(1), 148(b), Sept. 3, 1982, 96 Stat. 354, 394; Pub. L. 99–509, title IX, §9311(a)(1), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 101–239, title VI, §6021(a), Dec. 19, 1989, 103 Stat. 2166; Pub. L. 105–33, title IV, §4603(b), Aug. 5, 1997, 111 Stat. 470; Pub. L. 108–173, title IV, §405(c)(1), title VII, §736(a)(3), Dec. 8, 2003, 117 Stat. 2266, 2354.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1815, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79Stat. 297; amended Pub. L. 94–182, title I, §112(a)(2), Dec. 31, 1975, 89 Stat. 1055; Pub. L. 95–142, §2(a)(2), Oct. 25, 1977, 91 Stat. 1175; Pub. L. 96–473, §6(i), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–248, title I, §§117(a)(1), 148(b), Sept. 3, 1982, 96 Stat. 354, 394; Pub. L. 99–509, title IX, §9311(a)(1), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 101–239, title VI, §6021(a), Dec. 19, 1989, 103 Stat. 2166; Pub. L. 105–33, title IV, §4603(b), Aug. 5, 1997, 111 Stat. 470; Pub. L. 108–173, title IV, §405(c)(1), title VII, §736(a)(3), Dec. 8, 2003, 117 Stat. 2266, 2354; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 2003—Subsec. (e)(1)(B). Pub. L. 108–173, §736(a)(3), substituted “of a hospital” for “of hospital” in introductory provisions.
 
@@ -106,7 +108,7 @@ Section 9311(a)(2) of Pub. L. 99–509 provided that: “The amendment made by p
 
 #### Effective Date of 1982 Amendment
 
-Section 117(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending thissection and section 1395<i>l</i> of this title\] apply to final determinations made on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Section 117(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending this section and section 1395<i>l</i> of this title\] apply to final determinations made on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 Amendment by section 148(b) of Pub. L. 97–248 effective with respect to contracts entered into or renewed on or after Sept. 3, 1982, see section 149 of Pub. L. 97–248, set out as an Effective Date note under section 1320c of this title.
 

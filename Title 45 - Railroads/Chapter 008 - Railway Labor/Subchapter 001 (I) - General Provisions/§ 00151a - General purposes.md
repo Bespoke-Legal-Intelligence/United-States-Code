@@ -12,7 +12,3 @@ Section is comprised of the first sentence of section 2 of act May 20, 1926. The
 
 1934—Act June 21, 1934, reenacted provisions comprising this section without change.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 153, 157, 231n of this title.
-

@@ -1,9 +1,5 @@
 Part I—General Provisions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 7516 of this title.
-
 
 ---
 
@@ -33,7 +29,7 @@ This part is referred to in section 7516 of this title.
 - [&sect; 02372 - Repealed. Pub. L. 97&#8211;113, title VII, &sect;725(a), Dec. 29, 1981, 95 Stat. 1553](%C2%A7%2002372%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93113%2C%20title%20VII%2C%20%C2%A7725%28a%29%2C%20Dec.%2029%2C%201981%2C%2095%20Stat.%201553.md)
 - [&sect; 02372a - Renewal, reissuance, etc., of export licenses to or for Argentina](%C2%A7%2002372a%20-%20Renewal%2C%20reissuance%2C%20etc.%2C%20of%20export%20licenses%20to%20or%20for%20Argentina.md)
 - [&sect; 02373 - Eastern Mediterranean policy requirements](%C2%A7%2002373%20-%20Eastern%20Mediterranean%20policy%20requirements.md)
-- [&sect; 02374 - Prohibition on assistance to Afghanistan](%C2%A7%2002374%20-%20Prohibition%20on%20assistance%20to%20Afghanistan.md)
+- [&sect; 02374 - Repealed. Pub. L. 108&#8211;458, title VII, &sect;7104(l), Dec. 17, 2004, 118 Stat. 3788](%C2%A7%2002374%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93458%2C%20title%20VII%2C%20%C2%A77104%28l%29%2C%20Dec.%2017%2C%202004%2C%20118%20Stat.%203788.md)
 - [&sect; 02375 - Assistance to Pakistan](%C2%A7%2002375%20-%20Assistance%20to%20Pakistan.md)
 - [&sect; 02376 - Nuclear non-proliferation policy in South Asia](%C2%A7%2002376%20-%20Nuclear%20non-proliferation%20policy%20in%20South%20Asia.md)
 - [&sect; 02377 - Prohibition on assistance to countries that aid terrorist states](%C2%A7%2002377%20-%20Prohibition%20on%20assistance%20to%20countries%20that%20aid%20terrorist%20states.md)

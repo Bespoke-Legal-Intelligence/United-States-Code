@@ -2,7 +2,7 @@
 
 #### (a) Appointment; compensation; term of office
 
-The Director of the Foundation (referred to in this chapter as the “Director”) shall be appointed by the President, by and with the advice and consent of the Senate. Before any person isappointed as Director, the President shall afford the Board an opportunity to make recommendations to him with respect to such appointment. The Director shall receive basic pay at the rate provided for level II of the Executive Schedule under section 5313 of title 5, and shall serve for a term of six years unless sooner removed by the President.
+The Director of the Foundation (referred to in this chapter as the “Director”) shall be appointed by the President, by and with the advice and consent of the Senate. Before any person is appointed as Director, the President shall afford the Board an opportunity to make recommendations to him with respect to such appointment. The Director shall receive basic pay at the rate provided for level II of the Executive Schedule under section 5313 of title 5, and shall serve for a term of six years unless sooner removed by the President.
 
 #### (b) Exercise of authority of Foundation; actions as final and binding upon the Foundation
 
@@ -38,11 +38,15 @@ The Director, in his capacity as ex officio member of the Board, shall, except w
 
 1968—Subsec. (a). Pub. L. 90–407 inserted provision prescribing the annual rate of compensation of the Director, and struck out provision authorizing the Director to serve as a nonvoting ex officio member of the Board and as the chief executive officer of the Foundation.
 
-Subsec. (b). Pub. L. 90–407 substituted provisions authorizing the Director, except as otherwise provided, to exercise all of the authority granted to the Foundation by this chapter and to take action final and binding upon the Foundation for provisions authorizing the Director, in addition to the powers and duties specifically vested in him by this chapter, to exercise the powers granted by sections 1869 or 1870(c) of this title and such other powers and duties delegated by the Board to him, and the proviso that no action taken by the Director pursuant to section 1869 or 1870(c) shall be final unless in each instance the Board has reviewed and approved the action proposed to be taken, or such action is taken pursuant to the terms of a delegation of authority from the Board or the Executive Committee to the Director.
+Subsec. (b). Pub. L. 90–407 substituted provisions authorizing the Director, except as otherwise provided, to exercise all of the authority granted to the Foundationby this chapter and to take action final and binding upon the Foundation for provisions authorizing the Director, in addition to the powers and duties specifically vested in him by this chapter, to exercise the powers granted by sections 1869 or 1870(c) of this title and such other powers and duties delegated by the Board to him, and the proviso that no action taken by the Director pursuant to section 1869 or 1870(c) shall be final unless in each instance the Board has reviewed and approved the action proposed to be taken, or such action is taken pursuant to the terms of a delegation of authority from the Board or the Executive Committee to the Director.
 
 Subsecs. (c) to (f). Pub. L. 90–407 added subsecs. (c) to (f).
 
 1959—Subsec. (b). Pub. L. 86–232 provided for delegation of authority from the Board or the Executive Committee to the Director.
+
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1968 Amendment
 
@@ -114,7 +118,7 @@ Pub. L. 95–434, §8, Oct. 10, 1978, 92 Stat. 1050, provided that:
 
 #### Feasibility Study of the Operation of the Peer Review System in the Evaluation of Grant Proposals
 
-Pub. L. 94–471, §2(f), Oct. 11, 1976, 90 Stat. 2053, provided that: “The Director of the National Science Foundation is authorized and directed to conduct a feasibility study of operating the peer review system used in the evaluation of grant proposals within the Foundation so as to assure that the identity of the proposer is not known to the reviewers of the proposal. Any such system shall be considered to supplement and not to supplant the peer review system in operation in the Foundation on the date of enactment of this Act \[Oct. 11, 1976\].”
+Pub. L. 94–471, §2(f), Oct. 11, 1976, 90 Stat. 2053, provided that: “The Director of the National ScienceFoundation is authorized and directed to conduct a feasibility study of operating the peer review system used in the evaluation of grant proposals within the Foundation so as to assure that the identity of the proposer is not known to the reviewers of the proposal. Any such system shall be considered to supplement and not to supplant the peer review system in operation in the Foundation on the date of enactment of this Act \[Oct. 11, 1976\].”
 
 #### Science for Citizens Program; Preparation and Submission of Plan to Committees of Congress
 

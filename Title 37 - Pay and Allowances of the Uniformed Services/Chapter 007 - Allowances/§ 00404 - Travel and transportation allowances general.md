@@ -18,7 +18,7 @@
 
 &emsp;(B) the allowances for the kinds of travel, but not more than the amounts authorized in this section.
 
-(2) In prescribing such conditions and allowances, the Secretaries concerned shall provide that a member who is performing travel under orders away from his designated post of duty and who is authorized a per diem under clause (2) of subsection (d) shall be paid for the meals portion of that per diem in a cash amount at a rate that is not less than the rate established under section 1011(a) of this title for meals sold to members. The preceding sentence shall not apply with respect to a member on field duty or sea duty (as defined in regulations prescribedunder section 403(f)(3) of this title) or a member of a unit with respect to which the Secretary concerned has determined that unit messing is essential to the accomplishment of the unit's training and readiness.
+(2) In prescribing such conditions and allowances, the Secretaries concerned shall provide that a member who is performing travel under orders away from his designated post of duty and who is authorized a per diem under clause (2) of subsection (d) shall be paid for the meals portion of that per diem in a cash amount at a rate that is not less than the rate established under section 1011(a) of this title for meals sold to members. The preceding sentence shall not apply with respect to a member on field duty or sea duty (as defined in regulations prescribed under section 403(f)(3) of this title) or a member of a unit with respect to which the Secretary concerned has determined that unit messing is essential to the accomplishment of the unit's training and readiness.
 
 (c)(1) Under uniform regulations prescribed by the Secretaries concerned and as provided in paragraph (2), a member who—
 
@@ -244,7 +244,7 @@ Subsec. (d)(1)(C). Pub. L. 99–661, §1343(b)(2), substituted “subparagraph (
 
 Subsec. (d)(2) to (4). Pub. L. 99–661, §614(a)(3), added pars. (2) to (4) and struck out former par. (2) which read as follows: “Under regulations prescribed by the Secretaries concerned, when either travel is to an area designated as a high cost area in those regulations or the per diem of paragraph (1)(B) of this subsection is less than the amount of the actual and necessary expenses required by the unusual circumstances of the travel assignment, reimbursement may be authorized for actual and necessary expenses, but not for more than $75 for each day in a travel status.”
 
-1985—Subsec. (d). Pub. L. 99–145 substituted par. (1) for first sentence, designated second sentence as par. (2), and in par. (2) substituted “paragraph (1)(B)” for “clause (2)”. Prior to amendment, first sentence read as follows: “The travel and transportation allowances authorized for each kind of travel may not be more than one of the following—
+1985—Subsec. (d). Pub. L. 99–145 substituted par. (1) for first sentence, designated second sentence as par. (2), and in par. (2) substituted “paragraph (1)(B)” for “clause (2)”. Prior to amendment, first sentence readas follows: “The travel and transportation allowances authorized for each kind of travel may not be more than one of the following—
 
 &emsp;“(1) transportation in kind, reimbursement therefor, or a monetary allowance in place of the cost of transportation at a rate per mile prescribed by the Secretaries concerned and based on distances established, over the shortest usually traveled route, under mileage tables prepared under the direction of the Secretary of the Army;
 
@@ -320,7 +320,7 @@ Section 121(d) of Pub. L. 97–60 provided that:
 
 “(2) Paragraph (2) of section 404(b) of title 37, United States Code, as added by subsection (a)(2)(C), shall apply to travel performed after October 31, 1981.
 
-“(3) Paragraph (3) of section 406(a) of title 37, United States Code, as added by subsection (b)(1)(C), shall take effect on the date of the enactment of this Act \[Oct. 14, 1981\].
+“(3) Paragraph (3) of section 406(a) of title 37, United States Code, as added by subsection (b)(1)(C), shall takeeffect on the date of the enactment of this Act \[Oct. 14, 1981\].
 
 “(4) The amendments made by subsections (a)(3) and (b)(3) \[amending this section and section 406 of this title\] shall take effect on November 1, 1981, and shall apply to members who are retired, placed on the temporary disability retired list, discharged, or involuntarily released on or after November 1, 1981, except that such amendments shall not apply to any member who before November 1, 1981, had completed eighteen years of active service.
 
@@ -357,8 +357,4 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8113\], Oct. 12, 1984, 98 St
 Increase in Per Diem Rates; Reimbursement for Actual Expenses Incident to Travel
 
 The increase from $12 to $16 in the per diem allowance and the provision for reimbursement for actual expenses incident to travel up to $30 per day provided in the amendment of subsec. (d) of this section by Pub. L. 89–718 had already been put into effect by Pub. L. 87–500, §§1, 2, June 27, 1962, 76 Stat. 111, which although not amending subsec. (d) of this section, had raised the per diem allowance and provided for the reimbursement for actual expenses up to $30 per day through the device of effecting an amendment to section 303(a) of the Career Compensation Act of 1949, act Oct. 12, 1949, ch. 681, title III, 63 Stat. 813. Pub. L. 89–500 was repealed by section 75(3) of Pub. L. 89–718, except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun before November 2, 1966.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 404a, 404b, 406, 406a, 406b, 406c, 408, 410, 411, 411a, 411b, 411e, 420, 433, 1002, 1003 of this title; title 5 section 4109; title 10 sections 1174a, 1175, 2013, 2634, 2784a.
 

@@ -6,9 +6,9 @@
 
 &emsp;(2) the amount permitted by regulations prescribed under section 1514(a) of this title.
 
-(b) If an officer or employee of an executive agency or of the District of Columbia government violates subsection (a) of this section, the head of the executive agency or the Mayor of the District of Columbia, as the case may be,shall report immediately to the President and Congress all relevant facts and a statement of actions taken.
+(b) If an officer or employee of an executive agency or of the District of Columbia government violates subsection (a) of this section, the head of the executive agency or the Mayor of the District of Columbia, as the case may be, shall report immediately to the President and Congress all relevant facts and a statement of actions taken. A copy of each report shall also be transmitted to the Comptroller General on the same date the report is transmitted to the President and Congress.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 932.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 932; Pub. L. 108–447, div. G, title I, §1401(b), Dec. 8, 2004, 118 Stat. 3192.)
 
 Historical and Revision Notes
 
@@ -32,7 +32,7 @@ In subsection (a), before clause (1), the words “District of Columbia governme
 
 In subsection (b), the word “Mayor” is used because of Reorganization Plan No. 3 of 1967 (eff. Aug. 11, 1967, 81 Stat. 948) and sections 421, 422, and 771 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, 87 Stat. 789, 818). The word “President” is substituted for “President, through the Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 1518, 1519 of this title.
+2004—Subsec. (b). Pub. L. 108–447 inserted at end “A copy of each report shall also be transmitted to the Comptroller General on the same date the report is transmitted to the President and Congress.”
 

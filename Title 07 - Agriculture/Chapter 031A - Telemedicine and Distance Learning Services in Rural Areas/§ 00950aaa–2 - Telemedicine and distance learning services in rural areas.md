@@ -140,7 +140,3 @@ The Rural Electrification Act of 1936, referred to in subsecs. (c)(2) and (h)(1)
 
 A prior section 950aaa–2, Pub. L. 101–624, title XXIII, §2333, Nov. 28, 1990, 104 Stat. 4017; Pub. L. 103–354, title II, §235(b)(4)(A), (C), Oct. 13, 1994, 108 Stat. 3221, 3222, provided definitions for chapter, prior to the general amendment of this chapter by Pub. L. 104–127.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 917 of this title.
-

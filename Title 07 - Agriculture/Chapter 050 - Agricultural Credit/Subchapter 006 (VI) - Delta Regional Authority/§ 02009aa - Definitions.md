@@ -78,7 +78,3 @@ Purposes.—The purposes of this title are—
 
 &emsp;“(7) to focus special attention on areas of the region that suffer from the greatest economic distress.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2008r of this title.
-

@@ -4,7 +4,3 @@ Within six months after October 1, 1968, the Secretary shall publish in the Fede
 
 (Pub. L. 90–540, §3, Oct. 1, 1968, 82 Stat. 904.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460v–5 of this title.
-

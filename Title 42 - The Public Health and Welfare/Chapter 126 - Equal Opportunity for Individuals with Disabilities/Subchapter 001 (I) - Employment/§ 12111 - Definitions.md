@@ -22,7 +22,7 @@ As used in this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “employer” means a person engaged in an industry affecting commerce who has 15 or more employees for each working day in each of 20 or more calendar weeks in the current or preceding calendar year, and any agent of such person, except that, for two years following the effective date of this subchapter, an employer means a person engaged in an industry affecting commerce who has 25 or more employees for each working day in each of 20 or more calendar weeks in the current or preceding year, and any agent of such person.
+&emsp;&emsp;The term “employer” means a person engaged in an industry affecting commerce who has 15 or more employees for each working day in each of 20 or more calendar weeks in the current or preceding calendar year, and any agent of such person, except that,for two years following the effective date of this subchapter, an employer means a person engaged in an industry affecting commerce who has 25 or more employees for each working day in each of 20 or more calendar weeks in the current or preceding year, and any agent of such person.
 
 #### (B) Exceptions
 
@@ -97,8 +97,4 @@ Amendment by Pub. L. 102–166 inapplicable to conduct occurring before Nov. 21,
 #### Effective Date
 
 Section 108 of title I of Pub. L. 101–336 provided that: “This title \[enacting this subchapter\] shall become effective 24 months after the date of enactment \[July 26, 1990\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5057, 12581, 12594, 12635 of this title.
 

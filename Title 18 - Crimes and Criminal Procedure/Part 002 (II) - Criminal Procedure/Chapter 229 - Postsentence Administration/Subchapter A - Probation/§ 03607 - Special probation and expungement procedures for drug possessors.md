@@ -24,7 +24,3 @@ Expungement of Record of Disposition.—If the case against a person found guilt
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 21 section 841.
-

@@ -78,7 +78,7 @@ Land grant universities described in subsection (b) of this section shall use fu
 
 &emsp;&emsp;(A) developing data addressing carbon losses and gains in soils and plants (including trees) and the exchange of methane and nitrous oxide from agriculture;
 
-&emsp;&emsp;(B) understanding how agricultural and forestry practices affect the sequestration of carbon in soils and plants (including trees) and the exchange of other greenhouse gases,including the effects of new technologies such as biotechnology and nanotechnology;
+&emsp;&emsp;(B) understanding how agricultural and forestry practices affect the sequestration of carbon in soils and plants (including trees) and the exchange of other greenhouse gases, including the effects of new technologies such as biotechnology and nanotechnology;
 
 &emsp;&emsp;(C) developing cost-effective means of measuring and monitoring changes in carbon pools in soils and plants (including trees), including computer models;
 

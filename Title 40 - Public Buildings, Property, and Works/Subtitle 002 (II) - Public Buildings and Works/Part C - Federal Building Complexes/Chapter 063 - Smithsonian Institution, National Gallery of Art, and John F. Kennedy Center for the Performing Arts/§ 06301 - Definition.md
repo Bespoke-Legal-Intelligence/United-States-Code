@@ -8,7 +8,7 @@ Smithsonian institution.—The Smithsonian Institution and its grounds, which in
 
 &emsp;&emsp;(A)
 
-Smithsonian buildings and grounds on the national mall.—The Smithsonian Building, the Arts and Industries Building, the Freer Gallery of Art, the National Air and Space Museum, the National Museum of Natural History, the National Museum of American History, the National Museum of the American Indian, the Hirshhorn Museumand Sculpture Garden, the Arthur M. Sackler Gallery, the National Museum of African Art, the S. Dillon Ripley Center, and all other buildings of the Smithsonian Institution within the Mall, including the entrance walks, unloading areas, and other pertinent service roads and parking areas.
+Smithsonian buildings and grounds on the national mall.—The Smithsonian Building, the Arts and Industries Building, the Freer Gallery of Art, the National Air and Space Museum, the National Museum of Natural History, the National Museum of American History, the National Museum of the American Indian, the Hirshhorn Museum and Sculpture Garden, the Arthur M. Sackler Gallery, the National Museum of African Art, the S. Dillon Ripley Center, and all other buildings of the Smithsonian Institution within the Mall, including the entrance walks, unloading areas, and other pertinent service roads and parking areas.
 
 &emsp;&emsp;(B)
 
@@ -30,7 +30,7 @@ National gallery of art.—The National Gallery of Art and its grounds, which ex
 
 &emsp;(3)
 
-John f. kennedy center for the performing arts.—The John F. Kennedy Center for the Performing Arts, which extends to the line of the west face of the west retaining walls and curbs of the Inner Loop Freeway on the east, the north face of the north retaining walls and curbs of the Theodore Roosevelt Bridge approaches on the south, the east face of the east retaining walls and curbs of Rock Creek Parkway on the west, and the south curbs of New Hampshire Avenue and F Street on the north, as generally depicted on the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563 and dated April 20, 1994 (as amended by the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563A and dated May 22, 1997), which shall be on file and available for public inspection in the office of the National Capital Region, National Park Service.
+John f. kennedy center for the performing arts.—The John F. Kennedy Center for the Performing Arts, which extends to the line of the west face of the west retaining walls and curbs of the Inner Loop Freeway onthe east, the north face of the north retaining walls and curbs of the Theodore Roosevelt Bridge approaches on the south, the east face of the east retaining walls and curbs of Rock Creek Parkway on the west, and the south curbs of New Hampshire Avenue and F Street on the north, as generally depicted on the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563 and dated April 20, 1994 (as amended by the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563A and dated May 22, 1997), which shall be on file and available for public inspection in the office of the National Capital Region, National Park Service.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1184.)
 
@@ -55,8 +55,4 @@ In clause (1)(A), the words “National Museum of American History” are substi
 In clause (1)(C), the words “the Smithsonian Institution acquires” are substituted for “that shall hereafter be acquired by the Smithsonian Institution” to eliminate unnecessary words.
 
 In clause (3), the words “the site of” are omitted as unnecessary and for consistency in the revised section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6302 of this title.
 

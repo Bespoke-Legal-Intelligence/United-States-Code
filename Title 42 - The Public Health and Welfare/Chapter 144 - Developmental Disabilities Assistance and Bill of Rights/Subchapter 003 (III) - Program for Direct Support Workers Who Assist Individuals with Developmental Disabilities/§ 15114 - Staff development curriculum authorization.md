@@ -46,7 +46,7 @@ To be eligible to receive an award under this section, an entity shall submit to
 
 &emsp;&emsp;&emsp;(iii) evaluating the proficiency of the participants with respect to the content of the curriculum;
 
-&emsp;&emsp;&emsp;(iv) providing necessary support to the participants to assure that the participants have access to, and proficiency in using, a computer in order to participate in the development, testing, and validation process;
+&emsp;&emsp;&emsp;(iv) providing necessary support to the participants to assure that the participants have access to, and proficiency in using, a computer in order to participatein the development, testing, and validation process;
 
 &emsp;&emsp;&emsp;(v) providing necessary technical and instructional support to trainers and mentors for the participants in conjunction with the development, testing, and validation process;
 
@@ -78,9 +78,5 @@ To be eligible to receive an award under this section, an entity shall submit to
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(3)(C)(i), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part D of the Act is classified generally to subchapter IV (§1451 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15115 of this title.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(3)(C)(i), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part D of the Act is classified generally to subchapter IV (§1450 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 

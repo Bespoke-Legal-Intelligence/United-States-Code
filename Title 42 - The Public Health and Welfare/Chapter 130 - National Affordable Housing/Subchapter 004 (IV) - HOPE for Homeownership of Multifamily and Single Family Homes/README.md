@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—HOPE FOR HOMEOWNERSHIP OF MULTIFAMILY AND SINGLE FAMILY HOMES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1437f, 3535 of this title; title 12 sections 1831q, 1834a.
-
 
 ---
 

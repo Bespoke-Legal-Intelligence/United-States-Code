@@ -59,10 +59,6 @@
 
 1978—Pub. L. 95–454, title II, §204(b), title IV, §411(1), Oct. 13, 1978, 92 Stat. 1137, 1173, substituted “SUSPENSION OF 14 DAYS OR LESS” for “COMPETITIVE SERVICE” in subchapter I heading, substituted “Definitions” for “Cause; procedure; exception” in item 7501, added items 7502 to 7504, substituted “REMOVAL, SUSPENSION FOR MORE THAN 14 DAYS, REDUCTION IN GRADE OR PAY, OR FURLOUGH FOR 30 DAYS OR LESS” for “PREFERENCE ELIGIBLES” in subchapter II heading, inserted “; application” in item 7511, substituted “Actions covered” for “Cause; procedure; exception” in item 7512, added items 7513 and 7514, substituted “ADMINISTRATIVE LAW JUDGES” for “HEARING EXAMINERS” in subchapter III heading, substituted “Actions against administrative law judges” for “Removal” in item 7521, and added subchapter V heading and items 7541 to 7543.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2108, 2302, 3382, 5407, 9508, 9902 of this title; title 6 section 293; title 7 section 7657; title 10 section 1612; title 29 section 783; title 31 section 732; title 39 section 1005; title 41 section 423; title 42 section 237.
-
 
 ---
 

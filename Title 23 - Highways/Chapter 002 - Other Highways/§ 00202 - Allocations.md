@@ -24,7 +24,7 @@ In general.—All funds authorized to be appropriated for Indian reservation roa
 
 &emsp;&emsp;(B)
 
-Regulations.—Notwithstanding sections 563(a) and 565(a) of title 5, the Secretary of the Interior shall issue regulations governing the Indian reservation roads program, and establishing the funding formula for fiscal year 2000 and each subsequent fiscal year under this paragraph, in accordance with a negotiated rulemaking procedure under subchapter III of chapter 5 of title 5. The regulations shall be issued in final form not later than April 1, 1999, and shall take effect not later than October 1, 1999.
+Regulations.—Notwithstanding sections 563(a) and 565(a) of title 5, the Secretary of the Interior shall issue regulationsgoverning the Indian reservation roads program, and establishing the funding formula for fiscal year 2000 and each subsequent fiscal year under this paragraph, in accordance with a negotiated rulemaking procedure under subchapter III of chapter 5 of title 5. The regulations shall be issued in final form not later than April 1, 1999, and shall take effect not later than October 1, 1999.
 
 &emsp;&emsp;(C)
 
@@ -200,7 +200,7 @@ Contract authority.—Funds authorized by this subsection shall be available for
 
 Section 1032(d) of Pub. L. 102–240 provided that: “Notwithstanding any other provision of law, funds allocated for Indian reservation roads may be used for the purpose of funding road projects on roads of tribally controlled postsecondary vocational institutions.”
 
-Pub. L. 102–240, title I, §1042, Dec. 18, 1991, 105 Stat. 1993, directed Secretary of Transportation to conduct a study on funding needs for Indian reservation roads andto report to Congress on results of the study not later than one year after Dec. 18, 1991, prior to repeal by Pub. L. 105–362, title XV, §1501(c), Nov. 10, 1998, 112 Stat. 3294.
+Pub. L. 102–240, title I, §1042, Dec. 18, 1991, 105 Stat. 1993, directed Secretary of Transportation to conduct a study on funding needs for Indian reservation roads and to report to Congress on results of the study not later than one year after Dec. 18, 1991, prior to repeal by Pub. L. 105–362, title XV, §1501(c), Nov. 10, 1998, 112 Stat. 3294.
 
 #### Study and Report on Method of Allocating Funds
 
@@ -209,8 +209,4 @@ Section 1032(e) of Pub. L. 102–240 provided that: “The Secretary shall under
 #### Forest Highways
 
 Pub. L. 100–17, title I, §134, Apr. 2, 1987, 101 Stat. 173, as amended by Pub. L. 100–202, §101(<i>l</i>) \[title III, §348(a)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388, provided that: “Notwithstanding section 202(a) of title 23, United States Code, the Secretary shall, after making the transfer provided by section 204(g) of such title, as soon as practicable after the date of the enactment of this Act \[Apr. 2, 1987\] in fiscal year 1987 and on October 1 of each of fiscal years 1988, 1989, 1990, and 1991, allocate 66 percent of the remainder of the authorization for forest highways provided for such fiscal year by this Act \[see Short Title of 1987 Amendment note set out under section 101 of this title\] in the same percentage as the amounts allocated for expenditure in each State and the Commonwealth of Puerto Rico from funds authorized for forest highways for the fiscal year ending June 30, 1958, adjusted (1) to eliminate the 0.003243547 percent for the State of Iowa to the State by deed executed May 26, 1964, and (2) to redistribute the percentage formerly apportioned to the State of Iowa to other participating States on a proportional basis. The remaining funds authorized to be appropriated for forest highways for such fiscal year shall be allocated pursuant to section 202(a) of such title.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 134 of this title; title 49 section 5303.
 

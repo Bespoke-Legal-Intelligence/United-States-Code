@@ -54,9 +54,5 @@ Post Office Department redesignated United States Postal Service pursuant to Pub
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1956 of this title.
-
 <i><sup>1</sup></i><i> See 1994 Amendment note below.</i>
 

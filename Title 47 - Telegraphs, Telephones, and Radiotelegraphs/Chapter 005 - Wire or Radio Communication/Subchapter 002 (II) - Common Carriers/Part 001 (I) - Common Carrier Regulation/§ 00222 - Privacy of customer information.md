@@ -48,13 +48,13 @@ Notwithstanding subsections (b), (c), and (d) of this section, a telecommunicati
 
 For purposes of subsection (c)(1) of this section, without the express prior authorization of the customer, a customer shall not be considered to have approved the use or disclosure of or access to—
 
-&emsp;(1) call location information concerning the user of a commercial mobile service (as suchterm is defined in section 332(d) of this title), other than in accordance with subsection (d)(4) of this section; or
+&emsp;(1) call location information concerning the user of a commercial mobile service (as such term is defined in section 332(d) of this title), other than in accordance with subsection (d)(4) of this section; or
 
 &emsp;(2) automatic crash notification information to any person other than for use in the operation of an automatic crash notification system.
 
 #### (g) Subscriber listed and unlisted information for emergency services
 
-Notwithstanding subsections (b), (c), and (d) of this section, a telecommunications carrier that provides telephone exchange service shall provide information described in subsection (i)(3)(A) <sup>1</sup> of this section (including information pertaining to subscribers whose information is unlisted or unpublished) that is in its possession or control (including information pertaining to subscribers of other carriers) on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions to providers of emergency services, and providers of emergency support services, solely for purposes of delivering or assisting in the delivery of emergency services.
+Notwithstanding subsections (b), (c), and (d) of this section, a telecommunications carrier that provides telephone exchange service shall provide information described in subsection (i)(3)(A) <sup>1</sup> of this section (including informationpertaining to subscribers whose information is unlisted or unpublished) that is in its possession or control (including information pertaining to subscribers of other carriers) on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions to providers of emergency services, and providers of emergency support services, solely for purposes of delivering or assisting in the delivery of emergency services.
 
 #### (h) Definitions
 

@@ -1,6 +1,6 @@
 ### §702e. Maps for project; preparation
 
-Subject to the approval of the heads of the several executive departments concerned, the Secretary of the Army, on the recommendation of the Chief of Engineers, may engage the services and assistance of the National Ocean Survey, the United States Geological Survey, or other mapping agencies of the Government, in the preparation of maps required in furtherance of this project, and funds to pay for such services may be allotted from appropriations made under authority of sections 702a and 702g of this title.
+Subject to the approval of the heads of the several executive departments concerned, theSecretary of the Army, on the recommendation of the Chief of Engineers, may engage the services and assistance of the National Ocean Survey, the United States Geological Survey, or other mapping agencies of the Government, in the preparation of maps required in furtherance of this project, and funds to pay for such services may be allotted from appropriations made under authority of sections 702a and 702g of this title.
 
 (May 15, 1928, ch. 569, §5, 45 Stat. 536; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
@@ -15,8 +15,4 @@ Department of War designated Department of the Army and title of Secretary of Wa
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees. The Geological Survey, referred to in text, is an agency of Department of the Interior.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701c–1, 701e, 702a, 702a–11/2, 702a–13/4, 702a–11, 702c, 702h, 702i, 702j, 702<i>l</i>, 702m, 702n of this title.
 

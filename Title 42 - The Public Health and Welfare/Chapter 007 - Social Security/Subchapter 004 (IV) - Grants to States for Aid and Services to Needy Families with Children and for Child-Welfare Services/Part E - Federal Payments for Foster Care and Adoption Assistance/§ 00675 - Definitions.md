@@ -46,7 +46,7 @@ As used in this part or part B of this subchapter:
 
 &emsp;(5) The term “case review system” means a procedure for assuring that—
 
-&emsp;&emsp;(A) each child has a case plan designed to achieve placement in a safe setting that isthe least restrictive (most family like) and most appropriate setting available and in close proximity to the parents’ home, consistent with the best interest and special needs of the child, which—
+&emsp;&emsp;(A) each child has a case plan designed to achieve placement in a safe setting that is the least restrictive (most family like) and most appropriate setting available and in close proximity to the parents’ home, consistent with the best interest and special needs of the child, which—
 
 &emsp;&emsp;&emsp;(i) if the child has been placed in a foster family home or child-care institution a substantial distance from the home of the parents of the child, or in a State different from the State in which such home is located, sets forth the reasons why such placement is in the best interests of the child, and
 
@@ -72,7 +72,7 @@ As used in this part or part B of this subchapter:
 
 &emsp;&emsp;&emsp;(ii) the date that is 60 days after the date on which the child is removed from the home; <sup>1</sup> and
 
-&emsp;&emsp;(G) the foster parents (if any) of a child and any preadoptive parent or relative providing care for the child are provided with notice of, and an opportunity to be heard in,any review or hearing to be held with respect to the child, except that this subparagraph shall not be construed to require that any foster parent, preadoptive parent, or relative providing care for the child be made a party to such a review or hearing solely on the basis of such notice and opportunity to be heard.
+&emsp;&emsp;(G) the foster parents (if any) of a child and any preadoptive parent or relative providing care for the child are provided with notice of, and an opportunity to be heard in, any review or hearing to be held with respect to the child, except that this subparagraph shall not be construed to require that any foster parent, preadoptive parent, or relative providing care for the child be made a party to such a review or hearing solely on the basis of such notice and opportunity to be heard.
 
 &emsp;(6) The term “administrative review” means a review open to the participation of the parents of the child, conducted by a panel of appropriate persons at least one of whom is not responsible for the case management of, or the delivery of services to, either the child or the parents who are the subject of the review.
 
@@ -100,7 +100,7 @@ Par. (5)(A). Pub. L. 105–89, §102(2)(B)(i), inserted “a safe setting that i
 
 Par. (5)(B). Pub. L. 105–89, §102(2)(B)(ii), inserted “the safety of the child,” after “determine” and “and safely maintained in” before “the home or placed for adoption”.
 
-Par. (5)(C). Pub. L. 105–89, §302, substituted “permanency hearing” for “dispositional hearing” and “no later than 12 months after the date the child is considered to have entered foster care (as determined under subparagraph (F))” for “no later than eighteen months after the original placement”, and which directed the substitution of “permanency plan for the child that includes whether, and if applicable when, the child will be returned to the parent, placed for adoption and the State will file a petition for termination of parental rights, or referred for legal guardianship, or (in cases where the State agency has documented to the State court a compelling reason for determining that it would not be in the best interests of the child to return home, be referred for termination of parental rights, or be placed for adoption, with a fit and willing relative, or with a legal guardian) placed in another planned permanent living arrangement” for “future status of the child (including, but not limited to, whether the child should be returned to the parent, should be continued in foster care for a specified period, should be placed for adoption, or should (because of the child's special needs or circumstances) be continued in foster care on a permanent or long term basis)”, was executed by making the substitution for text which contained the words “long-term” rather than “long term” to reflect the probable intent of Congress.
+Par. (5)(C). Pub. L. 105–89, §302, substituted “permanency hearing” for “dispositional hearing” and “no later than 12 months after the date the child is considered to have entered foster care (as determined undersubparagraph (F))” for “no later than eighteen months after the original placement”, and which directed the substitution of “permanency plan for the child that includes whether, and if applicable when, the child will be returned to the parent, placed for adoption and the State will file a petition for termination of parental rights, or referred for legal guardianship, or (in cases where the State agency has documented to the State court a compelling reason for determining that it would not be in the best interests of the child to return home, be referred for termination of parental rights, or be placed for adoption, with a fit and willing relative, or with a legal guardian) placed in another planned permanent living arrangement” for “future status of the child (including, but not limited to, whether the child should be returned to the parent, should be continued in foster care for a specified period, should be placed for adoption, or should (because of the child's special needs or circumstances) be continued in foster care on a permanent or long term basis)”, was executed by making the substitution for text which contained the words “long-term” rather than “long term” to reflect the probable intent of Congress.
 
 Par. (5)(E). Pub. L. 105–89, §103(a), added subpar. (E).
 
@@ -184,7 +184,7 @@ Section 103(c) of Pub. L. 105–89 provided that:
 
 New foster children.—In the case of a child who enters foster care (within the meaning of section 475(5)(F) of the Social Security Act \[par. (5)(F) of this section\]) under the responsibility of a State after the date of the enactment of this Act \[Nov. 19, 1997\]—
 
-&emsp;“(A) if the State comes into compliance with the amendments made by subsection (a) of this section \[amending this section\] before the child has been in such foster care for 15 of the most recent 22 months, the State shall comply with section 475(5)(E) of the Social Security Act \[par. (5)(E) of this section\] with respect to the child when the child has been in such foster care for 15 of the most recent 22 months; and
+&emsp;“(A) if the State comes into compliance with the amendments made by subsection (a) of this section\[amending this section\] before the child has been in such foster care for 15 of the most recent 22 months, the State shall comply with section 475(5)(E) of the Social Security Act \[par. (5)(E) of this section\] with respect to the child when the child has been in such foster care for 15 of the most recent 22 months; and
 
 &emsp;“(B) if the State comes into such compliance after the child has been in such foster care for 15 of the most recent 22 months, the State shall comply with such section 475(5)(E) with respect to the child not later than 3 months after the end of the first regular session of the State legislature that begins after such date of enactment.
 
@@ -205,10 +205,6 @@ Treatment of 2-year legislative sessions.—For purposes of this subsection, in 
 “(4)
 
 Requirements treated as state plan requirements.—For purposes of part E of title IV of the Social Security Act, the requirements of this subsection shall be treated as State plan requirements imposed by section 471(a) of such Act \[section 671(a) of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 603, 622, 625, 626, 629a, 671, 672, 673, 677, 5633 of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

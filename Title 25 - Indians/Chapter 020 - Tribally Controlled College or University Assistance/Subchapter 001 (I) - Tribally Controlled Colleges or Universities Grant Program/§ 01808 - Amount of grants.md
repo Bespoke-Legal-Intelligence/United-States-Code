@@ -78,7 +78,3 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1805, 1809, 1811 of this title.
-

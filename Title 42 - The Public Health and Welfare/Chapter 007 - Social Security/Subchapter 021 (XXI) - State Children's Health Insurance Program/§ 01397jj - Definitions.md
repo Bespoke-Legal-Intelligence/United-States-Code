@@ -160,7 +160,3 @@ Amendment by Pub. L. 106–554 effective as if included in the enactment of sect
 
 Section 162 of Pub. L. 105–100 provided in part that the amendment made by that section is effective as if included in the enactment of subtitle J (§§4901–4923) of title IV of the Balanced Budget Act of 1997, Pub. L. 105–33.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1396d, 1397bb of this title.
-

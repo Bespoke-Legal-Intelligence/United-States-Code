@@ -10,7 +10,7 @@
 
 &emsp;(C) carry out such other activities that are necessary to make the reports and recommendations referred to in subsection (f) of this section.
 
-(b) The Secretary of Labor shall, on a regular basis, consult with and seek the advice of the advisory committee with respect to the matters referred to in subsection (a)(2) of this section.
+(b) The Secretary of Labor shall, on a regular basis, consult with and seek the advice of theadvisory committee with respect to the matters referred to in subsection (a)(2) of this section.
 
 (c)(1) The Secretary of Labor shall appoint at least 12, but no more than 18, individuals to serve as members of the advisory committee consisting of—
 

@@ -8,7 +8,3 @@ The Secretary of the Interior may enter into agreements with other Federal agenc
 
 Section was classified to section 47–2(b) of this title prior to renumbering by Pub. L. 99–542.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47–3, 47–6 of this title.
-

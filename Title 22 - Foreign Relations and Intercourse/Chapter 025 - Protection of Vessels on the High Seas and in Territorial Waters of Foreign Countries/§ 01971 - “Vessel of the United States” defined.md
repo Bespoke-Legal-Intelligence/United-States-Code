@@ -36,9 +36,5 @@ Pub. L. 106–450, title I, §101, Nov. 7, 2000, 114 Stat. 1941, provided that: 
 
 Pub. L. 90–482, §4, Aug. 12, 1968, 82 Stat. 730, provided that: “The Act of August 27, 1954 (68 Stat. 883; 22 U.S.C. 1971–1976), as amended by this Act \[this chapter\], may be cited as the ‘Fishermen's Protective Act of 1967’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 48 section 1904.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

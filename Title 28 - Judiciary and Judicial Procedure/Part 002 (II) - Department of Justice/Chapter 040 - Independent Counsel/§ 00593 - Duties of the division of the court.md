@@ -112,10 +112,6 @@ Amendment by Pub. L. 103–270 applicable with respect to independent counsels a
 
 Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, but with subsec. (f) applicable to previously initiated proceedings pending on Dec. 15, 1987, see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 592, 594 of this title; title 26 section 6103.
-
 <i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be preceded by “the”.</i>

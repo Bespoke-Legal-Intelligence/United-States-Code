@@ -12,7 +12,7 @@ Before issuing any license under the Federal Power Act \[16 U.S.C. 791a et seq.\
 
 &emsp;(2) shall provide an opportunity for consultation with the Council on Environmental Quality and the Environmental Protection Agency with respect to the environmental effects of such project.
 
-> Nothing in this subsection exempts any such project from any requirement applicable to any such project under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\], the Fish and Wildlife Coordination Act \[16 U.S.C. 661 et seq.\], the Endangered Species Act \[16 U.S.C. 1531 et seq.\], or any other provision of Federal law.
+> Nothing in this subsection exempts any such project from any requirement applicable to any such project under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\], theFish and Wildlife Coordination Act \[16 U.S.C. 661 et seq.\], the Endangered Species Act \[16 U.S.C. 1531 et seq.\], or any other provision of Federal law.
 
 #### (c) Fish and wildlife facilities
 
@@ -39,8 +39,4 @@ The Endangered Species Act, referred to in subsec. (b), probably means the Endan
 #### Amendments
 
 1980—Subsec. (d). Pub. L. 96–294 added subsec. (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 823c of this title.
 

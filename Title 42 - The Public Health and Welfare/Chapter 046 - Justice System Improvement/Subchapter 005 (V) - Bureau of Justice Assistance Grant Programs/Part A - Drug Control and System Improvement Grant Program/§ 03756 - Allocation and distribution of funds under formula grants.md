@@ -16,7 +16,7 @@ Subject to subsection (f) of this section, of the total amount appropriated for 
 
 (3) Any funds not distributed to units of local government under paragraph (2) shall be available for expenditure by the State involved.
 
-(4) For purposes of determining the distribution of funds under paragraphs (1) and (2), themost accurate and complete data available for the fiscal year involved shall be used. If data for such fiscal year are not available, then the most accurate and complete data available for the most recent fiscal year preceding such fiscal year shall be used.
+(4) For purposes of determining the distribution of funds under paragraphs (1) and (2), the most accurate and complete data available for the fiscal year involved shall be used. If data for such fiscal year are not available, then the most accurate and complete data available for the most recent fiscal year preceding such fiscal year shall be used.
 
 #### (c) Programs eligible
 
@@ -93,10 +93,6 @@ Subsec. (a)(1). Pub. L. 101–162, title II, inserted “or 0.25 percent, whiche
 #### Transfer of Functions
 
 Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3754, 3758, 3759, 3766, 3766b, 3791, 3796bb–1, 14071 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

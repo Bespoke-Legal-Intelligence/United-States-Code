@@ -4,7 +4,3 @@ Each of the said Secretaries is further authorized in his discretion to enter in
 
 (Mar. 29, 1944, ch. 146, §4, 58 Stat. 133.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 583d of this title.
-

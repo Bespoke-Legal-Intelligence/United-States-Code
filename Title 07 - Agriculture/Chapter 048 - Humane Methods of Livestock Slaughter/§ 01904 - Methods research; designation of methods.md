@@ -18,5 +18,5 @@ Par. (c). Pub. L. 95–445, §5(b), repealed par. (c).
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–445 effective one year after Oct. 10, 1978, and nonapplicability during not to exceedadditional 18 months in hardship cases, see sec. 7 of Pub. L. 95–445 set out as a note under section 603 of Title 21, Food and Drugs.
+Amendment by Pub. L. 95–445 effective one year after Oct. 10, 1978, and nonapplicability during not to exceed additional 18 months in hardship cases, see sec. 7 of Pub. L. 95–445 set out as a note under section 603 of Title 21, Food and Drugs.
 

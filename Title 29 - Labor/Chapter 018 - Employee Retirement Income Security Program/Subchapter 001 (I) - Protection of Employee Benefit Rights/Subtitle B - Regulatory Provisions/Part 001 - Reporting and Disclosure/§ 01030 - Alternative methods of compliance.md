@@ -20,7 +20,3 @@
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1343 of this title.
-

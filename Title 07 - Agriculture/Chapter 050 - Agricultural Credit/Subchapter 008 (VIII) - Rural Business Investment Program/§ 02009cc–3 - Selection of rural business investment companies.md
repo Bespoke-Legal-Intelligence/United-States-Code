@@ -70,7 +70,7 @@ In reviewing and processing any application under this section, the Secretary—
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this subchapter, the Secretary may approvean applicant to operate as a rural business investment company under this subchapter and designate the applicant as a rural business investment company, if the Secretary determines that the applicant—
+&emsp;&emsp;Notwithstanding any other provision of this subchapter, the Secretary may approve an applicant to operate as a rural business investment company under this subchapter and designate the applicant as a rural business investment company, if the Secretary determines that the applicant—
 
 &emsp;&emsp;&emsp;(i) has private capital of more than $2,500,000;
 
@@ -91,8 +91,4 @@ In reviewing and processing any application under this section, the Secretary—
 &emsp;&emsp;An applicant approved under subparagraph (A) shall be eligible for grants under section 2009cc–7 of this title in proportion to the private capital of the applicant, as determined by the Secretary.
 
 (Pub. L. 87–128, title III, §384D, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 391.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2009cc, 2009cc–2 of this title.
 

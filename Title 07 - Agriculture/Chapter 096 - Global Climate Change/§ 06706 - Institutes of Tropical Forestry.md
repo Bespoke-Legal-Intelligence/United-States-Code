@@ -20,7 +20,3 @@ The Secretary is authorized and directed to establish an Institute of Tropical F
 
 (Pub. L. 101–624, title XXIV, §2407, Nov. 28, 1990, 104 Stat. 4060.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 4503d.
-

@@ -20,7 +20,3 @@ Subchapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95�
 
 Pub. L. 101–376, §1, Aug. 17, 1990, 104 Stat. 461, provided that: “This Act \[amending sections 4303, 7511, and 7701 of this title and enacting provisions set out as notes under section 4303 of this title\] may be cited as the ‘Civil Service Due Process Amendments’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7511, 7541 of this title.
-

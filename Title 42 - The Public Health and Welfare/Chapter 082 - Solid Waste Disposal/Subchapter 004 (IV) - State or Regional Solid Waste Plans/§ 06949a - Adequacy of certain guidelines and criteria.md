@@ -30,7 +30,7 @@ Not later than thirty-six months after November 8, 1984, the Administrator shall
 
 #### (A) Monitoring requirement
 
-&emsp;&emsp;A State may require ground water monitoring of a solid waste landfill unit thatwould otherwise be exempt under paragraph (2) if necessary to protect ground water resources and ensure compliance with a State ground water protection plan, where applicable.
+&emsp;&emsp;A State may require ground water monitoring of a solid waste landfill unit that would otherwise be exempt under paragraph (2) if necessary to protect ground water resources and ensure compliance with a State ground water protection plan, where applicable.
 
 #### (B) Methods
 
@@ -48,7 +48,7 @@ Not later than thirty-six months after November 8, 1984, the Administrator shall
 
 #### (B) Certification
 
-&emsp;&emsp;A demonstration under subparagraph (A) shall be certified by a qualified ground-water scientist and approved by the Director of an approved State.
+&emsp;&emsp;A demonstration under subparagraph (A) shall be certified by a qualified ground-waterscientist and approved by the Director of an approved State.
 
 #### (C) Guidance
 
@@ -71,8 +71,4 @@ Not later than thirty-six months after November 8, 1984, the Administrator shall
 #### Reinstatement of Regulatory Exemption
 
 Section 3(b) of Pub. L. 104–119 provided that: “It is the intent of section 4010(c)(2) of the Solid Waste Disposal Act \[42 U.S.C. 6949a(c)(2)\], as added by subsection (a), to immediately reinstate subpart E of part 258 of title 40, Code of Federal Regulations, as added by the final rule published at 56 Federal Register 50798 on October 9, 1991.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6945 of this title.
 

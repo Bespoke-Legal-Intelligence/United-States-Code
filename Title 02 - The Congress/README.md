@@ -1,5 +1,5 @@
 
-2 U.S.C.<br>United States Code, 2003 Edition<br>Title 2 - THE CONGRESS<br>From the U.S. Government Publishing Office, www.gpo.gov
+2 U.S.C.<br>United States Code, 2004 Edition<br>Title 2 - THE CONGRESS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 2—THE CONGRESS
 
@@ -29,7 +29,7 @@
 | [<b>16.</b>](Chapter%20016%20-%20Congressional%20Mailing%20Standards/README.md) | <b>Congressional Mailing Standards</b> | <b>501</b> |
 | [<b>17.</b>](Chapter%20017%20-%20Congressional%20Budget%20Office/README.md) | <b>Congressional Budget Office</b> | <b>601</b> |
 | [<b>17A.</b>](Chapter%20017A%20-%20Congressional%20Budget%20and%20Fiscal%20Operations/README.md) | <b>Congressional Budget and Fiscal Operations</b> | <b>621</b> |
-| [<b>17B.</b>](Chapter%20017B%20-%20Impoundment%20Control%20and%20Line%20Item%20Veto/README.md) | <b>Impoundment Control and Line Item Veto</b> | <b>681</b> |
+| [<b>17B.</b>](Chapter%20017B%20-%20Impoundment%20Control/README.md) | <b>Impoundment Control</b> | <b>681</b> |
 | [<b>18.</b>](Chapter%20018%20-%20Legislative%20Personnel%20Financial%20Disclosure%20Requirements/README.md) | <b>Legislative Personnel Financial Disclosure Requirements \[Transferred\]</b> | <b>701</b> |
 | [<b>19.</b>](Chapter%20019%20-%20Congressional%20Award%20Program/README.md) | <b>Congressional Award Program</b> | <b>801</b> |
 | [<b>19A.</b>](Chapter%20019A%20-%20John%20Heinz%20Competitive%20Excellence%20Award/README.md) | <b>John Heinz Competitive Excellence Award</b> | <b>831</b> |
@@ -78,7 +78,7 @@
 - [Chapter 016 - Congressional Mailing Standards](Chapter%20016%20-%20Congressional%20Mailing%20Standards/README.md)
 - [Chapter 017 - Congressional Budget Office](Chapter%20017%20-%20Congressional%20Budget%20Office/README.md)
 - [Chapter 017A - Congressional Budget and Fiscal Operations](Chapter%20017A%20-%20Congressional%20Budget%20and%20Fiscal%20Operations/README.md)
-- [Chapter 017B - Impoundment Control and Line Item Veto](Chapter%20017B%20-%20Impoundment%20Control%20and%20Line%20Item%20Veto/README.md)
+- [Chapter 017B - Impoundment Control](Chapter%20017B%20-%20Impoundment%20Control/README.md)
 - [Chapter 018 - Legislative Personnel Financial Disclosure Requirements](Chapter%20018%20-%20Legislative%20Personnel%20Financial%20Disclosure%20Requirements/README.md)
 - [Chapter 019 - Congressional Award Program](Chapter%20019%20-%20Congressional%20Award%20Program/README.md)
 - [Chapter 019A - John Heinz Competitive Excellence Award](Chapter%20019A%20-%20John%20Heinz%20Competitive%20Excellence%20Award/README.md)

@@ -10,7 +10,3 @@ The libraries designated as regional depositories may permit depository librarie
 
 Based on 44 U.S. Code, 1964 ed., §84a (Pub. L. 87–579, §9, Aug. 9, 1962, 76 Stat. 355.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1911 of this title.
-

@@ -6,10 +6,6 @@ Part E—Miscellaneous Provisions
 
 1997—Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275, redesignated part C of this subchapter as part D.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 426, 1395i–4 of this title; title 45 section 231f.
-
 
 ---
 

@@ -10,7 +10,3 @@ Functions of Secretary of the Interior with respect to Bonneville Power Administ
 
 Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7193 of Title 42.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 838i of this title.
-

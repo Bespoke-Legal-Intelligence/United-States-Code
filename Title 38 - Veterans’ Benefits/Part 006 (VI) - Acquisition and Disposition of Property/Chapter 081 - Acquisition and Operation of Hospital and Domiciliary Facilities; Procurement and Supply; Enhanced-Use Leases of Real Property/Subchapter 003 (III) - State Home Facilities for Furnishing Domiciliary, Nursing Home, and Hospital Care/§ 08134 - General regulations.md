@@ -20,11 +20,11 @@
 
 (d)(1) In prescribing regulations to carry out this subchapter, the Secretary shall provide that in the case of a State that seeks assistance under this subchapter for a project described in subsection (a)(3)(B), the determination of the unmet need for beds for State homes in that State shall be reduced by the number of beds in all previous applications submitted by that State under this subchapter, including beds which have not been recognized by the Secretary under section 1741 of this title.
 
-(2)(A) Financial assistance under this subchapter for a renovation project may only be provided for a project for which the total cost of construction is in excess of $400,000 (as adjusted from time-to-time in such regulations to reflect changes in costs of construction).
+(2)(A) Financial assistance under this subchapter for a renovation project may only beprovided for a project for which the total cost of construction is in excess of $400,000 (as adjusted from time-to-time in such regulations to reflect changes in costs of construction).
 
 (B) For purposes of this paragraph, a renovation project is a project to remodel or alter existing buildings for which financial assistance under this subchapter may be provided and does not include maintenance and repair work which is the responsibility of the State.
 
-(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 502, §5034; amended Pub. L. 89–311, §7(b), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, §403(d), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title I, §107(b), title II, §206(b), Oct. 21, 1976, 90 Stat. 2847, 2859; Pub. L. 95–62, §3(5), (6), July 5, 1977, 91 Stat. 262; Pub. L. 96–330, title IV, §404, Aug. 26, 1980, 94 Stat. 1052; Pub. L. 98–528, title I, §105(2), Oct. 19, 1984, 98 Stat. 2689; renumbered §8134, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(6), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub.L. 106–117, title II, §207(a), Nov. 30, 1999, 113 Stat. 1564.)
+(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 502, §5034; amended Pub. L. 89–311, §7(b), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, §403(d), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title I, §107(b), title II, §206(b), Oct. 21, 1976, 90 Stat. 2847, 2859; Pub. L. 95–62, §3(5), (6), July 5, 1977, 91 Stat. 262; Pub. L. 96–330, title IV, §404, Aug. 26, 1980, 94 Stat. 1052; Pub. L. 98–528, title I, §105(2), Oct. 19, 1984, 98 Stat. 2689; renumbered §8134, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(6), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–117, title II, §207(a), Nov. 30, 1999, 113 Stat. 1564.)
 
 #### References in Text
 
@@ -79,8 +79,4 @@ Pub. L. 106–117, title II, §207(d), Nov. 30, 1999, 113 Stat. 1567, provided t
 #### Transition Provisions
 
 Provisions of this section in effect on Nov. 10, 1999, to continue in effect after that date with respect to certain applications described in section 8135(b)(2)(A) of this title that are identified in section 207(c)(2) of Pub. L. 106–117, see section 207(c) of Pub. L. 106–117, set out as a note under section 8135 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8135 of this title.
 

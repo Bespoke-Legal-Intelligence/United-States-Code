@@ -26,7 +26,3 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 Section is comprised of subsecs. (a) and (b) of section 127 of act Jan. 3, 1975. Subsec. (c) of such section was classified to section 1863 of this title, prior to its repeal by Pub. L. 100–418, title I, §1501(b)(2), Aug. 23, 1988, 102 Stat. 1259, and subsec. (d) amended section 1862 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2904, 3810 of this title.
-

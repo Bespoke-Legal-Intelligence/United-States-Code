@@ -1,6 +1,6 @@
 ### §2241. Farm Credit Administration
 
-The Farm Credit Administration shall be an independent agency in the executive branch of the Government. It shall be composed of the Farm Credit Administration Board and such other personnel as are employed in carrying out the functions, powers, and duties vested in the Farm Credit Administration by this chapter.
+The Farm Credit Administration shall be an independent agency in the executive branch ofthe Government. It shall be composed of the Farm Credit Administration Board and such other personnel as are employed in carrying out the functions, powers, and duties vested in the Farm Credit Administration by this chapter.
 
 (Pub. L. 92–181, title V, §5.7, Dec. 10, 1971, 85 Stat. 617; Pub. L. 99–205, title II, §201(1), Dec. 23, 1985, 99 Stat. 1688.)
 

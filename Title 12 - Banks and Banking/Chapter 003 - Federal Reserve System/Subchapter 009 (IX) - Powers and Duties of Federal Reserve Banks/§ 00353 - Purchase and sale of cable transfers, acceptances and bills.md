@@ -12,7 +12,3 @@ Section is comprised of opening par. of section 14 of act Dec. 23, 1913. Subsecs
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 263, 412 of this title.
-

@@ -8,7 +8,3 @@ Subject to section 14402(b) of this title (relating to construction and treatmen
 
 (Pub. L. 105–12, §7, Apr. 30, 1997, 111 Stat. 26.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395cc, 1396a of this title.
-

@@ -14,9 +14,5 @@ This Act, referred to in text, is Pub. L. 103–66, Aug. 10, 1993, 107 Stat. 312
 
 Similar provisions were contained in Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1378, 1379.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 28i, 28j, 28k of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

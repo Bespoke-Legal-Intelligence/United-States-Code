@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—STRATOSPHERIC OZONE PROTECTION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 7412, 7413, 7420, 7604, 7607, 7612 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

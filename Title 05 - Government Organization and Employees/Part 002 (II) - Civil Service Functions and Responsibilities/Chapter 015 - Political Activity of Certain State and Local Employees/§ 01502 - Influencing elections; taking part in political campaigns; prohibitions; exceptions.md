@@ -48,7 +48,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under section 431 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1503, 1504, 1505, 1506 of this title; title 42 sections 9851, 9918.
-

@@ -20,7 +20,3 @@ This section applies to a request for any license or other approval that may be 
 
 (Pub. L. 102–511, title VI, §601, Oct. 24, 1992, 106 Stat. 3346.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5872, 5873 of this title.
-

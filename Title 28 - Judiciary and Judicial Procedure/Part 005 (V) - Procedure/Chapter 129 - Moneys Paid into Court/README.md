@@ -15,10 +15,6 @@
 
 1982—Pub. L. 97–258, §2(g)(4)(A), (B), Sept. 13, 1982, 96 Stat. 1060, substituted “Deposit of moneys in pending or adjudicated cases” for “Deposit” in item 2041 and added item 2043.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 613 of this title; title 11 section 347.
-
 
 ---
 

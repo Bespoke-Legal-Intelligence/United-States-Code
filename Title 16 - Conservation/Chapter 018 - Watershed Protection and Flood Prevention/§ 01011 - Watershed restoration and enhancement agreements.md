@@ -56,7 +56,7 @@ Direct and Indirect Watershed Agreements.—The Secretary of Agriculture may ent
 
 &emsp;“(1) directly with a willing private landowner; or
 
-&emsp;“(2) indirectly through an agreement with a State, local or tribal government or other public entity, educational institution, or private nonprofit organization.
+&emsp;“(2) indirectly through an agreement with a State, local or tribal government or other public entity,educational institution, or private nonprofit organization.
 
 “(c)
 

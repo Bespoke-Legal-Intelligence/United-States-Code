@@ -92,7 +92,3 @@ This subpart, referred to in subsec. (c), means subpart 3 (§796f et seq.) of pa
 
 A prior section 796f–1, Pub. L. 93–112, title VII, §722, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4456; amended Pub. L. 103–73, title I, §114(i), Aug. 11, 1993, 107 Stat. 731, related to grants to centers for independent living in States in which Federal funding exceeds State funding, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 796d–1, 796f–2, 796f–3 of this title.
-

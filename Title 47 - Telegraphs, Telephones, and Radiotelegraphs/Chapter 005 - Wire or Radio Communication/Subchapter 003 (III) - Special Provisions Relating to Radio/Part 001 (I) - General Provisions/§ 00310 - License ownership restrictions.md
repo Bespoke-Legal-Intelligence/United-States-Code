@@ -26,7 +26,7 @@ No construction permit or station license, or any rights thereunder, shall be tr
 
 #### (e) Administration of regional concentration rules for broadcast stations
 
-(1) In the case of any broadcast station, and any ownership interest therein, which is excluded from the regional concentration rules by reason of the savings provision for existing facilities provided by the First Report and Order adopted March 9, 1977 (docket No. 20548; 42 Fed. Reg. 16145), the exclusion shall not terminatesolely by reason of changes made in the technical facilities of the station to improve its service.
+(1) In the case of any broadcast station, and any ownership interest therein, which is excluded from the regional concentration rules by reason of the savings provision for existing facilities provided by the First Report and Order adopted March 9, 1977 (docket No. 20548; 42 Fed. Reg. 16145), the exclusion shall not terminate solely by reason of changes made in the technical facilities of the station to improve its service.
 
 (2) For purposes of this subsection, the term “regional concentration rules” means the provisions of sections 73.35, 73.240, and 73.636 of title 47, Code of Federal Regulations (as in effect June 1, 1983), which prohibit any party from directly or indirectly owning, operating, or controlling three broadcast stations in one or several services where any two of such stations are within 100 miles of the third (measured city-to-city), and where there is a primary service contour overlap of any of the stations.
 
@@ -57,8 +57,4 @@ Subsecs. (b) to (d). Pub. L. 93–505 added subsecs. (b) and (c) and redesignate
 1958—Subsec. (a). Pub. L. 85–817 inserted paragraph authorizing the grant of licenses for radio stations on aircraft to aliens or representatives of aliens holding pilot certificates.
 
 1952—Subsec. (b). Act July 16, 1952, provided that construction permits and station licenses cannot be transferred, assigned, or disposed of except upon a finding by the Commission that public interest, convenience, or necessity will be served thereby, and that such transfer application will be treated the same as if made under section 308 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 309, 332, 1106 of this title; title 40 section 17703.
 

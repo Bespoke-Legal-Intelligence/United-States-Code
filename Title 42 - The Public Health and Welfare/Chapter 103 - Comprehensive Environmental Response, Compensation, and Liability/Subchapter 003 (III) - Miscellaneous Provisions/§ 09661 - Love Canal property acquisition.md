@@ -24,7 +24,7 @@ The Administrator shall conduct or cause to be conducted a habitability and land
 
 &emsp;(2) compare the level of hazardous waste contamination in that Area to that present in other comparable communities; and
 
-&emsp;(3) assess the potential uses of the land within the Emergency Declaration Area, includingbut not limited to residential, industrial, commercial and recreational, and the risks associated with such potential uses.
+&emsp;(3) assess the potential uses of the land within the Emergency Declaration Area, including but not limited to residential, industrial, commercial and recreational, and the risks associated with such potential uses.
 
 > The Administrator shall publish the findings of such study and shall work with the State of New York to develop recommendations based upon the results of such study.
 

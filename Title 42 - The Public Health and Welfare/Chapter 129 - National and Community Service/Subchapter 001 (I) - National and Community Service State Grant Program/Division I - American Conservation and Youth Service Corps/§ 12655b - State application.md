@@ -30,7 +30,3 @@ Subsecs. (c), (d). Pub. L. 103–82, §101(e)(4)(B), struck out subsec. (c) whic
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12655e, 12655h of this title.
-

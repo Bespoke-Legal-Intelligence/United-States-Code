@@ -88,7 +88,3 @@ In the event that a country ceases to meet the eligibility requirements set fort
 
 (Pub. L. 87–195, pt. V, §809, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 890.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2431a, 2431f, 2431h of this title.
-

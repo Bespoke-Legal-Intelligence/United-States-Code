@@ -40,11 +40,11 @@
 
 (f) Service as a member of the Alaska Territorial Guard during World War II of any individual who was honorably discharged therefrom under section 8147 of the Department of Defense Appropriations Act, 2001, shall be considered active duty for purposes of all laws administered by the Secretary.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1110; Pub. L. 87–102, §1, July 21, 1961, 75 Stat. 219; Pub. L. 88–616, Oct. 2, 1964, 78 Stat. 994; Pub. L. 89–311, §5, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 97–295, §4(3), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(5), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–259, title VIII, §8147(a), Aug. 9, 2000, 114 Stat. 705; Pub. L. 106–419, title III, §301(b), Nov. 1, 2000, 114 Stat. 1852.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1110; Pub. L. 87–102, §1, July 21, 1961, 75 Stat. 219; Pub. L. 88–616, Oct. 2, 1964, 78 Stat. 994; Pub. L. 89–311, §5, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 97–295, §4(3),Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(5), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–259, title VIII, §8147(a), Aug. 9, 2000, 114 Stat. 705; Pub. L. 106–419, title III, §301(b), Nov. 1, 2000, 114 Stat. 1852.)
 
 #### References in Text
 
-Section 8147 of the Department of Defense Appropriations Act, 2001, referred to in subsec. (f), is section 8147of Pub. L. 106–259, which amended this section and enacted provisions set out as a note below.
+Section 8147 of the Department of Defense Appropriations Act, 2001, referred to in subsec. (f), is section 8147 of Pub. L. 106–259, which amended this section and enacted provisions set out as a note below.
 
 #### Amendments
 
@@ -120,11 +120,7 @@ Pub. L. 95–202, title IV, §401, Nov. 23, 1977, 91 Stat. 1449, as amended by P
 
 “(c) Under regulations prescribed by the Secretary of Defense, any person who is issued a discharge under honorable conditions pursuant to the implementation of subsection (a) of this section may be awarded any campaign or service medal warranted by such person's service.”
 
-\[Section 1263(b) of Pub. L. 98–94 provided that: “The amendment made by subsection (a) \[enacting subsec. (c) set out above\] shall apply to all persons issued discharges under honorable conditions pursuant to section 401 of the GI Bill Improvements Act of 1977 \[Pub. L. 95–202, set out above\] whether such discharges are awarded before, on, or after the date of the enactment of this Act \[Sept. 24, 1983\].”\]
+\[Section 1263(b) of Pub. L. 98–94 provided that: “The amendment made by subsection (a) \[enacting subsec.\(c) set out above\] shall apply to all persons issued discharges under honorable conditions pursuant to section 401 of the GI Bill Improvements Act of 1977 \[Pub. L. 95–202, set out above\] whether such discharges are awarded before, on, or after the date of the enactment of this Act \[Sept. 24, 1983\].”\]
 
 \[Amendment of subsec. (a)(1)(B), set out above, by Pub. L. 96–466, effective Oct. 1, 1980, see section 802(h) of Pub. L. 96–466, set out as an Effective Date of 1980 Amendment note under section 3452 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1302, 2302 of this title; title 5 section 2302.
 

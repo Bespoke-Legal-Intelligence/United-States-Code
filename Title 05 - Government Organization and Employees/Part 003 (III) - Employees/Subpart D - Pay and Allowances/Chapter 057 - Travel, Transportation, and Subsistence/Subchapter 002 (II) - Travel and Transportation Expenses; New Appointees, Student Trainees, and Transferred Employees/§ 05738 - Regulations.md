@@ -14,7 +14,3 @@
 
 Section effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 5722 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5722, 5723, 5724, 5724a, 5724b, 5724c, 5726, 5727, 5728, 5729, 5731, 5737 of this title.
-

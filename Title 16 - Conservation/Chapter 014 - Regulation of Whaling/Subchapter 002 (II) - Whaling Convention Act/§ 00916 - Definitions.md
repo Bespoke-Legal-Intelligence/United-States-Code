@@ -2,7 +2,7 @@
 
 When used in this subchapter—
 
-(a) Convention: The word “convention” means the International Convention for the Regulation of Whaling signed at Washington under date ofDecember 2, 1946, by the United States of America and certain other governments.
+(a) Convention: The word “convention” means the International Convention for the Regulation of Whaling signed at Washington under date of December 2, 1946, by the United States of America and certain other governments.
 
 (b) Commission: The word “Commission” means the International Whaling Commission established by article III of the convention.
 
@@ -62,7 +62,7 @@ Pub. L. 96–60, title IV, §405, Aug. 15, 1979, 93 Stat. 403, provided that:
 
 &emsp;“(6) the United Nations Governing Council for Environment Programs in 1973 and 1974 confirmed such call for a ten-year moratorium, and the Council continues to support ongoing efforts relating to whale conservation;
 
-&emsp;“(7) the International Convention for the Regulation of Whaling, signed in 1946, as implemented by the International Whaling Commission, is not providing adequate protection to whales;
+&emsp;“(7) the International Convention for the Regulation of Whaling, signed in 1946, as implemented bythe International Whaling Commission, is not providing adequate protection to whales;
 
 &emsp;“(8) the data-gathering structure established under the International Whaling Commission has not provided all the available data necessary for sound whale conservation;
 
@@ -74,5 +74,5 @@ Pub. L. 96–60, title IV, §405, Aug. 15, 1979, 93 Stat. 403, provided that:
 
 &emsp;“(1) the International Whaling Commission to agree to a moratorium on the commercial killing of whales; and
 
-&emsp;“(2) Brazil, Denmark, Iceland, Japan, Norway, the Soviet Union, and the Republic of Korea, as parties tothe International Convention for the Regulation of Whaling and which still engage in commercial whaling, and Chile, the People's Republic of China, Peru, Portugal, the Democratic Republic of Korea, Spain, and Taiwan, as countries which are not parties to the Convention and which still engage in commercial whaling, to recognize and comply voluntarily with a moratorium on the commercial killing of whales, as endorsed by the United Nations Conference on the Human Environment and the United Nations Governing Council for Environment Programs.”
+&emsp;“(2) Brazil, Denmark, Iceland, Japan, Norway, the Soviet Union, and the Republic of Korea, as parties to the International Convention for the Regulation of Whaling and which still engage in commercial whaling, and Chile, the People's Republic of China, Peru, Portugal, the Democratic Republic of Korea, Spain, and Taiwan, as countries which are not parties to the Convention and which still engage in commercial whaling, to recognize and comply voluntarily with a moratorium on the commercial killing of whales, as endorsed by the United Nations Conference on the Human Environment and the United Nations Governing Council for Environment Programs.”
 

@@ -10,7 +10,3 @@ Based on Title 35, U.S.C., 1946 ed., §66 (R.S. 4918, amended Mar. 2, 1927, ch. 
 
 Language is changed.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 102 of this title.
-

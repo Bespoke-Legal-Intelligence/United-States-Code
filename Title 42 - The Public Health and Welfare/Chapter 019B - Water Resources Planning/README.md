@@ -532,10 +532,6 @@ Cost sharing.
 
 Authorization of appropriations.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 1962d–4 of this title; title 16 section 1275; title 22 section 2361; title 33 section 1289; title 43 section 1511.
-
 
 ---
 

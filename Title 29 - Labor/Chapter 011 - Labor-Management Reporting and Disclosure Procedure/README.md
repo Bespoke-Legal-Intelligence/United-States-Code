@@ -152,10 +152,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 186, 1111 of this title; title 39 section 1209; title 42 section 2000e.
-
 
 ---
 

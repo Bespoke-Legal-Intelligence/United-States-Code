@@ -38,7 +38,3 @@ Amendment by Pub. L. 104–185 applicable with respect to the production of oil 
 
 Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as a note under section 1701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1702, 1719, 1724 of this title.
-

@@ -16,7 +16,3 @@
 
 Section 203(c) of Pub. L. 103–43 provided that: “The amendment described in subsection (a) \[enacting this section\] is made upon the date of the enactment of this Act \[June 10, 1993\] and takes effect July 1, 1993. Subsection (b) \[107 Stat. 145\] takes effect on such date.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 287c–31 of this title.
-

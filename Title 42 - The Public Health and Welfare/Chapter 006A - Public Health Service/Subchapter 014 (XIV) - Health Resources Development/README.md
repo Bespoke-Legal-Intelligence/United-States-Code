@@ -1,9 +1,5 @@
 ### SUBCHAPTER XIV—HEALTH RESOURCES DEVELOPMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1395x of this title.
-
 
 ---
 

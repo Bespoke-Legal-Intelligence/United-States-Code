@@ -64,7 +64,7 @@ In clarification of Title One, Article II, section 121(b)(1) of the Compact:
 
 &emsp;&emsp;(ii) that such an agreement should overcome existing jurisdictional differences and provide for a mutually beneficial relationship between the United States and the Pacific Island States that will promote the development of the tuna and other latent fisheries resources of the Central, Western, and South Pacific Ocean and the economic development of the region.
 
-&emsp;(B) At such time as an agreement referred to in subparagraph (A) is submitted to the Senate for advice and consent to ratification, the Secretary of State, after consultation with the Secretary of Commerce and other interested agencies and concerned governments, shall submit to the Congress a proposed long term regional fisheries development program which may include, but not be limited to—
+&emsp;(B) At such time as an agreement referred to in subparagraph (A) is submitted to the Senate for advice and consent to ratification, the Secretary of State, after consultation with the Secretary of Commerce and other interestedagencies and concerned governments, shall submit to the Congress a proposed long term regional fisheries development program which may include, but not be limited to—
 
 &emsp;&emsp;(i) exploration for, and stock assessment of, tuna and other fish;
 
@@ -111,10 +111,6 @@ Section was formerly set out as a note under section 1681 of this title.
 #### Effective Date of 1996 Amendment
 
 Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1804, 1932 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,3 @@ The Cotton Research and Promotion Amendments Act of 1990, referred to in subsec.
 
 1990—Pub. L. 101–624 designated existing provisions as subsec. (a), substituted “Notwithstanding any other section and except as provided in subsection (b) of this section,” for “Notwithstanding any other provision”, and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2106, 2116 of this title.
-

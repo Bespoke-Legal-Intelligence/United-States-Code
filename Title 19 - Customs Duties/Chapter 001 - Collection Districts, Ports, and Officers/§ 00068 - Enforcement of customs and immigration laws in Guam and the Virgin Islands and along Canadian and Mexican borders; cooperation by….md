@@ -32,7 +32,3 @@ Immigration and Naturalization Service of Department of Labor (including Office 
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 section 212; title 40 section 3301.
-

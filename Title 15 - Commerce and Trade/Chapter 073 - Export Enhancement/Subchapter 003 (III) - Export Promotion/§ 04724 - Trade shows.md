@@ -50,7 +50,3 @@ As used in this section—
 
 (Pub. L. 100–418, title II, §2304, Aug. 23, 1988, 102 Stat. 1343.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4051 of this title.
-

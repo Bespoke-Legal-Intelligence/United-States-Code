@@ -28,7 +28,7 @@ In recognition of the fact that malnutrition may hasten the progression of HIV t
 
 #### (d) Eligibility for assistance
 
-An organization that is otherwise eligible to receive assistance under section 104A of the Foreign Assistance Act of 1961 (as added by subsection (a)) \[22 U.S.C. 2151b–2\] or under any other provision of this chapter (or any amendment made by this chapter) to prevent, treat, or monitor HIV/AIDS shall not be required, as a condition of receiving the assistance, to endorse orutilize a multisectoral approach to combatting HIV/AIDS, or to endorse, utilize, or participate in a prevention method or treatment program to which the organization has a religious or moral objection.
+An organization that is otherwise eligible to receive assistance under section 104A of the Foreign Assistance Act of 1961 (as added by subsection (a)) \[22 U.S.C. 2151b–2\] or under any other provision of this chapter (or any amendment made by this chapter) to prevent, treat, or monitor HIV/AIDS shall not be required, as a condition of receiving the assistance, to endorse or utilize a multisectoral approach to combatting HIV/AIDS, or to endorse, utilize, or participate in a prevention method or treatment program to which the organization has a religious or moral objection.
 
 #### (e) Limitation
 
@@ -36,7 +36,7 @@ No funds made available to carry out this chapter, or any amendment made by this
 
 #### (f) Limitation
 
-No funds made available to carry out this chapter, or any amendment made by this chapter, may be used to provide assistance to any group or organization that does not have a policy explicitly opposing prostitution and sex trafficking.
+No funds made available to carry out this chapter, or any amendment made by this chapter, may be used to provide assistance to any group or organization that does not have a policy explicitly opposing prostitution and sex trafficking, except that this subsection shall not apply to the Global Fund to Fight AIDS, Tuberculosis and Malaria, the World Health Organization, the International AIDS Vaccine Initiative or to any United Nations agency.
 
 #### (g) Sense of Congress relating to food assistance for individuals living with HIV/AIDS
 
@@ -58,7 +58,7 @@ No funds made available to carry out this chapter, or any amendment made by this
 
 &emsp;It is therefore the sense of Congress that United States food assistance should be accepted by countries with large populations of individuals infected or living with HIV/AIDS, particularly African countries, in order to help feed such individuals.
 
-(Pub. L. 108–25, title III, §301, May 27, 2003, 117 Stat. 728.)
+(Pub. L. 108–25, title III, §301, May 27, 2003, 117 Stat. 728; Pub. L. 108–199, div. D, title V, §595(3), Jan. 23, 2004, 118 Stat. 209.)
 
 #### References in Text
 
@@ -69,4 +69,8 @@ This chapter, referred to in subsecs. (d) to (f), was in the original “this Ac
 #### Codification
 
 Section is comprised of section 301 of Pub. L. 108–25. Subsec. (a) of section 301 of Pub. L. 108–25 amended section 2151b of this title and enacted section 2151b–2 of this title.
+
+#### Amendments
+
+2004—Subsec. (f). Pub. L. 108–199, §595(3), inserted “, except that this subsection shall not apply to the Global Fund to Fight AIDS, Tuberculosis and Malaria, the World Health Organization, the International AIDS Vaccine Initiative or to any United Nations agency” after “trafficking”.
 

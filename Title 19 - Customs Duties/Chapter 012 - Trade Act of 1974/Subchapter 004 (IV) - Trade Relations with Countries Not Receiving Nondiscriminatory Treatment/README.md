@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—TRADE RELATIONS WITH COUNTRIES NOT RECEIVING NONDISCRIMINATORY TREATMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2191 of this title.
-
 
 ---
 

@@ -66,7 +66,3 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1015, 1070a, 1070a–14, 1078, 1078–8, 1087vv, 1093 of this title; title 10 sections 510, 1598, 2145, 2193, 2410c; title 26 sections 221, 529; title 42 sections 677, 1862n–1, 2473e, 12604.
-

@@ -100,7 +100,7 @@ Subsec. (b)(1) to (7). Pub. L. 104–332, §2(f)(2)(B), added pars. (1) to (6) a
 
 “(7) $2,000,000 to the Assistant Secretary to carry out section 4722(i)(2) of this title.”
 
-Subsec. (c). Pub. L. 104–332, §2(f)(3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “There are authorized to be appropriated for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to make grants under section 4724 of this title—
+Subsec. (c). Pub. L. 104–332, §2(f)(3), added subsec. (c) and struck out heading and text of former subsec. (c).Text read as follows: “There are authorized to be appropriated for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to make grants under section 4724 of this title—
 
 &emsp;“(1) $2,500,000 to the Director; and
 
@@ -109,8 +109,4 @@ Subsec. (c). Pub. L. 104–332, §2(f)(3), added subsec. (c) and struck out head
 Subsecs. (e), (f). Pub. L. 104–332, §2(f)(4), added subsecs. (e) and (f).
 
 1991—Subsec. (b)(4)(A). Pub. L. 102–186 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “$3,375,000 to fund grants under section 1125 of title 33, and of this amount, $2,500,000 to fund grants in the Great Lakes region; and”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4714 of this title; title 33 section 1131.
 

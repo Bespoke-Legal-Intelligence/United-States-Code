@@ -6,7 +6,7 @@ The Corporation shall make available to the Association such information as the 
 
 #### Amendments
 
-1981—Pub. L. 97–35 substituted provisions relating to the Corporation making available to the Association all necessary information for provisions set out as subsecs. (a) to (d) respecting planning and other information availability, and enforcement procedures.
+1981—Pub. L. 97–35 substituted provisions relating to the Corporation making available to the Associationall necessary information for provisions set out as subsecs. (a) to (d) respecting planning and other information availability, and enforcement procedures.
 
 1976—Subsec. (a). Pub. L. 94–210 struck out provisions prohibiting requests for information under this subsection after effective date of the final system plan.
 
@@ -21,8 +21,4 @@ See section 1341 of this title.
 #### Applicability of National Environmental Policy Act
 
 Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 741 of this title; title 49 section 333.
 

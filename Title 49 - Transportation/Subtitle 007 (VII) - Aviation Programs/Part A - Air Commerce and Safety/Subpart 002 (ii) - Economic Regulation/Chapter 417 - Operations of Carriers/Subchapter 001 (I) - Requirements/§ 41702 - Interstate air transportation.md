@@ -28,7 +28,3 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(C) (related to §404
 
 This section is substituted for 49 App.:1374(a)(1) because 49 App.:1551(a)(4)(C) provides that 49 App.:1374 no longer applies to interstate or overseas air transportation except insofar as 49 App.:1374 requires air carriers to provide safe and adequate service.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41110 of this title.
-

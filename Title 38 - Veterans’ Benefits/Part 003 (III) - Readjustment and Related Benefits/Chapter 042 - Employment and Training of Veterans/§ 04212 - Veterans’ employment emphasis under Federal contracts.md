@@ -38,7 +38,7 @@
 
 (2) The Secretary of Labor shall ensure that the administration of the reporting requirement under paragraph (1) is coordinated with respect to any requirement for the contractor to make any other report to the Secretary of Labor.
 
-(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1097, §2012; amended Pub. L. 93–508, title IV, §402, Dec. 3, 1974, 88 Stat. 1593; Pub. L. 94–502, title VI, §§605, 607(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–520, §6(a), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §509, title VIII, §801(j), Oct. 17, 1980, 94 Stat. 2206, 2217; Pub. L. 97–306, title III, §310(a), Oct. 14, 1982, 96 Stat. 1442; renumbered §4212 and amended Pub. L. 102–83, §§4(b)(8), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 103–446, title VII, §702(a), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–339, §§7(a), 8, Oct. 31, 1998, 112 Stat. 3188, 3189; Pub. L. 106–419, title III, §322(a), (b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–288, §2(b)(1), (2)(A)–(C), Nov. 7, 2002, 116 Stat. 2034, 2035.)
+(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1097, §2012; amended Pub. L. 93–508,title IV, §402, Dec. 3, 1974, 88 Stat. 1593; Pub. L. 94–502, title VI, §§605, 607(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–520, §6(a), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §509, title VIII, §801(j), Oct. 17, 1980, 94 Stat. 2206, 2217; Pub. L. 97–306, title III, §310(a), Oct. 14, 1982, 96 Stat. 1442; renumbered §4212 and amended Pub. L. 102–83, §§4(b)(8), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 103–446, title VII, §702(a), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–339, §§7(a), 8, Oct. 31, 1998, 112 Stat. 3188, 3189; Pub. L. 106–419, title III, §322(a), (b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–288, §2(b)(1), (2)(A)–(C), Nov. 7, 2002, 116 Stat. 2034, 2035.)
 
 #### References in Text
 
@@ -96,7 +96,7 @@ Subsec. (b). Pub. L. 96–466, §509, among other changes, substituted reference
 
 Subsec. (c). Pub. L. 94–502, §605, added subsec. (c).
 
-1974—Subsec. (a). Pub. L. 93–508, §402(1), (2), substituted “Any contract in the amount of $10,000 or more entered into” for “Any contract entered into”, “the party contracting with the United States shall take affirmative action to employ and advance in employment” for “in employing persons to carry out such contract, the party contracting with the United States shall give special emphasis to the employment of”, and “In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall” for “The President shall”.
+1974—Subsec. (a). Pub. L. 93–508, §402(1), (2), substituted “Any contract in the amount of $10,000 or more entered into” for “Any contract entered into”, “the party contracting with the United States shall take affirmative action to employ and advance in employment” for “in employing persons to carry out such contract, the party contracting with the United Statesshall give special emphasis to the employment of”, and “In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall” for “The President shall”.
 
 Subsec. (b). Pub. L. 93–508, §402(3), substituted “relating to the employment of veterans” for “relating to giving special emphasis in employment to veterans”.
 
@@ -140,13 +140,9 @@ Sec. 2. The Secretary of Labor is hereby designated and empowered to exercise, w
 
 Sec. 3. The Secretary of Labor shall gather information on the effectiveness of the program established under this order and Section 2012 \[now 4212\] of Title 38 of the United States Code and of the extent to which the employment service system is fulfilling the employment needs of veterans. The Secretary of Labor shall, from time to time, report to the President concerning his evaluation of the effectiveness of this order along with his recommendations for further action which the Secretary believes to be appropriate.
 
-Sec. 4. Appropriate departments and agencies shall, in consultation with the Secretary of Labor, issue such amendments or additions to procurement rules and regulations as may be necessary to carry out the purposes of this order and Section 2012 \[now 4212\] of Title 38 of the United States Code. Except as otherwise provided by law, all executive departments and agencies are directed to cooperate with the Secretary of Labor, to furnish the Secretary of Labor with such information andassistance as he may require in the performance of his functions under this order, and to comply with rules, regulations, and orders of the Secretary.
+Sec. 4. Appropriate departments and agencies shall, in consultation with the Secretary of Labor, issue such amendments or additions to procurement rules and regulations as may be necessary to carry out the purposes of this order and Section 2012 \[now 4212\] of Title 38 of the United States Code. Except as otherwise provided by law, all executive departments and agencies are directed to cooperate with the Secretary of Labor, to furnish the Secretary of Labor with such information and assistance as he may require in the performance of his functions under this order, and to comply with rules, regulations, and orders of the Secretary.
 
 Sec. 5. Executive Order No. 11598 of June 16, 1971, is hereby superseded.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3116, 4107, 4214 of this title; title 31 section 1354.
 

@@ -38,7 +38,3 @@ Of the amounts appropriated to the Defense Agencies for fiscal year 1988 for res
 
 1993—Subsec. (b)(1)(B). Pub. L. 103–160 substituted “Semiconductor Technology Council” for “Advisory Council on Federal Participation in Sematech”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4606 of this title.
-

@@ -30,7 +30,3 @@ This Act, referred to in provision preceding par. (1), is Pub. L. 96–487, Dec.
 
 Until laws are adopted in Alaska which provide for definition, preference, and participation specified in sections 3113 to 3115 of this title, amendment by Pub. L. 105–83 was effective only for purpose of determining whether State's laws provide for such definition, preference, and participation, and such amendment was repealed on Dec. 1, 1998, because such laws had not been adopted, see section 316(d) of Pub. L. 105–83 set out as a note under section 3102 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3115 of this title; title 43 sections 1629b, 1629d.
-

@@ -6,7 +6,7 @@ Any individual who receives a scholarship grant pursuant to section 1613a of thi
 
 #### (b) Employment of medical and other students during nonacademic periods
 
-Any individual enrolled in a course of study in the health professions may be employed by the Service during any nonacademic period of the year. Any such employment shall not exceed one hundred and twenty days during any calendar year.
+Any individual enrolled in a course of study in the health professions may be employed by theService during any nonacademic period of the year. Any such employment shall not exceed one hundred and twenty days during any calendar year.
 
 #### (c) Employment without regard to competitive personnel system or agency personnel limitation; compensation
 

@@ -16,9 +16,5 @@
 
 Subsec. (b). Pub. L. 101–550, §416(4), substituted “Each” for “The indenture to be qualified shall provide that each”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 77rrr of this title.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

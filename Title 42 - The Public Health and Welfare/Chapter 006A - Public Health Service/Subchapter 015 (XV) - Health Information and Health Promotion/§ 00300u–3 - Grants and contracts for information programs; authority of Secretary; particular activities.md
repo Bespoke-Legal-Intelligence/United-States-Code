@@ -10,15 +10,11 @@ The Secretary is authorized to conduct and support by grant or contract (and enc
 
 &emsp;(4) The development of models and standards for the publication by States, insurance carriers, prepaid health plans, and others (except individual health practitioners) of information for use by the public respecting the cost and quality of health care, including information to enable the public to make comparisons of the cost and quality of health care.
 
-&emsp;(5) The development of models and standards for the publication by States, insurance carriers, prepaid health plans, and others of information for use by the public respecting health insurance policies and prepaid health plans, including information on the benefits provided by the various types of such policies and plans, the premium charges for such policies and plans, exclusions from coverage or eligibility for coverage, cost sharing requirements, and the ratio of the amounts paid as benefits to the amounts received as premiums and information to enable the public to make relevant comparisons of the costs and benefits of such policies and plans.
+&emsp;(5) The development of models and standards for the publication by States, insurance carriers, prepaid health plans, and others of information for use by the public respecting health insurance policies and prepaid health plans, including information on the benefits provided by the various types of such policies and plans,the premium charges for such policies and plans, exclusions from coverage or eligibility for coverage, cost sharing requirements, and the ratio of the amounts paid as benefits to the amounts received as premiums and information to enable the public to make relevant comparisons of the costs and benefits of such policies and plans.
 
 (July 1, 1944, ch. 373, title XVII, §1704, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat. 698; amended Pub. L. 98–551, §2(b), Oct. 30, 1984, 98 Stat. 2816.)
 
 #### Amendments
 
-1984—Par. (6). Pub. L. 98–551 struck out par. (6) which provided grant authority to the Secretary to assess, with respect to the effectiveness, safety, cost, and required training for and conditions of use, of new aspects of health care, and new activities, programs, andservices designed to improve human health and publish in readily understandable language for public and professional use such assessments and, in the case of controversial aspects of health care, activities, programs, or services, publish differing views or opinions respecting the effectiveness, safety, cost, and required training for and conditions of use, of such aspects of health care, activities, programs, or services.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300u, 300u–2 of this title.
+1984—Par. (6). Pub. L. 98–551 struck out par. (6) which provided grant authority to the Secretary to assess, with respect to the effectiveness, safety, cost, and required training for and conditions of use, of new aspects of health care, and new activities, programs, and services designed to improve human health and publish in readily understandable language for public and professional use such assessments and, in the case of controversial aspects of health care, activities, programs, or services, publish differing views or opinions respecting the effectiveness, safety, cost, and required training for and conditions of use, of such aspects of health care, activities, programs, or services.
 

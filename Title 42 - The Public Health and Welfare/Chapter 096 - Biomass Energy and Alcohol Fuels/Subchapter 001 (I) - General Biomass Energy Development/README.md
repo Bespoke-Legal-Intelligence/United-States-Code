@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—GENERAL BIOMASS ENERGY DEVELOPMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 8802, 8803 of this title.
-
 
 ---
 

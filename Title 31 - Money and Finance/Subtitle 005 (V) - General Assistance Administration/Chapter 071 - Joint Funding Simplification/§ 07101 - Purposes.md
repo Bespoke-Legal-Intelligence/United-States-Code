@@ -28,7 +28,3 @@ In the chapter, the words “executive agency” are substituted for “Federal 
 
 In the section, the words “resources available from” and “It is the further purpose of this chapter” are omitted as unnecessary because of the restatement.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7103 of this title.
-

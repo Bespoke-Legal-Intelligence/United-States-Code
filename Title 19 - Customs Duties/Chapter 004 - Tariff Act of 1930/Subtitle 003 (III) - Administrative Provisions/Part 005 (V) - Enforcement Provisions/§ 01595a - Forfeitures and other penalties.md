@@ -38,7 +38,7 @@ Merchandise which is introduced or attempted to be introduced into the United St
 
 &emsp;(3) If the importation or entry of the merchandise is subject to quantitative restrictions requiring a visa, permit, license, or other similar document, or stamp from the United States Government or from a foreign government or issuing authority pursuant to a bilateral or multilateral agreement, the merchandise shall be subject to detention in accordance with section 1499 of this title unless the appropriate visa, license, permit, or similar document or stamp is presented to the Customs Service; but if the visa, permit, license, or similar document or stamp which is presented in connection with the importation or entry of the merchandise is counterfeit, the merchandise may be seized and forfeited.
 
-&emsp;(4) If the merchandise is imported or introduced contrary to a provision of law which governs the classification or value of merchandise and there are no issues as to the admissibility of the merchandise into the UnitedStates, it shall not be seized except in accordance with section 1592 of this title.
+&emsp;(4) If the merchandise is imported or introduced contrary to a provision of law which governs the classification or value of merchandise and there are no issues as to the admissibility of the merchandise into the United States, it shall not be seized except in accordance with section 1592 of this title.
 
 &emsp;(5) In any case where the seizure and forfeiture of merchandise are required or authorized by this section, the Secretary may—
 
@@ -73,8 +73,4 @@ Amendment by Pub. L. 104–132 effective 1 year after Apr. 24, 1996, see section
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1590 of this title.
 

@@ -18,7 +18,3 @@ Historical and Revision Notes
 
 Dec. 29, 1950, ch. 1189, §5, 64 Stat. 1130.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 sections 2149, 3804, 3805.
-

@@ -6,7 +6,7 @@
 
 (c) The United States Parole Commission and the Chairman of the Commission shall have the same powers and duties with respect to a probationer or parolee transferred from State supervision pursuant to this section as they have with respect to an offender convicted in a court of the United States and paroled under chapter 311 <sup>1</sup> of this title. The provisions of sections 4201 through 4204, 4205(a), (e), and (h), 4206 through 4215, and 4218 <sup>1</sup> of this title shall apply following a revocation of probation or parole under this section.
 
-(d) If a person provided protection under this chapter who is on probation or parole and is supervised under subsection (a) of this section has been ordered by the State court which imposed sentence on the person to pay a sum of money to the victim of the offense involved for damage caused by the offense, that penalty or award of damages may be enforced as though it were a civil judgment rendered by a United States district court. Proceedings to collect the moneys ordered to be paid may be instituted by the Attorney General in any United States districtcourt. Moneys recovered pursuant to such proceedings shall be distributed to the victim.
+(d) If a person provided protection under this chapter who is on probation or parole and is supervised under subsection (a) of this section has been ordered by the State court which imposed sentence on the person to pay a sum of money to the victim of the offense involved for damage caused by the offense, that penalty or award of damages may be enforced as though it were a civil judgment rendered by a United States district court. Proceedings to collect the moneys ordered to be paid may be instituted by the Attorney General in any United States district court. Moneys recovered pursuant to such proceedings shall be distributed to the victim.
 
 (Added Pub. L. 98–473, title II, §1208, Oct. 12, 1984, 98 Stat. 2157; amended Pub. L. 99–646, §75, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title VII, §7072(b), Nov. 18, 1988, 102 Stat. 4405.)
 
@@ -19,10 +19,6 @@ Chapter 311 of this title, referred to in subsec. (c), which consisted of sectio
 1988—Subsec. (c). Pub. L. 100–690 substituted “4215” for “4216”.
 
 1986—Subsec. (a). Pub. L. 99–646 substituted “probationers or parolees, as the case may be” for “parolees”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3521 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

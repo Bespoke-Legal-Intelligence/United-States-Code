@@ -4,10 +4,6 @@
 
 A prior subchapter III of this chapter, consisting of former sections 1821 to 1824, was redesignated subchapter IV of this chapter.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1831, 1834 of this title.
-
 
 ---
 

@@ -60,7 +60,3 @@ In selecting among applications for grants under subsection (c) of this section,
 
 1991—Subsec. (b)(5). Pub. L. 102–237 substituted “National Science Foundation” for “National Sciences Foundation”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5855 of this title.
-

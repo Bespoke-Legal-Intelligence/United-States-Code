@@ -64,7 +64,3 @@ With respect to any international standards organization before which the intere
 
 1993—Subsec. (a)(1). Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2545 of this title.
-

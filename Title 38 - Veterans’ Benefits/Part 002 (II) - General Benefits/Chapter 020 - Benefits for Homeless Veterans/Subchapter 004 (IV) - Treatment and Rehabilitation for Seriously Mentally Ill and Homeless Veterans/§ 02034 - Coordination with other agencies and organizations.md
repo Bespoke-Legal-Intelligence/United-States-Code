@@ -4,7 +4,7 @@
 
 (b)(1) The Secretary shall require the director of each medical center or the director of each regional benefits office to make an annual assessment of the needs of homeless veterans living within the area served by the medical center or regional office, as the case may be.
 
-(2) Each such assessment shall be made in coordination with representatives of State and local governments, other appropriate departments and agencies of the Federal Government, and nongovernmental organizations that have experience working with homeless persons in that area.
+(2) Each such assessment shall be made in coordination with representatives of State andlocal governments, other appropriate departments and agencies of the Federal Government, and nongovernmental organizations that have experience working with homeless persons in that area.
 
 (3) Each such assessment shall identify the needs of homeless veterans with respect to the following:
 
@@ -20,7 +20,7 @@
 
 &emsp;(F) Outreach services.
 
-(4) Each assessment shall also indicate the extent to which the needs referred to in paragraph\(3) are being met adequately by the programs of the Department, of other departments and agencies of the Federal Government, of State and local governments, and of nongovernmental organizations.
+(4) Each assessment shall also indicate the extent to which the needs referred to in paragraph (3) are being met adequately by the programs of the Department, of other departments and agencies of the Federal Government, of State and local governments, and of nongovernmental organizations.
 
 (5) Each assessment shall be carried out in accordance with uniform procedures and guidelines prescribed by the Secretary.
 
@@ -45,8 +45,4 @@
 Subsec. (b)(1). Pub. L. 107–95, §6(b)(1), inserted “annual” after “to make an”.
 
 Subsec. (b)(6). Pub. L. 107–95, §6(b)(2), added par. (6).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2003, 2065, 2066 of this title.
 

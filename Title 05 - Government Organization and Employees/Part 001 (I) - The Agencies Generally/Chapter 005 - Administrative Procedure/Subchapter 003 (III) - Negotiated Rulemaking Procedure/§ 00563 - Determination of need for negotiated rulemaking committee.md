@@ -52,7 +52,3 @@ Pub. L. 104–320, §11(e), Oct. 19, 1996, 110 Stat. 3874, provided that: “The
 
 &emsp;“(2) within one year of the date of the enactment of this Act, submit recommendations to Congress for any necessary legislative changes.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 23 section 202; title 25 sections 2018, 4116.
-

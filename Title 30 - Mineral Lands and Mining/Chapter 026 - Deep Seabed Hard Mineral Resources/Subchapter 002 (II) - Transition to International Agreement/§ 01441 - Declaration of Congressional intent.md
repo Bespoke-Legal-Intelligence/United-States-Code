@@ -18,7 +18,3 @@ It is the intent of Congress—
 
 (Pub. L. 96–283, title II, §201, June 28, 1980, 94 Stat. 575.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1443, 1444 of this title.
-

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture, in consultation with other appropriate Federal agencies, shall make demonstration grants to support cooperative programs between State Cooperative Extension Service agencies and private nonprofit disability organizations to provide on-the-farm agricultural education and assistance directed at accommodating disability in farm operations for individuals with disabilities who are engaged in farming and farm-related occupations and their families.
+&emsp;The Secretary of Agriculture, in consultation with other appropriate Federal agencies,shall make demonstration grants to support cooperative programs between State Cooperative Extension Service agencies and private nonprofit disability organizations to provide on-the-farm agricultural education and assistance directed at accommodating disability in farm operations for individuals with disabilities who are engaged in farming and farm-related occupations and their families.
 
 #### (2) Eligible services
 

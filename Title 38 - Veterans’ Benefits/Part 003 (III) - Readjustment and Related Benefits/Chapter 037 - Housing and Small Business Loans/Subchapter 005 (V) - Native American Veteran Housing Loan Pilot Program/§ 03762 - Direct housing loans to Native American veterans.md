@@ -30,11 +30,11 @@
 
 &emsp;&emsp;(ii) procedures for the resale of the lot or the dwelling (or both) purchased, constructed, or improved using the proceeds of the loan.
 
-&emsp;(E) That the tribal organization agrees to such other terms and conditions with respectto the making of direct loans to Native American veterans under the jurisdiction of the tribal organization as the Secretary may require in order to ensure that the pilot program established under this subchapter is implemented in a responsible and prudent manner.
+&emsp;(E) That the tribal organization agrees to such other terms and conditions with respect to the making of direct loans to Native American veterans under the jurisdiction of the tribal organization as the Secretary may require in order to ensure that the pilot program established under this subchapter is implemented in a responsible and prudent manner.
 
 (2) The Secretary may not enter into a memorandum of understanding with a tribal organization under this subsection unless the Secretary determines that the memorandum provides for such standards and procedures as are necessary for the reasonable protection of the financial interests of the United States.
 
-(c)(1)(A) Except as provided in subparagraph (B), the principal amount of any direct housing loan made to a Native American under this section may not exceed $80,000.
+(c)(1)(A) Except as provided in subparagraph (B), the principal amount of any direct housingloan made to a Native American under this section may not exceed $80,000.
 
 (B) The Secretary may make loans exceeding the amount specified in subparagraph (A) in a geographic area if the Secretary determines that housing costs in the area are significantly higher than average housing costs nationwide. The amount of such increase shall be the amount that the Secretary determines is necessary in order to carry out the pilot program under this subchapter in a manner that demonstrates the advisability of making direct housing loans to Native American veterans who are located in a variety of geographic areas and in geographic areas experiencing a variety of economic conditions.
 
@@ -74,7 +74,7 @@
 
 &emsp;(A) Attending conferences and conventions conducted by the National Congress of American Indians in order to work with the National Congress in providing information and training to tribal organizations and Native American veterans regarding the availability of housing benefits under the pilot program and in assisting such organizations and veterans in participating in the pilot program.
 
-&emsp;(B) Attending conferences and conventions conducted by the National American Indian Housing Council in order to work with theHousing Council in providing information and training to tribal organizations and tribal housing entities regarding the availability of such benefits.
+&emsp;(B) Attending conferences and conventions conducted by the National American Indian Housing Council in order to work with the Housing Council in providing information and training to tribal organizations and tribal housing entities regarding the availability of such benefits.
 
 &emsp;(C) Attending conferences and conventions conducted by the Department of Hawaiian Homelands in order to work with the Department of Hawaiian Homelands in providing information and training to tribal housing entities in Hawaii regarding the availability of such benefits.
 
@@ -125,8 +125,4 @@ Subsec. (j). Pub. L. 107–103, §402(c), substituted “2006” for “2002” 
 Subsec. (j). Pub. L. 105–114, §201(c), added subsec. (j).
 
 1996—Subsecs. (h), (i). Pub. L. 104–275 added subsec. (h) and redesignated former subsec. (h) as (i).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3729 of this title.
 

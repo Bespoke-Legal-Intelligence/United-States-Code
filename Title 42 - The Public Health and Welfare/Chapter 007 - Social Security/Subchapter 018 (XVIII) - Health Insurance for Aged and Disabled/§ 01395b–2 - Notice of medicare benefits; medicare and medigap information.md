@@ -82,7 +82,3 @@ Pub. L. 101–234, title II, §203(c), Dec. 13, 1989, 103 Stat. 1984, provided t
 
 Section 424 of Pub. L. 100–360, which directed Secretary of Health and Human Services to establish a demonstration project to demonstrate that its volunteers were adequately trained and competent to render effective benefits counseling and assistance to the elderly, was repealed by Pub. L. 101–234, title III, §301(a), Dec. 13, 1989, 103 Stat. 1985.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395b–9, 1395w–21, 1395w–101, 1395ff of this title.
-

@@ -20,7 +20,7 @@ Subject to such regulations as may be prescribed by the Capitol Police Board and
 
 #### (b) Area
 
-(1) The area referred to in subsection (a)(4) of this section is that area bounded by the north curb of H Street from 3rd Street, N.W. to 7th Street, N.E., the east curb of 7th Street from H Street, N.E., to M Street, S.E., the south curb of M Street from 7th Street, S.E. to 1st Street, S.E., the east curb of 1st Street from M Street, S.E. to Potomac Avenue S.E., the southeast curb of Potomac Avenue from 1st Street, S.E. to South Capitol Street, S.W., the west curb of South Capitol Street from Potomac Avenue, S.W. to P Street, S.W., the north curb of P Street from South Capitol Street, S.W. to 3rd Street, S.W., and the west curb of 3rd Street from P Street, S.W. to H Street, N.W.
+(1) The area referred to in subsection (a)(4) of this section is that area bounded by the north curb of H Street from 3rd Street, N.W. to 7th Street, N.E., the east curb of 7th Street from H Street, N.E., to M Street, S.E., the south curb ofM Street from 7th Street, S.E. to 1st Street, S.E., the east curb of 1st Street from M Street, S.E. to Potomac Avenue S.E., the southeast curb of Potomac Avenue from 1st Street, S.E. to South Capitol Street, S.W., the west curb of South Capitol Street from Potomac Avenue, S.W. to P Street, S.W., the north curb of P Street from South Capitol Street, S.W. to 3rd Street, S.W., and the west curb of 3rd Street from P Street, S.W. to H Street, N.W.
 
 (2) The area referred to under subsection (a)(5) of this section is that area bounded by the north curb of Constitution Avenue from 14th Street, N.W., to 3rd Street, N.W., the east curb of 3rd Street from Constitution Avenue, N.W., to Independence Avenue, S.W., the south curb of Independence Avenue from 3rd Street, S.W., to 14th Street, S.W., and the west curb of 14th Street from Independence Avenue, S.W., to Constitution Avenue, N.W.
 
@@ -40,7 +40,7 @@ Section was classified to section 212a–3 of former Title 40, prior to the enac
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(3). Pub. L. 108–83, §1003(a)(1)(A), struck out “and” after the semicolon.
+2003—Subsec. (a)(3). Pub. L. 108–83, §1003(a)(1)(A), struck out “and” after the semicolon.
 
 Subsec. (a)(4). Pub. L. 108–83, §1003(a)(1)(B), which directed the substitution of “under subsection (b)(1); and” for “in subsection (b) of this section.” was executed by making the substitution for language which read in the original “in subsection (b).”, to reflect the probable intent of Congress.
 
@@ -48,7 +48,7 @@ Subsec. (a)(5). Pub. L. 108–83, §1003(a)(1)(C), added par. (5).
 
 Subsec. (b). Pub. L. 108–83, §1003(a)(2), designated existing provisions as par. (1) and added par. (2).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+1996—Subsec. (a). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Change of Name
 
@@ -61,8 +61,4 @@ Pub. L. 108–83, title I, §1003(c), Sept. 30, 2003, 117 Stat. 1022, provided t
 #### Rule of Construction
 
 Pub. L. 108–83, title I, §1003(b), Sept. 30, 2003, 117 Stat. 1022, provided that: “Nothing in the amendments made by this section \[amending this section\] may be construed to limit the authority of the Capitol Police as in effect before the effective date of this section \[see Effective Date of 2003 Amendment note set out above\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1819, 1961, 1970, 2021, 2161 of this title; title 40 sections 5105, 5107, 5109, 8501.
 

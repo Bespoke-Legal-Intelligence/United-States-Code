@@ -2,7 +2,7 @@
 
 (a) In addition to the rate of basic pay provided for nurses, a nurse shall receive additional pay as provided by this section.
 
-(b) A nurse performing service on a tour of duty, any part of which is within the period commencing at 6 postmeridian and ending at 6 antemeridian, shall receive additional pay for each hour of service on such tour at a rate equal to 10 percent of the nurse's hourly rate of basic pay if at least four hours of such tour fall between 6 postmeridian and 6 antemeridian. When less than four hours of such tour fall between 6 postmeridian and 6 antemeridian, the nurse shall be paid the differential for each hour of service performed between those hours.
+(b) A nurse performing service on a tour of duty, any part of which is within the periodcommencing at 6 postmeridian and ending at 6 antemeridian, shall receive additional pay for each hour of service on such tour at a rate equal to 10 percent of the nurse's hourly rate of basic pay if at least four hours of such tour fall between 6 postmeridian and 6 antemeridian. When less than four hours of such tour fall between 6 postmeridian and 6 antemeridian, the nurse shall be paid the differential for each hour of service performed between those hours.
 
 (c) A nurse performing service on a tour of duty, any part of which is within the period commencing at midnight Friday and ending at midnight Sunday, shall receive additional pay for each hour of service on such tour at a rate equal to 25 percent of such nurse's hourly rate of basic pay.
 
@@ -63,8 +63,4 @@ Provisions similar to those in this section were contained in section 4107(e) of
 1994—Subsecs. (f), (g). Pub. L. 103–446, §1201(e)(24), substituted “subsection (b), (c), (d), or (e)” for “subsections (b), (c), (d), or (e)”.
 
 Subsec. (i)(3). Pub. L. 103–446, §1201(g)(6), struck out “of title 5” before period at end.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7454, 7456, 7457 of this title; title 5 sections 6123, 6128.
 

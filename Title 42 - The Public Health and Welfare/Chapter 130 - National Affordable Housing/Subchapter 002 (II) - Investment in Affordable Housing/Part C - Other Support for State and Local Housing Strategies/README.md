@@ -1,9 +1,5 @@
 Part C—Other Support for State and Local Housing Strategies
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 12724 of this title.
-
 
 ---
 

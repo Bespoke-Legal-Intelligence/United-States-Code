@@ -126,7 +126,3 @@ Section 224(b) of Pub. L. 101–73 provided that: “The amendment made by subse
 
 Section 301(d) of Pub. L. 102–242 provided that: “The Corporation shall promulgate final regulations to carry out the amendments made under subsections (a), (b), and (c) \[enacting section 1831f–1 of this title and amending this section\] not later than 150 days after the date of enactment of this Act \[Dec. 19, 1991\], and those regulations shall become effective not later than 180 days after that date of enactment, except that such regulations shall not apply to any specific time deposit made before that date of enactment until the stated maturity of the time deposit.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1821, 4313 of this title.
-

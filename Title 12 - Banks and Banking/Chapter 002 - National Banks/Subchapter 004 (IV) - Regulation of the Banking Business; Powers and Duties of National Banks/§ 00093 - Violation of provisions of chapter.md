@@ -60,7 +60,7 @@ If the directors of any national banking association shall knowingly violate, or
 
 #### (5) Assessment; etc.
 
-&emsp;Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by theComptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
+&emsp;Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
 
 #### (6) Hearing
 
@@ -177,10 +177,6 @@ Section 109 of title I of Pub. L. 95–630 provided that: “Any amendment made 
 #### Exception as to Transfer of Functions
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1831k of this title; title 31 sections 3121, 9110.
 
 <i><sup>1</sup></i><i> So in original. The words “, commits any violation described in paragraph (1) which” probably should not appear.</i>
 

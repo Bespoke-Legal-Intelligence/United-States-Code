@@ -404,92 +404,7 @@ Cotton insect eradication.
 | [1444b.](Subchapter%20002%20%28II%29%20-%20Basic%20Agricultural%20Commodities/%C2%A7%2001444b%20-%20Feed%20grains%3B%20price%20support%20program.md) | Feed grains; price support program. |
 | 1444c to 1444e. | Repealed or Omitted. |
 | 1444e–1. | Loans and purchases for 1986 through 1996 crops of corn. |
-| 1444f, 1444f–1. | Repealed. |
-| [1445\.](Subchapter%20002%20%28II%29%20-%20Basic%20Agricultural%20Commodities/%C2%A7%2001445%20-%20Tobacco%20price%20support%20levels%20for%201960%20and%20subsequent%20years.md) | Tobacco price support levels for 1960 and subsequent years. |
-| 1445–1. | Producer contributions and purchaser assessments for No Net Cost Tobacco Fund. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Definitions.
-
-(b)
-
-Commodity Credit Corporation loans to associations.
-
-(c)
-
-Establishment of No Net Cost Tobacco Funds.
-
-(d)
-
-Requirements.
-
-(e)
-
-Failure or refusal of association to comply.
-
-(f)
-
-Termination of loan agreement; dissolution or merger of association; disposition of amounts in Fund.
-
-(g)
-
-Regulations.
-
-(h)
-
-Failure to collect contribution or assessment; marketing penalty; civil action for review of penalty.
-
-|  |  |
-| :--- | ---: |
-| 1445–2. | Marketing assessments to No Net Cost Tobacco Account. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Definitions.
-
-(b)
-
-Continued availability of price support; establishment of No Net Cost Tobacco Account.
-
-(c)
-
-Establishment of No Net Cost Tobacco Account within Commodity Credit Corporation; disposition of amounts in No Net Cost Tobacco Fund.
-
-(d)
-
-Payment of assessments to Corporation for deposit into Account; determination and adjustment of amounts; collection.
-
-(e)
-
-Deposits into Account; insurance against net losses.
-
-(f)
-
-Suspension of payment and collection of marketing assessments.
-
-(g)
-
-Disposition of amounts in Account in the event of termination of loan agreement or account or dissolution or merger of association.
-
-(h)
-
-Net gains.
-
-(i)
-
-Regulations.
-
-(j)
-
-Failure to collect assessment; marketing penalty; civil action for review of penalty.
-
-|  |  |
-| :--- | ---: |
+| 1444f to 1445–2. Repealed. |  |
 | 1445–3. | Purchase of inventory stock. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -860,23 +775,23 @@ Indigenous plants not considered feed on hand.
 
 (a)
 
-Availability of assistance.
+Definition of livestock.
 
 (b)
 
-Types of assistance.
+Availability of assistance.
 
 (c)
 
-Limitations.
+Types of assistance.
 
 (d)
 
+Limitations.
+
+(e)
+
 Authorization of appropriations.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 511r, 511s, 1301, 1308–3, 1309, 1310, 1314, 1314f, 1334b, 1385, 1421a, 1433c–1, 1435, 1446c, 1515, 1745, 2279, 4608, 5671, 5822, 7202, 7301, 7502 of this title; title 15 section 3391a; title 16 sections 3837d, 3839c; title 21 section 889; title 26 section 451; title 31 section 3902; title 42 section 1766; title 43 section 620c.
 
 
 ---

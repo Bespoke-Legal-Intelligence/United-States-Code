@@ -6,7 +6,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 #### (b) Availability of funds for grants to agencies not previously assisted
 
-In any fiscal year for which the amount appropriated pursuant to subsection (a) of this section exceeds $75,000,000, the Secretary shall give priority in using such amounts in excess of $75,000,000 to awarding grants to local educational agencies or consortia of such agencies that did not receive a grant under this part in the preceding fiscal year.
+In any fiscal year for which the amount appropriated pursuant to subsection (a) of this section exceeds $75,000,000, the Secretary shall give priority in using such amounts in excess of$75,000,000 to awarding grants to local educational agencies or consortia of such agencies that did not receive a grant under this part in the preceding fiscal year.
 
 (Pub. L. 89–10, title V, §5311, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1810.)
 
@@ -27,8 +27,4 @@ Section 7236, Pub. L. 89–10, title V, §5206, as added Pub. L. 103–382, titl
 Section 7237, Pub. L. 89–10, title V, §5207, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3700, related to administration. See section 7283f of this title.
 
 Section 7238, Pub. L. 89–10, title V, §5208, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3701, authorized appropriations. See section 7283g of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7231i of this title.
 

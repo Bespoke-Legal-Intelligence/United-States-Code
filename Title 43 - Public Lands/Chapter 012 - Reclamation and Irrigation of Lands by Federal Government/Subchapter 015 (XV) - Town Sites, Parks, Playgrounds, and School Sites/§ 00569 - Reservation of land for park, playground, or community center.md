@@ -32,7 +32,3 @@ Section 704(a) of Pub. L. 94–579 provided that the amendment made by that sect
 
 Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 569a of this title.
-

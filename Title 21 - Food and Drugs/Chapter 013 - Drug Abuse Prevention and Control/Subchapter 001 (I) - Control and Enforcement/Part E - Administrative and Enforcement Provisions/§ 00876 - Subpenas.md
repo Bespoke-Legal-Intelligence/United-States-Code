@@ -6,7 +6,7 @@ In any investigation relating to his functions under this subchapter with respec
 
 #### (b) Service
 
-A subpena issued under this section may be served by any person designated in the subpena to serve it. Service upon a natural person maybe made by personal delivery of the subpena to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the subpena to an officer, to a managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The affidavit of the person serving the subpena entered on a true copy thereof by the person serving it shall be proof of service.
+A subpena issued under this section may be served by any person designated in the subpena to serve it. Service upon a natural person may be made by personal delivery of the subpena to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the subpena to an officer, to a managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The affidavit of the person serving the subpena entered on a true copy thereof by the person serving it shall be proof of service.
 
 #### (c) Enforcement
 
@@ -21,8 +21,4 @@ In the case of contumacy by or refusal to obey a subpena issued to any person, t
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see section 6061 of Pub. L. 100–690, set out as a note under section 802 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 880 of this title.
 

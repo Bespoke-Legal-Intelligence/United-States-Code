@@ -15,3 +15,5 @@
 - [&sect; 03218 - Records and audits](%C2%A7%2003218%20-%20Records%20and%20audits.md)
 - [&sect; 03219 - Relationship to assistance under other law](%C2%A7%2003219%20-%20Relationship%20to%20assistance%20under%20other%20law.md)
 - [&sect; 03220 - Acceptance of certifications by applicants](%C2%A7%2003220%20-%20Acceptance%20of%20certifications%20by%20applicants.md)
+- [&sect; 03221 - Brownfields redevelopment report](%C2%A7%2003221%20-%20Brownfields%20redevelopment%20report.md)
+- [&sect; 03222 - Savings clause](%C2%A7%2003222%20-%20Savings%20clause.md)

@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The assessments referred to in paragraph (1) shall contain data, gathered using appropriate formulations for each age group for which the assessment is required, that are adequate—
+&emsp;&emsp;The assessments referred to in paragraph (1) shall contain data, gathered using appropriate formulations for each age group forwhich the assessment is required, that are adequate—
 
 &emsp;&emsp;&emsp;(i) to assess the safety and effectiveness of the drug or the biological product for the claimed indications in all relevant pediatric subpopulations; and
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;(ii) the absence of adequate labeling could pose significant risks to pediatric patients; or
 
-&emsp;&emsp;(B)(i) there is reason to believe that the drug or biological product would represent a meaningful therapeutic benefit over existing therapies for pediatric patients for one or more of the claimed indications; and
+&emsp;&emsp;(B)(i) there is reason to believe that the drug or biological product would represent ameaningful therapeutic benefit over existing therapies for pediatric patients for one or more of the claimed indications; and
 
 &emsp;&emsp;(ii) the absence of adequate labeling could pose significant risks to pediatric patients.
 
@@ -184,7 +184,7 @@ For the purposes of paragraph (4)(A)(iii)(I) and (4)(B)(iii)(I) of subsection (a
 
 #### (d) Submission of assessments
 
-If a person fails to submit an assessment described in subsection (a)(2) of this section, or a request for approval of a pediatric formulation described in subsection (a) or (b) of this section, in accordance with applicable provisions of subsections (a) and (b) of this section—
+If a person fails to submit an assessment described in subsection (a)(2) of this section, or arequest for approval of a pediatric formulation described in subsection (a) or (b) of this section, in accordance with applicable provisions of subsections (a) and (b) of this section—
 
 &emsp;(1) the drug or biological product that is the subject of the assessment or request may be considered misbranded solely because of that failure and subject to relevant enforcement action (except that the drug or biological product shall not be subject to action under section 333 of this title); but
 
@@ -238,7 +238,7 @@ Waivers and deferrals.—
 
 &emsp;&emsp;“(A)
 
-Waiver or deferral granted.—If, with respect to an application submitted to the Secretary of Health and Human Services between April 1, 1999, and the date of enactment of this Act \[Dec. 3, 2003\], a waiver or deferral of pediatric assessments wasgranted under regulations of the Secretary then in effect, the waiver or deferral shall be a waiver or deferral under subsection (a) of section 505B of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355c(a)\], except that any date specified in such a deferral shall be extended by the number of days that is equal to the number of days between October 17, 2002, and the date of enactment of this Act.
+Waiver or deferral granted.—If, with respect to an application submitted to the Secretary of Health and Human Services between April 1, 1999, and the date of enactment of this Act \[Dec. 3, 2003\], a waiver or deferral of pediatric assessments was granted under regulations of the Secretary then in effect, the waiver or deferral shall be a waiver or deferral under subsection (a) of section 505B of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355c(a)\], except that any date specified in such a deferral shall be extended by the number of days that is equal to the number of days between October 17, 2002, and the date of enactment of this Act.
 
 &emsp;&emsp;“(B)
 
@@ -253,10 +253,6 @@ Waiver and deferral not granted.—If, with respect to an application submitted 
 “(c)
 
 No Limitation of Authority.—Neither the lack of guidance or regulations to implement this Act or the amendments made by this Act nor the pendency of the process for issuing guidance or regulations shall limit the authority of the Secretary of Health and Human Services under, or defer any requirement under, this Act or those amendments.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 355 of this title; title 42 section 262.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
 

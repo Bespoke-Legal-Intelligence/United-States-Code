@@ -20,7 +20,3 @@ As used in this subchapter—
 
 “Secretary means the Secretary of Education” substituted for “Commissioner means the Commissioner of Education” in subsec. (a) pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of Title 20, Education, and which transferred all functions of Commissioner of Education of Department of Health, Education, and Welfare to Secretary of Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2000b of this title; title 20 section 1720.
-

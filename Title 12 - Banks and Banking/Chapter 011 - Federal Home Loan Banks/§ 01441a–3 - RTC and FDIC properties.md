@@ -22,7 +22,7 @@
 
 #### (3) Prohibition of transfer
 
-&emsp;During the period under paragraph (2), a corporation concerned may not sell or otherwisetransfer any covered property for which notice has been published under paragraph (1). Upon the expiration of such period, the corporation concerned may sell or otherwise transfer any covered property for which notice under paragraph (1) has been published if a notice of serious interest under paragraph (2) concerning the property has not been timely submitted.
+&emsp;During the period under paragraph (2), a corporation concerned may not sell or otherwise transfer any covered property for which notice has been published under paragraph (1). Upon the expiration of such period, the corporation concerned may sell or otherwise transfer any covered property for which notice under paragraph (1) has been published if a notice of serious interest under paragraph (2) concerning the property has not been timely submitted.
 
 #### (4) Offers and permitted transfer
 

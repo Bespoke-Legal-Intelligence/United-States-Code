@@ -2,7 +2,7 @@
 
 #### (a) Exclusive charge and control of all vehicular and other traffic
 
-The Capitol Police Board, consisting of the Sergeant at Arms of the United States Senate, the Sergeant at Arms of the House of Representatives, and the Architect of the Capitol, shall have exclusive charge and control of the regulation and movement of all vehicular and other traffic, including the parking and impounding of vehicles and limiting the speed thereof, within the United States Capitol Grounds; and said Board is authorized and empowered to make and enforce all necessary regulations therefor and to prescribe penalties for violation of such regulations, such penalties not to exceed a fine of $300 or imprisonment for not more than ninety days. Notwithstanding the foregoing provisions of this section those provisions of the District of Columbia Traffic Act of 1925, as amended, for the violation of which specific penalties are provided in said Act, as amended, shall be applicable to the United States Capitol Grounds. Prosecutions for violation of such regulations shall be in the Superior Court of the District of Columbia, upon information by the Corporation Counsel of the District of Columbia or any of his assistants.
+The Capitol Police Board, consisting of the Sergeant at Arms of the United States Senate, the Sergeant at Arms of the House of Representatives, and the Architect of the Capitol, shallhave exclusive charge and control of the regulation and movement of all vehicular and other traffic, including the parking and impounding of vehicles and limiting the speed thereof, within the United States Capitol Grounds; and said Board is authorized and empowered to make and enforce all necessary regulations therefor and to prescribe penalties for violation of such regulations, such penalties not to exceed a fine of $300 or imprisonment for not more than ninety days. Notwithstanding the foregoing provisions of this section those provisions of the District of Columbia Traffic Act of 1925, as amended, for the violation of which specific penalties are provided in said Act, as amended, shall be applicable to the United States Capitol Grounds. Prosecutions for violation of such regulations shall be in the Superior Court of the District of Columbia, upon information by the Corporation Counsel of the District of Columbia or any of his assistants.
 
 #### (b) Promulgation of regulations
 
@@ -28,9 +28,9 @@ Section was classified to section 212b of former Title 40, prior to the enactmen
 
 #### Amendments
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–198, §739(g)(6), struck out “, except on those streets and roadways shown on the map referred to in section 193a of this title as being under the jurisdiction and control of the Commissioner of the District of Columbia”.
+1973—Subsec. (a). Pub. L. 93–198, §739(g)(6), struck out “, except on those streets and roadways shown on the map referred to in section 193a of this title as being under the jurisdiction and control of the Commissioner of the District of Columbia”.
 
-<b>1947</b>—Subsec. (b). Act July 11, 1947, §1, struck out reference to six months after July 31, 1946, as the time for promulgation of regulations and authorized amendment of regulations.
+1947—Subsec. (b). Act July 11, 1947, §1, struck out reference to six months after July 31, 1946, as the time for promulgation of regulations and authorized amendment of regulations.
 
 Subsec. (c). Act July 11, 1947, §2, authorized certain traffic regulations to be effective immediately upon placing conspicuous signs containing notice of regulations at the places affected thereby and inserted provision for payment of expenses.
 
@@ -47,8 +47,4 @@ Section 771(d) of Pub. L. 93–198 provided that the amendment made by Pub. L. 9
 #### Transfer of Functions
 
 Except as otherwise provided in Reorg. Plan No. 3, of 1967, functions of Board of Commissioners of District of Columbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in subsec. (d) for “commissioner”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1819, 1961, 1970, 2021, 2161 of this title; title 40 sections 5105, 5109, 8501.
 

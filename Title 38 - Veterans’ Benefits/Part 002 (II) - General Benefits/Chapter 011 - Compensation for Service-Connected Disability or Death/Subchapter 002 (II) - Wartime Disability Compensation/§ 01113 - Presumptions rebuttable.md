@@ -28,7 +28,3 @@ Pub. L. 102–4 inserted “or 316” after “section 312” wherever appearing
 
 Section 501(b)(2) of Pub. L. 103–446 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to applications for veterans benefits that are submitted to the Secretary of Veterans Affairs after the date of the enactment of this Act \[Nov. 2, 1994\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1112, 1116, 1118, 1137 of this title.
-

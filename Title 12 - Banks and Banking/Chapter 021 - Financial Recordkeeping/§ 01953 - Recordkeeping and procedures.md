@@ -2,7 +2,11 @@
 
 #### (a) Regulations
 
-If the Secretary determines that the maintenance of appropriate records and procedures by any uninsured bank or uninsured institution, or any person engaging in the business of carrying on in the United States any of the functions referred to in subsection (b) of this section, has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, and that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism, he may by regulation require such bank, institution, or person.
+If the Secretary determines that the maintenance of appropriate records and procedures by any uninsured bank or uninsured institution, or any person engaging in the business of carrying on in the United States any of the functions referred to in subsection (b) of this section, has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, and that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism, he may by regulation require such bank, institution, or person—
+
+&emsp;(1) to require, retain, or maintain, with respect to its functions as an uninsured bank or uninsured institution or its functions referred to in subsection (b) of this section, any records or evidence of any type which the Secretary is authorized under section 1829b of this title to require insured banks to require, retain, or maintain; and
+
+&emsp;(2) to maintain procedures to assure compliance with requirements imposed under this chapter. For the purposes of any civil or criminal penalty, a separate violation of any requirement under this paragraph occurs with respect to each day and each separate office, branch, or place of business in which the violation occurs or continues.
 
 #### (b) Institutions subject to recordkeeping requirements
 
@@ -12,7 +16,7 @@ The authority of the Secretary of the Treasury under subsection (a) of this sect
 
 The Secretary shall permit an uninsured bank or financial institution to retain or maintain records referred to in subsection (a) of this section in electronic or automated form, subject to terms and conditions established by the Secretary.
 
-(Pub. L. 91–508, title I, §123, Oct. 26, 1970, 84 Stat. 1116; Pub. L. 100–690, title VI, §6185(d)(3)(A), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 103–325, title III, §310, Sept. 23, 1994, 108 Stat. 2221; Pub. L. 107–56, title III, §358(e), Oct. 26, 2001, 115 Stat. 327.)
+(Pub. L. 91–508, title I, §123, Oct. 26, 1970, 84 Stat. 1116; Pub. L. 100–690, title VI, §6185(d)(3)(A), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 103–325, title III, §310, Sept. 23, 1994, 108 Stat. 2221; Pub. L. 107–56, title III, §358(e), Oct. 26, 2001, 115 Stat. 327; Pub. L. 108–458, title VI, §6202(k), Dec. 17, 2004, 118 Stat. 3746.)
 
 #### References in Text
 
@@ -20,11 +24,9 @@ Section 1724 of this title, referred to in subsec. (b), was repealed by Pub. L. 
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–56 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Where the Secretary determines that the maintenance of appropriate records and procedures by any uninsured bank or uninsured institution, or any person engaging in the business of carrying on in the United States any of the functions referred to in subsection (b) of this section, has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, he may by regulation require such bank, institution, or person—
+2004—Subsec. (a). Pub. L. 108–458 made technical correction to Pub. L. 107–56. See 2001 Amendment note below.
 
-&emsp;“(1) to require, retain, or maintain, with respect to its functions as an uninsured bank or uninsured institution or its functions referred to in subsection (b) of this section, any records or evidence of any type which the Secretary is authorized under section 1829b of this title to require insured banks to require, retain, or maintain; and
-
-&emsp;“(2) to maintain procedures to assure compliance with requirements imposed under this chapter. For the purposes of any civil or criminal penalty, a separate violation of any requirement under this paragraph occurs with respect to each day and each separate office, branch, or place of business in which the violation occurs or continues.”
+2001—Subsec. (a). Pub. L. 107–56, as amended by Pub. L. 108–458, amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Where the Secretary determines that the maintenance of appropriate records and procedures by any uninsured bank or uninsured institution, or any person engaging in the business of carrying on in the United States any of the functions referred to in subsection (b) of this section, has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, he may by regulation require such bank, institution, or person—”.
 
 1994—Subsec. (c). Pub. L. 103–325 added subsec. (c).
 
@@ -40,15 +42,15 @@ Section 1724 of this title, referred to in subsec. (b), was repealed by Pub. L. 
 
 &emsp;“(5) Performing such similar, related, or substitute functions for any of the foregoing or for banking as may be specified by the Secretary in regulations.”
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1951 of this title; title 31 sections 5321, 5322, 5324.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@ Section 1 of Pub. L. 92–70 provided that: “This Act \[enacting this chapter\
 
 #### Emergency Steel Loan Guarantees and Emergency Oil and Gas Guaranteed Loans
 
-Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat. 1478; Pub. L. 107–63, title III, §336(a), Nov. 5, 2001, 115 Stat. 472, provided that:
+Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat. 1478; Pub. L. 107–63, title III, §336(a), Nov. 5, 2001, 115 Stat. 472; Pub. L. 108–199, div. B, title II, §211(a), Jan. 23, 2004, 118 Stat. 75; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 #### “CHAPTER 1
 
@@ -112,7 +112,7 @@ Requirements for Loan Guarantees.—A loan guarantee may be issued under this se
 
 &emsp;“(3) the loan to be guaranteed bears interest at a rate determined by the Board to be reasonable, taking into account the current average yield on outstanding obligations of the United States with remaining periods of maturity comparable to the maturity of such loan;
 
-&emsp;“(4) the company has agreed to an audit by the General Accounting Office prior to the issuance of the loan guarantee and annually thereafter while any such guaranteed loan is outstanding; and
+&emsp;“(4) the company has agreed to an audit by the Government Accountability Office prior to the issuance of the loan guarantee and annually thereafter while any such guaranteed loan is outstanding; and
 
 &emsp;“(5) in the case of a purchaser of substantial assets of a qualified steel company, the qualified steel company establishes that it is unable to reorganize itself.
 
@@ -166,7 +166,7 @@ Salaries and Administrative Expenses.—For necessary expenses to administer the
 
 “(k)
 
-Termination of Guarantee Authority.—The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2003.
+Termination of Guarantee Authority.—The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2005.
 
 “(<i>l</i>)
 
@@ -248,7 +248,7 @@ Qualified oil and gas company.—The term ‘qualified oil and gas company’ me
 
 &emsp;&emsp;&emsp;“(i) an independent oil and gas company (within the meaning of section 57(a)(2)(B)(i) of the Internal Revenue Code of 1986 \[26 U.S.C. 57(a)(2)(B)(i)\]); or
 
-&emsp;&emsp;&emsp;“(ii) a small business concern under section 3 of the Small Business Act (15 U.S.C. 632) (or a company based in Alaska, including an Alaska Native Corporation created pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)) that is an oil field service company whose main business is providing tools, products, personnel, and technical solutions on a contractual basis to exploration and production operators that drill, complete wells, and produce, transport, refine, and sell hydrocarbons and their byproducts as the main commercial business of the concern or company; and
+&emsp;&emsp;&emsp;“(ii) a small business concern under section 3 of the Small Business Act (15 U.S.C. 632) (or a company based in Alaska, including an Alaska Native Corporation created pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)) that is an oil field service company whosemain business is providing tools, products, personnel, and technical solutions on a contractual basis to exploration and production operators that drill, complete wells, and produce, transport, refine, and sell hydrocarbons and their byproducts as the main commercial business of the concern or company; and
 
 &emsp;&emsp;“(B) has experienced layoffs, production losses, or financial losses since the beginning of the oil import crisis, after January 1, 1997.
 
@@ -300,11 +300,11 @@ Requirements for Loan Guarantees.—The Board may issue a loan guarantee on appl
 
 &emsp;“(1) credit is not otherwise available to the company under reasonable terms or conditions sufficient to meet its financing needs, as reflected in the financial and business plans of the company;
 
-&emsp;“(2) the prospective earning power of the company, together with the character and value of the securitypledged, provide a reasonable assurance of repayment of the loan to be guaranteed in accordance with its terms;
+&emsp;“(2) the prospective earning power of the company, together with the character and value of the security pledged, provide a reasonable assurance of repayment of the loan to be guaranteed in accordance with its terms;
 
 &emsp;“(3) the loan to be guaranteed bears interest at a rate determined by the Board to be reasonable, taking into account the current average yield on outstanding obligations of the United States with remaining periods of maturity comparable to the maturity of the loan; and
 
-&emsp;“(4) the company has agreed to an audit by the General Accounting Office before issuance of the loan guarantee and annually while the guaranteed loan is outstanding.
+&emsp;“(4) the company has agreed to an audit by the Government Accountability Office before issuance of the loan guarantee and annually while the guaranteed loan is outstanding.
 
 “(g)
 

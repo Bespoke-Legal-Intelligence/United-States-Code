@@ -16,7 +16,3 @@ After the initial period of certification required by subsection (a) of this sec
 
 (Pub. L. 100–333, §6, June 16, 1988, 102 Stat. 607.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2402 of this title.
-

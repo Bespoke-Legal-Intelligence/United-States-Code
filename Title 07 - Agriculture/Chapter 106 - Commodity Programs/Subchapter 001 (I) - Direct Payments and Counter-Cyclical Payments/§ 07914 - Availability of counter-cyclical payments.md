@@ -116,7 +116,7 @@ If counter-cyclical payments are required to be paid for any of the 2002 through
 
 #### (i) First partial payment
 
-&emsp;&emsp;&emsp;For each of the 2002 through 2006 crop years of a covered commodity, the first partial payment under paragraph (3) to the producers on a farm may not exceed 35 percent of the projected counter-cyclical payment for the covered commodity for the crop year, as determined by the Secretary.
+&emsp;&emsp;&emsp;For each of the 2002 through 2006 crop years of a covered commodity, the firstpartial payment under paragraph (3) to the producers on a farm may not exceed 35 percent of the projected counter-cyclical payment for the covered commodity for the crop year, as determined by the Secretary.
 
 #### (ii) Second partial payment
 
@@ -157,8 +157,4 @@ If counter-cyclical payments are required to be paid for any of the 2002 through
 #### References in Text
 
 Subchapter II of this chapter, referred to in subsec. (b)(1)(B), was in the original “subtitle B”, meaning subtitle B (§§1201–1209) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 155, which is classified principally to subchapter II of this chapter. For complete classification of subtitle B to the Code, see Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7901 of this title.
 

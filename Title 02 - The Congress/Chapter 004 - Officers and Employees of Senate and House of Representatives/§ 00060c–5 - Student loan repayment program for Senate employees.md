@@ -164,7 +164,7 @@ In this section:
 
 #### (C) Limitation
 
-&emsp;&emsp;Amounts in each subaccount established under this paragraph shall not be madeavailable for any purpose other than to make student loan payments under this section.
+&emsp;&emsp;Amounts in each subaccount established under this paragraph shall not be made available for any purpose other than to make student loan payments under this section.
 
 #### (2) Beginning of payments
 
@@ -268,7 +268,7 @@ Section is from the Congressional Operations Appropriations Act, 2002, which is 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–117, §916(1), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out heading and text of former par. (1). Text read as follows: “The term ‘Committee’ means the Committee on Rules and Administration of the Senate.”
+2002—Subsec. (a). Pub. L. 107–117, §916(1), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out heading and text of former par. (1). Text read as follows: “The term ‘Committee’ means the Committee on Rules and Administration of the Senate.”
 
 Subsec. (g)(1). Pub. L. 107–117, §916(2), substituted “subsection (h)(1)(A)” for “subsection (i)(1)(A)” in subpar. (A) and “subsection (h)(1)(B)” for “subsection (i)(1)(B)” in subpar. (B).
 

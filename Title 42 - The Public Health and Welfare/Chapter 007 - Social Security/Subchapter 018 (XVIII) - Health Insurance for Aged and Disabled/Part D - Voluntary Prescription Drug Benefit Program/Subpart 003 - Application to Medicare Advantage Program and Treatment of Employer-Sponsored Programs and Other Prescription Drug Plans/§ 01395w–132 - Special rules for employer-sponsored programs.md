@@ -16,7 +16,7 @@
 
 #### (B) Audits
 
-&emsp;&emsp;The sponsor of the plan, or an administrator of the plan designated by the sponsor, shall maintain (and afford the Secretary access to) such records as the Secretary may require for purposes of audits and other oversight activities necessary to ensure the adequacy of prescription drug coverage andthe accuracy of payments made under this section. The provisions of section 1395w–102(d)(3) of this title shall apply to such information under this section (including such actuarial value and attestation) in a manner similar to the manner in which they apply to financial records of PDP sponsors and MA organizations.
+&emsp;&emsp;The sponsor of the plan, or an administrator of the plan designated by the sponsor, shall maintain (and afford the Secretary access to) such records as the Secretary may require for purposes of audits and other oversight activities necessary to ensure the adequacy of prescription drug coverage and the accuracy of payments made under this section. The provisions of section 1395w–102(d)(3) of this title shall apply to such information under this section (including such actuarial value and attestation) in a manner similar to the manner in which they apply to financial records of PDP sponsors and MA organizations.
 
 #### (C) Provision of disclosure regarding prescription drug coverage
 
@@ -132,7 +132,7 @@ Content of Initial Study.—The initial study under this section shall consider 
 
 &emsp;“(2) The opinions of sponsors of employment-based retiree health coverage concerning which of the options available under this Act \[see Tables for classification\] they are most likely to utilize for the provision of health coverage to their medicare-eligible retirees, including an assessment of the administrative burdens associated with the available options.
 
-&emsp;“(3) The likelihood of sponsors of employment-based retiree health coverage to maintain or adjust their levels of retiree health benefits beyond coordination with medicare, including for prescription drug coverage, provided to medicare-eligible retirees after the date of the enactment of this Act.
+&emsp;“(3) The likelihood of sponsors of employment-based retiree health coverage to maintain or adjusttheir levels of retiree health benefits beyond coordination with medicare, including for prescription drug coverage, provided to medicare-eligible retirees after the date of the enactment of this Act.
 
 &emsp;“(4) The factors that sponsors of employment-based retiree health coverage expect to consider in making decisions about any changes they may make in the health coverage provided to medicare-eligible retirees.
 
@@ -167,8 +167,4 @@ Reports.—The Comptroller General shall submit a report to Congress on—
 “(e)
 
 Consultation.—The Comptroller General shall consult with sponsors of employment-based retiree health coverage, benefits experts, human resources professionals, employee benefits consultants, and academics with experience in health benefits and survey research in the development and design of the initial and final studies under this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395w–24, 1395w–102, 1395w–113, 1395w–116, 1396r–8 of this title; title 26 section 139A.
 

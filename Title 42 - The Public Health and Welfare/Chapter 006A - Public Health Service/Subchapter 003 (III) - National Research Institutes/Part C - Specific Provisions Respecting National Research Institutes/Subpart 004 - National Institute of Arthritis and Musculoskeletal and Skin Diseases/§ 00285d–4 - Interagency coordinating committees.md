@@ -24,7 +24,3 @@ Each Committee shall be composed of the Directors of each of the national resear
 
 1992—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 285d–7 of this title.
-

@@ -74,7 +74,7 @@ Pub. L. 102–378 substituted “multiplied” for “multipled”.
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual whois employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -87,8 +87,4 @@ Amendment by Pub. L. 102–496 effective first day of fourth month beginning aft
 #### Transfer of Functions
 
 Statutory functions, duties, or authority of Chief Administrative Officer of the House of Representatives or Secretary of the Senate as disbursing officers for the Capitol Police transferred to Chief of the Capitol Police, and references in any law or resolution before Feb. 20, 2003, to funds paid or disbursed by Chief Administrative Officer of the House of Representatives and Secretary of the Senate relating to pay and allowances of Capitol Police employees deemed to refer to Chief of the Capitol Police. See section 1907(a) of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8348, 8401, 8411, 8468 of this title; title 2 sections 162b, 2064; title 22 section 4071f; title 42 section 2297h–8.
 

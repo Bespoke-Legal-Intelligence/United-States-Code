@@ -4,7 +4,3 @@ All deferred assessment work shall be performed not later than the end of the as
 
 (June 21, 1949, ch. 232, §3, 63 Stat. 215.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 28b, 28c, 28e of this title; title 16 section 460mm–1.
-

@@ -120,7 +120,3 @@ The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 
 
 Section applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section 101(g) of Pub. L. 104–191, set out as a note under section 1181 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1003, 1021, 1022, 1024, 1132, 1136, 1181, 1191a, 2918 of this title.
-

@@ -22,7 +22,3 @@ Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease
 
 Section 2 of Pub. L. 89–457 provided that: “Upon application by a lessee holding a lease under the Recreation and Public Purposes Act \[sections 869 to 869–4 of this title\] the Secretary of the Interior may enter into a new lease for a term not to exceed twenty-five years from the date of the new lease.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 869, 869–2, 869–3, 869–4, 1721 of this title.
-

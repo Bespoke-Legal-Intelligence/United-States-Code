@@ -6,7 +6,7 @@
 
 &emsp;(1) is or has been a debtor under this title or a debtor or bankrupt under the Bankruptcy Act;
 
-&emsp;(2) has been insolvent before the commencement of a case under this title or during the case but before the grant or denial of a discharge; or
+&emsp;(2) has been insolvent before the commencement of a case under this title or during thecase but before the grant or denial of a discharge; or
 
 &emsp;(3) has not paid a debt that is dischargeable in a case under this title or that was discharged under the Bankruptcy Act.
 
@@ -57,8 +57,4 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
 

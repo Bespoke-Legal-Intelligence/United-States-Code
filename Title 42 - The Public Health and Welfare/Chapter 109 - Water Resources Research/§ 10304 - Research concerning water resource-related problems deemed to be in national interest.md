@@ -2,7 +2,7 @@
 
 #### (a) Grants; matching funds
 
-(1) In addition to the grants authorized by section 10303 of this title, the Secretary is authorized to make grants, on a dollar-for-dollar matching basis, to the institutes established under such section, as well as other qualified educational institutions, private foundations, private firms, individuals, and agencies of local or State government for research concerning any aspect of a water resource-related problem which the Secretary may deem to be in the national interest. Such grants shall be made with such advice and review by peer or other expert groups of appropriate interdisciplinary composition as the Secretary deems appropriate on the basis of the merits of the project and the need for the knowledge such project is expected to produce upon completion.
+(1) In addition to the grants authorized by section 10303 of this title, the Secretary is authorized to make grants, on a dollar-for-dollar matching basis, to the institutes established under such section, as well as other qualified educational institutions, private foundations,private firms, individuals, and agencies of local or State government for research concerning any aspect of a water resource-related problem which the Secretary may deem to be in the national interest. Such grants shall be made with such advice and review by peer or other expert groups of appropriate interdisciplinary composition as the Secretary deems appropriate on the basis of the merits of the project and the need for the knowledge such project is expected to produce upon completion.
 
 (2) Research funded under this section should to the extent possible utilize the best qualified graduate students so the Nation profits from the education and training benefits resulting from the use of the latest in technological developments in solving water problems.
 
@@ -21,8 +21,4 @@ There is authorized to be appropriated to the Secretary the sum of $10,000,000 f
 1990—Subsec. (a)(3). Pub. L. 101–397, §1(i), struck out par. (3) which read as follows: “In cases where the Secretary determines, in accordance with criteria established by him, that research under this section is of a basic nature which would not otherwise be undertaken, the Secretary may approve grants under this section with a matching requirement other than that specified in paragraph (1) of this subsection.”
 
 Subsec. (c). Pub. L. 101–397, §1(j), substituted “$10,000,000” for “$20,000,000” and “1995” for “1989”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10305, 10307 of this title.
 

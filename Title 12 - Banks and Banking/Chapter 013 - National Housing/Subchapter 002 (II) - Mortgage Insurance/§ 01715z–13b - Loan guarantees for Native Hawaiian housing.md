@@ -48,7 +48,7 @@ In this section:
 
 #### (b) Authority
 
-To provide access to sources of private financing to Native Hawaiian families who otherwise could not acquire housing financing because of the unique legal status of the Hawaiian Home Lands or as a result of a lack of access to private financial markets, the Secretary may guarantee an amount not to exceed 100 percent of theunpaid principal and interest that is due on an eligible loan under subsection (c) of this section.
+To provide access to sources of private financing to Native Hawaiian families who otherwise could not acquire housing financing because of the unique legal status of the Hawaiian Home Lands or as a result of a lack of access to private financial markets, the Secretary may guarantee an amount not to exceed 100 percent of the unpaid principal and interest that is due on an eligible loan under subsection (c) of this section.
 
 #### (c) Eligible loans
 
@@ -324,13 +324,13 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (4) Investment
 
-&emsp;Any amounts in the Guarantee Fund determined by the Secretary to be in excess of amounts currently required at the time of the determination to carry out this section may be invested in obligations of the United States.
+&emsp;Any amounts in the Guarantee Fund determined by the Secretary to be in excess of amounts currently required at the time of the determination to carry out this section maybe invested in obligations of the United States.
 
 #### (5) Limitation on commitments to guarantee loans and mortgages
 
 #### (A) Requirement of appropriations
 
-&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year to the extent, or in such amounts as are, or have been, provided in appropriationsActs, without regard to the fiscal year for which such amounts were appropriated.
+&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year to the extent, or in such amounts as are, or have been, provided in appropriations Acts, without regard to the fiscal year for which such amounts were appropriated.
 
 #### (B) Limitations on costs of guarantees
 
@@ -396,15 +396,11 @@ The Housing Act of 1949, referred to in subsec. (c)(4)(B)(iii), is act July 15, 
 
 The Civil Rights Act of 1964, referred to in subsec. (<i>l</i>), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Fair Housing Act, referred to in subsec. (<i>l</i>), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsec. (<i>l</i>), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, asamended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 #### Codification
 
 Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
 
-Pub. L. 106–568, §204, and Pub. L. 106–569, §514, enacted substantially identical sections 184A to Pub. L. 102–550.This section is based on the text of section 184A of Pub. L. 102–550, as added by Pub. L. 106–569.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 25 sections 4223, 4228, 4242.
+Pub. L. 106–568, §204, and Pub. L. 106–569, §514, enacted substantially identical sections 184A to Pub. L. 102–550. This section is based on the text of section 184A of Pub. L. 102–550, as added by Pub. L. 106–569.
 

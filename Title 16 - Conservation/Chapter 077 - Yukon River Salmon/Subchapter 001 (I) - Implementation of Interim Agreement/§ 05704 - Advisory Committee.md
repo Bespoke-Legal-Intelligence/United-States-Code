@@ -18,7 +18,3 @@ Advisory Committee members shall be eligible for reappointment.
 
 (Pub. L. 104–43, title VII, §705, Nov. 3, 1995, 109 Stat. 394.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5705 of this title.
-

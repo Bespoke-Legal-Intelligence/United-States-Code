@@ -48,7 +48,3 @@ Subsection (d) is substituted for “which are hereby authorized to be establish
 
 Pub. L. 101–189, div. A, title XVI, §1604, Nov. 29, 1989, 103 Stat. 1598, provided that funds available for military functions of Department of Defense could not be made available to any other department or agency of Federal Government pursuant to a provision of law enacted after Nov. 29, 1989, unless, not less than 30 days before such funds were made available to such other department or agency, Secretary of Defense submitted to congressional defense committees a report describing effect on military preparedness of making such funds available to such department or agency, prior to repeal and restatement in section 2215 of Title 10, Armed Forces, by Pub. L. 103–160, div. A, title XI, §1106(a)(1), (b), Nov. 30, 1993, 107 Stat. 1750.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 sections 275, 279, 551; title 7 section 6912; title 20 sections 76k, 3501; title 42 sections 5872, 7291; title 46 App. section 1605.
-

@@ -152,9 +152,9 @@ Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, provided that:
 
 #### “SEC. 2. AUTHORIZATION FOR USE OF UNITED STATES ARMED FORCES.
 
-“
+“(a)
 
-(a) In General.—That the President is authorized to use all necessary and appropriate force against those nations, organizations, or persons he determines planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such organizations or persons, in order to prevent any future acts of international terrorism against the United States by such nations, organizations or persons.
+In General.—That the President is authorized to use all necessary and appropriate force against those nations, organizations, or persons he determines planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such organizations or persons, in order to prevent any future acts of international terrorism against the United States by such nations, organizations or persons.
 
 “(b)
 
@@ -484,7 +484,7 @@ Sec. 5. (a) The Congress declares that the participation of the armed forces of 
 
 Sec. 6. The participation of United States Armed Forces in the Multinational Force in Lebanon shall be authorized for purposes of the War Powers Resolution \[50 U.S.C. 1541 et seq.\] until the end of the eighteen-month period beginning on the date of enactment of this resolution \[Oct. 12, 1983\] unless the Congress extends such authorization, except that such authorization shall terminate sooner upon the occurrence of any one of the following:
 
-&emsp;“(1) the withdrawal of all foreign forces from Lebanon, unless the President determines and certifies to the Congress that continued United States Armed Forces participation in the Multinational Force in Lebanon is required after such withdrawal in order to accomplish the purposes specified in the September 25, 1982, exchange of letters providing for the establishment of the Multinational Force in Lebanon; or
+&emsp;“(1) the withdrawal of all foreign forces from Lebanon, unless the President determines and certifies to the Congress that continued United States Armed Forces participation in the Multinational Force in Lebanon is required after such withdrawal in order to accomplish the purposes specified in the September25, 1982, exchange of letters providing for the establishment of the Multinational Force in Lebanon; or
 
 &emsp;“(2) the assumption by the United Nations or the Government of Lebanon of the responsibilities of the Multinational Force in Lebanon; or
 
@@ -515,4 +515,16 @@ Sec. 8. (a) Any joint resolution or bill introduced to amend or repeal this Act 
 #### Adherence to War Powers Resolution
 
 Pub. L. 96–342, title X, §1008, Sept. 8, 1980, 94 Stat. 1122, provided that: “Whereas, the National Command Authority must have the capacity to carry out any military mission which is essential to the national security of the United States having in its hands in the Rapid Deployment Force an increased capability to extend the reach of our military power in an expedited manner; and whereas, without the significant safeguard of the War Powers Resolution (Public Law 93–148) \[this chapter\], United States foreign and defense policies could be subject to misinterpretation; it is therefore the sense of the Congress that the provisions of the War Powers Resolution be strictly adhered to and that the congressional consultation process specified by such Resolution be utilized strictly according to the terms of the War Powers Resolution.”
+
+#### Delegation of Certain Reporting Authority
+
+Memorandum of President of the United States, July 2, 2004, 69 F.R. 43723, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by section 4 of the Authorization for Use of Military Force Against Iraq Resolution of 2002, Public Law 107–243 \[set out in a note above\], and by section 3 of the Authorization for Use of Military Force Against Iraq Resolution, Public Law 102–1 \[set out in a note above\], to make the specified reports to the Congress.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

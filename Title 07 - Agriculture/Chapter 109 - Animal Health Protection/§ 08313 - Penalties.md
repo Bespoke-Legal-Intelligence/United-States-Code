@@ -20,7 +20,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in section 8309(d) of this title, any person that violates this chapter, or that forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided under this chapter may, after notice and opportunity for a hearing onthe record, be assessed a civil penalty by the Secretary that does not exceed the greater of—
+&emsp;Except as provided in section 8309(d) of this title, any person that violates this chapter, or that forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided under this chapter may, after notice and opportunity for a hearing on the record, be assessed a civil penalty by the Secretary that does not exceed the greater of—
 
 &emsp;&emsp;(A)(i) $50,000 in the case of any individual, except that the civil penalty may not exceed $1,000 in the case of an initial violation of this chapter by an individual moving regulated articles not for monetary gain;
 
@@ -75,8 +75,4 @@ Subject to the approval of the Attorney General, the Secretary shall establish g
 #### Transfer of Functions
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1907, 8309, 8314 of this title.
 

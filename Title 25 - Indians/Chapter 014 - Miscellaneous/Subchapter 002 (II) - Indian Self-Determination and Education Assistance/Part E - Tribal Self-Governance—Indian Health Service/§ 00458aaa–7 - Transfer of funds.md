@@ -52,7 +52,7 @@ In the event an Indian tribe elects to carry out a compact or funding agreement 
 
 #### (f) Reimbursement to Indian Health Service
 
-With respect to functions transferred by the Indian Health Service to an Indian tribe, the Indian Health Service shall provide goods and services to the Indian tribe, on a reimbursable basis, including payment in advance with subsequent adjustment. The reimbursements receivedfrom those goods and services, along with the funds received from the Indian tribe pursuant to this part, may be credited to the same or subsequent appropriation account which provided the funding, such amounts to remain available until expended.
+With respect to functions transferred by the Indian Health Service to an Indian tribe, the Indian Health Service shall provide goods and services to the Indian tribe, on a reimbursable basis, including payment in advance with subsequent adjustment. The reimbursements received from those goods and services, along with the funds received from the Indian tribe pursuant to this part, may be credited to the same or subsequent appropriation account which provided the funding, such amounts to remain available until expended.
 
 #### (g) Prompt Payment Act
 
@@ -81,8 +81,4 @@ An Indian tribe shall not be obligated to continue performance that requires an 
 This subchapter, referred to in subsecs. (c) and (d), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 The Indian Health Care Improvement Act, referred to in subsec. (j), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 458aaa–6 of this title.
 

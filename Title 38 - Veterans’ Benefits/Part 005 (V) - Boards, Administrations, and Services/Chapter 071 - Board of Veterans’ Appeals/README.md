@@ -37,10 +37,6 @@ Pub. L. 103–271, §§6(b), 7(a)(2), (b)(3), July 1, 1994, 108 Stat. 742, 743, 
 
 Pub. L. 87–666, §2, Sept. 19, 1962, 76 Stat. 554, added item 4005A, and substituted “Filing of notice of disagreement and appeal” for “Applications for review on appeal” in item 4005, “Administrative appeals” for “Docketing of appeals” in item 4006, and “Docketing of appeals” for “Simultaneously contested claims” in item 4007.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 50 App. section 549.
-
 
 ---
 

@@ -20,7 +20,7 @@ Lands located within the boundaries of a conservation system unit which are owne
 
 #### (c) Exchanges
 
-Lands located within the boundaries of a conservation system unit (other than National Forest Wilderness) which are owned by persons or entities other than those described in subsection\(b) of this section shall not be acquired by the Secretary without the consent of the owner unless prior to final judgment on the value of the acquired land, the owner, after being offered appropriate land of similar characteristics and like value (if such land is available from public lands located outside the boundaries of any conservation system unit), chooses not to accept the exchange. In identifying public lands for exchange pursuant to this subsection, the Secretary shall consult with the Alaska Land Use Council.
+Lands located within the boundaries of a conservation system unit (other than National Forest Wilderness) which are owned by persons or entities other than those described in subsection (b) of this section shall not be acquired by the Secretary without the consent of the owner unless prior to final judgment on the value of the acquired land, the owner, after being offered appropriate land of similar characteristics and like value (if such land is available from public lands located outside the boundaries of any conservation system unit), chooses not to accept the exchange. In identifying public lands for exchange pursuant to this subsection, the Secretary shall consult with the Alaska Land Use Council.
 
 #### (d) Improved property
 
@@ -28,7 +28,7 @@ No improved property shall be acquired under subsection (a) of this section with
 
 #### (e) Retained rights
 
-The owner of an improved property on the date of its acquisition, as a condition of such acquisition, may retain for himself, his heirs and assigns, a right of use and occupance of the improved property for noncommercial residential or recreational purposes, as the case may be, for a definite term of not more than twenty-five years, or in lieu thereof, for a term ending at the death of the owner or the death of his spouse, whichever is later. The owner shall elect the term to be reserved. Unless the property is wholly or partially donated, the Secretary shall pay to the owner the fair market value of the owner's interest in the property on the date of its acquisition, less the fair market value on that date of the right retained by the owner. A right retained by the owner pursuant to this section shall be subject to termination by the Secretary upon his determination that such right is being exercised in a manner inconsistent with the purposes of this Act, and it shall terminate by operation of law upon notification by the Secretary to the holder of the right of such determination and tendering to him the amount equal to the fair market value of that portion which remains unexpired.
+The owner of an improved property on the date of its acquisition, as a condition of such acquisition, may retain for himself, his heirs andassigns, a right of use and occupance of the improved property for noncommercial residential or recreational purposes, as the case may be, for a definite term of not more than twenty-five years, or in lieu thereof, for a term ending at the death of the owner or the death of his spouse, whichever is later. The owner shall elect the term to be reserved. Unless the property is wholly or partially donated, the Secretary shall pay to the owner the fair market value of the owner's interest in the property on the date of its acquisition, less the fair market value on that date of the right retained by the owner. A right retained by the owner pursuant to this section shall be subject to termination by the Secretary upon his determination that such right is being exercised in a manner inconsistent with the purposes of this Act, and it shall terminate by operation of law upon notification by the Secretary to the holder of the right of such determination and tendering to him the amount equal to the fair market value of that portion which remains unexpired.
 
 #### (f) “Improved property” defined
 
@@ -66,13 +66,9 @@ The Secretary shall give prompt and careful consideration to any offer made by t
 
 This Act, referred to in subsecs. (a), (d), (e), (h), and (i)(1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-Section 6(i) of the Alaska Statehood Act, referred to in subsec. (h)(1), is section 6(i) of Pub. L. 85–508, July 7,1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
+Section 6(i) of the Alaska Statehood Act, referred to in subsec. (h)(1), is section 6(i) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Amendments
 
 1988—Subsec. (h). Pub. L. 100–395 designated existing provisions as par. (1) and added par. (2).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 1636.
 

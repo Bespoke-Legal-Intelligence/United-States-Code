@@ -38,7 +38,7 @@
 
 (h)(1) Subsection (c)(2) (to the extent that it provides for termination of a survivor annuity because of a remarriage before age 55) shall not apply if the former spouse was married for at least 30 years to the individual on whose service the survivor annuity is based.
 
-(2) A remarriage described in paragraph (1) shall not be taken into account for purposes ofsection 8419(b)(1)(B) or any other provision of this chapter which the Office may by regulation identify in order to carry out the purposes of this subsection.
+(2) A remarriage described in paragraph (1) shall not be taken into account for purposes of section 8419(b)(1)(B) or any other provision of this chapter which the Office may by regulation identify in order to carry out the purposes of this subsection.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 564; amended Pub. L. 105–61, title V, §518(b)(2), Oct. 10, 1997, 111 Stat. 1308.)
 
@@ -51,8 +51,4 @@ Subsec. (h). Pub. L. 105–61, §518(b)(2)(A), added subsec. (h).
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–61 applicable with respect to remarriages occurring on or after Jan. 1, 1995, see section 518(c) of Pub. L. 105–61, set out as a note under section 8341 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8416, 8417, 8419, 8420, 8420a, 8424, 8435, 8442, 8468, 8901, 8905 of this title; title 50 section 2154.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—MARKETING ASSISTANCE LOANS AND LOAN DEFICIENCY PAYMENTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1308, 7286, 7914, 7915, 7991 of this title.
-
 
 ---
 

@@ -22,9 +22,5 @@ A State agency that provides free public education for children and youth in an 
 
 #### Prior Provisions
 
-A prior section 6436, Pub. L. 89–10, title I, §1416, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3596, related to institution-wide projects, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6435 of this title.
+A prior section 6436, Pub. L. 89–10, title I, §1416, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3596, related to institution-wide projects, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

@@ -30,7 +30,3 @@ Explosives and detonators stored in the working places shall be kept in separate
 
 (Pub. L. 91–173, title III, §313, Dec. 30, 1969, 83 Stat. 785.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 861 of this title.
-

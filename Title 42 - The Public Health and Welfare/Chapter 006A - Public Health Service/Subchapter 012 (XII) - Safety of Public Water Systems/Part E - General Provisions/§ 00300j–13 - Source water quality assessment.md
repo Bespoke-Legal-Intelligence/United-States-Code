@@ -16,7 +16,7 @@
 
 #### (3) Approval, implementation, and monitoring relief
 
-&emsp;A State source water assessment program under this subsection shall be submitted to the Administrator within 18 months after the Administrator's guidance is issued under this subsection and shall be deemed approved 9 months after the date of such submittal unless the Administrator disapproves the program as provided in section 300h–7(c) of this title. States shall begin implementation of the program immediately after its approval. The Administrator's approval of a State program under this subsection shall include a timetable, established in consultation with the State, allowing not more than 2 years for completion after approval of the program. Public water systems seeking monitoring relief in addition to the interim relief provided under section 300g–7(a) of this title shall be eligible formonitoring relief, consistent with section 300g–7(b) of this title, upon completion of the assessment in the delineated source water assessment area or areas concerned.
+&emsp;A State source water assessment program under this subsection shall be submitted to the Administrator within 18 months after the Administrator's guidance is issued under this subsection and shall be deemed approved 9 months after the date of such submittal unless the Administrator disapproves the program as provided in section 300h–7(c) of this title. States shall begin implementation of the program immediately after its approval. The Administrator's approval of a State program under this subsection shall include a timetable, established in consultation with the State, allowing not more than 2 years for completion after approval of the program. Public water systems seeking monitoring relief in addition to the interim relief provided under section 300g–7(a) of this title shall be eligible for monitoring relief, consistent with section 300g–7(b) of this title, upon completion of the assessment in the delineated source water assessment area or areas concerned.
 
 #### (4) Timetable
 
@@ -53,8 +53,4 @@ For provisions relating to program approval and disapproval, see section 300h–
 #### References in Text
 
 The Federal Water Pollution Control Act, referred to in subsec. (a)(6)(E), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300g–7, 300h–7, 300j–12, 300j–14 of this title.
 

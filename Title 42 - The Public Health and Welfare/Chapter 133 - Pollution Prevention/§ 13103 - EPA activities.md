@@ -34,10 +34,6 @@ The Administrator shall develop and implement a strategy to promote source reduc
 
 (Pub. L. 101–508, title VI, §6604, Nov. 5, 1990, 104 Stat. 1388–322.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13107 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original. Subsec. (b) enacted without a par. (7).</i>

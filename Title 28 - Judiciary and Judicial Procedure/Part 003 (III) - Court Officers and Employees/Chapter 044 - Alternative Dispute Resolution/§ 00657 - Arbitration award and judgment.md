@@ -38,7 +38,3 @@ The Federal Rules of Evidence, referred to in subsec. (c)(3)(A), are set out in 
 
 1998—Pub. L. 105–315 amended section generally, substituting provisions relating to arbitration award and judgment for provisions relating to compensation of arbitrators.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 651, 652 of this title.
-

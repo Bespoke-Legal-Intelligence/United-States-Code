@@ -4,7 +4,3 @@ Until a new tribal constitution and bylaws are adopted and become effective unde
 
 (Pub. L. 103–454, title III, §307, Nov. 2, 1994, 108 Stat. 4795.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300m of this title.
-

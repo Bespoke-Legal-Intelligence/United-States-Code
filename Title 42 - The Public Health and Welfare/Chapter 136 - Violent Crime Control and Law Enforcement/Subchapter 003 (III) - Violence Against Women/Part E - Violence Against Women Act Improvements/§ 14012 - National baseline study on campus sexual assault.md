@@ -54,7 +54,3 @@ There are authorized to be appropriated to carry out the study required by this 
 
 The Student Right-To-Know and Campus Security Act, referred to in subsec. (b), is Pub. L. 101–542, Nov. 8, 1990, 104 Stat. 2381, as amended, which amended sections 1085, 1092, 1094, and 1232g of Title 20, Education, and enacted provisions set out as notes under sections 1001 and 1092 of Title 20. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 1001 of Title 20 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

@@ -4,7 +4,3 @@ The United States Commissioner, in order to comply with the provisions of articl
 
 (Sept. 13, 1950, ch. 948, title I, §104, 64 Stat. 847.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 277d–5 of this title.
-

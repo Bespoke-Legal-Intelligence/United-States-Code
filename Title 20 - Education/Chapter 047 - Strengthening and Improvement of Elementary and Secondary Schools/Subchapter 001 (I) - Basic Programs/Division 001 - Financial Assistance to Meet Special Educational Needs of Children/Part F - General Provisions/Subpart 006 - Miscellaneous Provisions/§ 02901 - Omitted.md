@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, Pub. L. 89–10, title I, §1491, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 202, whichcontained transition provisions, was omitted in the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Section, Pub. L. 89–10, title I, §1491, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 202, which contained transition provisions, was omitted in the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 Prior sections 2901 to 2904 were repealed by Pub. L. 97–35, title V, §587(a)(1), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 

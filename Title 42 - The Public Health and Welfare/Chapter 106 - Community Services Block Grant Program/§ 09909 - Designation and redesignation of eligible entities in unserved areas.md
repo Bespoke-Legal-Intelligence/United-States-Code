@@ -12,7 +12,7 @@
 
 #### (2) Requirement
 
-&emsp;In order to serve as the eligible entity for the area, an entity described in paragraph\(1)(B) shall agree to add additional members to the board of the entity to ensure adequate representation—
+&emsp;In order to serve as the eligible entity for the area, an entity described in paragraph (1)(B) shall agree to add additional members to the board of the entity to ensure adequate representation—
 
 &emsp;&emsp;(A) in each of the three required categories described in subparagraphs (A), (B), and (C) of section 9910(a)(2) of this title, by members that reside in the community comprised by the unserved area; and
 
@@ -33,8 +33,4 @@ If no private, nonprofit organization is identified or determined to be qualifie
 A prior section 9909, Pub. L. 97–35, title VI, §680, Aug. 13, 1981, 95 Stat. 517; Pub. L. 99–425, title IV, §405(c)(2), Sept. 30, 1986, 100 Stat. 970; Pub. L. 103–171, §7(c)(3), Dec. 2, 1993, 107 Stat. 1994, related to limitation on use of grants for construction and waiver of such limitation, prior to the general amendment of this chapter by Pub. L. 105–285.
 
 A prior section 676A of Pub. L. 97–35 was classified to section 9905a of this title, prior to the general amendment of this chapter by Pub. L. 105–285.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9902 of this title.
 

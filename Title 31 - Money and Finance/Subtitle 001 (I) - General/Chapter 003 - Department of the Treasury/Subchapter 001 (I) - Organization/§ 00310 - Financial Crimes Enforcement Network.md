@@ -62,7 +62,7 @@ Duties and powers.—The duties and powers of the Director are as follows:
 
 Requirements Relating to Maintenance and Use of Data Banks.—The Secretary of the Treasury shall establish and maintain operating procedures with respect to the government-wide data access service and the financial crimes communications center maintained by FinCEN which provide—
 
-&emsp;(1) for the coordinated and efficient transmittal of information to, entry of information into, and withdrawal of information from, the data maintenance system maintained by the Network, including—
+&emsp;(1) for the coordinated and efficient transmittal of information to, entry of information into, and withdrawal of information from, the data maintenance system maintained by FinCEN, including—
 
 &emsp;&emsp;(A) the submission of reports through the Internet or other secure network, whenever possible;
 
@@ -72,7 +72,7 @@ Requirements Relating to Maintenance and Use of Data Banks.—The Secretary of t
 
 &emsp;(2) in accordance with section 552a of title 5 and the Right to Financial Privacy Act of 1978, appropriate standards and guidelines for determining—
 
-&emsp;&emsp;(A) who is to be given access to the information maintained by the Network;
+&emsp;&emsp;(A) who is to be given access to the information maintained by FinCEN;
 
 &emsp;&emsp;(B) what limits are to be imposed on the use of such information; and
 
@@ -80,9 +80,37 @@ Requirements Relating to Maintenance and Use of Data Banks.—The Secretary of t
 
 (d)
 
-Authorization of Appropriations.—There are authorized to be appropriated for FinCEN such sums as may be necessary for fiscal years 2002, 2003, 2004, and 2005.
+Authorization of Appropriations.—
 
-(Added Pub. L. 107–56, title III, §361(a)(2), Oct. 26, 2001, 115 Stat. 329.)
+&emsp;(1)
+
+In general.—There are authorized to be appropriated for FinCEN such sums as may be necessary for fiscal years 2002, 2003, 2004, and 2005.
+
+&emsp;(2)
+
+Authorization for funding key technological improvements in mission-critical fincen systems.—There are authorized to beappropriated for fiscal year 2005 the following amounts, which are authorized to remain available until expended:
+
+&emsp;&emsp;(A) BSA
+
+direct.—For technological improvements to provide authorized law enforcement and financial regulatory agencies with Web-based access to FinCEN data, to fully develop and implement the highly secure network required under section 362 of Public Law 107–56 to expedite the filing of, and reduce the filing costs for, financial institution reports, including suspicious activity reports, collected by FinCEN under chapter 53 and related provisions of law, and enable FinCEN to immediately alert financial institutions about suspicious activities that warrant immediate and enhanced scrutiny, and to provide and upgrade advanced information-sharing technologies to materially improve the Government's ability to exploit the information in the FinCEN data banks, $16,500,000.
+
+&emsp;&emsp;(B)
+
+Advanced analytical technologies.—To provide advanced analytical tools needed to ensure that the data collected by FinCEN under chapter 53 and related provisions of law are utilized fully and appropriately in safeguarding financial institutions and supporting the war on terrorism, $5,000,000.
+
+&emsp;&emsp;(C)
+
+Data networking modernization.—To improve the telecommunications infrastructure to support the improved capabilities of the FinCEN systems, $3,000,000.
+
+&emsp;&emsp;(D)
+
+Enhanced compliance capability.—To improve the effectiveness of the Office of Compliance in FinCEN, $3,000,000.
+
+&emsp;&emsp;(E)
+
+Detection and prevention of financial crimes and terrorism.—To provide development of, and training in the use of, technology to detect and prevent financial crimes and terrorism within and without the United States, $8,000,000.
+
+(Added Pub. L. 107–56, title III, §361(a)(2), Oct. 26, 2001, 115 Stat. 329; amended Pub. L. 108–458, title VI, §§6101, 6203(a), Dec. 17, 2004, 118 Stat. 3744, 3746.)
 
 #### References in Text
 
@@ -92,23 +120,31 @@ Section 21 of the Federal Deposit Insurance Act, referred to in subsec. (b)(2)(B
 
 The Right to Financial Privacy Act of 1978, referred to in subsec. (c)(2), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, as amended, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
+Section 362 of Public Law 107–56, referred to in subsec. (d)(2)(A), is set out as a note below.
+
 #### Prior Provisions
 
 A prior section 310 was renumbered section 312 of this title.
 
-#### Termination Date
+#### Amendments
 
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
+2004—Subsec. (c)(1), (2)(A). Pub. L. 108–458, §6203(a), substituted “FinCEN” for “the Network”.
+
+Subsec. (d). Pub. L. 108–458, §6101, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by section 6203(a) of Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of Title 12, Banks and Banking.
 
 #### Establishment of Highly Secure Network
 
-Pub. L. 107–56, title III, §362, Oct. 26, 2001, 115 Stat. 332, provided that:
+Pub. L. 107–56, title III, §362, Oct. 26, 2001, 115 Stat. 332, as amended by Pub. L. 108–458, title VI, §6202(m), Dec. 17, 2004, 118 Stat. 3746, provided that:
 
 “(a)
 
 In General.—The Secretary \[of the Treasury\] shall establish a highly secure network in the Financial Crimes Enforcement Network that—
 
-&emsp;“(1) allows financial institutions to file reports required under subchapter II or III of chapter 53 of title 31, United States Code, chapter 2 of Public Law 91–508 \[probably means chapter 2 (§§121 to 129) of title I of Pub. L. 91–508 (12 U.S.C. 1951 et seq.)\], or section 21 of the Federal Deposit Insurance Act \[12 U.S.C. 1829b\] through the secure network; and
+&emsp;“(1) allows financial institutions to file reports required under subchapter II of chapter 53 of title 31, United States Code, chapter 2 of Public Law 91–508 \[probably means chapter 2 (§§121 to 129) of title I of Pub. L. 91–508 (12 U.S.C. 1951 et seq.)\], or section 21 of the Federal Deposit Insurance Act \[12 U.S.C. 1829b\] through the secure network; and
 
 &emsp;“(2) provides financial institutions with alerts and other information regarding suspicious activities that warrant immediate and enhanced scrutiny.
 

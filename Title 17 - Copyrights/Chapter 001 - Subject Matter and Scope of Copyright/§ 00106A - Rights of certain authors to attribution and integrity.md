@@ -108,7 +108,3 @@ Groups to be consulted.—The study under paragraph (1) shall be conducted in co
 
 Report to congress.—Not later than 18 months after the date of the enactment of this Act \[Dec. 1, 1990\], the Register of Copyrights shall submit to the Congress a report containing the results of the study conducted under this subsection.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106A, 107, 113, 301, 411, 412, 501, 506 of this title.
-

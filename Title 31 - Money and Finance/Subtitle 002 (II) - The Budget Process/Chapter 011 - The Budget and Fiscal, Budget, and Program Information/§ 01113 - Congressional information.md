@@ -140,11 +140,23 @@ Pub. L. 105–85, div. A, title X, §1051, Nov. 18, 1997, 111 Stat. 1889, as ame
 
 #### Termination of Reporting Requirements
 
+Pub. L. 108–203, title IV, §413, Mar. 2, 2004, 118 Stat. 529, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L.104–66\] (31 U.S.C. 1113 note) shall not apply to any report required to be submitted under any of the following provisions of law:
+
+&emsp;“(1)(A) Section 201(c)(2) of the Social Security Act (42 U.S.C. 401(c)(2)).
+
+&emsp;“(B) Section 1817(b)(2) of the Social Security Act (42 U.S.C. 1395i(b)(2)).
+
+&emsp;“(C) Section 1841(b)(2) of the Social Security Act (42 U.S.C. 1395t(b)(2)).
+
+&emsp;“(2)(A) Section 221(c)(3)(C) of the Social Security Act (42 U.S.C. 421(c)(3)(C)).
+
+&emsp;“(B) Section 221(i)(3) of the Social Security Act (42 U.S.C. 421(i)(3)).”
+
 Pub. L. 107–303, title III, §302(a), Nov. 27, 2002, 116 Stat. 2360, provided that:
 
 “(a)
 
-In General.—Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C.1113 note; Public Law 104–66) does not apply to any report required to be submitted under any of the following provisions of law:
+In General.—Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note; Public Law 104–66) does not apply to any report required to be submitted under any of the following provisions of law:
 
 &emsp;“(1)
 
@@ -612,7 +624,7 @@ Pub. L. 106–181, title I, §163, Apr. 5, 2000, 114 Stat. 91, provided that: �
 
 &emsp;“(3) Section 47131 of such title.”
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (Public Law 104–66; 31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (Public Law 104–66; 31 U.S.C. 1113 note) does not apply to any report requiredto be submitted under any of the following provisions of law:
 
 &emsp;“(1) Section 1205 of the International Security and Development Cooperation Act of 1985 (Public Law 99–83; 22 U.S.C. 2346 note) (relating to annual reports on economic conditions in Egypt, Israel, Turkey, and Portugal).
 
@@ -833,8 +845,4 @@ Recommendations.—The Director's recommendations shall be consistent with the p
 “(d)
 
 Consultation.—Before the publication of the recommendations under subsection (b), the Director or his designee shall consult with the appropriate congressional committees concerning the recommendations.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 719 of this title.
 

@@ -74,7 +74,3 @@ At the request of the Governor, the Secretary shall establish and administer wit
 
 A prior section 606 of Pub. L. 101–513 was renumbered section 610 and is classified to section 4505 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4503a of this title.
-

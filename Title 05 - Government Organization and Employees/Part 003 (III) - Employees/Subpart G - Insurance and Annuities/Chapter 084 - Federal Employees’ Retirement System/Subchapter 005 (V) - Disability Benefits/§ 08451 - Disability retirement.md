@@ -24,7 +24,3 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 565.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8456, 8461, 8464 of this title; title 38 sections 7426, 7438.
-

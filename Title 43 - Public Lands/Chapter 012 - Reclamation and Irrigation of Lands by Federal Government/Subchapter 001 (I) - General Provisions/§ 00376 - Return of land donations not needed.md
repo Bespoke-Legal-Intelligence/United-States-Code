@@ -8,7 +8,3 @@ Where real property or any interest therein heretofore has been, or hereafter sh
 
 The definitions in section 371 of this title apply to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 371, 417, 493, 500 of this title.
-

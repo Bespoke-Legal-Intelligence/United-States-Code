@@ -30,7 +30,7 @@ The notice required by section 416 of this title and section 637(e) of title 15 
 
 &emsp;(B) include a statement that the head of the executive agency may also elect to award only one task order contract if the head of the executive agency determines in writing that only one of the offerers is capable of providing the services required at the level of quality required.
 
-(3) Paragraph (2) does not apply in the case of a solicitation for which the head of the executive agency concerned determines in writingthat, because the services required under the contract are unique or highly specialized, it is not practicable to award more than one contract.
+(3) Paragraph (2) does not apply in the case of a solicitation for which the head of the executive agency concerned determines in writing that, because the services required under the contract are unique or highly specialized, it is not practicable to award more than one contract.
 
 #### (f) Contract modifications
 
@@ -67,8 +67,4 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 #### Construction
 
 Section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or subchapter VI (§541 et seq.) of chapter 10 of former title 40 \[now 40 U.S.C. 1101–1104\], see section 1054(b) of Pub. L. 103–355, set out as a note under section 253h of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 253h, 253j, 253k, 433 of this title; title 10 section 2382.
 

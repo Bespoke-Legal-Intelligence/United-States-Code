@@ -1,9 +1,5 @@
 subpart ii—federally-supported student loan funds
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in title 20 section 1078–3.
-
 
 ---
 

@@ -32,7 +32,3 @@ Subsec. (d). Pub. L. 106–120, §304(b)(1), added subsec. (d).
 
 For short title of this subchapter as the “Intelligence Identities Protection Act of 1982”, see section 1 of Pub. L. 97–200, set out as a Short Title of 1982 Amendment note under section 401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 422, 424 of this title; title 5 section 8312; title 8 section 1101; title 18 section 3239; title 22 section 2778.
-

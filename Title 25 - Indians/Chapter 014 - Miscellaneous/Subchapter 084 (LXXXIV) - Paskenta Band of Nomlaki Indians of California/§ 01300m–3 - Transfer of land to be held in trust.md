@@ -14,7 +14,3 @@ Subject to the conditions imposed by this section, any real property conveyed or
 
 Act of June 18, 1934, referred to in subsec. (a), popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300m, 1300m–2 of this title.
-

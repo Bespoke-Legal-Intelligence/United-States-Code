@@ -1,6 +1,6 @@
 ### §2803. Designation of major wine trading countries
 
-(a) The Trade Representative shall designate as a major wine trading country each foreigncountry, or group of foreign countries represented as an economic union, that, in the judgment of the Trade Representative—
+(a) The Trade Representative shall designate as a major wine trading country each foreign country, or group of foreign countries represented as an economic union, that, in the judgment of the Trade Representative—
 
 &emsp;(1) is a potential significant market for United States wine; and
 
@@ -19,8 +19,4 @@
 #### References in Text
 
 Section 854(a) of the Trade Agreements Act of 1979, referred to in subsec. (b)(1), is section 854(a) of Pub. L. 96–39, title VIII, July 26, 1979, 93 Stat. 294, which is set out as a note under section 2135 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2802, 2805 of this title.
 

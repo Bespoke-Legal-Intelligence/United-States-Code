@@ -8,13 +8,9 @@ In order to preserve the shore lines, rapids, waterfalls, beaches, and other nat
 
 Act of June 11, 1906 (34 Stat. 233), referred to in text, which was classified to sections 506 to 508 and 509 of this title, was repealed by Pub. L. 87–869, §4, Oct. 23, 1962, 76 Stat. 1157.
 
-The Federal Power Act, referred to in text, was in the original the “Federal Water Power Act”, which was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920,ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in text, was in the original the “Federal Water Power Act”, which was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 #### Transfer of Functions
 
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 577c, 1133 of this title.
 

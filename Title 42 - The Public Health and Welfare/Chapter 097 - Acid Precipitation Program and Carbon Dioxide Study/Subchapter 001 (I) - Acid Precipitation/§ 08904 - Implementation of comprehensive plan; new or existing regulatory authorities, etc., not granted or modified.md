@@ -12,7 +12,3 @@
 
 (Pub. L. 96–294, title VII, §705, June 30, 1980, 94 Stat. 773.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8905 of this title.
-

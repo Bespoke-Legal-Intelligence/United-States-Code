@@ -2,7 +2,7 @@
 
 (a)
 
-Motion To Determine Present Mental Condition of Imprisoned Person.—If a person serving a sentence of imprisonment objects either in writing or through his attorney to being transferred to a suitable facility for care or treatment, an attorney for the Government, at the request of the director of the facility in which the person is imprisoned, may file a motion with the court for the district in which the facility is located for a hearing on the present mental condition of the person. The court shall grant the motion if there is reasonable cause to believe that the person may presently be suffering from a mental disease or defect for the treatment of which he is in need of custody for care or treatment in a suitable facility. A motion filed under this subsection shall stay the transfer of the person pending completion of procedures contained in this section.
+Motion To Determine Present Mental Condition of Imprisoned Person.—If a person serving a sentence of imprisonment objects either in writing or through his attorney to being transferred to a suitable facility for care ortreatment, an attorney for the Government, at the request of the director of the facility in which the person is imprisoned, may file a motion with the court for the district in which the facility is located for a hearing on the present mental condition of the person. The court shall grant the motion if there is reasonable cause to believe that the person may presently be suffering from a mental disease or defect for the treatment of which he is in need of custody for care or treatment in a suitable facility. A motion filed under this subsection shall stay the transfer of the person pending completion of procedures contained in this section.
 
 (b)
 
@@ -25,8 +25,4 @@ Discharge.—When the director of the facility in which the person is hospitaliz
 #### Amendments
 
 1984—Pub. L. 98–473 amended section generally, substituting “Hospitalization of an imprisoned person suffering from mental disease or defect” for “Mental incompetency undisclosed at trial” in section catchline, and substituting provisions relating to motion, examination and report, hearing, etc., to determine present mental condition of imprisoned person, for provisions relating to procedures and authorities regarding mental incompetency undisclosed at trial.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4247 of this title.
 

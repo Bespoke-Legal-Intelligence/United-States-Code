@@ -20,17 +20,17 @@ The Commission shall be empowered to hold hearings, summon witnesses, administer
 
 #### Codification
 
-Section was classified to section 188b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188b of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on section 1 of Senate Resolution No. 382, Ninetieth Congress, Oct. 1, 1968, which was enacted into permanent law and amended by Pub. L. 100–696.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–83, §3(d)(1)(A), substituted “The Majority Leader and Minority Leader of the Senate shall be the chairman and vice chairman, respectively, of the Commission.” for “The Commission shall elect a Chairman and a Vice Chairman at the beginning of each Congress.”
+2003—Subsec. (b). Pub. L. 108–83, §3(d)(1)(A), substituted “The Majority Leader and Minority Leader of the Senate shall be the chairman and vice chairman, respectively, of the Commission.” for “The Commission shall elect a Chairman and a Vice Chairman at the beginning of each Congress.”
 
 Subsec. (c). Pub. L. 108–83, §3(d)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Commission shall select a Curator of Art and Antiquities of the Senate who shall be appointed by and be an employee of the Secretary of the Senate. The Curator shall serve at the pleasure of the Commission, shall perform such duties as it may prescribe, and shall receive compensation at a gross rate, not to exceed $22,089 per annum to be fixed by the Commission. At the request of the Commission the Secretary of the Senate shall detail to the Commission such additional professional, clerical, and other assistants as, from time to time, it deems necessary.”
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–696, §901(b)(3), substituted “Senate Commission on Art” for “Commission on Art and Antiquities of the United States Senate”.
+1988—Subsec. (a). Pub. L. 100–696, §901(b)(3), substituted “Senate Commission on Art” for “Commission on Art and Antiquities of the United States Senate”.
 
 Subsec. (b). Pub. L. 100–696, §901(b)(1), inserted “The Secretary of the Senate shall be the Executive Secretary of the Commission”.
 
@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 100–696, §901(b)(1), inserted “The Secretary of the Se
 
 Section 901(d) of Pub. L. 100–696 provided that: “The provisions of this section \[enacting sections 2101 to 2106 of this title and amending sections 2101, 2102, and 2106 of this title\] are enacted by the Congress—
 
-&emsp;“(1) as an exercise of the rulemaking power of the Senate, and as such they shall be considered as partof the rules of the Senate, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
+&emsp;“(1) as an exercise of the rulemaking power of the Senate, and as such they shall be considered as part of the rules of the Senate, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
 &emsp;“(2) with full recognition of the constitutional right of the Senate to change such rules at any time, in the same manner, and to the same extent as in the case of any other rule of the Senate.”
 

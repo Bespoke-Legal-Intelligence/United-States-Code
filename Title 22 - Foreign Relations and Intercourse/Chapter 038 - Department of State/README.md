@@ -202,8 +202,9 @@
 | (f) | Ineligibility. |
 | (g) | Reports. |
 | (h) | Publication regarding rewards offered by foreign governments. |
-| (i) | Determinations of Secretary. |
-| (j) | Definitions. |
+| (i) | Media surveys and advertisements. |
+| (j) | Determinations of Secretary. |
+| (k) | Definitions. |
 | [2708a.](%C2%A7%2002708a%20-%20Award%20of%20Thomas%20Jefferson%20Star%20for%20Foreign%20Service.md) | Award of Thomas Jefferson Star for Foreign Service. |
 | (a) | Authority to award. |
 | (b) | Selection criteria. |
@@ -300,12 +301,17 @@
 | (b) | Congressional notification required in all cases. |
 | (c) | Statutory construction. |
 | (d) | Definitions. |
+| [2731\.](%C2%A7%2002731%20-%20Monitoring%20and%20combating%20anti-Semitism.md) | Monitoring and combating anti-Semitism. |
+| (a) | Office to Monitor and Combat anti-Semitism. |
+| (b) | Purpose of Office. |
+| (c) | Consultations. |
+| [2732\.](%C2%A7%2002732%20-%20Public%20diplomacy%20responsibilities%20of%20the%20Department%20of%20State.md) | Public diplomacy responsibilities of the Department of State. |
+| (a) | Integral component. |
+| (b) | Coordination and development of strategy. |
+| (c) | Objectives. |
+| (d) | Identification of United States foreign assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 7602 of this title.
 
 
 ---
@@ -427,3 +433,5 @@ This chapter is referred to in section 7602 of this title.
 - [&sect; 02728 - Crimes committed by diplomats](%C2%A7%2002728%20-%20Crimes%20committed%20by%20diplomats.md)
 - [&sect; 02729 - State Department records of overseas deaths of United States citizens from nonnatural causes](%C2%A7%2002729%20-%20State%20Department%20records%20of%20overseas%20deaths%20of%20United%20States%20citizens%20from%20nonnatural%20causes.md)
 - [&sect; 02730 - Prohibition on funding the involuntary return of refugees](%C2%A7%2002730%20-%20Prohibition%20on%20funding%20the%20involuntary%20return%20of%20refugees.md)
+- [&sect; 02731 - Monitoring and combating anti-Semitism](%C2%A7%2002731%20-%20Monitoring%20and%20combating%20anti-Semitism.md)
+- [&sect; 02732 - Public diplomacy responsibilities of the Department of State](%C2%A7%2002732%20-%20Public%20diplomacy%20responsibilities%20of%20the%20Department%20of%20State.md)

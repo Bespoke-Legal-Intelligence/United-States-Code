@@ -10,7 +10,3 @@ There is excepted from the operation of section 1311 of this title—
 
 (May 22, 1953, ch. 65, title II, §5, 67 Stat. 32.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2105 of this title.
-

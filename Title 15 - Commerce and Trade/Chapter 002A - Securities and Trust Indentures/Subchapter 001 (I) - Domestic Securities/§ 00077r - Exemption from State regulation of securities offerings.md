@@ -26,7 +26,7 @@ For purposes of this section, the following are covered securities:
 
 &emsp;A security is a covered security if such security is—
 
-&emsp;&emsp;(A) listed, or authorized for listing, on the New York Stock Exchange or the American Stock Exchange, or listed, or authorized for listing, on the National Market System of the Nasdaq Stock Market (or any successor to such entities);
+&emsp;&emsp;(A) listed, or authorized for listing, on the New York Stock Exchange or the American Stock Exchange, or listed, or authorized forlisting, on the National Market System of the Nasdaq Stock Market (or any successor to such entities);
 
 &emsp;&emsp;(B) listed, or authorized for listing, on a national securities exchange (or tier or segment thereof) that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A); or
 
@@ -90,7 +90,7 @@ For purposes of this section, the following are covered securities:
 
 #### (3) Enforcement of requirements
 
-&emsp;Nothing in this section shall prohibit the securities commission (or any agency or office performing like functions) of any State from suspending the offer or sale of securities within such State as a result of the failure to submit any filing or fee required under law and permitted under this section.
+&emsp;Nothing in this section shall prohibit the securities commission (or any agency or officeperforming like functions) of any State from suspending the offer or sale of securities within such State as a result of the failure to submit any filing or fee required under law and permitted under this section.
 
 #### (d) Definitions
 
@@ -145,8 +145,4 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 #### Study and Report on Uniformity of State Regulatory Requirements
 
 Section 102(b) of Pub. L. 104–290 provided that: “The Commission shall conduct a study, after consultation with States, issuers, brokers, and dealers, on the extent to which uniformity of State regulatory requirements for securities or securities transactions has been achieved for securities that are not covered securities (within the meaning of section 18 of the Securities Act of 1933 \[15 U.S.C. 77r\], as amended by paragraph (1) of this subsection). Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall submit a report to the Congress on the results of such study.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77p, 78bb, 6701 of this title.
 

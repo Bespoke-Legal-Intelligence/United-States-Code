@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—SCHOOL-TO-WORK OPPORTUNITIES SYSTEM DEVELOPMENT AND IMPLEMENTATION GRANTS TO STATES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6195, 6214 of this title.
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment and provisions
 
-The National Science Foundation shall provide assistance for the establishment of Cooperative Research Centers. Such Centers shall beaffiliated with a university, or other nonprofit institution, or a group thereof. The objective of the Centers is to enhance technological innovation as provided in section 3705(a) of this title through the conduct of activities as provided in section 3705(b) of this title.
+The National Science Foundation shall provide assistance for the establishment of Cooperative Research Centers. Such Centers shall be affiliated with a university, or other nonprofit institution, or a group thereof. The objective of the Centers is to enhance technological innovation as provided in section 3705(a) of this title through the conduct of activities as provided in section 3705(b) of this title.
 
 #### (b) Planning grants
 
@@ -27,8 +27,4 @@ A prior section 9 of Pub. L. 96–480 was renumbered section 10 and is classifie
 2000—Subsecs. (a), (b). Pub. L. 106–404 made technical amendments to references in original act which appear in text as references to section 3705 of this title.
 
 1986—Subsec. (a). Pub. L. 99–502 substituted “Cooperative Research Centers” for “Centers for Industrial Technology” and struck out last sentence which read as follows: “The provisions of sections 3705(e) and 3705(f) of this title shall apply to Centers established under this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3703, 3708 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—STANDBY ENERGY AUTHORITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6391, 6393, 6394, 6396 of this title.
-
 
 ---
 

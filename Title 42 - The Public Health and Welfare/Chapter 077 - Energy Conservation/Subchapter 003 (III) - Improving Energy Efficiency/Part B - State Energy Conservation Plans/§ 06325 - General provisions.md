@@ -80,7 +80,7 @@ The Energy Conservation and Production Act, referred to in subsec. (g)(2)(A)(i),
 
 1995—Subsec. (c). Pub. L. 104–66 substituted “, as part of the report required under section 7267 of this title, report” for “report annually” in first sentence.
 
-1992—Subsec. (f). Pub. L. 102–486 designated existing provisions as par. (1), substituted “Except as providedin paragraph (2), for the purpose” for “For the purpose”, and added par. (2).
+1992—Subsec. (f). Pub. L. 102–486 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), for the purpose” for “For the purpose”, and added par. (2).
 
 1990—Subsec. (f). Pub. L. 101–440, §8(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “There are authorized to be appropriated for carrying out the provisions of this part (other than section 6327 of this title) $50,000,000 for fiscal year 1976, $50,000,000 for fiscal year 1977, $50,000,000 for fiscal year 1978, and $50,000,000 for fiscal year 1979.”
 
@@ -99,8 +99,4 @@ Subsec. (f). Pub. L. 94–385, §432(d)(1), (3), redesignated former subsec. (d)
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 16th item on page 87 identifies a reporting provision which, as subsequently amended, is contained in subsec. (c) of this section and in which the 14th item on page 91 identifies a reporting provision in subsec. (g)(8) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6323a, 6326, 6371, 6865, 6881, 7267 of this title; title 12 section 1701z–8.
 

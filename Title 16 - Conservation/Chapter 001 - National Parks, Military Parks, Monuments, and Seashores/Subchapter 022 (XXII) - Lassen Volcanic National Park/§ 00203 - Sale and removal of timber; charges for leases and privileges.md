@@ -4,7 +4,3 @@ The Secretary of the Interior may sell and permit the removal of such matured or
 
 (Aug. 9, 1916, ch. 302, §§3, 4, 39 Stat. 444.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 201, 201b, 205a of this title.
-

@@ -16,7 +16,3 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever ap
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 421c.
-

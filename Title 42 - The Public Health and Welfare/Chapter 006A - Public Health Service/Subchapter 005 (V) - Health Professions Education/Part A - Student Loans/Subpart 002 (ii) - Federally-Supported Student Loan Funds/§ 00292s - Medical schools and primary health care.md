@@ -30,7 +30,7 @@
 
 #### (4) Waivers
 
-&emsp;(A) With respect to the obligation of an individual under an agreement made under paragraph (1) as a student, the Secretary shall provide for the partial or total waiver or suspension of the obligation whenever compliance bythe individual is impossible, or would involve extreme hardship to the individual, and if enforcement of the obligation with respect to the individual would be unconscionable.
+&emsp;(A) With respect to the obligation of an individual under an agreement made under paragraph (1) as a student, the Secretary shall provide for the partial or total waiver or suspension of the obligation whenever compliance by the individual is impossible, or would involve extreme hardship to the individual, and if enforcement of the obligation with respect to the individual would be unconscionable.
 
 &emsp;(B) For purposes of subparagraph (A), the obligation of an individual shall be waived if—
 
@@ -52,7 +52,7 @@
 
 &emsp;With respect to graduates described in paragraph (1) (in this paragraph referred to as “designated graduates”), the conditions referred to in such paragraph for a school for a 1-year period are as follows:
 
-&emsp;&emsp;(A) Not less than 50 percent of designated graduates of the school meet the criterion of either being in a residency training program in primary health care, or being engaged in a practice in such care (having completed such a program).
+&emsp;&emsp;(A) Not less than 50 percent of designated graduates of the school meet the criterion ofeither being in a residency training program in primary health care, or being engaged in a practice in such care (having completed such a program).
 
 &emsp;&emsp;(B) Not less than 25 percent of the designated graduates of the school meet such criterion, and such percentage is not less than 5 percentage points above the percentage of such graduates meeting such criterion for the preceding 1-year period.
 
@@ -135,10 +135,6 @@ Subsec. (b)(1). Pub. L. 103–43, §2014(c)(2)(A), substituted “1997;” for �
 Subsec. (b)(2)(B). Pub. L. 103–43, §2014(c)(2)(B), substituted “25 percent” for “15 percent”.
 
 Subsec. (b)(4)(B). Pub. L. 103–43, §2014(c)(2)(C), substituted “1997” for “1994” in cl. (i) and “1998” for “1995” in cl. (ii).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 292r, 292t, 292y, 295<i>o</i>–1 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,3 @@ The provisions of sections 251b to 251d of this title shall not be applicable wi
 
 (Pub. L. 85–455, §3, June 11, 1958, 72 Stat. 185.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 251e of this title.
-

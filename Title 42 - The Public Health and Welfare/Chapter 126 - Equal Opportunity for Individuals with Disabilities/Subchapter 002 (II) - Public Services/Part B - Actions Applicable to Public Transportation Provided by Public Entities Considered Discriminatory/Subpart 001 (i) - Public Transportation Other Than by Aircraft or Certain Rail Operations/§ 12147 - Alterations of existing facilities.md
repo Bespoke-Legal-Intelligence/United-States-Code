@@ -24,7 +24,7 @@ With respect to alterations of an existing facility or part thereof used in the 
 
 &emsp;The Secretary shall require the appropriate public entity to develop and submit to the Secretary a plan for compliance with this subsection—
 
-&emsp;&emsp;(A) that reflects consultation with individuals with disabilities affected by such plan and the results of a public hearing and public comments on such plan, and
+&emsp;&emsp;(A) that reflects consultation with individuals with disabilities affected by such planand the results of a public hearing and public comments on such plan, and
 
 &emsp;&emsp;(B) that establishes milestones for achievement of the requirements of this subsection.
 
@@ -33,8 +33,4 @@ With respect to alterations of an existing facility or part thereof used in the 
 #### Effective Date
 
 Subsec. (a) of this section effective 18 months after July 26, 1990, and subsec. (b) of this section effective July 26, 1990, see section 231 of Pub. L. 101–336, set out as a note under section 12141 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12148, 12150, 12209 of this title; title 2 section 1331.
 

@@ -1,9 +1,5 @@
 Part A—Grants and Loans for Construction and Modernization of Hospitals and Other Medical Facilities
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 291j–1, 300s of this title.
-
 
 ---
 

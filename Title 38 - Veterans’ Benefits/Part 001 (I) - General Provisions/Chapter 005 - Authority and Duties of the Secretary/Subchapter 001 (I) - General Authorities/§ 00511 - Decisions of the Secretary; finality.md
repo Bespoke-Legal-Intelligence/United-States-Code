@@ -24,7 +24,3 @@ Provisions similar to those in this section were contained in section 211(a) of 
 
 Writ of mandamus abolished in United States district courts, but relief available by appropriate action or motion, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5104, 7104 of this title.
-

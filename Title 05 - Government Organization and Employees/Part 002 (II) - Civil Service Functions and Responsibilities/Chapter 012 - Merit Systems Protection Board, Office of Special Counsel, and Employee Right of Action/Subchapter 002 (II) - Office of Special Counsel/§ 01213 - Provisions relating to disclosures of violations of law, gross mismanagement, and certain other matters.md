@@ -10,7 +10,7 @@
 
 > &emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; and
 
-&emsp;(2) any disclosure by an employee, former employee, or applicant for employment to the Special Counsel or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures of information which the employee, former employee, or applicant reasonably believes evidences—
+&emsp;(2) any disclosure by an employee, former employee, or applicant for employment to the Special Counsel or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures of information which the employee,former employee, or applicant reasonably believes evidences—
 
 &emsp;&emsp;(A) a violation of any law, rule, or regulation; or
 
@@ -107,8 +107,4 @@ Subsec. (g)(3). Pub. L. 107–304, §3(2), added par. (3) and struck out former 
 1996—Subsec. (e)(3). Pub. L. 104–316, §103(a)(1), substituted “President and” for “President,” and struck out “, and the Comptroller General” before period at end.
 
 Subsec. (e)(4). Pub. L. 104–316, §103(a)(2), substituted “President and” for “President,” and struck out “, and the Comptroller General” before “together with a”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1212, 1219, 2105 of this title; title 49 section 40122.
 

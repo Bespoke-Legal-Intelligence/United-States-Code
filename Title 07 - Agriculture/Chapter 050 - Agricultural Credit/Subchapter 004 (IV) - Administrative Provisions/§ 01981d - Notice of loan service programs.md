@@ -74,7 +74,3 @@ Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section
 
 Amendment by section 1807(1) of Pub. L. 101–624 effective 120 days after Nov. 28, 1990, see section 1861(b) of Pub. L. 101–624, set out as a note under section 2001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1991, 2008g of this title.
-

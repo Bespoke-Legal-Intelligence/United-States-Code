@@ -10,7 +10,7 @@ The purpose of the evaluations of university centers under subsection (a) of thi
 
 #### (c) Timing of evaluations
 
-Evaluations under subsection (a) of this section shall be conducted on a continuing basis so that each grantee is evaluated within 3 years after the first award of assistance to the grantee after the effective date of the Economic Development Administration Reform Act of 1998, and at least once every 3 years thereafter, so long as the grantee receives the assistance.
+Evaluations under subsection (a) of this section shall be conducted on a continuing basis so that each grantee is evaluated within 3 years after the first award of assistance to the grantee, and at least once every 3 years thereafter, so long as the grantee receives the assistance.
 
 #### (d) Evaluation criteria
 
@@ -20,7 +20,7 @@ Evaluations under subsection (a) of this section shall be conducted on a continu
 
 #### (2) Evaluation criteria for university centers
 
-&emsp;The criteria for evaluation of a university center shall, at a minimum, provide for an assessment of the center's contribution to providing technical assistance, conducting applied research, and disseminating results of the activities of the center.
+&emsp;The criteria for evaluation of a university center shall, at a minimum, provide for an assessment of the center's contribution to providing technical assistance, conducting applied research, program performance, and disseminating results of the activities of the center.
 
 #### (3) Evaluation criteria for economic development districts
 
@@ -30,15 +30,17 @@ Evaluations under subsection (a) of this section shall be conducted on a continu
 
 In conducting an evaluation of a university center or economic development district under subsection (a) of this section, the Secretary shall provide for the participation of at least 1 other university center or economic development district, as appropriate, on a cost-reimbursement basis.
 
-(Pub. L. 89–136, title V, §506, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3611.)
-
-#### References in Text
-
-For the effective date of the Economic Development Administration Reform Act of 1998, referred to in subsec. (c), see section 105 of Pub. L. 105–393, set out as an Effective Date note under section 3121 of this title.
+(Pub. L. 89–136, title V, §506, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3611; amended Pub. L. 108–373, title V, §503, Oct. 27, 2004, 118 Stat. 1769.)
 
 #### Prior Provisions
 
 A prior section 3196, Pub. L. 89–136, title V, §517, as added Pub. L. 94–188, title II, §206, Dec. 31, 1975, 89 Stat. 1090, related to vocational and technical educational demonstration projects, prior to repeal by Pub. L. 97–35, title XVIII, §1821(a)(8), Aug. 13, 1981, 95 Stat. 766, effective Sept. 30, 1981.
 
 A prior section 506 of Pub. L. 89–136 was classified to section 3186 of this title prior to repeal by Pub. L. 97–35, §1821(a)(8).
+
+#### Amendments
+
+2004–Subsec. (c). Pub. L. 108–373, §503(a), struck out “after the effective date of the Economic Development Administration Reform Act of 1998” after “assistance to the grantee”.
+
+Subsec. (d)(2). Pub. L. 108–373, §503(b), inserted “program performance,” after “applied research,”.
 

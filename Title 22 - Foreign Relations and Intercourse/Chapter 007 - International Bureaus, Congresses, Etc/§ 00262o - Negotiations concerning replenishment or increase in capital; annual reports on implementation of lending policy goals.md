@@ -2,7 +2,7 @@
 
 (a) In any negotiations concerning replenishment or an increase in capital for any multilateral development bank, the Secretary of the Treasury shall propose, as a principal point for negotiations, the following institutional reforms:
 
-&emsp;(1) The establishment of a unified program within each multilateral development bank to assess the extent to which bank lending benefits the least advantaged members of society,particularly women and the poor, and to increase the extent to which such members benefit from future bank lending.
+&emsp;(1) The establishment of a unified program within each multilateral development bank to assess the extent to which bank lending benefits the least advantaged members of society, particularly women and the poor, and to increase the extent to which such members benefit from future bank lending.
 
 &emsp;(2) The establishment of an office or other administrative procedures within each multilateral development bank to—
 

@@ -18,7 +18,3 @@ The Secretary shall promulgate regulations—
 
 (Pub. L. 107–171, title X, §10204, May 13, 2002, 116 Stat. 491.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8203 of this title.
-

@@ -30,7 +30,7 @@ The section is restated to allow incorporation into this chapter.
 
 #### Prior Provisions
 
-A prior section 509, act June 25, 1948, ch. 646, 62 Stat. 910, related to expenses of United States attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactmentin section 549 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 509, act June 25, 1948, ch. 646, 62 Stat. 910, related to expenses of United States attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 549 of this title by section 4(c) of Pub. L. 89–554.
 
 #### Amendments
 
@@ -50,7 +50,25 @@ For transfer of functions, personnel, assets, and liabilities of the Domestic Em
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to the Attorney General, see Parts 1, 2, and 11 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to the Attorney General, see Parts 1, 2, and11 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+
+#### Federal Bureau of Investigation Use of Translators
+
+Pub. L. 108–458, title II, §2006, Dec. 17, 2004, 118 Stat. 3704, provided that: “Not later than 30 days after the date of the enactment of this Act \[Dec. 17, 2004\], and annually thereafter, the Attorney General of the United States shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that contains, with respect to each preceding 12-month period—
+
+&emsp;“(1) the number of translators employed, or contracted for, by the Federal Bureau of Investigation or other components of the Department of Justice;
+
+&emsp;“(2) any legal or practical impediments to using translators employed by the Federal, State, or local agencies on a full-time, part-time, or shared basis;
+
+&emsp;“(3) the needs of the Federal Bureau of Investigation for the specific translation services in certain languages, and recommendations for meeting those needs;
+
+&emsp;“(4) the status of any automated statistical reporting system, including implementation and future viability;
+
+&emsp;“(5) the storage capabilities of the digital collection system or systems utilized;
+
+&emsp;“(6) a description of the establishment and compliance with audio retention policies that satisfy the investigative and intelligence goals of the Federal Bureau of Investigation; and
+
+&emsp;“(7) a description of the implementation of quality control procedures and mechanisms for monitoring compliance with quality control procedures.”
 
 #### Authorization for Additional Assistant United States Attorneys for Project Safe Neighborhoods
 
@@ -119,6 +137,8 @@ Officials.—The officials provided training under subsection (a) are, at the di
 “(c)
 
 Authorization of Appropriations.—There is hereby authorized to be appropriated for the Department of Justice such sums as may be necessary for purposes of carrying out the program required by subsection (a).”
+
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
 #### First Responders Assistance Act
 
@@ -230,11 +250,11 @@ Appointment.—The Special Counsel shall be appointed by the President, by and w
 
 Responsibilities.—The Special Counsel shall—
 
-&emsp;“(1) supervise and coordinate investigations and prosecutions within the Department of Justice of fraud and other criminal activity in and against the financial services industry, including, to the extent consistent with the independent counsel provision of chapter 40 of title 28, United States Code, any such activity by any current or former elected official or high-level executive branch official or any member of the immediate family of any such official;
+&emsp;“(1) supervise and coordinate investigations and prosecutions within the Department of Justice of fraud and other criminal activity in and against the financial services industry, including, to the extent consistent with the independent counsel provision of chapter 40 of title 28, United States Code, any suchactivity by any current or former elected official or high-level executive branch official or any member of the immediate family of any such official;
 
 &emsp;“(2) ensure that Federal law relating to civil enforcement, asset seizure and forfeiture, money laundering, and racketeering are used to the fullest extent authorized to recover the proceeds of unlawful activities from persons who have committed crimes in and against the financial services industry; and
 
-&emsp;“(3) ensure that adequate resources are made available for the investigation and prosecution of fraudand other criminal activity in and against the financial services industry.
+&emsp;“(3) ensure that adequate resources are made available for the investigation and prosecution of fraud and other criminal activity in and against the financial services industry.
 
 “(c)
 
@@ -556,7 +576,7 @@ Today, in my Message on Crime, I recommended strong new laws to control dangerou
 
 I now propose that a single Bureau of Narcotics and Dangerous Drugs be established in the Department of Justice to administer those laws and to bring to the American people the most efficient and effective Federal enforcement machinery we can devise.
 
-Under this Reorganization Plan the Attorney General will have full authority and responsibility for enforcing the Federal laws relating to narcotics and dangerous drugs. The new Bureau of Narcotics and Dangerous Drugs, to be headed by a Director appointed by the Attorney General, will:
+Under this Reorganization Plan the Attorney General will have full authority and responsibility for enforcingthe Federal laws relating to narcotics and dangerous drugs. The new Bureau of Narcotics and Dangerous Drugs, to be headed by a Director appointed by the Attorney General, will:
 
 &emsp;—consolidate the authority and preserve the experience and manpower of the Bureau of Narcotics and the Bureau of Drug Abuse Control.
 
@@ -630,7 +650,7 @@ The Attorney General may from time to time make such provisions as he shall deem
 
 #### Sec. 7. Coordination
 
-The Attorney General, acting through the Administrator and such other officials of the Department ofJustice as he may designate, shall provide for the coordination of all drug law enforcement functions vested in the Attorney General so as to assure maximum cooperation between and among the Administration, the Federal Bureau of Investigation, and other units of the Department involved in the performance of these and related functions.
+The Attorney General, acting through the Administrator and such other officials of the Department of Justice as he may designate, shall provide for the coordination of all drug law enforcement functions vested in the Attorney General so as to assure maximum cooperation between and among the Administration, the Federal Bureau of Investigation, and other units of the Department involved in the performance of these and related functions.
 
 #### Sec. 8. Incidental Transfers
 
@@ -840,7 +860,7 @@ Functions of the Council
 
 Litigation Notice System
 
-1–301. The Attorney General shall establish and maintain a litigation notice system that provides timely information about all civil litigation pending in the courts in which the Federal Government is a party or has a significant interest.
+1–301. The Attorney General shall establish and maintain a litigation notice system that provides timely information about all civil litigation pending in thecourts in which the Federal Government is a party or has a significant interest.
 
 1–302. The Attorney General shall issue rules to govern operation of the notice system. The rules shall include the following requirement:
 
@@ -930,7 +950,7 @@ Sec. 3. <i>Functions</i>. Consistent with the constitutional authority of the Pr
 
 &emsp;(iii) changes in rules, regulations, or policy to improve the effective investigation and prosecution of significant financial crimes; and
 
-&emsp;(iv) recommendations to the Congress regarding such measures as the President may judge necessary and expedient relating to significant financial crimes, or the investigation or prosecution thereof.
+&emsp;(iv) recommendations to the Congress regarding such measures as the President may judge necessaryand expedient relating to significant financial crimes, or the investigation or prosecution thereof.
 
 Sec. 4. <i>Additional Participation for Specified Functions</i>. In the Task Force's performance of the functions set forth in subsection 3(c) of this order, and to the extent permitted by law, the following officers of the executive branch shall be members of the Task Force in addition to such other officers of the Federal Government as the Deputy Attorney General deems appropriate:
 
@@ -951,8 +971,4 @@ Sec. 5. <i>Internal Management Purpose</i>. This order is intended to improve th
 Sec. 6. <i>Termination</i>. The Task Force shall terminate when directed by the President or, with the approval of the President, by the Attorney General.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 20 section 1082; title 42 section 12651d.
 

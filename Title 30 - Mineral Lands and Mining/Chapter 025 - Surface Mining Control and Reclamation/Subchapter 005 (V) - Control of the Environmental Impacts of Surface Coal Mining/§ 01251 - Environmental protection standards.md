@@ -20,7 +20,3 @@ The Federal Water Pollution Control Act, referred to in subsec. (a)(B), is act J
 
 The Clean Air Act, referred to in subsec. (a)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1211, 1254, 1265, 1266, 1276, 1292, 1298 of this title.
-

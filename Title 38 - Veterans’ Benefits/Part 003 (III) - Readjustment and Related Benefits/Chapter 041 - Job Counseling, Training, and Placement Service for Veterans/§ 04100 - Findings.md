@@ -76,7 +76,7 @@ Administrative Matters.—(1) The Committee shall meet not less frequently than 
 
 “(3)(A) Members of the Committee shall serve without compensation.
 
-“(B) Members of the Committee shall be allowed reasonable and necessary travel expenses, including perdiem in lieu of subsistence, at rates authorized for persons serving intermittently in the Government service in accordance with the provisions of subchapter I of chapter 57 of title 5 \[United States Code\] while away from their homes or regular places of business in the performance of the responsibilities of the Committee.
+“(B) Members of the Committee shall be allowed reasonable and necessary travel expenses, including per diem in lieu of subsistence, at rates authorized for persons serving intermittently in the Government service in accordance with the provisions of subchapter I of chapter 57 of title 5 \[United States Code\] while away from their homes or regular places of business in the performance of the responsibilities of the Committee.
 
 “(4) The Secretary of Labor shall provide staff and administrative support to the Committee to assist it in carrying out its duties under this section. The Secretary shall assure positions on the staff of the Committee include positions that are filled by individuals that are now, or have ever been, employed as one of the following:
 

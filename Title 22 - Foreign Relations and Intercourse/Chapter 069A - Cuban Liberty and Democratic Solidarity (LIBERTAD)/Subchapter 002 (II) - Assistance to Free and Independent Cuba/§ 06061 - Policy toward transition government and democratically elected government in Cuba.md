@@ -42,7 +42,3 @@ The policy of the United States is as follows:
 
 (Pub. L. 104–114, title II, §201, Mar. 12, 1996, 110 Stat. 805.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6062 of this title.
-

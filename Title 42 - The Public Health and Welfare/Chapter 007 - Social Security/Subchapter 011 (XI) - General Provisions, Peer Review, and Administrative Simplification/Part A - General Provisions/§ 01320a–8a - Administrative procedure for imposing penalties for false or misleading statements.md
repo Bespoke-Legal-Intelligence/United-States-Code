@@ -2,13 +2,15 @@
 
 #### (a) In general
 
-Any person who makes, or causes to be made, a statement or representation of a material fact for use in determining any initial or continuing right to or the amount of—
+Any person who—
 
-&emsp;(1) monthly insurance benefits under subchapter II of this chapter; or
+&emsp;(1) makes, or causes to be made, a statement or representation of a material fact, for use in determining any initial or continuing right to or the amount of monthly insurance benefits under subchapter II of this chapter or benefits or payments under subchapter XVI of this chapter that the person knows or should know is false or misleading,
 
-&emsp;(2) benefits or payments under subchapter XVI of this chapter,
+&emsp;(2) makes such a statement or representation for such use with knowing disregard for the truth, or
 
-> that the person knows or should know is false or misleading or knows or should know omits a material fact or who makes such a statement with knowing disregard for the truth shall be subject to, in addition to any other penalties that may be prescribed by law, a penalty described in subsection (b) of this section to be imposed by the Commissioner of Social Security.
+&emsp;(3) omits from a statement or representation for such use, or otherwise withholds disclosure of, a fact which the person knows or should know is material to the determination of any initial or continuing right to or the amount of monthly insurance benefits under subchapter II of this chapter or benefits or payments under subchapter XVI of this chapter, if the person knows, or should know, that the statement or representation with such omission is false or misleading or that the withholding of such disclosure is misleading,
+
+> shall be subject to, in addition to any other penalties that may be prescribed by law, a penalty described in subsection (b) of this section to be imposed by the Commissioner of Social Security.
 
 #### (b) Penalty
 
@@ -46,7 +48,7 @@ In this section, the term “benefits under subchapter VIII or XVI of this chapt
 
 The Commissioner of Social Security shall consult with the Inspector General of the Social Security Administration regarding initiating actions under this section.
 
-(Aug. 14, 1935, ch. 531, title XI, §1129A, as added Pub. L. 106–169, title II, §207(a), Dec. 14, 1999, 113Stat. 1837; amended Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74.)
+(Aug. 14, 1935, ch. 531, title XI, §1129A, as added Pub. L. 106–169, title II, §207(a), Dec. 14, 1999, 113 Stat. 1837; amended Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74; Pub. L. 108–203, title II, §201(a)(2), Mar. 2, 2004, 118 Stat. 508.)
 
 #### References in Text
 
@@ -54,11 +56,23 @@ Section 212(b) of Public Law 93–66, referred to in subsec. (e), is section 212
 
 #### Amendments
 
+2004—Subsec. (a). Pub. L. 108–203 substantially rewrote text of subsec. (a). Prior to amendment, text read as follows: “Any person who makes, or causes to be made, a statement or representation of a material fact for use in determining any initial or continuing right to or the amount of—
+
+&emsp;“(1) monthly insurance benefits under subchapter II of this chapter; or
+
+&emsp;“(2) benefits or payments under subchapter XVI of this chapter,
+
+> that the person knows or should know is false or misleading or knows or should know omits a material fact or who makes such a statement with knowing disregard for the truth shall be subject to, in addition to any other penalties that may be prescribed by law, a penalty described in subsection (b) of this section to be imposed by the Commissioner of Social Security.”
+
 2000—Subsec. (e). Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)(B), (D)\], inserted “1010a or” after “agreement under section” and “, as the case may be” before period at end.
 
 Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)(C)\], which directed the amendment of subsec. (e) by inserting “1010A or” before “1382(e)(a)”, could not be executed because “1382(e)(a)” does not appear in text.
 
-Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)(A)\], which directed the amendment of subsec. (e) by inserting “VIII or” after “benefits under”, was executed by making the insertion after “benefits under subchapter” to reflect the probable intent of Congress.
+Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)(A)\], which directed the amendment of subsec. (e) by inserting“VIII or” after “benefits under”, was executed by making the insertion after “benefits under subchapter” to reflect the probable intent of Congress.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–203 applicable with respect to violations committed after the date on which the Commissioner of Social Security implements the centralized computer file described in section 202 of Pub. L. 108–203, set out as a note under section 902 of this title, see section 201(d) of Pub. L. 108–203, set out as a note under section 1320a–8 of this title.
 
 #### Effective Date
 
@@ -67,8 +81,4 @@ Section applicable to statements and representations made on or after Dec. 14, 1
 #### Regulations
 
 Pub. L. 106–169, title II, §207(d), Dec. 14, 1999, 113 Stat. 1838, provided that: “Within 6 months after the date of the enactment of this Act \[Dec. 14, 1999\], the Commissioner of Social Security shall develop regulations that prescribe the administrative process for making determinations under section 1129A of the Social Security Act \[this section\] (including when the applicable period in subsection (c) of such section shall commence), and shall provide guidance on the exercise of discretion as to whether the penalty should be imposed in particular cases.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 402 of this title.
 

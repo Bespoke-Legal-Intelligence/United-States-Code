@@ -24,7 +24,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 #### (D) Refund of fee if application refused for filing
 
-&emsp;&emsp;The Secretary shall refund 75 percent of the fee paid under subparagraph (B) for any animal drug application or supplemental animal drug application which is refused for filing.
+&emsp;&emsp;The Secretary shall refund 75 percent of the fee paid under subparagraph (B) for anyanimal drug application or supplemental animal drug application which is refused for filing.
 
 #### (E) Refund of fee if application withdrawn
 
@@ -88,7 +88,7 @@ Except as provided in subsection (a)(1) of this section and subsections (c), (d)
 
 &emsp;The revenues established in subsection (b) of this section shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year to reflect the greater of—
 
-&emsp;&emsp;(A) the total percentage change that occurred in the Consumer Price Index for all urban consumers (all items; United States city average) for the 12-month period ending June 30 preceding the fiscal year for which fees are being established; or
+&emsp;&emsp;(A) the total percentage change that occurred in the Consumer Price Index for allurban consumers (all items; United States city average) for the 12-month period ending June 30 preceding the fiscal year for which fees are being established; or
 
 &emsp;&emsp;(B) the total percentage change for the previous fiscal year in basic pay under the General Schedule in accordance with section 5332 of title 5, as adjusted by any locality-based comparability payment pursuant to section 5304 of such title for Federal employees stationed in the District of Columbia.
 
@@ -150,7 +150,7 @@ Except as provided in subsection (a)(1) of this section and subsections (c), (d)
 
 #### (C) Certification
 
-&emsp;&emsp;The Secretary shall require any person who applies for a waiver under paragraph (1)(E) to certify their qualification for the waiver. The Secretary shall periodically publish in the Federal Register a list of persons making such certifications.
+&emsp;&emsp;The Secretary shall require any person who applies for a waiver under paragraph\(1)(E) to certify their qualification for the waiver. The Secretary shall periodically publish in the Federal Register a list of persons making such certifications.
 
 #### (e) Effect of failure to pay fees
 
@@ -214,7 +214,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 #### (h) Collection of unpaid fees
 
-In any case where the Secretary does not receive payment of a fee assessed under subsection (a) of this section within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
+In any case where the Secretary does not receive payment of a fee assessed under subsection\(a) of this section within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
 #### (i) Written requests for waivers, reductions, and refunds
 
@@ -241,8 +241,4 @@ The Secretary shall—
 #### Termination Date
 
 Section not effective after Oct. 1, 2008, see section 5 of Pub. L. 108–130, set out as a note under section 379j–11 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 379j–11 of this title.
 

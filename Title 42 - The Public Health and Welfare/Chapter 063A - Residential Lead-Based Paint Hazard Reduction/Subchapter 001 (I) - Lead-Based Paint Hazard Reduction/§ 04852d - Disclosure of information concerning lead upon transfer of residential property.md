@@ -56,7 +56,7 @@
 
 #### (5) Prohibited act
 
-&emsp;It shall be a prohibited act under section 409 of the Toxic Substances Control Act \[15 U.S.C. 2689\] for any person to fail or refuse to comply with a provision of this section or with any rule or order issued under this section. For purposes of enforcing this section under theToxic Substances Control Act \[15 U.S.C. 2601 et seq.\], the penalty for each violation applicable under section 16 of that Act \[15 U.S.C. 2615\] shall not be more than $10,000.
+&emsp;It shall be a prohibited act under section 409 of the Toxic Substances Control Act \[15 U.S.C. 2689\] for any person to fail or refuse to comply with a provision of this section or with any rule or order issued under this section. For purposes of enforcing this section under the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\], the penalty for each violation applicable under section 16 of that Act \[15 U.S.C. 2615\] shall not be more than $10,000.
 
 #### (c) Validity of contracts and liens
 
@@ -71,8 +71,4 @@ The regulations under this section shall take effect 3 years after October 28, 1
 #### References in Text
 
 The Toxic Substances Control Act, referred to in subsec. (b)(5), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4856 of this title; title 15 section 2686.
 

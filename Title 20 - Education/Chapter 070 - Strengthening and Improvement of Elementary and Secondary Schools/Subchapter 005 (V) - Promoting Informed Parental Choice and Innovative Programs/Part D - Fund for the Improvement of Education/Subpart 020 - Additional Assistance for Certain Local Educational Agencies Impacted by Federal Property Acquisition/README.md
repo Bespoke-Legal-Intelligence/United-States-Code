@@ -1,9 +1,5 @@
 subpart 20—additional assistance for certain local educational agencies impacted by federal property acquisition
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 7283 of this title.
-
 
 ---
 

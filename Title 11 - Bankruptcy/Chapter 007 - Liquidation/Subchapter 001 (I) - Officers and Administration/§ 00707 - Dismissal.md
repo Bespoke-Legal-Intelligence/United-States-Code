@@ -10,7 +10,7 @@
 
 (b) After notice and a hearing, the court, on its own motion or on a motion by the United States trustee, but not at the request or suggestion of any party in interest, may dismiss a case filed by an individual debtor under this chapter whose debts are primarily consumer debts if it finds that the granting of relief would be a substantial abuse of the provisions of this chapter. There shall be a presumption in favor of granting the relief requested by the debtor. In making a determination whether to dismiss a case under this section, the court may not take into consideration whether a debtor has made, or continues to make, charitable contributions (that meet the definition of “charitable contribution” under section 548(d)(3)) to any qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§312, 475, July 10, 1984, 98 Stat.355, 381; Pub. L. 99–554, title II, §219, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 105–183, §4(b), June 19, 1998, 112 Stat. 518.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §219, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 105–183, §4(b), June 19, 1998, 112 Stat. 518.)
 
 #### Historical and Revision Notes
 

@@ -28,13 +28,13 @@ There are excepted from the transfer made by subsection (a) hereof—
 
 &emsp;(x) all submerged lands within the Virgin Islands National Park established by sections 398 to 398b of title 16, including the lands described in sections 398c and 398d of title 16; and
 
-&emsp;(xi) all submerged lands within the Buck Island Reef National Monument as described in Presidential Proclamation 3448 dated December 28, 1961.
+&emsp;(xi) all submerged lands within the Buck Island Reef National Monument as described inPresidential Proclamation 3448 dated December 28, 1961.
 
 > Upon request of the Governor of Guam, the Virgin Islands, or American Samoa, the Secretary of the Interior may, with or without reimbursement, and subject to the procedure specified in subsection (c) of this section convey all right, title, and interest of the United States in any of the lands described in clauses (ii), (iii), (iv), (v), (vi), (vii), or (viii) of this subsection to the government of Guam, the Virgin Islands, or American Samoa, as the case may be, with the concurrence of the agency having custody thereof.
 
 #### (c) Submittal to Congressional committees of proposals for conveyance of retained lands or rights
 
-No conveyance shall be made by the Secretary pursuant to subsection (a) or (b) of this section until the expiration of sixty calendar days (excluding days on which the House of Representatives or the Senate is not in session because of an adjournment of more than three days to a day certain) from the date on which the Secretary of the Interior submits to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an explanatorystatement indicating the tract proposed to be conveyed and the need therefor, unless prior to the expiration of such sixty calendar days both committees inform the Secretary that they wish to take no action with respect to the proposed conveyance.
+No conveyance shall be made by the Secretary pursuant to subsection (a) or (b) of this section until the expiration of sixty calendar days (excluding days on which the House of Representatives or the Senate is not in session because of an adjournment of more than three days to a day certain) from the date on which the Secretary of the Interior submits to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an explanatory statement indicating the tract proposed to be conveyed and the need therefor, unless prior to the expiration of such sixty calendar days both committees inform the Secretary that they wish to take no action with respect to the proposed conveyance.
 
 #### (d) Oil, gas, and other mineral deposits in submerged lands conveyed to Guam, Virgin Islands, and American Samoa; conveyance by United States; existing leases, permits, etc.
 
@@ -97,8 +97,4 @@ NOW, THEREFORE, I GERALD R. FORD, President of the United States of America, by 
 IN WITNESS WHEREOF, I have hereunto set my hand this first day of February, in the year of our Lord nineteen hundred seventy-five, and of the Independence of the United States of America the one hundred and ninety-ninth.
 
 Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1545, 1706, 1707, 1708 of this title; title 16 section 1453; title 43 section 2102.
 

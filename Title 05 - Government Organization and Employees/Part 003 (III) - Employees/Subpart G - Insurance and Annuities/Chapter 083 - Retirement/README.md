@@ -60,10 +60,6 @@
 
 1986—Pub. L. 99–335, title II, §§201(b)(2), 204(b)(1), 205(b), 206(a)(2), June 6, 1986, 100 Stat. 591–594, added items 8343a, 8349, 8350, and 8351.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3374, 5304, 5362, 8432c, 8468, 8473, 9902 of this title; title 2 section 60c–5; title 7 section 7657; title 15 section 4105; title 22 sections 2391, 3649, 3664, 3681, 3951, 4064, 4071c, 4606, 7002; title 24 section 225e; title 25 section 450i; title 26 section 6103; title 28 sections 178, 375, 611, 627, 996; title 31 section 732a; title 37 section 211; title 38 sections 7257, 7438, 7453, 7458; title 39 section 1005; title 42 sections 426, 2996d, 3020e–1, 10704; title 49 section 40122; title 50 sections 403r, 403s, 409a, 2442.
-
 
 ---
 

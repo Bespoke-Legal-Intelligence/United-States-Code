@@ -52,7 +52,3 @@ Subsec. (d). Pub. L. 106–246, §2403(a)(1)(B), added subsec. (d).
 
 1998—Subsec. (a). Pub. L. 105–277 substituted “adjusted” for “expected” before “levels of performance for title II”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2321, 9211 of this title; title 29 sections 2801, 2821, 2871, 2919.
-

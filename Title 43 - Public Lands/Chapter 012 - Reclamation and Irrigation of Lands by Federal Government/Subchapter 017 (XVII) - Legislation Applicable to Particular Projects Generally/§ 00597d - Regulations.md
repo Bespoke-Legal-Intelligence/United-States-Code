@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to perform any and all acts and to p
 
 (Mar. 14, 1940, ch. 51, §4, 54 Stat. 49.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 597c of this title.
-

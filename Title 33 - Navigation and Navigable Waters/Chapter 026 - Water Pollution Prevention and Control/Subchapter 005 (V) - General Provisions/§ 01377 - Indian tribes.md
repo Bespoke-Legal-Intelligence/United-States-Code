@@ -36,7 +36,7 @@ The Administrator shall make grants to an Indian tribe under section 1329 of thi
 
 No provision of this chapter shall be construed to—
 
-&emsp;(1) grant, enlarge, or diminish, or in any way affect the scope of the governmental authority, if any, of any Alaska Native organization,including any federally-recognized tribe, traditional Alaska Native council, or Native council organized pursuant to the Act of June 18, 1934 (48 Stat. 987), over lands or persons in Alaska;
+&emsp;(1) grant, enlarge, or diminish, or in any way affect the scope of the governmental authority, if any, of any Alaska Native organization, including any federally-recognized tribe, traditional Alaska Native council, or Native council organized pursuant to the Act of June 18,1934 (48 Stat. 987), over lands or persons in Alaska;
 
 &emsp;(2) create or validate any assertion by such organization or any form of governmental authority over lands or persons in Alaska; or
 
@@ -70,9 +70,13 @@ A prior section 518 of act June 30, 1948, was renumbered section 519 and is set 
 
 #### Grants to Indian Tribes
 
-Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 512, provided in part: “That for fiscal year 2003, and notwithstanding section 518(f) of the Act \[Federal Water Pollution Control Act, 33 U.S.C. 1377(f)\], the Administrator is authorized to use the amounts appropriated for any fiscal year under section 319 of that Act \[33 U.S.C. 1329\] to make grants to Indian tribes pursuant to sections 319(h) and 518(e) of that Act”.
+Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3330, provided in part: “That for fiscal year 2005, and notwithstanding section 518(f) of the Act \[Federal Water Pollution Control Act, 33 U.S.C. 1377(f)\], the Administrator is authorized to use the amounts appropriated for any fiscal year under section 319 of that Act \[33 U.S.C. 1329\] to make grants to Indian tribes pursuant to sections 319(h) and 518(e) of that Act”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–199, div. G, title III, Jan. 23, 2004, 118 Stat. 406.
+
+Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 512.
 
 Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 685.
 

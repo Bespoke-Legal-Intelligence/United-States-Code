@@ -10,7 +10,7 @@ The Secretary of the Treasury shall make payments on account of awards certified
 
 &emsp;(3) Payment in the amount of $1,000 on account of the principal of each award of more than $1,000 in amount made pursuant to section 1641b, 1641c, or 1641d(a)(2) of this title;
 
-&emsp;(4) After completing the payments under the preceding paragraphs of this subsection from any one fund, payments from time to time, in ratable proportions, on account of the then unpaid principal of all awards in the principal amount of more than $1,000, according to the proportions which the unpaid principal of such awards bear to the total amount in the fund available for distribution on account of such awards at the time such payments are made;
+&emsp;(4) After completing the payments under the preceding paragraphs of this subsection from any one fund, payments from time to time, inratable proportions, on account of the then unpaid principal of all awards in the principal amount of more than $1,000, according to the proportions which the unpaid principal of such awards bear to the total amount in the fund available for distribution on account of such awards at the time such payments are made;
 
 &emsp;(5) After payment has been made in full of the principal amounts of all awards from any one fund, pro rata payments from the remainder of such fund then available for distribution on account of accrued interest on such awards as bear interest;
 
@@ -45,10 +45,6 @@ With respect to any claim which, at the time of the award, is vested in persons 
 1974—Subsec. (a)(7). Pub. L. 93–460 added par. (7).
 
 1968—Subsec. (a)(6). Pub. L. 90–421 added par. (6).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1641a, 1641c of this title; title 50 App. section 2017<i>l.</i>
 
 <i><sup>1</sup></i><i> So in original. Probably should be “claim”.</i>
 

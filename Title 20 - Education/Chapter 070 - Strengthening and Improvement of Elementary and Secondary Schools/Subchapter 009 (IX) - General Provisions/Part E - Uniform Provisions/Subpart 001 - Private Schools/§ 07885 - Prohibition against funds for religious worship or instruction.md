@@ -4,7 +4,3 @@ Nothing contained in this chapter shall be construed to authorize the making of 
 
 (Pub. L. 89–10, title IX, §9505, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1979.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7861 of this title.
-

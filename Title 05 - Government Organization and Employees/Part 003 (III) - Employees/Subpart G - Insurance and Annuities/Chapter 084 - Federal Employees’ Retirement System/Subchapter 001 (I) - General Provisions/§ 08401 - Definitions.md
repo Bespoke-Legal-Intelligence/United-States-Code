@@ -80,11 +80,11 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(i) are primarily—
 
-&emsp;&emsp;&emsp;&emsp;(I) the investigation, apprehension, or detention of individuals suspected orconvicted of offenses against the criminal laws of the United States, or
+&emsp;&emsp;&emsp;&emsp;(I) the investigation, apprehension, or detention of individuals suspected or convicted of offenses against the criminal laws of the United States, or
 
 &emsp;&emsp;&emsp;&emsp;(II) the protection of officials of the United States against threats to personal safety; and
 
-&emsp;&emsp;&emsp;(ii) are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the Director considering the recommendations of the employing agency;
+&emsp;&emsp;&emsp;(ii) are sufficiently rigorous that employment opportunities should be limitedto young and physically vigorous individuals, as determined by the Director considering the recommendations of the employing agency;
 
 &emsp;&emsp;(B) an employee of the Department of the Interior or the Department of the Treasury (excluding any employee under subparagraph (A)) who occupies a position that, but for the enactment of the Federal Employees’ Retirement System Act of 1986, would be subject to the District of Columbia Police and Firefighters’ Retirement System, as determined by the Secretary of the Interior or the Secretary of the Treasury, as appropriate;
 
@@ -230,7 +230,7 @@ Par. (32). Pub. L. 101–335 added par. (32).
 
 1988—Par. (11)(A). Pub. L. 100–679 substituted “(J), or (K)” for “or (J)”.
 
-Par. (11)(i)(II). Pub. L. 100–238, §103(d)(2), struck out “(other than an employee of the United States Park Police, or the United States Secret Service, whose civilian service after December 31, 1983, is such employment)”.
+Par. (11)(i)(II). Pub. L. 100–238, §103(d)(2), struck out “(other than an employee of the United States ParkPolice, or the United States Secret Service, whose civilian service after December 31, 1983, is such employment)”.
 
 Par. (11)(iii). Pub. L. 100–238, §113(b)(1), added cl. (iii).
 
@@ -320,7 +320,7 @@ Exceptions.—(1) Subchapter VII of chapter 84 of title 5, United States Code, a
 
 “(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
 
-“(3) The amendments made by sections 204 and 205 of this Act \[enacting sections 8343a and 8350 of this title and amending section 8342 of this title\] shall take effect on the date of the enactment of this Act.
+“(3) The amendments made by sections 204 and 205 of this Act \[enacting sections 8343a and 8350 of this titleand amending section 8342 of this title\] shall take effect on the date of the enactment of this Act.
 
 “(4) Section 701 of this Act \[enacting provisions set out as a note under section 8472 of this title\] shall take effect on the date of the enactment of this Act.
 
@@ -407,10 +407,6 @@ Section 702(c) of Pub. L. 99–335 provided that:
 “(1) For purposes of the first adjustment under subsection (b) of section 8462 of title 5, United States Code (as added by section 101 of this Act), the base quarter ending on September 30, 1986, shall be considered to have been the base quarter for a year in which an adjustment under such subsection was made.
 
 “(2) As used in paragraph (1), the term ‘base quarter’ has the meaning provided by section 8462(a)(1) of title 5, United States Code (as added by section 101 of this Act).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3307, 3323, 3329, 5541, 6323, 7371, 8331, 8351, 8411, 8425, 8440e, 8477, 8704 of this title; title 10 sections 2467, 10217; title 22 section 4046; title 38 sections 7296, 7426, 7438; title 50 sections 2152, 2154.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

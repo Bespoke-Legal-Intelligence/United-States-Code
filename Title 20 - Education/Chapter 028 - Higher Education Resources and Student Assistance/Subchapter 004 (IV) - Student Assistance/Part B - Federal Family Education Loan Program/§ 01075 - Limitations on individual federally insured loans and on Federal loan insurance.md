@@ -28,7 +28,7 @@
 
 &emsp;(B) The annual insurable limits contained in subparagraph (A) shall not apply in cases where the Secretary determines, pursuant to regulations, that a higher amount is warranted in order to carry out the purpose of this part with respect to students engaged in specialized training requiring exceptionally high costs of education. The annual insurable limit per student shall not be deemed to be exceeded by a line of credit under which actual payments by the lender to the borrower will not be made in any year in excess of the annual limit.
 
-&emsp;(C) For the purpose of subparagraph (A), the number of years that a student has completed in a program of undergraduate education shall include any prior enrollment in an eligible program of undergraduate education for which the student was awarded an associate or baccalaureate degree, if such degree is required by the institution for admission to the program in which the student is enrolled.
+&emsp;(C) For the purpose of subparagraph (A), the number of years that a student has completed in a program of undergraduate education shallinclude any prior enrollment in an eligible program of undergraduate education for which the student was awarded an associate or baccalaureate degree, if such degree is required by the institution for admission to the program in which the student is enrolled.
 
 #### (2) Aggregate limits
 
@@ -84,7 +84,7 @@
 
 #### References in Text
 
-Section 1078–1 of this title, referred to in subsec. (a)(2)(A), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
+Section 1078–1 of this title, referred to in subsec. (a)(2)(A), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexibleagreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 #### Prior Provisions
 
@@ -161,10 +161,6 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 #### Effective Date
 
 Section effective Oct. 17, 1986, except that subsec. (a) of this section applicable only to loans disbursed on or after Jan. 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after Jan. 1, 1987, see section 402(b) of Pub. L. 99–498, set out as a note under section 1071 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1080, 1094 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -31,20 +31,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER III—SPECIAL PAY FOR PHYSICIANS AND DENTISTS
+#### SUBCHAPTER III—PAY FOR PHYSICIANS AND DENTISTS
 
 |  |  |
 | :--- | ---: |
-| [7431\.](Subchapter%20003%20%28III%29%20-%20Special%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007431%20-%20Special%20pay%20authority.md) | Special pay: authority. |
-| [7432\.](Subchapter%20003%20%28III%29%20-%20Special%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007432%20-%20Special%20pay%20written%20agreements.md) | Special pay: written agreements. |
-| [7433\.](Subchapter%20003%20%28III%29%20-%20Special%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007433%20-%20Special%20pay%20full-time%20physicians.md) | Special pay: full-time physicians. |
-| [7434\.](Subchapter%20003%20%28III%29%20-%20Special%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007434%20-%20Special%20pay%20part-time%20physicians.md) | Special pay: part-time physicians. |
-| [7435\.](Subchapter%20003%20%28III%29%20-%20Special%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007435%20-%20Special%20pay%20full-time%20dentists.md) | Special pay: full-time dentists. |
-| [7436\.](Subchapter%20003%20%28III%29%20-%20Special%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007436%20-%20Special%20pay%20part-time%20dentists.md) | Special pay: part-time dentists. |
-| [7437\.](Subchapter%20003%20%28III%29%20-%20Special%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007437%20-%20Special%20pay%20general%20provisions.md) | Special pay: general provisions. |
-| [7438\.](Subchapter%20003%20%28III%29%20-%20Special%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007438%20-%20Special%20pay%20coordination%20with%20other%20benefits%20laws.md) | Special pay: coordination with other benefits laws. |
-| [7439\.](Subchapter%20003%20%28III%29%20-%20Special%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007439%20-%20Periodic%20review%20of%20pay%20of%20physicians%20and%20dentists%3B%20quadrennial%20report.md) | Periodic review of pay of physicians and dentists; quadrennial report. |
-| [7440\.](Subchapter%20003%20%28III%29%20-%20Special%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007440%20-%20Annual%20report.md) | Annual report. |
+| [7431\.](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007431%20-%20Pay.md) | Pay. |
+| [7432\.](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007432%20-%20Pay%20of%20Under%20Secretary%20for%20Health.md) | Pay of Under Secretary for Health. |
+| [7433\.](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%20and%20Dentists/%C2%A7%2007433%20-%20Administrative%20matters.md) | Administrative matters. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -58,6 +51,7 @@
 | [7454\.](Subchapter%20004%20%28IV%29%20-%20Pay%20for%20Nurses%20and%20Other%20Health-Care%20Personnel/%C2%A7%2007454%20-%20Physician%20assistants%20and%20other%20health%20care%20professionals%20additional%20pay.md) | Physician assistants and other health care professionals: additional pay. |
 | [7455\.](Subchapter%20004%20%28IV%29%20-%20Pay%20for%20Nurses%20and%20Other%20Health-Care%20Personnel/%C2%A7%2007455%20-%20Increases%20in%20rates%20of%20basic%20pay.md) | Increases in rates of basic pay. |
 | [7456\.](Subchapter%20004%20%28IV%29%20-%20Pay%20for%20Nurses%20and%20Other%20Health-Care%20Personnel/%C2%A7%2007456%20-%20Nurses%20special%20rules%20for%20weekend%20duty.md) | Nurses: special rules for weekend duty. |
+| [7456A.](Subchapter%20004%20%28IV%29%20-%20Pay%20for%20Nurses%20and%20Other%20Health-Care%20Personnel/%C2%A7%2007456A%20-%20Nurses%20alternate%20work%20schedules.md) | Nurses: alternate work schedules. |
 | [7457\.](Subchapter%20004%20%28IV%29%20-%20Pay%20for%20Nurses%20and%20Other%20Health-Care%20Personnel/%C2%A7%2007457%20-%20On-call%20pay.md) | On-call pay. |
 | [7458\.](Subchapter%20004%20%28IV%29%20-%20Pay%20for%20Nurses%20and%20Other%20Health-Care%20Personnel/%C2%A7%2007458%20-%20Recruitment%20and%20retention%20bonus%20pay.md) | Recruitment and retention bonus pay. |
 
@@ -87,11 +81,9 @@
 
 #### Amendments
 
+2004—Pub. L. 108–445, §§3(g), 4(a)(2), Dec. 3, 2004, 118 Stat. 2643, 2645, substituted “PAY FOR PHYSICIANS AND DENTISTS” for “SPECIAL PAY FOR PHYSICIANS AND DENTISTS” in item for subchapter III, “Pay” for “Special pay: authority” in item 7431, “Pay of Under Secretary for Health” for “Special pay: written agreements” in item 7432, “Administrative matters” for “Special pay: full-time physicians” in item 7433, struck out items 7434 “Special pay: part-time physicians”, 7435 “Special pay: full-time dentists”, 7436 “Special pay: part-time dentists”, 7437 “Special pay: general provisions”, 7438 “Special pay: coordination with other benefits laws”, 7439 “Periodic review of pay of physicians and dentists; quadrennial report”, and 7440 “Annual report”, and added item 7456A.
+
 1991—Pub. L. 102–40, title I, §§102, 103(a)(2), title II, §203(b), title IV, §401(b)(1), May 7, 1991, 105 Stat. 187, 199, 207, 221, added chapter heading and analysis.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 5 sections 2105, 5302, 5371; title 42 section 282.
 
 
 ---
@@ -100,7 +92,7 @@ This chapter is referred to in title 5 sections 2105, 5302, 5371; title 42 secti
 
 - [Subchapter 001 (I) - Appointments](Subchapter%20001%20%28I%29%20-%20Appointments/README.md)
 - [Subchapter 002 (II) - Collective Bargaining and Personnel Administration](Subchapter%20002%20%28II%29%20-%20Collective%20Bargaining%20and%20Personnel%20Administration/README.md)
-- [Subchapter 003 (III) - Special Pay for Physicians and Dentists](Subchapter%20003%20%28III%29%20-%20Special%20Pay%20for%20Physicians%20and%20Dentists/README.md)
+- [Subchapter 003 (III) - Pay for Physicians and Dentists](Subchapter%20003%20%28III%29%20-%20Pay%20for%20Physicians%20and%20Dentists/README.md)
 - [Subchapter 004 (IV) - Pay for Nurses and Other Health-Care Personnel](Subchapter%20004%20%28IV%29%20-%20Pay%20for%20Nurses%20and%20Other%20Health-Care%20Personnel/README.md)
 - [Subchapter 005 (V) - Disciplinary and Grievance Procedures](Subchapter%20005%20%28V%29%20-%20Disciplinary%20and%20Grievance%20Procedures/README.md)
 - [Subchapter 006 (VI) - Regional Medical Education Centers](Subchapter%20006%20%28VI%29%20-%20Regional%20Medical%20Education%20Centers/README.md)

@@ -10,7 +10,3 @@ To be entitled to a hearing under section 6997 of this title, a participant shal
 
 (Pub. L. 103–354, title II, §276, Oct. 13, 1994, 108 Stat. 3230.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6997 of this title.
-

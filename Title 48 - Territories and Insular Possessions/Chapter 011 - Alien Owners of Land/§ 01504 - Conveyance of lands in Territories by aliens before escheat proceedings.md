@@ -8,7 +8,3 @@ Any alien who shall hold lands in any of the Territories of the United States in
 
 Section was formerly classified to section 74 of Title 8, Aliens and Nationality.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1503 of this title.
-

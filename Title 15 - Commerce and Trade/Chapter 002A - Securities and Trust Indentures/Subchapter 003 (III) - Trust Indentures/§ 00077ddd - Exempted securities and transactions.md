@@ -42,7 +42,7 @@ The Commission shall, on application by the issuer and after opportunity for hea
 
 #### (d) Exemptions in public interest
 
-The Commission may, by rules or regulations upon its own motion, or by order on application by an interested person, exempt conditionally or unconditionally any person, registration statement, indenture, security or transaction, or any class or classes of persons, registration statements, indentures, securities, or transactions, from any one or more of the provisions of this subchapter, if and to the extent that such exemption is necessary or appropriate in the public interest and consistent with the protectionof investors and the purposes fairly intended by this subchapter. The Commission shall by rules and regulations determine the procedures under which an exemption under this subsection shall be granted, and may, in its sole discretion, decline to entertain any application for an order of exemption under this subsection.
+The Commission may, by rules or regulations upon its own motion, or by order on application by an interested person, exempt conditionally or unconditionally any person, registration statement, indenture, security or transaction, or any class or classes of persons, registration statements, indentures, securities, or transactions, from any one or more of the provisions of this subchapter, if and to the extent that such exemption is necessary or appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by this subchapter. The Commission shall by rules and regulations determine the procedures under which an exemption under this subsection shall be granted, and may, in its sole discretion, decline to entertain any application for an order of exemption under this subsection.
 
 #### (e) Securities issued by small investment company
 
@@ -97,10 +97,6 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77eee, 77fff, 77ggg of this title; title 12 section 2290.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,7 +14,7 @@ As used in this chapter, the term—
 
 &emsp;(6) “environmentally sound” methods, efforts, actions or programs means methods, efforts, actions or programs to prevent introductions or control infestations of aquatic nuisance species that minimize adverse impacts to the structure and function of an ecosystem and adverse effects on non-target organisms and ecosystems and emphasize integrated pest management techniques and nonchemical measures;
 
-&emsp;(7) “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron (including Lake St.Clair), Lake Michigan, Lake Superior, and the connecting channels (Saint Mary's River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canandian <sup>1</sup> Border), and includes all other bodies of water within the drainage basin of such lakes and connecting channels.
+&emsp;(7) “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron (including Lake St. Clair), Lake Michigan, Lake Superior, and the connecting channels (Saint Mary's River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canandian <sup>1</sup> Border), and includes all other bodies of water within the drainage basin of such lakes and connecting channels.
 
 &emsp;(8) “Great Lakes region” means the 8 States that border on the Great Lakes;
 

@@ -8,7 +8,7 @@ A Government authority may obtain financial records under section 3402(2) of thi
 
 &emsp;“Records or information concerning your transactions held by the financial institution named in the attached subpena or summons are being sought by this (agency or department) in accordance with the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] for the following purpose: If you desire that such records or information not be made available, you must:
 
-&emsp;&emsp;“1. Fill out the accompanying motion paper and sworn statement or write one of your own, stating that you are the customer whose records are being requested by theGovernment and either giving the reasons you believe that the records are not relevant to the legitimate law enforcement inquiry stated in this notice or any other legal basis for objecting to the release of the records.
+&emsp;&emsp;“1. Fill out the accompanying motion paper and sworn statement or write one of your own, stating that you are the customer whose records are being requested by the Government and either giving the reasons you believe that the records are not relevant to the legitimate law enforcement inquiry stated in this notice or any other legal basis for objecting to the release of the records.
 
 &emsp;&emsp;“2. File the motion and statement by mailing or delivering them to the clerk of any one of the following United States district courts:
 
@@ -29,8 +29,4 @@ A Government authority may obtain financial records under section 3402(2) of thi
 #### References in Text
 
 The Right to Financial Privacy Act of 1978, referred to in par. (2), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3402, 3409, 3411 of this title; title 15 section 78u.
 

@@ -30,7 +30,7 @@ Risk Analysis and Integrity Management Programs.—
 
 &emsp;(1)
 
-Requirement.—Each operator of a gas pipeline facility shall conduct an analysis of the risks to each facility of the operator located in an area identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including anysubsequent modifications, and shall adopt and implement a written integrity management program for such facility to reduce the risks.
+Requirement.—Each operator of a gas pipeline facility shall conduct an analysis of the risks to each facility of the operator located in an area identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, and shall adopt and implement a written integrity management program for such facility to reduce the risks.
 
 &emsp;(2)
 
@@ -114,7 +114,7 @@ Review of programs.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The Secretary shall review a risk analysis and integrity management program under paragraph (1) and record the results of that review for use in the next review of an operator's program.
+In general.—The Secretary shall review a risk analysis and integrity management program under paragraph (1) andrecord the results of that review for use in the next review of an operator's program.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -229,8 +229,4 @@ Study.—The Comptroller General shall conduct a study to evaluate the 7-year re
 “(2)
 
 Report.—Not later than 4 years after the date of the enactment of this Act \[Dec. 17, 2002\], the Comptroller General shall transmit to Congress a report on the results of the study conducted under paragraph (1).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 60102, 60118 of this title.
 

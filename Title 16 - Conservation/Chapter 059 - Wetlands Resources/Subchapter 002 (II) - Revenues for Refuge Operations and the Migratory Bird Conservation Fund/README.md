@@ -1,9 +1,11 @@
 ### SUBCHAPTER II—REVENUES FOR REFUGE OPERATIONS AND THE MIGRATORY BIRD CONSERVATION FUND
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03911 - Sale of admission permit at certain refuge units](%C2%A7%2003911%20-%20Sale%20of%20admission%20permit%20at%20certain%20refuge%20units.md)
+- [&sect; 03911 - Repealed. Pub. L. 108&#8211;447, div. J, title VIII, &sect;813(c), Dec. 8, 2004, 118 Stat. 3390](%C2%A7%2003911%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93447%2C%20div.%20J%2C%20title%20VIII%2C%20%C2%A7813%28c%29%2C%20Dec.%208%2C%202004%2C%20118%20Stat.%203390.md)
 - [&sect; 03912 - Transfers to migratory bird conservation fund](%C2%A7%2003912%20-%20Transfers%20to%20migratory%20bird%20conservation%20fund.md)

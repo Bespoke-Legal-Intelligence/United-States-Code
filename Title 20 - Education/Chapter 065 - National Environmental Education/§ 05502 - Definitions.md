@@ -16,7 +16,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(7) “noncommercial education broadcasting entities” means any noncommercial educational broadcasting station (and/or its legal nonprofit affiliates) as defined and licensed by the Federal Communications Commission;
 
-&emsp;(8) “tribal education agency” means a school or community college which is controlled by an Indian tribe, band, or nation, including any Alaska Native village, which is recognized as eligible for special programs and services provided by the United States to Indians because of their status as Indians and which is not administered by the Bureau of Indian Affairs;
+&emsp;(8) “tribal education agency” means a school or community college which is controlled byan Indian tribe, band, or nation, including any Alaska Native village, which is recognized as eligible for special programs and services provided by the United States to Indians because of their status as Indians and which is not administered by the Bureau of Indian Affairs;
 
 &emsp;(9) “Federal natural resource management agencies” means the United States Forest Service, the Bureau of Land Management, the National Park Service, and the Fish and Wildlife Service;
 
@@ -39,10 +39,6 @@ For the purposes of this chapter, the term—
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5509 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “ ‘not-for-profit organization’ ”.</i>
 

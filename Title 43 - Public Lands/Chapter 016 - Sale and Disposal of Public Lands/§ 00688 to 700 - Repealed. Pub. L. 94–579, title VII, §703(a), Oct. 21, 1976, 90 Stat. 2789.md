@@ -18,7 +18,7 @@ Section 695, R.S. §2371, related to applicability of sections 693 and 694 of th
 
 Section 696, R.S. §2374, prohibited agreements to pay premiums to purchasers of public lands.
 
-Section 697, R.S. §2372; acts Feb. 24, 1909, ch. 181, 35 Stat. 645; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; May 21, 1926, ch. 353, 44 Stat. 591; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to errors in entry, selection or location of public lands.
+Section 697, R.S. §2372; acts Feb. 24, 1909, ch. 181, 35 Stat. 645; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; May 21, 1926, ch. 353, 44 Stat. 591; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11F.R. 7876, 60 Stat. 1100, related to errors in entry, selection or location of public lands.
 
 Section 698, R.S. §2375, authorized recovery of premiums paid under section 696 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—EMPLOYEES GENERALLY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3373, 8521 of this title; title 39 section 1005.
-
 
 ---
 

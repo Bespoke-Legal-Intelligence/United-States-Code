@@ -20,7 +20,3 @@ Section was enacted as part of the National Aeronautics and Space Administration
 
 Section applicable to flights of the Space Transportation System beginning on and after Oct. 1, 1988, see section 205 of Pub. L. 99–170, set out as a note under section 2466 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2466b, 2466c of this title.
-

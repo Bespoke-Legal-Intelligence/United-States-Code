@@ -8,7 +8,3 @@ Notwithstanding any other provision of law, the Secretary of Health and Human Se
 
 “Secretary of Health and Human Services” and “Department of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” and “Department of Health, Education, and Welfare”, respectively, pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3477 of this title.
-

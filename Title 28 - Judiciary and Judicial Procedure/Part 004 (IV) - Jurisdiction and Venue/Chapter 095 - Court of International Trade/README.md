@@ -24,10 +24,6 @@
 
 See Appendix to this title.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 1337 of this title.
-
 
 ---
 

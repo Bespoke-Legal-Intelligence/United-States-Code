@@ -42,7 +42,3 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1574 of this title; title 6 section 271.
-

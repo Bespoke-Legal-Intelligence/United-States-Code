@@ -33,7 +33,7 @@
 | [78e.](%C2%A7%2000078e%20-%20Transactions%20on%20unregistered%20exchanges.md) | Transactions on unregistered exchanges. |
 | [78f.](%C2%A7%2000078f%20-%20National%20securities%20exchanges.md) | National securities exchanges. |
 | (a) | Registration; application. |
-| (b) | Determinations by Commission requisite to registration of applicant as a national securities exchange. |
+| (b) | Determination by Commission requisite to registration of applicant as a national securities exchange. |
 | (c) | Denial of membership in national exchanges; denial of association with member; conditions; limitation of membership. |
 | (d) | Discipline of national securities exchange members and persons associated with members; summary proceedings. |
 | (e) | Commissions, allowances, discounts, and other fees. |
@@ -164,6 +164,7 @@
 | (e) | Membership in national securities exchange; exemptions. |
 | (f) | Large position reporting. |
 | (g) | Effect on other laws; authority of Commission. |
+| (h) | Emergency authority. |
 | 78<i>o</i>–6. | Securities analysts and research reports. |
 | (a) | Analyst protections. |
 | (b) | Disclosure. |
@@ -360,12 +361,12 @@
 | [78mm.](%C2%A7%2000078mm%20-%20General%20exemptive%20authority.md) | General exemptive authority. |
 | (a) | Authority. |
 | (b) | Limitation. |
+| [78nn.](%C2%A7%2000078nn%20-%20Tennessee%20Valley%20Authority.md) | Tennessee Valley Authority. |
+| (a) | In general. |
+| (b) | Limited treatment as issuer. |
+| (c) | No effect on TVA authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 77ccc, 77hhh, 77www, 77zzz, 78bbb, 78eee, 79p, 79t, 79u, 80a–2, 80a–8, 80a–9, 80a–12, 80a–17, 80a–29, 80a–34, 80a–37, 80a–49, 80a–56, 80b–2, 80b–3, 80b–4a, 80b–8, 631b, 1691c, 1693<i>o</i>, 6805, 7202, 7706 of this title; title 2 section 1602; title 7 sections 1a, 2, 6, 6m, 7a, 7a–1, 12a; title 11 section 741; title 12 sections 1831<i>o</i>, 1844, 2279aa–12, 3422, 4402, 4422; title 25 section 646; title 26 sections 162, 277; title 29 sections 432, 1343; title 31 section 5312; title 42 sections 2297h–2, 2297h–7; title 43 sections 1625, 1629b; title 45 section 1342; title 47 section 274.
 
 
 ---
@@ -437,3 +438,4 @@ This chapter is referred to in sections 77ccc, 77hhh, 77www, 77zzz, 78bbb, 78eee
 - [&sect; 00078kk - Authorization of appropriations](%C2%A7%2000078kk%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00078ll - Requirements for the EDGAR system](%C2%A7%2000078ll%20-%20Requirements%20for%20the%20EDGAR%20system.md)
 - [&sect; 00078mm - General exemptive authority](%C2%A7%2000078mm%20-%20General%20exemptive%20authority.md)
+- [&sect; 00078nn - Tennessee Valley Authority](%C2%A7%2000078nn%20-%20Tennessee%20Valley%20Authority.md)

@@ -46,7 +46,3 @@ The mail voter registration form developed under subsection (a)(2) of this secti
 
 Amendment by Pub. L. 107–252 effective upon appointment of all members of the Election Assistance Commission under section 15323 of this title, see section 15534(a) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1973gg–4, 1973gg–5, 15329, 15532 of this title.
-

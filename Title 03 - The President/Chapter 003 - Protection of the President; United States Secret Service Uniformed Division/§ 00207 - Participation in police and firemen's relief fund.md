@@ -20,9 +20,5 @@ Section 12 of the Act entitled “An Act making appropriations to provide for th
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 209 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by close quotation.</i>
 

@@ -20,3 +20,7 @@ Subsection (a) of this section shall be applied subject to the following limitat
 
 Provisions similar to this section are contained in section 854a–1 of this title.
 
+#### Delegation of Functions
+
+Functions of President under subsec. (b) of this section delegated to Secretary of Commerce by section 1(h)–(j) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
+

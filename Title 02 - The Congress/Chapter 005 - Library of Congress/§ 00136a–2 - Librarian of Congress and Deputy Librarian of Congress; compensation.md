@@ -10,7 +10,7 @@ Notwithstanding any other provision of law—
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–57 amended section generally. Prior to amendment, section read as follows:
+1999—Pub. L. 106–57 amended section generally. Prior to amendment, section read as follows:
 
 “(a) Subject to subsection (b) of this section and notwithstanding any other provision of law—
 
@@ -30,9 +30,9 @@ Pub. L. 98–63, title I, §904(c), July 30, 1983, 97 Stat. 337, provided that s
 
 #### Salary Increases
 
-<b>1987</b>—Salaries of Librarian and Deputy Librarian increased respectively to $89,500 and $82,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of this title.
+1987—Salaries of Librarian and Deputy Librarian increased respectively to $89,500 and $82,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of this title.
 
-<b>1977</b>—Salaries of Librarian and Deputy Librarian increased respectively to $50,000 and $47,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of this title.
+1977—Salaries of Librarian and Deputy Librarian increased respectively to $50,000 and $47,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of this title.
 
-<b>1969</b>—Salaries of Librarian and Deputy Librarian increased respectively to $38,000 and $36,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of this title.
+1969—Salaries of Librarian and Deputy Librarian increased respectively to $38,000 and $36,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of this title.
 

@@ -48,7 +48,3 @@ The Federal Rules of Evidence, referred to in subsec. (d), are set out in the Ap
 
 1986—Subsecs. (b) to (d). Pub. L. 99–562 added subsecs. (b) to (d) and struck out former subsec. (b) which read as follows: “A civil action under section 3730 of this title must be brought within 6 years from the date the violation is committed.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3733 of this title; title 15 sections 637, 657a; title 42 section 1395i.
-

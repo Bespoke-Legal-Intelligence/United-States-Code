@@ -50,7 +50,3 @@ Amendment by Pub. L. 95–479 effective Oct. 1, 1978, see section 401(a) of Pub.
 
 Amendment by Pub. L. 95–476 effective Oct. 18, 1978, see section 205(a) of Pub. L. 95–476, set out as a note under section 2303 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 113, 2303, 2304, 2307, 2308 of this title; title 50 App. section 461.
-

@@ -36,7 +36,3 @@ A State educational agency receiving a grant under this subpart shall use the gr
 
 (Pub. L. 89–10, title V, §5582, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1863.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7277, 7277b of this title.
-

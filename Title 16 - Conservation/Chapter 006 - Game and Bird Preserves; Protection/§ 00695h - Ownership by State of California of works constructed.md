@@ -4,7 +4,3 @@ Works constructed under the authorization of section 695e of this title, for the
 
 (Aug. 27, 1954, ch. 1012, §5, 68 Stat. 879.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 695g, 695i, 695j, 695j–1 of this title.
-

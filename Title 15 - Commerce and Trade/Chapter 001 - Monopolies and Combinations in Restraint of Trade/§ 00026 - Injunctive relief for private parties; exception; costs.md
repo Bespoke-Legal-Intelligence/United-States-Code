@@ -18,7 +18,3 @@ The antitrust laws, referred to in text, are defined in section 12 of this title
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4016, 4304 of this title; title 46 App. section 1706.
-

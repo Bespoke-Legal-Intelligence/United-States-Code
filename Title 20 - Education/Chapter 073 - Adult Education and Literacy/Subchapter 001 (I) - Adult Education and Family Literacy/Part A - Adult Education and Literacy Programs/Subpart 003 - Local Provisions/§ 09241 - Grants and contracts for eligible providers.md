@@ -60,7 +60,3 @@ In awarding grants or contracts under this section, the eligible agency shall co
 
 (Pub. L. 105–220, title II, §231, Aug. 7, 1998, 112 Stat. 1070.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9202, 9222, 9223, 9224, 9253 of this title.
-

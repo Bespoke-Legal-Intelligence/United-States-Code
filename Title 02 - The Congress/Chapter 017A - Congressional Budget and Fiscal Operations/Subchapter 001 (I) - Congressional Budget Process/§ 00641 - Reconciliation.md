@@ -84,7 +84,7 @@ It shall not be in order in the House of Representatives to consider any resolut
 
 #### (g) Limitation on changes to Social Security Act
 
-Notwithstanding any other provision of law, it shall not be in order in the Senate or the Houseof Representatives to consider any reconciliation bill or reconciliation resolution reported pursuant to a concurrent resolution on the budget agreed to under section 632 or 635 of this title, or a joint resolution pursuant to section 907d of this title, or any amendment thereto or conference report thereon, that contains recommendations with respect to the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[42 U.S.C. 401 et seq.\].
+Notwithstanding any other provision of law, it shall not be in order in the Senate or the House of Representatives to consider any reconciliation bill or reconciliation resolution reported pursuant to a concurrent resolution on the budget agreed to under section 632 or 635 of this title, or a joint resolution pursuant to section 907d of this title, or any amendment thereto or conference report thereon, that contains recommendations with respect to the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[42 U.S.C. 401 et seq.\].
 
 (Pub. L. 93–344, title III, §310, July 12, 1974, 88 Stat. 315; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1053; Pub. L. 101–508, title XIII, §§13112(a)(9), 13207(c), (d), 13210(2), Nov. 5, 1990, 104 Stat. 1388–608, 1388–618 to 1388–620; Pub. L. 105–33, title X, §10111, Aug. 5, 1997, 111 Stat. 685.)
 
@@ -98,19 +98,19 @@ Section was formerly classified to section 1331 of Title 31 prior to the general
 
 #### Amendments
 
-<b>1997</b>—Subsec. (c)(1)(A)(i). Pub. L. 105–33, §10111(1), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection, and”.
+1997—Subsec. (c)(1)(A)(i). Pub. L. 105–33, §10111(1), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection, and”.
 
 Subsec. (c)(1)(A)(ii). Pub. L. 105–33, §10111(2), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; and”.
 
-<b>1990</b>—Subsec. (a)(4). Pub. L. 101–508, §13207(d), inserted before period at end “(including a direction to achieve deficit reduction)”.
+1990—Subsec. (a)(4). Pub. L. 101–508, §13207(d), inserted before period at end “(including a direction to achieve deficit reduction)”.
 
 Subsec. (c). Pub. L. 101–508, §13207(c), designated existing provisions as par. (1), redesignated former par. (1) and subpars. (A) and (B) thereof as subpar. (A) and cls. (i) and (ii), respectively, redesignated former par. (2) as subpar. (B) of par. (1), and added par. (2).
 
-Subsec. (f). Pub. L. 101–508, §13210(2), struck out par. (1) heading “In general” and text which directed Congress to complete action on any reconciliation bill or reconciliation resolution reported under subsec. (b) of this section not later than June 15 of each year, and struck out the par. (2) designation and heading “Point of order in the House of Representatives”.
+Subsec. (f). Pub. L. 101–508, §13210(2), struck out par. (1) heading “In general” and text which directed Congress to complete action on any reconciliation bill orreconciliation resolution reported under subsec. (b) of this section not later than June 15 of each year, and struck out the par. (2) designation and heading “Point of order in the House of Representatives”.
 
 Subsec. (g). Pub. L. 101–508, §13112(a)(9), substituted “joint resolution pursuant” for “resolution pursuant” and “section 907d of this title” for “section 904(b) of this title”.
 
-<b>1985</b>—Pub. L. 99–177 substituted “Reconciliation” for “Second required concurrent resolution and reconciliation process” in section catchline.
+1985—Pub. L. 99–177 substituted “Reconciliation” for “Second required concurrent resolution and reconciliation process” in section catchline.
 
 Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, inserting provisions relating to new entitlement authority and credit authority, and deleting provision that any such concurrent resolution could be reported, and the report accompanying it could be filed, in either House notwithstanding that that House was not in session on the day on which such concurrent resolution is reported.
 
@@ -129,10 +129,6 @@ Subsec. (g). Pub. L. 99–177, in amending section generally, added subsec. (g).
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (d), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 632, 644, 907a, 907d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “than—”.</i>
 

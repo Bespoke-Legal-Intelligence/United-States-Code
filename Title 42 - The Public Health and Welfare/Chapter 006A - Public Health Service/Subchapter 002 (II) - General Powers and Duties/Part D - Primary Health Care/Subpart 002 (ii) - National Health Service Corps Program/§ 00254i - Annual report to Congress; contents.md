@@ -28,7 +28,3 @@ The Secretary shall submit an annual report to Congress, and shall include in su
 
 1982—Pub. L. 97–375 struck out “on May 1 of each year” after “report to Congress”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 254k, 11709 of this title.
-

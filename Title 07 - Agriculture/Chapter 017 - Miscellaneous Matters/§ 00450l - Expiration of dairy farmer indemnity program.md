@@ -46,7 +46,3 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 450k of this title.
-

@@ -1,9 +1,5 @@
 Part E—Projects of National Significance
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 14403, 15004, 15005 of this title.
-
 
 ---
 

@@ -26,7 +26,7 @@
 
 #### (i) Institutionalized individuals
 
-&emsp;&emsp;&emsp;In the case of an individual who is a full-benefit dual eligible individual and who is an institutionalized individual or couple (as defined in section 1396a(q)(1)(B) of this title), the elimination of any beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title).
+&emsp;&emsp;&emsp;In the case of an individual who is a full-benefit dual eligible individual and who isan institutionalized individual or couple (as defined in section 1396a(q)(1)(B) of this title), the elimination of any beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title).
 
 #### (ii) Lowest income dual eligible individuals
 
@@ -54,7 +54,7 @@
 
 #### (C) Continuation of coverage above the initial coverage limit
 
-&emsp;&emsp;The continuation of coverage from the initial coverage limit (under paragraph (3) of section 1395w–102(b) of this title) for expenditures incurred through the total amount of expenditures at which benefits are available under paragraph (4) of such section, subjectto the reduced coinsurance described in subparagraph (D).
+&emsp;&emsp;The continuation of coverage from the initial coverage limit (under paragraph (3) of section 1395w–102(b) of this title) for expenditures incurred through the total amount of expenditures at which benefits are available under paragraph (4) of such section, subject to the reduced coinsurance described in subparagraph (D).
 
 #### (D) Reduction in cost-sharing below out-of-pocket threshold
 
@@ -88,7 +88,7 @@
 
 #### (iii) Redeterminations and appeals through medicaid
 
-&emsp;&emsp;&emsp;Redeterminations and appeals, with respect to eligibility determinations under clause (i) made under a State plan under subchapter XIX of this chapter, shall be made in accordance with the frequency of, and manner in which, redeterminations and appeals of eligibility are made under such plan for purposes of medical assistance under such subchapter.
+&emsp;&emsp;&emsp;Redeterminations and appeals, with respect to eligibility determinations underclause (i) made under a State plan under subchapter XIX of this chapter, shall be made in accordance with the frequency of, and manner in which, redeterminations and appeals of eligibility are made under such plan for purposes of medical assistance under such subchapter.
 
 #### (iv) Redeterminations and appeals through Commissioner
 
@@ -226,7 +226,7 @@
 
 &emsp;The Secretary shall provide a process whereby, in the case of a part D eligible individual who is determined to be a subsidy eligible individual and who is enrolled in a prescription drug plan or is enrolled in an MA–PD plan—
 
-&emsp;&emsp;(A) the Secretary provides for a notification of the PDP sponsor or the MA organization offering the plan involved that the individual is eligible for a subsidy and the amount of the subsidy under subsection (a) of this section;
+&emsp;&emsp;(A) the Secretary provides for a notification of the PDP sponsor or the MA organization offering the plan involved that the individual is eligible for a subsidy and theamount of the subsidy under subsection (a) of this section;
 
 &emsp;&emsp;(B) the sponsor or organization involved reduces the premiums or cost-sharing otherwise imposed by the amount of the applicable subsidy and submits to the Secretary information on the amount of such reduction;
 
@@ -257,10 +257,6 @@ Study.—The Comptroller General of the United States shall conduct a study to d
 “(2)
 
 Report.—Not later than September 30, 2007, the Comptroller General shall submit a report to Congress on the study conducted under paragraph (1) that includes such recommendations for legislation as the Comptroller General determines are appropriate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320a–7b, 1320b–14, 1395w–23, 1395w–29, 1395w–101, 1395w–102, 1395w–111, 1395w–112, 1395w–113, 1395w–115, 1395w–116, 1395w–151, 1396u–5 of this title; title 26 section 6103.
 
 <i><sup>1</sup></i><i> So in original. Section 1395w–22(a)(6) of this title does not contain a subpar. (B).</i>
 

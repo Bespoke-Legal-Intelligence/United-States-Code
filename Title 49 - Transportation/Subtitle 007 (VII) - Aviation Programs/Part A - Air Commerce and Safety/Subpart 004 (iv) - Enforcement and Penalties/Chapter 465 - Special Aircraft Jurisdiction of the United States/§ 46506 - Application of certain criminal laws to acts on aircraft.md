@@ -32,7 +32,3 @@ In clause (2), the words “fined under title 18, imprisoned under section 9 of 
 
 Section 9 of the Act of July 29, 1892, referred to in par. (2), is section 9 of act July 29, 1892, ch. 320, 27 Stat. 324, as amended, which is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 46302, 46507 of this title; title 18 sections 2332b, 2333, 3286.
-

@@ -24,7 +24,7 @@
 
 (4)(A) The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction of an appeal from an interlocutory order of a district court of the United States, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, granting or denying, in whole or in part, a motion to transfer an action to the United States Court of Federal Claims under section 1631 of this title.
 
-(B) When a motion to transfer an action to the Court of Federal Claims is filed in a district court, no further proceedings shall be taken in the district court until 60 days after the court has ruled upon the motion. If an appeal is taken from the district court's grant or denial of the motion, proceedings shall be further stayed until the appeal has been decided by the Court of Appeals for the Federal Circuit. The stay of proceedings in the district court shall not bar the granting of preliminary or injunctive relief, where appropriate and where expedition is reasonably necessary. However, during the period in which proceedings are stayed as provided in this subparagraph, no transfer to the Court of Federal Claims pursuant to the motion shall be carried out.
+(B) When a motion to transfer an action to the Court of Federal Claims is filed in a district court, no further proceedings shall be taken inthe district court until 60 days after the court has ruled upon the motion. If an appeal is taken from the district court's grant or denial of the motion, proceedings shall be further stayed until the appeal has been decided by the Court of Appeals for the Federal Circuit. The stay of proceedings in the district court shall not bar the granting of preliminary or injunctive relief, where appropriate and where expedition is reasonably necessary. However, during the period in which proceedings are stayed as provided in this subparagraph, no transfer to the Court of Federal Claims pursuant to the motion shall be carried out.
 
 (e) The Supreme Court may prescribe rules, in accordance with section 2072 of this title, to provide for an appeal of an interlocutory decision to the courts of appeals that is not otherwise provided for under subsection (a), (b), (c), or (d).
 
@@ -102,13 +102,9 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc.No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Termination of United States District Court for the District of the Canal Zone
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 256, 798, 1291, 1294, 1295, 1334, 1452 of this title; title 9 section 15; title 11 section 305; title 15 sections 29, 78aa, 79y, 80a–43, 80b–14; title 16 sections 825p, 1456; title 18 section 3626; title 42 section 2000e–5; title 45 sections 719, 743, 1105.
 

@@ -60,7 +60,3 @@ The Director shall, with the funds made available in accordance with section 395
 
 Section 302(b) of Pub. L. 102–212 provided that: “This section \[amending this section\] shall apply to grants awarded in fiscal year 1992 and each fiscal year thereafter.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3955 of this title.
-

@@ -8,7 +8,7 @@ The Secretary, in accordance with the recommendations of the Administrator of th
 
 &emsp;(2) the effect on oceanographic currents and wave patterns;
 
-&emsp;(3) the effect on alternate uses of the oceans and navigable waters, such as scientific study, fishing, and exploitation of other living and nonliving resources;
+&emsp;(3) the effect on alternate uses of the oceans and navigable waters, such as scientific study,fishing, and exploitation of other living and nonliving resources;
 
 &emsp;(4) the potential dangers to a deepwater port from waves, winds, weather, and geological conditions, and the steps which can be taken to protect against or minimize such dangers;
 
@@ -31,8 +31,4 @@ Criteria established pursuant to this section shall be developed concurrently wi
 #### References in Text
 
 The National Environmental Policy Act, referred to in subsec. (a), is Pub. L. 91–190, §2, Jan. 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1503, 1504 of this title.
 

@@ -1,6 +1,6 @@
 ### §2505. Special advisory committees; membership; reimbursement
 
-The Commission may establish special advisory committees to consult with and make recommendations to it, from among the leading historians, political scientists, archivists, librarians, and other specialists of the Nation. Members of special advisory committees shall be reimbursed for transportation and other expenses on the same basis as members of the Commission.
+The Commission may establish special advisory committees to consult with and make recommendations to it, from among the leading historians, political scientists, archivists, librarians, and other specialists of the Nation.Members of special advisory committees shall be reimbursed for transportation and other expenses on the same basis as members of the Commission.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1294.)
 
@@ -11,8 +11,4 @@ Based on 44 U.S. Code, 1964 ed., §393(e) (June 30, 1949, ch. 288, title V, §50
 #### Termination of Advisory Committees
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3102 of this title.
 

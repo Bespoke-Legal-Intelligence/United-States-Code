@@ -1,6 +1,6 @@
 ### §5755. Supervisory differentials
 
-(a)(1) The Office of Personnel Management may authorize the head of an agency to pay a differential to an employee under the General Schedule who has supervisory responsibility for 1 or more employees not under the GeneralSchedule, if 1 or more of the subordinate employees would, in the absence of such a differential, be paid more than the supervisory employee.
+(a)(1) The Office of Personnel Management may authorize the head of an agency to pay adifferential to an employee under the General Schedule who has supervisory responsibility for 1 or more employees not under the General Schedule, if 1 or more of the subordinate employees would, in the absence of such a differential, be paid more than the supervisory employee.
 
 (2) For the purposes of comparing the pay of a supervisory employee under the General Schedule with the pay of a subordinate employee not under the General Schedule, comparability payments under section 5304, differentials, and allowances that are not a part of basic pay may be taken into consideration, as provided by regulations of the Office.
 
@@ -23,8 +23,4 @@
 #### Effective Date
 
 Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5307 of this title.
 

@@ -22,7 +22,3 @@ Another prior section 11431, Pub. L. 100–77, title VII, §721, July 22, 1987, 
 
 Part effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11432, 11434 of this title.
-

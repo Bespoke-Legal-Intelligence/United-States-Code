@@ -10,7 +10,7 @@ The attendance of any witness and the production of documentary evidence may be 
 
 #### (c) Enforcement of subpoena
 
-In the case of disobedience to a subpoena by any person, the Secretary concerned may request the Attorney General to invoke the aid of any court of the United States within the jurisdiction in which the investigation is conducted, or where the person resides, is found, transacts business, is licensed to do business, or is incorporated, in requiring the attendance and testimony of any witness and the production of documentary evidence. In case of a refusal to obey a subpoena issued to any person, a court may order the person to appear before the Secretary concerned and give evidence concerning the matter in question or to produce documentary evidence. Any failure to obey the court's order may be punished by the court as a contempt of the court.
+In the case of disobedience to a subpoena by any person, the Secretary concerned may request the Attorney General to invoke the aid of any court of the United States within the jurisdiction in which the investigation is conducted, or where the person resides, is found, transacts business, is licensed to do business, or is incorporated, in requiring the attendance and testimony of any witness and the production of documentary evidence. In case of a refusal to obey a subpoena issued to any person, a court may order the person to appear before the Secretary concerned and give evidence concerning thematter in question or to produce documentary evidence. Any failure to obey the court's order may be punished by the court as a contempt of the court.
 
 #### (d) Compensation
 
@@ -18,7 +18,7 @@ Witnesses summoned by the Secretary concerned shall be paid the same fees and mi
 
 #### (e) Procedures
 
-The Secretary concerned shall publish procedures for the issuance of subpoenas under thissection. Such procedures shall include a requirement that subpoenas be reviewed for legal sufficiency and signed by the Secretary concerned. If the authority to sign a subpoena is delegated, the agency receiving the delegation shall seek review for legal sufficiency outside that agency.
+The Secretary concerned shall publish procedures for the issuance of subpoenas under this section. Such procedures shall include a requirement that subpoenas be reviewed for legal sufficiency and signed by the Secretary concerned. If the authority to sign a subpoena is delegated, the agency receiving the delegation shall seek review for legal sufficiency outside that agency.
 
 #### (f) Scope of subpoena
 
@@ -33,8 +33,4 @@ Subpoenas for witnesses to attend court in any judicial district or testify or p
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2279e of this title.
 

@@ -24,7 +24,7 @@ The term “public utility” when used in this subchapter and subchapter III of
 
 #### (f) United States, State, political subdivision of a State, or agency or instrumentality thereof exempt
 
-No provision in this subchapter shall apply to, or be deemed to include, the United States, a State or any political subdivision of a State, orany agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned, directly or indirectly, by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
+No provision in this subchapter shall apply to, or be deemed to include, the United States, a State or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned, directly or indirectly, by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
 
 #### (g) Books and records
 
@@ -85,8 +85,4 @@ Prior Actions.—No provision of this title \[enacting sections 823a, 824i to 82
 “(b)
 
 Other Authorities.—No provision of this title \[enacting sections 823a, 824i to 824k, 824a–1 to 824a–3 and 825q–1 of this title, amending sections 796, 824, 824a, 824d, and 825d of this title and enacting provisions set out as notes under sections 824a, 824d, and 825d of this title\] or of any amendment made by this title shall limit, impair or otherwise affect any authority of the Commission or any other agency or instrumentality of the United States under any other provision of law except as specifically provided in this title.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 839e of this title; title 15 section 79z–5a.
 

@@ -30,7 +30,3 @@ The words “and other necessary employees” were added in subsection (b) to su
 
 Changes were made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 332 of this title.
-

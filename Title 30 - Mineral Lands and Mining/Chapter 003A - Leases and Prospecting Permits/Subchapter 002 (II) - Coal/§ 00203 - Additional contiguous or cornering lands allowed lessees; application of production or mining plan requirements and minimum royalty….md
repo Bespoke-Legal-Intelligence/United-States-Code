@@ -20,7 +20,3 @@ The effective date of this Act, referred to in text, probably means the date of 
 
 Section 13(b) of Pub. L. 94–377 provided that the amendment made by that section is subject to valid existing rights.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 208, 1272 of this title; title 10 sections 7421, 7435; title 16 section 460<i>ll</i>–3.
-

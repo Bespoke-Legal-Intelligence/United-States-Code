@@ -8,7 +8,3 @@ In the discretion of the Secretary of the Interior suit or action may be brought
 
 Section is comprised of third sentence of section 6 of act Aug. 13, 1914. First and second sentences of such section 6 are classified to sections 479, 493, 494, 495, and 496 of this title, respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 475, 511 of this title.
-

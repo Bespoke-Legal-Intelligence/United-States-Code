@@ -90,7 +90,3 @@ Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat. 2474.
 
 Pub. L. 104–208, div. A, title I, §101(a) \[title II\], Sept. 30, 1996, 110 Stat. 3009, 3009–35.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 927 of this title.
-

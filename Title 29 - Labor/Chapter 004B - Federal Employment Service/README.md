@@ -53,10 +53,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1811, 2822, 2841, 2864, 2943 of this title; title 20 sections 2308, 2328, 2411, 9271; title 26 section 51; title 38 sections 4101, 4102A, 4104; title 39 section 3202; title 42 sections 1101, 4728.
-
 
 ---
 

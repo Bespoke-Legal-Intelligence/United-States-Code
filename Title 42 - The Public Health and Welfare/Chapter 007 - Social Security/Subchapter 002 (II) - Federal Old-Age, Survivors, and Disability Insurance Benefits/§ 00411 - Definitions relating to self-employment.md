@@ -14,17 +14,17 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 &emsp;(4) The deduction for net operating losses provided in section 172 of the Internal Revenue Code of 1986 shall not be allowed;
 
-&emsp;(5)(A) If any of the income derived from a trade or business (other than a trade or business carried on by a partnership) is community income under community property laws applicable to such income, all of the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the husband unless the wife exercises substantially all of the management and control of such trade or business, in which case all of such gross income and deductions shall be treated as the gross income and deductions of the wife;
+&emsp;(5)(A) If any of the income derived from a trade or business (other than a trade or business carried on by a partnership) is community income under community property laws applicable to such income, the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the spouse carrying on such trade or business or, if such trade or business is jointly operated, treated as the gross income and deductions of each spouse on the basis of their respective distributive share of the gross income and deductions;
 
 &emsp;(B) If any portion of a partner's distributive share of the ordinary net income or loss from a trade or business carried on by a partnership is community income or loss under the community property laws applicable to such share, all of such distributive share shall be included in computing the net earnings from self-employment of such partner, and no part of such share shall be taken into account in computing the net earnings from self-employment of the spouse of such partner;
 
 &emsp;(6) A resident of the Commonwealth of Puerto Rico shall compute his net earnings from self-employment in the same manner as a citizen of the United States but without regard to the provisions of section 933 of the Internal Revenue Code of 1986;
 
-&emsp;(7) An individual who is a duly ordained, commissioned, or licensed minister of a church or a member of a religious order shall compute his net earnings from self-employment derived from the performance of service described in subsection (c)(4) of this section without regard to section 107 (relating to rental value of parsonages), section 119 (relating to meals and lodging furnished for the convenience of the employer), and section 911 (relating to earned income from sources without the United States) of the Internal Revenue Code of 1986;
+&emsp;(7) An individual who is a duly ordained, commissioned, or licensed minister of a church or a member of a religious order shall compute his net earnings from self-employment derived from the performance of service described in subsection (c)(4) of this section without regard to section 107 (relating to rental value of parsonages), section 119 (relating to meals and lodging furnished for the convenience of the employer), and section 911 (relating to earned income from sources without the United States) of the Internal Revenue Code of 1986, but shall not include in any such net earnings from self-employment the rental value of any parsonage or any parsonage allowance (whether or not excluded under section 107 of the Internal Revenue Code of 1986) provided after the individual retires, or any other retirement benefit received by such individual from a church plan (as defined in section 414(e) of such Code) after the individual retires;
 
 &emsp;(8) The exclusion from gross income provided by section 931 of the Internal Revenue Code of 1986 shall not apply;
 
-&emsp;(9) There shall be excluded amounts received by a partner pursuant to a written plan of the partnership, which meets such requirements as are prescribed by the Secretary of the Treasury or his delegate, and which provides for payments on account of retirement, on a periodic basis, to partners generally or to a class or classes of partners, such payments to continue at least until such partner's death, if—
+&emsp;(9) There shall be excluded amounts received by a partner pursuant to a written plan of thepartnership, which meets such requirements as are prescribed by the Secretary of the Treasury or his delegate, and which provides for payments on account of retirement, on a periodic basis, to partners generally or to a class or classes of partners, such payments to continue at least until such partner's death, if—
 
 &emsp;&emsp;(A) such partner rendered no services with respect to any trade or business carried on by such partnership (or its successors) during the taxable year of such partnership (or its successors), ending within or with his taxable year, in which such amounts were received, and
 
@@ -46,13 +46,13 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 &emsp;(14) There shall be excluded income excluded from taxation under section 7873 of the Internal Revenue Code of 1986 (relating to income derived by Indians from exercise of fishing rights); and
 
-&emsp;(15) The deduction under section 162(m) of the Internal Revenue Code of 1986 (relating to health insurance costs of self-employed individuals) shall not be allowed.
+&emsp;(15) The deduction under section 162(<i>l</i>) of the Internal Revenue Code of 1986 (relating to health insurance costs of self-employed individuals) shall not be allowed.
 
 > If the taxable year of a partner is different from that of the partnership, the distributive share which he is required to include in computing his net earnings from self-employment shall be based upon the ordinary net income or loss of the partnership for any taxable year of the partnership (even though beginning prior to 1951) ending within or with his taxable year. In the case of any trade or business which is carried on by an individual or by a partnership and in which, if such trade or business were carried on exclusively by employees, the major portion of the services would constitute agricultural labor as defined in section 410(f) of this title—
 
 &emsp;(i) in the case of an individual, if the gross income derived by him from such trade or business is not more than $2,400, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be 662/3 percent of such gross income; or
 
-&emsp;(ii) in the case of an individual, if the gross income derived by him from such trade orbusiness is more than $2,400 and the net earnings from self-employment derived by him from such trade or business (computed under this subsection without regard to this sentence) are less than $1,600, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be $1,600; and
+&emsp;(ii) in the case of an individual, if the gross income derived by him from such trade or business is more than $2,400 and the net earnings from self-employment derived by him from such trade or business (computed under this subsection without regard to this sentence) are less than $1,600, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be $1,600; and
 
 &emsp;(iii) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) of the Internal Revenue Code of 1986 applies) is not more than $2,400, his distributive share of income described in section 702(a)(8) of such Code derived from such trade or business may, at his option, be deemed to be an amount equal to 662/3 percent of his distributive share of such gross income (after such gross income has been so reduced); or
 
@@ -90,7 +90,7 @@ The term “self-employment income” means the net earnings from self-employmen
 
 &emsp;&emsp;(H) For any taxable year beginning after 1973 and prior to 1975, (i) $13,200, minus (ii) the amount of the wages paid to such individual during the taxable year; and
 
-&emsp;&emsp;(I) For any taxable year beginning in any calendar year after 1974, (i) an amount equal to the contribution and benefit base (as determined under section 430 of this title)which is effective for such calendar year, minus (ii) the amount of the wages paid to such individual during such taxable year; or
+&emsp;&emsp;(I) For any taxable year beginning in any calendar year after 1974, (i) an amount equal to the contribution and benefit base (as determined under section 430 of this title) which is effective for such calendar year, minus (ii) the amount of the wages paid to such individual during such taxable year; or
 
 &emsp;(2) The net earnings from self-employment, if such net earnings for the taxable year are less than $400.
 
@@ -186,7 +186,7 @@ An individual shall be deemed to be self-employed on a regular basis in a taxabl
 
 #### (j) Codification of treatment of certain termination payments received by former insurance salesmen
 
-Nothing in subsection (a) of this section shall be construed as including in the net earnings from self-employment of an individual any amount received during the taxable year from an insurance company on account of services performed by such individual as an insurance salesman for such company if—
+Nothing in subsection (a) of this section shall be construed as including in the net earningsfrom self-employment of an individual any amount received during the taxable year from an insurance company on account of services performed by such individual as an insurance salesman for such company if—
 
 &emsp;(1) such amount is received after termination of such individual's agreement to perform such services for such company,
 
@@ -200,13 +200,19 @@ Nothing in subsection (a) of this section shall be construed as including in the
 
 &emsp;&emsp;(B) does not depend to any extent on length of service or overall earnings from services performed for such company (without regard to whether eligibility for payment depends on length of service).
 
-(Aug. 14, 1935, ch. 531, title II, §211, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 502; amended Sept. 23, 1950, ch. 994, title II, §221(j)(2), 64 Stat. 947; Sept. 1, 1954, ch. 1206, title I, §§101(d), (g), 104(b), 68 Stat. 1054, 1078; Aug. 1, 1956, ch. 836, title I, §§104(c)(2), (3), (d), (h), 106(a), 70 Stat. 824–826, 828; Pub. L. 85–239, §5(a), Aug. 30, 1957, 71 Stat. 523; Pub. L. 85–840, title I, §102(b), title III, §313(a), Aug. 28, 1958, 72 Stat. 1019, 1036; Pub. L. 86–778, title I, §§103(g), (h), (j)(3), 106(a), Sept. 13, 1960, 74 Stat. 937, 938, 945; Pub. L. 88–272, title II, §227(b)(7), Feb. 26, 1964, 78 Stat. 98; Pub. L. 89–97, title III, §§311(a)(1), (2), 312(a), 319(b), 320(a)(2), July 30, 1965, 79 Stat. 380, 381, 391, 393; Pub. L. 90–248, title I, §§108(a)(2), 115(a), 118(b), 122(a), Jan. 2, 1968, 81 Stat. 834, 839, 841, 843; Pub. L. 92–5, title II, §203(a)(2), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(a)(2), July 1, 1972, 86 Stat. 418; Pub. L. 92–603, title I, §§121(a), 124(a), 140(a), Oct. 30, 1972, 86 Stat. 1353, 1357, 1366; Pub. L. 93–66, title II, §203(a)(2), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(a)(2), Dec. 31, 1973, 87 Stat. 953; Pub. L. 93–368, §10(a), Aug. 7, 1974, 88 Stat. 422; Pub. L. 94–455, title XII, §1207(e)(2)(B), Oct. 4, 1976, 90 Stat. 1707; Pub. L. 95–216, title III, §313(a), Dec. 20, 1977, 91 Stat. 1535; Pub. L. 95–600, title VII, §703(j)(14)(D), (E), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 98–21, title I, §124(c)(3), title III, §§322(b)(1), 323(b)(2), Apr. 20, 1983, 97 Stat. 90, 121; Pub. L. 98–369, div. A, title I, §102(c)(2), div. B, title VI, §§2603(c)(1), (d)(1), 2663(a)(8), July 18, 1984, 98 Stat. 622, 1129, 1163; Pub. L. 99–514, title XVIII, §§1882(b)(2), 1883(a)(6), Oct. 22, 1986, 100 Stat. 2915, 2916; Pub. L. 100–203, title IX, §§9022(a), 9023(b), Dec. 22, 1987, 101 Stat. 1330–295, 1330–296; Pub. L. 100–647, title I, §1011B(b)(4), title III, §3043(b), title VIII, §8016(a)(2), Nov. 10, 1988, 102 Stat. 3488, 3642, 3792; Pub. L. 101–508, title V, §§5123(a)(1), 5130(a)(2), (3), Nov. 5, 1990, 104 Stat. 1388–284, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §§319(b)(2), 321(a)(14), (c)(5), (6)(E)–(G), Aug. 15, 1994, 108 Stat. 1478, 1535, 1536, 1538; Pub. L. 105–34, title IX, §922(b), Aug. 5, 1997, 111 Stat. 880.)
+(Aug. 14, 1935, ch. 531, title II, §211, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 502; amended Sept. 23, 1950, ch. 994, title II, §221(j)(2), 64 Stat. 947; Sept. 1, 1954, ch. 1206, title I, §§101(d), (g), 104(b), 68 Stat. 1054, 1078; Aug. 1, 1956, ch. 836, title I, §§104(c)(2), (3), (d), (h), 106(a), 70 Stat. 824–826, 828; Pub. L. 85–239, §5(a), Aug. 30, 1957, 71 Stat. 523; Pub. L. 85–840, title I, §102(b), title III, §313(a), Aug. 28, 1958, 72 Stat. 1019, 1036; Pub. L. 86–778, title I, §§103(g), (h), (j)(3), 106(a), Sept. 13, 1960, 74 Stat. 937, 938, 945; Pub. L. 88–272, title II, §227(b)(7), Feb. 26, 1964, 78 Stat. 98; Pub. L. 89–97, title III, §§311(a)(1), (2), 312(a), 319(b), 320(a)(2), July 30, 1965, 79 Stat. 380, 381, 391, 393; Pub. L. 90–248, title I, §§108(a)(2), 115(a), 118(b), 122(a), Jan. 2, 1968, 81 Stat. 834, 839, 841, 843; Pub. L. 92–5, title II, §203(a)(2), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(a)(2), July 1, 1972, 86 Stat. 418; Pub. L. 92–603, title I, §§121(a), 124(a), 140(a), Oct. 30, 1972, 86 Stat. 1353, 1357, 1366; Pub. L. 93–66, title II, §203(a)(2), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(a)(2), Dec. 31, 1973, 87 Stat. 953; Pub. L. 93–368, §10(a), Aug. 7, 1974, 88 Stat. 422; Pub. L. 94–455, title XII, §1207(e)(2)(B), Oct. 4, 1976, 90 Stat. 1707; Pub. L. 95–216, title III, §313(a), Dec. 20, 1977, 91 Stat. 1535; Pub. L. 95–600, title VII, §703(j)(14)(D), (E), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 98–21, title I, §124(c)(3), title III, §§322(b)(1), 323(b)(2), Apr. 20, 1983, 97 Stat. 90, 121; Pub. L. 98–369, div. A, title I, §102(c)(2), div. B, title VI, §§2603(c)(1), (d)(1), 2663(a)(8), July 18, 1984, 98 Stat. 622, 1129, 1163; Pub. L. 99–514, title XVIII, §§1882(b)(2), 1883(a)(6), Oct. 22, 1986, 100 Stat. 2915, 2916; Pub. L. 100–203, title IX, §§9022(a), 9023(b), Dec. 22, 1987, 101 Stat. 1330–295, 1330–296; Pub. L. 100–647, title I, §1011B(b)(4), title III, §3043(b), title VIII, §8016(a)(2), Nov. 10, 1988, 102 Stat. 3488, 3642, 3792; Pub. L. 101–508, title V, §§5123(a)(1), 5130(a)(2), (3), Nov. 5, 1990, 104 Stat. 1388–284, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §§319(b)(2), 321(a)(14), (c)(5), (6)(E)–(G), Aug. 15, 1994, 108 Stat. 1478, 1535, 1536, 1538; Pub. L. 105–34, title IX, §922(b), Aug. 5, 1997, 111 Stat. 880; Pub. L. 108–203, title IV, §§422(a), 424(a), 425(a), Mar. 2, 2004, 118 Stat. 536.)
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in text, is classified to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2004—Subsec. (a)(5)(A). Pub. L. 108–203, §425(a), substituted “the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the spouse carrying on such trade or business or, if such trade or business is jointly operated, treated as the gross income and deductions of each spouse on the basis of their respective distributive share of the gross income and deductions;” for “all of the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the husband unless the wife exercises substantially all of the management and control of such trade or business, in which case all of such gross income and deductions shall be treated as the gross income and deductions of the wife;”.
+
+Subsec. (a)(7). Pub. L. 108–203, §422(a), inserted “, but shall not include in any such net earnings from self-employment the rental value of any parsonage or any parsonage allowance (whether or not excluded under section 107 of the Internal Revenue Code of 1986) provided after the individual retires, or any other retirement benefit received by such individual from a church plan (as defined in section 414(e) of such Code) after the individual retires” before semicolon at end.
+
+Subsec. (a)(15). Pub. L. 108–203, §424(a), substituted “section 162(<i>l</i>)” for “section 162(m)”.
 
 1997—Subsec. (j). Pub. L. 105–34 added subsec. (j).
 
@@ -290,7 +296,7 @@ Subsec. (a)(11), (12). Pub. L. 98–21, §124(c)(3), added par. (11) and redesig
 
 Subsec. (b). Pub. L. 98–21, §322(b)(1), as amended by Pub. L. 101–508, §5130(a)(2), inserted “, except as provided by an agreement under section 433 of this title” after “non-resident alien individual” in provisions preceding par. (1).
 
-1978—Subsec. (a)(2). Pub. L. 95–600, §703(j)(14)(D), which directed that “(other than interest described in section 35 of the Internal Revenue Code of 1954)” bestruck out from subsec. (a)(2) of this section, was executed by striking out “(other than interest described in section 25(a) of the Internal Revenue Code of 1939)” as the probable intent of Congress.
+1978—Subsec. (a)(2). Pub. L. 95–600, §703(j)(14)(D), which directed that “(other than interest described in section 35 of the Internal Revenue Code of 1954)” be struck out from subsec. (a)(2) of this section, was executed by striking out “(other than interest described in section 25(a) of the Internal Revenue Code of 1939)” as the probable intent of Congress.
 
 Subsec. (c)(6). Pub. L. 95–600, §703(j)(14)(E), substituted “section 1402(g)” for “section 1402(h)”.
 
@@ -384,6 +390,10 @@ Subsec. (c)(5). Act Sept. 1, 1954, §101(g)(4), struck out exclusion from covera
 
 1950—Subsec. (a)(7). Act Sept. 23, 1950, made provisions applicable to Puerto Rico and provided the basis for computation of net earnings.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–203, title IV, §422(b), Mar. 2, 2004, 118 Stat. 536, provided that: “The amendment made by this section \[amending this section\] shall apply to years beginning before, on, or after December 31, 1994.”
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–34 applicable to payments after Dec. 31, 1997, see section 922(c) of Pub. L. 105–34, set out as a note under section 1402 of Title 26, Internal Revenue Code.
@@ -396,7 +406,7 @@ Amendment by section 319(b)(2) of Pub. L. 103–296 applicable with respect to s
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 5123(a)(1) of Pub. L. 101–508 applicable with respect to income received for services performed in taxable years beginning after Dec. 31, 1990, see section 5123(b) of Pub. L. 101–508, set out as a note under section 403 of this title.
+Amendment by section 5123(a)(1) of Pub. L. 101–508 applicable with respect to income received for servicesperformed in taxable years beginning after Dec. 31, 1990, see section 5123(b) of Pub. L. 101–508, set out as a note under section 403 of this title.
 
 Amendment by section 5130(a)(2) of Pub. L. 101–508 effective as if included in the enactment of Pub. L. 98–21, §322(b)(1), and amendment by section 5130(a)(3) of Pub. L. 101–508 effective as if included in the enactment of Pub. L. 100–647, §1011B(b)(4), see section 5130(b) of Pub. L. 101–508, set out as a note under section 1402 of Title 26, Internal Revenue Code.
 
@@ -472,7 +482,7 @@ Amendment by Pub. L. 92–5 applicable only with respect to taxable years beginn
 
 Amendment by section 108(a)(2) of Pub. L. 90–248 applicable only with respect to taxable years ending after 1967, see section 108(c) of Pub. L. 90–248, set out as a note under section 409 of this title.
 
-Amendment by section 115(a) of Pub. L. 90–248 applicable only with respect to taxable years ending after 1967, see section 115(c) of Pub. L. 90–248, set out as a note under section 1402 of Title 26, Internal Revenue Code.
+Amendment by section 115(a) of Pub. L. 90–248 applicable only with respect to taxable years ending after1967, see section 115(c) of Pub. L. 90–248, set out as a note under section 1402 of Title 26, Internal Revenue Code.
 
 Amendment by section 118(b) of Pub. L. 90–248 applicable only with respect to taxable years ending on or after Dec. 31, 1967, see section 118(c) of Pub. L. 90–248, set out as a note under section 1402 of Title 26.
 
@@ -539,8 +549,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Treaty Obligations
 
 Section 214 of act Sept. 23, 1950, provided that: “No amendment made by this Act \[see Tables for classification\] shall apply in any case where its application would be contrary to any treaty obligation of the United States.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403, 410, 424a, 430, 1382a of this title; title 45 section 231e.
 

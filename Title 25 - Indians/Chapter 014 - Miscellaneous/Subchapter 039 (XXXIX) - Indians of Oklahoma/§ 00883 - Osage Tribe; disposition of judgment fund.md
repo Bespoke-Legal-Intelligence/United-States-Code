@@ -26,7 +26,3 @@ The Indian Claims Commission, referred to in subsec. (a), terminated Sept. 30, 1
 
 1984—Subsec. (b). Pub. L. 98–605 struck out “or other socioeconomic programs” after “an education program” and substituted “such program” for “such programs”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 883c, 883d of this title.
-

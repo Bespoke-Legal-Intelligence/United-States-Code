@@ -16,9 +16,9 @@ A prior section 305 of Pub. L. 92–225 was classified to section 435 of this ti
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–187 substituted “60” and “20” for “sixty” and “twenty”, respectively, and struck out “Federal Election” before “Commission”.
+1980—Pub. L. 96–187 substituted “60” and “20” for “sixty” and “twenty”, respectively, and struck out “Federal Election” before “Commission”.
 
-<b>1974</b>—Pub. L. 93–443 substituted “Federal Election Commission” and “it” for “Comptroller General of the United States” and “he”, respectively.
+1974—Pub. L. 93–443 substituted “Federal Election Commission” and “it” for “Comptroller General of the United States” and “he”, respectively.
 
 #### Effective Date of 1980 Amendment
 
@@ -27,8 +27,4 @@ Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub.
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under section 431 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 437d of this title; title 18 section 591.
 

@@ -58,7 +58,7 @@ Sec. 101. (a) Upon the application of any State, political subdivision of a Stat
 
 “
 
-Sec. 102. Grants hereunder shall be in an amount not to exceed 50 per centum of allowable project costs. Loans shall be for a term not to exceed 40 years at a perannum interest rate of 5 per centum and shall be on such terms and conditions as the Secretary of Commerce shall determine. In determining the amount of a grant assistance for any project, the Secretary of Commerce may take into consideration such factors as are established by regulation and are consistent with the purposes of this Act.
+Sec. 102. Grants hereunder shall be in an amount not to exceed 50 per centum of allowable project costs. Loans shall be for a term not to exceed 40 years at a per annum interest rate of 5 per centum and shall be on such terms and conditions as the Secretary of Commerce shall determine. In determining the amount of a grant assistance for any project, the Secretary of Commerce may take into consideration such factors as are established by regulation and are consistent with the purposes of this Act.
 
 “
 
@@ -74,7 +74,7 @@ Sec. 105. The National Environmental Protection Act of 1969, as amended \[sectio
 
 “
 
-Sec. 106. (a) There is hereby authorized to be appropriated for the fiscal year ending September 30, 1977, $225,000,000 of which sum $150,000,000 is to be for the loan program herein, including administration thereof, and $75,000,000 of which is to be used for the grant program herein, including administration thereof, and such additional amounts for the fiscal year ending September 30, 1978, as may be reasonably needed for administrative expenses in monitoring and closing out the program authorized by the Act. Funds authorized by this Act shall be obligated by December 31, 1977.
+Sec. 106. (a) There is hereby authorized to be appropriated for the fiscal year ending September 30, 1977, $225,000,000 of which sum $150,000,000 is to be for theloan program herein, including administration thereof, and $75,000,000 of which is to be used for the grant program herein, including administration thereof, and such additional amounts for the fiscal year ending September 30, 1978, as may be reasonably needed for administrative expenses in monitoring and closing out the program authorized by the Act. Funds authorized by this Act shall be obligated by December 31, 1977.
 
 “(b) Funds available to the Secretary for this Act shall be available for expenditure for drought impact projects conducted heretofore by eligible applicants during fiscal year 1977 if such projects are found to be compatible with the broad purposes of this Act.”
 

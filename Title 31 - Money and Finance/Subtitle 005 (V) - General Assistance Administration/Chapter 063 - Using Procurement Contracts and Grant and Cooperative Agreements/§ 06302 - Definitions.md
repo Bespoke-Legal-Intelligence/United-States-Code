@@ -58,7 +58,3 @@ Clause (3) restates the source provisions because of the definition of “execut
 
 In clause (5), the words “the Commonwealth of Puerto Rico” are omitted as being included in “territory or possession of the United States” and as unnecessary because of 48:734. The words “duties and powers” are substituted for “functions” for consistency in the revised title and with other titles of the United States Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2411; title 43 section 373d.
-

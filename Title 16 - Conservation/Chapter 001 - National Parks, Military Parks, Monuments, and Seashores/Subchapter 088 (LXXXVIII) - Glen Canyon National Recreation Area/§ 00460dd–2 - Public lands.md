@@ -18,7 +18,3 @@ The Mineral Leasing Act of February 25, 1920, as amended, referred to in text, i
 
 The Acquired Lands Mineral Leasing Act of August 7, 1947, referred to in text, is act Aug. 7, 1947, ch. 513, 61 Stat. 913, as amended, which is classified generally to chapter 7 (§351 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 30 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460dd–5 of this title.
-

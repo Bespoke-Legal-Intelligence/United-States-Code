@@ -20,7 +20,7 @@ The Commodity Credit Corporation may make available for each fiscal year such fu
 
 &emsp;The Commodity Credit Corporation or the Secretary shall make available for market access activities authorized to be carried out by the Commodity Credit Corporation under section 5623 of this title—
 
-&emsp;&emsp;(A) in addition to any funds that may be specifically appropriated to implement a market access program, not more than$90,000,000 for fiscal year 2001, $100,000,000 for fiscal year 2002, $110,000,000 for fiscal year 2003, $125,000,000 for fiscal year 2004, $140,000,000 for fiscal year 2005, and $200,000,000 for each of fiscal years 2006 and 2007, of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation; and
+&emsp;&emsp;(A) in addition to any funds that may be specifically appropriated to implement a market access program, not more than $90,000,000 for fiscal year 2001, $100,000,000 for fiscal year 2002, $110,000,000 for fiscal year 2003, $125,000,000 for fiscal year 2004, $140,000,000 for fiscal year 2005, and $200,000,000 for each of fiscal years 2006 and 2007, of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation; and
 
 &emsp;&emsp;(B) any funds that may be specifically appropriated to carry out a market access program under section 5623 of this title.
 
@@ -32,7 +32,7 @@ The Commodity Credit Corporation may make available for each fiscal year such fu
 
 &emsp;&emsp;&emsp;(i) proposals submitted by organizations that were participating organizations in prior fiscal years; and
 
-&emsp;&emsp;&emsp;(ii) proposals submitted by eligible trade organizations that have not previously participated in the program established under this subchapter; and
+&emsp;&emsp;&emsp;(ii) proposals submitted by eligible trade organizations that have not previouslyparticipated in the program established under this subchapter; and
 
 &emsp;&emsp;(B) give equal consideration to—
 

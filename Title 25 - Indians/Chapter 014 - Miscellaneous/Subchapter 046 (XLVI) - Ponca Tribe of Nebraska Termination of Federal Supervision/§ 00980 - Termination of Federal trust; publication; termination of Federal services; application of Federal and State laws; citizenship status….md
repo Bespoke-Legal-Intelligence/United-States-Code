@@ -4,7 +4,3 @@ When the distribution of tribal assets in accordance with the provisions of this
 
 (Pub. L. 87–629, §10, Sept. 5, 1962, 76 Stat. 431.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 971 of this title.
-

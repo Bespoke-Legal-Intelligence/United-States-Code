@@ -68,7 +68,3 @@ Amendment by act July 31, 1946, effective July 1, 1947, see section 403 of act J
 
 For effective date of amendment by act Oct. 10, 1940, see section 1 of act Oct. 10, 1940, set out as a note under section 351 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 352, 362 of this title.
-

@@ -4,7 +4,3 @@ So much of the twenty-five-acre tract of land in Forney's Creek Township, Swain 
 
 (July 26, 1950, ch. 492, §3, 64 Stat. 378.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 403k–1 of this title.
-

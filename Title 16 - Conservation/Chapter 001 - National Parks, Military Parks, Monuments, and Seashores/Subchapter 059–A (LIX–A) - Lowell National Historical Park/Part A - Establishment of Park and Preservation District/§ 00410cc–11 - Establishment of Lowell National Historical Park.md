@@ -12,7 +12,3 @@ The Secretary may make minor revisions of the park and preservation district bou
 
 (Pub. L. 95–290, title I, §101, June 5, 1978, 92 Stat. 291.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410cc–1 of this title.
-

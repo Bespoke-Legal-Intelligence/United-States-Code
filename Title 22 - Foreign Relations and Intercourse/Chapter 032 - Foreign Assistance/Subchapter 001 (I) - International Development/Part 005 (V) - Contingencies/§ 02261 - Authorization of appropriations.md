@@ -20,7 +20,7 @@ This chapter, referred to in subsec. (a)(1), was in the original “this Act”,
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter,and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### References to Part I Deemed To Include Section 2293
 
@@ -85,8 +85,4 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 #### Appropriation for Disaster Relief of Unallocated Excess Foreign Currencies Held in Pakistan
 
 Section 6(b) of Pub. L. 91–652 authorized the appropriation of excess foreign currencies held in Pakistan not allocated on Jan. 5, 1971, for a period of one year from such date to help Pakistan withstand the disaster which had occurred.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 287e–2, 2360, 2413 of this title.
 

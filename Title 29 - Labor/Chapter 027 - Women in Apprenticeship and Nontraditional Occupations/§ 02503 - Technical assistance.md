@@ -24,7 +24,3 @@ The Secretary shall select a total of 50 employers or labor unions to receive te
 
 (Pub. L. 102–530, §4, Oct. 27, 1992, 106 Stat. 3466.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2502, 2504, 2505, 2506, 2509 of this title.
-

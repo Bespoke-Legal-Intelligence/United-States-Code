@@ -10,15 +10,11 @@ In any State court proceeding for the foster care placement of, or termination o
 
 #### (c) State court proceedings; intervention
 
-In any State court proceeding for the foster care placement of, or termination of parental rights to, an Indian child, the Indian custodian of the child and the Indian child's tribe shall have a right to intervene at any point in the proceeding.
+In any State court proceeding for the foster care placement of, or termination of parental rights to, an Indian child, the Indian custodianof the child and the Indian child's tribe shall have a right to intervene at any point in the proceeding.
 
 #### (d) Full faith and credit to public acts, records, and judicial proceedings of Indian tribes
 
 The United States, every State, every territory or possession of the United States, and every Indian tribe shall give full faith and credit to the public acts, records, and judicial proceedings of any Indian tribe applicable to Indian child custody proceedings to the same extent that such entities give full faith and credit to the public acts, records, and judicial proceedings of any other entity.
 
 (Pub. L. 95–608, title I, §101, Nov. 8, 1978, 92 Stat. 3071.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1914, 1918, 1923 of this title.
 

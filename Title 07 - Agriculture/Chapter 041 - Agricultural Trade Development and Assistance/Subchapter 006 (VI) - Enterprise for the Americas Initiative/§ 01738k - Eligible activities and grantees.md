@@ -42,7 +42,3 @@ The Global Environmental Protection Assistance Act of 1989, referred to in subse
 
 1991—Subsec. (a)(1). Pub. L. 102–237 substituted “2281 et seq.);” for “462), and—”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1738f, 1738<i>o</i> of this title; title 12 section 635i–6.
-

@@ -16,7 +16,7 @@ Except as otherwise provided in this division, the Secretary shall, on a competi
 
 &emsp;&emsp;(A) submit a proposed local flexibility demonstration agreement under subsection (c) of this section to the Secretary and demonstrate, to the satisfaction of the Secretary, that the agreement—
 
-&emsp;&emsp;&emsp;(i) has a substantial promise of assisting the local educational agency in meeting the State's definition of adequate yearly progress, advancing the education priorities of the local educational agency, meeting the general purposes of the programs included under this division and the purposes of this part, improving student achievement, and narrowing achievement gaps in accordance with section 6311(b) of this title;
+&emsp;&emsp;&emsp;(i) has a substantial promise of assisting the local educational agency in meeting the State's definition of adequate yearly progress, advancing the education priorities of the local educational agency, meeting the general purposes of the programs included under this division and the purposes of this part, improving student achievement, and narrowing achievementgaps in accordance with section 6311(b) of this title;
 
 &emsp;&emsp;&emsp;(ii) meets the requirements of this division; and
 
@@ -84,11 +84,11 @@ Each local flexibility demonstration agreement entered into with the Secretary u
 
 #### (9) Supplanting
 
-&emsp;The local flexibility demonstration agreement shall contain an assurance that the local educational agency will, for the duration of the grant of authority, use funds consolidated under section 7321a of this title only to supplement the amount of funds that would, in the absence of those Federal funds, be made available from non-Federal sources for the education of students participating in programs assisted with the consolidated funds, and not to supplant those funds.
+&emsp;The local flexibility demonstration agreement shall contain an assurance that the local educational agency will, for the duration of the grant of authority, use funds consolidatedunder section 7321a of this title only to supplement the amount of funds that would, in the absence of those Federal funds, be made available from non-Federal sources for the education of students participating in programs assisted with the consolidated funds, and not to supplant those funds.
 
 #### (10) Annual reports
 
-&emsp;The local flexibility demonstration agreement shall contain an assurance that the local educational agency shall, not later than 1 year after the date on which the Secretary enters into the agreement, and annually thereafter during the term of the agreement, disseminate widely to parents and the general public, transmit to the Secretary, and the State educational agency for the State in which thelocal educational agency is located, distribute to print and broadcast media, and post on the Internet, a report that includes a detailed description of how the local educational agency used the funds consolidated under the agreement to improve student academic achievement and reduce achievement gaps.
+&emsp;The local flexibility demonstration agreement shall contain an assurance that the local educational agency shall, not later than 1 year after the date on which the Secretary enters into the agreement, and annually thereafter during the term of the agreement, disseminate widely to parents and the general public, transmit to the Secretary, and the State educational agency for the State in which the local educational agency is located, distribute to print and broadcast media, and post on the Internet, a report that includes a detailed description of how the local educational agency used the funds consolidated under the agreement to improve student academic achievement and reduce achievement gaps.
 
 #### (d) Peer review
 
@@ -154,11 +154,7 @@ The Secretary shall—
 
 #### References in Text
 
-Section 7321a of this title, referred to in subsec. (e)(1)(B), was in the original “section 6251”, meaning section 6251 of Pub. L. 89–10, which was translated as reading section 6152 of that Act to reflect the probable intent of Congress, because that Act does not contain a section 6251, and section 6152 of that Act describes programs.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7321c, 7321d, 7321e of this title.
+Section 7321a of this title, referred to in subsec. (e)(1)(B), was in the original “section 6251”, meaningsection 6251 of Pub. L. 89–10, which was translated as reading section 6152 of that Act to reflect the probable intent of Congress, because that Act does not contain a section 6251, and section 6152 of that Act describes programs.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

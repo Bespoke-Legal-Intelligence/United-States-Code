@@ -16,7 +16,3 @@ There are authorized to be appropriated to each agency to carry out the provisio
 
 (Pub. L. 104–4, title II, §203, Mar. 22, 1995, 109 Stat. 65.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1571 of this title; title 5 section 801.
-

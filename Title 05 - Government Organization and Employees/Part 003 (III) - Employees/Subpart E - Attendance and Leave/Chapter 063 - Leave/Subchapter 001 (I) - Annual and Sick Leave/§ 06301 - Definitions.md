@@ -156,7 +156,3 @@ Pub. L. 99–335, title II, §207(c)(2), as added by Pub. L. 99–556, title II,
 
 Ex. Ord. No. 10540, June 29, 1954, 19 F.R. 3983, which related to the designation of certain officers as exempt from the Annual and Sick Leave Act of 1951, was revoked by section 2–201 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out as a note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5551, 6302, 6305, 6306, 6308, 6325, 6331, 6361, 6381, 8339 of this title.
-

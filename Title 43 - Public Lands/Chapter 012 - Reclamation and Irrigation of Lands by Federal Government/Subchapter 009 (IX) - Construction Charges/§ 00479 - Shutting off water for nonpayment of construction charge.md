@@ -8,7 +8,3 @@ No water shall be delivered to the lands of any water-right applicant or entryma
 
 Section is comprised of part of first sentence of section 6 of act Aug. 13, 1914. Remainder of first sentence of such section 6 is classified to sections 493, 494, and 495 of this title; second and third sentences of such section 6 are classified to sections 496 and 497 of this title, respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 511 of this title.
-

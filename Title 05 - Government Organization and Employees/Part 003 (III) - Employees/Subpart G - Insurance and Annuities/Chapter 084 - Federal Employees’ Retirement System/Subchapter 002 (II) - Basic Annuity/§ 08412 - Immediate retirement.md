@@ -52,7 +52,7 @@
 
 (B) For an individual whose date of birth occurs during the 5-year period consisting of calendar years 1965 through 1969, the age increase factor shall be equal to two-twelfths times the number of months in the period beginning with January 1965 and ending with December of the year in which the date of birth occurs.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 524; amended Pub. L. 99–556, title I, §105(a), Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–428, §3(a), Oct. 15, 1990, 104 Stat. 929; Pub. L. 105–261, div. C, title XXXI, §3154(g), Oct. 17, 1998,112 Stat. 2255; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 524; amended Pub. L. 99–556, title I, §105(a), Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–428, §3(a), Oct. 15, 1990, 104 Stat. 929; Pub. L. 105–261, div. C, title XXXI, §3154(g), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87.)
 
 #### Amendments
 
@@ -71,8 +71,4 @@ Amendment by Pub. L. 106–553 effective on the first day of the first applicabl
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5597, 6302, 8413, 8414, 8415, 8420, 8421, 8421a, 8425, 8442, 8452, 8462, 8464, 8901 of this title; title 10 section 10218; title 22 sections 4045, 4046, 4052, 4071d.
 

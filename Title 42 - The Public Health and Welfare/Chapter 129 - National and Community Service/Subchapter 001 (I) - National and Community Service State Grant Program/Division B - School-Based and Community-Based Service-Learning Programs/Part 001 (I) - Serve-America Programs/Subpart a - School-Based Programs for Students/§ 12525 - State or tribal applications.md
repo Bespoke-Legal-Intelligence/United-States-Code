@@ -2,7 +2,7 @@
 
 #### (a) Submission
 
-To be eligible to receive a grant under section 12524(b)(1) of this title, an allotment under subsection (a) or (b)(2) of section 12524 of this title, a reallotment under section 12524(c) of this title,or a grant under section 12524(d) of this title, a State, acting through the State educational agency, or an Indian tribe, shall prepare, submit to the Corporation, and obtain approval of, an application at such time and in such manner as the Chief Executive Officer may reasonably require.
+To be eligible to receive a grant under section 12524(b)(1) of this title, an allotment under subsection (a) or (b)(2) of section 12524 of this title, a reallotment under section 12524(c) of this title, or a grant under section 12524(d) of this title, a State, acting through the State educational agency, or an Indian tribe, shall prepare, submit to the Corporation, and obtain approval of, an application at such time and in such manner as the Chief Executive Officer may reasonably require.
 
 #### (b) Contents
 
@@ -25,8 +25,4 @@ An application that is submitted under subsection (a) of this section with respe
 A prior section 12525, Pub. L. 101–610, title I, §115, Nov. 16, 1990, 104 Stat. 3137; Pub. L. 102–384, §4, Oct. 5, 1992, 106 Stat. 1455, related to priority applications and private school participation, prior to repeal by Pub. L. 103–82, §103(a)(2).
 
 A prior section 113 of Pub. L. 101–610 was classified to section 12523 of this title prior to repeal by Pub. L. 103–82.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12522, 12524, 12526, 12527, 12638 of this title.
 

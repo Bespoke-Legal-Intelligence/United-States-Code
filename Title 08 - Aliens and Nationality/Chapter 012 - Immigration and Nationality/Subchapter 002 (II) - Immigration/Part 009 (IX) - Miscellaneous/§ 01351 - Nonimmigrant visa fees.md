@@ -12,9 +12,9 @@ The Headquarters Agreement, referred to in text, is set out as a note under sect
 
 1997—Pub. L. 105–54 inserted at end “Subject to such criteria as the Secretary of State may prescribe, including the duration of stay of the alien and the financial burden upon the charitable organization, the Secretary of State shall waive or reduce the fee for application and issuance of a nonimmigrant visa for any alien coming to the United States primarily for, or in activities related to, a charitable purpose involving health or nursing care, the provision of food or housing, job training, or any other similar direct service or assistance to poor or otherwise needy individuals in the United States.”
 
-1968—Pub. L. 90–609 struck out provisions fixing statutory fees for specified immigration and nationality benefits and services rendered, including those pertaining to immigrant visas, reentry permits, adjustmentsof status to permanent residence, creation of record of admission for permanent residence, suspension of deportation, extension of stay to nonimmigrants, and application for admission to practice as attorney or representative before the Service.
+1968—Pub. L. 90–609 struck out provisions fixing statutory fees for specified immigration and nationality benefits and services rendered, including those pertaining to immigrant visas, reentry permits, adjustments of status to permanent residence, creation of record of admission for permanent residence, suspension of deportation, extension of stay to nonimmigrants, and application for admission to practice as attorney or representative before the Service.
 
-1965—Subsec. (a). Pub. L. 89–236, §14(a), (b), designated opening provision beginning “The following fees shall be charged:” and ending with the end of par. (7) as subsec. (a) and substituted reference to section 1154 of this title for sections 1154(b) and 1155(b) of this title in par. (6).
+1965—Subsec. (a). Pub. L. 89–236, §14(a), (b), designated opening provision beginning “The following fees shall be charged:” and ending with the end of par. (7) as subsec. (a) and substituted reference to section1154 of this title for sections 1154(b) and 1155(b) of this title in par. (6).
 
 Subsec. (b). Pub. L. 89–236, §14(c), added subsec. (b).
 
@@ -89,8 +89,4 @@ Pub. L. 104–56, title I, §118, Nov. 20, 1995, 109 Stat. 552.
 Pub. L. 104–54, title I, §118, Nov. 19, 1995, 109 Stat. 544.
 
 Pub. L. 104–31, §119, Sept. 30, 1995, 109 Stat. 281.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1356 of this title.
 

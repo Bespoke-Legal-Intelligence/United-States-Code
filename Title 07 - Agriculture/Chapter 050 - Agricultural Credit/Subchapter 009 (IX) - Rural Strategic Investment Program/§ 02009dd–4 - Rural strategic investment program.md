@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If the Secretary approves a national strategic investment plan submitted by the NationalBoard, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the National Board $100,000,000, to remain available until expended, for the Board to use to make planning grants and innovation grants to Regional Boards and to otherwise carry out this subchapter.
+If the Secretary approves a national strategic investment plan submitted by the National Board, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the National Board $100,000,000, to remain available until expended, for the Board to use to make planning grants and innovation grants to Regional Boards and to otherwise carry out this subchapter.
 
 #### (b) Use by National Board
 
@@ -15,8 +15,4 @@ Of the amount transferred by the Secretary to the National Board under subsectio
 &emsp;(3) the remainder of the funds to carry out section 2009dd–7 of this title and administer this subchapter (other than section 2009dd–7 of this title).
 
 (Pub. L. 87–128, title III, §385E, as added Pub. L. 107–171, title VI, §6030, May 13, 2002, 116 Stat. 407.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2009dd–3, 2009dd–5, 2009dd–6 of this title.
 

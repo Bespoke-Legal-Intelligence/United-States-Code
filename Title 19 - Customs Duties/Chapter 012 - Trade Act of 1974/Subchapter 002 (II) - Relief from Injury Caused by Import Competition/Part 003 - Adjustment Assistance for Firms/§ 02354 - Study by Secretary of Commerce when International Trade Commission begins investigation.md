@@ -34,7 +34,3 @@ Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with resp
 
 No technical assistance to be provided under this part after Sept. 30, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2346 of this title.
-

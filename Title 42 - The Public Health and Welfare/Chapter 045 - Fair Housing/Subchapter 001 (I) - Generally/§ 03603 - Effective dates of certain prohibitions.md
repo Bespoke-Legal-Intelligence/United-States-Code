@@ -36,7 +36,3 @@ For the purposes of subsection (b) of this section, a person shall be deemed to 
 
 (Pub. L. 90–284, title VIII, §803, Apr. 11, 1968, 82 Stat. 82.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3604, 3617 of this title.
-

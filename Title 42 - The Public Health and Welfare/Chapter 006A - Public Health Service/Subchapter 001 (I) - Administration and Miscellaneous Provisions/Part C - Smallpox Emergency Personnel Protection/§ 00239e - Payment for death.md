@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The amount of the death benefit under paragraph (1) in a fiscal year shall equal theamount of the comparable benefit calculated under the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) in such fiscal year, without regard to any reduction attributable to a limitation on appropriations, but subject to subparagraph (B).
+&emsp;&emsp;The amount of the death benefit under paragraph (1) in a fiscal year shall equal the amount of the comparable benefit calculated under the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) in such fiscal year, without regard to any reduction attributable to a limitation on appropriations, but subject to subparagraph (B).
 
 #### (B) Reduction for payments for lost employment income
 
@@ -65,10 +65,6 @@ A benefit under subsection (a) or (b) of this section shall be in addition to an
 #### References in Text
 
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (a)(1), (2)(A), (3), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended. Subpart 1 of part L of title I of the Act is classified generally to part A (§3796 et seq.) of subchapter XII of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 239a, 239d, 239g of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -46,7 +46,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 #### (3) Integration of existing plans
 
-&emsp;In developing the restoration plan, the Task Force shall seek to integrate the “Louisiana Comprehensive Coastal Wetlands Feasibility Study” conducted by the Secretary of the Army and the “Coastal Wetlands Conservation and Restoration Plan” prepared by the State of Louisiana's Wetlands Conservation and Restoration Task Force.
+&emsp;In developing the restoration plan, the Task Force shall seek to integrate the “Louisiana Comprehensive Coastal Wetlands Feasibility Study” conducted by the Secretary of the Army and the “Coastal Wetlands Conservationand Restoration Plan” prepared by the State of Louisiana's Wetlands Conservation and Restoration Task Force.
 
 #### (4) Elements of the plan
 
@@ -110,7 +110,7 @@ The Secretary shall, with the funds made available in accordance with this chapt
 
 #### (2) Federal share upon conservation plan approval
 
-&emsp;Notwithstanding the previous paragraph, if the State develops a Coastal Wetlands Conservation Plan pursuant to this chapter, and such conservation plan is approved pursuant to section 3953 of this title, amounts made available in accordance with section 3955 of this title for any coastal wetlands restoration project under this section shall be 85 percent of the cost of the project. In the event that the Secretary, the Director, and the Administrator jointly determine that the State is not taking reasonable steps to implement and administer a conservation plan developed and approved pursuant to this chapter, amounts made available in accordance with section 3955 of this title for any coastal wetlands restoration project shall revert to 75 percent of the cost of the project: <i>Provided, however</i>, that <sup>1</sup> such reversion to the lower cost share level shall not occur until the Governor has been provided notice of, and opportunity for hearing on, any such determination by the Secretary, the Director, and Administrator, and the State has been given ninety days fromsuch notice or hearing to take corrective action.
+&emsp;Notwithstanding the previous paragraph, if the State develops a Coastal Wetlands Conservation Plan pursuant to this chapter, and such conservation plan is approved pursuant to section 3953 of this title, amounts made available in accordance with section 3955 of this title for any coastal wetlands restoration project under this section shall be 85 percent of the cost of the project. In the event that the Secretary, the Director, and the Administrator jointly determine that the State is not taking reasonable steps to implement and administer a conservation plan developed and approved pursuant to this chapter, amounts made available in accordance with section 3955 of this title for any coastal wetlands restoration project shall revert to 75 percent of the cost of the project: <i>Provided, however</i>, that <sup>1</sup> such reversion to the lower cost share level shall not occur until the Governor has beenprovided notice of, and opportunity for hearing on, any such determination by the Secretary, the Director, and Administrator, and the State has been given ninety days from such notice or hearing to take corrective action.
 
 #### (3) Form of State share
 
@@ -131,10 +131,6 @@ The Secretary shall, with the funds made available in accordance with this chapt
 1996—Subsec. (f)(4). Pub. L. 104–303, §532(1), substituted “(3), and (5)” for “and (3)”.
 
 Subsec. (f)(5). Pub. L. 104–303, §532(2), added par. (5).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3953 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

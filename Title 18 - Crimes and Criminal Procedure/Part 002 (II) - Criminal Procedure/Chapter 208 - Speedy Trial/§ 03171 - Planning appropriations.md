@@ -6,7 +6,3 @@
 
 (Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2084.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3168 of this title.
-

@@ -96,7 +96,7 @@ Amendment by Pub. L. 87–793 effective on first day of first pay period which b
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -105,8 +105,4 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 #### Entitlement to Benefits for Services Performed Outside United States; Service Exceeding Thirty Months
 
 Persons appointed, employed, or assigned after May 19, 1959, under former section 1787(c) of this title or subsec. (d) of this section for the purpose of performing functions under the Mutual Security Act of 1954 (see Short Title note set out under section 1754 of this title) and this chapter, outside the United States, shall not, unless otherwise agreed by the agency in which such benefits may be exercised, be entitled to the benefits provided for by section 3950 of this title in cases in which their service under the appointment, employment, or assignment exceeds thirty months, see Ex. Ord. No. 12163, §1–602(b), Sept. 29, 1979, 44 F.R. 56677, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2396 of this title; title 37 section 306a.
 

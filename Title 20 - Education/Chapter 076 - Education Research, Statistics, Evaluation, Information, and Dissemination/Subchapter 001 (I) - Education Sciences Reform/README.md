@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—EDUCATION SCIENCES REFORM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3412, 3419 of this title.
-
 
 ---
 
@@ -14,4 +10,5 @@ This subchapter is referred to in sections 3412, 3419 of this title.
 - [Part B - National Center for Education Research](Part%20B%20-%20National%20Center%20for%20Education%20Research/README.md)
 - [Part C - National Center for Education Statistics](Part%20C%20-%20National%20Center%20for%20Education%20Statistics/README.md)
 - [Part D - National Center for Education Evaluation and Regional Assistance](Part%20D%20-%20National%20Center%20for%20Education%20Evaluation%20and%20Regional%20Assistance/README.md)
-- [Part E - General Provisions](Part%20E%20-%20General%20Provisions/README.md)
+- [Part E - National Center for Special Education Research](Part%20E%20-%20National%20Center%20for%20Special%20Education%20Research/README.md)
+- [Part F - General Provisions](Part%20F%20-%20General%20Provisions/README.md)

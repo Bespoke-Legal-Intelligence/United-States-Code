@@ -10,7 +10,3 @@
 
 (Added Pub. L. 98–557, §17(b)(2)(A), Oct. 30, 1984, 98 Stat. 2867.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 257 of this title.
-

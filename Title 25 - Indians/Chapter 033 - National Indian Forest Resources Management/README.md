@@ -50,6 +50,14 @@
 | (a) | Cooperative agreements. |
 | (b) | Supervision. |
 | (c) | Savings provision. |
+| [3115a.](%C2%A7%2003115a%20-%20Tribal%20forest%20assets%20protection.md) | Tribal forest assets protection. |
+| (a) | Definitions. |
+| (b) | Authority to protect Indian forest land or rangeland. |
+| (c) | Selection criteria. |
+| (d) | Notice of denial. |
+| (e) | Proposal evaluation and determination factors. |
+| (f) | No effect on existing authority. |
+| (g) | Report. |
 | [3116\.](%C2%A7%2003116%20-%20Obligated%20service%3B%20breach%20of%20contract.md) | Obligated service; breach of contract. |
 | (a) | Obligated service. |
 | (b) | Breach of contract; repayment. |
@@ -59,10 +67,6 @@
 | [3120\.](%C2%A7%2003120%20-%20Trust%20responsibility.md) | Trust responsibility. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 715c of this title.
 
 
 ---
@@ -84,6 +88,7 @@ This chapter is referred to in section 715c of this title.
 - [&sect; 03113 - Establishment of Indian and Alaska Native forestry education assistance](%C2%A7%2003113%20-%20Establishment%20of%20Indian%20and%20Alaska%20Native%20forestry%20education%20assistance.md)
 - [&sect; 03114 - Postgraduation recruitment, education and training programs](%C2%A7%2003114%20-%20Postgraduation%20recruitment%2C%20education%20and%20training%20programs.md)
 - [&sect; 03115 - Cooperative agreement between Department of the Interior and Indian tribes](%C2%A7%2003115%20-%20Cooperative%20agreement%20between%20Department%20of%20the%20Interior%20and%20Indian%20tribes.md)
+- [&sect; 03115a - Tribal forest assets protection](%C2%A7%2003115a%20-%20Tribal%20forest%20assets%20protection.md)
 - [&sect; 03116 - Obligated service; breach of contract](%C2%A7%2003116%20-%20Obligated%20service%3B%20breach%20of%20contract.md)
 - [&sect; 03117 - Authorization of appropriations](%C2%A7%2003117%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 03118 - Regulations](%C2%A7%2003118%20-%20Regulations.md)

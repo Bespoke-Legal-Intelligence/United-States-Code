@@ -59,7 +59,7 @@ The Central Intelligence Agency Retirement Act, referred to in subsecs. (a)(3) a
 
 The Peace Corps Act, referred to in subsec. (c)(1)(A), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-The Economic Opportunity Act of 1964, referred to in subsec. (c)(1)(B), is Pub. L. 88–452, Aug. 20, 1964, 73 Stat. 508, as amended. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452, as added by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which wasclassified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. See sections 4951 et seq., 5042(13)(A), and 5055 of Title 42.
+The Economic Opportunity Act of 1964, referred to in subsec. (c)(1)(B), is Pub. L. 88–452, Aug. 20, 1964, 73 Stat. 508, as amended. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452, as added by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. See sections 4951 et seq., 5042(13)(A), and 5055 of Title 42.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Parts A, B, and C of title I of the Act are classified to Parts A (§4951 et seq.), B (§4971 et seq.), and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
@@ -106,8 +106,4 @@ Amendment by Pub. L. 99–556 effective Jan. 1, 1987, see section 408 of Pub. L.
 #### Impact of Amendments by Pub. L. 105–33 on Agency Contributions
 
 Section 7001(e)(2) of Pub. L. 105–33 provided that: “Agency contributions under section 857 of the Foreign Service Act of 1980 (22 U.S.C. 4071f) shall not be reduced as a result of the amendments made under paragraph (1) of this subsection \[amending this section and section 4071e of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4071a of this title.
 

@@ -54,7 +54,7 @@ Assistance and other activities under the SEED Program (which may be referred to
 
 &emsp;United States leadership in supporting—
 
-&emsp;&emsp;(A) loans by the International Bank for Reconstruction and Development and its affiliated institutions in the World Bank group that are designed to modernize industry, agriculture, and infrastructure, and
+&emsp;&emsp;(A) loans by the International Bank for Reconstruction and Development and its affiliated institutions in the World Bankgroup that are designed to modernize industry, agriculture, and infrastructure, and
 
 &emsp;&emsp;(B) International Monetary Fund programs designed to stimulate sound economic growth.
 

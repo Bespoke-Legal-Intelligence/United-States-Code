@@ -346,9 +346,5 @@ Delay in disclosure of information in certain cases.—The Secretary of the Trea
 
 Pub. L. 103–202, title II, §203, Dec. 17, 1993, 107 Stat. 2359, provided that: “The Secretary of the Treasury shall notify the Congress of any significant modifications to the auction process for issuing United States Treasury obligations at the time such modifications are implemented.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3102, 3103, 3104 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

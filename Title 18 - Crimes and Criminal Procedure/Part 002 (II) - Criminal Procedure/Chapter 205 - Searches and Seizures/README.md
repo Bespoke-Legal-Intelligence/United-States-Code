@@ -42,10 +42,6 @@ Pub. L. 90–351 enacted section 3103a of this title as part of chapter 204, and
 
 Words “magistrate judge” substituted for “magistrate” in item 3116 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 26 section 7302.
-
 
 ---
 

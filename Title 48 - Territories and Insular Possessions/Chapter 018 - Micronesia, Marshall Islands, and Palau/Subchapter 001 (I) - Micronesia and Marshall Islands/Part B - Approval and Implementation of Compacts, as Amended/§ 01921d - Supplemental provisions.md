@@ -54,7 +54,7 @@ Joint economic management and financial accountability committee.—
 
 &emsp;&emsp;(i)
 
-In general.—The three United States appointees (United States chair plus two members) to the Joint Economic Management and Financial Accountability Committee provided for in section 214 of the U.S.-RMI Compact and Article III of the U.S.-RMI Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-RMI Compact shall be United States Government officers or employees.
+In general.—The three United States appointees (United States chair plus twomembers) to the Joint Economic Management and Financial Accountability Committee provided for in section 214 of the U.S.-RMI Compact and Article III of the U.S.-RMI Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-RMI Compact shall be United States Government officers or employees.
 
 &emsp;&emsp;(ii)
 
@@ -66,7 +66,7 @@ Additional scope.—Section 214 of the U.S.-RMI Compact shall be construed to re
 
 (8)
 
-Oversight and coordination.—It is the sense of Congress that the Secretary of State and the Secretary of the Interior shall ensure that there are personnel resources committed in the appropriate numbers and locations to ensureeffective oversight of United States assistance, and effective coordination of assistance among United States agencies and with other international donors such as the Asian Development Bank.
+Oversight and coordination.—It is the sense of Congress that the Secretary of State and the Secretary of the Interior shall ensure that there are personnel resources committed in the appropriate numbers and locations to ensure effective oversight of United States assistance, and effective coordination of assistance among United States agencies and with other international donors such as the Asian Development Bank.
 
 (9) The United States voting members (United States chair plus two or more members) of the Trust Fund Committee appointed by the Government of the United States pursuant to Article 7 of the Trust Fund Agreement implementing section 215 of the U.S.-FSM Compact and referred to in section 462(b)(5) of the U.S.-FSM Compact and any alternates designated by the Government of the United States shall be United States Government officers or employees. The United States voting members (United States chair plus two or more members) of the Trust Fund Committee appointed by the Government of the United States pursuant to Article 7 of the Trust Fund Agreement implementing section 216 of the U.S.-RMI Compact and referred to in section 462(b)(5) of the U.S.-RMI Compact and any alternates designated by the Government of the United States shall be United States Government officers or employees. It is the sense of Congress that the appointees should be designated from the Department of State, the Department of the Interior, and the Department of the Treasury.
 
@@ -86,7 +86,7 @@ In furtherance of the provisions of Title Four, Article V, sections 452 and 453 
 
 #### (e) Noncompliance sanctions; actions incompatible with United States authority
 
-Congress expresses its understanding that the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands will not act in a manner incompatible with the authority and responsibility of the United States for security and defense matters in or related to the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact or the U.S.-RMI Compact, including the agreements referred to in sections 462(a)(2) of the U.S.-FSM Compact and 462(a)(5) of the U.S.-RMI Compact. Congress further expresses its intention that any such act on the part of either such Government will be viewed by the United States as a material breach of the U.S.-FSM Compact or U.S.-RMI Compact. The Government of the United States reserves the right in the event of such a material breach of the U.S.-FSM Compact by the Government of the Federated States of Micronesia or the U.S.-RMI Compact by the Government of the Republic of the Marshall Islands to take action, including (but not limited to) the suspension in whole or in part of the obligations of the Government of the United States to that Government.
+Congress expresses its understanding that the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands will not act in a manner incompatible with the authority and responsibility of the United States for security and defense matters in or related to the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact or the U.S.-RMI Compact, including the agreements referred to in sections 462(a)(2) of the U.S.-FSM Compact and 462(a)(5) of the U.S.-RMI Compact. Congress further expresses its intention that any such act on the part of either such Government will be viewed by the United States as a material breach of the U.S.-FSM Compact or U.S.-RMI Compact. The Government of the United Statesreserves the right in the event of such a material breach of the U.S.-FSM Compact by the Government of the Federated States of Micronesia or the U.S.-RMI Compact by the Government of the Republic of the Marshall Islands to take action, including (but not limited to) the suspension in whole or in part of the obligations of the Government of the United States to that Government.
 
 #### (f) Continuing programs and laws
 
@@ -96,7 +96,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (A) Continuation of the programs and services of the Federal Emergency Management Agency
 
-&emsp;&emsp;Except as provided in clauses (ii) and (iii), the programs and services of the Department of Homeland Security, Federal Emergency Management Agency shall continue to be available to the Federated States of Micronesia and the Republic of the Marshall Islands to the same extent as such programsand services were available in fiscal year 2003.
+&emsp;&emsp;Except as provided in clauses (ii) and (iii), the programs and services of the Department of Homeland Security, Federal Emergency Management Agency shall continue to be available to the Federated States of Micronesia and the Republic of the Marshall Islands to the same extent as such programs and services were available in fiscal year 2003.
 
 &emsp;&emsp;&emsp;(i) Paragraph (a)(6) of section 221 of the U.S.-FSM Compact and paragraph (a)(5) of the U.S.-RMI Compact shall each be construed as though the paragraph reads as follows: “the Department of Homeland Security, United States Federal Emergency Management Agency.”.
 
@@ -126,7 +126,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (iii) Supplemental education grants
 
-&emsp;&emsp;&emsp;In lieu of eligibility for appropriations under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.), title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), other than subtitle C of that Act (29 U.S.C. 2881 et seq.) (Job Corps), title II ofthe Workforce Investment Act of 1998 (20 U.S.C. 9201 et seq.; commonly known as the Adult Education and Family Literacy Act), title I of the Carl D. Perkins Vocational and Technical Education Act of 1998 (20 U.S.C. 2321 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), and subpart 3 of part A, and part C, of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq., 42 U.S.C. 2751 et seq.), there are authorized to be appropriated to the Secretary of Education to supplement the education grants under section 211(a)(1) of the U.S.-FSM Compact and section 211(a)(1) of the U.S.-RMI Compact, respectively, the following amounts:
+&emsp;&emsp;&emsp;In lieu of eligibility for appropriations under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.), title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), other than subtitle C of that Act (29 U.S.C. 2881 et seq.) (Job Corps), title II of the Workforce Investment Act of 1998 (20 U.S.C. 9201 et seq.; commonly known as the Adult Education and Family Literacy Act), title I of the Carl D. Perkins Vocational and Technical Education Act of 1998 (20 U.S.C. 2321 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), and subpart 3 of part A, and part C, of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq., 42 U.S.C. 2751 et seq.), there are authorized to be appropriated to the Secretary of Education to supplement the education grants under section 211(a)(1) of the U.S.-FSM Compact and section 211(a)(1) of the U.S.-RMI Compact, respectively, the following amounts:
 
 &emsp;&emsp;&emsp;&emsp;(I) $12,230,000 for the Federated States of Micronesia for fiscal year 2005 and an equivalent amount, as adjusted for inflation under section 217 of the U.S.-FSM Compact, for each of fiscal years 2005 through 2023; and
 
@@ -166,7 +166,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (2) Tort claims
 
-&emsp;The provisions of section 178 of the U.S.-FSM Compact and the U.S.-RMI Compact regarding settlement and payment of tortclaims shall apply to employees of any Federal agency of the Government of the United States (and to any other person employed on behalf of any Federal agency of the Government of the United States on the basis of a contractual, cooperative, or similar agreement) which provides any service or carries out any other function pursuant to or in furtherance of any provisions of the U.S.-FSM Compact or the U.S.-RMI Compact or this joint resolution, except for provisions of Title Three of the Compact and of the subsidiary agreements related to such Title, in such area to which such Agreement formerly applied.
+&emsp;The provisions of section 178 of the U.S.-FSM Compact and the U.S.-RMI Compact regarding settlement and payment of tort claims shall apply to employees of any Federal agency of the Government of the United States (and to any other person employed on behalf of any Federal agency of the Government of the United States on the basis of a contractual, cooperative, or similar agreement) which provides any service or carries out any other function pursuant to or in furtherance of any provisions of the U.S.-FSM Compact or the U.S.-RMI Compact or this joint resolution, except for provisions of Title Three of the Compact and of the subsidiary agreements related to such Title, in such area to which such Agreement formerly applied.
 
 #### (3) PCB cleanup
 
@@ -204,7 +204,7 @@ There are authorized to be appropriated such sums as may be necessary to complet
 
 #### (m) Communicable disease control program
 
-There are authorized to be appropriated for grants to the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands, and the governments of the affected jurisdictions, such sums as may be necessary for purposes of establishing or continuing programs for the control and prevention of communicable diseases, including (but not limited to) cholera, tuberculosis, and Hansen's Disease. The Secretary of the Interior shall assist the Government of the FederatedStates of Micronesia, the Government of the Republic of the Marshall Islands and the governments of the affected jurisdictions in designing and implementing such a program.
+There are authorized to be appropriated for grants to the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands, and the governments of the affected jurisdictions, such sums as may be necessary for purposes of establishing or continuing programs for the control and prevention of communicable diseases, including (but not limited to) cholera, tuberculosis, and Hansen's Disease. The Secretary of the Interior shall assist the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands and the governments of the affected jurisdictions in designing and implementing such a program.
 
 #### (n) User fees
 
@@ -246,13 +246,13 @@ Section 3927 of title 22, referred to in subsec. (b)(5), was in the original “
 
 Act of June 30, 1954, referred to in subsec. (c), is act June 30, 1954, ch. 423, 68 Stat. 330, as amended, which enacted sections 1681 and 1681b of this title and provisions set out as notes under section 1681 of this title. For complete classification of this Act to the Code, see Tables.
 
-The joint resolution of January 14, 1986 (Public Law 99–239), referred to in subsec. (c)(1), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The joint resolution of January 14, 1986 (Public Law 99–239), referred to in subsec. (c)(1), is Pub. L. 99–239,Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (f)(1)(A)(iii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (f)(1)(B)(ii)(I), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (f)(1)(B)(ii)(II), (iii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20, Education. Subpart 3 of part A of title IV of the Act is classified generally to subpart 3 (§1070b et seq.) of part A of subchapter IV of chapter 28 of Title 20. Part C of title IV of the Act is classified generally to partC (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (f)(1)(B)(ii)(II), (iii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20, Education. Subpart 3 of part A of title IV of the Act is classified generally to subpart 3 (§1070b et seq.) of part A of subchapter IV of chapter 28 of Title 20. Part C of title IV of the Act is classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(B)(iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
@@ -263,8 +263,4 @@ The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to 
 The Head Start Act, referred to in subsec. (f)(1)(B)(iii), (v), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 The National Historic Preservation Act, referred to in subsec. (j), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1921a, 1921b, 1921h of this title.
 

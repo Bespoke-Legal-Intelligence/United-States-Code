@@ -14,7 +14,3 @@ In promulgating the regulations, the Secretary shall, to the maximum extent prac
 
 (Aug. 14, 1946, ch. 966, title II, §284, as added Pub. L. 107–171, title X, §10816, May 13, 2002, 116 Stat. 535.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1638a of this title.
-

@@ -8,7 +8,3 @@ The affairs of the National Trust shall be under the general direction of a boar
 
 1953—Act July 28, 1953, provided that the general trustees be elected by members of the trust rather than by the National Council for Historic Sites and Buildings.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 468, 468c, 468d, 470a of this title.
-

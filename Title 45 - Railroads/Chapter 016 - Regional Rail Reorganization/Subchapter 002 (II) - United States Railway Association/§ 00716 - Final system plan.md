@@ -32,7 +32,7 @@ The final system plan shall designate—
 
 &emsp;&emsp;(A) shall be transferred to the Corporation: <i>Provided</i>, That the Corporation shall, within 95 days after the effective date of the final system plan, give notice to the Association of which such rail properties, if any, are to be transferred to a subsidiary of the Corporation in the event that the Board of Directors of the Association finds that such transfer would be consistent with the final system plan;
 
-&emsp;&emsp;(B) shall be offered for sale to a profitable railroad operating in the region and, if such offer is accepted, operated by such railroad; the plan shall designate what additions shall be made to the designation under subparagraph (A) of this paragraph and what alternative designations shall be made under this paragraph in the event such profitable railroad fails to accept such offer;
+&emsp;&emsp;(B) shall be offered for sale to a profitable railroad operating in the region and, if such offer is accepted, operated by such railroad;the plan shall designate what additions shall be made to the designation under subparagraph (A) of this paragraph and what alternative designations shall be made under this paragraph in the event such profitable railroad fails to accept such offer;
 
 &emsp;&emsp;(C) shall be purchased, leased, or otherwise acquired from the Corporation by the National Railroad Passenger Corporation in accordance with the exercise of its option under section 791(d) of this title for improvement to achieve the goal set forth in subsection (a)(3) of this section;
 
@@ -72,7 +72,7 @@ All transfers or conveyances pursuant to the final system plan shall be made in 
 
 The final system plan shall set forth—
 
-&emsp;(1) pro forma earnings for the Corporation, as reasonably projected and considering theadditions or changes in the designation of rail properties to be operated by the Corporation which may be made under subsection (d)(4) of this section;
+&emsp;(1) pro forma earnings for the Corporation, as reasonably projected and considering the additions or changes in the designation of rail properties to be operated by the Corporation which may be made under subsection (d)(4) of this section;
 
 &emsp;(2) the capital structure of the Corporation, based on the pro forma earnings of the Corporation as set forth, including such debt capitalization as shall be reasonably deemed to conform to the requirements of the public interest with respect to railroad debt securities, including the adequacy of coverage of fixed charges; and
 
@@ -96,7 +96,7 @@ The final system plan may include terms and conditions for any securities to be 
 
 #### (j) Additional properties deemed designated
 
-Any rail properties over which rail service was being provided as of February 5, 1976, and which were recommended in the preliminary system plan for transfer to the Corporation, shall be deemed to be designated in the final system plan for transfer to the Corporation under subsection (c)(1)(A) of this section. Any designation in the final system plan, pursuant to subsection (c)(1)(B) of this section, of overhead trackage rights to be acquired by a profitable railroad operating in the region over specified rail properties to be acquired by the Corporation, where such designation does not (1) authorize such profitable railroad to interchange traffic with at least one railroad, or (2) provide for the connection of portions of such profitable railroad's rail properties, and where the transfer of ownership of such rail properties (including trackage rights) to such profitable railroad was recommended in the preliminary system plan, and the Commission has made a determination with respect thereto, in accordance with subsection (d)(3) of this section, shall be deemed to authorize such profitable railroad to interchange traffic with the Corporation and any other profitable railroad connecting with such specified rail properties.
+Any rail properties over which rail service was being provided as of February 5, 1976, and which were recommended in the preliminary system plan for transfer to the Corporation, shall be deemed to be designated in the final system plan for transfer to the Corporation under subsection (c)(1)(A) of this section. Any designation in the final system plan, pursuant to subsection\(c)(1)(B) of this section, of overhead trackage rights to be acquired by a profitable railroad operating in the region over specified rail properties to be acquired by the Corporation, where such designation does not (1) authorize such profitable railroad to interchange traffic with at least one railroad, or (2) provide for the connection of portions of such profitable railroad's rail properties, and where the transfer of ownership of such rail properties (including trackage rights) to such profitable railroad was recommended in the preliminary system plan, and the Commission has made a determination with respect thereto, in accordance with subsection (d)(3) of this section, shall be deemed to authorize such profitable railroad to interchange traffic with the Corporation and any other profitable railroad connecting with such specified rail properties.
 
 (Pub. L. 93–236, title II, §206, Jan. 2, 1974, 87 Stat. 994; Pub. L. 94–5, §2(b), Feb. 28, 1975, 89 Stat. 7; Pub. L. 94–210, title VI, §607(e)–(j), (<i>o</i>)–(q), title VIII, §807, Feb. 5, 1976, 90 Stat. 96–98, 143; Pub. L. 94–436, §§2, 4, Sept. 30, 1976, 90 Stat. 1398; Pub. L. 94–555, title II, §202(a), (c), Oct. 19, 1976, 90 Stat. 2616, 2617; Pub. L. 95–611, §4(a), Nov. 8, 1978, 92 Stat. 3090.)
 
@@ -165,10 +165,6 @@ See section 1341 of this title.
 #### Applicability of National Environmental Policy Act
 
 Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 702, 717, 718, 725, 743, 744, 745, 747, 791 of this title; title 49 sections 24907, 24909.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

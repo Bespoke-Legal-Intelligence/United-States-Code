@@ -30,7 +30,7 @@ The Secretary may establish rates for the retention bonus which shall provide fo
 
 #### (d) Time of payment
 
-The retention bonus for the entire period covered by the agreement described in subsection (a)(4) of this section shall be paid at the beginning of the agreed upon term of service.
+The retention bonus for the entire period covered by the agreement described in subsection\(a)(4) of this section shall be paid at the beginning of the agreed upon term of service.
 
 #### (e) Refund; interest
 
@@ -53,8 +53,4 @@ The Indian Self-Determination Act, referred to in subsec. (f), is title I of Pub
 #### Amendments
 
 1992—Subsecs. (b) to (f). Pub. L. 102–573 added subsec. (b), redesignated former subsecs. (b) to (e) as (c) to (f), respectively, and amended subsec. (f) generally, substituting provisions relating to physicians and nurses employed under the Indian Self-Determination Act for provisions which authorized appropriations for fiscal years 1990 to 1992.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1621h of this title.
 

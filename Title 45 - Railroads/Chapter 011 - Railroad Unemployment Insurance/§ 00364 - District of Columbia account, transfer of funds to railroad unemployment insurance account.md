@@ -4,7 +4,3 @@ The Secretary of the Treasury is authorized and directed to transfer from the ac
 
 (June 25, 1938, ch. 680, §14(b), 52 Stat. 1113.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 360 of this title.
-

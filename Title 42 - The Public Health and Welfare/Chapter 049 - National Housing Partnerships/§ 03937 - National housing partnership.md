@@ -40,7 +40,3 @@ The District of Columbia Uniform Limited Partnership Act, referred to in subsecs
 
 The District of Columbia Uniform Partnership Act, referred to in subsec. (b), is Pub. L. 87–709, Sept. 27, 1962, 76 Stat. 636, as amended, which is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3932, 3933 of this title; title 12 sections 24, 1464.
-

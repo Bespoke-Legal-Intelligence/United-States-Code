@@ -50,7 +50,3 @@ In addition to any liability which he may have under any other provisions of thi
 
 (Pub. L. 93–406, title I, §405, Sept. 2, 1974, 88 Stat. 878.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1002, 1003, 1102, 1110, 1114 of this title; title 26 section 4975.
-

@@ -4,7 +4,3 @@ No property distributed under the provisions of this subchapter shall at the tim
 
 (Pub. L. 87–629, §8, Sept. 5, 1962, 76 Stat. 430.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 971 of this title.
-

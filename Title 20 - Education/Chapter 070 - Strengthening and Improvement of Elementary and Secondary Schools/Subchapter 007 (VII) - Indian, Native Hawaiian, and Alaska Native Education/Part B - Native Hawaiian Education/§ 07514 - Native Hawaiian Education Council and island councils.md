@@ -74,7 +74,7 @@ The Secretary shall make a direct grant to the Education Council to carry out th
 
 #### (2) Composition of island councils
 
-&emsp;Each island council shall consist of parents, students, and other community members whohave an interest in the education of Native Hawaiians, and shall be representative of individuals concerned with the educational needs of all age groups, from children in preschool through adults. At least three-fourths of the members of each island council shall be Native Hawaiians.
+&emsp;Each island council shall consist of parents, students, and other community members who have an interest in the education of Native Hawaiians, and shall be representative of individuals concerned with the educational needs of all age groups, from children in preschool through adults. At least three-fourths of the members of each island council shall be Native Hawaiians.
 
 #### (g) Administrative provisions relating to Education Council and island councils
 
@@ -97,8 +97,4 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 #### Prior Provisions
 
 A prior section 7514, Pub. L. 89–10, title VII, §7204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3738, related to applications for grants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 7259b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7515 of this title.
 

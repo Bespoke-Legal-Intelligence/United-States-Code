@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—PROGRAMS AND OFFICES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5602, 13014, 13024 of this title.
-
 
 ---
 

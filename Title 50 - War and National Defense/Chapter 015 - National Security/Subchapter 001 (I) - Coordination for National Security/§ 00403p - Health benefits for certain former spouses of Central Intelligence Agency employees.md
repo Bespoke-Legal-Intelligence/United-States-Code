@@ -20,13 +20,13 @@ Except as provided in subsection (e) of this section, any individual—
 
 &emsp;(B) arranges to pay currently into the Employees Health Benefits Fund under section 8909 of title 5 an amount equal to the sum of the employee and agency contributions payable in the case of an employee enrolled under chapter 89 of such title in the same health benefits plan and with the same level of benefits.
 
-(2) The Director of Central Intelligence shall, as soon as possible, take all steps practicable—
+(2) The Director of the Central Intelligence Agency shall, as soon as possible, take all steps practicable—
 
 &emsp;(A) to determine the identity and current address of each former spouse eligible for coverage under subsection (a) of this section; and
 
 &emsp;(B) to notify each such former spouse of that individual's rights under this section.
 
-(3) The Director of the Office of Personnel Management, upon notification by the Director of Central Intelligence, shall waive the six-month limitation set forth in paragraph (1) in any case in which the Director of Central Intelligence determines that the circumstances so warrant.
+(3) The Director of the Office of Personnel Management, upon notification by the Director of the Central Intelligence Agency, shall waive the six-month limitation set forth in paragraph (1) in any case in which the Director of the Central Intelligence Agency determines that the circumstances so warrant.
 
 #### (c) Eligibility of former wives or husbands
 
@@ -34,7 +34,7 @@ Except as provided in subsection (e) of this section, any individual—
 
 &emsp;(A) who was divorced on or before December 4, 1991, from a participant or retired participant in the Central Intelligence Agency Retirement and Disability System or the Federal Employees Retirement System Special Category;
 
-&emsp;(B) who was married to such participant for not less than ten years during the participant's creditable service, at least five years of which were spent by the participant during the participant's service as an employee of the Agency outside the United States, or otherwise in a position the duties of which qualified the participant for designation by the Director of Central Intelligence as a participant under section 2013 of this title; and
+&emsp;(B) who was married to such participant for not less than ten years during the participant's creditable service, at least five years of which were spent by the participant during the participant's service as an employee of the Agency outside the United States, or otherwise in a position the duties of which qualified the participant for designation by the Director as a participant under section 2013 of this title; and
 
 &emsp;(C) who was enrolled in a health benefits plan as a family member at any time during the 18-month period before the date of dissolution of the marriage to such participant;
 
@@ -68,13 +68,19 @@ No individual may be covered by a health benefits plan under this section during
 
 For purposes of this section the term “health benefits plan” means an approved health benefits plan under chapter 89 of title 5.
 
-(June 20, 1949, ch. 227, §16, as added Pub. L. 99–569, title III, §303(a), Oct. 27, 1986, 100 Stat. 3194; amended Pub. L. 102–88, title III, §307(c), Aug. 14, 1991, 105 Stat. 433; Pub. L. 103–178, title II, §203(c), Dec. 3, 1993, 107 Stat. 2031.)
+(June 20, 1949, ch. 227, §16, as added Pub. L. 99–569, title III, §303(a), Oct. 27, 1986, 100 Stat. 3194; amended Pub. L. 102–88, title III, §307(c), Aug. 14, 1991, 105 Stat. 433; Pub. L. 103–178, title II, §203(c), Dec. 3, 1993, 107 Stat. 2031; Pub. L. 108–458, title I, §1071(b)(2)(B), (b)(3)(B), (C), Dec. 17, 2004, 118 Stat. 3690, 3691.)
 
 #### Codification
 
 Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Amendments
+
+2004—Subsec. (b)(2). Pub. L. 108–458, §1071(b)(3)(B), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence” in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 108–458, §1071(b)(3)(C), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence” in two places.
+
+Subsec. (c)(1)(B). Pub. L. 108–458, §1071(b)(2)(B), struck out “of Central Intelligence” after “Director”.
 
 1993—Subsec. (a). Pub. L. 103–178, §203(c)(2)(A), substituted “subsection (e)” for “subsection (c)(1)” in introductory provisions.
 
@@ -87,6 +93,10 @@ Pub. L. 103–178, §203(c)(1)(A), redesignated subsec. (c) as (e). Former subse
 Subsecs. (f), (g). Pub. L. 103–178, §203(c)(1)(A), redesignated subsecs. (d) and (e) as (f) and (g), respectively.
 
 1991—Subsec. (c)(3). Pub. L. 102–88 added par. (3).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -103,8 +113,4 @@ Section 303(b) of Pub. L. 99–569 provided that: “The amendment made by this 
 #### Compliance With Budget Act
 
 Section 307(e) of Pub. L. 102–88 provided that: “Any new spending authority (within the meaning of section 401(c) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)\]) provided pursuant to the amendments made by this section \[amending this section and provisions formerly set out as a note under section 403 of this title\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403a, 403e, 403f of this title.
 

@@ -4,7 +4,3 @@ The Secretary, by cooperative agreements, may arrange with the Department of Agr
 
 (Aug. 11, 1939, ch. 717, §6, as added Oct. 14, 1940, ch. 861, 54 Stat. 1123.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 590z–1 of this title.
-

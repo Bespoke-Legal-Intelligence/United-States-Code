@@ -13,10 +13,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 6705 of this title; title 29 sections 721, 792; title 39 section 410.
-
 
 ---
 

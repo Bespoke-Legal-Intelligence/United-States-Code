@@ -4,7 +4,7 @@
 
 In order to prevent discrimination against State-chartered depository institutions, and other nonfederally chartered housing creditors, with respect to making, purchasing, and enforcing alternative mortgage transactions, housing creditors may make, purchase, and enforce alternative mortgage transactions, except that this section shall apply—
 
-&emsp;(1) with respect to banks, only to transactions made in accordance with regulations governing alternative mortgage transactionsas issued by the Comptroller of the Currency for national banks, to the extent that such regulations are authorized by rulemaking authority granted to the Comptroller of the Currency with regard to national banks under laws other than this section;
+&emsp;(1) with respect to banks, only to transactions made in accordance with regulations governing alternative mortgage transactions as issued by the Comptroller of the Currency for national banks, to the extent that such regulations are authorized by rulemaking authority granted to the Comptroller of the Currency with regard to national banks under laws other than this section;
 
 &emsp;(2) with respect to credit unions, only to transactions made in accordance with regulations governing alternative mortgage transactions as issued by the National Credit Union Administration Board for Federal credit unions, to the extent that such regulations are authorized by rulemaking authority granted to the National Credit Union Administration with regard to Federal credit unions under laws other than this section; and
 
@@ -12,7 +12,7 @@ In order to prevent discrimination against State-chartered depository institutio
 
 #### (b) Transactions deemed in compliance with applicable regulations
 
-For the purpose of determining the applicability of this section, an alternative mortgage transaction shall be deemed to be made in accordance with the applicable regulation notwithstanding the housing creditor's failure to comply with the regulation, if—
+For the purpose of determining the applicability of this section, an alternative mortgagetransaction shall be deemed to be made in accordance with the applicable regulation notwithstanding the housing creditor's failure to comply with the regulation, if—
 
 &emsp;(1) the transaction is in substantial compliance with the regulation; and
 
@@ -31,8 +31,4 @@ An alternative mortgage transaction may be made by a housing creditor in accorda
 #### Effective Date
 
 Section effective Oct. 15, 1982, see section 807(a) of Pub. L. 97–320, set out as a note under section 3801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1715z–20, 3804 of this title.
 

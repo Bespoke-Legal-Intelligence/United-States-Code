@@ -94,7 +94,7 @@ Pub. L. 105–312, title III, §304, Oct. 30, 1998, 112 Stat. 2958, provided tha
 
 “(a)
 
-In General.—Notwithstanding section 4(a)(1)(D) of the North American Wetlands Conservation Act (16U.S.C. 4403(a)(1)(D)), during the period of 1999 through 2002, the membership of the North American Wetlands Conservation Council under section 4(a)(1)(D) of that Act shall consist of—
+In General.—Notwithstanding section 4(a)(1)(D) of the North American Wetlands Conservation Act (16 U.S.C. 4403(a)(1)(D)), during the period of 1999 through 2002, the membership of the North American Wetlands Conservation Council under section 4(a)(1)(D) of that Act shall consist of—
 
 &emsp;“(1) 1 individual who shall be the Group Manager for Conservation Programs of Ducks Unlimited, Inc. and who shall serve for 1 term of 3 years beginning in 1999; and
 

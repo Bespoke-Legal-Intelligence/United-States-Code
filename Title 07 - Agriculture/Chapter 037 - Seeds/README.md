@@ -87,10 +87,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 15 sections 1459, 2311.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 

@@ -58,9 +58,5 @@ Par. (8). Pub. L. 101–73, §962(e)(2)(E), struck out par. (8) which read as fo
 
 1986—Pub. L. 99–370 amended subsec. (b) \[formerly §215(b)\] generally expanding provisions formerly contained in subsec. (c) \[former §215(c)\] defining “financial institution”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 656, 984, 1005 of this title; title 12 sections 1785, 1829.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

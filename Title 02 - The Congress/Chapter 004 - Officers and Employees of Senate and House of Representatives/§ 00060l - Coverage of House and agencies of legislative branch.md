@@ -42,23 +42,27 @@
 
 #### (4) Definition of instrumentalities
 
-&emsp;For purposes of this section, instrumentalities of the Congress include the following: the Architect of the Capitol, the Congressional Budget Office, the General Accounting Office, the Government Printing Office, the Office of Technology Assessment, and the United States Botanic Garden.
+&emsp;For purposes of this section, instrumentalities of the Congress include the following: the Architect of the Capitol, the Congressional Budget Office, the Government Accountability Office, the Government Printing Office, the Office of Technology Assessment, and the United States Botanic Garden.
 
 #### (5) Construction
 
 &emsp;Nothing in this section shall alter the enforcement procedures for individuals protected under section 717 of title VII for the Civil Rights Act of 1964 (42 U.S.C. 2000e–16).
 
-(Pub. L. 102–166, title I, §117, Nov. 21, 1991, 105 Stat. 1080.)
+(Pub. L. 102–166, title I, §117, Nov. 21, 1991, 105 Stat. 1080; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
 The Civil Rights Act of 1964, referred to in subsecs. (a)(1), (2)(A) and (b)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252, as amended. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-Rule LI of the Rules of the House of Representatives, referred to in subsec. (a)(2)(B)(ii), was amended generally for the One Hundred Third Congress and, as so amended, contained provisions relating to fair employment practices. Rule LI was continued without change for the One Hundred Fourth Congress. Rule LI was repealed by H. Res. No. 5, §23(a), One Hundred Fifth Congress, Jan. 7, 1997. See section 1301 et seq. of this title.
+Rule LI of the Rules of the House of Representatives, referred to in subsec. (a)(2)(B)(ii), was amended generally for the One Hundred Third Congress and, as soamended, contained provisions relating to fair employment practices. Rule LI was continued without change for the One Hundred Fourth Congress. Rule LI was repealed by H. Res. No. 5, §23(a), One Hundred Fifth Congress, Jan. 7, 1997. See section 1301 et seq. of this title.
 
 This title, referred to in subsec. (b)(1), is title I of Pub. L. 102–166, Nov. 21, 1991, 105 Stat. 1071, which enacted this section and section 1981a of Title 42, The Public Health and Welfare, amended section 626 of Title 29, Labor, and sections 1981, 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, and 12112 of Title 42, and enacted provisions set out as notes under sections 1981, 2000e, and 2000e–4 of Title 42. For complete classification of title I to the Code, see Tables.
 
 Section 2000e–16a of title 42, referred to in subsec. (b)(2), was amended generally by Pub. L. 104–1, title V, §504(a)(1), Jan. 23, 1995, 109 Stat. 40, and as so amended, subsec. (c) of section 2000e–16a of title 42 no longer contains paragraphs and no longer defines the term “Senate employee”. See section 1301(8) of this title.
+
+#### Amendments
+
+2004—Subsec. (b)(4). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 #### Effective Date
 

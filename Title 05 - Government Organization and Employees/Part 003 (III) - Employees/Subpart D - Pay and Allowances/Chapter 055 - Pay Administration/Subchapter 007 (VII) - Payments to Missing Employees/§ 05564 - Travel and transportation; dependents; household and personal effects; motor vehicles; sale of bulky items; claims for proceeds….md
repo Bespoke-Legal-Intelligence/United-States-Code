@@ -148,7 +148,7 @@ Act
 
 Oct. 19, 1965, Pub. L. 89–271, 79 Stat. 992.
 
-Only that portion of the source law applicable to civilian officers and employees and their dependents iscodified in this section. That portion of the source law applicable to members of the uniformed services and their dependents is codified in 37 U.S.C. 554(a) by section 5(2) of this bill.
+Only that portion of the source law applicable to civilian officers and employees and their dependents is codified in this section. That portion of the source law applicable to members of the uniformed services and their dependents is codified in 37 U.S.C. 554(a) by section 5(2) of this bill.
 
 #### Amendments
 

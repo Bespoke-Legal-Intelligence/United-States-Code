@@ -26,15 +26,11 @@ Funds made available for adult education and literacy activities under this part
 
 #### (3) Decrease in Federal support
 
-&emsp;If the amount made available for adult education and literacy activities under this partfor a fiscal year is less than the amount made available for adult education and literacy activities under this part for the preceding fiscal year, then the fiscal effort per student and the aggregate expenditures of an eligible agency required in order to avoid a reduction under paragraph (1)(B) shall be decreased by the same percentage as the percentage decrease in the amount so made available.
+&emsp;If the amount made available for adult education and literacy activities under this part for a fiscal year is less than the amount made available for adult education and literacy activities under this part for the preceding fiscal year, then the fiscal effort per student and the aggregate expenditures of an eligible agency required in order to avoid a reduction under paragraph (1)(B) shall be decreased by the same percentage as the percentage decrease in the amount so made available.
 
 #### (4) Waiver
 
 &emsp;The Secretary may waive the requirements of this subsection for 1 fiscal year only, if the Secretary determines that a waiver would be equitable due to exceptional or uncontrollable circumstances, such as a natural disaster or an unforeseen and precipitous decline in the financial resources of the State or outlying area of the eligible agency. If the Secretary grants a waiver under the preceding sentence for a fiscal year, the level of effort required under paragraph (1) shall not be reduced in the subsequent fiscal year because of the waiver.
 
 (Pub. L. 105–220, title II, §241, Aug. 7, 1998, 112 Stat. 1072.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9224 of this title.
 

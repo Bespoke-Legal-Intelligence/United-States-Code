@@ -44,7 +44,3 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 348, 1146, 1208, 1231, 1307 of this title.
-

@@ -168,7 +168,7 @@
 
 &emsp;(F) any other information as the Commission finds appropriate.
 
-(2) The Commission shall, upon request, make available to the House and Senate Committees on the Judiciary, the written reports and all underlying records accompanying those reports described in this section, as well as other records received from courts.
+(2) The Commission shall, upon request, make available to the House and Senate Committeeson the Judiciary, the written reports and all underlying records accompanying those reports described in this section, as well as other records received from courts.
 
 (3) The Commission shall submit to Congress at least annually an analysis of these documents, any recommendations for legislation that the Commission concludes is warranted by that analysis, and an accounting of those districts that the Commission believes have not submitted the appropriate information and documents required by this section.
 
@@ -178,7 +178,7 @@
 
 (y) The Commission, in promulgating guidelines pursuant to subsection (a)(1), may include, as a component of a fine, the expected costs to the Government of any imprisonment, supervised release, or probation sentence that is ordered.
 
-(Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2019; amended Pub. L. 99–217, §3,Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–363, §2, July 11, 1986, 100 Stat. 770; Pub. L. 99–570, title I, §§1006(b), 1008, Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§6(b), 56, Nov. 10, 1986, 100 Stat. 3592, 3611; Pub. L. 100–182, §§16(b), 23, Dec. 7, 1987, 101 Stat. 1269, 1271; Pub. L. 100–690, title VII, §§7083, 7103(b), 7109, Nov. 18, 1988, 102 Stat. 4408, 4417, 4419; Pub. L. 103–322, title II, §20403(b), title XXVIII, §280005(c)(4), title XXXIII, §330003(f)(1), Sept. 13, 1994, 108 Stat. 1825, 2097, 2141; Pub. L. 108–21, title IV, §401(h), (k), Apr. 30, 2003, 117 Stat. 672, 674.)
+(Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2019; amended Pub. L. 99–217, §3, Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–363, §2, July 11, 1986, 100 Stat. 770; Pub. L. 99–570, title I, §§1006(b), 1008, Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§6(b), 56, Nov. 10, 1986, 100 Stat. 3592, 3611; Pub. L. 100–182, §§16(b), 23, Dec. 7, 1987, 101 Stat. 1269, 1271; Pub. L. 100–690, title VII, §§7083, 7103(b), 7109, Nov. 18, 1988, 102 Stat. 4408, 4417, 4419; Pub. L. 103–322, title II, §20403(b), title XXVIII, §280005(c)(4), title XXXIII, §330003(f)(1), Sept. 13, 1994, 108 Stat. 1825, 2097, 2141; Pub. L. 108–21, title IV, §401(h), (k), Apr. 30, 2003, 117 Stat. 672, 674.)
 
 #### References in Text
 
@@ -247,6 +247,14 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 For termination, effective May 15, 2000, of provisions in subsec. (w) of this section relating to requirement that the Commission submit to Congress at least annually an analysis of reports and recommendations for legislation that the Commission concludes is warranted by that analysis, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines
+
+Pub. L. 108–482, title II, §204(b), Dec. 23, 2004, 118 Stat. 3917.—Online felony offenses involving use of a domain name registered with materially false contact information.
+
+Pub. L. 108–458, title VI, §6703(b), Dec. 17, 2004, 118 Stat. 3766.—False testimony and obstruction of justice involving international or domestic terrorism.
+
+Pub. L. 108–358, §3, Oct. 22, 2004, 118 Stat. 1664.—Offenses involving anabolic steroids.
+
+Pub. L. 108–275, §5, July 15, 2004, 118 Stat. 833.—Identity theft involving abuse of authority.
 
 Pub. L. 108–187, §4(b), Dec. 16, 2003, 117 Stat. 2705.—Fraud and related activity in connection with electronic mail.
 
@@ -420,23 +428,7 @@ Sentencing guidelines promulgated pursuant to this section effective when U.S. S
 
 #### Studies of Impact and Operation of Sentencing Guideline System; Reporting Requirements
 
-Section 236 of Pub. L. 98–473 provided that:
-
-“(a)(1) Four years after the sentencing guidelines promulgated pursuant to section 994(a)(1), and the provisions of sections 3581, 3583, and 3624 of title 18, United States Code, go into effect, the General Accounting Office shall undertake a study of the guidelines in order to determine their impact and compare the guidelines system with the operation of the previous sentencing and parole release system, and, within six months of the undertaking of such study, report to the Congress the results of its study.
-
-“(2) Within one month of the start of the study required under subsection (a), the United States Sentencing Commission shall submit a report to the General Accounting Office, all appropriate courts, the Department of Justice, and the Congress detailing the operation of the sentencing guideline system and discussing any problems with the system or reforms needed. The report shall include an evaluation of the impact of the sentencing guidelines on prosecutorial discretion, plea bargaining, disparities in sentencing, and the use of incarceration, and shall be issued by affirmative vote of a majority of the voting members of the Commission.
-
-“(b) The Congress shall review the study submitted pursuant to subsection (a) in order to determine—
-
-&emsp;“(1) whether the sentencing guideline system has been effective;
-
-&emsp;“(2) whether any changes should be made in the sentencing guideline system; and
-
-&emsp;“(3) whether the parole system should be reinstated in some form and the life of the Parole Commission extended.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 995, 998 of this title; title 15 section 7703; title 18 sections 3143, 3552, 3553, 3559, 3582, 3583, 3621, 3622, 3742, 5037; title 22 section 7109; title 29 sections 504, 1111; title 42 sections 3796<i>ll</i>–3, 14051, 14052.
+Pub. L. 98–473, title II, §236, Oct. 12, 1984, 98 Stat. 2033, provided that, four years after the sentencing guidelines promulgated pursuant to section 994(a)(1) of this title and sections 3581, 3583, and 3624 of title 18 went into effect, the General Accounting Office was to undertake a study of the guidelines to determine their impact and compare the guidelines system with the operation of the previous sentencing and parole release system, and, within six months of such undertaking, report the results to Congress; provided that, within one month of the start of the study, the United States Sentencing Commission was to submit a report detailing the operation of the sentencing guideline system and discussing any problems with the system or reforms needed; and provided that Congress was to review the study.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

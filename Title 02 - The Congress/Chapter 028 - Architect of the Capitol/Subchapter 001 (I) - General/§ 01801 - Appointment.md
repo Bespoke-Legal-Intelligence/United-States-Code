@@ -38,7 +38,7 @@ Act May 2, 1828, ch. 45, §3, 4 Stat. 266, abolished office of Architect of the 
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a)(2). Pub. L. 104–19, §701(1), (2), substituted “office” for “Office” in first sentence and “commission” for “Commission” in introductory provisions in second sentence.
+1995—Subsec. (a)(2). Pub. L. 104–19, §701(1), (2), substituted “office” for “Office” in first sentence and “commission” for “Commission” in introductory provisions in second sentence.
 
 Subsec. (a)(2)(D). Pub. L. 104–19, §701(3), substituted “Oversight of the House of Representatives, the Committee on Rules and Administration of the Senate, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate” for “Administration of the House of Representatives and the Committee on Rules and Administration of the Senate”.
 

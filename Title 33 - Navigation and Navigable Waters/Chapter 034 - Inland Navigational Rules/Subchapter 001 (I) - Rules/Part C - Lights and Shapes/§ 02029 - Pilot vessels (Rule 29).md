@@ -16,6 +16,10 @@ A pilot vessel when not engaged on pilotage duty shall exhibit the lights or sha
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3428.)
 
+#### Repeal of Section
+
+<i>Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that this section is repealed effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 2071 of this title.</i>
+
 #### References in Text
 
 Rule 30, referred to in par. (a)(iii), is classified to section 2030 of this title.
@@ -23,8 +27,4 @@ Rule 30, referred to in par. (a)(iii), is classified to section 2030 of this tit
 #### Codification
 
 Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the Inland Navigational Rules which comprise this subchapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2020, 2031 of this title.
 

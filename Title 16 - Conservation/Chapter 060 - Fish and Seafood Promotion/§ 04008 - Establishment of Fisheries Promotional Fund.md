@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Fund
 
-There is established in the Treasury of the United States a Fisheries Promotional Fund.The Fund shall be available, to the extent provided for in appropriation Acts, for the purpose of making payments to carry out the annual marketing and promotion plan and annual budget of the National Council under this chapter.
+There is established in the Treasury of the United States a Fisheries Promotional Fund. The Fund shall be available, to the extent provided for in appropriation Acts, for the purpose of making payments to carry out the annual marketing and promotion plan and annual budget of the National Council under this chapter.
 
 #### (b) Deposits
 
@@ -31,8 +31,4 @@ Section is comprised of section 209 of Pub. L. 99–659. Subsec. (e) of section 
 #### Amendments
 
 1990—Subsec. (d). Pub. L. 101–627 substituted “1991” for “1990”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4003 of this title; title 15 section 713c–3.
 

@@ -20,7 +20,3 @@ Pursuant to an order of the United States District Court for the District of Col
 
 A prior section 5 of act of June 20, 1936, which was classified to section 107d of this title, was renumbered section 4 by Pub. L. 93–516, §206.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 107b, 107d–2 of this title.
-

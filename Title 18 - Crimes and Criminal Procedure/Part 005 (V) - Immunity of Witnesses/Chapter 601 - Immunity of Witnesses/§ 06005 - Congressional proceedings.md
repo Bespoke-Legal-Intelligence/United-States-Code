@@ -24,7 +24,3 @@ Subsec. (b)(3). Pub. L. 104–292, §5(2)(B), and Pub. L. 104–294, amended par
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “title” for “part” before period at end.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 288f; title 28 section 594.
-

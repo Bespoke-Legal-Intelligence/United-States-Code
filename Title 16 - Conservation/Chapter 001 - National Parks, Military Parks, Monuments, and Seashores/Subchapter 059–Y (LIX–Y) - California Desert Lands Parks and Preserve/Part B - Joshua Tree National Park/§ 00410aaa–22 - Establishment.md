@@ -4,7 +4,3 @@ There is hereby established the Joshua Tree National Park, (hereinafter in this 
 
 (Pub. L. 103–433, title IV, §402, Oct. 31, 1994, 108 Stat. 4488.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410aaa–23 of this title.
-

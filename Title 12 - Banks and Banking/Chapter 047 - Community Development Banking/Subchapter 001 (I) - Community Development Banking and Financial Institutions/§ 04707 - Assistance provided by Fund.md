@@ -86,7 +86,7 @@
 
 #### (2) Exception
 
-&emsp;The Fund may provide not more than $3,750,000 of assistance in addition to the amount specified in paragraph (1) during the same 3-year period to an existing community development financial institution that proposes to establish a subsidiary or affiliate for the purpose of serving an investment area or targeted population outside of any State and outside of any metropolitan area presently served by the institution, if—
+&emsp;The Fund may provide not more than $3,750,000 of assistance in addition to theamount specified in paragraph (1) during the same 3-year period to an existing community development financial institution that proposes to establish a subsidiary or affiliate for the purpose of serving an investment area or targeted population outside of any State and outside of any metropolitan area presently served by the institution, if—
 
 &emsp;&emsp;(A) the subsidiary or affiliate—
 
@@ -191,8 +191,4 @@ Nothing in this subchapter shall affect any authority of the appropriate Federal
 Federal tax law, referred to in subsec. (a)(2)(B), is classified generally to Title 26, Internal Revenue Code.
 
 The Housing and Community Development Act of 1974, referred to in subsec. (e)(4), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1834a, 4703, 4711, 4715, 4718 of this title.
 

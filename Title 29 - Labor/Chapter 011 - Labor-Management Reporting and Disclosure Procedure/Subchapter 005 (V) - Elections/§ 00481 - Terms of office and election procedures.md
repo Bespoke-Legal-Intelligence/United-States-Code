@@ -50,7 +50,3 @@ Section 404 of Pub. L. 86–257 provided that: “The provisions of this title \
 
 &emsp;“(2) where such modification can only be made by a constitutional convention of the labor organization, not later than the next constitutional convention of such labor organization after the date of enactment of this Act \[Sept. 14, 1959\], or one year after such date, whichever is sooner. If no such convention is held within such one-year period, the executive board or similar governing body empowered to act for such labor organization between conventions is empowered to make such interim constitutional changes as are necessary to carry out the provisions of this title \[enacting this subchapter\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 482 of this title.
-

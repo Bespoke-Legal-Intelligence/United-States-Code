@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—MAINTENANCE AND OPERATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2005 of this title; title 16 section 1164; title 25 sections 450f, 458aaa–4, 903a, 1661; title 50 App. section 456.
-
 
 ---
 

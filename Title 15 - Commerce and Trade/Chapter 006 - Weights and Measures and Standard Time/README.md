@@ -45,7 +45,7 @@
 | (b) | Concrete masonry units. |
 | (c) | Recessed lighting fixtures. |
 | (d) | Limitation. |
-| (e) | Expiration. |
+| (e) | Repealed. |
 | (f) | Agency ombudsman. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

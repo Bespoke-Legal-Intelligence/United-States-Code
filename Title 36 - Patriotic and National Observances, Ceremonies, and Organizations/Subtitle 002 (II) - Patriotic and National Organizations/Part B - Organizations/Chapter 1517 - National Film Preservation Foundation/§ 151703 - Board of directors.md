@@ -12,7 +12,7 @@ Members and Appointment.—(1) The Librarian of Congress is an ex officio nonvot
 
 (B) Each director must be a United States citizen.
 
-(C) At least six directors must be knowledgeable or experienced in film production, distribution, preservation, or restoration, including two who are sitting members of the National FilmPreservation Board. These six directors must, to the extent practicable, represent diverse points of view from the film community, including motion picture producers, creative artists, nonprofit and public archivists, historians, film critics, theater owners, and laboratory and university personnel.
+(C) At least six directors must be knowledgeable or experienced in film production, distribution, preservation, or restoration, including two who are sitting members of the National Film Preservation Board. These six directors must, to the extent practicable, represent diverse points of view from the film community, including motion picture producers, creative artists, nonprofit and public archivists, historians, film critics, theater owners, and laboratory and university personnel.
 
 (3) A director is not an employee of the Library of Congress and appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.
 
@@ -107,8 +107,4 @@ In subsection (b)(1), the words “(hereafter in this chapter referred to as the
 In subsection (b)(3), the words “is not an employee” are substituted for “nor . . . shall be construed to be employees” in 36:5702(g)(2)(A) (last sentence related to the board of directors), and the words “appointment to the board does not constitute appointment as an officer or employee” are substituted for “Appointment to the Board shall not constitute employment by, or the holding of an office of” in 36:5702(a), for clarity.
 
 In subsection (d), the words “for the transaction of business” are omitted as unnecessary.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 151707 of this title; title 2 section 179<i>o</i>.
 

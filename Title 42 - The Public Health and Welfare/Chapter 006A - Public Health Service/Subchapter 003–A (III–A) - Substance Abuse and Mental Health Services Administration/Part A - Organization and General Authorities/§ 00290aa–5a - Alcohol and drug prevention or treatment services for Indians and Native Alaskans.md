@@ -6,7 +6,7 @@ The Secretary shall award grants, contracts, or cooperative agreements to public
 
 #### (b) Priority
 
-In awarding grants, contracts, or cooperative agreements under subsection (a) of this section, the Secretary shall give priority to applicants that—
+In awarding grants, contracts, or cooperative agreements under subsection (a) of this section,the Secretary shall give priority to applicants that—
 
 &emsp;(1) propose to provide alcohol and drug prevention or treatment services on reservations;
 

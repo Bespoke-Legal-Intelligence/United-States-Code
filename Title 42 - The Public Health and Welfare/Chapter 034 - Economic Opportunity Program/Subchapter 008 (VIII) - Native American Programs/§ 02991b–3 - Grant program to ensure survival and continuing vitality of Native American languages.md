@@ -28,7 +28,7 @@ The purposes for which each grant awarded under subsection (a) of this section m
 
 #### (c) Applications
 
-For the purpose of making grants under subsection (a) of this section, the Secretary shallselect applicants from among agencies and organizations described in such subsection on the basis of applications submitted to the Secretary at such time, in such form, and containing such information as the Secretary shall require, but each application shall include at a minimum—
+For the purpose of making grants under subsection (a) of this section, the Secretary shall select applicants from among agencies and organizations described in such subsection on the basis of applications submitted to the Secretary at such time, in such form, and containing such information as the Secretary shall require, but each application shall include at a minimum—
 
 &emsp;(1) a detailed description of the current status of the Native American language to be addressed by the project for which a grant under subsection (a) of this section is requested, including a description of existing programs and projects, if any, in support of such language;
 
@@ -133,10 +133,6 @@ If a tribal organization or other eligible applicant decides that the objectives
 The Indian Self-Determination Act, referred to in subsec. (e)(1)(B)(ii)(III), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 Section 3215 of title 20, referred to in subsec. (f)(2)(B)(ii), was in the original a reference to section 5135 of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10. Section 5135 of that Act was omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2992d of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

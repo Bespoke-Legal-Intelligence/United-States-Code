@@ -10,7 +10,7 @@
 
 &emsp;(B) the replacement of the asbestos materials removed from school buildings with other appropriate building materials; and
 
-&emsp;(C) making repairs which the Secretary determines to be necessary to restore schoolbuildings to conditions comparable to those existing before containment or removal activities were undertaken under subparagraph (A).
+&emsp;(C) making repairs which the Secretary determines to be necessary to restore school buildings to conditions comparable to those existing before containment or removal activities were undertaken under subparagraph (A).
 
 > Loans may be made under this section only for projects affecting more than 2,500 square feet of surface and in which the asbestos material to be contained or removed consists of a minimum asbestos level, as determined by the Secretary under section 3606(a)(2) of this title.
 
@@ -73,8 +73,4 @@ During each of the three calendar years after 1980, the Secretary shall submit b
 &emsp;(5) specify the number of loan applications which were disapproved during the preceding calendar year and describe the reasons for such disapprovals.
 
 (Pub. L. 96–270, §6, June 14, 1980, 94 Stat. 492.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3602, 3606, 3607, 3610, 3611 of this title.
 

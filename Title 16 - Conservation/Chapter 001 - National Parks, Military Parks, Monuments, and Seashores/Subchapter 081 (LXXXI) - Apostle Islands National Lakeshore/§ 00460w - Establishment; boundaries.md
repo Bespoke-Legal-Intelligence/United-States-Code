@@ -18,10 +18,6 @@ In order to conserve and develop for the benefit, inspiration, education, recrea
 
 1986—Pub. L. 99–497 designated the provision specifying the boundaries of the Apostle Islands National Lakeshore as the area depicted on the map numbered NL–AI–91,000 as par. (a), substituted “1970; and” for “1970”, added par. (b), and in provision following par. (b) substituted “maps” for “map”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460w–3, 460w–7 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>

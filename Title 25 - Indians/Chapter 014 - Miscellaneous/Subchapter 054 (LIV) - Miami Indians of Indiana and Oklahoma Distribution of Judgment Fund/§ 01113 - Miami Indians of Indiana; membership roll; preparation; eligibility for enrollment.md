@@ -16,9 +16,5 @@ Act of September 30, 1961, referred to in subsec. (a), is act Sept. 30, 1961, Pu
 
 Act of March 2, 1895, referred to in subsec. (b), is act Mar. 2, 1895, ch. 188, 28 Stat. 903. Provisions of the act relating to the roll of the Miami Indians of Indiana were not classified to the Code.
 
-Act of June 29, 1888, referred to in subsec. (b), is act June 29, 1888, ch. 503, 25 Stat. 223. Provisions of the actrelating to the roll of the Eel River Miami Tribe of Indians of May 27, 1889, were not classified to the Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1114, 1116 of this title.
+Act of June 29, 1888, referred to in subsec. (b), is act June 29, 1888, ch. 503, 25 Stat. 223. Provisions of the act relating to the roll of the Eel River Miami Tribe of Indians of May 27, 1889, were not classified to the Code.
 

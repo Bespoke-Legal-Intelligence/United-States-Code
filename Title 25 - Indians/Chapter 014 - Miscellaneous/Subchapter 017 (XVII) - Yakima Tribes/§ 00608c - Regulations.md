@@ -8,7 +8,3 @@ The Secretary is authorized to prescribe such regulations as may be necessary to
 
 Section was not enacted as part of act Aug. 9, 1946, ch. 933, 60 Stat. 968, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 465, 608, 608b of this title.
-

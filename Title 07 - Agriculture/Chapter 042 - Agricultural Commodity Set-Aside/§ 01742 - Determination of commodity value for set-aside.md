@@ -4,7 +4,3 @@ Quantities of commodities shall not be included in the commodity set-aside which
 
 (Aug. 28, 1954, ch. 1041, title I, §102, 68 Stat. 897.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1746 of this title.
-

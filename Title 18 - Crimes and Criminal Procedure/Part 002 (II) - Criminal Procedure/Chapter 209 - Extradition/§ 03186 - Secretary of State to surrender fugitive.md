@@ -14,7 +14,3 @@ Based on title 18, U.S.C., 1940 ed., §653 (R.S. §5272).
 
 Changes were made in phraseology and surplusage was deleted.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4114 of this title.
-

@@ -38,7 +38,7 @@ Assistance authorized by subsection (a) of this section may not be provided to a
 
 &emsp;(3) Foregoing any use in new nuclear weapons of fissionable or other components of destroyed nuclear weapons.
 
-&emsp;(4) Facilitating United States verification of any weapons destruction carried out underthis chapter, section 5902(b) of this title, or section 212(b) of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228; 22 U.S.C. 2551 note).
+&emsp;(4) Facilitating United States verification of any weapons destruction carried out under this chapter, section 5902(b) of this title, or section 212(b) of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228; 22 U.S.C. 2551 note).
 
 &emsp;(5) Complying with all relevant arms control agreements.
 
@@ -118,6 +118,8 @@ Definition.—In this section, the term ‘country of proliferation concern’ m
 
 &emsp;“(2) in any successor report on the acquisition by foreign countries of dual-use and other technology useful for the development or production of weapons of mass destruction.”
 
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
+
 \[Functions of President under section 1206 of Pub. L. 107–314, set out above, delegated to Secretary of State by section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46074, set out as a note under section 301 of Title 3, The President.\]
 
 #### Specification of Cooperative Threat Reduction Programs for Purposes of Pub. L. 107–314
@@ -158,7 +160,7 @@ Expiration of Authority.—The authority under subsection (a) shall expire on Se
 
 #### Transfer to National Nuclear Security Administration of Department of Defense's Cooperative Threat Reduction Program Relating to Elimination of Weapons Grade Plutonium Production in Russia
 
-Pub. L. 107–314, div. C, title XXXI, §3151, Dec. 2, 2002, 116 Stat. 2736, provided that:
+Pub. L. 107–314, div. C, title XXXI, §3151, Dec. 2, 2002, 116 Stat. 2736, as amended by Pub. L. 108–375, div. C, title XXXI, §3135, Oct. 28, 2004, 118 Stat. 2170, provided that:
 
 “(a)
 
@@ -212,7 +214,27 @@ Limitation.—(1) Of the amounts authorized to be appropriated by this title or 
 
 &emsp;“(F) an arrangement for audit and examination procedures in order to evaluate progress in meeting such schedules and milestones; and
 
-&emsp;“(G) any cost sharing arrangements between the United States Government and the Government of the Russian Federation in undertaking activities under such agreement (or agreements).”
+&emsp;“(G) any cost sharing arrangements between the United States Government and the Government of the Russian Federation in undertaking activities under such agreement (or agreements).
+
+“(e)
+
+International Participation in Program.—(1) In order to achieve international participation in the program referred to in subsection (a), the Secretary of Energy may, in consultation with the Secretary of State, enter into one or more agreements with any person, foreign government, or other international organization that the Secretary considers appropriate for the contribution of funds by such person, government, or organization for purposes of the program.
+
+“(2) Notwithstanding section 3302 of title 31, United States Code, and subject to paragraphs (3) and (4), the Secretary may retain and utilize any amounts contributed by a person, government, or organization under an agreement under paragraph (1) for purposes of the program without further appropriation and without fiscal year limitation.
+
+“(3) The Secretary may not utilize under paragraph (2) any amount contributed under an agreement under paragraph (1) until 30 days after the date on which the Secretary notifies the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the intent to utilize such amount, including the source of such amount and the proposed purpose for which such amount will be utilized.
+
+“(4) If any amount contributed under paragraph (1) has not been utilized within five years of receipt under that paragraph, the Secretary shall return such amount to the person, government, or organization contributing such amount under that paragraph.
+
+“(5) Not later than 30 days after the receipt of any amount contributed under paragraph (1), the Secretary shall submit to the congressional defense committees a notice of the receipt of such amount.
+
+“(6) Not later than October 31 each year, the Secretary shall submit to the congressional defense committees a report on the receipt and utilization ofamounts under this subsection during the preceding fiscal year. Each report for a fiscal year shall set forth—
+
+&emsp;“(A) a statement of any amounts received under this subsection, including the source of each such amount; and
+
+&emsp;“(B) a statement of any amounts utilized under this subsection, including the purpose for which such amounts were utilized.
+
+“(7) The authority of the Secretary to accept and utilize amounts under this subsection shall expire on December 31, 2011.”
 
 #### Accelerated Disposition of Highly Enriched Uranium
 
@@ -220,7 +242,7 @@ Pub. L. 107–314, div. C, title XXXI, §3157, Dec. 2, 2002, 116 Stat. 2740, pro
 
 “(a)
 
-Program on Accelerated Disposition of HEU Authorized.—(1) The Secretary of Energy may carry out a program to pursue with the Russian Federationoptions for blending highly enriched uranium so that the concentration of U–235 in such uranium is below 20 percent.
+Program on Accelerated Disposition of HEU Authorized.—(1) The Secretary of Energy may carry out a program to pursue with the Russian Federation options for blending highly enriched uranium so that the concentration of U–235 in such uranium is below 20 percent.
 
 “(2) The options pursued under paragraph (1) shall include expansion of the Material Consolidation and Conversion program of the Department of Energy to include—
 
@@ -268,7 +290,7 @@ Coordination.—The provision of assistance under subsection (b) shall be closel
 
 #### Russian Federation Debt Reduction for Nonproliferation
 
-Pub. L. 107–228, div. B, title XIII, subtitle B, Sept. 30, 2002, 116 Stat. 1442, provided that:
+Pub. L. 107–228, div. B, title XIII, subtitle B, Sept. 30, 2002, 116 Stat. 1442, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 #### “SEC. 1311. SHORT TITLE.
 
@@ -314,7 +336,7 @@ Findings.—Congress finds the following:
 
 &emsp;“(8) The Russian Federation has a significant foreign debt, a substantial proportion of which it inherited from the Soviet Union.
 
-&emsp;“(9) Past debt-for-environment exchanges, in which a portion of a country's foreign debt is canceled in return for certain environmental commitments or payments by that country, suggest that a debt-for-nonproliferation exchange with the Russian Federationcould be designed to provide additional funding for nonproliferation and arms reduction initiatives.
+&emsp;“(9) Past debt-for-environment exchanges, in which a portion of a country's foreign debt is canceled in return for certain environmental commitments or payments by that country, suggest that a debt-for-nonproliferation exchange with the Russian Federation could be designed to provide additional funding for nonproliferation and arms reduction initiatives.
 
 &emsp;“(10) Most of the Russian Federation's official bilateral debt is held by United States allies that are advanced industrial democracies. Since the issues described pose threats to United States allies as well, United States leadership that results in a larger contribution from United States allies to cooperative threat reduction activities will be needed.
 
@@ -416,7 +438,7 @@ Authorization of Appropriation.—
 
 &emsp;“(1)
 
-In general.—For the cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661a(5)\]) of modifying any Soviet-era debt obligation pursuant to subsection (a), there are authorized to be appropriated to the President such sums as may be necessary.
+In general.—For the cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 \[2U.S.C. 661a(5)\]) of modifying any Soviet-era debt obligation pursuant to subsection (a), there are authorized to be appropriated to the President such sums as may be necessary.
 
 &emsp;“(2)
 
@@ -462,7 +484,7 @@ Use of Existing Mechanisms.—It is the sense of Congress that, to the extent pr
 
 “(d)
 
-Joint Auditing.—It is the sense of Congress that the United States and the Russian Federation should consider commissioning the United States General Accounting Office and the Russian Chamber of Accounts to conduct joint audits to ensure that the funds saved by the Russian Federation as a result of any debt reduction are used exclusively, efficiently, and effectively to implement agreed programs or projects pursuant to the Agreement.
+Joint Auditing.—It is the sense of Congress that the United States and the Russian Federation should consider commissioning the United States Government Accountability Office and the Russian Chamber of Accounts to conduct joint audits to ensure that the funds saved by the Russian Federation as a result of any debt reduction are used exclusively, efficiently, and effectively to implement agreed programs or projects pursuant to the Agreement.
 
 “(e)
 
@@ -508,7 +530,7 @@ Presidential Waiver.—The President may waive the requirements of subsection (a
 
 #### “SEC. 1320. CONSULTATIONS WITH CONGRESS.
 
-“The President shall consult with the appropriate congressional committees on a periodic basis to review the implementation of this subtitle and the Russian Federation's eligibility for debt reduction pursuant to this subtitle.
+“The President shall consult with the appropriate congressional committees on a periodic basis to review the implementation of this subtitle and the RussianFederation's eligibility for debt reduction pursuant to this subtitle.
 
 #### “SEC. 1321. ANNUAL REPORTS TO CONGRESS.
 
@@ -606,7 +628,7 @@ Pub. L. 107–107, div. A, title XIII, §1305(a), Dec. 28, 2001, 115 Stat. 1255,
 
 #### Annual Report on Status of Nuclear Materials Protection, Control, and Accounting Program
 
-Pub. L. 106–398, §1 \[div. C, title XXXI, §3171\], Oct. 30, 2000, 114 Stat. 1654, 1654A–475, as amended by Pub. L. 107–314, div. C, title XXXI, §3153, Dec. 2, 2002, 116 Stat. 2738, which was formerly set out as a note under this section, was renumbered section 4303 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1763, and is classified to section 2563 of Title 50, War and National Defense.
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3171\], Oct. 30, 2000, 114 Stat. 1654, 1654A–475, as amended by Pub. L. 107–314, div. C, title XXXI, §3153, Dec. 2, 2002, 116 Stat. 2738, which was formerly set out as a note under this section, was renumbered section 4303 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act forFiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1763, and is classified to section 2563 of Title 50, War and National Defense.
 
 #### Specification of Cooperative Threat Reduction Programs and Funds for Purposes of Pub. L. 106–65
 
@@ -623,6 +645,22 @@ Fiscal Year 2000
 Cooperative Threat Reduction Funds Defined.—As used in this title \[enacting provisions set out as notes under this section and section 5955 of this title\], the term ‘fiscal year 2000 Cooperative Threat Reduction funds’ means the funds appropriated pursuant to the authorization of appropriations in section 301 for Cooperative Threat Reduction programs.”
 
 #### Limitation on Use of Funds for Certain Purposes
+
+Pub. L. 108–375, div. A, title XIII, §1303, Oct. 28, 2004, 118 Stat. 2093, provided that:
+
+“(a)
+
+Temporary Authority.—Section 1305 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 22 U.S.C. 5952 note) shall not apply for a calendar year for which the President submits to Congress a written certification that includes—
+
+&emsp;“(1) a statement as to why a waiver of the conditions described in such section 1305 is important to the national security interests of the United States;
+
+&emsp;“(2) a full and complete justification for the waiver of the conditions; and
+
+&emsp;“(3) a plan to promote a full and accurate disclosure by Russia regarding the size, content, status, and location of its chemical weapons stockpile.
+
+“(b)
+
+Expiration.—The authority in subsection (a) shall expire on December 31, 2006, and no waiver shall remain in effect after that date.”
 
 Pub. L. 107–314, div. A, title XIII, §1305, Dec. 2, 2002, 116 Stat. 2673, provided that: “No funds authorized to be appropriated for Cooperative Threat Reduction programs for any fiscal year may be used for the design, planning, or construction of a second wing for a storage facility for Russian fissile material.”
 
@@ -688,7 +726,7 @@ Limitation on Construction.—No funds authorized to be appropriated for Coopera
 
 &emsp;“(2) A detailed cost estimate for a second wing for the facility.
 
-&emsp;“(3) A certification that Russia and the United States have signed a verifiable written transparency agreement that ensures that material stored at the facility is of weapons origin.
+&emsp;“(3) A certification that Russia and the United States have signed a verifiable written transparencyagreement that ensures that material stored at the facility is of weapons origin.
 
 #### “SEC. 1305. LIMITATION ON USE OF FUNDS FOR CHEMICAL WEAPONS DESTRUCTION
 
@@ -760,11 +798,11 @@ Pub. L. 104–106, div. A, title XII, §1209, Feb. 10, 1996, 110 Stat. 472.
 
 #### Requirement To Submit Summary of Amounts Requested by Project Category
 
-Pub. L. 105–261, div. A, title XIII, §1307, Oct. 17, 1998, 112 Stat. 2165, provided that:
+Pub. L. 105–261, div. A, title XIII, §1307, Oct. 17, 1998, 112 Stat. 2165, as amended by Pub. L. 108–375, div. A, title XIII, §1304, Oct. 28, 2004, 118 Stat. 2094, provided that:
 
 “(a)
 
-Summary Required.—The Secretary of Defense shall submit to Congress as part of the Secretary's annual budget request to Congress—
+Summary Required.—The Secretary of Defense shall submit to Congress in the materials and manner specified in subsection (c)—
 
 &emsp;“(1) a descriptive summary, with respect to the appropriations requested for Cooperative Threat Reduction programs for the fiscal year after the fiscal year in which the summary is submitted, of the amounts requested for each project category under each Cooperative Threat Reduction program element; and
 
@@ -772,7 +810,15 @@ Summary Required.—The Secretary of Defense shall submit to Congress as part of
 
 “(b)
 
-Description of Purpose and Intent.—The descriptive summary required under subsection (a) shall include a narrative description of each program and project category under each Cooperative Threat Reduction program element that explains the purpose and intent of the funds requested.”
+Description of Purpose and Intent.—The descriptive summary required under subsection (a) shall include a narrative description of each program and project category under each Cooperative Threat Reduction program element that explains the purpose and intent of the funds requested.
+
+“(c)
+
+Inclusion in Certain Materials Submitted to Congress.—The summary required to be submitted to Congress in a fiscal year under subsection (a) shall be set forth by project category, and by amounts specified in paragraphs (1) and (2) of that subsection in connection with such project category, in each of the following:
+
+&emsp;“(1) The annual report on activities and assistance under Cooperative Threat Reduction programs required in such fiscal year under section 1308 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398) \[22 U.S.C. 5959\].
+
+&emsp;“(2) The budget justification materials submitted to Congress in support of the Department of Defense budget for the fiscal year succeeding such fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code).”
 
 #### Authority To Conduct Program Relating to Fissile Materials
 
@@ -814,47 +860,51 @@ Report.—Not later than June 1, 1994, the President shall submit to Congress a 
 
 #### Waiver of Conditions on Obligation and Expenditure of Funds for Planning, Design, and Construction of a Chemical Weapons Destruction Facility in Russia
 
-Determination of President of the United States, No. 03–10, Jan. 10, 2003, 68 F.R. 2411, provided:
+Determination of President of the United States, No. 2005–07, Nov. 29, 2004, 69 F.R. 72109, provided:
 
 Memorandum for the Secretary of State
 
-Pursuant to the authority vested in me by section 8144 of the Department of Defense Appropriations Act for Fiscal Year 2003 (Public Law 107–248) (the “Act”) \[set out as a note above\], I hereby certify that waiving the conditions described in section 1305 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65) \[set out as a note above\] is important to the national security interests of the United States, and include herein, for submission to the Congress, the statement, justification, and plan \[68 F.R. 2412\] described in section 8144(a) of the Act. You are authorized and directed to transmit this certification, including the statement, justification, and plan to the Congress and to arrange for its publication in the Federal Register.
+Consistent with the authority vested in me by section 1303 of the National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375) (the “Act”) \[set out as a note above\], I hereby certify that waiving the conditions described in section 1305 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65), as amended \[set out as a note above\], is important to the national security interests of the United States, and include herein, for submission to the Congress, the statement, justification, and plan \[not set out in the Code\] described in section 1303 of the Act. This waiver shall apply through the remainder of calendar year 2004 and for all of calendar year 2005.
 
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Waiver of Restrictions on Assistance to Russia Under the Cooperative Threat Reduction Act of 1993 and Title V of the FREEDOM Support Act
-
-Determination of President of the United States, No. 2004–08, Nov. 7, 2003, 68 F.R. 65383, provided:
-
-Memorandum for the Secretary of State
-
-Consistent with the authority vested in me by section 1306 of the National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) \[amending this section and enacting provisions set out as a note above\], I hereby certify that waiving the restrictions contained in subsection (d) of section 1203 of the Cooperative Threat Reduction Act of 1993 (22 U.S.C. 5952), as amended, and the requirements contained in section 502 of the FREEDOM Support Act (22 U.S.C. 5852) during Fiscal Year 2004 with respect to the Russian Federation is important to the national security interests of the United States.
-
-I have enclosed the unclassified report described in section 1306(b)(1) of the National Defense Authorization Act for Fiscal Year 2003, together with a classified annex.
-
-You are authorized and directed to transmit this certification and report with its classified annex to the Congress and to arrange for the publication of this certification in the Federal Register.
+You are authorized and directed to transmit this certification, including the statement, justification, and plan, to the Congress and to arrange for the publication of this certification in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior determinations and certifications for Russia were contained in the following:
 
-Determination of the President of the United States, No. 03–11, Jan. 10, 2003, 68 F.R. 2419.
+Determination of President of the United States, No. 03–10, Jan. 10, 2003, 68 F.R. 2411.
 
-#### Waiver of Restrictions on Assistance to the Republic of Uzbekistan under the Cooperative Threat Reduction Act of 1993 and Title V of the FREEDOM Support Act
+#### Waiver of Restrictions on Assistance to Russia Under the Cooperative Threat Reduction Act of 1993 and Title V of the FREEDOM Support Act
 
-Determination of President of the United States, No. 2004–19, Dec. 30, 2003, 69 F.R. 2479, provided:
+Determination of President of the United States, No. 2005–09, Dec. 6, 2004, 69 F.R. 74933, provided:
 
 Memorandum for the Secretary of State
 
-Consistent with the authority vested in me by section 1306 of the National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) \[amending this section and enacting provisions set out as a note above\], I hereby certify that waiving the restrictions contained in subsection (d) of section 1203 of the Cooperative Threat Reduction Act of 1993 (22 U.S.C. 5952), as amended, and the requirements contained in section 502 of the FREEDOM Support Act (22 U.S.C. 5852) during Fiscal Year 2004 with respect to the Republic of Uzbekistan is important to the national security interests of the United States.
+Consistent with the authority vested in me by section 1306 of the national \[National\] Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) \[amending this section and enacting provisions set out as a note above\], I hereby certify that waiving the restrictions contained in subsection (d) of section 1203 of the Cooperative Threat Reduction Act of 1993 (22 U.S.C. 5952), as amended, and the requirements contained in section 502 of the FREEDOM Support Act (22 U.S.C. 5852) during Fiscal Year 2005 with respect to the Russian Federation is important to the national security interests of the United States.
 
-I have enclosed the unclassified report described in section 1306(b)(1) of the National Defense Authorization Act for Fiscal Year 2003, together with a classified annex.
-
-You are authorized and directed to transmit this certification and report with its classified annex to the Congress and to arrange for the publication of this certification in the Federal Register.
+You are authorized and directed to transmit to the Congress this certification and the associated report (including its classified annex) \[not set out in the Code\] that has been prepared by my Administration consistent with section 1306(b) of Public Law 107–314. You are further authorized and directed to arrange for the publication of this certification in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
+Prior determinations and certifications for Russia were contained in the following:
 
-This section is referred to in sections 5954, 5955, 5957 of this title; title 10 section 115.
+Determination of President of the United States, No. 2004–08, Nov. 7, 2003, 68 F.R. 65383.
+
+Determination of President of the United States, No. 03–11, Jan. 10, 2003, 68 F.R. 2419.
+
+#### Waiver of Restrictions on Assistance to the Republic of Uzbekistan Under the Cooperative Threat Reduction Act of 1993 and Title V of the FREEDOM Support Act
+
+Determination of President of the United States, No. 2005–13, Dec. 14, 2004, 70 F.R. 1, provided:
+
+Memorandum for the Secretary of State
+
+Consistent with the authority vested in me by section 1306 of the National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) \[amending this section and enacting provisions set out as a note above\], I hereby certify that waiving the restrictions contained in subsection (d) of section 1203 of the Cooperative Threat Reduction Act of 1993 (22 U.S.C. 5952), as amended, and the requirements contained in section 502 of the FREEDOM Support Act (22 U.S.C. 5852) during Fiscal Year 2005 with respect to the Republic of Uzbekistan is important to the national security interests of the United States.
+
+You are authorized and directed to transmit to the Congress this certification and the associated report (including its classified annex) \[not set out in the Code\] that has been prepared by my Administration consistent with section 1306(b) of Public Law 107–314. You are further authorized and directed to arrange for the publication of this certification in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Prior determinations and certifications for Uzbekistan were contained in the following:
+
+Determination of President of the United States, No. 2004–19, Dec. 30, 2003, 69 F.R. 2479.
 

@@ -20,7 +20,3 @@ Minor changes were made in phraseology.
 
 1951—Act Oct. 31, 1951, struck out “; exceptions”, after “Congress” in section catchline.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 433 of this title; title 7 section 1386; title 15 section 714m; title 22 section 2676.
-

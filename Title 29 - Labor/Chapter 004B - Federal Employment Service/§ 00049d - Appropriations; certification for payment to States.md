@@ -76,7 +76,3 @@ Act Sept. 6, 1950, ch. 896, Ch. V, title I, 64 Stat. 643, provided in part that:
 
 Similar provisions suspending the requirement until July 1, 1950 were contained in acts June 16, 1948, ch. 472, title I, 62 Stat. 445; June 29, 1949, ch. 275, title II, 63 Stat. 284.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 49c, 49c–1, 49e of this title; title 39 section 3202.
-

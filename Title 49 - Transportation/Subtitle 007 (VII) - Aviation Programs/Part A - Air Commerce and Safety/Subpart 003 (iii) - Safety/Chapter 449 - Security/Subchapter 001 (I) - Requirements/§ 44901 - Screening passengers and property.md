@@ -240,7 +240,7 @@ Schedule for assumption of civil aviation security functions.—Not later than 3
 
 “(2)
 
-Assumption of contracts.—As of the date specified in paragraph (1), the Under Secretary may assume the rights and responsibilities of an air carrier or foreign air carrier contract for provision of passenger screening services at airports in the United States described in section 44903(c), subject to payment of adequate compensation to parties to the contract, if any.
+Assumption of contracts.—As of the date specified in paragraph (1), the Under Secretary may assumethe rights and responsibilities of an air carrier or foreign air carrier contract for provision of passenger screening services at airports in the United States described in section 44903(c), subject to payment of adequate compensation to parties to the contract, if any.
 
 “(3)
 
@@ -248,7 +248,7 @@ Assignment of contracts.—
 
 &emsp;“(A)
 
-In general.—Upon request of the Under Secretary, an air carrier or foreign air carrier carryingout a screening or security function under chapter 449 of title 49, United States Code, may enter into an agreement with the Under Secretary to transfer any contract the carrier has entered into with respect to carrying out the function, before the Under Secretary assumes responsibility for the function.
+In general.—Upon request of the Under Secretary, an air carrier or foreign air carrier carrying out a screening or security function under chapter 449 of title 49, United States Code, may enter into an agreement with the Under Secretary to transfer any contract the carrier has entered into with respect to carrying out the function, before the Under Secretary assumes responsibility for the function.
 
 &emsp;“(B)
 
@@ -261,6 +261,262 @@ Transfer of ownership.—In recognition of the assumption of the financial costs
 “(5)
 
 Performance of under secretary's functions during interim period.—Until the Under Secretary takes office, the functions of the Under Secretary that relate to aviation security may be carried out by the Secretary or the Secretary's designee.”
+
+#### In-Line Checked Baggage Screening
+
+Pub. L. 108–458, title IV, §4019(a), (b), Dec. 17, 2004, 118 Stat. 3721, provided that:
+
+“(a)
+
+In-Line Baggage Screening Equipment.—The Assistant Secretary of Homeland Security (Transportation Security Administration) shall take such action as may be necessary to expedite the installation and use of in-line baggage screening equipment at airports at which screening is required by section 44901 of title 49, United States Code.
+
+“(b)
+
+Schedule.—Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the Assistant Secretary shall submit to the appropriate congressional committees a schedule to expedite the installation and use of in-line baggage screening equipment at such airports, with an estimate of the impact that such equipment, facility modification, and baggage conveyor placement will have on staffing needs and levels related to aviation security.”
+
+#### Checked Baggage Screening Area Monitoring
+
+Pub. L. 108–458, title IV, §4020, Dec. 17, 2004, 118 Stat. 3722, provided that:
+
+“(a)
+
+In General.—The Under Secretary for Border and Transportation Security of the Department of Homeland Security shall provide, subject to the availability of funds, assistance to airports at which screening is required by section 44901 of title 49, United States Code, and that have checked baggage screening areas that are not open to public view in the acquisition and installation of security monitoring cameras for surveillance of such areas in order to deter theft from checked baggage and to aid in the speedy resolution of liability claims against the Transportation Security Administration.
+
+“(b)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Homeland Security for fiscal year 2005 such sums as may be necessary to carry out this section. Such sums shall remain available until expended.”
+
+#### Pilot Program To Evaluate Use of Blast Resistant Cargo and Baggage Containers
+
+Pub. L. 108–458, title IV, §4051, Dec. 17, 2004, 118 Stat. 3728, provided that:
+
+“(a)
+
+In General.—Beginning not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the Assistant Secretary of Homeland Security (Transportation Security Administration) shall carry out a pilot program to evaluate the use of blast-resistant containers for cargo and baggage on passenger aircraft to minimize the potential effects of detonation of an explosive device.
+
+“(b)
+
+Incentives for Participation in Pilot Program.—
+
+&emsp;“(1)
+
+In general.—As part of the pilot program, the Assistant Secretary shall provide incentives to air carriers to volunteer to test the use of blast-resistant containers for cargo and baggage on passenger aircraft.
+
+&emsp;“(2)
+
+Applications.—To volunteer to participate in the incentive program, an air carrier shall submit to the Assistant Secretary an application that is in such form and contains such information as the Assistant Secretary requires.
+
+&emsp;“(3)
+
+Types of incentives.—Incentives provided by the Assistant Secretary to air carriers that volunteer to participate in the pilot program shall include the use of, and financial assistance to cover increased costs to the carriers associated with the use and maintenance of, blast-resistant containers, including increased fuel costs.
+
+“(c)
+
+Technological Improvements.—The Secretary of Homeland Security, in cooperation with the Secretary of Transportation, shall support efforts to explore alternative technologies for minimizing the potential effects of detonation of an explosive device on cargo and passenger aircraft.
+
+“(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out subsections (a) and (b) $2,000,000. Such sum shall remain available until expended.”
+
+#### Air Cargo Security
+
+Pub. L. 108–458, title IV, §4052, Dec. 17, 2004, 118 Stat. 3728, provided that:
+
+“(a)
+
+Air Cargo Screening Technology.—The Assistant Secretary of Homeland Security (Transportation Security Administration) shall develop technology to better identify, track, and screen air cargo.
+
+“(b)
+
+Improved Air Cargo and Airport Security.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration, in addition to any amounts otherwise authorized by law, for the purpose of improving aviation security related to the transportation of cargo on both passenger aircraft and all-cargo aircraft—
+
+&emsp;“(1) $200,000,000 for fiscal year 2005;
+
+&emsp;“(2) $200,000,000 for fiscal year 2006; and
+
+&emsp;“(3) $200,000,000 for fiscal year 2007.
+
+> Such sums shall remain available until expended.
+
+“(c)
+
+Research, Development, and Deployment.—To carry out subsection (a), there is authorized to be appropriated to the Secretary, in addition to any amounts otherwise authorized by law, for research and development related to enhanced air cargo security technology as well as for deployment and installation of enhanced air cargo security technology—
+
+&emsp;“(1) $100,000,000 for fiscal year 2005;
+
+&emsp;“(2) $100,000,000 for fiscal year 2006; and
+
+&emsp;“(3) $100,000,000 for fiscal year 2007.
+
+> Such sums shall remain available until expended.
+
+“(d)
+
+Advanced Cargo Security Grants.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall establish and carry out a program to issue competitive grants to encourage the development of advanced air cargo security technology, including use of innovative financing or other means of funding such activities. The Secretary may make available funding for this purpose from amounts appropriated pursuant to subsection (c).
+
+&emsp;“(2)
+
+Eligibility criteria, etc.—The Secretary shall establish such eligibility criteria, establish such application and administrative procedures, and provide for such matching funding requirements, if any, as may be necessary and appropriate to ensure that the technology is deployed as fully and rapidly as possible.”
+
+#### Identification Standards
+
+Pub. L. 108–458, title VII, §7220, Dec. 17, 2004, 118 Stat. 3835, provided that:
+
+“(a)
+
+Proposed Standards.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Homeland Security—
+
+&emsp;&emsp;“(A) shall propose minimum standards for identification documents required of domestic commercial airline passengers for boarding an aircraft; and
+
+&emsp;&emsp;“(B) may, from time to time, propose minimum standards amending or replacing standards previously proposed and transmitted to Congress and approved under this section.
+
+&emsp;“(2)
+
+Submission to congress.—Not later than 6 months after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary shall submit the standards under paragraph (1)(A) to the Senate and the House of Representatives on the same day while each House is in session.
+
+&emsp;“(3)
+
+Effective date.—Any proposed standards submitted to Congress under this subsection shall take effect when an approval resolution is passed by the House and the Senate under the procedures described in subsection (b) and becomes law.
+
+“(b)
+
+Congressional Approval Procedures.—
+
+&emsp;“(1)
+
+Rulemaking power.—This subsection is enacted by Congress—
+
+&emsp;&emsp;“(A) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of such approval resolutions; and it supersedes other rules only to the extent that they are inconsistent therewith; and
+
+&emsp;&emsp;“(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
+
+&emsp;“(2)
+
+Approval resolution.—For the purpose of this subsection, the term ‘approval resolution’ means a joint resolution of Congress, the matter after the resolving clause of which is as follows: ‘That the Congress approves the proposed standards issued under section 7220 of the 9/11 Commission Implementation Act of 2004, transmitted by the President to the Congress on \_\_\_\_\_\_\_\_\_\_\_\_’, the blank space being filled in with the appropriate date.
+
+&emsp;“(3)
+
+Introduction.—Not later than the first day of session following the day on which proposed standards are transmitted to the House of Representatives and the Senate under subsection (a), an approval resolution—
+
+&emsp;&emsp;“(A) shall be introduced (by request) in the House by the Majority Leader of the House of Representatives, for himself or herself and the Minority Leader of the House of Representatives, or by Members of the House of Representatives designated by the Majority Leader and Minority Leader of the House; and
+
+&emsp;&emsp;“(B) shall be introduced (by request) in the Senate by the Majority Leader of the Senate, for himself or herself and the Minority Leader of the Senate, or by Members of the Senate designated by the Majority Leader and Minority Leader of the Senate.
+
+&emsp;“(4)
+
+Prohibitions.—
+
+&emsp;&emsp;“(A)
+
+Amendments.—No amendment to an approval resolution shall be in order in either the House of Representatives or the Senate.
+
+&emsp;&emsp;“(B)
+
+Motions to suspend.—No motion to suspend the application of this paragraph shall be in order in either House, nor shall it be in order in either House for the Presiding Officer to entertain a request to suspend the application of this paragraph by unanimous consent.
+
+&emsp;“(5)
+
+Referral.—
+
+&emsp;&emsp;“(A)
+
+In general.—An approval resolution shall be referred to the committees of the House of Representatives and of the Senate with jurisdiction. Each committee shall make its recommendations to the House of Representatives or the Senate, as the case may be, within 45 days after its introduction. Except as provided in subparagraph (B), if a committee to which an approval resolution has been referred has not reported it at the close of the 45th day after its introduction, such committee shall be automatically discharged from further consideration of the resolution and it shall be placed on the appropriate calendar.
+
+&emsp;&emsp;“(B)
+
+Final passage.—A vote on final passage of the resolution shall be taken in each House on or before the close of the 15th day after the resolution is reported by the committee or committees of that House to which it was referred, or after such committee or committees have been discharged from further consideration of the resolution.
+
+&emsp;&emsp;“(C)
+
+Computation of days.—For purposes of this paragraph, in computing a number of days in either House, there shall be excluded any day on which that House is not in session.
+
+&emsp;“(6)
+
+Coordination with action of other house.—If prior to the passage by one House of an approval resolution of that House, that House receives the same approval resolution from the other House, then the procedure in that House shall be the same as if no approval resolution has been received from the other House, but the vote on final passage shall be on the approval resolution of the other House.
+
+&emsp;“(7)
+
+Floor consideration in the house of representatives.—
+
+&emsp;&emsp;“(A)
+
+Motion to proceed.—A motion in the House of Representatives to proceed to the consideration of an approval resolution shall be highly privileged and not debatable. An amendment to the motion shall not be in order, not shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+
+&emsp;&emsp;“(B)
+
+Debate.—Debate in the House of Representatives on an implementing bill or approval resolution shall be limited to not more than 4 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion to further limit debate shall not be debatable. It shall not be in order to move to recommit an approval resolution or to move to reconsider the vote by which an approval resolution is agreed to or disagreed to.
+
+&emsp;&emsp;“(C)
+
+Motion to postpone.—Motions to postpone made in the House of Representatives with respect to the consideration of an approval resolution and motions to proceed to the consideration of other business shall be decided without debate.
+
+&emsp;&emsp;“(D)
+
+Appeals.—All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to an approval resolution shall be decided without debate.
+
+&emsp;&emsp;“(E)
+
+Rules of the house of representatives.—Except to the extent specifically provided in subparagraphs (A) through (D), consideration of an approval resolution shall be governed by the Rules of the House of Representatives applicable to other resolutions in similar circumstances.
+
+&emsp;“(8)
+
+Floor consideration in the Senate.—
+
+&emsp;&emsp;“(A)
+
+Motion to proceed.—A motion in the Senate to proceed to the consideration of an approval resolution shall be privileged and not debatable. An amendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+
+&emsp;&emsp;“(B)
+
+Debate on resolution.—Debate in the Senate on an approval resolution, and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be equally divided between, and controlled by, the Majority Leader and the Minority Leader, or their designees.
+
+&emsp;&emsp;“(C)
+
+Debate on motions and appeals.—Debate in the Senate on any debatable motion or appeal in connection with an approval resolution shall be limited to not more than 1 hour, which shall be equally divided between, and controlled by, the mover and the manager of the resolution, except that in the event the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto, shall be controlled by the Minority Leader or designee. Such leaders, or either of them, may, from time under their control on the passage of an approval resolution, allot additional time to any Senator during the consideration of any debatable motion or appeal.
+
+&emsp;&emsp;“(D)
+
+Limit on debate.—A motion in the Senate to further limit debate is not debatable. A motion to recommit an approval resolution is not in order.
+
+“(c)
+
+Default Standards.—
+
+&emsp;“(1)
+
+In general.—If the standards proposed under subsection (a)(1)(A) are not approved pursuant to the procedures described in subsection (b), then not later than 1 year after rejection by a vote of either House of Congress, domestic commercial airline passengers seeking to board an aircraft shall present, for identification purposes—
+
+&emsp;&emsp;“(A) a valid, unexpired passport;
+
+&emsp;&emsp;“(B) domestically issued documents that the Secretary of Homeland Security designates as reliable for identification purposes;
+
+&emsp;&emsp;“(C) any document issued by the Attorney General or the Secretary of Homeland Security under the authority of 1 of the immigration laws (as defined under section 101(a)(17) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(17))\[)\]; or
+
+&emsp;&emsp;“(D) a document issued by the country of nationality of any alien not required to possess a passport for admission to the United States that the Secretary designates as reliable for identifications purposes
+
+&emsp;“(2)
+
+Exception.—The documentary requirements described in paragraph (1)—
+
+&emsp;&emsp;“(A) shall not apply to individuals below the age of 17, or such other age as determined by the Secretary of Homeland Security;
+
+&emsp;&emsp;“(B) may be waived by the Secretary of Homeland Security in the case of an unforeseen medical emergency.
+
+“(d)
+
+Recommendation to Congress.—Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary of Homeland Security shall recommend to Congress—
+
+&emsp;“(1) categories of Federal facilities that the Secretary determines to be at risk for terrorist attack and requiring minimum identification standards for access to such facilities; and
+
+&emsp;“(2) appropriate minimum identification standards to gain access to those facilities.”
 
 #### Deadline for Deployment of Federal Screeners
 
@@ -312,11 +568,23 @@ Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 110, provided in part that: 
 
 Pub. L. 100–649, §2(d), Nov. 10, 1988, 102 Stat. 3817, provided that: “The Administrator of the Federal Aviation Administration shall conduct such research and development as may be necessary to improve the effectiveness of airport security metal detectors and airport security x-ray systems in detecting firearms that, during the 10-year period beginning on the effective date of this Act \[see Effective Date of 1988 Amendment; Sunset Provision note set out under section 922 of Title 18, Crimes and Criminal Procedure\], are subject to the prohibitions of section 922(p) of title 18, United States Code.”
 
+#### Definitions of Terms in Title IV of Pub. L. 108–458
+
+Pub. L. 108–458, title IV, §4081, Dec. 17, 2004, 118 Stat. 3731, provided that: “In this title \[enacting section 44925 of this title, amending sections 114, 44903, 44904, 44909, 44917, 44923, 46301 to 46303, and 48301 of this title and sections 70102 and 70103 of Title 46, Shipping, and enacting provisions set out as notes under this section, sections 114, 44703, 44913, 44917, 44923, 44925, and 44935 of this title, section 2751 of Title 22, Foreign Relations and Intercourse, and section 70101 of Title 46\] (other than in sections 4001 and 4026 \[amending sections 114 and 44904 of this title and enacting provisions set out as a note under section 2751 of Title 22\]), the following definitions apply:
+
+&emsp;“(1)
+
+Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+&emsp;“(2)
+
+Aviation definitions.—The terms ‘air carrier’, ‘air transportation’, ‘aircraft’, ‘airport’, ‘cargo’, ‘foreign air carrier’, and ‘intrastate air transportation’ have the meanings given such terms in section 40102 of title 49, United States Code.
+
+&emsp;“(3)
+
+Secure area of an airport.—The term ‘secure area of an airport’ means the sterile area and the Secure Identification Display Area of an airport (as such terms are defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulations).”
+
 #### Definitions of Terms in Pub. L. 107–71
 
 For definitions of terms used in sections 101(g) and 110(c), (d), of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 114, 40109, 44902, 44915, 44919, 44920, 44935, 44936, 44938, 44940, 46314 of this title; title 6 section 233.
 

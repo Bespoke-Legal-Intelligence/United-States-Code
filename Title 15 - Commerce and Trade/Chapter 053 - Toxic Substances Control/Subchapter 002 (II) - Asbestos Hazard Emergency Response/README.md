@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—ASBESTOS HAZARD EMERGENCY RESPONSE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2614, 2618, 2619 of this title; title 20 sections 4014, 4021.
-
 
 ---
 

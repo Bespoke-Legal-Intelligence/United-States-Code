@@ -14,7 +14,3 @@ Upon granting any oil or gas lease under this chapter, and from time to time the
 
 Payment of royalties from mineral leases on submerged lands of outer Continental Shelf, see section 1337 of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 192a, 192b, 275, 285 of this title; title 10 sections 7421, 7435.
-

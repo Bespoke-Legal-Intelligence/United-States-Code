@@ -94,9 +94,5 @@ Sec. 902. The Board of Governors of the Federal Reserve System, the Comptroller 
 
 &emsp;“(6) the application relates to the takeover of a domestic financial institution which is a subsidiary of a bank holding company under an order to divest by December 31, 1980.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 347d, 1813, 1817, 1828, 1843, 2804, 4009, 4402 of this title; title 7 sections 1a, 27; title 15 sections 57a, 78c, 78q, 80a–2, 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6805; title 18 sections 20, 648, 655, 984, 1004, 1014, 1030, 1906, 1956, 2113; title 31 section 5313.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should follow the quotation marks.</i>
 

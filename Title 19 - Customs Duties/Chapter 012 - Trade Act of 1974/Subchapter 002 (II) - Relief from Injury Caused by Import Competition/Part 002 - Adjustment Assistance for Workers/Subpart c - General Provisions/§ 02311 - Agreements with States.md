@@ -86,7 +86,7 @@ Amendment by section 101(f) \[title VIII, §405(d)(14)(B)\] of Pub. L. 105–277
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1424(d)(1)(B), (2) of Pub. L. 100–418 effective Aug. 23, 1988, and amendment by section 1423(a)(4) of Pub. L. 100–418 effective on the date that is 90 days after Aug. 23, 1988, see section 1430(a), (f)of Pub. L. 100–418, set out as an Effective Date note under section 2397 of this title.
+Amendment by section 1424(d)(1)(B), (2) of Pub. L. 100–418 effective Aug. 23, 1988, and amendment by section 1423(a)(4) of Pub. L. 100–418 effective on the date that is 90 days after Aug. 23, 1988, see section 1430(a), (f) of Pub. L. 100–418, set out as an Effective Date note under section 2397 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -99,10 +99,6 @@ Amendment by Pub. L. 97–35 effective Aug. 1981, with transition provisions app
 #### Termination Date
 
 No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2275, 2291, 2312, 2316 of this title; title 26 section 3302.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

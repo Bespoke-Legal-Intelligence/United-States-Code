@@ -34,6 +34,10 @@ A vessel when not engaged in fishing shall not exhibit the lights or shapes pres
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3427; Pub. L. 104–324, title VII, §701(5), Oct. 19, 1996, 110 Stat. 3933.)
 
+#### Repeal of Section
+
+<i>Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that this section is repealed effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 2071 of this title.</i>
+
 #### References in Text
 
 Annex II to these Rules, referred to in par. (d), is to be established by the Secretary under section 2071 of this title.
@@ -46,9 +50,5 @@ Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the I
 
 1996—Pars. (b)(i), (c)(i). Pub. L. 104–324, §701(5)(A), struck out “a vessel of less than 20 meters in length may instead of this shape exhibit a basket;” after “above the other;”.
 
-Par. (d). Pub. L. 104–324 amended par. (d) generally. Prior to amendment, par. (d) read as follows: “A vessel engaged in fishing in close proximity to other vessels engaged in fishing may exhibit the additional signals described in Annex II to these Rules.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2020, 2031 of this title.
+Par. (d). Pub. L. 104–324 amended par. (d) generally. Prior to amendment, par. (d) read as follows: “A vessel engaged in fishing in close proximity to other vesselsengaged in fishing may exhibit the additional signals described in Annex II to these Rules.”
 

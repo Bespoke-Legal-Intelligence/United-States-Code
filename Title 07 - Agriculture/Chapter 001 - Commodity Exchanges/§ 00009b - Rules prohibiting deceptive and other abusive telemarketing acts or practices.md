@@ -16,7 +16,3 @@
 
 Section is comprised of subsec. (f) of section 6 of act Sept. 21, 1922. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsec. (c) of section 6 is classified to sections 9 and 15 of this title. Subsecs. (d), (e), and (g) of section 6 are classified to sections 13b, 9a, and 9c of this title, respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12 of this title; title 15 section 6102.
-

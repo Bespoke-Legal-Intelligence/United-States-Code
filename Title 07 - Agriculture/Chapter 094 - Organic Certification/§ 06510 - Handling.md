@@ -34,7 +34,3 @@ The Safe Drinking Water Act, referred to in subsec. (a)(7), is title XIV of act 
 
 1991—Subsec. (a)(1). Pub. L. 102–237 substituted “postharvest” for “post harvest”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6506, 6518 of this title.
-

@@ -12,7 +12,3 @@ The Secretary shall take such action as may be necessary to assure that persons 
 
 Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as a note under section 8621 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9835 of this title.
-

@@ -162,11 +162,9 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
-#### Special Rule for October 1, 2003, Through February 29, 2004
+#### Special Rule for Partial Fiscal Year Funding
 
-Pub. L. 108–88, §8(b)(1), Sept. 30, 2003, 117 Stat. 1121, provided that: “The Secretary of Transportation shall determine the amount that each urbanized area is to be apportioned for fixed guideway modernization under section 5337 of title 49, United States Code, on a pro rata basis to reflect the partial fiscal year 2004 funding made available by sections 5338(b)(2)(A)(vi) and 5338(b)(2)(B)(vi) of such title.”
+Pub. L. 108–310, §8(b), Sept. 30, 2004, 118 Stat. 1154, provided that: “The Secretary of Transportation shall determine the amount that each urbanized area is to be apportioned for fixed guideway modernization under section 5337 of title 49, United States Code, on a pro rata basis to reflect the partial fiscal year 2005 funding made available by sections 5338(b)(2)(A)(vii) and 5338(b)(2)(B)(vii) of such title.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5333 of this title.
+Pub. L. 108–88, §8(b)(1), Sept. 30, 2003, 117 Stat. 1121, as amended by Pub. L. 108–202, §9(b), Feb. 29, 2004, 118 Stat. 485; Pub. L. 108–224, §7(b), Apr. 30, 2004, 118 Stat. 633; Pub. L. 108–263, §7(b), June 30, 2004, 118 Stat. 704, which directed the Secretary of Transportation to determine the amount that each urbanized area would be apportioned for fixed guideway modernization under section 5337 of this title on a pro rata basis reflecting partial fiscal year 2004 funding made available under section 5338 of this title, was repealed by Pub. L. 108–280, §7(b), July 30, 2004, 118 Stat. 882.
 

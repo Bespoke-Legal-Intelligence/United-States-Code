@@ -44,7 +44,7 @@
 
 &emsp;The following waivers and releases shall be included in the Settlement Agreement:
 
-&emsp;&emsp;(A) A disclaimer and relinquishment by the Crow Tribe of all right, jurisdiction, title, claim, or interest in the lands and minerals within parcel number 2, including all rights appurtenant to such land and minerals.
+&emsp;&emsp;(A) A disclaimer and relinquishment by the Crow Tribe of all right, jurisdiction, title, claim, or interest in the lands and minerals within parcel number 2, includingall rights appurtenant to such land and minerals.
 
 &emsp;&emsp;(B) A release by the Crow Tribe of all persons and entities, including the United States, the Northern Cheyenne Tribe, the Northern Cheyenne allottees and their successors in interest, from any liability arising from, or related to, the 1891 survey and the subsequent occupancy and use of parcel number 2.
 
@@ -137,8 +137,4 @@ Act June 4, 1920, referred to in subsec. (d)(1)(A), is act June 4, 1920, ch. 224
 #### Amendments
 
 1996—Subsec. (b)(3). Pub. L. 104–109 made technical amendment to reference to “this subsection” to correct underlying provisions of original act.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1776g of this title.
 

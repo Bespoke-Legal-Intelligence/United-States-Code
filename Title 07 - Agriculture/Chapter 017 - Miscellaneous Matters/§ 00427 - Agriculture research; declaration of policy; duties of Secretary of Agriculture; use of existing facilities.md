@@ -46,10 +46,6 @@ By virtue of the authority vested in me by Title I of the First War Powers Act, 
 
 Franklin D. Roosevelt.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 361a, 427i, 1629, 3152 of this title; title 42 section 8852.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “deemed”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “Nonnuclear”.</i>

@@ -6,7 +6,7 @@
 
 &emsp;(2) a person who performs the analysis or evaluation described in paragraph (1) to incorporate the results of such conduct in an original mask work which is made to be distributed.
 
-(b) Notwithstanding the provisions of section 905(2), the owner of a particular semiconductor chip product made by the owner of the mask work, or by any person authorized by the ownerof the mask work, may import, distribute, or otherwise dispose of or use, but not reproduce, that particular semiconductor chip product without the authority of the owner of the mask work.
+(b) Notwithstanding the provisions of section 905(2), the owner of a particular semiconductor chip product made by the owner of the mask work, or by any person authorized by the owner of the mask work, may import, distribute, or otherwise dispose of or use, but not reproduce, that particular semiconductor chip product without the authority of the owner of the mask work.
 
 (Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3350.)
 

@@ -14,7 +14,7 @@ Except to the extent provided in regulations, orders, instructions, licenses, or
 
 &emsp;(3) any foreign person that the Secretary of the Treasury, in consultation with the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, the Secretary of Defense, and the Secretary of State, designates as owned, controlled, or directed by, or acting for or on behalf of, a significant foreign narcotics trafficker so identified in the report required under subsection (b) or (h)(1) of section 1903 of this title, or foreign persons designated by the Secretary of the Treasury pursuant to this subsection; and
 
-&emsp;(4) any foreign person that the Secretary of the Treasury, in consultation with the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau ofInvestigation, the Administrator of the Drug Enforcement Administration, the Secretary of Defense, and the Secretary of State, designates as playing a significant role in international narcotics trafficking.
+&emsp;(4) any foreign person that the Secretary of the Treasury, in consultation with the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, the Secretary of Defense, and the Secretary of State, designates as playing a significant role in international narcotics trafficking.
 
 #### (c) Prohibited transactions
 
@@ -47,4 +47,8 @@ Nothing in this chapter prohibits or otherwise limits the authorized law enforce
 #### Amendments
 
 2001—Subsec. (f). Pub. L. 107–108 struck out heading and text of subsec. (f). Text read as follows: “The determinations, identifications, findings, and designations made pursuant to section 1903 of this title and subsection (b) of this section shall not be subject to judicial review.”
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 

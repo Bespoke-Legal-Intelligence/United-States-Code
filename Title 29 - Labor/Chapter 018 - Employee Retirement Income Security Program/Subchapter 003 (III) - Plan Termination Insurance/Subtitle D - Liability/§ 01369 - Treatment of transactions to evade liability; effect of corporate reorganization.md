@@ -2,7 +2,7 @@
 
 #### (a) Treatment of transactions to evade liability
 
-If a principal purpose of any person in entering into any transaction is to evade liability to which such person would be subject under this subtitle and the transaction becomes effective within five years before the termination date of the termination on which such liability would be based, then such person and the members of such person's controlled group (determined as of the termination date) shall be subject to liability under this subtitle in connection with such termination as if such person were a contributing sponsor of the terminated plan as of the termination date. This subsection shall not cause any person to be liable under this subtitle in connection with such plan termination for any increases or improvements in the benefits provided under the plan which are adopted after the date on which the transaction referred to in the preceding sentence becomes effective.
+If a principal purpose of any person in entering into any transaction is to evade liability to which such person would be subject under this subtitle and the transaction becomes effective within five years before the termination date of the termination on which such liability would be based, then such person and the members of such person's controlled group (determined as of the termination date) shall be subject to liability under this subtitle in connection with such termination as if such person were a contributing sponsor of the terminated plan as of the termination date. This subsection shall not causeany person to be liable under this subtitle in connection with such plan termination for any increases or improvements in the benefits provided under the plan which are adopted after the date on which the transaction referred to in the preceding sentence becomes effective.
 
 #### (b) Effect of corporate reorganization
 
@@ -27,8 +27,4 @@ For purposes of this subtitle, the following rules apply in the case of certain 
 Section 11013(b) of Pub. L. 99–272 provided that: “Section 4069(a) of the Employee Retirement Income Security Act of 1974 (as added by subsection (a)) \[subsec. (a) of this section\] shall apply with respect to transactions becoming effective on or after January 1, 1986.”
 
 Section effective Jan. 1, 1986, with certain exceptions, see section 11019 of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under section 1341 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1370, 1398 of this title.
 

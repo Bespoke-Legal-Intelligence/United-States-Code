@@ -2,21 +2,31 @@
 
 #### (a) In general
 
-The purpose of this section is to enable the Attorney General to award grants to increase the availability of legal assistance necessary to provide effective aid to victims of domestic violence, stalking, or sexual assault who are seeking relief in legal matters arising as a consequence of that abuse or violence, at minimal or no cost to the victims.
+The purpose of this section is to enable the Attorney General to award grants to increase the availability of legal assistance necessary to provide effective aid to victims of domestic violence, dating violence, stalking, or sexual assault who are seeking relief in legal matters arising as a consequence of that abuse or violence, at minimal or no cost to the victims.
 
 #### (b) Definitions
 
 In this section:
 
-#### (1) Domestic violence
+#### (1) Dating violence
+
+&emsp;The term “dating violence” means violence committed by a person who is or has been in a social relationship of a romantic or intimate nature with the victim. The existence of such a relationship shall be determined based on a consideration of—
+
+&emsp;&emsp;(A) the length of the relationship;
+
+&emsp;&emsp;(B) the type of relationship; and
+
+&emsp;&emsp;(C) the frequency of interaction between the persons involved in the relationship.
+
+#### (2) Domestic violence
 
 &emsp;The term “domestic violence” has the meaning given the term in section 3796gg–2 of this title.
 
-#### (2) Legal assistance for victims
+#### (3) Legal assistance for victims
 
-&emsp;The term “legal assistance” includes assistance to victims of domestic violence, stalking, and sexual assault in family, immigration, administrative agency, or housing matters, protection or stay away order proceedings, and other similar matters. No funds made available under this section may be used to provide financial assistance in support of any litigation described in paragraph (14) of section 504 of Public Law 104–134.
+&emsp;The term “legal assistance” includes assistance to victims of domestic violence, dating violence, stalking, and sexual assault in family, immigration, administrative agency, or housing matters, protection or stay away order proceedings, and other similar matters. No funds made available under this section may be used to provide financial assistance in support of any litigation described in paragraph (14) of section 504 of Public Law 104–134.
 
-#### (3) Sexual assault
+#### (4) Sexual assault
 
 &emsp;The term “sexual assault” has the meaning given the term in section 3796gg–2 of this title.
 
@@ -24,27 +34,27 @@ In this section:
 
 The Attorney General may award grants under this subsection to private nonprofit entities, Indian tribal governments, and publicly funded organizations not acting in a governmental capacity such as law schools, and which shall be used—
 
-&emsp;(1) to implement, expand, and establish cooperative efforts and projects between domestic violence and sexual assault victim services organizations and legal assistance providers to provide legal assistance for victims of domestic violence, stalking, and sexual assault;
+&emsp;(1) to implement, expand, and establish cooperative efforts and projects between domestic violence, dating violence, and sexual assault victim services organizations and legal assistance providers to provide legal assistance for victims of domestic violence, dating violence, stalking, and sexual assault;
 
-&emsp;(2) to implement, expand, and establish efforts and projects to provide legal assistance for victims of domestic violence, stalking, and sexual assault by organizations with a demonstrated history of providing direct legal or advocacy services on behalf of these victims; and
+&emsp;(2) to implement, expand, and establish efforts and projects to provide legal assistance for victims of domestic violence, dating violence, stalking, and sexual assault by organizations with a demonstrated history of providing direct legal or advocacy services on behalf of these victims; and
 
-&emsp;(3) to provide training, technical assistance, and data collection to improve the capacity of grantees and other entities to offer legal assistance to victims of domestic violence, stalking, and sexual assault.
+&emsp;(3) to provide training, technical assistance, and data collection to improve the capacity of grantees and other entities to offer legal assistance to victims of domestic violence, dating violence, stalking, and sexual assault.
 
 #### (d) Eligibility
 
 To be eligible for a grant under subsection (c) of this section, applicants shall certify in writing that—
 
-&emsp;(1) any person providing legal assistance through a program funded under subsection (c) of this section has completed or will complete training in connection with domestic violence or sexual assault and related legal issues;
+&emsp;(1) any person providing legal assistance through a program funded under subsection (c) of this section has completed or will complete training in connection with domestic violence, dating violence, or sexual assault and related legal issues;
 
-&emsp;(2) any training program conducted in satisfaction of the requirement of paragraph (1) has been or will be developed with input from and in collaboration with a State, local, or tribal domestic violence or sexual assault program or coalition, as well as appropriate State and local law enforcement officials;
+&emsp;(2) any training program conducted in satisfaction of the requirement of paragraph (1) has been or will be developed with input from and in collaboration with a State, local, or tribal domestic violence, dating violence, or sexual assault program or coalition, as well as appropriate State and local law enforcement officials;
 
-&emsp;(3) any person or organization providing legal assistance through a program funded under subsection (c) of this section has informed and will continue to inform State, local, or tribal domestic violence or sexual assault programs and coalitions, as well as appropriate State and local law enforcement officials of their work; and
+&emsp;(3) any person or organization providing legal assistance through a program funded under subsection (c) of this section has informed and will continue to inform State, local, or tribal domestic violence, dating violence, or sexual assault programs and coalitions, as well as appropriate State and local law enforcement officials of their work; and
 
-&emsp;(4) the grantee's organizational policies do not require mediation or counseling involving offenders and victims physically together, in cases where sexual assault, domestic violence, or child sexual abuse is an issue.
+&emsp;(4) the grantee's organizational policies do not require mediation or counseling involving offenders and victims physically together, in cases where sexual assault, domestic violence, dating violence, or child sexual abuse is an issue.
 
 #### (e) Evaluation
 
-The Attorney General may evaluate the grants funded under this section through contracts or other arrangements with entities expert on domestic violence, stalking, and sexual assault, and on evaluation research.
+The Attorney General may evaluate the grants funded under this section through contracts or other arrangements with entities expert on domestic violence, dating violence, stalking, and sexual assault, and on evaluation research.
 
 #### (f) Authorization of appropriations
 
@@ -56,7 +66,7 @@ The Attorney General may evaluate the grants funded under this section through c
 
 #### (A) Tribal programs
 
-&emsp;&emsp;Of the amount made available under this subsection in each fiscal year, not less than 5 percent shall be used for grants for programs that assist victims of domestic violence, stalking, and sexual assault on lands within the jurisdiction of an Indian tribe.
+&emsp;&emsp;Of the amount made available under this subsection in each fiscal year, not less than 5 percent shall be used for grants for programs that assist victims of domestic violence, dating violence, stalking, and sexual assault on lands within the jurisdiction of an Indian tribe.
 
 #### (B) Victims of sexual assault
 
@@ -66,13 +76,31 @@ The Attorney General may evaluate the grants funded under this section through c
 
 &emsp;Amounts made available under this section shall be used to supplement and not supplant other Federal, State, and local funds expended to further the purpose of this section.
 
-(Pub. L. 106–386, div. B, title II, §1201, Oct. 28, 2000, 114 Stat. 1504.)
+(Pub. L. 106–386, div. B, title II, §1201, Oct. 28, 2000, 114 Stat. 1504; Pub. L. 108–405, title II, §205, Oct. 30, 2004, 118 Stat. 2271.)
 
 #### References in Text
 
-Paragraph (14) of section 504 of Pub. L. 104–134, referred to in subsec. (b)(2), probably means Pub. L. 104–134, title I, §101\[a\] \[title V, §504(a)(14)\], Apr. 26, 1996, 110 Stat. 1321, 1321–55; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, which is not classified to the Code.
+Paragraph (14) of section 504 of Pub. L. 104–134, referred to in subsec. (b)(3), probably means Pub. L. 104–134, title I, §101\[a\] \[title V, §504(a)(14)\], Apr. 26, 1996, 110 Stat. 1321, 1321–55; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, which is not classified to the Code.
 
 #### Codification
 
 Section was enacted as part of the Violence Against Women Act of 2000 and also as part of the Victims of Trafficking and Violence Protection Act of 2000, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
+
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–405, §205(1), inserted “dating violence,” after “domestic violence,”.
+
+Subsec. (b)(1) to (4). Pub. L. 108–405, §205(2), added par. (1), redesignated former pars. (1) to (3) as (2) to (4), respectively, and inserted “dating violence,” after “domestic violence,” in par. (3).
+
+Subsec. (c)(1). Pub. L. 108–405, §205(3)(A), inserted “, dating violence,” after “between domestic violence” and “dating violence,” after “victims of domestic violence,”.
+
+Subsec. (c)(2), (3). Pub. L. 108–405, §205(3)(B), (C), inserted “dating violence,” after “domestic violence,”.
+
+Subsec. (d)(1) to (3). Pub. L. 108–405, §205(4)(A)–(C), inserted “, dating violence,” afer “domestic violence”.
+
+Subsec. (d)(4). Pub. L. 108–405, §205(4)(D), inserted “dating violence,” after “domestic violence,”.
+
+Subsec. (e). Pub. L. 108–405, §205(5), inserted “dating violence,” after “domestic violence,”.
+
+Subsec. (f)(2)(A). Pub. L. 108–405, §205(6), inserted “dating violence,” after “domestic violence,”.
 

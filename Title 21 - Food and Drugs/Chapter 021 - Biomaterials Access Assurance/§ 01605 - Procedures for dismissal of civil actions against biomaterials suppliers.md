@@ -94,15 +94,11 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (e) Dismissal with prejudice
 
-An order granting a motion to dismiss or for summary judgment pursuant to this section shall be entered with prejudice, except insofar asthe moving defendant may be rejoined to the action as provided in section 1606 of this title.
+An order granting a motion to dismiss or for summary judgment pursuant to this section shall be entered with prejudice, except insofar as the moving defendant may be rejoined to the action as provided in section 1606 of this title.
 
 #### (f) Manufacturer conduct of litigation
 
-The manufacturer of an implant that is the subject of an action covered under this chapter shall be permitted to conduct litigation on any motion for summary judgment or dismissal filed by a biomaterials supplier who is a defendant under this section on behalf of such supplier if the manufacturer and any other defendant in such action enter into a valid and applicable contractual agreement under which the manufacturer agrees to bear the cost of such litigation or to conduct such litigation.
+The manufacturer of an implant that is the subject of an action covered under this chapter shall be permitted to conduct litigation on any motion for summary judgment or dismissal filed by a biomaterials supplier who is a defendant under this section on behalf of such supplier if the manufacturer and any other defendant in such action enter into a valid and applicablecontractual agreement under which the manufacturer agrees to bear the cost of such litigation or to conduct such litigation.
 
 (Pub. L. 105–230, §6, Aug. 13, 1998, 112 Stat. 1526.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1603, 1604, 1606 of this title.
 

@@ -72,7 +72,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 (1) If the range of a species with respect to which a determination under paragraph (1)(C)(i) of subsection (b) of this section is made extends beyond the territorial waters of the State, the State agency and the Secretary (who shall first coordinate with the Marine Mammal Commission and the appropriate Regional Fishery Management Council established under section 1852 of this title) shall enter into a cooperative allocation agreement providing procedures for allocating, on a timely basis, such of the number of animals, as determined under paragraph (1)(C)(i)(II) of subsection (b) of this section, as may be appropriate with priority of allocation being given firstly to taking for subsistence uses in the case of the State of Alaska, and secondly to taking for purposes provided for under section 1371(a) of this title within the zone described in section 1362(14)(B) <sup>2</sup> of this title.
 
-(2) If the State agency requests the Secretary to regulate the taking of a species to which paragraph (1) applies within the zone described in section 1362(14)(B) <sup>2</sup> of this title for subsistence uses or for hunting, or both, in a manner consistent with the regulation by the State agency of such taking within the State, the Secretary shall adopt, and enforce within such zone,such of the State agency's regulatory provisions as the Secretary considers to be consistent with his administration of section 1371(a) of this title within such zone. The Secretary shall adopt such provisions through the issuance of regulations under section 553 of title 5, and with respect to such issuance the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], the Paperwork Reduction Act,<sup>2</sup> Executive Order Numbered 12291, dated February 17, 1981, and the thirty-day notice requirement in subsection (d) of such section 553 shall not apply. For purposes of sections 1375, 1376, and 1377 of this title, such regulations shall be treated as having been issued under this subchapter.
+(2) If the State agency requests the Secretary to regulate the taking of a species to which paragraph (1) applies within the zone described in section 1362(14)(B) <sup>2</sup> of this title for subsistence uses or for hunting, or both, in a manner consistent with the regulation by the State agency of such taking within the State, the Secretary shall adopt, and enforce within such zone, such of the State agency's regulatory provisions as the Secretary considers to be consistent with his administration of section 1371(a) of this title within such zone. The Secretary shall adopt such provisions through the issuance of regulations under section 553 of title 5, and with respect to such issuance the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], the Paperwork Reduction Act,<sup>2</sup> Executive Order Numbered 12291, dated February 17, 1981, and the thirty-day notice requirement in subsection (d) of such section 553 shall not apply. For purposes of sections 1375, 1376, and 1377 of this title, such regulations shall be treated as having been issued under this subchapter.
 
 #### (e) Revocation of transfer of management authority
 
@@ -80,7 +80,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 (2)(A) The Secretary may not revoke a transfer of management authority under paragraph (1) unless—
 
-&emsp;(i) the Secretary provides to the State a written notice of intent to revoke together with a statement, in detail, of those actions, or failures to act, on which such intent is based; and
+&emsp;(i) the Secretary provides to the State a written notice of intent to revoke togetherwith a statement, in detail, of those actions, or failures to act, on which such intent is based; and
 
 &emsp;(ii) during the ninety-day period after the date of the notice of intent to revoke—
 
@@ -210,13 +210,13 @@ Subsecs. (k), (<i>l</i>). Pub. L. 97–58, §4(a)(1), redesignated subsecs. (c) 
 
 1978—Subsec. (d). Pub. L. 95–316 added subsec. (d).
 
+#### Enforcement by Hawaii of Laws Relating to Conservation and Management of Humpback Whales With Respect to Recreational and Commercial Vessels
+
+Pub. L. 108–447, div. B, title II, §213, Dec. 8, 2004, 118 Stat. 2884, provided that: “Hereafter, notwithstanding any other Federal law related to the conservation and management of marine mammals, the State of Hawaii may enforce any State law or regulation with respect to the operation in State waters of recreational and commercial vessels, for the purpose of conservation and management of humpback whales, to the extent that such law or regulation is no less restrictive than Federal law.”
+
 #### Cooperative Agreements Under Endangered Species Act
 
 Section 4(b) of Pub. L. 97–58 provided that: “Nothing in the amendments made by subsection (a) \[amending this section\] shall be construed as affecting in any manner, or to any extent, any cooperative agreement entered into by a State under section 6(c) of the Endangered Species Act of 1973 (16 U.S.C. 1535(c)) before, on, or after the date of the enactment of this Act \[Oct. 9, 1981\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1153, 1362, 1371, 1372, 1421b, 1421h of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

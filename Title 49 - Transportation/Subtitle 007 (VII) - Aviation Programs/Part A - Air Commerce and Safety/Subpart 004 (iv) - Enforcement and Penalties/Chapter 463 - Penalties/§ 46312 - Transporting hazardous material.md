@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Aug. 23, 1958, Pub. L. 85–726, §902(h)(2), 72 Stat. 785; restated Jan. 3, 1975, Pub. L. 93–633, §113(c), 88 Stat. 2162.
 
-In this section, before clause (1), the words “is guilty of an offense”, “Upon conviction”, and “for each offense” are omitted as surplus. The words “fined under title 18” are substituted for “a fine of not more than $25,000” for consistency with title 18. The word “prescribed” is substituted for “issued” for consistency inthe revised title and with other titles of the United States Code. In clause (1), the words “shipment, baggage, or other” are omitted as surplus.
+In this section, before clause (1), the words “is guilty of an offense”, “Upon conviction”, and “for each offense” are omitted as surplus. The words “fined under title 18” are substituted for “a fine of not more than $25,000” for consistency with title 18. The word “prescribed” is substituted for “issued” for consistency in the revised title and with other titles of the United States Code. In clause (1), the words “shipment, baggage, or other” are omitted as surplus.
 
 #### Amendments
 
@@ -39,8 +39,4 @@ In this section, before clause (1), the words “is guilty of an offense”, “
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 44936 of this title; title 18 section 3663.
 

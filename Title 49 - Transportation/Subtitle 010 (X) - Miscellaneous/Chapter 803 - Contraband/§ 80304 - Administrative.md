@@ -94,11 +94,7 @@ Subsecs. (d), (e). Pub. L. 107–296, §1112(r)(2), (3), added subsec. (d) and r
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80303 of this title.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

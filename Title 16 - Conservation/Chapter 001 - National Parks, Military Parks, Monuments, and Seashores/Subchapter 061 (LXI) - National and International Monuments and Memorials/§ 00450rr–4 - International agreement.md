@@ -30,7 +30,3 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450rr, 450rr–1, 450rr–3, 450rr–5, 450rr–6 of this title.
-

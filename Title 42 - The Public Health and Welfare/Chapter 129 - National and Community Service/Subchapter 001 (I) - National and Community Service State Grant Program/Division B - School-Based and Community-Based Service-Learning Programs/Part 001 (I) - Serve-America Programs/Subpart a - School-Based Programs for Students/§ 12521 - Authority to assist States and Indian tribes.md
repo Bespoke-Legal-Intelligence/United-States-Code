@@ -90,7 +90,3 @@ Section 103(a)(1) of Pub. L. 103–82 provided that: “The purpose of this subs
 
 &emsp;“(D) work with employers in the communities to ensure that projects introduce the students to various careers and expose the students to needed further education and training.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12511, 12522, 12523, 12524, 12525, 12526, 12527, 12530 of this title.
-

@@ -72,7 +72,7 @@ Not later than 120 days after November 29, 1987, the Commissioner, in consultati
 
 #### (f) Authorization of appropriations; investment in obligations of United States
 
-(1) There is authorized to be appropriated for each of the fiscal years 2000 and 2001, $1,000,000 for the purpose of carrying out the provisions of this section. Any amount appropriated under this paragraph shall remain available for expenditure without fiscal year limitation.
+(1) There is authorized to be appropriated for each of the fiscal years 2000 and 2001, $1,000,000 for the purpose of carrying out the provisions of this section. Any amount appropriated underthis paragraph shall remain available for expenditure without fiscal year limitation.
 
 (2) The revolving loan fund that is required to be established under subsection (a)(1) of this section shall be maintained as a separate account. Any portion of the revolving loan fund that is not required for expenditure shall be invested in obligations of the United States or in obligations guaranteed or insured by the United States.
 
@@ -82,7 +82,7 @@ Not later than 120 days after November 29, 1987, the Commissioner, in consultati
 
 (2) Such report shall include the views and recommendations of the Commissioner with respect to the revolving loan fund established under subsection (a)(1) of this section and with respect to loans made from such fund, and shall—
 
-&emsp;(A) describe the effectiveness of the operation of such fund in improving the economicand social self-sufficiency of Native Hawaiians;
+&emsp;(A) describe the effectiveness of the operation of such fund in improving the economic and social self-sufficiency of Native Hawaiians;
 
 &emsp;(B) specify the number of loans made in such fiscal year;
 
@@ -153,8 +153,4 @@ Subsec. (g). Pub. L. 102–375, §822(2)(I), amended subsec. (g) generally. Prio
 #### Effective Date
 
 Section effective upon expiration of 90-day period beginning Nov. 29, 1987, see section 701(c) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under section 3001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2992d of this title.
 

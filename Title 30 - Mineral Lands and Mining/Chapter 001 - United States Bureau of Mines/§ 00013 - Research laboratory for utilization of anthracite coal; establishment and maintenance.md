@@ -6,13 +6,9 @@ The Secretary of the Interior, acting through the United States Bureau of Mines,
 
 #### Transfer of Functions
 
-See note set out under section 1 of this title.
+For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of this title.
 
 #### Authorization of Appropriations
 
 Section 5 of act Dec. 18, 1942, provided that: “In order to carry out the purposes of this Act \[sections 13 to 16 of this title\] there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, the sum of (a) $450,000 for the erection and equipment of a building or buildings, including plumbing, lighting, heating, general service, and experimental equipment and apparatus, the necessary roads, walks, and ground improvement, and land for the site of the building if no land is donated; and (b) $175,000 annually for the maintenance and operation of the experimental station, including personal services, supplies, equipment, and expenses of travel and subsistence.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14 of this title.
 

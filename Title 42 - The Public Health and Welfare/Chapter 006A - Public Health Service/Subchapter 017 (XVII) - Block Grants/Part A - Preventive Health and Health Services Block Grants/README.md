@@ -1,9 +1,5 @@
 Part A—Preventive Health and Health Services Block Grants
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 9875 of this title; title 25 section 1680h.
-
 
 ---
 

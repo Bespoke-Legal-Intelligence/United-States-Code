@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;The Commissioner, subject to the provisions of section 776 of this title, may make grants to eligible entities to pay up to 90 percent of the cost of projects or demonstration programs for the provision of vocational rehabilitation services to individuals with disabilities who are migrant or seasonal farmworkers, as determined in accordance with rules prescribed by the Secretary of Labor, and to the family members who are residing with such individuals (whether or not such family members are individuals with disabilities).
+&emsp;The Commissioner, subject to the provisions of section 776 of this title, may make grants to eligible entities to pay up to 90 percent of the cost of projects or demonstration programs for the provision of vocational rehabilitationservices to individuals with disabilities who are migrant or seasonal farmworkers, as determined in accordance with rules prescribed by the Secretary of Labor, and to the family members who are residing with such individuals (whether or not such family members are individuals with disabilities).
 
 #### (2) Eligible entities
 

@@ -32,7 +32,7 @@ Subsection (a) of this section prescribes the trustee's duties. He is required t
 
 Paragraph (3) of S. 1106 requires the trustee to investigate the acts, conduct, assets, liabilities, and financial condition of the debtor, the operation of the debtor's business, and the desirability of the continuance of the business, and any other matter relevant to the case or to the formulation of a plan. Paragraph (4) requires the trustee to report the results of his investigation to the court and to creditors’ committees, equity security holders’ committees, indenture trustees and any other entity the court designates.
 
-Paragraph (5) requires the trustee to file a plan or to report why a plan cannot be formulated, or to recommend conversion to liquidation or to an individual repayment plan case, or dismissal. It is anticipated that the trustee will consult with creditors and otherparties in interest in the formulation of a plan, just as the debtor in possession would.
+Paragraph (5) requires the trustee to file a plan or to report why a plan cannot be formulated, or to recommend conversion to liquidation or to an individual repayment plan case, or dismissal. It is anticipated that the trustee will consult with creditors and other parties in interest in the formulation of a plan, just as the debtor in possession would.
 
 Paragraph (6) \[enacted as (7)\] requires final reports by the trustee, as the court orders.
 
@@ -105,8 +105,4 @@ Pub. L. 99–500, §101(b) \[title VI, §608\], Oct. 18, 1986, 100 Stat. 1783–
 “(d) This section shall not apply during any period in which a case is subject to chapter 7, title 11, United States Code.”
 
 Similar provisions were contained in Pub. L. 99–656, §2, Nov. 14, 1986, 100 Stat. 3668, as amended by Pub. L. 100–41, May 15, 1987, 101 Stat. 309; Pub. L. 100–99, Aug. 18, 1987, 101 Stat. 716, and were repealed by Pub. L. 100–334, §3(b), June 16, 1988, 102 Stat. 614.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1107, 1111, 1202, 1203, 1301 of this title.
 

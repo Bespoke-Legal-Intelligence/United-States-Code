@@ -96,7 +96,7 @@ Scenic and Historic Values.—Notwithstanding subsections (b) and (c), the Secre
 
 (q)
 
-Phase Construction.—Safety considerations for a project under this title may be metby phase construction consistent with the operative safety management system established in accordance with section 303 or in accordance with a statewide transportation improvement program approved by the Secretary.
+Phase Construction.—Safety considerations for a project under this title may be met by phase construction consistent with the operative safety management system established in accordance with section 303 or in accordance with a statewide transportation improvement program approved by the Secretary.
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894; Pub. L. 88–157, §4, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–574, §§5(a), 14, Sept. 13, 1966, 80 Stat. 767, 771; Pub. L. 91–605, title I, §136(a), (b), Dec. 31, 1970, 84 Stat. 1734; Pub. L. 93–87, title I, §§114, 152(2), 156, Aug. 13, 1973, 87 Stat. 257, 276, 277; Pub. L. 95–599, title I, §§113, 116(d), 141(f), (g), Nov. 6, 1978, 92 Stat. 2696, 2699, 2711; Pub. L. 96–106, §3, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §110(a), Jan. 6, 1983, 96 Stat. 2105; Pub. L. 102–240, title I, §1016(c)–(f)(1), Dec. 18, 1991, 105 Stat. 1946; Pub. L. 104–59, title III, §§304, 305(a), Nov. 28, 1995, 109 Stat. 579, 580; Pub. L. 105–178, title I, §§1202(c), 1212(a)(2)(A), 1306, June 9, 1998, 112 Stat. 169, 193, 229.)
 
@@ -168,7 +168,7 @@ Subsecs. (h) to (j). Pub. L. 91–605, §136(b), added subsecs. (h) to (j).
 
 Subsec. (g). Pub. L. 89–574, §14, added subsec. (g).
 
-1963—Subsec. (b). Pub. L. 88–157 substituted “Such standards, as applied to each actual construction project, shall be adequate to enable such project to accommodate the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary, under section 106 of this title, of the plans, specifications, and estimates for actual construction of suchproject” for “Such standards shall be adequate to accommodate the types and volumes of traffic forecast for the year 1975”, struck out “up” before “to such standards” and inserted “all” in phrase “throughout all the States”.
+1963—Subsec. (b). Pub. L. 88–157 substituted “Such standards, as applied to each actual construction project, shall be adequate to enable such project to accommodate the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary,under section 106 of this title, of the plans, specifications, and estimates for actual construction of such project” for “Such standards shall be adequate to accommodate the types and volumes of traffic forecast for the year 1975”, struck out “up” before “to such standards” and inserted “all” in phrase “throughout all the States”.
 
 #### Effective Date of 1991 Amendment
 
@@ -272,7 +272,7 @@ Extensions.—The Secretary shall extend any time periods for review under this 
 
 “(c)
 
-Dispute Resolution.—When the Secretary determines that a Federal agency which is subject to a time period for its environmental review or analysis under this section has failed to complete such review, analysis, opinion, or decision on issuing any permit, license, or approval within the established time period or within any agreed-upon extension to such time period, theSecretary may, after notice and consultation with such agency, close the record on the matter before the Secretary. If the Secretary finds, after timely compliance with this section, that an environmental issue related to the project that an affected Federal agency has jurisdiction over by operation of Federal law has not been resolved, the Secretary and the head of the Federal agency shall resolve the matter not later than 30 days after the date of the finding by the Secretary.
+Dispute Resolution.—When the Secretary determines that a Federal agency which is subject to a time period for its environmental review or analysis under this section has failed to complete such review, analysis, opinion, or decision on issuing any permit, license,or approval within the established time period or within any agreed-upon extension to such time period, the Secretary may, after notice and consultation with such agency, close the record on the matter before the Secretary. If the Secretary finds, after timely compliance with this section, that an environmental issue related to the project that an affected Federal agency has jurisdiction over by operation of Federal law has not been resolved, the Secretary and the head of the Federal agency shall resolve the matter not later than 30 days after the date of the finding by the Secretary.
 
 “(d)
 
@@ -553,8 +553,4 @@ Section 144 of Pub. L. 95–599, as amended by Pub. L. 96–106, §14, Nov. 9, 1
 #### Modification of Project Agreements To Effectuate Requirement of Four-Lanes of Traffic
 
 Authorization to modify projects agreements entered into prior to September 13, 1966, to effectuate the amendment of this section by Pub. L. 89–574 which added the requirement of four-lanes of traffic, see section 5(b) of Pub. L. 89–574, set out as a note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 103, 106, 115, 142 of this title.
 

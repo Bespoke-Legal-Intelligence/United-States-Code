@@ -4,7 +4,3 @@ The portion of the recreation area delineated as the “Inland Sector” on the 
 
 (Pub. L. 92–260, §3, Mar. 23, 1972, 86 Stat. 99.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460z–5 of this title.
-

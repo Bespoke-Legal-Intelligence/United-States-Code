@@ -24,7 +24,7 @@ Section 721, acts July 17, 1916, ch. 245, title I, §7, 39 Stat. 365; Ex. Ord. N
 
 Section 722, act July 17, 1916, ch. 245, title I, §7, 39 Stat. 365, placed a limitation on reduction of capital stock of land banks. See section 2034 of this title.
 
-Section 723, acts July 17, 1916, ch. 245, title I, §7 (pt.), as added Mar. 4, 1933, ch. 270, §1, 47 Stat. 1547; amended May 12, 1933, ch. 25, title II, §26, 48 Stat. 44; June 16, 1933, ch. 98, title VIII, §80(a), 48 Stat. 273; Jan. 31, 1934, ch. 7, §6, 48 Stat. 346; Aug. 19, 1937, ch. 704, §§5(a), 22, 50 Stat. 704, 710; Oct. 29, 1949, ch. 786, §1(b), 63 Stat. 986; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), (i), 73 Stat. 387; Oct. 4, 1961, Pub. L. 87–353, §3(a), (e), 75 Stat. 773,774, authorized direct loans. See section 2020 of this title.
+Section 723, acts July 17, 1916, ch. 245, title I, §7 (pt.), as added Mar. 4, 1933, ch. 270, §1, 47 Stat. 1547; amended May 12, 1933, ch. 25, title II, §26, 48 Stat. 44; June 16, 1933, ch. 98, title VIII, §80(a), 48 Stat. 273; Jan. 31, 1934, ch. 7, §6, 48 Stat. 346; Aug. 19, 1937, ch. 704, §§5(a), 22, 50 Stat. 704, 710; Oct. 29, 1949, ch. 786, §1(b), 63 Stat. 986; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), (i), 73 Stat. 387; Oct. 4, 1961, Pub. L. 87–353, §3(a), (e), 75 Stat. 773, 774, authorized direct loans. See section 2020 of this title.
 
 Section 724, acts Aug. 19, 1937, ch. 704, §25(b), 50 Stat. 711; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, provided for loans when an association's stock is impaired. See section 2020 of this title.
 

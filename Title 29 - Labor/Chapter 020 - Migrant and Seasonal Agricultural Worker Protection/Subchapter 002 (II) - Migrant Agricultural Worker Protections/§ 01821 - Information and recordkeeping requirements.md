@@ -72,7 +72,3 @@ The information required to be disclosed by subsections (a) through (c) of this 
 
 Section 4(c) of Pub. L. 104–49 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1831 of this title\] shall take effect upon the expiration of 90 days after the date final regulations are issued by the Secretary of Labor to implement such amendments.” \[Final regulations implementing Pub. L. 104–49 were signed May 13, 1996, published May 16, 1996, 61 F.R. 24858, and effective the same day.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1843 of this title.
-

@@ -18,7 +18,3 @@ Such an application shall include, at a minimum, a State plan that contains the 
 
 A prior section 12543, Pub. L. 101–610, title I, §123, Nov. 16, 1990, 104 Stat. 3141, as amended, which related to applications for assistance by States, Indian tribes and other local applicants, was renumbered section 199C of Pub. L. 101–610 by Pub. L. 103–82, §101(a), and transferred to section 12655b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12544, 12545, 12638 of this title.
-

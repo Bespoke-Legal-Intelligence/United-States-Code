@@ -26,7 +26,3 @@ Except as otherwise provided in this subchapter, an individual—
 
 For prior provisions, see note set out under section 1001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1001, 1004 of this title.
-

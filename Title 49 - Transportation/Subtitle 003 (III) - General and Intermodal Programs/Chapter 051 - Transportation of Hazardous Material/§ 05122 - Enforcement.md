@@ -58,7 +58,3 @@ In subsection (b)(1), before clause (A), the words “as is necessary” are omi
 
 1996—Subsec. (c). Pub. L. 104–324 added subsec. (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5711 of this title.
-

@@ -4,7 +4,3 @@ Whenever any carcass, part of a carcass, meat or meat food product of cattle, sh
 
 (Mar. 4, 1907, ch. 2907, title IV, §402, as added Pub. L. 90–201, §16, Dec. 15, 1967, 81 Stat. 598.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 159, 679 of this title.
-

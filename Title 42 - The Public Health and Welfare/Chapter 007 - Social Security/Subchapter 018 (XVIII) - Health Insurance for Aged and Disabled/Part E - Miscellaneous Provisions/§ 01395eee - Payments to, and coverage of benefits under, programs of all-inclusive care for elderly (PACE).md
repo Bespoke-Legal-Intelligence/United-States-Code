@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(A) is 55 years of age or older;
 
-&emsp;&emsp;(B) subject to subsection (c)(4) of this section, is determined under subsection (c) ofthis section to require the level of care required under the State medicaid plan for coverage of nursing facility services;
+&emsp;&emsp;(B) subject to subsection (c)(4) of this section, is determined under subsection (c) of this section to require the level of care required under the State medicaid plan for coverage of nursing facility services;
 
 &emsp;&emsp;(C) resides in the service area of the PACE program; and
 
@@ -124,7 +124,7 @@
 
 #### (A) Application of medicare advantage requirement with respect to medicare services furnished by noncontract physicians and other entities
 
-&emsp;&emsp;Section 1395w–22(k)(1) of this title (relating to limitations on balance billing against MA organizations for noncontract physicians and other entities with respect to services covered under this subchapter) shall apply to PACE providers, PACE program eligible individuals enrolled with such PACE providers, and physicians and other entities that do not have a contract or other agreement establishing payment amounts forservices furnished to such an individual in the same manner as such section applies to MA organizations, individuals enrolled with such organizations, and physicians and other entities referred to in such section.
+&emsp;&emsp;Section 1395w–22(k)(1) of this title (relating to limitations on balance billing against MA organizations for noncontract physicians and other entities with respect to services covered under this subchapter) shall apply to PACE providers, PACE program eligible individuals enrolled with such PACE providers, and physicians and other entities that do not have a contract or other agreement establishing payment amounts for services furnished to such an individual in the same manner as such section applies to MA organizations, individuals enrolled with such organizations, and physicians and other entities referred to in such section.
 
 #### (B) Reference to related provision for noncontract providers of services
 
@@ -194,7 +194,7 @@
 
 #### (2) Capitation amount
 
-&emsp;The capitation amount to be applied under this subsection for a provider for a contract year shall be an amount specified in the PACE program agreement for the year. Such amount shall be based upon payment rates established for purposes of payment under section 1395w–23 of this title (or, for periods before January 1, 1999, for purposes of risk-sharing contracts under section 1395mm of this title) and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. Such amount under such an agreement shall be computed in a manner so that the total payment level for all PACE program eligible individuals enrolled under a program is less than the projected payment under this subchapter for a comparable population not enrolled under a PACE program.
+&emsp;The capitation amount to be applied under this subsection for a provider for a contract year shall be an amount specified in the PACE program agreement for the year. Such amount shall be based upon payment rates established for purposes of payment under section 1395w–23 of this title (or, for periods before January 1, 1999, for purposes of risk-sharing contracts under section 1395mm of this title) and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. Such amount under such an agreement shall be computed in a manner so that the total payment level for all PACE programeligible individuals enrolled under a program is less than the projected payment under this subchapter for a comparable population not enrolled under a PACE program.
 
 #### (e) PACE program agreement
 
@@ -260,7 +260,7 @@
 
 #### (ii) Requirements during trial period
 
-&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this section or under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretaryspecifies in regulations in order to perform the oversight required under paragraph (4)(A).
+&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this section or under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
 
 #### (B) Development of outcome measures
 
@@ -334,7 +334,7 @@
 
 #### (7) Procedures for termination or imposition of sanctions
 
-&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods before January 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in thesame manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of this subchapter (or for such periods an eligible organization under section 1395mm of this title).
+&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods before January 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of this subchapter (or for such periods an eligible organization under section 1395mm of this title).
 
 #### (8) Timely consideration of applications for PACE program provider status
 
@@ -585,8 +585,4 @@ Treatment of private, for-profit providers.—The report shall include specific 
 &emsp;&emsp;“(C) Access to or quality of care for individuals enrolled with such entities is lower than such access or quality for individuals enrolled with other PACE providers.
 
 &emsp;&emsp;“(D) The application of such section has resulted in an increase in expenditures under the medicare or medicaid programs above the expenditures that would have been made if such section did not apply.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395w–28, 1395w–113, 1395w–131, 1395cc, 1395cc–2, 1395ss, 1396r–5, 1396u–4 of this title.
 

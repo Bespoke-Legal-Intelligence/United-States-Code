@@ -135,10 +135,6 @@ Pub. L. 89–139, §4(b), Aug. 28, 1965, 79 Stat. 579, added item 135.
 
 1960—Pub. L. 86–657, §§4(b), 5(b), July 14, 1960, 74 Stat. 523, included ferries in item 129 and added item 132.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 206, 215, 322, 402, 405, 408, 410, 411 of this title.
-
 
 ---
 

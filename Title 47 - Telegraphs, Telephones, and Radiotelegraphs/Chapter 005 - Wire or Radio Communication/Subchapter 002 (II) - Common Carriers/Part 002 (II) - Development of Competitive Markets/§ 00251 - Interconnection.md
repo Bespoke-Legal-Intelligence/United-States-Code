@@ -60,7 +60,7 @@ In addition to the duties contained in subsection (b) of this section, each incu
 
 &emsp;The duty—
 
-&emsp;&emsp;(A) to offer for resale at wholesale rates any telecommunications service that the carrier provides at retail to subscribers who are not telecommunications carriers; and
+&emsp;&emsp;(A) to offer for resale at wholesale rates any telecommunications service that thecarrier provides at retail to subscribers who are not telecommunications carriers; and
 
 &emsp;&emsp;(B) not to prohibit, and not to impose unreasonable or discriminatory conditions or limitations on, the resale of such telecommunications service, except that a State commission may, consistent with regulations prescribed by the Commission under this section, prohibit a reseller that obtains at wholesale rates a telecommunications service that is available at retail only to a category of subscribers from offering such service to a different category of subscribers.
 
@@ -177,8 +177,4 @@ Nothing in this section shall be construed to limit or otherwise affect the Comm
 #### Amendments
 
 1999—Subsec. (e)(3). Pub. L. 106–81 added par. (3).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 160, 224, 252, 253, 259, 260, 271, 272, 275 of this title.
 

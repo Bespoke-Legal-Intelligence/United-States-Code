@@ -44,7 +44,7 @@ List of State Length Limitations.—(1) Not later than February 16, 1992, each S
 
 (2) Not later than March 17, 1992, the Secretary shall publish an interim list in the Federal Register consisting of all information submitted under paragraph (1) of this subsection. The Secretary shall review for accuracy all information submitted by a State under paragraph (1) and shall solicit and consider public comment on the accuracy of the information.
 
-(3) A law or regulation may not be included on the list submitted by a State or published by the Secretary merely because it authorized, or could have authorized, by permit or otherwise, the operation of commercial motor vehicle combinations not in actual operation on a regular or periodic basis before June 2, 1991.
+(3) A law or regulation may not be included on the list submitted by a State or published by the Secretary merely because it authorized, or couldhave authorized, by permit or otherwise, the operation of commercial motor vehicle combinations not in actual operation on a regular or periodic basis before June 2, 1991.
 
 (4) Except as revised under this paragraph or paragraph (5) of this subsection, the list shall be published as final in the Federal Register not later than June 15, 1992. In publishing the final list, the Secretary shall make any revisions necessary to correct inaccuracies identified under paragraph (2) of this subsection. After publication of the final list, commercial motor vehicle combinations prohibited under subsection (b) of this section may not operate on the Dwight D. Eisenhower System of Interstate and Defense Highways and other Federal-aid Primary System highways designated by the Secretary except as published on the list. The list may be combined by the Secretary with the list required under section 127(d) of title 23.
 
@@ -129,10 +129,6 @@ In subsection (e)(4), the words “Except as revised under this paragraph or par
 1996—Subsec. (d)(4). Pub. L. 104–205, which directed amendment of this section by adding a new subsection designated par. (4) without specifying where, was executed by adding par. (4) to subsec. (d) to reflect the probable intent of Congress.
 
 1995—Subsec. (c). Pub. L. 104–59 substituted “Alaska, and Iowa” for “and Alaska” in heading and added par. (4).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 23 sections 127, 141.
 
 <i><sup>1</sup></i><i> See 1996 Amendment note below.</i>
 

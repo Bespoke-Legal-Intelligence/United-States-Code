@@ -4,15 +4,23 @@
 
 #### (1) In general
 
-&emsp;Subject to the limitations of paragraph (2), each satellite carrier providing, under section 122 of title 17, secondary transmissions to subscribers located within the local market of a television broadcast station of a primary transmission made by that station shall carry upon request the signals of all television broadcast stations located within that local market, subject to section 325(b) of this title.
+&emsp;Each satellite carrier providing, under section 122 of title 17, secondary transmissions to subscribers located within the local market of a television broadcast station of a primary transmission made by that station shall carry upon request the signals of all television broadcast stations located within that local market, subject to section 325(b) of this title.
 
 #### (2) Remedies for failure to carry
 
-&emsp;The remedies for any failure to meet the obligations under this subsection shall be available exclusively under section 501(f) of title 17.
+&emsp;In addition to the remedies available to television broadcast stations under section 501(f) of title 17, the Commission may use the Commission's authority under this chapter to assure compliance with the obligations of this subsection, but in no instance shall a Commission enforcement proceeding be required as a predicate to the pursuit of a remedy available under such section 501(f).
 
-#### (3) Effective date
+#### (3) <sup>1</sup> Low power station carriage optional
+
+&emsp;No low power television station whose signals are provided under section 119(a)(14) oftitle 17 shall be entitled to insist on carriage under this section, regardless of whether the satellite carrier provides secondary transmissions of the primary transmissions of other stations in the same local market pursuant to section 122 of such title, nor shall any such carriage be considered in connection with the requirements of subsection (c) of this section.
+
+#### (3) <sup>1</sup> Effective date
 
 &emsp;No satellite carrier shall be required to carry local television broadcast stations under paragraph (1) until January 1, 2002.
+
+#### (4) Carriage of signals of local stations in certain markets
+
+&emsp;A satellite carrier that offers multichannel video programming distribution service in the United States to more than 5,000,000 subscribers shall (A) within 1 year after December 8, 2004, retransmit the signals originating as analog signals of each television broadcast station located in any local market within a State that is not part of the contiguous United States, and (B) within 30 months after December 8, 2004, retransmit the signals originating as digital signals of each such station. The retransmissions of such stations shall be made available to substantially all of the satellite carrier's subscribers in each station's local market, and the retransmissions of the stations in at least one market in the State shall be made available to substantially all of the satellite carrier's subscribers in areas of the State that are not within a designated market area. The cost to subscribers of such retransmissions shall not exceed the cost of retransmissions of local television stations in other States. Within 1 year after December 8, 2004, the Commission shall promulgate regulations concerning elections by television stations in such State between mandatory carriage pursuant to this section and retransmission consent pursuant to section 325(b) of this title, which shall take into account the schedule on which local television stations are made available to viewers in such State.
 
 #### (b) Good signal required
 
@@ -28,7 +36,7 @@
 
 #### (1) Commercial stations
 
-&emsp;Notwithstanding subsection (a) of this section, a satellite carrier shall not be required to carry upon request the signal of any local commercial television broadcast station that substantially duplicates the signal of another local commercial television broadcast station which is secondarily transmitted by the satellite carrier within the same local market, or to carry upon request the signals of more than one local commercial television broadcast station in a single local market that is affiliated with a particular television network unless such stations are licensed to communities in different States.
+&emsp;Notwithstanding subsection (a)(1) of this section, a satellite carrier shall not be required to carry upon request the signal of any local commercial television broadcast station that substantially duplicates the signal of another local commercial television broadcast station which is secondarily transmitted by the satellite carrier within the same local market, or to carry upon request the signals of more than one local commercial television broadcast station in a single local market that is affiliated with a particular television network unless such stations are licensed to communities in different States.
 
 #### (2) Noncommercial stations
 
@@ -56,11 +64,179 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 &emsp;Within 120 days after the date a complaint is filed under paragraph (1), the Commission shall determine whether the satellite carrier has met its obligations under subsections (b) through (e) of this section. If the Commission determines that the satellite carrier has failed to meet such obligations, the Commission shall order the satellite carrier to take appropriate remedial action. If the Commission determines that the satellite carrier has fully met the requirements of such subsections, the Commission shall dismiss the complaint.
 
-#### (g) Regulations by Commission
+#### (g) Carriage of local stations on a single dish
+
+#### (1) Single dish
+
+&emsp;Each satellite carrier that retransmits the analog signals of local television broadcast stations in a local market shall retransmit such analog signals in such market by means of a single reception antenna and associated equipment.
+
+#### (2) Exception
+
+&emsp;If the carrier retransmits signals in the digital television service, the carrier shall retransmit such digital signals in such market by means of a single reception antenna and associated equipment, but such antenna and associated equipment may be separate from the single reception antenna and associated equipment used for analog television service signals.
+
+#### (3) Effective date
+
+&emsp;The requirements of paragraphs (1) and (2) of this subsection shall apply on and after 18 months after December 8, 2004.
+
+#### (4) Notice of disruptions
+
+&emsp;A carrier that is providing signals of a local television broadcast station in a local market under this section on December 8, 2004, shall, not later than 15 months after December 8, 2004, provide to the licensees for such stations and the carrier's subscribers in such local market a notice that displays prominently and conspicuously a clear statement of—
+
+&emsp;&emsp;(A) any reallocation of signals between different reception antennas and associated equipment that the carrier intends to make in order to comply with the requirements of this subsection;
+
+&emsp;&emsp;(B) the need, if any, for subscribers to obtain an additional reception antenna and associated equipment to receive such signals; and
+
+&emsp;&emsp;(C) any cessation of carriage or other material change in the carriage of signals as a consequence of the requirements of this paragraph.
+
+#### (h) Additional notices to subscribers, networks, and stations concerning signal carriage
+
+#### (1) Notices to and elections by subscribers concerning grandfathered signals
+
+&emsp;Any carrier that provides a distant signal of a network station to a subscriber pursuant <sup>2</sup> section 339(a)(2)(A) of this title shall—
+
+&emsp;&emsp;(A) within 60 days after the local signal of a network station of the same television network is available pursuant to section 338 of this title, or within 60 days after December 8, 2004, whichever is later, send a notice to the subscriber—
+
+&emsp;&emsp;&emsp;(i) offering to substitute the local network signal for the duplicating distant network signal; and
+
+&emsp;&emsp;&emsp;(ii) informing the subscriber that, if the subscriber fails to respond in 60 days, the subscriber will lose the distant network signal but will be permitted to subscribe to the local network signal; and
+
+&emsp;&emsp;(B) if the subscriber—
+
+&emsp;&emsp;&emsp;(i) elects to substitute such local network signal within such 60 days, switch such subscriber to such local network signal within 10 days after the end of such 60-day period; or
+
+&emsp;&emsp;&emsp;(ii) fails to respond within such 60 days, terminate the distant network signal within 10 days after the end of such 60-day period.
+
+#### (2) Notice to station licensees of commencement of local-into-local service
+
+#### (A) Notice required
+
+&emsp;&emsp;Within 180 days after December 8, 2004, the Commission shall revise the regulations under this section relating to notice to broadcast station licensees to comply with the requirements of this paragraph.
+
+#### (B) Contents of commencement notice
+
+&emsp;&emsp;The notice required by such regulations shall inform each television broadcast station licensee within any local market in which a satellite carrier proposes to commence carriage of signals of stations from that market, not later than 60 days prior to the commencement of such carriage—
+
+&emsp;&emsp;&emsp;(i) of the carrier's intention to launch local-into-local service under this section in a local market, the identity of that local market, and the location of the carrier's proposed local receive facility for that local market;
+
+&emsp;&emsp;&emsp;(ii) of the right of such licensee to elect carriage under this section or grant retransmission consent under section 325(b) of this title;
+
+&emsp;&emsp;&emsp;(iii) that such licensee has 30 days from the date of the receipt of such notice to make such election; and
+
+&emsp;&emsp;&emsp;(iv) that failure to make such election will result in the loss of the right to demand carriage under this section for the remainder of the 3-year cycle of carriage under section 325 of this title.
+
+#### (C) Transmission of notices
+
+&emsp;&emsp;Such regulations shall require that each satellite carrier shall transmit the noticesrequired by such regulation via certified mail to the address for such television station licensee listed in the consolidated database system maintained by the Commission.
+
+#### (i) Privacy rights of satellite subscribers
+
+#### (1) Notice
+
+&emsp;At the time of entering into an agreement to provide any satellite service or other service to a subscriber and at least once a year thereafter, a satellite carrier shall provide notice in the form of a separate, written statement to such subscriber which clearly and conspicuously informs the subscriber of—
+
+&emsp;&emsp;(A) the nature of personally identifiable information collected or to be collected with respect to the subscriber and the nature of the use of such information;
+
+&emsp;&emsp;(B) the nature, frequency, and purpose of any disclosure which may be made of such information, including an identification of the types of persons to whom the disclosure may be made;
+
+&emsp;&emsp;(C) the period during which such information will be maintained by the satellite carrier;
+
+&emsp;&emsp;(D) the times and place at which the subscriber may have access to such information in accordance with paragraph (5); and
+
+&emsp;&emsp;(E) the limitations provided by this section with respect to the collection and disclosure of information by a satellite carrier and the right of the subscriber under paragraphs (7) and (9) to enforce such limitations.
+
+> &emsp;In the case of subscribers who have entered into such an agreement before the effective date of this subsection, such notice shall be provided within 180 days of such date and at least once a year thereafter.
+
+#### (2) Definitions
+
+&emsp;For purposes of this subsection, other than paragraph (9)—
+
+&emsp;&emsp;(A) the term “personally identifiable information” does not include any record of aggregate data which does not identify particular persons;
+
+&emsp;&emsp;(B) the term “other service” includes any wire or radio communications service provided using any of the facilities of a satellite carrier that are used in the provision of satellite service; and
+
+&emsp;&emsp;(C) the term “satellite carrier” includes, in addition to persons within the definition of satellite carrier, any person who—
+
+&emsp;&emsp;&emsp;(i) is owned or controlled by, or under common ownership or control with, a satellite carrier; and
+
+&emsp;&emsp;&emsp;(ii) provides any wire or radio communications service.
+
+#### (3) Prohibitions
+
+#### (A) Consent to collection
+
+&emsp;&emsp;Except as provided in subparagraph (B), a satellite carrier shall not use any facilities used by the satellite carrier to collect personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concerned.
+
+#### (B) Exceptions
+
+&emsp;&emsp;A satellite carrier may use such facilities to collect such information in order to—
+
+&emsp;&emsp;&emsp;(i) obtain information necessary to render a satellite service or other service provided by the satellite carrier to the subscriber; or
+
+&emsp;&emsp;&emsp;(ii) detect unauthorized reception of satellite communications.
+
+#### (4) Disclosure
+
+#### (A) Consent to disclosure
+
+&emsp;&emsp;Except as provided in subparagraph (B), a satellite carrier shall not disclose personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concerned and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or satellite carrier.
+
+#### (B) Exceptions
+
+&emsp;&emsp;A satellite carrier may disclose such information if the disclosure is—
+
+&emsp;&emsp;&emsp;(i) necessary to render, or conduct a legitimate business activity related to, a satellite service or other service provided by the satellite carrier to the subscriber;
+
+&emsp;&emsp;&emsp;(ii) subject to paragraph (9), made pursuant to a court order authorizing such disclosure, if the subscriber is notified of such order by the person to whom the order is directed;
+
+&emsp;&emsp;&emsp;(iii) a disclosure of the names and addresses of subscribers to any satellite service or other service, if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the satellite carrier has provided the subscriber the opportunity to prohibit or limit such disclosure; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the disclosure does not reveal, directly or indirectly, the—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) extent of any viewing or other use by the subscriber of a satellite service or other service provided by the satellite carrier; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the nature of any transaction made by the subscriber over any facilities used by the satellite carrier; or
+
+&emsp;&emsp;&emsp;(iv) to a government entity as authorized under chapter 119, 121, or 206 of title 18, except that such disclosure shall not include records revealing satellite subscriber selection of video programming from a satellite carrier.
+
+#### (5) Access by subscriber
+
+&emsp;A satellite subscriber shall be provided access to all personally identifiable information regarding that subscriber which is collected and maintained by a satellite carrier. Such information shall be made available to the subscriber at reasonable times and at a convenient place designated by such satellite carrier. A satellite subscriber shall be provided reasonable opportunity to correct any error in such information.
+
+#### (6) Destruction of information
+
+&emsp;A satellite carrier shall destroy personally identifiable information if the information isno longer necessary for the purpose for which it was collected and there are no pending requests or orders for access to such information under paragraph (5) or pursuant to a court order.
+
+#### (7) Penalties
+
+&emsp;Any person aggrieved by any act of a satellite carrier in violation of this section may bring a civil action in a United States district court. The court may award—
+
+&emsp;&emsp;(A) actual damages but not less than liquidated damages computed at the rate of $100 a day for each day of violation or $1,000, whichever is higher;
+
+&emsp;&emsp;(B) punitive damages; and
+
+&emsp;&emsp;(C) reasonable attorneys’ fees and other litigation costs reasonably incurred.
+
+> &emsp;The remedy provided by this subsection shall be in addition to any other lawful remedy available to a satellite subscriber.
+
+#### (8) Rule of construction
+
+&emsp;Nothing in this subchapter shall be construed to prohibit any State from enacting or enforcing laws consistent with this section for the protection of subscriber privacy.
+
+#### (9) Court orders
+
+&emsp;Except as provided in paragraph (4)(B)(iv), a governmental entity may obtain personally identifiable information concerning a satellite subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
+
+&emsp;&emsp;(A) such entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case; and
+
+&emsp;&emsp;(B) the subject of the information is afforded the opportunity to appear and contest such entity's claim.
+
+#### (j) Regulations by Commission
 
 Within 1 year after November 29, 1999, the Commission shall issue regulations implementing this section following a rulemaking proceeding. The regulations prescribed under this section shall include requirements on satellite carriers that are comparable to the requirements on cable operators under sections 534(b)(3) and (4) and 535(g)(1) and (2) of this title.
 
-#### (h) Definitions
+#### (k) Definitions
 
 As used in this section:
 
@@ -70,29 +246,59 @@ As used in this section:
 
 #### (2) Local receive facility
 
-&emsp;The term “local receive facility” means the reception point in each local market which asatellite carrier designates for delivery of the signal of the station for purposes of retransmission.
+&emsp;The term “local receive facility” means the reception point in each local market which a satellite carrier designates for delivery of the signal of the station for purposes of retransmission.
 
 #### (3) Local market
 
 &emsp;The term “local market” has the meaning given that term under section 122(j) of title 17.
 
-#### (4) Satellite carrier
+#### (4) Low power television station
+
+&emsp;The term “low power television station” means a low power television station as defined under section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term “low power television station” includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
+
+#### (5) Satellite carrier
 
 &emsp;The term “satellite carrier” has the meaning given such term under section 119(d) of title 17.
 
-#### (5) Secondary transmission
+#### (6) Secondary transmission
 
 &emsp;The term “secondary transmission” has the meaning given such term in section 119(d) of title 17.
 
-#### (6) Subscriber
+#### (7) Subscriber
 
 &emsp;The term “subscriber” has the meaning given that term under section 122(j) of title 17.
 
-#### (7) Television broadcast station
+#### (8) Television broadcast station
 
 &emsp;The term “television broadcast station” has the meaning given such term in section 325(b)(7) of this title.
 
-(June 19, 1934, ch. 652, title III, §338, as added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–531.)
+(June 19, 1934, ch. 652, title III, §338, as added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–531; amended Pub. L. 108–447, div. J, title IX \[title II, §§203, 205, 206(a), 210\], Dec. 8, 2004, 118 Stat. 3414, 3424, 3425, 3429.)
+
+#### References in Text
+
+For the effective date of this subsection, referred to in subsec. (i)(1), as 60 days after Dec. 8, 2004, see section 206(b) of Pub. L. 108–447, set out as an Effective Date of 2004 Amendment note below.
+
+#### Amendments
+
+2004—Subsec. (a)(1) to (3). Pub. L. 108–447, §203(b)(1), added pars. (1) and (2) and the par. (3) relating to low power station carriage and struck out former pars. (1) and (2) which required each satellite carrier providing secondary transmissions within the local market of a television broadcast station of a primary transmission made by that station to carry upon request the signals of all television broadcast stations within that local market and provided for remedies for failure to carry.
+
+Subsec. (a)(4). Pub. L. 108–447, §210, added par. (4).
+
+Subsec. (c)(1). Pub. L. 108–447, §203(b)(2), substituted “subsection (a)(1)” for “subsection (a)”.
+
+Subsecs. (g), (h). Pub. L. 108–447, §§203(a)(2), 205, added subsecs. (g) and (h). Former subsecs. (g) and (h) redesignated (j) and (k), respectively.
+
+Subsec. (i). Pub. L. 108–447, §206(a), added subsec. (i).
+
+Subsec. (j). Pub. L. 108–447, §203(a)(1), redesignated subsec. (g) as (j).
+
+Subsec. (k). Pub. L. 108–447, §203(a)(1), redesignated subsec. (h) as (k).
+
+Subsec. (k)(4) to (8). Pub. L. 108–447, §203(b)(3), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–447, div. J, title IX \[title II, §206(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: “Section 338(i) ofthe Communications Act of 1934 (47 U.S.C. 338(i)) as amended by subsection (a) of this section shall be effective 60 days after the date of enactment of this Act \[Dec. 8, 2004\].”
 
 #### Rural Local Television Signals
 
@@ -134,7 +340,7 @@ Report.—Not later than January 1, 2001, the Commission shall report to the Agr
 
 &emsp;“(3) recommendations for specific measures to facilitate the provision of local signals to subscribers in unserved and underserved markets by direct-to-home satellite television providers and by other distributors of multichannel video programming service.”
 
-#### Section Referred to in Other Sections
+<i><sup>1</sup></i><i> So in original. Two pars. (3) have been enacted.</i>
 
-This section is referred to in section 325 of this title; title 17 section 501.
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “to”.</i>
 

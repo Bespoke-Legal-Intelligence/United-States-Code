@@ -34,7 +34,7 @@ Collection by Secretary.—The Secretary may collect a payment under this sectio
 
 (d)
 
-Collection by Other Governmental Heads.—The head of a department, agency, orinstrumentality of the Government may collect a payment for an activity involved in producing a launch vehicle or reentry vehicle, or the payload of either, for launch or reentry if the activity was agreed to by the owner or manufacturer of the launch vehicle, reentry vehicle, or payload.
+Collection by Other Governmental Heads.—The head of a department, agency, or instrumentality of the Government may collect a payment for an activity involved in producing a launch vehicle or reentry vehicle, or the payload of either, for launch or reentry if the activity was agreed to by the owner or manufacturer of the launch vehicle, reentry vehicle, or payload.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1335; Pub. L. 105–303, title I, §102(a)(11), Oct. 28, 1998, 112 Stat. 2849.)
 

@@ -18,7 +18,7 @@ Authority.—From the fund described in paragraph (1), the Administrator may obl
 
 &emsp;&emsp;&emsp;(i) Fees of appraisers, auctioneers, and realty brokers, in accordance with the scale customarily paid in similar commercial transactions.
 
-&emsp;&emsp;&emsp;(ii) Costs of environmental and historic preservation services.
+&emsp;&emsp;&emsp;(ii) Costs of environmental and historic preservation services, highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation.
 
 &emsp;&emsp;&emsp;(iii) Advertising and surveying.
 
@@ -28,7 +28,7 @@ Limitations.—
 
 &emsp;&emsp;&emsp;(i)
 
-Percentage limitation.—In each fiscal year, no more than 12 percent of the proceeds of all dispositions of surplus realand related personal property may be paid to meet direct expenses incurred in connection with the dispositions.
+Percentage limitation.—In each fiscal year, no more than 12 percent of the proceeds of all dispositions of surplus real and related personal property may be paid to meet direct expenses incurred in connection with the dispositions.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -110,7 +110,7 @@ Availability of amount deposited.—To the extent provided in an appropriation l
 
 Report.—As part of the annual request for authorizations of appropriations to the Committees on Armed Services of the Senate and the House of Representatives, the Secretary of Defense shall include an accounting of each transfer and disposal made in accordance with this subsection during the fiscal year preceding the fiscal year in which the request is made. The accounting shall include a detailed explanation of each transfer and disposal and of the use of the proceeds received from it by the Department of Defense.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1105.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1105; Pub. L. 108–447, div. H, title IV, §408, Dec. 8, 2004, 118 Stat. 3258.)
 
 Historical and Revision Notes
 
@@ -136,7 +136,7 @@ June 30, 1949, ch. 288, title II, §204(h), as added Pub. L. 101–510, div. B, 
 
 In subsection (b)(4), the words “section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g))” are omitted because 50 App.:1622(g) has been repealed.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 111, 547, 705 of this title; title 10 section 2831; title 16 section 460<i>l</i>–5.
+2004—Subsec. (a)(2)(A)(ii). Pub. L. 108–447, which directed the amendment of subsec. (a)(2)(ii) of this section by inserting “, highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation” before period, was executed to subsec. (a)(2)(A)(ii), to reflect the probable intent of Congress.
 

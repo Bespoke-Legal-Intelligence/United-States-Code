@@ -26,7 +26,7 @@ The words “special attorneys appointed under section 543” are substituted fo
 
 #### Intelligence and National Security Aspects of Espionage Prosecutions
 
-Pub. L. 108–177, title III, §341(b), Dec. 13, 2003, 117 Stat. 2616, provided that: “The Attorney General, acting through the Office of Intelligence Policy and Review of the Department of Justice, and in consultation with the Director of Central Intelligence, acting through the Office of the National Counterintelligence Executive, shall establish policies and procedures to assist the Attorney General in the consideration of intelligence and national security-related equities in the development of charging documents and related pleadings in espionage prosecutions.”
+Pub. L. 108–177, title III, §341(b), Dec. 13, 2003, 117 Stat. 2616, as amended by Pub. L. 108–458, title I, §1071(g)(3)(A)(v), Dec. 17, 2004, 118 Stat. 3692, provided that: “The Attorney General, acting through the Office of Intelligence Policy and Review of the Department of Justice, and in consultation with the Director of National Intelligence, acting through the Office of the National Counterintelligence Executive, shall establish policies and procedures to assist the Attorney General in the consideration of intelligence and national security-related equities in the development of charging documents and related pleadings in espionage prosecutions.”
 
 #### Use of Annuity Brokers in Structured Settlements
 
@@ -211,8 +211,4 @@ Sec. 11. <i>Effective Date</i>. This order shall become effective 90 days after 
 Sec. 12. <i>Revocation</i>. Executive Order No. 12778 is hereby revoked.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 943; title 12 section 4243; title 19 section 1920; title 31 section 3718; title 38 sections 3730, 5316; title 42 section 8412.
 

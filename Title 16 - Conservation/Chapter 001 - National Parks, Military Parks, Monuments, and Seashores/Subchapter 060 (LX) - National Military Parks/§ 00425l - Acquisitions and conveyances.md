@@ -32,7 +32,3 @@ Within the area bounded by the Orange Turnpike, the Orange Plank Road, and McLaw
 
 1999—Subsec. (a). Pub. L. 106–150 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the Secretary” for “The Secretary”, and added par. (2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 425k, 425m, 425<i>o</i> of this title.
-

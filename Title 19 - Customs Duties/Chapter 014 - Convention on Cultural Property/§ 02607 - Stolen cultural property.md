@@ -8,7 +8,3 @@ No article of cultural property documented as appertaining to the inventory of a
 
 For the effective date of this chapter, referred to in text, see section 315 of Pub. L. 97–446, set out as an Effective Date note under section 2601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2608, 2609, 2610 of this title.
-

@@ -22,7 +22,3 @@ The word “employed” is substituted for “appointed to, or retained in” be
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3622.
-

@@ -4,7 +4,3 @@ In administering sections 434, 448, and 544 of this title, the Secretary may, to
 
 (Aug. 13, 1953, ch. 428, §9, 67 Stat. 568.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 451a of this title.
-

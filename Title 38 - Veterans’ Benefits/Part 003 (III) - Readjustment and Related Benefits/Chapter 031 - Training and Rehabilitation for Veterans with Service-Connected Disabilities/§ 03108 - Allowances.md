@@ -139,7 +139,3 @@ Section effective Oct. 1, 1980, and during period beginning on Oct. 1, 1980, and
 
 Section 101(c) of Pub. L. 96–466 provided that: “The provisions of section 1508(g)(1) \[now 3108(g)(1)\] of title 38, United States Code, as added by subsection (a) shall not apply to an apportionment made under section 3107(c) \[now 5307(c)\] of such title before the date of the enactment of this Act \[Oct. 17, 1980\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3104, 3106, 3112, 3680 of this title.
-

@@ -16,7 +16,3 @@ Contents of Application.—An application under subsection (a) of this section s
 
 (Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1869.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3123 of this title.
-

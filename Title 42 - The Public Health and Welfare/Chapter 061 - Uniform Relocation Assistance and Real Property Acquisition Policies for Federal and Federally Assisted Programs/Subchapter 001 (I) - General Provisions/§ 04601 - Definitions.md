@@ -6,7 +6,7 @@ As used in this chapter—
 
 (2) The term “State” means any of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, the Trust Territory of the Pacific Islands, and any political subdivision thereof.
 
-(3) The term “State agency” means any department, agency, or instrumentality of a State or of a political subdivision of a State, any department, agency, or instrumentality of 2 ormore States or of 2 or more political subdivisions of a State or States, and any person who has the authority to acquire property by eminent domain under State law.
+(3) The term “State agency” means any department, agency, or instrumentality of a State or of a political subdivision of a State, any department, agency, or instrumentality of 2 or more States or of 2 or more political subdivisions of a State or States, and any person who has the authority to acquire property by eminent domain under State law.
 
 (4) The term “Federal financial assistance” means a grant, loan, or contribution provided by the United States, except any Federal guarantee or insurance, any interest reduction payment to an individual in connection with the purchase and occupancy of a residence by that individual, and any annual payment or capital loan to the District of Columbia.
 
@@ -58,7 +58,7 @@ As used in this chapter—
 
 #### References in Text
 
-This chapter, referred to in introductory provision and par. (6)(B)(i), was in the original “this Act”, meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known asthe Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in introductory provision and par. (6)(B)(i), was in the original “this Act”, meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -86,7 +86,7 @@ Section 221 of Pub. L. 91–646 provided that:
 
 “(b) Until July 1, 1972, sections 210 and 305 \[sections 4630 and 4655 of this title\] shall be applicable to a State only to the extent that such State is able under its laws to comply with such sections. After July 1, 1972, such sections \[sections 4630 and 4655 of this title\] shall be completely applicable to all States.
 
-“(c) The repeals made by paragraphs (4) \[repealing section 1606(b) of former Title 49, Transportation\], (5) \[repealing section 1465 of this title\], (6) \[repealing section 1415(7)(b)(iii) and (8) second sentence of this title\], (8) \[repealing section 3074 of this title\], (9) \[repealing section 3307(b), (c) of this title\], (10) \[repealing chapter 5 (sections 501–511) of Title 23, Highways\], (11) \[repealing provisions set out as notes under sections 501 and 510 of Title 23\], and (12) of section 220(a) of this title and section 306 of title III \[repealing sections 3071 to 3073 of this title, section 141 of Title 23, and section 596 of Title 33, Navigation and Navigable Waters\] shall not apply to any State so long as sections 210 and 305 \[sections 4630 and 4655 of this title\] are not applicable in such State.”
+“(c) The repeals made by paragraphs (4) \[repealing section 1606(b) of former Title 49, Transportation\], (5) \[repealing section 1465 of this title\], (6) \[repealing section 1415(7)(b)(iii) and (8) second sentence of this title\], (8) \[repealing section 3074 of this title\], (9) \[repealing section 3307(b), (c) of this title\], (10) \[repealing chapter 5 (sections 501–511) of Title 23, Highways\], (11) \[repealing provisions set out as notes under sections 501 and 510 of Title 23\], and (12) of section 220(a) of this title and section 306 of title III \[repealing sections 3071 to 3073 of this title, section 141 of Title 23, and section 596 of Title33, Navigation and Navigable Waters\] shall not apply to any State so long as sections 210 and 305 \[sections 4630 and 4655 of this title\] are not applicable in such State.”
 
 #### Short Title of 1987 Amendment
 
@@ -126,9 +126,5 @@ Definition of ‘Qualified Buyout Program’.—For purposes of this section, th
 
 &emsp;&emsp;“(B) other Federal financial assistance programs.”
 
-\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto,to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4603, 4625, 4655 of this title; title 16 sections 429b–2, 460e–1, 460<i>l</i>–8, 460bb–2, 698b, 698h.
+\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

@@ -22,9 +22,7 @@ Oct. 26, 1970, Pub. L. 91–508, §202, 84 Stat. 1118.
 
 2001—Pub. L. 107–56 inserted “, or in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism” before period at end.
 
-#### Effective and Termination Dates of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under this section.
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of Title 12, Banks and Banking.
 
@@ -32,9 +30,51 @@ Amendment by Pub. L. 107–56 applicable with respect to reports filed or record
 
 This subchapter and chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, are each popularly known as the “Bank Secrecy Act”. See Short Title note set out under section 1951 of Title 12.
 
+#### Improvement of International Standards and Cooperation To Fight Terrorist Financing
+
+Pub. L. 108–458, title VII, §§7701, 7702, 7704, Dec. 17, 2004, 118 Stat. 3858–3860, provided that:
+
+#### “SEC. 7701. IMPROVING INTERNATIONAL STANDARDS AND COOPERATION TO FIGHT TERRORIST FINANCING.
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) The global war on terrorism and cutting off terrorist financing is a policy priority for the United States and its partners, working bilaterally and multilaterally through the United Nations, the United Nations Security Council and its committees, such as the 1267 and 1373 Committees, the Financial Action Task Force (FATF), and various international financial institutions, including the International Monetary Fund (IMF), the International Bank for Reconstruction and Development (IBRD), and the regional multilateral development banks, and other multilateral fora.
+
+&emsp;“(2) The international financial community has become engaged in the global fight against terrorist financing. The Financial Action Task Force has focused on the new threat posed by terrorist financing to the international financial system, resulting in the establishment of the FATF's Eight Special Recommendations on Terrorist Financing as the international standard on combating terrorist financing. The Group of Seven and the Group of Twenty Finance Ministers are developing action plans to curb the financing of terror. In addition, other economic and regional fora, such as the Asia-Pacific Economic Cooperation (APEC) Forum, and the Western Hemisphere Financial Ministers, have been used to marshal political will and actions in support of combating the financing of terrorism (CFT) standards.
+
+&emsp;“(3) FATF's Forty Recommendations on Money Laundering and the Eight Special Recommendations on Terrorist Financing are the recognized global standards for fighting money laundering and terroristfinancing. The FATF has engaged in an assessment process for jurisdictions based on their compliance with these standards.
+
+&emsp;“(4) In March 2004, the IMF and IBRD Boards agreed to make permanent a pilot program of collaboration with the FATF to assess global compliance with the FATF Forty Recommendations on Money Laundering and the Eight Special Recommendations on Terrorist Financing. As a result, anti-money laundering (AML) and combating the financing of terrorism (CFT) assessments are now a regular part of their Financial Sector Assessment Program (FSAP) and Offshore Financial Center assessments, which provide for a comprehensive analysis of the strength of a jurisdiction's financial system. These reviews assess potential systemic vulnerabilities, consider sectoral development needs and priorities, and review the state of implementation of and compliance with key financial codes and regulatory standards, among them the AML and CFT standards.
+
+&emsp;“(5) To date, 70 FSAPs have been conducted, with over 24 of those incorporating AML and CFT assessments. The international financial institutions (IFIs), the FATF, and the FATF-style regional bodies together are expected to assess AML and CFT regimes in up to 40 countries or jurisdictions per year. This will help countries and jurisdictions identify deficiencies in their AML and CFT regimes and help focus technical assistance efforts.
+
+&emsp;“(6) Technical assistance programs from the United States and other nations, coordinated with the Department of State and other departments and agencies, are playing an important role in helping countries and jurisdictions address shortcomings in their AML and CFT regimes and bringing their regimes into conformity with international standards. Training is coordinated within the United States Government, which leverages multilateral organizations and bodies and international financial institutions to internationalize the conveyance of technical assistance.
+
+&emsp;“(7) In fulfilling its duties in advancing incorporation of AML and CFT standards into the IFIs as part of the IFIs’ work on protecting the integrity of the international monetary system, the Department of the Treasury, under the guidance of the Secretary of the Treasury, has effectively brought together all of the key United States Government agencies. In particular, United States Government agencies continue to work together to foster broad support for this important undertaking in various multilateral fora, and United States Government agencies recognize the need for close coordination and communication within our own Government.
+
+“(b)
+
+Sense of Congress Regarding Success in Multilateral Organizations.—It is the sense of Congress that the Secretary of the Treasury should continue to promote the dissemination of international AML and CFT standards, and to press for full implementation of the FATF 40 + 8 Recommendations by all countries in order to curb financial risks and hinder terrorist financing around the globe. The efforts of the Secretary in this regard should include, where necessary or appropriate, multilateral action against countries whose counter-money laundering regimes and efforts against the financing of terrorism fall below recognized international standards.
+
+#### “SEC. 7702. DEFINITIONS.
+
+“In this subtitle \[subtitle G (§§7701–7704) of title VII of Pub. L. 108–458, amending sections 262<i>o</i>–2 and 262r–4 of Title 22, Foreign Relations and Intercourse\]—
+
+&emsp;“(1) the term ‘international financial institutions’ has the same meaning as in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\];
+
+&emsp;“(2) the term ‘Financial Action Task Force’ means the international policy-making and standard-setting body dedicated to combating money laundering and terrorist financing that was created by the Group of Seven in 1989; and
+
+&emsp;“(3) the terms ‘Interagency Paper on Sound Practices to Strengthen the Resilience of the U.S. Financial System’ and ‘Interagency Paper’ mean the interagency paper prepared by the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Securities and Exchange Commission that was announced in the Federal Register on April 8, 2003.
+
+#### “SEC. 7704. COORDINATION OF UNITED STATES GOVERNMENT EFFORTS.
+
+“The Secretary of the Treasury, or the designee of the Secretary, as the lead United States Government official to the Financial Action Task Force (FATF), shall continue to convene the interagency United States Government FATF working group. This group, which includes representatives from all relevant Federal agencies, shall meet at least once a year to advise the Secretary on policies to be pursued by the United States regarding the development of common international AML and CFT standards, to assess the adequacy and implementation of such standards, and to recommend to the Secretary improved or new standards, as necessary.”
+
 #### International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001; Findings and Purposes
 
-Pub. L. 107–56, title III, §302, Oct. 26, 2001, 115 Stat. 296, provided that:
+Pub. L. 107–56, title III, §302, Oct. 26, 2001, 115 Stat. 296, as amended by Pub. L. 108–458, title VI, §6202(c), Dec. 17, 2004, 118 Stat. 3745, provided that:
 
 “(a)
 
@@ -46,7 +86,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(3) money launderers subvert legitimate financial mechanisms and banking relationships by using them as protective covering for the movement of criminal proceeds and the financing of crime and terrorism, and, by so doing, can threaten the safety of United States citizens and undermine the integrity of United States financial institutions and of the global financial and trading systems upon which prosperity and growth depend;
 
-&emsp;“(4) certain jurisdictions outside of the United States that offer ‘offshore’ banking and related facilities designed to provide anonymity, coupled with weak financial supervisory and enforcement regimes, provide essential tools to disguise ownership and movement of criminal funds, derived from, or used to commit, offenses ranging from narcotics trafficking, terrorism, arms smuggling, and trafficking in human beings, to financial frauds that prey on law-abiding citizens;
+&emsp;“(4) certain jurisdictions outside of the United States that offer ‘offshore’ banking and related facilities designed to provide anonymity, coupled with weak financial supervisory and enforcement regimes, provide essential tools to disguise ownership and movement of criminal funds derived from, or used to commit, offenses ranging from narcotics trafficking, terrorism, arms smuggling, and trafficking in human beings, to financial frauds that prey on law-abiding citizens;
 
 &emsp;“(5) transactions involving such offshore jurisdictions make it difficult for law enforcement officials and regulators to follow the trail of money earned by criminals, organized international criminal enterprises, and global terrorist organizations;
 
@@ -54,7 +94,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(7) private banking services can be susceptible to manipulation by money launderers, for example corrupt foreign government officials, particularly if those services include the creation of offshore accounts and facilities for large personal funds transfers to channel funds into accounts around the globe;
 
-&emsp;“(8) United States anti-money laundering efforts are impeded by outmoded and inadequate statutory provisions that make investigations, prosecutions, and forfeitures more difficult, particularly in cases in which money laundering involves foreign persons, foreign banks, or foreign countries;
+&emsp;“(8) United States anti-money laundering efforts are impeded by outmoded and inadequate statutoryprovisions that make investigations, prosecutions, and forfeitures more difficult, particularly in cases in which money laundering involves foreign persons, foreign banks, or foreign countries;
 
 &emsp;“(9) the ability to mount effective counter-measures to international money launderers requires national, as well as bilateral and multilateral action, using tools specially designed for that effort; and
 
@@ -80,13 +120,13 @@ Purposes.—The purposes of this title \[see Short Title of 2001 Amendment note 
 
 &emsp;“(6) to ensure that the employment of such measures by the Secretary permits appropriate opportunity for comment by affected financial institutions;
 
-&emsp;“(7) to provide guidance to domestic financial institutions on particular foreign jurisdictions, financial institutions operating outside of the United States,and classes of international transactions that are of primary money laundering concern to the United States Government;
+&emsp;“(7) to provide guidance to domestic financial institutions on particular foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts that are of primary money laundering concern to the United States Government;
 
 &emsp;“(8) to ensure that the forfeiture of any assets in connection with the anti-terrorist efforts of the United States permits for adequate challenge consistent with providing due process rights;
 
 &emsp;“(9) to clarify the terms of the safe harbor from civil liability for filing suspicious activity reports;
 
-&emsp;“(10) to strengthen the authority of the Secretary to issue and administer geographic targeting orders, and to clarify that violations of such orders or any other requirement imposed under the authority contained in chapter 2 of title I of Public Law 91–508 \[12 U.S.C. 1951 et seq.\] and subchapters II and III of chapter 53 of title 31, United States Code, may result in criminal and civil penalties;
+&emsp;“(10) to strengthen the authority of the Secretary to issue and administer geographic targeting orders, and to clarify that violations of such orders or any other requirement imposed under the authority contained in chapter 2 of title I of Public Law 91–508 \[12 U.S.C. 1951 et seq.\] and subchapter II of chapter 53 of title 31, United States Code, may result in criminal and civil penalties;
 
 &emsp;“(11) to ensure that all appropriate elements of the financial services industry are subject to appropriate requirements to report potential money laundering transactions to proper authorities, and that jurisdictional disputes do not hinder examination of compliance by financial institutions with relevant reporting requirements;
 
@@ -96,19 +136,11 @@ Purposes.—The purposes of this title \[see Short Title of 2001 Amendment note 
 
 #### Four-Year Congressional Review; Expedited Consideration
 
-Pub. L. 107–56, title III, §303, Oct. 26, 2001, 115 Stat. 298, provided that:
-
-“(a)
-
-In General.—Effective on and after the first day of fiscal year 2005, the provisions of this title \[see Short Title of 2001 Amendment note set out under section 5301 of this title\] and the amendments made by this title shall terminate if the Congress enacts a joint resolution, the text after the resolving clause of which is as follows: ‘That provisions of the International Money Laundering Abatement and Anti-Terrorist Financing Act of 2001, and the amendments made thereby, shall no longer have the force of law.’
-
-“(b)
-
-Expedited Consideration.—Any joint resolution submitted pursuant to this section should be considered by the Congress expeditiously. In particular, it shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Control Act of 1976 \[Pub. L. 94–329, 90 Stat. 765\].”
+Pub. L. 107–56, title III, §303, Oct. 26, 2001, 115 Stat. 298, as amended by Pub. L. 108–458, title VI, §6202(d), Dec. 17, 2004, 118 Stat. 3745, which provided that, effective on and after the first day of fiscal year 2005, the provisions of title III of Pub. L. 107–56 and the amendments made by such title would terminate if the Congress enacted a joint resolution, the text after the resolving clause of which was as follows: “That provisions of the International Money Laundering Abatement and Financial Antiterrorism Act of 2001, and the amendments made thereby, shall no longer have the force of law.”, was repealed by Pub. L. 108–458, title VI, §§6204, 6205, Dec. 17, 2004, 118 Stat. 3747, effective as if included in Pub. L. 107–56, as of the date of enactment of such Act.
 
 #### Cooperative Efforts To Deter Money Laundering
 
-Pub. L. 107–56, title III, §314, Oct. 26, 2001, 115 Stat. 307, provided that:
+Pub. L. 107–56, title III, §314, Oct. 26, 2001, 115 Stat. 307, as amended by Pub. L. 108–458, title VI, §6202(f), Dec. 17, 2004, 118 Stat. 3745, provided that:
 
 “(a)
 
@@ -116,13 +148,13 @@ Cooperation Among Financial Institutions, Regulatory Authorities, and Law Enforc
 
 &emsp;“(1)
 
-Regulations.—The Secretary \[of the Treasury\] shall, within 120 days after the date of enactment of this Act \[Oct. 26, 2001\], adopt regulations to encourage further cooperation among financial institutions, their regulatory authorities, and law enforcement authorities, with the specific purpose of encouraging regulatory authorities and law enforcement authorities to share with financial institutions information regarding individuals, entities, and organizations engaged in or reasonably suspected based on credible evidence of engaging in terrorist acts or money laundering activities.
+Regulations.—The Secretary \[of the Treasury\] shall, within 120 days after the date of enactment of this Act \[Oct. 26, 2001\], adopt regulations to encourage further cooperation among financial institutions, their regulatory authorities, and law enforcement authorities, with the specific purpose of encouraging regulatory authorities and law enforcement authorities to share with financial institutions information regarding individuals, entities, and organizations engaged in, or reasonably suspected based on credible evidence of engaging in, terrorist acts or money laundering activities.
 
 &emsp;“(2)
 
 Cooperation and information sharing procedures.—The regulations adopted under paragraph (1) may include or create procedures for cooperation and information sharing focusing on—
 
-&emsp;&emsp;“(A) matters specifically related to the finances of terrorist groups, the means by which terrorist groups transfer funds around the world and within the United States, including through the use of charitable organizations, nonprofit organizations, and nongovernmental organizations, and the extent to which financial institutions in the United States are unwittingly involved in such finances and the extent to which such institutions are at risk as a result;
+&emsp;&emsp;“(A) matters specifically related to the finances of terrorist groups, the means by which terrorist groups transfer funds around the world and within the United States, including through the use of charitable organizations, nonprofit organizations, and nongovernmental organizations, the extent to which financial institutions in the United States are unwittingly involved in such finances, and the extent to which such institutions are at risk as a result;
 
 &emsp;&emsp;“(B) the relationship, particularly the financial relationship, between international narcotics traffickers and foreign terrorist organizations, the extent to which their memberships overlap and engage in joint activities, and the extent to which they cooperate with each other in raising and transferring funds for their respective purposes; and
 
@@ -132,9 +164,9 @@ Cooperation and information sharing procedures.—The regulations adopted under 
 
 Contents.—The regulations adopted pursuant to paragraph (1) may—
 
-&emsp;&emsp;“(A) require that each financial institution designate 1 or more persons to receive information concerning, and to monitor accounts of individuals, entities, and organizations identified, pursuant to paragraph (1); and
+&emsp;&emsp;“(A) require that each financial institution designate 1 or more persons to receive information concerning, and monitor accounts of, individuals, entities, and organizations identified pursuant to paragraph (1); and
 
-&emsp;&emsp;“(B) further establish procedures for the protection of the shared information, consistent with the capacity, size, and nature of the institution to which the particular procedures apply.
+&emsp;&emsp;“(B) further establish procedures for the protection of the shared information, consistent with the capacity, size, and nature of the financial institution to which the particular procedures apply.
 
 &emsp;“(4)
 
@@ -190,11 +222,11 @@ Pub. L. 107–56, title III, §329, Oct. 26, 2001, 115 Stat. 319, provided that:
 
 #### Report on Investment Companies
 
-Pub. L. 107–56, title III, §356(c), Oct. 26, 2001, 115 Stat. 324, provided that:
+Pub. L. 107–56, title III, §356(c), Oct. 26, 2001, 115 Stat. 324, as amended by Pub. L. 108–458, title VI, §6202(j), Dec. 17, 2004, 118 Stat. 3746, provided that:
 
 “(1)
 
-In general.—Not later than 1 year after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], the Board of Governors of the Federal Reserve System, and the Securities and Exchange Commission shall jointly submit a report to the Congress on recommendations for effective regulations to apply the requirements of subchapter II of chapter 53 of title 31, United States Code, to investment companies pursuant to section 5312(a)(2)(I) of title 31, United States Code.
+In general.—Not later than 1 year after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], the Board of Governors of the Federal Reserve System, and the Securities and Exchange Commission shall jointly submit a report to the Congress on recommendations for effective regulations to apply the requirements of subchapter II of chapter 53 of title 31, United States Code, to investment companiespursuant to section 5312(a)(2)(I) of title 31, United States Code.
 
 “(2)
 
@@ -210,7 +242,7 @@ Additional recommendations.—The report required by paragraph (1) may make diff
 
 “(4)
 
-Beneficial ownership of personal holding companies.—The report described in paragraph (1) shall also include recommendations as to whether the Secretary should promulgate regulations to treat any corporation or business or other grantor trust whose assets are predominantly securities, bank certificates of deposit, or other securities or investment instruments (other than such as relate to operating subsidiaries of such corporation or trust) and that has 5 or fewer common shareholders or holders of beneficial or other equity interest, as a financial institution within the meaning of that phrase in section 5312(a)(2)(I) and whether to require such corporations or trusts to disclose their beneficial owners when opening accounts or initiating funds transfers at any domestic financial institution.”
+Beneficial ownership of personal holding companies.—The report described in paragraph (1) shall also include recommendations as to whether the Secretary should promulgate regulations to treat any corporation, business trust, or other grantor trust whose assets are predominantly securities, bank certificates of deposit, or other securities or investment instruments (other than such as relate to operating subsidiaries of such corporation or trust) and that has 5 or fewer common shareholders or holders of beneficial or other equity interest, as a financial institution within the meaning of that phrase in section 5312(a)(2)(I) and whether to require such corporations or trusts to disclose their beneficial owners when opening accounts or initiating funds transfers at any domestic financial institution.”
 
 #### Report on Need for Additional Legislation Relating to Informal Money Transfer Systems
 
@@ -402,7 +434,7 @@ Pub. L. 101–647, title I, §101, Nov. 29, 1990, 104 Stat. 4789, provided that:
 
 &emsp;“(6) a summary of criminal indictments filed in the previous fiscal year which resulted, in large part, from investigations initiated by analysis of the reports referred to in paragraphs (1) and (2); and
 
-&emsp;“(7) a summary of criminal indictments filed in the previous fiscal year which resulted, in large part, from investigations initiated by information regarding suspicious financial transactions provided voluntarily by financial institutions.”
+&emsp;“(7) a summary of criminal indictments filed in the previous fiscal year which resulted, in large part,from investigations initiated by information regarding suspicious financial transactions provided voluntarily by financial institutions.”
 
 #### International Currency Transaction Reporting
 

@@ -56,7 +56,3 @@ Par. (6). Pub. L. 99–502, §9(b)(2)(D), (E), redesignated par. (7) as (6), sub
 
 Pars. (7) to (12). Pub. L. 99–502, §9(b)(2)(D), (d), redesignated pars. (7) and (8) as (6) and (7), respectively, and added pars. (8) to (12).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 638 of this title.
-

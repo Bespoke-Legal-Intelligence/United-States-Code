@@ -130,7 +130,3 @@ Responsibility of National Congress of American Indians.—The National Congress
 
 Use of Name.—Use of the name of the Smithsonian Institution or the National Museum of the American Indian in any material regarding the memorial produced by the National Congress of American Indians, other than in a manner simply describing the location of the memorial, shall be subject to consultation with, and the approval of, the Board of Regents of the Smithsonian Institution.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80q–6, 80q–15 of this title.
-

@@ -12,7 +12,7 @@ In order to coordinate the policies and operations of the representatives of the
 
 (3) The Council shall coordinate, by consultation or otherwise, so far as is practicable, the policies and operations of the representatives of the United States on the Fund and the Bank, the Export-Import Bank of the United States and all other agencies of the Government to the extent that they make or participate in the making of foreign loans or engage in foreign financial, exchange or monetary transactions.
 
-(4) Whenever, under the Articles of Agreement of the Fund or the Articles of Agreement of the Bank, the approval, consent or agreement of the United States is required before an act may be done by the respective institutions, the decision as to whether such approval, consent, or agreement, shall be given or refused shall (to the extent such decision is not prohibited by section 286c of this title) be made by the Council, under the general direction of the President. No governor, executive director, or alternate representing the United States shall vote in favor of any waiver of condition under article V, section 4, or in favor of any declaration of the United States dollar as a scarce currency under article VII, section 3, of the Articles of Agreement of the Fund, without prior approval of the Council.
+(4) Whenever, under the Articles of Agreement of the Fund or the Articles of Agreement of the Bank, the approval, consent or agreement of the United States is required before an act may be done by the respective institutions, the decision as to whether such approval, consent, or agreement, shall be given or refused shall (to the extent such decision is not prohibited by section 286c of this title) be made by the Council, underthe general direction of the President. No governor, executive director, or alternate representing the United States shall vote in favor of any waiver of condition under article V, section 4, or in favor of any declaration of the United States dollar as a scarce currency under article VII, section 3, of the Articles of Agreement of the Fund, without prior approval of the Council.
 
 (5) The Council shall make such reports and recommendations to the President as he may from time to time request, or as the Council may consider necessary to more effectively or efficiently accomplish the purposes of this subchapter or the purposes for which the Council is created.
 
@@ -72,7 +72,7 @@ Office of Director for Mutual Security abolished and functions of Director trans
 
 #### Ex. Ord. No. 11269. National Advisory Council on International Monetary and Financial Policies
 
-Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813, as amended by Ex. Ord. No. 11334, Mar. 7, 1967, 32 F.R. 3933; Ex. Ord. No. 11808, Sept. 30, 1974, 39 F.R. 35563; Ex. Ord. No. 11977, Mar. 14, 1977, 42 F.R. 14671; Ex. Ord. No. 12164, Sept. 29, 1979, 44 F.R. 56681; Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989; Ex. Ord. No. 12403, Feb. 8, 1983, 48 F.R. 6087; Ex. Ord. No. 12567, Oct. 2, 1986, 51 F.R. 35495; Ex. Ord. No. 12647, Aug. 2, 1988, 53 F.R. 29323; Ex. Ord. No. 12766, June 18, 1991, 56 F.R. 28463; Ex. Ord. No. 13118, §10(9), Mar. 31, 1999, 64 F.R. 16598, provided:
+Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813, as amended by Ex. Ord. No. 11334, Mar. 7, 1967, 32 F.R. 3933; Ex. Ord. No. 11808, Sept. 30, 1974, 39 F.R. 35563; Ex. Ord. No. 11977, Mar. 14, 1977, 42 F.R. 14671; Ex. Ord. No. 12164, Sept. 29, 1979, 44 F.R. 56681; Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989; Ex. Ord. No. 12403, Feb. 8, 1983, 48 F.R. 6087; Ex. Ord. No. 12567, Oct. 2, 1986, 51 F.R. 35495; Ex. Ord. No. 12647, Aug. 2, 1988, 53 F.R. 29323; Ex. Ord. No.12766, June 18, 1991, 56 F.R. 28463; Ex. Ord. No. 13118, §10(9), Mar. 31, 1999, 64 F.R. 16598, provided:
 
 By virtue of the authority vested in me by Reorganization Plan No. 4 of 1965 (30 F.R. 9353) \[set out in the Appendix to Title 5, Government Organization and Employees\], and as President of the United States, it is ordered as follows:
 
@@ -111,8 +111,4 @@ Sec. 5. <i>Executive Order No. 10033</i>. Section 2(a) of Executive Order No. 10
 Sec. 6. <i>Effective date</i>. The provisions of this order shall be effective as of January 1, 1966.
 
 Sec. 7. <i>Functions of the Secretary of State</i>. The Secretary of State shall advise both the Secretary of the Treasury and the appropriate United States representatives to the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the African Development Fund,, \[sic\] African Development Bank, Inter-American Investment Corporation, Multilateral Investment Guarantee Agency, and European Bank for Reconstruction and Development on the development aspects of matters relating to those institutions and their activities.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 262, 282b, 283b, 283cc, 284b, 290g–2, 290i–3, 290k–5, 290<i>l</i>–2, 290m, 290<i>o</i>–2 of this title.
 

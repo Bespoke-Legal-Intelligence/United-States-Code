@@ -2,7 +2,7 @@
 
 #### (a) Authority of Federal Energy Administrator to request, acquire, and collect energy information; rules and regulations
 
-For the purpose of assuring that the Federal Energy Administrator, the Congress, the States, and the public have access to and are able to obtain reliable energy information, the Federal Energy Administrator shall request, acquire, and collect such energy information as he determines to be necessary to assist in the formulation of energy policy or to carry out the purposes of this chapter or the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 etseq.\].<sup>1</sup> The Federal Energy Administrator shall promptly promulgate rules pursuant to subsection (b)(1)(A) of this section requiring reports of such information to be submitted to the Federal Energy Administrator at least every ninety calendar days.
+For the purpose of assuring that the Federal Energy Administrator, the Congress, the States, and the public have access to and are able to obtain reliable energy information, the Federal Energy Administrator shall request, acquire, and collect such energy information as he determines to be necessary to assist in the formulation of energy policy or to carry out the purposes of this chapter or the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\].<sup>1</sup> The Federal Energy Administrator shall promptly promulgate rules pursuant to subsection (b)(1)(A) of this section requiring reports of such information to be submitted to the Federal Energy Administrator at least every ninety calendar days.
 
 #### (b) Powers of Federal Energy Administrator in obtaining energy information; verification of accuracy; compliance orders
 
@@ -60,11 +60,11 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 &emsp;(B) submit reports with respect to energy information kept in accordance with such practices.
 
-> The Administrator shall file quarterly reports with the President and the Congress compiled from accounts kept in accordance with such section 503 and submitted to the Administrator inaccordance with this paragraph. Such reports shall present energy information in the categories specified in subsection (c) of such section 503 to the extent that such information may be compiled from such accounts. Such energy information shall be collected and such quarterly reports made for each calendar quarter which begins 6 months after the date on which the accounting practices developed pursuant to such section 503 are made effective.
+> The Administrator shall file quarterly reports with the President and the Congress compiled from accounts kept in accordance with such section 503 and submitted to the Administrator in accordance with this paragraph. Such reports shall present energy information in the categories specified in subsection (c) of such section 503 to the extent that such information may be compiled from such accounts. Such energy information shall be collected and such quarterly reports made for each calendar quarter which begins 6 months after the date on which the accounting practices developed pursuant to such section 503 are made effective.
 
 #### (d) Confidential information
 
-Upon a showing satisfactory to the Federal Energy Administrator by any person that any energy information obtained under this section from such person would, if made public, divulge methods or processes entitled to protection as trade secrets or other proprietary information of such person, such information, or portion thereof, shall be confidential in accordance with the provisions of section 1905 of title 18; except that such information, or part thereof, shall not be deemed confidential for purposes of disclosure, upon request, to (1) any delegate of the Federal Energy Administrator for the purpose of carrying out this chapter and the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>4</sup> (2) the Attorney General, the Secretary of the Interior, the Federal Trade Commission, the Federal Power Commission, or the General Accounting Office, when necessary to carry out those agencies’ duties and responsibilities under this and other statutes, and (3) the Congress, or any committee of Congress upon request of the Chairman.
+Upon a showing satisfactory to the Federal Energy Administrator by any person that any energy information obtained under this section from such person would, if made public, divulge methods or processes entitled to protection as trade secrets or other proprietary information of such person, such information, or portionthereof, shall be confidential in accordance with the provisions of section 1905 of title 18; except that such information, or part thereof, shall not be deemed confidential for purposes of disclosure, upon request, to (1) any delegate of the Federal Energy Administrator for the purpose of carrying out this chapter and the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>4</sup> (2) the Attorney General, the Secretary of the Interior, the Federal Trade Commission, the Federal Power Commission, or the Government Accountability Office, when necessary to carry out those agencies’ duties and responsibilities under this and other statutes, and (3) the Congress, or any committee of Congress upon request of the Chairman.
 
 #### (e) Definitions
 
@@ -84,7 +84,7 @@ Information obtained by the Administration under authority of this chapter shall
 
 The authority contained in this section is in addition to, independent of, not limited by, and not in limitation of, any other authority of the Federal Energy Administrator.
 
-(Pub. L. 93–319, §11, June 22, 1974, 88 Stat. 262; Pub. L. 94–163, title V, §§505(a), 506, Dec. 22, 1975, 89 Stat. 960; Pub. L. 95–620, title VII, §762(d), Nov. 9, 1978, 92 Stat. 3346.)
+(Pub. L. 93–319, §11, June 22, 1974, 88 Stat. 262; Pub. L. 94–163, title V, §§505(a), 506, Dec. 22, 1975, 89 Stat. 960; Pub. L. 95–620, title VII, §762(d), Nov. 9, 1978, 92 Stat. 3346; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -93,6 +93,8 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 The Emergency Petroleum Allocation Act of 1973, referred to in subsecs. (a), (c)(2)(C), and (d), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1978—Subsec. (g). Pub. L. 95–620 struck out provisions comprising par. (2) relating to termination of this section at midnight, Dec. 31, 1979, and designated remaining provisions as subsec. (g).
 
@@ -113,10 +115,6 @@ Section 505(b) of Pub. L. 94–163 provided that: “The amendment made by subse
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
 Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 772, 790, 797, 3418 of this title; title 16 section 2703; title 42 sections 5917, 6274, 6296, 6299, 6381, 7135, 8401, 8421, 8541; title 49 section 32912.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

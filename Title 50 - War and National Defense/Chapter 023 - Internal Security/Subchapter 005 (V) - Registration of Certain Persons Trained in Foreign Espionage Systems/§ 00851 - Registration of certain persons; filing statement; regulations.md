@@ -12,7 +12,3 @@ Section was not enacted as part of the Internal Security Act of 1950 which compr
 
 Section 9 of act Aug. 1, 1956, provided: “If any provision of this Act \[enacting this subchapter\] or the application thereof to any person or circumstances is held invalid, the remainder of the Act, and the application of such provisions to other persons or circumstances, is not affected thereby.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 852 of this title.
-

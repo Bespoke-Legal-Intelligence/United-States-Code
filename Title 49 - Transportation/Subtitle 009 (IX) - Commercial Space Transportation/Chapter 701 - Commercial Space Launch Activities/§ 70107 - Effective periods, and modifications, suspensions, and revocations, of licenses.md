@@ -6,7 +6,9 @@ Effective Periods of Licenses.—The Secretary of Transportation shall specify t
 
 (b)
 
-Modifications.—On the initiative of the Secretary or on application of the licensee, the Secretary may modify a license issued or transferred under this chapter if the Secretary decides the modification will comply with this chapter.
+Modifications.—(1) On the initiative of the Secretary or on application of the licensee, the Secretary may modify a license issued or transferred under this chapter if the Secretary decides the modification will comply with this chapter.
+
+(2) The Secretary shall modify a license issued or transferred under this chapter whenever a modification is needed for the license to be inconformity with a regulation that was issued pursuant to section 70105(c) after the issuance of the license. This paragraph shall not apply to permits.
 
 (c)
 
@@ -18,13 +20,25 @@ Suspensions and Revocations.—The Secretary may suspend or revoke a license if 
 
 (d)
 
-Effective Periods of Modifications, Suspensions, and Revocations.—Unless the Secretary specifies otherwise, a modification, suspension, or revocation under this section takes effect immediately and remains in effect during a review under section 70110 of this title.
+Additional Suspensions.—(1) The Secretary may suspend a license when a previous launch or reentry under the license has resulted in a serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to crew or space flight participants and the Secretary has determined that continued operations under the license are likely to cause additional serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to crew or space flight participants.
+
+(2) Any suspension imposed under this subsection shall be for as brief a period as possible and, in any event, shall cease when the Secretary—
+
+&emsp;(A) has determined that the licensee has taken sufficient steps to reduce the likelihood of a recurrence of the serious or fatal injury; or
+
+&emsp;(B) has modified the license pursuant to subsection (b) to sufficiently reduce the likelihood of a recurrence of the serious or fatal injury.
+
+(3) This subsection shall not apply to permits.
 
 (e)
 
+Effective Periods of Modifications, Suspensions, and Revocations.—Unless the Secretary specifies otherwise, a modification, suspension, or revocation under this section takes effect immediately and remains in effect during a review under section 70110 of this title.
+
+(f)
+
 Notification.—The Secretary shall notify the licensee in writing of the decision of the Secretary under this section and any action the Secretary takes or proposes to take based on the decision.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1334.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1334; Pub. L. 108–492, §2(c)(18), (19), Dec. 23, 2004, 118 Stat. 3980.)
 
 Historical and Revision Notes
 
@@ -64,7 +78,9 @@ In subsection (b), the words “the requirements of” are omitted as surplus.
 
 In subsection (e), the words “Whenever the Secretary takes any action” are omitted as surplus.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 70110 of this title.
+2004—Subsec. (b). Pub. L. 108–492, §2(c)(18), designated existing text as par. (1) and added par. (2).
+
+Subsecs. (d) to (f). Pub. L. 108–492, §2(c)(19), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 

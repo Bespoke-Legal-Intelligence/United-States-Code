@@ -36,7 +36,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(D) between persons within the United States, where the fish and wildlife in question are moving in any country or countries outside the United States.
 
-&emsp;(10) The term “import” means to land on, bring into, or introduce into, or attempt toland on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
+&emsp;(10) The term “import” means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
 
 &emsp;(11) Repealed. Pub. L. 97–304, §4(b), Oct. 13, 1982, 96 Stat. 1420.
 
@@ -46,7 +46,7 @@ For the purpose of this chapter—
 
 &emsp;(14) The term “plant” means any member of the plant kingdom, including seeds, roots and other parts thereof.
 
-&emsp;(15) The term “Secretary” means, except as otherwise herein provided, the Secretary of the Interior or the Secretary of Commerce as program responsibilities are vested pursuant to the provisions of Reorganization Plan Numbered 4 of 1970; except that with respect to the enforcement of the provisions of this chapter and the Convention which pertain to the importation or exportation of terrestrial plants, the term also means the Secretary of Agriculture.
+&emsp;(15) The term “Secretary” means, except as otherwise herein provided, the Secretary of the Interior or the Secretary of Commerce as program responsibilities are vested pursuantto the provisions of Reorganization Plan Numbered 4 of 1970; except that with respect to the enforcement of the provisions of this chapter and the Convention which pertain to the importation or exportation of terrestrial plants, the term also means the Secretary of Agriculture.
 
 &emsp;(16) The term “species” includes any subspecies of fish or wildlife or plants, and any distinct population segment of any species of vertebrate fish or wildlife which interbreeds when mature.
 
@@ -105,8 +105,4 @@ Pars. (19) to (21). Pub. L. 95–632, §2(7), redesignated pars. (14) to (16) as
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1536 of this title.
 

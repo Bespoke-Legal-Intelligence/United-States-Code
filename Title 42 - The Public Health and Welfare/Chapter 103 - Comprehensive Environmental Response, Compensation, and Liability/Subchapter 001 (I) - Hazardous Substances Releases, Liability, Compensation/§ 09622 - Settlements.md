@@ -144,7 +144,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (2) Special covenants not to sue
 
-&emsp;In the case of any person to whom the President is authorized under paragraph (1) of this subsection to provide a covenant not to sue, for the portion of remedial action—
+&emsp;In the case of any person to whom the President is authorized under paragraph (1) of thissubsection to provide a covenant not to sue, for the portion of remedial action—
 
 &emsp;&emsp;(A) which involves the transport and secure disposition offsite of hazardous substances in a facility meeting the requirements of sections 6924(c), (d), (e), (f), (g), (m), (<i>o</i>), (p), (u), and (v) and 6925(c) of this title, where the President has rejected a proposed remedial action that is consistent with the National Contingency Plan that does not include such offsite disposition and has thereafter required offsite disposition; or
 
@@ -154,7 +154,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (3) Requirement that remedial action be completed
 
-&emsp;A covenant not to sue concerning future liability to the United States shall not take effect until the President certifies that remedial action has been completed in accordance withthe requirements of this chapter at the facility that is the subject of such covenant.
+&emsp;A covenant not to sue concerning future liability to the United States shall not take effect until the President certifies that remedial action has been completed in accordance with the requirements of this chapter at the facility that is the subject of such covenant.
 
 #### (4) Factors
 
@@ -346,9 +346,5 @@ Amendment by Pub. L. 107–118 not to apply to or in any way affect any settleme
 
 #### Coordination of Titles I to IV of Pub. L. 99–499
 
-Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trustfund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9604, 9609, 9613, 9617, 9619, 9620, 9657 of this title; title 10 section 2701; title 14 section 691.
+Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trust fund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
 

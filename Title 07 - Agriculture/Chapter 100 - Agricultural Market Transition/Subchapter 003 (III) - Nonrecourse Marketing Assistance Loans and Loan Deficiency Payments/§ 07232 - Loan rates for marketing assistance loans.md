@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) equal to or greater than 25 percent, the Secretary may reduce the loan rate for corn for the corresponding crop by an amount not to exceed 10 percent in any year;
 
-&emsp;&emsp;(B) less than 25 percent but not less than 12.5 percent, the Secretary may reduce the loan rate for corn for the corresponding cropby an amount not to exceed 5 percent in any year; or
+&emsp;&emsp;(B) less than 25 percent but not less than 12.5 percent, the Secretary may reduce the loan rate for corn for the corresponding crop by an amount not to exceed 5 percent in any year; or
 
 &emsp;&emsp;(C) less than 12.5 percent, the Secretary may not reduce the loan rate for corn for the corresponding crop.
 
@@ -62,7 +62,7 @@
 
 The loan rate for a marketing assistance loan under section 7231 of this title for extra long staple cotton shall be—
 
-&emsp;(1) not less than 85 percent of the simple average price received by producers of extra long staple cotton, as determined by the Secretary, during 3 years of the 5-year period ending July 31 of the year preceding the year in which the crop is planted, excluding the year in which the average price was the highest and the year in which the average price was the lowest in the period; but
+&emsp;(1) not less than 85 percent of the simple average price received by producers of extra long staple cotton, as determined by the Secretary,during 3 years of the 5-year period ending July 31 of the year preceding the year in which the crop is planted, excluding the year in which the average price was the highest and the year in which the average price was the lowest in the period; but
 
 &emsp;(2) not more than $0.7965 per pound.
 
@@ -93,8 +93,4 @@ The loan rate for a marketing assistance loan under section 7231 of this title f
 &emsp;The loan rates for a marketing assistance loan under section 7231 of this title for other oilseeds shall be established at such level as the Secretary determines is fair and reasonable in relation to the loan rate available for soybeans, except in no event shall the rate for the oilseeds (other than cottonseed) be less than the rate established for soybeans on a per-pound basis for the same crop.
 
 (Pub. L. 104–127, title I, §132, Apr. 4, 1996, 110 Stat. 905.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7231, 7234, 7235, 7236 of this title.
 

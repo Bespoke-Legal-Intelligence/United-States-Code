@@ -12,7 +12,7 @@ In the performance of, and with respect to, the functions vested in the Secretar
 
 &emsp;(3) may sue and be sued in any court of record of a State having general jurisdiction or in any district court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regard to the amount in controversy, and any action instituted under this part without regard to the amount in controversy, and any action instituted under this section by or against the Secretary shall survive notwithstanding any change in the person occupying the office of the Secretary or any vacancy in such office;
 
-&emsp;(4)(A) may foreclose on any property and bid for and purchase at any foreclosure, or any other sale, any property in connection with which the Secretary has been assigned a loan pursuant to this part; and
+&emsp;(4)(A) may foreclose on any property and bid for and purchase at any foreclosure, or anyother sale, any property in connection with which the Secretary has been assigned a loan pursuant to this part; and
 
 &emsp;(B) in the event of such an acquisition, notwithstanding any other provisions of law relating to the acquisition, handling, or disposal of real property by the United States, complete, administer, remodel and convert, dispose of, lease, and otherwise deal with, such property, except that—
 
@@ -51,8 +51,4 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1066a, 1066b, 1066g, 1068h of this title.
 

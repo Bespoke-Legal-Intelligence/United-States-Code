@@ -54,7 +54,7 @@ Oct. 3, 1944, ch. 479, 58 Stat. 765, §13(g)(3); added July 30, 1947, ch. 404, �
 
 In subsection (a), before clause (1), the words “Notwithstanding any other provision of law” and “further” are omitted as surplus. The word “waive” is substituted for “grant releases from” and “and to convey, quitclaim, or release any right or interest reserved to the United States by” to eliminate unnecessary words. The words “a term of a gift of an interest in property under this subchapter” are substituted for “any of the terms, conditions, reservations, and restrictions contained in . . . any such instrument of disposal” for clarity and consistency. In clause (1), the words “transferred by such instrument” are omitted as surplus. In clause (2), the text of 50 App.:1622c (last proviso) is omitted as executed. The words “protect or” are omitted as surplus.
 
-In subsection (b), the words “In making any disposition of surplus property under this subsection” areomitted as surplus. The words “Secretary of a military department” are substituted for “the Secretary of the Army, or the Secretary of the Navy” for consistency with other titles of the United States Code and to eliminate unnecessary words. The words “Secretary of the Army” are substituted for “Secretary of War” in section 13(g)(3) of the Surplus Property Act of 1944 (ch. 479, 58 Stat. 765) because of section 205(a) of the National Security Act of 1947 (ch. 343, 61 Stat. 501). The Secretary of the Air Force is included in “Secretary of a military department” because of section 207(a) and (f) of the National Security Act of 1947 (ch. 343, 61 Stat. 502, 503). The word “waive” is substituted for “omit from the instrument of disposal” to eliminate unnecessary words and for consistency in this subchapter. The words “conditions, reservations, and restrictions” are omitted as surplus.
+In subsection (b), the words “In making any disposition of surplus property under this subsection” are omitted as surplus. The words “Secretary of a military department” are substituted for “the Secretary of the Army, or the Secretary of the Navy” for consistency with other titles of the United States Code and to eliminate unnecessary words. The words “Secretary of the Army” are substituted for “Secretary of War” in section 13(g)(3) of the Surplus Property Act of 1944 (ch. 479, 58 Stat. 765) because of section 205(a) of the National Security Act of 1947 (ch. 343, 61 Stat. 501). The Secretary of the Air Force is included in “Secretary of a military department” because of section 207(a) and (f) of the National Security Act of 1947 (ch. 343, 61 Stat. 502, 503). The word “waive” is substituted for “omit from the instrument of disposal” to eliminate unnecessary words and for consistency in this subchapter. The words “conditions, reservations, and restrictions” are omitted as surplus.
 
 #### Amendments
 
@@ -69,8 +69,4 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Construction of 2000 Amendment
 
 Nothing in amendment by section 125(d) of Pub. L. 106–181 to be construed to authorize Secretary of Transportation to issue waiver or make a modification referred to in such amendment, see section 125(e) of Pub. L. 106–181, set out as a note under section 47107 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47151, 47152 of this title.
 

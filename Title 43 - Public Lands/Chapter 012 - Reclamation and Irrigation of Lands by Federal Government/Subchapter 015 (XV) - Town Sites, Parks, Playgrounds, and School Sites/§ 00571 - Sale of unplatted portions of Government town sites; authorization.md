@@ -12,7 +12,3 @@ The reclamation law, referred to in text, probably means act June 17, 1902, ch. 
 
 1931—Act Feb. 14, 1931, substituted “under such terms as to time of payment as he may require, but in no event for any longer period than five years” for “for cash”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 573 of this title.
-

@@ -4,7 +4,7 @@
 
 (1) The Board of Trustees of the Institute shall be composed of 13 voting members and 6 nonvoting members as follows:
 
-&emsp;(A) Subject to the provisions of subsection (i) of this section, the voting members shall be appointed by the President of the United States by and with the advice and consent of the Senate, not later than 180 days after October 17, 1986, from among individuals from private life who are Indians, or other individuals, widely recognized in the field of Indian art and culture and who represent diverse political views, and diverse fields of expertise, including finance, law, fine arts, and higher education administration.
+&emsp;(A) Subject to the provisions of subsection (i) of this section, the voting members shall be appointed by the President of the United States by and with the advice and consent of the Senate, not later than 180 days after October 17, 1986, from among individuals from private life who are Indians, or other individuals,widely recognized in the field of Indian art and culture and who represent diverse political views, and diverse fields of expertise, including finance, law, fine arts, and higher education administration.
 
 &emsp;(B) The nonvoting members shall consist of—
 
@@ -52,7 +52,7 @@
 
 #### (c) Vacancies
 
-Any member of the Board appointed under subsection (a) of this section to fill a vacancyoccurring before the expiration of the term to which such member's predecessor was appointed shall be appointed for the remainder of such term. If the vacancy occurs prior to the expiration of the term of a member of the Board appointed under subsection (a)(1)(B) of this section, a replacement shall be appointed in the same manner in which the original appointment was made.
+Any member of the Board appointed under subsection (a) of this section to fill a vacancy occurring before the expiration of the term to which such member's predecessor was appointed shall be appointed for the remainder of such term. If the vacancy occurs prior to the expiration of the term of a member of the Board appointed under subsection (a)(1)(B) of this section, a replacement shall be appointed in the same manner in which the original appointment was made.
 
 #### (d) Removal
 
@@ -117,8 +117,4 @@ The delegation of authority to the Secretary of the Interior by memorandum of Ju
 This memorandum shall be published in the Federal Register.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4411 of this title.
 

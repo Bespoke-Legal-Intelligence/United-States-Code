@@ -12,7 +12,3 @@
 
 1978—Pub. L. 95–625 increased land acquisition appropriations authorization to $156,700,000 from $116,000,000.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698f, 698g, 698h, 698i, 698j of this title.
-

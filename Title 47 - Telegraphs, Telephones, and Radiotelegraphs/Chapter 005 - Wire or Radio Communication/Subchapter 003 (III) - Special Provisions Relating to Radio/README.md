@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—SPECIAL PROVISIONS RELATING TO RADIO
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 503, 571, 741 of this title; title 12 section 1843; title 18 section 1029.
-
 
 ---
 

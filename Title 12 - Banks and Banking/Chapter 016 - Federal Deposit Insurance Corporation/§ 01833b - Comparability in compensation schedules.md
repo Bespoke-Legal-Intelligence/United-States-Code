@@ -32,9 +32,5 @@ Oversight Board redesignated Thrift Depositor Protection Oversight Board, effect
 
 Amendment by Pub. L. 107–123 effective Oct. 1, 2001, see section 11 of Pub. L. 107–123, set out as a note under section 78ee of Title 15, Commerce and Trade.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 4802; title 7 section 2; title 15 section 78d; title 20 section 1087–2.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

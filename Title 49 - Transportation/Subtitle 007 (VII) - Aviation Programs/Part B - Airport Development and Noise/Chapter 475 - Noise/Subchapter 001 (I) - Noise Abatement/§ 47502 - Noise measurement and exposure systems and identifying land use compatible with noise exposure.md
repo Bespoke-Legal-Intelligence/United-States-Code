@@ -32,7 +32,3 @@ Feb. 18, 1980, Pub. L. 96–193, §102, 94 Stat. 50.
 
 In this section, before clause (1), the words “Not later than the last day of the twelfth month which begins after February 18, 1980” are omitted as obsolete.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47141, 47503 of this title.
-

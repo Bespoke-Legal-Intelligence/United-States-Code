@@ -8,7 +8,3 @@ Gifts and bequests received by the Board under this chapter, and the income from
 
 Based on 44 U.S. Code, 1964 ed., §300gg (July 9, 1941, ch. 284, §7, 55 Stat. 582).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 2055.
-

@@ -10,7 +10,3 @@ Remedy.—A violation of subsection (a) may be remedied by any legal remedy avai
 
 (Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4061.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 411, 454 of this title.
-

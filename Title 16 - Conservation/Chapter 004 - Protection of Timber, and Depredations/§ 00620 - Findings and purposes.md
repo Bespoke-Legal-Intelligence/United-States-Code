@@ -66,7 +66,3 @@ Pub. L. 103–45, §1, July 1, 1993, 107 Stat. 223, provided that: “This Act \
 
 Section 487 of title IV of Pub. L. 101–382 provided that: “This title \[enacting this section and sections 620a to 620j of this title and provisions set out as a note above\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1990’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 620b, 620c, 620d, 620e, 620f, 620g, 620h, 620j of this title.
-

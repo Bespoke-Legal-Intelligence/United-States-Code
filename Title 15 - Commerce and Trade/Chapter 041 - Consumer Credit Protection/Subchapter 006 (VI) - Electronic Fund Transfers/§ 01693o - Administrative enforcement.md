@@ -10,7 +10,7 @@ Compliance with the requirements imposed under this subchapter shall be enforced
 
 &emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board; and
 
-&emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than membersof the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;
+&emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;
 
 &emsp;(2) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;
 
@@ -24,7 +24,7 @@ Compliance with the requirements imposed under this subchapter shall be enforced
 
 #### (b) Violations of subchapter deemed violations of pre-existing statutory requirements; additional powers
 
-For the purpose of the exercise by any agency referred to in subsection (a) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law.
+For the purpose of the exercise by any agency referred to in subsection (a) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a) of this section, each of the agencies referredto in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law.
 
 #### (c) Overall enforcement authority of Federal Trade Commission
 
@@ -65,10 +65,6 @@ Pub. L. 102–242, §212(f)(1), added par. (1) and struck out former par. (1) wh
 #### Transfer of Functions
 
 Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of Title 12, Banks and Banking.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1693b, 1693p of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

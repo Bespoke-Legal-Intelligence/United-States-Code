@@ -4,7 +4,3 @@ In order to save and preserve, for purposes of public recreation, benefit, and i
 
 (Pub. L. 87–657, §1, Sept. 13, 1962, 76 Stat. 538.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459c–2, 459c–4, 459c–5, 459c–6, 459c–6b, 459c–7 of this title.
-

@@ -200,7 +200,7 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor byBoard of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Short Title of 1994 Amendment
 
@@ -245,10 +245,6 @@ In General.—Notwithstanding any other provision of law, the Drug Enforcement A
 “(b)
 
 Limitation.—The provisions of this section shall apply only to an employee who has received a bonus under this section before January 1, 1992. The provisions of subchapter III of chapter 45 of title 5, United States Code, shall apply to any employee who would otherwise be eligible to receive a bonus under this section, on and after such date.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4521, 5504, 5545a, 5550a, 6101 of this title; title 2 section 1371.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

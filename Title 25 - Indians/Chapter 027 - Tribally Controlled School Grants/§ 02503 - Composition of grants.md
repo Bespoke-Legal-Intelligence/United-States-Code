@@ -128,10 +128,6 @@ A prior section 2503, Pub. L. 100–297, title V, §5204, Apr. 28, 1988, 102 Sta
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2007 of this title.
-
 <i><sup>1</sup></i><i> So in original. The words “, that are allocated to such schools for such fiscal year” probably should not appear.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “2502(a)(2)” and “2502(a)”.</i>

@@ -30,7 +30,3 @@ As used in this section—
 
 (Pub. L. 96–465, title I, §413, Oct. 17, 1980, 94 Stat. 2092.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 1489; title 50 section 403k.
-

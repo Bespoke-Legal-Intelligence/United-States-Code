@@ -52,7 +52,3 @@ In subsection (a)(1), the words “which is manufactured on or after the date th
 
 In subsection (a)(5)(A), the words “of any kind” are omitted as unnecessary because of the definition of “chop shop” in section 33101 of the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 33115 of this title.
-

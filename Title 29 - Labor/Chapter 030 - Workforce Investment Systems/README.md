@@ -272,7 +272,7 @@
 | (b) | Demonstration and pilot projects. |
 | (c) | Multiservice projects, research projects, and multistate projects. |
 | (d) | Dislocated worker projects. |
-| [2916a.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002916a%20-%20Demonstration%20programs%20and%20projects%20to%20provide%20technical%20skills%20training%20for%20workers.md) | Demonstration programs and projects to provide technical skills training for workers. |
+| [2916a.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002916a%20-%20Job%20training%20grants.md) | Job training grants. |
 | [2917\.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2002917%20-%20Evaluations.md) | Evaluations. |
 | (a) | Programs and activities carried out under this chapter. |
 | (b) | Other programs and activities. |
@@ -383,10 +383,6 @@
 | [2945\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2002945%20-%20General%20program%20requirements.md) | General program requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 701, 712, 721, 751, 772, 773 of this title; title 5 section 3502; title 7 sections 2014, 2015, 2026; title 8 sections 1255a, 1613; title 15 sections 636, 3116; title 18 section 665; title 19 sections 2271, 2296, 2311; title 20 sections 1087vv, 6381d, 6434, 6453, 6455, 7512, 9271, 9272, 9273, 9274, 9275, 9276; title 31 section 6703; title 38 sections 4102A, 4213; title 42 sections 603, 1437u, 1474, 3013, 3030d, 3056c, 3056h, 6864, 6873, 9806, 11302, 12655m, 12899c, 13823; title 48 section 1921d; title 50 section 2704.
 
 
 ---

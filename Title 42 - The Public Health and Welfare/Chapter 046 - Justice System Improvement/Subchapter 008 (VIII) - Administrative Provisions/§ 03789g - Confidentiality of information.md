@@ -30,7 +30,3 @@ A prior section 812 of Pub. L. 90–351 was classified to section 3789a of this 
 
 Amendment by section 609B(k) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3732, 5672, 10505 of this title.
-

@@ -72,7 +72,3 @@ Subsec. (d). Pub. L. 104–106, §569(c)(1)(B), added subsec. (d).
 
 1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)” in two places.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 552, 553, 556, 557 of this title; title 10 section 701.
-

@@ -16,7 +16,7 @@ In General.—The head of each agency shall—
 
 &emsp;&emsp;&emsp;(i) information security standards promulgated under section 11331 of title 40; and
 
-&emsp;&emsp;&emsp;(ii) information security standards and guidelines for national security systemsissued in accordance with law and as directed by the President; and
+&emsp;&emsp;&emsp;(ii) information security standards and guidelines for national security systems issued in accordance with law and as directed by the President; and
 
 &emsp;&emsp;(C) ensuring that information security management processes are integrated with agency strategic and operational planning processes;
 
@@ -92,7 +92,7 @@ Agency Program.—Each agency shall develop, document, and implement an agencywi
 
 &emsp;&emsp;(B) may include testing relied on in a <sup>1</sup> evaluation under section 3545;
 
-&emsp;(6) a process for planning, implementing, evaluating, and documenting remedial actionto address any deficiencies in the information security policies, procedures, and practices of the agency;
+&emsp;(6) a process for planning, implementing, evaluating, and documenting remedial action to address any deficiencies in the information security policies, procedures, and practices of the agency;
 
 &emsp;(7) procedures for detecting, reporting, and responding to security incidents, consistent with standards and guidelines issued pursuant to section 3546(b), including—
 
@@ -162,9 +162,9 @@ The Chief Financial Officers Act of 1990, referred to in subsec. (c)(2)(E), is P
 
 The Federal Financial Management Improvement Act, referred to in subsec. (c)(2)(F), (3)(B), probably means the Federal Financial Management Improvement Act of 1996, Pub. L. 104–208, div. A, title I, §101(f) \[title VIII\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, which is set out as a note under section 3512 of Title 31, Money and Finance. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
+#### Change of Name
 
-This section is referred to in section 3543 of this title; title 42 section 1395kk–1.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

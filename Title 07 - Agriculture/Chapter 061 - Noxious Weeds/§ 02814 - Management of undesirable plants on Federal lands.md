@@ -30,7 +30,7 @@ In the event an environmental assessment or environmental impact statement is re
 
 &emsp;&emsp;(B) describe the integrated management system to be used to control or contain the targeted undesirable plant species or group of species; and
 
-&emsp;&emsp;(C) detail the means of implementing the integrated management system, define the duties of the Federal agency and the State agency in prosecuting that method, and establish a timeframe for the initiation and completion of the tasks specified in the integrated management system.
+&emsp;&emsp;(C) detail the means of implementing the integrated management system, define the duties of the Federal agency and the Stateagency in prosecuting that method, and establish a timeframe for the initiation and completion of the tasks specified in the integrated management system.
 
 #### (d) Exception
 

@@ -48,9 +48,5 @@ Subsec. (g). Pub. L. 95–620, §805(a), added subsec. (g).
 
 Amendment by Pub. L. 95–620 effective 180 days after Nov. 9, 1978, see section 901 of Pub. L. 95–620, set out as an Effective Date note under section 8301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 4504.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

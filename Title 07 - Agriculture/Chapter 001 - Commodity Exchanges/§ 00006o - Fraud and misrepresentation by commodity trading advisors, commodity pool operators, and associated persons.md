@@ -30,7 +30,3 @@ Amendment by Pub. L. 95–405 effective Oct. 1, 1978, see section 28 of Pub. L. 
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2, 7a–3, 13 of this title.
-

@@ -10,7 +10,3 @@ In the case of a claim of loss with respect to an item which is covered by an ag
 
 (Pub. L. 94–158, §6, Dec. 20, 1975, 89 Stat. 845.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 976 of this title.
-

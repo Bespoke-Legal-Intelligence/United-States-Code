@@ -16,7 +16,3 @@ Section was not enacted as part of the Johnson-O'Malley Act which comprises this
 
 For termination, effective May 15, 2000, of provisions in this section relating to making an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 113 of House Document No. 103–7.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 458bbb of this title; title 22 section 2124c.
-

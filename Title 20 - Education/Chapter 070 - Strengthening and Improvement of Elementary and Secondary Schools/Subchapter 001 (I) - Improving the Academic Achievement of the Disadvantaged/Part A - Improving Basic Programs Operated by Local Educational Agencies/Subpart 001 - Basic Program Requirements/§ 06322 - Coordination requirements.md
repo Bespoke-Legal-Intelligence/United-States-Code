@@ -12,7 +12,7 @@ The activities referred to in subsection (a) of this section are activities that
 
 &emsp;(2) establishing channels of communication between school staff and their counterparts (including teachers, social workers, and health staff) in such Head Start agencies or other entities carrying out early childhood development programs such as the Early Reading First program, as appropriate, to facilitate coordination of programs;
 
-&emsp;(3) conducting meetings involving parents, kindergarten or elementary school teachers, and Head Start teachers or, if appropriate, teachers from other early childhood development programs such as the Early ReadingFirst program, to discuss the developmental and other needs of individual children;
+&emsp;(3) conducting meetings involving parents, kindergarten or elementary school teachers, and Head Start teachers or, if appropriate, teachers from other early childhood development programs such as the Early Reading First program, to discuss the developmental and other needs of individual children;
 
 &emsp;(4) organizing and participating in joint transition-related training of school staff, Head Start program staff, Early Reading First program staff, and, where appropriate, other early childhood development program staff; and
 
@@ -26,7 +26,7 @@ The Secretary shall work with the Secretary of Health and Human Services to coor
 
 #### References in Text
 
-The Head Start Act, referred to in subsec. (c), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Head Start Act, referred to in subsec. (c), is subchapter B (§§635–657) of chapter 8 of subtitle A of titleVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 #### Prior Provisions
 

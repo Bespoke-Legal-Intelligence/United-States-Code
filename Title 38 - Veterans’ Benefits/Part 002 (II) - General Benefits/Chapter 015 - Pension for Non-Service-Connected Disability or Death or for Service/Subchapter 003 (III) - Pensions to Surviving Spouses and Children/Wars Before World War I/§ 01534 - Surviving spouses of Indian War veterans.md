@@ -48,7 +48,3 @@ Section 106 of Pub. L. 94–169 provided that the amendment made by that section
 
 Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1535 of this title.
-

@@ -9,11 +9,11 @@
 | [105\.](%C2%A7%2000105%20-%20National%20Highway%20Traffic%20Safety%20Administration.md) | National Highway Traffic Safety Administration. |
 | [106\.](%C2%A7%2000106%20-%20Federal%20Aviation%20Administration.md) | Federal Aviation Administration. |
 | [107\.](%C2%A7%2000107%20-%20Federal%20Transit%20Administration.md) | Federal Transit Administration. |
-| [108\.](%C2%A7%2000108%20-%20Coast%20Guard.md) | Coast Guard. |
+| [108\.](%C2%A7%2000108%20-%20Pipeline%20and%20Hazardous%20Materials%20Safety%20Administration.md) | Pipeline and Hazardous Materials Safety Administration. |
 | [109\.](%C2%A7%2000109%20-%20Maritime%20Administration.md) | Maritime Administration. |
 | [110\.](%C2%A7%2000110%20-%20Saint%20Lawrence%20Seaway%20Development%20Corporation.md) | Saint Lawrence Seaway Development Corporation. |
 | [111\.](%C2%A7%2000111%20-%20Bureau%20of%20Transportation%20Statistics.md) | Bureau of Transportation Statistics. |
-| [112\.](%C2%A7%2000112%20-%20Research%20and%20Special%20Programs%20Administration.md) | Research and Special Programs Administration. |
+| [112\.](%C2%A7%2000112%20-%20Research%20and%20Innovative%20Technology%20Administration.md) | Research and Innovative Technology Administration. |
 | [113\.](%C2%A7%2000113%20-%20Federal%20Motor%20Carrier%20Safety%20Administration.md) | Federal Motor Carrier Safety Administration. |
 | [114\.](%C2%A7%2000114%20-%20Transportation%20Security%20Administration.md) | Transportation Security Administration. |
 | [115\.](%C2%A7%2000115%20-%20Transportation%20Security%20Oversight%20Board.md) | Transportation Security Oversight Board. |
@@ -21,6 +21,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–426, §§2(c)(1), 4(e), Nov. 30, 2004, 118 Stat. 2424, 2426, substituted “Pipeline and Hazardous Materials Safety Administration” for “Coast Guard” in item 108 and “Research and Innovative Technology Administration” for “Research and Special Programs Administration” in item 112.
 
 2001—Pub. L. 107–71, title I, §§101(b), 102(d), Nov. 19, 2001, 115 Stat. 602, 605, added items 114 and 115.
 
@@ -44,11 +46,11 @@
 - [&sect; 00105 - National Highway Traffic Safety Administration](%C2%A7%2000105%20-%20National%20Highway%20Traffic%20Safety%20Administration.md)
 - [&sect; 00106 - Federal Aviation Administration](%C2%A7%2000106%20-%20Federal%20Aviation%20Administration.md)
 - [&sect; 00107 - Federal Transit Administration](%C2%A7%2000107%20-%20Federal%20Transit%20Administration.md)
-- [&sect; 00108 - Coast Guard](%C2%A7%2000108%20-%20Coast%20Guard.md)
+- [&sect; 00108 - Pipeline and Hazardous Materials Safety Administration](%C2%A7%2000108%20-%20Pipeline%20and%20Hazardous%20Materials%20Safety%20Administration.md)
 - [&sect; 00109 - Maritime Administration](%C2%A7%2000109%20-%20Maritime%20Administration.md)
 - [&sect; 00110 - Saint Lawrence Seaway Development Corporation](%C2%A7%2000110%20-%20Saint%20Lawrence%20Seaway%20Development%20Corporation.md)
 - [&sect; 00111 - Bureau of Transportation Statistics](%C2%A7%2000111%20-%20Bureau%20of%20Transportation%20Statistics.md)
-- [&sect; 00112 - Research and Special Programs Administration](%C2%A7%2000112%20-%20Research%20and%20Special%20Programs%20Administration.md)
+- [&sect; 00112 - Research and Innovative Technology Administration](%C2%A7%2000112%20-%20Research%20and%20Innovative%20Technology%20Administration.md)
 - [&sect; 00113 - Federal Motor Carrier Safety Administration](%C2%A7%2000113%20-%20Federal%20Motor%20Carrier%20Safety%20Administration.md)
 - [&sect; 00114 - Transportation Security Administration](%C2%A7%2000114%20-%20Transportation%20Security%20Administration.md)
 - [&sect; 00115 - Transportation Security Oversight Board](%C2%A7%2000115%20-%20Transportation%20Security%20Oversight%20Board.md)

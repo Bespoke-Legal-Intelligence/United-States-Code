@@ -28,7 +28,3 @@ Section 7 of Pub. L. 91–375 required the Board of Governors of the United Stat
 
 Provisions of section 7 of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 602 of this title; title 18 section 1696.
-

@@ -104,10 +104,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 102, 311, 11701 of this title; title 6 section 232; title 10 sections 2535, 2696, 9781; title 49 section 40110.
-
 
 ---
 

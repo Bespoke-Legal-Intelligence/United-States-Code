@@ -30,7 +30,7 @@ If the repeals required by subsection (a) of this section are implemented, the f
 
 #### (i) Removal
 
-&emsp;&emsp;&emsp;If the President determines that the Association is not acting in the interests ofthe public, the President may remove the entire existing Board for the remainder of the term to which the members of the Board were appointed and appoint, with the advice and consent of the Senate, new members to fill the vacancies on the Board for the remainder of such terms.
+&emsp;&emsp;&emsp;If the President determines that the Association is not acting in the interests of the public, the President may remove the entire existing Board for the remainder of the term to which the members of the Board were appointed and appoint, with the advice and consent of the Senate, new members to fill the vacancies on the Board for the remainder of such terms.
 
 #### (ii) Suspension of rules or actions
 
@@ -45,8 +45,4 @@ As soon as practicable after the close of each fiscal year, the Association shal
 #### References in Text
 
 This Act, referred to in subsec. (a)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6756 of this title.
 

@@ -26,7 +26,3 @@ The selection of model programs to be made available for adoption or adaptation 
 
 (Pub. L. 101–625, title II, §213, Nov. 28, 1990, 104 Stat. 4100.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12753, 12801 of this title.
-

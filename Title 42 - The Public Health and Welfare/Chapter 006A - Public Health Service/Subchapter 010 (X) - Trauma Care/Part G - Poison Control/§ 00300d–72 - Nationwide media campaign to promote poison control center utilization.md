@@ -6,7 +6,7 @@ The Secretary shall establish a national media campaign to educate the public an
 
 #### (b) Contract with entity
 
-The Secretary may carry out subsection (a) of this section by entering into contracts with oneor more nationally recognized media firms for the development and distribution of monthly television, radio, and newspaper public service announcements.
+The Secretary may carry out subsection (a) of this section by entering into contracts with one or more nationally recognized media firms for the development and distribution of monthly television, radio, and newspaper public service announcements.
 
 #### (c) Evaluation
 

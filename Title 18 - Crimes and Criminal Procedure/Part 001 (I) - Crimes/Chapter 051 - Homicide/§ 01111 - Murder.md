@@ -62,7 +62,3 @@ Subsec. (c). Pub. L. 108–21, §102(2), added subsec. (c).
 
 Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective respectively 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 36, 115, 351, 924, 930, 1114, 1116, 1117, 1118, 1119, 1120, 1121, 1503, 1512, 1513, 1751, 1956, 2332, 3559, 5032 of this title; title 7 section 2146; title 15 section 1825; title 21 sections 461, 675, 1041; title 28 section 540B; title 42 sections 671, 2283, 5106a, 14135a; title 49 section 46506.
-

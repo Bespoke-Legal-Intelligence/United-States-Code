@@ -22,7 +22,3 @@ Bereavement Counseling Defined.—For purposes of this section, the term “bere
 
 A prior section 1783 was renumbered section 3683 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1712A, 1781, 1782, 8111, 8111A, 8152 of this title.
-

@@ -130,7 +130,3 @@ Policy.—It is the stated policy of the United States to—
 
 &emsp;“(3) secure a permanent ban on the use of destructive fishing practices, and in particular large-scale driftnets, by persons or vessels fishing beyond the exclusive economic zone of any nation.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1826b, 1826c of this title.
-

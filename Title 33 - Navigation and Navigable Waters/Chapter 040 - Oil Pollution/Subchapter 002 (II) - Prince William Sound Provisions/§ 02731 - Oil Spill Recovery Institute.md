@@ -50,7 +50,7 @@ The Institute shall conduct research and carry out educational and demonstration
 
 #### (1) In general
 
-&emsp;The Advisory Board shall establish a scientific and technical committee, composed of specialists in matters relating to oil spill containment and cleanup technology, arctic and subarctic marine ecology, and the living resources and socioeconomics of Prince William Sound and its adjacent waters, from the University of Alaska, the Institute of Marine Science, the Prince William Sound Scienceand Technology Institute, and elsewhere in the academic community.
+&emsp;The Advisory Board shall establish a scientific and technical committee, composed of specialists in matters relating to oil spill containment and cleanup technology, arctic and subarctic marine ecology, and the living resources and socioeconomics of Prince William Sound and its adjacent waters, from the University of Alaska, the Institute of Marine Science, the Prince William Sound Science and Technology Institute, and elsewhere in the academic community.
 
 #### (2) Functions
 
@@ -129,8 +129,4 @@ Subsec. (j). Pub. L. 104–324, §1102(a)(16), (17), struck out first sentence w
 #### Termination of Advisory Boards
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2736, 2761 of this title.
 

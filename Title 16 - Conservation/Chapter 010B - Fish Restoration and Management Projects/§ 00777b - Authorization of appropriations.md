@@ -26,7 +26,3 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 
 Section 101 of act Aug. 31, 1951, ch. 375, title I, 65 Stat. 262, provided that: “For carrying out the provisions of the Act of August 9, 1950 (Public Law 681) \[this chapter\], amounts equal to the revenues described in section 3 of said Act \[this section\] and credited during the next preceding fiscal year and each fiscal year thereafter, to remain available until expended.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 777c, 777m of this title.
-

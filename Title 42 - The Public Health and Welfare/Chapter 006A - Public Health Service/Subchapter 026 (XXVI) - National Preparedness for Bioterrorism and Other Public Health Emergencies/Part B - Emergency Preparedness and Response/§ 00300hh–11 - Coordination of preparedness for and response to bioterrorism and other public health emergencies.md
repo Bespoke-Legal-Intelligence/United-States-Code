@@ -102,7 +102,7 @@
 
 #### (4) Limitation
 
-&emsp;An intermittent disaster-response appointee shall not be deemed an employee of the Department of Health and Human Services forpurposes other than those specifically set forth in this section.
+&emsp;An intermittent disaster-response appointee shall not be deemed an employee of the Department of Health and Human Services for purposes other than those specifically set forth in this section.
 
 #### (f) Rule of construction regarding use of commissioned corps
 
@@ -127,10 +127,6 @@ The civil service laws, referred to in subsec. (d)(1), are classified generally 
 For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(5), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 38 sections 1785, 7325, 8111A, 8117.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

@@ -91,10 +91,6 @@
 
 1984—Pub. L. 98–369, div. B, title VII, §2741(b), July 18, 1984, 98 Stat. 1203, added subchapter V heading and items 3551 to 3556.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3726 of this title; title 22 section 2421; title 38 section 7807; title 40 section 321; title 48 sections 1469b, 1683; title 49 sections 5334, 44308.
-
 
 ---
 

@@ -34,11 +34,11 @@
 
 #### (1) Consultations with administering authority and congressional committees
 
-&emsp;Promptly after a report by a dispute settlement panel or the Appellate Body is issued that contains findings that an action by the administering authority in a proceeding under title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] is not in conformity with the obligations of the United States under the Antidumping Agreement or the Agreement on Subsidies and Countervailing Measures, the Trade Representative shall consult with the administering authority and the congressional committees on the matter.
+&emsp;Promptly after a report by a dispute settlement panel or the Appellate Body is issuedthat contains findings that an action by the administering authority in a proceeding under title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] is not in conformity with the obligations of the United States under the Antidumping Agreement or the Agreement on Subsidies and Countervailing Measures, the Trade Representative shall consult with the administering authority and the congressional committees on the matter.
 
 #### (2) Determination by administering authority
 
-&emsp;Notwithstanding any provision of the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\], the administering authority shall, within 180 days afterreceipt of a written request from the Trade Representative, issue a determination in connection with the particular proceeding that would render the administering authority's action described in paragraph (1) not inconsistent with the findings of the panel or the Appellate Body.
+&emsp;Notwithstanding any provision of the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\], the administering authority shall, within 180 days after receipt of a written request from the Trade Representative, issue a determination in connection with the particular proceeding that would render the administering authority's action described in paragraph (1) not inconsistent with the findings of the panel or the Appellate Body.
 
 #### (3) Consultations before implementation
 
@@ -79,8 +79,4 @@ The Trade Act of 1974, referred to in subsecs. (a)(1), (4) and (c)(2)(B), is Pub
 #### Codification
 
 Section is comprised of section 129 of Pub. L. 103–465. Subsecs. (a)(7) and (e) of section 129 of Pub. L. 103–465 amended sections 2254 and 1516a, respectively, of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1516a, 2254 of this title.
 

@@ -16,15 +16,11 @@ The organization holding such hearing shall furnish the President with a summary
 
 1988—Pub. L. 100–418 amended section generally. Prior to amendment, section read as follows:
 
-“(a) In connection with any proposed trade agreement under part 1 of this subchapter or section 2133 or 2134 of this title, the President shall afford an opportunity for any interested person to present his views concerning any article on a list published pursuant to section 2151 of this title, any article which should be solisted, any concession which should be sought by the United States, or any other matter relevant to such proposed trade agreement. For this purpose, the President shall designate an agency or an interagency committee which shall, after reasonable notice, hold public hearings and prescribe regulations governing the conduct of such hearings.
+“(a) In connection with any proposed trade agreement under part 1 of this subchapter or section 2133 or 2134 of this title, the President shall afford an opportunity for any interested person to present his views concerning any article on a list published pursuant to section 2151 of this title, any article which should be so listed, any concession which should be sought by the United States, or any other matter relevant to such proposed trade agreement. For this purpose, the President shall designate an agency or an interagency committee which shall, after reasonable notice, hold public hearings and prescribe regulations governing the conduct of such hearings.
 
 “(b) The organization holding such hearings shall furnish the President with a summary thereof.”
 
 #### Delegation of Authority
 
 For delegation of functions of President under div. B of Pub. L. 107–210, amending this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2137, 2154, 2463 of this title.
 

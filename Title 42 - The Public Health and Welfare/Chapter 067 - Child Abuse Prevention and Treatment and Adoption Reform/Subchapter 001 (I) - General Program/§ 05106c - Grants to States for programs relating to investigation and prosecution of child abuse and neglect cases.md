@@ -128,7 +128,7 @@ Subsec. (b)(5). Pub. L. 102–295, §116(a)(3)(B), (D), added par. (5).
 
 Subsec. (c)(1). Pub. L. 102–295, §116(a)(4), in introductory provisions inserted “, and maintain” after “designate” and substituted “child physical abuse, child neglect, child sexual abuse and exploitation, and child maltreatment related fatalities” for “child abuse”, in subpar. (B) substituted “judges and attorneys involved in both civil and criminal court proceedings related to child abuse and neglect” for “judicial and legal officers”, in subpar. (C) inserted “, including both attorneys for children and, where such programs are in operation, court appointed special advocates”, and in subpar. (F) substituted “disabilities” for “handicaps;”.
 
-Subsec. (d). Pub. L. 102–295, §116(a)(5), in introductory provisions substituted “and at three year intervals thereafter, the State task force shall comprehensively” for “the State task force shall”, in par. (1) substituted“both civil and criminal judicial handling of cases of child abuse and neglect, particularly child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as interstate, Federal-State, and State-Tribal;” for “judicial handling of cases of child abuse, particularly child sexual abuse; and” and in par. (2) inserted “policy and training” before “recommendations”.
+Subsec. (d). Pub. L. 102–295, §116(a)(5), in introductory provisions substituted “and at three year intervals thereafter, the State task force shall comprehensively” for “the State task force shall”, in par. (1) substituted “both civil and criminal judicial handling of cases of child abuse and neglect, particularly child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as interstate, Federal-State, and State-Tribal;” for “judicial handling of cases of child abuse, particularly child sexual abuse; and” and in par. (2) inserted “policy and training” before “recommendations”.
 
 Subsec. (e)(1)(A). Pub. L. 102–295, §116(a)(6)(A), substituted “child abuse and neglect, particularly child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as interstate, Federal-State, and State-Tribal, in a manner which reduces the additional trauma to the child victim and the victim's family” for “child abuse, particularly child sexual abuse cases, in a manner which reduces the additional trauma to the child victim”.
 
@@ -137,10 +137,6 @@ Subsec. (e)(1)(B). Pub. L. 102–295, §116(a)(6)(B), which directed substitutio
 Subsec. (e)(1)(C). Pub. L. 102–295, §116(a)(6)(C), inserted “, protocols” after “regulations” and “and exploitation” after “sexual abuse”.
 
 1989—Subsec. (b)(1). Pub. L. 101–126, §3(b)(5), made technical amendments to references to section 5106a of this title to reflect renumbering of corresponding section of original act.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5106f, 10603a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

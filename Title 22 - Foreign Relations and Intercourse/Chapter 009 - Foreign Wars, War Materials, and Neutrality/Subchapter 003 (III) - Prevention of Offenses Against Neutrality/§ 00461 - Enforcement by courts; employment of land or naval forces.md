@@ -16,5 +16,5 @@ Section was formerly classified to section 26 of title 18 prior to the general r
 
 #### Prior Provisions
 
-Section was derived from R.S. §5287 (act Apr. 20, 1818, ch. 88, §8, 3 Stat. 449) which was amended by act Feb. 18, 1875, ch. 80, 18 Stat. 320, and was repealed by section 341 of the act of Mar. 4, 1909.
+Section was derived from R.S. §5287 (act Apr. 20, 1818, ch. 88, §8, 3 Stat. 449) which was amended by act Feb.18, 1875, ch. 80, 18 Stat. 320, and was repealed by section 341 of the act of Mar. 4, 1909.
 

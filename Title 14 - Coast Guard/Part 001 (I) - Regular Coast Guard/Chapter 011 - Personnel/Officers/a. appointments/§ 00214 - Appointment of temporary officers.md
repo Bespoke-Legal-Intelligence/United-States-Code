@@ -50,7 +50,3 @@ Section 2 of Pub. L. 93–283 provided that: “Paragraphs (5) and (8) of sectio
 
 Savings provisions in section 5(e) of Pub. L. 88–130 considering officers appointed with temporary commissions prior to Sept. 24, 1963, as appointed under this section, are set out as a note under section 211 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 284, 710 of this title.
-

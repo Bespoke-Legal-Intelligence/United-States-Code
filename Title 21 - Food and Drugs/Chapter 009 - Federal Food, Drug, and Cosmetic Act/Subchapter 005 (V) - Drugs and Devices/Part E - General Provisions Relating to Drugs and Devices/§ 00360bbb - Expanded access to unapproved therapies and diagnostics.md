@@ -6,7 +6,7 @@ The Secretary may, under appropriate conditions determined by the Secretary, aut
 
 #### (b) Individual patient access to investigational products intended for serious diseases
 
-Any person, acting through a physician licensed in accordance with State law, may request from a manufacturer or distributor, and any manufacturer or distributor may, after complying with the provisions of this subsection, provide to such physician an investigational drug or investigational device for the diagnosis, monitoring, or treatment of a serious disease or condition if—
+Any person, acting through a physician licensed in accordance with State law, may request from a manufacturer or distributor, andany manufacturer or distributor may, after complying with the provisions of this subsection, provide to such physician an investigational drug or investigational device for the diagnosis, monitoring, or treatment of a serious disease or condition if—
 
 &emsp;(1) the licensed physician determines that the person has no comparable or satisfactory alternative therapy available to diagnose, monitor, or treat the disease or condition involved, and that the probable risk to the person from the investigational drug or investigational device is not greater than the probable risk from the disease or condition;
 
@@ -34,7 +34,7 @@ Upon submission by a sponsor or a physician of a protocol intended to provide wi
 
 &emsp;(6) in the case of serious diseases, there is sufficient evidence of safety and effectiveness to support the use described in paragraph (1); and
 
-&emsp;(7) in the case of immediately life-threatening diseases, the available scientific evidence,taken as a whole, provides a reasonable basis to conclude that the investigational drug or investigational device may be effective for its intended use and would not expose patients to an unreasonable and significant risk of illness or injury.
+&emsp;(7) in the case of immediately life-threatening diseases, the available scientific evidence, taken as a whole, provides a reasonable basis to conclude that the investigational drug or investigational device may be effective for its intended use and would not expose patients to an unreasonable and significant risk of illness or injury.
 
 > A protocol submitted under this subsection shall be subject to the provisions of section 355(i) or 360j(g) of this title, including regulations promulgated under section 355(i) or 360j(g) of this title. The Secretary may inform national, State, and local medical associations and societies, voluntary health associations, and other appropriate persons about the availability of an investigational drug or investigational device under expanded access protocols submitted under this subsection. The information provided by the Secretary, in accordance with the preceding sentence, shall be the same type of information that is required by section 282(j)(3) of title 42.
 
@@ -51,8 +51,4 @@ In this section, the terms “investigational drug”, “investigational device
 #### Effective Date
 
 Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as an Effective Date of 1997 Amendment note under section 321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 282.
 

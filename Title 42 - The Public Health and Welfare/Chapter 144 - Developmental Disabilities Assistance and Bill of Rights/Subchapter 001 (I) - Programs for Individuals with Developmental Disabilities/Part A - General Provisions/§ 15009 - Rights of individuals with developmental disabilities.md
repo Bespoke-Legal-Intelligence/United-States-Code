@@ -46,7 +46,3 @@ The rights of individuals with developmental disabilities described in findings 
 
 (Pub. L. 106–402, title I, §109, Oct. 30, 2000, 114 Stat. 1692.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15024, 15114 of this title.
-

@@ -30,7 +30,3 @@ It shall not be a violation of this section for a State to require a telecommuni
 
 (June 19, 1934, ch. 652, title II, §253, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 70.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 252 of this title.
-

@@ -26,7 +26,7 @@ To the extent authorized by subsection (a) of this section, the Administrator sh
 
 &emsp;(6) assure that energy programs are designed and implemented in a fair and efficient manner so as to minimize hardship and inequity while assuring that the priority needs of the Nation are met;
 
-&emsp;(7) develop and oversee the implementation of equitable voluntary and mandatory energy conservation programs and promote efficiencies in the use of energy resources;
+&emsp;(7) develop and oversee the implementation of equitable voluntary and mandatory energyconservation programs and promote efficiencies in the use of energy resources;
 
 &emsp;(8) develop and recommend policies on the import and export of energy resources;
 
@@ -40,7 +40,7 @@ To the extent authorized by subsection (a) of this section, the Administrator sh
 
 #### (c) Exercise of delegated discretion concerning exemptions
 
-(1) The Administrator shall not exercise the discretion delegated to him by the President, pursuant to section 754(b) <sup>1</sup> of this title, to submit to the Congress as one energy action any amendment to the regulation under section 753(a) <sup>1</sup> of this title, pursuant to section 760a <sup>1</sup> of this title, which amendment exempts any oil, refined petroleum product, or refined product category from both the allocation and pricingprovisions of the regulation under section 753 <sup>1</sup> of this title.
+(1) The Administrator shall not exercise the discretion delegated to him by the President, pursuant to section 754(b) <sup>1</sup> of this title, to submit to the Congress as one energy action any amendment to the regulation under section 753(a) <sup>1</sup> of this title, pursuant to section 760a <sup>1</sup> of this title, which amendment exempts any oil, refined petroleum product, or refined product category from both the allocation and pricing provisions of the regulation under section 753 <sup>1</sup> of this title.
 
 (2) Nothing in this subsection shall prevent the Administrator from concurrently submitting an energy action relating to price together with an energy action relating to allocation of the same oil, refined petroleum product, or refined product category.
 

@@ -10,5 +10,5 @@ R.S. §103 derived from act Jan. 24, 1862, ch. 11, 12 Stat. 333.
 
 #### Amendments
 
-<b>1938</b>—Act June 22, 1938, reenacted section without change.
+1938—Act June 22, 1938, reenacted section without change.
 

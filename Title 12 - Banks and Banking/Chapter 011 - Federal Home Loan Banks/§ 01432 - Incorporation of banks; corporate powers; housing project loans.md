@@ -12,7 +12,7 @@ Section 2184 of title 22, referred to in subsec. (b), which related to housing p
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–102, §606(d)(1), struck out “, but, except with the prior approval of the Board, no bank building shall be bought or erected to house any such bank, or leased by such bank under any lease for such purpose which has a term of more than ten years” after “convenient for the transaction of its business”, struck out “subject to the approval of the Board” after “necessary for the transaction of its business”, substituted “and, by the board of directors of the bank, to prescribe, amend, and repeal by-laws governing the manner in which its affairs may be administered, consistent with applicable laws and regulations, as administered by the Finance Board. No officer, employee, attorney, or agent of a Federal home loan bank” for “and, by its Board of directors, to prescribe, amend, and repeal bylaws, rules, and regulations governing the manner in which its affairs may be administered; and the powers granted to it by law may be exercised and enjoyed subject to the approval of the Board. The president of a Federal Home Loan Bank may also be a member of the Board of directors thereof, but no other officer, employee, attorney, or agent of such bank,”, and, in penultimate sentence, substituted “board of directors” for “Board of directors” after “may be a member of the”.
+1999—Subsec. (a). Pub. L. 106–102, §606(d)(1), struck out “, but, except with the prior approval of the Board, no bank building shall be bought or erected to house any such bank, or leased by such bank under any lease for such purpose which has a term of more than ten years” after “convenient for the transaction of its business”, struck out “subject to the approval of the Board” after “necessary for the transaction of its business”, substituted “and, by the board of directors of the bank, to prescribe, amend, and repeal by-laws governing the manner in which its affairs may be administered, consistent with applicable laws and regulations, as administered by the Finance Board. No officer, employee, attorney, or agent of a Federal home loan bank” for “and, by its Board of directors, to prescribe, amend, and repeal bylaws, rules, and regulations governing the manner in which its affairs may be administered; and the powers granted to it by law may be exercised and enjoyed subject to the approval of the Board.The president of a Federal Home Loan Bank may also be a member of the Board of directors thereof, but no other officer, employee, attorney, or agent of such bank,”, and, in penultimate sentence, substituted “board of directors” for “Board of directors” after “may be a member of the”.
 
 Subsec. (b). Pub. L. 106–102, §606(d)(2), substituted “Federal home loan banks” for “Federal home loans banks”.
 
@@ -23,10 +23,6 @@ Subsec. (b). Pub. L. 106–102, §606(d)(2), substituted “Federal home loan ba
 1968—Pub. L. 90–448 designated existing provisions as subsec. (a) and added subsec. (b).
 
 1966—Pub. L. 89–754 substituted “but, except with the prior approval of the board, no bank building shall be bought or erected to house any such bank, or leased by such bank under any lease” for “but no bank building shall be bought or erected to house any such bank, nor shall any such bank make any lease” in second sentence.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1427 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -66,7 +66,7 @@
 
 #### (e) Report
 
-Not later than 180 days after the end of fiscal year 2005, the Comptroller General shall submitto the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives a report on the use of the authorities provided in this section. The report shall contain the following:
+Not later than 180 days after the end of fiscal year 2005, the Comptroller General shall submit to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives a report on the use of the authorities provided in this section. The report shall contain the following:
 
 &emsp;(1) An assessment of the extent to which property and services acquired using authorities provided under this section contributed to the capacity of the Federal workforce to facilitate the mission of the Department as described in section 111 of this title.
 
@@ -90,7 +90,7 @@ Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (d)(3),
 
 Section is comprised of section 833 of Pub. L. 107–296. Subsec. (c)(2) of section 833 of Pub. L. 107–296 amended section 416 of Title 41, Public Contracts.
 
-#### Section Referred to in Other Sections
+#### Change of Name
 
-This section is referred to in title 41 section 416.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

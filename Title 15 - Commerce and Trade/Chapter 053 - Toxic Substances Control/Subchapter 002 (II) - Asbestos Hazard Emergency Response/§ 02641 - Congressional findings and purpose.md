@@ -16,11 +16,11 @@ The Congress finds the following:
 
 The purpose of this subchapter is—
 
-&emsp;(1) to provide for the establishment of Federal regulations which require inspection for asbestos-containing material and implementation of appropriate response actions with respect to asbestos-containing material in the Nation's schools in a safe and complete manner;
+&emsp;(1) to provide for the establishment of Federal regulations which require inspection forasbestos-containing material and implementation of appropriate response actions with respect to asbestos-containing material in the Nation's schools in a safe and complete manner;
 
 &emsp;(2) to mandate safe and complete periodic reinspection of school buildings following response actions, where appropriate; and
 
-&emsp;(3) to require the Administrator to conduct a study to find out the extent of the danger tohuman health posed by asbestos in public and commercial buildings and the means to respond to any such danger.
+&emsp;(3) to require the Administrator to conduct a study to find out the extent of the danger to human health posed by asbestos in public and commercial buildings and the means to respond to any such danger.
 
 (Pub. L. 94–469, title II, §201, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2970.)
 

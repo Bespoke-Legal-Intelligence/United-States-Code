@@ -4,7 +4,7 @@
 
 (b) The Office shall assist agencies in the establishment of programs required under subsection (a) of this section and shall monitor the implementation of the programs. If the Office finds that any agency's program under subsection (a) of this section is not in compliance with the criteria prescribed under such subsection, it shall require the agency to take such corrective action as may be necessary to bring the program into compliance with the criteria.
 
-(c)(1) The head of an agency may grant a sabbatical to any career appointee for not to exceed 11 months in order to permit the appointee to engage in study or uncompensated work experience which will contribute to the appointee's development and effectiveness. A sabbatical shall not result in loss of, or reduction in, pay, leave to which the career appointee is otherwise entitled, credit for time or service, or performance or efficiency rating. The head of the agency may authorize in accordance with chapter 57 of this title such travel expenses (including per diem allowances) as the head of the agency may determine to be essential for the study or experience.
+(c)(1) The head of an agency may grant a sabbatical to any career appointee for not to exceed 11 months in order to permit the appointee to engage in study or uncompensated work experience which will contribute to the appointee's development and effectiveness. A sabbatical shallnot result in loss of, or reduction in, pay, leave to which the career appointee is otherwise entitled, credit for time or service, or performance or efficiency rating. The head of the agency may authorize in accordance with chapter 57 of this title such travel expenses (including per diem allowances) as the head of the agency may determine to be essential for the study or experience.
 
 (2) A sabbatical under this subsection may not be granted to any career appointee—
 
@@ -24,7 +24,7 @@
 
 (3)(A) Any career appointee in an agency may be granted a sabbatical under this subsection only if the appointee agrees, as a condition of accepting the sabbatical, to serve in the civil service upon the completion of the sabbatical for a period of 2 consecutive years.
 
-(B) Each agreement required under subparagraph (A) of this paragraph shall provide that inthe event the career appointee fails to carry out the agreement (except for good and sufficient reason as determined by the head of the agency who granted the sabbatical) the appointee shall be liable to the United States for payment of all expenses (including salary) of the sabbatical. The amount shall be treated as a debt due the United States.
+(B) Each agreement required under subparagraph (A) of this paragraph shall provide that in the event the career appointee fails to carry out the agreement (except for good and sufficient reason as determined by the head of the agency who granted the sabbatical) the appointee shall be liable to the United States for payment of all expenses (including salary) of the sabbatical. The amount shall be treated as a debt due the United States.
 
 (d)(1) The Office shall encourage and assist individuals to improve their skills and increase their contribution by service in a variety of agencies as well as by accepting temporary placements in State or local governments or in the private sector.
 
@@ -45,8 +45,4 @@ A prior section 3396, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 10
 #### Amendments
 
 1991—Subsec. (d). Pub. L. 102–175 designated existing provisions as par. (1) and added par. (2).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3151 of this title; title 2 section 611; title 10 section 1606; title 22 section 3984.
 

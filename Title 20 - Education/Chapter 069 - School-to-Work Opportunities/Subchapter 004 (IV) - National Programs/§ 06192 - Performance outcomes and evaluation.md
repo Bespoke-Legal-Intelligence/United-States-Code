@@ -48,7 +48,3 @@ Not later than September 30, 1998, the Secretaries shall complete a national eva
 
 (Pub. L. 103–239, title IV, §402, May 4, 1994, 108 Stat. 594.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6195, 6232 of this title.
-

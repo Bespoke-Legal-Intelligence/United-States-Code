@@ -72,7 +72,3 @@ Provisions similar to those in this section were contained in section 10925 of t
 
 1996—Subsec. (a). Pub. L. 104–287 substituted “December 31, 1995” for “the day before the effective date of this section”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13902 of this title.
-

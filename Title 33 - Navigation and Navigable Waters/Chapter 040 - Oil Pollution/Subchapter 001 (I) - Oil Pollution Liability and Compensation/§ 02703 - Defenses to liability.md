@@ -30,13 +30,133 @@ Subsection (a) of this section does not apply with respect to a responsible part
 
 &emsp;(3) without sufficient cause, to comply with an order issued under subsection (c) or (e) of section 1321 of this title or the Intervention on the High Seas Act (33 U.S.C. 1471 et seq.).
 
-(Pub. L. 101–380, title I, §1003, Aug. 18, 1990, 104 Stat. 491.)
+#### (d) Definition of contractual relationship
+
+#### (1) In general
+
+&emsp;For purposes of subsection (a)(3) of this section the term “contractual relationship” includes, but is not limited to, land contracts, deeds, easements, leases, or other instruments transferring title or possession, unless—
+
+&emsp;&emsp;(A) the real property on which the facility concerned is located was acquired by the responsible party after the placement of the oil on, in, or at the real property on which the facility concerned is located;
+
+&emsp;&emsp;(B) one or more of the circumstances described in subparagraph (A), (B), or (C) of paragraph (2) is established by the responsible party by a preponderance of the evidence; and
+
+&emsp;&emsp;(C) the responsible party complies with paragraph (3).
+
+#### (2) Required circumstance
+
+&emsp;The circumstances referred to in paragraph (1)(B) are the following:
+
+&emsp;&emsp;(A) At the time the responsible party acquired the real property on which the facility is located the responsible party did not know and had no reason to know that oil that is the subject of the discharge or substantial threat of discharge was located on, in, or at the facility.
+
+&emsp;&emsp;(B) The responsible party is a government entity that acquired the facility—
+
+&emsp;&emsp;&emsp;(i) by escheat;
+
+&emsp;&emsp;&emsp;(ii) through any other involuntary transfer or acquisition; or
+
+&emsp;&emsp;&emsp;(iii) through the exercise of eminent domain authority by purchase or condemnation.
+
+&emsp;&emsp;(C) The responsible party acquired the facility by inheritance or bequest.
+
+#### (3) Additional requirements
+
+&emsp;For purposes of paragraph (1)(C), the responsible party must establish by a preponderance of the evidence that the responsible party—
+
+&emsp;&emsp;(A) has satisfied the requirements of subsection (a)(3)(A) and (B) of this section;
+
+&emsp;&emsp;(B) has provided full cooperation, assistance, and facility access to the persons that are authorized to conduct removal actions, including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial removal action;
+
+&emsp;&emsp;(C) is in compliance with any land use restrictions established or relied on in connection with the removal action; and
+
+&emsp;&emsp;(D) has not impeded the effectiveness or integrity of any institutional control employed in connection with the removal action.
+
+#### (4) Reason to know
+
+#### (A) Appropriate inquiries
+
+&emsp;&emsp;To establish that the responsible party had no reason to know of the matter described in paragraph (2)(A), the responsible party must demonstrate to a court that—
+
+&emsp;&emsp;&emsp;(i) on or before the date on which the responsible party acquired the real property on which the facility is located, the responsible party carried out all appropriate inquiries, as provided in subparagraphs (B) and (D), into the previous ownership and uses of the real property on which the facility is located in accordance with generally accepted good commercial and customary standards and practices; and
+
+&emsp;&emsp;&emsp;(ii) the responsible party took reasonable steps to—
+
+&emsp;&emsp;&emsp;&emsp;(I) stop any continuing discharge;
+
+&emsp;&emsp;&emsp;&emsp;(II) prevent any substantial threat of discharge; and
+
+&emsp;&emsp;&emsp;&emsp;(III) prevent or limit any human, environmental, or natural resource exposure to any previously discharged oil.
+
+#### (B) Regulations establishing standards and practices
+
+&emsp;&emsp;Not later than 2 years after August 9, 2004, the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall by regulation establish standards and practices for the purpose of satisfying the requirement to carry out all appropriate inquiries under subparagraph (A).
+
+#### (C) Criteria
+
+&emsp;&emsp;In promulgating regulations that establish the standards and practices referred to in subparagraph (B), the Secretary shall include in such standards and practices provisions regarding each of the following:
+
+&emsp;&emsp;&emsp;(i) The results of an inquiry by an environmental professional.
+
+&emsp;&emsp;&emsp;(ii) Interviews with past and present owners, operators, and occupants of the facility and the real property on which the facility is located for the purpose of gathering information regarding the potential for oil at the facility and on the real property on which the facility is located.
+
+&emsp;&emsp;&emsp;(iii) Reviews of historical sources, such as chain of title documents, aerial photographs, building department records, and land use records, to determine previous uses and occupancies of the real property on which the facility is located since the property was first developed.
+
+&emsp;&emsp;&emsp;(iv) Searches for recorded environmental cleanup liens against the facility and the real property on which the facility is located that are filed under Federal, State, or local law.
+
+&emsp;&emsp;&emsp;(v) Reviews of Federal, State, and local government records, waste disposal records, underground storage tank records, and waste handling, generation, treatment, disposal, and spill records, concerning oil at or near the facility and on the real property on which the facility is located.
+
+&emsp;&emsp;&emsp;(vi) Visual inspections of the facility, the real property on which the facility is located, and adjoining properties.
+
+&emsp;&emsp;&emsp;(vii) Specialized knowledge or experience on the part of the responsible party.
+
+&emsp;&emsp;&emsp;(viii) The relationship of the purchase price to the value of the facility and the real property on which the facility is located, if oil was not at the facility or on the real property.
+
+&emsp;&emsp;&emsp;(ix) Commonly known or reasonably ascertainable information about the facility and the real property on which the facility is located.
+
+&emsp;&emsp;&emsp;(x) The degree of obviousness of the presence or likely presence of oil at the facility and on the real property on which the facility is located, and the ability to detect the oil by appropriate investigation.
+
+#### (D) Interim standards and practices
+
+#### (i) Real property purchased before May 31, 1997
+
+&emsp;&emsp;&emsp;With respect to real property purchased before May 31, 1997, in making a determination with respect to a responsible party described in subparagraph (A), a court shall take into account—
+
+&emsp;&emsp;&emsp;&emsp;(I) any specialized knowledge or experience on the part of the responsible party;
+
+&emsp;&emsp;&emsp;&emsp;(II) the relationship of the purchase price to the value of the facility and the real property on which the facility is located, if the oil was not at the facility or on the real property;
+
+&emsp;&emsp;&emsp;&emsp;(III) commonly known or reasonably ascertainable information about the facility and the real property on which the facility is located;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the obviousness of the presence or likely presence of oil at the facility and on the real property on which the facility is located; and
+
+&emsp;&emsp;&emsp;&emsp;(V) the ability of the responsible party to detect oil by appropriate inspection.
+
+#### (ii) Real property purchased on or after May 31, 1997
+
+&emsp;&emsp;&emsp;With respect to real property purchased on or after May 31, 1997, until the Secretary promulgates the regulations described in clause (ii), the procedures of the American Society for Testing and Materials, including the document known as “Standard E1527–97”, entitled “Standard Practice for Environmental Site Assessment: Phase I Environmental Site Assessment Process”, shall satisfy the requirements in subparagraph (A).
+
+#### (E) Site inspection and title search
+
+&emsp;&emsp;In the case of real property for residential use or other similar use purchased by a nongovernmental or noncommercial entity, inspection and title search of the facility and the real property on which the facility is located that reveal no basis for further investigation shall be considered to satisfy the requirements of this paragraph.
+
+#### (5) Previous owner or operator
+
+&emsp;Nothing in this paragraph or in subsection (a)(3) of this section shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under 2702(a) <sup>1</sup> of this title and no defense under subsection (a) of this section shall be available to such responsible party.
+
+#### (6) Limitation on defense
+
+&emsp;Nothing in this paragraph shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threat of discharge of oil which is the subject of the action relating to the facility.
+
+(Pub. L. 101–380, title I, §1003, Aug. 18, 1990, 104 Stat. 491; Pub. L. 108–293, title VII, §703(c), Aug. 9, 2004, 118 Stat. 1072.)
 
 #### References in Text
 
 The Intervention on the High Seas Act, referred to in subsec. (c)(3), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 
-#### Section Referred to in Other Sections
+This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-This section is referred to in sections 2702, 2704, 2708 of this title.
+#### Amendments
+
+2004—Subsec. (d). Pub. L. 108–293 added subsec. (d).
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

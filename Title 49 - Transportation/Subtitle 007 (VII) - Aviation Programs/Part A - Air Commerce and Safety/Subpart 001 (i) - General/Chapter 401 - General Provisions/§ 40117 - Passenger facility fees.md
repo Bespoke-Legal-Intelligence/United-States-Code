@@ -20,7 +20,7 @@ Eligible airport-related project.—The term “eligible airport-related project
 
 &emsp;&emsp;(B) A project for terminal development described in section 47110(d).
 
-&emsp;&emsp;(C) A project for costs of terminal development referred to in subparagraph (B) incurred after August 1, 1986, at an airport that did not have more than .25 percent of the total annual passenger boardings in the United States in the most recent calendar year for which data is available and at which total passenger boardings declined by at least 16 percent between calendar year 1989 and calendar year 1997.
+&emsp;&emsp;(C) A project for costs of terminal development referred to in subparagraph (B) incurred after August 1, 1986, at an airportthat did not have more than .25 percent of the total annual passenger boardings in the United States in the most recent calendar year for which data is available and at which total passenger boardings declined by at least 16 percent between calendar year 1989 and calendar year 1997.
 
 &emsp;&emsp;(D) A project for airport noise capability planning under section 47505.
 
@@ -44,7 +44,7 @@ Passenger facility revenue.—The term “passenger facility revenue” means re
 
 (b)
 
-General Authority.—(1) The Secretary of Transportation may authorize under this section an eligible agency to impose a passenger facility fee of $1, $2, or $3 on each paying passenger of an air carrier or foreign air carrier boarding an aircraft at an airport the agency controls to finance an eligible airport-related project, including making payments for debt service on indebtedness incurred to carry out the project, to be carried out in connection withthe airport or any other airport the agency controls.
+General Authority.—(1) The Secretary of Transportation may authorize under this section an eligible agency to impose a passenger facility fee of $1, $2, or $3 on each paying passenger of an air carrier or foreign air carrier boarding an aircraft at an airport the agency controls to finance an eligible airport-related project, including making payments for debt service on indebtedness incurred to carry out the project, to be carried out in connection with the airport or any other airport the agency controls.
 
 (2) A State, political subdivision of a State, or authority of a State or political subdivision that is not the eligible agency may not regulate or prohibit the imposition or collection of a passenger facility fee or the use of the passenger facility revenue.
 
@@ -162,7 +162,7 @@ Compliance.—(1) As necessary to ensure compliance with this section, the Secre
 
 (2) The Secretary periodically shall audit and review the use by an eligible agency of passenger facility revenue. After review and a public hearing, the Secretary may end any part of the authority of the agency to impose a passenger facility fee to the extent the Secretary decides that the revenue is not being used as provided in this section.
 
-(3) The Secretary may set off amounts necessary to ensure compliance with this sectionagainst amounts otherwise payable to an eligible agency under subchapter I of chapter 471 of this title if the Secretary decides a passenger facility fee is excessive or that passenger facility revenue is not being used as provided in this section.
+(3) The Secretary may set off amounts necessary to ensure compliance with this section against amounts otherwise payable to an eligible agency under subchapter I of chapter 471 of this title if the Secretary decides a passenger facility fee is excessive or that passenger facility revenue is not being used as provided in this section.
 
 (i)
 
@@ -254,7 +254,7 @@ Financial Management of Fees.—
 
 &emsp;(1)
 
-Handling of fees.—A covered air carrier shall segregate in a separate account passenger facility revenue equal to the averagemonthly liability for fees collected under this section by such carrier or any of its agents for the benefit of the eligible agencies entitled to such revenue.
+Handling of fees.—A covered air carrier shall segregate in a separate account passenger facility revenue equal to the average monthly liability for fees collected under this section by such carrier or any of its agents for the benefit of the eligible agencies entitled to such revenue.
 
 &emsp;(2)
 
@@ -472,7 +472,7 @@ Subsec. (j). Pub. L. 106–181, §135(b)(4), added subsec. (j).
 
 Subsec. (k). Pub. L. 106–181, §155(c), added subsec. (k).
 
-1996—Subsec. (a)(3)(D) to (F). Pub. L. 104–264, §142(b)(2), inserted “and” at end of subpar. (D), substituted a period for “; and” at end of subpar. (E), and struck out subpar. (F) which read as follows: “in addition to projects eligible under subparagraph (A), the construction, reconstruction, repair, or improvement of areas of an airport used for the operation of aircraft or actions to mitigate the environmental effects of such construction, reconstruction, repair, or improvement when the construction, reconstruction, repair, improvement, or action is necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990, the Clean Air Act, or the Federal Water Pollution Control Act with respect to the airport.”
+1996—Subsec. (a)(3)(D) to (F). Pub. L. 104–264, §142(b)(2), inserted “and” at end of subpar. (D), substituted a period for “; and” at end of subpar. (E), and struck out subpar. (F) which read as follows: “in addition to projects eligible under subparagraph (A), the construction, reconstruction, repair, or improvement of areas of an airport used for the operation of aircraft or actions to mitigate the environmental effects of such construction, reconstruction, repair, or improvement when the construction, reconstruction, repair, improvement, or action is necessary for compliance with theresponsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990, the Clean Air Act, or the Federal Water Pollution Control Act with respect to the airport.”
 
 Subsec. (e)(2)(B) to (D). Pub. L. 104–287 inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “for a project the Secretary does not approve under this section before October 1, 1993, if, during the fiscal year ending September 30, 1993, the amount available for obligation under subchapter II of chapter 417 of this title is less than $38,600,000, except that this clause—
 
@@ -516,7 +516,7 @@ Pub. L. 106–181, title I, §155(a), Apr. 5, 2000, 114 Stat. 88, provided that:
 
 &emsp;“(2) 15 large hub airports today are each dominated by one air carrier, with each such carrier controlling more than 50 percent of the traffic at the hub.
 
-&emsp;“(3) The General Accounting Office has found that such levels of concentration lead to higher air fares.
+&emsp;“(3) The General Accounting Office \[now Government Accountability Office\] has found that such levels of concentration lead to higher air fares.
 
 &emsp;“(4) The United States Government must take every step necessary to reduce those levels of concentration.
 
@@ -525,8 +525,4 @@ Pub. L. 106–181, title I, §155(a), Apr. 5, 2000, 114 Stat. 88, provided that:
 #### Limitation on Statutory Construction of Subsection (e)(2)(D)
 
 Section 204(a)(2) of Pub. L. 103–305 provided that: “The amendment made by paragraph (1) \[amending this section\] shall not be construed as requiring any person to refund any fee paid before the date of the enactment of this Act \[Aug. 23, 1994\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40116, 44517, 46301, 46316, 47102, 47106, 47110, 47111, 47114, 47134, 47139, 47524, 47526, 49108 of this title.
 

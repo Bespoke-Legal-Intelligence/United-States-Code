@@ -60,7 +60,7 @@ The Federal Reserve Act, referred to in subsec. (a)(1)(A)(iv), is act Dec. 23, 1
 
 The Bank Holding Company Act Amendments of 1970, referred to in subsec. (a)(1)(A)(v), is Pub. L. 91–607, Dec. 31, 1970, 84 Stat. 1760, as amended. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1841 of this title and Tables.
 
-The Bank Holding Company Act of 1956, referred to in subsec. (a)(1)(A)(vi), is act May 9, 1956, ch. 240, 70 Stat.133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in subsec. (a)(1)(A)(vi), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 The Home Owners’ Loan Act, referred to in subsec. (a)(1)(A)(vii), is act June 13, 1933, ch. 64, 48 Stat. 128, as amended, which is classified generally to chapter 12 (§1461 et seq.) of this title. For complete classification of this Act to the Code, see section 1461 of this title and Tables.
 
@@ -77,8 +77,4 @@ Subsec. (a)(2). Pub. L. 101–647, §2586(2), amended par. (2) generally. Prior 
 &emsp;“(A) arises in connection with a depository institution insured by the Federal Deposit Insurance Corporation; and
 
 &emsp;“(B) exceeds $50,000.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4225 of this title.
 

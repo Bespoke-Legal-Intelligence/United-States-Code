@@ -1,6 +1,6 @@
 ### §294. Assignment of retired Justices or judges to active duty
 
-(a) Any retired Chief Justice of the United States or Associate Justice of the SupremeCourt may be designated and assigned by the Chief Justice of the United States to perform such judicial duties in any circuit, including those of a circuit justice, as he is willing to undertake.
+(a) Any retired Chief Justice of the United States or Associate Justice of the Supreme Court may be designated and assigned by the Chief Justice of the United States to perform such judicial duties in any circuit, including those of a circuit justice, as he is willing to undertake.
 
 (b) Any judge of the United States who has retired from regular active service under section 371(b) or 372(a) of this title shall be known and designated as a senior judge and may continue to perform such judicial duties as he is willing and able to undertake, when designated and assigned as provided in subsections (c) and (d).
 
@@ -39,8 +39,4 @@ Subsec. (e). Pub. L. 85–755 reenacted subsec. (e) without change.
 #### Jurisdiction of United States Court of Customs and Patent Appeals
 
 Amendment by Pub. L. 85–755 not limiting or altering the jurisdiction of the United States Court of Customs and Patent Appeals \[now United States Court of Appeals for the Federal Circuit\], see section 7 of Pub. L. 85–755, set out as a note under section 291 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 46 of this title; title 26 section 3121; title 42 section 409.
 

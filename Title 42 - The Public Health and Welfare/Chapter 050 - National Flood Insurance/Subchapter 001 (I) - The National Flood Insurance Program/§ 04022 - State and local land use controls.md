@@ -58,9 +58,31 @@
 
 &emsp;Not later than 2 years after September 23, 1994, and not less than every 2 years thereafter, the Director shall submit a report to the Congress regarding the program under this subsection. Each report shall include an analysis of the cost-effectiveness of the program, any other accomplishments or shortcomings of the program, and any recommendations of the Director for legislation regarding the program.
 
-(Pub. L. 90–448, title XIII, §1315, Aug. 1, 1968, 82 Stat. 580; Pub. L. 91–152, title IV, §410(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§541, 580, Sept. 23, 1994, 108 Stat. 2268, 2285.)
+#### (c) Replacement of mobile homes on original sites
+
+#### (1) Community participation
+
+&emsp;The placement of any mobile home on any site shall not affect the eligibility of any community to participate in the flood insurance program under this chapter and the Flood Disaster Protection Act of 1973 (notwithstanding that such placement may fail to comply with any elevation or flood damage mitigation requirements), if—
+
+&emsp;&emsp;(A) such mobile home was previously located on such site;
+
+&emsp;&emsp;(B) such mobile home was relocated from such site because of flooding that threatened or affected such site; and
+
+&emsp;&emsp;(C) such replacement is conducted not later than the expiration of the 180-day period that begins upon the subsidence (in the area of such site) of the body of water that flooded to a level considered lower than flood levels.
+
+#### (2) Definition
+
+&emsp;For purposes of this subsection, the term “mobile home” has the meaning given such term in the law of the State in which the mobile home is located.
+
+(Pub. L. 90–448, title XIII, §1315, Aug. 1, 1968, 82 Stat. 580; Pub. L. 91–152, title IV, §410(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§541, 580, Sept. 23, 1994, 108 Stat. 2268, 2285; Pub. L. 108–264, title I, §108, June 30, 2004, 118 Stat. 724.)
+
+#### References in Text
+
+The Flood Disaster Protection Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–264 added subsec. (c).
 
 1994—Subsec. (a)(1). Pub. L. 103–325, §541(1), designated existing provisions as subsec. (a)(1) and inserted headings.
 
@@ -75,8 +97,4 @@ Subsec. (b). Pub. L. 103–325, §541(2), added subsec. (b).
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4017 of this title.
 

@@ -8,7 +8,3 @@ The Public Printer may procure, under direction of the Joint Committee on Printi
 
 Based on 44 U.S. Code, 1964 ed., §225 (June 7, 1924, ch. 303, §1, 43 Stat. 592).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3714b; title 35 section 2.
-

@@ -28,15 +28,11 @@ Nothing in this chapter shall be construed to require an individual with a disab
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, seeShort Title note set out under section 12101 of this title and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Rehabilitation Act of 1973 is classified generally to subchapter V (§790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 Title IV of this Act, referred to in subsec. (c), means title IV of Pub. L. 101–336, July 26, 1990, 104 Stat. 366, which enacted section 225 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and amended sections 152, 221, and 611 of Title 47.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 29 sections 791, 793, 794.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subchapters”.</i>
 

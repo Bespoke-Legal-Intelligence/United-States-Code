@@ -4,7 +4,3 @@ Any person claiming to be damaged by any common carrier subject to the provision
 
 (June 19, 1934, ch. 652, title II, §207, 48 Stat. 1073.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 274 of this title.
-

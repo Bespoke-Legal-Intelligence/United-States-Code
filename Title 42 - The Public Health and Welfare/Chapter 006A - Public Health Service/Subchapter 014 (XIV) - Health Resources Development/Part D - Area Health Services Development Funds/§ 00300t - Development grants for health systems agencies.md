@@ -24,7 +24,7 @@ No grant may be made under subsection (a) of this section unless an application 
 
 #### (d) Authorization of appropriations
 
-For the purpose of making payments pursuant to grants under subsection (a) of this section, there are authorized to be appropriated $25,000,000 for the fiscal year ending June 30, 1975, $75,000,000 for the fiscal year ending June 30, 1976, $120,000,000 each for the fiscal years ending September 30, 1977, and September 30, 1978, $20,000,000 for the fiscal year ending September 30, 1981, and $30,000,000 for the fiscal year ending September 30, 1982.
+For the purpose of making payments pursuant to grants under subsection (a) of this section, there are authorized to be appropriated $25,000,000 for the fiscal year ending June 30, 1975, $75,000,000 for the fiscal year ending June30, 1976, $120,000,000 each for the fiscal years ending September 30, 1977, and September 30, 1978, $20,000,000 for the fiscal year ending September 30, 1981, and $30,000,000 for the fiscal year ending September 30, 1982.
 
 (July 1, 1944, ch. 373, title XVI, §1640, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2273; amended Pub. L. 95–83, title I, §103(c), Aug. 1, 1977, 91 Stat. 383; Pub. L. 96–79, title I, §127(e), Oct. 4, 1979, 93 Stat. 629.)
 

@@ -4,7 +4,3 @@ For the purpose specified in section 124 of this title, there are authorized to 
 
 (Pub. L. 87–262, §3, Sept. 21, 1961, 75 Stat. 543.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 125, 127, 128, 129 of this title.
-

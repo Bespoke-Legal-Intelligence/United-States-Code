@@ -10,7 +10,7 @@
 
 &emsp;Each State, in the notice of termination of aid under part A of subchapter IV of this chapter sent to a family meeting the requirements of paragraph (1)—
 
-&emsp;&emsp;(A) shall notify the family of its right to extended medical assistance under this subsection and include in the notice a description of the reporting requirement of subsection (b)(2)(B)(i) of this section and of the circumstances (described in paragraph (3))under which such extension may be terminated; and
+&emsp;&emsp;(A) shall notify the family of its right to extended medical assistance under this subsection and include in the notice a description of the reporting requirement of subsection (b)(2)(B)(i) of this section and of the circumstances (described in paragraph (3)) under which such extension may be terminated; and
 
 &emsp;&emsp;(B) shall include a card or other evidence of the family's entitlement to assistance under this subchapter for the period provided in this subsection.
 
@@ -74,7 +74,7 @@
 
 #### (ii) During additional extension period
 
-&emsp;&emsp;&emsp;Each State shall require that a family receiving extended assistance under this subsection report to the State, not later than the 21st day of the 1st month and of the 4th month in the period of additional extended assistance under this subsection, on the family's gross monthly earnings and on the family's costs for such child care as is necessary for the employment of the caretaker relative in each of the 3 preceding months.
+&emsp;&emsp;&emsp;Each State shall require that a family receiving extended assistance under this subsection report to the State, not later than the 21st day of the 1st month and of the 4th month in the period of additionalextended assistance under this subsection, on the family's gross monthly earnings and on the family's costs for such child care as is necessary for the employment of the caretaker relative in each of the 3 preceding months.
 
 #### (iii) Clarification on frequency of reporting
 
@@ -114,7 +114,7 @@
 
 #### (i) Dependent children
 
-&emsp;&emsp;&emsp;With respect to a child who would cease to receive medical assistance because of subparagraph (A)(i) but who may be eligible for assistance under the State plan because the child is described in clause (i) of section 1396d(a) of this title or clause (i)(IV), (i)(VI), (i)(VII), or (ii)(IX) of section 1396a(a)(10)(A) of this title, the State may not discontinue such assistance under suchsubparagraph until the State has determined that the child is not eligible for assistance under the plan.
+&emsp;&emsp;&emsp;With respect to a child who would cease to receive medical assistance because of subparagraph (A)(i) but who may be eligible for assistance under the State plan because the child is described in clause (i) of section 1396d(a) of this title or clause (i)(IV), (i)(VI), (i)(VII), or (ii)(IX) of section 1396a(a)(10)(A) of this title, the State may not discontinue such assistance under such subparagraph until the State has determined that the child is not eligible for assistance under the plan.
 
 #### (ii) Medically needy
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;During the extension period under this subsection—
 
-&emsp;&emsp;&emsp;(i) the State plan shall offer to each family medical assistance which (subject to subparagraphs (B) and (C)) is the same amount, duration, and scope as would be made available to the family if it were still receiving aid under the plan approved under part A of subchapter IV of this chapter; and
+&emsp;&emsp;&emsp;(i) the State plan shall offer to each family medical assistance which (subject to subparagraphs (B) and (C)) is the same amount, duration, and scope as would be made available to the family if it werestill receiving aid under the plan approved under part A of subchapter IV of this chapter; and
 
 &emsp;&emsp;&emsp;(ii) the State plan may offer alternative coverage described in subparagraph (D).
 
@@ -192,7 +192,7 @@
 
 #### (C) Limit on premium
 
-&emsp;&emsp;In no case may the amount of any premium under this paragraph for a family for a month in either of the premium payment periods described in subparagraph (D)(i) exceed 3 percent of the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative) during the premium base period (as defined in subparagraph (D)(ii)).
+&emsp;&emsp;In no case may the amount of any premium under this paragraph for a family for a month in either of the premium payment periods described in subparagraph (D)(i) exceed 3 percent of the family's average gross monthly earnings (less the average monthlycosts for such child care as is necessary for the employment of the caretaker relative) during the premium base period (as defined in subparagraph (D)(ii)).
 
 #### (D) Definitions
 
@@ -321,10 +321,6 @@ For provisions that certain references to provisions of part A (§601 et seq.) o
 #### Study and Report to Congress on Impact of Medicaid Extension Provisions
 
 Section 303(c) of Pub. L. 100–485 directed Secretary of Health and Human Services to conduct a study of impact of medicaid extension provisions under this section, with particular focus on costs of such provisions and impact on welfare dependency, and report to Congress on results of such study not later than Apr. 1, 1993.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 608, 1396a, 1396d, 1396u–1 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

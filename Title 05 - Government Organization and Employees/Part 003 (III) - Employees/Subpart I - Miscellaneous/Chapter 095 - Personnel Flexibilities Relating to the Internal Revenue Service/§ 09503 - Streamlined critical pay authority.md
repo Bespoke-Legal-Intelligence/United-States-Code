@@ -32,7 +32,3 @@ The provisions of this title governing appointments in the competitive service, 
 
 The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 105–206, which was approved July 22, 1998.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9501, 9504, 9507 of this title; title 26 section 7803.
-

@@ -1,6 +1,6 @@
 ### §1546. Fraud and misuse of visas, permits, and other documents
 
-(a) Whoever knowingly forges, counterfeits, alters, or falsely makes any immigrant or nonimmigrant visa, permit, border crossing card, alien registration receipt card, or other document prescribed by statute or regulation for entry into or as evidence of authorized stay or employment in the United States, or utters, uses, attempts to use, possesses, obtains, accepts, or receives any such visa, permit, bordercrossing card, alien registration receipt card, or other document prescribed by statute or regulation for entry into or as evidence of authorized stay or employment in the United States, knowing it to be forged, counterfeited, altered, or falsely made, or to have been procured by means of any false claim or statement, or to have been otherwise procured by fraud or unlawfully obtained; or
+(a) Whoever knowingly forges, counterfeits, alters, or falsely makes any immigrant or nonimmigrant visa, permit, border crossing card, alien registration receipt card, or other document prescribed by statute or regulation for entry into or as evidence of authorized stay or employment in the United States, or utters, uses, attempts to use, possesses, obtains, accepts, or receives any such visa, permit, border crossing card, alien registration receipt card, or other document prescribed by statute or regulation for entry into or as evidence of authorized stay or employment in the United States, knowing it to be forged, counterfeited, altered, or falsely made, or to have been procured by means of any false claim or statement, or to have been otherwise procured by fraud or unlawfully obtained; or
 
 Whoever, except under direction of the Attorney General or the Commissioner of the Immigration and Naturalization Service, or other proper officer, knowingly possesses any blank permit, or engraves, sells, brings into the United States, or has in his control or possession any plate in the likeness of a plate designed for the printing of permits, or makes any print, photograph, or impression in the likeness of any immigrant or nonimmigrant visa, permit or other document required for entry into the United States, or has in his possession a distinctive paper which has been adopted by the Attorney General or the Commissioner of the Immigration and Naturalization Service for the printing of such visas, permits, or documents; or
 
@@ -48,7 +48,7 @@ Title V of the Organized Crime Control Act of 1970, referred to in subsec. (c), 
 
 1996—Subsec. (a). Pub. L. 104–208 substituted “which contains any such false statement or which fails to contain any reasonable basis in law or fact” for “containing any such false statement” in fourth par. and “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than 10 years” in concluding par.
 
-Subsec. (c). Pub. L. 104–294 inserted at end “For purposes of this section, the term ‘State’ means a State of the United States, the District of Columbia, and anycommonwealth, territory, or possession of the United States.”
+Subsec. (c). Pub. L. 104–294 inserted at end “For purposes of this section, the term ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
 
 1994—Subsec. (a). Pub. L. 103–322, §330011(p), amended directory language of Pub. L. 101–647, §3550. See 1990 Amendment note below.
 
@@ -85,10 +85,6 @@ Functions vested by law in Attorney General, Department of Justice, or any other
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 982, 1961, 2516 of this title; title 8 sections 1101, 1227, 1324a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, act Mar. 24, 1934, ch. 84, §18, as added Aug. 7, 1939, ch. 502, §5, 53 Stat. 1231, related to definitions, andhas been transferred to section 1395 of Title 22, Foreign Relations and Intercourse.
+Section, act Mar. 24, 1934, ch. 84, §18, as added Aug. 7, 1939, ch. 502, §5, 53 Stat. 1231, related to definitions, and has been transferred to section 1395 of Title 22, Foreign Relations and Intercourse.
 

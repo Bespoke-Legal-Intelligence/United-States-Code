@@ -60,7 +60,3 @@ In the second sentence, the word “adjudicating” is substituted for “in the
 
 Increases authorized under amendment by section 1(71) of Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8146 of this title.
-

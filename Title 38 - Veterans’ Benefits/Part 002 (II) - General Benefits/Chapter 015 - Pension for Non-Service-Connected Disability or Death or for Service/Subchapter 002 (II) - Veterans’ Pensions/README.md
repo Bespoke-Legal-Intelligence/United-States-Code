@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—VETERANS’ PENSIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1504, 1507 of this title.
-
 
 ---
 

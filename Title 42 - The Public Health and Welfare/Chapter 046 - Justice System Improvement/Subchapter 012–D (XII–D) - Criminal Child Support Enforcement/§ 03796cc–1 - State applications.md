@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) To request a grant under this subchapter, the chief executive of a State shall submit an application to the Director in such form and containing such information as the Director may reasonably require.
+(1) To request a grant under this subchapter, the chief executive of a State shall submit anapplication to the Director in such form and containing such information as the Director may reasonably require.
 
 (2) An application under paragraph (1) shall include assurances that Federal funds received under this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter.
 
@@ -19,8 +19,4 @@ The office designated under section 3757 of this title—
 #### Transfer of Functions
 
 Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3796cc–2, 3796cc–3, 3796cc–4 of this title.
 

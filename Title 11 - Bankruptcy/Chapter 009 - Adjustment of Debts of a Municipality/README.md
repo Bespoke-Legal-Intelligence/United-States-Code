@@ -45,10 +45,6 @@
 
 1988—Pub. L. 100–597, §11, Nov. 3, 1988, 102 Stat. 3030, added items 927 to 929 and redesignated former item 927 as 930.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 101, 103, 109, 347, 362, 365, 502, 503 of this title; title 28 section 1930.
-
 
 ---
 

@@ -34,7 +34,3 @@ The Secretary shall, as he deems appropriate, undertake any projects or activiti
 
 (Pub. L. 95–590, §6, Nov. 4, 1978, 92 Stat. 2516.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5586, 5592 of this title; title 35 section 210.
-

@@ -28,7 +28,3 @@ Minor changes were made in phraseology.
 
 Ex. Ord. No. 10361, June 12, 1952, 17 F.R. 5357, formerly set out under this section, which established the Whittier Defensive Sea Area, Alaska, was revoked by Ex. Ord. No. 11549, July 28, 1970, 35 F.R. 12191.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2332b of this title.
-

@@ -10,7 +10,3 @@ An employee may request at any time that the employee's agency—
 
 (Pub. L. 96–70, title I, §1220, Sept. 27, 1979, 93 Stat. 466.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3662 of this title.
-

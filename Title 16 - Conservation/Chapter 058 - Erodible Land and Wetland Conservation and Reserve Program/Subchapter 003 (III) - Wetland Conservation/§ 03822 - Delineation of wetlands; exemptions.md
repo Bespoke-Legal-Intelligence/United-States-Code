@@ -190,7 +190,7 @@ Subsec. (h). Pub. L. 104–127, §322(f), added subsec. (h) and struck out headi
 
 Subsec. (i). Pub. L. 104–127, §322(g), inserted before period at end “or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland”.
 
-Subsec. (j). Pub. L. 104–127, §322(h), added subsec. (j) and struck out heading and text of former subsec. (j). Text provided that technical determinations and the development of restoration and mitigation plans be made through agreement of local representative of Soil Conservation Service and representative of the Fish and Wildlife Service and required reporting of determinations and monitoring.
+Subsec. (j). Pub. L. 104–127, §322(h), added subsec. (j) and struck out heading and text of former subsec. (j). Text provided that technical determinations and the development of restoration and mitigation plans be made through agreement of local representative of Soil Conservation Service and representative of the Fishand Wildlife Service and required reporting of determinations and monitoring.
 
 Subsec. (k). Pub. L. 104–127, §322(i), added subsec. (k).
 
@@ -199,10 +199,6 @@ Subsec. (k). Pub. L. 104–127, §322(i), added subsec. (k).
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section 326 of Pub. L. 104–127, set out as a note under section 3821 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3821, 3831 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

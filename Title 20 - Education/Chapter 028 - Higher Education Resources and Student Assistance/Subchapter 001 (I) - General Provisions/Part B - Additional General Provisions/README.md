@@ -1,9 +1,5 @@
 Part B—Additional General Provisions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 42 section 1862i.
-
 
 ---
 

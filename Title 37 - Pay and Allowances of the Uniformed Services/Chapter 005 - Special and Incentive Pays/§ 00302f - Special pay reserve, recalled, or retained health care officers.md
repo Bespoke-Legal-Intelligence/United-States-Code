@@ -76,7 +76,3 @@ Special Rule for Reserve Medical Officer.—While a reserve medical officer rece
 
 Period of Applicability.—Subsection (a) shall apply during the period beginning on August 1, 1990, and ending on the first day of the first month beginning on or after the date 180 days after the end of the Persian Gulf conflict.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 303a of this title.
-

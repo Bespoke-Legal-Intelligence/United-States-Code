@@ -6,7 +6,7 @@ Every association shall make reports of condition to the Comptroller of the Curr
 
 #### (b) Payment of dividends
 
-Every association shall make to the Comptroller reports of the payment of dividends, including advance reports of dividends proposed to be declared or paid in such cases and under such conditions as the Comptroller deems necessaryto carry out the purposes of the laws relating to national banking associations in such form and at such times as he may require.
+Every association shall make to the Comptroller reports of the payment of dividends, including advance reports of dividends proposed to be declared or paid in such cases and under such conditions as the Comptroller deems necessary to carry out the purposes of the laws relating to national banking associations in such form and at such times as he may require.
 
 #### (c) Reports of affiliates; form; contents; date of making; publication; penalties
 
@@ -57,8 +57,4 @@ Amendment by Pub. L. 86–671 effective Jan. 1, 1961, see section 7 of Pub. L. 8
 #### Exception as to Transfer of Functions
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 164 of this title; title 7 section 6f; title 15 sections 78<i>o</i>–5, 78q.
 

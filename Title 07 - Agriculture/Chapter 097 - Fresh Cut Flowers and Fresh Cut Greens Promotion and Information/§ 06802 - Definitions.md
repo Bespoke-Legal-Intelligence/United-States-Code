@@ -86,7 +86,7 @@ As used in this chapter:
 
 #### (B) Exempt handler
 
-&emsp;&emsp;The term “exempt handler” means a person who would otherwise be considered to bea qualified handler, except that the annual sales by the person of cut flowers and cut greens to retailers and other exempt handlers are less than $750,000.
+&emsp;&emsp;The term “exempt handler” means a person who would otherwise be considered to be a qualified handler, except that the annual sales by the person of cut flowers and cut greens to retailers and other exempt handlers are less than $750,000.
 
 #### (C) Annual sales determined
 
@@ -172,9 +172,5 @@ As used in this chapter:
 
 #### References in Text
 
-For ratification of Compact of Free Association with the Republic of Palau, referred to in par. (12), see Proc.No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6804, 6805, 6806 of this title.
+For ratification of Compact of Free Association with the Republic of Palau, referred to in par. (12), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 

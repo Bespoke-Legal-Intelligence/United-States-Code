@@ -1,6 +1,6 @@
 ### §1722. Benefits and burdens incident to administration of functions and operations under sections 1720 and 1721
 
-All of the benefits and burdens incident to the administration of the functions and operations of the Association under sections 1720 and 1721, respectively, of this title, after allowance for related obligations of the Association, its proratedexpenses, and the like, including amounts required for the establishment of such reserves as the Secretary of Housing and Urban Development shall deem appropriate, shall inure solely to the Secretary of the Treasury, and such related earnings or other amounts as become available shall be paid annually by the Association to the Secretary of the Treasury for covering into miscellaneous receipts.
+All of the benefits and burdens incident to the administration of the functions and operations of the Association under sections 1720 and 1721, respectively, of this title, after allowance for related obligations of the Association, its prorated expenses, and the like, including amounts required for the establishment of such reserves as the Secretary of Housing and Urban Development shall deem appropriate, shall inure solely to the Secretary of the Treasury, and such related earnings or other amounts as become available shall be paid annually by the Association to the Secretary of the Treasury for covering into miscellaneous receipts.
 
 (June 27, 1934, ch. 847, title III, §307, as added Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 619; amended Pub. L. 90–448, title VIII, §802(v), (w), Aug. 1, 1968, 82 Stat. 539.)
 
@@ -19,8 +19,4 @@ A prior section 307 of act June 27, 1934, ch. 847, title III, 48 Stat. 1255; ame
 #### Effective Date of 1968 Amendment
 
 For effective date of amendment by title VIII of Pub. L. 90–448, see section 808 of Pub. L. 90–448, set out as an Effective Date note under section 1716b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1723i of this title.
 

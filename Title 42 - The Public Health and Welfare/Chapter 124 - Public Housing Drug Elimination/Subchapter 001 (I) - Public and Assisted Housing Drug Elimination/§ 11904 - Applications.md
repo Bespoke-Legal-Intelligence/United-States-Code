@@ -14,13 +14,13 @@ To receive a grant under this subchapter, a public housing agency, a public hous
 
 &emsp;The Secretary may not provide assistance under this subchapter to an applicant that is a public housing agency unless—
 
-&emsp;&emsp;(A) the agency will use the grants to continue or expand activities eligible for assistance under this subchapter, as in effect immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, in which case the Secretary shall provide preference to such applicant; except that preference under this subparagraph shall not preclude selection by the Secretary of other meritorious applications that address urgent or serious crime problems nor be construed to require continuation of activities determined by the Secretary to be unworthy of continuation; or
+&emsp;&emsp;(A) the agency will use the grants to continue or expand activities eligible for assistance under this subchapter, as in effect immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, in which case the Secretary shall provide preference to such applicant; except that preference under this subparagraph shall not precludeselection by the Secretary of other meritorious applications that address urgent or serious crime problems nor be construed to require continuation of activities determined by the Secretary to be unworthy of continuation; or
 
 &emsp;&emsp;(B) the agency is in the class established under paragraph (3).
 
 #### (3) PHAs having urgent or serious crime problems
 
-&emsp;The Secretary shall, by regulations issued after notice and opportunity for public comment, set forth criteria for establishing a class of public housing agencies that have urgent or serious crime problems. The Secretary may reserve a portion of the amount appropriated tocarry out this subchapter in each fiscal year only for grants for public housing agencies in such class, except that any amounts from such portion reserved that are not obligated to agencies in the class shall be made available only for agencies that are subject to a preference under paragraph (2)(A).
+&emsp;The Secretary shall, by regulations issued after notice and opportunity for public comment, set forth criteria for establishing a class of public housing agencies that have urgent or serious crime problems. The Secretary may reserve a portion of the amount appropriated to carry out this subchapter in each fiscal year only for grants for public housing agencies in such class, except that any amounts from such portion reserved that are not obligated to agencies in the class shall be made available only for agencies that are subject to a preference under paragraph (2)(A).
 
 #### (4) Inapplicability to federally assisted low-income housing
 
@@ -97,10 +97,6 @@ Amendment by title V of Pub. L. 105–276 effective and applicable beginning upo
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11906, 11907 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

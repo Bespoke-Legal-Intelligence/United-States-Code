@@ -16,17 +16,13 @@ The owner of an unpatented lode or placer mining claim or mill or tunnel site lo
 
 #### (c) Failure to file as constituting abandonment; defective or untimely filing
 
-The failure to file such instruments as required by subsections (a) and (b) of this sectionshall be deemed conclusively to constitute an abandonment of the mining claim or mill or tunnel site by the owner; but it shall not be considered a failure to file if the instrument is defective or not timely filed for record under other Federal laws permitting filing or recording thereof, or if the instrument is filed for record by or on behalf of some but not all of the owners of the mining claim or mill or tunnel site.
+The failure to file such instruments as required by subsections (a) and (b) of this section shall be deemed conclusively to constitute an abandonment of the mining claim or mill or tunnel site by the owner; but it shall not be considered a failure to file if the instrument is defective or not timely filed for record under other Federal laws permitting filing or recording thereof, or if the instrument is filed for record by or on behalf of some but not all of the owners of the mining claim or mill or tunnel site.
 
 #### (d) Validity of claims, waiver of assessment, etc., as unaffected
 
 Such recordation or application by itself shall not render valid any claim which would not be otherwise valid under applicable law. Nothing in this section shall be construed as a waiver of the assessment and other requirements of such law.
 
 (Pub. L. 94–579, title III, §314, Oct. 21, 1976, 90 Stat. 2769.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1621, 1732 of this title; title 30 sections 28f, 28j, 188, 242.
 
 <i><sup>1</sup></i><i> So in original. Probably should be</i>
 

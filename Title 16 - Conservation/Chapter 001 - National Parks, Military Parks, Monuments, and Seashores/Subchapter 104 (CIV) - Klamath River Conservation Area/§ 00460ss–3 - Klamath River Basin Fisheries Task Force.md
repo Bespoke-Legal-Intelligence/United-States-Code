@@ -104,11 +104,11 @@ Any Task Force member who is an officer or employee of the United States, the St
 
 #### (1) Travel expenses
 
-&emsp;While away from their homes or regular places of business in the performance of services for the Task Force, Task Force members shall be allowed travel expenses, including a per diem allowance in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed travel expenses under section 5703 of title 5. Any Task Force member who is an employee of an agency or governmental unit and is eligible for travel expenses from that agency or unit for performing services for the Task Force is not eligible for travel expenses under this paragraph.
+&emsp;While away from their homes or regular places of business in the performance of services for the Task Force, Task Force members shall be allowed travel expenses, including a per diem allowance in lieu of subsistence, inthe same manner as persons employed intermittently in the Government service are allowed travel expenses under section 5703 of title 5. Any Task Force member who is an employee of an agency or governmental unit and is eligible for travel expenses from that agency or unit for performing services for the Task Force is not eligible for travel expenses under this paragraph.
 
 #### (2) Limitation on spending authority
 
-&emsp;No money authorized to be appropriated under section 460ss–5 of this title may be usedto reimburse any agency or governmental unit (whose employees are Task Force members) for time spent by any such employee performing Task Force duties.
+&emsp;No money authorized to be appropriated under section 460ss–5 of this title may be used to reimburse any agency or governmental unit (whose employees are Task Force members) for time spent by any such employee performing Task Force duties.
 
 #### (j) Membership increase upon program expansion
 
@@ -137,10 +137,6 @@ Subsec. (i). Pub. L. 100–653, §601, substituted “Expenses” for “Limitat
 #### Special Rule
 
 Section 12(b) of Pub. L. 100–580 provided that: “The initial term of the representative appointed pursuant to section 4(c)(11) and (12) of such Act \[16 U.S.C. 460ss–3(c)(11), (12)\] (as added by the amendment made by subsection (a)) shall be for that time which is the remainder of the terms of the members of the Task Force then serving. Thereafter, the term of such representatives shall be as provided in section 4(e) of such Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460ss–1, 460ss–5 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
 

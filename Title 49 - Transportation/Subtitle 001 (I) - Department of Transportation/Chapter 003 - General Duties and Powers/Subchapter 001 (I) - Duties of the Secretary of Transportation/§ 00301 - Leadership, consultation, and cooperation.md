@@ -154,7 +154,7 @@ Ex. Ord. No. 13274, Sept. 18, 2002, 67 F.R. 59449, as amended by Ex. Ord. No. 13
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to enhance environmental stewardship and streamline the environmental review and development of transportation infrastructure projects, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The development and implementation of transportation infrastructure projects in an efficient and environmentally sound manner is essential to the well-being of the American people and a strong American economy. Executive departments and agencies (agencies) shall take appropriate actions, to theextent consistent with applicable law and available resources, to promote environmental stewardship in the Nation's transportation system and expedite environmental reviews of high-priority transportation infrastructure projects.
+Section 1. <i>Policy</i>. The development and implementation of transportation infrastructure projects in an efficient and environmentally sound manner is essential to the well-being of the American people and a strong American economy. Executive departments and agencies (agencies) shall take appropriate actions, to the extent consistent with applicable law and available resources, to promote environmental stewardship in the Nation's transportation system and expedite environmental reviews of high-priority transportation infrastructure projects.
 
 Sec. 2. <i>Actions</i>. (a) For transportation infrastructure projects, agencies shall, in support of the Department of Transportation, formulate and implement administrative, policy, and procedural mechanisms that enable each agency required by law to conduct environmental reviews (reviews) with respect to such projects to ensure completion of such reviews in a timely and environmentally responsible manner.
 
@@ -179,8 +179,4 @@ Sec. 5. <i>Preservation of Authority</i>. Nothing in this order shall be constru
 Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies, instrumentalities or entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 305 of this title.
 

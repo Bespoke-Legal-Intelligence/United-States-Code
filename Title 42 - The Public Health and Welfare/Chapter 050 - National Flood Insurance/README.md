@@ -49,9 +49,10 @@
 | [4015\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004015%20-%20Chargeable%20premium%20rates.md) | Chargeable premium rates. |
 | (a) | Establishment; terms and conditions. |
 | (b) | Considerations for rates. |
-| (c) | Rate with respect to property the construction or substantial improvement of which has been started after December 31, 1974, or effective date of initial rate map published for area in which property is located, whichever is later. |
+| (c) | Actuarial rate properties. |
 | (d) | Payment of certain sums to Director; deposits in Fund. |
 | (e) | Annual limitation on premium increases. |
+| (f) | Adjustment of premium. |
 | [4016\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004016%20-%20Financing%20provisions%3B%20issuance%20of%20notes%20or%20other%20obligations%3B%20limitation%3B%20report%20to%20Congressional%20committees%3B%20deposits%20in%20Fund.md) | Financing provisions; issuance of notes or other obligations; limitation; report to Congressional committees; deposits in Fund. |
 | [4017\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004017%20-%20National%20Flood%20Insurance%20Fund.md) | National Flood Insurance Fund. |
 | (a) | Establishment; availability. |
@@ -67,6 +68,7 @@
 | [4022\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004022%20-%20State%20and%20local%20land%20use%20controls.md) | State and local land use controls. |
 | (a) | Requirement for participation in flood insurance program. |
 | (b) | Community rating system and incentives for community floodplain management. |
+| (c) | Replacement of mobile homes on original sites. |
 | [4023\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004023%20-%20Properties%20in%20violation%20of%20State%20and%20local%20law.md) | Properties in violation of State and local law. |
 | [4024\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004024%20-%20Coordination%20with%20other%20programs.md) | Coordination with other programs. |
 | [4025\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004025%20-%20Flood%20insurance%20advisory%20committee.md) | Flood insurance advisory committee. |
@@ -83,6 +85,9 @@
 | (b) | New coverage for new construction or substantial improvements. |
 | (c) | Establishment of temporary boundaries. |
 | (d) | Loans by federally supervised, approved, regulated, or insured financial institutions. |
+| [4030\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004030%20-%20Grants%20for%20repetitive%20insurance%20claims%20properties.md) | Grants for repetitive insurance claims properties. |
+| (a) | In general. |
+| (b) | Priority for worst-case properties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -159,6 +164,19 @@
 | (a) | Studies and investigations. |
 | (b) | Extent of studies and investigations. |
 | (c) | Development of comprehensive criteria designed to encourage adoption of adequate State and local measures. |
+| [4102a](Subchapter%20003%20%28III%29%20-%20Coordination%20of%20Flood%20Insurance%20with%20Land-Management%20Programs%20in%20Flood-Prone%20Areas/%C2%A7%2004102a%20-%20Pilot%20program%20for%20mitigation%20of%20severe%20repetitive%20loss%20properties.md) | Pilot program for mitigation of severe repetitive loss properties. |
+| (a) | Authority. |
+| (b) | Severe repetitive loss property. |
+| (c) | Eligible activities. |
+| (d) | Matching requirement. |
+| (e) | Notice of mitigation program. |
+| (f) | Standards for mitigation offers. |
+| (g) | Purchase offers. |
+| (h) | Increased premiums in cases of refusal to mitigate. |
+| (i) | Discretionary actions in cases of fraudulent claims. |
+| (j) | Rules. |
+| (k) | Funding. |
+| (<i>l</i>) | Termination. |
 | [4103\.](Subchapter%20003%20%28III%29%20-%20Coordination%20of%20Flood%20Insurance%20with%20Land-Management%20Programs%20in%20Flood-Prone%20Areas/%C2%A7%2004103%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93325%2C%20title%20V%2C%20%C2%A7551%28a%29%2C%20Sept.%2023%2C%201994%2C%20108%20Stat.%202269.md) | Repealed. |
 | [4104\.](Subchapter%20003%20%28III%29%20-%20Coordination%20of%20Flood%20Insurance%20with%20Land-Management%20Programs%20in%20Flood-Prone%20Areas/%C2%A7%2004104%20-%20Flood%20elevation%20determinations.md) | Flood elevation determinations. |
 | (a) | Publication or notification of proposed flood elevation determinations. |
@@ -191,11 +209,13 @@
 | (i) | Recapture. |
 | (j) | Reports. |
 | (k) | “Community” defined. |
+| (m) | Coordination with States and communities. |
 | [4104d.](Subchapter%20003%20%28III%29%20-%20Coordination%20of%20Flood%20Insurance%20with%20Land-Management%20Programs%20in%20Flood-Prone%20Areas/%C2%A7%2004104d%20-%20National%20Flood%20Mitigation%20Fund.md) | National Flood Mitigation Fund. |
 | (a) | Establishment and availability. |
 | (b) | Credits. |
-| (c) | Investment. |
-| (d) | Report. |
+| (c) | Administrative expenses. |
+| (d) | Investment. |
+| (e) | Report. |
 | [4105\.](Subchapter%20003%20%28III%29%20-%20Coordination%20of%20Flood%20Insurance%20with%20Land-Management%20Programs%20in%20Flood-Prone%20Areas/%C2%A7%2004105%20-%20Disaster%20mitigation%20requirements%3B%20notification%20to%20flood-prone%20areas.md) | Disaster mitigation requirements; notification to flood-prone areas. |
 | (a) | Initial notification. |
 | (b) | Alternative actions of tentatively identified communities; public hearing; opportunity for submission of evidence; finality of administrative determination of existence or extent of flood hazard area. |
@@ -224,10 +244,6 @@
 | [4129\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2004129%20-%20Federal%20Insurance%20Administrator%3B%20establishment%20of%20position.md) | Federal Insurance Administrator; establishment of position. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 4012a, 4107, 5172 of this title; title 16 section 3505; title 33 section 2318; title 43 section 1600k.
 
 
 ---

@@ -4,7 +4,3 @@ The United States district courts and the District Court of the Virgin Islands a
 
 (Pub. L. 91–597, §21, Dec. 29, 1970, 84 Stat. 1632.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1049, 1051 of this title.
-

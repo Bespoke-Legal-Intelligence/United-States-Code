@@ -36,7 +36,7 @@
 
 I74legislative statements
 
-Section 1141(d) of the House amendment is derived from a comparable provision contained in the Senate amendment. However, section 1141(d)(2) of the House amendment is derived from the House bill as preferable to the Senate amendment. It is necessary for a corporation or partnership undergoing reorganization to be able to present its creditors with a fixed list of liabilities upon which the creditors or third parties can make intelligent decisions. Retaining an exception fordischarge with respect to nondischargeable taxes would leave an undesirable uncertainty surrounding reorganizations that is unacceptable. Section 1141(d)(3) is derived from the Senate amendment. Section 1141(d)(4) is likewise derived from the Senate amendment.
+Section 1141(d) of the House amendment is derived from a comparable provision contained in the Senate amendment. However, section 1141(d)(2) of the House amendment is derived from the House bill as preferable to the Senate amendment. It is necessary for a corporation or partnership undergoing reorganization to be able to present its creditors with a fixed list of liabilities upon which the creditors or third parties can make intelligent decisions. Retaining an exception for discharge with respect to nondischargeable taxes would leave an undesirable uncertainty surrounding reorganizations that is unacceptable. Section 1141(d)(3) is derived from the Senate amendment. Section 1141(d)(4) is likewise derived from the Senate amendment.
 
 #### senate report no. 95–989
 
@@ -65,8 +65,4 @@ Subsec. (c). Pub. L. 98–353, §513(b), amended subsec. (c) generally. Prior to
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 348, 523, 524, 727, 1112 of this title; title 12 section 1715z–1a.
 

@@ -70,7 +70,7 @@ Section 2397h of title 20, referred to in subsec. (a)(2), was omitted in the gen
 
 Section 2624 of this title, referred to in subsec. (d)(4), was repealed by Pub. L. 103–382, title III, §367, Oct. 20, 1994, 108 Stat. 3976. See section 7454 of Title 20, Education.
 
-The Indian Self-Determination Act, referred to in subsec. (f)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (f)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Amendments
 
@@ -85,10 +85,6 @@ Subsec. (g). Pub. L. 102–573, §104(c), amended subsec. (g) generally. Prior t
 “(2) Of the amounts appropriated under the authority of paragraph (1) for each fiscal year, the Secretary shall use at least $1,000,000 to provide grants under subsection (a) of this section for the training of nurse midwives.”
 
 Pub. L. 102–573, §104(b)(1), redesignated subsec. (f) as (g).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1616e–1, 1616g, 1621p of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

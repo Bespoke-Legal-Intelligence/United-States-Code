@@ -16,7 +16,7 @@ Orders issued pursuant to subsection (a) of this section shall contain a detaile
 
 #### (d) Findings; duration of orders
 
-Each finding made and order issued under this section shall be given promptly to the operator of the coal or other mine to which it pertains by the person making such finding or order, and all of such findings and orders shall be in writing, and shall be signed by the person making them. Any order issued pursuant to subsection (a) of this section may be modified or terminated by an authorized representative of the Secretary.Any order issued under subsection (a) or (b) of this section shall remain in effect until vacated, modified, or terminated by the Secretary, or modified or vacated by the Commission pursuant to subsection (e) of this section, or by the courts pursuant to section 816(a) of this title.
+Each finding made and order issued under this section shall be given promptly to the operator of the coal or other mine to which it pertains by the person making such finding or order, and all of such findings and orders shall be in writing, and shall be signed by the person making them. Any order issued pursuant to subsection (a) of this section may be modified or terminated by an authorized representative of the Secretary. Any order issued under subsection (a) or (b) of this section shall remain in effect until vacated, modified, or terminated by the Secretary, or modified or vacated by the Commission pursuant to subsection (e) of this section, or by the courts pursuant to section 816(a) of this title.
 
 #### (e) Reinstatement, modification, and vacatur of orders
 
@@ -33,8 +33,4 @@ Each finding made and order issued under this section shall be given promptly to
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 816, 820, 821 of this title.
 

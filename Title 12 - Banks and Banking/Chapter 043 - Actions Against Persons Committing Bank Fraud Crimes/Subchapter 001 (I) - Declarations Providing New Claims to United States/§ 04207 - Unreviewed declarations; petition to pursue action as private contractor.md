@@ -20,7 +20,3 @@ If the Attorney General decides to grant a contract, the declarant, after consul
 
 (Pub. L. 101–647, title XXV, §2567, Nov. 29, 1990, 104 Stat. 4898.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4203 of this title.
-

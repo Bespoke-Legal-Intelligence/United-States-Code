@@ -60,7 +60,7 @@ Notwithstanding any other provision of law, any loan insured under this section 
 
 #### (j) Authorization of appropriations for payment of losses
 
-Effective after the fiscal year 1981 there are authorized to be appropriated, such sums as may be necessary to cover payments incurred pursuant to subsection (e) of this section.
+Effective after the fiscal year 1981 there are authorized to be appropriated, such sums as maybe necessary to cover payments incurred pursuant to subsection (e) of this section.
 
 #### (k) Eligibility of debt obligation for purchase, etc., by Federal Financing Bank
 
@@ -82,9 +82,5 @@ Subsecs. (c) to (k). Pub. L. 96–515 added subsecs. (c) to (k).
 
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of the Interior and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with historic preservation under sections 470 to 470a, 470b, and 470c to 470w–6 of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 470a of this title.
+Enforcement functions of Secretary or other official in Department of the Interior and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with historic preservation under sections 470 to 470a, 470b, and 470c to 470w–6 of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 

@@ -8,7 +8,3 @@ Any application to the court hereunder shall be made and heard in the manner pro
 
 Act Feb. 12, 1925, ch. 213, §6, 43 Stat. 884.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 25 section 415.
-

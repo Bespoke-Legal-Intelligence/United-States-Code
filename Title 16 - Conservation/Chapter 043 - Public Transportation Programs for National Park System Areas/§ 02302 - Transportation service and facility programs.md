@@ -48,9 +48,5 @@ Section 10526(a)(9) of title 49, referred to in subsec. (g), was omitted in the 
 
 1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2304 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

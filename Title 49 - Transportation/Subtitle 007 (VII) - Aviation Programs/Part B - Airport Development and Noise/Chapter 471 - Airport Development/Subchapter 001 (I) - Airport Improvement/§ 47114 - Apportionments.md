@@ -419,7 +419,3 @@ Pub. L. 107–71, title I, §119(b), Nov. 19, 2001, 115 Stat. 629, provided that
 
 \[For definition of “airport” used in section 119(b) of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41742, 47102, 47104, 47105, 47106, 47107, 47108, 47110, 47115, 47116, 47117, 47118, 47119, 47124, 47134, 47135, 47173 of this title.
-

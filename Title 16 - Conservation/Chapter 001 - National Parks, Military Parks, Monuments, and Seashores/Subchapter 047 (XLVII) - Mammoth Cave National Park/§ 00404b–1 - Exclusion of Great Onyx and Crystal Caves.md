@@ -8,7 +8,3 @@ The Secretary of the Interior is authorized, in his discretion, to exclude the G
 
 Eventual acquisition of Great Onyx and Crystal Caves, see section 404b–2 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 404c–11 of this title.
-

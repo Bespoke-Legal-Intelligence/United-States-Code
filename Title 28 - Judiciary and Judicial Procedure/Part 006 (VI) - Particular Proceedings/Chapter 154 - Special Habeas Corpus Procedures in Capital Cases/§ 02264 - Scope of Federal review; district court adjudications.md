@@ -1,6 +1,6 @@
 ### §2264. Scope of Federal review; district court adjudications
 
-(a) Whenever a State prisoner under capital sentence files a petition for habeas corpus relief to which this chapter applies, the district court shall only consider a claim or claims that have been raised and decided on the merits in theState courts, unless the failure to raise the claim properly is—
+(a) Whenever a State prisoner under capital sentence files a petition for habeas corpus relief to which this chapter applies, the district court shall only consider a claim or claims that have been raised and decided on the merits in the State courts, unless the failure to raise the claim properly is—
 
 &emsp;(1) the result of State action in violation of the Constitution or laws of the United States;
 
@@ -11,8 +11,4 @@
 (b) Following review subject to subsections (a), (d), and (e) of section 2254, the court shall rule on the claims properly before it.
 
 (Added Pub. L. 104–132, title I, §107(a), Apr. 24, 1996, 110 Stat. 1223.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2265 of this title.
 

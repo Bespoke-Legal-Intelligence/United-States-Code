@@ -34,7 +34,3 @@ R.S. §189 was part of title IV of the Revised Statutes. The Act of July 26, 194
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 2698.
-

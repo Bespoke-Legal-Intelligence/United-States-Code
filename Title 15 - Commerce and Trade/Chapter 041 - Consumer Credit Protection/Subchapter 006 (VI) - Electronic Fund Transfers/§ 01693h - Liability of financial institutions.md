@@ -42,9 +42,5 @@ If the notice required to be posted pursuant to section 1693b(d)(3)(B)(i) of thi
 
 1999—Subsec. (d). Pub. L. 106–102 added subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1693c, 1693m of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “financial”.</i>
 

@@ -14,7 +14,3 @@ Words “civil action” were substituted for “suits in equity,” in view of 
 
 A change was made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2409a of this title.
-

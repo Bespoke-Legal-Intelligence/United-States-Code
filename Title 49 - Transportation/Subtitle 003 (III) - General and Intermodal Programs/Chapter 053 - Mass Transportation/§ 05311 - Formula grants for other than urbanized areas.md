@@ -6,7 +6,7 @@ Definition.—In this section, “recipient” includes a State authority, a loc
 
 (b)
 
-General Authority.—(1) The Secretary of Transportation may make grants for transportation projects that are included in a State program of mass transportation service projects\(including service agreements with private providers of mass transportation service) for areas other than urbanized areas. The program shall be submitted annually to the Secretary. The Secretary may approve the program only if the Secretary finds that the program provides a fair distribution of amounts in the State, including Indian reservations, and the maximum feasible coordination of mass transportation service assisted under this section with transportation service assisted by other United States Government sources.
+General Authority.—(1) The Secretary of Transportation may make grants for transportation projects that are included in a State program of mass transportation service projects (including service agreements with private providers of mass transportation service) for areas other than urbanized areas. The program shall be submitted annually to the Secretary. The Secretary may approve the program only if the Secretary finds that the program provides a fair distribution of amounts in the State, including Indian reservations, and the maximum feasible coordination of mass transportation service assisted under this section with transportation service assisted by other United States Government sources.
 
 (2) The Secretary of Transportation shall carry out a rural transportation assistance program in nonurbanized areas. In carrying out this paragraph, the Secretary may make grants and contracts for transportation research, technical assistance, training, and related support services in nonurbanized areas.
 
@@ -158,7 +158,7 @@ In subsection (b)(1), the words “The Secretary of Transportation may make gran
 
 In subsection (b)(2), the words “establish and” are omitted as executed. The word “direct” is omitted as surplus.
 
-In subsection (c), the words “for expenditure in each fiscal year” are omitted as surplus. The words “so that” are substituted for “Such sums shall be made available for expenditure for public transportation projects in areas other than urbanized areas on the basis of a formula under which” to eliminate unnecessary words. The words “will be entitled to” and “as designated by the Bureau of the Census” are omitted as surplus. The words “United States” are substituted for “all the States” for consistency in the revised title and with other titles of the Code. The words “available”, “a period of”, and “the close of” are omitted as surplus.
+In subsection (c), the words “for expenditure in each fiscal year” are omitted as surplus. The words “so that” are substituted for “Such sums shall be made available for expenditure for public transportation projects in areas other than urbanized areas on the basis of a formula under which” to eliminate unnecessary words. The words “will be entitled to” and “asdesignated by the Bureau of the Census” are omitted as surplus. The words “United States” are substituted for “all the States” for consistency in the revised title and with other titles of the Code. The words “available”, “a period of”, and “the close of” are omitted as surplus.
 
 In subsection (d), the words “included in a program under subsection (b) of this section” are substituted for 49 App.:1614(b) (1st–17th words) and “which are appropriate for areas other than urbanized areas” to eliminate unnecessary words. The words “for assistance” are added for clarity.
 
@@ -181,8 +181,4 @@ In subsection (j)(1), the text of 49 App.:1614(f) (1st sentence) is omitted as u
 1998—Pub. L. 105–178, §3014(a)(1), substituted “Formula grants” for “Financial assistance” in section catchline.
 
 Subsec. (f)(1). Pub. L. 105–178, §3014(a)(2), struck out “10 percent of the amount made available in the fiscal year ending September 30, 1993, and” before “15 percent of the amount” in introductory provisions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5302, 5307, 5310, 5319, 5323, 5327, 5331, 5333, 5334, 5336, 5338, 24305, 31138 of this title.
 

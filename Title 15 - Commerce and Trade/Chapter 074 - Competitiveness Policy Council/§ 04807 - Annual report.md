@@ -38,7 +38,7 @@ The Council shall consult with each committee to which a report is submitted und
 
 1990—Subsec. (a). Pub. L. 101–382 substituted “on March 1” for “prepare and”.
 
-#### Section Referred to in Other Sections
+#### Change of Name
 
-This section is referred to in section 4806 of this title.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

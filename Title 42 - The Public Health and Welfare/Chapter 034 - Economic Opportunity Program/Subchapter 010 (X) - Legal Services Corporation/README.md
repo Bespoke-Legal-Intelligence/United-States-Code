@@ -1,9 +1,5 @@
 ### SUBCHAPTER X—LEGAL SERVICES CORPORATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3020d, 3027, 4953, 14404 of this title.
-
 
 ---
 

@@ -1,9 +1,5 @@
 Subtitle A—Pension Benefit Guaranty Corporation
 
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in section 1371 of this title.
-
 
 ---
 

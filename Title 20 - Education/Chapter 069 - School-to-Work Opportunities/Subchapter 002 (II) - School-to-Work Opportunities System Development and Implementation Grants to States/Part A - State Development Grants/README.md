@@ -1,9 +1,5 @@
 Part A—State Development Grants
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 6144, 6162 of this title.
-
 
 ---
 

@@ -4,7 +4,3 @@ There are authorized to be appropriated such amounts as may be necessary to carr
 
 (Mar. 5, 1942, ch. 140, §3, 56 Stat. 128.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 172, 175 of this title.
-

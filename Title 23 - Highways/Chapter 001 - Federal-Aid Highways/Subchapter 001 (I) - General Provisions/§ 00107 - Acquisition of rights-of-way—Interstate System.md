@@ -28,9 +28,5 @@ The Federal-Aid Highway Act of 1956, referred to in subsec. (b), is act June 29,
 
 1998—Subsec. (c). Pub. L. 105–178 substituted “State transportation department” for “State highway department” in two places.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 1770.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

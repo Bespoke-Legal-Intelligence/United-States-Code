@@ -24,7 +24,3 @@ An eligible partnership that receives a subgrant to carry out this subpart and a
 
 (Pub. L. 89–10, title II, §2134, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1633.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6632 of this title.
-

@@ -8,7 +8,3 @@ Moneys derived by agencies of the Government from the sale of records disposed o
 
 Based on 44 U.S. Code, 1964 ed., §379 (July 7, 1943, ch. 192, §14, 57 Stat. 383).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3105 of this title.
-

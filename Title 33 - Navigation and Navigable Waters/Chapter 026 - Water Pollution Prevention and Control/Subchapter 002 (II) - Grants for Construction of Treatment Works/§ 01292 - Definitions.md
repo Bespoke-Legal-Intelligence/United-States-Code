@@ -20,7 +20,3 @@ As used in this subchapter—
 
 1977—Par. (2)(A). Pub. L. 95–217 inserted “(including land used for the storage of treated wastewater in land treatment systems prior to land application)” after “integral part of the treatment process”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1281, 1285, 1317, 1342, 1345, 1375, 1381, 1383, 1414b of this title; title 26 section 7701.
-

@@ -32,7 +32,7 @@ Section is from the Congressional Operations Appropriations Act, 2001, which is 
 
 #### Amendments
 
-<b>2003</b>—Subsecs. (a), (b)(1). Pub. L. 108–7, §1207(1), (2), inserted “Staff” after “Senate”.
+2003—Subsecs. (a), (b)(1). Pub. L. 108–7, §1207(1), (2), inserted “Staff” after “Senate”.
 
 Subsec. (c). Pub. L. 108–7, §1207(3), inserted “Staff” after “costs of the Senate”.
 

@@ -46,15 +46,21 @@ Certain other biological agents and toxins.—Whoever knowingly possesses a biol
 
 &emsp;&emsp;(F) has been adjudicated as a mental defective or has been committed to any mental institution;
 
-&emsp;&emsp;(G) is an alien (other than an alien lawfully admitted for permanent residence) who is a national of a country as to which the Secretary of State, pursuant to section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of chapter 1 of part M of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), or section 40(d) of chapter 3 of the Arms Export Control Act (22 U.S.C. 2780(d)), has made a determination (that remains in effect) that such country has repeatedly provided support for acts of international terrorism; or
+&emsp;&emsp;(G)(i) is an alien (other than an alien lawfully admitted for permanent residence) who is a national of a country as to which the Secretary of State, pursuant to section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of chapter 1 of part M of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), or section 40(d) of chapter 3 of the Arms Export Control Act (22 U.S.C. 2780(d)), has made a determination (that remains in effect) that such country has repeatedly provided support for acts of international terrorism, or (ii) acts for or on behalf of, or operates subject to the direction or control of, a government or official of a country described in this subparagraph;
 
-&emsp;&emsp;(H) has been discharged from the Armed Services of the United States under dishonorable conditions.
+&emsp;&emsp;(H) has been discharged from the Armed Services of the United States under dishonorable conditions; or
+
+&emsp;&emsp;(I) is a member of, acts for or on behalf of, or operates subject to the direction or control of, a terrorist organization as defined in section 212(a)(3)(B)(vi) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(B)(vi)).
 
 &emsp;(3) The term “alien” has the same meaning as in section 101(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3)).
 
 &emsp;(4) The term “lawfully admitted for permanent residence” has the same meaning as in section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20)).
 
-(Added Pub. L. 107–56, title VIII, §817(2), Oct. 26, 2001, 115 Stat. 385; amended Pub. L. 107–188, title II, §231(a), (b)(1), (c)(2), June 12, 2002, 116 Stat. 660, 661; Pub. L. 107–273, div. B, title IV, §4005(g), Nov. 2, 2002, 116 Stat. 1813.)
+(Added Pub. L. 107–56, title VIII, §817(2), Oct. 26, 2001, 115 Stat. 385; amended Pub. L. 107–188, title II, §231(a), (b)(1), (c)(2), June 12, 2002, 116 Stat. 660, 661; Pub. L. 107–273, div. B, title IV, §4005(g), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, §6802(c), (d)(1), Dec. 17, 2004, 118 Stat. 3767.)
+
+#### Amendment of Subsection (a)(1)
+
+<i>Pub. L. 108–458, title VI, §6802(d), Dec. 17, 2004, 118 Stat. 3767, provided that, effective at the same time that sections 73.4, 73.5, and 73.6 of title 42, Code of Federal Regulations, become effective, subsec. (a)(1) of this section is amended by striking “as a select agent in Appendix A” and all that follows and inserting the following: “as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations.” See Effective Date of 2004 Amendment note below.</i>
 
 #### References in Text
 
@@ -63,6 +69,12 @@ Section 351A of the Public Health Service Act, referred to in subsecs. (a)(1), (
 Section 212 of the Agricultural Bioterrorism Protection Act of 2002, referred to in subsecs. (b)(2) and (c)(2), is classified to section 8401 of Title 7, Agriculture.
 
 #### Amendments
+
+2004—Subsec. (d)(2)(G). Pub. L. 108–458, §6802(c)(1), designated existing provisions as cl. (i), added cl. (ii), and struck out “or” at end.
+
+Subsec. (d)(2)(H). Pub. L. 108–458, §6802(c)(2), substituted “; or” for period at end.
+
+Subsec. (d)(2)(I). Pub. L. 108–458, §6802(c)(3), added subpar. (I).
 
 2002—Pub. L. 107–273 substituted “Possession by restricted persons” for “Select agents; certain other agents” in section catchline.
 
@@ -82,7 +94,7 @@ Subsec. (d)(1). Pub. L. 107–188, §231(b)(1)(A), substituted “The term ‘se
 
 Subsec. (d)(3). Pub. L. 107–188, §231(c)(2)(B), substituted “section 101(a)(3)” for “section 1010(a)(3)”.
 
-#### Section Referred to in Other Sections
+#### Effective Date of 2004 Amendment
 
-This section is referred to in section 2332b of this title; title 7 section 8401; title 42 section 262a.
+Pub. L. 108–458, title VI, §6802(d)(2), Dec. 17, 2004, 118 Stat. 3767, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect at the same time that sections 73.4, 73.5, and 73.6 of title 42, Code of Federal Regulations, become effective \[probably means the effective date of the final rule revising sections 73.4, 73.5, and 73.6 of title 42, C.F.R., which was Apr. 18, 2005, see 70 F.R. 13294\].”
 

@@ -28,7 +28,7 @@
 
 (2) Each State shall annually audit its expenditures from payments received under section 300w–2 of this title. Such State audits shall be conducted by an entity independent of any agency administering a program funded under this part and, in so far as practical, in accordance with the Comptroller General's standards for auditing governmental organizations, programs, activities, and functions. Within 30 days following the date each audit is completed, the chief executive officer of the State shall transmit a copy of that audit to the Secretary.
 
-(3) Each State shall, after being provided by the Secretary with adequate notice and opportunity for a hearing within the State, repay tothe United States amounts found not to have been expended in accordance with the requirements of this part or the certification provided by the State under section 300w–4 of this title. If such repayment is not made, the Secretary shall, after providing the State with adequate notice and opportunity for a hearing within the State, offset such amounts against the amount of any allotment to which the State is or may become entitled under this part.
+(3) Each State shall, after being provided by the Secretary with adequate notice and opportunity for a hearing within the State, repay to the United States amounts found not to have been expended in accordance with the requirements of this part or the certification provided by the State under section 300w–4 of this title. If such repayment is not made, the Secretary shall, after providing the State with adequate notice and opportunity for a hearing within the State, offset such amounts against the amount of any allotment to which the State is or may become entitled under this part.
 
 (4) The State shall make copies of the reports and audits required by this section available for public inspection within the State.
 
@@ -61,8 +61,4 @@ Subsec. (b)(6). Pub. L. 100–607, §301(d)(2), substituted “1990” for “19
 1984—Subsec. (a)(1)(B). Pub. L. 98–555, §5(b), substituted “preventive health and preventive health services programs in the State assisted by funds from allotments under this part, including a summary of the services which were provided, the providers of such services, and the individuals who received such services” for “activities of the State under this part”.
 
 Subsec. (d). Pub. L. 98–555, §5(c), added subsec. (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300w–1, 300w–4, 9875 of this title.
 

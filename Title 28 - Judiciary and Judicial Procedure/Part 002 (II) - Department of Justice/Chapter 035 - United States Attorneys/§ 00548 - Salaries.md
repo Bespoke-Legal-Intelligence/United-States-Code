@@ -50,7 +50,7 @@ A prior section 548, act June 25, 1948, ch. 646, 62 Stat. 912, related to admini
 
 1969—Increase in the rates of pay of United States Attorneys and Assistant United States Attorneys whose annual salaries are fixed pursuant to this section, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, by amounts equal, as nearly as may be practicable, to the increases provided pursuant to section 2 of Pub. L. 91–231, which raised corresponding rates by 6 percent, see Pub. L. 91–231, set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
-1967—Pub. L. 90–206, title II, §211(a), Dec. 16, 1967, 81 Stat. 633, provided that: “The rates of basic pay of United States attorneys and assistant United States attorneys whose annual salaries are fixed pursuant to section 548 of title 28, United States Code shall be increased, effective on the effective date of section 202 ofthis title \[see Effective Date of 1967 Amendment note set out under section 5332 of Title 5\] by amounts equal, as nearly as may be practicable, to the increases provided by section 202(a) of this title \[see section 5332(a) of Title 5\] for corresponding rates of basic pay.”
+1967—Pub. L. 90–206, title II, §211(a), Dec. 16, 1967, 81 Stat. 633, provided that: “The rates of basic pay of United States attorneys and assistant United States attorneys whose annual salaries are fixed pursuant to section 548 of title 28, United States Code shall be increased, effective on the effective date of section 202 of this title \[see Effective Date of 1967 Amendment note set out under section 5332 of Title 5\] by amounts equal, as nearly as may be practicable, to the increases provided by section 202(a) of this title \[see section 5332(a) of Title 5\] for corresponding rates of basic pay.”
 
 Section 211(a) of Pub. L. 90–206 effective as of the beginning of the first pay period which begins on or after Oct. 1, 1967, see section 220(a)(2) of Pub. L. 90–206, set out as a note under section 5332 of Title 5.
 
@@ -73,8 +73,4 @@ Act Mar. 2, 1955, ch. 9, §2(b), 69 Stat. 10, provided that: “The salaries of 
 #### Salary Limitations
 
 Acts Aug. 5, 1953, ch. 328, title II, §202, 67 Stat. 375; July 2, 1954, ch. 456, title II, §202, 68 Stat. 421, which prescribed salary limitations, were repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 657.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 594 of this title.
 

@@ -4,7 +4,3 @@ The administration, protection, and development of the Fort Donelson National Ba
 
 (Pub. L. 86–738, §5, Sept. 8, 1960, 74 Stat. 876.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 428m, 428n of this title.
-

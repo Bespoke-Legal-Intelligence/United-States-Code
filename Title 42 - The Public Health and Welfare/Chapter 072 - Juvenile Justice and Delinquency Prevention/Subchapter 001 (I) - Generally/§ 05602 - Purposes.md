@@ -70,7 +70,3 @@ Amendment by Pub. L. 107–273 effective on the first day of the first fiscal ye
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set out as a note under section 5601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5662 of this title.
-

@@ -194,7 +194,3 @@ The order shall contain such other terms and conditions, consistent with this su
 
 (Pub. L. 104–127, title V, §575, Apr. 4, 1996, 110 Stat. 1077.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7482, 7485 of this title.
-

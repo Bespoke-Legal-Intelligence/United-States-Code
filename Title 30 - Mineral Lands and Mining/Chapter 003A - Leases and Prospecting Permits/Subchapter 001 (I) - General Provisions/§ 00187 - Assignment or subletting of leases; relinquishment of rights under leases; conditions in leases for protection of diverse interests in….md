@@ -8,7 +8,3 @@ No lease issued under the authority of this chapter shall be assigned or sublet,
 
 1978—Pub. L. 95–554 substituted “provisions prohibiting the employment of any child under the age of sixteen in any mine below the surface” for “provisions prohibiting the employment of any boy under the age of sixteen or the employment of any girl or woman, without regard to age, in any mine below the surface”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 187a, 187b, 275, 285 of this title; title 10 sections 7421, 7435.
-

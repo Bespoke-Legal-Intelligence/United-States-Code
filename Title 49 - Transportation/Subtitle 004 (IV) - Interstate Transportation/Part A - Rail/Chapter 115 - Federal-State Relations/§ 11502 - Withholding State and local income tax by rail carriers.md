@@ -26,7 +26,3 @@ Section 11506, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1448; Pub. L. 102–240
 
 Section 11507, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1449; Pub. L. 98–473, title II, §233, Oct. 12, 1984, 98 Stat. 2031, related to prison-made property governed by State law.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 24301 of this title.
-

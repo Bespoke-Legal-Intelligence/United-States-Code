@@ -46,7 +46,3 @@ Section 3 of Pub. L. 90–602, as amended Pub. L. 96–88, title V, §509(b), Oc
 
 Section 4 of Pub. L. 90–602 provided that: “The amendments made by section 2 of this Act \[enacting provisions now comprising sections 360hh to 360ss of this title\] shall not be construed as superseding or limiting the functions, under any other provision of law, of any officer or agency of the United States.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 360kk of this title; title 15 section 2080.
-

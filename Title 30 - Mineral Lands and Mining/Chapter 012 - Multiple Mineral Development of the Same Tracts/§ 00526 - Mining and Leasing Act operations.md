@@ -26,7 +26,3 @@ Where the same lands are being utilized for mining operations and Leasing Act op
 
 For definitions of “Leasing Act operations”, referred to in subsecs. (a) to (c) and (e); “Leasing Act minerals”, referred to in subsecs. (b) and (c); and “Leasing Act operator”, referred to in subsec. (d), see section 530 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 524 of this title.
-

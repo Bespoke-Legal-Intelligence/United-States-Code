@@ -16,7 +16,3 @@ Section is comprised of part of section 6 of act June 17, 1902. Remainder of suc
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 522, 524, 569 of this title.
-

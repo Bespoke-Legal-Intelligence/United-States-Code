@@ -1,5 +1,9 @@
 ### SUBCHAPTER V—NATIONAL PARK PASSPORT PROGRAM
 
+#### Repeal of Subchapter
+
+<i>Subchapter repealed on the date the notice required by section 6804(a)(3) of this title is published in the Federal Register, see section 6812(d)(2) of this title.</i>
+
 
 ---
 

@@ -46,7 +46,7 @@ Subject to the extent of amounts made available in appropriation Acts, the allot
 
 #### (d) Disposition of certain funds appropriated for allotments
 
-(1) Amounts described in paragraph (2) shall be allotted by the Secretary to States receivingpayments under section 300ee–11(a) of this title for the fiscal year (other than any State referred to in paragraph (2)(C)). Such amounts shall be allotted according to a formula established by the Secretary. The formula shall be equivalent to the formula described in this section under which the allotment under section 300ee–11(a) of this title for the State for the fiscal year involved was determined.
+(1) Amounts described in paragraph (2) shall be allotted by the Secretary to States receiving payments under section 300ee–11(a) of this title for the fiscal year (other than any State referred to in paragraph (2)(C)). Such amounts shall be allotted according to a formula established by the Secretary. The formula shall be equivalent to the formula described in this section under which the allotment under section 300ee–11(a) of this title for the State for the fiscal year involved was determined.
 
 (2) The amounts referred to in paragraph (1) are any amounts that are not paid to States under section 300ee–11(a) of this title as a result of—
 
@@ -79,8 +79,4 @@ Subsec. (d). Pub. L. 100–690, §2619(e)(3) \[(f)(3)\], substituted “allotmen
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300ee–11 of this title.
 

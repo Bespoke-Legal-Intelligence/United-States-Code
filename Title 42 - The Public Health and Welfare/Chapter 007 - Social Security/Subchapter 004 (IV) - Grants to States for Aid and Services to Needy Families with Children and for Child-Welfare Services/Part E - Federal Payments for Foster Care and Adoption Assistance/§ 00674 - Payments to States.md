@@ -40,7 +40,7 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 #### (b) Quarterly estimates of State's entitlement for next quarter; payments; United States’ pro rata share of amounts recovered as overpayment; allowance, disallowance, or deferral of claim
 
-(1) The Secretary shall, prior to the beginning of each quarter, estimate the amount to which a State will be entitled under subsection (a) of this section for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with subsection (a) of this section, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the differenceis expected to be derived, (B) records showing the number of children in the State receiving assistance under this part, and (C) such other investigation as the Secretary may find necessary.
+(1) The Secretary shall, prior to the beginning of each quarter, estimate the amount to which a State will be entitled under subsection (a) of this section for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with subsection (a) of this section, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, (B) records showing the number of children in the State receiving assistance under this part, and (C) such other investigation as the Secretary may find necessary.
 
 (2) The Secretary shall then pay to the State, in such installments as he may determine, the amounts so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
 
@@ -66,7 +66,7 @@ The Secretary shall treat as necessary for the proper and efficient administrati
 
 #### (d) Reduction for violation of plan requirement
 
-(1) If, during any quarter of a fiscal year, a State's program operated under this part is found, as a result of a review conducted under section 1320a–2a of this title, or otherwise, to have violated paragraph (18) or (23) of section 671(a) of this title with respect to a person or to have failed to implement a corrective action plan within a period of time not to exceed 6 months with respect to such violation, then, notwithstanding subsection (a) of this section and any regulations promulgated under section 1320a–2a(b)(3) of this title, the Secretary shall reduce the amount otherwise payable to the State under this part, for that fiscal year quarter and for any subsequent quarter of such fiscal year, until the State program is found, as a result of a subsequent review under section 1320a–2a of this title, to have implemented a corrective action plan with respect to such violation, by—
+(1) If, during any quarter of a fiscal year, a State's program operated under this part is found, as a result of a review conducted under section 1320a–2a of this title, or otherwise, to have violated paragraph (18) or (23) of section 671(a) of this title with respect to a person or to have failed to implement a corrective action plan within a period of time not to exceed 6months with respect to such violation, then, notwithstanding subsection (a) of this section and any regulations promulgated under section 1320a–2a(b)(3) of this title, the Secretary shall reduce the amount otherwise payable to the State under this part, for that fiscal year quarter and for any subsequent quarter of such fiscal year, until the State program is found, as a result of a subsequent review under section 1320a–2a of this title, to have implemented a corrective action plan with respect to such violation, by—
 
 &emsp;(A) 2 percent of such otherwise payable amount, in the case of the 1st such finding for the fiscal year with respect to the State;
 
@@ -96,7 +96,7 @@ From amounts appropriated pursuant to section 677(h)(2) of this title, the Secre
 
 (1) If the Secretary finds that a State has failed to submit to the Secretary data, as required by regulation, for the data collection system implemented under section 679 of this title, the Secretary shall, within 30 days after the date by which the data was due to be so submitted, notify the State of the failure and that payments to the State under this part will be reduced if the State fails to submit the data, as so required, within 6 months after the date the data was originally due to be so submitted.
 
-(2) If the Secretary finds that the State has failed to submit the data, as so required, by theend of the 6-month period referred to in paragraph (1) of this subsection, then, notwithstanding subsection (a) of this section and any regulations promulgated under section 1320a–2a(b)(3) of this title, the Secretary shall reduce the amounts otherwise payable to the State under this part, for each quarter ending in the 6-month period (and each quarter ending in each subsequent consecutively occurring 6-month period until the Secretary finds that the State has submitted the data, as so required), by—
+(2) If the Secretary finds that the State has failed to submit the data, as so required, by the end of the 6-month period referred to in paragraph (1) of this subsection, then, notwithstanding subsection (a) of this section and any regulations promulgated under section 1320a–2a(b)(3) of this title, the Secretary shall reduce the amounts otherwise payable to the State under this part, for each quarter ending in the 6-month period (and each quarter ending in each subsequent consecutively occurring 6-month period until the Secretary finds that the State has submitted the data, as so required), by—
 
 &emsp;(A) 1/6 of 1 percent of the total amount expended by the State for administration of foster care activities under the State plan approved under this part in the quarter so ending, in the case of the 1st 6-month period during which the failure continues; or
 
@@ -295,8 +295,4 @@ Section 9132(b) of Pub. L. 100–203 provided that: “The amendments made by su
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 673, 673b, 677 of this title; title 2 section 906.
 

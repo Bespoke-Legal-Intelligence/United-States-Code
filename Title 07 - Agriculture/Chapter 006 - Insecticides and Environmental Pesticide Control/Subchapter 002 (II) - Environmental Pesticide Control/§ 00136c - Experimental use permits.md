@@ -2,7 +2,7 @@
 
 #### (a) Issuance
 
-Any person may apply to the Administrator for an experimental use permit for a pesticide. The Administrator shall review the application.After completion of the review, but not later than one hundred and twenty days after receipt of the application and all required supporting data, the Administrator shall either issue the permit or notify the applicant of the Administrator's determination not to issue the permit and the reasons therefor. The applicant may correct the application or request a waiver of the conditions for such permit within thirty days of receipt by the applicant of such notification. The Administrator may issue an experimental use permit only if the Administrator determines that the applicant needs such permit in order to accumulate information necessary to register a pesticide under section 136a of this title. An application for an experimental use permit may be filed at any time.
+Any person may apply to the Administrator for an experimental use permit for a pesticide. The Administrator shall review the application. After completion of the review, but not later than one hundred and twenty days after receipt of the application and all required supporting data, the Administrator shall either issue the permit or notify the applicant of the Administrator's determination not to issue the permit and the reasons therefor. The applicant may correct the application or request a waiver of the conditions for such permit within thirty days of receipt by the applicant of such notification. The Administrator may issue an experimental use permit only if the Administrator determines that the applicant needs such permit in order to accumulate information necessary to register a pesticide under section 136a of this title. An application for an experimental use permit may be filed at any time.
 
 #### (b) Temporary tolerance level
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 #### Effective Date
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 136, 136a, 136j of this title.
 

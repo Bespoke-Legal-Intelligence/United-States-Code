@@ -54,7 +54,7 @@ Amounts received by a grantee under this section may be used by the grantee, dir
 
 #### (1) In general
 
-&emsp;To request a grant under this section, the chief executive of a State shall submit an application to the Attorney General at such time, in such manner, and accompanied bysuch information as the Attorney General may require.
+&emsp;To request a grant under this section, the chief executive of a State shall submit an application to the Attorney General at such time, in such manner, and accompanied by such information as the Attorney General may require.
 
 #### (2) Contents
 

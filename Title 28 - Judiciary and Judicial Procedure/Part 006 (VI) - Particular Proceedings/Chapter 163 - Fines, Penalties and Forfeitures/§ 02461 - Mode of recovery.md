@@ -1,6 +1,6 @@
 ### §2461. Mode of recovery
 
-(a) Whenever a civil fine, penalty or pecuniary forfeiture is prescribed for the violation of anAct of Congress without specifying the mode of recovery or enforcement thereof, it may be recovered in a civil action.
+(a) Whenever a civil fine, penalty or pecuniary forfeiture is prescribed for the violation of an Act of Congress without specifying the mode of recovery or enforcement thereof, it may be recovered in a civil action.
 
 (b) Unless otherwise provided by Act of Congress, whenever a forfeiture of property is prescribed as a penalty for violation of an Act of Congress and the seizure takes place on the high seas or on navigable waters within the admiralty and maritime jurisdiction of the United States, such forfeiture may be enforced by libel in admiralty but in cases of seizures on land the forfeiture may be enforced by a proceeding by libel which shall conform as near as may be to proceedings in admiralty.
 
@@ -126,5 +126,5 @@ Definition.—For purposes of subsection (a), the term ‘cost-of-living adjustm
 
 \[Pub. L. 104–134, title III, §31001(s)(2), Apr. 26, 1996, 110 Stat. 1321–373, provided that: “The first adjustment of a civil monetary penalty made pursuant to the amendment made by paragraph (1) \[amending Pub. L. 101–410, set out above\] may not exceed 10 percent of such penalty.”\]
 
-\[For authority of the Director of the Office of Management and Budget to consolidate reports required under the Federal Civil Penalties Inflation Adjustment Act of 1990, Pub. L. 101–410, set out above, to be submitted between Jan. 1, 1995, and Sept. 30, 1997, or to adjust their frequency and due dates, see section 404 of Pub. L. 103–356, set out as a note under section 501 of Title 31, Money and Finance.\]
+\[For authority of the Director of the Office of Management and Budget to consolidate reports requiredunder the Federal Civil Penalties Inflation Adjustment Act of 1990, Pub. L. 101–410, set out above, to be submitted between Jan. 1, 1995, and Sept. 30, 1997, or to adjust their frequency and due dates, see section 404 of Pub. L. 103–356, set out as a note under section 501 of Title 31, Money and Finance.\]
 

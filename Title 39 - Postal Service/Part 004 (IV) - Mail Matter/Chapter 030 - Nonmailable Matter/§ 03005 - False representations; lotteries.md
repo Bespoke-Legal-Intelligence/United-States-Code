@@ -1,6 +1,6 @@
 ### §3005. False representations; lotteries
 
-(a) Upon evidence satisfactory to the Postal Service that any person is engaged in conducting a scheme or device for obtaining money or property through the mail by means of false representations, including the mailing of matter which is nonmailable under <sup>1</sup> 3001(d), (h), (i), (j),or (k) of this title, or is engaged in conducting a lottery, gift enterprise, or scheme for the distribution of money or of real or personal property, by lottery, chance, or drawing of any kind, the Postal Service may issue an order which—
+(a) Upon evidence satisfactory to the Postal Service that any person is engaged in conducting a scheme or device for obtaining money or property through the mail by means of false representations, including the mailing of matter which is nonmailable under <sup>1</sup> 3001(d), (h), (i), (j), or (k) of this title, or is engaged in conducting a lottery, gift enterprise, or scheme for the distribution of money or of real or personal property, by lottery, chance, or drawing of any kind, the Postal Service may issue an order which—
 
 &emsp;(1) directs the postmaster of the post office at which mail arrives, addressed to such a person or to his representative, to return such mail to the sender appropriately marked as in violation of this section, if the person, or his representative, is first notified and given reasonable opportunity to be present at the receiving post office to survey the mail before the postmaster returns the mail to the sender;
 
@@ -73,10 +73,6 @@ Section 4 of Pub. L. 98–186, as amended by Pub. L. 104–66, title II, §2211(
 “(a) As soon as practicable after the date of enactment of this Act \[Nov. 30, 1983\], the Postmaster General or his designee, following consultation with representatives of the mail order industry, shall develop and carry out a program designed to provide consumer education to the public on schemes involving false representations through use of the mails, including the dissemination of information on recognizing practices commonly associated with such schemes, as well as appropriate measures which an individual may take upon receiving mail matter which the individual believes may be part of such a scheme.
 
 “(b) A summary of the activities carried out under subsection (a) shall be included in the first semiannual report submitted each year as required under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3007, 3012, 3013, 3016 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
 

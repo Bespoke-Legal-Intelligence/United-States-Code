@@ -1,9 +1,5 @@
 Part D—Credit Billing
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1602, 1604, 1632, 1640, 5721 of this title.
-
 
 ---
 

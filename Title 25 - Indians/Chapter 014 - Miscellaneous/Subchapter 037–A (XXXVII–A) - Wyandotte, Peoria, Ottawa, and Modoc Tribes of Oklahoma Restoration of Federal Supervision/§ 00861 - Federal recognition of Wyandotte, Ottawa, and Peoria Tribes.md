@@ -2,7 +2,7 @@
 
 #### (a) Extension or confirmation
 
-Federal recognition is hereby extended or confirmed with respect to the Wyandotte Indian Tribe of Oklahoma, the Ottawa Indian Tribe of Oklahoma, and the Peoria Indian Tribe of Oklahoma, the provisions of the Acts repealed by subsection (b) of this section notwithstanding.
+Federal recognition is hereby extended or confirmed with respect to the Wyandotte Indian Tribe of Oklahoma, the Ottawa Indian Tribe ofOklahoma, and the Peoria Indian Tribe of Oklahoma, the provisions of the Acts repealed by subsection (b) of this section notwithstanding.
 
 #### (b) Repeal of provisions terminating Federal supervision
 

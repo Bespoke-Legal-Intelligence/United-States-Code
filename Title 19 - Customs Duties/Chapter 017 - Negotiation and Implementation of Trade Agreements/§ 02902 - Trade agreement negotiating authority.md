@@ -128,7 +128,3 @@ This Act, referred to in subsec. (c)(5), is Pub. L. 100–418, Aug. 23, 1988, 10
 
 1990—Subsec. (c)(4). Pub. L. 101–382 substituted “paragraph (3)(C)” for “paragraph (3)(B)” and “2903(e)” for “2903(f)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2133, 2903, 2904, 3311, 3521 of this title; title 18 section 207.
-

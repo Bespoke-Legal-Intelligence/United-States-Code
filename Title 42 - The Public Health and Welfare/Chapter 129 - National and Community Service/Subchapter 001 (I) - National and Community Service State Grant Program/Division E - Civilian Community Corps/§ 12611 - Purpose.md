@@ -20,7 +20,3 @@ Section was formerly classified to section 12653 of this title prior to renumber
 
 A prior section 12611, Pub. L. 101–610, title I, §160, Nov. 16, 1990, 104 Stat. 3157, authorized Commission to make grants to Directors of Peace Corps and ACTION to carry out training and educational benefits demonstration programs, prior to repeal by Pub. L. 103–82, §104(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12619, 12622 of this title.
-

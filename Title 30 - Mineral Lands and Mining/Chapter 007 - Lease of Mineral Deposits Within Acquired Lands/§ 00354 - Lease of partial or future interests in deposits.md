@@ -4,7 +4,3 @@ Where the United States does not own all of the mineral deposits under any lands
 
 (Aug. 7, 1947, ch. 513, §5, 61 Stat. 914.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 25 section 459c.
-

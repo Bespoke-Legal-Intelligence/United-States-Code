@@ -152,7 +152,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Facilities and Equipment Reports
 
@@ -177,8 +177,4 @@ Sunset Provision.—This section shall cease to be effective beginning on the da
 #### Funding for Aviation Programs
 
 Pub. L. 106–181, title I, §106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, which related to budget resources made available from the Airport and Airway Trust Fund through fiscal year 2003, was repealed by Pub. L. 108–176, title I, §104(c), Dec. 12, 2003, 117 Stat. 2497.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44502, 44517, 48108, 48109, 48112, 48113, 48114 of this title.
 

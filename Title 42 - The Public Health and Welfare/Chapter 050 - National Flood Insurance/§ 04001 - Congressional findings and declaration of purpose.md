@@ -18,7 +18,7 @@ It is therefore the purpose of this chapter to (1) authorize a flood insurance p
 
 #### (e) Land use adjustments by State and local governments; development of proposed future construction; assistance of lending and credit institutions; relation of Federal assistance to all flood-related programs; continuing studies
 
-It is the further purpose of this chapter to (1) encourage State and local governments to make appropriate land use adjustments to constrict the development of land which is exposed to flood damage and minimize damage caused by flood losses, (2) guide the development of proposed future construction, where practicable, away from locations which are threatened by flood hazards, (3) encourage lending and credit institutions, as a matter of national policy, to assist in furthering the objectives of the flood insurance program, (4) assure that any Federal assistance provided under the program will be related closely to all flood-related programs and activities of the Federal Government, and (5) authorize continuing studies of flood hazards in order to provide for a constant reappraisal of the flood insurance program and its effect on land use requirements.
+It is the further purpose of this chapter to (1) encourage State and local governments to makeappropriate land use adjustments to constrict the development of land which is exposed to flood damage and minimize damage caused by flood losses, (2) guide the development of proposed future construction, where practicable, away from locations which are threatened by flood hazards, (3) encourage lending and credit institutions, as a matter of national policy, to assist in furthering the objectives of the flood insurance program, (4) assure that any Federal assistance provided under the program will be related closely to all flood-related programs and activities of the Federal Government, and (5) authorize continuing studies of flood hazards in order to provide for a constant reappraisal of the flood insurance program and its effect on land use requirements.
 
 #### (f) Mudslides
 
@@ -41,6 +41,10 @@ This chapter, referred to in subsecs. (d) to (f), is title XIII of Pub. L. 90–
 #### Effective Date
 
 Section 1377 of title XIII of Pub. L. 90–448 provided that: “This title \[enacting this chapter, amending section 2414 of this title, repealing sections 2401 to 2413 and 2415 to 2421 of this title, and enacting provisions set out as notes under this section\] shall take effect one hundred and twenty days following the date of its enactment \[Aug. 1, 1968\], except that the Secretary, on the basis of a finding that conditions exist necessitating the prescribing of an additional period, may prescribe a later effective date which in no event shall be more than one hundred and eighty days following such date of enactment.”
+
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–264, §1(a), June 30, 2004, 118 Stat. 712, provided that: “This Act \[enacting sections 4030 and 4102a of this title, amending sections 4011, 4015 to 4017, 4022, 4026, 4056, 4104c, 4104d, 4121, and 4127 of this title, and enacting provisions set out as notes under this section and sections 4011 and 4101 of this title\] may be cited as the ‘Bunning-Bereuter-Blumenauer Flood Insurance Reform Act of 2004’.”
 
 #### Short Title of 2003 Amendments
 
@@ -146,7 +150,7 @@ Costs and Benefits of Mapping.—The determination under subsection (a)(5) shall
 
 &emsp;&emsp;“(A) funding the mitigation assistance program under section 1366 of the National Flood Insurance Act of 1968 \[42 U.S.C. 4104c\] (as added by section 553 of this Act);
 
-&emsp;&emsp;“(B) funding the program under section 1304(b) of the National Flood Insurance Act of 1968 \[42 U.S.C. 4011(b)\] (as added by section 555(a) of this Act) that provides additional coverage under the nationalflood insurance program for compliance with land use and control measures; and
+&emsp;&emsp;“(B) funding the program under section 1304(b) of the National Flood Insurance Act of 1968 \[42 U.S.C. 4011(b)\] (as added by section 555(a) of this Act) that provides additional coverage under the national flood insurance program for compliance with land use and control measures; and
 
 &emsp;&emsp;“(C) reviewing, revising, and updating flood insurance rate maps under subsections (e) and (f) of section 1360 of the National Flood Insurance Act of 1968 \[42 U.S.C. 4101(e), (f)\] (as added by the amendment made by section 575 of this Act);
 

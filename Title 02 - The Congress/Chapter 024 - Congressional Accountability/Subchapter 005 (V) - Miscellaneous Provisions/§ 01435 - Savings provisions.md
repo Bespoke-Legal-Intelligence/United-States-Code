@@ -10,7 +10,7 @@
 
 &emsp;If a claim by an employee of the Senate or House of Representatives arises under section 1311 or 1312 of this title after the effective date of such sections, but before the opening of the Office for receipt of requests for counseling or mediation under sections 1402 and 1403 of this title, the provisions of the Government Employees Rights Act of 1991 and Rule LI of the House of Representatives relating to counseling and mediation shall remain in effect, and the employee may complete under that Act or Rule the requirements for counseling and mediation under sections 1402 and 1403 of this title. If, after counseling and mediation is completed, the Office has not yet opened for the filing of a timely complaint under section 1405 of this title, the employee may elect—
 
-&emsp;&emsp;(A) to file a complaint under section 307 of the Government Employees Rights Act of 1991 <sup>1</sup> or Rule LI of the House of Representatives, and thereafter proceed exclusively under that Act or Rule, the provisions of which shall remain in effect until the completion of all proceedings in relation to the complaint, or
+&emsp;&emsp;(A) to file a complaint under section 307 of the Government Employees Rights Act of 1991 <sup>1</sup> or Rule LI of the House of Representatives, and thereafter proceed exclusivelyunder that Act or Rule, the provisions of which shall remain in effect until the completion of all proceedings in relation to the complaint, or
 
 &emsp;&emsp;(B) to commence a civil action under section 1408 of this title.
 
@@ -28,7 +28,7 @@
 
 &emsp;If a claim by an employee of the Architect of the Capitol arises under section 1311 or 1312 of this title after the effective date of those provisions, but before the opening of the Office for receipt of requests for counseling or mediation under sections 1402 and 1403 of this title, the employee may satisfy the requirements for counseling and mediation by exhausting the requirements prescribed by the Architect of the Capitol in accordance with section 1831(e)(3) <sup>1</sup> of this title. If, after exhaustion of those requirements the Office has not yet opened for the filing of a timely complaint under section 1405 of this title, the employee may elect—
 
-&emsp;&emsp;(A) to file a charge with the General Accounting Office Personnel Appeals Boardpursuant to section 1831(e)(3) <sup>1</sup> of this title, and thereafter proceed exclusively under section 1831(e) <sup>1</sup> of this title, the provisions of which shall remain in effect until the completion of all proceedings in relation to the charge, or
+&emsp;&emsp;(A) to file a charge with the General Accounting Office Personnel Appeals Board <sup>2</sup> pursuant to section 1831(e)(3) <sup>1</sup> of this title, and thereafter proceed exclusively under section 1831(e) <sup>1</sup> of this title, the provisions of which shall remain in effect until the completion of all proceedings in relation to the charge, or
 
 &emsp;&emsp;(B) to commence a civil action under section 1408 of this title.
 
@@ -52,5 +52,11 @@ Section 1207a of this title, referred to in subsec. (a)(3), was repealed, except
 
 Section 1831(e) of this title, referred to in subsec. (b), was repealed, except as provided in this section, by Pub. L. 104–1, title V, §504(c)(1), Jan. 23, 1995, 109 Stat. 41.
 
+#### Change of Name
+
+General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See Change of Name note below.</i>
 

@@ -8,7 +8,7 @@
 
 (2) Any intermediate care facility for the mentally retarded which is dissatisfied with a determination by the Secretary that it no longer qualifies as a <sup>1</sup> intermediate care facility for the mentally retarded for purposes of this subchapter, shall be entitled to a hearing by the Secretary to the same extent as is provided in section 405(b) of this title and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, except that, in so applying such sections and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively. Any agreement between such facility and the State agency shall remain in effect until the period for filing a request for a hearing has expired or, if a request has been filed, until a decision has been made by the Secretary; except that the agreement shall not be extended if the Secretary makes a written determination, specifying the reasons therefor, that the continuation of provider status constitutes an immediate and serious threat to the health and safety of patients, and the Secretary certifies that the facility has been notified of its deficiencies and has failed to correct them.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1910, as added and amended Pub. L. 92–603, title II, §§249A(a), 278(b)(12), Oct. 30, 1972, 86 Stat. 1426, 1454; Pub. L. 95–210, §2(d), Dec. 13, 1977, 91 Stat. 1489; Pub. L. 96–499, title IX, §916(b)(2), Dec. 5, 1980, 94 Stat. 2624; Pub. L. 100–203, title IV, §4212(e)(3), Dec. 22, 1987, 101 Stat. 1330–213; Pub. L. 100–360, title IV, §411(<i>l</i>)(6)(F), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(J), Oct. 13, 1988, 102 Stat. 2423; Pub. L. 101–239, title VI, §6901(d)(5), Dec. 19, 1989, 103 Stat. 2301; Pub. L. 103–296, title I, §108(d)(4), Aug. 15, 1994, 108 Stat. 1486; Pub. L.106–113, div. B, §1000(a)(6) \[title VI, §608(n)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397.)
+(Aug. 14, 1935, ch. 531, title XIX, §1910, as added and amended Pub. L. 92–603, title II, §§249A(a), 278(b)(12), Oct. 30, 1972, 86 Stat. 1426, 1454; Pub. L. 95–210, §2(d), Dec. 13, 1977, 91 Stat. 1489; Pub. L. 96–499, title IX, §916(b)(2), Dec. 5, 1980, 94 Stat. 2624; Pub. L. 100–203, title IV, §4212(e)(3), Dec. 22, 1987, 101 Stat. 1330–213; Pub. L. 100–360, title IV, §411(<i>l</i>)(6)(F), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(J), Oct. 13, 1988, 102 Stat. 2423; Pub. L. 101–239, title VI, §6901(d)(5), Dec. 19, 1989, 103 Stat. 2301; Pub. L. 103–296, title I, §108(d)(4), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(n)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397.)
 
 #### Amendments
 
@@ -55,10 +55,6 @@ Amendment by Pub. L. 95–210 applicable to medical assistance provided, under a
 #### Effective Date
 
 Section effective with respect to agreements filed with Secretary under section 1395cc of this title by skilled nursing facilities before, on, or after Oct. 30, 1972, but accepted by him on or after such date, see section 249A(e) of Pub. L. 92–603, set out as an Effective Date of 1972 Amendment note under section 1395cc of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1396r–3 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

@@ -66,7 +66,7 @@ Project selection.—In selecting projects to be conducted under this subsection
 
 Applicability of stevenson-wydler technology innovation act.—The research, development, or utilization of any technology pursuant to an agreement under the provisions of this subsection, including the terms under which technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980.
 
-(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18,1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325.)
+(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325.)
 
 #### References in Text
 
@@ -138,7 +138,7 @@ Terms of Agreement.—The agreement under subsection (a) shall provide that—
 
 &emsp;“(1) the Transportation Research Board, in conducting the study, shall consider—
 
-&emsp;&emsp;“(A) in consultation with the National Transportation Safety Board, the Bureau of TransportationStatistics, and other relevant entities, available crash injury data;
+&emsp;&emsp;“(A) in consultation with the National Transportation Safety Board, the Bureau of Transportation Statistics, and other relevant entities, available crash injury data;
 
 &emsp;&emsp;“(B) vehicle design and driver training requirements, routing, and operational factors that affect safety; and
 
@@ -270,7 +270,7 @@ Regulations.—The Secretary may issue regulations to assist States in implement
 
 “(g)
 
-Report.—Not later than 30 months after the date of the enactment of this Act \[Nov. 18, 1988\], the Secretary shall prepare and transmit to Congress a comprehensive report setting forth the results of the pilot program conducted under this section. Such report shall include any recommendations of the Secretary concerning the desirability and implementation of a system for random testing of such operators of motor vehicles.
+Report.—Not later than 30 months after the date of the enactment of this Act \[Nov. 18, 1988\], the Secretary shall prepare and transmit to Congress a comprehensive report setting forth the results of the pilot program conducted under this section. Such report shall include any recommendations of the Secretaryconcerning the desirability and implementation of a system for random testing of such operators of motor vehicles.
 
 “(h)
 
@@ -317,8 +317,4 @@ Section 226(b) of Pub. L. 93–87 provided that: “For the purpose of carrying 
 #### Authorization of Additional Appropriations
 
 Authorization of appropriation of additional sum of $10,000,000 for the fiscal year ending June 30, 1967, $20,000,000 for the fiscal year ending June 30, 1968, and $25,000,000 for the fiscal year ending June 30, 1969, for the purpose of carrying out this section and section 307(a) of this title, see section 105 of Pub. L. 89–564, set out as a note under section 307 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 110, 402 of this title.
 

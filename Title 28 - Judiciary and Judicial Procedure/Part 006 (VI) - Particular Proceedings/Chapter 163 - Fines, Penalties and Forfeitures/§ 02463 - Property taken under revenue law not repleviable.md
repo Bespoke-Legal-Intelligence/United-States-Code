@@ -10,7 +10,3 @@ Based on title 28, U.S.C., 1940 ed., §747 (R.S. §934).
 
 Changes were made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 7437.
-

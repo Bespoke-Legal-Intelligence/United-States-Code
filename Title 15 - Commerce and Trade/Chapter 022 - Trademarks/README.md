@@ -97,6 +97,7 @@
 | (b) | Treble damages for use of counterfeit mark. |
 | (c) | Statutory damages for use of counterfeit marks. |
 | (d) | Statutory damages for violation of section 1125(d)(1). |
+| (e) | Rebuttable presumption of willful violation. |
 | [1118\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001118%20-%20Destruction%20of%20infringing%20articles.md) | Destruction of infringing articles. |
 | [1119\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001119%20-%20Power%20of%20court%20over%20registration.md) | Power of court over registration. |
 | [1120\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001120%20-%20Civil%20liability%20for%20false%20or%20fraudulent%20registration.md) | Civil liability for false or fraudulent registration. |
@@ -180,15 +181,11 @@
 
 #### Effective Date
 
-This chapter, act July 5, 1946, ch. 540, 60 Stat. 427, became effective one year from July 5, 1946, and repealed chapter 3 of this title as of that date. See notes under section 1051 of this title.
+This chapter, act July 5, 1946, ch. 540, 60 Stat. 427, became effective one year from July 5, 1946, and repealedchapter 3 of this title as of that date. See notes under section 1051 of this title.
 
 #### Prior Laws
 
 The Trade-Mark Act of 1905 superseded the Trade-Mark Act of Mar. 3, 1881, ch. 138, 21 Stat. 502, entitled “An Act to authorize the registration of trade-marks and protect the same,” and also act Aug. 5, 1882, ch. 393, 22 Stat. 298, entitled “An Act relating to the registration of trade marks”. Former section 109 of this title repealed all inconsistent acts and parts of acts, except so far as they might apply to certificates of registration issued under the Trade-Mark Act of Mar. 3, 1881, ch. 138, and act Aug. 5, 1882, ch. 393.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 1129 of this title; title 18 section 2320; title 19 section 1337; title 36 section 220506; title 48 section 1643.
 
 
 ---

@@ -48,7 +48,7 @@ The objectives of the geologic mapping program shall include—
 
 &emsp;(1) determining the Nation's geologic framework through systematic development of geologic maps at scales appropriate to the geologic setting and the perceived applications, such maps to be contributed to the national geologic map data base;
 
-&emsp;(2) development of a complementary national geophysical-map data base, geochemical-map data base, and a geochronologic and paleontologic data base that providevalue-added descriptive and interpretative information to the geologic-map data base;
+&emsp;(2) development of a complementary national geophysical-map data base, geochemical-map data base, and a geochronologic and paleontologic data base that provide value-added descriptive and interpretative information to the geologic-map data base;
 
 &emsp;(3) application of cost-effective mapping techniques that assemble, produce, translate and disseminate geologic-map information and that render such information of greater application and benefit to the public; and
 
@@ -148,13 +148,13 @@ The objectives of the geologic mapping program shall include—
 
 #### (C) Use of funds
 
-&emsp;&emsp;The Survey and recipients of grants under the education component shall not use morethan 15.25 percent of the Federal funds made available under the education component for any fiscal year to pay indirect, servicing, or program management charges.
+&emsp;&emsp;The Survey and recipients of grants under the education component shall not use more than 15.25 percent of the Federal funds made available under the education component for any fiscal year to pay indirect, servicing, or program management charges.
 
 #### (D) Federal share
 
 &emsp;&emsp;The Federal share of the cost of activities under the education component for any fiscal year shall not exceed 50 percent.
 
-(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720.)
+(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat.4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720.)
 
 #### Amendments
 
@@ -217,8 +217,4 @@ Subsec. (d)(4). Pub. L. 105–36, §3(b)(4)(D), added par. (4) and struck out fo
 > Investigations conducted under the geologic mapping education component shall be integrated with the other mapping components of the geologic mapping program, and shall respond to priorities identified for those components.”
 
 1994—Subsec. (b)(1)(A), (C). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 31b, 31d, 31f, 31g, 31h of this title.
 

@@ -38,7 +38,3 @@ Subsec. (b). Pub. L. 102–325, §461(c), amended subsec. (b) generally. Prior t
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1087bb, 1087cc, 1087ee of this title.
-

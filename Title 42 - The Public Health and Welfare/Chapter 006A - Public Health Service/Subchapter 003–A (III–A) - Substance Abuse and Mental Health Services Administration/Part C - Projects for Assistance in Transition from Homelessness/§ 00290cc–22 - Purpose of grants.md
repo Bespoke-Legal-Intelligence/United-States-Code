@@ -118,7 +118,3 @@ A prior section 522 of act July 1, 1944, was renumbered section 543 by section 6
 
 1990—Pub. L. 101–645 amended section generally, substituting provisions relating to purpose of grants for provisions relating to requirement of submission of application containing certain agreements.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 290cc–21, 290cc–23, 290cc–25, 290cc–27, 290cc–31, 290cc–34, 290cc–35 of this title.
-

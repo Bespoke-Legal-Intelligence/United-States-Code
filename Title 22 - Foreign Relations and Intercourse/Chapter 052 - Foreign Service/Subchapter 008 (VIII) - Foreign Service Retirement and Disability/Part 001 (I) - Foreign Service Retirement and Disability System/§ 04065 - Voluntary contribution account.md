@@ -30,9 +30,5 @@ A voluntary contribution account shall be paid in a lump sum following receipt o
 
 In subsec. (a), “February 15, 1981” substituted for “the effective date of this Act” pursuant to section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4061, 4063 of this title.
-
 <i><sup>1</sup></i><i> See Amendment of Section note below.</i>
 

@@ -54,7 +54,3 @@ In subsection (c), the words “Director of the Office of Management and Budget�
 
 In subsection (e), the words “beyond such liability presently existing by virtue of any other law” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3712a.
-

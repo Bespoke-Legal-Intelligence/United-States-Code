@@ -70,7 +70,7 @@ Agency regulations.—The regulations issued under paragraph (1) shall be the sa
 
 &emsp;&emsp;(A) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section; and
 
-&emsp;&emsp;(B) except that the President or designee may, at the discretion of the President ordesignee, issue regulations to implement a provision of section 19 of the Occupational Safety and Health Act of 1970 that applies to agencies or employees of the executive branch of the Federal Government in lieu of an analogous statutory provision referred to in subsection (a) or (b), if the issuance of such regulations—
+&emsp;&emsp;(B) except that the President or designee may, at the discretion of the President or designee, issue regulations to implement a provision of section 19 of the Occupational Safety and Health Act of 1970 that applies to agencies or employees of the executive branch of the Federal Government in lieu of an analogous statutory provision referred to in subsection (a) or (b), if the issuance of such regulations—
 
 &emsp;&emsp;&emsp;(i) would be equally effective for the implementation of the rights and protections under this section; and
 
@@ -97,8 +97,4 @@ The Occupational Safety and Health Act of 1970, referred to in subsecs. (a) to (
 #### Effective Date
 
 Subsec. (d) of this section effective Oct. 26, 1996, see section 471(b) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 471 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—FEDERAL COORDINATING COUNCIL FOR SCIENCE, ENGINEERING, AND TECHNOLOGY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 6616 of this title.
-
 
 ---
 

@@ -54,7 +54,3 @@ Subsec. (a)(1). Pub. L. 96–433, §1(2), substituted “$100,000” for “$40,
 
 Amendment by Pub. L. 96–433 effective Oct. 10, 1980, see section 5(a) of Pub. L. 96–433, set out as a note under section 78u of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78eee, 78fff, 78fff–2, 78fff–4 of this title.
-

@@ -4,7 +4,3 @@ Whenever the Secretary finds that the operation of any plant or plants as provid
 
 (July 2, 1948, ch. 818, §3, 62 Stat. 1235.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 439a, 439c, 439e of this title.
-

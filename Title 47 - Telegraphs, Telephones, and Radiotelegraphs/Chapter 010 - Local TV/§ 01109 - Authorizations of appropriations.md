@@ -48,7 +48,3 @@ This chapter, referred to in subsecs. (a)(1) and (b), was in the original “thi
 
 2002—Subsec. (a). Pub. L. 107–171 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1103 of this title; title 7 section 950bb.
-

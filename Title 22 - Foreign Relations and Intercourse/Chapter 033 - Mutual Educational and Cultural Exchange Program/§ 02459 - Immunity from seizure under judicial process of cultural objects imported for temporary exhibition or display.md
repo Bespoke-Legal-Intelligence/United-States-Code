@@ -2,11 +2,11 @@
 
 #### (a) Agreements; Presidential determination; publication in Federal Register
 
-Whenever any work of art or other object of cultural significance is imported into the United States from any foreign country, pursuant to an agreement entered into between the foreign owner or custodian thereof and the United States or one or more cultural or educational institutions within the United States providing for the temporary exhibition or display thereof within the United States at any cultural exhibition, assembly, activity, or festival administered, operated, or sponsored, without profit, by any such cultural or educational institution, no court of the United States, any State, the District of Columbia, or any territory or possession of the United States may issue or enforce any judicial process, or enter any judgment, decree, or order, for the purpose or having the effect of depriving such institution, or any carrier engaged in transporting such work or object within the United States, of custody or control ofsuch object if before the importation of such object the President or his designee has determined that such object is of cultural significance and that the temporary exhibition or display thereof within the United States is in the national interest, and a notice to that effect has been published in the Federal Register.
+Whenever any work of art or other object of cultural significance is imported into the United States from any foreign country, pursuant to an agreement entered into between the foreign owner or custodian thereof and the United States or one or more cultural or educational institutions within the United States providing for the temporary exhibition or display thereof within the United States at any cultural exhibition, assembly, activity, or festival administered, operated, or sponsored, without profit, by any such cultural or educational institution, no court of the United States, any State, the District of Columbia, or any territory or possession of the United States may issue or enforce any judicial process, or enter any judgment, decree, or order, for the purpose or having the effect of depriving such institution, or any carrier engaged in transporting such work or object within the United States, of custody or control of such object if before the importation of such object the President or his designee has determined that such object is of cultural significance and that the temporary exhibition or display thereof within the United States is in the national interest, and a notice to that effect has been published in the Federal Register.
 
 #### (b) Intervention of United States attorney in pending judicial proceedings
 
-If in any judicial proceeding in any such court any such process, judgment, decree, or order is sought, issued, or entered, the United States attorney for the judicial district within which such proceeding is pending shall be entitled as of right to intervene as a party to that proceeding, and upon request made by either the institution adversely affected, or upon direction by the Attorney General if the United States is adversely affected, shall apply to such court for the denial, quashing, or vacating thereof.
+If in any judicial proceeding in any such court any such process, judgment, decree, or order issought, issued, or entered, the United States attorney for the judicial district within which such proceeding is pending shall be entitled as of right to intervene as a party to that proceeding, and upon request made by either the institution adversely affected, or upon direction by the Attorney General if the United States is adversely affected, shall apply to such court for the denial, quashing, or vacating thereof.
 
 #### (c) Enforcement of agreements and obligations of carriers under transportation contracts
 
@@ -41,8 +41,4 @@ Sec. 5. Any order, regulation, determination or other action which was in effect
 Sec. 6. This Order shall be effective on April 1, 1978.
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2611 of title 19.
 

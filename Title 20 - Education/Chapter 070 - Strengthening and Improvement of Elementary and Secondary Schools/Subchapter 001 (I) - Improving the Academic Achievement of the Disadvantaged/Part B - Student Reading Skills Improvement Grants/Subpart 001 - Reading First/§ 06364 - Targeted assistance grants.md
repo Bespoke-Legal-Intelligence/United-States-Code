@@ -82,7 +82,3 @@ For any State educational agency that receives a competitive grant under this se
 
 A prior section 6364, Pub. L. 89–10, title I, §1204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3580; amended Pub. L. 104–134, title I, §101(b) \[title II, §2755(a)\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–151; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §306(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–260; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(h)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–330, related to uses of funds in carrying out an Even Start program, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381c of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6362, 6365 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—VOLUNTEERS IN PARKS PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1246, 1250, 1282 of this title.
-
 
 ---
 

@@ -22,7 +22,3 @@ At least once every 2 years, the Secretary, using information submitted in the r
 
 (Pub. L. 106–402, title I, §105, Oct. 30, 2000, 114 Stat. 1690.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10824, 15004 of this title.
-

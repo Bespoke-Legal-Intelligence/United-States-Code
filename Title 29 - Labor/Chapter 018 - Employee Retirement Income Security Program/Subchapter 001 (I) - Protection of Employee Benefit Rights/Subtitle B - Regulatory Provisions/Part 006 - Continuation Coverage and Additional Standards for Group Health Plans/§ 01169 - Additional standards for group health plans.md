@@ -14,7 +14,7 @@
 
 &emsp;&emsp;The term “qualified medical child support order” means a medical child support order—
 
-&emsp;&emsp;&emsp;(i) which creates or recognizes the existence of an alternate recipient's right to, or assigns to an alternate recipient the right to, receive benefits for which a participant or beneficiary is eligible under a group health plan, and
+&emsp;&emsp;&emsp;(i) which creates or recognizes the existence of an alternate recipient's right to, or assigns to an alternate recipient the right to, receive benefits for which a participantor beneficiary is eligible under a group health plan, and
 
 &emsp;&emsp;&emsp;(ii) with respect to which the requirements of paragraphs (3) and (4) are met.
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(i) the plan administrator shall promptly notify the participant and each alternate recipient of the receipt of such order and the plan's procedures for determining whether medical child support orders are qualified medical child support orders, and
 
-&emsp;&emsp;&emsp;(ii) within a reasonable period after receipt of such order, the plan administratorshall determine whether such order is a qualified medical child support order and notify the participant and each alternate recipient of such determination.
+&emsp;&emsp;&emsp;(ii) within a reasonable period after receipt of such order, the plan administrator shall determine whether such order is a qualified medical child support order and notify the participant and each alternate recipient of such determination.
 
 #### (B) Establishment of procedures for determining qualified status of orders
 
@@ -114,7 +114,7 @@
 
 #### (1) Compliance by plans with assignment of rights
 
-&emsp;A group health plan shall provide that payment for benefits with respect to a participant under the plan will be made in accordance with any assignment of rights made by or on behalf of such participant or a beneficiary of the participant as required by a State plan for medical assistance approved under title XIX ofthe Social Security Act \[42 U.S.C. 1396 et seq.\] pursuant to section 1912(a)(1)(A) of such Act \[42 U.S.C. 1396k(a)(1)(A)\] (as in effect on August 10, 1993).
+&emsp;A group health plan shall provide that payment for benefits with respect to a participant under the plan will be made in accordance with any assignment of rights made by or on behalf of such participant or a beneficiary of the participant as required by a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] pursuant to section 1912(a)(1)(A) of such Act \[42 U.S.C. 1396k(a)(1)(A)\] (as in effect on August 10, 1993).
 
 #### (2) Enrollment and provision of benefits without regard to medicaid eligibility
 
@@ -200,7 +200,7 @@ Pub. L. 105–200, title IV, §401(h)(3)(B), July 16, 1998, 112 Stat. 668, provi
 
 Section 5611(c) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to medical child support orders issued on or after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 5612(b) of Pub. L. 105–33 provided that: “The amendment made by this section \[amending this section\] shall be effective as if included in the enactment of section 381 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2257).”
+Section 5612(b) of Pub. L. 105–33 provided that: “The amendment made by this section \[amending this section\] shall be effective as if included in the enactment of section 381 of the Personal Responsibility and WorkOpportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2257).”
 
 Section 5613(c) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to medical child support orders issued on or after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -308,7 +308,7 @@ Medical child support order.—The term ‘medical child support order’ means 
 
 &emsp;&emsp;&emsp;“(ii) is made pursuant to a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 \[13623\] of the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66\]) with respect to a church group health plan,
 
-&nbsp;&nbsp;if such judgment, decree, or order: (I) is issued by a court of competent jurisdiction; or (II) is issued through an administrative process established under State law and has the force and effect of law under applicable State law. For purposes of this paragraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and which has the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.
+&nbsp;&nbsp;if such judgment, decree, or order: (I) is issued by a court of competent jurisdiction; or (II) is issued through an administrative process established under State law and has the force and effect of law under applicable State law. For purposes of this paragraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and whichhas the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.
 
 &emsp;&emsp;“(D)
 
@@ -374,7 +374,7 @@ In general.—If the plan administrator of any church group health plan which is
 
 Enrollment of child in plan.—In any case in which an appropriately completed National Medical Support Notice is issued in the case of a child of a participant under a church group health plan who is a noncustodial parent of the child, and the Notice is deemed under clause (i) to be a qualified medical child support order, the plan administrator, within 40 business days after the date of the Notice, shall—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) notify the State agency issuing the Notice with respect to such child whether coverage of the child is available under the termsof the plan and, if so, whether such child is covered under the plan and either the effective date of the coverage or any steps necessary to be taken by the custodial parent (or by the official of a State or political subdivision thereof substituted for the name of such child pursuant to paragraph (3)(A)) to effectuate the coverage; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) notify the State agency issuing the Notice with respect to such child whether coverage of the child is available under the terms of the plan and, if so, whether such child is covered under the plan and either the effective date of the coverage or any steps necessary to be taken by the custodial parent (or by the official of a State or political subdivision thereof substituted for the name of such child pursuant to paragraph (3)(A)) to effectuate the coverage; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) provide to the custodial parent (or such substituted official) a description of the coverage available and any forms or documents necessary to effectuate such coverage.
 
@@ -396,13 +396,9 @@ Effective date.—The provisions of this subsection shall take effect on the dat
 
 “(g)
 
-Report and Recommendations Regarding the Enforcement of Qualified Medical Child Support Orders.—Not later than 8 months after the issuance of the report to the Congress pursuant to subsection (a)(5) \[section 401(a)(5) of Pub. L. 105–200, 42 U.S.C. 651 note\], the Secretary of Health and Human Services and the Secretary of Labor shall jointly submit to each House of the Congress a report containing recommendations for appropriate legislation to improve the effectiveness of, and enforcement of, qualified medical child support orders under the provisions of subsection (f) of this section and section 609(a) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1169(a)).”
+Report and Recommendations Regarding the Enforcement of Qualified Medical Child Support Orders.—Not later than 8 months after the issuance of the report to the Congress pursuant to subsection (a)(5) \[section 401(a)(5) of Pub. L. 105–200, 42 U.S.C. 651 note\],the Secretary of Health and Human Services and the Secretary of Labor shall jointly submit to each House of the Congress a report containing recommendations for appropriate legislation to improve the effectiveness of, and enforcement of, qualified medical child support orders under the provisions of subsection (f) of this section and section 609(a) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1169(a)).”
 
 #### Plan Amendments Not Required Until January 1, 1994
 
 For provisions setting forth circumstances under which any amendment to a plan required to be made by an amendment made by section 4301(d) of Pub. L. 103–66 shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1132, 1144, 1191b of this title; title 26 section 9832; title 42 sections 300gg–91, 666.
 

@@ -120,7 +120,3 @@ Supporting Research and Analysis.—In support of the proceeding required under 
 
 Report.—If, on the basis of the proceeding required under paragraph (1) of this subsection, the Secretary decides not to prescribe regulations, the Secretary shall report to Congress on the reasons for that decision.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 20104, 20135 of this title; title 45 section 1207.
-

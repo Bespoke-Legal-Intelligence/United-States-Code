@@ -60,7 +60,7 @@
 
 #### (d) Repayment rates
 
-Repayment of a recourse loan made under this section shall be at the loan rate established forthe commodity by the Secretary, plus interest (as determined by the Secretary).
+Repayment of a recourse loan made under this section shall be at the loan rate established for the commodity by the Secretary, plus interest (as determined by the Secretary).
 
 (Pub. L. 104–127, title I, §137, Apr. 4, 1996, 110 Stat. 912; Pub. L. 105–277, div. A, §101(a) \[title XI, §1126\], Oct. 21, 1998, 112 Stat. 2681, 2681–46.)
 
@@ -69,8 +69,4 @@ Repayment of a recourse loan made under this section shall be at the loan rate e
 1998—Pub. L. 105–277, §101(a) \[title XI, §1126(1)\], inserted “and other fibers” after “seed cotton” in section catchline.
 
 Subsecs. (c), (d). Pub. L. 105–277, §101(a) \[title XI, §1126(2), (3)\], added subsec. (c) and redesignated former subsec. (c) as (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7939 of this title.
 

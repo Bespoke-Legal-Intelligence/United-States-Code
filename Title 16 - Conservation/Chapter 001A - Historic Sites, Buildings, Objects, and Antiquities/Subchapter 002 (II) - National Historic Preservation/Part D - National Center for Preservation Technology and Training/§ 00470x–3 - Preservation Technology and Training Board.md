@@ -30,7 +30,3 @@ The Board shall be comprised of—
 
 2000—Subsec. (c)(2). Pub. L. 106–208 substituted a semicolon for a comma after “organizations”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 470x–1 of this title.
-

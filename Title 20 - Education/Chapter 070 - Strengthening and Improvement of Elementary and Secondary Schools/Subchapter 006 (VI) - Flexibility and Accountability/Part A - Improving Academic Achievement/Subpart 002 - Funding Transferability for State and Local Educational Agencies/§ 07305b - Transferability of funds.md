@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In accordance with this subpart, a State may transfer not more than 50 percent of the nonadministrative State funds (including funds transferred under paragraph (2)) allotted to the State for use for State-level activities under the following provisions for a fiscal year to one or more of the State's allotments for such fiscal year under any other of such provisions:
+&emsp;In accordance with this subpart, a State may transfer not more than 50 percent of the nonadministrative State funds (includingfunds transferred under paragraph (2)) allotted to the State for use for State-level activities under the following provisions for a fiscal year to one or more of the State's allotments for such fiscal year under any other of such provisions:
 
 &emsp;&emsp;(A) Section 6613(a)(3) of this title.
 
@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with this subpart, a local educational agency (except a local educational agency identified for improvement under section 6316(c) of this title or subject to corrective action under section 6316(c)(9) <sup>1</sup> of this title) may transfer not more than 50 percent of the funds allocated to it (including funds transferred under subparagraph (C)) under each of the provisions listed in paragraph (2) for a fiscal year to one or moreof its allocations for such fiscal year under any other provision listed in paragraph (2).
+&emsp;&emsp;In accordance with this subpart, a local educational agency (except a local educational agency identified for improvement under section 6316(c) of this title or subject to corrective action under section 6316(c)(9) <sup>1</sup> of this title) may transfer not more than 50 percent of the funds allocated to it (including funds transferred under subparagraph (C)) under each of the provisions listed in paragraph (2) for a fiscal year to one or more of its allocations for such fiscal year under any other provision listed in paragraph (2).
 
 #### (B) Agencies identified for improvement
 

@@ -46,11 +46,11 @@ When used in this chapter—
 
 &emsp;(13) The term “wages” means the money rate at which the service rendered by an employee is compensated by an employer under the contract of hiring in force at the time of the injury, including the reasonable value of any advantage which is received from the employer and included for purposes of any withholding of tax under subtitle C of title 26 (relating to employment taxes). The term wages does not include fringe benefits, including (but not limited to) employer payments for or contributions to a retirement, pension, health and welfare, life insurance, training, social security or other employee or dependent benefit plan for the employee's or dependent's benefit, or any other employee's dependent entitlement.
 
-&emsp;(14) “Child” shall include a posthumous child, a child legally adopted prior to the injury of the employee, a child in relation to whom the deceased employee stood in loco parentis for at least one year prior to the time of injury, and a stepchild or acknowledged illegitimate child dependent upon the deceased, but does not include married children unless wholly dependent on him. “Grandchild” means a child as above defined of a child as above defined. “Brother” and “sister” includes stepbrothers and stepsisters, half brothers and half sisters, and brothers and sisters by adoption, but does not include married brothers nor married sisters unless wholly dependent on the employee. “Child”, “grandchild”, “brother”, and “sister” include only a person who is under eighteen years of age, or who, though eighteen years of age or over, is (1) wholly dependent upon the employee and incapable of self-support by reason of mental or physical disability, or (2) a student as defined in paragraph (19) of this section.
+&emsp;(14) “Child” shall include a posthumous child, a child legally adopted prior to the injury of the employee, a child in relation to whom the deceased employee stood in loco parentis for at least one year prior to the time of injury, and a stepchild or acknowledged illegitimate child dependent upon the deceased, but does not include married children unlesswholly dependent on him. “Grandchild” means a child as above defined of a child as above defined. “Brother” and “sister” includes stepbrothers and stepsisters, half brothers and half sisters, and brothers and sisters by adoption, but does not include married brothers nor married sisters unless wholly dependent on the employee. “Child”, “grandchild”, “brother”, and “sister” include only a person who is under eighteen years of age, or who, though eighteen years of age or over, is (1) wholly dependent upon the employee and incapable of self-support by reason of mental or physical disability, or (2) a student as defined in paragraph (19) of this section.
 
 &emsp;(15) The term “parent” includes step-parents and parents by adoption, parents-in-law, and any person who for more than three years prior to the death of the deceased employee stood in the place of a parent to him, if dependent on the injured employee.
 
-&emsp;(16) The terms “widow or widower” includes only the decedent's wife or husband living with or dependent for support upon him or her at the time of his or her death; or living apartfor justifiable cause or by reason of his or her desertion at such time.
+&emsp;(16) The terms “widow or widower” includes only the decedent's wife or husband living with or dependent for support upon him or her at the time of his or her death; or living apart for justifiable cause or by reason of his or her desertion at such time.
 
 &emsp;(17) The terms “adoption” or “adopted” mean legal adoption prior to the time of the injury.
 
@@ -94,7 +94,7 @@ Par. (21). Pub. L. 98–426, §5(a)(2), substituted “Unless the context requir
 
 1972—Par. (3). Pub. L. 92–576, §2(a), defined “employee” to mean any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker and substituted “or” for “nor” before “any person engaged by the master”.
 
-Par. (4). Pub. L. 92–576, §2(b), defined “employer” to include an employer any of whose employees are employed in maritime employment upon the navigable waters of the United States, including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel.
+Par. (4). Pub. L. 92–576, §2(b), defined “employer” to include an employer any of whose employees are employed in maritime employment upon the navigable waters of the United States, including any adjoining pier, wharf, dry dock, terminal, building way, marinerailway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel.
 
 Par. (14). Pub. L. 92–576, §3(b), defined “child, grandchild, brother, and sister” to include a student as defined in par. (19) of this section.
 
@@ -127,8 +127,4 @@ Section 22 of Pub. L. 92–576 provided that: “The amendments made by this Act
 #### Transfer of Functions
 
 Prior to the amendment of this chapter by Pub. L. 98–426 the word “Secretary” meaning the Secretary of Labor had been substituted for the word “commission” meaning the United States Employees’ Compensation Commission throughout this chapter even when not expressly so directed by statute in view of the transfer of the functions of the commission first to the Federal Security Administrator by Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, and later to the Secretary of Labor by Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271. Where such substitution had thus been made the statutory substitution of terms by Pub. L. 98–426 required no change in text.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 908 of this title; title 5 sections 8171, 8172, 8173; title 30 section 932.
 

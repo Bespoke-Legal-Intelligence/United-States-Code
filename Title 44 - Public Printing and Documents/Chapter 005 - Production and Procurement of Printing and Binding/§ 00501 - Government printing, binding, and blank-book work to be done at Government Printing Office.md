@@ -104,7 +104,7 @@ Notice to congress.—Not later than 30 days after making a determination under 
 
 Federal Agency Defined.—In this Act, the term ‘Federal agency’ means—
 
-&emsp;“(1) an executive department, military department, Government corporation, Government-controlled corporation, or other establishment in the executive branch of the Government (including the ExecutiveOffice of the President), or any independent regulatory agency; and
+&emsp;“(1) an executive department, military department, Government corporation, Government-controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency; and
 
 &emsp;“(2) an establishment or component of the legislative or judicial branch of the Government.”
 
@@ -127,8 +127,4 @@ Pub. L. 101–163, title III, §308, Nov. 21, 1989, 103 Stat. 1065.
 Pub. L. 100–458, title III, §309, Oct. 1, 1988, 102 Stat. 2184.
 
 Pub. L. 100–202, §101(i) \[title III, §309\], Dec. 22, 1987, 101 Stat. 1329–310.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 503 of this title; title 7 section 285; title 10 section 195; title 15 section 4051; title 16 sections 916<i>l</i>, 961; title 20 sections 954, 956; title 22 sections 272a, 280b, 280i, 280k, 287e, 287r, 290b, 290f, 1471, 2024, 2669, 3714b; title 33 section 1123; title 35 section 2; title 42 sections 299c–3, 284, 1870.
 

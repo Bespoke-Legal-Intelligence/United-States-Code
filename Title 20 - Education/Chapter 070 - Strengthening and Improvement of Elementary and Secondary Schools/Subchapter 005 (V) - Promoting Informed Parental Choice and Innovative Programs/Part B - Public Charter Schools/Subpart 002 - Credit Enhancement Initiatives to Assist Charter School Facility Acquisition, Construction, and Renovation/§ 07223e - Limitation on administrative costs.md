@@ -4,7 +4,3 @@ An eligible entity may use not more than 0.25 percent of the funds received unde
 
 (Pub. L. 89–10, title V, §5226, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1802.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7223d of this title.
-

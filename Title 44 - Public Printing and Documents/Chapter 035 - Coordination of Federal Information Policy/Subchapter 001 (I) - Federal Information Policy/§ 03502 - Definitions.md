@@ -4,7 +4,7 @@ As used in this subchapter—
 
 &emsp;(1) the term “agency” means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency, but does not include—
 
-&emsp;&emsp;(A) the General Accounting Office;
+&emsp;&emsp;(A) the Government Accountability Office;
 
 &emsp;&emsp;(B) Federal Election Commission;
 
@@ -30,7 +30,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(A) means the obtaining, causing to be obtained, soliciting, or requiring the disclosure to third parties or the public, of facts or opinions by or for an agency, regardless of form or format, calling for either—
 
-&emsp;&emsp;&emsp;(i) answers to identical questions posed to, or identical reporting or recordkeepingrequirements imposed on, ten or more persons, other than agencies, instrumentalities, or employees of the United States; or
+&emsp;&emsp;&emsp;(i) answers to identical questions posed to, or identical reporting or recordkeeping requirements imposed on, ten or more persons, other than agencies, instrumentalities, or employees of the United States; or
 
 &emsp;&emsp;&emsp;(ii) answers to questions posed to agencies, instrumentalities, or employees of the United States which are to be used for general statistical purposes; and
 
@@ -66,7 +66,7 @@ As used in this subchapter—
 
 &emsp;(14) the term “penalty” includes the imposition by an agency or court of a fine or other punishment; a judgment for monetary damages or equitable relief; or the revocation, suspension, reduction, or denial of a license, privilege, right, grant, or benefit.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 164; amended Pub. L. 104–106, div. E, title LVI, §5605(a), Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(A), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(<i>l</i>)(4), Aug. 21, 2002, 116 Stat. 1301.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 164; amended Pub. L. 104–106, div. E, title LVI, §5605(a), Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(A), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(<i>l</i>)(4), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Prior Provisions
 
@@ -75,6 +75,8 @@ A prior section 3502, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 28
 Another prior section 3502, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302; Pub. L. 93–153, title IV, §409(a), Nov. 16, 1973, 87 Stat. 593, defined “Federal agency”, “person”, and “information”, prior to the general amendment of this chapter by Pub. L. 96–511.
 
 #### Amendments
+
+2004—Par. (1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 2002—Par. (9). Pub. L. 107–217 substituted “section 11101 of title 40” for “section 5002 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401)” and “section 11103 of title 40” for “section 5142 of that Act (40 U.S.C. 1452)”.
 
@@ -94,9 +96,5 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface TransportationBoard effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3532, 3542, 3601 of this title; title 10 section 1782; title 15 section 278g–3; title 31 sections 1344, 3811; title 40 section 11101; title 41 section 421; title 42 sections 1320b–9, 1395kk–1.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 

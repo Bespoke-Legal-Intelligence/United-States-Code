@@ -18,7 +18,3 @@ An order shall contain such terms and conditions as are required in sections 480
 
 (Pub. L. 99–198, title XVI, §1616, Dec. 23, 1985, 99 Stat. 1609.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4809 of this title.
-

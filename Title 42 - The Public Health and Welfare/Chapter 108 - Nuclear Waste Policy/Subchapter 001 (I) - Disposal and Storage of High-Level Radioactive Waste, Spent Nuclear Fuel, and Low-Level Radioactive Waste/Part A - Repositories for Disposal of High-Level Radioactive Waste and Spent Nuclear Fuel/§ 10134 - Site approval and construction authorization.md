@@ -6,7 +6,7 @@
 
 &emsp;(A) a description of the proposed repository, including preliminary engineering specifications for the facility;
 
-&emsp;(B) a description of the waste form or packaging proposed for use at such repository, and an explanation of the relationship betweensuch waste form or packaging and the geologic medium of such site;
+&emsp;(B) a description of the waste form or packaging proposed for use at such repository, and an explanation of the relationship between such waste form or packaging and the geologic medium of such site;
 
 &emsp;(C) a discussion of data, obtained in site characterization activities, relating to the safety of such site;
 
@@ -80,7 +80,7 @@ The Energy Reorganization Act of 1974, referred to in subsec. (f)(5), is Pub. L.
 
 1987—Subsec. (a)(1). Pub. L. 100–202 and Pub. L. 100–203, §5011(h)(1)(A)–(E), amended par. (1) identically, in introductory provisions substituting “vicinity of the Yucca Mountain site” for “vicinity of each site under consideration for recommendation to the President under this paragraph as a site for the development of a repository”, striking out “in which such site is located” after “residents of the area”, substituting “activities at the Yucca Mountain site” for “activities at not less than 3 candidate sites for the first proposed repository, or from all of the characterized sites for the development of subsequent respositories” \[sic\] and “of Nevada” for “in which such site is located, or the governing body of the affected Indian tribe where such site is located, as the case may be”, and struck out before last sentence “In making site recommendations and approvals subsequent to the first site recommendation, the Secretary and the President, respectively, shall also consider the need for regional distribution of repositories and the need to minimize, to the extent practicable, the impacts and cost of transporting spent fuel and solidified high-level radioactive waste.”
 
-Subsec. (a)(1)(D). Pub. L. 100–202 and Pub. L. 100–203, §5011(h)(1)(F), generally amended subpar. (D) identically. Prior to amendment, subpar. (D) read as follows: “a final environmental impact statement prepared pursuant to subsection (f) of this section and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), including an analysis of the consideration given by the Secretary to not less than 3 candidate sites for the first proposed respository \[sic\] or to all of the characterized sites for the development of subsequent repositories, with respect to which site characterization is completed under section 10133 of this title, together with comments made concerning such environmental impact statement by the Secretary of the Interior, theCouncil on Environmental Quality, the Administrator, and the Commission, except that any such environmental impact statement concerning the first repository to be developed under this chapter shall not be required to consider the need for a repository or the alternatives to geologic disposal;”.
+Subsec. (a)(1)(D). Pub. L. 100–202 and Pub. L. 100–203, §5011(h)(1)(F), generally amended subpar. (D) identically. Prior to amendment, subpar. (D) read as follows: “a final environmental impact statement prepared pursuant to subsection (f) of this section and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), including an analysis of the consideration given by the Secretary to not less than 3 candidate sites for the first proposed respository \[sic\] or to all of the characterized sites for the development of subsequent repositories, with respect to which site characterization is completed under section 10133 of this title, together with comments made concerning such environmental impact statement by the Secretary of the Interior, the Council on Environmental Quality, the Administrator, and the Commission, except that any such environmental impact statement concerning the first repository to be developed under this chapter shall not be required to consider the need for a repository or the alternatives to geologic disposal;”.
 
 Subsec. (a)(1)(H). Pub. L. 100–202 and Pub. L. 100–203, §5011(h)(1)(G), amended subpar. (H) identically, substituting “the State of Nevada” for “the State in which such site is located, or under section 10138(b)(3)(B) of this title by the affected Indian tribe where such site is located, as the case may be”.
 
@@ -111,10 +111,6 @@ Pub. L. 104–206, title III, Sept. 30, 1996, 110 Stat. 2995, provided in part: 
 &emsp;“(3) a plan and cost estimate for the remaining work required to complete a license application; and
 
 &emsp;“(4) an estimate of the costs to construct and operate the repository in accordance with the design concept.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10135, 10136, 10138, 10142, 10165 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “to” probably should not appear.</i>
 

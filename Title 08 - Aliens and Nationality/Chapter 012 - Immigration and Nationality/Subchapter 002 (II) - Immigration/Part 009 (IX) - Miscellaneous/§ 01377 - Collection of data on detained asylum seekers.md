@@ -26,7 +26,7 @@ The Attorney General shall regularly collect data on a nation-wide <sup>1</sup>
 
 #### (b) Annual reports
 
-Beginning October 1, 1999, and not later than October 1 of each year thereafter, the Attorney General shall submit to the Committee on the Judiciary of each House of Congress a report setting forth the data collected under subsection (a) of this section for the fiscal year ending September 30 of that year.
+Beginning October 1, 1999, and not later than October 1 of each year thereafter, the AttorneyGeneral shall submit to the Committee on the Judiciary of each House of Congress a report setting forth the data collected under subsection (a) of this section for the fiscal year ending September 30 of that year.
 
 #### (c) Availability to public
 
@@ -41,10 +41,6 @@ Section was enacted as part of the Haitian Refugee Immigration Fairness Act of 1
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1378 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “nationwide”.</i>
 

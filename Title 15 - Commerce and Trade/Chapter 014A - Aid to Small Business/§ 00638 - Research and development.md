@@ -44,7 +44,7 @@ The Administration is authorized to consult and cooperate with all Government ag
 
 (2) The Administrator may, after consultation with the Attorney General and the Chairman of the Federal Trade Commission, and with the prior written approval of the Attorney General, approve any agreement between small-business firms providing for a joint program of research and development, if the Administrator finds that the joint program proposed will maintain and strengthen the free enterprise system and the economy of the Nation. The Administrator or the Attorney General may at any time withdraw his approval of the agreement and the joint program of research and development covered thereby, if he finds that the agreement or the joint program carried on under it is no longer in the best interests of the competitive free enterprise system and the economy of the Nation. A copy of the statement of any such finding and approval intended to be within the coverage of this subsection, and a copy of any modification or withdrawal of approval, shall be published in the Federal Register. The authority conferred by this subsection on the Administrator shall not be delegated by him.
 
-(3) No act or omission to act pursuant to and within the scope of any joint program for research and development, under an agreement approved by the Administrator under this subsection, shall be construed to be within the prohibitions of the antitrust laws or the FederalTrade Commission Act \[15 U.S.C. 41 et seq.\]. Upon publication in the Federal Register of the notice of withdrawal of his approval of the agreement granted under this subsection, either by the Administrator or by the Attorney General, the provisions of this subsection shall not apply to any subsequent act or omission to act by reason of such agreement or approval.
+(3) No act or omission to act pursuant to and within the scope of any joint program for research and development, under an agreement approved by the Administrator under this subsection, shall be construed to be within the prohibitions of the antitrust laws or the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\]. Upon publication in the Federal Register of the notice of withdrawal of his approval of the agreement granted under this subsection, either by the Administrator or by the Attorney General, the provisions of this subsection shall not apply to any subsequent act or omission to act by reason of such agreement or approval.
 
 #### (e) Definitions
 
@@ -92,7 +92,7 @@ For the purpose of this section—
 
 &emsp;(7) the term “cooperative research and development” means research or research and development conducted jointly by a small business concern and a research institution in which not less than 40 percent of the work is performed by the small business concern, and not less than 30 percent of the work is performed by the research institution; and
 
-&emsp;(8) the term “research institution” means a nonprofit institution, as defined in section3703(5) of this title, and includes federally funded research and development centers, as identified by the National Scientific Foundation in accordance with the governmentwide Federal Acquisition Regulation issued in accordance with section 421(c)(1) <sup>2</sup> of title 41 (or any successor regulation thereto).
+&emsp;(8) the term “research institution” means a nonprofit institution, as defined in section 3703(5) of this title, and includes federally funded research and development centers, as identified by the National Scientific Foundation in accordance with the governmentwide Federal Acquisition Regulation issued in accordance with section 421(c)(1) <sup>2</sup> of title 41 (or any successor regulation thereto).
 
 #### (f) Federal agency expenditures for SBIR program
 
@@ -140,7 +140,7 @@ Each Federal agency required by subsection (f) of this section to establish a sm
 
 &emsp;(6) administer its own SBIR funding agreements (or delegate such administration to another agency);
 
-&emsp;(7) make payments to recipients of SBIR funding agreements on the basis of progress toward or completion of the funding agreement requirements and, in all cases, make payment to recipients under such agreements in full, subject to audit, on or before the last day of the 12-month period beginning on the date of completion of such requirements;
+&emsp;(7) make payments to recipients of SBIR funding agreements on the basis of progress toward or completion of the funding agreement requirements and, in all cases, make payment to recipients under such agreements in full, subject to audit, on or before the lastday of the 12-month period beginning on the date of completion of such requirements;
 
 &emsp;(8) make an annual report on the SBIR program to the Small Business Administration and the Office of Science and Technology Policy;
 
@@ -156,7 +156,7 @@ In addition to the requirements of subsection (f) of this section, each Federal 
 
 #### (1) In general
 
-&emsp;Each Federal agency required by this section to have an SBIR program or to establishgoals shall report annually to the Small Business Administration the number of awards pursuant to grants, contracts, or cooperative agreements over $10,000 in amount and the dollar value of all such awards, identifying SBIR awards and comparing the number and amount of such awards with awards to other than small business concerns.
+&emsp;Each Federal agency required by this section to have an SBIR program or to establish goals shall report annually to the Small Business Administration the number of awards pursuant to grants, contracts, or cooperative agreements over $10,000 in amount and the dollar value of all such awards, identifying SBIR awards and comparing the number and amount of such awards with awards to other than small business concerns.
 
 #### (2) Calculation of extramural budget
 
@@ -206,13 +206,13 @@ In addition to the requirements of subsection (f) of this section, each Federal 
 
 &emsp;&emsp;&emsp;(ii) by the Secretary of Defense, in accordance with section 2522 <sup>5</sup> of title 10;
 
-&emsp;&emsp;(F) enhanced outreach efforts to increase the participation of socially and economically disadvantaged small business concerns, as defined in section 637(a)(4) of this title, and the participation of small businesses that are 51 percent owned and controlled by women in technological innovation and inSBIR programs, including the third phase of such programs, and the collection of data to document such participation;
+&emsp;&emsp;(F) enhanced outreach efforts to increase the participation of socially and economically disadvantaged small business concerns, as defined in section 637(a)(4) of this title, and the participation of small businesses that are 51 percent owned and controlled by women in technological innovation and in SBIR programs, including the third phase of such programs, and the collection of data to document such participation;
 
 &emsp;&emsp;(G) technical and programmatic guidance to encourage agencies to develop gap-funding programs to address the delay between an award for the first phase of an SBIR program and the application for and extension of an award for the second phase of such program;
 
 &emsp;&emsp;(H) procedures to ensure that a small business concern that submits a proposal for a funding agreement for the first phase of an SBIR program and that has received more than 15 second phase SBIR awards during the preceding 5 fiscal years is able to demonstrate the extent to which it was able to secure third phase funding to develop concepts resulting from previous second phase SBIR awards; and
 
-&emsp;&emsp;(I) procedures to ensure that agencies participating in the SBIR program retain the information submitted under subparagraph (H) at least until the General Accounting Office submits the report required under section 105 of the Small Business Research and Development Enhancement Act of 1992.
+&emsp;&emsp;(I) procedures to ensure that agencies participating in the SBIR program retain the information submitted under subparagraph (H) at least until the Government Accountability Office submits the report required under section 105 of the Small Business Research and Development Enhancement Act of 1992.
 
 #### (3) Additional modifications
 
@@ -270,7 +270,7 @@ In addition to the requirements of subsection (f) of this section, each Federal 
 
 &emsp;&emsp;&emsp;(i) information collected in accordance with paragraph (3) on revenue from the sale of new products or services resulting from the research conducted under the award;
 
-&emsp;&emsp;&emsp;(ii) information collected in accordance with paragraph (3) on additional investment from any source, other than firstphase or second phase SBIR or STTR awards, to further the research and development conducted under the award; and
+&emsp;&emsp;&emsp;(ii) information collected in accordance with paragraph (3) on additional investment from any source, other than first phase or second phase SBIR or STTR awards, to further the research and development conducted under the award; and
 
 &emsp;&emsp;&emsp;(iii) any other information received in connection with the award that the Administrator, in conjunction with the SBIR and STTR program managers of Federal agencies, considers relevant and appropriate;
 
@@ -390,7 +390,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;&emsp;(A) are free from organizational conflicts of interests relative to the STTR program;
 
-&emsp;&emsp;(B) do not use privileged information gained through work performed for an STTR agency or private access to STTR agency personnel in the development of an STTR proposal; and
+&emsp;&emsp;(B) do not use privileged information gained through work performed for an STTRagency or private access to STTR agency personnel in the development of an STTR proposal; and
 
 &emsp;&emsp;(C) use outside peer review, as appropriate;
 
@@ -466,7 +466,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 #### (1) In general
 
-&emsp;Each Federal agency required by this section to conduct an SBIR program may enter into an agreement with a vendor selected under paragraph (2) to provide small business concerns engaged in SBIR projects with technical assistance services, such as access to a network of scientists and engineers engaged in a wide range of technologies, or access to technical and business literature available through on-line data bases, for the purpose of assisting such concerns in—
+&emsp;Each Federal agency required by this section to conduct an SBIR program may enter into an agreement with a vendor selected under paragraph (2) to provide small business concerns engaged in SBIR projects with technical assistance services, such as access to a network of scientists and engineers engaged in a wide range of technologies, or access to technical and business literature available throughon-line data bases, for the purpose of assisting such concerns in—
 
 &emsp;&emsp;(A) making better technical decisions concerning such projects;
 
@@ -494,7 +494,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 #### (1) In general
 
-&emsp;In the case of a small business concern that is awarded a funding agreement for the second phase of an SBIR or STTR program, a Federal agency may enter into a third phase agreement with that business concern for additional work to be performed during or after the second phase period. The second phasefunding agreement with the small business concern may, at the discretion of the agency awarding the agreement, set out the procedures applicable to third phase agreements with that agency or any other agency.
+&emsp;In the case of a small business concern that is awarded a funding agreement for the second phase of an SBIR or STTR program, a Federal agency may enter into a third phase agreement with that business concern for additional work to be performed during or after the second phase period. The second phase funding agreement with the small business concern may, at the discretion of the agency awarding the agreement, set out the procedures applicable to third phase agreements with that agency or any other agency.
 
 #### (2) “Third phase agreement” defined
 
@@ -512,7 +512,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;&emsp;(A) if the total value of contracts awarded to the State during fiscal year 1995 under this section was less than $5,000,000; and
 
-&emsp;&emsp;(B) that certifies to the Administration described in paragraph (2) that the State will, upon receipt of assistance under this subsection, provide matching funds from non-Federal sources in an amount that is not less than 50 percent of the amount provided under this subsection.
+&emsp;&emsp;(B) that certifies to the Administration described in paragraph (2) <sup>7</sup> that the State will, upon receipt of assistance under this subsection, provide matching funds from non-Federal sources in an amount that is not less than 50 percent of the amount provided under this subsection.
 
 #### (2) Program authority
 
@@ -582,7 +582,7 @@ Program information relating to the SBIR and STTR programs shall be included by 
 
 #### (3) Additionally eligible State
 
-&emsp;A State referred to in subparagraph (A)(ii) or (B)(ii) of paragraph (2) is a State in whichthe total value of contracts awarded to small business concerns under all SBIR programs is less than the total value of contracts awarded to small business concerns in a majority of other States, as determined by the Administrator in biennial fiscal years, beginning with fiscal year 2000, based on the most recent statistics compiled by the Administrator.
+&emsp;A State referred to in subparagraph (A)(ii) or (B)(ii) of paragraph (2) is a State in which the total value of contracts awarded to small business concerns under all SBIR programs is less than the total value of contracts awarded to small business concerns in a majority of other States, as determined by the Administrator in biennial fiscal years, beginning with fiscal year 2000, based on the most recent statistics compiled by the Administrator.
 
 #### (v) Simplified reporting requirements
 
@@ -598,7 +598,7 @@ The Administrator shall work with the Federal agencies required by this section 
 
 &emsp;In promulgating regulations under paragraph (1), the Administrator shall provide to affected agencies, small business concerns, research institutions, and other interested parties the opportunity to submit written comments.
 
-(Pub. L. 85–536, §2\[9\], July 18, 1958, 72 Stat. 391; Pub. L. 97–219, §§3–5, July 22, 1982, 96 Stat. 217, 218, 221; Pub. L. 99–443, §§1, 2, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 100–590, title I, §108, Nov. 3, 1988, 102 Stat. 2994; Pub. L. 102–484, div. D, title XLII, §4237(d), Oct. 23, 1992, 106 Stat. 2692; Pub. L. 102–564, title I, §§103, 104, title II, §202(a)–(c), title III, §§301(a), 305, Oct. 28, 1992, 106 Stat. 4250, 4254, 4256, 4257, 4261, 4262; Pub. L. 103–403, title VI, §607, Oct. 22, 1994, 108 Stat. 4204; Pub. L. 104–208, div. D, title I, §110, Sept. 30, 1996, 110 Stat. 3009–733; Pub. L. 105–135, title V, §501, Dec. 2, 1997, 111 Stat. 2620; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–554, §1(a)(9) \[title I, §§103–107, 109, 110, 111(c), 113, 114(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–669, 2763A–673, 2763A–679, 2763A–681; Pub. L. 107–50, §§2, 3(a), 4–7, Oct. 15, 2001, 115 Stat. 263–265.)
+(Pub. L. 85–536, §2\[9\], July 18, 1958, 72 Stat. 391; Pub. L. 97–219, §§3–5, July 22, 1982, 96 Stat. 217, 218, 221; Pub. L. 99–443, §§1, 2, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 100–590, title I, §108, Nov. 3, 1988, 102 Stat. 2994; Pub. L. 102–484, div. D, title XLII, §4237(d), Oct. 23, 1992, 106 Stat. 2692; Pub. L. 102–564, title I, §§103, 104, title II, §202(a)–(c), title III, §§301(a), 305, Oct. 28, 1992, 106 Stat. 4250, 4254, 4256, 4257, 4261, 4262; Pub. L. 103–403, title VI, §607, Oct. 22, 1994, 108 Stat. 4204; Pub. L. 104–208, div. D, title I, §110, Sept. 30, 1996, 110 Stat. 3009–733; Pub. L. 105–135, title V, §501, Dec. 2, 1997, 111 Stat. 2620; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–554, §1(a)(9) \[title I, §§103–107, 109, 110, 111(c), 113, 114(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–669, 2763A–673, 2763A–679, 2763A–681; Pub. L. 107–50, §§2, 3(a), 4–7, Oct. 15, 2001, 115 Stat. 263–265; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Repeal of Subsection (s)
 
@@ -625,6 +625,8 @@ Section 105 of the Small Business Research and Development Enhancement Act of 19
 Section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, was previously classified to this section. See section 645 of this title and Codification note set out under section 631 of this title.
 
 #### Amendments
+
+2004—Subsec. (j)(2)(I). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 2001—Subsec. (b)(4). Pub. L. 107–50, §2(b), struck out “pilot” before “programs;”.
 
@@ -758,6 +760,10 @@ Subsec. (r). Pub. L. 102–564, §305, added subsec. (r).
 
 Subsecs. (e) to (k). Pub. L. 97–219, §4, added subsecs. (e) to (k).
 
+#### Change of Name
+
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–50, §3(b), Oct. 15, 2001, 115 Stat. 263, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective beginning in fiscal year 2004.”
@@ -778,7 +784,7 @@ Amendment by Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 
 
 #### Effective and Termination Dates of 1992 Amendment
 
-For effective and termination dates of amendment by Pub. L. 102–484, see section 4237(g) and (h) of Pub. L. 102–484, set out in a Small Business Innovation Research Program in Department of Defense note below.
+For effective and termination dates of amendment by Pub. L. 102–484, see section 4237(g) and (h) of Pub. L.102–484, set out in a Small Business Innovation Research Program in Department of Defense note below.
 
 #### Termination Date of 1982 Amendment
 
@@ -808,7 +814,7 @@ Pub. L. 106–554, §1(a)(9) \[title I, §108\], Dec. 21, 2000, 114 Stat. 2763, 
 
 “(a)
 
-Study and Recommendations.—The head of each agency with a budget of more than $50,000,000 for itsSBIR program for fiscal year 1999, in consultation with the Small Business Administration, shall, not later than 6 months after the date of the enactment of this Act \[Dec. 21, 2000\], cooperatively enter into an agreement with the National Academy of Sciences for the National Research Council to—
+Study and Recommendations.—The head of each agency with a budget of more than $50,000,000 for its SBIR program for fiscal year 1999, in consultation with the Small Business Administration, shall, not later than 6 months after the date of the enactment of this Act \[Dec. 21, 2000\], cooperatively enter into an agreement with the National Academy of Sciences for the National Research Council to—
 
 &emsp;“(1) conduct a comprehensive study of how the SBIR program has stimulated technological innovation and used small businesses to meet Federal research and development needs, including—
 
@@ -852,13 +858,13 @@ Consultation.—To ensure that the concerns of small business are appropriately 
 
 “(c)
 
-Progress Reports.—The National Research Council shall provide semiannual progress reports on the study conducted under this section to the Committee on Science and the Committee on Small Business of the House of Representatives, and to the Committee on Small Business of the Senate.
+Progress Reports.—The National Research Council shall provide semiannual progress reports on the study conducted under this section to the Committee on Science and the Committee on Small Business of the House of Representatives, and to the Committee on Small Business \[now Committee on Small Business and Entrepreneurship\] of the Senate.
 
 “(d)
 
-Report.—The National Research Council shall transmit to the heads of agencies entering into an agreement under this section and to the Committee on Science and the Committee on Small Business of the House of Representatives, and to the Committee on Small Business of the Senate—
+Report.—The National Research Council shall transmit to the heads of agencies entering into an agreement under this section and to the Committee on Science and the Committee on Small Business of the House of Representatives, and to the Committee on Small Business \[now Committee on Small Business and Entrepreneurship\] of the Senate—
 
-&emsp;“(1) not later than 3 years after the date of the enactment of this Act \[Dec. 21, 2000\], a report including the results of the study conducted under subsection (a)(1) and recommendations made under subsection (a)(2); and
+&emsp;“(1) not later than 3 years after the date of the enactment of this Act \[Dec. 21, 2000\], a report includingthe results of the study conducted under subsection (a)(1) and recommendations made under subsection (a)(2); and
 
 &emsp;“(2) not later than 6 years after that date of the enactment, an update of such report.”
 
@@ -1127,7 +1133,7 @@ Section 202(e) of Pub. L. 102–564 provided that: “Not later than March 31, 1
 
 Section 6 of Pub. L. 97–219, as amended by Pub. L. 99–443, §3, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 100–418, title VIII, §8008, Aug. 23, 1988, 102 Stat. 1561; Pub. L. 100–647, title IX, §9003, Nov. 10, 1988, 102 Stat. 3808, provided that:
 
-“(a) The Comptroller General, no later than December 31, 1988, shall transmit a report to the appropriate committees of the House of Representatives and of the Senate evaluating the effectiveness to date of phase one and phase two of the SBIR Program as set out in section 9(e)(4) of the Small Business Act \[15 U.S.C. 638(e)(4)\]. Such report shall examine the quality of the research supported by the SBIR Program compared to that traditionally supported by the affected agencies, and the extent to which the goals of the SBIR Program are being met. Such report shall also include the judgments of the heads of departments and agencies as to the effect of this Act \[amending this section\] on research programs.
+“(a) The Comptroller General, no later than December 31, 1988, shall transmit a report to the appropriate committees of the House of Representatives and of the Senate evaluating the effectiveness to date of phase one and phase two of the SBIR Program as set out in section 9(e)(4) of the Small Business Act \[15 U.S.C. 638(e)(4)\]. Such report shall examine the quality of the research supported by the SBIR Program compared to that traditionally supported by the affected agencies, and the extent to which the goals of the SBIR Program are being met. Such report shall also include the judgments of the heads of departments and agencies as tothe effect of this Act \[amending this section\] on research programs.
 
 “(b) The Comptroller General, no later than December 31, 1991, shall transmit to such committees an update of the report mandated under subsection (a). Such report, in addition, shall include an evaluation of phase three of the SBIR Program including a discussion of the aggregate commercial trends for products which are then currently in or have completed phase three of the program.
 
@@ -1179,10 +1185,6 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 637, 645, 649, 657d, 657e of this title; title 7 sections 3310, 7624; title 10 sections 2302, 2304, 2320, 2500; title 23 section 505; title 29 section 3031; title 41 sections 253, 259, 416.
-
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
@@ -1194,4 +1196,6 @@ This section is referred to in sections 637, 645, 649, 657d, 657e of this title;
 <i><sup>5</sup></i><i> See References in Text note below.</i>
 
 <i><sup>6</sup></i><i> See References in Text note below.</i>
+
+<i><sup>7</sup></i><i> So in original. The words “described in paragraph (2)” probably should not appear.</i>
 

@@ -66,9 +66,9 @@ Subsec. (c). Pub. L. 95–408 substituted “Southern District” for “Eastern
 
 #### Effective Date of 1984 Amendment
 
-Section 406(b) of Pub. L. 98–620 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply to any action commenced in the United States District Court for the Northern District of Illinois on or after the effective date of this subtitle \[Jan. 1, 1985\], and shall not affect any action pending in such court on such effective date.”
+Section 406(b) of Pub. L. 98–620 provided that: “The amendments made by subsection (a) of this section\[amending this section\] shall apply to any action commenced in the United States District Court for the Northern District of Illinois on or after the effective date of this subtitle \[Jan. 1, 1985\], and shall not affect any action pending in such court on such effective date.”
 
-Amendment by Pub. L. 98–620 effective Jan. 1, 1985, and not to affect the composition, or preclude the service, of any grand or petit jury summoned, impaneled, oractually serving on that date, see section 411 of Pub. L. 98–620, set out as a note under section 85 of this title.
+Amendment by Pub. L. 98–620 effective Jan. 1, 1985, and not to affect the composition, or preclude the service, of any grand or petit jury summoned, impaneled, or actually serving on that date, see section 411 of Pub. L. 98–620, set out as a note under section 85 of this title.
 
 #### Effective Date of 1978 Amendment
 

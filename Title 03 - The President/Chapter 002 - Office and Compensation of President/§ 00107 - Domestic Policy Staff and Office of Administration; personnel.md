@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(ii) 5 employees at rates not to exceed the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of section 5332 of title 5; and
 
-&emsp;(B) to procure, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and inaccordance with the first two sentences of section 3109(b) of title 5, at respective daily rates of pay for individuals which are not more than the daily equivalent of the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of section 5332 of title 5.
+&emsp;(B) to procure, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and in accordance with the first two sentences of section 3109(b) of title 5, at respective daily rates of pay for individuals which are not more than the daily equivalent of the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of section 5332 of title 5.
 
 (2) In addition to any authority granted under paragraph (1) of this subsection, the President (or his designee) is authorized to employ individuals in the Office of Administration in accordance with section 3101 of title 5 and provisions relating thereto. Any individual so employed under the authority granted under such section 3101 shall be subject to the limitation specified in section 114 of this title.
 
@@ -49,8 +49,4 @@ Section 6(b) of Pub. L. 95–570 provided that: “In the case of an individual�
 &emsp;“(2) whose position would be terminated or whose rate of basic pay would be reduced (but for this subsection) by reason of section 107(b) of title 3, United States Code (as amended by this Act) \[subsec. (b) of this section\],
 
 > such employee may be allowed to continue to hold such position and receive basic pay at the rate in effect on the effective date of this Act \[see Effective Date of 1978 Amendment note set out under section 102 of this title\] during the period which begins on such date and ends 2 years after such date so long as such employee continues as an employee of the Office of Administration.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 115 of this title; title 26 section 3121; title 42 section 410.
 

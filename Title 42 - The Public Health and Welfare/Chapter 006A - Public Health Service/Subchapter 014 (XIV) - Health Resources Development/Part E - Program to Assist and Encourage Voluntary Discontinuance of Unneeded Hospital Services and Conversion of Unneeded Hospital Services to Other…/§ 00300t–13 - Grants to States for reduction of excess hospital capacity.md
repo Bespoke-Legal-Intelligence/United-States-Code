@@ -26,9 +26,5 @@ Grants under subsection (a) of this section shall be made on such terms and cond
 
 Section 300m of this title, referred to in subsec. (a), was in the original a reference to section 1521 of act July 1, 1944, which was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799. Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410, enacted section 1503 of act July 1, 1944, which is classified to section 300m of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300t–14 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

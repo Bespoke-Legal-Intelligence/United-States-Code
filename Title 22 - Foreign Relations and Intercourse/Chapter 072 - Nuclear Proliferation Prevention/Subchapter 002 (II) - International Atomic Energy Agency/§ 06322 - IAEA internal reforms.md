@@ -32,9 +32,5 @@ In order to promote the early adoption of reforms in the implementation of the s
 
 (Pub. L. 103–236, title VIII, §842, Apr. 30, 1994, 108 Stat. 523.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6323 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “section;”.</i>
 

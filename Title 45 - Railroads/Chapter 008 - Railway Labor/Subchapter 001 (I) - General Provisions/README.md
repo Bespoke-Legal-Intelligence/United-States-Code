@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 181, 182 of this title; title 11 section 1113.
-
 
 ---
 

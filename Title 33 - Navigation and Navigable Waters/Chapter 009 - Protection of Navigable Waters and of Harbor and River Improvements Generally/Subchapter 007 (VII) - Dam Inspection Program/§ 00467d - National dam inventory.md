@@ -10,7 +10,3 @@ A prior section 467d, Pub. L. 92–367, §5, Aug. 8, 1972, 86 Stat. 507, directe
 
 A prior section 6 of Pub. L. 92–367 was classified to section 467e of this title prior to repeal by Pub. L. 104–303.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 467j of this title.
-

@@ -10,7 +10,7 @@
 
 > For purposes of clause (B), an export (or attempted export) by a person who is an agent of, or is otherwise acting on behalf of or in the interests of, a country shall be considered to be an export (or attempted export) by that country.
 
-(2) Notwithstanding paragraph (1) of this subsection, the President in any fiscal year may furnish assistance which would otherwise be prohibited under that paragraph if he determines and certifies in writing during that fiscal year to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that the termination of such assistance would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security. The President shall transmit with such certification a statement setting forth the specific reasons therefor.
+(2) Notwithstanding paragraph (1) of this subsection, the President in any fiscal year may furnish assistance which would otherwise be prohibited under that paragraph if he determines and certifies in writing during that fiscal year to the Speaker of the House of Representatives and the Committee on Foreign Relationsof the Senate that the termination of such assistance would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security. The President shall transmit with such certification a statement setting forth the specific reasons therefor.
 
 (3)(A) A certification under paragraph (2) of this subsection shall take effect on the date on which the certification is received by the Congress. However, if, within 30 calendar days after receiving this certification, the Congress enacts a joint resolution stating in substance that the Congress disapproves the furnishing of assistance pursuant to the certification, then upon the enactment of that resolution the certification shall cease to be effective and all deliveries of assistance furnished under the authority of that certification shall be suspended immediately.
 
@@ -62,13 +62,13 @@
 
 (3) As used in this subsection—
 
-&emsp;(A) the term “design information” means specific information that relates to the designof a nuclear explosive device and that is not available to the public; and
+&emsp;(A) the term “design information” means specific information that relates to the design of a nuclear explosive device and that is not available to the public; and
 
 &emsp;(B) the term “component” means a specific component of a nuclear explosive device.
 
 (4)(A) Notwithstanding paragraph (1) of this subsection, the President may, for a period of not more than 30 days of continuous session, delay the imposition of sanctions which would otherwise be required under paragraph (1)(A) or (1)(B) of this subsection if the President first transmits to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a certification that he has determined that an immediate imposition of sanctions on that country would be detrimental to the national security of the United States. Not more than one such certification may be transmitted for a country with respect to the same detonation, transfer, or receipt of a nuclear explosive device.
 
-(B) If the President transmits a certification to the Congress under subparagraph (A), a joint resolution which would permit the President to exercise the waiver authority of paragraph (5) of this subsection shall, if introduced in either House within thirty days of continuous session after the Congress receives this certification, be considered in the Senate in accordance with subparagraph (C) of this paragraph.
+(B) If the President transmits a certification to the Congress under subparagraph (A), a joint resolution which would permit the President to exercise the waiver authority of paragraph (5) ofthis subsection shall, if introduced in either House within thirty days of continuous session after the Congress receives this certification, be considered in the Senate in accordance with subparagraph (C) of this paragraph.
 
 (C) Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
@@ -112,11 +112,17 @@ Subsec. (b)(2)(F). Pub. L. 105–194, §2(b), inserted “, which includes fert
 
 #### Change of Name
 
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9. 2004.
+
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–194, §2(d), July 14, 1998, 112 Stat. 627, provided that: “The amendment made by subsection (a)(3) \[amending this section\] shall apply to any credit, credit guarantee, or other financial assistance provided by the Department of Agriculture before, on, or after the date of enactment of this Act \[July 14, 1998\] through September 30, 1999.”
+
+#### Delegation of Functions
+
+Functions of President under subsec. (a)(2) of this section delegated to Secretary of State by section 1(a)(iii) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905,set out as a note under section 301 of Title 3, The President.
 
 #### Exemption for Rhinoceros, Tiger, Asian Elephant, and Great Ape Conservation Programs
 
@@ -199,8 +205,4 @@ Determination of President of the United States, No. 2000–18, Mar. 16, 2000, 6
 Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64 F.R. 60649.
 
 Determination of President of the United States, No. 99–7, Dec. 1, 1998, 34 Weekly Compilation of Presidential Documents 2402, Dec. 7, 1998.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2295a, 2295b, 3281 of this title.
 

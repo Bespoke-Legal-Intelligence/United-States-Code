@@ -32,7 +32,3 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 Functions of President under this section delegated to Secretary of Defense by Memorandum of President of the United States, Feb. 13, 1992, 57 F.R. 6663, set out as a note under section 2799b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2799b of this title.
-

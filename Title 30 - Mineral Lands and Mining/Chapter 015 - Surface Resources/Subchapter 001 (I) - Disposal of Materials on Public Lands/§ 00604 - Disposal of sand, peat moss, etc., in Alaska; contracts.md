@@ -6,7 +6,7 @@ Subject to the provisions of this subchapter, the Secretary may dispose of sand,
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other appropriate officer or entity in Departments of Agriculture and the Interior under this subchapter to Federal Inspector of Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 601 of this title.
+For transfer of certain enforcement functions of Secretary or other appropriate officer or entity in Departments of Agriculture and the Interior under this subchapter to Federal Inspector of Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 601 of this title.
 
 #### Admission of Alaska as State
 

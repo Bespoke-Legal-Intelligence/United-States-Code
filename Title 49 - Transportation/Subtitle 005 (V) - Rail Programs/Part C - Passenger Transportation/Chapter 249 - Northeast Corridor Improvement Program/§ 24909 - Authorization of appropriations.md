@@ -216,7 +216,3 @@ Act of February 28, 1975 (Public Law 94–6, 89 Stat. 11), referred to in subsec
 
 Section 602 of the Rail Passenger Service Act, referred to in subsec. (c), was classified to section 602 of Title 45, Railroads, prior to repeal by Pub. L. 102–533, §7(c), Oct. 27, 1992, 106 Stat. 3519.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 section 6907.
-

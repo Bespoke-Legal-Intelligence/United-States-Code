@@ -28,7 +28,7 @@ There is established as an independent agency of the United States Government an
 
 #### (b) Designation of substitutes
 
-Each member of the Council specified in paragraphs (2) through (8) other than (5) and (6) of subsection (a) of this section may designate another officer of his department, agency, or organization to serve on the Council in his stead, except that, in the case of paragraphs (2) and (4), no such officer other than an Assistant Secretary or an officer having major department-wide or agency-wide responsibilities may be so designated.
+Each member of the Council specified in paragraphs (2) through (8) other than (5) and (6) of subsection (a) of this section may designate another officer of his department, agency, or organization to serve on the Council in his stead, except that, in the case of paragraphs (2) and (4),no such officer other than an Assistant Secretary or an officer having major department-wide or agency-wide responsibilities may be so designated.
 
 #### (c) Term of office
 
@@ -93,8 +93,4 @@ Subsec. (b). Pub. L. 91–243, §1(c), substituted “(10)” for “(6)”.
 Subsec. (c). Pub. L. 91–243, §1(d), substituted “(11)” for “(8)”.
 
 Subsec. (f). Pub. L. 91–243, §1(e), substituted “Eleven” for “Eight”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 470<i>l</i>, 470w of this title; title 40 section 3303.
 

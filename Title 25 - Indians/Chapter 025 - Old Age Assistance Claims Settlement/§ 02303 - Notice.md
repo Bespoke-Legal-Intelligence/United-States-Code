@@ -18,7 +18,3 @@ Not more than thirty days after the expiration of the one hundred and eighty day
 
 (Pub. L. 98–500, §4, Oct. 19, 1984, 98 Stat. 2317.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2301 of this title.
-

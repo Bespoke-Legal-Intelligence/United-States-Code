@@ -72,7 +72,7 @@ This joint resolution and this Act, referred to in text, is Pub. L. 99–658, No
 
 For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes effect, referred to in subsecs. (a) and (d), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out below.
 
-Section 601(b) of Public Law 94–329, referred to in subsec. (d)(3), is section 601(b) of Pub. L. 94–329, title VI,June 30, 1976, 90 Stat. 765, which is not classified to the Code.
+Section 601(b) of Public Law 94–329, referred to in subsec. (d)(3), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
 
 #### Codification
 
@@ -150,7 +150,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 121
 
-“(a) The Republic of Palau has the capacity to conduct foreign affairs in its own name and right, except as otherwise provided in this Compact and the Government of the United States recognizes that the Government of Palau, in the exercise of this capacity, mayenter into, in its own name and right, treaties and other international agreements with governments and regional and international organizations.
+“(a) The Republic of Palau has the capacity to conduct foreign affairs in its own name and right, except as otherwise provided in this Compact and the Government of the United States recognizes that the Government of Palau, in the exercise of this capacity, may enter into, in its own name and right, treaties and other international agreements with governments and regional and international organizations.
 
 “(b) In the conduct of its foreign affairs the Government of Palau confirms that it shall act in accordance with principles of international law and shall settle its international disputes by peaceful means.
 
@@ -280,7 +280,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 163
 
-“In order to carry out the policy set forth in this Article, the Government of the United States and the Government of Palau agree to the following undertakings.
+“In order to carry out the policy set forth in this Article, the Government of the United States and theGovernment of Palau agree to the following undertakings.
 
 “(a) The Government of the United States:
 
@@ -334,7 +334,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 175
 
-“A separate agreement, which shall come into effect simultaneously with this Compact, shall be concluded between the Government of the United States and the Government of Palau regarding mutual assistance and cooperation in law enforcement matters including the pursuit, capture, imprisonment and extradition of fugitives from justice and the transfer of prisoners. The separate agreement shall have the force of law. In the United States, the laws of the United States governing international extradition, including 18 U.S.C. 3184, 3186 and 3188–3195, shall be applicable to the extradition of fugitives under the separate agreement, and the laws of the United States governing the transfer of prisoners, including 18 U.S.C. 4100–4115, shall be applicable to the transfer of prisoners under the separate agreement.
+“A separate agreement, which shall come into effect simultaneously with this Compact, shall be concludedbetween the Government of the United States and the Government of Palau regarding mutual assistance and cooperation in law enforcement matters including the pursuit, capture, imprisonment and extradition of fugitives from justice and the transfer of prisoners. The separate agreement shall have the force of law. In the United States, the laws of the United States governing international extradition, including 18 U.S.C. 3184, 3186 and 3188–3195, shall be applicable to the extradition of fugitives under the separate agreement, and the laws of the United States governing the transfer of prisoners, including 18 U.S.C. 4100–4115, shall be applicable to the transfer of prisoners under the separate agreement.
 
 #### “Section 176
 
@@ -394,7 +394,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 213
 
-“The Government of the United States shall provide on a grant basis to the Government of Palau the sum of $5.5 million in conjunction with Article II of Title Three. This sum shall be made available concurrently with the grant assistance provided pursuant to this Article during the first year after the effective date of this Compact. The Government of Palau, in its use of such funds, shall take into account the impact of theactivities of the Government of the United States in Palau.
+“The Government of the United States shall provide on a grant basis to the Government of Palau the sum of $5.5 million in conjunction with Article II of Title Three. This sum shall be made available concurrentlywith the grant assistance provided pursuant to this Article during the first year after the effective date of this Compact. The Government of Palau, in its use of such funds, shall take into account the impact of the activities of the Government of the United States in Palau.
 
 #### “Section 214
 
@@ -462,7 +462,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 234
 
-“Title to the property of the Government of the United States situated in the Trust Territory of the Pacific Islands and in Palau or acquired for or used by the Government of the Trust Territory of the PacificIslands on or before the day preceding the effective date of this Compact shall, without reimbursement or transfer of funds, vest in the Government of Palau as set forth in a separate agreement which shall come into effect simultaneously with this Compact. The provisions of this Section shall not apply to the personal property of the Government of the United States for which the Government of the United States determines a continuing requirement.
+“Title to the property of the Government of the United States situated in the Trust Territory of thePacific Islands and in Palau or acquired for or used by the Government of the Trust Territory of the Pacific Islands on or before the day preceding the effective date of this Compact shall, without reimbursement or transfer of funds, vest in the Government of Palau as set forth in a separate agreement which shall come into effect simultaneously with this Compact. The provisions of this Section shall not apply to the personal property of the Government of the United States for which the Government of the United States determines a continuing requirement.
 
 #### “Section 235
 
@@ -524,7 +524,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 254
 
-“(a) In determining any income tax imposed by the Government of Palau, the Government of Palau shall have authority to impose tax upon income derived by a resident of Palau from sources without Palau in the same manner and to the same extent as the Government of Palau imposes tax upon income derived from within its jurisdiction. If the Government of Palau exercises such authority as provided in this subsection, any individual resident of Palau who is subject to tax by the Government of the United States on income which is also taxed by the Government of Palau shall be relieved of liability to the Government of the United States for the tax which, but for this subsection, would otherwise be imposed by the Government of the United States on such income. For purposes of this Section, the term ‘resident of Palau’ shall be deemed to include any person who was physically present in Palau for a period of 183 or more days during any taxable year. The relief from liability referred to in this subsection means only:
+“(a) In determining any income tax imposed by the Government of Palau, the Government of Palau shall have authority to impose tax upon income derived by a resident of Palau from sources without Palau in the same manner and to the same extent as the Government of Palau imposes tax upon income derived from within its jurisdiction. If the Government of Palau exercises such authority as provided in this subsection, any individual resident of Palau who is subject to tax by the Government of the United States on income which is also taxed by the Government of Palau shall be relieved of liability to the Government of the United States for the tax which, but for this subsection, would otherwise be imposed by the Government of the United States on such income. For purposes of this Section, the term ‘resident of Palau’ shall be deemed to include any person who was physically present in Palau for aperiod of 183 or more days during any taxable year. The relief from liability referred to in this subsection means only:
 
 &emsp;“(1) relief in the form of the foreign tax credit (or deduction in lieu thereof) available with respect to the income taxes of a possession of the United States, and
 
@@ -600,7 +600,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(a) Any defense treaty or other international security agreement applied by the Government of the United States as administering authority of the Trust Territory of the Pacific Islands as of the day preceding the effective date of this Compact; and
 
-“(b) Any defense treaty or other international security agreement to which the Government of the United States is or may become a party which it determines to be applicable in Palau. Such a determination by the Government of the United States shall be preceded by appropriate consultation with the Government of Palau.
+“(b) Any defense treaty or other international security agreement to which the Government of the United States is or may become a party which it determines tobe applicable in Palau. Such a determination by the Government of the United States shall be preceded by appropriate consultation with the Government of Palau.
 
 #### “Article IV
 
@@ -686,7 +686,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “Should a dispute be referred to arbitration as provided for in Section 423, an arbitration board shall be established for the purpose of hearing the dispute and rendering a decision which shall be binding upon the two parties to the dispute unless the two parties mutually agree that the decision shall be advisory. Arbitration shall occur according to the following terms:
 
-“(a) An arbitration board shall consist of a chairman and two other members, each of whom shall be a citizen of a party to the dispute and each of the two parties to the dispute shall appoint one member to the arbitration board. If either party to the dispute does not fulfill the appointment requirements of this Section within 30 days of referral of the dispute to arbitration pursuant to Section 423, its member on the arbitration board shall be selected from its own standing list by the other party to the dispute. Each government shall maintain a standing list of 10 candidates. The parties to the dispute shall jointly appoint a chairman within 15 days after selection of the other members of the arbitration board. Failing agreement on a chairman, the chairman shall be chosen by lot from the standing lists of the parties to the dispute within 5 days after such failure.
+“(a) An arbitration board shall consist of a chairman and two other members, each of whom shall be a citizen of a party to the dispute and each of the two parties to the dispute shall appoint one member to the arbitration board. If either party to the dispute does not fulfillthe appointment requirements of this Section within 30 days of referral of the dispute to arbitration pursuant to Section 423, its member on the arbitration board shall be selected from its own standing list by the other party to the dispute. Each government shall maintain a standing list of 10 candidates. The parties to the dispute shall jointly appoint a chairman within 15 days after selection of the other members of the arbitration board. Failing agreement on a chairman, the chairman shall be chosen by lot from the standing lists of the parties to the dispute within 5 days after such failure.
 
 “(b) The arbitration board shall have jurisdiction to hear and render its final determination on all disputes arising exclusively under Articles I, II, III, IV, and VI of Title One, Title Two, Title Four and their related agreements.
 
@@ -768,7 +768,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(b) ‘Trusteeship Agreement’ means the agreement setting forth the terms of trusteeship for the Trust Territory of the Pacific Islands, approved by the Security Council of the United Nations April 2, 1947, and by the United States July 18, 1947, entered into force July 18, 1947, 61 Stat. 3301, T.I.A.S. 1665, 8 U.N.T.S. 189.
 
-“(c) ‘Palau’ is used in a geographic sense and includes the land and water areas to the outer limits of the territorial sea and the air space above such areas as now or hereafter recognized by the Government of theUnited States consistent with the Compact and its related agreements.
+“(c) ‘Palau’ is used in a geographic sense and includes the land and water areas to the outer limits of the territorial sea and the air space above such areas as now or hereafter recognized by the Government of the United States consistent with the Compact and its related agreements.
 
 “(d) ‘Government of Palau’ means the Government established and organized by the Constitution of Palau including all the political subdivisions and entities comprising that Government.
 
@@ -883,10 +883,6 @@ Sec. 3. I am gratified that the people of the Republic of Palau, after 47 years 
 IN WITNESS WHEREOF, I have hereunto set my hand this twenty-seventh day of September, in the year of our Lord nineteen hundred and ninety-four, and of the Independence of the United States of America the two hundred and nineteenth.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1951, 1955, 1972 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 

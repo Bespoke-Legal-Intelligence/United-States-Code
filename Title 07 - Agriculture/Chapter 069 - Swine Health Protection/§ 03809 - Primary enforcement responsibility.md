@@ -36,7 +36,3 @@ Nothing in this section shall limit the authority of the Secretary to enforce th
 
 1996—Subsecs. (c), (d). Pub. L. 104–127 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3803, 3804 of this title.
-

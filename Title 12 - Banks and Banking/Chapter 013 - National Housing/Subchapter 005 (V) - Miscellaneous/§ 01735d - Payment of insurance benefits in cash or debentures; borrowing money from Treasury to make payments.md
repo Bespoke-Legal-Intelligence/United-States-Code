@@ -18,9 +18,5 @@ Subchapter IX–C of this chapter, referred to in subsec. (b), was classified to
 
 1967—Subsecs. (a), (b). Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1710 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding section 512 of Public Law 107–115 or any other similar provision of law, the President is authorized to provide assistance for Afghanistan for the following activities:
+Notwithstanding any other provision of law, the President is authorized to provide assistance for Afghanistan for the following activities:
 
 #### (1) Urgent humanitarian needs
 
@@ -24,7 +24,7 @@ Notwithstanding section 512 of Public Law 107–115 or any other similar provisi
 
 &emsp;&emsp;(A) assistance identified in paragraph (1);
 
-&emsp;&emsp;(B) assistance to communities, including those in neighboring countries, that have taken in large numbers of refugees in order to rehabilitate or expand social, health, and educational services that may have suffered as a result of the influx of large numbers of refugees;
+&emsp;&emsp;(B) assistance to communities, including those in neighboring countries, that have taken in large numbers of refugees in order to rehabilitate or expand social, health, and educational services that may have sufferedas a result of the influx of large numbers of refugees;
 
 &emsp;&emsp;(C) assistance to international organizations and host governments in maintaining security by screening refugees to ensure the exclusion of armed combatants, members of foreign terrorist organizations, and other individuals not eligible for economic assistance from the United States; and
 
@@ -34,15 +34,17 @@ Notwithstanding section 512 of Public Law 107–115 or any other similar provisi
 
 &emsp;(A) To assist in the eradication of poppy cultivation, the disruption of heroin production, and the reduction of the overall supply and demand for illicit narcotics in Afghanistan and the region, with particular emphasis on assistance to—
 
-&emsp;&emsp;(i) eradicate opium poppy, establish crop substitution programs, purchase nonopium products from farmers in opium-growing areas, quick-impact public works programs to divert labor from narcotics production, develop projects directed specifically at narcotics production, processing, or trafficking areas to provide incentives to cooperation in narcotics suppression activities, and related programs;
+&emsp;&emsp;(i) eradicate opium poppy, promote alternatives to poppy cultivation, including the introduction of high value crops that are suitable for export and the provision of appropriate technical assistance and credit mechanisms for farmers, purchase nonopium products from farmers in opium-growing areas, quick-impact public works programs to divert labor from narcotics production, develop projects directed specifically at narcotics production, processing, or trafficking areas to provide incentives to cooperation in narcotics suppression activities, and related programs;
 
-&emsp;&emsp;(ii) establish or provide assistance to one or more entities within the Government of Afghanistan, including the Afghan State High Commission for Drug Control, and to provide training and equipment for the entities, to help enforce counternarcotics laws in Afghanistan and limit illicit narcotics growth, production, and trafficking in Afghanistan;
+&emsp;&emsp;(ii) establish or provide assistance to one or more entities within the Government of Afghanistan, including the Afghan State High Commission for Drug Control, and to provide training and equipment for the entities, to help enforce counternarcotics laws in Afghanistan and limit illicit narcotics growth, production, and trafficking in Afghanistan, and to create special counternarcotics courts, prosecutors, and places of incarceration;
 
-&emsp;&emsp;(iii) train and provide equipment for customs, police, and other border control entities in Afghanistan and the region relating to illicit narcotics interdiction and relating to precursor chemical controls and interdiction to help disrupt heroin production in Afghanistan and the region;
+&emsp;&emsp;(iii) train and provide equipment for customs, police, and other border control entities in Afghanistan and the region relating to illicit narcotics interdiction and relating to precursor chemical controls and interdiction to help disrupt heroin production in Afghanistan and the region, in particular, notwithstanding section 2420 of this title, by providing non-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units;
 
-&emsp;&emsp;(iv) continue the annual opium crop survey and strategic studies on opium crop planting and farming in Afghanistan; and
+&emsp;&emsp;(iv) continue the annual opium crop survey and strategic studies on opium crop planting and farming in Afghanistan;
 
-&emsp;&emsp;(v) reduce demand for illicit narcotics among the people of Afghanistan, including refugees returning to Afghanistan.
+&emsp;&emsp;(v) reduce demand for illicit narcotics among the people of Afghanistan, including refugees returning to Afghanistan; and
+
+&emsp;&emsp;(vi) assist the Afghan National Army with respect to any of the activities under this paragraph.
 
 &emsp;(B) For each of the fiscal years 2003 through 2006, $15,000,000 is authorized to be appropriated to the President to be made available for a contribution to the United Nations Drug Control Program for the purpose of carrying out activities described in clauses (i) through (v) of subparagraph (A). Amounts made available under the preceding sentence are in addition to amounts otherwise available for such purposes.
 
@@ -70,43 +72,69 @@ Notwithstanding section 512 of Public Law 107–115 or any other similar provisi
 
 &emsp;&emsp;(J) programs to reconstitute the delivery of health care, including the reconstruction of health clinics or other basic health infrastructure, with particular emphasis on health care for children who are orphans;
 
-&emsp;&emsp;(K) programs for housing (including repairing homes damaged during military operations), rebuilding urban infrastructure, and supporting basic urban services; and
+&emsp;&emsp;(K) programs for housing (including repairing homes damaged during military operations), rebuilding urban infrastructure, and supporting basic urban services;
 
-&emsp;&emsp;(L) disarmament, demobilization, and reintegration of armed combatants into society, particularly child soldiers.
+&emsp;&emsp;(L) disarmament, demobilization, and reintegration of armed combatants into society, particularly child soldiers; and
 
-#### (5) Reestablishment of Afghanistan as a viable nation-state
+&emsp;&emsp;(M) assistance in identifying and surveying key road and rail routes that are essential for economic renewal in Afghanistan and the region and support for the establishment of a customs service and training for customs officers.
 
-&emsp;(A) To assist in the development of the capacity of the Government of Afghanistan to meet the needs of the people of Afghanistan through, among other things, support for the development and expansion of democratic and market-based institutions, including assistance such as—
+#### (5) Education, the rule of law, and related issues
 
-&emsp;&emsp;(i) support for international organizations that provide civil advisers to the Government of Afghanistan;
+#### (A) Education
 
-&emsp;&emsp;(ii) support for an educated citizenry through improved access to basic education, with particular emphasis on basic education for children who are orphans, with particular emphasis on basic education for children;
+&emsp;&emsp;To assist in the development of the capacity of the Government of Afghanistan to provide education to the people of Afghanistan, including assistance such as—
 
-&emsp;&emsp;(iii) programs to enable the Government of Afghanistan to recruit and train teachers, with special focus on the recruitment and training of female teachers;
+&emsp;&emsp;&emsp;(i) support for an educated citizenry through improved access to basic education, with particular emphasis on basic education for children, especially orphans;
 
-&emsp;&emsp;(iv) programs to enable the Government of Afghanistan to develop school curriculum that incorporates relevant information such as landmine awareness, food security and agricultural education, human rights awareness, including religious freedom, and civic education;
+&emsp;&emsp;&emsp;(ii) programs to enable the Government of Afghanistan to recruit and train teachers, with special focus on the recruitment and training of female teachers;
 
-&emsp;&emsp;(v) support for the activities of the Government of Afghanistan to draft a new constitution, other legal frameworks, and other initiatives to promote the rule of law in Afghanistan, including the recognition of religious freedom in the constitution and other legal frameworks;
+&emsp;&emsp;&emsp;(iii) programs to enable the Government of Afghanistan to develop school curricula that incorporate relevant information such as landmine awareness, food security and agricultural education, civic education, and human rights education, including education relating to religious freedom;
 
-&emsp;&emsp;(vi) support to increase the transparency, accountability, and participatory nature of governmental institutions, including programs designed to combat corruption and other programs for the promotion of good governance;
+&emsp;&emsp;&emsp;(iv) programs to construct, renovate, or rebuild, and to equip and provide teacher training, for primary schools, secondary schools, and universities; and
 
-&emsp;&emsp;(vii) support for an independent media;
+&emsp;&emsp;&emsp;(v) programs to increase educational exchanges and partnerships between the United States and Afghanistan.
 
-&emsp;&emsp;(viii) programs that support the expanded participation of women and members of all ethnic groups in government at national, regional, and local levels;
+#### (B) Rule of law
 
-&emsp;&emsp;(ix) programs to strengthen civil society organizations that promote human rights, including religious freedom, freedom of expression, and freedom of association, and support human rights monitoring;
+&emsp;&emsp;To assist in the development of the rule of law and good governance and reduced corruption in Afghanistan, including assistance such as—
 
-&emsp;&emsp;(x) support for Afghan and international efforts to investigate human rights atrocities committed in Afghanistan by the Taliban regime, opponents of such regime, and terrorist groups operating in Afghanistan, including the collection of forensic evidence relating to such atrocities;
+&emsp;&emsp;&emsp;(i) support for the activities of the Government of Afghanistan to implement its constitution, to develop modern legal codes and court rules, to provide for the creation of legal assistance programs, and other initiatives to promote the rule of law in Afghanistan;
 
-&emsp;&emsp;(xi) support for national, regional, and local elections and political party development;
+&emsp;&emsp;&emsp;(ii) support for improvements in the capacity and physical infrastructure of the justice system in Afghanistan, such as for professional training (including for women) to improve the administration of justice, for programs to enhance prosecutorial and judicial capabilities and to protect participants in judicial cases, for improvements in the instruction of law enforcement personnel (including human rights training), and for the promotion of civilian police roles that support democracy;
 
-&emsp;&emsp;(xii) support for the effective administration of justice at the national, regional, and local levels, including the establishment of a responsible and community-based police force;
+&emsp;&emsp;&emsp;(iii) support for rehabilitation and rebuilding of courthouses and detention facilities;
 
-&emsp;&emsp;(xiii) support for establishment of a central bank and central budgeting authority; and
+&emsp;&emsp;&emsp;(iv) support for the effective administration of justice at the national, regional, and local levels, including programs to improve penal institutions and the rehabilitation of prisoners, and to establish a responsible and community-based police force;
 
-&emsp;&emsp;(xiv) assistance in identifying and surveying key road and rail routes essential for economic renewal in Afghanistan and the region, support in reconstructing those routes, and support for the establishment of a customs service and training for customs officers.
+&emsp;&emsp;&emsp;(v) support to increase the transparency, accountability, and participatory nature of governmental institutions, including programs designed to combat corruption and other programs for the promotion of good governance, such as the development of regulations relating to financial disclosure for public officials, political parties, and candidates for public office, and transparent budgeting processes and financial management systems;
 
-&emsp;(B) For each of the fiscal years 2003 through 2005, $10,000,000 is authorized to be appropriated to the President to be made available for the purposes of carrying out a traditional Afghan assembly or “Loya Jirga” and for support for national, regional, and local elections and political party development under subparagraph (A)(xi).
+&emsp;&emsp;&emsp;(vi) support for establishment of a central bank and central budgeting authority;
+
+&emsp;&emsp;&emsp;(vii) support for international organizations that provide civil advisers to the Government of Afghanistan; and
+
+&emsp;&emsp;&emsp;(viii) support for Afghan and international efforts to investigate human rights atrocities committed in Afghanistan by the Taliban regime, opponents of such regime, and terrorist groups operating in Afghanistan, including the collection of forensic evidence relating to such atrocities.
+
+#### (C) Civil society and democracy
+
+&emsp;&emsp;To support the development of democratic institutions in Afghanistan, including assistance for—
+
+&emsp;&emsp;&emsp;(i) international monitoring and observing of, and the promotion of, free and fair elections;
+
+&emsp;&emsp;&emsp;(ii) strengthening democratic political parties;
+
+&emsp;&emsp;&emsp;(iii) international exchanges and professional training for members or officials of government, political, and civic or other nongovernmental entities;
+
+&emsp;&emsp;&emsp;(iv) national, regional, and local elections and political party development;
+
+&emsp;&emsp;&emsp;(v) an independent media;
+
+&emsp;&emsp;&emsp;(vi) programs that support the expanded participation of women and members of all ethnic groups in government at national, regional, and local levels; and
+
+&emsp;&emsp;&emsp;(vii) programs to strengthen civil society organizations that promote human rights, including religious freedom, freedom of expression, and freedom of association, and support human rights monitoring.
+
+#### (D) Protection of sites
+
+&emsp;&emsp;To provide for the protection of Afghanistan's culture, history, and national identity, including the rehabilitation of Afghanistan's museums and sites of cultural significance.
 
 #### (6) Market economy
 
@@ -152,7 +180,7 @@ Notwithstanding section 512 of Public Law 107–115 or any other similar provisi
 
 &emsp;&emsp;&emsp;(xi) to provide women's rights and human rights training for military, police, and legal personnel; and
 
-&emsp;&emsp;&emsp;(xii) to support the National Human Rights Commission in programs to promote women's rights and human rights, including the rights of religious freedom, freedom of expression, and freedom of association, and in the investigation and monitoring of women's rights and human rights abuses.
+&emsp;&emsp;&emsp;(xii) to support the Afghan Independent Human Rights Commission in programs to promote women's rights and human rights, including the rights of religious freedom, freedom of expression, and freedom of association, and in the investigation and monitoring of women's rights and human rights abuses.
 
 #### (B) Availability of funds
 
@@ -192,15 +220,113 @@ Notwithstanding section 512 of Public Law 107–115 or any other similar provisi
 
 &emsp;Amounts appropriated pursuant to paragraph (1) are authorized to remain available until expended.
 
-(Pub. L. 107–327, title I, §103, Dec. 4, 2002, 116 Stat. 2799.)
+#### (d) Monitoring of assistance for Afghanistan
 
-#### References in Text
+#### (1) Report
 
-Section 512 of Public Law 107–115, referred to in subsec. (a), is section 512 of Pub. L. 107–115, title V, Jan. 10, 2002, 115 Stat. 2141, which is not classified to the Code.
+#### (A) In general
 
-#### Section Referred to in Other Sections
+&emsp;&emsp;The Secretary of State, in consultation with the Administrator for the United States Agency for International Development, shall submit to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report on the obligations of United States assistance for Afghanistan from all United States Government departments and agencies.
 
-This section is referred to in section 7518 of this title.
+#### (B) Contents
+
+&emsp;&emsp;Each such report shall set forth, for the preceding annual period and cumulatively, a description of—
+
+&emsp;&emsp;&emsp;(i) the activities and the purposes for which funds were obligated;
+
+&emsp;&emsp;&emsp;(ii) the source of the funds stated specifically by fiscal year, agency, and program;
+
+&emsp;&emsp;&emsp;(iii) the participation of each United States Government department or agency; and
+
+&emsp;&emsp;&emsp;(iv) such other information as the Secretary considers appropriate to fully inform Congress on such matters.
+
+#### (C) Additional requirements
+
+&emsp;&emsp;The first report submitted under this paragraph shall include a cumulative account of information described in subparagraph (B) from all prior periods beginning with fiscal year 2001. The first report under this paragraph shall be submitted not later than March 15, 2005. Subsequent reports shall be submitted every 12 months thereafter and may be included in the report required under section 7536(c)(2) of this title.
+
+#### (2) Submission of information for report
+
+&emsp;The head of each United States Government agency referred to in paragraph (1) shall provide on a timely basis to the Secretary of State such information as the Secretary may reasonably require to allow the Secretary to prepare and submit the report required under paragraph (1).
+
+(Pub. L. 107–327, title I, §103, Dec. 4, 2002, 116 Stat. 2799; Pub. L. 108–458, title VII, §7104(e)(1)(B), (f)(2)–(g), (j)(1), (k)(2), Dec. 17, 2004, 118 Stat. 3782, 3783, 3785, 3787, 3788.)
+
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–458, §7104(e)(1)(B), substituted “any other” for “section 512 of Public Law 107–115 or any other similar” in introductory provisions.
+
+Subsec. (a)(3)(A)(i). Pub. L. 108–458, §7104(j)(1)(A), substituted “promote alternatives to poppy cultivation, including the introduction of high value crops that are suitable for export and the provision of appropriate technical assistance and credit mechanisms for farmers,” for “establish crop substitution programs,”.
+
+Subsec. (a)(3)(A)(ii). Pub. L. 108–458, §7104(j)(1)(B), inserted “, and to create special counternarcotics courts, prosecutors, and places of incarceration” before semicolon at end.
+
+Subsec. (a)(3)(A)(iii). Pub. L. 108–458, §7104(j)(1)(C), inserted before semicolon at end “, in particular, notwithstanding section 2420 of this title, by providing non-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units”.
+
+Subsec. (a)(3)(A)(vi). Pub. L. 108–458, §7104(j)(1)(D)–(F), added cl. (vi).
+
+Subsec. (a)(4)(M). Pub. L. 108–458, §7104(f)(3), added subpar. (M).
+
+Subsec. (a)(5). Pub. L. 108–458, §7104(f)(2), amended heading and text of par. (5) generally, substituting provisions relating to education, the rule of law, and related issues, for provisions relating to reestablishment of Afghanistan as a viable nation-state.
+
+Subsec. (a)(7)(A)(xii). Pub. L. 108–458, §7104(k)(2), substituted “Afghan Independent” for “National”.
+
+Subsec. (d). Pub. L. 108–458, §7104(g), added subsec. (d).
+
+#### Declarations of policy
+
+Pub. L. 108–458, title VII, §7104(e)(1)(A), Dec. 17, 2004, 118 Stat. 3781, provided that: “Congress reaffirms the authorities contained in title I of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 \[7511\] et seq.), relating to economic and democratic development assistance for Afghanistan.”
+
+Pub. L. 108–458, title VII, §7104(f)(1), Dec. 17, 2004, 118 Stat. 3783, provided that: “Congress declares that, although Afghanistan has adopted a new constitution and made progress on primary education, the United States must invest in a concerted effort in Afghanistan to improve the rule of law, good governance, and effective policing, to accelerate work on secondary and university education systems, and to establish new initiatives to increase the capacity of civil society.”
+
+#### Relief for Afghan Women and Children
+
+Pub. L. 107–81, Dec. 12, 2001, 115 Stat. 811, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Afghan Women and Children Relief Act of 2001’.
+
+#### “SEC. 2. FINDINGS.
+
+“Congress makes the following findings:
+
+&emsp;“(1) In Afghanistan, Taliban restrictions on women's participation in society make it nearly impossible for women to exercise their basic human rights. The Taliban restrictions on Afghan women's freedom of expression, association, and movement deny women full participation in society and, consequently, from effectively securing basic access to work, education, and health care.
+
+&emsp;“(2) Afghanistan has one of the highest infant (165 of 1000) and child (257 of 1000) mortality rates in the world.
+
+&emsp;“(3) Only 5 percent of rural and 39 percent of urban Afghans have access to safe drinking water.
+
+&emsp;“(4) It is estimated that 42 percent of all deaths in Afghanistan are due to diarrheal diseases caused by contaminated food and water.
+
+&emsp;“(5) Over one-third of Afghan children under 5 years of age suffer from malnutrition, 85,000 of whom die annually.
+
+&emsp;“(6) Seventy percent of the health care system in Afghanistan is dependent on foreign assistance.
+
+&emsp;“(7) As of May 1998, only 20 percent of hospital medical and surgical beds dedicated to adults were available for women, and thousands of Afghan women and girls are routinely denied health care.
+
+&emsp;“(8) Women are forbidden to leave their homes without being escorted by a male relative. This prevents many women from seeking basic necessities like health care and food for their children. Doctors, virtually all of whom are male, are also not permitted to provide certain types of care not deemed appropriate by the Taliban.
+
+&emsp;“(9) Before the Taliban took control of Kabul, schools were coeducational, with women accountingfor 70 percent of the teaching force. Women represented about 50 percent of the civil service corps, and 40 percent of the city's physicians were women. Today, the Taliban prohibits women from working as teachers, doctors, and in any other occupation.
+
+&emsp;“(10) The Taliban prohibit \[sic\] girls and women from attending school. In 1998, the Taliban ordered the closing of more than 100 privately funded schools where thousands of young women and girls were receiving education and training in skills that would have helped them support themselves and their families.
+
+&emsp;“(11) Of the many tens of thousands of war widows in Afghanistan, many are forced to beg for food and to sell their possessions because they are not allowed to work.
+
+&emsp;“(12) Resistance movements courageously continue to educate Afghan girls in secrecy and in foreign countries against Taliban law.
+
+#### “SEC. 3. AUTHORIZATION OF ASSISTANCE.
+
+“(a)
+
+In General.—Subject to subsection (b), the President is authorized, on such terms and conditions as the President may determine, to provide educational and health care assistance for the women and children living in Afghanistan and as refugees in neighboring countries.
+
+“(b)
+
+Implementation.—(1) In providing assistance under subsection (a), the President shall ensure that such assistance is provided in a manner that protects and promotes the human rights of all people in Afghanistan, utilizing indigenous institutions and nongovernmental organizations, especially women's organizations, to the extent possible.
+
+“(2) Beginning 6 months after the date of enactment of this Act \[Dec. 12, 2001\], and at least annually for the 2 years thereafter, the Secretary of State shall submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on International Relations of the House of Representatives describing the activities carried out under this Act and otherwise describing the condition and status of women and children in Afghanistan and the persons in refugee camps while United States aid is given to displaced Afghans.
+
+“(c)
+
+Availability of Funds.—Funds made available under the 2001 Emergency Supplemental Appropriations Act for Recovery from and Response to Terrorist Attacks on the United States (Public Law 107–38) \[115 Stat. 220\], shall be available to carry out this Act.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “ordnance.”</i>
 

@@ -34,7 +34,3 @@ Pub. L. 95–598, title IV, §405(d), Nov. 6, 1978, 92 Stat. 2685, provided that
 
 Pub. L. 95–598, title IV, §410, Nov. 6, 1978, 92 Stat. 2687, provided that: “The Supreme Court may issue such additional rules of procedure, consistent with Acts of Congress, as may be necessary for the orderly transfer of functions and records and the orderly transition to the new bankruptcy court system created by this Act \[see Tables for complete classification of Pub. L. 95–598\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2073 of this title.
-

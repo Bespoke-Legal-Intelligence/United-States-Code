@@ -8,7 +8,3 @@ As used in sections 485h–1 to 485h–5 of this title, the term “long-term co
 
 Section was not enacted as part of the Reclamation Project Act of 1939 which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 485h–2, 485h–4, 485h–5 of this title.
-

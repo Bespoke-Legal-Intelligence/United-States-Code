@@ -14,7 +14,3 @@ Monetary relief recovered in an action under section 15c(a)(1) of this title sha
 
 Injuries sustained prior to Sept. 30, 1976, not covered by this section, see section 304 of Pub. L. 94–435, set out as a note under section 15c of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15g, 15h of this title.
-

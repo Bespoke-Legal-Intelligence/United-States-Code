@@ -20,7 +20,7 @@ A creditor may not unilaterally terminate any account under an open end consumer
 
 #### (1) In general
 
-&emsp;No open end consumer credit plan under which extensions of credit are secured by a consumer's principal dwelling may contain a provision which permits a creditor to change unilaterally any term required to be disclosed under section 1637a(a) of this title or any other term, except a change in insignificant terms such as the address of the creditor for billing purposes.
+&emsp;No open end consumer credit plan under which extensions of credit are secured by a consumer's principal dwelling may contain aprovision which permits a creditor to change unilaterally any term required to be disclosed under section 1637a(a) of this title or any other term, except a change in insignificant terms such as the address of the creditor for billing purposes.
 
 #### (2) Certain changes not precluded
 
@@ -32,7 +32,7 @@ A creditor may not unilaterally terminate any account under an open end consumer
 
 &emsp;&emsp;(C) Prohibit additional extensions of credit or reduce the credit limit applicable to the account during any period in which the creditor has reason to believe that the consumer will be unable to comply with the repayment requirements of the account due to a material change in the consumer's financial circumstances.
 
-&emsp;&emsp;(D) Prohibit additional extensions of credit or reduce the credit limit applicable to the account during any period in which the consumer is in default with respect to anymaterial obligation of the consumer under the agreement.
+&emsp;&emsp;(D) Prohibit additional extensions of credit or reduce the credit limit applicable to the account during any period in which the consumer is in default with respect to any material obligation of the consumer under the agreement.
 
 &emsp;&emsp;(E) Prohibit additional extensions of credit or reduce the credit limit applicable to the account during any period in which—
 
@@ -83,10 +83,6 @@ For effective date of section, see Regulations; Effective Date note below.
 #### Regulations; Effective Date
 
 For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709 \[enacting this section\], and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1637a of this title; title 12 section 1715z–20.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

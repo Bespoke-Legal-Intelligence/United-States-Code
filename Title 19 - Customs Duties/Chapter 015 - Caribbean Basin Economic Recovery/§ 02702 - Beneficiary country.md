@@ -276,9 +276,5 @@ Intent of the Congress.—The Congress hereby expresses its intention to ensure 
 
 &emsp;“(3) generic changes in the trade laws of the United States do not discriminate against imports from designated beneficiary countries in relation to imports from other United States trading partners.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1202, 2191, 2194, 2411, 2703, 2707 of this title; title 7 section 1737; title 26 sections 274, 936.
-
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

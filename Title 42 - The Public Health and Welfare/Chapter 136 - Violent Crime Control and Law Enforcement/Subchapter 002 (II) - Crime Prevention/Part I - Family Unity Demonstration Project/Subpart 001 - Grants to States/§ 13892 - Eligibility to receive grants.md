@@ -4,7 +4,3 @@ To be eligible to receive a grant under section 13891 of this title, a State sha
 
 (Pub. L. 103–322, title III, §31912, Sept. 13, 1994, 108 Stat. 1895.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13891, 14214 of this title.
-

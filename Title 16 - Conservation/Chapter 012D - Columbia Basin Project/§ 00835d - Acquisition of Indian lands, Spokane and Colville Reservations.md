@@ -22,7 +22,3 @@ The Columbia Basin Project Act, referred to in text, is act May 27, 1937, ch. 26
 
 Functions of General Land Office transferred to Bureau of Land Management by Reorg. Plan No. 3 of 1946. See note set out under section 1 of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 835e, 835f, 835g, 835h of this title.
-

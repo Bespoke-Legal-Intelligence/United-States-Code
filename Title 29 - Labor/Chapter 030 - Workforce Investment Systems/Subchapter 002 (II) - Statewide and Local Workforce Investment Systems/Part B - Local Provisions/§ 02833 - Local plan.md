@@ -58,7 +58,3 @@ A local plan submitted to the Governor under this section shall be considered to
 
 (Pub. L. 105–220, title I, §118, Aug. 7, 1998, 112 Stat. 961.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 795, 2832, 2945 of this title.
-

@@ -34,7 +34,7 @@ The regulations adopted under this section shall cease to apply when the Commiss
 
 #### (f) Commission's authority
 
-Nothing in this section shall be construed as expanding or limiting any authority that theCommission may have under law in effect before February 8, 1996.
+Nothing in this section shall be construed as expanding or limiting any authority that the Commission may have under law in effect before February 8, 1996.
 
 (June 19, 1934, ch. 652, title VI, §629, as added Pub. L. 104–104, title III, §304, Feb. 8, 1996, 110 Stat. 125.)
 

@@ -14,7 +14,7 @@ The Secretary of the Interior, in consultation with the Secretary of State and t
 
 #### (d) Consultation regarding conservation of polar bears in Russia and Alaska; report
 
-Not later than 6 months after April 30, 1994, the Secretary of the Interior, acting through the Secretary of State and in consultation with the Marine Mammal Commission and the State ofAlaska, shall consult with the appropriate officials of the Russian Federation on the development and implementation of enhanced cooperative research and management programs for the conservation of polar bears in Alaska and Russia. The Secretary shall report the results of this consultation and provide periodic progress reports on the research and management programs to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science and Transportation of the Senate.
+Not later than 6 months after April 30, 1994, the Secretary of the Interior, acting through the Secretary of State and in consultation with the Marine Mammal Commission and the State of Alaska, shall consult with the appropriate officials of the Russian Federation on the development and implementation of enhanced cooperative research and management programs for the conservation of polar bears in Alaska and Russia. The Secretary shall report the results of this consultation and provide periodic progress reports on the research and management programs to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science and Transportation of the Senate.
 
 (Pub. L. 92–522, title I, §113, Oct. 21, 1972, 86 Stat. 1042; Pub. L. 103–238, §7(b), Apr. 30, 1994, 108 Stat. 542.)
 
@@ -30,9 +30,5 @@ Subsecs. (b) to (d). Pub. L. 103–238, §7(b)(2), added subsecs. (b) to (d). Se
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1372, 1374 of this title.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) ofPub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

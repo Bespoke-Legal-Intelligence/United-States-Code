@@ -102,7 +102,7 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
 Authority of President under subsec. (d) of this section to grant exemptions or approvals to individuals delegated to agency heads, see section 401 of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
-Authority of President under subsec. (d) of this section to grant exemptions or approvals for Presidentialappointees to committees, commissions, boards, or similar groups established by the President, and for individuals appointed pursuant to sections 105 and 107(a) of Title 3, The President, delegated to Counsel to President, see section 402 of Ex Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5.
+Authority of President under subsec. (d) of this section to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, or similar groups established by the President, and for individuals appointed pursuant to sections 105 and 107(a) of Title 3, The President, delegated to Counsel to President, see section 402 of Ex Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5.
 
 #### Exemptions
 
@@ -115,8 +115,4 @@ Pub. L. 97–241, title I, §120, Aug. 24, 1982, 96 Stat. 280, provided that:
 “(a) Sections 203, 205, 207, and 208 of title 18, United States Code, shall not apply to a private sector representative on the United States delegation to an international telecommunications meeting or conference who is specifically designated to speak on behalf of or otherwise represent the interests of the United States at such meeting or conference with respect to a particular matter, if the Secretary of State (or the Secretary's designee) certifies that no Government employee on the delegation is as well qualified to represent United States interests with respect to such matter and that such designation serves the national interest. All such representatives shall have on file with the Department of State the financial disclosure report required for special Government employees.
 
 “(b) As used in this section, the term ‘international telecommunications meeting or conference’ means the conferences of the International Telecommunications Union, meetings of its International Consultative Committees for Radio and for Telephone and Telegraph, and such other international telecommunications meetings or conferences as the Secretary of State may designate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 202, 206, 216 of this title; title 5 sections 568, 3374, 3704; title 7 sections 2009aa–1, 2009bb–1; title 12 section 2245; title 15 section 4805; title 16 section 459b–7; title 22 sections 3507, 3508, 3613; title 26 section 7802; title 28 section 594; title 30 section 663; title 38 section 5902; title 40 section 14309; title 42 section 1314; title 50 section 405; title 50 App. section 463.
 

@@ -22,7 +22,3 @@ Aug. 28, 1958, Pub. L. 85–791, §31(a), 72 Stat. 951.
 
 The words “of the court of appeals in which the proceeding is pending” are omitted as unnecessary in view of the definition of “clerk” in section 2341 of this title, and by reason of the exclusive jurisdiction of the court of appeals set forth in section 2342 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 sections 2149, 3804, 3805.
-

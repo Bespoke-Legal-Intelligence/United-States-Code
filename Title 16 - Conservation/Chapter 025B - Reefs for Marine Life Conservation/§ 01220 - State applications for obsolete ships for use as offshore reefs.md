@@ -10,7 +10,7 @@ A State shall apply for obsolete ships under this chapter in such manner and for
 
 #### (c) Copies to Federal officers for official comments and views
 
-Before taking any action with respect to an application submitted under this chapter, the Secretary shall provide copies of the application to the Secretary of the Interior, the Secretary of Defense, and any other appropriate Federal officer, and shall consider comments and views of such officers with respect to the application.
+Before taking any action with respect to an application submitted under this chapter, theSecretary shall provide copies of the application to the Secretary of the Interior, the Secretary of Defense, and any other appropriate Federal officer, and shall consider comments and views of such officers with respect to the application.
 
 (Pub. L. 92–402, §3, Aug. 22, 1972, 86 Stat. 618; Pub. L. 98–623, title II, §207(1), (2), Nov. 8, 1984, 98 Stat. 3397.)
 
@@ -41,8 +41,4 @@ Pub. L. 107–314, div. C, title XXXV, §3504(b), Dec. 2, 2002, 116 Stat. 2754, 
 “(5) Not later than March 31, 2004, the Secretary of Transportation, acting through the Maritime Administration, and the Administrator of the Environmental Protection Agency shall jointly establish an application process for governments of States, commonwealths, and United States territories and possession, and foreign governments, for the preparation of vessels for use as artificial reefs, including documentation and certification requirements for that application process.
 
 “(6) The Secretary of Transportation shall submit to Congress a report on the environmental best management practices developed under paragraph (1) through the existing ship disposal reporting requirements in section 3502 of Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 1654A–492) \[16 U.S.C. 5405 note\]. The report shall describe such practices, and may include such other matters as the Secretary considers appropriate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1220a, 1220d of this title.
 

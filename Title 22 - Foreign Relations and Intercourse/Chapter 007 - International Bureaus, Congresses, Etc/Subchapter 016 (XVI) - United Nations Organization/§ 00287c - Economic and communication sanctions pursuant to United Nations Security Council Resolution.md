@@ -84,7 +84,7 @@ Ex. Ord. No. 11419, July 29, 1968, 33 F.R. 10837, which related to trade and oth
 
 Ex. Ord. No. 12183, Dec. 16, 1979, 44 F.R. 74787, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c), and in order to terminate current limitations relating to trade and other transactions involving Zimbabwe-Rhodesia, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c), and in order to terminate current limitations relatingto trade and other transactions involving Zimbabwe-Rhodesia, it is hereby ordered as follows:
 
 1–101. (a) Subject to the provisions of this order, the following are hereby revoked with respect to transactions occurring after the effective date of this order:
 
@@ -137,10 +137,6 @@ Sec. 6. <i>Judicial Review</i>. Nothing contained in this order shall create any
 Sec. 7. <i>Effective Date</i>. This order shall take effect at 11:59 p.m. eastern daylight time on May 26, 1994.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 sections 3409, 3413; title 26 section 501.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “fined”.</i>
 

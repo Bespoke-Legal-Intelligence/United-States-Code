@@ -24,7 +24,7 @@ After January 3, 1975, (A) products of a nonmarket economy country may be eligib
 
 &emsp;(B) he has received assurances that the emigration practices of that country will henceforth lead substantially to the achievement of the objectives of this section.
 
-(2) During any period subsequent to the 18-month period referred to in paragraph (1), the President is authorized to waive by Executive order the application of subsections (a) and (b) of this section with respect to any country, if the waiver authority granted by this subsection continues to apply to such country pursuant to subsection (d) of this section, and if he reports to the Congress that—
+(2) During any period subsequent to the 18-month period referred to in paragraph (1), the President is authorized to waive by Executive order the application of subsections (a) and (b) of this section with respect to any country, ifthe waiver authority granted by this subsection continues to apply to such country pursuant to subsection (d) of this section, and if he reports to the Congress that—
 
 &emsp;(A) he has determined that such waiver will substantially promote the objectives of this section; and
 
@@ -115,6 +115,8 @@ Extension of waiver authority.—
 Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L. 96–39, set out as an Effective Date note under section 2581 of this title.
 
 #### Delegation of Functions
+
+Functions of President under subsec. (d)(1) of this section delegated to Secretary of State by section 1(a)(i) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
 
 For delegation of congressional reporting functions of President under subsec. (b) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
 
@@ -262,7 +264,9 @@ Determination No. 2003–25, May 29, 2003, 68 F.R. 35527.—Republic of Belarus.
 
 Determination No. 2003–31, Aug. 8, 2003, 68 F.R. 49325.—Turkmenistan.
 
-#### Section Referred to in Other Sections
+Determination No. 2004–32, June 3, 2004, 69 F.R. 32429.—Turkmenistan.
 
-This section is referred to in sections 2192, 2193, 2437, 2439 of this title; title 22 section 5401.
+Determination No. 2004–33, June 3, 2004, 69 F.R. 32431.—Republic of Belarus.
+
+Determination No. 2004–34, June 3, 2004, 69 F.R. 32433.—Vietnam.
 

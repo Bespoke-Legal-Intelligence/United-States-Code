@@ -46,7 +46,7 @@ Vacancies in the Board so long as there shall be four members in office shall no
 
 #### (c) Compensation
 
-The Directors of the Corporation who are employed in the Department shall receive no additional compensation for their services as such Directors but may be allowed necessary traveling and subsistence expenses when engaged in business of the Corporation, outside of the District of Columbia. The Directors of the Corporation who are not employed by the Federal Government shall be paid such compensation fortheir services as Directors as the Secretary shall determine, but such compensation shall not exceed the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5 when actually employed, and actual necessary traveling and subsistence expenses, or a per diem allowance in lieu of subsistence expenses, as authorized by section 5703 of title 5 for persons in Government service employed intermittently, when on the business of the Corporation away from their homes or regular places of business.
+The Directors of the Corporation who are employed in the Department shall receive no additional compensation for their services as such Directors but may be allowed necessary traveling and subsistence expenses when engaged in business of the Corporation, outside of the District of Columbia. The Directors of the Corporation who are not employed by the Federal Government shall be paid such compensation for their services as Directors as the Secretary shall determine, but such compensation shall not exceed the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5 when actually employed, and actual necessary traveling and subsistence expenses, or a per diem allowance in lieu of subsistence expenses, as authorized by section 5703 of title 5 for persons in Government service employed intermittently, when on the business of the Corporation away from their homes or regular places of business.
 
 #### (d) Manager of Corporation
 
@@ -151,8 +151,4 @@ Effect on existing board.—A member of the Board of Directors of the Federal Cr
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1502, 1516 of this title.
 

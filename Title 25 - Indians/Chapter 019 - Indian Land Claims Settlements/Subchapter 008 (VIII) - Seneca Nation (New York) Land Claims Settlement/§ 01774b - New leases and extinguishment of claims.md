@@ -16,7 +16,3 @@ The Seneca Nation shall execute appropriate documents relinquishing all claims a
 
 (Pub. L. 101–503, §4, Nov. 3, 1990, 104 Stat. 1294.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1774d, 1774e of this title.
-

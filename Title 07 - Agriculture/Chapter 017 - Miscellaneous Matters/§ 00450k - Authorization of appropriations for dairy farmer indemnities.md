@@ -18,7 +18,3 @@ June 30, 1965—Pub. L. 89–16, title III, §303, Apr. 30, 1965, 79 Stat. 108.
 
 Jan. 31, 1965—Pub. L. 88–452, title III, §331, Aug. 20, 1964, 78 Stat. 525.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 450<i>l</i> of this title.
-

@@ -10,7 +10,7 @@ The President is authorized, notwithstanding the provisions of the Mutual Defens
 
 #### (c) Authorization of appropriations
 
-(1) To carry out the purposes of this section, there are authorized to be appropriated to thePresident $35,000,000 for fiscal year 1986 and $35,000,000 for fiscal year 1987.
+(1) To carry out the purposes of this section, there are authorized to be appropriated to the President $35,000,000 for fiscal year 1986 and $35,000,000 for fiscal year 1987.
 
 (2) Amounts appropriated under paragraph (1) are authorized to remain available until expended.
 
@@ -105,8 +105,4 @@ Section 116(b) of Pub. L. 95–88 provided that: “The amendment made by subsec
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2370 of this title; title 40 section 703.
 

@@ -44,7 +44,3 @@ Subsec. (b)(1)(B). Pub. L. 102–549, §603(3), inserted “child survival and c
 
 Subsec. (b)(1)(B). Pub. L. 102–237, §339(2), substituted “five” for “four”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1738f of this title; title 12 section 635i–6; title 22 sections 2430a, 2431i.
-

@@ -10,7 +10,7 @@ The Secretary of the Treasury shall—
 
 &emsp;(2) instruct the United States Executive Director of such bank to propose and actively seek the adoption by the board of Executive Directors of such bank of a resolution establishing as official bank operating policy for fiscal years 1990 through 1995 of such bank the limits specified in paragraph (1); and
 
-&emsp;(3) until the resolution described in paragraph (2) is adopted, undertake, in consultation with the Secretary of State, discussions with other member country governments to secure the consent and cooperation of such governments with respect to the adoption of the limits specified in paragraph (1).
+&emsp;(3) until the resolution described in paragraph (2) is adopted, undertake, in consultation with the Secretary of State, discussions with other member country governments to secure the consent and cooperation of suchgovernments with respect to the adoption of the limits specified in paragraph (1).
 
 (Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36.)
 

@@ -8,7 +8,3 @@ This chapter shall not apply to the Panama Canal. The authority granted to the S
 
 1984—Pub. L. 98–557 struck out reference to section 1226 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1911 of this title.
-

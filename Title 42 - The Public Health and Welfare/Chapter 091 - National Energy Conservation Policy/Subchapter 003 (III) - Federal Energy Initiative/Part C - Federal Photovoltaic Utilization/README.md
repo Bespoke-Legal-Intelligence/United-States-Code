@@ -1,9 +1,5 @@
 Part C—Federal Photovoltaic Utilization
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 5593, 5594 of this title.
-
 
 ---
 

@@ -28,7 +28,7 @@ A prior section 406 of Pub. L. 93–415 was renumbered section 405 and is classi
 
 1988—Pub. L. 100–690, §7290(b), which purported to make technical amendment to reference to section 5775 of this title to reflect renumbering of corresponding section of original act, could not be executed to text because of general amendment of section by Pub. L. 100–690, §7288, see below.
 
-Pub. L. 100–690, §7288, amended section generally. Prior to amendment, section read as follows: “The Administrator, in consultation with the Advisory Board, shall establish annual research, demonstration, and service program priorities for making grants and contracts pursuant to section 5775 of this title and, not less than 60 days before establishing such priorities, shall publish in the Federal Register for public comment a statement of such proposed priorities.”
+Pub. L. 100–690, §7288, amended section generally. Prior to amendment, section read as follows: “The Administrator, in consultation with the Advisory Board, shall establish annual research, demonstration, andservice program priorities for making grants and contracts pursuant to section 5775 of this title and, not less than 60 days before establishing such priorities, shall publish in the Federal Register for public comment a statement of such proposed priorities.”
 
 #### Effective Date of 1988 Amendment
 

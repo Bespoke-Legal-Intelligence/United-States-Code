@@ -1,9 +1,5 @@
 ### SUBCHAPTER IX—KLAMATH TRIBE: CAPITAL RESERVE FUND
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 544 of this title.
-
 
 ---
 

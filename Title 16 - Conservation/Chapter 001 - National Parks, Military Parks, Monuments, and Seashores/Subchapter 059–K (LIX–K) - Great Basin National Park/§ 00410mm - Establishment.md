@@ -14,7 +14,7 @@ Within 6 months after October 27, 1986, the Secretary of the Interior (hereinaft
 
 #### (d) Incorporation of Lehman Caves National Monument within park
 
-(1) The Lehman Caves National Monument, designated on January 24, 1922, by Presidential proclamation under the authority contained in the Act of June 8, 1906 (34 Stat. 225) \[16 U.S.C. 431–433\] is hereby abolished and the lands incorporated within the Great Basin National Park. Any reference in any law, map, regulation, document, record, or other paper of the United States to such national monument shall be deemed to be a reference to Great Basin National Park.
+(1) The Lehman Caves National Monument, designated on January 24, 1922, by Presidential proclamation under the authority contained in the Act of June 8, 1906 (34 Stat. 225) \[16 U.S.C. 431–433\] is hereby abolished and the lands incorporated within the Great Basin National Park.Any reference in any law, map, regulation, document, record, or other paper of the United States to such national monument shall be deemed to be a reference to Great Basin National Park.
 
 (2) Any funds available for purposes of the national monument shall be available for purposes of the park.
 
@@ -31,8 +31,4 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 #### Short Title
 
 Section 1 of Pub. L. 99–565 provided that: “This Act \[enacting this subchapter\] may be known as the ‘Great Basin National Park Act of 1986’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410mm–1 of this title.
 

@@ -4,7 +4,3 @@ Any vessel documented or numbered under the laws of the United States (except a 
 
 (Pub. L. 96–283, title III, §305, June 28, 1980, 94 Stat. 579.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1466 of this title.
-

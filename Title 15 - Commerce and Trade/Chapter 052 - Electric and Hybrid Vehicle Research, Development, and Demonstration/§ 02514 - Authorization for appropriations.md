@@ -14,7 +14,3 @@ In subsec. (b), “section 3302(b) of title 31” substituted for “section 361
 
 “Secretary of Energy” substituted in text for “Administrator” pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2509 of this title.
-

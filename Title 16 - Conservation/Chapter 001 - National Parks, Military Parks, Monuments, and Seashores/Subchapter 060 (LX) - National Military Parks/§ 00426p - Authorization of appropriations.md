@@ -4,7 +4,3 @@ There is hereby authorized to be appropriated such sums as may be necessary to c
 
 (Pub. L. 100–205, §4, formerly §3, Dec. 23, 1987, 101 Stat. 1433; renumbered §4, Pub. L. 102–225, §1(4), Dec. 11, 1991, 105 Stat. 1683.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 426n of this title.
-

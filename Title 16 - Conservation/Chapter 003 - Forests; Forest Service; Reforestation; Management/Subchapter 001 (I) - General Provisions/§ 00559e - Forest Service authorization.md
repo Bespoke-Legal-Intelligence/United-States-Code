@@ -8,7 +8,3 @@ In order to improve Federal law enforcement activities relating to the use and p
 
 1988—Pub. L. 100–690 amended section generally. Prior to amendment, section read as follows: “There is authorized to be appropriated $10,000,000 for each fiscal year to carry out sections 559b to 559f of this title.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>lll</i>–12, 559b, 559c, 559d of this title.
-

@@ -8,7 +8,3 @@ The Secretary of the Interior is authorized to execute on behalf of the United S
 
 “Section 1303 of title 40” substituted in text for “the Act of August 27, 1935 (49 Stat. 885)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 459u of this title.
-

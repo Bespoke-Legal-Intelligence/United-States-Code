@@ -18,7 +18,3 @@ For the purpose of carrying out part B of this subchapter, there are authorized 
 
 Section effective May 20, 1996, see section 13(b) of Pub. L. 104–146, set out as an Effective Date of 1996 Amendment note under section 300ff–11 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–13, 300ff–15, 300ff–16, 300ff–28, 300ff–30, 300ff–33 of this title.
-

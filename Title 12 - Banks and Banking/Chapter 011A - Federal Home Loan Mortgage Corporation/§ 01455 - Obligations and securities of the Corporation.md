@@ -14,7 +14,7 @@ The Corporation may, by regulation or by writing executed by the Corporation, es
 
 (2) The Secretary of <sup>1</sup> Treasury shall not at any time purchase any obligations under this subsection if the purchase would increase the aggregate principal amount of the outstanding holdings of obligations under this subsection by the Secretary to an amount greater than $2,250,000,000.
 
-(3) Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon terms and conditions established to yield a rate of return determined by the Secretary to be appropriate, taking into consideration the current average rate on outstanding marketable obligations of the United States as of the last day of the month preceding the making of the purchase.
+(3) Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon terms and conditions establishedto yield a rate of return determined by the Secretary to be appropriate, taking into consideration the current average rate on outstanding marketable obligations of the United States as of the last day of the month preceding the making of the purchase.
 
 (4) The Secretary of the Treasury may at any time sell, upon terms and conditions and at prices determined by the Secretary, any of the obligations acquired by the Secretary under this subsection.
 
@@ -54,7 +54,7 @@ Except for fees paid pursuant to sections 1452(c) <sup>2</sup> and 1455(c) <su
 
 (1) Any notes, debentures, or substantially identical types of unsecured obligations of the Corporation evidencing money borrowed, whether general or subordinated, shall be issued upon the approval of the Secretary of the Treasury and shall have such maturities and bear such rate or rates of interest as may be determined by the Corporation with the approval of the Secretary of the Treasury.
 
-(2) Any notes, debentures, of <sup>3</sup> substantially identical types of unsecured obligations of the Corporation having maturities of 1 year or less that the Corporation has issued or is issuing as of August 9, 1989, shall be deemed to have been approved by the Secretary of the Treasury as required by this subsection. Such deemed approval shall expire 365 days after August 9, 1989.
+(2) Any notes, debentures, of <sup>3</sup> substantially identical types of unsecured obligations of the Corporation having maturities of 1 year or less that the Corporation has issued or is issuing asof August 9, 1989, shall be deemed to have been approved by the Secretary of the Treasury as required by this subsection. Such deemed approval shall expire 365 days after August 9, 1989.
 
 (3) Any notes, debentures, or substantially identical types of unsecured obligations of the Corporation having maturities of more than 1 year that the Corporation has issued or is issuing as of August 9, 1989, shall be deemed to have been approved by the Secretary of the Treasury as required by this subsection. Such deemed approval shall expire 60 days after August 9, 1989.
 
@@ -97,10 +97,6 @@ Subsec. (h). Pub. L. 98–440, §210, added subsec. (h).
 1982—Subsec. (f). Pub. L. 97–289 added subsec. (f).
 
 1979—Subsec. (e). Pub. L. 96–153 added subsec. (e).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 1431, 1436, 1441, 1452, 1464, 1757 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

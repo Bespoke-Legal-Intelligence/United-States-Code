@@ -54,7 +54,3 @@ The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (b
 
 Special court abolished and all jurisdiction and functions transferred to United States District Court for District of Columbia, see section 719(b)(2) of Title 45, Railroads.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 45 section 719.
-

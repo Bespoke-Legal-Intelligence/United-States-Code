@@ -14,7 +14,3 @@ Any article imported or brought into the United States—
 
 Presidential determination of cultural significance of objects and exhibition or display thereof in the national interest, see section 2459 of Title 22, Foreign Relations and Intercourse.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1753, 1754, 1755 of this title.
-

@@ -12,7 +12,7 @@ No State shall—
 
 &emsp;(2) impose any requirement upon a member of the Association that it pay different fees to be licensed or otherwise qualified to do business in that State, including bonding requirements, based on its residency;
 
-&emsp;(3) impose any licensing, appointment, integrity, personal or corporate qualifications, education, training, experience, residency, or continuing education requirement upon a member of the Association that is different from the criteria for membership in the Association or renewal of such membership, except that countersignature requirements imposed on nonresident producers shall not be deemed to have the effect of limiting or conditioning a producer's activities because of its residence or place of operations under this section; or
+&emsp;(3) impose any licensing, appointment, integrity, personal or corporate qualifications,education, training, experience, residency, or continuing education requirement upon a member of the Association that is different from the criteria for membership in the Association or renewal of such membership, except that countersignature requirements imposed on nonresident producers shall not be deemed to have the effect of limiting or conditioning a producer's activities because of its residence or place of operations under this section; or
 
 &emsp;(4) implement the procedures of such State's system of licensing or renewing the licenses of insurance producers in a manner different from the authority of the Association under section 6755 of this title.
 
@@ -21,8 +21,4 @@ No State shall—
 Except as provided in subsections (a) and (b) of this section, no provision of this section shall be construed as altering or affecting the continuing effectiveness of any law, regulation, provision, or other action of any State which purports to regulate insurance producers, including any such law, regulation, provision, or action which purports to regulate unfair trade practices or establish consumer protections, including countersignature laws.
 
 (Pub. L. 106–102, title III, §333, Nov. 12, 1999, 113 Stat. 1432.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6764 of this title.
 

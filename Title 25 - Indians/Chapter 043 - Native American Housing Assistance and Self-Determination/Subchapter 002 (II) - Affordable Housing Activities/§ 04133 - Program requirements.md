@@ -36,7 +36,3 @@ The United States Housing Act of 1937, referred to in subsec. (b), is act Sept. 
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4134, 4192 of this title.
-

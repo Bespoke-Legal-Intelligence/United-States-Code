@@ -1,9 +1,5 @@
 Part A—HOPE for Homeownership of Multifamily Units
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 12870, 12899c, 12899d of this title; title 12 sections 1701z–11, 1709.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “such”.</i>

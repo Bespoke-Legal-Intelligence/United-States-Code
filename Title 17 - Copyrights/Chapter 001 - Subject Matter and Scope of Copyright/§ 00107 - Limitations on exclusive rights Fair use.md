@@ -72,7 +72,7 @@ I. <i>Single Copying for Teachers</i>
 
 II. <i>Multiple Copies for Classroom Use</i>
 
-&emsp;Multiple copies (not to exceed in any event more than one copy per pupil in a course) may be made by or for the teacher giving the course for classroom use or discussion; <i>provided that:</i>
+&emsp;Multiple copies (not to exceed in any event more than one copy per pupil in a course) may be made byor for the teacher giving the course for classroom use or discussion; <i>provided that:</i>
 
 &emsp;A. The copying meets the tests of brevity and spontaneity as defined below; <i>and,</i>
 
@@ -170,7 +170,7 @@ A. <i>Permissible Uses</i>
 
 &emsp;2\. (a) For academic purposes other than performance, multiple copies of excerpts of works may be made, provided that the excerpts do not comprise a part of the whole which would constitute a performable unit such as a section, movement or aria, but in no case more than 10% of the whole work. The number of copies shall not exceed one copy per pupil.
 
-&emsp;(b) For academic purposes other than performance, a single copy of an entire performable unit (section, movement, aria, etc.) that is, (1) confirmed by the copyright proprietor to be out of print or (2) unavailable except in a larger work, may be made by or for a teacher solely for the purpose of his or her scholarly research or in preparation to teach a class.
+&emsp;(b) For academic purposes other than performance, a single copy of an entire performable unit (section,movement, aria, etc.) that is, (1) confirmed by the copyright proprietor to be out of print or (2) unavailable except in a larger work, may be made by or for a teacher solely for the purpose of his or her scholarly research or in preparation to teach a class.
 
 &emsp;3\. Printed copies which have been purchased may be edited or simplified provided that the fundamental character of the work is not distorted or the lyrics, if any, altered or lyrics added if none exist.
 
@@ -190,7 +190,7 @@ B. <i>Prohibitions</i>
 
 &emsp;5\. Copying without inclusion of the copyright notice which appears on the printed copy.
 
-The problem of off-the-air taping for nonprofit classroom use of copyrighted audiovisual works incorporated in radio and television broadcasts has proved to be difficult to resolve. The Committee believes thatthe fair use doctrine has some limited application in this area, but it appears that the development of detailed guidelines will require a more thorough exploration than has so far been possible of the needs and problems of a number of different interests affected, and of the various legal problems presented. Nothing in section 107 or elsewhere in the bill is intended to change or prejudge the law on the point. On the other hand, the Committee is sensitive to the importance of the problem, and urges the representatives of the various interests, if possible under the leadership of the Register of Copyrights, to continue their discussions actively and in a constructive spirit. If it would be helpful to a solution, the Committee is receptive to undertaking further consideration of the problem in a future Congress.
+The problem of off-the-air taping for nonprofit classroom use of copyrighted audiovisual works incorporated in radio and television broadcasts has proved to be difficult to resolve. The Committee believes that the fair use doctrine has some limited application in this area, but it appears that the development of detailed guidelines will require a more thorough exploration than has so far been possible of the needs and problems of a number of different interests affected, and of the various legal problems presented. Nothing in section 107 or elsewhere in the bill is intended to change or prejudge the law on the point. On the other hand, the Committee is sensitive to the importance of the problem, and urges the representatives of the various interests, if possible under the leadership of the Register of Copyrights, to continue their discussions actively and in a constructive spirit. If it would be helpful to a solution, the Committee is receptive to undertaking further consideration of the problem in a future Congress.
 
 The Committee appreciates and commends the efforts and the cooperative and reasonable spirit of the parties who achieved the agreed guidelines on books and periodicals and on music. Representatives of the American Association of University Professors and of the Association of American Law Schools have written to the Committee strongly criticizing the guidelines, particularly with respect to multiple copying, as being too restrictive with respect to classroom situations at the university and graduate level. However, the Committee notes that the Ad Hoc group did include representatives of higher education, that the stated “purpose of the \* \* \* guidelines is to state the minimum and not the maximum standards of educational fair use” and that the agreement acknowledges “there may be instances in which copying which does not fall within the guidelines \* \* \* may nonetheless be permitted under the criteria of fair use.”
 
@@ -206,7 +206,7 @@ A problem of particular urgency is that of preserving for posterity prints of mo
 
 When a copyrighted work contains unfair, inaccurate, or derogatory information concerning an individual or institution, the individual or institution may copy and reproduce such parts of the work as are necessary to permit understandable comment on the statements made in the work.
 
-The Committee has considered the question of publication, in Congressional hearings and documents, of copyrighted material. Where the length of the work or excerpt published and the number of copies authorized are reasonable under the circumstances, and the work itself is directly relevant to a matter of legitimate legislative concern, the Committee believes that the publication would constitute fair use.
+The Committee has considered the question of publication, in Congressional hearings and documents, of copyrighted material. Where the length of the work or excerpt published and the number of copies authorized are reasonable under the circumstances, and the workitself is directly relevant to a matter of legitimate legislative concern, the Committee believes that the publication would constitute fair use.
 
 During the consideration of the revision bill in the 94th Congress it was proposed that independent newsletters, as distinguished from house organs and publicity or advertising publications, be given separate treatment. It is argued that newsletters are particularly vulnerable to mass photocopying, and that most newsletters have fairly modest circulations. Whether the copying of portions of a newsletter is an act of infringement or a fair use will necessarily turn on the facts of the individual case. However, as a general principle, it seems clear that the scope of the fair use doctrine should be considerably narrower in the case of newsletters than in that of either mass-circulation periodicals or scientific journals. The commercial nature of the user is a significant factor in such cases: Copying by a profit-making user of even a small portion of a newsletter may have a significant impact on the commercial market for the work.
 
@@ -225,8 +225,4 @@ The criteria of fair use are necessarily set forth in general terms. In the appl
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 106A, 108, 118, 501, 504, 511 of this title; title 18 section 2319.
 

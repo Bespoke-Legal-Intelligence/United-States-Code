@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—FARM HOUSING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1382a, 11408a, 11501, 11504, 12709 of this title; title 7 sections 1932, 1933, 6943; title 8 section 1611; title 12 sections 1441a, 1701r–1, 1701x, 1717, 1721, 1831q, 2803, 4901; title 18 section 1516; title 26 sections 32, 1250; title 38 section 3711.
-
 
 ---
 

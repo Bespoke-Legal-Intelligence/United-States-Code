@@ -18,7 +18,3 @@
 
 1984—Subsec. (c). Pub. L. 98–473 added subsec. (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1657 of this title; title 18 section 3050.
-

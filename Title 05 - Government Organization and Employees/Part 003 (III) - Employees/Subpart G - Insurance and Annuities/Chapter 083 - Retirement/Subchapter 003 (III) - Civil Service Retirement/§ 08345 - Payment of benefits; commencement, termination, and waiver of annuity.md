@@ -30,7 +30,7 @@
 
 (g) The Office shall prescribe regulations to provide that the amount of any monthly annuity payable under this section accruing for any month and which is computed with regard to service that includes any service referred to in section 8332(b)(6) performed by an individual prior to January 1, 1969, shall be reduced by the portion of any benefits under any State retirement system to which such individual is entitled (or on proper application would be entitled) for such month which is attributable to such service performed by such individual before such date.
 
-(h) An individual entitled to an annuity from the Fund may make allotments or assignments of amounts from his annuity for such purposes as the Office of Personnel Management in its sole discretion considers appropriate.
+(h) An individual entitled to an annuity from the Fund may make allotments or assignments of amounts from his annuity for such purposesas the Office of Personnel Management in its sole discretion considers appropriate.
 
 (i)(1) No payment shall be made from the Fund unless an application for benefits based on the service of an employee or Member is received in the Office of Personnel Management before the one hundred and fifteenth anniversary of his birth.
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by section 304(b) of Pub. L. 97–253 applicable with respect to any annuity commencing on orafter Oct. 1, 1982, and with respect to any adjustment or redetermination of any annuity made on or after such date, see section 304(c) of Pub. L. 97–253, set out as a note under section 8340 of this title.
+Amendment by section 304(b) of Pub. L. 97–253 applicable with respect to any annuity commencing on or after Oct. 1, 1982, and with respect to any adjustment or redetermination of any annuity made on or after such date, see section 304(c) of Pub. L. 97–253, set out as a note under section 8340 of this title.
 
 Section 305(b) of Pub. L. 97–253, as amended by Pub. L. 97–377, title I, §124, Dec. 21, 1982, 96 Stat. 1913, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to annuities which commence on or after October 1, 1982, except for those individuals who serve three days or less in the month of retirement.”
 
@@ -217,8 +217,4 @@ Section 1705(c) of Pub. L. 97–35 provided that: “The Civil Service Retiremen
 #### Monthly Rate of Minimum Annuity
 
 Section 2(c) of Pub. L. 93–273 provided that: “The monthly rate of an annuity resulting from an increase under this section \[enacting provisions set out as notes under sections 8339 and 8341 of this title\] shall be considered as the monthly rate of annuity payable under section 8345(a) of title 5, United States Code \[subsec. (a) of this section\], for purposes of computing the minimum annuity under section 8345(f) of title 5 \[subsec. (f) of this section\], as added by the first section of this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8342, 8343a, 8346, 8348, 8349, 8901, 8905 of this title.
 

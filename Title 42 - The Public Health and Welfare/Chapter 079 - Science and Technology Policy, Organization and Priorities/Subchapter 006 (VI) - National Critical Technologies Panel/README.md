@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—NATIONAL CRITICAL TECHNOLOGIES PANEL
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 50 App. section 2170.
-
 
 ---
 

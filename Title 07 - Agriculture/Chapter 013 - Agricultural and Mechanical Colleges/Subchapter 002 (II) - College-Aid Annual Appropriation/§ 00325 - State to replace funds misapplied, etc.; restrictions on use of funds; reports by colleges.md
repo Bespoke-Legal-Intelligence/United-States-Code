@@ -12,7 +12,3 @@ Functions of Department of Health, Education, and Welfare and Secretary thereof 
 
 Transfer of functions from Secretary of the Interior to Secretary of Health, Education, and Welfare, see note set out under section 321 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 39 section 3202.
-

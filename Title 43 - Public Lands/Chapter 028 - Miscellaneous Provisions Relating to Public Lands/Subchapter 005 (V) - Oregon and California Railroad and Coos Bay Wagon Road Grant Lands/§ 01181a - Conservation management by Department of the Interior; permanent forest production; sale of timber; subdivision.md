@@ -24,11 +24,7 @@ Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, 
 
 #### Lease of Small Tracts for Residential, Recreational, or Community Site Purposes
 
-Lease of small tracts of the lands described in this section for residential, recreational, or community site purposes, and conditions with respect thereto, see section 682e of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1181b, 1181d, 1181e, 1181f, 1181f–4, 1181i, 1735, 1752 of this title; title 30 sections 601, 603.
+Lease of small tracts of the lands described in this section for residential, recreational, or community sitepurposes, and conditions with respect thereto, see section 682e of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

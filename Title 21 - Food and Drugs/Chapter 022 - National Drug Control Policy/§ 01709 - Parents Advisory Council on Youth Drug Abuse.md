@@ -52,7 +52,7 @@
 
 #### (B) Vacancies
 
-&emsp;&emsp;Any vacancy in the Council shall not affect its powers, provided that a quorum is present, but shall be filled in the same manner as the original appointment. Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term.
+&emsp;&emsp;Any vacancy in the Council shall not affect its powers, provided that a quorum is present, but shall be filled in the same manner as the original appointment. Any member appointed to fill a vacancy occurring before the expiration of the term for which themember's predecessor was appointed shall be appointed only for the remainder of that term.
 
 #### (C) Appointment of successor
 

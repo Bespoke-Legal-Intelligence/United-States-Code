@@ -35,10 +35,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 12 sections 24, 1441a, 1441a–1, 1464, 1831q.
-
 
 ---
 

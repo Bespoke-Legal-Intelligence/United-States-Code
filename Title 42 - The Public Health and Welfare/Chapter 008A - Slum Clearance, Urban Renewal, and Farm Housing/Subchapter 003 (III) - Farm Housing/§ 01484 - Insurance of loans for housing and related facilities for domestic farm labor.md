@@ -58,7 +58,7 @@ As used in this section—
 
 #### (g) Waiver of interest rate limitations
 
-The Secretary may waive the interest rate limitation contained in subsection (a)(2) of this section and the requirement of section 1471(c)(3) of this title in any case in which the Secretary determines that qualified public or private nonprofit sponsors are not currently available and are not likely to become available within a reasonable period of time and such waiver is necessary to permit farmers to provide housing and related facilities for migrant domestic farm laborers, except that the benefits resulting from such waiver shall accrue to the tenants, and the interest rate on a loan insured under this section and for which the Secretary permits such waiver shall be no less than one-eighth of 1 per centum above the average interest rate on notes or other obligations which are issued under section 1481 of this title and have maturities comparable to such a loan.
+The Secretary may waive the interest rate limitation contained in subsection (a)(2) of this section and the requirement of section 1471(c)(3) of this title in any case in which the Secretary determines that qualified public or private nonprofit sponsors are not currently available and are not likely to become available within a reasonable period of time and such waiver is necessary to permit farmers to provide housing and related facilities for migrant domestic farm laborers, except that the benefits resulting from such waiver shall accrue to the tenants, and the interest rate on a loan insured under this section and for which the Secretary permits suchwaiver shall be no less than one-eighth of 1 per centum above the average interest rate on notes or other obligations which are issued under section 1481 of this title and have maturities comparable to such a loan.
 
 #### (h) Determination of need for assistance
 
@@ -114,7 +114,7 @@ Subsec. (g). Pub. L. 95–557, §504, added subsec. (g).
 
 1977—Subsec. (f)(3). Pub. L. 95–128 extended definition of “domestic farm labor” to include laborers on farms situated in Puerto Rico and the Virgin Islands and the residents of the islands after being legally admitted for permanent residence.
 
-1970—Subsec. (a). Pub. L. 91–609, §801(a), authorized insurance of loans to broad-based nonprofit organizations and nonprofit organizations of farmworkers incorporated within the State and provided for housingand related facilities for domestic farm labor any place within the State where need exists.
+1970—Subsec. (a). Pub. L. 91–609, §801(a), authorized insurance of loans to broad-based nonprofit organizations and nonprofit organizations of farmworkers incorporated within the State and provided for housing and related facilities for domestic farm labor any place within the State where need exists.
 
 Subsec. (a)(2). Pub. L. 91–609, §801(b), substituted “1” for “5” per centum.
 
@@ -123,10 +123,6 @@ Subsec. (f)(1), (2). Pub. L. 91–609, §801(c), substituted “structures (incl
 1968—Subsec. (f)(2). Pub. L. 90–448 included land necessary for an adequate site within the definition of “related facilities”.
 
 1964—Subsec. (f)(3). Pub. L. 88–560 included residents of the United States after being legally admitted for permanent residence.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490j, 4851b, 8011, 13664 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,7 +34,3 @@ In this section, the words “institutions of higher education” are substitute
 
 In subsection (b), the words “providing grants” are substituted for “the funding” for consistency in the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44501, 44508, 48102, 50103 of this title.
-

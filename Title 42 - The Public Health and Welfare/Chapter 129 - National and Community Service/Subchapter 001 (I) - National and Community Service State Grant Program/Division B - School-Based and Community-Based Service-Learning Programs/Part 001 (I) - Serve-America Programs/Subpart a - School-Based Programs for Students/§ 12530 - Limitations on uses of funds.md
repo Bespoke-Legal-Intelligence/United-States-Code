@@ -30,7 +30,7 @@
 
 #### (2) Waiver
 
-&emsp;The Chief Executive Officer may waive the requirements of paragraph (1) in order to permit an agency or a tribe to use not less than 10 percent and not more than 20 percent of such amount to build capacity as provided in paragraph (1). To be eligible to receive such a waiver such an agency or tribe shall submit an application to the Chief Executive Officer at such time, in such manner, and containing such information as the Chief Executive Officer may require.
+&emsp;The Chief Executive Officer may waive the requirements of paragraph (1) in order to permit an agency or a tribe to use not less than 10 percent and not more than 20 percent of such amount to build capacity as provided in paragraph (1). To be eligible to receive such a waiver such an agency or tribe shall submit an application to the Chief Executive Officer atsuch time, in such manner, and containing such information as the Chief Executive Officer may require.
 
 #### (c) Local uses of funds
 

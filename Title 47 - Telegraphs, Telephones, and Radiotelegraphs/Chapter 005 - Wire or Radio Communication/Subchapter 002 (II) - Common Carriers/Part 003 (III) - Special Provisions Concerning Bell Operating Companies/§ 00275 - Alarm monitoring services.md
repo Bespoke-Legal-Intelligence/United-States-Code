@@ -24,7 +24,7 @@ The Commission shall establish procedures for the receipt and review of complain
 
 #### (d) Use of data
 
-A local exchange carrier may not record or use in any fashion the occurrence or contents ofcalls received by providers of alarm monitoring services for the purposes of marketing such services on behalf of such local exchange carrier, or any other entity. Any regulations necessary to enforce this subsection shall be issued initially within 6 months after February 8, 1996.
+A local exchange carrier may not record or use in any fashion the occurrence or contents of calls received by providers of alarm monitoring services for the purposes of marketing such services on behalf of such local exchange carrier, or any other entity. Any regulations necessary to enforce this subsection shall be issued initially within 6 months after February 8, 1996.
 
 #### (e) “Alarm monitoring service” defined
 
@@ -37,8 +37,4 @@ The term “alarm monitoring service” means a service that uses a device locat
 > but does not include a service that uses a medical monitoring device attached to an individual for the automatic surveillance of an ongoing medical condition.
 
 (June 19, 1934, ch. 652, title II, §275, as added Pub. L. 104–104, title I, §151(a), Feb. 8, 1996, 110 Stat. 105.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 272 of this title.
 

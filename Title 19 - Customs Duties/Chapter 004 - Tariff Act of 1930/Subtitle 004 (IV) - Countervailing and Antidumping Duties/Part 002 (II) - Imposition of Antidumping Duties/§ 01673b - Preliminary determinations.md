@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;Except in the case of a petition dismissed by the administering authority under section1673a(c)(3) of this title, the Commission, within the time specified in paragraph (2), shall determine, based on the information available to it at the time of the determination, whether there is a reasonable indication that—
+&emsp;Except in the case of a petition dismissed by the administering authority under section 1673a(c)(3) of this title, the Commission, within the time specified in paragraph (2), shall determine, based on the information available to it at the time of the determination, whether there is a reasonable indication that—
 
 &emsp;&emsp;(A) an industry in the United States—
 
@@ -158,7 +158,7 @@ Whenever the Commission or the administering authority makes a determination und
 
 > by reason of imports of the merchandise which is the subject of the investigation by the administering authority. If that determination is negative, the investigation shall be terminated.”
 
-Subsec. (b)(1)(A). Pub. L. 103–465, §219(a)(2), struck out at end “If the determination of the administering authority under this subsection is affirmative, the determination shall include the estimated average amount by which the foreign market value exceeds the United States price.”
+Subsec. (b)(1)(A). Pub. L. 103–465, §219(a)(2), struck out at end “If the determination of the administeringauthority under this subsection is affirmative, the determination shall include the estimated average amount by which the foreign market value exceeds the United States price.”
 
 Pub. L. 103–465, §§212(b)(2)(C)(i), 233(a)(6)(A)(viii), substituted “140 days after the date on which the administering authority initiates an investigation under section 1673a(c) of this title” for “160 days after the date on which a petition is filed under section 1673a(b) of this title”, “initiated” for “commenced”, and “information” for “best information”.
 
@@ -190,7 +190,7 @@ Subsec. (e)(2). Pub. L. 103–465, §§215(b)(2), 219(c)(1), substituted “subs
 
 Subsec. (f). Pub. L. 103–465, §212(b)(2)(E), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Whenever the Commission or the administering authority makes a determination under this section, it shall notify the petitioner, other parties to the investigation, and the other agency of its determination and of the facts and conclusions of law upon which the determination is based, and it shall publish notice of its determination in the Federal Register.”
 
-1988—Subsec. (b)(1). Pub. L. 100–418, §1323(b)(1), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: “Within 160 days after the date on which a petition is filed under section 1673a(b) of this title, or an investigation is commenced under section 1673a(a) of this title, but not before an affirmative determination by the Commission under subsection (a) of this section, the administering authority shall make a determination, based upon the best information available to it at the time of the determination, of whether there is a reasonable basis to believe or suspect that the merchandise is being sold, or is likely to be sold at less than fair value. If the determination of the administering authority under this subsection is affirmative, the determination shall include the estimated average amount by which the foreign market value exceeds the United States price.”
+1988—Subsec. (b)(1). Pub. L. 100–418, §1323(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Within 160 days after the date on which a petition is filed under section 1673a(b) of this title, or an investigation is commenced under section 1673a(a) of this title, but not before an affirmative determination by the Commission under subsection (a) of this section, the administering authority shall make a determination, based upon the best information available to it at the time of the determination, of whether there is a reasonable basis to believe or suspect that the merchandise is being sold, or is likely to be sold at less than fair value. If the determination of the administering authority under this subsection is affirmative, the determination shall include the estimated average amount by which the foreign market value exceeds the United States price.”
 
 Subsec. (b)(2). Pub. L. 100–418, §1326(d)(1), substituted “(F), or (G)” for “or (F)” in two places.
 
@@ -213,8 +213,4 @@ Amendment by section 1323(b) of Pub. L. 100–418 effective Aug. 23, 1988, amend
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1516a, 1673c, 1673d, 1673e, 1673f, 1673h, 1677, 1677f, 1677f–1, 1677i, 1677m of this title.
 

@@ -80,9 +80,5 @@ Subsec. (f). Pub. L. 106–569, §851(c)(2)(B), added subsec. (f).
 
 Amendment by title VIII of Pub. L. 106–569 effective Dec. 27, 2000, unless effectiveness or applicability upon another date certain is specifically provided for, with provisions relating to effect of regulatory authority, see section 803 of Pub. L. 106–569, set out as a note under section 1701q of Title 12, Banks and Banking.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437f, 13632 of this title; title 12 section 1701q.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

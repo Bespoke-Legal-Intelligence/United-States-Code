@@ -8,10 +8,6 @@ A prior part F of this subchapter, consisting of sections 3030m to 3030<i>o</i> 
 
 A prior part G of this subchapter consisting of sections 3030p to 3030r of this title, related to supportive activities for caretakers who provide in-home services to frail older individuals, prior to repeal by Pub. L. 106–501, title III, §316(1), Nov. 13, 2000, 114 Stat. 2253. See Prior Provisions notes set out under section 3030n of this title.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 3023, 3058i of this title.
-
 
 ---
 

@@ -32,7 +32,3 @@ In subsec. (a), “December 22, 1987” substituted for “the effective date of
 
 1987—Subsec. (a). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300aa–33 of this title.
-

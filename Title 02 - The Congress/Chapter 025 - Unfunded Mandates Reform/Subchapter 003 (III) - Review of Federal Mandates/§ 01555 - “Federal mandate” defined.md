@@ -4,7 +4,3 @@ Notwithstanding section 1502 of this title, for purposes of this subchapter the 
 
 (Pub. L. 104–4, title III, §305, Mar. 22, 1995, 109 Stat. 70.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1502 of this title.
-

@@ -30,7 +30,3 @@ Subsec. (c). Pub. L. 103–272 substituted “an interstate gas pipeline facilit
 
 Subsec. (d). Pub. L. 101–647, §3546, struck out subsec. (d) which read as follows: “The table of contents for chapter 65 of title 18, United States Code, is amended by adding at the end thereof the following new item: ‘1365 Destruction of an energy facility.’ ”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2332b, 2339, 2339A, 2516 of this title.
-

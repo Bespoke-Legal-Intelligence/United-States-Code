@@ -30,7 +30,3 @@ Until the Passamaquoddy Tribe or the Penobscot Nation has assumed exclusive juri
 
 The Indian Child Welfare Act of 1978 (92 Stat. 3069), referred to in subsec. (a), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1725 of this title.
-

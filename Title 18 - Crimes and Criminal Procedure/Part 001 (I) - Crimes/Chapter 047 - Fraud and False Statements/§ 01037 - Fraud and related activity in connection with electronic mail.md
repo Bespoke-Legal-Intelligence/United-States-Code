@@ -14,7 +14,7 @@ In General.—Whoever, in or affecting interstate or foreign commerce, knowingly
 
 &emsp;(5) falsely represents oneself to be the registrant or the legitimate successor in interest to the registrant of 5 or more Internet Protocol addresses, and intentionally initiates the transmission of multiple commercial electronic mail messages from such addresses,
 
-> or conspires to do so, shall be punished as provided in subsection (b)
+> or conspires to do so, shall be punished as provided in subsection (b).
 
 (b)
 
@@ -89,8 +89,4 @@ Section 3 of the CAN-SPAM Act of 2003, referred to in subsec. (d)(4), is classif
 #### Effective Date
 
 Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under section 7701 of Title 15, Commerce and Trade.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 7703.
 

@@ -10,7 +10,7 @@ North Dakota constitutes one judicial district comprising four divisions.
 
 &emsp;&emsp;Court for the Southeastern Division shall be held at Fargo.
 
-&emsp;&emsp;(3) The Northeastern Division comprises the counties of Benson, Cavalier, Grand Forks, Nelson, Pembina, Ramsey, Rolette, Towner, Traill, and Walsh.
+&emsp;&emsp;(3) The Northeastern Division comprises the counties of Benson, Cavalier, GrandForks, Nelson, Pembina, Ramsey, Rolette, Towner, Traill, and Walsh.
 
 &emsp;&emsp;Court for the Northeastern Division shall be held at Grand Forks.
 
@@ -22,7 +22,7 @@ North Dakota constitutes one judicial district comprising four divisions.
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §180 (Mar. 3, 1911, ch. 231, §99, 36 Stat. 1121; Feb. 5, 1912, ch. 28, 37 Stat. 60; July 17, 1916, ch. 248, 39 Stat. 386; Apr. 10, 1926, ch. 112, 44 Stat. 237; June 3, 1930, ch. 394, 46 Stat. 495; June 29,1932, ch. 305, 47 Stat. 341; June 19, 1934, ch. 664, 48 Stat. 1120; Dec. 16, 1944, ch. 604, 58 Stat. 814).
+Based on title 28, U.S.C., 1940 ed., §180 (Mar. 3, 1911, ch. 231, §99, 36 Stat. 1121; Feb. 5, 1912, ch. 28, 37 Stat. 60; July 17, 1916, ch. 248, 39 Stat. 386; Apr. 10, 1926, ch. 112, 44 Stat. 237; June 3, 1930, ch. 394, 46 Stat. 495; June 29, 1932, ch. 305, 47 Stat. 341; June 19, 1934, ch. 664, 48 Stat. 1120; Dec. 16, 1944, ch. 604, 58 Stat. 814).
 
 A provision relating to maintenance of offices by the clerk was omitted as covered by section 751 of this title.
 

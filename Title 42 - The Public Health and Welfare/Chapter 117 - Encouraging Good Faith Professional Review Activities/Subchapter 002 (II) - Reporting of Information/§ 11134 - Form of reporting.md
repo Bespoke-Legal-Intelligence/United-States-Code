@@ -20,7 +20,3 @@ The information required to be reported under sections 11131, 11132(a), and 1113
 
 (Pub. L. 99–660, title IV, §424, Nov. 14, 1986, 100 Stat. 3790.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11131, 11132, 11133, 11135, 11136, 11137 of this title.
-

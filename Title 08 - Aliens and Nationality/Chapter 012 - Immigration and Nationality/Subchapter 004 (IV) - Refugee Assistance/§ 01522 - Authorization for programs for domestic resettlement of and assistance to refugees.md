@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(II) the availability of employment opportunities, affordable housing, and public and private resources (including educational, health care, and mental health services) for refugees in the area,
 
-&emsp;&emsp;(III) the likelihood of refugees placed in the area becoming self-sufficient and freefrom long-term dependence on public assistance, and
+&emsp;&emsp;(III) the likelihood of refugees placed in the area becoming self-sufficient and free from long-term dependence on public assistance, and
 
 &emsp;&emsp;(IV) the secondary migration of refugees to and from the area that is likely to occur.
 
@@ -140,7 +140,7 @@
 
 &emsp;&emsp;(iii) The efforts made by the agency to monitor placement of the refugees and the activities of local affiliates of the agency.
 
-&emsp;&emsp;(iv) The extent to which the agency has coordinated its activities with local social service providers in a manner which avoids duplication of activities and has provided notices to local welfare offices and the reporting of medical conditions of certainaliens to local health departments in accordance with subparagraphs (B)(i) and (C).
+&emsp;&emsp;(iv) The extent to which the agency has coordinated its activities with local social service providers in a manner which avoids duplication of activities and has provided notices to local welfare offices and the reporting of medical conditions of certain aliens to local health departments in accordance with subparagraphs (B)(i) and (C).
 
 &emsp;&emsp;(v) Such other information as the agency administering paragraph (1) deems to be appropriate in monitoring the effectiveness of agencies in carrying out their functions under such grants and contracts.
 
@@ -238,7 +238,7 @@
 
 (B) Refugees covered under such alternative projects shall be precluded from receiving cash or medical assistance under any other paragraph of this subsection or under title XIX or part A of title IV of the Social Security Act \[42 U.S.C. 1396 et seq., 601 et seq.\].
 
-(C) The Secretary shall report to Congress not later than October 31, 1985, on the results ofthese projects and on any recommendations respecting changes in the refugee assistance program under this section to take into account such results.
+(C) The Secretary shall report to Congress not later than October 31, 1985, on the results of these projects and on any recommendations respecting changes in the refugee assistance program under this section to take into account such results.
 
 (D) To the extent that the use of such funds is consistent with the purposes of such provisions, funds appropriated under section 1524(a) of this title, part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], or title XIX of such Act \[42 U.S.C. 1396 et seq.\], may be used for the purpose of implementing and evaluating alternative projects under this paragraph.
 
@@ -260,7 +260,7 @@
 
 > &emsp;under this chapter.
 
-(2) For a State or county to be eligible to receive compensation under this subsection, the chief executive officer of the State or county shall submit to the Attorney General, in accordance with rules to be issued by the Attorney General, an application containing—
+(2) For a State or county to be eligible to receive compensation under this subsection, thechief executive officer of the State or county shall submit to the Attorney General, in accordance with rules to be issued by the Attorney General, an application containing—
 
 &emsp;(A) the number and names of the Cuban nationals with respect to whom the State or county is entitled to such compensation, and
 
@@ -386,7 +386,7 @@ Section 6(c) of Pub. L. 100–525 provided that: “The amendments made by this 
 
 Section 5(d) of Pub. L. 99–605 provided that:
 
-“(1) Section 412(b)(7) (other than subparagraphs (B)(i), (C), and (D)) of the Immigration and Nationality Act \[8 U.S.C. 1522(b)(7)\], as added by subsection (b)(1) of this section, shall apply to grants and contracts madeor renewed after the end of the 30-day period beginning on the date of the enactment of this Act \[Nov. 6, 1986\].
+“(1) Section 412(b)(7) (other than subparagraphs (B)(i), (C), and (D)) of the Immigration and Nationality Act \[8 U.S.C. 1522(b)(7)\], as added by subsection (b)(1) of this section, shall apply to grants and contracts made or renewed after the end of the 30-day period beginning on the date of the enactment of this Act \[Nov. 6, 1986\].
 
 “(2) Section 412(b)(7)(D) of the Immigration and Nationality Act \[8 U.S.C. 1522(b)(7)\], as added by subsection (b)(1) of this section, shall apply to grants and contracts made or renewed after the end of the six-month period beginning on the date of the enactment of this Act \[Nov. 6, 1986\].
 
@@ -412,7 +412,7 @@ Section 8 of Pub. L. 97–363 provided that: “The amendments made by—
 
 Section 313 of part B of title III of Pub. L. 96–212 provided that:
 
-“(a) Except as otherwise provided in this section, the amendments made by this part \[enacting sections 1521 to 1524 of this title, amending section 2601 of Title 22, Foreign Relations and Intercourse, and repealing provisions set out as a note under section 2601 of Title 22\] shall apply to fiscal years beginning on or after October 1, 1979.
+“(a) Except as otherwise provided in this section, the amendments made by this part \[enacting sections 1521to 1524 of this title, amending section 2601 of Title 22, Foreign Relations and Intercourse, and repealing provisions set out as a note under section 2601 of Title 22\] shall apply to fiscal years beginning on or after October 1, 1979.
 
 “(b) Subject to subsection (c), the limitations contained in sections 412(d)(2)(A) and 412(e)(1) of the Immigration and Nationality Act \[subsecs. (d)(2)(A) and (e)(1) of this section\] on the duration of the period for which child welfare services and cash and medical assistance may be provided to particular refugees shall not apply to such services and assistance provided before April 1, 1981.
 
@@ -538,7 +538,7 @@ I74“state entitlements
 
 “(b)(1) As soon as possible after the date of the enactment of the Consolidated Refugee Education Assistance Act \[Aug. 13, 1981\], the Secretary shall establish a formula (reflecting the availability of the full amount authorized for this title under section 203(b)) by which to determine the amount of the grant which each State educational agency is entitled to receive under this title for any fiscal year. The formula established by the Secretary shall take into account the number of years that an eligible participant assisted under this title has resided within the United States and the relative costs, by grade level, of providing education for elementary and secondary school children. On the basis of the formula the Secretary shall allocate among the State educational agencies, for each fiscal year, the amounts available to carry out this title, subject to such reductions or adjustments as may be required under paragraph (2) or subsection (c). Funds shall be allocated among State educational agencies pursuant to the formula without regard to variations in educational costs among different geographical areas.
 
-“(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
+“(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscalyear, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
 “(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 201(a) shall be considered to be payments under this title.
 
@@ -580,7 +580,7 @@ I74“state entitlements
 
 “(b)(1) Except as provided in paragraph (3) of this subsection and in subsections (c) and (d) of this section, the amount of the grant to which a State educational agency is entitled under this title for any fiscal year shall be equal to the sum of—
 
-&emsp;“(A) the amount equal to the product of (i) the number of eligible participants enrolled during the period for which the determination is made in elementary or secondary public schools under the jurisdiction of each local educational agency described under paragraph (2) within that State, or in any elementary or secondary nonpublic school within the district served by each such local educational agency,who have been eligible participants less than one year, multiplied by (ii) $700;
+&emsp;“(A) the amount equal to the product of (i) the number of eligible participants enrolled during the period for which the determination is made in elementary or secondary public schools under the jurisdiction of each local educational agency described under paragraph (2) within that State, or in any elementary or secondary nonpublic school within the district served by each such local educational agency, who have been eligible participants less than one year, multiplied by (ii) $700;
 
 &emsp;“(B) the amount equal to the product of (i) the number of eligible participants enrolled during the period for which the determination is made in elementary or secondary public schools under the jurisdiction of each local educational agency described under paragraph (2) within that State, or in any elementary or secondary nonpublic school within the district served by each such local educational agency, who have been eligible participants at least one year but not more than two years, multiplied by (ii) $500; and
 
@@ -646,7 +646,7 @@ I74“state entitlements
 
 &emsp;&emsp;“(C) that the provision of services pursuant to this paragraph shall be provided by employees of a public agency or through contract by such public agency with a person, association, agency or corporation who or which, in the provision of such services, is independent of such elementary or secondary nonpublic school and of any religious organization; and such employment or contract shall be under the control and supervision of such public agency, and the funds provided under this paragraph shall not be commingled with State or local funds.
 
-“(b) The Secretary shall approve an application which meets the requirements of subsection (a). The Secretary shall not finally disapprove an application of a State educational agency except after reasonable notice and opportunity for a hearing on the record to such agency.
+“(b) The Secretary shall approve an application which meets the requirements of subsection (a). TheSecretary shall not finally disapprove an application of a State educational agency except after reasonable notice and opportunity for a hearing on the record to such agency.
 
 #### “payments
 
@@ -684,7 +684,7 @@ I74“state entitlements
 
 &emsp;“(3) educational support services which meet the need for such adult refugees, including guidance and counseling with regard to educational, career, and employment opportunities; and
 
-&emsp;“(4) special projects designed to operate in conjunction with existing Federal and non-Federal programs and activities to develop occupational and related skills for individuals, particularly programs authorized under the Job Training Partnership Act \[29U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or under the Vocational Education Act of 1963 \[now Carl D. Perkins Vocational and Technical Education Act of 1998\] \[20 U.S.C. 2301 et seq.\].
+&emsp;“(4) special projects designed to operate in conjunction with existing Federal and non-Federal programs and activities to develop occupational and related skills for individuals, particularly programs authorized under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or under the Vocational Education Act of 1963 \[now Carl D. Perkins Vocational and Technical Education Act of 1998\] \[20 U.S.C. 2301 et seq.\].
 
 “\[(b) Repealed. Pub. L. 105–220, title II, §251(b)(1), Aug. 7, 1998, 112 Stat. 1079.\]
 
@@ -758,7 +758,7 @@ Pub. L. 97–35, title V, §541, Aug. 13, 1981, 95 Stat. 458, provided that: “
 
 #### Executive Order No. 12246
 
-Ex. Ord. No. 12246, Oct. 10, 1980, 45 F.R. 68367, which delegated to the Secretary of State the functions of thePresident under section 501(c) of Pub. L. 96–422, set out above, was revoked by Ex. Ord. No. 12251, Nov. 15, 1980, 45 F.R. 76085, formerly set out below.
+Ex. Ord. No. 12246, Oct. 10, 1980, 45 F.R. 68367, which delegated to the Secretary of State the functions of the President under section 501(c) of Pub. L. 96–422, set out above, was revoked by Ex. Ord. No. 12251, Nov. 15, 1980, 45 F.R. 76085, formerly set out below.
 
 #### Executive Order No. 12251
 
@@ -789,8 +789,4 @@ It is hereby determined that the Secretary of Defense shall assist the Attorney 
 The Secretary of Defense is authorized and directed to publish this determination in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1523 of this title; title 6 section 279; title 42 sections 1382, 1396v.
 

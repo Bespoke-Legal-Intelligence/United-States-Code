@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(E) traveling in or using any facility of interstate commerce, or using any vehicle, terminal, or facility of any common carrier by motor, rail, water, or air;
 
-&emsp;&emsp;(F) enjoying the goods, services, facilities, privileges, advantages, or accommodations of any inn, hotel, motel, or other establishment which provides lodging to transient guests, or of any restaurant, cafeteria, lunchroom, lunch counter, soda fountain, or other facility which serves the public and which is principally engaged in selling food or beverages for consumption on the premises, or of any gasoline station, or of any motion picture house, theater, concert hall, sports arena, stadium, or any other place of exhibition or entertainment which serves the public, or of any other establishment which serves the public and (i) which is located within the premises of any of the aforesaid establishments or within the premises of which is physically located any of the aforesaid establishments, and (ii) which holds itself out as serving patrons of such establishments; or
+&emsp;&emsp;(F) enjoying the goods, services, facilities, privileges, advantages, or accommodations of any inn, hotel, motel, or other establishment which provides lodging to transient guests, or of any restaurant, cafeteria, lunchroom, lunch counter, soda fountain, or other facility which serves the public and which is principally engaged in selling food or beverages for consumption on the premises, or of any gasoline station, or of any motion picture house, theater, concert hall, sports arena, stadium, or any other place of exhibition or entertainment which serves the public, or of any other establishment which serves the public and (i) which is located within the premises of any of the aforesaid establishments or within the premises of which is physically located any of theaforesaid establishments, and (ii) which holds itself out as serving patrons of such establishments; or
 
 &emsp;(3) during or incident to a riot or civil disorder, any person engaged in a business in commerce or affecting commerce, including, but not limited to, any person engaged in a business which sells or offers for sale to interstate travelers a substantial portion of the articles, commodities, or services which it sells or where a substantial portion of the articles or commodities which it sells or offers for sale have moved in commerce; or
 
@@ -83,8 +83,4 @@ Section 101(b) of Pub. L. 90–284 provided that: “Nothing contained in this s
 #### Riots or Civil Disturbances, Suppression and Restoration of Law and Order; Acts or Omissions of Enforcement Officers and Members of Military Service Not Subject to This Section
 
 Section 101(c) of Pub. L. 90–284 provided that: “The provisions of this section \[enacting this section\] shall not apply to acts or omissions on the part of law enforcement officers, members of the National Guard, as defined in section 101(9) of title 10, United States Code, members of the organized militia of any State or the District of Columbia, not covered by such section 101(9), or members of the Armed Forces of the United States, who are engaged in suppressing a riot or civil disturbance or restoring law and order during a riot or civil disturbance.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1202 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—GENERAL
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 802, 841, 861, 938 of this title.
-
 
 ---
 

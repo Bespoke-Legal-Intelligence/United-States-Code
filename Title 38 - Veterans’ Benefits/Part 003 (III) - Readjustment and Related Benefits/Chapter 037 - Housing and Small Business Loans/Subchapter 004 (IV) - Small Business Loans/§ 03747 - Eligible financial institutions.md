@@ -2,7 +2,7 @@
 
 The Secretary may not guarantee under this subchapter a loan made by an entity not subject to examination and supervision by an agency of the United States or of a State.
 
-(Added Pub. L. 97–72, title III, §302(a), Nov. 3, 1981, 95 Stat. 1058, §1847; amended Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3747, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 97–72, title III, §302(a), Nov. 3, 1981, 95 Stat. 1058, §1847; amended Pub. L.101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3747, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 

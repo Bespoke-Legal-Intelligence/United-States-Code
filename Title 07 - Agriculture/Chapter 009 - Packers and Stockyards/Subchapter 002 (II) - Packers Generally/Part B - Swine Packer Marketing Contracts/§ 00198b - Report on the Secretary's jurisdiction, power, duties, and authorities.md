@@ -44,7 +44,3 @@ The Federal Trade Commission Act, referred to in subsec. (b)(1), is act Sept. 26
 
 The Agricultural Marketing Act of 1946, referred to in subsec. (b)(2), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, as amended, which is classified generally to chapter 38 (§1621 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 198 of this title.
-

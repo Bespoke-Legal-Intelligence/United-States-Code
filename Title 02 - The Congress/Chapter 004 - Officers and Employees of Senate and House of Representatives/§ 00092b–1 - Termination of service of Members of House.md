@@ -10,7 +10,3 @@
 
 Section is based on section 1 of House Resolution 804, Ninety-sixth Congress, Oct. 2, 1980, as enacted into permanent law by H.R. 4120, as reported July 9, 1981, which was enacted into permanent law by section 101(c) of Pub. L. 97–51.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 92b–2, 92b–3 of this title.
-

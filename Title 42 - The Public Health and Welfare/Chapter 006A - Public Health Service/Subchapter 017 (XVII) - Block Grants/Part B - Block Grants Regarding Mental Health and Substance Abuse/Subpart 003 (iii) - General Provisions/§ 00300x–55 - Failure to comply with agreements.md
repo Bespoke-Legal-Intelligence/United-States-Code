@@ -68,7 +68,3 @@ Before taking action against a State under any of subsections (a) through (c) of
 
 (July 1, 1944, ch. 373, title XIX, §1945, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 405.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300x–53, 300x–54 of this title.
-

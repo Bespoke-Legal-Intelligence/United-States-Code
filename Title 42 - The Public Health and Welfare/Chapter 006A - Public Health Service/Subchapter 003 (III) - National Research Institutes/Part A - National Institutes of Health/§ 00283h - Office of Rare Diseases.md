@@ -52,7 +52,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(3) During the 1970s, an organization called the National Organization for Rare Disorders (NORD) was founded to provide services and to lobby on behalf of patients with rare diseases and disorders. NORD was instrumental in pressing Congress for legislation to encourage the development of orphan drugs.
 
-&emsp;“(4) The Orphan Drug Act \[Pub. L. 97–414, see Short Title of 1983 Amendments note set out under section 301 of Title 21, Food and Drugs\] created financial incentives for the research and production of such orphan drugs. New Federal programs at the National Institutes of Health and the Food and Drug Administration encouraged clinical research and commercial product development for products that target rare diseases. An Orphan Products Board was established to promote the development of drugs and devices for rare diseases or disorders.
+&emsp;“(4) The Orphan Drug Act \[Pub. L. 97–414, see Short Title of 1983 Amendments note set out under section 301 of Title 21, Food and Drugs\] created financial incentives for the research and production of such orphan drugs. New Federal programs at the National Institutes of Health and the Food and Drug Administration encouraged clinical research and commercial product development for products that target rare diseases. An Orphan Products Board was establishedto promote the development of drugs and devices for rare diseases or disorders.
 
 &emsp;“(5) Before 1983, some 38 orphan drugs had been developed. Since the enactment of the Orphan Drug Act \[Jan. 4, 1983\], more than 220 new orphan drugs have been approved and marketed in the United States and more than 800 additional drugs are in the research pipeline.
 

@@ -1,6 +1,6 @@
 ### §4636. Payments not to be considered as income for revenue purposes or for eligibility for assistance under Social Security Act or other Federal law
 
-No payment received under this subchapter shall be considered as income for the purposes of title 26; or for the purposes of determining the eligibility or the extent of eligibility of any person for assistance under the Social Security Act \[42 U.S.C. 301 et seq.\] or any other Federal law\(except for any Federal law providing low-income housing assistance).
+No payment received under this subchapter shall be considered as income for the purposes of title 26; or for the purposes of determining the eligibility or the extent of eligibility of any person for assistance under the Social Security Act \[42 U.S.C. 301 et seq.\] or any other Federal law (except for any Federal law providing low-income housing assistance).
 
 (Pub. L. 91–646, title II, §216, Jan. 2, 1971, 84 Stat. 1902; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–17, title IV, §413, Apr. 2, 1987, 101 Stat. 255.)
 
@@ -17,8 +17,4 @@ The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–17 effective on effective date provided in regulations promulgated under section 4633 of this title (as amended by section 412 of Pub. L. 100–17), but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1382a, 1382b of this title.
 

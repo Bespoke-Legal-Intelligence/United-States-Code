@@ -1,9 +1,5 @@
 Part E—National Assessment of Subchapter I
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 9563 of this title.
-
 
 ---
 

@@ -134,7 +134,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 &emsp;&emsp;&emsp;(ii) through education; and
 
-&emsp;&emsp;&emsp;(iii) by enabling neighborhoods and communities to offer such individuals and their families access to and use of services, resources, and opportunities.
+&emsp;&emsp;&emsp;(iii) by enabling neighborhoods and communities to offer such individuals andtheir families access to and use of services, resources, and opportunities.
 
 #### (F) Interagency collaboration and coordination
 
@@ -144,7 +144,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 &emsp;&emsp;The Council may support and conduct activities to enhance coordination of services with—
 
-&emsp;&emsp;&emsp;(i) other councils, entities, or committees, authorized by Federal or State law, concerning individuals with disabilities (such as the State interagency coordinating council established under subtitle C <sup>1</sup> of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), the State Rehabilitation Council and the Statewide Independent Living Council established under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the State mental health planning council establishedunder subtitle B <sup>1</sup> of title XIX of the Public Health Service Act \[42 U.S.C. 300x et seq.\], and the activities authorized under section 3011 or 3012 of title 29, and entities carrying out other similar councils, entities, or committees);
+&emsp;&emsp;&emsp;(i) other councils, entities, or committees, authorized by Federal or State law, concerning individuals with disabilities (such as the State interagency coordinating council established under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), the State Rehabilitation Council and the Statewide Independent Living Council established under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the State mental health planning council established under subtitle B <sup>1</sup> of title XIX of the Public Health Service Act \[42 U.S.C. 300x et seq.\], and the activities authorized under section 3003 or 3004 of title 29, and entities carrying out other similar councils, entities, or committees);
 
 &emsp;&emsp;&emsp;(ii) parent training and information centers under part D of the Individuals with Disabilities Education Act (20 U.S.C. 1451 et seq.) and other entities carrying out federally funded projects that assist parents of children with disabilities; and
 
@@ -332,15 +332,15 @@ Each State that receives assistance under this part shall establish and maintain
 
 &emsp;&emsp;With the agreement of the designated State agency, the Council may use or contract with agencies other than the designated State agency to perform the functions of the designated State agency.
 
-(Pub. L. 106–402, title I, §125, Oct. 30, 2000, 114 Stat. 1701.)
+(Pub. L. 106–402, title I, §125, Oct. 30, 2000, 114 Stat. 1701; Pub. L. 108–364, §3(a)(2), Oct. 25, 2004, 118 Stat. 1736; Pub. L. 108–446, title III, §305(n)(1), Dec. 3, 2004, 118 Stat. 2806.)
 
 #### References in Text
 
 The Rehabilitation Act of 1973, referred to in subsecs. (b)(4)(A)(i)(I) and (c)(5)(G)(i), (11), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (b)(4)(A)(i)(I) and (c)(5)(G)(i), (ii), (11), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. The reference to subtitle C of the Act probably means part C of the Act which is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20. Part D of the Act is classified generally to subchapter IV (§1451 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (b)(4)(A)(i)(I) and (c)(5)(G)(i), (ii), (11), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20. Part D of the Act is classified generally to subchapter IV (§1450 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (b)(4)(A)(i)(I), is Pub. L. 89–73, July 14, 1965, 79 Stat.218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act of 1965, referred to in subsec. (b)(4)(A)(i)(I), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (b)(4)(A)(i)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Act are classified generally to subchapters V (§701 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -348,9 +348,11 @@ The Public Health Service Act, referred to in subsec. (c)(5)(G)(i), is act July 
 
 The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (d)(2)(B)(i), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, as amended, which was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. Part B of the Act was classified generally to subchapter II (§6021 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 1396u, 15002, 15024, 15026, 15027 of this title; title 29 section 725.
+2004—Subsec. (c)(5)(G)(i). Pub. L. 108–446 substituted “part C” for “subtitle C”.
+
+Pub. L. 108–364 substituted “section 3003 or 3004 of title 29” for “section 3011 or 3012 of title 29”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

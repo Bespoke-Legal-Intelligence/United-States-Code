@@ -38,7 +38,3 @@ Section 604(b) of Pub. L. 105–78 and section 1(b) of Pub. L. 105–136 provide
 
 Amendment by Pub. L. 100–525 effective as if included in enactment of Refugee Assistance Extension Act of 1986, Pub. L. 99–605, see section 6(c) of Pub. L. 100–525, set out as a note under section 1522 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1522 of this title.
-

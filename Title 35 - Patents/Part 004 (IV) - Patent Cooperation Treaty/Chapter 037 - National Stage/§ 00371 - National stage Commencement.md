@@ -10,7 +10,7 @@
 
 &emsp;(2) a copy of the international application, unless not required under subsection (a) of this section or already communicated by the International Bureau, and a translation into the English language of the international application, if it was filed in another language;
 
-&emsp;(3) amendments, if any, to the claims in the international application, made under article 19 of the treaty, unless such amendments have been communicated to the Patent and Trademark Office by the International Bureau, and a translation into the English language if such amendments were made in another language;
+&emsp;(3) amendments, if any, to the claims in the international application, made under article19 of the treaty, unless such amendments have been communicated to the Patent and Trademark Office by the International Bureau, and a translation into the English language if such amendments were made in another language;
 
 &emsp;(4) an oath or declaration of the inventor (or other person authorized under chapter 11 of this title) complying with the requirements of section 115 of this title and with regulations prescribed for oaths or declarations of applicants;
 
@@ -73,10 +73,6 @@ Amendment by section 403(a) of Pub. L. 98–622 effective Nov. 8, 1984, see sect
 #### Effective Date
 
 Chapter effective Jan. 24, 1978, and applicable to international and national applications filed, on and after that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 154, 366 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

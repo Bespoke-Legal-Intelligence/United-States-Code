@@ -16,7 +16,7 @@ As used in this chapter—
 
 &emsp;&emsp;(C) as a harvesting vessel, as a mother ship, or as any other support vessel directly engaged in a fishing operation.
 
-&emsp;(5) The term “international conservation and management measures” means measures to conserve or manage one or more species of living marine resources that are adopted and applied in accordance with the relevant rules of international law, as reflected in the 1982 United Nations Convention on the Law of the Sea, and that are recognized by the United States. Such measures may be adopted by global, regional, or sub-regional fisheries organizations, subject to the rights and obligations of their members, or by treaties or other international agreements.
+&emsp;(5) The term “international conservation and management measures” means measures to conserve or manage one or more species of living marine resources that are adopted andapplied in accordance with the relevant rules of international law, as reflected in the 1982 United Nations Convention on the Law of the Sea, and that are recognized by the United States. Such measures may be adopted by global, regional, or sub-regional fisheries organizations, subject to the rights and obligations of their members, or by treaties or other international agreements.
 
 &emsp;(6) The term “length” means—
 

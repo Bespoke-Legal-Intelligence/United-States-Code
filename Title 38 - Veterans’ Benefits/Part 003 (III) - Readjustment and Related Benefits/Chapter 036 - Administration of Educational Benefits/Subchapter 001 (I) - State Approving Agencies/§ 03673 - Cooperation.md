@@ -20,7 +20,3 @@
 
 Subsec. (b). Pub. L. 89–358, §3(a)(7), substituted “chapters 34 and 35” for “this chapter”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3689 of this title.
-

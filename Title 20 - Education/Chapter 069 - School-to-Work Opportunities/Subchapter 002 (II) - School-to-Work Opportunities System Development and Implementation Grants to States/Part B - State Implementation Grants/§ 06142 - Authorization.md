@@ -18,7 +18,3 @@ A State shall be eligible to receive only 1 implementation grant under subsectio
 
 (Pub. L. 103–239, title II, §212, May 4, 1994, 108 Stat. 582.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6143, 6144, 6145, 6146, 6147, 6148, 6172, 6235 of this title.
-

@@ -31,6 +31,7 @@
 | (b) | Procedures for issuance of certificate of public convenience and necessity; inventory, valuation, or classification of property; additional laws, authorities, etc., applicable. |
 | (c) | Eligibility for participation in Federal railroad assistance programs. |
 | (d) | Laws and regulations applicable to national forest and park lands; limitations on Federal actions. |
+| (e) | Preservation and protection of rail properties. |
 | [1208\.](%C2%A7%2001208%20-%20Future%20rights-of-way.md) | Future rights-of-way. |
 | (a) | Access across Federal lands; application approval. |
 | (b) | Consultative requirements prior to approval of application; conformance of rights-of-way, etc. |
@@ -47,10 +48,6 @@
 | [1214\.](%C2%A7%2001214%20-%20Separability.md) | Separability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 231 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

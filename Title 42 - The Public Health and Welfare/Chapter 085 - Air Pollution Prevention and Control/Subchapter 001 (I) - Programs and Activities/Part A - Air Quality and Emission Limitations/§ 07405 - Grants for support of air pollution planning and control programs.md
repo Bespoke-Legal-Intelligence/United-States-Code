@@ -22,7 +22,7 @@
 
 (1) No agency shall receive any grant under this section during any fiscal year when its expenditures of non-Federal funds for recurrent expenditures for air pollution control programs will be less than its expenditures were for such programs during the preceding fiscal year. In order for the Administrator to award grants under this section in a timely manner each fiscal year, the Administrator shall compare an agency's prospective expenditure level to that of its second preceding fiscal year. The Administrator shall revise the current regulations which define applicable nonrecurrent and recurrent expenditures, and in so doing, give due consideration to exempting an agency from the limitations of this paragraph and subsection (a) of this section due to periodic increases experienced by that agency from time to time in its annual expenditures for purposes acceptable to the Administrator for that fiscal year.
 
-(2) The Administrator may still award a grant to an agency not meeting the requirements of paragraph (<i>l</i>) <sup>1</sup> of this subsection if the Administrator, after notice and opportunity for public hearing, determines that a reduction in expenditures is attributable to a non-selective reduction in the expenditures in the programs of all Executive branch agencies of the applicable unit of Government. No agency shall receive any grant under this section with respect to the maintenance of a program for the prevention and control of air pollution unless the Administrator is satisfied that such a grant will be so used to supplement and, to the extent practicable, increase the level of State, local, or other non-Federal funds. No grants shall bemade under this section until the Administrator has consulted with the appropriate official as designated by the Governor or Governors of the State or States affected.
+(2) The Administrator may still award a grant to an agency not meeting the requirements of paragraph (<i>l</i>) <sup>1</sup> of this subsection if the Administrator, after notice and opportunity for public hearing, determines that a reduction in expenditures is attributable to a non-selective reduction in the expenditures in the programs of all Executive branch agencies of the applicable unit of Government. No agency shall receive any grant under this section with respect to the maintenance of a program for the prevention and control of air pollution unless the Administrator is satisfied that such a grant will be so used to supplement and, to the extent practicable, increase the level of State, local, or other non-Federal funds. No grants shall be made under this section until the Administrator has consulted with the appropriate official as designated by the Governor or Governors of the State or States affected.
 
 #### (d) Reduction of payments; availability of reduced amounts; reduced amount as deemed paid to agency for purpose of determining amount of grant
 
@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 95–95, §102(b), provided that in fiscal year 1978 and su
 
 Subsec. (e). Pub. L. 95–95, §305(b), added subsec. (e).
 
-1970—Subsec. (a)(1). Pub. L. 91–604, §3(a), substituted provisions authorizing the Administrator to make grants, for provisions authorizing the Secretary to make grants, and provisions authorizing grants for programs implementing national primary and secondary ambient air quality standards, for provisions authorizing grants for programs implementing air qualitystandards authorized by this subchapter, and inserted the provision requiring grants to air pollution control agencies be made to agencies having substantial responsibilities for carrying out the applicable implementation plan with respect to the air quality control region or portion thereof.
+1970—Subsec. (a)(1). Pub. L. 91–604, §3(a), substituted provisions authorizing the Administrator to make grants, for provisions authorizing the Secretary to make grants, and provisions authorizing grants for programs implementing national primary and secondary ambient air quality standards, for provisions authorizing grants for programs implementing air quality standards authorized by this subchapter, and inserted the provision requiring grants to air pollution control agencies be made to agencies having substantial responsibilities for carrying out the applicable implementation plan with respect to the air quality control region or portion thereof.
 
 Subsecs. (a)(2), (3), (b), (c). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” wherever appearing.
 
@@ -93,10 +93,6 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
 All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7509, 7601 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(1)”.</i>
 

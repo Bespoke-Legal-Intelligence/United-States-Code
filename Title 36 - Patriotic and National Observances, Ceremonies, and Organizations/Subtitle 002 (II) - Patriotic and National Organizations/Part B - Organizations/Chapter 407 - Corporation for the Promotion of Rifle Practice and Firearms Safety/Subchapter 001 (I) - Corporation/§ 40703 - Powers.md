@@ -72,7 +72,3 @@ In clause (5), the words “charge fees to cover the corporation's costs” are 
 
 Clause (6) is substituted for “take such other actions as are necessary or appropriate to carry out the authority provided in this section” for consistency in the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 40704 of this title.
-

@@ -10,7 +10,3 @@
 
 (Added Pub. L. 104–191, title II, §241(a), Aug. 21, 1996, 110 Stat. 2016.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 669, 1035 of this title; title 42 section 1395i.
-

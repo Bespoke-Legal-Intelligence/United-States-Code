@@ -36,7 +36,3 @@ See section 1271 of Pub. L. 99–514, set out as a note under section 931 of Tit
 
 Conveyance of submerged lands to the government of American Samoa, see section 1701 et seq. of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1708 of this title.
-

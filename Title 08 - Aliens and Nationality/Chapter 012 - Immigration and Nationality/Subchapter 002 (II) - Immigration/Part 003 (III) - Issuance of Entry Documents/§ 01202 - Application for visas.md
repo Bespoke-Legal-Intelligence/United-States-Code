@@ -2,19 +2,19 @@
 
 #### (a) Immigrant visas
 
-Every alien applying for an immigrant visa and for alien registration shall make applicationtherefor in such form and manner and at such place as shall be by regulations prescribed. In the application the alien shall state his full and true name, and any other name which he has used or by which he has been known; age and sex; the date and place of his birth; and such additional information necessary to the identification of the applicant and the enforcement of the immigration and nationality laws as may be by regulations prescribed.
+Every alien applying for an immigrant visa and for alien registration shall make application therefor in such form and manner and at such place as shall be by regulations prescribed. In the application the alien shall state his full and true name, and any other name which he has used or by which he has been known; age and sex; the date and place of his birth; and such additional information necessary to the identification of the applicant and the enforcement of the immigration and nationality laws as may be by regulations prescribed.
 
 #### (b) Other documentary evidence for immigrant visa
 
-Every alien applying for an immigrant visa shall present a valid unexpired passport or other suitable travel document, or document of identity and nationality, if such document is required under the regulations issued by the Secretary of State. The immigrant shall furnish to the consular officer with his application a copy of a certification by the appropriate police authorities stating what their records show concerning the immigrant; a certified copy of any existing prison record, military record, and record of his birth; and a certified copy of all other records or documents concerning him or his case which may be required by the consular officer. The copy of each document so furnished shall be permanently attached to the application and become a part thereof. In the event that the immigrant establishes to the satisfaction of the consular officer that any document or record required by this subsection is unobtainable, the consular officer may permit the immigrant to submit in lieu of such document or record other satisfactory evidence of the fact to which such document or record would, if obtainable, pertain.
+Every alien applying for an immigrant visa shall present a valid unexpired passport or other suitable travel document, or document of identity and nationality, if such document is required under the regulations issued by the Secretary of State. The immigrant shall furnish to the consular officer with his application a copy of a certification by the appropriate police authorities stating what their records show concerning the immigrant; a certified copy of any existing prison record, military record, and record of his birth; and a certified copy of all other records or documents concerning him or his case which may be required by the consular officer. The copy of each document so furnished shall be permanently attached to the application and become a part thereof. In the eventthat the immigrant establishes to the satisfaction of the consular officer that any document or record required by this subsection is unobtainable, the consular officer may permit the immigrant to submit in lieu of such document or record other satisfactory evidence of the fact to which such document or record would, if obtainable, pertain. All immigrant visa applications shall be reviewed and adjudicated by a consular officer.
 
 #### (c) Nonimmigrant visas; nonimmigrant registration; form, manner and contents of application
 
-Every alien applying for a nonimmigrant visa and for alien registration shall make application therefor in such form and manner as shall be by regulations prescribed. In the application the alien shall state his full and true name, the date and place of birth, his nationality, the purpose and length of his intended stay in the United States; his marital status; and such additional information necessary to the identification of the applicant, the determination of his eligibility for a nonimmigrant visa, and the enforcement of the immigration and nationality laws as may be by regulations prescribed. At the discretion of the Secretary of State, application forms for the various classes of nonimmigrant admissions described in section 1101(a)(15) of this title may vary according to the class of visa being requested.
+Every alien applying for a nonimmigrant visa and for alien registration shall make application therefor in such form and manner as shall be by regulations prescribed. In the application the alien shall state his full and true name, the date and place of birth, his nationality, the purpose and length of his intended stay in the United States; his marital status; and such additional information necessary to the identification of the applicant, the determination of his eligibility for a nonimmigrant visa, and the enforcement of the immigration and nationality laws as may be by regulations prescribed. The alien shall provide complete and accurate information in response to any request for information contained in the application. At the discretion of the Secretary of State, application forms for the various classes of nonimmigrant admissions described in section 1101(a)(15) of this title may vary according to the class of visa being requested.
 
 #### (d) Other documentary evidence for nonimmigrant visa
 
-Every alien applying for a nonimmigrant visa and alien registration shall furnish to the consular officer, with his application, a certified copy of such documents pertaining to him as may be by regulations required.
+Every alien applying for a nonimmigrant visa and alien registration shall furnish to the consular officer, with his application, a certified copy of such documents pertaining to him as may be by regulations required. All nonimmigrant visa applications shall be reviewed and adjudicated by a consular officer.
 
 #### (e) Signing and verification of application
 
@@ -42,9 +42,77 @@ The records of the Department of State and of diplomatic and consular offices of
 
 &emsp;(B) where extraordinary circumstances are found by the Secretary of State to exist.
 
-(June 27, 1952, ch. 477, title II, ch. 3, §222, 66 Stat. 193; Pub. L. 87–301, §6, Sept. 26, 1961, 75 Stat. 653; Pub. L. 89–236, §11(c), Oct. 3, 1965, 79 Stat. 918; Pub. L. 99–653, §6, Nov. 14, 1986, 100 Stat. 3656; Pub. L. 100–525, §§8(e), 9(j), Oct. 24, 1988, 102 Stat. 2617, 2620; Pub. L. 103–416, title II, §205(a), Oct. 25, 1994, 108 Stat. 4311; Pub. L. 104–208, div. C, title VI, §§632(a), 634, Sept. 30, 1996, 110 Stat. 3009–701; Pub. L. 107–56, title IV, §413, Oct. 26, 2001, 115 Stat. 353.)
+#### (h) In person interview with consular officer
+
+Notwithstanding any other provision of this chapter, the Secretary of State shall require every alien applying for a nonimmigrant visa—
+
+&emsp;(1) who is at least 14 years of age and not more than 79 years of age to submit to an in person interview with a consular officer unless the requirement for such interview is waived—
+
+&emsp;&emsp;(A) by a consular official and such alien is—
+
+&emsp;&emsp;&emsp;(i) within that class of nonimmigrants enumerated in subparagraph (A) or (G) of section 1101(a)(15) of this title;
+
+&emsp;&emsp;&emsp;(ii) within the NATO visa category;
+
+&emsp;&emsp;&emsp;(iii) within that class of nonimmigrants enumerated in section 1101(a)(15)(C)(iii) <sup>3</sup> ofthis title (referred to as the “C–3 visa” category); or
+
+&emsp;&emsp;&emsp;(iv) granted a diplomatic or official visa on a diplomatic or official passport or on the equivalent thereof;
+
+&emsp;&emsp;(B) by a consular official and such alien is applying for a visa—
+
+&emsp;&emsp;&emsp;(i) not more than 12 months after the date on which such alien's prior visa expired;
+
+&emsp;&emsp;&emsp;(ii) for the visa classification for which such prior visa was issued;
+
+&emsp;&emsp;&emsp;(iii) from the consular post located in the country of such alien's usual residence, unless otherwise prescribed in regulations that require an applicant to apply for a visa in the country of which such applicant is a national; and
+
+&emsp;&emsp;&emsp;(iv) the consular officer has no indication that such alien has not complied with the immigration laws and regulations of the United States; or
+
+&emsp;&emsp;(C) by the Secretary of State if the Secretary determines that such waiver is—
+
+&emsp;&emsp;&emsp;(i) in the national interest of the United States; or
+
+&emsp;&emsp;&emsp;(ii) necessary as a result of unusual or emergent circumstances; and
+
+&emsp;(2) notwithstanding paragraph (1), to submit to an in person interview with a consular officer if such alien—
+
+&emsp;&emsp;(A) is not a national or resident of the country in which such alien is applying for a visa;
+
+&emsp;&emsp;(B) was previously refused a visa, unless such refusal was overcome or a waiver of ineligibility has been obtained;
+
+&emsp;&emsp;(C) is listed in the Consular Lookout and Support System (or successor system at the Department of State);
+
+&emsp;&emsp;(D) is a national of a country officially designated by the Secretary of State as a state sponsor of terrorism, except such nationals who possess nationalities of countries that are not designated as state sponsors of terrorism;
+
+&emsp;&emsp;(E) requires a security advisory opinion or other Department of State clearance, unless such alien is—
+
+&emsp;&emsp;&emsp;(i) within that class of nonimmigrants enumerated in subparagraph (A) or (G) of section 1101(a)(15) of this title;
+
+&emsp;&emsp;&emsp;(ii) within the NATO visa category;
+
+&emsp;&emsp;&emsp;(iii) within that class of nonimmigrants enumerated in section 1101(a)(15)(C)(iii) <sup>3</sup> of this title (referred to as the “C–3 visa” category); or
+
+&emsp;&emsp;&emsp;(iv) an alien who qualifies for a diplomatic or official visa, or its equivalent; or
+
+&emsp;&emsp;(F) is identified as a member of a group or sector that the Secretary of State determines—
+
+&emsp;&emsp;&emsp;(i) poses a substantial risk of submitting inaccurate information in order to obtain a visa;
+
+&emsp;&emsp;&emsp;(ii) has historically had visa applications denied at a rate that is higher than the average rate of such denials; or
+
+&emsp;&emsp;&emsp;(iii) poses a security threat to the United States.
+
+(June 27, 1952, ch. 477, title II, ch. 3, §222, 66 Stat. 193; Pub. L. 87–301, §6, Sept. 26, 1961, 75 Stat. 653; Pub. L. 89–236, §11(c), Oct. 3, 1965, 79 Stat. 918; Pub. L. 99–653, §6, Nov. 14, 1986, 100 Stat. 3656; Pub. L. 100–525, §§8(e), 9(j), Oct. 24, 1988, 102 Stat. 2617, 2620; Pub. L. 103–416, title II, §205(a), Oct. 25, 1994, 108 Stat. 4311; Pub. L. 104–208, div. C, title VI, §§632(a), 634, Sept. 30, 1996, 110 Stat. 3009–701; Pub. L. 107–56, title IV, §413, Oct. 26, 2001, 115 Stat. 353; Pub. L. 108–458, title V, §§5301(a), 5302, title VII, §7203(b), Dec. 17, 2004, 118 Stat. 3735, 3736, 3814.)
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–458, §7203(b)(1), inserted at end “All immigrant visa applications shall be reviewed and adjudicated by a consular officer.”
+
+Subsec. (c). Pub. L. 108–458, §5302, inserted after second sentence “The alien shall provide complete and accurate information in response to any request for information contained in the application.”
+
+Subsec. (d). Pub. L. 108–458, §7203(b)(2), inserted at end “All nonimmigrant visa applications shall be reviewed and adjudicated by a consular officer.”
+
+Subsec. (h). Pub. L. 108–458, §5301(a), added subsec. (h).
 
 2001—Subsec. (f). Pub. L. 107–56 inserted “—” after “except that” and “(1)” before “in the discretion”, and added par. (2).
 
@@ -67,6 +135,12 @@ Subsec. (e). Pub. L. 99–653, §6(b), as amended by Pub. L. 100–525, §8(e)(2
 1965—Subsec. (a). Pub L. 89–236 substituted “an immediate relative within the meaning of section 1151 (b) of this title or a preference or special immigrant”, for “preference quota or a nonquota immigrant”.
 
 1961—Subsecs. (a), (c). Pub. L. 87–301 struck out requirement to state applicant's race and ethnic classification.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–458, title V, §5303, Dec. 17, 2004, 118 Stat. 3736, provided that: “Notwithstanding section 1086 \[Pub. L. 108–458 does not contain a section 1086\] or any other provision of this Act \[see Tables for classification\], sections 5301 and 5302 \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Dec. 17, 2004\].”
+
+Pub. L. 108–458, title VII, §7219, Dec. 17, 2004, 118 Stat. 3835, provided that: “Notwithstanding any other provision of this Act \[see Tables for classification\], this subtitle \[subtitle B (§§7201–7220) of title VII of Pub. L. 108–458, see Tables for classification\] shall take effect on the date of enactment of this Act \[Dec. 17, 2004\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -104,11 +178,9 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1201, 1372 of this title; title 22 section 4355.
-
 <i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> So in original. The period probably should be “; and”.</i>
+
+<i><sup>3</sup></i><i> So in original. Subpar. (C) of section 1101(a)(15) does not contain clauses.</i>
 

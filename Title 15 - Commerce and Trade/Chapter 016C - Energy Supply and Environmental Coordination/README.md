@@ -35,10 +35,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 16 section 2643; title 42 sections 6274, 7194, 7410, 7411, 7473.
-
 
 ---
 

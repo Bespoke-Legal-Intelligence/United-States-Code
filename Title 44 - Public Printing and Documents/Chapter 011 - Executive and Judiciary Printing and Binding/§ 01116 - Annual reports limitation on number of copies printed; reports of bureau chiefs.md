@@ -12,7 +12,3 @@ Based on 44 U.S. Code, 1964 ed., §213 (part) (Jan. 12, 1895, ch. 23, §89, 28 S
 
 This section incorporates only the first sentence of the second paragraph of former section 213 and the last paragraph of that section. The balance will be found in sections 1102, 1302, 1308, 1309, 1310, 1336 of the revision.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3714b; title 35 section 2.
-

@@ -10,7 +10,3 @@ All stockyard services furnished pursuant to reasonable request made to a stocky
 
 1926—Act May 5, 1926, inserted proviso.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 211 of this title.
-

@@ -38,7 +38,3 @@
 
 (Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2894.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1330, 1603, 1605, 1610 of this title; title 22 section 6082.
-

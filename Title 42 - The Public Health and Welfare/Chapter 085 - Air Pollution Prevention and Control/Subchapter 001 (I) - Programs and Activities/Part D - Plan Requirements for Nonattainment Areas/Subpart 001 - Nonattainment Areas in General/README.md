@@ -1,9 +1,5 @@
 subpart 1—nonattainment areas in general
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 7511, 7512, 7514 of this title.
-
 <i><sup>1</sup></i><i> So in original. Words “subsection (b) of this section” probably should be “paragraph (2)”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>

@@ -16,7 +16,3 @@ Whoever, having devised or intending to devise any scheme or artifice to defraud
 
 1956—Act July 11, 1956, substituted “transmitted by means of wire, radio, or television communication in interstate or foreign commerce” for “transmitted by means of interstate wire, radio, or television communication”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 225, 981, 982, 1510, 1514A, 1961, 2326, 2516, 3293, 3322 of this title; title 7 section 12a; title 12 sections 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b; title 15 sections 78<i>o</i>, 80b–3; title 47 sections 312, 503.
-

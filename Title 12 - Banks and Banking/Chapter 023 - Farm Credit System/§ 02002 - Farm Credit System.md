@@ -84,7 +84,7 @@ Prerequisites to Consolidation.—
 
 &emsp;“(1)
 
-FCA review of proposal.—Prior to the submission of the proposal developed under subsection\(a)(2) to the stockholders under paragraph (3), the proposal together with all information to be presented to the stockholders, shall be submitted to the Farm Credit Administration for approval.
+FCA review of proposal.—Prior to the submission of the proposal developed under subsection (a)(2) to the stockholders under paragraph (3), the proposal together with all information to be presented to the stockholders, shall be submitted to the Farm Credit Administration for approval.
 
 &emsp;“(2)
 
@@ -107,8 +107,4 @@ Stockholder vote.—Each association shall be entitled to cast a number of votes
 #### Applicability of Laws Enacted After January 1, 1960
 
 Pub. L. 86–168, title II, §203(b), Aug. 18, 1959, 73 Stat. 390, provided that: “Any Act of Congress enacted after the effective date of this title \[Jan. 1, 1960\] and which states that it shall be applicable to agencies or instrumentalities of the United States or to corporations controlled or owned, in whole or in part, by the United States, or to officers and employees of the United States or such agencies or instrumentalities or corporations, shall not be applicable to a Federal land bank, Federal intermediate credit bank, or bank for cooperatives, or to its directors, officers, or employees unless such Act specifically so provides by naming such banks.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2271 of this title; title 7 section 2009cc–9.
 

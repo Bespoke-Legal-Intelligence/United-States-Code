@@ -44,9 +44,5 @@ The Indian Education Act of 1988, as in effect the day preceding October 20, 199
 
 #### Prior Provisions
 
-A prior section 7491, Pub. L. 89–10, title VII, §7161, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3736, set forth special rule relating to transition, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7427 of this title; title 25 section 2902.
+A prior section 7491, Pub. L. 89–10, title VII, §7161, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3736, set forth special rule relating to transition, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

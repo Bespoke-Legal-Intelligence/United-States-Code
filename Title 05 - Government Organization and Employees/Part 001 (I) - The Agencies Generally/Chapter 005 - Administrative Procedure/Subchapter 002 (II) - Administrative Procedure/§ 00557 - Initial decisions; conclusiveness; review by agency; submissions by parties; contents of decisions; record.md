@@ -58,7 +58,7 @@ Historical and Revision Notes
 
 June 11, 1946, ch. 324, §8, 60 Stat. 242.
 
-In subsection (b), the word “employee” is substituted for “officer” and “officers” in view of the definition of “employee” in section 2105. The word “either” is added after the word “requires” in the first sentence to eliminate the need for parentheses. The words “the presiding employee or an employee qualified to preside at hearings under section 556 of this title” are substituted for “such officers” in the last sentence. The word “initial” is omitted before “decision”, the final word in the first sentence and the sixth word of the fourth sentence, toavoid confusion between the “initial decision” of the presiding employee and the “initial decision” of the agency.
+In subsection (b), the word “employee” is substituted for “officer” and “officers” in view of the definition of “employee” in section 2105. The word “either” is added after the word “requires” in the first sentence to eliminate the need for parentheses. The words “the presiding employee or an employee qualified to preside at hearings under section 556 of this title” are substituted for “such officers” in the last sentence. The word “initial” is omitted before “decision”, the final word in the first sentence and the sixth word of the fourth sentence, to avoid confusion between the “initial decision” of the presiding employee and the “initial decision” of the agency.
 
 In subsection (c), the word “employees” is substituted for “officers” in view of the definition of “employee” in section 2105.
 
@@ -77,8 +77,4 @@ Section 557a of former Title 5, Executive Departments and Government Officers an
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see section 6 of Pub. L. 94–409, set out as an Effective Date note under section 552b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 553, 554, 556, 558, 706, 3105 of this title; title 2 sections 501, 502, 1405; title 7 sections 86, 87e, 87f–1, 2023, 2707, 4604, 4906, 6802, 6804, 7804; title 8 section 1375; title 13 section 305; title 15 sections 57a, 2605, 3412; title 16 sections 796, 839f, 2602, 3636; title 20 section 1234; title 21 sections 321, 384; title 30 sections 185, 811, 823, 1415; title 39 sections 404, 3624, 3661; title 41 section 422; title 42 sections 1320a–7c, 1395ww, 1485, 2000e–16c, 2241, 7407, 7502, 7511a, 7607, 11504; title 46 sections 7702, 9303; title 49 sections 31136, 31317; title 50 App. sections 16, 2159, 2410, 2412.
 

@@ -27,6 +27,7 @@ Part IX—Miscellaneous
 - [&sect; 01364 - Triennial comprehensive report on immigration](%C2%A7%2001364%20-%20Triennial%20comprehensive%20report%20on%20immigration.md)
 - [&sect; 01365 - Reimbursement of States for costs of incarcerating illegal aliens and certain Cuban nationals](%C2%A7%2001365%20-%20Reimbursement%20of%20States%20for%20costs%20of%20incarcerating%20illegal%20aliens%20and%20certain%20Cuban%20nationals.md)
 - [&sect; 01365a - Integrated entry and exit data system](%C2%A7%2001365a%20-%20Integrated%20entry%20and%20exit%20data%20system.md)
+- [&sect; 01365b - Biometric entry and exit data system](%C2%A7%2001365b%20-%20Biometric%20entry%20and%20exit%20data%20system.md)
 - [&sect; 01366 - Annual report on criminal aliens](%C2%A7%2001366%20-%20Annual%20report%20on%20criminal%20aliens.md)
 - [&sect; 01367 - Penalties for disclosure of information](%C2%A7%2001367%20-%20Penalties%20for%20disclosure%20of%20information.md)
 - [&sect; 01368 - Increase in INS detention facilities; report on detention space](%C2%A7%2001368%20-%20Increase%20in%20INS%20detention%20facilities%3B%20report%20on%20detention%20space.md)
@@ -41,3 +42,5 @@ Part IX—Miscellaneous
 - [&sect; 01377 - Collection of data on detained asylum seekers](%C2%A7%2001377%20-%20Collection%20of%20data%20on%20detained%20asylum%20seekers.md)
 - [&sect; 01378 - Collection of data on other detained aliens](%C2%A7%2001378%20-%20Collection%20of%20data%20on%20other%20detained%20aliens.md)
 - [&sect; 01379 - Technology standard to confirm identity](%C2%A7%2001379%20-%20Technology%20standard%20to%20confirm%20identity.md)
+- [&sect; 01380 - Maintenance of statistics by the Department of Homeland Security](%C2%A7%2001380%20-%20Maintenance%20of%20statistics%20by%20the%20Department%20of%20Homeland%20Security.md)
+- [&sect; 01381 - Secretary of Labor report](%C2%A7%2001381%20-%20Secretary%20of%20Labor%20report.md)

@@ -94,7 +94,7 @@ To the extent that, on the extinguishing of liabilities assumed by the Assistanc
 
 #### (4) Funds not considered financial assistance
 
-&emsp;The funds made available to each bank, whether through the issuance of stock or otherwise, by the Financial Assistance Corporation to meet obligations under any agreement referred to in paragraph (1) or to meet any obligations of the contributing banks under any such agreement, as required by this subsection, shall not be considered financial assistance under this chapter.
+&emsp;The funds made available to each bank, whether through the issuance of stock orotherwise, by the Financial Assistance Corporation to meet obligations under any agreement referred to in paragraph (1) or to meet any obligations of the contributing banks under any such agreement, as required by this subsection, shall not be considered financial assistance under this chapter.
 
 #### (5) Suspension of preservation agreements
 
@@ -131,10 +131,6 @@ Subsec. (e)(5). Pub. L. 100–399, §201(<i>l</i>), inserted “activation of”
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2278b–1, 2278b–6, 2278b–9, 2278b–11 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

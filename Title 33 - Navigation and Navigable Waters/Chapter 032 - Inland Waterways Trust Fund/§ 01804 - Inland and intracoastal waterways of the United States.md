@@ -72,7 +72,3 @@ Par. (27). Pub. L. 99–662 added par. (27).
 
 Amendment by Pub. L. 99–662 effective Jan. 1, 1987, see section 1404(c) of Pub. L. 99–662 set out as a note under section 4042 of Title 26, Internal Revenue Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 sections 4042, 9506.
-

@@ -14,13 +14,13 @@
 
 &emsp;(1) by 15 percent or more; or
 
-&emsp;(2) by a percent which, when added to the percent reduction made in the number of suchemployees with permanent duty stations at such office or facility during the preceding fiscal year, is 25 percent or more.
+&emsp;(2) by a percent which, when added to the percent reduction made in the number of such employees with permanent duty stations at such office or facility during the preceding fiscal year, is 25 percent or more.
 
 (d)(1) Not less than 30 days before the date on which the implementation of any administrative reorganization described in paragraph (2) of a unit in the Central Office is to begin, the Secretary shall transmit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a notification regarding the reorganization.
 
 (2) Paragraph (1) applies to an administrative reorganization of any unit of the Central Office that is the duty station for 30 or more employees if the reorganization involves a reduction in any fiscal year in the number of full-time equivalent employees with permanent duty station in such unit by 50 percent or more.
 
-(e) For purposes of this section, the term “administrative reorganization” does not include a consolidation or redistribution of functions at a covered field office or facility, or between components of the Veterans Benefits Administration and the Veterans Health Administration at a Department medical and regional office center, if after the consolidation or redistribution the same number of full-time equivalent employees continues to perform the affected functions at that field office, facility, or center.
+(e) For purposes of this section, the term “administrative reorganization” does not include a consolidation or redistribution of functions at acovered field office or facility, or between components of the Veterans Benefits Administration and the Veterans Health Administration at a Department medical and regional office center, if after the consolidation or redistribution the same number of full-time equivalent employees continues to perform the affected functions at that field office, facility, or center.
 
 (f) For purposes of this section:
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) the total number of such orders either granted, modified, or denied.
 
-(Pub. L. 95–511, title V, §502, as added Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 288;amended Pub. L. 107–108, title III, §314(a)(7), Dec. 28, 2001, 115 Stat. 1402.)
+(Pub. L. 95–511, title V, §502, as added Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 288; amended Pub. L. 107–108, title III, §314(a)(7), Dec. 28, 2001, 115 Stat. 1402.)
 
 #### Termination of Section and of Repeal of Prior Section
 

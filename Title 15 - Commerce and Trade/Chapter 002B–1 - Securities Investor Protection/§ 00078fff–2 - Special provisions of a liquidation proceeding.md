@@ -12,7 +12,7 @@
 
 #### (3) Time limitations
 
-&emsp;No claim of a customer or other creditor of the debtor which is received by the trustee after the expiration of the six-month period beginning on the date of publication of notice under paragraph (1) shall be allowed, except that the court may, upon application within such period and for cause shown, grant a reasonable, fixed extension of time for the filing of a claim by the United States, by a State or political subdivision thereof, or by an infant or incompetent person without a guardian. Any claim of a customer for net equity which is received by the trustee after the expirationof such period of time as may be fixed by the court (not exceeding sixty days after the date of publication of notice under paragraph (1)) need not be paid or satisfied in whole or in part out of customer property, and, to the extent such claim is satisfied from moneys advanced by SIPC, it shall be satisfied in cash or securities (or both) as the trustee determines is most economical to the estate.
+&emsp;No claim of a customer or other creditor of the debtor which is received by the trustee after the expiration of the six-month period beginning on the date of publication of notice under paragraph (1) shall be allowed, except that the court may, upon application within such period and for cause shown, grant a reasonable, fixed extension of time for the filing of a claim by the United States, by a State or political subdivision thereof, or by an infant or incompetent person without a guardian. Any claim of a customer for net equity which is received by the trustee after the expiration of such period of time as may be fixed by the court (not exceeding sixty days after the date of publication of notice under paragraph (1)) need not be paid or satisfied in whole or in part out of customer property, and, to the extent such claim is satisfied from moneys advanced by SIPC, it shall be satisfied in cash or securities (or both) as the trustee determines is most economical to the estate.
 
 #### (4) Effect on claims
 
@@ -20,7 +20,7 @@
 
 #### (b) Payments to customers
 
-After receipt of a written statement of claim pursuant to subsection (a)(2), of this section, the trustee shall promptly discharge, in accordance with the provisions of this section, all obligations of the debtor to a customer relating to, or net equity claims based upon, securities or cash, by the delivery of securities or the making of payments to or for the account of such customer (subject to the provisions of subsection (d) of this section and section 78fff–3(a) of this title) insofar as such obligations are ascertainable from the books and records of the debtor or are otherwise established to the satisfaction of the trustee. For purposes of distributing securities to customers, all securities shall be valued as of the close of business on the filing date. For purposes of this subsection, the court shall, among other things—
+After receipt of a written statement of claim pursuant to subsection (a)(2), of this section, the trustee shall promptly discharge, in accordance with the provisions of this section, all obligations of the debtor to a customer relating to, or net equity claims based upon, securities or cash, by the delivery of securities or the making of payments to or for the account of such customer (subject to the provisions of subsection (d) of this section and section 78fff–3(a) of this title) insofar as such obligations are ascertainable from the books and records of the debtor or are otherwise established to the satisfaction of thetrustee. For purposes of distributing securities to customers, all securities shall be valued as of the close of business on the filing date. For purposes of this subsection, the court shall, among other things—
 
 &emsp;(1) with respect to net equity claims, authorize the trustee to satisfy claims out of moneys made available to the trustee by SIPC notwithstanding the fact that there has not been any showing or determination that there are sufficient funds of the debtor available to satisfy such claims; and
 
@@ -54,13 +54,13 @@ After receipt of a written statement of claim pursuant to subsection (a)(2), of 
 
 #### (d) Purchase of securities
 
-The trustee shall, to the extent that securities can be purchased in a fair and orderly market, purchase securities as necessary for the delivery of securities to customers in satisfaction oftheir claims for net equities based on securities under section 78fff–1(b)(1) of this title and for the transfer of customer accounts under subsection (f) of this section, in order to restore the accounts of such customers as of the filing date. To the extent consistent with subsection (c) of this section, customer property and moneys advanced by SIPC may be used by the trustee to pay for securities so purchased. Moneys advanced by SIPC for each account of a separate customer may not be used to purchase securities to the extent that the aggregate value of such securities on the filing date exceeded the amount permitted to be advanced by SIPC under the provisions of section 78fff–3(a) of this title.
+The trustee shall, to the extent that securities can be purchased in a fair and orderly market, purchase securities as necessary for the delivery of securities to customers in satisfaction of their claims for net equities based on securities under section 78fff–1(b)(1) of this title and for the transfer of customer accounts under subsection (f) of this section, in order to restore the accounts of such customers as of the filing date. To the extent consistent with subsection (c) of this section, customer property and moneys advanced by SIPC may be used by the trustee to pay for securities so purchased. Moneys advanced by SIPC for each account of a separate customer may not be used to purchase securities to the extent that the aggregate value of such securities on the filing date exceeded the amount permitted to be advanced by SIPC under the provisions of section 78fff–3(a) of this title.
 
 #### (e) Closeouts
 
 #### (1) In general
 
-&emsp;Any contract of the debtor for the purchase or sale of securities in the ordinary course of its business with other brokers or dealers which is wholly executory on the filing date shall not be completed by the trustee, except to the extent permitted by SIPC rule. Upon the adoption by SIPC of rules with respect to the closeout of such a contract but prior to the adoption of rules with respect to the completion of such a contract, the other broker or dealer shall close out such contract, without unnecessary delay, in the best available market and pursuant to such SIPC rules. Until such time as SIPC adopts rules with respect to the completion or closeout of such a contract, such a contract shall be closed out in accordance with Commission Rule S6(d)–1 as in effect on May 21, 1978, or any comparable rule of the Commission subsequently adopted, to the extent not inconsistent with the provisions of this subsection.
+&emsp;Any contract of the debtor for the purchase or sale of securities in the ordinary course of its business with other brokers or dealers which is wholly executory on the filing date shall not be completed by the trustee, except to the extent permitted by SIPC rule. Upon the adoption by SIPC of rules with respect to the closeout of such a contract but prior to the adoption of rules with respect to the completion of such a contract, the other broker or dealer shall close out such contract, without unnecessary delay, in the best available market and pursuant to such SIPC rules. Until such time as SIPC adopts rules with respect to the completion or closeout of such a contract, such a contract shall be closed out in accordance with Commission Rule S6(d)–1 as in effect on May 21, 1978, or any comparable rule of theCommission subsequently adopted, to the extent not inconsistent with the provisions of this subsection.
 
 #### (2) Net profit or loss
 
@@ -96,7 +96,7 @@ In order to facilitate the prompt satisfaction of customer claims and the orderl
 
 &emsp;(2) enter into such agreements as the trustee considers appropriate under the circumstances to indemnify any such member of SIPC against shortages of cash or securities in the customer accounts sold or transferred.
 
-> The funds of SIPC may be made available to guarantee or secure any indemnification under paragraph (2). The prior approval of SIPC to such indemnification shall be conditioned, among such other standards as SIPC may determine, upon a determination by SIPC that the probable cost of any such indemnification can reasonably be expected not to exceed the cost toSIPC of proceeding under section 78fff–3(a) of this title and section 78fff–3(b) of this title.
+> The funds of SIPC may be made available to guarantee or secure any indemnification under paragraph (2). The prior approval of SIPC to such indemnification shall be conditioned, among such other standards as SIPC may determine, upon a determination by SIPC that the probable cost of any such indemnification can reasonably be expected not to exceed the cost to SIPC of proceeding under section 78fff–3(a) of this title and section 78fff–3(b) of this title.
 
 (Pub. L. 91–598, §8, as added Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 261; amended Pub. L. 95–598, title III, §308(<i>l</i>), (m), Nov. 6, 1978, 92 Stat. 2675.)
 
@@ -111,8 +111,4 @@ A prior section 8 of Pub. L. 91–598 was renumbered section 12 and is classifie
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78fff, 78fff–1, 78fff–3, 78fff–4, 78<i>lll</i> of this title.
 

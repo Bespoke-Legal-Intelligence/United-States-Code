@@ -28,7 +28,3 @@ In this chapter, the word “regulation” is omitted in restating the phrase �
 
 In this section, before clause (1), the words “comply with” are substituted for “observe” for consistency in the revised title and with other titles of the United States Code. In clause (1), the words “individual and joint” are omitted as surplus. In clause (2), the words “unreasonably discriminating” are substituted for “unduly prefer or prejudice” for consistency in the revised title and to eliminate unnecessary words. See the revision notes following 49:10101.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41110 of this title.
-

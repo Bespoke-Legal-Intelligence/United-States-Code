@@ -40,7 +40,3 @@ In subsecs. (b)(1), (c), “October 1, 1988” was substituted for “the effect
 
 1987—Subsecs. (b)(1), (c). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300aa–23 of this title.
-

@@ -52,7 +52,7 @@ After August 3, 1977, and subject to valid existing rights no surface coal minin
 
 &emsp;&emsp;(A) surface operations and impacts are incident to an underground coal mine; or
 
-&emsp;&emsp;(B) where the Secretary of Agriculture determines, with respect to lands which do not have significant forest cover within those national forests west of the 100th meridian, that surface mining is in compliance with the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\], the Federal Coal Leasing Amendments Act of 1975, the National Forest Management Act of 1976, and the provisions of this chapter: <i>And provided further</i>, That no surface coal mining operations may be permitted within the boundaries of the Custer National Forest;
+&emsp;&emsp;(B) where the Secretary of Agriculture determines, with respect to lands which do not have significant forest cover within thosenational forests west of the 100th meridian, that surface mining is in compliance with the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\], the Federal Coal Leasing Amendments Act of 1975, the National Forest Management Act of 1976, and the provisions of this chapter: <i>And provided further</i>, That no surface coal mining operations may be permitted within the boundaries of the Custer National Forest;
 
 &emsp;(3) which will adversely affect any publicly owned park or places included in the National Register of Historic Sites unless approved jointly by the regulatory authority and the Federal, State, or local agency with jurisdiction over the park or the historic site;
 
@@ -69,10 +69,6 @@ The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (e)(2)(B), 
 The Federal Coal Leasing Amendments Act of 1975, referred to in subsec. (e)(2)(B), is Pub. L. 94–377, Aug. 4, 1976, 90 Stat. 1083, which was redesignated the Federal Coal Leasing Amendments Act of 1976 by Pub. L. 95–554, §8, Oct. 30, 1978, 92 Stat. 2075, and which enacted sections 202a, 208–1, and 208–2 of this title, amended sections 184, 191, 201, 203, 207, 209, and 352 of this title, repealed sections 201–1 and 204 of this title, and enacted provisions set out as notes under sections 181, 184, 201, 201–1, 203, and 204 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 181 of this title and Tables.
 
 The National Forest Management Act of 1976, referred to in subsec. (e)(2)(B), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of Title 16, Conservation, amended sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of Title 16, repealed sections 476, 513, and 514 of Title 16, enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of Title 16. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of Title 16 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1211, 1253, 1254, 1260, 1273 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “therefor.”</i>
 

@@ -30,7 +30,7 @@
 
 (C) The University and NTID shall maintain records of the income generated from its respective Federal endowment fund for the prior fiscal year.
 
-(3)(A) Except as provided in subparagraph (B), the University and NTID, respectively, may, on an annual basis, withdraw or expend not more than 50 percent of the income generated from its Federal endowment fund from the current fiscal year.
+(3)(A) Except as provided in subparagraph (B), the University and NTID, respectively, may, onan annual basis, withdraw or expend not more than 50 percent of the income generated from its Federal endowment fund from the current fiscal year.
 
 (B) The Secretary may permit the University or NTID to withdraw or expend a portion of its Federal endowment fund corpus or more than 50 percent of the income generated from its Federal endowment fund from the prior fiscal year if the institution involved demonstrates, to the Secretary's satisfaction, that such withdrawal or expenditure is necessary because of—
 
@@ -78,7 +78,7 @@ As used in this section:
 
 The provisions of this section shall take effect as if included in this chapter as enacted on August 4, 1986.
 
-(Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103–73, title II, §204(f),Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §919, Oct. 7, 1998, 112 Stat. 1831.)
+(Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103–73, title II, §204(f), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §919, Oct. 7, 1998, 112 Stat. 1831.)
 
 #### Prior Provisions
 
@@ -107,10 +107,6 @@ Subsec. (i). Pub. L. 103–73, §204(f)(3), substituted “this chapter as enact
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4353, 4354 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “hypothecate,”</i>
 

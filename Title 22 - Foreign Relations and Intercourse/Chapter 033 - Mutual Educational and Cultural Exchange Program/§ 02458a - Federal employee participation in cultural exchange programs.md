@@ -32,7 +32,3 @@ The Secretary of State is authorized to promulgate regulations for purposes of t
 
 Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 96–60, set out as a note under section 1471 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 7342.
-

@@ -78,7 +78,3 @@ In this section, the term “eligible entity” means—
 
 (Pub. L. 89–10, title III, §3212, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1708.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6911, 6914 of this title.
-

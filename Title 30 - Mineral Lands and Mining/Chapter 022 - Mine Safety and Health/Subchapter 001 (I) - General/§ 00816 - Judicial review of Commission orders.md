@@ -56,7 +56,3 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 804, 814, 815, 817, 953 of this title.
-

@@ -8,7 +8,3 @@ Not later than 90 days after a covered employee receives notice of the end of th
 
 (Pub. L. 104–1, title IV, §404, Jan. 23, 1995, 109 Stat. 33.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1401, 1403, 1408 of this title.
-

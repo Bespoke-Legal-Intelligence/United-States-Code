@@ -88,7 +88,7 @@
 
 2002—Subsec. (a)(2)(D). Pub. L. 107–224 amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “In carrying out the duties of the Board under this subchapter, the Board may negotiate any contract for an environmental system for, a protection system for, or a repair to, maintenance of, or restoration of the John F. Kennedy Center for the Performing Arts with selected contractors and award the contract on the basis of contractor qualifications as well as price.”
 
-1998—Subsec. (a)(1)(G). Pub. L. 105–226, §2, amended subpar. (G) generally. Prior to amendment, subpar. (G)read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), plan, design, and construct each capital repair, replacement, improvement, rehabilitation, alteration, or modification necessary for the feature;”.
+1998—Subsec. (a)(1)(G). Pub. L. 105–226, §2, amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), plan, design, and construct each capital repair, replacement, improvement, rehabilitation, alteration, or modification necessary for the feature;”.
 
 Subsec. (a)(1)(H)(ii). Pub. L. 105–226, §3, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), all necessary maintenance, repair, and alteration of, and all janitorial, security, and other services and equipment necessary for the operation of, the feature, in a manner consistent with requirements for high quality operations; and”.
 
@@ -129,8 +129,4 @@ Authorization of appropriations.—There is authorized to be appropriated out of
 “(4)
 
 Applicability of title 23, united states code.—Funds authorized by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of activities conducted using such funds shall be 100 percent and such funds shall remain available until expended.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 76k, 76q–1, 76r of this title.
 

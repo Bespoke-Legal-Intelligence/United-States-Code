@@ -52,7 +52,3 @@ There is authorized to be appropriated to the Secretary of the Treasury $1,500,0
 
 1996—Subsec. (a). Pub. L. 104–105 substituted “section” for “sections 2279aa–6(b) and” in pars. (1) and (2)(A).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2279aa–4, 2279aa–6, 2279aa–10 of this title.
-

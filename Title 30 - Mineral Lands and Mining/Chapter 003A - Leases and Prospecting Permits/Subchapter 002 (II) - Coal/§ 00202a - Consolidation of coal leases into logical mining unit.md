@@ -44,7 +44,3 @@ This section, referred to in pars. (5) and (8), is section 2 of act Feb. 25, 192
 
 Section is comprised of subsec. (d) of section 2 of act Feb. 25, 1920, as added by Pub. L. 94–377. Subsecs. (a) and (b) of said section 2 are classified to section 201 of this title. Subsec. (c) of said section 2 is classified to section 202 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 203, 1272 of this title.
-

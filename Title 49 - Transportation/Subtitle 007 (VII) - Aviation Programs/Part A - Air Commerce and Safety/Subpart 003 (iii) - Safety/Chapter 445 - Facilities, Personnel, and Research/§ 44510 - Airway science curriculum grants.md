@@ -46,7 +46,3 @@ In subsection (a), before clause (1), the words “With appropriations made for 
 
 In subsection (b), the proviso is omitted as executed.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 48106 of this title.
-

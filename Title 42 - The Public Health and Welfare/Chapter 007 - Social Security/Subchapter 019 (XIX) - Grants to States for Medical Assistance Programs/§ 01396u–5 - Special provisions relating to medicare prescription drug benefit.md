@@ -104,7 +104,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 &emsp;&emsp;&emsp;&emsp;(II) the gross expenditures under this subchapter for covered outpatient drugs referred to in clause (i).
 
-> &emsp;&emsp;Such factor shall be determined based on information reported by the State in the medicaid financial management reports (form CMS–64) for the 4 quarters of calendar year2003 and such other data as the Secretary may require.
+> &emsp;&emsp;Such factor shall be determined based on information reported by the State in the medicaid financial management reports (form CMS–64) for the 4 quarters of calendar year 2003 and such other data as the Secretary may require.
 
 #### (C) Weighted average
 
@@ -186,7 +186,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 &emsp;&emsp;(A) provides medical assistance with respect to the provision of covered part D drugs (as defined in section 1395w–102(e) of this title) to low-income part D eligible individuals;
 
-&emsp;&emsp;(B) provides assurances that additional amounts received by the State that are attributable to the operation of this subsection shall be used only for such assistance and related administrative expenses and that no more than 10 percent of the amountspecified in paragraph (3)(A) for the State for any fiscal period shall be used for such administrative expenses; and
+&emsp;&emsp;(B) provides assurances that additional amounts received by the State that are attributable to the operation of this subsection shall be used only for such assistance and related administrative expenses and that no more than 10 percent of the amount specified in paragraph (3)(A) for the State for any fiscal period shall be used for such administrative expenses; and
 
 &emsp;&emsp;(C) meets such other criteria as the Secretary may establish.
 
@@ -245,10 +245,6 @@ Subsec. (c)(1)(C). Pub. L. 108–173, §103(d)(1)(B), which directed the amendme
 Subsec. (d). Pub. L. 108–173, §103(c), added subsec. (d).
 
 Subsec. (e). Pub. L. 108–173, §103(d)(1)(C), added subsec. (e).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1308, 1395w–101, 1395w–114, 1395w–116, 1395w–141, 1396a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

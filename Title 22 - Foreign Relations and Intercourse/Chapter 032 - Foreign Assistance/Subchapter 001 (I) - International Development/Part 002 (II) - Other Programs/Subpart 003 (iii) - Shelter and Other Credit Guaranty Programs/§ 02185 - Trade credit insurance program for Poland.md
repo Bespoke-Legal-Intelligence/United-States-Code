@@ -38,7 +38,7 @@ Commitments to guarantee under subsection (a) of this section are authorized onl
 
 #### (g) Limitation on outstanding commitments
 
-The aggregate amount of outstanding commitments under subsection (a) of this section may not exceed $200,000,000 of contingent liability for loan principal during any fiscal year.
+The aggregate amount of outstanding commitments under subsection (a) of this section maynot exceed $200,000,000 of contingent liability for loan principal during any fiscal year.
 
 #### (h) Omitted
 

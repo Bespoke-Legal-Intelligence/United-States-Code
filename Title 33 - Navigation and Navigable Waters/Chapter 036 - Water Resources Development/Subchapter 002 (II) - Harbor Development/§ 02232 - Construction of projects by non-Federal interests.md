@@ -88,7 +88,3 @@ Limitation.—At least 1 project carried out pursuant to this section shall pert
 
 Report.—The Secretary shall transmit to Congress a report regarding the safety benefits and economic efficiencies accrued from entering into agreements with non-Federal interests under this section.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2211, 2233, 2234, 2236 of this title.
-

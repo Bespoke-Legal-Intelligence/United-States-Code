@@ -6,5 +6,5 @@ The Secretary of State, in consultation with the Administrator, shall seek effec
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 92–532, which is classified generally to this chapter, chapter 41\(§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
+This Act, referred to in text, means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
 

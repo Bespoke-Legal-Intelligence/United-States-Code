@@ -18,7 +18,3 @@ Section was not enacted as part of the Tariff Act of 1930 which comprises this c
 
 1975—Subsec. (a). Pub. L. 93–618 substituted “United States International Trade Commission” for “Tariff Commission”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1360, 1366 of this title.
-

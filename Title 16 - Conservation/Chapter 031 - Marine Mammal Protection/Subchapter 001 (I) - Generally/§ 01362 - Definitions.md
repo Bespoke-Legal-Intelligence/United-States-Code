@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 &emsp;(C) a species or population stock is listed as an endangered species or a threatened species under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\].
 
-(2) The terms “conservation” and “management” means the collection and application ofbiological information for the purposes of increasing and maintaining the number of animals within species and populations of marine mammals at their optimum sustainable population. Such terms include the entire scope of activities that constitute a modern scientific resource program, including, but not limited to, research, census, law enforcement, and habitat acquisition and improvement. Also included within these terms, when and where appropriate, is the periodic or total protection of species or populations as well as regulated taking.
+(2) The terms “conservation” and “management” means the collection and application of biological information for the purposes of increasing and maintaining the number of animals within species and populations of marine mammals at their optimum sustainable population. Such terms include the entire scope of activities that constitute a modern scientific resource program, including, but not limited to, research,census, law enforcement, and habitat acquisition and improvement. Also included within these terms, when and where appropriate, is the periodic or total protection of species or populations as well as regulated taking.
 
 (3) The term “district court of the United States” includes the District Court of Guam, District Court of the Virgin Islands, District Court of Puerto Rico, District Court of the Canal Zone, and, in the case of American Samoa and the Trust Territory of the Pacific Islands, the District Court of the United States for the District of Hawaii.
 
@@ -60,7 +60,7 @@ For the purposes of this chapter—
 
 &emsp;(A) for the tuna fishery in the eastern tropical Pacific Ocean, means the Inter-American Tropical Tuna Commission; and
 
-&emsp;(B) in any other case, means an organization consisting of those nations participating in atuna fishery, the purpose of which is the conservation and management of that fishery and the management of issues relating to that fishery.
+&emsp;(B) in any other case, means an organization consisting of those nations participating in a tuna fishery, the purpose of which is the conservation and management of that fishery and the management of issues relating to that fishery.
 
 (18)(A) The term “harassment” means any act of pursuit, torment, or annoyance which—
 
@@ -126,7 +126,7 @@ For the purposes of this chapter—
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C), is Pub. L. 93–205, Dec. 28,1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Amendments
 
@@ -214,7 +214,7 @@ Special Effective Date.—Notwithstanding subsection (a), the Secretary of Comme
 
 > at any time after the date of enactment of this Act \[Aug. 15, 1997\].”
 
-\[The Secretary of Commerce made the certification referred to in section 8(a)(1) of Pub. L. 105–42, set outabove, on July 27, 1998, and the Secretary of State made the certification referred to in section 8(a)(2) of Pub. L. 105–42 on Mar. 3, 1999.\]
+\[The Secretary of Commerce made the certification referred to in section 8(a)(1) of Pub. L. 105–42, set out above, on July 27, 1998, and the Secretary of State made the certification referred to in section 8(a)(2) of Pub. L. 105–42 on Mar. 3, 1999.\]
 
 #### Effective Date of 1996 Amendment
 
@@ -259,8 +259,4 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 #### Territorial Sea and Contiguous Zone of United States
 
 For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1379, 1421f–1, 2404, 2902, 3743 of this title.
 

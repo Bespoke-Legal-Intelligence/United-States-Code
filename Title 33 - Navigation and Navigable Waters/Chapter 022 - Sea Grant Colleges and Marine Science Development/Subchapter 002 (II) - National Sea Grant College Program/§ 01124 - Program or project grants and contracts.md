@@ -42,7 +42,7 @@ Any person may apply to the Secretary for a grant or contract under this section
 
 (4) Any person who receives or utilizes any proceeds of any grant or contract under this section shall keep such records as the Secretary shall by regulation prescribe as being necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition by such recipient of such proceeds, the total cost of the program or project in connection with which such proceeds were used, and the amount, if any, of such cost which was provided through other sources. Such records shall be maintained for 3 years after the completion of such a program or project. The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit and evaluation, to any books, documents, papers, and records of receipts which, in the opinion of the Secretary or of the Comptroller General, may be related or pertinent to such grants and contracts.
 
-(Pub. L. 89–454, title II, §205, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 1001; amended Pub. L. 93–73, §1(8), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1964; Pub. L. 95–428, §3(2), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(3), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §3105(a), Dec. 29, 1987, 101 Stat. 1471; Pub. L. 102–186, §4(b)(1)(B), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 107–299, §4, Nov. 26, 2002, 116 Stat. 2346.)
+(Pub. L. 89–454, title II, §205, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 1001; amendedPub. L. 93–73, §1(8), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1964; Pub. L. 95–428, §3(2), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(3), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §3105(a), Dec. 29, 1987, 101 Stat. 1471; Pub. L. 102–186, §4(b)(1)(B), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 107–299, §4, Nov. 26, 2002, 116 Stat. 2346.)
 
 #### Amendments
 
@@ -54,13 +54,9 @@ Any person may apply to the Secretary for a grant or contract under this section
 
 1980—Subsec. (d)(2). Pub. L. 96–289 authorized application of any payment under a grant or contract to the short-term rental of buildings or facilities for meetings which are in direct support of any sea grant program or project.
 
-1978—Subsec. (a). Pub. L. 95–428 made the percentage limitation inapplicable to grants or contracts paid forwith funds accepted by the Secretary under section 1123(d)(6) of this title.
+1978—Subsec. (a). Pub. L. 95–428 made the percentage limitation inapplicable to grants or contracts paid for with funds accepted by the Secretary under section 1123(d)(6) of this title.
 
 1976—Pub. L. 94–461 substituted provisions covering program or project grants and contracts for provisions authorizing the study of ways to share with other countries the results of marine research useful in the exploration, development, conservation, and management of marine resources.
 
 1973—Pub. L. 93–73 substituted provisions for study of international marine technology transfer for prior provisions respecting advisory functions of National Council on Marine Resources and Development.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1123, 1126, 1128 of this title; title 16 section 4741.
 

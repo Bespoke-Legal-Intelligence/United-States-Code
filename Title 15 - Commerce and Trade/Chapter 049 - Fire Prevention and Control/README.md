@@ -111,7 +111,7 @@
 | (a) | Definition of firefighting personnel. |
 | (b) | Assistance program. |
 | (c) | Audits. |
-| (d) | State defined. |
+| (d) | Definitions. |
 | (e) | Authorization of appropriations. |
 | [2229a.](%C2%A7%2002229a%20-%20Expansion%20of%20pre-September%2011%2C%202001%2C%20fire%20grant%20program.md) | Expansion of pre-September 11, 2001, fire grant program. |
 | (a) | Expanded authority to make grants. |
@@ -134,10 +134,6 @@
 | (f) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 16 section 2106.
 
 
 ---

@@ -24,7 +24,3 @@ Minor changes were made in phraseology.
 
 1954—Act Sept. 3, 1954, inserted conspiracy provisions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2332b, 2339A of this title.
-

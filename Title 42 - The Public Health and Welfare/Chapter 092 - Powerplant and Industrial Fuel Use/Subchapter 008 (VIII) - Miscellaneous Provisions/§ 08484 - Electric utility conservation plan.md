@@ -50,7 +50,3 @@ The National Energy Conservation Policy Act, referred to in subsec. (c)(2)(A), i
 
 Section effective Aug. 13, 1981, see section 1038 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 6240 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8422 of this title.
-

@@ -1,9 +1,5 @@
 Part B—Loan Guarantees and Loans for Modernization and Construction of Hospitals and Other Medical Facilities
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 300s of this title; title 12 section 1717.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 

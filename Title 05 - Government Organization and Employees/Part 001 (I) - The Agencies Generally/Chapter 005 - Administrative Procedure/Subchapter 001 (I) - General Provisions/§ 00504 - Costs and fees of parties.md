@@ -1,6 +1,6 @@
 ### §504. Costs and fees of parties
 
-(a)(1) An agency that conducts an adversary adjudication shall award, to a prevailing party other than the United States, fees and other expenses incurred by that party in connection with that proceeding, unless the adjudicative officer of the agency finds that the position of the agency was substantially justified or that special circumstances make an award unjust. Whether or not the position of the agency was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.
+(a)(1) An agency that conducts an adversary adjudication shall award, to a prevailing party other than the United States, fees and other expenses incurred by that party in connection with that proceeding, unless the adjudicative officer of the agency finds that the position of the agency was substantially justified or that special circumstances make an award unjust. Whether or not the position of the agency wassubstantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.
 
 (2) A party seeking an award of fees and other expenses shall, within thirty days of a final disposition in the adversary adjudication, submit to the agency an application which shows that the party is a prevailing party and is eligible to receive an award under this section, and the amount sought, including an itemized statement from any attorney, agent, or expert witness representing or appearing in behalf of the party stating the actual time expended and the rate at which fees and other expenses were computed. The party shall also allege that the position of the agency was not substantially justified. When the United States appeals the underlying merits of an adversary adjudication, no decision on an application for fees and other expenses in connection with that adversary adjudication shall be made under this section until a final and unreviewable decision is rendered by the court on the appeal or until the underlying merits of the case have been finally determined pursuant to the appeal.
 
@@ -12,7 +12,7 @@
 
 &emsp;(A) “fees and other expenses” includes the reasonable expenses of expert witnesses, the reasonable cost of any study, analysis, engineering report, test, or project which is found by the agency to be necessary for the preparation of the party's case, and reasonable attorney or agent fees (The amount of fees awarded under this section shall be based upon prevailing market rates for the kind and quality of the services furnished, except that (i) no expert witness shall be compensated at a rate in excess of the highest rate of compensation for expert witnesses paid by the agency involved, and (ii) attorney or agent fees shall not be awarded in excess of $125 per hour unless the agency determines by regulation that an increase in the cost of living or a special factor, such as the limited availability of qualified attorneys or agents for the proceedings involved, justifies a higher fee.);
 
-&emsp;(B) “party” means a party, as defined in section 551(3) of this title, who is (i) an individual whose net worth did not exceed $2,000,000 at the time the adversary adjudication was initiated, or (ii) any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the adversary adjudication was initiated, and which had not more than 500 employees at the time the adversary adjudication was initiated; except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of such Code, or a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), maybe a party regardless of the net worth of such organization or cooperative association or for purposes of subsection (a)(4), a small entity as defined in section 601;
+&emsp;(B) “party” means a party, as defined in section 551(3) of this title, who is (i) an individual whose net worth did not exceed $2,000,000 at the time the adversary adjudication was initiated, or (ii) any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the adversary adjudication was initiated, and which had not more than 500 employees at the time the adversary adjudication was initiated; except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of such Code, or a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association or for purposes of subsection (a)(4), a small entity as defined in section 601;
 
 &emsp;(C) “adversary adjudication” means (i) an adjudication under section 554 of this title in which the position of the United States is represented by counsel or otherwise, but excludes an adjudication for the purpose of establishing or fixing a rate or for the purpose of granting or renewing a license, (ii) any appeal of a decision made pursuant to section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605) before an agency board of contract appeals as provided in section 8 of that Act (41 U.S.C. 607), (iii) any hearing conducted under chapter 38 of title 31, and (iv) the Religious Freedom Restoration Act of 1993;
 
@@ -62,7 +62,7 @@ Subsec. (b)(1)(C)(iii). Pub. L. 99–509 added cl. (iii).
 
 1985—Subsec. (a)(1). Pub. L. 99–80, §1(a)(1), (2), struck out “as a party to the proceeding” after “the position of the agency”, and inserted “Whether or not the position of the agency was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.”
 
-Subsec. (a)(2). Pub. L. 99–80, §1(b), inserted “When the United States appeals the underlying merits of an adversary adjudication, no decision on an application for fees and other expenses in connection with that adversary adjudication shall be made under this section until a final and unreviewable decision is rendered by the court on the appeal or until the underlying meritsof the case have been finally determined pursuant to the appeal.”
+Subsec. (a)(2). Pub. L. 99–80, §1(b), inserted “When the United States appeals the underlying merits of an adversary adjudication, no decision on an application for fees and other expenses in connection with that adversary adjudication shall be made under this section until a final and unreviewable decision is rendered by the court on the appeal or until the underlying merits of the case have been finally determined pursuant to the appeal.”
 
 Subsec. (a)(3). Pub. L. 99–80, §1(a)(3), inserted “The decision of the agency on the application for fees and other expenses shall be the final administrative decision under this section.”
 
@@ -76,7 +76,7 @@ Subsec. (c)(2). Pub. L. 99–80, §1(d), amended par. (2) generally. Prior to am
 
 Subsec. (d). Pub. L. 99–80, §1(e), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
-“(1) Fees and other expenses awarded under this section may be paid by any agency over which the party prevails from any funds made available to the agency, by appropriation or otherwise, for such purpose. If not paid by any agency, the fees and other expenses shall be paid in the same manner as the payment of final judgments is made pursuant to section 2414 of title 28, United States Code.
+“(1) Fees and other expenses awarded under this section may be paid by any agency over which the partyprevails from any funds made available to the agency, by appropriation or otherwise, for such purpose. If not paid by any agency, the fees and other expenses shall be paid in the same manner as the payment of final judgments is made pursuant to section 2414 of title 28, United States Code.
 
 “(2) There is authorized to be appropriated to each agency for each of the fiscal years 1982, 1983, and 1984, such sums as may be necessary to pay fees and other expenses awarded under this section in such fiscal years.”
 
@@ -154,7 +154,7 @@ Section 202 of title II of Pub. L. 96–481 provided that:
 
 “(a) The Congress finds that certain individuals, partnerships, corporations, and labor and other organizations may be deterred from seeking review of, or defending against, unreasonable governmental action because of the expense involved in securing the vindication of their rights in civil actions and in administrative proceedings.
 
-“(b) The Congress further finds that because of the greater resources and expertise of the United States the standard for an award of fees against the United States should be different from the standard governing an award against a private litigant, in certain situations.
+“(b) The Congress further finds that because of the greater resources and expertise of the United States the standard for an award of fees against the United States should be different from the standard governingan award against a private litigant, in certain situations.
 
 “(c) It is the purpose of this title \[see Short Title note above\]—
 
@@ -165,8 +165,4 @@ Section 202 of title II of Pub. L. 96–481 provided that:
 #### Limitation on Payments
 
 Section 207 of title II of Pub. L. 96–481, which provided that the payment of judgments, fees and other expenses in the same manner as the payment of final judgments as provided in this Act \[probably should be “this title”, see Short Title note above\] would be effective only to the extent and in such amounts as are provided in advance in appropriation Acts, was repealed by Pub. L. 99–80, §4, Aug. 5, 1985, 99 Stat. 186.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 634b; title 18 section 293; title 20 section 1234; title 25 section 450m–1; title 28 section 2412; title 42 section 3612; title 49 section 40110.
 

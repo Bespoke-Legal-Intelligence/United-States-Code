@@ -4,7 +4,7 @@
 
 &emsp;(1) the necessary expenses of members of a regular or reserve component of the Army or the Air Force traveling on duty in connection with the National Guard;
 
-&emsp;(2) the necessary expenses of members of the Regular Army or the Regular Air Force on duty in the National Guard Bureau or with the Army Staff or the Air Staff, traveling to and from annual conventions of the Enlisted Association of the National Guard of the United States, the National Guard Association of the United States, or the Adjutants General Association;
+&emsp;(2) the necessary expenses of members of the Regular Army or the Regular Air Force on duty in the National Guard Bureau or with the Army Staff or the Air Staff, traveling to and from annual conventions of the Enlisted Association of the National Guard of the United States, the National Guard Association of theUnited States, or the Adjutants General Association;
 
 &emsp;(3) the transportation of supplies furnished to the National Guard as permanent equipment;
 
@@ -109,8 +109,4 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub.
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 18502.
 

@@ -34,7 +34,3 @@ Not later than January 31 of each year (beginning in 1991), the President shall 
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5473 of this title.
-

@@ -42,7 +42,3 @@ In subsec. (a)(2), “Section 3727(a)–(e)(1) of title 31” substituted for �
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1622 of this title.
-

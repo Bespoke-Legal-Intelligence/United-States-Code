@@ -38,7 +38,3 @@ The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (a), i
 
 The Communications Assistance for Law Enforcement Act, referred to in subsecs. (a) and (b), is title I of Pub. L. 103–414, Oct. 25, 1994, 108 Stat. 4279, which is classified generally to subchapter I (§1001 et seq.) of chapter 9 of Title 47, Telegraphs, Telephones, and Radiotelegraphs. Sections 102 and 108 of the Act are classified to sections 1001 and 1007, respectively, of Title 47. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 47 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2518, 3124 of this title; title 47 section 1007.
-

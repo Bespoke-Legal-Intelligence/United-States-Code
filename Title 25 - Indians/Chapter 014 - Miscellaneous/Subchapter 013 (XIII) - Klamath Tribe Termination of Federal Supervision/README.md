@@ -1,9 +1,5 @@
 ### SUBCHAPTER XIII—KLAMATH TRIBE: TERMINATION OF FEDERAL SUPERVISION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 566, 861a of this title.
-
 
 ---
 

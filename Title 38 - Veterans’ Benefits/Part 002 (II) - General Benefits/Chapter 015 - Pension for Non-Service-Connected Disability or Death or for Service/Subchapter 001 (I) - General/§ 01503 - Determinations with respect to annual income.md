@@ -28,17 +28,19 @@
 
 &emsp;(8) amounts equal to amounts paid by a veteran, veterans’ spouse, or surviving spouse or by or on behalf of a veteran's child for unreimbursed medical expenses, to the extent that such amounts exceed 5 percent of the maximum annual rate of pension (including any amount of increased pension payable on account of family members but not including any amount of pension payable because a person is in need of regular aid and attendance or because a person is permanently housebound) payable to such veteran, surviving spouse, or child;
 
-&emsp;(9) in the case of a veteran or surviving spouse pursuing a course of education or vocational rehabilitation or training, amounts equal to amounts paid by such veteran or surviving spouse for such course of education or vocational rehabilitation or training, including (A) amounts paid for tuition, fees, books, and materials, and (B) in the case of such a veteran or surviving spouse in need of regular aid and attendance, unreimbursed amounts paid for unusual transportation expenses in connection with the pursuit of such course of education or vocational rehabilitation or training, to the extent that such amounts exceed the reasonable expenses which would have been incurred by a nondisabled person using an appropriate means of transportation (public transportation, if reasonably available); and
+&emsp;(9) in the case of a veteran or surviving spouse pursuing a course of education or vocational rehabilitation or training, amounts equal to amounts paid by such veteran or surviving spouse for such course of education or vocational rehabilitation or training, including (A) amounts paid for tuition, fees, books, and materials, and (B) in the case of such a veteran or surviving spouse in need of regular aid and attendance, unreimbursed amounts paid for unusual transportation expenses in connection with the pursuit of such course of education or vocational rehabilitation or training, to the extent that such amounts exceed the reasonable expenses which would have been incurred by a nondisabled person using an appropriate means of transportation (public transportation, if reasonably available);
 
 &emsp;(10) in the case of a child, any current-work income received during the year, to the extent that the total amount of such income does not exceed an amount equal to the sum of—
 
-&emsp;&emsp;(A) the lowest amount of gross income for which an income tax return is required under section 6012(a) of the Internal Revenue Code of 1986, to be filed by an individual who is not married (as determined under section 7703 of such Code), is not a surviving spouse (as defined in section 2(a) of such Code), and is not a head of household (as defined in section 2(b) of such Code); and
+&emsp;&emsp;(A) the lowest amount of gross income for which an income tax return is required under section 6012(a) of the Internal Revenue Code of 1986, to be filed by an individual who is not married (as determined under section7703 of such Code), is not a surviving spouse (as defined in section 2(a) of such Code), and is not a head of household (as defined in section 2(b) of such Code); and
 
-&emsp;&emsp;(B) if the child is pursuing a course of postsecondary education or vocational rehabilitation or training, the amount paid by such child for such course of education or vocational rehabilitation or training, including the amount paid for tuition, fees, books, and materials.
+&emsp;&emsp;(B) if the child is pursuing a course of postsecondary education or vocational rehabilitation or training, the amount paid by such child for such course of education or vocational rehabilitation or training, including the amount paid for tuition, fees, books, and materials; and
+
+&emsp;(11) lump-sum proceeds of any life insurance policy on a veteran, for purposes of pension under subchapter III of this chapter.
 
 (b) Where a fraction of a dollar is involved, annual income shall be fixed at the next lower dollar.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §503; Pub. L. 86–211, §2(a), Aug. 29, 1959, 73 Stat. 432; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–664, §1, Oct. 13, 1964, 78 Stat. 1094; Pub. L. 90–77, title I, §103, Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–588, §7, Dec. 24, 1970, 84 Stat. 1584; Pub. L. 92–198, §2, Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–425, §6(2), Sept. 21, 1972, 86 Stat. 713; Pub. L. 94–169, title I, §§101(2)(A), 106(3)–(8), Dec. 23, 1975, 89 Stat. 1013, 1017; Pub. L. 95–588, title I, §102, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 97–295, §4(13), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(b), Nov. 18, 1988, 102 Stat. 4130; Pub. L. 102–54, §14(b)(5), June 13, 1991, 105 Stat. 283; renumbered §1503 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §503; Pub. L. 86–211, §2(a), Aug. 29, 1959, 73 Stat. 432; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–664, §1, Oct. 13, 1964, 78 Stat. 1094; Pub. L. 90–77, title I, §103, Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–588, §7, Dec. 24, 1970, 84 Stat. 1584; Pub. L. 92–198, §2, Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–425, §6(2), Sept. 21, 1972, 86 Stat. 713; Pub. L. 94–169, title I, §§101(2)(A), 106(3)–(8), Dec. 23, 1975, 89 Stat. 1013, 1017; Pub. L. 95–588, title I, §102, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 97–295, §4(13), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(b), Nov. 18, 1988, 102 Stat. 4130; Pub. L. 102–54, §14(b)(5), June 13, 1991, 105 Stat. 283; renumbered §1503 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–454, title III, §303, Dec. 10, 2004, 118 Stat. 3611.)
 
 #### References in Text
 
@@ -53,6 +55,8 @@ Another prior section 1503, added Pub. L. 89–138, §1, Aug. 26, 1965, 79 Stat.
 Another prior section 1503, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171, was renumbered 1511 by Pub. L. 89–138, §2(4), Aug. 26, 1965, 79 Stat. 578.
 
 #### Amendments
+
+2004—Subsec. (a)(11). Pub. L. 108–454 added par. (11).
 
 1991—Pub. L. 102–83, §5(a), renumbered section 503 of this title as this section.
 
@@ -116,7 +120,7 @@ Pars. (14) to (17). Pub. L. 91–588, §7(3), added pars. (14) to (17).
 
 Par. (9). Pub. L. 90–77, §103(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
-1964—Par. (6). Pub. L. 88–664, §1(a), inserted “10 per centum of the amount of” before “payments” and struck out “equal to his contributions thereto” after “programs”.
+1964—Par. (6). Pub. L. 88–664, §1(a), inserted “10 per centum of the amount of” before “payments” andstruck out “equal to his contributions thereto” after “programs”.
 
 Pars. (9) to (13). Pub. L. 88–664, §1(b), added pars. (9) to (13).
 
@@ -150,7 +154,7 @@ Section 11 of Pub. L. 88–664 provided that:
 
 “(a) Except as otherwise provided herein, this Act \[amending this section and sections 502, 506, 521, 541, 542, 612, and 3104 \[now 1502, 1506, 1521, 1541, 1542, 1712, and 5304\] of this title and enacting provisions set out as a note under section 1521 of this title\] shall take effect on January 1, 1965.
 
-“(b) The amendment to paragraph (6) of section 503 \[now 1503\], title 38, United States Code, shall not apply to any individual receiving pension on December 31,1964, under chapter 15 of said title, or subsequently determined entitled to such pension for said day, until his contributions have been recouped under the provision of that paragraph in effect on December 31, 1964.”
+“(b) The amendment to paragraph (6) of section 503 \[now 1503\], title 38, United States Code, shall not apply to any individual receiving pension on December 31, 1964, under chapter 15 of said title, or subsequently determined entitled to such pension for said day, until his contributions have been recouped under the provision of that paragraph in effect on December 31, 1964.”
 
 #### Effective Date of 1961 Amendment
 
@@ -159,8 +163,4 @@ Amendment by Pub. L. 87–268 effective Oct. 1, 1961, see section 3 of Pub. L. 8
 #### Effective Date of 1959 Amendment
 
 Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 86–211, set out as an Effective Date note under section 1506 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 111, 1710, 1710B, 1722A of this title.
 

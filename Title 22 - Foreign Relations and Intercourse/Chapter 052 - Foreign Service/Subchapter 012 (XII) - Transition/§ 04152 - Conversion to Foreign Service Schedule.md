@@ -22,7 +22,3 @@ Sections 412, 414 and 415 of the Foreign Service Act of 1946, referred to in sub
 
 In subsecs. (a) and (b), “February 15, 1981” substituted for “the effective date of this Act” pursuant to section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4151, 4154 of this title.
-

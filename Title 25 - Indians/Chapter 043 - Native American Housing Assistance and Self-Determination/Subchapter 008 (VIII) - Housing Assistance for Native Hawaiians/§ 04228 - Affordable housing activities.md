@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) to ensure better access to private mortgage markets and to promote self-sufficiency of low-income Native Hawaiian families;
 
-&emsp;&emsp;(C) to coordinate activities to provide housing for low-income Native Hawaiianfamilies with Federal, State, and local activities to further economic and community development;
+&emsp;&emsp;(C) to coordinate activities to provide housing for low-income Native Hawaiian families with Federal, State, and local activities to further economic and community development;
 
 &emsp;&emsp;(D) to plan for and integrate infrastructure resources on the Hawaiian Home Lands with housing development; and
 
@@ -58,7 +58,7 @@
 
 #### (ii) Application
 
-&emsp;&emsp;&emsp;In any case in which a housing plan provides for preference described in clause (i), the Director shall ensure that housing activities that are assisted with grant amounts under this subchapter are subject to that preference.
+&emsp;&emsp;&emsp;In any case in which a housing plan provides for preference described in clause (i),the Director shall ensure that housing activities that are assisted with grant amounts under this subchapter are subject to that preference.
 
 #### (E) Use of nonprofit organizations
 
@@ -69,10 +69,6 @@
 #### Codification
 
 Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted identical sections 809 of Pub. L. 104–330. This section is based on the text of section 809 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4232 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

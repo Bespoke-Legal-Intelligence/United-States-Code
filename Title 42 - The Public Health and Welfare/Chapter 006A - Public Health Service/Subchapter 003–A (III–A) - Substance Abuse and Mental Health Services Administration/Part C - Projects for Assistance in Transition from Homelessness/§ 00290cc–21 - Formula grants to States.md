@@ -16,7 +16,7 @@ Pub. L. 102–321, §162(1), substituted “Center for Mental Health Services”
 
 1990—Pub. L. 101–645 amended section generally, substituting provisions relating to formula grants to States for provisions relating to establishment of block grant program for services to homeless individuals who are chronically mentally ill.
 
-1989—Subsec. (a). Pub. L. 101–93 directed that subsec. (a) of this section as similarly amended by title VIII of Pub. L. 100–607 and title VI of Pub. L. 100–628 be amended to read as if the amendments made by title VI of Pub. L. 100–628 had not been enacted. See 1988 Amendment note below.
+1989—Subsec. (a). Pub. L. 101–93 directed that subsec. (a) of this section as similarly amended by title VIII ofPub. L. 100–607 and title VI of Pub. L. 100–628 be amended to read as if the amendments made by title VI of Pub. L. 100–628 had not been enacted. See 1988 Amendment note below.
 
 1988—Subsec. (a). Pub. L. 100–607 and Pub. L. 100–628 made identical amendments, amending first sentence generally. Prior to amendment, first sentence read as follows: “The Secretary shall for fiscal years 1987 and 1988 allot to each State an amount determined in accordance with sections 290cc–28 and 290cc–29 of this title.”
 
@@ -29,8 +29,4 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 Amendment by Pub. L. 100–628 effective Nov. 7, 1988, see section 631 of Pub. L. 100–628, set out as a note under section 254e of this title.
 
 Amendment by Pub. L. 100–607 effective Nov. 4, 1988, see section 831 of Pub. L. 100–607, set out as a note under section 254e of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 290cc–22, 290cc–23, 290cc–24, 290cc–25, 290cc–26, 290cc–27, 290cc–28, 290cc–29, 290cc–31, 290cc–32, 290cc–33, 290cc–35 of this title.
 

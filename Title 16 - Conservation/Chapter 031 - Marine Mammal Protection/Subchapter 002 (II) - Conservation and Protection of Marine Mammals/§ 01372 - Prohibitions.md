@@ -86,7 +86,7 @@ Pub. L. 103–238, §13(c), in introductory provisions inserted reference to sec
 
 Subsec. (a)(2)(B). Pub. L. 103–238, §5(a)(1), substituted “to take or import” for “for any purpose in any way connected with the taking or importation of”.
 
-Subsec. (a)(4). Pub. L. 103–238, §5(a)(2), substituted “export, or offer to purchase, sell, or export” for “oroffer to purchase or sell” and “product—” for “product; and” and added subpars. (A) and (B).
+Subsec. (a)(4). Pub. L. 103–238, §5(a)(2), substituted “export, or offer to purchase, sell, or export” for “or offer to purchase or sell” and “product—” for “product; and” and added subpars. (A) and (B).
 
 1992—Subsec. (a). Pub. L. 102–587 inserted “or subchapter V of this chapter” in introductory provisions.
 
@@ -96,7 +96,7 @@ Subsec. (b). Pub. L. 100–711, §5(e)(2), substituted “research, or for enhan
 
 Pub. L. 100–711, §5(b), inserted sentence at end authorizing Secretary to issue permit for importation of marine mammal.
 
-1981—Subsec. (a). Pub. L. 97–58, §3(a)(1), inserted reference to section 1379 of this title in the enumeration of sections preceding par. (1), redesignated par. (4) as (5), and revised as pars. (3) and (4) the provisions of former par. (3) amending those provisions so as to make it illegal for any person to possess a marine mammal, or any product from that mammal, and for any person to transport, purchase, sell, or offer to purchase or sell any marine mammal or marine mammal product.
+1981—Subsec. (a). Pub. L. 97–58, §3(a)(1), inserted reference to section 1379 of this title in the enumerationof sections preceding par. (1), redesignated par. (4) as (5), and revised as pars. (3) and (4) the provisions of former par. (3) amending those provisions so as to make it illegal for any person to possess a marine mammal, or any product from that mammal, and for any person to transport, purchase, sell, or offer to purchase or sell any marine mammal or marine mammal product.
 
 Subsec. (b)(3). Pub. L. 97–58, §3(a)(2), struck out “or which has been listed as an endangered species or threatened species pursuant to the Endangered Species Act of 1973” after “designated as a depleted species or stock”.
 
@@ -109,8 +109,4 @@ Subsec. (d)(1). Pub. L. 97–58, §3(b)(3), struck out “or endangered” after
 #### Effective Date of 1973 Amendment
 
 Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L. 93–205, set out as an Effective Date note under section 1531 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1371, 1374, 1536 of this title.
 

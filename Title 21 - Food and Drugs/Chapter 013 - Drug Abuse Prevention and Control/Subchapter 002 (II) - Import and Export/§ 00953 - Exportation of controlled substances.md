@@ -66,7 +66,3 @@ Schedules I, II, III, IV and V, referred to in text, are set out in section 812(
 
 Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 954, 956, 960 of this title; title 18 section 5032; title 19 section 1583; title 48 section 1972.
-

@@ -28,7 +28,3 @@ To the extent that an entity is engaged in activities of a financial institution
 
 (Aug. 14, 1935, ch. 531, title XI, §1179, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2030.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 1681b.
-

@@ -26,17 +26,17 @@ The term of office of each member of the Board shall be six years, except that t
 
 #### (d) Management of Administration vested in Board; adoption of rules; quorum; report to President and Congress
 
-The management of the Administration shall be vested in the Board. The Board shall adopt such rules as it sees fit for the transaction of its business and shall keep permanent and complete records and minutes of its acts and proceedings. A majority of the Board shall constitute a quorum. Not later than April 1 of each calendar year, and at such other times as the Congressshall determine, the Board shall make a report to the President and to the Congress. Such a report shall summarize the operations of the Administration and set forth such information as is necessary for the Congress to review the financial program approved by the Board.
+The management of the Administration shall be vested in the Board. The Board shall adoptsuch rules as it sees fit for the transaction of its business and shall keep permanent and complete records and minutes of its acts and proceedings. A majority of the Board shall constitute a quorum. Not later than April 1 of each calendar year, and at such other times as the Congress shall determine, the Board shall make a report to the President and to the Congress. Such a report shall summarize the operations of the Administration and set forth such information as is necessary for the Congress to review the financial program approved by the Board.
 
 #### (e) Functions of Chairman
 
 The Chairman of the Board shall be the spokesman for the Board and shall represent the Board and the National Credit Union Administration in its official relations with other branches of the Government. The Chairman shall determine each Board member's area of responsibility and shall review such assignments biennially. It shall be the Chairman's responsibility to direct the implementation of the adopted policies and regulations of the Board.
 
-#### (f) Audit by General Accounting Office
+#### (f) Audit by Government Accountability Office
 
-The financial transactions of the Administration shall be subject to audit by the General Accounting Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where the accounts of the Administration are kept.
+The financial transactions of the Administration shall be subject to audit by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where the accounts of the Administration are kept.
 
-(June 26, 1934, ch. 750, title I, §102, formerly §3, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; amended Pub. L. 91–206, §3, Mar. 10, 1970, 84 Stat. 49; renumbered title I, §102, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, §501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 97–320, title V, §502, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 105–219, title II, §204, Aug. 7, 1998, 112 Stat. 922.)
+(June 26, 1934, ch. 750, title I, §102, formerly §3, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; amended Pub. L. 91–206, §3, Mar. 10, 1970, 84 Stat. 49; renumbered title I, §102, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, §501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 97–320, title V, §502, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 105–219, title II, §204, Aug. 7, 1998, 112 Stat. 922; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Prior Provisions
 
@@ -51,6 +51,8 @@ Section 4 of act June 29, 1948 transferred all funds allocated, specifically or 
 Section 5 of act June 29, 1948 provided that the Act was to become effective on the thirtieth day following the date of enactment.
 
 #### Amendments
+
+2004—Subsec. (f). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1998—Subsec. (b). Pub. L. 105–219 inserted heading, designated existing provisions as par. (1), and added par. (2).
 
@@ -68,7 +70,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 Section 6 of Pub. L. 91–206 provided that:
 
-“(a) All functions, property, records, and personnel of the Bureau of Federal Credit Unions are transferred to the National Credit Union Administration created by this Act \[which generally amended this chapter\].
+“(a) All functions, property, records, and personnel of the Bureau of Federal Credit Unions are transferred tothe National Credit Union Administration created by this Act \[which generally amended this chapter\].
 
 “(b) The Director of the Bureau of Federal Credit Unions in office on the date of enactment of this Act \[Mar. 10, 1970\] shall serve as acting Administrator of the National Credit Union Administration pending the appointment of an Administrator in accordance with section 3 of the Federal Credit Union Act as amended by this Act \[this section\].”
 
@@ -150,15 +152,11 @@ In general.—The Secretary, in consultation with the Board, the Corporation, th
 
 Report.—Not later than 12 months after the date of enactment of this Act \[Sept. 30, 1996\], the Secretary shall submit to the appropriate committees of the Congress, a report that includes the results of the study and evaluation conducted under subsection (b), together with any recommendations that the Secretary considers to be appropriate.”
 
-#### Study of Credit Union System by General Accounting Office
+#### Study of Credit Union System by GAO
 
 Pub. L. 101–73, title XII, §1201, Aug. 9, 1989, 103 Stat. 519, directed Comptroller General of the United States to conduct a comprehensive study of Nation's credit union system and before the close of the 18-month period beginning on Aug. 9, 1989, to submit to Committee on Banking, Finance and Urban Affairs of House of Representatives and Committee on Banking, Housing, and Urban Affairs of Senate a final report containing a detailed statement of findings and conclusions, including recommendations for such administrative and legislative action as Comptroller General deemed advisable.
 
 #### Federally Chartered Central Credit Unions; Report to Congress
 
 Section 3 of Pub. L. 86–354 directed Director of Bureau of Federal Credit Unions to make a study of desirability of providing for federally chartered central credit unions and to submit to Secretary of Health, Education, and Welfare, for transmission to Congress on or before Apr. 15, 1960, a report of results thereof and such recommendations for legislation thereon as Director deemed appropriate.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1795i of this title.
 

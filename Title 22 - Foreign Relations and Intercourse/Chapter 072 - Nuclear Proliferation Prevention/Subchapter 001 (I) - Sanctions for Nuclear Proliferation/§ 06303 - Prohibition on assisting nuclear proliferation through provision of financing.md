@@ -16,7 +16,7 @@ To the extent that the United States has jurisdiction to prohibit such activity 
 
 #### (c) Presidential determination and order with respect to United States and foreign persons
 
-If the President determines,,<sup>1</sup> that a United States person or a foreign person has engaged ina prohibited activity (without regard to whether subsection (b) of this section applies), the President shall, by order, impose the sanctions described in subsection (d) of this section on such person.
+If the President determines,,<sup>1</sup> that a United States person or a foreign person has engaged in a prohibited activity (without regard to whether subsection (b) of this section applies), the President shall, by order, impose the sanctions described in subsection (d) of this section on such person.
 
 #### (d) Sanctions
 
@@ -123,10 +123,6 @@ For the date this subchapter takes effect, referred to in subsec. (j), as 60 day
 Subsec. (e). Pub. L. 104–164, §157(b)(2), (3), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “Any determination of the President under subsection (c) of this section shall be subject to judicial review in accordance with chapter 7 of part I of title 5.”
 
 Subsecs. (f) to (k). Pub. L. 104–164, §157(b)(3), redesignated subsecs. (g) to (k) as (f) to (j), respectively. Former subsec. (f) redesignated (e).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3281 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

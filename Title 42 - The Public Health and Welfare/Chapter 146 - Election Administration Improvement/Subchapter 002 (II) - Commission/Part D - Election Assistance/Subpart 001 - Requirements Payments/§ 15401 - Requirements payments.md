@@ -46,7 +46,3 @@ A State may not use any portion of a requirements payment—
 
 (Pub. L. 107–252, title II, §251, Oct. 29, 2002, 116 Stat. 1692.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15403, 15404, 15406, 15408, 15542 of this title.
-

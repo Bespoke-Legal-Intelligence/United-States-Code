@@ -54,7 +54,3 @@ The Commissioner may approve a State plan in which the chief executive officer o
 
 (Pub. L. 101–501, title IX, §930, Nov. 3, 1990, 104 Stat. 1270.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12332, 12338 of this title.
-

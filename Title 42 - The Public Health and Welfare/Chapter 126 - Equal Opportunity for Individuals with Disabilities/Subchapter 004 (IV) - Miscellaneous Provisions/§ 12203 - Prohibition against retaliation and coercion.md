@@ -14,7 +14,3 @@ The remedies and procedures available under sections 12117, 12133, and 12188 of 
 
 (Pub. L. 101–336, title V, §503, July 26, 1990, 104 Stat. 370.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 29 sections 791, 793, 794.
-

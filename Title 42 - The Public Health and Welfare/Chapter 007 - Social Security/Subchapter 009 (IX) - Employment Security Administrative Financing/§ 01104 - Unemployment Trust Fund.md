@@ -48,7 +48,7 @@ There is hereby established in the Unemployment Trust Fund a Federal unemploymen
 
 Subsec. (b). Pub. L. 86–778 substituted “Second Liberty Bond Act, as amended” and “section 1323” for “section 752 of title 31” and “section 1322(c)”, respectively, and inserted “made” after “Advances”.
 
-Subsec. (e). Pub. L. 86–778 provided for the maintenance of a separate book account for the employment security administration account and substituted “balance of advances made to the State under section 1321 of this title” for “aggregate of the outstanding advances under section 1321 of this title from the Federal unemployment account” in par. (1) and “balance of advances made under section 1323 of this title to the account” for “aggregate of the outstanding advancesfrom the Treasury to the account pursuant to section 1322(c) of this title”.
+Subsec. (e). Pub. L. 86–778 provided for the maintenance of a separate book account for the employment security administration account and substituted “balance of advances made to the State under section 1321 of this title” for “aggregate of the outstanding advances under section 1321 of this title from the Federal unemployment account” in par. (1) and “balance of advances made under section 1323 of this title to the account” for “aggregate of the outstanding advances from the Treasury to the account pursuant to section 1322(c) of this title”.
 
 Subsec. (g). Pub. L. 86–778 redesignated former subsec. (h) as (g).
 
@@ -109,8 +109,4 @@ Section 4 of act Aug. 6, 1947, provided: “Section 603 of the War Mobilization 
 #### Payments to States
 
 Act Aug. 24, 1937, ch. 755, 50 Stat. 754, provided for payments to States of 90 per cent of proceeds of the unemployment tax collected prior to Jan. 31, 1938, where State had enacted an approved unemployment-compensation law during 1937.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 503, 1105, 1109, 1322 of this title; title 2 section 906; title 5 section 8509; title 26 sections 3304, 3306; title 45 sections 360, 361, 363a, 366a.
 

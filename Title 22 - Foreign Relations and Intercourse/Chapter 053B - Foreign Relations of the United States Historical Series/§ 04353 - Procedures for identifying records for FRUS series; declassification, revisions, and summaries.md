@@ -2,7 +2,7 @@
 
 #### (a) Development of procedures
 
-Not later than 180 days after October 28, 1991, each department, agency, or other entity of the United States Government engaged in foreign policy formulation, execution, or support shall develop procedures for its historical office (or a designated individual in the event that there is no historical office)—
+Not later than 180 days after October 28, 1991, each department, agency, or other entity of theUnited States Government engaged in foreign policy formulation, execution, or support shall develop procedures for its historical office (or a designated individual in the event that there is no historical office)—
 
 &emsp;(1) to coordinate with the State Department's Office of the Historian in selecting records for possible inclusion in the FRUS series;
 
@@ -20,7 +20,7 @@ Not later than 180 days after October 28, 1991, each department, agency, or othe
 
 (4) If the Advisory Committee determines that the meaning of the records proposed for inclusion in a volume of the FRUS series would be so altered or changed by deletions made under paragraph (1), or if the Advisory Committee determines as a result of inspection of other documents under subsection (a)(3) of this section that the selection of documents could be misleading or lead to an inaccurate or incomplete historical record, then the Advisory Committee shall so advise the Secretary of State and submit recommendations to resolve the issue.
 
-(5)(A) The Advisory Committee shall have full and complete access to the original text of any record in which deletions have been made. In the event that the head of any originating agencyconsiders it necessary to deny access by the Advisory Committee to the original text of any record, that agency head shall promptly notify the Advisory Committee in writing, describing the nature of the record in question and the justification for withholding that record.
+(5)(A) The Advisory Committee shall have full and complete access to the original text of any record in which deletions have been made. In the event that the head of any originating agency considers it necessary to deny access by the Advisory Committee to the original text of any record, that agency head shall promptly notify the Advisory Committee in writing, describing the nature of the record in question and the justification for withholding that record.
 
 (B) The Historian shall provide the Advisory Committee with a complete list of the records described in subparagraph (A).
 
@@ -31,8 +31,4 @@ Not later than 180 days after October 28, 1991, each department, agency, or othe
 #### Authority of Secretary of State
 
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4352, 4355 of this title.
 

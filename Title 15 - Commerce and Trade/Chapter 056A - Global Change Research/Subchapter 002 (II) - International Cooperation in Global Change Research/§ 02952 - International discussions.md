@@ -2,7 +2,7 @@
 
 #### (a) Global change research
 
-The President should direct the Secretary of State, in cooperation with the Committee, toinitiate discussions with other nations leading toward international protocols and other agreements to coordinate global change research activities. Such discussions should include the following issues:
+The President should direct the Secretary of State, in cooperation with the Committee, to initiate discussions with other nations leading toward international protocols and other agreements to coordinate global change research activities. Such discussions should include the following issues:
 
 &emsp;(1) Allocation of costs in global change research programs, especially with respect to major capital projects.
 

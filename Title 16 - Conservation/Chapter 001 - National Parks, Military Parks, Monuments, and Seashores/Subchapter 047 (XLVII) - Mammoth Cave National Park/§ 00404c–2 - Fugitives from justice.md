@@ -12,7 +12,3 @@ All fugitives from justice taking refuge in the park shall be subject to the sam
 
 Section 38 of act June 25, 1948, provided that the amendment made by that act is effective Sept. 1, 1948.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 404c–10 of this title.
-

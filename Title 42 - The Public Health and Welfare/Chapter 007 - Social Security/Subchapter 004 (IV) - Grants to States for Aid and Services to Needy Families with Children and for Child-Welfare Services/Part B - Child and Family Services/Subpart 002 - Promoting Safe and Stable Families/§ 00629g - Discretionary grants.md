@@ -6,7 +6,7 @@ In addition to any amount appropriated pursuant to section 629f of this title, t
 
 #### (b) Reservation of certain amounts
 
-From the amount (if any) appropriated pursuant to subsection (a) of this section for a fiscal year, the Secretary shall reserve amounts as follows:
+From the amount (if any) appropriated pursuant to subsection (a) of this section for a fiscalyear, the Secretary shall reserve amounts as follows:
 
 #### (1) Evaluation, research, training, and technical assistance
 
@@ -55,10 +55,6 @@ A prior section 437 of act Aug. 14, 1935, was classified to section 637 of this 
 #### Effective Date
 
 Section effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L. 107–133, set out as an Effective Date of 2002 Amendment note under section 629 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 629h of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

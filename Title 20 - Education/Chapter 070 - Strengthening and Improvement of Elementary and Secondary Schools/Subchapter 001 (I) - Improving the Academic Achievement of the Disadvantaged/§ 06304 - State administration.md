@@ -18,7 +18,3 @@ If the sum of the amounts appropriated for parts A, C, and D of this subchapter 
 
 A prior section 1004 of Pub. L. 89–10 was renumbered section 9004 and was classified to section 3384 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6317, 7315a of this title.
-

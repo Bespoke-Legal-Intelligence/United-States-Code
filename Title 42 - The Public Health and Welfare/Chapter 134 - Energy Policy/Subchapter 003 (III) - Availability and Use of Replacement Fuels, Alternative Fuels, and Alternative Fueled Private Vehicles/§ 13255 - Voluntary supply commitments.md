@@ -12,7 +12,3 @@ The Secretary shall, by January 1, 1994, and thereafter, undertake to obtain vol
 
 (Pub. L. 102–486, title V, §505, Oct. 24, 1992, 106 Stat. 2890.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13257 of this title.
-

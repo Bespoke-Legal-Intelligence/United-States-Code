@@ -22,7 +22,3 @@ On the date of transfer of jurisdiction of the reserve, the Secretary of the Nav
 
 (Pub. L. 94–258, title I, §103, Apr. 5, 1976, 90 Stat. 303.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6504 of this title.
-

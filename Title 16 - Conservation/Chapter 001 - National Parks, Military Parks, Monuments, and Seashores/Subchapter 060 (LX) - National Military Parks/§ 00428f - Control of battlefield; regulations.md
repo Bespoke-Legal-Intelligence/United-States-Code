@@ -12,7 +12,3 @@ The said Fort Donelson National Battlefield shall be under the control of the Se
 
 Transfer of administrative functions of park, see note set out under section 428 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 428e, 428k of this title.
-

@@ -10,7 +10,7 @@
 
 &emsp;The sanction shall be imposed pursuant to paragraph (1) on—
 
-&emsp;&emsp;(A) the foreign person or United States person with respect to which the Presidentmakes the determination described in that paragraph;
+&emsp;&emsp;(A) the foreign person or United States person with respect to which the President makes the determination described in that paragraph;
 
 &emsp;&emsp;(B) any successor entity to that foreign person or United States person;
 
@@ -34,7 +34,7 @@
 
 #### (2) Actions by government of jurisdiction
 
-&emsp;In order to pursue such consultations with that government, the President may delay imposition of the sanction pursuant to this section for up to 90 days. Following these consultations, the President shall impose the sanction unless the President determines and certifies in writing to the Congress that that government has taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1) of this section. The President may delay the imposition of the sanction for up to an additional 90 days if the President determines and certifies in writing to the Congress that that government is in the process of taking the actions described in the preceding sentence.
+&emsp;In order to pursue such consultations with that government, the President may delay imposition of the sanction pursuant to this section for up to 90 days. Following these consultations, the President shall impose the sanction unless the President determines and certifies in writing to the Congress that thatgovernment has taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1) of this section. The President may delay the imposition of the sanction for up to an additional 90 days if the President determines and certifies in writing to the Congress that that government is in the process of taking the actions described in the preceding sentence.
 
 #### (3) Report to Congress
 
@@ -102,6 +102,8 @@ For the effective date of this subchapter, referred to in subsec. (a)(1), as 60 
 
 #### Change of Name
 
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
@@ -115,8 +117,4 @@ Section 801 of title VIII of Pub. L. 103–236 provided that: “This title \[en
 #### Termination Upon Enactment of Next Foreign Relations Act
 
 Section 851 of Pub. L. 103–236, which provided that on date of enactment of first Foreign Relations Authorization Act that was enacted after enactment of Pub. L. 103–236, the provisions of parts A (amending section 3281 of this title) and B (see Effective Date note above) of title VIII of Pub. L. 103–236 were to cease to be effective, the amendments made by those parts were to be repealed, and any provision of law repealed by those parts was to be reenacted, was itself repealed by Pub. L. 104–164, title I, §157(a), July 21, 1996, 110 Stat. 1440.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3281 of this title.
 

@@ -28,7 +28,3 @@ Revolving loan funds established with lines of credit provided under this subpar
 
 (Pub. L. 103–322, title III, §31114, Sept. 13, 1994, 108 Stat. 1884.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

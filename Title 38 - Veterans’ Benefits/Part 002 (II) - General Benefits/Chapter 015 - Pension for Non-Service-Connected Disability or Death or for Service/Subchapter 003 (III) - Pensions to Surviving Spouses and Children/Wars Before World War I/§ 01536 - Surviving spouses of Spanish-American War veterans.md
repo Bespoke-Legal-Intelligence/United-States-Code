@@ -1,6 +1,6 @@
 ### §1536. Surviving spouses of Spanish-American War veterans
 
-(a) The Secretary shall pay to the surviving spouse of each Spanish-American War veteran who met the service requirements of section 1512(a) of this title a pension at the monthly rate of $70, unless such surviving spouse was thespouse of the veteran during such veteran's service in the Spanish-American War, in which case the monthly rate shall be $75.
+(a) The Secretary shall pay to the surviving spouse of each Spanish-American War veteran who met the service requirements of section1512(a) of this title a pension at the monthly rate of $70, unless such surviving spouse was the spouse of the veteran during such veteran's service in the Spanish-American War, in which case the monthly rate shall be $75.
 
 (b) If there is a child of the veteran, the rate of pension paid to the surviving spouse under subsection (a) shall be increased by $8.13 per month for each such child.
 
@@ -75,10 +75,6 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 #### Increase in Aid and Attendance Rates for Veterans Eligible for Pension
 
 Maximum annual pension rates under subsec. (d)(2) of this section increased by $600, effective Oct. 1, 1998, see section 8206 of Pub. L. 105–178, set out as a note under section 1521 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1537 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -38,7 +38,3 @@ Numerous changes were made in arrangement and phraseology.
 
 Section 3 of Pub. L. 96–170 provided that: “The amendments made by this Act \[amending this section and section 1983 of Title 42, The Public Health and Welfare\] shall apply with respect to any deprivation of rights, privileges, or immunities secured by the Constitution and laws occurring after the date of the enactment of this Act \[Dec. 29, 1979\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 654 of this title.
-

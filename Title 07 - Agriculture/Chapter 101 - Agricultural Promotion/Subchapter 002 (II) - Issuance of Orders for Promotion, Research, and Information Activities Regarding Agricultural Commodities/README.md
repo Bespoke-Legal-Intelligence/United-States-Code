@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTIVITIES REGARDING AGRICULTURAL COMMODITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 7401, 7804 of this title.
-
 
 ---
 
@@ -15,6 +11,7 @@ This subchapter is referred to in sections 7401, 7804 of this title.
 - [&sect; 07414 - Required terms in orders](%C2%A7%2007414%20-%20Required%20terms%20in%20orders.md)
 - [&sect; 07415 - Permissive terms in orders](%C2%A7%2007415%20-%20Permissive%20terms%20in%20orders.md)
 - [&sect; 07416 - Assessments](%C2%A7%2007416%20-%20Assessments.md)
+- [&sect; 07416a - Confirmation of authority of Secretary of Agriculture to collect State commodity assessments](%C2%A7%2007416a%20-%20Confirmation%20of%20authority%20of%20Secretary%20of%20Agriculture%20to%20collect%20State%20commodity%20assessments.md)
 - [&sect; 07417 - Referenda](%C2%A7%2007417%20-%20Referenda.md)
 - [&sect; 07418 - Petition and review of orders](%C2%A7%2007418%20-%20Petition%20and%20review%20of%20orders.md)
 - [&sect; 07419 - Enforcement](%C2%A7%2007419%20-%20Enforcement.md)

@@ -70,7 +70,3 @@ This amends the catchline for 49:41502 to make a technical and conforming amendm
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40109, 46301 of this title.
-

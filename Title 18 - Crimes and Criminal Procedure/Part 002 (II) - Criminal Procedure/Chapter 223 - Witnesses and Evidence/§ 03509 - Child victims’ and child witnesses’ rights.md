@@ -78,7 +78,7 @@ Child's live testimony by 2-way closed circuit television.—
 
 &emsp;(2)
 
-Videotaped deposition of child.—(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, the child's parent or legal guardian, or the guardian ad litem appointed under subsection (h) may apply for an order that a deposition be taken of the child's testimony and that the deposition be recorded and preserved on videotape.
+Videotaped deposition of child.—(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, the child's parent or legal guardian, or the guardian ad litem appointed under subsection (h) may apply for anorder that a deposition be taken of the child's testimony and that the deposition be recorded and preserved on videotape.
 
 &emsp;(B)(i) Upon timely receipt of an application described in subparagraph (A), the court shall make a preliminary finding regarding whether at the time of trial the child is likely to be unable to testify in open court in the physical presence of the defendant, jury, judge, and public for any of the following reasons:
 
@@ -162,7 +162,7 @@ Not before jury.—A competency examination regarding a child witness shall be c
 
 &emsp;(7)
 
-Direct examination of child.—Examination of a child related to competency shall normally be conducted by the court on the basis of questions submitted by the attorney for the Government and the attorney for the defendant including a party acting as an attorney pro se. The court may permit an attorney but not a party acting as an attorney pro se to examine a child directly on competency if the court is satisfied that the child will not suffer emotional trauma as a result of the examination.
+Direct examination of child.—Examination of a child related to competency shall normally be conducted by the court on thebasis of questions submitted by the attorney for the Government and the attorney for the defendant including a party acting as an attorney pro se. The court may permit an attorney but not a party acting as an attorney pro se to examine a child directly on competency if the court is satisfied that the child will not suffer emotional trauma as a result of the examination.
 
 &emsp;(8)
 
@@ -230,13 +230,13 @@ Use of Multidisciplinary Child Abuse Teams.—
 
 &emsp;(1)
 
-In general.—A multidisciplinary child abuse team shall be used when it is feasible todo so. The court shall work with State and local governments that have established multidisciplinary child abuse teams designed to assist child victims and child witnesses, and the court and the attorney for the Government shall consult with the multidisciplinary child abuse team as appropriate.
+In general.—A multidisciplinary child abuse team shall be used when it is feasible to do so. The court shall work with State and local governments that have established multidisciplinary child abuse teams designed to assist child victims and child witnesses, and the court and the attorney for the Government shall consult with the multidisciplinary child abuse team as appropriate.
 
 &emsp;(2)
 
 Role of multidisciplinary child abuse teams.—The role of the multidisciplinary child abuse team shall be to provide for a child services that the members of the team in their professional roles are capable of providing, including—
 
-&emsp;&emsp;(A) medical diagnoses and evaluation services, including provision or interpretation of x-rays, laboratory tests, and related services, as needed, and documentation of findings;
+&emsp;&emsp;(A) medical diagnoses and evaluation services, including provision or interpretation ofx-rays, laboratory tests, and related services, as needed, and documentation of findings;
 
 &emsp;&emsp;(B) telephone consultation services in emergencies and in other situations;
 
@@ -309,8 +309,4 @@ Subsec. (k). Pub. L. 103–322, §330018(b), substituted heading for one which r
 #### Effective Date of 1994 Amendment
 
 Section 330011(e) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 225(a) of Pub. L. 101–647 took effect.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 403 of this title.
 

@@ -2,7 +2,7 @@
 
 As declared by the Congress in the Arms Control and Disarmament Act \[22 U.S.C. 2551 et seq.\], an ultimate goal of the United States continues to be a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. In furtherance of that goal, it remains the policy of the United States to encourage regional arms control and disarmament agreements and to discourage arms races.
 
-The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
+The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and securityessential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
 
 Accordingly, it remains the policy of the United States to facilitate the common defense by entering into international arrangements with friendly countries which further the objective of applying agreed resources of each country to programs and projects of cooperative exchange of data, research, development, production, procurement, and logistics support to achieve specific national defense requirements and objectives of mutual concern. To this end, this chapter authorizes sales by the United States Government to friendly countries having sufficient wealth to maintain and equip their own military forces at adequate strength, or to assume progressively larger shares of the costs thereof, without undue burden to their economies, in accordance with the restraints and control measures specified herein and in furtherance of the security objectives of the United States and of the purposes and principles of the United Nations Charter.
 
@@ -20,7 +20,7 @@ It is the sense of the Congress that the aggregate value of defense articles and
 
 > in any fiscal year should not exceed current levels.
 
-It is the sense of the Congress that the President maintain adherence to a policy of restraint in conventional arms transfers and that, in implementing this policy worldwide, a balanced approach should be taken and full regard given to the security interests of the United States in allregions of the world and that particular attention should be paid to controlling the flow of conventional arms to the nations of the developing world. To this end, the President is encouraged to continue discussions with other arms suppliers in order to restrain the flow of conventional arms to less developed countries.
+It is the sense of the Congress that the President maintain adherence to a policy of restraint in conventional arms transfers and that, in implementing this policy worldwide, a balanced approach should be taken and full regard given to the security interests of the United States in all regions of the world and that particular attention should be paid to controlling the flow of conventional arms to the nations of the developing world. To this end, the President is encouraged to continue discussions with other arms suppliers in order to restrain the flow of conventional arms to less developed countries.
 
 (Pub. L. 90–629, ch. 1, §1, Oct. 22, 1968, 82 Stat. 1321; Pub. L. 91–672, §4, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(1), Dec. 17, 1973, 87 Stat. 729; Pub. L. 94–329, title II, §202, formerly §202(a), June 30, 1976, 90 Stat. 734, renumbered and amended Pub. L. 95–384, §§15(a), 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 739, 747; Pub. L. 97–113, title VII, §734(a)(10), Dec. 29, 1981, 95 Stat. 1560.)
 
@@ -71,6 +71,140 @@ Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Ac
 #### Short Title
 
 Pub. L. 90–629, as amended by section 201(a) of Pub. L. 94–329, provided: “That this Act \[enacting this chapter, amending sections 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2344, 2345, 2394, and 2399 of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] may be cited as the ‘Arms Export Control Act’.”
+
+#### Man-Portable Air Defense Systems (MANPADS)
+
+Pub. L. 108–458, title IV, §4026, Dec. 17, 2004, 118 Stat. 3724, provided that:
+
+“(a)
+
+United States Policy on Nonproliferation and Export Control.—
+
+&emsp;“(1)
+
+To limit availability and transfer of manpads.—The President shall pursue, on an urgent basis, further strong international diplomatic and cooperative efforts, including bilateral and multilateral treaties, in the appropriate forum to limit the availability, transfer, and proliferation of MANPADSs worldwide.
+
+&emsp;“(2)
+
+To limit the proliferation of manpads.—The President is encouraged to seek to enter into agreements with the governments of foreign countries that, at a minimum, would—
+
+&emsp;&emsp;“(A) prohibit the entry into force of a MANPADS manufacturing license agreement and MANPADS co-production agreement, other than the entry into force of a manufacturing license or co-production agreement with a country that is party to such an agreement;
+
+&emsp;&emsp;“(B) prohibit, except pursuant to transfers between governments, the export of a MANPADS, including any component, part, accessory, or attachment thereof, without an individual validated license; and
+
+&emsp;&emsp;“(C) prohibit the reexport or retransfer of a MANPADS, including any component, part, accessory, or attachment thereof, to a third person, organization, or government unless the written consent of the government that approved the original export or transfer is first obtained.
+
+&emsp;“(3)
+
+To achieve destruction of manpads.—The President should continue to pursue further strong international diplomatic and cooperative efforts, including bilateral and multilateral treaties, in the appropriate forum to assure the destruction of excess, obsolete, and illicit stocks of MANPADSs worldwide.
+
+&emsp;“(4)
+
+Reporting and briefing requirement.—
+
+&emsp;&emsp;“(A)
+
+President's report.—Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the President shall transmit to the appropriate congressional committees a report that contains a detailed description of the status of diplomatic efforts under paragraphs (1), (2), and (3) and of efforts by the appropriate United States agencies to comply with the recommendations of the General Accounting Office \[now Government Accountability Office\] set forth in its report GAO–04–519, entitled ‘Nonproliferation: Further Improvements Needed in U.S. Efforts to Counter Threats from Man-Portable Air Defense Systems’.
+
+&emsp;&emsp;“(B)
+
+Annual briefings.—Annually after the date of submission of the report under subparagraph (A) and until completion of the diplomatic and compliance efforts referred to in subparagraph (A), the Secretary of State shall brief the appropriate congressional committees on the status of such efforts.
+
+“(b) FAA
+
+Airworthiness Certification of Missile Defense Systems for Commercial Aircraft.—
+
+&emsp;“(1)
+
+In general.—As soon as practicable, but not later than the date of completion of Phase II of the Department of Homeland Security's counter-man-portable air defense system (MANPADS) development and demonstration program, the Administrator of the Federal Aviation Administration shall establish a process for conducting airworthiness and safety certification of missile defense systems for commercial aircraft certified as effective and functional by the Department of Homeland Security. The process shall require a certification by the Administrator that such systems can be safely integrated into aircraft systems and ensure airworthiness and aircraft system integrity.
+
+&emsp;“(2)
+
+Certification acceptance.—Under the process, the Administrator shall accept the certification of the Department of Homeland Security that a missile defense system is effective and functional to defend commercial aircraft against MANPADSs.
+
+&emsp;“(3)
+
+Expeditious certification.—Under the process, the Administrator shall expedite the airworthiness and safety certification of missile defense systems for commercial aircraft certified by the Department of Homeland Security.
+
+&emsp;“(4)
+
+Reports.—Not later than 90 days after the first airworthiness and safety certification for a missile defense system for commercial aircraft is issued by the Administrator, and annually thereafter until December 31, 2008, the Federal Aviation Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that contains a detailed description of each airworthiness and safety certification issued for a missile defense system for commercial aircraft.
+
+“(c)
+
+Programs to Reduce MANPADS.—
+
+&emsp;“(1)
+
+In general.—The President is encouraged to pursue strong programs to reduce the number of MANPADSs worldwide so that fewer MANPADSs will be available for trade, proliferation, and sale.
+
+&emsp;“(2)
+
+Reporting and briefing requirements.—Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the President shall transmit to the appropriate congressional committees a report that contains a detailed description of the status of the programs being pursued under subsection (a). Annually thereafter until the programs are no longer needed, the Secretary of State shall brief the appropriate congressional committees on the status of programs.
+
+&emsp;“(3)
+
+Funding.—There is authorized to be appropriated such sums as may be necessary to carry out this section.
+
+“(d) MANPADS
+
+Vulnerability Assessments Report.—
+
+&emsp;“(1)
+
+In general.—Not later than one year after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary of Homeland Security shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the Department of Homeland Security's plans to secure airports and the aircraft arriving and departing from airports against MANPADSs attacks.
+
+&emsp;“(2)
+
+Matters to be addressed.—The Secretary's report shall address, at a minimum, the following:
+
+&emsp;&emsp;“(A) The status of the Department's efforts to conduct MANPADSs vulnerability assessments at United States airports at which the Department is conducting assessments.
+
+&emsp;&emsp;“(B) How intelligence is shared between the United States intelligence agencies and Federal, State, and local law enforcement to address the MANPADS threat and potential ways to improve such intelligence sharing.
+
+&emsp;&emsp;“(C) Contingency plans that the Department has developed in the event that it receives intelligence indicating a high threat of a MANPADS attack on aircraft at or near United States airports.
+
+&emsp;&emsp;“(D) The feasibility and effectiveness of implementing public education and neighborhood watch programs in areas surrounding United States airports in cases in which intelligence reports indicate there is a high risk of MANPADS attacks on aircraft.
+
+&emsp;&emsp;“(E) Any other issues that the Secretary deems relevant.
+
+&emsp;“(3)
+
+Format.—The report required by this subsection may be submitted in a classified format.
+
+“(e)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;“(1)
+
+Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—
+
+&emsp;&emsp;“(A) the Committee on Armed Services, the Committee on International Relations, and the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+&emsp;&emsp;“(B) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Commerce, Science, and Transportation of the Senate.
+
+&emsp;“(2) MANPADS.—The term ‘MANPADS’ means—
+
+&emsp;&emsp;“(A) a surface-to-air missile system designed to be man-portable and carried and fired by a single individual; and
+
+&emsp;&emsp;“(B) any other surface-to-air missile system designed to be operated and fired by more than one individual acting as a crew and portable by several individuals.”
+
+#### Bilateral Exchanges and Trade in Defense Articles and Defense Services Between the United States and the United Kingdom and Australia
+
+Pub. L. 108–375, div. A, title XII, §1225, Oct. 28, 2004, 118 Stat. 2091, provided that:
+
+“(a)
+
+Policy.—It is the policy of Congress that bilateral exchanges and trade in defense articles and defense services between the United States and the United Kingdom and Australia are in the national security interest of the United States and that such exchanges and trade should be subjected to accelerated review and processing consistent with national security and the requirements of the Arms Export Control Act (22 U.S.C. 2751 et seq.).
+
+“(b)
+
+Requirement.—The Secretary of State shall ensure that any license application submitted for the export of defense articles or defense services to Australia or the United Kingdom is expeditiously processed by the Department of State, in consultation with the Department of Defense, without referral to any other Federal department or agency, except where the item is classified or exceptional circumstances apply.
+
+“(c)
+
+Regulations.—The President shall ensure that regulations are prescribed to implement this section.”
 
 #### Eligibility of Panama Under Arms Export Control Act
 
@@ -292,6 +426,8 @@ Termination of Committee.—The committee shall cease to exist at the end of Sep
 
 &emsp;“(2) The term ‘intelligence community’ has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 401a).”
 
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
+
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 
 #### Restriction on Arms Sales to Saudi Arabia and Kuwait
@@ -344,11 +480,11 @@ Pub. L. 95–92, §26, Aug. 4, 1977, 91 Stat. 625, provided that: “In accordan
 
 #### Review by President of Categories and Arms Sales Controls on Lethal and Non-Lethal Items
 
-Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, directed President to undertake a review of all regulations relating to arms control for the purpose of defining andcategorizing lethal and non-lethal products and establishing the appropriate level of control for each category.
+Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, directed President to undertake a review of all regulations relating to arms control for the purpose of defining and categorizing lethal and non-lethal products and establishing the appropriate level of control for each category.
 
 #### Study of United States Arms Sales Policies and Practices by President; Report to Congress
 
-Section 202(b) of Pub. L. 94–329 set forth provisions respecting study and report to Congress of United States arms sales policies and practices, prior to repeal by Pub. L. 95–384, §29(c)(1)(A), Sept. 26, 1978, 92 Stat. 747.
+Section 202(b) of Pub. L. 94–329 set forth provisions respecting study and report to Congress of United Statesarms sales policies and practices, prior to repeal by Pub. L. 95–384, §29(c)(1)(A), Sept. 26, 1978, 92 Stat. 747.
 
 #### Presidential Report Regarding Sales of Excess Defense Articles to Foreign Governments and International Organizations
 
@@ -404,7 +540,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (d) Those under Sections 22(a), 29, 30 and 30A of the Act \[22 U.S.C. 2762(a), 2769, 2770, 2770a\] to the Secretary of Defense.
 
-(e) Those under Section 23 of the Act \[22 U.S.C. 2763\] and section 571 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) \[22 U.S.C. 2763 note\], to the Secretary of Defense, to be exercised in consultation with the Secretary of State and the Secretary of the Treasury, except that the President shall determineany rate of interest to be charged which is less than the market rate of interest.
+(e) Those under Section 23 of the Act \[22 U.S.C. 2763\] and section 571 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) \[22 U.S.C. 2763 note\], to the Secretary of Defense, to be exercised in consultation with the Secretary of State and the Secretary of the Treasury, except that the President shall determine any rate of interest to be charged which is less than the market rate of interest.
 
 (f) Those under Sections 24, 27, and 28 of the Act \[22 U.S.C. 2764, 2767, former 2768\] to the Secretary of Defense. The Secretary of Defense, in implementing the functions delegated to him under Sections 24 and 27 \[22 U.S.C. 2764, 2767\], shall consult with the Secretary of State and the Secretary of the Treasury.
 

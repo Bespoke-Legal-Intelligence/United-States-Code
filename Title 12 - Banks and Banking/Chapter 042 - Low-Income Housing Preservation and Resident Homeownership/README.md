@@ -127,10 +127,6 @@ Subtitles A and B of the Low-Income Housing Preservation and Resident Homeowners
 
 Subtitle C of the Low-Income Housing Preservation and Resident Homeownership Act of 1990, Pub. L. 100–242, title II, as added by Pub. L. 102–550, title III, §312, Oct. 28, 1992, 106 Stat. 3765, comprises subchapter II of this chapter. Another subtitle C of title II of Pub. L. 100–242 amended sections 1472, 1485, and 1487 of Title 42, The Public Health and Welfare.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1715z–1, 1715z–1b of this title; title 42 sections 1437n, 8107, 12742, 12877.
-
 
 ---
 

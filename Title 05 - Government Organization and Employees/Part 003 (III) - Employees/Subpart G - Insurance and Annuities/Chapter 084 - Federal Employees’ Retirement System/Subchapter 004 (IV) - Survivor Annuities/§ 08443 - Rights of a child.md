@@ -40,15 +40,11 @@ The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–208 inserted at end “If the annuity of a child under this subchapter terminatesunder subparagraph (E) because of marriage, then, if such marriage ends, such annuity shall resume on the first day of the month in which it ends, but only if any lump sum paid is returned to the Fund, and that individual is not otherwise ineligible for such annuity.”
+1996—Subsec. (b). Pub. L. 104–208 inserted at end “If the annuity of a child under this subchapter terminates under subparagraph (E) because of marriage, then, if such marriage ends, such annuity shall resume on the first day of the month in which it ends, but only if any lump sum paid is returned to the Fund, and that individual is not otherwise ineligible for such annuity.”
 
 1986—Subsec. (a)(2). Pub. L. 99–556 inserted “(including any adjustment based on section 8340)”.
 
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 applicable with respect to termination of marriage taking effect before, on, or after Sept. 30, 1996, except that benefits are payable only with respect to amounts accruing for periods beginning on first day of month beginning after the later of termination of marriage or Sept. 30, 1996, see section 101(f) \[title VI, §633(b)\] of Pub. L. 104–208, set out as a note under section 8341 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8441, 8462, 8908 of this title; title 38 section 7438.
 

@@ -46,7 +46,3 @@ In General.—In addition to any other sums authorized by law, there are authori
 
 Effect on Fees.—For the purposes of section 9(b)(2) (47 U.S.C. 159(b)(2)), additional amounts appropriated pursuant to subsection (a) shall be construed to be changes in the amounts appropriated for the performance of activities described in section 9(a) of the Communications Act of 1934 \[47 U.S.C. 159(a)\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 154 of this title.
-

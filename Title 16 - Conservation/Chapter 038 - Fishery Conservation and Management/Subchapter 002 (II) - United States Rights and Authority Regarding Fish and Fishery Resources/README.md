@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—UNITED STATES RIGHTS AND AUTHORITY REGARDING FISH AND FISHERY RESOURCES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 22 section 1972.
-
 
 ---
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 30 days following November 29, 1990, the Task Force shall request that the Great Lakes Commission (established under Article IV of the Great Lakes Compact to which the Congress granted consent in the Act of July 24, 1968, P.L. 90–419) convene a panel ofGreat Lakes region representatives from Federal, State and local agencies and from private environmental and commercial interests to—
+&emsp;Not later than 30 days following November 29, 1990, the Task Force shall request that the Great Lakes Commission (established under Article IV of the Great Lakes Compact to which the Congress granted consent in the Act of July 24, 1968, P.L. 90–419) convene a panel of Great Lakes region representatives from Federal, State and local agencies and from private environmental and commercial interests to—
 
 &emsp;&emsp;(A) identify priorities for the Great Lakes region with respect to aquatic nuisance species;
 
@@ -65,10 +65,6 @@ This chapter, referred to in subsecs. (a)(1)(D) and (b)(3), was in the original 
 Pub. L. 104–332, §2(e)(5)(A), substituted “Regional” for “Great Lakes regional” in section catchline.
 
 Pub. L. 104–332, §2(e)(5)(B)–(F), designated existing provisions as subsec. (a) and inserted subsec. heading, redesignated former subsec. (a) as par. (1), and former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), in par. (1) inserted “region” before “representatives” in introductory provisions and after “Great Lakes” in subpars. (A), (C), (D), and (F), redesignated subsecs. (b) and (c) as pars. (2) and (3), respectively, of subsec. (a), substituted “this subsection” for “this section” in those pars., and added subsecs. (b) and (c).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4741 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

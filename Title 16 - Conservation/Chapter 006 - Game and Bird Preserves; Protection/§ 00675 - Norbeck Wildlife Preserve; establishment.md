@@ -18,7 +18,3 @@ Harney National Forest abolished and its lands transferred to and consolidated w
 
 Areas comprising the Norbeck Wildlife Preserve, formerly known as the Custer State Park Game Sanctuary, were designated by Proclamations of Oct. 9, 1920 (41 Stat. 1805), Jan. 8, 1925 (43 Stat. 1981), and Jan. 14, 1929 (45 Stat. 2985).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 676, 678a of this title.
-

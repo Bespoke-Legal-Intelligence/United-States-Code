@@ -18,7 +18,3 @@ The effective date of this section, referred to in text, means immediately prior
 
 Section was classified to section 166b–1a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1842, 1843, 1844, 1845, 1846 of this title.
-

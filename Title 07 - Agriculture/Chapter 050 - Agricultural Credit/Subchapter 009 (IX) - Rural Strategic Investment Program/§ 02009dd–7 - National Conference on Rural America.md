@@ -92,7 +92,3 @@ Not later than 180 days after the establishment of the National Board, the Natio
 
 (Pub. L. 87–128, title III, §385H, as added Pub. L. 107–171, title VI, §6030, May 13, 2002, 116 Stat. 411.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2009dd–1, 2009dd–4 of this title.
-

@@ -14,7 +14,7 @@ Every fiduciary of an employee benefit plan and every person who handles funds o
 
 &emsp;(C) is subject to supervision or examination by Federal or State authority; and
 
-&emsp;(D) has at all times a combined capital and surplus in excess of such a minimum amount as may be established by regulations issued by the Secretary, which amount shall be at least $1,000,000. Paragraph (2) shall apply to a bank or other financial institution which is authorized to exercise trust powers and the deposits of which are not insured by the Federal Deposit Insurance Corporation, only if such bankor institution meets bonding or similar requirements under State law which the Secretary determines are at least equivalent to those imposed on banks by Federal law.
+&emsp;(D) has at all times a combined capital and surplus in excess of such a minimum amount as may be established by regulations issued by the Secretary, which amount shall be at least $1,000,000. Paragraph (2) shall apply to a bank or other financial institution which is authorized to exercise trust powers and the deposits of which are not insured by the Federal Deposit Insurance Corporation, only if such bank or institution meets bonding or similar requirements under State law which the Secretary determines are at least equivalent to those imposed on banks by Federal law.
 
 > The amount of such bond shall be fixed at the beginning of each fiscal year of the plan. Such amount shall be not less than 10 per centum of the amount of funds handled. In no case shall such bond be less than $1,000 nor more than $500,000, except that the Secretary, after due notice and opportunity for hearing to all interested parties, and after consideration of the record, may prescribe an amount in excess of $500,000, subject to the 10 per centum limitation of the preceding sentence. For purposes of fixing the amount of such bond, the amount of funds handled shall be determined by the funds handled by the person, group, or class to be covered by such bond and by their predecessor or predecessors, if any, during the preceding reporting year, or if the plan has no preceding reporting year, the amount of funds to be handled during the current reporting year by such person, group, or class, estimated as provided in regulations of the Secretary. Such bond shall provide protection to the plan against loss by reason of acts of fraud or dishonesty on the part of the plan official, directly or through connivance with others. Any bond shall have as surety thereon a corporate surety company which is an acceptable surety on Federal bonds under authority granted by the Secretary of the Treasury pursuant to sections 9304–9308 of title 31. Any bond shall be in a form or of a type approved by the Secretary, including individual bonds or schedule or blanket forms of bonds which cover a group or class.
 
@@ -43,8 +43,4 @@ In subsec. (a), “sections 9304–9308 of title 31” substituted for “sectio
 #### Regulations
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this part call for the promulgation of regulations, see sections 1031 and 1114 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1028, 1085b, 1383, 1384 of this title; title 26 section 401.
 

@@ -10,7 +10,7 @@ The United States Cotton Futures Act, referred to in text, is part A of act Aug.
 
 The United States Grain Standards Act, referred to in text, is part B of act Aug. 11, 1916, ch. 313, 39 Stat. 482, as amended, which is classified generally to chapter 3 (§71 et seq.) of this title. For complete classification of this Act to the Code, see section 71 of this title and Tables.
 
-The United States Warehouse Act, referred to in text, is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10\(§241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
+The United States Warehouse Act, referred to in text, is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
 
 The Standard Container Act, referred to in text, is act Aug. 31, 1916, ch. 426, 39 Stat. 673, as amended, which was classified generally to subchapter VII (§251 et seq.) of chapter 6 of Title 15, Commerce and Trade, and was repealed by Pub. L. 90–628, §1(a), Oct. 22, 1968, 82 Stat. 1320. For complete classification of this Act to the Code prior to its repeal, see Tables.
 

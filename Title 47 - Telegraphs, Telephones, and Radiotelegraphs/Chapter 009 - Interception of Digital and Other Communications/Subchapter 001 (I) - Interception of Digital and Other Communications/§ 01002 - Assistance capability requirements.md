@@ -42,7 +42,7 @@ Except as provided in subsections (b), (c), and (d) of this section and sections
 
 #### (3) Encryption
 
-&emsp;A telecommunications carrier shall not be responsible for decrypting, or ensuring the government's ability to decrypt, any communication encrypted by a subscriber or customer, unless the encryption was provided bythe carrier and the carrier possesses the information necessary to decrypt the communication.
+&emsp;A telecommunications carrier shall not be responsible for decrypting, or ensuring the government's ability to decrypt, any communication encrypted by a subscriber or customer, unless the encryption was provided by the carrier and the carrier possesses the information necessary to decrypt the communication.
 
 #### (c) Emergency or exigent circumstances
 
@@ -61,10 +61,6 @@ Section 1805(e) of title 50, referred to in subsec. (c), was redesignated sectio
 #### Effective Date
 
 Section effective on the date that is 4 years after Oct. 25, 1994, see section 111(b) of Pub. L. 103–414, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 229, 1005, 1006, 1007, 1008, 1010 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

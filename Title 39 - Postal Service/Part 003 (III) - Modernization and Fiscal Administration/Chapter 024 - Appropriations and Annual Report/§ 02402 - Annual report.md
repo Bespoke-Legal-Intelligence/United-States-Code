@@ -10,9 +10,5 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in this section relating to the requirement that the Board transmit annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 195 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 414, 416 of this title.
+For termination, effective May 15, 2000, of provisions in this section relating to the requirement that theBoard transmit annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 195 of House Document No. 103–7.
 

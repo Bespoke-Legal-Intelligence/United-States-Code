@@ -26,7 +26,3 @@ Section was not enacted as part of the Housing Act of 1949 which comprises this 
 
 1974—Pub. L. 93–383 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1441b of this title.
-

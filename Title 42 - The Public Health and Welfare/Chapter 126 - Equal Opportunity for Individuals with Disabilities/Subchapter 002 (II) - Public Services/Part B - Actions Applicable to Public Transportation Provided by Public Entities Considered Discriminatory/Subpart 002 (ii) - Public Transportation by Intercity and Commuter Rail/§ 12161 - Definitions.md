@@ -8,7 +8,7 @@ As used in this subpart:
 
 #### (2) Commuter rail transportation
 
-&emsp;The term “commuter rail transportation” has the meaning given the term “commuterrail passenger transportation” in section 24102(5) <sup>1</sup> of title 49.
+&emsp;The term “commuter rail transportation” has the meaning given the term “commuter rail passenger transportation” in section 24102(5) <sup>1</sup> of title 49.
 
 #### (3) Intercity rail transportation
 
@@ -57,10 +57,6 @@ General Rule.—Except as provided in subsection (b), this part \[part II (§§2
 “(b)
 
 Exception.—Sections 242 and 244 \[sections 12162 and 12164 of this title\] shall become effective on the date of enactment of this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12141 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

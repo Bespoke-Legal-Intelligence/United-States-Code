@@ -34,7 +34,3 @@ The Investment Company Act of 1940, referred to in subsec. (b), is title I of ac
 
 The Public Utility Holding Company Act of 1935, referred to in subsec. (b), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 838, as amended, which is classified generally to chapter 20 (§79 et seq.) of Title 15. For complete classification of this Act to the Code, see section 79 of Title 15 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 435, 437 of this title.
-

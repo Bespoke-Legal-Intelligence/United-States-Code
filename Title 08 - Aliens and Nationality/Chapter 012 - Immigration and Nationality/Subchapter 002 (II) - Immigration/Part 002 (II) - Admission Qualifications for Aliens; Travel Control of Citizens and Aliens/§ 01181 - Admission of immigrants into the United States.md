@@ -54,7 +54,3 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1151, 1182, 1230 of this title.
-

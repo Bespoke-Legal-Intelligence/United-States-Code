@@ -8,7 +8,3 @@ Notwithstanding the provisions of this subchapter, the Secretary of the Interior
 
 Section was not enacted as part of act June 11, 1940, ch. 304, 54 Stat. 262, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 266 of this title.
-

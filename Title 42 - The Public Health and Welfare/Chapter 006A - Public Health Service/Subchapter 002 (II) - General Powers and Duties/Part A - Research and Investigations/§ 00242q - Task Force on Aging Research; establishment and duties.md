@@ -24,7 +24,3 @@ The Task Force may make available to health professionals, and to other members 
 
 Section was enacted as part of the Home Health Care and Alzheimer's Disease Amendments of 1990, and not as part of the Public Health Service Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 242q–2, 242q–3, 242q–4, 242q–5 of this title.
-

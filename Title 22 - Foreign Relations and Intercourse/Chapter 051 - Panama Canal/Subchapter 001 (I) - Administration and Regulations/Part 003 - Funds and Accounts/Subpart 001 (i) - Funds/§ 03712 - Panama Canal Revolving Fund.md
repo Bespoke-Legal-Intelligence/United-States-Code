@@ -48,13 +48,23 @@ With the approval of the Secretary of the Treasury, the Commission may deposit a
 
 (2) It is further the sense of the Congress that the actual costs of implementation be consistent with the obligations of the United States to operate the Panama Canal safely and efficiently and keep it secure.
 
-(Pub. L. 96–70, title I, §1302, Sept. 27, 1979, 93 Stat. 477; Pub. L. 99–195, §1(a), Dec. 23, 1985, 99 Stat. 1349; Pub. L. 100–203, title V, §5422(a), (b)(1), Dec. 22, 1987, 101 Stat. 1330–271, 1330–272; Pub. L. 100–705, §9, Nov. 19, 1988, 102 Stat. 4687; Pub. L. 102–484, div. C, title XXXV, §3521(b)(1), Oct. 23, 1992, 106 Stat. 2657; Pub. L. 104–106, div. C, title XXXV, §3525, Feb. 10, 1996, 110 Stat. 640; Pub. L. 104–201, div. C, title XXXV, §3539, Sept. 23, 1996, 110 Stat. 2865; Pub. L. 105–85, div. C, title XXXV, §3528, Nov. 18, 1997, 111 Stat. 2069.)
+#### (e) Termination of Commission and Office of Transition Administration; transfer of Fund
+
+(1) The Panama Canal Commission and the Office of Transition Administration (described insection 3504 of Public Law 106–65) shall terminate on October 1, 2004.
+
+(2) Upon termination pursuant to paragraph (1), the Panama Canal Revolving Fund shall be transferred to the General Services Administration (GSA). GSA shall use the amounts in the Fund to make payments of any outstanding liabilities of the Commission, as well as any expenses associated with the termination of the Office of Transition Administration and the Commission. The fund shall be the exclusive source available for payment of any outstanding liabilities of the Commission.
+
+(Pub. L. 96–70, title I, §1302, Sept. 27, 1979, 93 Stat. 477; Pub. L. 99–195, §1(a), Dec. 23, 1985, 99 Stat. 1349; Pub. L. 100–203, title V, §5422(a), (b)(1), Dec. 22, 1987, 101 Stat. 1330–271, 1330–272; Pub. L. 100–705, §9, Nov. 19, 1988, 102 Stat. 4687; Pub. L. 102–484, div. C, title XXXV, §3521(b)(1), Oct. 23, 1992, 106 Stat. 2657; Pub. L. 104–106, div. C, title XXXV, §3525, Feb. 10, 1996, 110 Stat. 640; Pub. L. 104–201, div. C, title XXXV, §3539, Sept. 23, 1996, 110 Stat. 2865; Pub. L. 105–85, div. C, title XXXV, §3528, Nov. 18, 1997, 111 Stat. 2069; Pub. L. 108–309, §121, Sept. 30, 2004, 118 Stat. 1140.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (d)(1), was in the original “this Act”, meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979 which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
+Section 3504 of Public Law 106–65, referred to in subsec. (e)(1), is section 3504 of Pub. L. 106–65, div. C, title XXXV, Oct. 5, 1999, 113 Stat. 975, which amended section 3714a of this title and enacted provisions set out as a note under section 3714a of this title.
+
 #### Amendments
+
+2004—Subsec. (e). Pub. L. 108–309 added subsec. (e).
 
 1997—Subsec. (a). Pub. L. 105–85, §3528(b)(1), substituted “for the following purposes:” for “for—” in introductory provisions.
 
@@ -103,8 +113,4 @@ Section 2 of Pub. L. 99–195 provided that: “The amendments made by this Act 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (b) of this section is listed on page 142), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3713, 3751 of this title.
 

@@ -28,7 +28,7 @@ Each audit required pursuant to this chapter of the financial statements of an i
 
 &emsp;&emsp;(A) the illegal act has a material effect on the financial statements of the issuer;
 
-&emsp;&emsp;(B) the senior management has not taken, and the board of directors has not caused senior management to take, timely and appropriate remedial actions with respect to the illegal act; and
+&emsp;&emsp;(B) the senior management has not taken, and the board of directors has not causedsenior management to take, timely and appropriate remedial actions with respect to the illegal act; and
 
 &emsp;&emsp;(C) the failure to take remedial action is reasonably expected to warrant departure from a standard report of the auditor, when made, or warrant resignation from the audit engagement;
 
@@ -52,7 +52,7 @@ No registered public accounting firm shall be liable in a private action for any
 
 #### (d) Civil penalties in cease-and-desist proceedings
 
-If the Commission finds, after notice and opportunity for hearing in a proceeding instituted pursuant to section 78u–3 of this title, that aregistered public accounting firm has willfully violated paragraph (3) or (4) of subsection (b) of this section, the Commission may, in addition to entering an order under section 78u–3 of this title, impose a civil penalty against the registered public accounting firm and any other person that the Commission finds was a cause of such violation. The determination to impose a civil penalty and the amount of the penalty shall be governed by the standards set forth in section 78u–2 of this title.
+If the Commission finds, after notice and opportunity for hearing in a proceeding instituted pursuant to section 78u–3 of this title, that a registered public accounting firm has willfully violated paragraph (3) or (4) of subsection (b) of this section, the Commission may, in addition to entering an order under section 78u–3 of this title, impose a civil penalty against the registered public accounting firm and any other person that the Commission finds was a cause of such violation. The determination to impose a civil penalty and the amount of the penalty shall be governed by the standards set forth in section 78u–2 of this title.
 
 #### (e) Preservation of existing authority
 
@@ -96,9 +96,9 @@ A registered public accounting firm may engage in any non-audit service, includi
 
 &emsp;&emsp;All auditing services (which may entail providing comfort letters in connection with securities underwritings or statutory audits required for insurance companies for purposes of State law) and non-audit services, other than as provided in subparagraph (B), provided to an issuer by the auditor of the issuer shall be preapproved by the audit committee of the issuer.
 
-#### (B) De minimus exception
+#### (B) De minimus <sup>1</sup> exception
 
-&emsp;&emsp;The preapproval requirement under subparagraph (A) is waived with respect to the provision of non-audit services for an issuer, if—
+&emsp;&emsp;The preapproval requirement under subparagraph (A) is waived with respect to theprovision of non-audit services for an issuer, if—
 
 &emsp;&emsp;&emsp;(i) the aggregate amount of all such non-audit services provided to the issuer constitutes not more than 5 percent of the total amount of revenues paid by the issuer to its auditor during the fiscal year in which the nonaudit services are provided;
 
@@ -196,7 +196,7 @@ It shall be unlawful for a registered public accounting firm to perform for an i
 
 This chapter, referred to in subsecs. (a), (b)(1), (e), (g), (k), and (<i>l</i>), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
-The Securities Act of 1933, referred to in subsec. (f), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For completeclassification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (f), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments
 
@@ -242,7 +242,5 @@ Section 301(b) of Pub. L. 104–67 provided that: “The amendment made by subse
 
 Section 203 of Pub. L. 104–67 provided that: “Nothing in this Act \[see Short Title of 1995 Amendment note set out under section 78a of this title\] or the amendments made by this Act shall be deemed to create or ratify any implied private right of action, or to prevent the Commission, by rule or regulation, from restricting or otherwise regulating private actions under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78<i>l</i>, 7231, 7233 of this title; title 18 section 1520.
+<i><sup>1</sup></i><i> So in original. Probably should be “De minimis”.</i>
 

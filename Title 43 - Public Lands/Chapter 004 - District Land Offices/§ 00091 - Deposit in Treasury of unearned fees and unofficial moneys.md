@@ -18,7 +18,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Effective July 1, 1935, the appropriation provided for in this section was repealed and provision was made for annual appropriations of sums necessary to meet expenditures by act June 26, 1934, ch. 756, §17, 48 Stat. 1230, which was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1074. See section 1322 of Title 31, Money and Finance.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 99 of this title.
-

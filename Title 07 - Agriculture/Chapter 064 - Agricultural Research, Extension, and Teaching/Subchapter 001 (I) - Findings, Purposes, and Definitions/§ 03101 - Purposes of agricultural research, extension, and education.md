@@ -28,6 +28,10 @@ A prior section 3101, Pub. L. 95–113, title XIV, §1402, Sept. 29, 1977, 91 St
 
 1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions which set out six purposes of federally funded agricultural research and extension programs.
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–465, §1, Dec. 21, 2004, 118 Stat. 3882, provided that: “This Act \[enacting sections 3123a, 7712a, and 8321 of this title, amending section 5925 of this title, and enacting provisions set out as notes under sections 1621 and 5925 of this title\] may be cited as the ‘Specialty Crops Competitiveness Act of 2004’.”
+
 #### Short Title of 2003 Amendment
 
 Pub. L. 108–161, §1, Dec. 6, 2003, 117 Stat. 2014, provided that: “This Act \[enacting section 3151a of this title\] may be cited as the ‘National Veterinary Medical Service Act’.”
@@ -117,8 +121,4 @@ Reports.—Not later than 12 months after the date of enactment of this Act \[Ma
 “(e)
 
 Funding.—The Secretary shall use to carry out this section not more than $499,000 of the amount of appropriations available to the Department of Agriculture for fiscal year 2003.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390a, 3123, 3363, 7612 of this title.
 

@@ -58,7 +58,3 @@ In order to develop challenging State academic standards and assessments, a Stat
 
 A prior section 9201 of Pub. L. 89–10 was classified to section 7901 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7823 of this title.
-

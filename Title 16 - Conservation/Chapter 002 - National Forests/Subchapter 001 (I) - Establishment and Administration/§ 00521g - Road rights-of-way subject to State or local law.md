@@ -4,7 +4,3 @@ Conveyance of any road rights-of-way under sections 521c to 521i of this title s
 
 (Pub. L. 97–465, §5, Jan. 12, 1983, 96 Stat. 2536.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 698v–7 of this title.
-

@@ -46,7 +46,3 @@ Subsec. (d). Pub. L. 100–568, §7(b)(4), added subsec. (d).
 
 Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403, 404, 405 of this title.
-

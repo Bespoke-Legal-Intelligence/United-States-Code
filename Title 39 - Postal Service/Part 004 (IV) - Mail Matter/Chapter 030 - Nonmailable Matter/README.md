@@ -35,10 +35,6 @@ Pub. L. 100–574, §1(a)(2), Oct. 31, 1988, 102 Stat. 2893, added item 3014.
 
 1983—Pub. L. 98–186, §3(c), Nov. 30, 1983, 97 Stat. 1317, added items 3012 and 3013.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3684 of this title.
-
 
 ---
 

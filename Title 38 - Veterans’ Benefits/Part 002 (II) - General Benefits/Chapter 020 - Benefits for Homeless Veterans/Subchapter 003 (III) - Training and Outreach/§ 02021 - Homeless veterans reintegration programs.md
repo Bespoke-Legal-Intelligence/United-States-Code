@@ -40,7 +40,3 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated t
 
 A prior section 2021 was renumbered section 4301 of this title and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2003 of this title.
-

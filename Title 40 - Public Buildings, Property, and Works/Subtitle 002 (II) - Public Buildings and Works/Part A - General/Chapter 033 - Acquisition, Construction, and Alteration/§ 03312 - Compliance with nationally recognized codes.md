@@ -104,7 +104,3 @@ Pub. L. 86–249, §21, as added Pub. L. 100–678, §6(a), Nov. 17, 1988, 102 S
 
 40:619(f).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 450ss–6.
-

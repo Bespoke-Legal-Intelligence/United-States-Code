@@ -116,7 +116,3 @@ Report.—The Secretary shall include in the report required under section 60131
 
 Computer-based systems defined.—In this subsection, the term ‘computer-based systems’ means supervisory control and data acquisition systems.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 60112 of this title.
-

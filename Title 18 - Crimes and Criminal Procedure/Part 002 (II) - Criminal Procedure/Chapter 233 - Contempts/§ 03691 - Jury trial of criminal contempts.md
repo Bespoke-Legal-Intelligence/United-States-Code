@@ -16,7 +16,3 @@ The second paragraph of this section is derived from section 389 of title 28, U.
 
 Minor changes were made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 402 of this title.
-

@@ -62,7 +62,3 @@ Subsec. (b). Pub. L. 100–456, §1503(b), substituted “the next fiscal year�
 
 Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 98d, 98h–1, 98h–6 of this title.
-

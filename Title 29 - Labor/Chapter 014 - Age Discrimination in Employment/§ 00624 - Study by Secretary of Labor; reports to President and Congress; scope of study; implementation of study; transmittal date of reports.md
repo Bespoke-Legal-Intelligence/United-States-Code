@@ -32,7 +32,7 @@ Pub. L. 99–592, §6(c), Oct. 31, 1986, 100 Stat. 3344, provided that:
 
 “(2) The study required by paragraph (1) of this subsection shall be conducted under the general supervision of the National Academy of Sciences by a study panel composed of 9 members. The study panel shall consist of—
 
-&emsp;“(A) 4 members who shall be administrators at institutions of higher education selected by the National Academy of Sciences after consultation with the American Council of Education, the Association of American Universities, and the National Association of State Universities and Land Grant Colleges;
+&emsp;“(A) 4 members who shall be administrators at institutions of higher education selected by the National Academy of Sciences after consultation withthe American Council of Education, the Association of American Universities, and the National Association of State Universities and Land Grant Colleges;
 
 &emsp;“(B) 4 members who shall be teachers or retired teachers at institutions of higher education (who do not serve in an administrative capacity at such institutions), selected by the National Academy of Sciences after consultation with the American Federation of Teachers, the National Education Association, the American Association of University Professors, and the American Association of Retired Persons; and
 

@@ -24,7 +24,3 @@ Provisions of title 28, U.S.C., 1940 ed., §41(20) relating to jurisdiction of d
 
 Amendment by Pub. L. 104–331 effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as an Effective Date note under section 1296 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 41 section 113; title 50 section 2783.
-

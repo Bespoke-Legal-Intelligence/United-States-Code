@@ -12,7 +12,3 @@ Act Aug. 7, 1939, ch. 509, 53 Stat. 1238, as amended June 17, 1940, ch. 390, 54 
 
 The definitions in section 371 of this title apply to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 371, 417, 493, 500, 617h of this title; title 16 section 835c.
-

@@ -27,10 +27,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 7210, 7211 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 

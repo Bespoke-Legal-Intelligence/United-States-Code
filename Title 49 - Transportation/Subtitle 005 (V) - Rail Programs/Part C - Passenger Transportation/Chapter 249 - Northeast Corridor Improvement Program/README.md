@@ -18,10 +18,6 @@
 
 1997—Pub. L. 105–134, title IV, §405(a), Dec. 2, 1997, 111 Stat. 2586, struck out item 24903 “Program master plan for Boston-New York main line”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 306, 24104 of this title.
-
 
 ---
 

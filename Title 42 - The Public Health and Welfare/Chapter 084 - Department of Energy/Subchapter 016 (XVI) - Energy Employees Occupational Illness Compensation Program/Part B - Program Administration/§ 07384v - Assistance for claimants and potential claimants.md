@@ -20,7 +20,7 @@ The President shall take appropriate actions to inform and assist covered employ
 
 &emsp;&emsp;(B) lists of vendors approved for providing laboratory services related to such medical testing and diagnosis; and
 
-&emsp;(3) provide such additional assistance to such covered employees and other potential claimants as may be required for the development of facts pertinent to a claim.
+&emsp;(3) provide such additional assistance to such covered employees and other potentialclaimants as may be required for the development of facts pertinent to a claim.
 
 #### (c) Information from beryllium vendors and other contractors
 
@@ -30,5 +30,5 @@ As part of the assistance program provided under subsections (a) and (b) of this
 
 #### Delegation of Functions
 
-For delegation of certain functions of the President under this section, see Ex. Ord. No. 13179, Dec. 7, 2000,65 F.R. 77487, set out as a note under section 7384 of this title.
+For delegation of certain functions of the President under this section, see Ex. Ord. No. 13179, Dec. 7, 2000, 65 F.R. 77487, set out as a note under section 7384 of this title.
 

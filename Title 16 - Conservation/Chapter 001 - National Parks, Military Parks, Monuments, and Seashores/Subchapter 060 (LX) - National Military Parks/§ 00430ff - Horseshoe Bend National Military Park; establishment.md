@@ -4,7 +4,3 @@ When not less than five hundred acres of the non-Federal lands hereinafter descr
 
 (July 25, 1956, ch. 729, §1, 70 Stat. 651.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430gg, 430ii, 430jj of this title.
-

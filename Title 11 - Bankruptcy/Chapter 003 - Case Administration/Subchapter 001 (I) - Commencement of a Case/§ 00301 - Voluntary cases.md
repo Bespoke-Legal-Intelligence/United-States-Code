@@ -14,7 +14,3 @@ Sections 301, 302, 303, and 304 are all modified in the House amendment to adopt
 
 Section 301 specifies the manner in which a voluntary bankruptcy case is commenced. The debtor files a petition under this section under the particular operative chapter of the bankruptcy code under which he wishes to proceed. The filing of the petition constitutes an order for relief in the case under that chapter. The section contains no change from current law, except for the use of the phrase “order for relief” instead of “adjudication.” The term adjudication is replaced by a less pejorative phrase in light of the clear power of Congress to permit voluntary bankruptcy without the necessity for an adjudication, as under the 1898 act \[former title 11\], which was adopted when voluntary bankruptcy was a concept not thoroughly tested.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 362, 365, 522, 541, 901, 921 of this title.
-

@@ -14,7 +14,3 @@ There is authorized to be appropriated $1,000,000 for fiscal year 1991 and such 
 
 (Pub. L. 101–185, §14, Nov. 28, 1989, 103 Stat. 1345.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80q–15 of this title.
-

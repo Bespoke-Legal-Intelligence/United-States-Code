@@ -22,7 +22,3 @@ The eligibility of any organization to represent producers of flowers and plants
 
 (Pub. L. 97–98, title XVII, §1716, Dec. 22, 1981, 95 Stat. 1357.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4304, 4306 of this title.
-

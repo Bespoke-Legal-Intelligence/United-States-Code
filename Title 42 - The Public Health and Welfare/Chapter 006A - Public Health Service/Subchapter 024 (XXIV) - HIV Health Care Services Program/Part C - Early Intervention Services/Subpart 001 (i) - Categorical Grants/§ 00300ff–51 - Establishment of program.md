@@ -86,9 +86,5 @@ Subsec. (c). Pub. L. 104–146, §12(c)(7)(B), substituted “exists” for “e
 
 Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–14, 300ff–22, 300ff–52, 300ff–53, 300ff–54, 300ff–55, 300ff–61 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

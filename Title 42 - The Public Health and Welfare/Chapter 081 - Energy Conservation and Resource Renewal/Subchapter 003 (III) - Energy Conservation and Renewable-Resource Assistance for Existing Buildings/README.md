@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—ENERGY CONSERVATION AND RENEWABLE-RESOURCE ASSISTANCE FOR EXISTING BUILDINGS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 8624 of this title.
-
 
 ---
 

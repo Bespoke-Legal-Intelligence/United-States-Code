@@ -28,7 +28,3 @@ The Wilderness Act, referred to in subsec. (a)(3), is Pub. L. 88–577, Sept. 3,
 
 The Colorado Wilderness Act of 1993, referred to in subsec. (a)(3), is Pub. L. 103–77, Aug. 13, 1993, 107 Stat. 756. For complete classification of this Act to the Code, see Short Title note set out under section 539i of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410hhh–1 of this title.
-

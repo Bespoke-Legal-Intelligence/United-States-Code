@@ -18,7 +18,7 @@ Except as otherwise provided in this subchapter, a financial institution may not
 
 #### (2) Exception
 
-&emsp;This subsection shall not prevent a financial institution from providing nonpublic personal information to a nonaffiliated third party to perform services for or functions on behalf of the financial institution, including marketing of the financial institution's own products or services, or financial products or services offered pursuant to joint agreements between two or more financial institutions that comply with the requirements imposed by the regulations prescribed under section 6804 of thistitle, if the financial institution fully discloses the providing of such information and enters into a contractual agreement with the third party that requires the third party to maintain the confidentiality of such information.
+&emsp;This subsection shall not prevent a financial institution from providing nonpublic personal information to a nonaffiliated third party to perform services for or functions on behalf of the financial institution, including marketing of the financial institution's own products or services, or financial products or services offered pursuant to joint agreements between two or more financial institutions that comply with the requirements imposed by the regulations prescribed under section 6804 of this title, if the financial institution fully discloses the providing of such information and enters into a contractual agreement with the third party that requires the third party to maintain the confidentiality of such information.
 
 #### (c) Limits on reuse of information
 
@@ -65,8 +65,4 @@ The Right to Financial Privacy Act of 1978, referred to in subsec. (e)(5), is ti
 Chapter 2 of title I of Public Law 91–508, referred to in subsec. (e)(5), is chapter 2 (§§121–129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking. For complete classification of chapter 2 to the Code, see Tables.
 
 The Fair Credit Reporting Act, referred to in subsec. (e)(6)(A), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1681b, 6803, 6804, 6809 of this title.
 

@@ -4,7 +4,3 @@ Pursuant to regulations prescribed under section 6103 of this title, and except 
 
 (Pub. L. 94–135, title III, §303, Nov. 28, 1975, 89 Stat. 728.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 6106a of this title.
-

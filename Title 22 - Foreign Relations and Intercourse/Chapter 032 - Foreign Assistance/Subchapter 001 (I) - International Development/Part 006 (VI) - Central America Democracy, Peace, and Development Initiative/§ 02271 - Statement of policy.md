@@ -50,7 +50,3 @@ A prior section 2271, Pub. L. 87–195, pt. I, §461, Sept. 4, 1961, 75 Stat. 43
 
 Part effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2272 of this title.
-

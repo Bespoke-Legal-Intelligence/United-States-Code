@@ -90,7 +90,7 @@ Grants awarded under this section may be used for programs that provide—
 
 #### (2) Availability of report
 
-&emsp;In order to coordinate efforts to assist the victims of domestic violence, the Attorney General, in coordination with the Director of the Violence Against Women Office, shall transmit a copy of the report submitted under paragraph (1) to—
+&emsp;In order to coordinate efforts to assist the victims of domestic violence, the Attorney General, in coordination with the Director of the Violence Against Women Office, shalltransmit a copy of the report submitted under paragraph (1) to—
 
 &emsp;&emsp;(A) the Office of Community Planning and Development at the United States Department of Housing and Urban Development; and
 

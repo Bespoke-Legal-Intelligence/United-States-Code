@@ -46,7 +46,3 @@ If, on or before the date that the President is required (but for this subsectio
 
 (Pub. L. 105–292, title IV, §404, Oct. 27, 1998, 112 Stat. 2805.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6441, 6442, 6448 of this title.
-

@@ -8,7 +8,3 @@ The general purpose of the National Institute of Allergy and Infectious Diseases
 
 1993—Pub. L. 103–43 inserted before period at end “, including tropical diseases”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 285f–2 of this title.
-

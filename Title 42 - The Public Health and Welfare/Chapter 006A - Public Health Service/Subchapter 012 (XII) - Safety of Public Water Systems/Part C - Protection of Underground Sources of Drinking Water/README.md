@@ -1,9 +1,5 @@
 Part C—Protection of Underground Sources of Drinking Water
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 6939b, 9601 of this title; title 33 section 1345.
-
 
 ---
 

@@ -4,7 +4,7 @@
 
 The Secretaries, with the advice of the Board, shall prepare and implement a comprehensive plan for the coordinated program which shall be designed to—
 
-&emsp;(1) assess, collate data with respect to, analyze, and report, on a continuous basis, the dietary and nutritional status of the people of the United States, and the trends with respect to such status (dealing with such status and trends separately in the case of preschool and school-age children, pregnant and lactating women, elderly individuals, low-income populations, blacks, Hispanics, and other groups, at the discretion of the Secretaries), the state of the art with respect to nutrition monitoring and related research, future monitoring and related research priorities, and relevant policyimplications of findings with respect to such status, trends, and research;
+&emsp;(1) assess, collate data with respect to, analyze, and report, on a continuous basis, the dietary and nutritional status of the people of the United States, and the trends with respect to such status (dealing with such status and trends separately in the case of preschool and school-age children, pregnant and lactating women, elderly individuals, low-income populations, blacks, Hispanics, and other groups, at the discretion of the Secretaries), the state of the art with respect to nutrition monitoring and related research, future monitoring and related research priorities, and relevant policy implications of findings with respect to such status, trends, and research;
 
 &emsp;(2) sample representative subsets of identifiable low-income populations (such as Native Americans, Hispanics, or the homeless), and assess, analyze, and report, on a continuous basis, for a representative sample of the low-income population, food and household expenditures, participation in food assistance programs, and periods experienced when nutrition benefits are not sufficient to provide an adequate diet;
 
@@ -68,7 +68,7 @@ The comprehensive plan shall—
 
 #### (1) Proposed plan
 
-&emsp;Within 12 months after October 22, 1990, the Secretaries shall publish in the Federal Register a proposed comprehensive plan for public review for a comment period of no less than sixty days.
+&emsp;Within 12 months after October 22, 1990, the Secretaries shall publish in the Federal Register a proposed comprehensive plan for publicreview for a comment period of no less than sixty days.
 
 #### (2) Final plan
 
@@ -76,15 +76,11 @@ The comprehensive plan shall—
 
 #### (e) Prohibition on construing
 
-Nothing in this section may be construed as modifying, or as authorizing the Secretaries orthe comprehensive plan to modify, any provision of an appropriation Act (or any other provision of law relating to the use of appropriated funds) that specifies—
+Nothing in this section may be construed as modifying, or as authorizing the Secretaries or the comprehensive plan to modify, any provision of an appropriation Act (or any other provision of law relating to the use of appropriated funds) that specifies—
 
 &emsp;(1) the department or agency to which funds are appropriated; or
 
 &emsp;(2) the obligations of such department or agency with respect to the use of such funds.
 
 (Pub. L. 101–445, title I, §103, Oct. 22, 1990, 104 Stat. 1037.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5302, 5312, 5314, 5331 of this title.
 

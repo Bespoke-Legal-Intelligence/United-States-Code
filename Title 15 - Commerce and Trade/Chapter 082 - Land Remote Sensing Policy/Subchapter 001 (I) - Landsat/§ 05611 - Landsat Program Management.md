@@ -52,7 +52,7 @@ The Landsat Program Management may, subject to appropriations and only under the
 
 &emsp;&emsp;(A) a broad range of perspectives on basic and applied science and operational needs with respect to land remote sensing data;
 
-&emsp;&emsp;(B) the full spectrum of users of Landsat data, including representatives from United States Government agencies, State and local government agencies, academic institutions, nonprofit organizations, value-added companies, the agricultural, mineral extraction, and other user industries, and the public, and
+&emsp;&emsp;(B) the full spectrum of users of Landsat data, including representatives from United States Government agencies, State and local government agencies, academic institutions, nonprofit organizations, value-added companies, the agricultural, mineral extraction,and other user industries, and the public, and
 
 &emsp;&emsp;(C) a broad diversity of age groups, sexes, and races.
 
@@ -83,10 +83,6 @@ Pub. L. 103–139, title VIII, §8060, Nov. 11, 1993, 107 Stat. 1453, authorized
 Pub. L. 102–484, div. A, title II, §243, Oct. 23, 1992, 106 Stat. 2360, as amended by Pub. L. 103–35, title II, §202(a)(3), May 31, 1993, 107 Stat. 101.
 
 Pub. L. 102–396, title IX, §9082A, Oct. 6, 1992, 106 Stat. 1920.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5602, 5614 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -38,7 +38,3 @@ Section 3(d) of Pub. L. 102–291 provided that: “The following actions of the
 
 &emsp;“(2) The establishment of a nonprofit corporation for approved research under section 7361(a) of title 38, United States Code.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7809 of this title.
-

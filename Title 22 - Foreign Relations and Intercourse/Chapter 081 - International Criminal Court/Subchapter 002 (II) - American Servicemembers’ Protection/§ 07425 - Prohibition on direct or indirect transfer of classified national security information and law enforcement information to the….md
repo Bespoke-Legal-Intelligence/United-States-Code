@@ -14,7 +14,3 @@ The provisions of this section shall not be construed to prohibit any action per
 
 (Pub. L. 107–206, title II, §2006, Aug. 2, 2002, 116 Stat. 904.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7422, 7430 of this title.
-

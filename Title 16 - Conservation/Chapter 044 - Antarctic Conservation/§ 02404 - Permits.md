@@ -42,7 +42,7 @@ As soon as practicable after receiving any application for a permit under this s
 
 &emsp;(B) the period during which the permit is valid; and
 
-&emsp;(C) such other terms and conditions as the Director deems necessary and appropriate to ensure that any act authorized under the permit is carried out in a manner consistent with the purpose of this chapter, the criteria set forth in paragraph (2), if applicable, and the regulations prescribed under this chapter.
+&emsp;(C) such other terms and conditions as the Director deems necessary and appropriate to ensure that any act authorized under the permit is carried out in a manner consistent with the purpose of this chapter, the criteria setforth in paragraph (2), if applicable, and the regulations prescribed under this chapter.
 
 (2) The terms and conditions imposed by the Director in any permit issued under this section that authorizes any of the following acts shall be consistent with the following criteria:
 
@@ -116,7 +116,7 @@ The Migratory Bird Treaty Act (16 U.S.C. 701 et seq.), referred to in subsec. (c
 
 Subsec. (c)(1)(B). Pub. L. 104–227, §105(2), substituted “Species” for “Special”.
 
-Subsec. (e)(1)(A). Pub. L. 104–227, §105(3)(A), (B), in subsec. (e) relating to terms and conditions of permits substituted “native plants, or native invertebrates to which the permit applies, and” for “or native plants to which the permit applies,” in cl. (i), added cl. (ii), and struck out former cls. (ii) and (iii) which read as follows:
+Subsec. (e)(1)(A). Pub. L. 104–227, §105(3)(A), (B), in subsec. (e) relating to terms and conditions of permits substituted “native plants, or native invertebrates to which the permit applies, and” for “or native plants towhich the permit applies,” in cl. (i), added cl. (ii), and struck out former cls. (ii) and (iii) which read as follows:
 
 “(ii) if any such mammal or bird is authorized to be taken, transported, carried, or shipped, the manner (which manner must be determined by the Director to be humane) in which such action must be accomplished and the area in which such taking must occur, and
 
@@ -139,10 +139,6 @@ Subsec. (e)(2)(C), (D). Pub. L. 104–227, §105(3)(H), in subsec. (e) relating 
 &emsp;“(ii) shall not allow the operation of any surface vehicle within such area.
 
 “(D) Permits authorizing the entry into any site of special scientific interest shall be consistent with the management plan prescribed under section 2405(b)(3) of this title for such site.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2403a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

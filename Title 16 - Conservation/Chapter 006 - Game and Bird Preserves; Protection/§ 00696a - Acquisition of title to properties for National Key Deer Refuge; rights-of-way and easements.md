@@ -4,7 +4,3 @@ In furtherance of the aforesaid purposes, the Secretary may take such action and
 
 (Pub. L. 85–164, §2, Aug. 22, 1957, 71 Stat. 412.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 696b of this title.
-

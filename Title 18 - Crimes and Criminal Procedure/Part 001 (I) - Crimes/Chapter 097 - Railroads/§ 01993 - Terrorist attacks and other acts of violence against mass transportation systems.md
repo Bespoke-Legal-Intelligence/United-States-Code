@@ -10,7 +10,7 @@ General Prohibitions.—Whoever willfully—
 
 &emsp;(3) sets fire to, or places any biological agent or toxin for use as a weapon, destructive substance, or destructive device in, upon, or near any garage, terminal, structure, supply, or facility used in the operation of, or in support of the operation of, a mass transportation vehicle or ferry, without previously obtaining the permission of the mass transportation provider, and knowing or having reason to know such activity would likely derail, disable, or wreck a mass transportation vehicle or ferry used, operated, or employed by the mass transportation provider;
 
-&emsp;(4) removes appurtenances from, damages, or otherwise impairs the operation of a mass transportation signal system, including a train control system, centralized dispatching system, or rail grade crossing warning signal without authorization from the mass transportation provider;
+&emsp;(4) removes appurtenances from, damages, or otherwise impairs the operation of a masstransportation signal system, including a train control system, centralized dispatching system, or rail grade crossing warning signal without authorization from the mass transportation provider;
 
 &emsp;(5) interferes with, disables, or incapacitates any dispatcher, driver, captain, or person while they are employed in dispatching, operating, or maintaining a mass transportation vehicle or ferry, with intent to endanger the safety of any passenger or employee of the mass transportation provider, or with a reckless disregard for the safety of human life;
 
@@ -59,8 +59,4 @@ Definitions.—In this section—
 #### Amendments
 
 2003—Subsec. (c)(9). Pub. L. 108–21 added par. (9).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2332b, 2339A of this title.
 

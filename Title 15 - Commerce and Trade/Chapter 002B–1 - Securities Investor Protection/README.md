@@ -83,10 +83,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 78c of this title; title 7 section 12a; title 11 sections 555, 559, 742.
-
 
 ---
 

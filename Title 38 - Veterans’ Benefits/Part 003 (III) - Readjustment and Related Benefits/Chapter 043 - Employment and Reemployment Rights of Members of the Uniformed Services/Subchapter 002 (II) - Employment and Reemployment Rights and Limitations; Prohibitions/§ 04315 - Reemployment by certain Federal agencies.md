@@ -38,7 +38,3 @@ A prior section 4315 was renumbered section 7615 of this title.
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4313, 4319, 4325 of this title.
-

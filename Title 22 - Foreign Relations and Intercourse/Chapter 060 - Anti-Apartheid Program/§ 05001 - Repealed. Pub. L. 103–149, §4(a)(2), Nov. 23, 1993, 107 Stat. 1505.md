@@ -36,7 +36,7 @@ Pub. L. 103–149, Nov. 23, 1993, 107 Stat. 1503, provided that:
 
 &emsp;“(7) In light of recent developments, the continuation of these economic sanctions is detrimental to persons disadvantaged by apartheid.
 
-&emsp;“(8) Those calling for the lifting of economic sanctions against South Africa have made clear that they do not seek the immediate termination of the United Nations-sponsored special sanctions relating to arms transfers, nuclear cooperation, and exports of oil. TheAd Hoc Committee on Southern Africa of the Organization of African Unity, for example, has urged that the oil embargo established pursuant to a 1986 General Assembly resolution be lifted after the establishment and commencement of the work of the Transitional Executive Council.
+&emsp;“(8) Those calling for the lifting of economic sanctions against South Africa have made clear that they do not seek the immediate termination of the United Nations-sponsored special sanctions relating to arms transfers, nuclear cooperation, and exports of oil. The Ad Hoc Committee on Southern Africa of the Organization of African Unity, for example, has urged that the oil embargo established pursuant to a 1986 General Assembly resolution be lifted after the establishment and commencement of the work of the Transitional Executive Council.
 
 #### “SEC. 3. UNITED STATES POLICY.
 
@@ -234,11 +234,11 @@ United states government procurement.—To the extent not inconsistent with the 
 
 “(a)
 
-In General.—The President should encourage other donors, particularly Japan and the European Community countries, to expand their activities in support of the transition to nonracial democracy in South Africa.
+In General.—The President should encourage other donors, particularly Japan and the EuropeanCommunity countries, to expand their activities in support of the transition to nonracial democracy in South Africa.
 
 “(b)
 
-International Financial Institutions.—The Secretary of the Treasury should instruct the United States Executive Director of each relevant international financial institution, including the International Bank for Reconstruction and Developmentand the International Development Association, to urge that institution to initiate or expand its lending and other financial assistance activities to South Africa in order to support the transition to nonracial democracy in South Africa.
+International Financial Institutions.—The Secretary of the Treasury should instruct the United States Executive Director of each relevant international financial institution, including the International Bank for Reconstruction and Development and the International Development Association, to urge that institution to initiate or expand its lending and other financial assistance activities to South Africa in order to support the transition to nonracial democracy in South Africa.
 
 “(c)
 

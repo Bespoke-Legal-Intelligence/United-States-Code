@@ -4,7 +4,3 @@ Any member of the tribe whose name appears on the proposed roll of full-blood me
 
 (Aug. 27, 1954, ch. 1009, §4, 68 Stat. 868.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 677a, 677g of this title.
-

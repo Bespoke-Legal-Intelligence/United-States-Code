@@ -16,7 +16,3 @@ The order may modify and correct the award, so as to effect the intent thereof a
 
 Act Feb. 12, 1925, ch. 213, §11, 43 Stat. 885.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9 of this title; title 5 sections 580, 581; title 8 section 1182; title 25 section 415; title 41 section 607.
-

@@ -6,9 +6,5 @@
 
 (Pub. L. 96–294, title VI, §613, June 30, 1980, 94 Stat. 764.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1511 of this title.
-
 <i><sup>1</sup></i><i> So in original. Should be “(42 U.S.C. 1962d–17(a)).”</i>
 

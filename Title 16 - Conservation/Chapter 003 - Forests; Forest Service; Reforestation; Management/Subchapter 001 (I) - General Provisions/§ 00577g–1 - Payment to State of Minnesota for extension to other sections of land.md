@@ -12,7 +12,3 @@ Section 5 of act June 22, 1948, as it read prior to amendment by act June 22, 19
 
 1956—Act June 22, 1956, amended section with respect to the lands described in section 577d–1 by revising the proviso to fix the due date of the first payment to Minnesota as of the close of the fiscal year 1959. For payment for lands described in section 577d, see section 577g of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 577d–1, 577h, 1133 of this title; title 31 section 6903.
-

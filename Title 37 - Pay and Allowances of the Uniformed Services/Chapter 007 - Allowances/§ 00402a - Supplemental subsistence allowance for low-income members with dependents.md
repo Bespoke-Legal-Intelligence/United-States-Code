@@ -6,7 +6,7 @@ Supplemental Allowance Required.—(1) The Secretary concerned shall increase th
 
 (2) The supplemental subsistence allowance may not exceed $500 per month. In establishing the amount of the supplemental subsistence allowance to be paid an eligible member under this paragraph, the Secretary shall take into consideration the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
 
-(3) In the case of a member described in subsection (b) who establishes to the satisfaction of the Secretary concerned that the allotment of the member's household under the food stamp program, calculated in the absence of the supplemental subsistence allowance, would exceed the amount established by the Secretary concerned under paragraph (2), the amount of the supplemental subsistence allowance for the member shall be equal to the lesser of the following:
+(3) In the case of a member described in subsection (b) who establishes to the satisfaction of the Secretary concerned that the allotment of the member's household under the food stampprogram, calculated in the absence of the supplemental subsistence allowance, would exceed the amount established by the Secretary concerned under paragraph (2), the amount of the supplemental subsistence allowance for the member shall be equal to the lesser of the following:
 
 &emsp;(A) The value of that allotment.
 
@@ -16,11 +16,17 @@ Supplemental Allowance Required.—(1) The Secretary concerned shall increase th
 
 Members Entitled to Allowance.—(1) Subject to subsection (d), a member of the armed forces with dependents is entitled to receive the supplemental subsistence allowance if the Secretary concerned determines that the member's income, together with the income of the rest of the member's household (if any), is within the highest income standard of eligibility, as then in effect under section 5(c) of the Food Stamp Act of 1977 (7 U.S.C. 2014(c)) and without regard to paragraph (1) of such section, for participation in the food stamp program.
 
-(2) In determining whether a member meets the eligibility criteria under paragraph (1), the Secretary—
+(2) In determining whether a member meets the eligibility criteria under paragraph (1), the Secretary concerned shall take into consideration
 
-&emsp;(A) shall not take into consideration the amount of the supplemental subsistence allowance payable under this section; but
+the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
 
-&emsp;(B) shall take into consideration the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
+(3) In determining whether a member meets the eligibility criteria under paragraph (1), the Secretary concerned shall not take into consideration—
+
+&emsp;(A) the amount of the supplemental subsistence allowance that is payable under this section;
+
+&emsp;(B) the amount of any special pay that is payable to the member under section 310 of this section,<sup>1</sup> relating to duty subject to hostile fire or imminent danger; or
+
+&emsp;(C) the amount of any family separation allowance that is payable to the member under section 427 of this title.
 
 (c)
 
@@ -46,6 +52,22 @@ Reporting Requirement.—Not later than March 1 of each year after 2001, the Sec
 
 (g)
 
+Eligibility for Other Federal Assistance.—(1) A child or spouse of a member of the armed forces receiving the supplemental subsistence allowance under this section who, except on account of the receipt of such allowance, would be eligible to receive a benefit described in paragraph (2) shall be considered to be eligible for that benefit notwithstanding the receipt of such allowance.
+
+(2) The benefits referred to in paragraph (1) are as follows:
+
+&emsp;(A) Assistance provided under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
+
+&emsp;(B) Assistance provided under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
+
+&emsp;(C) A service provided under the Head Start Act (42 U.S.C. 9831 et seq.).
+
+&emsp;(D) Assistance under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.).
+
+(3) A household that includes a member of the armed forces receiving the supplemental subsistence allowance under this section and that, except on account of the receipt of such allowance, would be eligible to receive a benefit under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621 et seq.) shall be considered to be eligible for that benefit notwithstanding the receipt of such allowance.
+
+(h)
+
 Definitions.—In this section:
 
 &emsp;(1) The term “Secretary concerned” means—
@@ -58,17 +80,39 @@ Definitions.—In this section:
 
 &emsp;(3) The term “food stamp program” means the program established pursuant to section 4 of the Food Stamp Act of 1977 (7 U.S.C. 2013).
 
-(h)
+(i)
 
 Termination of Authority.—No supplemental subsistence allowance may be provided under this section after September 30, 2006.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–145; amended Pub. L. 107–107, div. A, title VI, §604(d), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–145;amended Pub. L. 107–107, div. A, title VI, §604(d), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §602(a), (b), Oct. 28, 2004, 118 Stat. 1943.)
+
+#### References in Text
+
+The Richard B. Russell National School Lunch Act, referred to in subsec. (g)(2)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+
+The Child Nutrition Act of 1966, referred to in subsec. (g)(2)(B), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+
+The Head Start Act, referred to in subsec. (g)(2)(C), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (g)(2)(D), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+
+The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (g)(3), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified principally to subchapter II (§8621 et seq.) of chapter 94 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
 
 #### Amendments
+
+2004—Subsec. (b)(2). Pub. L. 108–375, §602(a)(1), substituted “concerned” for dash after “Secretary” and struck out “(A) shall not take into consideration the amount of the supplemental subsistence allowance payable under this section; but” and subpar. (B) designation before “shall take”.
+
+Subsec. (b)(3). Pub. L. 108–375, §602(a)(2), added par. (3).
+
+Subsecs. (g) to (i). Pub. L. 108–375, §602(b), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 2002—Subsec. (g)(1)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 2001—Subsec. (b)(1). Pub. L. 107–107 inserted “with dependents” after “a member of the armed forces”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–375, div. A, title VI, §602(c), Oct. 28, 2004, 118 Stat. 1944, provided that: “The amendments made by this section \[amending this section\] shall apply in determining, on or after the date of the enactment of this Act \[Oct. 28, 2004\], the eligibility of a person for a supplemental subsistence allowance under section 402a of title 37, United States Code, or for Federal assistance under a law specified in subsection (g) of such section, as so amended.”
 
 #### Effective Date of 2002 Amendment
 
@@ -77,4 +121,6 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date
 
 Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–147, provided that: “Section 402a of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month that begins not less than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “title,”.</i>
 

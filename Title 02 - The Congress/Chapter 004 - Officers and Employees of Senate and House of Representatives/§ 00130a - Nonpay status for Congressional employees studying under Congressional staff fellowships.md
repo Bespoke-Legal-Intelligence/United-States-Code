@@ -20,7 +20,7 @@
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 designated existing provisions as subsec. (a), in par. (1) substituted “Chief Administrative Officer” for “Clerk”, in provisions following par. (2) substituted “the purposes of the provisions of law specified in subsection (b) of this section, if the award” for “the purposes of—
+1996—Pub. L. 104–186 designated existing provisions as subsec. (a), in par. (1) substituted “Chief Administrative Officer” for “Clerk”, in provisions following par. (2) substituted “the purposes of the provisions of law specified in subsection (b) of this section, if the award” for “the purposes of—
 
 &emsp;“(A) subchapter III (relating to civil service retirement) of chapter 83 of title 5,
 

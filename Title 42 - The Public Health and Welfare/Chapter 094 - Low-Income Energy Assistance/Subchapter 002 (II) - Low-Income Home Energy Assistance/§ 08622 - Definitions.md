@@ -12,7 +12,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(D) a significant increase in home energy disconnections reported by a utility, a State regulatory agency, or another agency with necessary data;
 
-&emsp;&emsp;(E) a significant increase in participation in a public benefit program such as the food stamp program carried out under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), the national program to provide supplemental security income carried out under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.), or the State temporary assistance for needy families program carried out under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), as determined by the head of the appropriate Federal agency;
+&emsp;&emsp;(E) a significant increase in participation in a public benefit program such as the foodstamp program carried out under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), the national program to provide supplemental security income carried out under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.), or the State temporary assistance for needy families program carried out under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), as determined by the head of the appropriate Federal agency;
 
 &emsp;&emsp;(F) a significant increase in unemployment, layoffs, or the number of households with an individual applying for unemployment benefits, as determined by the Secretary of Labor; or
 
@@ -22,7 +22,7 @@ As used in this subchapter:
 
 &emsp;(3) The term “energy crisis” means weather-related and supply shortage emergencies and other household energy-related emergencies.
 
-&emsp;(4) The term “highest home energy needs” means the home energy requirements of a household determined by taking into account both the energy burden of such household andthe unique situation of such household that results from having members of vulnerable populations, including very young children, individuals with disabilities, and frail older individuals.
+&emsp;(4) The term “highest home energy needs” means the home energy requirements of a household determined by taking into account both the energy burden of such household and the unique situation of such household that results from having members of vulnerable populations, including very young children, individuals with disabilities, and frail older individuals.
 
 &emsp;(5) The term “household” means any individual or group of individuals who are living together as one economic unit for whom residential energy is customarily purchased in common or who make undesignated payments for energy in the form of rent.
 
@@ -87,8 +87,4 @@ Amendment by Pub. L. 103–252 effective Oct. 1, 1994, see section 314 of Pub. L
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–558 effective Oct. 30, 1984, see section 609(a) of Pub. L. 98–558, set out as a note under section 8621 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8626b of this title.
 

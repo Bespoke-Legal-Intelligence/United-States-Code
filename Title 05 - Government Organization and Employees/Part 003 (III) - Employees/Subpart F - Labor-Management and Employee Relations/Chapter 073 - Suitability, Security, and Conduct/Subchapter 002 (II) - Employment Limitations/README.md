@@ -4,10 +4,6 @@
 
 1968—Pub. L. 90–351, title V, §1001(c), June 19, 1968, 82 Stat. 235, substituted “EMPLOYMENT LIMITATIONS” for “LOYALTY, SECURITY, AND STRIKING” in subchapter heading.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 22 section 3664.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 

@@ -4,7 +4,7 @@ Section 907, Pub. L. 93–203, title IV, §431, as added Pub. L. 95–524, §2, 
 
 Provisions similar to those comprising this section were contained in former section 894 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 908, Pub. L. 93–203, title IV, §432, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1982, related toyouth employment and training programs eligible to receive financial assistance.
+Section 908, Pub. L. 93–203, title IV, §432, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1982, related to youth employment and training programs eligible to receive financial assistance.
 
 Provisions similar to those comprising this section were contained in former section 894a of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

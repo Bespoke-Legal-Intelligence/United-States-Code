@@ -10,7 +10,3 @@ The Steese National Conservation Area shall include approximately one million tw
 
 (Pub. L. 96–487, title IV, §401, Dec. 2, 1980, 94 Stat. 2396.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460mm–1 of this title.
-

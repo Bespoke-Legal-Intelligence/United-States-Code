@@ -4,11 +4,11 @@
 
 #### (1) Purpose; eligible recipients
 
-&emsp;From sums appropriated pursuant to paragraphs (3) and (4)(A) of section 1071(b) of this title, the Secretary is authorized to make advances to any State with which the Secretary has made an agreement pursuant to section 1078(b) of this title for the purpose of helping to establish or strengthen the reserve fund of the student loan insurance program covered by that agreement. If for any fiscal year a State does not have a student loan insurance program covered by an agreement made pursuant to section 1078(b) of this title, and the Secretary determines after consultation with the chief executive officer of that State that there is no reasonable likelihood that the State will have such a student loan insurance program for such year, the Secretary may make advances for such year for the same purpose to one or more nonprofit private institutions or organizations with which the Secretary has made an agreement pursuant to section 1078(b) of this title in order to enable students in the State to participate in a program of student loan insurance covered by such an agreement. The Secretary may make advances under this subsection both to a State program (with which he has such an agreement) and to one or more nonprofit private institutions or organizations (with which he has such an agreement) in that State if he determines that such advances are necessary in order that students in each eligible institution have access through such institution to a student loan insurance program which meets the requirements of section 1078(b)(1) of this title.
+&emsp;From sums appropriated pursuant to paragraphs (3) and (4)(A) of section 1071(b) of this title, the Secretary is authorized to make advances to any State with which the Secretary has made an agreement pursuant to section 1078(b) of this title for the purpose of helping to establish or strengthen the reserve fund of the student loan insurance program covered by that agreement. If for any fiscal year a State does not have a student loan insurance program covered by an agreement made pursuant to section 1078(b) of this title, and the Secretary determines after consultation with the chief executive officer of that State that there is no reasonable likelihood that the State will have such a student loan insurance program for such year, the Secretary may make advances for such year for the same purpose to one or more nonprofit private institutions or organizations with which the Secretary has made an agreement pursuant to section 1078(b) of this title in order to enable students in the State to participate in a program of student loan insurance covered by such an agreement. The Secretary may make advances under this subsection both to a State program (with which he has such an agreement) and to one or more nonprofit private institutions or organizations (with which he has such an agreement) in that State if he determines that such advances are necessary in order that students in each eligible institution have access throughsuch institution to a student loan insurance program which meets the requirements of section 1078(b)(1) of this title.
 
 #### (2) Matching requirement
 
-&emsp;No advance shall be made after June 30, 1968, unless matched by an equal amount from non-Federal sources. Such equal amount may include the unencumbered non-Federal portionof a reserve fund. As used in the preceding sentence, the term “unencumbered non-Federal portion” means the amount (determined as of the time immediately preceding the making of the advance) of the reserve fund less the greater of—
+&emsp;No advance shall be made after June 30, 1968, unless matched by an equal amount from non-Federal sources. Such equal amount may include the unencumbered non-Federal portion of a reserve fund. As used in the preceding sentence, the term “unencumbered non-Federal portion” means the amount (determined as of the time immediately preceding the making of the advance) of the reserve fund less the greater of—
 
 &emsp;&emsp;(A) the sum of—
 
@@ -120,7 +120,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall pay any guaranty agency the amount of reimbursement of claims under section 1078(c)(1) of this title, filed between September 1, 1988, and December 31, 1989, which were previously withheld or canceled in order to be applied to satisfy such agency's obligation to eliminate excess cash reserves held by such agency, based on the maximum cash reserve (as described in subsection (e) of this section as in effect on September 1, 1988) permitted at the end of 1986, if such maximum cash reserve was miscalculatedbecause of erroneous financial information provided by such agency to the Secretary and if (A) such erroneous information is verified by an audited financial statement of the reserve fund, signed by a certified public accountant, and (B) such audited financial statement is provided to the Secretary prior to January 1, 1993.
+&emsp;The Secretary shall pay any guaranty agency the amount of reimbursement of claimsunder section 1078(c)(1) of this title, filed between September 1, 1988, and December 31, 1989, which were previously withheld or canceled in order to be applied to satisfy such agency's obligation to eliminate excess cash reserves held by such agency, based on the maximum cash reserve (as described in subsection (e) of this section as in effect on September 1, 1988) permitted at the end of 1986, if such maximum cash reserve was miscalculated because of erroneous financial information provided by such agency to the Secretary and if (A) such erroneous information is verified by an audited financial statement of the reserve fund, signed by a certified public accountant, and (B) such audited financial statement is provided to the Secretary prior to January 1, 1993.
 
 #### (2) Amount
 
@@ -164,7 +164,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (4) Availability of funds
 
-&emsp;Any funds that are returned or otherwise recovered by the Secretary pursuant to this subsection shall be available for expenditure forexpenses pursuant to section 1087h of this title.
+&emsp;Any funds that are returned or otherwise recovered by the Secretary pursuant to this subsection shall be available for expenditure for expenses pursuant to section 1087h of this title.
 
 #### (h) Recall of reserves; limitations on use of reserve funds and assets
 
@@ -383,8 +383,4 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 #### Effective Date of 1987 Amendment
 
 Section 3002(a) of Pub. L. 100–203 provided that the amendment made by that section 3002(a) is effective Sept. 30, 1989.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1071, 1072a, 1072b, 1073, 1078, 1078–1, 1081 of this title.
 

@@ -30,7 +30,3 @@ Oct. 11, 1996, Pub. L. 104–285, title II, §202(b), 110 Stat. 3382.
 
 The National Film Preservation Act of 1996, referred to in par. (2), is title I of Pub. L. 104–285, Oct. 11, 1996, 110 Stat. 3377, which is classified principally to section 179<i>l</i> et seq. of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 179<i>l</i> of Title 2 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 151709 of this title.
-

@@ -8,7 +8,3 @@ There is established in the Department of the Treasury an entity to be known as 
 
 A prior section 804 of Pub. L. 87–195, pt. V, was classified to section 2434 of this title prior to repeal by Pub. L. 94–329.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2431a of this title.
-

@@ -58,7 +58,3 @@ Exception.—Sections 4, 5, 6, 7, and 8 \[probably means sections 604 to 608 of 
 
 Pub. L. 106–568, title VI, §601, Dec. 27, 2000, 114 Stat. 2906, provided that: “This title \[enacting this subchapter and provisions set out as a note above\] may be cited as the ‘Torres-Martinez Desert Cahuilla Indians Claims Settlement Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1778f of this title.
-

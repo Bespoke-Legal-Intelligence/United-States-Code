@@ -32,7 +32,7 @@ Definition of Sea Duty.—(1) In this section, the term “sea duty” means dut
 
 (2) The Secretary concerned may designate duty performed by a member while serving on a ship the primary mission of which is accomplished either while under way or in port as “sea duty” for purposes of this section, even though the duty is performed while the member is permanently or temporarily assigned to a ship-based staff or other unit not covered by paragraph (1).
 
-(3) For the purpose of determining the years of sea duty with which a member may be credited for purposes of this section, the term “sea duty” also includes duty performed after December 31, 1988, by a member while permanently or temporarily assigned to a ship or ship-based staff and while serving on a ship on which the member would be entitled, during a period that the shipis away from its homeport, to receive sea pay by reason of paragraph (1)(B).
+(3) For the purpose of determining the years of sea duty with which a member may be credited for purposes of this section, the term “sea duty” also includes duty performed after December 31, 1988, by a member while permanently or temporarily assigned to a ship or ship-based staff and while serving on a ship on which the member would be entitled, during a period that the ship is away from its homeport, to receive sea pay by reason of paragraph (1)(B).
 
 (4) A ship shall be considered to be away from its homeport for purposes of this subsection when it is—
 
@@ -159,8 +159,4 @@ Pub. L. 95–485, title VIII, §804(a)(2), Oct. 20, 1978, 92 Stat. 1620, which a
 #### Determination of Amount of Sea Credit; Periods Prior to October 1, 1978
 
 Section 804(a)(3) of Pub. L. 95–485 provided that: “In determining the amount of sea duty to be credited to an enlisted member of a uniformed service for purposes of section 305a of title 37, United States Code (as added by paragraph (1)), the Secretary concerned shall credit such member with all periods of service by such member before October 1, 1978, during which such member served in a sea duty status.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 907 of this title.
 

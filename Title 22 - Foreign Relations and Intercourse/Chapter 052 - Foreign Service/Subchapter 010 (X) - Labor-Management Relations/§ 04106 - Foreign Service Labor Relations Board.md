@@ -22,7 +22,3 @@ The Chairperson may remove any other Board member, upon written notice, for corr
 
 (Pub. L. 96–465, title I, §1006, Oct. 17, 1980, 94 Stat. 2131.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4102 of this title.
-

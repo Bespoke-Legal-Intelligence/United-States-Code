@@ -110,7 +110,3 @@ A grant awarded under this part may not be made in an amount that is less than $
 
 (Pub. L. 89–10, title IV, §4204, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1769.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7172, 7173 of this title.
-

@@ -32,7 +32,7 @@ Pub. L. 102–54 substituted “401” for “201” in concluding provisions.
 
 Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1984—Subsec. (a). Pub. L. 98–223, §213(2), substituted “section 214 of the Social Security Act (42 U.S.C. 414)” for “section 414 of title 42” in par. (1), “section 202 of the Social Security Act (42 U.S.C. 402)” for “section 402 of title 42” in par. (3), and “title II of the Social Security Act (42 U.S.C. 201 et seq.)” for “subchapter II of chapter 7 of title 42” in provision following par. (3).
+1984—Subsec. (a). Pub. L. 98–223, §213(2), substituted “section 214 of the Social Security Act (42 U.S.C. 414)” for “section 414 of title 42” in par. (1), “section 202 of the Social Security Act (42 U.S.C. 402)” for “section 402of title 42” in par. (3), and “title II of the Social Security Act (42 U.S.C. 201 et seq.)” for “subchapter II of chapter 7 of title 42” in provision following par. (3).
 
 1976—Subsec. (a). Pub. L. 94–433 substituted “such veteran's” for “his” in cls. (1) and (3) and in text following cl. (3) and “such veteran” for “he” in cl. (3).
 
@@ -53,8 +53,4 @@ Section 3 of Pub. L. 87–268 provided that: “The amendments made by this Act 
 #### Filing of Application for Benefits
 
 Section 2 of Pub. L. 87–268 provided that the increased pension benefits authorized by Pub. L. 87–268 were to be payable from the effective date of Pub. L. 87–268 to anyone receiving dependency and indemnity compensation on such date only if the application for such increased benefits were filed with the Veterans’ Administration within one year from such date and evidence of entitlement were of record or received within one year from the date of request therefor.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 107, 1315, 1322 of this title.
 

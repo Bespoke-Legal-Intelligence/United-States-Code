@@ -48,7 +48,3 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(4)(B), is Pub. L.
 
 The Negotiated Rulemaking Act of 1990, referred to in subsec. (b)(4)(B), is Pub. L. 101–648, Nov. 29, 1990, 104 Stat. 4969, as amended, which enacted subchapter III (§561 et seq.) of chapter 5 of Title 5, Government Organization and Employees, and provisions set out as notes under section 561 of Title 5. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 561 of Title 5 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6572 of this title.
-

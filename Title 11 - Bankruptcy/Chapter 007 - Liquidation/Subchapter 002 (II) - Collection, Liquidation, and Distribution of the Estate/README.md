@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—COLLECTION, LIQUIDATION, AND DISTRIBUTION OF THE ESTATE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 103 of this title; title 15 section 78fff.
-
 
 ---
 

@@ -28,7 +28,3 @@ Committee on Natural Resources of House of Representatives treated as referring 
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1494, 1494b of this title.
-

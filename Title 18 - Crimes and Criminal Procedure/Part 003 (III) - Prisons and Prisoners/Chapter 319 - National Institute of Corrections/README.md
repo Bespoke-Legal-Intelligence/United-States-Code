@@ -16,10 +16,6 @@
 
 1974—Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1139, added chapter heading.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 42 section 3769a.
-
 <i><sup>1</sup></i><i> Editorially supplied. Sections 4351 and 4352 added by Pub. L. 93–415 without corresponding enactment of chapter analysis.</i>
 
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; appointment of Counsel and Deputy Counsel; Senate approval; reappointment; compensation
 
-(1) There is established, as an office of the Senate, the Office of Senate Legal Counsel (hereinafter referred to as the “Office”), which shall be headed by a Senate Legal Counsel (hereinafter referred to as the “Counsel”); and there shall be a Deputy Senate Legal Counsel (hereinafter referred to as the “Deputy Counsel”) who shall perform such duties as may be assigned to him by the Counsel and who, during any absence, disability, or vacancy in the position of the Counsel, shall serve as Acting Senate Legal Counsel.
+(1) There is established, as an office of the Senate, the Office of Senate Legal Counsel (hereinafter referred to as the “Office”), which shall be headed by a Senate Legal Counsel (hereinafter referred to as the “Counsel”); and there shall be a Deputy Senate Legal Counsel (hereinafter referred to as the “Deputy Counsel”) whoshall perform such duties as may be assigned to him by the Counsel and who, during any absence, disability, or vacancy in the position of the Counsel, shall serve as Acting Senate Legal Counsel.
 
 (2) The Counsel and the Deputy Counsel each shall be appointed by the President pro tempore of the Senate from among recommendations submitted by the majority and minority leaders of the Senate. Any appointment made under this paragraph shall be made without regard to political affiliation and solely on the basis of fitness to perform the duties of the position. Any person appointed as Counsel or Deputy Counsel shall be learned in the law, a member of the bar of a State or the District of Columbia, and shall not engage in any other business, vocation, or employment during the term of such appointment.
 
@@ -32,7 +32,7 @@ The counsel <sup>1</sup> may delegate authority for the performance of any func
 
 #### (f) Attorney-client relationship
 
-The Counsel and other employees of the Office shall maintain the attorney-client relationship with respect to all communications betweenthem and any Member, officer, or employee of the Senate.
+The Counsel and other employees of the Office shall maintain the attorney-client relationship with respect to all communications between them and any Member, officer, or employee of the Senate.
 
 (Pub. L. 95–521, title VII, §701, Oct. 26, 1978, 92 Stat. 1875.)
 

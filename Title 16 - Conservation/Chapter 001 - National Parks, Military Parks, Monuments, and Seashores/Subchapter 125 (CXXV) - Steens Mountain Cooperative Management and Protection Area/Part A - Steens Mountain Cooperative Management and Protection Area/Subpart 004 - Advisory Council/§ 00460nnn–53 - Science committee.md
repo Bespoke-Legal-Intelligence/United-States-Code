@@ -4,7 +4,3 @@ The Secretary shall appoint, as needed or at the request of the advisory council
 
 (Pub. L. 106–399, title I, §133, Oct. 30, 2000, 114 Stat. 1666.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460nnn of this title.
-

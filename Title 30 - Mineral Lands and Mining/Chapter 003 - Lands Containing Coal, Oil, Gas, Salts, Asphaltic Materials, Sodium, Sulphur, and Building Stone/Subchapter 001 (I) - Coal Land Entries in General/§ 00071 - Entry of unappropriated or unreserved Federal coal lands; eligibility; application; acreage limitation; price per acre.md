@@ -24,7 +24,3 @@ Commenting on this section and sections 72 to 76 of this title the Department of
 
 “While there may be some Indian lands still subject to coal entry by virtue of the provisions of law opening such lands to entry, the coal land laws generally were superseded by the leasing Act of Feb. 25, 1920, 41 Stat. 437 \[section 181 et seq. of this title\], and it is at least questionable whether the coal land laws should be carried into the Code.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 47, 72, 74, 75, 76, 102 of this title.
-

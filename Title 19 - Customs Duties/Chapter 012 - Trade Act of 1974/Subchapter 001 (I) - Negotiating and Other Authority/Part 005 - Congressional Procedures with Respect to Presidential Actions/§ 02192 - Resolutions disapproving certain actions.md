@@ -22,11 +22,11 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 &emsp;(B) is not in order after the Committee <sup>1</sup> has reported a resolution with respect to the same matter.
 
-(2) A motion to discharge under paragraph (1) may be made only by an individual favoring the resolution, and is highly privileged in the House and privileged in the Senate; and debate thereon shall be limited to not more than 1 hour, the time to be divided in the House equally between those favoring and those opposing the resolution, and to be divided in the Senate equally between, and controlled by, the majority leader and the minority leader or their designees. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(2) A motion to discharge under paragraph (1) may be made only by an individual favoring the resolution, and is highly privileged in the House and privileged in the Senate; and debate thereon shall be limited to not more than 1 hour, the time to be divided in the House equally between those favoring and those opposing the resolution, and to be divided in the Senate equally between, and controlled by, the majority leader and the minority leader or their designees. An amendment to the motion is not in order, and itis not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 #### (d) Floor consideration in the House
 
-(1) A motion in the House of Representatives to proceed to the consideration of a resolution shall be highly privileged and not debatable. Anamendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(1) A motion in the House of Representatives to proceed to the consideration of a resolution shall be highly privileged and not debatable. An amendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 (2) Debate in the House of Representatives on a resolution shall be limited to not more than 20 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate shall not be debatable. No amendment to, or motion to recommit, the resolution shall be in order. It shall not be in order to move to reconsider the vote by which a resolution is agreed to or disagreed to.
 
@@ -119,10 +119,6 @@ Amendment by Pub. L. 98–573 effective on 15th day after Oct. 30, 1984, see sec
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–39 effective July 26, 1979, see sections 903 and 1114 of Pub. L. 96–39, set out as Effective Date notes under sections 2411 and 2581 of this title, respectively.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1330, 2191, 2193, 2253, 2412, 2437, 2903, 3535, 3803, 3804, 3805 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

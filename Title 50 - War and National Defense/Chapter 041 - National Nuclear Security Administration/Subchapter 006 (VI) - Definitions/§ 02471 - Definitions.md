@@ -40,7 +40,3 @@ For purposes of this chapter:
 
 This chapter, referred to in text, was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 7274s.
-

@@ -14,7 +14,3 @@ The Forest Service is authorized to accept law enforcement designation from any 
 
 (Pub. L. 99–570, title XV, §15008, as added Pub. L. 100–690, title VI, §6254(e), Nov. 18, 1988, 102 Stat. 4365.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>lll</i>–12, 698v–6 of this title.
-

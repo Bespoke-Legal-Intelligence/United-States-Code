@@ -34,7 +34,7 @@ Any upward bound project assisted under this division may provide services such 
 
 #### (c) Required services
 
-Any upward bound project assisted under this division which has received funding for two or more years shall include, as part of the core curriculum in the next and succeeding years, instruction in mathematics through precalculus, laboratory science, foreign language, composition, and literature.
+Any upward bound project assisted under this division which has received funding for two or more years shall include, as part of the core curriculum in the next and succeeding years, instruction in mathematics through precalculus,laboratory science, foreign language, composition, and literature.
 
 #### (d) Requirements for approval of applications
 
@@ -77,8 +77,4 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1070a–11 of this title.
 

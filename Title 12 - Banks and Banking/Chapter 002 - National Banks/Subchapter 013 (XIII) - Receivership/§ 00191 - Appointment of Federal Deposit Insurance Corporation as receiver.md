@@ -86,7 +86,3 @@ Sec. 723. (a) The Comptroller shall publish notice once a week for four weeks in
 
 “(d) The principal amount of any liquidating dividends (1) for which claims have not been asserted within twelve months following the last date notice is published or (2) for which the Comptroller has determined a valid claim has not been submitted shall, together with any income earned on liquidating dividends and other moneys, if any, remaining in the closed receivership fund, be covered into the general funds of the Comptroller.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 197, 205 of this title.
-

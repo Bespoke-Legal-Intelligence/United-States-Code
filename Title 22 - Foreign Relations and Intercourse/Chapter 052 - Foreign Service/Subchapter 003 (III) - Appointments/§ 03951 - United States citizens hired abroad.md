@@ -10,7 +10,7 @@ The fact that an applicant for employment in a position referred to in subsectio
 
 #### (c) Compensation of family and non-family member employees
 
-(1) Non-family members employed under this section for service at their post of residenceshall be paid in accordance with local compensation plans established under section 3968 of this title.
+(1) Non-family members employed under this section for service at their post of residence shall be paid in accordance with local compensation plans established under section 3968 of this title.
 
 (2) Family members employed under this section shall be paid in accordance with the Foreign Service Schedule or the salary rates established under section 3967 of this title.
 
@@ -31,10 +31,6 @@ Pub. L. 103–236 amended section generally. Prior to amendment, section read as
 “(a) The Secretary, when employing individuals abroad in positions to which career members of the Service are not customarily assigned (including, when continuity over a long term is not a significant consideration, vacant positions normally filled by foreign national employees), shall give equal consideration to employing available qualified family members of members of the Service or of other Government employees assigned abroad. Family members so employed shall serve under renewable limited appointments in the Service and may be paid either in accordance with the Foreign Service Schedule or a local compensation plan established under section 3968 of this title.
 
 “(b) Employment of family members in accordance with this section may not be used to avoid fulfilling the need for full-time career positions.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3922, 3949, 3968, 3984, 4010, 4024, 4083, 4102, 4131 of this title; title 5 section 5927.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “chapter”.</i>
 

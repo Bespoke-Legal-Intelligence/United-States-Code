@@ -22,13 +22,9 @@ Each State, and each entity which has received funds from an allotment made to a
 
 #### (d) Information not readily available
 
-(1) In conducting any investigation in a State, the Secretary or the Comptroller General of the United States may not make a request for any information not readily available to such State or an entity which has received funds from an allotment made to the State under this part or make an unreasonable request for information to be compiled, collected, or transmitted in any form not readily available.
+(1) In conducting any investigation in a State, the Secretary or the Comptroller General of theUnited States may not make a request for any information not readily available to such State or an entity which has received funds from an allotment made to the State under this part or make an unreasonable request for information to be compiled, collected, or transmitted in any form not readily available.
 
 (2) Paragraph (1) does not apply to the collection, compilation, or transmittal of data in the course of a judicial proceeding.
 
 (July 1, 1944, ch. 373, title XIX, §1907, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 541.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300w–4, 9875 of this title.
 

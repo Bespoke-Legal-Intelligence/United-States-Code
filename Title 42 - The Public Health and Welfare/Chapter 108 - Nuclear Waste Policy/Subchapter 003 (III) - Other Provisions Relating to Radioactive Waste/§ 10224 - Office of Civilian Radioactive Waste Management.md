@@ -14,19 +14,17 @@ The Director of the Office shall annually prepare and submit to the Congress a c
 
 #### (d) Audit by GAO
 
-If requested by either House of the Congress (or any committee thereof) or if considered necessary by the Comptroller General, the General Accounting Office shall conduct an audit of the Office, in accord with such regulations as the Comptroller General may prescribe. The Comptroller General shall have access to such books, records, accounts, and other materials of the Office as the Comptroller General determines to be necessary for the preparation of such audit. The Comptroller General shall submit a report on the results of each audit conducted under this section.
+If requested by either House of the Congress (or any committee thereof) or if considered necessary by the Comptroller General, the Government Accountability Office shall conduct an audit of the Office, in accord with such regulations as the Comptroller General may prescribe. The Comptroller General shall have access tosuch books, records, accounts, and other materials of the Office as the Comptroller General determines to be necessary for the preparation of such audit. The Comptroller General shall submit a report on the results of each audit conducted under this section.
 
-(Pub. L. 97–425, title III, §304, Jan. 7, 1983, 96 Stat. 2261; Pub. L. 104–66, title I, §1052(<i>l</i>), Dec. 21, 1995, 109 Stat. 719.)
+(Pub. L. 97–425, title III, §304, Jan. 7, 1983, 96 Stat. 2261; Pub. L. 104–66, title I, §1052(<i>l</i>), Dec. 21, 1995, 109 Stat. 719; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1995—Subsec. (d). Pub. L. 104–66 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall annually make an audit of the Office, in accordance with such regulations as the Comptroller General may prescribe. The Comptroller General shall have access to such books, records, accounts, and other materials of the Office as the Comptroller General determines to be necessary for the preparation of such audit. The Comptroller General shall submit to the Congress a report on the results of each audit conducted under this section.”
 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to annual submittal of report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 13th item on page 91 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7267, 10101 of this title.
 

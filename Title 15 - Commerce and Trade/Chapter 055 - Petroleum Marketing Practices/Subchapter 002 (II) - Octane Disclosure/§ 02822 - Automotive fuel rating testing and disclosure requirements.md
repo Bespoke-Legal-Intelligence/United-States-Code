@@ -82,7 +82,3 @@ Section 205 of Pub. L. 95–297 provided that:
 
 Section 1503 of Pub. L. 102–486 directed Administrator of Environmental Protection Agency to carry out a study to determine whether the anti-knock characteristics of nonliquid fuels usable as a fuel for motor vehicles could be determined and further directed Federal Trade Commission to carry out a study to determine the need for a uniform national label on devices used to dispense automotive fuel to consumers that would consolidate all information required by Federal law to be posted on such devices, with reports of the results of the studies to be submitted to Congress within one year of Oct. 24, 1992, together with recommendations and a description of the administrative and legislative actions needed to implement the recommendations.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2823 of this title.
-

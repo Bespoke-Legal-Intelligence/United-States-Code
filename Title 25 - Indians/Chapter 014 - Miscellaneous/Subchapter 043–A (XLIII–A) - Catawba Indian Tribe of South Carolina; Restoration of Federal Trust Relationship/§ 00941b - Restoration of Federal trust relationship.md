@@ -30,7 +30,3 @@ This subchapter shall not be construed to empower the Tribe with special jurisdi
 
 For the effective date of this subchapter, referred to in subsecs. (a), (b), and (d), see Effective Date note set out under section 941 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 941m of this title.
-

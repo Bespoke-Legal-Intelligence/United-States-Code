@@ -46,7 +46,3 @@ Limitation of Voidability.—A transfer is not voidable under section 3304(a)(2)
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4963.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3303, 3304, 3306 of this title.
-

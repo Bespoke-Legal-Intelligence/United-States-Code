@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—SEX OFFENSE PREVENTION AND CONTROL
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 238d of this title.
-
 
 ---
 

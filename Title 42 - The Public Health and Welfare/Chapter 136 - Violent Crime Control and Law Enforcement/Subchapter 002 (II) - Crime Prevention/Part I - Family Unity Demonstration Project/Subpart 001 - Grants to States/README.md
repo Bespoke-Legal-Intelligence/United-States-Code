@@ -1,9 +1,5 @@
 subpart 1—grants to states
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 13883, 13901 of this title.
-
 
 ---
 

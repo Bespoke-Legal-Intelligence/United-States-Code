@@ -44,7 +44,3 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2275, 2291, 2318, 2355, 2395 of this title; title 28 sections 1581, 2631, 2636, 2640, 2643.
-

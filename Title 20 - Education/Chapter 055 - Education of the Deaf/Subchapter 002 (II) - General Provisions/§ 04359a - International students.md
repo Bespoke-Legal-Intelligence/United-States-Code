@@ -6,7 +6,7 @@ Effective with new admissions for academic year 1993–1994 and each succeeding 
 
 #### (b) Tuition surcharge
 
-Effective with new admissions, the tuition for postsecondary international students enrolled inthe University (including preparatory, undergraduate, and graduate students) or NTID shall include a surcharge of 100 percent for the academic year 1999–2000 and any succeeding academic year.
+Effective with new admissions, the tuition for postsecondary international students enrolled in the University (including preparatory, undergraduate, and graduate students) or NTID shall include a surcharge of 100 percent for the academic year 1999–2000 and any succeeding academic year.
 
 #### (c) Reduction of surcharge
 
@@ -45,8 +45,4 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date
 
 Section effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as an Effective Date of 1992 Amendment note under section 4301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4353, 6715 of this title.
 

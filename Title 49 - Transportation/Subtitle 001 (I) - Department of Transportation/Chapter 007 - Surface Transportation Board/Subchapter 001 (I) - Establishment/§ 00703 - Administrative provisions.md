@@ -2,7 +2,7 @@
 
 (a)
 
-Executive Reorganization.—Chapter 9 of title 5, United States Code, shall apply to the Board in the same manner as it does to an independent regulatory agency, and the Board shall be an establishment of the United States Government.
+Executive Reorganization.—Chapter 9 of title 5, United States Code, shall apply to theBoard in the same manner as it does to an independent regulatory agency, and the Board shall be an establishment of the United States Government.
 
 (b)
 

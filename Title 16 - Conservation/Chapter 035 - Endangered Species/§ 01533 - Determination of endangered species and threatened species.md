@@ -162,7 +162,7 @@
 
 #### (d) Protective regulations
 
-Whenever any species is listed as a threatened species pursuant to subsection (c) of this section, the Secretary shall issue such regulations as he deems necessary and advisable to provide for the conservation of such species. The Secretary may by regulation prohibit with respect to any threatened species any act prohibited under section 1538(a)(1) of this title, in the case of fish or wildlife, or section 1538(a)(2) of this title, in the case of plants, with respect to endangered species; except that with respect to thetaking of resident species of fish or wildlife, such regulations shall apply in any State which has entered into a cooperative agreement pursuant to section 1535(c) of this title only to the extent that such regulations have also been adopted by such State.
+Whenever any species is listed as a threatened species pursuant to subsection (c) of this section, the Secretary shall issue such regulations as he deems necessary and advisable to provide for the conservation of such species. The Secretary may by regulation prohibit with respect to any threatened species any act prohibited under section 1538(a)(1) of this title, in the case of fish or wildlife, or section 1538(a)(2) of this title, in the case of plants, with respect to endangered species; except that with respect to the taking of resident species of fish or wildlife, such regulations shall apply in any State which has entered into a cooperative agreement pursuant to section 1535(c) of this title only to the extent that such regulations have also been adopted by such State.
 
 #### (e) Similarity of appearance cases
 
@@ -218,7 +218,7 @@ The Secretary shall establish, and publish in the Federal Register, agency guide
 
 #### (i) Submission to State agency of justification for regulations inconsistent with State agency's comments or petition
 
-If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) of this section files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3) of this section, the Secretary shall submitto the State agency a written justification for his failure to adopt regulations consistent with the agency's comments or petition.
+If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) of this section files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3) of this section, the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency's comments or petition.
 
 (Pub. L. 93–205, §4, Dec. 28, 1973, 87 Stat. 886; Pub. L. 94–359, §1, July 12, 1976, 90 Stat. 911; Pub. L. 95–632, §§11, 13, Nov. 10, 1978, 92 Stat. 3764, 3766; Pub. L. 96–159, §3, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, §2(a), Oct. 13, 1982, 96 Stat. 1411; Pub. L. 100–478, title I, §§1002–1004, Oct. 7, 1988, 102 Stat. 2306, 2307; Pub. L. 108–136, div. A, title III, §318, Nov. 24, 2003, 117 Stat. 1433.)
 
@@ -274,7 +274,7 @@ Subsec. (h). Pub. L. 97–304, §2(a)(4)(C), (F), added subsec. (h) and redesign
 
 Subsec. (f)(2)(B)(i). Pub. L. 96–159, §3(2), required publication of summary of text rather than of the complete text of proposed regulation specifying any critical habitat and inclusion of a map of the proposed critical habitat.
 
-Subsec. (f)(2)(B)(iv)(II). Pub. L. 96–159, §3(3), substituted “if requested within 15 days after the date onwhich the public meeting is conducted,” for “if requested,”.
+Subsec. (f)(2)(B)(iv)(II). Pub. L. 96–159, §3(3), substituted “if requested within 15 days after the date on which the public meeting is conducted,” for “if requested,”.
 
 Subsec. (f)(2)(C). Pub. L. 96–159, §3(4), (5), inserted in introductory text “, subsection (b)(4) of this section,”; and in cl. (ii), included reference to significant risk to wellbeing of any species of plants, inserted in item (II) reference to regulation applicable to resident species of plants, extended the statutory period to a “240-day period” from a “120-day period”, and provided for withdrawal of an emergency regulation without substantial evidence to warrant it, respectively.
 
@@ -317,10 +317,6 @@ Section 2(b) of Pub. L. 97–304 provided that:
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460k–1, 668dd, 670h, 715i, 715s, 1374, 1383b, 1387, 1402, 1532, 1534, 1535, 1536, 1537, 1538, 1540, 4202, 4261, 6301, 6512, 6572, 6573 of this title; title 10 section 7524.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(7)”.</i>
 

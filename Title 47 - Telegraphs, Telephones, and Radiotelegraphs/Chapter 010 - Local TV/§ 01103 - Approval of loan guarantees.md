@@ -40,7 +40,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 #### (1) In general
 
-&emsp;The Board shall utilize the underwriting criteria developed under subsection (g) of this section, and any relevant information provided by the departments and agencies with which the Board consults under section 1102 of this title, to determine which loans may be eligible for a loan guarantee under this chapter.
+&emsp;The Board shall utilize the underwriting criteria developed under subsection (g) of thissection, and any relevant information provided by the departments and agencies with which the Board consults under section 1102 of this title, to determine which loans may be eligible for a loan guarantee under this chapter.
 
 #### (2) Prerequisites
 
@@ -68,7 +68,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 &emsp;&emsp;(iv) any loan must have terms, in the judgment of the Board, that are consistent in material respects with the terms of similar obligations in the private capital market;
 
-&emsp;&emsp;(v) for purposes of clause (i)(I)(bb), the term “net equity” means the value of thetotal assets of the entity, less the total liabilities of the entity, as recorded under generally accepted accounting principles for the fiscal quarter ended immediately prior to the date on which the subject loan is approved;
+&emsp;&emsp;(v) for purposes of clause (i)(I)(bb), the term “net equity” means the value of the total assets of the entity, less the total liabilities of the entity, as recorded under generally accepted accounting principles for the fiscal quarter ended immediately prior to the date on which the subject loan is approved;
 
 &emsp;&emsp;(E) repayment of the loan is required to be made within a term of the lesser of—
 
@@ -104,7 +104,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 #### (A) Priority considerations
 
-&emsp;&emsp;To the maximum extent practicable, the Board shall give priority in the approval of loan guarantees under this chapter in the following order:
+&emsp;&emsp;To the maximum extent practicable, the Board shall give priority in the approval ofloan guarantees under this chapter in the following order:
 
 &emsp;&emsp;&emsp;(i) First, to projects that will serve households in nonserved areas. In considering such projects, the Board shall balance projects that will serve the largest number of households with projects that will serve remote, isolated communities (including noncontiguous States) in areas that are unlikely to be served through market mechanisms.
 
@@ -212,13 +212,9 @@ This chapter, referred to in text, was in the original “this Act”, and was t
 
 #### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–171, §6404(b)(1)(A), made technical amendments to references in originalAct which appear in text as references to sections 1104 and 1109 of this title.
+2002—Subsec. (b)(1). Pub. L. 107–171, §6404(b)(1)(A), made technical amendments to references in original Act which appear in text as references to sections 1104 and 1109 of this title.
 
 Subsec. (d)(1). Pub. L. 107–171, §6404(b)(1)(B), made technical amendment to reference in original Act which appears in text as a reference to section 1102 of this title.
 
 Subsec. (h)(2)(D). Pub. L. 107–171, §6404(b)(1)(C), made technical amendment to reference in original Act which appears in text as a reference to section 1104 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1102, 1104, 1109 of this title.
 

@@ -4,7 +4,3 @@ The said area or areas shall be permanently reserved as a wilderness, and no dev
 
 (May 30, 1934, ch. 371, §4, 48 Stat. 817.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410b, 410d of this title.
-

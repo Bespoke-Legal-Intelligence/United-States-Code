@@ -14,7 +14,3 @@ Notwithstanding any provision of existing law, the Secretary of Agriculture may,
 
 1933—Act June 16, 1933, amended section generally.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 608d, 673 of this title.
-

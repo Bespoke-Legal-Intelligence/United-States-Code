@@ -60,7 +60,3 @@ Power centers and portable transformers shall be deenergized before they are mov
 
 For the operative date of this subchapter, referred to in subsec. (d), see section 509 of Pub. L. 91–173, set out as an Effective Date note under section 801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 861 of this title.
-

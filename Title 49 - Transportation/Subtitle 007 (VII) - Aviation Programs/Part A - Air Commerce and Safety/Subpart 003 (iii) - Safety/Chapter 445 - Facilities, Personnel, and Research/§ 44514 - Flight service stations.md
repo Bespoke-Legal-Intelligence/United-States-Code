@@ -44,7 +44,3 @@ In subsection (a)(2), the words “after December 30, 1987” are omitted as obs
 
 In subsection (b), the text of section 9115(b) of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508, 104 Stat. 1388–364) and section 330(a) (last sentence) of the Department of Transportation and Related Agencies Appropriations Act, 1991 (Public Law 101–516, 104 Stat. 2184) is omitted as obsolete.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
-

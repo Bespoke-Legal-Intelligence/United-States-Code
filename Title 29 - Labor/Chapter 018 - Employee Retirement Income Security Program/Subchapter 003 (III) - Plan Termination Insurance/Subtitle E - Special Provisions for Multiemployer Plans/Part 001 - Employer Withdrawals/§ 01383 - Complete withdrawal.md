@@ -42,7 +42,7 @@ For purposes of this part, a complete withdrawal from a multiemployer plan occur
 
 &emsp;(B) such other entertainment activities as the corporation may determine to be appropriate.
 
-(3) The corporation may by regulation exclude a group or class of employers described in the preceding sentence from the application of this subsection if the corporation determines that such exclusion is necessary—
+(3) The corporation may by regulation exclude a group or class of employers described in thepreceding sentence from the application of this subsection if the corporation determines that such exclusion is necessary—
 
 &emsp;(A) to protect the interest of the plan's participants and beneficiaries, or
 
@@ -99,8 +99,4 @@ For purposes of this part, the date of a complete withdrawal is the date of the 
 &emsp;(B) only if the corporation determines, in each instance in which special withdrawal liability rules are permitted, that use of such rules will not pose a significant risk to the corporation under this subchapter.
 
 (Pub. L. 93–406, title IV, §4203, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1218.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1053, 1341a, 1381, 1388, 1391, 1401 of this title; title 26 section 411.
 

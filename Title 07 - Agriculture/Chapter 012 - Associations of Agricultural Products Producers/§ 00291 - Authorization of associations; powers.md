@@ -12,7 +12,3 @@ Third. That the association shall not deal in the products of nonmembers to an a
 
 (Feb. 18, 1922, ch. 57, §1, 42 Stat. 388.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1a, 457, 608c, 2302, 5623 of this title; title 15 section 57b–5.
-

@@ -19,10 +19,6 @@
 
 By virtue of act June 25, 1938, ch. 675, §902(c), 52 Stat. 1059 \[section 392(b) of this title\], nothing contained in section 301 et seq. of this title shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of this chapter.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 382, 392 of this title; title 6 section 231; title 7 section 8401; title 15 section 1459; title 35 sections 156, 271; title 42 section 262a.
-
 
 ---
 

@@ -20,9 +20,5 @@ Section 4162 of title 18, referred to in text, was repealed by Pub. L. 98–473,
 
 “Chapter 307 and section 4162 of title 18” substituted for “the Act entitled ‘An Act to provide for the diversification of employment of Federal prisoners, for their training and schooling in trades and occupations, and for other purposes’, approved May 27, 1930, as amended and supplemented by the Act approved June 23, 1934” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure. Prior to the enactment of Title 18, the act of May 27, 1930, as amended, had been classified to sections 744a to 744n of Title 18.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 43a of this title; title 25 section 450j.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

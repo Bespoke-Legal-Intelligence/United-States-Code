@@ -1,6 +1,6 @@
 ### §3554. Order of criminal forfeiture
 
-The court, in imposing a sentence on a defendant who has been found guilty of an offense described in section 1962 of this title or in title II or III of the Comprehensive Drug Abuse Prevention and Control Act of 1970 shall order, in addition to the sentence that is imposed pursuant to the provisions of section 3551, that the defendant forfeit property to the United States in accordance with the provisions of section 1963 of this title or section 413 of the Comprehensive Drug Abuse and Control Act of 1970.
+The court, in imposing a sentence on a defendant who has been found guilty of an offense described in section 1962 of this title or in title II or III of the Comprehensive Drug Abuse Prevention and Control Act of 1970 shall order, in addition to the sentence that is imposed pursuant to the provisions of section 3551, that the defendant forfeit property to the United States in accordance with the provisions of section 1963 of thistitle or section 413 of the Comprehensive Drug Abuse and Control Act of 1970.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1990.)
 
@@ -11,8 +11,4 @@ The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in 
 #### Effective Date
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3551 of this title; title 28 section 994.
 

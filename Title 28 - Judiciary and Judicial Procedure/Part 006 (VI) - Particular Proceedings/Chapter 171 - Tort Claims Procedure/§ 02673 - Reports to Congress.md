@@ -14,7 +14,3 @@ Based on title 28, U.S.C., 1940 ed., §922 (Aug. 2, 1946, ch. 753, §404, 60 Sta
 
 Changes were made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 8477; title 8 section 1357.
-

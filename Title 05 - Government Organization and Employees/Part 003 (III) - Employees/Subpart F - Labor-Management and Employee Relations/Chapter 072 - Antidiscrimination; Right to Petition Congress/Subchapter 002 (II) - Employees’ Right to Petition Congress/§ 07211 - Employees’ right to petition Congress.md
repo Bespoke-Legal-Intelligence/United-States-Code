@@ -12,7 +12,3 @@ Provisions of this section were contained in section 7102 of this title prior to
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 39 section 1002.
-

@@ -10,7 +10,3 @@ Nothing in this subchapter shall affect the status of the members of the tribe a
 
 (Sept. 1, 1954, ch. 1207, §17, 68 Stat. 1103.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 758, 760 of this title.
-

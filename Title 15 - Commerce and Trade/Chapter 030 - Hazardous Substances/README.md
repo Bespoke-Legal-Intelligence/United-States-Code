@@ -79,10 +79,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1276, 1460, 2052, 2055, 2079 of this title.
-
 
 ---
 

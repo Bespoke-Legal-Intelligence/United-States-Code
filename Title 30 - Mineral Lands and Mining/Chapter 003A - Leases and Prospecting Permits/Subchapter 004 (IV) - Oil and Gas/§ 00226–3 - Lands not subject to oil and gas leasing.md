@@ -10,7 +10,7 @@ The Secretary shall not issue any lease under this chapter or under the Geotherm
 
 &emsp;(3) Lands designated by Congress as wilderness study areas, except where oil and gas leasing is specifically allowed to continue by the statute designating the study area.
 
-&emsp;(4) Lands within areas allocated for wilderness or further planning in Executive Communication 1504, Ninety-Sixth Congress (House Document numbered 96–119), unless such lands are allocated to uses other than wilderness by a land and resource management plan or have been released to uses other than wilderness by an act of Congress.
+&emsp;(4) Lands within areas allocated for wilderness or further planning in Executive Communication 1504, Ninety-Sixth Congress (House Document numbered 96–119), unless such lands are allocated to uses other than wilderness bya land and resource management plan or have been released to uses other than wilderness by an act of Congress.
 
 #### (b) Exploration
 
@@ -27,8 +27,4 @@ The Geothermal Steam Act of 1970, referred to in subsec. (a), is Pub. L. 91–58
 1988—Subsec. (a). Pub. L. 100–443, §5(c)(1), inserted “or under the Geothermal Steam Act of 1970” after “under this chapter” and directed that “oil and gas” be stricken which was executed by striking those words where they appeared after “not issue any” in introductory provisions, but not where they appeared in par. (3) as the probable intent of Congress.
 
 Subsec. (b). Pub. L. 100–443, §5(c)(2), inserted “, coal, oil shale, phosphate, potassium, sulphur, gilsonite or geothermal resources” after “oil and gas”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1027 of this title.
 

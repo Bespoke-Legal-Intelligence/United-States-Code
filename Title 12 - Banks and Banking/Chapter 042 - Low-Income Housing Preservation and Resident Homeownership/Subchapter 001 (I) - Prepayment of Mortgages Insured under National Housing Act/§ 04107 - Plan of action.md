@@ -34,7 +34,7 @@
 
 #### (2) Extension of affordability restrictions
 
-&emsp;If the plan of action proposes to extend the low-income affordability restrictions of the housing in accordance with section 4109 of this title or transfer the housing to a qualified purchaser in accordance with section 4110 of this title, the plan shall include—
+&emsp;If the plan of action proposes to extend the low-income affordability restrictions of the housing in accordance with section 4109 of thistitle or transfer the housing to a qualified purchaser in accordance with section 4110 of this title, the plan shall include—
 
 &emsp;&emsp;(A) a description of any proposed changes in the status or terms of the mortgage or regulatory agreement;
 
@@ -61,10 +61,6 @@ This title, referred to in subsecs. (a)(2) and (b)(1)(F), (2)(E), means title II
 1992—Subsec. (a)(2). Pub. L. 102–550, §304(a), inserted after second sentence “Each owner and the Secretary shall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information.”
 
 Subsec. (c). Pub. L. 102–550, §304(b), inserted before period at end “and make available to the Secretary and tenants all documentation supporting any revision, but not including any information that the Secretary determines is proprietary information”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4105, 4106, 4110 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

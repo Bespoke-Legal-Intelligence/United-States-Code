@@ -14,7 +14,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section 826, Pub. L. 93–203, title I, §124, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1943, related to wages and allowances applicable to all activities financed under this chapter.
 
-Provisions similar to those comprising this section were contained in former section 821 of this title priorto the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+Provisions similar to those comprising this section were contained in former section 821 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 827, Pub. L. 93–203, title I, §125, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1944, related to labor standards for all laborers and mechanics employed on works that are federally assisted under this chapter.
 

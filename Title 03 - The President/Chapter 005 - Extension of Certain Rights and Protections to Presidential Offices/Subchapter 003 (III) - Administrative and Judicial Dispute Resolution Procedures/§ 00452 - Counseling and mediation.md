@@ -18,7 +18,3 @@ Sections 402 and 403 of the Congressional Accountability Act of 1995, referred t
 
 Section effective Oct. 1, 1997, except that subsec. (a) of this section effective Oct. 26, 1996, see section 471 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 435, 451, 456, 471 of this title.
-

@@ -126,7 +126,3 @@ Any provision that applies to a cable operator under this section shall apply to
 
 Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–385, set out as an Effective Date of 1992 Amendment note under section 325 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 336, 573 of this title.
-

@@ -1,9 +1,5 @@
 subpart 2—national technology activities
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 6754 of this title.
-
 
 ---
 

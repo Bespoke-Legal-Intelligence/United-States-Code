@@ -12,7 +12,7 @@
 
 (b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment of amounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
 
-(c) A condition or limitation applicable to amounts for procurement of an agency or unitplacing an order or making a contract under this section applies to the placing of the order or the making of the contract.
+(c) A condition or limitation applicable to amounts for procurement of an agency or unit placing an order or making a contract under this section applies to the placing of the order or the making of the contract.
 
 (d) An order placed or agreement made under this section obligates an appropriation of the ordering agency or unit. The amount obligated is deobligated to the extent that the agency or unit filling the order has not incurred obligations, before the end of the period of availability of the appropriation, in—
 
@@ -126,7 +126,7 @@ Pub. L. 108–136, div. A, title X, §1058, Nov. 24, 2003, 117 Stat. 1619, provi
 
 “(a)
 
-Review Required.—The Director of the Office of Management and Budget shall conduct a review of existing authorities regarding the use of Air Force and Air National Guard Modular Airborne Fire-Fighting Systems units and other Department of Defense assetsto fight wildfires to ensure that, in accordance with applicable legal requirements, such assets are available in the most expeditious manner to fight wildfires on Federal lands or non-Federal lands at the request of a Federal agency or State government. In conducting the review, the Director shall specifically consider—
+Review Required.—The Director of the Office of Management and Budget shall conduct a review of existing authorities regarding the use of Air Force and Air National Guard Modular Airborne Fire-Fighting Systems units and other Department of Defense assets to fight wildfires to ensure that, in accordance with applicable legal requirements, such assets are available in the most expeditious manner to fight wildfires on Federal lands or non-Federal lands at the request of a Federal agency or State government. In conducting the review, the Director shall specifically consider—
 
 &emsp;“(1) any adverse impact caused by the restrictions contained in section 1535(a)(4) of title 31, United States Code, or caused by the interpretation of such restrictions, on the ability of the Forest Service and other Federal agencies to procure such firefighting services; and
 
@@ -162,7 +162,7 @@ Pub. L. 107–206, title I, §904, Aug. 2, 2002, 116 Stat. 876, provided that: �
 
 #### Economy Act Purchases
 
-Pub. L. 103–355, title I, §1074, Oct. 13, 1994, 108 Stat. 3271, provided that the Federal Acquisition Regulation was to be revised to include regulations governing the exercise of authority under this section for Federal agencies to purchase goods and services under contracts entered into or administered by other agencies, and further provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
+Pub. L. 103–355, title I, §1074, Oct. 13, 1994, 108 Stat. 3271, provided that the Federal Acquisition Regulationwas to be revised to include regulations governing the exercise of authority under this section for Federal agencies to purchase goods and services under contracts entered into or administered by other agencies, and further provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
 
 #### Department of Defense Purchases Through Other Agencies
 
@@ -203,8 +203,4 @@ Pub. L. 101–163, title I, §8, Nov. 21, 1989, 103 Stat. 1046, provided that:
 “(2) No advance payment may be made under paragraph (1) unless specifically provided for in the agreement. No agreement providing for advance payment may be entered into unless it contains a provision requiring the refund of any unobligated balance of the advance.
 
 “(3) No agreement may be entered into under paragraph (1) without the approval of the Senate Committee on Rules and Administration and the Senate Committee on Appropriations.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1536 of this title; title 2 sections 142j, 182c, 1151, 1385; title 7 section 2009cc–16; title 10 sections 377, 1104, 2205, 2684; title 16 sections 670c–1, 825k; title 22 sections 2358, 6204; title 24 section 168b; title 25 section 2804; title 29 section 563a; title 38 section 1720A; title 40 sections 3134, 3176; title 41 section 261; title 42 section 254; title 43 sections 1471c, 1471f; title 48 section 1469d; title 50 section 414.
 

@@ -34,9 +34,5 @@ Not later than six months after the submission of the plan described in subsecti
 
 Section 1221 of this title, referred to in subsec. (a), was amended generally by Pub. L. 103–382, title II, §211, Oct. 20, 1994, 108 Stat. 3912, and, as so amended, no longer contains a subsec. (c)(1)(A). However, the term “applicable program” is defined in subsec. (c)(1) of that section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3606 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

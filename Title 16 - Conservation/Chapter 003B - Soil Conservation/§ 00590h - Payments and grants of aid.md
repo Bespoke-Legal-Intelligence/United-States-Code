@@ -26,7 +26,7 @@
 
 #### (II) Local administrative areas
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may designate local administrative areas within a county or a larger area under the jurisdiction of a committee established under subclause (I).
+&emsp;&emsp;&emsp;&emsp;The Secretary may designate local administrative areas within a county or a larger area under the jurisdiction of acommittee established under subclause (I).
 
 #### (ii) Composition of county, area, or local committees
 
@@ -166,7 +166,7 @@
 
 (2) In the case of wheat, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acres, crop-rotation practices, type of soil, and topography. Not more than 3 per centum of such county allotment shall be apportioned to farms on which wheat has not been planted during any of the three marketing years immediately preceding the marketing year in which the allotment is made. Notwithstanding any other provision of this section, the allotments established, or which would have been established, for any farm acquired in 1940 or thereafter by the United States for national-defense purposes shall be placed in an allotment pool and shall be used only to establish allotments for other farms owned or acquired by the owner of the farm so acquired by the United States. The allotments so made for any farm, including a farm on which wheat has not been planted during any of the three marketing years preceding the marketing year in which the allotment is made, shall compare with the allotments established for other farms in the same area which are similar except for the past acreage of wheat.
 
-(3) In the case of corn, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acreage, type of soil, topography, and crop rotation practices.
+(3) In the case of corn, the allotment to any county shall be apportioned annually by theSecretary, through the local committees, among the farms within such county on the basis of tillable acreage, type of soil, topography, and crop rotation practices.
 
 (4) Repealed. Apr. 10, 1939, ch. 48, 53 Stat. 573.
 
@@ -204,7 +204,7 @@ Establishment of county, area, or local committees.—(i) In each county or area
 
 “(iii) The Secretary may designate local administrative areas within the county or larger area covered by a committee established under clause (i). Only agricultural producers within a local administrative area who participate or cooperate in programs administered within their area shall be eligible for nomination and election to the local committee for that area, under such regulations as the Secretary may prescribe.
 
-“(iv) The Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2003(e)(1)).
+“(iv) The Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section355(e)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2003(e)(1)).
 
 “(v) Members of each county, area, or local committee shall serve for terms not to exceed 3 years.”
 
@@ -276,7 +276,7 @@ Subsec. (b). Act Aug. 28, 1954, §501(c), struck out “at not to exceed a fair 
 
 1948—Subsec. (a). Act July 3, 1948, substituted “January 1, 1951” for “January 1, 1949” wherever appearing and “December 31, 1950” for “December 31, 1948”.
 
-1946—Subsec. (a). Act July 25, 1946, substituted “January 1, 1949” for “January 1, 1947” wherever appearing and “December 31, 1948” for December 31, 1946”.
+1946—Subsec. (a). Act July 25, 1946, substituted “January 1, 1949” for “January 1, 1947” wherever appearing and “December 31, 1948” for “December 31, 1946”.
 
 1944—Subsec. (b). Act Sept. 21, 1944, inserted par. beginning “Appropriations are hereby”.
 
@@ -352,7 +352,7 @@ Pub. L. 97–218, title IV, §401, July 20, 1982, 96 Stat. 216, provided that: �
 
 #### 1970 Increase in Rates of Compensation of Persons Employed by County Committees
 
-Adjustment by the Secretary of Agriculture, effective on the first day of the first pay period which begins onor after Dec. 27, 1969, of the rates of pay of personnel subject to this section with respect to individuals employed by county committees under subsec. (b) of this section, by the amounts of the adjustment for corresponding rates for employees subject to the General Schedule, set out in section 5332 of Title 5, which had been made by section 2 of Pub. L. 91–231 raising such rates by 6 percent, see Pub. L. 91–231, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+Adjustment by the Secretary of Agriculture, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, of the rates of pay of personnel subject to this section with respect to individuals employed by county committees under subsec. (b) of this section, by the amounts of the adjustment for corresponding rates for employees subject to the General Schedule, set out in section 5332 of Title 5, which had been made by section 2 of Pub. L. 91–231 raising such rates by 6 percent, see Pub. L. 91–231, set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
 #### 1967 Increase in Rates of Compensation of Persons Employed by County Committees
 
@@ -366,7 +366,7 @@ Pub. L. 89–504, title I, §107, July 18, 1966, 80 Stat. 293, provided that: �
 
 #### 1965 Increase in Rates of Compensation of Persons Employed by County Committees
 
-Pub. L. 89–301, §10, Oct. 29, 1965, 79 Stat. 1120, provided that: “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by section 2(a) of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation.”
+Pub. L. 89–301, §10, Oct. 29, 1965, 79 Stat. 1120, provided that: “The rates of compensation of persons employedby the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by section 2(a) of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation.”
 
 \[Provision effective on first day of first pay period which begins on or after July 1, 1966, see section 109(2) of Pub. L. 89–504.\]
 
@@ -387,10 +387,6 @@ Pub. L. 86–568, title I, §115(a), July 1, 1960, 74 Stat. 302, provided that: 
 #### Two County Committees for Certain Counties in Minnesota and Iowa
 
 Pub. L. 85–278, Sept. 2, 1957, 71 Stat. 601, provided: “That, notwithstanding the provisions of subsection (b) of section 8 of the Soil Conservation and Domestic Allotment Act \[subsec. (b) of this section\], two county committees shall be elected annually under such subsection for the counties of Otter Tail, Polk, and Saint Louis, in the State of Minnesota, and for the county of Pottawattamie, in the State of Iowa, and that the actions heretofore or hereafter taken by each of such committees shall be given the same effect in the area served by it as is given to the actions of the county committee in a county served by a single county committee.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 590g, 590<i>l</i>, 590m, 590q–3, 1307, 3801 of this title; title 5 sections 3502, 3521, 5306, 5334, 5595, 6312, 8331, 8332, 8701, 8901; title 7 sections 1301, 1308–4, 1314c, 1359ff, 1359jj, 1388, 1391, 1392, 1433a, 1433c–1, 1444, 1446, 1471b, 1838, 2008k, 2008<i>l</i>, 2272, 2279a, 6912, 6913, 6932, 6962, 6991, 7001, 7214, 7959, 7995; title 12 section 1150a; title 15 section 714b.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be preceded by an additional closing parenthesis.</i>
 

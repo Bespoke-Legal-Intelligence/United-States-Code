@@ -10,7 +10,7 @@ Inasmuch as (A) most of the lands added to the Badlands National Park by section
 
 &emsp;(2) Not less than $100 or 20 per centum of the purchase price, whichever is less, shall be paid at the time of purchase, and the balance shall be payable in not to exceed 20 years with interest at a rate determined by the Secretary of the Treasury taking into account the current average market yield on outstanding marketable obligations of the United States with twenty years remaining to date of maturity, adjusted to the nearest one-eighth of 1 per centum.
 
-&emsp;(3) Title to the tract purchased shall be held in trust for the purchaser if it was held intrust status at the time the tract was acquired by the United States; otherwise, the title to the tract purchased shall be conveyed to the purchaser subject to a mortgage and such other security instruments as the Secretary deems appropriate. If a tract purchased under this subsection is offered for resale during the following ten-year period, the tribe must be given the first right to purchase it.
+&emsp;(3) Title to the tract purchased shall be held in trust for the purchaser if it was held in trust status at the time the tract was acquired by the United States; otherwise, the title to the tract purchased shall be conveyed to thepurchaser subject to a mortgage and such other security instruments as the Secretary deems appropriate. If a tract purchased under this subsection is offered for resale during the following ten-year period, the tribe must be given the first right to purchase it.
 
 &emsp;(4) The unpaid balance of the purchase price shall be a lien against the land if the title is held in trust and against all rents, bonuses, and royalties received therefrom. In the event of default in the payment of any installment of the purchase price the Secretary may take such action to enforce the lien as he deems appropriate, including foreclosure and conveyance of the land to the Oglala Sioux Tribe.
 
@@ -29,8 +29,4 @@ The Federal Property and Administrative Services Act of 1949, referred to in the
 #### Change of Name
 
 In provision preceding subsec. (a) and in subsec. (a), “Park” and “park” substituted for “Monument” and “monument”, respectively, pursuant to Pub. L. 95–625, §611, which is classified to section 441e–1 of this title and which redesignated Badlands National Monument as Badlands National Park.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 441k, 441m, 441n of this title; title 25 section 459.
 

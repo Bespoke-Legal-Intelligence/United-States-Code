@@ -4,7 +4,3 @@ The district courts shall have original jurisdiction of any action in the nature
 
 (Added Pub. L. 87–748, §1(a), Oct. 5, 1962, 76 Stat. 744.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 923; title 25 section 2103; title 42 sections 300j–9, 5851, 7622; title 49 sections 42121, 60129.
-

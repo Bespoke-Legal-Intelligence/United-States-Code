@@ -8,7 +8,3 @@ The owners of several mining claims situated so as to require a common dumping g
 
 Herein, referred to in text, means act Mar. 1, 1893, which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 661, 676 of this title.
-

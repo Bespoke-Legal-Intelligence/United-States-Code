@@ -60,7 +60,3 @@ The Secretary shall, before January 1, 1998, submit a report to the Congress pro
 
 (Pub. L. 102–486, title V, §501, Oct. 24, 1992, 106 Stat. 2887.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13220, 13257, 13258, 13261 of this title.
-

@@ -14,7 +14,7 @@ On and after the effective date of this Act the Secretary is authorized to make,
 
 (1) On and after October 21, 1976, a withdrawal aggregating five thousand acres or more may be made (or such a withdrawal or any other withdrawal involving in the aggregate five thousand acres or more which terminates after such date of approval may be extended) only for a period of not more than twenty years by the Secretary on his own motion or upon request by a department or agency head. The Secretary shall notify both Houses of Congress of such a withdrawal no later than its effective date and the withdrawal shall terminate and become ineffective at the end of ninety days (not counting days on which the Senate or the House of Representatives has adjourned for more than three consecutive days) beginning on the day notice of such withdrawal has been submitted to the Senate and the House of Representatives, if the Congress has adopted a concurrent resolution stating that such House does not approve the withdrawal. If the committee to which a resolution has been referred during the said ninety day period, has not reported it at the end of thirty calendar days after its referral, it shall be in order to either discharge the committee from further consideration of such resolution or to discharge the committee from consideration of any other resolution with respect to the Presidential recommendation. A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported such a resolution), and debate thereon shall be limited to not more than one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to. If the motion to discharge is agreed to or disagreed to, the motion may not be made with respect to any other resolution with respect to the same Presidential recommendation. When the committee has reprinted, or has been discharged from further consideration of a resolution, it shall at any time thereafter be in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
-(2) With the notices required by subsection (c)(1) of this section and within three months after filing the notice under subsection (e) of this section, the Secretary shall furnish to the committees—
+(2) With the notices required by subsection (c)(1) of this section and within three monthsafter filing the notice under subsection (e) of this section, the Secretary shall furnish to the committees—
 
 &emsp;(1) a clear explanation of the proposed use of the land involved which led to the withdrawal;
 
@@ -90,7 +90,7 @@ There is hereby authorized to be appropriated the sum of $10,000,000 for the pur
 
 #### References in Text
 
-On and after the effective date of this Act, referred to in subsecs. (a) and (k), probably means on and after thedate of enactment of Pub. L. 94–579, which was approved Oct. 21, 1976.
+On and after the effective date of this Act, referred to in subsecs. (a) and (k), probably means on and after the date of enactment of Pub. L. 94–579, which was approved Oct. 21, 1976.
 
 Act of June 8, 1906, referred to in subsec. (j), is act June 8, 1906, ch. 3060, 34 Stat. 225, popularly known as the Antiquities Act of 1906, which is classified generally to sections 431, 432, and 433 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 431 of Title 16 and Tables.
 
@@ -111,8 +111,4 @@ Subsec. (f). Pub. L. 103–437, §16(d)(1)(B), substituted “Committee on Natur
 #### Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1712, 1723, 1732, 1782 of this title; title 42 section 7916.
 

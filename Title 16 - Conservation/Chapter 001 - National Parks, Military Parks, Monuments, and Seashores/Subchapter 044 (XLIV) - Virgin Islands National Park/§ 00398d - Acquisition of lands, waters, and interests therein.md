@@ -26,7 +26,3 @@ Subject to continued protection and use of Hassel Island for park and recreation
 
 1978—Pub. L. 95–348 designated existing provisions as subsec. (a), inserted provisions respecting acquisitions of up to 6.6 acres, and added subsecs. (b) to (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 398c, 398e of this title; title 48 section 1705.
-

@@ -82,7 +82,3 @@ Vaccine storage study.—The Secretary may—
 
 Stockpiling of vaccines.—If, after conducting the study and comparison described in paragraph (1), the Secretary determines that there is an insufficient number of doses of a particular vaccine referred to in that paragraph, the Secretary may take such actions as are necessary to obtain the required additional doses of the vaccine.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3199 of this title.
-

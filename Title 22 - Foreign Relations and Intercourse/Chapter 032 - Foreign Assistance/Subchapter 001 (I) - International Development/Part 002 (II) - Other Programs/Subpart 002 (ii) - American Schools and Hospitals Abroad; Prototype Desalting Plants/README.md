@@ -1,9 +1,5 @@
 subpart ii—american schools and hospitals abroad; prototype desalting plants
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 2361, 2395 of this title.
-
 
 ---
 

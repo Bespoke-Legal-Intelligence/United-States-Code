@@ -1,5 +1,5 @@
 
-20 U.S.C.<br>United States Code, 2003 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+20 U.S.C.<br>United States Code, 2004 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 20—EDUCATION
 
@@ -54,7 +54,7 @@
 | [<b>41.</b>](Chapter%20041%20-%20National%20Reading%20Improvement%20Program/README.md) | <b>National Reading Improvement Program \[Repealed\]</b> | <b>1901</b> |
 | [<b>42.</b>](Chapter%20042%20-%20Harry%20S%20Truman%20Memorial%20Scholarships/README.md) | <b>Harry S Truman Memorial Scholarships</b> | <b>2001</b> |
 | [<b>43.</b>](Chapter%20043%20-%20American%20Folklife%20Preservation/README.md) | <b>American Folklife Preservation</b> | <b>2101</b> |
-| [<b>44.</b>](Chapter%20044%20-%20Vocational%20and%20Technical%20Education/README.md) | <b>Vocational Education</b> | <b>2301</b> |
+| [<b>44.</b>](Chapter%20044%20-%20Vocational%20and%20Technical%20Education/README.md) | <b>Vocational and Technical Education</b> | <b>2301</b> |
 | [<b>45.</b>](Chapter%20045%20-%20Career%20Education%20and%20Career%20Development/README.md) | <b>Career Education and Career Development</b> | <b>2501</b> |
 | [<b>46.</b>](Chapter%20046%20-%20Career%20Education%20Incentive/README.md) | <b>Career Education Incentive \[Repealed or Omitted\]</b> | <b>2601</b> |
 | [<b>47.</b>](Chapter%20047%20-%20Strengthening%20and%20Improvement%20of%20Elementary%20and%20Secondary%20Schools/README.md) | <b>Strengthening and Improvement of Elementary and Secondary Schools \[Omitted, Transferred, or Repealed\]</b> | <b>2701</b> |

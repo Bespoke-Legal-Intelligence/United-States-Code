@@ -14,7 +14,7 @@ The Secretary may make grants to, and enter into contracts with, States, public 
 
 &emsp;&emsp;(C) for the establishment of resource centers for the purpose of providing information and training to professionals working in the field of child abuse and neglect;
 
-&emsp;&emsp;(D) for training to support the enhancement of linkages between child protective service agencies and health care agencies, including physical and mental health services, to improve forensic diagnosis and health evaluations and for innovative partnerships between child protective service agencies and health care agencies that offer creative approaches to using existing Federal, State, local, and private funding to meet the health evaluation needs of children who have been subjects of substantiated cases of child abuse or neglect;
+&emsp;&emsp;(D) for training to support the enhancement of linkages between child protective service agencies and health care agencies, including physical and mental health services, to improve forensic diagnosis and health evaluations and for innovative partnerships between child protective service agencies and health care agencies that offercreative approaches to using existing Federal, State, local, and private funding to meet the health evaluation needs of children who have been subjects of substantiated cases of child abuse or neglect;
 
 &emsp;&emsp;(E) for the training of personnel in best practices to promote collaboration with the families from the initial time of contact during the investigation through treatment;
 
@@ -122,7 +122,7 @@ In addition to grants or contracts made under subsection (a) of this section, gr
 
 #### (c) Evaluation
 
-In making grants for projects under this section, the Secretary shall require all suchprojects to be evaluated for their effectiveness. Funding for such evaluations shall be provided either as a stated percentage of a demonstration grant or as a separate grant or contract entered into by the Secretary for the purpose of evaluating a particular demonstration project or group of projects. In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.
+In making grants for projects under this section, the Secretary shall require all such projects to be evaluated for their effectiveness. Funding for such evaluations shall be provided either as a stated percentage of a demonstration grant or as a separate grant or contract entered into by the Secretary for the purpose of evaluating a particular demonstration project or group of projects. In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.
 
 (Pub. L. 93–247, title I, §105, formerly §7, Jan. 31, 1974, 88 Stat. 8; Pub. L. 98–457, title I, §106, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 108; renumbered title I, §106, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §§113, 141(1), (2), (5), May 28, 1992, 106 Stat. 191, 199, 200; renumbered §105 and amended Pub. L. 104–235, title I, §§106, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3069, 3079; Pub. L. 108–36, title I, §113, June 25, 2003, 117 Stat. 805.)
 

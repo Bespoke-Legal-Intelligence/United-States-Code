@@ -20,7 +20,7 @@ A local educational agency shall use grant funds received under this subchapter 
 
 &emsp;&emsp;(B) the need for community support.
 
-&emsp;(7) Coordination of school-based activities designed to promote school safety and reduce or prevent school violence and discipline problems with related efforts of education, law enforcement, judicial, health, social service, and other appropriate agencies and organizations and juvenile justice programs.
+&emsp;(7) Coordination of school-based activities designed to promote school safety and reduceor prevent school violence and discipline problems with related efforts of education, law enforcement, judicial, health, social service, and other appropriate agencies and organizations and juvenile justice programs.
 
 &emsp;(8) Developing and implementing violence prevention activities and materials, including—
 

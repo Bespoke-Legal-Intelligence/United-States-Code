@@ -44,7 +44,3 @@ For purposes of this section, the eligible agency shall provide funds to charter
 
 Provisions similar to this section were contained in sections 2341b and 2341c of this title, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2351, 2352 of this title.
-

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—There is established in the Department of Homeland Security a board to beknown as the “Transportation Security Oversight Board”.
+In General.—There is established in the Department of Homeland Security a board to be known as the “Transportation Security Oversight Board”.
 
 (b)
 
@@ -64,6 +64,10 @@ Subsec. (b)(1). Pub. L. 107–296, §426(a)(2), added subpar. (A), redesignated 
 
 Subsec. (b)(2). Pub. L. 107–296, §426(a)(3), substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108-458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
@@ -71,8 +75,4 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 114, 46111 of this title.
 

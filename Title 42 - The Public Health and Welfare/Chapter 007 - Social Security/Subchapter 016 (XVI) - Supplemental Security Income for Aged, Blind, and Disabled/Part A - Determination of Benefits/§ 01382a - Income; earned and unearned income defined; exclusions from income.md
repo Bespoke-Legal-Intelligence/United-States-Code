@@ -30,13 +30,19 @@
 
 (b) In determining the income of an individual (and his eligible spouse) there shall be excluded—
 
-&emsp;(1) subject to limitations (as to amount or otherwise) prescribed by the Commissioner of Social Security, if such individual is a child who is, as determined by the Commissioner of Social Security, a student regularly attending a school, college, or university, or a course of vocational or technical training designed to prepare him for gainful employment, the earned income of such individual;
+&emsp;(1) subject to limitations (as to amount or otherwise) prescribed by the Commissioner of Social Security, if such individual is under the age of 22 and is, as determined by the Commissioner of Social Security, a student regularly attending a school, college, or university, or a course of vocational or technical training designed to prepare him for gainful employment, the earned income of such individual;
 
 &emsp;(2)(A) the first $240 per year (or proportionately smaller amounts for shorter periods) of income (whether earned or unearned) other than income which is paid on the basis of the need of the eligible individual, and
 
 &emsp;(B) monthly (or other periodic) payments received by any individual, under a program established prior to July 1, 1973 (or any program established prior to such date but subsequently amended so as to conform to State or Federal constitutional standards), if (i) such payments are made by the State of which the individual receiving such payments is a resident, (ii) eligibility of any individual for such payments is not based on need and is based solely on attainment of age 65 or any other age set by the State and residency in such State by such individual, and (iii) on or before September 30, 1985, such individual (I) first becomes an eligible individual or an eligible spouse under this title, and (II) satisfies the twenty-five-year residency requirement of such program as such program was in effect prior to January 1, 1983;
 
-&emsp;(3)(A) the total unearned income of such individual (and such spouse, if any) in a month which, as determined in accordance with criteria prescribed by the Commissioner of Social Security, is received too infrequently or irregularly to be included, if such income so received does not exceed $20 in such month, and (B) the total earned income of such individual (and such spouse, if any) in a month which, as determined in accordance with such criteria, is received too infrequently or irregularly to be included, if such income so received does not exceed $10 in such month;
+&emsp;(3) in any calendar quarter, the first—
+
+&emsp;&emsp;(A) $60 of unearned income, and
+
+&emsp;&emsp;(B) $30 of earned income,
+
+> &emsp;of such individual (and such spouse, if any) which, as determined in accordance with criteria prescribed by the Commissioner of Social Security, is received too infrequently or irregularly to be included;
 
 &emsp;(4)(A) if such individual (or such spouse) is blind (and has not attained age 65, or received benefits under this subchapter (or aid under a State plan approved under section 1202 or 1382 of this title) for the month before the month in which he attained age 65), (i) the first $780 per year (or proportionately smaller amounts for shorter periods) of earned income not excluded by the preceding paragraphs of this subsection, plus one-half of the remainder thereof, (ii) an amount equal to any expenses reasonably attributable to the earning of any income, and (iii) such additional amounts of other income, where such individual has a plan for achieving self-support approved by the Commissioner of Social Security, as may be necessary for the fulfillment of such plan,
 
@@ -48,7 +54,7 @@
 
 &emsp;(6) assistance, furnished to or on behalf of such individual (and spouse), which is based on need and furnished by any State or political subdivision of a State;
 
-&emsp;(7) any portion of any grant, scholarship, or fellowship received for use in paying the cost of tuition and fees at any educational (including technical or vocational education) institution;
+&emsp;(7) any portion of any grant, scholarship, fellowship, or gift (or portion of a gift) used to pay the cost of tuition and fees at any educational (including technical or vocational education) institution;
 
 &emsp;(8) home produce of such individual (or spouse) utilized by the household for its own consumption;
 
@@ -70,21 +76,27 @@
 
 &emsp;(17) any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime;
 
-&emsp;(18) relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 which is subject to thetreatment required by section 216 of such Act \[42 U.S.C. 4636\];
+&emsp;(18) relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 which is subject to the treatment required by section 216 of such Act \[42 U.S.C. 4636\];
 
 &emsp;(19) any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);
 
 &emsp;(20) special pay received pursuant to section 310 of title 37;
 
-&emsp;(21) the interest or other earnings on any account established and maintained in accordance with section 1383(a)(2)(F) of this title; and
+&emsp;(21) the interest or other earnings on any account established and maintained in accordance with section 1383(a)(2)(F) of this title;
 
 &emsp;(22) any gift to, or for the benefit of, an individual who has not attained 18 years of age and who has a life-threatening condition, from an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 which is exempt from taxation under section 501(a) of such Code—
 
 &emsp;&emsp;(A) in the case of an in-kind gift, if the gift is not converted to cash; or
 
-&emsp;&emsp;(B) in the case of a cash gift, only to the extent that the total amount excluded from the income of the individual pursuant to this paragraph in the calendar year in which the gift is made does not exceed $2,000.
+&emsp;&emsp;(B) in the case of a cash gift, only to the extent that the total amount excluded from the income of the individual pursuant to this paragraph in the calendar year in which the gift is made does not exceed $2,000; and
 
-(Aug. 14, 1935, ch. 531, title XVI, §1612, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1468; amended Pub. L. 93–484, §4, Oct. 26, 1974, 88 Stat. 1460; Pub. L. 94–202, §9, Jan. 2, 1976, 89 Stat. 1140; Pub. L. 94–331, §§2(a), 4(a), June 30, 1976, 90 Stat. 781, 782; Pub. L. 94–455, title XXI, §2125, Oct. 4, 1976, 90 Stat. 1920; Pub. L. 94–566, title V, §505(b), Oct. 20, 1976, 90 Stat. 2686; Pub. L. 95–171, §8(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–222, title I, §101(a)(2)(B), Apr. 1, 1980, 94 Stat. 195; Pub. L. 96–265, title II, §202(a), title III, §302(b), June 9, 1980, 94 Stat. 449, 451; Pub. L. 96–473, §6(g), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–35, title XXIII, §2341(b), Aug. 13, 1981, 95 Stat. 865; Pub. L. 97–424, title V, §545(a), Jan. 6, 1983, 96 Stat. 2198; Pub. L. 98–21, title IV, §404(a), Apr. 20, 1983, 97 Stat. 140; Pub. L. 98–369, div. B, title VI, §§2616(a), 2639(b), (c), 2663(g)(3), (4), July 18, 1984, 98 Stat. 1133, 1144, 1145, 1168; Pub. L. 99–514, §2, title XVIII, §1883(d)(2), (3), Oct. 22, 1986, 100 Stat. 2095, 2918; Pub. L. 100–203, title IX, §9120(a), Dec. 22, 1987, 101 Stat. 1330–309; Pub. L. 100–647, title VIII, §8103(a), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 100–707, title I, §109(p), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–239, title VIII, §§8011(a), 8013(a), Dec. 19, 1989, 103 Stat. 2464; Pub. L. 101–508, title V, §§5031(a), 5033(a), 5034(a), 5035(a), title XI, §11115(b)(1), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–66, title XIII, §13733(b), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–432, title II, §§264(a), 267(a), Oct. 31, 1994, 108 Stat. 4467, 4469; Pub. L. 104–193, title II, §213(c), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §205(b), Dec. 14, 1999, 113 Stat. 1834; Pub. L. 106–554, §1(a)(1) \[title V, §519\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74.)
+&emsp;(23) interest or dividend income from resources—
+
+&emsp;&emsp;(A) not excluded under section 1382b(a) of this title, or
+
+&emsp;&emsp;(B) excluded pursuant to Federal law other than section 1382b(a) of this title.
+
+(Aug. 14, 1935, ch. 531, title XVI, §1612, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1468; amended Pub. L. 93–484, §4, Oct. 26, 1974, 88 Stat. 1460; Pub. L. 94–202, §9, Jan. 2, 1976, 89 Stat. 1140; Pub. L. 94–331, §§2(a), 4(a), June 30, 1976, 90 Stat. 781, 782; Pub. L. 94–455, title XXI, §2125, Oct. 4, 1976, 90 Stat. 1920; Pub. L. 94–566, title V, §505(b), Oct. 20, 1976, 90 Stat. 2686; Pub. L. 95–171, §8(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–222, title I, §101(a)(2)(B), Apr. 1, 1980, 94 Stat. 195; Pub. L. 96–265, title II, §202(a), title III, §302(b), June 9, 1980, 94 Stat. 449, 451; Pub. L. 96–473, §6(g), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–35, title XXIII, §2341(b), Aug. 13, 1981, 95 Stat. 865; Pub. L. 97–424, title V, §545(a), Jan. 6, 1983, 96 Stat. 2198; Pub. L. 98–21, title IV, §404(a), Apr. 20, 1983, 97 Stat. 140; Pub. L. 98–369, div. B, title VI, §§2616(a), 2639(b), (c), 2663(g)(3), (4), July 18, 1984, 98 Stat. 1133, 1144, 1145, 1168; Pub. L. 99–514, §2, title XVIII, §1883(d)(2), (3), Oct. 22, 1986, 100 Stat. 2095, 2918; Pub. L. 100–203, title IX, §9120(a), Dec. 22, 1987, 101 Stat. 1330–309; Pub. L. 100–647, title VIII, §8103(a), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 100–707, title I, §109(p), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–239, title VIII, §§8011(a), 8013(a), Dec. 19, 1989, 103 Stat. 2464; Pub. L. 101–508, title V, §§5031(a), 5033(a), 5034(a), 5035(a), title XI, §11115(b)(1), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–66, title XIII, §13733(b), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–432, title II, §§264(a), 267(a), Oct. 31, 1994, 108 Stat. 4467, 4469; Pub. L. 104–193, title II, §213(c), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §205(b), Dec. 14, 1999, 113 Stat. 1834; Pub. L. 106–554, §1(a)(1) \[title V, §519\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74; Pub. L. 108–203, title IV, §§430(a), (b), 432(a), 435(a), Mar. 2, 2004, 118 Stat. 538–540.)
 
 #### References in Text
 
@@ -105,6 +117,14 @@ The Housing Act of 1949, referred to in subsec. (b)(14), is act July 15, 1949, c
 The Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970, referred to in subsec. (b)(18), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended. Title II of the Act enacted subchapter II (§4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
+
+2004—Subsec. (b)(1). Pub. L. 108–203, §432(a), substituted “under the age of 22 and” for “a child who”.
+
+Subsec. (b)(3). Pub. L. 108–203, §430(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “(A) the total unearned income of such individual (and such spouse, if any) in a month which, as determined in accordance with criteria prescribed by the Commissioner of Social Security, is received too infrequently or irregularly to be included, if such income so received does not exceed $20 in such month, and (B) the total earned income of such individual (and such spouse, if any) in a month which, as determined in accordance with such criteria, is received too infrequently or irregularly to be included, if such income so received does not exceed $10 in such month;”.
+
+Subsec. (b)(7). Pub. L. 108–203, §435(a), substituted “fellowship, or gift (or portion of a gift) used to pay” for “or fellowship received for use in paying”.
+
+Subsec. (b)(23). Pub. L. 108–203, §430(b), added par. (23).
 
 2000—Subsec. (a)(1)(A). Pub. L. 106–554, §1(a)(1) \[title V, §519(1)\], inserted “but without the application of section 410(j)(3) of this title” before semicolon.
 
@@ -164,7 +184,7 @@ Subsec. (b)(11) to (13). Pub. L. 99–514, §1883(d)(3)(C), provided for technic
 
 1984—Subsec. (b)(2)(B). Pub. L. 98–369, §2663(g)(3), realigned margin of subpar. (B).
 
-Pub. L. 98–369, §2616(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “monthly (or other periodic) payments received by any individual, under a program established prior to July 1, 1973, if such payments are made by the State of which the individual receiving such payments is a resident, and if eligibility of any individual for such payments is not based on need and is based solely on attainment of age 65 and duration of residence in such State by such individual;”.
+Pub. L. 98–369, §2616(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “monthly (or other periodic) payments received by any individual, under a program established prior to July 1, 1973, if such payments are made by the State of which the individual receiving such payments is a resident, and if eligibility of any individual for such payments isnot based on need and is based solely on attainment of age 65 and duration of residence in such State by such individual;”.
 
 Subsec. (b)(9). Pub. L. 98–369, §2663(g)(4), inserted a comma after “child”.
 
@@ -199,6 +219,14 @@ Subsec. (b)(6). Pub. L. 94–566 substituted “assistance, furnished to or on b
 Subsec. (b)(11). Pub. L. 94–331, §2(a)(3), added par. (11).
 
 1974—Subsec. (a)(2)(A). Pub. L. 93–484 designated existing provisions as cl. (i) and added cl. (ii).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–203, title IV, §430(c), Mar. 2, 2004, 118 Stat. 538, provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to benefits payable for months in calendar quarters that begin more than 90 days after the date of the enactment of this Act \[Mar. 2, 2004\].”
+
+Pub. L. 108–203, title IV, §432(b), Mar. 2, 2004, 118 Stat. 539, provided that: “The amendment made by this section \[amending this section\] shall be effective with respect to benefits payable for months that begin on or after 1 year after the date of enactment of this Act \[Mar. 2, 2004\].”
+
+Pub. L. 108–203, title IV, §435(c), Mar. 2, 2004, 118 Stat. 540, provided that: “The amendments made by this section \[amending this section and section 1382b of this title\] shall apply to benefits payable for months that begin more than 90 days after the date of enactment of this Act \[Mar. 2, 2004\].”
 
 #### Effective Date of 1999 Amendment
 
@@ -301,10 +329,6 @@ For applicability of this section to Northern Mariana Islands, see section 502(a
 #### Puerto Rico, Guam, and Virgin Islands
 
 Enactment of provisions of Pub. L. 92–603, eff. Jan. 1, 1974, not applicable to Puerto Rico, Guam, and the Virgin Islands, see section 303(b) of Pub. L. 92–603, set out as a note under section 301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1382, 1382b, 1382e, 1382h, 1382j, 1383, 1396a, 1396b, 1396d, 1396p, 8624, 11398 of this title; title 7 section 2014.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(a)(15),”.</i>
 

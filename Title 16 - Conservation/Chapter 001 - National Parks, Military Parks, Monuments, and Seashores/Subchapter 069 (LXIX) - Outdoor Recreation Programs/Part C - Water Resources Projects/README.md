@@ -1,9 +1,5 @@
 Part C—Water Resources Projects
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 460<i>l</i>–31, 460<i>l</i>–34 of this title; title 33 section 2297; title 43 sections 508, 1527, 1541.
-
 
 ---
 

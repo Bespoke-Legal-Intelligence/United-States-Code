@@ -8,7 +8,3 @@ At least sixty days prior to offering for sale or otherwise conveying public lan
 
 This Act, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1721 of this title.
-

@@ -6,7 +6,7 @@ Section 72, act July 1, 1916, ch. 209, §1, 39 Stat. 297, provided that headquar
 
 Section 73, R.S. §4826; act June 7, 1924, ch. 291, title II, 43 Stat. 518, provided for election of civilian managers of National Home for Disabled Volunteer Soldiers.
 
-Acts Mar. 2, 1887, ch. 316, §4, 24 Stat. 44; Mar. 3, 1891, No. 21, 26 Stat. 117; June 23, 1913, ch. 3, §1, 38 Stat. 43;Oct. 19, 1914, No. 49, 38 Stat. 780, which were set out in a note under section 73 of this title, related to number of citizen managers of National Home for Disabled Volunteer Soldiers, prior to repeal by Pub. L. 85–857, §14(8), (13), (31), (33), Sept. 2, 1958, 72 Stat. 1269, 1270.
+Acts Mar. 2, 1887, ch. 316, §4, 24 Stat. 44; Mar. 3, 1891, No. 21, 26 Stat. 117; June 23, 1913, ch. 3, §1, 38 Stat. 43; Oct. 19, 1914, No. 49, 38 Stat. 780, which were set out in a note under section 73 of this title, related to number of citizen managers of National Home for Disabled Volunteer Soldiers, prior to repeal by Pub. L. 85–857, §14(8), (13), (31), (33), Sept. 2, 1958, 72 Stat. 1269, 1270.
 
 Section 74, R.S. §4827; act June 7, 1924, ch. 291, title II, 43 Stat. 518, provided for election of officers of Board of Managers of National Home for Disabled Volunteer Soldiers.
 

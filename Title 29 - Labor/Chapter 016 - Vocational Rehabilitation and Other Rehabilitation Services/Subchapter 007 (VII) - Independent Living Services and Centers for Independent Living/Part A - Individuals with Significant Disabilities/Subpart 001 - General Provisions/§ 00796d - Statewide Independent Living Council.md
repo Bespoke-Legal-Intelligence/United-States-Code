@@ -152,7 +152,3 @@ Subsec. (b)(5)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(7)(B)\], s
 
 Subsec. (b)(6)(A)(ii), (7)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(7)(C)\], substituted “appointing authority described in paragraph (3)” for “Governor”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 721, 725, 796, 796c, 796e–2 of this title.
-

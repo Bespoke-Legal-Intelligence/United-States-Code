@@ -8,9 +8,5 @@ The Commission shall provide the Securities and Exchange Commission with notice 
 
 Section is comprised of subsec. (g) of section 6 of act Sept. 21, 1922. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsec. (c) of section 6 is classified to sections 9 and 15 of this title. Subsecs. (d), (e), and (f) of section 6 are classified to sections 13b, 9a, and 9b of this title, respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should refer to the second par. (5) of section 6k.</i>
 

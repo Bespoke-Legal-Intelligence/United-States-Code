@@ -24,15 +24,11 @@ Pub. L. 98–390, Aug. 21, 1984, 98 Stat. 1356, provided: “That, notwithstandi
 
 “(3)(A) The funds allocated to the Eastern Creeks under paragraph (1) shall be held in trust and invested by the Secretary for the benefit of the Eastern Creeks.
 
-“Sec. 3. (a) If one or more of the Eastern Creek entities that have filed a petition for Federal acknowledgement are acknowledged to be an Indian tribe on or before December 30, 1984, such tribe or tribes shall be deemed to be a successor entity to the original Eastern Creek group for purposes of distribution of the residual funds in docket numbered 21, and the funds held intrust for the benefit of the Eastern Creeks under section 2 of this Act (including all interest and income accrued thereon) shall be distributed to such tribe or tribes by the Secretary as needed to make any expenditures for any plan or program authorized by ordinance or resolution of such tribe or tribes.
+“Sec. 3. (a) If one or more of the Eastern Creek entities that have filed a petition for Federal acknowledgement are acknowledged to be an Indian tribe on or before December 30, 1984, such tribe or tribes shall be deemed to be a successor entity to the original Eastern Creek group for purposes of distribution of the residual funds in docket numbered 21, and the funds held in trust for the benefit of the Eastern Creeks under section 2 of this Act (including all interest and income accrued thereon) shall be distributed to such tribe or tribes by the Secretary as needed to make any expenditures for any plan or program authorized by ordinance or resolution of such tribe or tribes.
 
 “(b) If more than one tribal entity is recognized by the Secretary, such funds shall be prorated between the tribes on the basis of their respective base membership rolls on the date of acknowledgement.
 
 “(c) If none of the Eastern Creeks which have filed a petition for acknowledgement are recognized as an Indian tribe by the Secretary prior to December 30, 1984, the funds held in trust for the Eastern Creeks under this Act (including all interest and income accrued thereon) shall be distributed by the Secretary in the form of per capita payments in addition to any amount appropriated in satisfaction of a judgment awarded the Eastern Creeks in docket numbered 275 of the Indian Claims Commission.
 
 “Sec. 4. If Federal recognition as an Indian tribe is extended to any Eastern Creek entity prior to distribution of the funds awarded in docket numbered 272 and 275, such tribe or tribes shall be entitled to amend the existing distribution plans for these awards by filing with the Secretary an alternative distribution plan for its proportionate share of funds in these dockets.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 788d of this title.
 

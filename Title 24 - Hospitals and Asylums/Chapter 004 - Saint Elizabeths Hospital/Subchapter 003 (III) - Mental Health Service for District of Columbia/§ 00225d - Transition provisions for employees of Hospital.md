@@ -46,7 +46,3 @@ The District of Columbia Government Comprehensive Merit Personnel Act of 1978, r
 
 For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(<i>o</i>) of Pub. L. 99–335, set out as a note under section 8331 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 225e of this title.
-

@@ -74,7 +74,7 @@ Sec. 6. <i>Design of the Medal</i>. The Army Institute of Heraldry shall prepare
 
 Ex. Ord. No. 10717, June 27, 1957, 22 F.R. 4632, as amended by Ex. Ord. No. 10979, Dec. 12, 1961, 26 F.R. 11937; Ex. Ord. No. 11085, Feb. 22, 1963, 28 F.R. 1759; Ex. Ord. No. 12014, Oct. 19, 1977, 42 F.R. 56105; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-Section 1. There is hereby established an honorary award for the recognition of distinguished service by civilian officers and employees of the Federal Government. The award shall be known as the President's Award for Distinguished Federal Civilian Service, and shall consist of a gold medal, the design of which accompanies and is hereby made a part of this order, suspended on a ribbon of appropriate material and color, and accompanying appurtenances. Each medal shall be suitably inscribed, and an appropriate citation shall accompany each award.
+Section 1. There is hereby established an honorary award for the recognition of distinguished service by civilian officers and employees of the Federal Government. The award shall be known as the President's Award for Distinguished Federal Civilian Service, and shall consist of a gold medal, the design of which accompanies and is hereby made a part of this order, suspended on a ribbon of appropriate material and color,and accompanying appurtenances. Each medal shall be suitably inscribed, and an appropriate citation shall accompany each award.
 
 Sec. 2. (a) The President's Award for Distinguished Federal Civilian Service shall be presented by the President to civilian officers or employees of the Federal Government for the best achievements having current impact in improving Government operations or serving the public interest. These achievements shall exemplify one or more of the following:
 
@@ -97,8 +97,4 @@ Sec. 4. The form and procedures for making nominations for this award shall be p
 (b) The Director shall not recommend any person for the award without the concurrence of the head of the agency in which that person was employed at the time of the achievement for which the award is recommended.
 
 (c) Persons appointed by the President are not eligible for this award unless, in the opinion of the Office, they are currently serving in a career position.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4502 of this title; title 15 section 3710c.
 

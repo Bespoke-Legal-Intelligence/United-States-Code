@@ -6,7 +6,7 @@
 
 &emsp;(2) express such goals in an objective, quantifiable, and measurable form unless authorized to be in an alternative form under subsection (b);
 
-&emsp;(3) provide a description of how the performance goals and objectives are to be achieved,including the operation processes, training, skills and technology, and the human, capital, information, and other resources and strategies required to meet those performance goals and objectives.<sup>1</sup>
+&emsp;(3) provide a description of how the performance goals and objectives are to be achieved, including the operation processes, training, skills and technology, and the human, capital, information, and other resources and strategies required to meet those performance goals and objectives.<sup>1</sup>
 
 &emsp;(4) establish performance indicators to be used in measuring or assessing the relevant outputs, service levels, and outcomes of each program activity;
 
@@ -116,19 +116,13 @@ Purposes.—The purposes of this Act \[see Short Title of 1993 Amendment note se
 
 Section 8(a) of Pub. L. 103–62 provided that: “Nothing in this Act \[see Short Title of 1993 Amendment note set out under section 1101 of this title\] shall be construed as limiting the ability of Congress to establish, amend, suspend, or annul a performance goal. Any such action shall have the effect of superseding that goal in the plan submitted under section 1105(a)(29) \[now 1105(a)(28)\] of title 31, United States Code.”
 
-#### General Accounting Office Report
+#### GAO Report
 
-Section 8(b) of Pub. L. 103–62 provided that:
-
-“No later than June 1, 1997, the Comptroller General of the United States shall report to Congress on the implementation of this Act \[see Short Title of 1993 Amendment note set out under section 1101 of this title\], including the prospects for compliance by Federal agencies beyond those participating as pilot projects under sections 1118 and 9704 of title 31, United States Code.”
+Pub. L. 103–62, §8(b), Aug. 3, 1993, 107 Stat. 295, required the Comptroller General to report to Congress, not later than June 1, 1997, on the implementation of Pub. L. 103–62, including compliance by Federal agencies beyond those participating as pilot projects under sections 1118 and 9704 of this title.
 
 #### Strategic Planning and Performance Measurement Training
 
 Section 9 of Pub. L. 103–62 provided that: “The Office of Personnel Management shall, in consultation with the Director of the Office of Management and Budget and the Comptroller General of the United States, develop a strategic planning and performance measurement training component for its management training program and otherwise provide managers with an orientation on the development and use of strategic planning and program performance measurement.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1105, 1116, 1117, 1118, 1119, 9703, 9704 of this title; title 5 section 306; title 15 sections 638, 7406; title 23 section 508; title 40 section 11315; title 41 section 414; title 44 sections 3534, 3544.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

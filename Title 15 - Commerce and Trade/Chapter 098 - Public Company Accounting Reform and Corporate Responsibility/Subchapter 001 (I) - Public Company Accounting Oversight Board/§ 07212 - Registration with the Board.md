@@ -42,7 +42,7 @@ Beginning 180 days after the date of the determination of the Commission under s
 
 #### (1) Timing
 
-&emsp;The Board shall approve a completed application for registration not later than 45 days after the date of receipt of the application, in accordance with the rules of the Board, unless the Board, prior to such date, issues a written notice of disapproval to, or requests more information from, the prospective registrant.
+&emsp;The Board shall approve a completed application for registration not later than 45 daysafter the date of receipt of the application, in accordance with the rules of the Board, unless the Board, prior to such date, issues a written notice of disapproval to, or requests more information from, the prospective registrant.
 
 #### (2) Treatment
 
@@ -61,8 +61,4 @@ Registration applications and annual reports required by this subsection, or suc
 The Board shall assess and collect a registration fee and an annual fee from each registered public accounting firm, in amounts that are sufficient to recover the costs of processing and reviewing applications and annual reports.
 
 (Pub. L. 107–204, title I, §102, July 30, 2002, 116 Stat. 753.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7211, 7216, 7219 of this title.
 

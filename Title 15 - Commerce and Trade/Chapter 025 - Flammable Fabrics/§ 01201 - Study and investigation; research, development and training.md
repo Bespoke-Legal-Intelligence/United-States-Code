@@ -42,7 +42,3 @@ Pub. L. 105–276, title IV, §423, Oct. 21, 1998, 112 Stat. 2510, provided that
 
 “(c) The Commission, before promulgating any notice of proposed rulemaking or final rulemaking setting flammability standards for residential upholstered furniture, shall consider fully the findings and conclusions of the Academy.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1193 of this title.
-

@@ -2,7 +2,7 @@
 
 For the purposes of this chapter—
 
-(a)(1) The term “State”, except as used in the last sentence of section 372(a) of this title,means any State or Territory of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+(a)(1) The term “State”, except as used in the last sentence of section 372(a) of this title, means any State or Territory of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 (2) The term “Territory” means any Territory or possession of the United States, including the District of Columbia, and excluding the Commonwealth of Puerto Rico and the Canal Zone.
 
@@ -46,7 +46,7 @@ For the purposes of this chapter—
 
 (p) The term “new drug” means—
 
-&emsp;(1) Any drug (except a new animal drug or an animal feed bearing or containing a new animal drug) the composition of which is such that such drug is not generally recognized, among experts qualified by scientific trainingand experience to evaluate the safety and effectiveness of drugs, as safe and effective for use under the conditions prescribed, recommended, or suggested in the labeling thereof, except that such a drug not so recognized shall not be deemed to be a “new drug” if at any time prior to June 25, 1938, it was subject to the Food and Drugs Act of June 30, 1906, as amended, and if at such time its labeling contained the same representations concerning the conditions of its use; or
+&emsp;(1) Any drug (except a new animal drug or an animal feed bearing or containing a new animal drug) the composition of which is such that such drug is not generally recognized, among experts qualified by scientific training and experience to evaluate the safety and effectiveness of drugs, as safe and effective for use under the conditions prescribed, recommended, or suggested in the labeling thereof, except that such a drug not so recognized shall not be deemed to be a “new drug” if at any time prior to June 25, 1938, it was subject to the Food and Drugs Act of June 30, 1906, as amended, and if at such time its labeling contained the same representations concerning the conditions of its use; or
 
 &emsp;(2) Any drug (except a new animal drug or an animal feed bearing or containing a new animal drug) the composition of which is such that such drug, as a result of investigations to determine its safety and effectiveness for use under such conditions, has become so recognized, but which has not, otherwise than in such investigations, been used to a material extent or for a material time under such conditions.
 
@@ -106,13 +106,15 @@ For the purposes of this chapter—
 
 (3) Nothing in subparagraph (1) of this paragraph shall be construed to apply to any pesticide chemical, soil or plant nutrient, or other agricultural chemical solely because of its effect in aiding, retarding, or otherwise affecting, directly or indirectly, the growth or other natural physiological processes of produce of the soil and thereby affecting its color, whether before or after harvest.
 
-(u) The term “safe” as used in paragraph (s) of this section and in sections 348, 360b, and 379e of this title, has reference to the health of man or animal.
+(u) The term “safe” as used in paragraph (s) of this section and in sections 348, 360b, 360ccc, and 379e of this title, has reference to the health of man or animal.
 
 (v) The term “new animal drug” means any drug intended for use for animals other than man, including any drug intended for use in animal feed but not including such animal feed,—
 
 &emsp;(1) the composition of which is such that such drug is not generally recognized, among experts qualified by scientific training and experience to evaluate the safety and effectiveness of animal drugs, as safe and effective for use under the conditions prescribed, recommended, or suggested in the labeling thereof; except that such a drug not so recognized shall not be deemed to be a “new animal drug” if at any time prior to June 25, 1938, it was subject to the Food and Drug Act of June 30, 1906, as amended, and if at such time its labeling contained the same representations concerning the conditions of its use; or
 
 &emsp;(2) the composition of which is such that such drug, as a result of investigations to determine its safety and effectiveness for use under such conditions, has become so recognized but which has not, otherwise than in such investigations, been used to a material extent or for a material time under such conditions.
+
+> Provided that any drug intended for minor use or use in a minor species that is not the subject of a final regulation published by the Secretary through notice and comment rulemaking finding that the criteria of paragraphs (1) and (2) have not been met (or that the exception to the criterion in paragraph (1) has been met) is a new animal drug.
 
 (w) The term “animal feed”, as used in paragraph (w) <sup>1</sup> of this section, in section 360b of this title, and in provisions of this chapter referring to such paragraph or section, means an article which is intended for use for food for animals other than man and which is intended for use as a substantial source of nutrients in the diet of the animal, and is not limited to a mixture intended to be the sole ration of the animal.
 
@@ -220,7 +222,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(A) exhibits spontaneous disintegration of unstable nuclei by the emission of positrons and is used for the purpose of providing dual photon positron emission tomographic diagnostic images; and
 
-&emsp;&emsp;(B) has been compounded by or on the order of a practitioner who is licensed by a State to compound or order compounding for a drug described in subparagraph (A), and is compounded in accordance with that State'slaw, for a patient or for research, teaching, or quality control; and
+&emsp;&emsp;(B) has been compounded by or on the order of a practitioner who is licensed by a State to compound or order compounding for a drug described in subparagraph (A), and is compounded in accordance with that State's law, for a patient or for research, teaching, or quality control; and
 
 &emsp;(2) includes any nonradioactive reagent, reagent kit, ingredient, nuclide generator, accelerator, target material, electronic synthesizer, or other apparatus or computer program to be used in the preparation of such a drug.
 
@@ -242,7 +244,23 @@ Priority supplement.—The term “priority supplement” means a drug applicati
 
 (2) The term “semi-critical reprocessed single-use device” means a reprocessed single-use device that is intended to contact intact mucous membranes and not penetrate normally sterile areas of the body.
 
-(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619.)
+(nn) The term “major species” means cattle, horses, swine, chickens, turkeys, dogs, and cats, except that the Secretary may add species to this definition by regulation.
+
+(<i>oo</i>) The term “minor species” means animals other than humans that are not major species.
+
+(pp) The term “minor use” means the intended use of a drug in a major species for an indication that occurs infrequently and in only a small number of animals or in limited geographical areas and in only a small number of animals annually.
+
+(qq) The term “major food allergen” means any of the following:
+
+&emsp;(1) Milk, egg, fish (e.g., bass, flounder, or cod), Crustacean shellfish (e.g., crab, lobster, or shrimp), tree nuts (e.g., almonds, pecans, or walnuts), wheat, peanuts, and soybeans.
+
+&emsp;(2) A food ingredient that contains protein derived from a food specified in paragraph (1), except the following:
+
+&emsp;&emsp;(A) Any highly refined oil derived from a food specified in paragraph (1) and any ingredient derived from such highly refined oil.
+
+&emsp;&emsp;(B) A food ingredient that is exempt under paragraph (6) or (7) of section 343(w) of this title.
+
+(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908.)
 
 #### References in Text
 
@@ -258,9 +276,17 @@ Section 101(4) of the Food and Drug Administration Modernization Act of 1997, re
 
 #### Amendments
 
-2002—Pars. (<i>ll</i>), (mm). Pub. L. 107–250 added pars. (<i>ll</i>) and (mm).
+2004–Par. (u). Pub. L. 108–282, §102(b)(5)(A), substituted “360b, 360ccc” for “360b”.
 
-Par. (kk). Pub. L. 107–109 added par. (kk).
+Par. (v). Pub. L. 108–282, §102(b)(5)(B), inserted concluding provisions.
+
+Pars. (nn) to (pp). Pub. L. 108–282, §102(b)(1), added pars. (nn) to (pp).
+
+Par. (qq). Pub. L. 108–282, §203(c)(1), added par. (qq).
+
+2002—Par. (kk). Pub. L. 107–109 added par. (kk).
+
+Pars. (<i>ll</i>), (mm). Pub. L. 107–250 added pars. (<i>ll</i>) and (mm).
 
 1998—Par. (q)(1). Pub. L. 105–324, §2(a), added subpar. (1) and struck out former subpar. (1) which read as follows: “The term ‘pesticide chemical’ means any substance that is a pesticide within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act, including all active and inert ingredients of such pesticide.”
 
@@ -366,6 +392,10 @@ Par. (u). Pub. L. 86–618, §101(b), redesignated par. (t) as (u) and inserted 
 
 1954—Pars. (q), (r). Act July 22, 1954, added pars. (q) and (r).
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–282, title II, §203(d), Aug. 2, 2004, 118 Stat. 908, provided that: “The amendments made by this section \[amending this section and sections 343 and 343–1 of this title\] shall apply to any food that is labeled on or after January 1, 2006.”
+
 #### Effective Date of 1997 Amendment
 
 Section 501 of Pub. L. 105–115 provided that: “Except as otherwise provided in this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\], this Act and the amendments made by this Act, other than the provisions of and the amendments made by sections 111, 121, 125, and 307 \[enacting section 355a of this title, amending this section and sections 331, 335a, 351, 352, 360, 360j, 360aa to 360cc, 360ee, 374, 379g, 381, and 382 of this title, section 45C of Title 26, Internal Revenue Code, section 156 of Title 35, Patents, and section 8126 of Title 38, Veterans’ Benefits, repealing sections 356 and 357 of this title, and enacting provisions set out as notes under sections 351 and 355 of this title\], shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\].”
@@ -390,7 +420,7 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 Section 6 of Pub. L. 90–639 provided that: “The amendments made by this Act \[amending this section, sections 331, 333, 334, and 360a of this title, and provisions set out as a note under section 289a of Title 42, The Public Health and Welfare\] shall apply only with respect to violations of the Federal Food, Drug, and Cosmetic Act \[this chapter\] committed after the date of the enactment of this Act \[Oct. 24, 1968\].”
 
-Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, except that in the case of a drug (other than one subject to section 360b(n) of this title) intended for use in animals other than man which, on Oct. 9, 1962, was commercially used or sold in the United States, was not a new drug as defined in par. (p) of this section then in force, and was not covered by an effective application under section 355 of this title, the words “effectiveness” and “effective” contained in par. (w) of this section not applicable to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling with respect to such drug on that day, see section 108(a), (b)(3) of Pub. L. 90–399, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
+Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, except that in the case of a drug (other than one subject to section 360b(n) of this title) intended for use in animals other than man which, on Oct. 9, 1962, was commercially used or sold in the United States, was not a new drug as defined in par. (p) of this section then in force, and was not covered by an effective application under section 355 of this title, the words “effectiveness” and “effective” contained in par. (v) of this section not applicable to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling with respect to such drug on that day, see section 108(a), (b)(3) of Pub. L. 90–399, as amended, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
 
 #### Effective Date of 1965 Amendment
 
@@ -412,7 +442,7 @@ Section 107 of Pub. L. 87–781 provided that:
 
 &emsp;“(A) the amendments made by this Act to section 201(p), and to subsections (b) and (d) of section 505, of the basic Act \[par. (p) of this section, and subsecs. (b) and (d) of section 355 of this title\], insofar as such amendments relate to the effectiveness of drugs, shall not, so long as approval of such application is not withdrawn or suspended pursuant to section 505(e) of that Act \[section 355(e) of this title\], apply to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling covered by such approved application, but shall apply to any changed use, or conditions of use, prescribed, recommended, or suggested in its labeling, including such conditions of use as are the subject of an amendment or supplement to such application pending on, or filed after, the enactment date; and
 
-&emsp;“(B) clause (3) of the first sentence of section 505(e) of the basic Act, as amended by this Act \[section 355(e) of this title\], shall not apply to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling covered by such approved application (except with respect to such use, or conditions of use, as are the subject of an amendment or supplement to such approved application, which amendment or supplement has been approved after the enactment date under section 505 of the basic Act as amended by this Act \[section 355 of this title\]) until whichever of the following first occurs: (i) the expiration of the two-year period beginning with the enactment date; (ii) the effective date of an order under section 505(e) of the basic Act \[section 355(e) of this title\], other than clause (3) of thefirst sentence of such section 505(e) \[section 355(e) of this title\], withdrawing or suspending the approval of such application.
+&emsp;“(B) clause (3) of the first sentence of section 505(e) of the basic Act, as amended by this Act \[section 355(e) of this title\], shall not apply to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling covered by such approved application (except with respect to such use, or conditions of use, as are the subject of an amendment or supplement to such approved application, which amendment or supplement has been approved after the enactment date under section 505 of the basic Act as amended by this Act \[section 355 of this title\]) until whichever of the following first occurs: (i) the expiration of the two-year period beginning with the enactment date; (ii) the effective date of an order under section 505(e) of the basic Act \[section 355(e) of this title\], other than clause (3) of the first sentence of such section 505(e) \[section 355(e) of this title\], withdrawing or suspending the approval of such application.
 
 “(4) In the case of any drug which, on the day immediately preceding the enactment date, (A) was commercially used or sold in the United States, (B) was not a new drug as defined by section 201(p) of the basic Act as then in force \[par. (p) of this section\], and (C) was not covered by an effective application under section 505 of that Act \[section 355 of this title\], the amendments to section 201(p) \[par. (p) of this section\] made by this Act shall not apply to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling with respect to such drug on that day.”
 
@@ -512,7 +542,7 @@ Section 5 of Pub. L. 90–639 provided that: “It is the sense of the Congress 
 
 #### Congressional Findings and Declaration of Policy
 
-Section 2 of Pub. L. 89–74 provided that: “The Congress hereby finds and declares that there is a widespread illicit traffic in depressant and stimulant drugs moving in or otherwise affecting interstate commerce; that the use of such drugs, when not under the supervision of a licensed practitioner, often endangers safety on the highways (without distinction of interstate and intrastate traffic thereon) and otherwise has become a threat to the public health and safety, making additional regulation of such drugs necessary regardless of the intrastate or interstate origin of such drugs; that in order to make regulation and protection of interstate commerce in such drugs effective, regulation of intrastate commerce is also necessary because, among other things, such drugs, when held for illicit sale, often do not bear labeling showing their place of origin and because in the form in which they are so held or in which they are consumed a determination of their place of origin is often extremely difficult or impossible; and that regulation of interstate commerce without the regulation of intrastate commerce in such drugs, as provided in this Act \[see Short Title of 1965 Amendment note set out under section 301 of this title\], would discriminate against and adversely affect interstate commerce in such drugs.”
+Section 2 of Pub. L. 89–74 provided that: “The Congress hereby finds and declares that there is a widespread illicit traffic in depressant and stimulant drugs moving in or otherwise affecting interstate commerce; that the use of such drugs, when not under the supervision of a licensed practitioner, often endangers safety on the highways (without distinction of interstate and intrastate traffic thereon) and otherwise has become a threat to the public health and safety, making additional regulation of such drugs necessary regardless of the intrastate or interstate origin of such drugs; that in order to make regulation and protection of interstate commerce in such drugs effective, regulation of intrastate commerce is also necessary because, among other things, such drugs, when held for illicit sale, often do not bear labeling showing their place of origin and because in the form in which they are so held or in which they are consumed a determination of their place of origin is often extremely difficult or impossible; and that regulation of interstate commerce without the regulation of intrastate commerce in such drugs, as provided in this Act \[see Short Title of 1965Amendment note set out under section 301 of this title\], would discriminate against and adversely affect interstate commerce in such drugs.”
 
 #### Effect of Drug Abuse Control Amendments of 1965 on State Laws
 
@@ -531,10 +561,6 @@ Section 202 of Pub. L. 87–781 provided that: “Nothing in the amendments made
 #### Definitions
 
 Section 2 of Pub. L. 105–115 provided that: “In this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\], the terms ‘drug’, ‘device’, ‘food’, and ‘dietary supplement’ have the meaning given such terms in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 343, 343–3, 346a, 346b, 350, 352, 353a, 355, 360b, 379e, 383, 802, 825, 1602 of this title; title 7 section 136; title 15 sections 1454, 1456, 1471, 2052, 2602; title 18 section 1365; title 22 section 7201; title 35 section 156; title 42 sections 274e, 287c–11, 289g–2, 300cc–12, 1396r–8; title 49 section 5702.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(v)”.</i>
 

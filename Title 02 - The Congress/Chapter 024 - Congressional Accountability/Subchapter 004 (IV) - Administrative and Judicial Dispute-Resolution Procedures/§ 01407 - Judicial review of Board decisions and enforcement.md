@@ -24,7 +24,7 @@
 
 #### (1) Respondents
 
-&emsp;(A) In any proceeding commenced by a petition filed under subsection (a)(1)(A) or (B) of this section, or filed by a party other than the General Counsel under subsection (a)(1)(C) or (D) of this section, the Office shall be named respondent and any party before the Board may be named respondent by filing a notice of election with the court within 30 days after service of the petition.
+&emsp;(A) In any proceeding commenced by a petition filed under subsection (a)(1)(A) or (B) of this section, or filed by a party other than the General Counsel under subsection (a)(1)(C) or (D) of this section, the Office shall be namedrespondent and any party before the Board may be named respondent by filing a notice of election with the court within 30 days after service of the petition.
 
 &emsp;(B) In any proceeding commenced by a petition filed by the General Counsel under subsection (a)(1)(C) or (D) of this section, the prevailing party in the final decision entered under section 1406(e) of this title shall be named respondent, and any other party before the Board may be named respondent by filing a notice of election with the court within 30 days after service of the petition.
 
@@ -61,8 +61,4 @@ To the extent necessary for decision in a proceeding commenced under subsection 
 In making determinations under subsection (d) of this section, the court shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
 
 (Pub. L. 104–1, title IV, §407, Jan. 23, 1995, 109 Stat. 35.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1331, 1341, 1351, 1361, 1401, 1409, 1410, 1411, 1413, 1416 of this title.
 

@@ -4,10 +4,6 @@ subpart 1—federal pell grants
 
 Pub. L. 105–244, title IV, §401(g)(2), Oct. 7, 1998, 112 Stat. 1652, amended subpart heading generally.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 1061, 1070, 1070a–14, 1070b–3, 1078, 1085, 1087b, 1087c, 1087e, 1087kk, 1091, 1091b, 1096 of this title; title 25 section 1809; title 26 section 6103; title 48 section 1921d.
-
 
 ---
 

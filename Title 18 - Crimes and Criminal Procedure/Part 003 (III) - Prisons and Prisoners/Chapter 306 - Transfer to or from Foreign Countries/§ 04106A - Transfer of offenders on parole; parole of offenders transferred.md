@@ -32,7 +32,3 @@
 
 Subsec. (b)(1)(C). Pub. L. 101–647, §3599C, inserted period at end.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3006A, 4109 of this title.
-

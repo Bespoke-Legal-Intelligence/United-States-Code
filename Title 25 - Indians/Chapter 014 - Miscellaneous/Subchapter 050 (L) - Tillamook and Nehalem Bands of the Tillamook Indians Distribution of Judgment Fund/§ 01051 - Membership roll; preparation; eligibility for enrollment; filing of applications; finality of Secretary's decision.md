@@ -8,7 +8,3 @@ The Secretary of the Interior shall prepare a roll of all persons who meet both 
 
 Act of August 24, 1912, referred to in text, is act Aug. 24, 1912, ch. 388, 37 Stat. 519–534. Provisions of the act relating to the annuity payment roll of the Tillamook Band of the Tillamook Indians were not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1052 of this title.
-

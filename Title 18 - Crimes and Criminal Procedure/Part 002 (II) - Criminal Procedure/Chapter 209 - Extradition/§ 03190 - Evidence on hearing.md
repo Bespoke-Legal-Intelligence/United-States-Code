@@ -10,7 +10,3 @@ Based on title 18, U.S.C., 1940 ed., §655 (R.S. §5271; Aug. 3, 1882, ch. 378, 
 
 Unnecessary words were deleted.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4114 of this title.
-

@@ -10,9 +10,5 @@ Section 1148a of title 12, referred to in text, was repealed by Pub. L. 92–181
 
 The Emergency Credit Revolving Fund, referred to in text, was abolished and its assets and liabilities transferred to the Agricultural Credit Insurance Fund by section 1929 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1929 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

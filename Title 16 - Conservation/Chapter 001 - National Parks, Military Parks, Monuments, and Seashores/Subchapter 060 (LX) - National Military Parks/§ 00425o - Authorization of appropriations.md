@@ -4,7 +4,3 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (Pub. L. 101–214, §6, Dec. 11, 1989, 103 Stat. 1851.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 425k, 425<i>l</i>, 425m of this title.
-

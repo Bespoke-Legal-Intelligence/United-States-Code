@@ -48,7 +48,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(iii) includes any “public agency”, as defined in section 203(x) of this title; and
 
-&emsp;&emsp;&emsp;(iv) includes the General Accounting Office and the Library of Congress.
+&emsp;&emsp;&emsp;(iv) includes the Government Accountability Office and the Library of Congress.
 
 #### (B) Public agency
 
@@ -102,9 +102,11 @@ As used in this subchapter:
 
 &emsp;The term “spouse” means a husband or wife, as the case may be.
 
-(Pub. L. 103–3, title I, §101, Feb. 5, 1993, 107 Stat. 7; Pub. L. 104–1, title II, §202(c)(1)(A), Jan. 23, 1995, 109 Stat. 9.)
+(Pub. L. 103–3, title I, §101, Feb. 5, 1993, 107 Stat. 7; Pub. L. 104–1, title II, §202(c)(1)(A), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
+
+2004—Par. (4)(A)(iv). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1995—Par. (4)(A)(iv). Pub. L. 104–1 added cl. (iv).
 
@@ -115,8 +117,4 @@ Amendment by Pub. L. 104–1 effective one year after transmission to Congress o
 #### Effective Date
 
 Subchapter effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, subchapter applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 1312; title 3 section 412; title 42 section 12631.
 

@@ -28,7 +28,3 @@ The Secretary of Health and Human Services (referred to in this part as the “S
 
 (Pub. L. 103–322, title III, §31112, Sept. 13, 1994, 108 Stat. 1882.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13823, 13824, 13825, 14214 of this title.
-

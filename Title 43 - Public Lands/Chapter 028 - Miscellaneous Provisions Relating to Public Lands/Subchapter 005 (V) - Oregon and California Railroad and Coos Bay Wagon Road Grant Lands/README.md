@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—OREGON AND CALIFORNIA RAILROAD AND COOS BAY WAGON ROAD GRANT LANDS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1735, 1752 of this title; title 25 section 715c; title 30 sections 601, 603.
-
 
 ---
 

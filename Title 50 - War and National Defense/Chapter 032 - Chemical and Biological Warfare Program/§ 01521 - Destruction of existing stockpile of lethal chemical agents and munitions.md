@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, the Secretary of Defense (hereinafte
 
 (3)(A) In the event of a declaration of war by the Congress or of a national emergency by the President or the Congress or if the Secretary of Defense determines that there has been a significant delay in the acquisition of an adequate number of binary chemical weapons to meet the requirements of the Armed Forces (as defined by the Joint Chiefs of Staff as of September 30, 1985), the Secretary may defer, beyond the stockpile elimination deadline, the destruction of not more than 10 percent of the stockpile described in subsection (a)(1) of this section.
 
-(B) The Secretary shall transmit written notice to the Congress of any deferral made under subparagraph (A) not later than the earlier of (A) 30 days after the date on which the decision to defer is made, or (B) 30 days before the stockpile elimination deadline.
+(B) The Secretary shall transmit written notice to the Congress of any deferral made under subparagraph (A) not later than the earlier of (A) 30 days after the date on which the decisionto defer is made, or (B) 30 days before the stockpile elimination deadline.
 
 (4) If the Secretary determines at any time that there will be a delay in meeting the requirement in paragraph (1) for the completion of the destruction of chemical weapons by the stockpile elimination deadline, the Secretary shall immediately notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of that projected delay.
 
@@ -44,29 +44,19 @@ Notwithstanding any other provision of law, the Secretary of Defense (hereinafte
 
 (C) Not later than December 15 of each year, the Director shall transmit a report to Congress on the activities carried out under this paragraph during the fiscal year preceding the fiscal year in which the report is submitted.
 
-#### (d) Plan
+#### (d) Requirement for strategic plan
 
-(1) The Secretary shall develop a comprehensive plan to carry out this section.
+(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics and the Secretary of the Army shall jointly prepare, and from time to time shall update as appropriate, a strategic plan for future activities for destruction of the United States’ stockpile of lethal chemical agents and munitions.
 
-(2) In developing such plan, the Secretary shall consult with the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency.
+(2) The plan shall include, at a minimum, the following considerations:
 
-(3) The Secretary shall transmit a copy of such plan to the Congress not later than March 15, 1986.
+&emsp;(A) Realistic budgeting for stockpile destruction and related support programs.
 
-(4) Such plan shall provide—
+&emsp;(B) Contingency planning for foreseeable or anticipated problems.
 
-&emsp;(A) an evaluation of the comparison of onsite destruction, regional destruction centers, and a national destruction site both inside and outside of the United States;
+&emsp;(C) A management approach and associated actions that address compliance with the obligations of the United States under the Chemical Weapons Convention treaty and that take full advantage of opportunities to accelerate destruction of the stockpile.
 
-&emsp;(B) for technological advances in techniques used to destroy chemical munitions;
-
-&emsp;(C) for the maintenance of a permanent, written record of the destruction of lethal chemical agents and munitions carried out under this section; and
-
-&emsp;(D) a description of—
-
-&emsp;&emsp;(i) the methods and facilities to be used in the destruction of agents and munitions under this section;
-
-&emsp;&emsp;(ii) the schedule for carrying out this section; and
-
-&emsp;&emsp;(iii) the management organization established under subsection (e) of this section.
+(3) The Secretary of Defense shall each year submit to the Committee on the Armed Services of the Senate and the Committee on Armed Services of the House of Representatives the strategic plan as most recently prepared and updated under paragraph (1). Such submission shall be made each year at the time of the submission to the Congress that year of the President's budget for the next fiscal year.
 
 #### (e) Management organization
 
@@ -90,7 +80,7 @@ Notwithstanding any other provision of law, the Secretary of Defense (hereinafte
 
 #### (g) Periodic reports
 
-(1) Except as provided by paragraph (3), the Secretary shall transmit, by December 15 ofeach year, a report to the Congress on the activities carried out under this section during the fiscal year ending on September 30 of the calendar year in which the report is to be made.
+(1) Except as provided by paragraph (3), the Secretary shall transmit, by December 15 of each year, a report to the Congress on the activities carried out under this section during the fiscal year ending on September 30 of the calendar year in which the report is to be made.
 
 (2) Each annual report shall include the following:
 
@@ -152,19 +142,21 @@ For purposes of this section:
 
 #### (k) Operational verification
 
-(1) Until the Secretary of the Army successfully completes (through the prove-out work to be conducted at Johnston Atoll) operational verification of the technology to be used for the destruction of live chemical agents and munitions under this section, the Secretary may not conduct any activity for equipment prove out and systems test before live chemical agents are introduced at a facility (other than the Johnston Atoll facility) at which the destruction of chemical agent <sup>1</sup> and munitions weapons is to take place under this section. The limitation in the preceding sentence shall not apply with respect to the Chemical Agent Munition Disposal System in Tooele, Utah.
+(1) Until the Secretary of the Army successfully completes (through the prove-out work to be conducted at Johnston Atoll) operational verification of the technology to be used for the destruction of live chemical agents and munitions under this section, the Secretary may not conduct any activity for equipment prove out and systems test before live chemical agents are introduced at a facility (other than the Johnston Atoll facility) at which the destruction of chemical agent <sup>1</sup> and munitions weapons is to takeplace under this section. The limitation in the preceding sentence shall not apply with respect to the Chemical Agent Munition Disposal System in Tooele, Utah.
 
 (2) Upon the successful completion of the prove out of the equipment and facility at Johnston Atoll, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report certifying that the prove out is completed.
 
 (3) If the Secretary determines at any time that there will be a delay in meeting the deadline of December 31, 1990, scheduled by the Department of Defense for completion of the operational verification at Johnston Atoll referred to in paragraph (1), the Secretary shall immediately notify the Committees of that projected delay.
 
-(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118,Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229.)
+(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title IX, §931, Oct. 28, 2004, 118 Stat. 2031.)
 
 #### Codification
 
 Section was enacted as part of the Department of Defense Authorization Act, 1986, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–375 amended heading and text of subsec. (d) generally. Prior to amendment, text required the Secretary of Defense to develop and submit to Congress by Mar. 15, 1986, a comprehensive plan to carry out this section.
 
 2001—Subsec. (g)(2)(C)(vii). Pub. L. 107–107 substituted “(c)(4)” for “(c)(3)”.
 
@@ -308,7 +300,7 @@ Post-Demonstration Activities.—(1) The program manager for the Assembled Chemi
 
 “(c)
 
-Independent Evaluation.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall provide for an independent evaluation of the cost and schedule of the Assembled Chemical Weapons Assessment, which shall be performed and submitted to the Under Secretary not later than September 30, 1999. The evaluation shall be performed by a nongovernmental organization qualified to make such an evaluation.
+Independent Evaluation.—The Under Secretary of Defense for Acquisition, Technology, and Logisticsshall provide for an independent evaluation of the cost and schedule of the Assembled Chemical Weapons Assessment, which shall be performed and submitted to the Under Secretary not later than September 30, 1999. The evaluation shall be performed by a nongovernmental organization qualified to make such an evaluation.
 
 “(d)
 
@@ -370,7 +362,7 @@ Pub. L. 106–65, div. A, title I, §141, Oct. 5, 1999, 113 Stat. 537, provided 
 
 “(a)
 
-Program Assessment.—(1) The Secretary of Defense shall conduct an assessment of the current program for destruction of the United States’ stockpile of chemical agents and munitions, including the Assembled Chemical Weapons Assessment, for the purpose of reducing significantly the cost of such program and ensuring completion of such program in accordance with the obligations of the United States under the Chemical Weapons Convention while maintaining maximum protection of the general public, the personnel involved in the demilitarization program, and the environment.
+Program Assessment.—(1) The Secretary of Defense shall conduct an assessment of the current program for destruction of the United States’ stockpile of chemical agents and munitions, including the Assembled Chemical Weapons Assessment, for the purpose of reducing significantly the cost of such program and ensuring completion of such program in accordance withthe obligations of the United States under the Chemical Weapons Convention while maintaining maximum protection of the general public, the personnel involved in the demilitarization program, and the environment.
 
 “(2) Based on the results of the assessment conducted under paragraph (1), the Secretary may take those actions identified in the assessment that may be accomplished under existing law to achieve the purposes of such assessment and the chemical agents and munitions stockpile destruction program.
 
@@ -460,7 +452,7 @@ Assessment of Alternative Technologies for Demilitarization of Assembled Chemica
 
 “(f)
 
-Pilot Program for Demilitarization of Chemical Agents for Assembled Munitions.—(1) If the Secretary of Defense makes a decision to continue the development of an alternative demilitarization technology or process (other than incineration) that could be used for the destruction of the lethal chemicalagents that are associated with assembled chemical munitions, $25,000,000 shall be available from the funds authorized to be appropriated in section 107 of the National Defense Authorization Act for Fiscal Year 1997 \[Pub. L. 104–201, 110 Stat. 2440\] for the chemical agents and munitions destruction program, in order to initiate a pilot program using the selected alternative technology or process for the destruction of chemical agents that are stored at these sites.
+Pilot Program for Demilitarization of Chemical Agents for Assembled Munitions.—(1) If the Secretary of Defense makes a decision to continue the development of an alternative demilitarization technology or process (other than incineration) that could be used for the destruction of the lethal chemical agents that are associated with assembled chemical munitions, $25,000,000 shall be available from the funds authorized to be appropriated in section 107 of the National Defense Authorization Act for Fiscal Year 1997 \[Pub. L. 104–201, 110 Stat. 2440\] for the chemical agents and munitions destruction program, in order to initiate a pilot program using the selected alternative technology or process for the destruction of chemical agents that are stored at these sites.
 
 “(2) Not less than 30 days before using funds to initiate the pilot program under paragraph (1), the Secretary shall submit notice in writing to Congress of the Secretary's intent to do so.
 
@@ -544,7 +536,7 @@ Applicability of Certain Provisions of Section 1412.—Subsection (c) of section
 
 “(d)
 
-Submission of Revised Plan.—If the Secretary is required to submit a revised concept plan under this section, the Secretary shall submit the revised concept plan during the 120-day period beginning at the end ofthe 60-day period following the submission of the report of the Secretary required under section 173 \[106 Stat. 2342\].
+Submission of Revised Plan.—If the Secretary is required to submit a revised concept plan under this section, the Secretary shall submit the revised concept plan during the 120-day period beginning at the end of the 60-day period following the submission of the report of the Secretary required under section 173 \[106 Stat. 2342\].
 
 “(e)
 
@@ -599,10 +591,6 @@ Surveillance and Assessment Program.—The Secretary of Defense shall conduct an
 &emsp;“(1) surveillance of the existing United States stockpile of chemical weapons; and
 
 &emsp;“(2) assessment of the condition of the stockpile.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1521a of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “agents”.</i>
 

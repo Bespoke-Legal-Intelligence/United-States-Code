@@ -20,7 +20,7 @@
 
 &emsp;(9) innovation and creativity in the development of solar heating and combined solar heating and cooling components and systems can be fostered through encouraging direct contact between the manufacturers of such systems and the architects, engineers, developers, contractors, and other persons interested in installing such systems in buildings;
 
-&emsp;(10) evaluation of the performance and reliability of solar heating and combined solar heating and cooling technologies can be expedited by testing under carefully controlled conditions; and
+&emsp;(10) evaluation of the performance and reliability of solar heating and combined solarheating and cooling technologies can be expedited by testing under carefully controlled conditions; and
 
 &emsp;(11) commercial application of solar heating and combined solar heating and cooling technologies can be expedited by early commercial demonstration under practical conditions.
 

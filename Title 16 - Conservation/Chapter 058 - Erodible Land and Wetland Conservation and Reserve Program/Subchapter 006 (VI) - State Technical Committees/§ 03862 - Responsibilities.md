@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each Committee established under section 3861 of this title shall meet regularly to provide information, analysis, and recommendations to appropriate officials of the Department of Agriculture who are charged with implementing theconservation provisions of this chapter. Such information, analysis, and recommendations shall be provided in a manner that will assist the Department of Agriculture in determining matters of fact, technical merit, or scientific question. Data, analysis, and recommendations shall be provided in writing and shall reflect the best professional information and judgment of the Committee. The Secretary shall coordinate activities conducted under this section with those conducted under section 5831 of title 7. Each State technical committee shall provide public notice of, and permit public attendance at meetings considering, issues of concern related to carrying out this chapter.
+Each Committee established under section 3861 of this title shall meet regularly to provide information, analysis, and recommendations to appropriate officials of the Department of Agriculture who are charged with implementing the conservation provisions of this chapter. Such information, analysis, and recommendations shall be provided in a manner that will assist the Department of Agriculture in determining matters of fact, technical merit, or scientific question. Data, analysis, and recommendations shall be provided in writing and shall reflect the best professional information and judgment of the Committee. The Secretary shall coordinate activities conducted under this section with those conducted under section 5831 of title 7. Each State technical committee shall provide public notice of, and permit public attendance at meetings considering, issues of concern related to carrying out this chapter.
 
 #### (b) Wetland and wildlife habitat protection guidelines
 
@@ -74,9 +74,5 @@ Subsec. (c)(7) to (9). Pub. L. 104–127, §342(b)(3), struck out “and” at e
 
 #### Public Notice and Comment for Revisions to Certain State Technical Guides
 
-Section 343 of Pub. L. 104–127 provided that: “After the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall provide for public notice and comment under section 553 of title 5, United StatesCode, with regard to any future revisions to those provisions of the Natural Resources Conservation Service State technical guides that are used to carry out subtitles A, B, and C of title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq. \[3811 et seq., 3821 et seq.\]).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3861 of this title.
+Section 343 of Pub. L. 104–127 provided that: “After the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall provide for public notice and comment under section 553 of title 5, United States Code, with regard to any future revisions to those provisions of the Natural Resources Conservation Service State technical guides that are used to carry out subtitles A, B, and C of title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq. \[3811 et seq., 3821 et seq.\]).”
 

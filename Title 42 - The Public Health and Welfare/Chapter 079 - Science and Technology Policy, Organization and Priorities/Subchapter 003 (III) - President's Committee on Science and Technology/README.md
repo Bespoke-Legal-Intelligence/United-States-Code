@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—PRESIDENT'S COMMITTEE ON SCIENCE AND TECHNOLOGY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 6671 of this title.
-
 
 ---
 

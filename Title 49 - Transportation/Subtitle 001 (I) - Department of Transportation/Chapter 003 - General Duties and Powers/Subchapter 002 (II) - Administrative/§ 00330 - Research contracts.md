@@ -72,5 +72,5 @@ Consultation.—In conducting the study under this paragraph, the Secretary shal
 
 &emsp;“(C)
 
-Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 9, 1999\], theSecretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study conducted under this paragraph.”
+Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 9, 1999\], the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study conducted under this paragraph.”
 

@@ -1,9 +1,5 @@
 subpart 3—professional development
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 6821 of this title.
-
 
 ---
 

@@ -24,7 +24,7 @@ The Commission has the power—
 
 #### (b) Judicial orders for compliance with subpenas and orders of Commission; contempt of court
 
-Upon petition by the Commission, any United States district court within the jurisdiction of which any inquiry is being carried on may, in case of refusal to obey a subpena or order of the Commission issued under subsection (a) of thissection, issue an order requiring compliance. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
+Upon petition by the Commission, any United States district court within the jurisdiction of which any inquiry is being carried on may, in case of refusal to obey a subpena or order of the Commission issued under subsection (a) of this section, issue an order requiring compliance. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
 #### (c) Civil liability for disclosure of information
 
@@ -52,9 +52,9 @@ A prior section 307 of Pub. L. 92–225 was renumbered section 305, and is class
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a)(6), (8). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Subsec. (a)(6), (8). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–187, §106, in par. (1) substituted “under oath, such written reports and answers to questions as the Commission may prescribe” for “in writing such reports and answers to questions as the Commission may prescribe” and struck out provision that such submission be made within such reasonable time and under oath as determined by the Commission; in par. (4) struck out “of this subsection” after “paragraph (3)”; in par. (6) substituted “section 437g(a)(8)” for “section 437g(a)(9)”, and substituted “to enforce the provisions of this Act” for “for the purpose of enforcing the provisions of this Act”; struck out par. (9) relating to formulation of general policy respecting administration of this Act and chapters 95 and 96 of title 26; and redesignated former par. (10) as (9).
+1980—Subsec. (a). Pub. L. 96–187, §106, in par. (1) substituted “under oath, such written reports and answers to questions as the Commission may prescribe” for “in writing such reports and answers to questions as the Commission may prescribe” and struck out provision that such submission be made within such reasonable time and under oath as determined by the Commission; in par. (4) struck out “of this subsection” after “paragraph (3)”; in par. (6) substituted “section 437g(a)(8)” for “section 437g(a)(9)”, and substituted “to enforce the provisions of this Act” for “for the purpose of enforcing the provisions of this Act”; struck out par. (9) relating to formulation of general policy respecting administration of this Act and chapters 95 and 96 of title 26; and redesignated former par. (10) as (9).
 
 Subsec. (b). Pub. L. 96–187, §106, reworded subsec. (b) without substantive changes.
 
@@ -64,7 +64,7 @@ Subsec. (d). Pub. L. 96–187, §106, struck out “of the United States” afte
 
 Subsec. (e). Pub. L. 96–187, §106, substituted “section 437g(a)(8)” for “section 437g(a)(9)”.
 
-<b>1976</b>—Subsec. (a)(6). Pub. L. 94–283, §107(b)(1), substituted “civil actions” for “civil proceedings” and inserted “(in the case of any civil action brought under section 437g(a) (9) of this title)” after “defend” and “and chapter 95 and chapter 96 of title 26” after “this Act”.
+1976—Subsec. (a)(6). Pub. L. 94–283, §107(b)(1), substituted “civil actions” for “civil proceedings” and inserted “(in the case of any civil action brought under section 437g(a) (9) of this title)” after “defend” and “and chapter 95 and chapter 96 of title 26” after “this Act”.
 
 Subsec. (a)(7). Pub. L. 94–283, §115(b), substituted “section 312” for “section 313” in the original to accommodate the renumbering of section 313 of Pub. L. 92–225 as section 312 of Pub. L. 92–225 by section 105 of Pub. L. 94–283. Since both the original and substituted references translate as “section 437f of this title” no change in text was required.
 
@@ -83,8 +83,4 @@ Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub.
 #### Effective Date
 
 Section effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 431 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 437c of this title.
 

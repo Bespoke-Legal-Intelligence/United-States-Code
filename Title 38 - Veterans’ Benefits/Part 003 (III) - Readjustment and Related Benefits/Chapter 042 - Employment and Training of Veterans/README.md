@@ -22,10 +22,6 @@ Pub. L. 102–16, §9(c)(1), Mar. 22, 1991, 105 Stat. 55, struck out “DISABLED
 
 1974—Pub. L. 93–508, title IV, §403(b), Dec. 3, 1974, 88 Stat. 1594, added item 2014.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3116, 4102A, 4103A, 4106, 4107, 7725 of this title.
-
 
 ---
 

@@ -6,7 +6,7 @@
 
 #### (A) Development, procurement, maintenance, or use of electronic and information technology
 
-&emsp;&emsp;When developing, procuring, maintaining, or using electronic and information technology, each Federal department or agency, including the United States Postal Service, shall ensure, unless an undue burden would be imposed on the department or agency, that the electronic and information technology allows, regardless of the type of medium of the technology—
+&emsp;&emsp;When developing, procuring, maintaining, or using electronic and information technology, each Federal department or agency, including the United States Postal Service,shall ensure, unless an undue burden would be imposed on the department or agency, that the electronic and information technology allows, regardless of the type of medium of the technology—
 
 &emsp;&emsp;&emsp;(i) individuals with disabilities who are Federal employees to have access to and use of information and data that is comparable to the access to and use of the information and data by Federal employees who are not individuals with disabilities; and
 
@@ -123,8 +123,4 @@ Subsec. (f)(1)(B). Pub. L. 106–246, §2405(2), substituted “6 months after t
 Subsec. (a)(3). Pub. L. 100–630, §206(f)(2), inserted “by the Director of the National Institute on Disability and Rehabilitation Research and the Administrator of General Services in consultation with the electronics industry and the Interagency Committee for Computer Support of Handicapped Employees” after “revised”.
 
 Subsec. (c). Pub. L. 100–630, §206(f)(3), substituted “an individual with handicaps” for “a handicapped individual”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 792 of this title; title 42 section 15024; title 44 section 3602.
 

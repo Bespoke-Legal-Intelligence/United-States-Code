@@ -32,7 +32,7 @@ After the establishment of the Operating Fund, the guaranty agency shall deposit
 
 #### (2) Special rule
 
-&emsp;The guaranty agency may, in the agency's discretion, transfer funds from the OperatingFund to the Federal Fund for use pursuant to section 1072a of this title. Such transfer shall be irrevocable, and any funds so transferred shall become the sole property of the United States.
+&emsp;The guaranty agency may, in the agency's discretion, transfer funds from the Operating Fund to the Federal Fund for use pursuant to section 1072a of this title. Such transfer shall be irrevocable, and any funds so transferred shall become the sole property of the United States.
 
 #### (3) Definitions
 
@@ -73,8 +73,4 @@ After the establishment of the Operating Fund, the guaranty agency shall deposit
 #### Effective Date
 
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1072a, 1078, 1087h of this title.
 

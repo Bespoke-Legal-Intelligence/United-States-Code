@@ -8,7 +8,3 @@ The terms “wildlife” and “wildlife resources” as used herein include bir
 
 Herein, referred to in text, means act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 696 of this title.
-

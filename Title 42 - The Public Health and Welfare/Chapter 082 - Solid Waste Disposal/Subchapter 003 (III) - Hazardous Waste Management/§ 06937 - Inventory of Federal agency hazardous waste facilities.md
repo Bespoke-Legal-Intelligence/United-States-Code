@@ -2,7 +2,7 @@
 
 #### (a) Program requirement; submission; availability; contents
 
-Each Federal agency shall undertake a continuing program to compile, publish, and submit to the Administrator (and to the State in the case of sites in States having an authorized hazardous waste program) an inventory of each site which the Federal agency owns or operates or has owned or operated at which hazardous waste is stored, treated, or disposed of or has been disposed of at any time. The inventory shall be submitted every two years beginning January 31, 1986. Such inventory shall be available to thepublic as provided in section 6927(b) of this title. Information previously submitted by a Federal agency under section 9603 of this title, or under section 6925 or 6930 of this title, or under this section need not be resubmitted except that the agency shall update any previous submission to reflect the latest available data and information. The inventory shall include each of the following:
+Each Federal agency shall undertake a continuing program to compile, publish, and submit to the Administrator (and to the State in the case of sites in States having an authorized hazardous waste program) an inventory of each site which the Federal agency owns or operates or has owned or operated at which hazardous waste is stored, treated, or disposed of or has been disposed of at any time. The inventory shall be submitted every two years beginning January 31, 1986. Such inventory shall be available to the public as provided in section 6927(b) of this title. Information previously submitted by a Federal agency under section 9603 of this title, or under section 6925 or 6930 of this title, or under this section need not be resubmitted except that the agency shall update any previous submission to reflect the latest available data and information. The inventory shall include each of the following:
 
 &emsp;(1) A description of the location of each site at which any such treatment, storage, or disposal has taken place before the date on which permits are required under section 6925 of this title for such storage, treatment, or disposal, and where hazardous waste has been disposed, a description of hydrogeology of the site and the location of withdrawal wells and surface water within one mile of the site.
 
@@ -25,8 +25,4 @@ Each Federal agency shall undertake a continuing program to compile, publish, an
 If the Administrator determines that any Federal agency under subsection (a) of this section is not adequately providing information respecting the sites referred to in subsection (a) of this section, the Administrator shall notify the chief official of such agency. If within ninety days following such notification, the Federal agency has not undertaken a program to adequately provide such information, the Administrator shall carry out the inventory program for such agency.
 
 (Pub. L. 89–272, title II, §3016, as added Pub. L. 98–616, title II, §244, Nov. 8, 1984, 98 Stat. 3261.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9620 of this title.
 

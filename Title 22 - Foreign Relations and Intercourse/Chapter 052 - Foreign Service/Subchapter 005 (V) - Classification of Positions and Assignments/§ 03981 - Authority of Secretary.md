@@ -4,7 +4,3 @@ The Secretary shall designate and classify positions in the Department and at Fo
 
 (Pub. L. 96–465, title I, §501, Oct. 17, 1980, 94 Stat. 2092.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3982, 4102, 4155 of this title.
-

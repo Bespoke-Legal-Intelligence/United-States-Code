@@ -10,7 +10,7 @@
 
 &emsp;(2) willfully remains outside the United States, or its territories and possessions including the Commonwealth of Puerto Rico, for more than 1 year with knowledge of the indictment or charges, as the case may be.
 
-(b) The prohibition on payment of annuity or retired pay under subsection (a) of this section applies to the period after the end of the 1-year period and continues until—
+(b) The prohibition on payment of annuity or retired pay under subsection (a) of this sectionapplies to the period after the end of the 1-year period and continues until—
 
 &emsp;(1) a nolle prosequi to the entire indictment is entered on the record or the charges are dismissed by competent authority;
 
@@ -59,8 +59,4 @@ Retired Pay Defined.—For purposes of this section, the term ‘retired pay’ 
 “(d)
 
 Effective Date.—The uniform procedures required by subsection (a) shall be developed not later than 30 days after the date of the enactment of this Act \[Sept. 23, 1996\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8318 of this title.
 

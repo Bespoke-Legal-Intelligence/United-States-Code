@@ -44,7 +44,7 @@ A covered entity—
 
 #### (2) Construction
 
-&emsp;Nothing in this subchapter shall be construed to encourage, prohibit, or authorize the conducting of drug testing for the illegal useof drugs by job applicants or employees or making employment decisions based on such test results.
+&emsp;Nothing in this subchapter shall be construed to encourage, prohibit, or authorize the conducting of drug testing for the illegal use of drugs by job applicants or employees or making employment decisions based on such test results.
 
 #### (e) Transportation employees
 
@@ -59,8 +59,4 @@ Nothing in this subchapter shall be construed to encourage, prohibit, restrict, 
 #### References in Text
 
 The Drug-Free Workplace Act of 1988, referred to in subsec. (c)(3), is subtitle D (§§5151–5160) of title V of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4304, which is classified generally to chapter 10 (§701 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 41 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2000e–16b, 12209 of this title; title 2 section 1311; title 3 section 411.
 

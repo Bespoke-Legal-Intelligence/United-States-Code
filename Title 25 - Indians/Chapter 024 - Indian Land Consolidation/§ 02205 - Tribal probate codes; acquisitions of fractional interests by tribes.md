@@ -18,9 +18,21 @@
 
 &emsp;&emsp;(B) other tribal probate code provisions that are consistent with Federal law and that promote the policies set forth in section 102 of the Indian Land Consolidation Act Amendments of 2000.
 
-#### (3) Limitations
+#### (3) Tribal probate codes
 
-&emsp;The Secretary shall not approve a tribal probate code if such code prevents an Indian person from inheriting an interest in an allotment that was originally allotted to his or her lineal ancestor.
+&emsp;Except as provided in any applicable Federal law, the Secretary shall not approve a tribal probate code, or an amendment to such a code, that prohibits the devise of an interest in trust or restricted land to—
+
+&emsp;&emsp;(A) an Indian lineal descendant of the original allottee; or
+
+&emsp;&emsp;(B) an Indian who is not a member of the Indian tribe with jurisdiction over such an interest;
+
+> &emsp;unless the code provides for—
+
+&emsp;&emsp;&emsp;(i) the renouncing of interests to eligible devisees in accordance with the code;
+
+&emsp;&emsp;&emsp;(ii) the opportunity for a devisee who is the spouse or lineal descendant of a testator to reserve a life estate without regard to waste; and
+
+&emsp;&emsp;&emsp;(iii) payment of fair market value in the manner prescribed under subsection (c)(2) of this section.
 
 #### (b) Secretarial approval
 
@@ -60,7 +72,7 @@
 
 &emsp;A tribal probate code approved under paragraph (2) shall become effective on the later of—
 
-&emsp;&emsp;(A) the date specified in section 2206(g)(5) of this title; or
+&emsp;&emsp;(A) the date specified in section 2206(g)(5) <sup>2</sup> of this title; or
 
 &emsp;&emsp;(B) 180 days after the date of approval.
 
@@ -68,7 +80,7 @@
 
 #### (A) Tribal probate codes
 
-&emsp;&emsp;Each tribal probate code enacted under subsection (a) of this section shall applyonly to the estate of a decedent who dies on or after the effective date of the tribal probate code.
+&emsp;&emsp;Each tribal probate code enacted under subsection (a) of this section shall apply only to the estate of a decedent who dies on or after the effective date of the tribal probate code.
 
 #### (B) Amendments to tribal probate codes
 
@@ -84,19 +96,57 @@
 
 #### (c) Authority available to Indian tribes
 
-#### (1) In general
-
-&emsp;If the owner of an interest in trust or restricted land devises an interest in such land to a non-Indian under section 2206(a)(6)(A) of this title, the Indian tribe that exercises jurisdiction over the parcel of land involved may acquire such interest by paying to the Secretary the fair market value of such interest, as determined by the Secretary on the date of the decedent's death. The Secretary shall transfer such payment to the devisee.
-
-#### (2) Limitation
+#### (1) Authority
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (1) shall not apply to an interest in trust or restricted land if, while the decedent's estate is pending before the Secretary, the non-Indian devisee renounces the interest in favor of an Indian person.
+&emsp;&emsp;If the owner of an interest in trust or restricted land devises an interest in such land to a non-Indian under section 2206(b)(2)(A)(ii) of this title, the Indian tribe that exercises jurisdiction over the parcel of land involved may acquire such interest by paying to the Secretary the fair market value of such interest, as determined by the Secretary on the date of the decedent's death.
+
+#### (B) Transfer
+
+&emsp;&emsp;The Secretary shall transfer payments received under subparagraph (A) to any person or persons who would have received an interest in land if the interest had not been acquired by the Indian tribe in accordance with this paragraph.
+
+#### (2) Limitation
+
+#### (A) Inapplicability to certain interests
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Paragraph (1) shall not apply to an interest in trust or restricted land if—
+
+&emsp;&emsp;&emsp;&emsp;(I) while the decedent's estate is pending before the Secretary, the non-Indian devisee renounces the interest in favor of an Indian person; or
+
+&emsp;&emsp;&emsp;&emsp;(II)(aa) the interest is part of a family farm that is devised to a member of the family of the decedent; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) the devisee agrees that the Indian tribe with jurisdiction over the land will have the opportunity to acquire the interest for fair market value if the interest is offered for sale to a person or entity that is not a member of the family of the owner of the land.
+
+#### (ii) Recording of interest
+
+&emsp;&emsp;&emsp;On request by the Indian tribe described in clause (i)(II)(bb), a restriction relating to the acquisition by the Indian tribe of an interest in a family farm involved shall be recorded as part of the deed relating to the interest involved.
+
+#### (iii) Mortgage and foreclosure
+
+&emsp;&emsp;&emsp;Nothing in clause (i)(II) limits—
+
+&emsp;&emsp;&emsp;&emsp;(I) the ability of an owner of land to which that clause applies to mortgage the land; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the right of the entity holding such a mortgage to foreclose or otherwise enforce such a mortgage agreement in accordance with applicable law.
+
+#### (iv) Definition of “member of the family”
+
+&emsp;&emsp;&emsp;In this paragraph, the term “member of the family”, with respect to a decedent or landowner, means—
+
+&emsp;&emsp;&emsp;&emsp;(I) a lineal descendant of a decedent or landowner;
+
+&emsp;&emsp;&emsp;&emsp;(II) a lineal descendant of the grandparent of a decedent or landowner;
+
+&emsp;&emsp;&emsp;&emsp;(III) the spouse of a descendant or landowner described in subclause (I) or (II); and
+
+&emsp;&emsp;&emsp;&emsp;(IV) the spouse of a decedent or landowner.
 
 #### (B) Reservation of life estate
 
-&emsp;&emsp;A non-Indian devisee described in subparagraph (A) or a non-Indian devisee described in section 2206(a)(6)(B) of this title, may retain a life estate in the interest involved, including a life estate to the revenue produced from the interest. The amount of any payment required under paragraph (1) shall be reduced to reflect the value of any life estate reserved by a non-Indian devisee under this subparagraph.
+&emsp;&emsp;A non-Indian devisee described in paragraph (1), may retain a life estate in the interest involved, including a life estate to the revenue produced from the interest. The amount of any payment required under paragraph (1) shall be reduced to reflect the value of any life estate reserved by a non-Indian devisee under this subparagraph.
 
 #### (3) Payments
 
@@ -116,7 +166,7 @@
 
 &emsp;The Secretary by regulation may provide for the use of findings of fact and conclusions of law, as rendered by a tribal justice system, as proposed findings of fact and conclusions of law in the adjudication of probate proceedings by the Department of the Interior.
 
-(Pub. L. 97–459, title II, §206, as added Pub. L. 106–462, title I, §103(3), Nov. 7, 2000, 114 Stat. 1993.)
+(Pub. L. 97–459, title II, §206, as added Pub. L. 106–462, title I, §103(3), Nov. 7, 2000, 114 Stat. 1993; amended Pub. L. 108–374, §6(a)(3), Oct. 27, 2004, 118 Stat. 1799.)
 
 #### References in Text
 
@@ -124,13 +174,25 @@ Section 102 of the Indian Land Consolidation Act Amendments of 2000, referred to
 
 This chapter, referred to in subsec. (b)(2)(C), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 
+Section 2206(g) of this title, referred to in subsec. (b)(3)(A), was repealed by Pub. L. 108–374, §6(a)(4), Oct. 27, 2004, 118 Stat. 1800.
+
 #### Prior Provisions
 
 A prior section 2205, Pub. L. 97–459, title II, §206, Jan. 12, 1983, 96 Stat. 2518; Pub. L. 98–608, §1(3), Oct. 30, 1984, 98 Stat. 3172, related to descent and distribution of trust or restricted or controlled lands, tribal ordinance barring nonmembers of tribe or non-Indians from inheritance by devise or descent, and limitation on life estate, prior to repeal by Pub. L. 106–462, title I, §103(3), Nov. 7, 2000, 114 Stat. 1993.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 2206, 2207 of this title.
+2004—Subsec. (a)(3). Pub. L. 108–374, §6(a)(3)(A), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Secretary shall not approve a tribal probate code if such code prevents an Indian person from inheriting an interest in an allotment that was originally allotted to his or her lineal ancestor.”
+
+Subsec. (c)(1). Pub. L. 108–374, §6(a)(3)(B)(i)(I), (III), substituted “Authority” for “In general” in heading, designated existing provisions as subpar. (A), inserted heading, and struck out at end “The Secretary shall transfer such payment to the devisee.”, and added subpar. (B).
+
+Subsec. (c)(1)(A). Pub. L. 108–374, §6(a)(3)(B)(i)(II), which directed the substitution of “section 2206(b)(2)(A)(ii) of this title” for “section 2206(a)(6)(A) of this title” in subpar. (A), was executed by making the substitution for “section 2206(a)(6)(A)” to reflect the probable intent of Congress, because the words “of this title” did not appear in the original.
+
+Subsec. (c)(2)(A). Pub. L. 108–374, §6(a)(3)(B)(ii)(I), substituted “Inapplicability to certain interests” for “In general” in heading, designated existing provisions as cl. (i) and inserted heading, inserted subcl. (I) designation and added subcl. (II), and added cls. (ii) to (iv).
+
+Subsec. (c)(2)(B). Pub. L. 108–374, §6(a)(3)(B)(ii)(II), which directed the substitution of “paragraph (1)” for “subparagraph (A) or a non-Indian devisee described in section 2206(a)(6)(B) of this title” was executed by making the substitution for language which did not contain the words “of this title” in the original, to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “Amendments”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

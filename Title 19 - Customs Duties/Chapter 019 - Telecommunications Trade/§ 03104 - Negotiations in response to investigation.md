@@ -80,7 +80,3 @@ Chapter 17 of this title, referred to in subsec. (a), was in the original “par
 
 Functions of President under this section relating to certain telecommunications negotiations delegated to United States Trade Representative, see section 1–401 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3105, 3108 of this title.
-

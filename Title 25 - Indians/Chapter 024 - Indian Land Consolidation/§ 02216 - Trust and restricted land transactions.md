@@ -20,13 +20,17 @@ It is the policy of the United States to encourage and assist the consolidation 
 
 &emsp;&emsp;Notwithstanding any other provision of law and only after the Indian selling, exchanging, or conveying by gift deed for no or nominal consideration an interest in land, has been provided with an estimate of the value of the interest of the Indian pursuant to this section—
 
-&emsp;&emsp;&emsp;(i) the sale or exchange or conveyance of an interest in trust or restricted land maybe made for an amount that is less than the fair market value of that interest; and
+&emsp;&emsp;&emsp;(i) the sale or exchange or conveyance of an interest in trust or restricted land may be made for an amount that is less than the fair market value of that interest; and
 
 &emsp;&emsp;&emsp;(ii) the approval of a transaction that is in compliance with this section shall not constitute a breach of trust by the Secretary.
 
 #### (B) Waiver of requirement
 
-&emsp;&emsp;The requirement for an estimate of value under subparagraph (A) may be waived in writing by an Indian selling, exchanging, or conveying by gift deed for no or nominal consideration an interest in land with an Indian person who is the owner's spouse, brother, sister, lineal ancestor of Indian blood, lineal descendant, or collateral heir.
+&emsp;&emsp;The requirement for an estimate of value under subparagraph (A) may be waived in writing by an owner of a trust or restricted interest in land either selling, exchanging, or conveying by gift deed for no or nominal consideration such interest—
+
+&emsp;&emsp;&emsp;(i) to an Indian person who is the owner's spouse, brother, sister, lineal ancestor, lineal descendant, or collateral heir; or
+
+&emsp;&emsp;&emsp;(ii) to an Indian co-owner or to the tribe with jurisdiction over the subject parcel of land, where the grantor owns a fractional interest that represents 5 percent or less of the parcel.
 
 #### (2) Limitation
 
@@ -42,21 +46,47 @@ The sale, exchange, or conveyance by gift deed for no or nominal consideration o
 
 #### (e) Land ownership information
 
-Notwithstanding any other provision of law, the names and mailing addresses of the Indian owners of trust or restricted lands, and information on the location of the parcel and the percentage of undivided interest owned by each individual, or of any interest in trust or restricted lands, shall, upon written request, be made available to—
+Notwithstanding any other provision of law, the names and mailing addresses of the owners of any interest in trust or restricted lands, and information on the location of the parcel and the percentage of undivided interest owned by each individual shall, upon written request, be made available to <sup>1</sup>
 
-&emsp;(1) other Indian owners of interests in trust or restricted lands within the same reservation;
+&emsp;(1) other owners of interests in trust or restricted lands within the same reservation;
 
 &emsp;(2) the tribe that exercises jurisdiction over the land where the parcel is located or any person who is eligible for membership in that tribe; and
 
-&emsp;(3) prospective applicants for the leasing, use, or consolidation of such trust or restricted land or the interest in trust or restricted lands.
+&emsp;(3) any person that is leasing, using, or consolidating, or is applying to lease, use, or consolidate, such trust or restricted land or the interest in trust or restricted lands.
 
-#### (f) Notice to Indian tribe
+#### (f) Purchase of land by Indian tribe
 
-After the expiration of the limitation period provided for in subsection (b)(2) of this section and prior to considering an Indian application to terminate the trust status or to remove the restrictions on alienation from trust or restricted land sold, exchanged or otherwise conveyed under this section, the Indian tribe that exercises jurisdiction over the parcel of such land shall be notified of the application and given the opportunity to match the purchase price that has been offered for the trust or restricted land involved.
+#### (1) In general
 
-(Pub. L. 97–459, title II, §217, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 2002.)
+&emsp;Except as provided in paragraph (2), before the Secretary approves an application to terminate the trust status or remove the restrictions on alienation from a parcel of, or interest in, trust or restricted land, the Indian tribe with jurisdiction over the parcel shall have the opportunity—
 
-#### Section Referred to in Other Sections
+&emsp;&emsp;(A) to match any offer contained in the application; or
 
-This section is referred to in section 2206 of this title.
+&emsp;&emsp;(B) in a case in which there is no purchase price offered, to acquire the interest in the parcel by paying the fair market value of the interest.
+
+#### (2) Exception for family farms
+
+#### (A) In general
+
+&emsp;&emsp;Paragraph (1) shall not apply to a parcel of, or interest in, trust or restricted land that is part of a family farm that is conveyed to a member of the family of a landowner (as defined in section 2205(c)(2)(A)(iv) of this title) if the conveyance requires that in the event that the parcel or interest is offered for sale to an entity or person that is not a member of the family of the landowner, the Indian tribe with jurisdiction over the land shall be afforded the opportunity to purchase the interest pursuant to paragraph (1).
+
+#### (B) Applicability of other provision
+
+&emsp;&emsp;Section 2205(c)(2)(A) of this title shall apply with respect to the recording and mortgaging of any trust or restricted land referred to in subparagraph (A).
+
+(Pub. L. 97–459, title II, §217, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 2002; amended Pub. L. 108–374, §6(a)(9), Oct. 27, 2004, 118 Stat. 1803.)
+
+#### Amendments
+
+2004—Subsec. (b)(1)(B). Pub. L. 108–374, §6(a)(9)(A), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “The requirement for an estimate of value under subparagraph (A) may be waived in writing by an Indian selling, exchanging, or conveying by gift deed for no or nominal consideration an interest in land with an Indian person who is the owner's spouse, brother, sister, lineal ancestor of Indian blood, lineal descendant, or collateral heir.”
+
+Subsec. (e). Pub. L. 108–374, §6(a)(9)(B), added introductory provisions and struck out former introductory provisions which read as follows: “Notwithstanding any other provision of law, the names and mailing addresses of the Indian owners of trust or restricted lands, and information on the location of the parcel and the percentage of undivided interest owned by each individual, or of any interest in trust or restricted lands, shall, upon written request, be made available to—”.
+
+Subsec. (e)(1). Pub. L. 108–374, §6(a)(9)(C), struck out “Indian” before “owners”.
+
+Subsec. (e)(3). Pub. L. 108–374, §6(a)(9)(D), substituted “any person that is leasing, using, or consolidating, oris applying to lease, use, or consolidate,” for “prospective applicants for the leasing, use, or consolidation of”.
+
+Subsec. (f). Pub. L. 108–374, §6(a)(9)(E), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “After the expiration of the limitation period provided for in subsection (b)(2) of this section and prior to considering an Indian application to terminate the trust status or to remove the restrictions on alienation from trust or restricted land sold, exchanged or otherwise conveyed under this section, the Indian tribe that exercises jurisdiction over the parcel of such land shall be notified of the application and given the opportunity to match the purchase price that has been offered for the trust or restricted land involved.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
 

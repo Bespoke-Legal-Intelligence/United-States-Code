@@ -48,7 +48,7 @@ Notwithstanding the requirements of—
 
 &emsp;(3) sections 1374(h)(2) and 1416(a) of this title— <sup>1</sup>
 
-> any vessel documented under the laws of the United States as of November 3, 1995, for whicha license has been issued under subsection (a) of this section may fish for tuna in the Treaty Area, including those waters subject to the jurisdiction of the United States in accordance with international law, subject to the provisions of the treaty <sup>2</sup> and this chapter, provided that no such vessel fishing in the Treaty Area intentionally deploys a purse seine net to encircle any dolphin or other marine mammal in the course of fishing under the provisions of the Treaty or this chapter.
+> any vessel documented under the laws of the United States as of November 3, 1995, for which a license has been issued under subsection (a) of this section may fish for tuna in the Treaty Area, including those waters subject to the jurisdiction of the United States in accordance with international law, subject to the provisions of the treaty <sup>2</sup> and this chapter, provided that no such vessel fishing in the Treaty Area intentionally deploys a purse seine net to encircle any dolphin or other marine mammal in the course of fishing under the provisions of the Treaty or this chapter.
 
 (Pub. L. 100–330, §9, June 7, 1988, 102 Stat. 596; Pub. L. 104–43, title VIII, §801, Nov. 3, 1995, 109 Stat. 395.)
 
@@ -63,10 +63,6 @@ Sections 1374(h)(1), 1374(h)(2), and 1416(a) of this title, referred to in subse
 #### Amendments
 
 1995—Subsec. (h). Pub. L. 104–43 added subsec. (h).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 973d of this title.
 
 <i><sup>1</sup></i><i> So in original. The dash probably should be a semicolon.</i>
 

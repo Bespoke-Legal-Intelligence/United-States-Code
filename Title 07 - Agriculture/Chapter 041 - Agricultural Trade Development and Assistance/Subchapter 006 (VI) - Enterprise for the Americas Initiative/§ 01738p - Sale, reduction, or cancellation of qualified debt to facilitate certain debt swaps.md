@@ -16,7 +16,7 @@ The President shall establish the terms and conditions under which qualified deb
 
 #### (1) Sales of debt
 
-&emsp;Qualified debt may be sold pursuant to subsection (a)(1) of this section only to a purchaser who presents plans satisfactory to thePresident for using the debt for the purpose of engaging in eligible debt swaps.
+&emsp;Qualified debt may be sold pursuant to subsection (a)(1) of this section only to a purchaser who presents plans satisfactory to the President for using the debt for the purpose of engaging in eligible debt swaps.
 
 #### (2) Reduction or cancellation of debt
 
@@ -53,8 +53,4 @@ The proceeds from the sale, reduction, or cancellation of qualified debt pursuan
 As used in this section, the term “eligible debt swap” means a debt-for-development swap or debt-for-nature swap.
 
 (July 10, 1954, ch. 469, title VI, §617, as added Pub. L. 102–532, §2, Oct. 27, 1992, 106 Stat. 3510.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1738r of this title.
 

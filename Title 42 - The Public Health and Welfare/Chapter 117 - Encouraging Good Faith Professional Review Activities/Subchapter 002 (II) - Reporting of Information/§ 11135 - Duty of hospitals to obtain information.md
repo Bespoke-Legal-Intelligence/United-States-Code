@@ -16,13 +16,9 @@ With respect to a medical malpractice action, a hospital which does not request 
 
 #### (c) Reliance on information provided
 
-Each hospital may rely upon information provided to the hospital under this chapter and shall not be held liable for such reliance in the absence of the hospital's knowledge that the information provided was false.
+Each hospital may rely upon information provided to the hospital under this chapter andshall not be held liable for such reliance in the absence of the hospital's knowledge that the information provided was false.
 
 (Pub. L. 99–660, title IV, §425, Nov. 14, 1986, 100 Stat. 3790.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11137 of this title.
 
 <i><sup>1</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
 

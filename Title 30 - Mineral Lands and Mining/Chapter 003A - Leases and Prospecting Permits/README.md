@@ -265,10 +265,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 48, 49, 171, 351, 355, 505, 529, 530, 541e, 1003, 1004, 1005, 1256, 1292, 1721, 1721a of this title; title 10 section 7439; title 16 sections 90c–1, 460q–5, 460v–4, 460dd–2, 460<i>ll</i>–3, 460mm–1, 460uu–46, 544<i>l</i>, 3148, 3149, 3183; title 25 sections 398e, 459c, 459d, 640d–10; title 43 sections 299, 315f, 1608, 1633, 1714, 1747.
-
 
 ---
 

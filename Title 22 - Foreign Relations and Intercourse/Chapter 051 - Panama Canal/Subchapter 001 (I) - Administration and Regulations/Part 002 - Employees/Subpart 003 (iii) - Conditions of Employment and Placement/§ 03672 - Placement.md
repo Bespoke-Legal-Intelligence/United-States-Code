@@ -34,7 +34,3 @@ The provisions of this section shall take effect on September 27, 1979.
 
 (Pub. L. 96–70, title I, §1232, Sept. 27, 1979, 93 Stat. 470.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3691 of this title.
-

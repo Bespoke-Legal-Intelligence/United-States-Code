@@ -36,13 +36,9 @@ Sec. 3. Nothing in this order shall affect the authority or responsibility of an
 
 (c) To reject a bid or offer to furnish material of foreign origin in any situation in which the domestic supplier offering the lowest price for furnishing the desired materials undertakes to produce substantially all of such materials in areas of substantial unemployment, as determined by the Secretary of Labor in accordance with such appropriate regulations as he may establish and during such period as the President may determine that it is in the national interest to provide to such areas preference in the award of Government contracts: <i>Provided</i>, that nothing in this section shall prevent the rejection of a bid or offered price which is excessive; or
 
-(d) To reject any bid or offer for materials of foreign origin if such rejection is necessary to protect essential national-security interests after receiving advice with respect thereto from the President or from the Director of the Federal Emergency Management Agency. In providing this advice the Director shall be governed by the principle that exceptions under this section shall be made only upon a clear showing that the payment of a greater differential than the procedures of this sectiongenerally prescribe is justified by consideration of national security.
+(d) To reject any bid or offer for materials of foreign origin if such rejection is necessary to protect essential national-security interests after receiving advice with respect thereto from the President or from the Director of the Federal Emergency Management Agency. In providing this advice the Director shall be governed by the principle that exceptions under this section shall be made only upon a clear showing that the payment of a greater differential than the procedures of this section generally prescribe is justified by consideration of national security.
 
 Sec. 4. The head of each executive agency shall issue such regulations as may be necessary to insure that procurement practices under his jurisdiction conform to the provisions of this order.
 
 Sec. 5. This order shall apply only to contracts entered into after the date hereof. In any case in which the head of an executive agency proposing to purchase domestic materials determines that a greater differential than that provided in this order between the cost of such materials of domestic origin and materials of foreign origin is not unreasonable or that the purchase of materials of domestic origin is not inconsistent with the public interest, this order shall not apply. A written report of the facts of each case in which such a determination is made shall be submitted to the President through the Director of the Office of Management and Budget by the official making the determination within 30 days thereafter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 5528.
 

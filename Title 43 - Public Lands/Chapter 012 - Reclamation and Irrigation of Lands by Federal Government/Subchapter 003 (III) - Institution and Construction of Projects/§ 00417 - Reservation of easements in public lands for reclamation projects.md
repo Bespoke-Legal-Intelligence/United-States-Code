@@ -20,9 +20,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 The definitions in section 371 of this title apply to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 371, 493, 500 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

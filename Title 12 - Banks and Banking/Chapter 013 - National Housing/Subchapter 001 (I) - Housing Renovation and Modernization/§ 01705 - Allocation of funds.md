@@ -14,7 +14,3 @@ For the purposes of carrying out the provisions of this subchapter and subchapte
 
 1947—Act June 30, 1947, struck out references to Reconstruction Finance Corporation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1735 of this title.
-

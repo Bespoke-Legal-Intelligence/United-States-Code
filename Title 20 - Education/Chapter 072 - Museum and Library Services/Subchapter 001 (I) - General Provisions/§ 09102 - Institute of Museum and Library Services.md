@@ -32,7 +32,3 @@ Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §704\], Sept. 30, 199
 
 Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §707\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, required Director of the Office of Management and Budget to take appropriate measures to ensure orderly transition from activities previously administered by Director of Library Programs in the Office of Educational Research and Improvement in the Department of Education to the activities administered by the Institute for Museum and Library Services, prior to repeal by Pub. L. 108–81, title V, §505(b), Sept. 25, 2003, 117 Stat. 1004.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9101 of this title.
-

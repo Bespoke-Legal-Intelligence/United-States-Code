@@ -12,7 +12,7 @@
 
 #### (b) Qualified community organizations
 
-An organization is a qualified community organization which is eligible to receive a grantunder subsection (a) of this section if the organization—
+An organization is a qualified community organization which is eligible to receive a grant under subsection (a) of this section if the organization—
 
 &emsp;(1) is a nonprofit organization; and
 
@@ -99,8 +99,4 @@ The Attorney General shall, by regulation, prescribe guidelines on content and r
 &emsp;(4) the content and duration of recruitment, retention, and counseling programs and the means and devices used to publicize such programs.
 
 (Pub. L. 103–322, title III, §30801, Sept. 13, 1994, 108 Stat. 1857.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13812, 14214 of this title.
 

@@ -78,7 +78,7 @@ Section 601(c) of Pub. L. 100–713 provided that:
 
 “(1) Except as provided in paragraph (2), section 601 of the Indian Health Care Improvement Act \[this section\] added by subsection (a) of this section shall take effect 9 months from the date of the enactment of this section \[Nov. 23, 1988\].
 
-“(2) Notwithstanding subsections (b) \[set out below\] and (c)(1), any action which carries out such section 601that is taken by the Secretary before the effective date of such section 601 shall be effective beginning on the date such action was taken.”
+“(2) Notwithstanding subsections (b) \[set out below\] and (c)(1), any action which carries out such section 601 that is taken by the Secretary before the effective date of such section 601 shall be effective beginning on the date such action was taken.”
 
 #### Interim Appointment
 

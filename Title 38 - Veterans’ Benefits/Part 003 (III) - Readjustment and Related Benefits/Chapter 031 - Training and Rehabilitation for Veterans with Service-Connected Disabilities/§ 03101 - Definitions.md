@@ -62,7 +62,3 @@ Section 101(j) of Pub. L. 104–275 provided that:
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, as amended, set out as a note under section 3100 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1728, 3695 of this title.
-

@@ -8,7 +8,3 @@ There are authorized to be appropriated such sums not exceeding $42,500 as are n
 
 1972—Pub. L. 92–272 substituted “$42,500” for “$20,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430uu–2, 430uu–4 of this title.
-

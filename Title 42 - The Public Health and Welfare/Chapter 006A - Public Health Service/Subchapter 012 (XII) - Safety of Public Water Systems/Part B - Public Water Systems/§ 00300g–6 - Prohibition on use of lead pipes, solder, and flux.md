@@ -58,7 +58,7 @@
 
 #### (1) Enforcement of prohibition
 
-&emsp;The requirements of subsection (a)(1) of this section shall be enforced in all States effective24 months after June 19, 1986. States shall enforce such requirements through State or local plumbing codes, or such other means of enforcement as the State may determine to be appropriate.
+&emsp;The requirements of subsection (a)(1) of this section shall be enforced in all States effective 24 months after June 19, 1986. States shall enforce such requirements through State or local plumbing codes, or such other means of enforcement as the State may determine to be appropriate.
 
 #### (2) Enforcement of public notice requirements
 
@@ -88,7 +88,7 @@ For purposes of this section, the term “lead free”—
 
 #### (A) In general
 
-&emsp;&emsp;If a voluntary standard for the leaching of lead is not established by the date that is 1 year after August 6, 1996, the Administrator shall, not later than 2 years after August 6, 1996, promulgate regulations setting a health-effects-based performance standard establishing maximum leaching levels from new plumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion. The standard shall become effective on the date that is 5 years after the date of promulgation of the standard.
+&emsp;&emsp;If a voluntary standard for the leaching of lead is not established by the date that is 1year after August 6, 1996, the Administrator shall, not later than 2 years after August 6, 1996, promulgate regulations setting a health-effects-based performance standard establishing maximum leaching levels from new plumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion. The standard shall become effective on the date that is 5 years after the date of promulgation of the standard.
 
 #### (B) Alternative requirement
 
@@ -139,8 +139,4 @@ Definition of lead free.—For purposes of paragraph (1) the term ‘lead free�
 “(3)
 
 Effective date.—Paragraph (1) shall become effective 24 months after the enactment of this Act \[June 19, 1986\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300g–3 of this title.
 

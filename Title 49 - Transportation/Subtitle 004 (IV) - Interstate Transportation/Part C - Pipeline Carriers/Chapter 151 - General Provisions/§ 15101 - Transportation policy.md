@@ -42,9 +42,5 @@ Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 
 #### GAO Report
 
-Section 106(b) of Pub. L. 104–88 provided that: “Within 3 years after the effective date of this Act \[Jan. 1, 1996, except as otherwise provided, see Effective Date note set out under section 701 of this title\], the Comptroller General shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure ofthe House of Representatives a report regarding the impact of regulations under part C \[of subtitle IV\] of title 49, United States Code, on the competitiveness of pipelines and recommend whether to continue, revise, or sunset such regulations. Congress shall take into account the findings of this report when considering the Board's \[Surface Transportation Board\] reauthorization.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15302 of this title.
+Section 106(b) of Pub. L. 104–88 provided that: “Within 3 years after the effective date of this Act \[Jan. 1, 1996, except as otherwise provided, see Effective Date note set out under section 701 of this title\], the Comptroller General shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report regarding the impact of regulations under part C \[of subtitle IV\] of title 49, United States Code, on the competitiveness of pipelines and recommend whether to continue, revise, or sunset such regulations. Congress shall take into account the findings of this report when considering the Board's \[Surface Transportation Board\] reauthorization.”
 

@@ -244,9 +244,5 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Study and Report on Importation of Drugs
 
-Pub. L. 108–173, title XI, §1122, Dec. 8, 2003, 117 Stat. 2469, provided that: “The Secretary \[of Health and Human Services\], in consultation with appropriate government agencies, shall conduct a study on the importation of drugs into the United States pursuant to section 804 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 384\] (as added by section 1121 of this Act). Not later than 12 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary shall submit to the appropriate committees of the Congress a report providing the findings of such study.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 333, 381 of this title.
+Pub. L. 108–173, title XI, §1122, Dec. 8, 2003, 117 Stat. 2469, directed the Secretary of Health and Human Services to conduct a study on the importation of drugs into the United States pursuant to this section and to submit to Congress, not later than 12 months after Dec. 8, 2003, a report providing the findings of such study.
 

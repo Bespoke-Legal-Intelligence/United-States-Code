@@ -12,7 +12,7 @@ Except as provided in subsection (f) of this section, beginning ninety days afte
 
 #### (c) Plan approval; State concurrence; plan provisions
 
-(1) Except as otherwise provided in this subchapter, prior to commencing exploration pursuant to any oil and gas lease issued or maintained under this subchapter, the holder thereof shall submit an exploration plan to the Secretary for approval. Such plan may apply to more than one lease held by a lessee in any one region of the outer Continental Shelf, or by a group of lessees acting under a unitization, pooling, or drilling agreement, and shall be approved by the Secretary if he finds that such plan is consistent with the provisions of this subchapter, regulations prescribed under this subchapter, including regulations prescribed by the Secretary pursuant to paragraph (8) of section 1334(a) of this title, and the provisions of such lease. The Secretary shall require such modifications of such plan as are necessary to achieve such consistency. The Secretary shall approve such plan, as submitted or modified, within thirty days of its submission, except that the Secretary shall disapprove such plan if he determines that (A) any proposed activity under such plan would result in any condition described in section 1334(a)(2)(A)(i) of this title, and (B) such proposed activity cannot be modified to avoid such condition. If the Secretary disapproves a planunder the preceding sentence, he may, subject to section 1334(a)(2)(B) of this title, cancel such lease and the lessee shall be entitled to compensation in accordance with the regulations prescribed under section 1334(a)(2)(C)(i) or (ii) of this title.
+(1) Except as otherwise provided in this subchapter, prior to commencing exploration pursuant to any oil and gas lease issued or maintained under this subchapter, the holder thereof shall submit an exploration plan to the Secretary for approval. Such plan may apply to more than one lease held by a lessee in any one region of the outer Continental Shelf, or by a group of lessees acting under a unitization, pooling, or drilling agreement, and shall be approved by the Secretary if he finds that such plan is consistent with the provisions of this subchapter, regulations prescribed under this subchapter, including regulations prescribed by the Secretary pursuant to paragraph (8) of section 1334(a) of this title, and the provisions of such lease. The Secretary shall require such modifications of such plan as are necessary to achieve such consistency. The Secretary shall approve such plan, as submitted or modified, within thirty days of its submission, except that the Secretary shall disapprove such plan if he determines that (A) any proposed activity under such plan would result in any condition described in section 1334(a)(2)(A)(i) of this title, and (B) such proposed activity cannot be modified to avoid such condition. If the Secretary disapproves a plan under the preceding sentence, he may, subject to section 1334(a)(2)(B) of this title, cancel such lease and the lessee shall be entitled to compensation in accordance with the regulations prescribed under section 1334(a)(2)(C)(i) or (ii) of this title.
 
 (2) The Secretary shall not grant any license or permit for any activity described in detail in an exploration plan and affecting any land use or water use in the coastal zone of a State with a coastal zone management program approved pursuant to section 1455 of title 16, unless the State concurs or is conclusively presumed to concur with the consistency certification accompanying such plan pursuant to section 1456(c)(3)(B)(i) or (ii) of title 16, or the Secretary of Commerce makes the finding authorized by section 1456(c)(3)(B)(iii) of title 16.
 
@@ -48,7 +48,7 @@ The Secretary may, by regulation, require any lessee operating under an approved
 
 #### (g) Determinations requisite to issuance of permits
 
-Any permit for geological explorations authorized by this section shall be issued only if the Secretary determines, in accordance with regulations issued by the Secretary, that—
+Any permit for geological explorations authorized by this section shall be issued only if theSecretary determines, in accordance with regulations issued by the Secretary, that—
 
 &emsp;(1) the applicant for such permit is qualified;
 
@@ -73,10 +73,6 @@ The Secretary shall not issue a lease or permit for, or otherwise allow, explora
 #### Transfer of Functions
 
 Functions of Secretary of the Interior to promulgate regulations under this subchapter which relate to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1352, 1842 of this title; title 33 section 2701.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “undertaken;”.</i>
 

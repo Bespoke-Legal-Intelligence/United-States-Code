@@ -54,7 +54,7 @@ Pub. L. 100–175, title III, Nov. 29, 1987, 101 Stat. 972, provided that:
 
 “(a)
 
-In General.—The Director of the National Institute on Aging shall provide for the conduct of clinical trials on the efficacy of the use of such promising therapeutic agents as have been or may be discovered and recommended for further scientific analysis by theNational Institute on Aging and the Food and Drug Administration to treat individuals with Alzheimer's disease, to retard the progression of symptoms of Alzheimer's disease, or to improve the functioning of individuals with such disease.
+In General.—The Director of the National Institute on Aging shall provide for the conduct of clinical trials on the efficacy of the use of such promising therapeutic agents as have been or may be discovered and recommended for further scientific analysis by the National Institute on Aging and the Food and Drug Administration to treat individuals with Alzheimer's disease, to retard the progression of symptoms of Alzheimer's disease, or to improve the functioning of individuals with such disease.
 
 “(b)
 
@@ -67,8 +67,4 @@ Rule of Construction.—Nothing in this title shall be construed to affect adver
 #### Alzheimer's Disease Registry
 
 Section 12 of Pub. L. 99–158, which was formerly set out as a note under this section, was renumbered section 445G of the Public Health Service Act by Pub. L. 103–43, title VIII, §801(a), June 10, 1993, 107 Stat. 163, and is classified to section 285e–9 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 285e–4, 285e–5, 11212, 11221, 11251, 11292, 11293 of this title.
 

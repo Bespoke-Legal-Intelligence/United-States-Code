@@ -2,7 +2,7 @@
 
 #### (a) No agreement required
 
-A person may deposit, present, or send for collection or return a substitute check without an agreement with the recipient, so long as a bank has made the warranties in section 5004 of this title with respect to such substitute check.
+A person may deposit, present, or send for collection or return a substitute check without anagreement with the recipient, so long as a bank has made the warranties in section 5004 of this title with respect to such substitute check.
 
 #### (b) Legal equivalence
 
@@ -29,8 +29,4 @@ A substitute check that is the legal equivalent of the original check under subs
 #### References in Text
 
 This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5001 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5004, 5007 of this title.
 

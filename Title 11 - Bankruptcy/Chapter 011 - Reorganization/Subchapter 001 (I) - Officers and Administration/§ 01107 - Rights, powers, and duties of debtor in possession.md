@@ -24,7 +24,3 @@ This section places a debtor in possession in the shoes of a trustee in every wa
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 328, 1161 of this title.
-

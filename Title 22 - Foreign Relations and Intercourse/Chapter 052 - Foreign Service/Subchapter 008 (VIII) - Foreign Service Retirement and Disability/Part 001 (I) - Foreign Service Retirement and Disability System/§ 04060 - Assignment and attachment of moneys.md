@@ -24,13 +24,13 @@
 
 &emsp;(ii) is otherwise inconsistent with the requirements of this part.
 
-(2) Except with respect to obligations between participants and former spouses, payments under this part which would otherwise be made to a participant or annuitant based upon his or her service shall be paid (in whole or in part) by the Secretary of State to another individual to the extent expressly provided for in the terms of any order or any court decree of legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of legal separation.
+(2) Except with respect to obligations between participants and former spouses, payments under this part which would otherwise be madeto a participant or annuitant based upon his or her service shall be paid (in whole or in part) by the Secretary of State to another individual to the extent expressly provided for in the terms of any order or any court decree of legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of legal separation.
 
 (3) Paragraphs (1) and (2) shall apply only to payments made under this part for periods beginning after the date of receipt by the Secretary of State of written notice of such decree, order, or agreement, and such additional information and such documentation as the Secretary of State may require.
 
 (4) Any payment under this subsection to an individual bars recovery by any other individual.
 
-(5) The 10-year requirement of section 4044(b)(6) of this title, or any other provision ofthis part, shall not be construed to affect the rights any spouse or individual formerly married to a participant or annuitant may have, under any law or rule of law of any State or the District of Columbia, with respect to an annuity of a participant or annuitant under this part.
+(5) The 10-year requirement of section 4044(b)(6) of this title, or any other provision of this part, shall not be construed to affect the rights any spouse or individual formerly married to a participant or annuitant may have, under any law or rule of law of any State or the District of Columbia, with respect to an annuity of a participant or annuitant under this part.
 
 #### (c) Applicability of other provisions of law or remedies
 
@@ -49,8 +49,4 @@ In subsec. (a)(2), “section 3727 of title 31” substituted for “section 347
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4046, 4054, 4055, 4064, 4159 of this title.
 

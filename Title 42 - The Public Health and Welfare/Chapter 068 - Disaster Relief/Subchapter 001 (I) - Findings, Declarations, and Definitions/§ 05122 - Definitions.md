@@ -84,7 +84,3 @@ Termination of effectiveness.—Paragraph (1) shall not be effective on and afte
 
 \[Functions of President under section 103(e)(2) of Pub. L. 100–707 delegated to Director of Federal Emergency Management Agency by section 3 of Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571, set out as a note under section 5195 of this title.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4625 of this title; title 6 section 101; title 12 section 1706c; title 19 section 1313; title 29 section 2918.
-

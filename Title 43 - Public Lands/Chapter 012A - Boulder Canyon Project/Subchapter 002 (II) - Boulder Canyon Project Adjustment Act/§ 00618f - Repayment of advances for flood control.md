@@ -4,7 +4,3 @@ The first $25,000,000 of advances made to the Colorado River Dam Fund for the pr
 
 (July 19, 1940, ch. 643, §7, 54 Stat. 777.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 618 of this title.
-

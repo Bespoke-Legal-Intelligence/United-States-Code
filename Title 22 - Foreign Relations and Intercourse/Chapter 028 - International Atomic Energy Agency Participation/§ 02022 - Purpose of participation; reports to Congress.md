@@ -30,7 +30,3 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 Authority under this section to terminate if Senate refuses its advice and consent by a formal vote to an amendment to the Statute of the Agency, see section 2026 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2026 of this title.
-

@@ -16,7 +16,7 @@ In carrying out the provisions of this subchapter, the Secretary shall have the 
 
 #### (d) Collection of claims and obligations
 
-&emsp;collect all claims and obligations arising out of or under any mortgage, lease, contract, or agreement entered into pursuant to this subchapter and, if in his judgment necessary and advisable, to pursue the same to final collection in any court having jurisdiction: <i>Provided</i>, That the prosecution and defense of all litigation under this subchapter shall be conducted under the supervision of the Attorney General and the legal representation shall be by the United States attorneys for the districts, respectively, in which such litigation may arise and by such other attorney or attorneys as may, under law, be designated by the Attorney General; except that—
+&emsp;collect all claims and obligations arising out of or under any mortgage, lease, contract, or agreement entered into pursuant to this subchapter and, if in his judgment necessary and advisable, to pursue the same to final collection in any court having jurisdiction: <i>Provided</i>, That the prosecution and defense of all litigation under this subchapter shall be conducted under the supervision of the Attorney General and the legal representation shall be by the United States attorneys for the districts, respectively, in which such litigation may ariseand by such other attorney or attorneys as may, under law, be designated by the Attorney General; except that—
 
 &emsp;&emsp;(1) prosecution and defense of any litigation under section 1472 of this title shall be conducted, at the discretion of the Secretary, by—
 

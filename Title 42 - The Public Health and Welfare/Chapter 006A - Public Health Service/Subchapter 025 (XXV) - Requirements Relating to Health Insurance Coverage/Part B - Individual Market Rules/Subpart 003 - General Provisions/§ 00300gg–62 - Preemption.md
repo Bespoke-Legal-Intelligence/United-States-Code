@@ -24,7 +24,3 @@ Amendment by Pub. L. 104–204 applicable to health insurance coverage offered, 
 
 Section applicable with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market after June 30, 1997, regardless of when a period of creditable coverage occurs, see section 111(b) of Pub. L. 104–191, set out as a note under section 300gg–41 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300gg–44, 300gg–51, 300gg–61 of this title.
-

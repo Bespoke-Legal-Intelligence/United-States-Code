@@ -18,7 +18,7 @@
 
 #### (B) System institutions
 
-&emsp;&emsp;The Farm Credit System and System institutions (other than the Corporation) shallnot be liable for any debt or obligation of the Corporation.
+&emsp;&emsp;The Farm Credit System and System institutions (other than the Corporation) shall not be liable for any debt or obligation of the Corporation.
 
 #### (b) Duties
 
@@ -37,8 +37,4 @@ The Corporation shall—
 #### Amendments
 
 1996—Subsec. (b)(4). Pub. L. 104–105 added par. (4).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2279aa of this title.
 

@@ -116,7 +116,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Payment under this part for competitively priced items and services described in subsection (a)(2) of this section shall be basedon bids submitted and accepted under this section for such items and services. Based on such bids the Secretary shall determine a single payment amount for each item or service in each competitive acquisition area.
+&emsp;&emsp;Payment under this part for competitively priced items and services described in subsection (a)(2) of this section shall be based on bids submitted and accepted under this section for such items and services. Based on such bids the Secretary shall determine a single payment amount for each item or service in each competitive acquisition area.
 
 #### (B) Reduced beneficiary cost-sharing
 
@@ -160,7 +160,7 @@
 
 #### (7) Consideration in determining categories for bids
 
-&emsp;The Secretary may consider the clinical efficiency and value of specific items within codes, including whether some items have a greater therapeutic advantage to individuals.
+&emsp;The Secretary may consider the clinical efficiency and value of specific items withincodes, including whether some items have a greater therapeutic advantage to individuals.
 
 #### (8) Authority to contract for education, monitoring, outreach, and complaint services
 
@@ -260,7 +260,7 @@ Not later than July 1, 2009, the Secretary shall submit to Congress a report on 
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(2)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(2)(A), is act June 25, 1938, ch. 675, 52Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -297,10 +297,6 @@ Pub. L. 108–173, title III, §302(e), Dec. 8, 2003, 117 Stat. 2233, provided t
 #### Study by GAO
 
 Section 4319(c) of Pub. L. 105–33 provided that: “The Comptroller of the United States shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[subsec. (a) of this section\], as added by this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395<i>l</i>, 1395m, 1395u, 1395y of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “a”.</i>
 

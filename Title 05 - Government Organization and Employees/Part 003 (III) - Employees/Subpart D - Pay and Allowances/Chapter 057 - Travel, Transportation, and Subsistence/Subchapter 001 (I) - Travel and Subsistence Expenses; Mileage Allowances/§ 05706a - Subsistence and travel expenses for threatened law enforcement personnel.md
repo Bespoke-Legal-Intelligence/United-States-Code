@@ -10,7 +10,3 @@
 
 Section effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as an Effective Date of 1986 Amendment note under section 5701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5707 of this title; title 7 sections 3128, 5843; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709, 5727; title 22 section 1474; title 24 section 416.
-

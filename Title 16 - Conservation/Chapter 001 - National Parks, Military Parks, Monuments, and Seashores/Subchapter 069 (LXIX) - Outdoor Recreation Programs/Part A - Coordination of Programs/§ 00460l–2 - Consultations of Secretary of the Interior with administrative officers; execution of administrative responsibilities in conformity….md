@@ -4,7 +4,3 @@ In order further to carry out the policy declared in section 460<i>l</i> of this
 
 (Pub. L. 88–29, §3, May 28, 1963, 77 Stat. 50.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460<i>l</i>–17 of this title.
-

@@ -28,7 +28,3 @@ Not less than annually, the Fund shall review the progress of each assisted comm
 
 (Pub. L. 103–325, title I, §115, Sept. 23, 1994, 108 Stat. 2184.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4707 of this title; title 15 section 6908.
-

@@ -14,7 +14,7 @@ Except as otherwise provided in this chapter, the average weekly wage of the inj
 
 &emsp;(A) within the first year after the employee has retired, the average weekly wages shall be one fifty-second part of his average annual earnings during the 52-week period preceding retirement; or
 
-&emsp;(B) more than one year after the employee has retired, the average weekly wage shall be deemed to be the national average weekly wage (as determined by the Secretary pursuant to section 906(b) of this title) applicable at the time of the injury.
+&emsp;(B) more than one year after the employee has retired, the average weekly wage shall be deemed to be the national average weeklywage (as determined by the Secretary pursuant to section 906(b) of this title) applicable at the time of the injury.
 
 (e) If it be established that the injured employee was a minor when injured, and that under normal conditions his wages should be expected to increase during the period of disability the fact may be considered in arriving at his average weekly wages.
 
@@ -63,8 +63,4 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 #### Effective Date of 1948 Amendment
 
 Amendment by act June 24, 1948, applicable to death or injuries occurring after June 24, 1948, see section 6 of act June 24, 1948, set out as a note under section 906 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 902, 906, 908, 909, 944 of this title; title 30 section 932; title 42 section 1702.
 

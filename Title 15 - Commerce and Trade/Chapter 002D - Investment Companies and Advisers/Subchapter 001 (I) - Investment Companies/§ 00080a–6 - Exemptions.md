@@ -110,9 +110,5 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 Subchapter inapplicable to certain life insurance benefits issued prior to Mar. 23, 1959, under certain conditions, see section 29 of Pub. L. 91–547, Dec. 14, 1970, 84 Stat. 1436, set out as a note under section 77c of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–3, 80a–7, 80a–15, 80a–58, 80a–59, 80a–60, 80a–61, 80a–62, 80a–63, 80a–64 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

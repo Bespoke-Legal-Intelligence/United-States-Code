@@ -1,9 +1,5 @@
 ### SUBCHAPTER XVII—GRANTS FOR PLANNING COMPREHENSIVE ACTION TO COMBAT MENTAL RETARDATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1320a–1 of this title.
-
 
 ---
 

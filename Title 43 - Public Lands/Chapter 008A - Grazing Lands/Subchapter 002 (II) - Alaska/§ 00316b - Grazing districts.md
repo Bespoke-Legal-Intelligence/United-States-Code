@@ -14,9 +14,5 @@ This subchapter, referred to in subsec. (b), was in the original “this title�
 
 Section was formerly classified to section 471b of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 316a of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

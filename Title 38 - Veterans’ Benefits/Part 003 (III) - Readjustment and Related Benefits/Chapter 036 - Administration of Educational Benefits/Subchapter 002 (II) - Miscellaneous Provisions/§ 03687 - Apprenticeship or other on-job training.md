@@ -33,13 +33,31 @@
 
 &emsp;(2) such Consumer Price Index for the 12-month period preceding the 12-month period described in paragraph (1).
 
-(Added Pub. L. 92–540, title III, §316(1), Oct. 24, 1972, 86 Stat. 1085, §1787; amended Pub. L. 93–508, title I, §104(2), (3), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §205(b), Jan. 2, 1975, 88 Stat. 1959; Pub. L. 94–502, title V, §501(2), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 95–202, title I, §104(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§203(3), 213(3), Oct. 17, 1980, 94 Stat. 2189, 2191; Pub. L. 97–295, §4(57), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–543, title II, §204(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §403(b), Dec. 18, 1989, 103 Stat. 2080; renumbered §3687 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8210(d), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §111(d), (f)(2), Nov. 1, 2000, 114 Stat. 1830, 1831; Pub. L. 107–103, title I, §102(d), Dec. 27, 2001, 115 Stat. 978; Pub. L. 108–183, title III, §302(d), Dec. 16, 2003, 117 Stat. 2659.)
+(e)(1) For each month that an individual (as defined in paragraph (3)) is paid a training assistance allowance under subsection (a), the entitlement of the individual shall be charged at a percentage rate (rounded to the nearest percent) that is equal to the ratio of—
+
+&emsp;(A) the training assistance allowance for the month involved, to
+
+&emsp;(B) the monthly educational assistance allowance otherwise payable for full-time enrollment in an educational institution.
+
+(2) For any month in which an individual fails to complete 120 hours of training, the entitlement otherwise chargeable under paragraph (1) shall be reduced in the same proportion as the monthly training assistance allowance payable is reduced under subsection (b)(3).
+
+(3) In this section, the term “individual” means—
+
+&emsp;(A) an eligible veteran who is entitled to monthly educational assistance allowances payable under section 3015(e) of this title, or
+
+&emsp;(B) an eligible person who is entitled to monthly educational assistance allowances payable under section 3532(a) of this title,
+
+> as the case may be.
+
+(Added Pub. L. 92–540, title III, §316(1), Oct. 24, 1972, 86 Stat. 1085, §1787; amended Pub. L. 93–508, title I, §104(2), (3), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §205(b), Jan. 2, 1975, 88 Stat. 1959; Pub. L. 94–502, title V, §501(2), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 95–202, title I, §104(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§203(3), 213(3), Oct. 17, 1980, 94 Stat. 2189, 2191; Pub. L. 97–295, §4(57), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–543, title II, §204(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §403(b), Dec. 18, 1989, 103 Stat. 2080; renumbered §3687 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8210(d), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §111(d), (f)(2), Nov. 1, 2000, 114 Stat. 1830, 1831; Pub. L. 107–103, title I, §102(d), Dec. 27, 2001, 115 Stat. 978; Pub. L. 108–183, title III, §302(d), Dec. 16, 2003, 117 Stat. 2659; Pub. L. 108–454, title I, §102(a), Dec. 10, 2004, 118 Stat. 3600.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former section 1683, as added by Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title I, §103(e), Mar. 26, 1970, 84 Stat. 77; Pub. L. 91–584, §7, Dec. 24, 1970, 84 Stat. 1576, prior to repeal by section 401(6) of Pub. L. 92–540.
 
 #### Amendments
+
+2004—Subsec. (e). Pub. L. 108–454 added subsec. (e).
 
 2003—Subsec. (b)(2). Pub. L. 108–183 substituted “shall be $574 for the first six months, $429 for the second six months, $285 for the third six months, and $144 for the fourth and any succeeding six-month period of training.” for “shall be $488 for the first six months, $365 for the second six months, $242 for the third six months, and $122 for the fourth and any succeeding six-month periods of training.”
 
@@ -75,13 +93,17 @@ Pub. L. 96–466, §203(3), increased monthly training assistance allowance of e
 
 Subsec. (b)(2). Pub. L. 93–508, §104(3), substituted “computed at the rate prescribed in paragraph (1) of this subsection for an eligible veteran with no dependents pursuing such a course” for “(A) $160 during the first six-month period, (B) $120 during the second six-month period, (C) $80 during the third six-month period, and (D) $40 during the fourth and any succeeding six-month period”.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–454, title I, §102(b), Dec. 10, 2004, 118 Stat. 3600, provided that:“The amendment made by subsection (a) \[amending this section\] shall apply with respect to months beginning after September 30, 2005.”
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–183 effective July 1, 2004, and applicable with respect to educational assistance allowances payable under chapter 35 and section 3687(b)(2) of this title for months beginning on or after that date, see section 302(e) of Pub. L. 108–183, set out as a note under section 3532 of this title.
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–103 effective Jan. 1, 2002, and applicable with respect to educational assistance allowances payable under chapter 35 of this title and subsec. (b)(2) of this section for months beginning on or after that date, see section 102(e) of Pub. L. 107–103, set out as a note under section 3532 of this title.
+Amendment by Pub. L. 107–103 effective Jan. 1, 2002, and applicable with respect to educational assistanceallowances payable under chapter 35 of this title and subsec. (b)(2) of this section for months beginning on or after that date, see section 102(e) of Pub. L. 107–103, set out as a note under section 3532 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -127,11 +149,23 @@ Amendment by Pub. L. 93–508 effective Sept. 1, 1974, see section 501 of Pub. L
 
 Section effective Oct. 1, 1972, except for those veterans and eligible persons in training on Oct. 24, 1972, see section 601(a) of Pub. L. 92–540, set out as an Effective Date of 1972 Amendment note under section 3482 of this title.
 
+#### Increase in Benefit for Individuals Pursuing Apprenticeship or On-Job Training; Survivors and Dependents Educational Assistance
+
+Pub. L. 108–454, title I, §103(c), Dec. 10, 2004, 118 Stat. 3601, provided that:
+
+“(1) For months beginning on or after October 1, 2005, and before January 1, 2008, subsection (b)(2) of section 3687 of title 38, United States Code, shall be applied as if—
+
+&emsp;“(A) the reference to ‘$574 for the first six months’ were a reference to ‘$650 for the first six months’;
+
+&emsp;“(B) the reference to ‘$429 for the second six months’ were a reference to ‘$507 for the second six months’; and
+
+&emsp;“(C) the reference to ‘$285 for the third six months’ were a reference to ‘$366 for the third six months’.
+
+“(2) Subsection (d) of such section 3687 shall not apply with respect to the provisions of paragraph (1) for months occurring during fiscal year 2006.
+
+“(3) For months beginning on or after January 1, 2008, the Secretary shall carry out subsection (b)(2) of such section 3687 as if paragraphs (1) and (2) were not enacted into law.”
+
 #### Termination of Eligibility Period
 
 Termination of eligibility period for a wife or widow, or an eligible person eight years from Oct. 24, 1972, see section 604 of Pub. L. 92–540.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3002, 3034, 3116, 3202, 3241, 3482, 3484, 3534, 3672, 4102A of this title; title 10 section 16136; title 29 section 2913.
 

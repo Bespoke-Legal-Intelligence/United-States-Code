@@ -96,7 +96,7 @@ Preservation programs assisted under this section shall—
 
 > &emsp;during the 5-year period beginning on the date on which the units in the housing are available for occupancy;
 
-&emsp;(C) the unit of general local government or nonprofit organization that receives the assistance certifies to the satisfaction of the Secretary that the assistance will be made available in conformity with Public Law 88–352 \[42 U.S.C. 2000a et seq.\] and Public Law 90–284;
+&emsp;(C) the unit of general local government or nonprofit organization that receives the assistance certifies to the satisfaction of theSecretary that the assistance will be made available in conformity with Public Law 88–352 \[42 U.S.C. 2000a et seq.\] and Public Law 90–284;
 
 &emsp;(D) the owner agrees to enter into and abide by written leases with the tenants, which leases shall provide that tenants may be evicted only for good cause; and
 
@@ -138,7 +138,7 @@ Public Law 90–284, referred to in subsec. (e)(1)(C), is Pub. L. 90–284, Apr.
 
 1998—Subsec. (a). Pub. L. 105–276 substituted “tenant-based assistance as provided under section 1437f of this title” for “assistance payments as provided by section 1437f(<i>o</i>) of this title” in concluding provisions.
 
-Subsec. (j). Pub. L. 105–362 struck out subsec. (j) which read as follows: “Not later than 180 days after the close of each fiscal year in which assistance under this section is furnished, the Secretary shall submit to the Congress a report which shall contain—
+Subsec. (j). Pub. L. 105–362 struck out subsec. (j) which read as follows: “Not later than 180 days afterthe close of each fiscal year in which assistance under this section is furnished, the Secretary shall submit to the Congress a report which shall contain—
 
 &emsp;“(1) a description of the progress made in accomplishing the objectives of this section; and
 
@@ -191,8 +191,4 @@ Amendment by title V of Pub. L. 105–276 effective and applicable beginning upo
 #### Rural Rental Rehabilitation Demonstration
 
 Pub. L. 100–242, title III, §311, Feb. 5, 1988, 101 Stat. 1896, as amended by Pub. L. 100–628, title X, §1044, Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–137, §7(d), Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 846; Pub. L. 105–362, title VII, §701(f), Nov. 10, 1998, 112 Stat. 3287, directed Secretary of Housing and Urban Development to carry out a rural rental rehabilitation demonstration program, provided funding for program, and terminated authority for such program after Sept. 30, 1991.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437f, 1479, 1483, 1490r, 4851b of this title.
 

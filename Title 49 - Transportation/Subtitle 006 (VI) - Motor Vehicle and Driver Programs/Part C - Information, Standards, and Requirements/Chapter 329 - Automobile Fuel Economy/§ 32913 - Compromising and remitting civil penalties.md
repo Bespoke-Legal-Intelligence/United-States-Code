@@ -12,7 +12,7 @@ General Authority and Limitations.—The Secretary of Transportation may comprom
 
 (b)
 
-Certification by Commission.—(1) A manufacturer liable for a civil penalty under section 32912(b) of this title may apply to the Commission for a certification that a reduction in the penalty is necessary to prevent a substantial lessening of competition in the segment of the motor vehicle industry subject to the standard that was violated. The Commission shall make the certification when it finds that reduction is necessary to prevent the lessening. The Commission shall state in the certification the maximum amount by which the penalty may be reduced.
+Certification by Commission.—(1) A manufacturer liable for a civil penalty under section 32912(b) of this title may apply to the Commission for a certification that a reduction in the penalty is necessary to prevent a substantiallessening of competition in the segment of the motor vehicle industry subject to the standard that was violated. The Commission shall make the certification when it finds that reduction is necessary to prevent the lessening. The Commission shall state in the certification the maximum amount by which the penalty may be reduced.
 
 (2) An application under this subsection must be made not later than 30 days after the Secretary decides that the manufacturer has violated section 32911(b) of this title. To the maximum extent practicable, the Commission shall make a decision on an application by the 90th day after the application is filed. A proceeding under this subsection may not delay the manufacturer's liability for the penalty for more than 90 days after the application is filed.
 
@@ -67,8 +67,4 @@ Section 6(d) of Pub. L. 104–287 provided that the amendment made by that secti
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 32914, 32915 of this title.
 

@@ -132,7 +132,3 @@ Report to Congress.—The Secretary shall transmit to the Committee on Transport
 
 Implementation.—The Secretary shall begin implementation of the plan transmitted under subsection (c) not later than December 31, 1998.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 322 of this title.
-

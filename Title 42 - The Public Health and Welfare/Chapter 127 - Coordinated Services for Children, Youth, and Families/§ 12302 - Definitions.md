@@ -12,7 +12,7 @@ As used in this chapter:
 
 #### (3) Nonprofit
 
-&emsp;The term “‘nonprofit”, as applied to any agency, institution, or organization, means an agency, institution, or organization that is, oris owned and operated by, one or more corporations or associations, no part of the net earnings of which may lawfully inure to the benefit of any private shareholder or individual.
+&emsp;The term “‘nonprofit”, as applied to any agency, institution, or organization, means an agency, institution, or organization that is, or is owned and operated by, one or more corporations or associations, no part of the net earnings of which may lawfully inure to the benefit of any private shareholder or individual.
 
 #### (4) Secretary
 

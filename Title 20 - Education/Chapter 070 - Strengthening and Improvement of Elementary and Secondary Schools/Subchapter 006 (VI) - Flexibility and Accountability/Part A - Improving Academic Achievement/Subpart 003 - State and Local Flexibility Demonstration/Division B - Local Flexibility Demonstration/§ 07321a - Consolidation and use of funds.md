@@ -24,7 +24,3 @@ Program funds made available to local educational agencies on the basis of a for
 
 (Pub. L. 89–10, title VI, §6152, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1888.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7315, 7321 of this title.
-

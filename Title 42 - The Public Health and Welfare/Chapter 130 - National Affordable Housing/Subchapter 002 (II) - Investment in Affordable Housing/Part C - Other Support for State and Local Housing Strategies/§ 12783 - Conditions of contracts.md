@@ -20,7 +20,3 @@ Contracts under this part shall be for not more than 3 years and shall provide n
 
 (Pub. L. 101–625, title II, §243, Nov. 28, 1990, 104 Stat. 4118.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12784 of this title.
-

@@ -24,7 +24,7 @@ Background checks of current employees.—
 
 &emsp;(i) A new background check (including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security shall be required for any individual who is employed in a position described in subparagraphs (A) and (B) on the date of enactment of the Aviation and Transportation Security Act.
 
-&emsp;(ii) The Under Secretary may provide by order (without regard to the provisions of chapter 5 of title 5, United States Code) for a phased-in implementation of the requirements of this subparagraph.
+&emsp;(ii) The Under Secretary may provide by order (without regard to the provisions ofchapter 5 of title 5, United States Code) for a phased-in implementation of the requirements of this subparagraph.
 
 (D)
 
@@ -232,7 +232,7 @@ Subsec. (b)(2). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary”
 
 Subsec. (b)(3). Pub. L. 107–71, §§101(f)(7), 138(a)(13), substituted “carrier, airport operator, or government” for “carrier, or airport operator” and “Under Secretary” for “Administrator”.
 
-Subsec. (c)(1). Pub. L. 107–71, §138(a)(14), inserted at end “All Federal agencies shall cooperate with the Under Secretary and the Under Secretary's designee in the process of collecting and submitting fingerprints.”
+Subsec. (c)(1). Pub. L. 107–71, §138(a)(14), inserted at end “All Federal agencies shall cooperate with theUnder Secretary and the Under Secretary's designee in the process of collecting and submitting fingerprints.”
 
 Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” wherever appearing.
 
@@ -335,10 +335,6 @@ Interim report.—Not later than 1 year after the date of enactment of this Act 
 &emsp;“(2)
 
 Notification concerning sufficiency of operation.—If the Administrator determines that the program described in subsection (a) is not sufficiently operational 2 years after the date of enactment of this Act to permit its utilization in accordance with subsection (a), the Administrator shall notify the committees referred to in paragraph (1) of that determination.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 40109, 44915, 44921, 44935, 44937, 44939 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

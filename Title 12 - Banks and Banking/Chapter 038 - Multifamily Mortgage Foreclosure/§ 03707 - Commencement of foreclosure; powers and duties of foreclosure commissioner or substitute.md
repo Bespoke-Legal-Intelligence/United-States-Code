@@ -6,7 +6,3 @@
 
 (Pub. L. 97–35, title III, §368, Aug. 13, 1981, 95 Stat. 425.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3704, 3705, 3708, 3709 of this title.
-

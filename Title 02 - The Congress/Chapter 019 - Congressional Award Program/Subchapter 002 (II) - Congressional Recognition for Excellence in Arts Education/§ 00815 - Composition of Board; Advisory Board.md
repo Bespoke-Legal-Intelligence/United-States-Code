@@ -96,7 +96,7 @@ The Board shall meet annually at the call of the Chairperson and at such other t
 
 #### (g) Officers
 
-The Chairperson and the Vice Chairperson of the Board shall be elected from among the members of the Board, by a majority vote of the members of the Board, for such terms as the Board determines. The Vice Chairperson shall perform the duties of the Chairperson in the absence of the Chairperson.
+The Chairperson and the Vice Chairperson of the Board shall be elected from among the members of the Board, by a majority vote of the members of the Board, for such terms as theBoard determines. The Vice Chairperson shall perform the duties of the Chairperson in the absence of the Chairperson.
 
 #### (h) Committees
 

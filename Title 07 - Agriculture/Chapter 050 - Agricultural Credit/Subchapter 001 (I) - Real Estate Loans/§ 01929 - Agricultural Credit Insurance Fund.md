@@ -14,7 +14,7 @@ The Secretary is authorized to make and issue notes to the Secretary of the Trea
 
 #### (d) Notes and security as part of fund; collection or sale of notes; deposit of net proceeds in fund
 
-Notes and security acquired by the Secretary in connection with loans insured under this subchapter and under prior authority shall become a part of the fund. Notes may be held in the fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time. All net proceeds from such collections, including sales of notes or property, shall be deposited in and become a part of the fund.
+Notes and security acquired by the Secretary in connection with loans insured under this subchapter and under prior authority shall become a part of the fund. Notes may be held in the fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time. All net proceeds from such collections, includingsales of notes or property, shall be deposited in and become a part of the fund.
 
 #### (e) Deposit in fund of portion of charge on outstanding principal obligations; availability of remainder of charge, and merger with appropriations, for administrative expenses
 
@@ -30,7 +30,7 @@ The Secretary may utilize the fund—
 
 &emsp;(3) to purchase notes in accordance with agreements previously entered into;
 
-&emsp;(4) to pay for contract services, taxes, insurance, prior liens, expenses necessary to makefiscal adjustments in connection with the application and transmittal of collections and other expenses and advances authorized in connection with insured loans, including the difference between interest payable by borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance;
+&emsp;(4) to pay for contract services, taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections and other expenses and advances authorized in connection with insured loans, including the difference between interest payable by borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance;
 
 &emsp;(5) to pay the Secretary's costs of administration necessary to insure, make grants, service, and otherwise carry out the programs under this chapter not specifically covered by the Rural Development Insurance Fund of section 1929a of this title, including costs of the Secretary incidental to guaranteeing loans under this chapter, either directly from the Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
 
@@ -78,7 +78,7 @@ Amount of guarantee of loans for farm operations on tribal lands.—In the case 
 
 #### (i) Coordination of assistance for qualified beginning farmers and ranchers
 
-(1) Not later than 60 days after any State expresses to the Secretary, in writing, a desire to coordinate the provision of financial assistanceto qualified beginning farmers and ranchers in the State, the Secretary and the State shall conclude a joint memorandum of understanding that shall govern the coordination of the provision of the financial assistance by the State and the Secretary.
+(1) Not later than 60 days after any State expresses to the Secretary, in writing, a desire to coordinate the provision of financial assistance to qualified beginning farmers and ranchers in the State, the Secretary and the State shall conclude a joint memorandum of understanding that shall govern the coordination of the provision of the financial assistance by the State and the Secretary.
 
 (2) The memorandum of understanding shall provide that if a State beginning farmer program makes a commitment to provide a qualified beginning farmer or rancher with financing to establish or maintain a viable farming or ranching operation, the Secretary shall, subject to applicable law, normal loan approval criteria, and the availability of funds provide the farmer or rancher with a down payment loan under section 1935 of this title or a guarantee of the financing provided by the State program, or both.
 
@@ -152,7 +152,7 @@ Subsecs. (g), (h). Pub. L. 92–419, §115(b), added subsecs. (g) and (h).
 
 Subsec. (f)(1). Pub. L. 89–240, §2(c), substituted “$50,000,000” for “$25,000,000”.
 
-1962—Subsec. (f)(1). Pub. L. 87–703 increased from $10,000,000 to $25,000,000 the aggregate amount of loansto be sold and insured and undisposed of at any one time.
+1962—Subsec. (f)(1). Pub. L. 87–703 increased from $10,000,000 to $25,000,000 the aggregate amount of loans to be sold and insured and undisposed of at any one time.
 
 #### Effective Date of 1996 Amendment
 
@@ -205,8 +205,4 @@ Pub. L. 99–509, title I, §1002, Oct. 21, 1986, 100 Stat. 1875, provided that:
 #### Loans to Indians
 
 Authority of the Secretary of Agriculture to make loans to Indian tribes and tribal corporations to acquire land within reservations, see sections 488 to 492 of Title 25, Indians.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1929a, 1983a, 1991, 1994, 1999, 6942 of this title; title 25 section 488; title 42 sections 1485, 1487, 8813.
 

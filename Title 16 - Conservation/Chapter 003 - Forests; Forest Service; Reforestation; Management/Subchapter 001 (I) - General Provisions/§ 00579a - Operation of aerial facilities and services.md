@@ -14,7 +14,3 @@ Section was enacted as a part of the Department of Agriculture Organic Act of 19
 
 1950—Act Apr. 24, 1950, amended section to provide for aerial facilities and services for the protection and management of our national forests.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 580k of this title.
-

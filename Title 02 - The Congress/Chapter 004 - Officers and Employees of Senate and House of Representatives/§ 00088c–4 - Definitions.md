@@ -16,7 +16,7 @@ Section is based on section 4 of House Resolution No. 234, Ninety-eighth Congres
 
 #### Amendments
 
-<b>1996</b>—Par. (1). Pub. L. 104–186 substituted “semesters” for “terms”.
+1996—Par. (1). Pub. L. 104–186 substituted “semesters” for “terms”.
 
 #### Effective Date
 

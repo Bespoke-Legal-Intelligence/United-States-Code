@@ -1,9 +1,5 @@
 Part E—Adult and Dislocated Worker Employment and Training Activities
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 20 section 2411.
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Act Does Not Supersede Customer's Liability to Taxing Jurisdiction.—Nothing insections 116 through 126 modifies, impairs, supersedes, or authorizes the modification, impairment, or supersession of, any law allowing a taxing jurisdiction to collect a tax, charge, or fee from a customer that has failed to provide its place of primary use.
+Act Does Not Supersede Customer's Liability to Taxing Jurisdiction.—Nothing in sections 116 through 126 modifies, impairs, supersedes, or authorizes the modification, impairment, or supersession of, any law allowing a taxing jurisdiction to collect a tax, charge, or fee from a customer that has failed to provide its place of primary use.
 
 (b)
 
@@ -21,8 +21,4 @@ Act, referred to in subsec. (a), probably means the Mobile Telecommunications So
 #### Effective Date; Application of Amendment
 
 Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the first month beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 116, 117, 118, 124, 125, 126 of this title.
 

@@ -4,7 +4,3 @@ State jurisdiction acquired pursuant to this subchapter with respect to criminal
 
 (Pub. L. 90–284, title IV, §406, Apr. 11, 1968, 82 Stat. 80.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1755 of this title.
-

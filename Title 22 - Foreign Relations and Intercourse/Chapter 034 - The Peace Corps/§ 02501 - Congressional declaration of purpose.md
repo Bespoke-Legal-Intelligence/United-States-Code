@@ -1,6 +1,6 @@
 ### §2501. Congressional declaration of purpose
 
-(a) The Congress of the United States declares that it is the policy of the United States and the purpose of this chapter to promote world peace and friendship through a Peace Corps, which shall make available to interested countries and areas men and women of the United States qualified for service abroad and willing to serve, under conditions of hardship if necessary, to help the peoples of such countries and areas in meeting their needs for trained manpower, particularly in meeting the basic needs of those living in the poorest areas of such countries, and to help promote a better understanding of the American people on the part of the peoples served and a better understanding of other peoples on the part of the American people.
+(a) The Congress of the United States declares that it is the policy of the United States and the purpose of this chapter to promote world peace and friendship through a Peace Corps, which shall make available to interested countries and areas men and women of the United States qualified for service abroad and willing to serve, under conditions of hardship if necessary, to help the peoples of such countries and areas in meeting their needs for trained manpower, particularly in meeting the basic needs of those living in the poorest areas of such countries, and tohelp promote a better understanding of the American people on the part of the peoples served and a better understanding of other peoples on the part of the American people.
 
 (b) The Congress declares that it is the policy of the United States and a purpose of the Peace Corps to maintain, to the maximum extent appropriate and consistent with programmatic and fiscal considerations, a volunteer corps of at least 10,000 individuals.
 
@@ -146,7 +146,7 @@ Director of ACTION
 
 1–603. The head of each Federal department or agency shall, when so requested by the Director of ACTION, designate a senior official to have primary and continuing responsibility for the participation and cooperation of that department or agency in matters concerning voluntary action.
 
-1–604. The head of each Federal department or agency, or a designated representative, shall keep the Director of ACTION informed of proposed budgets, plans,and programs of that department or agency affecting voluntary action programs.
+1–604. The head of each Federal department or agency, or a designated representative, shall keep the Director of ACTION informed of proposed budgets, plans, and programs of that department or agency affecting voluntary action programs.
 
 1–605. Under the direction of the President and subject to the responsibilities of the Secretary of State, the Director of ACTION shall be responsible for the general direction of those ACTION functions, which jointly serve ACTION domestic volunteer components and the Peace Corps, and for advising the Director of the Peace Corps to ensure that the functions delegated under this Order to the Director of the Peace Corps are carried out.
 
@@ -171,8 +171,4 @@ General Provisions
 #### Executive Order No. 12468
 
 Ex. Ord. No. 12468, Mar. 22, 1984, 49 F.R. 11139, which established the Presidential Advisory Council on the Peace Corps and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2510, 2517 of this title.
 

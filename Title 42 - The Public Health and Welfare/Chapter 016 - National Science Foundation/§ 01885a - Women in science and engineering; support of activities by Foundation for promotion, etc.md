@@ -114,7 +114,7 @@ Pub. L. 105–255, Oct. 14, 1998, 112 Stat. 1889, provided that:
 
 #### “SEC. 3. ESTABLISHMENT.
 
-“There is established a commission to be known as the ‘Commission on the Advancement of Women and Minorities in Science, Engineering, and Technology Development’ (in this Act referred to as the ‘Commission’).
+“There is established a commission to be known as the ‘Commission on the Advancement of Women andMinorities in Science, Engineering, and Technology Development’ (in this Act referred to as the ‘Commission’).
 
 #### “SEC. 4. DUTY OF THE COMMISSION.
 
@@ -330,7 +330,7 @@ Pub. L. 99–383, §8, Aug. 21, 1986, 100 Stat. 815, provided that:
 
 &emsp;“(4) identify exemplary State, local, or private sector programs designed to promote such employment; and
 
-&emsp;“(5) develop a long-range plan to advance opportunities for women, minorities, and the handicapped in Federal scientific and technical positions in federally assisted research, and to coordinate the activities of participating agencies with the Committee on Equal Opportunities in Science and Engineering established by section 36 of the National Science Foundation Authorization and Science and Technology Equal Opportunities Act \[now the National Science Foundation Authorization and Science and Engineering Equal Opportunities Act\] (42 U.S.C. 1885c), after the termination of the task force established by this section.
+&emsp;“(5) develop a long-range plan to advance opportunities for women, minorities, and the handicapped in Federal scientific and technical positions in federally assisted research, and to coordinate the activities ofparticipating agencies with the Committee on Equal Opportunities in Science and Engineering established by section 36 of the National Science Foundation Authorization and Science and Technology Equal Opportunities Act \[now the National Science Foundation Authorization and Science and Engineering Equal Opportunities Act\] (42 U.S.C. 1885c), after the termination of the task force established by this section.
 
 “(b) For purposes of this section, the term ‘participating agency’ means—
 
@@ -369,8 +369,4 @@ Pub. L. 99–383, §8, Aug. 21, 1986, 100 Stat. 815, provided that:
 “(2) The Director of the National Science Foundation shall make provision for administrative support of the task force, and may enter into agreements with the heads of other participating agencies to facilitate the work of the task force.
 
 “(g) The task force shall terminate on January 31, 1990.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1862n, 1862n–1, 1862n–2, 1862n–8, 2473e of this title.
 

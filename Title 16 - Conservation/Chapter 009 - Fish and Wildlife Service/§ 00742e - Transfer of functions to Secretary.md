@@ -2,7 +2,7 @@
 
 #### (a) Functions of Secretaries of Agriculture, Commerce, etc.
 
-There shall be transferred to the Secretary all functions of the Secretary of Agriculture, theSecretary of Commerce, and the head of any other department or agency, as determined by the Director of the Office of Management and Budget to relate primarily to the development, advancement, management, conservation, and protection of commercial fisheries; but nothing in this section shall be construed to modify the authority of the Department of State or the Secretary of State to negotiate or enter into any international agreements, or conventions with respect to the development, management, or protection of any fisheries and wildlife resources or with respect to international commissions operating under conventions to which the United States is a party.
+There shall be transferred to the Secretary all functions of the Secretary of Agriculture, the Secretary of Commerce, and the head of any other department or agency, as determined by the Director of the Office of Management and Budget to relate primarily to the development, advancement, management, conservation, and protection of commercial fisheries; but nothing in this section shall be construed to modify the authority of the Department of State or the Secretary of State to negotiate or enter into any international agreements, or conventions with respect to the development, management, or protection of any fisheries and wildlife resources or with respect to international commissions operating under conventions to which the United States is a party.
 
 #### (b) Transfer of personnel, property, records, etc.
 
@@ -25,8 +25,4 @@ All functions vested by law (including reorganization plan) in Bureau of the Bud
 Secretary of the Interior authorized to exercise authority in relation to issuance of ship mortgage insurance on fishing vessels comparable to authority of Secretary of Commerce under Merchant Marine Act of 1936, as amended, see Pub. L. 86–577, July 5, 1960, 74 Stat. 314, set out as a note under section 1275 of Title 46, Appendix, Shipping.
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1534 of this title.
 

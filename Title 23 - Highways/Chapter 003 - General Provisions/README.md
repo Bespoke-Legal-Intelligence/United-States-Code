@@ -11,7 +11,7 @@
 | \[307. | Repealed.\] |
 | [308\.](%C2%A7%2000308%20-%20Cooperation%20with%20Federal%20and%20State%20agencies%20and%20foreign%20countries.md) | Cooperation with Federal and State agencies and foreign countries. |
 | [309\.](%C2%A7%2000309%20-%20Cooperation%20with%20other%20American%20Republics.md) | Cooperation with other American Republics. |
-| [310\.](%C2%A7%2000310%20-%20Civil%20defense.md) | Civil Defense |
+| [310\.](%C2%A7%2000310%20-%20Civil%20defense.md) | Civil defense. |
 | [311\.](%C2%A7%2000311%20-%20Highway%20improvements%20strategically%20important%20to%20the%20national%20defense.md) | Highway improvements strategically important to the national defense. |
 | [312\.](%C2%A7%2000312%20-%20Detail%20of%20Army%2C%20Navy%2C%20and%20Air%20Force%20officers.md) | Detail of Army, Navy, and Air Force officers. |
 | \[313. | Repealed.\] |
@@ -26,8 +26,7 @@
 | [322\.](%C2%A7%2000322%20-%20Magnetic%20levitation%20transportation%20technology%20deployment%20program.md) | Magnetic levitation transportation technology deployment program. |
 | [323\.](%C2%A7%2000323%20-%20Donations%20and%20credits.md) | Donations and credits. |
 | [324\.](%C2%A7%2000324%20-%20Prohibition%20of%20discrimination%20on%20the%20basis%20of%20sex.md) | Prohibition of discrimination on the basis of sex. |
-| \[325. | Repealed.\] |
-| \[326. | Repealed.\] |
+| \[325, 326. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

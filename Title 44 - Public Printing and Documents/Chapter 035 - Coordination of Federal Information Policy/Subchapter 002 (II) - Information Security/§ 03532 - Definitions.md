@@ -32,7 +32,7 @@ Additional Definitions.—As used in this subchapter—
 
 &emsp;(3) the term “information technology” has the meaning given that term in section 11101 of title 40; and
 
-&emsp;(4) the term “information system” means any equipment or interconnected system orsubsystems of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information, and includes—
+&emsp;(4) the term “information system” means any equipment or interconnected system or subsystems of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information, and includes—
 
 &emsp;&emsp;(A) computers and computer networks;
 
@@ -53,8 +53,4 @@ Additional Definitions.—As used in this subchapter—
 #### Prior Provisions
 
 A prior section 3532, added Pub. L. 106–398, §1 \[\[div. A\], title X, §1061\], Oct. 30, 2000, 114 Stat. 1654, 1654A–266, related to definitions applicable to this subchapter prior to the general amendment of this subchapter by Pub. L. 107–296.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 section 511; title 15 section 278g–3.
 

@@ -18,7 +18,7 @@ The Secretary of Agriculture (referred to in this section as the “Secretary”
 
 &emsp;&emsp;(B) to provide tribal forestry best-management practices and water quality technical assistance directly to Indian tribes;
 
-&emsp;&emsp;(C) to provide technical guidance to tribal land managers and policy makers for water quality protection through forest management;
+&emsp;&emsp;(C) to provide technical guidance to tribal land managers and policy makers for waterquality protection through forest management;
 
 &emsp;&emsp;(D) to complement tribal efforts to protect water quality and provide enhanced opportunities for consultation and cooperation among Federal agencies and tribal entities charged with responsibility for water and watershed management; and
 

@@ -52,9 +52,5 @@ Pub. L. 95–319 added par. (10), providing that it be unlawful to fail to compl
 
 For purposes of subsec. (a)(3) of this section, requirement to report information relating to choking incidents caused by children's toys or games to Consumer Product Safety Commission deemed a requirement under this chapter, see section 102 of Pub. L. 103–267, set out as a Reporting Requirements note under section 2064 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2055, 2069, 2070, 2071 of this title.
-
 <i><sup>1</sup></i><i> So in original. Words “or” and “and” probably should not appear at the end of pars. (7) and (8). The period at the end of par. (9) probably should be a semicolon, and the period at the end of par. (10) probably should be a semicolon followed by “or”.</i>
 

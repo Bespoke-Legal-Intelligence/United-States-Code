@@ -18,7 +18,3 @@ The Attorney General shall personally sign any complaint filed pursuant to this 
 
 1996—Subsec. (c). Pub. L. 104–134 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any complaint filed by the Attorney General pursuant to this section shall be personally signed by him.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1997b, 1997e, 1997h of this title.
-

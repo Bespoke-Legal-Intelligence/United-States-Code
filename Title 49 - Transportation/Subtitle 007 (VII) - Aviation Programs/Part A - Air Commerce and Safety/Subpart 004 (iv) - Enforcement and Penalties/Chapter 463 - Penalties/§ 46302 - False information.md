@@ -6,11 +6,11 @@ Civil Penalty.—A person that, knowing the information to be false, gives, or c
 
 (b)
 
-Compromise and Setoff.—(1) The Secretary of Transportation may compromise the amount of a civil penalty imposed under subsection (a) of this section.
+Compromise and Setoff.—(1) The Secretary of Homeland Security and, for a violation relating to section 46504, the Secretary of Transportation, may compromise the amount of a civil penalty imposed under subsection (a) of this section.
 
 (2) The Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts it owes the person liable for the penalty.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1234.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1234; Pub. L. 108–458, title IV, §4027(b), Dec. 17, 2004, 118 Stat. 3727.)
 
 Historical and Revision Notes
 
@@ -46,7 +46,7 @@ In subsection (b)(1), the words “imposed under” are substituted for “provi
 
 In subsection (b)(2), the words “imposed or compromised” are substituted for “The amount of such penalty when finally determined or fixed by order of the Board, or the amount agreed upon in compromise” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 46301 of this title.
+2004—Subsec. (b)(1). Pub. L. 108–458 substituted “Secretary of Homeland Security and, for a violation relating to section 46504, the Secretary of Transportation,” for “Secretary of Transportation”.
 

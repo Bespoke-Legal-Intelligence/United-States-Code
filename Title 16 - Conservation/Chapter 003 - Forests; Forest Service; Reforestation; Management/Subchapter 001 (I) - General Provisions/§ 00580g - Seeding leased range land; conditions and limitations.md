@@ -4,7 +4,3 @@ Whenever such action is deemed to be in the public interest, the Secretary of Ag
 
 (Apr. 24, 1950, ch. 97, §11, 64 Stat. 85.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 580k of this title.
-

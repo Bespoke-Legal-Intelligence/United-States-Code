@@ -48,7 +48,3 @@ This section amends 5 U.S.C. 8338(a) for consistency within the subchapter and t
 
 Pub. L. 90–83, §10(a), Sept. 11, 1967, 81 Stat. 222, provided that: “The right to a deferred annuity on satisfaction of the conditions attached thereto is continued notwithstanding the repeal by this Act of the law conferring the right.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8339, 8341 of this title; title 22 section 4051.
-

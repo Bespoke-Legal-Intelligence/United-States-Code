@@ -69,7 +69,7 @@ The section is included because 49:1655(f)(2) gave the same administrative power
 
 See the revision notes for the revised sections for an explanation of changes made in the text. Changes not accounted for in those revision notes are as follows:
 
-In the section, the text of 49:322(b)(2) and (3) is not included for motor carriers of migrant workers andmotor private carriers because those provisions, while included in the enumeration in 49:304(a)(3) and (3a), are not included in the specific enumeration of 49:1655(f)(2)(B)(ii).
+In the section, the text of 49:322(b)(2) and (3) is not included for motor carriers of migrant workers and motor private carriers because those provisions, while included in the enumeration in 49:304(a)(3) and (3a), are not included in the specific enumeration of 49:1655(f)(2)(B)(ii).
 
 In subsections (a) and (d), the text of 49:304(a)(3) (last sentence 1st–7th words) and (3a) (last sentence 1st–5th words) is omitted as executed.
 

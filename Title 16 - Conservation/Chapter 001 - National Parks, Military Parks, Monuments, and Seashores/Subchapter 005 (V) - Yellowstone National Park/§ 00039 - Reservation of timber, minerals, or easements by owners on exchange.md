@@ -4,7 +4,3 @@ Reservations of timber, minerals, or easements, the values of which shall be dul
 
 (May 26, 1926, ch. 399, §3, 44 Stat. 656.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 37, 40 of this title.
-

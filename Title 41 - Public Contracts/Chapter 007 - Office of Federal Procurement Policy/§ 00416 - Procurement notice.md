@@ -222,7 +222,7 @@ Section 303(b) of Pub. L. 98–577 provided that: “The amendment made by subse
 
 #### Effective Date
 
-Section applicable to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 251 of this title.
+Section applicable to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub.L. 98–369, set out as an Effective Date of 1984 Amendment note under section 251 of this title.
 
 #### Implementation of Amendment by Pub. L. 105–85
 
@@ -231,8 +231,4 @@ Amendment by Pub. L. 105–85 to be implemented in a manner consistent with any 
 #### Applicability to Tennessee Valley Authority
 
 Section 303(c) of Pub. L. 98–577 provided that: “The provisions of the amendments made by subsection (a) of this section \[amending this section\] shall apply to the Tennessee Valley Authority only with respect to procurements to be paid from appropriated funds.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 253, 253i, 253j, 427 of this title; title 6 section 426; title 10 sections 2304, 2304b, 2304c; title 15 section 637; title 20 section 1018a.
 

@@ -16,7 +16,7 @@ Allocation To Promote Safety in Transporting Radioactive Material.—(1) The Sec
 
 (3) Those 10 additional inspectors shall be allocated as follows:
 
-&emsp;(A) one to the Research and Special Programs Administration.
+&emsp;(A) one to the Pipeline and Hazardous Materials Safety Administration.
 
 &emsp;(B) 3 to the Federal Railroad Administration.
 
@@ -28,7 +28,7 @@ Allocation To Promote Safety in Transporting Radioactive Material.—(1) The Sec
 
 Allocation of Other Inspectors.—The Secretary shall allocate, as the Secretary decides, the 20 additional inspectors authorized under this section and not allocated under subsection (b) of this section among the administrations referred to in subsection (b)(3)(A)–(C) of this section.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 777.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 777; Pub. L. 108–426, §2(c)(2), Nov. 30, 2004, 118 Stat. 2424.)
 
 Historical and Revision Notes
 
@@ -67,4 +67,12 @@ In subsection (b)(3)(A)–(C), the words “not less than” are omitted as surp
 In subsection (b)(3)(D), the words “other 3” are substituted for “remainder” for clarity.
 
 In subsection (c), the word “administrations” is substituted for “agencies” for consistency.
+
+#### Amendments
+
+2004—Subsec. (b)(3)(A). Pub. L. 108–426 substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Programs Administration”.
+
+#### Transfer of Functions
+
+For transfer of duties, powers, and authority of Research and Special Programs Administration under this chapter to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under section 108 of this title.
 

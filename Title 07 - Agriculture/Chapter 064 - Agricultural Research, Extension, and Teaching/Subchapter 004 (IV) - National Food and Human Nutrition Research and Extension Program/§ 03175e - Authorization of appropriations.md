@@ -20,7 +20,3 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 Amendment by Pub. L. 101–624 effective Oct. 1, 1990, see section 1781(b)(1) of Pub. L. 101–624, set out as a note under section 2012 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2020, 3175b of this title.
-

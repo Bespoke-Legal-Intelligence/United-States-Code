@@ -32,7 +32,7 @@ Where the Secretary, after consultation with any local educational agency and wi
 
 &emsp;(II) Except as provided in subclause (III), the Secretary may not reduce the amount of a payment under this section to a local educational agency for a fiscal year by (aa) the amount equal to the amount of revenue, if any, the agency received during the previous fiscal year from activities conducted on Federal property eligible under this section and located in a school district served by the agency, including amounts received from any Federal department or agency (other than the Department of Education) from such activities, by reason of receipt of such revenue, or (bb) any other amount by reason of receipt of such revenue.
 
-&emsp;(III) If the amount equal to the sum of (aa) the proposed payment under this section to a local educational agency for a fiscal year and (bb) the amount of revenue described in subclause (II)(aa) received by the agency during the previous fiscal year, exceeds the maximum amount the agency is eligible to receive under this section for the fiscal year involved, then the Secretary shall reduce the amount of the proposed payment under this section by an amount equal to such excess amount.
+&emsp;(III) If the amount equal to the sum of (aa) the proposed payment under this section to a local educational agency for a fiscal year and (bb) the amount of revenue described in subclause (II)(aa) received by the agency during the previous fiscal year, exceeds the maximum amount the agency is eligible to receive under this section for the fiscal year involved, thenthe Secretary shall reduce the amount of the proposed payment under this section by an amount equal to such excess amount.
 
 &emsp;(ii) For purposes of clause (i), the amount of revenue that a local educational agency receives during the previous fiscal year from activities conducted on Federal property shall not include payments received by the agency from the Secretary of Defense to support—
 
@@ -92,11 +92,11 @@ Beginning with fiscal year 1995, a local educational agency shall be deemed to m
 
 (2) For each fiscal year beginning with fiscal year 1999, the Secretary shall treat the Webster School District, Day County, South Dakota as meeting the eligibility requirements of subsection (a)(1)(C) of this section.
 
-(3) For each fiscal year beginning with fiscal year 2000, the Secretary shall treat the Central Union, California; Island, California; Hill City, South Dakota; and Wall, South Dakota local educational agencies as meeting the eligibility requirements of subsection (a)(1)(C) of this section.
+(3) For each fiscal year beginning with fiscal year 2000, the Secretary shall treat the Central Union, California; Island, California; Hill City, South Dakota; and Wall, South Dakota local educational agencies as meeting the eligibilityrequirements of subsection (a)(1)(C) of this section.
 
 (4) For the purposes of payments under this section for each fiscal year beginning with fiscal year 2000, the Secretary shall treat the Hot Springs, South Dakota local educational agency as if it had filed a timely application under this section for fiscal year 1994 if the Secretary has received the fiscal year 1994 application, as well as Exhibits A and B not later than December 1, 1999.
 
-(5) For purposes of payments under this section for each fiscal year beginning with fiscalyear 2000, the Secretary shall treat the Hueneme, California local educational agency as if it had filed a timely application under this section if the Secretary has received the fiscal year 1995 application not later than December 1, 1999.
+(5) For purposes of payments under this section for each fiscal year beginning with fiscal year 2000, the Secretary shall treat the Hueneme, California local educational agency as if it had filed a timely application under this section if the Secretary has received the fiscal year 1995 application not later than December 1, 1999.
 
 #### (g) Former districts
 
@@ -194,7 +194,7 @@ Notwithstanding any other provision of this section, in determining the eligibil
 
 #### (1) Old Federal property
 
-&emsp;Except as provided in paragraph (2), a local educational agency that is eligible to receive a payment under this section for Federal property acquired by the Federal Government, before October 30, 2000, shall be eligible to receive the payment only if the local educational agency submits an application for a payment under this section not later than 5 years after October 30, 2000.
+&emsp;Except as provided in paragraph (2), a local educational agency that is eligible to receive a payment under this section for Federal property acquired by the Federal Government, before October 30, 2000, shall be eligible to receive the payment only if the local educational agency submits an application for a payment under this section not later than 7 years after October 30, 2000.
 
 #### (2) Combined Federal property
 
@@ -202,11 +202,11 @@ Notwithstanding any other provision of this section, in determining the eligibil
 
 &emsp;&emsp;(A) the Federal property, when combined with other Federal property in the school district served by the local educational agency acquired by the Federal Government after October 30, 2000, meets the requirements of subsection (a) of this section; and
 
-&emsp;&emsp;(B) the local educational agency submits an application for a payment under this section not later than 5 years after the date of acquisition of the Federal property acquired after October 30, 2000.
+&emsp;&emsp;(B) the local educational agency submits an application for a payment under this section not later than 7 years after the date of acquisition of the Federal property acquired after October 30, 2000.
 
 #### (3) New Federal property
 
-&emsp;A local educational agency that is eligible to receive a payment under this section for Federal property acquired by the Federal Government after October 30, 2000, shall be eligible to receive the payment only if the local educational agency submits an application for a payment under this section not later than 5 years after the date of acquisition.
+&emsp;A local educational agency that is eligible to receive a payment under this section for Federal property acquired by the Federal Government after October 30, 2000, shall be eligible to receive the payment only if the local educational agency submits an application for a payment under this section not later than 7 years after the date of acquisition.
 
 #### (n) Loss of eligibility
 
@@ -222,7 +222,7 @@ Notwithstanding any other provision of this section, in determining the eligibil
 
 &emsp;&emsp;(B) beginning in fiscal year 2003 or a subsequent fiscal year, is no longer eligible for payments under this section as provided for in subsection (a)(1)(C) of this section as a result of the transfer of the Federal property involved to a non-Federal entity.
 
-(Pub. L. 89–10, title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–365; Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–247; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803\], Oct. 30, 2000, 114 Stat. 1654, 1654A–369; Pub. L. 107–110, title VIII, §801(a)–(e), Jan. 8, 2002, 115 Stat. 1947, 1948.)
+(Pub. L. 89–10, title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–365; Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–247; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803\], Oct. 30, 2000, 114 Stat. 1654, 1654A–369; Pub. L. 107–110, title VIII, §801(a)–(e), Jan. 8, 2002, 115 Stat. 1947, 1948; Pub. L. 108–447, div. F, title III, §305, Dec. 8, 2004, 118 Stat. 3151.)
 
 #### References in Text
 
@@ -233,6 +233,8 @@ Section 2 of the Act of September 30, 1950 and section 2 of Public Law 81–874,
 A prior section 8002 of Pub. L. 89–10 was renumbered section 9002 and was classified to section 3382 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Amendments
+
+2004—Subsec. (m). Pub. L. 108–447 substituted “7 years” for “5 years” in pars. (1), (2)(B), and (3).
 
 2002—Subsec. (h)(1)(A). Pub. L. 107–110, §801(a)(1), substituted “and that filed, or has been determined pursuant to statute to have filed a timely application, and met, or has been determined pursuant to statute to meet, the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950” for “and was eligible to receive a payment under section 2 of the Act of September 30, 1950”.
 
@@ -262,7 +264,7 @@ Subsec. (i). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803(d)(2)\], s
 
 Subsec. (i)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803(d)(1)\], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding subsection (b)(1)(B) of this section, and for any fiscal year beginning with fiscal year 1997 for which the amount appropriated to carry out this section exceeds the amount so appropriated for fiscal year 1996—
 
-&emsp;“(A) the Secretary shall first use the excess amount (not to exceed the amount equal to the difference of (i) the amount appropriated to carry out this section for fiscal year 1997, and (ii) the amount appropriated to carry out this section for fiscal year 1996) to increase the payment that would otherwise be made under this section to not more than 50 percent of the maximum amount determined under subsection (b) of this section for any local educational agency described in paragraph (2); and
+&emsp;“(A) the Secretary shall first use the excess amount (not to exceed the amount equal to the difference of (i) the amount appropriated to carry out this section for fiscal year 1997, and (ii) the amount appropriatedto carry out this section for fiscal year 1996) to increase the payment that would otherwise be made under this section to not more than 50 percent of the maximum amount determined under subsection (b) of this section for any local educational agency described in paragraph (2); and
 
 &emsp;“(B) the Secretary shall use the remainder of the excess amount to increase the payments to each eligible local educational agency under this section.”
 
@@ -299,8 +301,4 @@ Subsec. (i). Pub. L. 104–195, §6, added subsec. (i).
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, and effective with respect to appropriations for use under this subchapter for fiscal year 2002, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7281, 7281a, 7281b, 7703, 7705, 7707, 7709, 7714 of this title.
 

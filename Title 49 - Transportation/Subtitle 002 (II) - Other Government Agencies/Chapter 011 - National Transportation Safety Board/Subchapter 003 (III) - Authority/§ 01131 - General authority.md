@@ -168,7 +168,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Pub. L. 108–168, §3(b), Dec. 6, 2003, 117 Stat. 2033, provided that: “Not later than 1 year after the date of enactment of this Act \[Dec. 6, 2003\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account the amendments made by this section \[amending section 1136 of this title\] and shall submit a copy of the revised agreement to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
 
-Pub. L. 106–424, §6(b), Nov. 1, 2000, 114 Stat. 1886, provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 1, 2000\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account the amendments made by this Act \[see Short Title of 2000 Amendment note set out under section 1101 of this title\].”
+Pub. L. 106–424, §6(b), Nov. 1, 2000, 114 Stat. 1886, provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 1, 2000\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account theamendments made by this Act \[see Short Title of 2000 Amendment note set out under section 1101 of this title\].”
 
 #### Memorandum of Understanding
 
@@ -181,10 +181,6 @@ Pub. L. 106–424, §8, Nov. 1, 2000, 114 Stat. 1886, provided that: “Not late
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1136 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,3 @@ Any reservations retained under the provisions of subsections (1) and (2) of sec
 
 (Pub. L. 85–482, §4, July 2, 1958, 72 Stat. 285.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410j, 410p of this title.
-

@@ -14,7 +14,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 
 #### Amendments
 
-1992—Pub. L. 102–550 substituted “There is authorized to be appropriated to carry out this title $35,000,000 for fiscal year 1993 and $36,470,000 for fiscal year 1994.” for “There are authorized to be appropriated to carry out this title $21,200,000 for fiscal year 1991 and $22,100,000 for fiscal year 1992. From any amounts appropriated under this section for fiscal year 1991, the Secretary shall use not more than $500,000 to carry out a demonstration project to test affordable housing technologies, and shall include in the annual report under section 3536 of title 42 (for the appropriate year) a statement of the activities under the demonstration program and findings resulting from the program. The statement shall set forth the amount and use of funds expended by the Secretary under the program for the year relating to the report and the Secretary shall include such a statement in each such annual report foreach year that amounts appropriated under this section are used under the demonstration. All funds so appropriated shall remain available until expended unless specifically limited.”
+1992—Pub. L. 102–550 substituted “There is authorized to be appropriated to carry out this title $35,000,000 for fiscal year 1993 and $36,470,000 for fiscal year 1994.” for “There are authorized to be appropriated to carry out this title $21,200,000 for fiscal year 1991 and $22,100,000 for fiscal year 1992. From any amounts appropriated under this section for fiscal year 1991, the Secretary shall use not more than $500,000 to carry out a demonstration project to test affordable housing technologies, and shall include in the annual report under section 3536 of title 42 (for the appropriate year) a statement of the activities under the demonstration program and findings resulting from the program. The statement shall set forth the amount and use of funds expended by the Secretary under the program for the year relating to the report and the Secretary shall include such a statement in each such annual report for each year that amounts appropriated under this section are used under the demonstration. All funds so appropriated shall remain available until expended unless specifically limited.”
 
 1990—Pub. L. 101–625 substituted provisions authorizing appropriations of $21,200,000 for 1991 and $22,100,000 for 1992, for provisions authorizing $17,000,000 for 1988 and $18,000,000 for 1989, and added provisions limiting amount to be used for demonstration project in 1991 and requiring that annual report include statement relating to such project.
 
@@ -101,10 +101,6 @@ Effective Date.—This section shall take effect on the date of the enactment of
 #### Report Regarding Research Activities
 
 Section 951(b) of Pub. L. 101–625 directed Secretary of Housing and Urban Development, not later than the expiration of the 1-year period beginning on Nov. 28, 1990, to submit to Congress a report listing and describing various research activities, studies, testing, and demonstration programs relating to mission and programs of Department of Housing and Urban Development that are being conducted, have concluded, or will conclude during such period, pursuant to section 501 of the Housing and Urban Development Act of 1970 (12 U.S.C. 1701z–1), title V of such Act (12 U.S.C. 1701z–1 et seq.), or any other authority, such report to include a statement identifying the individual or entity that is conducting each such activity, study, test, and demonstration program.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1701z–2, 1701z–4 to 1701z–7, 1701z–9 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “are”.</i>
 

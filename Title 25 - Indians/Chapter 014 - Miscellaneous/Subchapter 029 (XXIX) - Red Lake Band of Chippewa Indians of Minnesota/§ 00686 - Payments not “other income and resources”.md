@@ -8,9 +8,5 @@ Payments made under sections 684 to 686 of this title shall not be held to be �
 
 Section 602 of title 42, referred to in text, was repealed and a new section 602 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, subsec. (a)(7) no longer contains the term “other income and resources”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 685 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -32,7 +32,3 @@ Each State shall—
 
 (Pub. L. 99–663, §11, Nov. 17, 1986, 100 Stat. 4292.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 544 to 544h, 544<i>l</i> to 544p of this title.
-

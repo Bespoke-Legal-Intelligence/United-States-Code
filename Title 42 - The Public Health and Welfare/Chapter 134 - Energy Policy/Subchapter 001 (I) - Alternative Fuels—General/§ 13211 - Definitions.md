@@ -36,7 +36,7 @@ For purposes of this subchapter, subchapter II of this chapter, and subchapter I
 
 &emsp;&emsp;(B) a motor vehicle, other than an automobile, that is capable of operating on alternative fuel and is capable of operating on gasoline or diesel fuel;
 
-&emsp;(9) the term “fleet” means a group of 20 or more light duty motor vehicles, used primarily in a metropolitan statistical area or consolidated metropolitan statistical area, as established by the Bureau of the Census, with a 1980 population of more than 250,000, that are centrally fueled or capable of being centrally fueled and are owned, operated, leased, orotherwise controlled by a governmental entity or other person who owns, operates, leases, or otherwise controls 50 or more such vehicles, by any person who controls such person, by any person controlled by such person, and by any person under common control with such person, except that such term does not include—
+&emsp;(9) the term “fleet” means a group of 20 or more light duty motor vehicles, used primarily in a metropolitan statistical area or consolidated metropolitan statistical area, as established by the Bureau of the Census, with a 1980 population of more than 250,000, that are centrally fueled or capable of being centrally fueled and are owned, operated, leased, or otherwise controlled by a governmental entity or other person who owns, operates, leases, or otherwise controls 50 or more such vehicles, by any person who controls such person, by any person controlled by such person, and by any person under common control with such person, except that such term does not include—
 
 &emsp;&emsp;(A) motor vehicles held for lease or rental to the general public;
 
@@ -87,8 +87,4 @@ In pars. (6)(A) and (8)(A), “section 32901(a)(7) of title 49” substituted fo
 #### Amendments
 
 2000—Par. (2). Pub. L. 106–554 inserted “, including liquid fuels domestically produced from natural gas” after “natural gas”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6374 of this title.
 

@@ -2,11 +2,11 @@
 
 #### (a) Evidentiary value; defenses
 
-Any registration issued under the Act of March 3, 1881, or the Act of February 20, 1905, or of a mark registered on the principal register provided by this chapter and owned by a party to an action shall be admissible in evidence and shall be prima facie evidence of the validity of the registered mark and of the registration of the mark, of the registrant's ownership of the mark, and of the registrant's exclusive right to use the registered mark in commerce on or in connection with the goods or services specified in the registration subject to any conditions or limitations stated therein, but shall not preclude another person from proving any legal or equitable defense or defect, including those set forth in subsection (b) of this section, which might have been asserted if such mark had not been registered.
+Any registration issued under the Act of March 3, 1881, or the Act of February 20, 1905, or of a mark registered on the principal register provided by this chapter and owned by a party to an action shall be admissible in evidence and shall be prima facie evidence of the validity of the registered mark and of the registration of the mark, of the registrant's ownership of themark, and of the registrant's exclusive right to use the registered mark in commerce on or in connection with the goods or services specified in the registration subject to any conditions or limitations stated therein, but shall not preclude another person from proving any legal or equitable defense or defect, including those set forth in subsection (b) of this section, which might have been asserted if such mark had not been registered.
 
 #### (b) Incontestability; defenses
 
-To the extent that the right to use the registered mark has become incontestable under section 1065 of this title, the registration shall be conclusive evidence of the validity of the registered mark and of the registration of the mark, of the registrant's ownership of the mark, and of the registrant's exclusive right to use the registered mark in commerce. Such conclusive evidence shall relate to the exclusive right to use the mark on or in connection with the goods or services specified in the affidavit filed under the provisions of section 1065 of this title, or inthe renewal application filed under the provisions of section 1059 of this title if the goods or services specified in the renewal are fewer in number, subject to any conditions or limitations in the registration or in such affidavit or renewal application. Such conclusive evidence of the right to use the registered mark shall be subject to proof of infringement as defined in section 1114 of this title, and shall be subject to the following defenses or defects:
+To the extent that the right to use the registered mark has become incontestable under section 1065 of this title, the registration shall be conclusive evidence of the validity of the registered mark and of the registration of the mark, of the registrant's ownership of the mark, and of the registrant's exclusive right to use the registered mark in commerce. Such conclusive evidence shall relate to the exclusive right to use the mark on or in connection with the goods or services specified in the affidavit filed under the provisions of section 1065 of this title, or in the renewal application filed under the provisions of section 1059 of this title if the goods or services specified in the renewal are fewer in number, subject to any conditions or limitations in the registration or in such affidavit or renewal application. Such conclusive evidence of the right to use the registered mark shall be subject to proof of infringement as defined in section 1114 of this title, and shall be subject to the following defenses or defects:
 
 &emsp;(1) That the registration or the incontestable right to use the mark was obtained fraudulently; or
 
@@ -73,8 +73,4 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 #### Repeal and Effect on Existing Rights
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1094 of this title.
 

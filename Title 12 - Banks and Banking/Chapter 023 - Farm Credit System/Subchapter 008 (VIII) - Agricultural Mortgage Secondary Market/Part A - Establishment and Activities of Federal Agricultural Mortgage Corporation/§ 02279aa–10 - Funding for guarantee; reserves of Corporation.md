@@ -26,7 +26,7 @@ The Corporation shall provide guarantees for securities representing interests i
 
 #### (1) In general
 
-&emsp;So much of the fees assessed under this section as the Board determines to be necessary shall be set aside by the Corporation in a segregated account as a reserve against losses arising out of the guarantee activities of the Corporation.
+&emsp;So much of the fees assessed under this section as the Board determines to be necessaryshall be set aside by the Corporation in a segregated account as a reserve against losses arising out of the guarantee activities of the Corporation.
 
 #### (2) Exhaustion of reserve required
 
@@ -41,8 +41,4 @@ The Corporation may impose charges or fees in reasonable amounts in connection w
 #### Amendments
 
 1996—Subsec. (b)(4). Pub. L. 104–316 substituted “Review” for “Annual review” in heading and “may review” for “shall annually review” in text.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2279aa–4, 2279aa–13 of this title.
 

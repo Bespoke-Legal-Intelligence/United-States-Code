@@ -30,7 +30,7 @@ Grants may be made to the Endowment under this subchapter only if the Endowment 
 
 #### (f) Audit of financial transactions; reporting requirements
 
-(1) The financial transactions of the Endowment for each fiscal year may be audited by the General Accounting Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States. Any such audit shall be conducted at the place or places where accounts of the Endowment are normally kept. The representatives of the General Accounting Office shall have access to all books, accounts, records, reports, files, and all other papers, things, or property belonging to or in use by the Endowment pertaining to its financial transactions and necessary to facilitate the audit; and they shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of the Endowment shall remain in the possession and custody of the Endowment.
+(1) The financial transactions of the Endowment for each fiscal year may be audited by the Government Accountability Office in accordance with such principles and procedures andunder such rules and regulations as may be prescribed by the Comptroller General of the United States. Any such audit shall be conducted at the place or places where accounts of the Endowment are normally kept. The representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, and all other papers, things, or property belonging to or in use by the Endowment pertaining to its financial transactions and necessary to facilitate the audit; and they shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of the Endowment shall remain in the possession and custody of the Endowment.
 
 (2) A report of each such audit shall be made by the Comptroller General to the Congress. The report to the Congress shall contain such comments and information as the Comptroller General may deem necessary to inform the Congress of the financial operations and condition of the Endowment, together with such recommendations with respect thereto as he may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made contrary to the requirements of this subchapter. A copy of each report shall be furnished to the President and to the Endowment at the time submitted to the Congress.
 
@@ -42,7 +42,7 @@ The financial transactions of the Endowment for each fiscal year shall be audite
 
 (1) The Endowment shall ensure that each recipient of assistance provided through the Endowment under this subchapter keeps separate bank accounts or separate self-balancing ledger accounts with respect to such assistance and such records as may be reasonably necessary to fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
-(2) The Endowment shall ensure that it, or any of its duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance provided through the Endowment under this subchapter. The Comptroller General of theUnited States or any of his duly authorized representatives shall also have access thereto for such purpose.
+(2) The Endowment shall ensure that it, or any of its duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance provided through the Endowment under this subchapter. The Comptroller General of the United States or any of his duly authorized representatives shall also have access thereto for such purpose.
 
 #### (i) Annual report; contents; testimony respecting report
 
@@ -52,9 +52,11 @@ Not later than February 1 of each year, the Endowment shall submit an annual rep
 
 After January 31, 1993, no member of the Board of the Endowment may be a member of the board of directors or an officer of any grantee of the National Endowment for Democracy which receives more than 5 percent of the funds of the Endowment for any fiscal year.
 
-(Pub. L. 98–164, title V, §504, Nov. 22, 1983, 97 Stat. 1040; Pub. L. 99–93, title II, §210(b), (d), Aug. 16, 1985, 99 Stat. 432; Pub. L. 100–204, title II, §211, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 102–138, title II, §§211(d), 215, Oct. 28, 1991, 105 Stat. 695, 697; Pub. L. 103–236, title II, §228, Apr. 30, 1994, 108 Stat. 423.)
+(Pub. L. 98–164, title V, §504, Nov. 22, 1983, 97 Stat. 1040; Pub. L. 99–93, title II, §210(b), (d), Aug. 16, 1985, 99 Stat. 432; Pub. L. 100–204, title II, §211, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 102–138, title II, §§211(d), 215, Oct. 28, 1991, 105 Stat. 695, 697; Pub. L. 103–236, title II, §228, Apr. 30, 1994, 108 Stat. 423; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
+
+2004—Subsec. (f)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
 1994—Subsec. (h)(1). Pub. L. 103–236 substituted “bank accounts or separate self-balancing ledger accounts” for “accounts”.
 

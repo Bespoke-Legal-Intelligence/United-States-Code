@@ -2,23 +2,31 @@
 
 #### (a) Written notifications; filing
 
-Any party to a joint venture, acting on such venture's behalf, may, not later than 90 days after entering into a written agreement to form such venture or not later than 90 days after October 11, 1984, whichever is later, file simultaneously with the Attorney General and the Commission a written notification disclosing—
+(1) Any party to a joint venture, acting on such venture's behalf, may, not later than 90 days after entering into a written agreement to form such venture or not later than 90 days after October 11, 1984, whichever is later, file simultaneously with the Attorney General and the Commission a written notification disclosing—
 
-&emsp;(1) the identities of the parties to such venture,
+&emsp;(A) the identities of the parties to such venture,
 
-&emsp;(2) the nature and objectives of such venture, and
+&emsp;(B) the nature and objectives of such venture, and
 
-&emsp;(3) if a purpose of such venture is the production of a product, process, or service, as referred to in section 4301(a)(6)(D) of this title, the identity and nationality of any person who is a party to such venture, or who controls any party to such venture whether separately or with one or more other persons acting as a group for the purpose of controlling such party.
+&emsp;(C) if a purpose of such venture is the production of a product, process, or service, as referred to in section 4301(a)(6)(D) of this title, the identity and nationality of any person who is a party to such venture, or who controls any party to such venture whether separately or with one or more other persons acting as a group for the purpose of controlling such party.
 
 > Any party to such venture, acting on such venture's behalf, may file additional disclosure notifications pursuant to this section as are appropriate to extend the protections of section 4303 of this title. In order to maintain the protections of section 4303 of this title, such venture shall, not later than 90 days after a change in its membership, file simultaneously with the Attorney General and the Commission a written notification disclosing such change.
 
+(2) A standards development organization may, not later than 90 days after commencing a standards development activity engaged in for the purpose of developing or promulgating a <sup>1</sup> voluntary consensus standards or not later than 90 days after June 22, 2004, whichever is later, file simultaneously with the Attorney General and the Commission, a written notification disclosing—
+
+&emsp;(A) the name and principal place of business of the standards development organization, and
+
+&emsp;(B) documents showing the nature and scope of such activity.
+
+> Any standards development organization may file additional disclosure notifications pursuant to this section as are appropriate to extend the protections of section 4303 of this title to standards development activities that are not covered by the initial filing or that have changed significantly since the initial filing.
+
 #### (b) Publication; Federal Register; notice
 
-Except as provided in subsection (e) of this section, not later than 30 days after receiving a notification filed under subsection (a) of this section, the Attorney General or the Commission shall publish in the Federal Register a notice with respect to such venture that identifies the parties to such venture and that describes in general terms the area of planned activity of such venture. Prior to its publication, the contents of such notice shall be made available to the parties to such venture.
+Except as provided in subsection (e) of this section, not later than 30 days after receiving a notification filed under subsection (a) of this section, the Attorney General or the Commission shall publish in the Federal Register a notice with respect to such venture that identifies the parties to such venture and that describes in general terms the area of planned activity of such venture, or a notice with respect to such standards development activity that identifies the standards development organization engaged in such activity and that describes such activity in general terms. Prior to its publication, the contents of such notice shall be made available to the parties to such venture or available to such organization, as the case may be.
 
 #### (c) Effect of notice
 
-If with respect to a notification filed under subsection (a) of this section, notice is published in the Federal Register, then such notification shall operate to convey the protections of section 4303 of this title as of the earlier of—
+If with respect to a notification filed under subsection (a) of this section, notice is published in the Federal Register, then such notificationshall operate to convey the protections of section 4303 of this title as of the earlier of—
 
 &emsp;(1) the date of publication of notice under subsection (b) of this section, or
 
@@ -30,13 +38,13 @@ Except with respect to the information published pursuant to subsection (b) of t
 
 &emsp;(1) all information and documentary material submitted as part of a notification filed pursuant to this section, and
 
-&emsp;(2) all other information obtained by the Attorney General or the Commission in the course of any investigation, administrative proceeding, or case, with respect to a potential violation of the antitrust laws by the joint venture with respect to which such notification was filed,
+&emsp;(2) all other information obtained by the Attorney General or the Commission in the course of any investigation, administrative proceeding, or case, with respect to a potential violation of the antitrust laws by the joint venture, or the standards development activity, with respect to which such notification was filed,
 
 > shall be exempt from disclosure under section 552 of title 5, and shall not be made publicly available by any agency of the United States to which such section applies except in a judicial or administrative proceeding in which such information and material is subject to any protective order.
 
 #### (e) Withdrawal of notification
 
-Any person who files a notification pursuant to this section may withdraw such notification before notice of the joint venture involved is published under subsection (b) of this section. Any notification so withdrawn shall not be subject to subsection (b) of this section and shall not confer the protections of section 4303 of this title on any person with respect to whom such notification was filed.
+Any person or standards development organization that files a notification pursuant to this section may withdraw such notification before notice of the joint venture involved is published under subsection (b) of this section. Any notification so withdrawn shall not be subject to subsection (b) of this section and shall not confer the protections of section 4303 of this title on any person or any standards development organization with respect to whom such notification was filed.
 
 #### (f) Judicial review; inapplicable with respect to notifications
 
@@ -44,13 +52,23 @@ Any action taken or not taken by the Attorney General or the Commission with res
 
 #### (g) Admissibility into evidence; disclosure of conduct; publication of notice; supporting or answering claims under antitrust laws
 
-(1) Except as provided in paragraph (2), for the sole purpose of establishing that a person is entitled to the protections of section 4303 of this title, the fact of disclosure of conduct under subsection (a) of this section and the fact of publication of a notice under subsection (b) of this section shall be admissible into evidence in any judicial or administrative proceeding.
+(1) Except as provided in paragraph (2), for the sole purpose of establishing that a person or standards development organization is entitled to the protections of section 4303 of this title, the fact of disclosure of conduct under subsection (a) of this section and the fact of publication of a notice under subsection (b) of this section shall be admissible into evidence in any judicial or administrative proceeding.
 
 (2) No action by the Attorney General or the Commission taken pursuant to this section shall be admissible into evidence in any such proceeding for the purpose of supporting or answering any claim under the antitrust laws or under any State law similar to the antitrust laws.
 
-(Pub. L. 98–462, §6, Oct. 11, 1984, 98 Stat. 1818; Pub. L. 103–42, §3(f), June 10, 1993, 107 Stat. 119.)
+(Pub. L. 98–462, §6, Oct. 11, 1984, 98 Stat. 1818; Pub. L. 103–42, §3(f), June 10, 1993, 107 Stat. 119; Pub. L. 108–237, title I, §107, June 22, 2004, 118 Stat. 664.)
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–237, §107(1), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), and added par. (2).
+
+Subsec. (b). Pub. L. 108–237, §107(2), inserted “, or a notice with respect to such standards development activity that identifies the standards development organization engaged in such activity and that describes such activity in general terms” before period at end of first sentence and “or available to such organization, as the case may be” before period at end of last sentence.
+
+Subsec. (d)(2). Pub. L. 108–237, §107(3), inserted “, or the standards development activity,” after “venture”.
+
+Subsec. (e). Pub. L. 108–237, §107(4), substituted “person or standards development organization that” for “person who” and inserted “or any standards development organization” after “on any person”.
+
+Subsec. (g)(1). Pub. L. 108–237, §107(5), inserted “or standards development organization” after “person”.
 
 1993—Pub. L. 103–42, §3(f)(1), substituted “joint venture” for “joint research and development venture” in section catchline.
 
@@ -88,7 +106,5 @@ Triennial Report by the Attorney General.—In the 30-day period beginning at ea
 
 Review of Antitrust Treatment Under Foreign Laws.—In the three 30-day periods beginning 1 year, 3 years, and 6 years after the date of the enactment of this Act \[June 10, 1993\], the Attorney General, after consultation with such other agencies as the Attorney General considers to be appropriate, shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the antitrust treatment of United States businesses with respect to participation in joint ventures for production, under the law of each foreign nation any of whose domestic businesses disclosed its nationality under section 6(a)(3) of the National Cooperative Research and Production Act of 1993 \[15 U.S.C. 4305(a)(3)\] at any time.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4303, 4306 of this title.
+<i><sup>1</sup></i><i> So in original.</i>
 

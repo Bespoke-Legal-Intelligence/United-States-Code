@@ -14,7 +14,3 @@ Lands and water eligible for reclamation or drainage abatement expenditures unde
 
 Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. L. 101–508 set out as a note under section 1231 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1232, 1233, 1235, 1239, 1240a, 1251a, 1291 of this title.
-

@@ -8,7 +8,7 @@ In the case of any individual—
 
 &emsp;(2) who obtained (A) one or more loans from a loan fund established under subpart II,<sup>1</sup> or (B) any other educational loan for nurse training costs; and
 
-&emsp;(3) who enters into an agreement with the Secretary to serve as nurse for a period of notless than two years at a health care facility with a critical shortage of nurses;
+&emsp;(3) who enters into an agreement with the Secretary to serve as nurse for a period of not less than two years at a health care facility with a critical shortage of nurses;
 
 > the Secretary shall make payments in accordance with subsection (b) of this section, for and on behalf of that individual, on the principal of and interest on any loan of that individual described in paragraph (2) of this subsection which is outstanding on the date the individual begins the service specified in the agreement described in paragraph (3) of this subsection. After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.
 
@@ -68,7 +68,7 @@ The Secretary may make payments under subsection (a) of this section on behalf o
 
 &emsp;In the case of any program under this section under which an individual makes an agreement to provide health services for a period of time in accordance with such program in consideration of receiving an award of Federal funds regarding education as a nurse (including an award for the repayment of loans), the following applies if the agreement provides that this subsection is applicable:
 
-&emsp;&emsp;(A) In the case of a program under this section that makes an award of Federal funds for attending an accredited program of nursing (in this section referred to as a “nursing program”), the individual is liable to the Federal Government for the amount of suchaward (including amounts provided for expenses related to such attendance), and for interest on such amount at the maximum legal prevailing rate, if the individual—
+&emsp;&emsp;(A) In the case of a program under this section that makes an award of Federal funds for attending an accredited program of nursing (in this section referred to as a “nursing program”), the individual is liable to the Federal Government for the amount of such award (including amounts provided for expenses related to such attendance), and for interest on such amount at the maximum legal prevailing rate, if the individual—
 
 &emsp;&emsp;&emsp;(i) fails to maintain an acceptable level of academic standing in the nursing program (as indicated by the program in accordance with requirements established by the Secretary);
 
@@ -80,7 +80,7 @@ The Secretary may make payments under subsection (a) of this section on behalf o
 
 #### (2) Waiver or suspension of liability
 
-&emsp;In the case of an individual or health facility making an agreement for purposes of paragraph (1), the Secretary shall provide for the waiver or suspension of liability under such subsection if compliance by the individual or the health facility, as the case may be, with the agreements involved is impossible, or would involve extreme hardship to the individual or facility, and if enforcement of the agreements with respect to the individual or facility would be unconscionable.
+&emsp;In the case of an individual or health facility making an agreement for purposes of paragraph (1), the Secretary shall provide for thewaiver or suspension of liability under such subsection if compliance by the individual or the health facility, as the case may be, with the agreements involved is impossible, or would involve extreme hardship to the individual or facility, and if enforcement of the agreements with respect to the individual or facility would be unconscionable.
 
 #### (3) Date certain for recovery
 
@@ -170,7 +170,7 @@ Subsec. (h). Pub. L. 107–205, §103(b)(2), (d), redesignated subsec. (f) as (h
 
 > Former subsec. (h) redesignated (g).
 
-Subsec. (i). Pub. L. 107–205, §103(b)(2), (e), redesignated subsec. (g) as (i) and amended it generally. Prior to amendment, text of subsec. read as follows: “For the purpose of payments under agreements entered into under subsection (a) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994.”
+Subsec. (i). Pub. L. 107–205, §103(b)(2), (e), redesignated subsec. (g) as (i) and amended it generally. Priorto amendment, text of subsec. read as follows: “For the purpose of payments under agreements entered into under subsection (a) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994.”
 
 1998—Subsec. (h). Pub. L. 105–392 added subsec. (h).
 

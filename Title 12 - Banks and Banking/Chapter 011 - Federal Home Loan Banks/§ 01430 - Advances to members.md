@@ -4,7 +4,7 @@
 
 #### (1) All advances
 
-&emsp;Each Federal Home Loan Bank is authorized to make secured advances to its members upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtainedfrom the Bank under this section or section 1431(g) of this title.
+&emsp;Each Federal Home Loan Bank is authorized to make secured advances to its members upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title.
 
 #### (2) Purposes of advances
 
@@ -30,7 +30,7 @@
 
 #### (4) Additional bank authority
 
-&emsp;Subparagraphs (A) through (E) of paragraph (3) shall not affect the ability of any Federal Home Loan Bank to take such steps as it deems necessary to protect its security position with respect to outstanding advances, including requiring deposits of additional collateral security, whether or not such additional security would be eligible to originate an advance. If an advance existing on August 9, 1989, matures and the member does not have sufficient eligible collateral to fully secure a renewal of such advance, a Bank may renew such advance secured by such collateral as the Bank determines is appropriate. A member that has an advance secured by such insufficient eligible collateral must reduce its level of outstanding advances promptly and prudently in accordance with a schedule determined by the Federal home loan bank.
+&emsp;Subparagraphs (A) through (E) of paragraph (3) shall not affect the ability of any FederalHome Loan Bank to take such steps as it deems necessary to protect its security position with respect to outstanding advances, including requiring deposits of additional collateral security, whether or not such additional security would be eligible to originate an advance. If an advance existing on August 9, 1989, matures and the member does not have sufficient eligible collateral to fully secure a renewal of such advance, a Bank may renew such advance secured by such collateral as the Bank determines is appropriate. A member that has an advance secured by such insufficient eligible collateral must reduce its level of outstanding advances promptly and prudently in accordance with a schedule determined by the Federal home loan bank.
 
 #### (5) Review of certain collateral standards
 
@@ -82,7 +82,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (2) Interest on and security for special liquidity advances
 
-&emsp;Any loan by a Federal Home Loan Bank pursuant to paragraph (1) shall be subject to all applicable collateral requirements, including the requirements of subsection (a) of this section, and shall be at an interest rate no less favorable than those made available for similar short-term liquidity advances to savings associations that do not present such supervisory concern.
+&emsp;Any loan by a Federal Home Loan Bank pursuant to paragraph (1) shall be subject to all applicable collateral requirements, including the requirements of subsection (a) of this section, and shall be at an interest rate no less favorable than those made available for similarshort-term liquidity advances to savings associations that do not present such supervisory concern.
 
 #### (i) Community investment program
 
@@ -226,7 +226,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (C) Low- or moderate-income neighborhood
 
-&emsp;&emsp;The term “low- or moderate-income neighborhood” means any neighborhood in which 51 percent or more of the households are low- or moderate-income households.
+&emsp;&emsp;The term “low- or moderate-income neighborhood” means any neighborhood in which51 percent or more of the households are low- or moderate-income households.
 
 #### (D) Affordable for very-low income households
 
@@ -252,7 +252,7 @@ Subsec. (e). Pub. L. 106–102, §604(c), struck out subsec. (e) relating to qua
 
 1992—Subsec. (e)(2). Pub. L. 102–550 added sentence at end and struck out former second sentence which read as follows: “The aggregate amount of any Bank's advances to members that are not qualified thrift lenders shall not exceed 30 percent of a Bank's total advances.”
 
-1989—Subsec. (a). Pub. L. 101–73, §714(a), substituted “upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title. All long-term advances shall only be made for the purpose of providing funds for residential housing finance. A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interestin collateral eligible pursuant to one or more of the following categories:” and pars. (1) to (5) for “upon such security as the Board may prescribe.”
+1989—Subsec. (a). Pub. L. 101–73, §714(a), substituted “upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title. All long-term advances shall only be made for the purpose of providing funds for residential housing finance. A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interest in collateral eligible pursuant to one or more of the following categories:” and pars. (1) to (5) for “upon such security as the Board may prescribe.”
 
 Subsec. (b). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board”.
 
@@ -278,7 +278,7 @@ Pub. L. 100–86, §105, added subsec. (e) relating to reduced eligibility for a
 
 &emsp;“(1) If secured by a mortgage insured under the provisions of title I, title II, title VI, title VIII, or title IX of the National Housing Act \[12 U.S.C. 1702 et seq., 1707 et seq., 1736 et seq., 1748 et seq., and 1750 et seq., respectively\], the advance may be for an amount not in excess of 90 per centum of the unpaid principal of the mortgage loan.
 
-&emsp;“(2) If secured by a home mortgage given in respect of an amortized home mortgage loan which was for an original term of six years or more, or in cases where shares of stock, which are pledged as security for such loan, mature in a period of six years or more, the advance may be for an amount not in excess of 65 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of the advance exceed 60 per centum of the value of the real estate securing the home mortgage loan.
+&emsp;“(2) If secured by a home mortgage given in respect of an amortized home mortgage loan which was for an original term of six years or more, or in cases where shares of stock, which are pledged as security for such loan, mature in a period of six years or more, the advance may be for an amount not in excess of 65per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of the advance exceed 60 per centum of the value of the real estate securing the home mortgage loan.
 
 &emsp;“(3) If secured by a home mortgage given in respect of any other home mortgage loan, the advance shall not be for an amount in excess of 50 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of such advance exceed 40 per centum of the value of the real estate securing the home mortgage loan.
 
@@ -341,10 +341,6 @@ Pub. L. 91–351, title I, §101, July 24, 1970, 84 Stat. 450, provided that:
 &emsp;“(2) the principal obligation of any such loan which is secured by a mortgage on a residential structure exceeds the dollar limitations on the maximum mortgage amount, in effect on the date the mortgage was originated, which would be applicable if the mortgage was insured by the Secretary of Housing and Urban Development under section 203(b) or 207 of the National Housing Act \[section 1709(b) or 1713 of this title\].
 
 “(b) Not more than 20 per centum of the sums appropriated pursuant to subsection (a) shall be disbursed in any one Federal home loan bank district.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1430b, 1431, 1441b, 1733, 2705 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (f) has been enacted.</i>
 

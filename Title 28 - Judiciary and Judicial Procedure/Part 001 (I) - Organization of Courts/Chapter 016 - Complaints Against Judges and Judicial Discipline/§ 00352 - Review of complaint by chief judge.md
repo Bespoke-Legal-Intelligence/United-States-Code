@@ -40,7 +40,3 @@ Referral of Petitions for Review to Panels of the Judicial Council.—Each judic
 
 (Added Pub. L. 107–273, div. C, title I, §11042(a), Nov. 2, 2002, 116 Stat. 1849.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 353, 357 of this title.
-

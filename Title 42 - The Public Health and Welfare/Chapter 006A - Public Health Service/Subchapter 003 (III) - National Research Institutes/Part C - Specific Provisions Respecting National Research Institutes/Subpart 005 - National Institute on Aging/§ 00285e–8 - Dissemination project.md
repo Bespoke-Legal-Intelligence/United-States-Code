@@ -10,7 +10,7 @@ The organization receiving a grant or contract under this section shall—
 
 &emsp;(1) establish a central computerized information system to—
 
-&emsp;&emsp;(A) compile and disseminate information concerning initiatives by State and local governments and private entities to provide programs and services for individuals with Alzheimer's disease and related dementias; and
+&emsp;&emsp;(A) compile and disseminate information concerning initiatives by State and local governments and private entities to provideprograms and services for individuals with Alzheimer's disease and related dementias; and
 
 &emsp;&emsp;(B) translate scientific and technical information concerning such initiatives into information readily understandable by the general public, and make such information available upon request; and
 

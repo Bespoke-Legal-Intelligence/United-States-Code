@@ -14,7 +14,3 @@ Each license shall require the licensee—
 
 1984—Par. (1). Pub. L. 98–623 substituted “in or aboard” for “aboard”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9151 of this title.
-

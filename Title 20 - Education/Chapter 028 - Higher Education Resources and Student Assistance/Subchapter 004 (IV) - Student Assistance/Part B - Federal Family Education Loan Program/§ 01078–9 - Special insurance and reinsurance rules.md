@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;Whenever the Secretary determines that an eligible lender, servicer, or guaranty agency has a compliance performance rating that equals or exceeds 97 percent, the Secretary shall designate the eligible lender, servicer, orguaranty agency, as the case may be, for exceptional performance. The Secretary shall notify each appropriate guaranty agency of the eligible lenders and servicers designated under this section.
+&emsp;Whenever the Secretary determines that an eligible lender, servicer, or guaranty agency has a compliance performance rating that equals or exceeds 97 percent, the Secretary shall designate the eligible lender, servicer, or guaranty agency, as the case may be, for exceptional performance. The Secretary shall notify each appropriate guaranty agency of the eligible lenders and servicers designated under this section.
 
 #### (2) Compliance performance rating
 
@@ -22,7 +22,7 @@
 
 #### (2) Revocation authority
 
-&emsp;The Secretary shall revoke the designation of a lender or servicer under subsection (a) of this section if any quarterly audit required under subsection (c)(5) of this section is not received by the Secretary by the date established by the Secretary or if the audit indicates the lender or servicer failed to maintain 97 percent or higher compliance with program regulations, as reflected in the performance of not less than 97 percent of all due diligence requirements applicable to each loan, on average, as established by the Secretary for the purpose of this section, for 2 consecutive months or 90 percent for 1 month.
+&emsp;The Secretary shall revoke the designation of a lender or servicer under subsection (a) ofthis section if any quarterly audit required under subsection (c)(5) of this section is not received by the Secretary by the date established by the Secretary or if the audit indicates the lender or servicer failed to maintain 97 percent or higher compliance with program regulations, as reflected in the performance of not less than 97 percent of all due diligence requirements applicable to each loan, on average, as established by the Secretary for the purpose of this section, for 2 consecutive months or 90 percent for 1 month.
 
 #### (3) Documentation
 
@@ -70,7 +70,7 @@
 
 #### (1) Audit of guaranty agencies
 
-&emsp;Each guaranty agency desiring a designation under subsection (a) of this section shall have a financial and compliance audit of the defaulted loan portfolio of such guaranty agency conducted annually by a qualified independent organization or person from a list of qualified organizations or persons promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall include defined statistical sampling techniques designed to measure the performance rating of the guaranty agency for the purpose of this section. Each guaranty agency shall submit the audit required by this paragraph to the Secretary.
+&emsp;Each guaranty agency desiring a designation under subsection (a) of this section shall havea financial and compliance audit of the defaulted loan portfolio of such guaranty agency conducted annually by a qualified independent organization or person from a list of qualified organizations or persons promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall include defined statistical sampling techniques designed to measure the performance rating of the guaranty agency for the purpose of this section. Each guaranty agency shall submit the audit required by this paragraph to the Secretary.
 
 #### (2) Quarterly sample audits
 
@@ -158,13 +158,11 @@ July 23, 1992, referred to in subsec. (h), was in the original “the date of en
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1078, 1087–1 of this title.
 

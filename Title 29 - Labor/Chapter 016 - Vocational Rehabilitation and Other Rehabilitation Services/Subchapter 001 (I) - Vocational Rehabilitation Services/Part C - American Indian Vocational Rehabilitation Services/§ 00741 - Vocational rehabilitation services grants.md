@@ -10,7 +10,7 @@ The Commissioner, in accordance with the provisions of this part, may make grant
 
 &emsp;(A) is made at such time, in such manner, and contains such information as the Commissioner may require;
 
-&emsp;(B) contains assurances that the rehabilitation services provided under this part to American Indians who are individuals with disabilities residing on or near a reservation in a State shall be, to the maximum extent feasible, comparable to rehabilitation services provided under this subchapter to other individuals with disabilities residing in the State and that, where appropriate, may include services traditionally used by Indian tribes; and
+&emsp;(B) contains assurances that the rehabilitation services provided under this part to American Indians who are individuals with disabilities residing on or near a reservationin a State shall be, to the maximum extent feasible, comparable to rehabilitation services provided under this subchapter to other individuals with disabilities residing in the State and that, where appropriate, may include services traditionally used by Indian tribes; and
 
 &emsp;(C) contains assurances that the application was developed in consultation with the designated State unit of the State.
 
@@ -20,7 +20,7 @@ The Commissioner, in accordance with the provisions of this part, may make grant
 
 (4) In making grants under this part, the Secretary shall give priority consideration to applications for the continuation of programs which have been funded under this part.
 
-(5) Nothing in this section may be construed to authorize a separate service delivery systemfor Indian residents of a State who reside in non-reservation areas.
+(5) Nothing in this section may be construed to authorize a separate service delivery system for Indian residents of a State who reside in non-reservation areas.
 
 #### (c) “Reservation” defined
 
@@ -51,8 +51,4 @@ Section 750, Pub. L. 93–112, title I, §130, Sept. 26, 1973, 87 Stat. 374; Pub
 #### Amendments
 
 1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 725, 796d of this title.
 

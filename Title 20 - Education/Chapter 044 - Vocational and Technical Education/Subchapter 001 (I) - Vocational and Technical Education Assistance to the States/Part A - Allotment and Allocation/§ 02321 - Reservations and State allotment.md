@@ -116,7 +116,3 @@ A prior section 2321, Pub. L. 88–210, title I, §111, as added Pub. L. 98–52
 
 2000—Subsec. (a)(1)(C). Pub. L. 106–246 substituted “fiscal years 2001” for “fiscal years 2000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2322, 2323, 2325, 2326, 2342, 2343, 2372 of this title.
-

@@ -4,7 +4,3 @@ It shall be unlawful for any person to sell or offer for sale lime imported in b
 
 (Aug. 23, 1916, ch. 396, §2, 39 Stat. 530.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 240, 241, 242 of this title.
-

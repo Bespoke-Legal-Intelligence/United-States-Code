@@ -12,7 +12,3 @@ Seeds and agricultural reports emanating from the Department of Agriculture may 
 
 1981—Par. (2). Pub. L. 97–69 substituted “during the 90-day period immediately” for “until the thirtieth day of June”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3201 of this title; title 2 sections 31b–4, 501, 502.
-

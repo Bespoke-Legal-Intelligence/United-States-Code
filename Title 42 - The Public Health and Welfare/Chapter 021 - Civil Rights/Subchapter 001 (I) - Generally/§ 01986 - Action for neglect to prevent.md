@@ -10,7 +10,3 @@ R.S. §1981 derived from act Apr. 20, 1871, ch. 22, §6, 17 Stat. 15.
 
 Section was formerly classified to section 48 of Title 8, Aliens and Nationality.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1988 of this title.
-

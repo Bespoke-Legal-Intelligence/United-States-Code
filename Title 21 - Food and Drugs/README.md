@@ -1,5 +1,5 @@
 
-21 U.S.C.<br>United States Code, 2003 Edition<br>Title 21 - FOOD AND DRUGS<br>From the U.S. Government Publishing Office, www.gpo.gov
+21 U.S.C.<br>United States Code, 2004 Edition<br>Title 21 - FOOD AND DRUGS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 21—FOOD AND DRUGS
 
@@ -32,10 +32,6 @@
 | [<b>24.</b>](Chapter%20024%20-%20International%20Narcotics%20Trafficking/README.md) | <b>International Narcotics Trafficking</b> | <b>1901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 18 section 3050.
 
 
 ---

@@ -1,6 +1,6 @@
 ### §2343. Recordkeeping and inspection
 
-(a) Any person who ships, sells, or distributes any quantity of cigarettes in excess of 60,000 ina single transaction shall maintain such information about the shipment, receipt, sale, and distribution of cigarettes as the Attorney General may prescribe by rule or regulation. The Attorney General may require such person to keep only—
+(a) Any person who ships, sells, or distributes any quantity of cigarettes in excess of 60,000 in a single transaction shall maintain such information about the shipment, receipt, sale, and distribution of cigarettes as the Attorney General may prescribe by rule or regulation. The Attorney General may require such person to keep only—
 
 &emsp;(1) the name, address, destination (including street address), vehicle license number, driver's license number, signature of the person receiving such cigarettes, and the name of the purchaser;
 
@@ -25,8 +25,4 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Effective Date
 
 Section effective on first day of first month beginning more than 120 days after Nov. 2, 1978, see section 4 of Pub. L. 95–575, set out as a note under section 2341 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1961, 2344, 2346 of this title.
 

@@ -36,7 +36,7 @@ Facilities.—The Secretary may plan, design, and build a new facility or modify
 
 (d)
 
-Increasing Costs of Approved Facilities.—The estimated maximum cost of a facility approved under subsection (c) of this sectionmay be increased by an amount equal to the percentage increase in construction costs from the date the prospectus is submitted to Congress. However, the increase in the cost of the facility may not be more than 10 percent of the estimated maximum cost included in the prospectus. The Secretary shall decide what increase in construction costs has occurred.
+Increasing Costs of Approved Facilities.—The estimated maximum cost of a facility approved under subsection (c) of this section may be increased by an amount equal to the percentage increase in construction costs from the date the prospectus is submitted to Congress. However, the increase in the cost of the facility may not be more than 10 percent of the estimated maximum cost included in the prospectus. The Secretary shall decide what increase in construction costs has occurred.
 
 (e)
 
@@ -93,8 +93,4 @@ In subsection (e), the words “United States Government” are substituted for 
 #### Amendments
 
 1996—Subsec. (c). Pub. L. 104–287 substituted “Committees on Commerce and Transportation and Infrastructure” for “Committees on Energy and Commerce and Public Works and Transportation”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 35 section 210.
 

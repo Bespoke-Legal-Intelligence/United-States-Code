@@ -74,7 +74,3 @@ Section 203(b) of Pub. L. 104–303 provided that: “The amendments made by sub
 
 Section 203(c) of Pub. L. 104–303 provided that: “Nothing in this section \[amending this section and enacting provisions set out above\] or any amendment made by this section requires the Secretary to reimburse the non-Federal interests for funds previously contributed for a study.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2282, 2332 of this title.
-

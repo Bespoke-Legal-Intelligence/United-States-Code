@@ -4,7 +4,7 @@ The term “special maritime and territorial jurisdiction of the United States�
 
 &emsp;(1) The high seas, any other waters within the admiralty and maritime jurisdiction of the United States and out of the jurisdiction of any particular State, and any vessel belonging in whole or in part to the United States or any citizen thereof, or to any corporation created by or under the laws of the United States, or of any State, Territory, District, or possession thereof, when such vessel is within the admiralty and maritime jurisdiction of the United States and out of the jurisdiction of any particular State.
 
-&emsp;(2) Any vessel registered, licensed, or enrolled under the laws of the United States, andbeing on a voyage upon the waters of any of the Great Lakes, or any of the waters connecting them, or upon the Saint Lawrence River where the same constitutes the International Boundary Line.
+&emsp;(2) Any vessel registered, licensed, or enrolled under the laws of the United States, and being on a voyage upon the waters of any of the Great Lakes, or any of the waters connecting them, or upon the Saint Lawrence River where the same constitutes the International Boundary Line.
 
 &emsp;(3) Any lands reserved or acquired for the use of the United States, and under the exclusive or concurrent jurisdiction thereof, or any place purchased or otherwise acquired by the United States by consent of the legislature of the State in which the same shall be, for the erection of a fort, magazine, arsenal, dockyard, or other needful building.
 
@@ -63,8 +63,4 @@ Section 101 of the Immigration and Nationality Act, referred to in par. (9), is 
 #### Territorial Sea Extending to Twelve Miles Included in Special Maritime and Territorial Jurisdiction
 
 Pub. L. 104–132, title IX, §901(a), Apr. 24, 1996, 110 Stat. 1317, provided that: “The Congress declares that all the territorial sea of the United States, as defined by Presidential Proclamation 5928 of December 27, 1988 \[set out as a note under section 1331 of Title 43, Public Lands\], for purposes of Federal criminal jurisdiction is part of the United States, subject to its sovereignty, and is within the special maritime and territorial jurisdiction of the United States for the purposes of title 18, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13, 112, 878, 1116, 1201, 2334, 2340 of this title; title 15 sections 1175, 1243, 1245; title 16 section 3372; title 48 sections 1912, 1934; title 49 section 46506.
 

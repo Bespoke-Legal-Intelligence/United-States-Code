@@ -8,7 +8,3 @@ The Secretary of the Interior is authorized to assign any officials of the Inter
 
 Transfer of administrative functions of park, see note set out under section 426 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 426e, 426j, 426k, 426n of this title.
-

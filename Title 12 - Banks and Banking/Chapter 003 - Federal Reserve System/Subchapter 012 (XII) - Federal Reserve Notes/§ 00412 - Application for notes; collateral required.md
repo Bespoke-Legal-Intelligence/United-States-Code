@@ -28,7 +28,7 @@ Section is comprised of second par. of section 16 of act Dec. 23, 1913. For clas
 
 1939—Act June 30, 1939, substituted “June 30, 1941” for “June 30, 1939” in proviso.
 
-1937—Act Mar. 1, 1937, extended until June 30, 1939, period within which direct obligations of the United States may be accepted as collateral security underthis section, and struck out provision authorizing President to extend period.
+1937—Act Mar. 1, 1937, extended until June 30, 1939, period within which direct obligations of the United States may be accepted as collateral security under this section, and struck out provision authorizing President to extend period.
 
 1934—Act Mar. 6, 1934, amended proviso and two sentences immediately following.
 
@@ -53,8 +53,4 @@ Amendment effective upon expiration of 120 days after Nov. 10, 1978, see sec. 21
 #### United States Obligations as Collateral; Extension of Period
 
 The period within which direct obligations of the United States could be accepted as collateral security under this section was extended to Mar. 3, 1937, by Proclamation No. 2117, of Feb. 14, 1935, 49 Stat. 3437; extended to June 30, 1939, by act Mar. 1, 1937; extended to June 30, 1941, by act June 30, 1939; extended to June 30, 1943, by act June 30, 1941; and extended to June 30, 1945, by act May 25, 1943. Act June 12, 1945, amended section to remove the time limitation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 347a, 348, 420, 421, 461, 467 of this title.
 

@@ -16,7 +16,7 @@ General Limitations.—(1) Except as provided in subsection (e) of this section,
 
 (b)
 
-Exclusion of Safety and Energy Conservation Devices.—Width calculated under this section does not include a safety or energy conservation device the Secretary decides is necessary for safe and efficient operation of a commercial motor vehicle.
+Exclusion of Safety and Energy Conservation Devices.—Width calculated under this section does not include a safety or energy conservation device the Secretary decides isnecessary for safe and efficient operation of a commercial motor vehicle.
 
 (c)
 
@@ -36,7 +36,7 @@ Exemptions.—(1) If the chief executive officer of a State, after consulting un
 
 (4)(A) If the Secretary decides, on request of a chief executive officer or on the Secretary's own initiative, a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having a width provided in subsection (a) of this section, the Secretary shall exempt the segment from subsection (a) to allow the State to impose a width limitation of less than 102 inches for a vehicle (except a bus) on that segment. Before making a decision under this paragraph, the Secretary shall consider any possible alternative route that serves the area in which the segment is located.
 
-(B) The Secretary shall make a decision about a specific segment not later than 120 days after the date of receipt of notification from a chief executive officer under paragraph (1) of this subsection or the date on which the Secretary initiates action under subparagraph (A) of this paragraph, whichever is applicable. If the Secretaryfinds the decision will not be made in time, the Secretary immediately shall notify Congress, giving the reasons for the delay, information about the resources assigned, and the projected date for the decision.
+(B) The Secretary shall make a decision about a specific segment not later than 120 days after the date of receipt of notification from a chief executive officer under paragraph (1) of this subsection or the date on which the Secretary initiates action under subparagraph (A) of this paragraph, whichever is applicable. If the Secretary finds the decision will not be made in time, the Secretary immediately shall notify Congress, giving the reasons for the delay, information about the resources assigned, and the projected date for the decision.
 
 (C) Before making a decision, the Secretary shall give an interested person notice and an opportunity for comment. If the Secretary exempts a segment under this subsection before the final regulations under subsection (a) of this section are prescribed, the Secretary shall include the exemption as part of the final regulations. If the Secretary exempts the segment after the final regulations are prescribed, the Secretary shall publish the exemption as an amendment to the final regulations.
 
@@ -85,8 +85,4 @@ In subsection (a)(1), before clause (A), the text of 49 App.:2316(f) is omitted 
 In subsection (b), the words “or energy conservation” are added for consistency with section 31111(d) of the revised title and because of the reference to “efficient operation”.
 
 In subsection (e)(4)(C), the word “amendment” is substituted for “revision” for consistency in the revised title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5112, 31112, 31114 of this title; title 23 section 127.
 

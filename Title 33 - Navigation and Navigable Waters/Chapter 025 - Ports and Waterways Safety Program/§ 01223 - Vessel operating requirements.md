@@ -4,11 +4,11 @@
 
 Subject to the requirements of section 1224 of this title, the Secretary—
 
-&emsp;(1) in any port or place under the jurisdiction of the United States, in the navigable waters of the United States, or in any area covered by an international agreement negotiated pursuant to section 1230 of this title, may construct, operate, maintain, improve, or expand vessel traffic services, consisting of measures for controlling or supervising vessel traffic or for protecting navigation and the marine environment and may include, but need not be limited to one or more of the following: reporting and operating requirements, surveillance and communications systems, routing systems, and fairways;
+&emsp;(1) in any port or place under the jurisdiction of the United States, in the navigable waters of the United States, or in any area covered by an international agreement negotiated pursuant to section 1230 of this title, may construct, operate, maintain, improve, or expandvessel traffic services, consisting of measures for controlling or supervising vessel traffic or for protecting navigation and the marine environment and may include, but need not be limited to one or more of the following: reporting and operating requirements, surveillance and communications systems, routing systems, and fairways;
 
 &emsp;(2) shall require appropriate vessels which operate in an area of a vessel traffic service to utilize or comply with that service;
 
-&emsp;(3) may require vessels to install and use specified navigation equipment, communications equipment, electronic relative motion analyzer equipment, or any electronic or other device necessary to comply with a vessel traffic service or which is necessary in the interests of vessel safety: <i>Provided</i>, That the Secretary shall not require fishing vessels under 300 gross tons as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of thattitle or recreational vessels 65 feet or less to possess or use the equipment or devices required by this subsection solely under the authority of this chapter;
+&emsp;(3) may require vessels to install and use specified navigation equipment, communications equipment, electronic relative motion analyzer equipment, or any electronic or other device necessary to comply with a vessel traffic service or which is necessary in the interests of vessel safety: <i>Provided</i>, That the Secretary shall not require fishing vessels under 300 gross tons as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title or recreational vessels 65 feet or less to possess or use the equipment or devices required by this subsection solely under the authority of this chapter;
 
 &emsp;(4) may control vessel traffic in areas subject to the jurisdiction of the United States which the Secretary determines to be hazardous, or under conditions of reduced visibility, adverse weather, vessel congestion, or other hazardous circumstances by—
 
@@ -18,9 +18,11 @@ Subject to the requirements of section 1224 of this title, the Secretary—
 
 &emsp;&emsp;(C) establishing vessel size, speed, draft limitations and vessel operating conditions; and
 
-&emsp;&emsp;(D) restricting operation, in any hazardous area or under hazardous conditions, to vessels which have particular operating characteristics or capabilities which he considers necessary for safe operation under the circumstances; and
+&emsp;&emsp;(D) restricting operation, in any hazardous area or under hazardous conditions, to vessels which have particular operating characteristics or capabilities which he considers necessary for safe operation under the circumstances;
 
-&emsp;(5) may require the receipt of prearrival messages from any vessel, destined for a port or place subject to the jurisdiction of the United States, in sufficient time to permit advance vessel traffic planning prior to port entry, which shall include any information which is not already a matter of record and which the Secretary determines necessary for the control of the vessel and the safety of the port or the marine environment.
+&emsp;(5) may require the receipt of prearrival messages from any vessel, destined for a port or place subject to the jurisdiction of the United States, in sufficient time to permit advance vessel traffic planning prior to port entry, which shall include any information which is not already a matter of record and which the Secretary determines necessary for the control of the vessel and the safety of the port or the marine environment; and
+
+&emsp;(6) may prohibit the use on vessels of electronic or other devices that interfere with communication and navigation equipment, except that such authority shall not apply to electronic or other devices certified to transmit in the maritime services by the Federal Communications Commission and used within the frequency bands 157.1875–157.4375 MHz and 161.7875–162.0375 MHz.
 
 #### (b) Special powers
 
@@ -66,7 +68,15 @@ Except pursuant to international treaty, convention, or agreement, to which the 
 
 &emsp;(2) transit through the navigable waters of the United States which form a part of an international strait.
 
-(Pub. L. 92–340, §4, formerly title I, §103, July 10, 1972, 86 Stat. 426; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1472; Pub. L. 101–380, title IV, §4107(a), Aug. 18, 1990, 104 Stat. 514; Pub. L. 104–324, title VII, §705, Oct. 19, 1996, 110 Stat. 3934.)
+#### (e) Cooperative agreements
+
+(1) The Secretary may enter into cooperative agreements with public or private agencies, authorities, associations, institutions, corporations, organizations, or other persons to carry out the functions under subsection (a)(1) of this section.
+
+(2) A nongovernmental entity may not under this subsection carry out an inherently governmental function.
+
+(3) As used in this paragraph, the term “inherently governmental function” means any activity that is so intimately related to the public interest as to mandate performance by an officer or employee of the Federal Government, including an activity that requires either the exercise of discretion in applying the authority of the Government or the use of judgment in making a decision for the Government.
+
+(Pub. L. 92–340, §4, formerly title I, §103, July 10, 1972, 86 Stat. 426; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1472; Pub. L. 101–380, title IV, §4107(a), Aug. 18, 1990, 104 Stat. 514; Pub. L. 104–324, title VII, §705, Oct. 19, 1996, 110 Stat. 3934; Pub. L. 108–293, title III, §302, Aug. 9, 2004, 118 Stat. 1041.)
 
 #### References in Text
 
@@ -75,6 +85,10 @@ The date of enactment of this Act, referred to in subsec. (c)(3)(A), probably me
 For the International Regulations for Preventing Collisions at Sea, 1972, referred to in subsec. (c)(5)(A), see International Regulations for Preventing Collisions at Sea, 1972, set out as a note under section 1602 of this title.
 
 #### Amendments
+
+2004—Subsec. (a)(6). Pub. L. 108–293, §302(1), added par. (6).
+
+Subsec. (e). Pub. L. 108–293, §302(2), added subsec. (e).
 
 1996—Subsec. (a)(3). Pub. L. 104–324 inserted “as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title” after “300 gross tons”.
 
@@ -123,8 +137,4 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[Au
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1224, 1229 of this title; title 46 section 14305.
 

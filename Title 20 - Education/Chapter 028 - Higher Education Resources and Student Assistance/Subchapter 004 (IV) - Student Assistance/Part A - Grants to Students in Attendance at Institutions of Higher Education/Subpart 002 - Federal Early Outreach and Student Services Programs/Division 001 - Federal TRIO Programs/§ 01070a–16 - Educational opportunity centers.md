@@ -44,7 +44,3 @@ In approving applications for educational opportunity centers under this section
 
 (Pub. L. 89–329, title IV, §402F, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 490.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1070a–11, 1070a–12 of this title.
-

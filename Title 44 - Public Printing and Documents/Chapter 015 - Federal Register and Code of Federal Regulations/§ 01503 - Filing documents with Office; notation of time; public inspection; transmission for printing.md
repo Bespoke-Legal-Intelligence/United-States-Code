@@ -18,7 +18,3 @@ Based on 44 U.S. Code, 1964 ed., §302 (July 26, 1935, ch. 417, §2, 49 Stat. 50
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1504, 1506, 1507 of this title.
-

@@ -20,7 +20,3 @@ The Secretary may acquire such leases respecting property within the park as may
 
 (Pub. L. 95–290, title II, §205, June 5, 1978, 92 Stat. 295.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410cc–13 of this title.
-

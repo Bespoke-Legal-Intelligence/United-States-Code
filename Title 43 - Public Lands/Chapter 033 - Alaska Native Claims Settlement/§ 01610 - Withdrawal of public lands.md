@@ -458,7 +458,3 @@ The mining laws and the mineral leasing laws, referred to in subsec. (a)(1), are
 
 The Alaska Statehood Act, as amended, referred to in subsec. (a)(1), (2), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1602, 1611, 1613, 1615, 1616, 1621, 1629g, 1634, 1635, 1641 of this title; title 7 section 2025; title 16 section 3215.
-

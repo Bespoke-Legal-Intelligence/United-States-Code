@@ -36,7 +36,7 @@
 
 #### (2) Additional restrictions authorized
 
-&emsp;The Director may impose such additional restrictions on loans or extensions of credit to any director or executive officer of any savings association, or any person who directly or indirectly owns, controls, or has the power to vote more than 10 percent of any class of voting securities of a savings association, as the Director determines to be necessary to protectthe safety and soundness of the savings association.
+&emsp;The Director may impose such additional restrictions on loans or extensions of credit toany director or executive officer of any savings association, or any person who directly or indirectly owns, controls, or has the power to vote more than 10 percent of any class of voting securities of a savings association, as the Director determines to be necessary to protect the safety and soundness of the savings association.
 
 #### (c) Administrative enforcement
 
@@ -97,8 +97,4 @@ Transitional Period.—Notwithstanding section 11(a) of the Home Owners’ Loan 
 “(c)
 
 Authority To Extend Regulatory Approvals That Would Otherwise Lapse During the Transitional Period.—The Director of the Office of Thrift Supervision may extend until the expiration of the 6-month period described in subsection (b) any approval granted by the Federal Savings and Loan Insurance Corporation that expires or would expire before the expiration of that 6-month period. In determining whether to grant such exemptions, the Director shall apply the standards that were applicable under section 408(d)(6) of the National Housing Act \[former 12 U.S.C. 1730a(d)(6)\] as in effect on May 1, 1989.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1467a, 1831e of this title.
 

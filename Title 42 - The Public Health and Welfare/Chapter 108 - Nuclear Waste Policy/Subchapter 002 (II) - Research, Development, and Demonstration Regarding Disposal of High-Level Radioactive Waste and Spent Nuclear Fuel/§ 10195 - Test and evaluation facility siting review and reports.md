@@ -34,7 +34,3 @@ Except as specifically provided in this section, nothing in this subchapter is i
 
 (Pub. L. 97–425, title II, §215, Jan. 7, 1983, 96 Stat. 2247.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10199 of this title.
-

@@ -28,7 +28,3 @@ A prior section 3511, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 28
 
 Another prior section 3511, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1305, provided for penalty for failure to furnish information, prior to the general amendment of this chapter by Pub. L. 96–511.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3506 of this title.
-

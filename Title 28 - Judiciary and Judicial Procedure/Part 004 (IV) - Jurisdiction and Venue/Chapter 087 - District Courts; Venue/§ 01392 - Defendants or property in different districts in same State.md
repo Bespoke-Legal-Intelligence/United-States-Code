@@ -26,7 +26,3 @@ Changes were made in phraseology.
 
 1996—Pub. L. 104–220 struck out “(b)” before “Any civil action” and struck out subsec. (a) which read as follows: “Any civil action, not of a local nature, against defendants residing in different districts in the same State, may be brought in any of such districts.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 1973aa–2.
-

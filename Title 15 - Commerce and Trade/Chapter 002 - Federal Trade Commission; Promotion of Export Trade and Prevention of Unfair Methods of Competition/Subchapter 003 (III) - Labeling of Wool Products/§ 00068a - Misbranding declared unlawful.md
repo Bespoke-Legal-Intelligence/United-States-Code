@@ -10,7 +10,3 @@ This section shall not apply—
 
 (Oct. 14, 1940, ch. 871, §3, 54 Stat. 1129.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 68b, 68e, 68g, 68h of this title.
-

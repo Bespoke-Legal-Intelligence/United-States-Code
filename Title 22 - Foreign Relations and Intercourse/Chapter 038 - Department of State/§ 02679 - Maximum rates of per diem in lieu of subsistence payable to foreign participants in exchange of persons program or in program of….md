@@ -16,7 +16,3 @@ Functions vested by law (including reorganization plan) in Bureau of the Budget 
 
 Authority of Secretary of State under this section to prescribe certain maximum rates of per diem in lieu of subsistence (or of similar allowances therefor), without the approval, ratification, or other action of President, delegated to Secretary of State, see section 4 of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2508 of this title.
-

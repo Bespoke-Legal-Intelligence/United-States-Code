@@ -18,7 +18,3 @@ In case of any State in which harbor facilities of any port of entry are owned a
 
 (June 18, 1934, ch. 590, §2, 48 Stat. 999.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 81i of this title.
-

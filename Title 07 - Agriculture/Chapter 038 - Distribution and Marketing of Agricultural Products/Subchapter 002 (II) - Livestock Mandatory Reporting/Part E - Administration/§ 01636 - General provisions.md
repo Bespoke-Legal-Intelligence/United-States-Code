@@ -86,7 +86,3 @@ The Livestock Mandatory Reporting Act of 1999, referred to in subsec. (i), is ti
 
 The Packers and Stockyards Act, 1921, referred to in subsec. (i)(1), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, as amended, which is classified generally to chapter 9 (§181 et seq.) of this title. For complete classification of this Act to the Code, see section 181 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 198a of this title.
-

@@ -16,7 +16,3 @@ Subsec. (b). Pub. L. 94–410, §3(b), inserted provisions dealing with authorit
 
 1958—Subsec. (a). Pub. L. 85–909 struck out “at a stockyard” after “in commerce”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 215 of this title.
-

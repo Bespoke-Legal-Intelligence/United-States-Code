@@ -1,9 +1,5 @@
 ## Subpart H—Access to Criminal History Record Information
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 9701, 9902 of this title.
-
 
 ---
 

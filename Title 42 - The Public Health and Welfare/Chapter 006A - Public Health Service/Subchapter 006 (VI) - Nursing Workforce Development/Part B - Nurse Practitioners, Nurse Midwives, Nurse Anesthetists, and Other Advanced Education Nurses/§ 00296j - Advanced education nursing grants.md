@@ -62,7 +62,3 @@ Section 296k, act July 1, 1944, ch. 373, title VIII, §820, as added Pub. L. 94�
 
 Section 296<i>l</i>, act July 1, 1944, ch. 373, title VIII, §821, as added Pub. L. 94–63, title IX, §931(a), July 29, 1975, 89 Stat. 361; amended Pub. L. 96–76, title I, §106, Sept. 29, 1979, 93 Stat. 579; Pub. L. 97–35, title XXVII, §2754, Aug. 13, 1981, 95 Stat. 930; Pub. L. 99–92, §4, Aug. 16, 1985, 99 Stat. 394; Pub. L. 99–129, title II, §227(b), Oct. 22, 1985, 99 Stat. 548; Pub. L. 100–607, title VII, §702, Nov. 4, 1988, 102 Stat. 3157; Pub. L. 102–408, title II, §203, Oct. 13, 1992, 106 Stat. 2072, authorized grants and contracts for advanced nurse education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 296e, 297n–1 of this title.
-

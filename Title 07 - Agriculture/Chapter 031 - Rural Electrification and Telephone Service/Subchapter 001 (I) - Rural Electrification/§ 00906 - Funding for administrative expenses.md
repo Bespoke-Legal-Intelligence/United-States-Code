@@ -14,7 +14,3 @@ For the purpose of administering this chapter and for the purpose of making the 
 
 1949—Act Oct. 28, 1949, inserted “title I,” in credit of act May 20, 1936.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 911 of this title.
-

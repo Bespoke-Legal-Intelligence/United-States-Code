@@ -20,10 +20,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 25 section 450j; title 29 sections 206, 653; title 39 section 410.
-
 
 ---
 

@@ -38,7 +38,3 @@ Subsecs. (d) to (f). Pub. L. 98–473, §609B(j)(2), (3), redesignated subsecs. 
 
 Amendment by section 609B(j) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5672 of this title.
-

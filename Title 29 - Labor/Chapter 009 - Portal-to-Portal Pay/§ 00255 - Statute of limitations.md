@@ -2,7 +2,7 @@
 
 Any action commenced on or after May 14, 1947, to enforce any cause of action for unpaid minimum wages, unpaid overtime compensation, or liquidated damages, under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], the Walsh-Healey Act \[41 U.S.C. 35 et seq.\], or the Bacon-Davis Act <sup>1</sup>—
 
-&emsp;(a) if the cause of action accrues on or after May 14, 1947—may be commenced within two years after the cause of action accrued, and every such action shall be forever barred unless commenced within two years after the cause of action accrued, except that a cause of action arising out of a willful violation may be commenced within three years after the cause of action accrued;
+&emsp;(a) if the cause of action accrues on or after May 14, 1947—may be commenced within two years after the cause of action accrued, and every such action shall be forever barred unless commenced within two years after the cause of action accrued, except that a cause ofaction arising out of a willful violation may be commenced within three years after the cause of action accrued;
 
 &emsp;(b) if the cause of action accrued prior to May 14, 1947—may be commenced within whichever of the following periods is the shorter: (1) two years after the cause of action accrued, or (2) the period prescribed by the applicable State statute of limitations; and, except as provided in paragraph (c) of this section, every such action shall be forever barred unless commenced within the shorter of such two periods;
 
@@ -37,10 +37,6 @@ Amendment by Pub. L. 89–601 effective Feb. 1, 1967, except as otherwise provid
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 
 Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602 of Pub. L. 89–601, set out as a note under section 203 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 216, 217, 256, 257, 262 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,7 +28,7 @@ To ensure the effectiveness of economic adjustment programs supported by Fund re
 
 #### (c) Emergencies and extraordinary circumstances
 
-The provisions of subsection (b)(2) of this section shall not apply in any case in which the Secretary of the Treasury first determines and provides written documentation to the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives that—
+The provisions of subsection (b)(2) of this section shall not apply in any case in which theSecretary of the Treasury first determines and provides written documentation to the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives that—
 
 &emsp;(1) an emergency exists in a nation that has applied to the Fund for assistance that requires an immediate short-term loan to avoid disrupting orderly financial markets;
 
@@ -41,8 +41,4 @@ The provisions of subsection (b)(2) of this section shall not apply in any case 
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 262r of this title.
 

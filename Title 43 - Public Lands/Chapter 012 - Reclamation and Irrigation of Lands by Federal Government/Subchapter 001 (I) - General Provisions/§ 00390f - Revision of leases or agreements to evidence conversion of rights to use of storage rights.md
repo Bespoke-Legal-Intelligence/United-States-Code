@@ -4,7 +4,3 @@ Upon application of any affected local interest its existing lease or agreement 
 
 (Pub. L. 88–140, §4, Oct. 16, 1963, 77 Stat. 250.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390d of this title.
-

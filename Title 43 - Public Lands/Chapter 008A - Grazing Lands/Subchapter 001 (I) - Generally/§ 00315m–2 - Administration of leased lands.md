@@ -12,7 +12,3 @@ Act of June 28, 1934 (48 Stat. 1269), as amended June 26, 1936 (49 Stat. 1976), 
 
 Section was not enacted as a part of act June 28, 1934, known as the Taylor Grazing Act, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 315m–1, 315m–3, 315m–4 of this title.
-

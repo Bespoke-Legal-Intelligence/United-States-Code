@@ -4,7 +4,3 @@ In order to secure and preserve to the United States the full value and benefit 
 
 (Aug. 7, 1888, ch. 772, §4, 25 Stat. 383.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15, 601 of this title.
-

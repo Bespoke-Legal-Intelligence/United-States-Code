@@ -10,7 +10,3 @@ In carrying out the functions for which responsible under this subchapter, the T
 
 1993—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2543, 2553 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 4153 of this title.
-
 
 ---
 

@@ -52,7 +52,3 @@ Section 4 of the Travel Expense Act of 1949, as amended (5 U.S.C. 837), referred
 
 Special provisions of this section respecting utilization of nontemporary employees of the Bureau of the Census in temporary positions in connection with any census unaffected by provisions for salary protection to employees subject to Classification Act of 1949, see section 103 of Pub. L. 87–270, title I, Sept. 21, 1961, 75 Stat. 569.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 307 of this title.
-

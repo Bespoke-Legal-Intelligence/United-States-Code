@@ -8,9 +8,5 @@ The provisions of section 935 <sup>1</sup> of title 43 relating to the rights o
 
 Section 935 of title 43, referred to in text, was repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, under, and through the public lands and lands in the National Forest System.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 312, 314, 317, 318 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

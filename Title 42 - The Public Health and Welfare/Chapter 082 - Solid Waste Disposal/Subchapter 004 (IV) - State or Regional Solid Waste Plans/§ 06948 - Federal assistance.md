@@ -8,7 +8,7 @@
 
 (B) An applicant for financial assistance under this paragraph must agree to comply with respect to the project or program assisted with the applicable requirements of section 6945 of this title and subchapter III of this chapter and apply applicable solid waste management practices, methods, and levels of control consistent with any guidelines published pursuant to section 6907 of this title. Assistance under this paragraph shall be available only for programs certified by the State to be consistent with any applicable State or areawide solid waste management plan or program. Applicants for technical and financial assistance under this section shall not preclude or foreclose consideration of programs for the recovery of recyclable materials through source separation or other resource recovery techniques.
 
-(C) There are authorized to be appropriated $15,000,000 for each of the fiscal years 1978 and 1979 for purposes of this section. There are authorized to be appropriated $10,000,000 for fiscal year 1980, $10,000,000 for fiscal year 1981, $10,000,000 for fiscal year 1982, and $10,000,000 for each of the fiscal years 1985 through 1988 for purposes of this paragraph.
+(C) There are authorized to be appropriated $15,000,000 for each of the fiscal years 1978 and1979 for purposes of this section. There are authorized to be appropriated $10,000,000 for fiscal year 1980, $10,000,000 for fiscal year 1981, $10,000,000 for fiscal year 1982, and $10,000,000 for each of the fiscal years 1985 through 1988 for purposes of this paragraph.
 
 (D) There are authorized—
 
@@ -38,7 +38,7 @@ The Federal assistance allotted to the States under subsection (b) of this secti
 
 (2) In carrying out this subsection, the Administrator may, upon request, provide technical assistance to States to assist in the removal or modification of legal, institutional, economic, and other impediments to the recycling of used oil. Such impediments may include laws, regulations, and policies, including State procurement policies, which are not favorable to the recycling of used oil.
 
-(3) In carrying out this subsection, the Administrator is authorized to provide technical assistance to States, municipalities, regional authorities, and intermunicipal agencies upon request, to assist in the removal or modification of legal, institutional, and economic impediments which have the effect of impeding the development of systems and facilities to recoveryenergy and materials from municipal waste or to conserve energy or materials which contribute to the waste stream. Such impediments may include—
+(3) In carrying out this subsection, the Administrator is authorized to provide technical assistance to States, municipalities, regional authorities, and intermunicipal agencies upon request, to assist in the removal or modification of legal, institutional, and economic impediments which have the effect of impeding the development of systems and facilities to recovery energy and materials from municipal waste or to conserve energy or materials which contribute to the waste stream. Such impediments may include—
 
 &emsp;(A) laws, regulations, and policies, including State and local procurement policies, which are not favorable to resource conservation and recovery policies, systems, and facilities;
 
@@ -48,7 +48,7 @@ The Federal assistance allotted to the States under subsection (b) of this secti
 
 #### (e) Special communities
 
-(1) The Administrator, in cooperation with State and local officials, shall identify local governments within the United States (A) having a solid waste disposal facility (i) which is owned by the unit of local government, (ii) for which an order has been issued by the State to cease receiving solid waste for treatment, storage, or disposal, and (iii) which is subject to a State-approved end-use recreation plan, and (B) which are located over an aquifer which is the source of drinking water for any person or public water system and which has serious environmental problems resulting from the disposal of such solid waste, including possible methane migration.
+(1) The Administrator, in cooperation with State and local officials, shall identify localgovernments within the United States (A) having a solid waste disposal facility (i) which is owned by the unit of local government, (ii) for which an order has been issued by the State to cease receiving solid waste for treatment, storage, or disposal, and (iii) which is subject to a State-approved end-use recreation plan, and (B) which are located over an aquifer which is the source of drinking water for any person or public water system and which has serious environmental problems resulting from the disposal of such solid waste, including possible methane migration.
 
 (2) There is authorized to be appropriated to the Administrator $2,500,000 for the fiscal year 1980 and $1,500,000 for each of the fiscal years 1981 and 1982 to make grants to be used for containment and stabilization of solid waste located at the disposal sites referred to in paragraph (1). Not more than one community in any State shall be eligible for grants under this paragraph and not more than one project in any State shall be eligible for such grants. No unit of local government shall be eligible for grants under this paragraph with respect to any site which exceeds 65 acres in size.
 
@@ -100,7 +100,7 @@ Subsec. (f)(4). Pub. L. 98–616, §2(g), authorized appropriation of $5,000,000
 
 Subsec. (g). Pub. L. 98–616, §502(e), redesignated second subsec. (f), relating to assistance to municipalities for energy and materials conservation and recovery planning activities, as subsec. (g).
 
-1980—Subsec. (a)(1). Pub. L. 96–482, §31(c), authorized appropriations of $20,000,000, $15,000,000, and $20,000,000 for fiscal years, 1980, 1981, and 1982, respectively, and substituted provision making appropriation available for financial assistance to States, and local, regional, and interstate authorities for development and implementation of plans approved by the Administrator, except plans referred to in section 6943(b) of this title, relating to feasibility planning for municipal waste energy and materials conservation and recovery for provision making appropriations available to State for development and implementation of State plans.
+1980—Subsec. (a)(1). Pub. L. 96–482, §31(c), authorized appropriations of $20,000,000, $15,000,000, and $20,000,000 for fiscal years, 1980, 1981, and 1982, respectively, and substituted provision making appropriation available for financial assistance to States, and local, regional,and interstate authorities for development and implementation of plans approved by the Administrator, except plans referred to in section 6943(b) of this title, relating to feasibility planning for municipal waste energy and materials conservation and recovery for provision making appropriations available to State for development and implementation of State plans.
 
 Subsec. (a)(2)(B). Pub. L. 96–482, §32(e)(1), provided that applicants for technical and financial assistance shall not preclude or foreclose consideration of programs for recovery of recyclable materials through source separation or other resource recovery techniques.
 
@@ -126,11 +126,7 @@ Pub. L. 96–482, §32(e)(3), added subsec. (f) relating to assistance to munici
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6916, 6943 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

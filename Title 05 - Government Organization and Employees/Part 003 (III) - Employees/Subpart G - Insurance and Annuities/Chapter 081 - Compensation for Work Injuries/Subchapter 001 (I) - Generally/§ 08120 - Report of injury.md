@@ -36,7 +36,3 @@ Administration of this subchapter was transferred to the Secretary of Labor by s
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8141 of this title; title 18 section 1922.
-

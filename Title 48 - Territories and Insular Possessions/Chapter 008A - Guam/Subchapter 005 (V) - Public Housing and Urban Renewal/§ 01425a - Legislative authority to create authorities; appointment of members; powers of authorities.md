@@ -8,7 +8,3 @@ The Legislature of Guam may by law grant to a public corporate authority, existi
 
 Section was not enacted as part of the Organic Act of Guam which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1425d of this title.
-

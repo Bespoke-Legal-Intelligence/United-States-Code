@@ -14,5 +14,5 @@ Act Mar. 3, 1931, provided that the Sullys Hill National Park should be administ
 
 #### Transfer of Functions
 
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 671 of this title.
+Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939,see Transfer of Functions note set out under section 671 of this title.
 

@@ -4,7 +4,3 @@ The $100,000 withheld from distribution under section 1300e–3 of this title, a
 
 (Pub. L. 92–557, §5, Oct. 25, 1972, 86 Stat. 1172.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300e–3 of this title.
-

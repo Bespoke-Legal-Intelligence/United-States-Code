@@ -36,9 +36,5 @@ The programs authorized by this section may be used to conduct activities such a
 
 (Pub. L. 106–286, div. B, title V, §511, Oct. 10, 2000, 114 Stat. 905.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6982, 6984 of this title.
-
 <i><sup>1</sup></i><i> So in original. Comma probably should not appear.</i>
 

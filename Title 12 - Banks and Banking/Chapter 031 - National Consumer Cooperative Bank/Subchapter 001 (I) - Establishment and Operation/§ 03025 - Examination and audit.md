@@ -1,10 +1,12 @@
 ### §3025. Examination and audit
 
-The Farm Credit Administration and the General Accounting Office are hereby authorized and directed to examine and audit the Bank. Reports regarding such examinations and audits shall be promptly forwarded to both Houses of the Congress. The Bank shall reimburse the Farm Credit Administration for the costs of anyexamination or audit conducted by the Farm Credit Administration.
+The Farm Credit Administration and the Government Accountability Office are hereby authorized and directed to examine and audit the Bank. Reports regarding such examinations and audits shall be promptly forwarded to both Houses of the Congress. The Bank shall reimburse the Farm Credit Administration for the costs of any examination or audit conducted by the Farm Credit Administration.
 
-(Pub. L. 95–351, title I, §115, Aug. 20, 1978, 92 Stat. 511; Pub. L. 97–35, title III, §394(a)(1), Aug. 13, 1981, 95 Stat. 436.)
+(Pub. L. 95–351, title I, §115, Aug. 20, 1978, 92 Stat. 511; Pub. L. 97–35, title III, §394(a)(1), Aug. 13, 1981, 95 Stat. 436; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
+
+2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1981—Pub. L. 97–35 substituted provisions relating to examination and audit by the Farm Credit Administration and the General Accounting Office, for provisions relating to annual examinations and audits by an agency or instrumentality of the Federal Government designated by the President.
 

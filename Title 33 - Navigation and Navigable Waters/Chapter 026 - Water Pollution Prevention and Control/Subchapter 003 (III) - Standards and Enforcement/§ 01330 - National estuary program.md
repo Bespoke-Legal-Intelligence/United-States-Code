@@ -66,7 +66,7 @@ A management conference convened under this section shall be convened for a peri
 
 #### (1) Approval
 
-&emsp;Not later than 120 days after the completion of a conservation and management plan and after providing for public review and comment, the Administrator shall approve such plan if the plan meets the requirements of this section and the affected Governor or Governors concur.
+&emsp;Not later than 120 days after the completion of a conservation and management plan and after providing for public review and comment, the Administrator shall approve suchplan if the plan meets the requirements of this section and the affected Governor or Governors concur.
 
 #### (2) Implementation
 
@@ -96,11 +96,11 @@ A management conference convened under this section shall be convened for a peri
 
 #### (h) Grant reporting
 
-Any person (including a State, interstate, or regional agency or entity) that receives a grantunder subsection (g) of this section shall report to the Administrator not later than 18 months after receipt of such grant and biennially thereafter on the progress being made under this section.
+Any person (including a State, interstate, or regional agency or entity) that receives a grant under subsection (g) of this section shall report to the Administrator not later than 18 months after receipt of such grant and biennially thereafter on the progress being made under this section.
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated to the Administrator not to exceed $35,000,000 for each of fiscal years 2001 through 2005 for—
+There are authorized to be appropriated to the Administrator not to exceed $35,000,000 for each of fiscal years 2001 through 2010 for—
 
 &emsp;(1) expenses related to the administration of management conferences under this section, not to exceed 10 percent of the amount appropriated under this subsection;
 
@@ -132,7 +132,7 @@ There are authorized to be appropriated to the Administrator not to exceed $35,0
 
 &emsp;&emsp;(B) an assessment of the state and health of the Nation's estuarine zones, to the extent evaluated under this subsection;
 
-&emsp;&emsp;(C) a discussion of pollution problems and trends in pollutant concentrations with a direct or indirect effect on water quality, the ecosystem, and designated or potential uses of each estuarine zone, to the extent evaluated under this subsection; and
+&emsp;&emsp;(C) a discussion of pollution problems and trends in pollutant concentrations with a direct or indirect effect on water quality, the ecosystem, and designated or potential usesof each estuarine zone, to the extent evaluated under this subsection; and
 
 &emsp;&emsp;(D) an evaluation of pollution abatement activities and management measures so far implemented to determine the degree of improvement toward the objectives expressed in subsection (b)(4) of this section.
 
@@ -140,13 +140,15 @@ There are authorized to be appropriated to the Administrator not to exceed $35,0
 
 For purposes of this section, the terms “estuary” and “estuarine zone” have the meanings such terms have in section 1254(n)(4) of this title, except that the term “estuarine zone” shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
 
-(June 30, 1948, ch. 758, title III, §320, as added Pub. L. 100–4, title III, §317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, §101(f) \[title II, 201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, §1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, §2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, §501(a)(2), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title III, §§301—303, Nov. 7, 2000, 114 Stat. 1972; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
+(June 30, 1948, ch. 758, title III, §320, as added Pub. L. 100–4, title III, §317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, §101(f) \[title II, 201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, §1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, §2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, §501(a)(2), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title III, §§301—303, Nov. 7, 2000, 114 Stat. 1972; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 108–399, §1, Oct. 30, 2004, 118 Stat. 2253.)
 
 #### References in Text
 
 Executive Order 12372, referred to in subsec. (b), is Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended, which is set out under section 6506 of Title 31, Money and Finance.
 
 #### Amendments
+
+2004—Subsec. (i). Pub. L. 108–399 substituted “2010” for “2005” in introductory provisions.
 
 2002—Subsec. (k). Pub. L. 107–303 repealed Pub. L. 105–362, §501(a)(2). See 1998 Amendment note below.
 
@@ -247,8 +249,4 @@ Purposes.—The purposes of this section \[enacting this section\] are to—
 &emsp;“(C) encourage the preparation of management plans for estuaries of national significance; and
 
 &emsp;“(D) enhance the coordination of estuarine research.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1269, 1270, 1273, 1285, 1381, 1383, 1386, 1414b, 2902 of this title; title 16 sections 1447c, 1455b; title 42 section 7412.
 

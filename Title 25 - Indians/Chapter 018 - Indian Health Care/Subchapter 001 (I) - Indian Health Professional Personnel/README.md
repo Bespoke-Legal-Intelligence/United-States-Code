@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1621h, 1661 of this title.
-
 
 ---
 

@@ -38,7 +38,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (2) Fictitious markets
 
-&emsp;No pretended sale or offer for sale, and no sale or offer for sale intended to establish a fictitious market, shall be taken into account in determining normal value. The occurrence of different movements in the prices at which different forms of the foreign like product are sold (or, in the absence of sales, offered for sale) in the exporting country after the issuance of an antidumping duty order may be considered by the administering authority as evidence of the establishment of a fictitious market for the foreign like product if the movement in such prices appears to reduce the amount by which the normal value exceeds the export price (or the constructed export price) of the subject merchandise.
+&emsp;No pretended sale or offer for sale, and no sale or offer for sale intended to establish a fictitious market, shall be taken into account in determining normal value. The occurrence of different movements in the prices at which different forms of the foreign like product are sold (or, in the absence of sales, offered for sale) in the exporting country after the issuance of an antidumping duty order may beconsidered by the administering authority as evidence of the establishment of a fictitious market for the foreign like product if the movement in such prices appears to reduce the amount by which the normal value exceeds the export price (or the constructed export price) of the subject merchandise.
 
 #### (3) Exportation from an intermediate country
 
@@ -112,7 +112,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;(B) were not at prices which permit recovery of all costs within a reasonable period of time,
 
-> &emsp;such sales may be disregarded in the determination of normal value. Whenever such sales are disregarded, normal value shall be based on the remaining sales of the foreignlike product in the ordinary course of trade. If no sales made in the ordinary course of trade remain, the normal value shall be based on the constructed value of the merchandise.
+> &emsp;such sales may be disregarded in the determination of normal value. Whenever such sales are disregarded, normal value shall be based on the remaining sales of the foreign like product in the ordinary course of trade. If no sales made in the ordinary course of trade remain, the normal value shall be based on the constructed value of the merchandise.
 
 #### (2) Definitions and special rules
 
@@ -190,7 +190,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (4) Valuation of factors of production
 
-&emsp;The administering authority, in valuing factors of production under paragraph (1), shallutilize, to the extent possible, the prices or costs of factors of production in one or more market economy countries that are—
+&emsp;The administering authority, in valuing factors of production under paragraph (1), shall utilize, to the extent possible, the prices or costs of factors of production in one or more market economy countries that are—
 
 &emsp;&emsp;(A) at a level of economic development comparable to that of the nonmarket economy country, and
 
@@ -226,7 +226,7 @@ For purposes of this subtitle, the constructed value of imported merchandise sha
 
 &emsp;(3) the cost of all containers and coverings of whatever nature, and all other expenses incidental to placing the subject merchandise in condition packed ready for shipment to the United States.
 
-> For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials.
+> For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposedon such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials.
 
 #### (f) Special rules for calculation of cost of production and for calculation of constructed value
 
@@ -236,7 +236,7 @@ For purposes of subsections (b) and (e) of this section.—
 
 #### (A) In general
 
-&emsp;&emsp;Costs shall normally be calculated based on the records of the exporter or producer of the merchandise, if such records are kept in accordance with the generally accepted accounting principles of the exporting country (or the producing country, where appropriate) and reasonably reflect the costs associated with the production and sale of the merchandise. The administering authority shall consider all available evidence on the proper allocation of costs, including thatwhich is made available by the exporter or producer on a timely basis, if such allocations have been historically used by the exporter or producer, in particular for establishing appropriate amortization and depreciation periods, and allowances for capital expenditures and other development costs.
+&emsp;&emsp;Costs shall normally be calculated based on the records of the exporter or producer of the merchandise, if such records are kept in accordance with the generally accepted accounting principles of the exporting country (or the producing country, where appropriate) and reasonably reflect the costs associated with the production and sale of the merchandise. The administering authority shall consider all available evidence on the proper allocation of costs, including that which is made available by the exporter or producer on a timely basis, if such allocations have been historically used by the exporter or producer, in particular for establishing appropriate amortization and depreciation periods, and allowances for capital expenditures and other development costs.
 
 #### (B) Nonrecurring costs
 
@@ -307,8 +307,4 @@ Amendment by section 615 of Pub. L. 98–573 effective Oct. 30, 1984, and amendm
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1677, 1677f–1 of this title.
 

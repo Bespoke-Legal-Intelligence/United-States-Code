@@ -24,7 +24,3 @@
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as a note under section 4951 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5027 of this title.
-

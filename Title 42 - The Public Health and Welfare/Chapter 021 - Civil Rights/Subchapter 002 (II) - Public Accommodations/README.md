@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—PUBLIC ACCOMMODATIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2000h, 12187 of this title.
-
 
 ---
 

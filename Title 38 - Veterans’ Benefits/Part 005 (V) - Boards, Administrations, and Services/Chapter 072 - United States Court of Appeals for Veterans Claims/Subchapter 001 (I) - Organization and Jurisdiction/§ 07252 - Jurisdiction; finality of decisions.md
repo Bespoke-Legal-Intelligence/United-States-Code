@@ -30,7 +30,3 @@ Subsec. (c). Pub. L. 102–40, §402(d)(1), substituted “7292” for “4092�
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7261 of this title.
-

@@ -14,7 +14,3 @@ The Office shall notify the employee in writing when the counseling period has e
 
 (Pub. L. 104–1, title IV, §402, Jan. 23, 1995, 109 Stat. 32.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 452, 1361, 1381, 1401, 1403, 1408, 1435 of this title.
-

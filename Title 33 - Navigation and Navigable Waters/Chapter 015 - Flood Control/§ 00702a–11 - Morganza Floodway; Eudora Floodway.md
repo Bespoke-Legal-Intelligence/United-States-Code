@@ -10,7 +10,7 @@ Said Morganza floodway shall not be operated until the Wax Lake outlet has been 
 
 The fuseplug levees at the head of the Atchafalaya Basin on the east side of the Atchafalaya River shall be reconstructed to the 1928 grade and section.
 
-The United States may, in the discretion of the Chief of Engineers, acquire all flowage rights, flowage easements, rights-of-way for levee foundations, and titles in fee simple asherein provided, either by voluntary acquisition or in accordance with the condemnation proceedings by the Secretary of the Army as provided for in section 702d of this title.
+The United States may, in the discretion of the Chief of Engineers, acquire all flowage rights, flowage easements, rights-of-way for levee foundations, and titles in fee simple as herein provided, either by voluntary acquisition or in accordance with the condemnation proceedings by the Secretary of the Army as provided for in section 702d of this title.
 
 In the event the United States acquires or owns title to any lands in fee simple under the provisions of sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702<i>l</i>, 702m, and 704 of this title, as amended and supplemented, the United States may retain the ownership thereof, or any part thereof instead of turning over such lands to the ownership of States or local interests as provided in section 702d of this title, and may lease such lands: <i>Provided</i>, That 25 per centum of all moneys received and deposited in the Treasury of the United States during any fiscal year on account of such leases shall be paid, at the end of such year, by the Secretary of the Treasury to the State in which such property is situated, to be expended as the State legislature may prescribe for the benefit of the public schools and public roads of the county or counties in which such property is situated: <i>Provided further</i>, That when such property is situated in more than one State or county the distributive share to each from the proceeds of such property shall be proportional to its area therein: <i>Provided further</i>, That no part of the appropriations herein or heretofore authorized for said Morganza and Eudora floodways and extension shall be used for any other purpose.
 
@@ -31,8 +31,4 @@ Act June 28, 1938, provided that, except as amended therein, the act of May 15, 
 #### Abandonment and Repeal of Projects
 
 For abandonment of Boeuf Floodway and Eudora Floodway as well as Northward Extension and back protection levee extending from head of Eudora Floodway north to Arkansas River and repeal of provisions relating to prosecution of work, see section 702a–12 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701b–4, 701f–1, 701j, 702a–1, 702a–11/2, 702a–13/4, 702j–1, 702k–1, 702k–2 of this title.
 

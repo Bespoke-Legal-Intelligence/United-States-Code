@@ -112,7 +112,7 @@ Consistent with the State plan, the local board for a local area, with the agree
 
 &emsp;&emsp;&emsp;(i) through a competitive process; or
 
-&emsp;&emsp;&emsp;(ii) in accordance with an agreement reached between the local board and a consortium of entities that, at a minimum, includes 3 or more of the one-stop partners described in subsection (b)(1) of this section; and
+&emsp;&emsp;&emsp;(ii) in accordance with an agreement reached between the local board and a consortium of entities that, at a minimum,includes 3 or more of the one-stop partners described in subsection (b)(1) of this section; and
 
 &emsp;&emsp;(B) may be a public or private entity, or consortium of entities, of demonstrated effectiveness, located in the local area, which may include—
 
@@ -154,7 +154,7 @@ If a one-stop delivery system has been established in a local area prior to Augu
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1)(B)(i) and (c)(2)(B), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (b)(1)(B)(i) and (c)(2)(B), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 The Wagner-Peyser Act, referred to in subsecs. (b)(1)(B)(ii) and (d)(2)(B)(ii), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
@@ -181,8 +181,4 @@ This Act, referred to in subsec. (f)(2), is Pub. L. 105–220, Aug. 7, 1998, 112
 1998—Subsec. (b)(1)(B)(iv). Pub. L. 105–332, §5(a)(1), inserted “(other than part C of title I of such Act and subject to subsection (f) of this section)” before semicolon.
 
 Subsec. (f). Pub. L. 105–332, §5(a)(2), added subsec. (f).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2801, 2821, 2832, 2833, 2864, 2944 of this title; title 20 sections 2341, 2342; title 42 sections 3056, 3056j.
 

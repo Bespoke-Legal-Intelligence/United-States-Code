@@ -74,9 +74,5 @@ Part C of the Balanced Budget and Emergency Deficit Control Act of 1985, referre
 
 A prior section 258 of Pub. L. 99–177 was classified to section 908 of this title prior to repeal by Pub. L. 105–33, title X, §10210, Aug. 5, 1997, 111 Stat. 711.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 643 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

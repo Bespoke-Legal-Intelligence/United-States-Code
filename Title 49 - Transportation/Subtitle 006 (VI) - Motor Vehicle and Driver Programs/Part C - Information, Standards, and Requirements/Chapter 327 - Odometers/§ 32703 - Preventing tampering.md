@@ -6,7 +6,7 @@ A person may not—
 
 &emsp;(2) disconnect, reset, alter, or have disconnected, reset, or altered, an odometer of a motor vehicle intending to change the mileage registered by the odometer;
 
-&emsp;(3) with intent to defraud, operate a motor vehicle on a street, road, or highway if theperson knows that the odometer of the vehicle is disconnected or not operating; or
+&emsp;(3) with intent to defraud, operate a motor vehicle on a street, road, or highway if the person knows that the odometer of the vehicle is disconnected or not operating; or
 
 &emsp;(4) conspire to violate this section or section 32704 or 32705 of this title.
 

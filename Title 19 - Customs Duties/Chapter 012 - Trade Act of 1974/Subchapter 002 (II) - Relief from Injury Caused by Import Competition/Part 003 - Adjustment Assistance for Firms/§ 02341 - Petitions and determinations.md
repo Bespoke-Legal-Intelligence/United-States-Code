@@ -28,7 +28,7 @@ If the petitioner, or any other person, organization, or group found by the Secr
 
 &emsp;(B)(i) Any firm which engages in exploration or drilling for oil or natural gas shall be considered to be a firm producing oil or natural gas.
 
-&emsp;(ii) Any firm that engages in exploration or drilling for oil or natural gas, or otherwiseproduces oil or natural gas, shall be considered to be producing articles directly competitive with imports of oil and with imports of natural gas.
+&emsp;(ii) Any firm that engages in exploration or drilling for oil or natural gas, or otherwise produces oil or natural gas, shall be considered to be producing articles directly competitive with imports of oil and with imports of natural gas.
 
 #### (d) Allowable period for determination
 
@@ -61,8 +61,4 @@ Subsec. (c)(2). Pub. L. 99–272, §13002(b)(2), amended par. (2) generally, des
 #### Termination Date
 
 No technical assistance to be provided under this part after Sept. 30, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2342, 2343, 2345, 2346, 2355, 2395 of this title; title 28 sections 1581, 2631, 2636, 2640, 2643.
 

@@ -22,7 +22,3 @@ The national center established under subsection (a) of this section shall serve
 
 1994—Subsec. (b)(3). Pub. L. 103–252 substituted “several programs” for “several model programs”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12355 of this title.
-

@@ -18,9 +18,5 @@ Section was enacted as part of the Disaster Relief Act of 1970, and not as part 
 
 Section effective Dec. 31, 1970, see section 304 of Pub. L. 91–606, set out as an Effective Date of 1970 Amendment note under section 165 of Title 26, Internal Revenue Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 636d of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,0 +1,232 @@
+### §831a. Membership, operation, and duties of the Board of Directors
+
+#### (a) Membership
+
+#### (1) Appointment
+
+&emsp;The Board of Directors of the Corporation (referred to in this chapter as the “Board”) shall be composed of 9 members appointed by the President by and with the advice and consent of the Senate, at least 7 of whom shall be a legal resident of the service area of the Corporation.
+
+#### (2) Chairman
+
+&emsp;The members of the Board shall select 1 of the members to act as chairman of the Board.
+
+#### (b) Qualifications
+
+To be eligible to be appointed as a member of the Board, an individual—
+
+&emsp;(1) shall be a citizen of the United States;
+
+&emsp;(2) shall have management expertise relative to a large for-profit or nonprofit corporate, government, or academic structure;
+
+&emsp;(3) shall not be an employee of the Corporation;
+
+&emsp;(4) shall make full disclosure to Congress of any investment or other financial interest that the individual holds in the energy industry; and
+
+&emsp;(5) shall affirm support for the objectives and missions of the Corporation, including being a national leader in technological innovation, low-cost power, and environmental stewardship.
+
+#### (c) Recommendations
+
+In appointing members of the Board, the President shall—
+
+&emsp;(1) consider recommendations from such public officials as—
+
+&emsp;&emsp;(A) the Governors of States in the service area;
+
+&emsp;&emsp;(B) individual citizens;
+
+&emsp;&emsp;(C) business, industrial, labor, electric power distribution, environmental, civic, and service organizations; and
+
+&emsp;&emsp;(D) the congressional delegations of the States in the service area; and
+
+&emsp;(2) seek qualified members from among persons who reflect the diversity, including the geographical diversity, and needs of the service area of the Corporation.
+
+#### (d) Terms
+
+#### (1) In general
+
+&emsp;A member of the Board shall serve a term of 5 years. A member of the Board whose term has expired may continue to serve after the member's term has expired until the date on which a successor takes office, except that the member shall not serve beyond the end of the session of Congress in which the term of the member expires.
+
+#### (2) Vacancies
+
+&emsp;A member appointed to fill a vacancy on the Board occurring before the expiration of the term for which the predecessor of the member was appointed shall be appointed for the remainder of that term.
+
+#### (e) Quorum
+
+#### (1) In general
+
+&emsp;Five of the members of the Board shall constitute a quorum for the transaction of business.
+
+#### (2) Vacancies
+
+&emsp;A vacancy on the Board shall not impair the power of the Board to act.
+
+#### (f) Compensation
+
+#### (1) In general
+
+&emsp;A member of the Board shall be entitled to receive—
+
+&emsp;&emsp;(A) a stipend of—
+
+&emsp;&emsp;&emsp;(i) $45,000 per year; or
+
+&emsp;&emsp;&emsp;(ii)(I) in the case of the chairman of any committee of the Board created by the Board, $46,000 per year; or
+
+&emsp;&emsp;&emsp;(II) in the case of the chairman of the Board, $50,000 per year; and
+
+&emsp;&emsp;(B) travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in Government service under section 5703 of title 5.
+
+#### (2) Adjustments in stipends
+
+&emsp;The amount of the stipend under paragraph (1)(A)(i) shall be adjusted by the same percentage, at the same time and manner, and subject to the same limitations as are applicable to adjustments under section 5318 of title 5.
+
+#### (g) Duties
+
+#### (1) In general
+
+&emsp;The Board shall—
+
+&emsp;&emsp;(A) establish the broad goals, objectives, and policies of the Corporation that are appropriate to carry out this chapter;
+
+&emsp;&emsp;(B) develop long-range plans to guide the Corporation in achieving the goals, objectives, and policies of the Corporation and provide assistance to the chief executive officer to achieve those goals, objectives, and policies;
+
+&emsp;&emsp;(C) ensure that those goals, objectives, and policies are achieved;
+
+&emsp;&emsp;(D) approve an annual budget for the Corporation;
+
+&emsp;&emsp;(E) adopt and submit to Congress a conflict-of-interest policy applicable to members of the Board and employees of the Corporation;
+
+&emsp;&emsp;(F) establish a compensation plan for employees of the Corporation in accordance with subsection (i) of this section;
+
+&emsp;&emsp;(G) approve all compensation (including salary or any other pay, bonuses, benefits, incentives, and any other form of remuneration) of all managers and technical personnel that report directly to the chief executive officer (including any adjustment to compensation);
+
+&emsp;&emsp;(H) ensure that all activities of the Corporation are carried out in compliance with applicable law;
+
+&emsp;&emsp;(I) create an audit committee, composed solely of Board members independent of the management of the Corporation, which shall—
+
+&emsp;&emsp;&emsp;(i) in consultation with the inspector general of the Corporation, recommend to the Board an external auditor;
+
+&emsp;&emsp;&emsp;(ii) receive and review reports from the external auditor of the Corporation and inspector general of the Corporation; and
+
+&emsp;&emsp;&emsp;(iii) make such recommendations to the Board as the audit committee considers necessary;
+
+&emsp;&emsp;(J) create such other committees of Board members as the Board considers to be appropriate;
+
+&emsp;&emsp;(K) conduct such public hearings as it deems appropriate on issues that could have a substantial effect on—
+
+&emsp;&emsp;&emsp;(i) the electric ratepayers in the service area; or
+
+&emsp;&emsp;&emsp;(ii) the economic, environmental, social, or physical well-being of the people of the service area;
+
+&emsp;&emsp;(L) establish the electricity rates charged by the Corporation; and
+
+&emsp;&emsp;(M) engage the services of an external auditor for the Corporation.
+
+#### (2) Meetings
+
+&emsp;The Board shall meet at least 4 times each year.
+
+#### (h) Chief executive officer
+
+#### (1) Appointment
+
+&emsp;The Board shall appoint a person to serve as chief executive officer of the Corporation.
+
+#### (2) Qualifications
+
+#### (A) In general
+
+&emsp;&emsp;To serve as chief executive officer of the Corporation, a person—
+
+&emsp;&emsp;&emsp;(i) shall have senior executive-level management experience in large, complex organizations;
+
+&emsp;&emsp;&emsp;(ii) shall not be a current member of the Board or have served as a member of the Board within 2 years before being appointed chief executive officer; and
+
+&emsp;&emsp;&emsp;(iii) shall comply with the conflict-of-interest policy adopted by the Board.
+
+#### (B) Expertise
+
+&emsp;&emsp;In appointing a chief executive officer, the Board shall give particular consideration to appointing an individual with expertise in the electric industry and with strong financial skills.
+
+#### (3) Tenure
+
+&emsp;The chief executive officer shall serve at the pleasure of the Board.
+
+#### (i) Compensation plan
+
+#### (1) In general
+
+&emsp;The Board shall approve a compensation plan that specifies all compensation (including salary or any other pay, bonuses, benefits, incentives, and any other form of remuneration) for the chief executive officer and employees of the Corporation.
+
+#### (2) Annual survey
+
+&emsp;The compensation plan shall be based on an annual survey of the prevailing compensation for similar positions in private industry, including engineering and electric utility companies, publicly owned electric utilities, and Federal, State, and local governments.
+
+#### (3) Considerations
+
+&emsp;The compensation plan shall provide that education, experience, level of responsibility, geographic differences, and retention and recruitment needs will be taken into account in determining compensation of employees.
+
+#### (4) Positions at or below level IV
+
+&emsp;The chief executive officer shall determine the salary and benefits of employees whose annual salary is not greater than the annual rate payable for positions at level IV of the Executive Schedule under section 5315 of title 5.
+
+#### (5) Positions above level IV
+
+&emsp;On the recommendation of the chief executive officer, the Board shall approve the salaries of employees whose annual salaries would be in excess of the annual rate payable for positions at level IV of the Executive Schedule under section 5315 of title 5.
+
+(May 18, 1933, ch. 32, §2, as added Pub. L. 108–447, div. C, title VI, §601, Dec. 8, 2004, 118 Stat. 2963.)
+
+#### Prior Provisions
+
+A prior section, act May 18, 1933, ch. 32, §2, 48 Stat. 59, related to the Directors of the Authority, prior to repeal by Pub. L. 108–447, div. C, title VI, §601, Dec. 8, 2004, 118 Stat. 2963.
+
+#### Appointments; Effective Date; Transition
+
+Pub. L. 108–447, div. C, title VI, §604, Dec. 8, 2004, 118 Stat. 2967, provided that:
+
+“(a)
+
+Appointments.—
+
+&emsp;“(1)
+
+In general.—As soon as practicable after the date of enactment of this Act \[Dec. 8, 2004\], the President shall submit to the Senate nominations of six persons to serve as members of the Board of Directors of the Tennessee Valley Authority in addition to the members serving on the date of enactment of this Act.
+
+&emsp;“(2)
+
+Initial terms.—Notwithstanding section 2(d) of the Tennessee Valley Authority Act of 1933 \[16 U.S.C. 831a(d)\] (as amended by this title), in making the appointments under paragraph (1), the President shall appoint—
+
+&emsp;&emsp;“(A) two members for a term to expire on May 18, 2007;
+
+&emsp;&emsp;“(B) two members for a term to expire on May 18, 2009; and
+
+&emsp;&emsp;“(C) two members for a term to expire on May 18, 2011.
+
+“(b)
+
+Effective Date.—The amendments made by this title \[enacting this section, amending sections 831, 831b, 831c, 831c–3, 831d, 831e, 831g, 831h, 831k, 831<i>l</i>, 831n, 831<i>o</i>, 831q, and 831w of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, and repealing prior section 831a of this title\] take effect on the later of—
+
+&emsp;“(1) the date on which at least three persons nominated under subsection (a) take office; or
+
+&emsp;“(2) May 18, 2005.
+
+“(c)
+
+Selection of Chairman.—The Board of Directors of the Tennessee Valley Authority shall select one of the members to act as chairman of the Board not later than 30 days after the effective date specified in subsection (b).
+
+“(d)
+
+Conflict-of-Interest Policy.—The Board of Directors of the Tennessee Valley Authority shall adopt and submit to Congress a conflict-of-interest policy, as required by section 2(g)(1)(E) of the Tennessee Valley Authority Act of 1933 \[16 U.S.C. 831a(g)(1)(E)\] (as amended by this title), as soon as practicable after the effective date specified in subsection (b).
+
+“(e)
+
+Transition.—A person who is serving as a member of the board of directors of the Tennessee Valley Authority on the date of enactment of this Act \[Dec. 8, 2004\]—
+
+&emsp;“(1) shall continue to serve until the end of the current term of the member; but
+
+&emsp;“(2) after the effective date specified in subsection (b), shall serve under the terms of the Tennessee Valley Authority Act of 1933 \[16 U.S.C. 831 et seq.\] (as amended by this title).”
+
+#### Emergency Preparedness Functions
+
+For assignment of certain emergency preparedness functions to Board of Directors of Tennessee Valley Authority, see Parts 1, 2, and 24 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+

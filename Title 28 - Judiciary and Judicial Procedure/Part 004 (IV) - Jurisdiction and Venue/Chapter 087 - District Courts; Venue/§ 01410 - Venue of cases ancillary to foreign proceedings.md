@@ -12,7 +12,3 @@
 
 Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out as a note under section 151 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1408 of this title.
-

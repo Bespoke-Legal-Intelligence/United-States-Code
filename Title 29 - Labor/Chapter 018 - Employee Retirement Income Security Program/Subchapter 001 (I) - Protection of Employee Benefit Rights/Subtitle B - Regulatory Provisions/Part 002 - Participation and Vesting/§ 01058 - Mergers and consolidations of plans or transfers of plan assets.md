@@ -12,7 +12,3 @@ A pension plan may not merge or consolidate with, or transfer its assets or liab
 
 Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1061, 1343, 1344 of this title.
-

@@ -54,6 +54,10 @@ In subsection (b)(6), the words “transportation objectives” are substituted 
 
 1991—Subsec. (b)(4). Pub. L. 102–240 inserted “, through research and development or otherwise” after “advances in transportation”.
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–426, §1, Nov. 30, 2004, 118 Stat. 2423, provided that: “This Act \[enacting section 108 of this title, amending sections 111, 112, 5118, and 5503 of this title, sections 5314 and 5316 of Title 5, Government Organization and Employees, section 844 of Title 18, Crimes and Criminal Procedure, section 2761 of Title 33, Navigation and Navigable Waters, and section 1121–2 of of Title 46, Appendix, Shipping, enacting provisions set out as notes under sections 108 and 112 of this title, and amending provisions set out as a note under section 1135 of this title\] may be cited as the ‘Norman Y. Mineta Research and Special Programs Improvement Act’.”
+
 #### Short Title of 1999 Amendment
 
 Pub. L. 106–159, §1(a), Dec. 9, 1999, 113 Stat. 1748, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Motor Carrier Safety Improvement Act of 1999’.”

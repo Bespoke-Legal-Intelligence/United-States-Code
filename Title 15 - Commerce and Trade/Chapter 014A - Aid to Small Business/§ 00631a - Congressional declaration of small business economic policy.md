@@ -22,7 +22,3 @@ Section effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as 
 
 For short title of title III of Pub. L. 96–302, as the Small Business Economic Policy Act of 1980, see Short Title of 1980 Amendments note set out under section 631 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 631b of this title.
-

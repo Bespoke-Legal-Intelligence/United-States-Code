@@ -244,6 +244,13 @@
 | (b) | Area included. |
 | (c) | Design. |
 | (d) | Funding. |
+| [2168\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002168%20-%20Memorandum%20of%20understanding%20for%20provision%20of%20services%20of%20the%20United%20States%20Capitol%20telephone%20exchange%20for%20the%20House.md) | Memorandum of understanding for provision of services of the United States Capitol telephone exchange for the House. |
+| (a) | In general. |
+| (b) | Transfer of positions and personnel. |
+| (c) | Pay and leave accrual. |
+| (d) | Omitted. |
+| (e) | Reimbursement of expenses by House. |
+| (f) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -32,7 +32,3 @@ The Federal Employees’ Retirement System Act of 1986, referred to in subsec. (
 
 1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4045 of this title.
-

@@ -14,7 +14,3 @@ The purposes of the Rural Business Investment Program established under this sub
 
 (Pub. L. 87–128, title III, §384B, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 391.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009cc–2 of this title.
-

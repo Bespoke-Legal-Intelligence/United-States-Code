@@ -46,7 +46,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Section 28(b) of Pub. L. 93–416 provided that: “Section 11 of this Act \[amending this section\] shall become effective 60 days from enactment \[Sept. 7, 1974\] and be applicable to any injury occurring on or after such effective date.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3715a.
-

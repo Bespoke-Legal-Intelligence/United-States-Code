@@ -6,7 +6,3 @@ Following establishment of the national monument, additional properties may be a
 
 (June 28, 1954, ch. 401, §2, 68 Stat. 299.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 450kk of this title.
-

@@ -52,7 +52,3 @@ The principal negotiating objective of the United States in the extended negotia
 
 Section effective on date on which WTO Agreement enters into force with respect to United States \[Jan. 1, 1995\], see section 138(b) of Pub. L. 103–465, set out as a note under section 3551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3802 of this title.
-

@@ -225,7 +225,8 @@
 | [3198\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/%C2%A7%2003198%20-%20Local%20hire.md) | Local hire. |
 | (a) | Program. |
 | (b) | Preference eligibles within local hire. |
-| (c) | Reports. |
+| (c) | Payment of expenses after death of an employee. |
+| (d) | Reports. |
 | [3199\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/%C2%A7%2003199%20-%20Navigation%20aids%20and%20other%20facilities.md) | Navigation aids and other facilities. |
 | (a) | Existing facilities. |
 | (b) | New facilities. |
@@ -293,10 +294,6 @@
 | (d) | Other procedures. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 668dd of this title.
 
 
 ---

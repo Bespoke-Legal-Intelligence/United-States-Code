@@ -46,7 +46,3 @@ The Export Administration Act of 1979, referred to in subsec. (a)(1), is Pub. L.
 
 The Agricultural Act of 1949, referred to in subsec. (b)(1), (2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. Title I of the Act is classified generally to subchapter II (§1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5672 of this title.
-

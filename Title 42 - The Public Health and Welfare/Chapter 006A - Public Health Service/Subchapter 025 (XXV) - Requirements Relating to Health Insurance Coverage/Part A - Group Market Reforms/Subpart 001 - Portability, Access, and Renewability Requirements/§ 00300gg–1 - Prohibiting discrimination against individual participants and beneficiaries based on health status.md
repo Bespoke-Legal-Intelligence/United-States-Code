@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, may not require any individual (as a condition of enrollment or continued enrollment under the plan) to pay a premium or contribution which is greater than such premium or contributionfor a similarly situated individual enrolled in the plan on the basis of any health status-related factor in relation to the individual or to an individual enrolled under the plan as a dependent of the individual.
+&emsp;A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, may not require any individual (as a condition of enrollment or continued enrollment under the plan) to pay a premium or contribution which is greater than such premium or contribution for a similarly situated individual enrolled inthe plan on the basis of any health status-related factor in relation to the individual or to an individual enrolled under the plan as a dependent of the individual.
 
 #### (2) Construction
 
@@ -61,8 +61,4 @@ A prior section 2702 of act July 1, 1944, was successively renumbered by subsequ
 #### Effective Date
 
 Section applicable with respect to group health plans, and health insurance coverage offered in connection with group health plans, for plan years beginning after June 30, 1997, except as otherwise provided, see section 102(c) of Pub. L. 104–191, set out as a note under section 300gg of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300gg–11, 300gg–91, 1395w–22, 1395cc–2 of this title.
 

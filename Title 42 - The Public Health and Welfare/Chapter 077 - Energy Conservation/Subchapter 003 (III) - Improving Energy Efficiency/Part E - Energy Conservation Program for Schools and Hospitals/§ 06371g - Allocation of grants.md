@@ -28,7 +28,7 @@ The Secretary shall prescribe rules limiting the amount of funds allocated to a 
 
 Funds allocated for projects in any States for a fiscal year under this section but not obligated in such fiscal year shall be available for reallocation under subsection (a) of this section in the subsequent fiscal year.
 
-(Pub. L. 94–163, title III, §398, as added Pub. L. 95–619, title III, §302(a), Nov. 9, 1978, 92 Stat. 3246;amended Pub. L. 98–454, title VI, §601(e), Oct. 5, 1984, 98 Stat. 1736.)
+(Pub. L. 94–163, title III, §398, as added Pub. L. 95–619, title III, §302(a), Nov. 9, 1978, 92 Stat. 3246; amended Pub. L. 98–454, title VI, §601(e), Oct. 5, 1984, 98 Stat. 1736.)
 
 #### References in Text
 
@@ -37,10 +37,6 @@ Section 6371f of this title, referred to in subsec. (a)(1), (2), was amended by 
 #### Amendments
 
 1984—Subsec. (b). Pub. L. 98–454 inserted reference to Northern Mariana Islands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6371c, 6371e of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

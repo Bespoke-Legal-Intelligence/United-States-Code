@@ -22,7 +22,3 @@ Act of June 19, 1935, referred to in par. (1), is act June 19, 1935, ch. 275, 49
 
 Section 201 of title II of Pub. L. 103–454 provided that: “This title \[enacting this section and sections 1213 to 1215 of this title\] may be cited as the ‘Tlingit and Haida Status Clarification Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1214 of this title.
-

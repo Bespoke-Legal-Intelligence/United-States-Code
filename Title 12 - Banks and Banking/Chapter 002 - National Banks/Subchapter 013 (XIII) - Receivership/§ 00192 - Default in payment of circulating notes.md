@@ -36,9 +36,5 @@ Provisions of this section were made applicable to banks, etc., in the District 
 
 So much of existing law requiring the payment of interest with respect to any funds deposited by the United States or by any public instrumentality, agency, or officer thereof, as is inconsistent with sections 371a, 371b, 374, 374a, 461, former sections 462 to 465, and section 466 of this title, repealed, see section 371a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 55, 143, 197, 481, 501, 1467 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

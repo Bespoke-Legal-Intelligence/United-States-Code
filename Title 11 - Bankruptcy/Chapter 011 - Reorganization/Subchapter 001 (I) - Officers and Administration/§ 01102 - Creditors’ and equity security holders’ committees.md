@@ -22,7 +22,7 @@ Section 1102(b) of the House amendment represents a compromise between the House
 
 #### senate report no. 95–989
 
-This section provides for the election and appointment of committees. Subsection (c) provides that thissection does not apply in case of a public company, as to which a trustee, appointed under section 1104(a) will have responsibility to administer the estate and to formulate a plan as provided in section 1106(a).
+This section provides for the election and appointment of committees. Subsection (c) provides that this section does not apply in case of a public company, as to which a trustee, appointed under section 1104(a) will have responsibility to administer the estate and to formulate a plan as provided in section 1106(a).
 
 There is no need for the election or appointment of committees for which the appointment of a trustee is mandatory. In the case of a public company there are likely to be several committees, each representing a different class of security holders and seeking authority to retain accountants, lawyers, and other experts, who will expect to be paid. If in the case of a public company creditors or stockholders wish to organize committees, they may do so, as authorized under section 1109(a). Compensation and reimbursement will be allowed for contributions to the reorganization pursuant to section 503(b) (3) and (4).
 
@@ -59,8 +59,4 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 328, 348, 503, 901, 1103, 1114 of this title.
 

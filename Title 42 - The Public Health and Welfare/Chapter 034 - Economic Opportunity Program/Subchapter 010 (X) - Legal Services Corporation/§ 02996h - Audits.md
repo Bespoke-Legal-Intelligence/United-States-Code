@@ -6,13 +6,13 @@
 
 (2) The audits shall be conducted at the place or places where the accounts of the Corporation are normally kept. All books, accounts, financial records, reports, files, and other papers or property belonging to or in use by the Corporation and necessary to facilitate the audits shall be made available to the person or persons conducting the audits; and full facilities for verifying transactions with the balances and securities held by depositories, fiscal agents, and custodians shall be afforded to any such person.
 
-(3) The report of the annual audit shall be filed with the General Accounting Office and shall be available for public inspection during business hours at the principal office of the Corporation.
+(3) The report of the annual audit shall be filed with the Government Accountability Office and shall be available for public inspection during business hours at the principal office of the Corporation.
 
-#### (b) Audit by General Accounting Office
+#### (b) Audit by Government Accountability Office
 
-(1) In addition to the annual audit, the financial transactions of the Corporation for any fiscal year during which Federal funds are available to finance any portion of its operations may be audited by the General Accounting Office in accordance with such rules and regulations as may be prescribed by the Comptroller General of the United States.
+(1) In addition to the annual audit, the financial transactions of the Corporation for any fiscal year during which Federal funds are available to finance any portion of its operations may be audited by the Government Accountability Office in accordance with such rules and regulations as may be prescribed by the Comptroller General of the United States.
 
-(2) Any such audit shall be conducted at the place or places where accounts of the Corporation are normally kept. The representatives of the General Accounting Office shall have access to all books, accounts, financial records, reports, files, and other papers or property belonging to or in use by the Corporation and necessary to facilitate the audit; and full facilities for verifying transactions with the balances and securities held by depositories, fiscal agents, and custodians shall be afforded to such representatives. All such books, accounts, financial records, reports, files, and other papers or property of the Corporation shall remain in the possession and custody of the Corporation throughout the period beginning on the date such possession or custody commences and ending three years after such date, but the General Accounting Office may require the retention of such books, accounts, financial records, reports, files, papers, or property for a longer period under section 3523(c) of title 31.
+(2) Any such audit shall be conducted at the place or places where accounts of the Corporation are normally kept. The representatives of the Government Accountability Office shall have access to all books, accounts, financial records, reports, files, and other papers or property belonging to or in use by the Corporation and necessary to facilitate the audit; and full facilities for verifying transactions with the balances and securities held by depositories, fiscal agents, and custodians shall be afforded to such representatives. All such books, accounts, financial records, reports, files, and other papers or property of the Corporation shall remain in the possession and custody of the Corporation throughout the period beginning on the date such possession or custody commences and ending three years after such date, but the Government Accountability Office may require the retention of such books, accounts, financial records, reports, files, papers, or property for a longer period under section 3523(c) of title 31.
 
 (3) A report of such audit shall be made by the Comptroller General to the Congress and to the President, together with such recommendations with respect thereto as he shall deem advisable.
 
@@ -26,13 +26,15 @@
 
 Notwithstanding the provisions of this section or section 2996g of this title, neither the Corporation nor the Comptroller General shall have access to any reports or records subject to the attorney-client privilege.
 
-(Pub. L. 88–452, title X, §1009, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 387; amended Pub. L. 95–222, §14, Dec. 28, 1977, 91 Stat. 1623; Pub. L. 104–66, title II, §2111, Dec. 21, 1995, 109 Stat. 730.)
+(Pub. L. 88–452, title X, §1009, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 387; amended Pub. L. 95–222, §14, Dec. 28, 1977, 91 Stat. 1623; Pub. L. 104–66, title II, §2111, Dec. 21, 1995, 109 Stat. 730; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Codification
 
 In subsec. (b)(2), “section 3523(c) of title 31” substituted for “section 117(b) of the Accounting and Auditing Act of 1950 (31 U.S.C. 67(b))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2004—Subsecs. (a)(3), (b)(1), (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
 1995—Subsec. (c)(2). Pub. L. 104–66 substituted “Upon request, the” for “The” in first sentence.
 

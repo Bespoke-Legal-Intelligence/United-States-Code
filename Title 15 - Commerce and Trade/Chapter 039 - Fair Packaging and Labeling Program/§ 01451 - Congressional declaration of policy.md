@@ -12,7 +12,3 @@ Section 13 of Pub. L. 89–755 provided that: “This Act \[enacting this chapte
 
 Section 1 of Pub. L. 89–755 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Fair Packaging and Labeling Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1454 of this title.
-

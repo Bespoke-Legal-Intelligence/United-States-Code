@@ -4,7 +4,3 @@ In accordance with the recommendations of the Chief of Engineers, as set forth i
 
 (June 28, 1938, ch. 795, §4, 52 Stat. 1220.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701b–4, 701c–1, 701f–1, 701j, 702a–13/4 of this title.
-

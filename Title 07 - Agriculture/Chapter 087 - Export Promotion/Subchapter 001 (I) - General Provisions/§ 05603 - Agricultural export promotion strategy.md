@@ -56,6 +56,10 @@ The strategy developed under subsection (a) of this section shall have the follo
 
 1991—Subsec. (d)(2). Pub. L. 102–237 inserted a closing parenthesis before period at end.
 
+#### Prohibition on Use of Funds for Promotion of Tobacco or Tobacco Products
+
+Pub. L. 108–199, div. A, title VII, §770, Jan. 23, 2004, 118 Stat. 40, provided that: “Hereafter, no funds provided in this or any other Act shall be available to the Secretary of Agriculture acting through the Foreign Agricultural Service to promote the sale or export of tobacco or tobacco products.”
+
 #### Use of Department of Agriculture Programs for Promotion of Wood and Processed Wood Products
 
 Section 4404 of Pub. L. 100–418 provided that: “The Secretary of Agriculture shall actively use Department of Agriculture concessional programs and export credit guarantee programs to promote the export of wood and processed wood products.”

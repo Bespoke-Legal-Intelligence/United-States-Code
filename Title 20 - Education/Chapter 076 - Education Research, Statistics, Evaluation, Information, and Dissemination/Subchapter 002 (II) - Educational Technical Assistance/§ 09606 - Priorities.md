@@ -4,7 +4,3 @@ The Secretary shall establish priorities for the regional educational laboratori
 
 (Pub. L. 107–279, title II, §207, Nov. 5, 2002, 116 Stat. 1981.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9564, 9602 of this title.
-

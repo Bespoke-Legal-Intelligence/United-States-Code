@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS AND POLICIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1437c–1, 1437u, 12821 of this title.
-
 
 ---
 

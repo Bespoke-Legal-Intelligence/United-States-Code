@@ -14,15 +14,15 @@ A prior section 69a, Pub. L. 95–94, title I, §105, Aug. 5, 1977, 91 Stat. 661
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–83 substituted “$25,000” for “$10,000” in first sentence.
+2003—Pub. L. 108–83 substituted “$25,000” for “$10,000” in first sentence.
 
-<b>1992</b>—Pub. L. 102–392 substituted “$10,000” for “$4,000”.
+1992—Pub. L. 102–392 substituted “$10,000” for “$4,000”.
 
-<b>1987</b>—Pub. L. 100–202 substituted “$4,000” for “$2,000”.
+1987—Pub. L. 100–202 substituted “$4,000” for “$2,000”.
 
-<b>1986</b>—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-<b>1985</b>—Pub. L. 99–88 substituted “Senators, Senate officials, or members of the staffs of Senators or Senate officials” for “Senators and members of their staffs,”.
+1985—Pub. L. 99–88 substituted “Senators, Senate officials, or members of the staffs of Senators or Senate officials” for “Senators and members of their staffs,”.
 
 #### Effective Date of 1987 Amendment
 

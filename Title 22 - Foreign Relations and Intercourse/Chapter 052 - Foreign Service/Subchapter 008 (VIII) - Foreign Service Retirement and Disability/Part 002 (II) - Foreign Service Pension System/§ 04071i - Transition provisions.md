@@ -12,7 +12,3 @@ The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 
 
 1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4046, 4071b of this title; title 26 section 3121; title 42 section 410.
-

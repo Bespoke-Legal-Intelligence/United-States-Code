@@ -14,7 +14,3 @@ The Court of Claims, referred to in text, and the Court of Customs and Patent Ap
 
 1954—Act June 29, 1954, excepted from 331/3 per centum limitation on expenditures and advances, per capita payments made from interest.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 676a of this title.
-

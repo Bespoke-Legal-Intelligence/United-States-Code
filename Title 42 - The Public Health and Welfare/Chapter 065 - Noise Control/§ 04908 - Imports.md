@@ -4,7 +4,3 @@ The Secretary of the Treasury shall, in consultation with the Administrator, iss
 
 (Pub. L. 92–574, §9, Oct. 27, 1972, 86 Stat. 1242.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4909 of this title.
-

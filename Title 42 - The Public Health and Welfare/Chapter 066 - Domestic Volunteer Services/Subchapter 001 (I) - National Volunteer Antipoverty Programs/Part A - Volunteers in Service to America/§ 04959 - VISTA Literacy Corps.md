@@ -52,7 +52,7 @@ In any fiscal year in which the services provided under this part are reduced, t
 
 (1) Subject to paragraph (2), with respect to any individual providing volunteer services in the program under this section regarding literacy, the Director may, with the written consent of the individual, assign the individual to serve in the general program under this part regarding literacy.
 
-(2) To the extent practicable and without undue delay, the Director shall ensure that a volunteer under this section is assigned to thevacancy created within the relevant literacy project or program established under this section.
+(2) To the extent practicable and without undue delay, the Director shall ensure that a volunteer under this section is assigned to the vacancy created within the relevant literacy project or program established under this section.
 
 (Pub. L. 93–113, title I, §109, as added Pub. L. 99–551, §4(a), Oct. 27, 1986, 100 Stat. 3072; amended Pub. L. 101–204, title VI, §601, Dec. 7, 1989, 103 Stat. 1819; Pub. L. 103–82, title III, §327, Sept. 21, 1993, 107 Stat. 902; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(36)(B), (f)(28)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434.)
 
@@ -85,8 +85,4 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L.
 #### Effective Date
 
 Section effective Oct. 1, 1986, except as otherwise provided, see section 11 of Pub. L. 99–551, set out as a note under section 4950 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5081 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—FEDERAL EMERGENCY MANAGEMENT FOOD AND SHELTER PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 11304 of this title.
-
 
 ---
 

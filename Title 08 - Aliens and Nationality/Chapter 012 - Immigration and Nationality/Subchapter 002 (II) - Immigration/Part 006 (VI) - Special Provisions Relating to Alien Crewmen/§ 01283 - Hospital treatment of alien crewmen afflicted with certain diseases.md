@@ -8,7 +8,3 @@ An alien crewman, including an alien crewman ineligible for a conditional permit
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1282, 1284, 1330 of this title.
-

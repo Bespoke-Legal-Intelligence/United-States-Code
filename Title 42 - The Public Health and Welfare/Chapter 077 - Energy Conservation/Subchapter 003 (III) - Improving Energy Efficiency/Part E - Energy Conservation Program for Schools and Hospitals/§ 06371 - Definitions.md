@@ -80,7 +80,7 @@ For the purposes of this part—
 
 (11) The term “State school facilities agency” means an existing agency which is broadly representative of public institutions of higher education, nonprofit institutions of higher education, public elementary and secondary schools, nonprofit elementary and secondary schools, public vocational education institutions, nonprofit vocational education institutions, and the interests of handicapped persons, in a State or, if no such agency exists, an agency which is designated by the Governor of such State which conforms to the requirements of this paragraph.
 
-(12) The term “State hospital facilities agency” means an existing agency which is broadlyrepresentative of the public hospitals and the nonprofit hospitals, or, if no such agency exists, an agency designated by the Governor of such State which conforms to the requirements of this paragraph.
+(12) The term “State hospital facilities agency” means an existing agency which is broadly representative of the public hospitals and the nonprofit hospitals, or, if no such agency exists, an agency designated by the Governor of such State which conforms to the requirements of this paragraph.
 
 (13) The term “energy audit” means a determination of the energy consumption characteristics of a building which—
 
@@ -155,8 +155,4 @@ Findings.—The Congress finds that—
 “(b)
 
 Purpose.—It is the purpose of this part \[enacting sections 6371 to 6371i of this title, amending sections 300k–2 and 300n–1 of this title, and enacting provisions set out as notes under this section\] to authorize grants to States and to public and nonprofit schools and hospitals to assist them in identifying and implementing energy conservation maintenance and operating procedures and in evaluating, acquiring, and installing energy conservation measures to reduce the energy use and anticipated energy costs of schools and hospitals.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6372 of this title.
 

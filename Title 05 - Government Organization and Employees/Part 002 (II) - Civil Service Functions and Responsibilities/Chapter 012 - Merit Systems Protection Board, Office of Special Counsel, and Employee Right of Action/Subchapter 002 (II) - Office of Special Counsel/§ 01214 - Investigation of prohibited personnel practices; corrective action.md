@@ -30,7 +30,7 @@
 
 (B) A written statement under subparagraph (A) may not be admissible as evidence in any judicial or administrative proceeding, without the consent of the person who received such statement under subparagraph (A).
 
-(3) Except in a case in which an employee, former employee, or applicant for employment has the right to appeal directly to the Merit Systems Protection Board under any law, rule, or regulation, any such employee, former employee, or applicant shall seek corrective action from the Special Counsel before seeking corrective action from the Board. An employee, former employee, or applicant for employment may seek corrective action from the Board under section 1221, if such employee, former employee, or applicant seeks corrective action for a prohibited personnel practice described in section 2302(b)(8) from the Special Counsel and—
+(3) Except in a case in which an employee, former employee, or applicant for employmenthas the right to appeal directly to the Merit Systems Protection Board under any law, rule, or regulation, any such employee, former employee, or applicant shall seek corrective action from the Special Counsel before seeking corrective action from the Board. An employee, former employee, or applicant for employment may seek corrective action from the Board under section 1221, if such employee, former employee, or applicant seeks corrective action for a prohibited personnel practice described in section 2302(b)(8) from the Special Counsel and—
 
 &emsp;(A)(i) the Special Counsel notifies such employee, former employee, or applicant that an investigation concerning such employee, former employee, or applicant has been terminated; and
 
@@ -46,7 +46,7 @@
 
 (ii) Any member of the Board requested by the Special Counsel to order a stay under clause (i) shall order such stay unless the member determines that, under the facts and circumstances involved, such a stay would not be appropriate.
 
-(iii) Unless denied under clause (ii), any stay under this subparagraph shall be granted within3 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of the request for the stay by the Special Counsel.
+(iii) Unless denied under clause (ii), any stay under this subparagraph shall be granted within 3 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of the request for the stay by the Special Counsel.
 
 (B) The Board may extend the period of any stay granted under subparagraph (A) for any period which the Board considers appropriate.
 
@@ -123,8 +123,4 @@ Subsec. (g). Pub. L. 103–424, §8(a), added subsec. (g).
 #### Termination Statement
 
 Section 12(b) of Pub. L. 103–424 provided that: “The Special Counsel shall include in any letter terminating an investigation under section 1214(a)(2) of title 5, United States Code, the name and telephone number of an employee of the Special Counsel who is available to respond to reasonable questions from the person regarding the investigation or review conducted by the Special Counsel, the relevant facts ascertained by the Special Counsel, and the law applicable to the person's allegations.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1204, 1212, 1216, 1218, 1219, 1221, 2105, 2303, 7121 of this title; title 22 section 4139; title 49 section 40122.
 

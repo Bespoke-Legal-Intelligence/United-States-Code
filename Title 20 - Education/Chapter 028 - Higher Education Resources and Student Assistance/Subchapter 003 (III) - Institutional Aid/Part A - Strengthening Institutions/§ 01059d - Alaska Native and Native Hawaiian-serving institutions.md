@@ -58,7 +58,7 @@ For the purpose of this section—
 
 #### (2) Applications
 
-&emsp;Any institution which is determined by the Secretary to be an Alaska Native-serving institution or a Native Hawaiian-serving institution may submit an application for assistance under this section to the Secretary. The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section. Such application shall include—
+&emsp;Any institution which is determined by the Secretary to be an Alaska Native-serving institution or a Native Hawaiian-serving institution may submit an application for assistance under this section to the Secretary. TheSecretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section. Such application shall include—
 
 &emsp;&emsp;(A) a 5-year plan for improving the assistance provided by the Alaska Native-serving institution or the Native Hawaiian-serving institution to Alaska Native or Native Hawaiian students; and
 
@@ -99,8 +99,4 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 #### Effective Date
 
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1068h, 1085 of this title.
 

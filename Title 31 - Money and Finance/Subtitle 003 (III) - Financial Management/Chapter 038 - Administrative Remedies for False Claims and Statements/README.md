@@ -21,10 +21,6 @@
 
 1995—Pub. L. 104–66, title III, §3001(c)(2), Dec. 21, 1995, 109 Stat. 734, struck out item 3810 “Reports”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 5 section 504; title 15 sections 637, 645; title 42 section 1395i.
-
 
 ---
 

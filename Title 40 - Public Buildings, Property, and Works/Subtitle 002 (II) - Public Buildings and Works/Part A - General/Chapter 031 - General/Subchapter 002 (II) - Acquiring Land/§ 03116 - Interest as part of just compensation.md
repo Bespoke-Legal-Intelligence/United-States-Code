@@ -38,7 +38,3 @@ Feb. 26, 1931, ch. 307, §6, as added Pub. L. 99–656, §1(2), Nov. 14, 1986, 1
 
 40:258e–1 (last sentence).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3114 of this title; title 10 section 7422; title 25 section 500a; title 33 section 598; title 39 section 410; title 42 sections 1502, 1594a, 2222.
-

@@ -66,7 +66,3 @@ Uninterrupted Service.—Individuals serving on September 30, 1990, as members o
 
 Filling of Vacancies.—Notwithstanding section 206(e) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4005(e)), any vacancy on the National Fish and Seafood Promotion Act \[Promotional Council\] not filled as of September 30, 1990, shall be filled within 60 days after the date of enactment of this Act \[Nov. 28, 1990\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4003 of this title.
-

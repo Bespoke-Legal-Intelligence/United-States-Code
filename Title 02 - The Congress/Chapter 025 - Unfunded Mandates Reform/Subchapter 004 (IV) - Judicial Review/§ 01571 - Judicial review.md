@@ -18,7 +18,7 @@
 
 #### (4) Certain information as part of record
 
-&emsp;Any information generated under sections 1532 and 1533(a)(1) and (2) of this title that ispart of the rulemaking record for judicial review under the provisions of any other Federal law may be considered as part of the record for judicial review conducted under such other provisions of Federal law.
+&emsp;Any information generated under sections 1532 and 1533(a)(1) and (2) of this title that is part of the rulemaking record for judicial review under the provisions of any other Federal law may be considered as part of the record for judicial review conducted under such other provisions of Federal law.
 
 #### (5) Application of other Federal law
 

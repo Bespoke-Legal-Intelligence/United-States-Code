@@ -8,7 +8,7 @@ The Secretary may make competitive grants to colleges and universities in order 
 
 Grants under this section shall be directed to agricultural research, extension, and teaching activities that will—
 
-&emsp;(1) enhance the international content of the curricula in colleges and universities so as to ensure that United States students acquire an understanding of the international dimensions and trade implications of their studies;
+&emsp;(1) enhance the international content of the curricula in colleges and universities so as toensure that United States students acquire an understanding of the international dimensions and trade implications of their studies;
 
 &emsp;(2) ensure that United States scientists, extension agents, and educators involved in agricultural research and development activities outside of the United States have the opportunity to convey the implications of their activities and findings to their peers and students in the United States and to the users of agricultural research, extension, and teaching;
 

@@ -22,9 +22,5 @@ For the purposes of this chapter—
 
 (Pub. L. 92–587, title II, §205, Oct. 27, 1972, 86 Stat. 1297.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2091 of this title.
-
 &nbsp;
 

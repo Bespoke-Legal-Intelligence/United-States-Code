@@ -35,10 +35,6 @@
 
 1956—Act Aug. 10, 1956, ch. 1041, §19(b), 70A Stat. 627, added item 1442a.
 
-#### Chapter Referred to in Other Section
-
-This chapter is referred to in title 33 section 1323; title 39 section 409; title 42 section 7192.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 

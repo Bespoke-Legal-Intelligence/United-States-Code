@@ -6,5 +6,5 @@ On and after October 1, 1983, the Secretary—
 
 &emsp;(2) may not enter into contracts for periodic payments to the Federal Financing Bank to offset the costs to the Bank of purchasing obligations (as described in the first sentence of section 2294(b) of title 12) issued by local public housing agencies for purposes of financing public housing projects authorized by section 1437c(c) of this title.
 
-(Sept. 1, 1937, ch. 896, title I, §19, as added Pub. L. 98–181, title II, §215, Nov. 30, 1983, 97 Stat. 1185; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681.)
+(Sept. 1, 1937, ch. 896, title I, §19, as added Pub. L. 98–181, title II, §215, Nov. 30, 1983, 97 Stat. 1185;renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681.)
 

@@ -32,9 +32,9 @@
 
 &emsp;(11) Coordinated juvenile justice and delinquency prevention projects that meet the needs of juveniles through the collaboration of the many local service systems juveniles encounter can help prevent juveniles from becoming delinquent and help delinquent youth return to a productive life.
 
-(b) Congress must act now to reform this program by focusing on juvenile delinquency prevention programs, as well as programs that hold juveniles accountable for their acts and which provide opportunities for competency development. Without true reform, the juvenile justice system will not be able to overcome the challenges it will face in the coming years when the number of juveniles is expected to increase by 18 percent between 2000 and 2030.
+(b) Congress must act now to reform this program by focusing on juvenile delinquency prevention programs, as well as programs that hold juveniles accountable for their acts and which provide opportunities for competency development. Without true reform, the juvenile justicesystem will not be able to overcome the challenges it will face in the coming years when the number of juveniles is expected to increase by 18 percent between 2000 and 2030.
 
-(Pub. L. 93–415, title I, §101, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 96–509, §3, Dec. 8, 1980, 94 Stat. 2750;Pub. L. 98–473, title II, §611, Oct. 12, 1984, 98 Stat. 2107; Pub. L. 102–586, §1(a), Nov. 4, 1992, 106 Stat. 4982; Pub. L. 107–273, div. C, title II, §12202, Nov. 2, 2002, 116 Stat. 1869.)
+(Pub. L. 93–415, title I, §101, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 96–509, §3, Dec. 8, 1980, 94 Stat. 2750; Pub. L. 98–473, title II, §611, Oct. 12, 1984, 98 Stat. 2107; Pub. L. 102–586, §1(a), Nov. 4, 1992, 106 Stat. 4982; Pub. L. 107–273, div. C, title II, §12202, Nov. 2, 2002, 116 Stat. 1869.)
 
 #### Amendments
 
@@ -178,7 +178,7 @@ Section 1 of Pub. L. 93–415 provided: “That this Act \[enacting this chapter
 
 Section 301 of title III of Pub. L. 93–415, as amended by Pub. L. 96–509, §18(b), Dec. 8, 1980, 94 Stat. 2762, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Runaway and Homeless Youth Act’.”
 
-Section 401 of title IV of Pub. L. 93–415, as added by Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125, as amended by Pub. L. 101–204, title X, §1004(1), Dec. 7, 1990, 103 Stat. 1828, provided that: “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Missing Children's Assistance Act’.”
+Section 401 of title IV of Pub. L. 93–415, as added by Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125, as amended by Pub. L. 101–204, title X, §1004(1), Dec. 7,1990, 103 Stat. 1828, provided that: “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Missing Children's Assistance Act’.”
 
 Section 501 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1894, provided that: “This title \[enacting subchapter V of this chapter\] may be cited as the ‘Incentive Grants for Local Delinquency Prevention Programs Act of 2002’.”
 

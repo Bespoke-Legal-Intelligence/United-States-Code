@@ -26,7 +26,3 @@ For the purpose of this section, a cash sale means a sale in which the seller do
 
 Section effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as an Effective Date of 1987 Amendment note under section 182 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 227, 228b–2 of this title.
-

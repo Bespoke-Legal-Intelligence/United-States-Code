@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMORE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 418, 1371 of this title.
-
 
 ---
 

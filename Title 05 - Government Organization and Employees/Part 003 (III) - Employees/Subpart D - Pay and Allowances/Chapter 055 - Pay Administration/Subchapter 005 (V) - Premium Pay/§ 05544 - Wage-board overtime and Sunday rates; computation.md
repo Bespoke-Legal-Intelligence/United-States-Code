@@ -80,7 +80,7 @@ Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (a), i
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, which directed the amendment of subsec. (a) by inserting after the fourth sentence “For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.”, was executed by making the insertion after the first sentence of the concluding provisions, to reflect the probable intent of Congress.
+1998—Subsec. (a). Pub. L. 105–277, which directed the amendment of subsec. (a) by inserting after the fourthsentence “For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.”, was executed by making the insertion after the first sentence of the concluding provisions, to reflect the probable intent of Congress.
 
 1996—Subsec. (c). Pub. L. 104–201 inserted “and the provisions of section 5543(b)” after “the last two sentences of subsection (a)”.
 
@@ -115,8 +115,4 @@ Amendment by Pub. L. 90–206 effective thirty days after Dec. 16, 1967, see sec
 #### Canal Zone Employees
 
 Section 17(3) of Pub. L. 85–550, July 25, 1958, 72 Stat. 411, provided that nothing in Pub. L. 85–550, which related to wage and employment practices of the Government of the United States in the Canal Zone, should affect the applicability of former sections 673c and 913 of this title \[covered by this section\] to those classes of employees, within the scope of former sections 673c and 913 of this title \[covered by this section\] on July 25, 1958.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5541, 5543, 6123, 6128 of this title; title 2 sections 60e–2b, 1371; title 14 section 432; title 15 section 278e; title 32 section 709.
 

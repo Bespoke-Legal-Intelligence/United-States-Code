@@ -8,9 +8,5 @@ The sealed proposals to furnish paper and envelopes shall be opened in the prese
 
 Based on 44 U.S. Code, 1964 ed., §7 (Jan. 12, 1895, ch. 23, §5, 28 Stat. 602; June 16, 1938, ch. 477, §3, 52 Stat. 761).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 515, 1121 of this title; title 22 section 3714b; title 35 section 2.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

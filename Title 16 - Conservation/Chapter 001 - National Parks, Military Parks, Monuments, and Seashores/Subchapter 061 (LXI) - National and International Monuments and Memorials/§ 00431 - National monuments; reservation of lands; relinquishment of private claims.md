@@ -76,7 +76,7 @@ Casa Grande National Monument, Arizona.—Proc. No. 1470, Aug. 3, 1918, 40 Stat.
 
 Cascade-Siskiyou National Monument, Oregon.—Proc. No. 7318, June 9, 2000, 65 F.R. 37249.
 
-Castillo de San Marcos National Monument, Florida \[Monument changed from Fort Marion National Monument by act June 5, 1942, ch. 337, 56 Stat. 312\].—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968.
+Castillo de San Marcos National Monument, Florida \[Monument changed from Fort Marion National Monument by act June 5, 1942, ch. 337, 56 Stat. 312\].—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; Pub. L. 108–480, Dec. 23, 2004, 118 Stat. 3907.
 
 Castle Pinckney National Monument, South Carolina.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968.
 
@@ -370,7 +370,7 @@ Battle of Midway National Memorial, Midway Atoll.—Pub. L. 106–113, div. B, �
 
 Benjamin Franklin National Memorial, Pennsylvania.—Designation of Benjamin Franklin Memorial Hall as National Memorial by Pub. L. 92–551, Oct. 25, 1972, 86 Stat. 1164.
 
-Bosque Redondo Memorial, New Mexico.—Pub. L. 106–511, title II, Nov. 13, 2000, 114 Stat. 2369.
+Bosque Redondo Memorial, New Mexico.—Pub. L. 106–511, title II, Nov. 13, 2000, 114 Stat. 2369; Pub. L. 108–204, title I, §101, Mar. 2, 2004, 118 Stat. 543.
 
 Chamizal National Memorial, Texas.—Pub. L. 89–479, June 30, 1966, 80 Stat. 232.
 
@@ -398,7 +398,7 @@ Hamilton Grange National Memorial, New York.—Pub. L. 87–438, Apr. 27, 1962, 
 
 House Where Lincoln Died National Memorial, District of Columbia.—Act June 11, 1896, ch. 420, 29 Stat. 439.
 
-Johnstown Flood National Memorial, Pennsylvania.—Pub. L. 88–546, Aug. 31, 1964, 78 Stat. 752.
+Johnstown Flood National Memorial, Pennsylvania.—Pub. L. 88–546, Aug. 31, 1964, 78 Stat. 752; Pub. L. 108–313, Oct. 5, 2004, 118 Stat. 1196.
 
 Lincoln Boyhood National Memorial, Indiana.—Pub. L. 87–407, Feb. 19, 1962, 76 Stat. 9.
 
@@ -407,6 +407,8 @@ Lincoln Museum National Memorial, District of Columbia.—Act Apr. 7, 1866, ch. 
 Lincoln National Memorial, District of Columbia.—Act Feb. 9, 1911, ch. 42, 36 Stat. 898.
 
 Mount Rushmore National Memorial, South Dakota.—Act Feb. 25, 1929, ch. 315, 45 Stat. 1300.
+
+Mt. Soledad Veterans Memorial, California.—Pub. L. 108–447, div. J, title I, §116, Dec. 8, 2004, 118 Stat. 3346.
 
 National D-Day Memorial, Virginia.—Pub. L. 104–201, div. A, title X, §1080, Sept. 23, 1996, 110 Stat. 2670.
 
@@ -417,6 +419,8 @@ National Law Enforcement Officers Memorial, District of Columbia.—Establishmen
 National Medal of Honor Sites.—Pub. L. 106–83, Oct. 28, 1999, 113 Stat. 1293.
 
 Patrick Henry National Memorial, Virginia.—Pub. L. 99–296, May 12, 1986, 100 Stat. 429.
+
+Prisoner of War/Missing in Action National Memorial, California.—Pub. L. 108–454, title VI, §601, Dec. 10, 2004, 118 Stat. 3623.
 
 Seabees of the United States Navy Memorial.—Pub. L. 92–422, Sept. 18, 1972, 86 Stat. 678.
 
@@ -448,9 +452,5 @@ Conveyance of property to National Academy of Sciences for erection and maintena
 
 #### Study To Add Alaska and Hawaii to Lincoln National Memorial
 
-Pub. L. 94–556, Oct. 19, 1976, 90 Stat. 2632, directed Secretary of the Interior to study feasibility of and make recommendations for recognition at an appropriate place at Lincoln National Memorial of the addition to the Union of the States of Alaska and Hawaii, directed that recommendations, after review and approval by Commission of Fine Arts, National Capital PlanningCommission, and Advisory Council on Historic Preservation, be submitted to Committees on Interior and Insular Affairs of the Senate and the House of Representatives, and, if neither committee adopted a resolution of disapproval, directed Secretary to carry out recommendations.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 407, 410mm, 432, 434, 470cc, 470dd, 698w, 1133 of this title; title 43 section 1714.
+Pub. L. 94–556, Oct. 19, 1976, 90 Stat. 2632, directed Secretary of the Interior to study feasibility of and make recommendations for recognition at an appropriate place at Lincoln National Memorial of the addition to the Union of the States of Alaska and Hawaii, directed that recommendations, after review and approval by Commission of Fine Arts, National Capital Planning Commission, and Advisory Council on Historic Preservation, be submitted to Committees on Interior and Insular Affairs of the Senate and the House of Representatives, and, if neither committee adopted a resolution of disapproval, directed Secretary to carry out recommendations.
 

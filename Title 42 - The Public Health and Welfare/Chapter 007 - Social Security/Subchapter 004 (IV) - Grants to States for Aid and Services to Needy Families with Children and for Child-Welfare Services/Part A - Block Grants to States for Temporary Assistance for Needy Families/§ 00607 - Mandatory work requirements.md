@@ -81,11 +81,11 @@
 
 #### (4) State option to include individuals receiving assistance under a tribal family assistance plan or tribal work program
 
-&emsp;For purposes of paragraphs (1)(B) and (2)(B), a State may, at its option, include families in the State that are receiving assistance under a tribal family assistance plan approved undersection 612 of this title or under a tribal work program to which funds are provided under this part.
+&emsp;For purposes of paragraphs (1)(B) and (2)(B), a State may, at its option, include families in the State that are receiving assistance under a tribal family assistance plan approved under section 612 of this title or under a tribal work program to which funds are provided under this part.
 
 #### (5) State option for participation requirement exemptions
 
-&emsp;For any fiscal year, a State may, at its option, not require an individual who is a single custodial parent caring for a child who has not attained 12 months of age to engage in work, and may disregard such an individual in determining the participation rates under subsection (a) of this section for not more than 12 months.
+&emsp;For any fiscal year, a State may, at its option, not require an individual who is a singlecustodial parent caring for a child who has not attained 12 months of age to engage in work, and may disregard such an individual in determining the participation rates under subsection (a) of this section for not more than 12 months.
 
 #### (c) Engaged in work
 
@@ -159,7 +159,7 @@
 
 #### (D) Limitation on number of persons who may be treated as engaged in work by reason of participation in educational activities
 
-&emsp;&emsp;For purposes of determining monthly participation rates under paragraphs (1)(B)(i) and (2)(B) of subsection (b) of this section, not more than 30 percent of the number of individuals in all families and in 2-parent families, respectively, in a State who are treated as engaged in work for a month may consist of individuals who are determined to be engaged in work for the month by reason of participation in vocational educational training, or (if the month is in fiscal year 2000 or thereafter) deemed to be engaged inwork for the month by reason of subparagraph (C) of this paragraph.
+&emsp;&emsp;For purposes of determining monthly participation rates under paragraphs (1)(B)(i) and (2)(B) of subsection (b) of this section, not more than 30 percent of the number of individuals in all families and in 2-parent families, respectively, in a State who are treated as engaged in work for a month may consist of individuals who are determined to be engaged in work for the month by reason of participation in vocational educational training, or (if the month is in fiscal year 2000 or thereafter) deemed to be engaged in work for the month by reason of subparagraph (C) of this paragraph.
 
 #### (d) “Work activities” defined
 
@@ -245,11 +245,11 @@ It is the sense of the Congress that the States should require noncustodial, non
 
 During fiscal year 1999, the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate shall hold hearings and engage in other appropriate activities to review the implementation of this section by the States, and shall invite the Governors of the States to testify before them regarding such implementation. Based on such hearings, such Committees may introduce such legislation as may be appropriate to remedy any problems with the State programs operated pursuant to this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §407, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996,110 Stat. 2129; amended Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), Aug. 5, 1997, 111 Stat. 594, 609, 620.)
+(Aug. 14, 1935, ch. 531, title IV, §407, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2129; amended Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), Aug. 5, 1997, 111 Stat. 594, 609, 620.)
 
 #### Prior Provisions
 
-A prior section 607, act Aug. 14, 1935, ch. 531, title IV, §407, as added May 8, 1961, Pub. L. 87–31, §1, 75 Stat. 75; amended July 25, 1962, Pub. L. 87–543, title I, §§104(a)(3)(E), 131(a), 134, 76 Stat. 185, 193, 196; Oct. 13, 1964, Pub. L. 88–641, §2(b), 78 Stat. 1042; June 29, 1967, Pub. L. 90–36, §2, 81 Stat. 94; Jan. 2, 1968, Pub. L. 90–248, title II, §203(a), 81 Stat. 882; June 28, 1968, Pub. L. 90–364, title III, §302, 82 Stat. 273; Dec. 28, 1971, Pub. L. 92–223, §3(a)(10), (11), 85 Stat. 805; Oct. 20, 1976, Pub. L. 94–566, title V, §507(a), (b), (d), 90 Stat. 2688; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §§2313(a), (c)(2), 2353(q), 95 Stat. 853, 854, 874; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(4), (j)(3)(B)(ii), 98 Stat. 1166, 1171; Oct. 13, 1988, Pub. L. 100–485, title II, §202(b)(7)–(11), title IV, §401(a)(2)(B), (C), (b)(1), (3), (c), (h), 102 Stat. 2377, 2378, 2394–2396; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8105(1)–(3), (5), 102 Stat. 3797; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(a)(1)(A)(i), (2), 103 Stat. 2487, 2488; Nov. 5, 1990, Pub. L. 101–508, title V, §§5061(a), 5062(a), 104 Stat. 1388–231, 1388–232, related to dependent children of unemployed parents, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
+A prior section 607, act Aug. 14, 1935, ch. 531, title IV, §407, as added May 8, 1961, Pub. L. 87–31, §1, 75 Stat. 75; amended July 25, 1962, Pub. L. 87–543, title I, §§104(a)(3)(E), 131(a), 134, 76 Stat. 185, 193, 196; Oct. 13,1964, Pub. L. 88–641, §2(b), 78 Stat. 1042; June 29, 1967, Pub. L. 90–36, §2, 81 Stat. 94; Jan. 2, 1968, Pub. L. 90–248, title II, §203(a), 81 Stat. 882; June 28, 1968, Pub. L. 90–364, title III, §302, 82 Stat. 273; Dec. 28, 1971, Pub. L. 92–223, §3(a)(10), (11), 85 Stat. 805; Oct. 20, 1976, Pub. L. 94–566, title V, §507(a), (b), (d), 90 Stat. 2688; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §§2313(a), (c)(2), 2353(q), 95 Stat. 853, 854, 874; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(4), (j)(3)(B)(ii), 98 Stat. 1166, 1171; Oct. 13, 1988, Pub. L. 100–485, title II, §202(b)(7)–(11), title IV, §401(a)(2)(B), (C), (b)(1), (3), (c), (h), 102 Stat. 2377, 2378, 2394–2396; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8105(1)–(3), (5), 102 Stat. 3797; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(a)(1)(A)(i), (2), 103 Stat. 2487, 2488; Nov. 5, 1990, Pub. L. 101–508, title V, §§5061(a), 5062(a), 104 Stat. 1388–231, 1388–232, related to dependent children of unemployed parents, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
 
@@ -290,8 +290,4 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 #### Effective Date
 
 Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 602, 604, 609, 611, 612, 613, 615, 666, 672, 673, 1315, 1396d, 1396u–1, 1437j of this title; title 26 section 32.
 

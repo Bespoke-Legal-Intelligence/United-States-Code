@@ -4,7 +4,3 @@ In formulating a remedy for a denial of equal educational opportunity or a denia
 
 (Pub. L. 93–380, title II, §213, Aug. 21, 1974, 88 Stat. 516.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1715 of this title.
-

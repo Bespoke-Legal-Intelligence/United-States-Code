@@ -1,10 +1,6 @@
 ### §14038. Inclusion in National Incident-Based Reporting System
 
-Not later than 2 years after September 13, 1994, the Attorney General, in accordance with theStates, shall compile data regarding domestic violence and intimidation (including stalking) as part of the National Incident-Based Reporting System (NIBRS).
+Not later than 2 years after September 13, 1994, the Attorney General, in accordance with the States, shall compile data regarding domestic violence and intimidation (including stalking) as part of the National Incident-Based Reporting System (NIBRS).
 
 (Pub. L. 103–322, title IV, §40609, Sept. 13, 1994, 108 Stat. 1952.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
 

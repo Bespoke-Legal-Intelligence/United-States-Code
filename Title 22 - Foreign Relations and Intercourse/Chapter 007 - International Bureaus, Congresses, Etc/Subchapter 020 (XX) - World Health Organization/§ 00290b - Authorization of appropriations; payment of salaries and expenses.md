@@ -14,7 +14,7 @@ There are hereby authorized to be appropriated to the Department of State for co
 
 #### References in Text
 
-The civil-service laws, referred to in subsec. (b)(1), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+The civil-service laws, referred to in subsec. (b)(1), are set forth in Title 5, Government Organization andEmployees. See, particularly, section 3301 et seq. of Title 5.
 
 Subchapter XVII \[§287m et seq.\] of this chapter, referred to in subsec. (b)(2), was in the original a reference to the Act of July 30, 1946, Public Law 565, Seventy-ninth Congress.
 

@@ -22,7 +22,3 @@
 
 (Pub. L. 93–440, §4, Oct. 11, 1974, 88 Stat. 1260.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698f, 698g, 698h, 698j, 698m, 698m–1 of this title.
-

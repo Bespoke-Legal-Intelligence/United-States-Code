@@ -6,7 +6,7 @@ The portion of the Joint Committee of Congress on the Library on the part of the
 
 #### Amendments
 
-<b>1946</b>—Act Aug. 2, 1946, changed composition of Joint Committee. See section 132b of this title.
+1946—Act Aug. 2, 1946, changed composition of Joint Committee. See section 132b of this title.
 
 #### Effective Date of 1946 Amendment
 

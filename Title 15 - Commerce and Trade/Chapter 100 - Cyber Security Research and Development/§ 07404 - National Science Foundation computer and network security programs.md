@@ -222,7 +222,3 @@ Computer and network security shall be included among the fields of specializati
 
 The Scientific and Advanced Technology Act of 1992, referred to in subsec. (b)(1), is Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, as amended, which is classified generally to section 1862h et seq. of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1861 of Title 42 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7405 of this title.
-

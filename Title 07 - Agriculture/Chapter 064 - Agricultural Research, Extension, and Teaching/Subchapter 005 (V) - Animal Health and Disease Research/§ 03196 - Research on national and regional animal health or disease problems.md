@@ -78,7 +78,3 @@ Subsecs. (c) to (e). Pub. L. 97–98, §1430(c), added subsecs. (c) to (e).
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3200, 3311 of this title; title 40 section 525.
-

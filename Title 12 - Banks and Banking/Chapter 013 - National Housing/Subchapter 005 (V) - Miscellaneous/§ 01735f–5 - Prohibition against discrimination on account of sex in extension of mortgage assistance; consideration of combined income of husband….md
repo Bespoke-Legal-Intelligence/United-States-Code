@@ -20,7 +20,3 @@
 
 1984—Subsec. (a). Pub. L. 98–479 designated first par. as subsec. (a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1735f–7a of this title; title 42 section 3608.
-

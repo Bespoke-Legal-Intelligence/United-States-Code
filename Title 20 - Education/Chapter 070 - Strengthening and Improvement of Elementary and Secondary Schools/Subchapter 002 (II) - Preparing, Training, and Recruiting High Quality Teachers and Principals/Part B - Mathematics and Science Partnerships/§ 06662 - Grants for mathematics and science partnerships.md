@@ -142,7 +142,7 @@ An eligible partnership shall use funds provided under this part for one or more
 
 &emsp;&emsp;&emsp;(i) increased participation by students in advanced courses in mathematics and science;
 
-&emsp;&emsp;&emsp;(ii) increased percentages of elementary school teachers with academic majors orminors, or group majors or minors, in mathematics, engineering, or the sciences; and
+&emsp;&emsp;&emsp;(ii) increased percentages of elementary school teachers with academic majors or minors, or group majors or minors, in mathematics, engineering, or the sciences; and
 
 &emsp;&emsp;&emsp;(iii) increased percentages of secondary school classes in mathematics and science taught by teachers with academic majors in mathematics, engineering, and science.
 
@@ -157,8 +157,4 @@ Each eligible partnership receiving a grant or subgrant under this part shall re
 A prior section 2202 of Pub. L. 89–10 was classified to section 6642 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Another prior section 2202 of Pub. L. 89–10 was classified to section 3012 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6661 of this title.
 

@@ -8,7 +8,3 @@ For the purpose of carrying out the provisions of sections 760e to 760g of this 
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 755 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 760g of this title.
-

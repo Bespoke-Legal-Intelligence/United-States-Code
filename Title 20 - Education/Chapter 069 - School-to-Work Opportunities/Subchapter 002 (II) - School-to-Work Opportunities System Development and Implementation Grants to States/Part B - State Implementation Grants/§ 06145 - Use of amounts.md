@@ -46,7 +46,7 @@ The Secretaries may not provide an implementation grant under section 6142 of th
 
 #### (4) Allowable activities
 
-&emsp;A local partnership shall expend funds provided through subgrants under this subsectiononly for activities undertaken to carry out local School-to-Work Opportunities programs, and such activities may include, for each such program—
+&emsp;A local partnership shall expend funds provided through subgrants under this subsection only for activities undertaken to carry out local School-to-Work Opportunities programs, and such activities may include, for each such program—
 
 &emsp;&emsp;(A) recruiting and providing assistance to employers, including small- and medium-size businesses, to provide the work-based learning components described in section 6113 of this title;
 
@@ -108,7 +108,7 @@ In carrying out the statewide School-to-Work Opportunities system, the State may
 
 &emsp;(1) recruit and provide assistance to employers to provide work-based learning for all students;
 
-&emsp;(2) conduct outreach activities to promote and support collaboration, in School-to-WorkOpportunities programs, by businesses, labor organizations, and other organizations;
+&emsp;(2) conduct outreach activities to promote and support collaboration, in School-to-Work Opportunities programs, by businesses, labor organizations, and other organizations;
 
 &emsp;(3) provide training for teachers, employers, workplace mentors, school site mentors, counselors, related services personnel, and other parties;
 
@@ -137,8 +137,4 @@ In carrying out the statewide School-to-Work Opportunities system, the State may
 &emsp;(15) provide career exploration and awareness services, counseling and mentoring services, college awareness and preparation services, and other services (beginning at the earliest possible age, but not later than the 7th grade) to prepare students for the transition from school to work.
 
 (Pub. L. 103–239, title II, §215, May 4, 1994, 108 Stat. 587.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6143, 6174 of this title.
 

@@ -34,7 +34,7 @@ As used in this subchapter—
 
 #### (6) Consumption
 
-&emsp;The term “consumption” means, with respect to any substance, the amount of that substance produced in the United States, plus the amount imported, minus the amount exported to Parties to the Montreal Protocol. Such term shall be construed in a manner consistent with the Montreal Protocol.
+&emsp;The term “consumption” means, with respect to any substance, the amount of thatsubstance produced in the United States, plus the amount imported, minus the amount exported to Parties to the Montreal Protocol. Such term shall be construed in a manner consistent with the Montreal Protocol.
 
 #### (7) Import
 
@@ -71,8 +71,4 @@ As used in this subchapter—
 The customs laws of the United States, referred to in par. (7), are classified generally to Title 19, Customs Duties.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in par. (8), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7671a, 7671i of this title.
 

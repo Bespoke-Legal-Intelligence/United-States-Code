@@ -6,7 +6,7 @@
 
 &emsp;(2) adopt bylaws and regulations not inconsistent with this subchapter for carrying out the functions of the Conference, including the creation of such committees as it considers necessary for the conduct of studies and the development of recommendations for consideration by the Assembly.
 
-(b) The Conference includes a Council composed of the Chairman of the Conference, who isChairman of the Council, and 10 other members appointed by the President, of whom not more than one-half shall be employees of Federal regulatory agencies or Executive departments. The President may designate a member of the Council as Vice Chairman. During the absence or incapacity of the Chairman, or when that office is vacant, the Vice Chairman shall serve as Chairman. The term of each member, except the Chairman, is 3 years. When the term of a member ends, he may continue to serve until a successor is appointed. However, the service of any member ends when a change in his employment status would make him ineligible for Council membership under the conditions of his original appointment. The Council has the power to—
+(b) The Conference includes a Council composed of the Chairman of the Conference, who is Chairman of the Council, and 10 other members appointed by the President, of whom not more than one-half shall be employees of Federal regulatory agencies or Executive departments. The President may designate a member of the Council as Vice Chairman. During the absence or incapacity of the Chairman, or when that office is vacant, the Vice Chairman shall serve as Chairman. The term of each member, except the Chairman, is 3 years. When the term of a member ends, he may continue to serve until a successor is appointed. However, the service of any member ends when a change in his employment status would make him ineligible for Council membership under the conditions of his original appointment. The Council has the power to—
 
 &emsp;(1) determine the time and place of plenary sessions of the Conference and the agenda for the sessions. The Council shall call at least one plenary session each year;
 
@@ -96,15 +96,11 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 1982—Subsec. (c)(13). Pub. L. 97–258 substituted “section 1342 of title 31” for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))”.
 
-1972—Subsec. (c)(10). Pub. L. 92–526, §1(a), inserted provisions authorizing contracts for the performance of such studies with any public or private persons, etc., under title III of the Federal Property and Administrative Services Act of 1949, as amended, and substituted provisions authorizing the payment of experts and consultants in accordance with rates not in excess of the maximum rate of pay for grade GS–15 as provided in section 5332 of this title, for provisions authorizing the payment of such individuals at rates not in excess of $100 a day.
+1972—Subsec. (c)(10). Pub. L. 92–526, §1(a), inserted provisions authorizing contracts for the performance ofsuch studies with any public or private persons, etc., under title III of the Federal Property and Administrative Services Act of 1949, as amended, and substituted provisions authorizing the payment of experts and consultants in accordance with rates not in excess of the maximum rate of pay for grade GS–15 as provided in section 5332 of this title, for provisions authorizing the payment of such individuals at rates not in excess of $100 a day.
 
 Subsec. (c)(11) to (15). Pub. L. 92–526, §1(b), added pars. (11) to (13) and redesignated former pars. (11) and (12) as (14) and (15), respectively.
 
 #### Termination of Administrative Conference of United States
 
 For termination of Administrative Conference of United States, see note set out preceding section 591 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 593 of this title.
 

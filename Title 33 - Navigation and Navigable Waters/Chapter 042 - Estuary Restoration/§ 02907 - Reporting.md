@@ -22,7 +22,3 @@ A report under subsection (a) of this section shall include—
 
 (Pub. L. 106–457, title I, §108, Nov. 7, 2000, 114 Stat. 1965.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2904 of this title.
-

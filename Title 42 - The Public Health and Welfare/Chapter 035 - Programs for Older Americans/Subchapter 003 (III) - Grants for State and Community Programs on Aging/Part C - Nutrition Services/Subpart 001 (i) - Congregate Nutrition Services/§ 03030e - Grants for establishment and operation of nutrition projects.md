@@ -26,7 +26,3 @@ Subpart effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–47
 
 Operation of predecessor projects under successor provisions, see section 501(b) of Pub. L. 95–478, set out as a note under section 3045 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3032c of this title.
-

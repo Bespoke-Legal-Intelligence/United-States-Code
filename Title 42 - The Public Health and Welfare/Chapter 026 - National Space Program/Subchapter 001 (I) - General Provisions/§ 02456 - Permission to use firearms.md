@@ -8,7 +8,3 @@ The Administrator may direct such of the officers and employees of the Administr
 
 Section is comprised of subsec. (e) of section 304 of Pub. L. 85–568. Subsecs. (a) and (b) of section 304 are classified to section 2455 of this title. Subsecs. (c) and (d) of section 304 are classified to sections 799 and 1114, respectively, of Title 18, Crimes and Criminal Procedure. Subsec. (f) of section 304 is classified to section 2456a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2456a of this title.
-

@@ -38,7 +38,7 @@ Subsec. (a)(2)(B). Pub. L. 108–96, §117(c), substituted “45 percent and, in
 
 Subsec. (a)(4). Pub. L. 108–96, §117(b), substituted “2004, 2005, 2006, 2007, and 2008” for “2000, 2001, 2002, and 2003”.
 
-1999—Pub. L. 106–71, §3(m), amended section catchline and text generally, substituting provisions relating toappropriations for fiscal years 2000 to 2003 for provisions relating to appropriations for fiscal years 1993 to 1996.
+1999—Pub. L. 106–71, §3(m), amended section catchline and text generally, substituting provisions relating to appropriations for fiscal years 2000 to 2003 for provisions relating to appropriations for fiscal years 1993 to 1996.
 
 Subsec. (a)(4). Pub. L. 106–71, §3(n)(2), added par. (4).
 

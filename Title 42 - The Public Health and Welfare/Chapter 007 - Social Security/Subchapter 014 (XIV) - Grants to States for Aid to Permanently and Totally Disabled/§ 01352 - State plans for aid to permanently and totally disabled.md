@@ -10,7 +10,7 @@
 
 > At the option of the State, the plan may provide that manuals and other policy issuances will be furnished to persons without charge for the reasonable cost of such materials, but such provision shall not be required by the Secretary as a condition for the approval of such plan under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XIV, §1402, as added Aug. 28, 1950, ch. 809, title III, pt. 5, §351, 64 Stat. 555; amended 1953 Reorg. Plan No. 1, §§5, 8, eff.Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 1, 1956, ch. 836, title III, §314(b), 70 Stat. 850; Pub. L. 87–543, title I, §§104(a)(3)(I), 106(a)(3), July 25, 1962, 76 Stat. 185, 188; Pub. L. 89–97, title IV, §403(d) July 30, 1965, 79 Stat. 418; Pub. L. 90–248, title II, §§210(a)(4), 213(a)(3), Jan. 2, 1968, 81 Stat. 896, 898; Pub. L. 92–603, title IV, §§405(c), 406(c), 407(c), 410(c), 413(c), Oct. 30, 1972, 86 Stat. 1488, 1489, 1491, 1492; Pub. L. 98–369, div. B, title VI, §2651(g), July 18, 1984, 98 Stat. 1150; Pub. L. 104–193, title I, §108(h), Aug. 22, 1996, 110 Stat. 2169.)
+(Aug. 14, 1935, ch. 531, title XIV, §1402, as added Aug. 28, 1950, ch. 809, title III, pt. 5, §351, 64 Stat. 555; amended 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 1, 1956, ch. 836, title III, §314(b), 70 Stat. 850; Pub. L. 87–543, title I, §§104(a)(3)(I), 106(a)(3), July 25, 1962, 76 Stat. 185, 188; Pub. L. 89–97, title IV, §403(d) July 30, 1965, 79 Stat. 418; Pub. L. 90–248, title II, §§210(a)(4), 213(a)(3), Jan. 2, 1968, 81 Stat. 896, 898; Pub. L. 92–603, title IV, §§405(c), 406(c),407(c), 410(c), 413(c), Oct. 30, 1972, 86 Stat. 1488, 1489, 1491, 1492; Pub. L. 98–369, div. B, title VI, §2651(g), July 18, 1984, 98 Stat. 1150; Pub. L. 104–193, title I, §108(h), Aug. 22, 1996, 110 Stat. 2169.)
 
 #### Repeal of Section
 
@@ -81,8 +81,4 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 #### Public Access to State Disbursement Records
 
 Public access to State records of disbursements of funds and payments under this subchapter, see note set out under section 302 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1315, 1354, 1355, 1382a, 4728 of this title; title 25 section 996.
 

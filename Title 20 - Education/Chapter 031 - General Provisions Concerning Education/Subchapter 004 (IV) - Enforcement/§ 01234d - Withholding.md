@@ -44,7 +44,3 @@ The decision of the Office in any hearing under this section shall become final 
 
 Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1234, 1234c, 1234g, 6362, 6777 of this title.
-

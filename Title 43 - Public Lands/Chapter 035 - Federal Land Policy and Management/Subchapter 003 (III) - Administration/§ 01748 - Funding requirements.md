@@ -30,7 +30,3 @@ In subsec. (b), “section 1110 of title 31” substituted for “section 607 of
 
 1996—Subsec. (a). Pub. L. 104–333 substituted “October 1, 2002” for “October 1, 1978”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1904 of this title; title 16 sections 460iii–3, 670<i>o.</i>
-

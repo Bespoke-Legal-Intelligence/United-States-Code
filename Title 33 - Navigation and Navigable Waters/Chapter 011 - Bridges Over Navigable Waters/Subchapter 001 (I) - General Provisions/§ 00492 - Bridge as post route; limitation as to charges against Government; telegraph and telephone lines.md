@@ -4,7 +4,3 @@ Any bridge built in accordance with the provisions of sections 491 to 498 of thi
 
 (Mar. 23, 1906, ch. 1130, §2, 34 Stat. 85.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 491, 493, 494, 495, 497, 498, 508, 530, 535 of this title.
-

@@ -16,11 +16,11 @@
 
 &emsp;&emsp;(B) in the case of the death of the individual referred to in subparagraph (A), by the individual who would be entitled to payment under section 404(d) of this title,
 
-> the Commissioner of Social Security shall transmit to the individual referred to in paragraph (1) or (2) or the individual making the request under paragraph (3) any information, as reported by the employer, regarding any deferred vested benefit transmitted to the Commissioner of Social Security pursuant to such section 6057 with respect to the individual referred to in paragraph (1), (2), or (3)(A) or the person on whose wages and self-employment income entitlement (or claim of entitlement) is based.
+> the Commissioner of Social Security shall transmit to the individual referred to in paragraph (1)or (2) or the individual making the request under paragraph (3) any information, as reported by the employer, regarding any deferred vested benefit transmitted to the Commissioner of Social Security pursuant to such section 6057 with respect to the individual referred to in paragraph (1), (2), or (3)(A) or the person on whose wages and self-employment income entitlement (or claim of entitlement) is based.
 
 (b)(1) For purposes of section 401(g)(1) of this title, expenses incurred in the administration of subsection (a) of this section shall be deemed to be expenses incurred for the administration of subchapter II of this chapter.
 
-(2) There are hereby authorized to be appropriated to the Federal Old-Age and Survivors Insurance Trust Fund for each fiscal year (commencing with the fiscal year ending June 30,1974) such sums as the Commissioner of Social Security deems necessary on account of additional administrative expenses resulting from the enactment of the provisions of subsection (a) of this section.
+(2) There are hereby authorized to be appropriated to the Federal Old-Age and Survivors Insurance Trust Fund for each fiscal year (commencing with the fiscal year ending June 30, 1974) such sums as the Commissioner of Social Security deems necessary on account of additional administrative expenses resulting from the enactment of the provisions of subsection (a) of this section.
 
 (Aug. 14, 1935, ch. 531, title XI, §1131, as added Pub. L. 93–406, title II, §1032, Sept. 2, 1974, 88 Stat. 947; amended Pub. L. 98–369, div. B, title VI, §2663(e)(7), July 18, 1984, 98 Stat. 1168; Pub. L. 103–296, title I, §108(b)(11), Aug. 15, 1994, 108 Stat. 1484.)
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 #### Effective Date
 
 Section effective Jan. 1, 1978, see section 1034 of Pub. L. 93–406, set out as a note under section 6057 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 6103.
 

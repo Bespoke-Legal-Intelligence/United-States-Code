@@ -16,7 +16,3 @@ As enacted by act July 23, 1914, this section contained a provision, omitted for
 
 Section 1 of the act of June 12, 1917, incorporated in section 452 of this title, provides for the disposition of all revenue of National Parks and did not directly affect this section. It may have been considered as superseding similar provisions of the act of Oct. 1, 1890, §2.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 51, 471c, 471d of this title.
-

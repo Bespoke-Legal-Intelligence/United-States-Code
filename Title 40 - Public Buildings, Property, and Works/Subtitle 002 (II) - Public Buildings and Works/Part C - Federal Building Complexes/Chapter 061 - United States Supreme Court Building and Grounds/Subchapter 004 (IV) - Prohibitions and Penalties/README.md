@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—PROHIBITIONS AND PENALTIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6101, 6102, 6121 of this title.
-
 
 ---
 

@@ -106,7 +106,3 @@ In subsection (c), the word “Federal” is omitted as surplus. The words “pr
 
 In subsection (d), the words “enforcement of this chapter or any order or regulation under this chapter or to seek any other” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 60105 of this title.
-

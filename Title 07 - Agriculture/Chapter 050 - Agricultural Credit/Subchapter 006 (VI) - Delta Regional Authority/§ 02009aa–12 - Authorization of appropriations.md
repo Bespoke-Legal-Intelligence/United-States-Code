@@ -14,7 +14,3 @@ Not more than 5 percent of the amount appropriated under subsection (a) of this 
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009aa–5 of this title.
-

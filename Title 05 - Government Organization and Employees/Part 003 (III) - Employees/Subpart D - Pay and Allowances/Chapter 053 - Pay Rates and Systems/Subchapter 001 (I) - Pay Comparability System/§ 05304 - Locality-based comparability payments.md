@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(H) the percentage for the eighth calendar year in which any amounts are payable under this section may not be less than 9/10 of the amount needed to reduce the pay disparity of the locality involved to 5 percent; and
 
-&emsp;&emsp;(I) the percentage for the ninth calendar year in which any amounts are payable under this section, and any year thereafter, may not be less than the full amount necessary to reduce the pay disparity of the locality involved to 5 percent.
+&emsp;&emsp;(I) the percentage for the ninth calendar year in which any amounts are payableunder this section, and any year thereafter, may not be less than the full amount necessary to reduce the pay disparity of the locality involved to 5 percent.
 
 &emsp;(4) Nothing in this section shall be considered to preclude the President, in his discretion, from adjusting comparability payments to a level higher than the minimum level otherwise required in a calendar year, including to the level necessary to eliminate a locality's pay disparity completely.
 
@@ -76,9 +76,9 @@
 
 &emsp;(A) 3 shall be chosen from among persons generally recognized for their impartiality, knowledge, and experience in the field of labor relations and pay policy; and
 
-&emsp;(B) 6 shall be representatives of employee organizations which represent substantial numbers of employees holding General Schedulepositions, and who shall be selected giving due consideration to such factors as the relative numbers of employees represented by the various organizations, except that not more than 3 members of the Council at any one time shall be from a single employee organization, council, federation, alliance, association, or affiliation of employee organizations.
+&emsp;(B) 6 shall be representatives of employee organizations which represent substantial numbers of employees holding General Schedule positions, and who shall be selected giving due consideration to such factors as the relative numbers of employees represented by the various organizations, except that not more than 3 members of the Council at any one time shall be from a single employee organization, council, federation, alliance, association, or affiliation of employee organizations.
 
-> Members of the Council shall not receive pay by reason of their service on the Council, nor shall members who are not otherwise employees of the United States be considered employees by reason of any such service. However, members under subparagraph (A) may be paid expenses in accordance with section 5703. The President shall designate one of the members to serve as Chairman of the Federal Salary Council. One of the 3 members under subparagraph (A) may be the Chairman of the Federal Prevailing Rate Advisory Committee, notwithstanding the restriction under section 5347(a)(1), and such individual may also be designated to serve as Chairman of the Federal Salary Council.
+> Members of the Council shall not receive pay by reason of their service on the Council, nor shall members who are not otherwise employees of the United States be considered employees by reason of any such service. However, membersunder subparagraph (A) may be paid expenses in accordance with section 5703. The President shall designate one of the members to serve as Chairman of the Federal Salary Council. One of the 3 members under subparagraph (A) may be the Chairman of the Federal Prevailing Rate Advisory Committee, notwithstanding the restriction under section 5347(a)(1), and such individual may also be designated to serve as Chairman of the Federal Salary Council.
 
 (2) The pay agent shall—
 
@@ -110,7 +110,7 @@
 
 (2) The applicable maximum under this subsection shall be level III of the Executive Schedule for—
 
-&emsp;(A) positions under subparagraphs (A)–(D) of subsection (h)(1); and
+&emsp;(A) positions under subparagraphs (A)–(C) of subsection (h)(1); and
 
 &emsp;(B) any positions under subsection (h)(1)(D) which the President may determine.
 
@@ -142,11 +142,11 @@
 
 (B) A request by an agency head or exercise of authority by the President under subparagraph (A) shall cover—
 
-&emsp;(i) with respect to the positions under subparagraphs (A) through (C) of paragraph (1),all positions described in the subparagraph or subparagraphs involved (excluding any under clause (i), (ii), (iii), (iv), (v), or (vii) <sup>1</sup> of such paragraph); and
+&emsp;(i) with respect to the positions under subparagraphs (A) through (C) of paragraph (1), all positions described in the subparagraph or subparagraphs involved (excluding any under clause (i), (ii), (iii), (iv), (v), or (vi) of such paragraph); and
 
 &emsp;(ii) with respect to positions under paragraph (1)(D), such positions as may be considered appropriate (excluding any under clause (i), (ii), (iii), (iv), (v), or (vi) of paragraph (1)).
 
-(C) Notwithstanding subsection (c)(4) or any other provision of law, but subject to paragraph (3), in the case of a category with positions that are in more than 1 Executive agency, the President may, on his own initiative, provide that each employee who holds a position within such category, and in the locality involved, shall be entitled to receive comparability payments. No later than 30 days before an employee receives comparability payments under this subparagraph, the President or the President's designee shall submit a detailed report to the Congress justifying the reasons for the extension, including consideration of recruitment and retention rates and the expense of extending locality pay.
+(C) Notwithstanding subsection (c)(4) or any other provision of law, but subject to paragraph (3), in the case of a category with positions that are in more than 1 Executive agency, the President may, on his own initiative, provide thateach employee who holds a position within such category, and in the locality involved, shall be entitled to receive comparability payments. No later than 30 days before an employee receives comparability payments under this subparagraph, the President or the President's designee shall submit a detailed report to the Congress justifying the reasons for the extension, including consideration of recruitment and retention rates and the expense of extending locality pay.
 
 (3) Comparability payments under this subsection—
 
@@ -160,7 +160,7 @@
 
 (i) The Office of Personnel Management may prescribe regulations, consistent with the provisions of this section, governing the payment of comparability payments to employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, §302(a)(1), Oct. 30, 2004, 118 Stat. 2318.)
 
 Historical and Revision Notes
 
@@ -189,6 +189,10 @@ Section 5302(8)(C), referred to in subsec. (d)(1)(A), was redesignated 5302(8)(B
 Levels III and IV of the Executive Schedule, referred to in subsecs. (g) and (h)(1)(D), are set out in sections 5314 and 5315, respectively, of this title.
 
 #### Amendments
+
+2004—Subsec. (g)(2)(A). Pub. L. 108–411, §302(a)(1)(A), substituted “(A)–(C)” for “(A)–(D)”.
+
+Subsec. (h)(2)(B)(i). Pub. L. 108–411, §302(a)(1)(B), substituted “or (vi)” for “or (vii)”.
 
 2003—Subsec. (g)(2)(A). Pub. L. 108–136, §1125(a)(1)(A)(i), substituted “subparagraphs (A)–(D)” for “subparagraphs (A)–(E)”.
 
@@ -226,7 +230,7 @@ Subsec. (h)(1)(iii). Pub. L. 102–378, §2(26)(E)(i)(II)–(IV), added cl. (iii
 
 Subsec. (h)(2)(C). Pub. L. 102–378, §2(26)(E)(ii), added subpar. (C).
 
-Subsec. (h)(3)(B). Pub. L. 102–378, §2(26)(E)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “shall be payable, withinthe locality involved, for the entirety of each calendar year for which authority is granted by the President;”.
+Subsec. (h)(3)(B). Pub. L. 102–378, §2(26)(E)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “shall be payable, within the locality involved, for the entirety of each calendar year for which authority is granted by the President;”.
 
 1990—Pub. L. 101–509 amended section generally, substituting provisions relating to locality-based comparability payments for provisions making functions, duties, and regulations of agencies and Office of Personnel Management with respect to this subchapter subject to Presidential policies and regulations.
 
@@ -234,7 +238,11 @@ Subsec. (h)(3)(B). Pub. L. 102–378, §2(26)(E)(iii), amended subpar. (B) gener
 
 1978—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1970—Pub. L. 91–375 struck out provisions making functions, duties and regulations of the agencies and the Civil Service Commission with respect to the provisions of part III of title 39 relating to employees in the postal field service subject to Presidential policies and regulations.
+1970—Pub. L. 91–375 struck out provisions making functions, duties and regulations of the agencies andthe Civil Service Commission with respect to the provisions of part III of title 39 relating to employees in the postal field service subject to Presidential policies and regulations.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–411, title III, §302(a)(2), Oct. 30, 2004, 118 Stat. 2318, provided that: “The amendments made by this subsection \[amending this section\] shall take effect as if included in the enactment of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136).”
 
 #### Effective Date of 2003 Amendment
 
@@ -316,7 +324,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §637\], Dec. 21, 2000, 114 Stat. 2763,
 
 “(2) Any comparisons and recommendations so made shall, if included in the pay agent's report under section 5304(d)(1) of title 5, United States Code, for any year (or the pay agent's supplementary report, in accordance with subsection (d)(1)(C)(i)(II)), be considered and acted on as the pay agent's comparisons and recommendations under such section 5304(d)(1) for the area and the year involved.
 
-“(f)(1) No later than March 1, 2001, the President's pay agent shall submit to the Committee on Government Reform of the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Committees on Appropriations of the House of Representatives and of the Senate, a report on the use of pay comparison data, as described in subsection (b)(2) or (3) (as appropriate), for purposes of comparability payments.
+“(f)(1) No later than March 1, 2001, the President's pay agent shall submit to the Committee on Government Reform of the House of Representatives, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, and the Committees on Appropriations of the House of Representatives and of the Senate, a report on the use of pay comparison data, as described in subsection (b)(2) or (3) (as appropriate), for purposes of comparability payments.
 
 “(2) The report shall include the cost of obtaining such data, the rationale underlying the decisions reached based on such data, and the relative advantages and disadvantages of using such data (including whether the effort involved in analyzing and integrating such data is commensurate with the benefits derived from their use). The report may include specific recommendations regarding the continued use of such data.
 
@@ -328,9 +336,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §637\], Dec. 21, 2000, 114 Stat. 2763,
 
 #### Freeze of Current Rate for Locality-based Comparability Adjustments
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §902(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–304, provided that: “Notwithstanding any other provision of law, including this title \[enacting provisions set out as notes under sections 5301 and 5305 of this title and section 204 of Title 3, The President, and amending provisions set out as a note under section 5305 of this title\], or any provision of law amended by this title, no officer or member of the United States Secret Service Uniformed Division or the United States Park Police may be paid locality pay under section 5304 or section 5304a of title 5, United States Code, at a percentage rate for the applicable locality in excess of the rate in effect for pay periods during calendar year 2000.”
-
-\[Pub. L. 108–7, div. J, title VI, §643, Feb. 20, 2003, 117 Stat. 473, provided that: “Section 902(b) of the Law Enforcement Pay Equity Act of 2000 (as enacted into law by Public Law 106–554) \[set out above\], shall cease to be effective on the first day of the first pay period on or after January 1, 2003.”\]
+Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §902(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–304, which provided that notwithstanding any other law, no officer or member of the United States Secret Service Uniformed Division or Park Police was to be paid locality pay under section 5304 or 5304a of this title, at a percentage rate for the applicable locality in excess of the rate in effect for pay periods during calendar year 2000, ceased to be effective on the first day of the first pay period on or after Jan. 1, 2003, pursuant to Pub. L. 108–7, div. J, title VI, §643, Feb. 20, 2003, 117 Stat. 473.
 
 #### Comparability Payments in 1994 and 1995
 
@@ -452,145 +458,147 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Locality-Based Comparability Payments
 
-Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of this title, provided in part for payment of locality-based comparability payments effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2004. See Schedule set out as follows:
+Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of this title, provided in part for payment of locality-based comparability payments effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2005. See Schedule set out as follows:
 
-Schedule 9<br><i>Locality-Based Comparability Payments</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2004)
+Schedule 9<br><i>Locality-Based Comparability Payments</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2005)
 
 Locality Pay Area <sup>1</sup>
 
 Rate
 
-Atlanta, GA
+Atlanta-Sandy Springs-Gainesville, GA–AL
 
-12\.61%
+13\.87%
 
-Boston-Worcester-Lawrence, MA–NH–ME–CT–RI
+Boston-Worcester-Manchester, MA–NH–ME–RI
 
-16\.99%
+18\.49%
 
-Chicago-Gary-Kenosha, IL–IN–WI
+Chicago-Naperville-Michigan City, IL–IN–WI
 
-18\.26%
+19\.70%
 
-Cincinnati-Hamilton, OH–KY–IN
+Cincinnati-Middletown-Wilmington, OH–KY–IN
 
-15\.07%
+16\.04%
 
-Cleveland-Akron, OH
+Cleveland-Akron-Elyria, OH
 
-13\.14%
+14\.24%
 
-Columbus, OH
+Columbus-Marion-Chillicothe, OH
 
-13\.14%
+13\.98%
 
 Dallas-Fort Worth, TX
 
-13\.85%
+15\.07%
 
-Dayton-Springfield, OH
+Dayton-Springfield-Greenville, OH
 
-12\.03%
+12\.86%
 
-Denver-Boulder-Greeley, CO
+Denver-Aurora-Boulder, CO
 
-16\.66%
+18\.06%
 
-Detroit-Ann Arbor-Flint, MI
+Detroit-Warren-Flint, MI
 
-18\.32%
+19\.67%
 
-Hartford, CT
+Hartford-West Hartford-Willimantic, CT–MA
 
-17\.87%
+19\.52%
 
-Houston-Galveston-Brazoria, TX
+Houston-Baytown-Huntsville, TX
 
-23\.14%
+24\.77%
 
-Huntsville, AL
+Huntsville-Decatur, AL
 
-11\.49%
+12\.42%
 
-Indianapolis, IN
+Indianapolis-Anderson-Columbus, IN
 
-11\.11%
+12\.01%
 
-Kansas City, MO–KS
+Kansas City-Overland Park-Kansas City, MO–KS
 
-11\.54%
+12\.36%
 
-Los Angeles-Riverside-Orange County, CA
+Los Angeles-Long Beach-Riverside, CA
 
-20\.05%
+21\.65%
 
-Miami-Fort Lauderdale, FL
+Miami-Fort Lauderdale-Miami Beach, FL
 
-15\.54%
+16\.77%
 
-Milwaukee-Racine, WI
+Milwaukee-Racine-Waukesha, WI
 
-12\.64%
+13\.62%
 
-Minneapolis-St. Paul, MN–WI
+Minneapolis-St. Paul-St. Cloud, MN–WI
 
-14\.75%
+15\.99%
 
-New York-Northern New Jersey-Long Island, NY–NJ–CT–PA
+New York-Newark-Bridgeport, NY–NJ–CT–PA
 
-19\.29%
+20\.99%
 
-Orlando, FL
+Orlando-The Villages, FL
 
-10\.93%
+11\.75%
 
-Philadelphia-Wilmington-Atlantic City, PA–NJ–DE–MD
+Philadelphia-Camden-Vineland, PA–NJ–DE–MD
 
-15\.32%
+16\.67%
 
-Pittsburgh, PA
+Pittsburgh-New Castle, PA
 
-11\.92%
+12\.86%
 
-Portland-Salem, OR–WA
+Portland-Vancouver-Beaverton, OR–WA
 
-14\.69%
+15\.93%
 
-Richmond-Petersburg, VA
+Richmond, VA
 
-12\.13%
+13\.15%
 
-Sacramento-Yolo, CA
+Sacramento–Arden-Arcade–Truckee, CA–NV
 
-15\.18%
+16\.51%
 
-St. Louis, MO–IL
+St. Louis-St. Charles-Farmington, MO–IL
 
-11\.27%
+12\.09%
 
-San Diego, CA
+San Diego-Carlsbad-San Marcos, CA
 
-16\.16%
+17\.68%
 
-San Francisco-Oakland-San Jose, CA
+San Jose-San Francisco-Oakland, CA
 
-24\.21%
+26\.39%
 
-Seattle-Tacoma-Bremerton, WA
+Seattle-Tacoma-Olympia, WA
 
-15\.12%
+16\.53%
 
-Washington-Baltimore, DC–MD–VA–WV
+Washington-Baltimore-Northern Virginia, DC–MD–PA–VA–WV
 
-14\.63%
+15\.98%
 
 Rest of U.S.
 
-10\.90%
+11\.72%
 
 <sup>1</sup> Locality Pay Areas are defined in 5 CFR 531.603.
 
-Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231, which provided for payment of locality-based comparability payments effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of this title.
+Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, which provided for payment of locality-based comparability payments effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of this title.
+
+Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231, which provided for payment of locality-based comparability payments effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, formerly set out as a note under section 5332 of this title.
 
 Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, as amended by Ex. Ord. No. 13291, §3, Mar. 21, 2003, 68 F.R. 14525, which provided for payment of locality-based comparability payments effective Jan. 1, 2003, was superseded by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
 
@@ -614,11 +622,5 @@ Memorandum of President of the United States, Nov. 30, 1994, 59 F.R. 62549.
 
 Memorandum of President of the United States, Dec. 1, 1993, 58 F.R. 64097.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3161, 4505a, 5302, 5304a, 5305, 5382, 5392, 5542, 5543, 5545, 5547, 5753, 5754, 5755, 9903 of this title; title 2 sections 60a–1, 906; title 7 sections 2009aa–1, 2009bb–1; title 18 section 207; title 20 section 1018; title 21 sections 379h, 379j, 379j–12; title 22 sections 3974, 4046, 4071d; title 28 section 594; title 35 section 3; title 40 section 14306; title 49 section 1113.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>1</sup></i><i> So in original. Probably should be “or (vi)”.</i>
 

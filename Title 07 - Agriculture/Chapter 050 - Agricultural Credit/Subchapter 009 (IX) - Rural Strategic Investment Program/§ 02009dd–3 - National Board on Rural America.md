@@ -70,7 +70,7 @@
 
 #### (B) Other members
 
-&emsp;&emsp;In consultation with the chairman and ranking member of each of the Committeeon Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Secretary may appoint not more than 3 other officers or employees of the Executive Branch to serve as ex-officio, non-voting members of the National Board.
+&emsp;&emsp;In consultation with the chairman and ranking member of each of the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Secretary may appoint not more than 3 other officers or employees of the Executive Branch to serve as ex-officio, non-voting members of the National Board.
 
 #### (6) Vacancies
 
@@ -153,10 +153,6 @@ The National Board shall—
 #### References in Text
 
 Section 6406(1) of the Farm Security and Rural Investment Act of 2002, referred to in subsec. (b)(5)(A), is section 6406(1) of Pub. L. 107–171, title VI, May 13, 2002, 116 Stat. 431, which is not classified to the Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009dd–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

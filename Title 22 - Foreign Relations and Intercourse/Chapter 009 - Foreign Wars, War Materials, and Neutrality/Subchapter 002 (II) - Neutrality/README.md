@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—NEUTRALITY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 613, 2393 of this title; title 46 App. section 1242a.
-
 
 ---
 

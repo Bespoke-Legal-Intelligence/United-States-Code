@@ -32,7 +32,3 @@ Act Mar. 3, 1927, cited as a credit to this section, was repealed by Pub. L. 89â
 
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 277c, 277d of this title.
-

@@ -78,7 +78,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (1) Milestone demonstration
 
-&emsp;By March 31, 1996, each State in which all or part of a Serious Area is located shall submit to the Administrator a demonstration that the area has achieved a reduction in emissions of CO equivalent to the total of the specific annual emission reductions required by December 31, 1995. Such reductions shall be referred to in this subsection as the milestone.
+&emsp;By March 31, 1996, each State in which all or part of a Serious Area is located shall submit to the Administrator a demonstration that thearea has achieved a reduction in emissions of CO equivalent to the total of the specific annual emission reductions required by December 31, 1995. Such reductions shall be referred to in this subsection as the milestone.
 
 #### (2) Adequacy of demonstration
 
@@ -111,8 +111,4 @@ If the Administrator determines under section 7512(b)(2) of this title that the 
 #### Moratorium on Certain Emissions Testing Requirements
 
 For provisions prohibiting Administrator of Environmental Protection Agency from requiring adoption or implementation by State of test-only I/M240 enhanced vehicle inspection and maintenance program as means of compliance with this section, with further provisions relating to plan disapproval and emissions reduction credits, see section 348 of Pub. L. 104–59, set out as a note under section 7511a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7504, 7506, 7512 of this title.
 

@@ -28,7 +28,7 @@ Sec. 2. <i>Definitions.</i>
 
 2–203. The Attorney General is authorized to make a final determination as to whether a program falls within the scope of education and training programs and activities covered by this order, under subsection 2–202, or is excluded from coverage, under section 3.
 
-2–204. “Military education or training programs” are those education and training programs conducted by the Department of Defense or, where the Coast Guardis concerned, the Department of Transportation, for the primary purpose of educating or training members of the armed forces or meeting a statutory requirement to educate or train Federal, State, or local civilian law enforcement officials pursuant to 10 U.S.C. Chapter 18.
+2–204. “Military education or training programs” are those education and training programs conducted by the Department of Defense or, where the Coast Guard is concerned, the Department of Transportation, for the primary purpose of educating or training members of the armed forces or meeting a statutory requirement to educate or train Federal, State, or local civilian law enforcement officials pursuant to 10 U.S.C. Chapter 18.
 
 2–205. “Armed Forces” means the Armed Forces of the United States.
 
@@ -66,7 +66,7 @@ Sec. 4. <i>Administrative enforcement.</i>
 
 4–401. Any person who believes himself or herself to be aggrieved by a violation of this order or its implementing regulations, rules, policies, or guidance may, personally or through a representative, file a written complaint with the agency that such person believes is in violation of this order or its implementing regulations, rules, policies, or guidance. Pursuant to procedures to be established by the Attorney General, each executive department or agency shall conduct an investigation of any complaint by one of its employees alleging a violation of this Executive Order.
 
-4–402. (a) If the office within an executive department or agency that is designated to investigate complaints for violations of this order or its implementing rules, regulations, policies, or guidance concludes that an employee has not complied with this order or any of its implementing rules, regulations, policies, or guidance, such office shall complete a report and refer a copy of the report and any relevant findings or supporting evidence to an appropriate agency official. The appropriate agency official shall review such material and determine what, if any, disciplinary action is appropriate.
+4–402. (a) If the office within an executive department or agency that is designated to investigate complaints for violations of this order or its implementing rules, regulations, policies, or guidance concludes that an employee has not complied with this order or any of its implementing rules, regulations, policies, or guidance,such office shall complete a report and refer a copy of the report and any relevant findings or supporting evidence to an appropriate agency official. The appropriate agency official shall review such material and determine what, if any, disciplinary action is appropriate.
 
 (b) In addition, the designated investigating office may provide appropriate agency officials with a recommendation for any corrective and/or remedial action. The appropriate officials shall consider such recommendation and implement corrective and/or remedial action by the agency, when appropriate. Nothing in this order authorizes monetary relief to the complainant as a form of remedial or corrective action by an executive department or agency.
 
@@ -100,7 +100,7 @@ Sec. 5. <i>Implementation and Agency Responsibilities.</i>
 
 Sec. 6. <i>Reporting Requirements.</i>
 
-6–601. Consistent with the regulations, rules, policies, or guidance issued by the Attorney General, each executive department and agency shall submit to the Attorney General a report that summarizes the number and nature of complaints filed with the agency and the disposition of such complaints. For the first 3 years after the date of this order, such reports shall be submitted annually within 90 days of the end of the precedingyear's activities. Subsequent reports shall be submitted every 3 years and within 90 days of the end of each 3-year period.
+6–601. Consistent with the regulations, rules, policies, or guidance issued by the Attorney General, each executive department and agency shall submit to the Attorney General a report that summarizes the number and nature of complaints filed with the agency and the disposition of such complaints. For the first 3 years after the date of this order, such reports shall be submitted annually within 90 days of the end of the preceding year's activities. Subsequent reports shall be submitted every 3 years and within 90 days of the end of each 3-year period.
 
 Sec. 7. <i>General Provisions.</i>
 
@@ -111,8 +111,4 @@ Sec. 8. <i>Judicial Review.</i>
 8–801. This order is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees. This order is not intended, however, to preclude judicial review of final decisions in accordance with the Administrative Procedure Act, 5 U.S.C. 701, <i>et seq.</i>
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2000d–1 of this title; title 39 section 410.
 

@@ -1,8 +1,8 @@
 ### §596. Authorization of appropriations
 
-There are authorized to be appropriated to carry out the purposes of this subchapter not more than $2,000,000 for fiscal year 1990, $2,100,000 for fiscal year 1991, $2,200,000 for fiscal year 1992, $2,300,000 for fiscal year 1993, and $2,400,000 for fiscal year 1994. Of any amounts appropriated under this section, not more than $1,500 may be made available in each fiscal year for official representation and entertainment expenses for foreign dignitaries.
+There are authorized to be appropriated to carry out this subchapter not more than $3,000,000 for fiscal year 2005, $3,100,000 for fiscal year 2006, and $3,200,000 for fiscal year 2007. Of any amounts appropriated under this section, not more than $2,500 may be made available in each fiscal year for official representation and entertainment expenses for foreign dignitaries.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 391, §576; Pub. L. 91–164, Dec. 24, 1969, 83 Stat. 446; Pub. L. 92–526, §2, Oct. 21, 1972, 86 Stat. 1048; Pub. L. 95–293, §1(a), June 13, 1978, 92 Stat. 317; Pub. L. 97–330, Oct. 15, 1982, 96 Stat. 1618; Pub. L. 99–470, §2(a), Oct. 14, 1986, 100 Stat. 1198; Pub. L. 101–422, §1, Oct. 12, 1990, 104 Stat. 910; renumbered §596, Pub. L. 102–354, §2(2), Aug. 26, 1992, 106 Stat. 944.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 391, §576; Pub. L. 91–164, Dec. 24, 1969, 83 Stat. 446; Pub. L. 92–526, §2, Oct. 21, 1972, 86 Stat. 1048; Pub. L. 95–293, §1(a), June 13, 1978, 92 Stat. 317; Pub. L. 97–330, Oct. 15, 1982, 96 Stat. 1618; Pub. L. 99–470, §2(a), Oct. 14, 1986, 100 Stat. 1198; Pub. L. 101–422, §1, Oct. 12, 1990, 104 Stat. 910; renumbered §596, Pub. L. 102–354, §2(2), Aug. 26, 1992, 106 Stat. 944; Pub. L. 108–401, §3, Oct. 30, 2004, 118 Stat. 2255.)
 
 Historical and Revision Notes
 
@@ -23,6 +23,8 @@ The word “hereby” is omitted as unnecessary.
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+2004—Pub. L. 108–401 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out the purposes of this subchapter not more than $2,000,000 for fiscal year 1990, $2,100,000 for fiscal year 1991, $2,200,000 for fiscal year 1992, $2,300,000 for fiscal year 1993, and $2,400,000 for fiscal year 1994. Of any amounts appropriated under this section, not more than $1,500 may be made available in each fiscal year for official representation and entertainment expenses for foreign dignitaries.”
 
 1992—Pub. L. 102–354 renumbered section 576 of this title as this section.
 

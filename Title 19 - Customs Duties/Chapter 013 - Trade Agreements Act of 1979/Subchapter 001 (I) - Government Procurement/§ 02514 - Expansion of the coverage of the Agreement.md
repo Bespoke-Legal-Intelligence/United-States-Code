@@ -2,7 +2,7 @@
 
 #### (a) Overall negotiating objective
 
-The President shall seek in the renegotiations provided for in article XXIV(7) of the Agreement more open and equitable market access abroad, and the harmonization, reduction, or elimination of devices which distort trade or commerce related to Government procurement, with the overall goal of maximizing the economic benefit to the United States through maintaining and enlarging foreign markets for productsof United States agriculture, industry, mining, and commerce, the development of fair and equitable market opportunities, and open and nondiscriminatory world trade. In carrying out the provisions of this subsection, the President shall consider the assessment made in the report required under section 2516(a) <sup>1</sup> of this title.
+The President shall seek in the renegotiations provided for in article XXIV(7) of the Agreement more open and equitable market access abroad, and the harmonization, reduction, or elimination of devices which distort trade or commerce related to Government procurement, with the overall goal of maximizing the economic benefit to the United States through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, the development of fair and equitable market opportunities, and open and nondiscriminatory world trade. In carrying out the provisions of this subsection, the President shall consider the assessment made in the report required under section 2516(a) <sup>1</sup> of this title.
 
 #### (b) Sector negotiating objectives
 
@@ -61,10 +61,6 @@ Functions of President under this section delegated to United States Trade Repre
 #### Agreement on Government Procurement: Entry Into Force
 
 The Agreement on Government Procurement, as referred to in section 3511(d)(17) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2512 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

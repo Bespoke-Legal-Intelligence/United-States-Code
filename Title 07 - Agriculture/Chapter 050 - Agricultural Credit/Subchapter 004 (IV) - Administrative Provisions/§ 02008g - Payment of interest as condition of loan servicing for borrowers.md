@@ -1,6 +1,6 @@
 ### §2008g. Payment of interest as condition of loan servicing for borrowers
 
-The Secretary may not reschedule or reamortize a loan for a borrower under this chapter who has not requested consideration under section 1981d(e) of this title unless the borrower pays a portion, as determined by the Secretary, of the interest due on the loan.
+The Secretary may not reschedule or reamortize a loan for a borrower under this chapterwho has not requested consideration under section 1981d(e) of this title unless the borrower pays a portion, as determined by the Secretary, of the interest due on the loan.
 
 (Pub. L. 87–128, title III, §372, as added Pub. L. 104–127, title VI, §648(a), Apr. 4, 1996, 110 Stat. 1104.)
 

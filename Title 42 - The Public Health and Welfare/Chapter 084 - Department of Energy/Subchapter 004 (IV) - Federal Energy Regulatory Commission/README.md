@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—FEDERAL ENERGY REGULATORY COMMISSION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 7134, 7136, 7151, 7298, 7301, 7341 of this title.
-
 
 ---
 

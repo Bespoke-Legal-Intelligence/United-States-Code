@@ -8,7 +8,7 @@
 
 (d) The acceptance of severance pay under this section does not deprive a person of any retirement benefits from the United States. However, there shall be deducted from each of his retirement payments so much thereof as is based on the service for which he has received severance pay under this section, until the total deductions equal the amount of such severance pay.
 
-(Added Pub. L. 96–513, title V, §505(a)(1), Dec. 12, 1980, 94 Stat. 2918; amended Pub. L. 102–190, div. A, title XI, §1125(b)(1), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title V, §541(f)(2), Oct. 5, 1994, 108 Stat. 2766; Pub. L. 105–383, title II, §201(a), (b), Nov. 13, 1998, 112 Stat. 3414; Pub. L. 107–295, title IV, §416(a)(4), Nov. 25, 2002, 116 Stat. 2121.)
+(Added Pub. L. 96–513, title V, §505(a)(1), Dec. 12, 1980, 94 Stat. 2918; amended Pub. L. 102–190, div.A, title XI, §1125(b)(1), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title V, §541(f)(2), Oct. 5, 1994, 108 Stat. 2766; Pub. L. 105–383, title II, §201(a), (b), Nov. 13, 1998, 112 Stat. 3414; Pub. L. 107–295, title IV, §416(a)(4), Nov. 25, 2002, 116 Stat. 2121.)
 
 #### Amendment of Section
 
@@ -53,8 +53,4 @@ Section effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out a
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513, and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of Title 10, Armed Forces.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 580, 1166.
 

@@ -10,7 +10,7 @@
 
 &emsp;(2) the expiration of 120 days after appointment by the Attorney General under this section.
 
-(d) If an appointment expires under subsection (c)(2), the district court for such district mayappoint a United States attorney to serve until the vacancy is filled. The order of appointment by the court shall be filed with the clerk of the court.
+(d) If an appointment expires under subsection (c)(2), the district court for such district may appoint a United States attorney to serve untilthe vacancy is filled. The order of appointment by the court shall be filed with the clerk of the court.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 99–646, §69, Nov. 10, 1986, 100 Stat. 3616.)
 

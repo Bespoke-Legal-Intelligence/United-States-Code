@@ -132,7 +132,3 @@ Sec. 1002.
 
 Use of Quotas Prohibited.—Nothing in this title shall permit or require the use of quotas or a requirement that has the effect of a quota in determining eligibility under section 1001.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7405, 7410, 7602 of this title.
-

@@ -4,7 +4,3 @@ The United States Special Resources will be provided to the Bank in the form of 
 
 (Pub. L. 89–369, §15, as added Pub. L. 92–245, §1, Mar. 10, 1972, 86 Stat. 58.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 285k of this title.
-

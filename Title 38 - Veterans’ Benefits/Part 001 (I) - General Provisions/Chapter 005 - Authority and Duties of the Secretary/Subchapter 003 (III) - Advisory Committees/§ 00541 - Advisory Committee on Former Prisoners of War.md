@@ -16,7 +16,7 @@
 
 (b) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits under this title for veterans who are former prisoners of war and the needs of such veterans with respect to compensation, health care, and rehabilitation.
 
-(c)(1) Not later than July 1 of each odd-numbered year through 2003, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to veterans who are former prisoners of war. Each such report shall include—
+(c)(1) Not later than July 1 of each odd-numbered year through 2009, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to veterans who are former prisoners of war. Each such report shall include—
 
 &emsp;(A) an assessment of the needs of such veterans with respect to compensation, health care, and rehabilitation;
 
@@ -30,7 +30,7 @@
 
 (4) The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted to the Congress pursuant to that section.
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 392; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–419, title IV, §403(c)(2), Nov. 1, 2000, 114 Stat. 1864.)
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 392; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–419, title IV, §403(c)(2), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 108–454, title VIII, §803, Dec. 10, 2004, 118 Stat. 3626.)
 
 #### Prior Provisions
 
@@ -39,6 +39,8 @@ Prior section 541 was renumbered section 1541 of this title.
 Provisions similar to those in this section were contained in section 221 of this title prior to repeal by Pub. L. 102–83, §2(a).
 
 #### Amendments
+
+2004—Subsec. (c)(1). Pub. L. 108–454 substituted “2009” for “2003”.
 
 2000—Subsec. (c)(1). Pub. L. 106–419 inserted “through 2003” after “each odd-numbered year” in introductory provisions.
 

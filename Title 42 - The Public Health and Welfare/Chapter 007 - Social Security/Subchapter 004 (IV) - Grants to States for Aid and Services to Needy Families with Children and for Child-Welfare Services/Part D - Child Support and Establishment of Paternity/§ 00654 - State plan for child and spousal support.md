@@ -40,9 +40,9 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;&emsp;(ii) at the option of the State, from the individual to whom such services are made available, but only if such State has in effect a procedure whereby all persons in such State having authority to order child or spousal support are informed that such costs are to be collected from the individual to whom such services were made available;
 
-&emsp;(7) provide for entering into cooperative arrangements with appropriate courts and law enforcement officials and Indian tribes or tribal organizations (as defined in subsections (e)and (<i>l</i>) of section 450b of title 25) (A) to assist the agency administering the plan, including the entering into of financial arrangements with such courts and officials in order to assure optimum results under such program, and (B) with respect to any other matters of common concern to such courts or officials and the agency administering the plan;
+&emsp;(7) provide for entering into cooperative arrangements with appropriate courts and law enforcement officials and Indian tribes or tribal organizations (as defined in subsections (e) and (<i>l</i>) of section 450b of title 25) (A) to assist the agency administering the plan, including the entering into of financial arrangements with such courts and officials in order to assure optimum results under such program, and (B) with respect to any other matters of common concern to such courts or officials and the agency administering the plan;
 
-&emsp;(8) provide that, for the purpose of establishing parentage, establishing, setting the amount of, modifying, or enforcing child support obligations, or making or enforcing a child custody or visitation determination, as defined in section 663(d)(1) of this title the agency administering the plan will establish a service to locate parents utilizing—
+&emsp;(8) provide that, for the purpose of establishing parentage, establishing, setting theamount of, modifying, or enforcing child support obligations, or making or enforcing a child custody or visitation determination, as defined in section 663(d)(1) of this title the agency administering the plan will establish a service to locate parents utilizing—
 
 &emsp;&emsp;(A) all sources of information and available records; and
 
@@ -86,9 +86,9 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;(B) a process of extracting from the automated data processing system required by paragraph (16) and transmitting to the Secretary data and calculations concerning the levels of accomplishment (and rates of improvement) with respect to applicable performance indicators (including paternity establishment percentages) to the extent necessary for purposes of sections 652(g) and 658a of this title;
 
-&emsp;(16) provide for the establishment and operation by the State agency, in accordance with an (initial and annually updated) advance automated data processing planning document approved under section 652(d) of this title, of a statewide automated data processing and information retrieval system meeting the requirements of section 654a of this title designed effectively and efficiently to assistmanagement in the administration of the State plan, so as to control, account for, and monitor all the factors in the support enforcement collection and paternity determination process under such plan;
+&emsp;(16) provide for the establishment and operation by the State agency, in accordance with an (initial and annually updated) advance automated data processing planning document approved under section 652(d) of this title, of a statewide automated data processing and information retrieval system meeting the requirements of section 654a of this title designed effectively and efficiently to assist management in the administration of the State plan, so as to control, account for, and monitor all the factors in the support enforcement collection and paternity determination process under such plan;
 
-&emsp;(17) provide that the State will have in effect an agreement with the Secretary entered into pursuant to section 663 of this title for the use of the Parent Locator Service established under section 653 of this title, and provide that the State will accept and transmit to the Secretary requests for information authorized under the provisions of the agreement to be furnished by such Service to authorized persons, will impose and collect (in accordance with regulations of the Secretary) a fee sufficient to cover the costs to the State and to the Secretary incurred by reason of such requests, will transmit to the Secretary from time to time (in accordance with such regulations) so much of the fees collected as are attributable to such costs to the Secretary so incurred, and during the period that such agreement is in effect will otherwise comply with such agreement and regulations of the Secretary with respect thereto;
+&emsp;(17) provide that the State will have in effect an agreement with the Secretary entered into pursuant to section 663 of this title for the use of the Parent Locator Service established under section 653 of this title, and provide thatthe State will accept and transmit to the Secretary requests for information authorized under the provisions of the agreement to be furnished by such Service to authorized persons, will impose and collect (in accordance with regulations of the Secretary) a fee sufficient to cover the costs to the State and to the Secretary incurred by reason of such requests, will transmit to the Secretary from time to time (in accordance with such regulations) so much of the fees collected as are attributable to such costs to the Secretary so incurred, and during the period that such agreement is in effect will otherwise comply with such agreement and regulations of the Secretary with respect thereto;
 
 &emsp;(18) provide that the State has in effect procedures necessary to obtain payment of past-due support from overpayments made to the Secretary of the Treasury as set forth in section 664 of this title, and take all steps necessary to implement and utilize such procedures;
 
@@ -278,7 +278,7 @@ Par. (7). Pub. L. 104–193, §375(c), inserted “and Indian tribes or tribal o
 
 Par. (8). Pub. L. 104–193, §395(d)(1)(D), substituted “noncustodial” for “absent” in introductory provisions.
 
-Par. (8)(B). Pub. L. 104–193, §316(g)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the Parent Locator Service in the Department of Health and Human Services;”.
+Par. (8)(B). Pub. L. 104–193, §316(g)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “the Parent Locator Service in the Department of Health and Human Services;”.
 
 Par. (9)(B), (C). Pub. L. 104–193, §395(d)(2)(B), substituted “a noncustodial parent” for “an absent parent”.
 
@@ -438,7 +438,7 @@ Section 303(b) of Pub. L. 104–193 provided that: “The amendment made by subs
 
 Section 304(b) of Pub. L. 104–193 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on October 1, 1997.”
 
-Amendment by section 312(a) of Pub. L. 104–193 effective Oct. 1, 1998, with limited exception for States which, as of Aug. 22, 1996, were processing the receipt of child support payments through local courts, see section 312(d) of Pub. L. 104–193, set out as an Effective Date note under section 654b of this title.
+Amendment by section 312(a) of Pub. L. 104–193 effective Oct. 1, 1998, with limited exception for States which, as of Aug. 22, 1996, were processing the receipt ofchild support payments through local courts, see section 312(d) of Pub. L. 104–193, set out as an Effective Date note under section 654b of this title.
 
 Amendment by section 342(a) of Pub. L. 104–193 effective with respect to calendar quarters beginning 12 months or more after Aug. 22, 1996, see section 342(c) of Pub. L. 104–193, set out as a note under section 652 of this title.
 
@@ -559,8 +559,4 @@ Section 15 of Pub. L. 98–378 provided that:
 #### Delayed Effective Date in Cases Requiring State Legislation
 
 Section 176 of Pub. L. 97–248 provided that: “In the case of a State with respect to which the Secretary of Health and Human Services has determined that State legislation is required in order to conform the State plan approved under part D of title IV of the Social Security Act \[this part\] to the requirements imposed by any amendment made by this subtitle \[subtitle E (§§171–176) of title I of Pub. L. 97–248, see Tables for classification\], the State plan shall not be regarded as failing to comply with the requirements of such part solely by reason of its failure to meet the requirements imposed by such amendment prior to the end of the first session of the State legislature which begins after October 1, 1982, or which began prior to October 1, 1982, and remained in session for at least twenty-five calendar days after such date. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 503, 608, 609, 652, 653, 654b, 655, 657, 658a, 663, 664, 666, 1315, 1396k of this title; title 26 section 6103.
 

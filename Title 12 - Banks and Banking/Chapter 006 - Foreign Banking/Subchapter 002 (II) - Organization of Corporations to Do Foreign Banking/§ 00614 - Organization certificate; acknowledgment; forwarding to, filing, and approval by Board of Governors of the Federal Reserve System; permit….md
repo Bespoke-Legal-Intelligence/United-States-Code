@@ -16,7 +16,3 @@ Section is comprised of a part of section 25A, formerly section 25(a), which was
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 615 of this title.
-

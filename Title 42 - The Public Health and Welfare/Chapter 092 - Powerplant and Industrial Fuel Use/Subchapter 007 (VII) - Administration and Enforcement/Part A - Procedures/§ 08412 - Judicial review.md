@@ -20,7 +20,3 @@ Any final order issued by the Secretary denying any petition for an exemption or
 
 (Pub. L. 95–620, title VII, §702, Nov. 9, 1978, 92 Stat. 3331.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8343, 8411 of this title.
-

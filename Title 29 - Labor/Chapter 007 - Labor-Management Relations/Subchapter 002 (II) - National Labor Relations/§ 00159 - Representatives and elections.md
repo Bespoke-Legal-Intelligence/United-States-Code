@@ -64,7 +64,3 @@ For effective date of amendment by act June 23, 1947, see section 104 of act Jun
 
 Section 103 of title I of act June 23, 1947, provided that: “No provisions of this title \[amending this subchapter\] shall affect any certification of representatives or any determination as to the appropriate collective-bargaining unit, which was made under section 9 of the National Labor Relations Act \[this section\] prior to the effective date of this title \[sixty days after June 23, 1947\] until one year after the date of such certification or if, in respect of any such certification, a collective-bargaining contract was entered into prior to the effective date of this title \[sixty days after June 23, 1947\], until the end of the contract period or until one year after such date, whichever first occurs.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 153, 158, 161, 168, 1403, 2101 of this title; title 18 section 1951.
-

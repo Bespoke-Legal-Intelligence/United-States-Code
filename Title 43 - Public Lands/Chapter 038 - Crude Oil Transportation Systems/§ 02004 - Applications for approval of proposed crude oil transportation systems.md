@@ -10,7 +10,3 @@ The following applications for construction and operation of a crude oil transpo
 
 (Pub. L. 95–617, title V, §504, Nov. 9, 1978, 92 Stat. 3158.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2005, 2006 of this title.
-

@@ -6,7 +6,7 @@ Nothing in this part shall be construed to limit or reduce in any way the servic
 
 #### (b) Federal trust responsibilities
 
-Nothing in this subchapter shall be construed to diminish the Federal trust responsibility toIndian tribes, individual Indians, or Indians with trust allotments.
+Nothing in this subchapter shall be construed to diminish the Federal trust responsibility to Indian tribes, individual Indians, or Indians with trust allotments.
 
 #### (c) Application of other sections of subchapter
 

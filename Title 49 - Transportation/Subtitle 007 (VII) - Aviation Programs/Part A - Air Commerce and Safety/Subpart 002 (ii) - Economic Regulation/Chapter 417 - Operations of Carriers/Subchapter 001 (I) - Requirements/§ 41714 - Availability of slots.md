@@ -6,7 +6,7 @@ Making Slots Available for Essential Air Service.—
 
 &emsp;(1)
 
-Operational authority.—If basic essential air service under subchapter II of this chapter is to be provided from an eligible point to a high density airport (other than Ronald Reagan Washington National Airport), the Secretary of Transportation shall ensure that the air carrier providing or selected to provide such service has sufficient operational authority at the high density airport to provide such service. The operational authority shall allow flights at reasonable times taking into account the needs of passengers with connecting flights.
+Operational authority.—If basic essential air service under subchapter II of this chapter is to be provided from an eligible point to a high density airport (other than Ronald Reagan Washington National Airport), the Secretary of Transportation shall ensure that the air carrier providing or selected toprovide such service has sufficient operational authority at the high density airport to provide such service. The operational authority shall allow flights at reasonable times taking into account the needs of passengers with connecting flights.
 
 &emsp;(2)
 
@@ -42,7 +42,7 @@ Conversions of slots.—Effective May 1, 2000, slots at Chicago O'Hare Internati
 
 (c)
 
-Slots for New Entrants.—If the Secretary finds it to be in the public interest, theSecretary may by order grant exemptions from the requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), to enable new entrant air carriers to provide air transportation at high density airports (other than Ronald Reagan Washington National Airport).
+Slots for New Entrants.—If the Secretary finds it to be in the public interest, the Secretary may by order grant exemptions from the requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), to enable new entrant air carriers to provide air transportation at high density airports (other than Ronald Reagan Washington National Airport).
 
 (d)
 
@@ -245,8 +245,4 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Return of Withdrawn Slots
 
 Pub. L. 106–181, title II, §231(d)(5), Apr. 5, 2000, 114 Stat. 112, provided that: “The Secretary \[of Transportation\] shall return any slot withdrawn from an air carrier under section 41714(b) of title 49, United States Code, before the date of the enactment of this Act \[Apr. 5, 2000\], to that carrier on April 30, 2000.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40109, 41715, 41716, 41717, 41718, 46301 of this title.
 

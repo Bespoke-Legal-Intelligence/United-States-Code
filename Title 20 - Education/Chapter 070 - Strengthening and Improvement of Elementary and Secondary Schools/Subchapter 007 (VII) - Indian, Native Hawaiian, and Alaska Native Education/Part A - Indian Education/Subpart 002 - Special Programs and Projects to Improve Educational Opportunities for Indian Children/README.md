@@ -1,9 +1,5 @@
 subpart 2—special programs and projects to improve educational opportunities for indian children
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 7472, 7473, 7474, 7492 of this title.
-
 
 ---
 

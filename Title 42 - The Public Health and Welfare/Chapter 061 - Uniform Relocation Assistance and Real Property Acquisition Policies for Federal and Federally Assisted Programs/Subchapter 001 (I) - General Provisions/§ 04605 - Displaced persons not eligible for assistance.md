@@ -32,7 +32,3 @@ Nothing in this section affects any right available to a displaced person under 
 
 (Pub. L. 91–646, title I, §104, as added Pub. L. 105–117, §1, Nov. 21, 1997, 111 Stat. 2384.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4633 of this title.
-

@@ -79,10 +79,6 @@ Pub. L. 90–384, §1(b), July 5, 1968, 82 Stat. 292, struck out item 1727 “Po
 
 1960—Pub. L. 86–682, §8, Sept. 2, 1960, 74 Stat. 706, added items 1733 and 1734.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 39 sections 1008, 3001.
-
 
 ---
 

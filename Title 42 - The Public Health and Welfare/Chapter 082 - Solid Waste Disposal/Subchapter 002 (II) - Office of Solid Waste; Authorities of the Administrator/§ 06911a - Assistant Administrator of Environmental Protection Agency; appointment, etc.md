@@ -22,7 +22,3 @@ Section was enacted as part of the Comprehensive Environmental Response, Compens
 
 Section effective Dec. 11, 1980, see section 9652 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4370a of this title.
-

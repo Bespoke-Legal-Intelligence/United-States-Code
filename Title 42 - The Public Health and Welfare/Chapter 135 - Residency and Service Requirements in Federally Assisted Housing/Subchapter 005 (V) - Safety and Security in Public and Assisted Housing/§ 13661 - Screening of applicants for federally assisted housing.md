@@ -2,7 +2,7 @@
 
 #### (a) Ineligibility because of eviction for drug crimes
 
-Any tenant evicted from federally assisted housing by reason of drug-related criminal activity (as such term is defined in section 1437a(b) of this title) shall not be eligible for federally assisted housing during the 3-year period beginning on the date of such eviction, unless theevicted tenant successfully completes a rehabilitation program approved by the public housing agency (which shall include a waiver of this subsection if the circumstances leading to eviction no longer exist).
+Any tenant evicted from federally assisted housing by reason of drug-related criminal activity (as such term is defined in section 1437a(b) of this title) shall not be eligible for federally assisted housing during the 3-year period beginning on the date of such eviction, unless the evicted tenant successfully completes a rehabilitation program approved by the public housing agency (which shall include a waiver of this subsection if the circumstances leading to eviction no longer exist).
 
 #### (b) Ineligibility of illegal drug users and alcohol abusers
 
@@ -43,8 +43,4 @@ Section is comprised of section 576 of Pub. L. 105–276. Subsec. (d) of section
 #### Effective Date
 
 Subchapter effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement any provision of subchapter before such date, except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1437d of this title.
 

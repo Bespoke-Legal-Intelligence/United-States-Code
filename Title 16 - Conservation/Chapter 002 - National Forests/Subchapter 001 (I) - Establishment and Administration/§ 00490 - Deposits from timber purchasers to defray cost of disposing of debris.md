@@ -8,7 +8,3 @@ Purchasers of national-forest timber may be required by the Secretary of Agricul
 
 1950—Act Apr. 24, 1950, covered excess deposits into miscellaneous receipts instead of returning them to the depositors as was formerly the practice.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 580k of this title.
-

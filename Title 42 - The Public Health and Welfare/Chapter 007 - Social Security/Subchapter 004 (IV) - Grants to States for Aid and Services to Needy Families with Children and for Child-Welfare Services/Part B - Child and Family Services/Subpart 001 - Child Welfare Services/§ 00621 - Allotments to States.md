@@ -28,7 +28,3 @@ For purposes of this section, the term “United States” means the fifty State
 
 Section 9135(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 1301 and 1397b of this title\] shall apply with respect to fiscal years beginning on or after October 1, 1988.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 624, 628, 629c, 629g of this title.
-

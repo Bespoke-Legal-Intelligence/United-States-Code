@@ -36,7 +36,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 #### (1) In general
 
-&emsp;Promptly after June 12, 2002, the Secretary of Agriculture and the Secretary of Health and Human Services shall enter into a memorandum of understanding regarding overlap agents and toxins that is in accordance with paragraphs (2) through (4) and contains such additional provisions as the Secretary of Agriculture and the Secretary of Health and Human Services determine to be appropriate.
+&emsp;Promptly after June 12, 2002, the Secretary of Agriculture and the Secretary of Health and Human Services shall enter into a memorandum of understanding regarding overlap agents and toxins that is in accordance withparagraphs (2) through (4) and contains such additional provisions as the Secretary of Agriculture and the Secretary of Health and Human Services determine to be appropriate.
 
 #### (2) Single registration system regarding registered persons
 
@@ -64,7 +64,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 &emsp;&emsp;(B) A procedure for the sharing by both of such agencies of information received from the Attorney General by one of such agencies pursuant to the submission under subparagraph (A).
 
-&emsp;&emsp;(C) A procedure through which the agencies administering such programs concur indeterminations that access to overlap agents and toxins will be granted.
+&emsp;&emsp;(C) A procedure through which the agencies administering such programs concur in determinations that access to overlap agents and toxins will be granted.
 
 #### (4) Coordination of inspections and enforcement
 
@@ -79,6 +79,4 @@ In carrying out the section 351A program and the section 212 program, the Secret
 Not later than 18 months after the date on which the single system of registration under subsection (c)(2) of this section is implemented, the Secretary of Health and Human Services and the Secretary of Agriculture shall jointly issue regulations for the possession, use, and transfer of overlap agents and toxins that meet the requirements of both the section 351A program and the section 212 program.
 
 (Pub. L. 107–188, title II, §221, June 12, 2002, 116 Stat. 657.)
-
-<i><sup>1</sup></i><i> So in original. Probably should be “351A(a)(1)”.</i>
 

@@ -6,7 +6,7 @@ No later than August 31, 1968, the President shall submit to the Senate and the 
 
 #### (b) Report on increase on Canadian value added
 
-Whenever the President finds that any manufacturer has entered into any undertaking, byreason of governmental action, to increase the Canadian value added of automobiles, buses, specified commercial vehicles, or original equipment parts produced by such manufacturer in Canada after August 31, 1968, he shall report such finding to the Senate and the House of Representatives. The President shall also report whether such undertaking is additional to undertakings agreed to in letters of undertaking submitted by such manufacturer before October 21, 1965.
+Whenever the President finds that any manufacturer has entered into any undertaking, by reason of governmental action, to increase the Canadian value added of automobiles, buses, specified commercial vehicles, or original equipment parts produced by such manufacturer in Canada after August 31, 1968, he shall report such finding to the Senate and the House of Representatives. The President shall also report whether such undertaking is additional to undertakings agreed to in letters of undertaking submitted by such manufacturer before October 21, 1965.
 
 #### (c) Recommendations
 

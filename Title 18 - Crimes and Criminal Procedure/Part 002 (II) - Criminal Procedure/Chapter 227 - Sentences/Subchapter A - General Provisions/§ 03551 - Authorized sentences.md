@@ -52,7 +52,7 @@ Section 235 of chapter II (§§211–239) of title II of Pub. L. 98–473, as am
 
 &emsp;&emsp;“(I) the United States Sentencing Commission has submitted the initial set of sentencing guidelines to the Congress pursuant to subparagraph (B)(i), along with a report stating the reasons for the Commission's recommendations;
 
-&emsp;&emsp;“(II) the General Accounting Office has undertaken a study of the guidelines, and their potential impact in comparison with the operation of the existing sentencing and parole release system, and has, within one hundred and fifty days of submission of the guidelines, reported to the Congress the results of its study; and
+&emsp;&emsp;“(II) the General Accounting Office \[now Government Accountability Office\] has undertaken a study of the guidelines, and their potential impact in comparison with the operation of the existing sentencing and parole release system, and has, within one hundred and fifty days of submission of the guidelines, reported to the Congress the results of its study; and
 
 &emsp;&emsp;“(III) the day after the Congress has had six months after the date described in subclause (I) in which to examine the guidelines and consider the reports; and
 
@@ -143,12 +143,4 @@ Section 239 of Pub. L. 98–473 provided that:
 &emsp;“(2) the general appropriateness of imposing a sentence other than imprisonment in cases in which the defendant has not been convicted of a crime of violence or otherwise serious offense; and
 
 &emsp;“(3) the general appropriateness of imposing a sentence of imprisonment in cases in which the defendant has been convicted of a crime of violence or otherwise serious offense.”
-
-#### Act Referred to in Other Sections
-
-The Sentencing Reform Act of 1984 is referred to in title 16 section 460ddd.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3554, 3555, 3557, 3558 of this title.
 

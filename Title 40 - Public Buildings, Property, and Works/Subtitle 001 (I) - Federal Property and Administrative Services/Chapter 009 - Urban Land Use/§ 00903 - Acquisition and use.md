@@ -28,7 +28,3 @@ June 30, 1949, ch. 288, title VIII, §804, as added Pub. L. 90–577, title V, �
 
 In subsection (b), the words “and conform to” are omitted as included in “comply with”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 905 of this title.
-

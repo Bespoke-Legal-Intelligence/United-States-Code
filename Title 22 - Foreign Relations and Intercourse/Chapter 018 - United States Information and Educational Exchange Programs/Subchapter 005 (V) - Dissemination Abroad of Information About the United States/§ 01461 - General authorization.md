@@ -44,7 +44,7 @@ Pub. L. 101–246, title II, §233, Feb. 16, 1990, 104 Stat. 57, provided that: 
 
 #### USIA Posts and Personnel Overseas
 
-Pub. L. 100–204, title II, §204, Dec. 22, 1987, 101 Stat. 1373, prohibited use of appropriated funds to pay expenses associated with closing of United States Information Agency posts abroad or to pay expenses associated with Bureau of Management or with television and film service of Agency if an Agency post abroad was closed after Apr. 1, 1987, and not reopened within 180 days after Dec. 22, 1987, placed limitation on reduction of number of positions filled by American employees of Agency stationed abroad, authorized waiver of both prohibition and limitation, and permitted Director, incase of a sequestration order, to submit a report to congressional committees proposing a list of Agency posts to be downgraded or closed in order to comply with sequestration order, prior to repeal by Pub. L. 102–138, title II, §206(c), Oct. 28, 1991, 105 Stat. 693. See section 1475g of this title.
+Pub. L. 100–204, title II, §204, Dec. 22, 1987, 101 Stat. 1373, prohibited use of appropriated funds to pay expenses associated with closing of United States Information Agency posts abroad or to pay expenses associated with Bureau of Management or with television and film service of Agency if an Agency post abroad was closed after Apr. 1, 1987, and not reopened within 180 days after Dec. 22, 1987, placed limitation on reduction of number of positions filled by American employees of Agency stationed abroad, authorized waiver of both prohibition and limitation, and permitted Director, in case of a sequestration order, to submit a report to congressional committees proposing a list of Agency posts to be downgraded or closed in order to comply with sequestration order, prior to repeal by Pub. L. 102–138, title II, §206(c), Oct. 28, 1991, 105 Stat. 693. See section 1475g of this title.
 
 #### Redesignation of International Communication Agency as United States Information Agency
 
@@ -148,7 +148,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (1) the United States Information and Educational Exchange Act of 1948, as amended (22 U.S.C. 1431–1479), except to the extent that any function in sections 302, 401, or 602 \[22 U.S.C. 1452, 1456, or 1467\] is vested in the President;
 
-(2) the Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2451–2458a), except for: (A) such functions as are vested by sections 102(b)(6), 102(b)(10), 104(a), 104(e)(1), 104(e)(2), 104(f), 104(g), 105(a), 105(b), 105(c), 106(a), 108 \[22 U.S.C. 2452(b)(6), (b)(10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a), 2458\]; (B) to the extent that such functions were assigned to the Secretary of Health, Education and Welfare immediately prior to the effective date of this Reorganization Plan, sections 104(b), 105(d)(2), 105(f), 106(d), and 106(f) \[22 U.S.C. 2454(b), 2455(d)(2), (f), 2456(d), (f)\]; and (C) to the extent that any function therein is vested in the President or the Secretary of State, sections 106(b) and 106(c) \[22 U.S.C. 2456(b), (c)\].
+(2) the Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2451–2458a), except for: (A) such functions as are vested by sections 102(b)(6), 102(b)(10), 104(a), 104(e)(1), 104(e)(2), 104(f), 104(g), 105(a), 105(b), 105(c), 106(a), 108 \[22 U.S.C. 2452(b)(6), (b)(10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a), 2458\]; (B) to the extent that such functionswere assigned to the Secretary of Health, Education and Welfare immediately prior to the effective date of this Reorganization Plan, sections 104(b), 105(d)(2), 105(f), 106(d), and 106(f) \[22 U.S.C. 2454(b), 2455(d)(2), (f), 2456(d), (f)\]; and (C) to the extent that any function therein is vested in the President or the Secretary of State, sections 106(b) and 106(c) \[22 U.S.C. 2456(b), (c)\].
 
 (3) Public Law 90–494 (22 U.S.C. \[former\] 929–932, 1221–1234), to the extent that such functions are vested in the Director of the United States Information Agency;
 
@@ -198,7 +198,7 @@ The Commission shall formulate and recommend to the Director, the Secretary of S
 
 (c) The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO. \[As amended Pub. L. 101–246, title II, §204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790.\]
 
-\[Section 6553 of this title provided that the United States Advisory Commission on Public Diplomacy, established under section 8 of Reorganization Plan Numbered 2 of 1977, set out above, was to continue to exist and operate until Oct. 1, 2005.
+\[Section 6553 of this title provided that the United States Advisory Commission on Public Diplomacy, established under section 8 of Reorganization Plan Numbered 2 of 1977, set out above, was to continue to exist and operate until Oct. 1, 2005.\]
 
 \[Any provisions of section 8 of Reorg. Plan No. 2 of 1977 inconsistent with 22 U.S.C. 1469 to no longer have legal effect on Jan. 20, 1989, and prohibition limiting membership of individuals from same political party is repealed, see 22 U.S.C. 1469(d).\]
 
@@ -268,7 +268,7 @@ Thus the new agency will lay heavy emphasis on listening to others, so as to lea
 
 Several principles guided me in shaping this reorganization plan. Among the most important were:
 
-&emsp;—Maintaining the integrity of the educational and cultural exchange programs is imperative. To this end, the plan retains the Board of Foreign Scholarships, whose strong leadership has done so much to insure the high quality of the educational exchange program. In addition, I intend to nominate an Associate Director who will be responsible for the administration and supervision of educational and cultural functions consolidated in the new Agency. The responsibilities presently exercised by the Department of State in relation to the Center for Technical and Cultural Interchange Between East and West, Inc., will be transferred to the new agency without alteration.
+&emsp;—Maintaining the integrity of the educational and cultural exchange programs is imperative. To this end, the plan retains the Board of Foreign Scholarships, whose strong leadership has done so much to insure the high quality of the educational exchange program. In addition, I intend to nominate an Associate Director who will be responsible for the administration and supervision of educational and cultural functions consolidated in the new Agency. The responsibilities presently exercised by the Department of State in relation to the Center for Technical and Cultural Interchange Between Eastand West, Inc., will be transferred to the new agency without alteration.
 
 &emsp;—Keeping the Voice of America's news gathering and reporting functions independent and objective. The Voice's charter, enacted into law in 1976, provides that “VOA news will be accurate, objective, and comprehensive”; that VOA will “present a balanced and comprehensive projection of significant American thought and institutions”; and that VOA will present U.S. policies “clearly and effectively, and will also present responsible discussion and opinion on these policies.” Under this Administration, VOA will be solely responsible for the content of news broadcasts—for there is no more valued coin than candor in the international marketplace of ideas. I also plan to nominate an Associate Director who will be responsible for the administration and supervision of the Voice of America.
 
@@ -312,7 +312,7 @@ Sec. 3. In order to ensure appropriate coordination among the Executive agencies
 
 Sec. 4. The Director of the International Communication Agency, with the assistance of the Secretary of Education, shall prepare and submit to the President the reports which the President is to transmit to the Congress pursuant to Section 108(b) of the Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2458).
 
-Sec. 5. The functions vested in the President by Sections 108(c) and 108(d) of the Mutual Educational and Cultural Exchange Act of 1961, as amended \[22 U.S.C. 2458(c) and (d)\], are delegated to the Director of the International Communication Agency; because, (a) such a delegation is in the interest of the purposes expressed in that Act and the efficient administration of the programs undertaken pursuant thereto, (b) the Director is an appropriate official to perform those functions, and (c) those functions are not now delegated to any other officer of the Government.
+Sec. 5. The functions vested in the President by Sections 108(c) and 108(d) of the Mutual Educational and Cultural Exchange Act of 1961, as amended \[22 U.S.C.2458(c) and (d)\], are delegated to the Director of the International Communication Agency; because, (a) such a delegation is in the interest of the purposes expressed in that Act and the efficient administration of the programs undertaken pursuant thereto, (b) the Director is an appropriate official to perform those functions, and (c) those functions are not now delegated to any other officer of the Government.
 
 Sec. 6. The Director of the International Communication Agency shall be the principal adviser to the President, the National Security Council, and the Secretary of State on international informational, educational, and cultural matters. As such, the Director shall provide advice within the policy formulation activities of the National Security Council when such matters are considered. The Director shall ensure that the senior official of the Agency at each diplomatic mission provides advice to the Chief of Mission on such matters. The scope of the Director's advice shall include assessments of the impact of actual and proposed United States foreign policy decisions on public opinion abroad.
 
@@ -325,10 +325,6 @@ Sec. 9. This Order shall be effective on April 1, 1978.
 Sec. 10. In accord with the name change provisions of Section 303 of Public Law 97–241 \[set out as a note above\] and effective on August 24, 1982, references in this Order to the International Communication Agency shall be deemed to be references to the United States Information Agency.
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1461–1a, 1465bb, 6552 of this title.
 
 <i><sup>1</sup></i><i> Actually transmitted Oct. 12, 1977.</i>
 

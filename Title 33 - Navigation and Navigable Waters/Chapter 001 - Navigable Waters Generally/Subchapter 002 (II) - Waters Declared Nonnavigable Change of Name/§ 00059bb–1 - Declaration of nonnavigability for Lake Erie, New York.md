@@ -6,13 +6,13 @@ Unless the Secretary finds, after consultation with local and regional public of
 
 #### (b) Boundaries
 
-The portion of Erie County, New York, referred to in subsection (a) of this section is all that tract or parcel of land, situated in the town of Hamburg and the city of Lackawanna, ErieCounty, New York, being part of Lots 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, and 25 of the Ogden Gore Tract and part of Lots 23, 24, and 36 of the Buffalo Creek Reservation, Township 10, Range 8 of the Holland Land Company's Survey and more particularly bounded and described as follows:
+The portion of Erie County, New York, referred to in subsection (a) of this section is all that tract or parcel of land, situated in the town of Hamburg and the city of Lackawanna, Erie County, New York, being part of Lots 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, and 25 of the Ogden Gore Tract and part of Lots 23, 24, and 36 of the Buffalo Creek Reservation, Township 10, Range 8 of the Holland Land Company's Survey and more particularly bounded and described as follows:
 
 &emsp;\[Omitted.\]
 
 #### (c) Limits on applicability; regulatory requirements
 
-The declaration under subsection (a) of this section shall apply to those parts of the areas described in subsection (b) of this section that are filled portions of Lake Erie. Any work on these filled portions shall be subject to all applicable Federal statutes and regulations, including sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+The declaration under subsection (a) of this section shall apply to those parts of the areas described in subsection (b) of this section thatare filled portions of Lake Erie. Any work on these filled portions shall be subject to all applicable Federal statutes and regulations, including sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 #### (d) Expiration date
 

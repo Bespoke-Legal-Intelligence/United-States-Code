@@ -84,7 +84,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (2) Equitable allocation regarding activities
 
-&emsp;In carrying out subsection (b) of this section, the Secretary shall ensure that services provided under such subsection are equitably allocated among all groups served under this section by the Secretary.
+&emsp;In carrying out subsection (b) of this section, the Secretary shall ensure that servicesprovided under such subsection are equitably allocated among all groups served under this section by the Secretary.
 
 #### (3) Cultural competency of services
 
@@ -156,13 +156,15 @@ Subsec. (g)(1). Pub. L. 106–525, §601, substituted “Asian Americans;” for
 
 Subsec. (a). Pub. L. 105–392, §201(c)(2), substituted “Public Health and Science” for “the Assistant Secretary for Health”.
 
-Subsecs. (b) to (h). Pub. L. 105–392, §201(a), added subsecs. (b) to (h) and struck out former subsecs. (b) to (f), which related, respectively, to duties of Secretary, certain requirements regarding duties, grants and contracts regarding duties, reports, and funding.
+Subsecs. (b) to (h). Pub. L. 105–392, §201(a), added subsecs. (b) to (h) and struck out former subsecs. (b) to (f),which related, respectively, to duties of Secretary, certain requirements regarding duties, grants and contracts regarding duties, reports, and funding.
 
 1990—Subsec. (b)(8). Pub. L. 101–557 added par. (8).
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, andjurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1990 Amendment
 
@@ -205,10 +207,6 @@ Section 1(b) of Pub. L. 101–527 provided that: “The Congress finds that—
 &emsp;“(13) the Report of the Secretary's Task Force on Black and Minority Health (prepared for the Secretary of Health and Human Services and issued in 1985) described the health status problems of minorities, and made recommendations concerning measures that should be implemented by the Secretary with respect to improving the health status of minorities through programs for providing health information and education; and
 
 &emsp;“(14) the Office of Minority Health, created in 1985 by the Secretary of Health and Human Services, should be authorized pursuant to statute and should receive increased funding to support efforts to improve the health of individuals from disadvantaged backgrounds, including minorities, including the implementation of the recommendations made by the Secretary's Task Force on Black and Minority Health.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 287c–31, 299a–1 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

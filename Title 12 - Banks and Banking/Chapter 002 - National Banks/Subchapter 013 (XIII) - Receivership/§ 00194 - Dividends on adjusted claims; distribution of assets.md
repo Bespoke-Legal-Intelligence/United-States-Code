@@ -20,7 +20,3 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 Provisions of this section were made applicable to banks, etc. in the District of Columbia by act Mar. 4, 1933, ch. 274, §4, 47 Stat. 1567.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 197 of this title.
-

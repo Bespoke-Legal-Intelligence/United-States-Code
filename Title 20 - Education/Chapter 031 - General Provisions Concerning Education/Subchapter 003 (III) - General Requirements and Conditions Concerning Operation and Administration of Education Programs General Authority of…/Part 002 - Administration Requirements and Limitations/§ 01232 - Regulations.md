@@ -26,7 +26,7 @@ The exemption for public property, loans, grants and benefits in section 553(a)(
 
 #### (e) Schedule for promulgation of final regulations
 
-Not later than 60 days after the date of enactment of any Act, or any portion of any Act, affecting the administration of any applicable program, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a schedule in accordance with which the Secretary plans to promulgate final regulations that the Secretary determines are necessary to implement such Act or portion of such Act. Such schedule shall provide that all such final regulations shall be promulgated within 360 days after the date of enactment of such Act or portion of such Act.
+Not later than 60 days after the date of enactment of any Act, or any portion of any Act, affecting the administration of any applicable program, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a schedule in accordance with which the Secretary plans to promulgate final regulations that the Secretary determines are necessary to implement such Actor portion of such Act. Such schedule shall provide that all such final regulations shall be promulgated within 360 days after the date of enactment of such Act or portion of such Act.
 
 #### (f) Transmittal of final regulations
 
@@ -78,6 +78,8 @@ Subsecs. (d) to (g). Pub. L. 93–380, §509(a)(2), added subsecs. (d) to (g).
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1981 Amendment
@@ -111,8 +113,4 @@ Section 509(b) of Pub. L. 93–380 provided that: “The amendment made by parag
 #### Study and Report on Rules and Regulations
 
 Pub. L. 92–318, title V, §503, June 23, 1972, 86 Stat. 346, provided for a study by the Commissioner of all rules, regulations, etc., in connection with the administration of any program to which the General Education Provisions Act \[this chapter\] applies, with a report to be submitted to Congress not later than one year after June 23, 1972. Such section further mandated the publication of all rules, regulations, etc., in the Federal Register not later than 60 days after submission of such report, followed by a public hearing on such matters within the 60 day period following such publication. Such section then required a subsequent report to the relevant Congressional Committees on such hearings, and a republication of all rules and regulations in the Federal Register, such republished rules, etc., to supercede all preceding rules and regulations.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 927, 1087g, 1098a, 9581 of this title.
 

@@ -6,15 +6,11 @@ After issuance of a decision by the President approving any crude oil transporta
 
 #### (b) Expedited procedures for Long Beach-Midland project
 
-All decisions regarding issuance of Federal permits, rights-of-way, and leases and other Federal authorizations necessary for construction and operation of the Long Beach-Midland project shall be consistent with applicable provisions of Federal law, except that such decisions shall be made within 30 days after the date this chapter becomes effective. The President may extend the date by which such decisions, under the preceding sentence, are to be made to a date not later than 90 days after the effective date of this chapter. Notification of the making of such decisions shall be published in the Federal Register. Nothing in this section affects any decision made before November 9, 1978.
+All decisions regarding issuance of Federal permits, rights-of-way, and leases and other Federal authorizations necessary for construction and operation of the Long Beach-Midlandproject shall be consistent with applicable provisions of Federal law, except that such decisions shall be made within 30 days after the date this chapter becomes effective. The President may extend the date by which such decisions, under the preceding sentence, are to be made to a date not later than 90 days after the effective date of this chapter. Notification of the making of such decisions shall be published in the Federal Register. Nothing in this section affects any decision made before November 9, 1978.
 
 #### (c) Law governing rights-of-way
 
 Rights-of-way over any Federal land with respect to an approved crude oil transportation system or the Long Beach-Midland project shall be governed by the provisions of section 185 of title 30, other than subsection (w)(2) of such section.
 
 (Pub. L. 95–617, title V, §509, Nov. 9, 1978, 92 Stat. 3162.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2005, 2007 of this title.
 

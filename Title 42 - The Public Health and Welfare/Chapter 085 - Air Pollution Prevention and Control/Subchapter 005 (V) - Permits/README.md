@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—PERMITS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 7410, 7412, 7413, 7420, 7429, 7511a, 7604, 7651b, 7651g of this title.
-
 
 ---
 

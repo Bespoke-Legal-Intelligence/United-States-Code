@@ -16,7 +16,7 @@ Act May 25, 1906, ch. 2554, 34 Stat. 199, provided for a survey, pursuant to R.S
 
 Provisions of act Oct. 2, 1888, ch. 1069, 25 Stat. 525, which provided for transfer to State officials of field notes, maps, records and other papers appertaining to land surveys in Nebraska and Iowa, were omitted.
 
-All records, etc., belonging to office of recorder of land titles for Missouri were delivered to State upon discontinuance of office, by provisions of act June 6, 1874, ch. 223, §3, and act July 31, 1876, ch. 246.
+All records, etc., belonging to office of recorder of land titles for Missouri were delivered to State upondiscontinuance of office, by provisions of act June 6, 1874, ch. 223, §3, and act July 31, 1876, ch. 246.
 
 R.S. §2218 derived from acts June 12, 1840, ch. 36, §1, 5 Stat. 384; July 31, 1876, ch. 246, 19 Stat. 121.
 
@@ -25,8 +25,4 @@ R.S. §2218 derived from acts June 12, 1840, ch. 36, §1, 5 Stat. 384; July 31, 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
 “Secretary of the Interior or such officer as he may designate” substituted for “Supervisor of Surveys” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 53 of this title.
 

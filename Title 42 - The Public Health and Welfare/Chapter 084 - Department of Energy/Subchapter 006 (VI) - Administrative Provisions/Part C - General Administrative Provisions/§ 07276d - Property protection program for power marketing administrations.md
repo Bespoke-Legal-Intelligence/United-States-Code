@@ -8,7 +8,3 @@ The Administrators of the Western Area Power Administration, the Southwestern Po
 
 Section was not enacted as part of the Department of Energy Organization Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7276e of this title.
-

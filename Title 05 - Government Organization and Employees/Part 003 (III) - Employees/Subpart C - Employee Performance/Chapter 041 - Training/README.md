@@ -22,10 +22,13 @@
 | [4118\.](%C2%A7%2004118%20-%20Regulations.md) | Regulations. |
 | [4119\.](%C2%A7%2004119%20-%20Training%20for%20employees%20under%20the%20Office%20of%20the%20Architect%20of%20the%20Capitol%20and%20the%20Botanic%20Garden.md) | Training for employees under the Office of the Architect of the Capitol and the Botanic Garden. |
 | [4120\.](%C2%A7%2004120%20-%20Training%20for%20employees%20of%20the%20Capitol%20Police.md) | Training for employees of the Capitol Police. |
+| [4121\.](%C2%A7%2004121%20-%20Specific%20training%20programs.md) | Specific training programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–411, title II, §201(b)(2), Oct. 30, 2004, 118 Stat. 2312, added item 4121.
 
 2003—Pub. L. 108–7, div. H, title I, §1010(b), Feb. 20, 2003, 117 Stat. 360, added item 4120.
 
@@ -36,10 +39,6 @@
 1994—Pub. L. 103–226, §2(b)(2), Mar. 30, 1994, 108 Stat. 112, struck out item 4106 “Non-Government facilities; amount of training limited”, substituted “Restriction on degree training” for “Non-Government facilities; restrictions” in item 4107, and struck out item 4114 “Non-Government facilities; review of training programs”.
 
 1982—Pub. L. 97–346, §1(b), Oct. 15, 1982, 96 Stat. 1647, added item 4119.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3381, 9701, 9902 of this title; title 2 section 609; title 18 section 209; title 26 section 4941; title 38 section 3681.
 
 
 ---
@@ -66,3 +65,4 @@ This chapter is referred to in sections 3381, 9701, 9902 of this title; title 2 
 - [&sect; 04118 - Regulations](%C2%A7%2004118%20-%20Regulations.md)
 - [&sect; 04119 - Training for employees under the Office of the Architect of the Capitol and the Botanic Garden](%C2%A7%2004119%20-%20Training%20for%20employees%20under%20the%20Office%20of%20the%20Architect%20of%20the%20Capitol%20and%20the%20Botanic%20Garden.md)
 - [&sect; 04120 - Training for employees of the Capitol Police](%C2%A7%2004120%20-%20Training%20for%20employees%20of%20the%20Capitol%20Police.md)
+- [&sect; 04121 - Specific training programs](%C2%A7%2004121%20-%20Specific%20training%20programs.md)

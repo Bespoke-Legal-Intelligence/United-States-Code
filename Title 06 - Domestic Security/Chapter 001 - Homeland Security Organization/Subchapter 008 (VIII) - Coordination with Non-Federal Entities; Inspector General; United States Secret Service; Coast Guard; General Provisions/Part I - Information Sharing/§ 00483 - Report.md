@@ -16,5 +16,5 @@ The congressional committees referred to in subsection (a) of this section are t
 
 #### Delegation of Functions
 
-For assignment of function of President under this section, subject to certain limitations, to Secretary of Homeland Security, see Ex. Ord. No. 13311, §1(b), July 29, 2003, 68 F.R. 45149, set out as a note under section 482 of this title.
+For assignment of function of President under this section, subject to certain limitations, to Secretary ofHomeland Security, see Ex. Ord. No. 13311, §1(b), July 29, 2003, 68 F.R. 45149, set out as a note under section 482 of this title.
 

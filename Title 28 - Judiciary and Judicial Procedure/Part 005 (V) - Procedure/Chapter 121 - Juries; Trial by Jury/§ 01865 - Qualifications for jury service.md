@@ -52,7 +52,3 @@ Amendment by Pub. L. 95–572 applicable with respect to any grand or petit juro
 
 Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictment has been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1866, 1876 of this title.
-

@@ -12,7 +12,7 @@ Indemnity Benefit Plan.—One Government-wide plan, offering two levels of benef
 
 &emsp;(3)
 
-Employee Organization Plans.—Employee organization plans which offer benefitsof the types referred to by section 8904(3) of this title, which are sponsored or underwritten, and are administered, in whole or substantial part, by employee organizations described in section 8901(8)(A) of this title, which are available only to individuals, and members of their families, who at the time of enrollment are members of the organization.
+Employee Organization Plans.—Employee organization plans which offer benefits of the types referred to by section 8904(3) of this title, which are sponsored or underwritten, and are administered, in whole or substantial part, by employee organizations described in section 8901(8)(A) of this title, which are available only to individuals, and members of their families, who at the time of enrollment are members of the organization.
 
 &emsp;(4)
 
@@ -24,7 +24,7 @@ Group-practice prepayment plans.—Group-practice prepayment plans which offer h
 
 &emsp;&emsp;(B)
 
-Individual-practice prepayment plans.—Individual-practice prepayment plans which offer health services in whole or substantial part on a prepaid basis, with professional services thereunder provided by individual physicians who agree, under certain conditions approved by the Office, to accept the payments provided by the plans as full payment for covered services given by them including, in addition to in-hospital services, general care given in their offices and the patients’ homes, out-of-hospital diagnostic procedures, and preventive care, and which plans are offered by organizations which have successfully operated similar plans before approval by the Office of the plan in which employees may enroll.
+Individual-practice prepayment plans.—Individual-practice prepayment plans which offer health services in whole or substantial part on a prepaid basis, with professional services thereunder provided by individual physicians who agree, under certainconditions approved by the Office, to accept the payments provided by the plans as full payment for covered services given by them including, in addition to in-hospital services, general care given in their offices and the patients’ homes, out-of-hospital diagnostic procedures, and preventive care, and which plans are offered by organizations which have successfully operated similar plans before approval by the Office of the plan in which employees may enroll.
 
 &emsp;&emsp;(C)
 
@@ -79,8 +79,4 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions,
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8901, 8902, 8902a, 8903a, 8903b, 8904, 8905, 8907, 8908, 8909, 8910, 8913 of this title; title 42 sections 1395s, 1397cc.
 

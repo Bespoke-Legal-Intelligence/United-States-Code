@@ -32,7 +32,3 @@ Subsecs. (b) to (d). Pub. L. 102–550, §1406(a)(2), (3), redesignated subsec. 
 
 Section 837(c) of Pub. L. 101–625, as amended by Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 151, provided that amounts appropriated for use under part D of this subchapter as it existed before Nov. 28, 1990, were to be available for use under this part.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11404, 11405, 11406, 11407, 11407b of this title.
-

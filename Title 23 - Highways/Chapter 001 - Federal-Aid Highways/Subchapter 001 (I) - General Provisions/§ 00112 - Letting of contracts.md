@@ -110,7 +110,7 @@ State law.—Paragraph (1) shall apply in a State except to the extent that such
 
 Design-build contracts.—Paragraph (1) shall not apply to any design-build contract approved under subsection (b)(3).
 
-(f) The provisions of this section shall not be applicable to contracts for projects on the Federal-aid secondary system in those States where the Secretary has discharged his responsibility pursuant to section 117 <sup>1</sup> of this title, except where employees of a political subdivision of aState are working on a project outside of such political subdivision.
+(f) The provisions of this section shall not be applicable to contracts for projects on the Federal-aid secondary system in those States where the Secretary has discharged his responsibility pursuant to section 117 <sup>1</sup> of this title, except where employees of a political subdivision of a State are working on a project outside of such political subdivision.
 
 (g)
 
@@ -210,7 +210,7 @@ Contents.—The regulations shall—
 
 #### Effect on Experimental Program
 
-Pub. L. 105–178, title I, §1307(d), June 9, 1998, 112 Stat. 231, provided that: “Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] or the amendments made by this section affects the authority to carry out, or any project carried out under, any experimental program concerning design-build contracting that is being carried out by the Secretary as of the date of enactment of this Act \[June 9, 1998\].”
+Pub. L. 105–178, title I, §1307(d), June 9, 1998, 112 Stat. 231, provided that: “Nothing in this section \[amendingthis section and enacting provisions set out as notes under this section\] or the amendments made by this section affects the authority to carry out, or any project carried out under, any experimental program concerning design-build contracting that is being carried out by the Secretary as of the date of enactment of this Act \[June 9, 1998\].”
 
 #### Report to Congress
 
@@ -281,10 +281,6 @@ Pub. L. 102–240, title I, §1092, Dec. 18, 1991, 105 Stat. 2024, directed Secr
 #### Evaluation of State Procurement Practices
 
 Pub. L. 102–240, title VI, §6014, Dec. 18, 1991, 105 Stat. 2181, directed Secretary to conduct a study to evaluate whether or not current procurement practices of State departments and agencies were adequate to ensure that highway and transit systems were designed, constructed, and maintained so as to achieve a high quality for such systems at the lowest overall cost and, not later than 2 years after Dec. 18, 1991, to transmit to Congress a report on the results of the study, together with an assessment of the need for establishing a national policy on transportation quality assurance and recommendations for appropriate legislative and administrative actions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 210 of this title; title 49 section 5325.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

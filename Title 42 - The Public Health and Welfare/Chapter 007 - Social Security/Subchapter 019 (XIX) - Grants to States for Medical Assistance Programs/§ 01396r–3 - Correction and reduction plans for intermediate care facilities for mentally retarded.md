@@ -26,9 +26,9 @@ The reduction plan must—
 
 &emsp;(2) describe the methods to be used to select such residents for home and community services and to develop the alternative home and community services to meet their needs effectively;
 
-&emsp;(3) describe the necessary safeguards that will be applied to protect the health and welfare of the former residents of the facility who are to receive home or community services,including adequate standards for consumer and provider participation and assurances that applicable State licensure and applicable State and Federal certification requirements will be met in providing such home or community services;
+&emsp;(3) describe the necessary safeguards that will be applied to protect the health and welfare of the former residents of the facility who are to receive home or community services, including adequate standards for consumer and provider participation and assurances that applicable State licensure and applicable State and Federal certification requirements will be met in providing such home or community services;
 
-&emsp;(4) provide that residents of the affected facility who are eligible for medical assistance while in the facility shall, at their option, be placed in another setting (or another part of the affected facility) so as to retain their eligibility for medical assistance;
+&emsp;(4) provide that residents of the affected facility who are eligible for medical assistancewhile in the facility shall, at their option, be placed in another setting (or another part of the affected facility) so as to retain their eligibility for medical assistance;
 
 &emsp;(5) specify the actions which will be taken to protect the health and safety of, and to provide active treatment for, the residents who remain in the affected facility while the reduction plan is in effect;
 

@@ -6,17 +6,17 @@ No part of the appropriations made under the heading “Contingent Expenses of t
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–304 substituted “prescribed by the Committee on Rules and Administration” for “in effect under section 5702 of title 5, for employees of agencies” in two places.
+1980—Pub. L. 96–304 substituted “prescribed by the Committee on Rules and Administration” for “in effect under section 5702 of title 5, for employees of agencies” in two places.
 
-<b>1978</b>—Pub. L. 95–355 substituted provisions relating to applicability of rates under section 5702 of title 5, for employees of agencies, for provisions setting forth specific rates of $35 and $50 per day, respectively, for travel expenses.
+1978—Pub. L. 95–355 substituted provisions relating to applicability of rates under section 5702 of title 5, for employees of agencies, for provisions setting forth specific rates of $35 and $50 per day, respectively, for travel expenses.
 
-<b>1977</b>—Pub. L. 95–94 inserted provisions relating to applicability to per diem or actual travel expenses incurred by a Senator or his employee reimbursed under section 58 of this title.
+1977—Pub. L. 95–94 inserted provisions relating to applicability to per diem or actual travel expenses incurred by a Senator or his employee reimbursed under section 58 of this title.
 
-<b>1975</b>—Pub. L. 94–22 substituted “$35” and “$50” for “$25” and “$40”, respectively.
+1975—Pub. L. 94–22 substituted “$35” and “$50” for “$25” and “$40”, respectively.
 
-<b>1969</b>—Pub. L. 91–114 increased maximum per diem rate from $16 to $25 and actual expense rate from $30 to $40.
+1969—Pub. L. 91–114 increased maximum per diem rate from $16 to $25 and actual expense rate from $30 to $40.
 
-<b>1961</b>—Pub. L. 87–139 increased maximum per diem rate from $12 to $16 and actual expense rate from $25 to $30.
+1961—Pub. L. 87–139 increased maximum per diem rate from $12 to $16 and actual expense rate from $25 to $30.
 
 #### Effective Date of 1977 Amendment
 

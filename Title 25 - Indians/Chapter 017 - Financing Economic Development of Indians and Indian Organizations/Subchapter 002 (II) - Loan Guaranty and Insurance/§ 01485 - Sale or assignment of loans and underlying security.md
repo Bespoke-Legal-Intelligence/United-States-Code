@@ -168,7 +168,3 @@ Purpose.—The purpose of this Act \[see Short Title of 2002 Amendment note set 
 
 &emsp;“(B) allow the pooling of those loans as the secondary market develops.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1499 of this title.
-

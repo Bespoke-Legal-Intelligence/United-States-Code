@@ -8,7 +8,3 @@ The several departments and bureaus of the Government when directed by the Presi
 
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 sections 198b, 222, 610, 2146, 3807; title 21 sections 467d, 677, 1051.
-

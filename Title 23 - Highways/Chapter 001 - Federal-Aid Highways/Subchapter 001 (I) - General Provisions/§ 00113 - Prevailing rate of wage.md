@@ -6,7 +6,7 @@
 
 (c) The provisions of the section shall not be applicable to employment pursuant to apprenticeship and skill training programs which have been certified by the Secretary of Transportation as promoting equal employment opportunity in connection with Federal-aid highway construction programs.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 90–495, §12(a), Aug. 23, 1968, 82 Stat. 821; Pub. L. 97–424, title I, §149, Jan. 6, 1983, 96 Stat. 2131; Pub. L. 100–17, title I, §133(b)(5), Apr. 2, 1987, 101 Stat. 171; Pub. L. 102–240, title I, §1006(g)(2), Dec. 18, 1991, 105 Stat. 1927; Pub. L. 107–217, §3(e)(2), Aug. 21, 2002, 116 Stat. 1299.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 90–495, §12(a), Aug. 23, 1968, 82 Stat. 821; Pub. L.97–424, title I, §149, Jan. 6, 1983, 96 Stat. 2131; Pub. L. 100–17, title I, §133(b)(5), Apr. 2, 1987, 101 Stat. 171; Pub. L. 102–240, title I, §1006(g)(2), Dec. 18, 1991, 105 Stat. 1927; Pub. L. 107–217, §3(e)(2), Aug. 21, 2002, 116 Stat. 1299.)
 
 #### Amendments
 
@@ -31,8 +31,4 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–495 effective Aug. 23, 1968, see section 37 of Pub. L. 90–495, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
 

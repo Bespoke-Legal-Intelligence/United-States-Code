@@ -2,7 +2,7 @@
 
 #### (a) Responsibilities of Federal agencies; program for identification, evaluation, nomination, and protection
 
-(1) The heads of all Federal agencies shall assume responsibility for the preservation of historic properties which are owned or controlled by such agency. Prior to acquiring, constructing, or leasing buildings for purposes of carrying out agency responsibilities, each Federal agency shall use, to the maximum extent feasible, historic properties available to the agency, in accordance with Executive Order No. 13006, issued May 21, 1996 (61 Fed. Reg. 26071). Each agency shall undertake, consistent with the preservation of such properties and the mission of theagency and the professional standards established pursuant to section 470a(g) of this title, any preservation, as may be necessary to carry out this section.
+(1) The heads of all Federal agencies shall assume responsibility for the preservation of historic properties which are owned or controlled by such agency. Prior to acquiring, constructing, or leasing buildings for purposes of carrying out agency responsibilities, each Federal agency shall use, to the maximum extent feasible, historic properties available to the agency, in accordance with Executive Order No. 13006, issued May 21, 1996 (61 Fed. Reg. 26071). Each agency shall undertake, consistent with the preservation of such properties and the mission of the agency and the professional standards established pursuant to section 470a(g) of this title, any preservation, as may be necessary to carry out this section.
 
 (2) Each Federal agency shall establish (unless exempted pursuant to section 470v of this title), in consultation with the Secretary, a preservation program for the identification, evaluation, and nomination to the National Register of Historic Places, and protection of historic properties. Such program shall ensure—
 
@@ -40,7 +40,7 @@ The Secretary shall review and approve the plans of transferees of surplus feder
 
 #### (f) Planning and actions to minimize harm to National Historic Landmarks
 
-Prior to the approval of any Federal undertaking which may directly and adversely affect any National Historic Landmark, the head of the responsible Federal agency shall, to the maximum extent possible, undertake such planning and actions as may be necessary to minimize harm to such landmark, and shall afford the Advisory Council on Historic Preservation a reasonable opportunity to comment on the undertaking.
+Prior to the approval of any Federal undertaking which may directly and adversely affect any National Historic Landmark, the head of the responsible Federal agency shall, to themaximum extent possible, undertake such planning and actions as may be necessary to minimize harm to such landmark, and shall afford the Advisory Council on Historic Preservation a reasonable opportunity to comment on the undertaking.
 
 #### (g) Costs of preservation as eligible project costs
 
@@ -48,7 +48,7 @@ Each Federal agency may include the costs of preservation activities of such age
 
 #### (h) Annual preservation awards program
 
-The Secretary shall establish an annual preservation awards program under which he may make monetary awards in amounts of not to exceed $1,000 and provide citations for special achievement to officers and employees of Federal, State, and certified local governments in recognition of their outstanding contributions to the preservation of historic resources. Such program may include the issuance of annual awards by the President of the United States toany citizen of the United States recommended for such award by the Secretary.
+The Secretary shall establish an annual preservation awards program under which he may make monetary awards in amounts of not to exceed $1,000 and provide citations for special achievement to officers and employees of Federal, State, and certified local governments in recognition of their outstanding contributions to the preservation of historic resources. Such program may include the issuance of annual awards by the President of the United States to any citizen of the United States recommended for such award by the Secretary.
 
 #### (i) Environmental impact statement
 
@@ -66,7 +66,7 @@ Each Federal agency shall ensure that the agency will not grant a loan, loan gua
 
 With respect to any undertaking subject to section 470f of this title which adversely affects any property included in or eligible for inclusion in the National Register, and for which a Federal agency has not entered into an agreement pursuant to regulations issued by the Council, the head of such agency shall document any decision made pursuant to section 470f of this title. The head of such agency may not delegate his or her responsibilities pursuant to such section. Where a section 106 \[16 U.S.C. 470f\] memorandum of agreement has been executed with respect to an undertaking, such memorandum shall govern the undertaking and all of its parts.
 
-(Pub. L. 89–665, title I, §110, as added Pub. L. 96–515, title II, §206, Dec. 12, 1980, 94 Stat. 2996; amended Pub. L. 102–575, title XL, §§4006(b), 4012, Oct. 30, 1992, 106 Stat. 4757, 4760; Pub. L. 106–208, §§4, 5(a)(8), May 26, 2000, 114 Stat. 318, 319.)
+(Pub. L. 89–665, title I, §110, as added Pub. L. 96–515, title II, §206, Dec. 12, 1980, 94 Stat. 2996; amended Pub. L. 102–575, title XL, §§4006(b), 4012, Oct. 30, 1992, 106 Stat. 4757, 4760; Pub. L. 106–208, §§4, 5(a)(8), May 26, 2000, 114 Stat. 318, 319; Pub. L. 108–352, §13, Oct. 21, 2004, 118 Stat. 1397.)
 
 #### References in Text
 
@@ -76,9 +76,11 @@ The National Environmental Policy Act of 1969, referred to in subsec. (i), is Pu
 
 #### Amendments
 
+2004—Subsec. (<i>l</i>). Pub. L. 108–352 amended directory language of Pub. L. 106–208, §5(a)(8). See 2000 Amendment note below.
+
 2000—Subsec. (a)(1). Pub. L. 106–208, §4, substituted “agency, in accordance with Executive Order No. 13006, issued May 21, 1996 (61 Fed. Reg. 26071).” for “agency.” in second sentence.
 
-Subsec. (<i>l</i>). Pub. L. 106–208, §5(a)(8), which directed amendment of section 110(1) of the National Historic Preservation Act by substituting “pursuant to regulations issued by the Council” for “with the Council”, was executed to subsec. (<i>l</i>) of this section to reflect the probable intent of Congress.
+Subsec. (<i>l</i>). Pub. L. 106–208, §5(a)(8), as amended by Pub. L. 108–352, substituted “pursuant to regulations issued by the Council” for “with the Council”,.
 
 1992—Subsec. (a)(1). Pub. L. 102–575, §4012(1), substituted “section 470a(g)” for “section 470a(f)”.
 
@@ -96,7 +98,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Statement of Policy</i>. It is the policy of the Federal Government to provide leadership in preserving America's heritage by actively advancing the protection, enhancement, and contemporary use of the historic properties owned by the Federal Government, and by promoting intergovernmental cooperation and partnerships for the preservation and use of historic properties. The Federal Government shall recognize and manage the historic properties in its ownership as assets that can support department and agency missions while contributing to the vitality and economic well-being of the Nation's communities and fostering a broader appreciation for the development of the United States and its underlying values. Where consistent with executive branch department and agency missions, governing law, applicable preservation standards, and where appropriate, executive branch departments and agencies (“agency” or “agencies”) shall advance this policy through the protection and continued use of the historic properties owned by the Federal Government, and by pursuing partnerships with State and local governments, Indian tribes, and the private sector to promote the preservation of the unique cultural heritage of communities and of the Nation and to realize the economic benefit that these properties can provide. Agencies shall maximize efforts to integrate the policies, procedures, and practices of the NHPA and this order into their program activities in order to efficiently and effectively advance historic preservation objectives in the pursuit of their missions.
 
-Sec. 2. <i>Building Preservation Partnerships</i>. When carrying out its mission activities, each agency, where consistent with its mission and governing authorities, and where appropriate, shall seek partnerships with State and local governments, Indian tribes, and the private sector to promote local economic development and vitality through the use of historic properties in a manner that contributes to the long-term preservation and productive use of those properties. Each agency shall examine its policies, procedures, and capabilities to ensure that its actions encourage, support, and foster public-private initiatives and investment in the use,reuse, and rehabilitation of historic properties, to the extent such support is not inconsistent with other provisions of law, the Secretary of the Interior's Standards for Archeology and Historic Preservation, and essential national department and agency mission requirements.
+Sec. 2. <i>Building Preservation Partnerships</i>. When carrying out its mission activities, each agency, where consistent with its mission and governing authorities, and where appropriate, shall seek partnerships with State and local governments, Indian tribes, and the private sector to promote local economic development and vitality through the use of historic properties in a manner that contributes to the long-term preservation and productive use of those properties. Each agency shall examine its policies, procedures, and capabilities to ensure that its actions encourage, support, and foster public-private initiatives and investment in the use, reuse, and rehabilitation of historic properties, to the extent such support is not inconsistent with other provisions of law, the Secretary of the Interior's Standards for Archeology and Historic Preservation, and essential national department and agency mission requirements.
 
 Sec. 3. <i>Improving Federal Agency Planning and Accountability</i>. (a) Accurate information on the state of Federally owned historic properties is essential to achieving the goals of this order and to promoting community economic development through local partnerships. Each agency with real property management responsibilities shall prepare an assessment of the current status of its inventory of historic properties required by section 110(a)(2) of the NHPA (16 U.S.C. 470h–2(a)(2)), the general condition and management needs of such properties, and the steps underway or planned to meet those management needs. The assessment shall also include an evaluation of the suitability of the agency's types of historic properties to contribute to community economic development initiatives, including heritage tourism, taking into account agency mission needs, public access considerations, and the long-term preservation of the historic properties. No later than September 30, 2004, each covered agency shall complete a report of the assessment and make it available to the Chairman of the Advisory Council on Historic Preservation (Council) and the Secretary of the Interior (Secretary).
 
@@ -133,8 +135,4 @@ Sec. 7. <i>Definitions</i>. For the purposes of this order, the term “historic
 Sec. 8. <i>Judicial Review</i>. This order is intended only to improve the internal management of the Federal Government and it is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies, instrumentalities or entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 470a, 470w–3 of this title.
 

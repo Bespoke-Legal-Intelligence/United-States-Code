@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Consultation and negotiation.—In developing and making changes to the personnelmanagement system initially implemented by the Administrator of the Federal Aviation Administration on April 1, 1996, the Administrator shall negotiate with the exclusive bargaining representatives of employees of the Administration certified under section 7111 of title 5 and consult with other employees of the Administration.
+Consultation and negotiation.—In developing and making changes to the personnel management system initially implemented by the Administrator of the Federal Aviation Administration on April 1, 1996, the Administrator shall negotiate with the exclusive bargaining representatives of employees of the Administration certified under section 7111 of title 5 and consult with other employees of the Administration.
 
 &emsp;(2)
 
@@ -46,7 +46,7 @@ Personnel Management System.—
 
 &emsp;(1)
 
-In general.—In consultation with the employees of the Administration and such non-governmental experts in personnel management systems as he may employ, and notwithstanding the provisions of title 5 and other Federal personnel laws, the Administrator shall develop and implement, not later than January 1, 1996, a personnel management system for the Administration that addresses the unique demands on the agency's workforce. Such a new system shall, at a minimum, provide for greater flexibility in the hiring, training, compensation, and location of personnel.
+In general.—In consultation with the employees of the Administration and suchnon-governmental experts in personnel management systems as he may employ, and notwithstanding the provisions of title 5 and other Federal personnel laws, the Administrator shall develop and implement, not later than January 1, 1996, a personnel management system for the Administration that addresses the unique demands on the agency's workforce. Such a new system shall, at a minimum, provide for greater flexibility in the hiring, training, compensation, and location of personnel.
 
 &emsp;(2)
 
@@ -78,7 +78,7 @@ Effective date.—This subsection shall take effect on April 1, 1996.
 
 (h)
 
-Right To Contest Adverse Personnel Actions.—An employee of the Federal Aviation Administration who is the subject of a major adverse personnel action may contest the action either through any contractual grievance procedure that is applicable to the employee as a member of the collective bargaining unit or through the Administration's internal process relating to review of major adverse personnelactions of the Administration, known as Guaranteed Fair Treatment, or under section 40122(g)(3).
+Right To Contest Adverse Personnel Actions.—An employee of the Federal Aviation Administration who is the subject of a major adverse personnel action may contest the action either through any contractual grievance procedure that is applicable to the employee as a member of the collective bargaining unit or through the Administration's internal process relating to review of major adverse personnel actions of the Administration, known as Guaranteed Fair Treatment, or under section 40122(g)(3).
 
 (i)
 
@@ -113,8 +113,4 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 Section effective on date that is 30 days after Oct. 9, 1996, see section 203 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 
 Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 114 of this title.
 

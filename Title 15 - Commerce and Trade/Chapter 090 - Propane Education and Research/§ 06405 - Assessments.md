@@ -26,7 +26,3 @@ The Council shall establish a program coordinating the operation of the Council 
 
 (Pub. L. 104–284, §6, Oct. 11, 1996, 110 Stat. 3374.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6403, 6409 of this title.
-

@@ -128,7 +128,7 @@ In subsection (b)(3), the text of 45:435(b) (2d sentence) and the words “as he
 
 In subsection (c)(1), the word “enforce” is substituted for “obtain compliance with” for clarity and consistency in this section.
 
-In subsection (e), the words “out of funds appropriated pursuant to this subchapter or otherwise made available”, “reasonably”, and “satisfactory” are omitted as surplus. The words “will be at least as much as the average amount expended” are substituted for “will be maintained at a level which does not fall below theaverage level of such expenditures” for clarity and to eliminate unnecessary words.
+In subsection (e), the words “out of funds appropriated pursuant to this subchapter or otherwise made available”, “reasonably”, and “satisfactory” are omitted as surplus. The words “will be at least as much as the average amount expended” are substituted for “will be maintained at a level which does not fall below the average level of such expenditures” for clarity and to eliminate unnecessary words.
 
 #### Amendments
 
@@ -149,10 +149,6 @@ Subsec. (g). Pub. L. 107–296, §1710(a)(5), added subsec. (g).
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 20108, 20113, 20117 of this title; title 45 section 54a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Secretary concerned”.</i>
 

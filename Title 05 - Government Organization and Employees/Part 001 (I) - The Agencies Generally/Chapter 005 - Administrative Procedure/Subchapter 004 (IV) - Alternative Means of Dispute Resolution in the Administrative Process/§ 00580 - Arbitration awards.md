@@ -28,7 +28,3 @@ Subsecs. (f), (g). Pub. L. 104–320, §8(a)(1), struck out subsecs. (f) and (g)
 
 Subsec. (g). Pub. L. 102–354, §5(b)(3), substituted “fees and other expenses” for “attorney fees and expenses”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 9 section 10.
-

@@ -34,7 +34,7 @@
 
 &emsp;(B) display any such political preference or party allegiance;
 
-&emsp;(C) make any statement to an applicant or take any action the purpose or effect of whichis to discourage the applicant from registering to vote; or
+&emsp;(C) make any statement to an applicant or take any action the purpose or effect of which is to discourage the applicant from registering to vote; or
 
 &emsp;(D) make any statement to an applicant or take any action the purpose or effect of which is to lead the applicant to believe that a decision to register or not to register has any bearing on the availability of services or benefits.
 
@@ -96,7 +96,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Assistance to States</i>. To the greatest extent practicable, departments, agencies, and other entities of the executive branch of the Federal Government that provide, in whole or in part, funding, grants, or assistance for, or with respect to the administration of, any program of public assistance or services to persons with disabilities within the meaning of section 7(a) of the Act shall: (a) provide, to State agencies administering any such program, guidance for the implementation of the requirements of section 7 of the Act, including guidance for use and distribution of voter registration forms in connection with applications for service;
 
-(b) assist each such State agency administering any such program with the costs of implementation of theAct \[42 U.S.C. 1973gg et seq.\], consistent with legal authority and the availability of funds, and promptly indicate to each State agency the extent to which such assistance will be made available; and
+(b) assist each such State agency administering any such program with the costs of implementation of the Act \[42 U.S.C. 1973gg et seq.\], consistent with legal authority and the availability of funds, and promptly indicate to each State agency the extent to which such assistance will be made available; and
 
 (c) designate an office or staff to be available to provide technical assistance to such State agencies.
 
@@ -107,8 +107,4 @@ Sec. 3. <i>Acceptance of Designation</i>. To the greatest extent practicable, de
 (b) ensure that all of its offices that are located in a particular State will have available to the public at least one of the national voter registration forms that are required under the Act to be available in that State.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1973gg–1, 1973gg–2, 1973gg–6 of this title.
 

@@ -6,7 +6,7 @@ Any Federal reserve bank may also buy and sell debentures and other such obligat
 
 #### References in Text
 
-Title I of the Federal Farm Loan Act, referred to in text, is title I of act July 17, 1916, ch. 245, 39 Stat. 360.Title I was classified to chapter 7 (§641 et seq.) of this title, and was repealed by Pub. L. 92–181, title V, §5.26(a), Dec. 10, 1971, 85 Stat. 624.
+Title I of the Federal Farm Loan Act, referred to in text, is title I of act July 17, 1916, ch. 245, 39 Stat. 360. Title I was classified to chapter 7 (§641 et seq.) of this title, and was repealed by Pub. L. 92–181, title V, §5.26(a), Dec. 10, 1971, 85 Stat. 624.
 
 #### Codification
 
@@ -15,8 +15,4 @@ Section is comprised of third par. of section 13A, formerly section 13a, as adde
 #### National Agricultural Credit Corporation
 
 Title II of the Agricultural Credits Act, act Mar. 4, 1923, title II, §§201–217, 42 Stat. 1461, authorized creation of national agricultural credit corporations, prior to repeal by Pub. L. 86–230, Sept. 18, 1959, §24, 73 Stat. 466. Prior to such repeal, act June 16, 1933, §77, 48 Stat. 292, had prohibited the creation, after June 16, 1933, of national agricultural credit corporations authorized to be formed under the Agricultural Credits Act.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 347, 351, 412 of this title.
 

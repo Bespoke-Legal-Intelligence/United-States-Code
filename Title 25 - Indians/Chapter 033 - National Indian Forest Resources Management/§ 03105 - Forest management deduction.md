@@ -30,7 +30,3 @@ The full amount of any deduction collected by the Secretary shall be expended ac
 
 (Pub. L. 101–630, title III, §306, Nov. 28, 1990, 104 Stat. 4536.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3107 of this title.
-

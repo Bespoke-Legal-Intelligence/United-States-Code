@@ -14,7 +14,7 @@ Except as provided in subsection (b) of this section, and notwithstanding any ot
 
 Such funds shall remain available for obligation and expenditure by a recipient as provided in subsection (a) of this section only to the extent that the recipient complied with any Federal share requirements applicable to the program for the fiscal year for which the funds were appropriated.
 
-(Pub. L. 93–112, §19, formerly §17, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat.1114; renumbered §19 and amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1), (b)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413.)
+(Pub. L. 93–112, §19, formerly §17, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1114; renumbered §19 and amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1), (b)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413.)
 
 #### References in Text
 

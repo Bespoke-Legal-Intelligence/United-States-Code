@@ -4,7 +4,3 @@ The Secretary shall furnish to any party in interest requesting the same, a cert
 
 (Pub. L. 87–126, §6, Aug. 7, 1961, 75 Stat. 291.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459b–1 to 459b–4, 459b–6 to 459b–8 of this title.
-

@@ -6,7 +6,7 @@ There is hereby established the Golden Gate National Recreation Area Advisory Co
 
 #### (b) Membership; appointment; term of office
 
-The Commission shall be composed of eighteen members appointed by the Secretary for termsof five years each.<sup>1</sup> <i>Provided</i>, That the terms of those members who have been either appointed or reappointed subsequent to January 1, 1979, shall be extended so as to expire not before June 1, 1985.
+The Commission shall be composed of eighteen members appointed by the Secretary for terms of five years each.<sup>1</sup> <i>Provided</i>, That the terms of those members who have been either appointed or reappointed subsequent to January 1, 1979, shall be extended so as to expire not before June 1, 1985.
 
 #### (c) Vacancies
 

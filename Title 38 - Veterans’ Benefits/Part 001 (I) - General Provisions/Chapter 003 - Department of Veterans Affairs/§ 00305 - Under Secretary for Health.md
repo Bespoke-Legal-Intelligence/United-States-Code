@@ -2,9 +2,9 @@
 
 (a)(1) There is in the Department an Under Secretary for Health, who is appointed by the President, by and with the advice and consent of the Senate.
 
-(2) The Under Secretary for Health shall be a doctor of medicine and shall be appointed without regard to political affiliation or activity and solely—
+(2) The Under Secretary for Health shall be appointed without regard to political affiliation or activity and solely—
 
-&emsp;(A) on the basis of demonstrated ability in the medical profession, in health-care administration and policy formulation, and in health-care fiscal management; and
+&emsp;(A) on the basis of demonstrated ability in the medical profession, in health-care administration and policy formulation, or in health-care fiscal management; and
 
 &emsp;(B) on the basis of substantial experience in connection with the programs of the Veterans Health Administration or programs of similar content and scope.
 
@@ -32,13 +32,17 @@
 
 (4) The Assistant Secretary or Deputy Assistant Secretary of Veterans Affairs who performs personnel management and labor relations functions shall serve as the executive secretary of a commission established under this subsection.
 
-(Added and amended Pub. L. 102–83, §§2(a), 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 379, 404; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(c)(1), (e)(2), Nov. 2, 1994, 108 Stat. 4683, 4685.)
+(Added and amended Pub. L. 102–83, §§2(a), 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 379, 404; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(c)(1), (e)(2), Nov. 2, 1994, 108 Stat. 4683, 4685; Pub. L. 108–422, title V, §503, Nov. 30, 2004, 118 Stat. 2396.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 3(b) of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §3(3).
 
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–422, §503(1), struck out “shall be a doctor of medicine and” after “The Under Secretary for Health” in introductory provisions.
+
+Subsec. (a)(2)(A). Pub. L. 108–422, §503(2), substituted “or in health-care” for “and in health-care”.
 
 1994—Subsec. (a)(1). Pub. L. 103–446, §1201(c)(1)(A), substituted “an Under Secretary” for “a Under Secretary”.
 

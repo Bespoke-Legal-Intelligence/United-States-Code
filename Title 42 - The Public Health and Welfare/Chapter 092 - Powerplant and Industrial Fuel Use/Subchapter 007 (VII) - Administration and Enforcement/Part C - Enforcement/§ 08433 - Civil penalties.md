@@ -16,7 +16,7 @@ In the case of any electric powerplant granted an exemption, any person who oper
 
 (2)(A) Unless an election is made within 30 calendar days after receipt of notice under paragraph (1) to have paragraph (3) apply with respect to such penalty, the Secretary shall assess the penalty, by order, after a determination of violation has been made on the record after an opportunity for an agency hearing pursuant to section 554 of title 5 before an administrative law judge appointed under section 3105 of such title 5. Such assessment order shall include the administrative law judge's findings and the basis for such assessment.
 
-(B) Any person against whom a penalty is assessed under this paragraph may, within 60 calendar days after the date of the order of the Secretary assessing such penalty, institute an action in the United States court of appeals for the appropriate judicial circuit for judicial review of such order in accordance with chapter 7 of title 5. The court shall have jurisdiction to enter a judgment affirming, modifying, or setting aside in whole or in part, the order of the Secretary, or the court may remand the proceeding to the Secretary for such further action as the court may direct.
+(B) Any person against whom a penalty is assessed under this paragraph may, within 60 calendar days after the date of the order of the Secretary assessing such penalty, institute an action in the United States court of appeals for the appropriate judicial circuit for judicial review of such order in accordance with chapter 7of title 5. The court shall have jurisdiction to enter a judgment affirming, modifying, or setting aside in whole or in part, the order of the Secretary, or the court may remand the proceeding to the Secretary for such further action as the court may direct.
 
 (3)(A) In the case of any civil penalty with respect to which the procedures of this paragraph have been elected, the Secretary shall promptly assess such penalty, by order, after the date of the receipt of the notice under paragraph (1) of the proposed penalty.
 
@@ -38,11 +38,7 @@ In the case of any electric powerplant granted an exemption, any person who oper
 
 1987—Subsec. (a). Pub. L. 100–42, §1(c)(20)(A), struck out “(other than section 8372 of this title)” after “this chapter”.
 
-Subsec. (b). Pub. L. 100–42, §1(c)(20)(B), (C), struck out “(1)” before “In the case of” and struck out par. (2) which read as follows: “Any person operating a majorfuel-burning installation granted an exemption which, for any 12-calendar-month period, uses petroleum or natural gas, or both, in excess of that use allowed by such exemption shall be liable for a civil penalty, which shall be assessed by the Secretary. The amount of such civil penalty may not exceed $10 per barrel of petroleum or $3 per Mcf of natural gas which was used in excess of that use allowed by such exemption.”
+Subsec. (b). Pub. L. 100–42, §1(c)(20)(B), (C), struck out “(1)” before “In the case of” and struck out par. (2) which read as follows: “Any person operating a major fuel-burning installation granted an exemption which, for any 12-calendar-month period, uses petroleum or natural gas, or both, in excess of that use allowed by such exemption shall be liable for a civil penalty, which shall be assessed by the Secretary. The amount of such civil penalty may not exceed $10 per barrel of petroleum or $3 per Mcf of natural gas which was used in excess of that use allowed by such exemption.”
 
 Subsec. (c). Pub. L. 100–42, §1(c)(20)(C), struck out subsec. (c) which set forth civil penalties for violation of section 8372 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8411, 8431 of this title.
 

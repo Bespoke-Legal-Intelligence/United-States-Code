@@ -132,7 +132,3 @@ The Food Security Act of 1985, referred to in subsec. (e)(3)(B), is Pub. L. 99�
 
 Section is comprised of section 1613 of Pub. L. 107–171. Subsec. (i) of section 1613 of Pub. L. 107–171 amended section 7001 of this title. Subsec. (j) of section 1613 amended section 6998 of this title and repealed sections 1339a of this title and section 3830a of Title 16, Conservation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6998 of this title.
-

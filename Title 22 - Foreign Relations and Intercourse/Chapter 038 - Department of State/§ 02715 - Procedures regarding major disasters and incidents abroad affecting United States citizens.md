@@ -26,7 +26,3 @@ Section 115(d) of Pub. L. 101–246 provided that:
 
 “(2) The Secretary of State shall consider the feasibility of establishing a toll-free telephone number to facilitate inquiries by the next-of-kin in cases of major disasters or incidents abroad which affect the health and safety of citizens of the United States residing or traveling abroad.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2715c, 5503, 5507 of this title.
-

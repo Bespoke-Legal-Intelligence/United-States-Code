@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(i) 10 percent or, in the case of a country suffering a public health crisis (as defined in subsection (e) of this section), not more than 5 percent, of the amount of the annual current revenues received by the country from internal resources; or
 
-&emsp;&emsp;&emsp;(ii) a percentage of the gross national product of the country, or another benchmark, that will yield a result substantially equivalent to that which would be achieved through application of subparagraph (A).
+&emsp;&emsp;&emsp;(ii) a percentage of the gross national product of the country, or another benchmark, that will yield a result substantially equivalent to that which would be achieved through application of clause (i).
 
 #### (2) Limitation
 
@@ -76,7 +76,7 @@ In this section:
 
 &emsp;The term “Enhanced HIPC Initiative” means the multilateral debt initiative for heavily indebted poor countries presented in the Report of G–7 Finance Ministers on the Cologne Debt Initiative to the Cologne Economic Summit, Cologne, June 18–20, 1999.
 
-(Pub. L. 95–118, title XVI, §1625, as added Pub. L. 108–25, title V, §501, May 27, 2003, 117 Stat. 747.)
+(Pub. L. 95–118, title XVI, §1625, as added Pub. L. 108–25, title V, §501, May 27, 2003, 117 Stat. 747; amended Pub. L. 108–199, div. D, title V, §596, Jan. 23, 2004, 118 Stat. 209.)
 
 #### References in Text
 
@@ -86,13 +86,13 @@ Section 262p–4p of this title, referred to in subsec. (b)(3), was in the origi
 
 May 27, 2003, referred to in subsec. (a)(1)(A)(ii), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 108–25, which enacted this section, to reflect the probable intent of Congress.
 
+#### Amendments
+
+2004—Subsec. (a)(1)(B)(ii). Pub. L. 108–199 substituted “clause (i)” for “subparagraph (A)”.
+
 #### Definitions
 
 The definitions in section 262p–5 of this title apply to this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7681, 7682 of this title.
 
 <i><sup>1</sup></i><i> So in original. The words “decision point” probably should be capitalized.</i>
 

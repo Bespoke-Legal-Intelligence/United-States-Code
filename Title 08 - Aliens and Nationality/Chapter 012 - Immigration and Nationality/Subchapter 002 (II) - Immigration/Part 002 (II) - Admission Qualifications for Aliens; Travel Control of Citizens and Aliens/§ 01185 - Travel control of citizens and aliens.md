@@ -20,7 +20,7 @@ Unless otherwise ordered by the President, it shall be unlawful—
 
 #### (b) Citizens
 
-Except as otherwise provided by the President and subject to such limitations and exceptions as the President may authorize and prescribe, it shall be unlawful for any citizen of the United States to depart from or enter, or attempt to depart from or enter, the United States unless he bears a valid United States passport.
+Except as otherwise provided by the President and subject to such limitations and exceptions as the President may authorize and prescribe, it shall be unlawful for any citizen of the UnitedStates to depart from or enter, or attempt to depart from or enter, the United States unless he bears a valid United States passport.
 
 #### (c) Definitions
 
@@ -72,6 +72,50 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Authority of President under subsec. (a)(1) of this section to maintain custody and conduct screening of any undocumented person seeking to enter the United States who is encountered in a vessel interdicted on the high seas through Dec. 31, 2000, delegated to Attorney General by Memorandum of President of the United States, Sept. 24, 1999, 64 F.R. 55809, set out as a note under section 1182 of this title.
 
+#### Travel Documents
+
+Pub. L. 108–458, title VII, §7209, Dec. 17, 2004, 118 Stat. 3823, provided that:
+
+“(a)
+
+Findings.—Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
+
+&emsp;“(1) Existing procedures allow many individuals to enter the United States by showing minimal identification or without showing any identification.
+
+&emsp;“(2) The planning for the terrorist attacks of September 11, 2001, demonstrates that terrorists study and exploit United States vulnerabilities.
+
+&emsp;“(3) Additional safeguards are needed to ensure that terrorists cannot enter the United States.
+
+“(b)
+
+Passports.—
+
+&emsp;“(1)
+
+Development of plan.—The Secretary of Homeland Security, in consultation with the Secretary of State, shall develop and implement a plan as expeditiously as possible to require a passport or other document, or combination of documents, deemed by the Secretary of Homeland Security to be sufficient to denote identity and citizenship, for all travel into the United States by United States citizens and by categories of individuals for whom documentation requirements have previously been waived under section 212(d)(4)(B) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(4)(B)). This plan shall be implemented not later than January 1, 2008, and shall seek to expedite the travel of frequent travelers, including those who reside in border communities, and in doing so, shall make readily available a registered traveler program (as described in section 7208(k) \[8 U.S.C. 1365b(k)\]).
+
+&emsp;“(2)
+
+Requirement to produce documentation.—The plan developed under paragraph (1) shall require all United States citizens, and categories of individuals for whom documentation requirements have previously been waived under section 212(d)(4)(B) of such Act \[8 U.S.C. 1182(d)(4)(B)\], to carry and produce the documentation described in paragraph (1) when traveling from foreign countries into the United States.
+
+“(c)
+
+Technical and Conforming Amendments.—After the complete implementation of the plan described in subsection (b)—
+
+&emsp;“(1) neither the Secretary of State nor the Secretary of Homeland Security may exercise discretion under section 212(d)(4)(B) of such Act \[8 U.S.C. 1182(d)(4)(B)\] to waive documentary requirements for travel into the United States; and
+
+&emsp;“(2) the President may not exercise discretion under section 215(b) of such Act (8 U.S.C. 1185(b)) to waive documentary requirements for United States citizens departing from or entering, or attempting to depart from or enter, the United States except—
+
+&emsp;&emsp;“(A) where the Secretary of Homeland Security determines that the alternative documentation that is the basis for the waiver of the documentary requirement is sufficient to denote identity and citizenship;
+
+&emsp;&emsp;“(B) in the case of an unforeseen emergency in individual cases; or
+
+&emsp;&emsp;“(C) in the case of humanitarian or national interest reasons in individual cases.
+
+“(d)
+
+Transit Without Visa Program.—The Secretary of State shall not use any authorities granted under section 212(d)(4)(C) of such Act \[8 U.S.C. 1182(d)(4)(C)\] until the Secretary, in conjunction with the Secretary of Homeland Security, completely implements a security plan to fully ensure secure transit passage areas to prevent aliens proceeding in immediate and continuous transit through the United States from illegally entering the United States.”
+
 #### Ex. Ord. No. 12172. Delegation of Authority of President to Secretary of State and Attorney General Respecting Entry of Iranian Aliens Into the United States
 
 Ex. Ord. No. 12172, Nov. 26, 1979, 44 F.R. 67947, as amended by Ex. Ord. No. 12206, Apr. 7, 1980, 45 F.R. 24101, provided:
@@ -97,8 +141,4 @@ Sec. 2. <i>Functions of the Secretary of State</i>. The Secretary of State is as
 Sec. 3. <i>Judicial Review</i>. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, entities, officers, employees or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1227 of this title.
 

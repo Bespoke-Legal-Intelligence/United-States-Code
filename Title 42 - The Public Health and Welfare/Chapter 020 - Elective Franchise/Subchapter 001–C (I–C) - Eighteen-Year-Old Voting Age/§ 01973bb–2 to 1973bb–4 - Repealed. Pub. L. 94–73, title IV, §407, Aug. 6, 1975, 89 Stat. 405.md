@@ -4,5 +4,5 @@ Section 1973bb–2, Pub. L. 89–110, title III, §303, as added Pub. L. 91–28
 
 Section 1973bb–3, Pub. L. 89–110, title III, §304, as added Pub. L. 91–285, §6, June 22, 1970, 84 Stat. 319, defined “State”. See section 1973bb–1 of this title.
 
-Section 1973bb–4, Pub. L. 891–10, title III, §305, as added Pub. L. 91–285, §6, June 22, 1970, 84 Stat. 319, provided for effective date of this subchapter.
+Section 1973bb–4, Pub. L. 89–10, title III, §305, as added Pub. L. 91–285, §6, June 22, 1970, 84 Stat. 319, provided for effective date of this subchapter.
 

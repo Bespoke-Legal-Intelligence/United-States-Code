@@ -88,7 +88,7 @@ Pub. L. 86–532, title IV, §406, June 29, 1960, 74 Stat. 244.
 
 Pub. L. 86–80, title IV, §406, July 8, 1959, 73 Stat. 180.
 
-Pub. L. 86–459, title IV, §406, June 13, 1958, 72 Stat. 199.
+Pub. L. 85–459, title IV, §406, June 13, 1958, 72 Stat. 199.
 
 Pub. L. 85–118, title V, §506, Aug. 2, 1957, 71 Stat. 340.
 

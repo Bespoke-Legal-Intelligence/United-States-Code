@@ -64,7 +64,7 @@ Nothing in this section shall—
 
 #### (2) Notice of acquisitions
 
-&emsp;Not later than 30 days after the consummation of the acquisition of an interest in a foreign utility company by an associate companyof a public utility company that is subject to the jurisdiction of a State commission with respect to its retail electric or gas rates or by such public utility company, such associate company or such public utility company, shall provide notice of such acquisition to every State commission having jurisdiction over the retail electric or gas rates of such public utility company, in such form as may be prescribed by the State commission.
+&emsp;Not later than 30 days after the consummation of the acquisition of an interest in a foreign utility company by an associate company of a public utility company that is subject to the jurisdiction of a State commission with respect to its retail electric or gas rates or by such public utility company, such associate company or such public utility company, shall provide notice of such acquisition to every State commission having jurisdiction over the retail electric or gas rates of such public utility company, in such form as may be prescribed by the State commission.
 
 #### (f) Prohibition on assumption of liabilities
 

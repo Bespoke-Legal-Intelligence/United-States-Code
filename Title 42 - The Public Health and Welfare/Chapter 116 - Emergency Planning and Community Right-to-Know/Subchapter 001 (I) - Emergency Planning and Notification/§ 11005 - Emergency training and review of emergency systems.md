@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) The status of public emergency alert devices or systems for providing timely and effective public warning of an accidental release of extremely hazardous substances into the environment, including releases into the atmosphere, surface water, or groundwater from facilities that produce, store, or use significant quantities of such extremely hazardous substances.
 
-&emsp;&emsp;(C) The technical and economic feasibility of establishing, maintaining, and operating perimeter alert systems for detecting releases of such extremely hazardous substances into the atmosphere, surface water, or groundwater, at facilities that manufacture, use, or store significant quantities of such substances.
+&emsp;&emsp;(C) The technical and economic feasibility of establishing, maintaining, and operatingperimeter alert systems for detecting releases of such extremely hazardous substances into the atmosphere, surface water, or groundwater, at facilities that manufacture, use, or store significant quantities of such substances.
 
 #### (3) Recommendations
 

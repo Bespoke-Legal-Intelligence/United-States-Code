@@ -10,7 +10,7 @@ The Governor or Governor's designee of each State shall, within 3 years of June 
 
 &emsp;(3) identify within each wellhead protection area all potential anthropogenic sources of contaminants which may have any adverse effect on the health of persons;
 
-&emsp;(4) describe a program that contains, as appropriate, technical assistance, financial assistance, implementation of control measures,education, training, and demonstration projects to protect the water supply within wellhead protection areas from such contaminants;
+&emsp;(4) describe a program that contains, as appropriate, technical assistance, financial assistance, implementation of control measures, education, training, and demonstration projects to protect the water supply within wellhead protection areas from such contaminants;
 
 &emsp;(5) include contingency plans for the location and provision of alternate drinking water supplies for each public water system in the event of well or wellfield contamination by such contaminants; and
 
@@ -36,7 +36,7 @@ After the date 3 years after June 19, 1986, no State shall receive funds authori
 
 #### (e) “Wellhead protection area” defined
 
-As used in this section, the term “wellhead protection area” means the surface and subsurface area surrounding a water well or wellfield, supplying a public water system, through which contaminants are reasonably likely to move toward and reach such water well or wellfield. The extent of a wellhead protection area, within a State, necessary to provide protection from contaminants which may have any adverse effect on the health of persons is to be determined by the State in the program submitted under subsection (a) of this section. Not later than one year after June 19, 1986, the Administrator shall issue technical guidance which States may use in making such determinations. Such guidance may reflect such factors as the radius of influence around a well or wellfield, the depth of drawdown of the water table by such well or wellfield at any given point, the time or rate of travel of various contaminants in various hydrologic conditions, distance from the well or wellfield, or other factors affecting the likelihood of contaminants reaching the well or wellfield, taking into account available engineering pump tests or comparable data, field reconnaissance, topographic information, and the geology of the formation in which the well or wellfield is located.
+As used in this section, the term “wellhead protection area” means the surface and subsurface area surrounding a water well or wellfield, supplying a public water system, through which contaminants are reasonably likely to move toward and reach such water well or wellfield. The extent of a wellhead protection area, within a State, necessary to provide protection from contaminants which may have any adverse effect on the health of persons is to be determined by the State in the program submitted under subsection (a) of this section. Not later than one year after June 19, 1986, the Administrator shall issue technical guidance whichStates may use in making such determinations. Such guidance may reflect such factors as the radius of influence around a well or wellfield, the depth of drawdown of the water table by such well or wellfield at any given point, the time or rate of travel of various contaminants in various hydrologic conditions, distance from the well or wellfield, or other factors affecting the likelihood of contaminants reaching the well or wellfield, taking into account available engineering pump tests or comparable data, field reconnaissance, topographic information, and the geology of the formation in which the well or wellfield is located.
 
 #### (f) Prohibitions
 
@@ -97,7 +97,7 @@ Unless the State program is disapproved under this section, the Administrator sh
 
 #### References in Text
 
-The Federal Water Pollution Control Act, referred to in subsec. (f)(1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (f)(1), is act June 30, 1948, ch. 758, as amendedgenerally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
@@ -120,8 +120,4 @@ Subsec. (c)(2). Pub. L. 104–182, §132(b)(3), substituted “is disapproved”
 Subsec. (k). Pub. L. 104–182, §120(b), inserted table item relating to fiscal years 1992 through 2003.
 
 1986—Subsec. (k). Pub. L. 99–339, §301(e), added subsec. (k).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300j–12, 300j–13, 300j–14 of this title.
 

@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to acquire on behalf of the United S
 
 (Pub. L. 89–565, §1, Sept. 9, 1966, 80 Stat. 737.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 282a of this title.
-

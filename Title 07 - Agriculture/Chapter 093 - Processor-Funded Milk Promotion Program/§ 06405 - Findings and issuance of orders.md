@@ -10,7 +10,3 @@ Such order shall be issued and, if approved by fluid milk processors as provided
 
 (Pub. L. 101–624, title XIX, §1999F, Nov. 28, 1990, 104 Stat. 3916.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6413 of this title.
-

@@ -40,7 +40,3 @@ The Adult Education and Family Literacy Act, referred to in subsec. (b)(1), is t
 
 A prior section 6367, Pub. L. 89–10, title I, §1207, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3582; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(k)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–332, related to applications for Even Start subgrants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381f of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6362, 6381j of this title.
-

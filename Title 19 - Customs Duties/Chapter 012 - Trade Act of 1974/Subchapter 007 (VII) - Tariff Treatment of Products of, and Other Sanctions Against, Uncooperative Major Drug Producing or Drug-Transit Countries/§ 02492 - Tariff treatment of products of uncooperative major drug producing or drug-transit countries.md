@@ -56,7 +56,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 &emsp;(ii) a statement weighing the risk described in clause (i) against the risks posed to the vital national interests of the United States by the failure of such country to cooperate fully with the United States in combating narcotics or to take adequate steps to combat narcotics on its own.
 
-(E) The President may make a certification under subparagraph (A)(i) with respect to a major drug producing country or drug-transit country which is also a producer of licit opium only if the President determines that such country has taken steps to prevent significant diversion of its licit cultivation and production into the illicit market, maintains production and stockpiles at levels no higher than those consistent with licit market demand, and prevents illicit cultivation and production.
+(E) The President may make a certification under subparagraph (A)(i) with respect to amajor drug producing country or drug-transit country which is also a producer of licit opium only if the President determines that such country has taken steps to prevent significant diversion of its licit cultivation and production into the illicit market, maintains production and stockpiles at levels no higher than those consistent with licit market demand, and prevents illicit cultivation and production.
 
 (2) In determining whether to make the certification required by paragraph (1) with respect to a country, the President shall consider the following:
 
@@ -179,10 +179,6 @@ Subsec. (b). Pub. L. 100–204, §806(a)(2), inserted “corruption by governmen
 Subsec. (c). Pub. L. 100–204, §806(a)(3), inserted “paragraph (1), (2), or (3) of” after “under”.
 
 Subsec. (d). Pub. L. 100–204, §806(a)(4), added subsec. (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2493, 2494 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

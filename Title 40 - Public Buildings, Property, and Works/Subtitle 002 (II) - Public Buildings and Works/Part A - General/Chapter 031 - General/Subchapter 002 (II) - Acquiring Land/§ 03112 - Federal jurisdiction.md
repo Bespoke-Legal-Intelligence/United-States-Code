@@ -6,7 +6,7 @@ Exclusive Jurisdiction Not Required.—It is not required that the Federal Gover
 
 (b)
 
-Acquisition and Acceptance of Jurisdiction.—When the head of a department, agency, or independent establishment of the Government, or other authorized officer of the department, agency, or independent establishment, considers it desirable, that individual may accept or secure, from the State in which land or an interest in land that is under the immediatejurisdiction, custody, or control of the individual is situated, consent to, or cession of, any jurisdiction over the land or interest not previously obtained. The individual shall indicate acceptance of jurisdiction on behalf of the Government by filing a notice of acceptance with the Governor of the State or in another manner prescribed by the laws of the State where the land is situated.
+Acquisition and Acceptance of Jurisdiction.—When the head of a department, agency, or independent establishment of the Government, or other authorized officer of the department, agency, or independent establishment, considers it desirable, that individual may accept or secure, from the State in which land or an interest in land that is under the immediate jurisdiction, custody, or control of the individual is situated, consent to, or cession of, any jurisdiction over the land or interest not previously obtained. The individual shall indicate acceptance of jurisdiction on behalf of the Government by filing a notice of acceptance with the Governor of the State or in another manner prescribed by the laws of the State where the land is situated.
 
 (c)
 
@@ -41,8 +41,4 @@ R.S. §355 (last par.); June 28, 1930, ch. 710, 46 Stat. 828; Feb. 1, 1940, ch. 
 Subsection (a) is substituted for 40:255 (last par. 1st sentence words before semicolon) to eliminate unnecessary words.
 
 In subsection (b), the words “exclusive or partial” are omitted as unnecessary.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 2250a; title 16 sections 343b, 430a, 441i, 571c; title 22 section 1471; title 42 sections 1502, 1594a, 2224, 5196; title 50 App. section 460.
 

@@ -4,7 +4,3 @@ No board of trade whose members are engaged in the business of buying or selling
 
 (Mar. 4, 1927, ch. 508, §2, 44 Stat. 1424.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 433 of this title.
-

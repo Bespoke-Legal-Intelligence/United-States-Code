@@ -26,9 +26,5 @@ In order to make continuous progress toward the long-term goal established in se
 
 (Pub. L. 94–469, title III, §303, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2755.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2665 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “action”.</i>
 

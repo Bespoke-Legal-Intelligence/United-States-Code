@@ -34,7 +34,3 @@ Section was enacted as part of the Rural Economic Development Act of 1990, and a
 
 1996—Subsec. (e). Pub. L. 104–127 substituted “1997” for “1995”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 917 of this title.
-

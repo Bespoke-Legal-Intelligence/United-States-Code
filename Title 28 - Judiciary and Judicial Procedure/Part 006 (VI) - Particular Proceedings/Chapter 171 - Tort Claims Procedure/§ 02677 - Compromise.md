@@ -22,7 +22,3 @@ This section was renumbered “2676” by Senate amendment. See 80th Congress Se
 
 Amendment by Pub. L. 89–506 applicable to claims accruing six months or more after July 18, 1966, see section 10 of Pub. L. 89–506, set out as a note under section 2672 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2672, 2678 of this title; title 5 section 8477; title 8 section 1357; title 10 sections 1054, 1089; title 22 section 2702; title 31 section 1304; title 38 sections 1151, 7316; title 42 sections 233, 2458a, 5055.
-

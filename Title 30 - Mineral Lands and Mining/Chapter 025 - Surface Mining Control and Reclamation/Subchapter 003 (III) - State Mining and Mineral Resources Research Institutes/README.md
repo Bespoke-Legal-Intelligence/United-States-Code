@@ -4,10 +4,6 @@
 
 Subchapter was not enacted as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 43 section 1457a.
-
 <i><sup>1</sup></i><i> So in original. Probably should be section “5316”.</i>
 
 

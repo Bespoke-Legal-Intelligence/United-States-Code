@@ -8,7 +8,3 @@ Any person who shall violate or fail to comply with any provision of, or any reg
 
 Section 690i, included within the reference to sections 690 to 690i, was omitted from the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 690a, 690c, 690d, 690e, 690f, 690h of this title.
-

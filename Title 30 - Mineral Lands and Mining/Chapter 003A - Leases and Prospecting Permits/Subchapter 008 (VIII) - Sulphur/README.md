@@ -1,9 +1,5 @@
 ### SUBCHAPTER VIII—SULPHUR
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 351, 352, 505, 530, 541e of this title.
-
 
 ---
 

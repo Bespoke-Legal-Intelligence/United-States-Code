@@ -14,7 +14,7 @@ The transmission by any ship of the United States, made in compliance with subse
 
 #### (d) Charges for transmission of distress messages
 
-No charge shall be made by any ship or station in the mobile service of the United States for the transmission of distress messages and replies thereto in connection with situations involving the safety of life and property at sea.
+No charge shall be made by any ship or station in the mobile service of the United States forthe transmission of distress messages and replies thereto in connection with situations involving the safety of life and property at sea.
 
 #### (e) Free services
 

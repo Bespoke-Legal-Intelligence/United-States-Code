@@ -4,7 +4,3 @@ When lime is sold in interstate or foreign commerce in containers of less capaci
 
 (Aug. 23, 1916, ch. 396, §3, 39 Stat. 530.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 240, 241, 242 of this title.
-

@@ -28,7 +28,3 @@ The Secretary, in accordance with sections 13541 and 13542 of this title, shall�
 
 (Pub. L. 102–486, title XXI, §2107, Oct. 24, 1992, 106 Stat. 3070.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13451 of this title.
-

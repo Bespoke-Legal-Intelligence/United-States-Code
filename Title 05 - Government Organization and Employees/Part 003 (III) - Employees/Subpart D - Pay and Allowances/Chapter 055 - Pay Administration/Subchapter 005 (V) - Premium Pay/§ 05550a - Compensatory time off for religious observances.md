@@ -20,7 +20,3 @@ The date of enactment of this section, referred to in subsec. (a), is the date o
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 1371.
-

@@ -18,7 +18,3 @@ Application To Cancel Registration.—Any person who believes he or she is or wi
 
 1999—Subsec. (c). Pub. L. 106–113 inserted at end “Costs of the cancellation procedure under this subsection shall be borne by the nonprevailing party or parties, and the Administrator shall have the authority to assess and collect such costs.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1304, 1321 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Studies
 
-In addition to the properties described in section 410z of this title, the Secretary shall study the properties described in this section to determine the feasibility and suitability of including them within the Boston National Historical Park. In making such studies, he may enter intotentative agreements with any owners thereof for their inclusion in said park and he may enter into options, for a nominal consideration, for the purchase of such properties, but no additional properties may be added to the park except by an act of the Congress. Studies shall be made of the following properties:
+In addition to the properties described in section 410z of this title, the Secretary shall study the properties described in this section to determine the feasibility and suitability of including them within the Boston National Historical Park. In making such studies, he may enter into tentative agreements with any owners thereof for their inclusion in said park and he may enter into options, for a nominal consideration, for the purchase of such properties, but no additional properties may be added to the park except by an act of the Congress. Studies shall be made of the following properties:
 
 &emsp;(1) Boston Common;
 
@@ -29,8 +29,4 @@ The Secretary may identify other significant sites of the colonial and Revolutio
 1996—Subsec. (b). Pub. L. 104–333 designated existing provisions as par. (1) and added par. (2).
 
 1978—Subsec. (a)(4), (5). Pub. L. 95–625 struck out par. “(4) Dorchester Heights; and” and redesignated par. (5) as (4).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410z–2 of this title.
 

@@ -8,7 +8,7 @@ The indenture to be qualified shall automatically be deemed (unless it is expres
 
 &emsp;(2) the indenture trustee may conclusively rely, as to the truth of the statements and the correctness of the opinions expressed therein, in the absence of bad faith on the part of such trustee, upon certificates or opinions conforming to the requirements of the indenture;
 
-> but the indenture trustee shall examine the evidence furnished to it pursuant to section 77nnnof this title to determine whether or not such evidence conforms to the requirements of the indenture.
+> but the indenture trustee shall examine the evidence furnished to it pursuant to section 77nnn of this title to determine whether or not such evidence conforms to the requirements of the indenture.
 
 #### (b) Notice of defaults
 
@@ -16,7 +16,7 @@ The indenture trustee shall give to the indenture security holders, in the manne
 
 #### (c) Duties of the trustee in case of default
 
-The indenture trustee shall exercise in case of default (as such term is defined in such indenture) such of the rights and powers vested in it by such indenture, and to use the same degree of care and skill in their exercise, as a prudent man would exercise or use under the circumstances in the conduct of his own affairs.
+The indenture trustee shall exercise in case of default (as such term is defined in such indenture) such of the rights and powers vested in it by such indenture, and to use the same degree of care and skill in their exercise, as a prudentman would exercise or use under the circumstances in the conduct of his own affairs.
 
 #### (d) Responsibility of the trustee
 
@@ -45,8 +45,4 @@ Subsec. (c). Pub. L. 101–550, §414(3), substituted “The indenture trustee s
 Subsec. (d)(1) to (3). Pub. L. 101–550, §414(5), substituted “such indenture shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “such indenture may”.
 
 Subsec. (e). Pub. L. 101–550, §414(1), substituted “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “The indenture to be qualified may”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77jjj, 77kkk, 77mmm, 77rrr of this title.
 

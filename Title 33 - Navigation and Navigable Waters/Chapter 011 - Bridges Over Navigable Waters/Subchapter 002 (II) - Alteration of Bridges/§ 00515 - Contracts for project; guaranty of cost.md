@@ -8,7 +8,3 @@ After approval of such general plans and specifications by the Secretary, and af
 
 1958—Pub. L. 85–640 struck out provisions which required bridge owner to take bids within 90 days after notification of approval of general plans and specifications, and inserted provisions permitting the taking of partial bids where funds have been appropriated for part of a project, and requiring the bridge owner, if requested, to submit a revised guaranty of cost.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 516, 522 of this title.
-

@@ -10,7 +10,3 @@ As used in this title, the term “organization” means a person other than an 
 
 1987—Pub. L. 100–185 made technical correction in directory language of Pub. L. 99–646, §38(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 976.
-

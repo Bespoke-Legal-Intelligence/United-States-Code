@@ -70,7 +70,7 @@ Notwithstanding the model years for which clean-fuel vehicle standards are appli
 
 #### (d) Choice of vehicles and fuel
 
-The plan revision under this subsection shall provide that the choice of clean-fuel vehiclesand clean alternative fuels shall be made by the covered fleet operator subject to the requirements of this subsection.
+The plan revision under this subsection shall provide that the choice of clean-fuel vehicles and clean alternative fuels shall be made by the covered fleet operator subject to the requirements of this subsection.
 
 #### (e) Availability of clean alternative fuel
 
@@ -86,7 +86,7 @@ The plan revision shall require fuel providers to make clean alternative fuel av
 
 &emsp;&emsp;(B) The purchase of clean fuel <sup>2</sup> vehicles which meet more stringent standards established by the Administrator pursuant to paragraph (4).
 
-&emsp;&emsp;(C) The purchase of vehicles in categories which are not covered by this section but which meet standards established for such vehicles under paragraph (4).
+&emsp;&emsp;(C) The purchase of vehicles in categories which are not covered by this section butwhich meet standards established for such vehicles under paragraph (4).
 
 #### (2) Use of credits; limitations based on weight classes
 
@@ -123,10 +123,6 @@ At any facility owned or operated by a department, agency, or instrumentality of
 The Administrator shall by rule, within 1 year after November 15, 1990, ensure that certain transportation control measures including time-of-day or day-of-week restrictions, and other similar measures that restrict vehicle usage, do not apply to any clean-fuel vehicle that meets the requirements of this section. This subsection shall apply notwithstanding subchapter I of this chapter.
 
 (July 14, 1955, ch. 360, title II, §246, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2520.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7512a, 7587, 7589 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “light-duty”.</i>
 

@@ -70,7 +70,3 @@
 
 2002—Pub. L. 107–188 reenacted section catchline without change and amended text generally, substituting detailed provisions relating to facilities, capacities, and national communications and surveillance networks for provisions relating to findings of need for secure and modern facilities.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 247d–7c of this title.
-

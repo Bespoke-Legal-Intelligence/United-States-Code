@@ -4,7 +4,7 @@
 
 (1) There is established an independent regulatory commission to be known as the Nuclear Regulatory Commission which shall be composed of five members, each of whom shall be a citizen of the United States. The President shall designate one member of the Commission as Chairman thereof to serve as such during the pleasure of the President. The Chairman may from time to time designate any other member of the Commission as Acting Chairman to act in the place and stead of the Chairman during his absence. The Chairman (or the Acting Chairman in the absence of the Chairman) shall preside at all meetings of the Commission and a quorum for the transaction of business shall consist of at least three members present. Each member of the Commission, including the Chairman, shall have equal responsibility and authority in all decisions and actions of the Commission, shall have full access to all information relating to the performance of his duties or responsibilities, and shall have one vote. Action of the Commission shall be determined by a majority vote of the members present. The Chairman (or Acting Chairman in the absence of the Chairman) shall be the official spokesman of the Commission in its relations with the Congress, Government agencies, persons, or the public, and, on behalf of the Commission, shall see to the faithful execution of the policies and decisions of the Commission, and shall report thereon to the Commission from time to time or as the Commission may direct. The Commission shall have an official seal which shall be judicially noticed.
 
-(2) The Chairman of the Commission shall be the principal executive officer of the Commission, and he shall exercise all of the executive and administrative functions of the Commission, including functions of the Commission with respect to (a) the appointment and supervision of personnel employed under the Commission (other than personnel employed regularlyand full time in the immediate offices of commissioners other than the Chairman, and except as otherwise provided in this chapter), (b) the distribution of business among such personnel and among administrative units of the Commission, and (c) the use and expenditure of funds.
+(2) The Chairman of the Commission shall be the principal executive officer of the Commission, and he shall exercise all of the executive and administrative functions of the Commission, including functions of the Commission with respect to (a) the appointment and supervision of personnel employed under the Commission (other than personnel employed regularly and full time in the immediate offices of commissioners other than the Chairman, and except as otherwise provided in this chapter), (b) the distribution of business among such personnel and among administrative units of the Commission, and (c) the use and expenditure of funds.
 
 (3) In carrying out any of his functions under the provisions of this section the Chairman shall be governed by general policies of the Commission and by such regulatory decisions, findings, and determinations as the Commission may by law be authorized to make.
 
@@ -58,7 +58,7 @@ The Atomic Energy Act of 1954, as amended, referred to in subsec. (g), is act Au
 
 1975—Subsec. (a). Pub. L. 94–79, §201, designated existing provisions as par. (1) and added pars. (2) to (5).
 
-Subsec. (c). Pub. L. 94–79, §§202, 203, provided for appointment for remainder of term where vacancy occurs prior to expiration of term of predecessor appointee and designated July 1, 1975, as commencement date of initial appointees for purpose of determining expiration date of terms of office.
+Subsec. (c). Pub. L. 94–79, §§202, 203, provided for appointment for remainder of term where vacancy occurs prior to expiration of term of predecessor appointeeand designated July 1, 1975, as commencement date of initial appointees for purpose of determining expiration date of terms of office.
 
 #### Transfer of Functions
 
@@ -144,9 +144,9 @@ Pub. L. 97–415, §13, Jan. 4, 1983, 96 Stat. 2074, provided that:
 
 “(b) The Commission shall conduct a study of existing and alternative programs for improving quality assurance and quality control in the construction of commercial nuclear powerplants. In conducting the study, the Commission shall obtain the comments of the public, licensees of nuclear powerplants, the Advisory Committee on Reactor Safeguards, and organizations comprised of professionals having expertise in appropriate fields. The study shall include an analysis of the following:
 
-&emsp;“(1) providing a basis for quality assurance and quality control, inspection, and enforcement actions through the adoption of an approach which is more prescriptive than that currently in practice for defining principal architectural and engineering criteria for the construction of commercial nuclear powerplants;
+&emsp;“(1) providing a basis for quality assurance and quality control, inspection, and enforcement actionsthrough the adoption of an approach which is more prescriptive than that currently in practice for defining principal architectural and engineering criteria for the construction of commercial nuclear powerplants;
 
-&emsp;“(2) conditioning the issuance of construction permits for commercial nuclear powerplants on a demonstration by the licensee that the licensee is capableof independently managing the effective performance of all quality assurance and quality control responsibilities for the powerplant;
+&emsp;“(2) conditioning the issuance of construction permits for commercial nuclear powerplants on a demonstration by the licensee that the licensee is capable of independently managing the effective performance of all quality assurance and quality control responsibilities for the powerplant;
 
 &emsp;“(3) evaluations, inspections, or audits of commercial nuclear powerplant construction by organizations comprised of professionals having expertise in appropriate fields which evaluations, inspections, or audits are more effective than those under current practice;
 
@@ -196,7 +196,7 @@ Section 1. (a) Those functions of the Nuclear Regulatory Commission, hereinafter
 
 > shall remain vested in the Commission. The Commission may determine by majority vote, in an area of doubt, whether any matter, action, question or area of inquiry pertains to one of these functions. The performance of any portion of these functions may be delegated by the Commission to a member of the Commission, including the Chairman of the Nuclear Regulatory Commission, hereinafter referred to as the “Chairman”, and to the staff through the Chairman.
 
-(b)(1) With respect to the following officers or successor officers duly established by statute or by the Commission, the Chairman shall initiate the appointment, subject to the approval of the Commission; and the Chairman or a member of the Commission may initiate an action for removal, subject to the approval of the Commission:
+(b)(1) With respect to the following officers or successor officers duly established by statute or by the Commission, the Chairman shall initiate the appointment, subject to the approval of the Commission; and theChairman or a member of the Commission may initiate an action for removal, subject to the approval of the Commission:
 
 &emsp;(i) Executive Director for Operations,
 
@@ -268,7 +268,7 @@ Sec. 4. (a) The Chairman may make such delegations and provide for such reportin
 
 (d) The heads of the Commission level offices or successor offices, of General Counsel, Secretary to the Commission, Office of Policy Evaluation, Office of Inspector and Auditor, the Atomic Safety and Licensing Board Panel and Appeal Panel, and Advisory Committee on Reactor Safeguards shall continue to report directly to the Commission and the Commission shall continue to receive such reports.
 
-Sec. 5. The provisions of this Reorganization Plan shall take effect October 1, 1980, or at such earlier timeor times as the President shall specify, but no sooner than the earliest time allowable under Section 906 of Title 5 of the United States Code.
+Sec. 5. The provisions of this Reorganization Plan shall take effect October 1, 1980, or at such earlier time or times as the President shall specify, but no sooner than the earliest time allowable under Section 906 of Title 5 of the United States Code.
 
 #### Message of the President
 
@@ -308,7 +308,7 @@ Under the Plan, the Chairman would act as the principal executive officer and sp
 
 #### emergency management
 
-The Nuclear Regulatory Commission's ability to respond decisively and responsibly to any nuclear emergency must be fully ensured in advance. Experience has shown that the Commission as a whole cannot deal expeditiously with emergencies or communicate in a clear, unified voice to civil authorities or to the public. But present law prevents the Commission from delegating its emergency authority to one of its members. The Plan would correct this situation by specifically authorizing the Chairman to act for the Commission in an emergency. In order to ensure flexibility, the Chairman would be permitted to delegate his authority to deal with a particular emergency to any other Commissioner. Plans for dealing with various contingencies would be approved by the Commission in advance. The Commission would also receive a report from the Chairman or his designee describing the management of the emergency once it was over.
+The Nuclear Regulatory Commission's ability to respond decisively and responsibly to any nuclear emergency must be fully ensured in advance. Experience has shown that the Commission as a whole cannot deal expeditiously with emergencies or communicate in a clear, unified voice to civil authorities or to the public.But present law prevents the Commission from delegating its emergency authority to one of its members. The Plan would correct this situation by specifically authorizing the Chairman to act for the Commission in an emergency. In order to ensure flexibility, the Chairman would be permitted to delegate his authority to deal with a particular emergency to any other Commissioner. Plans for dealing with various contingencies would be approved by the Commission in advance. The Commission would also receive a report from the Chairman or his designee describing the management of the emergency once it was over.
 
 #### actions not included in this plan
 
@@ -349,10 +349,6 @@ The White House, May 5, 1980.
 #### Executive Order No. 11902
 
 Ex. Ord. No. 11902, Feb. 2, 1976, 41 F.R. 4877, as amended by Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, which set out procedures for the export licensing policy as to nuclear materials and equipment, was revoked by Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5845 of this title.
 
 <i><sup>1</sup></i><i> As amended May 5, 1980.</i>
 

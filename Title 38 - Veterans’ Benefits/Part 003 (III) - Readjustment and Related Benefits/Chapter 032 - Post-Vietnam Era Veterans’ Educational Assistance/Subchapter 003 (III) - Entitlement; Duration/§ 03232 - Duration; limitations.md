@@ -1,6 +1,6 @@
 ### §3232. Duration; limitations
 
-(a)(1) Except as provided in paragraphs (2) and (3), and subject to paragraph (4), of this subsection, educational assistance benefits shall not be afforded an eligible veteran under this chapter more than 10 years after the date of such veteran's last discharge or release from active duty.
+(a)(1) Except as provided in paragraphs (2) and (3), and subject to paragraph (4), of this subsection, educational assistance benefits shallnot be afforded an eligible veteran under this chapter more than 10 years after the date of such veteran's last discharge or release from active duty.
 
 (2)(A) If any eligible veteran was prevented from initiating or completing such veteran's chosen program of education during the delimiting period determined under paragraph (1) of this subsection because of a physical or mental disability which was not the result of such veteran's own willful misconduct, such veteran shall, upon application made in accordance with subparagraph (B) of this paragraph, be granted an extension of the applicable delimiting period for such length of time as the Secretary determines, from the evidence, that such veteran was so prevented from initiating or completing such program of education.
 
@@ -22,13 +22,21 @@
 
 (3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1632; amended Pub. L. 97–258, §3(k)(2), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 98–160, title VII, §702(8), Nov. 21, 1983, 97 Stat 1009; Pub. L. 99–576, title III, §311, Oct. 28, 1986, 100 Stat. 3272; Pub. L. 101–237, title IV, §§420(a)(2), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2087, 2092; Pub. L. 102–16, §4, Mar. 22, 1991, 105 Stat. 49; renumbered §3232 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §106(c)(1), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 106–419, title I, §122(b)(2), Nov. 1, 2000, 114 Stat. 1834.)
+(d)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or national test providing an opportunity for course credit at institutions of higher learning described in section 3452(b) of this title is the amount of the fee charged for the test.
+
+(2) The number of months of entitlement charged in the case of any individual for a test described in paragraph (1) is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance, except for paragraph (1), such individual would otherwise be paid under this chapter.
+
+(3) In no event shall payment of educational assistance under this subsection for a test described in paragraph (1) exceed the amount of the individual's available entitlement under this chapter.
+
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1632; amended Pub. L. 97–258, §3(k)(2), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 98–160, title VII, §702(8), Nov. 21, 1983, 97 Stat 1009; Pub. L. 99–576, title III, §311, Oct. 28, 1986, 100 Stat. 3272; Pub. L. 101–237, title IV, §§420(a)(2), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2087, 2092; Pub. L. 102–16, §4, Mar. 22, 1991, 105 Stat. 49; renumbered §3232 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §106(c)(1), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 106–419, title I, §122(b)(2), Nov. 1, 2000, 114 Stat. 1834; Pub. L. 108–454, title I, §106(b)(2), Dec. 10, 2004, 118 Stat. 3603.)
 
 #### Amendments
 
+2004—Subsec. (d). Pub. L. 108–454 added subsec. (d).
+
 2000—Subsec. (c). Pub. L. 106–419 added subsec. (c).
 
-1996—Subsec. (b)(2)(B). Pub. L. 104–275 struck out “, for the purposes of section 1322(a) of title 31,” after“it shall be presumed” and substituted “to the Secretary for payments for entitlement earned under subchapter II of chapter 30” for “as provided in such section”.
+1996—Subsec. (b)(2)(B). Pub. L. 104–275 struck out “, for the purposes of section 1322(a) of title 31,” after “it shall be presumed” and substituted “to the Secretary for payments for entitlement earned under subchapter II of chapter 30” for “as provided in such section”.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1632 of this title as this section.
 
@@ -51,8 +59,4 @@ Subsec. (a)(4). Pub. L. 101–237, §420(a)(2)(A), added par. (4).
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–419 effective Mar. 1, 2001, and applicable with respect to licensing and certification tests approved by the Secretary of Veterans Affairs on or after such date, see section 122(d) of Pub. L. 106–419, set out as a note under section 3032 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3035 of this title.
 

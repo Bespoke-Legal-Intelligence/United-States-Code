@@ -98,7 +98,3 @@ Subsec. (c)(4). Pub. L. 100–607, §116(2)(C), added par. (4).
 
 Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 284a, 285a–2, 285b–3, 289a, 300cc–41 of this title.
-

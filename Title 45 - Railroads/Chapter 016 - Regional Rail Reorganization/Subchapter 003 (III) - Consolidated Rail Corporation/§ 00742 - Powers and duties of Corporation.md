@@ -18,7 +18,3 @@ The Corporation shall have all of the powers and is subject to all of the duties
 
 See section 1341 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 741 of this title.
-

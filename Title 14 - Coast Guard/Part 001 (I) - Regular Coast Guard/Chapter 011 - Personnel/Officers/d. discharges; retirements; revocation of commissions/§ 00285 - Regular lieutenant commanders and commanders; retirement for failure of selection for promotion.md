@@ -34,7 +34,3 @@ Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88
 
 Savings provisions in section 5(h) of Pub. L. 88–130 providing that notwithstanding section 1431 of Title 10, Armed Forces, an election, change or revocation thereof affecting an annuity, by an officer retired under this section, is effective if made prior to the first day of the third month following September 1963, are set out as a note under section 211 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 286, 287 of this title.
-

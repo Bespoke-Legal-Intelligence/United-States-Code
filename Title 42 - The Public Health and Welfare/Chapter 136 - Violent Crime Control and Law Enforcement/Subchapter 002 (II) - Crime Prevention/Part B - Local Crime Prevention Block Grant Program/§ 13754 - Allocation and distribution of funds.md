@@ -24,7 +24,3 @@ For purposes of this section, if data regarding part 1 violent crimes in any Sta
 
 (Pub. L. 103–322, title III, §30204, Sept. 13, 1994, 108 Stat. 1842.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13758, 14214 of this title.
-

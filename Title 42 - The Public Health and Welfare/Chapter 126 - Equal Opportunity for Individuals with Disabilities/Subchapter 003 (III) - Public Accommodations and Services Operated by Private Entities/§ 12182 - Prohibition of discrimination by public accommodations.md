@@ -20,7 +20,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 #### (iii) Separate benefit
 
-&emsp;&emsp;&emsp;It shall be discriminatory to provide an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements with a good, service, facility, privilege, advantage, or accommodation that is different or separate from that provided to other individuals, unless such action is necessary to provide the individual or class of individuals with a good, service, facility, privilege, advantage, or accommodation, or other opportunity that is as effective as that provided to others.
+&emsp;&emsp;&emsp;It shall be discriminatory to provide an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements with a good, service, facility, privilege, advantage, or accommodation that isdifferent or separate from that provided to other individuals, unless such action is necessary to provide the individual or class of individuals with a good, service, facility, privilege, advantage, or accommodation, or other opportunity that is as effective as that provided to others.
 
 #### (iv) Individual or class of individuals
 
@@ -103,8 +103,4 @@ For the effective date of this subparagraph, referred to in subsec. (b)(2)(B), (
 #### Effective Date
 
 Section effective 18 months after July 26, 1990, but with subsec. (a) of this section (for purposes of subsec. (b)(2)(B), (C) only) effective July 26, 1990, and with certain qualifications with respect to bringing of civil actions, see section 310 of Pub. L. 101–336, set out as a note under section 12181 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12183, 12184, 12186, 12188, 12209 of this title; title 2 section 1331; title 3 section 421.
 

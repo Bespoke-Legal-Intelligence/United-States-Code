@@ -12,7 +12,3 @@ Whoever willfully and knowingly
 
 (Pub. L. 90–321, title I, §112, May 29, 1968, 82 Stat. 151.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1640 of this title.
-

@@ -120,7 +120,7 @@ Apr. 4, 1953, ch. 17, §1(e), 67 Stat. 21.
 
 Only that portion of the source law which is applicable to civilian officers and employees and their dependents is codified in this section.
 
-In paragraph (1), the word “agency” is substituted for “department”. The words “including such term when used in the amendment made by section 16” are omitted as surplusage. The words “an Executive agency and a military department” are coextensive with and substituted for “any executive department, independent establishment, or agency (including corporations) inthe executive branch of the Federal Government” in view of the definitions in sections 105 and 102, and on authority of 5 U.S.C. 933a which provides that general legislation governing employment, compensation, and the status of employees of the United States applies to employees of the General Accounting Office in the same manner as if they were in the executive branch.
+In paragraph (1), the word “agency” is substituted for “department”. The words “including such term when used in the amendment made by section 16” are omitted as surplusage. The words “an Executive agency and a military department” are coextensive with and substituted for “any executive department, independent establishment, or agency (including corporations) in the executive branch of the Federal Government” in view of the definitions in sections 105 and 102, and on authority of 5 U.S.C. 933a which provides that general legislation governing employment, compensation, and the status of employees of the United States applies to employees of the General Accounting Office in the same manner as if they were in the executive branch.
 
 In paragraph (3)(A), the word “lawful” is omitted as unnecessary in view of the accepted recognition of the fact that the word “wife” means a lawful wife. In paragraph (3)(E), the words “head of the agency concerned or his designee” are substituted for “head of the department concerned, or subordinate designated by him”.
 
@@ -155,8 +155,4 @@ Ex. Ord. No. 12268, Jan. 15, 1981, 46 F.R. 4671, provided for the implementation
 #### Executive Order No. 12313
 
 Ex. Ord. No. 12313, July 13, 1981, 46 F.R. 36689, designated Jan. 11, 1981, as date on which all citizens and resident aliens of the United States who had been placed in captive status as a result of seizure of United States Embassy in Iran were returned to United States or otherwise accounted for and were no longer under foreign control.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5564, 5569 of this title; title 10 sections 4342, 6954, 9342; title 26 sections 112, 6013.
 

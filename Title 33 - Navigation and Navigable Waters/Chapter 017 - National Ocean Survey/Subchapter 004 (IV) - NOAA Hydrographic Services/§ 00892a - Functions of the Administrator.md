@@ -56,9 +56,5 @@ Pub. L. 106–541, title V, §554, Dec. 11, 2000, 114 Stat. 2679, provided that:
 
 &emsp;“(2) to require the Administrator to provide the final charts with respect to the project to the Secretary in digital format, at no charge, for the purpose of enhancing the mission of the Corps of Engineers of maintaining Federal navigation projects.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 892b, 892c, 892d of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

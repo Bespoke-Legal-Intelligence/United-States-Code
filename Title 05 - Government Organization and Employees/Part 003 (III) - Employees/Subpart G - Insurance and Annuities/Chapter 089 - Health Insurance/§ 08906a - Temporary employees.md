@@ -20,7 +20,3 @@
 
 Section 301(d) of Pub. L. 100–654 provided that: “The amendments made by this section \[enacting this section and amending section 8913 of this title\] shall be effective 120 days after the date of enactment of this section \[Nov. 14, 1988\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8913 of this title.
-

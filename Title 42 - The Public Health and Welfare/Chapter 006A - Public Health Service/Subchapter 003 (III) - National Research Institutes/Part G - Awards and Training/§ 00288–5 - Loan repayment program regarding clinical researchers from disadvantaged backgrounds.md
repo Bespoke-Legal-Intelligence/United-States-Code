@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to section 288(a)(1)(C) of this title, the Secretary, acting through the Director of NIH may, subject to paragraph (2), carry out a program of entering into contracts with appropriately qualified health professionals who are from disadvantaged backgrounds under which such health professionals agree to conduct clinical research in consideration of the Federal Government agreeing to pay, for each year of such service, not more than $35,000 of the principal and interest of the educational loans of the health professionals.
+&emsp;Subject to section 288(a)(1)(C) of this title, the Secretary, acting through the Director ofNIH may, subject to paragraph (2), carry out a program of entering into contracts with appropriately qualified health professionals who are from disadvantaged backgrounds under which such health professionals agree to conduct clinical research in consideration of the Federal Government agreeing to pay, for each year of such service, not more than $35,000 of the principal and interest of the educational loans of the health professionals.
 
 #### (2) Limitation
 
@@ -27,8 +27,4 @@ Amounts appropriated for a fiscal year for contracts under subsection (a) of thi
 1998—Subsec. (a)(1). Pub. L. 105–392, §410(d)(1), substituted “$35,000” for “$20,000”.
 
 Subsec. (a)(3). Pub. L. 105–392, §410(d)(2), substituted “254<i>l</i>–1, 254m” for “254m”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 288 of this title.
 

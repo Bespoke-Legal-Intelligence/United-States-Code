@@ -4,45 +4,57 @@
 
 Congress finds that—
 
-&emsp;(1) while the economy of the United States is undergoing a sustained period of economic growth resulting in low unemployment and increasing incomes, there continue to be areas suffering economic distress in the form of high unemployment, low incomes, underemployment, and outmigration as well as areas facing sudden economic dislocations due to industrial restructuring and relocation, defense base closures and procurement cutbacks, certain Federal actions (including environmental requirements that result in the removal of economic activities from a locality), and natural disasters;
+&emsp;(1) there continue to be areas of the United States experiencing chronic high unemployment, underemployment, outmigration, and low per capita incomes, as well as areas facing sudden and severe economic dislocations because of structural economic changes, changing trade patterns, certain Federal actions (including environmental requirements that result in the removal of economic activities from a locality), and natural disasters;
 
-&emsp;(2) as the economy of the United States continues to grow, those distressed areas contain significant human and infrastructure resources that are underused;
+&emsp;(2) economic growth in the States, cities, and rural areas of the United States is produced by expanding economic opportunities, expanding free enterprise through trade, developing and strengthening public infrastructure, and creating a climate for job creation and business development;
 
-&emsp;(3) expanding international trade and the increasing pace of technological innovation offer both a challenge and an opportunity to the distressed communities of the United States;
+&emsp;(3) the goal of Federal economic development programs is to raise the standard of living for all citizens and increase the wealth and overall rate of growth of the economy by encouraging communities to develop a more competitive and diversified economic base by—
 
-&emsp;(4) while economic development is an inherently local process, the Federal Government should work in partnership with public and private local, regional, and State organizations to ensure that existing resources are not wasted and all Americans have an opportunity to participate in the economic growth of the United States;
+&emsp;&emsp;(A) creating an environment that promotes economic activity by improving and expanding public infrastructure;
 
-&emsp;(5) in order to avoid wasteful duplication of effort and to limit the burden on distressed communities, Federal, State, and local economic development activities should be better planned and coordinated and Federal program requirements should be simplified and made more consistent;
+&emsp;&emsp;(B) promoting job creation through increased innovation, productivity, and entrepreneurship; and
 
-&emsp;(6) the goal of Federal economic development activities should be to work in partnership with local, regional, and State public and private organizations to support the development of private sector businesses and jobs in distressed communities;
+&emsp;&emsp;(C) empowering local and regional communities experiencing chronic high unemployment and low per capita income to develop private sector business and attract increased private sector capital investment;
 
-&emsp;(7) Federal economic development efforts will be more effective if they are coordinated with, and build upon, the trade and technology programs of the United States; and
+&emsp;(4) while economic development is an inherently local process, the Federal Government should work in partnership with public and private State, regional, tribal, and local organizations to maximize the impact of existing resources and enable regions, communities, and citizens to participate more fully in the American dream and national prosperity;
 
-&emsp;(8) under this chapter, new employment opportunities should be created by developing and expanding new and existing public works and other facilities and resources rather than by merely transferring jobs from one area of the United States to another.
+&emsp;(5) in order to avoid duplication of effort and achieve meaningful, long-lasting results, Federal, State, tribal, and local economic development activities should have a clear focus, improved coordination, a comprehensive approach, and simplified and consistent requirements; and
+
+&emsp;(6) Federal economic development efforts will be more effective if the efforts are coordinated with, and build upon, the trade, workforce investment, transportation, and technology programs of the United States.
 
 #### (b) Declarations
 
-Congress declares that, in order to promote a strong and growing economy throughout the United States—
+In order to promote a strong and growing economy throughout the United States, Congress declares that—
 
-&emsp;(1) assistance under this chapter should be made available to both rural and urban distressed communities;
+&emsp;(1) assistance under this chapter should be made available to both rural- and urban-distressed communities;
 
-&emsp;(2) local communities should work in partnership with neighboring communities, the States, and the Federal Government to increase their capacity to develop and implement comprehensive economic development strategies to address existing, or deter impending, economic distress; and
+&emsp;(2) local communities should work in partnership with neighboring communities, the States, Indian tribes, and the Federal Government to increase the capacity of the local communities to develop and implement comprehensive economic development strategies to alleviate economic distress and enhance competitiveness in the global economy;
 
-&emsp;(3) whether suffering from long-term distress or a sudden dislocation, distressed communities should be encouraged to take advantage of the development opportunities afforded by technological innovation and expanding and newly opened global markets.
+&emsp;(3) whether suffering from long-term distress or a sudden dislocation, distressed communities should be encouraged to support entrepreneurship to take advantage of the development opportunities afforded by technological innovation and expanding newly opened global markets; and
 
-(Pub. L. 89–136, §2, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3598.)
+&emsp;(4) assistance under this chapter should be made available to promote the productive reuse of abandoned industrial facilities and the redevelopment of brownfields.
+
+(Pub. L. 89–136, §2, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3598; amended Pub. L. 108–373, title I, §101, Oct. 27, 2004, 118 Stat. 1757.)
 
 #### Prior Provisions
 
 A prior section 3121, Pub. L. 89–136, §2, Aug. 26, 1965, 79 Stat. 552; Pub. L. 94–487, title I, §102, Oct. 12, 1976, 90 Stat. 2331, set forth congressional findings and statement of purpose of chapter, prior to repeal by Pub. L. 105–393, §102(a).
 
+#### Amendments
+
+2004—Pub. L. 108–373 reenacted section catchline without change and amended text generally, substituting pars. (1) to (6) for former pars. (1) to (8) in subsec. (a) and pars. (1) to (4) for former pars. (1) to (3) in subsec. (b).
+
 #### Effective Date
 
 Pub. L. 105–393, title I, §105, Nov. 13, 1998, 112 Stat. 3618, provided that: “This title \[see Short Title of 1998 Amendment note set out below\] and the amendments made by this title shall take effect on a date determined by the Secretary of Commerce, but not later than 90 days after the date of enactment of this Act \[Nov. 13, 1998\].” \[Effective Feb. 11, 1999, see 64 F.R. 9222.\]
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–373, §1(a), Oct. 27, 2004, 118 Stat. 1756, provided that: “This Act \[enacting sections 3154 to 3154d, 3221, 3222, and 3234 of this title, amending this section and sections 3122, 3131, 3133, 3143 to 3147, 3149, 3151, 3161, 3162, 3174, 3192, 3196, 3212, 3213, 3219, and 3231 of this title, and repealing sections 3148, 3173, and 3195 of this title\] may be cited as the ‘Economic Development Administration Reauthorization Act of 2004’.”
+
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–393, §1(a), Nov. 13, 1998, 112 Stat. 3596, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Economic Development Administration and Appalachian Regional Development Reform Act of 1998’.”
+Pub. L. 105–393, §1(a), Nov. 13, 1998, 112 Stat. 3596, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Economic Development Administration and Appalachian Regional Development Reform Act of 1998’.”
 
 Pub. L. 105–393, title I, §101, Nov. 13, 1998, 112 Stat. 3597, provided that: “This title \[enacting subchapters I to VII of this chapter, transferring section 3222 of this title to section 3212 of this title, amending section 5316 of Title 5, Government Organization and Employees, repealing former subchapters I to X of this chapter, enacting provisions set out as notes under this section, and repealing provisions set out as a note under this section\] may be cited as the ‘Economic Development Administration Reform Act of 1998’.”
 
@@ -54,7 +66,7 @@ Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: “This Ac
 
 Pub. L. 94–188, §1, Dec. 31, 1975, 89 Stat. 1079, provided: “That this Act \[enacting sections 3194 to 3196 of this title and sections 225 and 303 of the Appendix to former Title 40, Public Buildings, Property, and Works, amending sections 3181, 3182, 3188a and 3192 of this title, and sections 2, 101, 102, 105–107, 201, 202, 205, 207, 211, 214, 223, 224, 302, 401 and 405 of the Appendix to former Title 40, repealing section 3134 of this title, and enacting provisions set out as notes under sections 3181 and 3183 of this title and sections 1, 2 and 201 of the Appendix of former Title 40\] may be cited as the ‘Regional Development Act of 1975’.”
 
-Pub. L. 94–188, title II, §201, Dec. 31, 1975, 89 Stat. 1087, provided that: “This title \[enacting sections 3194 to 3196 of this title, amending sections 3181, 3182, 3188a, and 3192 of this title, and enacting provisions set out as note under section 3183 of this title\] may be cited as the ‘Regional Action Planning Commission Improvement Act of 1975’.”
+Pub. L. 94–188, title II, §201, Dec. 31, 1975, 89 Stat. 1087, provided that: “This title \[enacting sections 3194 to 3196of this title, amending sections 3181, 3182, 3188a, and 3192 of this title, and enacting provisions set out as note under section 3183 of this title\] may be cited as the ‘Regional Action Planning Commission Improvement Act of 1975’.”
 
 #### Short Title of 1974 Amendment
 
@@ -102,7 +114,7 @@ Administration.—The Secretary of Commerce shall take such actions authorized b
 
 #### Denali Commission
 
-Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B, §1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280; Pub. L. 108–7, div. A, title VII, §749, div. D, title V, §504, Feb. 20, 2003, 117 Stat. 44, 158, provided that:
+Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B, §1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280; Pub. L. 108–7, div. A, title VII, §749, div. D, title V, §504, Feb. 20, 2003, 117 Stat. 44, 158; Pub. L. 108–199, div. B, title I, §112(d), div. E, title II, §222, Jan. 23, 2004, 118 Stat. 63, 256; Pub. L. 108–447, div. H, title V, §521, Dec. 8, 2004, 118 Stat. 3268, provided that:
 
 #### “SEC. 301. SHORT TITLE.
 
@@ -130,7 +142,7 @@ Membership.—
 
 &emsp;“(1)
 
-Composition.—The Commission shall be composed of 7 members, who shall be appointed by theSecretary of Commerce (referred to in this title as the ‘Secretary’), of whom—
+Composition.—The Commission shall be composed of 7 members, who shall be appointed by the Secretary of Commerce (referred to in this title as the ‘Secretary’), of whom—
 
 &emsp;&emsp;“(A) one shall be the Governor of the State of Alaska, or an individual selected from nominations submitted by the Governor, who shall serve as the State Cochairperson;
 
@@ -156,7 +168,7 @@ In general.—The President pro temporare \[sic\] of the Senate and the Speaker 
 
 &emsp;&emsp;“(B)
 
-Appointment.—The Secretary shall appoint the Federal Cochairperson from among the list of nominations submitted under subparagraph (A). The Federal Cochairperson shall serve as an employee of the Department of Commerce, and may be removed by the Secretary for cause.
+Appointment.—The Secretary shall appoint the Federal Cochairperson from among the list of nominations submitted under subparagraph (A).The Federal Cochairperson shall serve as an employee of the Department of Commerce, and may be removed by the Secretary for cause.
 
 &emsp;&emsp;“(C)
 
@@ -276,7 +288,7 @@ Staff.—
 
 &emsp;“(1)
 
-In general.—The Federal Cochairperson of the Commission may, without regard to the civil service laws and regulations, appoint such personnel as may be necessary to enable the Commission to perform its duties.
+In general.—The Federal Cochairperson of the Commission may, without regard to the civil service laws and regulations, appoint such personnel as maybe necessary to enable the Commission to perform its duties.
 
 &emsp;“(2)
 
@@ -318,11 +330,15 @@ Bulk Fuels.—Funds transferred to the Commission pursuant to section 329 of the
 
 “(c)
 
-Demonstration Health Projects.—In order to demonstrate the value of adequate health facilities and services to the economic development of the region, the Secretary of Health and Human Services is authorized to make grants to the Denali Commission to plan, construct, and equip demonstration health, nutrition, and child care projects, including hospitals, health care clinics, and mental health facilities (including drug and alcohol treatment centers) in accordance with the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of Public Law 105–277. No grant for construction or equipment of a demonstration project shall exceed 50 percentum of such costs, unless the project is located in a severely economically distressed community, as identified in the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of Public Law 105–277, in which case no grant shall exceed 80 percentum of such costs. To carry out this section, there is authorized to be appropriated such sums as may be necessary.
+Demonstration Health Projects.—In order to demonstrate the value of adequate health facilities and services to the economic development of the region, the Secretary of Health and Human Services is authorized to make interagency transfers to the Denali Commission to plan, construct, and equip demonstration health, nutrition, and child care projects, including hospitals, health care clinics, and mental health facilities (including drug and alcohol treatment centers) in accordance with the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of Public Law 105–277. No grant for construction or equipment of a demonstration project shall exceed 50 percentum of such costs, unless the project is located in a severely economically distressed community, as identified in the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of Public Law 105–277, in which case no grant shall exceed 80 percentum of such costs. To carry out this section, there is authorized to be appropriated such sums as may be necessary.
 
 “(d)
 
 Solid Waste.—The Secretary of Agriculture is authorized to make direct lump sum payments which shall remain available until expended to the Denali Commission to address deficiencies in solid waste disposal sites which threaten to contaminate rural drinking water supplies.
+
+“(e)
+
+Docks, Waterfront Transportation Development, and Related Infrastructure Projects.—The Secretary of Transportation is authorized to make direct lump sum payments to the Commission to construct docks, waterfront development projects, and related transportation infrastructure, provided the local community provides a ten percent non-Federal match in the form of any necessary land or planning and design funds. To carry out this section, there is authorized to be appropriated such sums as may be necessary.
 
 #### “SEC. 308. EXEMPTION FROM FEDERAL ADVISORY COMMITTEE ACT.
 
@@ -336,13 +352,39 @@ In General.—There are authorized to be appropriated to the Commission to carry
 
 “(b)
 
-Availability.—Any sums appropriated under the authorization contained in this section shall remain available until expended.”
+Availability.—Any sums appropriated under the authorization contained in this section shall remain available until expended.
+
+“
+
+Sec. 310. (a) The Federal Co-chairman of the Denali Commission shall appoint an Economic Development Committee to be chaired by the president of the Alaska Federation of Natives which shall include the Commissioner of Community and Economic Affairs for the State of Alaska, a representative from the Alaska Bankers Association, the chairman of the Alaska Permanent Fund, a representative from the Alaska State Chamber of Commerce, and a representative from each region. Of the regional representatives, at least two each shall be from Native regional corporations, Native non-profit corporations, tribes, and borough governments.
+
+“(b) The Economic Development Committee is authorized to consider and approve applications from Regional Advisory Committees for grants and loans to promote economic development and promote private sector investment to reduce poverty in economically distressed rural villages. The Economic Development Committee may make mini-grants to individual applicants and may issue loans under such terms and conditions as it determines.
+
+“(c) The State Co-chairman of the Denali Commission shall appoint a Regional Advisory Committee for each region which may include representatives from local, borough, and tribal governments, the Alaska Native non-profit corporation operating in the region, local Chambers of Commerce, and representatives of the private sector. Each Regional Advisory Committee shall develop a regional economic development plan for consideration by the Economic Development Committee.
+
+“(d) The Economic Development Committee, in consultation with the First Alaskans Institute, may develop rural development performance measures linking economic growth to poverty reduction to measure the success of its program which may include economic, educational, social, and cultural indicators. The performance measures will be tested in one region for 2 years and evaluated by the University of Alaska before being deployed statewide. Thereafter, performance in each region shall be evaluated using the performance measures, and the Economic Development Committee shall not fund projects which do not demonstrate success.
+
+“(e) Within the amounts made available annually to the Denali Commission for training, the Commission may make a grant to the First Alaskans Foundation upon submittal of an acceptable work plan to assist Alaska Natives and other rural residents in acquiring the skills and training necessary to participate fully in private sector business and economic and development opportunities through fellowships, scholarships, internships, public service programs, and other leadership initiatives.
+
+“(f) The Committee shall sponsor a statewide economic development summit in consultation with the World Bank to evaluate the best practices for economic development worldwide and how they can be incorporated into regional economic development plans.
+
+“(g) There is authorized to be appropriated such sums as may be necessary to the following agencies which shall be transferred to the Denali Commission as a direct lump sum payment to implement this section—
+
+&emsp;“(1) Department of Commerce, Economic Development Administration,
+
+&emsp;“(2) Department of Housing and Urban Development,
+
+&emsp;“(3) Department of the Interior, Bureau of Indian Affairs,
+
+&emsp;“(4) Department of Agriculture, Rural Development Administration, and
+
+&emsp;“(5) Small Business Administration.”
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Lower Mississippi Delta Development Commission
 
-Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(a), title V, §504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–252, 2763A–281; Pub. L. 107–171, title VI, §6027(j), May 13, 2002, 116 Stat. 374, incorporated by reference and made a part of that public law the provisions of S.2836, the Delta Development Act, as introduced in the Senate on Sept. 27, 1988, which provided for establishment of Lower Mississippi Delta Development Commission to study and make recommendations regarding economic needs and development of Lower Mississippi Delta region, set forth membership, compensation, powers, and administrative provisions for Commission, required submission to Congress, President, and Governors of certain States of interim and final reports, and provided for termination of Commission no later than two years after Oct. 1, 1988.
+Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(a), title V, §504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–252, 2763A–281; Pub. L. 107–171, title VI, §6027(j), May 13, 2002, 116 Stat. 374, incorporated by reference and made a part of that public law the provisions of S. 2836, the Delta Development Act, as introduced in the Senate on Sept. 27, 1988, which provided for establishment of Lower Mississippi Delta Development Commission to study and make recommendations regarding economic needs and development of Lower Mississippi Delta region, set forth membership, compensation, powers, and administrative provisions for Commission, required submission to Congress, President, and Governors of certain States of interim and final reports, and provided for termination of Commission no later than two years after Oct. 1, 1988.
 
 Prior to amendment by Pub. L. 106–554, Pub. L. 100–460 also incorporated by reference and made a part of that public law the provisions of H.R. 5378, as introduced in the House of Representatives on Sept. 26, 1988, and known as the “Lower Mississippi Delta Development Act”, which contained provisions similar to those in S. 2836.
 

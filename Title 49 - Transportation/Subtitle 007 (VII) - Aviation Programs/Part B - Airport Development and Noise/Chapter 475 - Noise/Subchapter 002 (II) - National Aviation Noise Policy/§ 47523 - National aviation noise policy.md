@@ -40,7 +40,3 @@ In subsection (a), the words “(hereinafter in this chapter referred to as the 
 
 Subsection (b) is tabulated for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 47524 of this title.
-

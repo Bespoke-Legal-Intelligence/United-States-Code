@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—OFFICE OF SPECIAL COUNSEL
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1221, 4505a, 5754, 5755, 7121 of this title.
-
 
 ---
 

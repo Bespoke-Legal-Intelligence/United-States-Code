@@ -6,7 +6,7 @@ Section 1395, Pub. L. 89–563, title I, §106, Sept. 9, 1966, 80 Stat. 721, rel
 
 Section 1396, Pub. L. 89–563, title I, §107, Sept. 9, 1966, 80 Stat. 721, related to cooperation of Secretary with governmental and private agencies in developing motor vehicle safety standards and methods for determining compliance with such standards. See sections 30111 and 30166 of Title 49.
 
-Section 1397, Pub. L. 89–563, title I, §108, Sept. 9, 1966, 80 Stat. 722; Pub. L. 93–492, title I, §103(a), title II, §203, Oct. 27, 1974, 88 Stat. 1477, 1485; Pub. L. 100–562, §2(a)–(d), Oct. 31, 1988, 102 Stat. 2818, 2824, prohibited manufacture, sale, delivery, or importation of substandard vehicles and rendering inoperative certain devices, elements of design, or motor vehicle equipment. See sections 30103, 30112, 30114, 30115, 30117 to 30122, 30125, 30126, 30141 to 30147, 30166, and 30167 of Title 49.
+Section 1397, Pub. L. 89–563, title I, §108, Sept. 9, 1966, 80 Stat. 722; Pub. L. 93–492, title I, §103(a), title II, §203,Oct. 27, 1974, 88 Stat. 1477, 1485; Pub. L. 100–562, §2(a)–(d), Oct. 31, 1988, 102 Stat. 2818, 2824, prohibited manufacture, sale, delivery, or importation of substandard vehicles and rendering inoperative certain devices, elements of design, or motor vehicle equipment. See sections 30103, 30112, 30114, 30115, 30117 to 30122, 30125, 30126, 30141 to 30147, 30166, and 30167 of Title 49.
 
 Section 1398, Pub. L. 89–563, title I, §109, Sept. 9, 1966, 80 Stat. 723; Pub. L. 93–492, title I, §103(b), Oct. 27, 1974, 88 Stat. 1478, related to civil penalties for violations of former section 1397 of this title and Secretary's authority to compromise such penalties. See section 30165 of Title 49.
 

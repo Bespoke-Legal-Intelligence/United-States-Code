@@ -20,7 +20,7 @@ The Congress finds the following:
 
 It is the purpose of sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title—
 
-&emsp;(1) to revise the boundaries for the Richmond National Battlefield Park based on thefindings of the Civil War Sites Advisory Committee and the National Park Service; and
+&emsp;(1) to revise the boundaries for the Richmond National Battlefield Park based on the findings of the Civil War Sites Advisory Committee and the National Park Service; and
 
 &emsp;(2) to direct the Secretary of the Interior to work in cooperation with the Commonwealth of Virginia, the City of Richmond, other political subdivisions of the Commonwealth, other public entities, and the private sector in the management, protection, and interpretation of the resources associated with the Civil War and the Civil War battles in and around the City of Richmond, Virginia.
 
@@ -31,8 +31,4 @@ It is the purpose of sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title�
 The Act of March 2, 1936, referred to in subsec. (a)(1), is act Mar. 2, 1936, ch. 113, 49 Stat. 1155, which was classified generally to sections 423j to 423<i>l</i> of this title prior to repeal by Pub. L. 106–511, title V, §507, Nov. 13, 2000, 114 Stat. 2376.
 
 Sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title, referred to in subsec. (b), was in the original “this title”, meaning title V of Pub. L. 106–511, Nov. 13, 2000, 114 Stat. 2373, which enacted sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title and repealed sections 423j to 423<i>l</i> of this title. For complete classification of title V to the Code, see Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 423<i>l</i>–1, 423<i>l</i>–4, 423<i>l</i>–5, 423<i>l</i>–6 of this title.
 

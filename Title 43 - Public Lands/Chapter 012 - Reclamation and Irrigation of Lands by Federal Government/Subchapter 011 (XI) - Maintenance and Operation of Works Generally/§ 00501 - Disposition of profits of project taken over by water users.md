@@ -8,7 +8,3 @@ Whenever the water users take over the care, operation, and maintenance of a pro
 
 The definitions in section 371 of this title apply to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 371, 417, 493, 500, 572 of this title.
-

@@ -4,7 +4,3 @@ All hunting or the killing, wounding, or capturing at any time of any wild bird 
 
 (June 2, 1920, ch. 218, §5, 41 Stat. 731.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 62, 63, 64, 65 of this title.
-

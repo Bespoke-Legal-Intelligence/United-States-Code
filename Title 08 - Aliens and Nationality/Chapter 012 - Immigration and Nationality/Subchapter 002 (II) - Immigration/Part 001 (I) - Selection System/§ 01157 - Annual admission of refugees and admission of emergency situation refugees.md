@@ -24,7 +24,7 @@ If the President determines, after appropriate consultation, that (1) an unfores
 
 (B) An unmarried alien who seeks to accompany, or follow to join, a parent granted admission as a refugee under this subsection, and who was under 21 years of age on the date on which such parent applied for refugee status under this section, shall continue to be classified as a child for purposes of this paragraph, if the alien attained 21 years of age after such application was filed but while it was pending.
 
-(3) The provisions of paragraphs (4), (5), and (7)(A) of section 1182(a) of this title shall not be applicable to any alien seeking admission to the United States under this subsection, and the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest. Any such waiver by the Attorney General shall be in writing and shall be granted only on an individual basis following an investigation. The Attorney General shall provide for the annual reporting to Congress of the number of waivers granted under this paragraph in the previous fiscal year and a summary of the reasons for granting such waivers.
+(3) The provisions of paragraphs (4), (5), and (7)(A) of section 1182(a) of this title shall not beapplicable to any alien seeking admission to the United States under this subsection, and the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest. Any such waiver by the Attorney General shall be in writing and shall be granted only on an individual basis following an investigation. The Attorney General shall provide for the annual reporting to Congress of the number of waivers granted under this paragraph in the previous fiscal year and a summary of the reasons for granting such waivers.
 
 (4) The refugee status of any alien (and of the spouse or child of the alien) may be terminated by the Attorney General pursuant to such regulations as the Attorney General may prescribe if the Attorney General determines that the alien was not in fact a refugee within the meaning of section 1101(a)(42) of this title at the time of the alien's admission.
 
@@ -336,7 +336,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[No
 
 #### Establishing Categories of Aliens for Purposes of Refugee Determinations
 
-Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(1), Feb. 20, 2003, 117 Stat. 324, provided that:
+Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(1), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(1), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(1), Dec. 8, 2004, 118 Stat. 3139, provided that:
 
 “(a)
 
@@ -348,17 +348,19 @@ Establishment of Categories.—
 
 &emsp;“(1) For purposes of subsection (a), the Attorney General, in consultation with the Secretary of State and the Coordinator for Refugee Affairs, shall establish—
 
-&emsp;&emsp;“(A) one or more categories of aliens who are or were nationals and residents of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who share common characteristics that identify them as targets of persecution in that state on account of race, religion, nationality, membership in a particular social group, or political opinion, and
+&emsp;&emsp;“(A) one or more categories of aliens who are or were nationals and residents of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who share common characteristics that identify them as targets of persecution in that state on account of race, religion, nationality, membership in a particular social group, or political opinion,\[;\]
 
-&emsp;&emsp;“(B) one or more categories of aliens who are or were nationals and residents of Vietnam, Laos, or Cambodia and who share common characteristics that identify them as targets of persecution in such respective foreign state on such an account.
+&emsp;&emsp;“(B) one or more categories of aliens who are or were nationals and residents of Vietnam, Laos, or Cambodia and who share common characteristics that identify them as targets of persecution in such respective foreign state on such an account; and
+
+&emsp;&emsp;“(C) one or more categories of aliens who are or were nationals and residents of the Islamic Republic or Iran who, as members of a religious minority in Iran, share common characteristics that identify them as targets of persecution in that state on account of race, religion, nationality, membership in a particular social group, or political opinion.
 
 &emsp;“(2)(A) Aliens who are (or were) nationals and residents of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who are Jews or Evangelical Christians shall be deemed a category of alien established under paragraph (1)(A).
 
 &emsp;“(B) Aliens who are (or were) nationals of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who are current members of, and demonstrate public, active, and continuous participation (or attempted participation) in the religious activities of, the Ukrainian Catholic Church or the Ukrainian Orthodox Church, shall be deemed a category of alien established under paragraph (1)(A).
 
-&emsp;“(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who aremembers of categories of individuals determined, by the Attorney General in accordance with ‘Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing’ (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
+&emsp;“(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with ‘Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing’ (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
 
-&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002 and 2003 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
+&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, and 2006 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
 
 “(c)
 
@@ -372,11 +374,15 @@ Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—Eac
 
 Period of Application.—
 
-&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2003.
+&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2005.
 
-&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2003.
+&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2005.
 
-&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2003.”
+&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2005.”
+
+\[Pub. L. 108–447, §213(1)(A), which directed amendment of section 599D(b)(3) of Pub. L. 101–167, set out above, by substituting “1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, and 2006” for “1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, and 2005”, was executed by making the substitution for “1997, 1998, 1999, 2000, 2001, 2002, 2003, and 2004” to reflect the probable intent of Congress.\]
+
+\[Pub. L. 108–199, §213(1)(A), which directed amendment of section 599D(b)(3) of Pub. L. 101–167, set out above, by substituting “1997, 1998, 1999, 2000, 2001, 2002, 2003, and 2004” for “1997, 1998, 1999, 2000, 2001, 2002, and 2003”, was executed by making the substitution for “1997, 1998, 1999, 2000, 2001, 2002 and 2003” to reflect the probable intent of Congress.\]
 
 \[Pub. L. 108–7, §213(1)(A), which directed amendment of section 599D(b)(3) of Pub. L. 101–167, set out above, by substituting “1997, 1998, 1999, 2000, 2001, 2002 and 2003” for “1997, 1998, 1999, 2000, and 2001”, was executed by making the substitution for “1997, 1998, 1999, 2000, 2001, and 2002” to reflect the probable intent of Congress.\]
 
@@ -393,6 +399,8 @@ Section 204(d)(1) of Pub. L. 96–212 provided that: “Notwithstanding section 
 #### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+Presidential Determination No. 2004–53, Sept. 30, 2004, 69 F.R. 60943.
 
 Presidential Determination No. 2004–06, Oct. 21, 2003, 68 F.R. 63979.
 
@@ -459,8 +467,4 @@ By the authority vested in me as President by the Constitution and laws of the U
 (c) To fix the number of refugees to be admitted under Section 207(b).
 
 1–103. Except to the extent inconsistent with this Order, all actions previously taken pursuant to any function delegated or assigned by this Order shall be deemed to have been taken and authorized by this Order.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1101, 1151, 1159, 1181, 1182, 1225, 1252, 1324b, 1522, 1612, 1613, 1622, 1641, 1738 of this title; title 7 section 2015; title 18 section 842; title 22 sections 4703, 6472, 7105; title 42 sections 608, 1382j, 1436a, 1869c.
 

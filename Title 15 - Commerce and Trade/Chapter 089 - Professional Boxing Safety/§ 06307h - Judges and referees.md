@@ -4,7 +4,3 @@ No person may arrange, promote, organize, produce, or fight in a professional bo
 
 (Pub. L. 104–272, §16, as added Pub. L. 106–210, §4(2), May 26, 2000, 114 Stat. 325.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6309 of this title.
-

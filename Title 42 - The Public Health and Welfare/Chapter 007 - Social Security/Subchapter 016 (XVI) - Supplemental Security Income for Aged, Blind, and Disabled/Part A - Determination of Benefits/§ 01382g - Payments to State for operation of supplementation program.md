@@ -126,7 +126,3 @@ Section 2(c) of Pub. L. 94–585 provided that: “The provisions of this sectio
 
 For applicability of this section to the Northern Mariana Islands, see section 502(a)(1) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America and Proc. No. 4534, Oct. 24, 1977, 42 F.R. 6593, set out as notes under section 1801 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1396v of this title.
-

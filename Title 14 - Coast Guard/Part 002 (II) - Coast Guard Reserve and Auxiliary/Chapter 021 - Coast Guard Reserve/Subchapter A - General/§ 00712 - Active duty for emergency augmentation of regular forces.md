@@ -32,7 +32,3 @@ Provisions similar to those in this section were contained in section 764 of thi
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 38 section 4312.
-

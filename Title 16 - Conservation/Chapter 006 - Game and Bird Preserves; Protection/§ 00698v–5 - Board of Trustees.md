@@ -98,7 +98,3 @@ The Ethics in Government Act, referred to in subsec. (f), probably means the Eth
 
 Pub. L. 106–291, title II, Oct. 11, 2000, 114 Stat. 968, provided in part: “That notwithstanding the limitations of 107(e)(2) of the Valles Caldera Preservation Act (Public Law 106–248) \[16 U.S.C. 698v–5(e)(2)\], for fiscal years 2001 and 2002, the members of the Board of Trustees of the Valles Caldera Trust may receive, upon request, compensation for each day (including travel time) that they are engaged in the performance of the functions of the Board. Compensation shall not exceed the daily equivalent of the annual rate in effect for members of the Senior Executive Service at the ES–1 level, and shall be in addition to any reimbursement for travel, subsistence and other necessary expenses incurred by them in the performance of their duties. Members of the Board who are officers or employees of the United States shall not receive any additional compensation by reason of service on the Board”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698v, 698v–1, 698v–3, 698v–4, 698v–6, 698v–7, 698v–8, 698v–9, 698v–10 of this title.
-

@@ -12,7 +12,3 @@ Act of October 9, 1972, referred to in text, is Pub. L. 92–480, Oct. 9, 1972, 
 
 Section is comprised of section 3(a) of Pub. L. 94–114. Section 3(b) of Pub. L. 94–114 repealed section 2 of Pub. L. 92–480, which related to claims offset involving the Stockbridge Munsee Indian Community and was not classified to the Code. Section 3(c) of Pub. L. 94–114 amended section 5 of Pub. L. 92–488, which related to claims offset involving the Burns Indian Colony and was not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 459c of this title.
-

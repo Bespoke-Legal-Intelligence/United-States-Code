@@ -14,7 +14,7 @@ There is hereby created an account in the Treasury of the United States to be kn
 
 > Amounts appropriated to the Railroad Retirement Account shall be appropriately reduced to take into account the amounts appropriated under this paragraph to the Social Security Equivalent Benefit Account.
 
-(2) On and after October 1, 1984, any amount which (but for this section) would have been transferred to the Railroad Retirement Account pursuant to paragraph (2) or (4) of section 231f(c) of this title shall be transferred to the Social Security Equivalent Benefit Account. On and after October 1, 1984, no transfer shall be made to the Railroad Retirement Account pursuant to paragraph (2) or (4) of section 231f(c) of this title.
+(2) On and after October 1, 1984, any amount which (but for this section) would have been transferred to the Railroad Retirement Account pursuant to paragraph (2) or (4) of section 231f(c) of this title shall be transferred to the Social Security Equivalent Benefit Account. On and after October 1, 1984, no transfer shall be madeto the Railroad Retirement Account pursuant to paragraph (2) or (4) of section 231f(c) of this title.
 
 (3) To the extent that the authorization for appropriation contained in section 231n(b) of this title is attributable to the cost of social security equivalent benefits, on and after October 1, 1984, any reference in such section to the Railroad Retirement Account shall be treated as a reference to the Social Security Equivalent Benefit Account.
 
@@ -30,7 +30,7 @@ There is hereby created an account in the Treasury of the United States to be kn
 
 (1) Whenever the Board finds that the balance in the Social Security Equivalent Benefit Account will be insufficient to pay social security equivalent benefits which it estimates are due in any month, it shall request the Secretary of the Treasury to transfer from the Railroad Retirement Account to the credit of the Social Security Equivalent Benefit Account such moneys as the Board estimates will be necessary for the payment of such benefits, and the Secretary shall make such transfer.
 
-(2) Upon establishment of the National Railroad Retirement Investment Trust and from time to time thereafter, the Board shall direct the Secretary of the Treasury to transfer, in such manner as will maximize the investment returns to the Railroad Retirement system, the balance of the Social Security Equivalent Benefit Account not needed to pay current benefits and administrative expenses required to be paid from that Account to the National Railroad Retirement Investment Trust, and the Secretary shall make that transfer. Any balance transferred under this paragraph shall be used by the National Railroad Retirement Investment Trust only to pay benefits under this subchapter or to purchase obligations of the United States that are backed by the full faith and credit of the United States pursuant to chapter 31 of title 31. The proceeds of sales of, and the interest income from, such obligations shall be used by the Trust only to pay benefits under this subchapter.
+(2) Upon establishment of the National Railroad Retirement Investment Trust and from time to time thereafter, the Board shall direct the Secretary of the Treasury to transfer, in such manner as will maximize the investment returns to the Railroad Retirement system, the balance of the Social Security Equivalent Benefit Account not needed to pay current benefits and administrative expenses required to be paid from that Account to the National Railroad Retirement Investment Trust or the Railroad Retirement Account, and the Secretary shall make that transfer. Any balance transferred under this paragraph shall be used by the National Railroad Retirement Investment Trust or the Railroad Retirement Board only to pay benefits under this subchapter or to purchase obligations of the United States (either directly or through a commingled account consisting only of such obligations) that are backed by the full faith and credit of the United States pursuant to chapter 31 of title 31. The proceeds of sales of, and the interest income from, such obligations shall be used by the Trust only to pay benefits under this subchapter or to purchase such additional obligations.
 
 #### (e) Applicability of section 231n
 
@@ -42,13 +42,15 @@ The provisions of subsections (e), (f), and (g) of section 231n of this title ar
 
 (2) For purposes of this section, the term “social security equivalent benefits” means benefits payable under this subchapter which are of a kind taken into account in determining the amount of transfers made under section 231f(c)(2) of this title.
 
-(Aug. 29, 1935, ch. 812, §15A, as added Pub. L. 98–76, title V, §501(a), Aug. 12, 1983, 97 Stat. 438; amended Pub. L. 107–90, title I, §107(c), Dec. 21, 2001, 115 Stat. 888.)
+(Aug. 29, 1935, ch. 812, §15A, as added Pub. L. 98–76, title V, §501(a), Aug. 12, 1983, 97 Stat. 438; amended Pub. L. 107–90, title I, §107(c), Dec. 21, 2001, 115 Stat. 888; Pub. L. 108–203, title IV, §426(e), Mar. 2, 2004, 118 Stat. 538.)
 
 #### References in Text
 
 Section 121(e) of the Social Security Amendments of 1983, referred to in subsec. (b)(1)(B), is section 121(e) of Pub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 83, which is set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2004—Subsec. (d)(2). Pub. L. 108–203 inserted “or the Railroad Retirement Account” before “, and the Secretary shall make”, “or the Railroad Retirement Board” before “only to pay benefits”, “(either directly or through a commingled account consisting only of such obligations)” after “obligations of the United States”, and “or to purchase such additional obligations” before period at end.
 
 2001—Subsec. (c)(1). Pub. L. 107–90, §107(c)(2), inserted at end “The Secretary shall from time to time transfer to the disbursing agent under section 231f(b)(4) of this title amounts necessary to pay those benefits.”
 

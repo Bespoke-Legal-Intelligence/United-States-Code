@@ -16,7 +16,3 @@
 
 Section 2(2) of Pub. L. 85–909 provided in part: “That nothing herein \[this section\] shall be deemed as a definition of the term ‘public stockyards’ as used in section 15(5) of the Interstate Commerce Act \[former 49 U.S.C. 15(5)\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 203, 207 of this title.
-

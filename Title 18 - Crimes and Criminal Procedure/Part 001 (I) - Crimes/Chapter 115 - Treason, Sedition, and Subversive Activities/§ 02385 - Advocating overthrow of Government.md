@@ -44,7 +44,3 @@ The phraseology was considerably changed to effect consolidation but without any
 
 Amendment by act July 24, 1956, as applicable only with respect to offenses committed on and after July 24, 1956, see section 3 of act July 24, 1956, set out as a note under section 2384 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 8312; title 8 section 1481; title 38 section 6105; title 50 App. section 34.
-

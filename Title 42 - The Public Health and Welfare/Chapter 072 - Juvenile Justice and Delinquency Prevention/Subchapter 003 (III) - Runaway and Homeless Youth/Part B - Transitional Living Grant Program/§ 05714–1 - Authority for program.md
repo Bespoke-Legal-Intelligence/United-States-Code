@@ -10,7 +10,7 @@ A prior section 321 of Pub. L. 93–415 was renumbered section 363 and is classi
 
 #### Amendments
 
-1999—Pub. L. 106–71 struck out “Purpose and” before “Authority” in section catchline and struck out subsec. (a) designation before “The Secretary” and subsec.\(b) which defined “homeless youth” and “transitional living youth project”.
+1999—Pub. L. 106–71 struck out “Purpose and” before “Authority” in section catchline and struck out subsec. (a) designation before “The Secretary” and subsec. (b) which defined “homeless youth” and “transitional living youth project”.
 
 #### Effective Date
 

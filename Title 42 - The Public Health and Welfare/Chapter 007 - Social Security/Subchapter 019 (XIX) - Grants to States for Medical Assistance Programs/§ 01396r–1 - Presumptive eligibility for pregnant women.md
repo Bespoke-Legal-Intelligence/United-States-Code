@@ -132,7 +132,3 @@ Section 411(k)(16)(C) of Pub. L. 100–360 provided that: “The amendments made
 
 Section applicable to ambulatory prenatal care furnished in calendar quarters beginning on or after Apr. 1, 1987, without regard to whether or not final regulations to carry out such section have been promulgated, see section 9407(d) of Pub. L. 99–509, set out as an Effective Date of 1986 Amendment note under section 1396a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1396a, 1396b of this title.
-

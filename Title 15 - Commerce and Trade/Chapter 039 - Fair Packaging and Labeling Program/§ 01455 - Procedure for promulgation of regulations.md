@@ -26,7 +26,3 @@ The effective date of this Act, referred to in subsec. (d), refers to the effect
 
 “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (a), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1453 of this title.
-

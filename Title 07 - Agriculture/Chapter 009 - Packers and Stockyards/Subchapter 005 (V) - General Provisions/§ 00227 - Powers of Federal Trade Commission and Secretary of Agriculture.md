@@ -78,7 +78,3 @@ General Rule.—The amendments made by this Act \[see Short Title of 1987 Amendm
 
 Secretary's Authority.—Subsection (a) shall not be construed to limit or otherwise affect the authority of the Secretary of Agriculture under section 406(e), as amended, of the Packers and Stockyards Act, 1921 \[7 U.S.C. 227(e)\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 sections 45, 1607, 1681s, 1691c, 1692<i>l</i>, 6505.
-

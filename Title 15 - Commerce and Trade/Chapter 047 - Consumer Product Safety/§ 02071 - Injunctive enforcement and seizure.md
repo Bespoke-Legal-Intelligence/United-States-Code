@@ -30,7 +30,3 @@ Any consumer product—
 
 Subsec. (b). Pub. L. 94–284, §12(c)(2), amended subsec. (b) generally, inserting provision designated as par. (2) which included within consumer products liable to proceedings, a product of which the manufacture for sale, offering for sale, distribution in commerce, or importation into the United States has been prohibited.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2055, 2066 of this title.
-

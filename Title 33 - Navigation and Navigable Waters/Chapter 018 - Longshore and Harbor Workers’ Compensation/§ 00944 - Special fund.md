@@ -2,7 +2,7 @@
 
 #### (a) Establishment; administration; custody, trust
 
-There is established in the Treasury of the United States a special fund. Such fund shall be administered by the Secretary. The Treasurer of the United States shall be the custodian of such fund, and all moneys and securities in such fund shall be held in trust by such Treasurer and shall not be money or property of the United States.
+There is established in the Treasury of the United States a special fund. Such fund shall be administered by the Secretary. The Treasurer of the United States shall be the custodian of such fund, and all moneys and securities in such fundshall be held in trust by such Treasurer and shall not be money or property of the United States.
 
 #### (b) Disbursements; bond of custodian
 
@@ -28,7 +28,7 @@ Payments into such fund shall be made as follows:
 
 #### (d) Investigations; records, availability; recordkeeping; provisions of sections 49 and 50 of title 15 applicable to Secretary
 
-(1) For the purpose of making rules, regulations, and determinations under this section under and for providing enforcement thereof,the Secretary may investigate and gather appropriate data from each carrier and self-insurer. For that purpose, the Secretary may enter and inspect such places and records (and make such transcriptions thereof), question such employees, and investigate such facts, conditions, practices, or matters as he may deem necessary or appropriate.
+(1) For the purpose of making rules, regulations, and determinations under this section under and for providing enforcement thereof, the Secretary may investigate and gather appropriate data from each carrier and self-insurer. For that purpose, the Secretary may enter and inspect such places and records (and make such transcriptions thereof), question such employees, and investigate such facts, conditions, practices, or matters as he may deem necessary or appropriate.
 
 (2) Each carrier and self-insurer shall make, keep, and preserve such records, and make such reports and provide such additional information, as prescribed by regulation or order of the Secretary, as the Secretary deems necessary or appropriate to carry out his responsibilities under this section.
 
@@ -134,11 +134,7 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 907, 908, 910, 918, 922, 933, 939, 942, 948a of this title; title 30 section 932.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set outin the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

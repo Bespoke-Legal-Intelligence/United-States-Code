@@ -8,7 +8,3 @@ The Secretary of Commerce is directed to undertake a comprehensive continuing st
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 755 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 760f, 760g of this title.
-

@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;The Administrator may make grants to States and local governments to develop and implement programs for monitoring and notification for coastal recreation waters adjacent to beaches or similar points of access that are used by the public.
+&emsp;The Administrator may make grants to States and local governments to develop andimplement programs for monitoring and notification for coastal recreation waters adjacent to beaches or similar points of access that are used by the public.
 
 #### (2) Limitations
 
@@ -94,7 +94,7 @@ As a condition of receipt of a grant under subsection (b) of this section, a Sta
 
 &emsp;&emsp;(A) the Administrator, in such form as the Administrator determines to be appropriate; and
 
-&emsp;&emsp;(B) a designated official of a local government having jurisdiction over land adjoining the coastal recreation waters for which the failure to meet applicable standards is identified;
+&emsp;&emsp;(B) a designated official of a local government having jurisdiction over land adjoiningthe coastal recreation waters for which the failure to meet applicable standards is identified;
 
 &emsp;(6) measures for the posting of signs at beaches or similar points of access, or functionally equivalent communication measures that are sufficient to give notice to the public that the coastal recreation waters are not meeting or are not expected to meet applicable water quality standards for pathogens and pathogen indicators; and
 
@@ -108,7 +108,7 @@ Not later than 3 years after October 10, 2000, each Federal agency that has juri
 
 &emsp;(2) is consistent with the performance criteria published under subsection (a) of this section;
 
-&emsp;(3) includes a completed report on the information specified in subsection (b)(3)(A) of thissection, to be submitted to the Administrator; and
+&emsp;(3) includes a completed report on the information specified in subsection (b)(3)(A) of this section, to be submitted to the Administrator; and
 
 &emsp;(4) addresses the matters specified in subsection (c) of this section.
 
@@ -163,8 +163,4 @@ In the case of a State that has no program for monitoring and notification that 
 There is authorized to be appropriated for making grants under subsection (b) of this section, including implementation of monitoring and notification programs by the Administrator under subsection (h) of this section, $30,000,000 for each of fiscal years 2001 through 2005.
 
 (June 30, 1948, ch. 758, title IV, §406, as added Pub. L. 106–284, §4, Oct. 10, 2000, 114 Stat. 872.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1377 of this title.
 

@@ -98,9 +98,5 @@ Pub. L. 105–277, div. A, §101(e) \[title III, §354(b)\], Oct. 21, 1998, 112 
 
 &emsp;“(2) is not intended to set a precedent regarding adjustment or amendment of any boundaries of the Columbia River Gorge National Scenic Area or any other provisions of the Columbia River Gorge National Scenic Area Act \[see Short Title note set out under section 544 of this title\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 544, 544a, 544c to 544i, 544<i>l</i> to 544p of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “Willamette”.</i>
 

@@ -26,7 +26,3 @@ The Secretary of the Interior is authorized to purchase with donated or appropri
 
 1974—Subsec. (a). Pub. L. 93–477 substituted provisions relating to acquisition by donation of lands owned by the State of North Carolina and acquisition by donation, purchase or exchange of non-Federal lands, marshlands, etc., and acceptance of lands donated by North Carolina, for provisions relating to acquisition of non-Federal lands, marshlands, etc., by donation only and acquisition by exchange lands comprising the Shackleford Banks.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459g–2, 459g–4, 459g–5, 459g–7 of this title.
-

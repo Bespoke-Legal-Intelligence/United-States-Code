@@ -44,7 +44,7 @@ For purposes of this part:
 
 &emsp;(15)(A) The term “private labeler” means an owner of a brand or trademark on the label of a consumer product which bears a private label.
 
-&emsp;(B) A consumer product bears a private label if (i) such product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of such product, (ii) the person with whose brand or trademark such product (or container) is labeled has authorized or caused such product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
+&emsp;(B) A consumer product bears a private label if (i) such product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of such product, (ii) the person with whose brand or trademark suchproduct (or container) is labeled has authorized or caused such product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
 
 &emsp;(16) The terms “to distribute in commerce” and “distribution in commerce” mean to sell in commerce, to import, to introduce or deliver for introduction into commerce, or to hold for sale or distribution after introduction into commerce.
 
@@ -116,13 +116,13 @@ For purposes of this part:
 
 &emsp;(26) The term “thermal efficiency of pool heaters” means a measure of the heat in the water delivered at the heater outlet divided by the heat input of the pool heater as measured under test conditions specified in section 2.8.1 of the American National Standard for Gas Fired Pool Heaters, Z21.56–1986, or as may be prescribed by the Secretary.
 
-&emsp;(27) The term “water heater” means a product which utilizes oil, gas, or electricity toheat potable water for use outside the heater upon demand, including—
+&emsp;(27) The term “water heater” means a product which utilizes oil, gas, or electricity to heat potable water for use outside the heater upon demand, including—
 
 &emsp;&emsp;(A) storage type units which heat and store water at a thermostatically controlled temperature, including gas storage water heaters with an input of 75,000 Btu per hour or less, oil storage water heaters with an input of 105,000 Btu per hour or less, and electric storage water heaters with an input of 12 kilowatts or less;
 
 &emsp;&emsp;(B) instantaneous type units which heat water but contain no more than one gallon of water per 4,000 Btu per hour of input, including gas instantaneous water heaters with an input of 200,000 Btu per hour or less, oil instantaneous water heaters with an input of 210,000 Btu per hour or less, and electric instantaneous water heaters with an input of 12 kilowatts or less; and
 
-&emsp;&emsp;(C) heat pump type units, with a maximum current rating of 24 amperes at a voltage no greater than 250 volts, which are products designed to transfer thermal energy from one temperature level to a higher temperature level for the purpose of heating water, including all ancillary equipment such as fans, storage tanks, pumps, or controls necessary for the device to perform its function.
+&emsp;&emsp;(C) heat pump type units, with a maximum current rating of 24 amperes at a voltage no greater than 250 volts, which are products designed to transfer thermal energy fromone temperature level to a higher temperature level for the purpose of heating water, including all ancillary equipment such as fans, storage tanks, pumps, or controls necessary for the device to perform its function.
 
 &emsp;(28) The term “weatherized warm air furnace or boiler” means a furnace or boiler designed for installation outdoors, approved for resistance to wind, rain, and snow, and supplied with its own venting system.
 
@@ -270,7 +270,7 @@ For purposes of this part:
 
 &emsp;(E) The term “faucet” means a lavatory faucet, kitchen faucet, metering faucet, or replacement aerator for a lavatory or kitchen faucet.
 
-&emsp;(F) The term “water closet” has the meaning given such term in ASME A112.19.2M–1990, except such term does not include fixtures designed for installation in prisons.
+&emsp;(F) The term “water closet” has the meaning given such term in ASME A112.19.2M–1990,except such term does not include fixtures designed for installation in prisons.
 
 &emsp;(G) The term “urinal” has the meaning given such term in ASME A112.19.2M–1990, except such term does not include fixtures designed for installation in prisons.
 
@@ -317,8 +317,4 @@ Subsec. (a)(29). Pub. L. 100–357, §2(a)(1), added par. (29).
 Subsec. (a)(19) to (28). Pub. L. 100–12, §2(b), added pars. (19) to (28).
 
 1978—Subsec. (a)(3), (6)(B), (9). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6311 of this title.
 

@@ -24,7 +24,7 @@ Notwithstanding section 1342 of title 31, the Secretaries are authorized to acce
 
 The Department of Education Organization Act, referred to in subsec. (a)(1), is Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668, which is classified principally to chapter 48 (§3401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
-The General Education Provisions Act, referred to in subsec. (a)(1), is title IV of Pub. L. 90–247, Jan. 2, 1968,81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
+The General Education Provisions Act, referred to in subsec. (a)(1), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
 The Act entitled “An Act To Create a Department of Labor”, approved March 4, 1913, referred to in subsec. (a)(1), is act Mar. 4, 1913, ch. 141, 37 Stat. 736, as amended, which is classified principally to sections 2, 551, and 555 to 562 of Title 29, Labor. For complete classification of this Act to the Code, see Tables.
 

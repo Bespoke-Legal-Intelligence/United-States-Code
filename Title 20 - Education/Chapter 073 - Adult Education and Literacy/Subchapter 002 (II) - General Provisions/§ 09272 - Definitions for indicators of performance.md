@@ -16,9 +16,5 @@ Title I, referred to in subsec. (a), is title I of Pub. L. 105–220, Aug. 7, 19
 
 Title II, referred to in subsec. (a), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, known as the Adult Education and Family Literacy Act, which is classified principally to subchapter I (§9201 et seq.) of this chapter. For complete classification of title II to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
-This Act, referred to in subsec. (b), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as theWorkforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2871 of this title.
+This Act, referred to in subsec. (b), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 

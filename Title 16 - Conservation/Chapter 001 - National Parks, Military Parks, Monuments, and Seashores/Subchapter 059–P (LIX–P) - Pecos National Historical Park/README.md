@@ -1,9 +1,5 @@
 ### SUBCHAPTER LIX–P—PECOS NATIONAL HISTORICAL PARK
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 410rr–7 of this title.
-
 
 ---
 

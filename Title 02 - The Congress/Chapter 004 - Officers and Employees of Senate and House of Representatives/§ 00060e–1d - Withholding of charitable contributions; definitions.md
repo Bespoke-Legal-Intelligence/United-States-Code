@@ -18,7 +18,7 @@ Section is based on section 2 of House Resolution No. 12, Ninety-fifth Congress,
 
 #### Amendments
 
-<b>1996</b>—Par. (1). Pub. L. 104–186, §204(5)(B)(i), inserted “and” at end.
+1996—Par. (1). Pub. L. 104–186, §204(5)(B)(i), inserted “and” at end.
 
 Par. (2). Pub. L. 104–186, §204(5)(B)(ii), (iv), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “the term ‘Clerk’ means the Clerk of the House of Representatives;”.
 

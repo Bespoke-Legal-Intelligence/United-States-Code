@@ -16,7 +16,3 @@ Section was previously classified to section 211 of former Title 49, Transportat
 
 1941—Act Aug. 16, 1941, increased area of land authorized for lease as airport from six hundred and forty acres to two thousand five hundred and sixty acres.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1442 of this title.
-

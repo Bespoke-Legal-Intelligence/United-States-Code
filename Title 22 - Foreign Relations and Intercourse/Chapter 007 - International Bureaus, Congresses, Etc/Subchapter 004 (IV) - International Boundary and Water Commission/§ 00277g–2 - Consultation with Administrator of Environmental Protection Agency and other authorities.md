@@ -4,7 +4,3 @@ The Secretary of State shall consult with the Administrator of the Environmental
 
 (Pub. L. 100–465, §4, Oct. 3, 1988, 102 Stat. 2273.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 277g of this title.
-

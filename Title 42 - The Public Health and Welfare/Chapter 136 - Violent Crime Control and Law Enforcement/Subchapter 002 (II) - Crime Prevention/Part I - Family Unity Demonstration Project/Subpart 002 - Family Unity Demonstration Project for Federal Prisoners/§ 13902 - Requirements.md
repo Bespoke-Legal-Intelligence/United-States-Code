@@ -4,7 +4,3 @@ For the purpose of placing Federal participants in a family unity demonstration 
 
 (Pub. L. 103–322, title III, §31922, Sept. 13, 1994, 108 Stat. 1896.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

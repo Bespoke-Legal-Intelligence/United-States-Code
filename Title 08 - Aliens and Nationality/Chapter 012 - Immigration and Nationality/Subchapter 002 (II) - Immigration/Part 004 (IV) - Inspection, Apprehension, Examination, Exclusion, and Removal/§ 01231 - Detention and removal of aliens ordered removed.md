@@ -62,7 +62,7 @@
 
 #### (5) Reinstatement of removal orders against aliens illegally reentering
 
-&emsp;If the Attorney General finds that an alien has reentered the United States illegally after having been removed or having departed voluntarily, under an order of removal, the prior order of removal is reinstated from its original date and is not subject to being reopened or reviewed, the alien is not eligible and may not apply for any relief under this chapter, and the alien shall be removed under the prior order at any time after the reentry.
+&emsp;If the Attorney General finds that an alien has reentered the United States illegally after having been removed or having departed voluntarily, under an order of removal, the prior order of removal is reinstated from its originaldate and is not subject to being reopened or reviewed, the alien is not eligible and may not apply for any relief under this chapter, and the alien shall be removed under the prior order at any time after the reentry.
 
 #### (6) Inadmissible or criminal aliens
 
@@ -380,7 +380,7 @@ Nothing in this section shall be construed to create any substantive or procedur
 
 (4)(A) In carrying out paragraph (1), the Attorney General shall give priority to the Federal incarceration of undocumented criminal aliens who have committed aggravated felonies.
 
-(B) The Attorney General shall ensure that undocumented criminal aliens incarcerated inFederal facilities pursuant to this subsection are held in facilities which provide a level of security appropriate to the crimes for which they were convicted.
+(B) The Attorney General shall ensure that undocumented criminal aliens incarcerated in Federal facilities pursuant to this subsection are held in facilities which provide a level of security appropriate to the crimes for which they were convicted.
 
 (5) There are authorized to be appropriated such sums as may be necessary to carry out this subsection in fiscal years 2003 and 2004.
 
@@ -497,8 +497,4 @@ Pub. L. 104–132, title IV, §437, Apr. 24, 1996, 110 Stat. 1275, provided that
 #### Termination of Limitation
 
 Section 20301(c) of Pub. L. 103–322, as amended by Pub. L. 104–208, div. C, title III, §308(g)(5)(G), Sept. 30, 1996, 110 Stat. 3009–623, provided that: “Notwithstanding section 241(h)(5) \[probably means 241(i)(5), formerly 242(j)(5) of the Immigration and Nationality Act \[8 U.S.C. 1231(i)(5)\], as added by subsection (a), the requirements of section 241(h) \[probably means 241(i), formerly 242(j) of the Immigration and Nationality Act \[8 U.S.C. 1231(i)\], as added by subsection (a), shall not be subject to the availability of appropriations on and after October 1, 2004.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1158, 1159, 1182, 1184, 1226a, 1229a, 1229b, 1252, 1253, 1324c, 1326, 1368, 1371, 1534, 1612, 1613, 1622, 1641 of this title; title 7 section 2015; title 40 section 3301; title 42 sections 1436a, 13710.
 

@@ -22,7 +22,7 @@ WHEREAS discriminatory policies and practices based upon race, color, creed, or 
 
 WHEREAS such discriminatory policies and practices result in segregated patterns of housing and necessarily produce other forms of discrimination and segregation which deprive many Americans of equal opportunity in the exercise of their unalienable rights to life, liberty, and the pursuit of happiness; and
 
-WHEREAS the executive branch of the Government, in faithfully executing the laws of the United States which authorize Federal financial assistance, directly or indirectly, for the provision, rehabilitation, and operation of housing and related facilities, is charged with an obligation and duty to assure that those laws are fairly administered and that benefits thereunder are made available to all Americans without regard to their race, color, creed, or national origin:
+WHEREAS the executive branch of the Government, in faithfully executing the laws of the United States which authorize Federal financial assistance, directly or indirectly, for the provision, rehabilitation, and operation of housing and related facilities, is charged with an obligation and duty to assure that those lawsare fairly administered and that benefits thereunder are made available to all Americans without regard to their race, color, creed, or national origin:
 
 NOW, THEREFORE, by virtue of the authority vested in me as President of the United States by the Constitution and laws of the United States, it is ordered as follows:
 
@@ -93,8 +93,4 @@ Sec. 601. As used in this order, the term “departments and agencies” include
 Sec. 602. This order shall become effective immediately.
 
 \[Functions of President's Committee on Equal Opportunity in Housing under Ex. Ord. No. 11063 delegated to Secretary of Housing and Urban Development by Ex. Ord. No. 12892, §6–604(a), Jan. 17, 1994, 59 F.R. 2939, set out as a note under section 3608 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1988, 3608 of this title.
 

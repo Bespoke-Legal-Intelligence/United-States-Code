@@ -32,7 +32,3 @@ Nov. 3, 1990, Pub. L. 101–500, §9, 104 Stat. 1217.
 
 In subsections (a) and (c), the words “authorized under section 31104 of this title” are substituted for “authorized under sections 2302 through 2304 of this Appendix to carry out the motor carrier safety assistance program” in 49 App.:2808(a) and “under the motor carrier safety assistance program” in 49 App.:2808(c) for clarity and consistency in the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5709 of this title.
-

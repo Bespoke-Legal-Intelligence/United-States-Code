@@ -30,7 +30,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1972—Subsec. (b). Pub. L. 92–310 struck out “and his sureties” after “against the individual”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 37 section 1007.
-

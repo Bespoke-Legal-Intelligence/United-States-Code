@@ -46,9 +46,5 @@ Authorized officers may, shoreward of the outer boundary of the exclusive econom
 
 Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5002, 5010 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

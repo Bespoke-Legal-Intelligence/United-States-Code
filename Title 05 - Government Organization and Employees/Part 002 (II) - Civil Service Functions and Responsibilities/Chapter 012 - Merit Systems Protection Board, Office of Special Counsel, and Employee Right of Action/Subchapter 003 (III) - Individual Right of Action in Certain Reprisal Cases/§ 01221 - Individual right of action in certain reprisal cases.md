@@ -72,9 +72,5 @@ Subsec. (g). Pub. L. 103–424, §8(b), added par. (1) and redesignated former p
 
 Subchapter effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as an Effective Date of 1989 Amendment note under section 1201 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1212, 1214, 1222, 2105, 2303, 7121 of this title; title 22 section 4139; title 49 section 40122.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “employee,”.</i>
 

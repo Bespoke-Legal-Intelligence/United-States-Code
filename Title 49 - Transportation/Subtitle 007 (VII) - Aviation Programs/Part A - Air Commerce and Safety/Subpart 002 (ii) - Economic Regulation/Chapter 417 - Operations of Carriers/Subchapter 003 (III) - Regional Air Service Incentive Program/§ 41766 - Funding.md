@@ -4,7 +4,3 @@ Of the amounts appropriated under section 106(k) for each of fiscal years 2001 t
 
 (Added Pub. L. 106–181, title II, §210(a), Apr. 5, 2000, 114 Stat. 101.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41763 of this title.
-

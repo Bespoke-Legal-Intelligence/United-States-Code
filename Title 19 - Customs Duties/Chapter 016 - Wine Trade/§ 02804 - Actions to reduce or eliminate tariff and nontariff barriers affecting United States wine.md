@@ -6,7 +6,7 @@ The President shall direct the Trade Representative to enter into consultations 
 
 #### (b) Reports to Congress on actions taken to expand export opportunities
 
-(1) the <sup>1</sup> President shall notify each of the Committees regarding the extent and effect of the efforts undertaken since the submission of the report required under section 854(a) of the Trade Agreements Act of 1979 \[19 U.S.C. 2135 note\], and during the 12-month period beginning on October 30, 1984, to expand opportunities in each major wine trading country for exports of United States wine. Such notification, which shall be in the form of a separate written report (that must be submitted within 30 days after the close of that 12-month period) for each major wine trading country, shall include—
+(1) the <sup>1</sup> President shall notify each of the Committees regarding the extent and effect ofthe efforts undertaken since the submission of the report required under section 854(a) of the Trade Agreements Act of 1979 \[19 U.S.C. 2135 note\], and during the 12-month period beginning on October 30, 1984, to expand opportunities in each major wine trading country for exports of United States wine. Such notification, which shall be in the form of a separate written report (that must be submitted within 30 days after the close of that 12-month period) for each major wine trading country, shall include—
 
 &emsp;(A) a description of each act, policy, and practice (and of its legal basis and operation) in that country that constitutes a tariff barrier or nontariff barrier to (or other distortion of) trade in United States wine (and that description shall be based upon an updating of the report that was submitted to the Congress under section 854(a) of the Trade Agreements Act of 1979);
 
@@ -40,7 +40,7 @@ If the President, after taking into account information and advice received unde
 
 Section 854(a) of the Trade Agreements Act of 1979, referred to in subsec. (b)(1), is section 854(a) of Pub. L. 96–39, title VIII, July 26, 1979, 93 Stat. 294, which is set out as a note under section 2135 of this title.
 
-The Trade Act of 1974, referred to in subsecs. (b)(1)(C)(i) and (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§2101 et seq.) of this title. For completeclassification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsecs. (b)(1)(C)(i) and (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 #### Reports on Negotiations To Eliminate Wine Trade Barriers
 
@@ -53,10 +53,6 @@ Pub. L. 100–418, title I, §1125, Aug. 23, 1988, 102 Stat. 1147, provided that
 &emsp;“(3) information, explanations, and recommendations of the kind referred to in paragraph (1)(C), (D), and (E) of such section 905(b) that are based on developments (including the taking of relevant actions, if any, of a kind not contemplated at the time of the enactment of such 1984 Act \[Oct. 30, 1984\]) since the submission of the report required under such section.”
 
 \[Functions of the President under section 1125 of Pub. L. 100–418 delegated to the United States Trade Representative, see section 1–201 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2805 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

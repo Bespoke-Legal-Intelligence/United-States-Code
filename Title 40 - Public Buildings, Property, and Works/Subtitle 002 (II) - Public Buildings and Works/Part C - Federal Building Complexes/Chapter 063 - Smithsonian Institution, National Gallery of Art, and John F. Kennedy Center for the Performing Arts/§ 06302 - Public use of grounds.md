@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 Oct. 24, 1951, ch. 559, §2, 65 Stat. 634.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6304, 6305, 6306, 6307 of this title.
-

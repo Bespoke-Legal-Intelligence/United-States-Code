@@ -8,7 +8,3 @@ If the consular officer executing any commission authorized under section 3492 o
 
 Based on section 695d of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 20, 1936, ch. 640, §5, 49 Stat. 1563).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3491, 3492, 3495, 3496 of this title.
-

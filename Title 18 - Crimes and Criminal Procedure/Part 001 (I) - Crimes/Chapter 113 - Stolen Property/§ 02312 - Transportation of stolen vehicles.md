@@ -24,7 +24,3 @@ Minor changes were made in phraseology.
 
 1992—Pub. L. 102–519 substituted “fined under this title or imprisoned not more than 10 years” for “fined not more than $5,000 or imprisoned not more than five years”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 981, 982, 1961, 2516 of this title.
-

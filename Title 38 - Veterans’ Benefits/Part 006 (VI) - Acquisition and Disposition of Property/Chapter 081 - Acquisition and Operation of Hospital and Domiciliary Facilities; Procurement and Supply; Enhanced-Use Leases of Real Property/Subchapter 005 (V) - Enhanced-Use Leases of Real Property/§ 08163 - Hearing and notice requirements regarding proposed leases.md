@@ -64,11 +64,11 @@
 
 &emsp;(G) A summary of a cost-benefit analysis of the proposed lease.
 
-(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 419; amended Pub. L. 106–117, title II, §208(c), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–419, title II, §241, title IV, §404(b)(1), Nov. 1, 2000, 114 Stat. 1847, 1865; Pub. L. 108–170, title II, §202(a), (d)(1), Dec. 6, 2003, 117 Stat. 2047, 2048.)
+(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 419; amended Pub. L. 106–117, titleII, §208(c), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–419, title II, §241, title IV, §404(b)(1), Nov. 1, 2000, 114 Stat. 1847, 1865; Pub. L. 108–170, title II, §202(a), (d)(1), Dec. 6, 2003, 117 Stat. 2047, 2048.)
 
 #### Amendments
 
-2003—Pub. L. 108–170, §202(d)(1), substituted “Hearing and notice requirements regarding proposed leases” for“Designation of property to be leased” in section catchline.
+2003—Pub. L. 108–170, §202(d)(1), substituted “Hearing and notice requirements regarding proposed leases” for “Designation of property to be leased” in section catchline.
 
 Subsec. (a). Pub. L. 108–170, §202(a)(1), in first sentence, substituted “enter into an enhanced-use lease with respect to certain property” for “designate a property to be leased under an enhanced-use lease” and “before entering into the lease” for “before making the designation”.
 

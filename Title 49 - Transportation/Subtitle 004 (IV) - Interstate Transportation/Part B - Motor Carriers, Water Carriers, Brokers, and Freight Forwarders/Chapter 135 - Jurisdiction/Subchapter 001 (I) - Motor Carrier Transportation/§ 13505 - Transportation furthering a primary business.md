@@ -14,7 +14,7 @@ Corporate Families.—
 
 &emsp;(1)
 
-In general.—Neither the Secretary nor the Board has jurisdiction under this part over transportation of property by motor vehicle for compensation provided by a person who is a member of a corporate family for other members of such corporate family.
+In general.—Neither the Secretary nor the Board has jurisdiction under this part overtransportation of property by motor vehicle for compensation provided by a person who is a member of a corporate family for other members of such corporate family.
 
 &emsp;(2)
 

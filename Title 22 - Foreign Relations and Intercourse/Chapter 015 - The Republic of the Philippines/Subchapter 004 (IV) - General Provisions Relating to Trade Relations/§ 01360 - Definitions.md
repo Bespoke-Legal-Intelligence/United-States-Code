@@ -8,7 +8,7 @@
 
 &emsp;(3) The term “ordinary customs duty” means a customs duty based on the article as such (whether or not such duty is also based in any manner on the use, value, or method of production of the article, or on the amount of like articles imported, or on any other factor); but does not include—
 
-&emsp;&emsp;(A) a customs duty based on an act or omission of any person with respect to theimportation of the article, or of the country from which the article is exported, or from which it comes; or
+&emsp;&emsp;(A) a customs duty based on an act or omission of any person with respect to the importation of the article, or of the country from which the article is exported, or from which it comes; or
 
 &emsp;&emsp;(B) a countervailing duty imposed to offset a subsidy, bounty, or grant; or
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) any other tax, fee, charge, or exaction, imposed on or in connection with importation unless the law of the country imposing it designates or imposes it as a customs duty or contains a provision to the effect that it shall be treated as a duty imposed under the customs laws.
 
-(b) For the purposes of sections 1271(b) and 1311(b) of this title, any material, used in the production of an article, shall be considered as having been used in the production of an article subsequently produced, which is the product of achain of production in the course of which an article, which is the product of one stage of the chain, is used by its producer or another person, in a subsequent stage of the chain, as a material in the production of another article.
+(b) For the purposes of sections 1271(b) and 1311(b) of this title, any material, used in the production of an article, shall be considered ashaving been used in the production of an article subsequently produced, which is the product of a chain of production in the course of which an article, which is the product of one stage of the chain, is used by its producer or another person, in a subsequent stage of the chain, as a material in the production of another article.
 
 (c) For the purposes of paragraphs (6) and (7) of subsection (a) of this section—
 
@@ -61,8 +61,4 @@ The customs laws, referred to in subsec. (a)(3)(D) and (8)(B), are classified ge
 #### Admission of Alaska and Hawaii to Statehood
 
 Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1346, 1373 of this title.
 

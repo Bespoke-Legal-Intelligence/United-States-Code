@@ -100,7 +100,7 @@ Notwithstanding any provisions of this subchapter, any registered investment com
 
 #### (f) Organization and ownership by one registered face-amount certificate company of all or part of capital stock of not more than two other face-amount certificate companies; limitations
 
-Notwithstanding any provisions of this chapter, any registered face-amount certificate company may organize not more than two face-amount certificate companies and acquire and own all or any part of the capital stock thereof only if such stock is acquired and held for investment: <i>Provided</i>, That the aggregate cost to such registered company of all such stock so acquired shall not exceed six times the amount of the minimum capital stock requirement provided in subdivision (1) of subsection (a) of section 80a–28 of this title for a face-amount company organized on or after March 15, 1940: <i>And provided further</i>, That the aggregate cost to such registered company of all such capital stock issued by face-amount certificate companies organized or otherwise created under laws other than the laws of the United States or any State thereof shall not exceed twice the amount of the minimum capital stock requirement provided in subdivision (1) of subsection (a) of said section 80a–28 for a company organized on or after March 15, 1940. Nothing contained in this subsection shall be deemed to prevent the sale of any such stock to any other person if the original purchase was made by such registered face-amount certificate company in good faith for investment and not for resale.
+Notwithstanding any provisions of this chapter, any registered face-amount certificate company may organize not more than two face-amount certificate companies and acquire and own all or any part of the capital stock thereof only if such stock is acquired and held for investment: <i>Provided</i>, That the aggregate cost to such registered company of all such stock so acquired shall not exceed six times the amount of the minimum capital stock requirement provided in subdivision (1) of subsection (a) of section 80a–28 of this title for a face-amount company organized on or after March 15, 1940: <i>And</i><i>provided further</i>, That the aggregate cost to such registered company of all such capital stock issued by face-amount certificate companies organized or otherwise created under laws other than the laws of the United States or any State thereof shall not exceed twice the amount of the minimum capital stock requirement provided in subdivision (1) of subsection (a) of said section 80a–28 for a company organized on or after March 15, 1940. Nothing contained in this subsection shall be deemed to prevent the sale of any such stock to any other person if the original purchase was made by such registered face-amount certificate company in good faith for investment and not for resale.
 
 #### (g) Exceptions to limitation on ownership by investment company of securities of insurance company
 
@@ -155,8 +155,4 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–2, 80a–3, 80a–6, 80a–10, 80a–17, 80a–22, 80a–59 of this title.
 

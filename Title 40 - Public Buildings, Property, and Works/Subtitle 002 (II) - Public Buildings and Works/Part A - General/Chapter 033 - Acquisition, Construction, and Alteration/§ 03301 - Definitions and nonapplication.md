@@ -158,7 +158,3 @@ In subsection (a), the text of 40:612(2) and 612a(1) is omitted because the comp
 
 In subsection (b), the text of 40:613(1)–(3) is omitted as obsolete. The reference is to section 241(g) of the Immigration and Nationality Act rather than to section 242(c) to reflect the amendment of sections 241 and 242 by sections 305(a)(3) and 306(a)(2) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208, div. C, 110 Stat. 3009–598, 3009–607).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 586 of this title; title 15 section 205c; title 16 section 450ss–6; title 42 section 8287c; title 49 section 40110.
-

@@ -71,10 +71,6 @@
 
 1982—Pub. L. 97–222, §6(b), July 27, 1982, 96 Stat. 237, added items 555 and 556.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 103 of this title; title 15 section 78fff.
-
 
 ---
 

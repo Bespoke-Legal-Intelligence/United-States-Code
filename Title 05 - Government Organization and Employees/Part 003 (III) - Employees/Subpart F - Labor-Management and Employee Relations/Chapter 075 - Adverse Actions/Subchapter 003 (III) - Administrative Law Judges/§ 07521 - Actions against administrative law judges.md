@@ -40,7 +40,3 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 559, 1305, 7502, 7512 of this title; title 15 section 1715; title 29 section661; title 30 section 823; title 38 section 7101A; title 39 section 3601; title 42 sections 2000e–4, 3608.
-

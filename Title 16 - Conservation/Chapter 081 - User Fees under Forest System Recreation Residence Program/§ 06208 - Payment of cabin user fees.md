@@ -18,7 +18,3 @@ If, in accordance with section 6206 of this title, the Secretary determines that
 
 (Pub. L. 106–291, title VI, §609, Oct. 11, 2000, 114 Stat. 1020.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6213 of this title.
-

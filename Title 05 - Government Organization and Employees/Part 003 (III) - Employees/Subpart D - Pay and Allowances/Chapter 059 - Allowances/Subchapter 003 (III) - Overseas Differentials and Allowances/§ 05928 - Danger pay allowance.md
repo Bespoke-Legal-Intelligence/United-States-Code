@@ -1,12 +1,18 @@
 ### §5928. Danger pay allowance
 
-An employee serving in a foreign area may be granted a danger pay allowance on the basis of civil insurrection, civil war, terrorism, or wartime conditions which threaten physical harm or imminent danger to the health or well-being of the employee. A danger pay allowance may not exceed 25 percent of the basic pay of the employee, except that if an employee is granted an additional differential under section 5925(b) of this title with respect to an assignment, the sum of that additional differential and any danger pay allowance granted to the employee with respect to that assignment may not exceed 25 percent of the basic pay of the employee. The presence of nonessential personnel or dependents shall not preclude payment of an allowance under this section. In each instance where an allowance under this section is initiated or terminated, the Secretary of State shall inform the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of the action taken and the circumstances justifying it.
+An employee serving in a foreign area may be granted a danger pay allowance on the basis of civil insurrection, civil war, terrorism, or wartime conditions which threaten physical harm or imminent danger to the health or well-being of the employee. A danger pay allowance may not exceed 25 percent of the basic pay of the employee or 35 percent of the basic pay of the employee in the case of an employee of the United States Agency for International Development, except that if an employee is granted an additional differential under section 5925(b) of this title with respect to an assignment, the sum of that additional differential and any danger pay allowance granted to the employee with respect to that assignment may not exceed 25 percent of the basic pay of the employee or 35 percent of the basic pay of the employee in the case of an employee of the United States Agency for International Development. The presence of nonessential personnel or dependents shall not preclude payment of an allowance under this section. In each instance where an allowance under this section is initiated or terminated, the Secretary of State shall inform the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of the action taken and the circumstances justifying it.
 
-(Added Pub. L. 96–465, title II, §2311(a), Oct. 17, 1980, 94 Stat. 2166; amended Pub. L. 98–164, title I, §131, Nov. 22, 1983, 97 Stat. 1028.)
+(Added Pub. L. 96–465, title II, §2311(a), Oct. 17, 1980, 94 Stat. 2166; amended Pub. L. 98–164, title I, §131, Nov. 22, 1983, 97 Stat. 1028; Pub. L. 108–199, div. D, title V, §591(b), Jan. 23, 2004, 118 Stat. 207.)
 
 #### Amendments
 
+2004—Pub. L. 108–199 inserted “or 35 percent of the basic pay of the employee in the case of an employee of the United States Agency for International Development” after “25 percent of the basic pay of the employee” in two places.
+
 1983—Pub. L. 98–164 inserted provision that presence of nonessential personnel or dependents shall not preclude payment of an allowance under this section, and that each instance where an allowance under this section is initiated or terminated, the Secretary of State shall inform the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of action taken and circumstances justifying it.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–199 not effective until the same authority is enacted for employees of the Department of State, except for employees of the United States Agency for International Development stationed in Iraq and Afghanistan, see section 591(c) of Pub. L. 108–199, set out as a note under section 5925 of this title.
 
 #### Effective Date
 
@@ -19,8 +25,4 @@ Pub. L. 101–246, title I, §151, Feb. 16, 1990, 104 Stat. 42, as amended by Pu
 #### Greater Utilization of Danger Pay Allowance
 
 Pub. L. 98–533, title III, §304, Oct. 19, 1984, 98 Stat. 2711, provided that: “In recognition of the current epidemic of worldwide terrorist activity and the courage and sacrifice of employees of United States agencies overseas, civilian as well as military, it is the sense of Congress that the provisions of section 5928 of title 5, United States Code, relating to the payment of danger pay allowance, should be more extensively utilized at United States missions abroad.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5307, 5551, 5949 of this title; title 22 sections 1474, 4057; title 50 section 2081.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER VIII—UNIVERSITY COAL RESEARCH LABORATORIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1291 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 

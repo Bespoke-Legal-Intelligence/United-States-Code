@@ -10,13 +10,9 @@ Under uniform regulations prescribed by the Secretaries concerned, a member of a
 
 #### Effective Date; Limitations
 
-Section 2 of Pub. L. 88–238 provided that: “This Act \[enacting this section\] becomes effective on October 1, 1949. Any member or former member of the uniformed services who, after September 30, 1949, but before the date of enactment of this Act \[Dec. 23, 1963\], has not been paid, or has repaid the United States, an amount to which he otherwise would have been entitled had section 1 of this Act \[enacting this section\] been in effect during that period is entitled to be paid or repaid that amount, if the payment or repayment is otherwise proper and he applies for the payment or repayment within one year after the date of enactment of this Act.”
+Section 2 of Pub. L. 88–238 provided that: “This Act \[enacting this section\] becomes effective on October 1, 1949. Any member or former member of the uniformed services who, after September 30, 1949, but before the date of enactment of this Act \[Dec. 23, 1963\], has notbeen paid, or has repaid the United States, an amount to which he otherwise would have been entitled had section 1 of this Act \[enacting this section\] been in effect during that period is entitled to be paid or repaid that amount, if the payment or repayment is otherwise proper and he applies for the payment or repayment within one year after the date of enactment of this Act.”
 
 #### Appropriations
 
 Section 3 of Pub. L. 88–238 provided that: “Any appropriations available to the departments concerned for the pay and allowances of members of the uniformed services are available for payments under this Act \[enacting this section\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 407, 420 of this title.
 

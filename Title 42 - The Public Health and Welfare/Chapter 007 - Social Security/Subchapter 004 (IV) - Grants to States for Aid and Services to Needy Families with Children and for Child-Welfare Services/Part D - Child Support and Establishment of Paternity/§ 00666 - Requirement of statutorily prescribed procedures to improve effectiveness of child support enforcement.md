@@ -88,7 +88,7 @@ Services offered by hospitals and birth record agencies.—The Secretary shall p
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb)
 
-Services offered by other entities.—The Secretary shall prescribe regulations specifying the types of other entities that may offer voluntary paternity establishment services, and governing the provision of such services, which shall include a requirement that such an entity must use the same notice provisions used by, use the same materials used by, provide the personnel providing such services with the same training provided by, and evaluate the provision of such services in the same manner as the provision of such services is evaluated by, voluntary paternity establishment programs of hospitals and birth record agencies.
+Services offered by other entities.—The Secretary shall prescriberegulations specifying the types of other entities that may offer voluntary paternity establishment services, and governing the provision of such services, which shall include a requirement that such an entity must use the same notice provisions used by, use the same materials used by, provide the personnel providing such services with the same training provided by, and evaluate the provision of such services in the same manner as the provision of such services is evaluated by, voluntary paternity establishment programs of hospitals and birth record agencies.
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -136,7 +136,7 @@ Admissibility of genetic testing results.—Procedures—
 
 &emsp;&emsp;&emsp;(ii) requiring an objection to genetic testing results to be made in writing not later than a specified number of days before any hearing at which the results may be introduced into evidence (or, at State option, not later than a specified number of days after receipt of the results); and
 
-&emsp;&emsp;&emsp;(iii) making the test results admissible as evidence of paternity without the need for foundation testimony or other proof ofauthenticity or accuracy, unless objection is made.
+&emsp;&emsp;&emsp;(iii) making the test results admissible as evidence of paternity without the need for foundation testimony or other proof of authenticity or accuracy, unless objection is made.
 
 &emsp;&emsp;(G)
 
@@ -164,7 +164,7 @@ Standing of putative fathers.—Procedures ensuring that the putative father has
 
 &emsp;&emsp;(M)
 
-Filing of acknowledgments and adjudications in state registry of birth records.—Procedures under which voluntary acknowledgments and adjudications of paternity by judicial or administrative processes are filed with the State registry of birth records for comparison with information in the State case registry.
+Filing of acknowledgments and adjudications in state registry of birthrecords.—Procedures under which voluntary acknowledgments and adjudications of paternity by judicial or administrative processes are filed with the State registry of birth records for comparison with information in the State case registry.
 
 &emsp;(6) Procedures which require that a noncustodial parent give security, post a bond, or give some other guarantee to secure payment of overdue support, after notice has been sent to such noncustodial parent of the proposed action and of the procedures to be followed to contest it (and after full compliance with all procedural due process requirements of the State).
 
@@ -226,7 +226,7 @@ In general.—Procedures under which every 3 years (or such shorter cycle as the
 
 &emsp;&emsp;&emsp;(ii)
 
-Opportunity to request review of adjustment.—If the State elects to conduct the review under subclause (II) or (III) of clause (i), procedures which permit either party to contest the adjustment, within 30 days after the date of the notice of the adjustment, by making a request for review and, if appropriate, adjustment of the order in accordance with the child support guidelines established pursuant to section 667(a) of this title.
+Opportunity to request review of adjustment.—If the State elects to conduct the review under subclause (II) or (III) of clause (i), procedures which permit either party to contest the adjustment, within 30 days after the date of the noticeof the adjustment, by making a request for review and, if appropriate, adjustment of the order in accordance with the child support guidelines established pursuant to section 667(a) of this title.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -298,7 +298,7 @@ Procedures to ensure that persons owing overdue support work or have a plan for 
 
 &emsp;&emsp;(A) pay such support in accordance with a plan approved by the court, or, at the option of the State, a plan approved by the State agency administering the State program under this part; or
 
-&emsp;&emsp;(B) if the individual is subject to such a plan and is not incapacitated, participate in such work activities (as defined in section 607(d) of this title) as the court, or, at the option of the State, the State agency administering the State program under this part, deems appropriate.
+&emsp;&emsp;(B) if the individual is subject to such a plan and is not incapacitated, participate insuch work activities (as defined in section 607(d) of this title) as the court, or, at the option of the State, the State agency administering the State program under this part, deems appropriate.
 
 &emsp;(16)
 
@@ -350,7 +350,7 @@ Enforcement of orders against paternal or maternal grandparents.—Procedures un
 
 Health care coverage.—Procedures under which—
 
-&emsp;&emsp;(A) effective as provided in section 401(c)(3) of the Child Support Performance and Incentive Act of 1998, all child support orders enforced pursuant to this part which include a provision for the health care coverage of the child are enforced, where appropriate, through the use of the National Medical Support Notice promulgated pursuant to section 401(b) of the Child Support Performance and Incentive Act of 1998 (and referred to in section 609(a)(5)(C) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1169(a)(5)(C)\] in connection with group health plans covered under title I of such Act \[29 U.S.C. 1001 et seq.\], in section401(e)(3)(C) of the Child Support Performance and Incentive Act of 1998 in connection with State or local group health plans, and in section 401(f)(5)(C) of such Act in connection with church group health plans);
+&emsp;&emsp;(A) effective as provided in section 401(c)(3) of the Child Support Performance and Incentive Act of 1998, all child support orders enforced pursuant to this part which include a provision for the health care coverage of the child are enforced, where appropriate, through the use of the National Medical Support Notice promulgated pursuant to section 401(b) of the Child Support Performance and Incentive Act of 1998 (and referred to in section 609(a)(5)(C) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1169(a)(5)(C)\] in connection with group health plans covered under title I of such Act \[29 U.S.C. 1001 et seq.\], in section 401(e)(3)(C) of the Child Support Performance and Incentive Act of 1998 in connection with State or local group health plans, and in section 401(f)(5)(C) of such Act in connection with church group health plans);
 
 &emsp;&emsp;(B) unless alternative coverage is allowed for in any order of the court (or other entity issuing the child support order), in any case in which a noncustodial parent is required under the child support order to provide such health care coverage and the employer of such noncustodial parent is known to the State agency—
 
@@ -360,7 +360,7 @@ Health care coverage.—Procedures under which—
 
 &emsp;&emsp;&emsp;(iii) in any case in which the noncustodial parent is a newly hired employee entered in the State Directory of New Hires pursuant to section 653a(e) of this title, the State agency provides, where appropriate, the National Medical Support Notice, together with an income withholding notice issued pursuant to subsection (b) of this section, within two days after the date of the entry of such employee in such Directory; and
 
-&emsp;&emsp;&emsp;(iv) in any case in which the employment of the noncustodial parent with any employer who has received a National Medical Support Notice is terminated, such employer is required to notify the State agency of such termination; and
+&emsp;&emsp;&emsp;(iv) in any case in which the employment of the noncustodial parent with anyemployer who has received a National Medical Support Notice is terminated, such employer is required to notify the State agency of such termination; and
 
 &emsp;&emsp;(C) any liability of the noncustodial parent to such plan for employee contributions which are required under such plan for enrollment of the child is effectively subject to appropriate enforcement, unless the noncustodial parent contests such enforcement based on a mistake of fact.
 
@@ -532,7 +532,7 @@ The procedures specified in this subsection are the following:
 
 #### (3) Coordination with ERISA
 
-&emsp;Notwithstanding subsection (d) of section 514 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1144(d)\] (relating to effect on other laws), nothing in this subsection shall be construed to alter, amend, modify, invalidate, impair, or supersede subsections (a), (b), and (c) of such section 514 \[29 U.S.C. 1144(a)–(c)\] as it applies with respect to any procedure referred to in paragraph (1) and any expedited procedure referred to in paragraph (2), except to the extent that such procedure would be consistent with the requirements of section 206(d)(3) of such Act \[29 U.S.C. 1056(d)(3)\] (relating to qualified domestic relations orders) or the requirements of section 609(a) of such Act \[29 U.S.C. 1169(a)\] (relating to qualified medical child support orders) if the reference in such section 206(d)(3) to a domestic relations order and the reference in such section 609(a) to a medical child support order were a reference to a support order referred to in paragraphs (1) and (2) relating to the same matters, respectively.
+&emsp;Notwithstanding subsection (d) of section 514 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1144(d)\] (relating to effect on other laws), nothing in this subsection shall be construed to alter, amend, modify, invalidate, impair, or supersede subsections (a), (b), and (c) of such section 514 \[29 U.S.C. 1144(a)–(c)\] as it applies with respect to any procedure referred to in paragraph (1) and anyexpedited procedure referred to in paragraph (2), except to the extent that such procedure would be consistent with the requirements of section 206(d)(3) of such Act \[29 U.S.C. 1056(d)(3)\] (relating to qualified domestic relations orders) or the requirements of section 609(a) of such Act \[29 U.S.C. 1169(a)\] (relating to qualified medical child support orders) if the reference in such section 206(d)(3) to a domestic relations order and the reference in such section 609(a) to a medical child support order were a reference to a support order referred to in paragraphs (1) and (2) relating to the same matters, respectively.
 
 #### (d) Exemption of States
 
@@ -638,7 +638,7 @@ Subsec. (a)(4). Pub. L. 104–193, §368, inserted heading and amended text of p
 
 Subsec. (a)(5). Pub. L. 104–193, §331(a), inserted heading and amended text of par. (5) generally. Prior to amendment, text related to establishment of child's paternity prior to child's eighteenth birthday.
 
-Subsec. (a)(6). Pub. L. 104–193, §395(d)(1)(H), (2)(D), substituted “a noncustodial parent give security” for“an absent parent give security” and “noncustodial parent of the proposed action” for “absent parent of the proposed action”.
+Subsec. (a)(6). Pub. L. 104–193, §395(d)(1)(H), (2)(D), substituted “a noncustodial parent give security” for “an absent parent give security” and “noncustodial parent of the proposed action” for “absent parent of the proposed action”.
 
 Subsec. (a)(7). Pub. L. 104–193, §367, inserted heading and amended text of par. (7) generally. Prior to amendment, text read as follows: “Procedures which require the State to periodically report to consumer reporting agencies (as defined in section 1681a(f) of title 15) the name of any parent who owes overdue support and is at least 2 months delinquent in the payment of such support and the amount of such delinquency; except that (A) if the amount of the overdue support involved in any case is less than $1,000, information regarding such amount shall be made available only at the option of the State, (B) any information with respect to an absent parent shall be made available under such procedures only after notice has been sent to such absent parent of the proposed action, and such absent parent has been given a reasonable opportunity to contest the accuracy of such information (and after full compliance with all procedural due process requirements of the State), and (C) such information shall not be made available to (i) a consumer reporting agency which the State determines does not have sufficient capability to systematically and timely make accurate use of such information, or (ii) an entity which has not furnished evidence satisfactory to the State that the entity is a consumer reporting agency.”
 
@@ -815,8 +815,4 @@ Section 103(e) of Pub. L. 100–485 authorized an agreement between Secretary of
 #### Commission on Interstate Child Support
 
 Section 126 of Pub. L. 100–485, as amended by Pub. L. 101–508, title V, §5012(a), Nov. 5, 1990, 104 Stat. 1388–221; Pub. L. 102–318, title V, §534(a), July 3, 1992, 106 Stat. 317, established Commission on Interstate Child Support to hold national conferences on interstate child support reform and prepare report to Congress containing recommendations for improving interstate establishment and enforcement of child support awards and for revising Uniform Reciprocal Enforcement of Support Act and provided for powers of the Commission, appropriations, and termination of the Commission on Sept. 30, 1992.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 652, 653, 653a, 654, 654a, 654b, 659, 669a of this title; title 15 section 1681a.
 

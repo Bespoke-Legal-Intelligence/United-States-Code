@@ -8,7 +8,7 @@ For the purpose of preserving for the benefit of the American people as a nation
 
 (c) The site of the residence of Benjamin Franklin, and related grounds, comprising approximately a one-hundred-foot-wide strip, extending southward from Market Street approximately three hundred feet between Third and Fourth Streets, and encompassing a portion of Orianna Street, identified as “project C” in the report of the Commission.
 
-(d) Certain land and buildings immediately adjacent to Christ Church, situated on the west side of Second Street, and north of Market Street, identified as “project E” in the report of the Commission, and certain land and buildings adjoining “Project E”, being known and numbered as 8, 10, and 12 North Second Street and 201, 203, 205, 207, 209, 211–213, 215, 217, 219, and 221 Market Street: <i>Provided</i>, That the Secretary of the Interior first enter into an agreement with the proprietor or proprietors of said property (Christ Church), said agreement to contain the usual and customary provisions for the protection of the property, assuring its physical maintenance as a national shrine, without any limitation or control over its use for customary church purposes.
+(d) Certain land and buildings immediately adjacent to Christ Church, situated on the west side of Second Street, and north of Market Street, identified as “project E” in the report ofthe Commission, and certain land and buildings adjoining “Project E”, being known and numbered as 8, 10, and 12 North Second Street and 201, 203, 205, 207, 209, 211–213, 215, 217, 219, and 221 Market Street: <i>Provided</i>, That the Secretary of the Interior first enter into an agreement with the proprietor or proprietors of said property (Christ Church), said agreement to contain the usual and customary provisions for the protection of the property, assuring its physical maintenance as a national shrine, without any limitation or control over its use for customary church purposes.
 
 (June 28, 1948, ch. 687, §1, 62 Stat. 1061; July 10, 1952, ch. 653, §1, 66 Stat. 575; Pub. L. 85–764, §3(a), Aug. 27, 1958, 72 Stat. 862.)
 
@@ -101,8 +101,4 @@ Act Aug. 6, 1956, ch. 1018, 70 Stat. 1074, provided that: “Upon compliance wit
 “
 
 Sec. 2. This Act shall become effective if and when the Mikveh Israel Congregation, through its duly authorized representatives, has executed an agreement in terms and conditions satisfactory to the Secretary of the Interior, providing for the continuing administration, care, and maintenance, without expense to the United States, of the Mikveh Israel Cemetery, whereupon said Secretary shall issue a notice declaring that said requirement has been met and that Mikveh Israel Cemetery is formally designated a unit of the Independence National Historical Park.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 407n, 407<i>o</i> of this title.
 

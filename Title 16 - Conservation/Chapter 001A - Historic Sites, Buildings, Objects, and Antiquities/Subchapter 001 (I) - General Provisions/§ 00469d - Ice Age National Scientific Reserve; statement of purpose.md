@@ -4,7 +4,3 @@ It is the purpose of sections 469d to 469i of this title to assure protection, p
 
 (Pub. L. 88–655, §1, Oct. 13, 1964, 78 Stat. 1087.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 469e, 469h of this title.
-

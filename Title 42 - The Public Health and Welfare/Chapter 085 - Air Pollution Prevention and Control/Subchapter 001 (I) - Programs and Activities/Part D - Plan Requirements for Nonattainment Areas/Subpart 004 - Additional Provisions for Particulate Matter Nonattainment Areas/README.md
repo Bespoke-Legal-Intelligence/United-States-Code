@@ -1,9 +1,5 @@
 subpart 4—additional provisions for particulate matter nonattainment areas
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 7626 of this title.
-
 <i><sup>1</sup></i><i> So in original. Subsec. (a)(1) of this section does not contain a subpar. (B).</i>
 
 

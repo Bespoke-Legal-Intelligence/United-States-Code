@@ -14,7 +14,7 @@ There shall be in the Department of the Treasury a service to be known as the Un
 
 Provisions that fixed the compensation of the Commissioner have been omitted as the position is under the Executive Schedule, see section 5316 of Title 5, Government Organization and Employees.
 
-Provisions that authorized appointment of the Commissioner “without regard to the civil service laws” were omitted as the appointment is subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5. The position is currently excepted from the civil service rules and regulations by Schedule C, see Part 213 of Title 5 of the Code of Federal Regulations.
+Provisions that authorized appointment of the Commissioner “without regard to the civil service laws” were omitted as the appointment is subject to the civilservice laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5. The position is currently excepted from the civil service rules and regulations by Schedule C, see Part 213 of Title 5 of the Code of Federal Regulations.
 
 Section was formerly classified to section 281 of Title 5 prior to the general revision and codification of Title 5 by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
@@ -36,7 +36,7 @@ Section 7 of act Mar. 3, 1927, provided that: “This Act shall take effect Apri
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency ofthat Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, §2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
+Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, §2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -142,7 +142,7 @@ Section 3(b)(2) of Pub. L. 101–207 provided that: “The individual who is ser
 
 Pub. L. 100–203, title IX, §9503(c), Dec. 22, 1987, 101 Stat. 1330–381, provided that:
 
-“(1) The Secretary of the Treasury shall establish an advisory committee which shall be known as the ‘Advisory Committee on Commercial Operations of the United States Customs Service’ (hereafter in this subsection referred to as the ‘Advisory Committee’).
+“(1) The Secretary of the Treasury shall establish an advisory committee which shall be known as the ‘Advisory Committee on Commercial Operations of theUnited States Customs Service’ (hereafter in this subsection referred to as the ‘Advisory Committee’).
 
 “(2)(A) The Advisory Committee shall consist of 20 members appointed by the Secretary of the Treasury.
 
@@ -165,8 +165,4 @@ Pub. L. 100–203, title IX, §9503(c), Dec. 22, 1987, 101 Stat. 1330–381, pro
 “(4) The Assistant Secretary of the Treasury for Enforcement shall preside over meetings of the Advisory Committee.”
 
 Pub. L. 99–272, title XIII, §13033, Apr. 7, 1986, 100 Stat. 311, which provided for the establishment of an advisory committee, whose members were to consist of representatives from the airline, shipping, and other transportation industries, the general public, and others, to advise the Secretary of the Treasury on issues related to the performance of the customs services, was repealed by Pub. L. 100–203, title IX, §9503(d), Dec. 22, 1987, 101 Stat. 1330–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2072 of this title; title 31 section 308.
 

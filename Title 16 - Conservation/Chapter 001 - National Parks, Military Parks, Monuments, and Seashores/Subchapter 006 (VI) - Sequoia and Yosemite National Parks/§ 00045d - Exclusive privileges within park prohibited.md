@@ -4,7 +4,3 @@ No exclusive privilege shall be granted within said park, or on or over the road
 
 (July 3, 1926, ch. 744, §4, 44 Stat. 820.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 45e of this title.
-

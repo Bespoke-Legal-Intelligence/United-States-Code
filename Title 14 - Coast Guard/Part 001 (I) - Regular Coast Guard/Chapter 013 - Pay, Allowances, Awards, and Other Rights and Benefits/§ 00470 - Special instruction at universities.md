@@ -12,7 +12,3 @@ The monetary limitation is removed.
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 37 section 321.
-

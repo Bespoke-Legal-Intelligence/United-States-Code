@@ -48,7 +48,7 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 #### Effective Date of 1984 Amendment
 
-Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
+Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on orafter that date, with certain exceptions and qualifications.
 
 #### Additional Pay and Benefits for Employees Reduced in Grade On or After January 1, 1977, Etc.
 
@@ -77,8 +77,4 @@ Section 801(b) of Pub. L. 95–454 provided that:
 “(B) Amounts payable by reason of subparagraph (A) of this paragraph in the case of the death of an employee shall be paid in accordance with the provisions of subchapter VIII of chapter 55 of title 5, United States Code, relating to settlement of accounts in the case of deceased employees.
 
 “(4) The Office of Personnel Management shall have the same authority to prescribe regulations under this subsection as it has under section 5365 of title 5, United States Code, with respect to subchapter VI of chapter 53 of such title, as added by subsection (a) of this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5361, 5363, 5364 of this title.
 

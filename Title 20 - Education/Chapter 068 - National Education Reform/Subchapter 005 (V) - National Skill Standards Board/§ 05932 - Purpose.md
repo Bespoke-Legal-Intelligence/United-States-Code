@@ -42,7 +42,3 @@ It is the purpose of this subchapter to establish a National Skill Standards Boa
 
 The civil rights laws, referred to in par. (3), are classified generally to chapter 21 (§1981 et seq.) of Title 42, The Public Health and Welfare.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5936 of this title.
-

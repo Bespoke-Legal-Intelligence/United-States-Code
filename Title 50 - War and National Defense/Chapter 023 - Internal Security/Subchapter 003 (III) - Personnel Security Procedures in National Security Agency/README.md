@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—PERSONNEL SECURITY PROCEDURES IN NATIONAL SECURITY AGENCY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 5 section 2305.
-
 
 ---
 

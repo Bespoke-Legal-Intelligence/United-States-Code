@@ -28,7 +28,7 @@ Subsec. (a)(4). Pub. L. 104–227, §101(a)(1), (2), redesignated par. (1) as (4
 
 Subsec. (a)(5). Pub. L. 104–227, §101(a)(1), (3), redesignated par. (2) as (5) and substituted “the Antarctic Treaty and the Protocol establish international mechanisms and create legal obligations necessary for the maintenance of Antarctica as a natural reserve devoted to peace and science.” for “the study of Antarctic fauna and flora, their adaptation to their rigorous environment, and their interrelationships with that environment has special scientific importance for all mankind.”
 
-Subsec. (b). Pub. L. 104–227, §101(b), substituted “Treaty and the Protocol” for “Treaty, the Agreed Measures for the Conservation of Antarctic Fauna and Flora, and Recommendation VII–3 of the Eighth Antarctic Treaty Consultative Meeting”.
+Subsec. (b). Pub. L. 104–227, §101(b), substituted “Treaty and the Protocol” for “Treaty, the Agreed Measures for the Conservation of Antarctic Fauna andFlora, and Recommendation VII–3 of the Eighth Antarctic Treaty Consultative Meeting”.
 
 #### Short Title of 1996 Amendment
 

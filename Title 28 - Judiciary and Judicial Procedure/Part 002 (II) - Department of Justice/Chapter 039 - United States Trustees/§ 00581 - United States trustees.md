@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 99–554, §111(c), struck out “for cause” after “rem
 
 #### Effective Date of 1986 Amendment; Transition and Administrative Provisions
 
-Title III of Pub. L. 99–554, as amended by Pub. L. 101–650, title III, §317(a), (c), Dec. 1, 1990, 104 Stat. 5115, 5116; Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 106–518, title V, §501, Nov. 13, 2000, 114 Stat. 2421, provided that:
+Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L. 101–650, title III, §317(a), (c), Dec. 1, 1990, 104 Stat. 5115, 5116; Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 106–518, title V, §501, Nov. 13, 2000, 114 Stat. 2421, provided that:
 
 #### “SEC. 301. INCUMBENT UNITED STATES TRUSTEES.
 
@@ -116,7 +116,7 @@ Amendments Relating to Bankruptcy Judges and Incumbent United States Trustees.�
 
 Amendments Relating to Family Farmers.—(1) The amendments made by subtitle B of title II \[§§251 to 257 of Pub. L. 99–554, see Tables for classification\] shall not apply with respect to cases commenced under title 11 of the United States Code before the effective date of this Act.
 
-“(2) Section 1202 of title 11 of the United States Code (as added by the amendment made by section 255 of thisAct) shall take effect on the effective date of this Act and before the amendment made by section 227 of this Act \[amending section 1202 of this title\].
+“(2) Section 1202 of title 11 of the United States Code (as added by the amendment made by section 255 of this Act) shall take effect on the effective date of this Act and before the amendment made by section 227 of this Act \[amending section 1202 of this title\].
 
 “(3) Until the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\] become effective in a district and apply to a case, for purposes of such case—
 
@@ -254,11 +254,11 @@ Judicial districts for the states of alabama and north carolina.—(A) Notwithst
 
 &emsp;&emsp;“(ii) apply to cases while pending in such district before,
 
-> &emsp;such district elects to be included in a bankruptcy region established in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act,except that the amendment to section 105(a) of title 11, United States Code, shall become effective as of the date of the enactment of the Federal Courts Study Committee Implementation Act of 1990 \[Dec. 1, 1990\].
+> &emsp;such district elects to be included in a bankruptcy region established in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, except that the amendment to section 105(a) of title 11, United States Code, shall become effective as of the date of the enactment of the Federal Courts Study Committee Implementation Act of 1990 \[Dec. 1, 1990\].
 
 &emsp;“(B) Any election under subparagraph (A) shall be made upon a majority vote of the chief judge of such district and each bankruptcy judge in such judicial district in favor of such election.
 
-&emsp;“(C) Notice that an election has been made under subparagraph (A) shall be given, not later than 10 days after such election, to the Attorney General and the appropriate Federal Circuit Court of Appeals for such district.
+&emsp;“(C) Notice that an election has been made under subparagraph (A) shall be given, not later than 10days after such election, to the Attorney General and the appropriate Federal Circuit Court of Appeals for such district.
 
 &emsp;“(D) Any election made under subparagraph (A) shall become effective on the date the amendments made by subtitle A of title II of this Act become effective in the region that includes such district or 30 days after the Attorney General receives the notice required under subparagraph (C), whichever occurs later.
 
@@ -348,7 +348,7 @@ Notice and Publication of Certification.—Whenever the Attorney General transmi
 
 “(a)
 
-Cooperative Arrangements.—The Attorney General and the Director of the Administrative Office of the United States Courts may enter into agreements under which United States trustees may—
+Cooperative Arrangements.—The Attorney General and the Director of the Administrative Officeof the United States Courts may enter into agreements under which United States trustees may—
 
 &emsp;“(1) use—
 
@@ -424,7 +424,7 @@ Establishment of Project.—Not later than 1 year after the effective date of th
 
 “(b)
 
-Study by General Accounting Office.—Not later than 1 year after the electronic case management system begins to operate in all of the judicial districts participating in the demonstration project carried out under subsection (a), the General Accounting Office shall conduct a study to compare the cost and effectiveness of such system with the cost and effectiveness of case management systems used in Federal judicial districts that are not participating in such project.
+Study by General Accounting Office \[now Government Accountability Office\].—Not later than 1 year after the electronic case management system begins to operate in all of the judicial districts participating in the demonstration project carried out under subsection (a), the General Accounting Office \[now Government Accountability Office\] shall conduct a study to compare the cost and effectiveness of such system with the cost and effectiveness of case management systems used in Federal judicial districts that are not participating in such project.
 
 “(c)
 
@@ -511,8 +511,4 @@ Chapter effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out 
 #### Short Title of 1986 Amendment
 
 Section 1 of Pub. L. 99–554 provided: “That this Act \[enacting section 589a of this title and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, set out in the Appendix to Title 11, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and section 589 of this title, amending provisions set out as notes preceding this section and under section 152 of this title, and repealing provisions set out as a note preceding this section\] may be cited as the “Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 585, 1930 of this title.
 

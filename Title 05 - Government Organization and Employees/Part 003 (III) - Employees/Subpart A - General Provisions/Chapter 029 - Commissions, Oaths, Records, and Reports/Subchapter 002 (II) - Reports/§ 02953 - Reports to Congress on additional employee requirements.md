@@ -28,9 +28,9 @@
 
 &emsp;(2) a Government controlled corporation; or
 
-&emsp;(3) the General Accounting Office.
+&emsp;(3) the Government Accountability Office.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 413.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 413; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 Historical and Revision Notes
 
@@ -51,4 +51,8 @@ In subsection (a), the words, “Executive agency” are substituted for “depa
 The exception of “the General Accounting Office” in subsection (b)(3) is added to preserve application to the executive branch.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+
+2004—Subsec. (b)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

@@ -58,7 +58,3 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 Subsecs. (c) to (f). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2062 of this title.
-

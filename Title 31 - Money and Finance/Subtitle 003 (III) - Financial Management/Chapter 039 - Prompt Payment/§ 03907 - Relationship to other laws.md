@@ -52,7 +52,3 @@ The Contract Disputes Act of 1978, referred to in subsecs. (b)(1)(A) and (c), is
 
 1988—Pub. L. 100–496 renumbered section 3906 of this title as this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3901, 3902 of this title.
-

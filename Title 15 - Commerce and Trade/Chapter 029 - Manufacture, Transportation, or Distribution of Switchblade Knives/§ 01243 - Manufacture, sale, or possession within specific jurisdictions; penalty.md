@@ -4,7 +4,3 @@ Whoever, within any Territory or possession of the United States, within Indian 
 
 (Pub. L. 85–623, §3, Aug. 12, 1958, 72 Stat. 562.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1244 of this title.
-

@@ -40,7 +40,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may provide to any State a waiver of the restriction established in subsection (a)(1)(C) of this section for the purpose of authorizing the State to expend a grant under section 300x–21 of this title for the construction of a new facility or rehabilitation ofan existing facility, but not for land acquisition.
+&emsp;The Secretary may provide to any State a waiver of the restriction established in subsection (a)(1)(C) of this section for the purpose of authorizing the State to expend a grant under section 300x–21 of this title for the construction of a new facility or rehabilitation of an existing facility, but not for land acquisition.
 
 #### (2) Standard regarding need for waiver
 
@@ -69,10 +69,6 @@ Section 300x–1a of this title, referred to in subsec. (a)(3), was repealed by 
 A prior section 1931 of act July 1, 1944, was classified to section 300y–21 of this title and subsequently omitted from the Code.
 
 Another prior section 1931 of act July 1, 1944, was classified to section 300y–10 of this title prior to repeal by Pub. L. 99–280.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300x–21, 300x–24, 300x–32, 300x–34, 1395x of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

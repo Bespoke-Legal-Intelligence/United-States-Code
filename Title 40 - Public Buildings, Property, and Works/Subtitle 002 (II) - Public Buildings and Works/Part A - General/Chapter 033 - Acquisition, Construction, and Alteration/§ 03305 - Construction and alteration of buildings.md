@@ -6,7 +6,7 @@ Construction.—
 
 &emsp;(1)
 
-Replacement of existing buildings.—When the Administrator of General Services considers it to be in the best interest of the Federal Government to construct a new public building to take the place of an existing public building, the Administrator may demolish the existing building and use the site on which it is located for the site of the proposed public building. If the Administrator believes that it is more advantageous to construct the public building on a different site in the same city, the Administrator may exchange the building and site, or the site, for another site, or may sell the building and site in accordance with subtitle I of this title and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
+Replacement of existing buildings.—When the Administrator of General Servicesconsiders it to be in the best interest of the Federal Government to construct a new public building to take the place of an existing public building, the Administrator may demolish the existing building and use the site on which it is located for the site of the proposed public building. If the Administrator believes that it is more advantageous to construct the public building on a different site in the same city, the Administrator may exchange the building and site, or the site, for another site, or may sell the building and site in accordance with subtitle I of this title and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
 
 &emsp;(2)
 
@@ -89,8 +89,4 @@ In subsection (b)(2)(B), the words “Transportation and Infrastructure” are s
 #### References in Text
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(1) and (2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3307, 3313 of this title; title 16 section 450ss–6.
 

@@ -26,7 +26,3 @@ The reference to 40:276(c) should be to 40:276c, restated as section 3145 of the
 
 Reorganization Plan Numbered 14 of 1950, referred to in text, is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14503 of this title.
-

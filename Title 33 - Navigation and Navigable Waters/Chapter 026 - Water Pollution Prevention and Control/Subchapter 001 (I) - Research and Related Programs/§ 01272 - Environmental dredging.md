@@ -8,7 +8,7 @@ Whenever necessary to meet the requirements of the Federal Water Pollution Contr
 
 #### (1) In general
 
-&emsp;The Secretary may remove and remediate contaminated sediments from the navigablewaters of the United States for the purpose of environmental enhancement and water quality improvement if such removal and remediation is requested by a non-Federal sponsor and the sponsor agrees to pay 35 percent of the cost of such removal and remediation.
+&emsp;The Secretary may remove and remediate contaminated sediments from the navigable waters of the United States for the purpose of environmental enhancement and water quality improvement if such removal and remediation is requested by a non-Federal sponsor and the sponsor agrees to pay 35 percent of the cost of such removal and remediation.
 
 #### (2) Maximum amount
 

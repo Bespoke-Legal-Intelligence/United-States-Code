@@ -20,7 +20,3 @@ Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L
 
 Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of amendment, see section 181(i) of Pub. L. 97–300, which was formerly classified to section 1591(i) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 39 section 3202.
-

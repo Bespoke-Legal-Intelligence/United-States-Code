@@ -6,7 +6,7 @@ In the enforcement of a Federal program or Federal lands program, or during Fede
 
 #### (b) Hearing
 
-A civil penalty shall be assessed by the Secretary only after the person charged with a violation described under subsection (a) of this section has been given an opportunity for a public hearing. Where such a public hearing has been held, the Secretary shall make findings of fact, and he shall issue a written decision as to the occurrence of the violation and the amount of the penalty which is warranted, incorporating, when appropriate, an order therein requiring that the penalty be paid. When appropriate, the Secretary shall consolidate such hearings with other proceedings under section 1271 of this title. Any hearing under this section shall be of record and shall be subject to section 554 of title 5. Where the person charged with such a violation fails to avail himself of the opportunity for a public hearing, a civil penalty shall be assessed by the Secretary after the Secretary has determined that a violation did occur, and the amount of the penalty which is warranted, and has issued an order requiring that the penalty be paid.
+A civil penalty shall be assessed by the Secretary only after the person charged with a violation described under subsection (a) of this section has been given an opportunity for a public hearing. Where such a public hearing has been held, the Secretary shall make findings of fact, and he shall issue a written decision as to the occurrence of the violation and the amount of the penalty which is warranted, incorporating, when appropriate, an order therein requiring that the penalty be paid. When appropriate, the Secretary shall consolidate such hearings with other proceedings under section 1271 of this title. Any hearing under this section shall be of record and shall be subject to section 554 of title 5. Where the person charged with such a violation fails to avail himself of the opportunity for a public hearing, a civil penalty shall be assessed by the Secretary after the Secretary has determined that a violation did occur, and theamount of the penalty which is warranted, and has issued an order requiring that the penalty be paid.
 
 #### (c) Notice of violation; action required of violator; waiver of legal rights
 
@@ -37,8 +37,4 @@ Any operator who fails to correct a violation for which a citation has been issu
 As a condition of approval of any State program submitted pursuant to section 1253 of this title, the civil and criminal penalty provisions thereof shall, at a minimum, incorporate penalties no less stringent than those set forth in this section, and shall contain the same or similar procedural requirements relating thereto. Nothing herein shall be construed so as to eliminate any additional enforcement right or procedures which are available under State law to a State regulatory authority but which are not specifically enumerated herein.
 
 (Pub. L. 95–87, title V, §518, Aug. 3, 1977, 91 Stat. 499.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1232, 1262 of this title.
 

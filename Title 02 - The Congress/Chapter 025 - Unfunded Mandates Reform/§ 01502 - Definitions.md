@@ -8,7 +8,3 @@ For purposes of this chapter—
 
 (Pub. L. 104–4, §3, Mar. 22, 1995, 109 Stat. 49.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1555 of this title.
-

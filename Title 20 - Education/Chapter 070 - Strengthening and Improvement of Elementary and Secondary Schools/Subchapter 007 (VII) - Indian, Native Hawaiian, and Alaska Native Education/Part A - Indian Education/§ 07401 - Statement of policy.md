@@ -12,65 +12,81 @@ A prior section 7401, Pub. L. 89–10, title VII, §7101, as added Pub. L. 103�
 
 Pub. L. 107–110, title VII, §703, Jan. 8, 2002, 115 Stat. 1947, provided that: “Funds appropriated for parts A, B, and C of title IX of the Elementary and Secondary Education Act of 1965 \[former 20 U.S.C. 7801 et seq., 7901 et seq., 7931 et seq.\] (as in effect on the day before the date of enactment of this Act \[Jan. 8, 2002\]) shall be available for use under parts A, B, and C, respectively, of title VII of such Act \[parts A, B, and C, respectively, of this subchapter\], as added by this section \[section 701\].”
 
-#### Ex. Ord. No. 13096. American Indian and Alaska Native Education
+#### Executive Order No. 13096
 
-Ex. Ord. No. 13096, Aug. 6, 1998, 63 F.R. 42681, provided:
+Ex. Ord. No. 13096, Aug. 6, 1998, 63 F.R. 42681, which related to American Indian and Alaska Native education, was revoked by Ex. Ord. No. 13336, §9(b), Apr. 30, 2004, 69 F.R. 25297, set out as a note below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, in affirmation of the unique political and legal relationship of the Federal Government with tribal governments, and in recognition of the unique educational and culturally related academic needs of American Indian and Alaska Native students, it is hereby ordered as follows:
+#### Ex. Ord. No. 13336. American Indian and Alaska Native Education
 
-Section 1. <i>Goals</i>. The Federal Government has a special, historic responsibility for the education of American Indian and Alaska Native students. Improving educational achievement and academic progress for American Indian and Alaska Native students is vital to the national goal of preparing every student for responsible citizenship, continued learning, and productive employment. The Federal Government is committed to improving the academic performance and reducing the dropout rate of American Indian and Alaska Native students. To help fulfill this commitment in a manner consistent with tribal traditions and cultures, Federal agencies need to focus special attention on six goals: (1) improving reading and mathematics; (2) increasing high school completion and postsecondary attendance rates; (3) reducing the influence of long-standing factors that impede educational performance, such as poverty and substance abuse; (4) creating strong, safe, and drug-free school environments; (5) improving science education; and (6) expanding the use of educational technology.
+Ex. Ord. No. 13336, Apr. 30, 2004, 69 F.R. 25295, provided:
 
-Sec. 2. <i>Strategy</i>. In order to meet the six goals of this order, a comprehensive Federal response is needed to address the fragmentation of government services available to American Indian and Alaska Native students and the complexity of intergovernmental relationships affecting the education of those students. The purpose of the Federal activities described in this order is to develop a long-term, comprehensive Federal Indian education policy that will accomplish those goals.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to recognize the unique educational and culturally related academic needs of American Indian and Alaska Native students consistent with the unique political and legal relationship of the Federal Government with tribal governments, it is hereby ordered as follows:
 
-(a) <i>Interagency Task Force</i>. There is established an Interagency Task Force on American Indian and Alaska Native Education (Task Force) to oversee the planning and implementation of this order. The Task Force shall confer with the National Advisory Council on Indian Education (NACIE) in carrying out activities under this order. The Task Force shall consult with representatives of American Indian and Alaska Native tribes and organizations, including the National Indian Education Association (NIEA) and the National Congress of American Indians (NCAI), to gather advice on implementation of the activities called for in this order.
+Section 1. <i>Purpose</i>. The United States has a unique legal relationship with Indian tribes and a special relationship with Alaska Native entities as provided in the Constitution of the United States, treaties, and Federal statutes. This Administration is committed to continuing to work with these Federally recognized tribal governments on a government-to-government basis, and supports tribal sovereignty and self-determination. It is the purpose of this order to assist American Indian and Alaska Native students in meeting the challenging student academic standards of the No Child Left Behind Act of 2001 (Public Law 107–110 \[see Tables for classification\]) in a manner that is consistent with tribal traditions, languages, and cultures. This order builds on the innovations, reforms, and high standards of the No Child Left Behind Act of 2001, including: stronger accountability for results; greater flexibility in the use of Federal funds; more choices for parents; and an emphasis on research-based instruction that works.
 
-(b) <i>Composition of the Task Force</i>. (1) The membership of the Task Force shall include representatives of the Departments of the Treasury, Defense, Justice, the Interior, Agriculture, Commerce, Labor, Health and Human Services, Housing and Urban Development, Transportation, Energy, and Education, as well as the Environmental Protection Agency, the Corporation for National and Community Service, and the National Science Foundation. With the agreement of the Secretaries of Education and the Interior, other agencies may participate in the activities of the Task Force.
+Sec. 2. <i>Interagency Working Group</i>. There is established an Interagency Working Group on American Indian and Alaska Native Education (Working Group) to oversee the implementation of this order.
 
-(2) Within 30 days of the date of this order, the head of each participating agency shall designate a senior official who is responsible for management or program administration to serve as a member of the Task Force. The official shall report directly to the agency head on the agency's activities under this order.
+(a) The Working Group's members shall consist exclusively of the heads of the executive branch departments, agencies, or offices listed below:
 
-(3) The Assistant Secretary for Elementary and Secondary Education of the Department of Education and the Assistant Secretary for Indian Affairs of the Department of the Interior shall co-chair the Task Force.
+&emsp;(i) the Department of Education;
 
-(c) <i>Interagency plan</i>. The Task Force shall, within 90 days of the date of this order, develop a Federal interagency plan with recommendations identifying initiatives, strategies, and ideas for future interagency action supportive of the goals of this order.
+&emsp;(ii) the Department of the Interior;
 
-(d) <i>Agency participation</i>. To the extent consistent with law and agency priorities, each participating agency shall adopt and implement strategies to maximize the availability of the agency's education-related programs, activities, resources, information, and technical assistance to American Indian and Alaska Native students. In keeping with the spirit of the Executive Memorandum of April 29, 1994 \[25 U.S.C. 450 note\], on Government-to-Government Relations with Native American Tribal Governments and Executive Order 13084 of May 14, 1998 \[former 25 U.S.C. 450 note\], each participating agency shall consult with tribal governments on their education-related needs and priorities, and on how the agency can better accomplish the goals of this order. Within 6 months, each participating agency shall report to the Task Force regarding the strategies it has developed to ensure such consultation.
+&emsp;(iii) the Department of Health and Human Services;
 
-(e) <i>Interagency resource guide</i>. The Task Force shall identify, within participating Federal agencies, all education-related programs and resources that support the goals of this order. Within 12 months, the Task Force, in conjunction with the Department of Education, shall develop, publish, and widely distribute a guide that describes those programs and resources and how American Indians and Alaska Natives can benefit from them.
+&emsp;(iv) the Department of Agriculture;
 
-(f) <i>Research</i>. The Secretary of Education, through the Office of Educational Research and Improvement and the Office of Indian Education, and in consultation with NACIE and participating agencies, shall develop and implement a comprehensive Federal research agenda to:
+&emsp;(v) the Department of Justice;
 
-(1) establish baseline data on academic achievement and retention of American Indian and Alaska Native students in order to monitor improvements;
+&emsp;(vi) the Department of Labor; and
 
-(2) evaluate promising practices used with those students; and
+&emsp;(vii) such other executive branch departments, agencies, or offices as the Co-Chairs of the Working Group may designate.
 
-(3) evaluate the role of native language and culture in the development of educational strategies. Within 1 year, the Secretary of Education shall submit the research agenda, including proposed timelines, to the Task Force.
+A member of the Working Group may designate, to perform the Working Group functions of the member, an employee of the member's department, agency, or office who is either an officer of the United States appointed by the President, or a full-time employee serving in a position with pay equal to or greater than the minimum rate payable for GS–15 of the General Schedule. The Working Group shall be led by the Secretaries of Education and the Interior, or their designees under this section, who shall serve as Co-Chairs.
 
-(g) <i>Comprehensive Federal Indian education policy.</i>
+(b) The function of the Working Group is to oversee the implementation of this order. The Working Group shall, within 90 days of the date of this order, develop a Federal interagency plan that recommends initiatives, strategies, and ideas for future interagency actions that promote the purpose, as stated in section 1, of this order. In carrying out its activities under this order, the Working Group may consult with representatives of American Indian and Alaska Native tribes and organizations, in conformity with Executive Order 13175 of November 6, 2000 \[25 U.S.C. 450 note\], and with the National Advisory Council on Indian Education (NACIE). Any such consultations shall be for the purpose of obtaining information and advice concerning American Indian and Alaska Native education and shall be conducted in a manner that seeks individual advice and does not involve collective judgment or consensus advice or deliberation.
 
-(1) The Task Force shall, within 2 years of the date of this order, develop a comprehensive Federal Indian education policy to support the accomplishment of the goals of this order. The policy shall be designed to:
+Sec. 3. <i>Study and Report</i>. The Secretary of Education, in coordination with the Working Group, shall conduct a multi-year study of American Indian and Alaska Native education with the purpose of improving American Indian and Alaska Native students’ ability to meet the challenging student academic standards of the No Child Left Behind Act of 2001.
 
-(A) improve Federal interagency cooperation;
+(a) The study shall include, but not be limited to:
 
-(B) promote intergovernmental collaboration; and
+&emsp;(i) the compilation of comprehensive data on the academic achievement and progress of American Indian and Alaska Native students toward meeting the challenging student academic standards of the No Child Left Behind Act of 2001;
 
-(C) assist tribal governments in meeting the unique educational needs of their children, including the need to preserve, revitalize, and use native languages and cultural traditions.
+&emsp;(ii) identification and dissemination of research-based practices and proven methods in raising academic achievement and, in particular, reading achievement, of American Indian and Alaska Native students;
 
-(2) In developing the policy, the Task Force shall consider ideas in the Comprehensive Federal Indian Education Policy Statement proposal developed by the NIEA and the NCAI.
+&emsp;(iii) assessment of the impact and role of native language and culture on the development of educational strategies to improve academic achievement;
 
-(3) The Task Force shall develop recommendations to implement the policy, including ideas for future interagency action.
+&emsp;(iv) development of methods to strengthen early childhood education so that American Indian and Alaska Native students enter school ready to learn; and
 
-(4) As appropriate, participating agencies may develop memoranda of agreement with one another to enable and enhance the ability of tribes and schools to provide, and to coordinate the delivery of, Federal, tribal, State, and local resources and services, including social and health-related services, to meet the educational needs of American Indian and Alaska Native students.
+&emsp;(v) development of methods to increase the high school graduation rate and develop pathways to college and the workplace for American Indian and Alaska Native students.
 
-(h) <i>Reports</i>. The Task Force co-chairs shall submit the comprehensive Federal Indian education policy, and report annually on the agencies’ activities, accomplishments, and progress toward meeting the goals of this order, to the Director of the Office of Management and Budget.
+The Secretary of Education shall develop an agenda, including proposed timelines and ongoing activities, for the conduct of the study, and shall make that agenda available to the public on the Internet.
 
-Sec. 3. <i>Regional partnership forums</i>. The Departments of Education and the Interior, in collaboration with the Task Force and Federal, tribal, State, and local government representatives, shall jointly convene, within 18 months, a series of regional forums to identify promising practices and approaches on how to share information, provide assistance to schools, develop partnerships, and coordinate intergovernmental strategies supportive of accomplishing the goals of this order. The Departments of Education and the Interior shall submit a report on the forums to the Task Force, which may include recommendations relating to intergovernmental relations.
+(b) The Secretary of Education, in coordination with the Working Group, shall issue a report to the President that shall:
 
-Sec. 4. <i>School pilot sites</i>. The Departments of Education and the Interior shall identify a reasonable number of schools funded by the Bureau of Indian Affairs (BIA) and public schools that can serve as a model for schools with American Indian and Alaska Native students, and provide them with comprehensive technical assistance in support of the goals of this order. A special team of technical assistance providers, including Federal staff, shall provide assistance to these schools. Special attention shall be given, where appropriate, to assistance in implementing comprehensive school reform demonstration programs that meet the criteria for those programs established by the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 1998 (Public Law 105–78) \[see Tables for classification\], and to providing comprehensive service delivery that connects and uses diverse Federal agency resources. The team shall disseminate effective and promising practices of the school pilot sites to other local educational agencies. The team shall report to the Task Force on its accomplishments and its recommendations for improving technical support to local educational agencies and schools funded by the BIA.
+&emsp;(i) provide the latest data available from the study;
 
-Sec. 5. <i>Administration</i>. The Department of Education shall provide appropriate administrative services and staff support to the Task Force. With the consent of the Department of Education, other participating agencies may provide administrative support to the Task Force, consistent with their statutory authority, and may detail agency employees to the Department of Education, to the extent permitted by law.
+&emsp;(ii) comprehensively describe the educational status and progress of American Indian and Alaska Native students with respect to meeting the goals outlined in the No Child Left Behind Act of 2001 and any other student achievement goals the Secretary of Education or the Secretary of the Interior may deem necessary;
 
-Sec. 6. <i>Termination</i>. The Task Force established under section 2 of this order shall terminate not later than 5 years from the date of this order.
+&emsp;(iii) report on proven methods for improving American Indian and Alaska Native student academic achievement; and
 
-Sec. 7. <i>General provisions</i>. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person. This order is not intended to preclude, supersede, replace, or otherwise dilute any other Executive order relating to American Indian and Alaska Native education.
+&emsp;(iv) update the Federal interagency plan outlined in section 2(b) of this order.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sec. 4. <i>Enhancement of Research Capabilities of Tribal-Level Educational Institutions</i>. The Secretary of Education and the Secretary of the Interior shall consult with the entities set forth in section 2(a) of this order and tribally controlled colleges and universities to seek ways to develop and enhance the capacity of tribal governments, tribal universities and colleges, and schools and educational programs serving American Indian and Alaska Native students and communities to carry out, disseminate, and implement education research, as well as to develop related partnerships or collaborations with non-tribal universities, colleges, and research organizations.
+
+Sec. 5. <i>National Conference</i>. The Secretary of Education and the Secretary of the Interior, in collaboration with the Working Group and Federal, State, tribal, and local government representatives, shall jointly convene a forum on the No Child Left Behind Act of 2001 \[Pub. L. 107–110, see Tables for classification\] to identify means to enhance communication, collaboration, and cooperative strategies to improve the education of American Indian and Alaska Native students attending Federal, State, tribal, and local schools.
+
+Sec. 6. <i>Administration</i>. The Department of Education shall provide appropriate administrative services and staff support to the Working Group. With the consent of the Department of Education, other participating agencies may provide administrative support to the Working Group, to the extent permitted by law and consistent with their statutory authority.
+
+Sec. 7. <i>Termination</i>. The Working Group established under section 2 of this order shall terminate not later than 5 years from the date of this order, unless extended by the President.
+
+Sec. 8. <i>Consultation</i>. The Secretary of Education and Secretary of the Interior shall consult the Attorney General as appropriate on the implementation of this order, to ensure that such implementation affords the equal protection of the laws required by the due process clause of the Fifth Amendment to the Constitution.
+
+Sec. 9. <i>General Provisions.</i>
+
+(a) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity, by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+
+(b) Executive Order 13096 of August 6, 1998 \[formerly set out as a note above\], is revoked.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -34,7 +34,9 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Salary Increases
 
-2004—Salaries of Chief Justice and Associate Justices increased to $203,000 and $194,300 per annum, respectively, effective on first day of first pay period beginning on or after Jan. 1, 2004, by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+2005—Salaries of Chief Justice and Associate Justices increased to $208,100 and $199,200 per annum, respectively, effective on first day of first pay period beginning on or after Jan. 1, 2005, by Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+
+2004—Salaries of Chief Justice and Associate Justices increased to $203,000 and $194,300 per annum, respectively, effective on first day of first pay period beginning on or after Jan. 1, 2004, by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, formerly set out as a note under section 5332 of Title 5.
 
 Salaries of Chief Justice and Associate Justices increased to $201,600 and $193,000 per annum, respectively, effective on first day of first pay period beginning on or after Jan. 1, 2004, by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
 
@@ -100,7 +102,7 @@ Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 
 
 1977—Salaries of Chief Justice and Associate Justices increased respectively to $75,000 and $72,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
-1976—Salaries of Chief Justice and Associate Justices increased to $68,800 and $66,000, respectively, effective on first day of first pay period beginning on or after Oct. 1, 1976, by Ex. Order No. 11941, Oct. 1, 1976, 41 F.R. 43889, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees. Ex.Ord. No. 11941, further provided that pursuant to the Legislative Branch Appropriation Act, 1977, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1976, which was $65,600 for the Chief Justice and $63,000 for the Associate Justices.
+1976—Salaries of Chief Justice and Associate Justices increased to $68,800 and $66,000, respectively, effective on first day of first pay period beginning on or after Oct. 1, 1976, by Ex. Order No. 11941, Oct. 1, 1976, 41 F.R. 43889, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees. Ex. Ord. No. 11941, further provided that pursuant to the Legislative Branch Appropriation Act, 1977, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1976, which was $65,600 for the Chief Justice and $63,000 for the Associate Justices.
 
 1975—Salaries of Chief Justice and Associate Justices increased to $65,600 and $63,000, respectively, effective on first day of first pay period beginning on or after Oct. 1, 1975, by Ex. Order No. 11883, Oct. 6, 1975, 40 F.R. 47091, formerly set out as a note under section 5332 of Title 5.
 

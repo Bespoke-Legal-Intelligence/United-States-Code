@@ -28,11 +28,11 @@ In carrying out the duties and functions of the Office, the Director may procure
 
 #### (d) Relationship to executive branch
 
-The Director is authorized to secure information, data, estimates, and statistics directly from the various departments, agencies, and establishments of the executive branch of Government and the regulatory agencies and commissions of the Government. All such departments, agencies, establishments, and regulatory agencies and commissions shall furnish the Director any available material which he determines tobe necessary in the performance of his duties and functions (other than material the disclosure of which would be a violation of law). The Director is also authorized, upon agreement with the head of any such department, agency, establishment, or regulatory agency or commission, to utilize its services, facilities, and personnel with or without reimbursement; and the head of each such department, agency, establishment, or regulatory agency or commission is authorized to provide the Office such services, facilities, and personnel.
+The Director is authorized to secure information, data, estimates, and statistics directly from the various departments, agencies, and establishments of the executive branch of Government and the regulatory agencies and commissions of the Government. All such departments, agencies, establishments, and regulatory agencies and commissions shall furnish the Director any available material which he determines to be necessary in the performance of his duties and functions (other than material the disclosure of which would be a violation of law). TheDirector is also authorized, upon agreement with the head of any such department, agency, establishment, or regulatory agency or commission, to utilize its services, facilities, and personnel with or without reimbursement; and the head of each such department, agency, establishment, or regulatory agency or commission is authorized to provide the Office such services, facilities, and personnel.
 
 #### (e) Relationship to other agencies of Congress
 
-In carrying out the duties and functions of the Office, and for the purpose of coordinating the operations of the Office with those of other congressional agencies with a view to utilizing most effectively the information, services, and capabilities of all such agencies in carrying out the various responsibilities assigned to each, the Director is authorized to obtain information, data, estimates, and statistics developed by the General Accounting Office,<sup>1</sup> and the Library of Congress, and (upon agreement with them) to utilize their services, facilities, and personnel with or without reimbursement. The Comptroller General,<sup>1</sup> and the Librarian of Congress,<sup>1</sup> are authorized to provide the Office with the information, data, estimates, and statistics, and the services, facilities, and personnel, referred to in the preceding sentence.
+In carrying out the duties and functions of the Office, and for the purpose of coordinating the operations of the Office with those of other congressional agencies with a view to utilizing most effectively the information, services, and capabilities of all such agencies in carrying out the various responsibilities assigned to each, the Director is authorized to obtain information, data, estimates, and statistics developed by the Government Accountability Office,<sup>1</sup> and the Library of Congress, and (upon agreement with them) to utilize their services, facilities, and personnel with or without reimbursement. The Comptroller General,<sup>1</sup> and the Librarian of Congress,<sup>1</sup> are authorized to provide the Office with the information, data, estimates, and statistics, and the services, facilities, and personnel, referred to in the preceding sentence.
 
 #### (f) Revenue estimates
 
@@ -42,7 +42,7 @@ For the purposes of revenue legislation which is income, estate and gift, excise
 
 There are authorized to be appropriated to the Office for each fiscal year such sums as may be necessary to enable it to carry out its duties and functions. Until sums are first appropriated pursuant to the preceding sentence, but for a period not exceeding 12 months following the effective date of this subsection, the expenses of the Office shall be paid from the contingent fund of the Senate, in accordance with section 68 of this title, and upon vouchers approved by the Director.
 
-(Pub. L. 93–344, title II, §201, July 12, 1974, 88 Stat. 302; Pub. L. 99–177, title II, §273, Dec. 12, 1985, 99 Stat. 1098, renumbered §201(g) of Pub. L. 93–344, Pub. L. 101–508, title XIII, §13202(b), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 101–508, title XIII, §13202(a), (c), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 105–33, title X, §10102, Aug. 5, 1997, 111 Stat. 678; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §224\], Nov. 29, 1999, 113 Stat. 1536, 1501A–299.)
+(Pub. L. 93–344, title II, §201, July 12, 1974, 88 Stat. 302; Pub. L. 99–177, title II, §273, Dec. 12, 1985, 99 Stat. 1098, renumbered §201(g) of Pub. L. 93–344, Pub. L. 101–508, title XIII, §13202(b), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 101–508, title XIII, §13202(a), (c), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 105–33, title X, §10102, Aug. 5, 1997, 111 Stat. 678; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §224\], Nov. 29, 1999, 113 Stat. 1536, 1501A–299; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -54,15 +54,17 @@ Pub. L. 101–508, §12302(b), transferred section 273 of Pub. L. 99–177, whic
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a)(5). Pub. L. 106–113 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule in section 5314 of title 5. The Deputy Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as so in effect, for level IV of the Executive Schedule in section 5315 of such title.”
+2004—Subsec. (e). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-<b>1997</b>—Subsec. (a)(3). Pub. L. 105–33, §10102(a), substituted “The term of office of the Director shall be 4 years and shall expire on January 3 of the year preceding each Presidential election.” for “The term of office of the Director first appointed shall expire at noon on January 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter.”
+1999—Subsec. (a)(5). Pub. L. 106–113 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule in section 5314 of title 5. The Deputy Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as so in effect, for level IV of the Executive Schedule in section 5315 of such title.”
+
+1997—Subsec. (a)(3). Pub. L. 105–33, §10102(a), substituted “The term of office of the Director shall be 4 years and shall expire on January 3 of the year preceding each Presidential election.” for “The term of office of the Director first appointed shall expire at noon on January 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter.”
 
 Subsec. (e). Pub. L. 105–33, §10102(b), inserted “and” before “the Library”, struck out “and the Office of Technology Assessment,” after “Library of Congress,”, inserted “and” before “the Librarian”, and struck out “, and the Technology Assessment Board” after “Librarian of Congress”.
 
 Subsecs. (f), (g). Pub. L. 105–33, §10102(c), redesignated subsec. (g), relating to revenue estimates, as (f).
 
-<b>1990</b>—Subsec. (f). Pub. L. 101–508, §13202(a), redesignated subsec. (f), relating to authorization of appropriations, as (g).
+1990—Subsec. (f). Pub. L. 101–508, §13202(a), redesignated subsec. (f), relating to authorization of appropriations, as (g).
 
 Subsec. (g). Pub. L. 101–508, §13202(a), redesignated subsec. (f), relating to authorization of appropriations, as (g).
 
@@ -79,10 +81,6 @@ Pub. L. 93–344, which enacted this chapter, to be cited in its entirety as the
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 603 of this title.
 
 <i><sup>1</sup></i><i> So in original. Comma probably should not appear.</i>
 

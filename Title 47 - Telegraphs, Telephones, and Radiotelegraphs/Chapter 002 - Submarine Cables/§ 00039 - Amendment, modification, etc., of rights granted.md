@@ -8,7 +8,3 @@ No right shall accrue to any government, person, or corporation under the terms 
 
 Section was not enacted as part of the Submarine Cable Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 34, 36, 38 of this title.
-

@@ -34,7 +34,3 @@ A prior section 252, acts Aug. 11, 1916, ch. 313, pt. C, §11, 39 Stat. 487; Feb
 
 A prior section 13 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 254 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 253 of this title.
-

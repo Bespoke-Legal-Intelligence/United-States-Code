@@ -44,7 +44,3 @@ Pub. L. 101–513, title V, §570, Nov. 5, 1990, 104 Stat. 2041.
 
 Pub. L. 101–167, title V, §583, Nov. 21, 1989, 103 Stat. 1251.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3343 of this title; title 7 sections 1704, 1727e; title 16 section 1537; title 22 sections 1754, 2103, 2194, 2407, 5495.
-

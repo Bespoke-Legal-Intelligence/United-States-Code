@@ -256,7 +256,3 @@ Act Feb. 28, 1945, ch. 15, 59 Stat. 9, provided for farm acreage allotment durin
 
 Act Mar. 13, 1939, in addition to amending former subsec. (h), contained the following: <i>“Provided</i>, That hereafter such allotment of acreage in counties shall be to such farms as the County Committee of such county may designate. In making such designation the County Committee shall consider only the character and adaptability of the soil and other physical facilities affecting the production of cotton and the need of operator for an additional allotment to meet the requirement of the families engaging in the production of cotton on the farm in such year.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1346, 1349, 1350, 1377, 1428, 1444 of this title.
-

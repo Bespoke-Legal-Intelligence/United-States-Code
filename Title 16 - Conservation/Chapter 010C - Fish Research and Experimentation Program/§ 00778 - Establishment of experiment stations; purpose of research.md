@@ -20,7 +20,3 @@ The Secretary of Agriculture shall establish 1 or more centers for the purpose o
 
 1996—Pub. L. 104–127, in introductory provisions, substituted “Secretary of Agriculture shall” for “Secretary of the Interior is authorized and directed to” and “1 or more centers” for “an experiment station or stations” and, in par. (5), substituted “Secretary of the Interior” for “Department of Agriculture”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 778a of this title.
-

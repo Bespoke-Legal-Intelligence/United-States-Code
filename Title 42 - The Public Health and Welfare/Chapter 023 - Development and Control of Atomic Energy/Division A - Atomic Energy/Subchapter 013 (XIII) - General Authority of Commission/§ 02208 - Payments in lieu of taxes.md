@@ -12,7 +12,3 @@ Provisions similar to this section were contained in section 1809(b) of this tit
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See, also, notes set out under those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2391 of this title.
-

@@ -104,7 +104,3 @@ Section 107(b) of Pub. L. 104–275 provided that:
 
 &emsp;“(B) the date on which the election under paragraph (1) becomes effective.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3011, 3501, 3512 of this title.
-

@@ -8,7 +8,3 @@ It shall be the duty of the executive of the State from which any Senator has be
 
 R.S. §18 derived from act July 25, 1866, ch. 245, §3, 14 Stat. 244.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1b of this title.
-

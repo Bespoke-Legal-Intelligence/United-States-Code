@@ -18,7 +18,7 @@ It shall not be in order in either the House of Representatives or the Senate to
 
 Point of order.—It shall not be in order in either the House of Representatives or the Senate to consider any bill or joint resolution (in the House of Representatives only, as reported), amendment, motion, or conference report that provides new entitlement authority that is to become effective during the current fiscal year.
 
-(2) If any committee of the House of Representatives or the Senate reports any bill or resolution which provides new entitlement authority which is to become effective during a fiscal year and the amount of new budget authority which will be required for such fiscal year if such bill or resolution is enacted as so reported exceeds the appropriate allocation of new budget authority reported under section 633(b) of this title in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year, such bill or resolution shall then be referred to the Committee on Appropriations of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be, with instructions to report it, with the committee's recommendations, within 15 calendar days (not counting any day on which that House is not in session) beginning with the day following the day on which it is so referred. If the Committee on Appropriations of either House fails to report a bill or resolution referred to it under this paragraph within such 15-day period, the committee shall automatically be discharged from further consideration of such bill or resolution and such bill or resolution shall be placed on the appropriate calendar.
+(2) If any committee of the House of Representatives or the Senate reports any bill or resolution which provides new entitlement authority which is to become effective during a fiscal year and the amount of new budget authority which will be required for such fiscal year if such bill or resolution is enacted as so reported exceeds the appropriate allocation of new budget authority reported under section 633(b) of this title in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year, such bill or resolution shall then be referred to the Committee on Appropriations of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be, with instructions to report it, with the committee's recommendations, within 15 calendar days (not counting any day on which that House is not in session) beginningwith the day following the day on which it is so referred. If the Committee on Appropriations of either House fails to report a bill or resolution referred to it under this paragraph within such 15-day period, the committee shall automatically be discharged from further consideration of such bill or resolution and such bill or resolution shall be placed on the appropriate calendar.
 
 (3) The Committee on Appropriations of each House shall have jurisdiction to report any bill or resolution referred to it under paragraph (2) with an amendment which limits the total amount of new spending authority provided in such bill or resolution.
 
@@ -46,13 +46,13 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(1)(B), is classifi
 
 #### Codification
 
-In subsec. (c)(2)(A), “section 9101(2) of title 31”, “section 9101(3) of title 31”, and “chapter 91 of title 31” were substituted for “section 201 of the Government Corporation Control Act \[31 U.S.C. 856\]”, “section 101 of such Act \[31 U.S.C. 846\]”, and “that Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c)(2)(A), “section 9101(2) of title 31”, “section 9101(3) of title 31”, and “chapter 91 of title 31” were substituted for “section 201 of the Government Corporation Control Act \[31 U.S.C. 856\]”, “section 101 of such Act \[31 U.S.C. 846\]”, and “that Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was formerly classified to section 1351 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–33, §10116(a)(1)(A), substituted “Budget-related legislation not subject to appropriations” for “Bills providing new spending authority” as section catchline.
+1997—Pub. L. 105–33, §10116(a)(1)(A), substituted “Budget-related legislation not subject to appropriations” for “Bills providing new spending authority” as section catchline.
 
 Subsec. (a). Pub. L. 105–33, §10116(a)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, as reported to its House which provides new spending authority described in subsection (c)(2)(A) or (B) of this section, unless that bill, resolution, conference report, or amendment also provides that such new spending authority as described in subsection (c)(2)(A) or (B) of this section is to be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
 
@@ -72,13 +72,13 @@ Subsec. (d)(1). Pub. L. 105–33, §10116(a)(4)(A), which directed substitution 
 
 Subsec. (d)(2), (3). Pub. L. 105–33, §10116(a)(4)(B), (C), redesignated par. (3) as (2), substituted “new authority described in those subsections” for “new spending authority” in introductory provisions, and struck out former par. (2) which read as follows: “Subsections (a) and (b) of this section shall not apply to new spending authority which is an amendment to or extension of chapter 67 of title 31, or a continuation of the program of fiscal assistance to State and local governments provided by that chapter, to the extent so provided in the bill or resolution providing such authority.”
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(F), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or conference report” and struck out “(or any amendment which provides such new spending authority)” after “subsection (c)(2)(A) or (B) of this section”.
+1990—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(F), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or conference report” and struck out “(or any amendment which provides such new spending authority)” after “subsection (c)(2)(A) or (B) of this section”.
 
 Subsec. (b)(1). Pub. L. 101–508, §13207(a)(1)(G), substituted “bill, joint resolution, amendment, motion, or conference report, as reported to its House” for “bill or resolution” and struck out “(or any amendment which provides such new spending authority)” after “subsection (c)(2)(C) of this section”.
 
-<b>1986</b>—Subsec. (d)(1)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+1986—Subsec. (d)(1)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, inserting provisions relating to applicability to conference reports.
+1985—Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, inserting provisions relating to applicability to conference reports.
 
 Subsec. (b). Pub. L. 99–177, in amending section generally, reenacted subsec. (b) without change.
 
@@ -93,8 +93,4 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 #### Effective Date
 
 Section 905(c) of Pub. L. 93–344 (formerly set out as a note under section 621 of this title) provided that except as provided in section 906 of Pub. L. 93–344 (formerly set out as a note under section 632 of this title) this section shall take effect on the first day of the second regular session of the Ninety-fourth Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 907c of this title; title 7 section 6617; title 15 section 4110; title 16 section 543h; title 25 sections 1300h–8, 1771d; title 33 section 2326a; title 42 sections 1962d–19, 10309, 11713; title 43 section 390g–7; title 50 App. section 1989b–9.
 

@@ -168,7 +168,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(iv) allowing the preservation of programs that support family farms and rural communities but do not distort trade;
 
-&emsp;&emsp;(v) developing disciplines for domestic support programs, so that production that is in excess of domestic food security needs is sold at world prices;
+&emsp;&emsp;(v) developing disciplines for domestic support programs, so that production that is inexcess of domestic food security needs is sold at world prices;
 
 &emsp;&emsp;(vi) eliminating government policies that create price-depressing surpluses;
 
@@ -286,7 +286,7 @@ In order to address and maintain United States competitiveness in the global eco
 
 &emsp;(1) seek greater cooperation between the WTO and the ILO;
 
-&emsp;(2) seek to establish consultative mechanisms among parties to trade agreements to strengthen the capacity of United States trading partners to promote respect for core labor standards (as defined in section 3813(6) of this title) and to promote compliance with ILO Convention No. 182 Concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labor, and report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the content and operation of such mechanisms;
+&emsp;(2) seek to establish consultative mechanisms among parties to trade agreements tostrengthen the capacity of United States trading partners to promote respect for core labor standards (as defined in section 3813(6) of this title) and to promote compliance with ILO Convention No. 182 Concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labor, and report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the content and operation of such mechanisms;
 
 &emsp;(3) seek to establish consultative mechanisms among parties to trade agreements to strengthen the capacity of United States trading partners to develop and implement standards for the protection of the environment and human health based on sound science, and report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the content and operation of such mechanisms;
 
@@ -298,7 +298,7 @@ In order to address and maintain United States competitiveness in the global eco
 
 &emsp;(7) direct the Secretary of Labor to consult with any country seeking a trade agreement with the United States concerning that country's labor laws and provide technical assistance to that country if needed;
 
-&emsp;(8) in connection with any trade negotiations entered into under this Act, submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a meaningful labor rights report of the country, or countries, with respect to which the President is negotiating, on a time frame determined in accordance with section 3807(b)(2)(E) of this title;
+&emsp;(8) in connection with any trade negotiations entered into under this chapter, submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a meaningful labor rights report of the country, or countries, with respect to which the President is negotiating, on a time frame determined in accordance with section 3807(b)(2)(E) of this title;
 
 &emsp;(9) with respect to any trade agreement which the President seeks to implement under trade authorities procedures, submit to the Congress a report describing the extent to which the country or countries that are parties to the agreement have in effect laws governing exploitative child labor;
 
@@ -306,7 +306,7 @@ In order to address and maintain United States competitiveness in the global eco
 
 &emsp;(11) report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, not later than 12 months after the imposition of a penalty or remedy by the United States permitted by a trade agreement to which this chapter applies, on the effectiveness of the penalty or remedy applied under United States law in enforcing United States rights under the trade agreement; and
 
-&emsp;(12) seek to establish consultative mechanisms among parties to trade agreements to examine the trade consequences of significant and unanticipated currency movements and to scrutinize whether a foreign government engaged <sup>1</sup> in a pattern of manipulating its currency to promote a competitive advantage in international trade.
+&emsp;(12) seek to establish consultative mechanisms among parties to trade agreements to examine the trade consequences of significant and unanticipated currency movements and to scrutinize whether a foreign government is engaged in a pattern of manipulating its currency to promote a competitive advantage in international trade.
 
 > The report under paragraph (11) shall address whether the penalty or remedy was effective in changing the behavior of the targeted party and whether the penalty or remedy had any adverse impact on parties or interests not party to the dispute.
 
@@ -326,23 +326,23 @@ In order to address and maintain United States competitiveness in the global eco
 
 #### (e) Adherence to obligations under Uruguay Round Agreements
 
-In determining whether to enter into negotiations with a particular country, the Presidentshall take into account the extent to which that country has implemented, or has accelerated the implementation of, its obligations under the Uruguay Round Agreements.
+In determining whether to enter into negotiations with a particular country, the President shall take into account the extent to which that country has implemented, or has accelerated the implementation of, its obligations under the Uruguay Round Agreements.
 
-(Pub. L. 107–210, div. B, title XXI, §2102, Aug. 6, 2002, 116 Stat. 994.)
+(Pub. L. 107–210, div. B, title XXI, §2102, Aug. 6, 2002, 116 Stat. 994; Pub. L. 108–429, title II, §2004(a)(16), Dec. 3, 2004, 118 Stat. 2591.)
 
 #### References in Text
 
 Executive Order 13141, referred to in subsec. (c)(4) and (5), is set out as a note under section 2112 of this title.
 
-This Act, referred to in subsec. (c)(8), means Pub. L. 107–210, Aug. 6, 2002, 116 Stat. 933, known as the Trade Act of 2002. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of this title and Tables.
+This chapter, referred to in subsec. (c)(8), was in the original “this title”, meaning title XXI of Pub. L. 107–210, div. B, Aug. 6, 2002, 116 Stat. 993, which enacted this chapter and amended sections 2151 to 2155, 2191, and 2212 of this title. For complete classification of title XXI to the Code, see Tables.
+
+#### Amendments
+
+2004—Subsec. (c)(8). Pub. L. 108–429, §2004(a)(16)(A), substituted “this chapter” for “this Act”.
+
+Subsec. (c)(12). Pub. L. 108–429, §2004(a)(16)(B), substituted “government is engaged” for “government engaged”.
 
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2155, 3803, 3804, 3805, 3807, 3812 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “is engaged”.</i>
 

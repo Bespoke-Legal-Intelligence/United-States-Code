@@ -36,7 +36,3 @@ Section 946 of the Cranston-Gonzalez National Affordable Housing Act, referred t
 
 Sections 105 and 106 of the Energy Policy Act of 1992, referred to in subsec. (b)(3), are sections 105 and 106 of Pub. L. 102–486. Section 105 amended section 12704 of this title and provisions set out as a note under section 12712 of this title. Section 106 is set out as a note under section 12712 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8236a, 8236b of this title.
-

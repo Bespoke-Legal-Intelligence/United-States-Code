@@ -38,7 +38,3 @@ The words “any other provision of” following “Notwithstanding” are omitt
 
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5901 of this title; title 33 section 540a.
-

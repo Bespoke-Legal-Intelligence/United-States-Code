@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—NONRECOURSE MARKETING ASSISTANCE LOANS AND LOAN DEFICIENCY PAYMENTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 7286, 7931, 8001 of this title; title 31 section 3720B.
-
 
 ---
 

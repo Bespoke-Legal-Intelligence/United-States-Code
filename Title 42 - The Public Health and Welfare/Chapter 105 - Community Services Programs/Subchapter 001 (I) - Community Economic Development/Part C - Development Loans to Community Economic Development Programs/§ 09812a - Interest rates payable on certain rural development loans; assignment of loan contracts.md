@@ -28,7 +28,7 @@ Section 9910 of this title, referred to in subsecs. (a) and (b)(2), was in the o
 
 #### Codification
 
-Section was enacted as part of the Human Services Reauthorization Act of 1986, and not as part of the Community Economic Development Act of 1981 which comprises this subchapter.
+Section was enacted as part of the Human Services Reauthorization Act of 1986, and not as part of theCommunity Economic Development Act of 1981 which comprises this subchapter.
 
 #### Amendments
 

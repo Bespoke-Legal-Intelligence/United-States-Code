@@ -40,7 +40,7 @@ Within 1 year after October 24, 1992, the Secretary shall solicit proposals for 
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for carrying out this part, includingall building, industry, and utility sectors energy conservation research and development, and inventions and innovation under energy conservation technical and financial assistance, $178,250,000 for fiscal year 1993 and $275,000,000 for fiscal year 1994.
+There are authorized to be appropriated to the Secretary for carrying out this part, including all building, industry, and utility sectors energy conservation research and development, and inventions and innovation under energy conservation technical and financial assistance, $178,250,000 for fiscal year 1993 and $275,000,000 for fiscal year 1994.
 
 (Pub. L. 102–486, title XXI, §2101, Oct. 24, 1992, 106 Stat. 3067.)
 
@@ -93,10 +93,6 @@ Procedure.—In carrying out such study, the Secretary shall—
 “(c)
 
 Demonstration.—The Secretary may, based on the findings and conclusions of the study carried out under this section, conduct at least one project designed to demonstrate the commercial application of active noise and vibration cancellation technologies using fast adapting algorithms in products or equipment with a significant potential for increased energy efficiency.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13472, 13501, 13502 of this title; title 15 sections 5108, 5307.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

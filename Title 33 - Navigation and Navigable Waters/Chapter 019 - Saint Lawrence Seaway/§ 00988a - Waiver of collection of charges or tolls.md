@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–331 substituted “Waiver of collection” for “Rebate of” in section catchline and amended text generally. Prior to amendment, text read as follows:
+1994—Pub. L. 103–331 substituted “Waiver of collection” for “Rebate of” in section catchline and amendedtext generally. Prior to amendment, text read as follows:
 
 “(a) The Corporation shall transfer to the Harbor Maintenance Trust Fund, at such times and under such terms and conditions as the Secretary of the Treasury may prescribe, all revenues derived from the collection of charges or tolls established under section 988 of this title.
 
@@ -23,8 +23,4 @@
 #### Effective Date
 
 Section effective April 1, 1987, see section 805(b) of Pub. L. 99–662, set out as an Effective Date of 1986 Amendment note under section 984 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 9505.
 

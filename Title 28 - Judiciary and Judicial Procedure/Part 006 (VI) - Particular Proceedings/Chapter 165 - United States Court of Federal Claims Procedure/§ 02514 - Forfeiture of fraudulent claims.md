@@ -12,7 +12,7 @@ Based on title 28, U.S.C., 1940 ed., §§279 and 280 (Mar. 3, 1911, ch. 231, §�
 
 A provision of section 279 of title 28, U.S.C., 1940 ed., that a judgment of forfeiture shall forever bar the prosecution of the claim was omitted as covered by section 2518 of this title.
 
-A provision of section 280 of title 28, U.S.C., 1940 ed., barring allowance by accounting officers of fraudulentclaims under Act June 16, 1874, 18 Stat. 75, was omitted as obsolete.
+A provision of section 280 of title 28, U.S.C., 1940 ed., barring allowance by accounting officers of fraudulent claims under Act June 16, 1874, 18 Stat. 75, was omitted as obsolete.
 
 A provision of section 280 of title 28, U.S.C., 1940 ed., barring allowance of fraudulent claims by Congress was omitted as unnecessary and superfluous.
 

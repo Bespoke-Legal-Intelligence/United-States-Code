@@ -4,7 +4,7 @@
 
 &emsp;(1) deliver to each person administered the oath of allegiance by the court pursuant to section 1448(a) of this title the certificate of naturalization prepared by the Attorney General pursuant to section 1421(b)(2)(A)(ii) of this title,
 
-&emsp;(2) forward to the Attorney General a list of applicants actually taking the oath at each scheduled ceremony and information concerning each person to whom such an oath is administered by the court, within 30 days afterthe close of the month in which the oath was administered,
+&emsp;(2) forward to the Attorney General a list of applicants actually taking the oath at each scheduled ceremony and information concerning each person to whom such an oath is administered by the court, within 30 days after the close of the month in which the oath was administered,
 
 &emsp;(3) forward to the Attorney General certified copies of such other proceedings and orders instituted in or issued out of the court affecting or relating to the naturalization of persons as may be required from time to time by the Attorney General, and
 
@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–232, §102(b)(1)(F), inserted sentence at end relating to return of defaced or injured certificates of naturalization to Attorney General.
+1991—Subsec. (a). Pub. L. 102–232, §102(b)(1)(F), inserted sentence at end relating to return of defaced orinjured certificates of naturalization to Attorney General.
 
 Subsec. (a)(1). Pub. L. 102–232, §102(b)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “issue to each person to whom such an oath is administered a document evidencing that such an oath was administered,”.
 

@@ -6,7 +6,7 @@ Where any person has arranged to furnish or furnished to a contracting agency or
 
 #### (b) Technical defects or omissions
 
-Whenever any formal or technical defect or omission in any prime contract, or in any grant of authority to an officer or agent of a contracting agency who ordered any materials, services, and facilities might invalidate the contract or commitment, the contracting agency (1) shallnot take advantage of such defect or omission; (2) shall amend, confirm, or ratify such contract or commitment without consideration in order to cure such defect or omission; and (3) shall make a fair settlement of any obligation thereby created or incurred by such agency, whether expressed or implied, in fact or in law, or in the nature of an implied or quasi contract.
+Whenever any formal or technical defect or omission in any prime contract, or in any grant of authority to an officer or agent of a contracting agency who ordered any materials, services, and facilities might invalidate the contract or commitment, the contracting agency (1) shall not take advantage of such defect or omission; (2) shall amend, confirm, or ratify such contract or commitment without consideration in order to cure such defect or omission; and (3) shall make a fair settlement of any obligation thereby created or incurred by such agency, whether expressed or implied, in fact or in law, or in the nature of an implied or quasi contract.
 
 #### (c) Failure to settle
 
@@ -34,5 +34,5 @@ Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 
 
 #### Nonaccrual of Liability
 
-Section 2 of act June 28, 1954, provided that no liability should accrue by reason of the enactment of section 1 of that act \[amending this section\] which would not otherwise have accrued.
+Section 2 of act June 28, 1954, provided that no liability should accrue by reason of the enactment of section1 of that act \[amending this section\] which would not otherwise have accrued.
 

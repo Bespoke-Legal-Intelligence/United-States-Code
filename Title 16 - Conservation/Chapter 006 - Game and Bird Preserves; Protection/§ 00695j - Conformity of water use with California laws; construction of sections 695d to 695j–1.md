@@ -4,7 +4,3 @@ The use of all water furnished by the Secretary of the Interior under sections 6
 
 (Aug. 27, 1954, ch. 1012, §7, 68 Stat. 880.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 695i, 695g, 695j–1 of this title.
-

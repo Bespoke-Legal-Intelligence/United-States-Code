@@ -46,7 +46,7 @@ Information collected by the Energy Information Administration shall be cataloge
 
 &emsp;(B) an analysis of the competitive structure of sectors and functional groupings within the energy industry;
 
-&emsp;(C) the segregation of energy information, including financial information, describingcompany operations by energy source and geographic area;
+&emsp;(C) the segregation of energy information, including financial information, describing company operations by energy source and geographic area;
 
 &emsp;(D) the determination of costs associated with exploration, development, production, processing, transportation, and marketing and other significant energy-related functions within such company; and
 
@@ -122,7 +122,7 @@ Pursuant to section 52(a) of the Federal Energy Administration Act of 1974 (15 U
 
 #### (<i>l</i>) Data collection
 
-In order to improve the ability to evaluate the effectiveness of the Nation's energy efficiencypolicies and programs, the Administrator shall, in carrying out the data collection provisions of subsections (i) and (k) of this section, consider—
+In order to improve the ability to evaluate the effectiveness of the Nation's energy efficiency policies and programs, the Administrator shall, in carrying out the data collection provisions of subsections (i) and (k) of this section, consider—
 
 &emsp;(1) expanding the survey instruments to include questions regarding participation in Government and utility conservation programs;
 
@@ -152,7 +152,7 @@ Subsecs. (j) to (<i>l</i>). Pub. L. 102–486, §171(b), added subsecs. (j) to (
 
 #### End Use Consumption Surveys; Manufacturing Energy Consumption Survey
 
-Pub. L. 104–134, title I, §101(c) \[title II\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–188; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding section 4(d) of the Service Contract Act of 1965 (41 U.S.C. 353(d)) or any other provision of law, funds appropriated under this heading \[DEPARTMENT OF ENERGY,
+Pub. L. 104–134, title I, §101(c) \[title II\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–188; renumbered title I, Pub. L.104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding section 4(d) of the Service Contract Act of 1965 (41 U.S.C. 353(d)) or any other provision of law, funds appropriated under this heading \[DEPARTMENT OF ENERGY,
 
 energy information administration\] hereafter may be used to enter into a contract for end use consumption surveys for a term not to exceed eight years: <i>Provided further</i>, That notwithstanding any other provision of law, hereafter the Manufacturing Energy Consumption Survey shall be conducted on a triennial basis.”
 

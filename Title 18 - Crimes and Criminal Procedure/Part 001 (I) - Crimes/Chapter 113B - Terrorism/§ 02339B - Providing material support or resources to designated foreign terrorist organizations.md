@@ -6,7 +6,7 @@ Prohibited Activities.—
 
 &emsp;(1)
 
-Unlawful conduct.—Whoever, within the United States or subject to the jurisdiction of the United States, knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life.
+Unlawful conduct.—Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
 
 &emsp;(2)
 
@@ -30,7 +30,27 @@ Injunction.—Whenever it appears to the Secretary or the Attorney General that 
 
 (d)
 
-Extraterritorial Jurisdiction.—There is extraterritorial Federal jurisdiction over an offense under this section.
+Extraterritorial Jurisdiction.—
+
+&emsp;(1)
+
+In general.—There is jurisdiction over an offense under subsection (a) if—
+
+&emsp;&emsp;(A) an offender is a national of the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))) or an alien lawfully admitted for permanent residence in the United States (as defined in section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20)));
+
+&emsp;&emsp;(B) an offender is a stateless person whose habitual residence is in the United States;
+
+&emsp;&emsp;(C) after the conduct required for the offense occurs an offender is brought into or found in the United States, even if the conduct required for the offense occurs outside the United States;
+
+&emsp;&emsp;(D) the offense occurs in whole or in part within the United States;
+
+&emsp;&emsp;(E) the offense occurs in or affects interstate or foreign commerce; or
+
+&emsp;&emsp;(F) an offender aids or abets any person over whom jurisdiction exists under this paragraph in committing an offense under subsection (a) or conspires with any person over whom jurisdiction exists under this paragraph to commit an offense under subsection (a).
+
+&emsp;(2)
+
+Extraterritorial jurisdiction.—There is extraterritorial Federal jurisdiction over an offense under this section.
 
 (e)
 
@@ -108,7 +128,7 @@ Objection.—During the examination of a witness in any civil proceeding brought
 
 Action by court.—In determining whether a response is admissible, the court shall take precautions to guard against the compromise of any classified information, including—
 
-&emsp;&emsp;&emsp;(i) permitting the United States to provide the court, ex parte, with a proffer ofthe witness's response to the question or line of inquiry; and
+&emsp;&emsp;&emsp;(i) permitting the United States to provide the court, ex parte, with a proffer of the witness's response to the question or line of inquiry; and
 
 &emsp;&emsp;&emsp;(ii) requiring the defendant to provide the court with a proffer of the nature of the information that the defendant seeks to elicit.
 
@@ -176,15 +196,35 @@ Definitions.—As used in this section—
 
 &emsp;(3) the term “funds” includes coin or currency of the United States or any other country, traveler's checks, personal checks, bank checks, money orders, stocks, bonds, debentures, drafts, letters of credit, any other negotiable instrument, and any electronic representation of any of the foregoing;
 
-&emsp;(4) the term “material support or resources” has the same meaning as in section 2339A;
+&emsp;(4) the term “material support or resources” has the same meaning given that term in section 2339A (including the definitions of “training” and “expert advice or assistance” in that section);
 
 &emsp;(5) the term “Secretary” means the Secretary of the Treasury; and
 
 &emsp;(6) the term “terrorist organization” means an organization designated as a terrorist organization under section 219 of the Immigration and Nationality Act.
 
-(Added Pub. L. 104–132, title III, §303(a), Apr. 24, 1996, 110 Stat. 1250; amended Pub. L. 107–56, title VIII, §810(d), Oct. 26, 2001, 115 Stat. 380.)
+(h)
+
+Provision of Personnel.—No person may be prosecuted under this section in connection with the term “personnel” unless that person has knowingly provided, attempted to provide, or conspired to provide a foreign terrorist organization with 1 or more individuals (who may be or include himself) to work under that terrorist organization's direction or control or to organize, manage, supervise, or otherwise direct the operation of that organization. Individuals who act entirely independently of the foreign terrorist organization to advance its goals or objectives shall not be considered to be working under the foreign terrorist organization's direction and control.
+
+(i)
+
+Rule of Construction.—Nothing in this section shall be construed or applied so as to abridge the exercise of rights guaranteed under the First Amendment to the Constitution of the United States.
+
+(j)
+
+Exception.—No person may be prosecuted under this section in connection with the term “personnel”, “training”, or “expert advice or assistance” if the provision of that material support or resources to a foreign terrorist organization was approved by the Secretary of State with the concurrence of the Attorney General. The Secretary of State may not approve the provision of any material support that may be used to carry out terrorist activity (as defined in section 212(a)(3)(B)(iii) of the Immigration and Nationality Act).
+
+(Added Pub. L. 104–132, title III, §303(a), Apr. 24, 1996, 110 Stat. 1250; amended Pub. L. 107–56, title VIII, §810(d), Oct. 26, 2001, 115 Stat. 380; Pub. L. 108–458, title VI, §6603(c)–(f), Dec. 17, 2004, 118 Stat. 3762, 3763.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 6603(g) of Pub. L. 108–458, see Termination Date of 2004 Amendment note below.</i>
 
 #### References in Text
+
+Section 212(a)(3)(B) of the Immigration and Nationality Act, referred to in subsecs. (a)(1) and (j), is classified to section 1182(a)(3)(B) of Title 8, Aliens and Nationality.
+
+Section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989, referred to in subsec. (a)(1), is classified to section 2656f(d)(2) of Title 22, Foreign Relations and Intercourse.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f)(1)(A)(i), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -194,7 +234,19 @@ Section 219 of the Immigration and Nationality Act, referred to in subsec. (g)(6
 
 #### Amendments
 
+2004—Subsec. (a)(1). Pub. L. 108–458, §6603(c), (g), temporarily struck out “, within the United States or subject to the jurisdiction of the United States,” after “Whoever” and inserted at end “To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).” See Termination Date of 2004 Amendment note below.
+
+Subsec. (d). Pub. L. 108–458, §6603(d), (g), temporarily designated existing provisions as par. (2), inserted par. (2) heading, and added par. (1). See Termination Date of 2004 Amendment note below.
+
+Subsec. (g)(4). Pub. L. 108–458, §6603(e), (g), temporarily amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the term ‘material support or resources’ has the same meaning as in section 2339A;”. See Termination Date of 2004 Amendment note below.
+
+Subsecs. (h) to (j). Pub. L. 108–458, §6603(f), (g), temporarily added subsecs. (h) to (j). See Termination Date of 2004 Amendment note below.
+
 2001—Subsec. (a)(1). Pub. L. 107–56 substituted “15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life” for “10 years, or both”.
+
+#### Termination Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 to cease to be effective Dec. 31, 2006, with exception for certain offenses that began or occurred before such date, see section 6603(g) of Pub. L. 108–458, set out as a note under section 2332b of this title.
 
 #### Findings and Purpose
 
@@ -221,8 +273,4 @@ Findings.—The Congress finds that—
 “(b)
 
 Purpose.—The purpose of this subtitle \[subtitle A (§§301–303) of title III of Pub. L. 104–132, enacting this section and section 1189 of Title 8, Aliens and Nationality\] is to provide the Federal Government the fullest possible basis, consistent with the Constitution, to prevent persons within the United States, or subject to the jurisdiction of the United States, from providing material support or resources to foreign organizations that engage in terrorist activities.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1956, 2332b, 2339C, 2516 of this title; title 7 section 8401; title 8 section 1189; title 22 section 7211; title 42 section 262a.
 

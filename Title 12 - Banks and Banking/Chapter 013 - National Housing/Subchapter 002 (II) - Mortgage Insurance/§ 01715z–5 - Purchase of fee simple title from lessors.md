@@ -44,7 +44,3 @@ The provisions of paragraphs (3), (5), (6), (7), (8), and (10) of section 1715k(
 
 1978—Subsec. (c)(2). Pub. L. 95–557 inserted “($30,000, if the property is located in Hawaii)” after “$10,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1464 of this title.
-

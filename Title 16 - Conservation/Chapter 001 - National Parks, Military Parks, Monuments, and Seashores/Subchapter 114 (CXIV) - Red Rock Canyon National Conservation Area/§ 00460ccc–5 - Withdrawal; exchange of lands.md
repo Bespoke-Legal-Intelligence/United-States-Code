@@ -18,7 +18,3 @@ Geothermal leasing laws, referred to in subsec. (a), are classified principally 
 
 1994—Pub. L. 103–450 designated existing provisions as subsec. (a) and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460ccc–3 of this title.
-

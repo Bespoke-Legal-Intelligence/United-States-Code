@@ -1,9 +1,5 @@
 subpart i—caregiver support program
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 3024 of this title.
-
 
 ---
 

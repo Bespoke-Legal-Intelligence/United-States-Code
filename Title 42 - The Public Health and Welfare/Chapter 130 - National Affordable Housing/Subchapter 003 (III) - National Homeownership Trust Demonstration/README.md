@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—NATIONAL HOMEOWNERSHIP TRUST DEMONSTRATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1436a, 3535 of this title.
-
 
 ---
 

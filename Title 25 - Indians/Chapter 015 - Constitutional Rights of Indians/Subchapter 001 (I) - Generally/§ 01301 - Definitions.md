@@ -26,7 +26,3 @@ Title II of Pub. L. 90–284, which is classified generally to this subchapter, 
 
 Section 8077(d) of Pub. L. 101–511, as amended by Pub. L. 102–124, §1, Oct. 9, 1991, 105 Stat. 616, which provided that the effects of subsecs. (b) and (c), which amended this section, as those subsections affect the criminal misdemeanor jurisdiction of tribal courts over non-member Indians have no effect after Oct. 18, 1991, was repealed by Pub. L. 102–137, Oct. 28, 1991, 105 Stat. 646. Subsequent to repeal, Pub. L. 102–172, title VIII, §8112A(b), Nov. 26, 1991, 105 Stat. 1202, purported to amend section 8077(d) of Pub. L. 101–511 by substituting “1993” for “1991”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2801 of this title; title 5 section 8331; title 22 section 4044.
-

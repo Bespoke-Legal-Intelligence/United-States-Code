@@ -26,7 +26,3 @@ Limitation.—A claim for relief with respect to a fraudulent transfer or obliga
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3307 of this title.
-

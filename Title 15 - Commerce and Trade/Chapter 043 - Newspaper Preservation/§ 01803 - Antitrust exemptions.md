@@ -18,7 +18,3 @@ Nothing contained in the chapter shall be construed to exempt from any antitrust
 
 Any antitrust law, referred to in subsecs. (a) and (c), are the antitrust laws defined in section 1802 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1804 of this title.
-

@@ -70,7 +70,3 @@ The remedies provided in this section shall be in addition to, and not exclusive
 
 This subchapter, referred to in subsec. (c)(1), was in the original “this Act” and was translated as reading “this subtitle”, meaning subtitle B (§§511–526) of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, to reflect the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7418 of this title.
-

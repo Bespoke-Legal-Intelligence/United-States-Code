@@ -2,11 +2,11 @@
 
 #### (a) Conversion of existing and new conventional vehicles to clean-fuel vehicles
 
-The requirements of section 7586 of this title may be met through the conversion of existing or new gasoline or diesel-powered vehicles toclean-fuel vehicles which comply with the applicable requirements of that section. For purposes of such provisions the conversion of a vehicle to clean fuel <sup>1</sup> vehicle shall be treated as the purchase of a clean fuel <sup>1</sup> vehicle. Nothing in this part shall be construed to provide that any covered fleet operator subject to fleet vehicle purchase requirements under section 7586 of this title shall be required to convert existing or new gasoline or diesel-powered vehicles to clean-fuel vehicles or to purchase converted vehicles.
+The requirements of section 7586 of this title may be met through the conversion of existing or new gasoline or diesel-powered vehicles to clean-fuel vehicles which comply with the applicable requirements of that section. For purposes of such provisions the conversion of a vehicle to clean fuel <sup>1</sup> vehicle shall be treated as the purchase of a clean fuel <sup>1</sup> vehicle. Nothing in this part shall be construed to provide that any covered fleet operator subject to fleet vehicle purchase requirements under section 7586 of this title shall be required to convert existing or new gasoline or diesel-powered vehicles to clean-fuel vehicles or to purchase converted vehicles.
 
 #### (b) Regulations
 
-The Administrator shall, within 24 months after November 15, 1990, consistent with the requirements of this subchapter applicable to new vehicles, promulgate regulations governing conversions of conventional vehicles to clean-fuel vehicles. Such regulations shall establish criteria for such conversions which will ensure that a converted vehicle will comply with the standards applicable under this part to clean-fuel vehicles. Such regulations shall provide for the application to such conversions of the same provisions of this subchapter (including provisions relating to administration enforcement) as are applicable to standards under section <sup>2</sup> 7582, 7583, 7584, and 7585 of this title, except that in the case of conversions the Administrator may modify the applicable regulations implementing such provisions as the Administrator deems necessary to implement this part.
+The Administrator shall, within 24 months after November 15, 1990, consistent with the requirements of this subchapter applicable to new vehicles, promulgate regulations governing conversions of conventional vehicles to clean-fuel vehicles. Such regulations shall establish criteria for such conversions which will ensure that a converted vehicle will comply with the standards applicable under this part to clean-fuel vehicles. Such regulations shall provide for the application to such conversions of the same provisions of this subchapter (including provisions relating to administration enforcement) as are applicable to standards under section <sup>2</sup> 7582, 7583, 7584, and 7585 of this title, except that in the case of conversions the Administrator may modify the applicable regulations implementingsuch provisions as the Administrator deems necessary to implement this part.
 
 #### (c) Enforcement
 
@@ -21,10 +21,6 @@ The conversion from a vehicle capable of operating on gasoline or diesel fuel on
 The Secretary of Transportation shall, if necessary, promulgate rules under applicable motor vehicle laws regarding the safety of vehicles converted from existing and new vehicles to clean-fuel vehicles.
 
 (July 14, 1955, ch. 360, title II, §247, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2523.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13236, 13257 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “clean-fuel”.</i>
 

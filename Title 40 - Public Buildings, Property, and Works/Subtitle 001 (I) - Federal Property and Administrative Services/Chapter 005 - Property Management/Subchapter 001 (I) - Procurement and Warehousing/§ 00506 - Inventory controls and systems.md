@@ -22,7 +22,7 @@ Federal supply catalog system.—Establish and maintain a uniform federal supply
 
 &emsp;&emsp;(D)
 
-Standard purchase specifications and standard forms and procedures.—Prescribe standard purchase specifications and standard forms and procedures (except forms and procedures that the Comptroller General prescribes by law) subject to regulations the Administrator for Federal Procurement Policy prescribes under the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.).
+Standard purchase specifications and standard forms and procedures.—Prescribe standard purchase specifications and standard forms and procedures (except forms and procedures that the Comptroller General prescribes by law) subject to regulations theAdministrator for Federal Procurement Policy prescribes under the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.).
 
 &emsp;(2)
 
@@ -73,8 +73,4 @@ In subsection (c), the words “Comptroller General” are substituted for “Ge
 #### References in Text
 
 The Office of Federal Procurement Policy Act, referred to in subsec. (a)(1)(D), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 113, 124 of this title.
 

@@ -1,9 +1,5 @@
 Part C—Occupational Safety and Health Act of 1970
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 28 section 1296.
-
 
 ---
 

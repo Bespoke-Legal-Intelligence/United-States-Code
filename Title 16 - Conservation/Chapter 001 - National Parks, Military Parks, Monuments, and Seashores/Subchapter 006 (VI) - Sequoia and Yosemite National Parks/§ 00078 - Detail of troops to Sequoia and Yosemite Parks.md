@@ -10,5 +10,5 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### General Grant National Park Abolished
 
-Act Mar. 4, 1940, set out as section 80a of this title, abolished the General Grant National Park and addedthe lands to the Kings Canyon National Park as the General Grant grove section.
+Act Mar. 4, 1940, set out as section 80a of this title, abolished the General Grant National Park and added the lands to the Kings Canyon National Park as the General Grant grove section.
 

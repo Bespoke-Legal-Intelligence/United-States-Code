@@ -2,7 +2,7 @@
 
 #### (a) Requirement of financial protection for licensees
 
-Each license issued under section 2133 or 2134 of this title and each construction permit issued under section 2235 of this title shall, and each license issued under section 2073, 2093, or 2111 of this title may, for the public purposes cited in section 2012(i) of this title, have as a condition of the license a requirement that the licensee have and maintain financial protection of such type and in such amounts as the Nuclear Regulatory Commission (in this section referred to as the “Commission”) in the exercise of its licensing and regulatory authority and responsibility shall require in accordance with subsection (b)of this section to cover public liability claims. Whenever such financial protection is required, it may be a further condition of the license that the licensee execute and maintain an indemnification agreement in accordance with subsection (c) of this section. The Commission may require, as a further condition of issuing a license, that an applicant waive any immunity from public liability conferred by Federal or State law.
+Each license issued under section 2133 or 2134 of this title and each construction permit issuedunder section 2235 of this title shall, and each license issued under section 2073, 2093, or 2111 of this title may, for the public purposes cited in section 2012(i) of this title, have as a condition of the license a requirement that the licensee have and maintain financial protection of such type and in such amounts as the Nuclear Regulatory Commission (in this section referred to as the “Commission”) in the exercise of its licensing and regulatory authority and responsibility shall require in accordance with subsection (b) of this section to cover public liability claims. Whenever such financial protection is required, it may be a further condition of the license that the licensee execute and maintain an indemnification agreement in accordance with subsection (c) of this section. The Commission may require, as a further condition of issuing a license, that an applicant waive any immunity from public liability conferred by Federal or State law.
 
 #### (b) Amount and type of financial protection for licensees
 
@@ -34,7 +34,7 @@ The Commission shall, with respect to licenses issued between August 30, 1954, a
 
 #### (d) Indemnification of contractors by Department of Energy
 
-(1)(A) In addition to any other authority the Secretary of Energy (in this section referred to as the “Secretary”) may have, the Secretary shall, until December 31, 2004, enter into agreements of indemnification under this subsection with any person who may conduct activities under a contract with the Department of Energy that involve the risk of public liability and that are not subject to financial protection requirements under subsection (b) of this section or agreements of indemnification under subsection (c) or (k) of this section.
+(1)(A) In addition to any other authority the Secretary of Energy (in this section referred to as the “Secretary”) may have, the Secretary shall, until December 31, 2006, enter into agreements of indemnification under this subsection with any person who may conduct activities under a contract with the Department of Energy that involve the risk of public liability and that are not subject to financial protection requirements under subsection (b) of this section or agreements of indemnification under subsection (c) or (k) of this section.
 
 (B)(i)(I) Beginning 60 days after August 20, 1988, agreements of indemnification under subparagraph (A) shall be the exclusive means of indemnification for public liability arising from activities described in such subparagraph, including activities conducted under a contract that contains an indemnification clause under Public Law 85–804 \[50 U.S.C. 1431 et seq.\] entered into between August 1, 1987, and August 20, 1988.
 
@@ -126,7 +126,7 @@ The agreement of indemnification may contain such terms as the Commission or the
 
 &emsp;(ii) with full recognition of the constitutional right of the Senate to change the rules at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
-(B) For purposes of this paragraph, the term “resolution” means only a joint resolution of the Congress the matter after the resolving clause  of  which  is  as  follows:  “That  the                  approves the compensation plan numbered            submitted to the Congresson            , 19  .”, the first blank space therein being filled with the name of the resolving House and the other blank spaces being appropriately filled; but does not include a resolution which specifies more than one compensation plan.
+(B) For purposes of this paragraph, the term “resolution” means only a joint resolution of the Congress the matter after the resolving clause  of  which  is  as  follows:  “That  the                  approves the compensation plan numbered            submitted to the Congress on            , 19  .”, the first blank space therein being filled with the name of the resolving House and the other blank spaces being appropriately filled; but does not include a resolution which specifies more than one compensation plan.
 
 (C) A resolution once introduced with respect to a compensation plan shall immediately be referred to a committee (and all resolutions with respect to the same compensation plan shall be referred to the same committee) by the President of the Senate.
 
@@ -162,7 +162,7 @@ With respect to any license issued pursuant to section 2073, 2093, 2111, 2134(a)
 
 #### (<i>l</i>) Presidential commission on catastrophic nuclear accidents
 
-(1) Not later than 90 days after August 20, 1988, the President shall establish a commission (in this subsection referred to as the “study commission”) in accordance with the Federal Advisory Committee Act (5 U.S.C. App.) to study means of fully compensating victims of a catastrophic nuclear accident that exceeds the amount of aggregate public liability under subsection (e)(1) of this section.
+(1) Not later than 90 days after August 20, 1988, the President shall establish a commission (in this subsection referred to as the “study commission”) in accordance with the Federal Advisory Committee Act (5 U.S.C. App.) to studymeans of fully compensating victims of a catastrophic nuclear accident that exceeds the amount of aggregate public liability under subsection (e)(1) of this section.
 
 (2)(A) The study commission shall consist of not less than 7 and not more than 11 members, who—
 
@@ -254,7 +254,7 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 #### (<i>o</i>) Plan for distribution of funds
 
-(1) Whenever the United States district court in the district where a nuclear incident occurs, or the United States District Court for the District of Columbia in case of a nuclear incident occurring outside the United States, determinesupon the petition of any indemnitor or other interested person that public liability from a single nuclear incident may exceed the limit of liability under the applicable limit of liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section:
+(1) Whenever the United States district court in the district where a nuclear incident occurs, or the United States District Court for the District of Columbia in case of a nuclear incident occurring outside the United States, determines upon the petition of any indemnitor or other interested person that public liability from a single nuclear incident may exceed the limit of liability under the applicable limit of liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section:
 
 &emsp;(A) Total payments made by or for all indemnitors as a result of such nuclear incident shall not exceed 15 per centum of such limit of liability without the prior approval of such court;
 
@@ -302,7 +302,7 @@ No court may award punitive damages in any action with respect to a nuclear inci
 
 #### (t) Inflation adjustment
 
-(1) The Commission shall adjust the amount of the maximum standard deferred premium under subsection (b)(1) of this section not less than once during each 5-year period following August 20, 1988, in accordance with the aggregate percentage change in the Consumer Price Index since—
+(1) The Commission shall adjust the amount of the maximum standard deferred premium under subsection (b)(1) of this section not less than once during each 5-year period following August20, 1988, in accordance with the aggregate percentage change in the Consumer Price Index since—
 
 &emsp;(A) August 20, 1988, in the case of the first adjustment under this subsection; or
 
@@ -310,7 +310,7 @@ No court may award punitive damages in any action with respect to a nuclear inci
 
 (2) For purposes of this subsection, the term “Consumer Price Index” means the Consumer Price Index for all urban consumers published by the Secretary of Labor.
 
-(Aug. 1, 1946, ch. 724, title I, §170, as added Pub. L. 85–256, §4, Sept. 2, 1957, 71 Stat. 576; amendedPub. L. 85–602, §§2, 2\[3\], Aug. 8, 1958, 72 Stat. 525; Pub. L. 85–744, Aug. 23, 1958, 72 Stat. 837; Pub. L. 87–206, §15, Sept. 6, 1961, 75 Stat. 479; Pub. L. 87–615, §§6, 7, Aug. 29, 1962, 76 Stat. 410; Pub. L. 88–394, §§2, 3, Aug. 1, 1964, 78 Stat. 376; Pub. L. 89–210, §§1–5, Sept. 29, 1965, 79 Stat. 855–857; Pub. L. 89–645, §§2, 3, Oct. 13, 1966, 80 Stat. 891; Pub. L. 94–197, §§2–14, Dec. 31, 1975, 89 Stat. 1111–1115; Pub. L. 100–408, §§2–4(a), 5(c)–11(a), (c), (d)(1), 12–15, 16(a)(2), (b)(3)–(c), (d)(4)–(e), Aug. 20, 1988, 102 Stat. 1066–1068, 1070–1080; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 105–362, title XII, §1201(b), Nov. 10, 1998, 112 Stat. 3292; Pub. L. 107–314, div. C, title XXXI, §3171, Dec. 2, 2002, 116 Stat. 2743; Pub. L. 108–7, div. O, §101, Feb. 20, 2003, 117 Stat. 551.)
+(Aug. 1, 1946, ch. 724, title I, §170, as added Pub. L. 85–256, §4, Sept. 2, 1957, 71 Stat. 576; amended Pub. L. 85–602, §§2, 2\[3\], Aug. 8, 1958, 72 Stat. 525; Pub. L. 85–744, Aug. 23, 1958, 72 Stat. 837; Pub. L. 87–206, §15, Sept. 6, 1961, 75 Stat. 479; Pub. L. 87–615, §§6, 7, Aug. 29, 1962, 76 Stat. 410; Pub. L. 88–394, §§2, 3, Aug. 1, 1964, 78 Stat. 376; Pub. L. 89–210, §§1–5, Sept. 29, 1965, 79 Stat. 855–857; Pub. L. 89–645, §§2, 3, Oct. 13, 1966, 80 Stat. 891; Pub. L. 94–197, §§2–14, Dec. 31, 1975, 89 Stat. 1111–1115; Pub. L. 100–408, §§2–4(a), 5(c)–11(a), (c), (d)(1), 12–15, 16(a)(2), (b)(3)–(c), (d)(4)–(e), Aug. 20, 1988, 102 Stat. 1066–1068, 1070–1080; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 105–362, title XII, §1201(b), Nov. 10, 1998, 112 Stat. 3292; Pub. L. 107–314, div. C, title XXXI, §3171, Dec. 2, 2002, 116 Stat. 2743; Pub. L. 108–7, div. O, §101, Feb. 20, 2003, 117 Stat. 551; Pub. L. 108–375, div. C, title XXXI, §3141, Oct. 28, 2004, 118 Stat. 2171.)
 
 #### References in Text
 
@@ -321,6 +321,8 @@ The Federal Advisory Committee Act, referred to in subsec. (<i>l</i>)(1), (4)(A)
 The Federal Rules of Civil Procedure, referred to in subsec. (n)(3)(C)(v), (vi), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+2004—Subsec. (d)(1)(A). Pub. L. 108–375 substituted “until December 31, 2006” for “until December 31, 2004”.
 
 2003—Subsec. (c). Pub. L. 108–7 substituted “December 31, 2003” for “August 1, 2002” wherever appearing.
 
@@ -500,7 +502,7 @@ Pub. L. 106–245, §2, July 10, 2000, 114 Stat. 501, provided that: “Congress
 
 &emsp;“(1) the Radiation Exposure Compensation Act \[Pub. L. 101–426\] (42 U.S.C. 2210 note) recognized the responsibility of the Federal Government to compensate individuals who were harmed by the mining of radioactive materials or fallout from nuclear arms testing;
 
-&emsp;“(2) a congressional oversight hearing conducted by the Committee on Labor and Human Resources of the Senate demonstrated that since enactment of the Radiation Exposure Compensation Act (42 U.S.C. 2210 note), regulatory burdens have made it too difficult for some deserving individuals to be fairly and efficiently compensated;
+&emsp;“(2) a congressional oversight hearing conducted by the Committee on Labor and Human Resources \[nowCommittee on Health, Education, Labor, and Pensions\] of the Senate demonstrated that since enactment of the Radiation Exposure Compensation Act (42 U.S.C. 2210 note), regulatory burdens have made it too difficult for some deserving individuals to be fairly and efficiently compensated;
 
 &emsp;“(3) reports of the Atomic Energy Commission and the National Institute for Occupational Safety and Health testify to the need to extend eligibility to States in which the Federal Government sponsored uranium mining and milling from 1941 through 1971;
 
@@ -532,7 +534,7 @@ Pub. L. 106–245, §3(i), July 10, 2000, 114 Stat. 508, which required General 
 
 #### Radiation Exposure Compensation
 
-Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended by Pub. L. 101–510, div. C, title XXXI, §§3139, 3140, Nov. 5, 1990, 104 Stat. 1835, 1837; Pub. L. 102–486, title XXX, §3018, Oct. 24, 1992, 106 Stat. 3131; Pub. L. 106–245, §3(a)–(e)(1), (f)–(h), July 10, 2000, 114 Stat. 502–508; Pub. L. 107–107, div. A, title X, §1063, Dec. 28, 2001, 115 Stat. 1232; Pub. L. 107–273, div. C, title I, §11007(a), Nov. 2, 2002, 116 Stat. 1817, provided that:
+Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended by Pub. L. 101–510, div. C, title XXXI, §§3139, 3140, Nov. 5, 1990, 104 Stat. 1835, 1837; Pub. L. 102–486, title XXX, §3018, Oct. 24, 1992, 106 Stat. 3131; Pub. L. 106–245, §3(a)–(e)(1), (f)–(h), July 10, 2000, 114 Stat. 502–508; Pub. L. 107–107, div. A, title X, §1063, Dec. 28, 2001, 115 Stat. 1232; Pub. L. 107–273, div. C, title I, §11007(a), Nov. 2, 2002, 116 Stat. 1817; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–375, div. C, title XXXI, §3165(b), Oct. 28, 2004, 118 Stat. 2187; Pub. L. 108–447, div. B, title I, §122, Dec. 8, 2004, 118 Stat. 2870, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -586,7 +588,7 @@ Appropriation.—
 
 &emsp;“(1)
 
-In general.—There are appropriated to the Fund, out of any money in the Treasury not otherwise appropriated, for fiscal year 2002 and each fiscal year thereafter through fiscal year 2011, such sums as may be necessary, not to exceed the applicable maximum amount specified in paragraph (2), to carry out the purposes of the Fund.
+In general.—There are appropriated to the Fund, out of any money in the Treasury not otherwise appropriated, for fiscal year 2002 and each fiscal year thereafter, such sums as may be necessary, not to exceed the applicable maximum amount specified in paragraph (2), to carry out the purposes of the Fund.
 
 &emsp;“(2)
 
@@ -599,18 +601,6 @@ Limitation.—Appropriation of amounts to the Fund pursuant to paragraph (1) is 
 &emsp;&emsp;“(C) For fiscal year 2004, $107,000,000.
 
 &emsp;&emsp;“(D) For fiscal year 2005, $65,000,000.
-
-&emsp;&emsp;“(E) For fiscal year 2006, $47,000,000.
-
-&emsp;&emsp;“(F) For fiscal year 2007, $29,000,000.
-
-&emsp;&emsp;“(G) For fiscal year 2008, $29,000,000.
-
-&emsp;&emsp;“(H) For fiscal year 2009, $23,000,000.
-
-&emsp;&emsp;“(I) For fiscal year 2010, $23,000,000.
-
-&emsp;&emsp;“(J) For fiscal year 2011, $17,000,000.
 
 #### “SEC. 4. CLAIMS RELATING TO ATMOSPHERIC NUCLEAR TESTING.
 
@@ -734,7 +724,7 @@ Payment requirement.—Each payment under this section may be made only in accor
 
 Definitions.—For purposes of this section—
 
-&emsp;“(1) the term ‘working level month of radiation’ means radiation exposure at the level of one working level every work day for a month, or an equivalent exposure over a greater or lesser amount of time;
+&emsp;“(1) the term ‘working level month of radiation’ means radiation exposure at the level of one workinglevel every work day for a month, or an equivalent exposure over a greater or lesser amount of time;
 
 &emsp;“(2) the term ‘working level’ means the concentration of the short half-life daughters of radon that will release (1.3×10<sup>5</sup>) million electron volts of alpha energy per liter of air;
 
@@ -864,7 +854,7 @@ Payment of Claims.—
 
 &emsp;“(1)
 
-In general.—The Attorney General shall pay, from amounts available in the Fund, claims filed under this Act which the Attorney General determines meet the requirements of this Act.
+In general.—The Attorney General shall pay, from amounts available in the Fund (or, in the case of a payment under section 5, from the Energy Employees Occupational Illness Compensation Fund, pursuant to section 3630(d) of the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7384u(d)\]), claims filed under this Act which the Attorney General determines meet the requirements of this Act.
 
 &emsp;“(2)
 
@@ -964,7 +954,7 @@ Native american considerations.—Any procedures under this subsection shall tak
 
 “(e)
 
-Payment in Full Settlement of Claims Against the United States.—Except as otherwise authorized by law, the acceptance of payment by an individual under this section shall be in full satisfaction of all claims of or on behalf of that individual against the United States, or against any person with respect to that person's performance of a contract with the United States, that arise out of exposure to radiation, from atmospheric nuclear testing, in the affected area (as defined in section 4(b)(1)) at any time during the period described in subsection (a)(1), (a)(2)(A), or (a)(2)(B) of section 4, exposure to radiation in a uranium mine, mill, or while employed in the transport of uranium ore or vanadium-uranium ore from such mine or mill at any time during the period described in section 5(a), or exposure to radiation as a result of onsite participation in a test involving the atmospheric detonation of a nuclear device.
+Payment in Full Settlement of Claims Against the United States.—Except as otherwise authorized by law, the acceptance of payment by an individual under this section shall be in full satisfaction of all claims of or on behalf of that individual against the United States, or against any person with respect to that person's performance of a contract with the United States, that arise out of exposure to radiation, from atmospheric nuclear testing, in the affected area (as defined in section 4(b)(1)) at any time during the period described in subsection (a)(1), (a)(2)(A), or (a)(2)(B)of section 4, exposure to radiation in a uranium mine, mill, or while employed in the transport of uranium ore or vanadium-uranium ore from such mine or mill at any time during the period described in section 5(a), or exposure to radiation as a result of onsite participation in a test involving the atmospheric detonation of a nuclear device.
 
 “(f)
 
@@ -1066,7 +1056,7 @@ Completion.—Such report shall be completed not later than September 30, 1992.
 
 “(a)
 
-In General.—Not later than 18 months after the date of enactment of the Radiation Exposure Compensation Act Amendments of 2000 \[July 10, 2000\], and every 18 months thereafter, the General Accounting Office shall submit a report to Congress containing a detailed accounting of the administration of this Act by the Department of Justice.
+In General.—Not later than 18 months after the date of enactment of the Radiation Exposure Compensation Act Amendments of 2000 \[July 10, 2000\], and every 18 months thereafter, the Government Accountability Office shall submit a report to Congress containing a detailed accounting of the administration of this Act by the Department of Justice.
 
 “(b)
 
@@ -1086,7 +1076,7 @@ Rulemaking Proceeding.—
 
 &emsp;“(1)
 
-Purpose.—The Nuclear Regulatory Commission (hereafter in this section referred to as the ‘Commission’) shall initiate a proceeding, in accordance with the requirements of this section, to determine whether to enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) with persons licensed by the Commission under section 81, 104(a), or 104(c) of the Atomic Energy Act of 1954 (42 U.S.C. 2111, 2134(a), and 2134(c)) or by a State under section 274(b) of the Atomic Energy Act of 1954 (42 U.S.C. 2021(b)) for the manufacture, production, possession, or use of radioisotopes or radiopharmaceuticals for medical purposes (hereafter in this section referred to as ‘radiopharmaceutical licensees’).
+Purpose.—The Nuclear Regulatory Commission (hereafter in this section referred to as the ‘Commission’) shall initiate a proceeding, in accordance with the requirements of this section, to determine whether to enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) with persons licensed by the Commission under section 81, 104(a), or 104(c) of the Atomic Energy Act of 1954 (42 U.S.C. 2111, 2134(a), and 2134(c)) or by a State under section 274(b) of the Atomic Energy Act of 1954 (42 U.S.C. 2021(b)) for the manufacture, production, possession, or use of radioisotopes or radiopharmaceuticals for medical purposes (hereafterin this section referred to as ‘radiopharmaceutical licensees’).
 
 &emsp;“(2)
 
@@ -1123,10 +1113,6 @@ Ex. Ord. No. 12658, Nov. 18, 1988, 53 F.R. 47517, as amended by Ex. Ord. No. 126
 #### Executive Order No. 12891
 
 Ex. Ord. No. 12891, Jan. 15, 1994, 59 F.R. 2935, which established the Advisory Committee on Human Radiation Experiments, was revoked by Ex. Ord. No. 13062, §3(a), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2014, 2021d, 2073, 2243, 2273, 2282a, 2282c, 2296, 2297h–5, 5851, 9601 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Commission,”.</i>
 

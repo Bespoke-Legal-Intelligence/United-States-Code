@@ -28,7 +28,3 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section 1 of Pub. L. 101–454 provided that: “This Act \[enacting this chapter, amending sections 4901, 4902, and 4904 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under sections 4901 and 4902 of Title 22\] may be cited as the ‘Eisenhower Exchange Fellowship Act of 1990’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5207 of this title.
-

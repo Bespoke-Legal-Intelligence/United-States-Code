@@ -8,7 +8,3 @@ In the event of a default of a loan guaranteed hereunder, the holder of the guar
 
 1984—Pub. L. 98–449 struck out proviso at end of second sentence which provided that proceedings pursuant to this section shall be effective only after following the procedure set out in section 386a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1499 of this title.
-

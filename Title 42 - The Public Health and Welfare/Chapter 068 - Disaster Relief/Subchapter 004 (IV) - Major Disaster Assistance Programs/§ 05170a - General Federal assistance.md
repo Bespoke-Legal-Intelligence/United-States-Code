@@ -26,7 +26,3 @@ In any major disaster, the President may—
 
 A prior section 402 of Pub. L. 93–288 was classified to section 5172 of this title prior to repeal by Pub. L. 100–707.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5159 of this title; title 7 section 2014; title 16 section 3505.
-

@@ -20,7 +20,3 @@ Act of March 23, 1932, commonly known as the Norris-LaGuardia Act, referred to i
 
 Provisions similar to those in this section were contained in section 11109 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14702, 14704, 14905 of this title.
-

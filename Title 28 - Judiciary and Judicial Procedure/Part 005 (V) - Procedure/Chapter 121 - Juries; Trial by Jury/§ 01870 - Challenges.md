@@ -1,6 +1,6 @@
 ### §1870. Challenges
 
-In civil cases, each party shall be entitled to three peremptory challenges. Several defendantsor several plaintiffs may be considered as a single party for the purposes of making challenges, or the court may allow additional peremptory challenges and permit them to be exercised separately or jointly.
+In civil cases, each party shall be entitled to three peremptory challenges. Several defendants or several plaintiffs may be considered as a single party for the purposes of making challenges, or the court may allow additional peremptory challenges and permit them to be exercised separately or jointly.
 
 All challenges for cause or favor, whether to the array or panel or to individual jurors, shall be determined by the court.
 
@@ -21,8 +21,4 @@ Changes were made in phraseology.
 #### Amendments
 
 1959—Pub. L. 86–282 substituted “may” for “shall” after “several plaintiffs”, and “, or the court may allow” for “. If there is more than one defendant the court may allow the defendants”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1876 of this title.
 

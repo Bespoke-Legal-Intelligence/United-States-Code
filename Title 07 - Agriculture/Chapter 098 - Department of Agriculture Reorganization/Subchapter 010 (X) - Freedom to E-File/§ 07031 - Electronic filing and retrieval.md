@@ -40,7 +40,3 @@ Not later than 180 days after June 20, 2000, the Secretary shall submit to Congr
 
 (Pub. L. 106–222, §2, June 20, 2000, 114 Stat. 353.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7032, 7033, and 7034 of this title.
-

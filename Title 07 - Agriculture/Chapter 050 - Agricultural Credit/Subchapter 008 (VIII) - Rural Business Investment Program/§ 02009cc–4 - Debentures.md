@@ -26,7 +26,3 @@ Under this section, the Secretary may—
 
 (Pub. L. 87–128, title III, §384E, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 393.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009cc–2 of this title.
-

@@ -24,7 +24,3 @@ The Foundation is authorized to award scholarships and graduate fellowships for 
 
 Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1862, 1872 of this title; title 15 section 7404.
-

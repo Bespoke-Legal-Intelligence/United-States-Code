@@ -24,7 +24,3 @@ Reimbursements authorized pursuant to this section shall be in accordance with r
 
 (Pub. L. 96–510, title I, §123, as added Pub. L. 99–499, title I, §123(a), Oct. 17, 1986, 100 Stat. 1688.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9611 of this title.
-

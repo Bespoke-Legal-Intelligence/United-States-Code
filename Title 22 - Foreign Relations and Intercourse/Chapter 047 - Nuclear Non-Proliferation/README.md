@@ -69,10 +69,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2778a, 3303, 3408 of this title; title 42 sections 2153c, 2153d, 2153e–1, 2153f, 13492.
-
 
 ---
 

@@ -14,7 +14,7 @@ The Foundation shall not, itself, operate any laboratories or pilot plants.
 
 #### (c) Compensation of members of Board and special commissions
 
-The members of the Board and the members of each special commission shall be entitled to receive compensation for each day engaged in the business of the Foundation at a rate fixed by theChairman but not exceeding the maximum rate payable under section 5376 of title 5 and shall be allowed travel expenses as authorized by section 5703 of title 5. For the purposes of determining the payment of compensation under this subsection, the time spent in travel by any member of the Board or any member of a special commission shall be deemed as time engaged in the business of the Foundation. Members of the Board and members of special commissions may waive compensation and reimbursement for traveling expenses.
+The members of the Board and the members of each special commission shall be entitled to receive compensation for each day engaged in the business of the Foundation at a rate fixed by the Chairman but not exceeding the maximum rate payable under section 5376 of title 5 and shall be allowed travel expenses as authorized by section 5703 of title 5. For the purposes of determining the payment of compensation under this subsection, the time spent in travel by any member of the Board or any member of a special commission shall be deemed as time engaged in the business of the Foundation. Members of the Board and members of special commissions may waive compensation and reimbursement for traveling expenses.
 
 #### (d) Federal officers as members of special commissions; compensation
 
@@ -38,7 +38,7 @@ Notwithstanding any other provision of law, the authorization of any appropriati
 
 #### (i) Public disclosure of information
 
-(1)(A) Information supplied to the Foundation or a contractor of the Foundation in survey forms, questionnaires, or similar instruments for purposes of section 1862(a)(5) or (6) of this title by an individual, an industrial or commercial organization, or an educational, academic, or other nonprofit institution when the institution has received a pledge of confidentiality from the Foundation, shall not be disclosed to the public unless the information has been transformed into statistical or abstract formats that do not allow for the identification of the supplier.
+(1)(A) Information supplied to the Foundation or a contractor of the Foundation in survey forms, questionnaires, or similar instrumentsfor purposes of section 1862(a)(5) or (6) of this title by an individual, an industrial or commercial organization, or an educational, academic, or other nonprofit institution when the institution has received a pledge of confidentiality from the Foundation, shall not be disclosed to the public unless the information has been transformed into statistical or abstract formats that do not allow for the identification of the supplier.
 
 (B) Information that has not been transformed into formats described in subparagraph (A) may be used only for statistical or research purposes.
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of law, the authorization of any appropriati
 
 (3) Violation of this subsection is punishable by a fine of not more than $10,000, imprisonment for not more than 5 years, or both.
 
-(May 10, 1950, ch. 171, §14, 64 Stat. 154; renumbered §15, Pub. L. 85–510, §2, July 11, 1958, 72 Stat. 353; amended Pub. L. 86–232, §8, Sept. 8, 1959, 73 Stat. 469; renumbered §14 and amended Pub. L. 90–407, §§11(2), 12, July 18, 1968, 82 Stat. 365, 366; Pub. L. 91–120, §3, Nov. 18, 1969, 83 Stat. 203; Pub. L. 95–99, §12(c), formerly §14(c), Aug. 15, 1977, 91 Stat. 835, renumbered §12(c), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 99–159, title I, §§109(e)(1), 110(a)(18), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§106, 107, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 101–589, title II, §251, Nov. 16, 1990, 104 Stat. 2894; Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 774; Pub. L. 104–66, title II, §2141(b), Dec. 21,1995, 109 Stat. 731; Pub. L. 105–207, title II, §202(a)(3), July 29, 1998, 112 Stat. 873; Pub. L. 107–368, §15(b), Dec. 19, 2002, 116 Stat. 3058.)
+(May 10, 1950, ch. 171, §14, 64 Stat. 154; renumbered §15, Pub. L. 85–510, §2, July 11, 1958, 72 Stat. 353; amended Pub. L. 86–232, §8, Sept. 8, 1959, 73 Stat. 469; renumbered §14 and amended Pub. L. 90–407, §§11(2), 12, July 18, 1968, 82 Stat. 365, 366; Pub. L. 91–120, §3, Nov. 18, 1969, 83 Stat. 203; Pub. L. 95–99, §12(c), formerly §14(c), Aug. 15, 1977, 91 Stat. 835, renumbered §12(c), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 99–159, title I, §§109(e)(1), 110(a)(18), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§106, 107, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 101–589, title II, §251, Nov. 16, 1990, 104 Stat. 2894; Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 774; Pub. L. 104–66, title II, §2141(b), Dec. 21, 1995, 109 Stat. 731; Pub. L. 105–207, title II, §202(a)(3), July 29, 1998, 112 Stat. 873; Pub. L. 107–368, §15(b), Dec. 19, 2002, 116 Stat. 3058.)
 
 #### References of Text
 
@@ -122,7 +122,7 @@ Authority of Director of National Science Foundation, from time to time, to make
 
 Pub. L. 94–471, §7, Oct. 11, 1976, 90 Stat. 2056, provided that:
 
-“(a) The Director of the National Science Foundation shall initiate an intensive search for qualified women,members of minority groups, and handicapped individuals to fill executive level positions in the National Science Foundation. In carrying out the requirement of this subsection, the Director shall work closely with organizations which have been active in seeking greater recognition and utilization of the scientific and technical capabilities of minorities, women, and handicapped individuals. The Director shall improve the representation of minorities, women, and handicapped individuals on advisory committees, review panels, and all other mechanisms by which the scientific community provides assistance to the Foundation. The Director of the National Science Foundation shall report quarterly to the Congress on the status of minorities, women, and handicapped individuals and activities undertaken pursuant to this section.
+“(a) The Director of the National Science Foundation shall initiate an intensive search for qualified women, members of minority groups, and handicapped individuals to fill executive level positions in the National Science Foundation. In carrying out the requirement of this subsection, the Director shall work closely with organizations which have been active in seeking greater recognition and utilization of the scientific and technical capabilities of minorities, women, and handicapped individuals. The Director shall improve the representation of minorities, women, and handicapped individuals on advisory committees, review panels, and all other mechanisms by which the scientific community provides assistance to the Foundation. The Director of the National Science Foundation shall report quarterly to the Congress on the status of minorities, women, and handicapped individuals and activities undertaken pursuant to this section.
 
 “(b) Notwithstanding any other provision of this or any other Act, the National Science Foundation shall, with funds available from the program “Minorities, Women, and Handicapped Individuals in Science” conduct experimental forums, conferences, workshops or other activities designed to improve scientific literacy and to encourage and assist minorities, women, and handicapped individuals to undertake and to advance in careers in scientific research and science education.
 
@@ -144,15 +144,11 @@ Pub. L. 94–471, §7, Oct. 11, 1976, 90 Stat. 2056, provided that:
 
 &emsp;“(G) will develop joint educational programs with nearby undergraduate institutions of higher education which have a substantial minority student enrollment.
 
-“(3) The Director, in consultation with groups which have been active in seeking greater recognition of the scientific and technical capabilities of minorities, shall establish criteria for the award of the grants, and shall report to the Committee on Science and Technology of the House of Representatives and the Committee on Labor and Public Welfare \[now the Committee on Labor and Human Resources\] of the Senate on the results of activities including an evaluation and assessment of the entire program carried out under this subsection, not later than March 1, 1977.”
+“(3) The Director, in consultation with groups which have been active in seeking greater recognition of the scientific and technical capabilities of minorities, shall establish criteria for the award of the grants, and shall report to the Committee on Science and Technology of the House of Representatives and the Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\] of the Senate on the results of activities including an evaluation and assessment of the entire program carried out under this subsection, not later than March 1, 1977.”
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
 Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1862, 1863, 1874 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,3 @@ Another section 501 of title V of Pub. L. 93–415, as added by Pub. L. 102–58
 
 1974—Pub. L. 93–415 amended section generally, inserting “or for the purpose of proceedings and disposition under this chapter for an alleged act of juvenile delinquency, a person who has not attained his twenty-first birthday” after “eighteenth birthday,” and substituting “committed by a person prior to his eighteenth birthday which would have been a crime if committed by an adult”, for “committed by a juvenile and not punishable by death or life imprisonment.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3006A of this title.
-

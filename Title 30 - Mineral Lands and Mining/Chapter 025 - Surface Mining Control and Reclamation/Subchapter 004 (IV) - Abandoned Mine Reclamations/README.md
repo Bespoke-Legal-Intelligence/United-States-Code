@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—ABANDONED MINE RECLAMATIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1211, 1253, 1309b of this title; title 33 section 2336.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 
 

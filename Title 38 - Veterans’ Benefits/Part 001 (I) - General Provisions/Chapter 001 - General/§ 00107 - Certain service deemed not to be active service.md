@@ -124,7 +124,3 @@ Amendment by Pub. L. 87–268 effective Oct. 1, 1961, see section 3 of Pub. L. 8
 
 Section 1 of Pub. L. 89–641 provided for refund of erroneously deducted insurance premiums to Philippine armed forces members in service of the United States Armed Forces, such refund to be made upon receipt of an application within two years after Oct. 11, 1966. In event of death of such member, refund was to be made only to widow or widower, children or parents of such member, in that order, with no refunds to heirs or legal representatives.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1925, 2402 of this title; title 8 sections 1612, 1613, 1622.
-

@@ -54,7 +54,7 @@ Effective date.—Paragraph (1) shall take effect as if such paragraph had becom
 
 #### Mandatory Merger of System Institutions
 
-Section 410 of Pub. L. 100–233, as amended by Pub. L. 100–399, title IV, §402, Aug. 17, 1988, 102 Stat. 999; Pub.L. 102–552, title IV, §401(a), Oct. 28, 1992, 106 Stat. 4116, provided that:
+Section 410 of Pub. L. 100–233, as amended by Pub. L. 100–399, title IV, §402, Aug. 17, 1988, 102 Stat. 999; Pub. L. 102–552, title IV, §401(a), Oct. 28, 1992, 106 Stat. 4116, provided that:
 
 “(a)
 
@@ -242,7 +242,7 @@ Certification of plan.—Not later than 30 days after the receipt of the plan de
 
 &emsp;&emsp;&emsp;“(ii) recommend to the arbitrator revisions to the plan that, if incorporated into the plan, will allow the Farm Credit Administration to certify,
 
-&nbsp;&nbsp;that the resulting bank and any resulting associations are proposed to be organized in such a fashion that they will, on implementation of the plan, operate in compliance with applicable laws and regulations. The arbitrator and the Farm Credit Administration shall work cooperatively to ensure the expeditious issuance of the certification. If the Farm Credit Administration recommends to the arbitrator revisions to the plan that, if incorporated into the plan, will allow the Farm Credit Administration to certify the plan, the arbitrator shall, not later than 15 days after receipt of the recommended revisions, incorporate the revisions into the plan as the arbitrator deems appropriate to secure the certification.
+&nbsp;&nbsp;that the resulting bank and any resulting associations are proposed to be organized in such a fashion that they will, on implementation of the plan, operate in compliance with applicable laws and regulations. The arbitrator and the Farm Credit Administration shall work cooperatively to ensure the expeditious issuance of the certification. If the Farm Credit Administration recommends to the arbitrator revisions to the plan that, if incorporated into the plan, will allow the Farm Credit Administration to certify the plan, the arbitrator shall, not later than 15 days after receipt of the recommended revisions, incorporate the revisions into the plan asthe arbitrator deems appropriate to secure the certification.
 
 &emsp;&emsp;“(F)
 
@@ -318,11 +318,11 @@ Safety and soundness.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—Except as provided in clause (ii), if at any time prior to the completion of the merger required under this subsection the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is being operated in an unsafe or unsound manner (as determined in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)), the Farm Credit Administration, after consultation with the respective boards of directors of the affected banks and taking into consideration the purposes of this subsection, may require the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank, subject to such terms and conditions as the Farm Credit Administration may prescribe. The Farm Credit System Insurance Corporation shall expend amounts in the Farm Credit Insurance Fund to the extent necessary to facilitate the merger prescribed under this subparagraph, including the provision of assistance as provided in section 5.61(a)(2)(A)(iii) of the Farm Credit Act of 1971 (12 U.S.C. 2277a–10(a)(2)(A)(iii)), on such terms and conditions as the Corporation deems appropriate.
+In general.—Except as provided in clause (ii), if at any time prior to the completion of the merger required under this subsection the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is beingoperated in an unsafe or unsound manner (as determined in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)), the Farm Credit Administration, after consultation with the respective boards of directors of the affected banks and taking into consideration the purposes of this subsection, may require the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank, subject to such terms and conditions as the Farm Credit Administration may prescribe. The Farm Credit System Insurance Corporation shall expend amounts in the Farm Credit Insurance Fund to the extent necessary to facilitate the merger prescribed under this subparagraph, including the provision of assistance as provided in section 5.61(a)(2)(A)(iii) of the Farm Credit Act of 1971 (12 U.S.C. 2277a–10(a)(2)(A)(iii)), on such terms and conditions as the Corporation deems appropriate.
 
 &emsp;&emsp;&emsp;“(ii)
 
-Arbitrated merger.—If at any time after the Farm Credit Administration issues an order under paragraph (1)(D), but prior to the completion of the merger required under this subsection, the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is being operated in an unsafe or unsound manner (as determined in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)), the Farm Credit Administration shall, after consultation with the boards of directors of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank of Texas, take such action as it deems necessary pursuant to the authorities provided under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) to return the operation of the Federal Intermediate Credit Bank of Jackson to a safeand sound condition, pending the completion of the merger under paragraph (2).
+Arbitrated merger.—If at any time after the Farm Credit Administration issues an order under paragraph (1)(D), but prior to the completion of the merger required under this subsection, the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is being operated in an unsafe or unsound manner (as determined in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)), the Farm Credit Administration shall, after consultation with the boards of directors of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank of Texas, take such action as it deems necessary pursuant to the authorities provided under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) to return the operation of the Federal Intermediate Credit Bank of Jackson to a safe and sound condition, pending the completion of the merger under paragraph (2).
 
 &emsp;&emsp;“(J)
 
@@ -378,5 +378,5 @@ Procedures.—Notwithstanding the United States Arbitration Act (9 U.S.C. 1 et s
 
 &emsp;&emsp;&emsp;“(iii)
 
-Expedited review.—Any such proceeding before the court shall be assigned for hearing and completed at the earliest possible date, and shall be expedited in every way. The court shall render its final decision relative to any challenge as soon as possible in accordance with the United States Arbitration Act (9 U.S.C. 1 et seq.), or not later than 30 days from the date the challenge is brought, whichever is sooner, unless the court determines that a longer period of time is required to satisfy the requirements of the Constitution.”
+Expedited review.—Any such proceeding before the court shall be assigned for hearing and completed at the earliest possible date, and shall be expedited in every way. The court shall render its final decision relative to any challenge as soonas possible in accordance with the United States Arbitration Act (9 U.S.C. 1 et seq.), or not later than 30 days from the date the challenge is brought, whichever is sooner, unless the court determines that a longer period of time is required to satisfy the requirements of the Constitution.”
 

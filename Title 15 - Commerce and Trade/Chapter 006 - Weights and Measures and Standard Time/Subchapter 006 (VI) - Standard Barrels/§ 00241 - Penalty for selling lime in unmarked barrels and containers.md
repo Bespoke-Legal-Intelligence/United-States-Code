@@ -4,7 +4,3 @@ It shall be unlawful to pack, sell, or offer for sale for shipment from any Stat
 
 (Aug. 23, 1916, ch. 396, §5, 39 Stat. 531.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 240, 242 of this title.
-

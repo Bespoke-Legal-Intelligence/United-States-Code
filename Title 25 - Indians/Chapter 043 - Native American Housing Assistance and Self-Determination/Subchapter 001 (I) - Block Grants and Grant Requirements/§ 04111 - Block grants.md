@@ -38,7 +38,7 @@ Notwithstanding any other provision of this chapter, grant amounts provided unde
 
 #### (e) Effect of failure to exempt from taxation
 
-Notwithstanding subsection (d) of this section, a grant recipient that does not comply with therequirements under such subsection may receive a block grant under this chapter, but only if the tribe, State, city, county, or other political subdivision in which the affordable housing development is located contributes, in the form of cash or tax remission, the amount by which the taxes paid with respect to the development exceed the amounts prescribed in subsection (d)(2) of this section.
+Notwithstanding subsection (d) of this section, a grant recipient that does not comply with the requirements under such subsection may receive a block grant under this chapter, but only if the tribe, State, city, county, or other political subdivision in which the affordable housing development is located contributes, in the form of cash or tax remission, the amount by which the taxes paid with respect to the development exceed the amounts prescribed in subsection (d)(2) of this section.
 
 #### (f) Amount
 

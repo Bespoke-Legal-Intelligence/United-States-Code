@@ -4,7 +4,3 @@ The Secretary of the Interior, prior to any conveyance under this chapter, shall
 
 (Pub. L. 87–851, §5, Oct. 23, 1962, 76 Stat. 1128.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701, 704 of this title.
-

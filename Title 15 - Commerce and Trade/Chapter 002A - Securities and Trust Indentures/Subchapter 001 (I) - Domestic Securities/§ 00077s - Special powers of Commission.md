@@ -8,7 +8,7 @@ The Commission shall have authority from time to time to make, amend, and rescin
 
 #### (1) In general
 
-&emsp;In carrying out its authority under subsection (a) of this section and under section 78m(b) of this title, the Commission may recognize, as “generally accepted” for purposes of the securities laws, any accounting principles established by a standard setting body—
+&emsp;In carrying out its authority under subsection (a) of this section and under section 78m(b) of this title, the Commission may recognize, as “generally accepted” for purposes ofthe securities laws, any accounting principles established by a standard setting body—
 
 &emsp;&emsp;(A) that—
 
@@ -64,7 +64,7 @@ For the purpose of all investigations which, in the opinion of the Commission, a
 
 &emsp;(B) any forum, agency, or organization, or group referred to in section 80c–1 of this title, while such forum, agency, organization, or group is carrying out activities in furtherance of the provisions of such section 80c–1.
 
-> As used in this paragraph, the terms “association”, “conference”, “meeting”, “forum”, “agency”, “organization”, and “group” include any committee, subgroup, or representative of such entities.
+> As used in this paragraph, the terms “association”, “conference”, “meeting”, “forum”,“agency”, “organization”, and “group” include any committee, subgroup, or representative of such entities.
 
 (May 27, 1933, ch. 38, title I, §19, 48 Stat. 85; June 6, 1934, ch. 404, title II, §209, 48 Stat. 908; Pub. L. 94–210, title III, §308(a)(2), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title V, §505, Oct. 21, 1980, 94 Stat. 2292; Pub. L. 100–181, title II, §207, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 107–204, title I, §108(a), July 30, 2002, 116 Stat. 768.)
 
@@ -91,8 +91,4 @@ Amendment by Pub. L. 94–210 effective on 60th day after Feb. 5, 1976, but not 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78u, 7201, 7218, 7219 of this title.
 

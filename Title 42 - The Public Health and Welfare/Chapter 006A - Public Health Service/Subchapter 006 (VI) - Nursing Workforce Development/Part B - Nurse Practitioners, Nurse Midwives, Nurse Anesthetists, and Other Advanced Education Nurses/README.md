@@ -4,10 +4,6 @@ Part B—Nurse Practitioners, Nurse Midwives, Nurse Anesthetists, and Other Adva
 
 A prior part B related to assistance to nursing students and consisted of sections 297 to 297n, prior to the general amendment of this subchapter by Pub. L. 105–392.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 296e, 297q of this title.
-
 
 ---
 

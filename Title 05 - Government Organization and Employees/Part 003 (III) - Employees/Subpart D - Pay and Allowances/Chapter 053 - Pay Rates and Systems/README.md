@@ -12,6 +12,7 @@
 | [5305\.](Subchapter%20001%20%28I%29%20-%20Pay%20Comparability%20System/%C2%A7%2005305%20-%20Special%20pay%20authority.md) | Special pay authority. |
 | [5306\.](Subchapter%20001%20%28I%29%20-%20Pay%20Comparability%20System/%C2%A7%2005306%20-%20Pay%20fixed%20by%20administrative%20action.md) | Pay fixed by administrative action. |
 | [5307\.](Subchapter%20001%20%28I%29%20-%20Pay%20Comparability%20System/%C2%A7%2005307%20-%20Limitation%20on%20certain%20payments.md) | Limitation on certain payments. |
+| \[5308. | Omitted.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -163,10 +164,6 @@ Pub. L. 95–251, §2(c)(4), Mar. 27, 1978, 92 Stat. 184, substituted “Adminis
 1969—Pub. L. 91–34, §1(b), June 30, 1969, 83 Stat. 41, added item 5365.
 
 1967—Pub. L. 90–206, title II, §223(b), Dec. 16, 1967, 81 Stat. 642, added item 5345.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3372, 5363, 9503 of this title; title 6 section 411; title 10 section 9314; title 15 section 770; title 20 sections 1018, 3502; title 22 sections 2124c, 2385, 3963, 4606; title 35 section 3; title 38 sections 7404, 7451; title 42 sections 5872, 7292.
 
 
 ---

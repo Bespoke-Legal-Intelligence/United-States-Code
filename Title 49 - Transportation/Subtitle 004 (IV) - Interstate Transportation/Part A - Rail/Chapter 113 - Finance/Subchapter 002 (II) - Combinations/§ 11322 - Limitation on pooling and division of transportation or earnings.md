@@ -18,7 +18,3 @@ Provisions similar to those in this section were contained in section 11342 of t
 
 A prior section 11322, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1433, related to restrictions on officers and directors of carriers, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See section 11328 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11327, 24301, 24305 of this title.
-

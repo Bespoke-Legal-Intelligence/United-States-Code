@@ -34,7 +34,3 @@
 
 Provisions similar to those in this subchapter were contained in section 4110 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7461, 7464 of this title.
-

@@ -14,7 +14,3 @@ Dealers and exhibitors shall make and retain for such reasonable period of time 
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2143, 2146, 2154 of this title.
-

@@ -1,5 +1,5 @@
 
-31 U.S.C.<br>United States Code, 2003 Edition<br>Title 31 - MONEY AND FINANCE<br>From the U.S. Government Publishing Office, www.gpo.gov
+31 U.S.C.<br>United States Code, 2004 Edition<br>Title 31 - MONEY AND FINANCE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 31—MONEY AND FINANCE
 
@@ -3959,10 +3959,6 @@ Pub. L. 97–452, §3, Jan. 12, 1983, 96 Stat. 2479, provided that:
 “(e) An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of the caption or catchline of the provision.
 
 “(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 12 sections 93, 1464, 1722d, 1786, 1818; title 26 section 6050I; title 28 section 613; title 40 section 590; title 45 section 231n; title 49 sections 24301, 40125.
 
 
 ---

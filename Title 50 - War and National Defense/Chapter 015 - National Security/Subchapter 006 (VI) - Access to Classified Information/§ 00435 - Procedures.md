@@ -34,7 +34,7 @@ Section 802(c) of Pub. L. 103–359 provided that: “The amendments made by sub
 
 #### Declassification of Information
 
-Pub. L. 106–567, title VII, Dec. 27, 2000, 114 Stat. 2856, provided that:
+Pub. L. 106–567, title VII, Dec. 27, 2000, 114 Stat. 2856, as amended by Pub. L. 108–458, title I, §1102, Dec. 17, 2004, 118 Stat. 3699, provided that:
 
 #### “SEC. 701. SHORT TITLE.
 
@@ -52,7 +52,9 @@ Pub. L. 106–567, title VII, Dec. 27, 2000, 114 Stat. 2856, provided that:
 
 “(a)
 
-Establishment.—There is established within the executive branch of the United States a board to be known as the ‘Public Interest Declassification Board’ (in this title referred to as the ‘Board’).
+Establishment.—(1) There is established within the executive branch of the United States a board to be known as the ‘Public Interest Declassification Board’ (in this title referred to as the ‘Board’).
+
+“(2) The Board shall report directly to the President or, upon designation by the President, the Vice President, the Attorney General, or other designee of the President. The other designee of the President under this paragraph may not be an agency head or official authorized to classify information under Executive Order 12958 \[set out below\], or any successor order.
 
 “(b)
 
@@ -73,6 +75,8 @@ Purposes.—The purposes of the Board are as follows:
 &emsp;“(3) To provide recommendations to the President for the identification, collection, and review for declassification of information of extraordinary public interest that does not undermine the national security of the United States, to be undertaken in accordance with a declassification program that has been established or may be established by the President by Executive order.
 
 &emsp;“(4) To advise the President, the Assistant to the President for National Security Affairs, the Director of the Office of Management and Budget, and such other executive branch officials as the Board considers appropriate on policies deriving from the issuance by the President of Executive orders regarding the classification and declassification of national security information.
+
+&emsp;“(5) To review and make recommendations to the President in a timely manner with respect to any congressional request, made by the committee of jurisdiction, to declassify certain records or to reconsider a declination to declassify specific records.
 
 “(c)
 
@@ -148,7 +152,7 @@ Compensation.—(1) Each member of the Board shall receive compensation at a rat
 
 Guidance; Annual Budget.—(1) On behalf of the President, the Assistant to the President for National Security Affairs shall provide guidance on policy to the Board.
 
-“(2) The Executive Secretary of the Board, under the direction of the Chairperson of the Board and the Board, and acting in consultation with the Archivist of the United States, the Assistant to the President forNational Security Affairs, and the Director of the Office of Management and Budget, shall prepare the annual budget of the Board.
+“(2) The Executive Secretary of the Board, under the direction of the Chairperson of the Board and the Board, and acting in consultation with the Archivist of the United States, the Assistant to the President for National Security Affairs, and the Director of the Office of Management and Budget, shall prepare the annual budget of the Board.
 
 “(j)
 
@@ -186,7 +190,7 @@ Recommendations on Special Searches for Records of Extraordinary Public Interest
 
 “(2) In making recommendations under paragraph (1), the Board shall consider the following:
 
-&emsp;“(A) The opinions and requests of Members of Congress, including opinions and requests expressed or embodied in letters or legislative proposals.
+&emsp;“(A) The opinions and requests of Members of Congress, including opinions and requests expressed or embodied in letters or legislative proposals, and also including specific requests for the declassification of certain records or for the reconsideration of declinations to declassify specific records.
 
 &emsp;“(B) The opinions and requests of the National Security Council, the Director of Central Intelligence, and the heads of other agencies.
 
@@ -208,6 +212,10 @@ President's Declassification Priorities.—(1) Concurrent with the submission to
 
 “(2) Nothing in this title shall be construed to substitute or supersede, or establish a funding process for, any declassification program that has been established or may be established by the President by Executive order.
 
+“(e)
+
+Declassification Reviews.—If requested by the President, the Board shall review in a timely manner certain records or declinations to declassify specific records, the declassification of which has been the subject of specific congressional request described in section 703(b)(5).
+
 #### “SEC. 705. PROTECTION OF NATIONAL SECURITY INFORMATION AND OTHER INFORMATION.
 
 “(a)
@@ -220,11 +228,11 @@ Special Access Programs.—Nothing in this title shall be construed to limit the
 
 “(c)
 
-Authorities of Director of Central Intelligence.—Nothing in this title shall be construed to limit the authorities of the Director of Central Intelligence as the head of the intelligence community, including the Director's responsibility to protect intelligence sources and methods from unauthorized disclosure as required by section 103(c)(6) \[now (c)(7)\] of the National Security Act of 1947 (50 U.S.C. 403–3(c)(6) \[now (c)(7)\]).
+Authorities of Director of Central Intelligence.—Nothing in this title shall be construed to limit the authorities of the Director of Central Intelligence as the head of the intelligence community, including the Director's responsibility to protect intelligence sources and methods from unauthorized disclosure as required by section 103(c)(6) of the National Security Act of 1947 (\[former\] 50 U.S.C. 403–3(c)(6)).
 
 “(d)
 
-Exemptions to Release of Information.—Nothing in this title shall be construed to limit any exemption or exception to the release to the public under this title of information that is protected under subsection (b) of section 552 of title 5, United States Code (commonly referred to as the ‘Freedom of Information Act’), or section 552a of title 5, United States Code (commonly referred to as the ‘Privacy Act’).
+Exemptions to Release of Information.—Nothing in this title shall be construed to limit any exemption or exception to the release to the public under this title of information that is protected under subsection\(b) of section 552 of title 5, United States Code (commonly referred to as the ‘Freedom of Information Act’), or section 552a of title 5, United States Code (commonly referred to as the ‘Privacy Act’).
 
 “(e)
 
@@ -240,7 +248,7 @@ Liaison.—(1) The head of each agency with the authority under an Executive ord
 
 “(b)
 
-Limitations on Access.—(1)(A) Except as provided in paragraph (2), if the head of an agency or thehead of a Federal Presidential library determines it necessary to deny or restrict access of the Board, or of the agency or library liaison to the Board, to information contained in a record or material, in whole or in part, the head of the agency or the head of the library shall promptly notify the Board in writing of such determination.
+Limitations on Access.—(1)(A) Except as provided in paragraph (2), if the head of an agency or the head of a Federal Presidential library determines it necessary to deny or restrict access of the Board, or of the agency or library liaison to the Board, to information contained in a record or material, in whole or in part, the head of the agency or the head of the library shall promptly notify the Board in writing of such determination.
 
 “(B) Each notice to the Board under subparagraph (A) shall include a description of the nature of the records or materials, and a justification for the determination, covered by such notice.
 
@@ -258,7 +266,7 @@ Discretion To Protect.—At the conclusion of a declassification review, the hea
 
 Reports.—(1)(A) Except as provided in paragraph (2), the Board shall annually submit to the appropriate congressional committees a report on the activities of the Board under this title, including summary information regarding any denials to the Board by the head of an agency or the head of a Federal Presidential library of access to records or materials under this title.
 
-“(B) In this paragraph, the term ‘appropriate congressional committees’ means the Select Committee on Intelligence and the Committee on Governmental Affairs of the Senate and the Permanent Select Committee on Intelligence and the Committee on Government Reform of the House of Representatives.
+“(B) In this paragraph, the term ‘appropriate congressional committees’ means the Select Committee on Intelligence and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Permanent Select Committee on Intelligence and the Committee on Government Reform of the House of Representatives.
 
 “(2) Notwithstanding paragraph (1), notice that the Board has been denied access to records and materials, and a justification for the determination in support of the denial, shall be submitted by the agency denying the access as follows:
 
@@ -267,6 +275,10 @@ Reports.—(1)(A) Except as provided in paragraph (2), the Board shall annually 
 &emsp;“(B) In the case of the denial of access to a special access program created by the Director of Central Intelligence, or by the head of any other agency (including the Department of Defense) if the special access program pertains to intelligence activities, or of access to any information and materials relating to intelligence sources and methods, to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 &emsp;“(C) In the case of the denial of access to a special access program created by the Secretary of Energy or the Administrator for Nuclear Security, to the Committees on Armed Services and Appropriations and the Select Committee on Intelligence of the Senate and to the Committees on Armed Services and Appropriations and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+“(f)
+
+Notification of Review.—In response to a specific congressional request for declassification review described in section 703(b)(5), the Board shall advise the originators of the request in a timely manner whether the Board intends to conduct such review.
 
 #### “SEC. 707. JUDICIAL REVIEW.
 
@@ -348,7 +360,9 @@ Effective Date.—This title shall take effect on the date that is 120 days afte
 
 “(b)
 
-Sunset.—The provisions of this title shall expire 4 years after the date of the enactment of this Act, unless reauthorized by statute.”
+Sunset.—The provisions of this title shall expire 8 years after the date of the enactment of this Act, unless reauthorized by statute.”
+
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.\]
 
 #### Compilation and Organization of Previously Declassified Records
 
@@ -390,111 +404,19 @@ Report on Automatic Declassification of Department of Defense Records.—Not lat
 
 #### Supplement to Plan for Declassification of Restricted Data and Formerly Restricted Data
 
-Pub. L. 106–65, div. C, title XXXI, §3149, Oct. 5, 1999, 113 Stat. 938, provided that:
-
-“(a)
-
-Supplement to Plan.—The Secretary of Energy and the Archivist of the United States shall, after consultation with the members of the National Security Council and in consultation with the Secretary of Defense and the heads of other appropriate Federal agencies, develop a supplement to the plan required under subsection (a) of section 3161 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2260 \[2259\]; 50 U.S.C. 435 note).
-
-“(b)
-
-Contents of Supplement.—The supplement shall provide for the application of that plan (including in particular the element of the plan required by section 3161(b)(1) of that Act) to all records subject to Executive Order No. 12958 \[set out below\] that were determined before the date of the enactment of that Act \[Oct. 17, 1998\] to be suitable for declassification.
-
-“(c)
-
-Limitation on Declassification of Records.—All records referred to in subsection (b) shall be treated, for purposes of section 3161(c) of that Act, in the same manner as records referred to in section 3161(a) of that Act.
-
-“(d)
-
-Submission of Supplement.—The Secretary of Energy shall submit the supplement required under subsection (a) to the recipients of the plan referred to in section 3161(d) of that Act.”
+Pub. L. 106–65, div. C, title XXXI, §3149, Oct. 5, 1999, 113 Stat. 938, which was formerly set out as a note under this section, was renumbered section 4523 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(13)(A)–(C), Nov. 24, 2003, 117 Stat. 1775, and is classified to section 2673 of this title.
 
 #### Identification in Budget Materials of Amounts for Declassification Activities and Limitation on Expenditures for Such Activities
 
-Pub. L. 106–65, div. C, title XXXI, §3173, Oct. 5, 1999, 113 Stat. 949, provided that:
-
-“(a)
-
-Amounts for Declassification of Records.—The Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code) specific identification, as a budgetary line item, of the amounts required to carry out programmed activities during that fiscal year to declassify records pursuant to Executive Order No. 12958 (50 U.S.C. 435 note), or any successor Executive order, or to comply with any statutory requirement to declassify Government records.
-
-“(b)
-
-Certification Required With Respect To Automatic Declassification of Records.—No records of the Department of Energy that have not as of the date of the enactment of this Act \[Oct. 5, 1999\] been reviewed for declassification shall be subject to automatic declassification unless the Secretary of Energy certifies to Congress that such declassification would not harm the national security.
-
-“(c)
-
-Report on Automatic Declassification of Department of Energy Records.—Not later than February 1, 2001, the Secretary of Energy shall submit to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate a report on the efforts of the Department of Energy relating to the declassification of classified records under the control of the Department of Energy. Such report shall include the following:
-
-&emsp;“(1) An assessment of whether the Department will be able to review all relevant records for declassification before any date established for automatic declassification.
-
-&emsp;“(2) An estimate of the number of records, if any, that the Department will be unable to review for declassification before any such date and the effect on national security of the automatic declassification of those records.
-
-&emsp;“(3) An estimate of the length of time by which any such date would need to be extended to avoid the automatic declassification of records that have not yet been reviewed as of such date.”
+Pub. L. 106–65, div. C, title XXXI, §3173, Oct. 5, 1999, 113 Stat. 949, which was formerly set out as a note under this section, was renumbered section 4525 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(15)(A)–(C), Nov. 24, 2003, 117 Stat. 1775, and is classified to section 2675 of this title.
 
 #### Protection Against Inadvertent Release of Restricted Data and Formerly Restricted Data
 
-Pub. L. 105–261, div. C, title XXXI, §3161, Oct. 17, 1998, 112 Stat. 2259, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. C, title XXXI, §3193(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480, provided that:
-
-“(a)
-
-Plan for Protection Against Release.—The Secretary of Energy and the Archivist of the United States shall, after consultation with the members of the National Security Council and in consultation with the Secretary of Defense and the heads of other appropriate Federal agencies, develop a plan to prevent the inadvertent release of records containing Restricted Data or Formerly Restricted Data during the automatic declassification of records under Executive Order No. 12958 (50 U.S.C. 435 note).
-
-“(b)
-
-Plan Elements.—The plan under subsection (a) shall include the following:
-
-&emsp;“(1) The actions to be taken in order to ensure that records subject to Executive Order No. 12958 are reviewed on a page-by-page basis for Restricted Data and Formerly Restricted Data unless they have been determined to be highly unlikely to contain Restricted Data or Formerly Restricted Data.
-
-&emsp;“(2) The criteria and process by which documents are determined to be highly unlikely to contain Restricted Data or Formerly Restricted Data.
-
-&emsp;“(3) The actions to be taken in order to ensure proper training, supervision, and evaluation of personnel engaged in declassification under that Executive order so that such personnel recognize Restricted Data and Formerly Restricted Data.
-
-&emsp;“(4) The extent to which automated declassification technologies will be used under that Executive order to protect Restricted Data and Formerly Restricted Data from inadvertent release.
-
-&emsp;“(5) Procedures for periodic review and evaluation by the Secretary of Energy, in consultation with the Director of the Information Security Oversight Office of the National Archives and Records Administration, of compliance by Federal agencies with the plan.
-
-&emsp;“(6) Procedures for resolving disagreements among Federal agencies regarding declassification procedures and decisions under the plan.
-
-&emsp;“(7) The funding, personnel, and other resources required to carry out the plan.
-
-&emsp;“(8) A timetable for implementation of the plan.
-
-“(c)
-
-Limitation on Declassification of Certain Records.—(1) Effective on the date of the enactment of this Act \[Oct. 17, 1998\] and except as provided in paragraph (3), a record referred to in subsection (a) may not be declassified unless the agency having custody of the record reviews the record on a page-by-page basis to ensure that the record does not contain Restricted Data or Formerly Restricted Data.
-
-“(2) Any record determined as a result of a review under paragraph (1) to contain Restricted Data or Formerly Restricted Data may not be declassified until the Secretary of Energy, in conjunction with the head of the agency having custody of the record, determines that the document is suitable for declassification.
-
-“(3) After the date occurring 60 days after the submission of the plan required by subsection (a) to the committees referred to in paragraphs (1) and (2) of subsection (d), the requirement under paragraph (1) to review a record on a page-by-page basis shall not apply in the case of a record determined, under the actions specified in the plan pursuant to subsection (b)(1), to be a record that is highly unlikely to contain Restricted Data or Formerly Restricted Data.
-
-“(d)
-
-Submission of Plan.—The Secretary of Energy shall submit the plan required under subsection (a) to the following:
-
-&emsp;“(1) The Committee on Armed Services of the Senate.
-
-&emsp;“(2) The Committee on Armed Services of the House of Representatives.
-
-&emsp;“(3) The Assistant to the President for National Security Affairs.
-
-“(e)
-
-Submission of Reviews.—The Secretary of Energy shall, on a periodic basis, submit a summary of the results of the periodic reviews and evaluations specified in the plan pursuant to subsection (b)(4) to the committees and Assistant to the President specified in subsection (d).
-
-“(f)
-
-Report and Notification Regarding Inadvertent Releases.—(1) The Secretary of Energy shall submit to the committees and Assistant to the President specified in subsection (d) a report on inadvertent releases of Restricted Data or Formerly Restricted Data under Executive Order No. 12958 that occurred before the date of the enactment of this Act.
-
-“(2) The Secretary of Energy shall, on a quarterly basis, submit a report to the committees and Assistant to the President specified in subsection (d). The report shall state whether any inadvertent releases described in paragraph (1) occurred during the immediately preceding quarter and, if so, shall identify each such release.
-
-“(g)
-
-Definition.—In this section, the term ‘Restricted Data’ has the meaning given that term in section 11 y. of the Atomic Energy Act of 1954 (42 U.S.C. 2014(y)).”
-
-\[Pub. L. 106–398, §1 \[div. C, title XXXI, §3193(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, provided that: “The amendment made by subsection (a) \[amending section 3161 of Pub. L. 105–261, set out above\] apply \[sic\] with respect to inadvertent releases of Restricted Data and Formerly Restricted Data that are discovered on or after the date of the enactment of this Act \[Oct. 30, 2000\].”\]
+Pub. L. 105–261, div. C, title XXXI, §3161, Oct. 17, 1998, 112 Stat. 2259, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. C, title XXXI, §3193(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480, which was formerly set out as a note under this section, was renumbered section 4522 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(12)(A)–(C), Nov. 24, 2003, 117 Stat. 1774, and is classified to section 2672 of this title.
 
 #### Secrecy Agreements Used in Intelligence Activities
 
-Pub. L. 104–93, title III, §306, Jan. 6, 1996, 109 Stat. 966, provided that: “Notwithstanding any other provision of law not specifically referencing this section, a nondisclosure policy form or agreement that is to be executed by a person connected with the conduct of an intelligence or intelligence-related activity, other than an employee or officer of the United States Government, may contain provisions appropriate to the particular activity for which such document is to be used. Such form or agreement shall, at a minimum—
+Pub. L. 104–93, title III, §306, Jan. 6, 1996, 109 Stat. 966, provided that: “Notwithstanding any other provision oflaw not specifically referencing this section, a nondisclosure policy form or agreement that is to be executed by a person connected with the conduct of an intelligence or intelligence-related activity, other than an employee or officer of the United States Government, may contain provisions appropriate to the particular activity for which such document is to be used. Such form or agreement shall, at a minimum—
 
 &emsp;“(1) require that the person will not disclose any classified information received in the course of such activity unless specifically authorized to do so by the United States Government; and
 
@@ -506,19 +428,7 @@ Pub. L. 104–93, title III, §306, Jan. 6, 1996, 109 Stat. 966, provided that: 
 
 #### Voluntary Service Program
 
-Pub. L. 104–93, title IV, §402, Jan. 6, 1996, 109 Stat. 969, provided that:
-
-“(a)
-
-General Authority.—The Director of Central Intelligence is authorized to establish and maintain a program from fiscal years 1996 through 2001 to utilize the services contributed by not more than 50 annuitants who serve without compensation as volunteers in aid of the review for declassification or downgrading of classified information by the Central Intelligence Agency under applicable Executive orders governing the classification and declassification of national security information and Public Law 102–526 \[44 U.S.C. 2107 note\].
-
-“(b)
-
-Costs Incidental to Services.—The Director is authorized to use sums made available to the Central Intelligence Agency by appropriations or otherwise for paying the costs incidental to the utilization of services contributed by individuals under subsection (a). Such costs may include (but need not be limited to) training, transportation, lodging, subsistence, equipment, and supplies. The Director may authorize either direct procurement of equipment, supplies, and services, or reimbursement for expenses, incidental to the effective use of volunteers. Such expenses or services shall be in accordance with volunteer agreements made with such individuals. Sums made available for such costs may not exceed $100,000.
-
-“(c)
-
-Application of Certain Provisions of Law.—A volunteer under this section shall be considered to be a Federal employee for the purposes of subchapter I of title \[chapter\] 81 \[of title 5\] (relating to compensation of Federal employees for work injuries) and section 1346(b) and chapter 171 of title 28 (relating to tort claims). A volunteer under this section shall be covered by and subject to the provisions of chapter 11 of title 18 of the United States Code as if they were employees or special Government employees depending upon the days of expected service at the time they begin volunteering.”
+Pub. L. 104–93, title IV, §402, Jan. 6, 1996, 109 Stat. 969, authorized the Director of Central Intelligence to establish and maintain a program from fiscal years 1996 through 2001 to utilize the services contributed by not more than 50 annuitants who served without compensation as volunteers in aid of the review for declassification or downgrading of classified information by the Central Intelligence Agency under applicable Executive orders governing the classification and declassification of national security information and Pub. L. 102–526 (44 U.S.C. 2107 note).
 
 #### Commission on Protecting and Reducing Government Secrecy
 
@@ -610,7 +520,7 @@ In General.—(1) The Commission or, on the authorization of the Commission, any
 
 > as the Commission or such designated subcommittee or designated member may deem advisable.
 
-“(2) Subpoenas issued under paragraph (1)(B) may be issued under the signature of the Chairman of the Commission, the chairman of any designated subcommittee, or any designated member, and may be served byany person designated by such Chairman, subcommittee chairman, or member. The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section.
+“(2) Subpoenas issued under paragraph (1)(B) may be issued under the signature of the Chairman of the Commission, the chairman of any designated subcommittee, or any designated member, and may be served by any person designated by such Chairman, subcommittee chairman, or member. The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section.
 
 “(b)
 
@@ -694,7 +604,7 @@ In General.—(1) Not later than February 1 of each year, the head of each cover
 
 &emsp;&emsp;“(iii) the actual cost of the program for each fiscal year during which the program has been conducted before the fiscal year during which that budget is submitted; and
 
-&emsp;&emsp;“(iv) the estimated total cost of the program and the estimated cost of the program for (I) the current fiscal year, (II) the fiscal year for which the budget is submitted, and (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
+&emsp;&emsp;“(iv) the estimated total cost of the program and the estimated cost of the program for (I) the current fiscal year, (II) the fiscal year for which thebudget is submitted, and (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
 
 “(b)
 
@@ -858,7 +768,7 @@ Section 1. When used in this order, the term “head of a department” means th
 
 Sec. 2. An authorization for access to classified information pursuant to Executive Order No. 12829 \[set out below\] may be granted by the head of a department or his designee, including but not limited to, those officials named in section 8 of this order, to an individual, hereinafter termed an “applicant”, for a specific classification category only upon a finding that it is clearly consistent with the national interest to do so.
 
-Sec. 3. Except as provided in section 9 of this order, an authorization for access to a specific classification category may not be finally denied or revoked pursuant to Executive Order No. 12829 \[set out below\] by the headof a department or his designee, including, but not limited to, those officials named in section 8 of this order, unless the applicant has been given the following:
+Sec. 3. Except as provided in section 9 of this order, an authorization for access to a specific classification category may not be finally denied or revoked pursuant to Executive Order No. 12829 \[set out below\] by the head of a department or his designee, including, but not limited to, those officials named in section 8 of this order, unless the applicant has been given the following:
 
 (1) A written statement of the reasons why his access authorization may be denied or revoked, which shall be as comprehensive and detailed as the national security permits.
 
@@ -892,7 +802,7 @@ Sec. 7. Any determination under this order adverse to an applicant shall be a de
 
 Sec. 8. Except as otherwise specified in the preceding provisions of this order, any authority vested in the head of a department by this order may be delegated to the the \[sic\] deputy of that department, or the principal assistant to the head of that department, as the case may be.
 
-Sec. 9. Nothing contained in this order shall be deemed to limit or affect the responsibility and powers of the head of a department to deny or revoke access to a specific classification category if the security of the nation so requires. Such authority may not be delegated and may be exercised only when the head of a department determines that the procedures prescribed in sections 3, 4, and 5 cannot be invoked consistently with the national security and such determination shall be conclusive.
+Sec. 9. Nothing contained in this order shall be deemed to limit or affect the responsibility and powersof the head of a department to deny or revoke access to a specific classification category if the security of the nation so requires. Such authority may not be delegated and may be exercised only when the head of a department determines that the procedures prescribed in sections 3, 4, and 5 cannot be invoked consistently with the national security and such determination shall be conclusive.
 
 #### Modification of Executive Order No. 10865
 
@@ -960,7 +870,7 @@ NOW, THEREFORE, by the authority vested in me as President by the Constitution a
 
 Section 1. All executive departments and agencies shall expeditiously review all documents, files, and other materials pertaining to American POWs and MIAs lost in Southeast Asia for the purposes of declassification in accordance with the standards and procedures of Executive Order No. 12356 \[formerly set out above\].
 
-Sec. 2. All executive departments and agencies shall make publicly available documents, files, and other materials declassified pursuant to section 1, except forthose the disclosure of which would constitute a clearly unwarranted invasion of personal privacy of returnees, family members of POWs and MIAs, or other persons, or would impair the deliberative processes of the executive branch.
+Sec. 2. All executive departments and agencies shall make publicly available documents, files, and other materials declassified pursuant to section 1, except for those the disclosure of which would constitute a clearly unwarranted invasion of personal privacy of returnees, family members of POWs and MIAs, or other persons, or would impair the deliberative processes of the executive branch.
 
 Sec. 3. This order is not intended to create any right or benefit, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
@@ -1140,103 +1050,63 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12958. Classified National Security Information
 
-Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R. 19825, as amended by Ex. Ord. No. 12972, Sept. 18, 1995, 60 F.R. 48863; Ex. Ord. No. 13142, Nov. 19, 1999, 64 F.R. 66089, provided:
+Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R. 19825, as amended by Ex. Ord. No. 12972, Sept. 18, 1995, 60 F.R. 48863; Ex. Ord. No. 13142, Nov. 19, 1999, 64 F.R. 66089; Ex. Ord. No. 13292, Mar. 25, 2003, 68 F.R. 15315, provided:
 
-This order prescribes a uniform system for classifying, safeguarding, and declassifying national security information. Our democratic principles require that the American people be informed of the activities of their Government. Also, our Nation's progress depends on the free flow of information. Nevertheless, throughout our history, the national interest has required that certain information be maintained in confidence in order to protect our citizens, our democratic institutions, and our participation within the community of nations. Protecting information critical to our Nation's security remains a priority. In recent years, however, dramatic changes have altered, although not eliminated, the national security threats that we confront. These changes provide a greater opportunity to emphasize our commitment to open Government.
+This order prescribes a uniform system for classifying, safeguarding, and declassifying national security information, including information relating to defense against transnational terrorism. Our democratic principles require that the American people be informed of the activities of their Government. Also, our Nation's progress depends on the free flow of information. Nevertheless, throughout our history, the national defense has required that certain information be maintained in confidence in order to protect our citizens, our democratic institutions, our homeland security, and our interactions with foreign nations. Protecting information critical to our Nation's security remains a priority.
 
 NOW, THEREFORE, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
 #### PART 1—ORIGINAL CLASSIFICATION
 
-Section 1.1. <i>Definitions</i>. For purposes of this order:
+Sec. 1.1. <i>Classification Standards</i>. (a) Information may be originally classified under the terms of this order only if all of the following conditions are met:
 
-(a) “National security” means the national defense or foreign relations of the United States.
+(1) an original classification authority is classifying the information;
 
-(b) “Information” means any knowledge that can be communicated or documentary material, regardless of its physical form or characteristics, that is owned by, produced by or for, or is under the control of the United States Government. “Control” means the authority of the agency that originates information, or its successor in function, to regulate access to the information.
+(2) the information is owned by, produced by or for, or is under the control of the United States Government;
 
-(c) “Classified national security information” (hereafter “classified information”) means information that has been determined pursuant to this order or any predecessor order to require protection against unauthorized disclosure and is marked to indicate its classified status when in documentary form.
+(3) the information falls within one or more of the categories of information listed in section 1.4 of this order; and
 
-(d) “Foreign Government Information” means:
+(4) the original classification authority determines that the unauthorized disclosure of the information reasonably could be expected to result in damage to the national security, which includes defense against transnational terrorism, and the original classification authority is able to identify or describe the damage.
 
-&emsp;(1) information provided to the United States Government by a foreign government or governments, an international organization of governments, or any element thereof, with the expectation that the information, the source of the information, or both, are to be held in confidence;
+(b) Classified information shall not be declassified automatically as a result of any unauthorized disclosure of identical or similar information.
 
-&emsp;(2) information produced by the United States pursuant to or as a result of a joint arrangement with a foreign government or governments, or an international organization of governments, or any element thereof, requiring that the information, the arrangement, or both, are to be held in confidence; or
+(c) The unauthorized disclosure of foreign government information is presumed to cause damage to the national security.
 
-&emsp;(3) information received and treated as “Foreign Government Information” under the terms of a predecessor order.
+Sec. 1.2. <i>Classification Levels</i>. (a) Information may be classified at one of the following three levels:
 
-(e) “Classification” means the act or process by which information is determined to be classified information.
+(1) “Top Secret” shall be applied to information, the unauthorized disclosure of which reasonably could be expected to cause exceptionally grave damage to the national security that the original classification authority is able to identify or describe.
 
-(f) “Original classification” means an initial determination that information requires, in the interest of national security, protection against unauthorized disclosure.
+(2) “Secret” shall be applied to information, the unauthorized disclosure of which reasonably could be expected to cause serious damage to the national security that the original classification authority is able to identify or describe.
 
-(g) “Original classification authority” means an individual authorized in writing, either by the President, or by agency heads or other officials designated by the President, to classify information in the first instance.
-
-(h) “Unauthorized disclosure” means a communication or physical transfer of classified information to an unauthorized recipient.
-
-(i) “Agency” means any “Executive agency,” as defined in 5 U.S.C. 105; any “Military department” as defined in 5 U.S.C. 102; and any other entity within the executive branch that comes into the possession of classified information.
-
-(j) “Senior agency official” means the official designated by the agency head under section 5.6(c) of this order to direct and administer the agency's program under which information is classified, safeguarded, and declassified.
-
-(k) “Confidential source” means any individual or organization that has provided, or that may reasonablybe expected to provide, information to the United States on matters pertaining to the national security with the expectation that the information or relationship, or both, are to be held in confidence.
-
-(<i>l</i>) “Damage to the national security” means harm to the national defense or foreign relations of the United States from the unauthorized disclosure of information, to include the sensitivity, value, and utility of that information.
-
-Sec. 1.2. <i>Classification Standards</i>. (a) Information may be originally classified under the terms of this order only if all of the following conditions are met:
-
-&emsp;(1) an original classification authority is classifying the information;
-
-&emsp;(2) the information is owned by, produced by or for, or is under the control of the United States Government;
-
-&emsp;(3) the information falls within one or more of the categories of information listed in section 1.5 of this order; and
-
-&emsp;(4) the original classification authority determines that the unauthorized disclosure of the information reasonably could be expected to result in damage to the national security and the original classification authority is able to identify or describe the damage.
-
-(b) If there is significant doubt about the need to classify information, it shall not be classified. This provision does not:
-
-&emsp;(1) amplify or modify the substantive criteria or procedures for classification; or
-
-&emsp;(2) create any substantive or procedural rights subject to judicial review.
-
-(c) Classified information shall not be declassified automatically as a result of any unauthorized disclosure of identical or similar information.
-
-Sec. 1.3. <i>Classification Levels</i>. (a) Information may be classified at one of the following three levels:
-
-&emsp;(1) “Top Secret” shall be applied to information, the unauthorized disclosure of which reasonably could be expected to cause exceptionally grave damage to the national security that the original classification authority is able to identify or describe.
-
-&emsp;(2) “Secret” shall be applied to information, the unauthorized disclosure of which reasonably could be expected to cause serious damage to the national security that the original classification authority is able to identify or describe.
-
-&emsp;(3) “Confidential” shall be applied to information, the unauthorized disclosure of which reasonably could be expected to cause damage to the national security that the original classification authority is able to identify or describe.
+(3) “Confidential” shall be applied to information, the unauthorized disclosure of which reasonably could be expected to cause damage to the national security that the original classification authority is able to identify or describe.
 
 (b) Except as otherwise provided by statute, no other terms shall be used to identify United States classified information.
 
-(c) If there is significant doubt about the appropriate level of classification, it shall be classified at the lower level.
+Sec. 1.3. <i>Classification Authority</i>. (a) The authority to classify information originally may be exercised only by:
 
-Sec. 1.4. <i>Classification Authority</i>. (a) The authority to classify information originally may be exercised only by:
+(1) the President and, in the performance of executive duties, the Vice President;
 
-&emsp;(1) the President;
+(2) agency heads and officials designated by the President in the Federal Register; and
 
-&emsp;(2) agency heads and officials designated by the President in the Federal Register; or
-
-&emsp;(3) United States Government officials delegated this authority pursuant to paragraph (c), below.
+(3) United States Government officials delegated this authority pursuant to paragraph (c) of this section.
 
 (b) Officials authorized to classify information at a specified level are also authorized to classify information at a lower level.
 
 (c) Delegation of original classification authority.
 
-&emsp;(1) Delegations of original classification authority shall be limited to the minimum required to administer this order. Agency heads are responsible for ensuring that designated subordinate officials have a demonstrable and continuing need to exercise this authority.
+(1) Delegations of original classification authority shall be limited to the minimum required to administer this order. Agency heads are responsible for ensuring that designated subordinate officials have a demonstrable and continuing need to exercise this authority.
 
-&emsp;(2) “Top Secret” original classification authority may be delegated only by the President or by an agency head or official designated pursuant to paragraph (a)(2), above.
+(2) “Top Secret” original classification authority may be delegated only by the President; in the performance of executive duties, the Vice President; or an agency head or official designated pursuant to paragraph (a)(2) of this section.
 
-&emsp;(3) “Secret” or “Confidential” original classification authority may be delegated only by the President; an agency head or official designated pursuant to paragraph (a)(2), above; or the senior agency official, provided that official has been delegated “Top Secret” original classification authority by the agency head.
+(3) “Secret” or “Confidential” original classification authority may be delegated only by the President; in the performance of executive duties, the Vice President; or an agency head or official designated pursuant to paragraph (a)(2) of this section; or the senior agency official described in section 5.4(d) of this order, provided that official has been delegated “Top Secret” original classification authority by the agency head.
 
-&emsp;(4) Each delegation of original classification authority shall be in writing and the authority shall not be redelegated except as provided in this order. Each delegation shall identify the official by name or position title.
+(4) Each delegation of original classification authority shall be in writing and the authority shall not be redelegated except as provided in this order. Each delegation shall identify the official by name or position title.
 
-(d) Original classification authorities must receive training in original classification as provided in this order and its implementing directives.
+(d) Original classification authorities must receive training in original classification as provided in this order and its implementing directives. Such training must include instruction on the proper safeguarding of classified information and of the criminal, civil, and administrative sanctions that may be brought against an individual who fails to protect classified information from unauthorized disclosure.
 
-(e) Exceptional cases. When an employee, contractor, licensee, certificate holder, or grantee of an agency that does not have original classification authority originates information believed by that person to require classification, the information shall be protected in a manner consistent with this order and its implementing directives. The information shall be transmitted promptly as provided under this order or its implementing directives to the agency that has appropriate subject matter interest and classification authority with respect to this information. That agency shall decide within 30 days whether to classify this information. If it is not clear which agency has classification responsibility for this information, it shall be sent to the Director of the Information Security Oversight Office. The Director shall determine the agency having primary subject matter interest and forward the information, with appropriate recommendations, to that agency for a classification determination.
+(e) Exceptional cases. When an employee, government contractor, licensee, certificate holder, or grantee of an agency who does not have original classification authority originates information believed by that person to require classification, the information shall be protected in a manner consistent with this order and its implementing directives. The information shall be transmitted promptly as provided under this order or its implementing directives to the agency that has appropriate subject matter interest and classification authority with respect to this information. That agency shall decide within 30 days whether to classify this information. If it is not clear which agency has classification responsibility for this information, it shall be sent to the Director of the Information Security Oversight Office. The Director shall determine the agency having primary subject matter interest and forward the information, with appropriate recommendations, to that agency for a classification determination.
 
-Sec. 1.5. <i>Classification Categories.</i>
-
-Information may not be considered for classification unless it concerns:
+Sec. 1.4. <i>Classification Categories</i>. Information shall not be considered for classification unless it concerns:
 
 (a) military plans, weapons systems, or operations;
 
@@ -1246,509 +1116,427 @@ Information may not be considered for classification unless it concerns:
 
 (d) foreign relations or foreign activities of the United States, including confidential sources;
 
-(e) scientific, technological, or economic matters relating to the national security;
+(e) scientific, technological, or economic matters relating to the national security, which includes defense against transnational terrorism;
 
-(f) United States Government programs for safeguarding nuclear materials or facilities; or
+(f) United States Government programs for safeguarding nuclear materials or facilities;
 
-(g) vulnerabilities or capabilities of systems, installations, projects or plans relating to the national security.
+(g) vulnerabilities or capabilities of systems, installations, infrastructures, projects, plans, or protection services relating to the national security, which includes defense against transnational terrorism; or
 
-Sec. 1.6. <i>Duration of Classification</i>. (a) At the time of original classification, the original classification authority shall attempt to establish a specific date or event for declassification based upon the duration of the national security sensitivity of the information. The date or event shall not exceed the time frame in paragraph (b), below.
+(h) weapons of mass destruction.
 
-(b) If the original classification authority cannot determine an earlier specific date or event for declassification, information shall be marked for declassification 10 years from the date of the original decision, except as provided in paragraph (d), below.
+Sec. 1.5. <i>Duration of Classification</i>. (a) At the time of original classification, the original classification authority shall attempt to establish a specific date or event for declassification based upon the duration of the national security sensitivity of the information. Upon reaching the date or event, the information shall be automatically declassified. The date or event shall not exceed the time frame established in paragraph (b) of this section.
 
-(c) An original classification authority may extend the duration of classification or reclassify specific information for successive periods not to exceed 10 years at a time if such action is consistent with the standards and procedures established under this order. This provision does not apply to information contained in records that are more than 25 years old and have been determined to have permanent historical value under title 44, United States Code.
+(b) If the original classification authority cannot determine an earlier specific date or event for declassification, information shall be marked for declassification 10 years from the date of the original decision, unless the original classification authority otherwise determines that the sensitivity of the information requires that it shall be marked for declassification for up to 25 years from the date of the original decision. All information classified under this section shall be subject to section 3.3 of this order if it is contained in records of permanent historical value under title 44, United States Code.
 
-(d) At the time of original classification, the original classification authority may exempt from declassification within 10 years specific information, the unauthorized disclosure of which could reasonably be expected to cause damage to the national security for a period greater than that provided in paragraph (b), above, and the release of which could reasonably be expected to:
+(c) An original classification authority may extend the duration of classification, change the level of classification, or reclassify specific information only when the standards and procedures for classifying information under this order are followed.
 
-&emsp;(1) reveal an intelligence source, method, or activity, or a cryptologic system or activity;
+(d) Information marked for an indefinite duration of classification under predecessor orders, for example, marked as “Originating Agency's Determination Required,” or information classified under predecessor orders that contains no declassification instructions shall be declassified in accordance with part 3 of this order.
 
-&emsp;(2) reveal information that would assist in the development or use of weapons of mass destruction;
+Sec. 1.6. <i>Identification and Markings</i>. (a) At the time of original classification, the following shall appear on the face of each classified document, or shall be applied to other classified media in an appropriate manner:
 
-&emsp;(3) reveal information that would impair the development or use of technology within a United States weapons system;
+(1) one of the three classification levels defined in section 1.2 of this order;
 
-&emsp;(4) reveal United States military plans, or national security emergency preparedness plans;
+(2) the identity, by name or personal identifier and position, of the original classification authority;
 
-&emsp;(5) reveal foreign government information;
+(3) the agency and office of origin, if not otherwise evident;
 
-&emsp;(6) damage relations between the United States and a foreign government, reveal a confidential source, or seriously undermine diplomatic activities that are reasonably expected to be ongoing for a period greater than that provided in paragraph (b), above;
+(4) declassification instructions, which shall indicate one of the following:
 
-&emsp;(7) impair the ability of responsible United States Government officials to protect the President, the Vice President, and other individuals for whom protection services, in the interest of national security, are authorized; or
+&emsp;(A) the date or event for declassification, as prescribed in section 1.5(a) or section 1.5(c);
 
-&emsp;(8) violate a statute, treaty, or international agreement.
+&emsp;(B) the date that is 10 years from the date of original classification, as prescribed in section 1.5(b); or
 
-(e) Information marked for an indefinite duration of classification under predecessor orders, for example, “Originating Agency's Determination Required,” or information classified under predecessor orders that contains no declassification instructions shall be declassified in accordance with part 3 of this order.
+&emsp;(C) the date that is up to 25 years from the date of original classification, as prescribed in section 1.5(b); and
 
-Sec. 1.7. <i>Identification and Markings</i>. (a) At the time of original classification, the following shall appear on the face of each classified document, or shall be applied to other classified media in an appropriate manner:
+(5) a concise reason for classification that, at a minimum, cites the applicable classification categories in section 1.4 of this order.
 
-&emsp;(1) one of the three classification levels defined in section 1.3 of this order;
+(b) Specific information described in paragraph (a) of this section may be excluded if it would reveal additional classified information.
 
-&emsp;(2) the identity, by name or personal identifier and position, of the original classification authority;
-
-&emsp;(3) the agency and office of origin, if not otherwise evident;
-
-&emsp;(4) declassification instructions, which shall indicate one of the following:
-
-&emsp;&emsp;(A) the date or event for declassification, as prescribed in section 1.6(a) or section 1.6(c); or
-
-&emsp;&emsp;(B) the date that is 10 years from the date of original classification, as prescribed in section 1.6(b); or
-
-&emsp;&emsp;(C) the exemption category from declassification, as prescribed in section 1.6(d); and
-
-&emsp;(5) a concise reason for classification which, at a minimum, cites the applicable classification categories in section 1.5 of this order.
-
-(b) Specific information contained in paragraph (a), above, may be excluded if it would reveal additional classified information.
-
-(c) Each classified document shall, by marking or other means, indicate which portions are classified, with the applicable classification level, which portions are exempt from declassification under section 1.6(d) of this order, and which portions are unclassified. In accordance with standards prescribed in directives issued under this order, the Director of the Information Security Oversight Office may grant waivers of this requirement for specified classes of documents or information. The Director shall revoke any waiver upon a finding of abuse.
+(c) With respect to each classified document, the agency originating the document shall, by marking or other means, indicate which portions are classified, with the applicable classification level, and which portions are unclassified. In accordance with standards prescribed in directives issued under this order, the Director of the Information Security Oversight Office may grant waivers of this requirement. The Director shall revoke any waiver upon a finding of abuse.
 
 (d) Markings implementing the provisions of this order, including abbreviations and requirements to safeguard classified working papers, shall conform to the standards prescribed in implementing directives issued pursuant to this order.
 
-(e) Foreign government information shall retain its original classification markings or shall be assigned a U.S. classification that provides a degree of protection at least equivalent to that required by the entity that furnished the information.
+(e) Foreign government information shall retain its original classification markings or shall be assigned a U.S. classification that provides a degree of protection at least equivalent to that required by the entity that furnished the information. Foreign government information retaining its original classification markings need not be assigned a U.S. classification marking provided that the responsible agency determines that the foreign government markings are adequate to meet the purposes served by U.S. classification markings.
 
 (f) Information assigned a level of classification under this or predecessor orders shall be considered as classified at that level of classification despite the omission of other required markings. Whenever such information is used in the derivative classification process or is reviewed for possible declassification, holders of such information shall coordinate with an appropriate classification authority for the application of omitted markings.
 
-(g) The classification authority shall, whenever practicable, use a classified addendum whenever classified information constitutes a small portion of an otherwise unclassified document.
+(g) The classification authority shall, whenever practicable, use a classified addendum whenever classifiedinformation constitutes a small portion of an otherwise unclassified document.
 
-Sec. 1.8. <i>Classification Prohibitions and Limitations</i>. (a) In no case shall information be classified in order to:
+(h) Prior to public release, all declassified records shall be appropriately marked to reflect their declassification.
 
-&emsp;(1) conceal violations of law, inefficiency, or administrative error;
+Sec. 1.7. <i>Classification Prohibitions and Limitations.</i>
 
-&emsp;(2) prevent embarrassment to a person, organization, or agency;
+(a) In no case shall information be classified in order to:
 
-&emsp;(3) restrain competition; or
+(1) conceal violations of law, inefficiency, or administrative error;
 
-&emsp;(4) prevent or delay the release of information that does not require protection in the interest of national security.
+(2) prevent embarrassment to a person, organization, or agency;
 
-(b) Basic scientific research information not clearly related to the national security may not be classified.
+(3) restrain competition; or
 
-(c) Information may not be reclassified after it has been declassified and released to the public under proper authority.
+(4) prevent or delay the release of information that does not require protection in the interest of the national security.
 
-(d) Information that has not previously been disclosed to the public under proper authority may be classified or reclassified after an agency has received a request for it under the Freedom of Information Act (5 U.S.C. 552) or the Privacy Act of 1974 (5 U.S.C. 552a), or the mandatory review provisions of section 3.6 of this order only if such classification meets the requirements of this order and is accomplished on a document-by-document basis with the personal participation or under the direction of the agency head, the deputy agency head, or the senior agency official designated under section 5.6 of this order. This provision does not apply to classified information contained in records that are more than 25 years old and have been determined to have permanent historical value under title 44, United States Code.
+(b) Basic scientific research information not clearly related to the national security shall not be classified.
 
-(e) Compilations of items of information which are individually unclassified may be classified if the compiled information reveals an additional association or relationship that:
+(c) Information may be reclassified after declassification and release to the public under proper authority only in accordance with the following conditions:
 
-&emsp;(1) meets the standards for classification under this order; and
+(1) the reclassification action is taken under the personal authority of the agency head or deputy agency head, who determines in writing that the reclassification of the information is necessary in the interest of the national security;
 
-&emsp;(2) is not otherwise revealed in the individual items of information.
+(2) the information may be reasonably recovered; and
 
-> As used in this order, “compilation” means an aggregation of pre-existing unclassified items of information.
+(3) the reclassification action is reported promptly to the Director of the Information Security Oversight Office.
 
-Sec. 1.9. <i>Classification Challenges</i>. (a) Authorized holders of information who, in good faith, believe that its classification status is improper are encouraged and expected to challenge the classification status of the information in accordance with agency procedures established under paragraph (b), below.
+(d) Information that has not previously been disclosed to the public under proper authority may be classified or reclassified after an agency has received a request for it under the Freedom of Information Act (5 U.S.C. 552) or the Privacy Act of 1974 (5 U.S.C. 552a), or the mandatory review provisions of section 3.5 of this order only if such classification meets the requirements of this order and is accomplished on a document-by-document basis with the personal participation or under the direction of the agency head, the deputy agency head, or the senior agency official designated under section 5.4 of this order.
 
-(b) In accordance with implementing directives issued pursuant to this order, an agency head or senior agency official shall establish procedures under which authorized holders of information are encouraged and expected to challenge the classification of information that they believe is improperly classified or unclassified. These procedures shall assure that:
+(e) Compilations of items of information that are individually unclassified may be classified if the compiled information reveals an additional association or relationship that: (1) meets the standards for classification under this order; and (2) is not otherwise revealed in the individual items of information. As used in this order, “compilation” means an aggregation of pre-existing unclassified items of information.
 
-&emsp;(1) individuals are not subject to retribution for bringing such actions;
+Sec. 1.8. <i>Classification Challenges</i>. (a) Authorized holders of information who, in good faith, believe that its classification status is improper are encouraged and expected to challenge the classification status of the information in accordance with agency procedures established under paragraph (b) of this section.
 
-&emsp;(2) an opportunity is provided for review by an impartial official or panel; and
+(b) In accordance with implementing directives issued pursuant to this order, an agency head or senior agency official shall establish procedures under which authorized holders of information are encouraged and expected to challenge the classification of information that they believe is improperly classified or unclassified. These procedures shall ensure that:
 
-&emsp;(3) individuals are advised of their right to appeal agency decisions to the Interagency Security Classification Appeals Panel established by section 5.4 of this order.
+(1) individuals are not subject to retribution for bringing such actions;
+
+(2) an opportunity is provided for review by an impartial official or panel; and
+
+(3) individuals are advised of their right to appeal agency decisions to the Interagency Security Classification Appeals Panel (Panel) established by section 5.3 of this order.
 
 #### PART 2—DERIVATIVE CLASSIFICATION
 
-Sec. 2.1. <i>Definitions</i>. For purposes of this order:
-
-(a) “Derivative classification” means the incorporating, paraphrasing, restating or generating in new form information that is already classified, and marking the newly developed material consistent with the classification markings that apply to the source information. Derivative classification includes the classification of information based on classification guidance. The duplication or reproduction of existing classified information is not derivative classification.
-
-(b) “Classification guidance” means any instruction or source that prescribes the classification of specific information.
-
-(c) “Classification guide” means a documentary form of classification guidance issued by an original classification authority that identifies the elements of information regarding a specific subject that must be classified and establishes the level and duration of classification for each such element.
-
-(d) “Source document” means an existing document that contains classified information that is incorporated, paraphrased, restated, or generated in new form into a new document.
-
-(e) “Multiple sources” means two or more source documents, classification guides, or a combination of both.
-
-Sec. 2.2. <i>Use of Derivative Classification</i>. (a) Persons who only reproduce, extract, or summarize classified information, or who only apply classification markings derived from source material or as directed by a classification guide, need not possess original classification authority.
+Sec. 2.1. <i>Use of Derivative Classification</i>. (a) Persons who only reproduce, extract, or summarize classified information, or who only apply classification markings derived from source material or as directed by a classification guide, need not possess original classification authority.
 
 (b) Persons who apply derivative classification markings shall:
 
-&emsp;(1) observe and respect original classification decisions; and
+(1) observe and respect original classification decisions; and
 
-&emsp;(2) carry forward to any newly created documents the pertinent classification markings. For information derivatively classified based on multiple sources, the derivative classifier shall carry forward:
+(2) carry forward to any newly created documents the pertinent classification markings. For information derivatively classified based on multiple sources, the derivative classifier shall carry forward:
 
-&emsp;&emsp;(A) the date or event for declassification that corresponds to the longest period of classification among the sources; and
+&emsp;(A) the date or event for declassification that corresponds to the longest period of classification among the sources; and
 
-&emsp;&emsp;(B) a listing of these sources on or attached to the official file or record copy.
+&emsp;(B) a listing of these sources on or attached to the official file or record copy.
 
-Sec. 2.3. <i>Classification Guides</i>. (a) Agencies with original classification authority shall prepare classification guides to facilitate the proper and uniform derivative classification of information. These guides shall conform to standards contained in directives issued under this order.
+Sec. 2.2. <i>Classification Guides</i>. (a) Agencies with original classification authority shall prepare classification guides to facilitate the proper and uniform derivative classification of information. These guides shall conform to standards contained in directives issued under this order.
 
 (b) Each guide shall be approved personally and in writing by an official who:
 
-&emsp;(1) has program or supervisory responsibility over the information or is the senior agency official; and
+(1) has program or supervisory responsibility over the information or is the senior agency official; and
 
-&emsp;(2) is authorized to classify information originally at the highest level of classification prescribed in the guide.
+(2) is authorized to classify information originally at the highest level of classification prescribed in the guide.
 
-(c) Agencies shall establish procedures to assure that classification guides are reviewed and updated as provided in directives issued under this order.
+(c) Agencies shall establish procedures to ensure that classification guides are reviewed and updated as provided in directives issued under this order.
 
 #### PART 3—DECLASSIFICATION AND DOWNGRADING
 
-Sec. 3.1. <i>Definitions</i>. For purposes of this order:
+Sec. 3.1. <i>Authority for Declassification</i>. (a) Information shall be declassified as soon as it no longer meets the standards for classification under this order.
 
-(a) “Declassification” means the authorized change in the status of information from classified information to unclassified information.
+(b) It is presumed that information that continues to meet the classification requirements under this order requires continued protection. In some exceptional cases, however, the need to protect such information may be outweighed by the public interest in disclosure of the information, and in these cases the information should be declassified. When such questions arise, they shall be referred to the agency head or the senior agency official. That official will determine, as an exercise of discretion, whether the public interest in disclosure outweighs the damage to the national security that might reasonably be expected from disclosure. This provision does not:
 
-(b) “Automatic declassification” means the declassification of information based solely upon:
+(1) amplify or modify the substantive criteria or procedures for classification; or
 
-&emsp;(1) the occurrence of a specific date or event as determined by the original classification authority; or
-
-&emsp;(2) the expiration of a maximum time frame for duration of classification established under this order.
-
-(c) “Declassification authority” means:
-
-&emsp;(1) the official who authorized the original classification, if that official is still serving in the same position;
-
-&emsp;(2) the originator's current successor in function;
-
-&emsp;(3) a supervisory official of either; or
-
-&emsp;(4) officials delegated declassification authority in writing by the agency head or the senior agency official.
-
-(d) “Mandatory declassification review” means the review for declassification of classified information in response to a request for declassification that meets the requirements under section 3.6 of this order.
-
-(e) “Systematic declassification review” means the review for declassification of classified information contained in records that have been determined by the Archivist of the United States (“Archivist”) to have permanent historical value in accordance with chapter 33 of title 44, United States Code.
-
-(f) “Declassification guide” means written instructions issued by a declassification authority that describes the elements of information regarding a specific subject that may be declassified and the elements that must remain classified.
-
-(g) “Downgrading” means a determination by a declassification authority that information classified and safeguarded at a specified level shall be classified and safeguarded at a lower level.
-
-(h) “File series” means documentary material, regardless of its physical form or characteristics, that is arranged in accordance with a filing system or maintained as a unit because it pertains to the same function or activity.
-
-Sec. 3.2. <i>Authority for Declassification</i>. (a) Information shall be declassified as soon as it no longer meets the standards for classification under this order.
-
-(b) It is presumed that information that continues to meet the classification requirements under this order requires continued protection. In some exceptional cases, however, the need to protect such information may be outweighed by the public interest in disclosure of the information, and in these cases the information should be declassified. When such questions arise, they shall be referred to the agency head or the senior agency official. That official will determine, as an exercise of discretion, whether the public interest in disclosure outweighs the damage to national security that might reasonably be expected from disclosure. This provision does not:
-
-&emsp;(1) amplify or modify the substantive criteria or procedures for classification; or
-
-&emsp;(2) create any substantive or procedural rights subject to judicial review.
+(2) create any substantive or procedural rights subject to judicial review.
 
 (c) If the Director of the Information Security Oversight Office determines that information is classified in violation of this order, the Director may require the information to be declassified by the agency that originated the classification. Any such decision by the Director may be appealed to the President through the Assistant to the President for National Security Affairs. The information shall remain classified pending a prompt decision on the appeal.
 
 (d) The provisions of this section shall also apply to agencies that, under the terms of this order, do not have original classification authority, but had such authority under predecessor orders.
 
-Sec. 3.3. <i>Transferred Information</i>. (a) In the case of classified information transferred in conjunction with a transfer of functions, and not merely for storage purposes, the receiving agency shall be deemed to be the originating agency for purposes of this order.
+Sec. 3.2. <i>Transferred Records</i>. (a) In the case of classified records transferred in conjunction with a transfer of functions, and not merely for storage purposes, the receiving agency shall be deemed to be the originating agency for purposes of this order.
 
-(b) In the case of classified information that is not officially transferred as described in paragraph (a), above, but that originated in an agency that has ceased to exist and for which there is no successor agency, each agency in possession of such information shall be deemed to be the originating agency for purposes of this order. Such information may be declassified or downgraded by the agency in possession after consultation with any other agency that has an interest in the subject matter of the information.
+(b) In the case of classified records that are not officially transferred as described in paragraph (a) of this section, but that originated in an agency that has ceased to exist and for which there is no successor agency, each agency in possession of such records shall be deemed to be the originating agency for purposes of this order. Such records may be declassified or downgraded by the agency in possession after consultation with any other agency that has an interest in the subject matter of the records.
 
-(c) Classified information accessioned into the National Archives and Records Administration (“National Archives”) as of the effective date of this order shall be declassified or downgraded by the Archivist in accordance with this order, the directives issued pursuant to this order, agency declassification guides, and any existing procedural agreement between the Archivist and the relevant agency head.
+(c) Classified records accessioned into the National Archives and Records Administration (National Archives) as of the effective date of this order shall be declassified or downgraded by the Archivist of the United States (Archivist) in accordance with this order, the directives issued pursuant to this order, agency declassification guides, and any existing procedural agreement between the Archivist and the relevant agency head.
 
-(d) The originating agency shall take all reasonable steps to declassify classified information contained in records determined to have permanent historical value before they are accessioned into the National Archives. However, the Archivist may require that records containing classified information be accessioned into the National Archives when necessary to comply with the provisions of the Federal Records Act \[see References in Text note set out under section 3603 of Title 44, Public Printing and Documents\]. This provision does not apply to information being transferred to the Archivist pursuant to section 2203 of title 44, United States Code,or information for which the National Archives and Records Administration serves as the custodian of the records of an agency or organization that goes out of existence.
+(d) The originating agency shall take all reasonable steps to declassify classified information contained in records determined to have permanent historical value before they are accessioned into the National Archives. However, the Archivist may require that classified records be accessioned into the National Archives when necessary to comply with the provisions of the Federal Records Act \[see References in Text note set out under section 3603 of Title 44, Public Printing and Documents\]. This provision does not apply to records being transferred to the Archivist pursuant to section 2203 of title 44, United States Code, or records for which the National Archives serves as the custodian of the records of an agency or organization that has gone out of existence.
 
-(e) To the extent practicable, agencies shall adopt a system of records management that will facilitate the public release of documents at the time such documents are declassified pursuant to the provisions for automatic declassification in sections 1.6 and 3.4 of this order.
+(e) To the extent practicable, agencies shall adopt a system of records management that will facilitate the public release of documents at the time such documents are declassified pursuant to the provisions for automatic declassification in section 3.3 of this order.
 
-Sec. 3.4. <i>Automatic Declassification</i>. (a) Subject to paragraph (b), below, within six and one half years from the date of this order, all classified information contained in records that (1) are more than 25 years old, and (2) have been determined to have permanent historical value under title 44, United States Code, shall be automatically declassified whether or not the records have been reviewed. Subsequently, all classified information in such records shall be automatically declassified no longer than 25 years from the date of its original classification, except as provided in paragraph (b), below. For records otherwise subject to this paragraph for which a review or assessment conducted by the agency and confirmed by the Information Security Oversight Office has determined that they: (1) contain information that was created by or is under the control of more than one agency, or (2) are within file series containing information that almost invariably pertains to intelligence sources or methods, all classified information in such records shall be automatically declassified, whether or not the records have been reviewed, within 8 years from the date of this order, except as provided in paragraph (b), below. For records that contain information that becomes subject to automatic declassification after the dates otherwise established in this paragraph, all classified information in such records shall be automatically declassified, whether or not the records have been reviewed on December 31 of the year that is 25 years from the origin of the information, except as provided in paragraph (b), below.
+Sec. 3.3. <i>Automatic Declassification</i>. (a) Subject to paragraphs (b)–(e) of this section, on December 31, 2006, all classified records that (1) are more than 25 years old and (2) have been determined to have permanent historical value under title 44, United States Code, shall be automatically declassified whether or not the records have been reviewed. Subsequently, all classified records shall be automatically declassified on December 31 of the year that is 25 years from the date of its original classification, except as provided in paragraphs (b)–(e) of this section.
 
-(b) An agency head may exempt from automatic declassification under paragraph (a), above, specific information, the release of which should be expected to:
+(b) An agency head may exempt from automatic declassification under paragraph (a) of this section specific information, the release of which could be expected to:
 
-&emsp;(1) reveal the identity of a confidential human source, or reveal information about the application of an intelligence source or method, or reveal the identity of a human intelligence source when the unauthorized disclosure of that source would clearly and demonstrably damage the national security interests of the United States;
+(1) reveal the identity of a confidential human source, or a human intelligence source, or reveal information about the application of an intelligence source or method;
 
-&emsp;(2) reveal information that would assist in the development or use of weapons of mass destruction;
+(2) reveal information that would assist in the development or use of weapons of mass destruction;
 
-&emsp;(3) reveal information that would impair U.S. cryptologic systems or activities;
+(3) reveal information that would impair U.S. cryptologic systems or activities;
 
-&emsp;(4) reveal information that would impair the application of state of the art technology within a U.S. weapon system;
+(4) reveal information that would impair the application of state of the art technology within a U.S. weapon system;
 
-&emsp;(5) reveal actual U.S. military war plans that remain in effect;
+(5) reveal actual U.S. military war plans that remain in effect;
 
-&emsp;(6) reveal information that would seriously and demonstrably impair relations between the United States and a foreign government, or seriously and demonstrably undermine ongoing diplomatic activities of the United States;
+(6) reveal information, including foreign government information, that would seriously and demonstrably impair relations between the United States and a foreign government, or seriously and demonstrably undermine ongoing diplomatic activities of the United States;
 
-&emsp;(7) reveal information that would clearly and demonstrably impair the current ability of United States Government officials to protect the President, Vice President, and other officials for whom protection services, in the interest of national security, are authorized;
+(7) reveal information that would clearly and demonstrably impair the current ability of United States Government officials to protect the President, Vice President, and other protectees for whom protection services, in the interest of the national security, are authorized;
 
-&emsp;(8) reveal information that would seriously and demonstrably impair current national security emergency preparedness plans; or
+(8) reveal information that would seriously and demonstrably impair current national security emergency preparedness plans or reveal current vulnerabilities of systems, installations, infrastructures, or projects relating to the national security; or
 
-&emsp;(9) violate a statute, treaty, or international agreement.
+(9) violate a statute, treaty, or international agreement.
 
-(c) No later than the effective date of this order, an agency head shall notify the President through the Assistant to the President for National Security Affairs of any specific file series of records for which a review or assessment has determined that the information within those file series almost invariably falls within one or more of the exemption categories listed in paragraph (b), above, and which the agency proposes to exempt from automatic declassification. The notification shall include:
+(c) An agency head shall notify the President through the Assistant to the President for National Security Affairs of any specific file series of records for which a review or assessment has determined that the information within that file series almost invariably falls within one or more of the exemption categories listed in paragraph (b) of this section and which the agency proposes to exempt from automatic declassification. The notification shall include:
 
-&emsp;(1) a description of the file series;
+(1) a description of the file series;
 
-&emsp;(2) an explanation of why the information within the file series is almost invariably exempt from automatic declassification and why the information must remain classified for a longer period of time; and
+(2) an explanation of why the information within the file series is almost invariably exempt from automatic declassification and why the information must remain classified for a longer period of time; and
 
-&emsp;(3) except for the identity of a confidential human source or a human intelligence source, as provided in paragraph (b), above, a specific date or event for declassification of the information.
+(3) except for the identity of a confidential human source or a human intelligence source, as provided in paragraph (b) of this section, a specific date or event for declassification of the information. The President may direct the agency head not to exempt the file series or to declassify the information within that series at an earlier date than recommended. File series exemptions previously approved by the President shall remain valid without any additional agency action.
 
-> The President may direct the agency head not to exempt the file series or to declassify the information within that series at an earlier date than recommended.
+(d) At least 180 days before information is automatically declassified under this section, an agency head or senior agency official shall notify the Director of the Information Security Oversight Office, serving as Executive Secretary of the Panel, of any specific information beyond that included in a notification to the President under paragraph (c) of this section that the agency proposes to exempt from automatic declassification. The notification shall include:
 
-(d) At least 180 days before information is automatically declassified under this section, an agency head or senior agency official shall notify the Director of the Information Security Oversight Office, serving as Executive Secretary of the Interagency Security Classification Appeals Panel, of any specific information beyond that included in a notification to the President under paragraph (c), above, that the agency proposes to exempt from automatic declassification. The notification shall include:
+(1) a description of the information, either by reference to information in specific records or in the form of a declassification guide;
 
-&emsp;(1) a description of the information;
+(2) an explanation of why the information is exempt from automatic declassification and must remain classified for a longer period of time; and
 
-&emsp;(2) an explanation of why the information is exempt from automatic declassification and must remain classified for a longer period of time; and
+(3) except for the identity of a confidential human source or a human intelligence source, as provided in paragraph (b) of this section, a specific date or event for declassification of the information. The Panel may direct the agency not to exempt the information or to declassify it at an earlier date than recommended. The agency head may appeal such a decision to the President through the Assistant to the President for National Security Affairs. The information will remain classified while such an appeal is pending.
 
-&emsp;(3) except for the identity of a confidential human source or a human intelligence source, as provided in paragraph (b), above, a specific date or event for declassification of the information. The Panel may direct the agency not to exempt the information or to declassify it at an earlier date than recommended. The agency head may appeal such a decision to the President through the Assistant to the President for National Security Affairs. The information will remain classified while such an appeal is pending.
+(e) The following provisions shall apply to the onset of automatic declassification:
 
-(e) No later than the effective date of this order, the agency head or senior agency official shall provide the Director of the Information Security Oversight Office with a plan for compliance with the requirements of this section, including the establishment of interim target dates. Each such plan shall include the requirement that the agency declassify at least 15 percent of the records affected by this section no later than 1 year from the effective date of this order, and similar commitments for subsequent years until the effective date for automatic declassification.
+(1) Classified records within an integral file block, as defined in this order, that are otherwise subject to automatic declassification under this section shall not be automatically declassified until December 31 of the year that is 25 years from the date of the most recent record within the file block.
+
+(2) By notification to the Director of the Information Security Oversight Office, before the records are subject to automatic declassification, an agency head or senior agency official designated under section 5.4 of this order may delay automatic declassification for up to 5 additional years for classified information contained in microforms, motion pictures, audiotapes, videotapes, or comparable media that make a review for possible declassification exemptions more difficult or costly.
+
+(3) By notification to the Director of the Information Security Oversight Office, before the records are subject to automatic declassification, an agency head or senior agency official designated under section 5.4 of this order may delay automatic declassification for up to 3 years for classified records that have been referred or transferred to that agency by another agency less than 3 years before automatic declassification would otherwise be required.
+
+(4) By notification to the Director of the Information Security Oversight Office, an agency head or senior agency official designated under section 5.4 of this order may delay automatic declassification for up to 3 years from the date of discovery of classified records that were inadvertently not reviewed prior to the effective date of automatic declassification.
 
 (f) Information exempted from automatic declassification under this section shall remain subject to the mandatory and systematic declassification review provisions of this order.
 
-(g) The Secretary of State shall determine when the United States should commence negotiations with the appropriate officials of a foreign government or international organization of governments to modify any treaty or international agreement that requires the classification of information contained in records affected by this section for a period longer than 25 years from the date of its creation, unless the treaty or international agreement pertains to information that may otherwise remain classified beyond 25 years under this section.
+(g) The Secretary of State shall determine when the United States should commence negotiations with theappropriate officials of a foreign government or international organization of governments to modify any treaty or international agreement that requires the classification of information contained in records affected by this section for a period longer than 25 years from the date of its creation, unless the treaty or international agreement pertains to information that may otherwise remain classified beyond 25 years under this section.
 
-Sec. 3.5. <i>Systematic Declassification Review</i>. (a) Each agency that has originated classified information under this order or its predecessors shall establish and conduct a program for systematic declassification review. This program shall apply to historically valuable records exempted from automatic declassification under section 3.4 of this order. Agencies shall prioritize the systematic review of records based upon:
+(h) Records containing information that originated with other agencies or the disclosure of which would affect the interests or activities of other agencies shall be referred for review to those agencies and the information of concern shall be subject to automatic declassification only by those agencies, consistent with the provisions of subparagraphs (e)(3) and (e)(4) of this section.
 
-&emsp;(1) recommendations of the Information Security Policy Advisory Council, established in section 5.5 of this order, on specific subject areas for systematic review concentration; or
+Sec. 3.4. <i>Systematic Declassification Review</i>. (a) Each agency that has originated classified information under this order or its predecessors shall establish and conduct a program for systematic declassification review. This program shall apply to records of permanent historical value exempted from automatic declassification under section 3.3 of this order. Agencies shall prioritize the systematic review of records based upon the degree of researcher interest and the likelihood of declassification upon review.
 
-&emsp;(2) the degree of researcher interest and the likelihood of declassification upon review.
-
-(b) The Archivist shall conduct a systematic declassification review program for classified information: (1) accessioned into the National Archives as of the effective date of this order; (2) information transferred to the Archivist pursuant to section 2203 of title 44, United States Code; and (3) information for which the National Archives and Records Administration serves as the custodian of the records of an agency or organization that has gone out of existence. This program shall apply to pertinent records no later than 25 years from the date of their creation. The Archivist shall establish priorities for the systematic review of these records based upon the recommendations of the Information Security Policy Advisory Council; or the degree of researcher interest and the likelihood of declassification upon review. These records shall be reviewed in accordance with the standards of this order, its implementing directives, and declassification guides provided to the Archivist by each agency that originated the records. The Director of the Information Security Oversight Office shall assure that agencies provide the Archivist with adequate and current declassification guides.
+(b) The Archivist shall conduct a systematic declassification review program for classified records: (1) accessioned into the National Archives as of the effective date of this order; (2) transferred to the Archivist pursuant to section 2203 of title 44, United States Code; and (3) for which the National Archives serves as the custodian for an agency or organization that has gone out of existence. This program shall apply to pertinent records no later than 25 years from the date of their creation. The Archivist shall establish priorities for the systematic review of these records based upon the degree of researcher interest and the likelihood of declassification upon review. These records shall be reviewed in accordance with the standards of this order, its implementing directives, and declassification guides provided to the Archivist by each agency that originated the records. The Director of the Information Security Oversight Office shall ensure that agencies provide the Archivist with adequate and current declassification guides.
 
 (c) After consultation with affected agencies, the Secretary of Defense may establish special procedures for systematic review for declassification of classified cryptologic information, and the Director of Central Intelligence may establish special procedures for systematic review for declassification of classified information pertaining to intelligence activities (including special activities), or intelligence sources or methods.
 
-Sec. 3.6. <i>Mandatory Declassification Review</i>. (a) Except as provided in paragraph (b), below, all information classified under this order or predecessor orders shall be subject to a review for declassification by the originating agency if:
+Sec. 3.5. <i>Mandatory Declassification Review</i>. (a) Except as provided in paragraph (b) of this section, all information classified under this order or predecessor orders shall be subject to a review for declassification by the originating agency if:
 
-&emsp;(1) the request for a review describes the document or material containing the information with sufficient specificity to enable the agency to locate it with a reasonable amount of effort;
+(1) the request for a review describes the document or material containing the information with sufficient specificity to enable the agency to locate it with a reasonable amount of effort;
 
-&emsp;(2) the information is not exempted from search and review under the Central Intelligence Agency Information Act \[see Short Title of 1984 Amendment note, set out under section 401 of this title\]; and
+(2) the information is not exempted from search and review under sections 105C \[now 702\], 105D \[now 703\], or 701 of the National Security Act of 1947 (50 U.S.C. 403–5c \[now 432\], 403–5e \[now 432a\], and 431); and
 
-&emsp;(3) the information has not been reviewed for declassification within the past 2 years. If the agency has reviewed the information within the past 2 years, or the information is the subject of pending litigation, the agency shall inform the requester of this fact and of the requester's appeal rights.
+(3) the information has not been reviewed for declassification within the past 2 years. If the agency has reviewed the information within the past 2 years, or the information is the subject of pending litigation, the agency shall inform the requester of this fact and of the requester's appeal rights.
 
 (b) Information originated by:
 
-&emsp;(1) the incumbent President;
+(1) the incumbent President or, in the performance of executive duties, the incumbent Vice President;
 
-&emsp;(2) the incumbent President's White House Staff;
+(2) the incumbent President's White House Staff or, in the performance of executive duties, the incumbent Vice President's Staff;
 
-&emsp;(3) committees, commissions, or boards appointed by the incumbent President; or
+(3) committees, commissions, or boards appointed by the incumbent President; or
 
-&emsp;(4) other entities within the Executive Office of the President that solely advise and assist the incumbent President is exempted from the provisions of paragraph (a), above. However, the Archivist shall have the authority to review, downgrade, and declassify information of former Presidents under the control of the Archivist pursuant to sections 2107, 2111, 2111 note, or 2203 of title 44, United States Code. Review procedures developed by the Archivist shall provide for consultation with agencies having primary subject matter interest and shall be consistent with the provisions of applicable laws or lawful agreements that pertain to the respective Presidential papers or records. Agencies with primary subject matter interest shall be notified promptly of the Archivist's decision. Any final decision by the Archivist may be appealed by the requester or an agency to the Interagency Security Classification Appeals Panel. The information shall remain classified pending a prompt decision on the appeal.
+(4) other entities within the Executive Office of the President that solely advise and assist the incumbent President is exempted from the provisions of paragraph (a) of this section. However, the Archivist shall have the authority to review, downgrade, and declassify papers or records of former Presidents under the control of the Archivist pursuant to sections 2107, 2111, 2111 note, or 2203 of title 44, United States Code. Review procedures developed by the Archivist shall provide for consultation with agencies having primary subject matter interest and shall be consistent with the provisions of applicable laws or lawful agreements that pertain to the respective Presidential papers or records. Agencies with primary subject matter interest shall be notified promptly of the Archivist's decision. Any final decision by the Archivist may be appealed by the requester or an agency to the Panel. The information shall remain classified pending a prompt decision on the appeal.
 
 (c) Agencies conducting a mandatory review for declassification shall declassify information that no longer meets the standards for classification under this order. They shall release this information unless withholding is otherwise authorized and warranted under applicable law.
 
-(d) In accordance with directives issued pursuant to this order, agency heads shall develop procedures to process requests for the mandatory review of classified information. These procedures shall apply to information classified under this or predecessor orders. They also shall provide a means for administratively appealing a denial of a mandatory review request, and for notifying the requester of the right to appeal a final agency decision to the Interagency Security Classification Appeals Panel.
+(d) In accordance with directives issued pursuant to this order, agency heads shall develop procedures to process requests for the mandatory review of classified information. These procedures shall apply to information classified under this or predecessor orders. They also shall provide a means for administratively appealing a denial of a mandatory review request, and for notifying the requester of the right to appeal a final agency decision to the Panel.
 
-(e) After consultation with affected agencies, the Secretary of Defense shall develop special procedures for the review of cryptologic information, the Director of Central Intelligence shall develop special procedures for the review of information pertaining to intelligence activities (including special activities), or intelligence sources or methods, and the Archivist shall develop special procedures for the review of information accessioned into the National Archives.
+(e) After consultation with affected agencies, the Secretary of Defense shall develop special procedures for the review of cryptologic information; the Director of Central Intelligence shall develop special procedures for the review of information pertaining to intelligence activities (including special activities), or intelligence sources or methods; and the Archivist shall develop special procedures for the review of information accessioned into the National Archives.
 
-Sec. 3.7. <i>Processing Requests and Reviews</i>. In response to a request for information under the Freedom of Information Act \[5 U.S.C. 552\], the Privacy Act of 1974 \[5 U.S.C. 552a\], or the mandatory review provisions of this order, or pursuant to the automatic declassification or systematic review provisions of this order:
+Sec. 3.6. <i>Processing Requests and Reviews</i>. In response to a request for information under the Freedom of Information Act \[5 U.S.C. 552\], the Privacy Act of 1974 \[5 U.S.C. 552a\], or the mandatory review provisions of this order, or pursuant to the automatic declassification or systematic review provisions of this order:
 
-(a) An agency may refuse to confirm or deny the existence or nonexistence of requested information whenever the fact of its existence or nonexistence is itself classified under this order.
+(a) An agency may refuse to confirm or deny the existence or nonexistence of requested records whenever the fact of their existence or nonexistence is itself classified under this order or its predecessors.
 
-(b) When an agency receives any request for documents in its custody that contain information that was originally classified by another agency, or comes across such documents in the process of the automatic declassification or systematic review provisions of this order, it shall refer copies of any request and the pertinent documents to the originating agency for processing, and may, after consultation with the originating agency, inform any requester of the referral unless such association is itself classified under this order. In cases in which the originating agency determines in writing that a response under paragraph (a), above, is required, the referring agency shall respond to the requester in accordance with that paragraph.
+(b) When an agency receives any request for documents in its custody that contain information that was originally classified by another agency, or comes across such documents in the process of the automatic declassification or systematic review provisions of this order, it shall refer copies of any request and the pertinent documents to the originating agency for processing, and may, after consultation with the originating agency, inform any requester of the referral unless such association is itself classified under this order or its predecessors. In cases in which the originating agency determines in writing that a response under paragraph (a) of this section is required, the referring agency shall respond to the requester in accordance with that paragraph.
 
-Sec. 3.8. <i>Declassification Database</i>. (a) The Archivist in conjunction with the Director of the Information Security Oversight Office and those agencies that originate classified information, shall establish a Governmentwide database of information that has been declassified. The Archivist shall also explore other possible uses of technology to facilitate the declassification process.
+Sec. 3.7. <i>Declassification Database</i>. (a) The Director of the Information Security Oversight Office, in conjunction with those agencies that originate classified information, shall coordinate the linkage and effective utilization of existing agency databases of records that have been declassified and publicly released.
 
-(b) Agency heads shall fully cooperate with the Archivist in these efforts.
-
-(c) Except as otherwise authorized and warranted by law, all declassified information contained within the database established under paragraph (a), above, shall be available to the public.
+(b) Agency heads shall fully cooperate with the Director of the Information Security Oversight Office in these efforts.
 
 #### PART 4—SAFEGUARDING
 
-Sec. 4.1. <i>Definitions</i>. For purposes of this order: (a) “Safeguarding” means measures and controls that are prescribed to protect classified information.
+Sec. 4.1. <i>General Restrictions on Access</i>. (a) A person may have access to classified information provided that:
 
-(b) “Access” means the ability or opportunity to gain knowledge of classified information.
+(1) a favorable determination of eligibility for access has been made by an agency head or the agency head's designee;
 
-(c) “Need-to-know” means a determination made by an authorized holder of classified information that a prospective recipient requires access to specific classified information in order to perform or assist in a lawful and authorized governmental function.
+(2) the person has signed an approved nondisclosure agreement; and
 
-(d) “Automated information system” means an assembly of computer hardware, software, or firmware configured to collect, create, communicate, compute, disseminate, process, store, or control data or information.
+(3) the person has a need-to-know the information.
 
-(e) “Integrity” means the state that exists when information is unchanged from its source and has not been accidentally or intentionally modified, altered, or destroyed.
+(b) Every person who has met the standards for access to classified information in paragraph (a) of this section shall receive contemporaneous training on the proper safeguarding of classified information and on the criminal, civil, and administrative sanctions that may be imposed on an individual who fails to protect classified information from unauthorized disclosure.
 
-(f) “Network” means a system of two or more computers that can exchange data or information.
+(c) Classified information shall remain under the control of the originating agency or its successor in function. An agency shall not disclose information originally classified by another agency without its authorization. An official or employee leaving agency service may not remove classified information from the agency's control.
 
-(g) “Telecommunications” means the preparation, transmission, or communication of information by electronic means.
+(d) Classified information may not be removed from official premises without proper authorization.
 
-(h) “Special access program” means a program established for a specific class of classified information that imposes safeguarding and access requirements that exceed those normally required for information at the same classification level.
+(e) Persons authorized to disseminate classified information outside the executive branch shall ensure the protection of the information in a manner equivalent to that provided within the executive branch.
 
-Sec. 4.2. <i>General Restrictions on Access</i>. (a) A person may have access to classified information provided that:
+(f) Consistent with law, directives, and regulation, an agency head or senior agency official shall establish uniform procedures to ensure that automated information systems, including networks and telecommunications systems, that collect, create, communicate, compute, disseminate, process, or store classified information have controls that:
 
-&emsp;(1) a favorable determination of eligibility for access has been made by an agency head or the agency head's designee;
+(1) prevent access by unauthorized persons; and
 
-&emsp;(2) the person has signed an approved nondisclosure agreement; and
+(2) ensure the integrity of the information.
 
-&emsp;(3) the person has a need-to-know the information.
+(g) Consistent with law, directives, and regulation, each agency head or senior agency official shall establish controls to ensure that classified information is used, processed, stored, reproduced, transmitted, and destroyed under conditions that provide adequate protection and prevent access by unauthorized persons.
 
-(b) Classified information shall remain under the control of the originating agency or its successor in function. An agency shall not disclose information originally classified by another agency without its authorization. An official or employee leaving agency service may not remove classified information from the agency's control.
+(h) Consistent with directives issued pursuant to this order, an agency shall safeguard foreign government information under standards that provide a degree of protection at least equivalent to that required by the government or international organization of governments that furnished the information. When adequate to achieve equivalency, these standards may be less restrictive than the safeguarding standards that ordinarily apply to United States “Confidential” information, including modified handling and transmission and allowing access to individuals with a need-to-know who have not otherwise been cleared for access to classified information or executed an approved nondisclosure agreement.
 
-(c) Classified information may not be removed from official premises without proper authorization.
+(i) Except as otherwise provided by statute, this order, directives implementing this order, or by direction of the President, classified information originating in one agency shall not be disseminated outside any other agency to which it has been made available without the consent of the originating agency. An agency head or senior agency official may waive this requirement for specific information originated within that agency. For purposes of this section, the Department of Defense shall be considered one agency. Prior consent is not required when referring records for declassification review that contain information originating in several agencies.
 
-(d) Persons authorized to disseminate classified information outside the executive branch shall assure the protection of the information in a manner equivalent to that provided within the executive branch.
+Sec. 4.2. <i>Distribution Controls</i>. (a) Each agency shall establish controls over the distribution of classified information to ensure that it is distributed only to organizations or individuals eligible for access and with a need-to-know the information.
 
-(e) Consistent with law, directives, and regulation, an agency head or senior agency official shall establish uniform procedures to ensure that automated information systems, including networks and telecommunications systems, that collect, create, communicate, compute, disseminate, process, or store classified information have controls that:
+(b) In an emergency, when necessary to respond to an imminent threat to life or in defense of the homeland, the agency head or any designee may authorize the disclosure of classified information to an individual or individuals who are otherwise not eligible for access. Such actions shall be taken only in accordance with the directives implementing this order and any procedures issued by agencies governing the classified information, which shall be designed to minimize the classified information that is disclosed under these circumstances and the number of individuals who receive it. Information disclosed under this provision or implementing directives and procedures shall not be deemed declassified as a result of such disclosure or subsequent use by a recipient. Such disclosures shall be reported promptly to the originator of the classified information. For purposes of this section, the Director of Central Intelligence may issue an implementing directive governing the emergency disclosure of classified intelligence information.
 
-&emsp;(1) prevent access by unauthorized persons; and
+(c) Each agency shall update, at least annually, the automatic, routine, or recurring distribution of classified information that they distribute. Recipients shall cooperate fully with distributors who are updating distribution lists and shall notify distributors whenever a relevant change in status occurs.
 
-&emsp;(2) ensure the integrity of the information.
+Sec. 4.3. <i>Special Access Programs</i>. (a) Establishment of special access programs. Unless otherwise authorized by the President, only the Secretaries of State, Defense, and Energy, and the Director of Central Intelligence, or the principal deputy of each, may create a special access program. For special access programs pertaining to intelligence activities (including special activities, but not including military operational, strategic, and tactical programs), or intelligence sources or methods, this function shall be exercised by the Director of Central Intelligence. These officials shall keep the number of these programs at an absolute minimum, and shall establish them only when the program is required by statute or upon a specific finding that:
 
-(f) Consistent with law, directives, and regulation, each agency head or senior agency official shall establish controls to ensure that classified information is used, processed, stored, reproduced, transmitted, and destroyed under conditions that provide adequate protection and prevent access by unauthorized persons.
+(1) the vulnerability of, or threat to, specific information is exceptional; and
 
-(g) Consistent with directives issued pursuant to this order, an agency shall safeguard foreign government information under standards that provide a degree of protection at least equivalent to that required by the government or international organization of governments that furnished the information. When adequate to achieve equivalency, these standards may be less restrictive than the safeguarding standards that ordinarily apply to United States “Confidential” information, including allowing access to individuals with a need-to-know who have not otherwise been cleared for access to classified information or executed an approved nondisclosure agreement.
+(2) the normal criteria for determining eligibility for access applicable to information classified at the same level are not deemed sufficient to protect the information from unauthorized disclosure.
 
-(h) Except as provided by statute or directives issued pursuant to this order, classified information originating in one agency may not be disseminated outside any other agency to which it has been made available without the consent of the originating agency. An agency head or senior agency official may waive this requirement for specific information originated within that agency. For purposes of this section, the Department of Defense shall be considered one agency.
-
-Sec. 4.3. <i>Distribution Controls</i>. (a) Each agency shall establish controls over the distribution of classified information to assure that it is distributed only to organizations or individuals eligible for access who also have a need-to-know the information.
-
-(b) Each agency shall update, at least annually, the automatic, routine, or recurring distribution of classified information that they distribute. Recipients shall cooperate fully with distributors who are updating distribution lists and shall notify distributors whenever a relevant change in status occurs.
-
-Sec. 4.4. <i>Special Access Programs</i>. (a) Establishment of special access programs. Unless otherwise authorized by the President, only the Secretaries of State, Defense and Energy, and the Director of Central Intelligence, or the principal deputy of each, may create a special access program. For special access programs pertaining to intelligence activities (including special activities, but not including military operational, strategic and tactical programs), or intelligence sources or methods, this function will be exercised by the Director of Central Intelligence. These officials shall keep the number of these programs at an absolute minimum, and shall establish them only upon a specific finding that:
-
-&emsp;(1) the vulnerability of, or threat to, specific information is exceptional; and
-
-&emsp;(2) the normal criteria for determining eligibility for access applicable to information classified at the same level are not deemed sufficient to protect the information from unauthorized disclosure; or
-
-&emsp;(3) the program is required by statute.
-
-(b) <i>Requirements and Limitations</i>. (1) Special access programs shall be limited to programs in which the number of persons who will have access ordinarily will be reasonably small and commensurate with the objective of providing enhanced protection for the information involved.
+(b) Requirements and limitations. (1) Special access programs shall be limited to programs in which the number of persons who will have access ordinarily will be reasonably small and commensurate with the objective of providing enhanced protection for the information involved.
 
 (2) Each agency head shall establish and maintain a system of accounting for special access programs consistent with directives issued pursuant to this order.
 
-(3) Special access programs shall be subject to the oversight program established under section 5.6(c) of this order. In addition, the Director of the Information Security Oversight Office shall be afforded access to these programs, in accordance with the security requirements of each program, in order to perform the functions assigned to the Information Security Oversight Office under this order. An agency head may limit access to a special access program to the Director and no more than one other employee of the Information Security Oversight Office; or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.
+(3) Special access programs shall be subject to the oversight program established under section 5.4(d) of this order. In addition, the Director of the Information Security Oversight Office shall be afforded access to these programs, in accordance with the security requirements of each program, in order to perform the functions assigned to the Information Security Oversight Office under this order. An agency head may limit access to a special access program to the Director and no more than one other employee of the Information Security Oversight Office, or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.
 
 (4) The agency head or principal deputy shall review annually each special access program to determine whether it continues to meet the requirements of this order.
 
-(5) Upon request, an agency shall brief the Assistant to the President for National Security Affairs, or his or her designee, on any or all of the agency's special access programs.
+(5) Upon request, an agency head shall brief the Assistant to the President for National Security Affairs, or a designee, on any or all of the agency's special access programs.
 
-(c) Within 180 days after the effective date of this order, each agency head or principal deputy shall review all existing special access programs under the agency's jurisdiction. These officials shall terminate any special access programs that do not clearly meet the provisions of this order. Each existing special access program that an agency head or principal deputy validates shall be treated as if it were established on the effective date of this order.
+(c) Nothing in this order shall supersede any requirement made by or under 10 U.S.C. 119.
 
-(d) Nothing in this order shall supersede any requirement made by or under 10 U.S.C. 119.
+Sec. 4.4. <i>Access by Historical Researchers and Certain Former Government Personnel</i>. (a) The requirement in section 4.1(a)(3) of this order that access to classified information may be granted only to individuals whohave a need-to-know the information may be waived for persons who:
 
-Sec. 4.5. <i>Access by Historical Researchers and Former Presidential Appointees</i>. (a) The requirement in section 4.2(a)(3) of this order that access to classified information may be granted only to individuals who have a need-to-know the information may be waived for persons who:
+(1) are engaged in historical research projects;
 
-&emsp;(1) are engaged in historical research projects; or
+(2) previously have occupied policy-making positions to which they were appointed by the President under section 105(a)(2)(A) of title 3, United States Code, or the Vice President under 106(a)(1)(A) of title 3, United States Code; or
 
-&emsp;(2) previously have occupied policy-making positions to which they were appointed by the President.
+(3) served as President or Vice President.
 
 (b) Waivers under this section may be granted only if the agency head or senior agency official of the originating agency:
 
-&emsp;(1) determines in writing that access is consistent with the interest of national security;
+(1) determines in writing that access is consistent with the interest of the national security;
 
-&emsp;(2) takes appropriate steps to protect classified information from unauthorized disclosure or compromise, and ensures that the information is safeguarded in a manner consistent with this order; and
+(2) takes appropriate steps to protect classified information from unauthorized disclosure or compromise, and ensures that the information is safeguarded in a manner consistent with this order; and
 
-&emsp;(3) limits the access granted to former Presidential appointees to items that the person originated, reviewed, signed, or received while serving as a Presidential appointee.
+(3) limits the access granted to former Presidential appointees and Vice Presidential appointees to items that the person originated, reviewed, signed, or received while serving as a Presidential appointee or a Vice Presidential appointee.
 
 #### PART 5—IMPLEMENTATION AND REVIEW
 
-Sec. 5.1. <i>Definitions</i>. For purposes of this order: (a) “Self-inspection” means the internal review and evaluation of individual agency activities and the agency as a whole with respect to the implementation of the program established under this order and its implementing directives.
+Sec. 5.1. <i>Program Direction</i>. (a) The Director of the Information Security Oversight Office, under the direction of the Archivist and in consultation with the Assistant to the President for National Security Affairs, shall issue such directives as are necessary to implement this order. These directives shall be binding upon the agencies. Directives issued by the Director of the Information Security Oversight Office shall establish standards for:
 
-(b) “Violation” means:
+(1) classification and marking principles;
 
-&emsp;(1) any knowing, willful, or negligent action that could reasonably be expected to result in an unauthorized disclosure of classified information;
+(2) safeguarding classified information, which shall pertain to the handling, storage, distribution, transmittal, and destruction of and accounting for classified information;
 
-&emsp;(2) any knowing, willful, or negligent action to classify or continue the classification of information contrary to the requirements of this order or its implementing directives; or
+(3) agency security education and training programs;
 
-&emsp;(3) any knowing, willful, or negligent action to create or continue a special access program contrary to the requirements of this order.
+(4) agency self-inspection programs; and
 
-(c) “Infraction” means any knowing, willful, or negligent action contrary to the requirements of this order or its implementing directives that does not comprise a “violation,” as defined above.
+(5) classification and declassification guides.
 
-Sec. 5.2. <i>Program Direction</i>. (a) The Director of the Information Security Oversight Office, under the direction of the Archivist of the United States and in consultation with the Assistant to the President for National Security Affairs and the co-chairs of the Security Policy Board, shall issue such directives as are necessary to implement this order. These directives shall be binding upon the agencies. Directives issued by the Director of the Information Security Oversight Office shall establish standards for:
+(b) The Archivist shall delegate the implementation and monitoring functions of this program to the Director of the Information Security Oversight Office.
 
-&emsp;(1) classification and marking principles;
+Sec. 5.2. <i>Information Security Oversight Office</i>. (a) There is established within the National Archives an Information Security Oversight Office. The Archivist shall appoint the Director of the Information Security Oversight Office, subject to the approval of the President.
 
-&emsp;(2) agency security education and training programs;
+(b) Under the direction of the Archivist, acting in consultation with the Assistant to the President for National Security Affairs, the Director of the Information Security Oversight Office shall:
 
-&emsp;(3) agency self-inspection programs; and
+(1) develop directives for the implementation of this order;
 
-&emsp;(4) classification and declassification guides.
+(2) oversee agency actions to ensure compliance with this order and its implementing directives;
 
-(b) The Archivist of the United States shall delegate the implementation and monitorship functions of this program to the Director of the Information Security Oversight Office.
+(3) review and approve agency implementing regulations and agency guides for systematic declassification review prior to their issuance by the agency;
 
-(c) The Security Policy Board, established by a Presidential Decision Directive, shall make a recommendation to the President through the Assistant to the President for National Security Affairs with respect to the issuance of a Presidential directive on safeguarding classified information. The Presidential directive shall pertain to the handling, storage, distribution, transmittal, and destruction of and accounting for classified information.
+(4) have the authority to conduct on-site reviews of each agency's program established under this order, and to require of each agency those reports, information, and other cooperation that may be necessary to fulfill its responsibilities. If granting access to specific categories of classified information would pose an exceptional national security risk, the affected agency head or the senior agency official shall submit a written justification recommending the denial of access to the President through the Assistant to the President for National Security Affairs within 60 days of the request for access. Access shall be denied pending the response;
 
-Sec. 5.3. <i>Information Security Oversight Office</i>. (a) There is established within the National Archives and Records Administration an Information Security Oversight Office. The Archivist of the United States shall appoint the Director of the Information Security Oversight Office, subject to the approval of the President.
+(5) review requests for original classification authority from agencies or officials not granted original classification authority and, if deemed appropriate, recommend Presidential approval through the Assistant to the President for National Security Affairs;
 
-(b) Under the direction of the Archivist of the United States, acting in consultation with the Assistant to the President for National Security Affairs, the Director of the Information Security Oversight Office shall:
+(6) consider and take action on complaints and suggestions from persons within or outside the Government with respect to the administration of the program established under this order;
 
-&emsp;(1) develop directives for the implementation of this order;
+(7) have the authority to prescribe, after consultation with affected agencies, standardization of forms or procedures that will promote the implementation of the program established under this order;
 
-&emsp;(2) oversee agency actions to ensure compliance with this order and its implementing directives;
+(8) report at least annually to the President on the implementation of this order; and
 
-&emsp;(3) review and approve agency implementing regulations and agency guides for systematic declassification review prior to their issuance by the agency;
+(9) convene and chair interagency meetings to discuss matters pertaining to the program established by this order.
 
-&emsp;(4) have the authority to conduct on-site reviews of each agency's program established under this order, and to require of each agency those reports, information, and other cooperation that may be necessary to fulfill its responsibilities. If granting access to specific categories of classified information would pose an exceptional national security risk, the affected agency head or the senior agency official shall submit a written justification recommending the denial of access to the President through the Assistant to the President for National Security Affairs within 60 days of the request for access. Access shall be denied pending the response,\[;\]
+Sec. 5.3. <i>Interagency Security Classification Appeals Panel.</i>
 
-&emsp;(5) review requests for original classification authority from agencies or officials not granted original classification authority and, if deemed appropriate, recommend Presidential approval through the Director of the Office of Management and Budget;
+(a) Establishment and administration.
 
-&emsp;(6) consider and take action on complaints and suggestions from persons within or outside the Government with respect to the administration of the program established under this order;
+(1) There is established an Interagency Security Classification Appeals Panel. The Departments of State, Defense, and Justice, the Central Intelligence Agency, the National Archives, and the Assistant to the President for National Security Affairs shall each be represented by a senior-level representative who is a full-time or permanent part-time Federal officer or employee designated to serve as a member of the Panel by the respective agency head. The President shall select the Chair of the Panel from among the Panel members.
 
-&emsp;(7) have the authority to prescribe, after consultation with affected agencies, standardization of forms or procedures that will promote the implementation of the program established under this order;
+(2) A vacancy on the Panel shall be filled as quickly as possible as provided in paragraph (a)(1) of this section.
 
-&emsp;(8) report at least annually to the President on the implementation of this order; and
+(3) The Director of the Information Security Oversight Office shall serve as the Executive Secretary. The staff of the Information Security Oversight Office shall provide program and administrative support for the Panel.
 
-&emsp;(9) convene and chair interagency meetings to discuss matters pertaining to the program established by this order.
+(4) The members and staff of the Panel shall be required to meet eligibility for access standards in order to fulfill the Panel's functions.
 
-Sec. 5.4. <i>Interagency Security Classification Appeals Panel.</i>
+(5) The Panel shall meet at the call of the Chair. The Chair shall schedule meetings as may be necessary for the Panel to fulfill its functions in a timely manner.
 
-(a) Establishment and Administration.
+(6) The Information Security Oversight Office shall include in its reports to the President a summary of the Panel's activities.
 
-&emsp;(1) There is established an Interagency Security Classification Appeals Panel (“Panel”). The Secretaries of State and Defense, the Attorney General, the Director of Central Intelligence, the Archivist of the United States, and the Assistant to the President for National Security Affairs shall each appoint a senior level representative to serve as a member of the Panel. The President shall select the Chair of the Panel from among the Panel members.
+(b) Functions. The Panel shall:
 
-&emsp;(2) A vacancy on the Panel shall be filled as quickly as possible as provided in paragraph (1), above.
+(1) decide on appeals by persons who have filed classification challenges under section 1.8 of this order;
 
-&emsp;(3) The Director of the Information Security Oversight Office shall serve as the Executive Secretary. The staff of the Information Security Oversight Office shall provide program and administrative support for the Panel.
+(2) approve, deny, or amend agency exemptions from automatic declassification as provided in section 3.3 of this order; and
 
-&emsp;(4) The members and staff of the Panel shall be required to meet eligibility for access standards in order to fulfill the Panel's functions.
+(3) decide on appeals by persons or entities who have filed requests for mandatory declassification review under section 3.5 of this order.
 
-&emsp;(5) The Panel shall meet at the call of the Chair. The Chair shall schedule meetings as may be necessary for the Panel to fulfill its functions in a timely manner.
+(c) Rules and procedures. The Panel shall issue bylaws, which shall be published in the Federal Register. The bylaws shall establish the rules and procedures that the Panel will follow in accepting, considering, and issuing decisions on appeals. The rules and procedures of the Panel shall provide that the Panel will consider appeals only on actions in which:
 
-&emsp;(6) The Information Security Oversight Office shall include in its reports to the President a summary of the Panel's activities.
+&emsp;(1) the appellant has exhausted his or her administrative remedies within the responsible agency;
 
-(b) <i>Functions</i>. The Panel shall:
+&emsp;(2) there is no current action pending on the issue within the Federal courts; and
 
-&emsp;(1) decide on appeals by persons who have filed classification challenges under section 1.9 of this order;
+&emsp;(3) the information has not been the subject of review by the Federal courts or the Panel within the past 2 years.
 
-&emsp;(2) approve, deny, or amend agency exemptions from automatic declassification as provided in section 3.4 of this order; and
+(d) Agency heads shall cooperate fully with the Panel so that it can fulfill its functions in a timely and fully informed manner. An agency head may appeal a decision of the Panel to the President through the Assistant to the President for National Security Affairs. The Panel shall report to the President through the Assistant to the President for National Security Affairs any instance in which it believes that an agency head is not cooperating fully with the Panel.
 
-&emsp;(3) decide on appeals by persons or entities who have filed requests for mandatory declassification review under section 3.6 of this order.
+(e) The Panel is established for the sole purpose of advising and assisting the President in the discharge of his constitutional and discretionary authority to protect the national security of the United States. Panel decisions are committed to the discretion of the Panel, unless changed by the President.
 
-(c) <i>Rules and Procedures</i>. The Panel shall issue bylaws, which shall be published in the Federal Register no later than 120 days from the effective date of this order. The bylaws shall establish the rules and procedures that the Panel will follow in accepting, considering, and issuing decisions on appeals. The rules and procedures of the Panel shall provide that the Panel will consider appeals only on actions in which: (1) the appellant has exhausted his or her administrative remedies within the responsible agency; (2) there is no current action pending on the issue within the federal courts; and (3) the information has not been the subject of review by the federal courts or the Panel within the past 2 years.
+(f) Notwithstanding paragraphs (a) through (e) of this section, whenever the Panel reaches a conclusion that information owned or controlled by the Director of Central Intelligence (Director) should be declassified, and the Director notifies the Panel that he objects to its conclusion because he has determined that the information could reasonably be expected to cause damage to the national security and to reveal (1) the identity of a human intelligence source, or (2) information about the application of an intelligence source or method (including any information that concerns, or is provided as a result of, a relationship with a cooperating intelligence element of a foreign government), the information shall remain classified unless the Director's determination is appealed to the President, and the President reverses the determination.
 
-(d) Agency heads will cooperate fully with the Panel so that it can fulfill its functions in a timely and fully informed manner. An agency head may appeal a decision of the Panel to the President through the Assistant to the President for National Security Affairs. The Panel will report to the President through the Assistant to the President for National Security Affairs anyinstance in which it believes that an agency head is not cooperating fully with the Panel.
-
-(e) The Appeals Panel is established for the sole purpose of advising and assisting the President in the discharge of his constitutional and discretionary authority to protect the national security of the United States. Panel decisions are committed to the discretion of the Panel, unless reversed by the President.
-
-Sec. 5.5. <i>Information Security Policy Advisory Council.</i>
-
-(a) <i>Establishment</i>. There is established an Information Security Policy Advisory Council (“Council”). The Council shall be composed of seven members appointed by the President for staggered terms not to exceed 4 years, from among persons who have demonstrated interest and expertise in an area related to the subject matter of this order and are not otherwise employees of the Federal Government. The President shall appoint the Council Chair from among the members. The Council shall comply with the Federal Advisory Committee Act, as amended, 5 U.S.C. App. 2.
-
-(b) <i>Functions</i>. The Council shall:
-
-&emsp;(1) advise the President, the Assistant to the President for National Security Affairs, the Director of the Office of Management and Budget, or such other executive branch officials as it deems appropriate, on policies established under this order or its implementing directives, including recommended changes to those policies;
-
-&emsp;(2) provide recommendations to agency heads for specific subject areas for systematic declassification review; and
-
-&emsp;(3) serve as a forum to discuss policy issues in dispute.
-
-(c) <i>Meetings</i>. The Council shall meet at least twice each calendar year, and as determined by the Assistant to the President for National Security Affairs or the Director of the Office of Management and Budget.
-
-(d) <i>Administration.</i>
-
-&emsp;(1) Each Council member may be compensated at a rate of pay not to exceed the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the general schedule under section 5376 of title 5, United States Code, for each day during which that member is engaged in the actual performance of the duties of the Council.
-
-&emsp;(2) While away from their homes or regular place of business in the actual performance of the duties of the Council, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5703(b)).
-
-&emsp;(3) To the extent permitted by law and subject to the availability of funds, the Information Security Oversight Office shall provide the Council with administrative services, facilities, staff, and other support services necessary for the performance of its functions.
-
-&emsp;(4) Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended \[5 App. U.S.C.\], that are applicable to the Council, except that of reporting to the Congress, shall be performed by the Director of the Information Security Oversight Office in accordance with the guidelines and procedures established by the General Services Administration.
-
-Sec. 5.6. <i>General Responsibilities</i>. Heads of agencies that originate or handle classified information shall:
+Sec. 5.4. <i>General Responsibilities</i>. Heads of agencies that originate or handle classified information shall:
 
 (a) demonstrate personal commitment and commit senior management to the successful implementation of the program established under this order;
 
-(b) commit necessary resources to the effective implementation of the program established under this order; and
+(b) commit necessary resources to the effective implementation of the program established under this order;
 
-(c) designate a senior agency official to direct and administer the program, whose responsibilities shall include:
+(c) ensure that agency records systems are designed and maintained to optimize the safeguarding of classified information, and to facilitate its declassification under the terms of this order when it no longer meets the standards for continued classification; and
 
-&emsp;(1) overseeing the agency's program established under this order, provided, an agency head may designate a separate official to oversee special access programs authorized under this order. This official shall provide a full accounting of the agency's special access programs at least annually;
+(d) designate a senior agency official to direct and administer the program, whose responsibilities shall include:
 
-&emsp;(2) promulgating implementing regulations, which shall be published in the Federal Register to the extent that they affect members of the public;
+(1) overseeing the agency's program established under this order, provided, an agency head may designate a separate official to oversee special access programs authorized under this order. This official shall provide a full accounting of the agency's special access programs at least annually;
 
-&emsp;(3) establishing and maintaining security education and training programs;
+(2) promulgating implementing regulations, which shall be published in the Federal Register to the extent that they affect members of the public;
 
-&emsp;(4) establishing and maintaining an ongoing self-inspection program, which shall include the periodic review and assessment of the agency's classified product;
+(3) establishing and maintaining security education and training programs;
 
-&emsp;(5) establishing procedures to prevent unnecessary access to classified information, including procedures that: (i) require that a need for access to classified information is established before initiating administrative clearance procedures; and (ii) ensure that the number of persons granted access to classified information is limited to the minimum consistent with operational and security requirements and needs;
+(4) establishing and maintaining an ongoing self-inspection program, which shall include the periodic review and assessment of the agency's classified product;
 
-&emsp;(6) developing special contingency plans for the safeguarding of classified information used in or near hostile or potentially hostile areas;
+(5) establishing procedures to prevent unnecessary access to classified information, including procedures that:
 
-&emsp;(7) assuring that the performance contract or other system used to rate civilian or military personnel performance includes the management of classified information as a critical element or item to be evaluated in the rating of: (i) original classification authorities; (ii) security managers or security specialists; and (iii) all other personnel whose duties significantly involve the creation or handling of classified information;
+&emsp;(A) require that a need for access to classified information is established before initiating administrative clearance procedures; and
 
-&emsp;(8) accounting for the costs associated with the implementation of this order, which shall be reported to the Director of the Information Security Oversight Office for publication; and
+&emsp;(B) ensure that the number of persons granted access to classified information is limited to the minimum consistent with operational and security requirements and needs;
 
-&emsp;(9) assigning in a prompt manner agency personnel to respond to any request, appeal, challenge, complaint, or suggestion arising out of this order that pertains to classified information that originated in a component of the agency that no longer exists and for which there is no clear successor in function.
+(6) developing special contingency plans for the safeguarding of classified information used in or near hostile or potentially hostile areas;
 
-Sec. 5.7. <i>Sanctions</i>. (a) If the Director of the Information Security Oversight Office finds that a violation of this order or its implementing directives may have occurred, the Director shall make a report to the head of the agency or to the senior agency official so that corrective steps, if appropriate, may be taken.
+(7) ensuring that the performance contract or other system used to rate civilian or military personnel performance includes the management of classified information as a critical element or item to be evaluated in the rating of:
+
+&emsp;(A) original classification authorities;
+
+&emsp;(B) security managers or security specialists; and
+
+&emsp;(C) all other personnel whose duties significantly involve the creation or handling of classified information;
+
+(8) accounting for the costs associated with the implementation of this order, which shall be reported to the Director of the Information Security Oversight Office for publication; and
+
+(9) assigning in a prompt manner agency personnel to respond to any request, appeal, challenge, complaint, or suggestion arising out of this order that pertains to classified information that originated in a component of the agency that no longer exists and for which there is no clear successor in function.
+
+Sec. 5.5. <i>Sanctions</i>. (a) If the Director of the Information Security Oversight Office finds that a violation of this order or its implementing directives has occurred, the Director shall make a report to the head of the agency or to the senior agency official so that corrective steps, if appropriate, may be taken.
 
 (b) Officers and employees of the United States Government, and its contractors, licensees, certificate holders, and grantees shall be subject to appropriate sanctions if they knowingly, willfully, or negligently:
 
-&emsp;(1) disclose to unauthorized persons information properly classified under this order or predecessor orders;
+(1) disclose to unauthorized persons information properly classified under this order or predecessor orders;
 
-&emsp;(2) classify or continue the classification of information in violation of this order or any implementing directive;
+(2) classify or continue the classification of information in violation of this order or any implementing directive;
 
-&emsp;(3) create or continue a special access program contrary to the requirements of this order; or
+(3) create or continue a special access program contrary to the requirements of this order; or
 
-&emsp;(4) contravene any other provision of this order or its implementing directives.
+(4) contravene any other provision of this order or its implementing directives.
 
 (c) Sanctions may include reprimand, suspension without pay, removal, termination of classification authority, loss or denial of access to classified information, or other sanctions in accordance with applicable law and agency regulation.
 
@@ -1756,23 +1544,131 @@ Sec. 5.7. <i>Sanctions</i>. (a) If the Director of the Information Security Over
 
 (e) The agency head or senior agency official shall:
 
-&emsp;(1) take appropriate and prompt corrective action when a violation or infraction under paragraph (b), above, occurs; and
+(1) take appropriate and prompt corrective action when a violation or infraction under paragraph (b) of this section occurs; and
 
-&emsp;(2) notify the Director of the Information Security Oversight Office when a violation under paragraph (b)(1), (2) or (3), above, occurs.
+(2) notify the Director of the Information Security Oversight Office when a violation under paragraph (b)(1), (2), or (3) of this section occurs.
 
 #### PART 6—GENERAL PROVISIONS
 
-Sec. 6.1. <i>General Provisions</i>. (a) Nothing in this order shall supersede any requirement made by or under theAtomic Energy Act of 1954, as amended \[42 U.S.C. 2011 <i>et seq</i>.\], or the National Security Act of 1947, as amended \[act July 26, 1947, see Short Title note set out under section 401 of this title\]. “Restricted Data” and “Formerly Restricted Data” shall be handled, protected, classified, downgraded, and declassified in conformity with the provisions of the Atomic Energy Act of 1954, as amended, and regulations issued under that Act.
+Sec. 6.1. <i>Definitions</i>. For purposes of this order:
+
+(a) “Access” means the ability or opportunity to gain knowledge of classified information.
+
+(b) “Agency” means any “Executive agency,” as defined in 5 U.S.C. 105; any “Military department” as defined in 5 U.S.C. 102; and any other entity within the executive branch that comes into the possession of classified information.
+
+(c) “Automated information system” means an assembly of computer hardware, software, or firmware configured to collect, create, communicate, compute, disseminate, process, store, or control data or information.
+
+(d) “Automatic declassification” means the declassification of information based solely upon:
+
+(1) the occurrence of a specific date or event as determined by the original classification authority; or
+
+(2) the expiration of a maximum time frame for duration of classification established under this order.
+
+(e) “Classification” means the act or process by which information is determined to be classified information.
+
+(f) “Classification guidance” means any instruction or source that prescribes the classification of specific information.
+
+(g) “Classification guide” means a documentary form of classification guidance issued by an original classification authority that identifies the elements of information regarding a specific subject that must be classified and establishes the level and duration of classification for each such element.
+
+(h) “Classified national security information” or “classified information” means information that has been determined pursuant to this order or any predecessor order to require protection against unauthorized disclosure and is marked to indicate its classified status when in documentary form.
+
+(i) “Confidential source” means any individual or organization that has provided, or that may reasonably be expected to provide, information to the United States on matters pertaining to the national security with the expectation that the information or relationship, or both, are to be held in confidence.
+
+(j) “Damage to the national security” means harm to the national defense or foreign relations of the UnitedStates from the unauthorized disclosure of information, taking into consideration such aspects of the information as the sensitivity, value, utility, and provenance of that information.
+
+(k) “Declassification” means the authorized change in the status of information from classified information to unclassified information.
+
+(l) “Declassification authority” means:
+
+(1) the official who authorized the original classification, if that official is still serving in the same position;
+
+(2) the originator's current successor in function;
+
+(3) a supervisory official of either; or
+
+(4) officials delegated declassification authority in writing by the agency head or the senior agency official.
+
+(m) “Declassification guide” means written instructions issued by a declassification authority that describes the elements of information regarding a specific subject that may be declassified and the elements that must remain classified.
+
+(n) “Derivative classification” means the incorporating, paraphrasing, restating, or generating in new form information that is already classified, and marking the newly developed material consistent with the classification markings that apply to the source information. Derivative classification includes the classification of information based on classification guidance. The duplication or reproduction of existing classified information is not derivative classification.
+
+(o) “Document” means any recorded information, regardless of the nature of the medium or the method or circumstances of recording.
+
+(p) “Downgrading” means a determination by a declassification authority that information classified and safeguarded at a specified level shall be classified and safeguarded at a lower level.
+
+(q) “File series” means file units or documents arranged according to a filing system or kept together because they relate to a particular subject or function, result from the same activity, document a specific kind of transaction, take a particular physical form, or have some other relationship arising out of their creation, receipt, or use, such as restrictions on access or use.
+
+(r) “Foreign government information” means:
+
+(1) information provided to the United States Government by a foreign government or governments, an international organization of governments, or any element thereof, with the expectation that the information, the source of the information, or both, are to be held in confidence;
+
+(2) information produced by the United States Government pursuant to or as a result of a joint arrangement with a foreign government or governments, or an international organization of governments, or any element thereof, requiring that the information, the arrangement, or both, are to be held in confidence; or
+
+(3) information received and treated as “foreign government information” under the terms of a predecessor order.
+
+(s) “Information” means any knowledge that can be communicated or documentary material, regardless of its physical form or characteristics, that is owned by, produced by or for, or is under the control of the United States Government. “Control” means the authority of the agency that originates information, or its successor in function, to regulate access to the information.
+
+(t) “Infraction” means any knowing, willful, or negligent action contrary to the requirements of this order or its implementing directives that does not constitute a “violation,” as defined below.
+
+(u) “Integral file block” means a distinct component of a file series, as defined in this section, that should be maintained as a separate unit in order to ensure the integrity of the records. An integral file block may consist of a set of records covering either a specific topic or a range of time such as presidential administration or a 5-year retirement schedule within a specific file series that is retired from active use as a group.
+
+(v) “Integrity” means the state that exists when information is unchanged from its source and has not been accidentally or intentionally modified, altered, or destroyed.
+
+(w) “Mandatory declassification review” means the review for declassification of classified information in response to a request for declassification that meets the requirements under section 3.5 of this order.
+
+(x) “Multiple sources” means two or more source documents, classification guides, or a combination of both.
+
+(y) “National security” means the national defense or foreign relations of the United States.
+
+(z) “Need-to-know” means a determination made by an authorized holder of classified information that a prospective recipient requires access to specific classified information in order to perform or assist in a lawful and authorized governmental function.
+
+(aa) “Network” means a system of two or more computers that can exchange data or information.
+
+(bb) “Original classification” means an initial determination that information requires, in the interest of the national security, protection against unauthorized disclosure.
+
+(cc) “Original classification authority” means an individual authorized in writing, either by the President, the Vice President in the performance of executive duties, or by agency heads or other officials designated by the President, to classify information in the first instance.
+
+(dd) “Records” means the records of an agency and Presidential papers or Presidential records, as those terms are defined in title 44, United States Code, including those created or maintained by a government contractor, licensee, certificate holder, or grantee that are subject to the sponsoring agency's control under the terms of the contract, license, certificate, or grant.
+
+(ee) “Records having permanent historical value” means Presidential papers or Presidential records and the records of an agency that the Archivist has determined should be maintained permanently in accordance with title 44, United States Code.
+
+(ff) “Records management” means the planning, controlling, directing, organizing, training, promoting, and other managerial activities involved with respect to records creation, records maintenance and use, and records disposition in order to achieve adequate and proper documentation of the policies and transactions of the Federal Government and effective and economical management of agency operations.
+
+(gg) “Safeguarding” means measures and controls that are prescribed to protect classified information.
+
+(hh) “Self-inspection” means the internal review and evaluation of individual agency activities and the agency as a whole with respect to the implementation of the program established under this order and its implementing directives.
+
+(ii) “Senior agency official” means the official designated by the agency head under section 5.4(d) of this order to direct and administer the agency's program under which information is classified, safeguarded, and declassified.
+
+(jj) “Source document” means an existing document that contains classified information that is incorporated, paraphrased, restated, or generated in new form into a new document.
+
+(kk) “Special access program” means a program established for a specific class of classified information that imposes safeguarding and access requirements that exceed those normally required for information at the same classification level.
+
+(ll) “Systematic declassification review” means the review for declassification of classified information contained in records that have been determined by the Archivist to have permanent historical value in accordance with title 44, United States Code.
+
+(mm) “Telecommunications” means the preparation, transmission, or communication of information by electronic means.
+
+(nn) “Unauthorized disclosure” means a communication or physical transfer of classified information to an unauthorized recipient.
+
+(oo) “Violation” means:
+
+(1) any knowing, willful, or negligent action that could reasonably be expected to result in an unauthorized disclosure of classified information;
+
+(2) any knowing, willful, or negligent action to classify or continue the classification of information contrary to the requirements of this order or its implementing directives; or
+
+(3) any knowing, willful, or negligent action to create or continue a special access program contrary to the requirements of this order.
+
+(pp) “Weapons of mass destruction” means chemical, biological, radiological, and nuclear weapons.
+
+Sec. 6.2. <i>General Provisions</i>. (a) Nothing in this order shall supersede any requirement made by or under the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], or the National Security Act of 1947, as amended \[act July 26, 1947, see Short Title note set out under section 401 of this title\]. “Restricted Data” and “Formerly Restricted Data” shall be handled, protected, classified, downgraded, and declassified in conformity with the provisions of the Atomic Energy Act of 1954, as amended, and regulations issued under that Act.
 
 (b) The Attorney General, upon request by the head of an agency or the Director of the Information Security Oversight Office, shall render an interpretation of this order with respect to any question arising in the course of its administration.
 
-(c) Nothing in this order limits the protection afforded any information by other provisions of law, including the exemptions to the Freedom of Information Act \[5 U.S.C. 552\], the Privacy Act \[5 U.S.C. 552a\], and the National Security Act of 1947, as amended. This order is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees. The foregoing is in addition to the specific provisos set forth in sections 1.2(b), 3.2(b) and 5.4(e) of this order.
+(c) Nothing in this order limits the protection afforded any information by other provisions of law, including the Constitution, Freedom of Information Act \[5 U.S.C. 552\] exemptions, the Privacy Act of 1974 \[5 U.S.C. 552a\], and the National Security Act of 1947, as amended. This order is not intended to and does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its departments, agencies, officers, employees, or agents. The foregoing is in addition to the specific provisos set forth in sections 3.1(b) and 5.3(e) of this order.” \[sic\]
 
-(d) Executive Order No. 12356 of April 6, 1982, is revoked as of the effective date of this order.
+(d) Executive Order 12356 of April 6, 1982, was revoked as of October 14, 1995.
 
-Sec. 6.2. <i>Effective Date</i>. This order shall become effective 180 days from the date of this order.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sec. 6.3. <i>Effective Date</i>. This order is effective immediately, except for section 1.6, which shall become effective 180 days from the date of this order.
 
 #### Officials Designated To Classify National Security Information
 
@@ -1917,6 +1813,16 @@ Order of President of the United States, dated Sept. 26, 2002, 67 F.R. 61465, pr
 In accordance with the provisions of section 1.4 of Executive Order 12958 of April 17, 1995, entitled “Classified National Security Information,” \[set out above\] I hereby designate the Secretary of Agriculture to classify information originally as “Secret.”
 
 Any delegation of this authority shall be in accordance with section 1.4(c) of Executive Order 12958.
+
+This order shall be published in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Order of President of the United States, dated Sept. 17, 2003, 68 F.R. 55257, provided:
+
+Consistent with the provisions of section 1.3 of Executive Order 12958 of April 17, 1995, as amended, entitled “Classified National Security Information,” \[set out above\] I hereby designate the Director of the Office of Science and Technology Policy to classify information originally as “Top Secret.”
+
+Any delegation of this authority shall be in accordance with section 1.3(c) of Executive Order 12958, as amended.
 
 This order shall be published in the Federal Register.
 

@@ -34,7 +34,3 @@ Section 4 of act Sept. 7, 1949, provided that: “If any provision of Title 18, 
 
 Section 3 of act Sept. 7, 1949, provided that: “The Attorney General may authorize the use of any unexpended balance of the appropriation for ‘Support of United States prisoners’ for carrying out the purposes of Title 18, United States Code, sections 4244 to 4248, inclusive, or in payment of any expenses incidental thereto and not provided for by other specific appropriations.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3552, 4247 of this title.
-

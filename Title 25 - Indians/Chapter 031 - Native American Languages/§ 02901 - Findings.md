@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(5) there is a lack of clear, comprehensive, and consistent Federal policy on treatment of Native American languages which has often resulted in acts of suppression and extermination of Native American languages and cultures;
 
-&emsp;(6) there is convincing evidence that student achievement and performance, community and school pride, and educational opportunity is clearly and directly tied to respect for, and support of, the first language of the child or student;
+&emsp;(6) there is convincing evidence that student achievement and performance, community andschool pride, and educational opportunity is clearly and directly tied to respect for, and support of, the first language of the child or student;
 
 &emsp;(7) it is clearly in the interests of the United States, individual States, and territories to encourage the full academic and human potential achievements of all students and citizens and to take steps to realize these ends;
 
@@ -27,10 +27,6 @@ The Congress finds that—
 #### Short Title
 
 Section 101 of title I of Pub. L. 101–477 provided that: “This title \[enacting this chapter\] may be cited as the ‘Native American Languages Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 20 section 7801.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “American”.</i>
 

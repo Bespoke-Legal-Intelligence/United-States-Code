@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Agriculture shall collect data of statewide or regional significance on the use of pesticides to control pests and diseases of major crops and crops of dietary significance, including fruits and vegetables.
+The Secretary of Agriculture shall collect data of statewide or regional significance on theuse of pesticides to control pests and diseases of major crops and crops of dietary significance, including fruits and vegetables.
 
 #### (b) Collection
 

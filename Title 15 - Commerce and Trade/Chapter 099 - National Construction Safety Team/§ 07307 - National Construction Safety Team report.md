@@ -12,7 +12,3 @@ Not later than 90 days after completing an investigation, a Team shall issue a p
 
 (Pub. L. 107–231, §8, Oct. 1, 2002, 116 Stat. 1475.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7304, 7306, 7308, 7309, 7310 of this title.
-

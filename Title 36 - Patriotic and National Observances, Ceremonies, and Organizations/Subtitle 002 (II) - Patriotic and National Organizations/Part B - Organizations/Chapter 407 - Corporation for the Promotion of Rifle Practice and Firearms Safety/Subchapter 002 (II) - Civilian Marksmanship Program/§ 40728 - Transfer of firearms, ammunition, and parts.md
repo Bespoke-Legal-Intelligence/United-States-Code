@@ -2,7 +2,7 @@
 
 (a)
 
-Required Transfers.—In accordance with subsection (b) of this section, the Secretary of the Army shall transfer to the corporation all firearms and ammunition that, on February 9, 1996, were under the control of the director of civilian marksmanship (as that position existed under section 4307 of title 10 on February 9, 1996), including—
+Required Transfers.—In accordance with subsection (b) of this section, the Secretary ofthe Army shall transfer to the corporation all firearms and ammunition that, on February 9, 1996, were under the control of the director of civilian marksmanship (as that position existed under section 4307 of title 10 on February 9, 1996), including—
 
 &emsp;(1) all firearms on loan to affiliated clubs and State associations;
 
@@ -113,8 +113,4 @@ In subsection (e), the words “transfer . . . to” are substituted for “ma
 #### References in Text
 
 Sections 4307 and 4308 of title 10, referred to in subsecs. (a) and (d), were repealed by Pub. L. 104–106, div. A, title XVI, §1624(a)(1), Feb. 10, 1996, 110 Stat. 522.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 40729 of this title.
 

@@ -44,7 +44,3 @@ Section 4 of Pub. L. 92–188 provided that: “The amendments made by this Act 
 
 Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub. L. 91–291, set out as a note under section 1317 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1903, 1941 of this title.
-

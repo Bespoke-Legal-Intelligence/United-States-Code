@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-In order to ensure that the United States’ national interest in tourism is fully considered in Federal decision making, there is established a coordinating council to be known as the Tourism Policy Council (hereafter in this chapter referred to as the “Council”).
+In order to ensure that the United States’ national interest in tourism is fully considered in Federal decision making, there is established acoordinating council to be known as the Tourism Policy Council (hereafter in this chapter referred to as the “Council”).
 
 #### (b) Membership
 
@@ -42,7 +42,7 @@ The Council shall conduct its first meeting not later than 6 months after Octobe
 
 (1) The Council shall coordinate national policies and programs relating to international travel and tourism, recreation, and national heritage resources, which involve Federal agencies;
 
-(2) The Council may request directly from any Federal department or agency such personnel, information, services, or facilities as deemed necessary by the Chairman and to the extentpermitted by law and within the limits of available funds.
+(2) The Council may request directly from any Federal department or agency such personnel, information, services, or facilities as deemed necessary by the Chairman and to the extent permitted by law and within the limits of available funds.
 
 (3) Federal departments and agencies may, in their discretion, detail to temporary duty with the Council such personnel as the Chairman may request for carrying out the functions of the Council. Each such detail of personnel shall be without loss of seniority, pay, or other employee status.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—SPECIAL RESTORATIVE TRAINING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3501, 3512, 3514, 3672 of this title.
-
 
 ---
 

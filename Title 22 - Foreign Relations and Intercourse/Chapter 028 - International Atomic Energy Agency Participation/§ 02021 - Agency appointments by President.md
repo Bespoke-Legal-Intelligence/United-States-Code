@@ -10,7 +10,7 @@ The President, by and with the advice and consent of the Senate, may appoint or 
 
 #### (c) Designation of other persons
 
-The President may also appoint or designate from time to time such other persons as he maydeem necessary to represent the United States in the organs of the Agency. The President may designate any officer of the United States Government, whose appointment is subject to confirmation by the Senate, to act, without additional compensation, for temporary periods as the representative of the United States on the Board of Governors or to the General Conference of the Agency in the absence or disability of the representative and deputy representative appointed under subsection (a) of this section or in lieu of such representatives in connection with a specified subject matter.
+The President may also appoint or designate from time to time such other persons as he may deem necessary to represent the United States in the organs of the Agency. The President may designate any officer of the United States Government, whose appointment is subject to confirmation by the Senate, to act, without additional compensation, for temporary periods as the representative of the United States on the Board of Governors or to the General Conferenceof the Agency in the absence or disability of the representative and deputy representative appointed under subsection (a) of this section or in lieu of such representatives in connection with a specified subject matter.
 
 #### (d) Compensation; allowances and benefits
 
@@ -86,11 +86,11 @@ Reporting Requirements.—
 
 &emsp;“(1)
 
-Request for iaea reports.—The Secretary of State shall direct the United States representative tothe International Atomic Energy Agency to request the Director-General of the Agency to submit to the United States all reports prepared with respect to all programs or projects of the Agency that are of concern to the United States, including the programs or projects described in subsection (b).
+Request for iaea reports.—The Secretary of State shall direct the United States representative to the International Atomic Energy Agency to request the Director-General of the Agency to submit to the United States all reports prepared with respect to all programs or projects of the Agency that are of concern to the United States, including the programs or projects described in subsection (b).
 
 &emsp;“(2)
 
-Annual reports to the congress.—Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], and on an annual basis thereafter, the Secretary of State, in consultation with the United States representative to the International Atomic Energy Agency, shall prepare and submit to the Congress a report containing a description of all programs or projects of the Agency in each country described in section 307(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2227(a)).”
+Annual reports to the congress.—Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], and on an annual basis thereafter,the Secretary of State, in consultation with the United States representative to the International Atomic Energy Agency, shall prepare and submit to the Congress a report containing a description of all programs or projects of the Agency in each country described in section 307(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2227(a)).”
 
 #### Privileges, Exemptions, and Immunities
 
@@ -99,8 +99,4 @@ Entitlement of Agency to privileges, exemptions, and immunities as an internatio
 #### Termination of Authority Under This Section
 
 Authority under this section to terminate if Senate refuses its advice and consent by a formal vote to an amendment to the Statute of the Agency, see section 2026 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2023, 2024, 2026 of this title.
 

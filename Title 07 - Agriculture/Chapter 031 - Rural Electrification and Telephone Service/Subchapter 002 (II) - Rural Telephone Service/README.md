@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—RURAL TELEPHONE SERVICE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 931, 939 of this title.
-
 
 ---
 

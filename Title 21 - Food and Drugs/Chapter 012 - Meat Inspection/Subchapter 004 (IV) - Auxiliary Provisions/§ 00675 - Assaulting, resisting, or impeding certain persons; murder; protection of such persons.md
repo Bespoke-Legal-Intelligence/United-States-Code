@@ -4,7 +4,3 @@ Any person who forcibly assaults, resists, opposes, impedes, intimidates, or int
 
 (Mar. 4, 1907, ch. 2907, title IV, §405, as added Pub. L. 90–201, §16, Dec. 15, 1967, 81 Stat. 599.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 159 of this title.
-

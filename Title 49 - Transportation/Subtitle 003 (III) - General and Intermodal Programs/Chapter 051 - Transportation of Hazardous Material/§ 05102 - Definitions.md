@@ -166,7 +166,3 @@ In clause (12), the words “by any mode” are omitted as surplus.
 
 1994—Pars. (3)(C)(ii), (4)(A)(iii). Pub. L. 103–311 substituted “packagings” for “packages”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 31301, 31310 of this title.
-

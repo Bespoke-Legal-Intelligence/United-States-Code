@@ -14,11 +14,11 @@ Status and Compensation.—Officers and employees of the corporation—
 
 &emsp;(3) may be paid without regard to chapter 51 and subchapter III of chapter 53 of title 5, except that an officer or employee may not be paid more than 15 percent above the annual rate of basic pay for level GS–15 of the General Schedule under section 5107 of title 5.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1400; Pub. L. 106–503, title I, §113(c), Nov. 13, 2000, 114 Stat.2304; Pub. L. 108–169, title II, §206(b), Dec. 6, 2003, 117 Stat. 2040.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1400; Pub. L. 106–503, title I, §113(c), Nov. 13, 2000, 114 Stat. 2304; Pub. L. 108–169, title II, §206(b), Dec. 6, 2003, 117 Stat. 2040.)
 
 #### Amendment Subsequent to August 15, 1997
 
-<i>Section 5202(g)(1) of former Title 36, from which this section was derived, was amended by Pub. L. 105–276, title IV, §427(b), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. As subsequently amended by Pub. L. 106–503, this section restated the provisions of section 5202(g)(1) of former Title 36, as amended by Pub. L. 105–276, §427(b).</i>
+<i>Section 5202(g)(1) of former Title 36, from which this section was derived, was amended by</i><i>Pub. L. 105–276, title IV, §427(b), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. As subsequently amended by Pub. L. 106–503, this section restated the provisions of section 5202(g)(1) of former Title 36, as amended by Pub. L. 105–276, §427(b).</i>
 
 Historical and Revision Notes
 

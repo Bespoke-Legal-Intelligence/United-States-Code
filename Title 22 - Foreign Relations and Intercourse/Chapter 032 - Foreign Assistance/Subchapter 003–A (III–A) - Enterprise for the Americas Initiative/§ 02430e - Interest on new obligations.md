@@ -24,7 +24,3 @@ If a beneficiary country enters into an Americas Framework Agreement subsequent 
 
 A prior section 706 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 463, enacted section 1945 of this title, prior to repeal by Pub. L. 87–565, pt. IV, §401, Aug. 1, 1962, 76 Stat. 263, except insofar as section 706 affected section 1945.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2430f, 2430g, 2431d of this title.
-

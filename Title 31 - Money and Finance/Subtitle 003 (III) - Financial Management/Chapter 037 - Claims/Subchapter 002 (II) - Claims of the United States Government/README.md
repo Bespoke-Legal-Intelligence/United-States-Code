@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3701, 3712 of this title; title 8 section 1183a; title 21 sections 379h, 379j, 379j–12.
-
 
 ---
 

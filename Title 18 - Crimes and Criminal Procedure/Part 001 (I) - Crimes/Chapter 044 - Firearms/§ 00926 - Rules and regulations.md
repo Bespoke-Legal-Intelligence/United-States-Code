@@ -8,7 +8,7 @@
 
 &emsp;(3) regulations providing for effective receipt and secure storage of firearms relinquished by or seized from persons described in subsection (d)(8) or (g)(8) of section 922.
 
-> No such rule or regulation prescribed after the date of the enactment of the Firearms Owners’ Protection Act may require that records required to be maintained under this chapter or any portion of the contents of such records, be recorded at or transferred to a facility owned, managed, or controlled by the United States or any State or any political subdivision thereof, nor that any system of registration of firearms, firearms owners, or firearms transactions or dispositions be established. Nothing in this section expands or restricts the Secretary's <sup>1</sup> authorityto inquire into the disposition of any firearm in the course of a criminal investigation.
+> No such rule or regulation prescribed after the date of the enactment of the Firearms Owners’ Protection Act may require that records required to be maintained under this chapter or any portion of the contents of such records, be recorded at or transferred to a facility owned, managed, or controlled by the United States or any State or any political subdivision thereof, nor that any system of registration of firearms, firearms owners, or firearms transactions or dispositions be established. Nothing in this section expands or restricts the Secretary's <sup>1</sup> authority to inquire into the disposition of any firearm in the course of a criminal investigation.
 
 (b) The Attorney General shall give not less than ninety days public notice, and shall afford interested parties opportunity for hearing, before prescribing such rules and regulations.
 

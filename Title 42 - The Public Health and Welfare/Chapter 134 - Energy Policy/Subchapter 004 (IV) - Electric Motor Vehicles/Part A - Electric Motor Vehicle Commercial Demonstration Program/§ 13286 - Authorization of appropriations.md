@@ -4,7 +4,3 @@ There are authorized to be appropriated to the Secretary for purposes of this pa
 
 (Pub. L. 102–486, title VI, §616, Oct. 24, 1992, 106 Stat. 2903.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13282 of this title.
-

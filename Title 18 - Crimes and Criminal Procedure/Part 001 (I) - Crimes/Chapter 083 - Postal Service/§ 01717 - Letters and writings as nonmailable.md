@@ -4,7 +4,7 @@
 
 (b) Whoever uses or attempts to use the mails or Postal Service for the transmission of any matter declared by this section to be nonmailable, shall be fined under this title or imprisoned not more than ten years or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 782; Pub. L. 86–682, §12(b), Sept. 2, 1960, 74 Stat. 708; Pub. L. 91–375,§6(j)(27), Aug. 12, 1970, 84 Stat. 780; Pub. L. 101–647, title XXXV, §3552(a), Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 782; Pub. L. 86–682, §12(b), Sept. 2, 1960, 74 Stat. 708; Pub. L. 91–375, §6(j)(27), Aug. 12, 1970, 84 Stat. 780; Pub. L. 101–647, title XXXV, §3552(a), Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -35,8 +35,4 @@ Minor changes were made in arrangement, translation, and phraseology.
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 614; title 39 section 3001.
 

@@ -16,7 +16,3 @@ There are authorized to be appropriated to carry out this part the following amo
 
 (Pub. L. 89–10, title V, §5401, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1811.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7243, 7259a, 7259c, 7265d, 7281b of this title.
-

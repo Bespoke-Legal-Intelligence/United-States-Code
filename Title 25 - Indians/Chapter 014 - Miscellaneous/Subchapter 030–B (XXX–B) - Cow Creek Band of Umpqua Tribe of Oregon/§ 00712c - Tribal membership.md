@@ -38,9 +38,5 @@ After publication of the roll in the Federal Register, the membership of the tri
 
 “(b) Membership in the tribe pursuant to subsection (a) of this section shall not entitle an individual, who is not otherwise entitled, to participate in any distribution of funds pursuant to a judgment under the Act approved May 26, 1980 (94 Stat. 372).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 712 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(3)”.</i>
 

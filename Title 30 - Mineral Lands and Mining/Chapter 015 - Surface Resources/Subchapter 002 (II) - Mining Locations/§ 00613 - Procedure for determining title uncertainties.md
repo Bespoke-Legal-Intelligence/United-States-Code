@@ -16,7 +16,7 @@ Such notice shall describe the lands covered by such request, as provided hereto
 
 &emsp;(2) the book and page of recordation of the notice or certificate of location;
 
-&emsp;(3) the section or sections of the public land surveys which embrace such mining claims; or if such lands are unsurveyed, either the section or sections which would probably embrace such mining claim when the public land surveys are extended to such lands or a tie by courses and distances to an approved United States mineral monument;
+&emsp;(3) the section or sections of the public land surveys which embrace such mining claims; or if such lands are unsurveyed, either the section or sections which would probably embrace such mining claim when the public land surveys are extended to such lands or a tie bycourses and distances to an approved United States mineral monument;
 
 &emsp;(4) whether such claimant is a locator or purchaser under such location; and
 
@@ -38,7 +38,7 @@ If any verified statement shall be filed by a mining claimant as provided in sub
 
 #### (d) Request for copy of notice
 
-Any person claiming any right under or by virtue of any unpatented mining claim heretofore located and desiring to receive a copy of any notice to mining claimants which may be published as provided in subsection (a) of this section, and which may affect lands embraced in such mining claim, may cause to be filed for record in the county office of record where the notice or certificate of location of such mining claim shall have been recorded, a duly acknowledged request for a copy of any such notice. Such request for copies shall set forth the name and address of the person requesting copies andshall also set forth, as to each heretofore located unpatented mining claim under which such person asserts rights—
+Any person claiming any right under or by virtue of any unpatented mining claim heretofore located and desiring to receive a copy of any notice to mining claimants which may be published as provided in subsection (a) of this section, and which may affect lands embraced in such mining claim, may cause to be filed for record in the county office of record where the notice or certificate of location of such mining claim shall have been recorded, a duly acknowledged request for a copy of any such notice. Such request for copies shall set forth the name and address of the person requesting copies and shall also set forth, as to each heretofore located unpatented mining claim under which such person asserts rights—
 
 &emsp;(1) the date of location;
 
@@ -57,10 +57,6 @@ If any department or agency requesting publication shall fail to comply with the
 #### Amendments
 
 1960—Subsec. (a). Pub. L. 86–507 inserted “or by certified mail” after “registered mail” in two places in last paragraph.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 615 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “hearings”.</i>
 

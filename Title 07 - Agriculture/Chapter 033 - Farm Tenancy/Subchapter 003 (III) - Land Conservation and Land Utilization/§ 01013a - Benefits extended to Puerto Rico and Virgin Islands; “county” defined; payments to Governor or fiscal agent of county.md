@@ -8,7 +8,3 @@ The provisions of this subchapter shall extend to Puerto Rico and the Virgin Isl
 
 Section effective Oct. 15, 1961, by former section 300.1 of Title 6, Code of Federal Regulations, see Effective Date note set out under section 1921 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1931, 6942 of this title; title 25 section 492.
-

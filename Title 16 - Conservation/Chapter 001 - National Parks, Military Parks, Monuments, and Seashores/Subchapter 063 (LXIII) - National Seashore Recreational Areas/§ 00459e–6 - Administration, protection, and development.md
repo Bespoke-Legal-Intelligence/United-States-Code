@@ -18,7 +18,3 @@ In administering, protecting, and developing the entire Fire Island National Sea
 
 1978—Subsec. (b). Pub. L. 95–625 substituted “Ocean Ridge portion of Davis Park” for “Brookhaven town park at”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459e–1, 459e–2, 459e–5, 459e–7, 459e–9 of this title.
-

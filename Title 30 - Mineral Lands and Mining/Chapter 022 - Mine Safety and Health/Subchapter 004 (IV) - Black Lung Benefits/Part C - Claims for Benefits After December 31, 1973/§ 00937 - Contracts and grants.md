@@ -26,7 +26,3 @@ There is hereby authorized to be appropriated for the purpose of subsection (a) 
 
 Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. L. 95–239, set out as a note under section 901 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 9501; title 35 section 210; title 42 section 256b.
-

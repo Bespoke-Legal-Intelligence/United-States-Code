@@ -4,7 +4,7 @@
 
 (b) Any amounts appropriated under this section shall remain available until expended, and any amounts authorized for any fiscal year under this section but not appropriated may be appropriated for any succeeding fiscal year commencing prior to July 1, 1974.
 
-(Pub. L. 89–117, title VII, §708, Aug. 10, 1965, 79 Stat. 493; Pub. L. 90–448, title VI, §605, Aug. 1, 1968, 82 Stat. 534; Pub. L. 91–152, title III, §305(b), (c), Dec. 24, 1969, 83 Stat. 391; Pub. L. 91–431, §3(a), (b), Oct. 6, 1970, 84 Stat. 886; Pub. L. 91–609, title III, §304, Dec. 31, 1970, 84 Stat. 1780; Pub. L. 92–335, §3, July 1, 1972, 86 Stat. 405; Pub. L. 93–117, §8, Oct. 2, 1973, 87 Stat. 422.)
+(Pub. L. 89–117, title VII, §708, Aug. 10, 1965, 79 Stat. 493; Pub. L. 90–448, title VI, §605, Aug. 1,1968, 82 Stat. 534; Pub. L. 91–152, title III, §305(b), (c), Dec. 24, 1969, 83 Stat. 391; Pub. L. 91–431, §3(a), (b), Oct. 6, 1970, 84 Stat. 886; Pub. L. 91–609, title III, §304, Dec. 31, 1970, 84 Stat. 1780; Pub. L. 92–335, §3, July 1, 1972, 86 Stat. 405; Pub. L. 93–117, §8, Oct. 2, 1973, 87 Stat. 422.)
 
 #### References in Text
 
@@ -47,8 +47,4 @@ Section 2 of Pub. L. 91–431 provided that:
 #### Administrative Priority for Applications Relating to Activities in Areas Affected by Base Closings
 
 State or unit of local government or agency thereof affected by reduction in level of expenditure or employment at Department of Defense installation located in or near such State or unit of local government, priority in processing applications for assistance under this section, see section 1453a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1453a of this title.
 

@@ -26,7 +26,7 @@
 
 &emsp;(1) direct the Secretary of Education to establish a task force to assist States and local educational agencies to ascertain the extent of the danger to the health of school children and employees from asbestos materials in schools;
 
-&emsp;(2) require States receiving administrative funds for any applicable program (as defined under section 1221(c)(1)(A) <sup>1</sup> of this title) to prepare a plan describing the manner in which information relating to programs established under this chapter shall be distributed to local educational agencies;
+&emsp;(2) require States receiving administrative funds for any applicable program (as defined under section 1221(c)(1)(A) <sup>1</sup> of this title) toprepare a plan describing the manner in which information relating to programs established under this chapter shall be distributed to local educational agencies;
 
 &emsp;(3) provide scientific, technical, and financial assistance to State educational agencies and local educational agencies to enable them to conduct an asbestos detection program to identify asbestos hazards in schools;
 

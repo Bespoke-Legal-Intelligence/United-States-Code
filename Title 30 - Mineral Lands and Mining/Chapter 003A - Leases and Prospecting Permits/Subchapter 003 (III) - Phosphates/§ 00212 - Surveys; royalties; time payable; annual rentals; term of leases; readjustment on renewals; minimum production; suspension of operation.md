@@ -8,7 +8,3 @@ Each lease shall describe the leased lands by the legal subdivisions of the publ
 
 1948—Act June 3, 1948, amended section generally, omitting provisions relating to amount of lands in lease, and inserting provisions regarding royalties.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 213, 214 of this title; title 10 sections 7421, 7435.
-

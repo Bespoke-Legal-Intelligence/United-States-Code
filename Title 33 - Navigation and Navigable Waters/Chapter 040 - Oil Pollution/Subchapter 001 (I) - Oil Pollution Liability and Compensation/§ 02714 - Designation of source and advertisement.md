@@ -8,7 +8,7 @@ When the President receives information of an incident, the President shall, whe
 
 (1) If a responsible party or guarantor fails to inform the President, within 5 days after receiving notification of a designation under subsection (a) of this section, of the party's or the guarantor's denial of the designation, such party or guarantor shall advertise the designation and the procedures by which claims may be presented, in accordance with regulations promulgated by the President. Advertisement under the preceding sentence shall begin no later than 15 days after the date of the designation made under subsection (a) of this section. If advertisement is not otherwise made in accordance with this subsection, the President shall promptly and at the expense of the responsible party or the guarantor involved, advertise the designation and the procedures by which claims may be presented to the responsible party or guarantor. Advertisement under this subsection shall continue for a period of no less than 30 days.
 
-(2) An advertisement under paragraph (1) shall state that a claimant may present a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled and that payment of such a claim shall not preclude recovery for damages not reflected in the paid or settled partial claim.
+(2) An advertisement under paragraph (1) shall state that a claimant may present a claim for interim, short-term damages representing lessthan the full amount of damages to which the claimant ultimately may be entitled and that payment of such a claim shall not preclude recovery for damages not reflected in the paid or settled partial claim.
 
 #### (c) Advertisement by President
 
@@ -31,8 +31,4 @@ If—
 #### Delegation of Functions
 
 Functions of President under this section delegated to Secretary of Department in which Coast Guard is operating by section 7(d)(2) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54768, set out as a note under section 1321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2713 of this title.
 

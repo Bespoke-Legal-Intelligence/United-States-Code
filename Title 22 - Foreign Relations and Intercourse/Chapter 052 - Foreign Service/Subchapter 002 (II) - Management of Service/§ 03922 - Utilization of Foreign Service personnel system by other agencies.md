@@ -48,7 +48,7 @@ Pub. L. 105–277, §1335(k)(1), substituted “Broadcasting Board of Governors�
 
 Amendment by section 1335(k)(1) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-Amendment by section 1422(b)(4) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277,set out as an Effective Date note under section 6561 of this title.
+Amendment by section 1422(b)(4) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
 
 #### Exercise of Certain Functions by Board of the Foreign Service and Board of Examiners for the Foreign Service
 

@@ -12,7 +12,7 @@ As used in this subchapter—
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–11, §1, Apr. 7, 1989, 103 Stat. 15, provided that: “This Act \[repealing section 1856p of this title\]may be cited as the ‘Wildfire Suppression Assistance Act’.”
+Pub. L. 101–11, §1, Apr. 7, 1989, 103 Stat. 15, provided that: “This Act \[repealing section 1856p of this title\] may be cited as the ‘Wildfire Suppression Assistance Act’.”
 
 #### Short Title
 

@@ -40,7 +40,7 @@
 
 #### (C) 7:30 p.m. to 3:30 a.m. shiftwork
 
-&emsp;&emsp;If the regularly scheduled work assignment of a customs officer is 7:30 p.m. to 3:30a.m., the officer is entitled to pay for work during such period (except for work to which paragraph (2) or (3) applies) at the officer's hourly rate of basic pay plus premium pay amounting to 15 percent of that basic rate for the period from 7:30 p.m. to 11:30 p.m. and at the officer's hourly rate of basic pay plus premium pay amounting to 20 percent of that basic rate for the period from 11:30 p.m. to 3:30 a.m.
+&emsp;&emsp;If the regularly scheduled work assignment of a customs officer is 7:30 p.m. to 3:30 a.m., the officer is entitled to pay for work during such period (except for work to which paragraph (2) or (3) applies) at the officer's hourly rate of basic pay plus premium pay amounting to 15 percent of that basic rate for the period from 7:30 p.m. to 11:30 p.m. and at the officer's hourly rate of basic pay plus premium pay amounting to 20 percent of that basic rate for the period from 11:30 p.m. to 3:30 a.m.
 
 #### (2) Sunday differential
 
@@ -107,8 +107,4 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in this section, were under Department of the Treasury.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 58c, 267a, 1451 of this title; title 5 sections 5549, 8331.
 

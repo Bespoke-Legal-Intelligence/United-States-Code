@@ -8,7 +8,3 @@ In order to provide access to private money sources which otherwise would not be
 
 1984—Pub. L. 98–449 struck out “who are not members of or eligible for membership in an organization which is making loans to its members” before “; and (b)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1461 of this title.
-

@@ -1,18 +1,22 @@
 ### §1958. Use of interstate commerce facilities in the commission of murder-for-hire
 
-(a) Whoever travels in or causes another (including the intended victim) to travel in interstate or foreign commerce, or uses or causes another (including the intended victim) to use the mail or any facility in interstate or foreign commerce, with intent that a murder be committed in violation of the laws of any State or the United States as consideration for the receipt of, or as consideration for a promise or agreement to pay, anything of pecuniary value, or who conspires to do so, shall be fined under this title or imprisoned for not more than ten years,or both; and if personal injury results, shall be fined under this title or imprisoned for not more than twenty years, or both; and if death results, shall be punished by death or life imprisonment, or shall be fined not more than $250,000, or both.
+(a) Whoever travels in or causes another (including the intended victim) to travel in interstate or foreign commerce, or uses or causes another (including the intended victim) to use the mail or any facility of interstate or foreign commerce, with intent that a murder be committed in violation of the laws of any State or the United States as consideration for the receipt of, or as consideration for a promise or agreement to pay, anything of pecuniary value, or who conspires to do so, shall be fined under this title or imprisoned for not more than ten years, or both; and if personal injury results, shall be fined under this title or imprisoned for not more than twenty years, or both; and if death results, shall be punished by death or life imprisonment, or shall be fined not more than $250,000, or both.
 
 (b) As used in this section and section 1959—
 
 &emsp;(1) “anything of pecuniary value” means anything of value in the form of money, a negotiable instrument, a commercial interest, or anything else the primary significance of which is economic advantage;
 
-&emsp;(2) “facility of interstate commerce” includes means of transportation and communication; and
+&emsp;(2) “facility of interstate or foreign commerce” includes means of transportation and communication; and
 
 &emsp;(3) “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 98–473, title II, §1002(a), Oct. 12, 1984, 98 Stat. 2136, §1952A; renumbered §1958 and amended Pub. L. 100–690, title VII, §§7053(a), 7058(b), Nov. 18, 1988, 102 Stat. 4402, 4403; Pub. L. 101–647, title XII, §1205(k), title XXXV, §3558, Nov. 29, 1990, 104 Stat. 4831, 4927; Pub. L. 103–322, title VI, §60003(a)(11), title XIV, §140007(b), title XXXII, §320105, title XXXIII, §330016(1)(L), (N), (Q), Sept. 13, 1994, 108 Stat. 1969, 2033, 2111, 2147, 2148; Pub. L. 104–294, title VI, §§601(g)(3), 605(a), Oct. 11, 1996, 110 Stat. 3500, 3509.)
+(Added Pub. L. 98–473, title II, §1002(a), Oct. 12, 1984, 98 Stat. 2136, §1952A; renumbered §1958 and amended Pub. L. 100–690, title VII, §§7053(a), 7058(b), Nov. 18, 1988, 102 Stat. 4402, 4403; Pub. L. 101–647, title XII, §1205(k), title XXXV, §3558, Nov. 29, 1990, 104 Stat. 4831, 4927; Pub. L. 103–322, title VI, §60003(a)(11), title XIV, §140007(b), title XXXII, §320105, title XXXIII, §330016(1)(L), (N), (Q), Sept. 13, 1994, 108 Stat. 1969, 2033, 2111, 2147, 2148; Pub. L. 104–294, title VI, §§601(g)(3), 605(a), Oct. 11, 1996, 110 Stat. 3500, 3509; Pub. L. 108–458, title VI, §6704, Dec. 17, 2004, 118 Stat. 3766.)
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–458, §6704(1), substituted “facility of” for “facility in”.
+
+Subsec. (b)(2). Pub. L. 108–458, §6704(2), inserted “or foreign” after “interstate”.
 
 1996—Subsec. (a). Pub. L. 104–294 substituted comma for “or who conspires to do so” after “or who conspires to do so” and substituted “this title or imprisoned” for “this title and imprisoned” before “for not more than twenty years”.
 
@@ -33,8 +37,4 @@ Subsec. (b)(3). Pub. L. 101–647, §1205(k), added par. (3).
 1988—Pub. L. 100–690, §7053(a), renumbered section 1952A of this title as this section.
 
 Subsec. (a). Pub. L. 100–690, §7058(b), substituted “ten years” for “five years”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1961, 2332b, 2516 of this title.
 

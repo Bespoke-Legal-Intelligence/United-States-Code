@@ -56,7 +56,7 @@ Members of the Commission shall serve without pay. While away from their homes o
 
 #### (d) Chairperson
 
-The Chairperson of the Commission shall be appointed by the Secretary from among themembers of the Commission nominated by the Governor of Minnesota and shall serve for a term of three years.
+The Chairperson of the Commission shall be appointed by the Secretary from among the members of the Commission nominated by the Governor of Minnesota and shall serve for a term of three years.
 
 #### (e) Quorum
 
@@ -84,7 +84,7 @@ The Secretary shall provide the Commission with such staff and technical assista
 
 #### (i) Plan
 
-Within 3 years after appointment of the full membership of the Commission, the Commission shall submit to the Secretary and the Governor of Minnesota a comprehensive plan for land and water use measures for the area to be developed and implemented by the responsible Federal agencies, the State of Minnesota, and local political subdivisions. The plan shall endeavor to use existing Federal, State, regional, and local plans and where consistent with the intent and goals of this part shall coordinate those plans to present a unified comprehensive plan for the Area. The plan shall include but not be limited to each of the following:
+Within 3 years after appointment of the full membership of the Commission, the Commissionshall submit to the Secretary and the Governor of Minnesota a comprehensive plan for land and water use measures for the area to be developed and implemented by the responsible Federal agencies, the State of Minnesota, and local political subdivisions. The plan shall endeavor to use existing Federal, State, regional, and local plans and where consistent with the intent and goals of this part shall coordinate those plans to present a unified comprehensive plan for the Area. The plan shall include but not be limited to each of the following:
 
 &emsp;(1) A program for management of existing and future land and water use which—
 
@@ -114,7 +114,7 @@ Within 3 years after appointment of the full membership of the Commission, the C
 
 (2) In developing the plan the Commission shall consult with interested conservation, business, professional and citizen organizations.
 
-(3) In developing the plan the Commission shall conduct public hearings within the Area, and at such other places as may be appropriate, for the purposes of providing interested personswith the opportunity to testify with respect to matters to be addressed by the plan.
+(3) In developing the plan the Commission shall conduct public hearings within the Area, and at such other places as may be appropriate, for the purposes of providing interested persons with the opportunity to testify with respect to matters to be addressed by the plan.
 
 #### (k) Approval of plan
 
@@ -155,10 +155,6 @@ The Safe Drinking Water Act, referred to in subsec. (i)(2)(D), is title XIV of a
 1992—Subsec. (i). Pub. L. 102–525 substituted “3 years after appointment of the full membership of the Commission” for “3 years after November 18, 1988”.
 
 1989—Subsec. (d). Pub. L. 101–40 substituted “and shall serve” for “to serve”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460zz–3, 460zz–4, 460zz–5 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Chairperson”.</i>
 

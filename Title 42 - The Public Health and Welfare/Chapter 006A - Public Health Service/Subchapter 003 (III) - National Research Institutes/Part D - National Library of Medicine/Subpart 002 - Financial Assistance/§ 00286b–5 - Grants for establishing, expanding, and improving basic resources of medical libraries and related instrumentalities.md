@@ -4,7 +4,7 @@
 
 &emsp;(1) the acquisition of books, journals, photographs, motion picture and other films, and other similar materials;
 
-&emsp;(2) cataloging, binding, and other services and procedures for processing library resourcematerials for use by those who are served by the library or related instrumentality;
+&emsp;(2) cataloging, binding, and other services and procedures for processing library resource materials for use by those who are served by the library or related instrumentality;
 
 &emsp;(3) the acquisition of duplication devices, facsimile equipment, film projectors, recording equipment, and other equipment to facilitate the use of the resources of the library or related instrumentality by those who are served by it; and
 
@@ -22,7 +22,7 @@
 
 &emsp;(E) the staff of any hospital or hospitals or of any clinic or clinics with which such library or instrumentality is affiliated; and
 
-&emsp;(F) the geographic area served by such library or instrumentality and the availability within such area of medical library or related services provided by other libraries or related instrumentalities.
+&emsp;(F) the geographic area served by such library or instrumentality and the availability within such area of medical library or relatedservices provided by other libraries or related instrumentalities.
 
 (2) Grants to such medical libraries or related instrumentalities under this section shall be in such amounts as the Secretary may by regulation prescribe with a view to assuring adequate continuing financial support for such libraries or instrumentalities from other sources during and after the period for which grants are provided, except that in no case shall any grant under this section to a medical library or related instrumentality for any fiscal year exceed $1,000,000.
 
@@ -33,8 +33,4 @@
 1993—Subsec. (b)(2). Pub. L. 103–43 substituted “$1,000,000” for “$750,000”.
 
 1988—Subsec. (b)(2). Pub. L. 100–607 substituted “$750,000” for “$500,000”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 286a–2, 286b–8 of this title.
 

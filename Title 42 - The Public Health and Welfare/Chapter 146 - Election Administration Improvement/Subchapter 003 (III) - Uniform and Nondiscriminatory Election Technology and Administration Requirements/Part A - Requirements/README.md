@@ -1,9 +1,5 @@
 Part A—Requirements
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 15501 of this title.
-
 
 ---
 

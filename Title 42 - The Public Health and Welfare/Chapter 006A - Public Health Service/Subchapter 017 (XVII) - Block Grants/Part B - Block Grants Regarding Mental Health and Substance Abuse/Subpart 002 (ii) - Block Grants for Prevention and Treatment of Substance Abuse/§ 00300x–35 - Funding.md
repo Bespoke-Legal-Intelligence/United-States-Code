@@ -38,7 +38,3 @@ Subsec. (b)(2). Pub. L. 106–310, §3303(g)(3), made technical amendment to ref
 
 Subsec. (b)(3). Pub. L. 106–310, §3303(g)(4), added par. (3).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300x–33 of this title.
-

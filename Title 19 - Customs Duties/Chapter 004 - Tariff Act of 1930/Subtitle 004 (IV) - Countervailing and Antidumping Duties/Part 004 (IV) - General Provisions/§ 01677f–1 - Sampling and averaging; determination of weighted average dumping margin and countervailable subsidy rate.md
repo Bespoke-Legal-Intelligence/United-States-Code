@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of determining the export price (or constructed export price) under section 1677a of this title or the normal value under section 1677b of this title, and in carrying out reviews under section 1675 of this title, the administering authority may—
+For purposes of determining the export price (or constructed export price) under section 1677a of this title or the normal value under section 1677b of this title, and in carrying out reviewsunder section 1675 of this title, the administering authority may—
 
 &emsp;(1) use averaging and statistically valid samples, if there is a significant volume of sales of the subject merchandise or a significant number or types of products, and
 
@@ -78,7 +78,7 @@ The authority to select averages and statistically valid samples shall rest excl
 
 Pub. L. 103–465, §269(a), added subsec. (e).
 
-Pub. L. 103–465, §229(a), amended section generally, substituting present provisions for provisions authorizing use of averaging or generally recognized samplingtechniques for purposes of determining United States price or foreign market value and for purposes of annual reviews under section 1675 of this title, and providing for selection of samples and averages by administering authority.
+Pub. L. 103–465, §229(a), amended section generally, substituting present provisions for provisions authorizing use of averaging or generally recognized sampling techniques for purposes of determining United States price or foreign market value and for purposes of annual reviews under section 1675 of this title, and providing for selection of samples and averages by administering authority.
 
 #### Effective Date of 1994 Amendment
 
@@ -87,8 +87,4 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 #### Effective Date
 
 Section applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984, see section 626(b)(1) of Pub. L. 98–573, as amended, set out as an Effective Date of 1984 Amendment note under section 1671 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1671b, 1671d, 1677m of this title.
 

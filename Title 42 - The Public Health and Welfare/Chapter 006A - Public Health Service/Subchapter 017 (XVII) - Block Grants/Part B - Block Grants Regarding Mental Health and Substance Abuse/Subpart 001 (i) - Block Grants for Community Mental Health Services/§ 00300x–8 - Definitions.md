@@ -14,7 +14,3 @@ A prior section 300x–8, act July 1, 1944, ch. 373, title XIX, §1920, formerly
 
 A prior section 1919 of act July 1, 1944, was classified to section 300x–7 of this title prior to repeal by Pub. L. 102–321.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300x–64 of this title.
-

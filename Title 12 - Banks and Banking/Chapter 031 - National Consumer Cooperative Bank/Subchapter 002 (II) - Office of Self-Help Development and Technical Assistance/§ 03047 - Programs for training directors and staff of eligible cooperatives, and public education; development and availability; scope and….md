@@ -4,7 +4,3 @@ The Office shall develop and make available, alone or in concert with other orga
 
 (Pub. L. 95–351, title II, §207, Aug. 20, 1978, 92 Stat. 513.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3051 of this title.
-

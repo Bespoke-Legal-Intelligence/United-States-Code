@@ -4,7 +4,3 @@ The Secretary of the Interior shall encourage recognized members of the Minnesot
 
 (Pub. L. 85–910, §6, Sept. 2, 1958, 72 Stat. 1753.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450<i>oo</i>, 450<i>oo</i>–9 of this title.
-

@@ -22,7 +22,7 @@ If the Commission does not issue any order applied for under section 824i or 824
 
 (1) No provision of section 824i, 824j, 824m of this title, or this section shall be treated as requiring any person to utilize the authority of any such section in lieu of any other authority of law. Except as provided in section 824i, 824j, 824m of this title, or this section, such sections shall not be construed as limiting or impairing any authority of the Commission under any other provision of law.
 
-(2) Sections 824i, 824j, 824<i>l</i>, 824m of this title, and this section, shall not be construed to modify, impair, or supersede the antitrust laws. For purposes of this section, the term “antitrust laws” has the meaning given in subsection (a) of the first sentence of section 12 of title 15, except that such term includes section 45 of title 15 to the extent that such section relates to unfair methods of competition.
+(2) Sections 824i, 824j, 824<i>l</i>, 824m of this title, and this section, shall not be construed to modify, impair, or supersede the antitrust laws. For purposes of this section, the term “antitrust laws” has the meaning given in subsection (a) of the first sentence of section 12 of title 15, exceptthat such term includes section 45 of title 15 to the extent that such section relates to unfair methods of competition.
 
 #### (f) Effective date of order; hearing; notice; review
 
@@ -34,7 +34,7 @@ If the Commission does not issue any order applied for under section 824i or 824
 
 &emsp;(B) the date on which a specific authorization of the Congress (within the meaning of the third sentence of section 15d(a) of the TVA Act \[16 U.S.C. 831n–4(a)\]) takes effect.
 
-(3) Any determination under paragraph (1) shall be reviewable only in the appropriate court of the United States upon petition filed by any aggrieved person or municipality within 60 daysafter such determination, and such court shall have jurisdiction to grant appropriate relief. Any applicant who applied for and obtained the order under section 824i or 824j of this title, and any electric utility or other entity subject to such order shall have the right to intervene in any such proceeding in such court. Except for review by such court (and any appeal or other review by an appellate court of the United States), no court shall have jurisdiction to consider any action brought by any person to enjoin the carrying out of any order of the Commission under section 824i or section 824j of this title requiring the TVA to take any action on the grounds that such action requires a specific authorization of the Congress pursuant to the third sentence of section 15d(a) of the TVA Act \[16 U.S.C. 831n–4(a)\].
+(3) Any determination under paragraph (1) shall be reviewable only in the appropriate court of the United States upon petition filed by any aggrieved person or municipality within 60 days after such determination, and such court shall have jurisdiction to grant appropriate relief. Any applicant who applied for and obtained the order under section 824i or 824j of this title, and any electric utility or other entity subject to such order shall have the right to intervene in any such proceeding in such court. Except for review by such court (and any appeal or other review by an appellate court of the United States), no court shall have jurisdiction to consider any action brought by any person to enjoin the carrying out of any order of the Commission under section 824i or section 824j of this title requiring the TVA to take any action on the grounds that such action requires a specific authorization of the Congress pursuant to the third sentence of section 15d(a) of the TVA Act \[16 U.S.C. 831n–4(a)\].
 
 #### (g) Prohibition on orders inconsistent with retail marketing areas
 
@@ -92,7 +92,7 @@ With respect to an electric utility which is prohibited by Federal law from bein
 
 #### (1) Rates
 
-&emsp;Any order under section 824j of this title requiring provision of transmission services in whole or in part within ERCOT shall provide that any ERCOT utility which is not a public utility and the transmission facilities of which are actually used for such transmission service is entitled to receive compensation based, insofar as practicable and consistent with subsection (a) of this section, on the transmission ratemaking methodology used by the Public Utility Commission of Texas.
+&emsp;Any order under section 824j of this title requiring provision of transmission services in whole or in part within ERCOT shall provide that any ERCOT utility which is not a public utility and the transmission facilities of which are actually used for such transmission service is entitled to receive compensation based, insofar as practicable and consistent with subsection (a) of this section, on the transmissionratemaking methodology used by the Public Utility Commission of Texas.
 
 #### (2) Definitions
 
@@ -129,8 +129,4 @@ Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intend
 #### Transfer of Functions
 
 The Federal Power Commission was terminated and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 824, 824a–3, 824i, 824j, 825n, 825<i>o</i>, 825<i>o</i>–1 of this title.
 

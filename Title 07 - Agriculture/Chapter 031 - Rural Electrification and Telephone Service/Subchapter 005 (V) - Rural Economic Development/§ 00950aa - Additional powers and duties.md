@@ -14,7 +14,7 @@ The Secretary shall—
 
 &emsp;(6) promote local partnerships and other coordination between borrowers under this chapter and community organizations, States, counties, or other entities, to improve rural development.
 
-(May 20, 1936, ch. 432, title V, §501, as added Pub. L. 101–624, title XXIII, §2345, Nov. 28, 1990, 104Stat. 4029; amended Pub. L. 102–237, title VII, §703(c), Dec. 13, 1991, 105 Stat. 1881; Pub. L. 103–354, title II, §235(a)(12), (13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–127, title VII, §781(b), Apr. 4, 1996, 110 Stat. 1151.)
+(May 20, 1936, ch. 432, title V, §501, as added Pub. L. 101–624, title XXIII, §2345, Nov. 28, 1990, 104 Stat. 4029; amended Pub. L. 102–237, title VII, §703(c), Dec. 13, 1991, 105 Stat. 1881; Pub. L. 103–354, title II, §235(a)(12), (13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–127, title VII, §781(b), Apr. 4, 1996, 110 Stat. 1151.)
 
 #### Amendments
 

@@ -184,9 +184,5 @@ The Fair Housing Act, referred to in subsecs. (c)(2)(E)(i)(I) and (d)(1), is tit
 
 Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted substantially identical sections 803 of Pub. L. 104–330. This section is based on the text of section 803 of Pub. L. 104–330, as added by Pub. L. 106–569, §513. Section 803 of Pub. L. 104–330, as added by Pub. L. 106–568, referred to title VIII of the Act popularly known as the Civil Rights Act of 1968 instead of the Fair Housing Act in subsecs. (c)(2)(E)(i)(I) and (d)(1). Title VIII of the Civil Rights Act of 1968 is title VIII of Pub. L. 90–284 which is known as the Fair Housing Act, see References in Text note above. The reference to “such title” in subsec. (c)(2)(E)(i)(I) probably refers to title VI of the Civil Rights Act of 1964 and title VIII of the Civil Rights Act of 1968 (the Fair Housing Act).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4222, 4224, 4228, 4231, 4233, 4239, 4240 of this title; title 12 section 1715z–13b.
-
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

@@ -18,7 +18,3 @@ The public-land laws, referred to in text, are classified generally to Title 43,
 
 Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3215 of this title; title 30 section 1014; title 43 sections 1634, 1761.
-

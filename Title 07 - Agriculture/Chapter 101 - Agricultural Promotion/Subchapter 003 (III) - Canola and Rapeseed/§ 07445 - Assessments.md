@@ -60,7 +60,7 @@ No more than 1 assessment may be assessed under subsection (a) of this section o
 
 #### (1) Establishment of escrow account
 
-&emsp;During the period beginning on the date on which an order is first issued under section 7443(b)(3) of this title and ending on the dateon which a referendum is conducted under section 7446(a) of this title, the Board shall—
+&emsp;During the period beginning on the date on which an order is first issued under section 7443(b)(3) of this title and ending on the date on which a referendum is conducted under section 7446(a) of this title, the Board shall—
 
 &emsp;&emsp;(A) establish and maintain an escrow account to be used for assessment refunds; and
 
@@ -103,8 +103,4 @@ No more than 1 assessment may be assessed under subsection (a) of this section o
 &emsp;If the plan is approved pursuant to the referendum conducted under section 7446(a) of this title, all funds in the escrow account shall be returned to the Board for use by the Board in accordance with this subchapter.
 
 (Pub. L. 104–127, title V, §536, Apr. 4, 1996, 110 Stat. 1056.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7444 of this title.
 

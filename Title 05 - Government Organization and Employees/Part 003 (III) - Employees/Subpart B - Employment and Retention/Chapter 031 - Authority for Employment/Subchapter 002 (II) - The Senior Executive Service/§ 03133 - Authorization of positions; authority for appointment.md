@@ -90,7 +90,7 @@ Section 413 of Pub. L. 95–454 provided that:
 
 “(h) Each employee who has elected conversion to a Senior Executive Service position under subsection (c)(1)(B) of this section and who is serving under a limited executive assignment under subpart F of part 305 of title 5, Code of Federal Regulations, shall—
 
-&emsp;“(1) be appointed as a limited term appointee to a Senior Executive Service position if the position thenheld by such employee will terminate within 3 years of the date of such appointment;
+&emsp;“(1) be appointed as a limited term appointee to a Senior Executive Service position if the position then held by such employee will terminate within 3 years of the date of such appointment;
 
 &emsp;“(2) be appointed as a noncareer appointee to a Senior Executive Service position if the position then held by such employee is designated as a general position; or
 
@@ -103,8 +103,4 @@ Section 413 of Pub. L. 95–454 provided that:
 “(k) The Office shall prescribe regulations to carry out the purpose of this section.”
 
 Section 415(a)(2) of Pub. L. 95–454 provided that section 413 is effective Oct. 13, 1978.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3392 of this title; title 42 section 904.
 

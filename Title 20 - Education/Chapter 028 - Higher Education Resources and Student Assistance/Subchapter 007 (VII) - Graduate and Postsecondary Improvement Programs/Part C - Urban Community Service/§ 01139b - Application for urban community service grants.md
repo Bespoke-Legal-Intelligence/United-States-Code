@@ -46,7 +46,3 @@ A prior section 1139b, Pub. L. 89–329, title XI, §1133, as added Pub. L. 99�
 
 A prior section 753 of Pub. L. 89–329 was classified to section 1132f–2 of this title, prior to repeal by Pub. L. 104–208.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1139c, 1139g of this title.
-

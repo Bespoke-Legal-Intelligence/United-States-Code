@@ -30,7 +30,7 @@ Availability of Rights-of-Way.—In any case where sufficient land or air space 
 
 (i) The provisions of section 5323(a)(1)(D) of title 49 shall apply in carrying out subsection (a)(2) of this section.
 
-(Added Pub. L. 91–605, title I, §111(a), Dec. 31, 1970, 84 Stat. 1719; amended Pub. L. 93–87, title I, §121(a), Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §127, May 5, 1976, 90 Stat. 440; Pub. L. 97–424, title I, §120, Jan. 6, 1983, 96 Stat. 2111; Pub. L. 102–240, title I, §1027(a)–(e), title III, §3003(b), Dec. 18, 1991, 105 Stat. 1966, 2088; Pub. L. 103–272, §5(f)(2), July 5, 1994, 108 Stat. 1374; Pub. L. 103–429, §7(a)(4)(C), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 105–178, title I, §1103(<i>l</i>)(3)(D), (4), June 9, 1998, 112 Stat. 126.)
+(Added Pub. L. 91–605, title I, §111(a), Dec. 31, 1970, 84 Stat. 1719; amended Pub. L. 93–87, title I, §121(a), Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §127, May 5, 1976, 90 Stat. 440; Pub. L. 97–424, title I, §120, Jan. 6, 1983, 96 Stat. 2111; Pub. L. 102–240, title I, §1027(a)–(e), title III, §3003(b), Dec. 18, 1991, 105 Stat. 1966, 2088; Pub. L. 103–272, §5(f)(2), July 5, 1994, 108 Stat. 1374; Pub.L. 103–429, §7(a)(4)(C), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 105–178, title I, §1103(<i>l</i>)(3)(D), (4), June 9, 1998, 112 Stat. 126.)
 
 #### References in Text
 
@@ -86,7 +86,7 @@ Subsec. (f). Pub. L. 97–424, §120(b)(3), substituted “high occupancy vehicl
 
 Subsec. (e)(3). Pub. L. 94–280, §127(b), substituted “section 120 of this title” for “section 120 of this section”.
 
-1973—Subsec. (a). Pub. L. 93–87 designated existing provisions as par. (1), substituted “operating motor vehicles (other than on rail) on Federal-aid highways” for “operating motor vehicles on highways, other than on rails”, struck out “within urbanized areas” after “ ‘buses’)”, inserted “for the movement of persons” after “Federal-aid systems”, and substituted provisions respecting availability of sums apportioned under section 104(b) of this title for prior provisions for such sums apportioned in accordance with pars. (3), (5), and (6) of section 104(b) of this title, and added par. (2).
+1973—Subsec. (a). Pub. L. 93–87 designated existing provisions as par. (1), substituted “operating motor vehicles (other than on rail) on Federal-aid highways” for “operating motor vehicles on highways, other than on rails”, struck out “within urbanized areas” after “ ‘buses’)”, inserted “for the movement of persons” after “Federal-aid systems”, and substituted provisionsrespecting availability of sums apportioned under section 104(b) of this title for prior provisions for such sums apportioned in accordance with pars. (3), (5), and (6) of section 104(b) of this title, and added par. (2).
 
 Subsec. (b). Pub. L. 93–87 added subsec. (b). Former subsec. (b) redesignated (d).
 
@@ -123,10 +123,6 @@ Section 165 of Pub. L. 93–87, as amended by Pub. L. 93–643, §105(b), Jan. 4
 “(a) The Secretary of Transportation shall require that buses acquired with Federal financial assistance under (1) subsection (a) or (c) of section 142 of title 23, United States Code, (2) paragraph (4) of subsection (e) of section 103, title 23, United States Code, or (3) section 147 of the Federal-aid Highway Act of 1973 \[set out as a note under this section\] meet the standards prescribed by the Administrator of the Environmental Protection Agency under section 202 of the Clean Air Act \[section 7521 of Title 42, The Public Health and Welfare\], and under section 6 of the Noise Control Act of 1972 \[section 4905 of Title 42\], and shall authorize the acquisition, wherever practicable, of buses which meet the special criteria for low-emission vehicles set forth in section 212 of the Clean Air Act \[section 7546 of Title 42\], and for low-noise-emission products set forth in section 15 of the Noise Control Act of 1972 \[section 4914 of Title 42\].
 
 “(b) The Secretary of Transportation shall require that projects receiving Federal financial assistance under (1) subsection (a) or (c) of section 142 of title 23, United States Code, (2) paragraph (4) of subsection (e) of section 103, title 23, United States Code, or (3) section 147 of the Federal-Aid Highway Act of 1973 \[set out as a note above\] shall be planned, designed, constructed, and operated to allow effective utilization by elderly or handicapped persons who, by reason of illness, injury, age, congenital malfunction, or other permanent or temporary incapacity or disability, including those who are nonambulatory wheelchair-bound and those with semiambulatory capabilities, are unable without special facilities or special planning or design to utilize such facilities and services effectively. The Secretary shall not approve any program or project to which this section applies which does not comply with the provisions of this subsection requiring access to public mass transportation facilities, equipment, and services for elderly or handicapped persons.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 156 of this title; title 15 section 794; title 49 section 5323.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

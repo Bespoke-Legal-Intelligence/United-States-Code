@@ -34,7 +34,3 @@ Title III of this Act, referred to in subsecs. (a)(1) and (c)(1), is title III o
 
 Section 844 of this Act, referred to in subsecs. (a)(3) and (c)(2), is section 844 of Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4177, which is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 652 of this title; title 26 section 9506.
-

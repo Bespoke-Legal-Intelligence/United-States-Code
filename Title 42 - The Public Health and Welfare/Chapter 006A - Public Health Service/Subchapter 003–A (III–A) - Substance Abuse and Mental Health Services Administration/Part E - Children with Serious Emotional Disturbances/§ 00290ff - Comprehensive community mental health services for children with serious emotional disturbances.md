@@ -44,9 +44,9 @@
 
 &emsp;&emsp;(C) in the case of any public entity that is a political subdivision of a State or that is an Indian tribe or tribal organization—
 
-&emsp;&emsp;&emsp;(i) shall consider any comments regarding the application of the entity for such a grant that are received by the Secretary from the State in which the entity is located; and
+&emsp;&emsp;&emsp;(i) shall consider any comments regarding the application of the entity for such agrant that are received by the Secretary from the State in which the entity is located; and
 
-&emsp;&emsp;&emsp;(ii) shall give special consideration to the entity if the State agrees to provide a portion of the non-Federal contributionsrequired in subsection (c) of this section regarding such a grant.
+&emsp;&emsp;&emsp;(ii) shall give special consideration to the entity if the State agrees to provide a portion of the non-Federal contributions required in subsection (c) of this section regarding such a grant.
 
 #### (c) Matching funds
 
@@ -103,10 +103,6 @@ In general.—Entities with active grants under section 561 of the Public Health
 “(2)
 
 Limitation.—Paragraph (1) shall apply with respect to a grantee only if the grantee agrees to comply with the provisions of section 561 as amended by subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 290ff–1, 290ff–2, 290ff–3, 290ff–4 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

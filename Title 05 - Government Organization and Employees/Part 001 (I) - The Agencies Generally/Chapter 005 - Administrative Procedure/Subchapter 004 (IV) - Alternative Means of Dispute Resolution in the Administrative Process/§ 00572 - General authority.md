@@ -4,7 +4,7 @@
 
 (b) An agency shall consider not using a dispute resolution proceeding if—
 
-&emsp;(1) a definitive or authoritative resolution of the matter is required for precedential value,and such a proceeding is not likely to be accepted generally as an authoritative precedent;
+&emsp;(1) a definitive or authoritative resolution of the matter is required for precedential value, and such a proceeding is not likely to be accepted generally as an authoritative precedent;
 
 &emsp;(2) the matter involves or may bear upon significant questions of Government policy that require additional procedures before a final resolution may be made, and such a proceeding would not likely serve to develop a recommended policy for the agency;
 
@@ -31,8 +31,4 @@ A prior section 572 was renumbered section 592 of this title.
 #### Amendments
 
 1992—Pub. L. 102–354 renumbered section 582 of this title as this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 575 of this title; title 9 section 10; title 41 section 605.
 

@@ -10,7 +10,7 @@ The Secretary may accept and retain donations of funds, property, or services fr
 
 #### (c) Interpretive center
 
-The Secretary is authorized to construct, operate, and maintain an interpretive center on lands identified by the Secretary pursuant to section 410ccc–1(b)(4) of this title. Such center shall provide for the general information and orientation needs of the historical park and the heritage area. The Secretary shall consult with the State of Louisiana, the City of Natchitoches, the Association for the Preservation of Historic Natchitoches, and the Cane River National Heritage Area Commission pursuant to section 410ccc–22 of this title in the planning and development of the interpretive center.
+The Secretary is authorized to construct, operate, and maintain an interpretive center onlands identified by the Secretary pursuant to section 410ccc–1(b)(4) of this title. Such center shall provide for the general information and orientation needs of the historical park and the heritage area. The Secretary shall consult with the State of Louisiana, the City of Natchitoches, the Association for the Preservation of Historic Natchitoches, and the Cane River National Heritage Area Commission pursuant to section 410ccc–22 of this title in the planning and development of the interpretive center.
 
 #### (d) Cooperative agreements and technical assistance
 
@@ -23,8 +23,4 @@ The Secretary is authorized to construct, operate, and maintain an interpretive 
 The Secretary, acting through the National Park Service, shall coordinate a comprehensive research program on the complex history of the Cane River region, including ethnography studies of the living communities along the Cane River, and how past and present generations have adapted to their environment, including genealogical studies of families within the Cane River area. Research shall include, but not be limited to, the extensive primary historic documents within the Natchitoches and Cane River areas, and curation methods for their care and exhibition. The research program shall be coordinated with Northwestern State University of Louisiana, and the National Center for Preservation of Technology and Training in Natchitoches.
 
 (Pub. L. 103–449, title III, §304, Nov. 2, 1994, 108 Stat. 4758.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410ccc–21 of this title.
 

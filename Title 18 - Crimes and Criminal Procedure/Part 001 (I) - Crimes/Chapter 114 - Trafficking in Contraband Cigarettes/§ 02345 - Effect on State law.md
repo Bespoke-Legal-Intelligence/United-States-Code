@@ -6,7 +6,3 @@
 
 (Added Pub. L. 95–575, §1, Nov. 2, 1978, 92 Stat. 2465.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1961 of this title.
-

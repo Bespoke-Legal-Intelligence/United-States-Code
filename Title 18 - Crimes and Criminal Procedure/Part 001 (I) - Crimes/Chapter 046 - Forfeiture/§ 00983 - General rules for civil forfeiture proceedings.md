@@ -66,7 +66,7 @@ Notice; Claim; Complaint.—
 
 &emsp;&emsp;&emsp;(II) take the steps necessary to preserve its right to maintain custody of the property as provided in the applicable criminal forfeiture statute,
 
-> &emsp;the Government shall promptly release the property pursuant to regulations promulgatedby the Attorney General, and may not take any further action to effect the civil forfeiture of such property in connection with the underlying offense.
+> &emsp;the Government shall promptly release the property pursuant to regulations promulgated by the Attorney General, and may not take any further action to effect the civil forfeiture of such property in connection with the underlying offense.
 
 &emsp;(C) In lieu of, or in addition to, filing a civil forfeiture complaint, the Government may include a forfeiture allegation in a criminal indictment. If criminal forfeiture is the only forfeiture proceeding commenced by the Government, the Government's right to continued possession of the property shall be governed by the applicable criminal forfeiture statute.
 
@@ -202,7 +202,7 @@ Release Of Seized Property.—
 
 &emsp;&emsp;(C) the continued possession by the Government pending the final disposition of forfeiture proceedings will cause substantial hardship to the claimant, such as preventing the functioning of a business, preventing an individual from working, or leaving an individual homeless;
 
-&emsp;&emsp;(D) the claimant's likely hardship from the continued possession by the Governmentof the seized property outweighs the risk that the property will be destroyed, damaged, lost, concealed, or transferred if it is returned to the claimant during the pendency of the proceeding; and
+&emsp;&emsp;(D) the claimant's likely hardship from the continued possession by the Government of the seized property outweighs the risk that the property will be destroyed, damaged, lost, concealed, or transferred if it is returned to the claimant during the pendency of the proceeding; and
 
 &emsp;&emsp;(E) none of the conditions set forth in paragraph (8) applies.
 
@@ -310,7 +310,7 @@ Restraining Orders; Protective Orders.—
 
 &emsp;(4) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
-(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561, §3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, §316(d), Oct. 26, 2001, 115 Stat. 310.)
+(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561,§3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, §316(d), Oct. 26, 2001, 115 Stat. 310.)
 
 #### References in Text
 
@@ -383,8 +383,4 @@ Protection of rights.—The exclusion of certain provisions of Federal law from 
 &emsp;“(2)
 
 Savings clause.—Nothing in this section shall limit or otherwise affect any other remedies that may be available to an owner of property under section 983 of title 18, United States Code, or any other provision of law.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 981, 3051 of this title; title 28 section 2467.
 

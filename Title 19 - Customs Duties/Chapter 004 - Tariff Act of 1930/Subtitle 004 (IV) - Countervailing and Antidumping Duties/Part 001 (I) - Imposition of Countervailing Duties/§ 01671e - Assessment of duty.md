@@ -4,7 +4,7 @@
 
 Within 7 days after being notified by the Commission of an affirmative determination under section 1671d(b) of this title, the administering authority shall publish a countervailing duty order which—
 
-&emsp;(1) directs customs officers to assess a countervailing duty equal to the amount of the net countervailable subsidy determined or estimated to exist, within 6 months after the date on which the administering authority receives satisfactory information upon which the assessment may be based, but in no event later than 12 months after the end of the annual accounting period of the manufacturer or exporter within which the merchandise is entered, or withdrawn from warehouse, for consumption,
+&emsp;(1) directs customs officers to assess a countervailing duty equal to the amount of the net countervailable subsidy determined or estimated to exist, within 6 months after the dateon which the administering authority receives satisfactory information upon which the assessment may be based, but in no event later than 12 months after the end of the annual accounting period of the manufacturer or exporter within which the merchandise is entered, or withdrawn from warehouse, for consumption,
 
 &emsp;(2) includes a description of the subject merchandise, in such detail as the administering authority deems necessary, and
 
@@ -65,8 +65,4 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1671, 1671b, 1671c, 1671d, 1671f, 1671g, 1676a, 1677, 1677f, 1677j, 1677m of this title.
 

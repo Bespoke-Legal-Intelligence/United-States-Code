@@ -24,7 +24,7 @@ Act July 3, 1950, ch. 446, §4, 64 Stat. 319, provided, in part, that the act of
 
 #### United States-Puerto Rico Commission on the Status of Puerto Rico
 
-Pub. L. 88–271, Feb. 20, 1964, 78 Stat. 17, as amended by Pub. L. 89–84, July 24, 1965, 79 Stat. 261, established a United States-Puerto Rico Commission on the Status of Puerto Rico to study all factors, including but not limited to applicable laws, treaties, constitutions, and agreements having a bearing on the relationship between the United States and Puerto Rico. The Commission was required to render its report to the President of the United States, the Congress of the United States,the Governor of Puerto Rico, and the Legislative Assembly of Puerto Rico not later than Sept. 30, 1966.
+Pub. L. 88–271, Feb. 20, 1964, 78 Stat. 17, as amended by Pub. L. 89–84, July 24, 1965, 79 Stat. 261, established a United States-Puerto Rico Commission on the Status of Puerto Rico to study all factors, including but not limited to applicable laws, treaties, constitutions, and agreements having a bearing on the relationship between the United States and Puerto Rico. The Commission was required to render its report to the President of the United States, the Congress of the United States, the Governor of Puerto Rico, and the Legislative Assembly of Puerto Rico not later than Sept. 30, 1966.
 
 #### Administration of Government
 

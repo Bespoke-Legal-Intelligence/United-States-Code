@@ -98,9 +98,5 @@ Section is comprised of section 203 of Pub. L. 103–182. Subsec. (b) of section
 
 Section effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as a note under section 3331 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 81c, 1311, 1312, 1313, 1562 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,3 @@ With respect to all grain made available pursuant to section 443 of this title, 
 
 (July 3, 1956, ch. 512, §3, 70 Stat. 492.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 442, 445 of this title.
-

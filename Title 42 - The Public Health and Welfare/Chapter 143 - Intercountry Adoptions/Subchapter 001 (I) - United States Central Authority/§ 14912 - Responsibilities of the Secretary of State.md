@@ -68,7 +68,3 @@ Subchapter II of this chapter, referred to in subsec. (c), was in the original â
 
 Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b) of Pub. L. 106â€“279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14923, 14932 of this title.
-

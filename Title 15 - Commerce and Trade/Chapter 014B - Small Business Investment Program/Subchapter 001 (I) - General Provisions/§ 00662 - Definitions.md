@@ -70,7 +70,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(i) a net financial worth of not more than $6,000,000, as of the date on which assistance is provided under this chapter to that business concern; and
 
-&emsp;&emsp;&emsp;(ii) an average net income for the 2-year period preceding the date on which assistance is provided under this chapter to that business concern, of not more than $2,000,000, after Federal income taxes (excluding any carryover losses) except that, for purposes of this clause, if the business concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the business concern, the net income of the business concern shall be determined by allowing a deduction in an amount equal to the sum of—
+&emsp;&emsp;&emsp;(ii) an average net income for the 2-year period preceding the date on which assistance is provided under this chapter to that business concern, of not more than $2,000,000, after Federal income taxes (excluding any carryover losses) except that, for purposes of this clause, if the business concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the business concern, the net income of the businessconcern shall be determined by allowing a deduction in an amount equal to the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) if the business concern is not required by law to pay State (and local, if any) income taxes at the enterprise level, the net income (determined without regard to this clause), multiplied by the marginal State income tax rate (or by the combined State and local income tax rates, as applicable) that would have applied if the business concern were a corporation; and
 
@@ -124,7 +124,7 @@ Par. (12)(A)(ii). Pub. L. 106–9, §2(c)(2), inserted before “; or”: “ex
 
 1997—Par. (9)(B)(iii). Pub. L. 105–135 added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
 
-1996—Par. (5). Pub. L. 104–208, §208(a)(1), inserted before semicolon at end “, except that, for purposes of this chapter, an investment by a venture capital firm, investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation—
+1996—Par. (5). Pub. L. 104–208, §208(a)(1), inserted before semicolon at end “, except that, for purposes of this chapter, an investment by a venture capital firm,investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation—
 
 &emsp;“(A) shall not cause a business concern to be deemed not independently owned and operated;
 
@@ -157,8 +157,4 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 
 Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 683 of this title; title 12 section 635; title 18 sections 20, 1014.
 

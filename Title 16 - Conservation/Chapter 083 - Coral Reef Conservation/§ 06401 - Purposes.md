@@ -76,7 +76,7 @@ Sec. 5. <i>Duties of the U.S. Coral Reef Task Force</i>. (a) <i>Coral Reef Mappi
 
 (c) <i>Conservation, Mitigation, and Restoration</i>. The Task Force, in cooperation with State, territorial, commonwealth, and local government agencies, nongovernmental organizations, the scientific community and commercial interests, shall develop, recommend, and seek or secure implementation of measures necessary to reduce and mitigate coral reef ecosystem degradation and to restore damaged coral reefs. These measures shall include solutions to problems such as land-based sources of water pollution, sedimentation, detrimental alteration of salinity or temperature, over-fishing, over-use, collection of coral reef species, and direct destruction caused by activities such as recreational and commercial vessel traffic and treasure salvage. In developing these measures, the Task Force shall review existing legislation to determine whether additional legislation is necessary to complement the policy objectives of this order and shall recommend such legislation if appropriate. The Task Force shall further evaluate existing navigational aids, including charts, maps, day markers, and beacons to determine if the designation of the location of specific coral reefs should be enhanced through the use, revision, or improvement of such aids.
 
-(d) <i>International Cooperation</i>. The Secretary of State and the Administrator of the Agency for InternationalDevelopment, in cooperation with other members of the Coral Reef Task Force and drawing upon their expertise, shall assess the U.S. role in international trade and protection of coral reef species and implement appropriate strategies and actions to promote conservation and sustainable use of coral reef resources worldwide. Such actions shall include expanded collaboration with other International Coral Reef Initiative (“ICRI”) partners, especially governments, to implement the ICRI through its Framework for Action and the Global Coral Reef Monitoring Network at regional, national, and local levels.
+(d) <i>International Cooperation</i>. The Secretary of State and the Administrator of the Agency for International Development, in cooperation with other members of the Coral Reef Task Force and drawing upon their expertise, shall assess the U.S. role in international trade and protection of coral reef species and implement appropriate strategies and actions to promote conservation and sustainable use of coral reef resources worldwide. Such actions shall include expanded collaboration with other International Coral Reef Initiative (“ICRI”) partners, especially governments, to implement the ICRI through its Framework for Action and the Global Coral Reef Monitoring Network at regional, national, and local levels.
 
 Sec. 6. This order does not create any right or benefit, substantive or procedural, enforceable in law or equity by a party against the United States, its agencies, its officers, or any person.
 
@@ -102,7 +102,7 @@ Sec. 4. <i>Management Principles</i>. The Secretary of Commerce, or his designee
 
 (b) The Reserve shall be managed using available science and applying a precautionary approach with resource protection favored when there is a lack of information regarding any given activity, to the extent not contrary to law;
 
-(c) Culturally significant, noncommercial subsistence, cultural, and religious uses by Native Hawaiians should be allowed within the Reserve, consistent with applicable law and the long-term conservation and protection of Reserve resources;
+(c) Culturally significant, noncommercial subsistence, cultural, and religious uses by Native Hawaiiansshould be allowed within the Reserve, consistent with applicable law and the long-term conservation and protection of Reserve resources;
 
 (d) The Reserve shall be managed using, when appropriate, geographical zoning and innovative management techniques to ensure that the Reserve resources are protected from degradation or harm;
 
@@ -186,7 +186,7 @@ Sec. 6. <i>Area of the Reserve</i>. The Reserve includes the waters and submerge
 
 (a) The seaward boundary of the Reserve is 50nm from the approximate center geographical positions of Nihoa Island, Necker Island, French Frigate Shoals, Gardner Pinnacles, Maro Reef, Laysan Island, Lisianski Island, Pearl and Hermes Reef, Midway Atoll, and Kure Island. Where the areas are not contiguous, parallel lines drawn tangent to and connecting those semi-circles of the 50nm areas that lie around such areas shall delimit the remainder of the Reserve.
 
-(b) The inland boundary of the Reserve around each of the areas named in subparagraph (a) of this sectionis the seaward boundary of Hawaii State waters and submerged lands, and the seaward boundary of the Midway Atoll National Wildlife Refuge, as appropriate.
+(b) The inland boundary of the Reserve around each of the areas named in subparagraph (a) of this section is the seaward boundary of Hawaii State waters and submerged lands, and the seaward boundary of the Midway Atoll National Wildlife Refuge, as appropriate.
 
 (c) The Reserve boundary is generally depicted on the map attached to this order. The Secretary, after consultation with the Governor of the State of Hawaii, may make technical modifications to the boundary of the Reserve, including providing straight-line boundaries for the Reserve for clarity and ease of identification, as appropriate.
 
@@ -252,7 +252,7 @@ Sec. 8. <i>Reserve Preservation Areas.</i>
 
 (E) Maro Reef, provided that commercial bottomfishing and commercial and recreational trolling for pelagic species in accordance with the requirements of sections 7(a)(1) and 7(a)(2) of this order, respectively, of this order \[sic\] shall be allowed to continue seaward of a mean depth of 25 fm, unless and until the Secretary determines otherwise after adequate public review and comment;
 
-(F) Laysan Island, provided that commercial bottomfishing and commercial and recreational trolling for pelagic species in accordance with the requirements of sections 7(a)(1) and 7(a)(2) of this order, respectively, of this order \[sic\] shall be allowed to continue seaward of a mean depth of 50 fm, unless anduntil the Secretary determines otherwise after adequate public review and comment;
+(F) Laysan Island, provided that commercial bottomfishing and commercial and recreational trolling for pelagic species in accordance with the requirements of sections 7(a)(1) and 7(a)(2) of this order, respectively, of this order \[sic\] shall be allowed to continue seaward of a mean depth of 50 fm, unless and until the Secretary determines otherwise after adequate public review and comment;
 
 (G) Lisianski Island, provided that commercial bottomfishing and commercial and recreational trolling for pelagic species in accordance with the requirements of sections 7(a)(1) and 7(a)(2) of this order, respectively, of this order \[sic\] shall be allowed to continue seaward of a mean depth of 25 fm, unless and until the Secretary determines otherwise after adequate public review and comment;
 
@@ -306,7 +306,7 @@ Sec. 10. <i>National Wildlife Refuges.</i>
 
 (b) Wherever the Reserve overlaps the Hawaiian Islands National Wildlife Refuge, the Reserve shall be managed to supplement and complement management of the Refuge to ensure coordinated conservation and management of the Reserve and the Refuge, consistent with the purposes and policies of the National Marine Sanctuaries Act, the National Marine Sanctuaries Amendments Act of 2000, and this order, and the authorities of the U.S. Fish and Wildlife Service under the National Wildlife Refuge System Administration Act (16 U.S.C. 668dd-668ee) and other laws with respect to management of the Refuge. Nothing in this order shall enlarge or diminish the jurisdiction or authority of the Secretary or Secretary of the Interior in managing the Reserve or Refuge, respectively.
 
-(c) The Secretary of the Interior, through the U.S. Fish and Wildlife Service, shall coordinate with the Secretary and the Governor of the State of Hawaii, as provided under section 5(b) of this order, to ensure coordinated protection and management among the Reserve, Refuges, and State, consistent with relevant authorities.
+(c) The Secretary of the Interior, through the U.S. Fish and Wildlife Service, shall coordinate with the Secretary and the Governor of the State of Hawaii, as provided under section 5(b) of this order, to ensurecoordinated protection and management among the Reserve, Refuges, and State, consistent with relevant authorities.
 
 Sec. 11. <i>Administration and Judicial Review.</i>
 

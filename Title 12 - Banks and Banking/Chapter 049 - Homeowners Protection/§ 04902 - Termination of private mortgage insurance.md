@@ -26,7 +26,7 @@ A requirement for private mortgage insurance in connection with a residential mo
 
 #### (c) Final termination
 
-If a requirement for private mortgage insurance is not otherwise canceled or terminated in accordance with subsection (a) or (b) of this section, in no case may such a requirement be imposed on residential mortgage transactions beyond the first day of the month immediately following the date that is the midpoint of the amortization period of the loan if the mortgagor is current on the payments required by the terms of the mortgage.
+If a requirement for private mortgage insurance is not otherwise canceled or terminated inaccordance with subsection (a) or (b) of this section, in no case may such a requirement be imposed on residential mortgage transactions beyond the first day of the month immediately following the date that is the midpoint of the amortization period of the loan if the mortgagor is current on the payments required by the terms of the mortgage.
 
 #### (d) Treatment of loan modifications
 
@@ -34,7 +34,7 @@ If a mortgagor and mortgagee (or holder of the mortgage) agree to a modification
 
 #### (e) No further payments
 
-No payments or premiums may be required from the mortgagor in connection with a privatemortgage insurance requirement terminated or canceled under this section—
+No payments or premiums may be required from the mortgagor in connection with a private mortgage insurance requirement terminated or canceled under this section—
 
 &emsp;(1) in the case of cancellation under subsection (a) of this section, more than 30 days after the later of—
 
@@ -98,7 +98,7 @@ No payments or premiums may be required from the mortgagor in connection with a 
 
 #### (h) Accrued obligation for premium payments
 
-The cancellation or termination under this section of the private mortgage insurance of amortgagor shall not affect the rights of any mortgagee, servicer, or mortgage insurer to enforce any obligation of such mortgagor for premium payments accrued prior to the date on which such cancellation or termination occurred.
+The cancellation or termination under this section of the private mortgage insurance of a mortgagor shall not affect the rights of any mortgagee, servicer, or mortgage insurer to enforce any obligation of such mortgagor for premium payments accrued prior to the date on which such cancellation or termination occurred.
 
 (Pub. L. 105–216, §3, July 29, 1998, 112 Stat. 899; Pub. L. 106–569, title IV, §§402(a)(2), (c)(1), 403(a), 404, 405(b), (c), Dec. 27, 2000, 114 Stat. 2956–2958.)
 
@@ -131,8 +131,4 @@ Subsec. (g)(2). Pub. L. 106–569, §403(a)(2)(B), struck out “mortgage or” 
 Subsec. (g)(3). Pub. L. 106–569, §403(a)(2)(C), substituted “residential mortgage or residential” for “mortgage or”.
 
 Subsec. (h). Pub. L. 106–569, §405(c), added subsec. (h).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4901, 4903, 4904, 4905 of this title.
 

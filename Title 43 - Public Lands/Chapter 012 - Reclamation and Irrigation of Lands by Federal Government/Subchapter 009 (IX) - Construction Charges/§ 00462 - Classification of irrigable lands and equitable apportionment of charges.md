@@ -8,7 +8,3 @@ The irrigable lands of each new project and new division of a project approved, 
 
 The definitions in section 371 of this title apply to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 371, 417, 493, 500 of this title.
-

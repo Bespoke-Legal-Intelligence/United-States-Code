@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—CENTRAL INTELLIGENCE AGENCY RETIREMENT AND DISABILITY SYSTEM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2001, 2002, 2151, 2154 of this title; title 22 sections 4071b, 4071c, 4071d.
-
 
 ---
 

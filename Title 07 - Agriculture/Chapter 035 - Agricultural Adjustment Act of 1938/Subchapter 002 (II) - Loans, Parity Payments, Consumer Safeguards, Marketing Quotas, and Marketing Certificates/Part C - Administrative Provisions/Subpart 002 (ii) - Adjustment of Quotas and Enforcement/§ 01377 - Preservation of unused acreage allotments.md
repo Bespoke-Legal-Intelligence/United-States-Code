@@ -6,7 +6,7 @@ In any case in which, during any year beginning with 1956, the acreage planted t
 
 #### References in Text
 
-The Soil Bank Act, referred to in text, is act May 28, 1956, ch. 327, 70 Stat. 188, as amended, which was classified to subchapters I to III of chapter 45 (§1801 et seq.) of this title and was repealed by Pub. L. 89–321, title VI, §601, Nov. 3, 1965, 79 Stat. 1206. For complete classification of this Act to the Code prior to its repeal, see Tables.
+The Soil Bank Act, referred to in text, is act May 28, 1956, ch. 327, 70 Stat. 188, as amended, which was classified to subchapters I to III of chapter 45 (§1801 et seq.)of this title and was repealed by Pub. L. 89–321, title VI, §601, Nov. 3, 1965, 79 Stat. 1206. For complete classification of this Act to the Code prior to its repeal, see Tables.
 
 The Food Security Act of 1985, referred to in text, is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
@@ -47,8 +47,4 @@ Section inapplicable to 1978 through 1981 crops of upland cotton, see section 60
 Pub. L. 94–214, title III, §301, Feb. 16, 1976, 90 Stat. 187, provided that: “Section 377 of the Agricultural Adjustment Act of 1938 \[this section\] shall not be applicable to the 1976 and 1977 crops of rice.”
 
 Pub. L. 91–524, title VI, §601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, §1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1344, 7301, 7992 of this title.
 

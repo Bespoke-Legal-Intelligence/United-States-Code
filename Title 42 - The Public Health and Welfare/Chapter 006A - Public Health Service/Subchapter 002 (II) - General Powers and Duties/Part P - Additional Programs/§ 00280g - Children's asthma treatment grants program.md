@@ -64,7 +64,7 @@ An eligible entity shall identify in the plan submitted as part of an applicatio
 
 #### (c) Evaluation
 
-An eligible entity that receives a grant under this section shall submit to the Secretary an evaluation of the operations and activities carried out under the grant that includes—
+An eligible entity that receives a grant under this section shall submit to the Secretary anevaluation of the operations and activities carried out under the grant that includes—
 
 &emsp;(1) a description of the health status outcomes of children assisted under the grant;
 
@@ -74,11 +74,71 @@ An eligible entity that receives a grant under this section shall submit to the 
 
 &emsp;(4) such other information as the Secretary may require.
 
-#### (d) Authorization of appropriations
+#### (d) Preference for States that allow students to self-administer medication to treat asthma and anaphylaxis
+
+#### (1) Preference
+
+&emsp;The Secretary, in making any grant under this section or any other grant that is asthma-related (as determined by the Secretary) to a State, shall give preference to any State that satisfies the following:
+
+#### (A) In general
+
+&emsp;&emsp;The State must require that each public elementary school and secondary school in that State will grant to any student in the school an authorization for the self-administration of medication to treat that student's asthma or anaphylaxis, if—
+
+&emsp;&emsp;&emsp;(i) a health care practitioner prescribed the medication for use by the student during school hours and instructed the student in the correct and responsible use of the medication;
+
+&emsp;&emsp;&emsp;(ii) the student has demonstrated to the health care practitioner (or such practitioner's designee) and the school nurse (if available) the skill level necessary to use the medication and any device that is necessary to administer such medication as prescribed;
+
+&emsp;&emsp;&emsp;(iii) the health care practitioner formulates a written treatment plan for managing asthma or anaphylaxis episodes of the student and for medication use by the student during school hours; and
+
+&emsp;&emsp;&emsp;(iv) the student's parent or guardian has completed and submitted to the school any written documentation required by the school, including the treatment plan formulated under clause (iii) and other documents related to liability.
+
+#### (B) Scope
+
+&emsp;&emsp;An authorization granted under subparagraph (A) must allow the student involved to possess and use his or her medication—
+
+&emsp;&emsp;&emsp;(i) while in school;
+
+&emsp;&emsp;&emsp;(ii) while at a school-sponsored activity, such as a sporting event; and
+
+&emsp;&emsp;&emsp;(iii) in transit to or from school or school-sponsored activities.
+
+#### (C) Duration of authorization
+
+&emsp;&emsp;An authorization granted under subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) must be effective only for the same school and school year for which it is granted; and
+
+&emsp;&emsp;&emsp;(ii) must be renewed by the parent or guardian each subsequent school year in accordance with this subsection.
+
+#### (D) Backup medication
+
+&emsp;&emsp;The State must require that backup medication, if provided by a student's parent or guardian, be kept at a student's school in a location to which the student has immediate access in the event of an asthma or anaphylaxis emergency.
+
+#### (E) Maintenance of information
+
+&emsp;&emsp;The State must require that information described in subparagraphs (A)(iii) and (A)(iv) be kept on file at the student's school in a location easily accessible in the event of an asthma or anaphylaxis emergency.
+
+#### (2) Rule of construction
+
+&emsp;Nothing in this subsection creates a cause of action or in any other way increases or diminishes the liability of any person under any other law.
+
+#### (3) Definitions
+
+&emsp;For purposes of this subsection:
+
+&emsp;&emsp;(A) The terms “elementary school” and “secondary school” have the meaning given to those terms in section 7801 of title 20.
+
+&emsp;&emsp;(B) The term “health care practitioner” means a person authorized under law to prescribe drugs subject to section 353(b) of title 21.
+
+&emsp;&emsp;(C) The term “medication” means a drug as that term is defined in section 321 of title 21 and includes inhaled bronchodilators and auto-injectable epinephrine.
+
+&emsp;&emsp;(D) The term “self-administration” means a student's discretionary use of his or her prescribed asthma or anaphylaxis medication, pursuant to a prescription or written direction from a health care practitioner.
+
+#### (e) Authorization of appropriations
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-(July 1, 1944, ch. 373, title III, §399L, as added Pub. L. 106–310, div. A, title V, §501, Oct. 17, 2000, 114 Stat. 1113.)
+(July 1, 1944, ch. 373, title III, §399L, as added Pub. L. 106–310, div. A, title V, §501, Oct. 17, 2000, 114 Stat. 1113; amended Pub. L. 108–377, §3(a), Oct. 30, 2004, 118 Stat. 2203.)
 
 #### References in Text
 
@@ -90,9 +150,47 @@ The Head Start Act, referred to in subsec. (b)(2)(B), is subchapter B (§§635�
 
 A prior section 399L of act July 1, 1944, was renumbered section 399F and is classified to section 280e–4 of this title.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 247b–10 of this title.
+2004—Subsecs. (d), (e). Pub. L. 108–377 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–377, §3(b), Oct. 30, 2004, 118 Stat. 2204, provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to grants made on or after the date that is 9 months after the date of the enactment of this Act \[Oct. 30, 2004\].”
+
+#### Findings of 2004 Amendment
+
+Pub. L. 108–377, §2, Oct. 30, 2004, 118 Stat. 2202, provided that: “The Congress finds the following:
+
+&emsp;“(1) Asthma is a chronic condition requiring lifetime, ongoing medical intervention.
+
+&emsp;“(2) In 1980, 6,700,000 Americans had asthma.
+
+&emsp;“(3) In 2001, 20,300,000 Americans had asthma; 6,300,000 children under age 18 had asthma.
+
+&emsp;“(4) The prevalence of asthma among African-American children was 40 percent greater than among Caucasian children, and more than 26 percent of all asthma deaths are in the African-American population.
+
+&emsp;“(5) In 2000, there were 1,800,000 asthma-related visits to emergency departments (more than 728,000 of these involved children under 18 years of age).
+
+&emsp;“(6) In 2000, there were 465,000 asthma-related hospitalizations (214,000 of these involved children under 18 years of age).
+
+&emsp;“(7) In 2000, 4,487 people died from asthma, and of these 223 were children.
+
+&emsp;“(8) According to the Centers for Disease Control and Prevention, asthma is a common cause of missed school days, accounting for approximately 14,000,000 missed school days annually.
+
+&emsp;“(9) According to the New England Journal of Medicine, working parents of children with asthma lose an estimated $1,000,000,000 a year in productivity.
+
+&emsp;“(10) At least 30 States have legislation protecting the rights of children to carry and self-administer asthma metered-dose inhalers, and at least 18 States expand this protection to epinephrine auto-injectors.
+
+&emsp;“(11) Tragic refusals of schools to permit students to carry their inhalers and auto-injectable epinephrine have occurred, some resulting in death and spawning litigation.
+
+&emsp;“(12) School district medication policies must be developed with the safety of all students in mind. The immediate and correct use of asthma inhalers and auto-injectable epinephrine are necessary to avoid serious respiratory complications and improve health care outcomes.
+
+&emsp;“(13) No school should interfere with the patient-physician relationship.
+
+&emsp;“(14) Anaphylaxis, or anaphylactic shock, is a systemic allergic reaction that can kill within minutes. Anaphylaxis occurs in some asthma patients. According to the American Academy of Allergy, Asthma, and Immunology, people who have experienced symptoms of anaphylaxis previously are at risk for subsequent reactions and should carry an epinephrine auto-injector with them at all times, if prescribed.
+
+&emsp;“(15) An increasing number of students and school staff have life-threatening allergies. Exposure to the affecting allergen can trigger anaphylaxis. Anaphylaxis requires prompt medical intervention with an injection of epinephrine.”
 
 <i><sup>1</sup></i><i> So in original. Two pars. (2) have been enacted.</i>
 

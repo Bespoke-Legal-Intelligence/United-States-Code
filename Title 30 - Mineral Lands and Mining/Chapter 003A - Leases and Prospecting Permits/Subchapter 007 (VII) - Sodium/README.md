@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—SODIUM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 284 of this title.
-
 
 ---
 

@@ -88,14 +88,10 @@
 | [1961\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001961%20-%20Locally%20convenient%20day%20schools.md) | Locally convenient day schools. |
 | (a) | Sense of Congress. |
 | (b) | Report to Congress; contents, etc. |
-| [1962\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001962%20-%20Copies%20to%20the%20States.md) | Copies to States. |
+| [1962\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001962%20-%20Copies%20to%20the%20States.md) | Copies to the States. |
 | [1963\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001963%20-%20Severability.md) | Severability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 941h, 1300j–7, 1653, 1727 of this title; title 42 sections 622, 674, 1996b, 14953.
 
 
 ---

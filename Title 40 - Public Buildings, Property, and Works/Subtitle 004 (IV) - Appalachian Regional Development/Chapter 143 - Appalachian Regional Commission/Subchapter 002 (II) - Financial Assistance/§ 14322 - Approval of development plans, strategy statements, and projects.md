@@ -46,7 +46,3 @@ Pub. L. 89–4, title III, §303, Mar. 9, 1965, 79 Stat. 20; Pub. L. 90–103, t
 
 40 App.:303 (last sentence).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14302, 14502 of this title.
-

@@ -8,10 +8,6 @@ Another subchapter IV (§581 et seq.) relating to negotiated rulemaking procedur
 
 1992—Pub. L. 102–354, §3(b)(1), Aug. 26, 1992, 106 Stat. 944, transferred this subchapter so as to appear immediately after subchapter III of this chapter.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 556 of this title; title 12 section 4806; title 25 sections 450j, 450<i>l</i>; title 28 section 2672; title 29 section 173; title 41 section 605.
-
 
 ---
 

@@ -4,7 +4,3 @@ The electors shall make and sign six certificates of all the votes given by them
 
 (June 25, 1948, ch. 644, 62 Stat. 674.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12 of this title.
-

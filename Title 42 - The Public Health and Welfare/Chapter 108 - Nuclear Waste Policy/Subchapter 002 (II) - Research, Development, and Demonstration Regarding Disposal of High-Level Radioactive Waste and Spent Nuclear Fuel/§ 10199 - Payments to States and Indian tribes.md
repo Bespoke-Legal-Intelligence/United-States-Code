@@ -10,7 +10,3 @@ The Secretary shall make any payment to a State under subsection (a) of this sec
 
 (Pub. L. 97–425, title II, §219, Jan. 7, 1983, 96 Stat. 2253.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10222 of this title.
-

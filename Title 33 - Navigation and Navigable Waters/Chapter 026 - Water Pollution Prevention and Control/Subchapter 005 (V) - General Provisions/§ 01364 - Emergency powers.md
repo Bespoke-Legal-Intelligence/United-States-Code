@@ -10,15 +10,11 @@ Notwithstanding any other provision of this chapter, the Administrator upon rece
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–510 struck out subsec. (b) which related to emergency assistance, establishmentof an emergency fund, and preparation of a contingency plan for such emergencies.
+1980—Subsec. (b). Pub. L. 96–510 struck out subsec. (b) which related to emergency assistance, establishment of an emergency fund, and preparation of a contingency plan for such emergencies.
 
 1977—Pub. L. 95–217 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–510 effective Dec. 11, 1980, see section 9652 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1256, 1318 of this title; title 42 sections 7412, 9606, 9654.
 

@@ -116,7 +116,3 @@ The Vaccine Injury Table as modified by regulations promulgated by the Secretary
 
 Section 13632(a)(3) of Pub. L. 103–66 provided that: “A revision by the Secretary under section 2114(e) of the Public Health Service Act (42 U.S.C. 300aa–14(e)) (as amended by paragraph (2)) shall take effect upon the effective date of a tax enacted to provide funds for compensation paid with respect to the vaccine to be added to the vaccine injury table in section 2114(a) of the Public Health Service Act (42 U.S.C. 300aa–14(a)).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300aa–25, 300aa–33 of this title.
-

@@ -34,7 +34,7 @@
 
 > &emsp;in the same proportion as the Fund described in subclause (B) of this clause and the funds described in subclause (A) or (C) of this clause are used to pay the educational assistance allowance to the individual under this chapter.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2562, §1435; amended Pub. L. 99–576, title III, §321(8), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §107(a)(2), Nov. 18, 1988, 102 Stat. 4168; Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §561(b)(3), Nov. 5, 1990, 104 Stat. 1573; renumbered §3035 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406;Pub. L. 102–484, div. D, title XLIV, §4404(b)(3), Oct. 23, 1992, 106 Stat. 2706; Pub. L. 103–446, title XII, §1201(d)(7), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §106(c)(2), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–314, div. A, title VI, §643(b), Dec. 2, 2002, 116 Stat. 2577; Pub. L. 107–330, title III, §308(c)(1), Dec. 6, 2002, 116 Stat. 2827.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2562, §1435; amended Pub. L. 99–576, title III, §321(8), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §107(a)(2), Nov. 18, 1988, 102 Stat. 4168; Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §561(b)(3), Nov. 5, 1990, 104 Stat. 1573; renumbered §3035 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–484, div. D, title XLIV, §4404(b)(3), Oct. 23, 1992, 106 Stat. 2706; Pub. L. 103–446, title XII, §1201(d)(7), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §106(c)(2), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–314, div. A, title VI, §643(b), Dec. 2, 2002, 116 Stat. 2577; Pub. L. 107–330, title III, §308(c)(1), Dec. 6, 2002, 116 Stat. 2827.)
 
 #### Amendments
 
@@ -79,8 +79,4 @@ Pub. L. 107–330, title III, §308(c)(2), Dec. 6, 2002, 116 Stat. 2828, provide
 Pub. L. 107–314, div. A, title VI, §643(c)(2), Dec. 2, 2002, 116 Stat. 2578, provided that: “The amendments made by subsection (b) \[amending this section\] shall take effect as if made by section 654 of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 115 Stat. 1153).”
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3017 of this title.
 

@@ -20,7 +20,7 @@ Neither the Secretary of the Treasury nor any other officer or agent of the Unit
 
 #### (f) Reduction of appropriations
 
-Amounts appropriated to be paid pursuant to section 177 of Article I of Title One or Articles I and III of Title Two of the Compact of Free Association with the Federated States of Micronesia and the Marshall Islands, as set forth in Title II of the Compact of Free Association Act of 1985, or pursuant to section 103(h), 103(k), or 105(m) of such Act \[48 U.S.C. 1903(h), (k), 1905(m)\] (Public Law 99–239), or pursuant to Article I of Title Two of the Compact with Palau, as set forth in Title II of this joint resolution, or subsection (<i>l</i>) <sup>2</sup> of this section shall not be reduced, notwithstanding Public Law 99–177, Public Law 99–366, and other law enacted to implement Public Law 99–177, or any other provision of law.
+Amounts appropriated to be paid pursuant to section 177 of Article I of Title One or Articles I and III of Title Two of the Compact of Free Association with the Federated States of Micronesia and the Marshall Islands, as set forth in Title II of the Compact of Free Association Act of 1985, or pursuant to section 103(h), 103(k), or105(m) of such Act \[48 U.S.C. 1903(h), (k), 1905(m)\] (Public Law 99–239), or pursuant to Article I of Title Two of the Compact with Palau, as set forth in Title II of this joint resolution, or subsection (<i>l</i>) <sup>2</sup> of this section shall not be reduced, notwithstanding Public Law 99–177, Public Law 99–366, and other law enacted to implement Public Law 99–177, or any other provision of law.
 
 #### (g) Understandings, interpretations, and policy statements
 
@@ -58,7 +58,7 @@ The Compact of Free Association with the Marshall Islands and the Compact of Fre
 
 This joint resolution and this Act, referred to in subsecs. (e), (f), and (i), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, as amended, which is classified generally to this part. Title II of this joint resolution enacted section 1934 of this title and provisions set out as a note under section 1931 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Compact of Free Association Act of 1985 and Public Law 99–239, referred to in subsecs. (f), (g), and (i), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended,which is classified principally to part A of subchapter I of this chapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The Compact of Free Association Act of 1985 and Public Law 99–239, referred to in subsecs. (f), (g), and (i), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, which is classified principally to part A of subchapter I of this chapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 Public Law 99–177, referred to in subsec. (f), is Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, as amended. For complete classification of this Act to the Code, see Tables.
 
@@ -79,10 +79,6 @@ Section is comprised of section 104 of Pub. L. 99–658. Subsec. (c) of section 
 #### Change of Name
 
 Committee on Interior and Insular Affairs of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 5, One Hundred Third Congress, Jan. 5, 1993. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1962 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of the Compact”.</i>
 

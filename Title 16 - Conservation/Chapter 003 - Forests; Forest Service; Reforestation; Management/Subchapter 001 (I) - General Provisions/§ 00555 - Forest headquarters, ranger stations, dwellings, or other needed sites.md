@@ -10,7 +10,3 @@ Where no suitable Government land is available for national forest headquarters,
 
 1950—Act Apr. 24, 1950, applied section to dwellings or other needed sites and inserted provisos.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 580k of this title.
-

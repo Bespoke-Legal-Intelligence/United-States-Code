@@ -106,13 +106,13 @@ An eligible trade organization shall be—
 
 #### (2) Limitation
 
-&emsp;Assistance provided under this section for activities described in subsection (e)(4) of this section shall not exceed 50 percent of the cost of implementing the marketing plan, exceptthat the Secretary may determine not to apply such limitation in the case of agricultural commodities with respect to which there has been a favorable decision by the United States Trade Representative under section 2411 of title 19. Criteria for determining that the limitation shall not apply shall be consistent and documented.
+&emsp;Assistance provided under this section for activities described in subsection (e)(4) of this section shall not exceed 50 percent of the cost of implementing the marketing plan, except that the Secretary may determine not to apply such limitation in the case of agricultural commodities with respect to which there has been a favorable decision by the United States Trade Representative under section 2411 of title 19. Criteria for determining that the limitation shall not apply shall be consistent and documented.
 
 #### (3) Staged reduction in assistance
 
 &emsp;In the case of participants that received assistance under section 1736s of this title prior to November 28, 1990, and with respect to which assistance under this section would be limited under paragraph (2), any such reduction in assistance shall be phased down in equal increments over a 5-year period.
 
-(Pub. L. 95–501, title II, §203, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3674; amended Pub. L. 102–237, title III, §309, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 103–66, title I, §1302(b)(1), Aug. 10, 1993, 107 Stat. 330; Pub. L. 103–465, title IV, §411(d), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title II, §244(a)(1), (b), Apr. 4, 1996, 110 Stat. 967, 968.)
+(Pub. L. 95–501, title II, §203, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat.3674; amended Pub. L. 102–237, title III, §309, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 103–66, title I, §1302(b)(1), Aug. 10, 1993, 107 Stat. 330; Pub. L. 103–465, title IV, §411(d), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title II, §244(a)(1), (b), Apr. 4, 1996, 110 Stat. 967, 968.)
 
 #### References in Text
 
@@ -197,8 +197,4 @@ Tobacco.—No funds made available under the market access program may be used f
 “(c)
 
 Regulations.—Not later than 90 days after the date of enactment of this Act \[Aug. 10, 1993\], the Secretary of Agriculture shall issue regulations to implement this section \[amending this section and section 5641 of this title\] and the amendments made by this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1638a, 5641, 5662 of this title.
 

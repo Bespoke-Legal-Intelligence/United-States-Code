@@ -34,11 +34,7 @@ Subsecs. (c) to (e). Pub. L. 101–624, §1601(e)(4), redesignated subsecs. (c) 
 
 1984—Subsec. (a). Pub. L. 98–284, §15(a), inserted “$5,000,000 for the fiscal year ending September 30, 1984, $5,500,000 for the fiscal year ending September 30, 1985, $6,500,000 for the fiscal year ending September 30, 1986, $7,500,000 for the fiscal year ending September 30, 1987, and $8,000,000 for the fiscal year ending September 30, 1988,” and struck out “and” after “1981,”.
 
-Subsec. (b). Pub. L. 98–284, §15(b), inserted “$2,500,000 for the fiscal year ending September 30, 1984, $3,000,000for the fiscal year ending September 30, 1985, $3,500,000 for the fiscal year ending September 30, 1986, $4,000,000 for the fiscal year ending September 30, 1987, and $4,500,000 for the fiscal year ending September 30, 1988,” and struck out “and” after “1981,”.
+Subsec. (b). Pub. L. 98–284, §15(b), inserted “$2,500,000 for the fiscal year ending September 30, 1984, $3,000,000 for the fiscal year ending September 30, 1985, $3,500,000 for the fiscal year ending September 30, 1986, $4,000,000 for the fiscal year ending September 30, 1987, and $4,500,000 for the fiscal year ending September 30, 1988,” and struck out “and” after “1981,”.
 
 Subsec. (e). Pub. L. 98–284, §15(c), added subsec. (e).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 178c of this title.
 

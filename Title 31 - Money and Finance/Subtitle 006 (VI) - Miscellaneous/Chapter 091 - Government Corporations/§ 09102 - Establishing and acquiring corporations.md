@@ -20,7 +20,3 @@ Dec. 6, 1945, ch. 557, §304(a), 59 Stat. 602.
 
 The word “agency” is substituted for “officer or agency of the Federal Government or by any Government corporation” and “agency or instrumentality of the United States” because of section 101 of the revised title, for consistency, and because a Government corporation is an “instrumentality of the United States Government”. The word “establish” is substituted for “created, organized” to eliminate unnecessary words. The words “on or after December 6, 1945” are omitted as executed. The words “law of the United States” are substituted for “Act of Congress” for consistency.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 8 section 1363a; title 19 section 2081; title 26 section 7608.
-

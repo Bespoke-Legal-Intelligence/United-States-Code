@@ -14,7 +14,3 @@ The Office of Space Commerce—
 
 (Pub. L. 102–511, title VI, §602, Oct. 24, 1992, 106 Stat. 3347.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5873 of this title.
-

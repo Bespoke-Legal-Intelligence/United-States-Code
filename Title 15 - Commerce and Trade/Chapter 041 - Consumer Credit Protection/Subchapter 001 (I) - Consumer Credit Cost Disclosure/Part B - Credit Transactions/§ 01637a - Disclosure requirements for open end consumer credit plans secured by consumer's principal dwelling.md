@@ -50,7 +50,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 #### (3) Other fees imposed by the creditor
 
-&emsp;An itemization of any fees imposed by the creditor in connection with the availability or use of credit under such plan, including annual fees, application fees, transaction fees, andclosing costs (including costs commonly described as “points”), and the time when such fees are payable.
+&emsp;An itemization of any fees imposed by the creditor in connection with the availability or use of credit under such plan, including annual fees, application fees, transaction fees, and closing costs (including costs commonly described as “points”), and the time when such fees are payable.
 
 #### (4) Estimates of fees which may be imposed by third parties
 
@@ -96,7 +96,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;A statement that—
 
-&emsp;&emsp;(A) under certain conditions, the creditor may terminate any account under the plan and require immediate repayment of any outstanding balance, prohibit any additional extension of credit to the account, or reduce the credit limit applicable to the account; and
+&emsp;&emsp;(A) under certain conditions, the creditor may terminate any account under the plan and require immediate repayment of anyoutstanding balance, prohibit any additional extension of credit to the account, or reduce the credit limit applicable to the account; and
 
 &emsp;&emsp;(B) the consumer may receive, upon request, more specific information about the conditions under which the creditor may take any action described in subparagraph (A).
 
@@ -257,8 +257,4 @@ Section 4 of Pub. L. 100–709 provided that: “The Board of Governors of the F
 &emsp;“(1) a general description of open end consumer credit plans secured by the consumer's principal dwelling and the terms and conditions under which such loans are generally extended; and
 
 &emsp;“(2) a discussion of the potential advantages and disadvantages of such plans, including how to compare among home equity plans and between home equity and closed end credit plans.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1632, 1647, 1665b of this title.
 

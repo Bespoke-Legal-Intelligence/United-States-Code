@@ -48,7 +48,3 @@ The text of section 509(c) of the Act of August 17, 1977, is omitted as unnecess
 
 Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 1060; title 22 section 3622.
-

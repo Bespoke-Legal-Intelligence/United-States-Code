@@ -18,7 +18,3 @@
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5203, 5208, 5212 of this title.
-

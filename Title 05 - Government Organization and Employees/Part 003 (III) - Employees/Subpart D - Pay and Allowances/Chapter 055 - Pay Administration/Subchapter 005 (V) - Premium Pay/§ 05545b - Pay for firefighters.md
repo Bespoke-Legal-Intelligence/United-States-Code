@@ -16,7 +16,7 @@
 
 &emsp;(B) for hours outside the basic 40-hour workweek, such section shall be deemed to require that the hourly rate be derived by dividing the annual rate by 2756; and
 
-&emsp;(C) the computation of such firefighter's daily, weekly, or biweekly rate shall be basedon subparagraphs (A) and (B), as each applies to the hours involved.
+&emsp;(C) the computation of such firefighter's daily, weekly, or biweekly rate shall be based on subparagraphs (A) and (B), as each applies to the hours involved.
 
 (2) For purposes of sections 5595(c), 5941, 8331(3), and 8704(c), and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe, the basic pay of a firefighter subject to this subsection shall include—
 
@@ -79,8 +79,4 @@ Pub. L. 106–31, title III, §3032, May 21, 1999, 113 Stat. 104, provided that:
 #### No Reduction in Regular Pay
 
 Pub. L. 105–277, div. A, §101(h) \[title VI, §628(g)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that: “Under regulations prescribed by the Office of Personnel Management, the regular pay (over the established work scheduling cycle) of a firefighter subject to section 5545b of title 5, United States Code, as added by this section, shall not be reduced as a result of the implementation of this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4109, 5542, 5547, 8331, 9902 of this title.
 

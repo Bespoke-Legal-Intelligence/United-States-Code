@@ -22,7 +22,3 @@ In the first sentence, the words “is responsible for and has control” are su
 
 In the last sentence, the word “may” is substituted for “shall”. The word “aforesaid” following “any party or intervenor” is omitted as unnecessary. The words “any intervenor” and “inaction” are substituted for “said intervenor or intervenors” and “nonaction”, respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 1407; title 7 sections 2149, 3804, 3805.
-

@@ -20,7 +20,3 @@ There are authorized to be appropriated to carry out this subchapter such sums a
 
 (Pub. L. 106–402, title II, §212, Oct. 30, 2000, 114 Stat. 1734.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15093 of this title.
-

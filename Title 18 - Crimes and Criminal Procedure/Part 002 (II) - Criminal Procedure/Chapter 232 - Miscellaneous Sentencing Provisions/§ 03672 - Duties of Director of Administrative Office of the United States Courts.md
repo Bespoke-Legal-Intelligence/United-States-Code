@@ -66,7 +66,3 @@ Section 4(a) of Pub. L. 95–537, as amended by Pub. L. 98–236, §2, Mar. 20, 
 
 Increase in compensation rates fixed under this section, see note under section 603 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 4521.
-

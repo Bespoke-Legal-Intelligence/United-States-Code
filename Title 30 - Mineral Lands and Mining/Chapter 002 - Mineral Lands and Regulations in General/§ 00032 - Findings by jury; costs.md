@@ -4,7 +4,3 @@ If, in any action brought pursuant to section 30 of this title, title to the gro
 
 (Mar. 3, 1881, ch. 140, 21 Stat. 505.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 460mm–1.
-

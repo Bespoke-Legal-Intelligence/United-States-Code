@@ -98,7 +98,7 @@ Public Law 89–502, referred to in subsec. (a)(2), is Pub. L. 89–502, July 13
 
 Public Law 91–670, referred to in subsec. (a)(3), is Pub. L. 91–670, Jan. 11, 1971, 84 Stat. 2040, as amended. Title III of Pub. L. 91–670, known as the Potato Research and Promotion Act, is classified generally to chapter 58 (§2611 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 2611 of this title and Tables.
 
-Public Law 93–428, referred to in subsec. (a)(4), is Pub. L. 93–428, Oct. 1, 1974, 88 Stat. 1171, as amended, knownas the Egg Research and Consumer Information Act, which is classified generally to chapter 60 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+Public Law 93–428, referred to in subsec. (a)(4), is Pub. L. 93–428, Oct. 1, 1974, 88 Stat. 1171, as amended, known as the Egg Research and Consumer Information Act, which is classified generally to chapter 60 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 Public Law 94–294, referred to in subsec. (a)(5), is Pub. L. 94–294, May 28, 1976, 90 Stat. 529, as amended, known as the Beef Research and Information Act, which is classified generally to chapter 62 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
@@ -129,8 +129,4 @@ Section 531 of title V of Pub. L. 104–127 provided that: “This subtitle \[su
 Section 551 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle D (§§551–564) of title V of Pub. L. 104–127, enacting subchapter IV of this chapter\] may be cited as the ‘National Kiwifruit Research, Promotion, and Consumer Information Act’.”
 
 Section 571 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle E (§§571–582) of title V of Pub. L. 104–127, enacting subchapter V of this chapter\] may be cited as the ‘Popcorn Promotion, Research, and Consumer Information Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7414 of this title.
 

@@ -28,7 +28,3 @@ Sept. 26, 1961, Pub. L. 87–304, §4, 75 Stat. 663.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5522, 5523 of this title.
-

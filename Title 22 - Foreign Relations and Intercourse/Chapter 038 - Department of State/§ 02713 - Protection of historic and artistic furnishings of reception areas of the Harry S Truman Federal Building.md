@@ -36,7 +36,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Prior Provisions
 
-A prior section 41 of act Aug. 1, 1956, was renumbered section 42 by section 126(a)(1) of Pub. L. 100–204, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
+A prior section 41 of act Aug. 1, 1956, was renumbered section 42 by section 126(a)(1) of Pub. L. 100–204, andsubsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
 

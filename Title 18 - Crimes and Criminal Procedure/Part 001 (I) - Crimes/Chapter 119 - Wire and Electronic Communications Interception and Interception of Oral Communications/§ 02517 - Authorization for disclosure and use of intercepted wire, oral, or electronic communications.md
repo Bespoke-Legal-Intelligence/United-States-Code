@@ -32,6 +32,10 @@
 
 1970—Par. (3). Pub. L. 91–452 substituted “proceeding held under the authority of the United States or of any State or political subdivision thereof” for “criminal proceeding in any court of the United States or of any State or in any Federal or State grand jury proceeding”.
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
@@ -46,9 +50,5 @@ Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in cas
 
 #### Procedures for Disclosure of Information
 
-Pub. L. 107–56, title II, §203(c), Oct. 26, 2001, 115 Stat. 280, as amended by Pub. L. 107–296, title VIII, §897(b), Nov. 25, 2002, 116 Stat. 2258, provided that: “The Attorney General shall establish procedures for the disclosure of information pursuant to paragraphs (6) and (8) of section 2517 of title 18, United States Code, and Rule 6(e)(3)(C)(i)(V) and (VI) of the Federal Rules of Criminal Procedure \[18 App. U.S.C.\] that identifies a United States person, as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801)).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2510, 2511, 2518, 2520, 2702 of this title; title 6 section 122.
+Pub. L. 107–56, title II, §203(c), Oct. 26, 2001, 115 Stat. 280, as amended by Pub. L. 107–296, title VIII, §897(b), Nov. 25, 2002, 116 Stat. 2258; Pub. L. 108–458, title VI, §6501(b), Dec. 17, 2004, 118 Stat. 3760, provided that: “The Attorney General shall establish procedures for the disclosure of information pursuant to paragraphs (6) and (8) of section 2517 of title 18, United States Code, and Rule 6(e)(3)(D) of the Federal Rules of Criminal Procedure \[18 App. U.S.C.\] that identifies a United States person, as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801)) \[sic\].”
 

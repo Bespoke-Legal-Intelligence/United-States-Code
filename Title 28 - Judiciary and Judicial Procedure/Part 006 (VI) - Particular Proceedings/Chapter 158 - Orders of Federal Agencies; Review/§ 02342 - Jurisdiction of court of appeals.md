@@ -28,7 +28,7 @@ The court of appeals (other than the United States Court of Appeals for the Fede
 
 > Jurisdiction is invoked by filing a petition as provided by section 2344 of this title.
 
-(Added Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, §4, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–454, title II, §206, Oct. 13, 1978, 92 Stat. 1144; Pub. L. 96–454, §8(b)(2), Oct. 15, 1980, 94 Stat. 2021; Pub. L. 97–164, title I, §137, Apr. 2, 1982, 96 Stat. 41; Pub. L. 98–554, title II, §227(a)(4), Oct. 30, 1984, 98 Stat. 2852; Pub. L. 99–336, §5(a), June 19, 1986, 100 Stat. 638; Pub. L. 100–430, §11(a), Sept. 13, 1988, 102 Stat. 1635; Pub. L. 102–365, §5(c)(2), Sept. 3, 1992, 106 Stat. 975; Pub. L. 103–272, §5(h), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, §305(d)(5)–(8), Dec. 29, 1995, 109 Stat. 945; Pub. L. 104–287, §6(f)(2), Oct. 11, 1996, 110 Stat. 3399.)
+(Added Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, §4, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–454, title II, §206, Oct. 13, 1978, 92 Stat. 1144; Pub. L. 96–454, §8(b)(2), Oct. 15, 1980, 94 Stat. 2021; Pub. L. 97–164, title I, §137, Apr. 2, 1982, 96 Stat. 41; Pub. L. 98–554, title II,§227(a)(4), Oct. 30, 1984, 98 Stat. 2852; Pub. L. 99–336, §5(a), June 19, 1986, 100 Stat. 638; Pub. L. 100–430, §11(a), Sept. 13, 1988, 102 Stat. 1635; Pub. L. 102–365, §5(c)(2), Sept. 3, 1992, 106 Stat. 975; Pub. L. 103–272, §5(h), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, §305(d)(5)–(8), Dec. 29, 1995, 109 Stat. 945; Pub. L. 104–287, §6(f)(2), Oct. 11, 1996, 110 Stat. 3399.)
 
 Historical and Revision Notes
 
@@ -121,10 +121,6 @@ Amendment by Pub. L. 93–584 not applicable to actions commenced on or before l
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 46 App. section 1710a.
 
 <i><sup>1</sup></i><i> So in original. The reference to “841a” probably should not appear.</i>
 

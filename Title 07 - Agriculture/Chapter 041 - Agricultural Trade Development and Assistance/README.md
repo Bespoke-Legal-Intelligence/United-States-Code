@@ -870,7 +870,7 @@ Exemption from requirements of OMB circular.
 
 |  |  |
 | :--- | ---: |
-| [1737\.](Subchapter%20005%20%28V%29%20-%20Farmer-to-Farmer%20Program/%C2%A7%2001737%20-%20John%20Ogonowski%20Farmer-to-Farmer%20Program.md) | John Ogonowski Farmer-to-Farmer Program. |
+| [1737\.](Subchapter%20005%20%28V%29%20-%20Farmer-to-Farmer%20Program/%C2%A7%2001737%20-%20John%20Ogonowski%20and%20Doug%20Bereuter%20Farmer-to-Farmer%20Program.md) | John Ogonowski and Doug Bereuter Farmer-to-Farmer Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1056,7 +1056,20 @@ Encouraging donations from other sources.
 
 |  |  |
 | :--- | ---: |
-| [1738m.](Subchapter%20006%20%28VI%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2001738m%20-%20Omitted.md) | Omitted. |
+| [1738m.](Subchapter%20006%20%28VI%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2001738m%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Supplemental views in annual report.
+
+|  |  |
+| :--- | ---: |
 | [1738n.](Subchapter%20006%20%28VI%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2001738n%20-%20Consultations%20with%20Congress.md) | Consultations with Congress. |
 | 1738<i>o.</i> | Sale of qualified debt to eligible countries. |
 
@@ -1159,10 +1172,6 @@ Designated congressional committees.
 | [1738r.](Subchapter%20006%20%28VI%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2001738r%20-%20%E2%80%9CQualified%20debt%E2%80%9D%20defined.md) | “Qualified debt” defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1431, 1446c–1, 1736f–1, 1736<i>o</i>, 1765b, 5201, 5693, 5713 of this title; title 13 section 301; title 16 section 1537; title 22 sections 2151a, 2291, 2292n, 2353, 2354, 2362, 2370, 2371, 2394, 2455, 2775, 5413, 5425, 6006, 6062, 7201; title 46 App. section 1241f.
 
 
 ---

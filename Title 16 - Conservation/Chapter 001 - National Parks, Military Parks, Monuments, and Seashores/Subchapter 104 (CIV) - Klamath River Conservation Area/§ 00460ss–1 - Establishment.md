@@ -44,7 +44,3 @@ The Secretary shall designate the anadromous fish habitats and resources of the 
 
 (Pub. L. 99–552, §2, Oct. 27, 1986, 100 Stat. 3081.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460ss–6 of this title.
-

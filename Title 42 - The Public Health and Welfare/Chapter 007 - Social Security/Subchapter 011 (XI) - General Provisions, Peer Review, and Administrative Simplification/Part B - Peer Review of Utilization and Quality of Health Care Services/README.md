@@ -1,9 +1,5 @@
 Part B—Peer Review of Utilization and Quality of Health Care Services
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1301, 1395b–1, 1395h, 1395k, 1395x, 1395u, 1395y, 1395cc, 13955dd, 1395ff, 1395mm, 1395ww, 1396a, 1396r–2 of this title; title 10 section 1079.
-
 
 ---
 

@@ -16,7 +16,3 @@ Section is comprised of subsec. (b), fifth sentence, of section 209 of act Mar. 
 
 1959—Pub. L. 86–251 included all Deputy Comptrollers instead of only two deputy comptrollers and struck out provisions deeming the salaries of deputy comptroller, examiners, assistant examiners, clerks and other employees as expenses of administration of national agricultural credit corporation provisions and considering the salary of the additional deputy comptroller as partly an expense of administration in proportion to time spent in such administration.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9 of this title.
-

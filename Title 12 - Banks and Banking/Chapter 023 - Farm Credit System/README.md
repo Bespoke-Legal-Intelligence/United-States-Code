@@ -1212,7 +1212,7 @@ Directives as final orders.
 
 |  |  |
 | :--- | ---: |
-| [2275\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20D%20-%20Miscellaneous/%C2%A7%2002275%20-%20General%20Accounting%20Office%20audit%3B%20report%20to%20Congress.md) | General Accounting Office audit; report to Congress. |
+| [2275\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20D%20-%20Miscellaneous/%C2%A7%2002275%20-%20Government%20Accountability%20Office%20audit%3B%20report%20to%20Congress.md) | Government Accountability Office audit; report to Congress. |
 | [2275a.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20D%20-%20Miscellaneous/%C2%A7%2002275a%20-%20Transition%20rules%20relating%20to%20amendment%20of%20certain%20FCA%20approval%20authorities.md) | Transition rules relating to amendment of certain FCA approval authorities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2516,10 +2516,6 @@ Report to Congress.
 (i)
 
 Termination of authorities.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1786, 1818 of this title; title 7 section 2009cc–9; title 15 sections 1607, 1691c, 6505, 6809, 6827, 7706; title 18 section 1030; title 40 section 113; title 42 section 9601; title 46 section 31322.
 
 
 ---

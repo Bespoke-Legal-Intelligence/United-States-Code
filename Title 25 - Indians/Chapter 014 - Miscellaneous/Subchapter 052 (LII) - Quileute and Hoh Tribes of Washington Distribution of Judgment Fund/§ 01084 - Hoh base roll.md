@@ -4,7 +4,3 @@ When preparing a Hoh tribal base roll, the Secretary shall include only the name
 
 (Pub. L. 89–655, §4, Oct. 14, 1966, 80 Stat. 905.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1085 of this title.
-

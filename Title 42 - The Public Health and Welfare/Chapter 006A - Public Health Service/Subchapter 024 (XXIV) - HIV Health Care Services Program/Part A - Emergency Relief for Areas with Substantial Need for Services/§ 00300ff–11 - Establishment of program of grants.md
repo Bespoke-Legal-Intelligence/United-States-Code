@@ -22,7 +22,7 @@ The Secretary may not make a grant under subsection (a) of this section for a me
 
 #### (2) Geographic boundaries
 
-&emsp;For purposes of eligibility under this part, the boundaries of each metropolitan area arethe boundaries that were in effect for the area for fiscal year 1994.
+&emsp;For purposes of eligibility under this part, the boundaries of each metropolitan area are the boundaries that were in effect for the area for fiscal year 1994.
 
 #### (d) Continued status as eligible area
 
@@ -111,8 +111,4 @@ Report.—The Secretary shall ensure that—
 #### Study Regarding HIV Disease in Rural Areas
 
 Pub. L. 101–381, title IV, §403, Aug. 18, 1990, 104 Stat. 622 directed Secretary of Health and Human Services, after consultation with Director of the Office of Rural Health Policy, to conduct study for purpose of estimating incidence and prevalence in rural areas of cases of acquired immune deficiency syndrome and cases of infection with etiologic agent for such syndrome and determine adequacy in rural areas of services for diagnosing and providing treatment for such cases that are in early stages of infection, and provided that, not later than 1 year after Aug. 18, 1990, Secretary was to submit report to Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–12, 300ff–13, 300ff–14, 300ff–15, 300ff–16, 300ff–17 of this title.
 

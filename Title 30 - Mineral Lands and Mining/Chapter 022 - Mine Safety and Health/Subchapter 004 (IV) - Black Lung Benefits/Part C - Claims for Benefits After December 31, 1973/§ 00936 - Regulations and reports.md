@@ -2,7 +2,7 @@
 
 #### (a) Promulgation; applicability of section 553 of title 5
 
-The Secretary of Labor and the Secretary of Health and Human Services are authorized toissue such regulations as each deems appropriate to carry out the provisions of this subchapter. Such regulations shall be issued in conformity with section 553 of title 5, notwithstanding subsection (a) thereof.
+The Secretary of Labor and the Secretary of Health and Human Services are authorized to issue such regulations as each deems appropriate to carry out the provisions of this subchapter. Such regulations shall be issued in conformity with section 553 of title 5, notwithstanding subsection (a) thereof.
 
 #### (b) Annual reports to Congress
 
@@ -16,7 +16,7 @@ Nothing in this subchapter shall relieve any operator of the duty to comply with
 
 #### References in Text
 
-Section 942 of title 33, referred to in subsec. (b), was in the original “section 42 of the Longshore Harbor Worker's Compensation Act” and was translated as reading “section 42 of the Longshore and Harbor Workers’ Compensation Act” to reflect the probable intent of Congress.
+Section 942 of title 33, referred to in subsec. (b), was in the original “section 42 of the Longshore HarborWorker's Compensation Act” and was translated as reading “section 42 of the Longshore and Harbor Workers’ Compensation Act” to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -39,8 +39,4 @@ Amendment by Pub. L. 107–275 effective 90 days after Nov. 2, 2002, see section
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 33 section 942.
 

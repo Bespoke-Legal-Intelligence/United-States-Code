@@ -1,9 +1,5 @@
 subpart 3—partnerships in character education
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 7115 of this title.
-
 
 ---
 

@@ -58,7 +58,3 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, §25(h) (1st sentence words after last comm
 
 The word “official” is added the 2d time it appears for consistency in this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 21301, 21302, 21303 of this title.
-

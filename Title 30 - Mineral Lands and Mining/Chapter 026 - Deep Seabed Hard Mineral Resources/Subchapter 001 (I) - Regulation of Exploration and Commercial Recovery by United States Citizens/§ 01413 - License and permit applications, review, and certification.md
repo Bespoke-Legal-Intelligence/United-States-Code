@@ -66,7 +66,7 @@ The Administrator shall provide by regulation for full consultation and cooperat
 
 #### (f) Review period
 
-All time periods for the review of an application for issuance or transfer of a license or permit established pursuant to this section shall, to the maximum extent practicable, run concurrently from the date on which the application is received by the Administrator.
+All time periods for the review of an application for issuance or transfer of a license or permit established pursuant to this section shall, tothe maximum extent practicable, run concurrently from the date on which the application is received by the Administrator.
 
 #### (g) Application certification
 
@@ -80,7 +80,7 @@ Act of July 2, 1890 (commonly known as the Sherman Act; 15 U.S.C. 1–7), referr
 
 Sections 73 through 76 of the Act of August 27, 1894 (commonly known as the Wilson Tariff Act; 15 U.S.C. 8–11), referred to in subsec. (d)(7), are sections 73 to 76 of act Aug. 27, 1894, ch. 349, 28 Stat. 570, as amended, which enacted sections 8 to 11 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 8 of Title 15 and Tables.
 
-The Clayton Act (15 U.S.C. 12 et seq.), referred to in subsec. (d)(7), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
+The Clayton Act (15 U.S.C. 12 et seq.), referred to in subsec. (d)(7), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
 Act of June 19, 1936 (commonly known as the Robinson-Patman Price Discrimination Act; 15 U.S.C. 13–13b and 21a), referred to in subsec. (d)(7), is act June 19, 1936, ch. 592, 49 Stat. 1526, also known as the Robinson-Patman Antidiscrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
 
@@ -93,8 +93,4 @@ The Federal Trade Commission Act (15 U.S.C. 41 et seq.), referred to in subsec. 
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002, see section 14103 of Pub. L. 107–273, set out as a note under section 3 of Title 15, Commerce and Trade.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1411, 1412, 1415, 1416 of this title.
 

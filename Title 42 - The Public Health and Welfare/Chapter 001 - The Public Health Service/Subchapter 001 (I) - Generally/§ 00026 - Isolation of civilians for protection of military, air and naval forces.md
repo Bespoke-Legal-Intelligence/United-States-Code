@@ -12,7 +12,3 @@ The Secretary of the Air Force was inserted in text under the authority of secti
 
 For transfer of certain functions insofar as they pertain to the Air Force, and to the extent that they were not previously transferred to the Secretary of the Air Force from the Secretary of the Army, see Secretary of Defense Transfer Order No. 40 \[App. A(73)\], July 22, 1949.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 27 of this title.
-

@@ -14,7 +14,11 @@
 
 &emsp;(6) the term “Director” means the Director of the Federal Emergency Management Agency;
 
-&emsp;(7) the term “repetitive loss structure” means a structure covered by a contract for flood insurance under this chapter that has incurred flood-related damage on 2 occasions during a 10-year period ending on the date of the event for which a second claim is made, in which the cost of repair, on the average, equaled or exceeded 25 percent of the value of the structure at the time of each such flood event;
+&emsp;(7) the term “repetitive loss structure” means a structure covered by a contract for flood insurance that—
+
+&emsp;&emsp;(A) has incurred flood-related damage on 2 occasions, in which the cost of repair, on the average, equaled or exceeded 25 percent of the value of the structure at the time of each such flood event; and
+
+&emsp;&emsp;(B) at the time of the second incidence of flood-related damage, the contract for flood insurance contains increased cost of compliance coverage.
 
 &emsp;(8) the term “Federal agency lender” means a Federal agency that makes direct loans secured by improved real estate or a mobile home, to the extent such agency acts in such capacity;
 
@@ -30,21 +34,27 @@
 
 &emsp;&emsp;(B) ancillary beneficial functions, including maintenance of water quality and recharge of ground water, that reduce flood related damage;
 
-&emsp;(13) the term “regulated lending institution” means any bank, savings and loan association, credit union, farm credit bank, Federal land bank association, production credit association, or similar institution subject to the supervision of a Federal entity for lending regulation; and
+&emsp;(13) the term “regulated lending institution” means any bank, savings and loan association, credit union, farm credit bank, Federal land bank association, production credit association, or similar institution subject to the supervision of a Federal entity for lending regulation;
 
-&emsp;(14) the term “servicer” means the person responsible for receiving any scheduled periodic payments from a borrower pursuant to the terms of a loan, including amounts for taxes, insurance premiums, and other charges with respect to the property securing the loan, and making the payments of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the loan.
+&emsp;(14) the term “servicer” means the person responsible for receiving any scheduled periodic payments from a borrower pursuant to the terms of a loan, including amounts for taxes, insurance premiums, and other charges with respect to the property securing the loan, and making the payments of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the loan; and
+
+&emsp;(15) the term “substantially damaged structure” means a structure covered by a contract for flood insurance that has incurred damage for which the cost of repair exceeds an amount specified in any regulation promulgated by the Director, or by a community ordinance, whichever is lower.
 
 (b) The term “flood” shall also include inundation from mudslides which are proximately caused by accumulations of water on or under the ground; and all of the provisions of this chapter shall apply with respect to such mud-slides in the same manner and to the same extent as with respect to floods described in subsection (a)(1) of this section, subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Director may prescribe to achieve (with respect to such mudslides) the purposes of this chapter and the objectives of the program.
 
 (c) The term “flood” shall also include the collapse or subsidence of land along the shore of a lake or other body of water as a result of erosion or undermining caused by waves or currents of water exceeding anticipated cyclical levels, and all of the provisions of this chapter shall apply with respect to such collapse or subsidence in the same manner and to the same extent as with respect to floods described in subsection (a)(1) of this section, subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Director may prescribe to achieve (with respect to such collapse or subsidence) the purposes of this chapter and the objectives of the program.
 
-(Pub. L. 90–448, title XIII, §1370, Aug. 1, 1968, 82 Stat. 588; Pub. L. 91–152, title IV, §409(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 93–234, title I, §§107, 108(b), Dec. 31, 1973, 87 Stat. 979, 980; Pub. L. 98–181, title IV, §451(d)(1), (8), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–628, title X, §1086(b), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 103–325, title V, §512(a), Sept. 23, 1994, 108 Stat. 2256.)
+(Pub. L. 90–448, title XIII, §1370, Aug. 1, 1968, 82 Stat. 588; Pub. L. 91–152, title IV, §409(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 93–234, title I, §§107, 108(b), Dec. 31, 1973, 87 Stat. 979, 980; Pub. L. 98–181, title IV, §451(d)(1), (8), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–628, title X, §1086(b), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 103–325, title V, §512(a), Sept. 23, 1994, 108 Stat. 2256; Pub. L. 108–264, title I, §105(b), June 30, 2004, 118 Stat. 723.)
 
 #### References in Text
 
-This chapter, referred to in text, is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, knownas the National Flood Insurance Act of 1968, which enacted this chapter, amended section 2414 of this title, repealed sections 2401 to 2413 and 2415 to 2421 of this title, and enacted provisions set out as a note under section 4001 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in text, is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, known as the National Flood Insurance Act of 1968, which enacted this chapter, amended section 2414 of this title, repealed sections 2401 to 2413 and 2415 to 2421 of this title, and enacted provisions set out as a note under section 4001 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (a)(7). Pub. L. 108–264, §105(b)(1), added par. (7) and struck out former par. (7) which read as follows: “the term ‘repetitive loss structure’ means a structure covered by a contract for flood insurance under this chapter that has incurred flood-related damage on 2 occasions during a 10-year period ending on the date of the event for which a second claim is made, in which the cost of repair, on the average, equaled or exceeded 25 percent of the value of the structure at the time of each such flood event;”.
+
+Subsec. (a)(15). Pub. L. 108–264, §105(b)(2)–(4), added par. (15).
 
 1994—Subsec. (a)(7) to (14). Pub. L. 103–325 added pars. (7) to (14).
 
@@ -69,8 +79,4 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 3305.
 

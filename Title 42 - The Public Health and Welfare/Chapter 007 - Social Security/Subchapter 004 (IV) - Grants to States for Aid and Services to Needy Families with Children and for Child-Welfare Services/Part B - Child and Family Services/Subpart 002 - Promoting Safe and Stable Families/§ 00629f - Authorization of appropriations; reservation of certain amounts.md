@@ -34,7 +34,3 @@ A prior section 436 of act Aug. 14, 1935, was classified to section 636 of this 
 
 Section effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L. 107–133, set out as an Effective Date of 2002 Amendment note under section 629 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 629c, 629g, 629h of this title.
-

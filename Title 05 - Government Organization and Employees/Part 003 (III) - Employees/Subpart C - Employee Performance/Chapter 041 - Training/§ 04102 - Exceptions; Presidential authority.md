@@ -108,7 +108,3 @@ Sec. 2. The Attorney General is hereby designated and empowered to exercise the 
 
 Sec. 3. Executive Order No. 11531 of May 26, 1970, is hereby superseded.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4101, 4108 of this title.
-

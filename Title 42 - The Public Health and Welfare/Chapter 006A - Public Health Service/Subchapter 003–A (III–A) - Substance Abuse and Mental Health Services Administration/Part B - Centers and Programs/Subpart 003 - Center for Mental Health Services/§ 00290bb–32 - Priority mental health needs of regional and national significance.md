@@ -18,7 +18,7 @@ The Secretary shall address priority mental health needs of regional and nationa
 
 #### (1) Determination of needs
 
-&emsp;Priority mental health needs of regional and national significance shall be determined by the Secretary in consultation with States and other interested groups. The Secretary shall meet with the States and interested groups on an annual basis to discuss program priorities.
+&emsp;Priority mental health needs of regional and national significance shall be determined bythe Secretary in consultation with States and other interested groups. The Secretary shall meet with the States and interested groups on an annual basis to discuss program priorities.
 
 #### (2) Special consideration
 
@@ -44,7 +44,7 @@ The Secretary shall address priority mental health needs of regional and nationa
 
 #### (d) Evaluation
 
-The Secretary shall evaluate each project carried out under subsection (a)(1) of this sectionand shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
+The Secretary shall evaluate each project carried out under subsection (a)(1) of this section and shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
 
 #### (e) Information and education
 

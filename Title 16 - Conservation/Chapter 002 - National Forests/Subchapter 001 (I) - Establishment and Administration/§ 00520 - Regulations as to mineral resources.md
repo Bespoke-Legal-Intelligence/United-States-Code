@@ -16,7 +16,3 @@ For provisions concerning crediting and distribution of revenues and access to t
 
 Functions of Secretary of the Interior under section 402 of Reorg. Plan No. 3 of 1946, with respect to use and disposal from lands under jurisdiction of Secretary of Agriculture of those mineral materials which Secretary of Agriculture is authorized to dispose of from other lands under his jurisdiction under sections 601 to 604 and 611 to 615 of Title 30, Mineral Lands and Mining, transferred to Secretary of Agriculture, see Pub. L. 86–509, June 11, 1960, 74 Stat. 205, set out as a note under section 2201 of Title 7, Agriculture.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 539a of this title; title 30 section 355.
-

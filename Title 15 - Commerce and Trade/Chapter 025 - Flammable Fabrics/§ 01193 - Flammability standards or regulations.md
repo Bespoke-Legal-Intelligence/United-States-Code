@@ -6,7 +6,7 @@ Whenever the Consumer Product Safety Commission finds on the basis of the invest
 
 #### (b) Necessary findings; effective date; exemptions
 
-Each standard, regulation, or amendment thereto promulgated pursuant to this section shall be based on findings that such standard, regulation, or amendment thereto is needed toadequately protect the public against unreasonable risk of the occurrence of fire leading to death, injury, or significant property damage, is reasonable, technologically practicable, and appropriate, is limited to such fabrics, related materials, or products which have been determined to present such unreasonable risks, and shall be stated in objective terms. Each such standard, regulation, or amendment thereto, shall become effective twelve months from the date on which such standard, regulation, or amendment is promulgated, unless the Consumer Product Safety Commission finds for good cause shown that an earlier or later effective date is in the public interest and publishes the reason for such finding. Each such standard or regulation or amendment thereto shall exempt fabrics related materials, or products in inventory or with the trade as of the date on which the standard, regulation, or amendment thereto, becomes effective except that, if the Commission finds that any such fabric, related material, or product is so highly flammable as to be dangerous when used by consumers for the purpose for which it is intended, it may under such conditions as the Commission may prescribe, withdraw, or limit the exemption for such fabric, related material, or product.
+Each standard, regulation, or amendment thereto promulgated pursuant to this section shall be based on findings that such standard, regulation, or amendment thereto is needed to adequately protect the public against unreasonable risk of the occurrence of fire leading to death, injury, or significant property damage, is reasonable, technologically practicable, and appropriate, is limited to such fabrics, related materials, or products which have been determined to present such unreasonable risks, and shall be stated in objective terms. Each such standard, regulation, or amendment thereto, shall become effective twelve months from the date on which such standard, regulation, or amendment is promulgated, unless the Consumer Product Safety Commission finds for good cause shown that an earlier or later effective date is in the public interest and publishes the reason for such finding. Each such standard or regulation or amendment thereto shall exempt fabrics related materials, or products in inventory or with the trade as of the date on which the standard, regulation, or amendment thereto, becomes effective except that, if the Commission finds that any such fabric, related material, or product is so highly flammable as to be dangerous when used by consumers for the purpose for which it is intended, it may under such conditions as the Commission may prescribe, withdraw, or limit the exemption for such fabric, related material, or product.
 
 #### (c) Collection of information by Commission; confidential status of trade secrets and related information; disclosure of confidential information
 
@@ -32,7 +32,7 @@ Standards, regulations, and amendments to standards and regulations under this s
 
 #### (f) Transcript of proceedings
 
-A certified copy of the transcript of the record and proceedings under subsection (e) of this section shall be furnished by the Commission to any interested party at its request, and payment of the costs thereof, and shall be admissible inany criminal, exclusion of imports, or other proceeding arising under or in respect of this chapter, irrespective of whether proceedings with respect to the standard or regulation or amendment thereto have previously been initiated or become final under subsection (e) of this section.
+A certified copy of the transcript of the record and proceedings under subsection (e) of this section shall be furnished by the Commission to any interested party at its request, and payment of the costs thereof, and shall be admissible in any criminal, exclusion of imports, or other proceeding arising under or in respect of this chapter, irrespective of whether proceedings with respect to the standard or regulation or amendment thereto have previously been initiated or become final under subsection (e) of this section.
 
 #### (g) Promulgation of regulation; commencement of proceeding; publication of prescribed notice of proposed rulemaking
 
@@ -76,7 +76,7 @@ A proceeding for the promulgation of a regulation under this section for a fabri
 
 No regulation may be proposed by the Commission under this section unless, not less than 60 days after publication of the notice required in subsection (g) of this section, the Commission publishes in the Federal Register the text of the proposed rule, including any alternatives, which the Commission proposes to promulgate, together with a preliminary regulatory analysis containing—
 
-&emsp;(1) a preliminary description of the potential benefits and potential costs of the proposed regulation, including any benefits or coststhat cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
+&emsp;(1) a preliminary description of the potential benefits and potential costs of the proposed regulation, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
 
 &emsp;(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (g)(5) of this section was not published by the Commission as the proposed regulation or part of the proposed regulation;
 
@@ -118,7 +118,7 @@ No regulation may be proposed by the Commission under this section unless, not l
 
 The Commission shall grant, in whole or in part, or deny any petition under section 553(e) of title 5 requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
 
-(June 30, 1953, ch. 164, §4, 67 Stat. 112; Aug. 23, 1954, ch. 833, 68 Stat. 770; Pub. L. 90–189, §3, Dec. 14, 1967, 81 Stat. 569; Pub. L. 92–573, §30(b), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §20(a), May 11, 1976, 90 Stat. 515; Pub. L. 97–35, title XII, §1203(b)(2), Aug. 13, 1981, 95 Stat. 711; Pub. L. 101–608, title I, §§107(c), 108(c), 110(c), Nov. 16, 1990, 104 Stat. 3112–3114.)
+(June 30, 1953, ch. 164, §4, 67 Stat. 112; Aug. 23, 1954, ch. 833, 68 Stat. 770; Pub. L. 90–189, §3, Dec. 14, 1967, 81 Stat. 569; Pub. L. 92–573, §30(b), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §20(a), May 11, 1976, 90 Stat. 515; Pub. L. 97–35, title XII, §1203(b)(2), Aug. 13, 1981, 95 Stat. 711; Pub. L.101–608, title I, §§107(c), 108(c), 110(c), Nov. 16, 1990, 104 Stat. 3112–3114.)
 
 #### Amendments
 
@@ -130,7 +130,7 @@ Subsec. (k). Pub. L. 101–608, §110(c), added subsec. (k).
 
 1981—Subsecs. (g) to (j). Pub. L. 97–35 added subsecs. (g) to (j).
 
-1976—Subsec. (d). Pub. L. 94–284, §20(a)(1), provided that standards, regulations, and amendments madethereto, be made in accordance with section 553 of title 5, except that oral presentation be available with a transcript of such oral presentation kept.
+1976—Subsec. (d). Pub. L. 94–284, §20(a)(1), provided that standards, regulations, and amendments made thereto, be made in accordance with section 553 of title 5, except that oral presentation be available with a transcript of such oral presentation kept.
 
 Subsec. (e)(3). Pub. L. 94–284, §20(a)(2), provided that the court not affirm a standard or regulation unless the findings of the Secretary are supported by substantial evidence on the record.
 
@@ -153,10 +153,6 @@ Section 20(b) of Pub. L. 94–284 provided that: “The amendments made by subse
 #### Transfer of Functions
 
 “Consumer Product Safety Commission” substituted for “Secretary of Commerce”, “Commission” substituted for “Secretary”, “it” substituted for “he”, and “its” substituted for “his” wherever appearing in subsecs. (a) to (f) except in subsec. (e)(5), where “persons occupying the office of Commissioner” was substituted for “person occupying the office of Secretary”, pursuant to section 30(b) of Pub. L. 92–573, which is classified to section 2079(b) of this title and which transferred functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter to Consumer Product Safety Commission.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1192, 1194, 1197, 1200, 1204 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “regulation; and”.</i>
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—CONSOLIDATED RAIL CORPORATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 728, 1104 of this title.
-
 
 ---
 

@@ -24,9 +24,7 @@
 | [4910\.](%C2%A7%2004910%20-%20Nonduplication.md) | Nonduplication. |
 | [4911](%C2%A7%2004911%20-%20Collection%20of%20data.md) | Collection of data. |
 | [4912\.](%C2%A7%2004912%20-%20Fees%20and%20access.md) | Fees and access. |
-| [4913\.](%C2%A7%2004913%20-%20Report%20to%20Congress.md) | Report to Congress. |
-| (a) | Interim report. |
-| (b) | Final report. |
+| [4913\.](%C2%A7%2004913%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -47,4 +45,4 @@
 - [&sect; 04910 - Nonduplication](%C2%A7%2004910%20-%20Nonduplication.md)
 - [&sect; 04911 - Collection of data](%C2%A7%2004911%20-%20Collection%20of%20data.md)
 - [&sect; 04912 - Fees and access](%C2%A7%2004912%20-%20Fees%20and%20access.md)
-- [&sect; 04913 - Report to Congress](%C2%A7%2004913%20-%20Report%20to%20Congress.md)
+- [&sect; 04913 - Omitted](%C2%A7%2004913%20-%20Omitted.md)

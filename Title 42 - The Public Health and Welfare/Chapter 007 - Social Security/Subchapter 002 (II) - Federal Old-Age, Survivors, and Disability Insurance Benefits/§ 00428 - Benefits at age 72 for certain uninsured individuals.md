@@ -12,7 +12,7 @@ Every individual who—
 
 &emsp;(4) has filed application for benefits under this section,
 
-> shall (subject to the limitations in this section) be entitled to a benefit under this section foreach month beginning with the first month after September 1966 in which he or she becomes so entitled to such benefits and ending with the month preceding the month in which he or she dies. No application under this section which is filed by an individual more than 3 months before the first month in which he or she meets the requirements of paragraphs (1), (2), and (3) shall be accepted as an application for purposes of this section.
+> shall (subject to the limitations in this section) be entitled to a benefit under this section for each month beginning with the first month after September 1966 in which he or she becomes so entitled to such benefits and ending with the month preceding the month in which he or she dies. No application under this section which is filed by an individual more than 3 months before the first month in which he or she meets the requirements of paragraphs (1), (2), and (3) shall be accepted as an application for purposes of this section.
 
 #### (b) Amount of benefits
 
@@ -58,13 +58,13 @@ The benefit to which any individual is entitled under this section for any month
 
 #### (f) Treatment as monthly insurance benefits
 
-For purposes of subsections (t) and (u) of section 402 of this title, and of section 1395s of thistitle, a monthly benefit under this section shall be treated as a monthly insurance benefit payable under section 402 of this title.
+For purposes of subsections (t) and (u) of section 402 of this title, and of section 1395s of this title, a monthly benefit under this section shall be treated as a monthly insurance benefit payable under section 402 of this title.
 
 #### (g) Annual reimbursement of Federal Old-Age and Survivors Insurance Trust Fund
 
 There are authorized to be appropriated to the Federal Old-Age and Survivors Insurance Trust Fund for the fiscal year ending June 30, 1969, and for each fiscal year thereafter, such sums as the Commissioner of Social Security deems necessary on account of—
 
-&emsp;(1) payments made under this section during the second preceding fiscal year and all fiscal years prior thereto to individuals who, as of the beginning of the calendar year in which falls the month for which payment was made, had less than 3 quarters of coverage,
+&emsp;(1) payments made under this section during the second preceding fiscal year and all fiscal years prior thereto to individuals who, as ofthe beginning of the calendar year in which falls the month for which payment was made, had less than 3 quarters of coverage,
 
 &emsp;(2) the additional administrative expenses resulting from the payments described in paragraph (1), and
 
@@ -222,7 +222,7 @@ For applicability of this section to the Northern Mariana Islands, see section 5
 
 #### Increases To Take Into Account General Benefit Increases
 
-Section 305(e) of Pub. L. 98–21 provided that: “The Secretary shall increase the amounts specified in section 228 of the Social Security Act \[this section\], as amended by this section, to take into account any general benefit increases (as referred to in section 215(i)(3) of such Act \[section 415(i)(3) of this title\]), and any increases under section 215(i) of such Act, which have occurred after June 1974 or may hereafter occur.”
+Section 305(e) of Pub. L. 98–21 provided that: “The Secretary shall increase the amounts specified in section 228 of the Social Security Act \[this section\], asamended by this section, to take into account any general benefit increases (as referred to in section 215(i)(3) of such Act \[section 415(i)(3) of this title\]), and any increases under section 215(i) of such Act, which have occurred after June 1974 or may hereafter occur.”
 
 #### Special $50 Payment Under Tax Reduction Act of 1975
 
@@ -231,8 +231,4 @@ Special payment of $50 as soon as practicable after Mar. 29, 1975, by Secretary 
 #### Applications for Transitional Coverage of Uninsured Individuals for Hospital Insurance Benefits
 
 Section 302(b) of Pub. L. 89–368 provided that: “For purposes of paragraph (4) of section 228(a) of the Social Security Act \[subsec. (a)(4) of this section\] (added by subsection (a) of this section), an application filed under section 103 of the Social Security Amendments of 1965 \[set out as a note under section 426 of this title\] before July 1966 shall be regarded as an application under such section 228 \[this section\] and shall, for purposes of such paragraph and of the last sentence of such section 228(a), be deemed to have been filed in July 1966, unless the person by whom or on whose behalf such application was filed notifies the Secretary that he does not want such application so regarded.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 405, 415, 659, 1320b–1 of this title; title 48 section 1421q.
 

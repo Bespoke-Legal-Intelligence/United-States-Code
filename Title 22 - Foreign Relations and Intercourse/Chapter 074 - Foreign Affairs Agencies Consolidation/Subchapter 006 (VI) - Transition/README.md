@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—TRANSITION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 6542 of this title.
-
 
 ---
 

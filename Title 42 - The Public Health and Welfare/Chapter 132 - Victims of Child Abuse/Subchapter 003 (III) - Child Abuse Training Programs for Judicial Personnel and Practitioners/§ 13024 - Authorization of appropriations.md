@@ -6,7 +6,7 @@ There is authorized to be appropriated to carry out this subchapter $2,300,000 f
 
 #### (b) Use of funds
 
-Of the amounts appropriated in subsection (a) of this section, not less than 80 percent shall beused for grants under section 13023(b) of this title.
+Of the amounts appropriated in subsection (a) of this section, not less than 80 percent shall be used for grants under section 13023(b) of this title.
 
 #### (c) Limitation
 
@@ -20,7 +20,7 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are authorized to be appropriated to carry out this subchapter—
+2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Textread as follows: “There are authorized to be appropriated to carry out this subchapter—
 
 &emsp;“(1) $750,000 for fiscal year 1996;
 

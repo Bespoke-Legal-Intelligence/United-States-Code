@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—INSPECTION REQUIREMENTS; ADULTERATION AND MISBRANDING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 641, 661, 671, 672, 673, 678 of this title.
-
 
 ---
 

@@ -50,7 +50,3 @@ Part A of this subchapter, referred to in subsec. (e), was in the original “pa
 
 The Worker Adjustment and Retraining Notification Act, referred to in subsec. (f)(2), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1316a of this title.
-

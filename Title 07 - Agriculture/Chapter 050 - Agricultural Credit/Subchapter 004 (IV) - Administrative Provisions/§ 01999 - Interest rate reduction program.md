@@ -90,13 +90,9 @@ Subsec. (h). Pub. L. 100–233, §613(c), added subsec. (h).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as a note under section 511r of this title.
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under section 940d of this title.
 
 #### Effective and Termination Dates
 
 That part of section 1320 of Pub. L. 99–198, as amended by Pub. L. 100–233, title VI, §613(a), Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–508, title I, §1202(b)(2), Nov. 5, 1990, 104 Stat. 1388–11, which provided that this section was effective only for the period beginning Dec. 23, 1985, and ending Sept. 30, 1995, was repealed by Pub. L. 104–127, title VI, §643(b), Apr. 4, 1996, 110 Stat. 1103.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1983a of this title.
 

@@ -58,9 +58,5 @@ Section 115 of Pub. L. 98–353 provided that:
 
 “(b) On the date of the enactment of this Act \[July 10, 1984\], there shall be transferred to the appropriate district court of the United States appeals from final judgments, orders, and decrees of the bankruptcy courts pending immediately before such date in the bankruptcy appellate panels appointed under section 405(c) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2685) \[formerly set out as a note preceding section 1471 of this title\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 156, 157, 1452 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be a reference to subsection (c). See 1994 Amendment note below.</i>
 

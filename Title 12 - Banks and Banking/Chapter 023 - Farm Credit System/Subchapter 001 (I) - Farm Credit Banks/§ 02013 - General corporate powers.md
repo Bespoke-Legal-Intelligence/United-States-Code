@@ -60,7 +60,7 @@ Each Farm Credit Bank shall be a body corporate and, subject to regulation by th
 
 &emsp;(15) buy and sell obligations of, or insured by, the United States or any agency thereof, or securities backed by the full faith and credit of any such agency, and make other investments as may be authorized under regulations issued by the Farm Credit Administration;
 
-&emsp;(16) sell to lenders that are not Farm Credit System institutions interests in loans, and buy from and sell to Farm Credit System institutions interests in loans and other extensions of credit, and nonvoting stock as may be authorized under regulations issued by the Farm Credit Administration;
+&emsp;(16) sell to lenders that are not Farm Credit System institutions interests in loans, and buy from and sell to Farm Credit System institutions interests in loans and other extensions of credit, and nonvoting stock as may beauthorized under regulations issued by the Farm Credit Administration;
 
 &emsp;(17) conduct studies and make and adopt standards for lending;
 
@@ -78,7 +78,7 @@ Each Farm Credit Bank shall be a body corporate and, subject to regulation by th
 
 &emsp;(24) operate as an originator and become certified as a certified facility under subchapter VIII of this chapter.
 
-(Pub. L. 92–181, title I, §1.5, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1623;amended Pub. L. 100–399, title IV, §401(d), Aug. 17, 1988, 102 Stat. 995; Pub. L. 104–105, title II, §201, Feb. 10, 1996, 110 Stat. 172.)
+(Pub. L. 92–181, title I, §1.5, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1623; amended Pub. L. 100–399, title IV, §401(d), Aug. 17, 1988, 102 Stat. 995; Pub. L. 104–105, title II, §201, Feb. 10, 1996, 110 Stat. 172.)
 
 #### Prior Provisions
 

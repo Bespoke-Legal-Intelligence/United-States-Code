@@ -4,7 +4,3 @@ The Department of Justice shall also honor by an appropriate medal such American
 
 (Aug. 3, 1950, ch. 520, §2, 64 Stat. 397.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1923 of this title.
-

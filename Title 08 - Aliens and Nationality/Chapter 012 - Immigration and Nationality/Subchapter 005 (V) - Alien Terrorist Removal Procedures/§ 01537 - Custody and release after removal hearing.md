@@ -80,7 +80,3 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1535 of this title.
-

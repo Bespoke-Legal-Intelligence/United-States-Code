@@ -54,15 +54,11 @@ As used in this part:
 
 #### (5) State
 
-&emsp;Except as otherwise specifically provided, the term “State” means the 50 States of theUnited States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, and American Samoa.
+&emsp;Except as otherwise specifically provided, the term “State” means the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, and American Samoa.
 
 (Aug. 14, 1935, ch. 531, title IV, §419, as added Pub. L. 104–193, title I, §103(a)(2), Aug. 22, 1996, 110 Stat. 2159.)
 
 #### Effective Date
 
 Par. (4) of this section effective Oct. 1, 1996, with remainder of section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 20 section 9402; title 21 section 862a; title 25 section 13f.
 

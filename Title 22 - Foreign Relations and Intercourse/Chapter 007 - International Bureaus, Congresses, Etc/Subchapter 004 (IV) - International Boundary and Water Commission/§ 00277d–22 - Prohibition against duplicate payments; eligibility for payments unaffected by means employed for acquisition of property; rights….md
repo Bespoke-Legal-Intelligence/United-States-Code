@@ -4,7 +4,3 @@ Payments to be made as herein provided shall be in addition to, but not in dupli
 
 (Pub. L. 88–300, §6, Apr. 29, 1964, 78 Stat. 186.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 277d–17, 277d–18, 277d–24, 277d–25 of this title.
-

@@ -70,7 +70,7 @@ The Secretary may charge a fee to a lender which makes a loan guaranteed under t
 
 &emsp;(C) the agreement among the recipient corporation, the lender, and the qualified trust relating to the loan meets the requirements of this section.
 
-(2) An employee stock ownership plan does not meet the requirements of this subsection unlessthe governing instrument of the plan provides that—
+(2) An employee stock ownership plan does not meet the requirements of this subsection unless the governing instrument of the plan provides that—
 
 &emsp;(A) the amount of the loan paid under paragraph (1)(A) to the qualified trust will be used to purchase qualified employer securities,
 
@@ -90,7 +90,7 @@ The Secretary may charge a fee to a lender which makes a loan guaranteed under t
 
 &emsp;(E) it provides that the recipient corporation will make contributions to the qualified trust of not less than such amounts as are necessary for such trust to meet its obligation to make repayments of principal and interest on the amount of the loan received by the trust without regard to whether such contributions are deductible by the corporation under section 404 of title 26 and without regard to any other amounts the recipient corporation is obligated under law to contribute to or under the employee stock ownership plan.
 
-(4) At the close of each plan year, an employee stock ownership plan shall allocate to the accounts of participating employees that portion of the qualified employer securities the cost of which bears substantially the same ratio to the cost of all the qualified employer securities purchased under paragraph (2)(A) of this subsection as the amount of the loan principal and interest repaid by the qualified trust during that year bears to the total amount of the loan principal and interest payable by such trust during the term of such loan. Qualified employer securities allocated to the individual account of a participant during one plan year must bear substantially the same proportion to the amount of all such securities allocated to all participants in the plan as the amount of compensation paid to such participant bears to the total amount of compensation paid to all such participants during that year.
+(4) At the close of each plan year, an employee stock ownership plan shall allocate to the accounts of participating employees that portion of the qualified employer securities the cost of which bears substantially the same ratio to the cost of all the qualified employer securities purchased under paragraph (2)(A) of this subsection as the amount of the loan principal and interest repaid by the qualified trust during that year bears to the total amount of the loan principal and interest payable by such trust during the term of such loan. Qualified employer securities allocated to the individual account of a participant during one plan year must bear substantially the same proportion to the amount of allsuch securities allocated to all participants in the plan as the amount of compensation paid to such participant bears to the total amount of compensation paid to all such participants during that year.
 
 (5) For purposes of this subsection, the term—
 

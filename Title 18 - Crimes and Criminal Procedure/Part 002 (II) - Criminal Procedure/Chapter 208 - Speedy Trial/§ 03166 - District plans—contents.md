@@ -60,7 +60,3 @@ Subsec. (c)(7). Pub. L. 96–43, §9(b), added par. (7).
 
 Subsec. (f). Pub. L. 96–43, §9(c), added subsec. (f).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3167, 3170 of this title.
-

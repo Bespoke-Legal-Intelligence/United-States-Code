@@ -28,5 +28,5 @@ The President shall determine whether a country is an eligible country for purpo
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of the Treasury by section 1 of Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, set out as a note under section 1738 of this title.
+For delegation of functions of President under subsec. (b) of this section, see section 1 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of this title.
 

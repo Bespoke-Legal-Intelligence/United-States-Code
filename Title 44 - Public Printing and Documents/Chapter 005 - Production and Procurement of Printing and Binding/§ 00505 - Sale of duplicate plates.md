@@ -16,7 +16,3 @@ Based on 44 U.S. Code, 1964 ed., §58 (Jan. 12, 1895, ch. 23, §52, 28 Stat. 608
 
 Amendment by Pub. L. 94–553 effective Jan. 1, 1978, see section 102 of Pub. L. 94–553, set out as an Effective Date note preceding section 101 of Title 17, Copyrights.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3714b; title 35 section 2; title 39 section 405.
-

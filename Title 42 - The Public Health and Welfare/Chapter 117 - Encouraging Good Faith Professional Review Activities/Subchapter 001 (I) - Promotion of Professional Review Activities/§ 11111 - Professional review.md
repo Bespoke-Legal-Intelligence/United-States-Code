@@ -14,11 +14,11 @@
 
 &emsp;&emsp;(D) any person who participates with or assists the body with respect to the action,
 
-> &emsp;shall not be liable in damages under any law of the United States or of any State (or political subdivision thereof) with respect to the action. The preceding sentence shall not apply to damages under any law of the United States or any State relating to the civil rights of any person or persons, including the Civil Rights Act of 1964, 42 U.S.C. 2000e, et seq. and the Civil Rights Acts, 42 U.S.C. 1981, et seq. Nothing in this paragraph shall prevent the United States or any Attorney General of a Statefrom bringing an action, including an action under section 15c of title 15, where such an action is otherwise authorized.
+> &emsp;shall not be liable in damages under any law of the United States or of any State (or political subdivision thereof) with respect to the action. The preceding sentence shall not apply to damages under any law of the United States or any State relating to the civil rights of any person or persons, including the Civil Rights Act of 1964, 42 U.S.C. 2000e, et seq. and the Civil Rights Acts, 42 U.S.C. 1981, et seq. Nothing in this paragraph shall prevent the United States or any Attorney General of a State from bringing an action, including an action under section 15c of title 15, where such an action is otherwise authorized.
 
 #### (2) Protection for those providing information to professional review bodies
 
-&emsp;Notwithstanding any other provision of law, no person (whether as a witness or otherwise) providing information to a professional review body regarding the competence or professional conduct of a physician shall be held, by reason of having provided such information, to be liable in damages under any law of the United States or of any State (or political subdivision thereof) unless such information is false and the person providing it knew that such information was false.
+&emsp;Notwithstanding any other provision of law, no person (whether as a witness or otherwise) providing information to a professional review body regarding the competence or professional conduct of a physician shall be held, by reason of having provided such information, to be liable in damages under any law of the United States or of any State (or political subdivisionthereof) unless such information is false and the person providing it knew that such information was false.
 
 #### (b) Exception
 
@@ -61,10 +61,6 @@ Amendment by Pub. L. 100–177 effective Nov. 14, 1986, see section 402(d) of Pu
 #### Effective Date
 
 Section 416 of Pub. L. 99–660 provided that: “This part \[part A (§§411–416) of title IV of Pub. L. 99–660, enacting this subchapter\] shall apply to professional review actions commenced on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11112, 11133 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “for purposes of subparagraph (A),”.</i>
 

@@ -8,7 +8,3 @@ All hunting or the killing, wounding, or capturing at any time of any bird or wi
 
 This Act, referred to in text, is act Aug. 22, 1914, which is classified to sections 163 and 168 to 177 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 171 of this title.
-

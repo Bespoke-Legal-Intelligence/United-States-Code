@@ -130,9 +130,5 @@ Subsec. (d)(3), (4). Pub. L. 102–587, §§2107(d)(2), 2110(e), redesignated pa
 
 Section 204(c) of Pub. L. 100–627 provided that: “Amounts in the form of damages received by the United States after November 30, 1986, for destruction or loss of, or injury to, a sanctuary resource (as that term is defined in section 302(8) of the Act \[16 U.S.C. 1432(8)\] (as amended by this Act)) shall be subject to section 312 of the Act \[16 U.S.C. 1443\] (as amended by this Act).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1432, 1437 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

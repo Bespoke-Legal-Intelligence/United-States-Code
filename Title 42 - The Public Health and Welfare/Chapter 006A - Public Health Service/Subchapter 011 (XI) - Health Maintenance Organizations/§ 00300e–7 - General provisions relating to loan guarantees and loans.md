@@ -20,7 +20,7 @@
 
 &emsp;(B) the applicant provides the Secretary with reasonable assurances that there will be available to it such additional funds as may be necessary to complete the project or undertaking with respect to which such loan is requested.
 
-(2) Any loan made under this subchapter shall (A) have such security, (B) have such maturity date, (C) be repayable in such installments, (D) on the date the loan is made, bear interest at a rate comparable to the rate of interest prevailing on such date with respect to marketable obligations of the United States of comparable maturities, adjusted to provide for appropriate administrative charges, and (E) be subject to such other terms and conditions (including provisions for recovery in case of default) as the Secretary determines to be necessary to carry out the purposes of this subchapter while adequately protecting the financial interests of the UnitedStates. On the date disbursements are made under a loan after the initial disbursement under the loan, the Secretary may change the rate of interest on the amount of the loan disbursed on that date to a rate which is comparable to the rate of interest prevailing on the date the subsequent disbursement is made with respect to marketable obligations of the United States of comparable maturities, adjusted to provide for appropriate administrative charges.
+(2) Any loan made under this subchapter shall (A) have such security, (B) have such maturity date, (C) be repayable in such installments, (D)on the date the loan is made, bear interest at a rate comparable to the rate of interest prevailing on such date with respect to marketable obligations of the United States of comparable maturities, adjusted to provide for appropriate administrative charges, and (E) be subject to such other terms and conditions (including provisions for recovery in case of default) as the Secretary determines to be necessary to carry out the purposes of this subchapter while adequately protecting the financial interests of the United States. On the date disbursements are made under a loan after the initial disbursement under the loan, the Secretary may change the rate of interest on the amount of the loan disbursed on that date to a rate which is comparable to the rate of interest prevailing on the date the subsequent disbursement is made with respect to marketable obligations of the United States of comparable maturities, adjusted to provide for appropriate administrative charges.
 
 (3) The Secretary may, for good cause but with due regard to the financial interests of the United States, waive any right of recovery which he has by reason of the failure of a borrower to make payments of principal of and interest on a loan made under this subchapter, except that if such loan is sold and guaranteed, any such waiver shall have no effect upon the Secretary's guarantee of timely payment of principal and interest.
 
@@ -44,7 +44,7 @@
 
 #### (e) Loan fund
 
-There is established in the Treasury a loan fund (hereinafter in this subsection referred to as the “fund”) which shall be available to the Secretary without fiscal year limitation, in such amounts as may be specified from time to time in appropriation Acts, to enable him to make loans under this subchapter and to take the action authorized by subsection (f) of this section. There shall also be deposited in the fund amounts received by the Secretary as interest payments and repayment of principal on loans made under this subchapter and other property or assets derived by him from his operations respecting such loans, from the sale of loans under subsection (c) of this section, or from the sale of assets.
+There is established in the Treasury a loan fund (hereinafter in this subsection referred to as the “fund”) which shall be available to the Secretary without fiscal year limitation, in such amounts as may be specified from time to time in appropriation Acts, to enable him to makeloans under this subchapter and to take the action authorized by subsection (f) of this section. There shall also be deposited in the fund amounts received by the Secretary as interest payments and repayment of principal on loans made under this subchapter and other property or assets derived by him from his operations respecting such loans, from the sale of loans under subsection (c) of this section, or from the sale of assets.
 
 #### (f) Actions to protect interest of United States in event of default
 
@@ -87,8 +87,4 @@ Amendment by Pub. L. 95–559 effective only for fiscal years beginning on or af
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–460 effective Oct. 8, 1976, except that the amendment by section 109(c) of Pub. L. 94–460 applicable with respect to loan guarantees made under section 300e–4 of this title after Sept. 30, 1976, see section 118 of Pub. L. 94–460, set out as a note under section 300e of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300e–4, 300e–5, 300e–8 of this title.
 

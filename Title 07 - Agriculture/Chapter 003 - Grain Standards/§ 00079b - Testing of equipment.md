@@ -2,7 +2,7 @@
 
 #### (a) Random and periodic testing at least annually; fees
 
-The Secretary shall provide for the testing of all equipment used in the sampling, grading, inspection, and weighing for the purpose of official inspection, official weighing, or supervision of weighing of grain located at all grain elevators, warehouses, or other storage or handling facilities at which official inspection or weighing services are provided under this chapter, to be made on a random and periodic basis, under such regulations as the Secretary may prescribe, as the Secretary deems necessary to assure the accuracy and integrity of such equipment. Such regulations shall provide for the charging and collection of reasonable fees to cover the estimated costs to the Secretary incident to the performance of such testing by employees of the Secretary. Such fees shall be deposited into the fund created by section 79(j) of this title.
+The Secretary shall provide for the testing of all equipment used in the sampling, grading, inspection, and weighing for the purpose of official inspection, official weighing, or supervision of weighing of grain located at all grain elevators, warehouses, or other storage or handling facilities at which official inspection or weighing services are provided under this chapter, to be made on a random and periodic basis, under such regulations as the Secretary may prescribe, as the Secretary deems necessary to assure the accuracy and integrity of such equipment. Such regulations shall provide for the charging and collection of reasonable fees tocover the estimated costs to the Secretary incident to the performance of such testing by employees of the Secretary. Such fees shall be deposited into the fund created by section 79(j) of this title.
 
 #### (b) Personnel to conduct testing
 
@@ -33,8 +33,4 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 #### Effective Date
 
 Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under section 74 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 87b, 87e, 87h of this title.
 

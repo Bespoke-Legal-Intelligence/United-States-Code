@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;(A) The Administrator shall establish performance standards and other requirements pursuant to section 7411 of this title and this section for each category of solid waste incineration units. Such standards shall include emissions limitations and other requirements applicable to new units and guidelines (under section 7411(d) of this title and this section)and other requirements applicable to existing units.
+&emsp;(A) The Administrator shall establish performance standards and other requirements pursuant to section 7411 of this title and this section for each category of solid waste incineration units. Such standards shall include emissions limitations and other requirements applicable to new units and guidelines (under section 7411(d) of this title and this section) and other requirements applicable to existing units.
 
 &emsp;(B) Standards under section 7411 of this title and this section applicable to solid waste incineration units with capacity greater than 250 tons per day combusting municipal waste shall be promulgated not later than 12 months after November 15, 1990. Nothing in this subparagraph shall alter any schedule for the promulgation of standards applicable to such units under section 7411 of this title pursuant to any settlement and consent decree entered by the Administrator before November 15, 1990: <i>Provided</i>, That, such standards are subsequently modified pursuant to the schedule established in this subparagraph to include each of the requirements of this section.
 
@@ -12,7 +12,7 @@
 
 &emsp;(D) Standards under section 7411 of this title and this section applicable to solid waste incineration units combusting commercial or industrial waste shall be proposed not later than 36 months after November 15, 1990, and promulgated not later than 48 months after November 15, 1990.
 
-&emsp;(E) Not later than 18 months after November 15, 1990, the Administrator shall publish a schedule for the promulgation of standards under section 7411 of this title and this section applicable to other categories of solid waste incineration units.
+&emsp;(E) Not later than 18 months after November 15, 1990, the Administrator shall publish a schedule for the promulgation of standards under section 7411 of this title and this sectionapplicable to other categories of solid waste incineration units.
 
 #### (2) Emissions standard
 
@@ -38,7 +38,7 @@
 
 #### (2) State plans
 
-&emsp;Not later than 1 year after the Administrator promulgates guidelines for a category of solid waste incineration units, each State in which units in the category are operating shall submit to the Administrator a plan to implement and enforce the guidelines with respect to such units. The State plan shall be atleast as protective as the guidelines promulgated by the Administrator and shall provide that each unit subject to the guidelines shall be in compliance with all requirements of this section not later than 3 years after the State plan is approved by the Administrator but not later than 5 years after the guidelines were promulgated. The Administrator shall approve or disapprove any State plan within 180 days of the submission, and if a plan is disapproved, the Administrator shall state the reasons for disapproval in writing. Any State may modify and resubmit a plan which has been disapproved by the Administrator.
+&emsp;Not later than 1 year after the Administrator promulgates guidelines for a category of solid waste incineration units, each State in which units in the category are operating shall submit to the Administrator a plan to implement and enforce the guidelines with respect to such units. The State plan shall be at least as protective as the guidelines promulgated by the Administrator and shall provide that each unit subject to the guidelines shall be in compliance with all requirements of this section not later than 3 years after the State plan is approved by the Administrator but not later than 5 years after the guidelines were promulgated. The Administrator shall approve or disapprove any State plan within 180 days of the submission, and if a plan is disapproved, the Administrator shall state the reasons for disapproval in writing. Any State may modify and resubmit a plan which has been disapproved by the Administrator.
 
 #### (3) Federal plan
 
@@ -48,7 +48,7 @@
 
 The Administrator shall, as part of each performance standard promulgated pursuant to subsection (a) of this section and section 7411 of this title, promulgate regulations requiring the owner or operator of each solid waste incineration unit—
 
-&emsp;(1) to monitor emissions from the unit at the point at which such emissions are emitted into the ambient air (or within the stack, combustion chamber or pollution control equipment, as appropriate) and at such other points as necessary to protect public health and the environment;
+&emsp;(1) to monitor emissions from the unit at the point at which such emissions are emittedinto the ambient air (or within the stack, combustion chamber or pollution control equipment, as appropriate) and at such other points as necessary to protect public health and the environment;
 
 &emsp;(2) to monitor such other parameters relating to the operation of the unit and its pollution control technology as the Administrator determines are appropriate; and
 
@@ -72,7 +72,7 @@ Beginning (1) 36 months after the promulgation of a performance standard under s
 
 #### (2) Existing units
 
-&emsp;Performance standards and other requirements promulgated pursuant to this sectionand section 7411 of this title and applicable to existing solid waste incineration units shall be effective as expeditiously as practicable after approval of a State plan under subsection (b)(2) of this section (or promulgation of a plan by the Administrator under subsection (b)(3) of this section) but in no event later than 3 years after the State plan is approved or 5 years after the date such standards or requirements are promulgated, whichever is earlier.
+&emsp;Performance standards and other requirements promulgated pursuant to this section and section 7411 of this title and applicable to existing solid waste incineration units shall be effective as expeditiously as practicable after approval of a State plan under subsection (b)(2) of this section (or promulgation of a plan by the Administrator under subsection (b)(3) of this section) but in no event later than 3 years after the State plan is approved or 5 years after the date such standards or requirements are promulgated, whichever is earlier.
 
 #### (3) Prohibition
 
@@ -118,7 +118,7 @@ For purposes of section 306 of the Clean Air Act Amendments of 1990 and this sec
 
 #### (2) Other authority under this chapter
 
-&emsp;Nothing in this section shall diminish the authority of the Administrator or a State toestablish any other requirements applicable to solid waste incineration units under any other authority of law, including the authority to establish for any air pollutant a national ambient air quality standard, except that no solid waste incineration unit subject to performance standards under this section and section 7411 of this title shall be subject to standards under section 7412(d) of this title.
+&emsp;Nothing in this section shall diminish the authority of the Administrator or a State to establish any other requirements applicable to solid waste incineration units under any other authority of law, including the authority to establish for any air pollutant a national ambient air quality standard, except that no solid waste incineration unit subject to performance standards under this section and section 7411 of this title shall be subject to standards under section 7412(d) of this title.
 
 #### (3) Residual risk
 
@@ -130,7 +130,7 @@ For purposes of section 306 of the Clean Air Act Amendments of 1990 and this sec
 
 #### (4) Acid rain
 
-&emsp;A solid waste incineration unit shall not be a utility unit as defined in subchapter IV–A of this chapter: <i>Provided</i>, That, more than 80 per centum of its annual average fuel consumption measured on a Btu basis, during a period or periods to be determined by the Administrator, is from a fuel (including any waste burned as a fuel) other than a fossil fuel.
+&emsp;A solid waste incineration unit shall not be a utility unit as defined in subchapter IV–A ofthis chapter: <i>Provided</i>, That, more than 80 per centum of its annual average fuel consumption measured on a Btu basis, during a period or periods to be determined by the Administrator, is from a fuel (including any waste burned as a fuel) other than a fossil fuel.
 
 #### (5) Requirements of parts C and D
 
@@ -147,10 +147,6 @@ The Solid Waste Disposal Act, referred to in subsec. (g)(6), is title II of Pub.
 #### Review of Acid Gas Scrubbing Requirements
 
 Section 305(c) of Pub. L. 101–549 provided that: “Prior to the promulgation of any performance standard for solid waste incineration units combusting municipal waste under section 111 or section 129 of the Clean Air Act \[42 U.S.C. 7411, 7429\], the Administrator shall review the availability of acid gas scrubbers as a pollution control technology for small new units and for existing units (as defined in 54 Federal Register 52190 (December 20, 1989)\[)\], taking into account the provisions of subsection (a)(2) of section 129 of the Clean Air Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7413, 7414, 7607 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

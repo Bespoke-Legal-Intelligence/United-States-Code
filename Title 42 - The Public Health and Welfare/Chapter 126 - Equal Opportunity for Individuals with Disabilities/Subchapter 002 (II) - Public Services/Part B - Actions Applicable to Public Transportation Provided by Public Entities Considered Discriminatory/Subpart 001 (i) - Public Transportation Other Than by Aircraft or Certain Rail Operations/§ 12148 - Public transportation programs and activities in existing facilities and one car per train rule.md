@@ -34,7 +34,3 @@ The effective date of this section, referred to in subsec. (b)(1), probably mean
 
 Subsec. (a) of this section effective 18 months after July 26, 1990, and subsec. (b) of this section effective July 26, 1990, see section 231 of Pub. L. 101–336, set out as a note under section 12141 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12142, 12209 of this title; title 2 section 1331.
-

@@ -8,7 +8,7 @@ The President shall prohibit the importation into, or exportation from, the Unit
 
 The President may waive the requirements set forth in subsection (a) with respect to a particular country for periods of not more than 1 year each, if, with respect to each such waiver—
 
-&emsp;(1) the President determines and reports to the appropriate congressional committeesthat such country is taking effective steps to implement the Kimberley Process Certification Scheme; or
+&emsp;(1) the President determines and reports to the appropriate congressional committees that such country is taking effective steps to implement the Kimberley Process Certification Scheme; or
 
 &emsp;(2) the President determines that the waiver is in the national interests of the United States, and reports such determination to the appropriate congressional committees, together with the reasons therefor.
 
@@ -17,8 +17,4 @@ The President may waive the requirements set forth in subsection (a) with respec
 #### Delegation of Functions
 
 For assignment of functions of President under subsec. (b) of this section, see section 2 of Ex. Ord. No. 13312, July 29, 2003, 68 F.R. 45151, set out as a note under section 3901 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3904, 3912 of this title.
 

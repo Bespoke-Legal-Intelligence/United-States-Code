@@ -52,7 +52,7 @@ Pub. L. 107–298, §1, Nov. 26, 2002, 116 Stat. 2342, provided that: “This Ac
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–521, §1, Oct. 22, 1986, 100 Stat. 2993, provided that: “This Act \[see Tables for classification\] may becited as the ‘Surface Freight Forwarder Deregulation Act of 1986’.”
+Pub. L. 99–521, §1, Oct. 22, 1986, 100 Stat. 2993, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Surface Freight Forwarder Deregulation Act of 1986’.”
 
 #### Short Title of 1982 Amendment
 
@@ -65,8 +65,4 @@ Pub. L. 96–454, §1, Oct. 15, 1980, 94 Stat. 2011, provided: “That this Act 
 Section 1 of Pub. L. 96–448 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Staggers Rail Act of 1980’.”
 
 Section 1 of Pub. L. 96–296 provided: “That this Act \[see Tables for classification\] may be cited as the ‘Motor Carrier Act of 1980’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 302, 10502, 10706 of this title; title 33 section 1803.
 

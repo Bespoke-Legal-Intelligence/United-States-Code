@@ -34,7 +34,7 @@
 
 #### (b) Intermediate credit
 
-Loans, other than real estate loans, and discounts made under the provisions of this subchapter shall be repayable in not more than 7 years (15 years if made to producers or harvesters of aquatic products) from the time that such are made or discounted by the Farm Credit Bank, except that the Board of Directors, under regulations of the Farm Credit Administration, may approve policies permitting loans, advances, or discounts (other than those made to producers or harvesters of aquatic products) to be repayable in not more than 10 years from the time that such are made or discounted by such bank.
+Loans, other than real estate loans, and discounts made under the provisions of this subchapter shall be repayable in not more than 7 years (15 years if made to producers or harvesters of aquatic products) from the time that such are made or discounted by the Farm Credit Bank, except that the Board of Directors, underregulations of the Farm Credit Administration, may approve policies permitting loans, advances, or discounts (other than those made to producers or harvesters of aquatic products) to be repayable in not more than 10 years from the time that such are made or discounted by such bank.
 
 (Pub. L. 92–181, title I, §1.10, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1627; amended Pub. L. 100–399, title IV, §401(h), (i), Aug. 17, 1988, 102 Stat. 996; Pub. L. 104–105, title II, §§202, 203, Feb. 10, 1996, 110 Stat. 172.)
 

@@ -46,7 +46,7 @@ Study.—
 
 &emsp;“(1) Not later than 3 years after the effective date of this title \[see Effective Date note above\], the Secretary shall, after consultation with the Advisory Commission on Childhood Vaccines established under section 2119 of the Public Health Service Act \[section 300aa–19 of this title\]—
 
-&emsp;&emsp;“(A) arrange for a broad study of the risks (other than the risks considered under section 102 \[21 U.S.C. 382\]) to children associated with each vaccine set forth in the Vaccine Injury Table under section 2114 of such Act \[section 300aa–14 of this title\], and
+&emsp;&emsp;“(A) arrange for a broad study of the risks (other than the risks considered under section 102 \[21U.S.C. 382\]) to children associated with each vaccine set forth in the Vaccine Injury Table under section 2114 of such Act \[section 300aa–14 of this title\], and
 
 &emsp;&emsp;“(B) establish guidelines, after notice and opportunity for public hearing and consideration of all relevant medical and scientific information, respecting the administration of such vaccines which shall include—
 
@@ -94,7 +94,7 @@ Section 314 of title III of Pub. L. 99–660 directed Secretary of Health and Hu
 
 #### Study of Impact on Supply of Vaccines
 
-Section 316 of title III of Pub. L. 99–660 provided that: “On June 30, 1987, and on June 30 of each second year thereafter, the Secretary of Health and Human Services shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate—
+Pub. L. 99–660, title III, §316, Nov. 14, 1986, 100 Stat. 3786, provided that: “On June 30, 1987, and on June 30 of each second year thereafter, the Secretary of Health and Human Services shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate—
 
 &emsp;“(1) an assessment of the impact of the amendments made by this title \[enacting this subchapter, amending sections 218, 242c, 262, 286, and 289f of this title, redesignating former sections 300aa to 300aa–15 of this title as sections 300cc to 300cc–15 of this title, and enacting provisions set out as notes under this section and sections 201 and 300aa–1 of this title\] on the supply of vaccines listed in the Vaccine Injury Table under section 2114 of the Public Health Service Act \[section 300aa–14 of this title\], and
 

@@ -4,7 +4,3 @@ The Secretary of the Interior, subject to the availability of appropriated funds
 
 (Pub. L. 85–910, §8, Sept. 2, 1958, 72 Stat. 1753.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450<i>oo</i>, 450<i>oo</i>–9 of this title.
-

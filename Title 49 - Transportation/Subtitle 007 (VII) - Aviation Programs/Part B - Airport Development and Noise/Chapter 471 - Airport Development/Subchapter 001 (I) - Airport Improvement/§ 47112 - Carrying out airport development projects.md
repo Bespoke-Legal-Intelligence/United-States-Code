@@ -60,7 +60,3 @@ In subsection (c)(2), the words “must require that” are substituted for “s
 
 2002—Subsec. (b). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47119, 47124 of this title.
-

@@ -56,7 +56,3 @@ Subsec. (d). Pub. L. 107–314, §615(g)(3), added subsec. (d) and struck out he
 
 In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amount of special pay or bonus that may be paid during any 12-month period, the amended limitation is applicable to 12-month periods beginning after Sept. 30, 2002, see section 615(i) of Pub. L. 107–314, set out as a note under section 301d of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 303a of this title.
-

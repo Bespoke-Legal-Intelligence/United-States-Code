@@ -12,7 +12,3 @@ Sections 12705a to 12705d of this title, referred to in text, were in the origin
 
 Section was enacted as part of the Removal of Regulatory Barriers to Affordable Housing Act of 1992, and also as part of the Housing and Community Development Act of 1992, and not as part of the Cranston-Gonzalez National Affordable Housing Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12705a, 12705c of this title.
-

@@ -2,7 +2,7 @@
 
 (a)
 
-Title 39.—The United States Postal Service may provide for the transportation of mailby aircraft in interstate air transportation under section 5402(e) and (f) of title 39.
+Title 39.—The United States Postal Service may provide for the transportation of mail by aircraft in interstate air transportation under section 5402(e) and (f) of title 39.
 
 (b)
 
@@ -175,8 +175,4 @@ Subsec. (g). Pub. L. 103–272, §4(k)(2), which directed the amendment of this 
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113, provided that the amendment made by section 6003 is effective Dec. 31, 1998.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 39 section 3401.
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) increase the capabilities of, and encourage, colleges and universities to perform the vital public service roles of research, and the transfer and practical application of knowledge, in support of rural development;
 
-&emsp;(4) expand small farm research and extend training and technical assistance to small farm families in assessing their needs and opportunities and in using the best available knowledge on sound economic approaches to small farm operations and on existing services offered by the Department of Agriculture andother public and private agencies and organizations to improve their income and to gain access to essential facilities and services; and
+&emsp;(4) expand small farm research and extend training and technical assistance to small farm families in assessing their needs and opportunities and in using the best available knowledge on sound economic approaches to small farm operations and on existing services offered by the Department of Agriculture and other public and private agencies and organizations to improve their income and to gain access to essential facilities and services; and
 
 &emsp;(5) support activities to supplement and extend programs that address special research and education needs in States experiencing rapid social and economic adjustments or unique problems caused by rural isolation and that address national and regional rural development policies, strategies, issues, and programs.
 
@@ -56,7 +56,7 @@ Pub. L. 100–219, §1, Dec. 29, 1987, 101 Stat. 1456, provided that: “This Ac
 
 #### Northern Great Plains Rural Development
 
-Pub. L. 103–318, Aug. 26, 1994, 108 Stat. 1781, as amended by Pub. L. 104–327, §2, Oct. 19, 1996, 110 Stat. 4003, established Northern Great Plains Rural Development Commission to study and make recommendations regarding economic needs and economic development of rural Northern Great Plains by seeking and encouraging participation of interested citizens, public officials, groups, agencies, businesses, and other entities in developing 10-year rural economic development plan for Northern Great Plains, defined terms, provided for membership and organization of Commission, duties and powers of Commission, compensation of members, administrative provisions, interim and final reports to Congress, appropriations, and for termination of Commission on Sept. 30, 1997.
+Pub. L. 103–318, Aug. 26, 1994, 108 Stat. 1781, as amended by Pub. L. 104–327, §2, Oct. 19, 1996, 110 Stat. 4003, established Northern Great Plains Rural Development Commission to study and make recommendations regarding economic needs and economic development of rural Northern Great Plains by seeking and encouraging participation of interested citizens, public officials, groups, agencies, businesses, and other entities in developing 10-year rural economic development plan for Northern Great Plains, defined terms, provided for membership and organization of Commission, dutiesand powers of Commission, compensation of members, administrative provisions, interim and final reports to Congress, appropriations, and for termination of Commission on Sept. 30, 1997.
 
 <i><sup>1</sup></i><i> So in original. Should be capitalized.</i>
 

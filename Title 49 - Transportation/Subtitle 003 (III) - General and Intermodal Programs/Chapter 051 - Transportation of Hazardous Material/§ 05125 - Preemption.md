@@ -22,7 +22,7 @@ Substantive Differences.—(1) Except as provided in subsection (c) of this sect
 
 &emsp;(E) the design, manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing of a packaging or a container represented, marked, certified, or sold as qualified for use in transporting hazardous material.
 
-(2) If the Secretary of Transportation prescribes or has prescribed under section 5103(b), 5104, 5110, or 5112 of this title or prior comparable provision of law a regulation or standard related to a subject referred to in paragraph (1) of this subsection, a State, political subdivision of a State, or Indian tribe may prescribe, issue, maintain, and enforce only a law, regulation, standard, or order about the subject that is substantively the same as a provision of this chapter or a regulation prescribed or order issued under this chapter. The Secretary shall decide on and publish in the Federal Register the effective date of section 5103(b) of this title for any regulation or standard about any of those subjects that the Secretary prescribes after November 16, 1990. However, the effective date may not be earlier than 90 days after the Secretary prescribes the regulation or standard nor later than the last day of the 2-year period beginning on the date the Secretary prescribes the regulation or standard.
+(2) If the Secretary of Transportation prescribes or has prescribed under section 5103(b),5104, 5110, or 5112 of this title or prior comparable provision of law a regulation or standard related to a subject referred to in paragraph (1) of this subsection, a State, political subdivision of a State, or Indian tribe may prescribe, issue, maintain, and enforce only a law, regulation, standard, or order about the subject that is substantively the same as a provision of this chapter or a regulation prescribed or order issued under this chapter. The Secretary shall decide on and publish in the Federal Register the effective date of section 5103(b) of this title for any regulation or standard about any of those subjects that the Secretary prescribes after November 16, 1990. However, the effective date may not be earlier than 90 days after the Secretary prescribes the regulation or standard nor later than the last day of the 2-year period beginning on the date the Secretary prescribes the regulation or standard.
 
 (3) If a State, political subdivision of a State, or Indian tribe imposes a fine or penalty the Secretary decides is appropriate for a violation related to a subject referred to in paragraph (1) of this subsection, an additional fine or penalty may not be imposed by any other authority.
 
@@ -72,7 +72,7 @@ Fees.—(1) A State, political subdivision of a State, or Indian tribe may impos
 
 &emsp;(D) such other matters as the Secretary requests.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 781; Pub. L. 103–311, title I, §§107, 117(a)(2), 120(b),Aug. 26, 1994, 108 Stat. 1674, 1678, 1681; Pub. L. 103–429, §6(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(b), Nov. 25, 2002, 116 Stat. 2320.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 781; Pub. L. 103–311, title I, §§107, 117(a)(2), 120(b), Aug. 26, 1994, 108 Stat. 1674, 1678, 1681; Pub. L. 103–429, §6(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(b), Nov. 25, 2002, 116 Stat. 2320.)
 
 Historical and Revision Notes
 
@@ -155,8 +155,4 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5112, 5712 of this title.
 

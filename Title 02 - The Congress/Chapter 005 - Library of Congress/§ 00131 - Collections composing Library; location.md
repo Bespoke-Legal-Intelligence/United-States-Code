@@ -10,9 +10,9 @@ R.S. §80 derived from act Jan. 26, 1802, ch. 2, 2 Stat. 128; Res. Oct. 21, 1814
 
 #### Amendments
 
-<b>1987</b>—Pub. L. 100–202 struck out after first sentence “The law library shall be preserved in the Capitol in the rooms which were on July 4, 1872, appropriated to its use, and in such others as may hereafter be assigned thereto.”
+1987—Pub. L. 100–202 struck out after first sentence “The law library shall be preserved in the Capitol in the rooms which were on July 4, 1872, appropriated to its use, and in such others as may hereafter be assigned thereto.”
 
-<b>1976</b>—Pub. L. 94–553 substituted “acquisition of material under the copyright law” for “deposit to secure copyright”.
+1976—Pub. L. 94–553 substituted “acquisition of material under the copyright law” for “deposit to secure copyright”.
 
 #### Effective Date of 1976 Amendment
 

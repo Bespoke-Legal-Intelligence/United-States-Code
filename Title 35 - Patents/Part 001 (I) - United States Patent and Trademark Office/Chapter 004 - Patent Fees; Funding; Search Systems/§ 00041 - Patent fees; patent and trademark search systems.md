@@ -68,7 +68,7 @@
 
 (c)(1) The Director may accept the payment of any maintenance fee required by subsection (b) of this section which is made within twenty-four months after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unintentional, or at any time after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unavoidable. The Director may require the payment of a surcharge as a condition of accepting payment of any maintenance fee after the six-month grace period. If the Director accepts payment of a maintenance fee after the six-month grace period, the patent shall be considered as not having expired at the end of the grace period.
 
-(2) A patent, the term of which has been maintained as a result of the acceptance of a payment of a maintenance fee under this subsection, shall not abridge or affect the right of any person or that person's successors in business who made, purchased, offered to sell, or used anything protected by the patent within the United States, or imported anything protected by the patent into the United States after the 6-month grace period but prior to the acceptance of a maintenance fee under this subsection, to continue the use of, to offer for sale, or to sell to others to be used, offered for sale, or sold, the specific thing so made, purchased, offered for sale, used, or imported. The court before which such matter is in question may provide for the continued manufacture, use, offer for sale, or sale of the thing made, purchased, offered for sale, or used within the United States, or imported into the United States, as specified, or for the manufacture, use, offer for sale, or sale in the United States of which substantial preparation was made after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, and the court may also provide for the continued practice of any process that is practiced, or for the practice of which substantial preparation was made, after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced afterthe 6-month grace period but before the acceptance of a maintenance fee under this subsection.
+(2) A patent, the term of which has been maintained as a result of the acceptance of a payment of a maintenance fee under this subsection, shall not abridge or affect the right of any person or that person's successors in business who made, purchased, offered to sell, or used anything protected by the patent within the United States, or imported anything protected by the patent into the United States after the 6-month grace period but prior to the acceptance of a maintenance fee under this subsection, to continue the use of, to offer for sale, or to sell to others to be used, offered for sale, or sold, the specific thing so made, purchased, offered for sale, used, or imported. The court before which such matter is in question may provide for the continued manufacture, use, offer for sale, or sale of the thing made, purchased, offered for sale, or used within the United States, or imported into the United States, as specified, or for the manufacture, use, offer for sale, or sale in the United States of which substantial preparation was made after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, and the court may also provide for the continued practice of any process that is practiced, or for the practice of which substantial preparation was made, after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced after the 6-month grace period but before the acceptance of a maintenance fee under this subsection.
 
 (d) The Director shall establish fees for all other processing, services, or materials relating to patents not specified in this section to recover the estimated average cost to the Office of such processing, services, or materials, except that the Director shall charge the following fees for the following services:
 
@@ -122,7 +122,7 @@ The fee for reissue applications is changed slightly.
 
 #### References in Text
 
-Section 13 of this title, referred to in subsec. (d), was renumbered section 12 of this title by Pub. L. 106–113,§1000(a)(9) \[title IV, §4717(1)\], Nov. 29, 1999, 113 Stat. 1501A–536, 1501A–580.
+Section 13 of this title, referred to in subsec. (d), was renumbered section 12 of this title by Pub. L. 106–113, §1000(a)(9) \[title IV, §4717(1)\], Nov. 29, 1999, 113 Stat. 1501A–536, 1501A–580.
 
 Section 3 of the Small Business Act, referred to in subsec. (h)(1), is classified to section 632 of Title 15, Commerce and Trade.
 
@@ -226,7 +226,7 @@ Subsec. (d). Pub. L. 102–204, §5(a)(3), amended subsec. (d) generally. Prior 
 
 Subsec. (f). Pub. L. 102–204, §5(b), substituted “on October 1, 1992, and every year thereafter, to reflect any fluctuations occurring during the previous 12 months” for “on October 1, 1985, and every third year thereafter, to reflect any fluctuations occurring during the previous three years”.
 
-Subsec. (g). Pub. L. 102–204, §5(c)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “No fee established by the Commissioner under this section will take effect prior to sixty days following notice in the Federal Register.”
+Subsec. (g). Pub. L. 102–204, §5(c)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) read asfollows: “No fee established by the Commissioner under this section will take effect prior to sixty days following notice in the Federal Register.”
 
 Subsec. (i). Pub. L. 102–204, §5(d)(1), added subsec. (i).
 
@@ -338,7 +338,7 @@ Section 8 of Pub. L. 96–517 provided that:
 
 “(b) Section 1 of this Act \[enacting sections 301 to 307 of this title\] will take effect on the first day of the seventh month beginning after its enactment \[Dec. 12, 1980\] and will apply to patents in force as of that date or issued thereafter.
 
-“(c) Section 3 of this Act \[amending section 42 of this title\] will take effect on the first day of the first fiscal year beginning on or after one calendar year after enactment \[Dec. 12, 1980\]. However, until section 3 takes effect, the Commissioner may credit the Patent andTrademark Office appropriation account in the Treasury of the United States with the revenues from collected reexamination fees, which will be available to pay the costs to the Office of reexamination proceedings.
+“(c) Section 3 of this Act \[amending section 42 of this title\] will take effect on the first day of the first fiscal year beginning on or after one calendar year after enactment \[Dec. 12, 1980\]. However, until section 3 takes effect, the Commissioner may credit the Patent and Trademark Office appropriation account in the Treasury of the United States with the revenues from collected reexamination fees, which will be available to pay the costs to the Office of reexamination proceedings.
 
 “(d) Any fee in effect as of the date of enactment of this Act \[Dec. 12, 1980\] will remain in effect until a corresponding fee established under section 41 of title 35, United States Code, or section 1113 of title 15, United States Code, takes effect.
 
@@ -370,6 +370,282 @@ Section 7 of Pub. L. 89–83 provided that:
 
 For termination, effective May 15, 2000, of provisions in subsec. (i)(4) of this section relating to annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 55 of House Document No. 103–7.
 
+#### Patent and Trademark Fees in Fiscal Years 2005 and 2006
+
+Pub. L. 108–447, div. B, title VIII, Dec. 8, 2004, 118 Stat. 2924, provided that:
+
+#### “SEC. 801. FEES FOR PATENT SERVICES.
+
+“(a)
+
+General Patent Fees.—During fiscal years 2005 and 2006, subsection (a) of section 41 of title 35, United States Code, shall be administered as though that subsection reads as follows:
+
+“ ‘(a)
+
+General Fees.—The Director shall charge the following fees:
+
+&emsp;“ ‘(1)
+
+Filing and basic national fees.—
+
+&emsp;&emsp;“ ‘(A) On filing each application for an original patent, except for design, plant, or provisional applications, $300.
+
+&emsp;&emsp;“ ‘(B) On filing each application for an original design patent, $200.
+
+&emsp;&emsp;“ ‘(C) On filing each application for an original plant patent, $200.
+
+&emsp;&emsp;“ ‘(D) On filing each provisional application for an original patent, $200.
+
+&emsp;&emsp;“ ‘(E) On filing each application for the reissue of a patent, $300.
+
+&emsp;&emsp;“ ‘(F) The basic national fee for each international application filed under the treaty defined in section 351(a) of this title entering the national stage under section 371 of this title, $300.
+
+&emsp;&emsp;“ ‘(G) In addition, excluding any sequence listing or computer program listing filed in an electronic medium as prescribed by the Director, for any application the specification and drawings of which exceed 100 sheets of paper (or equivalent as prescribed by the Director if filed in an electronic medium), $250 for each additional 50 sheets of paper (or equivalent as prescribed by the Director if filed in an electronic medium) or fraction thereof.
+
+&emsp;“ ‘(2)
+
+Excess claims fees.—In addition to the fee specified in paragraph (1)—
+
+&emsp;&emsp;“ ‘(A) on filing or on presentation at any other time, $200 for each claim in independent form in excess of 3;
+
+&emsp;&emsp;“ ‘(B) on filing or on presentation at any other time, $50 for each claim (whether dependent or independent) in excess of 20; and
+
+&emsp;&emsp;“ ‘(C) for each application containing a multiple dependent claim, $360.
+
+> For the purpose of computing fees under this paragraph, a multiple dependent claim referred to in section 112 of this title or any claim depending therefrom shall be considered as separate dependent claims in accordance with the number of claims to which reference is made. The Director may by regulation provide for a refund of any part of the fee specified in this paragraph for any claim that is canceled before an examination on the merits, as prescribed by the Director, has been made of the application under section 131 of this title. Errors in payment of the additional fees under this paragraph may be rectified in accordance with regulations prescribed by the Director.
+
+&emsp;“ ‘(3)
+
+Examination fees.—
+
+&emsp;&emsp;“ ‘(A) For examination of each application for an original patent, except for design, plant, provisional, or international applications, $200.
+
+&emsp;&emsp;“ ‘(B) For examination of each application for an original design patent, $130.
+
+&emsp;&emsp;“ ‘(C) For examination of each application for an original plant patent, $160.
+
+&emsp;&emsp;“ ‘(D) For examination of the national stage of each international application, $200.
+
+&emsp;&emsp;“ ‘(E) For examination of each application for the reissue of a patent, $600.
+
+> The provisions of section 111(a) of this title relating to the payment of the fee for filing the application shall apply to the payment of the fee specified in this paragraph with respect to an application filed under section 111(a) of this title. The provisions of section 371(d) of this title relating to the payment of the national fee shall apply to the payment of the fee specified in this paragraph with respect to an international application.
+
+&emsp;“ ‘(4)
+
+Issue fees.—
+
+&emsp;&emsp;“ ‘(A) For issuing each original patent, except for design or plant patents, $1,400.
+
+&emsp;&emsp;“ ‘(B) For issuing each original design patent, $800.
+
+&emsp;&emsp;“ ‘(C) For issuing each original plant patent, $1,100.
+
+&emsp;&emsp;“ ‘(D) For issuing each reissue patent, $1,400.
+
+&emsp;“ ‘(5)
+
+Disclaimer fee.—On filing each disclaimer, $130.
+
+&emsp;“ ‘(6)
+
+Appeal fees.—
+
+&emsp;&emsp;“ ‘(A) On filing an appeal from the examiner to the Board of Patent Appeals and Interferences, $500.
+
+&emsp;&emsp;“ ‘(B) In addition, on filing a brief in support of the appeal, $500, and on requesting an oral hearing in the appeal before the Board of Patent Appeals and Interferences, $1,000.
+
+&emsp;“ ‘(7)
+
+Revival fees.—On filing each petition for the revival of an unintentionally abandoned application for a patent, for the unintentionally delayed payment of the fee for issuing each patent, or for an unintentionally delayed response by the patent owner in any reexamination proceeding, $1,500, unless the petition is filed under section 133 or 151 of this title, in which case the fee shall be $500.
+
+&emsp;“ ‘(8)
+
+Extension fees.—For petitions for 1-month extensions of time to take actions required by the Director in an application—
+
+&emsp;&emsp;“ ‘(A) on filing a first petition, $120;
+
+&emsp;&emsp;“ ‘(B) on filing a second petition, $330; and
+
+&emsp;&emsp;“ ‘(C) on filing a third or subsequent petition, $570.’
+
+“(b)
+
+Patent Maintenance Fees.—During fiscal years 2005 and 2006, subsection (b) of section 41 of title 35, United States Code, shall be administered as though that subsection reads as follows:
+
+“ ‘(b)
+
+Maintenance Fees.—The Director shall charge the following fees for maintaining in force all patentsbased on applications filed on or after December 12, 1980:
+
+&emsp;“ ‘(1) 3 years and 6 months after grant, $900.
+
+&emsp;“ ‘(2) 7 years and 6 months after grant, $2,300.
+
+&emsp;“ ‘(3) 11 years and 6 months after grant, $3,800.
+
+> Unless payment of the applicable maintenance fee is received in the United States Patent and Trademark Office on or before the date the fee is due or within a grace period of 6 months thereafter, the patent will expire as of the end of such grace period. The Director may require the payment of a surcharge as a condition of accepting within such 6-month grace period the payment of an applicable maintenance fee. No fee may be established for maintaining a design or plant patent in force.’
+
+“(c)
+
+Patent Search Fees.—During fiscal years 2005 and 2006, subsection (d) of section 41 of title 35, United States Code, shall be administered as though that subsection reads as follows:
+
+“ ‘(d)
+
+Patent Search and Other Fees.—
+
+&emsp;“ ‘(1)
+
+Patent search fees.—
+
+&emsp;&emsp;“ ‘(A) The Director shall charge a fee for the search of each application for a patent, except for provisional applications. The Director shall establish the fees charged under this paragraph to recover an amount not to exceed the estimated average cost to the Office of searching applications for patent either by acquiring a search report from a qualified search authority, or by causing a search by Office personnel to be made, of each application for patent. For the 3-year period beginning on the date of enactment of this Act, the fee for a search by a qualified search authority of a patent application described in clause (i), (iv), or (v) of subparagraph (B) may not exceed $500, of a patent application described in clause (ii) of subparagraph (B) may not exceed $100, and of a patent application described in clause (iii) of subparagraph (B) may not exceed $300. The Director may not increase any such fee by more than 20 percent in each of the next three 1-year periods, and the Director may not increase any such fee thereafter.
+
+&emsp;&emsp;“ ‘(B) For purposes of determining the fees to be established under this paragraph, the cost to the Office of causing a search of an application to be made by Office personnel shall be deemed to be—
+
+&emsp;&emsp;&emsp;“ ‘(i) $500 for each application for an original patent, except for design, plant, provisional, or international applications;
+
+&emsp;&emsp;&emsp;“ ‘(ii) $100 for each application for an original design patent;
+
+&emsp;&emsp;&emsp;“ ‘(iii) $300 for each application for an original plant patent;
+
+&emsp;&emsp;&emsp;“ ‘(iv) $500 for the national stage of each international application; and
+
+&emsp;&emsp;&emsp;“ ‘(v) $500 for each application for the reissue of a patent.
+
+&emsp;&emsp;“ ‘(C) The provisions of section 111(a)(3) of this title relating to the payment of the fee for filing the application shall apply to the payment of the fee specified in this paragraph with respect to an application filed under section 111(a) of this title. The provisions of section 371(d) of this title relating to the payment of the national fee shall apply to the payment of the fee specified in this paragraph with respect to an international application.
+
+&emsp;&emsp;“ ‘(D) The Director may by regulation provide for a refund of any part of the fee specified in this paragraph for any applicant who files a written declaration of express abandonment as prescribed by the Director before an examination has been made of the application under section 131 of this title, and for any applicant who provides a search report that meets the conditions prescribed by the Director.
+
+&emsp;&emsp;“ ‘(E) For purposes of subparagraph (A), a “qualified search authority” may not include a commercial entity unless—
+
+&emsp;&emsp;&emsp;“ ‘(i) the Director conducts a pilot program of limited scope, conducted over a period of not more than 18 months, which demonstrates that searches by commercial entities of the available prior art relating to the subject matter of inventions claimed in patent applications—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“ ‘(I) are accurate; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“ ‘(II) meet or exceed the standards of searches conducted by and used by the Patent and Trademark Office during the patent examination process;
+
+&emsp;&emsp;&emsp;“ ‘(ii) the Director submits a report on the results of the pilot program to Congress and the Patent Public Advisory Committee that includes—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“ ‘(I) a description of the scope and duration of the pilot program;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“ ‘(II) the identity of each commercial entity participating in the pilot program;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“ ‘(III) an explanation of the methodology used to evaluate the accuracy and quality of the search reports; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“ ‘(IV) an assessment of the effects that the pilot program, as compared to searches conducted by the Patent and Trademark Office, had and will have on—
+
+&emsp;&emsp;&emsp;“ ‘(aa) patentability determinations;
+
+&emsp;&emsp;&emsp;“ ‘(bb) productivity of the Patent and Trademark Office;
+
+&emsp;&emsp;&emsp;“ ‘(cc) costs to the Patent and Trademark Office;
+
+&emsp;&emsp;&emsp;“ ‘(dd) costs to patent applicants; and
+
+&emsp;&emsp;&emsp;“ ‘(ee) other relevant factors;
+
+&emsp;&emsp;&emsp;“ ‘(iii) the Patent Public Advisory Committee reviews and analyzes the Director's report under clause (ii) and the results of the pilot program and submits a separate report on its analysis to the Director and the Congress that includes—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“ ‘(I) an independent evaluation of the effects that the pilot program, as compared to searches conducted by the Patent and Trademark Office, had and will have on the factors set forth in clause (ii)(IV); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“ ‘(II) an analysis of the reasonableness, appropriateness, and effectiveness of the methods used in the pilot program to make the evaluations required under clause (ii)(IV); and
+
+&emsp;&emsp;&emsp;“ ‘(iv) Congress does not, during the 1-year period beginning on the date on which the Patent Public Advisory Committee submits its report to the Congress under clause (iii), enact a law prohibiting searches by commercial entities of the available prior art relating to the subject matter of inventions claimed in patent applications.
+
+&emsp;&emsp;“ ‘(F) The Director shall require that any search by a qualified search authority that is a commercial entity is conducted in the United States by persons that—
+
+&emsp;&emsp;&emsp;“ ‘(i) if individuals, are United States citizens; and
+
+&emsp;&emsp;&emsp;“ ‘(ii) if business concerns, are organized under the laws of the United States or any State and employ United States citizens to perform the searches.
+
+&emsp;&emsp;“ ‘(G) A search of an application that is the subject of a secrecy order under section 181 or otherwise involves classified information may only be conducted by Office personnel.
+
+&emsp;&emsp;“ ‘(H) A qualified search authority that is a commercial entity may not conduct a search of a patent application if the entity has any direct or indirect financial interest in any patent or in any pending or imminent application for patent filed or to be filed in the Patent and Trademark Office.
+
+&emsp;“ ‘(2)
+
+Other fees.—The Director shall establish fees for all other processing, services, or materials relating to patents not specified in this section to recover the estimated average cost to the Office of such processing, services, or materials, except that the Director shall charge the following fees for the following services:
+
+&emsp;&emsp;“ ‘(A) For recording a document affecting title, $40 per property.
+
+&emsp;&emsp;“ ‘(B) For each photocopy, $.25 per page.
+
+&emsp;&emsp;“ ‘(C) For each black and white copy of a patent, $3.
+
+> &emsp;The yearly fee for providing a library specified in section 12 of this title with uncertified printed copies of the specifications and drawings for all patents in that year shall be $50.’
+
+“(d)
+
+Adjustments.—During fiscal years 2005 and 2006, subsection (f) of section 41 of title 35, United States Code, shall apply to the fees established under this section.
+
+“(e)
+
+Fees For Small Entities.—During fiscal years 2005 and 2006, subsection (h) of section 41 of title 35, United States Code, shall be administered as though that subsection is amended—
+
+&emsp;“(1) in paragraph (1), by striking ‘Fees charged under subsection (a) or (b)’ and inserting ‘Subject to paragraph (3), fees charged under subsections (a), (b), and (d)(1)’; and
+
+&emsp;“(2) by adding at the end the following new paragraph:
+
+&emsp;“ ‘(3) The fee charged under subsection (a)(1)(A) shall be reduced by 75 percent with respect to its application to any entity to which paragraph (1) applies, if the application is filed by electronic means as prescribed by the Director.’
+
+#### “SEC. 802. ADJUSTMENT OF TRADEMARK FEES.
+
+“(a)
+
+Fee For Filing Application.—During fiscal years 2005 and 2006, under such conditions as may be prescribed by the Director, the fee under section 31(a) of the Trademark Act of 1946 (15 U.S.C. 1113(a)) for: (1) the filing of a paper application for the registration of a trademark shall be $375; (2) the filing of an electronic application shall be $325; and (3) the filing of an electronic application meeting certain additional requirements prescribed by the Director shall be $275. During fiscal years 2005 and 2006, the provisions of the second and third sentences of section 31(a) of the Trademark Act of 1946 shall apply to the fees established under this section.
+
+“(b)
+
+Reference to Trademark Act of 1946.—For purposes of this section, the ‘Trademark Act of 1946’ refers to the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes.’, approved July 5, 1946 (15 U.S.C. 1051 et seq.).
+
+#### “SEC. 803. EFFECTIVE DATE, APPLICABILITY, AND TRANSITIONAL PROVISION.
+
+“(a)
+
+Effective Date.—Except as otherwise provided in this title (including this section), the provisions of this title shall take effect on the date of the enactment of this Act \[Dec. 8, 2004\] and shall apply only with respect to the remaining portion of fiscal year 2005 and fiscal year 2006.
+
+“(b)
+
+Applicability.—
+
+&emsp;“(1)(A) Except as provided in subparagraphs (B) and (C), the provisions of section 801 shall apply to all patents, whenever granted, and to all patent applications pending on or filed after the effective date set forth in subsection (a) of this section.
+
+&emsp;“(B)(i) Except as provided in clause (ii), subsections (a)(1) and (3) and (d)(1) of section 41 of title 35, United States Code, as administered as provided in this title, shall apply only to—
+
+&emsp;&emsp;“(I) applications for patents filed under section 111 of title 35, United States Code, on or after the effective date set forth in subsection (a) of this section, and
+
+&emsp;&emsp;“(II) international applications entering the national stage under section 371 of title 35, United States Code, for which the basic national fee specified in section 41 of title 35, United States Code, was not paid before the effective date set forth in subsection (a) of this section.
+
+&emsp;“(ii) Section 41(a)(1)(D) of title 35, United States Code, as administered as provided in this title, shall apply only to applications for patent filed under section 111(b) of title 35, United States Code, before, on, or after the effective date set forth in subsection (a) of this section in which the filing fee specified in section 41 of title 35, United States Code, was not paid before the effective date set forth in subsection (a) of this section.
+
+&emsp;“(C) Section 41(a)(2) of title 35, United States Code, as administered as provided in this title, shall apply only to the extent that the number of excess claims, after giving effect to any cancellation of claims, is in excess of the number of claims for which the excess claims fee specified in section 41 of title 35, United States Code, was paid before the effective date set forth in subsection (a) of this section.
+
+&emsp;“(2) The provisions of section 802 shall apply to all applications for the registration of a trademark filed or amended on or after the effective date set forth in subsection (a) of this section.
+
+“(c)
+
+Transitional Provisions.—
+
+&emsp;“(1)
+
+Search fees.—During fiscal years 2005 and 2006, the Director shall charge—
+
+&emsp;&emsp;“(A) for the search of each application for an original patent, except for design, plant, provisional, or international application, $500;
+
+&emsp;&emsp;“(B) for the search of each application for an original design patent, $100;
+
+&emsp;&emsp;“(C) for the search of each application for an original plant patent, $300;
+
+&emsp;&emsp;“(D) for the search of the national stage of each international application, $500; and
+
+&emsp;&emsp;“(E) for the search of each application for the reissue of a patent, $500.
+
+&emsp;“(2)
+
+Timing of fees.—The provisions of section 111(a)(3) of title 35, United States Code, relating to the payment of the fee for filing the application shall apply to the payment of the fee specified in paragraph (1) with respect to an application filed under section 111(a) of title 35, United States Code. The provisions of section 371(d) of title 35, United States Code, relating to the payment of the national fee shall apply to the payment of the fee specified in paragraph (1) with respect to an international application.
+
+#### “SEC. 804. DEFINITION.
+
+“In this title, the term ‘Director’ means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.”
+
 #### Study on Alternative Fee Structures
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4204\], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, provided that: “The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall conduct a study of alternative fee structures that could be adopted by the United States Patent and Trademark Office to encourage maximum participation by the inventor community in the United States. The Director shall submit such study to the Committees on the Judiciary of the House of Representatives and the Senate not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\].”
@@ -380,7 +656,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4506\], Nov. 29, 1999, 113
 
 #### Continuation of Maintenance
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4804(d)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–590, provided that: “The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall not, pursuant to the amendment made by paragraph (1) \[amending this section\], cease to maintain, for use by the public, paper or microform collections of United States patents, foreign patent documents, and United States trademark registrations, except pursuant to notice and opportunity for public comment and except that the Director shall first submit a report to the Committees on the Judiciary of the Senate and the House of Representatives detailing such plan, including a description of the mechanisms in place to ensure the integrity of such collections and the data contained therein, as well as to ensure prompt public access to the most current available information, and certifying that the implementation of such plan will not negatively impact the public.”
+Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4804(d)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–590, provided that: “The Under Secretary of Commerce for Intellectual Property and Director of the United StatesPatent and Trademark Office shall not, pursuant to the amendment made by paragraph (1) \[amending this section\], cease to maintain, for use by the public, paper or microform collections of United States patents, foreign patent documents, and United States trademark registrations, except pursuant to notice and opportunity for public comment and except that the Director shall first submit a report to the Committees on the Judiciary of the Senate and the House of Representatives detailing such plan, including a description of the mechanisms in place to ensure the integrity of such collections and the data contained therein, as well as to ensure prompt public access to the most current available information, and certifying that the implementation of such plan will not negatively impact the public.”
 
 #### Access to Electronic Patent Information
 
@@ -404,7 +680,7 @@ Section 5(c)(2) of Pub. L. 102–204 provided that fees established by the Commi
 
 #### Patent Information Dissemination
 
-Section 11 of Pub. L. 102–204 set out definitions, established a patent information demonstration program, stipulated the information to be disseminated, providedfor fees for CD-ROM purchase, and required a report to Congress one year after Dec. 10, 1991.
+Section 11 of Pub. L. 102–204 set out definitions, established a patent information demonstration program, stipulated the information to be disseminated, provided for fees for CD-ROM purchase, and required a report to Congress one year after Dec. 10, 1991.
 
 #### Surcharges on Patent Fees
 
@@ -429,10 +705,6 @@ Section 404 of Pub. L. 98–622 provided that:
 “(a) Notwithstanding section 41 of title 35, United States Code, as in effect before the enactment of Public Law 97–247 (96 Stat. 317) \[Aug. 27, 1982\], no fee shall be collected for maintaining a plant patent in force.
 
 “(b) Notwithstanding section 41(c) of title 35, United States Code, as in effect before the enactment of Public Law 97–247 (96 Stat. 317) \[Aug. 27, 1982\], the Commissioner of Patents and Trademarks \[now Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] may accept, after the six-month grace period referred to in such section 41(c), the payment of any maintenance fee due on any patent based on an application filed in the Patent and Trademark Office on or after December 12, 1980, and before August 27, 1982, to the same extent as in the case of patents based on applications filed in the Patent and Trademark Office on or after August 27, 1982.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2, 13, 119, 132, 302, 311, 371, 376 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §8137. Compensation for noncitizens and nonresidents
 
-(a) When the Secretary of Labor finds that the amount of compensation payable to an employee who is neither a citizen nor resident of the United States or Canada, or payable to a dependent of such an employee, is substantially disproportionate to compensation for disability or death payable in similar cases under local statute, regulations, custom, or otherwise at the place outside the continental United States or Canada where the employee is working at the time of injury, he may provide for payment of compensation on a basis reasonably in accordwith prevailing local payments in similar cases by—
+(a) When the Secretary of Labor finds that the amount of compensation payable to an employee who is neither a citizen nor resident of the United States or Canada, or payable to a dependent of such an employee, is substantially disproportionate to compensation for disability or death payable in similar cases under local statute, regulations, custom, or otherwise at the place outside the continental United States or Canada where the employee is working at the time of injury, he may provide for payment of compensation on a basis reasonably in accord with prevailing local payments in similar cases by—
 
 &emsp;(1) the adoption or adaption of the substantive features, by a schedule or otherwise, of local workmen's compensation provisions or other local statute, regulation, or custom applicable in cases of personal injury or death; or
 

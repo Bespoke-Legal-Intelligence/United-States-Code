@@ -108,7 +108,7 @@ The Commission shall prepare and submit to the President and the Congress at the
 
 (2) Whenever the Commission submits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit a copy thereof to the Congress. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation, to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress.
 
-(Pub. L. 92–573, §27, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–273, §31, Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–284, §§8(b), 11(c), (d), 14, May 11, 1976, 90 Stat. 506–509; Pub. L. 95–631, §11, Nov. 10, 1978, 92 Stat. 3748; Pub. L. 97–35, title XII, §§1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, 95 Stat. 718, 720, 721.)
+(Pub. L. 92–573, §27, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–273, §31, Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–284, §§8(b), 11(c), (d), 14, May 11, 1976, 90 Stat. 506–509; Pub. L. 95–631, §11, Nov. 10, 1978, 92 Stat. 3748; Pub. L. 97–35, title XII, §§1207(b),1208, 1209(c), 1211(d), Aug. 13, 1981, 95 Stat. 718, 720, 721.)
 
 #### Codification
 
@@ -149,8 +149,4 @@ For termination, effective May 15, 2000, of provisions in subsec. (j) of this se
 #### User Fee Study
 
 Pub. L. 101–608, title I, §119, Nov. 16, 1990, 104 Stat. 3122, directed Consumer Product Safety Commission to conduct a study of feasibility of requiring entities subject to Consumer Product Safety Act (15 U.S.C. 2051 et seq.) to pay to Commission amounts to defray reasonable costs of particular services provided by Commission to such entities, with Commission to complete study within one year of Nov. 16, 1990, and report results of study to Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2064, 2068, 2071, 2080, 2081 of this title.
 

@@ -1,9 +1,5 @@
 Part I—General Provisions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 6394, 6435 of this title.
-
 
 ---
 

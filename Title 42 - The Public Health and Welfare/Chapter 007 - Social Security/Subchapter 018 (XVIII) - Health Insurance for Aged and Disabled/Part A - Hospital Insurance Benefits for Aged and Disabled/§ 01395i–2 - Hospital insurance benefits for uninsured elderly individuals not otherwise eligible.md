@@ -22,7 +22,7 @@ An individual may enroll under this section only in such manner and form as may 
 
 The provisions of section 1395p of this title (except subsection (f) thereof), section 1395q of this title, subsection (b) of section 1395r of this title, and subsections (f) and (h) of section 1395s of this title shall apply to persons authorized to enroll under this section except that—
 
-&emsp;(1) individuals who meet the conditions of subsection (a)(1), (3), and (4) of this section on or before the last day of the seventh month after October 1972 may enroll under this part and (if not already so enrolled) may also enroll under part B of this subchapter during an initial general enrollment period which shall begin on the first day of the second month which begins after October 30, 1972, and shall end on the last day of the tenth month after October 1972;
+&emsp;(1) individuals who meet the conditions of subsection (a)(1), (3), and (4) of this section onor before the last day of the seventh month after October 1972 may enroll under this part and (if not already so enrolled) may also enroll under part B of this subchapter during an initial general enrollment period which shall begin on the first day of the second month which begins after October 30, 1972, and shall end on the last day of the tenth month after October 1972;
 
 &emsp;(2) in the case of an individual who first meets the conditions of eligibility under this section on or after the first day of the eighth month after October 1972, the initial enrollment period shall begin on the first day of the third month before the month in which he first becomes eligible and shall end 7 months later;
 
@@ -100,7 +100,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(i) had at least 30 quarters of coverage under subchapter II of this chapter;
 
-&emsp;(ii) was married (and had been married for the previous 1-year period) to an individual who had at least 30 quarters of coverage under such subchapter;
+&emsp;(ii) was married (and had been married for the previous 1-year period) to an individualwho had at least 30 quarters of coverage under such subchapter;
 
 &emsp;(iii) had been married to an individual for a period of at least 1 year (at the time of such individual's death) if at such time the individual had at least 30 quarters of coverage under such subchapter; or
 
@@ -112,7 +112,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(ii) in each of 84 months before such month, the individual was enrolled in this part under this section and the payment of the individual's premium under this section for the month was not paid for, in whole or in part, by a State (under subchapter XIX of this chapter or otherwise), a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions thereof.
 
-(B) A person described in this subparagraph for a month is a person who establishes to thesatisfaction of the Secretary that, as of the last day of the previous month—
+(B) A person described in this subparagraph for a month is a person who establishes to the satisfaction of the Secretary that, as of the last day of the previous month—
 
 &emsp;(i)(I) the person was receiving cash benefits under a qualified State or local government retirement system (as defined in subparagraph (C)) on the basis of the person's employment in one or more positions covered under any such system, and (II) the person would have at least 40 quarters of coverage under subchapter II of this chapter if remuneration for medicare qualified government employment (as defined in paragraph (1) of section 410(p) of this title, but determined without regard to paragraph (3) of such section) paid to such person were treated as wages paid to such person and credited for purposes of determining quarters of coverage under section 413 of this title;
 
@@ -150,13 +150,13 @@ Amounts paid to the Secretary for coverage under this section shall be deposited
 
 #### (g) Buy-in under this part for qualified medicare beneficiaries
 
-(1) The Secretary shall, at the request of a State made after 1989, enter into a modification of an agreement entered into with the State pursuant to section 1395v(a) of this title under which the agreement provides for enrollment in the program established by this part of qualified medicare beneficiaries (as defined in section 1396d(p)(1) of this title).
+(1) The Secretary shall, at the request of a State made after 1989, enter into a modificationof an agreement entered into with the State pursuant to section 1395v(a) of this title under which the agreement provides for enrollment in the program established by this part of qualified medicare beneficiaries (as defined in section 1396d(p)(1) of this title).
 
 (2)(A) Except as provided in subparagraph (B), the provisions of subsections (c), (d), (e), and (f) of section 1395v of this title shall apply to qualified medicare beneficiaries enrolled, pursuant to such agreement, in the program established by this part in the same manner and to the same extent as they apply to qualified medicare beneficiaries enrolled, pursuant to such agreement, in part B of this subchapter.
 
 (B) For purposes of this subsection, section 1395v(d)(1) of this title shall be applied by substituting “section 1395i–2 of this title” for “section 1395r of this title” and “subsection (c)(6) (with reference to subsection (b) of section 1395r of this title)” for “subsection (b)”.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Pub. L. 92–603, title II, §202, Oct. 30, 1972, 86 Stat. 1374; amended Pub. L. 98–21, title VI, §606(a)(3)(D), (b), Apr. 20, 1983, 97 Stat. 170, 171; Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), July 18, 1984, 98 Stat. 1080, 1100; Pub. L. 99–272, title IX, §9124(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §4009(j)(9), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(8)(D), July 1, 1988, 102 Stat. 772; Pub. L. 100–360, title I, §103, July 1, 1988, 102 Stat. 687; Pub. L. 100–485, title VI, §608(d)(2), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–239, title VI,§§6012(a)(1), 6013(a), Dec. 19, 1989, 103 Stat. 2161, 2163; Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), Nov. 5, 1990, 104 Stat. 1388–45, 1388–54; Pub. L. 103–66, title XIII, §13508(a), Aug. 10, 1993, 107 Stat. 579; Pub. L. 105–33, title IV, §4453(a), Aug. 5, 1997, 111 Stat. 425; Pub. L. 106–554, §1(a)(6) \[title III, §331(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–502; Pub. L. 108–173, title I, §101(e)(5), title VII, §736(a)(7), Dec. 8, 2003, 117 Stat. 2151, 2355.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Pub. L. 92–603, title II, §202, Oct. 30, 1972, 86 Stat. 1374; amended Pub. L. 98–21, title VI, §606(a)(3)(D), (b), Apr. 20, 1983, 97 Stat. 170, 171; Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), July 18, 1984, 98 Stat. 1080, 1100; Pub. L. 99–272, title IX, §9124(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §4009(j)(9), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(8)(D), July 1, 1988, 102 Stat. 772; Pub. L. 100–360, title I, §103, July 1, 1988, 102 Stat. 687; Pub. L. 100–485, title VI, §608(d)(2), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–239, title VI, §§6012(a)(1), 6013(a), Dec. 19, 1989, 103 Stat. 2161, 2163; Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), Nov. 5, 1990, 104 Stat. 1388–45, 1388–54; Pub. L. 103–66, title XIII, §13508(a), Aug. 10, 1993, 107 Stat. 579; Pub. L. 105–33, title IV, §4453(a), Aug. 5, 1997, 111 Stat. 425; Pub. L. 106–554, §1(a)(6) \[title III, §331(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–502; Pub. L. 108–173, title I, §101(e)(5), title VII, §736(a)(7), Dec. 8, 2003, 117 Stat. 2151, 2355.)
 
 #### References in Text
 
@@ -222,7 +222,7 @@ Pub. L. 106–554, §1(a)(6) \[title III, §331(b)\], Dec. 21, 2000, 114 Stat. 2
 
 #### Effective Date of 1997 Amendment
 
-Section 4453(b) of Pub. L. 105–33 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to premiums for months beginning with January 1998, and months before such month may be taken into account for purposes of meeting the requirement of section 1818(d)(5)(B)(iii) of the Social Security Act \[subsec. (d)(5)(B)(iii) of this section\], as added by subsection (a).”
+Section 4453(b) of Pub. L. 105–33 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to premiums for months beginningwith January 1998, and months before such month may be taken into account for purposes of meeting the requirement of section 1818(d)(5)(B)(iii) of the Social Security Act \[subsec. (d)(5)(B)(iii) of this section\], as added by subsection (a).”
 
 #### Effective Date of 1993 Amendment
 
@@ -242,7 +242,7 @@ Section 6013(c) of Pub. L. 101–239 provided that: “The amendments made by th
 
 Amendment by Pub. L. 100–485 effective as if originally included in the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Amendment by section 103 of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or afterJan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
+Amendment by section 103 of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(b)(8)(D) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
@@ -309,10 +309,6 @@ Pub. L. 97–248, title I, §125, Sept. 3, 1982, 96 Stat. 365, provided that:
 &emsp;“(B) the individual's seamen's papers covering that date, or
 
 &emsp;“(C) such other reasonable documentation as the Secretary may require.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395i–2a, 1395p, 1395v, 1395ff, 1395gg, 1396d of this title; title 25 section 1644; title 26 section 6103.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -4,7 +4,3 @@ It shall be unlawful for any person to violate any provision of section 13251, 1
 
 (Pub. L. 102–486, title V, §511, Oct. 24, 1992, 106 Stat. 2899.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13262 of this title.
-

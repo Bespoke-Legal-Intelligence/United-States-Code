@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-(1) To request a grant under this subchapter the chief executive of a State shall submit an application to the Attorney General in suchform and containing such information as the Attorney General may reasonably require.
+(1) To request a grant under this subchapter the chief executive of a State shall submit an application to the Attorney General in such form and containing such information as the Attorney General may reasonably require.
 
 (2) Such application shall include assurances that Federal funds received under this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter.
 
-(3) Such application shall coordinate the design and implementation of treatment programs between State correctional representatives and the State Alcohol <sup>1</sup> and Drug <sup>1</sup> Abuse <sup>1</sup> agency (and, if appropriate, between representatives of local correctional agencies and representatives of either the State alcohol and drug abuse agency or any appropriate local alcohol and drug abuse agency).
+(3) Such application shall coordinate the design and implementation of treatment programs between State correctional representatives and the State Alcohol <sup>1</sup> and Drug <sup>1</sup> Abuse <sup>1</sup> agency (and, if appropriate, between representatives oflocal correctional agencies and representatives of either the State alcohol and drug abuse agency or any appropriate local alcohol and drug abuse agency).
 
 #### (b) Substance abuse testing requirement
 
@@ -41,10 +41,6 @@ A State may use amounts received under this subchapter to provide nonresidential
 #### Amendments
 
 2002—Subsec. (f). Pub. L. 107–273 added subsec. (f).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3796ff–2, 3796ff–3 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

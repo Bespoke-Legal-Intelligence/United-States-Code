@@ -8,7 +8,3 @@ It shall further examine, survey, and determine the utility and practicability, 
 
 California Debris Commission abolished and functions transferred to Secretary of the Army by Pub. L. 99–662, title XI, §1106, Nov. 17, 1986, 100 Stat. 4229, set out as a note under section 661 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 661 of this title.
-

@@ -12,7 +12,7 @@ It is the sense of the Congress that the following, which are based in part on t
 
 &emsp;(5) The United States should recognize passports and travel documents issued after June 30, 1997, by the Hong Kong Special Administrative Region.
 
-&emsp;(6) The resumption by the People's Republic of China of the exercise of sovereignty over Hong Kong after June 30, 1997, should not affect treatment of Hong Kong residents who apply for visas to visit or reside permanently in the United States, so long as such treatment is consistent with the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\].
+&emsp;(6) The resumption by the People's Republic of China of the exercise of sovereignty over Hong Kong after June 30, 1997, should not affect treatment of Hong Kong residents who apply for visas to visit or reside permanentlyin the United States, so long as such treatment is consistent with the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\].
 
 (Pub. L. 102–383, title I, §101, Oct. 5, 1992, 106 Stat. 1449.)
 

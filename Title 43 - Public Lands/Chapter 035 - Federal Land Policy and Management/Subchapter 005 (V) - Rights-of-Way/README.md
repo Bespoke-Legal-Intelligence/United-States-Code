@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—RIGHTS-OF-WAY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1702 of this title; title 16 section 3166; title 30 section 201; title 42 section 6502.
-
 
 ---
 

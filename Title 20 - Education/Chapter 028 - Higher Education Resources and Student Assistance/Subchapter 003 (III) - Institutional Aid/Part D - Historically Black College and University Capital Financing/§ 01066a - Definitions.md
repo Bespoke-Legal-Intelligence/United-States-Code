@@ -16,7 +16,7 @@ For the purposes of this part:
 
 &emsp;&emsp;(B) a facility for the administration of an educational program, or a student center or student union, except that not more than 5 percent of the loan proceeds provided under this part may be used for the facility, center or union if the facility, center or union is owned, leased, managed, or operated by a private business, that, in return for such use, makes a payment to the eligible institution;
 
-&emsp;&emsp;(C) instructional equipment technology,,<sup>1</sup> research instrumentation, and any capital equipment or fixture related to facilities described in subparagraph (A);
+&emsp;&emsp;(C) instructional equipment technology,,<sup>1</sup> research instrumentation, and any capitalequipment or fixture related to facilities described in subparagraph (A);
 
 &emsp;&emsp;(D) a maintenance, storage, or utility facility that is essential to the operation of a facility, a library, a dormitory, equipment, instrumentation, a fixture, real property or an interest therein, described in this paragraph;
 

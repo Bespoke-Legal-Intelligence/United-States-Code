@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—AGRICULTURAL EXTENSION WORK APPROPRIATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 418, 3103, 3124a, 3221, 7672 of this title; title 39 section 3202; title 40 section 525.
-
 
 ---
 

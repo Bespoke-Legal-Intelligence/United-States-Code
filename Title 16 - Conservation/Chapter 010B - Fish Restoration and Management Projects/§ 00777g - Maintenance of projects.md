@@ -18,7 +18,7 @@ Each State may use not to exceed 15 percent of the funds apportioned to it under
 
 #### (1) Implementation
 
-&emsp;Within 1 year after June 9, 1998, the Secretary of the Interior shall develop and implement, in cooperation and consultation with the Sport Fishing and Boating Partnership Council, a national plan for outreach and communications.
+&emsp;Within 1 year after June 9, 1998, the Secretary of the Interior shall develop and implement, in cooperation and consultation with the Sport Fishing and Boating PartnershipCouncil, a national plan for outreach and communications.
 
 #### (2) Content
 
@@ -106,13 +106,9 @@ Subsec. (d). Pub. L. 102–587, §5604(b)(4), added subsec. (d).
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respect to fiscal years beginning after Sept. 30, 1984, see section 1014(b) of Pub. L. 98–369, set out as a note under section 777 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 777c, 777g–1 of this title.
 

@@ -26,11 +26,11 @@ Beginning at a triangle on set stone, said mark being the Government survey tria
 
 11\. Ninety degrees twenty-three minutes thirty seconds twelve thousand two hundred and forty-nine and three-tenths feet along the remaining portion of the lands of Nakula and Kahikinui to a concrete monument marked Number 15.
 
-12\. One hundred and seventeen degrees fifty-two minutes thirty seconds five thousand two hundred and nine and two-tenths feet along the remaining portion of the land of Kahikinui to aconcrete monument marked Number 16, the true azimuth and distance from said monument to Government survey triangulation station Kolekole, being ninety-eight degrees thirty minutes one thousand five hundred and forty-three and five-tenths feet.
+12\. One hundred and seventeen degrees fifty-two minutes thirty seconds five thousand two hundred and nine and two-tenths feet along the remaining portion of the land of Kahikinui to a concrete monument marked Number 16, the true azimuth and distance from said monument to Government survey triangulation station Kolekole, being ninety-eight degrees thirty minutes one thousand five hundred and forty-three and five-tenths feet.
 
 13\. One hundred and twenty-seven degrees thirty-eight minutes two thousand one hundred and seventy-five and six-tenths feet along same and the land of Papaanui to a concrete monument marked Number 17, the true azimuth and distance from said monument to a concrete monument marked Number 25, which marks the south corner of the land of Kealahou 3 and 4 being forty degrees ten minutes thirty seconds four hundred and sixty-six and two-tenths feet.
 
-14\. Two hundred and thirteen degrees forty-six minutes eight thousand two hundred and forty-one and two-tenths feet along the remaining portions of the lands of Kealahou 3 and 4 and Pulehunui to a concrete monument marked Number 19, the true azimuth and distance from said monument to a “K” marked on a large lava rock called Kilohana, at the east corner of the lands of Kealahou 3 and 4, being three hundred and twenty-three degrees fifty-three minutes nine hundred and forty-seven and three-tenths feet.
+14\. Two hundred and thirteen degrees forty-six minutes eight thousand two hundred and forty-one and two-tenths feet along the remaining portions of the lands of Kealahou 3 and 4 and Pulehunui to a concrete monument marked Number 19, the true azimuth and distance from said monument to a “K” marked on a large lavarock called Kilohana, at the east corner of the lands of Kealahou 3 and 4, being three hundred and twenty-three degrees fifty-three minutes nine hundred and forty-seven and three-tenths feet.
 
 15\. One hundred and forty-three degrees fifty-three minutes six thousand nine hundred and five and three-tenths feet along the land of Pulehunui to a concrete monument marked Number 20.
 
@@ -41,8 +41,4 @@ Beginning at a triangle on set stone, said mark being the Government survey tria
 #### Haleakala�AE8 National Park
 
 Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala�AE8 National Park, effective July 1, 1961, see section 396b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 392a of this title.
 

@@ -24,7 +24,3 @@ Not later than one hundred and twenty days after the tribe adopts a constitution
 
 (Pub. L. 96–227, §6, Apr. 3, 1980, 94 Stat. 319.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 763, 764, 766 of this title.
-

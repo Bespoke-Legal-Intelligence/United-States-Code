@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) cost of attendance for a full-time undergraduate student, consistent with the provisions of section 1087<i>ll</i> of this title;
 
-&emsp;&emsp;&emsp;(iii) average amount of financial assistance received by an undergraduate studentwho attends an institution of higher education, including—
+&emsp;&emsp;&emsp;(iii) average amount of financial assistance received by an undergraduate student who attends an institution of higher education, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) each type of assistance or benefit described in section 1078(a)(2)(C)(i) <sup>1</sup> of this title;
 
@@ -66,7 +66,7 @@ The Secretary shall make available the data collected pursuant to subsection (a)
 
 &emsp;&emsp;(B) the relationship of the expenditures identified in paragraph (1) to college costs; and
 
-&emsp;&emsp;(C) the extent to which increases in institutional financial aid and tuition discounting practices affect tuition increases, including the demographics of students receiving such discounts, the extent to which financial aid is provided to students with limited need in order to attract a student to a particular institution, and the extent to which Federal financial aid, including loan aid, has been used to offset the costs of such practices.
+&emsp;&emsp;(C) the extent to which increases in institutional financial aid and tuition discounting practices affect tuition increases, including the demographics of students receiving such discounts, the extent to which financial aid is provided to students with limited need in order to attract a student to a particular institution, and the extent to which Federalfinancial aid, including loan aid, has been used to offset the costs of such practices.
 
 #### (3) Final report
 
@@ -100,7 +100,7 @@ The Secretary shall make available the data collected pursuant to subsection (a)
 
 #### References in Text
 
-Section 1078(a)(2)(C) of this title, referred to in subsec. (a)(3)(A)(iii)(I), was amended generally by Pub. L.105–244, title IV, §417(a)(1)(C), Oct. 7, 1998, 112 Stat. 1682, and, as so amended, provisions formerly appearing in cl. (i) are now contained in cl. (ii).
+Section 1078(a)(2)(C) of this title, referred to in subsec. (a)(3)(A)(iii)(I), was amended generally by Pub. L. 105–244, title IV, §417(a)(1)(C), Oct. 7, 1998, 112 Stat. 1682, and, as so amended, provisions formerly appearing in cl. (i) are now contained in cl. (ii).
 
 #### Prior Provisions
 
@@ -134,9 +134,13 @@ Another prior section 1016, Pub. L. 89–329, title I, §116, as added Pub. L. 9
 
 A prior section 1016a, Pub. L. 89–329, title I, §122, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1286, limited funds authorized to be appropriated, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
-A prior section 1017, Pub. L. 89–329, title I, §131, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1286; Pub. L. 102–54, §13(g)(1)(A), June 13, 1991, 105 Stat. 275, related to National Advisory Council on Continuing Education, prior to the general amendment of this subchapter by Pub. L. 102–325.
+A prior section 1017, Pub. L. 89–329, title I, §131, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat.1286; Pub. L. 102–54, §13(g)(1)(A), June 13, 1991, 105 Stat. 275, related to National Advisory Council on Continuing Education, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 Another prior section 1017, Pub. L. 89–329, title I, §117, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1382; amended Pub. L. 99–386, title I, §103(a), Aug. 22, 1986, 100 Stat. 821, related to establishment and administration of the National Advisory Council on Continuing Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
+
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Student Related Debt Study Required
 
@@ -172,7 +176,7 @@ In General.—The Secretary of Education shall conduct a study that analyzes the
 
 “(b)
 
-Report.—After conclusion of the study required by subsection (a), the Secretary of Education shall submit a final report regarding the findings of the study to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives not later than 18 months after the date of enactment of the Higher Education Amendments of 1998 \[Oct. 7, 1998\].
+Report.—After conclusion of the study required by subsection (a), the Secretary of Education shall submit a final report regarding the findings of the study to the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Education and the Workforce of the House of Representatives not later than 18 months after the date of enactment of the Higher Education Amendments of 1998 \[Oct. 7, 1998\].
 
 “(c)
 

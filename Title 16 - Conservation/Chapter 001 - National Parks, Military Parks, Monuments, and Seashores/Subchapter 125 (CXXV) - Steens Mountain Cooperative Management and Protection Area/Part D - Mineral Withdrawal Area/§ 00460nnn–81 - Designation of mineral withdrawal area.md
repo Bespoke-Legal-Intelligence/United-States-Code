@@ -2,7 +2,7 @@
 
 #### (a) Designation
 
-Subject to valid existing rights, the Federal lands and interests in lands included within the withdrawal boundary as depicted on the map referred to in section 460nnn–11(a) of this title are hereby withdrawn from—
+Subject to valid existing rights, the Federal lands and interests in lands included within thewithdrawal boundary as depicted on the map referred to in section 460nnn–11(a) of this title are hereby withdrawn from—
 
 &emsp;(1) location, entry and patent under the mining laws; and
 
@@ -21,8 +21,4 @@ The mining laws and the mineral leasing laws, referred to in subsec. (a), are cl
 Geothermal leasing laws, referred to in subsec. (a)(2), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
 
 This subchapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460nnn of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460nnn–82 of this title.
 

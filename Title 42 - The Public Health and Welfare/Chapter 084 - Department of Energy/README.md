@@ -472,7 +472,7 @@
 | [7382d.](Subchapter%20014%20%28XIV%29%20-%20Albert%20Einstein%20Distinguished%20Educator%20Fellowships/%C2%A7%2007382d%20-%20Fellowship%20awards.md) | Fellowship awards. |
 | (a) | Fellowship recipient compensation. |
 | (b) | Local educational agency. |
-| [7382e.](Subchapter%20014%20%28XIV%29%20-%20Albert%20Einstein%20Distinguished%20Educator%20Fellowships/%C2%A7%2007382e%20-%20Waste%20management%20education%20research%20consortium%20%28WERC%29.md) | Waste Management Education Research Consortium (WERC). |
+| [7382e.](Subchapter%20014%20%28XIV%29%20-%20Albert%20Einstein%20Distinguished%20Educator%20Fellowships/%C2%A7%2007382e%20-%20Waste%20management%20education%20research%20consortium%20%28WERC%29.md) | Waste management education research consortium (WERC). |
 | [7382f.](Subchapter%20014%20%28XIV%29%20-%20Albert%20Einstein%20Distinguished%20Educator%20Fellowships/%C2%A7%2007382f%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | In general. |
 | (b) | WERC program. |
@@ -552,11 +552,14 @@
 | (b) | Duties. |
 | (c) | Staff. |
 | (d) | Expenses. |
+| (e) | Security clearances. |
+| (f) | Information. |
 | [7384p.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20B%20-%20Program%20Administration/%C2%A7%2007384p%20-%20Responsibilities%20of%20Secretary%20of%20Health%20and%20Human%20Services.md) | Responsibilities of Secretary of Health and Human Services. |
 | [7384q.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20B%20-%20Program%20Administration/%C2%A7%2007384q%20-%20Designation%20of%20additional%20members%20of%20special%20exposure%20cohort.md) | Designation of additional members of special exposure cohort. |
 | (a) | Advice on additional members. |
 | (b) | Designation of additional members. |
-| (c) | Access to information. |
+| (c) | Deadlines. |
+| (d) | Access to information. |
 | [7384r.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20B%20-%20Program%20Administration/%C2%A7%2007384r%20-%20Separate%20treatment%20of%20chronic%20silicosis.md) | Separate treatment of chronic silicosis. |
 | (a) | Sense of Congress. |
 | (b) | Certification by President. |
@@ -589,6 +592,12 @@
 | (a) | Assistance for claimants. |
 | (b) | Assistance for potential claimants. |
 | (c) | Information from beryllium vendors and other contractors. |
+| [7384w.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20B%20-%20Program%20Administration/%C2%A7%2007384w%20-%20Subpoenas%3B%20oaths%3B%20examination%20of%20witnesses.md) | Subpoenas; oaths; examination of witnesses. |
+| 7384w–1. | Completion of site profiles. |
+| (a) | In general. |
+| (b) | Information. |
+| (c) | Definition. |
+| (d) | Time frames. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -603,6 +612,7 @@
 | (a) | In general. |
 | (b) | Applicability. |
 | (c) | Workers’ compensation. |
+| (d) | Applicability to part E. |
 | [7385d.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385d%20-%20Election%20of%20remedy%20for%20beryllium%20employees%20and%20atomic%20weapons%20employees.md) | Election of remedy for beryllium employees and atomic weapons employees. |
 | (a) | Effect of tort cases filed before enactment of original law. |
 | (b) | Effect of tort cases filed between enactment of original law and enactment of 2001 amendments. |
@@ -623,6 +633,11 @@
 | (a) | Forfeiture of compensation. |
 | (b) | Information. |
 | [7385j.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385j%20-%20Coordination%20with%20other%20Federal%20radiation%20compensation%20laws.md) | Coordination with other Federal radiation compensation laws. |
+| 7385j–1. | Social Security earnings information. |
+| 7385j–2. | Recovery and waiver of overpayments. |
+| (a) | In general. |
+| (b) | Waiver. |
+| (c) | Liability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -630,14 +645,64 @@
 
 |  |  |
 | :--- | ---: |
-| 7385<i>o.</i> | Agreements with States. |
-| (a) | Agreements authorized. |
-| (b) | Procedure. |
-| (c) | Submittal of applications to panels. |
-| (d) | Composition and operation of panels. |
-| (e) | Assistance. |
-| (f) | Information. |
-| (g) | GAO report. |
+| 7385<i>o.</i> | Repealed. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part E—Contractor Employee Compensation
+
+|  |  |
+| :--- | ---: |
+| [7385s.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20E%20-%20Contractor%20Employee%20Compensation/%C2%A7%2007385s%20-%20Definitions.md) | Definitions. |
+| 7385s–1. | Compensation to be provided. |
+| 7385s–2. | Compensation schedule for contractor employees. |
+| (a) | Compensation provided. |
+| (b) | Determination of minimum impairment rating. |
+| 7385s–3. | Compensation schedule for survivors. |
+| (a) | Categories of compensation. |
+| (b) | One amount only. |
+| (c) | Determination and allocation of shares. |
+| (d) | Definitions. |
+| 7385s–4. | Determinations regarding contraction of covered illnesses. |
+| (a) | Cases determined under part B. |
+| (b) | Cases determined under former part D. |
+| (c) | Other cases. |
+| (d) | Applications by spouses and children. |
+| 7385s–5. | Applicability to certain uranium employees. |
+| (a) | In general. |
+| (b) | Definitions. |
+| 7385s–6. | Administrative and judicial review. |
+| (a) | Judicial review. |
+| (b) | Administrative review. |
+| 7385s–7. | Physicians services. |
+| (a) | In general. |
+| (b) | Physicians. |
+| (c) | Arrangement. |
+| 7385s–8. | Medical benefits. |
+| 7385s–9. | Attorney fees. |
+| 7385s–10. | Administrative matters. |
+| (a) | In general. |
+| (b) | Contract authority. |
+| (c) | Records. |
+| (d) | Information. |
+| (e) | Regulations. |
+| (f) | Transition provisions. |
+| (g) | Previous applications. |
+| 7385s–11. | Coordination of benefits with respect to State workers compensation. |
+| (a) | In general. |
+| (b) | Waiver. |
+| (c) | Information. |
+| 7385s–12. | Maximum aggregate compensation. |
+| 7385s–13. | Funding of administrative costs. |
+| 7385s–14. | Payment of compensation and benefits from compensation fund. |
+| 7385s–15. | Office of Ombudsman. |
+| (a) | Establishment. |
+| (b) | Head. |
+| (c) | Duties. |
+| (d) | Independent Office. |
+| (e) | Annual report. |
+| (f) | Outreach. |
+| (g) | Sunset. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -648,10 +713,6 @@
 | 7386 to 7386k.Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 5905 of this title; title 15 section 3393; title 16 section 824a–1; title 30 section 1303; title 43 section 1331, 1866.
 
 
 ---

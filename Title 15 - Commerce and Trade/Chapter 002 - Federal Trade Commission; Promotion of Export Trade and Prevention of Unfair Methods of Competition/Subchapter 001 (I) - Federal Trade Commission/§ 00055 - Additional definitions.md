@@ -54,7 +54,3 @@ Subsec. (f). Act Mar. 16, 1950, §4(b), added subsec. (f).
 
 Amendment by act Mar. 16, 1950, effective July 1, 1950, see note set out under section 347 of Title 21, Food and Drugs.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 21 sections 347b, 352.
-

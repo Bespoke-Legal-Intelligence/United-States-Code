@@ -6,7 +6,7 @@ Data collected by the Bureau shall be used only for statistical or research purp
 
 #### Prior Provisions
 
-A prior section 304 of Pub. L. 90–351, as added by Pub. L. 96–157, was classified to section 3734 of this title prior to repeal by Pub. L. 98–473, title II, §605(c), Oct. 12, 1984, 98 Stat. 2080.
+A prior section 304 of Pub. L. 90–351, as added by Pub. L. 96–157, was classified to section 3734 of this titleprior to repeal by Pub. L. 98–473, title II, §605(c), Oct. 12, 1984, 98 Stat. 2080.
 
 Prior sections 3735 to 3739 were omitted in the general amendment of this chapter by Pub. L. 96–157.
 

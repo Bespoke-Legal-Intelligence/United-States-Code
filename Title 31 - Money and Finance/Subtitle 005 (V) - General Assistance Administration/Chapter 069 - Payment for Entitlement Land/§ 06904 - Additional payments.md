@@ -58,7 +58,3 @@ In subsection (b), the words “The Secretary shall make payments only for the 5
 
 In subsection (c), the words “The amount of . . . made . . . fiscal . . . to any unit of local government and affected school districts” are omitted as surplus. The words “by the Secretary” are added for clarity. The words “made for any fiscal year to a unit of local government under subsection (a) of this section”, “assessed and”, “full”, and “for addition to the National Park System or National Forest Wilderness Areas” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6905 of this title; title 16 sections 79<i>o</i>, 460aaa–2, 698u–4, 698v–3; title 43 section 1457a.
-

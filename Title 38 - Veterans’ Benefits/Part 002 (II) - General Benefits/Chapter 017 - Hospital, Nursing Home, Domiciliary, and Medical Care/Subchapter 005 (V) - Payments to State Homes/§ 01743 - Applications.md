@@ -14,7 +14,3 @@ Prior section 1743 was renumbered section 3543 of this title.
 
 1982—Pub. L. 97–251 struck out “of any war” after “Payments on account of any veteran”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1741 of this title.
-

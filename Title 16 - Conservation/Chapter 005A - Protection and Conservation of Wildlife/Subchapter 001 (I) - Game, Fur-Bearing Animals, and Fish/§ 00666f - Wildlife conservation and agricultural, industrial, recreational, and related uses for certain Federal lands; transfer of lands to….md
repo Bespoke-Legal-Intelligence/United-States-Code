@@ -4,7 +4,3 @@ In order to promote the orderly development and use of the lands and interests t
 
 (Aug. 5, 1947, ch. 489, §1, 61 Stat. 770.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 666g of this title.
-

@@ -10,7 +10,7 @@ Except as otherwise provided in this subchapter, a textile fiber product shall b
 
 &emsp;(1) The constituent fiber or combination of fibers in the textile fiber product, designating with equal prominence each natural or manufactured fiber in the textile fiber product by its generic name in the order of predominance by the weight thereof if the weight of such fiber is 5 per centum or more of the total fiber weight of the product, but nothing in this section shall be construed as prohibiting the use of a nondeceptive trademark in conjunction with a designated generic name: <i>Provided</i>, That exclusive of permissible ornamentation, any fiber or group of fibers present in an amount of 5 per centum or less by weight of the total fiber content shall not be designated by the generic name or the trademark of such fiber or fibers, but shall be designated only as “other fiber” or “other fibers” as the case may be, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount contained in such product.
 
-&emsp;(2) The percentage of each fiber present, by weight, in the total fiber content of the textile fiber product, exclusive of ornamentation not exceeding 5 per centum by weight of the total fiber content: <i>Provided</i>, That, exclusive of permissible ornamentation, any fiber or group of fibers present in an amount of 5 per centum orless by weight of the total fiber content shall not be designated by the generic name or trademark of such fiber or fibers, but shall be designated only as “other fiber” or “other fibers” as the case may be but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount stated: <i>Provided further</i>, That in the case of a textile fiber product which contains more than one kind of fiber, deviation in the fiber content of any fiber in such product, from the amount stated on the stamp, tag, label, or other identification shall not be a misbranding under this section unless such deviation is in excess of reasonable tolerances which shall be established by the Commission: <i>And provided further</i>, That any such deviation which exceeds said tolerances shall not be a misbranding if the person charged proves that the deviation resulted from unavoidable variations in manufacture and despite due care to make accurate the statements on the tag, stamp, label, or other identification.
+&emsp;(2) The percentage of each fiber present, by weight, in the total fiber content of the textile fiber product, exclusive of ornamentation not exceeding 5 per centum by weight of the total fiber content: <i>Provided</i>, That, exclusive of permissible ornamentation, any fiber or group of fibers present in an amount of 5 per centum or less by weight of the total fiber content shall not be designated by the generic name or trademark of such fiber or fibers, but shall be designated only as “other fiber” or “other fibers” as the case may be but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount stated: <i>Provided further</i>, That in the case of a textile fiber product which contains more than one kind of fiber, deviation in the fiber content of any fiber in such product, from the amount stated on the stamp, tag, label, or other identification shall not be a misbranding under this section unlesssuch deviation is in excess of reasonable tolerances which shall be established by the Commission: <i>And provided further</i>, That any such deviation which exceeds said tolerances shall not be a misbranding if the person charged proves that the deviation resulted from unavoidable variations in manufacture and despite due care to make accurate the statements on the tag, stamp, label, or other identification.
 
 &emsp;(3) The name, or other identification issued and registered by the Commission, of the manufacturer of the product or one or more persons subject to section 70a of this title with respect to such product.
 
@@ -44,19 +44,31 @@ For the purposes of this subchapter, a textile fiber product shall be misbranded
 
 #### (i) Mail order catalog or promotional material
 
-For the purposes of this subchapter, a textile fiber product shall be considered to be falsely or deceptively advertised in any mail order catalog or mail order promotional material which is used in the direct sale or direct offering for sale of such textile fiber product, unless such textile fiber product description states in a clear andconspicuous manner that such textile fiber product is processed or manufactured in the United States of America, or imported, or both.
+For the purposes of this subchapter, a textile fiber product shall be considered to be falsely or deceptively advertised in any mail order catalog or mail order promotional material which is used in the direct sale or direct offering for sale of such textile fiber product, unless such textile fiber product description states in a clear and conspicuous manner that such textile fiber product is processed or manufactured in the United States of America, or imported, or both.
 
 #### (j) Location of stamp, tag, label, or other identification
 
 For purposes of this subchapter, any textile fiber product shall be misbranded if a stamp, tag, label, or other identification conforming to the requirements of this section is not on or affixed to the inside center of the neck midway between the shoulder seams or, if such product does not contain a neck, in the most conspicuous place on the inner side of such product, unless it is on or affixed on the outer side of such product, or in the case of hosiery items on the outer side of such product or package.
 
-(Pub. L. 85–897, §4, Sept. 2, 1958, 72 Stat. 1719; Pub. L. 89–35, §§1, 2, June 5, 1965, 79 Stat. 124; Pub. L. 98–417, title III, §§301–303, Sept. 24, 1984, 98 Stat. 1603, 1604.)
+#### (k) Marking of certain sock products
+
+(1) Notwithstanding any other provision of law, socks provided for in subheading 6115.92.90, 6115.93.90, 6115.99.18, 6111.20.60, 6111.30.50, or 6111.90.50 of the Harmonized Tariff Schedule of the United States, as in effect on September 1, 2003, shall be marked as legibly, indelibly, and permanently as the nature of the article or package will permit in such a manner as to indicate to the ultimate consumer in the United States the English name of the country of origin of the article. The marking required by this subsection shall be on the front of the package, adjacent to the size designation of the product, and shall be set forth in such a manner as to be clearly legible, conspicuous, and readily accessible to the ultimate consumer.
+
+(2)
+
+Exceptions.—Any package that contains several different types of goods and includes socks classified under subheading 6115.92.90, 6115.93.90, 6115.99.18, 6111.20.60, 6111.30.50, or 6111.90.50 of the Harmonized Tariff Schedule of the United States, as in effect on September 1, 2003, shall not be subject to the requirements of paragraph (1).
+
+(Pub. L. 85–897, §4, Sept. 2, 1958, 72 Stat. 1719; Pub. L. 89–35, §§1, 2, June 5, 1965, 79 Stat. 124; Pub. L. 98–417, title III, §§301–303, Sept. 24, 1984, 98 Stat. 1603, 1604; Pub. L. 108–429, title II, §2004(h)(1), Dec. 3, 2004, 118 Stat. 2594.)
 
 #### References in Text
+
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (k), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 The Fur Products Labeling Act, referred to in subsec. (g), is act Aug. 8, 1951, ch. 298, 65 Stat. 175, as amended, which is classified generally to subchapter IV (§69 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 69 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (k). Pub. L. 108–429 added subsec. (k).
 
 1984—Subsec. (b)(5). Pub. L. 98–417, §301, added par. (5).
 
@@ -68,11 +80,11 @@ Subsecs. (i), (j). Pub. L. 98–417, §303, added subsecs. (i) and (j).
 
 Subsec. (b)(2). Pub. L. 89–35, §2, inserted “, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount stated”.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–429, title II, §2004(h)(2), Dec. 3, 2004, 118 Stat. 2594, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date that is 15 months after the date of enactment of this Act \[Dec. 3, 2004\], and on and after the date that is 15 months after such date of enactment, any provision of part 303 of title 16, Code of Federal Regulations, that is inconsistent with such amendment shall not apply.”
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–417 effective 90 days after Sept. 24, 1984, see section 307 of Pub. L. 98–417, set out as a note under section 68b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 70a, 70c, 70g, 70j of this title.
 

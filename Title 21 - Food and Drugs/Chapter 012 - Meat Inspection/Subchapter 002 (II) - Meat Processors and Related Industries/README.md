@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—MEAT PROCESSORS AND RELATED INDUSTRIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 607, 661, 672, 673 of this title.
-
 
 ---
 

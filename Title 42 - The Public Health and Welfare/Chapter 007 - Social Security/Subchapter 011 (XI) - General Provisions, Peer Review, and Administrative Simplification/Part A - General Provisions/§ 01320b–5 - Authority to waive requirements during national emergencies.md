@@ -6,7 +6,7 @@ The purpose of this section is to enable the Secretary to ensure to the maximum 
 
 &emsp;(1) that sufficient health care items and services are available to meet the needs of individuals in such area enrolled in the programs under subchapters XVIII, XIX, and XXI of this chapter; and
 
-&emsp;(2) that health care providers (as defined in subsection (g)(2) of this section) that furnish such items and services in good faith, but thatare unable to comply with one or more requirements described in subsection (b) of this section, may be reimbursed for such items and services and exempted from sanctions for such noncompliance, absent any determination of fraud or abuse.
+&emsp;(2) that health care providers (as defined in subsection (g)(2) of this section) that furnish such items and services in good faith, but that are unable to comply with one or more requirements described in subsection (b) of this section, may be reimbursed for such items and services and exempted from sanctions for such noncompliance, absent any determination of fraud or abuse.
 
 #### (b) Secretarial authority
 
@@ -20,15 +20,35 @@ To the extent necessary to accomplish the purpose specified in subsection (a) of
 
 &emsp;(2) requirements that physicians and other health care professionals be licensed in the State in which they provide such services, if they have equivalent licensing in another State and are not affirmatively excluded from practice in that State or in any State a part of which is included in the emergency area;
 
-&emsp;(3) sanctions under section 1395dd of this title (relating to examination and treatment for emergency medical conditions and women in labor) for a transfer of an individual who has not been stabilized in violation of subsection (c) of this section of such section if the transfer arises out of the circumstances of the emergency;
+&emsp;(3) actions under section 1395dd of this title (relating to examination and treatment for emergency medical conditions and women in labor) for—
+
+&emsp;&emsp;(A) a transfer of an individual who has not been stabilized in violation of subsection (c) of such section if the transfer is necessitated by the circumstances of the declared emergency in the emergency area during the emergency period; or
+
+&emsp;&emsp;(B) the direction or relocation of an individual to receive medical screening in an alternate location pursuant to an appropriate State emergency preparedness plan;
 
 &emsp;(4) sanctions under section 1395nn(g) of this title (relating to limitations on physician referral);
 
-&emsp;(5) deadlines and timetables for performance of required activities, except that such deadlines and timetables may only be modified, not waived; and
+&emsp;(5) deadlines and timetables for performance of required activities, except that such deadlines and timetables may only be modified, not waived;
 
-&emsp;(6) limitations on payments under section 1395w–21(i) of this title for health care items and services furnished to individuals enrolled in a Medicare+Choice plan by health care professionals or facilities not included under such plan.
+&emsp;(6) limitations on payments under section 1395w–21(i) of this title for health care items and services furnished to individuals enrolled in a Medicare+Choice plan by health care professionals or facilities not included under such plan; and
 
-> Insofar as the Secretary exercises authority under paragraph (6) with respect to individuals enrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation payment it receives under part C of subchapter XVIII of this chapter.
+&emsp;(7) sanctions and penalties that arise from noncompliance with the following requirements (as promulgated under the authority of section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note)— <sup>1</sup>
+
+&emsp;&emsp;(A) section 164.510 of title 45, Code of Federal Regulations, relating to—
+
+&emsp;&emsp;&emsp;(i) requirements to obtain a patient's agreement to speak with family members or friends; and
+
+&emsp;&emsp;&emsp;(ii) the requirement to honor a request to opt out of the facility directory;
+
+&emsp;&emsp;(B) section 164.520 of such title, relating to the requirement to distribute a notice; or
+
+&emsp;&emsp;(C) section 164.522 of such title, relating to—
+
+&emsp;&emsp;&emsp;(i) the patient's right to request privacy restrictions; and
+
+&emsp;&emsp;&emsp;(ii) the patient's right to request confidential communications.
+
+> Insofar as the Secretary exercises authority under paragraph (6) with respect to individuals enrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation payment it receives under part C of subchapter XVIII of this chapter. A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider.
 
 #### (c) Authority for retroactive waiver
 
@@ -86,11 +106,13 @@ For purposes of this section:
 
 &emsp;The term “health care provider” means any entity that furnishes health care items or services, and includes a hospital or other provider of services, a physician or other health care practitioner or professional, a health care facility, or a supplier of health care items or services.
 
-(Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 107–188, title I, §143(a), June 12, 2002, 116 Stat. 627.)
+(Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 107–188, title I, §143(a), June 12, 2002, 116 Stat. 627; amended Pub. L. 108–276, §9, July 21, 2004, 118 Stat. 863.)
 
 #### References in Text
 
 Part C of subchapter XVIII of this chapter, referred to in subsec. (b), is classified to section 1395w–21 et seq. of this title.
+
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(7), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
 The National Emergencies Act, referred to in subsec. (g)(1)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
@@ -100,6 +122,14 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 A prior section 1320b–5, act Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 97–35, title XXI, §2173(c), Aug. 13, 1981, 95 Stat. 809; amended Pub. L. 97–248, title I, §101(b)(3), Sept. 3, 1982, 96 Stat. 335; Pub. L. 99–509, title IX, §9343(f), Oct. 21, 1986, 100 Stat. 2041; Pub. L. 100–203, title IV, §4068(b), Dec. 22, 1987, 101 Stat. 1330–114; Pub. L. 100–360, title IV, §411(g)(6), July 1, 1988, 102 Stat. 785; Pub. L. 103–432, title I, §147(c)(2), Oct. 31, 1994, 108 Stat. 4429, related to development of model prospective rate methodology, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(<i>l</i>)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, effective Nov. 29, 1999.
 
+#### Amendments
+
+2004—Subsec. (b). Pub. L. 108–276, §9(5), inserted at end of concluding provisions: “A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider.”
+
+Subsec. (b)(3). Pub. L. 108–276, §9(1), added par. (3) and struck out former par. (3) which read as follows: “sanctions under section 1395dd of this title (relating to examination and treatment for emergency medical conditions and women in labor) for a transfer of an individual who has not been stabilized in violation of subsection (c) of this section of such section if the transfer arises out of the circumstances of the emergency;”.
+
+Subsec. (b)(7). Pub. L. 108–276, §9(2)–(4), added par. (7).
+
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
@@ -107,4 +137,6 @@ References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subje
 #### Effective Date
 
 Pub. L. 107–188, title I, §143(b), June 12, 2002, 116 Stat. 629, provided that: “The amendment made by subsection (a) \[enacting this section\] shall be effective on and after September 11, 2001.”
+
+<i><sup>1</sup></i><i> So in original. A second closing parenthesis probably should precede the dash.</i>
 

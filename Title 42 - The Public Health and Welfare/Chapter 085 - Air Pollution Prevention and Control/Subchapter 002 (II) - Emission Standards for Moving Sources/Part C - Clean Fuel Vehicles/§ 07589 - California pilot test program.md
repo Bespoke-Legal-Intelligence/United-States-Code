@@ -14,7 +14,7 @@ Not later than 24 months after November 15, 1990, the Administrator shall promul
 
 #### (1) Clean-fuel vehicles
 
-&emsp;Clean-fuel vehicles shall be produced, sold, and distributed (in accordance with normal business practices and applicable franchise agreements) to ultimate purchasers in California (including owners of covered fleets referred to in section 7586 of this title) in numbers that meet or exceed the following schedule:
+&emsp;Clean-fuel vehicles shall be produced, sold, and distributed (in accordance with normalbusiness practices and applicable franchise agreements) to ultimate purchasers in California (including owners of covered fleets referred to in section 7586 of this title) in numbers that meet or exceed the following schedule:
 
 &nbsp;
 
@@ -43,7 +43,7 @@ Not later than 24 months after November 15, 1990, the Administrator shall promul
 
 &emsp;(A) The sale of more clean-fuel vehicles than required under subsection (c)(1) of this section.
 
-&emsp;(B) The sale of clean fuel <sup>1</sup> vehicles which meet standards established by the Administrator as provided in paragraph (3) which are more stringent than the clean-fuel vehicle standards otherwise applicable to such clean-fuel vehicle. A manufacturer granted credits under this paragraph may transfer some or allof the credits for use by one or more other manufacturers in demonstrating compliance with the requirements prescribed under this paragraph. The Administrator may make the credits available for use after consideration of enforceability, environmental, and economic factors and upon such terms and conditions as he finds appropriate. The Administrator shall grant credits in accordance with this paragraph, notwithstanding any requirements of State law or any credits granted with respect to the same vehicles under any State law, rule, or regulation.
+&emsp;(B) The sale of clean fuel <sup>1</sup> vehicles which meet standards established by the Administrator as provided in paragraph (3) which are more stringent than the clean-fuel vehicle standards otherwise applicable to such clean-fuel vehicle. A manufacturer granted credits under this paragraph may transfer some or all of the credits for use by one or more other manufacturers in demonstrating compliance with the requirements prescribed under this paragraph. The Administrator may make the credits available for use after consideration of enforceability, environmental, and economic factors and upon such terms and conditions as he finds appropriate. The Administrator shall grant credits in accordance with this paragraph, notwithstanding any requirements of State law or any credits granted with respect to the same vehicles under any State law, rule, or regulation.
 
 (2)
 
@@ -55,7 +55,7 @@ Standards for issuing credits for cleaner vehicles.—The more stringent standar
 
 #### (e) Program evaluation
 
-(1) Not later than June 30, 1994 and again in connection with the report under paragraph (2), the Administrator shall provide a report to the Congress on the status of the California Air Resources Board Low-Emissions Vehicles and Clean Fuels Program. Such report shall examine the capability, from a technological standpoint, of motor vehicle manufacturers and motor vehicle fuel suppliers to comply with the requirements of such program and with the requirements of the California Pilot Program under this section.
+(1) Not later than June 30, 1994 and again in connection with the report under paragraph (2), the Administrator shall provide a report to the Congress on the status of the California Air Resources Board Low-Emissions Vehicles andClean Fuels Program. Such report shall examine the capability, from a technological standpoint, of motor vehicle manufacturers and motor vehicle fuel suppliers to comply with the requirements of such program and with the requirements of the California Pilot Program under this section.
 
 (2) Not later than June 30, 1998, the Administrator shall complete and submit a report to Congress on the effectiveness of the California pilot program under this section. The report shall evaluate the level of emission reductions achieved under the program, the costs of the program, the advantages and disadvantages of extending the program to other nonattainment areas, and desirability of continuing or expanding the program in California.
 
@@ -97,7 +97,7 @@ Standards for issuing credits for cleaner vehicles.—The more stringent standar
 
 #### References in Text
 
-The Solid Waste Disposal Act, referred to in subsec. (c)(2)(D), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle I of the Act is classified generally to subchapter IX (§6991 et seq.) of chapter 82 of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (c)(2)(D), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle I of the Act is classified generally to subchapter IX (§6991 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 November 15, 1990, referred to in subsec. (e)(3), was in the original “the date of the Clean Air Act Amendments of 1990”, which was translated as meaning the date of enactment of Pub. L. 101–549, which enacted this section, to reflect the probable intent of Congress.
 

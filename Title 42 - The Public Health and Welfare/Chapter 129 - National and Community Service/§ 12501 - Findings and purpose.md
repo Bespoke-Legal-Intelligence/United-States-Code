@@ -12,7 +12,7 @@ The Congress finds the following:
 
 &emsp;(4) Americans of all ages can improve their communities and become better citizens through service to the United States.
 
-&emsp;(5) Nonprofit organizations, local governments, States, and the Federal Government are already supporting a wide variety of national service programs that deliver needed services in a cost-effective manner.
+&emsp;(5) Nonprofit organizations, local governments, States, and the Federal Governmentare already supporting a wide variety of national service programs that deliver needed services in a cost-effective manner.
 
 &emsp;(6) Residents of low-income communities, especially youth and young adults, can be empowered through their service, and can help provide future community leadership.
 
@@ -60,7 +60,7 @@ Section 1(a) of Pub. L. 103–82 provided that: “This Act \[see Tables for cla
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–384, §1, Oct. 5, 1992, 106 Stat. 1455, provided that: “This Act \[amending sections 12511, 12522, 12523, 12525, 12526, 12541, 12550, 12612, 12614, 12615, 12622, 12639,12651, and 12681 of this title\] may be cited as the ‘National and Community Service Technical Amendment Act of 1992’.”
+Pub. L. 102–384, §1, Oct. 5, 1992, 106 Stat. 1455, provided that: “This Act \[amending sections 12511, 12522, 12523, 12525, 12526, 12541, 12550, 12612, 12614, 12615, 12622, 12639, 12651, and 12681 of this title\] may be cited as the ‘National and Community Service Technical Amendment Act of 1992’.”
 
 #### Short Title of 1991 Amendment
 
@@ -206,7 +206,7 @@ Volunteer service in support of other initiatives, consistent with U.S. foreign 
 
 Sec. 2. <i>Establishment</i>. (a) Agencies subject to this order shall each establish within their respective organizations an Office for Volunteers for Prosperity (Office) or, as appropriate, an operating unit within an office.
 
-(b) Each agency subject to this order shall provide its Office or unit with appropriate staff, administrativesupport, and resources to meet its responsibilities under this order.
+(b) Each agency subject to this order shall provide its Office or unit with appropriate staff, administrative support, and resources to meet its responsibilities under this order.
 
 (c) Each of these Offices or units shall begin operations no later than 30 days from the date of this order.
 

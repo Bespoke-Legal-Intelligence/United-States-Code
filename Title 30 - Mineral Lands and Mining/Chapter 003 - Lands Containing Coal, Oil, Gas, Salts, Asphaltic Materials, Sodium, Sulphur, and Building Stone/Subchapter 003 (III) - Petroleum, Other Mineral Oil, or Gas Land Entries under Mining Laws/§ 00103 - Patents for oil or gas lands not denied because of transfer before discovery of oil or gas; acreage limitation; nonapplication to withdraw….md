@@ -8,7 +8,3 @@ In no case shall patent be denied to or for any lands located or claimed prior t
 
 The mining laws of the United States, referred to in text, are classified generally to this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 104 of this title.
-

@@ -48,7 +48,7 @@ The Panel is authorized to appoint as many administrative law judges as are nece
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (a)(4) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title.
+“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (a)(4) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 
 “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (a) and “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
@@ -59,8 +59,4 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (f)(2) of this section relating to transmitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 114 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 865 of this title.
 

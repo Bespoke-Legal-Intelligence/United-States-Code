@@ -14,7 +14,7 @@ The full faith and credit of the United States is pledged to the payment of all 
 
 #### (d) Collection of fees
 
-The Administration shall not collect a fee for any guarantee under this section: <i>Provided</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (f)(2) of this section.
+The Administration shall not collect a fee for any guarantee under this section: <i>Provided</i>, Thatnothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (f)(2) of this section.
 
 #### (e) Subrogation rights; ownership rights in debentures or participating securities
 
@@ -46,7 +46,7 @@ A prior section 319 of Pub. L. 85–699, which amended section 80a–18 of this 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208, §208(h)(1)(F)(i), struck out “, including companies operating under theauthority of section 681(d) of this title,” after “investment companies”.
+1996—Subsec. (a). Pub. L. 104–208, §208(h)(1)(F)(i), struck out “, including companies operating under the authority of section 681(d) of this title,” after “investment companies”.
 
 Subsec. (f)(1). Pub. L. 104–208, §205(b)(1), struck out at end “Such central registration shall include with respect to each sale—
 
@@ -90,9 +90,5 @@ Section 18005(b) of Pub. L. 99–272 provided that:
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 
-Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 687m of this title.
+Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or tootherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 

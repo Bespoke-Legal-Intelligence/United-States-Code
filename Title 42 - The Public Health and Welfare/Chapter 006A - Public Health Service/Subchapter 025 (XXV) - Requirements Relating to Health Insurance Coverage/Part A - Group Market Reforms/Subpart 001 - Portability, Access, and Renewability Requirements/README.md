@@ -1,9 +1,5 @@
 subpart 1—portability, access, and renewability requirements
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 300gg–21 of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 
 

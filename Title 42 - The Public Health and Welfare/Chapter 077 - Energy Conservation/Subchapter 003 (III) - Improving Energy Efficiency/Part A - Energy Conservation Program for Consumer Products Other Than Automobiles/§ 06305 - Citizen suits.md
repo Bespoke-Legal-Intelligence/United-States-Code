@@ -42,7 +42,7 @@ Nothing in this section shall restrict any right which any person (or class of p
 
 For purposes of this section, if a manufacturer or private labeler complied in good faith with a rule under this part, then he shall not be deemed to have violated any provision of this part by reason of the alleged invalidity of such rule.
 
-(Pub. L. 94–163, title III, §335, Dec. 22, 1975, 89 Stat. 930; Pub. L. 95–619, title IV, §425(f), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3266, 3288; Pub. L. 100–12, §§8, 11(b)(7), Mar. 17, 1987, 101 Stat. 122, 126.)
+(Pub. L. 94–163, title III, §335, Dec. 22, 1975, 89 Stat. 930; Pub. L. 95–619, title IV, §425(f), titleVI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3266, 3288; Pub. L. 100–12, §§8, 11(b)(7), Mar. 17, 1987, 101 Stat. 122, 126.)
 
 #### Amendments
 
@@ -53,8 +53,4 @@ Subsecs. (b) to (f). Pub. L. 100–12, §11(b)(7), inserted headings for subsecs
 1978—Subsec. (a). Pub. L. 95–619, §425(f), struck out provision in par. (1) which excluded sections 6295 and 6302(a)(5) of this title and rules thereunder, struck out provision in par. (2) which excluded any act or duty under section 6295 or 6302(a)(5) of this title, and inserted provision giving district courts jurisdiction to order Federal agencies to perform particular acts or duties under this part.
 
 Subsecs. (b), (c), (e). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6316 of this title.
 

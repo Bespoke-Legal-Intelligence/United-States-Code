@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—SENIOR EXECUTIVE SERVICE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 7701 of this title; title 38 section 7425.
-
 
 ---
 

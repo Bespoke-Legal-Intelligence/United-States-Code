@@ -8,7 +8,3 @@ An eligible veteran shall receive the benefits of this chapter while enrolled in
 
 1991—Pub. L. 102–83 renumbered section 1683 of this title as this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3034, 3241, 3670 of this title; title 10 section 16136.
-

@@ -50,7 +50,7 @@ Alternative Sentence Precluded.—At the time a defendant is sentenced to pay a 
 
 (f)
 
-Responsibility for Payment of Monetary Obligation Relating to Organization.—If asentence includes a fine, special assessment, restitution or other monetary obligation (including interest) with respect to an organization, each individual authorized to make disbursements for the organization has a duty to pay the obligation from assets of the organization. If such an obligation is imposed on a director, officer, shareholder, employee, or agent of an organization, payments may not be made, directly or indirectly, from assets of the organization, unless the court finds that such payment is expressly permissible under applicable State law.
+Responsibility for Payment of Monetary Obligation Relating to Organization.—If a sentence includes a fine, special assessment, restitution or other monetary obligation (including interest) with respect to an organization, each individual authorized to make disbursements for the organization has a duty to pay the obligation from assets of the organization. If such an obligation is imposed on a director, officer, shareholder, employee, or agent of an organization, payments may not be made, directly or indirectly, from assets of the organization, unless the court finds that such payment is expressly permissible under applicable State law.
 
 (g)
 
@@ -92,7 +92,7 @@ Subsec. (f). Pub. L. 104–132, §207(b)(3), inserted “restitution” after �
 
 Subsec. (h). Pub. L. 104–132, §207(b)(4), inserted “or payment of restitution” after “A fine”.
 
-Subsec. (i). Pub. L. 104–132, §207(b)(5), inserted “or payment of restitution” after “A fine” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “When a fine is in default, the entire amount of the fine is due within 30 days after notification of the default, notwithstanding any installment schedule.”
+Subsec. (i). Pub. L. 104–132, §207(b)(5), inserted “or payment of restitution” after “A fine” in first sentenceand amended second sentence generally. Prior to amendment, second sentence read as follows: “When a fine is in default, the entire amount of the fine is due within 30 days after notification of the default, notwithstanding any installment schedule.”
 
 1994—Subsec. (a)(6) to (8). Pub. L. 103–322 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
@@ -107,8 +107,4 @@ Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permi
 #### Effective Date
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1031, 3612, 3664 of this title; title 28 section 994.
 

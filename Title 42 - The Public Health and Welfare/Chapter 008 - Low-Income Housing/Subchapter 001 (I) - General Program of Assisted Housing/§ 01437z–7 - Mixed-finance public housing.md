@@ -62,7 +62,7 @@ Each mixed-finance project shall be developed—
 
 #### (g) Use of savings
 
-Notwithstanding any other provision of this chapter, to the extent deemed appropriate bythe Secretary, to facilitate the establishment of socioeconomically mixed communities, a public housing agency that uses assistance from the Capital Fund for a mixed-finance project, to the extent that income from such a project reduces the amount of assistance used for operating or other costs relating to public housing, may use such resulting savings to rent privately developed dwelling units in the neighborhood of the mixed-finance project. Such units shall be made available for occupancy only by low-income families eligible for residency in public housing.
+Notwithstanding any other provision of this chapter, to the extent deemed appropriate by the Secretary, to facilitate the establishment of socioeconomically mixed communities, a public housing agency that uses assistance from the Capital Fund for a mixed-finance project, to the extent that income from such a project reduces the amount of assistance used for operating or other costs relating to public housing, may use such resulting savings to rent privately developed dwelling units in the neighborhood of the mixed-finance project. Such units shall be made available for occupancy only by low-income families eligible for residency in public housing.
 
 #### (h) Effect of certain contract terms
 
@@ -77,8 +77,4 @@ Section effective and applicable beginning upon Oct. 1, 1999, except as otherwis
 #### Regulations
 
 Pub. L. 105–276, title V, §539(b), Oct. 21, 1998, 112 Stat. 2596, provided that: “The Secretary shall issue such regulations as may be necessary to promote the development of mixed-finance projects, as that term is defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\] (as amended by this Act).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1437a of this title.
 

@@ -90,7 +90,7 @@ Section 1 of Pub. L. 91–346 provided: “That this Act \[amending this section
 
 #### Short Title
 
-Section 1 of Pub. L. 89–209, as renumbered title I, §1, and amended by Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §1 and amended by Pub. L. 99–194, title I, §101, Dec. 20, 1985, 99 Stat. 1332, provided that: “This Act \[enacting this subchapter, amending sections 784 to 786 of this title, repealing section 789 of this title, and enacting provisions formerly set out as a note under section 785 of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Act of 1965’.”
+Section 1 of Pub. L. 89–209, as renumbered title I, §1, and amended by Pub. L. 98–306, §2, May 31, 1984, 98 Stat.223; renumbered §1 and amended by Pub. L. 99–194, title I, §101, Dec. 20, 1985, 99 Stat. 1332, provided that: “This Act \[enacting this subchapter, amending sections 784 to 786 of this title, repealing section 789 of this title, and enacting provisions formerly set out as a note under section 785 of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Act of 1965’.”
 
 #### Sense of Congress Regarding Purchase of American-Made Equipment and Products
 

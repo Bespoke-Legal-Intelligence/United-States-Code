@@ -214,7 +214,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 (2) The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Loan Repayment Program whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
 
-(3) The Secretary may waive, in whole or in part, the rights of the United States to recoveramounts under this section in any case of extreme hardship or other good cause shown, as determined by the Secretary.
+(3) The Secretary may waive, in whole or in part, the rights of the United States to recover amounts under this section in any case of extreme hardship or other good cause shown, as determined by the Secretary.
 
 (4) Any obligation of an individual under the Loan Repayment Program for payment of damages may be released by a discharge in bankruptcy under title 11 only if such discharge is granted after the expiration of the 5-year period beginning on the first date that payment of such damages is required, and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable.
 
@@ -278,7 +278,7 @@ Subsec. (g)(1). Pub. L. 102–573, §106(e), in introductory provisions, substit
 
 Subsec. (g)(2)(A). Pub. L. 102–573, §106(f), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (B) and paragraph (3), for each year of obligated service for which an individual contracts to serve under subsection (f) of this section, the Secretary may pay up to $25,000 on behalf of the individual for loans described in paragraph (1).”
 
-Subsec. (g)(3). Pub. L. 102–573, §106(g)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In addition to payments made under paragraph (2), in any case in which payments on behalf of an individual under the Loan Repayment Program result in an increase in Federal, State, or local income tax liability for such individual, the Secretary may, on the request of such individual, make payments to such individualin a reasonable amount, as determined by the Secretary, to reimburse such individual for all or part of the increased tax liability of the individual.”
+Subsec. (g)(3). Pub. L. 102–573, §106(g)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In addition to payments made under paragraph (2), in any case in which payments on behalf of an individual under the Loan Repayment Program result in an increase in Federal, State, or local income tax liability for such individual, the Secretary may, on the request of such individual, make payments to such individual in a reasonable amount, as determined by the Secretary, to reimburse such individual for all or part of the increased tax liability of the individual.”
 
 Subsec. (i). Pub. L. 102–573, §902(2)(D), substituted “health professional programs of the Service” for “Service manpower programs”.
 
@@ -291,10 +291,6 @@ Subsec. (<i>o</i>). Pub. L. 102–573, §117(b)(3), struck out subsec. (<i>o</i>
 #### Effective Date of 1992 Amendment
 
 Section 106(g)(2) of Pub. L. 102–573 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to contracts under section 108 of the Indian Health Care Improvement Act \[this section\] entered into on or after the date of enactment of this Act \[Oct. 29, 1992\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1613a, 1616a–1, 1616b, 1616c, 1616d, 1616j, 1616k, 1616m, 1621h, 1671 of this title; title 42 section 292d.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

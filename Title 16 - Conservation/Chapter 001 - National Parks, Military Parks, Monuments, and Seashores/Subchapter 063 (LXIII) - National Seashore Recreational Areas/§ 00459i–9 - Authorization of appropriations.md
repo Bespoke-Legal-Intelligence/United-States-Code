@@ -8,7 +8,3 @@ There are authorized to be appropriated not to exceed $28,500,000 for the acquis
 
 1978—Pub. L. 95–625 substituted “$28,500,000” for “$10,500,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459i–2, 459i–5, 459i–6, 459i–7 of this title.
-

@@ -48,10 +48,6 @@ The Secretary shall offer to any State, Indian tribe or unit of local government
 
 1987—Subsec. (d). Pub. L. 100–202 and Pub. L. 100–203 amended section identically, adding subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10121, 10136, 10138, 10161, 10243 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “locating”.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>

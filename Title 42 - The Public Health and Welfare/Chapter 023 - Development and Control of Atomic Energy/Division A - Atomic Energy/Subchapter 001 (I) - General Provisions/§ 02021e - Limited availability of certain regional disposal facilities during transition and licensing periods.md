@@ -14,7 +14,7 @@
 
 &emsp;(A) During the seven-year period beginning January 1, 1986 and ending December 31, 1992, low-level radioactive waste generated within a sited compact region shall be accorded priority under this section in the allocation of available disposal capacity at a regional disposal facility referred to in paragraphs (1) through (3) of subsection (b) of this section and located in the sited compact region in which such waste is generated.
 
-&emsp;(B) Any State in which a regional disposal facility referred to in paragraphs (1) through (3) of subsection (b) of this section is located may, subject to the provisions of its compact, prohibit the disposal at such facility of low-level radioactive waste generated outside of the compact region if the disposal of such waste in any given calendar year, together with all other low-level radioactive waste disposed of at such facility within that same calendar year, would result in that facility disposing of a total annual volume of low-level radioactive waste in excess of 100 per centum of the average annual volume for such facility designated in subsection (b) of this section: <i>Provided, however</i>, That in the event that all three States in which regional disposal facilities referred to in paragraphs (1) through (3) of subsection (b) of this section act to prohibit the disposal of low-level radioactive waste pursuant to this subparagraph, each such State shall, in accordance with any applicable procedures of its compact, permit, as necessary, the disposal of additional quantities ofsuch waste in increments of 10 per centum of the average annual volume for each such facility designated in subsection (b) of this section.
+&emsp;(B) Any State in which a regional disposal facility referred to in paragraphs (1) through (3) of subsection (b) of this section is located may, subject to the provisions of its compact, prohibit the disposal at such facility of low-level radioactive waste generated outside of the compact region if the disposal of such waste in any given calendar year, together with all other low-level radioactive waste disposed of at such facility within that same calendar year, would result in that facility disposing of a total annual volume of low-level radioactive waste in excess of 100 per centum of the average annual volume for such facility designated in subsection (b) of this section: <i>Provided, however</i>, That in the event that all three States in which regional disposal facilities referred to in paragraphs (1) through (3) of subsection (b) of this section act to prohibit the disposal of low-level radioactive waste pursuant to this subparagraph, each such State shall, in accordance with any applicable procedures of its compact, permit, as necessary, the disposal of additional quantities of such waste in increments of 10 per centum of the average annual volume for each such facility designated in subsection (b) of this section.
 
 &emsp;(C) Nothing in this paragraph shall require any disposal facility or State referred to in paragraphs (1) through (3) of subsection (b) of this section to accept for disposal low-level radioactive waste in excess of the total amounts designated in subsection (b) of this section.
 
@@ -188,7 +188,7 @@ January 1, 1990.—The twenty-five per centum of any amount collected by a State
 
 &emsp;&emsp;(E) The Nuclear Regulatory Commission shall transmit any certification received under subparagraph (C) to the Congress and publish any such certification in the Federal Register.
 
-&emsp;&emsp;(F) Any State may, subject to all applicable provisions, if any, of any applicable compact, enter into an agreement with the compact commission of a region in which a regional disposal facility is located to provide for the disposal of all low-level radioactive waste generated within such State, and, by virtue of such agreement, may, with the approval of the State in which the regional disposal facility is located, be deemed to be in compliance with subparagraphs (A), (B), (C), and (D).
+&emsp;&emsp;(F) Any State may, subject to all applicable provisions, if any, of any applicable compact, enter into an agreement with the compact commission of a region in which a regional disposal facility is located to provide for the disposal of all low-level radioactive waste generated within such State, and, byvirtue of such agreement, may, with the approval of the State in which the regional disposal facility is located, be deemed to be in compliance with subparagraphs (A), (B), (C), and (D).
 
 #### (2) Penalties for failure to comply
 
@@ -218,7 +218,7 @@ January 1, 1990.—The twenty-five per centum of any amount collected by a State
 
 #### (D) By January 1, 1992
 
-&emsp;&emsp;If any non-sited compact region or non-member State fails to comply with paragraph (1)(D), any generator of low-level radioactive waste within such region or non-member State shall, for the period beginning January 1, 1992 and ending upon the filing of the application described in paragraph (1)(D), be charged 3 times the surchargeotherwise applicable under subsection (d) of this section.
+&emsp;&emsp;If any non-sited compact region or non-member State fails to comply with paragraph (1)(D), any generator of low-level radioactive waste within such region or non-member State shall, for the period beginning January 1, 1992 and ending upon the filing of the application described in paragraph (1)(D), be charged 3 times the surcharge otherwise applicable under subsection (d) of this section.
 
 #### (3) Denial of access
 
@@ -273,10 +273,6 @@ Except as provided in subsections (b) through (e) of this section, low-level rad
 #### Codification
 
 Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2021b, 2021c, 2021d, 2021f, 2021g, 2023 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 

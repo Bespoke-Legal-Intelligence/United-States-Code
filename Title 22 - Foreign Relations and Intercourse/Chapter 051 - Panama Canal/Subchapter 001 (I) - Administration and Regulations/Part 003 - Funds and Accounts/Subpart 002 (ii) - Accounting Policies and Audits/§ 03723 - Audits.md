@@ -12,7 +12,7 @@ At the discretion of the Board provided for in section 3612 of this title, the C
 
 #### (d) Examination and report on Commission's financial forecast
 
-In addition to auditing the financial statements of the Commission, the Comptroller General (or the independent auditor if one is employed pursuant to subsection (c) of this section) shall, in accordance with standards for an examination of a financial forecast established by the American Institute of Certified Public Accountants, examine and report on the Commission's financial forecast that it will be in a position to meet its financial liabilities on December 31, 1999.
+In addition to auditing the financial statements of the Commission, the Comptroller General (or the independent auditor if one is employed pursuant to subsection (c) of this section)shall, in accordance with standards for an examination of a financial forecast established by the American Institute of Certified Public Accountants, examine and report on the Commission's financial forecast that it will be in a position to meet its financial liabilities on December 31, 1999.
 
 (Pub. L. 96–70, title I, §1313, Sept. 27, 1979, 93 Stat. 479; Pub. L. 104–106, div. C, title XXXV, §3526(a), Feb. 10, 1996, 110 Stat. 640; Pub. L. 104–201, div. C, title XXXV, §§3541(b), 3546(a)(9), (b), Sept. 23, 1996, 110 Stat. 2867, 2868; Pub. L. 105–261, div. C, title XXXV, §3512(a)(3), Oct. 17, 1998, 112 Stat. 2271.)
 
@@ -22,7 +22,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Codification
 
-Subsec. (b) of this section, which required the Comptroller General, not later than six months after the endof each fiscal year, to submit to Congress a report of the audit conducted pursuant to subsec. (a) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 4 of House Document No. 103–7.
+Subsec. (b) of this section, which required the Comptroller General, not later than six months after the end of each fiscal year, to submit to Congress a report of the audit conducted pursuant to subsec. (a) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 4 of House Document No. 103–7.
 
 #### Amendments
 

@@ -8,7 +8,3 @@ Until a new tribal constitution and bylaws are adopted and become effective unde
 
 1996—Pub. L. 104–109 substituted “Interim Council shall meet” for “Interim council shall meet” in last sentence.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300<i>l</i>–6 of this title.
-

@@ -26,9 +26,5 @@ Subsec. (b)(ii). Pub. L. 100–301, §4(f)(2)(A), inserted “with respect to th
 
 Pub. L. 100–301, §4(f)(2)(B), which directed insertion of “or January 1, 1986, as the case may be,” after “November 23, 1971,” the second and third places it appears, was executed by making the insertion after “November 23, 1971,” the second place it appears and after “November 23, 1971” preceding the period as the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698f, 698g, 698i, 698j, 698m of this title.
-
 <i><sup>1</sup></i><i> See 1988 Amendment note below.</i>
 

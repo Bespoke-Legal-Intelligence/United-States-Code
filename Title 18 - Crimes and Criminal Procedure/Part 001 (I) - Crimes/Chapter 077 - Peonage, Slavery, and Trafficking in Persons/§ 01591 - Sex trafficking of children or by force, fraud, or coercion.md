@@ -40,7 +40,3 @@ Subsec. (b). Pub. L. 108–193, §5(a)(3), substituted “the person recruited, 
 
 Subsec. (b)(2). Pub. L. 108–21 substituted “40” for “20”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1592, 1594, 1595, 1961, 2423, 2516, 3142, 3553, 3583 of this title; title 8 section 1101; title 22 section 7103.
-

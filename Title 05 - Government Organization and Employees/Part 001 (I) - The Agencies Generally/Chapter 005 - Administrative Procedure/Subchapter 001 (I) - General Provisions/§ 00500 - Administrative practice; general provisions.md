@@ -20,7 +20,7 @@
 
 &emsp;(4) prevent an agency from requiring a power of attorney as a condition to the settlement of a controversy involving the payment of money.
 
-(e) Subsections (b)–(d) of this section do not apply to practice before the United States Patent and Trademark Office with respect to patent matters that continue to be covered by chapter 3 (sections 31–33) of title 35.
+(e) Subsections (b)–(d) of this section do not apply to practice before the United States Patent and Trademark Office with respect to patentmatters that continue to be covered by chapter 3 (sections 31–33) of title 35.
 
 (f) When a participant in a matter before an agency is represented by an individual qualified under subsection (b) or (c) of this section, a notice or other written communication required or permitted to be given the participant in the matter shall be given to the representative in addition to any other service specifically required by statute. When a participant is represented by more than one such qualified representative, service on any one of the representatives is sufficient.
 
@@ -65,8 +65,4 @@ In subsection (d)(3), the word “employee” is substituted for “officer or e
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 section 330; title 38 section 5901; title 49 section 703.
 

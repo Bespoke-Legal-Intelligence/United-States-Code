@@ -54,7 +54,3 @@ In subsection (c), the words “for debt and costs”, “thereon”, and “fro
 
 Subsecs. (b), (c). Pub. L. 104–316, §202(p)(2), substituted “Secretary” for “Comptroller General” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 6422.
-

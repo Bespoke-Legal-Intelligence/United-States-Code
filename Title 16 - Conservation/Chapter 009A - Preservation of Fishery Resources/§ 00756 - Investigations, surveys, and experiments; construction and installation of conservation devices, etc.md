@@ -12,7 +12,3 @@ The Secretary of Commerce is further authorized and directed (1) to conduct such
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior and prior transfers, see note set out under section 755 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 755, 757, 757e of this title.
-

@@ -58,7 +58,3 @@ In subsection (b), the word “impose” is substituted for “assess” for con
 
 In subsection (c), the reference to “section 207(d)” in section 210(c) of the Federal Railroad Safety Act of 1970 (Public Law 91–458, 84 Stat. 971), as added by section 9(b) of the Federal Railroad Safety Authorization Act of 1980 (Public Law 96–423, 94 Stat. 1815), is assumed to have been intended as a reference to section 207(c). The Federal Railroad Safety Authorization Act of 1980 was derived from S. 2730, which in turn was derived from H.R. 7104. See 126 Cong. Rec. 26535 (1980). Section 207(d) in an earlier version of H.R. 7104 was redesignated as section 207(c) during the legislative process and no section 207(d) was enacted. See H.R. Rept. No. 96–1025, 96th Cong., 2d Sess., pp. 14, 15 (1980).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 20111, 21301 of this title.
-

@@ -34,7 +34,3 @@ Pub. L. 102–251, §202(a)(2), which directed that “, District of Columbia,�
 
 Amendment effective on sixtieth day after Oct. 18, 1962, see section 7 of Pub. L. 87–840, set out as a note under section 1171 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1176 of this title.
-

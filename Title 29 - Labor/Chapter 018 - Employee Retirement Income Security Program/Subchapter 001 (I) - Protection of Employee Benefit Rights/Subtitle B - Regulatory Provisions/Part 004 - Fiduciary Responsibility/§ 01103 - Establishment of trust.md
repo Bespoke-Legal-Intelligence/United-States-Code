@@ -2,7 +2,7 @@
 
 #### (a) Benefit plan assets to be held in trust; authority of trustees
 
-Except as provided in subsection (b) of this section, all assets of an employee benefit plan shall be held in trust by one or more trustees. Such trustee or trustees shall be either named in the trust instrument or in the plan instrument described in section 1102(a) of this title or appointed by a person who is a named fiduciary, and upon acceptance of being named or appointed, the trustee or trustees shall have exclusive authority and discretion to manage and control the assets of the plan, except to the extent that—
+Except as provided in subsection (b) of this section, all assets of an employee benefit plan shall be held in trust by one or more trustees. Such trustee or trustees shall be either named in the trust instrument or in the plan instrument described in section 1102(a) of this title orappointed by a person who is a named fiduciary, and upon acceptance of being named or appointed, the trustee or trustees shall have exclusive authority and discretion to manage and control the assets of the plan, except to the extent that—
 
 &emsp;(1) the plan expressly provides that the trustee or trustees are subject to the direction of a named fiduciary who is not a trustee, in which case the trustees shall be subject to proper directions of such fiduciary which are made in accordance with the terms of the plan and which are not contrary to this chapter, or
 
@@ -12,7 +12,7 @@ Except as provided in subsection (b) of this section, all assets of an employee 
 
 The requirements of subsection (a) of this section shall not apply—
 
-&emsp;(1) to any assets of a plan which consist of insurance contracts or policies issued by aninsurance company qualified to do business in a State;
+&emsp;(1) to any assets of a plan which consist of insurance contracts or policies issued by an insurance company qualified to do business in a State;
 
 &emsp;(2) to any assets of such an insurance company or any assets of a plan which are held by such an insurance company;
 
@@ -38,7 +38,7 @@ The requirements of subsection (a) of this section shall not apply—
 
 #### (c) Assets of plan not to inure to benefit of employer; allowable purposes of holding plan assets
 
-(1) Except as provided in paragraph (2), (3), or (4) or subsection (d) of this section, or under sections 1342 and 1344 of this title (relating to termination of insured plans), or under section 420 of title 26 (as in effect on December 17, 1999), the assets of a plan shall never inure to the benefit of any employer and shall be held for the exclusive purposes of providing benefits to participants in the plan and their beneficiaries and defraying reasonable expenses of administering the plan.
+(1) Except as provided in paragraph (2), (3), or (4) or subsection (d) of this section, or under sections 1342 and 1344 of this title (relating to termination of insured plans), or under section 420 of title 26 (as in effect on October 22, 2004), the assets of a plan shall never inure to the benefit of any employer and shall be held for the exclusive purposes of providing benefits to participants in the plan and their beneficiaries and defraying reasonable expenses of administering the plan.
 
 (2)(A) In the case of a contribution, or a payment of withdrawal liability under part 1 of subtitle E of subchapter III of this chapter—
 
@@ -58,13 +58,17 @@ The requirements of subsection (a) of this section shall not apply—
 
 (2) The assets of a welfare plan which terminates shall be distributed in accordance with the terms of the plan, except as otherwise provided in regulations of the Secretary.
 
-(Pub. L. 93–406, title I, §403, Sept. 2, 1974, 88 Stat. 876; Pub. L. 96–364, title III, §310, title IV, §§402(b)(2), 410(a), 411(c), Sept. 26, 1980, 94 Stat. 1296, 1299, 1308; Pub. L. 100–203, title IX, §9343(c), Dec. 22, 1987, 101 Stat. 1330–372; Pub. L. 101–239, title VII, §§7881(k), 7891(a)(1), 7894(e)(1)(A), (3), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(a), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(B), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 106–170, title V, §535(a)(2)(B), Dec. 17, 1999, 113 Stat. 1934.)
+(Pub. L. 93–406, title I, §403, Sept. 2, 1974, 88 Stat. 876; Pub. L. 96–364, title III, §310, title IV, §§402(b)(2), 410(a), 411(c), Sept. 26, 1980, 94 Stat. 1296, 1299, 1308; Pub. L. 100–203, title IX, §9343(c),Dec. 22, 1987, 101 Stat. 1330–372; Pub. L. 101–239, title VII, §§7881(k), 7891(a)(1), 7894(e)(1)(A), (3), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(a), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(B), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 106–170, title V, §535(a)(2)(B), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(b)(2), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(2), Oct. 22, 2004, 118 Stat. 1551.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1) and (b)(4), (6), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (c)(1). Pub. L. 108–357 substituted “October 22, 2004” for “April 10, 2004”.
+
+Pub. L. 108–218 substituted “April 10, 2004” for “December 17, 1999”.
 
 1999—Subsec. (c)(1). Pub. L. 106–170 substituted “December 17, 1999” for “January 1, 1995”.
 
@@ -121,8 +125,4 @@ Amendment by section 410(a) of Pub. L. 96–364 effective Jan. 1, 1975, except w
 #### Regulations
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this part call for the promulgation of regulations, see sections 1031 and 1114 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1003, 1104, 1105, 1114, 1403 of this title; title 26 section 409.
 

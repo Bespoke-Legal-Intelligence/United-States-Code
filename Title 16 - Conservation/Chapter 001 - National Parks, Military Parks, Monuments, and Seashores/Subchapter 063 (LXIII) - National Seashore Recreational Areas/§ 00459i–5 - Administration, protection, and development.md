@@ -6,11 +6,29 @@ The seashore shall be administered, protected, and developed in accordance with 
 
 #### (b) Preservation in primitive state; recreational activities exception
 
-Except for certain portions of the seashore deemed to be especially adaptable for recreational uses, particularly swimming, boating, fishing, hiking, horseback riding, and other recreational activities of similar nature, which shall be developed for such uses as needed, the seashore shall be permanently preserved in its primitive state, and no development of the project or plan for the convenience of visitors shall be undertaken which would be incompatible with the preservation of the unique flora and fauna or the physiographic conditions not prevailing, nor shall any road or causeway connecting Cumberland Island to the mainland be constructed.
+Except for certain portions of the seashore deemed to be especially adaptable for recreational uses, particularly swimming, boating, fishing, hiking, horseback riding, and other recreational activities of similar nature, which shall be developed for such uses as needed, the seashore shall be permanently preserved in its primitive state, and, except as provided in subsection (c) of this section, no development of the project or plan for the convenience of visitors shall be undertaken which would be incompatible with the preservation of the unique flora and fauna or the physiographic conditions not prevailing, nor shall any road or causeway connecting Cumberland Island to the mainland be constructed.
 
-(Pub. L. 92–536, §6, Oct. 23, 1972, 86 Stat. 1068.)
+#### (c) Tours of the seashore
 
-#### Section Referred to in Other Sections
+Notwithstanding subsection (b) of this section, the Secretary may enter into not more than 3 concession contracts, as the Secretary determines appropriate, for the provision of tours for visitors to the seashore that are consistent with—
 
-This section is referred to in sections 459i–2, 459i–6, 459i–7 of this title.
+&emsp;(1) sections 459i to 459i–9 of this title;
+
+&emsp;(2) the Wilderness Act (16 U.S.C. 1131 et seq.); and
+
+&emsp;(3) Public Law 97–250 (96 Stat. 709).
+
+(Pub. L. 92–536, §6, Oct. 23, 1972, 86 Stat. 1068; Pub. L. 108–447, div. E, title I, §145(b), Dec. 8, 2004, 118 Stat. 3073.)
+
+#### References in Text
+
+The Wilderness Act, referred to in subsec. (c)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+
+Public Law 97–250, referred to in subsec. (c)(3), is Pub. L. 97–250, Sept. 8, 1982, 96 Stat. 709, which enacted section 122a of this title, amended section 121 of this title, and enacted provisions set out as a note under section 121 of this title and listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+2004—Subsec. (b). Pub. L. 108–447, §145(b)(1), inserted “, except as provided in subsection (c) of this section,” before “no development of the project”.
+
+Subsec. (c). Pub. L. 108–447, §145(b)(2), added subsec. (c).
 

@@ -28,7 +28,3 @@ Section 13 of Pub. L. 92–392 provided that:
 
 “(b) Subsection (a) of this section does not repeal or otherwise affect section 5102(d) of title 5, United States Code, section 305 of title 44 of such Code, or the provisions contained in section 180 of former title 31, United States Code.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 1602; title 41 section 351.
-

@@ -31,10 +31,6 @@ Chapter catchline was changed by Senate amendment. See 80th Congress Senate Repo
 
 1966—Pub. L. 89–711, §3, Nov. 2, 1966, 80 Stat. 1106, substituted “Federal courts” for “State Courts” in item 2254.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 1657 of this title.
-
 
 ---
 

@@ -78,7 +78,7 @@ Subsec. (b). Pub. L. 102–54 substituted “(29 U.S.C. 796a)” for “(29 U.S.
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–275 effective Oct. 9, 1996, with amendment by section 101(d)(1)(C), (2) of Pub. L. 104–275 only applicable with respect to claims of eligibility or entitlement to services and assistance (including claims for extension of such services and assistance) under this chapter received by the Secretary ofVeterans Affairs on or after Oct. 9, 1996, including those claims based on original applications, and applications seeking to reopen, revise, reconsider, or otherwise adjudicate or readjudicate on any basis claims for services and assistance under this chapter, see section 101(j) of Pub. L. 104–275, set out as a note under section 3101 of this title.
+Amendment by Pub. L. 104–275 effective Oct. 9, 1996, with amendment by section 101(d)(1)(C), (2) of Pub. L. 104–275 only applicable with respect to claims of eligibility or entitlement to services and assistance (including claims for extension of such services and assistance) under this chapter received by the Secretary of Veterans Affairs on or after Oct. 9, 1996, including those claims based on original applications, and applications seeking to reopen, revise, reconsider, or otherwise adjudicate or readjudicate on any basis claims for services and assistance under this chapter, see section 101(j) of Pub. L. 104–275, set out as a note under section 3101 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -113,8 +113,4 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 #### Veterans Pursuing Program of Vocational Rehabilitation Under Former Section 1504 of This Title
 
 During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of section 3108 \[formerly 1508\] of this title, as added by Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2178, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1504 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980. See section 802(a)(4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1163, 1524, 3105, 3106, 3108, 3117, 3120 of this title.
 

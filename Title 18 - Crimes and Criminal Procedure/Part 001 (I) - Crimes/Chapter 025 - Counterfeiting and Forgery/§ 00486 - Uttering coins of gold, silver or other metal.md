@@ -16,9 +16,5 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $2,000”, was executed by making the substitution for “fined not more than $3,000”, to reflect the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 981, 982 of this title.
-
 <i><sup>1</sup></i><i> See 1994 Amendment note below.</i>
 

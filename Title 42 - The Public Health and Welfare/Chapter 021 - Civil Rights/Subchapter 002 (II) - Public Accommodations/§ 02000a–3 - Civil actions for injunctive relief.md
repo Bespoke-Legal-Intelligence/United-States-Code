@@ -18,7 +18,3 @@ In the case of an alleged act or practice prohibited by this subchapter which oc
 
 (Pub. L. 88–352, title II, §204, July 2, 1964, 78 Stat. 244.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2000a–4, 12188 of this title.
-

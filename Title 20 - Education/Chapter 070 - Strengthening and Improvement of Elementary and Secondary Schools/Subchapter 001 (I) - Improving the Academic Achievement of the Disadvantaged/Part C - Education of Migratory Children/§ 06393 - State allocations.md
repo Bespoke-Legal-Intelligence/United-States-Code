@@ -122,7 +122,3 @@ In order to determine the estimated number of migratory children residing in eac
 
 A prior section 6393, Pub. L. 89–10, title I, §1303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3585, related to State allocations, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6394 of this title.
-

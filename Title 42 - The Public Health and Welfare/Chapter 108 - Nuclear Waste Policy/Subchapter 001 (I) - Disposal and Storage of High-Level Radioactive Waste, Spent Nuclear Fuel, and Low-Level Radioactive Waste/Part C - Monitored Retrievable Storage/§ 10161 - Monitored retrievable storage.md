@@ -42,13 +42,13 @@ The Congress finds that—
 
 #### (c) Environmental impact statements
 
-(1) Preparation and submission to the Congress of the proposal required in this sectionshall not require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)). The Secretary shall prepare, in accordance with regulations issued by the Secretary implementing such Act \[42 U.S.C. 4321 et seq.\], an environmental assessment with respect to such proposal. Such environmental assessment shall be based upon available information regarding alternative technologies for the storage of spent nuclear fuel and high-level radioactive waste. The Secretary shall submit such environmental assessment to the Congress at the time such proposal is submitted.
+(1) Preparation and submission to the Congress of the proposal required in this section shall not require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)). The Secretary shall prepare, in accordance with regulations issued by the Secretary implementing such Act \[42 U.S.C. 4321 et seq.\], an environmental assessment with respect to such proposal. Such environmental assessment shall be based upon available information regarding alternative technologies for the storage of spent nuclear fuel and high-level radioactive waste. The Secretary shall submit such environmental assessment to the Congress at the time such proposal is submitted.
 
 (2) If the Congress by law, after review of the proposal submitted by the Secretary under subsection (b) of this section, specifically authorizes construction of a monitored retrievable storage facility, the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) shall apply with respect to construction of such facility, except that any environmental impact statement prepared with respect to such facility shall not be required to consider the need for such facility or any alternative to the design criteria for such facility set forth in subsection (b)(1) of this section.
 
 #### (d) Licensing
 
-Any facility authorized pursuant to this section shall be subject to licensing under section 5842(3) of this title. In reviewing the application filed by the Secretary for licensing of the first such facility, the Commission may not consider the need for such facility or any alternative to the design criteria for such facility set forth in subsection (b)(1) of this section.
+Any facility authorized pursuant to this section shall be subject to licensing under section 5842(3) of this title. In reviewing the application filed by the Secretary for licensing of the first such facility, the Commission may not considerthe need for such facility or any alternative to the design criteria for such facility set forth in subsection (b)(1) of this section.
 
 #### (e) Clarification
 
@@ -83,8 +83,4 @@ Any facility authorized pursuant to this section shall be subject to the provisi
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10101, 10168, 10200 of this title.
 

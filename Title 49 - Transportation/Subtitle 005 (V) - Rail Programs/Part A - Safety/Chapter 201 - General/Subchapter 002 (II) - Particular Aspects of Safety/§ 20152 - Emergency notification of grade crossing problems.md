@@ -8,7 +8,7 @@ Pilot Programs.—The Secretary of Transportation shall conduct a pilot program 
 
 &emsp;(2) shall include provisions for public education and awareness of the program; and
 
-&emsp;(3) shall require information to be posted at the railroad-highway grade crossing describing the emergency notification system and instructions on how to use the system.
+&emsp;(3) shall require information to be posted at the railroad-highway grade crossing describingthe emergency notification system and instructions on how to use the system.
 
 > The Secretary may, by grant, provide funding for the expense of information signs and public awareness campaigns necessary to demonstrate the notification system.
 

@@ -12,7 +12,7 @@
 
 #### (3) Priority
 
-&emsp;In carrying out paragraph (1), the President shall give priority to establishing programs in countries that received a significant amountof United States foreign assistance for the prior fiscal year, or in which the United States has a significant economic interest, and that continue to have the most persistent problems with public and private corruption. In determining which countries have the most persistent problems with public and private corruption under the preceding sentence, the President shall take into account criteria such as the Transparency International Annual Corruption Perceptions Index, standards and codes set forth by the International Bank for Reconstruction and Development and the International Monetary Fund, and other relevant criteria.
+&emsp;In carrying out paragraph (1), the President shall give priority to establishing programs in countries that received a significant amount of United States foreign assistance for the prior fiscal year, or in which the United States has a significant economic interest, and that continue to have the most persistent problems with public and private corruption. In determining which countries have the most persistent problems with public and private corruption under the preceding sentence, the President shall take into account criteria such asthe Transparency International Annual Corruption Perceptions Index, standards and codes set forth by the International Bank for Reconstruction and Development and the International Monetary Fund, and other relevant criteria.
 
 #### (4) Relation to other laws
 
@@ -154,5 +154,5 @@ Purpose.—The purpose of this title \[see Short Title of 2000 Amendments note s
 
 #### Deadline for Initial Report
 
-Pub. L. 106–309, title II, §205(b), Oct. 17, 2000, 114 Stat. 1094, provided that: “The initial annual report required by section 133(d)(1) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2152c(d)(1)\], as added by subsection (a), shall be transmitted not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2000\].”
+Pub. L. 106–309, title II, §205(b), Oct. 17, 2000, 114 Stat. 1094, provided that: “The initial annual report requiredby section 133(d)(1) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2152c(d)(1)\], as added by subsection (a), shall be transmitted not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2000\].”
 

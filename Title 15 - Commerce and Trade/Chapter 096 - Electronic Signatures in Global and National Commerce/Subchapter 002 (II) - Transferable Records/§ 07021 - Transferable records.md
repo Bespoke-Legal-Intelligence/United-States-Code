@@ -46,7 +46,7 @@ A system satisfies subsection (b) of this section, and a person is deemed to hav
 
 #### (d) Status as holder
 
-Except as otherwise agreed, a person having control of a transferable record is the holder, as defined in section 1–201(20) of the Uniform Commercial Code, of the transferable record and has the same rights and defenses as a holder of an equivalent record or writing under the Uniform Commercial Code, including, if the applicable statutory requirements under section 3–302(a), 9–308, or revised section 9–330 of the Uniform Commercial Code are satisfied, the rights and defenses of a holder in due course or a purchaser, respectively. Delivery, possession, and endorsement are not required to obtain or exercise any of the rights under this subsection.
+Except as otherwise agreed, a person having control of a transferable record is the holder, asdefined in section 1–201(20) of the Uniform Commercial Code, of the transferable record and has the same rights and defenses as a holder of an equivalent record or writing under the Uniform Commercial Code, including, if the applicable statutory requirements under section 3–302(a), 9–308, or revised section 9–330 of the Uniform Commercial Code are satisfied, the rights and defenses of a holder in due course or a purchaser, respectively. Delivery, possession, and endorsement are not required to obtain or exercise any of the rights under this subsection.
 
 #### (e) Obligor rights
 
@@ -54,7 +54,7 @@ Except as otherwise agreed, an obligor under a transferable record has the same 
 
 #### (f) Proof of control
 
-If requested by a person against which enforcement is sought, the person seeking to enforce the transferable record shall provide reasonable proof that the person is in control of thetransferable record. Proof may include access to the authoritative copy of the transferable record and related business records sufficient to review the terms of the transferable record and to establish the identity of the person having control of the transferable record.
+If requested by a person against which enforcement is sought, the person seeking to enforce the transferable record shall provide reasonable proof that the person is in control of the transferable record. Proof may include access to the authoritative copy of the transferable record and related business records sufficient to review the terms of the transferable record and to establish the identity of the person having control of the transferable record.
 
 #### (g) UCC references
 

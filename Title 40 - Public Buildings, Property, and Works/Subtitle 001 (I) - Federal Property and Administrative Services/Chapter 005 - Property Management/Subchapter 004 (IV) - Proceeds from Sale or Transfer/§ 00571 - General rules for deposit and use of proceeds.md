@@ -46,7 +46,3 @@ June 8, 1896, ch. 373, 29 Stat. 268; Oct. 31, 1951, ch. 654, §2(20), 65 Stat. 7
 
 In subsection (b), the words “whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law” are substituted for “either as miscellaneous receipts on account of ‘proceeds of Government property’ or to the credit of the appropriations to which such proceeds are by law authorized to be made . . . either as miscellaneous receipts or to the credit of such appropriations, as the case may be” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 111, 585 of this title.
-

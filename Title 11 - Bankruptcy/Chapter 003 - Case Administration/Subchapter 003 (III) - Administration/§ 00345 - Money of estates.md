@@ -1,6 +1,6 @@
 ### §345. Money of estates
 
-(a) A trustee in a case under this title may make such deposit or investment of the money of the estate for which such trustee serves as will yield the maximum reasonable net return on such money, taking into account the safety of such deposit or investment.
+(a) A trustee in a case under this title may make such deposit or investment of the money of the estate for which such trustee serves aswill yield the maximum reasonable net return on such money, taking into account the safety of such deposit or investment.
 
 (b) Except with respect to a deposit or investment that is insured or guaranteed by the United States or by a department, agency, or instrumentality of the United States or backed by the full faith and credit of the United States, the trustee shall require from an entity with which such money is deposited or invested—
 
@@ -61,8 +61,4 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 28 section 586.
 

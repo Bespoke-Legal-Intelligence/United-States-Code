@@ -18,7 +18,7 @@ The Director of the Bureau of Justice Assistance (hereafter in this subchapter r
 
 &emsp;(5) disrupting illicit commerce in stolen goods and property;
 
-&emsp;(6) improving the investigation and prosecution of white-collar crime, organized crime, public corruption crimes, and fraud against the government with priority attention to cases involving drug-related official corruption;
+&emsp;(6) improving the investigation and prosecution of white-collar crime, organized crime, public corruption crimes, and fraud against the government with priority attention tocases involving drug-related official corruption;
 
 &emsp;(7)(A) improving the operational effectiveness of law enforcement through the use of crime analysis techniques, street sales enforcement, schoolyard violator programs, gang-related and low-income housing drug control programs;
 
@@ -92,7 +92,7 @@ Each program funded under this section shall contain an evaluation component, de
 
 &emsp;(2) the program is designed primarily to provide material resources and supplies, such as laboratory equipment, that would not justify a full evaluation report.
 
-(Pub. L. 90–351, title I, §501, as added and amended Pub. L. 100–690, title V, §5104, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4301, 4329; Pub. L. 101–647, title VI, §601(b), Nov. 29, 1990, 104 Stat. 4823; Pub. L. 103–322, title X, §100003, title XIV, §140004, title XV, §150003, title XXI, §210302(a), Sept. 13, 1994, 108 Stat. 1996, 2032, 2035, 2065; Pub. L. 104–132, title VIII, §822(a), Apr. 24, 1996, 110 Stat. 1317; Pub. L. 106–177, title I, §103, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–310, div. B, title XXXVI, §3621(b), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 106–561, §2(a), Dec. 21, 2000, 114 Stat. 2787.)
+(Pub. L. 90–351, title I, §501, as added and amended Pub. L. 100–690, title V, §5104, title VI,§6091(a), Nov. 18, 1988, 102 Stat. 4301, 4329; Pub. L. 101–647, title VI, §601(b), Nov. 29, 1990, 104 Stat. 4823; Pub. L. 103–322, title X, §100003, title XIV, §140004, title XV, §150003, title XXI, §210302(a), Sept. 13, 1994, 108 Stat. 1996, 2032, 2035, 2065; Pub. L. 104–132, title VIII, §822(a), Apr. 24, 1996, 110 Stat. 1317; Pub. L. 106–177, title I, §103, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–310, div. B, title XXXVI, §3621(b), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 106–561, §2(a), Dec. 21, 2000, 114 Stat. 2787.)
 
 #### References in Text
 
@@ -194,7 +194,7 @@ Certification.—A certification that—
 
 “(b)
 
-Review and Approval.—Subject to section 113(b), the Director shall approve applications and make grant awards to units of local governments and States that show the most promise for accomplishing the purposes of this subtitle consistent with the provisions of section 115.
+Review and Approval.—Subject to section 113(b), the Director shall approve applications and make grant awards to units of local governments and States that show the most promise for accomplishingthe purposes of this subtitle consistent with the provisions of section 115.
 
 #### “SEC. 115. USES OF FUNDS.
 
@@ -222,7 +222,7 @@ Evaluation.—
 
 &emsp;“(1)
 
-In general.—The Director shall enter into a contract, with an evaluating agency that has demonstrated experience in the evaluation of substanceabuse treatment, to conduct an evaluation that incorporates the criteria described in paragraph (2).
+In general.—The Director shall enter into a contract, with an evaluating agency that has demonstrated experience in the evaluation of substance abuse treatment, to conduct an evaluation that incorporates the criteria described in paragraph (2).
 
 &emsp;“(2)
 
@@ -287,10 +287,6 @@ In General.—There are authorized to be appropriated to carry out this subtitle
 “(b)
 
 Reservation.—The Director may reserve each fiscal year not more than 20 percent of the funds appropriated pursuant to subsection (a) for activities required under section 116.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3754, 3756, 3760, 3761, 3766, 3782 of this title.
 
 <i><sup>1</sup></i><i> So in original. Two pars. (27) have been enacted.</i>
 

@@ -10,7 +10,7 @@ Quorum.—The bylaws may prescribe the number of members of the board necessary 
 
 (c)
 
-Committees.—(1) The board, by resolution passed by a majority of the entire board, may designate 3 or more members of the board as an executive or governing committee. A majorityof the committee is a quorum. The committee, to the extent provided in the resolution or bylaws, may—
+Committees.—(1) The board, by resolution passed by a majority of the entire board, may designate 3 or more members of the board as an executive or governing committee. A majority of the committee is a quorum. The committee, to the extent provided in the resolution or bylaws, may—
 
 &emsp;(A) exercise the powers of the executive board in managing the activities of the corporation; and
 

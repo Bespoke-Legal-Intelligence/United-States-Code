@@ -26,7 +26,3 @@ Amounts appropriated under subsection (a) of this section shall remain available
 
 (Pub. L. 103–322, title III, §31132, Sept. 13, 1994, 108 Stat. 1888.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13826, 14214 of this title.
-

@@ -24,7 +24,3 @@ Subsequent Removal of Notice.—When the owner of a design has complied with the
 
 (Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2907.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1307, 1310, 1326 of this title.
-

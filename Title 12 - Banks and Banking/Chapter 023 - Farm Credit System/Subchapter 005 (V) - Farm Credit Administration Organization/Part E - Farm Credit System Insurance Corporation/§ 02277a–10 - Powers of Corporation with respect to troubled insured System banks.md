@@ -4,7 +4,7 @@
 
 #### (1) Stand-alone assistance
 
-&emsp;The Corporation, in its sole discretion and on such terms and conditions as the Board ofDirectors may prescribe, may make loans to, purchase the assets or securities of, assume the liabilities of, or make contributions to, any insured System bank if such action is taken—
+&emsp;The Corporation, in its sole discretion and on such terms and conditions as the Board of Directors may prescribe, may make loans to, purchase the assets or securities of, assume the liabilities of, or make contributions to, any insured System bank if such action is taken—
 
 &emsp;&emsp;(A) to prevent the placing of the bank in receivership;
 
@@ -143,8 +143,4 @@ Subsec. (a)(3)(B) to (F). Pub. L. 104–105, §217(a), added subpars. (B) to (E)
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm Credit System Insurance Corporation under this chapter on or after Jan. 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendar year 1989, and effective for the calculation of the initial premium payment required under section 2277a–5(c) of this title, see section 6(c) of Pub. L. 101–220, set out as a note under section 2020 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2271, 2277a–9 of this title.
 

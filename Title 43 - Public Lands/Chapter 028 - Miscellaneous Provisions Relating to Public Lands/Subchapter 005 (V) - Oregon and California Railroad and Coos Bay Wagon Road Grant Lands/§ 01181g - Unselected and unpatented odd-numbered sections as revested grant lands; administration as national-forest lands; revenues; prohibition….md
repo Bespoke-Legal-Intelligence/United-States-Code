@@ -14,7 +14,3 @@ This Act, referred to in text, is act June 24, 1954, ch. 357, 68 Stat. 270, whic
 
 Section constitutes subsec. (a) of section 1 of act June 24, 1954. Subsec. (b) of section 1 amended section 1181f(a) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1181i, 1735, 1752 of this title; title 16 section 521a; title 30 sections 601, 603.
-

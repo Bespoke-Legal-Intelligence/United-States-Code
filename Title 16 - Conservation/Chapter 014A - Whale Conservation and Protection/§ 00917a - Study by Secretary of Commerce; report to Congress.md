@@ -30,9 +30,5 @@ Authorization of Appropriations.—In addition to other amounts authorized under
 
 Substantially identical provisions were contained in Pub. L. 106–555, title II, §203, Dec. 21, 2000, 114 Stat. 2768.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 917b of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

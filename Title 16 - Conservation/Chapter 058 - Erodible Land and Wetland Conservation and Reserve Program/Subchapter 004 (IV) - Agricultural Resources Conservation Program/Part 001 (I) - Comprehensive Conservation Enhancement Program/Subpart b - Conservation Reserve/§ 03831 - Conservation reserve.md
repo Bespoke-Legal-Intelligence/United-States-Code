@@ -18,7 +18,7 @@ The Secretary may include in the program established under this subpart—
 
 &emsp;(2) marginal pasture land converted to wetland or established as wildlife habitat prior to November 28, 1990;
 
-&emsp;(3) marginal pasture land to be devoted to appropriate vegetation, including trees, in ornear riparian areas, or devoted to similar water quality purposes (including marginal pastureland converted to wetland or established as wildlife habitat);
+&emsp;(3) marginal pasture land to be devoted to appropriate vegetation, including trees, in or near riparian areas, or devoted to similar water quality purposes (including marginal pastureland converted to wetland or established as wildlife habitat);
 
 &emsp;(4) cropland that is otherwise ineligible if the Secretary determines that—
 
@@ -34,7 +34,7 @@ The Secretary may include in the program established under this subpart—
 
 &emsp;&emsp;&emsp;(ii) a contour grass sod strip established and maintained as part of an approved conservation plan;
 
-&emsp;&emsp;(C) the land will be devoted to newly established living snow fences, permanent wildlife habitat, windbreaks, shelterbelts, or filterstrips devoted to trees or shrubs; or
+&emsp;&emsp;(C) the land will be devoted to newly established living snow fences, permanentwildlife habitat, windbreaks, shelterbelts, or filterstrips devoted to trees or shrubs; or
 
 &emsp;&emsp;(D) the land poses an off-farm environmental threat, or a threat of continued degradation of productivity due to soil salinity, if permitted to remain in production; and
 
@@ -108,7 +108,7 @@ The Secretary may maintain up to 39,200,000 acres in the conservation reserve at
 
 #### (g) Multi-year grasses and legumes
 
-For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotationpractice, approved by the Secretary, shall be considered agricultural commodities.
+For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities.
 
 #### (h) Pilot program for enrollment of wetland and buffer acreage in conservation reserve
 
@@ -277,8 +277,4 @@ Pub. L. 101–624, title XIV, §1437, Nov. 28, 1990, 104 Stat. 3584, required th
 #### Existing Conservation Programs
 
 Pub. L. 99–263, Mar. 24, 1986, 100 Stat. 59, provided: “That the conservation reserve program shall not replace or reduce any existing conservation program.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3837, 3839 of this title; title 7 sections 7211, 7212, 7911, 7952, 7959.
 

@@ -10,7 +10,3 @@ Subject to sections 1003(e), 1007(a), and 1008(b) and (d) of this title, a manuf
 
 (Pub. L. 103–414, title I, §106, Oct. 25, 1994, 108 Stat. 4284.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1006 of this title.
-

@@ -44,7 +44,7 @@
 
 > &emsp;except that nothing in this section shall be construed as granting to the Department regulatory functions presently within the Nuclear Regulatory Commission, or any additional functions than those already conferred by law.
 
-&emsp;(9) Energy conservation functions, including the development of comprehensive energy conservation strategies for the Nation, the planning and implementation of major research and demonstration programs for the development of technologies and processes to reducetotal energy consumption, the administration of voluntary and mandatory energy conservation programs, and the dissemination to the public of all available information on energy conservation programs and measures.
+&emsp;(9) Energy conservation functions, including the development of comprehensive energy conservation strategies for the Nation, the planning and implementation of major research and demonstration programs for the development of technologies and processes to reduce total energy consumption, the administration of voluntary and mandatory energy conservation programs, and the dissemination to the public of all available information on energy conservation programs and measures.
 
 &emsp;(10) Power marketing functions, including responsibility for marketing and transmission of Federal power.
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L
 
 #### Federal Power Marketing Administration Employment Levels
 
-Pub. L. 101–514, title V, §510, Nov. 5, 1990, 104 Stat. 2098, provided that no funds appropriated or made available were to be used by the executive branch to change employment levels determined by Administrators of the Federal Power Marketing Administrations to be necessary to carry out their responsibilities under this chapter and related laws, or to change employment levels of other Department of Energy programs to compensate for employment levels of the Federal Power Marketing Administrations, prior to repeal by Pub. L. 104–46, title V, §501, Nov. 13, 1995, 109 Stat. 419.
+Pub. L. 101–514, title V, §510, Nov. 5, 1990, 104 Stat. 2098, provided that no funds appropriated or made available were to be used by the executive branch to change employment levels determined by Administrators of the Federal Power Marketing Administrations to be necessary to carry out their responsibilities under this chapter and related laws, or to change employmentlevels of other Department of Energy programs to compensate for employment levels of the Federal Power Marketing Administrations, prior to repeal by Pub. L. 104–46, title V, §501, Nov. 13, 1995, 109 Stat. 419.
 
 #### Marketing and Exchange of Surplus Electricity From Navajo Generating Station
 
@@ -81,8 +81,4 @@ Pub. L. 98–381, title I, §107, Aug. 17, 1984, 98 Stat. 1339, provided that:
 “(d) For the purposes provided in subsection (c) of this section, the Secretary of Energy, or the marketing entity or entities under the adopted plan, are authorized to establish and collect or cause to be established and collected, rate components, in addition to those currently authorized, and to deposit the revenues received in the Lower Colorado River Basin Development Fund to be available for such purposes and if required under the adopted plan, to credit, utilize, pay over directly or assign revenues from such additional rate components to make repayment and establish reserves for repayment of funds, including interest incurred, to entities which have advanced funds for the purposes of subsection (c) of this section: <i>Provided, however</i>, That rates shall not exceed levels that allow for an appropriate saving for the contractor.
 
 “(e) To the extent that this section may be in conflict with any other provision of law relating to the marketing and exchange of Navajo surplus, or to the disposition of any revenues therefrom, this section shall control.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7139 of this title.
 

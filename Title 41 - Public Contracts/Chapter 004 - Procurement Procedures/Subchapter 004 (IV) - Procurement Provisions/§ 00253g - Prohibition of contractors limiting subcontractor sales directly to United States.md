@@ -18,7 +18,7 @@ This section does not apply to a contract for an amount that is not greater than
 
 #### (d) Inapplicability when Government treated similarly to other purchasers
 
-An agreement between the contractor in a contract for the acquisition of commercialitems and a subcontractor under such contract that restricts sales by such subcontractor directly to persons other than the contractor may not be considered to unreasonably restrict sales by that subcontractor to the United States in violation of the provision included in such contract pursuant to subsection (a) of this section if the agreement does not result in the Federal Government being treated differently with regard to the restriction than any other prospective purchaser of such commercial items from that subcontractor.
+An agreement between the contractor in a contract for the acquisition of commercial items and a subcontractor under such contract that restricts sales by such subcontractor directly to persons other than the contractor may not be considered to unreasonably restrict sales by that subcontractor to the United States in violation of the provision included in such contract pursuant to subsection (a) of this section if the agreement does not result in the Federal Government being treated differently with regard to the restriction than any other prospective purchaser of such commercial items from that subcontractor.
 
 (June 30, 1949, ch. 288, title III, §303G, formerly §303H, as added Pub. L. 98–577, title II, §206(a), Oct. 30, 1984, 98 Stat. 3073; renumbered §303G, Pub. L. 99–145, title XIII, §1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742; amended Pub. L. 103–355, title IV, §4103(b), title VIII, §8204(a), Oct. 13, 1994, 108 Stat. 3341, 3396.)
 

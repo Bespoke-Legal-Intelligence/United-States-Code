@@ -118,10 +118,6 @@ The Intergovernmental Personnel Act of 1970, referred to in subsec. (d)(2), (4),
 
 A prior section 22 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to section 278q of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7407 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “Information Security”.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

@@ -10,7 +10,7 @@ The private corporation shall have the exclusive option to lease the gaseous dif
 
 #### (c) Exclusion of facilities for production of highly enriched uranium
 
-The Secretary shall not lease to the private corporation any facilities necessary for the production of highly enriched uranium but may, subject to the requirements of the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), grant the Corporation access to such facilities for purposes other than the production of highly enriched uranium.
+The Secretary shall not lease to the private corporation any facilities necessary for the production of highly enriched uranium but may, subject to the requirements of the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), grant theCorporation access to such facilities for purposes other than the production of highly enriched uranium.
 
 #### (d) DOE responsibility for preexisting conditions
 
@@ -32,7 +32,7 @@ The execution or transfer of the lease between the Secretary and the Corporation
 
 #### (1) In general
 
-&emsp;With respect to the Paducah Gaseous Diffusion Plant, Kentucky, and the Portsmouth Gaseous Diffusion Plant, Ohio, the guidelines relating to the authority of the Department of Energy's contractors (including any Federal agency, or private entity operating a gaseous diffusion plant under a contract or lease with the Department of Energy) and any subcontractor (at any tier) to carry firearms and make arrests in providing security at Federal installations, issued under section 2201(k) of this title shall require, at a minimum, the presence of all security police officers carrying sidearms at all times to ensure maintenance of security at the gaseous diffusion plants (whether a gaseous diffusion plant is operated directly by a Federal agency or by aprivate entity under a contract or lease with a Federal agency).
+&emsp;With respect to the Paducah Gaseous Diffusion Plant, Kentucky, and the Portsmouth Gaseous Diffusion Plant, Ohio, the guidelines relating to the authority of the Department of Energy's contractors (including any Federal agency, or private entity operating a gaseous diffusion plant under a contract or lease with the Department of Energy) and any subcontractor (at any tier) to carry firearms and make arrests in providing security at Federal installations, issued under section 2201(k) of this title shall require, at a minimum, the presence of all security police officers carrying sidearms at all times to ensure maintenance of security at the gaseous diffusion plants (whether a gaseous diffusion plant is operated directly by a Federal agency or by a private entity under a contract or lease with a Federal agency).
 
 #### (2) Funding
 
@@ -61,8 +61,4 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 1998—Subsec. (h). Pub. L. 105–245 substituted “all security police officers” for “an adequate number of security guards” in par. (1) and added par. (2).
 
 1997—Subsec. (h). Pub. L. 105–62 added subsec. (h).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2297h–4 of this title.
 

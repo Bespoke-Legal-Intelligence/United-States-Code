@@ -16,7 +16,7 @@ Subject to the provisions of this chapter, the Director of Nuclear Regulatory Re
 
 The Administrator of the Administration and the head of every other Federal agency shall—
 
-&emsp;(1) cooperate with respect to the establishment of priorities for the furnishing of suchresearch services as requested by the Commission for the conduct of its functions;
+&emsp;(1) cooperate with respect to the establishment of priorities for the furnishing of such research services as requested by the Commission for the conduct of its functions;
 
 &emsp;(2) furnish to the Commission, on a reimbursable basis, through their own facilities or by contract or other arrangement, such research services as the Commission deems necessary and requests for the performance of its functions; and
 
@@ -43,8 +43,4 @@ The Commission shall develop a long-term plan for projects for the development o
 #### Transfer of Functions
 
 For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5841 of this title.
 

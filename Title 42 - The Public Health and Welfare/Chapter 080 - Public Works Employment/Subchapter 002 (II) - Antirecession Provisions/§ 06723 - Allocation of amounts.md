@@ -66,7 +66,7 @@ Chapter 67 of title 31, including sections 6701 and 6705 to 6712, referred to in
 
 #### Codification
 
-In subsecs. (b)(3)(D) and (c)(3)(C), “sections 6705–6707(a) of title 31” substituted for “section 107 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1226\]”, “sections 6701(a)(5), (7), (b)–(d), and 6708–6712 of title 31” substituted for “section 108 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1227\], and “section 6701(a)(1) of title 31” substituted for “section 141(b) of such Act \[31 U.S.C. 1261(b)\]”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance. See, also, References in Text note above.
+In subsecs. (b)(3)(D) and (c)(3)(C), “sections 6705–6707(a) of title 31” substituted for “section 107 ofthe State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1226\]”, “sections 6701(a)(5), (7), (b)–(d), and 6708–6712 of title 31” substituted for “section 108 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1227\], and “section 6701(a)(1) of title 31” substituted for “section 141(b) of such Act \[31 U.S.C. 1261(b)\]”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance. See, also, References in Text note above.
 
 #### Amendments
 
@@ -74,17 +74,13 @@ In subsecs. (b)(3)(D) and (c)(3)(C), “sections 6705–6707(a) of title 31” s
 
 Subsec. (c)(1). Pub. L. 95–30, §603(b), substituted “paragraph (4)” for “paragraphs (3) and (5)”.
 
-Subsec. (c)(3). Pub. L. 95–30, §603(c)–(h), struck out par. (3) which set out special rules for local governments other than identifiable local governments, redesignated par. (4) as (3), substituted “determined or assigned” for “determined” in subpar. (B), substituted provisions covering local governments for which the Secretary of Labor cannot determine a local unemployment rate for provisions covering local governments treated as one local government in subpar. (B), substituted “for the most recently completed entitlement period, as defined under section 1261(b) of title 31” for“for the one–year period beginning July 1, 1975” in subpar. (C), struck out parenthetical provisions covering local governments treated as one local government in subpar. (C), struck out subpar. (D) which had defined “identifiable local government”, redesignated former subpar. (E) as (D), substituted “Bureau of the Census” for “Social and Economic Statistics Administration” in cl. (i) of subpar. (D) as so redesignated, and struck out provisions which had directed the Secretary of Labor to make determinations with respect to rates of unemployment for the purposes of title VI of the Comprehensive Employment and Training Act of 1973.
+Subsec. (c)(3). Pub. L. 95–30, §603(c)–(h), struck out par. (3) which set out special rules for local governments other than identifiable local governments, redesignated par. (4) as (3), substituted “determined or assigned” for “determined” in subpar. (B), substituted provisions covering local governments for which the Secretary of Labor cannot determine a local unemployment rate for provisions covering local governments treated as one local government in subpar. (B), substituted “for the most recently completed entitlement period, as defined under section 1261(b) of title 31” for “for the one–year period beginning July 1, 1975” in subpar. (C), struck out parenthetical provisions covering local governments treated as one local government in subpar. (C), struck out subpar. (D) which had defined “identifiable local government”, redesignated former subpar. (E) as (D), substituted “Bureau of the Census” for “Social and Economic Statistics Administration” in cl. (i) of subpar. (D) as so redesignated, and struck out provisions which had directed the Secretary of Labor to make determinations with respect to rates of unemployment for the purposes of title VI of the Comprehensive Employment and Training Act of 1973.
 
 Subsec. (c)(4), (5). Pub. L. 95–30, §603(c), redesignated pars. (4) and (5) as (3) and (4), respectively.
 
 1976—Subsec. (c)(3)(C)(ii). Pub. L. 94–447, §201(2), substituted “90 days” for “thirty days”.
 
 Subsec. (c)(4)(E)(ii). Pub. L. 94–447, §201(3), substituted “or Alaskan Native village” for “of Alaskan Native village”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6730, 6736 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

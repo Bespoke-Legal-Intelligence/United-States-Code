@@ -2,7 +2,7 @@
 
 #### (a) Identification
 
-(1) Within 180 days after the submission in calendar year 1995 of the report required by section2241(b) of this title, the Trade Representative shall—
+(1) Within 180 days after the submission in calendar year 1995 of the report required by section 2241(b) of this title, the Trade Representative shall—
 
 &emsp;(A) review United States trade expansion priorities,
 
@@ -102,7 +102,7 @@ Sec. 3. <i>Initiation of Investigations</i>. Within 90 days of the submission of
 
 #### Part II: Identification of Discriminatory Government Procurement Practices
 
-Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the submission of the National Trade Estimate Report for 1999, 2000, and 2001, the Trade Representative shall submit to the Committees on Finance and on Governmental Affairs of the Senate and the Committees on Ways and Means and Government Reform and Oversight of the House of Representatives, and shall publish in the Federal Register, a report on the extent to which foreign countries discriminate against U.S. products or services in making government procurements.
+Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the submission of the National Trade Estimate Report for 1999, 2000, and 2001, the Trade Representative shall submit to the Committees on Finance and on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committees on Ways and Means and Government Reform and Oversight of the House of Representatives, and shall publish in the Federal Register, a report on the extent to which foreign countries discriminate against U.S. products or services in making government procurements.
 
 (b) In the report, the Trade Representative shall identify countries that:
 
@@ -136,7 +136,7 @@ Sec. 5. <i>Initiation of Investigations</i>. (a) Within 90 days of the submissio
 
 > unless during the 90-day period the Trade Representative determines that a satisfactory resolution of the matter to be investigated has been achieved.
 
-(b) For investigations initiated under paragraph (a) of this section (other than an investigation involving the GPA or NAFTA), the Trade Representative shall apply the time limits and procedures in section 304(a)(3) of the Act (19 U.S.C. 2414(a)(3)). The time limits in subsection 304(a)(3)(B) of the Act (19 U.S.C. 2414(a)(3)(B)) shall apply if the Trade Representative determines that:
+(b) For investigations initiated under paragraph (a) of this section (other than an investigation involving the GPA or NAFTA), the Trade Representative shall apply the time limits and procedures in section 304(a)(3) of the Act (19 U.S.C. 2414(a)(3)). The time limits in subsection 304(a)(3)(B) of the Act (19 U.S.C. 2414(a)(3)(B))shall apply if the Trade Representative determines that:
 
 &emsp;(1) complex or complicated issues are involved in the investigation that require additional time;
 

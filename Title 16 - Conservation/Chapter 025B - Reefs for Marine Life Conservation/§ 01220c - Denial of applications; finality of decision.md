@@ -8,9 +8,5 @@ A decision by the Secretary denying any application for a <sup>1</sup> obsolete
 
 1984—Pub. L. 98–623 substituted “obsolete ship” for “Liberty ship”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1220d of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

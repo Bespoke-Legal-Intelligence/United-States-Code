@@ -4,7 +4,3 @@ The Attorney General may provide technical assistance and training in furtheranc
 
 (Pub. L. 103–322, title IV, §40606, Sept. 13, 1994, 108 Stat. 1952.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

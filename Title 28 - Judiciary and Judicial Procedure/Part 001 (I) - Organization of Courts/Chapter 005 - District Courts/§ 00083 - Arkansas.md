@@ -32,7 +32,7 @@ Arkansas is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;(1) The Texarkana Division comprises the counties of Hempstead, Howard, Lafayette, Little River, Miller, Nevada, and Sevier.
 
-&emsp;&emsp;Court for the Texarkana Division shall be held at Texarkana.
+&emsp;&emsp;Court for the Texarkana Division shall be held at Texarkana, and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas.
 
 &emsp;&emsp;(2) The El Dorado Division comprises the counties of Ashley, Bradley, Calhoun, Columbia, Ouachita, and Union.
 
@@ -54,7 +54,7 @@ Arkansas is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Hot Springs Division shall be held at Hot Springs.
 
-(June 25, 1948, ch. 646, 62 Stat. 874; Pub. L. 87–36, §5, May 19, 1961, 75 Stat. 84.)
+(June 25, 1948, ch. 646, 62 Stat. 874; Pub. L. 87–36, §5, May 19, 1961, 75 Stat. 84; Pub. L. 108–455, §3, Dec. 10, 2004, 118 Stat. 3628.)
 
 #### Historical and Revision Notes
 
@@ -71,6 +71,8 @@ The provision with reference to court accommodations at Fayetteville and Hot Spr
 Changes in arrangement and phraseology were made.
 
 #### Amendments
+
+2004—Subsec. (b)(1). Pub. L. 108–455 inserted “, and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas” after “held at Texarkana”.
 
 1961—Subsec. (a). Pub. L. 87–36 struck out from enumeration in par. (1) the parish of Desha and in par. (2) the parishes of Arkansas, Chicot, Cleveland, Dallas, Drew, Grant, Jefferson, and Lincoln, added par. (3) consisting of such parishes, and redesignated former par. (3) and (4) as (4) and (5), respectively.
 

@@ -10,7 +10,7 @@ Compliance with the requirements imposed under this chapter shall be enforced un
 
 &emsp;&emsp;(B) by the Federal Deposit Insurance Corporation in the case of depository institutions described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 461(b)(1)(A)\] that are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(c)(2)\]); and
 
-&emsp;&emsp;(C) by the Director of the Office of Thrift Supervision in the case of depository institutions described in clause (v) and or (vi) of section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 461(b)(1)(A)\] that are not insured depository institutions (as defined insection 3(c)(2) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(c)(2)\]);
+&emsp;&emsp;(C) by the Director of the Office of Thrift Supervision in the case of depository institutions described in clause (v) and or (vi) of section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 461(b)(1)(A)\] that are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(c)(2)\]);
 
 &emsp;(2) the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], by the National Credit Union Administration Board in the case of depository institutions described in clause (iv) of section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 461(b)(1)(A)\]; and
 
@@ -43,8 +43,4 @@ In carrying out its enforcement activities under this section, each agency refer
 The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
 The Farm Credit Act of 1971, referred to in subsec. (a)(3), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended. Part C of title V of the Act is classified generally to part C (§2261 et seq.) of subchapter V of chapter 23 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4907 of this title.
 

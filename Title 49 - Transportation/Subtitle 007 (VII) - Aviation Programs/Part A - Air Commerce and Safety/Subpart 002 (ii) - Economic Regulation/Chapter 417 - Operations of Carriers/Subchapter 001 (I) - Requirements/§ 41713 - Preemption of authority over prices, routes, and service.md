@@ -100,7 +100,3 @@ Subsec. (b)(4). Pub. L. 103–305, §601(b)(1), added par. (4).
 
 Amendment by Pub. L. 103–305 effective Jan. 1, 1995, see section 601(d) of Pub. L. 103–305, set out as a note under section 10521 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14501, 40109, 46301 of this title.
-

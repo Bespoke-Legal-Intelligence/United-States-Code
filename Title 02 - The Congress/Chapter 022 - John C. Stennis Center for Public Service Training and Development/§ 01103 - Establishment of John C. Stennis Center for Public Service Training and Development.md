@@ -38,7 +38,3 @@ The Center shall be located at or near Starkville, Mississippi, the location of 
 
 (Pub. L. 100–458, title I, §114, Oct. 1, 1988, 102 Stat. 2173.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1102 of this title.
-

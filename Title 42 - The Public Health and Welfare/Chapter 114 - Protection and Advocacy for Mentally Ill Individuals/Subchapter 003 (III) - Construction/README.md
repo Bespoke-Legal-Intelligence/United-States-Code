@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—CONSTRUCTION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 10805, 10826 of this title.
-
 
 ---
 

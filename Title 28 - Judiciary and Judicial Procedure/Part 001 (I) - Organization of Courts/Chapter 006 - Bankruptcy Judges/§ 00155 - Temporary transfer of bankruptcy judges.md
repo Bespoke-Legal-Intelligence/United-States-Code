@@ -20,7 +20,3 @@ Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankru
 
 Section 203 of title II of Pub. L. 99–651 provided that: “This title and the amendments made by this title \[enacting section 375 of this title and amending this section and sections 374, 631, 633, 636, and 797 of this title\] take effect on January 1, 1987.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 374, 375, 376, 377 of this title.
-

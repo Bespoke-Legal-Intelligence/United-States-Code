@@ -64,7 +64,7 @@ In exercising the authority to acquire property under this section, the Secretar
 
 #### (i) Administration
 
-The Secretary shall administer the recreation area in accordance with this Act and provisions of laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title. In the administration of the recreation area, the Secretary may utilize suchstatutory authority available for the conservation and management of wildlife and natural resources as appropriate to carry out the purpose of this section. The fragile resource areas of the recreation area shall be administered on a low-intensity basis, as determined by the Secretary.
+The Secretary shall administer the recreation area in accordance with this Act and provisions of laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title. In the administration of the recreation area, the Secretary may utilize such statutory authority available for the conservation and management of wildlife and natural resources as appropriate to carry out the purpose of this section. The fragile resource areas of the recreation area shall be administered on a low-intensity basis, as determined by the Secretary.
 
 #### (j) Cooperative agreements for rescue, fire prevention and firefighting, and law enforcement services
 
@@ -102,7 +102,7 @@ The Secretary, after giving careful consideration to the recommendations set for
 
 &emsp;(A) an identification and designation of public and private uses which are compatible with and which would not significantly impair the significant scenic, recreational, educational, scientific, natural, archeological, and public health benefits present in the zone and which would not have an adverse impact on the recreation area or on the air quality of the south coast air basin;
 
-&emsp;(B) a specific minimum land acquisition program which shall include, but not be limited to, fee and less than fee acquisition of strategic and critical sites not to be acquired by the Federal Government for public recreational and other related uses; and a program for the complementary use of State and local authority to regulate the use of lands and waters within the Santa Monica Mountains Zone to the fullest extent practicable consistent with the purposes of this section; and
+&emsp;(B) a specific minimum land acquisition program which shall include, but not be limited to, fee and less than fee acquisition of strategic and critical sites not to be acquired by theFederal Government for public recreational and other related uses; and a program for the complementary use of State and local authority to regulate the use of lands and waters within the Santa Monica Mountains Zone to the fullest extent practicable consistent with the purposes of this section; and
 
 &emsp;(C) a recreation transportation system which may include but need not be limited to existing public transit.
 
@@ -206,7 +206,7 @@ Subsec. (n)(5). Pub. L. 107–236, §3(3), substituted “laws,” for “laws�
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) ofPub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Anthony C. Beilenson Visitor Center
 

@@ -48,7 +48,7 @@ The head of each executive agency shall ensure that procurement officials in tha
 
 &emsp;(C) could meet the executive agency's requirements if those requirements were modified to a reasonable extent.
 
-(3) In conducting market research, the head of an executive agency should not require potential sources to submit more than the minimuminformation that is necessary to make the determinations required in paragraph (2).
+(3) In conducting market research, the head of an executive agency should not require potential sources to submit more than the minimum information that is necessary to make the determinations required in paragraph (2).
 
 (June 30, 1949, ch. 288, title III, §314B, as added Pub. L. 103–355, title VIII, §8203, Oct. 13, 1994, 108 Stat. 3394.)
 
@@ -73,8 +73,4 @@ Content of Report.—The report shall include the following:
 &emsp;“(2) A review of the feasibility of creating a Government-wide data base for storing, retrieving, and analyzing market data, including use of existing Federal Government resources.
 
 &emsp;“(3) Any recommendations for changes in law or regulations that the Comptroller General considers appropriate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 264 of this title; title 15 section 205<i>l.</i>
 

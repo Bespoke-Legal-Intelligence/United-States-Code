@@ -4,7 +4,7 @@
 
 #### (1) Determination of claims
 
-&emsp;Except in the case of an at-risk amount required under section 2025(c)(1)(D)(i)(III) of this title, the Secretary shall have the power to determine the amount of and settle and adjust any claim and to compromise or deny all or part of any such claim or claims arising under the provisions of this chapter or the regulations issued pursuant to this chapter, including, but not limited to, claims arising from fraudulent and nonfraudulent overissuances to recipients, including the power to waive claims if the Secretary determines that to do so would serve the purposes of this chapter. Such powers with respect to claims against recipients may be delegated by the Secretary to State agencies. The Secretary shall have the power to reduce amounts otherwise due to a State agency under section 2025 of this title to collect unpaid claims assessed against the State agency if the State agency has declined or exhausted its appeal rights under section 2023 of this title.
+&emsp;Except in the case of an at-risk amount required under section 2025(c)(1)(D)(i)(III) of this title, the Secretary shall have the power to determine the amount of and settle and adjust any claim and to compromise or deny all or part of any such claim or claims arising under the provisions of this chapter or the regulations issued pursuant to this chapter, including, but not limited to, claims arising from fraudulent and nonfraudulent overissuances to recipients, including the power to waive claims if the Secretary determines that to do so would serve the purposes of this chapter. Such powers with respect to claims against recipients may be delegated by the Secretary to State agencies. The Secretary shall have the power to reduce amounts otherwise due to a State agency under section 2025 of this title tocollect unpaid claims assessed against the State agency if the State agency has declined or exhausted its appeal rights under section 2023 of this title.
 
 #### (2) Claims established under quality control system
 
@@ -66,9 +66,9 @@
 
 #### (d) Recovery of overissuance of coupons
 
-The amount of an overissuance of coupons, as determined under subsection (b)(1) of this section, that has not been recovered pursuant tosuch subsection may be recovered from Federal pay (including salaries and pensions) as authorized by section 5514 of title 5 or a Federal income tax refund as authorized by section 3720A of title 31.
+The amount of an overissuance of coupons, as determined under subsection (b)(1) of this section, that has not been recovered pursuant to such subsection may be recovered from Federal pay (including salaries and pensions) as authorized by section 5514 of title 5 or a Federal income tax refund as authorized by section 3720A of title 31.
 
-(Pub. L. 88–525, §13, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–35, title I, §113, Aug. 13, 1981, 95 Stat. 363; Pub. L. 97–253, title I, §§177, 178, Sept. 8, 1982, 96 Stat. 781, 782; Pub. L. 99–198, title XV, §§1533–1535(a), Dec. 23, 1985, 99 Stat. 1583; Pub. L. 100–435, title VI, §§601, 602, Sept. 19, 1988, 102 Stat. 1674; Pub. L. 101–624, title XVII, §1746, Nov. 28, 1990, 104 Stat. 3796; Pub. L. 102–237, title IX, §911, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §§13941(b), 13951(a), Aug. 10, 1993, 107 Stat. 676, 677; Pub. L. 104–193, title VIII, §844(a), Aug. 22, 1996, 110 Stat. 2332; Pub. L. 107–171, title IV, §4118(b), May 13, 2002, 116 Stat. 321.)
+(Pub. L. 88–525, §13, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–35, title I, §113, Aug. 13, 1981, 95 Stat. 363; Pub. L. 97–253, title I, §§177, 178, Sept. 8, 1982, 96 Stat. 781, 782; Pub. L. 99–198, titleXV, §§1533–1535(a), Dec. 23, 1985, 99 Stat. 1583; Pub. L. 100–435, title VI, §§601, 602, Sept. 19, 1988, 102 Stat. 1674; Pub. L. 101–624, title XVII, §1746, Nov. 28, 1990, 104 Stat. 3796; Pub. L. 102–237, title IX, §911, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §§13941(b), 13951(a), Aug. 10, 1993, 107 Stat. 676, 677; Pub. L. 104–193, title VIII, §844(a), Aug. 22, 1996, 110 Stat. 2332; Pub. L. 107–171, title IV, §4118(b), May 13, 2002, 116 Stat. 321.)
 
 #### Amendments
 
@@ -130,13 +130,9 @@ Amendment by Pub. L. 97–253 effective Sept. 8, 1982, see section 193(a) of Pub
 
 Amendment by Pub. L. 97–35 effective on earlier of Sept. 8, 1982, or date such amendment became effective pursuant to section 117 of Pub. L. 97–35, set out as a note under section 2012 of this title, see section 192(a) of Pub. L. 97–253, set out as a note under section 2012 of this title.
 
-Amendment by Pub. L. 97–35 effective and implemented upon such dates as Secretary of Agriculturemay prescribe, taking into account need for orderly implementation, see section 117 of Pub. L. 97–35, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 97–35 effective and implemented upon such dates as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 117 of Pub. L. 97–35, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1977 Amendment
 
 Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2014, 2020, 2023, 2025, 2027 of this title; title 42 section 503.
 

@@ -4,7 +4,3 @@ With respect to fiscal year 1989 and for every fiscal year thereafter, the Secre
 
 (June 27, 1934, ch. 847, title V, §538, as added Pub. L. 101–235, title I, §131, Dec. 15, 1989, 103 Stat. 2026.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1711 of this title.
-

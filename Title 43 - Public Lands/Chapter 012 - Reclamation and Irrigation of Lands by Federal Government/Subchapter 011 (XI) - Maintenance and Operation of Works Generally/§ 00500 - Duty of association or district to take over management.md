@@ -14,9 +14,5 @@ Sections 463, 467, 473, and 474 of this title, referred to in text, were repeale
 
 The definitions in section 371 of this title apply to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 371, 417, 493 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

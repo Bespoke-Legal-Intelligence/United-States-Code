@@ -28,7 +28,7 @@ Section 311(a) of title III of Pub. L. 103–82, provided that: “This subtitle
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–204, §1(a), Dec. 7, 1989, 103 Stat. 1806, provided that: “This Act \[enacting sections 4960, 5000, 5025, 5026, and 5027 of this title, amending sections 4952 to 4955, 4958, 4959, 4971, 4974, 4992 to 4994, 5001, 5011 to 5013, 5021, 5024, 5041, 5047, 5056, 5061, 5081, 5082, 5084, 5671, 5715, 5751, 5773, 5775, 5777, 9910b, 11803, 11825, 11842, and 11851 of this title, enacting provisions set out as a note under section 4954 of this title, and amending provisions set out as a note under section 5601 of this title\] may becited as the ‘Domestic Volunteer Service Act Amendments of 1989’.”
+Pub. L. 101–204, §1(a), Dec. 7, 1989, 103 Stat. 1806, provided that: “This Act \[enacting sections 4960, 5000, 5025, 5026, and 5027 of this title, amending sections 4952 to 4955, 4958, 4959, 4971, 4974, 4992 to 4994, 5001, 5011 to 5013, 5021, 5024, 5041, 5047, 5056, 5061, 5081, 5082, 5084, 5671, 5715, 5751, 5773, 5775, 5777, 9910b, 11803, 11825, 11842, and 11851 of this title, enacting provisions set out as a note under section 4954 of this title, and amending provisions set out as a note under section 5601 of this title\] may be cited as the ‘Domestic Volunteer Service Act Amendments of 1989’.”
 
 #### Short Title of 1986 Amendment
 

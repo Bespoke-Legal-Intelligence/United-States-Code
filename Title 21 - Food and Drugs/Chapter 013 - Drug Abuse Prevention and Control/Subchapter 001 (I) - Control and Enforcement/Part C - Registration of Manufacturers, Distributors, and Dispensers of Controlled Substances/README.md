@@ -1,9 +1,5 @@
 Part C—Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 811 of this title; title 48 section 1972.
-
 
 ---
 

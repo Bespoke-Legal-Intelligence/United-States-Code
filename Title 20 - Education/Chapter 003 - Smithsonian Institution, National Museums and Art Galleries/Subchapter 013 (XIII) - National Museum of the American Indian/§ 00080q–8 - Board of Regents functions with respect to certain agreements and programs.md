@@ -42,9 +42,5 @@ Section 1801 of title 25, referred to in subsec. (b)(2), was subsequently amende
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80q–15 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

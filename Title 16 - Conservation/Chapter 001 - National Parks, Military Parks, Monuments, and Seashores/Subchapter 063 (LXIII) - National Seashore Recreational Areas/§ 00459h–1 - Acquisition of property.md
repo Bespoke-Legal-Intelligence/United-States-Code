@@ -42,7 +42,7 @@ The Secretary may terminate a right of use and occupancy retained pursuant to th
 
 #### (3) Modification of boundary
 
-&emsp;The boundary of the seashore shall be modified to reflect the acquisition of land under this subsection only after completion of the acquisition.
+&emsp;The boundary of the seashore shall be modified to reflect the acquisition of land underthis subsection only after completion of the acquisition.
 
 (Pub. L. 91–660, §2, Jan. 8, 1971, 84 Stat. 1967; Pub. L. 92–275, §1(1), Apr. 20, 1972, 86 Stat. 123; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §137(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–231.)
 
@@ -59,10 +59,6 @@ Sections 459h to 459h–10 of this title, referred to in subsec. (e)(1)(C)(ii), 
 Subsec. (e). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §137(b)(2)\], added subsec. (e).
 
 1972—Subsec. (a). Pub. L. 92–275 increased amount of property authorized to be acquired from one hundred thirty-five to four hundred acres.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459h, 459h–2, 459h–4, 459h–5, 459h–6, 459h–8, 459h–9 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

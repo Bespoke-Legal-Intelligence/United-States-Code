@@ -8,7 +8,3 @@ All sums received under the provisions of section 1460 of this title shall be de
 
 Section was formerly classified to section 492 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1461 of this title.
-

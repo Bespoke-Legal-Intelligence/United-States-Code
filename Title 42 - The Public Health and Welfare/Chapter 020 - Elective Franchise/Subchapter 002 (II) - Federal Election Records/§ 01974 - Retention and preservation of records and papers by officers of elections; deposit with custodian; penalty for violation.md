@@ -4,7 +4,3 @@ Every officer of election shall retain and preserve, for a period of twenty-two 
 
 (Pub. L. 86–449, title III, §301, May 6, 1960, 74 Stat. 88.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1974a, 1974b of this title.
-

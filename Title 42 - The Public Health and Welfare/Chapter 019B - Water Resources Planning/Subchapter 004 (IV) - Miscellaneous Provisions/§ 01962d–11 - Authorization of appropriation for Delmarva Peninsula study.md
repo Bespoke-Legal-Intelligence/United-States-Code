@@ -12,7 +12,3 @@ Section was not enacted as part of the Water Resources Planning Act which compri
 
 “United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1962d–8, 1962d–9, 1962d–10 of this title.
-

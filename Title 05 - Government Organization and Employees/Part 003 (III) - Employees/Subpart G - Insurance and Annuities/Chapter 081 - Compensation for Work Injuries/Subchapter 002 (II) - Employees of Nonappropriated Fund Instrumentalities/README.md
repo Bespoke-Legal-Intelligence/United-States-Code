@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—EMPLOYEES OF NONAPPROPRIATED FUND INSTRUMENTALITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 10 section 1588.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “Longshore and”.</i>
 
 

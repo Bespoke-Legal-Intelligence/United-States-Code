@@ -4,10 +4,6 @@ Part C—Native American Caregiver Support Program
 
 A prior part C, consisting of sections 3057<i>l</i> to 3057n of this title, was redesignated part D of this subchapter.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 3057n of this title.
-
 
 ---
 

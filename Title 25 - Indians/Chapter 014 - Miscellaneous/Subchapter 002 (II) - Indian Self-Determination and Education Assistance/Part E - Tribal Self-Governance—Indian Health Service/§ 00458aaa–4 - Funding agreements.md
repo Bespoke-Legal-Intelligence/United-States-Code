@@ -80,9 +80,5 @@ The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, ref
 
 Title III, referred to in subsec. (f), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296, and amended, which was set out as a note under section 450f of this title prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 458aaa–5, 458aaa–11, 458aaa–12 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

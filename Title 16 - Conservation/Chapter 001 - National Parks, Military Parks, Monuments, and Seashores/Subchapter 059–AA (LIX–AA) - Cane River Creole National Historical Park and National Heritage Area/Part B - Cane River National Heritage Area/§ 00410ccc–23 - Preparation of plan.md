@@ -28,7 +28,3 @@ If the Secretary disapproves the plan, he shall advise the Commission in writing
 
 (Pub. L. 103–449, title IV, §403, Nov. 2, 1994, 108 Stat. 4763.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410ccc–4, 410ccc–21 of this title.
-

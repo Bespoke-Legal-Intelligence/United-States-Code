@@ -18,7 +18,3 @@ The purposes of the National Museum are to—
 
 (Pub. L. 101–185, §3, Nov. 28, 1989, 103 Stat. 1337.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80q–2, 80q–14 of this title.
-

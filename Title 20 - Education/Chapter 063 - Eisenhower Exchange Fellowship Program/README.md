@@ -10,7 +10,7 @@
 | (d) | Credit to fund of interest and proceeds of sale or redemption. |
 | [5203\.](%C2%A7%2005203%20-%20Expenditure%20and%20audit%20of%20trust%20fund.md) | Expenditure and audit of trust fund. |
 | (a) | Authorization of funding. |
-| (b) | Access to books, records, etc., by General Accounting Office. |
+| (b) | Access to books, records, etc., by Government Accountability Office. |
 | [5204\.](%C2%A7%2005204%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [5205\.](%C2%A7%2005205%20-%20Use%20of%20income%20on%20endowment.md) | Use of income on endowment. |
 | (a), | (b) Repealed. |

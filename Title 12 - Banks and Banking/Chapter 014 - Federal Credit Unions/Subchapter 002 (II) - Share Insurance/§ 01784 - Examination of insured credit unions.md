@@ -20,7 +20,7 @@ The Administration may accept any report of examination made by or to any commis
 
 #### (1) Examination
 
-&emsp;The Board shall, during each examination conducted under this section, determine whether the insured credit union is complying with the requirements of the national flood insurance program.
+&emsp;The Board shall, during each examination conducted under this section, determinewhether the insured credit union is complying with the requirements of the national flood insurance program.
 
 #### (2) Report
 
@@ -61,10 +61,6 @@ Pub. L. 101–73, §915(a)(2), which directed the insertion of “and to exercis
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1786 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “other”.</i>
 

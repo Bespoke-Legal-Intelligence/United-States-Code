@@ -166,7 +166,7 @@ In subsection (a)(1)(C), the words “transportation is no longer being provided
 
 In subsections (a)(2) and (e), the words “opportunity for a” are added for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(2), before clause (A), the word “application” is substituted for “petition or complaint” for consistency in the revised title and with other titlesof the Code and to eliminate unnecessary words. The words “except as provided in paragraph (4) of this subsection” are added for clarity. The words “the simplified procedures under” are omitted as surplus. In clause (A), the word “alter” is omitted as surplus. In clause (B), the reference to 49 App.:1372 is omitted from the cross-references of “this subchapter” because 49 App.:1372 is concerned with foreign air carrier permits and not relevant to air carrier certificate revocation. The word “rule” is omitted as being synonymous with “regulation”. The words “condition, or limitation” are omitted as surplus.
+In subsection (a)(2), before clause (A), the word “application” is substituted for “petition or complaint” for consistency in the revised title and with other titles of the Code and to eliminate unnecessary words. The words “except as provided in paragraph (4) of this subsection” are added for clarity. The words “the simplified procedures under” are omitted as surplus. In clause (A), the word “alter” is omitted as surplus. In clause (B), the reference to 49 App.:1372 is omitted from the cross-references of “this subchapter” because 49 App.:1372 is concerned with foreign air carrier permits and not relevant to air carrier certificate revocation. The word “rule” is omitted as being synonymous with “regulation”. The words “condition, or limitation” are omitted as surplus.
 
 In subsection (a)(3), the words “to the provision, or to the order (other than an order issued in accordance with this sentence), rule, regulation, term, condition, or limitation found by the Board to have been violated” are omitted as surplus.
 
@@ -201,8 +201,4 @@ This amends 49:41110(e) to clarify the restatement of 49 App.:1371(r) (related t
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41104, 41107, 41111 of this title.
 

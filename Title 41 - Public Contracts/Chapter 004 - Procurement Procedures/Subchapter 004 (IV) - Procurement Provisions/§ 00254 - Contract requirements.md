@@ -94,7 +94,7 @@ Washington, D.C. 20570
 
 “2. The contractor will comply with all provisions of Executive Order 13201 of February 17, 2001, and related rules, regulations, and orders of the Secretary of Labor.
 
-“3. In the event that the contractor does not comply with any of the requirements set forth in paragraphs (1) or (2) above, this contract may be cancelled, terminated, or suspended in whole or in part, and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in or adopted pursuant to Executive Order 13201 of February 17, 2001. Such other sanctions or remedies may be imposed as are provided in Executive Order 13201 of February 17, 2001, or by rule, regulation, or order of the Secretary of Labor, or as are otherwise provided by law.
+“3. In the event that the contractor does not comply with any of the requirements set forth in paragraphs (1) or (2) above, this contract may be cancelled, terminated, or suspended in whole or in part, and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in or adopted pursuant to Executive Order 13201 ofFebruary 17, 2001. Such other sanctions or remedies may be imposed as are provided in Executive Order 13201 of February 17, 2001, or by rule, regulation, or order of the Secretary of Labor, or as are otherwise provided by law.
 
 “4. The contractor will include the provisions of paragraphs (1) through (3) herein in every subcontract or purchase order entered into in connection with this contract unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to section 3 of Executive Order 13201 of February 17, 2001, so that such provisions will be binding upon each subcontractor or vendor. The contractor will take such action with respect to any such subcontract or purchase order as may be directed by the Secretary of Labor as a means of enforcing such provisions, including the imposition of sanctions for non compliance: Provided, however, that if the contractor becomes involved in litigation with a subcontractor or vendor, or is threatened with such involvement, as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States.”
 
@@ -128,13 +128,13 @@ Sec. 8. Each contracting department and agency shall cooperate with the Secretar
 
 Sec. 9. The Secretary may delegate any function or duty of the Secretary under this order to any officer in the Department of Labor or to any other officer in the executive branch of the Government, with the consent of the head of the department or agency in which that officer serves.
 
-Sec. 10. The Federal Acquisition Regulatory Council (FAR Council) shall take whatever action is required to implement in the Federal Acquisition Regulation (FAR) the provisions of this order and of any related rules, regulations, or orders of the Secretary that were issued to implement this Executive Order. The FAR Council shall amend the FAR to require each solicitation of offers for a contract to include a provision that implements section 2 of this order.
+Sec. 10. The Federal Acquisition Regulatory Council (FAR Council) shall take whatever action is required to implement in the Federal Acquisition Regulation (FAR) the provisions of this order and of any related rules, regulations, or orders of the Secretary that wereissued to implement this Executive Order. The FAR Council shall amend the FAR to require each solicitation of offers for a contract to include a provision that implements section 2 of this order.
 
 Sec. 11. As it relates to notification of employee rights concerning payment of union dues or fees, Executive Order 12836 of February 1, 1993, which, among other things, revoked Executive Order 12800 of April 13, 1992, is revoked.
 
 Sec. 12. The heads of executive departments and agencies shall revoke expeditiously any orders, rules, regulations, guidelines, or policies implementing or enforcing Executive Order 12836 of February 1, 1993, as it relates to notification of employee rights concerning payment of union dues or fees, to the extent consistent with law.
 
-Sec. 13. This order is intended only to improve the internal management of the executive branch and is notintended to, nor does it, create any right to administrative or judicial review, or any right, whether substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 13. This order is intended only to improve the internal management of the executive branch and is not intended to, nor does it, create any right to administrative or judicial review, or any right, whether substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 Sec. 14. The provisions of this order shall apply to contracts resulting from solicitations issued on or after the effective date of this order.
 
@@ -145,8 +145,4 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Definitions
 
 The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 257 of this title; title 8 section 1363a; title 16 section 670<i>o</i>; title 19 section 2081; title 26 section 7608; title 38 section 8122.
 

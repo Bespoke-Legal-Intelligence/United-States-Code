@@ -204,10 +204,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2054, 2056, 2275, 2458, 2681, 6204, 6215 of this title.
-
 
 ---
 

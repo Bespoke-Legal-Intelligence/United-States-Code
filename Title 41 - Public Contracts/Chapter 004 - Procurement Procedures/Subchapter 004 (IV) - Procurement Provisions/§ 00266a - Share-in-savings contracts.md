@@ -26,7 +26,7 @@
 
 #### (b) Cancellation and termination
 
-(1) If funds are not made available for the continuation of a share-in-savings contract enteredinto under this section in a subsequent fiscal year, the contract shall be canceled or terminated. The costs of cancellation or termination may be paid out of—
+(1) If funds are not made available for the continuation of a share-in-savings contract entered into under this section in a subsequent fiscal year, the contract shall be canceled or terminated. The costs of cancellation or termination may be paid out of—
 
 &emsp;(A) appropriations available for the performance of the contract;
 

@@ -4,7 +4,3 @@ On January 3, 1975, those lands to be used for the administrative and visitor fa
 
 (Pub. L. 93–626, §7, Jan. 3, 1975, 88 Stat. 2125.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459j–1, 459j–2, 459j–4, 459j–5, 459j–8 of this title.
-

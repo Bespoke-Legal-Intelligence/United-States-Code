@@ -36,7 +36,7 @@ The President is authorized, to the extent he deems it necessary to carry out th
 
 #### (f) Delegation of authority; regulations
 
-The President may delegate any authority vested in him by this section to the Secretary of Health, Education, and Welfare. The Secretary may from time to time issue such regulations as may be necessary to carry out any authority which is delegated to him under this section, and may delegate performance of any such authority to the Surgeon General of the Public Health Service, the Director of the Office of Vocational Rehabilitation, the Chief of the Children's Bureau, or other subordinates acting under his direction.
+The President may delegate any authority vested in him by this section to the Secretary of Health, Education, and Welfare. The Secretary may from time to time issue such regulations as may be necessary to carry out any authority which is delegated to him under this section,and may delegate performance of any such authority to the Surgeon General of the Public Health Service, the Director of the Office of Vocational Rehabilitation, the Chief of the Children's Bureau, or other subordinates acting under his direction.
 
 #### (g) Use of foreign currencies and credits
 
@@ -56,7 +56,7 @@ For the purposes of this section—
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c) and (e), was in the original “this joint resolution”, which enactedthis chapter and section 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, §106, 88 Stat. 367, and is classified to section 242<i>l</i> of Title 42, The Public Health and Welfare.
+This chapter, referred to in subsecs. (c) and (e), was in the original “this joint resolution”, which enacted this chapter and section 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, §106, 88 Stat. 367, and is classified to section 242<i>l</i> of Title 42, The Public Health and Welfare.
 
 The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (g), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. Title I of the Act is classified to subchapter II (§1701 et seq.) of chapter 41 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 

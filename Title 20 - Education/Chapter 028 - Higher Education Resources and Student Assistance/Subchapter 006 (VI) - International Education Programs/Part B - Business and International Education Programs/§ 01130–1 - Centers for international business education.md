@@ -114,7 +114,7 @@ Each grant made under this section may be used to pay the Federal share of the c
 
 #### (4) Waiver of non-Federal share
 
-&emsp;In the case of an institution of higher education receiving a grant under this part and conducting outreach or consortia activities with another institution of higher education in accordance with subsection (c)(2)(E) of this section, the Secretary may waive a portion of the requirements for the non-Federal share required in paragraph (2) equal to the amount provided by the institution of higher education receiving such grant to such other institution of higher education for carrying out such outreach or consortia activities. Any such waiver shall be subject to such terms and conditions as the Secretary deems necessary for carrying out the purposes of this section.
+&emsp;In the case of an institution of higher education receiving a grant under this part andconducting outreach or consortia activities with another institution of higher education in accordance with subsection (c)(2)(E) of this section, the Secretary may waive a portion of the requirements for the non-Federal share required in paragraph (2) equal to the amount provided by the institution of higher education receiving such grant to such other institution of higher education for carrying out such outreach or consortia activities. Any such waiver shall be subject to such terms and conditions as the Secretary deems necessary for carrying out the purposes of this section.
 
 #### (f) Grant conditions
 
@@ -122,7 +122,7 @@ Grants under this section shall be made on such conditions as the Secretary dete
 
 &emsp;(1) evidence that the institution of higher education, or combination of such institutions, will conduct extensive planning prior to the establishment of a center concerning the scope of the center's activities and the design of its programs in accordance with subsection (d)(1) of this section;
 
-&emsp;(2) assurance of ongoing collaboration in the establishment and operation of the center byfaculty of the business, management, foreign language, international studies, professional international affairs, and other professional schools or departments, as appropriate;
+&emsp;(2) assurance of ongoing collaboration in the establishment and operation of the center by faculty of the business, management, foreign language, international studies, professional international affairs, and other professional schools or departments, as appropriate;
 
 &emsp;(3) assurance that the education and training programs of the center will be open to students concentrating in each of these respective areas, as appropriate; and
 
@@ -153,8 +153,4 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1130b of this title.
 

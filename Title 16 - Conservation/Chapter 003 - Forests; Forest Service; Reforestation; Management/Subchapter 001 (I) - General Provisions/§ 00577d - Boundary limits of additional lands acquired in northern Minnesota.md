@@ -1,6 +1,6 @@
 ### §577d. Boundary limits of additional lands acquired in northern Minnesota
 
-The authority granted in section 577c of this title shall be supplemental to the authority granted by existing Acts relating to the acquisition of lands for national-forest purposes and shall not be deemed as repealing any portions of those Acts except as provided hereinafter; and said supplemental authority granted by section 577c of this title, but not the authority granted by existing Acts, shall be confined to the following described areas in Cook, Lake, and Saint Louis Counties, State of Minnesota:
+The authority granted in section 577c of this title shall be supplemental to the authority granted by existing Acts relating to the acquisition of lands for national-forest purposes and shall not be deemed as repealing any portions of those Acts except as provided hereinafter; and said supplemental authority granted by section577c of this title, but not the authority granted by existing Acts, shall be confined to the following described areas in Cook, Lake, and Saint Louis Counties, State of Minnesota:
 
 Township 63 north, range 2 west, fourth principal meridian, sections 5 to 8, inclusive.
 
@@ -93,8 +93,4 @@ Township 68 north, ranges 13, 14, 15, and 16 west, fourth principal meridian, en
 Township 68 north, range 17 west, fourth principal meridian, that portion of section 36 east of Crane Lake.
 
 (June 22, 1948, ch. 593, §2, 62 Stat. 568.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 577c, 577d–1, 577g, 577h, 1133 of this title; title 31 section 6901.
 

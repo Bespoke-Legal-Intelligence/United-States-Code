@@ -200,7 +200,3 @@ Sec. 5. The Administrator of Veterans’ Affairs may prescribe such rules and re
 
 Sec. 6. Executive Order No. 11142 of February 12, 1964, is hereby superseded.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1701, 1714, 1720, 1728, 1782, 3104 of this title.
-

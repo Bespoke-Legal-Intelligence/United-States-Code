@@ -34,9 +34,5 @@ Section 1452b of this title, referred to in subsecs. (a) and (b), was repealed b
 
 Section was enacted as part of the Department of Housing and Urban Development Reform Act of 1989, and not as part of the Housing Act of 1949 which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 3763.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

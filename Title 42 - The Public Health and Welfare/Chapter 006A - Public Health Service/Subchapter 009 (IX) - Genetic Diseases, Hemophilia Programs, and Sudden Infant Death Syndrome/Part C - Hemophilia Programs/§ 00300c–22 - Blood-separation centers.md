@@ -114,7 +114,7 @@ Determination.—The Secretary determines, in accordance with section 103(b), th
 
 “(a)
 
-Establishment of Filing Procedures.—The Secretary of Health and Human Services shall establishprocedures under which individuals may submit petitions for payment under this title. The procedures shall include a requirement that each petition filed under this Act include written medical documentation that the relevant individual described in section 102(a)(1) has (or had) a blood-clotting disorder, such as hemophilia, and was treated as described in such section.
+Establishment of Filing Procedures.—The Secretary of Health and Human Services shall establish procedures under which individuals may submit petitions for payment under this title. The procedures shall include a requirement that each petition filed under this Act include written medical documentation that the relevant individual described in section 102(a)(1) has (or had) a blood-clotting disorder, such as hemophilia, and was treated as described in such section.
 
 “(b)
 
@@ -184,7 +184,7 @@ Treatment of Payments Under Other Laws.—A payment under subsection (c)(1) to a
 
 &emsp;“(1) shall be treated for purposes of the Internal Revenue Code of 1986 as damages described in section 104(a)(2) of such Code;
 
-&emsp;“(2) shall not be included as income or resources for purposes of determining the eligibility of the individual to receive benefits described in section 3803(c)(2)(C) of title 31, United States Code, or the amount of such benefits, and such benefits shall not be secondary to, conditioned upon reimbursement from, or subject to any reduction because of receipt of, any such payment; and
+&emsp;“(2) shall not be included as income or resources for purposes of determining the eligibility of the individual to receive benefits described in section3803(c)(2)(C) of title 31, United States Code, or the amount of such benefits, and such benefits shall not be secondary to, conditioned upon reimbursement from, or subject to any reduction because of receipt of, any such payment; and
 
 &emsp;“(3) shall not be treated as a third party payment or payment in relation to a legal liability with respect to such benefits and shall not be subject (whether by subrogation or otherwise) to recovery, recoupment, reimbursement, or collection with respect to such benefits (including the Federal or State governments or any entity that provides such benefits under a contract).
 

@@ -28,7 +28,3 @@ Sec. 4. This Order shall be effective immediately.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1908 of this title.
-

@@ -30,9 +30,17 @@
 
 &emsp;(9) That the course meets such other criteria as may be established by the State approving agency.
 
-(Added Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186, §1777; amended Pub. L. 91–219, title II, §212, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title III, §314, Oct. 24, 1972, 86 Stat. 1084; Pub. L. 94–502, title V, §513(a)(3), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3677, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title II, §205(a), Nov. 11, 1998, 112 Stat. 3327.)
+(d)(1) The Secretary may conduct a pilot program under which the Secretary operates a program of training on the job under this section for a period (notwithstanding subsection (c)(2)) of up to three years in duration to train employees of the Department to become qualified adjudicators of claims for compensation, dependency and indemnity compensation, and pension.
+
+(2)(A) Not later than three years after the implementation of the pilot project, the Secretary shall submit to Congress an initial report on the pilot project. The report shall include an assessment of the usefulness of the program in recruiting and retaining of personnel of the Department as well as an assessment of the value of the program as a training program.
+
+(B) Not later than 18 months after the date on which the initial report under subparagraph (A) is submitted, the Secretary shall submit to Congress a final report on the pilot project. The final report shall include recommendations of the Secretary with respect to continuation of the pilot project and with respect to expansion of the types of claims for which the extended period of on the job training is available to train such employees.
+
+(Added Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186, §1777; amended Pub. L. 91–219, title II, §212, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title III, §314, Oct. 24, 1972, 86 Stat. 1084; Pub. L. 94–502, title V, §513(a)(3), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3677, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title II, §205(a), Nov. 11, 1998, 112 Stat. 3327; Pub. L. 108–454, title I, §108, Dec. 10, 2004, 118 Stat. 3604.)
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–454 added subsec. (d).
 
 1998—Subsec. (b). Pub. L. 105–368 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former cls. (A) and (B) of par. (1) as cls. (i) and (ii), respectively, of subpar. (A), and added par. (2).
 
@@ -59,8 +67,4 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 #### Effective Date
 
 Section effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as an Effective Date of 1967 Amendment note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3672, 3687 of this title.
 

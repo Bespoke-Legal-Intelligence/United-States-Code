@@ -28,7 +28,7 @@ Provisions similar to those comprising this section were contained in section 1 
 
 #### Amendments
 
-1964—Subsec. (b). Pub. L. 88–489, §1, struck out subsec. (b) which found that use of United States property by others must be regulated in national interest and inorder to provide for common defense and security and to protect health and safety of public.
+1964—Subsec. (b). Pub. L. 88–489, §1, struck out subsec. (b) which found that use of United States property by others must be regulated in national interest and in order to provide for common defense and security and to protect health and safety of public.
 
 Subsec. (h). Pub. L. 88–489, §2, struck out subsec. (h) which found it essential to common defense and security that title to all special nuclear material be in United States while such special nuclear material is within United States.
 
@@ -41,8 +41,4 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 #### Control and Regulation Powers of United States and of Atomic Energy Commission Unaffected by Private Ownership of Special Nuclear Materials
 
 Section 20 of Pub. L. 88–489 provided that: “Nothing in this Act \[amending this section and sections 2013, 2073 to 2078, 2135, 2153, 2201, 2233 and 2234 of this title, repealing section 2072 of this title, and enacting provisions set out as notes under this section and section 2072 of this title\] shall be deemed to diminish existing authority of the United States, or of the Atomic Energy Commission under the Atomic Energy Act of 1954, as amended \[this chapter\], to regulate source, byproduct, and special nuclear material and production and utilization facilities, or to control such materials and facilities exported from the United States by imposition of governmental guarantees and security safeguards with respect thereto, in order to assure the common defense and security and to protect the health and safety of the public, or to reduce the responsibility of the Atomic Energy Commission to achieve such objectives.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2210 of this title.
 

@@ -42,7 +42,3 @@ In clause (5), the words “ammunition, repair parts, and other supplies” are 
 
 In clause (6), the words “supplies and services” are substituted for “supplies, appliances, clerical services, other related services, and labor” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 40706 of this title.
-

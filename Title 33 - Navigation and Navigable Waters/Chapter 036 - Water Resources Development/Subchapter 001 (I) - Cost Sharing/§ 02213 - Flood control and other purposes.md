@@ -32,7 +32,7 @@
 
 #### (2) Non-Federal contribution in excess of 35 percent
 
-&emsp;At any time during construction of a project, if the Secretary determines that thecosts of land, easements, rights-of-way, dredged material disposal areas, and relocations for the project, in combination with other costs contributed by the non-Federal interests, will exceed 35 percent, any additional costs for the project (not to exceed 65 percent of the total costs of the project) shall be a Federal responsibility and shall be contributed during construction as part of the Federal share.
+&emsp;At any time during construction of a project, if the Secretary determines that the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for the project, in combination with other costs contributed by the non-Federal interests, will exceed 35 percent, any additional costs for the project (not to exceed 65 percent of the total costs of the project) shall be a Federal responsibility and shall be contributed during construction as part of the Federal share.
 
 #### (c) Other purposes
 
@@ -56,7 +56,7 @@ The non-Federal share of the cost assigned to other project purposes shall be as
 
 #### (1) Construction
 
-&emsp;Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) of this section and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to private interests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
+&emsp;Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) of this section and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to privateinterests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
 
 #### (2) Periodic nourishment
 
@@ -104,7 +104,7 @@ For purposes of this Act, the term “separable element” means a portion of a 
 
 #### (g) Deferral of payment
 
-(1) With respect to the projects listed in paragraph (2), no amount of the non-Federal sharerequired under this section shall be required to be paid during the three-year period beginning on November 17, 1986.
+(1) With respect to the projects listed in paragraph (2), no amount of the non-Federal share required under this section shall be required to be paid during the three-year period beginning on November 17, 1986.
 
 (2) The projects referred to in paragraph (1) are the following:
 
@@ -134,7 +134,7 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 &emsp;&emsp;(A) shall terminate or suspend work on the project unless the Secretary determines that continuation of the work is in the interest of the United States or is necessary in order to satisfy agreements with other non-Federal interests in connection with the project; and
 
-&emsp;&emsp;(B) may terminate or adjust the rights and privileges of the non-Federal interest to project outputs under the terms of the agreement.
+&emsp;&emsp;(B) may terminate or adjust the rights and privileges of the non-Federal interest toproject outputs under the terms of the agreement.
 
 #### (k) Payment options
 
@@ -252,7 +252,7 @@ Amendment of cooperation agreement.—If requested by the non-Federal interest, 
 
 Non-federal option.—If requested by the non-Federal interest, the Secretary shall apply the criteria and procedures established pursuant to section 103(m) of the Water Resources Development Act of 1986 \[subsec. (m) of this section\] as in effect on the day before the date of the enactment of this Act for projects that are authorized before the date of the enactment of this Act.”
 
-Section 210(b) of Pub. L. 104–303 provided that: “The amendments made by subsection (a) \[amending thissection\] apply only to projects authorized after the date of the enactment of this Act \[Oct. 12, 1996\].”
+Section 210(b) of Pub. L. 104–303 provided that: “The amendments made by subsection (a) \[amending this section\] apply only to projects authorized after the date of the enactment of this Act \[Oct. 12, 1996\].”
 
 #### Continuation of Existing Regulations
 
@@ -261,8 +261,4 @@ Section 305(b) of Pub. L. 101–640 provided that: “Regulations issued to carr
 #### Reports to Congress
 
 Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 401, provided that: “The Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after a written request is made pursuant to the provisions of subsection (m) of section 103 of Public Law 99–662 \[33 U.S.C. 2213(m)\] indicating the action taken on the request. In addition, the Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after enactment of this Act \[July 11, 1987\] listing any project or study falling under the provisions of subsection (e)(1) of section 103 of Public Law 99–662.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 426h–1, 2214, 2215, 2307, 2326a, 2332 of this title.
 

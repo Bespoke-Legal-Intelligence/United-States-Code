@@ -18,9 +18,5 @@ The Secretaries may carry out subsection (a) of this section through such means 
 
 Section 2019(3) of title 25, referred to in subsec. (a), was omitted in the general amendment of chapter 22 (§2001 et seq.) of Title 25, Indians, by Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6162 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

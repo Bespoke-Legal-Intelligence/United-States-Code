@@ -10,7 +10,7 @@ Within eighteen months after October 8, 1986, the Secretary, in consultation wit
 
 &emsp;(1) complete a study of the tributary floodflows downstream of Davis Dam;
 
-&emsp;(2) define the specific boundaries of the Colorado River Floodway so that the Floodway can accommodate either a one-in-one hundred year river flow consisting of controlled releases and tributary inflow, or a flow of forty thousand cubic feet per second (cfs), whichever is greater, from below Davis Dam to the Southerly International Boundary between the United States of America and the Republic of Mexico.
+&emsp;(2) define the specific boundaries of the Colorado River Floodway so that the Floodway canaccommodate either a one-in-one hundred year river flow consisting of controlled releases and tributary inflow, or a flow of forty thousand cubic feet per second (cfs), whichever is greater, from below Davis Dam to the Southerly International Boundary between the United States of America and the Republic of Mexico.
 
 #### (c) Review and modification of boundaries; notice and comment; written justification for decision of Secretary
 
@@ -25,8 +25,4 @@ Within eighteen months after October 8, 1986, the Secretary, in consultation wit
 1998—Subsec. (b). Pub. L. 105–362, §901(d)(1), struck out par. (1) designation, redesignated cls. (i) and (ii) of former par. (1) as pars. (1) and (2), respectively, and struck out former pars. (2) and (3) which related to preparation and filing of maps with congressional committees, Federal, State, and local government agencies, and federally insured financial institutions.
 
 Subsec. (c)(1). Pub. L. 105–362, §901(d)(2), substituted “appropriate chief executive officers of States, counties, municipalities, water districts, Indian tribes, or equivalent jurisdictions in which the Floodway is located,” for “the appropriate officers referred to in paragraph (3) of subsection (b) of this section,”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1600a, 1600b, 1600d, 1600<i>l</i> of this title; title 42 section 4029.
 

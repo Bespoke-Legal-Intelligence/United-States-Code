@@ -2,7 +2,7 @@
 
 #### (a) Penalty
 
-Any person who violates section 841(a)(1) of this title or section 856 of this title by distributing, possessing with intent to distribute, or manufacturing a controlled substance in or on, or within one thousand feet of, the real property comprising a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university, or a playground, or housing facility owned by a public housing authority, or within 100 feet of a public or private youth center, public swimming pool, or video arcade facility, is (except as provided in subsection (b) of this section) subject to (1) twice the maximum punishment authorized by section 841(b) of this title; and (2) at least twice any term of supervised release authorized by section 841(b) of this title for a first offense. A fine up to twice that authorized by section 841(b) of this title may be imposed in addition to any term of imprisonment authorized by this subsection. Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a person shall be sentenced under this subsection to a term of imprisonment of not less than one year. The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana.
+Any person who violates section 841(a)(1) of this title or section 856 of this title by distributing, possessing with intent to distribute, or manufacturing a controlled substance in or on, or within one thousand feet of, the real property comprising a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university, or a playground, or housing facility owned by a public housing authority, or within 100 feet of a public or private youth center, public swimming pool, or video arcade facility, is (except as provided in subsection (b) of this section) subject to (1)twice the maximum punishment authorized by section 841(b) of this title; and (2) at least twice any term of supervised release authorized by section 841(b) of this title for a first offense. A fine up to twice that authorized by section 841(b) of this title may be imposed in addition to any term of imprisonment authorized by this subsection. Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a person shall be sentenced under this subsection to a term of imprisonment of not less than one year. The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana.
 
 #### (b) Second offenders
 
@@ -93,8 +93,4 @@ Subsec. (c). Pub. L. 99–570, §1866(c), substituted reference to chapter 311 o
 #### Effective Date of 1986 Amendment
 
 Amendment by section 1004(a) of Pub. L. 99–570 effective on date of taking effect of section 3583 of Title 18, Crimes and Criminal Procedure (Nov. 1, 1987), see section 1004(b) of Pub. L. 99–570 set out as a note under section 841 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 841, 859 of this title; title 18 section 3592; title 42 section 14051.
 

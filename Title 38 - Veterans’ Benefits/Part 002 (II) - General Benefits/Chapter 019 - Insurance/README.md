@@ -134,10 +134,6 @@ Pub. L. 100–322, title III, §331(a)(2), (b)(2), May 20, 1988, 102 Stat. 536, 
 
 1964—Pub. L. 88–664, §12(c), Oct. 13, 1964, 78 Stat. 1099, added item 725.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 101, 106, 5301, 5303A, 5313B of this title.
-
 
 ---
 

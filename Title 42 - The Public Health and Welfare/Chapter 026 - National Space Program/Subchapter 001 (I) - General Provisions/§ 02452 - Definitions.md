@@ -52,7 +52,3 @@ Pub. L. 106–391, §3, Oct. 30, 2000, 114 Stat. 1579, provided that: “For pur
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) providing adequate and effective protection for the intellectual property rights of companies described in subparagraph (A).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2486b of this title.
-

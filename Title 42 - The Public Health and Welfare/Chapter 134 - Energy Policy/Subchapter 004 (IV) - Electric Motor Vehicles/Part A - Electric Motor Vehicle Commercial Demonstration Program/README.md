@@ -1,9 +1,5 @@
 Part A—Electric Motor Vehicle Commercial Demonstration Program
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 13291 of this title.
-
 
 ---
 

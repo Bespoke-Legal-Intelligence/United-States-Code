@@ -48,7 +48,7 @@ The consumer shall be permitted to be accompanied by one other person of his cho
 
 Except as provided in sections 1681n and 1681<i>o</i> of this title, no consumer may bring any action or proceeding in the nature of defamation, invasion of privacy, or negligence with respect to the reporting of information against any consumer reporting agency, any user of information, or any person who furnishes information to a consumer reporting agency, based on information disclosed pursuant to section 1681g, 1681h, or 1681m of this title, or based on information disclosed by a user of a consumer report to or for a consumer against whom the user has taken adverse action, based in whole or in part on the report <sup>2</sup> except as to false information furnished with malice or willful intent to injure such consumer.
 
-(Pub. L. 90–321, title VI, §610, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1131;amended Pub. L. 104–208, div. A, title II, §2408(e)(1), (4), (5)(B), Sept. 30, 1996, 110 Stat. 3009–438, 3009–439.)
+(Pub. L. 90–321, title VI, §610, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1131; amended Pub. L. 104–208, div. A, title II, §2408(e)(1), (4), (5)(B), Sept. 30, 1996, 110 Stat. 3009–438, 3009–439.)
 
 #### Amendments
 
@@ -67,10 +67,6 @@ Subsec. (e). Pub. L. 104–208, §2408(e)(4), inserted “or based on informatio
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1681g of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
 

@@ -18,7 +18,3 @@ The permit of any person to operate a facility to treat garbage in any State sha
 
 (Pub. L. 96–468, §5, Oct. 17, 1980, 94 Stat. 2230.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3806 of this title.
-

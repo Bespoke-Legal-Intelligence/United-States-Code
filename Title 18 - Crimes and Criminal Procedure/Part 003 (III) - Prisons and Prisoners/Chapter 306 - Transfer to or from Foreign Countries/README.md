@@ -26,10 +26,6 @@
 
 1988—Pub. L. 100–690, title VII, §7101(c), Nov. 18, 1988, 102 Stat. 4415, added item 4106A.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 10 section 955.
-
 
 ---
 

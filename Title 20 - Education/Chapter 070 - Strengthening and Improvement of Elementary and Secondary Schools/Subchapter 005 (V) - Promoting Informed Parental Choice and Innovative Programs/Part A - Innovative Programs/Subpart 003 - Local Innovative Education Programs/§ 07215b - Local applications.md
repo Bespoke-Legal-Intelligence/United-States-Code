@@ -54,7 +54,3 @@ An application submitted by a local educational agency under subsection (a) of t
 
 A prior section 5133 of Pub. L. 89–10 was classified to section 3213 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7211a, 7213a of this title.
-

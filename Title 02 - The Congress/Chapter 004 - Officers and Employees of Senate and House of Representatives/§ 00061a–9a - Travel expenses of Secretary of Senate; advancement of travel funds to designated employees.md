@@ -6,13 +6,13 @@ For the purpose of carrying out his duties, the Secretary of the Senate is autho
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–367 struck out provision that travel expenses could not exceed $10,000 during any fiscal year.
+1984—Pub. L. 98–367 struck out provision that travel expenses could not exceed $10,000 during any fiscal year.
 
-<b>1981</b>—Pub. L. 97–12 substituted “$10,000” for “$7,500”.
+1981—Pub. L. 97–12 substituted “$10,000” for “$7,500”.
 
-<b>1978</b>—Pub. L. 95–355 substituted “$7,500” for “$5,500”.
+1978—Pub. L. 95–355 substituted “$7,500” for “$5,500”.
 
-<b>1977</b>—Pub. L. 95–94 substituted “$5,500” for “$5,000”.
+1977—Pub. L. 95–94 substituted “$5,500” for “$5,000”.
 
 #### Effective Date of 1984 Amendment
 

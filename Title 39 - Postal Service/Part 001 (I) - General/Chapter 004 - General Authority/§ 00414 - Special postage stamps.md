@@ -44,15 +44,17 @@
 
 (g) For purposes of section 416 (including any regulation prescribed under subsection (e)(1)(C) of that section), the special postage stamp issued under this section shall not apply to any limitation relating to whether more than 1 semipostal may be offered for sale at the same time.
 
-(h) This section shall cease to be effective after December 31, 2003.
+(h) This section shall cease to be effective after December 31, 2005.
 
-(Added Pub. L. 105–41, §2(a), Aug. 13, 1997, 111 Stat. 1119; amended Pub. L. 106–253, §3(a), July 28, 2000, 114 Stat. 636; Pub. L. 107–67, title VI, §650(b)(1), (c), Nov. 12, 2001, 115 Stat. 556, 557.)
+(Added Pub. L. 105–41, §2(a), Aug. 13, 1997, 111 Stat. 1119; amended Pub. L. 106–253, §3(a), July 28, 2000, 114 Stat. 636; Pub. L. 107–67, title VI, §650(b)(1), (c), Nov. 12, 2001, 115 Stat. 556, 557; Pub. L. 108–199, div. F, title V, §541, Jan. 23, 2004, 118 Stat. 346.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 105–41, which was approved Aug. 13, 1997.
 
 #### Amendments
+
+2004—Subsec. (h). Pub. L. 108–199 substituted “2005” for “2003”.
 
 2001—Subsec. (b). Pub. L. 107–67, §650(c), substituted “of not less than 15 percent” for “of not to exceed 25 percent” in par. (1) and inserted at end of concluding provisions “The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.”
 
@@ -77,8 +79,4 @@ Section 2(b) of Pub. L. 105–41 provided that: “No later than 3 months (but n
 &emsp;“(1) an evaluation of the effectiveness and the appropriateness of the authority provided by such section as a means of fund-raising; and
 
 &emsp;“(2) a description of the monetary and other resources required of the Postal Service in carrying out such section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 416 of this title.
 

@@ -18,10 +18,6 @@ Attention is directed to the consideration of the extension of the laws now appl
 
 2001—Pub. L. 107–56, title VIII, §801(f), Oct. 26, 2001, 115 Stat. 376, added item 1993.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 35 of this title.
-
 
 ---
 

@@ -42,7 +42,3 @@ Whenever the Federal assistance provided under subsection (a) of this section wi
 
 Amendment by Pub. L. 106–390 effective 18 months after Oct. 30, 2000, see section 206(d) of Pub. L. 106–390, set out as a note under section 5174 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5159, 5189, 5191 of this title; title 7 section 2014; title 16 section 3505.
-

@@ -40,7 +40,7 @@ In General.—For a period of not less than 2 years beginning on or before the 9
 
 “(b)
 
-Monitoring.—The Secretary shall monitor reports received by the telephone system and may consider nonfrivolous information provided by such reportsin setting priorities for motor carrier safety audits and other enforcement activities.
+Monitoring.—The Secretary shall monitor reports received by the telephone system and may consider nonfrivolous information provided by such reports in setting priorities for motor carrier safety audits and other enforcement activities.
 
 “(c)
 

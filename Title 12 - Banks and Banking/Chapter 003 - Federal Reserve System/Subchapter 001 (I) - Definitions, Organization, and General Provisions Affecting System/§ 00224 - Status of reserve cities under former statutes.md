@@ -1,6 +1,6 @@
 ### §224. Status of reserve cities under former statutes
 
-The organization of reserve districts and Federal reserve cities shall not be construed as changing the present status of reserve cities except insofar as this chapter changes the amount of reserves that may be carried with approved reserve agents located therein.
+The organization of reserve districts and Federal reserve cities shall not be construed aschanging the present status of reserve cities except insofar as this chapter changes the amount of reserves that may be carried with approved reserve agents located therein.
 
 (Dec. 23, 1913, ch. 6, §2, 38 Stat. 251; Pub. L. 86–114, §3(b)(5), July 28, 1959, 73 Stat. 264.)
 
@@ -19,8 +19,4 @@ Amendment by Pub. L. 86–114 effective three years after July 28, 1959, see sec
 #### Prior Provisions
 
 Provisions relating to reserve cities and central reserve cities were contained in R.S. §§5191, 5192, and act Mar. 3, 1887, ch. 378, §§1, 2, 24 Stat. 559, 560.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 481 of this title.
 

@@ -48,9 +48,5 @@ In making such grants, the Council shall give preference to coalitions consistin
 
 This part, referred to in subsec. (d)(1), appearing in the original is unidentifiable because subtitle A of title III of Pub. L. 103–322 does not contain parts.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -26,7 +26,3 @@ Using funds made available under section 6754(b)(2) of this title, the Secretary
 
 (Pub. L. 89–10, title II, §2421, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1682.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6754 of this title.
-

@@ -6,7 +6,7 @@ The Secretary shall undertake appraisal investigations to identify opportunities
 
 #### (b) Matters to be considered
 
-Appraisal investigations undertaken by the Secretary or the non-Federal project sponsor pursuant to sections 390h to 390h–17 of this title shall consider, among other things—
+Appraisal investigations undertaken by the Secretary or the non-Federal project sponsor pursuant to sections 390h to 390h–18 of this title shall consider, among other things—
 
 &emsp;(1) all potential uses of reclaimed water, including, but not limited to, environmental restoration, fish and wildlife, groundwater recharge, municipal, domestic, industrial, agricultural, power generation, and recreation;
 
@@ -20,7 +20,7 @@ Appraisal investigations undertaken by the Secretary or the non-Federal project 
 
 #### (c) Consultation and cooperation
 
-The Secretary shall consult and cooperate with appropriate State, regional, and local authorities during the conduct of each appraisal investigation conducted pursuant to sections 390h to 390h–17 of this title.
+The Secretary shall consult and cooperate with appropriate State, regional, and local authorities during the conduct of each appraisal investigation conducted pursuant to sections 390h to 390h–18 of this title.
 
 #### (d) Nonreimbursable costs
 
@@ -35,8 +35,4 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pu
 #### Amendments
 
 1996—Subsec. (b). Pub. L. 104–266 inserted “by the Secretary or the non-Federal project sponsor” after “undertaken” in introductory provisions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390h–2, 390h–13 of this title.
 

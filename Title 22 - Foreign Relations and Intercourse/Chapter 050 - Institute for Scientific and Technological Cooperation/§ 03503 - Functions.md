@@ -26,7 +26,7 @@ For purposes of carrying out the functions of the Institute, the President may u
 
 #### (d) Consultation and cooperation with United States and foreign government agencies, and international organizations
 
-The Institute shall carry out its functions in consultation and cooperation with the agenciesof the United States Government, international organizations, and agencies of other governments engaged in promoting economic, social, and technological development in developing countries.
+The Institute shall carry out its functions in consultation and cooperation with the agencies of the United States Government, international organizations, and agencies of other governments engaged in promoting economic, social, and technological development in developing countries.
 
 #### (e) Presidential promulgation of coordination procedures concerning other governmental activities
 

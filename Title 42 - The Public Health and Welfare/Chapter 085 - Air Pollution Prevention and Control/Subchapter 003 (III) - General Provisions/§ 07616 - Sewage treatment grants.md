@@ -20,7 +20,7 @@ The Administrator may withhold, condition, or restrict the making of any grant f
 
 &emsp;(4) such increase in emissions would interfere with, or be inconsistent with, the applicable implementation plan for any other State.
 
-> In the case of construction of a treatment works which would result, directly or indirectly, in an increase in emissions of any air pollutant from stationary and mobile sources in an area to which part D of subchapter I of this chapter applies, the quantification of emissions referred to in paragraph (2) shall include the emissions of any such pollutant resulting directly or indirectly from areawide and nonmajor stationary source growth (mobile and stationary) for each such area.
+> In the case of construction of a treatment works which would result, directly or indirectly, in anincrease in emissions of any air pollutant from stationary and mobile sources in an area to which part D of subchapter I of this chapter applies, the quantification of emissions referred to in paragraph (2) shall include the emissions of any such pollutant resulting directly or indirectly from areawide and nonmajor stationary source growth (mobile and stationary) for each such area.
 
 #### (c) National Environmental Policy Act
 

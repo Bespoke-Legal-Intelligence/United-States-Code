@@ -42,7 +42,3 @@ Subsec. (c). Pub. L. 99–247, §1(d)(3), substituted “enactment of joint reso
 
 Amendment by Pub. L. 104–164 applicable with respect to certifications required to be submitted on or after July 21, 1996, see section 141(f) of Pub. L. 104–164, set out as a note under section 2753 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2796a of this title.
-

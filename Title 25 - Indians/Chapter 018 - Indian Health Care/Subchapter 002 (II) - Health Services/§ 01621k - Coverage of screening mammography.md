@@ -8,7 +8,3 @@ The Secretary, through the Service, shall provide for screening mammography (as 
 
 The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1621 of this title.
-

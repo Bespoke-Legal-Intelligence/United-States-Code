@@ -10,3 +10,7 @@ The Secretary shall submit to the Committee on Education and Labor of the House 
 
 (Pub. L. 103–227, title VII, §708, Mar. 31, 1994, 108 Stat. 209.)
 
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+

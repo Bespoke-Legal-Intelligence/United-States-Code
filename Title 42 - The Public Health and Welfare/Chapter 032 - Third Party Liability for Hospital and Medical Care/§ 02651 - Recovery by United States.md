@@ -6,7 +6,7 @@ In any case in which the United States is authorized or required by law to furni
 
 #### (b) Recovery of cost of pay for member of uniformed services unable to perform duties
 
-If a member of the uniformed services is injured, or contracts a disease, under circumstances creating a tort liability upon a third person (other than or in addition to the United States and except employers of seamen referred to in subsection (a) of this section) for damages for such injury or disease and the member is unable to perform the member's regular military duties as a result of the injury or disease, the United States shall have a right (independent of the rights of the member) to recover from the third person or an insurer of the third person, or both, the amount equal to the total amount of the pay that accrues and is to accrue to the member for the period for which the member is unable to perform such duties as a result of the injury or disease and is not assigned to perform other military duties.
+If a member of the uniformed services is injured, or contracts a disease, under circumstances creating a tort liability upon a third person (other than or in addition to the UnitedStates and except employers of seamen referred to in subsection (a) of this section) for damages for such injury or disease and the member is unable to perform the member's regular military duties as a result of the injury or disease, the United States shall have a right (independent of the rights of the member) to recover from the third person or an insurer of the third person, or both, the amount equal to the total amount of the pay that accrues and is to accrue to the member for the period for which the member is unable to perform such duties as a result of the injury or disease and is not assigned to perform other military duties.
 
 #### (c) United States deemed third party beneficiary under alternative system of compensation
 
@@ -26,7 +26,7 @@ The United States may, to enforce a right under subsections (a), (b), and (c) of
 
 #### (e) Veterans’ exception
 
-The provisions of this section shall not apply with respect to hospital, medical, surgical, ordental care and treatment (including prostheses and medical appliances) furnished by the Department of Veterans Affairs to an eligible veteran for a service-connected disability under the provisions of chapter 17 of title 38.
+The provisions of this section shall not apply with respect to hospital, medical, surgical, or dental care and treatment (including prostheses and medical appliances) furnished by the Department of Veterans Affairs to an eligible veteran for a service-connected disability under the provisions of chapter 17 of title 38.
 
 #### (f) Crediting of amounts recovered
 
@@ -91,8 +91,4 @@ Section 4 of Pub. L. 87–693 provided that: “This Act \[enacting this chapter
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2652, 2653 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—INVESTMENT DIVISION PROGRAMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 633, 634, 697f of this title.
-
 
 ---
 

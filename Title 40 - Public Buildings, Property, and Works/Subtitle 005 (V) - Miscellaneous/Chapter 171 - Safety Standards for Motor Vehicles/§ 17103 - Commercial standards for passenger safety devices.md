@@ -26,7 +26,3 @@ Pub. L. 88–515, §§2, 4, Aug. 30, 1964, 78 Stat. 696.
 
 The first sentence of section 4 of the Act of August 30, 1964, and 40:702 (last sentence) are omitted as executed.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 17102 of this title.
-

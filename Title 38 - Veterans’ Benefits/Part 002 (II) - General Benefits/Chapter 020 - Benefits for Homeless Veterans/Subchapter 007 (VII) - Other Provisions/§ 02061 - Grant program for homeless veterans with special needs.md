@@ -30,7 +30,7 @@ Pub. L. 107–95, §7, Dec. 21, 2001, 115 Stat. 919, provided that:
 
 “(a)
 
-Study.—The Secretary of Veterans Affairs shall conduct a study of the effectiveness during fiscal year 2002 through fiscal year 2004 of the grant program under section 2061 of title 38, United States Code, as added by section 5(a), in meeting the needs of homeless veterans with special needs (as specified in that section). As part of the study, the Secretary shall compare the results of programs carried out under that section, in terms of veterans’ satisfaction, health status, reduction in addiction severity, housing, and encouragement of productive activity, with results for similar veterans in programs of the Department or of grant and per diem providers that are designed to meet the general needs of homeless veterans.
+Study.—The Secretary of Veterans Affairs shall conduct a study of the effectiveness during fiscal year 2002 through fiscal year 2004 of the grant program under section 2061 of title 38, United States Code, as added by section 5(a), in meeting the needs of homeless veterans with special needs (as specified in that section). As part of the study, the Secretary shall compare the results of programs carried out under that section, in terms of veterans’ satisfaction, health status, reduction in addiction severity, housing, and encouragement of productive activity, with results for similar veterans in programs of the Department or of grant and per diemproviders that are designed to meet the general needs of homeless veterans.
 
 “(b)
 

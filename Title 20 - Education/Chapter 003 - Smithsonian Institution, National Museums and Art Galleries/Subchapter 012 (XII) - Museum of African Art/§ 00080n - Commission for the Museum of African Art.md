@@ -26,7 +26,3 @@ The Commission shall select officers, from among its members biennially and shal
 
 (Pub. L. 95–414, §4, Oct. 5, 1978, 92 Stat. 911.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80m of this title.
-

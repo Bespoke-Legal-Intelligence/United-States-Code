@@ -60,7 +60,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;&emsp;(II) who had not withdrawn from the plan before such date.
 
-(4)(A) An employer's proportional share of the unamortized amount of the reallocated unfunded vested benefits is the sum of the employer's proportional share of the unamortized amount of the reallocated unfunded vested benefits for each plan year ending before the plan year in which the employer withdrew from the plan.
+(4)(A) An employer's proportional share of the unamortized amount of the reallocated unfunded vested benefits is the sum of the employer's proportional share of the unamortized amount of the reallocated unfunded vested benefits for each plan year ending before the planyear in which the employer withdrew from the plan.
 
 (B) Except as otherwise provided in regulations prescribed by the corporation, the reallocated unfunded vested benefits for a plan year is the sum of—
 
@@ -112,7 +112,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 (3) The amount of the unfunded vested benefits allocable to an employer under this paragraph is the product of—
 
-&emsp;(A) the plan's unfunded vested benefits as of the end of the plan year preceding the plan year in which the employer withdraws, less the value as of the end of such year of all outstanding claims for withdrawal liability which can reasonably be expected to be collected from employers withdrawing before such year; multiplied by
+&emsp;(A) the plan's unfunded vested benefits as of the end of the plan year preceding the plan year in which the employer withdraws, less the value as of the end of such year of all outstanding claims for withdrawal liability whichcan reasonably be expected to be collected from employers withdrawing before such year; multiplied by
 
 &emsp;(B) a fraction—
 
@@ -215,10 +215,6 @@ Subsec. (c)(2). Pub. L. 98–369, §558(b)(1)(A), (B), substituted “September 
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1381, 1386, 1389, 1394, 1399, 1400, 1401, 1415 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

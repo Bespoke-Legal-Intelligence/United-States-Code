@@ -71,10 +71,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1021, 1022, 1022b, 1022c, 1022d, 1022f, 1023 of this title.
-
 
 ---
 

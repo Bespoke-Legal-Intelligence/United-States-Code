@@ -10,7 +10,3 @@ The amount granted to any organization under subsection (a) of this section shal
 
 (July 14, 1955, ch. 360, title I, §175, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 749.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7626 of this title.
-

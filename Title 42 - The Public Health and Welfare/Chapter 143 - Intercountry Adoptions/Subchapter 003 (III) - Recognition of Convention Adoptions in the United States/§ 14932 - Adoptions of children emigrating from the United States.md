@@ -34,7 +34,7 @@ In the case of a Convention adoption involving the emigration of a child residin
 
 &emsp;&emsp;(B) the information and documents described in paragraph (2), to the extent required by the United States central authority; and
 
-&emsp;&emsp;(C) any other information concerning the case required by the United States central authority to perform the functions specifiedin subsection (c) of this section or otherwise to carry out the duties of the United States central authority under the Convention.
+&emsp;&emsp;(C) any other information concerning the case required by the United States central authority to perform the functions specified in subsection (c) of this section or otherwise to carry out the duties of the United States central authority under the Convention.
 
 #### (b) Conditions on State court orders
 
@@ -61,8 +61,4 @@ Accredited agencies, approved persons, and other persons, including governmental
 #### Effective Date
 
 Section effective upon entry into force for the United States of the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, see section 505(a)(2), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14931, 14953 of this title.
 

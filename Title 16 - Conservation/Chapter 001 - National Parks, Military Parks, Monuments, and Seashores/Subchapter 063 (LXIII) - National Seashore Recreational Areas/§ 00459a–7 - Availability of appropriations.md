@@ -4,7 +4,3 @@ Any funds appropriated to the Department of the Interior for the acquisition of 
 
 (Aug. 6, 1956, ch. 988, §2, 70 Stat. 1066.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 459a–8 of this title.
-

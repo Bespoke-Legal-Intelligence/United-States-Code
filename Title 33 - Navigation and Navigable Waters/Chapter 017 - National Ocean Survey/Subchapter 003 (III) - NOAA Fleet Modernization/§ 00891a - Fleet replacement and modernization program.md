@@ -8,7 +8,3 @@ The Secretary is authorized to implement, subject to the requirements of this su
 
 This subchapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”, meaning title VI of Pub. L. 102–567, which enacted this subchapter, to reflect the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 891b of this title.
-

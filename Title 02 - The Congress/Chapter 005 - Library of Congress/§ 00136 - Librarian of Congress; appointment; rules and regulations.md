@@ -10,5 +10,5 @@ R.S. §§88, 89, 4950, which were repealed by acts Feb. 28, 1933, ch. 131, §1, 
 
 #### Amendments
 
-<b>1972</b>—Pub. L. 92–310 struck out provisions which required the Librarian of Congress to give a bond in the sum of $20,000.
+1972—Pub. L. 92–310 struck out provisions which required the Librarian of Congress to give a bond in the sum of $20,000.
 

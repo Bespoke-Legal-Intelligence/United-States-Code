@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than one year after January 4, 2002, the Secretary, acting through the Director of the National Institutes of Health and in consultation with the Commissioner of Food and Drugs and experts in pediatric research, shall develop, prioritize, and publish an annual list of approved drugs for which—
+&emsp;Not later than one year after January 4, 2002, the Secretary, acting through the Director of the National Institutes of Health and in consultation with the Commissioner of Food and Drugs and experts in pediatric research,shall develop, prioritize, and publish an annual list of approved drugs for which—
 
 &emsp;&emsp;(A)(i) there is an approved application under section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j));
 
@@ -96,7 +96,7 @@ The Secretary shall award contracts to entities that have the expertise to condu
 
 #### (9) FDA determination
 
-&emsp;Not later than 30 days after receiving a recommendation from the Pediatric Advisory Committee under paragraph (8)(B)(ii) with respect to a drug, the Commissioner of Food and Drugs shall consider the recommendation and, if appropriate, make a request to the holders of approved applications for the drug to makeany labeling change that the Commissioner of Food and Drugs determines to be appropriate.
+&emsp;Not later than 30 days after receiving a recommendation from the Pediatric Advisory Committee under paragraph (8)(B)(ii) with respect to a drug, the Commissioner of Food and Drugs shall consider the recommendation and, if appropriate, make a request to the holders of approved applications for the drug to make any labeling change that the Commissioner of Food and Drugs determines to be appropriate.
 
 #### (10) Failure to agree
 
@@ -167,8 +167,4 @@ Matters included.—The matters referred to in paragraph (1) include—
 “(c)
 
 Composition.—The advisory committee shall include representatives of pediatric health organizations, pediatric researchers, relevant patient and patient-family organizations, and other experts selected by the Secretary.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 290b of this title; title 21 sections 355a, 355c.
 

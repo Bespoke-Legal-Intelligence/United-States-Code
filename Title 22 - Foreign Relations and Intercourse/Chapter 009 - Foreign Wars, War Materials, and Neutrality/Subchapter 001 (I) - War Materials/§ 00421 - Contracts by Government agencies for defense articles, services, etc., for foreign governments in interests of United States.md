@@ -4,7 +4,3 @@ The President may, from time to time, when he deems it in the interest of nation
 
 (Oct. 28, 1941, ch. 460, title I, §102, 55 Stat. 746.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 422 of this title.
-

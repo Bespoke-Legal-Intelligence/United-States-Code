@@ -42,7 +42,7 @@
 
 (B) A loan to a veteran may be guaranteed by the Secretary under this chapter for the purpose specified in clause (F) of paragraph (1) of this subsection without regard to the amount of outstanding guaranty entitlement available for use by such veteran, and the amount of such veteran's guaranty entitlement shall not be charged as a result of any guaranty provided for such purpose. For purposes of section 3702(b) of this title, such loan shall be deemed to have been obtained with the guaranty entitlement used to obtain the loan being refinanced.
 
-(C) If a veteran is deceased and if such veteran's surviving spouse was a co-obligor under an existing loan previously guaranteed, insured, or made for purposes specified in this section, such surviving spouse shall, only for the purpose specified in clause (F) of paragraph (1) of this subsection, be deemed to be a veteran eligible for benefits under this chapter.
+(C) If a veteran is deceased and if such veteran's surviving spouse was a co-obligor under an existing loan previously guaranteed, insured, or made for purposes specified in this section, such surviving spouse shall, only for the purpose specified in clause (F) of paragraph (1) of thissubsection, be deemed to be a veteran eligible for benefits under this chapter.
 
 (5)(A) For a loan to be guaranteed for the purpose specified in paragraph (1)(G) of this subsection or section 3710(a)(9)(B)(ii) of this title—
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(IV) such closing costs (including any discount permitted pursuant to section 3703(c)(3)(E) of this title) as may be authorized by the Secretary, under regulations which the Secretary shall prescribe, to be included in such loan.
 
-(B) When a loan is made to a veteran for the purpose specified in paragraph (1)(G) of this subsection or section 3710(a)(9)(B)(ii) of this title, and the loan being refinanced was guaranteed, insured, or made under this section, the portionof the loan made for the purpose of refinancing such loan may be guaranteed by the Secretary under this chapter without regard to the amount of outstanding guaranty entitlement available for use by such veteran, and the amount of such veteran's guaranty entitlement shall not be charged as a result of any guaranty provided for such portion of such loan. For the purposes of section 3702(b) of this title, such portion of such loan shall be deemed to have been obtained with the guaranty entitlement used to obtain the loan being refinanced.
+(B) When a loan is made to a veteran for the purpose specified in paragraph (1)(G) of this subsection or section 3710(a)(9)(B)(ii) of this title, and the loan being refinanced was guaranteed, insured, or made under this section, the portion of the loan made for the purpose of refinancing such loan may be guaranteed by the Secretary under this chapter without regard to the amount of outstanding guaranty entitlement available for use by such veteran, and the amount of such veteran's guaranty entitlement shall not be charged as a result of any guaranty provided for such portion of such loan. For the purposes of section 3702(b) of this title, such portion of such loan shall be deemed to have been obtained with the guaranty entitlement used to obtain the loan being refinanced.
 
 (b)(1) Use of entitlement for purposes specified in this section for the purchase of a manufactured home unit shall preclude the use of remaining entitlement for the purchase of an additional manufactured home unit until the unit which secured the loan has been disposed of by the veteran or has been destroyed by fire or other natural hazard.
 
@@ -158,7 +158,7 @@
 
 (<i>l</i>) The provisions of sections 3704(d) and 3721 of this title shall be fully applicable to lenders making guaranteed manufactured home loans and manufactured home lot loans and holders of such loans.
 
-(Added Pub. L. 91–506, §5, Oct. 23, 1970, 84 Stat. 1110, §1819; amended Pub. L. 93–569, §5, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §§5, 7(20)–(23), June 30, 1976, 90 Stat. 720, 722; Pub. L. 95–476, title I, §107, Oct. 18, 1978, 92 Stat. 1500; Pub. L. 96–385, title IV, §§401(b), 402(c), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 97–66, title V, §503, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–72, title III, §303(h), (i), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(66), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title IV, §406(a), (c)(2), Oct. 14, 1982, 96 Stat. 1444, 1445; Pub. L. 98–223, title II, §205(b), Mar. 2, 1984, 98 Stat. 43; Pub. L. 99–576, title IV, §402(c)(2), Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–198, §§3(b), 7(b), 8(b), Dec. 21, 1987, 101 Stat. 1315, 1318, 1320; Pub. L. 100–253, §3(b), Feb. 29, 1988, 102 Stat. 20; renumbered §1812 and amended Pub. L. 100–322, title IV, §415(b)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §313(b)(1), (7), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, §8031(a), Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §14(c)(8), June 13, 1991, 105 Stat. 285; renumbered §3712 and amended Pub. L. 102–83, §§4(a)(2)(A)(v), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 1102–547, §6(2), Oct. 28, 1992, 106 Stat. 3636; Pub. L. 103–446, title IX, §906, title XII, §1201(e)(14), Nov. 2, 1994, 108 Stat. 4677, 4685; Pub. L. 104–66, title I, §1141(b), Dec. 21, 1995, 109 Stat. 726.)
+(Added Pub. L. 91–506, §5, Oct. 23, 1970, 84 Stat. 1110, §1819; amended Pub. L. 93–569, §5, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §§5, 7(20)–(23), June 30, 1976, 90 Stat. 720, 722; Pub. L. 95–476, title I, §107, Oct. 18, 1978, 92 Stat. 1500; Pub. L. 96–385, title IV, §§401(b), 402(c), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 97–66, title V, §503, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–72, title III, §303(h), (i), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(66), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title IV, §406(a), (c)(2), Oct. 14, 1982, 96 Stat. 1444, 1445; Pub. L. 98–223, title II, §205(b), Mar. 2, 1984, 98 Stat. 43; Pub. L. 99–576, title IV, §402(c)(2), Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–198, §§3(b), 7(b), 8(b), Dec. 21, 1987, 101 Stat. 1315, 1318, 1320; Pub. L. 100–253, §3(b), Feb. 29, 1988, 102 Stat. 20; renumbered §1812 and amended Pub. L. 100–322, title IV, §415(b)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §313(b)(1), (7), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, §8031(a), Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §14(c)(8), June 13, 1991, 105 Stat. 285; renumbered §3712 and amended Pub. L. 102–83, §§4(a)(2)(A)(v), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §6(2), Oct. 28, 1992, 106 Stat. 3636; Pub. L. 103–446, title IX, §906, title XII, §1201(e)(14), Nov. 2, 1994, 108 Stat. 4677, 4685; Pub. L. 104–66, title I, §1141(b), Dec. 21, 1995, 109 Stat. 726.)
 
 #### Amendments
 
@@ -208,7 +208,7 @@ Subsec. (<i>l</i>). Pub. L. 102–54, §14(c)(8)(B), struck out “, beginning 
 
 Subsec. (m). Pub. L. 102–83, §5(c)(1), substituted “3704(d)” for “1804(d)” and “3721” for “1821”.
 
-1990—Subsec. (c)(3). Pub. L. 101–508 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary's guaranty may not exceed the lesser of (A) the lesser of $20,000 or 40 percent of the loan, or (B) the maximum amount of guaranty entitlement available to the veteran as specified in paragraph (4) of this subsection. Payment of a claim under such guaranty shall be made only after liquidation of the security for the loan and the filing of an accounting with the Secretary. In any such accounting the Secretary shall permit to be included therein accrued unpaid interest from the date of the first uncured default to such cutoff date as the Secretary may establish, and the Secretary shall allow the holder of the loan to charge against the liquidation or resale proceeds, accrued interest from the cutoff date established to such further date as the Secretary may determine and such costs and expenses as the Secretary determines to be reasonable and proper. The liability of the United States under the guaranty provided for by this section shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the obligation.”
+1990—Subsec. (c)(3). Pub. L. 101–508 amended par. (3) generally. Prior to amendment, par. (3) read as follows:“The Secretary's guaranty may not exceed the lesser of (A) the lesser of $20,000 or 40 percent of the loan, or (B) the maximum amount of guaranty entitlement available to the veteran as specified in paragraph (4) of this subsection. Payment of a claim under such guaranty shall be made only after liquidation of the security for the loan and the filing of an accounting with the Secretary. In any such accounting the Secretary shall permit to be included therein accrued unpaid interest from the date of the first uncured default to such cutoff date as the Secretary may establish, and the Secretary shall allow the holder of the loan to charge against the liquidation or resale proceeds, accrued interest from the cutoff date established to such further date as the Secretary may determine and such costs and expenses as the Secretary determines to be reasonable and proper. The liability of the United States under the guaranty provided for by this section shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the obligation.”
 
 1989—Subsecs. (a) to (h)(2)(A). Pub. L. 101–237, §313(b)(1), substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
 
@@ -288,7 +288,7 @@ Subsec. (b)(2). Pub. L. 95–476, §107(a), substituted provision authorizing Ad
 
 Subsec. (c)(1). Pub. L. 95–476, §107(b)(1), struck out provisions relating to eligible purposes of mobile home loans under this section.
 
-Subsec. (c)(3). Pub. L. 95–476, §107(b)(2), substituted provision limiting liability of Administrator underloan guaranty to a maximum of lesser of 50 per centum of loan amount or maximum loan guaranty entitlement available, not to exceed $17,500, for provision limiting Administrator's guaranty to a maximum of 50 per centum of loan amount.
+Subsec. (c)(3). Pub. L. 95–476, §107(b)(2), substituted provision limiting liability of Administrator under loan guaranty to a maximum of lesser of 50 per centum of loan amount or maximum loan guaranty entitlement available, not to exceed $17,500, for provision limiting Administrator's guaranty to a maximum of 50 per centum of loan amount.
 
 Subsec. (c)(4). Pub. L. 95–476, §107(b)(3), added par. (4).
 
@@ -354,7 +354,7 @@ Subsec. (e)(3). Pub. L. 93–569, §5(7), inserted “purchased with the proceed
 
 Subsec. (f). Pub. L. 93–569, §5(8), inserted “and mobile home lot loans” after “loans”.
 
-Subsec. (i). Pub. L. 93–569, §5(9), inserted provision prohibiting the guarantee of a loan for the purchase of a lot on which to place a mobile home unless the lot meets prescribed standards.
+Subsec. (i). Pub. L. 93–569, §5(9), inserted provision prohibiting the guarantee of a loan for the purchase ofa lot on which to place a mobile home unless the lot meets prescribed standards.
 
 Subsec. (n). Pub. L. 93–569, §5(10), inserted “and mobile home lot loans” after “mobile home loans”.
 
@@ -401,8 +401,4 @@ Amendment by Pub. L. 93–569 effective Dec. 31, 1974, see section 10 of Pub. L.
 #### Effective Date
 
 Section 8 of Pub. L. 91–506 provided that: “Section 5 of this Act \[enacting this section\] shall become effective sixty days following the date of enactment \[Oct. 23, 1970\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3701, 3703, 3704, 3710, 3711, 3729, 3762 of this title.
 

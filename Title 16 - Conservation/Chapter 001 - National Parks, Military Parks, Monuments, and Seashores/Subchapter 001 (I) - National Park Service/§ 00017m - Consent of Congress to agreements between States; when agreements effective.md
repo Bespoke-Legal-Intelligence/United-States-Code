@@ -4,7 +4,3 @@ The consent of Congress is given to any two or more States to negotiate and ente
 
 (June 23, 1936, ch. 735, §3, 49 Stat. 1895.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 17k of this title.
-

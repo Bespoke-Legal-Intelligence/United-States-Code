@@ -10,7 +10,3 @@ Executive Order Numbered 1216 of June 23, 1910, referred to in text, is not clas
 
 Proclamation Numbered 2339 of June 29, 1939 (53 Stat. 2544), referred to in text, is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430uu–2, 430uu–4 of this title.
-

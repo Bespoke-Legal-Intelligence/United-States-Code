@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(a) “Person” means any individual, corporation, company, association, firm, partnership, society, or joint stock company.
 
-&emsp;(b) “Interstate” or foreign commerce means commerce between any place in a State and any place outside of that State, or within any possession of the United States (not including the Canal Zone) or the District of Columbia,and commerce between places within the same State but through any place outside of that State. “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States (not including the Canal Zone).
+&emsp;(b) “Interstate” or foreign commerce means commerce between any place in a State and any place outside of that State, or within any possession of the United States (not including the Canal Zone) or the District of Columbia, and commerce between places within the same State but through any place outside of that State. “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States (not including the Canal Zone).
 
 &emsp;(c) “Explosive materials” means explosives, blasting agents, and detonators.
 
@@ -153,8 +153,4 @@ Section 1105(c) of Pub. L. 91–452 provided that: “Any person (as defined in 
 #### Authorization of Appropriations
 
 Section 1107 of title XI of Pub. L. 91–452 provided that: “There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this title \[enacting this chapter, amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set as notes under this section\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 8 section 1101; title 19 section 1595a; title 40 section 5104.
 

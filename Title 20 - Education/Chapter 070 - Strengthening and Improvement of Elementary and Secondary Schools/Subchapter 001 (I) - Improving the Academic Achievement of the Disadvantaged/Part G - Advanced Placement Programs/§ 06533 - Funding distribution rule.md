@@ -4,7 +4,3 @@ From amounts appropriated under section 6302(g) of this title for a fiscal year,
 
 (Pub. L. 89–10, title I, §1703, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1606.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6534, 6535 of this title.
-

@@ -28,7 +28,3 @@ Amendment by Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section
 
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3156 of this title; title 8 section 1535; title 28 section 994.
-

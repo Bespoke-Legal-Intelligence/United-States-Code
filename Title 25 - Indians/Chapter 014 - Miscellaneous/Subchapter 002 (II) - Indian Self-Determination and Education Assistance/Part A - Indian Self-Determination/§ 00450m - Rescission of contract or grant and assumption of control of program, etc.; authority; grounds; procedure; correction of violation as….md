@@ -20,9 +20,5 @@ The Occupational Safety and Health Act of 1970, as amended, referred to in text,
 
 Pub. L. 100–581 which directed amendment of this section by substituting “in such cases, he shall provide the tribal organization with a hearing on the record within ten days or such later date as the tribal organization may approve.” for “in such cases, he shall hold a hearing within ten days thereof” was executed by substituting the new language for “in such cases, he shall hold a hearing on such action within ten days thereof” to reflect the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450b, 450j, 2507, 3307 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

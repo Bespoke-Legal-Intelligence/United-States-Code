@@ -30,7 +30,3 @@ In clause (1), the word “rules” is omitted as being included in “regulatio
 
 In clause (3), the words “unless and” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 17705 of this title.
-

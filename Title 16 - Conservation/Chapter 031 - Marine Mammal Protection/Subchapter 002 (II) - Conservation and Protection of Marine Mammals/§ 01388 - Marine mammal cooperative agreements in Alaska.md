@@ -36,7 +36,3 @@ There are authorized to be appropriated for the purposes of carrying out this se
 
 (Pub. L. 92–522, title I, §119, as added Pub. L. 103–238, §19, Apr. 30, 1994, 108 Stat. 559.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1371 of this title.
-

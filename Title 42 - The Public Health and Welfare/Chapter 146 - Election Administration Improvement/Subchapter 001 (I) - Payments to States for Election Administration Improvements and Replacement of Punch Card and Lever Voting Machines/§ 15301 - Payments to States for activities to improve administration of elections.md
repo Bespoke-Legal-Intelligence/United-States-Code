@@ -54,7 +54,7 @@ In order to receive a payment under the program under this section, the State sh
 
 &emsp;&emsp;(A) in the case of any of the several States or the District of Columbia, one-half of 1 percent of the aggregate amount made available for payments under this section; and
 
-&emsp;&emsp;(B) in the case of the Commonwealth of Puerto Rico, Guam, American Samoa, or the United States Virgin Islands, one-tenth of 1 percent of such aggregate amount.
+&emsp;&emsp;(B) in the case of the Commonwealth of Puerto Rico, Guam, American Samoa, or theUnited States Virgin Islands, one-tenth of 1 percent of such aggregate amount.
 
 #### (3) Voting age population proportion amount
 
@@ -83,8 +83,4 @@ This chapter, referred to in subsec. (c)(1), was in the original “this Act”,
 #### Short Title
 
 Pub. L. 107–252, §1(a), Oct. 29, 2002, 116 Stat. 1666, provided that: “This Act \[enacting this chapter and chapter 1526 of Title 36, Patriotic And National Observances, Ceremonies, and Organizations, amending sections 405, 1973ff, 1973ff–1, 1973ff–3, 1973gg–6, and 1973gg–7 of this title, section 438 of Title 2, The Congress, sections 3132 and 7323 of Title 5, Government Organization and Employees, section 8G of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, and section 1566 of Title 10, Armed Forces, and enacting provisions set out as notes under sections 1973ff–1 and 1973ff–3 of this title and section 8G of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5\] may be cited as the ‘Help America Vote Act of 2002’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15303, 15304 of this title.
 

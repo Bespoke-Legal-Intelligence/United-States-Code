@@ -10,7 +10,7 @@ As used in this chapter—
 
 &emsp;(4) the term “secondary school” has the same meaning given that term by section 7801 of this title.
 
-(Pub. L. 99–500, §101(b) \[title VIII, §815\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591,§101(b) \[title VIII, §815\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81; Pub. L. 105–244, title I, §102(a)(6)(G), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–110, title X, §1076(m), Jan. 8, 2002, 115 Stat. 2092.)
+(Pub. L. 99–500, §101(b) \[title VIII, §815\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, §101(b) \[title VIII, §815\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81; Pub. L. 105–244, title I, §102(a)(6)(G), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–110, title X, §1076(m), Jan. 8, 2002, 115 Stat. 2092.)
 
 #### Codification
 

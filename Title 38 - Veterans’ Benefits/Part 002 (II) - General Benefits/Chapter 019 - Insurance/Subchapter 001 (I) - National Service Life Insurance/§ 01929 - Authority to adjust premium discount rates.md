@@ -18,5 +18,5 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 #### Effective Date
 
-Section 1401(b)(2) of Pub. L. 100–687 provided that: “The amendment made by paragraph (1) \[enacting thissection\] shall take effect with respect to premiums paid after the date of the enactment of this Act \[Nov. 18, 1988\].”
+Section 1401(b)(2) of Pub. L. 100–687 provided that: “The amendment made by paragraph (1) \[enacting this section\] shall take effect with respect to premiums paid after the date of the enactment of this Act \[Nov. 18, 1988\].”
 

@@ -178,7 +178,7 @@ The purposes of the Center shall be to—
 
 #### (B) Mandatory funds
 
-&emsp;&emsp;Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Center not to exceed $26,499,000 to carry out this section.
+&emsp;&emsp;Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Center not to exceed $27,998,000 to carry out this section.
 
 #### (C) Additional funds
 
@@ -482,13 +482,17 @@ To carry out this section, the Board may consult with—
 
 &emsp;On the date the Secretary publishes notice in the Federal Register that the transition plan is complete, this section is repealed.
 
-(Pub. L. 87–128, title III, §375, as added Pub. L. 104–127, title VII, §759, Apr. 4, 1996, 110 Stat. 1132; amended Pub. L. 106–78, title VIII, §816, Oct. 22, 1999, 113 Stat. 1182; Pub. L. 106–387, §1(a) \[title VII, §756\], Oct. 28, 2000, 114 Stat. 1549, 1549A–43; Pub. L. 107–76, title VII, §731, Nov. 28, 2001, 115 Stat. 736; Pub. L. 108–7, div. A, title VII, §728, Feb. 20, 2003, 117 Stat. 42.)
+(Pub. L. 87–128, title III, §375, as added Pub. L. 104–127, title VII, §759, Apr. 4, 1996, 110 Stat. 1132; amended Pub. L. 106–78, title VIII, §816, Oct. 22, 1999, 113 Stat. 1182; Pub. L. 106–387, §1(a) \[title VII, §756\], Oct. 28, 2000, 114 Stat. 1549, 1549A–43; Pub. L. 107–76, title VII, §731, Nov. 28, 2001, 115 Stat. 736; Pub. L. 108–7, div. A, title VII, §728, Feb. 20, 2003, 117 Stat. 42; Pub. L. 108–199, div. A, title VII, §726, Jan. 23, 2004, 118 Stat. 35; Pub. L. 108–447, div. A, title VII, §725, Dec. 8, 2004, 118 Stat. 2842.)
 
 #### References in Text
 
 This Act, referred to in subsec. (i)(2)(C), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, as amended. For classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (e)(6)(B). Pub. L. 108–447 substituted “$27,998,000” for “$26,998,000”.
+
+Pub. L. 108–199 substituted “$26,998,000” for “$26,499,000”.
 
 2003—Subsec. (e)(6)(B). Pub. L. 108–7 substituted “$26,499,000” for “$26,000,000”.
 
@@ -525,8 +529,4 @@ Subsec. (f)(5)(C). Pub. L. 106–78, §816(c)(2), added subpar. (C) and struck o
 Subsec. (f)(6)(B). Pub. L. 106–78, §816(c)(3), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “A member elected to fill a vacancy for an unexpired term may be reelected for 1 full term.”
 
 Subsec. (j). Pub. L. 106–78, §816(d), added subsec. (j).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 917 of this title.
 

@@ -36,7 +36,3 @@ In selecting individuals for internships and fellowships, the Administrator shal
 
 (Pub. L. 101–619, §7, Nov. 16, 1990, 104 Stat. 3331.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5503 of this title.
-

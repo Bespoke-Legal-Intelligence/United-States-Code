@@ -8,7 +8,3 @@ The Secretary is further authorized to erect on the site aforesaid, with donated
 
 Section was not enacted as a part of act June 28, 1948, ch. 687, 62 Stat. 1061, as amended, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 407m–6 of this title.
-

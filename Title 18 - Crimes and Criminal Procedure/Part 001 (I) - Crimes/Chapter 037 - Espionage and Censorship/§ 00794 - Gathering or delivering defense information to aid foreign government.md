@@ -52,7 +52,7 @@ Section 101(a) of the Foreign Intelligence Surveillance Act of 1978, referred to
 
 Subsec. (d)(1). Pub. L. 104–294, §607(b), inserted at end “For the purposes of this subsection, the term ‘State’ includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
 
-1994—Subsec. (a). Pub. L. 103–322, as amended by Pub. L. 104–294, §604(b)(2), substituted for period at end “, except that the sentence of death shall not be imposed unless the jury or, if there is no jury, the court, further finds that the offense resulted in the identification by a foreign power (as defined in section 101(a) of the Foreign Intelligence Surveillance Act of 1978) of an individual acting as an agent of the United States and consequently in the death of that individual, or directly concerned nuclear weaponry, military spacecraftor satellites, early warning systems, or other means of defense or retaliation against large-scale attack; war plans; communications intelligence or cryptographic information; or any other major weapons system or major element of defense strategy.”
+1994—Subsec. (a). Pub. L. 103–322, as amended by Pub. L. 104–294, §604(b)(2), substituted for period at end “, except that the sentence of death shall not be imposed unless the jury or, if there is no jury, the court, further finds that the offense resulted in the identification by a foreign power (as defined in section 101(a) of the Foreign Intelligence Surveillance Act of 1978) of an individual acting as an agent of the United States and consequently in the death of that individual, or directly concerned nuclear weaponry, military spacecraft or satellites, early warning systems, or other means of defense or retaliation against large-scale attack; war plans; communications intelligence or cryptographic information; or any other major weapons system or major element of defense strategy.”
 
 Subsec. (d)(3). Pub. L. 103–359 substituted “(p)” for “(<i>o</i>)” in two places.
 
@@ -77,8 +77,4 @@ Section 6 of Joint Res. July 3, 1952, repealed Joint Res. Apr. 14, 1952, ch. 204
 #### Indictment for Violating This Section; Limitation Period
 
 Limitation period in connection with indictments for violating this section, see note set out under section 792 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 792, 798A, 951, 1717, 1956, 3077, 3239, 3591, 3592, 3681 of this title; title 5 section 8312; title 19 section 1583; title 22 section 2778; title 38 section 6105; title 42 section 2000aa; title 50 App. sections 19, 34, 2410.
 

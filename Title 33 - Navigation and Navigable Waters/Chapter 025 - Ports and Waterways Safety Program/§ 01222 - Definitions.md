@@ -4,7 +4,7 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(1) “Marine environment” means the navigable waters of the United States and the land and resources therein and thereunder; the waters and fishery resources of any area over which the United States asserts exclusive fishery management authority; the seabed and subsoil of the Outer Continental Shelf of the United States, the resources thereof and the waters superjacent thereto; and the recreational, economic, and scenic values of such waters and resources.
 
-&emsp;(2) “Secretary” means the Secretary of the department in which the Coast Guard is operating.
+&emsp;(2) “Secretary” means the Secretary of the department in which the Coast Guard is operating, except that “Secretary” means the Secretary of Transportation with respect to the application of this chapter to the Saint Lawrence Seaway.
 
 &emsp;(3) “State” includes each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Canal Zone, Guam, American Samoa, the United States Virgin Islands, the Trust Territories of the Pacific Islands, the Commonwealth of the Northern Marianas, and any other commonwealth, territory, or possession of the United States.
 
@@ -12,7 +12,7 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(5) “Navigable waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
 
-(Pub. L. 92–340, §3, formerly title I, §102, July 10, 1972, 86 Stat. 425; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1471; Pub. L. 105–383, title III, §301(a), Nov. 13, 1998, 112 Stat. 3417.)
+(Pub. L. 92–340, §3, formerly title I, §102, July 10, 1972, 86 Stat. 425; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1471; Pub. L. 105–383, title III, §301(a), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 108–293, title III, §304, Aug. 9, 2004, 118 Stat. 1042.)
 
 #### References in Text
 
@@ -21,6 +21,8 @@ For definition of Canal Zone, referred to in par. (3), see section 3602(b) of Ti
 Presidential Proclamation No. 5928, referred to in par. (5), is set out under section 1331 of Title 43, Public Lands.
 
 #### Amendments
+
+2004—Par. (2). Pub. L. 108–293 inserted “, except that ‘Secretary’ means the Secretary of Transportation with respect to the application of this chapter to the Saint Lawrence Seaway” after “in which the Coast Guard is operating”.
 
 1998—Par. (5). Pub. L. 105–383, which directed the amendment of section 102 of the Ports and Waterways Safety Act by adding par. (5), was executed to this section, which is section 3 of that act, to reflect the probable intent of Congress and the renumbering of section 102 as section 3 by Pub. L. 95–474.
 

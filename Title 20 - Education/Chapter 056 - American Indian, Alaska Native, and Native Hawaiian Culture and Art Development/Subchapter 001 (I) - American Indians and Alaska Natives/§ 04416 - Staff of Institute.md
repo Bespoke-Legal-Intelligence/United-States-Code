@@ -34,7 +34,7 @@ Except as otherwise provided in this section, title 5 shall not apply to the Ins
 
 #### (c) Appeal to Board
 
-Any officer or employee of the Institute may appeal to the Board any determination by thePresident of the Institute to not re-employ or to discharge such officer or employee. Upon appeal, the Board may, in writing, overturn the determination of the President of the Institute with respect to the employment of such officer or employee.
+Any officer or employee of the Institute may appeal to the Board any determination by the President of the Institute to not re-employ or to discharge such officer or employee. Upon appeal, the Board may, in writing, overturn the determination of the President of the Institute with respect to the employment of such officer or employee.
 
 #### (d) No reduction in classification or compensation
 
@@ -105,8 +105,4 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 #### Effective Date of 1988 Amendment
 
 For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4418 of this title.
 

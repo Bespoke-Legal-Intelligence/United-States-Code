@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated such funds as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 for each of the fiscal years 1991 through 2007, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year. Funds appropriated under this section shall be used: (1) to meet expenses of conducting animal health and disease research, publishing and disseminating the results of such research, and contributing to the retirement of employees subject to the provisions of section 331 of this title; (2) for administrative planning and direction; and (3) to purchase equipment and supplies necessary for conducting such research.
+There are authorized to be appropriated such funds as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 for each of the fiscal years 1991 through 2007, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year. Funds appropriated under this section shall beused: (1) to meet expenses of conducting animal health and disease research, publishing and disseminating the results of such research, and contributing to the retirement of employees subject to the provisions of section 331 of this title; (2) for administrative planning and direction; and (3) to purchase equipment and supplies necessary for conducting such research.
 
 #### (b) Apportionment of appropriated funds
 
@@ -50,13 +50,9 @@ Subsecs. (d), (f). Pub. L. 104–127, §811(3), (4), substituted “domestic liv
 
 1985—Subsec. (a). Pub. L. 99–198 substituted “1990” for “1985”.
 
-1981—Subsec. (a). Pub. L. 97–98 substituted “as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year” for “, not to exceed $25,000,000 annually, as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions”.
+1981—Subsec. (a). Pub. L. 97–98 substituted “as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year” for “, not to exceed $25,000,000 annually, as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions”.
 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3198, 3199, 3311 of this title; title 40 section 525.
 

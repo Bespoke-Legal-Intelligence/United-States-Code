@@ -4,7 +4,3 @@ No business development company shall, unless authorized by the vote of a majori
 
 (Aug. 22, 1940, ch. 686, title I, §58, as added Pub. L. 96–477, title I, §105, Oct. 21, 1980, 94 Stat. 2285.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–2, 80a–6, 80a–53, 80a–60, 80b–2 of this title.
-

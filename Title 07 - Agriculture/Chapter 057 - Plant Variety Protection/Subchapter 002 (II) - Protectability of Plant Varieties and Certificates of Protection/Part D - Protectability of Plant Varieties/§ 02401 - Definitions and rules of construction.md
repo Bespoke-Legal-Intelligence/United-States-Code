@@ -136,7 +136,3 @@ In general.—To obtain the protection provided to an owner of a protected varie
 
 Sanctions.—Any person that makes a false or misleading statement or claim, or uses a false or misleading label, concerning protection described in paragraph (1) shall be subject to the sanctions described in section 128 of the Plant Variety Protection Act (7 U.S.C. 2568).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 35 section 201.
-

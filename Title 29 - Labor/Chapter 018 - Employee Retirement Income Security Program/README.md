@@ -38,7 +38,7 @@ I74part 1—reporting and disclosure
 | (c) | Terminal and supplementary reports. |
 | (d) | Notice of failure to meet minimum funding standards. |
 | (e) | Notice of transfer of excess pension assets to health benefits accounts. |
-| (f) | Repealed. |
+| (f) | Multiemployer defined benefit plan funding notices. |
 | (g) | Reporting by certain arrangements. |
 | (h) | Simple retirement accounts. |
 | (i) | Notice of blackout periods to participant or beneficiary under individual account plan. |
@@ -736,6 +736,7 @@ I74part 1—employer withdrawals
 | (c) | Presumption respecting finding of fact by arbitrator. |
 | (d) | Payments by employer prior and subsequent to determination by arbitrator; adjustments; failure of employer to make payments. |
 | (e) | Furnishing of information by plan sponsor to employer respecting computation of withdrawal liability of employer; fees. |
+| (f) | Procedures applicable to certain disputes. |
 | [1402\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20E%20-%20Special%20Provisions%20for%20Multiemployer%20Plans/Part%20001%20-%20Employer%20Withdrawals/%C2%A7%2001402%20-%20Reimbursements%20for%20uncollectible%20withdrawal%20liability.md) | Reimbursements for uncollectible withdrawal liability. |
 | (a) | Required supplemental program to reimburse for payments due from employers uncollectible as a result of employer involvement in bankruptcy case or proceedings; program participation, premiums, etc. |
 | (b) | Discretionary supplemental program to reimburse for payments due from employers uncollectible for other appropriate reasons. |
@@ -893,10 +894,6 @@ I74part 1—employer withdrawals
 | [1461\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20F%20-%20Transition%20Rules%20and%20Effective%20Dates/%C2%A7%2001461%20-%20Effective%20date%3B%20special%20rules.md) | Effective date; special rules. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 441 of this title; title 7 section 1a; title 15 sections 77b, 78c, 631b, 662; title 18 section 1027; title 20 section 1085; title 26 sections 412, 414; title 26 section 404; title 31 section 9502; title 42 sections 1395w–22, 1396s, 1396u–2; title 45 section 743.
 
 
 ---

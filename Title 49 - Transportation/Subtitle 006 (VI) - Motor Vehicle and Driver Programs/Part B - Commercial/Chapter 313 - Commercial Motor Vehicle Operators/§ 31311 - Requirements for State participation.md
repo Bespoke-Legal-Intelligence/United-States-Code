@@ -18,7 +18,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(7) Not later than 30 days after issuing a commercial driver's license, the State shall notify the Secretary or the operator of the information system under section 31309 of this title, as the case may be, of the issuance.
 
-&emsp;(8) Not later than 10 days after disqualifying the holder of a commercial driver's license from operating a commercial motor vehicle\(or after revoking, suspending, or canceling the license) for at least 60 days, the State shall notify the Secretary or the operator of the information system under section 31309 of this title, as the case may be, and the State that issued the license, of the disqualification, revocation, suspension, or cancellation, and the violation that resulted in the disqualification, revocation, suspension, or cancellation shall be recorded.
+&emsp;(8) Not later than 10 days after disqualifying the holder of a commercial driver's license from operating a commercial motor vehicle (or after revoking, suspending, or canceling the license) for at least 60 days, the State shall notify the Secretary or the operator of the information system under section 31309 of this title, as the case may be, and the State that issued the license, of the disqualification, revocation, suspension, or cancellation, and the violation that resulted in the disqualification, revocation, suspension, or cancellation shall be recorded.
 
 &emsp;(9) If an individual violates a State or local law on motor vehicle traffic control (except a parking violation) and the individual—
 
@@ -84,7 +84,7 @@ State Satisfaction of Requirements.—A State may satisfy the requirements of su
 
 Notification.—Not later than 30 days after being notified by a State of the proposed issuance of a commercial driver's license to an individual, the Secretary or the operator of the information system under section 31309 of this title, as the case may be, shall notify the State whether the individual has a commercial driver's license issued by another State or has been disqualified from operating a commercial motor vehicle by another State or the Secretary.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1023; Pub. L. 104–88, title IV, §403(c), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title IV, §4011(e), June 9, 1998, 112 Stat. 408; Pub. L. 106–159, title II, §202, Dec. 9, 1999, 113 Stat. 1760.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1023; Pub. L. 104–88, title IV, §403(c), Dec. 29, 1995, 109Stat. 956; Pub. L. 105–178, title IV, §4011(e), June 9, 1998, 112 Stat. 408; Pub. L. 106–159, title II, §202, Dec. 9, 1999, 113 Stat. 1760.)
 
 Historical and Revision Notes
 
@@ -151,10 +151,6 @@ Development.—In cooperation with the States, the Secretary shall develop a uni
 “(b)
 
 Status Report.—Not later than 2 years after the date of the enactment of this Act \[Dec. 9, 1999\], the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of the implementation of this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 31107, 31314 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

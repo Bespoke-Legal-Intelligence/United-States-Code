@@ -24,7 +24,7 @@ A jurisdiction may participate in the demonstration program under this subchapte
 
 #### (2) Exclusion of high performing agencies
 
-&emsp;Notwithstanding any other provision of this subchapter other than paragraph (4) of this subsection, the Secretary may approve forparticipation in the demonstration program under this subchapter only jurisdictions served by public housing agencies that—
+&emsp;Notwithstanding any other provision of this subchapter other than paragraph (4) of this subsection, the Secretary may approve for participation in the demonstration program under this subchapter only jurisdictions served by public housing agencies that—
 
 &emsp;&emsp;(A) are not designated as high-performing agencies, pursuant to their most recent scores under the public housing management assessment program under section 1437d(j)(2) of this title (or any successor assessment program for public housing agencies), as of the time of approval; and
 
@@ -43,8 +43,4 @@ A jurisdiction may participate in the demonstration program under this subchapte
 &emsp;If the City of Indianapolis, Indiana submits an application for participation in the program under this subchapter and, upon review of the application under section 1437bbb–5(b) of this title, the Secretary determines that such application is approvable under this subchapter, the Secretary shall approve such application, notwithstanding the second sentence of section 1437bbb–5(b)(2) of this title. Such City shall count for purposes of the numerical limitations on jurisdictions under paragraphs (1) and (3) of this subsection, but the provisions of paragraph (2) of this subsection (relating to exclusion of high-performing agencies) shall not apply to such City.
 
 (Sept. 1, 1937, ch. 896, title IV, §402, as added Pub. L. 105–276, title V, §561, Oct. 21, 1998, 112 Stat. 2617.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1437bbb–5 of this title.
 

@@ -86,7 +86,7 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 #### (e) Additional information; waiting period extensions
 
-(1)(A) The Federal Trade Commission or the Assistant Attorney General may, prior to the expiration of the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section, require the submission of additional information or documentary material relevant to theproposed acquisition, from a person required to file notification with respect to such acquisition under subsection (a) of this section prior to the expiration of the waiting period specified in subsection (b)(1) of this section, or from any officer, director, partner, agent, or employee of such person.
+(1)(A) The Federal Trade Commission or the Assistant Attorney General may, prior to the expiration of the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section, require the submission of additional information or documentary material relevant to the proposed acquisition, from a person required to file notification with respect to such acquisition under subsection (a) of this section prior to the expiration of the waiting period specified in subsection (b)(1) of this section, or from any officer, director, partner, agent, or employee of such person.
 
 (B)(i) The Assistant Attorney General and the Federal Trade Commission shall each designate a senior official who does not have direct responsibility for the review of any enforcement recommendation under this section concerning the transaction at issue, to hear any petition filed by such person to determine—
 
@@ -130,7 +130,7 @@ If a proceeding is instituted or an action is filed by the Federal Trade Commiss
 
 #### (h) Disclosure exemption
 
-Any information or documentary material filed with the Assistant Attorney General or theFederal Trade Commission pursuant to this section shall be exempt from disclosure under section 552 of title 5, and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of Congress or to any duly authorized committee or subcommittee of the Congress.
+Any information or documentary material filed with the Assistant Attorney General or the Federal Trade Commission pursuant to this section shall be exempt from disclosure under section 552 of title 5, and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of Congress or to any duly authorized committee or subcommittee of the Congress.
 
 #### (i) Construction with other laws
 
@@ -196,7 +196,7 @@ Subsec. (c)(8). Pub. L. 101–73, §1214(2), struck out reference to section 172
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–553, §1(a)(2) \[title VI, §630(e)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–111, provided that: “This section \[amending this section and provisions set out as anote under this section\] and the amendments made by this section shall take effect on the 1st day of the 1st month that begins more than 30 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
+Pub. L. 106–553, §1(a)(2) \[title VI, §630(e)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–111, provided that: “This section \[amending this section and provisions set out as a note under this section\] and the amendments made by this section shall take effect on the 1st day of the 1st month that begins more than 30 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 #### Effective Date of 1999 Amendment
 
@@ -223,8 +223,4 @@ Pub. L. 101–162, title VI, §605, Nov. 21, 1989, 103 Stat. 1031, as amended by
 &emsp;“(2) $125,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $100,000,000 (as so adjusted and published) but less than $500,000,000 (as so adjusted and published); and
 
 &emsp;“(3) $280,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $500,000,000 (as so adjusted and published).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6204 of this title; title 11 section 363.
 

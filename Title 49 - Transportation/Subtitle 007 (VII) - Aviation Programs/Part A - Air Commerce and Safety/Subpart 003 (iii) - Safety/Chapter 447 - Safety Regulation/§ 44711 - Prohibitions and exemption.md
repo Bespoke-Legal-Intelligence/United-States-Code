@@ -122,7 +122,7 @@ In subsection (a)(7), the words “holding . . . such certificate” are omitt
 
 In subsection (a)(8), the words “by the Administrator” are omitted as surplus.
 
-In subsection (b), the word “Administrator” in section 610(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 780) is retained on authority of49:106(g). The words “to the extent, and . . . and conditions” and “by such airmen” are omitted as surplus.
+In subsection (b), the word “Administrator” in section 610(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 780) is retained on authority of 49:106(g). The words “to the extent, and . . . and conditions” and “by such airmen” are omitted as surplus.
 
 #### Pub. L. 103–429
 
@@ -147,8 +147,4 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44701, 44711, 45302, 46310, 47531 of this title.
 

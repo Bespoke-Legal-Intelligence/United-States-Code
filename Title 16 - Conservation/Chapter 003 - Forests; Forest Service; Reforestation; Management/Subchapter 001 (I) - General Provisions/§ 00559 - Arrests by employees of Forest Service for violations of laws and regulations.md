@@ -20,7 +20,3 @@ That part of act Mar. 3, 1905, which related to arrests by employees of the Nati
 
 “United States magistrate judge” substituted for “United States magistrate” wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460<i>lll</i>–12 of this title.
-

@@ -50,7 +50,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 &emsp;&emsp;(B) to coordinate support for the provision of literacy and basic skills services across Federal agencies and at the State and local levels;
 
-&emsp;&emsp;(C) to coordinate the support of reliable and replicable research and development on literacy and basic skills in families and adults across Federal agencies, especiallywith the Office of Educational Research and Improvement in the Department of Education, and to carry out basic and applied research and development on topics that are not being investigated by other organizations or agencies, such as the special literacy needs of individuals with learning disabilities;
+&emsp;&emsp;(C) to coordinate the support of reliable and replicable research and development on literacy and basic skills in families and adults across Federal agencies, especially with the Office of Educational Research and Improvement in the Department of Education, and to carry out basic and applied research and development on topics that are not being investigated by other organizations or agencies, such as the special literacy needs of individuals with learning disabilities;
 
 &emsp;&emsp;(D) to collect and disseminate information on methods of advancing literacy that show great promise, including phonemic awareness, systematic phonics, fluency, and reading comprehension based on the work of the National Institute of Child Health and Human Development;
 
@@ -132,7 +132,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 #### (A) In general
 
-&emsp;&emsp;Each member of the Board shall be appointed for a term of 3 years, except that the initial terms for members may be 1, 2, or 3 years in order to establish a rotation in which one-third of the members are selectedeach year. Any such member may be appointed for not more than 2 consecutive terms.
+&emsp;&emsp;Each member of the Board shall be appointed for a term of 3 years, except that the initial terms for members may be 1, 2, or 3 years in order to establish a rotation in which one-third of the members are selected each year. Any such member may be appointed for not more than 2 consecutive terms.
 
 #### (B) Vacancies
 
@@ -212,15 +212,15 @@ Level IV of the Executive Schedule, referred to in subsec. (i), is set out in se
 
 Provisions similar to this section were contained in section 1213c of this title prior to repeal by Pub. L. 105–220.
 
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 #### Termination of Advisory Boards
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Office of Educational Research and Improvement
 
-The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, §402(2), Nov. 5, 2002, 116 Stat. 1985.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6367, 9211 of this title.
+The Office of Educational Research and Improvement was established by section 3419 of this title. Section3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, §402(2), Nov. 5, 2002, 116 Stat. 1985.
 

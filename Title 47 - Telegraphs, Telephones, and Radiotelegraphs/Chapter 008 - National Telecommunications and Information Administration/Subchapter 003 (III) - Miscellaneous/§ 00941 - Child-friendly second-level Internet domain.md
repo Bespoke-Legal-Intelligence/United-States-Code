@@ -12,7 +12,7 @@ The NTIA shall require the registry selected to operate and maintain the United 
 
 #### (2) Successor registries
 
-&emsp;The NTIA shall not enter into any contract for operating and maintaining the United States country code Internet domain with anysuccessor registry unless such registry enters into an agreement with the NTIA, during the 90-day period after selection of such registry, that provides for the registry to carry out, and the new domain to operate in accordance with, the requirements under subsection (c) of this section.
+&emsp;The NTIA shall not enter into any contract for operating and maintaining the United States country code Internet domain with any successor registry unless such registry enters into an agreement with the NTIA, during the 90-day period after selection of such registry, that provides for the registry to carry out, and the new domain to operate in accordance with, the requirements under subsection (c) of this section.
 
 #### (c) Requirements of new domain
 
@@ -28,7 +28,7 @@ The registry and new domain shall be subject to the following requirements:
 
 &emsp;(5) A process for removing from the new domain any content that is not in accordance with the standards and requirements of the registry.
 
-&emsp;(6) A process to provide registrants to the new domain with an opportunity for a prompt, expeditious, and impartial dispute resolution process regarding any material of the registrant excluded from the new domain.
+&emsp;(6) A process to provide registrants to the new domain with an opportunity for a prompt,expeditious, and impartial dispute resolution process regarding any material of the registrant excluded from the new domain.
 
 &emsp;(7) Continuous and uninterrupted service for the new domain during any transition to a new registry selected to operate and maintain new domain or the United States country code domain.
 
@@ -94,7 +94,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(A) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, that it is designed to appeal to, or is designed to pander to, the prurient interest;
 
-&emsp;&emsp;(B) the material depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
+&emsp;&emsp;(B) the material depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulatedsexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
 
 &emsp;&emsp;(C) taken as a whole, the material lacks serious, literary, artistic, political, or scientific value for minors.
 
@@ -158,7 +158,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(10) the creation of a ‘green-light’ area within the United States country code Internet domain, that will contain only content that is appropriate for children under the age of 13, is analogous to the creation of a children's section within a library and will promote the positive experiences of children and families in the United States; and
 
-&emsp;“(11) while custody, care, and nurture of the child reside first with the parent, the protection of the physical and psychological well-being of minors byshielding them from material that is harmful to them is a compelling governmental interest.
+&emsp;“(11) while custody, care, and nurture of the child reside first with the parent, the protection of the physical and psychological well-being of minors by shielding them from material that is harmful to them is a compelling governmental interest.
 
 “(b)
 
@@ -167,8 +167,4 @@ Purposes.—The purposes of this Act \[see Short Title of 2002 Amendment note se
 &emsp;“(1) to facilitate the creation of a second-level domain within the United States country code Internet domain for the location of material that is suitable for minors and not harmful to minors; and
 
 &emsp;“(2) to ensure that the National Telecommunications and Information Administration oversees the creation of such a second-level domain and ensures the effective and efficient establishment and operation of the new domain.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 902 of this title.
 

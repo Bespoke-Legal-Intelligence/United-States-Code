@@ -16,13 +16,13 @@
 
 (5)(A) Any order issued under this subsection shall be by personal service, shall state with reasonable specificity the nature of the violation, and shall specify a time for compliance not to exceed thirty days in the case of a violation of an interim compliance schedule or operation and maintenance requirement and not to exceed a time the Administrator determines to be reasonable in the case of a violation of a final deadline, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
 
-(B) The Administrator may, if he determines (i) that any person who is a violator of, or any person who is otherwise not in compliance with, the time requirements under this chapter or in any permit issued under this chapter, has acted in good faith, and has made a commitment (in the form of contracts or other securities) of necessary resources to achieve compliance by the earliest possible date after July 1, 1977, but not later than April 1, 1979; (ii) that any extension under this provision will not result in the imposition of any additional controls on any other point or nonpoint source; (iii) that an application for a permit under section 1342 of this titlewas filed for such person prior to December 31, 1974; and (iv) that the facilities necessary for compliance with such requirements are under construction, grant an extension of the date referred to in section 1311(b)(1)(A) of this title to a date which will achieve compliance at the earliest time possible but not later than April 1, 1979.
+(B) The Administrator may, if he determines (i) that any person who is a violator of, or any person who is otherwise not in compliance with, the time requirements under this chapter or in any permit issued under this chapter, has acted in good faith, and has made a commitment (in the form of contracts or other securities) of necessary resources to achieve compliance by the earliest possible date after July 1, 1977, but not later than April 1, 1979; (ii) that any extension under this provision will not result in the imposition of any additional controls on any other point or nonpoint source; (iii) that an application for a permit under section 1342 of this title was filed for such person prior to December 31, 1974; and (iv) that the facilities necessary for compliance with such requirements are under construction, grant an extension of the date referred to in section 1311(b)(1)(A) of this title to a date which will achieve compliance at the earliest time possible but not later than April 1, 1979.
 
 (6) Whenever, on the basis of information available to him, the Administrator finds (A) that any person is in violation of section 1311(b)(1)(A) or (C) of this title, (B) that such person cannot meet the requirements for a time extension under section 1311(i)(2) of this title, and (C) that the most expeditious and appropriate means of compliance with this chapter by such person is to discharge into a publicly owned treatment works, then, upon request of such person, the Administrator may issue an order requiring such person to comply with this chapter at the earliest date practicable, but not later than July 1, 1983, by discharging into a publicly owned treatment works if such works concur with such order. Such order shall include a schedule of compliance.
 
 #### (b) Civil actions
 
-The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under subsection (a) of this section. Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the appropriate State.
+The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under subsection (a) of this section. Any action under this subsection may be brought in the district court of the UnitedStates for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the appropriate State.
 
 #### (c) Criminal penalties
 
@@ -142,7 +142,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (C) Rights of interested persons to a hearing
 
-&emsp;&emsp;If no hearing is held under paragraph (2) before issuance of an order assessing a penalty under this subsection, any person who commented on the proposed assessment may petition, within 30 days after the issuance of such order, the Administrator or Secretary, as the case may be, to set aside such order and to provide a hearing on the penalty. If the evidence presented by the petitioner insupport of the petition is material and was not considered in the issuance of the order, the Administrator or Secretary shall immediately set aside such order and provide a hearing in accordance with paragraph (2)(A) in the case of a class I civil penalty and paragraph (2)(B) in the case of a class II civil penalty. If the Administrator or Secretary denies a hearing under this subparagraph, the Administrator or Secretary shall provide to the petitioner, and publish in the Federal Register, notice of and the reasons for such denial.
+&emsp;&emsp;If no hearing is held under paragraph (2) before issuance of an order assessing a penalty under this subsection, any person who commented on the proposed assessment may petition, within 30 days after the issuance of such order, the Administrator or Secretary, as the case may be, to set aside such order and to provide a hearing on the penalty. If the evidence presented by the petitioner in support of the petition is material and was not considered in the issuance of the order, the Administrator or Secretary shall immediately set aside such order and provide a hearing in accordance with paragraph (2)(A) in the case of a class I civil penalty and paragraph (2)(B) in the case of a class II civil penalty. If the Administrator or Secretary denies a hearing under this subparagraph, the Administrator or Secretary shall provide to the petitioner, and publish in the Federal Register, notice of and the reasons for such denial.
 
 #### (5) Finality of order
 
@@ -156,7 +156,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 &emsp;&emsp;&emsp;(i) with respect to which the Administrator or the Secretary has commenced and is diligently prosecuting an action under this subsection,
 
-&emsp;&emsp;&emsp;(ii) with respect to which a State has commenced and is diligently prosecuting an action under a State law comparable to this subsection, or
+&emsp;&emsp;&emsp;(ii) with respect to which a State has commenced and is diligently prosecutingan action under a State law comparable to this subsection, or
 
 &emsp;&emsp;&emsp;(iii) for which the Administrator, the Secretary, or the State has issued a final order not subject to further judicial review and the violator has paid a penalty assessed under this subsection, or such comparable State law, as the case may be,
 
@@ -256,11 +256,7 @@ Section 313(b)(2) of Pub. L. 100–4 provided that: “The Federal Water Polluti
 
 #### Actions by Surgeon General Relating to Interstate Pollution
 
-Act July 9, 1956, ch. 518, §5, 70 Stat. 507, provided that actions by the Surgeon General with respect to water pollutants under section 2(d) of act June 30, 1948, ch. 758, 62 Stat. 1155, as in effect prior to July 9, 1956, which had been completed prior to such date, would still be subject to the terms of section 2(d) of act June 30, 1948,in effect prior to the July 9, 1956 amendment, but that actions with respect to such pollutants would nevertheless subsequently be possible in accordance with the terms of act June 30, 1948, as amended by act July 9, 1956.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1256, 1321, 1342, 1344, 1365, 1368, 1377 of this title; title 26 section 9509; title 42 sections 7412, 9606, 9607.
+Act July 9, 1956, ch. 518, §5, 70 Stat. 507, provided that actions by the Surgeon General with respect to water pollutants under section 2(d) of act June 30, 1948, ch. 758, 62 Stat. 1155, as in effect prior to July 9, 1956, which had been completed prior to such date, would still be subject to the terms of section 2(d) of act June 30, 1948, in effect prior to the July 9, 1956 amendment, but that actions with respect to such pollutants would nevertheless subsequently be possible in accordance with the terms of act June 30, 1948, as amended by act July 9, 1956.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

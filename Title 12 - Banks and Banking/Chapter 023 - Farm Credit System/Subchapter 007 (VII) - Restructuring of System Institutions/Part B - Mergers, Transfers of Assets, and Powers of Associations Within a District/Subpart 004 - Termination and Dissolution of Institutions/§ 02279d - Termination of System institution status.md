@@ -28,7 +28,3 @@ On termination of its status as a System institution—
 
 (Pub. L. 92–181, title VII, §7.10, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1650.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2278a–9, 2278b–6, 2279c–2 of this title.
-

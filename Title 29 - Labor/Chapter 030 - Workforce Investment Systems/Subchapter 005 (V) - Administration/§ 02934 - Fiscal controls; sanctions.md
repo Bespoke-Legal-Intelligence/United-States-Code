@@ -162,9 +162,5 @@ The remedies described in this section shall not be construed to be the exclusiv
 
 Provisions similar to this section were contained in section 1574 of this title prior to repeal by Pub. L. 105–220.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2822, 2833, 2936, 2937 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(d)(1)”.</i>
 

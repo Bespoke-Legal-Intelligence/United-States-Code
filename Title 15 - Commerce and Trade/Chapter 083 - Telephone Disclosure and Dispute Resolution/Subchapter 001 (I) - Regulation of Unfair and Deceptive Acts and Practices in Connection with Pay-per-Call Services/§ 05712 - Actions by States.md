@@ -22,7 +22,7 @@ Nothing contained in this section shall prohibit an authorized State official fr
 
 #### (f) Limitation
 
-Whenever the Commission has instituted a civil action for violation of any rule or regulation under this chapter, no State may, duringthe pendency of such action instituted by the Commission, subsequently institute a civil action against any defendant named in the Commission's complaint for violation of any rule as alleged in the Commission's complaint.
+Whenever the Commission has instituted a civil action for violation of any rule or regulation under this chapter, no State may, during the pendency of such action instituted by the Commission, subsequently institute a civil action against any defendant named in the Commission's complaint for violation of any rule as alleged in the Commission's complaint.
 
 #### (g) Actions by other State officials
 
@@ -35,8 +35,4 @@ Whenever the Commission has instituted a civil action for violation of any rule 
 #### References in Text
 
 This chapter, referred to in subsecs. (d) and (f), was in the original “this Act”, meaning Pub. L. 102–556, Oct. 28, 1992, 106 Stat. 4181, known as the Telephone Disclosure and Dispute Resolution Act. For complete classification of this Act to the Code, see References in Text note set out under section 5701 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5713 of this title.
 

@@ -80,7 +80,7 @@ Financial responsibility under this section may be established by any one, or by
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), a claim for which liability may be established under section 2702 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke—
+&emsp;Subject to paragraph (2), a claim for which liability may be established under section 2702 of this title may be asserted directly againstany guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke—
 
 &emsp;&emsp;(A) all rights and defenses which would be available to the responsible party under this Act;
 
@@ -128,7 +128,7 @@ The effective date of this Act, referred to in subsec. (h), is the effective dat
 
 1996—Subsec. (c)(1). Pub. L. 104–324, §1125(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), each responsible party with respect to an offshore facility shall establish and maintain evidence of financial responsibility of $150,000,000 to meet the amount of liability to which the responsible party could be subjected under section 2704(a) of this title in a case in which the responsible party would be entitled to limit liability under that section. In a case in which a person is the responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the maximum liability applicable to the facility having the greatest maximum liability.”
 
-Subsec. (f). Pub. L. 104–324, §1125(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any claim for which liability may be established under section 2702 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke (1) all rights and defenses which would be available to the responsible party under this Act, (2) any defense authorized under subsection (e) of this section, and (3) the defense that the incident was caused by thewillful misconduct of the responsible party. The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor.”
+Subsec. (f). Pub. L. 104–324, §1125(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any claim for which liability may be established under section 2702 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke (1) all rights and defenses which would be available to the responsible party under this Act, (2) any defense authorized under subsection (e) of this section, and (3) the defense that the incident was caused by the willful misconduct of the responsible party. The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor.”
 
 Subsec. (g). Pub. L. 104–324, §1125(a)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Nothing in this Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility required under this Act which that guarantor has provided for a responsible party.”
 
@@ -141,10 +141,6 @@ Section 1125(b) of Pub. L. 104–324 provided that: “The amendment made by sub
 #### Delegation of Functions
 
 Specific functions of President under subsec. (e) of this section delegated to Secretary of the Interior and Secretary of the Department in which the Coast Guard is operating by section 5(a) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54764, as amended, set out as a note under section 1321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1503, 2705, 2715, 2716a, 2719 of this title; title 46 section 3715.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (d) has been enacted.</i>
 

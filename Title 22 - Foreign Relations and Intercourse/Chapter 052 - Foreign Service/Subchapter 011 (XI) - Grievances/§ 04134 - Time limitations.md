@@ -2,7 +2,7 @@
 
 #### (a) Limitations period
 
-A grievance is forever barred under this subchapter unless it is filed with the Department not later than two years after the occurrence giving rise to the grievance or, in the case of agrievance with respect to the grievant's rater or reviewer, one year after the date on which the grievant ceased to be subject to rating or review by that person, but in no case more than three years after the occurrence giving rise to the grievance. There shall be excluded from the computation of any such period any time during which, as determined by the Foreign Service Grievance Board, the grievant was unaware of the grounds for the grievance and could not have discovered such grounds through reasonable diligence.
+A grievance is forever barred under this subchapter unless it is filed with the Department not later than two years after the occurrence giving rise to the grievance or, in the case of a grievance with respect to the grievant's rater or reviewer, one year after the date on which the grievant ceased to be subject to rating or review by that person, but in no case more than three years after the occurrence giving rise to the grievance. There shall be excluded from the computation of any such period any time during which, as determined by the Foreign Service Grievance Board, the grievant was unaware of the grounds for the grievance and could not have discovered such grounds through reasonable diligence.
 
 #### (b) Failure of Department to resolve grievance; grievance filed with Foreign Service Grievance Board
 
@@ -39,8 +39,4 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §330(c)\], Nov. 29
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–138 not applicable with respect to any grievance, within the meaning of section 4131 of this title, arising before Oct. 28, 1991, see section 153(f) of Pub. L. 102–138, set out as a note under section 4115 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4132 of this title.
 

@@ -2,11 +2,11 @@
 
 (a)(1) An employee or Member may elect to contribute to the Thrift Savings Fund established by section 8437 of this title.
 
-(2) An election may be made under paragraph (1) only during a period provided under section 8432(b) for individuals who are subject to chapter 84 of this title.
+(2) An election may be made under paragraph (1) as provided under section 8432(b) for individuals who are subject to chapter 84 of this title.
 
 (b)(1) Except as otherwise provided in this subsection, the provisions of subchapters III and VII of chapter 84 of this title shall apply with respect to employees and Members making contributions to the Thrift Savings Fund under subsection (a) of this section.
 
-(2)(A) An employee or Member may contribute to the Thrift Savings Fund in any pay periodany amount not exceeding the maximum percentage of such employee's or Member's basic pay for such pay period allowable under subparagraph (B).
+(2)(A) An employee or Member may contribute to the Thrift Savings Fund in any pay period any amount not exceeding the maximum percentage of such employee's or Member's basic pay for such pay period allowable under subparagraph (B).
 
 (B) The maximum percentage allowable under this subparagraph shall be determined in accordance with the following table:
 
@@ -82,7 +82,7 @@
 
 (e) The Executive Director of the Federal Retirement Thrift Investment Board may prescribe regulations to carry out this section.
 
-(Added Pub. L. 99–335, title II, §206(a)(1), June 6, 1986, 100 Stat. 593; amended Pub. L. 100–238, title I, §111(a), Jan. 8, 1988, 101 Stat. 1750; Pub. L. 101–335, §§3(b)(1), 6(b)(1), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–183, title III, §308(a), Dec. 4, 1991, 105 Stat. 1265; Pub. L. 102–484, div. D, title XLIV, §4437(c), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(a), (i)(1), (2), Mar. 30, 1994, 108 Stat. 118, 121; Pub. L. 103–353, §4(d), Oct. 13, 1994, 108 Stat. 3172; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §202\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, §661(a)(3)(B), Oct. 5, 1999, 113 Stat. 671; Pub. L. 106–168, title II, §203(b), Dec. 12, 1999, 113 Stat. 1820; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–234; Pub. L. 107–304, §1(a), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, §405(b)(1), Dec. 13, 2003, 117 Stat. 2632.)
+(Added Pub. L. 99–335, title II, §206(a)(1), June 6, 1986, 100 Stat. 593; amended Pub. L. 100–238, title I, §111(a), Jan. 8, 1988, 101 Stat. 1750; Pub. L. 101–335, §§3(b)(1), 6(b)(1), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–183, title III, §308(a), Dec. 4, 1991, 105 Stat. 1265; Pub. L. 102–484, div. D, title XLIV, §4437(c), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(a), (i)(1), (2), Mar. 30, 1994, 108 Stat. 118, 121; Pub. L. 103–353, §4(d), Oct. 13, 1994, 108 Stat. 3172; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §202\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65,div. A, title VI, §661(a)(3)(B), Oct. 5, 1999, 113 Stat. 671; Pub. L. 106–168, title II, §203(b), Dec. 12, 1999, 113 Stat. 1820; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–234; Pub. L. 107–304, §1(a), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, §405(b)(1), Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–469, §1(d)(1), Dec. 21, 2004, 118 Stat. 3891.)
 
 #### References in Text
 
@@ -91,6 +91,8 @@ Section 414(v) of the Internal Revenue Code of 1986, referred to in subsec. (b)(
 Section 103(6) of the Foreign Service Act of 1980, referred to in subsec. (c), is classified to section 3903(6) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–469 substituted “as” for “only during a period”.
 
 2003—Subsec. (d). Pub. L. 108–177 designated existing provisions as par. (1) and added par. (2).
 
@@ -148,7 +150,7 @@ Subsec. (b)(9), (10). Pub. L. 101–335, §6(b)(1)(A), added pars. (9) and (10).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–304, §1(c), Nov. 27, 2002, 116 Stat. 2363, provided that: “The amendments made by this section \[amending this section and sections 8432 and 8440f of this title\] shall take effect as of the earliest practicable date, as determined by the Executive Director (appointed under section 8474(a) of title 5, United States Code) in regulations.”
+Pub. L. 107–304, §1(c), Nov. 27, 2002, 116 Stat. 2363, provided that: “The amendments made by this section\[amending this section and sections 8432 and 8440f of this title\] shall take effect as of the earliest practicable date, as determined by the Executive Director (appointed under section 8474(a) of title 5, United States Code) in regulations.”
 
 #### Effective Date of 2000 Amendment
 
@@ -156,7 +158,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(c)\], Dec. 21, 2000, 114 S
 
 “(1)
 
-In general.—The amendments made by this section \[enacting section 8440f of this title and amendingthis section and sections 8432 and 8440a to 8440e of this title\] shall take effect on the date of enactment of this Act \[Dec. 21, 2000\].
+In general.—The amendments made by this section \[enacting section 8440f of this title and amending this section and sections 8432 and 8440a to 8440e of this title\] shall take effect on the date of enactment of this Act \[Dec. 21, 2000\].
 
 “(2)
 
@@ -215,8 +217,4 @@ Section effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out 
 #### Period When Election May First Be Made
 
 Section 206(b) of Pub. L. 99–335, as amended by Pub. L. 99–509, title VI, §6001(b), Oct. 21, 1986, 100 Stat. 1930, provided that an election could first be made by a Federal employee or a Member of Congress under 5 U.S.C. 8351 (a)(2) during an election period prescribed by Executive Director of Federal Retirement Thrift Investment Board to begin on Apr. 1, 1987, with such election to take effect on first day of employee's or Member's first pay period which began on or after the date of the election. The maximum amount that an employee or Member could elect to contribute during any pay period which began on or after Apr. 1, 1987, and before Oct. 1, 1987, was an amount equal to 7.5 percent of the individual's basic pay for that period.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8432, 8432c, 8440, 8440a, 8440d of this title; title 10 section 945; title 22 section 4069; title 42 section 2297h–8; title 50 section 2142.
 

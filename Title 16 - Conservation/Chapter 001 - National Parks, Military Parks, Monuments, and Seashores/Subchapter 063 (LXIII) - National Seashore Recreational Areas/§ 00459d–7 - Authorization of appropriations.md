@@ -12,7 +12,3 @@ Section 101(13) of Pub. L. 94–578, cited as a credit to this section, as amend
 
 1976—Pub. L. 94–578 substituted “$5,350,000” for “$5,000,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459d–1, 459d–2, 459d–4, 459d–6 of this title.
-

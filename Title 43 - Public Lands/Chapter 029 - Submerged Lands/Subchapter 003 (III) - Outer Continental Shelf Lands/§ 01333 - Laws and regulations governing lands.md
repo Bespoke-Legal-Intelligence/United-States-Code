@@ -72,9 +72,5 @@ Subsecs. (f), (g). Pub. L. 95–372, §203(e)(3), (h), redesignated subsec. (g) 
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1331, 1347, 1351 of this title; title 33 sections 905, 941, 2104; title 46 App. section 883.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “settling”.</i>
 

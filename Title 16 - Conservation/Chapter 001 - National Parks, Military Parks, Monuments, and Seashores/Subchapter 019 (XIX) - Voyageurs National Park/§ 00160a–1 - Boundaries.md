@@ -18,7 +18,7 @@ Except as provided in subsection (b) of this section, the park shall include the
 
 &emsp;(E) subject to the provisions of paragraph (2), delete approximately 1,000 acres at Black Bay and convey such lands to the State of Minnesota.
 
-> All of the aforementioned boundary changes if accomplished shall be accomplished such that the boundary of the park shall conform to that generally depicted on the drawing entitled “Boundary, Voyageurs National Park, United States Department of the Interior, National Park Service”, numbered 172–80, 008–MWR, and dated November 1981, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
+> All of the aforementioned boundary changes if accomplished shall be accomplished such thatthe boundary of the park shall conform to that generally depicted on the drawing entitled “Boundary, Voyageurs National Park, United States Department of the Interior, National Park Service”, numbered 172–80, 008–MWR, and dated November 1981, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
 
 (2) The Secretary may not delete or convey the lands referred to in paragraph (1)(E) unless, prior to or simultaneously with such deletion or conveyance and in consideration of such conveyance, the State of Minnesota—
 

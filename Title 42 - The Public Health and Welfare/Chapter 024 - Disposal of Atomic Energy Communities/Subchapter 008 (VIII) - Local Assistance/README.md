@@ -1,9 +1,5 @@
 ### SUBCHAPTER VIII—LOCAL ASSISTANCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2373 of this title.
-
 
 ---
 

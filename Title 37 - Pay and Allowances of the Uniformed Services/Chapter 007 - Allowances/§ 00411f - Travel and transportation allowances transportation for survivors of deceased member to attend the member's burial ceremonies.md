@@ -2,7 +2,7 @@
 
 (a)
 
-Allowances Authorized.—(1) The Secretary concerned may provide round trip travel and transportation allowances to eligible relatives of a member of the uniformed services who dies while on active duty or inactive duty in order that the eligible relatives may attend the burial ceremony of the deceased member.
+Allowances Authorized.—(1) The Secretary concerned may provide round trip travel and transportation allowances to eligible relatives of a member of the uniformed services who dies while on active duty or inactive duty in order that the eligible relatives may attend the burial ceremony of the deceased member at the location determined under subsection (a)(8) of section 1482 of title 10 or attend a memorial service for the deceased member, under circumstances covered by subsection (d) of such section.
 
 (2) The Secretary concerned may also provide round trip travel and transportation allowances to an attendant who accompanies an eligible relative provided travel and transportation allowances under paragraph (1) for travel to the burial ceremony if the Secretary concerned determines that—
 
@@ -12,11 +12,7 @@ Allowances Authorized.—(1) The Secretary concerned may provide round trip trav
 
 (b)
 
-Limitations.—(1) Except as provided in paragraphs (2) and (3), allowances under subsection (a) are limited to travel and transportation to a location in the United States, Puerto Rico, and the possessions of the United States and may not exceed the rates for two days and the time necessary for such travel.
-
-(2) If a deceased member was ordered or called to active duty from a place outside the United States, Puerto Rico, or the possessions of the United States, the allowances authorized under subsection (a) may be provided to and from such place and may not exceed the rates for two days and the time necessary for such travel.
-
-(3) If a deceased member is interred in a cemetery maintained by the American Battle Monuments Commission, the travel and transportation allowances authorized under subsection (a) may be provided to and from such cemeteryand may not exceed the rates for two days and the time necessary for such travel.
+Limitation on Amount.—Allowances for travel under subsection (a) may not exceed the rates for two days and the time necessary for such travel.
 
 (c)
 
@@ -26,7 +22,7 @@ Eligible Relatives.—(1) The following members of the family of a deceased memb
 
 &emsp;(B) The unmarried child or children of the deceased member referred to in section 401(a)(2) of this title.
 
-&emsp;(C) If no person described in subparagraph (A) or (B) is provided travel and transportation allowances under subsection (a)(1), the parent or parents of the deceased member (as defined in section 401(b)(2) of this title).
+&emsp;(C) The parent or parents of the deceased member (as defined in section 401(b)(2) of this title).
 
 (2) If no person described in paragraph (1) is provided travel and transportation allowances under subsection (a)(1), the travel and transportation allowances may be provided to—
 
@@ -66,9 +62,21 @@ Burial Ceremony Defined.—In this section, the term “burial ceremony” inclu
 
 Regulations.—The Secretaries concerned shall prescribe uniform regulations to carry out this section.
 
-(Added Pub. L. 99–145, title VI, §620(a)(1), Nov. 8, 1985, 99 Stat. 642; amended Pub. L. 100–456, div. A, title VI, §632(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 103–35, title II, §204(a)(2), May 31, 1993, 107 Stat. 102; Pub. L. 107–107, div. A, title VI, §638(a), Dec. 28, 2001, 115 Stat. 1146.)
+(Added Pub. L. 99–145, title VI, §620(a)(1), Nov. 8, 1985, 99 Stat. 642; amended Pub. L. 100–456, div. A, title VI, §632(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 103–35, title II, §204(a)(2), May 31, 1993, 107 Stat. 102; Pub. L. 107–107, div. A, title VI, §638(a), Dec. 28, 2001, 115 Stat. 1146; Pub. L. 108–375, div. A, title VI, §631, Oct. 28, 2004, 118 Stat. 1956.)
 
 #### Amendments
+
+2004—Subsec. (a)(1). Pub. L. 108–375, §631(a), inserted before period at end “at the location determined under subsection (a)(8) of section 1482 of title 10 or attend a memorial service for the deceased member, under circumstances covered by subsection (d) of such section”.
+
+Subsec. (b). Pub. L. 108–375, §631(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows:
+
+“(1) Except as provided in paragraphs (2) and (3), allowances under subsection (a) are limited to travel and transportation to a location in the United States, Puerto Rico, and the possessions of the United States and may not exceed the rates for two days and the time necessary for such travel.
+
+“(2) If a deceased member was ordered or called to active duty from a place outside the United States, Puerto Rico, or the possessions of the United States, the allowances authorized under subsection (a) may be provided to and from such place and may not exceed the rates for two days and the time necessary for such travel.
+
+“(3) If a deceased member is interred in a cemetery maintained by the American Battle Monuments Commission, the travel and transportation allowances authorized under subsection (a) may be provided to and from such cemetery and may not exceed the rates for two days and the time necessary for such travel.”
+
+Subsec. (c)(1)(C). Pub. L. 108–375, §631(c), substituted “The” for “If no person described in subparagraph (A) or (B) is provided travel and transportation allowances under subsection (a)(1), the”.
 
 2001—Pub. L. 107–107 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -94,5 +102,5 @@ Section 632(c) of Pub. L. 100–456 provided that: “The amendments made by thi
 
 #### Effective Date
 
-Section 620(b) of Pub. L. 99–145 provided that: “The travel and transportation allowance authorized by theamendments made by this section \[enacting this section\] is payable only for travel that commences after September 30, 1985.”
+Section 620(b) of Pub. L. 99–145 provided that: “The travel and transportation allowance authorized by the amendments made by this section \[enacting this section\] is payable only for travel that commences after September 30, 1985.”
 

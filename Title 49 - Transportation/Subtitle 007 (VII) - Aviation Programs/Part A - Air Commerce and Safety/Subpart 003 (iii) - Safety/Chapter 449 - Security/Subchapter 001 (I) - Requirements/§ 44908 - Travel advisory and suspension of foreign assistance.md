@@ -58,7 +58,3 @@ The Arms Export Control Act, referred to in subsec. (b), is Pub. L. 90–629, Oc
 
 1998—Subsec. (a). Pub. L. 105–277 inserted “and” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “shall publish the advisory in the Federal Register; and”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 44907, 46301, 46316 of this title.
-

@@ -12,7 +12,7 @@
 
 (d) The Administrator of General Services shall include in each directory which lists lodging accommodations a description of the access and safety devices, including appropriate emergency alerting devices, which each listed place of public accommodation provides for guests who are hearing-impaired or visually or physically handicapped.
 
-(e) The Administrator of General Services may take any additional actions the Administrator determines appropriate to facilitate the ability of employees traveling on official business to stay at approved places of public accommodation.
+(e) The Administrator of General Services may take any additional actions the Administrator determines appropriate to facilitate the ability of employees traveling on official business tostay at approved places of public accommodation.
 
 (f) For purposes of this section:
 
@@ -55,8 +55,4 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 sections 971a, 971b, 3608, 3641, 5608, 5709, 5727.
 

@@ -60,10 +60,6 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1058 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “part.”</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

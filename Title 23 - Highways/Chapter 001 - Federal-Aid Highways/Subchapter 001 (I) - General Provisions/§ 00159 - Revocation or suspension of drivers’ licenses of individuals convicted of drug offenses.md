@@ -56,7 +56,7 @@ Funds withheld after september 30, 1995.—No funds withheld under this section 
 
 &emsp;(2)
 
-Apportionment of withheld funds after compliance.—If, before the last day of the period for which funds withheld under subsection (a) from apportionment are to remain available for apportionment to a State under paragraph (1), the State meets the requirements of subsection (a)(3), the Secretary shall, on the first day on which the State meets the requirements of subsection (a)(3), apportion to the State the funds withheld under subsection (a) that remain available for apportionment to the State.
+Apportionment of withheld funds after compliance.—If, before the last day of the period for which funds withheld under subsection (a) from apportionment are to remainavailable for apportionment to a State under paragraph (1), the State meets the requirements of subsection (a)(3), the Secretary shall, on the first day on which the State meets the requirements of subsection (a)(3), apportion to the State the funds withheld under subsection (a) that remain available for apportionment to the State.
 
 &emsp;(3)
 

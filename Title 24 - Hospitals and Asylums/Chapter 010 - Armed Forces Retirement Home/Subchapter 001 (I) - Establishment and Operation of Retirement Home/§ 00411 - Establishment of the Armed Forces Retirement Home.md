@@ -56,7 +56,3 @@ This chapter, referred to in subsec. (f), was in the original “this title”, 
 
 Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as a note under section 401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 401 of this title.
-

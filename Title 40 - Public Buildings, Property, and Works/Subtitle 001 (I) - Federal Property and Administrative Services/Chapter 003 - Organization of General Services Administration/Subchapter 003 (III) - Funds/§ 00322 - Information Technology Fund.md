@@ -20,7 +20,7 @@ In general.—The Administrator of General Services shall determine the cost and
 
 &emsp;(2)
 
-Submitting plans to office of management and budget.—The Administrator shall submit plans concerning the cost and capital requirements determined under this section, and other information as may be requested, for review and approval by the Director of the Office of Management and Budget. Plans submitted under this section fulfill the requirements of sections 1512 and 1513 of title 31.
+Submitting plans to office of management and budget.—The Administrator shall submit plans concerning the cost and capital requirements determined under this section, and other information as may be requested, for review and approval by the Director of theOffice of Management and Budget. Plans submitted under this section fulfill the requirements of sections 1512 and 1513 of title 31.
 
 &emsp;(3)
 
@@ -155,8 +155,4 @@ In subsection (c)(1), the text of 40:757(b)(1) is omitted as executed and obsole
 In subsection (c)(2), the words “includes any service or equipment which had been acquired or provided under this section or section 759 of this title” are omitted because 40:759 has been repealed and because the definition of “information technology resources” as equipment “provided under this section” is self referential in a section authorizing the use of the Fund to provide information technology resources.
 
 In subsection (d), the words “or to be provided” are omitted as unnecessary.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 44 section 3504.
 

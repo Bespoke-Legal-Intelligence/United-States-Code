@@ -20,7 +20,3 @@ Nothing in this subchapter shall be construed as authorizing or permitting lump 
 
 Federal reclamation law, referred to in subsecs. (a) and (b), is defined in section 390aa of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390cc of this title.
-

@@ -146,7 +146,3 @@ Dwight david eisenhower transportation fellowship program.—The Secretary shall
 
 A prior section 504, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, related to Federal reimbursement for highway relocation assistance, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 204 of this title; title 49 section 5505.
-

@@ -58,7 +58,3 @@ Section 724(b) of Pub. L. 101–73 provided that: “The amendment made by subse
 
 For effective date of amendment by title VIII of Pub. L. 90–448, see section 808 of Pub. L. 90–448, set out as an Effective Date note under section 1716b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1430, 1438, 1441, 1441b of this title.
-

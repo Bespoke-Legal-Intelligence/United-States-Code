@@ -18,7 +18,7 @@
 
 &emsp;(3) An estimate of the cost to the United States of the equipment required for the operation of such facility.
 
-&emsp;(4) Demographic data applicable to such facility, including information on projected changes in the population of veterans to be served by the facility over a five-year period and a ten-year period.
+&emsp;(4) Demographic data applicable to such facility, including information on projectedchanges in the population of veterans to be served by the facility over a five-year period and a ten-year period.
 
 &emsp;(5) Current and projected workload and utilization data regarding the facility.
 
@@ -40,9 +40,13 @@
 
 &emsp;(2) a period of 30 days has passed after the date on which the report is received by the committees.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047.)
+(g) The limitation in subsection (f) does not apply to a project for which funds have been authorized by law in accordance with subsection (a)(2).
+
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004, 118 Stat. 2393.)
 
 #### Amendments
+
+2004—Subsec. (g). Pub. L. 108–422 added subsec. (g).
 
 2003—Subsec. (a)(3)(A). Pub. L. 108–170 substituted “$7,000,000” for “$4,000,000”.
 
@@ -125,8 +129,4 @@ Section 205(b) of Pub. L. 104–262 provided that: “The amendments made by sub
 Section 206(b)(2) of Pub. L. 104–262 provided that: “The amendments made by subsection (a) of such section \[meaning section 301(a) of Pub. L. 102–405, amending this section\] shall apply with respect to any major medical facility project or any major medical facility lease of the Department of Veterans Affairs, regardless of when funds are first appropriated for that project or lease, except that in the case of a project for which funds were first appropriated before October 9, 1992, such amendments shall not apply with respect to amounts appropriated for that project for a fiscal year before fiscal year 1998.”
 
 Section 301(b) of Pub. L. 102–405 provided that the amendments made by section 301(a) of Pub. L. 102–405, amending this section, were not applicable with respect to any project for which funds were appropriated before Oct. 9, 1992, prior to repeal by Pub. L. 104–262, title II, §206(b)(1), Oct. 9, 1996, 110 Stat. 3190.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8103, 8107, 8109, 8116 of this title.
 

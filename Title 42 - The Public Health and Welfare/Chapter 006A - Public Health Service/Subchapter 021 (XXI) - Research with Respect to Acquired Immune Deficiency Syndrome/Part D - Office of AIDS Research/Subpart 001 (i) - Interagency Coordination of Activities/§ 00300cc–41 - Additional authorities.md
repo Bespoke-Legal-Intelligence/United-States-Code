@@ -60,7 +60,7 @@ Subsec. (a)(1). Pub. L. 103–43, §1801(b)(2)(B), redesignated par. (3) as (1) 
 
 Subsec. (a)(2). Pub. L. 103–43, §1801(b)(2)(B), (E), redesignated par. (4) as (2), substituted “AIDS research” for “research relating to acquired immune deficiency syndrome”, and struck out former par. (2) which read as follows: “shall coordinate activities relating to acquired immune deficiency syndrome conducted by the national research institutes and the agencies of the National Institutes of Health;”.
 
-Subsec. (a)(3). Pub. L. 103–43, §1801(b)(2)(B), (C), (E), redesignated par. (5) as (3), struck out “, in consultation with the advisory council for the appropriate national research institute of the National Institutes of Health,” after “may” in introductory provisions, and substituted “AIDS research” for “research relating to acquired immune deficiency syndrome” in subpar. (A). Former par. (3) redesignated (1).
+Subsec. (a)(3). Pub. L. 103–43, §1801(b)(2)(B), (C), (E), redesignated par. (5) as (3), struck out “, in consultation with the advisory council for the appropriate national research institute of the National Institutes ofHealth,” after “may” in introductory provisions, and substituted “AIDS research” for “research relating to acquired immune deficiency syndrome” in subpar. (A). Former par. (3) redesignated (1).
 
 Subsec. (a)(4). Pub. L. 103–43, §1801(b)(2)(B), (E), redesignated par. (6) as (4) and substituted “AIDS research” for “research relating to acquired immune deficiency syndrome”. Former par. (4) redesignated (2).
 

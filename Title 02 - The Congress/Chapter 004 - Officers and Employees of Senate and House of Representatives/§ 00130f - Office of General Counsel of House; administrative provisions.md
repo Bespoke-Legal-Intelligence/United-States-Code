@@ -30,9 +30,9 @@ Section is from the Congressional Operations Appropriations Act, 2000, which is 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–7 amended Pub. L. 107–273. See 2002 Amendment note below.
+2003—Subsec. (b). Pub. L. 108–7 amended Pub. L. 107–273. See 2002 Amendment note below.
 
-<b>2002</b>—Pub. L. 107–273, as amended by Pub. L. 108–7, substituted “as required by section 530D of title 28” for “with respect to any proceeding in which the United States is a party of any determination by the Attorney General or Solicitor General not to appeal any court decision affecting the constitutionality of an Act or joint resolution of Congress within such time as will enable the House to direct the General Counsel to intervene as a party in such proceeding pursuant to applicable rules of the House of Representatives”.
+2002—Pub. L. 107–273, as amended by Pub. L. 108–7, substituted “as required by section 530D of title 28” for “with respect to any proceeding in which the United States is a party of any determination by the Attorney General or Solicitor General not to appeal any court decision affecting the constitutionality of an Act or joint resolution of Congress within such time as will enable the House to direct the General Counsel to intervene as a party in such proceeding pursuant to applicable rules of the House of Representatives”.
 
 #### Effective Date of 2003 Amendment
 

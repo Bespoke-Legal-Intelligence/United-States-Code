@@ -2,7 +2,7 @@
 
 To enforce such regulations the Commandant of the Coast Guard may detail any public vessel in the service of the Coast Guard and make use of any private vessel tendered gratuitously for the purpose, or upon the request of the Commandant of the Coast Guard the head of any other department may enforce the regulations issued under sections 1233 and 1235 of this title by means of any public vessel of such department and of any private vessel tendered gratuitously for the purpose.
 
-(Apr. 28, 1908, ch. 151, §2, 35 Stat. 69; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1946 Reorg. Plan No. 3,§§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097.)
+(Apr. 28, 1908, ch. 151, §2, 35 Stat. 69; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097.)
 
 #### Codification
 
@@ -21,8 +21,4 @@ For transfer of functions of other officers, employees, and agencies of Departme
 “Commandant of the Coast Guard” substituted for “Secretary of Commerce” and a reference to Department of Commerce changed to Coast Guard on authority of Reorg. Plan No. 3 of 1946, §§101–104, set out in the Appendix to Title 5.
 
 Upon incorporation into the Code, the words “Secretary of Commerce” were substituted for “Secretary of Commerce and Labor” to conform to act Mar. 4, 1913, which provided that the Secretary of Commerce and Labor should be called the Secretary of Commerce.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1235, 1236 of this title.
 

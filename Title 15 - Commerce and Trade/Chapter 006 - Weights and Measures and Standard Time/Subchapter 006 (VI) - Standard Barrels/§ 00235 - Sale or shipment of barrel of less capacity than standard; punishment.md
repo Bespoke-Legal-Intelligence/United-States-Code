@@ -4,7 +4,3 @@ It shall be unlawful to sell, offer, or expose for sale in any State, Territory,
 
 (Mar. 4, 1915, ch. 158, §2, 38 Stat. 1186.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 236 of this title.
-

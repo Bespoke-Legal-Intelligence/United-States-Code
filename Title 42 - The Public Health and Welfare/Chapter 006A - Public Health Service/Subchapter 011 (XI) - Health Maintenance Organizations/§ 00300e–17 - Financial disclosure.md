@@ -84,7 +84,3 @@ Subsec. (b)(4). Pub. L. 97–35, §948(d), substituted “spouse, child, or pare
 
 Amendment by Pub. L. 99–660 effective Oct. 1, 1985, see section 815(a) of Pub. L. 99–660, set out as an Effective and Termination Dates of 1986 Amendment note under section 300e–1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395mm, 1396b of this title.
-

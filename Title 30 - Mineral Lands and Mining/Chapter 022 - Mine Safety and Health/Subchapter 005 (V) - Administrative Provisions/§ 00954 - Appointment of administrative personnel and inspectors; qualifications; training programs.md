@@ -22,7 +22,3 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 Section 304 of Pub. L. 95–164 provided that: “Nothing contained in this Act \[see Short Title of 1977 Amendment note under section 801 of this title\] or any amendment made by this Act shall be construed to reduce the number of inspectors engaged in enforcement of the Federal Coal Mine Health and Safety Act of 1969 \[this chapter\] and the Federal Metal and Nonmetallic Mine Safety Act \[section 721 et seq. of this title\] as in effect prior to the effective date of this Act \[120 days after Nov. 9, 1977\] or to reduce the number of inspectors engaged in the enforcement of the Occupational Safety and Health Act of 1970 \[section 651 et seq. of Title 29, Labor\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 952 of this title.
-

@@ -22,7 +22,7 @@ It is the policy of the Congress to protect the consuming public from meat and m
 
 #### (b) Single State agency; subordinate governmental unit as part of State agency
 
-The appropriate State agency with which the Secretary may cooperate under this chapter shall be a single agency in the State which is primarily responsible for the coordination of the State programs having objectives similar to those under this chapter. When the State program includes performance of certain functions by a municipality or other subordinate governmental unit, such unit shall be deemed to be a part of the State agency for purposes of this section.
+The appropriate State agency with which the Secretary may cooperate under this chapter shall be a single agency in the State which is primarily responsible for the coordination of the State programs having objectives similar to those under this chapter. When the State program includes performance of certain functions by a municipality or other subordinate governmental unit, such unit shall be deemed to be apart of the State agency for purposes of this section.
 
 #### (c) State meat inspection requirements
 
@@ -69,8 +69,4 @@ Section effective Dec. 15, 1967, see section 20 of Pub. L. 90–201, set out as 
 #### Termination of Advisory Committees
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 607, 624, 645 of this title.
 

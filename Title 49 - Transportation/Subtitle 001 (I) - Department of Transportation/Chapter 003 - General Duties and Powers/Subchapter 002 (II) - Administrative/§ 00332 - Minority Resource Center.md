@@ -62,7 +62,7 @@ In subsection (b)(4), the words “those business opportunities” are substitut
 
 In subsection (b)(5), the words “related to the maintenance, rehabilitation, restructuring, improvement, and revitalization of the nation's railroads” are omitted as unnecessary because of the restatement.
 
-In subsection (b)(7), the words “make arrangements” are substituted for “enter into such contracts, cooperative agreements, or other transactions” to eliminate unnecessary words. The words “as may be necessary” after “transactions” are omitted as surplus. The words “to carry out this section” are substituted for “in the conduct of its functions and duties” for clarity and consistency.
+In subsection (b)(7), the words “make arrangements” are substituted for “enter into such contracts, cooperative agreements, or other transactions” to eliminate unnecessary words. The words “as may be necessary” after “transactions” are omitted as surplus. The words“to carry out this section” are substituted for “in the conduct of its functions and duties” for clarity and consistency.
 
 In subsection (c), the words “The Secretary shall make the appointments” and the words “Each of those trade associations may submit a list of not more than” are added for clarity and because of the restatement of the section.
 
@@ -71,8 +71,4 @@ In subsection (d), the words “in carrying out this section” are substituted 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 
 The United States Railway Association abolished effective Apr. 1, 1987, all powers, duties, rights, and obligations of Association relating to Consolidated Rail Corporation under the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) transferred to Secretary of Transportation on Jan. 1, 1987, and any securities of Corporation held by Association transferred to Secretary of Transportation on Oct. 21, 1986, see section 1341 of Title 45, Railroads.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 306 of this title.
 

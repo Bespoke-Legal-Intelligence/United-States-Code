@@ -8,7 +8,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (1) In general
 
-&emsp;There is hereby created a body corporate to be known as the Student Loan Marketing Association (hereinafter referred to as the “Association”). The Association shall have succession until dissolved. It shall maintain its principal office in the District of Columbia and shall be deemed, for purposes of venue and jurisdiction in civil actions, to be a resident and citizen thereof. Offices may be established by the Association in such other place or placesas it may deem necessary or appropriate for the conduct of its business.
+&emsp;There is hereby created a body corporate to be known as the Student Loan Marketing Association (hereinafter referred to as the “Association”). The Association shall have succession until dissolved. It shall maintain its principal office in the District of Columbia and shall be deemed, for purposes of venue and jurisdiction in civil actions, to be a resident and citizen thereof. Offices may be established by the Association in such other place or places as it may deem necessary or appropriate for the conduct of its business.
 
 #### (2) Exemption from State and local taxes
 
@@ -46,7 +46,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (4) Meetings and functions of the Board
 
-&emsp;The Board of Directors shall meet at the call of its Chairman, but at least semiannually. The Board shall determine the general policies which shall govern the operations of the Association. The Chairman of the Board shall, with the approval of the Board, select, appoint, and compensate qualified persons to fill the offices as may be provided for in the bylaws, with such functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the officers of the Association and shall discharge all such functions, powers, and duties.
+&emsp;The Board of Directors shall meet at the call of its Chairman, but at least semiannually. The Board shall determine the general policies which shall govern the operations of the Association. The Chairman of the Board shall, with the approval of the Board, select, appoint, and compensate qualified persons to fill the officesas may be provided for in the bylaws, with such functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the officers of the Association and shall discharge all such functions, powers, and duties.
 
 #### (d) Authority of Association
 
@@ -86,7 +86,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (3) Perfection of security interests in student loans
 
-&emsp;Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in insured student loans created on behalf of the Association or any eligible lender as defined in section 1085(a) of this title may be perfected either through the taking of possession of such loans or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.
+&emsp;Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in insured student loans created on behalf of the Association or any eligible lender as defined in section 1085(a) of this title may be perfected either through the taking of possession of such loans or by the filingof notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.
 
 #### (4) Form of securities
 
@@ -186,7 +186,7 @@ The Association shall have power—
 
 &emsp;(8) to appoint such officers, attorneys, employees, and agents as may be required, to determine their qualifications, to define their duties, to fix their salaries, require bonds for them, and fix the penalty thereof; and
 
-&emsp;(9) to enter into contracts, to execute instruments, to incur liabilities, and to do all thingsas are necessary or incidental to the proper management of its affairs and the proper conduct of its business.
+&emsp;(9) to enter into contracts, to execute instruments, to incur liabilities, and to do all things as are necessary or incidental to the proper management of its affairs and the proper conduct of its business.
 
 #### (j) Accounting, auditing, and reporting
 
@@ -202,7 +202,7 @@ All obligations issued by the Association including those made under subsection 
 
 #### (m) Preparation of obligations
 
-In order to furnish obligations for delivery by the Association, the Secretary of the Treasury is authorized to prepare such obligations in such form as the Board of Directors may approve, such obligations when prepared to be held in the Treasury subject to delivery upon order by the Association. The engraved plates, dies, bed pieces, and so forth, executed in connection therewith shall remain in the custody of the Secretary of the Treasury. The Association shall reimburse the Secretary of the Treasury for any expenditures made in the preparation, custody, and delivery of such obligations. The Secretary of the Treasury is authorized to promulgate regulations on behalf of the Association so that the Association may utilize the book-entry system of the Federal Reserve Banks.
+In order to furnish obligations for delivery by the Association, the Secretary of the Treasury is authorized to prepare such obligations in such form as the Board of Directors may approve, such obligations when prepared to be held in the Treasury subject to delivery upon order by theAssociation. The engraved plates, dies, bed pieces, and so forth, executed in connection therewith shall remain in the custody of the Secretary of the Treasury. The Association shall reimburse the Secretary of the Treasury for any expenditures made in the preparation, custody, and delivery of such obligations. The Secretary of the Treasury is authorized to promulgate regulations on behalf of the Association so that the Association may utilize the book-entry system of the Federal Reserve Banks.
 
 #### (n) Report on operations and activities
 
@@ -336,7 +336,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (A) Submission, approval, and implementation
 
-&emsp;&emsp;The Secretary of the Treasury and the Association shall consult with respect to any capital restoration plan submitted pursuant to paragraph (4) and the Secretary of the Treasury shall approve such plan (or a modification thereof accepted by the Association)or disapprove such plan within 30 days after such plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a capital restoration plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan to the best of its ability.
+&emsp;&emsp;The Secretary of the Treasury and the Association shall consult with respect to any capital restoration plan submitted pursuant to paragraph (4) and the Secretary of the Treasury shall approve such plan (or a modification thereof accepted by the Association) or disapprove such plan within 30 days after such plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a capital restoration plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan to the best of its ability.
 
 #### (B) Disapproval
 
@@ -398,7 +398,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (9) Additional reports to committees
 
-&emsp;The Association shall submit a copy of its capital restoration plan, modifications proposed to the Secretary of the Treasury, and proposed modifications received from the Secretary of the Treasury to the Congressional Budget Office and General Accounting Office upon their submission to the Secretary of the Treasury or receipt from the Secretary of the Treasury. Notwithstanding any other provision of law, the Congressional Budget Office and General Accounting Office shall maintain the confidentiality of information received pursuant to the previous sentence. In the event that the Secretary of the Treasury does not approve a capital restoration plan as provided in paragraph (5)(A) or (6)(A), or in the event that a capital restoration plan is modified by the Secretary of the Treasury pursuant to paragraph (6)(B) or (8), the Congressional Budget Office and General Accounting Office shall each submit a report within 30 days of the Secretary of the Treasury's submission to the Chairmen and ranking minority members as required in paragraphs (5)(B), (6)(B), and (8)(C) to such Chairmen and ranking members—
+&emsp;The Association shall submit a copy of its capital restoration plan, modifications proposed to the Secretary of the Treasury, and proposed modifications received from the Secretary of the Treasury to the Congressional Budget Office and Government Accountability Office upon their submission to the Secretary of the Treasury or receipt from the Secretary of the Treasury. Notwithstanding any other provision of law, the Congressional Budget Office and Government Accountability Office shall maintain the confidentiality of information received pursuant to the previous sentence. In the event that the Secretary of the Treasury does not approve a capital restoration plan as provided in paragraph (5)(A) or (6)(A), or in the event that a capital restoration plan is modified by the Secretary of the Treasury pursuant to paragraph (6)(B) or (8), the Congressional Budget Office and Government Accountability Office shall each submit a report within 30 days of the Secretary of theTreasury's submission to the Chairmen and ranking minority members as required in paragraphs (5)(B), (6)(B), and (8)(C) to such Chairmen and ranking members—
 
 &emsp;&emsp;(A) analyzing the financial condition of the Association;
 
@@ -426,7 +426,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (12) Treatment of confidential information
 
-&emsp;Notwithstanding any other provision of law, the Secretary of the Treasury, the Secretary of Education, the Congressional Budget Office, and the General Accounting Office shall not disclose any information treated as confidential by the Association or the Association's associated persons and obtained pursuant to this subsection. Nothing in this paragraph shall authorize the Secretary of the Treasury, the Secretary of Education, the Congressional Budget Office, and the General Accounting Office to withhold information from Congress, or prevent the Secretary of Education, the Congressional Budget Office, and the General Accounting Office from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States. For purposes of section 552 of title 5, this paragraph shall be considered a statute described in subsection (b)(3) of such section 552.
+&emsp;Notwithstanding any other provision of law, the Secretary of the Treasury, the Secretary of Education, the Congressional Budget Office, and the Government Accountability Office shall not disclose any information treated as confidential by the Association or the Association's associated persons and obtained pursuant to this subsection. Nothing in this paragraph shall authorize the Secretary of the Treasury, the Secretary of Education, the Congressional Budget Office, and the Government Accountability Office to withhold information from Congress, or prevent the Secretary of Education, the Congressional Budget Office, and the Government Accountability Office from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States. For purposes of section 552 of title 5, this paragraph shall be considered a statute described in subsection (b)(3) of such section 552.
 
 #### (13) Enforcement of safety and soundness requirements
 
@@ -452,7 +452,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 &emsp;&emsp;(A) The term “nationally recognized statistical rating organization” means any entity recognized as such by the Securities and Exchange Commission.
 
-&emsp;&emsp;(B) The term “capital ratio” means the ratio of total stockholders’ equity, as shown on the Association's most recent quarterly consolidated balance sheet prepared in the ordinary course of its business, to the sum of—
+&emsp;&emsp;(B) The term “capital ratio” means the ratio of total stockholders’ equity, as shownon the Association's most recent quarterly consolidated balance sheet prepared in the ordinary course of its business, to the sum of—
 
 &emsp;&emsp;&emsp;(i) the total assets of the Association, as shown on the balance sheet prepared in the ordinary course of its business; and
 
@@ -510,7 +510,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (3) Dissolution of the Association
 
-&emsp;The Association shall dissolve and the Association's separate existence shall terminate on July 1, 2013, after discharge of all outstanding debt obligations and liquidation pursuant to this subsection. The Association may dissolve pursuant to this subsection prior to such date by notifying the Secretary of Education and the Secretary of the Treasury of the Association's intention to dissolve, unless within 60 days of receipt of such notice the Secretary of Education notifies the Association that the Association continues to be needed to serve as a lender of last resort pursuant to subsection (q) of this section or continues to be needed to purchase loans under an agreement with the Secretary described in paragraph (4)(A). On the dissolution date, the Association shall take the following actions:
+&emsp;The Association shall dissolve and the Association's separate existence shall terminate on July 1, 2013, after discharge of all outstanding debt obligations and liquidation pursuant to this subsection. The Association may dissolve pursuant to this subsection prior to such date by notifying the Secretary of Education and the Secretary of the Treasury of the Association's intention to dissolve, unless within 60 days of receipt of such notice the Secretary of Education notifies the Association that theAssociation continues to be needed to serve as a lender of last resort pursuant to subsection (q) of this section or continues to be needed to purchase loans under an agreement with the Secretary described in paragraph (4)(A). On the dissolution date, the Association shall take the following actions:
 
 #### (A) Establishment of a trust
 
@@ -552,11 +552,11 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 &emsp;&emsp;The Association may not transfer or permit the use of the name “Student Loan Marketing Association”, “Sallie Mae”, or any variation thereof, to or by any entity other than a subsidiary of the Association.
 
-(Pub. L. 89–329, title IV, §439, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1418; amended Pub. L. 100–50, §10(dd), June 3, 1987, 101 Stat. 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §431, July 23, 1992, 106 Stat. 554; Pub. L. 103–66, title IV, §§4041(c), 4104, Aug. 10, 1993, 107 Stat. 356, 367; Pub. L. 103–208, §2(c)(69), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 103–382, title III, §358, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(2)–(4), (c)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–284 to 3009–286; Pub. L. 106–554, §1(a)(1) \[title III, §309\], Dec. 21, 2000, 114 Stat. 2763, 2763A–45.)
+(Pub. L. 89–329, title IV, §439, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1418; amended Pub. L. 100–50, §10(dd), June 3, 1987, 101 Stat. 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §431, July 23, 1992, 106 Stat. 554; Pub. L. 103–66, title IV, §§4041(c), 4104, Aug. 10, 1993, 107 Stat. 356, 367; Pub. L. 103–208, §2(c)(69), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 103–382, title III, §358, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(2)–(4), (c)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–284 to 3009–286; Pub. L. 106–554, §1(a)(1) \[title III, §309\], Dec. 21, 2000, 114 Stat. 2763, 2763A–45; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Repeal of Section
 
-<i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under section 1087–3(d)(1) of this title have been extinguished, if reorganization occurs in accordance with section 1087–3 of this title; or date on which all obligations of trust established under subsec. (s)(3)(A) of this section have been extinguished, if reorganization does not occur in accordance with section 1087–3 of this title.</i>
+<i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under section 1087–3(d)(1) of this title have been extinguished, if reorganization occurs in accordance with section 1087–3 of this title; or date on which all obligations of trust established under subsec.</i><i>(s)(3)(A) of this section have been extinguished, if reorganization does not occur in accordance with section 1087–3 of this title.</i>
 
 #### References in Text
 
@@ -571,6 +571,8 @@ In subsec. (h)(3) and (5), “chapter 31 of title 31” substituted for “the S
 A prior section 1087–2, Pub. L. 89–329, title IV, §439, as added Pub. L. 92–318, title I, §133(a), June 23, 1972, 86 Stat. 265; amended Pub. L. 94–273, §3(9), Apr. 21, 1976, 90 Stat. 376; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2136; Pub. L. 95–43, §1(a)(38), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §421(a)–(e)(1), title XIII, §1391(a)(1), (3), Oct. 3, 1980, 94 Stat. 1427–1430, 1503; Pub. L. 97–35, title V, §538, Aug. 13, 1981, 95 Stat. 457; Pub. L. 97–115, §18, Dec. 29, 1981, 95 Stat. 1610; Pub. L. 97–301, §14, Oct. 13, 1982, 96 Stat. 1405; Pub. L. 98–79, §§2, 8, Aug. 15, 1983, 97 Stat. 476, 483; Pub. L. 99–272, title XVI, §§16017(b)(4), 16018(a)(3), Apr. 7, 1986, 100 Stat. 347, 348, established the Student Loan Marketing Association, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2004—Subsec. (r)(9), (12). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
 2000—Subsec. (r)(2)(A)(i). Pub. L. 106–554, §1(a)(1) \[title III, §309(1)\], which directed amendment of this section by substituting “and fix the compensation of such auditors and examiners as may be necessary” for “auditors and examiners”, was executed by making the substitution for “auditors or examiners”, to reflect the probable intent of Congress.
 
@@ -630,6 +632,8 @@ Subsec. (r). Pub. L. 102–325, §431(e), added subsec. (r).
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1996 Amendment
@@ -662,13 +666,9 @@ Section 101(e) \[title VI, §602(e), (f)\] of div. A of Pub. L. 104–208 provid
 
 “(e)
 
-Association Names.—Upon dissolution in accordance with section 439(s) of the Higher Education Act of1965 (20 U.S.C. 1087–2\[(s)\]), the names ‘Student Loan Marketing Association’, ‘Sallie Mae’, and any variations thereof may not be used by any entity engaged in any business similar to the business conducted pursuant to section 439 of such Act (as such section was in effect on the date of enactment of this Act \[Sept. 30, 1996\]) without the approval of the Secretary of the Treasury.
+Association Names.—Upon dissolution in accordance with section 439(s) of the Higher Education Act of 1965 (20 U.S.C. 1087–2\[(s)\]), the names ‘Student Loan Marketing Association’, ‘Sallie Mae’, and any variations thereof may not be used by any entity engaged in any business similar to the business conducted pursuant to section 439 of such Act (as such section was in effect on the date of enactment of this Act \[Sept. 30, 1996\]) without the approval of the Secretary of the Treasury.
 
 “(f)
 
 Right to Enforce.—The Secretary of Education or the Secretary of the Treasury, as appropriate, may request that the Attorney General bring an action in the United States District Court for the District of Columbia for the enforcement of any provision of subsection (e), or may, under the direction or control of the Attorney General, bring such an action. Such court shall have jurisdiction and power to order and require compliance with subsection (e).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1072a, 1078, 1085, 1087–1, 1087–3, 1092a of this title; title 12 section 1828.
 

@@ -16,10 +16,6 @@
 
 1976—Pub. L. 94–575, §3(b), Oct. 21, 1976, 90 Stat. 2727, substituted “Transfer of records to records centers” for “Storage, processing, and servicing of records” in item 3103.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2115, 2116, 2901, 2902, 3107, 3504, 3505, 3538, 3549 of this title; title 25 section 450j.
-
 
 ---
 

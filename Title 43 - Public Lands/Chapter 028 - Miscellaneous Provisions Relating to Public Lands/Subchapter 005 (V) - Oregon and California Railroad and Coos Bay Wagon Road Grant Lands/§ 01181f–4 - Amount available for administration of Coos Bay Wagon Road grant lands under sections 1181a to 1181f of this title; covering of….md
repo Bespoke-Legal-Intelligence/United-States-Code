@@ -4,7 +4,3 @@ Not to exceed 25 per centum of the annual receipts shall be available, in such a
 
 (May 24, 1939, ch. 144, §4, 53 Stat. 754.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 869–4, 1181f–1, 1181f–2 of this title.
-

@@ -52,13 +52,13 @@
 
 #### (5) Community-based care
 
-&emsp;The Secretary may make grants to dental schools and programs described in paragraph (1)(B) that partner with community-based dentists to provide oral health care to patients with HIV disease in unserved areas. Such partnerships shall permit the training of dental students and residents and the participation of community dentists as adjunct faculty.
+&emsp;The Secretary may make grants to dental schools and programs described in paragraph\(1)(B) that partner with community-based dentists to provide oral health care to patients with HIV disease in unserved areas. Such partnerships shall permit the training of dental students and residents and the participation of community dentists as adjunct faculty.
 
 #### (c) Authorization of appropriations
 
 #### (1) Schools; centers
 
-&emsp;For the purpose of grants under subsection (a) of this section, there are authorized to beappropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+&emsp;For the purpose of grants under subsection (a) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
 #### (2) Dental schools
 

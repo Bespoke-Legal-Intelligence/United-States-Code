@@ -14,9 +14,5 @@ After January 1, 2010, the Administrator shall allocate allowances to units subj
 
 (July 14, 1955, ch. 360, title IV, §406, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2613.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7651a, 7651b, 7651d, 7651j of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

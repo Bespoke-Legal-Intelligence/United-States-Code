@@ -4,7 +4,7 @@
 
 (b) Whoever, having the custody of any such record, proceeding, map, book, document, paper, or other thing, willfully and unlawfully conceals, removes, mutilates, obliterates, falsifies, or destroys the same, shall be fined under this title or imprisoned not more than three years, or both; and shall forfeit his office and be disqualified from holding any office under the United States. As used in this subsection, the term “office” does not include the office held by any person as a retired officer of the Armed Forces of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 795; Pub. L. 101–510, div. A, title V, §552(a), Nov. 5, 1990, 104 Stat. 1566; Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 795; Pub. L. 101–510, div. A, title V, §552(a), Nov. 5, 1990, 104Stat. 1566; Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -25,8 +25,4 @@ Minor changes were made in phraseology.
 #### Effective Date of 1990 Amendment
 
 Section 552(b) of Pub. L. 101–510 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of January 1, 1989.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3622.
 

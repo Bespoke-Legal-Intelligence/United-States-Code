@@ -28,10 +28,6 @@
 
 1994—Pub. L. 103–429, §6(43)(C), Oct. 31, 1994, 108 Stat. 4383, added items 32918 and 32919 and struck out former item 32918 “Preemption”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 32101, 33104 of this title; title 18 section 2721.
-
 
 ---
 

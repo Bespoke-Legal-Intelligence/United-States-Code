@@ -36,9 +36,5 @@ In making loans for small hydroelectric power projects under this section, the S
 
 The Secretary, referred to in text, and the Commission, referred to in subsec. (a), mean the Secretary of Energy and the Federal Energy Regulatory Commission, respectively, see section 2602(3), (14) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2704, 2707 of this title; title 42 section 7375.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “for a period”.</i>
 

@@ -60,7 +60,3 @@ Objectives.—The officials referred to in subsection (a) shall ensure that—
 
 &emsp;“(3) the programs referred to in subsection (a) are conducted simultaneously in competition with each other in the same immediate area of the United States only when the population of eligible participants in that area is sufficient to justify the simultaneous conduct of such programs in that area.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12511, 12613, 12614, 12619, 12626 of this title.
-

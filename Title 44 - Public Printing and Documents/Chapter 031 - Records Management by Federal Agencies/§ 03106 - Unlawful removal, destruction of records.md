@@ -18,7 +18,3 @@ Pub. L. 98–497, §203(b), inserted at end “In any case in which the head of 
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3102 of this title; title 25 section 458aaa–5.
-

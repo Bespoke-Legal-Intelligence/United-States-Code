@@ -38,7 +38,7 @@ Except for a person who is a tenant on land that is subject to a conservation re
 
 #### (d) Provision of technical assistance by other sources
 
-In the preparation and application of a conservation compliance plan under subchapter II of this chapter or similar plan required as a condition for assistance from the Department of Agriculture, the Secretary shall permit persons to secure technical assistance from approved sources, as determined by the Secretary, other than the Natural Resources Conservation Service. If the Secretary rejects a technical determination made by such a source, the basis of the Secretary's determination must be supported by documented evidence.
+In the preparation and application of a conservation compliance plan under subchapter IIof this chapter or similar plan required as a condition for assistance from the Department of Agriculture, the Secretary shall permit persons to secure technical assistance from approved sources, as determined by the Secretary, other than the Natural Resources Conservation Service. If the Secretary rejects a technical determination made by such a source, the basis of the Secretary's determination must be supported by documented evidence.
 
 #### (e) Regulations
 
@@ -111,8 +111,4 @@ A prior section 3843, Pub. L. 99–198, title XII, §1243, Dec. 23, 1985, 99 Sta
 2002—Pub. L. 107–171, §2006(d), substituted “Administration of CCEP” for “Administration” in section catchline.
 
 Subsec. (f). Pub. L. 107–171, §2003, added subsec. (f).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3822 of this title.
 

@@ -1,9 +1,5 @@
 ### Division B—Local Flexibility Demonstration
 
-#### Division Referred to in Other Sections
-
-This division is referred to in section 7315 of this title.
-
 
 ---
 

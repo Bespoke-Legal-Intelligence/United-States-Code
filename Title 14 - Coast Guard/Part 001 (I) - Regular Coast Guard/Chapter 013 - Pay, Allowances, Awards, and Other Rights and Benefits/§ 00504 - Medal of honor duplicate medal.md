@@ -8,7 +8,3 @@ A person awarded a medal of honor shall, upon written application of that person
 
 A prior section 504, act Aug. 4, 1949, ch. 393, 63 Stat. 537, related to disposition of the remains of deceased Coast Guard personnel, prior to repeal by act July 15, 1954, ch. 507, §14(c)(5), 68 Stat. 481. For provisions relating to recovery, care, and disposition of the remains of deceased personnel of the uniformed services and deceased civilian personnel, see section 1481 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 704.
-

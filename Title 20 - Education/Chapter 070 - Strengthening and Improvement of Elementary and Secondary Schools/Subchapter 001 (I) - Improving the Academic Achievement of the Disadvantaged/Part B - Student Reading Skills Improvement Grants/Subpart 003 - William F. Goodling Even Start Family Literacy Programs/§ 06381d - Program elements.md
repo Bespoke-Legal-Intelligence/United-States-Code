@@ -72,7 +72,3 @@ The Individuals with Disabilities Education Act, referred to in par. (9)(B), is 
 
 The Workforce Investment Act of 1998, referred to in par. (9)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6381f, 6381g, 6381h of this title.
-

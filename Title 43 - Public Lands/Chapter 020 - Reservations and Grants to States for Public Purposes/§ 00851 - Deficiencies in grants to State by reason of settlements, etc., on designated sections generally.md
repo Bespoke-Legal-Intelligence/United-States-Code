@@ -14,7 +14,3 @@ R.S. §2275 derived from acts Feb. 26, 1859, ch. 58, 11 Stat. 385; June 22, 1874
 
 1958—Pub. L. 85–771 inserted “in accordance with the provisions of section 852 of this title” and “prior to survey”, wherever appearing; substituted “That the selection of any lands under this section in lieu of sections granted or reserved to a State or Territory shall be a waiver by the State or Territory of its right to the granted or reserved sections.” for “Where any State is entitled to said sections 16 and 36, or where said sections are reserved to any Territory, notwithstanding the same may be mineral land or embraced within a military, Indian, or other reservation, the selection of such lands in lieu thereof by said State or Territory shall be a waiver of its right to said sections.”; substituted “section for section in lieu of sections therein which have been or shall be granted, reserved, or pledged” for “two sections for each of said townships, in lieu of sections 16 and 36 therein”; struck out from last extinguishment proviso “but nothing in this proviso shall be construed as conferring any right not in this section existing prior to February 28, 1891”, and otherwise amended section generally.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 852, 853, 854 of this title; title 16 section 460iii–2.
-

@@ -16,7 +16,7 @@ Each receipt issued for an agricultural product stored or handled in a warehouse
 
 #### (1) Receipts
 
-&emsp;While a receipt issued under this chapter is outstanding and uncanceled by the warehouse operator, an additional receipt may not be issued for the same agricultural product (or any portion of the same agricultural product) represented by the outstanding receipt, except as authorized by the Secretary.
+&emsp;While a receipt issued under this chapter is outstanding and uncanceled by the warehouseoperator, an additional receipt may not be issued for the same agricultural product (or any portion of the same agricultural product) represented by the outstanding receipt, except as authorized by the Secretary.
 
 #### (2) Other documents
 
@@ -32,7 +32,7 @@ Except as provided in section 242(h)(2) of this title, notwithstanding any other
 
 #### (2) Electronic receipt or electronic document systems
 
-&emsp;Electronic receipts may be issued, recorded, and transferred, and electronic documentsmay be transferred, under this subsection with respect to an agricultural product under, a system or systems maintained in one or more locations and approved by the Secretary in accordance with regulations issued under this chapter.
+&emsp;Electronic receipts may be issued, recorded, and transferred, and electronic documents may be transferred, under this subsection with respect to an agricultural product under, a system or systems maintained in one or more locations and approved by the Secretary in accordance with regulations issued under this chapter.
 
 #### (3) Treatment of holder
 

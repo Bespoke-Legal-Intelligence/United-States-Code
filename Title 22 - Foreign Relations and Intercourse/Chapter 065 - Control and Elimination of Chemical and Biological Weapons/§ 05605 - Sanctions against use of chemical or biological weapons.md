@@ -26,7 +26,7 @@ If, at any time, the President makes a determination pursuant to section 5604(a)
 
 #### (5) Exports of national security-sensitive goods and technology
 
-&emsp;The authorities of section 2405 of title 50, Appendix, shall be used to prohibit the exportto that country of any goods or technology on that part of the control list established under section 2404(c)(1) of title 50, Appendix.
+&emsp;The authorities of section 2405 of title 50, Appendix, shall be used to prohibit the export to that country of any goods or technology on that part of the control list established under section 2404(c)(1) of title 50, Appendix.
 
 #### (b) Additional sanctions if certain conditions not met
 
@@ -104,7 +104,7 @@ The President shall remove the sanctions imposed with respect to a country pursu
 
 &emsp;&emsp;&emsp;(ii) in the case of any sanction specified in subsection (b)(2)(D) of this section (relating to import restrictions), the President determines and certifies to the Congress that such waiver is essential to the national security interest of the United States, and if the President notifies the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives of his determination and certification at least 15 days before the waiver takes effect; or
 
-&emsp;&emsp;(B) if the President determines and certifies to the Congress that there has been a fundamental change in the leadership and policies of the government of that country, and if the President notifies the Congress at least 20 days before the waiver takes effect.
+&emsp;&emsp;(B) if the President determines and certifies to the Congress that there has been afundamental change in the leadership and policies of the government of that country, and if the President notifies the Congress at least 20 days before the waiver takes effect.
 
 #### (2) Report
 
@@ -134,7 +134,7 @@ Section 304(b) of this title, referred to in subsec. (e)(1)(B), is section 304(b
 
 #### Codification
 
-In subsec. (b)(2)(F)(iv), “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)” on authority of Pub. L.103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (b)(2)(F)(iv), “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Change of Name
 
@@ -143,8 +143,4 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 #### Delegation of Functions
 
 Functions of President under this section delegated to Secretary of State, with certain exceptions, by section 1(b) of Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2295a, 2295b, 5604 of this title.
 

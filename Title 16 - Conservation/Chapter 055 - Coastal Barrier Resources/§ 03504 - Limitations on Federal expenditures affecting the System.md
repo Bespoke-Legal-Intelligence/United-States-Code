@@ -34,7 +34,3 @@ Subsec. (b)(1). Pub. L. 101–591, §2(b)(2)(B), substituted “on which the rel
 
 Subsec. (b)(2). Pub. L. 101–591, §2(b)(2)(C), struck out “of enactment” after “before such date”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3505 of this title.
-

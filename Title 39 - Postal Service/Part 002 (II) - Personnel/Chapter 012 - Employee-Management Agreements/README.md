@@ -14,10 +14,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1001, 1003, 1004, 1005, 1007, 2010, 3604 of this title; title 18 section 205.
-
 
 ---
 

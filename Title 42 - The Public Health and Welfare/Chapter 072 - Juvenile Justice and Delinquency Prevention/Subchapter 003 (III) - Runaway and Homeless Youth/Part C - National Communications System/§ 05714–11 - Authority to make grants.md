@@ -8,7 +8,3 @@ The Secretary shall make grants for a national communication system to assist ru
 
 1999—Pub. L. 106–71 substituted “The Secretary” for “With funds reserved under section 5751(a)(3) of this title, the Secretary” in first sentence.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5773 of this title.
-

@@ -14,7 +14,3 @@
 
 1988—Subsec. (d). Pub. L. 100–690 substituted “subsection” for “subsections”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1963, 1964, 3554 of this title; title 7 section 12a; title 8 section 1101.
-

@@ -28,9 +28,5 @@ Section 16 of act May 20, 1937, provided that: “This Act \[enacting this part,
 
 #### Joint Studies of Need for Safety Devices on Certain Cargo Ships; Report
 
-Act Aug. 3, 1956, ch. 913, 70 Stat. 967, authorized the Federal Communications Commission, the UnitedStates Coast Guard, and the Federal Maritime Administration, acting jointly, to make a full and complete study and investigation with respect to the need for installing automatic radiotelegraph call selectors on cargo ships of the United States carrying less than two radio operators, and other such safety devices, and the feasibility thereof, and required a report to the Congress not later than Mar. 1, 1957.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 354 of this title; title 46 section 14305.
+Act Aug. 3, 1956, ch. 913, 70 Stat. 967, authorized the Federal Communications Commission, the United States Coast Guard, and the Federal Maritime Administration, acting jointly, to make a full and complete study and investigation with respect to the need for installing automatic radiotelegraph call selectors on cargo ships of the United States carrying less than two radio operators, and other such safety devices, and the feasibility thereof, and required a report to the Congress not later than Mar. 1, 1957.
 

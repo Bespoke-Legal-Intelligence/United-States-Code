@@ -12,7 +12,7 @@ The Secretary shall, from the amount appropriated under section 9903(a) of this 
 
 #### (1) Minimum allotments
 
-&emsp;Subject to paragraphs (2) and (3), if the amount appropriated under section 9903(a) of this title for a fiscal year that remains after the Secretary makes the reservations required in section 9903(b) of this title exceeds $345,000,000, the Secretary shall allot to each State not less than 1/2 of 1 percent of the amount appropriated under section 9903(a) of this title for such fiscal year.
+&emsp;Subject to paragraphs (2) and (3), if the amount appropriated under section 9903(a) ofthis title for a fiscal year that remains after the Secretary makes the reservations required in section 9903(b) of this title exceeds $345,000,000, the Secretary shall allot to each State not less than 1/2 of 1 percent of the amount appropriated under section 9903(a) of this title for such fiscal year.
 
 #### (2) Maintenance of fiscal year 1990 levels
 
@@ -39,10 +39,6 @@ Section 2808 of this title, referred to in subsec. (a), was repealed by Pub. L. 
 #### Prior Provisions
 
 A prior section 9906, Pub. L. 97–35, title VI, §677, Aug. 13, 1981, 95 Stat. 516, contained nondiscrimination provisions, prior to the general amendment of this chapter by Pub. L. 105–285.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9907, 9908, 9911, 9915, 9916 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

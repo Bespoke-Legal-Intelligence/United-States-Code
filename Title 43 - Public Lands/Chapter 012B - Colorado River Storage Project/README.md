@@ -32,10 +32,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 620c–1, 1551, 1552, 1592, 1595, 1597, 1600g of this title; title 16 section 460dd–3.
-
 
 ---
 

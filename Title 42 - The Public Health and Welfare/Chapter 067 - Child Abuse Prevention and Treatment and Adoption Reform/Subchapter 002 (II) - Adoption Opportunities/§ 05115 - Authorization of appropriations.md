@@ -26,7 +26,3 @@ Subsec. (b). Pub. L. 102–295, §404(2), substituted “$10,000,000 for fiscal 
 
 1984—Pub. L. 98–457 inserted provisions authorizing appropriations of $5,000,000 for each of fiscal years 1984, 1985, 1986, and 1987.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5113 of this title.
-

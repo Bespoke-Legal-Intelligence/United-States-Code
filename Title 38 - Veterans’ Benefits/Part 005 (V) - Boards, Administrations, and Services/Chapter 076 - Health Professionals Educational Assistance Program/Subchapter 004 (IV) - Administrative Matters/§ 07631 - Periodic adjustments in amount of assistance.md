@@ -56,7 +56,3 @@ Pub. L. 107–135, title I, §102(d)(2), Jan. 23, 2002, 115 Stat. 2449, prohibit
 
 Section 216(d) of Pub. L. 100–322 provided that: “Section 4331 \[now 7631\] of title 38, United States Code, as added by subsection (b), shall not apply with respect to a school year ending during fiscal year 1988.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7613, 7622, 7653 of this title.
-

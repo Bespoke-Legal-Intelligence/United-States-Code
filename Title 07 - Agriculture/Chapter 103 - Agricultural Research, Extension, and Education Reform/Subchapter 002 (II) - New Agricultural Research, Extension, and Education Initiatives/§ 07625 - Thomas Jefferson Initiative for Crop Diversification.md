@@ -28,7 +28,7 @@ The purposes of the initiative are—
 
 #### (d) Establishment of initiative
 
-The Secretary shall coordinate the initiative through a nonprofit center or institute that will coordinate research and education programs in cooperation with other public and private entities. The Secretary shall administer research and education grants made under this section.
+The Secretary shall coordinate the initiative through a nonprofit center or institute that willcoordinate research and education programs in cooperation with other public and private entities. The Secretary shall administer research and education grants made under this section.
 
 #### (e) Regional emphasis
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—MARINE MAMMAL COMMISSION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1362, 1371 of this title.
-
 
 ---
 

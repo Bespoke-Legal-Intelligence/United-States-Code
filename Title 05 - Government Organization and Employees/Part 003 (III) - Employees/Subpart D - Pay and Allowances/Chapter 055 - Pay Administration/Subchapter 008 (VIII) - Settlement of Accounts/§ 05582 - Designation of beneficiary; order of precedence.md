@@ -1,6 +1,6 @@
 ### §5582. Designation of beneficiary; order of precedence
 
-(a) The employing agency shall notify each employee of his right to designate a beneficiary or beneficiaries to receive money due, and of the disposition of money due if a beneficiary is notdesignated. An employee may change or revoke a designation at any time under regulations promulgated—
+(a) The employing agency shall notify each employee of his right to designate a beneficiary or beneficiaries to receive money due, and of the disposition of money due if a beneficiary is not designated. An employee may change or revoke a designation at any time under regulations promulgated—
 
 &emsp;(1) by the Director of the Office of Personnel Management or his designee, in the case of an employee of an executive agency;
 
@@ -55,8 +55,4 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### Amendments
 
 1996—Subsec. (a). Pub. L. 104–316 substituted “An employee may change or revoke a designation at any time under regulations promulgated—” for “An employee may change or revoke a designation at any time under such regulations as the Comptroller General of the United States may prescribe.” in introductory provisions and added pars. (1) to (3).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5307, 5583, 5595 of this title; title 22 sections 2504, 3965; title 42 section 4955.
 

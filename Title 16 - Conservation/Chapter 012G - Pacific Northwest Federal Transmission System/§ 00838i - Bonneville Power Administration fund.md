@@ -2,7 +2,7 @@
 
 #### (a) Establishment; composition; availability of transferred funds for expenditures
 
-There is hereby established in the Treasury of the United States a Bonneville Power Administration fund (hereinafter referred to as the “fund”). The fund shall consist of (1) all receipts, collections, and recoveries of the Administrator in cash from all sources, including trust funds, (2) all proceeds derived from the sale of bonds by the Administrator, (3) any appropriations made by the Congress for the fund, and (4) the following funds which are hereby transferred to the Administrator: (i) all moneys in the special account in the Treasury established pursuant to Executive Order Numbered 8526 dated August 26, 1940, (ii) the unexpended balances in the continuing fund established by the provisions of section 832j of this title, and (iii) the unexpended balances of funds appropriated or otherwise made available for the Bonneville Power Administration. All funds transferred hereunder shall be available for expenditure by the Secretary of Energy, acting by and through the Administrator, as authorized in this chapter and any other Act relating to the Federal Columbia River transmission system, subject to such limitations as may be prescribed by any applicable appropriation act effective during such period as may elapse between their transfer and the approval by the Congress of the first subsequent annual budget program of the Administrator.
+There is hereby established in the Treasury of the United States a Bonneville Power Administration fund (hereinafter referred to as the “fund”). The fund shall consist of (1) all receipts, collections, and recoveries of the Administrator in cash from all sources, including trust funds, (2) all proceeds derived from the sale of bonds by the Administrator, (3) any appropriations made by the Congress for the fund, and (4) the following funds which are hereby transferred to the Administrator: (i) all moneys in the special account in the Treasury established pursuant to Executive Order Numbered 8526 dated August 26, 1940, (ii) the unexpended balances in thecontinuing fund established by the provisions of section 832j of this title, and (iii) the unexpended balances of funds appropriated or otherwise made available for the Bonneville Power Administration. All funds transferred hereunder shall be available for expenditure by the Secretary of Energy, acting by and through the Administrator, as authorized in this chapter and any other Act relating to the Federal Columbia River transmission system, subject to such limitations as may be prescribed by any applicable appropriation act effective during such period as may elapse between their transfer and the approval by the Congress of the first subsequent annual budget program of the Administrator.
 
 #### (b) Authorized purposes of expenditures
 
@@ -74,11 +74,7 @@ Functions of Secretary of the Interior with respect to Bonneville Power Administ
 
 #### Authority To Incur Obligations in Excess of Borrowing Authority and Cash in Fund
 
-Pub. L. 100–371, title III, July 19, 1988, 102 Stat. 869, provided that: “Without fiscal year limitation, theBonneville Power Administration continues to be authorized to incur obligations for authorized purposes and may do so in excess of borrowing authority and cash in the Bonneville Power Administration Fund.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 838g, 838k, 839a, 839b, 839d, 839e of this title.
+Pub. L. 100–371, title III, July 19, 1988, 102 Stat. 869, provided that: “Without fiscal year limitation, the Bonneville Power Administration continues to be authorized to incur obligations for authorized purposes and may do so in excess of borrowing authority and cash in the Bonneville Power Administration Fund.”
 
 <i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
 

@@ -36,7 +36,7 @@
 
 &emsp;The right provided by paragraph (2) to bring an action by or on behalf of any employee shall terminate—
 
-&emsp;&emsp;(A) on the filing of a complaint by the Secretary in an action under subsection (d) of this section in which restraint is sought of any further delay in the payment of the amount described in paragraph (1)(A) to such employee by an employer responsible under paragraph (1) for the payment; or
+&emsp;&emsp;(A) on the filing of a complaint by the Secretary in an action under subsection (d) of this section in which restraint is sought of any further delay in the payment of theamount described in paragraph (1)(A) to such employee by an employer responsible under paragraph (1) for the payment; or
 
 &emsp;&emsp;(B) on the filing of a complaint by the Secretary in an action under subsection (b) of this section in which a recovery is sought of the damages described in paragraph (1)(A) owing to an eligible employee by an employer liable under paragraph (1),
 
@@ -82,21 +82,19 @@ The district courts of the United States shall have jurisdiction, for cause show
 
 The Solicitor of Labor may appear for and represent the Secretary on any litigation brought under this section.
 
-#### (f) General Accounting Office and Library of Congress
+#### (f) Government Accountability Office and Library of Congress
 
-In the case of the General Accounting Office and the Library of Congress, the authority of the Secretary of Labor under this subchapter shall be exercised respectively by the Comptroller General of the United States and the Librarian of Congress.
+In the case of the Government Accountability Office and the Library of Congress, the authority of the Secretary of Labor under this subchapter shall be exercised respectively by the Comptroller General of the United States and the Librarian of Congress.
 
-(Pub. L. 103–3, title I, §107, Feb. 5, 1993, 107 Stat. 15; Pub. L. 104–1, title II, §202(c)(1)(B), Jan. 23, 1995, 109 Stat. 9.)
+(Pub. L. 103–3, title I, §107, Feb. 5, 1993, 107 Stat. 15; Pub. L. 104–1, title II, §202(c)(1)(B), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
+
+2004—Subsec. (f). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and text.
 
 1995—Subsec. (f). Pub. L. 104–1 added subsec. (f).
 
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2616, 2618 of this title; title 2 section 1312; title 3 section 412.
 

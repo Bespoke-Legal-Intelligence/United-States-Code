@@ -8,7 +8,3 @@ Not later than 90 days after November 18, 1988, the governmentwide regulations g
 
 The Office of Federal Procurement Policy Act, referred to in text, is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 12644.
-

@@ -4,7 +4,3 @@ Approach roads to national monuments shall be included within the provisions of 
 
 (Mar. 4, 1931, ch. 522, title I, 46 Stat. 1570.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1c of this title.
-

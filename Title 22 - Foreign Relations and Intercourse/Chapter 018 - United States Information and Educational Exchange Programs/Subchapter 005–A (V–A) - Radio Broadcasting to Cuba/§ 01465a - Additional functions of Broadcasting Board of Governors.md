@@ -48,9 +48,5 @@ Subsecs. (d), (f). Pub. L. 105–277, §1324(3), substituted “the Broadcasting
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1465b, 1465d, 1465f of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

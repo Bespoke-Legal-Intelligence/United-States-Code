@@ -1,5 +1,5 @@
 
-1 U.S.C.<br>United States Code, 2003 Edition<br>Title 1 - GENERAL PROVISIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
+1 U.S.C.<br>United States Code, 2004 Edition<br>Title 1 - GENERAL PROVISIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 1—GENERAL PROVISIONS
 
@@ -254,10 +254,6 @@ May 29, 1928, ch. 910, §10, 45 Stat. 1008
 Mar. 3, 1933, ch. 202, §2, 47 Stat. 1431
 
 Rep.
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 46 App. section 1279e.
 
 
 ---

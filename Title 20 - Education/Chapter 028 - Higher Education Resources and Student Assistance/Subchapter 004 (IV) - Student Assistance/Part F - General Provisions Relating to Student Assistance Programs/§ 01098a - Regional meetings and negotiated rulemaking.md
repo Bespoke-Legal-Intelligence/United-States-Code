@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall obtain public involvement in the development of proposed regulations for this subchapter and part C of subchapter I of chapter 34 of title 42; <sup>1</sup> The Secretary shall obtain the advice of and recommendations from individuals and representatives of the groups involved in student financial assistance programs under this subchapter and part C of subchapter I of chapter 34 of title 42, such as students, legal assistance organizations that represent students, institutions of higher education, guaranty agencies, lenders, secondary markets, loan servicers,guaranty agency servicers, and collection agencies.
+&emsp;The Secretary shall obtain public involvement in the development of proposed regulations for this subchapter and part C of subchapter I of chapter 34 of title 42; <sup>1</sup> The Secretary shall obtain the advice of and recommendations from individuals and representatives of the groups involved in student financial assistance programs under this subchapter and part C of subchapter I of chapter 34 of title 42, such as students, legal assistance organizations that represent students, institutions of higher education, guaranty agencies, lenders, secondary markets, loan servicers, guaranty agency servicers, and collection agencies.
 
 #### (2) Issues
 

@@ -50,7 +50,7 @@
 
 (C)(i) A broker or dealer that is registered as a futures commission merchant or introducing broker pursuant to paragraph (2) or an associated person thereof, or that is a floor broker or floor trader exempt from registration pursuant to paragraph (3), shall not be required to become a member of any futures association registered under section 21 of this title.
 
-(ii) No futures association registered under section 21 of this title shall limit its members from carrying an account, accepting an order, or transacting business with a broker or dealer that is registered as a futures commission merchant or introducing broker pursuant to paragraph (2) or an associated person thereof, or that is a floor broker or floor trader exempt from registration pursuant to paragraph (3).
+(ii) No futures association registered under section 21 of this title shall limit its membersfrom carrying an account, accepting an order, or transacting business with a broker or dealer that is registered as a futures commission merchant or introducing broker pursuant to paragraph (2) or an associated person thereof, or that is a floor broker or floor trader exempt from registration pursuant to paragraph (3).
 
 #### (b) Financial requirements for futures commission merchants and introducing brokers
 
@@ -165,10 +165,6 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 #### Effective Date
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2, 6d, 6k, 7a–2, 9c, 12, 13a–1, 21 of this title; title 15 sections 78f, 78<i>o</i>, 78<i>o</i>–3.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

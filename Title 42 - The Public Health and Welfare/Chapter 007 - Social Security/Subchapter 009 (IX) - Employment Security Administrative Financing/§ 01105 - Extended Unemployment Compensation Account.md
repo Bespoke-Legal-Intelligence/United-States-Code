@@ -94,7 +94,3 @@ Amendment by section 271(b)(2)(B) of Pub. L. 97–248 applicable to remuneration
 
 Amendment by Pub. L. 94–566 effective Oct. 20, 1976, see section 211(d)(3) of Pub. L. 94–566, set out as a note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1101, 1102, 1103, 1110 of this title.
-

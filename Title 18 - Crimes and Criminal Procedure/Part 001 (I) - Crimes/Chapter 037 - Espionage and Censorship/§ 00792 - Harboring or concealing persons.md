@@ -20,7 +20,3 @@ Mandatory punishment provision was rephrased in the alternative.
 
 Act Sept. 23, 1950, ch. 1024, §19, 64 Stat. 1005, provided that an indictment for any violation of this section and sections 793 and 794 of this title, other than a violation constituting a capital offense, may be found at any time within ten years next after such violation shall have been committed, but that such section 19 shall not authorize prosecution, trial, or punishment for any offense “now” barred by the provisions of existing law.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 951 of this title; title 5 section 8312; title 38 section 6105; title 42 section 2000aa; title 50 App. sections 19, 34.
-

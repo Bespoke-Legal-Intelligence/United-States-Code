@@ -82,6 +82,10 @@ The Council shall advise and assist the President in—
 
 <i>For repeal of section on Sept. 30, 2003, see section 1712 of this title.</i>
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Ex. Ord. No. 12992. President's Council on Counter-Narcotics
 
 Ex. Ord. No. 12992, Mar. 15, 1996, 61 F.R. 11287, as amended by Ex. Ord. No. 13023, §§2, 3, Nov. 6, 1996, 61 F.R. 57767; Ex. Ord. No. 13284, §8, Jan. 23, 2003, 68 F.R. 4076, provided:

@@ -26,7 +26,3 @@ Sept. 26, 1961, Pub. L. 87–299, §1 “Sec. 2(a)”, 75 Stat. 642.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8311, 8315, 8316, 8318, 8320 of this title.
-

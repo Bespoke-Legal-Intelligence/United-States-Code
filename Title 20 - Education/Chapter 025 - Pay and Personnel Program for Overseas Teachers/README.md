@@ -34,10 +34,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 922 of this title; title 5 section 5722; title 25 section 2012.
-
 
 ---
 

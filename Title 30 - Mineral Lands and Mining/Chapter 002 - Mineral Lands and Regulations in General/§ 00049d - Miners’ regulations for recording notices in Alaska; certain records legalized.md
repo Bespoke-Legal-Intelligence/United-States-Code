@@ -12,7 +12,3 @@ This Act, referred to in text, means act June 6, 1900, ch. 786, 31 Stat. 321, as
 
 Section is comprised of the two provisos of section 16 of act June 6, 1900, and part of the last sentence of that section, which were formerly classified to section 383 of Title 48, Territories and Insular Possessions. The remainder of section 16 (excluding the last sentence) which was formerly classified to section 120 of Title 48, was omitted from the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 460mm–1.
-

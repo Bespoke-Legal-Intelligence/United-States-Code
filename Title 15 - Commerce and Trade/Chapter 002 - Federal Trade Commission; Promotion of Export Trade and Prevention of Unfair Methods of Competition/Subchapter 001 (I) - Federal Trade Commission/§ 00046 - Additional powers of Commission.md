@@ -24,7 +24,7 @@ Upon the application of the Attorney General to investigate and make recommendat
 
 #### (f) Publication of information; reports
 
-To make public from time to time such portions of the information obtained by it hereunder as are in the public interest; and to make annual and special reports to the Congress and to submit therewith recommendations for additional legislation; and to provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use: <i>Provided</i>, That the Commission shall not have any authority to make public any trade secret or any commercial or financial information which is obtained from any person and which is privileged or confidential, except that the Commission may disclose such information to officers and employees of appropriate Federal law enforcement agencies or to any officer or employee of any State law enforcement agency upon the prior certification of an officer of any such Federal or State law enforcement agency that such information will be maintained in confidence and will be used only for official law enforcement purposes.
+To make public from time to time such portions of the information obtained by it hereunder as are in the public interest; and to make annual and special reports to the Congress and to submit therewith recommendations for additional legislation; and to provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use: <i>Provided</i>, That the Commission shall not have any authority to make public any trade secret or any commercial or financial information which is obtained from any person and which is privileged or confidential, except that the Commission may disclose suchinformation to officers and employees of appropriate Federal law enforcement agencies or to any officer or employee of any State law enforcement agency upon the prior certification of an officer of any such Federal or State law enforcement agency that such information will be maintained in confidence and will be used only for official law enforcement purposes.
 
 #### (g) Classification of corporations; regulations
 
@@ -44,7 +44,7 @@ The Commission shall establish a plan designed to substantially reduce burdens i
 
 No officer or employee of the Commission or any Commissioner may publish or disclose information to the public, or to any Federal agency, whereby any line-of-business data furnished by a particular establishment or individual can be identified. No one other than designated sworn officers and employees of the Commission may examine the line-of-business reports from individual firms, and information provided in the line-of-business program administered by the Commission shall be used only for statistical purposes. Information for carrying out specific law enforcement responsibilities of the Commission shall be obtained under practices and procedures in effect on May 28, 1980, or as changed by law.
 
-Nothing in this section (other than the provisions of clause (c) and clause (d)) shall apply to the business of insurance, except that the Commission shall have authority to conduct studies and prepare reports relating to the business of insurance. The Commission may exercise suchauthority only upon receiving a request which is agreed to by a majority of the members of the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives. The authority to conduct any such study shall expire at the end of the Congress during which the request for such study was made.
+Nothing in this section (other than the provisions of clause (c) and clause (d)) shall apply to the business of insurance, except that the Commission shall have authority to conduct studies and prepare reports relating to the business of insurance. The Commission may exercise such authority only upon receiving a request which is agreed to by a majority of the members of the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives. The authority to conduct any such study shall expire at the end of the Congress during which the request for such study was made.
 
 (Sept. 26, 1914, ch. 311, §6, 38 Stat. 721; Pub. L. 93–153, title IV, §408(e), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, §§201(b), 202(b), 203(a), Jan. 4, 1975, 88 Stat. 2193, 2198; Pub. L. 96–37, §1(b), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §§3–5(a), May 28, 1980, 94 Stat. 374, 375; Pub. L. 100–86, title VII, §715(a), (b), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 103–438, §3(e)(2)(A), Nov. 2, 1994, 108 Stat. 4598.)
 
@@ -102,7 +102,7 @@ For transfer of functions of Federal Trade Commission, with certain exceptions, 
 
 #### Study and Evaluation of Effectiveness of State Policies and Programs Relating to Regulation of Certain Health Insurance Policies
 
-Section 5(b) of Pub. L. 96–252 provided that: “The amendment made in subsection (a) \[adding undesignated paragraph authorizing studies and reports relating to the business of insurance\] shall not be construedto prohibit the Federal Trade Commission from participating with the Secretary of Health and Human Services in a comprehensive study and evaluation of the comparative effectiveness of various State policies and programs relating to the regulation of health insurance policies available for purchase by individuals who are eligible for benefits under the program of health insurance benefits established in title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].”
+Section 5(b) of Pub. L. 96–252 provided that: “The amendment made in subsection (a) \[adding undesignated paragraph authorizing studies and reports relating to the business of insurance\] shall not be construed to prohibit the Federal Trade Commission from participating with the Secretary of Health and Human Services in a comprehensive study and evaluation of the comparative effectiveness of various State policies and programs relating to the regulation of health insurance policies available for purchase by individuals who are eligible for benefits under the program of health insurance benefits established in title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].”
 
 #### Ex. Ord. No. 10544. Inspection of Income Tax Returns by Federal Trade Commission
 
@@ -113,8 +113,4 @@ By virtue of the authority vested in me by section 55(a) of the Internal Revenue
 This Executive Order shall be effective upon its filing for publication in the Federal Register.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 57b–1, 57b–2, 57b–3, 6205 of this title; title 7 sections 198b, 222, 2146, 3807; title 13 section 91; title 21 sections 467d, 677, 1051.
 

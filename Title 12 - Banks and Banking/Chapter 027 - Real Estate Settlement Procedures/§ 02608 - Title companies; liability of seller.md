@@ -6,7 +6,3 @@
 
 (Pub. L. 93–533, §9, Dec. 22, 1974, 88 Stat. 1728.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2614 of this title.
-

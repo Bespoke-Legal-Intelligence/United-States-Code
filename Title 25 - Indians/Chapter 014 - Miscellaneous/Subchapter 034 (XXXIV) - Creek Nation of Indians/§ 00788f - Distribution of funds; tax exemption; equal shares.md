@@ -8,7 +8,3 @@ All costs incident to carrying out the provisions of sections 788e to 788h of th
 
 Act of October 27, 1966, referred to in text, is act Oct. 27, 1966, Pub. L. 89–697, 80 Stat. 1057. That portion of the act which appropriated the funds referred to was not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 788h of this title.
-

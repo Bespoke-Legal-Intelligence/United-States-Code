@@ -36,10 +36,6 @@ Following the final disapproval of a State program, and prior to promulgation of
 
 (Pub. L. 95–87, title V, §502, Aug. 3, 1977, 91 Stat. 468.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1251, 1253, 1256, 1268, 1271, 1273, 1302 of this title.
-
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
 <i><sup>2</sup></i><i> So in original. The semicolon probably should be a period.</i>

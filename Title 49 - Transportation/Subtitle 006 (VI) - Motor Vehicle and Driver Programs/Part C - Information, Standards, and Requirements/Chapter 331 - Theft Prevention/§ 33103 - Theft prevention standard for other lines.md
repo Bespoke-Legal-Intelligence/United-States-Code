@@ -44,7 +44,7 @@ Long Range Review of Effectiveness.—(1) Not later than December 31, 1999, the 
 
 (e)
 
-Effective Date of Standard.—A standard prescribed under this section takes effect atleast 6 months after the date the standard is prescribed, except that the Secretary may prescribe an earlier effective date if the Secretary—
+Effective Date of Standard.—A standard prescribed under this section takes effect at least 6 months after the date the standard is prescribed, except that the Secretary may prescribe an earlier effective date if the Secretary—
 
 &emsp;(1) decides with good cause that the earlier date is in the public interest; and
 
@@ -113,8 +113,4 @@ In subsection (d)(2)(A)(iii), the words “civil . . . penalties under section
 In subsection (d)(3), the words “for the model years after model year 2000” are substituted for “Nothing in this paragraph affects exemptions granted in model year 2000 or earlier to any manufacturer” to eliminate unnecessary words. The words “at one of the following levels that the Attorney General decides” are substituted for “as determined by the Attorney General” for clarity.
 
 In subsection (e), the text of 15:2022(c)(4) (related to the standard under 15:2022(c)(1)) is omitted as obsolete because the standard under 15:2022(c)(1) has already been prescribed. See 49 C.F.R. 541.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 33101, 33105, 33106, 33107, 33108, 33112, 33114, 33115, 33118 of this title.
 

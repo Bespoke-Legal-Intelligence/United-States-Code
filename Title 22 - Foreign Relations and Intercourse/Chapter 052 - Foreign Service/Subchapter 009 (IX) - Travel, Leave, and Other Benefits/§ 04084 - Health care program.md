@@ -22,7 +22,7 @@ Health care may be provided under this section to a member of the Service or oth
 
 #### (f) Review; medical care contracts
 
-The Secretary of State shall review on a continuing basis the health care program provided for in this section. Whenever the Secretary of State determines that all or any part of such program can be provided for as well and ascheaply in other ways, the Secretary may, for such individuals, locations, and conditions as the Secretary of State deems appropriate, contract for health care pursuant to such arrangements as the Secretary deems appropriate.
+The Secretary of State shall review on a continuing basis the health care program provided for in this section. Whenever the Secretary of State determines that all or any part of such program can be provided for as well and as cheaply in other ways, the Secretary may, for such individuals, locations, and conditions as the Secretary of State deems appropriate, contract for health care pursuant to such arrangements as the Secretary deems appropriate.
 
 (Pub. L. 96–465, title I, §904, Oct. 17, 1980, 94 Stat. 2127; Pub. L. 99–93, title I, §122, Aug. 16, 1985, 99 Stat. 413; Pub. L. 100–238, title II, §243, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 107–228, div. A, title III, §316, Sept. 30, 2002, 116 Stat. 1379.)
 
@@ -41,8 +41,4 @@ Subsec. (d). Pub. L. 99–93, §122(3), amended subsec. (d) generally. Prior to 
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100–238, set out as a note under section 4054 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 143a; title 10 section 1599b; title 28 section 530A; title 38 section 707.
 

@@ -34,7 +34,3 @@ The Secretary shall provide—
 
 (Pub. L. 100–418, title V, §5408, Aug. 23, 1988, 102 Stat. 1466.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4911, 4913 of this title.
-

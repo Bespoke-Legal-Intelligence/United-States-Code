@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) be appointed by the President, by and with the advice and consent of the Senate; or
 
-&emsp;&emsp;(B) be designated by the President, in consultation with the head of the agency, fromamong officials of the agency who are required by law to be so appointed;
+&emsp;&emsp;(B) be designated by the President, in consultation with the head of the agency, from among officials of the agency who are required by law to be so appointed;
 
 &emsp;(2) for those agencies described in subsection (b)(2)—
 
@@ -32,43 +32,43 @@
 
 &emsp;(F) The Department of Health and Human Services.
 
-&emsp;(G) The Department of Housing and Urban Development.
+&emsp;(G) The Department of Homeland Security.
 
-&emsp;(H) The Department of the Interior.
+&emsp;(H) The Department of Housing and Urban Development.
 
-&emsp;(I) The Department of Justice.
+&emsp;(I) The Department of the Interior.
 
-&emsp;(J) The Department of Labor.
+&emsp;(J) The Department of Justice.
 
-&emsp;(K) The Department of State.
+&emsp;(K) The Department of Labor.
 
-&emsp;(L) The Department of Transportation.
+&emsp;(L) The Department of State.
 
-&emsp;(M) The Department of the Treasury.
+&emsp;(M) The Department of Transportation.
 
-&emsp;(N) The Department of Veterans Affairs.
+&emsp;(N) The Department of the Treasury.
 
-&emsp;(O) The Environmental Protection Agency.
+&emsp;(O) The Department of Veterans Affairs.
 
-&emsp;(P) The National Aeronautics and Space Administration.
+&emsp;(P) The Environmental Protection Agency.
+
+&emsp;(Q) The National Aeronautics and Space Administration.
 
 (2) The agencies referred to in subsection (a)(2) are the following:
 
 &emsp;(A) The Agency for International Development.
 
-&emsp;(B) The Federal Emergency Management Agency.
+&emsp;(B) The General Services Administration.
 
-&emsp;(C) The General Services Administration.
+&emsp;(C) The National Science Foundation.
 
-&emsp;(D) The National Science Foundation.
+&emsp;(D) The Nuclear Regulatory Commission.
 
-&emsp;(E) The Nuclear Regulatory Commission.
+&emsp;(E) The Office of Personnel Management.
 
-&emsp;(F) The Office of Personnel Management.
+&emsp;(F) The Small Business Administration.
 
-&emsp;(G) The Small Business Administration.
-
-&emsp;(H) The Social Security Administration.
+&emsp;(G) The Social Security Administration.
 
 (c)(1) There shall be within the Executive Office of the President a Chief Financial Officer, who shall be designated or appointed by the President from among individuals meeting the standards described in subsection (a)(3). The position of Chief Financial Officer established under this paragraph may be so established in any Office (including the Office of Administration) of the Executive Office of the President.
 
@@ -78,9 +78,13 @@
 
 (4) The President may designate an employee of the Executive Office of the President (other than the Chief Financial Officer), who shall be deemed “the head of the agency” for purposes of carrying out section 902, with respect to the Executive Office of the President.
 
-(Added Pub. L. 101–576, title II, §205(a), Nov. 15, 1990, 104 Stat. 2842; amended Pub. L. 103–296, title I, §108(j)(1), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 106–58, title VI, §638(a), Sept. 29, 1999, 113 Stat. 475.)
+(Added Pub. L. 101–576, title II, §205(a), Nov. 15, 1990, 104 Stat. 2842; amended Pub. L. 103–296, title I, §108(j)(1), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 106–58, title VI, §638(a), Sept. 29, 1999, 113 Stat. 475; Pub. L. 108–330, §3(a), (d)(2), Oct. 16, 2004, 118 Stat. 1276, 1277.)
 
 #### Amendments
+
+2004—Subsec. (b)(1)(G) to (Q). Pub. L. 108–330, §3(a), added subpar. (G) and redesignated former subpars. (G) to (P) as (H) to (Q), respectively.
+
+Subsec. (b)(2)(B) to (H). Pub. L. 108–330, §3(d)(2), redesignated subpars. (C) to (H) as (B) to (G), respectively, and struck out former subpar. (B) which read as follows: “The Federal Emergency Management Agency.”
 
 1999—Subsec. (c). Pub. L. 106–58 added subsec. (c).
 
@@ -98,13 +102,25 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Chief Financial Officer of Department of Homeland Security
+
+Pub. L. 108–330, §3(b), (c), Oct. 16, 2004, 118 Stat. 1276, provided that:
+
+“(b)
+
+Appointment or Designation of CFO.—The President shall appoint or designate a Chief Financial Officer of the Department of Homeland Security under the amendment made by subsection (a) \[amending this section\] by not later than 180 days after the date of the enactment of this Act \[Oct. 16, 2004\].
+
+“(c)
+
+Continued Service of Current Official.—An individual serving as Chief Financial Officer of the Department of Homeland Security immediately before the enactment of this Act, or another person who is appointed to replace such an individual in an acting capacity after the enactment of this Act, may continue to serve in that position until the date of the confirmation or designation, as applicable (under section 901(a)(1)(B) of title 31, United States Code), of a successor under the amendment made by subsection (a).”
+
 #### Chief Financial Officer Within Executive Office of the President
 
 Pub. L. 106–58, title VI, §638(b)–(e), Sept. 29, 1999, 113 Stat. 475, provided that:
 
 “(b)
 
-Plan for Implementation.—Not later than 90 days after the effective date of this section \[noon on Jan. 20, 2001\], the President shall communicate in writing, to the Chairmen of the Committees on Appropriations, the Chairman of the Committee on Government Reform of the House of Representatives, and the Chairman of the Committee on Governmental Affairs of the Senate, a plan for implementation of the provisions of, and amendments made by, this section \[amending this section and sections 503 and 1105 of this title\].
+Plan for Implementation.—Not later than 90 days after the effective date of this section \[noon on Jan. 20, 2001\], the President shall communicate in writing, to the Chairmen of the Committees on Appropriations, the Chairman of the Committee on Government Reform of the House of Representatives, and the Chairman of the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, a plan for implementation of the provisions of, and amendments made by, this section \[amending this section and sections 503 and 1105 of this title\].
 
 “(c)
 
@@ -118,7 +134,7 @@ Pay.—The Chief Financial Officer designated or appointed under such section sh
 
 Transfer of Functions.—(1) The President may transfer such offices, functions, powers, or duties thereof, as the President determines are properly related to the functions of the Chief Financial Officer under section 901(c) of title 31, United States Code (as added by subsection (a)).
 
-“(2) The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of any office the functions, powers, orduties of which are transferred under paragraph (1) shall also be so transferred.”
+“(2) The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of any office the functions, powers, or duties of which are transferred under paragraph (1) shall also be so transferred.”
 
 #### Chief Financial Officers of Department of Veterans Affairs and Department of Housing and Urban Development
 
@@ -167,8 +183,4 @@ Establishment.—There is established a Chief Financial Officers Council, consis
 “(b)
 
 Functions.—The Chief Financial Officers Council shall meet periodically to advise and coordinate the activities of the agencies of its members on such matters as consolidation and modernization of financial systems, improved quality of financial information, financial data and information standards, internal controls, legislation affecting financial operations and organizations, and any other financial management matter.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 503, 903, 3515 of this title; title 5 section 1401; title 28 section 507; title 40 section 11315; title 41 section 414; title 42 section 902; title 44 section 3603.
 

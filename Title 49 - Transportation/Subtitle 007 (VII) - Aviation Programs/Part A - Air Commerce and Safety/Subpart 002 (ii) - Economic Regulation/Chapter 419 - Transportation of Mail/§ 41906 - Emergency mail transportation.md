@@ -34,7 +34,3 @@ In subsection (a), the word “disaster” is substituted for “calamitous visi
 
 In subsection (b), the words “Transportation provided” are substituted for “operation” for consistency in this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41902 of this title.
-

@@ -1,18 +1,20 @@
 ### §1320a–8. Civil monetary penalties and assessments for subchapters II, VIII and XVI
 
-#### (a) False statements or representations of material fact; proceedings to exclude
+#### (a) False statements or representations of material fact; proceedings to exclude; wrongful conversions by representative payees
 
-(1) Any person (including an organization, agency, or other entity) who makes, or causes to be made, a statement or representation of a material fact for use in determining any initial or continuing right to or the amount of—
+(1) Any person (including an organization, agency, or other entity) who—
 
-&emsp;(A) monthly insurance benefits under subchapter II of this chapter,
+&emsp;(A) makes, or causes to be made, a statement or representation of a material fact, for use in determining any initial or continuing right to or the amount of monthly insurance benefits under subchapter II of this chapter or benefits or payments under subchapter VIII or XVI of this chapter, that the person knows or should know is false or misleading,
 
-&emsp;(B) benefits or payments under subchapter VIII of this chapter, or
+&emsp;(B) makes such a statement or representation for such use with knowing disregard for the truth, or
 
-&emsp;(C) benefits or payments under subchapter XVI of this chapter,
+&emsp;(C) omits from a statement or representation for such use, or otherwise withholds disclosure of, a fact which the person knows or should know is material to the determination of any initial or continuing right to or the amount of monthly insurance benefits under subchapter II of this chapter or benefits or payments under subchapter VIII or XVI of this chapter, if the person knows, or should know, that the statement or representation with such omission is false or misleading or that the withholding of such disclosure is misleading,
 
-> that the person knows or should know is false or misleading or knows or should know omits a material fact or makes such a statement with knowing disregard for the truth shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such statement or representation. Such person also shall be subject to an assessment, in lieu of damages sustained by the United States because of such statement or representation, of not more than twice the amount of benefits or payments paid as a result of such a statement or representation. In addition, the Commissioner of Social Security may make a determination in the same proceeding to recommend that the Secretary exclude, as provided in section 1320a–7 of this title, such a person who is a medical provider or physician from participation in the programs under subchapter XVIII of this chapter.
+> shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such statement or representation or each receipt of such benefits or payments while withholding disclosure of such fact. Such person also shall be subject to an assessment, in lieu of damages sustained by the United States because of such statement or representation or because of such withholding of disclosure of a material fact, of not more than twice the amount of benefits or payments paid as a result of such a statement or representation or such a withholding of disclosure. In addition, the Commissioner of Social Security may make a determination in the same proceeding to recommend that the Secretary exclude, as provided in section 1320a–7 of this title, such a person who is a medical provider or physician from participation in the programs under subchapter XVIII of this chapter.
 
 (2) For purposes of this section, a material fact is one which the Commissioner of Social Security may consider in evaluating whether an applicant is entitled to benefits under subchapter II of this chapter or subchapter VIII of this chapter, or eligible for benefits or payments under subchapter XVI of this chapter.
+
+(3) Any person (including an organization, agency, or other entity) who, having received, while acting in the capacity of a representative payee pursuant to section 405(j), 1007, or 1383(a)(2) of this title, a payment under subchapter II, VIII, or XVI of this chapter for the use and benefit of another individual, converts such payment, or any part thereof, to a use that such person knows or should know is other than for the use and benefit of such other individual shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such conversion. Such person shall also be subject to an assessment, in lieu of damages sustained by the United States resulting from the conversion, of not more than twice the amount of any payments so converted.
 
 #### (b) Initiation of proceedings; hearing; sanctions
 
@@ -22,7 +24,7 @@
 
 (3) In a proceeding under this section which—
 
-&emsp;(A) is against a person who has been convicted (whether upon a verdict after trial or upon a plea of guilty or nolo contendere) of a Federal or State crime charging fraud or false statements; and
+&emsp;(A) is against a person who has been convicted (whether upon a verdict after trial or upon a plea of guilty or nolo contendere) of a Federal or State crime; and
 
 &emsp;(B) involves the same transaction as in the criminal action;
 
@@ -50,7 +52,7 @@
 
 In determining pursuant to subsection (a) of this section the amount or scope of any penalty or assessment, or whether to recommend an exclusion, the Commissioner of Social Security shall take into account—
 
-&emsp;(1) the nature of the statements and representations referred to in subsection (a) of this section and the circumstances under which they occurred;
+&emsp;(1) the nature of the statements, representations, or actions referred to in subsection (a) of this section and the circumstances under which they occurred;
 
 &emsp;(2) the degree of culpability, history of prior offenses, and financial condition of the person committing the offense; and
 
@@ -58,7 +60,7 @@ In determining pursuant to subsection (a) of this section the amount or scope of
 
 #### (d) Judicial review
 
-(1) Any person adversely affected by a determination of the Commissioner of Social Security under this section may obtain a review of such determination in the United States Courtof Appeals for the circuit in which the person resides, or in which the statement or representation referred to in subsection (a) of this section was made, by filing in such court (within 60 days following the date the person is notified of the Commissioner's determination) a written petition requesting that the determination be modified or set aside. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commissioner of Social Security, and thereupon the Commissioner of Social Security shall file in the court the record in the proceeding as provided in section 2112 of title 28. Upon such filing, the court shall have jurisdiction of the proceeding and of the question determined therein, and shall have the power to make and enter upon the pleadings, testimony, and proceedings set forth in such record a decree affirming, modifying, remanding for further consideration, or setting aside, in whole or in part, the determination of the Commissioner of Social Security and enforcing the same to the extent that such order is affirmed or modified. No objection that has not been urged before the Commissioner of Social Security shall be considered by the court, unless the failure or neglect to urge such objection shall be excused because of extraordinary circumstances.
+(1) Any person adversely affected by a determination of the Commissioner of Social Security under this section may obtain a review of such determination in the United States Court of Appeals for the circuit in which the person resides, or in which the statement or representation referred to in subsection (a) of this section was made, by filing in such court (within 60 days following the date the person is notified of the Commissioner's determination) a written petition requesting that the determination be modified or set aside. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commissioner of Social Security, and thereupon the Commissioner of Social Security shall file in the court the record in the proceeding as provided in section 2112 of title 28. Upon such filing, the court shall have jurisdiction of the proceeding and of the question determined therein, and shall have the power to make and enter upon the pleadings, testimony, and proceedings set forth in such record a decree affirming, modifying, remanding for further consideration, or setting aside, in whole or in part, the determination of the Commissioner of Social Security and enforcing the same to the extent that such order is affirmed or modified. No objection that has not been urged before the Commissioner of Social Security shall be considered by the court, unless the failure or neglect to urge such objection shall be excused because of extraordinary circumstances.
 
 (2) The findings of the Commissioner of Social Security with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive in the review described in paragraph (1). If any party shall apply to the court for leave to adduce additional evidence and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the hearing before the Commissioner of Social Security, the court may order such additional evidence to be taken before the Commissioner of Social Security and to be made a part of the record. The Commissioner of Social Security may modify such findings as to the facts, or make new findings, by reason of additional evidence so taken and filed, and the Commissioner of Social Security shall file with the court such modified or new findings, which findings with respect to questions of fact, if supported by substantial evidence on the record considered as a whole shall be conclusive, and the Commissioner's recommendations, if any, for the modification or setting aside of the Commissioner's original order.
 
@@ -68,7 +70,7 @@ In determining pursuant to subsection (a) of this section the amount or scope of
 
 (1) Civil money penalties and assessments imposed under this section may be compromised by the Commissioner of Social Security and may be recovered—
 
-&emsp;(A) in a civil action in the name of the United States brought in United States district court for the district where the statement or representation referred to in subsection (a) of this section was made, or where the person resides, as determined by the Commissioner of Social Security;
+&emsp;(A) in a civil action in the name of the United States brought in United States district court for the district where the violation occurred, or where the person resides, as determined by the Commissioner of Social Security;
 
 &emsp;(B) by means of reduction in tax refunds to which the person is entitled, based on notice to the Secretary of the Treasury as permitted under section 3720A of title 31;
 
@@ -80,7 +82,7 @@ In determining pursuant to subsection (a) of this section the amount or scope of
 
 &emsp;(D) by authorities provided under the Debt Collection Act of 1982, as amended, to the extent applicable to debts arising under this chapter;
 
-&emsp;(E) by deduction of the amount of such penalty or assessment, when finally determined, or the amount agreed upon in compromise, from any sum then or later owing by the United States to the person against whom the penalty or assessment has been assessed; or
+&emsp;(E) by deduction of the amount of such penalty or assessment, when finally determined, or the amount agreed upon in compromise, from any sum then or later owing by theUnited States to the person against whom the penalty or assessment has been assessed; or
 
 &emsp;(F) by any combination of the foregoing.
 
@@ -88,7 +90,7 @@ In determining pursuant to subsection (a) of this section the amount or scope of
 
 &emsp;(A) In the case of amounts recovered arising out of a determination relating to subchapter II of this chapter, the amounts shall be transferred to the Managing Trustee of the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, as determined appropriate by the Commissioner of Social Security, and such amounts shall be deposited by the Managing Trustee into such Trust Fund.
 
-&emsp;(B) In the case of amounts recovered arising out of a determination relating to subchapter VIII or XVI of this chapter, the amounts shall be deposited by the Commissioner of Social Security into the general fund of the Treasury as miscellaneous receipts.
+&emsp;(B) In the case of any other amounts recovered under this section, the amounts shall be deposited by the Commissioner of Social Security into the general fund of the Treasury as miscellaneous receipts.
 
 #### (f) Finality of determination respecting penalty, assessment, or exclusion
 
@@ -96,7 +98,7 @@ A determination pursuant to subsection (a) of this section by the Commissioner o
 
 #### (g) Notification of appropriate entities of finality of determination
 
-Whenever the Commissioner's determination to impose a penalty or assessment under thissection with respect to a medical provider or physician becomes final, the Commissioner shall notify the Secretary of the final determination and the reasons therefor, and the Secretary shall then notify the entities described in section 1320a–7a(h) of this title of such final determination.
+Whenever the Commissioner's determination to impose a penalty or assessment under this section with respect to a medical provider or physician becomes final, the Commissioner shall notify the Secretary of the final determination and the reasons therefor, and the Secretary shall then notify the entities described in section 1320a–7a(h) of this title of such final determination.
 
 #### (h) Injunction
 
@@ -120,7 +122,7 @@ A principal is liable for penalties and assessments under subsection (a) of this
 
 As soon as the Inspector General, Social Security Administration, has reason to believe that fraud was involved in the application of an individual for monthly insurance benefits under subchapter II of this chapter or for benefits under subchapter VIII or XVI of this chapter, the Inspector General shall make available to the Commissioner of Social Security information identifying the individual, unless a United States attorney, or equivalent State prosecutor, with jurisdiction over potential or actual related criminal cases, certifies, in writing, that there is a substantial risk that making the information so available in a particular investigation or redetermining the eligibility of the individual for such benefits would jeopardize the criminal prosecution of any person who is a subject of the investigation from which the information is derived.
 
-(Aug. 14, 1935, ch. 531, title XI, §1129, as added and amended Pub. L. 103–296, title I, §108(b)(10)(A), title II, §206(b)(1), (e)(1), Aug. 15, 1994, 108 Stat. 1483, 1509, 1515; Pub. L. 106–169, title II, §251(b)(6), Dec. 14, 1999, 113 Stat. 1855.)
+(Aug. 14, 1935, ch. 531, title XI, §1129, as added and amended Pub. L. 103–296, title I, §108(b)(10)(A), title II, §206(b)(1), (e)(1), Aug. 15, 1994, 108 Stat. 1483, 1509, 1515; Pub. L. 106–169, title II, §251(b)(6), Dec. 14, 1999, 113 Stat. 1855; Pub. L. 108–203, title I, §111(a), title II, §201(a)(1), (b), (c), Mar. 2, 2004, 118 Stat. 507, 508.)
 
 #### References in Text
 
@@ -133,6 +135,26 @@ The Debt Collection Act of 1982, referred to in subsec. (e)(1)(D), is Pub. L. 97
 A prior section 1320a–8, act Aug. 14, 1935, ch. 531, title XI, §1129, as added Dec. 5, 1980, Pub. L. 96–499, title IX, §914(a), 94 Stat. 2621; amended Aug. 13, 1981, Pub. L. 97–35, title XXI, §2193(c)(4), 95 Stat. 827; July 18, 1984, Pub. L. 98–369, div. B, title III, §2354(a)(4), 98 Stat. 1100, related to coordinated audits, prior to repeal by Pub. L. 100–203, title IV, §4118(m)(1)(A), (2), Dec. 22, 1987, 101 Stat. 1330–157, applicable to audits conducted after Dec. 22, 1987.
 
 #### Amendments
+
+2004—Subsec. (a)(1). Pub. L. 108–203, §201(a)(1), substantially rewrote par. (1). Prior to amendment, par. (1)read as follows: “Any person (including an organization, agency, or other entity) who makes, or causes to be made, a statement or representation of a material fact for use in determining any initial or continuing right to or the amount of—
+
+&emsp;“(A) monthly insurance benefits under subchapter II of this chapter,
+
+&emsp;“(B) benefits or payments under subchapter VIII of this chapter, or
+
+&emsp;“(C) benefits or payments under subchapter XVI of this chapter,
+
+> that the person knows or should know is false or misleading or knows or should know omits a material fact or makes such a statement with knowing disregard for the truth shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such statement or representation. Such person also shall be subject to an assessment, in lieu of damages sustained by the United States because of such statement or representation, of not more than twice the amount of benefits or payments paid as a result of such a statement or representation. In addition, the Commissioner of Social Security may make a determination in the same proceeding to recommend that the Secretary exclude, as provided in section 1320a–7 of this title, such a person who is a medical provider or physician from participation in the programs under subchapter XVIII of this chapter.”
+
+Subsec. (a)(3). Pub. L. 108–203, §111(a), added par. (3).
+
+Subsec. (b)(3)(A). Pub. L. 108–203, §201(c)(1), struck out “charging fraud or false statements” after “Federal or State crime”.
+
+Subsec. (c)(1). Pub. L. 108–203, §201(c)(2), substituted “, representations, or actions” for “and representations”.
+
+Subsec. (e)(1)(A). Pub. L. 108–203, §201(c)(3), substituted “violation occurred” for “statement or representation referred to in subsection (a) of this section was made”.
+
+Subsec. (e)(2)(B). Pub. L. 108–203, §201(b), substituted “In the case of any other amounts recovered under this section,” for “In the case of amounts recovered arising out of a determination relating to subchapter VIII or XVI of this chapter,”.
 
 1999—Pub. L. 106–169, §251(b)(6)(A), substituted “II, VIII” for “II” in section catchline.
 
@@ -156,7 +178,7 @@ Pub. L. 103–296, §108(b)(10)(A)(i), which directed that this section be amend
 
 Subsecs. (e), (f). Pub. L. 103–296, §108(b)(10)(A)(i), which directed amendment of this section by substituting “Commissioner of Social Security” for “Secretary” each place it appears, was executed in subsecs. (e) and (f) by making the substitution wherever appearing except where appearing before “of the Treasury” in subsec. (e)(1)(B) to reflect the probable intent of Congress.
 
-Subsec. (g). Pub. L. 103–296, §108(b)(10)(A)(iii), substituted “Commissioner's” for “Secretary's” and “theCommissioner shall notify the Secretary of the final determination and the reasons therefor, and the Secretary shall then notify the entities described in section 1320a–7a(h) of this title of such final determination.” for “the provisions of section 1320a–7a(h) of this title shall apply.”
+Subsec. (g). Pub. L. 103–296, §108(b)(10)(A)(iii), substituted “Commissioner's” for “Secretary's” and “the Commissioner shall notify the Secretary of the final determination and the reasons therefor, and the Secretary shall then notify the entities described in section 1320a–7a(h) of this title of such final determination.” for “the provisions of section 1320a–7a(h) of this title shall apply.”
 
 Subsecs. (h), (i). Pub. L. 103–296, §108(b)(10)(A)(i), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
@@ -165,6 +187,12 @@ Subsec. (k). Pub. L. 103–296, §108(b)(10)(A)(iv), inserted “based on a reco
 Subsec. (<i>l</i>). Pub. L. 103–296, §206(e)(1), added subsec. (<i>l</i>).
 
 Pub. L. 103–296, §108(b)(10)(A)(i), (v), in subsec. (<i>l</i>) as added by Pub. L. 103–296, §206(e)(1), substituted “Social Security Administration” for “Department of Health and Human Services” and “Commissioner of Social Security” for “Secretary”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–203, title I, §111(b), Mar. 2, 2004, 118 Stat. 507, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to violations committed after the date of the enactment of this Act \[Mar. 2, 2004\].”
+
+Pub. L. 108–203, title II, §201(d), Mar. 2, 2004, 118 Stat. 508, provided that: “The amendments made by this section \[amending this section and section 1320a–8a of this title\] shall apply with respect to violations committed after the date on which the Commissioner of Social Security implements the centralized computer file described in section 202 \[set out as a note under section 902 of this title\].”
 
 #### Effective Date of 1994 Amendment
 
@@ -191,8 +219,4 @@ Study.—As soon as practicable after the date of the enactment of this Act \[De
 “(b)
 
 Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 14, 1999\], the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a written report that contains the results of the Commissioner's study under subsection (a). The report shall contain such recommendations for legislative and administrative changes as the Commissioner considers appropriate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320a–7, 1320b–6 of this title.
 

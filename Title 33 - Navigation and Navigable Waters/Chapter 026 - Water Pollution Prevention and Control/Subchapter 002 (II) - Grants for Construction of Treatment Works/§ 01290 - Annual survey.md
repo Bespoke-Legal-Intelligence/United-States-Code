@@ -14,7 +14,3 @@ The Administrator shall annually make a survey to determine the efficiency of th
 
 Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1375 of this title.
-

@@ -28,7 +28,7 @@ The schedule required under subsection (a) of this section with respect to any a
 
 &emsp;(5) A clear description of the method used to determine the balance on which interest is paid.
 
-&emsp;(6) The information described in paragraphs (1) through (4) with respect to any period afterthe end of the period referred to in paragraph (2) (or the method for computing any information described in any such paragraph), if applicable.
+&emsp;(6) The information described in paragraphs (1) through (4) with respect to any period after the end of the period referred to in paragraph (2) (or the method for computing any information described in any such paragraph), if applicable.
 
 &emsp;(7) Any minimum balance which must be maintained to earn the rates and obtain the yields disclosed pursuant to this subsection and a clear description of how any such minimum balance is calculated.
 
@@ -40,15 +40,11 @@ The schedule required under subsection (a) of this section with respect to any a
 
 #### (d) Other information
 
-The schedule required under subsection (a) of this section shall include such other disclosures as the Board may determine to be necessary to allow consumers to understand and compare accounts, including frequency of interest rate adjustments, account restrictions, and renewal policies for time accounts.
+The schedule required under subsection (a) of this section shall include such other disclosures as the Board may determine to be necessary toallow consumers to understand and compare accounts, including frequency of interest rate adjustments, account restrictions, and renewal policies for time accounts.
 
 #### (e) Style and format
 
 Schedules required under subsection (a) of this section shall be written in clear and plain language and be presented in a format designed to allow consumers to readily understand the terms of the accounts offered.
 
 (Pub. L. 102–242, title II, §264, Dec. 19, 1991, 105 Stat. 2335.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4305 of this title.
 

@@ -30,9 +30,5 @@ Pub. L. 103–130, §3(c), Nov. 1, 1993, 107 Stat. 1369, provided that: “Effec
 
 Section 1003(b) of Pub. L. 95–113 provided that: “The amendment made by this section \[amending this section\] to the Agricultural Act of 1949 shall not be operative in any manner with respect to any price support program in effect on the date of enactment of this Act \[Sept. 29, 1977\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1446, 1449, 7301, 7992 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

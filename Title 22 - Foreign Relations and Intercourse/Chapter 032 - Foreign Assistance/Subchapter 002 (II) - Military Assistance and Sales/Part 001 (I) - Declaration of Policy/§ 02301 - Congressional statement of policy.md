@@ -6,7 +6,7 @@ The Congress recognizes that the peace of the world and the security of the Unit
 
 It is the sense of the Congress that an important contribution toward peace would be made by the establishment under the Organization of American States of an international military force.
 
-In enacting this legislation, it is therefore the intention of the Congress to promote the peace of the world and the foreign policy, security, and general welfare of the United States by fostering an improved climate of political independence and individual liberty, improving the ability of friendly countries and internationalorganizations to deter or, if necessary, defeat aggression, facilitating arrangements for individual and collective security, assisting friendly countries to maintain internal security, and creating an environment of security and stability in the developing friendly countries essential to their more rapid social, economic, and political progress. The Congress urges that all other countries able to contribute join in a common undertaking to meet the goals stated in subchapter II of this chapter.
+In enacting this legislation, it is therefore the intention of the Congress to promote the peace of the world and the foreign policy, security, and general welfare of the United States by fostering an improved climate of political independence and individual liberty, improving the ability of friendly countries and international organizations to deter or, if necessary, defeat aggression, facilitating arrangements for individual and collective security, assisting friendly countries to maintain internal security, and creating an environment of security and stability in the developing friendly countries essential to their more rapid social, economic, and political progress. The Congress urges that all other countries able to contribute join in a common undertaking to meet the goals stated in subchapter II of this chapter.
 
 It is the sense of the Congress that in the administration of subchapter II of this chapter priority shall be given to the needs of those countries in danger of becoming victims of aggression or in which the internal security is threatened by internal subversion inspired or supported by hostile countries.
 
@@ -46,7 +46,7 @@ Determination Regarding Transfers.—If the President determines, based on a pre
 
 “(b)
 
-Duration of Prohibition.—The period referred to in subsection (a) is the period commencing on the date on which a notification of a determination under subsection (a) is submitted to the appropriate congressional committees and ending on the date that is two years after such date.
+Duration of Prohibition.—The period referred to in subsection (a) is the period commencing on thedate on which a notification of a determination under subsection (a) is submitted to the appropriate congressional committees and ending on the date that is two years after such date.
 
 “(c)
 

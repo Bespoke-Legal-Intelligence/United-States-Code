@@ -24,7 +24,3 @@ This section is derived from section 44b of the Bankruptcy Act \[section 72(b) o
 
 Effective date and applicability of amendment by Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 782 of this title.
-

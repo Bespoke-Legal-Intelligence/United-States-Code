@@ -42,7 +42,3 @@ Ex. Ord. No. 10486, Sept. 12, 1953, 18 F.R. 5561, provided:
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1701h–1 of this title; title 20 section 802.
-

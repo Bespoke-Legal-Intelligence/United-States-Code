@@ -40,9 +40,13 @@ Section is derived from subsec. (a) of former section 264 of this title. See Cod
 
 Section 22(b) of Pub. L. 103–204 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on July 1, 1995.”
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–386, §1, Oct. 30, 2004, 118 Stat. 2228, provided that: “This Act \[amending sections 321, 1709, 1813, 1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of this title and sections 78c, 78<i>l</i>, and 78q of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 321 of this title\] may be cited as the ‘2004 District of Columbia Omnibus Authorization Act’.”
+
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–569, title XII, §1200, Dec. 27, 2000, 114 Stat. 3032, provided that: “This title \[enacting sections215a–2, 215a–3, and 4805a of this title, amending sections 11, 71 to 72, 83, 215b, 1426, 1464, 1467a, 1817, 1818, 1821, 1828, 1831n, and 3102 of this title, repealing sections 51, 1465, and 1831f–1 of this title, enacting provisions set out as a note under section 1817 of this title, and amending provisions set out as a note under section 1828 of this title\] may be cited as the ‘Financial Regulatory Relief and Economic Efficiency Act of 2000’.”
+Pub. L. 106–569, title XII, §1200, Dec. 27, 2000, 114 Stat. 3032, provided that: “This title \[enacting sections 215a–2, 215a–3, and 4805a of this title, amending sections 11, 71 to 72, 83, 215b, 1426, 1464, 1467a, 1817, 1818, 1821, 1828, 1831n, and 3102 of this title, repealing sections 51, 1465, and 1831f–1 of this title, enacting provisions set out as a note under section 1817 of this title, and amending provisions set out as a note under section 1828 of this title\] may be cited as the ‘Financial Regulatory Relief and Economic Efficiency Act of 2000’.”
 
 #### Short Title of 1999 Amendment
 
@@ -114,7 +118,7 @@ Section 1 of act Sept. 21, 1950, provided: “That section 12B of the Federal Re
 
 #### Separability
 
-Pub. L. 102–242, title IV, §481, Dec. 19, 1991, 105 Stat. 2388, provided that: “If any provision of this Act \[seeShort Title of 1991 Amendment note above\], or any application of any provision of this Act to any person or circumstance, is held invalid, the remainder of the Act, and the application of any remaining provision of the Act to any other person or circumstance, shall not be affected by such holding.”
+Pub. L. 102–242, title IV, §481, Dec. 19, 1991, 105 Stat. 2388, provided that: “If any provision of this Act \[see Short Title of 1991 Amendment note above\], or any application of any provision of this Act to any person or circumstance, is held invalid, the remainder of the Act, and the application of any remaining provision of the Act to any other person or circumstance, shall not be affected by such holding.”
 
 Section 1221 of Pub. L. 101–73 provided that: “If any provision of this Act \[see Short Title of 1989 Amendment note above\] or the application thereof to any person or circumstance is held invalid, the remainder of the Act and the application of the provision to other persons not similarly situated or to other circumstances shall not be affected thereby.”
 
@@ -218,7 +222,7 @@ Variety of approaches.—In developing model approaches to the Year 2000 compute
 
 &emsp;“(3)
 
-Cooperation.—In carrying out this section, the Federal banking agencies and the National CreditUnion Administration Board may cooperate and coordinate their activities with each other, the Financial Institutions Examination Council, and appropriate organizations representing depository institutions and credit unions.”
+Cooperation.—In carrying out this section, the Federal banking agencies and the National Credit Union Administration Board may cooperate and coordinate their activities with each other, the Financial Institutions Examination Council, and appropriate organizations representing depository institutions and credit unions.”
 
 #### Study and Report on United States Financial Services System
 
@@ -370,7 +374,7 @@ Section 101 of Pub. L. 101–73 provided that: “The purposes of this Act \[see
 
 #### Studies of Federal Deposit Insurance, Banking Services, and Safety and Soundness of Government-Sponsored Enterprises
 
-Title X of Pub. L. 101–73, as amended by Pub. L. 103–328, title I, §108(a), Sept. 29, 1994, 108 Stat. 2361; Pub. L. 104–208, div. A, title II, §2608, Sept. 30, 1996, 110 Stat. 3009–474, provided that:
+Pub. L. 101–73, title X, Aug. 9, 1989, 103 Stat. 507, as amended by Pub. L. 103–328, title I, §108(a), Sept. 29, 1994, 108 Stat. 2361; Pub. L. 104–208, div. A, title II, §2608, Sept. 30, 1996, 110 Stat. 3009–474, provided that:
 
 #### “SEC. 1001. STUDY OF FEDERAL DEPOSIT INSURANCE SYSTEM.
 
@@ -474,7 +478,7 @@ Contents of the report.—Each report prepared pursuant to paragraph (1) shall i
 
 Submission to congress.—The Board of Governors of the Federal Reserve System shall submit an annual report to the Congress not later than September 1, 1995, and not later than June 1 of each subsequent year.
 
-#### “SEC. 1003. GENERAL ACCOUNTING OFFICE STUDY.
+#### “SEC. 1003. GENERAL ACCOUNTING OFFICE \[GOVERNMENT ACCOUNTABILITY OFFICE\] STUDY.
 
 “(a)
 
@@ -552,7 +556,7 @@ Reports to Congress.—The Comptroller General shall submit to the Congress 2 re
 
 “(f)
 
-Definition.—For purposes of this section, the term ‘government-sponsored enterprises’ means the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Federal Home Loan Bank System, the Farm Credit Banks, the Banksfor Cooperatives, the Federal Agricultural Mortgage Corporation, the College Construction Loan Insurance Corporation, the Student Loan Marketing Association.”
+Definition.—For purposes of this section, the term ‘government-sponsored enterprises’ means the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Federal Home Loan Bank System, the Farm Credit Banks, the Banks for Cooperatives, the Federal Agricultural Mortgage Corporation, the College Construction Loan Insurance Corporation, the Student Loan Marketing Association.”
 
 \[Pub. L. 103–328, title I, §108(b), Sept. 29, 1994, 108 Stat. 2362, provided that: “The requirements of subsection (a) \[amending section 1002 of Pub. L. 101–73, set out above\] shall not apply after the end of the 7-year period beginning on the date of enactment of this Act \[Sept. 29, 1994\].”\]
 

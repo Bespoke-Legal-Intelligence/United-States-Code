@@ -4,7 +4,7 @@
 
 (b) There is authorized to be appropriated, in addition to such sums as have been heretofore appropriated under this section—
 
-&emsp;(1) $10,000,000 for each fiscal year beginning after September 30, 1991, for the payment of reimbursement obligations entered into undersubsection (a) without regard to the fiscal year such obligations were entered into, including obligations entered into before such date; and
+&emsp;(1) $10,000,000 for each fiscal year beginning after September 30, 1991, for the payment of reimbursement obligations entered into under subsection (a) without regard to the fiscal year such obligations were entered into, including obligations entered into before such date; and
 
 &emsp;(2) $8,000,000 for the payment of reimbursement obligations entered into under subsection (a) before October 1, 1991, except that not more than $4,000,000 of this amount shall be obligated or expended during fiscal year 1992.
 
@@ -71,8 +71,4 @@ Sec. 3. The authority transferred pursuant to this Order shall be exercised in c
 Sec. 4. This Order shall be effective on October 1, 1984.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 209 of this title; title 22 section 4314.
 

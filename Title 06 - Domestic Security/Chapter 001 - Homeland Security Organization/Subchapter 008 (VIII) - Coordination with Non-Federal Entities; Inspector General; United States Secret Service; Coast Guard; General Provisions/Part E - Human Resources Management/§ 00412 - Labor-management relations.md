@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;No agency or subdivision of an agency which is transferred to the Department pursuant tothis chapter shall be excluded from the coverage of chapter 71 of title 5 as a result of any order issued under section 7103(b)(1) of such title 5 after June 18, 2002, unless—
+&emsp;No agency or subdivision of an agency which is transferred to the Department pursuant to this chapter shall be excluded from the coverage of chapter 71 of title 5 as a result of any order issued under section 7103(b)(1) of such title 5 after June 18, 2002, unless—
 
 &emsp;&emsp;(A) the mission and responsibilities of the agency (or subdivision) materially change; and
 
@@ -55,8 +55,4 @@ Nothing in section 9701(e) of title 5 shall be considered to apply with respect 
 #### References in Text
 
 The effective date of this chapter, referred to in subsec. (b), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 9701.
 

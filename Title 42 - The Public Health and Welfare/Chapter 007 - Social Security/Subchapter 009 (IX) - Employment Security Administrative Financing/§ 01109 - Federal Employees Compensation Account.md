@@ -4,7 +4,3 @@ There is hereby established in the Unemployment Trust Fund a Federal Employees C
 
 (Aug. 14, 1935, ch. 531, title IX, §909, as added Pub. L. 96–499, title X, §1023(a), Dec. 5, 1980, 94 Stat. 2657.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 906; title 5 section 8509.
-

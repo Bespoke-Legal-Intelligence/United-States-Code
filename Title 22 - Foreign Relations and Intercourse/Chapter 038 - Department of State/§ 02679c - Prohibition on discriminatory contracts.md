@@ -10,7 +10,7 @@
 
 (2) For purposes of this section—
 
-&emsp;(A) a foreign person complies with the boycott of Israel by Arab League countries when that foreign person takes or knowingly agrees to take any action, with respect to the boycott of Israel by Arab League countries, which section 2407(a) of title 50, Appendix, prohibits a United States person from taking, except that for purposes of this paragraph, the term “United States person” as used in subparagraphs (B) and (C) of section 2407(a)(1) of title 50, Appendix, shall be deemed to mean “person”; and
+&emsp;(A) a foreign person complies with the boycott of Israel by Arab League countries when that foreign person takes or knowingly agrees to take any action, with respect to the boycott of Israel by Arab League countries, which section 2407(a) of title 50, Appendix, prohibits a United States person from taking, except that for purposes of this paragraph, the term“United States person” as used in subparagraphs (B) and (C) of section 2407(a)(1) of title 50, Appendix, shall be deemed to mean “person”; and
 
 &emsp;(B) the term “foreign person” means any person other than a United States person as defined in section 2415(2) of title 50, Appendix.
 
@@ -48,7 +48,7 @@ Certification.—By submitting this offer, the Offeror certifies that it is not�
 
 #### (d) Review and termination
 
-(1) The Department of State shall conduct reviews of the certifications submitted pursuantto this section for the purpose of assessing the accuracy of the certifications.
+(1) The Department of State shall conduct reviews of the certifications submitted pursuant to this section for the purpose of assessing the accuracy of the certifications.
 
 (2) Upon complaint of any foreign or United States person of a violation of the certification as required by this section, filed with the Secretary of State, the Department of State shall investigate such complaint, and if such complaint is found to be correct and a violation of the certification has been found, all contracts with such violator shall be terminated for default as soon as practicable, and, for a period of two years thereafter, the State Department shall not enter into any contracts with such a violator.
 

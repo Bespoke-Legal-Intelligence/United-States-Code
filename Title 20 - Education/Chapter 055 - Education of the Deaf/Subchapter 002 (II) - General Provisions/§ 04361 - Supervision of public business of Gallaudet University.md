@@ -18,7 +18,7 @@ Pursuant to section 101(a) of Pub. L. 99–371, which is classified to section 4
 
 “Secretary of Education” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to sections 301(a)(2)(M) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(2)(M) and 3507 of this title and which transferred to Secretary of Education functions of Secretary of Health, Education, and Welfare under laws relating to relationship between Gallaudet College \[now Gallaudet University\] and Department of Health, Education, and Welfare.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare bysection 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 Functions of Department of the Interior relating to administration of Columbia Institution for the Deaf transferred to Federal Security Agency to be administered under direction and supervision of Federal Security Administrator by §11(d) of 1940 Reorg. Plan No. IV, set out in the Appendix to Title 5.
 

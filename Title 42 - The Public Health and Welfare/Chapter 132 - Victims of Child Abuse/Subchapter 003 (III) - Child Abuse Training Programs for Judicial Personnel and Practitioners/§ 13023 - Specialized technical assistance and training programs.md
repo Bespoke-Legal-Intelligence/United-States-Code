@@ -36,7 +36,3 @@ The Administrator shall make grants under subsections (a) and (b) of this sectio
 
 Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13024 of this title.
-

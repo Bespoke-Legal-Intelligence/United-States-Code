@@ -6,10 +6,6 @@ Adjustment Assistance for Firms
 
 No technical assistance to be provided under this part after September 30, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1339, 2252, 2391, 2396, 2397 of this title.
-
 
 ---
 

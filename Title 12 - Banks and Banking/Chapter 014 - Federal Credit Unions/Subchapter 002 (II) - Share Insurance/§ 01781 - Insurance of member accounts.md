@@ -2,7 +2,7 @@
 
 #### (a) Eligibility
 
-The Board, as hereinafter provided, shall insure the member accounts of all Federal creditunions and it may insure the member accounts of (1) credit unions organized and operated according to the laws of any State, the District of Columbia, the several territories, including the trust territories, and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, and (2) credit unions organized and operating under the jurisdiction of the Department of Defense if such credit unions are operating in compliance with the requirements of subchapter I of this chapter and regulations issued thereunder.
+The Board, as hereinafter provided, shall insure the member accounts of all Federal credit unions and it may insure the member accounts of (1) credit unions organized and operated according to the laws of any State, the District of Columbia, the several territories, including the trust territories, and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, and (2) credit unions organized and operating under the jurisdiction of the Department of Defense if such credit unions are operating in compliance with the requirements of subchapter I of this chapter and regulations issued thereunder.
 
 #### (b) Application; agreement
 
@@ -105,10 +105,6 @@ Section 2615(c) of div. A of Pub. L. 104–208 provided that: “The amendments 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 461, 1782 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

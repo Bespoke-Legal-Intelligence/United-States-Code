@@ -66,7 +66,7 @@ Any feature of the Closed Basin Division, San Luis Valley Project, located withi
 
 &emsp;(A) acquired under this subchapter; or
 
-&emsp;(B) transferred from any Federal agency after November 22, 2000, for the nationalmonument, the national park or preserve, or the national wildlife refuge.
+&emsp;(B) transferred from any Federal agency after November 22, 2000, for the national monument, the national park or preserve, or the national wildlife refuge.
 
 #### (f) Wilderness protection
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 4451 of this title.
-
 
 ---
 

@@ -18,7 +18,7 @@
 | (c) | Term of office. |
 | (d) | Management of Administration vested in Board; adoption of rules; quorum; report to President and Congress. |
 | (e) | Functions of Chairman. |
-| (f) | Audit by General Accounting Office. |
+| (f) | Audit by Government Accountability Office. |
 | [1753\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001753%20-%20Federal%20credit%20union%20organization.md) | Federal credit union organization. |
 | [1754\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001754%20-%20Approval%20of%20organization%20certificate.md) | Approval of organization certificate. |
 | [1755\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001755%20-%20Fees.md) | Fees. |
@@ -156,6 +156,7 @@
 | (t) | Regulation of certain forms of benefits to institution-affiliated parties. |
 | (u) | Foreign investigations. |
 | (v) | Termination of insurance for money laundering or cash transaction reporting offenses. |
+| (w) | One-year restrictions on Federal examiners of insured credit unions. |
 | [1786a.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001786a%20-%20Omitted.md) | Omitted. |
 | [1787\.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001787%20-%20Payment%20of%20insurance.md) | Payment of insurance. |
 | (a) | Liquidation by Board; bond; appointment of agent; fees to be fixed by Board. |
@@ -248,10 +249,6 @@
 | (c) | “State” defined; tax status. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1818, 1831k, 1831t, 2804, 4009, 4309, 4742, 4909 of this title; title 7 section 2019; title 15 sections 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6505, 6805, 6822, 7706; title 18 section 709; title 42 section 5318a.
 
 
 ---

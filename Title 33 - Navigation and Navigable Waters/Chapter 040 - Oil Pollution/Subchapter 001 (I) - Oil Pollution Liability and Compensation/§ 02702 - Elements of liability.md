@@ -88,7 +88,3 @@ The Intervention on the High Seas Act, referred to in subsec. (b)(1)(A), is Pub.
 
 The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2701, 2703, 2704, 2705, 2706, 2708, 2712, 2716, 2717 of this title.
-

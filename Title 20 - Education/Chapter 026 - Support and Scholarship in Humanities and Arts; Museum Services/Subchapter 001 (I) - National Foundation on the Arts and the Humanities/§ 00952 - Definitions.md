@@ -10,7 +10,7 @@ As used in this subchapter—
 
 (d) The term “project” means programs organized to carry out the purposes of this subchapter, including programs to foster American artistic creativity, to commission works of art, to create opportunities for individuals to develop artistic talents when carried on as a part of a program otherwise included in this definition, and to develop and enhance the widest public knowledge and understanding of the arts, and includes, where appropriate, rental or purchase of facilities, purchase or rental of land, and acquisition of equipment. Such term also includes—
 
-&emsp;(1) the renovation of facilities if (A) the amount of the expenditure of Federal funds for such purpose in the case of any project doesnot exceed $250,000, or (B) two-thirds of the members of the National Council on the Arts or the National Council on the Humanities, as the case may be (who are present and voting) approve of the grant or contract involving an expenditure for such purpose; and
+&emsp;(1) the renovation of facilities if (A) the amount of the expenditure of Federal funds for such purpose in the case of any project does not exceed $250,000, or (B) two-thirds of the members of the National Council on the Arts or the National Council on the Humanities, as the case may be (who are present and voting) approve of the grant or contract involving an expenditure for such purpose; and
 
 &emsp;(2) for purposes of sections 954(p), 956(c)(10), and 956(h) of this title only, the construction of facilities if (A) such construction is for demonstration purposes or under unusual circumstances where there is no other manner in which to accomplish an artistic or humanistic purpose, and (B) two-thirds of the members of the National Council on the Arts and the National Council on the Humanities, as the case may be, (who are present and voting) approve of the grant or contract involving an expenditure for such purpose.
 
@@ -87,10 +87,6 @@ Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title I
 #### Effective Date of 1973 Amendment
 
 Amendment by Pub. L. 93–133 effective on and after July 1, 1973, see section 2(b) of Pub. L. 93–133, set out as a note under section 951 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 954, 956 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

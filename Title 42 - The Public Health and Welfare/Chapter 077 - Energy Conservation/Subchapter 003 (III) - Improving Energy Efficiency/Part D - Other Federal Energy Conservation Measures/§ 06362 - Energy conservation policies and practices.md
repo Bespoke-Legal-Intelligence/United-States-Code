@@ -32,7 +32,3 @@ Subsec. (b). Pub. L. 103–272, §4(h)(2), substituted “subsection (a)” for 
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 45 sections 1010, 1207.
-

@@ -122,13 +122,13 @@ Subsec. (b)(1). Pub. L. 103–337, §1501(b)(1), substituted “international or
 
 Subsec. (b)(4). Pub. L. 103–337, §1501(b)(2), substituted “nuclear, biological, chemical, and missile proliferation through technical projects and improved information sharing” for “nuclear proliferation through joint technical projects and improved intelligence sharing”.
 
-Subsec. (d)(1). Pub. L. 103–337, §1501(c)(1), inserted “for fiscal year 1994” after “under this section” and substituted “fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995. Funds provided as assistance under this section for a fiscal year referred to inthis paragraph may also be derived” for “fiscal year 1994 or”.
+Subsec. (d)(1). Pub. L. 103–337, §1501(c)(1), inserted “for fiscal year 1994” after “under this section” and substituted “fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995. Funds provided as assistance under this section for a fiscal year referred to in this paragraph may also be derived” for “fiscal year 1994 or”.
 
 Subsec. (d)(3). Pub. L. 103–337, §1501(c)(2), inserted “for fiscal year 1994 or $20,000,000 for fiscal year 1995”.
 
 Subsec. (e)(1). Pub. L. 103–337, §1501(a), substituted “fiscal years 1994 and 1995” for “fiscal year 1994”.
 
-Subsec. (e)(2). Pub. L. 103–337, §1070(c)(1), which directed amendment of subsec. (e)(2) by striking out “and under subsection (d)(4) of this section” effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993 (Pub. L. 102–484), as enacted, was executed to subsec. (e)(2) as amended by Pub. L. 103–160, §1182(c)(5), to reflect the probable intent of Congress. See 1993 Amendment note below.
+Subsec. (e)(2). Pub. L. 103–337, §1070(c)(1), which directed amendment of subsec. (e)(2) by striking out “and under subsection (d)(4) of this section” effective as of Oct. 23, 1992, and as if included in the National DefenseAuthorization Act for Fiscal Year 1993 (Pub. L. 102–484), as enacted, was executed to subsec. (e)(2) as amended by Pub. L. 103–160, §1182(c)(5), to reflect the probable intent of Congress. See 1993 Amendment note below.
 
 1993—Subsecs. (a), (d)(1). Pub. L. 103–160, §1602(a), substituted “fiscal year 1994” for “fiscal year 1993”.
 

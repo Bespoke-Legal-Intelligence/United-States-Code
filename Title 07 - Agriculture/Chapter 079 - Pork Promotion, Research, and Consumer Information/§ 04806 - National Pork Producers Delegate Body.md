@@ -116,9 +116,5 @@ The Delegate Body shall—
 
 (Pub. L. 99–198, title XVI, §1617, Dec. 23, 1985, 99 Stat. 1609.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4802, 4805, 4807, 4808 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be section “4809(b)”.</i>
 

@@ -34,7 +34,3 @@ In subsection (a), the words “this chapter or a regulation prescribed or order
 
 In subsection (b), the words “A person may bring a civil action to enforce a claim” are substituted for “An action to enforce any liability created . . . may be brought” for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The word “appropriate” is added for clarity. The words “without regard to the amount in controversy” are omitted because jurisdiction is now allowed under 28:1331 without regard to the amount in controversy. The words “after the claim accrues” are substituted for “from the date on which the liability arises” to eliminate unnecessary words. The words “The court shall award . . . to the person when a judgment is entered for that person” are substituted for “in the case of any successful action to enforce the foregoing liability . . . as determined by the court” for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 32709 of this title.
-

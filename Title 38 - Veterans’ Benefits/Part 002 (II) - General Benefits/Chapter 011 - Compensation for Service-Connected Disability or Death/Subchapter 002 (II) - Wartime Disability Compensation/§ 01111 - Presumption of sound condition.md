@@ -10,7 +10,3 @@ For the purposes of section 1110 of this title, every veteran shall be taken to 
 
 Pub. L. 102–83, §5(c)(1), substituted “1110” for “310”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1137 of this title.
-

@@ -4,7 +4,7 @@
 
 Action for Relief.—(1) A person who receives from the Secretary a notification pursuant to section 4322(e) of this title of an unsuccessful effort to resolve a complaint relating to a State (as an employer) or a private employer may request that the Secretary refer the complaint to the Attorney General. If the Attorney General is reasonably satisfied that the person on whose behalf the complaint is referred is entitled to the rights or benefits sought, the Attorney General may appear on behalf of, and act as attorney for, the person on whose behalf the complaint is submitted and commence an action for relief under this chapter for such person. In the case of such an action against a State (as an employer), the action shall be brought in the name of the United States as the plaintiff in the action.
 
-(2) A person may commence an action for relief with respect to a complaint against a State (as an employer) or a private employer if the person—
+(2) A person may commence an action for relief with respect to a complaint against a State\(as an employer) or a private employer if the person—
 
 &emsp;(A) has chosen not to apply to the Secretary for assistance under section 4322(a) of this title;
 
@@ -16,7 +16,7 @@ Action for Relief.—(1) A person who receives from the Secretary a notification
 
 Jurisdiction.—(1) In the case of an action against a State (as an employer) or a private employer commenced by the United States, the district courts of the United States shall have jurisdiction over the action.
 
-(2) In the case of an action against a State (as an employer) by a person, the action may bebrought in a State court of competent jurisdiction in accordance with the laws of the State.
+(2) In the case of an action against a State (as an employer) by a person, the action may be brought in a State court of competent jurisdiction in accordance with the laws of the State.
 
 (3) In the case of an action against a private employer by a person, the district courts of the United States shall have jurisdiction of the action.
 
@@ -88,7 +88,7 @@ Pub. L. 105–368, title II, §211(b), Nov. 11, 1998, 112 Stat. 3330, provided t
 
 “(1) Section 4323 of title 38, United States Code, as amended by subsection (a), shall apply to actions commenced under chapter 43 of such title on or after the date of the enactment of this Act \[Nov. 11, 1998\], and shall apply to actions commenced under such chapter before the date of the enactment of this Act that are not final on the date of the enactment of this Act, without regard to when the cause of action accrued.
 
-“(2) In the case of any such action against a State (as an employer) in which a person, on the day before the date of the enactment of this Act \[Nov. 11, 1998\], is represented by the Attorney General under section 4323(a)(1) of such title as in effect on such day, the court shall upon motion of the Attorney General, substitute the United States as the plaintiff in the action pursuant to such section as amended by subsection (a).”
+“(2) In the case of any such action against a State (as an employer) in which a person, on the day before the date of the enactment of this Act \[Nov. 11, 1998\], is represented by the Attorney General under section4323(a)(1) of such title as in effect on such day, the court shall upon motion of the Attorney General, substitute the United States as the plaintiff in the action pursuant to such section as amended by subsection (a).”
 
 #### Effective Date of 1996 Amendment
 
@@ -97,8 +97,4 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 #### Effective Date
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that provisions necessary for implementation of section 4311 of this title are effective Oct. 13, 1994, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4322, 4332 of this title; title 2 section 1316; title 3 section 416.
 

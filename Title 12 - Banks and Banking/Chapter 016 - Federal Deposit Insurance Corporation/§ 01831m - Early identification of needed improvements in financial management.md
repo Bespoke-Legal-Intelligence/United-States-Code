@@ -20,7 +20,7 @@
 
 #### (3) Public availability
 
-&emsp;Any annual report required under paragraph (1) shall be available for public inspection. Notwithstanding the preceding sentence, the Corporation and the appropriate Federal banking agencies may designate certain information as privileged and confidential and not available to the public.
+&emsp;Any annual report required under paragraph (1) shall be available for public inspection. Notwithstanding the preceding sentence, theCorporation and the appropriate Federal banking agencies may designate certain information as privileged and confidential and not available to the public.
 
 #### (b) Management responsibility for financial statements and internal controls
 
@@ -110,7 +110,7 @@ Each insured depository institution shall prepare—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An appropriate Federal banking agency may, by order or regulation, permit the independent audit committee of an insured depository institution to be made up of less than all, but no fewer than a majority of, outside directors, if the agency determines that the institution has encountered hardships in retaining and recruiting a sufficient number of competent outside directors to serve on the internal audit committee of the institution.
+&emsp;&emsp;&emsp;An appropriate Federal banking agency may, by order or regulation, permit the independent audit committee of an insureddepository institution to be made up of less than all, but no fewer than a majority of, outside directors, if the agency determines that the institution has encountered hardships in retaining and recruiting a sufficient number of competent outside directors to serve on the internal audit committee of the institution.
 
 #### (ii) Factors to be considered
 
@@ -218,7 +218,7 @@ Each insured depository institution shall prepare—
 
 #### (3) Applicability based on risk to fund
 
-&emsp;The appropriate Federal banking agency may require an institution with total assets inexcess of $9,000,000,000 to comply with this section, notwithstanding the exemption provided by this subsection, if it determines that such exemption would create a significant risk to the affected deposit insurance fund if applied to that institution.
+&emsp;The appropriate Federal banking agency may require an institution with total assets in excess of $9,000,000,000 to comply with this section, notwithstanding the exemption provided by this subsection, if it determines that such exemption would create a significant risk to the affected deposit insurance fund if applied to that institution.
 
 #### (j) Exemption for small depository institutions
 

@@ -46,7 +46,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(B) includes a strategy for identifying individuals who know their HIV status and are not receiving such services and for informing the individuals of and enabling the individuals to utilize the services, giving particular attention to eliminating disparities in access and services among affected subpopulations and historically underserved communities, and including discrete goals, a timetable, and an appropriate allocation of funds;
 
-&emsp;&emsp;(C) includes a strategy to coordinate the provision of such services with programs forHIV prevention (including outreach and early intervention) and for the prevention and treatment of substance abuse (including programs that provide comprehensive treatment services for such abuse);
+&emsp;&emsp;(C) includes a strategy to coordinate the provision of such services with programs for HIV prevention (including outreach and early intervention) and for the prevention and treatment of substance abuse (including programs that provide comprehensive treatment services for such abuse);
 
 &emsp;&emsp;(D) describes the services and activities to be provided and an explanation of the manner in which the elements of the program to be implemented by the State with such assistance will maximize the quality of health and support services available to individuals with HIV disease throughout the State;
 
@@ -72,7 +72,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;&emsp;&emsp;(I) such amounts will be targeted to individuals who would not otherwise be able to afford health insurance coverage; and
 
-&emsp;&emsp;&emsp;&emsp;(II) income, asset, and medical expense criteria will be established and applied by the State to identify those individuals who qualify for assistance under such program, and information concerning such criteria shall be made available to the public;
+&emsp;&emsp;&emsp;&emsp;(II) income, asset, and medical expense criteria will be established and applied by the State to identify those individuals who qualify for assistance undersuch program, and information concerning such criteria shall be made available to the public;
 
 &emsp;&emsp;(C) the State will provide for periodic independent peer review to assess the quality and appropriateness of health and support services provided by entities that receive funds from the State under this part;
 
@@ -128,7 +128,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 #### (B) Determination
 
-&emsp;&emsp;A determination by the State of whether an entity referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the entity accepts voluntary donations regarding the provision of services to the public.
+&emsp;&emsp;A determination by the State of whether an entity referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regardto whether the entity accepts voluntary donations regarding the provision of services to the public.
 
 #### (d) Requirement of matching funds regarding State allotments
 
@@ -192,7 +192,7 @@ Subsec. (b)(4). Pub. L. 106–345, §205(a)(3)(A), (B), in introductory provisio
 
 Pub. L. 106–345, §205(a)(1), redesignated par. (2) as (4). Former par. (4) redesignated (6).
 
-Subsec. (b)(4)(A) to (C). Pub. L. 106–345, §205(a)(3)(D), which directed the amendment of par. (4) by adding subpars. (A) to (C) “before subparagraph (C)”, was executed by adding them before subpar. (D), to reflect the probable intent of Congress. Former subpars. (A) to (C) redesignated (D) to (F), respectively.
+Subsec. (b)(4)(A) to (C). Pub. L. 106–345, §205(a)(3)(D), which directed the amendment of par. (4) by addingsubpars. (A) to (C) “before subparagraph (C)”, was executed by adding them before subpar. (D), to reflect the probable intent of Congress. Former subpars. (A) to (C) redesignated (D) to (F), respectively.
 
 Subsec. (b)(4)(D). Pub. L. 106–345, §205(a)(3)(C), (E), redesignated subpar. (A) as (D) and inserted “describes” before “the services and activities”.
 
@@ -221,10 +221,6 @@ Subsec. (b)(4)(B)(iv). Pub. L. 104–146, §12(c)(3), which directed amendment o
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–12, 300ff–22, 300ff–23, 300ff–30 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

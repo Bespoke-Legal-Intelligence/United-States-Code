@@ -6,7 +6,7 @@ The Congress, recognizing that prompt United States assistance to alleviate huma
 
 #### (b) General authority
 
-Subject to limitations in section 2292a of this title, and notwithstanding any other provision of this chapter or any other Act, the President is authorized to furnish assistance to any foreign country, international organization, or private voluntary organization, on such terms and conditions as he may determine, for international disaster relief and rehabilitation, including assistance relating to disaster preparedness, and to the prediction of, and contingency planning for, natural disasters abroad.
+Subject to limitations in section 2292a of this title, and notwithstanding any other provision of this chapter or any other Act, the Presidentis authorized to furnish assistance to any foreign country, international organization, or private voluntary organization, on such terms and conditions as he may determine, for international disaster relief and rehabilitation, including assistance relating to disaster preparedness, and to the prediction of, and contingency planning for, natural disasters abroad.
 
 #### (c) Specific direction
 
@@ -35,8 +35,4 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2151u, 2292a, 2292f, 2292g, 2292h, 2292i, 2292j, 2292<i>l</i>, 2292m, 2292n, 2292<i>o</i>, 2292p, 2292q of this title.
 

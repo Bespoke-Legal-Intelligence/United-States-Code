@@ -48,7 +48,3 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §214(a) (last sentence); added O
 
 In subsection (b), the words “To carry out this part, the Secretary may” are substituted for “In carrying out his functions under this subchapter, the Secretary is authorized to perform such acts including, but not limited to . . . as he deems necessary to carry out the provisions of this subchapter” and “In carrying out the functions formerly vested in the Interstate Commerce Commission and transferred to the Secretary by section 1655(e)(1), (e)(2), and (e)(6)(A) of title 49, Appendix, the Secretary is authorized to perform any act authorized in subsection (a) of this section that he considers necessary to carry out such transferred functions, including, but not limited to” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 20115 of this title.
-

@@ -16,7 +16,7 @@ Not later than December 31, 1997, the owner or operator of an existing unit subj
 
 #### (c) Allowances
 
-(1) For the period of the extension under this section, the Administrator shall allocate to the owner or operator of the affected unit, annual allowances for sulfur dioxide equal to the affected unit's baseline multiplied by the lesser of the unit's federally approved State Implementation Plan emissions limitation or its actual emission rate for 1995 in lieu of any other allocation. Such allowances may not be transferred or used by any other source to meet emission requirements under this subchapter. The source owner or operator shall notify the Administrator sixty days in advance of the date on which the affected unit for which the extension has been granted is to be removed from operation to install the repowering technology.
+(1) For the period of the extension under this section, the Administrator shall allocate to theowner or operator of the affected unit, annual allowances for sulfur dioxide equal to the affected unit's baseline multiplied by the lesser of the unit's federally approved State Implementation Plan emissions limitation or its actual emission rate for 1995 in lieu of any other allocation. Such allowances may not be transferred or used by any other source to meet emission requirements under this subchapter. The source owner or operator shall notify the Administrator sixty days in advance of the date on which the affected unit for which the extension has been granted is to be removed from operation to install the repowering technology.
 
 (2) Effective on that date, the unit shall be subject to the requirements of section 7651d of this title. Allowances for the year in which the unit is removed from operation to install the repowering technology shall be calculated as the product of the unit's baseline multiplied by 1.20 lbs/mmBtu, divided by 2,000, and prorated accordingly, and are transferable.
 
@@ -39,10 +39,6 @@ State permitting authorities and, where applicable, the Administrator, are encou
 It shall be unlawful for the owner or operator of a repowered source to fail to comply with the requirement of this section, or any regulations of permit requirements to implement this section, including the prohibition against emitting sulfur dioxide in excess of allowances held.
 
 (July 14, 1955, ch. 360, title IV, §409, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2619.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7651a, 7651b, 7651d, 7651f, 7651g, 7651j of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “7651a(12)”.</i>
 

@@ -50,7 +50,3 @@ Section 107 of Pub. L. 88–72 provided that the amendment made by that section 
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2292, 2293, 5821 of this title.
-

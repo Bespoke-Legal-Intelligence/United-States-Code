@@ -14,7 +14,7 @@
 
 &emsp;(2) who is a prisoner of war or a protected individual under the Geneva Conventions of 1949 and is detained or utilized by the United States.
 
-> This subsection does not affect the payment of compensation under this subchapter derived otherwise than under this subsection, but compensation for disability or death does not accrue for a period for which pay, other benefit, or gratuity from the United States accrues to the disabled individual or his dependents on account of detention by the enemy or because of the same disability or death, unless that pay, benefit, or gratuity is refunded or renounced.
+> This subsection does not affect the payment of compensation under this subchapter derived otherwise than under this subsection, but compensation for disability or death does not accrue for a period for which pay, other benefit, or gratuity from the United States accrues to the disabled individual or his dependents on account of detention by the enemy or because of the samedisability or death, unless that pay, benefit, or gratuity is refunded or renounced.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 534; Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470.)
 
@@ -47,8 +47,4 @@ Section 3(a) of the Panama Canal Act of 1979, referred to in subsec. (b), is cla
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3691.
 

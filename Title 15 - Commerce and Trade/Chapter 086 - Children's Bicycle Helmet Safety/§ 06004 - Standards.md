@@ -38,7 +38,7 @@ Not later than 60 days after June 16, 1994, the Commission shall begin a proceed
 
 #### (1) Failure to meet interim standard
 
-&emsp;Until the final standard takes effect, a bicycle helmet that does not conform to an interim standard as required under subsection (a)(1) of this section shall be considered in violation of a consumer product safety standard promulgated under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\].
+&emsp;Until the final standard takes effect, a bicycle helmet that does not conform to an interim standard as required under subsection (a)(1) of this section shall be considered in violation of a consumer product safety standardpromulgated under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\].
 
 #### (2) Status of final standard
 
@@ -49,8 +49,4 @@ Not later than 60 days after June 16, 1994, the Commission shall begin a proceed
 #### References in Text
 
 The Consumer Product Safety Act, referred to in subsec. (d), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, as amended, which is classified generally to chapter 47 (§2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6006 of this title.
 

@@ -40,7 +40,7 @@ Each permit issued under any approved State or Federal program pursuant to this 
 
 &emsp;(11) to the extent possible using the best technology currently available, minimize disturbances and adverse impacts of the operation on fish, wildlife, and related environmental values, and achieve enhancement of such resources where practicable;
 
-&emsp;(12) locate openings for all new drift mines working acid-producing or iron-producing coalseams in such a manner as to prevent a gravity discharge of water from the mine.
+&emsp;(12) locate openings for all new drift mines working acid-producing or iron-producing coal seams in such a manner as to prevent a gravity discharge of water from the mine.
 
 #### (c) Suspension of underground coal mining operations in urbanized areas
 
@@ -55,8 +55,4 @@ The provisions of this subchapter relating to State and Federal programs, permit
 #### References in Text
 
 The Federal Coal Mine Health and Safety Act of 1969, referred to in subsec. (a), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1251a, 1265, 1276, 1279, 1291, 1300, 1301 of this title.
 

@@ -18,5 +18,5 @@ The Agricultural Trade Development and Assistance Act of 1954, as amended, refer
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a) of this section delegated to Secretary of State by section 1(i) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+Functions of President under subsec. (a) of this section delegated to Secretary of State by section 1(i) ofEx. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 

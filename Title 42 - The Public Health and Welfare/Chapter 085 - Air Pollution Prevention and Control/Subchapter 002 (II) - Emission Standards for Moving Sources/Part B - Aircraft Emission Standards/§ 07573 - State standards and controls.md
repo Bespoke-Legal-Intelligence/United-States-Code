@@ -8,7 +8,3 @@ No State or political subdivision thereof may adopt or attempt to enforce any st
 
 Section was formerly classified to section 1857f–11 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7416 of this title.
-

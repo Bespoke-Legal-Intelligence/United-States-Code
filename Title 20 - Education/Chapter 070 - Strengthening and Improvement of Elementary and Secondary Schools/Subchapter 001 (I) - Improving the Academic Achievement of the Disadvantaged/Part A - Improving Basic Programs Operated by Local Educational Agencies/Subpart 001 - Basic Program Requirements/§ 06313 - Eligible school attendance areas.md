@@ -80,7 +80,7 @@
 
 #### (1) In general
 
-&emsp;A local educational agency shall allocate funds received under this part to eligible school attendance areas or eligible schools, identified under subsections (a) and (b) of this section, in rank order, on the basis of the total number of children from low-income families in each area or school.
+&emsp;A local educational agency shall allocate funds received under this part to eligibleschool attendance areas or eligible schools, identified under subsections (a) and (b) of this section, in rank order, on the basis of the total number of children from low-income families in each area or school.
 
 #### (2) Special rule
 
@@ -94,7 +94,7 @@
 
 #### (3) Reservation
 
-&emsp;A local educational agency shall reserve such funds as are necessary under this part toprovide services comparable to those provided to children in schools funded under this part to serve—
+&emsp;A local educational agency shall reserve such funds as are necessary under this part to provide services comparable to those provided to children in schools funded under this part to serve—
 
 &emsp;&emsp;(A) homeless children who do not attend participating schools, including providing educationally related support services to children in shelters and other locations where children may live;
 
@@ -117,8 +117,4 @@ The Social Security Act, referred to in subsec. (a)(5), is act Aug. 14, 1935, ch
 #### Prior Provisions
 
 A prior section 6313, Pub. L. 89–10, title I, §1113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3532; amended Pub. L. 104–193, title I, §110(j)(1), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 106–78, title VII, §752(b)(10), Oct. 22, 1999, 113 Stat. 1169, related to eligible school attendance areas, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5891a, 5891b, 6312, 6315, 6316, 6320, 6337, 6561, 7861, 9602 of this title.
 

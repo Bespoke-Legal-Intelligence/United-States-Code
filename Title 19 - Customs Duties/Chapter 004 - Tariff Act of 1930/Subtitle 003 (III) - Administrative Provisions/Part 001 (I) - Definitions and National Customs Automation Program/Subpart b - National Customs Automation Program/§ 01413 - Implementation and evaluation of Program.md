@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(D) transmit to the Committees the implementation plan, the testing results, and an evaluation report.
 
-> &emsp;In developing an implementation plan under subparagraph (A) and evaluating components under subparagraph (C), the Secretary shall publish a request for comments in the Customs Bulletin and shall consult with the trade community, including importers, brokers, shippers, and other affected parties.
+> &emsp;In developing an implementation plan under subparagraph (A) and evaluating components under subparagraph (C), the Secretary shallpublish a request for comments in the Customs Bulletin and shall consult with the trade community, including importers, brokers, shippers, and other affected parties.
 
 #### (2) Implementation
 
@@ -72,7 +72,7 @@
 
 For purposes of this section, the term “Committees” means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-(June 17, 1930, ch. 497, title IV, §413, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107Stat. 2189; amended Pub. L. 104–295, §21(e)(15), Oct. 11, 1996, 110 Stat. 3531.)
+(June 17, 1930, ch. 497, title IV, §413, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2189; amended Pub. L. 104–295, §21(e)(15), Oct. 11, 1996, 110 Stat. 3531.)
 
 #### Amendments
 
@@ -81,8 +81,4 @@ For purposes of this section, the term “Committees” means the Committee on W
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1641 of this title.
 

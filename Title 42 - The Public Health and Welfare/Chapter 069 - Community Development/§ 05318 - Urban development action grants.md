@@ -24,7 +24,7 @@ Applications for assistance under this section shall—
 
 &emsp;(2) set forth the activities for which assistance is sought, including (A) an estimate of the costs and general location of the activities; (B) a summary of the public and private resources which are expected to be made available in connection with the activities, including how the activities will take advantage of unique opportunities to attract private investment; and (C) an analysis of the economic benefits which the activities are expected to produce;
 
-&emsp;(3) contain a certification satisfactory to the Secretary that the applicant, prior to submission of its application, (A) has held publichearings to obtain the views of citizens, particularly residents of the area in which the proposed activities are to be carried out; (B) has analyzed the impact of these proposed activities on the residents, particularly those of low and moderate income, of the residential neighborhood, and on the neighborhood in which they are to be carried out; and (C) has made available the analysis described in clause (B) to any interested person or organization residing or located in the neighborhood in which the proposed activities are to be carried out; and
+&emsp;(3) contain a certification satisfactory to the Secretary that the applicant, prior to submission of its application, (A) has held public hearings to obtain the views of citizens, particularly residents of the area in which the proposed activities are to be carried out; (B) has analyzed the impact of these proposed activities on the residents, particularly those of low and moderate income, of the residential neighborhood, and on the neighborhood in which they are to be carried out; and (C) has made available the analysis described in clause (B) to any interested person or organization residing or located in the neighborhood in which the proposed activities are to be carried out; and
 
 &emsp;(4) contain a certification satisfactory to the Secretary that the applicant, prior to submission of its application, (A) has identified all properties, if any, which are included on the National Register of Historic Places and which, as determined by the applicant, will be affected by the project for which the application is made; (B) has identified all other properties, if any, which will be affected by such project and which, as determined by the applicant, may meet the criteria established by the Secretary of the Interior for inclusion on such Register, together with documentation relating to the inclusion of such properties on the Register; (C) has determined the effect, as determined by the applicant, of the project on the properties identified pursuant to clauses (A) and (B); and (D) will comply with the requirements of section 5320 of this title.
 
@@ -70,7 +70,7 @@ Applications for assistance under this section shall—
 
 > &emsp;If a city or urban county has submitted and has pending more than one application, the additional consideration provided by subparagraph (D) of the preceding sentence shall be available only to the project in such city or urban county which received the highest number of points under subparagraph (C) of such sentence.
 
-(2) For the purpose of making grants with respect to areas described in subsection (b)(2) ofthis section, the Secretary shall establish selection criteria, which must include (A) factors determined to be relevant by the Secretary in assessing the comparative degree of economic deterioration among eligible areas, and (B) such other criteria as the Secretary may determine, including at a minimum the criteria listed in paragraph (1)(C) of this subsection.
+(2) For the purpose of making grants with respect to areas described in subsection (b)(2) of this section, the Secretary shall establish selection criteria, which must include (A) factors determined to be relevant by the Secretary in assessing the comparative degree of economic deterioration among eligible areas, and (B) such other criteria as the Secretary may determine, including at a minimum the criteria listed in paragraph (1)(C) of this subsection.
 
 (3) The Secretary shall award points to each application as follows:
 
@@ -122,13 +122,13 @@ Activities assisted under this section may include such activities, in addition 
 
 #### (g) Annual review and audit; adjustments, withdrawals and reduction permitted
 
-The Secretary shall, at least on an annual basis, make reviews and audits of recipients of grants under this section as necessary to determine the progress made in carrying out activities substantially in accordance with approved plans and timetables. The Secretary may adjust,reduce, or withdraw grant funds, or take other action as appropriate in accordance with the findings of these reviews and audits, except that funds already expended on eligible activities under this chapter shall not be recaptured or deducted from future grants made to the recipient.
+The Secretary shall, at least on an annual basis, make reviews and audits of recipients of grants under this section as necessary to determine the progress made in carrying out activities substantially in accordance with approved plans and timetables. The Secretary may adjust, reduce, or withdraw grant funds, or take other action as appropriate in accordance with the findings of these reviews and audits, except that funds already expended on eligible activities under this chapter shall not be recaptured or deducted from future grants made to the recipient.
 
 #### (h) Limitations on grants for industrial or commercial relocations or expansions; appeal of denial or cancellation of assistance; grants to adversely affected individuals
 
 #### (1) Speculative projects
 
-&emsp;No assistance may be provided under this section for projects intended to facilitate the relocation of industrial or commercial plants or facilities from one area to another, unless the Secretary finds that the relocation does not significantly and adversely affect the unemployment or economic base of the area from which the industrial or commercial plant or facility is to be relocated. The provisions of this paragraph shall apply only to projects that do not have identified intended occupants.
+&emsp;No assistance may be provided under this section for projects intended to facilitate the relocation of industrial or commercial plants or facilities from one area to another, unless the Secretary finds that the relocation does not significantly and adversely affect the unemployment or economic base of the area fromwhich the industrial or commercial plant or facility is to be relocated. The provisions of this paragraph shall apply only to projects that do not have identified intended occupants.
 
 #### (2) Projects with identified intended occupants
 
@@ -172,7 +172,7 @@ The Secretary shall, at least on an annual basis, make reviews and audits of rec
 
 #### (i) Minimum percentage of funds to be allocated to certain noncentral cities; application by consortia of cities of less than 50,000 population
 
-Not less than 25 per centum of the funds made available for grants under this section shall be used for cities with populations of less than fifty thousand persons which are not central cities of a metropolitan statistical area. The Secretary shall encourage cooperation by geographically proximate cities of less than 50,000 population by permitting consortia of such cities, which may also include county governments that are not urban counties, to apply for grants on behalf of a city that is otherwise eligible for assistance under this section. Any grants awarded to suchconsortia shall be administered in compliance with eligibility requirements applicable to individual cities.
+Not less than 25 per centum of the funds made available for grants under this section shall be used for cities with populations of less than fifty thousand persons which are not central cities of a metropolitan statistical area. The Secretary shall encourage cooperation by geographically proximate cities of less than 50,000 population by permitting consortia of such cities, which may also include county governments that are not urban counties, to apply for grants on behalf of a city that is otherwise eligible for assistance under this section. Any grants awarded to such consortia shall be administered in compliance with eligibility requirements applicable to individual cities.
 
 #### (j) Grant contingent on factors related to non-Federal funds
 
@@ -476,7 +476,7 @@ Approval.—For a plan to be eligible for assistance available under this title,
 
 &emsp;“(3)
 
-Amendment.—An approved new town plan for the demonstration program developed by the governing board may be amended by the board by obtaining approval of the amendment in the manner provided under this subsection for approval of plans. If the chief executive officer of the unit of general local government does not approve or return the amended plan within 30 days of submission, the amended plan shall be considered to be approved for purposes of this subsection.
+Amendment.—An approved new town plan for the demonstration program developed by the governing board may be amended by the board by obtainingapproval of the amendment in the manner provided under this subsection for approval of plans. If the chief executive officer of the unit of general local government does not approve or return the amended plan within 30 days of submission, the amended plan shall be considered to be approved for purposes of this subsection.
 
 #### “SEC. 1103. NEW TOWN DEVELOPMENT DEMONSTRATION PROGRAM REQUIREMENTS.
 
@@ -556,7 +556,7 @@ Board Approval.—The Secretary may provide insurance under this section for a m
 
 “(d)
 
-Insurance Authority.—To the extent provided in appropriation Acts, the Secretary shall use any authority provided pursuant to section 531(b) of the National Housing Act \[12 U.S.C. 1735f–9(b)\] to enter into commitments to insure loans and mortgages under this section in fiscal years 1993 and 1994 with an aggregate principal amount not exceeding such sums as may be necessary to carry out the demonstration under thistitle. Mortgages insured under this section shall not be considered for purposes of the aggregate limitation on the number of mortgages insured under section 251 of the National Housing Act \[12 U.S.C. 1715z–16\] specified in subsection (c) of such section.
+Insurance Authority.—To the extent provided in appropriation Acts, the Secretary shall use any authority provided pursuant to section 531(b) of the National Housing Act \[12 U.S.C. 1735f–9(b)\] to enter into commitments to insure loans and mortgages under this section in fiscal years 1993 and 1994 with an aggregate principal amount not exceeding such sums as may be necessary to carry out the demonstration under this title. Mortgages insured under this section shall not be considered for purposes of the aggregate limitation on the number of mortgages insured under section 251 of the National Housing Act \[12 U.S.C. 1715z–16\] specified in subsection (c) of such section.
 
 #### “SEC. 1105. SECONDARY SOFT MORTGAGE FINANCING FOR HOUSING.
 
@@ -650,7 +650,7 @@ Contents.—The residential antidisplacement and relocation assistance plan refe
 
 &emsp;&emsp;&emsp;“(ii) such comparable replacement dwellings shall be designed to remain affordable to persons of low- and moderate-income for 10 years from the time of initial occupancy;
 
-&emsp;&emsp;&emsp;“(iii) relocation benefits shall be provided for all low- or moderate-income persons who occupied housing demolished or converted to a use other than for low- or moderate-income housing, including reimbursement for actual and reasonable moving expenses, security deposits, creditchecks, and other moving-related expenses, including any interim living costs; and in the case of displaced persons of low- and moderate-income, provide either—
+&emsp;&emsp;&emsp;“(iii) relocation benefits shall be provided for all low- or moderate-income persons who occupied housing demolished or converted to a use other than for low- or moderate-income housing, including reimbursement for actual and reasonable moving expenses, security deposits, credit checks, and other moving-related expenses, including any interim living costs; and in the case of displaced persons of low- and moderate-income, provide either—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) compensation sufficient to ensure that, for a 5-year period, the displaced families shall not bear, after relocation, a ratio of shelter costs to income that exceeds 30 percent; or
 
@@ -762,7 +762,7 @@ Organization.—A governing board may organize itself and conduct business in th
 
 #### “SEC. 1108. REPORTS.
 
-“Each governing board carrying out a new town development demonstration under this title shall submitto the Congress a copy of the new town plan of the governing board, upon the approval of that plan under section 1102(d).
+“Each governing board carrying out a new town development demonstration under this title shall submit to the Congress a copy of the new town plan of the governing board, upon the approval of that plan under section 1102(d).
 
 #### “SEC. 1109. DEFINITIONS.
 
@@ -795,10 +795,6 @@ Pub. L. 100–242, title V, §515(e), Feb. 5, 1988, 101 Stat. 1933, which requir
 #### Neighborhood Development Demonstration
 
 Section 123 of Pub. L. 98–181, as amended, which provided for a demonstration program to determine the feasibility of supporting eligible neighborhood development activities by providing Federal matching funds to eligible neighborhood development organizations, was transferred to section 5318a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5302, 5304, 5305, 5307, 5313, 5318a, 5320, 11501, 12705 of this title; title 12 section 1715z; title 26 sections 144, 1400E.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

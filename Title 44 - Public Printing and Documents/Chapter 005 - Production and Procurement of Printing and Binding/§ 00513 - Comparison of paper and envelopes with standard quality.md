@@ -8,7 +8,3 @@ The Public Printer shall compare every lot of paper and envelopes delivered by a
 
 Based on 44 U.S. Code, 1964 ed., §9 (Jan. 12, 1895, ch. 23, §7, 28 Stat. 602; June 20, 1936, ch. 630, title VIII, §13, 49 Stat. 1553).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 515, 1121 of this title; title 22 section 3714b; title 35 section 2.
-

@@ -62,7 +62,3 @@ Subsec. (g). Pub. L. 98–353, §510(d), substituted “receive or retain any pr
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 901, 946 of this title.
-

@@ -81,10 +81,6 @@
 
 1994—Pub. L. 103–305, title I, §§113(b), 118(b), Aug. 23, 1994, 108 Stat. 1579, 1580, added items 47129 and 47130 and redesignated former item 47129 as 47131.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 41745, 44718, 44901, 44923 of this title.
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From the funds appropriated for any fiscal year under section 6302(e)(1) of this title, the Secretary may award grants to State educational agencies, local educational agencies, other public agencies, nonprofit organizations, public or private partnerships involving business and industry organizations, and consortia of such entities to carry out demonstration projects that show the most promise of enabling children served under this subchapter to meet challenging State academic content standards and challenging State student academic achievement standards.
+From the funds appropriated for any fiscal year under section 6302(e)(1) of this title, the Secretary may award grants to State educational agencies, local educational agencies, other public agencies, nonprofit organizations, public or private partnerships involving business and industry organizations, and consortia of such entities to carry out demonstration projects that show the most promise of enablingchildren served under this subchapter to meet challenging State academic content standards and challenging State student academic achievement standards.
 
 #### (b) Evaluation
 
@@ -19,8 +19,4 @@ From funds appropriated under section 6302(e)(1) of this title for any fiscal ye
 A prior section 6492, Pub. L. 89–10, title I, §1502, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3604, related to demonstrations of innovative practices, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 1502 of Pub. L. 89–10 was classified to section 2912 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6302 of this title.
 

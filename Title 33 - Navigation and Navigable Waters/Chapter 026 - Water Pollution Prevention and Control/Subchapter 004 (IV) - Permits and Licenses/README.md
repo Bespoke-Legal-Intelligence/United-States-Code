@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—PERMITS AND LICENSES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1313, 1386 of this title.
-
 
 ---
 

@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (b) State consent for sale of existing rate-based facilities
 
-If a rate or charge for the sale of electric energy or natural gas (other than any portion of arate or charge which represents recovery of the cost of a wholesale rate or charge) for, or in connection with, assets of a public utility company that is an associate company or affiliate of a registered holding company was in effect under the laws of any State as of December 19, 1995, the public utility company owning such assets may not sell such assets to an exempt telecommunications company that is an associate company or affiliate unless State commissions having jurisdiction over such public utility company approve such sale. Nothing in this subsection shall preempt the otherwise applicable authority of any State to approve or disapprove the sale of such assets. The approval of the Commission under this chapter shall not be required for the sale of assets as provided in this subsection.
+If a rate or charge for the sale of electric energy or natural gas (other than any portion of a rate or charge which represents recovery of the cost of a wholesale rate or charge) for, or in connection with, assets of a public utility company that is an associate company or affiliate of a registered holding company was in effect under the laws of any State as of December 19, 1995, the public utility company owning such assets may not sell such assets to an exempt telecommunications company that is an associate company or affiliate unless State commissions having jurisdiction over such public utility company approve such sale. Nothing in this subsection shall preempt the otherwise applicable authority of any State to approve or disapprove the sale of such assets. The approval of the Commission under this chapter shall not be required for the sale of assets as provided in this subsection.
 
 #### (c) Ownership of ETCS by exempt holding companies
 
@@ -128,13 +128,13 @@ Reciprocal arrangements among companies that are not affiliates or associate com
 
 &emsp;&emsp;(B) transacts business, directly or indirectly, with a subsidiary company, an affiliate or an associate company that is an exempt telecommunications company,
 
-> &emsp;may order an independent audit to be performed, no more frequently than on an annual basis, of all matters deemed relevant by the selected auditor that reasonably relate to retail rates: <i>Provided</i>, That such matters relate, directly or indirectly, to transactions or transfers between the public utility company subject to its jurisdiction and such exempt telecommunications company.
+> &emsp;may order an independent audit to be performed, no more frequently than on an annual basis, of all matters deemed relevant by the selected auditor that reasonably relate to retail rates: <i>Provided</i>, That such matters relate,directly or indirectly, to transactions or transfers between the public utility company subject to its jurisdiction and such exempt telecommunications company.
 
 #### (2) Selection of firm to conduct audit
 
 &emsp;(A) If a State commission orders an audit in accordance with paragraph (1), the public utility company and the State commission shall jointly select, within 60 days, a firm to perform the audit. The firm selected to perform the audit shall possess demonstrated qualifications relating to—
 
-&emsp;&emsp;(i) competency, including adequate technical training and professional proficiencyin each discipline necessary to carry out the audit; and
+&emsp;&emsp;(i) competency, including adequate technical training and professional proficiency in each discipline necessary to carry out the audit; and
 
 &emsp;&emsp;(ii) independence and objectivity, including that the firm be free from personal or external impairments to independence, and should assume an independent position with the State commission and auditee, making certain that the audit is based upon an impartial consideration of all pertinent facts and responsible opinions.
 

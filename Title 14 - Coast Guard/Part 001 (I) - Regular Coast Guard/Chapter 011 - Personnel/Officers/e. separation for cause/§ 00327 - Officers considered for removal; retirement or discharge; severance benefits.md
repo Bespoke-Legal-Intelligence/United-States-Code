@@ -48,7 +48,3 @@
 
 Amendment by Pub. L. 107–295 effective 4 years after Nov. 25, 2002, see section 416(c) of Pub. L. 107–295, set out as a note under section 286 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 286 of this title.
-

@@ -70,7 +70,7 @@ If the Secretary determines, after providing notice of such determination and an
 
 #### Effective and Termination Dates
 
-Section 401(d) of Pub. L. 105–115 provided that: “The amendments made by this section \[enacting this partand amending section 331 of this title\] shall take effect 1 year after the date of enactment of this Act \[Nov. 21, 1997\], or upon the Secretary's issuance of final regulations pursuant to subsection (c) \[section 401(c) of Pub. L. 105–115 set out below\], whichever is sooner.”
+Section 401(d) of Pub. L. 105–115 provided that: “The amendments made by this section \[enacting this part and amending section 331 of this title\] shall take effect 1 year after the date of enactment of this Act \[Nov. 21, 1997\], or upon the Secretary's issuance of final regulations pursuant to subsection (c) \[section 401(c) of Pub. L. 105–115 set out below\], whichever is sooner.”
 
 Section 401(e) of Pub. L. 105–115 provided that: “The amendments made by this section \[enacting this part and amending section 331 of this title\] cease to be effective September 30, 2006, or 7 years after the date on which the Secretary promulgates the regulations described in subsection (c) \[section 401(c) of Pub. L. 105–115 set out below\], whichever is later.”
 
@@ -80,11 +80,11 @@ Section 401(c) of Pub. L. 105–115 provided that: “Not later than 1 year afte
 
 #### Studies and Reports
 
-Section 401(f) of Pub. L. 105–115 provided that:
+Pub. L. 105–115, title IV, §401(f), Nov. 21, 1997, 111 Stat. 2364, provided that:
 
 “(1)
 
-General accounting office.—
+General accounting office \[now Government Accountability Office\].—
 
 &emsp;“(A)
 
@@ -92,7 +92,7 @@ In general.—The Comptroller General of the United States shall conduct a study
 
 &emsp;“(B)
 
-Report.—Not later than January 1, 2002, the Comptroller General of the United States shall prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives a report of the results of the study.
+Report.—Not later than January 1, 2002, the Comptroller General of the United States shall prepare and submit to the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives a report of the results of the study.
 
 “(2)
 
@@ -120,9 +120,5 @@ In general.—The Secretary shall request the Institute of Medicine of the Natio
 
 &emsp;“(B)
 
-Report.—Not later than September 30, 2005, the Institute of Medicine or the Comptroller General of the United States, as appropriate, shall prepare and submit to the Committee on Labor and Human Resources of the Senate, the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives, and the Secretary a report of the results of the study required by paragraph (2). The Secretary, after the receipt of the report, shall make the report available to the public.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 360aaa–1, 360aaa–2, 360aaa–3, 360aaa–4, 360aaa–6 of this title.
+Report.—Not later than September 30, 2005, the Institute of Medicine or the Comptroller General of the United States, as appropriate, shall prepare and submit to the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives, and the Secretary a report of the results of the study required by paragraph (2). The Secretary, after the receipt of the report, shall make the report available to the public.”
 

@@ -4,7 +4,7 @@ The United States Holocaust Memorial Museum (hereafter in this chapter referred 
 
 &emsp;(1) provide for appropriate ways for the Nation to commemorate the Days of Remembrance, as an annual, national, civic commemoration of the Holocaust, and encourage and sponsor appropriate observances of such Days of Remembrance throughout the United States;
 
-&emsp;(2) operate and maintain a permanent living memorial museum to the victims of the Holocaust, in cooperation with the Secretary of the Interior and other Federal agencies as provided in section 2306 of this title; and
+&emsp;(2) operate and maintain a permanent living memorial museum to the victims of the Holocaust, in cooperation with the Secretary of the Interior and other Federal agencies as provided in section 2306 <sup>2</sup> of this title; and
 
 &emsp;(3) carry out the recommendations of the President's Commission on the Holocaust in its report to the President of September 27, 1979, to the extent such recommendations are not otherwise provided for in this chapter.
 
@@ -25,4 +25,6 @@ Pub. L. 101–45, title II, June 30, 1989, 103 Stat. 125, provided that:
 “In the event the Council ceases to exist, administrative jurisdiction of the Auditors West Building (Annex 3) shall revert to the General Services Administration.”
 
 <i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Section 2306 of this title does not relate to cooperation with the Secretary or other Federal agencies.</i>
 

@@ -14,7 +14,7 @@ Subchapter VIII of chapter 3 of this title, referred to in text, was in the orig
 
 R.S. §5208 derived from act Mar. 3, 1869, ch. 135, 15 Stat. 335.
 
-The last sentence of R.S. §5208, as amended, which provided penalties for certification of certain checks, was repealed by section 21 of act June 25, 1948, ch. 645,62 Stat. 862, 865, and the provisions thereof were reenacted as section 1004 of Title 18, Crimes and Criminal Procedure.
+The last sentence of R.S. §5208, as amended, which provided penalties for certification of certain checks, was repealed by section 21 of act June 25, 1948, ch. 645, 62 Stat. 862, 865, and the provisions thereof were reenacted as section 1004 of Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
 

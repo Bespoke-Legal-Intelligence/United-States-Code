@@ -8,7 +8,3 @@ All designations of Indian lands pursuant to sections 833<i>l</i> to 833p of thi
 
 Section was not enacted as part of act May 18, 1938, which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 833<i>l</i>, 833m, 833n, 833<i>o</i> of this title.
-

@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to exchange, in his discretion, alie
 
 (June 7, 1924, ch. 305, §3, 43 Stat. 594.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 402b, 402c of this title.
-

@@ -27,9 +27,8 @@
 | [10b.](%C2%A7%2000010b%20-%20Contracts%20for%20public%20works%3B%20specification%20for%20use%20of%20American%20materials%3B%20blacklisting%20contractors%20violating%20requirements.md) | Contracts for public works; specification for use of American materials; blacklisting contractors violating requirements. |
 | 10b–1. | Omitted. |
 | 10b–2. | Limitation on authority to waive Buy American Act requirement. |
-| (a) | Determination by Secretary of Defense. |
-| (b) | Report to Congress. |
-| (c) | “Buy American Act” defined. |
+| (a) | Buy American Act waiver rescissions. |
+| (b) | Definition. |
 | 10b–3. | Annual report relating to Buy American Act. |
 | [10c.](%C2%A7%2000010c%20-%20Definition%20of%20terms%20used%20in%20sections%2010a%2C%2010b%2C%20and%2010c.md) | Definition of terms used in sections 10a, 10b, and 10c. |
 | [10d.](%C2%A7%2000010d%20-%20Clarification%20of%20Congressional%20intent%20regarding%20sections%2010a%20and%2010b%28a%29.md) | Clarification of Congressional intent regarding sections 10a and 10b(a). |

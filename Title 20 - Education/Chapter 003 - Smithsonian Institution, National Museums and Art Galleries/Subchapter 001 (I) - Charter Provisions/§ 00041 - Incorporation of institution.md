@@ -26,7 +26,3 @@ Pub. L. 108–72, §1, Aug. 15, 2003, 117 Stat. 888, provided that: “This Act 
 
 Pub. L. 89–674, §1, Oct. 15, 1966, 80 Stat. 953, provided: “That this Act \[enacting section 65a of this title and repealing section 65 of this title\] may be cited as the ‘National Museum Act of 1966’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 57, 67 of this title.
-

@@ -14,7 +14,7 @@ Within the boundary of the recreation area, the Secretary may acquire lands and 
 
 #### (d) Cultural resources
 
-The Secretary shall conduct a survey of the cultural resources in the immediate vicinity of the recreation area. The Secretary is authorized to enter into cooperative agreements with public or private entities, including landowners, for the purpose of conducting the survey required by this subsection. Not later than three years after the date on which funds have been made available, the Secretary shall submit a report tothe Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on the results of the survey required by this subsection.
+The Secretary shall conduct a survey of the cultural resources in the immediate vicinity of the recreation area. The Secretary is authorized to enter into cooperative agreements with public or private entities, including landowners, for the purpose of conducting the survey required by this subsection. Not later than three years after the date on which funds have been made available, the Secretary shall submit a report to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on the results of the survey required by this subsection.
 
 #### (e) Hunting and fishing
 
@@ -41,8 +41,4 @@ Act of December 29, 1950, referred to in subsec. (b), is act Dec. 29, 1950, ch. 
 #### Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460eee–2 of this title.
 

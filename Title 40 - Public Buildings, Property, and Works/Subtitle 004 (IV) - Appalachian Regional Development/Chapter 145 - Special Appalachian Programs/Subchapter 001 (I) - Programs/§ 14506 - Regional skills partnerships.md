@@ -18,7 +18,7 @@ Eligible Entity.—In this section, the term “eligible entity” means a conso
 
 (b)
 
-Projects To Be Assisted.—The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to eligible entities in the region for projects to improve the job skillsof workers for a specified industry, including projects for—
+Projects To Be Assisted.—The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to eligible entities in the region for projects to improve the job skills of workers for a specified industry, including projects for—
 
 &emsp;(1) the assessment of training and job skill needs for the industry;
 

@@ -63,13 +63,13 @@
 | 262m–5. | Environmental impact statements; factors considered; promotion of activities by United States Executive Directors. |
 | 262m–6. | Repealed. |
 | 262m–7. | Assessment of environmental impact of proposed multilateral development bank actions. |
-| (a) | Assessment required before favorable vote on action. |
+| (a) | Assessment required before favorable vote on proposal. |
 | (b) | Access to assessments in all member countries. |
 | (c) | Consideration of assessment. |
 | (d) | Development of procedures for systematic environmental assessment. |
 | (e) | Use of United States personnel. |
 | (f) | Reports. |
-| (g) | “Multilateral development bank” defined. |
+| (g) | Multilateral development bank defined. |
 | [262n.](%C2%A7%2000262n%20-%20Congressional%20findings%20and%20policies%20respecting%20agricultural%20and%20commodity%20production.md) | Congressional findings and policies respecting agricultural and commodity production. |
 | 262n–1. | Increase in income and employment in developing countries; enhancement of purchasing power; diversification away from single crop or product economies. |
 | 262n–2. | Financing projects for production of export commodities, products, or minerals in surplus in world markets discouraged; instructions by Secretary of the Treasury to United States Executive Directors. |
@@ -81,6 +81,13 @@
 | 262<i>o</i>–2. | Advocacy of policies to enhance general effectiveness of International Monetary Fund. |
 | (a) | In general. |
 | (b) | Coordination with other executive departments. |
+| 262<i>o</i>–3. | Administrative provisions. |
+| (a) | Achievement of certain policy goals. |
+| (b) | Report. |
+| (c) | Publication of written statements regarding inspection mechanism cases. |
+| (d) | Congressional briefings. |
+| (e) | Publication of “no” votes and abstentions by the United States. |
+| (f) | Multilateral development institution defined. |
 | [262p.](%C2%A7%2000262p%20-%20Impact%20adjustment%20lending%20programs.md) | Impact adjustment lending programs. |
 | (a) | Establishment of guidelines; impact statements. |
 | (b) | Proposed contents of impact statements. |
@@ -176,7 +183,7 @@
 | (b) | Testimony. |
 | 262r–5. | Repealed. |
 | 262r–6. | Reports on policies, operations, and management of international financial institutions. |
-| (a) | Annual report on financial operations. |
+| (a) | Repealed. |
 | (b) | Annual report on United States supported policies. |
 | (c) | Omitted. |
 | (d) | Report on debt relief. |
@@ -287,6 +294,36 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER II–C—UNITED STATES SENATE-CHINA INTERPARLIAMENTARY GROUP
+
+|  |  |
+| :--- | ---: |
+| [276n.](Subchapter%20002%E2%80%93C%20%28II%E2%80%93C%29%20-%20United%20States%20Senate-China%20Interparliamentary%20Group/%C2%A7%2000276n%20-%20United%20States%20Senate-China%20Interparliamentary%20Group.md) | United States Senate-China Interparliamentary Group. |
+| (a) | Establishment and meetings. |
+| (b) | Appointment of Members. |
+| (c) | Funding. |
+| (d) | Certification of expenditures. |
+| (e) | Fiscal year 2004 funding. |
+| (f) | Appropriations. |
+| (g) | Effective date. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER II–D—UNITED STATES SENATE-RUSSIA INTERPARLIAMENTARY GROUP
+
+|  |  |
+| :--- | ---: |
+| 276<i>o.</i> | United States Senate-Russia Interparliamentary Group. |
+| (a) | Establishment and meetings. |
+| (b) | Appointment of Members. |
+| (c) | Funding. |
+| (d) | Certification of expenditures. |
+| (e) | Fiscal year 2004 funding. |
+| (f) | Appropriations. |
+| (g) | Effective date. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER III—KERMIT ROOSEVELT FUND
 
 |  |  |
@@ -363,9 +400,10 @@
 | (b) | Comprehensive plan. |
 | (c) | Contract. |
 | (d) | Implementation. |
-| 277d–45. | Negotiation of new Treaty Minute. |
+| 277d–45. | New Treaty Minute. |
 | (a) | Congressional statement. |
 | (b) | Negotiation. |
+| (c) | Implementation. |
 | 277d–46. | Authorization of appropriations. |
 | [277e.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277e%20-%20Disposal%20of%20lands%3B%20issuance%20of%20licenses%20for%20use%20of%20lands%3B%20compensation%20for%20injured%20property.md) | Disposal of lands; issuance of licenses for use of lands; compensation for injured property. |
 | [277f.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277f%20-%20Valley%20Gravity%20Canal%20and%20Storage%20Project.md) | Valley Gravity Canal and Storage Project. |
@@ -598,6 +636,9 @@
 | [284s.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284s%20-%20Ninth%20replenishment.md) | Ninth replenishment. |
 | (a) | In general. |
 | (b) | Limitations on authorization of appropriations. |
+| [284t.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284t%20-%20Thirteenth%20replenishment.md) | Thirteenth replenishment. |
+| (a) | Contribution authority. |
+| (b) | Limitations on authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -644,6 +685,9 @@
 | [285z.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285z%20-%20Additional%20contribution%20to%20special%20funds%3B%20authorization%20of%20appropriations.md) | Additional contribution to special funds; authorization of appropriations. |
 | [285aa.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285aa%20-%20Capital%20increase.md) | Capital increase. |
 | (a) | Subscription authorized. |
+| (b) | Limitations on authorization of appropriations. |
+| [285bb.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285bb%20-%20Additional%20contribution%20to%20special%20funds.md) | Additional contribution to special funds. |
+| (a) | Contribution authority. |
 | (b) | Limitations on authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -863,10 +907,11 @@
 | (c) | Extent of diplomatic status. |
 | [288f.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288f%20-%20Applicability%20of%20reciprocity%20laws.md) | Applicability of reciprocity laws. |
 | 288f–1. | European Space Agency and Organization of Eastern Caribbean States; extension of privileges, exemptions, and immunities to members. |
-| 288f–2. | Organization of African Unity; extension of privileges, exemptions, and immunities. |
+| 288f–2. | African Union; extension of privileges, exemptions, and immunities. |
 | 288f–3. | Immunities for International Committee of the Red Cross. |
 | 288f–4. | International Union for Conservation of Nature and Natural Resources; extension of privileges, exemptions, and immunities. |
 | 288f–5. | European Central Bank; extension of privileges, exemptions, and immunities. |
+| 288f–6. | Global Fund to Fight AIDS, Tuberculosis and Malaria; extension of privileges, exemptions, and immunities. |
 | [288g.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288g%20-%20Organization%20of%20American%20States%3B%20extension%20of%20privileges%20and%20immunities%20to%20members.md) | Organization of American States; extension of privileges and immunities to members. |
 | [288h.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288h%20-%20Commission%20of%20European%20Communities%3B%20extension%20of%20privileges%20and%20immunities%20to%20members.md) | Commission of European Communities; extension of privileges and immunities to members. |
 | [288i.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288i%20-%20Liaison%20Office%20of%20the%20People%27s%20Republic%20of%20China%3B%20extension%20of%20privileges%20and%20immunities%20to%20members.md) | Liaison Office of the People's Republic of China; extension of privileges and immunities to members. |
@@ -963,6 +1008,9 @@
 | (b) | Authorization of appropriations. |
 | 290g–15. | Sixth replenishment. |
 | (a) | Contribution authorized. |
+| (b) | Limitations on authorization of appropriations. |
+| 290g–16. | Ninth replenishment. |
+| (a) | Contribution authority. |
 | (b) | Limitations on authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1104,6 +1152,11 @@
 | (c) | Ombudsman. |
 | (d) | Reporting requirement. |
 | 290m–3. | “Border Environment Cooperation Agreement” defined. |
+| 290m–4. | Authority to agree to certain amendments to the Border Environment Cooperation Agreement. |
+| 290m–5. | Grants out of paid-in capital resources. |
+| (a) | In general. |
+| (b) | Exception. |
+| 290m–6. | Annual report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1190,6 +1243,7 @@
 - [&sect; 00262o - Negotiations concerning replenishment or increase in capital; annual reports on implementation of lending policy goals](%C2%A7%2000262o%20-%20Negotiations%20concerning%20replenishment%20or%20increase%20in%20capital%3B%20annual%20reports%20on%20implementation%20of%20lending%20policy%20goals.md)
 - [&sect; 00262o&#8211;1 - Military spending by recipient countries; military involvement in economies of recipient countries](%C2%A7%2000262o%E2%80%931%20-%20Military%20spending%20by%20recipient%20countries%3B%20military%20involvement%20in%20economies%20of%20recipient%20countries.md)
 - [&sect; 00262o&#8211;2 - Advocacy of policies to enhance general effectiveness of International Monetary Fund](%C2%A7%2000262o%E2%80%932%20-%20Advocacy%20of%20policies%20to%20enhance%20general%20effectiveness%20of%20International%20Monetary%20Fund.md)
+- [&sect; 00262o&#8211;3 - Administrative provisions](%C2%A7%2000262o%E2%80%933%20-%20Administrative%20provisions.md)
 - [&sect; 00262p - Impact adjustment lending programs](%C2%A7%2000262p%20-%20Impact%20adjustment%20lending%20programs.md)
 - [&sect; 00262p&#8211;1 - Grassroots Collaboration Program](%C2%A7%2000262p%E2%80%931%20-%20Grassroots%20Collaboration%20Program.md)
 - [&sect; 00262p&#8211;2 - Instructions to United States Executive Directors for extension of credit](%C2%A7%2000262p%E2%80%932%20-%20Instructions%20to%20United%20States%20Executive%20Directors%20for%20extension%20of%20credit.md)
@@ -1274,6 +1328,8 @@
 - [Subchapter 002 (II) - Mexico-United States Interparliamentary Group](Subchapter%20002%20%28II%29%20-%20Mexico-United%20States%20Interparliamentary%20Group/README.md)
 - [Subchapter 002&#8211;A (II&#8211;A) - British-American Interparliamentary Group](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20British-American%20Interparliamentary%20Group/README.md)
 - [Subchapter 002&#8211;B (II&#8211;B) - United States Delegation to Parliamentary Assembly of Conference on Security and Cooperation in Europe (CSCE)](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20United%20States%20Delegation%20to%20Parliamentary%20Assembly%20of%20Conference%20on%20Security%20and%20Cooperation%20in%20Europe%20%28CSCE%29/README.md)
+- [Subchapter 002&#8211;C (II&#8211;C) - United States Senate-China Interparliamentary Group](Subchapter%20002%E2%80%93C%20%28II%E2%80%93C%29%20-%20United%20States%20Senate-China%20Interparliamentary%20Group/README.md)
+- [Subchapter 002&#8211;D (II&#8211;D) - United States Senate-Russia Interparliamentary Group](Subchapter%20002%E2%80%93D%20%28II%E2%80%93D%29%20-%20United%20States%20Senate-Russia%20Interparliamentary%20Group/README.md)
 - [Subchapter 003 (III) - Kermit Roosevelt Fund](Subchapter%20003%20%28III%29%20-%20Kermit%20Roosevelt%20Fund/README.md)
 - [Subchapter 004 (IV) - International Boundary and Water Commission](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/README.md)
 - [Subchapter 005 (V) - Gorgas Memorial Laboratory](Subchapter%20005%20%28V%29%20-%20Gorgas%20Memorial%20Laboratory/README.md)

@@ -10,7 +10,3 @@
 
 (Pub. L. 91–596, §5, Dec. 29, 1970, 84 Stat. 1593.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 658, 666 of this title; title 2 section 1341; title 3 section 425; title 42 section 7412.
-

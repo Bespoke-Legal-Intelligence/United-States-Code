@@ -4,7 +4,3 @@ Any evidence of guaranty or insurance issued by the Secretary shall be conclusiv
 
 (Pub. L. 93–262, title II, §214, Apr. 12, 1974, 88 Stat. 81.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1499 of this title.
-

@@ -130,7 +130,7 @@ Copies of each notice required to be served on a management official under this 
 
 #### (B) Petition for review
 
-&emsp;&emsp;Any party to a hearing provided for in this section may obtain a review of any order issued pursuant to paragraph (2) (other than an order issued with the consent of the management official concerned, or an order issued under subsection (d) of this section), by filing in the court of appeals of the United States for the circuit in which the principal office of the licensee is located, or in the United States Court of Appeals for the District of Columbia Circuit, not later than 30 days after the date of service of such order, a written petition praying that the order of the Administrator be modified, terminated, or set aside.
+&emsp;&emsp;Any party to a hearing provided for in this section may obtain a review of any order issued pursuant to paragraph (2) (other than an order issued with the consent of the management official concerned, or an order issued under subsection (d) of this section), by filing in the court of appeals of the United States for the circuit in which the principal office of the licensee is located, or in the United States Court of Appeals for the District of Columbia Circuit, not later than 30 days after the date of service of such order, a written petition praying that the order ofthe Administrator be modified, terminated, or set aside.
 
 #### (C) Notification to administration
 
@@ -159,8 +159,4 @@ For definition of “this chapter”, referred to in subsec. (b)(1)(A)(i)(I), (I
 #### Amendments
 
 2001—Pub. L. 107–100 amended section catchline and text generally. Prior to amendment, text related to removal and suspension of directors and officers of licensees, with regard to written notice of intention to remove and grounds for removal; suspension pending completion of administrative proceedings; a hearing upon notice of intention to remove a director or officer and issuance of an order of removal; a stay of suspension and/or prohibition by a United States district court; suspension of directors and officers charged with felonies involving dishonesty or breach of trust; and procedural aspects of hearings provided for in this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 687h, 689<i>o</i> of this title.
 

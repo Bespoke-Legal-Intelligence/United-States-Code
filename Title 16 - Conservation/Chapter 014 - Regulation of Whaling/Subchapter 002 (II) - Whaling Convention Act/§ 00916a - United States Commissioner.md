@@ -22,7 +22,3 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 
 Secretary of State authorized to designate Alternate United States Commissioners, see sections 2672a and 2672b of Title 22, Foreign Relations and Intercourse.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 916 of this title.
-

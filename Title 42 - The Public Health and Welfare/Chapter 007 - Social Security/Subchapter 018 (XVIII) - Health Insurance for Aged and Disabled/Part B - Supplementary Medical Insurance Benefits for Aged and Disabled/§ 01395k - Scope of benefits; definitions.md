@@ -42,7 +42,7 @@ The benefits provided to an individual by the insurance program established by t
 
 &emsp;&emsp;&emsp;&emsp;(III) the physician is authorized to perform the procedure in a hospital located in the area in which the office is located,
 
-&emsp;&emsp;&nbsp;and if the physician agrees to accept the standard overhead amount determined under section 1395<i>l</i>(i)(2)(B) of this title as full payment for such services and to accept payment on an assignment-related basis with respect to payment for all services (including all pre- and post-operative services) described in paragraphs (1) and (2)(A) of section 1395x(s) of this title and furnished in connection with such surgical procedure to individuals enrolled under this part;
+&emsp;&emsp;&nbsp;and if the physician agrees to accept the standard overhead amount determined under section 1395<i>l</i>(i)(2)(B) of this title as full payment for such services and to accept payment on an assignment-related basis with respect to payment for all services (including all pre- and post-operative services) described in paragraphs (1) and (2)(A) of section 1395x(s) of this title andfurnished in connection with such surgical procedure to individuals enrolled under this part;
 
 &emsp;&emsp;(G) covered items (described in section 1395m(a)(13) of this title) furnished by a provider of services or by others under arrangements with them made by a provider of services;
 
@@ -192,13 +192,13 @@ Amendment by section 201(a) of Pub. L. 101–234 effective Jan. 1, 1990, see sec
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 104(d)(3) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on orafter Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
+Amendment by section 104(d)(3) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
 Amendment by section 203(a) of Pub. L. 100–360 applicable to items and services furnished on or after Jan. 1, 1990, see section 203(g) of Pub. L. 100–360, set out as a note under section 1320c–3 of this title.
 
 Section 205(f) of Pub. L. 100–360, which provided that the amendments made by section 205 of Pub. L. 100–360 \[amending this section and sections 1395<i>l</i>, 1395n, 1395x, and 1395y of this title\] were applicable to items and services furnished on or after January 1, 1990, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(g)(2)(E), (h)(4)(A), (7)(B), (i)(4)(C)(vi) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(g)(2)(E), (h)(4)(A), (7)(B), (i)(4)(C)(vi) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference toOBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 
@@ -283,10 +283,6 @@ Section 9320(k) of Pub. L. 99–509, as added by Pub. L. 100–485, title VI, §
 #### Payment for Services of Physicians Rendered in a Teaching Hospital for Accounting Periods Beginning After June 30, 1975, and Prior to October 1, 1978; Studies, Reports, etc.; Effective Dates
 
 Pub. L. 93–233, §15(a)(2), Dec. 31, 1973, 87 Stat. 966, provided that for the cost accounting periods beginning after June 30, 1975, and prior to Oct. 1, 1978, subsec. (a)(2)(B)(i) of this section will be administered as if subclause II of subsec. (a)(2)(B)(i) read as follows: “(II) a physician to a patient in a hospital which has a teaching program approved as specified in paragraph (6) of section 1861(b) \[section 1395x(b)(6) of this title\] (including services in conjunction with the teaching programs of such hospital whether or not such patient is an inpatient of such hospital), where the conditions specified in paragraph (7) of such section \[section 1395x(b)(7) of this title\] are met and”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395<i>l</i>, 1395n, 1395x, 1395z, 1395aa, 1395gg of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—TRANSPORTATION AND UTILITY SYSTEMS IN AND ACROSS, AND ACCESS INTO, CONSERVATION SYSTEM UNITS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3166 of this title.
-
 
 ---
 

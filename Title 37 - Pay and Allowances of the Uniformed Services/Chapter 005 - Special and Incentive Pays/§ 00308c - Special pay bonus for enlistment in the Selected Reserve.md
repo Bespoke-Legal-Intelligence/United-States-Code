@@ -2,7 +2,7 @@
 
 (a) Any person who enlists in the Selected Reserve of the Ready Reserve of an armed force, is a graduate of a secondary school, and has never previously served in an armed force may be paid a bonus as provided in subsection (b).
 
-(b) The amount and method of payment of a bonus to be paid under subsection (a) shall be determined in accordance with regulations prescribed under subsection (c), except that the amount of such bonus may not exceed $8,000 and—
+(b) The amount and method of payment of a bonus to be paid under subsection (a) shall be determined in accordance with regulations prescribed under subsection (c), except that the amount of such bonus may not exceed $10,000 and—
 
 &emsp;(1) an amount not to exceed one-half of the bonus may be paid upon completion of the initial active duty for training of such person; and
 
@@ -12,13 +12,19 @@
 
 (d) A member who fails to participate satisfactorily in training with his unit during a term of enlistment for which a bonus has been paid to him under this section shall refund an amount which bears the same ratio to the amount of the bonus which has been paid to him as the unexpired part of such term of enlistment bears to the total length of such term of enlistment.
 
-(e) No bonus may be paid under this section to any enlisted member who, after December 31, 2004, enlists in the Selected Reserve of the Ready Reserve of an armed force.
+(e) No bonus may be paid under this section to any enlisted member who, after December 31, 2005, enlists in the Selected Reserve of the Ready Reserve of an armed force.
 
-(f) The total amount of expenditures under this section may not exceed $37,024,000 during fiscal year 1994.
+(f) A member entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
 
-(Added Pub. L. 95–485, title IV, §404(a), Oct. 20, 1978, 92 Stat. 1614; amended Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat. 1095; Pub. L. 97–22, §11(b)(1), July 10, 1981, 95 Stat. 138; Pub. L. 99–145, title VI, §642, Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §§613, 652(b), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(5), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(b), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(b), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(b), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(c), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(c), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(c), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §§611(c), 620(a), (b), Oct. 5, 1999, 113 Stat. 649, 653; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(c), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(b), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §611(b), Nov. 24, 2003, 117 Stat. 1500.)
+(Added Pub. L. 95–485, title IV, §404(a), Oct. 20, 1978, 92 Stat. 1614; amended Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat. 1095; Pub. L. 97–22, §11(b)(1), July 10, 1981, 95 Stat. 138; Pub. L. 99–145, title VI, §642, Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §§613, 652(b), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(5), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(b), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(b), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(b), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(c), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(c), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(c), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §§611(c), 620(a), (b), Oct. 5, 1999, 113 Stat. 649, 653; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(c), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c),Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(b), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §611(b), Nov. 24, 2003, 117 Stat. 1500; Pub. L. 108–375, div. A, title VI, §§611(b), 618(c), Oct. 28, 2004, 118 Stat. 1946, 1949.)
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–375, §618(c)(1), substituted “$10,000” for “$8,000” in introductory provisions.
+
+Subsec. (e). Pub. L. 108–375, §611(b), substituted “December 31, 2005” for “December 31, 2004”.
+
+Subsec. (f). Pub. L. 108–375, §618(c)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The total amount of expenditures under this section may not exceed $37,024,000 during fiscal year 1994.”
 
 2003—Subsec. (e). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
 

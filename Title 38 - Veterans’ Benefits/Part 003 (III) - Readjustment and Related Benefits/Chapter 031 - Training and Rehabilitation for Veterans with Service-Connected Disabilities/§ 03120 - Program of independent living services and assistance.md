@@ -2,7 +2,7 @@
 
 (a) The Secretary may, under contracts with entities described in subsection (f) of this section, or through facilities of the Veterans Health Administration, which possess a demonstrated capability to conduct programs of independent living services for severely handicapped persons, provide, under regulations which the Secretary shall prescribe, programs of independent living services and assistance under this chapter, in various geographic regions of the United States, to veterans described in subsection (b) of this section.
 
-(b) A program of independent living services and assistance may be made available under this section only to a veteran who has a serious employment handicap resulting in substantial part from a service-connected disability described in section 3102(1)(A)(i) of this title and with respect to whom it is determined under section 3106(d) or (e) of this title that the achievement of a vocational goal currently is not reasonably feasible.
+(b) A program of independent living services and assistance may be made available under thissection only to a veteran who has a serious employment handicap resulting in substantial part from a service-connected disability described in section 3102(1)(A)(i) of this title and with respect to whom it is determined under section 3106(d) or (e) of this title that the achievement of a vocational goal currently is not reasonably feasible.
 
 (c) The Secretary shall, to the maximum extent feasible, include among those veterans who are provided with programs of independent living services and assistance under this section substantial numbers of veterans described in subsection (b) of this section who are receiving long-term care in Department of Veterans Affairs hospitals and nursing homes and in nursing homes with which the Secretary contracts for the provision of care to veterans.
 
@@ -54,7 +54,7 @@ Subsec. (e). Pub. L. 101–237, §404(3), (7), redesignated former subsec. (a)(6
 
 Subsec. (f). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
-Pub. L. 101–237, §404(3), (8), redesignated former subsec. (a)(7) as (f) and substituted “in this subsection are\(1) public or nonprofit agencies or organizations, and (2)” for “in this paragraph are (A) public or nonprofit agencies or organizations, and (B)”.
+Pub. L. 101–237, §404(3), (8), redesignated former subsec. (a)(7) as (f) and substituted “in this subsection are (1) public or nonprofit agencies or organizations, and (2)” for “in this paragraph are (A) public or nonprofit agencies or organizations, and (B)”.
 
 1988—Subsec. (a)(1). Pub. L. 100–689, §202(b)(1), substituted “entities described in paragraph (7) of this subsection” for “public or nonprofit private agencies or organizations”.
 
@@ -85,8 +85,4 @@ Amendment by Pub. L. 104–275 effective Oct. 9, 1996, with amendment by section
 #### Effective Date
 
 Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set out as a note under section 3100 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3101, 3103, 3106, 3109 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—STANDARDS AND ENFORCEMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1386, 2803 of this title.
-
 
 ---
 

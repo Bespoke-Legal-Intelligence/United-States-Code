@@ -18,7 +18,7 @@ Each Advisory Board shall be composed of eighteen appointed members and nonvotin
 
 &emsp;(2)(A) The following shall be ex officio members of each Advisory Board:
 
-&emsp;&emsp;(i) The Assistant Secretary for Health, the Director of NIH, the Director of the National Institute of Diabetes and Digestive and Kidney Diseases, the Director of the Centers for Disease Control and Prevention, the Under Secretary for Health of the Department of Veterans Affairs, the Assistant Secretary of Defense for Health Affairs, and the Division Director of the National Institute of Diabetes and Digestive and Kidney Diseases for the diseases for which the Board is established (or the designees of such officers).
+&emsp;&emsp;(i) The Assistant Secretary for Health, the Director of NIH, the Director of the National Institute of Diabetes and Digestive and Kidney Diseases, the Director of the Centers for Disease Control and Prevention, the UnderSecretary for Health of the Department of Veterans Affairs, the Assistant Secretary of Defense for Health Affairs, and the Division Director of the National Institute of Diabetes and Digestive and Kidney Diseases for the diseases for which the Board is established (or the designees of such officers).
 
 &emsp;&emsp;(ii) Such other officers and employees of the United States as the Secretary determines necessary for the Advisory Board to carry out its functions.
 
@@ -62,7 +62,7 @@ In carrying out its functions, each Advisory Board may establish subcommittees, 
 
 The National Diabetes Advisory Board and the National Digestive Diseases Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a) of this section. The Secretary shall make appointments to the Advisory Boards established under subsection (a) of this section before the expiration of 90 days after November 20, 1985. The members of the Boards in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d) of this section, to the Boards established under subsection (a) of this section for diabetes and digestive diseases, except that at least one-half of the members of the National Diabetes Advisory Board in existence on November 20, 1985, shall be appointed to the National Diabetes Advisory Board first established under subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title IV, §430, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 844; amended Pub. L. 100–607, title I, §131, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(6), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(5), June 10, 1993, 107 Stat. 211; Pub. L. 105–362, title VI, §601(a)(1)(C), Nov. 10, 1998, 112 Stat. 3285.)
+(July 1, 1944, ch. 373, title IV, §430, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 844; amended Pub. L. 100–607, title I, §131, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, titleIII, §312(d)(6), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(5), June 10, 1993, 107 Stat. 211; Pub. L. 105–362, title VI, §601(a)(1)(C), Nov. 10, 1998, 112 Stat. 3285.)
 
 #### Amendments
 
@@ -93,8 +93,4 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 285c–3 of this title.
 

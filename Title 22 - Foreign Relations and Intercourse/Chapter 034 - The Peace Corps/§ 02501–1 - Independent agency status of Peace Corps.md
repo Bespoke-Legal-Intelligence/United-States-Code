@@ -38,7 +38,7 @@ Section 601(b), (c) of Pub. L. 97–113 provided that:
 
 &emsp;“(B) each person so appointed who, immediately before such date of enactment \[Dec. 29, 1981\], held a career or career-conditional appointment at grade GS–8 or lower of the General Schedule established by section 5332 of title 5, United States Code, shall be appointed a member of the Foreign Service for the duration of operations under the Peace Corps Act \[this chapter\].
 
-> Each person appointed under this paragraph shall receive basic compensation at the rate of such person's class determined by the President to be appropriate, except that the rate of basic compensation received by such person immediately before the effective date of such person's appointment under this paragraph shall not be reduced as a result of the provisions of this paragraph.”
+> Each person appointed under this paragraph shall receive basic compensation at the rate of such person'sclass determined by the President to be appropriate, except that the rate of basic compensation received by such person immediately before the effective date of such person's appointment under this paragraph shall not be reduced as a result of the provisions of this paragraph.”
 
 #### References to ACTION Agency or Director of ACTION Agency With Respect to Peace Corps or Director Functions or Activities
 

@@ -12,7 +12,3 @@
 
 The date of the enactment of this section, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 100–690 which was approved Nov. 18, 1988.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4127 of this title.
-

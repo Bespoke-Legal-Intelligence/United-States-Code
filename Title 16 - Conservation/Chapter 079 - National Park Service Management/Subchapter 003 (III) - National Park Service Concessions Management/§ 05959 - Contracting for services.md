@@ -2,7 +2,7 @@
 
 #### (a) Contracting authorized
 
-(1) To the maximum extent practicable, the Secretary shall contract with private entities to conduct or assist in those elements of the management of the National Park Service concessions program considered by the Secretary to be suitable for non-Federal performance. Suchmanagement elements include each of the following:
+(1) To the maximum extent practicable, the Secretary shall contract with private entities to conduct or assist in those elements of the management of the National Park Service concessions program considered by the Secretary to be suitable for non-Federal performance. Such management elements include each of the following:
 
 &emsp;(A) Health and safety inspections.
 

@@ -42,7 +42,7 @@ The Commission may, by rule, require an investment adviser—
 
 #### (e) State assistance
 
-Upon request of the securities commissioner (or any agency or officer performing like functions) of any State, the Commission may provide such training, technical assistance, or other reasonable assistance in connection withthe regulation of investment advisers by the State.
+Upon request of the securities commissioner (or any agency or officer performing like functions) of any State, the Commission may provide such training, technical assistance, or other reasonable assistance in connection with the regulation of investment advisers by the State.
 
 (Aug. 22, 1940, ch. 686, title II, §203A, as added Pub. L. 104–290, title III, §303(a), Oct. 11, 1996, 110 Stat. 3437.)
 
@@ -73,8 +73,4 @@ In general.—During the period beginning on the date of enactment of this Act \
 &emsp;“(2)
 
 Delays.—For purposes of this subsection, delays in payment of fees or underpayments of fees that are promptly remedied in accordance with the applicable laws, rules, regulations, or orders, or other administrative actions of the relevant State shall not constitute a failure or refusal to pay fees.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80b–3, 6701 of this title; title 29 section 1002.
 

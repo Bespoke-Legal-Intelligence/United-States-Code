@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—STRUCTURAL ADJUSTMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 5471 of this title.
-
 
 ---
 

@@ -4,7 +4,3 @@ In order to avoid duplication of functions, facilities, and personnel, and to at
 
 (Pub. L. 96–468, §9, Oct. 17, 1980, 94 Stat. 2232.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3803, 3804 of this title.
-

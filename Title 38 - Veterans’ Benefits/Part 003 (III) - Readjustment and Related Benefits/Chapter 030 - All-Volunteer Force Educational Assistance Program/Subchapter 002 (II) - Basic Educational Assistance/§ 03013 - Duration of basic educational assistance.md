@@ -8,7 +8,7 @@
 
 (c)(1) Subject to section 3695 of this title and except as provided in paragraphs (2) and (3) of this subsection, each individual entitled to basic educational assistance under section 3018 of this title is entitled to 36 months of educational assistance under this chapter (or the equivalent thereof in part-time educational assistance).
 
-(2) Subject to section 3695 of this title, an individual described in clause (B) or (C) of section 3018(b)(3) of this title whose discharge or release from active duty prevents the reduction of the basic pay of such individual by $1,200 is entitled to the number of months of assistance under this chapter that is equal to the lesser of—
+(2) Subject to section 3695 of this title, an individual described in clause (B) or (C) of section 3018(b)(3) of this title whose discharge or release from active duty prevents the reduction of the basic pay of such individual by $1,200 is entitledto the number of months of assistance under this chapter that is equal to the lesser of—
 
 &emsp;(A) 36 multiplied by a fraction the numerator of which is the amount by which the basic pay of the individual has been reduced under section 3018(c) and the denominator of which is $1,200; or
 
@@ -103,8 +103,4 @@ Pub. L. 107–103, title I, §103(e), Dec. 27, 2001, 115 Stat. 980, provided tha
 #### Effective Date of 1988 Amendment
 
 Amendment by section 102(b)(2) of Pub. L. 100–689 effective July 1, 1985, with respect to individuals discharged or released for medical condition which preexisted service on active duty or in Selected Reserve and which Administrator determines is not service connected, and effective Oct. 1, 1987, with respect to individuals involuntarily discharged or released for convenience of Government as a result of reduction in force, see section 102(c) of Pub. L. 100–689, set out as a note under section 3011 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3031 of this title; title 42 section 12603.
 

@@ -16,7 +16,3 @@ Moneys in the Fund, other than moneys appropriated or transferred under paragrap
 
 (Pub. L. 98–180, title I, §135, as added Pub. L. 99–198, title I, §121, Dec. 23, 1985, 99 Stat. 1371.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4531 of this title.
-

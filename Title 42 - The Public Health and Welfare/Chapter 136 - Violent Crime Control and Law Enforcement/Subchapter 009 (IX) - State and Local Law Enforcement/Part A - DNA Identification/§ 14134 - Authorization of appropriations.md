@@ -14,7 +14,3 @@ There are authorized to be appropriated to the Federal Bureau of Investigation t
 
 (Pub. L. 103–322, title XXI, §210306, Sept. 13, 1994, 108 Stat. 2071.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

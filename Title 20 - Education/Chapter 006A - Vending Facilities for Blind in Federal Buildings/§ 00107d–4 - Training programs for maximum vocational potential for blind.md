@@ -18,7 +18,3 @@ Pursuant to an order of the United States District Court for the District of Col
 
 A prior section 8 of act June 20, 1936, which was classified to section 107f of this title, was renumbered section 10 by Pub. L. 93–516, §206.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 107a of this title.
-

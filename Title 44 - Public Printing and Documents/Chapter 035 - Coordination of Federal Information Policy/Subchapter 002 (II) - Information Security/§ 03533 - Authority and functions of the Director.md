@@ -20,7 +20,7 @@
 
 &emsp;(7) coordinating information security policies and procedures with related information resources management policies and procedures; and
 
-&emsp;(8) reporting to Congress no later than March 1 of each year on agency compliance with the requirements of this subchapter, including—
+&emsp;(8) reporting to Congress no later than March 1 of each year on agency compliancewith the requirements of this subchapter, including—
 
 &emsp;&emsp;(A) a summary of the findings of evaluations required by section 3535;
 
@@ -41,8 +41,4 @@
 #### Prior Provisions
 
 A prior section 3533, added Pub. L. 106–398, §1 \[\[div. A\], title X, §1061\], Oct. 30, 2000, 114 Stat. 1654, 1654A–266, set forth authority and functions of the Director prior to the general amendment of this subchapter by Pub. L. 107–296.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3534, 3535 of this title.
 

@@ -16,7 +16,3 @@ Provisions similar to those contained in this section, which authorized appropri
 
 1978—Pub. L. 95–304 inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1979.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 857–13, 857–17 of this title.
-

@@ -10,7 +10,7 @@ The Secretary may also designate officers and employees of any State or of any p
 
 #### (c) Warrants and other process for enforcement
 
-The judges of the district courts of the United States and the United States magistrate judges may, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process, including warrants or other process issued in admiralty proceedings in United States district courts, as may be required for enforcement of this subchapter and any regulations issued thereunder.
+The judges of the district courts of the United States and the United States magistrate judgesmay, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process, including warrants or other process issued in admiralty proceedings in United States district courts, as may be required for enforcement of this subchapter and any regulations issued thereunder.
 
 #### (d) Execution of process; arrest; search; seizure
 
@@ -44,15 +44,11 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 #### Change of Name
 
-“United States magistrate judges” substituted for “United States magistrates” in subsec. (c) pursuant tosection 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judges” substituted for “United States magistrates” in subsec. (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Transfer of Functions
 
 “Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1379, 1387 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “within”.</i>
 

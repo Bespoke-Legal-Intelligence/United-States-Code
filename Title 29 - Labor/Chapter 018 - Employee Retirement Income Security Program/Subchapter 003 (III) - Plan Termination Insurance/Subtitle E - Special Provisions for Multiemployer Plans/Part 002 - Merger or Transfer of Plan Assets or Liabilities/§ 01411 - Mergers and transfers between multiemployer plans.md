@@ -30,7 +30,3 @@ A plan to which liabilities are transferred under this section is a successor pl
 
 Part effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1108, 1415 of this title; title 26 section 4975.
-

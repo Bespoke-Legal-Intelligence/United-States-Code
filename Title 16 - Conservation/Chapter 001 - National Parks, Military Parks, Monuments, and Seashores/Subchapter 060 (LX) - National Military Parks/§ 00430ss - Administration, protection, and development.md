@@ -4,7 +4,3 @@ The administration, protection, and development of the Fort Necessity National B
 
 (Pub. L. 87–134, §4, Aug. 10, 1961, 75 Stat. 336.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430pp, 430qq, 430tt of this title.
-

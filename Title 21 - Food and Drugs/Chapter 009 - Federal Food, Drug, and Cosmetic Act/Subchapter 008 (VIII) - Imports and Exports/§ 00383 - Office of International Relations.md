@@ -38,7 +38,3 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 Section 15(b) of Pub. L. 101–629 directed Secretary of Health and Human Services, not later than 2 years after Nov. 28, 1990, to prepare and submit to the appropriate committees of Congress a report on the activities of the Office of International Relations under 21 U.S.C. 383.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 335a, 374 of this title.
-

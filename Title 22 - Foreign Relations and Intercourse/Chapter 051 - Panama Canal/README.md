@@ -214,6 +214,7 @@ I74subpart i—funds
 | (b) | Tolls and other receipts into Panama Canal Revolving Fund; restriction on use of funds. |
 | (c) | Authority of Commission to make deposits. |
 | (d) | Costs of implementation. |
+| (e) | Termination of Commission and Office of Transition Administration; transfer of Fund. |
 | [3712a.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20003%20-%20Funds%20and%20Accounts/Subpart%20001%20%28i%29%20-%20Funds/%C2%A7%2003712a%20-%20Authority%20to%20lease%20office%20space.md) | Authority to lease office space. |
 | [3713\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20003%20-%20Funds%20and%20Accounts/Subpart%20001%20%28i%29%20-%20Funds/%C2%A7%2003713%20-%20Panama%20Canal%20emergency%20authority.md) | Panama Canal emergency authority. |
 | [3714\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20003%20-%20Funds%20and%20Accounts/Subpart%20001%20%28i%29%20-%20Funds/%C2%A7%2003714%20-%20Borrowing%20authority.md) | Borrowing authority. |
@@ -407,9 +408,27 @@ I74subpart i—operation of canal
 
 #### SUBCHAPTER II—TREATY TRANSITION PERIOD
 
+#### Part 1—Laws Continued in Force
+
 |  |
 | :--- |
-| 3831 to 3852. Repealed. |
+| 3831\. Repealed. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part 2—Courts
+
+|  |
+| :--- |
+| 3841 to 3844. Repealed. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part 3—Transition Authority
+
+|  |
+| :--- |
+| 3851, 3852. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -14,7 +14,7 @@ With respect to the transfer of a small business loan or lease of personal prope
 
 #### (c) Qualified institutions criteria
 
-An insured depository institution is a qualified insured depository institution for purposes of this section if, without regard to the accounting principles or capital requirements referred to in subsections (a) and (b) of this section, the institution is—
+An insured depository institution is a qualified insured depository institution for purposesof this section if, without regard to the accounting principles or capital requirements referred to in subsections (a) and (b) of this section, the institution is—
 
 &emsp;(1) well capitalized; or
 
@@ -44,7 +44,7 @@ Not later than 180 days after September 23, 1994, each appropriate Federal banki
 
 #### (1) In general
 
-&emsp;At the discretion of the appropriate Federal banking agency, this section shall not apply ifthe regulations of the agency provide that the aggregate amount of capital and reserves required with respect to the transfer of small business loans and leases of personal property with recourse does not exceed the aggregate amount of capital and reserves that would be required under subsection (b) of this section.
+&emsp;At the discretion of the appropriate Federal banking agency, this section shall not apply if the regulations of the agency provide that the aggregate amount of capital and reserves required with respect to the transfer of small business loans and leases of personal property with recourse does not exceed the aggregate amount of capital and reserves that would be required under subsection (b) of this section.
 
 #### (2) Existing transactions not affected
 
@@ -77,8 +77,4 @@ For purposes of this section—
 #### Codification
 
 Section was enacted as part of the Small Business Loan Securitization and Secondary Market Enhancement Act of 1994 and as part of the Riegle Community Development and Regulatory Improvement Act of 1994, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4808 of this title.
 

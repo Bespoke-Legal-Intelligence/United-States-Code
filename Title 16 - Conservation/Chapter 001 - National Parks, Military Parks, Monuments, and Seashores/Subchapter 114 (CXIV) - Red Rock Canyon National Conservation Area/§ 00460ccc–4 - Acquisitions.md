@@ -22,7 +22,7 @@ Pub. L. 107–282, title I, Nov. 6, 2002, 116 Stat. 1995, provided that:
 
 #### “SEC. 101. SHORT TITLE.
 
-“This title \[amending section 460ccc–1 of this title and enacting this note\] may be cited as the ‘Red RockCanyon National Conservation Area Protection and Enhancement Act of 2002’.
+“This title \[amending section 460ccc–1 of this title and enacting this note\] may be cited as the ‘Red Rock Canyon National Conservation Area Protection and Enhancement Act of 2002’.
 
 #### “SEC. 102. DEFINITIONS.
 
@@ -94,7 +94,7 @@ Hazardous materials.—As a condition of the conveyance under ––subsection \
 
 &emsp;“(2)
 
-Survey.—As a condition of the conveyance under subsection (a)(1), the Secretary shall require that not later than 90 days after the date of the offer referred to in subsection (a), the Corporation shall provide a metes and bounds survey, that is acceptable to the Corporation, Clark County, and the Secretary, of the common boundary between the parcels of land to be conveyed under subsection (a).
+Survey.—As a condition of the conveyance under subsection (a)(1), the Secretary shall require that not later than 90 days after the date of the offer referred to in subsection (a), the Corporation shall provide a metes and bounds survey, that is acceptableto the Corporation, Clark County, and the Secretary, of the common boundary between the parcels of land to be conveyed under subsection (a).
 
 &emsp;“(3)
 

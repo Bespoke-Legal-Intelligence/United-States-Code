@@ -12,7 +12,7 @@
 
 (c)(1) Medical quality assurance records are not subject to discovery and may not be admitted into evidence in any judicial or administrative proceeding, except as provided in subsection (d).
 
-(2) Except as provided in this section, an individual who reviews or creates medical quality assurance records for the Coast Guard or who participates in any proceeding that reviews or creates the records may not testify in any judicial or administrative proceeding with respect to the records or with respect to any finding, recommendation, evaluation, opinion, or action taken by that person in connection with the records.
+(2) Except as provided in this section, an individual who reviews or creates medical quality assurance records for the Coast Guard or who participates in any proceeding that reviews orcreates the records may not testify in any judicial or administrative proceeding with respect to the records or with respect to any finding, recommendation, evaluation, opinion, or action taken by that person in connection with the records.
 
 (d)(1) Subject to paragraph (2), a medical quality assurance record may be disclosed, and an individual referred to in subsection (c) may testify in connection with a record only as follows:
 
@@ -42,19 +42,21 @@
 
 &emsp;(1) authority to withhold from any person aggregate statistical information regarding the results of Coast Guard medical quality assurance programs;
 
-&emsp;(2) authority to withhold any medical quality assurance record from a committee of either House of Congress, any joint committee of Congress, or the General Accounting Office if the record pertains to any matter within their respective jurisdictions;
+&emsp;(2) authority to withhold any medical quality assurance record from a committee of either House of Congress, any joint committee of Congress, or the Government Accountability Office if the record pertains to any matter within their respective jurisdictions;
 
 &emsp;(3) limiting access to the information in a record created and maintained outside a medical quality assurance program, including a patient's medical records, on the grounds that the information was presented during meetings of a review body that are part of a medical quality assurance program.
 
 (i) Except as otherwise provided in this section, an individual who willfully discloses a medical quality assurance record knowing that the record is a medical quality assurance record, is liable to the United States Government for a civil penalty of not more than $3,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
 
-(Added Pub. L. 102–587, title V, §5203(a), Nov. 4, 1992, 106 Stat. 5072; amended Pub. L. 104–324, title VII, §746(b), Oct. 19, 1996, 110 Stat. 3943.)
+(Added Pub. L. 102–587, title V, §5203(a), Nov. 4, 1992, 106 Stat. 5072; amended Pub. L. 104–324, title VII, §746(b), Oct. 19, 1996, 110 Stat. 3943; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Prior Provisions
 
 A prior section 645, acts Aug. 4, 1949, ch. 393, §1, 63 Stat. 547; Sept. 3, 1954, ch. 1263, §34, 68 Stat. 1239; Aug. 23, 1958, Pub. L. 85–738, §§4, 5, 72 Stat. 833, provided for settlement of claims incident to activities of Coast Guard, prior to repeal, effective two years after Sept. 26, 1968, by Pub. L. 90–525, §2, Sept. 26, 1968, 82 Stat. 877. See section 2733 of Title 10, Armed Forces.
 
 #### Amendments
+
+2004—Subsec. (h)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1996—Subsecs. (d) to (h). Pub. L. 104–324 redesignated subsec. (d), relating to disclosure by person with access to a record or testimony, as (e) and redesignated former subsecs. (e) to (h) as (f) to (i), respectively.
 

@@ -4,7 +4,3 @@ The right to alter, amend, or repeal sections 491 to 498 of this title, is expre
 
 (Mar. 23, 1906, ch. 1130, §8, 34 Stat. 86.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 491, 492, 493, 494, 495, 497, 508, 530, 535 of this title.
-

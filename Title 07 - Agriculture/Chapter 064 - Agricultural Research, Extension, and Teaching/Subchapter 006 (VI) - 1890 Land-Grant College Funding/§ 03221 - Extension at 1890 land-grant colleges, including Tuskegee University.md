@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated annually such sums as Congress may determine necessary to support continuing agricultural and forestry extension at colleges eligible to receive funds under the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University (hereinafter in this section referred to as “eligible institutions”).
+&emsp;There are authorized to be appropriated annually such sums as Congress may determine necessary to support continuing agricultural and forestry extension at colleges eligible toreceive funds under the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University (hereinafter in this section referred to as “eligible institutions”).
 
 #### (2) Minimum amount
 
@@ -44,7 +44,7 @@ The State director of the cooperative extension service and the extension admini
 
 #### (2) Time and manner of payment; related reports
 
-&emsp;The amount to which an eligible institution is entitled shall be paid in equal quarterly payments on or about October 1, January 1, April 1, and July 1 of each year to the treasurer or other officer of the eligible institution duly authorized to receive such payments and such officer shall be required to report to the Secretary on or about the first day of December of each year a detailed statement of the amount so received during the previous fiscal year and its disbursement, on forms prescribed by the Secretary.
+&emsp;The amount to which an eligible institution is entitled shall be paid in equal quarterly payments on or about October 1, January 1, April 1, and July 1 of each year to the treasurer or other officer of the eligible institution duly authorized to receive such payments and such officer shall be required to report to the Secretary on or about the first day of December of each year a detailed statement of the amount so received during the previous fiscalyear and its disbursement, on forms prescribed by the Secretary.
 
 #### (3) Requirements related to plan of work
 
@@ -100,7 +100,7 @@ Subsecs. (a), (b). Pub. L. 105–185, §226(c)(2)(B), substituted “Tuskegee Un
 
 Subsec. (d). Pub. L. 105–185, §225(a), inserted subsec. heading, designated existing provisions as pars. (1) and (2) and inserted par. headings, in par. (2) substituted “The amount to which an eligible institution is entitled” for “Such sums”, and added pars. (3) to (5).
 
-Subsecs. (f), (g). Pub. L. 105–185, §103(f)(3)(A), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “If the Secretary finds that an eligible institution is not entitled to receive its shareof the annual appropriation, the facts and reasons therefor shall be reported to the President, and the amount involved shall be kept separate in the Treasury until the expiration of the next Congress in order that the institution may, if it should so desire, appeal to Congress from the determination of the Secretary. If the next Congress does not direct such sum to be paid, it shall be carried to surplus.”
+Subsecs. (f), (g). Pub. L. 105–185, §103(f)(3)(A), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “If the Secretary finds that an eligible institution is not entitled to receive its share of the annual appropriation, the facts and reasons therefor shall be reported to the President, and the amount involved shall be kept separate in the Treasury until the expiration of the next Congress in order that the institution may, if it should so desire, appeal to Congress from the determination of the Secretary. If the next Congress does not direct such sum to be paid, it shall be carried to surplus.”
 
 1996—Subsec. (a). Pub. L. 104–127 inserted before period at end of third sentence “, except that for the purpose of this calculation, the total appropriations shall not include amounts made available after September 30, 1995, under section 3(d) of that Act (7 U.S.C. 343(d)), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section 3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary”.
 
@@ -129,8 +129,4 @@ Subchapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out
 #### West Virginia State College, Institute, West Virginia
 
 Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1141, provided in part that West Virginia State College in Institute, West Virginia: “for fiscal year 2000 and thereafter shall be designated as an eligible institution under section 1444 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3221)”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3222d of this title; title 40 section 525.
 

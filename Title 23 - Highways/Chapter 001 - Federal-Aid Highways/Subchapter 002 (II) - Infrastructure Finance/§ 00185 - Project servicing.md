@@ -22,7 +22,3 @@ Assistance From Expert Firms.—The Secretary may retain the services of expert 
 
 (Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 249.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 182 of this title.
-

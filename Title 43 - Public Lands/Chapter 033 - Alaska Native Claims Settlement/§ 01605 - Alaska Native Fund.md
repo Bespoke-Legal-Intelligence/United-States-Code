@@ -40,7 +40,7 @@ Subsec. (a)(1)(E). Pub. L. 94–273 inserted provision relating to transfer to t
 
 Pub. L. 96–487, title XIV, §1414, Dec. 2, 1980, 94 Stat. 2498, provided that:
 
-“(a) Moneys appropriated for deposit in the Alaska Native Fund for the fiscal year following the enactment of this Act \[Dec. 2, 1980\], shall, for the purposesof section 5 of Public Law 94–204 \[set out below\] only, be deposited into the Alaska Native Fund on the first day of the fiscal year for which the moneys are appropriated, and shall be distributed at the end of the first quarter of the fiscal year in accordance with section 6(c) of the Alaska Native Claims Settlement Act \[subsec. (c) of this section\] notwithstanding any other provision of law.
+“(a) Moneys appropriated for deposit in the Alaska Native Fund for the fiscal year following the enactment of this Act \[Dec. 2, 1980\], shall, for the purposes of section 5 of Public Law 94–204 \[set out below\] only, be deposited into the Alaska Native Fund on the first day of the fiscal year for which the moneys are appropriated, and shall be distributed at the end of the first quarter of the fiscal year in accordance with section 6(c) of the Alaska Native Claims Settlement Act \[subsec. (c) of this section\] notwithstanding any other provision of law.
 
 “(b) For the fiscal year in which this Act is enacted \[fiscal year 1981\], the money appropriated shall be deposited within 10 days of enactment \[Dec. 2, 1980\], unless it has already been deposited in accordance with existing law, and shall be distributed no later than the end of the quarter following the quarter in which the money is deposited: <i>Provided</i>, That if the money is already deposited at the time of enactment of this Act, it must be distributed at the end of the quarter in which this Act is enacted.
 
@@ -49,8 +49,4 @@ Pub. L. 96–487, title XIV, §1414, Dec. 2, 1980, 94 Stat. 2498, provided that:
 #### Alaska Native Fund Viewed as Trust for Indian Tribes for Purposes of Interest and Investment
 
 Pub. L. 94–204, §5, Jan. 2, 1976, 89 Stat. 1147, provided that: “For purposes of the first section of the Act of February 12, 1929 (45 Stat. 1164), as amended \[section 161a of Title 25, Indians\], and the first section of the Act of June 24, 1938 (52 Stat. 1037) \[section 162a of Title 25\], the Alaska Native Fund shall, pending distributions under section 6(c) of the Settlement Act \[subsec. (c) of this section\] be considered to consist of funds held in trust by the Government of the United States for the benefit of Indian tribes: <i>Provided</i>, That nothing in this section shall be construed to create or terminate any trust relationship between the United States and any corporation or individual entitled to receive benefits under the Settlement Act \[this chapter\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1602, 1606, 1619, 1621, 1627 of this title.
 

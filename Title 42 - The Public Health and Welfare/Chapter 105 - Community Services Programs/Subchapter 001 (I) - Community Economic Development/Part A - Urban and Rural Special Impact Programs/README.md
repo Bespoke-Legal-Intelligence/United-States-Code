@@ -1,9 +1,5 @@
 Part A—Urban and Rural Special Impact Programs
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 9802, 9819 of this title; title 15 section 632.
-
 
 ---
 

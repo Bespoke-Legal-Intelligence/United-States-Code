@@ -64,7 +64,3 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 Amendment by Pub. L. 98–353 effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out as an Effective Date note under section 151 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title; title 26 section 7433.
-

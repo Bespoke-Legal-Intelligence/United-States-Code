@@ -1,6 +1,6 @@
 ### §3345. Acting officer
 
-(a) If an officer of an Executive agency (including the Executive Office of the President, and other than the General Accounting Office) whose appointment to office is required to be made by the President, by and with the advice and consent of the Senate, dies, resigns, or is otherwise unable to perform the functions and duties of the office—
+(a) If an officer of an Executive agency (including the Executive Office of the President, and other than the Government Accountability Office) whose appointment to office is required to be made by the President, by and with the advice and consent of the Senate, dies, resigns, or is otherwise unable to perform the functions and duties of the office—
 
 &emsp;(1) the first assistant to the office of such officer shall perform the functions and duties of the office temporarily in an acting capacity subject to the time limitations of section 3346;
 
@@ -34,11 +34,15 @@
 
 (2) For purposes of this section and sections 3346, 3347, 3348, 3349, 3349a, and 3349d, the expiration of a term of office is an inability to perform the functions and duties of such office.
 
-(Added Pub. L. 105–277, div. C, title I, §151(b), Oct. 21, 1998, 112 Stat. 2681–611.)
+(Added Pub. L. 105–277, div. C, title I, §151(b), Oct. 21, 1998, 112 Stat. 2681–611; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
 The General Schedule, referred to in subsec. (a)(3)(B), is set out under section 5332 of this title.
+
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
 
 #### Prior Provisions
 
@@ -98,7 +102,7 @@ Ex. Ord. No. 11957, Jan. 13, 1977, 42 F.R. 3295, which designated certain office
 
 #### Executive Order No. 12343
 
-Ex. Ord. No. 12343, Jan. 27, 1982, 47 F.R. 4225, which designated certain officers of the Department of Stateto act as Secretary of State during any period of unavailability of both the Secretary and the Deputy Secretary of State, was revoked by Ex. Ord. No. 13251, §4, Dec. 28, 2001, 67 F.R. 1599, set out below.
+Ex. Ord. No. 12343, Jan. 27, 1982, 47 F.R. 4225, which designated certain officers of the Department of State to act as Secretary of State during any period of unavailability of both the Secretary and the Deputy Secretary of State, was revoked by Ex. Ord. No. 13251, §4, Dec. 28, 2001, 67 F.R. 1599, set out below.
 
 #### Ex. Ord. No. 12879. Order of Succession of Officers To Act as Secretary of the Navy
 
@@ -152,7 +156,7 @@ Section 1. <i>Succession To Act as the Secretary of the Army.</i>
 
 &emsp;(1) The designation of an Acting Secretary of the Army under this subsection applies only for the duration of the Secretary's absence or disability, and does not affect the authority of the Secretary to resume the powers of the Secretary's office.
 
-&emsp;(2) When the Secretary of the Army is temporarily absent from the position, the Secretary of the Army may continue to exercise the powers and fulfill the duties of his office during his absence, notwithstanding the provisions of this order.
+&emsp;(2) When the Secretary of the Army is temporarily absent from the position, the Secretary of the Armymay continue to exercise the powers and fulfill the duties of his office during his absence, notwithstanding the provisions of this order.
 
 (c) Precedence among those officers designated in paragraph (a) of this section who have the same date of appointment shall be determined by the Secretary of the Army at the time that such appointments are made.
 
@@ -188,7 +192,7 @@ Section 1. <i>Succession To Act as the Secretary of the Air Force.</i>
 
 (d) Notwithstanding paragraphs (a) and (b) of this section, an officer shall not act for or exercise the powers of the Secretary of the Air Force under this order if that officer serves only in an acting capacity in the position that would otherwise entitle him to do so.
 
-Sec. 2. <i>Temporary Nature of Succession</i>. Succession to act for and exercise the powers of the Secretary of theAir Force pursuant to this order shall be on a temporary or interim basis and shall not have the effect of vacating the statutory appointment held by the successor.
+Sec. 2. <i>Temporary Nature of Succession</i>. Succession to act for and exercise the powers of the Secretary of the Air Force pursuant to this order shall be on a temporary or interim basis and shall not have the effect of vacating the statutory appointment held by the successor.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -248,7 +252,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13241, Dec. 18, 2001, 66 F.R. 66258, as amended by Ex. Ord. No. 13261, §4(a), Mar. 19, 2002, 67 F.R. 13243, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including Subchapter III of Chapter 33 of title 5 of the United States Code, it is hereby ordered that:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including Subchapter III of Chapter 33 of title 5 of the United States Code, it is hereby ordered that:
 
 Section 1. Subject to the provisions of section 3 of this Executive Order, the officers named in section 2, in the order listed, shall act as and perform the functions and duties of the office of Secretary of Agriculture (Secretary) during any period when both the Secretary and the Deputy Secretary of Agriculture (Deputy Secretary) have died, resigned, or are otherwise unable to perform the functions and duties of the office of Secretary.
 
@@ -364,7 +368,7 @@ Ex. Ord. No. 13244, Dec. 18, 2001, 66 F.R. 66267, as amended by Ex. Ord. No. 132
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including Subchapter III of Chapter 33 of title 5 of the United States Code, it is hereby ordered that:
 
-Section 1. Subject to the provisions of section 3 of this Executive Order, the officers named in section 2, in the order listed, shall act as and perform the functions and duties of the office of Secretary of the Interior (Secretary) during any period when both the Secretary and the Deputy Secretary of the Interior (Deputy Secretary) have died, resigned, or are otherwise unable to perform the functions and duties of the office of Secretary.
+Section 1. Subject to the provisions of section 3 of this Executive Order, the officers named in section 2, inthe order listed, shall act as and perform the functions and duties of the office of Secretary of the Interior (Secretary) during any period when both the Secretary and the Deputy Secretary of the Interior (Deputy Secretary) have died, resigned, or are otherwise unable to perform the functions and duties of the office of Secretary.
 
 Sec. 2. <i>Order of Succession.</i>
 
@@ -602,7 +606,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13261. Providing an Order of Succession in the Environmental Protection Agency and Amending Certain Orders on Succession
 
-Ex. Ord. No. 13261, Mar. 19, 2002, 67 F.R. 13243, provided:
+Ex. Ord. No. 13261, Mar. 19, 2002, 67 F.R. 13243, as amended by Ex. Ord. No. 13344, July 7, 2004, 69 F.R. 41747, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345, <i>et seq</i>., it is hereby ordered that:
 
@@ -610,11 +614,11 @@ Section 1. Subject to the provisions of section 3 of this order, the officers na
 
 Sec. 2. <i>Order of Succession.</i>
 
-(a) Assistant Administrator for Toxic Substances;
+(a) Assistant Administrator, Office of Solid Waste;
 
-(b) Assistant Administrator (Air and Radiation);
+(b) Assistant Administrator for Toxic Substances;
 
-(c) Assistant Administrator, Office of Solid Waste;
+(c) Assistant Administrator (Air and Radiation).\[;\]
 
 (d) Assistant Administrator (Water Programs);
 
@@ -660,6 +664,42 @@ Sec. 4. <i>Amendments to Certain Executive Orders providing Orders of Succession
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13370. Providing an Order of Succession in the Office of Management and Budget
+
+Ex. Ord. No. 13370, Jan. 13, 2005, 70 F.R. 3137, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America and pursuant to the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
+
+Section 1. During any period when the Director of the Office of Management and Budget (Director) and the Deputy Director of the Office of Management and Budget (Deputy Director) have died, resigned, or otherwise become unable to perform the functions and duties of the office of Director, the following officers of the Office of Management and Budget, in the order listed, shall perform the functions and duties of the office of Director, if they are eligible to act as Director under the provisions of the Federal Vacancies Reform Act of 1998, until such time as at least one of the officers mentioned above is able to perform the functions and duties of the office of Director:
+
+&emsp;Deputy Director for Management;
+
+&emsp;Executive Associate Director;
+
+&emsp;Associate Director (National Security Programs);
+
+&emsp;Associate Director (General Government Programs);
+
+&emsp;Associate Director (Human Resource Programs);
+
+&emsp;Associate Director (Natural Resource Programs);
+
+&emsp;General Counsel;
+
+&emsp;Administrator for Federal Procurement Policy;
+
+&emsp;Administrator of the Office of Information and Regulatory Affairs;
+
+&emsp;Controller, Office of Federal Financial Management; and
+
+&emsp;Administrator of the Office of Electronic Government.
+
+Sec. 2. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as Director pursuant to this order.
+
+(b) Notwithstanding the provisions of this order, the President retains discretion, to the extent permitted by law, to depart from this order in designating an acting Director.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Designation of Officers of the Federal Emergency Management Agency To Act as Director of the Federal Emergency Management Agency
 
 Memorandum of President of the United States, Nov. 26, 2002, 67 F.R. 79513, provided:
@@ -670,7 +710,7 @@ By the authority vested in me as President under the Constitution and laws of th
 
 Section 1. <i>Order of Succession.</i>
 
-During any period when both the Director of the Federal Emergency Management Agency (Director) and the Deputy Director of the Federal Emergency Management Agency (Deputy Director) have died, resigned, or otherwise become unable to perform the functions and duties of the office of Director, the following officers ofthe Federal Emergency Management Agency, in the order listed, shall perform the functions and duties of the office of Director, if they are eligible to act as Director under the provisions of the Federal Vacancies Reform Act of 1998, until such time as the Director or Deputy Director is able to perform the functions and duties of the office of Director:
+During any period when both the Director of the Federal Emergency Management Agency (Director) and the Deputy Director of the Federal Emergency Management Agency (Deputy Director) have died, resigned, or otherwise become unable to perform the functions and duties of the office of Director, the following officers of the Federal Emergency Management Agency, in the order listed, shall perform the functions and duties of the office of Director, if they are eligible to act as Director under the provisions of the Federal Vacancies Reform Act of 1998, until such time as the Director or Deputy Director is able to perform the functions and duties of the office of Director:
 
 Administrator of the United States Fire Administration;
 
@@ -775,8 +815,4 @@ Sec. 3. <i>Publication.</i>
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3346, 3347, 3348, 3349, 3349b, 3349c, 3349d, 5535 of this title; title 7 section 2211; title 28 section 508.
 

@@ -82,9 +82,5 @@ The general land acquisition regulations of the Bureau of Indian Affairs, contai
 
 “Sections 3113 and 3114(a) to (d) of title 40” substituted in subsec. (e)(2) for “the first section of the Act of August 1, 1888 (ch. 728, 25 Stat. 357; 40 U.S.C. 257), and the first section of the Act of February 26, 1931 (ch. 307, 46 Stat. 1421; 40 U.S.C. 258a)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 941a of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -6,7 +6,7 @@ Definition.—In this section, “national of the United States” has the meani
 
 (b)
 
-Offense.—A person who, being a national of the United States, kills or attempts to kill anational of the United States while such national is outside the United States but within the jurisdiction of another country shall be punished as provided under sections 1111, 1112, and 1113.
+Offense.—A person who, being a national of the United States, kills or attempts to kill a national of the United States while such national is outside the United States but within the jurisdiction of another country shall be punished as provided under sections 1111, 1112, and 1113.
 
 (c)
 
@@ -15,8 +15,4 @@ Limitations on Prosecution.—(1) No prosecution may be instituted against any p
 (2) No prosecution shall be approved under this section unless the Attorney General, in consultation with the Secretary of State, determines that the conduct took place in a country in which the person is no longer present, and the country lacks the ability to lawfully secure the person's return. A determination by the Attorney General under this paragraph is not subject to judicial review.
 
 (Added Pub. L. 103–322, title VI, §60009(a), Sept. 13, 1994, 108 Stat. 1972.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1117 of this title; title 42 section 14135a.
 

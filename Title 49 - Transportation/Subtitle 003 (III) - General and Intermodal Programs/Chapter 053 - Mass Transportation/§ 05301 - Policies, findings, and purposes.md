@@ -32,7 +32,7 @@ Rapid Urbanization and Continuing Population Dispersal.—Rapid urbanization and
 
 (d)
 
-Elderly Individuals and Individuals With Disabilities.—It is the policy of the Government that elderly individuals and individuals with disabilities have the same right as other individuals to use mass transportation service and facilities. Special efforts shall be made in planning and designing mass transportation service and facilities to ensure that mass transportation can be used by elderly individuals and individuals with disabilities. All programs of the Government assisting mass transportation shall carry out this policy.
+Elderly Individuals and Individuals With Disabilities.—It is the policy of the Government that elderly individuals and individuals with disabilities have the same right as other individuals to use mass transportation service and facilities. Special efforts shall be made inplanning and designing mass transportation service and facilities to ensure that mass transportation can be used by elderly individuals and individuals with disabilities. All programs of the Government assisting mass transportation shall carry out this policy.
 
 (e)
 
@@ -142,9 +142,9 @@ Study.—Not later than 6 months after the date of enactment of this Act \[June 
 
 Terms of Agreement.—The agreement entered into in subsection (a) shall provide that—
 
-&emsp;“(1) the Transportation Research Board, in conducting the study, consider the number of grant recipients that have contracted out services, the size of the population served by such grant recipients, the basis for decisions regarding contracting out, and the extent to which contracting out was affected by theintegration and coordination of resources of transit agencies and other Federal agencies and programs; and
+&emsp;“(1) the Transportation Research Board, in conducting the study, consider the number of grant recipients that have contracted out services, the size of the population served by such grant recipients, the basis for decisions regarding contracting out, and the extent to which contracting out was affected by the integration and coordination of resources of transit agencies and other Federal agencies and programs; and
 
-&emsp;“(2) the panel conducting the study shall include representatives of transit agencies, employees of transit agencies, private contractors, academic and policy analysts, and other interested persons.
+&emsp;“(2) the panel conducting the study shall include representatives of transit agencies, employees oftransit agencies, private contractors, academic and policy analysts, and other interested persons.
 
 “(c)
 
@@ -183,8 +183,4 @@ Findings.—The Congress finds that—
 “(b)
 
 Policy.—The Congress strongly supports Federal policy that promotes increased use of employer-provided commuter transit benefits. Such a policy ‘levels the playing field’ between transportation modes and is consistent with important national objectives of energy conservation, reduced reliance on energy imports, lessened congestion, and clean air.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5303, 5307, 5310, 5324 of this title.
 

@@ -4,7 +4,7 @@ The Congress authorizes and directs that, to the fullest extent possible: (1) th
 
 &emsp;(A) utilize a systematic, interdisciplinary approach which will insure the integrated use of the natural and social sciences and the environmental design arts in planning and in decisionmaking which may have an impact on man's environment;
 
-&emsp;(B) identify and develop methods and procedures, in consultation with the Council on Environmental Quality established by subchapter II of this chapter, which will insure that presently unquantified environmentalamenities and values may be given appropriate consideration in decisionmaking along with economic and technical considerations;
+&emsp;(B) identify and develop methods and procedures, in consultation with the Council on Environmental Quality established by subchapter II of this chapter, which will insure that presently unquantified environmental amenities and values may be given appropriate consideration in decisionmaking along with economic and technical considerations;
 
 &emsp;(C) include in every recommendation or report on proposals for legislation and other major Federal actions significantly affecting the quality of the human environment, a detailed statement by the responsible official on—
 
@@ -28,7 +28,7 @@ The Congress authorizes and directs that, to the fullest extent possible: (1) th
 
 &emsp;&emsp;(iii) the responsible Federal official independently evaluates such statement prior to its approval and adoption, and
 
-&emsp;&emsp;(iv) after January 1, 1976, the responsible Federal official provides early notification to, and solicits the views of, any other State or any Federal land management entity of any action or any alternative thereto which may have significant impacts upon such State or affected Federal land management entity and, if there is any disagreement on such impacts, prepares a written assessment of such impacts and views for incorporation into such detailed statement.
+&emsp;&emsp;(iv) after January 1, 1976, the responsible Federal official provides early notification to, and solicits the views of, any other State or any Federal land management entity of any action or any alternative thereto which may have significant impacts upon such State or affected Federal land management entity and, if there is any disagreement on such impacts, prepares a written assessmentof such impacts and views for incorporation into such detailed statement.
 
 > &emsp;The procedures in this subparagraph shall not relieve the Federal official of his responsibilities for the scope, objectivity, and content of the entire statement or of any other responsibility under this chapter; and further, this subparagraph does not affect the legal sufficiency of statements prepared by State agencies with less than statewide jurisdiction.<sup>1</sup>
 
@@ -56,9 +56,41 @@ Pub. L. 104–88, title IV, §401, Dec. 29, 1995, 109 Stat. 955, provided that: 
 
 &emsp;“(2) the Army Corps of Engineers has found that the activity has no significant impact.”
 
-#### Section Referred to in Other Sections
+#### Ex. Ord. No. 13352. Facilitation of Cooperative Conservation
 
-This section is referred to in sections 2242, 2297h–5, 4334, 6508, 7153, 7274g, 7609, 8473, 9117, 10132, 10133, 10134, 10141, 10155, 10161, 10165, 10196, 10197 of this title; title 15 section 793; title 16 sections 410hh, 544<i>o</i>, 1379, 1536, 1604, 2403a, 3120, 3149, 3232, 6514; title 21 section 379<i>o</i>; title 23 sections 112, 133; title 25 sections 2103, 2104; title 30 sections 185, 226, 1147, 1292, 1419; title 33 section 1504; title 43 sections 1331, 1344, 1751, 2005, 2006; title 45 sections 791, 1116; title 49 sections 40128, 44715; title 50 App. sections 2095, 2096.
+Ex. Ord. No. 13352, Aug. 26, 2004, 69 F.R. 52989, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. The purpose of this order is to ensure that the Departments of the Interior, Agriculture, Commerce, and Defense and the Environmental Protection Agency implement laws relating to the environment and natural resources in a manner that promotes cooperative conservation, with an emphasis on appropriate inclusion of local participation in Federal decisionmaking, in accordance with their respective agency missions, policies, and regulations.
+
+Sec. 2. <i>Definition</i>. As used in this order, the term “cooperative conservation” means actions that relate to use, enhancement, and enjoyment of natural resources, protection of the environment, or both, and that involve collaborative activity among Federal, State, local, and tribal governments, private for-profit and nonprofit institutions, other nongovernmental entities and individuals.
+
+Sec. 3. <i>Federal Activities</i>. To carry out the purpose of this order, the Secretaries of the Interior, Agriculture, Commerce, and Defense and the Administrator of the Environmental Protection Agency shall, to the extent permitted by law and subject to the availability of appropriations and in coordination with each other as appropriate:
+
+(a) carry out the programs, projects, and activities of the agency that they respectively head that implement laws relating to the environment and natural resources in a manner that:
+
+&emsp;(i) facilitates cooperative conservation;
+
+&emsp;(ii) takes appropriate account of and respects the interests of persons with ownership or other legally recognized interests in land and other natural resources;
+
+&emsp;(iii) properly accommodates local participation in Federal decisionmaking; and
+
+&emsp;(iv) provides that the programs, projects, and activities are consistent with protecting public health and safety;
+
+(b) report annually to the Chairman of the Council on Environmental Quality on actions taken to implement this order; and
+
+(c) provide funding to the Office of Environmental Quality Management Fund (42 U.S.C. 4375) for the Conference for which section 4 of this order provides.
+
+Sec. 4. <i>White House Conference on Cooperative Conservation</i>. The Chairman of the Council on Environmental Quality shall, to the extent permitted by law and subject to the availability of appropriations:
+
+(a) convene not later than 1 year after the date of this order, and thereafter at such times as the Chairman deems appropriate, a White House Conference on Cooperative Conservation (Conference) to facilitate the exchange of information and advice relating to (i) cooperative conservation and (ii) means for achievement of the purpose of this order; and
+
+(b) ensure that the Conference obtains information in a manner that seeks from Conference participants their individual advice and does not involve collective judgment or consensus advice or deliberation.
+
+Sec. 5. <i>General Provision</i>. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities or entities, its officers, employees or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -100,7 +100,3 @@ Subsecs. (d) to (f). Pub. L. 103–279, §4(c), added subsecs. (d) to (f).
 
 1964—Subsecs. (a), (b). Pub. L. 88–260 substituted “John F. Kennedy Center for the Performing Arts” for “National Cultural Center” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 76h of this title.
-

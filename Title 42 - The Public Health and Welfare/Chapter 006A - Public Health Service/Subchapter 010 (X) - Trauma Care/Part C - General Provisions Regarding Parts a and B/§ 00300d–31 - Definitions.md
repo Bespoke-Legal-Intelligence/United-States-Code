@@ -34,7 +34,3 @@ For purposes of this part and parts A and B of this subchapter:
 
 Amendment by Pub. L. 102–321 effective July 10, 1992, with provision for programs providing financial assistance, see section 801(b), (d) of Pub. L. 102–321, set out as a note under section 236 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300d–61 of this title.
-

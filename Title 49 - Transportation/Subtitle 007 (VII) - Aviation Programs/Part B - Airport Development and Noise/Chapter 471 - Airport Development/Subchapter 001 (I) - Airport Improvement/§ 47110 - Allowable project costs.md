@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—Except as provided in section 47111 of this title, the United States Government may pay or be obligated to pay, from amounts appropriated to carry out this subchapter, a cost incurred in carrying out a project under this subchapter only if the Secretary of Transportation decides the cost is allowable.
+General Authority.—Except as provided in section 47111 of this title, the United StatesGovernment may pay or be obligated to pay, from amounts appropriated to carry out this subchapter, a cost incurred in carrying out a project under this subchapter only if the Secretary of Transportation decides the cost is allowable.
 
 (b)
 
@@ -76,7 +76,7 @@ Letters of Intent.—(1) The Secretary may issue a letter of intent to the spons
 
 (3) A letter of intent issued under paragraph (1) of this subsection is not an obligation of the Government under section 1501 of title 31, and the letter is not deemed to be an administrative commitment for financing. An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriation laws.
 
-(4) The total estimated amount of future Government obligations covered by all outstanding letters of intent under paragraph (1) of this subsection may not be more than the amount authorized to carry out section 48103 of this title,less an amount reasonably estimated by the Secretary to be needed for grants under section 48103 that are not covered by a letter.
+(4) The total estimated amount of future Government obligations covered by all outstanding letters of intent under paragraph (1) of this subsection may not be more than the amount authorized to carry out section 48103 of this title, less an amount reasonably estimated by the Secretary to be needed for grants under section 48103 that are not covered by a letter.
 
 (5)
 
@@ -162,7 +162,7 @@ Subsection (b)(3) is substituted for “in the opinion of the Secretary it is re
 
 Subsection (b)(5) is substituted for “except that in no event may the Secretary allow project costs in excess of the definite amount stated in the grant agreement except to the extent authorized by section 2211(b) of this Appendix” for consistency in this section.
 
-In subsection (c), before clause (1), the words “The Secretary may decide that a project cost . . . is allowable” are substituted for “However, the allowable costs of a project . . . may include . . . and the allowable costs of a project . . . may include” for clarity and consistency in the revised title. The words “incurred after May 13, 1946, and before the date the grant agreement is executed” are substituted for “which were incurred prior to the execution of the grant agreement and subsequent to May 13, 1946” and “which were incurred subsequent to May 13, 1946” to eliminate unnecessary words. In clause (1), the words “preparation of”, “acquisition of”, “by the sponsor specifically in connection with the accomplishment of the project for airport development” are omitted as surplus. The words “property interests in land or airspace” are substituted for “land or interests therein or easements through or other interests in airspace” to eliminate unnecessary words.
+In subsection (c), before clause (1), the words “The Secretary may decide that a project cost . . . is allowable” are substituted for “However, the allowable costsof a project . . . may include . . . and the allowable costs of a project . . . may include” for clarity and consistency in the revised title. The words “incurred after May 13, 1946, and before the date the grant agreement is executed” are substituted for “which were incurred prior to the execution of the grant agreement and subsequent to May 13, 1946” and “which were incurred subsequent to May 13, 1946” to eliminate unnecessary words. In clause (1), the words “preparation of”, “acquisition of”, “by the sponsor specifically in connection with the accomplishment of the project for airport development” are omitted as surplus. The words “property interests in land or airspace” are substituted for “land or interests therein or easements through or other interests in airspace” to eliminate unnecessary words.
 
 In subsection (d)(1), before clause (A), the words “The Secretary may decide that the cost . . . is allowable” are substituted for “the Secretary may approve, as allowable project costs” and “The Secretary shall approve project costs allowable under paragraph (1) of this subsection” for clarity and consistency in this section. In clause (B), the words “the boundaries of” are omitted as surplus. In clause (C), the words “and conditions” are omitted as being included in “terms”.
 
@@ -276,10 +276,6 @@ Pub. L. 101–516, title III, §320, Nov. 5, 1990, 104 Stat. 2181.
 Pub. L. 101–164 title III, §326, Nov. 21, 1989, 103 Stat. 1096.
 
 Pub. L. 100–457, title III, §334, Sept. 30, 1988, 102 Stat. 2153.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40117, 47108, 47115, 47119 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

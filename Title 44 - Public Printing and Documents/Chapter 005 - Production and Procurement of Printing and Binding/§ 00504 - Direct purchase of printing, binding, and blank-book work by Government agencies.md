@@ -8,7 +8,3 @@ The Joint Committee on Printing may permit the Public Printer to authorize an ex
 
 Based on 44 U.S. Code, 1964 ed., §14 (Jan. 12, 1895, ch. 23, §12, 28 Stat. 602; July 8, 1935, ch. 374, §1, 49 Stat. 475; Oct. 31, 1951, ch. 654, §3(10), 65 Stat. 708).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3714b; title 35 section 2; title 42 section 5197.
-

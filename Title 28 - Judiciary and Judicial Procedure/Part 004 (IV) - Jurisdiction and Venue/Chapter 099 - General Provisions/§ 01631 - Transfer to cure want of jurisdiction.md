@@ -8,7 +8,3 @@ Whenever a civil action is filed in a court as defined in section 610 of this ti
 
 Section effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as an Effective Date of 1982 Amendment note under section 171 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1292 of this title.
-

@@ -14,7 +14,3 @@ Except as specifically provided otherwise by this section, nothing in this subch
 
 This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3125, 3201 of this title.
-

@@ -8,13 +8,13 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(B) an office or officer in the executive branch;
 
-> &emsp;but does not include the General Accounting Office or the Comptroller General of the United States;
+> &emsp;but does not include the Government Accountability Office or the Comptroller General of the United States;
 
 &emsp;(2) “reorganization” means a transfer, consolidation, coordination, authorization, or abolition, referred to in section 903 of this title; and
 
 &emsp;(3) “officer” is not limited by section 2104 of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 394; Pub. L. 90–83, §1(98), Sept. 11, 1967, 81 Stat. 220; Pub. L. 95–17, §2, Apr. 6, 1977, 91 Stat. 30.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 394; Pub. L. 90–83, §1(98), Sept. 11, 1967, 81 Stat. 220; Pub. L. 95–17, §2, Apr. 6, 1977, 91 Stat. 30; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 Historical and Revision Notes<br>1966
 
@@ -55,6 +55,8 @@ This section amends section 902 of title 5, United States Code, so as to preserv
 Section 902(a) of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 60e–2(b) of Title 2, The Congress.
 
 #### Amendments
+
+2004—Par. (1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in concluding provisions.
 
 1977—Par. (1)(C). Pub. L. 95–17 struck out subpar. (C) which defined “agency” as any and all parts of the government of the District of Columbia other than the courts thereof.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President may contribute up to 75 percent of the cost of hazard mitigation measures whichthe President has determined are cost-effective and which substantially reduce the risk of future damage, hardship, loss, or suffering in any area affected by a major disaster. Such measures shall be identified following the evaluation of natural hazards under section 5165 of this title and shall be subject to approval by the President. Subject to section 5165 of this title, the total of contributions under this section for a major disaster shall not exceed 7.5 percent of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster.
+The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost-effective and which substantially reduce the risk of future damage, hardship, loss, or suffering in any area affected by a major disaster. Such measures shall be identified following the evaluation of natural hazards under section 5165 of this title and shall be subject to approval by the President. Subject to section 5165 of this title, the total of contributions under this section for a major disaster shall not exceed 7.5 percent of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster.
 
 #### (b) Property acquisition and relocation assistance
 
@@ -80,7 +80,7 @@ A prior section 404 of Pub. L. 93–288 was classified to section 5174 of this t
 
 Subsec. (c). Pub. L. 106–390, §204, added subsec. (c).
 
-1993—Pub. L. 103–181 designated existing provisions as subsec. (a), inserted heading, substituted “75 percent” for “50 percent” in first sentence, substituted “15 percent of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster” for “10 percent of the estimated aggregate amounts of grantsto be made under section 5172 of this title with respect to such major disaster” in last sentence, and added subsec. (b).
+1993—Pub. L. 103–181 designated existing provisions as subsec. (a), inserted heading, substituted “75 percent” for “50 percent” in first sentence, substituted “15 percent of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster” for “10 percent of the estimated aggregate amounts of grants to be made under section 5172 of this title with respect to such major disaster” in last sentence, and added subsec. (b).
 
 #### Effective Date of 1993 Amendment
 
@@ -89,8 +89,4 @@ Section 2(b) of Pub. L. 103–181 provided that: “The amendments made by this 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5165, 5204c of this title.
 

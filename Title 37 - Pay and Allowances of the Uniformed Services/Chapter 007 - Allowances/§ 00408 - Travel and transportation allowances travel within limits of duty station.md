@@ -44,7 +44,3 @@ The words “(as defined in the Career Compensation Act of 1949, as amended)” 
 
 Section 619(b) of Pub. L. 99–145 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to parking fees incurred after September 30, 1985.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 420 of this title.
-

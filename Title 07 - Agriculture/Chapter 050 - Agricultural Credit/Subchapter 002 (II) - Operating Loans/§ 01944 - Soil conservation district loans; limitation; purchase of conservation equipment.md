@@ -4,7 +4,3 @@ Loans aggregating not more than $500,000 in any one year may also be made to soi
 
 (Pub. L. 87–128, title III, §314, Aug. 8, 1961, 75 Stat. 311.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1983 of this title.
-

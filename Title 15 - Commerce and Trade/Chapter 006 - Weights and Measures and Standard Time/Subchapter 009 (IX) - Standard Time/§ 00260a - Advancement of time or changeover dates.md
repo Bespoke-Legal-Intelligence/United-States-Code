@@ -12,7 +12,7 @@ It is hereby declared that it is the express intent of Congress by this section 
 
 For any violation of the provisions of this section the Secretary of Transportation or his duly authorized agent may apply to the district court of the United States for the district in which such violation occurs for the enforcement of this section; and such court shall have jurisdiction to enforce obedience thereto by writ of injunction or by other process, mandatory or otherwise, restraining against further violations of this section and enjoining obedience thereto.
 
-(Pub. L. 89–387, §3, Apr. 13, 1966, 80 Stat. 107; Pub. L. 92–267, Mar. 30, 1972, 86 Stat. 116; Pub. L.97–449, §2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 99–359, §2(b), July 8, 1986, 100 Stat. 764.)
+(Pub. L. 89–387, §3, Apr. 13, 1966, 80 Stat. 107; Pub. L. 92–267, Mar. 30, 1972, 86 Stat. 116; Pub. L. 97–449, §2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 99–359, §2(b), July 8, 1986, 100 Stat. 764.)
 
 #### Amendments
 
@@ -75,8 +75,4 @@ Sec. 2. In deciding to grant or deny an exemption or realignment, the Secretary 
 Sec. 3. In carrying out his responsibilities under this order, the Secretary shall, as he deems necessary, consult with the Department of Health, Education, and Welfare, the Federal Energy Office (or any agency which hereafter may succeed to its functions), and any other interested agency and he may call upon those agencies for information and advice. Each interested department or agency shall assist the Secretary, as necessary, to carry out the provisions of this order.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 261 of this title.
 

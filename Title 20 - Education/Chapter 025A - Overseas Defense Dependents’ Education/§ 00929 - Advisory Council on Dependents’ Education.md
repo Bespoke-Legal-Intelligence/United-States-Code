@@ -86,7 +86,3 @@ Subsec. (c)(2) to (5). Pub. L. 96–88, §508(j)(7), (8), added par. (2), redesi
 
 Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 930 of this title.
-

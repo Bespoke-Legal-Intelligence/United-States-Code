@@ -4,7 +4,3 @@ Except as otherwise provided by law, all sums received from fines, penalties, an
 
 (Mar. 4, 1907, ch. 2918, §1, 34 Stat. 1315.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1524 of this title.
-

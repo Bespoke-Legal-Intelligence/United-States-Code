@@ -1,9 +1,5 @@
 Part A—Industry Program With Federal Financial Assistance
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 4041, 4071, 4084 of this title.
-
 
 ---
 

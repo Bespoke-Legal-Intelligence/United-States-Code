@@ -60,7 +60,3 @@ In subsection (c)(1), the words “section 30101 of this title” are substitute
 
 In subsection (d), the words “with respect . . . the rendering inoperative of” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30141, 30165 of this title.
-

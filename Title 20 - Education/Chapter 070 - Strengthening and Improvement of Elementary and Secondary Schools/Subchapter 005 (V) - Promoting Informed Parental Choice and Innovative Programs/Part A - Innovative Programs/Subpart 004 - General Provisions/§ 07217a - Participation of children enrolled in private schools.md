@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;Expenditures for programs under subsection (a) of this section shall be equal (consistent with the number of children to be served) to expenditures for programs under this part for children enrolled in the public schools of the local educational agency.
+&emsp;Expenditures for programs under subsection (a) of this section shall be equal (consistentwith the number of children to be served) to expenditures for programs under this part for children enrolled in the public schools of the local educational agency.
 
 #### (2) Concentrated programs
 
@@ -80,7 +80,7 @@ When the Secretary arranges for services under subsection (d) of this section, t
 
 #### (4) Court review
 
-&emsp;Upon the filing of a petition under paragraph (2), the court shall have jurisdiction to affirm the action of the Secretary or to set such action aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court upon certiorari or certification, as provided in section 1254 of title 28.
+&emsp;Upon the filing of a petition under paragraph (2), the court shall have jurisdiction to affirm the action of the Secretary or to set such action aside, in whole or in part. The judgmentof the court shall be subject to review by the Supreme Court upon certiorari or certification, as provided in section 1254 of title 28.
 
 #### (i) Prior determination
 
@@ -90,13 +90,9 @@ Any bypass determination by the Secretary under title VI (as such title was in e
 
 #### References in Text
 
-Title VI (as such title was in effect on the day preceding January 8, 2002), referred to in subsec. (i), means title VI of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3707, as amended, which was classified generally to subchapter VI (§7301et seq.) of this chapter prior to the general amendment of subchapter VI by Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1873.
+Title VI (as such title was in effect on the day preceding January 8, 2002), referred to in subsec. (i), means title VI of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3707, as amended, which was classified generally to subchapter VI (§7301 et seq.) of this chapter prior to the general amendment of subchapter VI by Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1873.
 
 #### Prior Provisions
 
 A prior section 5142 of Pub. L. 89–10 was classified to section 3222 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7213a, 7215b of this title.
 

@@ -1,10 +1,15 @@
 ### <b>CHAPTER 18—BENEFITS FOR CHILDREN OF VIETNAM VETERANS AND CERTAIN OTHER VETERANS</b>
 
-#### SUBCHAPTER I—CHILDREN OF VIETNAM VETERANS BORN WITH SPINA BIFIDA
-
 | Sec. |  |
 | :--- | ---: |
 | \[1801. | Repealed.\] |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER I—CHILDREN OF VIETNAM VETERANS BORN WITH SPINA BIFIDA
+
+|  |  |
+| :--- | ---: |
 | [1802\.](Subchapter%20001%20%28I%29%20-%20Children%20of%20Vietnam%20Veterans%20Born%20with%20Spina%20Bifida/%C2%A7%2001802%20-%20Spina%20bifida%20conditions%20covered.md) | Spina bifida conditions covered. |
 | [1803\.](Subchapter%20001%20%28I%29%20-%20Children%20of%20Vietnam%20Veterans%20Born%20with%20Spina%20Bifida/%C2%A7%2001803%20-%20Health%20care.md) | Health care. |
 | [1804\.](Subchapter%20001%20%28I%29%20-%20Children%20of%20Vietnam%20Veterans%20Born%20with%20Spina%20Bifida/%C2%A7%2001804%20-%20Vocational%20training%20and%20rehabilitation.md) | Vocational training and rehabilitation. |
@@ -52,10 +57,6 @@
 2000—Pub. L. 106–419, title IV, §401(f)(1), (3), Nov. 1, 2000, 114 Stat. 1860, 1861, substituted “BENEFITS FOR CHILDREN OF VIETNAM VETERANS” for “BENEFITS FOR CHILDREN OF VIETNAM VETERANS WHO ARE BORN WITH SPINA BIFIDA” in chapter heading, added item for subchapter I, struck out items 1801 “Definitions” and 1806 “Applicability of certain administrative provisions”, added item for subchapter II and items 1811 to 1816, and added item for subchapter III and items 1821 to 1824.
 
 1997—Pub. L. 105–114, title IV, §404(b)(2), Nov. 21, 1997, 111 Stat. 2295, substituted “Applicability of certain administrative provisions” for “Effective date of awards” in item 1806.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 5121 of this title.
 
 
 ---

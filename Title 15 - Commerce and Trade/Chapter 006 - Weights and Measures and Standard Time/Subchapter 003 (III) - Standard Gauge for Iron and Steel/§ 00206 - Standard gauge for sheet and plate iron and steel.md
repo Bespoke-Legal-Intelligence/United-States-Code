@@ -60,7 +60,3 @@ The same and no other shall be used in determining duties and taxes levied by th
 
 This subchapter, referred to in text, was in the original “this act”, meaning act Mar. 3, 1893, ch. 221, 27 Stat. 746, which is classified to sections 206 to 208 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 207, 208 of this title.
-

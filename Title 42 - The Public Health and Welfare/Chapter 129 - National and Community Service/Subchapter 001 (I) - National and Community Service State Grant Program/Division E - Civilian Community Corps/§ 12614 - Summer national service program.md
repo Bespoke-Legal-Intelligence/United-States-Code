@@ -30,7 +30,3 @@ A prior section 12614, Pub. L. 101–610, title I, §163, Nov. 16, 1990, 104 Sta
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12653c of this title.
-

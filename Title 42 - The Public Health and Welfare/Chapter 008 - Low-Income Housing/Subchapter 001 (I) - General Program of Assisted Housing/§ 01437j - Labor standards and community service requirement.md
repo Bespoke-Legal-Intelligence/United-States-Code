@@ -2,7 +2,7 @@
 
 #### (a) Payment of wages prevailing in locality
 
-Any contract for loans, contributions, sale, or lease pursuant to this chapter shall contain a provision requiring that not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State or local law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, and technicians employed in the development, and all maintenance laborers and mechanics employed in the operation, of the low-income housing project involved; and shall also contain a provision that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40, shall be paid to all laborers and mechanics employed in the development of the project involved (including a project with nine or more units assisted under section 1437f of this title, where the public housing agency or the Secretary and the builder or sponsor enter into agreement for such use before construction or rehabilitation is commenced), and the Secretary shall require certification as to compliance with the provisions of this section prior to making any payment under such contract.
+Any contract for loans, contributions, sale, or lease pursuant to this chapter shall contain a provision requiring that not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State or local law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, and technicians employed in the development, and all maintenance laborers and mechanics employed in the operation, of the low-income housing project involved; and shall also contain a provision that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40, shall be paid to all laborers and mechanics employedin the development of the project involved (including a project with nine or more units assisted under section 1437f of this title, where the public housing agency or the Secretary and the builder or sponsor enter into agreement for such use before construction or rehabilitation is commenced), and the Secretary shall require certification as to compliance with the provisions of this section prior to making any payment under such contract.
 
 #### (b) Exception for volunteers
 
@@ -20,7 +20,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of law, eachadult resident of a public housing project shall—
+&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of law, each adult resident of a public housing project shall—
 
 &emsp;&emsp;(A) contribute 8 hours per month of community service (not including political activities) within the community in which that adult resides; or
 
@@ -187,10 +187,6 @@ Section 955(d) of Pub. L. 101–625 provided that: “The amendments made by thi
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437c–1, 1437d, 1437g of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be only one closing parenthesis.</i>
 

@@ -4,7 +4,3 @@ The Secretary of Agriculture is hereby authorized to cooperate with and receive 
 
 (Pub. L. 90–327, §3, June 4, 1968, 82 Stat. 169.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 693c of this title.
-

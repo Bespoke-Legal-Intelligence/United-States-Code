@@ -8,7 +8,3 @@ The travel of an employee shall be by the most expeditious means of transportati
 
 Section effective thirty days after Dec. 16, 1967, see section 220(a)(4) of Pub. L. 90–206, set out as an Effective Date of 1967 Amendment note under section 5542 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 2443.
-

@@ -28,7 +28,3 @@ Each State reporting under the provisions of this section and section 5779 of th
 
 Section was enacted as part of the Crime Control Act of 1990, and not as part of the Missing Children's Assistance Act which comprises this subchapter, nor as part of the Juvenile Justice and Delinquency Prevention Act of 1974 which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5779 of this title.
-

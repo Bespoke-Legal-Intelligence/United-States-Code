@@ -8,7 +8,3 @@ If the basis of jurisdiction be a cause of action otherwise justiciable in admir
 
 Act Feb. 12, 1925, ch. 213, §8, 43 Stat 884.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 25 section 415.
-

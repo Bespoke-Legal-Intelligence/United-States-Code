@@ -12,7 +12,3 @@ Whenever used in sections 35 to 45 of this title, the word “person” includes
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 43a of this title; title 25 section 450j.
-

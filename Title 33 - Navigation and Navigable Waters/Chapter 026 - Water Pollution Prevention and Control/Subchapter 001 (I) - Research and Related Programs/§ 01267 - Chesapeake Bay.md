@@ -112,7 +112,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 #### (3) Approval
 
-&emsp;If the Administrator finds that the proposal is consistent with the Chesapeake Bay Agreement and the national goals established under section 1251(a) of this title, the Administrator may approve the proposal for an award.
+&emsp;If the Administrator finds that the proposal is consistent with the Chesapeake Bay Agreement and the national goals established undersection 1251(a) of this title, the Administrator may approve the proposal for an award.
 
 #### (4) Federal share
 
@@ -214,7 +214,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 &emsp;The study shall—
 
-&emsp;&emsp;(A) determine the current status and trends of living resources, including grasses,benthos, phytoplankton, zooplankton, fish, and shellfish;
+&emsp;&emsp;(A) determine the current status and trends of living resources, including grasses, benthos, phytoplankton, zooplankton, fish, and shellfish;
 
 &emsp;&emsp;(B) establish to the extent practicable the rates of recovery of the living resources in response to improved water quality condition;
 
@@ -273,8 +273,4 @@ Study.—The Secretary shall conduct a study of nutrient loading that occurs as 
 “(b)
 
 Report.—Not later than 18 months after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall submit to Congress a report on the results of the study.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2902 of this title.
 

@@ -1,6 +1,6 @@
 ### §46313. Refusing to appear or produce records
 
-A person not obeying a subpena or requirement of the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) to appear and testify or produce records shall be fined under title 18, imprisoned for not more than one year, or both.
+A person not obeying a subpena or requirement of the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal AviationAdministration with respect to aviation safety duties and powers designated to be carried out by the Administrator) to appear and testify or produce records shall be fined under title 18, imprisoned for not more than one year, or both.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1239; Pub. L. 107–71, title I, §140(d)(7), Nov. 19, 2001, 115 Stat. 642.)
 
@@ -41,8 +41,4 @@ The word “Administrator” in section 902(g) of the Federal Aviation Act of 19
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
 

@@ -4,7 +4,3 @@ If any railroad corporation required by law to pay the costs of surveying, selec
 
 (June 25, 1910, ch. 406, §2, 36 Stat. 834.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 908, 910, 911 of this title.
-

@@ -56,7 +56,7 @@
 
 (2) For any eligible institution, the excess eligible amount is the amount, if any, by which—
 
-&emsp;(A)(i) that institution's eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1087aa(b) of this title for the fiscal year; exceeds
+&emsp;(A)(i) that institution's eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by\(iii) the amount appropriated pursuant to section 1087aa(b) of this title for the fiscal year; exceeds
 
 &emsp;(B) the amount required to be allocated to that institution under subsection (a) of this section,
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(i) 25 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C); or
 
-&emsp;&emsp;(ii) the average cost of attendance for all undergraduate students minus the expectedfamily contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
+&emsp;&emsp;(ii) the average cost of attendance for all undergraduate students minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
 
 &emsp;(E) add the amounts determined under subparagraph (D) for each income category of dependent students;
 
@@ -126,7 +126,7 @@
 
 #### (d) Anticipated collections
 
-(1) An institution's anticipated collections are equal to the amount which was collected during the second year preceding the beginning of the award period, multiplied by 1.21.
+(1) An institution's anticipated collections are equal to the amount which was collected duringthe second year preceding the beginning of the award period, multiplied by 1.21.
 
 (2) The Secretary shall establish an appeals process by which the anticipated collections required in paragraph (1) may be waived for institutions with low cohort default rates in the program assisted under this part.
 
@@ -152,7 +152,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort default rate (as defined in subsection (g) of this section) that equals or exceeds 50 percent for each of the 3 most recent years for which data are available shall not be eligible to participate in a program under this part for the fiscal year for which the determination is made and the 2 succeeding fiscal years, unless, within 30 days of receiving notification from the Secretary of the loss of eligibility under this paragraph, the institution appeals the loss of eligibility to the Secretary. The Secretary shall issue a decision on any such appeal within 45 days after thesubmission of the appeal. Such decision may permit the institution to continue to participate in a program under this part if—
+&emsp;&emsp;For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort default rate (as defined in subsection (g) of this section) that equals or exceeds 50 percent for each of the 3 most recent years for which data are available shall not be eligible to participate in a program under this part for the fiscal year for which the determination is made and the 2 succeeding fiscal years, unless, within 30 days of receiving notification from the Secretary of the loss of eligibility under this paragraph, the institution appeals the loss of eligibility to the Secretary. The Secretary shall issue a decision on any such appeal within 45 days after the submission of the appeal. Such decision may permit the institution to continue to participate in a program under this part if—
 
 &emsp;&emsp;&emsp;(i) the institution demonstrates to the satisfaction of the Secretary that the calculation of the institution's cohort default rate is not accurate, and that recalculation would reduce the institution's cohort default rate for any of the 3 fiscal years below 50 percent; or
 
@@ -194,7 +194,7 @@
 
 (B) For any award year in which less than 30 of the institution's current and former students enter repayment, the term “cohort default rate” means the percentage of such current and former students who entered repayment on such loans in any of the three most recent award years and who default before the end of the award year immediately following the year in which they entered repayment.
 
-(C) A loan on which a payment is made by the institution of higher education, its owner, agency, contractor, employee, or any other entity or individual affiliated with such institution, in order to avoid default by the borrower, is considered as in default for the purposes of this subsection.
+(C) A loan on which a payment is made by the institution of higher education, its owner, agency, contractor, employee, or any other entity or individual affiliated with such institution, inorder to avoid default by the borrower, is considered as in default for the purposes of this subsection.
 
 (D) In the case of a student who has attended and borrowed at more than one school, the student (and his or her subsequent repayment or default) is attributed to the school for attendance at which the student received the loan that entered repayment in the award year.
 
@@ -408,7 +408,7 @@ Subsec. (g). Pub. L. 102–325, §462(d), amended subsec. (g) generally. Prior t
 
 Subsec. (h). Pub. L. 102–325, §462(e), substituted “Definitions of default rate and cohort default rate” for “Definition of default rate” in heading, in par. (1) substituted “For any award year prior to award year 1994, for the purpose” for “For the purpose”, added par. (3), redesignated former par. (3) as (4), substituted “240” for “120” in par. (4)(A), and amended par. (4)(B) generally. Prior to amendment, par. (4)(B) read as follows: “180 days (in the case of a loan repayable quarterly),”.
 
-Subsec. (j). Pub. L. 102–325, §462(f), amended subsec. (j) generally. Prior to amendment, subsec. (j) read asfollows: “If an institution returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year the Secretary shall, in accordance with regulations, reallocate such excess to other institutions.”
+Subsec. (j). Pub. L. 102–325, §462(f), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “If an institution returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year the Secretary shall, in accordance with regulations, reallocate such excess to other institutions.”
 
 1987—Subsec. (a)(1)(A). Pub. L. 100–50, §13(a), amended subpar. (A) generally, substituting “of Federal capital contribution such institution received” for “such institution expended”.
 
@@ -435,8 +435,4 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 #### Effective Date
 
 Section applicable with respect to academic year 1988-1989 and succeeding academic years, see section 405(b) of Pub. L. 99–498, as amended, set out as a note under section 1087dd of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1087aa, 1087cc, 1087dd, 1087ff, 1089, 1095 of this title.
 

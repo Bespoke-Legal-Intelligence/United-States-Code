@@ -6,7 +6,7 @@ Except as provided in section 1232g(b)(1)(D) of this title, the refusal of a Sta
 
 #### (b) Noncompliance with nondiscrimination provisions of Federal law
 
-The extension of Federal financial assistance to a local educational agency may not be limited, deferred, or terminated by the Secretary on the ground of noncompliance with title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] or any other nondiscrimination provision of Federal law unless such agency is accordedthe right of due process of law, which shall include—
+The extension of Federal financial assistance to a local educational agency may not be limited, deferred, or terminated by the Secretary on the ground of noncompliance with title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] or any other nondiscrimination provision of Federal law unless such agency is accorded the right of due process of law, which shall include—
 
 &emsp;(1) at least 30 days prior written notice of deferral to the agency, setting forth the particular program or programs which the Secretary finds to be operated in noncompliance with a specific provision of Federal law;
 

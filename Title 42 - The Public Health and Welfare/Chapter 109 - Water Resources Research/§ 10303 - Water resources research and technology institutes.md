@@ -110,7 +110,3 @@ Section 2 of Pub. L. 101–397 provided that:
 
 “(c) For the purposes of carrying out this section, there is authorized to be appropriated to the Secretary of the Interior the sum of $10,000,000 for each of the fiscal years 1991 through 1995.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10304, 10305, 10307 of this title.
-

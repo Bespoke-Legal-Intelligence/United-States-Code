@@ -10,7 +10,3 @@ The amount determined to be due on any claim of an assignee who acquires the sam
 
 (Mar. 10, 1950, ch. 54, title V, §507, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1112.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1643m, 6067 of this title.
-

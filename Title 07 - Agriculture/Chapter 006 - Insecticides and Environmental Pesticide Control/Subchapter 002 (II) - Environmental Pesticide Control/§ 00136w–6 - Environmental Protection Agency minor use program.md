@@ -12,5 +12,5 @@ The passage of the Food Quality Protection Act of 1996, referred to in subsec. (
 
 #### Prior Provisions
 
-A prior section 31 of act June 25, 1947, ch. 125, was renumbered section 34 and is classified to section 136y of this title.
+A prior section 31 of act June 25, 1947, ch. 125, was renumbered section 35 and is classified to section 136y of this title.
 

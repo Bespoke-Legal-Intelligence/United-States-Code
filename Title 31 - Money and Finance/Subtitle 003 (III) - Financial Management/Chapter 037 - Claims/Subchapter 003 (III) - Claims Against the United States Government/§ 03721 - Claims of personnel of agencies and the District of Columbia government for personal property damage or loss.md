@@ -230,7 +230,7 @@ Section 172(b) of Pub. L. 103–236 provided that: “The amendments made by sub
 
 #### Effective Date of 1988 Amendment
 
-Section 2 of Pub. L. 100–565 provided that: “The amendments made by this Act \[amending this section\] shall apply only to claims arising on or after the date of the enactment of this Act \[Oct. 31, 1988\].”
+Section 2 of Pub. L. 100–565 provided that: “The amendments made by this Act \[amending this section\]shall apply only to claims arising on or after the date of the enactment of this Act \[Oct. 31, 1988\].”
 
 #### Effective Date of 1983 Amendment
 
@@ -255,8 +255,4 @@ Section 1088(c) of Pub. L. 104–106 provided that:
 &emsp;“(D) the total of all amounts paid in settlement of the claim under the authority of such section may not exceed $100,000.
 
 “(2) Subsection (k) of such section shall not apply to bar representment of a claim described in paragraph (1), but shall apply to such a claim that is represented and settled under that section after the date of the enactment of this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 2636a, 2739; title 14 section 823a; title 16 sections 18i, 558c; title 26 section 6402; title 43 section 1737.
 

@@ -82,7 +82,3 @@ The board established under an order with respect to which a referendum is condu
 
 (Pub. L. 104–127, title V, §518, Apr. 4, 1996, 110 Stat. 1043.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7413, 7414, 7416, 7421, 7422 of this title.
-

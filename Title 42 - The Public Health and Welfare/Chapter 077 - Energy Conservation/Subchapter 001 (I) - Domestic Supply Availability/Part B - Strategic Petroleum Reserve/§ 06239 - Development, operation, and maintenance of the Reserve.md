@@ -44,7 +44,7 @@ During a drawdown and sale of Strategic Petroleum Reserve petroleum products, th
 
 #### References in Text
 
-The Interstate Commerce Act, referred to in subsec. (k), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended, which was classified generally to chapters 1, 8, 12, 13, and 19 (§§1 et seq., 301 et seq., 901 et seq., 1001 et seq., and 1231 et seq., respectively) of former Title 49, Transportation. The Act was repealed (subject to an exception) by Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49. Section 4(c) of Pub. L. 95–473 excepted from repeal those provisions of the Interstate Commerce Act that vested functions in the Interstate Commerce Commission, or the chairman or members of the Commission, related to transportation of oil by pipeline and that were transferred to the Secretary of Energy and the Federal Energy Regulatory Commission by sections 7155 and 7172(b) of this title.
+The Interstate Commerce Act, referred to in subsec. (k), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended, which was classified generally to chapters 1, 8, 12, 13, and 19 (§§1 et seq., 301 et seq., 901 et seq., 1001 et seq., and 1231 et seq., respectively) of former Title 49, Transportation. The Act was repealed (subject to an exception) by Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49. Section 4(c) of Pub. L. 95–473 excepted from repeal those provisions of the Interstate Commerce Act that vested functions in the Interstate Commerce Commission, or the chairman or members of theCommission, related to transportation of oil by pipeline and that were transferred to the Secretary of Energy and the Federal Energy Regulatory Commission by sections 7155 and 7172(b) of this title.
 
 #### Amendments
 
@@ -75,8 +75,4 @@ Subsec. (<i>l</i>). Pub. L. 101–383, §11, added subsec. (<i>l</i>).
 Subsec. (h). Pub. L. 97–229, §4(b)(2)(B), added subsec. (h).
 
 1978—Subsecs. (a)(1), (c), (d), (e)(1), (f), (f)(I), (g). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 7430.
 

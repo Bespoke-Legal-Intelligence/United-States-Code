@@ -50,7 +50,3 @@ Par. (2). Pub. L. 96–561 substituted “Magnuson Fishery Conservation and Mana
 
 Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 971a, 971h, 971i of this title.
-

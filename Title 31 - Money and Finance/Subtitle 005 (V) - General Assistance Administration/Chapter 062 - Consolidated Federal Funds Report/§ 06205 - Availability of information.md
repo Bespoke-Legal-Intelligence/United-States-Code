@@ -8,7 +8,3 @@ Each head of any authority of the Government having custody of the data files an
 
 (Added Pub. L. 99–547, §2(a), Oct. 27, 1986, 100 Stat. 3059.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6203, 6204 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Transmittal of report and referral to Congressional committees; joint request for convening Congress
 
-Each report submitted pursuant to section 1543(a)(1) of this title shall be transmitted to the Speaker of the House of Representatives and to the President pro tempore of the Senate on the same calendar day. Each report so transmitted shall be referred to the Committee on Foreign Affairs of the House of Representatives and to the Committee on Foreign Relations of the Senate for appropriate action. If, when the report is transmitted, the Congress has adjourned sine dieor has adjourned for any period in excess of three calendar days, the Speaker of the House of Representatives and the President pro tempore of the Senate, if they deem it advisable (or if petitioned by at least 30 percent of the membership of their respective Houses) shall jointly request the President to convene Congress in order that it may consider the report and take appropriate action pursuant to this section.
+Each report submitted pursuant to section 1543(a)(1) of this title shall be transmitted to the Speaker of the House of Representatives and to the President pro tempore of the Senate on the same calendar day. Each report so transmitted shall be referred to the Committee on Foreign Affairs of the House of Representatives and to the Committee on Foreign Relations of the Senate for appropriate action. If, when the report is transmitted, the Congress has adjourned sine die or has adjourned for any period in excess of three calendar days, the Speaker of the House of Representatives and the President pro tempore of the Senate, if they deem it advisable (or if petitioned by at least 30 percent of the membership of their respective Houses) shall jointly request the President to convene Congress in order that it may consider the report and take appropriate action pursuant to this section.
 
 #### (b) Termination of use of United States Armed Forces; exceptions; extension period
 
@@ -17,8 +17,4 @@ Notwithstanding subsection (b) of this section, at any time that United States A
 #### Change of Name
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1545, 1546 of this title.
 

@@ -8,7 +8,3 @@ The Director shall adopt appropriate administrative measures to assure that the 
 
 Section 16 of Pub. L. 96–143 provided that not later than Feb. 1, 1980, the Director of the ACTION Agency was to submit to appropriate committees of Congress a report specifying special needs and circumstances to be addressed in designing programs under Domestic Volunteer Service Act of 1973 \[this chapter\] for implementation in rural areas, such report to include a detailed statement of manner in which Director intended to address such needs and circumstances, together with a timetable for designing and implementing such programs.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4959, 5056 of this title.
-

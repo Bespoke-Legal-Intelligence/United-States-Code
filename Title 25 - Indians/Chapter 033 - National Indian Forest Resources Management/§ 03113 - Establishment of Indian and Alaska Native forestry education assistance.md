@@ -18,7 +18,7 @@
 
 #### (b) Cooperative education program
 
-(1) The Secretary shall maintain, through the Bureau of Indian Affairs, a cooperative education program for the purpose of recruiting promising Indian and Alaska Native students who are enrolled in secondary schools, tribally-controlled community colleges, and other post-secondary or graduate schools for employment as a professional forester or other forestry-related professional with the Bureau of Indian Affairs, an Indian tribe, or a tribal forest-related enterprise.
+(1) The Secretary shall maintain, through the Bureau of Indian Affairs, a cooperative education program for the purpose of recruiting promising Indian and Alaska Native studentswho are enrolled in secondary schools, tribally-controlled community colleges, and other post-secondary or graduate schools for employment as a professional forester or other forestry-related professional with the Bureau of Indian Affairs, an Indian tribe, or a tribal forest-related enterprise.
 
 (2) The cooperative educational program that is to be maintained under paragraph (1) shall be modeled on and shall have essentially the same features of the program operated on November 28, 1990, pursuant to chapter 308 of the Federal Personnel Manual of the Office of Personnel Management.
 
@@ -63,8 +63,4 @@ The Secretary shall administer the programs described in this section until a su
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The Indian Self-Determination Act, referred to in subsec. (c)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3731 of this title.
 

@@ -8,7 +8,7 @@
 | [634\.](%C2%A7%2000634%20-%20Officers%20holding%20certain%20offices.md) | Officers holding certain offices. |
 | [635\.](%C2%A7%2000635%20-%20Oaths%20required%20for%20boards.md) | Oaths required for boards. |
 | [636\.](%C2%A7%2000636%20-%20Administration%20of%20oaths.md) | Administration of oaths. |
-| [637\.](%C2%A7%2000637%20-%20Stopping%20vessels%3B%20immunity%20for%20firing%20at%20or%20into%20vessel.md) | Stopping vessels; immunity for firing at or into vessel. |
+| [637\.](%C2%A7%2000637%20-%20Stopping%20vessels%3B%20indemnity%20for%20firing%20at%20or%20into%20vessel.md) | Stopping vessels; indemnity for firing at or into vessel. |
 | [638\.](%C2%A7%2000638%20-%20Coast%20Guard%20ensigns%20and%20pennants.md) | Coast Guard ensigns and pennants. |
 | [639\.](%C2%A7%2000639%20-%20Penalty%20for%20unauthorized%20use%20of%20words%20%E2%80%9CCoast%20Guard%E2%80%9D.md) | Penalty for unauthorized use of words “Coast Guard”. |
 | [640\.](%C2%A7%2000640%20-%20Coast%20Guard%20band%20recordings%20for%20commercial%20sale.md) | Coast Guard band recordings for commercial sale. |
@@ -48,7 +48,7 @@
 | :--- | ---: |
 | [670\.](%C2%A7%2000670%20-%20Procurement%20authority%20for%20family%20housing.md) | Procurement authority for family housing. |
 | [671\.](%C2%A7%2000671%20-%20Air%20Station%20Cape%20Cod%20Improvements.md) | Air Station Cape Cod Improvements. |
-| [672\.](%C2%A7%2000672%20-%20Long-term%20lease%20authority%20for%20navigation%20and%20communications%20systems%20sites.md) | Long-term lease authority for navigation and communications systems sites. |
+| [672\.](%C2%A7%2000672%20-%20Long-term%20lease%20of%20special%20purpose%20facilities.md) | Long-term lease of special purpose facilities. |
 | [672a.](%C2%A7%2000672a%20-%20Long-term%20lease%20authority%20for%20lighthouse%20property.md) | Long-term lease authority for lighthouse property. |
 | [673\.](%C2%A7%2000673%20-%20Designation%2C%20powers%2C%20and%20accountability%20of%20deputy%20disbursing%20officials.md) | Designation, powers, and accountability of deputy disbursing officials. |
 | [674\.](%C2%A7%2000674%20-%20Small%20boat%20station%20rescue%20capability.md) | Small boat station capability.<sup>2</sup> |
@@ -63,6 +63,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–293, title II, §§205(e)(2), 212(b), Aug. 9, 2004, 118 Stat. 1033, 1037, substituted “indemnity” for “immunity” in item 637 and “Long-term lease of special purpose facilities” for “Long-term lease authority for navigation and communications systems sites” in item 672.
 
 2002—Pub. L. 107–296, title XVII, §1704(f)(2), Nov. 25, 2002, 116 Stat. 2316, which directed the redesignation of item 673 “Small boat station rescue capability” as item 673a, could not be executed because of prior amendment by Pub. L. 107–295, §405(c), see below.
 
@@ -125,7 +127,7 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 - [&sect; 00634 - Officers holding certain offices](%C2%A7%2000634%20-%20Officers%20holding%20certain%20offices.md)
 - [&sect; 00635 - Oaths required for boards](%C2%A7%2000635%20-%20Oaths%20required%20for%20boards.md)
 - [&sect; 00636 - Administration of oaths](%C2%A7%2000636%20-%20Administration%20of%20oaths.md)
-- [&sect; 00637 - Stopping vessels; immunity for firing at or into vessel](%C2%A7%2000637%20-%20Stopping%20vessels%3B%20immunity%20for%20firing%20at%20or%20into%20vessel.md)
+- [&sect; 00637 - Stopping vessels; indemnity for firing at or into vessel](%C2%A7%2000637%20-%20Stopping%20vessels%3B%20indemnity%20for%20firing%20at%20or%20into%20vessel.md)
 - [&sect; 00638 - Coast Guard ensigns and pennants](%C2%A7%2000638%20-%20Coast%20Guard%20ensigns%20and%20pennants.md)
 - [&sect; 00639 - Penalty for unauthorized use of words &#8220;Coast Guard&#8221;](%C2%A7%2000639%20-%20Penalty%20for%20unauthorized%20use%20of%20words%20%E2%80%9CCoast%20Guard%E2%80%9D.md)
 - [&sect; 00640 - Coast Guard band recordings for commercial sale](%C2%A7%2000640%20-%20Coast%20Guard%20band%20recordings%20for%20commercial%20sale.md)
@@ -160,7 +162,7 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 - [&sect; 00669 - Telephone installation and charges](%C2%A7%2000669%20-%20Telephone%20installation%20and%20charges.md)
 - [&sect; 00670 - Procurement authority for family housing](%C2%A7%2000670%20-%20Procurement%20authority%20for%20family%20housing.md)
 - [&sect; 00671 - Air Station Cape Cod Improvements](%C2%A7%2000671%20-%20Air%20Station%20Cape%20Cod%20Improvements.md)
-- [&sect; 00672 - Long-term lease authority for navigation and communications systems sites](%C2%A7%2000672%20-%20Long-term%20lease%20authority%20for%20navigation%20and%20communications%20systems%20sites.md)
+- [&sect; 00672 - Long-term lease of special purpose facilities](%C2%A7%2000672%20-%20Long-term%20lease%20of%20special%20purpose%20facilities.md)
 - [&sect; 00672a - Long-term lease authority for lighthouse property](%C2%A7%2000672a%20-%20Long-term%20lease%20authority%20for%20lighthouse%20property.md)
 - [&sect; 00673 - Designation, powers, and accountability of deputy disbursing officials](%C2%A7%2000673%20-%20Designation%2C%20powers%2C%20and%20accountability%20of%20deputy%20disbursing%20officials.md)
 - [&sect; 00674 - Small boat station rescue capability](%C2%A7%2000674%20-%20Small%20boat%20station%20rescue%20capability.md)

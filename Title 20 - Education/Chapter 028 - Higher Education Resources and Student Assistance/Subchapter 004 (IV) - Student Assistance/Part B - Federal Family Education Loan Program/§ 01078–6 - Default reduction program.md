@@ -70,7 +70,3 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 Section 2005(b) of Pub. L. 101–239 provided that: “The Secretary of Education shall, from funds available through student loan collections, commencing not less than 30 days before the beginning of the default reduction program required by the amendment made by this section \[amending this section\], and continuing throughout the duration of such program, widely publicize (through various communications media) the availability of the default reduction program.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1072a, 1085 of this title.
-

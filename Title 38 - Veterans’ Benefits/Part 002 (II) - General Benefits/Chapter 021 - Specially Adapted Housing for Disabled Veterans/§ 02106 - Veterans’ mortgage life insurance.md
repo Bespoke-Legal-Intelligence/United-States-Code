@@ -2,11 +2,11 @@
 
 (a) The United States shall automatically insure any eligible veteran age 69 or younger who is or has been granted assistance in securing a suitable housing unit under this chapter against the death of the veteran unless the veteran (1) submits to the Secretary in writing the veterans’ election not to be insured under this section, or (2) fails to respond in a timely manner to a request from the Secretary for information on which the premium for such insurance can be based.
 
-(b) The amount of insurance provided a veteran under this section may not exceed the lesser of $90,000 or the amount of the loan outstanding on the housing unit. The amount of such insurance shall be reduced according to the amortization schedule of the loan and may not at any time exceed the amount of the outstanding loan with interest. If there is no outstanding loan on the housing unit, insurance is not payable under this section. If an eligible veteran elects not to be insured under this section, the veteran may thereafter be insured under this section, but only upon submission of an application, payment of required premiums, and compliance with such health requirements and other terms and conditions as may be prescribed by the Secretary.
+(b) The amount of insurance provided a veteran under this section may not exceed the lesser of $90,000 or the amount of the loan outstanding on the housing unit. The amount of such insurance shall be reduced according to the amortization schedule of the loan and may not at anytime exceed the amount of the outstanding loan with interest. If there is no outstanding loan on the housing unit, insurance is not payable under this section. If an eligible veteran elects not to be insured under this section, the veteran may thereafter be insured under this section, but only upon submission of an application, payment of required premiums, and compliance with such health requirements and other terms and conditions as may be prescribed by the Secretary.
 
 (c) The premiums charged a veteran for insurance under this section shall be paid at such time and in such manner as the Secretary prescribes. The rates for such premiums shall be based on such mortality data as the Secretary considers appropriate to cover only the mortality cost of insuring standard lives. In the case of a veteran receiving compensation or other cash benefits paid to the veteran by the Secretary, the Secretary shall deduct from such compensation or other benefits the premiums charged the veteran under this section.
 
-(d)(1) The United States shall bear the costs of insurance under this section to the extent thatsuch costs exceed premiums established by the Secretary. Premiums collected on insurance under this section shall be credited to the “Veterans Insurance and Indemnities” appropriation account, and all disbursements of insurance proceeds under this section shall be made from that account.
+(d)(1) The United States shall bear the costs of insurance under this section to the extent that such costs exceed premiums established by the Secretary. Premiums collected on insurance under this section shall be credited to the “Veterans Insurance and Indemnities” appropriation account, and all disbursements of insurance proceeds under this section shall be made from that account.
 
 (2) There are authorized to be appropriated to the Secretary for such account such amounts as may be necessary to carry out this section.
 
@@ -72,7 +72,7 @@ Subsec. (h). Pub. L. 99–576, §701(49)(E), substituted “the Administrator's�
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–368, title VI, §602(f), Nov. 11, 1998, 112 Stat. 3348, provided that: “This title \[enacting sections 3722 and 3771 to 3775 of this title, amending this section and sections 3702, 3703, 3711, 3720, 3727, 3729, 3733 to 3735, and 3763 of this title, repealing sections 3723 to 3725 of this title, and enacting provisions set out as a note under section 3722 of this title\] and the amendments made by this title shall take effect on October 1, 1998.”
+Pub. L. 105–368, title VI, §602(f), Nov. 11, 1998, 112 Stat. 3348, provided that: “This title \[enacting sections 3722and 3771 to 3775 of this title, amending this section and sections 3702, 3703, 3711, 3720, 3727, 3729, 3733 to 3735, and 3763 of this title, repealing sections 3723 to 3725 of this title, and enacting provisions set out as a note under section 3722 of this title\] and the amendments made by this title shall take effect on October 1, 1998.”
 
 #### Effective Date of 1992 Amendment
 

@@ -88,7 +88,7 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 (1) By June 1, 1997 the North Pacific Council shall submit, and the Secretary may approve, consistent with the other provisions of this chapter, conservation and management measures to ensure total catch measurement in each fishery under the jurisdiction of such Council. Such measures shall ensure the accurate enumeration, at a minimum, of target species, economic discards, and regulatory discards.
 
-(2) To the extent the measures submitted under paragraph (1) do not require United States fish processors and fish processing vessels (as defined in chapter 21 of title 46) to weigh fish, the North Pacific Council and the Secretary shall submit a plan to the Congress by January 1, 1998, to allow for weighing, including recommendations to assist such processors and processing vessels in acquiring necessary equipment, unless the Council determines that such weighing is not necessary to meet the requirements of this subsection.
+(2) To the extent the measures submitted under paragraph (1) do not require United States fish processors and fish processing vessels (as defined in chapter 21 of title 46) to weigh fish, the North Pacific Council and the Secretary shallsubmit a plan to the Congress by January 1, 1998, to allow for weighing, including recommendations to assist such processors and processing vessels in acquiring necessary equipment, unless the Council determines that such weighing is not necessary to meet the requirements of this subsection.
 
 #### (i) Full retention and utilization
 
@@ -96,9 +96,37 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 (2) The report shall address the advisability of measures to minimize processing waste, including standards setting minimum percentages which must be processed for human consumption. For the purpose of the report, “processing waste” means that portion of any fish which is processed and which could be used for human consumption or other commercial use, but which is not so used.
 
-(Pub. L. 94–265, title III, §313, as added Pub. L. 101–627, title I, §118(a), Nov. 28, 1990, 104 Stat. 4457; amended Pub. L. 102–582, title IV, §404, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §117(a), Oct. 11, 1996, 110 Stat. 3603.)
+#### (j) Bering Sea and Aleutian Islands crab rationalization
+
+(1) By not later than January 1, 2005, the Secretary shall approve and hereafter <sup>1</sup> implement by regulation the Voluntary Three-Pie Cooperative Program for crab fisheries of the Bering Sea and Aleutian Islands approved by the North Pacific Fishery Management Council between June 2002 and April 2003, and all trailing amendments including those reported to Congress on May 6, 2003. This section shall not preclude the Secretary from approving by January 1, 2005, and implementing any subsequent program amendments approved by the Council.
+
+(2) Notwithstanding any other provision of this chapter, in carrying out paragraph (1) the Secretary shall approve all parts of the Program referred to in such paragraph. Further, no part of such Program may be implemented if, as approved by the North Pacific Fishery Management Council, individual fishing quotas, processing quotas, community development quota allocation, voluntary cooperatives, binding arbitration, regional landing and processing requirements, community protections, economic data collection, or the loan program for crab fishing vessel captains and crew members, is invalidated subject to a judicial determination not subject to judicial appeal. If the Secretary determines that a processor has leveraged its Individual Processor Quota shares to acquire a harvesters open-delivery “B shares”, the processor's Individual Processor Quota shares shall be forfeited.
+
+(3) Subsequent to implementation pursuant to paragraph (1), the Council may submit and the Secretary may implement changes to or repeal of conservation and management measures, including measures authorized in this section, for crab fisheries of the Bering Sea and Aleutian Islands in accordance with applicable law, including this chapter as amended by this subsection, to achieve on a continuing basis the purposes identified by the Council.
+
+(4) The loan program referred to in paragraph (2) shall be carried out pursuant to the authority of sections 1279f and 1279g of title 46, Appendix.
+
+(5) For purposes of implementing this section $1,000,000 shall be made available each year until fully implemented from funds otherwise made available to the National Marine Fisheries Service for Alaska fisheries activities.
+
+(6) Nothing in this chapter shall constitute a waiver, either express or implied, of the antitrust laws of the United States. The Secretary, in consultation with the Department of Justice and the Federal Trade Commission, shall develop and implement a mandatory information collection and review process to provide any and all information necessary for the Department of Justice and the Federal Trade Commission to determine whether any illegal acts of anti-competition, anti-trust, or price collusion have occurred among persons receiving individual processing quotas under the Program. The Secretary may revoke any individual processing quota held by any person found to have violated a provision of the antitrust laws of the United States.
+
+(7) An individual processing quota issued under the Program shall be considered a permit for the purposes of sections 1857, 1858, and 1859 of this title, and may be revoked or limited at any time in accordance with this chapter. Issuance of an individual processing quota under the program shall not confer any right of compensation to the holder of such individual processing quota if it is revoked or limited and shall not create, or be construed to create, any right, title, or interest in or to any fish before the fish is purchased from an individual fishing quota holder.
+
+(8) The restriction on the collection of economic data in section 1853 of this title shall not apply with respect to any fish processor who is eligible for, or who has received, individual processing quota under the Program. The restriction on the disclosure of information in section 1881a(b)(1) of this title shall not apply when the information is used to determine eligibility for or compliance with an individual processing quota program.
+
+(9) The provisions of sections 1858, 1860, and 1861 of this title shall apply to the processing facilities and fish products of any person holding individual processing quota, and the provisions of subparagraphs (D), (E), and (L) of section 1857(<i>l</i>) <sup>2</sup> of this title shall apply to any facility owned or controlled by a person holding individual processing quota.
+
+(Pub. L. 94–265, title III, §313, as added Pub. L. 101–627, title I, §118(a), Nov. 28, 1990, 104 Stat. 4457; amended Pub. L. 102–582, title IV, §404, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §117(a), Oct. 11, 1996, 110 Stat. 3603; Pub. L. 108–199, div. B, title VIII, §801, Jan. 23, 2004, 118 Stat. 108.)
+
+#### References in Text
+
+Hereafter, referred to in subsec. (j)(1), probably means on and after the date of enactment of Pub. L. 108–199, which enacted subsec. (j) of this section and was approved Jan. 23, 2004.
+
+The antitrust laws, referred to in subsec. (j)(6), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
 #### Amendments
+
+2004—Subsec. (j). Pub. L. 108–199 added subsec. (j).
 
 1996—Pub. L. 104–297, §117(a)(1), substituted “conservation” for “research plan” in section catchline.
 
@@ -107,4 +135,8 @@ Subsec. (a). Pub. L. 104–297, §117(a)(2), substituted “North Pacific Counci
 Subsecs. (f) to (i). Pub. L. 104–297, §117(a)(3), added subsecs. (f) to (i).
 
 1992—Subsec. (b)(2)(E). Pub. L. 102–582 substituted “2 percent, of the unprocessed ex-vessel” for “one percentum, of the”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be section “1857(1)”.</i>
 

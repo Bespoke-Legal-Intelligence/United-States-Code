@@ -62,7 +62,3 @@ The Railroad Retirement Act of 1974, referred to in subsec. (e)(1), is act Aug. 
 
 Section is comprised of subsecs. (a) to (g) of section 10 of Pub. L. 96–101. Subsec. (h) of section 10 amended section 231f(b)(7) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 912, 913, 919 of this title.
-

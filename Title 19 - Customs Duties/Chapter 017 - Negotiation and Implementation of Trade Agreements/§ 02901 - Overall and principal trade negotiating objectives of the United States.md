@@ -280,7 +280,7 @@ Sec. 1–501. <i>Uniform Fee on Imports</i>. The functions vested in the Preside
 
 Sec. 2–101. <i>Countertrade and Barter.</i>
 
-(1) <i>Establishment</i>. There is established an Interagency Group on Countertrade, which shall be composed of the Secretaries of Commerce, State, Defense, Treasury, Labor, Agriculture, and Energy, the Attorney General, the Administrator of the Agency for International Development, the Director of the Federal Emergency Management Agency, the United States Trade Representative and the Director of the Office of Management and Budget, or their respective representatives. The Secretary of Commerce or his representative shall be the Chairman of the interagency group.
+(1) <i>Establishment</i>. There is established an Interagency Group on Countertrade, which shall be composed of theSecretaries of Commerce, State, Defense, Treasury, Labor, Agriculture, and Energy, the Attorney General, the Administrator of the Agency for International Development, the Director of the Federal Emergency Management Agency, the United States Trade Representative and the Director of the Office of Management and Budget, or their respective representatives. The Secretary of Commerce or his representative shall be the Chairman of the interagency group.
 
 (2) <i>Functions</i>. The interagency group shall carry out the functions and duties set out in section 2205(a) of the Omnibus Trade Act \[15 U.S.C. 4712(a)\].
 
@@ -306,7 +306,7 @@ Sec. 3–201. <i>Authority to Review Certain Mergers, Acquisitions, and Takeover
 
 (A) By adding new Sections 7 and 8 as follows:
 
-“Sec. 7. (1) <i>Investigations</i>. (a) The Committee is designated to receive notices and other information, to determine whether investigations should be undertaken, and to make investigations, pursuant to Section 721(a) of the Defense Production Act. (b) If the Committee determines that an investigation should be undertaken, such investigation shall commence no later than 30 days after receipt by the Committee of written notification of the proposed or pending merger, acquisition, or takeover. Such investigation shall be completed no later than 45 days after such determination. (c) If one or more Committee members differ with a Committee decision not to undertake an investigation, the Chairman shall submit a report of the Committee to thePresident setting forth the differing views and presenting the issues for his decision within 25 days after receipt by the Committee of written notification of the proposed or pending merger, acquisition, or takeover. (d) A unanimous decision by the Committee not to undertake an investigation with regard to a notice shall conclude action under this section on such notice. The Chairman shall advise the President of said decision.
+“Sec. 7. (1) <i>Investigations</i>. (a) The Committee is designated to receive notices and other information, to determine whether investigations should be undertaken, and to make investigations, pursuant to Section 721(a) of the Defense Production Act. (b) If the Committee determines that an investigation should be undertaken, such investigation shall commence no later than 30 days after receipt by the Committee of written notification of the proposed or pending merger, acquisition, or takeover. Such investigation shall be completed no later than 45 days after such determination. (c) If one or more Committee members differ with a Committee decision not to undertake an investigation, the Chairman shall submit a report of the Committee to the President setting forth the differing views and presenting the issues for his decision within 25 days after receipt by the Committee of written notification of the proposed or pending merger, acquisition, or takeover. (d) A unanimous decision by the Committee not to undertake an investigation with regard to a notice shall conclude action under this section on such notice. The Chairman shall advise the President of said decision.
 
 “(2) <i>Report to the President</i>. Upon completion or termination of any investigation, the Committee shall report to the President and present a recommendation. Any such report shall include information relevant to subparagraphs (1) and (2) of Section 721(d) of the Defense Production Act. If the Committee is unable to reach a unanimous recommendation, the Chairman shall submit a report of the Committee to the President setting forth the differing views and presenting the issues for his decision.
 
@@ -332,7 +332,7 @@ Sec. 3–301. <i>Reporting Requirement on Semiconductors, Fiber Optics and Super
 
 (B) Federal research and acquisition policies for fiber optics and optical-electronic technologies generally;
 
-(C) Superconducting materials, including descriptions of research priorities, the scientific and technical barriers to commercialization which such research is designed to overcome, steps taken to ensure coordination among Federal agencies conducting research on superconducting materials, and steps taken to consult with private United States industry to ensure that no unnecessary duplication of research exists and that all important scientific and technical barriers to the commercialization of superconducting materials will be addressed; and
+(C) Superconducting materials, including descriptions of research priorities, the scientific and technicalbarriers to commercialization which such research is designed to overcome, steps taken to ensure coordination among Federal agencies conducting research on superconducting materials, and steps taken to consult with private United States industry to ensure that no unnecessary duplication of research exists and that all important scientific and technical barriers to the commercialization of superconducting materials will be addressed; and
 
 (D) Federal research to assist United States industry to develop and apply advanced manufacturing technologies for the production of durable and nondurable goods.
 
@@ -362,15 +362,11 @@ Sec. 5–102. <i>Regulatory Review</i>. Notwithstanding the provisions of sectio
 
 Sec. 5–201. <i>Offsets</i>. The negotiating functions under section 825(c) of the Defense Authorization Act \[10 U.S.C. 2532 note\], as may be ordered by the President, are hereby jointly delegated to the Secretary of Defense and the United States Trade Representative. These functions shall be coordinated with the Secretary of State and conducted in consultation with the Secretaries of Commerce, Labor and the Treasury.
 
-Sec. 5–202. <i>Reporting Functions</i>. The reporting functions of the President under section 825(d) of the Defense Authorization Act \[10 U.S.C. 2532 note\] are delegated to the Director of the Office of Management and Budget. The Director may further delegate to the heads of Executive departments and agencies responsibilityfor preparing particular sections of such reports. The heads of Executive departments and agencies shall, to the extent permitted by law, provide the Director with such information as may be necessary for the effective performance of these functions.
+Sec. 5–202. <i>Reporting Functions</i>. The reporting functions of the President under section 825(d) of the Defense Authorization Act \[10 U.S.C. 2532 note\] are delegated to the Director of the Office of Management and Budget. The Director may further delegate to the heads of Executive departments and agencies responsibility for preparing particular sections of such reports. The heads of Executive departments and agencies shall, to the extent permitted by law, provide the Director with such information as may be necessary for the effective performance of these functions.
 
 Sec. 5–301. <i>International Trade Commission Report</i>. The functions vested in the President by section 332(g) of the Tariff Act \[19 U.S.C. 1332(g)\], regarding reports by the United States International Trade Commission to the President, are delegated to the United States Trade Representative.
 
 Sec. 5–401. <i>Strengthening International Institutions</i>. To the extent possible, actions undertaken under this Order shall be conducted in a manner that strengthens international institutions that further United States objectives, such as opening foreign markets and preventing the export of strategic goods and technologies to proscribed destinations.
 
 Sec. 5–501. <i>Effective Date</i>. This Order shall take effect at 12:01 a.m. on Wednesday, December 28, 1988.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2902 of this title; title 7 section 5202.
 

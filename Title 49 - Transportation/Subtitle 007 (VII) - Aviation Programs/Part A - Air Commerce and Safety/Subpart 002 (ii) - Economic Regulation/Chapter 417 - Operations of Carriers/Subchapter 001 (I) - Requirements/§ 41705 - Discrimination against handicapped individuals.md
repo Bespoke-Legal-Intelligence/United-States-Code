@@ -92,7 +92,3 @@ Pub. L. 106–69, title III, §346, Oct. 9, 1999, 113 Stat. 1023, provided that:
 
 Similar provisions were contained in Pub. L. 105–277, div. A, §101(g) \[title III, §372\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–479.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41110, 46301 of this title.
-

@@ -25,10 +25,6 @@
 
 1997—Pub. L. 105–80, §12(a)(21), Nov. 13, 1997, 111 Stat. 1535, substituted “Ownership, transfer, licensure, and recordation” for “Ownership and transfer” in item 903.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 109 of this title; title 11 section 101; title 19 section 1337; title 28 sections 1338, 1498.
-
 
 ---
 

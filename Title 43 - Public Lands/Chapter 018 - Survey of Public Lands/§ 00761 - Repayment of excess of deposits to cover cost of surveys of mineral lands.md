@@ -12,7 +12,3 @@ References to “the United States Field Surveying Service” and “the Field S
 
 Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 763 of this title.
-

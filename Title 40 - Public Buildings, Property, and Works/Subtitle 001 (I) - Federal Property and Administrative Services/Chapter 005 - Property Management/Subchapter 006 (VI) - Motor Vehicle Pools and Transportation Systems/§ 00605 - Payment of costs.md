@@ -38,7 +38,3 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title II, §211(d), as added Sept. 5, 1950, ch. 849, §5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, §2, 68 Stat. 1127; Pub. L. 95–506, Oct. 24, 1978, 92 Stat. 1756.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 610 of this title; title 42 section 7588.
-

@@ -6,7 +6,7 @@
 
 &emsp;A plan administrator satisfies section 1341(b)(3)(A) of this title in the case of a missing participant only if the plan administrator—
 
-&emsp;&emsp;(A) transfers the participant's designated benefit to the corporation or purchases an irrevocable commitment from an insurer in accordance with clause (i) of section 1341(b)(3)(A) of this title, and
+&emsp;&emsp;(A) transfers the participant's designated benefit to the corporation or purchases anirrevocable commitment from an insurer in accordance with clause (i) of section 1341(b)(3)(A) of this title, and
 
 &emsp;&emsp;(B) provides the corporation such information and certifications with respect to such designated benefits or irrevocable commitments as the corporation shall specify.
 
@@ -18,7 +18,7 @@
 
 &emsp;After a missing participant whose designated benefit was transferred to the corporation is located—
 
-&emsp;&emsp;(A) in any case in which the plan could have distributed the benefit of the missing participant in a single sum without participant or spousal consent under section 1055(g) of this title, the corporation shall pay theparticipant or beneficiary a single sum benefit equal to the designated benefit paid the corporation plus interest as specified by the corporation, and
+&emsp;&emsp;(A) in any case in which the plan could have distributed the benefit of the missing participant in a single sum without participant or spousal consent under section 1055(g) of this title, the corporation shall pay the participant or beneficiary a single sum benefit equal to the designated benefit paid the corporation plus interest as specified by the corporation, and
 
 &emsp;&emsp;(B) in any other case, the corporation shall pay a benefit based on the designated benefit and the assumptions prescribed by the corporation at the time that the corporation received the designated benefit.
 
@@ -51,8 +51,4 @@ The corporation shall prescribe such regulations as are necessary to carry out t
 #### Effective Date
 
 Section effective with respect to distributions that occur in plan years commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1056 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1056, 1303, 1305, 1341 of this title; title 26 section 401.
 

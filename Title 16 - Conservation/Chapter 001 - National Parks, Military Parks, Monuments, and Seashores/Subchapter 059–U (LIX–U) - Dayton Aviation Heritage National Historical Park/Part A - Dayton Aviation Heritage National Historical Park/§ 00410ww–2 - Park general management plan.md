@@ -10,7 +10,3 @@ The management plan shall identify partnership opportunities between the Secreta
 
 (Pub. L. 102–419, title I, §103, Oct. 16, 1992, 106 Stat. 2142.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410ww–3 of this title.
-

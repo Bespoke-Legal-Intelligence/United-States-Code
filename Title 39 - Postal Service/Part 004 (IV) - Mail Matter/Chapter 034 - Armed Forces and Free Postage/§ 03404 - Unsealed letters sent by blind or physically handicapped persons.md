@@ -4,7 +4,3 @@ Unsealed letters sent by a blind person or a person having a physical impairment
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 758.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2401, 3403, 3405, 3627 of this title.
-

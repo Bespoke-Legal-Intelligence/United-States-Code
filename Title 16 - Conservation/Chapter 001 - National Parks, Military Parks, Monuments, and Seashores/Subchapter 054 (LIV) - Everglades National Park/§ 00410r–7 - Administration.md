@@ -74,7 +74,3 @@ Findings.—Congress finds that—
 
 Purpose.—It is the purpose of this Act \[see Short Title of 1997 Amendment note set out under section 410r–5 of this title\] to commemorate the vision, leadership, and enduring contributions of Marjory Stoneman Douglas and Ernest F. Coe to the protection of the Everglades and the establishment of Everglades National Park.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410r–5, 410r–6, 410r–8 of this title.
-

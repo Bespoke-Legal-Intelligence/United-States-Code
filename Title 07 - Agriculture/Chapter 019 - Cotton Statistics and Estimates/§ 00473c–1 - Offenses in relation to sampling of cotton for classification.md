@@ -18,7 +18,3 @@ It shall be unlawful—
 
 (Mar. 3, 1927, ch. 337, §3c–1, as added Pub. L. 86–588, July 5, 1960, 74 Stat. 328.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 473c–2 of this title.
-

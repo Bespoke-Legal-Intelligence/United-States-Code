@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 90 days after the conclusion of each fiscal year in which assistance under this subchapter is made available, the Secretary shall submit to Congress a report that contains—
+Not later than 90 days after the conclusion of each fiscal year in which assistance under this subchapter is made available, the Secretaryshall submit to Congress a report that contains—
 
 &emsp;(1) a description of the progress made in accomplishing the objectives of this subchapter;
 

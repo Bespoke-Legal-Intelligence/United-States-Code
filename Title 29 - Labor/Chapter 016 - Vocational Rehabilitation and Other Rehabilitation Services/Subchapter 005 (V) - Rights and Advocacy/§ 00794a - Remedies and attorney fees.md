@@ -12,7 +12,3 @@
 
 The Civil Rights Act of 1964, referred to in subsec. (a)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 794d of this title; title 2 section 1311; title 3 section 411; title 22 section 3905; title 42 sections 1981a, 10406, 12133.
-

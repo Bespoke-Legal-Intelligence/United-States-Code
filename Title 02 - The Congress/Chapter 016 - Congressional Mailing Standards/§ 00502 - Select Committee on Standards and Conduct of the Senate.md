@@ -24,7 +24,7 @@ The select committee shall keep a complete record of all its actions, including 
 
 #### Amendments
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–255 inserted reference to section 3219 of title 39.
+1974—Subsec. (a). Pub. L. 93–255 inserted reference to section 3219 of title 39.
 
 #### Effective Date
 

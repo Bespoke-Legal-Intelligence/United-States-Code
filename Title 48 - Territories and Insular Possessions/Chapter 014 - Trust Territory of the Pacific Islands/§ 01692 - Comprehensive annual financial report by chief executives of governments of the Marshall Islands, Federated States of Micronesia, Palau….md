@@ -12,7 +12,7 @@ Section 502(a)(3) of the Covenant to Establish a Commonwealth of the Northern Ma
 
 1998—Pub. L. 105–362 struck out “The chief executives shall transmit the comprehensive annual financial report to the Inspector General of the Department of the Interior who shall audit it and report his findings to the Congress.” after “required by the Congress.” and “The chief executives shall submit to the Congress, the Secretary of the Interior, the High Commissioner of the Trust Territory of the Pacific Islands, and the cognizant Federal auditors a written statement of actions taken or contemplated on Federal audit recommendations within sixty days after the issuance date of the audit report.” after “applicable Federal law.”
 
-1982—Pub. L. 97–357 substituted provisions relating to preparation, etc., by the chief executives of the governments of the Marshall Islands, etc., of a comprehensive annual financial report to be submitted to the Congress and the Secretary of the Interior and transmitted to the Inspector General of the Interior Department, preparation of other congressionally required reports, submission of a written statement of actions taken or contemplated on Federal audit recommendations, and prohibition of termination of this section under the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States, for provisions relating to an annual report by the High Commissioner of the Trust Territory of thePacific Islands on the administration of sections 1688 to 1693 of this title.
+1982—Pub. L. 97–357 substituted provisions relating to preparation, etc., by the chief executives of the governments of the Marshall Islands, etc., of a comprehensive annual financial report to be submitted to the Congress and the Secretary of the Interior and transmitted to the Inspector General of the Interior Department, preparation of other congressionally required reports, submission of a written statement of actions taken or contemplated on Federal audit recommendations, and prohibition of termination of this section under the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States, for provisions relating to an annual report by the High Commissioner of the Trust Territory of the Pacific Islands on the administration of sections 1688 to 1693 of this title.
 
 #### Termination of Reporting Requirements
 
@@ -21,8 +21,4 @@ For termination, effective May 15, 2000, of provisions in the 1st sentence of th
 #### Exception to Requirement that Statement be Submitted to High Commissioner of Trust Territory of the Pacific Islands
 
 Section 203(e) of Pub. L. 97–357 provided that: “Nothing in this section \[adding section 1681b of this title, amending this section, and repealing section 1681c of this title\] shall be construed as requiring the Governor of the Northern Mariana Islands to submit any statement or report to the High Commissioner of the Trust Territory of the Pacific Islands.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1688, 1690 of this title.
 

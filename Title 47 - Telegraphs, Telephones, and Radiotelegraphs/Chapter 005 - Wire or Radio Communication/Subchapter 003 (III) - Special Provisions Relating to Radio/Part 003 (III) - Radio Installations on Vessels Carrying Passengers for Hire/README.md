@@ -1,9 +1,5 @@
 Part III—Radio Installations on Vessels Carrying Passengers for Hire
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 153, 158, 503, 504 of this title.
-
 
 ---
 

@@ -36,7 +36,3 @@ Pub. L. 86–249, §15, Sept. 9, 1959, 73 Stat. 483.
 
 In subsection (a), before clause (1), the words “duties and powers” are substituted for “responsibilities and authorities” for consistency in the revised title and with other titles of the United States Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 450ss–6.
-

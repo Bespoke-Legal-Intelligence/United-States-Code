@@ -12,7 +12,3 @@ Section was formerly classified to section 601 of Title 5 prior to the general r
 
 Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called Department of Commerce and Secretary of Commerce.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 2276.
-

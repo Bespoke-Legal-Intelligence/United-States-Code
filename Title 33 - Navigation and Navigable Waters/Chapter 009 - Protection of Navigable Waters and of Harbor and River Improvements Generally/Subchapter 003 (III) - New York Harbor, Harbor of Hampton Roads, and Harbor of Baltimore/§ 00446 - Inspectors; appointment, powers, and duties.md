@@ -26,11 +26,11 @@ Section was enacted as part of section 3 of act June 29, 1888. Said section 3 of
 
 #### Amendments
 
-1958—Pub. L. 85–802 substituted “Each supervisor of a harbor is authorized and directed to appoint inspectors and deputy inspectors, and, for the purposes of enforcing this subchapter” for “The supervisor of the harbor of New York, designated as provided in section 451 of this title, is authorized and directed to appoint inspectors and deputy inspectors, and for the purpose of enforcing sections 1, 31, and this subchapter”.
+1958—Pub. L. 85–802 substituted “Each supervisor of a harbor is authorized and directed to appoint inspectors and deputy inspectors, and, for the purposes of enforcing this subchapter” for “The supervisor of the harbor of New York, designated as provided in section 451 ofthis title, is authorized and directed to appoint inspectors and deputy inspectors, and for the purpose of enforcing sections 1, 31, and this subchapter”.
 
 #### Change of Name
 
-“Magistrate judge” substituted in text for “magistrate” pursuant to section 321 of Pub. L. 101–650, setout as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+“Magistrate judge” substituted in text for “magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
 #### Effective Date of 1958 Amendment
 

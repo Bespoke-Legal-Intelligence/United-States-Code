@@ -58,7 +58,7 @@ Requirements.—In carrying out a demonstration project under this section, the 
 
 &emsp;&emsp;(J) an opportunity for public comment in the approval process; and
 
-&emsp;(4) in selecting participants for the demonstration project, take into consideration the past safety and regulatory performance of each applicant who submits a risk management plan pursuant to paragraph (1).
+&emsp;(4) in selecting participants for the demonstration project, take into consideration the past safety and regulatory performance ofeach applicant who submits a risk management plan pursuant to paragraph (1).
 
 (c)
 
@@ -77,8 +77,4 @@ Report.—Not later than March 31, 2000, the Secretary shall transmit to the Con
 &emsp;(2) recommendations concerning whether the applications of risk management demonstrated under the demonstration project should be incorporated into the Federal pipeline safety program under this chapter on a permanent basis.
 
 (Added Pub. L. 104–304, §5(a), Oct. 12, 1996, 110 Stat. 3798.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 60118 of this title.
 

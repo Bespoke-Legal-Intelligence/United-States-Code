@@ -32,7 +32,3 @@ The Secretary shall—
 
 The internal revenue laws of the United States, referred to in subsec. (c), are classified generally to Title 26, Internal Revenue Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 216, 217 of this title.
-

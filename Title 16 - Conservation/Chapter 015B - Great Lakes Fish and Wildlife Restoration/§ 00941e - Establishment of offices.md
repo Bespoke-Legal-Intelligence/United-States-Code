@@ -22,7 +22,3 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substanti
 
 1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2007, which enacted this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 941g of this title.
-

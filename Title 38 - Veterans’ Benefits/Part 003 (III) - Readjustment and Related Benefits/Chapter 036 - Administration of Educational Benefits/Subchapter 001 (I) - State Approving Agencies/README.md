@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—STATE APPROVING AGENCIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3034, 3483, 3535 of this title; title 10 section 16136.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 

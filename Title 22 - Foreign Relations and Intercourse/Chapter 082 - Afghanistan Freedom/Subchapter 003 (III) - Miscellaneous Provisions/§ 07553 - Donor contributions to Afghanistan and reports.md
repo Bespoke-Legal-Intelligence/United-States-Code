@@ -2,7 +2,7 @@
 
 #### (a) Findings
 
-The Congress finds that inadequate amounts of international assistance promised by donorstates at the Tokyo donors conference and elsewhere have been delivered to Afghanistan, imperiling the rebuilding and development of civil society and infrastructure, and endangering peace and security in that war-torn country.
+The Congress finds that inadequate amounts of international assistance promised by donor states at the Tokyo donors conference and elsewhere have been delivered to Afghanistan, imperiling the rebuilding and development of civil society and infrastructure, and endangering peace and security in that war-torn country.
 
 #### (b) Sense of Congress
 
@@ -19,8 +19,4 @@ It is the sense of Congress that the United States should use all appropriate di
 &emsp;Each report, which shall be unclassified and posted upon the Department of State's Internet website, shall include, by donor country, the total amount pledged, the amount delivered within the previous 60 days, the total amount of assistance delivered, the type of assistance and type of projects supported by the assistance.
 
 (Pub. L. 107–327, title III, §303, Dec. 4, 2002, 116 Stat. 2812.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7554 of this title.
 

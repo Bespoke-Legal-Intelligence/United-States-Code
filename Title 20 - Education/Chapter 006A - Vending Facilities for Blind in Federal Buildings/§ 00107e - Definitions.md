@@ -40,9 +40,5 @@ Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug.
 
 “Secretary of Education” substituted for “Secretary of Health, Education, and Welfare” in par. (4) pursuant to sections 301(a)(4)(B) and 507 of Pub. L. 96–88 which are classified to sections 3441(a)(4)(B) and 3507 of this title and which transferred all functions of Secretary of Health, Education, and Welfare under this chapter to Secretary of Education.
 
-For transfer of functions and offices of Secretary and Department of Health, Education, and Welfare, including Rehabilitation Services Administration and Commissioner thereof, to Secretary and Department of Education, and for delegation of certain functions of Secretary of Education under this chapter to Assistant Secretary for Special Education and Rehabilitative Services, see sections 3417 and 3441 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 107a of this title.
+For transfer of functions and offices of Secretary and Department of Health, Education, and Welfare, including Rehabilitation Services Administration and Commissioner thereof, to Secretary and Department ofEducation, and for delegation of certain functions of Secretary of Education under this chapter to Assistant Secretary for Special Education and Rehabilitative Services, see sections 3417 and 3441 of this title.
 

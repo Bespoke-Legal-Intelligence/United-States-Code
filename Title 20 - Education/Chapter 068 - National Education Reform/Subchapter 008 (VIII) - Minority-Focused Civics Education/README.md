@@ -1,9 +1,5 @@
 ### SUBCHAPTER VIII—MINORITY-FOCUSED CIVICS EDUCATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 5802 of this title.
-
 
 ---
 

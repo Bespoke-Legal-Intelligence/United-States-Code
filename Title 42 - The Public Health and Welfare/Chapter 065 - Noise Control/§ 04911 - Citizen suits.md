@@ -50,9 +50,5 @@ For purposes of this section, the term “noise control requirement” means par
 
 In subsecs. (a)(2)(B), (b)(1)(A), (c), and (f), “section 44715 of title 49” substituted for “section 611 of the Federal Aviation Act of 1958” and “such section 611” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4902, 4916, 4917 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(f)”.</i>
 

@@ -14,7 +14,3 @@ Presumption.—For purposes of liability on the part of the United States, there
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4937.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3102, 3103 of this title.
-

@@ -1,8 +1,6 @@
 ### SUBCHAPTER II—PERSONNEL
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 5 section 5545a.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
 ---

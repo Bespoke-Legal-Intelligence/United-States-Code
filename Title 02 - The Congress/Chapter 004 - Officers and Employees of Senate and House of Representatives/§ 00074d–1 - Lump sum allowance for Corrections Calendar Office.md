@@ -12,7 +12,3 @@ Section is based on section 1 of House Resolution No. 130, One Hundred Fifth Con
 
 For transfer of lump sum allowance under this section to Offices of Speaker and Minority Leader, see section 106 of Pub. L. 108–83, set out as a Transfer of Positions in Corrections Calendar Office note under section 74d of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 74d–2 of this title.
-

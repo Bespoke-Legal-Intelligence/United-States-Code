@@ -8,7 +8,3 @@ The purposes of this chapter are to—
 
 (Pub. L. 103–382, title V, §543, Oct. 20, 1994, 108 Stat. 4052.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2704 of this title.
-

@@ -24,7 +24,3 @@ Pub. L. 102–560, §1, Oct. 28, 1992, 106 Stat. 4230, provided that: “This Ac
 
 Section 145 of Pub. L. 91–577 provided that: “This Act \[enacting this chapter, section 1611 of this title, and sections 1545 and 2353 of Title 28, Judiciary and Judicial Procedure, amending section 1562 of this title and sections 1338 and 1498 of Title 28, and enacting provisions set out as notes under this section\] may be cited as the ‘Plant Variety Protection Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 28 section 1545.
-

@@ -88,7 +88,3 @@ Subsec. (g). Pub. L. 106–569, §610(2), added subsec. (g).
 
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5402, 5419, 5420, 5423 of this title.
-

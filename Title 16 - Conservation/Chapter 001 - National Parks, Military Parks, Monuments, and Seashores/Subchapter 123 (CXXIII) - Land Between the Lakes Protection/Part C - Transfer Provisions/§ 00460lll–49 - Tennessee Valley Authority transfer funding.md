@@ -30,7 +30,7 @@ The savings from and the revenue adjustment to the budget of the Tennessee Valle
 
 #### (1) Proposed changes
 
-&emsp;Not later than 30 days after the date of transfer pursuant to section 460<i>lll</i>–41 of thistitle, the Chairman of the Tennessee Valley Authority shall submit to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate an itemized list of the amounts of reductions in spending and increases in receipts that are proposed to be made as a result of activities under this subsection during the first fiscal year of the transfer.
+&emsp;Not later than 30 days after the date of transfer pursuant to section 460<i>lll</i>–41 of this title, the Chairman of the Tennessee Valley Authority shall submit to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate an itemized list of the amounts ofreductions in spending and increases in receipts that are proposed to be made as a result of activities under this subsection during the first fiscal year of the transfer.
 
 #### (2) Actual changes
 
@@ -41,8 +41,4 @@ The savings from and the revenue adjustment to the budget of the Tennessee Valle
 #### References in Text
 
 The Tennessee Valley Authority Act of 1933, referred to in subsec. (b), is act May 18, 1933, ch. 32, 48 Stat. 58, as amended, which is classified generally to chapter 12A (§831 et seq.) of this title. For complete classification of this Act to the Code, see section 831 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>lll</i>–31, 460<i>lll</i>–45, 460<i>lll</i>–48 of this title.
 

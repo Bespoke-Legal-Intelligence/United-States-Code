@@ -26,7 +26,3 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “2101(b)” for “801(b
 
 Amendment by Pub. L. 96–385 effective Oct. 1, 1980, see section 601(b) of Pub. L. 96–385, set out as a note under section 1114 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2102 of this title.
-

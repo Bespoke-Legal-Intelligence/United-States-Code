@@ -24,7 +24,7 @@ Each State that receives funds under this chapter shall provide to the Secretary
 
 &emsp;(8) For each State, a description of proposed criteria for assessing the performance of teacher preparation programs within institutions of higher education in the State, including indicators of teacher candidate knowledge and skills.
 
-&emsp;(9) Information on the extent to which teachers or prospective teachers in each State are required to take examinations or other assessments of their subject matter knowledge in the area or areas in which the teachers provide instruction, the standards established for passing any such assessments, and the extent to which teachers or prospective teachers are required to receive a passing score on such assessments in order to teach in specific subject areas or grade levels.
+&emsp;(9) Information on the extent to which teachers or prospective teachers in each State are required to take examinations or other assessments of their subject matter knowledge in the area or areas in which the teachers provide instruction, the standards established for passing any such assessments, and the extent to which teachers or prospective teachers arerequired to receive a passing score on such assessments in order to teach in specific subject areas or grade levels.
 
 #### (c) Initial report
 
@@ -106,13 +106,13 @@ A prior section 1027, Pub. L. 89–329, title II, §207, Nov. 8, 1965, 79 Stat. 
 
 2002—Subsecs. (d)(1), (e). Pub. L. 107–110 substituted “this part” for “this subchapter”.
 
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1023, 1028, 1029, 6753 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “after”.</i>
 

@@ -24,7 +24,7 @@ Section 797 of this title, referred to in subsec. (b), was repealed by Pub. L. 9
 
 #### Conrail Employees Eligible for Employee Protection Benefits Under Regional Rail Reorganization Act of 1973
 
-Pub. L. 97–377, title I, §137, Dec. 21, 1982, 96 Stat. 1915, provided that: “Conrail employees who are deprived of employment by assumption or discontinuance of intercity passenger service by Amtrak shall hereafter be eligible for employee protection benefits under section 701 of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 797), notwithstanding any other provision of law, agreement, or arrangement, and notwithstanding the inability of such employees otherwise to meet the eligibility requirements of such section. Such protection shall be the exclusive protection applicable to Conrail employees deprived of employment or adversely affected by any such assumption or discontinuance.”
+Pub. L. 97–377, title I, §137, Dec. 21, 1982, 96 Stat. 1915, provided that: “Conrail employees who are deprived of employment by assumption or discontinuance of intercity passenger service by Amtrak shall hereafter be eligible for employee protection benefits under section 701 of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 797), notwithstanding any other provision of law, agreement, or arrangement, and notwithstanding the inability of such employees otherwise to meet the eligibility requirements of such section. Such protectionshall be the exclusive protection applicable to Conrail employees deprived of employment or adversely affected by any such assumption or discontinuance.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

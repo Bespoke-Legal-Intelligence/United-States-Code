@@ -28,7 +28,7 @@ Section 119 of the Clean Air Act \[42 U.S.C. 1857c–10\], referred to in subsec
 
 The Clean Air Act, referred to in subsec. (c), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42. For complete classification of this Act of the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note under section 4321 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (c)(2), was in the original “this Act”, meaning Pub. L. 93–319. For complete classification of this Act to the Code, see Short Title note set out under section 791 of this title and Tables.
 
@@ -36,15 +36,11 @@ Executive Order 10485 of September 3, 1953, referred to in subsec. (d), is Ex. O
 
 #### Change of Name
 
-“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (b), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (b), pursuant to section 509(b) ofPub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Transfer of Functions
 
 Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 795 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

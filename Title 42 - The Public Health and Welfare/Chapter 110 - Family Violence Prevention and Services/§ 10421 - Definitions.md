@@ -64,7 +64,3 @@ Section was classified to section 10408 of this title prior to renumbering by Pu
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10402 of this title.
-

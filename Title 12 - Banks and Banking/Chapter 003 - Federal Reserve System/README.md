@@ -389,10 +389,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 35, 1440, 1468, 1468b, 1813, 1817, 1828a, 1831k, 1831r, 2254, 3108 of this title.
-
 
 ---
 

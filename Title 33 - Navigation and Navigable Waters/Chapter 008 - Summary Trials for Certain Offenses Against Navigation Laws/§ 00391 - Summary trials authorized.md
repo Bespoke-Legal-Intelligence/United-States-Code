@@ -12,7 +12,3 @@ R.S. §4300 derived from act June 11, 1864, ch. 121, §2, 13 Stat. 124.
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes set out thereunder.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 47 section 31.
-

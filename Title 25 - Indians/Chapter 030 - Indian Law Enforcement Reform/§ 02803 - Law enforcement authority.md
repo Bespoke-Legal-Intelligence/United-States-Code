@@ -28,7 +28,3 @@ The Secretary may charge employees of the Bureau with law enforcement responsibi
 
 (Pub. L. 101–379, §4, Aug. 18, 1990, 104 Stat. 475.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2802, 2804, 2807 of this title.
-

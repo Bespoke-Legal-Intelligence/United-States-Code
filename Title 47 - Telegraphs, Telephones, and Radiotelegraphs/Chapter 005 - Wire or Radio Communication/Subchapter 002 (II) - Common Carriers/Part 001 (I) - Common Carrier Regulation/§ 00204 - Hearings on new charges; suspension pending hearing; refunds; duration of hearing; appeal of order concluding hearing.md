@@ -36,7 +36,3 @@ Section 402(b)(4) of Pub. L. 104–104 provided that: “The amendments made by 
 
 Section 402(b)(3) of Pub. L. 104–104 provided that: “Nothing in this subsection \[amending this section and section 208 of this title and enacting provisions set out as notes under this section and section 214 of this title\] shall be construed to limit the authority of the Commission to waive, modify, or forbear from applying any of the requirements to which reference is made in paragraph (1) \[amending this section and section 208 of this title\] under any other provision of this Act \[see Short Title of 1996 Amendment note set out under section 609 of this title\] or other law.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 152, 155, 405 of this title.
-

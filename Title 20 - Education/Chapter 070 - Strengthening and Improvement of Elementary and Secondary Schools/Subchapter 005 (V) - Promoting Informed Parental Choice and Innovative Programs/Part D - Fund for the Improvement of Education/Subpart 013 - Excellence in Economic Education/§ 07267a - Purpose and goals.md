@@ -20,7 +20,3 @@ The objectives of this subpart are the following:
 
 (Pub. L. 89–10, title V, §5532, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1848.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7267f of this title.
-

@@ -10,7 +10,7 @@ The peace treaty between Egypt and Israel having been ratified, the Congress fin
 
 &emsp;(1) by authorizing the President to construct air bases in Israel to replace the Israeli air bases on the Sinai peninsula that are to be evacuated;
 
-&emsp;(2) by authorizing additional funds to finance procurements by Egypt and Israel through the fiscal year 1982 of defense articlesand defense services for their respective security requirements; and
+&emsp;(2) by authorizing additional funds to finance procurements by Egypt and Israel through the fiscal year 1982 of defense articles and defense services for their respective security requirements; and
 
 &emsp;(3) by authorizing additional funds for economic assistance for Egypt in order to promote the economic stability and development of that country and to support the peace process in the Middle East.
 
@@ -40,5 +40,5 @@ Pub. L. 96–533, title VII, §711, Dec. 16, 1980, 94 Stat. 3160, provided:
 
 #### Egyptian-Israeli Cultural, Scientific, and Economic Relations
 
-Pub. L. 96–60, title IV, §403, Aug. 15, 1979, 93 Stat. 403, provided that: “It is the sense of the Congress that it should be the policy of the United States to promote and encourage cultural, scientific, and economic relations between the Arab Republic of Egypt and the State of Israel.”
+Pub. L. 96–60, title IV, §403, Aug. 15, 1979, 93 Stat. 403, provided that: “It is the sense of the Congress that itshould be the policy of the United States to promote and encourage cultural, scientific, and economic relations between the Arab Republic of Egypt and the State of Israel.”
 

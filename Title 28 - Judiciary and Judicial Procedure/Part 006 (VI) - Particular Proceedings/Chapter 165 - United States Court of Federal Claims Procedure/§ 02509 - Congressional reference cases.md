@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 97–164, §139(h)(2)(A), (D), substituted “hearing offic
 
 Subsec. (e). Pub. L. 97–164, §139(h)(2)(B), substituted “chief judge” for “chief commissioner”.
 
-Subsec. (f). Pub. L. 97–164, §139(h)(2)(A), (C), substituted “Claims Court” for “Court of Claims”, and “hearing officer” for “trial commissioner” wherever appearing.
+Subsec. (f). Pub. L. 97–164, §139(h)(2)(A), (C), substituted “Claims Court” for “Court of Claims”, and“hearing officer” for “trial commissioner” wherever appearing.
 
 Subsec. (g). Pub. L. 97–164, §139(h)(2)(C), (E), substituted “Claims Court” for “Court of Claims” and “judges serving as hearing officers” for “commissioners serving as trial commissioners”.
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1492 of this title.
 

@@ -10,7 +10,7 @@ Jurisdiction.—
 
 &emsp;(1)
 
-Architect of the capitol.—The jurisdiction and control over the Grounds, vested prior to July 31, 1946, by law in the Architect, is extended to the entire area of the Grounds. Except as provided in paragraph (2), the Architect is responsible for the maintenance and improvement of the Grounds, including those streets and roadways in the Grounds as shown on the map referred to in subsection (a) as being under the jurisdiction and control of the Commissioners of the District of Columbia.
+Architect of the capitol.—The jurisdiction and control over the Grounds, vested prior to July 31, 1946, by law in the Architect, is extended to the entire area of the Grounds. Except as provided in paragraph (2), the Architect is responsible for the maintenance andimprovement of the Grounds, including those streets and roadways in the Grounds as shown on the map referred to in subsection (a) as being under the jurisdiction and control of the Commissioners of the District of Columbia.
 
 &emsp;(2)
 
@@ -80,6 +80,52 @@ Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year
 
 #### Changes in United States Capitol Grounds
 
+Pub. L. 108–447, div. G, title II, §213, Dec. 8, 2004, 118 Stat. 3196, provided that:
+
+“(a)
+
+Transfer of Jurisdiction.—
+
+&emsp;“(1)
+
+In general.—Jurisdiction over the parcels of Federal real property described under paragraph (2) (over which jurisdiction was transferred under section 514(b)(2)(C) of the Omnibus Parks and Public Lands Management Act of 1996 (40 U.S.C. 5102 note; Public Law 104–333)) is transferred to the Architect of the Capitol, without consideration.
+
+&emsp;“(2)
+
+Parcels.—The parcels of Federal real property referred to under paragraph (1) are the following:
+
+&emsp;&emsp;“(A) That portion of New Jersey Avenue, N.W., between the northernmost point of the intersection of New Jersey Avenue, N.W., and D Street, N.W., and the northernmost point of the intersection of New Jersey Avenue, N.W., and Louisiana Avenue, N.W., between squares 631 and W632, which remains Federal property, and whose maintenance and repair shall be the responsibility of the District of Columbia.
+
+&emsp;&emsp;“(B) That portion of D Street, N.W., between its intersection with New Jersey Avenue, N.W., and its intersection with Louisiana Avenue, N.W., between squares 630 and W632, which remains Federal property.
+
+“(b)
+
+Miscellaneous.—
+
+&emsp;“(1)
+
+Compliance with other laws.—Compliance with this section shall be deemed to satisfy the requirements of all laws otherwise applicable to transfers of jurisdiction over parcels of Federal real property.
+
+&emsp;“(2)
+
+United states capitol grounds.—
+
+&emsp;&emsp;“(A)
+
+Definition.—Section 5102 of title 40, United States Code, is amended to include within the definition of the United States Capitol Grounds the parcels of Federal real property described in subsection (a)(2).
+
+&emsp;&emsp;“(B)
+
+Jurisdiction of capitol police.—The United States Capitol Police shall have jurisdiction over the parcels of Federal real property described in subsection (a)(2) in accordance with section 9 of the Act entitled ‘An Act to define the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 (2 U.S.C. 1961).
+
+&emsp;“(3)
+
+Effect of transfer.—A person relinquishing jurisdiction over any parcel of Federal real property transferred by subsection (a) shall not retain any interest in the parcel except as specifically provided in this section.
+
+“(c)
+
+Effective Date.—This Act \[probably means this section\] shall apply to fiscal year 2005 and each fiscal year thereafter.”
+
 Pub. L. 104–333, div. I, title V, §514, Nov. 12, 1996, 110 Stat. 4165, provided that:
 
 “(a)
@@ -128,7 +174,7 @@ Consideration as memorial site.—The parcels transferred by subclause (I) of cl
 
 Transfers to architect of the capitol.—Jurisdiction over the following parcels is transferred to the Architect of the Capitol:
 
-&emsp;&emsp;&emsp;“(i) That portion of the triangle of Federal land in Reservation No. 204 in the District of Columbia under the jurisdiction of the Secretary of the Interior, including any contiguous sidewalks, boundby Constitution Avenue, N.E., on the north, the branch of Maryland Avenue, N.E., running in a northeast direction on the west, the major portion of Maryland Avenue, N.E., on the south, and 2nd Street, N.E., on the east, including the contiguous sidewalks.
+&emsp;&emsp;&emsp;“(i) That portion of the triangle of Federal land in Reservation No. 204 in the District of Columbia under the jurisdiction of the Secretary of the Interior, including any contiguous sidewalks, bound by Constitution Avenue, N.E., on the north, the branch of Maryland Avenue, N.E., running in a northeast direction on the west, the major portion of Maryland Avenue, N.E., on the south, and 2nd Street, N.E., on the east, including the contiguous sidewalks.
 
 &emsp;&emsp;&emsp;“(ii) That irregular area of Federal land in Reservation No. 204 in the District of Columbia under the jurisdiction of the Secretary of the Interior, including any contiguous sidewalks, northeast of the real property described in clause (i) bound by Constitution Avenue, N.E., on the north, the branch of Maryland Avenue, N.E., running to the northeast on the south, and the private property on the west known as lot 7, in square 726.
 
@@ -162,7 +208,7 @@ United states capitol grounds.—
 
 &emsp;&emsp;“(A)
 
-Definition.—The first section of the Act entitled ‘An Act to define the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 (40 U.S.C. 193a) \[now 40 U.S.C. 5102\], is amended to include within the definition of the United States Capitol Grounds the parcels of Federal real property described in subsection (b)(2)(B).
+Definition.—The first section of the Act entitled ‘An Act to define the United States CapitolGrounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 (40 U.S.C. 193a) \[now 40 U.S.C. 5102\], is amended to include within the definition of the United States Capitol Grounds the parcels of Federal real property described in subsection (b)(2)(B).
 
 &emsp;&emsp;“(B)
 
@@ -232,7 +278,7 @@ Pub. L. 93–198, title VII, §739(g)(3), Dec. 24, 1973, 87 Stat. 828, effective
 
 #### Jurisdiction of the Capitol Police Board and the Architect of the Capitol
 
-Pub. L. 96–432, §3, Oct. 10, 1980, 94 Stat. 1852, provided that: “On and after the effective date of this section \[see Pub. L. 96–432, §4, Oct. 10, 1980, 94 Stat. 1853\], that portion of C Street Northeast from the west curb of Second Street Northeast to the east curb of First Street Northeast shall be under the exclusive jurisdiction and control of the Capitol Police Board and the Architect of the Capitol in the same manner and to the same extent as such Board or the Architect of the Capitol has over other streets comprising the United States Capitol Grounds, and the Architect of the Capitol shall be responsible for the maintenance and improvement thereof.”
+Pub. L. 96–432, §3, Oct. 10, 1980, 94 Stat. 1852, provided that: “On and after the effective date of this section \[see Pub. L. 96–432, §4, Oct. 10, 1980, 94 Stat. 1853\], that portion of C Street Northeast from the west curb of Second Street Northeast to the east curb of First Street Northeast shall be under the exclusive jurisdiction and control of the Capitol Police Board and the Architect of the Capitol in the same manner and to thesame extent as such Board or the Architect of the Capitol has over other streets comprising the United States Capitol Grounds, and the Architect of the Capitol shall be responsible for the maintenance and improvement thereof.”
 
 #### United States Supreme Court and Library of Congress; Jurisdictional Boundaries
 
@@ -278,7 +324,7 @@ WHEREAS, the aforesaid eight squares are identified and bound as follows: <i>Squ
 
 WHEREAS, title to all real property in these 8 squares is now vested in fee simple absolute in the United States of America;
 
-WHEREAS, subsequent to acquisition of these 8 squares, under the aforesaid authority, all alleys in these squares were closed and vacated, as were also Delaware Avenue between Independence Avenue and C Street and Carroll Street between First and Second Streets, by the Commissioners of the District of Columbia, and all areas between the property lines and outer faces of curbs surrounding these squares and Square 636 were transferred from the jurisdiction of the Commissioners of the District of Columbia to the jurisdiction of the Architect of the Capitol;
+WHEREAS, subsequent to acquisition of these 8 squares, under the aforesaid authority, all alleys in these squares were closed and vacated, as were alsoDelaware Avenue between Independence Avenue and C Street and Carroll Street between First and Second Streets, by the Commissioners of the District of Columbia, and all areas between the property lines and outer faces of curbs surrounding these squares and Square 636 were transferred from the jurisdiction of the Commissioners of the District of Columbia to the jurisdiction of the Architect of the Capitol;
 
 WHEREAS, the Rayburn House Office Building has been constructed on Squares 635 and 636 (the latter square being already owned by the government and having been combined with Square 635 as a site for this building under the aforesaid authority), and the said building is now maintained by the Architect of the Capitol as a part of the House Office Buildings, and the sidewalks and other paved and grassed areas surrounding this building are now maintained as part of the Capitol Grounds;
 
@@ -300,7 +346,7 @@ NOW, THEREFORE, in formal compliance with the aforecited provisions of the Addit
 
 &nbsp;2. All other real property acquired by the Architect of the Capitol under authority of the Additional House Office Building Act is hereby declared to be part of the United States Capitol Grounds and is hereby made subject to the Act of July 31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments to such Act.
 
-&nbsp;3. Nothing herein shall be construed to contravene (a) the provisions of Public Law 89–260 authorizing the future use of Squares 732 north and south as a site for the Library of Congress James Madison Memorial Building; or (b) the authority delegated by the House Office Building Commission to the Select House Committee under authority of H. Res. 514, 90th Congress, pertaining to the direction and supervision of the use andoperation of the four House Garages and outdoor parking lots.
+&nbsp;3. Nothing herein shall be construed to contravene (a) the provisions of Public Law 89–260 authorizing the future use of Squares 732 north and south as a site for the Library of Congress James Madison Memorial Building; or (b) the authority delegated by the House Office Building Commission to the Select House Committee under authority of H. Res. 514, 90th Congress, pertaining to the direction and supervision of the use and operation of the four House Garages and outdoor parking lots.
 
 &nbsp;4. This order shall become effective immediately.
 
@@ -311,10 +357,6 @@ John W. McCormack, <i>Chairman.</i>
 Emanuel Celler, <i>Member.</i>
 
 Charles E. Goodell, <i>Member.</i>
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5101, 5107, 8501, 8502, 8711, 8712 of this title; title 2 sections 1819, 1941, 1961, 1970, 2021, 2161.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

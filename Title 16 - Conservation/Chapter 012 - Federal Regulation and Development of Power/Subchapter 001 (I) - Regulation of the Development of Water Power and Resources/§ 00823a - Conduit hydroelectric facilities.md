@@ -58,9 +58,5 @@ The Federal Power Commission was terminated and its functions, personnel, proper
 
 Section 8(c) of Pub. L. 99–495 provided that: “Nothing in this Act \[see Short Title of 1986 Amendment note set out under section 791a of this title\] shall affect the application of section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\] to any exemption issued after the enactment of this Act \[Oct. 16, 1986\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 824a–3, 2705 of this title; title 42 section 7178.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

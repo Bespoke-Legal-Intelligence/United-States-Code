@@ -41,10 +41,6 @@
 
 1996—Pub. L. 104–264, title VI, §602(a)(2), Oct. 9, 1996, 110 Stat. 3264, added item 44724.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 106, 46301, 46316 of this title; title 10 section 2640; title 11 section 1110.
-
 
 ---
 

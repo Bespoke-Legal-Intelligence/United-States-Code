@@ -60,7 +60,3 @@ Expiration of Authority.—The authority of the Administrator to accept gifts an
 
 Pub. L. 107–330, title II, §204, Dec. 6, 2002, 116 Stat. 2824, provided that: “The Secretary of the Army is authorized to place in Arlington National Cemetery a memorial marker honoring veterans who fought in the battle in the European theater of operations during World War II known as the Battle of the Bulge.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2411 of this title.
-

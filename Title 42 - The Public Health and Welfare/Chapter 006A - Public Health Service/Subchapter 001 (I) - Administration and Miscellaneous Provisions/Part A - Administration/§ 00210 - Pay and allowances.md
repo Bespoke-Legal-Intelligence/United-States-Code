@@ -12,7 +12,7 @@ Commissioned officers on active duty and retired officers entitled to retired pa
 
 #### (c) Members of national advisory or review councils or committees
 
-Members of the National Advisory Health Council and members of other national advisory or review councils or committees established under this chapter, including members of the Technical Electronic Product Radiation Safety Standards Committee and the Board of Regents of the National Library of Medicine, but excluding ex officio members, while attending conferences or meetings of their respective councils or committees or while otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, but at rates not exceeding the daily equivalent of the rate specified at the time of such service for grade GS–18 of the General Schedule, including traveltime; and while awayfrom their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
+Members of the National Advisory Health Council and members of other national advisory or review councils or committees established under this chapter, including members of the Technical Electronic Product Radiation Safety Standards Committee and the Board of Regents of the National Library of Medicine, but excluding ex officio members, while attending conferences or meetings of their respective councils or committees or while otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, but at rates not exceeding the daily equivalent of the rate specified at the time of such service for grade GS–18 of the General Schedule, including traveltime; and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
 
 #### (d) Field employees
 
@@ -20,7 +20,7 @@ Field employees of the Service, except those employed on a per diem or fee basis
 
 #### (e) Additional pay for service at Gillis W. Long Hansen's Disease Center
 
-Any civilian employee of the Service who is employed at the Gillis W. Long Hansen's Disease Center on April 7, 1986, shall be entitled to receive, in addition to any compensation to which the employee may otherwise be entitled and for so long as the employee remains employed at the Center, an amount equal to one-fourth of such compensation.
+Any civilian employee of the Service who is employed at the Gillis W. Long Hansen's Disease Center on April 7, 1986, shall be entitled to receive, in addition to any compensation to which the employee may otherwise be entitled and for so long as the employee remains employed atthe Center, an amount equal to one-fourth of such compensation.
 
 #### (f) Allowances included in fellowships
 
@@ -46,7 +46,7 @@ A prior section 208 of act July 1, 1944, was renumbered section 207 and is class
 
 “(2)(A) Except as provided in subparagraph (B), commissioned medical and dental officers in the Regular and Reserve Corps shall while on active duty be paid special pay in the same amounts as, and under the same terms and conditions which apply to, the special pay now or hereafter paid to commissioned medical and dental officers of the Armed Forces under chapter 5 of title 37.
 
-“(B) A commissioned medical officer in the Regular or Reserve Corps (other than an officer serving in the Indian Health Service) may not receive additional special pay under section 302(a)(4) of title 37 for any period during which the officer is providing obligated service under (i) section 254m of this title, (ii) section 234(e) of this title (as such section was in effect prior to October 1, 1977), or (iii) section 294u of this title (as such sectionwas in effect between October 1, 1977, and August 13, 1981).”
+“(B) A commissioned medical officer in the Regular or Reserve Corps (other than an officer serving in the Indian Health Service) may not receive additional special pay under section 302(a)(4) of title 37 for any period during which the officer is providing obligated service under (i) section 254m of this title, (ii) section 234(e) of this title (as such section was in effect prior to October 1, 1977), or (iii) section 294u of this title (as such section was in effect between October 1, 1977, and August 13, 1981).”
 
 Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title VI, §634(b)(1)\], struck out par. (3) which read as follows: “Commissioned nurse officers in the Regular and Reserve Corps shall, while in active duty, be paid incentive special pay in the same amounts as, and under the same terms and conditions which apply to, the incentive special pay now or hereafter paid to commissioned nurse officers of the Armed Forces under chapter 5 of title 37.”
 
@@ -154,7 +154,7 @@ Section 3(a) of act Aug. 9, 1950, provided that: “Sections 1 and 2 of this Act
 
 #### Effective Date of 1949 Amendment
 
-Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as a note under section 854a of Title 33, Navigation and Navigable Waters.
+Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as a noteunder section 854a of Title 33, Navigation and Navigable Waters.
 
 #### Repeals
 
@@ -199,8 +199,4 @@ Pub. L. 98–139, title II, §208, Oct. 31, 1983, 97 Stat. 888.
 #### Nurses and Allied Health Professionals
 
 Pub. L. 100–436, title II, §214, Sept. 20, 1988, 102 Stat. 1700, provided that: “Funds made available for fiscal year 1989 and hereafter to the National Institutes of Health shall be available for payment of nurses and allied health professionals using pay, schedule options, benefits, and other authorities as provided for the nurses of the Veterans’ Administration under 38 U.S.C. chapter 73.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 217a, 242k, 286b–2, 289 of this title; title 21 section 360kk.
 

@@ -90,7 +90,7 @@ Formula.—Not later than February 1 of each year, the Secretary shall apportion
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of vehicles in the bus fleet of the eligible project of the designated recipient, weighted by severity of nonattainment for the area in which the eligible project is located, as provided in paragraph (2); and
 
-&emsp;&emsp;&emsp;&emsp;(II) the total number of vehicles in the bus fleets of all eligible projects in areaswith a population of less than 1,000,000 funded under this section, weighted by severity of nonattainment for all areas in which those eligible projects are located, as provided in paragraph (2); and
+&emsp;&emsp;&emsp;&emsp;(II) the total number of vehicles in the bus fleets of all eligible projects in areas with a population of less than 1,000,000 funded under this section, weighted by severity of nonattainment for all areas in which those eligible projects are located, as provided in paragraph (2); and
 
 &emsp;&emsp;&emsp;(ii) 50 percent shall be apportioned, such that each such designated recipient receives a grant in an amount equal to the ratio between—
 
@@ -180,7 +180,7 @@ Clean diesel buses.—Not more than 35 percent of the amount made available by o
 
 &emsp;(3)
 
-Bus retrofitting and replacement.—Not more than 5 percent of the amount made available by or appropriated under section 5338 in each fiscal year to carry out this section may be made available to fund retrofitting or replacement of the engines of buses that donot meet the clean air standards of the Environmental Protection Agency, as in effect on the date on which the application for such retrofitting or replacement is submitted under subsection (c)(1).
+Bus retrofitting and replacement.—Not more than 5 percent of the amount made available by or appropriated under section 5338 in each fiscal year to carry out this section may be made available to fund retrofitting or replacement of the engines of buses that do not meet the clean air standards of the Environmental Protection Agency, as in effect on the date on which the application for such retrofitting or replacement is submitted under subsection (c)(1).
 
 (f)
 
@@ -224,7 +224,7 @@ In subsection (b)(2), the words “the limitations contained in” and “applic
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (d)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended. Subpart 2 of part D of title I of the Act is classified to subpart 2 (§7511 et seq.) of part D of subchapter I of chapter 85 of Title 42, The Public Health and Welfare. Subpart 3 of part D of title I of the Act is classified to subpart 3 (§7512 et seq.) of part D of subchapter I of chapter 85 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (d)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended. Subpart 2 of part D of title I of the Act is classified to subpart 2 (§7511 et seq.) of part D of subchapter I of chapter 85 of Title 42, The Public Health and Welfare. Subpart 3 of part D of title I of the Act is classified to subpart 3\(§7512 et seq.) of part D of subchapter I of chapter 85 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 #### Amendments
 
@@ -263,8 +263,4 @@ Study.—The Comptroller General shall conduct a study of the various low and ze
 “(b)
 
 Report.—Not later than January 1, 2000, the Comptroller General shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the results of the study, together with recommendations for incentives to encourage the use of low and zero emission fuel technology for transit vehicles.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5309, 5323, 5333, 5338 of this title.
 

@@ -4,7 +4,3 @@ All acceptances of cash settlements by the Commissioner of Indian Affairs for li
 
 (May 24, 1950, ch. 197, §1, 64 Stat. 190.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1461 of this title.
-

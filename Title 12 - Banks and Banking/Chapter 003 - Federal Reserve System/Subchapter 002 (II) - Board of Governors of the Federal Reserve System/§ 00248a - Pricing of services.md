@@ -38,7 +38,7 @@ The schedule of fees prescribed pursuant to this section shall be based on the f
 
 #### (d) Budgetary consequences of decline in volume of services
 
-The Board shall require reductions in the operating budgets of the Federal Reserve bankscommensurate with any actual or projected decline in the volume of services to be provided by such banks. The full amount of any savings so realized shall be paid into the United States Treasury.
+The Board shall require reductions in the operating budgets of the Federal Reserve banks commensurate with any actual or projected decline in the volume of services to be provided by such banks. The full amount of any savings so realized shall be paid into the United States Treasury.
 
 #### (e) Parity in clearing
 
@@ -57,8 +57,4 @@ Section 612(b) of Pub. L. 100–86 provided that: “The amendment made by subse
 #### Effective Date
 
 Section effective on first day of sixth month which begins after Mar. 31, 1980, see section 108 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 248 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 461, 1431, 1795f, 1841 of this title.
 

@@ -20,7 +20,7 @@ It is the policy of the United States to use its abundant agricultural productiv
 
 2002—Par. (6). Pub. L. 107–171 added par. (6).
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions declaring policy of United States to expand trade, develop export markets, encourage economic development and private enterprise in developing countries, improve local food production and promote foreign policy, and requiring President to give priority to countries most affected by food shortages, encourage other donors, link assistance to local agricultural and related development, seek expanded markets for American commodities, and recognize and support American farm economy.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions declaring policy of United States to expand trade, develop export markets, encourage economic development and private enterprise in developing countries, improve local food production and promote foreign policy, and requiringPresident to give priority to countries most affected by food shortages, encourage other donors, link assistance to local agricultural and related development, seek expanded markets for American commodities, and recognize and support American farm economy.
 
 1985—Pub. L. 99–198 included Congressional declaration of policy to use accrued foreign currencies to foster and encourage the development of private enterprise in developing countries and to enhance food security in developing countries through local food production in first sentence.
 
@@ -38,7 +38,7 @@ Section 5 of Pub. L. 89–808 provided that: “This Act \[enacting sections 170
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–385, §1(a), Nov. 13, 1998, 112 Stat. 3460, provided that: “This Act \[amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, enacting provisions set out as notes under this section, section 1721 of this title, and section 2293of Title 22, Foreign Relations and Intercourse, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the ‘Africa: Seeds of Hope Act of 1998’.”
+Pub. L. 105–385, §1(a), Nov. 13, 1998, 112 Stat. 3460, provided that: “This Act \[amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, enacting provisions set out as notes under this section, section 1721 of this title, and section 2293 of Title 22, Foreign Relations and Intercourse, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the ‘Africa: Seeds of Hope Act of 1998’.”
 
 Pub. L. 105–385, title II, §211, Nov. 13, 1998, 112 Stat. 3465, provided that: “This subtitle \[subtitle B (§§211, 212) of title II of Pub. L. 105–385, amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the ‘Bill Emerson Humanitarian Trust Act of 1998’.”
 
@@ -146,7 +146,7 @@ Section 1. <i>Establishment of Programs</i>. There is hereby established:
 
 Sec. 2. <i>International Negotiations and Accounting for Foreign Currencies</i>. (a) The Secretary with respect to title I, and the Administrator with respect to titles II and III of the Agricultural Trade Development Act, shall negotiate and execute agreements under the Agricultural Trade Development Act in accord with section 112b of title I \[sic\] of the United States Code and applicable regulations and procedures of the Department of State.
 
-(b)(1) Foreign currencies that accrue to the United States under titles I and III of the Agricultural Trade Development Act may be used for the purposes set forth in section 104 and section 306 of that Act \[7 U.S.C. 1704, 1727e\], respectively, in amounts consistent with applicable provisions of law and agreements. Such foreign currencies shall be subject to regulations of the Department of the Treasury governing the purchase, custody, deposit, transfer, and sale of foreign currencies received under the Agricultural Trade Development Act.
+(b)(1) Foreign currencies that accrue to the United States under titles I and III of the Agricultural Trade Development Act may be used for the purposes set forth in section 104 and section 306 of that Act \[7 U.S.C. 1704, 1727e\], respectively, in amounts consistent withapplicable provisions of law and agreements. Such foreign currencies shall be subject to regulations of the Department of the Treasury governing the purchase, custody, deposit, transfer, and sale of foreign currencies received under the Agricultural Trade Development Act.
 
 (2) The Director of the Office of Management and Budget (hereafter referred to as the “Director”) shall determine the amount of foreign currencies to be used for the purposes of section 104(c)(8) of the Agricultural Trade Development Act, and such purposes shall be carried out by the agencies with authority to pay the obligations abroad. The purposes of the remaining paragraphs of section 104(c) of that Act shall be carried out by the Department of Agriculture, utilizing, where appropriate, the expertise of other agencies.
 
@@ -164,7 +164,7 @@ Sec. 4. <i>Delegation of Responsibilities</i>. (a) The function conferred upon t
 
 (b) The functions conferred upon the President by section 411 of the Agricultural Trade Development Act \[7 U.S.C. 1736e\] are hereby delegated to the Secretary, in consultation with the Council and the Department of the Treasury.
 
-(c) The functions conferred upon the President by section 412(c) of the Agricultural Trade DevelopmentAct \[7 U.S.C. 1736f(c)\] are hereby delegated to the Director, who shall consult with the Council on these functions.
+(c) The functions conferred upon the President by section 412(c) of the Agricultural Trade Development Act \[7 U.S.C. 1736f(c)\] are hereby delegated to the Director, who shall consult with the Council on these functions.
 
 (d) The functions conferred upon the President by title V of the Agricultural Trade Development Act \[7 U.S.C. 1737\] are hereby delegated to the Administrator.
 
@@ -173,8 +173,4 @@ Sec. 4. <i>Delegation of Responsibilities</i>. (a) The function conferred upon t
 Sec. 5. <i>Regulatory Review</i>. Policies, regulations, and analyses required by this Executive order shall be fully consistent with the standards and criteria, analyses and procedures set forth in Executive Order Nos. 12291 and 12498 \[formerly 5 U.S.C. 601 notes\].
 
 Sec. 6. <i>Revocations</i>. Executive Order No. 12220 of June 27, 1980, and Executive Order No. 12583 of February 19, 1987, are revoked.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1701, 1727, 1727b, 1727e of this title.
 

@@ -22,7 +22,3 @@
 
 Section 107(c) of Pub. L. 104–132 provided that: “Chapter 154 of title 28, United States Code (as added by subsection (a)) shall apply to cases pending on or after the date of enactment of this Act \[Apr. 24, 1996\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2262, 2265 of this title.
-

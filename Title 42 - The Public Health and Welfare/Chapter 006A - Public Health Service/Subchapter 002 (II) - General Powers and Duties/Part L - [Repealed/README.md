@@ -8,8 +8,6 @@ Part L—\[Repealed\]
 
 1990—Pub. L. 101–616, title I, §101(a)(1), Nov. 16, 1990, 104 Stat. 3279, redesignated part K “Health Care Services in the Home” as L.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

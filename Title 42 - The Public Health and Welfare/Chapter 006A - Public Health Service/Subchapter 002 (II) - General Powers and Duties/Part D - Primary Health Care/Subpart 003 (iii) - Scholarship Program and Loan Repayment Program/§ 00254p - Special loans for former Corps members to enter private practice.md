@@ -82,7 +82,3 @@ Section effective Oct. 1, 1977, see section 408(b)(1) of Pub. L. 94–484, set o
 
 See section 408(b)(2) of Pub. L. 94–484, set out as a note under section 254<i>l</i> of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 254<i>o</i>, 293b of this title.
-

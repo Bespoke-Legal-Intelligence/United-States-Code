@@ -138,7 +138,7 @@ In subsection (c), the words “disability retirement pay” are omitted as cove
 
 #### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–314 inserted second sentence and struck out former second sentence which read as follows: “No payment to an officer under thissubsection may exceed $16,000 for any twelve-month period beginning in fiscal year 1990, $22,000 for any twelve-month period beginning in fiscal year 1991, $29,000 for any twelve-month period beginning in fiscal year 1992, and $36,000 for any twelve-month period beginning after fiscal year 1992.”
+2002—Subsec. (b)(1). Pub. L. 107–314 inserted second sentence and struck out former second sentence which read as follows: “No payment to an officer under this subsection may exceed $16,000 for any twelve-month period beginning in fiscal year 1990, $22,000 for any twelve-month period beginning in fiscal year 1991, $29,000 for any twelve-month period beginning in fiscal year 1992, and $36,000 for any twelve-month period beginning after fiscal year 1992.”
 
 2000—Subsec. (h)(1). Pub. L. 106–398 inserted before period at end “, including active duty in the form of annual training, active duty for training, and active duty for special work”.
 
@@ -234,7 +234,7 @@ Subsec. (h). Pub. L. 96–513 added subsec. (h).
 
 1963—Subsec. (a). Pub. L. 88–2 substituted “July 1, 1967” for “July 1, 1963” wherever appearing.
 
-Subsec. (b)(3), (4). Pub. L. 88–132 increased monthly special pay of officers completing at least six years of active duty from $200 to $250 in par. (3), and officers completing at least 10 years of active duty from $250 to $350 in par. (4).
+Subsec. (b)(3), (4). Pub. L. 88–132 increased monthly special pay of officers completing at least six years of active duty from $200 to $250 in par. (3), and officerscompleting at least 10 years of active duty from $250 to $350 in par. (4).
 
 #### Effective Date of 1989 Amendment
 
@@ -311,8 +311,4 @@ Pub. L. 96–513, title VI, §641, Dec. 12, 1980, 94 Stat. 2954, as amended by P
 #### Transition Provisions
 
 Section 7 of Pub. L. 96–284 provided that: “Notwithstanding any provision of the amendments made by this Act; \[see Short Title of 1980 Amendment note set out under section 101 of this title\], and in accordance with regulations to be prescribed by the Secretary of Defense, any officer of the Army, Navy, or Air Force who at any time before the effective date of the amendments made by this Act \[see Effective Date of 1980 Amendment note set out above\] was entitled to special pay under section 302 of title 37, United States Code, and any officer who after such effective date would have become entitled to special pay under such section (as in effect on the day before such effective date) had such section continued in effect, shall be paid basic pay and special pay under section 302 of such title (as in effect on and after the effective date of the amendments made by this Act) in a total amount not less than the total amount of the basic pay (as in effect on the day before such date) and special pay applicable (or which would have been applicable) to such officer under sections 302, 311, and 313 of such title (as in effect on the day before such date and computed on the rates of basic pay as in effect on the day before such date).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 301d, 302f, 303a, 303b of this title; title 25 section 1616i.
 

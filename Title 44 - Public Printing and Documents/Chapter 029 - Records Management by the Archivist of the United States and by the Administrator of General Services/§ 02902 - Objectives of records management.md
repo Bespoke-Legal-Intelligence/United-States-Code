@@ -30,7 +30,3 @@ A prior section 2902, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1296, related to
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3102 of this title.
-

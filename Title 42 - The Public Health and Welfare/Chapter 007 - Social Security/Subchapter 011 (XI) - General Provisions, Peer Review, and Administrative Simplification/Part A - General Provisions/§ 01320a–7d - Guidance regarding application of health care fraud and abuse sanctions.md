@@ -136,7 +136,7 @@
 
 &emsp;&emsp;(B) the volume and frequency of the conduct that would be identified in the special fraud alert.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128D, as added Pub. L. 104–191, title II, §205, Aug. 21, 1996, 110 Stat. 2000; amended Pub. L. 105–33, title IV, §4331(a)(1), Aug. 5, 1997, 111 Stat. 395; Pub. L. 105–277, div. J, title V, §5201(c), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–554, §1(a)(6) \[title V, §543\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551.)
+(Aug. 14, 1935, ch. 531, title XI, §1128D, as added Pub. L. 104–191, title II, §205, Aug. 21, 1996, 110Stat. 2000; amended Pub. L. 105–33, title IV, §4331(a)(1), Aug. 5, 1997, 111 Stat. 395; Pub. L. 105–277, div. J, title V, §5201(c), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–554, §1(a)(6) \[title V, §543\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551.)
 
 #### References in Text
 
@@ -157,10 +157,6 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(3)(B), is classifi
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–33 effective as if included in the enactment of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, see section 4331(f) of Pub. L. 105–33, set out as a note under section 1320a–7e of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320a–7c, 1395nn of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

@@ -54,7 +54,3 @@ The Secretary shall, to the extent practicable, provide child care at or near Jo
 
 Provisions similar to this section were contained in section 1698 of this title prior to repeal by Pub. L. 105–220.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2886 of this title.
-

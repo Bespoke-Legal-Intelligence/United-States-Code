@@ -22,6 +22,10 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Section 814(e)(2) of div. I of Pub. L. 104–333 provided that: “The amendment made by subsection (a) \[probably should be “paragraph (1)”, which amended this section\] shall take effect on February 1, 1997, and shall apply with respect to the individual (if any) serving as the Director of the National Park Service on that date.”
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–352, §1, Oct. 21, 2004, 118 Stat. 1395, provided that: “This Act \[amending sections 1a–6, 392c, 410ggg, 410ggg–1, 430h–11, 460kkk, 470h–2, 698u–4, 1244, 1249, and 1274 of this title, enacting provisions set out as notes under this section and section 502 of Title 40, Public Buildings, Property, and Works, and amending provisions listed in a table of National Historic Sites and a table of National Heritage Areas set out under section 461 of this title and a table of Commemorative Works set out under section 8903 of Title 40\] may be cited as the ‘National Park System Laws Technical Amendments Act of 2004’.”
+
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–236, §1, Oct. 9, 2002, 116 Stat. 1483, provided that: “This Act \[amending section 460kk of this title\] may be cited as the ‘Santa Monica Mountains National Recreation Area Boundary Adjustment Act’.”
@@ -30,7 +34,7 @@ Pub. L. 107–236, §1, Oct. 9, 2002, 116 Stat. 1483, provided that: “This Act
 
 Pub. L. 106–510, §1, Nov. 13, 2000, 114 Stat. 2363, provided that: “This Act \[amending sections 391b, 391d, 392c, 396b, 396c, 396d, 397 to 397b, 397d, and 1244 of this title and section 1026 of Title 30, Mineral Lands and Mining, enacting provisions set out as notes under sections 391d, 396b, 396d, and 397 of this title, and amending provisions set out as notes under sections 1a–1 and 391 of this title, section 1005 of Title 30, provisions listed in a table of National Historic Sites set out under section 461 of this title, and provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Hawaii Volcanoes National Park Adjustment Act of 2000’.”
 
-Pub. L. 106–176, §1(a), Mar. 10, 2000, 114 Stat. 23, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Omnibus Parks Technical Corrections Act of 2000’.”
+Pub. L. 106–176, §1(a), Mar. 10, 2000, 114 Stat. 23, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Omnibus Parks Technical Corrections Act of 2000’.”
 
 #### Short Title of 1998 Amendment
 
@@ -46,15 +50,15 @@ Pub. L. 98–141, §1, Oct. 31, 1983, 97 Stat. 909, provided: “That this Act \
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–625, §1, Nov. 10, 1978, 92 Stat. 3467, provided that: “This Act \[enacting chapter 45 and sections 45f,230 to 230i, 241g, 396d, 410y–1a, 441e–1, 459c–6b, 460m–15 to 460m–25, 460kk, 471i, and 1285a of this title, amending sections 1a–5, 1a–7, 273f, 282c, 283e, 397 to 397d, 410y–6, 410z, 410z–1, 430mm, 450mm–1, 450qq–4, 459c–1, 459c–5, 459e, 459e–1, 459e–6, 459e–9, 459h–10, 459i, 459i–9, 460<i>l</i>–8, 460m–14, 460<i>o</i>–1, 460q–9, 460u–9, 460aa–12, 460bb–1 to 460bb–4, 460ff–1, 460ff–3, 460ff–5, 460gg, 463, 469c, 470t, 698m, 1241, 1242, 1244 to 1247, 1249, 1273, 1274, 1276, 1277, 1283, and 1287 of this title, repealing sections 45a–3 and 688 of this title, enacting provisions set out as notes under sections 1a–5, 45a–1, 45f, 410z, 430nn, 430<i>oo</i>, 431, 461, 602, 688, 1246, 1274, and 2501 of this title, and amending provisions set out as notes under sections 431, 433c, 450bb, 461, and 1132 of this title\] may be cited as the ‘National Parks and Recreation Act of 1978’.”
+Pub. L. 95–625, §1, Nov. 10, 1978, 92 Stat. 3467, provided that: “This Act \[enacting chapter 45 and sections 45f, 230 to 230i, 241g, 396d, 410y–1a, 441e–1, 459c–6b, 460m–15 to 460m–25, 460kk, 471i, and 1285a of this title, amending sections 1a–5, 1a–7, 273f, 282c, 283e, 397 to 397d, 410y–6, 410z, 410z–1, 430mm, 450mm–1, 450qq–4, 459c–1, 459c–5, 459e, 459e–1, 459e–6, 459e–9, 459h–10, 459i, 459i–9, 460<i>l</i>–8, 460m–14, 460<i>o</i>–1, 460q–9, 460u–9, 460aa–12, 460bb–1 to 460bb–4, 460ff–1, 460ff–3, 460ff–5, 460gg, 463, 469c, 470t, 698m, 1241, 1242, 1244 to 1247, 1249, 1273, 1274, 1276, 1277, 1283, and 1287 of this title, repealing sections 45a–3 and 688 of this title, enacting provisions set out as notes under sections 1a–5, 45a–1, 45f, 410z, 430nn, 430<i>oo</i>, 431, 461, 602, 688, 1246, 1274, and 2501 of this title, and amending provisions set out as notes under sections 431, 433c, 450bb, 461, and 1132 of this title\] may be cited as the ‘National Parks and Recreation Act of 1978’.”
 
 #### Short Title of 1970 Amendment
 
-Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 825, as amended, which enacted sections 1a–1 to 1a–7 of this title, amended sections 1b, 1c, 17j, 460n–5, 463, 470a, and 559 of this title, and repealed sections 10, 10a, 17b–1, and 415 of this title, is popularly known as the “National Park System General Authorities Act”.
+Pub. L. 91–383, §14, as added by Pub. L. 108–352, §10(b), Oct. 21, 2004, 118 Stat. 1397, provided that: “This Act \[enacting sections 1a–1 to 1a–7a of this title, amending sections 1b, 1c, 17j, 460n–5, 463, 470a, and 559 of this title, and repealing sections 10, 10a, 17b–1, and 415 of this title\] may be cited as the ‘National Park System General Authorities Act’.”
 
 #### Short Title
 
-Act of August 25, 1916, ch. 408, 39 Stat. 535, as amended, which is classified generally to this section and sections 2, 3, and 4 of this title, is popularly known as the “National Park Service Organic Act”.
+Act Aug. 25, 1916, ch. 408, §5, as added by Pub. L. 108–352, §10(a), Oct. 21, 2004, 118 Stat. 1397, provided that: “This Act \[enacting this section and sections 2, 3, and 4 of this title and amending sections 22 and 43 of this title and section 1457 of Title 43, Public Lands\] may be cited as the ‘National Park Service Organic Act’.”
 
 #### Transfer of Functions
 
@@ -86,9 +90,5 @@ Pub. L. 94–533, §3, Oct. 17, 1976, 90 Stat. 2494, directed Secretary of the I
 
 #### National Park Centennial Commission
 
-Pub. L. 91–332, July 10, 1970, 84 Stat. 427, provided that 1972 was to be designated by President as “National Parks Centennial Year”, in recognition in 1872 of establishment of world's first national park at Yellowstone. There was also established a National Park Centennial Commission, composed of four members of Senate, four members of House, Secretary of the Interior, and six persons to be appointed by President. The Commission was empowered to prepare a suitable plan for commemoration of establishment of Yellowstone, to coordinate all activities under such plan, and to provide host services for a world conference on National Parks in 1972. The Commission was to submit a final report of its activities, including an accounting of funds received and expended, to Congress, not later than Dec. 31, 1973, and was to cease to exist upon submission of said report.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1a–1, 1c, 3, 4, 21b, 45f, 79i, 80d, 81g, 81h, 90c, 108, 111c, 119, 158, 159b, 160f, 197, 201b, 205a, 221b, 222, 230e, 231c, 245, 254, 264, 271d, 272d, 273d, 281d, 282a, 283c, 284a, 291b, 342, 345, 346a–2, 355a, 391b–1, 396b, 396d, 397d, 398c, 401, 403–3, 403b, 404b, 406d–2, 407a, 407q, 408b, 409e, 410b, 410r–7, 410w, 410y–5, 410z–4, 410aa–2, 410bb–1, 410ee, 410ff–3, 410gg–2, 410hh–2, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410mm–1, 410nn–1, 410<i>oo</i>–3, 410qq–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410vv–2, 410ww–4, 410xx–1, 410yy–2, 410aaa–2, 410aaa–23, 410aaa–46, 410bbb–2, 410ccc–2, 410ddd, 410eee–3, 410fff–2, 410ggg–1, 410hhh–5, 410iii–5, 410jjj–2, 423h–2, 423<i>l</i>–5, 423<i>o</i>, 426m, 428d–3, 428<i>o</i>, 429a–2, 430f–5, 430f–10, 430m, 430w, 430cc, 430hh, 430<i>ll</i>, 430ss, 430uu–2, 433b, 433j, 441c, 442, 445c, 447c, 450, 450e–1, 450n, 450q, 450t, 450y–1, 450y–6, 450bb–1, 450cc–1, 450dd–1, 450ee–1, 450ff–2, 450hh–2, 450jj–5, 450mm–3, 450<i>oo</i>–9, 450pp–1, 450ss–2, 450ss–4, 459a–1, 459b–6, 459c–6, 459d–4, 459h–4, 459i–5, 459j–4, 460, 460a–2, 460m–5, 460m–12, 460m–15, 460s–5, 460w–5, 460x–5, 460bb–3, 460cc–2,460dd–3, 460ee, 460ff–3, 460hh–3, 460ii–2, 460kk, 460uu–2, 460ww–1, 460yy–1, 460eee–1, 460fff–1, 460kkk, 467b, 698c, 698i, 698n, 698r, 698u–3, 698w, 1133, 1902, 3125, 5931, 5951, 5959 of this title; title 30 section 1014; title 36 section 153513; title 40 section 1314; title 48 section 1705.
+Pub. L. 91–332, July 10, 1970, 84 Stat. 427, provided that 1972 was to be designated by President as “National Parks Centennial Year”, in recognition in 1872 of establishment of world's first national park at Yellowstone. There was also established a National Park CentennialCommission, composed of four members of Senate, four members of House, Secretary of the Interior, and six persons to be appointed by President. The Commission was empowered to prepare a suitable plan for commemoration of establishment of Yellowstone, to coordinate all activities under such plan, and to provide host services for a world conference on National Parks in 1972. The Commission was to submit a final report of its activities, including an accounting of funds received and expended, to Congress, not later than Dec. 31, 1973, and was to cease to exist upon submission of said report.
 

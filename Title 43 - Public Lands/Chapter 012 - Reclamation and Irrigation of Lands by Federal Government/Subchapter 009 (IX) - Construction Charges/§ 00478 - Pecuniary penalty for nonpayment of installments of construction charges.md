@@ -8,7 +8,3 @@ If any water-right applicant or entryman shall have, prior to December 5, 1924, 
 
 Section consolidates first sentence of act Aug. 13, 1914, §3, with act Dec. 5, 1924, §4, subsec. H.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 371, 417, 469, 493, 500, 511 of this title.
-

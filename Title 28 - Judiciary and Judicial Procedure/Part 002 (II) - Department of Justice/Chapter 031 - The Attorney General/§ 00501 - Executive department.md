@@ -24,6 +24,10 @@ The words “There shall be”, referring to the establishment of the Department
 
 A prior section 501, acts June 25, 1948, ch. 646, 62 Stat. 909; Mar. 18, 1959, Pub. L. 86–3, §11(a), 73 Stat. 9, related to appointment of United States attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 541 of this title by section 4(c) of Pub. L. 89–554.
 
+#### Office of Justice for Victims of Overseas Terrorism
+
+Pub. L. 108–447, div. B, title I, §126, Dec. 8, 2004, 118 Stat. 2872, provided that: “The Department of Justice shall establish an Office of Justice for Victims of Overseas Terrorism.”
+
 #### Specific Authorization of Appropriations Required for Department of Justice
 
 Pub. L. 94–503, title II, §204, Oct. 15, 1976, 90 Stat. 2427, provided that: “No sums shall be deemed to be authorized to be appropriated for any fiscal year beginning on or after October 1, 1978, for the Department of Justice (including any bureau, agency, or other similar subdivision thereof) except as specifically authorized by Act of Congress with respect to such fiscal year. Neither the creation of a subdivision in the Department of Justice, nor the authorization of an activity of the Department, any subdivision, or officer thereof, shall be deemed in itself to be an authorization of appropriations for the Department of Justice, such subdivision, or activity, with respect to any fiscal year beginning on or after October 1, 1978.”

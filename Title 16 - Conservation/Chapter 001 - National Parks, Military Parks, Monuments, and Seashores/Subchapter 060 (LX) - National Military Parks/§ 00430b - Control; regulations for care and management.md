@@ -8,7 +8,3 @@ Such park shall be under the control and direction of the Secretary of the Inter
 
 Transfer of administrative functions of park, see note set out under section 430a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 430 of this title.
-

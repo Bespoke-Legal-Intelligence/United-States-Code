@@ -10,7 +10,7 @@
 
 #### (B) Sites for consideration
 
-&emsp;&emsp;In designating a site under subparagraph (A), the Board of Regents shall select fromamong the following sites in the District of Columbia:
+&emsp;&emsp;In designating a site under subparagraph (A), the Board of Regents shall select from among the following sites in the District of Columbia:
 
 &emsp;&emsp;&emsp;(i) The Arts and Industries Building of the Smithsonian Institution, located on the National Mall at 900 Jefferson Drive, Southwest, Washington, District of Columbia.
 
@@ -75,8 +75,4 @@ The Board of Regents shall pay—
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
 (Pub. L. 108–184, §8, Dec. 16, 2003, 117 Stat. 2680.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80r–9 of this title.
 

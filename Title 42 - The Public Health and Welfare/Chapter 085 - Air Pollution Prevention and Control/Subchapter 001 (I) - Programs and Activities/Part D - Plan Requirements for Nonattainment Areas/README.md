@@ -1,9 +1,5 @@
 Part D—Plan Requirements for Nonattainment Areas
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 7407, 7410, 7412, 7421, 7429, 7492, 7543, 7545, 7586, 7589, 7590, 7604, 7616, 7625–1, 7651h, 7651n, 7661, 7661a, 9601 of this title.
-
 
 ---
 

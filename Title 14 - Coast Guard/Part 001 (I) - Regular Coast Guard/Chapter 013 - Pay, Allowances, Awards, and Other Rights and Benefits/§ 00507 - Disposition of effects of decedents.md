@@ -12,7 +12,3 @@ Said section provided for the disposition of effects of deceased naval personnel
 
 Said section would in no way be affected. 81st Congress, House Report No. 557.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 5564; title 37 section 554.
-

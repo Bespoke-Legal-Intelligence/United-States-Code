@@ -16,7 +16,3 @@ Notwithstanding subsection (a) of this section, the Secretary may make available
 
 (Pub. L. 100–691, §5, Nov. 18, 1988, 102 Stat. 4548.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4305 of this title.
-

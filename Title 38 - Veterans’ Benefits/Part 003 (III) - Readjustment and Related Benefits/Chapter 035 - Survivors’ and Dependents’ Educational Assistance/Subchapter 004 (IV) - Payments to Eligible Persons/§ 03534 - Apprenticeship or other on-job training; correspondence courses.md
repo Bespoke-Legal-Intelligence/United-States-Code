@@ -40,7 +40,7 @@ Amendment by Pub. L. 106–419 effective Nov. 1, 2000, and applicable with respe
 
 #### Effective Date of 1998 Amendments
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 Amendment by Pub. L. 105–178 effective Oct. 1, 1998, and applicable with respect to educational assistance allowances paid for months after Sept. 1998, see section 8210(e) of Pub. L. 105–178, set out as a note under section 3532 of this title.
 
@@ -51,8 +51,4 @@ Amendment by Pub. L. 101–237 effective Jan. 1, 1990, see section 403(c) of Pub
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3564 of this title.
 

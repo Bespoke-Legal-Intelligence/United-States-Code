@@ -6,7 +6,7 @@
 
 &emsp;(2) such rangelands will remain in an unsatisfactory condition and some areas may decline further under present levels of, and funding for, management;
 
-&emsp;(3) unsatisfactory conditions on public rangelands present a high risk of soil loss, desertification,<sup>1</sup> and a resultant underproductivity for large acreages of the public lands; contribute significantly to unacceptable levels of siltation and salinity in major western watersheds including the Colorado River; negatively impact the quality and availability of scarce western water supplies; threaten important and frequently critical fish and wildlife habitat; prevent expansion of the forage resource and resulting benefits to livestock and wildlife production; increase surface runoff and flood danger; reduce the value of such lands for recreational and esthetic purposes; and may ultimately lead to unpredictable and undesirable long-term local and regional climatic and economic changes;
+&emsp;(3) unsatisfactory conditions on public rangelands present a high risk of soil loss, desertification,<sup>1</sup> and a resultant underproductivity for large acreages of the public lands; contribute significantly to unacceptable levels of siltation and salinity in major western watersheds including the Colorado River; negatively impact the quality and availability of scarce western water supplies; threaten important and frequently critical fish and wildlife habitat; prevent expansion of the forage resource and resulting benefits to livestock and wildlife production; increase surface runoff and flood danger; reduce the value of such lands for recreational and esthetic purposes; and may ultimately lead to unpredictable and undesirablelong-term local and regional climatic and economic changes;
 
 &emsp;(4) the above-mentioned conditions can be addressed and corrected by an intensive public rangelands maintenance, management, and improvement program involving significant increases in levels of rangeland management and improvement funding for multiple-use values;
 
@@ -37,10 +37,6 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 #### Short Title
 
 Section 1 of Pub. L. 95–514 provided: “That this Act \[enacting this chapter and amending sections 1739 and 1751 to 1753 of this title and sections 1332 and 1333 of Title 16, Conservation\] may be cited as the ‘Public Rangelands Improvement Act of 1978’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1903 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

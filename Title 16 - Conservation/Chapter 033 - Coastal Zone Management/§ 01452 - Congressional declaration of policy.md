@@ -56,7 +56,3 @@ Pars. (5), (6). Pub. L. 101–508, §6203(b)(6), added pars. (5) and (6).
 
 1980—Pub. L. 96–464, in amending section generally, expanded declaration of policy to provide for higher level of protection for significant natural coastal resources and inserted provisions for special area management planning to increase predictability for necessary coastal-dependent economic growth, improve hazard mitigation, and improve predictability in government decisionmaking.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1455, 1455a, 1458 of this title; title 43 section 1337.
-

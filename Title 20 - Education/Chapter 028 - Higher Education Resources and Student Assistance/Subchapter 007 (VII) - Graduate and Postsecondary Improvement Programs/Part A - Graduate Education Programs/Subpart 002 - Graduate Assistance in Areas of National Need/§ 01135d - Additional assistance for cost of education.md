@@ -36,7 +36,3 @@ A prior section 1135d–5, Pub. L. 89–329, title X, §1046, as added Pub. L. 9
 
 A prior section 1135d–6, Pub. L. 89–329, title X, §1047, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1567; amended Pub. L. 100–418, title VI, §6221, Aug. 23, 1988, 102 Stat. 1518; Pub. L. 102–325, title X, §1002(f), July 23, 1992, 106 Stat. 780, which authorized appropriations, was renumbered section 366 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067<i>l</i> of this title, and repealed by section 301(a)(8) of Pub. L. 105–244.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1135b, 1135c, 1137 of this title.
-

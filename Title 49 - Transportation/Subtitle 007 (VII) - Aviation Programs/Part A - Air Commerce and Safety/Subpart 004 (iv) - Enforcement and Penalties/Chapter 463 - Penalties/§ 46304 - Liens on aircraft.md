@@ -6,7 +6,7 @@ Aircraft Subject to Liens.—When an aircraft is involved in a violation referre
 
 (b)
 
-Seizure.—An aircraft subject to a lien under this section may be seized summarily and placed in the custody of a person authorized to take custody of it under regulations of the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator). A report on the seizure shall be submitted to the Attorney General. The Attorney Generalpromptly shall bring a civil action in rem to enforce the lien or notify the Secretary or Administrator that the action will not be brought.
+Seizure.—An aircraft subject to a lien under this section may be seized summarily and placed in the custody of a person authorized to take custody of it under regulations of the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator). A report on the seizure shall be submitted to the Attorney General. The Attorney General promptly shall bring a civil action in rem to enforce the lien or notify the Secretary or Administrator that the action will not be brought.
 
 (c)
 
@@ -83,8 +83,4 @@ In subsection (c)(3), the words “under a civil action in rem” are substitute
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
 

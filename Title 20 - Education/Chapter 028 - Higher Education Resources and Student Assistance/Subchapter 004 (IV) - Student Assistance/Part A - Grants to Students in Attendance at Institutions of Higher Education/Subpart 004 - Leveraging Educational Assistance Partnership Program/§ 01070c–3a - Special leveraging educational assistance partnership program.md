@@ -44,7 +44,7 @@ Each State receiving a grant under this section may use the grant funds for—
 
 &emsp;&emsp;(A) supplement community service work-study awards received under section 1070c–2(b)(2) of this title by eligible students who demonstrate financial need; or
 
-&emsp;&emsp;(B) provide community service work-study awards under section 1070c–2(b)(2) of thistitle to additional eligible students who demonstrate financial need.
+&emsp;&emsp;(B) provide community service work-study awards under section 1070c–2(b)(2) of this title to additional eligible students who demonstrate financial need.
 
 #### (d) Maintenance of effort requirement
 
@@ -79,8 +79,4 @@ Subsecs. (f), (g). Pub. L. 106–554, §1(a)(1) \[title III, §316(3)\], which d
 #### Effective Date
 
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1070c of this title.
 

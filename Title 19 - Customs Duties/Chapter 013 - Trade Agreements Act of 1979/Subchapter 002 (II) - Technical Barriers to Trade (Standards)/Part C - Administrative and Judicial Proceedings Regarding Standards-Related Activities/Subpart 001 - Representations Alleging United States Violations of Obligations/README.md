@@ -1,9 +1,5 @@
 subpart 1—representations alleging united states violations of obligations
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 2561 of this title.
-
 
 ---
 

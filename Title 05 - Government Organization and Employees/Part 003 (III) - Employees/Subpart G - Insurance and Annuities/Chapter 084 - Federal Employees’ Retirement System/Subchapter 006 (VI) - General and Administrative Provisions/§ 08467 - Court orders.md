@@ -30,7 +30,3 @@ Subsec. (c). Pub. L. 103–358, §2(b)(3), added subsec. (c).
 
 Amendment by Pub. L. 103–358 effective Oct. 14, 1994, and applicable with respect to any decree, order, or other legal process, or notice of agreement received by Office of Personnel Management or Executive Director of Federal Retirement Thrift Investment Board on or after Oct. 14, 1994, see section 3 of Pub. L. 103–358, set out as a note under section 8345 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8420a, 8421, 8424, 8435, 8437, 8470, 8901, 8905 of this title.
-

@@ -20,7 +20,7 @@
 
 (C) Upon receipt of a report submitted under subparagraph (A), each House shall provide copies of the report to the chairman and ranking member of each standing committee with jurisdiction under the rules of the House of Representatives or the Senate to report a bill to amend the provision of law under which the rule is issued.
 
-(2)(A) The Comptroller General shall provide a report on each major rule to the committees ofjurisdiction in each House of the Congress by the end of 15 calendar days after the submission or publication date as provided in section 802(b)(2). The report of the Comptroller General shall include an assessment of the agency's compliance with procedural steps required by paragraph (1)(B).
+(2)(A) The Comptroller General shall provide a report on each major rule to the committees of jurisdiction in each House of the Congress by the end of 15 calendar days after the submission or publication date as provided in section 802(b)(2). The report of the Comptroller General shall include an assessment of the agency's compliance with procedural steps required by paragraph (1)(B).
 
 (B) Federal agencies shall cooperate with the Comptroller General by providing information relevant to the Comptroller General's report under subparagraph (A).
 
@@ -48,7 +48,7 @@
 
 (2) A rule that does not take effect (or does not continue) under paragraph (1) may not be reissued in substantially the same form, and a new rule that is substantially the same as such a rule may not be issued, unless the reissued or new rule is specifically authorized by a law enacted after the date of the joint resolution disapproving the original rule.
 
-(c)(1) Notwithstanding any other provision of this section (except subject to paragraph (3)), a rule that would not take effect by reason of subsection (a)(3) may take effect, if the President makes a determination under paragraph (2) and submits written notice of such determination to the Congress.
+(c)(1) Notwithstanding any other provision of this section (except subject to paragraph (3)), arule that would not take effect by reason of subsection (a)(3) may take effect, if the President makes a determination under paragraph (2) and submits written notice of such determination to the Congress.
 
 (2) Paragraph (1) applies to a determination made by the President by Executive order that the rule should take effect because such rule is—
 
@@ -104,7 +104,7 @@
 
 #### References in Text
 
-Sections 202, 203, 204, and 205 of the Unfunded Mandates Reform Act of 1995, referred to in subsec.\(a)(1)(B)(iii), are classified to sections 1532, 1533, 1534, and 1535, respectively, of Title 2, The Congress.
+Sections 202, 203, 204, and 205 of the Unfunded Mandates Reform Act of 1995, referred to in subsec. (a)(1)(B)(iii), are classified to sections 1532, 1533, 1534, and 1535, respectively, of Title 2, The Congress.
 
 The date of the enactment of this chapter, referred to in subsec. (e)(1), (2), is the date of the enactment of Pub. L. 104–121, which was approved Mar. 29, 1996.
 
@@ -114,7 +114,7 @@ Section 252 of Pub. L. 104–121 provided that: “The amendment made by section
 
 #### Truth in Regulating
 
-Pub. L. 106–312, Oct. 17, 2000, 114 Stat. 1248, provided that:
+Pub. L. 106–312, Oct. 17, 2000, 114 Stat. 1248, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -176,11 +176,11 @@ Procedures for priorities of requests.—The Comptroller General shall have disc
 
 “(b)
 
-Authority of Comptroller General.—Each agency shall promptly cooperate with the Comptroller General in carrying out this Act. Nothing in this Act is intended to expand or limit the authority of the General Accounting Office.
+Authority of Comptroller General.—Each agency shall promptly cooperate with the Comptroller General in carrying out this Act. Nothing in this Act is intended to expand or limit the authority of the Government Accountability Office.
 
 #### “SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
 
-“There are authorized to be appropriated to the General Accounting Office to carry out this Act $5,200,000 for each of fiscal years 2000 through 2002.
+“There are authorized to be appropriated to the Government Accountability Office to carry out this Act $5,200,000 for each of fiscal years 2000 through 2002.
 
 #### “SEC. 6. EFFECTIVE DATE AND DURATION OF PILOT PROJECT.
 
@@ -195,8 +195,4 @@ Duration of Pilot Project.—The pilot project under this Act shall continue for
 “(c)
 
 Report.—Before the conclusion of the 3-year period, the Comptroller General shall submit to Congress a report reviewing the effectiveness of the pilot project and recommending whether or not Congress should permanently authorize the pilot project.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 802, 803, 808 of this title.
 

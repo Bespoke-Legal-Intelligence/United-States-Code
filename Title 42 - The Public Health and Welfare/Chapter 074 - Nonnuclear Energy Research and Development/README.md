@@ -95,10 +95,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 5903d, 5907a, 6981, 7135a, 7259a, 8837, 13435, 13541 of this title; title 7 sections 341, 427, 1932; title 15 sections 2507, 2705, 5103, 5303.
-
 
 ---
 

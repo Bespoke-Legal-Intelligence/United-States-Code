@@ -6,7 +6,7 @@ Congress finds that employees who worked in Department of Energy test sites and 
 
 #### (b) Certification by President
 
-A covered employee with chronic silicosis shall be treated as a covered employee (as defined in section 7384<i>l</i>(1) of this title) for the purposes of the compensation program required by section 7384d of this title unless the President submits to Congress not later than 180 days after October 30, 2000, the certification of the President that there is insufficient basis to include such employees. The President shall submit with the certification any recommendations about the compensation program with respect to covered employees with chronic silicosis as the President considers appropriate.
+A covered employee with chronic silicosis shall be treated as a covered employee (as defined in section 7384<i>l</i>(1) of this title) for the purposes of the compensation program required by section 7384d of this title unless the President submits to Congress not later than 180 days after October 30, 2000, the certification of the President that there is insufficient basis to include such employees. The President shall submit with the certification any recommendationsabout the compensation program with respect to covered employees with chronic silicosis as the President considers appropriate.
 
 #### (c) Exposure to silica in the performance of duty
 
@@ -35,8 +35,4 @@ For purposes of this subchapter, the term “chronic silicosis” means a nonmal
 #### Amendments
 
 2001—Subsec. (e)(2)(A). Pub. L. 107–107 substituted “category 1/0” for “category 1/1”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7384<i>l</i>, 7385 of this title.
 

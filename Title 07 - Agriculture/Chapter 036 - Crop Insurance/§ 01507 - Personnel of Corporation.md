@@ -28,11 +28,11 @@ The Board should use, to the maximum extent possible, the resources, data, board
 
 (1) The Corporation shall establish a management-level position to be known as the Specialty Crops Coordinator.
 
-(2) The Specialty Crops Coordinator shall have primary responsibility for addressing the needs of specialty crop producers, and for providing information and advice, in connection with the activities of the Corporation to improve and expand the insurance program for specialty crops. In carrying out this paragraph, the Specialty Crops Coordinator shall act as the liaison of the Corporation with representatives of specialtycrop producers and assist the Corporation with the knowledge, expertise, and familiarity of the producers with risk management and production issues pertaining to specialty crops.
+(2) The Specialty Crops Coordinator shall have primary responsibility for addressing the needs of specialty crop producers, and for providing information and advice, in connection with the activities of the Corporation to improve and expand the insurance program for specialty crops. In carrying out this paragraph, the Specialty Crops Coordinator shall act as the liaison of the Corporation with representatives of specialty crop producers and assist the Corporation with the knowledge, expertise, and familiarity of the producers with risk management and production issues pertaining to specialty crops.
 
 (3) The Specialty Crops Coordinator shall use information collected from Corporation field office directors in States in which specialty crops have a significant economic effect and from other sources, including the extension service and colleges and universities.
 
-(Feb. 16, 1938, ch. 30, title V, §507, 52 Stat. 73; Aug. 1, 1947, ch. 440, §6, 61 Stat. 719; Aug. 25, 1949, ch. 512, §10, 63 Stat. 665; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 92–310, title II, §221(b), June 6, 1972, 86 Stat. 205; Pub. L. 96–365, title I, §104, Sept. 26, 1980, 94 Stat. 1313; Pub. L. 101–624, title XXII, §2206, Nov. 28, 1990, 104 Stat. 3958; Pub. L. 102–237, title VI, §601(3), Dec. 13, 1991, 105 Stat. 1878; Pub. L. 103–354, title I, §§102(b)(4)(B), (C), 105, 115(b), 119(f)(2), Oct. 13, 1994, 108 Stat. 3181, 3182, 3204, 3208; Pub. L. 106–224, title I, §143, June 20, 2000, 114 Stat. 391.)
+(Feb. 16, 1938, ch. 30, title V, §507, 52 Stat. 73; Aug. 1, 1947, ch. 440, §6, 61 Stat. 719; Aug. 25, 1949,ch. 512, §10, 63 Stat. 665; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 92–310, title II, §221(b), June 6, 1972, 86 Stat. 205; Pub. L. 96–365, title I, §104, Sept. 26, 1980, 94 Stat. 1313; Pub. L. 101–624, title XXII, §2206, Nov. 28, 1990, 104 Stat. 3958; Pub. L. 102–237, title VI, §601(3), Dec. 13, 1991, 105 Stat. 1878; Pub. L. 103–354, title I, §§102(b)(4)(B), (C), 105, 115(b), 119(f)(2), Oct. 13, 1994, 108 Stat. 3181, 3182, 3204, 3208; Pub. L. 106–224, title I, §143, June 20, 2000, 114 Stat. 391.)
 
 #### References in Text
 
@@ -91,8 +91,4 @@ Act Oct. 29, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
 
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1508 of this title.
 

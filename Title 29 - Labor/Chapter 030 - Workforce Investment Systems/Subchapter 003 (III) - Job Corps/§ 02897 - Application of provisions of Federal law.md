@@ -38,7 +38,3 @@ The Federal tort claim provisions in title 28, referred to in subsec. (a)(4), ar
 
 Provisions similar to this section were contained in section 1706 of this title prior to repeal by Pub. L. 105–220.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2900 of this title.
-

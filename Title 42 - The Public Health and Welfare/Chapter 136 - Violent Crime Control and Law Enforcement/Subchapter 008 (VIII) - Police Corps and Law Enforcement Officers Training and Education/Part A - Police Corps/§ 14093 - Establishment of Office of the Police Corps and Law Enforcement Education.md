@@ -4,7 +4,3 @@ There is established in the Department of Justice, under the general authority o
 
 (Pub. L. 103–322, title XX, §200104, Sept. 13, 1994, 108 Stat. 2050.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14092, 14111 of this title.
-

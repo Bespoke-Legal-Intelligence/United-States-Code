@@ -1,6 +1,6 @@
 ### §16. Washington-Alaska Military Cable and Telegraph System; money transfers; portion of receipts withheld
 
-On and after May 20, 1926, such amount of money as may be authorized by the Secretary of the Army may be withheld temporarily from the receipts of the Washington-Alaska Military Cable and Telegraph System by the auditor ofsaid system as a working balance from which to make payments of money transfers from and to Alaska and between points within Alaska, to be accounted for accordingly.
+On and after May 20, 1926, such amount of money as may be authorized by the Secretary of the Army may be withheld temporarily from the receipts of the Washington-Alaska Military Cable and Telegraph System by the auditor of said system as a working balance from which to make payments of money transfers from and to Alaska and between points within Alaska, to be accounted for accordingly.
 
 (May 20, 1926, ch. 345, 44 Stat. 576; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 92–310, title III, §233, June 6, 1972, 86 Stat. 214.)
 

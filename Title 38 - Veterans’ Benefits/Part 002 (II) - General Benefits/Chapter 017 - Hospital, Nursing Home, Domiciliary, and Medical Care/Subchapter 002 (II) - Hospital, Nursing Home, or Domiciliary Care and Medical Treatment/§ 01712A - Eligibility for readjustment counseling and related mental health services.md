@@ -520,7 +520,3 @@ Section 102 of Pub. L. 98–160, as amended by Pub. L. 99–576, title II, §216
 
 Section 103(b) of Pub. L. 96–22, as amended by Pub. L. 102–83, §§5(c)(2), 6(d), Aug. 6, 1991, 105 Stat. 406, 407, provided that: “In the event of a declaration of war by the Congress after June 13, 1979, the Secretary of Veterans Affairs, not later than six months after the date of such declaration, shall determine and recommend to the Congress whether eligibility for the readjustment counseling and related mental health services provided for in section 1712A \[formerly 612A\] of title 38, United States Code (as added by subsection (a) of this section) should be extended to the veterans of such war.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1703, 1710, 4102A, 4214, 7306 of this title; title 29 section 2913.
-

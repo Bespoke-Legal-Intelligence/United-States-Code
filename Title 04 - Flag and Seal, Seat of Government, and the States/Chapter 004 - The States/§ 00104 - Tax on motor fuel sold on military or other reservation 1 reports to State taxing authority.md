@@ -30,9 +30,5 @@ Section 210 of Pub. L. 91–258, title II, May 21, 1970, 84 Stat. 253, provided 
 
 “(c) In the case of any lease in effect on September 28, 1969, subsection (a) shall not authorize the levy or collection of any tax in respect of any transaction occurring, or any service performed, pursuant to such lease before the expiration of such lease (determined without regard to any renewal or extension of such lease made after September 28, 1969). For purposes of the preceding sentence, the term ‘lease’ includes a contract.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 110 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

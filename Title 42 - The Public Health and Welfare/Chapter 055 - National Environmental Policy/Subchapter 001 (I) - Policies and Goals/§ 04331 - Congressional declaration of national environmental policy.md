@@ -32,7 +32,3 @@ Ex. Ord. No. 11507, eff. Feb. 4, 1970, 35 F.R. 2573, which related to prevention
 
 Ex. Ord. No. 11752, Dec. 17, 1973, 38 F.R. 34793, which related to the prevention, control, and abatement of environmental pollution at Federal facilities, was revoked by Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 20 section 5604.
-

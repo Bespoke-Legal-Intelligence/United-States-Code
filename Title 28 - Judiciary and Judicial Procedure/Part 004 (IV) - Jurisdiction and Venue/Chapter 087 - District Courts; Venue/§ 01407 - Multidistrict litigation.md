@@ -2,7 +2,7 @@
 
 (a) When civil actions involving one or more common questions of fact are pending in different districts, such actions may be transferred to any district for coordinated or consolidated pretrial proceedings. Such transfers shall be made by the judicial panel on multidistrict litigation authorized by this section upon its determination that transfers for such proceedings will be for the convenience of parties and witnesses and will promote the just and efficient conduct of such actions. Each action so transferred shall be remanded by the panel at or before the conclusion of such pretrial proceedings to the district from which it was transferred unless it shall have been previously terminated: <i>Provided, however</i>, That the panel may separate any claim, cross-claim, counter-claim, or third-party claim and remand any of such claims before the remainder of the action is remanded.
 
-(b) Such coordinated or consolidated pretrial proceedings shall be conducted by a judge orjudges to whom such actions are assigned by the judicial panel on multidistrict litigation. For this purpose, upon request of the panel, a circuit judge or a district judge may be designated and assigned temporarily for service in the transferee district by the Chief Justice of the United States or the chief judge of the circuit, as may be required, in accordance with the provisions of chapter 13 of this title. With the consent of the transferee district court, such actions may be assigned by the panel to a judge or judges of such district. The judge or judges to whom such actions are assigned, the members of the judicial panel on multidistrict litigation, and other circuit and district judges designated when needed by the panel may exercise the powers of a district judge in any district for the purpose of conducting pretrial depositions in such coordinated or consolidated pretrial proceedings.
+(b) Such coordinated or consolidated pretrial proceedings shall be conducted by a judge or judges to whom such actions are assigned by the judicial panel on multidistrict litigation. For this purpose, upon request of the panel, a circuit judge or a district judge may be designated and assigned temporarily for service in the transferee district by the Chief Justice of the United States or the chief judge of the circuit, as may be required, in accordance with the provisions of chapter 13 of this title. With the consent of the transferee district court, such actions may be assigned by the panel to a judge or judges of such district. The judge or judges to whom such actions are assigned, the members of the judicial panel on multidistrict litigation, and other circuit and district judges designated when needed by the panel may exercise the powers ofa district judge in any district for the purpose of conducting pretrial depositions in such coordinated or consolidated pretrial proceedings.
 
 (c) Proceedings for the transfer of an action under this section may be initiated by—
 
@@ -33,10 +33,6 @@ Section 4C of the Clayton Act, referred to in subsec. (h), is section 4C of act 
 #### Amendments
 
 1976—Pub. L. 94–435 added subsec. (h).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2112 of this title; title 15 section 78u; title 45 section 719.
 
 ### <b>RULES OF PROCEDURE OF THE JUDICIAL PANEL ON MULTIDISTRICT LITIGATION</b>
 
@@ -264,7 +260,7 @@ Washington, D.C. 20002–8004
 
 (c) One copy of the disk may be served on each party separately represented by counsel. If a party chooses to serve a copy of the disk, the proof of service, as required by Rule 5.2 of these Rules, must indicate service of the paper in both paper and electronic format.
 
-(d) A party may be relieved from the requirements of this Rule by submitting a written application for a waiver, in a timely manner in advance of submission of the paper, certifying thatcompliance with the Rule would impose undue hardship, that the text of the paper is not available on disk, or that other unusual circumstances preclude compliance with this Rule. The requirements of this Rule shall not apply to parties appearing pro se. Papers embraced by this Rule and submitted by counsel after June 1, 2000 without a computer disk copy or Panel-approved waiver of the requirements of this Rule shall be governed by Rule 1.3 of these Rules.
+(d) A party may be relieved from the requirements of this Rule by submitting a written application for a waiver, in a timely manner in advance of submission of the paper, certifying that compliance with the Rule would impose undue hardship, that the text of the paper is not available on disk, or that other unusual circumstances preclude compliance with this Rule. The requirements of this Rule shall not apply to parties appearing pro se. Papers embraced by this Rule and submitted by counsel after June 1, 2000 without a computer disk copy or Panel-approved waiver of the requirements of this Rule shall be governed by Rule 1.3 of these Rules.
 
 (Added May 22, 2000, eff. June 1, 2000.)
 
@@ -294,7 +290,7 @@ Washington, D.C. 20002–8004
 
 ### Rule 6.2: Applications for Extensions of Time
 
-Any application for an extension of time to file a pleading or perform an act required by these Rules must be in writing, must request a specific number of additional days and may be acted upon by the Clerk of the Panel. Such an application will be evaluated in relation to the impact on the Panel's calendar as well as on the basis of the reasons set forth in support of the application. Any party aggrieved by the Clerk of the Panel's action on such application may submit its objections to the Panel for consideration. Absent exceptional circumstances, no extensions of time shall be granted to file a notice of opposition to either a conditional transferorder or a conditional remand order. All applications for extensions of time shall be filed and served in conformity with Rules 5.12, 5.2 and 7.1 of these Rules.
+Any application for an extension of time to file a pleading or perform an act required by these Rules must be in writing, must request a specific number of additional days and may be acted upon by the Clerk of the Panel. Such an application will be evaluated in relation to the impact on the Panel's calendar as well as on the basis of the reasons set forth in support of the application. Any party aggrieved by the Clerk of the Panel's action on such application may submit its objections to the Panel for consideration. Absent exceptional circumstances, no extensions of time shall be granted to file a notice of opposition to either a conditional transfer order or a conditional remand order. All applications for extensions of time shall be filed and served in conformity with Rules 5.12, 5.2 and 7.1 of these Rules.
 
 (As amended June 14, 1988, eff. July 6, 1988; May 3, 1993, eff. July 1, 1993; Sept. 1, 1998, eff. Nov. 2, 1998.)
 
@@ -302,7 +298,7 @@ Any application for an extension of time to file a pleading or perform an act re
 
 (a) Averments in any motion seeking action by the Panel shall be made in numbered paragraphs, each of which shall be limited, as far as practicable, to a statement of a single factual averment.
 
-(b) Responses to averments in motions shall be made in numbered paragraphs, each of which shall correspond to the number of the paragraph of the motion to which the responsive paragraph is directed. Each responsive paragraph shall admit or deny wholly or in part the averment of the motion, and shall contain the respondent's version of the subject matter when the averment or the motion is not wholly admitted.
+(b) Responses to averments in motions shall be made in numbered paragraphs, each of which shall correspond to the number of the paragraph of the motion to which the responsive paragraph is directed. Each responsive paragraph shall admit or deny wholly or in part the averment ofthe motion, and shall contain the respondent's version of the subject matter when the averment or the motion is not wholly admitted.
 
 (c) Each pleading filed shall be:
 
@@ -410,7 +406,7 @@ Any application for an extension of time to file a pleading or perform an act re
 
 In the absence of unusual circumstances—
 
-(a) Actions terminated in the transferee district court by valid judgment, including but not limited to summary judgment, judgment of dismissal and judgment upon stipulation, shall not be remanded by the Panel and shall be dismissed by the transferee district court. The clerk of the transferee district court shall send a copy of theorder terminating the action to the Clerk of the Panel but shall retain the original files and records unless otherwise directed by the transferee judge or by the Panel.
+(a) Actions terminated in the transferee district court by valid judgment, including but not limited to summary judgment, judgment of dismissal and judgment upon stipulation, shall not be remanded by the Panel and shall be dismissed by the transferee district court. The clerk of the transferee district court shall send a copy of the order terminating the action to the Clerk of the Panel but shall retain the original files and records unless otherwise directed by the transferee judge or by the Panel.
 
 (b) Each action transferred only for coordinated or consolidated pretrial proceedings that has not been terminated in the transferee district court shall be remanded by the Panel to the transferor district for trial. Actions that were originally filed in the transferee district require no action by the Panel to be reassigned to another judge in the transferee district at the conclusion of the coordinated or consolidated pretrial proceedings affecting those actions.
 
@@ -458,7 +454,7 @@ Motions to remand and responses thereto shall be governed by Rules 5.12, 5.2, 7.
 
 (a) Hearing sessions of the Panel for the presentation of oral argument and consideration of matters taken under submission without oral argument shall be held as ordered by the Panel. The Panel shall convene whenever and wherever desirable or necessary in the judgment of the Chairman. The Chairman shall determine which matters shall be considered at each hearing session and the Clerk of the Panel shall give notice to counsel for all parties involved in the litigation to be so considered of the time, place and subject matter of such hearing session.
 
-(b) Each party filing a motion or a response to a motion or order of the Panel under Rules 7.2, 7.3, 7.4 or 7.6 of these Rules may file simultaneously therewith a separate statement limited to one page setting forth reasons why oral argument should, or need not, be heard. Such statements shall be captioned “Reasons Why Oral Argument Should \[Need Not\] Be Heard,” and shallbe filed and served in conformity with Rules 5.12 and 5.2 of these Rules.
+(b) Each party filing a motion or a response to a motion or order of the Panel under Rules 7.2, 7.3, 7.4 or 7.6 of these Rules may file simultaneously therewith a separate statement limited to one page setting forth reasons why oral argument should, or need not, be heard. Such statements shall be captioned “Reasons Why Oral Argument Should \[Need Not\] Be Heard,” and shall be filed and served in conformity with Rules 5.12 and 5.2 of these Rules.
 
 (c) No transfer or remand determination regarding any action pending in the district court shall be made by the Panel when any party timely opposes such transfer or remand unless a hearing session has been held for the presentation of oral argument except that the Panel may dispense with oral argument if it determines that:
 
@@ -534,7 +530,7 @@ Motions to remand and responses thereto shall be governed by Rules 5.12, 5.2, 7.
 
 ### Rule 25.3: Service of Notices
 
-(a) All notices of multicircuit petitions for review shall be accompanied by proof of service by the affected agency on all other parties in all petitions for review included in the notice. Service and proof of service shall be made as provided in Rule 25 of the Federal Rules of Appellate Procedure. The proof of service shall state the name and address of each person served and shall indicate the party represented by each. If a party is not represented by counsel, the proof of service shall indicate the name of the party and his or her last known address. The original proof of service shall be submitted by the affected agency for filing with the Clerk of the Panel and copies thereof shall be sent by the affected agency to each person included within the proof of service.
+(a) All notices of multicircuit petitions for review shall be accompanied by proof of service by the affected agency on all other parties in all petitions for review included in the notice. Service and proof of service shall be made as provided in Rule 25 of the Federal Rules of Appellate Procedure. The proof of service shall state the nameand address of each person served and shall indicate the party represented by each. If a party is not represented by counsel, the proof of service shall indicate the name of the party and his or her last known address. The original proof of service shall be submitted by the affected agency for filing with the Clerk of the Panel and copies thereof shall be sent by the affected agency to each person included within the proof of service.
 
 (b) The proof of service pertaining to notices of multicircuit petitions for review shall certify that copies of the notices have been mailed or otherwise delivered by the affected agency for filing to the clerk of each circuit court of appeals in which a petition for review is pending that is included in the notice.
 
@@ -569,8 +565,4 @@ Motions to remand and responses thereto shall be governed by Rules 5.12, 5.2, 7.
 (c) The Clerk of the Panel shall serve the Panel's consolidation order on the clerks of all circuit courts of appeals that were among the candidates for the Panel's random selection.
 
 (Added June 14, 1988, eff. July 6, 1988; amended Sept. 1, 1998, eff. Nov. 2, 1998.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1441 of this title.
 

@@ -42,11 +42,11 @@ Prior to commencement of operation of a uranium enrichment facility licensed her
 
 #### (e) No Price-Anderson coverage
 
-Section 2210 of this title shall not apply to any license under section 2073 or 2093 of this title fora uranium enrichment facility constructed after November 15, 1990.
+Section 2210 of this title shall not apply to any license under section 2073 or 2093 of this title for a uranium enrichment facility constructed after November 15, 1990.
 
 #### (f) Limitation
 
-No license or certificate of compliance may be issued to the United States Enrichment Corporation or its successor under this section or sections <sup>1</sup> 2073, 2093, or 2297f of this title, if the Commission determines that—
+No license or certificate of compliance may be issued to the United States Enrichment Corporation or its successor under this section orsections <sup>1</sup> 2073, 2093, or 2297f of this title, if the Commission determines that—
 
 &emsp;(1) the Corporation is owned, controlled, or dominated by an alien, a foreign corporation, or a foreign government; or
 
@@ -69,8 +69,4 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is
 #### References to United States Enrichment Corporation
 
 References to the United States Enrichment Corporation deemed, as of the privatization date (July 28, 1998), to be references to the private corporation, see section 3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2297f–1, 2297h–11 of this title.
 

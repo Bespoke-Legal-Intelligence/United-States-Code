@@ -140,7 +140,7 @@ Annual Report.—
 
 &emsp;(1)
 
-Required.—Not later than September 30 of each year, the Advisory Committee shallsubmit a report to the Secretary, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate. Should circumstances arise in which the Advisory Committee cannot meet the September 30 deadline in any year, the Secretary shall advise the Chairpersons of the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of the reasons for such delay and the date on which the submission of the report is anticipated.
+Required.—Not later than September 30 of each year, the Advisory Committee shall submit a report to the Secretary, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate. Should circumstances arise in which the Advisory Committee cannot meet the September 30 deadline in any year, the Secretary shall advise the Chairpersons of the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of the reasons for such delay and the date on which the submission of the report is anticipated.
 
 &emsp;(2)
 
@@ -180,7 +180,7 @@ Continuity of Members of Citizens Commemorative Coin Advisory Committee.—Subje
 
 #### Staggered Terms for Members of Citizens Commemorative Coin Advisory Committee
 
-Pub. L. 104–329, title III, §303(b), Oct. 20, 1996, 110 Stat. 4014, provided that members serving on the Citizens Commemorative Coin Advisory Committee as of Oct. 20, 1996, would be deemed to have been appointed to terms which ended on Dec. 31, 1997, 1998, or 1999.
+Pub. L. 104–329, title III, §303(b), Oct. 20, 1996, 110 Stat. 4014, provided that members serving on the CitizensCommemorative Coin Advisory Committee as of Oct. 20, 1996, would be deemed to have been appointed to terms which ended on Dec. 31, 1997, 1998, or 1999.
 
 #### Status of Members of Citizens Commemorative Coin Advisory Committee
 

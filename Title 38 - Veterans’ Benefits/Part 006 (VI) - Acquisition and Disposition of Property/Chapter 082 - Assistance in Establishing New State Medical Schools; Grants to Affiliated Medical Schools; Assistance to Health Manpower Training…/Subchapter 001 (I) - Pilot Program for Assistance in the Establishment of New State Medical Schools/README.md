@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—PILOT PROGRAM FOR ASSISTANCE IN THE ESTABLISHMENT OF NEW STATE MEDICAL SCHOOLS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 8201, 8222 of this title.
-
 
 ---
 

@@ -10,9 +10,5 @@ R.S. §68 derived from Res. Mar. 3, 1815, No. 11, 3 Stat. 249.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “the Secretary” for “either the Secretary or the Clerk”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 112 of this title.
+1996—Pub. L. 104–186 substituted “the Secretary” for “either the Secretary or the Clerk”.
 

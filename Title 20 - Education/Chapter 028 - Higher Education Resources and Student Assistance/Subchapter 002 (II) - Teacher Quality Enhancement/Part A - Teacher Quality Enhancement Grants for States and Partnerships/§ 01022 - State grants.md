@@ -12,7 +12,7 @@ From amounts made available under section 1030(1) of this title for a fiscal yea
 
 &emsp;&emsp;(A) the Governor of a State; or
 
-&emsp;&emsp;(B) in the case of a State for which the constitution or law of such State designatesanother individual, entity, or agency in the State to be responsible for teacher certification and preparation activity, such individual, entity, or agency.
+&emsp;&emsp;(B) in the case of a State for which the constitution or law of such State designates another individual, entity, or agency in the State to be responsible for teacher certification and preparation activity, such individual, entity, or agency.
 
 #### (2) Consultation
 
@@ -83,8 +83,4 @@ Another prior section 1022, Pub. L. 89–329, title II, §202, Nov. 8, 1965, 79 
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1024, 1025, 1026, 1030, 6613 of this title.
 

@@ -14,7 +14,7 @@ The Clearinghouse may—
 
 &emsp;(3) disseminate information collected under paragraph (2) through reports, directories, handbooks, conferences, and seminars;
 
-&emsp;(4) provide technical assistance and advice to such governments with respect to such initiatives, including assistance in determining sources of assistance from Federal agencies which may be available to support such initiatives;
+&emsp;(4) provide technical assistance and advice to such governments with respect to such initiatives, including assistance in determining sources of assistance from Federal agencieswhich may be available to support such initiatives;
 
 &emsp;(5) study ways in which Federal agencies, including Federal laboratories, are able to use their existing policies and programs to assist State and local governments, and regional and multistate organizations of such governments, to enhance the competitiveness of American business;
 
@@ -33,8 +33,4 @@ In carrying out subsection (b) of this section, the Secretary may enter into con
 #### Codification
 
 Subsec. (d) of this section, which required the Secretary to prepare and transmit a triennial report to Congress, including recommendations to the President, Congress, and Federal agencies, on initiatives by State and local governments to enhance the competitiveness of American businesses through the stimulation of productivity, technology, and innovation, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 50 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3703, 3713, 3715 of this title.
 

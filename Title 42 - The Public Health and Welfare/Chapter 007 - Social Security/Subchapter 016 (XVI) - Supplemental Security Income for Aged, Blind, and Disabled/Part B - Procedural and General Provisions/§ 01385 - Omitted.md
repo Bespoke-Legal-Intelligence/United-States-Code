@@ -10,7 +10,7 @@ Enactment of subchapter XVI of the Social Security Act \[this subchapter\] by se
 
 #### §1385. Definitions
 
-(a) For purposes of this subchapter, the term “aid to the aged, blind, or disabled” means money payments toneedy individuals who are 65 years of age or older, are blind, or are 18 years of age or over and permanently and totally disabled, but such term does not include—
+(a) For purposes of this subchapter, the term “aid to the aged, blind, or disabled” means money payments to needy individuals who are 65 years of age or older, are blind, or are 18 years of age or over and permanently and totally disabled, but such term does not include—
 
 &emsp;(1) any such payments to or care in behalf of any individual who is an inmate of a public institution (except as a patient in a medical institution); or
 

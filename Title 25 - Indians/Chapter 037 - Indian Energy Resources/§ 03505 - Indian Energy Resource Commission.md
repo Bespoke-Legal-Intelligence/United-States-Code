@@ -56,7 +56,7 @@ While away from their homes or regular places of business in the performance of 
 
 #### (1) Executive Director
 
-&emsp;The Commission shall appoint an Executive Director who shall be compensated at a rate established by the Commission not to exceed the rate of basic pay payable for level V of the Executive Schedule under section 5316 of title 5.
+&emsp;The Commission shall appoint an Executive Director who shall be compensated at a rateestablished by the Commission not to exceed the rate of basic pay payable for level V of the Executive Schedule under section 5316 of title 5.
 
 #### (2) Additional personnel
 
@@ -68,7 +68,7 @@ While away from their homes or regular places of business in the performance of 
 
 #### (4) Personnel detail authorized
 
-&emsp;Upon the request of the Chairperson, the head of any Federal agency is authorized todetail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties under this chapter. Such detail shall be without interruption or loss of civil service status or privilege.
+&emsp;Upon the request of the Chairperson, the head of any Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties under this chapter. Such detail shall be without interruption or loss of civil service status or privilege.
 
 #### (k) Duties of Commission
 

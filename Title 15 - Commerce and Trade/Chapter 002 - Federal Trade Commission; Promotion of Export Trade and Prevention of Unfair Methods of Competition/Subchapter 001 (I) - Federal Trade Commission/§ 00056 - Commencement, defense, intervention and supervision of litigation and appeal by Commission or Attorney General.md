@@ -54,13 +54,9 @@ Whenever the Commission has reason to believe that any person, partnership, or c
 
 #### Effective Date of 1975 Amendment
 
-Section 204(c) of Pub. L. 93–637 provided that: “The amendment and repeal made by this section \[amending this section and repealing section 45(m) of this title\] shall not apply to any civil action commenced before the date of enactment of this Act \[Jan. 4, 1975\].”
+Section 204(c) of Pub. L. 93–637 provided that: “The amendment and repeal made by this section \[amendingthis section and repealing section 45(m) of this title\] shall not apply to any civil action commenced before the date of enactment of this Act \[Jan. 4, 1975\].”
 
 #### Transfer of Functions
 
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 21 sections 352, 378; title 28 section 1407.
 

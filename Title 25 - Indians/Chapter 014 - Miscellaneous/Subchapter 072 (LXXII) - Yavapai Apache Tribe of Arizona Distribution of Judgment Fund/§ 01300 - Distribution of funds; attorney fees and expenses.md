@@ -10,7 +10,3 @@ Act of July 22, 1969, referred to in text, is act July 22, 1969, Pub. L. 91–47
 
 The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300a of this title.
-

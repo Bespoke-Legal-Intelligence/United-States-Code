@@ -32,7 +32,3 @@ For purposes of this subpart, the provisions of paragraphs (1), (2), and (3) of 
 
 (Pub. L. 103–182, title III, §303, Dec. 8, 1993, 107 Stat. 2101.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3354 of this title.
-

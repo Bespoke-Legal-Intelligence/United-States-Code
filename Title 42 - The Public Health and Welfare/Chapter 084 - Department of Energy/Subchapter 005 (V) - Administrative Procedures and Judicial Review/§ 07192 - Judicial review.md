@@ -14,7 +14,3 @@ Subject to the provisions of section 7171(i) of this title and notwithstanding a
 
 (Pub. L. 95–91, title V, §502, Aug. 4, 1977, 91 Stat. 589.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6303, 8412, 8433, 8434 of this title.
-

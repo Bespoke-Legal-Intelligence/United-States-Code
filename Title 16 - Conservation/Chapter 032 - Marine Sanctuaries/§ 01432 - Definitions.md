@@ -100,9 +100,5 @@ Section 210 of title II of Pub. L. 100–627 provided that: “Not later than on
 
 Section 3 of Pub. L. 92–532, which is classified to section 1402 of Title 33, Navigation and Navigable Waters, defines for purposes of this chapter the terms “Administrator”, “Ocean waters”, “Material”, “United States”, “Person”, “Dumping”, “District Court of the United States”, “Dredged material”, “High-level radioactive waste”, and “Transport” or “Transportation”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1443 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

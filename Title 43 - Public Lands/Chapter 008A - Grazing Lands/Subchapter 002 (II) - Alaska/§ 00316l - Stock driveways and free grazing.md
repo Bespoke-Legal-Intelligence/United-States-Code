@@ -18,7 +18,3 @@ The Secretary may in his discretion grant a permit or lease for a grazing allotm
 
 Section was formerly classified to section 471<i>l</i> of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 316m of this title.
-

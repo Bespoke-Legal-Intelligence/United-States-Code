@@ -14,6 +14,7 @@
 | (e) | Annual report. |
 | (f) | Minimum number of agents in States. |
 | (g) | Attorney General. |
+| (h) | Office of Special Investigations. |
 | [1104\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001104%20-%20Powers%20and%20duties%20of%20Secretary%20of%20State.md) | Powers and duties of Secretary of State. |
 | (a) | Powers and duties. |
 | (b) | Designation and duties of Administrator. |
@@ -70,7 +71,7 @@
 | (i) | Professional athletes. |
 | (j) | Job flexibility for long delayed applicants for adjustment of status to permanent residence. |
 | (k) | Procedures for unmarried sons and daughters of citizens. |
-| [1155\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001155%20-%20Revocation%20of%20approval%20of%20petitions%3B%20notice%20of%20revocation%3B%20effective%20date.md) | Revocation of approval of petitions; notice of revocation; effective date. |
+| [1155\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001155%20-%20Revocation%20of%20approval%20of%20petitions%3B%20effective%20date.md) | Revocation of approval of petitions; effective date. |
 | [1156\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001156%20-%20Unused%20immigrant%20visas.md) | Unused immigrant visas. |
 | [1157\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001157%20-%20Annual%20admission%20of%20refugees%20and%20admission%20of%20emergency%20situation%20refugees.md) | Annual admission of refugees and admission of emergency situation refugees. |
 | (a) | Maximum number of admissions; increases for humanitarian concerns; allocations. |
@@ -130,6 +131,7 @@
 | (r) | Exception for certain alien nurses. |
 | (s) | Consideration of benefits received as battered alien in determination of inadmissibility as likely to become public charge. |
 | (t) | Nonimmigrant professionals; labor attestations. |
+| (t) | Foreign residence requirement. |
 | 1182a to 1182c. Repealed. |  |
 | [1182d.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001182d%20-%20Denial%20of%20visas%20to%20confiscators%20of%20American%20property.md) | Denial of visas to confiscators of American property. |
 | (a) | Denial of visas. |
@@ -217,8 +219,9 @@
 | (i) | Definitions. |
 | [1189\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001189%20-%20Designation%20of%20foreign%20terrorist%20organizations.md) | Designation of foreign terrorist organizations. |
 | (a) | Designation. |
-| (b) | Judicial review of designation. |
-| (c) | Definitions. |
+| (b) | Amendments to a designation. |
+| (c) | Judicial review of designation. |
+| (d) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -245,6 +248,7 @@
 | (e) | Signing and verification of application. |
 | (f) | Confidential nature of records. |
 | (g) | Nonimmigrant visa void at conclusion of authorized period of stay. |
+| (h) | In person interview with consular officer. |
 | [1203\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20003%20%28III%29%20-%20Issuance%20of%20Entry%20Documents/%C2%A7%2001203%20-%20Reentry%20permit.md) | Reentry permit. |
 | (a) | Application; contents. |
 | (b) | Issuance of permit; nonrenewability. |
@@ -288,7 +292,7 @@
 | (d) | Authority relating to inspections. |
 | [1225a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001225a%20-%20Preinspection%20at%20foreign%20airports.md) | Preinspection at foreign airports. |
 | (a) | Establishment of preinspection stations. |
-| (b) | Establishment of carrier consultant program. |
+| (b) | Establishment of carrier consultant program and immigration security initiative. |
 | [1226\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001226%20-%20Apprehension%20and%20detention%20of%20aliens.md) | Apprehension and detention of aliens. |
 | (a) | Arrest, detention, and release. |
 | (b) | Revocation of bond or parole. |
@@ -494,6 +498,7 @@
 | (b) | Seizure and forfeiture. |
 | (c) | Authority to arrest. |
 | (d) | Admissibility of videotaped witness testimony. |
+| (e) | Outreach program. |
 | [1324a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20008%20%28VIII%29%20-%20General%20Penalty%20Provisions/%C2%A7%2001324a%20-%20Unlawful%20employment%20of%20aliens.md) | Unlawful employment of aliens. |
 | (a) | Making employment of unauthorized aliens unlawful. |
 | (b) | Employment verification system. |
@@ -578,6 +583,7 @@
 | (s) | H–1B Nonimmigrant Petitioner Account. |
 | (t) | Genealogy Fee. |
 | (u) | Premium fee for employment-based petitions and applications. |
+| (v) | H–1B and L Fraud Prevention and Detection Account. |
 | [1357\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001357%20-%20Powers%20of%20immigration%20officers%20and%20employees.md) | Powers of immigration officers and employees. |
 | (a) | Powers without warrant. |
 | (b) | Administration of oath; taking of evidence. |
@@ -622,6 +628,19 @@
 | (f) | Authority to provide access to system. |
 | (g) | Use of task force recommendations. |
 | (h) | Authorization of appropriations. |
+| [1365b.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001365b%20-%20Biometric%20entry%20and%20exit%20data%20system.md) | Biometric entry and exit data system. |
+| (a) | Finding. |
+| (b) | Definition. |
+| (c) | Plan and report. |
+| (d) | Collection of biometric exit data. |
+| (e) | Integration and interoperability. |
+| (f) | Maintaining accuracy and integrity of entry and exit data system. |
+| (g) | Integrated biometric entry-exit screening system. |
+| (h) | Entry-exit system goals. |
+| (i) | Dedicated specialists and front line personnel training. |
+| (j) | Compliance status reports. |
+| (k) | Expediting registered travelers across international borders. |
+| (<i>l</i>) | Authorization of appropriations. |
 | [1366\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001366%20-%20Annual%20report%20on%20criminal%20aliens.md) | Annual report on criminal aliens. |
 | [1367\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001367%20-%20Penalties%20for%20disclosure%20of%20information.md) | Penalties for disclosure of information. |
 | (a) | In general. |
@@ -675,6 +694,10 @@
 | (d) | Annual reports. |
 | (e) | Availability to public. |
 | [1379\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001379%20-%20Technology%20standard%20to%20confirm%20identity.md) | Technology standard to confirm identity. |
+| [1380\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001380%20-%20Maintenance%20of%20statistics%20by%20the%20Department%20of%20Homeland%20Security.md) | Maintenance of statistics by the Department of Homeland Security. |
+| (a) | In general. |
+| (b) | Applicability. |
+| [1381\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001381%20-%20Secretary%20of%20Labor%20report.md) | Secretary of Labor report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -930,10 +953,6 @@ Revocation.
 | (e) | Rights of aliens in custody. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1184a, 1255b, 1367, 1572, 1611, 1612, 1621, 1622, 1641, 1642, 1643, 1721, 1772, 1775 of this title; title 6 sections 101, 236, 255, 278, 279, 297; title 7 sections 1308–3, 1996, 2020, 3508; title 10 sections 1060a, 3253, 8253, 12102, 12201; title 15 sections 278g, 7411; title 18 sections 1203, 1961; title 19 section 3401; title 22 sections 2454, 2730, 2778, 3303, 5711; title 25 section 1300b–13; title 42 sections 1437a, 6705, 14941; title 46 sections 8103, 70105; title 48 section 1921c; title 50 sections 47c, 47f.
 
 
 ---

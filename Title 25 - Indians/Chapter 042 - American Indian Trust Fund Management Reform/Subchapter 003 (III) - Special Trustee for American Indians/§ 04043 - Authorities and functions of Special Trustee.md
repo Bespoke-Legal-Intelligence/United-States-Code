@@ -230,7 +230,3 @@ Termination.—The Commission shall terminate 1 year after the date of the initi
 
 Substantially identical provisions were contained in Pub. L. 106–568, title X, §1001, Dec. 27, 2000, 114 Stat. 2923.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4042 of this title.
-

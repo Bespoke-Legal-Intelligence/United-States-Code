@@ -4,7 +4,3 @@ The Foundation and any income or property received or owned by it, and all trans
 
 (Pub. L. 90–209, §8, Dec. 18, 1967, 81 Stat. 657.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 2055.
-

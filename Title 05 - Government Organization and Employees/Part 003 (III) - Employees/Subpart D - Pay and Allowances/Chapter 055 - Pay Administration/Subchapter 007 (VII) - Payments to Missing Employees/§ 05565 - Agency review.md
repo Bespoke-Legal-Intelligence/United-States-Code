@@ -68,7 +68,3 @@ In subsection (c), the word “sole” is omitted as surplusage and in view of t
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5562, 5563, 5566, 5567 of this title.
-

@@ -1,9 +1,5 @@
 Part H—Requirement Relating to the Rights of Residents of Certain Facilities
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 290jj of this title.
-
 
 ---
 

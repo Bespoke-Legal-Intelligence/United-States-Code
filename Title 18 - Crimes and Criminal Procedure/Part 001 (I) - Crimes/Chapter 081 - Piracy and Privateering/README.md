@@ -20,10 +20,6 @@
 
 In the light of far-reaching developments in the field of international law and foreign relations, the law of piracy is deemed to require a fundamental reconsideration and complete restatement, perhaps resulting in drastic changes by way of modification and expansion. Such a task may be regarded as beyond the scope of this project. The present revision is, therefore, confined to the making of some obvious and patent corrections. It is recommended, however, that at some opportune time in the near future, the subject of piracy be entirely reconsidered and the law bearing on it modified and restated in accordance with the needs of the times.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 2516 of this title.
-
 
 ---
 

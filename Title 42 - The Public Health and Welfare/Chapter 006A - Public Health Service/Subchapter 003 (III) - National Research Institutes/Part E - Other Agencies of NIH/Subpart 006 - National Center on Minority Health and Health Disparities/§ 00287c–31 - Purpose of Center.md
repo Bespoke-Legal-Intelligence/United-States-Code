@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The general purpose of the National Center on Minority Health and Health Disparities (in this subpart referred to as the “Center”) is the conduct and support of research, training, dissemination of information, and other programs with respect to minority health conditions and other populations with health disparities.
+The general purpose of the National Center on Minority Health and Health Disparities (in thissubpart referred to as the “Center”) is the conduct and support of research, training, dissemination of information, and other programs with respect to minority health conditions and other populations with health disparities.
 
 #### (b) Priorities
 
@@ -68,7 +68,7 @@ The Director of the Center shall act as the primary Federal official with respon
 
 #### (2) Certain components of plan and budget
 
-&emsp;With respect to health disparities research activities of the agencies of the National Institutes of Health, the Director of the Centershall ensure that the plan and budget under paragraph (1) provide for—
+&emsp;With respect to health disparities research activities of the agencies of the National Institutes of Health, the Director of the Center shall ensure that the plan and budget under paragraph (1) provide for—
 
 &emsp;&emsp;(A) basic research and applied research, including research and development with respect to products;
 
@@ -136,7 +136,7 @@ The Director of the Center shall prepare an annual report on the activities carr
 
 #### (<i>l</i>) Authorization of appropriations
 
-For the purpose of carrying out this subpart, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005. Such authorization of appropriations is in addition to other authorizations of appropriations that are available for the conduct and support of minority health disparities research or other health disparities research by the agencies of the National Institutes of Health.
+For the purpose of carrying out this subpart, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005. Such authorization of appropriations is in addition to other authorizations of appropriations that are available for the conduct and support of minority health disparitiesresearch or other health disparities research by the agencies of the National Institutes of Health.
 
 (July 1, 1944, ch. 373, title IV, §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497.)
 
@@ -194,7 +194,7 @@ Public Awareness on Health Disparities.—The Secretary of Health and Human Serv
 
 Dissemination of Information on Health Disparities.—The Secretary shall develop and implement a plan for the dissemination of information and findings with respect to health disparities under titles I, II, III, and IV of this Act \[see Tables for classification\]. The plan shall—
 
-&emsp;“(1) include the participation of all agencies of the Department of Health and Human Services that are responsible for serving populations included in the health disparities research; and
+&emsp;“(1) include the participation of all agencies of the Department of Health and Human Services that areresponsible for serving populations included in the health disparities research; and
 
 &emsp;“(2) have agency-specific strategies for disseminating relevant findings and information on health disparities and improving health care services to affected communities.”
 
@@ -203,10 +203,6 @@ Dissemination of Information on Health Disparities.—The Secretary shall develo
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 299a–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. Section 287a–1 of this title does not contain subsections.</i>
 

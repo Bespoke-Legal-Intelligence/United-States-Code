@@ -48,7 +48,3 @@ A State educational agency receiving an award under this section shall provide f
 
 (Pub. L. 89–10, title III, §3224, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1719.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6914, 6933, 6983 of this title.
-

@@ -134,10 +134,6 @@ This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original “
 
 1986—Subsecs. (c)(2)(A), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4805, 4806, 4807, 4808, 4813, 4817, 4819 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 
 <i><sup>2</sup></i><i> So in original. The period probably should be a comma.</i>

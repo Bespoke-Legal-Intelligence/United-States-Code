@@ -8,7 +8,3 @@ The dust resulting from drilling in rock shall be controlled by the use of permi
 
 “Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 841 of this title.
-

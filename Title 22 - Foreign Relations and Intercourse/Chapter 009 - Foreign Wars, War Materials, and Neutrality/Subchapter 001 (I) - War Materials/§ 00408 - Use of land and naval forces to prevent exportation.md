@@ -8,7 +8,3 @@ The President may employ such part of the land or naval forces of the United Sta
 
 For transfer of certain functions insofar as they pertain to the Air Force, and to the extent that they were not previously transferred to the Secretary of the Air Force from the Secretary of the Army, see Secretary of Defense Transfer Order No. 40 \[App. A(1)\], July 22, 1949.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 401, 408a of this title.
-

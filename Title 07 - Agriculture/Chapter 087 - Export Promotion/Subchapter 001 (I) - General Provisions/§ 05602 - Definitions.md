@@ -54,7 +54,7 @@ As used in this chapter—
 
 #### (6) United States
 
-&emsp;The term “United States” includes each of the States, the District of Columbia, PuertoRico, and the territories and possessions of the United States.
+&emsp;The term “United States” includes each of the States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 
 #### (7) United States agricultural commodity
 
@@ -99,10 +99,6 @@ As used in this chapter—
 1992—Par. (1). Pub. L. 102–511, §702(a), substituted “feed, fiber, or livestock (including livestock as it is defined in section 1471(2) of this title and insects)” for “feed, or fiber”.
 
 Par. (8). Pub. L. 102–511, §702(b), added par. (8).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3293, 5679 of this title; title 15 section 632; title 22 section 7201.
 
 <i><sup>1</sup></i><i> So in original. There probably should be a closing parenthesis.</i>
 

@@ -30,7 +30,3 @@ Sec. 2. India rupees provided to the President for purposes of Title IX of the A
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 290j–1 of this title.
-

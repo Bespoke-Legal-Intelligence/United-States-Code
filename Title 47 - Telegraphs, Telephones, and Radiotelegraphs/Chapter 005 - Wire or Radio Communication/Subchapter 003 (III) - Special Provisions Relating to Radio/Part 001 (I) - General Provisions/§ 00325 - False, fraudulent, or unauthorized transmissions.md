@@ -26,7 +26,7 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 &emsp;&emsp;(iii) the satellite carrier complies with any network nonduplication, syndicated exclusivity, and sports blackout rules adopted by the Commission under section 339(b) of this title;
 
-&emsp;(C) until December 31, 2004, to retransmission of the signals of network stations directly to a home satellite antenna, if the subscriber receiving the signal—
+&emsp;(C) until December 31, 2009, to retransmission of the signals of network stations directly to a home satellite antenna, if the subscriber receiving the signal—
 
 &emsp;&emsp;(i) is located in an area outside the local market of such stations; and
 
@@ -46,11 +46,13 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 (B) The regulations required by subparagraph (A) shall require that television stations, within one year after October 5, 1992, and every three years thereafter, make an election between the right to grant retransmission consent under this subsection and the right to signal carriage under section 534 of this title. If there is more than one cable system which services the same geographic area, a station's election shall apply to all such cable systems.
 
-(C) Within 45 days after November 29, 1999, the Commission shall commence a rulemaking proceeding to revise the regulations governing the exercise by television broadcast stations of the right to grant retransmission consent under this subsection, and such other regulations as are necessary to administer the limitations contained in paragraph (2). The Commission shall complete all actions necessary to prescribe such regulations within 1 year after November 29, 1999. Such regulations shall—
+(C) The Commission shall commence a rulemaking proceeding to revise the regulations governing the exercise by television broadcast stations of the right to grant retransmission consent under this subsection, and such other regulations as are necessary to administer the limitations contained in paragraph (2). Such regulations shall—
 
-&emsp;(i) establish election time periods that correspond with those regulations adopted under subparagraph (B) of this paragraph; and
+&emsp;(i) establish election time periods that correspond with those regulations adopted under subparagraph (B) of this paragraph;
 
-&emsp;(ii) until January 1, 2006, prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations.
+&emsp;(ii) until January 1, 2010, prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations; and
+
+&emsp;(iii) until January 1, 2010, prohibit a multichannel video programming distributor from failing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations.
 
 (4) If an originating television station elects under paragraph (3)(B) to exercise its right to grant retransmission consent under this subsection with respect to a cable system, the provisions of section 534 of this title shall not apply to the carriage of the signal of such station by such cable system. If an originating television station elects under paragraph (3)(C) to exercise its right to grant retransmission consent under this subsection with respect to a satellite carrier, section 338 of this title shall not apply to the carriage of the signal of such station by such satellite carrier.
 
@@ -92,7 +94,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (2) Service of complaints on satellite carriers
 
-&emsp;For purposes of any proceeding under this subsection, any satellite carrier that retransmits the signal of any broadcast station shall be deemed to designate the Secretary of the Commission as its agent for service of process. A television broadcast station may serve a satellite carrier with a complaint concerning an alleged violation of subsection (b)(1) of this section through retransmission of a station within the local market of such station by filing the original and two copies of the complaint with the Secretary of the Commission and serving a copy of the complaint on the satellite carrier by means of two commonly used overnight delivery services, each addressed to the chief executive officer of the satellite carrier at its principal place of business, and each marked “URGENT LITIGATION MATTER” on the outer packaging. Service shall be deemed complete one business day after a copy of the complaint is provided to the delivery services for overnight delivery. On receipt of a complaint filed by a television broadcast station under this subsection, the Secretary of the Commission shall send the original complaint by United States mail, postage prepaid, receipt requested, addressed to the chief executive officer of the satellite carrier at its principal place of business.
+&emsp;For purposes of any proceeding under this subsection, any satellite carrier that retransmits the signal of any broadcast station shall be deemed to designate the Secretary of the Commission as its agent for service of process. A television broadcast station may serve a satellite carrier with a complaint concerning an alleged violation of subsection (b)(1) of this section through retransmission of a station within the local market of such station by filing the original and two copies of the complaint with the Secretary of the Commissionand serving a copy of the complaint on the satellite carrier by means of two commonly used overnight delivery services, each addressed to the chief executive officer of the satellite carrier at its principal place of business, and each marked “URGENT LITIGATION MATTER” on the outer packaging. Service shall be deemed complete one business day after a copy of the complaint is provided to the delivery services for overnight delivery. On receipt of a complaint filed by a television broadcast station under this subsection, the Secretary of the Commission shall send the original complaint by United States mail, postage prepaid, receipt requested, addressed to the chief executive officer of the satellite carrier at its principal place of business.
 
 #### (3) Answers by satellite carriers
 
@@ -142,7 +144,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (8) Relief
 
-&emsp;If the Commission determines that a satellite carrier has retransmitted the television broadcast station to at least one person in the local market of such station and has failed to meet its burden of proving one of the defensesunder paragraph (4) with respect to such retransmission, the Commission shall be required to—
+&emsp;If the Commission determines that a satellite carrier has retransmitted the television broadcast station to at least one person in the local market of such station and has failed to meet its burden of proving one of the defenses under paragraph (4) with respect to such retransmission, the Commission shall be required to—
 
 &emsp;&emsp;(A) make a finding that the satellite carrier violated subsection (b)(1) of this section with respect to that station; and
 
@@ -186,9 +188,17 @@ Such application shall contain such information as the Commission may by regulat
 
 &emsp;No complaint or civil action may be filed under this subsection after December 31, 2001. This subsection shall continue to apply to any complaint or civil action filed on or before such date.
 
-(June 19, 1934, ch. 652, title III, §325, 48 Stat. 1091; Pub. L. 102–385, §6, Oct. 5, 1992, 106 Stat. 1482; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1009\], Nov. 29, 1999, 113 Stat. 1536, 1501A–537.)
+(June 19, 1934, ch. 652, title III, §325, 48 Stat. 1091; Pub. L. 102–385, §6, Oct. 5, 1992, 106 Stat. 1482; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1009\], Nov. 29, 1999, 113 Stat. 1536, 1501A–537; Pub. L. 108–447, div. J, title IX \[title II, §§201, 207(a)\], Dec. 8, 2004, 118 Stat. 3409, 3428.)
 
 #### Amendments
+
+2004—Subsec. (b)(2)(C). Pub. L. 108–447, §201, substituted “December 31, 2009” for “December 31, 2004”.
+
+Subsec. (b)(3)(C). Pub. L. 108–447, §207(a)(1), (2), in introductory provisions, substituted “The” for “Within 45 days after November 29, 1999, the” and struck out second sentence which read “The Commission shall complete all actions necessary to prescribe such regulations within 1 year after November 29, 1999.”
+
+Subsec. (b)(3)(C)(ii). Pub. L. 108–447, §207(a)(4)(A), substituted “January 1, 2010” for “January 1, 2006”.
+
+Subsec. (b)(3)(C)(iii). Pub. L. 108–447, §207(a)(3), (4)(B), (5), added cl. (iii).
 
 1999—Subsec. (b)(1), (2). Pub. L. 106–113, §1000(a)(9) \[title I, §1009(a)(1)\], amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
@@ -226,11 +236,19 @@ Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title I, §1009(b)\], added subse
 
 Section 28 of Pub. L. 102–385 provided that: “Except where otherwise expressly provided, the provisions of this Act \[enacting sections 334, 335, 534 to 537, 544a, 548, and 555a of this title, amending this section and sections 332, 522, 532, 533, 541 to 544, 546, 551 to 555, and 558 of this title, and enacting provisions set out as notes under sections 521, 531, 543, and 554 of this title\] and the amendments made thereby shall take effect 60 days after the date of enactment of this Act \[Oct. 5, 1992\].”
 
+#### Regulations
+
+Pub. L. 108–447, div. J, title IX \[title II, §207(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: “The Federal Communications Commission shall prescribe regulations to implement the amendment made by subsection (a)(5) \[amending this section\] within 180 days after the date of enactment of this Act \[Dec. 8, 2004\].”
+
 #### Severability
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1010\], Nov. 29, 1999, 113 Stat. 1536, 1501A–543, provided that: “If any provision of section 325(b) of the Communications Act of 1934 (47 U.S.C. 325(b)), or the application of that provision to any person or circumstance, is held by a court of competent jurisdiction to violate any provision of the Constitution of the United States, then the other provisions of that section, and the application of that provision to other persons and circumstances, shall not be affected.”
 
-#### Section Referred to in Other Sections
+#### Digital Transition Savings Provision
 
-This section is referred to in sections 309, 338, 402, 534, 573 of this title.
+Pub. L. 108–447, div. J, title IX \[title II, §212\], Dec. 8, 2004, 118 Stat. 3431, provided that: “Nothing in the dates by which requirements or other provisions are effective under this Act \[probably means title IX of div. J of Pub. L. 108–447, see Short Title of 2004 Amendment note set out under section 101 of Title 17, Copyrights\] or the amendments made by this Act shall be construed—
+
+&emsp;“(1) to impair the authority of the Federal Communications Commission to take any action with respect to the transition by television broadcasters to the digital television service; or
+
+&emsp;“(2) to require the Commission to take any such action.”
 

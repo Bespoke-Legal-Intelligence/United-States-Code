@@ -30,7 +30,7 @@ For purposes of this part:
 
 #### (6) Dispute Settlement Understanding
 
-&emsp;The term “Dispute Settlement Understanding” means the Understanding on Rules andProcedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of this title.
+&emsp;The term “Dispute Settlement Understanding” means the Understanding on Rules and Procedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of this title.
 
 #### (7) General Council
 
@@ -53,8 +53,4 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 #### Effective Date
 
 Section 130 of title I of Pub. L. 103–465 provided that: “This subtitle \[subtitle C (§§121–130) of title I of Pub. L. 103–465, enacting this part and amending sections 1516a, 2155, and 2254 of this title\] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2411, 3512 of this title.
 

@@ -38,7 +38,7 @@ If the President in consecutive reports submitted to the Congress under this sec
 
 #### (d) Additional requirement
 
-Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) of this section that was contained in a previous report issued under this section during 1995, or after December 31, 1995, until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999).
+Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) of this section thatwas contained in a previous report issued under this section during 1995, or after December 31, 1995, until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999).
 
 (Pub. L. 87–297, title IV, §403, formerly §51, as added and amended Pub. L. 103–236, title VII, §717(a)(3), title VIII, §828(a), Apr. 30, 1994, 108 Stat. 498, 520; renumbered §403 and amended, Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(15), (21), Oct. 21, 1998, 112 Stat. 2681–771, 2681–772; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1113\], Nov. 29, 1999, 113 Stat. 1536, 1501A–487; Pub. L. 107–228, div. B, title XI, §1103, Sept. 30, 2002, 116 Stat. 1426.)
 
@@ -76,6 +76,10 @@ Subsec. (b). Pub. L. 105–277, §1223(15)(B), inserted at end “The portions o
 
 Subsec. (c). Pub. L. 103–236, §828(a)(4), added subsec. (c).
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
@@ -98,13 +102,9 @@ Pub. L. 105–261, div. A, title XV, §1502, Oct. 17, 1998, 112 Stat. 2171, as a
 
 “(a)
 
-Reporting Requirement.—The Director of the Arms Control and Disarmament Agency (or the Secretary of State, if the Arms Control and Disarmament Agency becomes an element of the Department of State) shall transmit to the Committee on Armed Services of the House of Representatives on a periodic basisreports containing classified summaries of arms control developments.
+Reporting Requirement.—The Director of the Arms Control and Disarmament Agency (or the Secretary of State, if the Arms Control and Disarmament Agency becomes an element of the Department of State) shall transmit to the Committee on Armed Services of the House of Representatives on a periodic basis reports containing classified summaries of arms control developments.
 
 “(b)
 
 Contents of Reports.—The reports required by subsection (a) shall include information reflecting the activities of forums established to consider issues relating to treaty implementation and treaty compliance.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2652c of this title.
 

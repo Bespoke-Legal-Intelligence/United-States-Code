@@ -75,10 +75,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 321, 350c, 381, 679a of this title; title 7 sections 138f, 2219a, 6519.
-
 
 ---
 

@@ -18,7 +18,7 @@ The Landsat Program Management shall, as often as necessary, provide to the Cong
 
 #### (d) Reimbursements
 
-If, as a result of technical modifications imposed on a licensee under subchapter II of this chapter on the basis of national security concerns, the Secretary, in consultation with the Secretary of Defense or with other Federal agencies, determines that additional costs will be incurred by the licensee, or that past development costs (including the cost of capital) will not be recovered by the licensee, the Secretary may require the agency or agencies requesting such technical modifications to reimburse the licensee for such additional or development costs, but not for anticipated profits. Reimbursements may cover costs associated with required changes in system performance, but not costs ordinarily associated with doing business abroad.
+If, as a result of technical modifications imposed on a licensee under subchapter II of thischapter on the basis of national security concerns, the Secretary, in consultation with the Secretary of Defense or with other Federal agencies, determines that additional costs will be incurred by the licensee, or that past development costs (including the cost of capital) will not be recovered by the licensee, the Secretary may require the agency or agencies requesting such technical modifications to reimburse the licensee for such additional or development costs, but not for anticipated profits. Reimbursements may cover costs associated with required changes in system performance, but not costs ordinarily associated with doing business abroad.
 
 (Pub. L. 102–555, title V, §507, Oct. 28, 1992, 106 Stat. 4178.)
 

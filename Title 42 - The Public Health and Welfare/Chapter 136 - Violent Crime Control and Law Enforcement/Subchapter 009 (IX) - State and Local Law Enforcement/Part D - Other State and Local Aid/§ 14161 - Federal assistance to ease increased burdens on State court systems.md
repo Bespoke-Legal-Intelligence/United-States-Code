@@ -6,7 +6,7 @@ The Attorney General shall, subject to the availability of appropriation, make g
 
 #### (b) Applications
 
-In carrying out this section, the Attorney General may make grants to, or enter into contracts with public or private agencies, institutions, or organizations or individuals to carryout any purpose specified in this section. The Attorney General shall have final authority over all funds awarded under this section.
+In carrying out this section, the Attorney General may make grants to, or enter into contracts with public or private agencies, institutions, or organizations or individuals to carry out any purpose specified in this section. TheAttorney General shall have final authority over all funds awarded under this section.
 
 #### (c) Records
 
@@ -33,8 +33,4 @@ There are authorized to be appropriated to carry out this section—
 #### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796, known as the Violent Crime Control and Law Enforcement Act of 1994. For complete classification of this Act to the Code, see Short Title note set out under section 13701 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
 

@@ -32,7 +32,3 @@ Oct. 20, 1972, Pub. L. 92–513, §407, 86 Stat. 962; July 14, 1976, Pub. L. 94�
 
 In subsection (b), the text of 15:1987(b)(1) is omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 32703 of this title.
-

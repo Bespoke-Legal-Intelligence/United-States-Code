@@ -54,9 +54,5 @@ The Administrator may, on a case-by-case basis, waive any requirement applicable
 
 (July 14, 1955, ch. 360, title I, §188, as added Pub. L. 101–549, title I, §105(a), Nov. 15, 1990, 104 Stat. 2458.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7509a, 7513a of this title; title 23 section 149.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

@@ -20,7 +20,3 @@ The provisions of section 6927(b) of this title shall apply to records, reports,
 
 (Pub. L. 89–272, title II, §11004, as added Pub. L. 100–582, §2(a), Nov. 1, 1988, 102 Stat. 2952.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6992f of this title.
-

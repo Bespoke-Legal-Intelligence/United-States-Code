@@ -8,7 +8,3 @@
 
 Reference in any law to “Tariff Schedules of the United States”, “the Tariff Schedules”, “such Schedules”, and any other general reference to the old Schedules to be treated as reference to Harmonized Tariff Schedule, see section 3012 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 sections 7652, 9504; title 50 section 98h–4.
-

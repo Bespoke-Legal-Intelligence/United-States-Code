@@ -6,13 +6,9 @@ The Secretary of the Interior is authorized to prescribe necessary and proper ru
 
 #### Transfer of Functions
 
-Functions of Secretary of the Interior to promulgate regulations under this chapter relating to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements foroperations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+Functions of Secretary of the Interior to promulgate regulations under this chapter relating to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
 #### Outer Continental Shelf; Rules and Regulations With Respect to Leases
 
 Rules and regulations with respect to mineral leases on submerged lands of outer Continental Shelf to be prescribed by Secretary of the Interior, see section 1334 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 275, 285 of this title; title 10 sections 7421, 7435.
 

@@ -4,7 +4,3 @@ Unless otherwise provided in the Act authorizing construction of the project, th
 
 (July 4, 1955, ch. 271, §5, as added Pub. L. 92–487, Oct. 3, 1972, 86 Stat. 805.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 421a to 421d, 421f to 421h of this title.
-

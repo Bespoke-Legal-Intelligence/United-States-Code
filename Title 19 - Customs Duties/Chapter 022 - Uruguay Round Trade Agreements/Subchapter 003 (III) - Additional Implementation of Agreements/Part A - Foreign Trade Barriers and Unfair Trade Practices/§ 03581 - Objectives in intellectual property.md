@@ -10,9 +10,9 @@ It is the objective of the United States—
 
 &emsp;&emsp;(B) to prevent or eliminate discrimination with respect to matters affecting the availability, acquisition, scope, maintenance, use, and enforcement of intellectual property rights,
 
-&emsp;(3) to secure fair, equitable, and nondiscriminatory market access opportunities for United States persons that rely upon intellectual property protection,
+&emsp;(3) to secure fair, equitable, and nondiscriminatory market access opportunities forUnited States persons that rely upon intellectual property protection,
 
-&emsp;(4) to take an active role in the development of the intellectual property regime under theWorld Trade Organization to ensure that it is consistent with other United States objectives, and
+&emsp;(4) to take an active role in the development of the intellectual property regime under the World Trade Organization to ensure that it is consistent with other United States objectives, and
 
 &emsp;(5) to take an active role in the World Intellectual Property Organization (WIPO) to develop a cooperative and mutually supportive relationship between the World Trade Organization and WIPO.
 

@@ -162,7 +162,7 @@ The submission to an executive agency of a proposal for settlement of costs for 
 
 #### (j) Contractor to have burden of proof
 
-In a proceeding before a board of contract appeals, the United States Court of FederalClaims, or any other Federal court in which the reasonableness of indirect costs for which a contractor seeks reimbursement from the United States is in issue, the burden of proof shall be upon the contractor to establish that those costs are reasonable.
+In a proceeding before a board of contract appeals, the United States Court of Federal Claims, or any other Federal court in which the reasonableness of indirect costs for which a contractor seeks reimbursement from the United States is in issue, the burden of proof shall be upon the contractor to establish that those costs are reasonable.
 
 #### (k) Proceeding costs not allowable
 
@@ -299,8 +299,4 @@ Definitions.—In this section:
 “(c)
 
 Effective Date.—Any amendments to the Federal Acquisition Regulation made pursuant to subsection (a) shall apply with respect to costs incurred after the date on which the amendments made by section 2101 apply (as provided in section 10001) \[set out as an Effective Date of 1994 Amendment note under section 251 of this title\]) or the date on which the amendments made by section 2151 apply (as provided in section 10001), whichever is later.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 435 of this title.
 

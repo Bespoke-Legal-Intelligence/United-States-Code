@@ -18,7 +18,7 @@ The national sea grant college program shall consist of the financial assistance
 
 #### (c) Responsibilities of Secretary
 
-(1) The Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall develop at least every 4 years a strategic plan that establishes priorities for the national sea grant college program, provides anappropriately balanced response to local, regional, and national needs, and is reflective of integration with the relevant portions of the strategic plans of the Department of Commerce and of the Administration.
+(1) The Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall develop at least every 4 years a strategic plan that establishes priorities for the national sea grant college program, provides an appropriately balanced response to local, regional, and national needs, and is reflective of integration with the relevant portions of the strategic plans of the Department of Commerce and of the Administration.
 
 (2) Within 6 months of March 6, 1998, the Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall establish guidelines related to the activities and responsibilities of sea grant colleges and sea grant institutes. Such guidelines shall include requirements for the conduct of merit review by the sea grant colleges and sea grant institutes of proposals for grants and contracts to be awarded under section 1124 of this title, providing, at a minimum, for standardized documentation of such proposals and peer review of all research projects.
 
@@ -66,7 +66,7 @@ The national sea grant college program shall consist of the financial assistance
 
 &emsp;&emsp;(ii) encourage successful implementation of sea grant programs;
 
-&emsp;&emsp;(iii) to the maximum extent consistent with other provisions of this subchapter, provide a stable base of funding for sea grant colleges and institutes; and
+&emsp;&emsp;(iii) to the maximum extent consistent with other provisions of this subchapter,provide a stable base of funding for sea grant colleges and institutes; and
 
 &emsp;&emsp;(iv) encourage and promote coordination and cooperation between the research, education, and outreach programs of the Administration and those of academic institutions; and
 
@@ -76,7 +76,7 @@ The national sea grant college program shall consist of the financial assistance
 
 #### References in Text
 
-The civil service laws, referred to in subsec. (c)(4)(A), are set forth in Title 5, Government Organization andEmployees. See, particularly, section 3301 et seq. of Title 5.
+The civil service laws, referred to in subsec. (c)(4)(A), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
@@ -144,7 +144,7 @@ Subsec. (i)(4)(A) to (C). Pub. L. 93–73, §1(5), substituted “Secretary” f
 
 Pub. L. 107–299, §3(b)(2), Nov. 26, 2002, 116 Stat. 2346, provided that:
 
-“(A) After 3 years after the date of the enactment of this Act \[Nov. 26, 2002\], the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, shall contract with the National Academy of Sciences—
+“(A) After 3 years after the date of the enactment of this Act \[Nov. 26, 2002\], the Secretary of Commerce,acting through the Under Secretary of Commerce for Oceans and Atmosphere, shall contract with the National Academy of Sciences—
 
 &emsp;“(i) to review the effectiveness of the evaluation and rating system under the amendment made by paragraph (1) in determining the relative performance of programs of sea grant colleges and sea grant institutes;
 
@@ -157,8 +157,4 @@ Pub. L. 107–299, §3(b)(2), Nov. 26, 2002, 116 Stat. 2346, provided that:
 #### Notice of Reorganization
 
 Pub. L. 105–160, §9(d), Mar. 6, 1998, 112 Stat. 27, provided that: “The Secretary of Commerce shall provide notice to the Committees on Science, Resources, and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 45 days before any major reorganization of any program, project, or activity of the National Sea Grant College Program.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1122, 1124, 1126, 1128, 1131 of this title.
 

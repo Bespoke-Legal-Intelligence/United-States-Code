@@ -74,7 +74,3 @@ Subsec. (c). Pub. L. 103–394, §104(d), designated existing provisions as par.
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of Title 11.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 157, 1334, 1452 of this title; title 11 section 305.
-

@@ -4,7 +4,7 @@ There is established within the Commission—
 
 #### (a) Program divisions; appointment and powers of Assistant General Manager and Division Directors
 
-&emsp;a Division of Military Application and such other program divisions (not to exceed ten innumber) as the Commission may determine to the necessary to the discharge of its responsibilities, including a division or divisions the primary responsibilities of which include the development and application of civilian uses of atomic energy. The Division of Military Application shall be under the direction of an Assistant General Manager for Military Application, who shall be appointed by the Commission and shall be an active commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate. Each other program division shall be under the direction of a Director who shall be appointed by the Commission. The Commission shall require each such division to exercise such of the Commission's administrative and executive powers as the Commission may determine;
+&emsp;a Division of Military Application and such other program divisions (not to exceed ten in number) as the Commission may determine to the necessary to the discharge of its responsibilities, including a division or divisions the primary responsibilities of which include the development and application of civilian uses of atomic energy. The Division of Military Application shall be under the direction of an Assistant General Manager for Military Application, who shall be appointed by the Commission and shall be an active commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate. Each other program division shall be under the direction of a Director who shall be appointed by the Commission. The Commission shall require each such division to exercise such of the Commission's administrative and executive powers as the Commission may determine;
 
 #### (b) General Counsel
 
@@ -48,15 +48,11 @@ Subsec. (d). Pub. L. 85–287 added subsec. (d).
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964,except to the extent provided in section 501(c) of Pub. L. 88–426.
 
 #### Transfer of Functions
 
 Divisions of Military Application and Naval Reactors, both established under this section, transferred to Department of Energy by section 7158 of this title, with such organizational units to be deemed organizational units established by chapter 84 (§7101 et seq.) of this title. Energy Research and Development Administration terminated pursuant to sections 7151(a) and 7293 of this title.
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. Divisions of Military Application and Naval Reactors established under this section transferred to Energy Research and Development Administration and functions of Atomic Energy Commission with respect thereto transferred to Administrator by section 5814(d) of this title. See also Transfer of Functions notes set out under sections 5814 and 5841 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5814, 7158 of this title.
 

@@ -52,7 +52,7 @@ Assignment.—The Administrator, in the Administrator's discretion and under reg
 
 &emsp;(2)
 
-Sale or lease.—Subject to disapproval by the Administrator within 30 days after notice to the Administrator by the Secretary of Health and Human Services of a proposed transfer, the Secretary, for use in the protection of public health, including research, maysell or lease property assigned to the Secretary under paragraph (1) to a State, a political subdivision or instrumentality of a State, a tax-supported medical institution, or a hospital or similar institution not operated for profit that has been held exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)).
+Sale or lease.—Subject to disapproval by the Administrator within 30 days after notice to the Administrator by the Secretary of Health and Human Services of a proposed transfer, the Secretary, for use in the protection of public health, including research, may sell or lease property assigned to the Secretary under paragraph (1) to a State, a political subdivision or instrumentality of a State, a tax-supported medical institution, or a hospital or similar institution not operated for profit that has been held exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)).
 
 &emsp;(3)
 
@@ -120,7 +120,7 @@ In general.—In fixing the sale or lease value of property disposed of under pa
 
 &emsp;&emsp;(B)
 
-Amount of discount.—The amount of the discount under subparagraph (A) is 75 percent of the market value of the property, except that the Secretary of Housing and Urban Development may discount by a greater percentage if the Secretary, in consultation with the Administrator, determines that a higher percentage is justified.
+Amount of discount.—The amount of the discount under subparagraph (A) is 75percent of the market value of the property, except that the Secretary of Housing and Urban Development may discount by a greater percentage if the Secretary, in consultation with the Administrator, determines that a higher percentage is justified.
 
 (g)
 
@@ -128,7 +128,7 @@ Property for National Service Activities.—
 
 &emsp;(1)
 
-Assignment.—The Administrator, in the Administrator's discretion and under regulations that the Administrator may prescribe, may assign to the Chief Executive Officer of the Corporation for National and CommunityService for disposal surplus property that the Chief Executive Officer recommends as needed for national service activities.
+Assignment.—The Administrator, in the Administrator's discretion and under regulations that the Administrator may prescribe, may assign to the Chief Executive Officer of the Corporation for National and Community Service for disposal surplus property that the Chief Executive Officer recommends as needed for national service activities.
 
 &emsp;(2)
 
@@ -234,7 +234,7 @@ June 30, 1949, ch. 288, title II, §203(k), 63 Stat. 387; July 12, 1952, ch. 703
 
 In subsections (b)(2), (c), and (d), the words “Secretary of Education” and “Secretary of Health and Human Services” are substituted for “Secretary of Health, Education, and Welfare”, as appropriate, because of sections 301(a)(2)(P) and (b), 507, and 509(b) of the Department of Education Organization Act (20:3441(a)(2)(P) and (b), 3507, and 3508(b)).
 
-In subsection (b)(2), the words “the Surplus Property Act of 1944, as amended”, and the text of 40:484(k)(4)(D), are omitted because the relevant provisions of the Surplus Property Act of 1944 (50 App.:1611 et seq.) have been repealed.
+In subsection (b)(2), the words “the Surplus Property Act of 1944, as amended”, and the text of 40:484(k)(4)(D),are omitted because the relevant provisions of the Surplus Property Act of 1944 (50 App.:1611 et seq.) have been repealed.
 
 In subsection (e), the definition of “States” is omitted as unnecessary because of 40:484(k)(1)(D), restated in subsection (a).
 
@@ -251,8 +251,4 @@ In subsection (h)(3), the words “this subsection” are used to reflect the pr
 #### References in Text
 
 The National and Community Service Act of 1990, referred to in subsec.(g)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 549 of this title; title 10 sections 2577, 2814; title 14 section 641; title 20 section 3441; title 28 section 604; title 38 section 8162; title 42 sections 3796<i>ll</i>–3, 11411.
 

@@ -8,7 +8,3 @@ Within two years from the date of enactment of this Act the Secretary of the Int
 
 The date of enactment of this Act, referred to in text, probably means the date of enactment of Pub. L. 94–31, which enacted this section, and which was approved June 10, 1975.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 227, 228a to 228i, 228j of this title.
-

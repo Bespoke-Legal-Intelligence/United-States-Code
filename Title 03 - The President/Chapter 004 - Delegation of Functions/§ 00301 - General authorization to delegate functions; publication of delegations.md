@@ -1,6 +1,6 @@
 ### §301. General authorization to delegate functions; publication of delegations
 
-The President of the United States is authorized to designate and empower the head of any department or agency in the executive branch, or any official thereof who is required to be appointed by and with the advice and consent of the Senate, to perform without approval, ratification, or other action by the President (1) any function which is vested in the President by law, or (2) any function which such officer is required or authorized by law to perform only with or subject to the approval, ratification, or other action of the President: <i>Provided</i>, That nothing contained herein shall relieve the President of his responsibility in office for the acts of any such head or other official designated by him to perform such functions. Such designation and authorization shall be in writing, shall be published in the Federal Register, shall be subject to such terms, conditions, and limitations as the President may deem advisable, and shall be revocable at any time by the President in whole or in part.
+The President of the United States is authorized to designate and empower the head of any department or agency in the executive branch, or any official thereof who is required to be appointed by and with the advice and consent of the Senate, to perform without approval, ratification, or other action by the President (1) any function which is vested in the President by law, or (2) any function which such officer is required or authorized by law to perform only with or subject to the approval, ratification, or other action of the President: <i>Provided</i>, That nothingcontained herein shall relieve the President of his responsibility in office for the acts of any such head or other official designated by him to perform such functions. Such designation and authorization shall be in writing, shall be published in the Federal Register, shall be subject to such terms, conditions, and limitations as the President may deem advisable, and shall be revocable at any time by the President in whole or in part.
 
 (Added Oct. 31, 1951, ch. 655, §10, 65 Stat. 712.)
 
@@ -44,7 +44,7 @@ Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732
 
 (m) The authority vested in the President by section 7 of the act of March 2, 1917, ch. 145, 39 Stat. 954, as amended \[48 U.S.C. 748\], to convey to the people of Puerto Rico lands, buildings, or interests in lands, or other property owned by the United States, and to accept lands, buildings, or other interests or property by legislative grant from Puerto Rico.
 
-(n) The authority vested in the President by section 3(b) of the act of March 3, 1925, ch. 426, 43 Stat. 1111, asamended \[see 50 U.S.C. 167d\], to approve regulations governing the production and sale of helium for medical, scientific, and commercial use.
+(n) The authority vested in the President by section 3(b) of the act of March 3, 1925, ch. 426, 43 Stat. 1111, as amended \[see 50 U.S.C. 167d\], to approve regulations governing the production and sale of helium for medical, scientific, and commercial use.
 
 (<i>o</i>) The authority vested in the President by section 6 of the act of April 26, 1906, ch. 1876, 34 Stat. 139, to remove from office the principal chief of the Choctaw, Cherokee, Creek, or Seminole tribe or the governor of the Chickasaw tribe, to declare any such office vacant, and to fill any vacancy in any such office arising from removal, disability, or death of the incumbent.
 
@@ -82,7 +82,7 @@ Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended by Ex. Ord. No. 105
 
 (e) The authority vested in the President by section 2 of the act of March 24, 1908, ch. 96, 35 Stat. 46 (46 U.S.C. Appendix 134), to name the hospital ships to which section 1 of the said act \[46 U.S.C. Appendix 133\], shall apply and to indicate the time when the exemptions thereby provided for shall begin and end.
 
-(f) The authority vested in the President by section 4228 of the Revised Statutes, as amended (46 U.S.C. Appendix 141), (1) to declare that—upon satisfactory proof being given by the government of any foreign nation that no discriminating duties of tonnage or imports are imposed or levied in the ports of such nation upon vessels wholly belonging to citizens of the United States, or upon the produce, manufactures or merchandise imported in the same from the United States or from any foreign country—the foreign discriminating duties of tonnage and impost within the United States are suspended and discontinued, so far as respect the vessels of such foreign nation, and the produce, manufactures, or merchandise imported into the United States from such foreign nation, or from any other foreign country, and (2) to suspend in part the operation of section 4219 of the Revised Statutes, as amended (46 U.S.C. Appendix 121), and section IV, J, subsection 1 of the act of October 3, 1913, c. 16 38 Stat. 195, as amended (46 U.S.C. Appendix 146), so that foreign vessels from a country imposing partial discriminating tonnage duties upon American vessels, or partial discriminating import duties upon American merchandise, may enjoy in our ports the identical privileges which the same class of American vessels and merchandise may enjoy in suchcountry: <i>Provided</i>, That prior to the issuance of an order of the Secretary of the Treasury suspending and discontinuing (wholly or in part) discriminating tonnage duties, imposts, and import duties within the United States, the Department of State shall obtain and furnish to the Secretary of the Treasury the proof required by the said sections 4228, as amended, as the basis for that order.
+(f) The authority vested in the President by section 4228 of the Revised Statutes, as amended (46 U.S.C. Appendix 141), (1) to declare that—upon satisfactory proof being given by the government of any foreign nation that no discriminating duties of tonnage or imports are imposed or levied in the ports of such nation upon vessels wholly belonging to citizens of the United States, or upon the produce, manufactures or merchandise imported in the same from the United States or from any foreign country—the foreign discriminating duties of tonnage and impost within the United States are suspended and discontinued, so far as respect the vessels of such foreign nation, and the produce, manufactures, or merchandise imported into the United States from such foreign nation, or from any other foreign country, and (2) to suspend in part the operation of section 4219 of the Revised Statutes, as amended (46 U.S.C. Appendix 121), and section IV, J, subsection 1 of the act of October 3, 1913, c. 16 38 Stat. 195, as amended (46 U.S.C. Appendix 146), so that foreign vessels from a country imposing partial discriminating tonnage duties upon American vessels, or partial discriminating import duties upon American merchandise, may enjoy in our ports the identical privileges which the same class of American vessels and merchandise may enjoy in such country: <i>Provided</i>, That prior to the issuance of an order of the Secretary of the Treasury suspending and discontinuing (wholly or in part) discriminating tonnage duties, imposts, and import duties within the United States, the Department of State shall obtain and furnish to the Secretary of the Treasury the proof required by the said sections 4228, as amended, as the basis for that order.
 
 (g) The authority vested in the President by section 3650 of the Internal Revenue Code \[section 3650 of the Internal Revenue Code of 1939\] \[see 26 U.S.C. 7621\], to establish convenient collection districts (for the purpose of assessing, levying, and collecting the taxes provided by the internal revenue laws), and from time to time to alter such districts.
 
@@ -138,7 +138,7 @@ Sec. 5. (a) The Federal Communications Commission is hereby designated and empow
 
 Sec. 6. The Attorney General and the Archivist of the United States are hereby designated and empowered jointly to perform the following-described functions without the approval, ratification, or other action of the President:
 
-(a) The authority vested in the President by section 5(a) of the act of July 26, 1935, ch. 417, 49 Stat. 501, asamended (44 U.S.C. 1505(a)), to determine from time to time the documents or classes of documents having general applicability and legal effect.
+(a) The authority vested in the President by section 5(a) of the act of July 26, 1935, ch. 417, 49 Stat. 501, as amended (44 U.S.C. 1505(a)), to determine from time to time the documents or classes of documents having general applicability and legal effect.
 
 (b) The authority vested in the President by sections 6, 11(a), and 11(f) of said act, as amended (44 U.S.C. 1506; 1510(a) and 1510(f)), to approve (or disapprove), respectively, (1) regulations, prescribed by the Administrative Committee of the Federal Register, for carrying out the provisions of that act (including the regulations referred to in section 5(b) of the act (44 U.S.C. 1505(b)), authorizing publication in the Federal Register of certain documents or classes of documents), (2) actions of the Administrative Committee of the Federal Register requiring, from time to time, the preparation and publication in special or supplemental editions of the Federal Register of complete codifications of the documents, described in the said section 11(a) (44 U.S.C. 1510(a)), of each agency of the Government, and (3) regulations, prescribed by the Administrative Committee of the Federal Register, for carrying out the provisions of section 11 (44 U.S.C. 1510) of the said act, as amended.
 
@@ -146,7 +146,7 @@ Sec. 6. The Attorney General and the Archivist of the United States are hereby d
 
 #### general provisions
 
-Sec. 7. All actions heretofore taken by the President in respect of the matters affected by this order and in force at the time of the issuance of this order, including any regulations prescribed or approved by the President in respect of such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
+Sec. 7. All actions heretofore taken by the President in respect of the matters affected by this order and in force at the time of the issuance of this order, including any regulations prescribed or approved by thePresident in respect of such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
 Sec. 8. As used in this order, the term “functions” embraces duties, powers, responsibilities, authority, or discretion, and the term “perform” may be construed to mean “exercise.”
 
@@ -238,7 +238,7 @@ Sec. 2. The Secretary of Homeland Security is hereby designated and empowered to
 
 (f) The authority vested in the President by section 248 of the said Armed Forces Reserve Act \[see 10 U.S.C. 12681, 12682\], to effect the discharge of commissioned officers of the reserve.
 
-(g) The authority vested in the President by section 6 of the act of February 21, 1946, ch. 34, 60 Stat. 27 \[10 U.S.C. 6323\], as made applicable to the Coast Guard Reserve by section 755(a) of Title 14 of the United States Code, in his discretion, to place upon the retired list any officer of the Coast Guard Reserve, upon his own application, who has completed more than twenty years of active service as described in the said section 6.
+(g) The authority vested in the President by section 6 of the act of February 21, 1946, ch. 34, 60 Stat. 27 \[10 U.S.C. 6323\], as made applicable to the Coast Guard Reserve by section 755(a) of Title 14 of the United States Code, in his discretion, to place upon the retired listany officer of the Coast Guard Reserve, upon his own application, who has completed more than twenty years of active service as described in the said section 6.
 
 Sec. 3. All actions heretofore taken by the President with respect to the matters affected by this order and in force at the time of issuance of this order, including any regulations prescribed or approved by the President with respect to such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
@@ -282,7 +282,7 @@ By virtue of the authority vested in me by Section 301 of Title 3 of the United 
 
 Section 1. \[Superseded by Ex. Ord. No. 11230, §2(11), June 28, 1965, 30 F.R. 8447.\]
 
-Sec. 2. The Administrator of General Services is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, so much of the authority vested in the President by Section 1(b) of the Act of August 2, 1946, ch. 744, 60 Stat. 807 (5 U.S.C. 73b–1(b)) \[5 U.S.C. 5724\], as pertains to the establishment of the rates to be used in reimbursing civilian officers or employees of the Government on acommuted basis in lieu of the payment of actual expenses of transportation, packing, crating, temporary storage, drayage, and unpacking of their household goods and personal effects in the case of transfers from one official station to another within the continental United States for permanent duty.
+Sec. 2. The Administrator of General Services is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, so much of the authority vested in the President by Section 1(b) of the Act of August 2, 1946, ch. 744, 60 Stat. 807 (5 U.S.C. 73b–1(b)) \[5 U.S.C. 5724\], as pertains to the establishment of the rates to be used in reimbursing civilian officers or employees of the Government on a commuted basis in lieu of the payment of actual expenses of transportation, packing, crating, temporary storage, drayage, and unpacking of their household goods and personal effects in the case of transfers from one official station to another within the continental United States for permanent duty.
 
 Sec. 3. The initial regulations to be issued by the Director of the Office of Management and Budget and by the Administrator of General Services under the authority delegated to each of them by this order shall be effective on the same date and effective as of that date the following-described Executive orders are revoked:
 
@@ -310,41 +310,43 @@ Sec. 4. Existing regulations prescribed by the Director of the Office of Managem
 
 #### Ex. Ord. No. 11023. Delegation of Functions to Secretary of Commerce
 
-Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R.34617; Ex. Ord. No. 13341, May 20, 2004, 69 F.R. 29843, provided:
 
 By virtue of the authority vested in me by section 301 of title 3, of the United States Code, and as President of the United States, it is ordered as follows:
 
 Section 1. The Secretary of Commerce is hereby designated and empowered to perform the following-described functions without the approval, ratification, or other action of the President:
 
-(a) The authority contained in section 6(b) of the Coast and Geodetic Survey Commissioned Officers Act of 1948 (62 Stat. 298; \[former\] 33 U.S.C. 853e(b)) to revoke the commissions of ensigns of the National Oceanic and Atmospheric Administration who are found not fully qualified and to separate such ensigns from the commissioned service.
+(a) The authority contained in section 223(b) of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3023(b)) to revoke the commissions of ensigns of the National Oceanic and Atmospheric Administration who are found not fully qualified and to separate such ensigns from the commissioned service.
 
-(b) The authority vested in the President by section 12(a) of the Coast and Geodetic Survey Commissioned Officers Act of 1948, as amended (75 Stat. 506; \[former\] 33 U.S.C. 853j–1(a)), to make temporary appointments in the grade of ensign in the National Oceanic and Atmospheric Administration.
+(b) The authority vested in the President by section 229(a) of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3029(a)), to make temporary appointments in the grade of ensign in the National Oceanic and Atmospheric Administration.
 
-(c) The authority vested in the President by section 12(b) of the Coast and Geodetic Survey Commissioned Officers Act of 1948, as amended (75 Stat. 506; \[former\] 33 U.S.C. 853j–1(b)), to temporarily promote officers in the permanent grade of ensign in the National Oceanic and Atmospheric Administration, and to appoint such officers to the grade of lieutenant junior grade whenever vacancies exist in higher grades.
+(c) The authority vested in the President by section 229(b) of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3029(b)), to temporarily promote officers in the permanent grade of ensign in the National Oceanic and Atmospheric Administration, and to appoint such officers to the grade of lieutenant junior grade whenever vacancies exist in higher grades.
 
-(d) The authority vested in the President by section 12 (c) of the Coast and Geodetic Survey Commissioned Officers Act of 1948, as amended (75 Stat. 506; \[former\] 33 U.S.C. 853j–1(c)), to temporarily promote any officer one grade.
+(d) The authority vested in the President by section 229(c) of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3029(c)), to temporarily promote any officer one grade.
 
-(e) The authority vested in the President by section 13(b) of the Coast and Geodetic Survey Commissioned Officers Act of 1948, as amended (75 Stat. 506; \[former\] 33 U.S.C. 853k(b)), to defer the retirement of an officer of the National Oceanic and Atmospheric Administration serving in a rank above that of captain who has attained the age of sixty-two years.
+(e) The authority vested in the President by section 243(b) of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3043(b)), to defer the retirement of an officer of the National Oceanic and Atmospheric Administration serving in a rank above that of captain who has attained 62 years of age, but such a deferment may not extend beyond the first day of the month in which the officer becomes 64 years of age.
 
-(f) The authority vested in the President by section 14 of the Coast and Geodetic Survey Commissioned Officers Act of 1948, as amended (75 Stat. 506; \[former\] 33 U.S.C. 853<i>l</i>), to retire from the active service any commissioned officer of the National Oceanic and Atmospheric Administration, upon his own application, who has completed twenty years of active service in the National Oceanic and Atmospheric Administration.
+(f) The authority vested in the President by section 244 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3044), to retire from the active service any commissioned officer of the National Oceanic and Atmospheric Administration, upon his own application, who has completed 20 years of active service, of which at least 10 years was service as a commissioned officer.
 
-(g) The authority vested in the President by section 23(a) of the Coast and Geodetic Survey Commissioned Officers Act of 1948, as amended (75 Stat. 506; \[former\] 33 U.S.C. 853t(a)), (1) to find that any officer appointed under section 23 is not qualified for service, (2) to revoke the commissions of officers in respect of whom such findings are made, and (3) to prescribe the regulations referred to in that section.
+(g) The authority vested in the President by section 221(a)(4) of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3021(a)(4)), (1) to find that any officer appointed under section 23 is not qualified for service, (2) to revoke the commissions of officers in respect of whom such findings are made, and (3) to prescribe the regulations referred to in that section.
 
-(h) The authority contained in section 1(1) of the Act of December 3, 1942 (56 Stat. 1038; 33 U.S.C. 854a–1(1)) to temporarily promote to higher ranks or grades, upon recommendation of the Secretary of the military department concerned, commissioned officers of the National Oceanic and Atmospheric Administration transferred to the military departments.
+(h) The authority contained in section 230(b)(1) of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3030(b)(1)) to temporarily promote to higher ranks or grades, upon recommendation of the Secretary of the military department concerned, commissioned officers of the National Oceanic and Atmospheric Administration transferred to the military departments.
 
-(i) The authority contained in section 1(2) of the Act of December 3, 1942 (56 Stat. 1038; 33 U.S.C. 854a–1(2)) to temporarily promote commissioned officers of the National Oceanic and Atmospheric Administration to fill vacancies in ranks and grades caused by transfer of commissioned officers to the service and jurisdiction of the military departments.
+(i) The authority contained in section 230(b)(2) of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3030(b)(2)) to temporarily promote commissioned officers of the National Oceanic and Atmospheric Administration to fill vacancies in ranks and grades caused by transfer of commissioned officers to the service and jurisdiction of the military departments.
 
-(j) The authority contained in section 1(3) of the Act of December 3, 1942 (56 Stat. 1038; 33 U.S.C. 854a–1(3)) to temporarily appoint deck officers and junior engineers to the grade of ensign to fill vacancies caused by transfer of officers to the military departments.
+(j) The authority contained in section 230(b)(3) of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3030(b)(3)), to appoint temporarily in all grades to which original appointments in the National Oceanic and Atmospheric Administration are authorized to fill vacancies caused by transfer of officers to the military departments.
 
-(k) The authority vested in the President by section 16 of the Act of May 22, 1917 (40 Stat. 87; \[former\] 33 U.S.C. 855), to transfer to service and jurisdiction of the Department of Defense, as he may deem to be to the best interest of the country, vessels, equipment, stations, and personnel of the National Oceanic and Atmospheric Administration; but the Secretary of Commerce may effect such transfers only during the existence of a state of national emergency proclaimed by President. Commissioned officers so transferred shall serve under their commissions in the National Oceanic and Atmospheric Administration and while so serving shall constitute a part of the active armed forces of the United States and shall be under the direct orders of, and shall be subject to the applicable laws, regulations, and orders for the government of, the armed forces to which they are transferred, respectively. The Secretary of Commerce may return such vessels, equipment, stations, and personnel to the jurisdiction of the Department of Commerce, but in time of national emergency such return shall be effected only with the concurrence of the Secretary of Defense.
+(k) The authority vested in the President by section 251 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3061), to transfer to service and jurisdiction of the Department of Defense, as he may deem to be to the best interest of the country, vessels, equipment, stations, and officers of the National Oceanic and Atmospheric Administration; but the Secretary of Commerce may effect such transfers only during the existence of a state of national emergency proclaimed by President. Commissioned officers so transferred shall serve under their commissions in the National Oceanic and Atmospheric Administration and while so serving shall constitute a part of the active armed forces of the United States and shall be under the direct orders of, and shall be subject to the applicable laws, regulations, and orders for the government of, the armed forces to which they are transferred, respectively. The Secretary of Commerce may return such vessels, equipment, stations, and officers to the jurisdiction of the Department of Commerce, but in time of national emergency such return shall be effected only with the concurrence of the Secretary of Defense.
 
-(<i>l</i>) The authority vested in the President by section 8 of the Act of August 6, 1947 (61 Stat. 788; 33 U.S.C. 883h) to employ public vessels, and to give instructions for regulating their conduct, to carry out the provisions of the Act of August 6, 1947; but the employment by the Secretary of Commerce of vessels, except those of the Department of Commerce or of any subordinate entity thereof, shall require the concurrence of the head of the department or other executive agency having custody or control of the vessel.
+(<i>l</i>) The authority vested in the President by section 8 of the Act of August 6, 1947 (61 Stat. 788; 33 U.S.C. 883h) to employ public vessels, and to give instructions for regulating their conduct, to carry out the provisions of the Act of August 6, 1947 \[33 U.S.C. 883a et seq.\]; but the employment by the Secretary of Commerce of vessels, except those of the Department of Commerce or of any subordinate entity thereof, shall require the concurrence of the head of the department or other executive agency having custody or control of the vessel.
 
-Sec. 2. Upon receipt by the Secretary of Commerce from the President or from the President's representative of information showing that the Senate has confirmed nominees of the President for appointment as commissioned officers of the National Oceanic and Atmospheric Administration, and without any further action on the part of the President, (1) the Secretary of Commerce or an officer of the Department of Commerce designated by the Secretary may, upon completion of statutory requirements for such appointments, tender offers of appointment to the nominees and upon acceptance such persons shall be deemed to be appointed accordingly, (2) the Secretary of Commerce, in the name of the President, shall issue to each such person a commission evidencing the appointment of such persons accordingly, and (3) the commissions of such persons shall be deemed to have been signed by the President. The effective date specified in any commission so issued shall be deemed, for all purposes, to bethe date of the appointment evidenced by such commission.
+(m) The authority vested in the President by Public Law 96–215, as amended (10 U.S.C. 716(a)), to transfer any commissioned officer with his consent from his uniformed service to, and appoint him in, the National Oceanic and Atmospheric Administration, provided consent for the transfer is given by the Secretary of Defense, the Secretary of Homeland Security, or the Secretary of Health and Human Services, as applicable, in accordance with joint regulations issued under that statute establishing the policies and procedures for such transfers and appointments.
+
+Sec. 2. Upon receipt by the Secretary of Commerce from the President or from the President's representative of information showing that the Senate has confirmed nominees of the President for appointment as commissioned officers of the National Oceanic and Atmospheric Administration, and without any further action on the part of the President, (1) the Secretary of Commerce or an officer of the Department of Commerce designated by the Secretary may, upon completion of statutory requirements for such appointments, tender offers of appointment to the nominees and upon acceptance such persons shall be deemed to be appointed accordingly, (2) the Secretary of Commerce, in the name of the President, shall issue to each such person a commission evidencing the appointment of such persons accordingly, and (3) the commissions of such persons shall be deemed to have been signed by the President. The effective date specified in any commission so issued shall be deemed, for all purposes, to be the date of the appointment evidenced by such commission.
 
 Sec. 3. In connection with making appointments or promotions under authority delegated to him by subsections (b), (c), (d), (h), (i), and (j) of section 1 of this order, the Secretary of Commerce shall issue to each person appointed or promoted by him thereunder a certificate evidencing the appointment or promotion of such person. Such certificate may be issued in the name of the President.
 
-Sec. 4. Any requirement of any provision of law that commissions of officers under the direction and control of the Secretary of Commerce be signed by the President before the seal of the Department of Commerce may be affixed thereto shall, in the case of officers appointed under the procedure set forth in section 2 of this order and in the case of officers appointed or promoted under authority delegated by subsections (b), (c), (d), (h), (i), and (j) of section 1 of this order, be deemed to be satisfied by signature of the commission or certificate by the Secretary of Commerce, before the departmental seal is affixed thereto.
+Sec. 4. Any requirement of any provision of law that commissions of officers under the direction and controlof the Secretary of Commerce be signed by the President before the seal of the Department of Commerce may be affixed thereto shall, in the case of officers appointed under the procedure set forth in section 2 of this order and in the case of officers appointed or promoted under authority delegated by subsections (b), (c), (d), (h), (i), and (j) of section 1 of this order, be deemed to be satisfied by signature of the commission or certificate by the Secretary of Commerce, before the departmental seal is affixed thereto.
 
 Sec. 5. The Secretary of Commerce is hereby authorized to accept, in the name of the President, the resignation of a commissioned officer, either permanent or temporary, of the National Oceanic and Atmospheric Administration.
 
@@ -406,7 +408,7 @@ Sec 3. The following are hereby superseded:
 
 Sec. 4. (a) Unless inappropriate, references in this Order to any statute or to any provision of any statute shall be deemed to include references thereto as amended from time to time.
 
-(b) Unless inappropriate, any reference in any Executive order to any Executive order which is superseded by this Order, or to any Executive order provision sosuperseded, shall hereafter be deemed to refer to this Order or to the provision of Section 1 or Section 2 of this Order, if any, which corresponds to the superseded provision.
+(b) Unless inappropriate, any reference in any Executive order to any Executive order which is superseded by this Order, or to any Executive order provision so superseded, shall hereafter be deemed to refer to this Order or to the provision of Section 1 or Section 2 of this Order, if any, which corresponds to the superseded provision.
 
 Sec. 5. All actions heretofore taken by the President or by his delegates in respect of the matters affected by Sections 1 and 2 of this Order and in force at the time of the issuance of this Order, including any regulations prescribed or approved by the President or by his delegates in respect of such matters, shall, except as they may be inconsistent with the provisions, of this Order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this Order unless sooner terminated by operation of law.
 
@@ -458,23 +460,35 @@ Sec. 2. All actions heretofore taken by or for the President with respect to the
 
 #### Ex. Ord. No. 11423. Delegation of Functions to Secretary of State Respecting Certain Facilities Constructed and Maintained on United States Borders
 
-Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, as amended by Ex. Ord. No. 12847, May 17, 1993, 58 F.R. 29511; Ex. Ord. No. 13284, §14, Jan. 23, 2003, 68 F.R. 4076, provided:
+Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, as amended by Ex. Ord. No. 12847, May 17, 1993, 58 F.R. 29511; Ex. Ord. No. 13284, §14, Jan. 23, 2003, 68 F.R. 4076; Ex. Ord. No. 13337, §2, Apr. 30, 2004, 69 F.R. 25300, provided:
 
 WHEREAS the proper conduct of the foreign relations of the United States requires that executive permission be obtained for the construction and maintenance at the borders of the United States of facilities connecting the United States with a foreign country; and
 
 WHEREAS such executive permission has from time to time been sought and granted in the form of Presidential permits for the construction, connection, operation, and maintenance at the borders of the United States of such border crossing facilities as water supply and oil pipelines, aerial tramways and cable cars, submarine cables, and lines for the transmission of electric energy; and
 
-WHEREAS Executive Order No. 10485 of September 3, 1953 \[set out as a note under section 717b of title 15\], empowers the Federal Power Commission \[Secretary of Energy\] to issue permits for the construction, operation, maintenance, or connection, at the borders of the United States, of facilities for the transmission of electric energy between the United States and a foreign country and for the importation or exportation of natural gas to or from a foreign country; and
+WHEREAS Executive Order No. 10485 of September 3, 1953 \[15 U.S.C. 717b note\], empowers the Federal Power Commission \[Secretary of Energy\] to issue permits for the construction, operation, maintenance, or connection, at the borders of the United States, of facilities for the transmission of electric energy between the United States and a foreign country and for the importation or exportation of natural gas to or from a foreign country; and
 
-WHEREAS Executive Order No. 10530 of May 10, 1954 \[set out as a note under this section\], empowers the Federal Communications Commission to issue and revoke licenses to land submarine cables in the United States; and
+WHEREAS Executive Order No. 10530 of May 10, 1954 \[set out above\], empowers the Federal Communications Commission to issue and revoke licenses to land submarine cables in the United States; and
 
 WHEREAS it is desirable to provide a systematic method in connection with the issuance of permits for the construction and maintenance of other such facilities connecting the United States with a foreign country:
 
 NOW, THEREFORE, by virtue of the authority vested in me as President of the United States and Commander in Chief of the Armed Forces of the United States and in conformity with the provisions of section 301 of title 3, United States Code, it is ordered as follows:
 
-Section 1. (a) Except with respect to facilities covered by Executive Order Nos. 10485 \[15 U.S.C. 717b note\] and 10530 \[set out above\], the Secretary of State is hereby designated and empowered to receive all applications for permits for the construction, connection, operation, or maintenance, at the borders of the UnitedStates, of: (i) pipelines, conveyor belts, and similar facilities for the exportation or importation of petroleum, petroleum products, coal, minerals, or other products to or from a foreign country; (ii) facilities for the exportation or importation of water or sewage to or from a foreign country; (iii) facilities for the transportation of persons or things, or both, to or from a foreign country; (iv) bridges, to the extent that congressional authorization is not required; and (v) similar facilities above or below ground.
+Section 1. (a) Except with respect to facilities covered by Executive Order Nos. 10485 \[15 U.S.C. 717b note\] and 10530 \[set out above\], and by section 1(a) of the Executive Order of April 30, 2004, entitled “Issuance of Permits with Respect to Certain Energy-Related Facilities and Land Transportation Crossings on the International Boundaries of the United States” (the order of April 30, 2004) \[Ex. Ord. No. 13337, set out below\], the Secretary of State is hereby designated and empowered to receive all applications for Presidential permits for the construction, connection, operation, or maintenance, at the borders of the United States, of:
 
-(b) With respect to applications received pursuant to subsection (a)(i) above, the Secretary of State shall request the views of the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of the Interior, the Secretary of Commerce, the Secretary of Transportation, the Secretary of Homeland Security, the Interstate Commerce Commission, and the Director of the Office of Emergency Planning. With respect to applications received pursuant to subsection (a)(ii) above, the Secretary of State shall request the views of the Secretary of Defense and the Secretary of the Interior. With respect to applications received pursuant to subsection (a)(iii), (iv) or (v) above, the Secretary of State shall request the views of the Secretary of the Treasury, the Secretary of Defense, the Attorney General, and the Secretary of Transportation.
+&emsp;(i) pipelines, conveyor belts, and similar facilities for the exportation or importation of all products, except those specified in section 1(a) of the order of April 30, 2004, to or from a foreign country;
+
+&emsp;(ii) facilities for the exportation or importation of water or sewage to or from a foreign country;
+
+&emsp;(iii) facilities for the transportation of persons or things, or both, to or from a foreign country;
+
+&emsp;(iv) bridges, to the extent that congressional authorization is not required;
+
+&emsp;(v) similar facilities above or below ground; and
+
+&emsp;(vi) border crossings for land transportation, including motor and rail vehicles, to or from a foreign country, whether or not in conjunction with the facilities identified in (iii) above.
+
+(b) With respect to applications received pursuant to subsection (a)(i) above, the Secretary of State shall request the views of the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of the Interior, the Secretary of Commerce, the Secretary of Transportation, the Secretary of Homeland Security, the Interstate Commerce Commission, and the Director of the Office of Emergency Planning. With respect to applications received pursuant to subsection (a)(ii) above, the Secretary of State shall request the views of the Secretary of Defense and the Secretary of the Interior. With respect to applications received pursuant to subsection (a)(iii), (iv), (v), or (vi) above, the Secretary of State shall request the views of the Secretary of the Treasury, the Secretary of Defense, the Attorney General, and the Secretary of Transportation.
 
 (c) The Secretary of State may also consult with such other department and agency heads and with such state and local government officials as he deems appropriate with respect to each application. All federal government officials consulted by the Secretary of State pursuant to this section shall provide such information and render such assistance as he may request, consistent with their competence and authority.
 
@@ -862,7 +876,7 @@ Section 1. The functions of the President of submitting certain recurring report
 
 9\. Report on the National Emergency With Respect to Persons Who Commit, Threaten to Commit, or Support Terrorism, Executive Order 13224 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-10\. Report on the National Emergency With Respect to Sierra Leone and Liberia, Executive Order 13194 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+10\. Report on the National Emergency With Respect to Sierra Leone and Liberia, Executive Order 13194 \[formerly 50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
 11\. Report on the National Emergency With Respect to Sudan, Executive Order 13067 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
@@ -918,7 +932,121 @@ Sec. 5. This order is intended only to improve the internal management of the ex
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
+#### Ex. Ord. No. 13337. Issuance of Permits With Respect to Certain Energy-Related Facilities and Land Transportation Crossings on the International Boundaries of the United States
 
-This section is referred to in title 22 section 7431.
+Ex. Ord. No. 13337, Apr. 30, 2004, 69 F.R. 25299, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and in order to amend Executive Order 11423 of August 16, 1968, as amended \[set out above\], and to further the policy of my Administration as stated in Executive Order 13212 of May 18, 2001, as amended \[42 U.S.C. 13201 note\], to expedite reviews of permits as necessary to accelerate the completion of energy production and transmission projects, and to provide a systematic method for evaluating and permitting the construction and maintenance of certain border crossings for land transportation, including motor and rail vehicles, that do not require construction or maintenance of facilities connecting the United States with a foreign country, while maintaining safety, public health, and environmental protections, it is hereby ordered as follows:
+
+Section 1. (a) Except with respect to facilities covered by Executive Order 10485 of September 3, 1953 \[15 U.S.C. 717b note\], and Executive Order 10530 of May 10, 1954 \[set out above\], the Secretary of State is hereby designated and empowered to receive all applications for Presidential permits, as referred to in Executive Order 11423, as amended, for the construction, connection, operation, or maintenance, at the borders of the United States, of facilities for the exportation or importation of petroleum, petroleum products, coal, or other fuels to or from a foreign country.
+
+(b) Upon receipt of a completed application pursuant to paragraph (a) of this section, the Secretary of State shall:
+
+&emsp;(i) Request additional information needed from the applicant, as appropriate, before referring the application to other agencies pursuant to paragraph (b)(ii) of this section;
+
+&emsp;(ii) Refer the application and pertinent information to, and request the views of, the Secretary of Defense, the Attorney General, the Secretary of the Interior, the Secretary of Commerce, the Secretary of Transportation, the Secretary of Energy, the Secretary of Homeland Security, the Administrator of the Environmental Protection Agency, or the heads of the departments or agencies in which the relevant authorities or responsibilities of the foregoing are subsequently conferred or transferred, and, for applications concerning the border with Mexico, the United States Commissioner of the International Boundary and Water Commission; and
+
+&emsp;(iii) Refer the application and pertinent information to, and request the views of, such other Federal Government department and agency heads as the Secretary of State deems appropriate.
+
+(c) All Federal Government officials consulted by the Secretary of State pursuant to paragraph (b)(ii) or (b)(iii) of this section shall provide their views and render such assistance as may be requested, consistent with their authority, in a timely manner, but not to exceed 90 days from the date of the request.
+
+(d) Should any of the Federal Government officials consulted pursuant to paragraph (b)(ii) or (b)(iii) of this section request from the Department of State additional information that is necessary for them to provide their views or to render such assistance as may be required, the time elapsed between the date of that request for additional information and the date such additional information is received shall not be counted in calculating the time period prescribed in paragraph (c) of this section.
+
+(e) The Secretary of State may also consult with such State, tribal, and local government officials and foreign governments, as the Secretary deems appropriate, with respect to each application. The Secretary shall solicit responses in a timely manner, not to exceed 90 days from the date of the request.
+
+(f) Upon receiving the views and assistance requested pursuant to paragraphs (b) and (e) of this section, the Secretary of State shall consider, in light of any statutory or other requirements or other considerations, whether or not additional information is needed in order to evaluate the application and, as appropriate, request such information from the applicant.
+
+(g) After consideration of the views and assistance obtained pursuant to paragraphs (b) and, as appropriate, (e) and (f) of this section and any public comments submitted pursuant to section 3(a) of this order, if the Secretary of State finds that issuance of a permit to the applicant would serve the national interest, the Secretary shall prepare a permit, in such form and with such terms and conditions as the national interest may in the Secretary's judgment require, and shall notify the officials required to be consulted under paragraph (b)(ii) of this section of the proposed determination that a permit be issued.
+
+(h) After consideration of the views obtained pursuant to paragraphs (b) and, as appropriate, (e) and (f) of this section and any public comments provided pursuant to section 3(a) of this order, if the Secretary of State finds that issuance of a permit to the applicant would not serve the national interest, the Secretary shall notify the officials required to be consulted under paragraph (b)(ii) of this section of the proposed determination that the application be denied.
+
+(i) The Secretary of State shall issue or deny the permit in accordance with the proposed determination unless, within 15 days after notification pursuant to paragraphs (g) or (h) of this section, an official required to be consulted under paragraph (b)(ii) of this section shall notify the Secretary of State that he or she disagrees with the Secretary's proposed determination and requests the Secretary to refer the application to the President. In the event of such a request, the Secretary of State shall consult with any such requesting official and, if necessary, shall refer the application, together with statements of the views of any official involved, to the President for consideration and a final decision.
+
+Sec. 2. \[Amended Ex. Ord. No. 11423, set out above.\]
+
+Sec. 3. (a) The Secretary of State may provide for the publication in the Federal Register of notice of receipt of applications, for the receipt of public comments on applications, and for notices related to the issuance or denial of applications.
+
+(b) The Secretary of State is authorized to issue such further rules and regulations, and to prescribe such further procedures, including, but not limited to, those relating to the International Boundary and Water Commission, as may from time to time be deemed necessary or desirable for the exercise of the authority conferred by this order.
+
+Sec. 4. All permits heretofore issued with respect to facilities described in section 2(a) of this order pursuant to Executive Order 11423, as amended, and in force at the time of issuance of this order, and all permits issued hereunder, shall remain in effect in accordance with their terms unless and until modified, amended, suspended, or revoked by the appropriate authority.
+
+Sec. 5. Nothing contained in this order shall be construed to affect the authority of any department or agency of the United States Government, or to supersede or replace the requirements established under any other provision of law, or to relieve a person from any requirement to obtain authorization from any other department or agency of the United States Government in compliance with applicable laws and regulations subject to the jurisdiction of that department or agency.
+
+Sec. 6. This order is not intended to, and does not, create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13346. Delegation of Certain Waiver, Determination, Certification, Recommendation, and Reporting Functions
+
+Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. The functions of the President in making certain waivers, determinations, certifications, recommendations, and reports to the Congress are assigned as follows:
+
+(a) The Secretary of State is authorized to make waivers, determinations, certifications, and recommendations, and to undertake related reporting, as described in:
+
+&emsp;(i) Section 402(d)(1) of the Trade Act of 1974, as amended (19 U.S.C. 2432(d)(1)), with respect to the extension of Jackson-Vanik waivers;
+
+&emsp;(ii) Section 609 of Division A of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277) \[112 Stat. 2681–112\] as continued in effect by section 612 of Division B of the Consolidated Appropriations Act, 2004 (Public Law 108–199) \[118 Stat. 94\] with respect to cooperation related to persons missing in action and prisoners of war; and
+
+&emsp;(iii) Section 102(a)(2) of the Arms Export Control Act, as amended (22 U.S.C. 2799aa–1(a)\[2\]), with respect to any Presidential determination under section 102(a)(1) that is also the subject of a determination and certification by the President pursuant to section 102(a)(2).
+
+(b) The United States Trade Representative shall submit the report relating to sub-Saharan Africa under section 106 of the African Growth and Opportunity Act (Public Law 106–200, title 1\[I\]) \[19 U.S.C. 3705\].
+
+Sec. 2. The functions of the President in making certifications to the Congress consistent with the resolution of advice and consent to ratification of the Chemical Weapons Convention adopted by the Senate on April 24, 1997 (Resolution) are assigned as follows:
+
+(a) The Secretary of State is authorized to make a certification consistent with section 2(7)(C)(i) of the Resolution with respect to the effectiveness and viability of the Australia Group.
+
+(b) The Secretary of Commerce is authorized to make a certification consistent with section 2(9) of the Resolution with respect to the interests of certain firms in the United States.
+
+Sec. 3. \[Amended Ex. Ord. No. 12163, set out as a note under section 2381 of Title 22, Foreign Relations and Intercourse.\]
+
+Sec. 4. \[Amended Ex. Ord. No. 13277, set out as a note under section 3801 of Title 19, Customs Duties.\]
+
+Sec. 5. References in this order to provisions of any Act shall be deemed to include references to any provision of law that is the same or substantially the same as such provisions.
+
+Sec. 6. In carrying out sections 1 and 2 of this order, officers of the United States shall ensure that all actions taken by them are consistent with the President's constitutional authority to: (a) conduct the foreign affairs of the United States; (b) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties; (c) recommend for congressional consideration such measures as the President may judge necessary and expedient; and (d) supervise the unitary executive branch.
+
+Sec. 7. Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+
+Sec. 8. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, entities, officers, employees or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13358. Assignment of Functions Relating to Certain Appointments, Promotions, and Commissions in the Armed Forces
+
+Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Assignment of Functions to the Secretary of Defense</i>. The Secretary of Defense shall perform, except with respect to the Coast Guard during any period in which it is not operating as a service in the Navy, the functions of the President under the following provisions of title 10, United States Code:
+
+(a) subsection 1521(a);
+
+(b) the first sentence of subsection 12203(a);
+
+(c) the first sentence of subsection 14111(a), except with respect to reports relating to the grades of brigadier general or above, or rear admiral (lower half) or above; and
+
+(d) subsection 14310(a), except with respect to removals relating to a promotion list for grades of brigadier general or above, or rear admiral (lower half) or above.
+
+Sec. 2. <i>Assignment of Functions to the Secretary of Homeland Security</i>. The Secretary of Homeland Security shall perform, with respect to the Coast Guard during any period in which it is not operating as a service in the Navy, the functions assigned to the President by the following provisions of the United States Code:
+
+(a) subsection 1521(a) of title 10;
+
+(b) the first sentence of subsection 12203(a) of title 10;
+
+(c) subsection 729(g) of title 14, except with respect to approval of, or removal of a name from, a report relating to the grades of rear admiral (lower half) or above; and
+
+(d) subsection 738(a) of title 14, except with respect to removals relating to a promotion list for grades of rear admiral (lower half) or above.
+
+Sec. 3. <i>Reassignment of Functions Assigned</i>. The Secretary of Defense and the Secretary of Homeland Security may reassign the functions assigned to them by this order to civilian officers, within their respective departments, who hold a position for which the President makes an appointment by and with the advice and consent of the Senate, except that the Secretary of Defense and the Secretary of Homeland Security may not reassign the functions assigned by sections 1(b) and 2(b), respectively. The Secretary of Defense may not reassign the function assigned by section 1(c) of this order except to such an officer within the Office of the Secretary of Defense (as defined in section 131(b) of title 10).
+
+Sec. 4. <i>General Provisions</i>. (a) This order shall take effect on October 1, 2004.
+
+(b) Nothing in this order shall be construed to limit or otherwise affect the authority of the President as Commander in Chief of the Armed Forces of the United States, or under the Constitution and laws of the United States to nominate or to make or terminate appointments.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, entities, officers, employees or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -46,7 +46,3 @@ In subsection (a), the words “officers and” are added for clarity and consis
 
 In subsection (b), the words “officers and employees” are substituted for “personnel”, the words “departments, agencies, or instrumentalities of the United States Government” are substituted for “governmental”, and the words “governments of foreign countries” are substituted for “foreign governments”, for consistency in the revised title and with other titles of the Code. The words “courses given in”, “sufficient”, and “appropriate” are omitted as surplus. The text of 49 App.:1354(d) (3d sentence) is omitted as unnecessary because chapter 41 of title 5, United States Code, applies to all training of employees. The words “or both” are substituted for “(3) in part as provided under clause (1) and in part as provided under clause (2)” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
-

@@ -2,7 +2,7 @@
 
 (a) The Interagency Committee shall—
 
-&emsp;(1) survey Arctic research conducted by Federal, State, and local agencies, universities, and other public and private institutions to help determine priorities for future Arctic research, including natural resources and materials, physical and biological sciences, and social and behavioral sciences;
+&emsp;(1) survey Arctic research conducted by Federal, State, and local agencies, universities,and other public and private institutions to help determine priorities for future Arctic research, including natural resources and materials, physical and biological sciences, and social and behavioral sciences;
 
 &emsp;(2) work with the Commission to develop and establish an integrated national Arctic research policy that will guide Federal agencies in developing and implementing their research programs in the Arctic;
 
@@ -48,9 +48,17 @@
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to submitting biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 174 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement, under subsec. (b) of this section, to submit a biennial report to Congress is listed on page 174), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
-#### Section Referred to in Other Sections
+#### Delegation of Reporting Authority
 
-This section is referred to in sections 4106, 4109 of this title.
+Memorandum of President of the United States, Feb. 17, 2005, 70 F.R. 9841, provided:
+
+Memorandum for the Director of the National Science Foundation
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by Public Law 98–373 (15 U.S.C. 4107(b) and 4108(a)), to provide the specified report and plan to the Congress.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

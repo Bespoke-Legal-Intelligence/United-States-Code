@@ -4,7 +4,3 @@ There is established a large and a small barrel of lime, the large barrel to con
 
 (Aug. 23, 1916, ch. 396, §1, 39 Stat. 530.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 240, 241, 242 of this title.
-

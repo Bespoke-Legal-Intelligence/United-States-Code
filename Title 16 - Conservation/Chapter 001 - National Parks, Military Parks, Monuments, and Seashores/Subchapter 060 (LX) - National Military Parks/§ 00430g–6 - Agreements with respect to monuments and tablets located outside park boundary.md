@@ -4,7 +4,3 @@ The Secretary is authorized to enter into agreements with the owners of property
 
 (Pub. L. 101–377, §3, Aug. 17, 1990, 104 Stat. 465.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430g–4, 430g–5, 430g–8, 430g–10 of this title.
-

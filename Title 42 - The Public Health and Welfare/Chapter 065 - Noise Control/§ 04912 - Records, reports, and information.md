@@ -22,7 +22,3 @@ Any person who knowingly makes any false statement, representation, or certifica
 
 (Pub. L. 92–574, §13, Oct. 27, 1972, 86 Stat. 1244.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4909 of this title.
-

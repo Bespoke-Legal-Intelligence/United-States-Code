@@ -6,9 +6,5 @@ The Secretary of the Interior is hereby authorized to withdraw from the Minnesot
 
 #### References in Text
 
-Act approved March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularlyknown as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 552 of Title 16 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 591 of this title.
+Act approved March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 552 of Title 16 and Tables.
 

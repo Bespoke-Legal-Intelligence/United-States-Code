@@ -52,7 +52,3 @@ A prior section 124 of Pub. L. 93–113 was classified to section 4994 of this t
 
 Amendment by section 405(a)(5) of Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5081 of this title.
-

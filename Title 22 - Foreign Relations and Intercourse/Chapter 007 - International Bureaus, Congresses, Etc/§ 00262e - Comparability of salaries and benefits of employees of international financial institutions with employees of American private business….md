@@ -8,7 +8,3 @@ The President shall direct the United States Executive Directors of such interna
 
 Section effective Oct. 3, 1977, see section 1001 of Pub. L. 95–118, set out as a note under section 282i of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 262r of this title.
-

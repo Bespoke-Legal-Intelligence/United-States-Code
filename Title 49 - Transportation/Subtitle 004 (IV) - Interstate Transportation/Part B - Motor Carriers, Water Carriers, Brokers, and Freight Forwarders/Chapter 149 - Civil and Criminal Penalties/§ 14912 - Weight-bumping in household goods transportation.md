@@ -14,7 +14,3 @@ Penalty.—Whoever has been found to have committed weight-bumping shall be fine
 
 Provisions similar to those in this section were contained in section 11917 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13907 of this title.
-

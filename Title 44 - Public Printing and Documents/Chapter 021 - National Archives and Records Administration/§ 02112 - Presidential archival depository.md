@@ -62,13 +62,13 @@
 
 (d) When the Archivist considers it to be in the public interest, he may cooperate with and assist a university, institution of higher learning, institute, foundation, or other organization or qualified individual to further or to conduct study or research in historical materials deposited in a Presidential archival depository.
 
-(e) When the Archivist considers it to be in the public interest, he may charge and collect reasonable fees for the privilege of visiting and viewing exhibit rooms or museum space in a Presidential archival depository.
+(e) When the Archivist considers it to be in the public interest, he may charge and collect reasonable fees for the privilege of visiting and viewing exhibit rooms or museum space, or for the occasional, non-official use of rooms and spaces (and services related to such use), in a Presidential archival depository.
 
 (f) When the Archivist considers it to be in the public interest, he may provide reasonable office space in a Presidential archival depository for the personal use of a former President of the United States.
 
 (g)(1) When the Archivist considers it to be in the public interest, the Archivist may solicit and accept gifts or bequests of money or other property for the purpose of maintaining, operating, protecting, or improving a Presidential archival depository. The proceeds of gifts or bequests, together with the proceeds from fees or from sales of historical materials, copies or reproductions, catalogs, or other items, having to do with a Presidential archival depository, shall be paid into an account in the National Archives Trust Fund and shall be held, administered, and expended for the benefit and in the interest of the Presidential archival depository in connection with which they were received, and for the same purposes and objects, including custodial and administrative services for which appropriations for the maintenance, operation, protection, or improvement of Presidential archival depositories might be expended.
 
-(2) The Archivist shall provide for the establishment in such Trust Fund of separate endowments for the maintenance of the land, facility, and equipment of each Presidential archival depository, to which shall be credited any gifts or bequests received under paragraph (1) that are offered for that purpose. Income to each such endowment shall be available to cover the cost of facility operations, but shall not be available for the performance of archival functions under this title.
+(2) The Archivist shall provide for the establishment in such Trust Fund of separate endowments for the maintenance of the land, facility, and equipment of each Presidential archival depository, to which shall be credited any gifts or bequests received under paragraph (1) that are offered for that purpose. Income to each such endowment shall be available to cover the cost of facility operations, but shall not be availablefor the performance of archival functions under this title.
 
 (3) The Archivist shall not accept or take title to any land, facility, or equipment under subparagraph (A) of subsection (a)(1), or enter into any agreement to use any land, facility, or equipment under subparagraph (B) of such subsection for the purpose of creating a Presidential archival depository, unless the Archivist determines that there is available, by gift or bequest for deposit under paragraph (2) of this subsection in an endowment with respect to such depository, an amount for the purpose of maintaining such land, facility, and equipment equal to—
 
@@ -130,7 +130,7 @@
 
 (iii) The Archivist shall promulgate standards to be used in calculating the dollar amount of any credit to be given, and shall consult with all donors of the endowment before giving any credits. The total dollar amount of credits given under this paragraph may not exceed 20 percent of the additional endowment amount required under paragraph (4).
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1289, §2108; Pub. L. 94–575, §4(a), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 95–591, §2(b)(3), Nov. 4, 1978, 92 Stat. 2528; renumbered §2112 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(6), Oct. 19, 1984, 98 Stat. 2280, 2286; Pub. L. 99–323, §3, May 27, 1986, 100 Stat. 495; Pub. L. 108–7, div. J, title V, §513, Feb. 20, 2003, 117 Stat. 462.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1289, §2108; Pub. L. 94–575, §4(a), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 95–591, §2(b)(3), Nov. 4, 1978, 92 Stat. 2528; renumbered §2112 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(6), Oct. 19, 1984, 98 Stat. 2280, 2286; Pub. L. 99–323, §3, May 27, 1986, 100 Stat. 495; Pub. L. 108–7, div. J, title V, §513, Feb. 20, 2003, 117 Stat. 462; Pub. L. 108–383, §4(a), Oct. 30, 2004, 118 Stat. 2218.)
 
 #### Historical and Revision Notes
 
@@ -142,11 +142,13 @@ A prior section 2112 was renumbered section 2116 of this title.
 
 #### Amendments
 
+2004—Subsec. (e). Pub. L. 108–383 substituted “space, or for the occasional, non-official use of rooms and spaces (and services related to such use),” for “space”.
+
 2003—Subsec. (g)(5). Pub. L. 108–7 added par. (5).
 
 1986—Subsec. (a). Pub. L. 99–323, §3(a), amended subsec. (a) generally, revising and restating as pars. (1) to (5) provisions of former undesignated pars. containing similar subject matter.
 
-Subsec. (g). Pub. L. 99–323, §3(b), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “When the Archivist considers it be in the public interest, he may accept gifts or bequests of money or other property for the purpose of maintaining, operating, protecting, or improving a Presidential archival depository. The proceeds of gifts or bequests, together with the proceeds from fees or from sales of historicalmaterials, copies or reproductions, catalogs, or other items, having to do with a Presidential archival depository, shall be paid into the National Archives Trust Fund to be held, administered, and expended for the benefit and in the interest of the Presidential archival depository in connection with which they were received, including administrative and custodial expenses as the Archivist determines.”
+Subsec. (g). Pub. L. 99–323, §3(b), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “When the Archivist considers it be in the public interest, he may accept gifts or bequests of money or other property for the purpose of maintaining, operating, protecting, or improving a Presidential archival depository. The proceeds of gifts or bequests, together with the proceeds from fees or from sales of historical materials, copies or reproductions, catalogs, or other items, having to do with a Presidential archival depository, shall be paid into the National Archives Trust Fund to be held, administered, and expended for the benefit and in the interest of the Presidential archival depository in connection with which they were received, including administrative and custodial expenses as the Archivist determines.”
 
 1984—Subsec. (a). Pub. L. 98–497, §107(a)(6), substituted “Archivist” for “Administrator of General Services” and “Archivist” for “Administrator” wherever appearing.
 
@@ -181,8 +183,4 @@ Pub. L. 89–547, Aug. 27, 1966, 80 Stat. 370, provided: “That the Administrat
 Pub. L. 89–169, Sept. 6, 1965, 79 Stat. 648, provided: “That the Administrator of General Services is hereby authorized to enter into an agreement upon such terms and conditions as he determines proper with the University of Texas to utilize as the Lyndon Baines Johnson Archival Depository, land, buildings, and equipment of such university to be made available by it without transfer of title to the United States, and to maintain, operate and protect such depository as a part of the National Archives system. Such agreement may be entered into without regard to the provisions of section 507(f)(1) of the Federal Property and Administrative Services Act of 1949, as amended (44 U.S.C. \[former\] 397(f)(1)) \[now subsec. (a) of this section\], that the Administrator shall not enter into any such agreement until the expiration of the first period of sixty calendar days of continuous session of the Congress following the date on which a report in writing of any such proposed Presidential archival depository is transmitted by the Administrator to the President of the Senate and the Speaker of the House of Representatives.”
 
 \[For transfer of certain functions of the Administrator of General Services under Pub. L. 89–169 to the Archivist of the United States, see section 103(b)(2) of Pub. L. 98–497, set out as a Transfer of Functions note under section 2102 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2105, 3102, 3317 of this title.
 

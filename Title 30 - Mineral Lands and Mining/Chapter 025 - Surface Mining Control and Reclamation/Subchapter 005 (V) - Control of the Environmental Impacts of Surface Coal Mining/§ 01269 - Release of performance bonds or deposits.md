@@ -2,7 +2,7 @@
 
 #### (a) Filing of request; submittal of copy of advertisement; notification by letter of intent to seek release
 
-The permittee may file a request with the regulatory authority for the release of all or part of a performance bond or deposit. Within thirty days after any application for bond or deposit release has been filed with the regulatory authority, the operator shall submit a copy of an advertisement placed at least once a week for four successive weeks in a newspaper of general circulation in the locality of the surface coal mining operation. Such advertisement shall be considered part of any bond release application and shall contain a notification of the precise location of the land affected, the number of acres, the permit and the date approved, the amount of the bond filed and the portion sought to be released, and the type and appropriate dates of reclamation work performed, and a description of the results achieved as they relateto the operator's approved reclamation plan. In addition, as part of any bond release application, the applicant shall submit copies of letters which he has sent to adjoining property owners, local governmental bodies, planning agencies, and sewage and water treatment authorities, or water companies in the locality in which the surface coal mining and reclamation activities took place, notifying them of his intention to seek release from the bond.
+The permittee may file a request with the regulatory authority for the release of all or part of a performance bond or deposit. Within thirty days after any application for bond or deposit release has been filed with the regulatory authority, the operator shall submit a copy of an advertisement placed at least once a week for four successive weeks in a newspaper of general circulation in the locality of the surface coal mining operation. Such advertisement shall be considered part of any bond release application and shall contain a notification of the precise location of the land affected, the number ofacres, the permit and the date approved, the amount of the bond filed and the portion sought to be released, and the type and appropriate dates of reclamation work performed, and a description of the results achieved as they relate to the operator's approved reclamation plan. In addition, as part of any bond release application, the applicant shall submit copies of letters which he has sent to adjoining property owners, local governmental bodies, planning agencies, and sewage and water treatment authorities, or water companies in the locality in which the surface coal mining and reclamation activities took place, notifying them of his intention to seek release from the bond.
 
 #### (b) Inspection and evaluation; notification of decision
 
@@ -32,15 +32,11 @@ Any person with a valid legal interest which might be adversely affected by rele
 
 #### (g) Informal conference
 
-Without prejudice to the rights of the objectors, the applicant, or the responsibilities of the regulatory authority pursuant to this section, the regulatory authority may establish an informal conference as provided in section 1263 of this title to resolve such written objections.
+Without prejudice to the rights of the objectors, the applicant, or the responsibilities of the regulatory authority pursuant to this section,the regulatory authority may establish an informal conference as provided in section 1263 of this title to resolve such written objections.
 
 #### (h) Power of regulatory authority with respect to informal conference
 
 For the purpose of such hearing the regulatory authority shall have the authority and is hereby empowered to administer oaths, subpena witnesses, or written or printed materials, compel the attendance of witnesses, or production of the materials, and take evidence including but not limited to inspections of the land affected and other surface coal mining operations carried on by the applicant in the general vicinity. A verbatim record of each public hearing required by this chapter shall be made, and a transcript made available on the motion of any party or by order of the regulatory authority.
 
 (Pub. L. 95–87, title V, §519, Aug. 3, 1977, 91 Stat. 501.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1234, 1265, 1279, 1300 of this title.
 

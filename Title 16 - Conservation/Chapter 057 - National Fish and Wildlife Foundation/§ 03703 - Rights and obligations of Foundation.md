@@ -98,7 +98,7 @@ Reconveyance of real property.—The Foundation shall convey at not less than fa
 
 (ii) The Directors of the Board shall ensure that any amounts transferred to the Foundation under clause (i) for the endowment fund under paragraph (1) are deposited in that fund in accordance with this subparagraph.
 
-(3) It is the intent of Congress that in making expenditures from the endowment fund under paragraph (1) to carry out activities specified in that paragraph, the Foundation should give priority to funding projects that address the conservation of populations of whales that the Foundation determines—
+(3) It is the intent of Congress that in making expenditures from the endowment fund under paragraph (1) to carry out activities specified inthat paragraph, the Foundation should give priority to funding projects that address the conservation of populations of whales that the Foundation determines—
 
 &emsp;(A) are the most endangered (including the northern right whale (Eubaleana glacialis)); or
 
@@ -110,7 +110,7 @@ In carrying out any action on the part of the Foundation under subsection (f) of
 
 #### (h) Expenditures for printing services or capital equipment
 
-The Foundation shall not make any expenditure of Federal funds in connection with any one transaction for printing services or capital equipment that is greater than $10,000 unless the expenditure is approved by the Federal agencythat administers the Federal program under which the funds were provided.
+The Foundation shall not make any expenditure of Federal funds in connection with any one transaction for printing services or capital equipment that is greater than $10,000 unless the expenditure is approved by the Federal agency that administers the Federal program under which the funds were provided.
 
 #### (i) Notice to Members of Congress
 
@@ -195,8 +195,4 @@ Pub. L. 105–277, div. A, §101(b) \[title IX, §902\], Oct. 21, 1998, 112 Stat
 #### Draw Down of Federal Funds; Exemption From Audit Requirements
 
 Pub. L. 102–440, title III, §304, Oct. 23, 1992, 106 Stat. 2235, which provided that the National Fish and Wildlife Foundation could continue to draw down Federal funds when matching requirements had been met, that interest earned on funds already drawn down was to be used to fund all activities as approved by the Board of Directors, and that Foundation subgrantees would be exempt from the audit reporting and compliance requirements of OMB Circular A–133, for all grants of $100,000 or less, was repealed by Pub. L. 106–408, title II, §204(d), Nov. 1, 2000, 114 Stat. 1779.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3706 of this title.
 

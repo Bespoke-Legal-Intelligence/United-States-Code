@@ -38,7 +38,3 @@ Unless expressly agreed to by the participating Indian tribe in the compact or f
 
 (Pub. L. 93–638, title V, §517, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 730.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 458aaa–6, 458aaa–11 of this title.
-

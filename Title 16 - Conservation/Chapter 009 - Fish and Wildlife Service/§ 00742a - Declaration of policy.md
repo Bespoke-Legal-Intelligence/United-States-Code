@@ -24,6 +24,10 @@ The Congress further declares that the provisions of this Act are necessary in o
 
 This Act, referred to in text, is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–327, §1, Oct. 16, 2004, 118 Stat. 1271, provided that: “This Act \[amending sections 742f and 742f–1 of this title\] may be cited as the ‘National Wildlife Refuge Volunteer Act of 2004’.”
+
 #### Short Title of 1998 Amendments
 
 Pub. L. 105–328, §1, Oct. 30, 1998, 112 Stat. 3057, provided that: “This Act \[amending section 742<i>l</i> of this title and enacting provisions set out as a note under section 742<i>l</i> of this title\] may be cited as the ‘Fish and Wildlife Revenue Enhancement Act of 1998’.”
@@ -37,8 +41,4 @@ Pub. L. 95–616, §1, Nov. 8, 1978, 92 Stat. 3110, provided: “That this Act \
 #### Short Title
 
 Section 1 of act Aug. 8, 1956, provided: “This Act \[enacting this section and sections 742b to 742d and 742e to 742j of this title and amending section 713c–3 of Title 15, Commerce and Trade\] may be cited as the ‘Fish and Wildlife Act of 1956’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1534 of this title.
 

@@ -14,7 +14,3 @@ The President shall issue rules which provide for the fair and impartial conside
 
 (Pub. L. 93–288, title IV, §423, as added Pub. L. 100–707, title I, §106(<i>l</i>), Nov. 23, 1988, 102 Stat. 4705.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5172 of this title.
-

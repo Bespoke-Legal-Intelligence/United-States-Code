@@ -4,7 +4,3 @@ All lands purchased from funds heretofore allocated and made available by Execut
 
 (Aug. 28, 1937, ch. 873, §1, 50 Stat. 871.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 404c–11 of this title.
-

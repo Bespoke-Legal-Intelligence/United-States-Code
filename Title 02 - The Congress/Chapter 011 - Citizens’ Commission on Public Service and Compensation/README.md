@@ -20,10 +20,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 31 of this title; title 3 section 104; title 5 sections 5312 to 5316; title 26 section 7456; title 28 sections 5, 44, 135, 252.
-
 
 ---
 

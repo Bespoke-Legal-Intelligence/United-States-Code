@@ -64,7 +64,7 @@ This subchapter, referred to in subsec. (c)(1)(C), was in the original “this A
 
 #### Amendments
 
-2002—Pub. L. 107–372 amended section generally, substituting provisions establishing Hydrographic Services Review Panel for provisions requiring report, not later than 6 months after November 13, 1998, on a plan to ensure maintenance of Federal competence and expertise in hydrographic surveying.
+2002—Pub. L. 107–372 amended section generally, substituting provisions establishing Hydrographic Services Review Panel for provisions requiring report, not laterthan 6 months after November 13, 1998, on a plan to ensure maintenance of Federal competence and expertise in hydrographic surveying.
 
 1998—Pub. L. 105–383, which directed the amendment of this section by striking out subsecs. (a) and (d), was executed by striking out subsec. (a), because no subsec. (d) has been enacted. Prior to amendment, subsec. (a) read as follows:
 

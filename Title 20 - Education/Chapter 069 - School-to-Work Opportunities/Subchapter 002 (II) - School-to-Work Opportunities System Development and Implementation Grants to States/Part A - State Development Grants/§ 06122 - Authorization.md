@@ -26,9 +26,5 @@ The Job Training Partnership Act, referred to in subsec. (a)(3), is Pub. L. 97�
 
 The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (a)(3), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of this title, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6123, 6125, 6126, 6127, 6235 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

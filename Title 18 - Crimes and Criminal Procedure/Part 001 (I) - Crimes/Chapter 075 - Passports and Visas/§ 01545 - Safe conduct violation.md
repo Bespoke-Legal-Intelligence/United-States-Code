@@ -18,7 +18,3 @@ Minor changes were made in phraseology.
 
 Pub. L. 103–322, §130009(a)(3), substituted “under this title, imprisoned not more than 10 years” for “not more than $2,000 or imprisoned not more than three years”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1547 of this title.
-

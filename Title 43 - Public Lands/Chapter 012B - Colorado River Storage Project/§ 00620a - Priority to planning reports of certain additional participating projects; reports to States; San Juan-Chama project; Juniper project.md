@@ -46,7 +46,3 @@ Pub. L. 97–140, §5, Dec. 29, 1981, 95 Stat. 1717, provided that:
 
 “(d) The amount of evaporation loss and spill chargeable to San Juan-Chama project water stored pursuant to subsections (b) and (c) of this section shall be accounted as required by the Rio Grande compact and the procedures established by the Rio Grande Compact Commission.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 620b of this title.
-

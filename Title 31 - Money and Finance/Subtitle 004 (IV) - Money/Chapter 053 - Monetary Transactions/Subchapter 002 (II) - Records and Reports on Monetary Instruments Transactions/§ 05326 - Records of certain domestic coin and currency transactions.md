@@ -44,10 +44,6 @@ Maximum Effective Period for Order.—No order issued under subsection (a) shall
 
 Section 3(c) of the Federal Deposit Insurance Act, referred to in subsec. (b)(1), is classified to section 1813(c) of Title 12, Banks and Banking.
 
-#### Codification
-
-Another section 365(c) of Pub. L. 107–56 amended the table of sections at the beginning of this chapter.
-
 #### Amendments
 
 2001—Subsec.(a). Pub. L. 107–56, §365(c)(2)(B), inserted “or nonfinancial trade or business” after “financial institution” and “or nonfinancial trades or businesses” for “financial institutions” in introductory provisions.
@@ -63,12 +59,4 @@ Subsec. (c). Pub. L. 107–56, §365(c)(2)(B)(i), inserted “or nonfinancial tr
 Subsec. (d). Pub. L. 107–56, §353(d), substituted “more than 180 days” for “more than 60 days”.
 
 1992—Subsecs. (b) to (d). Pub. L. 102–550 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
-
-#### Termination Date of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 310, 5318A, 5324 of this title.
 

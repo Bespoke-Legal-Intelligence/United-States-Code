@@ -8,7 +8,7 @@ The Coast Guard may offer and pay rewards for the apprehension and delivery of d
 
 Based on title 14, U.S.C., 1946 ed., §147 (May 26, 1906, ch. 2556, §5, 34 Stat. 200).
 
-Said section has been divided. That part relating to rewards for the apprehension of deserters is placed in this section. That part relating to the acceptance of convicted deserters in the armed forces is placed in section 575 of this title. The first sentence of said sectionis eliminated inasmuch as it is believed that commanding officers in the Coast Guard are charged with the duty of apprehending deserters without special statutory authority therefor.
+Said section has been divided. That part relating to rewards for the apprehension of deserters is placed in this section. That part relating to the acceptance of convicted deserters in the armed forces is placed in section 575 of this title. The first sentence of said section is eliminated inasmuch as it is believed that commanding officers in the Coast Guard are charged with the duty of apprehending deserters without special statutory authority therefor.
 
 The limitation as to amount that could be offered is removed.
 

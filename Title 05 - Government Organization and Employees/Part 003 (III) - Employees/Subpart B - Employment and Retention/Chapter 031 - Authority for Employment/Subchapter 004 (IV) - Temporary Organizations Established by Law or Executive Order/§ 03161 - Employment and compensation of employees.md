@@ -76,7 +76,7 @@ Acceptance of Volunteer Services.—(1) The head of a temporary organization may
 
 &emsp;(B) shall supervise the volunteer to the same extent as employees receiving compensation for similar services; and
 
-&emsp;(C) shall ensure that the volunteer has appropriate credentials or is otherwise qualifiedto perform in each capacity for which the volunteer's services are accepted.
+&emsp;(C) shall ensure that the volunteer has appropriate credentials or is otherwise qualified to perform in each capacity for which the volunteer's services are accepted.
 
 (4) A person providing volunteer services accepted under this subsection shall be considered an employee of the Federal Government in the performance of those services for the purposes of the following provisions of law:
 

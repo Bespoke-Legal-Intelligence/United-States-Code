@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to acquire by purchase or otherwise 
 
 (Aug. 24, 1949, ch. 501, §4, 63 Stat. 627.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 192b–5 of this title.
-

@@ -1,9 +1,5 @@
 Part A—Group Market Reforms
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 29 section 1181; title 42 section 300gg–61.
-
 
 ---
 

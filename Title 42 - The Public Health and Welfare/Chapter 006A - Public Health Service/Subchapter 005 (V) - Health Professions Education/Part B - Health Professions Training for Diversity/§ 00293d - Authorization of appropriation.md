@@ -28,7 +28,3 @@ Another prior section 293d, act July 1, 1944, ch. 373, title VII, §701, formerl
 
 A prior section 740 of act July 1, 1944, was classified to section 294m of this title prior to the general revision of this subchapter by Pub. L. 102–408.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 293a of this title.
-

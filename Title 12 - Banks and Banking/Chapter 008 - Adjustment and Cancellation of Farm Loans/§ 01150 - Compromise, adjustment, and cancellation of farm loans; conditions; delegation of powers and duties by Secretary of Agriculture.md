@@ -6,7 +6,7 @@ The Secretary of Agriculture, hereinafter referred to as the Secretary, is autho
 
 #### References in Text
 
-The Bankruptcy Act, referred to in text, is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to Title 11, Bankruptcy. The Act wasrepealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
+The Bankruptcy Act, referred to in text, is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
 
 #### Amendments
 
@@ -23,10 +23,6 @@ All functions of all officers, agencies, and employees of the Department of Agri
 #### Exceptions From Transfer of Functions
 
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations, Advisory Board of Commodity Credit Corporation, and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 sections 217, 1026.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “cancellations”.</i>
 

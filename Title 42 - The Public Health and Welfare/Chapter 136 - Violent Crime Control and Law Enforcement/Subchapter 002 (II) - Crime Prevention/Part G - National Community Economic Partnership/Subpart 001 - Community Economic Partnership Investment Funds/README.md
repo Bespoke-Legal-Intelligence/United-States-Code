@@ -1,9 +1,5 @@
 subpart 1—community economic partnership investment funds
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 13841, 13852 of this title.
-
 
 ---
 

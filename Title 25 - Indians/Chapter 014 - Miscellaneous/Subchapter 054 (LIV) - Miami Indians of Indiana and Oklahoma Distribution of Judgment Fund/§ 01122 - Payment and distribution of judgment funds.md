@@ -14,7 +14,3 @@ The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. Se
 
 Section was not enacted as part of Pub. L. 89–659, Oct. 14, 1966, 80 Stat. 909, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1123, 1129, 1130 of this title.
-

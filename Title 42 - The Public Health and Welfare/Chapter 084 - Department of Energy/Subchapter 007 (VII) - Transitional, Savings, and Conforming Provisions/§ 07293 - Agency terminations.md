@@ -4,7 +4,3 @@ Except as otherwise provided in this chapter, whenever all of the functions vest
 
 (Pub. L. 95–91, title VII, §703, Aug. 4, 1977, 91 Stat. 606.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7291 of this title.
-

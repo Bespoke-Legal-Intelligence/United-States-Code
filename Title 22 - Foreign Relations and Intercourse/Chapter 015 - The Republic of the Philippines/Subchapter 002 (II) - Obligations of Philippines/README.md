@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—OBLIGATIONS OF PHILIPPINES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1356, 1360, 1373 of this title; title 48 section 734.
-
 
 ---
 

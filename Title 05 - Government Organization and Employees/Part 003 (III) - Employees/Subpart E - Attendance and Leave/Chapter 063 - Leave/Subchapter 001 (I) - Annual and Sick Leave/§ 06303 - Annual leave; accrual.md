@@ -8,7 +8,7 @@
 
 &emsp;(3) one day for each full biweekly pay period for an employee with 15 or more years of service.
 
-> In determining years of service, an employee is entitled to credit for all service of a type that would be creditable under section 8332, regardless of whether or not the employee is covered by subchapter III of chapter 83. However, an employee who is a retired member of a uniformed service as defined by section 3501 of this title is entitled to credit for active military service only if—
+> In determining years of service, an employee is entitled to credit for all service of a type that would be creditable under section 8332, regardless of whether or not the employee is covered by subchapter III of chapter 83, and for all service which is creditable by virtue of subsection (e). However, an employee who is a retired member of a uniformed service as defined by section 3501 of this title is entitled to credit for active military service only if—
 
 &emsp;(A) his retirement was based on disability—
 
@@ -26,7 +26,7 @@
 
 (c) A change in the rate of accrual of annual leave by an employee under this section takes effect at the beginning of the pay period after the pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, in which the employee completed the prescribed period of service.
 
-(d) Leave granted under this subchapter is exclusive of time actually and necessarily occupied in going to or from a post of duty and time necessarily occupied awaiting transportation, in the case of an employee—
+(d) Leave granted under this subchapter is exclusive of time actually and necessarily occupied in going to or from a post of duty and timenecessarily occupied awaiting transportation, in the case of an employee—
 
 &emsp;(1) to whom section 6304(b) of this title applies;
 
@@ -36,7 +36,31 @@
 
 > This subsection does not apply to more than one period of leave in a prescribed tour of duty at a post outside the United States.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 518; Pub. L. 93–181, §2, Dec. 14, 1973, 87 Stat. 705; Pub. L. 99–335, title II, §207(d), June 6, 1986, 100 Stat. 595; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–378, §2(52), Oct. 2, 1992, 106 Stat. 1353.)
+(e)(1) Not later than 180 days after the date of the enactment of this subsection, the Office of Personnel Management shall prescribe regulations under which, for purposes of determining years of service under subsection (a), credit shall, in the case of a newly appointed employee, be given for any prior service of such employee that would not otherwise be creditable for such purposes, if—
+
+&emsp;(A) such service—
+
+&emsp;&emsp;(i) was performed in a position the duties of which directly relate to the duties of the position to which such employee is so appointed; and
+
+&emsp;&emsp;(ii) meets such other requirements as the Office may prescribe; and
+
+&emsp;(B) in the judgment of the head of the appointing agency, the application of this subsection is necessary in order to achieve an important agency mission or performance goal.
+
+(2) Service described in paragraph (1)—
+
+&emsp;(A) shall be creditable, for the purposes described in paragraph (1), as of the effective date of the employee's appointment; and
+
+&emsp;(B) shall not thereafter cease to be so creditable, unless the employee fails to complete a full year of continuous service with the agency.
+
+(3) An employee shall not be eligible for the application of paragraph (1) on the basis of any appointment if, within 90 days before the effective date of such appointment, such employee has held any position in the civil service.
+
+(f) Notwithstanding any other provision of this section, the rate of accrual of annual leave under subsection (a) shall be 1 day for each full biweekly pay period in the case of any employee who holds a position which is subject to—
+
+&emsp;(1) section 5376 or 5383; or
+
+&emsp;(2) a pay system equivalent to either of the foregoing, as determined by the Office of Personnel Management.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 518; Pub. L. 93–181, §2, Dec. 14, 1973, 87 Stat. 705; Pub. L. 99–335, title II, §207(d), June 6, 1986, 100 Stat. 595; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–378, §2(52), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 108–411, title II, §202(a), (b), Oct. 30, 2004, 118 Stat. 2312.)
 
 Historical and Revision Notes
 
@@ -68,7 +92,17 @@ In subsection (a), the words “Except as otherwise provided in this subsection�
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 108–411, which was approved Oct. 30, 2004.
+
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–411, §202(a)(2), inserted “, and for all service which is creditable by virtue of subsection (e)” before period at end of second sentence.
+
+Subsec. (e). Pub. L. 108–411, §202(a)(1), added subsec. (e).
+
+Subsec. (f). Pub. L. 108–411, §202(b), added subsec. (f).
 
 1992—Subsec. (a). Pub. L. 102–378 amended second sentence generally. Prior to amendment, second sentence read as follows: “In determining years of service, an employee is entitled to credit for all service creditable under section 8332 of this title for the purpose of an annuity under subchapter III of chapter 83 of this title and all service creditable under section 8411 of this title for the purpose of chapter 84 of this title.”
 
@@ -77,6 +111,10 @@ Standard changes are made to conform with the definitions applicable and the sty
 1986—Subsec. (a). Pub. L. 99–335 inserted “and all service creditable under section 8411 of this title for the purpose of chapter 84 of this title” at end of second sentence.
 
 1973—Subsec. (b). Pub. L. 93–181 substituted “an employee whose current employment is limited to less than 90 days is entitled” and “under successive appointments” for “an employee is entitled” and “under one or more appointments” respectively.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–411, title II, §202(c), Oct. 30, 2004, 118 Stat. 2312, provided that: “None of the amendments made by subsection (a) \[amending this section\] shall apply in the case of any employee holding a position pursuant to an appointment made before the effective date of the regulations implementing such amendments.”
 
 #### Effective Date of 1992 Amendment
 
@@ -102,7 +140,7 @@ Exceptions.—(1) The amendment made by section 4(c) \[amending provisions set o
 
 “(7) The amendment made by section 2(52) \[amending this section\] shall be effective as of January 1, 1989, except that no amount shall become payable, as a result of the enactment of such amendment, under—
 
-&emsp;“(A) subchapter VI of chapter 55 of title 5, United States Code, based on a separation that takes effector an election that is made before the date of enactment of this Act \[Oct. 2, 1992\]; or
+&emsp;“(A) subchapter VI of chapter 55 of title 5, United States Code, based on a separation that takes effect or an election that is made before the date of enactment of this Act \[Oct. 2, 1992\]; or
 
 &emsp;“(B) section 5551(b) of title 5, United States Code, which is attributable to an individual's being excepted from subchapter I of chapter 63 of such title before the date of enactment of this Act.
 
@@ -119,8 +157,4 @@ Exceptions.—(1) The amendment made by section 4(c) \[amending provisions set o
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6129, 6302, 6304, 6305, 6312, 6333, 6367 of this title; title 7 section 7657; title 42 section 237; title 50 section 2703.
 

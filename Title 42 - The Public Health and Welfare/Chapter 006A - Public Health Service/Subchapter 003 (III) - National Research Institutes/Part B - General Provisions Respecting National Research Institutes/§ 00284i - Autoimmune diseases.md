@@ -72,7 +72,7 @@ The Coordinating Committee under subsection (b)(1) of this section shall biennia
 
 &emsp;(1) The plan under subsection (c)(1) of this section (or revisions to the plan, as the case may be).
 
-&emsp;(2) Provisions specifying the amounts expended by the National Institutes of Healthwith respect to each of the autoimmune diseases included in the plan.
+&emsp;(2) Provisions specifying the amounts expended by the National Institutes of Health with respect to each of the autoimmune diseases included in the plan.
 
 &emsp;(3) Provisions identifying particular projects or types of projects that should in the future be considered by the national research institutes or other entities in the field of research on autoimmune diseases.
 

@@ -26,7 +26,7 @@ Functions of Bureau of Animal Industry which were transferred to Secretary of Ag
 
 As of July 1, 1927, by order of the Secretary of Agriculture, the Packers and Stockyards administration was abolished, and the enforcement of the Packers and Stockyards Act of 1921, sections 181 to 229 of this title, put under the control of the chief of the Bureau of Animal Industry.
 
-Authority formerly granted to Commissioner of Agriculture by section 1 of act of May 29, 1884, vested inSecretary of Agriculture by act July 14, 1890. See also sections 2202 and 2205 of this title.
+Authority formerly granted to Commissioner of Agriculture by section 1 of act of May 29, 1884, vested in Secretary of Agriculture by act July 14, 1890. See also sections 2202 and 2205 of this title.
 
 Functions of Bureau of Animal Industry of Agricultural Research Administration concerned primarily with regulatory activities consolidated with other agencies into Food Distribution Administration, which was consolidated into War Food Administration, which was terminated and its functions transferred to Secretary of Agriculture, by Ex. Ord. No. 9577.
 

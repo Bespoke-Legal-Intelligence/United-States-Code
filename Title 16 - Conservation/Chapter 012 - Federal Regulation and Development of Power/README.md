@@ -280,10 +280,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 21b, 47b, 47f, 90d–4, 108, 158, 197, 201b, 204<i>l</i>, 205a, 207a, 221b, 342b, 391, 391b–1, 402e, 403b, 404b, 405, 407b, 408b, 410b, 435, 459a–1, 460m–11, 460m–21, 460ee, 460gg–2, 460ii–3, 460iii–3, 545b, 577b, 698v–7, 824a–1, 824a–3, 832h, 833g, 836, 839e, 1278, 2603, 2705, 3215 of this title; title 15 section 790a; title 25 section 326; title 30 section 621; title 33 section 467a; title 42 sections 2019, 7172, 7173, 7473, 7651b; title 43 sections 617d, 617e, 617k, 617<i>l</i>, 1634, 1761.
-
 
 ---
 

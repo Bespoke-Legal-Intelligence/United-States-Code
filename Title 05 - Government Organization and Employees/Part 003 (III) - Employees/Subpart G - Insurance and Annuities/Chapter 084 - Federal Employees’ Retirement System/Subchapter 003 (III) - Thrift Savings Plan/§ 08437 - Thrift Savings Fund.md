@@ -54,7 +54,3 @@ Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub.
 
 Section 117(b) of Pub. L. 100–238 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[Jan. 8, 1988\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8351, 8439, 8471 of this title.
-

@@ -28,7 +28,3 @@ For purposes of this chapter—
 
 (Pub. L. 100–533, title IV, §408, as added Pub. L. 103–403, title IV, §413, Oct. 22, 1994, 108 Stat. 4197.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 656 of this title.
-

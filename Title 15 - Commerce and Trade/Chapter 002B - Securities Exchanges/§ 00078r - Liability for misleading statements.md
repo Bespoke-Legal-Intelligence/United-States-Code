@@ -22,7 +22,3 @@ This chapter, referred to in subsec. (a), was in the original “this title”. 
 
 1936—Subsec. (a). Act May 27, 1936, inserted “or any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78<i>l</i>, 78hh, 78hhh, 79p of this title.
-

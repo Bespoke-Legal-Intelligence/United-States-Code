@@ -4,7 +4,3 @@ In the interests of economy and efficiency, the records, property, real and pers
 
 (Apr. 21, 1948, ch. 224, §1, 62 Stat. 197.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 437 of this title.
-

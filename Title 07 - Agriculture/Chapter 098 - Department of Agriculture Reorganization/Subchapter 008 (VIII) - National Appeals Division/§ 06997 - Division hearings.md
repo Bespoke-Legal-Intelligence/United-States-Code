@@ -46,7 +46,3 @@ The final determination shall be effective as of the date of filing of an applic
 
 (Pub. L. 103–354, title II, §277, Oct. 13, 1994, 108 Stat. 3230.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6996, 6998 of this title.
-

@@ -24,7 +24,7 @@ Each such report shall contain—
 
 &emsp;&emsp;(A) the percentage of individuals who have received assistance under the program who subsequently became employees of the United States Government;
 
-&emsp;&emsp;(B) in the case of individuals who did not subsequently become employees of the United States Government, an analysis of the reasons why they did not become employees and an explanation as to what use, ifany, was made of the assistance by those recipients; and
+&emsp;&emsp;(B) in the case of individuals who did not subsequently become employees of the United States Government, an analysis of the reasons why they did not become employees and an explanation as to what use, if any, was made of the assistance by those recipients; and
 
 &emsp;&emsp;(C) the uses made of grants to educational institutions;
 
@@ -51,8 +51,4 @@ During the preparation of each report required by subsection (a) of this section
 1996—Subsec. (b)(5) to (7). Pub. L. 104–201 struck out “and” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
 
 1993—Subsec. (d). Pub. L. 103–178 added subsec. (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 415b, 1902, 1903 of this title.
 

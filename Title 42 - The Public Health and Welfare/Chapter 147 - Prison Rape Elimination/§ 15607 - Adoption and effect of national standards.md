@@ -48,7 +48,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (3) Report on noncompliance
 
-&emsp;Not later than September 30 of each year, the Attorney General shall publish a reportlisting each grantee that is not in compliance with the national standards adopted pursuant to subsection (a).
+&emsp;Not later than September 30 of each year, the Attorney General shall publish a report listing each grantee that is not in compliance with the national standards adopted pursuant to subsection (a).
 
 #### (4) Cooperation with survey
 
@@ -73,8 +73,4 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 &emsp;&emsp;The first grants to which paragraph (4) applies are grants for the fiscal year beginning after September 4, 2003.
 
 (Pub. L. 108–79, §8, Sept. 4, 2003, 117 Stat. 985.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15608 of this title.
 

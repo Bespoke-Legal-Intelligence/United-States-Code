@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (b) of this section, no project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $750,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President's annual fiscal year budget request and is specifically authorized by the Congress.
+&emsp;Except as provided in subsection (b) of this section, no project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $5,000,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President's annual fiscal year budget request and is specifically authorized by the Congress.
 
 #### (2) Notification
 
-&emsp;In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $500,000 but less than $750,000, or where any improvement project to such a facility has an estimated Federal cost greater than $500,000, the Director of Central Intelligence shall submit a notification to the intelligence committees specifically identifying such project.
+&emsp;In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $1,000,000 but less than $5,000,000, or where any improvement project to such a facility has an estimated Federal cost greaterthan $1,000,000, the Director of Central Intelligence shall submit a notification to the intelligence committees specifically identifying such project.
 
 #### (b) Exception
 
@@ -22,7 +22,13 @@
 
 #### (2) Report
 
-&emsp;When a decision is made to carry out a construction project under this subsection, the Secretary of Defense and the Director of Central Intelligence jointly shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include (A) the justification for the project and the current estimate of the cost of the project, (B) the justification for carrying out the project under this subsection, and (C) a statement of the source of the funds to be used to carry out the project. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees.
+&emsp;(A) When a decision is made to carry out a construction project under this subsection, the Secretary of Defense and the Director of Central Intelligence jointly shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include (i) the justification for the project and the current estimate of the cost of the project, (ii) the justification for carrying out the project under this subsection, and (iii) a statement of the source of the funds to be used to carry out the project. The project may then be carried out only after the end of the 7-day period beginning on the date the notification is received by such committees.
+
+&emsp;(B) Notwithstanding subparagraph (A), a project referred to in paragraph (1) may begin on the date the notification is received by the appropriate committees of Congress under that paragraph if the Director of Central Intelligence and the Secretary of Defense jointly determine that—
+
+&emsp;&emsp;(i) an emergency exists with respect to the national security or the protection of health, safety, or environmental quality; and
+
+&emsp;&emsp;(ii) any delay in the commencement of the project would harm any or all of those interests.
 
 #### (3) Projects primarily for CIA
 
@@ -36,7 +42,7 @@
 
 This section shall not apply to any project which is subject to subsection (a)(1)(A) or (c) of section 601.
 
-(Pub. L. 103–359, title VI, §602, Oct. 14, 1994, 108 Stat. 3432.)
+(Pub. L. 103–359, title VI, §602, Oct. 14, 1994, 108 Stat. 3432; Pub. L. 108–177, title III, §314, Dec. 13, 2003, 117 Stat. 2610.)
 
 #### References in Text
 
@@ -45,6 +51,16 @@ Section 601, referred to in subsec. (c), means section 601 of Pub. L. 103–359,
 #### Codification
 
 Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 1995, and not as part of the National Security Act of 1947 which comprises this chapter.
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–177, §314(a), substituted “$5,000,000” for “$750,000” in pars. (1) and (2) and “$1,000,000” for “$500,000” in two places in par. (2).
+
+Subsec. (b)(2). Pub. L. 108–177, §314(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, substituted “7-day period” for “21-day period”, and added subpar. (B).
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
 
 #### Definitions
 

@@ -10,13 +10,13 @@ Any monetary award to a contractor by an agency board of contract appeals shall 
 
 #### (c) Reimbursement
 
-Payments made pursuant to subsections (a) and (b) of this section shall be reimbursed to thefund provided by section 1304 of title 31 by the agency whose appropriations were used for the contract out of available funds or by obtaining additional appropriations for such purposes.
+Payments made pursuant to subsections (a) and (b) of this section shall be reimbursed to the fund provided by section 1304 of title 31 by the agency whose appropriations were used for the contract out of available funds or by obtaining additional appropriations for such purposes.
 
 #### (d) Tennessee Valley Authority
 
 (1) Notwithstanding the provisions of subsection (a) through (c) of this section, any judgment against the Tennessee Valley Authority on a claim under this chapter shall be paid promptly in accordance with the provisions of section 831h(b) of title 16.
 
-(2) Notwithstanding the provisions of subsection (a) through (c), any monetary award to a contractor by the board of contract appeals for the Tennessee Valley Authority shall be paid in accordance with the provisions of section 831h(b) of title 16.
+(2) Notwithstanding the provisions of subsection (a) through (c), any monetary award to a contractor by the board of contract appeals for the Tennessee Valley Authority shall be paid inaccordance with the provisions of section 831h(b) of title 16.
 
 (Pub. L. 95–563, §13, Nov. 1, 1978, 92 Stat. 2389; Pub. L. 104–106, div. D, title XLIII, §4322(b)(7), Feb. 10, 1996, 110 Stat. 677.)
 

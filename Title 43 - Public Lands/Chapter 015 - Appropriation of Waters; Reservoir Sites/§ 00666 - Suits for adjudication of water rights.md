@@ -10,15 +10,11 @@ Summons or other process in any such suit shall be served upon the Attorney Gene
 
 #### (c) Joinder in suits involving use of interstate streams by State
 
-Nothing in this section shall be construed as authorizing the joinder of the United States inany suit or controversy in the Supreme Court of the United States involving the right of States to the use of the water of any interstate stream.
+Nothing in this section shall be construed as authorizing the joinder of the United States in any suit or controversy in the Supreme Court of the United States involving the right of States to the use of the water of any interstate stream.
 
 (July 10, 1952, ch. 651, title II, §208(a)–(c), 66 Stat. 560.)
 
 #### Codification
 
 Section is comprised of subsections (a) to (c) of section 208 of act July 10, 1952. Subsection (d) of section 208 is omitted as it referred to the limitation on the use of any appropriation in act July 10, 1952 to prepare or prosecute the suit in the U.S. District Court for the Southern Division of California, by the <i>United States v. Fallbrook Public Utility Corporation.</i>
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 sections 410aaa–76, 460ccc–8, 460ddd, 460iii–5, 668dd; title 28 section 2409a.
 

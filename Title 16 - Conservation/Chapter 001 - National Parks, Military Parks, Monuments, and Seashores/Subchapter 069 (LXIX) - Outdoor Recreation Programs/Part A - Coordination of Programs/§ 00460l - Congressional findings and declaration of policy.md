@@ -8,7 +8,3 @@ The Congress finds and declares it to be desirable that all American people of p
 
 For functions of the Environmental Quality Council concerning outdoor recreation, see sections 102 and 103 of Ex. Ord. No. 11472, May 29, 1969, 34 F.R. 8693, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460<i>l</i>–2 of this title.
-

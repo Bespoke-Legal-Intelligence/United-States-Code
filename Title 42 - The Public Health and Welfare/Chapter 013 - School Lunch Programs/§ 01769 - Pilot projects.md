@@ -98,7 +98,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (3) Approval
 
-&emsp;The Secretary shall approve for participation in pilot projects under this subsectionelementary schools under the jurisdiction of not more than 6 nominated school food authorities selected so as to—
+&emsp;The Secretary shall approve for participation in pilot projects under this subsection elementary schools under the jurisdiction of not more than 6 nominated school food authorities selected so as to—
 
 &emsp;&emsp;(A) provide for an equitable distribution of pilot projects among urban and rural elementary schools;
 
@@ -182,45 +182,49 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;&emsp;No amounts may be provided under this subsection unless specifically provided in appropriations Acts.
 
-#### (f) Summer food pilot projects
+#### (f) Simplified summer food programs
 
 #### (1) Definition of eligible State
 
-&emsp;In this subsection, the term “eligible State” means a State in which (based on data available in July 2000)—
+&emsp;In this subsection, the term “eligible State” means—
 
-&emsp;&emsp;(A) the percentage obtained by dividing—
+&emsp;&emsp;(A) a State participating in the program under this subsection as of May 1, 2004; and
 
-&emsp;&emsp;&emsp;(i) the sum of—
+&emsp;&emsp;(B) a State in which (based on data available in April 2004)—
 
-&emsp;&emsp;&emsp;&emsp;(I) the average daily number of children attending the summer food service program in the State in July 1999; and
+&emsp;&emsp;&emsp;(i) the percentage obtained by dividing—
 
-&emsp;&emsp;&emsp;&emsp;(II) the average daily number of children receiving free or reduced price meals under the school lunch program in the State in July 1999; by
+&emsp;&emsp;&emsp;&emsp;(I) the sum of—
 
-&emsp;&emsp;&emsp;(ii) the average daily number of children receiving free or reduced price meals under the school lunch program in the State in March 1999; is less than 50 percent of
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the average daily number of children attending the summer food service program in the State in July 2003; and
 
-&emsp;&emsp;(B) the percentage obtained by dividing—
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the average daily number of children receiving free or reduced price meals under the school lunch program in the State in July 2003; by
 
-&emsp;&emsp;&emsp;(i) the sum of—
+&emsp;&emsp;&emsp;&emsp;(II) the average daily number of children receiving free or reduced price meals under the school lunch program in the State in March 2003; is less than
 
-&emsp;&emsp;&emsp;&emsp;(I) the average daily number of children attending the summer food service program in all States in July 1999; and
+&emsp;&emsp;&emsp;(ii) 66.67 percent of the percentage obtained by dividing—
 
-&emsp;&emsp;&emsp;&emsp;(II) the average daily number of children receiving free or reduced price meals under the school lunch program in all States in July 1999; by
+&emsp;&emsp;&emsp;&emsp;(I) the sum of—
 
-&emsp;&emsp;&emsp;(ii) the average daily number of children receiving free or reduced price meals under the school lunch program in all States in March 1999.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the average daily number of children attending the summer food service program in all States in July 2003; and
 
-#### (2) Pilot projects
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the average daily number of children receiving free or reduced price meals under the school lunch program in all States in July 2003; by
 
-&emsp;During the period beginning October 1, 2000, and ending March 31, 2004, the Secretary shall carry out a summer food pilot project in each eligible State to increase the number of children participating in the summer food service program in the State.
+&emsp;&emsp;&emsp;&emsp;(II) the average daily number of children receiving free or reduced price meals under the school lunch program in all States in March 2003.
+
+#### (2) Programs
+
+&emsp;The Secretary shall carry out a summer food program in each eligible State to increase thenumber of children participating in the summer food service program in the State.
 
 #### (3) Support levels for service institutions
 
 #### (A) Food service
 
-&emsp;&emsp;Under the pilot project, a service institution (other than a service institution described in section 1761(a)(7) of this title) in an eligible State shall receive the maximum amounts for food service under section 1761(b)(1) of this title without regard to the requirement under section 1761(b)(1)(A) of this title that payments shall equal the full cost of food service operations.
+&emsp;&emsp;Under the program, a service institution in an eligible State shall receive the maximum amounts for food service under section 1761(b)(1) of this title without regard to the requirement under section 1761(b)(1)(A) of this title that payments shall equal the full cost of food service operations.
 
 #### (B) Administrative costs
 
-&emsp;&emsp;Under the pilot project, a service institution (other than a service institution described in section 1761(a)(7) of this title) in an eligible State shall receive the maximum amounts for administrative costs determined by the Secretary under section 1761(b)(4) of this title without regard to the requirement under section 1761(b)(3) of this title that payments to service institutions shall equal the full amount of State-approved administrative costs incurred.
+&emsp;&emsp;Under the program, a service institution in an eligible State shall receive the maximum amounts for administrative costs determined by the Secretary under section 1761(b)(4) of this title without regard to the requirement under section 1761(b)(3) of this title that payments to service institutions shall equal the full amount of State-approved administrative costs incurred.
 
 #### (C) Compliance
 
@@ -230,59 +234,283 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;Expenditures of funds from State and local sources for maintenance of a summer food service program shall not be diminished as a result of assistance from the Secretary received under this subsection.
 
-#### (5) Evaluation of pilot projects
+#### (5) Evaluation of programs
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, acting through the Administrator of the Food and Nutrition Service, shall conduct an evaluation of the pilot project.
+&emsp;&emsp;The Secretary, acting through the Administrator of the Food and Nutrition Service, shall conduct an evaluation of the program.
 
 #### (B) Content
 
 &emsp;&emsp;An evaluation under this paragraph shall describe—
 
-&emsp;&emsp;&emsp;(i) any effect on participation by children and service institutions in the summer food service program in the eligible State in which the pilot project is carried out;
+&emsp;&emsp;&emsp;(i) any effect on participation by children and service institutions in the summer food service program in the eligible State in which the program is carried out;
 
-&emsp;&emsp;&emsp;(ii) any effect of the pilot project on the quality of the meals and supplements served in the eligible State in which the pilot project is carried out; and
+&emsp;&emsp;&emsp;(ii) any effect of the program on the quality of the meals and supplements served in the eligible State in which the program is carried out; and
 
-&emsp;&emsp;&emsp;(iii) any effect of the pilot project on program integrity.
+&emsp;&emsp;&emsp;(iii) any effect of the program on program integrity.
 
-#### (6) Reports
+#### (6) Report
 
-#### (A) Interim report
+&emsp;Not later than April 30, 2007, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that includes—
 
-&emsp;&emsp;Not later than December 1, 2002, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an interim report that describes the status of, and any progress made by, each pilot project being carried out under this subsection as of the date of submission of the report.
+&emsp;&emsp;(A) the evaluations completed by the Secretary under paragraph (5); and
 
-#### (B) Final report
+&emsp;&emsp;(B) any recommendations of the Secretary concerning the programs.
 
-&emsp;&emsp;Not later than April 30, 2004, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a final report that includes—
-
-&emsp;&emsp;&emsp;(i) the evaluations completed by the Secretary under paragraph (5); and
-
-&emsp;&emsp;&emsp;(ii) any recommendations of the Secretary concerning the pilot projects.
-
-#### (g) Fruit and vegetable pilot program
+#### (g) Fresh fruit and vegetable program
 
 #### (1) In general
 
-&emsp;In the school year beginning July 2002, the Secretary shall carry out a pilot program to make available to students in 25 elementaryor secondary schools in each of 4 States, and in elementary or secondary schools on 1 Indian reservation, free fresh and dried fruits and fresh vegetables throughout the school day in 1 or more areas designated by the school.
+&emsp;For the school year beginning July 2004 and each subsequent school year, the Secretary shall carry out a program to make free fresh fruits and vegetables available, to the maximum extent practicable, to—
 
-#### (2) Publicity
+&emsp;&emsp;(A) 25 elementary or secondary schools in each of the 4 States authorized to participate in the program under this subsection on May 1, 2004;
 
-&emsp;A school that participates in the pilot program shall widely publicize within the school the availability of free fruits and vegetables under the pilot program.
+&emsp;&emsp;(B) 25 elementary or secondary schools (as selected by the Secretary in accordance with paragraph (3)) in each of 4 States (including a State for which funds were allocated under the program described in paragraph (3)(B)(ii)) that are not participating in the program under this subsection on May 1, 2004; and
 
-#### (3) Report
+&emsp;&emsp;(C) 25 elementary or secondary schools operated on 3 Indian reservations (including the reservation authorized to participate in the program under this subsection on May 1, 2004), as selected by the Secretary.
 
-&emsp;Not later than May 1, 2003, the Secretary, acting through the Administrator of the Economic Research Service, shall report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the results of the pilot program.
+#### (2) Program
 
-#### (4) Funding
+&emsp;A school participating in the program shall make free fresh fruits and vegetables available to students throughout the school day in 1 or more areas designated by the school.
 
-&emsp;The Secretary shall use not more than $6,000,000 of funds made available under section 612c of title 7, to carry out this subsection (other than paragraph (3)), to remain available until the close of the school year beginning July 2003.
+#### (3) Selection of schools
 
-(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390.)
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), in selecting additional schools to participate in the program under paragraph (1)(B), the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) to the maximum extent practicable, ensure that the majority of schools selected are those in which not less than 50 percent of students are eligible for free or reduced price meals under this chapter;
+
+&emsp;&emsp;&emsp;(ii) solicit applications from interested schools that include—
+
+&emsp;&emsp;&emsp;&emsp;(I) information pertaining to the percentage of students enrolled in the school submitting the application who are eligible for free or reduced price school lunches under this chapter;
+
+&emsp;&emsp;&emsp;&emsp;(II) a certification of support for participation in the program signed by the school food manager, the school principal, and the district superintendent (or equivalent positions, as determined by the school); and
+
+&emsp;&emsp;&emsp;&emsp;(III) such other information as may be requested by the Secretary;
+
+&emsp;&emsp;&emsp;(iii) for each application received, determine whether the application is from a school in which not less than 50 percent of students are eligible for free or reduced price meals under this chapter; and
+
+&emsp;&emsp;&emsp;(iv) give priority to schools that submit a plan for implementation of the program that includes a partnership with 1 or more entities that provide non-Federal resources (including entities representing the fruit and vegetable industry) for—
+
+&emsp;&emsp;&emsp;&emsp;(I) the acquisition, handling, promotion, or distribution of fresh and dried fruits and fresh vegetables; or
+
+&emsp;&emsp;&emsp;&emsp;(II) other support that contributes to the purposes of the program.
+
+#### (B) Nonapplicability to existing participants
+
+&emsp;&emsp;Subparagraph (A) shall not apply to a school, State, or Indian reservation authorized—
+
+&emsp;&emsp;&emsp;(i) to participate in the program on May 1, 2004; or
+
+&emsp;&emsp;&emsp;(ii) to receive funding for free fruits and vegetables under funds provided for public health improvement under the heading “
+
+disease control, research, and training” under the heading “
+
+Centers for Disease Control and Prevention” in title II of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2004 (Division E of Public Law 108–199; 118 Stat. 238).
+
+#### (4) Notice of availability
+
+&emsp;To be eligible to participate in the program under this subsection, a school shall widely publicize within the school the availability of free fresh fruits and vegetables under the program.
+
+#### (5) Reports
+
+#### (A) Interim reports
+
+&emsp;&emsp;Not later than September 30 of each of fiscal years 2005 through 2008, the Secretary, acting through the Administrator of the Food and Nutrition Service, shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an interim report that describes the activities carried out under this subsection during the fiscal year covered by the report.
+
+#### (B) Final report
+
+&emsp;&emsp;Not later than December 31, 2008, the Secretary, acting through the Administrator of the Food and Nutrition Service, shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a final report that describes the results of the program under this subsection.
+
+#### (6) Funding
+
+#### (A) Existing funds
+
+&emsp;&emsp;The Secretary shall use to carry out this subsection any funds that remain under this subsection on the day before June 30, 2004.
+
+#### (B) Mandatory funds
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;On October 1, 2004, and on each October 1 thereafter, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary of Agriculture to carry out this subsection $9,000,000, to remain available until expended.
+
+#### (ii) Receipt and acceptance
+
+&emsp;&emsp;&emsp;The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds made available under this subparagraph, without further appropriation.
+
+#### (C) Authorization of appropriations
+
+&emsp;&emsp;In addition to any amounts made available under subparagraphs (A) and (B), there are authorized to be appropriated such sums as are necessary to expand the program carried out under this subsection.
+
+#### (D) Reallocation
+
+&emsp;&emsp;The Secretary may reallocate any amounts made available to carry out this subsection that are not obligated or expended, as determined by the Secretary.
+
+#### (h) Summer food service residential camp eligibility
+
+#### (1) In general
+
+&emsp;During the month after June 30, 2004, through September, 2004, and the months of May through September, 2005, the Secretary shall modify eligibility criteria, at not more than 1 private nonprofit residential camp in each of not more than 2 States, as determined by the Secretary, for the purpose of identifying and evaluating alternative methods of determining the eligibility of residential private nonprofit camps to participate in the summer food service program for children established under section 1761 of this title.
+
+#### (2) Eligibility
+
+&emsp;To be eligible for the criteria modified under paragraph (1), a residential camp—
+
+&emsp;&emsp;(A) shall be a service institution (as defined in section 1761(a)(1) of this title);
+
+&emsp;&emsp;(B) may not charge a fee to any child in residence at the camp; and
+
+&emsp;&emsp;(C) shall serve children who reside in an area in which poor economic conditions exist (as defined in section 1761(a)(1) of this title).
+
+#### (3) Payments
+
+#### (A) In general
+
+&emsp;&emsp;Under this subsection, the Secretary shall provide reimbursement for meals served to all children at a residential camp at the payment rates specified in section 1761(b)(1) of this title.
+
+#### (B) Reimbursable meals
+
+&emsp;&emsp;A residential camp selected by the Secretary may receive reimbursement for not more than 3 meals, or 2 meals and 1 supplement, during each day of operation.
+
+#### (4) Evaluation
+
+#### (A) Information from residential camps
+
+&emsp;&emsp;Not later than December 31, 2005, a residential camp selected under paragraph (1) shall report to the Secretary such information as is required by the Secretary concerning the requirements of this subsection.
+
+#### (B) Report to Congress
+
+&emsp;&emsp;Not later than March 31, 2006, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that evaluates the effect of this subsection on program participation and other factors, as determined by the Secretary.
+
+#### (i) Access to local foods and school gardens
+
+#### (1) In general
+
+&emsp;The Secretary may provide assistance, through competitive matching grants and technical assistance, to schools and nonprofit entities for projects that—
+
+&emsp;&emsp;(A) improve access to local foods in schools and institutions participating in programs under this chapter and section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) through farm-to-cafeteria activities, including school gardens, that may include the acquisition of food and appropriate equipment and the provision of training and education;
+
+&emsp;&emsp;(B) are, at a minimum, designed to—
+
+&emsp;&emsp;&emsp;(i) procure local foods from small- and medium-sized farms for school meals; and
+
+&emsp;&emsp;&emsp;(ii) support school garden programs;
+
+&emsp;&emsp;(C) support nutrition education activities or curriculum planning that incorporates the participation of school children in farm-based agricultural education activities, that may include school gardens;
+
+&emsp;&emsp;(D) develop a sustained commitment to farm-to-cafeteria projects in the community by linking schools, State departments of agriculture, agricultural producers, parents, and other community stakeholders;
+
+&emsp;&emsp;(E) require $100,000 or less in Federal contributions;
+
+&emsp;&emsp;(F) require a Federal share of costs not to exceed 75 percent;
+
+&emsp;&emsp;(G) provide matching support in the form of cash or in-kind contributions (including facilities, equipment, or services provided by State and local governments and private sources); and
+
+&emsp;&emsp;(H) cooperate in an evaluation carried out by the Secretary.
+
+#### (2) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection for each of fiscal years 2004 through 2009.
+
+#### (j) Year-round services for eligible entities
+
+#### (1) In general
+
+&emsp;A service institution that is described in section 1761(a)(6) of this title (excluding a public school), or a private nonprofit organization described in section 1761(a)(7) of this title, and that is located in the State of California may be reimbursed—
+
+&emsp;&emsp;(A) for up to 2 meals during each day of operation served—
+
+&emsp;&emsp;&emsp;(i) during the months of May through September;
+
+&emsp;&emsp;&emsp;(ii) in the case of a service institution that operates a food service program for children on school vacation, at anytime under a continuous school calendar; and
+
+&emsp;&emsp;&emsp;(iii) in the case of a service institution that provides meal service at a nonschool site to children who are not in school for a period during the school year due to a natural disaster, building repair, court order, or similar case, at anytime during such a period; and
+
+&emsp;&emsp;(B) for a snack served during each day of operation after school hours, weekends, and school holidays during the regular school calendar.
+
+#### (2) Payments
+
+&emsp;The service institution shall be reimbursed consistent with section 1761(b)(1) of this title.
+
+#### (3) Administration
+
+&emsp;To receive reimbursement under this subsection, a service institution shall comply with section 1761 of this title, other than subsections (b)(2) and (c)(1) of that section.
+
+#### (4) Evaluation
+
+&emsp;Not later than September 30, 2007, the State agency shall submit to the Secretary a report on the effect of this subsection on participation in the summer food service program for children established under section 1761 of this title.
+
+#### (5) Funding
+
+&emsp;The Secretary shall provide to the State of California such sums as are necessary to carry out this subsection for each of fiscal years 2005 through 2009.
+
+#### (k) Free lunch and breakfast eligibility
+
+#### (1) In general
+
+&emsp;Subject to the availability of funds under paragraph (4), the Secretary shall expand the service of free lunches and breakfasts provided at schools participating in the school lunch program under this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) in all or part of 5 States selected by the Secretary (of which at least 1 shall be a largely rural State with a significant Native American population).
+
+#### (2) Income eligibility
+
+&emsp;The income guidelines for determining eligibility for free lunches or breakfasts under this subsection shall be 185 percent of the applicable family size income levels contained in the nonfarm income poverty guidelines prescribed by the Office of Management and Budget, as adjusted annually in accordance with section 1758(b)(1)(B) of this title.
+
+#### (3) Evaluation
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 3 years after the implementation of this subsection, the Secretary shall conduct an evaluation to assess the impact of the changed income eligibility guidelines by comparing the school food authorities operating under this subsection to school food authorities not operating under this subsection.
+
+#### (B) Impact assessment
+
+#### (i) Children
+
+&emsp;&emsp;&emsp;The evaluation shall assess the impact of this subsection separately on—
+
+&emsp;&emsp;&emsp;&emsp;(I) children in households with incomes less than 130 percent of the applicable family income levels contained in the nonfarm poverty income guidelines prescribed by the Office of Management andBudget, as adjusted annually in accordance with section 1758(b)(1)(B) of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(II) children in households with incomes greater than 130 percent and not greater than 185 percent of the applicable family income levels contained in the nonfarm poverty income guidelines prescribed by the Office of Management and Budget, as adjusted annually in accordance with section 1758(b)(1)(B) of this title.
+
+#### (ii) Factors
+
+&emsp;&emsp;&emsp;The evaluation shall assess the impact of this subsection on—
+
+&emsp;&emsp;&emsp;&emsp;(I) certification and participation rates in the school lunch and breakfast programs;
+
+&emsp;&emsp;&emsp;&emsp;(II) rates of lunch- and breakfast-skipping;
+
+&emsp;&emsp;&emsp;&emsp;(III) academic achievement;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the allocation of funds authorized in title I of the Elementary and Secondary Education Act \[20 U.S.C. 6301 et seq.\] to local educational agencies and public schools; and
+
+&emsp;&emsp;&emsp;&emsp;(V) other factors determined by the Secretary.
+
+#### (C) Cost assessment
+
+&emsp;&emsp;The evaluation shall assess the increased costs associated with providing additional free, reduced price, or paid meals in the school food authorities operating under this subsection.
+
+#### (D) Report
+
+&emsp;&emsp;On completion of the evaluation, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the results of the evaluation under this paragraph.
+
+#### (4) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection, to remain available until expended.
+
+(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760.)
 
 #### References in Text
 
 The Child Nutrition Act of 1966, referred to in subsecs. (a) and (e)(6), (7)(B)(ii), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+
+The Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2004, referred to in subsec. (g)(3)(B)(ii), is Pub. L. 108–199, div. E, Jan. 23, 2004, 118 Stat. 226. Provisions under the headings “
+
+Centers for Disease Control and Prevention” and “
+
+disease control, research, and training” in title II of the Act appear at 118 Stat. 238 and are not classified to the Code.
+
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (k)(3)(B)(ii)(IV), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Codification
 
@@ -293,6 +521,28 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 A prior section 18 of act June 4, 1946, which was classified to section 1767 of this title, was repealed.
 
 #### Amendments
+
+2004—Subsec. (f). Pub. L. 108–265, §116(f)(5)(A), substituted “Simplified summer food programs” for “Summer food pilot projects” in heading.
+
+Subsec. (f)(1). Pub. L. 108–265, §116(f)(1), added par. (1) and struck out heading and text of former par. (1), which defined “eligible State” using formula based on data available in July 2000.
+
+Subsec. (f)(2). Pub. L. 108–265, §116(f)(5)(B), substituted “Programs” for “Pilot projects” in heading and “food program” for “food pilot project” in text.
+
+Pub. L. 108–265, §116(f)(2), substituted “The” for “During the period beginning October 1, 2000, and ending June 30, 2004, the”.
+
+Pub. L. 108–211 substituted “June 30, 2004” for “March 31, 2004”.
+
+Subsec. (f)(3)(A), (B). Pub. L. 108–265, §116(f)(5)(C), substituted “program” for “pilot project”.
+
+Pub. L. 108–265, §116(f)(3), struck out “(other than a service institution described in section 1761(a)(7) of this title)” after “service institution”.
+
+Subsec. (f)(5). Pub. L. 108–265, §116(f)(5)(D), substituted “programs” for “pilot projects” in heading and “the program” for “the pilot project” in text wherever appearing.
+
+Subsec. (f)(6). Pub. L. 108–265, §116(f)(4), added par. (6) and struck out heading and text of former par. (6), which related to interim and final reports on pilot projects carried out under this subsec.
+
+Subsec. (g). Pub. L. 108–265, §120, added subsec. (g) and struck out heading and text of former subsec. (g), which related to fruit and vegetable pilot program.
+
+Subsecs. (h) to (k). Pub. L. 108–265, §§121–124, added subsecs. (h) to (k).
 
 2003—Subsec. (f)(2). Pub. L. 108–134 substituted “beginning October 1, 2000, and ending March 31, 2004” for “of fiscal years 2001 through 2003”.
 
@@ -380,6 +630,10 @@ Subsec. (d). Pub. L. 95–627, §11(2), added subsec. (d).
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by section 116(f)(1), (3) of Pub. L. 108–265 effective Jan. 1, 2005, and amendment by sections 116(f)(2), (4), (5) and 120 to 124 of Pub. L. 108–265 effectiveJune 30, 2004, see section 502(a), (b)(3) of Pub. L. 108–265, as amended, set out as an Effective Date note under section 1754 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–171, title IV, §4305(b), May 13, 2002, 116 Stat. 332, provided that: “The amendment made by this section \[amending this section\] takes effect on the date of enactment of this Act \[May 13, 2002\].”
@@ -407,10 +661,6 @@ Pub. L. 102–342, title I, §101(b), Aug. 14, 1992, 106 Stat. 911, as amended b
 #### Alternative Counting and Claiming Procedures; Promulgation of Regulations
 
 Section 205(b) of Pub. L. 101–147 provided that not later than July 1, 1990, Secretary of Agriculture was to issue final regulations to implement subsec. (g) of this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1755 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

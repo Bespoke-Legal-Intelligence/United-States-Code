@@ -52,7 +52,3 @@ Section 414(v) of the Internal Revenue Code of 1986, referred to in subsec. (b),
 
 Amendment by Pub. L. 107–304 effective as of the earliest practicable date determined by the Executive Director in regulations, see section 1(c) of Pub. L. 107–304, set out as a note under section 8351 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8440a to 8440e of this title.
-

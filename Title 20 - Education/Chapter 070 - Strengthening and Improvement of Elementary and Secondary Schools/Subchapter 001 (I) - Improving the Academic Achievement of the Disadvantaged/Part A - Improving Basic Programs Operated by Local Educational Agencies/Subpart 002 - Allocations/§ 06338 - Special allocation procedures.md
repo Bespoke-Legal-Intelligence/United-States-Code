@@ -32,7 +32,3 @@ A prior section 6338, Pub. L. 89–10, title I, §1127, as added Pub. L. 103–3
 
 A prior section 1126 of Pub. L. 89–10 was classified to section 6337 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6303, 6333 of this title.
-

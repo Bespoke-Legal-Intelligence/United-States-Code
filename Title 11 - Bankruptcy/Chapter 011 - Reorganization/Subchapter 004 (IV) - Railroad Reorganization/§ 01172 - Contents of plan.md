@@ -30,7 +30,7 @@ The House amendment deletes section 1171(a) of the Senate amendment as a matter 
 
 #### senate report no. 95–989
 
-Section 1170 adds to the general provisions required or permitted in reorganization plans by section 1123. Subsection (1) requires that a reorganization plan under the railroad subchapter specify the means by which the value of the claims of creditors and the interests of equity holders which are materially and adversely affected by the plan are to be realized. Subsection (2) permits a plan to include provisions for the issuance of warrants. Subsection (3) requires that the plan provide for fixed charges by probable earnings for their payment. Subsection (4) requires that the plan specify the means by which, and the extent to which, the debtor's rail service is to be continued, and shall identify any rail service to be terminated. Subsection (5) permits other appropriate provisions not inconsistent with the chapter. With the exception of subsection (4), the requirements are comparable to those of present section 77(b) \[section 205(b) of former title 11\]; subsection (4) emphasizes the public interest in the preservation of rail transportation.
+Section 1170 adds to the general provisions required or permitted in reorganization plans by section 1123. Subsection (1) requires that a reorganization plan under the railroad subchapter specify the means by which the value of the claims of creditors and the interests of equity holders which are materially and adversely affected by the plan are to be realized. Subsection (2) permits a plan to include provisions for the issuance of warrants. Subsection (3) requires that the plan provide for fixed charges by probable earnings fortheir payment. Subsection (4) requires that the plan specify the means by which, and the extent to which, the debtor's rail service is to be continued, and shall identify any rail service to be terminated. Subsection (5) permits other appropriate provisions not inconsistent with the chapter. With the exception of subsection (4), the requirements are comparable to those of present section 77(b) \[section 205(b) of former title 11\]; subsection (4) emphasizes the public interest in the preservation of rail transportation.
 
 Section 1171 imposes on the court, rather than the Interstate Commerce Commission, as in present section 77 \[section 205 of former title 11\], the responsibility for the plan of reorganization. The Commission is empowered to make final decisions subject only to review by the court under the standards of the Administrative Procedure Act \[5 U.S.C. 551 et seq. and 701 et seq.\] as to any part of the plan which deals with transportation matters, such as the grant of operating rights of or over, or transfer of, the debtor's rail lines to other carriers.
 
@@ -67,10 +67,6 @@ Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub.
 #### Nonapplication of Subsec. (c)
 
 For provision that subsec. (c) of this section does not apply to Amtrak and its employees, see section 142(d) of Pub. L. 105–134, set out in an Employee Protection Reforms note under section 24706 of Title 49, Transportation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1165 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -78,7 +78,3 @@ In subsection (c)(1), the word “revenues” is omitted as being included in �
 
 In subsection (e), the word “President” is substituted for “Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 719, 1113 of this title.
-

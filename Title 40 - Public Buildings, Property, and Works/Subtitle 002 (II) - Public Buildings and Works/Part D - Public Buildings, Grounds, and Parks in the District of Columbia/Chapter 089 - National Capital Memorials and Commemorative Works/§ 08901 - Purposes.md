@@ -8,7 +8,7 @@ The purposes of this chapter are—
 
 &emsp;(3) to preserve, protect and maintain the limited amount of open space available to residents of, and visitors to, the Nation's Capital; and
 
-&emsp;(4) to ensure that future commemorative works in areas administered by the NationalPark Service and the Administrator of General Services in the District of Columbia and its environs—
+&emsp;(4) to ensure that future commemorative works in areas administered by the National Park Service and the Administrator of General Services in the District of Columbia and its environs—
 
 &emsp;&emsp;(A) are appropriately designed, constructed, and located; and
 
@@ -38,7 +38,7 @@ Pub. L. 99–652, §1, Nov. 14, 1986, 100 Stat. 3650.
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–126, title II, §205, Nov. 17, 2003, 117 Stat. 1353, provided that: “Except for the provision in the amendment made by section 202(b) \[amending section 8908 of this title\] prohibiting a visitor center from being located in the Reserve (as defined in section 8902 of title 40, United States Code), nothing in this title \[see Short Title of 2003 Amendment note set out under section 101 of this title\] shall apply to a commemorative work for which a site was approved in accordance with chapter 89 of title 40, United States Code, prior to the date of enactment of this title \[Nov. 17, 2003\].”
+Pub. L. 108–126, title II, §205, Nov. 17, 2003, 117 Stat. 1353, provided that: “Except for the provision in the amendment made by section 202(b) \[amending section 8908 of this title\] prohibiting a visitor center from being located in the Reserve (as defined in section 8902 of title 40, United States Code), nothing in this title\[see Short Title of 2003 Amendment note set out under section 101 of this title\] shall apply to a commemorative work for which a site was approved in accordance with chapter 89 of title 40, United States Code, prior to the date of enactment of this title \[Nov. 17, 2003\].”
 
 #### Findings
 
@@ -47,8 +47,4 @@ Pub. L. 108–126, title II, §202(a), Nov. 17, 2003, 117 Stat. 1349, provided t
 &emsp;“(1) the great cross-axis of the Mall in the District of Columbia, which generally extends from the United States Capitol to the Lincoln Memorial, and from the White House to the Jefferson Memorial, is a substantially completed work of civic art; and
 
 &emsp;“(2) to preserve the integrity of the Mall, a reserve area should be designated within the core of the great cross-axis of the Mall where the siting of new commemorative works is prohibited.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8903 of this title.
 

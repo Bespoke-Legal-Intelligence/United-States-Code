@@ -2,7 +2,7 @@
 
 #### (a) Investigation and submission of reports, books, etc.
 
-The Secretary shall have the power, in order to determine whether any person has violated oris about to violate any provision of this subchapter or any regulation or order thereunder—
+The Secretary shall have the power, in order to determine whether any person has violated or is about to violate any provision of this subchapter or any regulation or order thereunder—
 
 &emsp;(1) to make an investigation, and in connection therewith to require the submission of reports, books, and records, and the filing of data in support of any information required to be filed with the Secretary under this subchapter, and
 
@@ -31,8 +31,4 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 #### Regulations
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1135, 1136 of this title; title 5 section 8478a.
 

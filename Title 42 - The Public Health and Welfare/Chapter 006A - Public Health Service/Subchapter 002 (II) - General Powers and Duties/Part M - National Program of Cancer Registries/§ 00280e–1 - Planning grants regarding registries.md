@@ -12,15 +12,11 @@
 
 #### (b) Application
 
-The Secretary may make a grant under subsection (a) of this section only if an application for the grant is submitted to the Secretary, the application contains the certification required in subsection (a)(2) of this section (if the application is for a grant under such subsection), and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+The Secretary may make a grant under subsection (a) of this section only if an applicationfor the grant is submitted to the Secretary, the application contains the certification required in subsection (a)(2) of this section (if the application is for a grant under such subsection), and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
 (July 1, 1944, ch. 373, title III, §399C, formerly §399I, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3375; renumbered §399C, Pub. L. 106–310, div. A, title V, §502(2)(A), Oct. 17, 2000, 114 Stat. 1115.)
 
 #### Change of Name
 
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 280e–4 of this title.
 

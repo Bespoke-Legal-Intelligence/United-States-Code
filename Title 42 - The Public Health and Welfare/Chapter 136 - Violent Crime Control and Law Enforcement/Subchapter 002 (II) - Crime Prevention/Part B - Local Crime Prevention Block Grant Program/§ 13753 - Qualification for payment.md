@@ -60,7 +60,3 @@ The Single Audit Act of 1984, referred to in subsec. (b)(5), is Pub. L. 98–502
 
 1996—Subsec. (b)(5). Pub. L. 104–316 struck out “after consultation with the Comptroller General of the United States” after “Attorney General”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13751, 14214 of this title.
-

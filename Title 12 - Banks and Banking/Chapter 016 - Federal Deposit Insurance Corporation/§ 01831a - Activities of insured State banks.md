@@ -148,7 +148,7 @@
 
 &emsp;&emsp;(A) is located in a State that permitted, as of September 30, 1991, investment in common or preferred stock listed on a national securities exchange or shares of an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\]; and
 
-&emsp;&emsp;(B) made or maintained an investment in such securities during the period beginningon September 30, 1990, and ending on November 26, 1991.
+&emsp;&emsp;(B) made or maintained an investment in such securities during the period beginning on September 30, 1990, and ending on November 26, 1991.
 
 #### (3) Exception for certain types of institutions
 
@@ -236,7 +236,7 @@ This section shall not be construed as limiting the authority of any appropriate
 
 &emsp;The terms “host State”, “home State”, and “out-of-State bank” have the same meanings as in section 1831u(f) <sup>1</sup> of this title.
 
-(Sept. 21, 1950, ch. 967, §2\[24\], as added Pub. L. 102–242, title III, §303(a), Dec. 19, 1991, 105 Stat. 2349; amended Pub. L. 102–550, title XVI, §1605(a)(8), Oct. 28, 1992, 106 Stat. 4086; Pub. L.103–328, title I, §102(b)(3)(B), Sept. 29, 1994, 108 Stat. 2351; Pub. L. 104–208, div. A, title II, §§2217, 2704(d)(14)(W), Sept. 30, 1996, 110 Stat. 3009–414, 3009–494; Pub. L. 105–24, §2(a), July 3, 1997, 111 Stat. 238.)
+(Sept. 21, 1950, ch. 967, §2\[24\], as added Pub. L. 102–242, title III, §303(a), Dec. 19, 1991, 105 Stat. 2349; amended Pub. L. 102–550, title XVI, §1605(a)(8), Oct. 28, 1992, 106 Stat. 4086; Pub. L. 103–328, title I, §102(b)(3)(B), Sept. 29, 1994, 108 Stat. 2351; Pub. L. 104–208, div. A, title II, §§2217, 2704(d)(14)(W), Sept. 30, 1996, 110 Stat. 3009–414, 3009–494; Pub. L. 105–24, §2(a), July 3, 1997, 111 Stat. 238.)
 
 #### References in Text
 
@@ -279,10 +279,6 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 #### Right of State To Opt Out
 
 Section 3 of Pub. L. 105–24 provided that: “Nothing in this Act \[amending this section and section 36 of this title and enacting provisions set out as a note under section 1811 of this title\] alters the right of States under section 525 of Public Law 96–221 \[12 U.S.C. 1785 note\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 330, 1831w of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

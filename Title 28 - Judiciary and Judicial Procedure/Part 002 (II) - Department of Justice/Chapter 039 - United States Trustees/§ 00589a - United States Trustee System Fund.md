@@ -58,7 +58,7 @@ Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, O
 
 Subsec. (b)(9). Pub. L. 106–113, §1000(a)(1) \[title I\], added par. (9).
 
-1996—Pub. L. 104–208 reenacted section catchline without change and amended text generally, revisingand restating as subsecs. (a) to (e) provisions of former subsecs. (a) to (f).
+1996—Pub. L. 104–208 reenacted section catchline without change and amended text generally, revising and restating as subsecs. (a) to (e) provisions of former subsecs. (a) to (f).
 
 Subsec. (b)(5). Pub. L. 104–91, as amended by Pub. L. 104–99, inserted “until a reorganization plan is confirmed” before semicolon.
 
@@ -82,7 +82,7 @@ Subsec. (f). Pub. L. 102–140, §111(c), added subsec. (f).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that the amendment made by section 1000(a)(1) \[title I, §113\] is effective 30 days after Nov. 29, 1999.
+Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that theamendment made by section 1000(a)(1) \[title I, §113\] is effective 30 days after Nov. 29, 1999.
 
 #### Effective Date of 1996 Amendment
 
@@ -101,8 +101,4 @@ Section 111 of Pub. L. 102–140 provided that the amendment made by that sectio
 #### Effective Date
 
 Section effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under section 581 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 11 section 330.
 

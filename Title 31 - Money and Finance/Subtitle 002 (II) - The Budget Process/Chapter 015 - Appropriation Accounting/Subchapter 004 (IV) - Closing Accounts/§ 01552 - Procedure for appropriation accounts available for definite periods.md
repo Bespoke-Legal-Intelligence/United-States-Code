@@ -94,7 +94,3 @@ Report on Audit.—Not later than December 31, 1991, the Secretary of Defense sh
 
 &emsp;“(2) for each appropriation account (A) the average length of time funds have been obligated, (B) the average size of the obligation, and (iii)\[(C)\] the object classification of the obligations, all shown for total obligations and separately for valid obligations and obligations that are no longer valid.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1553, 1554, 1558 of this title; title 10 sections 2216, 2410m; title 50 section 403f.
-

@@ -2,7 +2,7 @@
 
 #### (a) Lease
 
-The lease between a tenant and an owner of affordable housing assisted under this subchapter for rental shall be for not less than one year, unless by mutual agreement between the tenant and the owner, and shall contain such terms and conditions as the Secretary shall determine to be appropriate.
+The lease between a tenant and an owner of affordable housing assisted under this subchapterfor rental shall be for not less than one year, unless by mutual agreement between the tenant and the owner, and shall contain such terms and conditions as the Secretary shall determine to be appropriate.
 
 #### (b) Termination of tenancy
 

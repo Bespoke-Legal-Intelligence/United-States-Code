@@ -16,7 +16,3 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under section 1401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 58c, 1613b, 1755 of this title.
-

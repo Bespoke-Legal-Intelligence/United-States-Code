@@ -1,6 +1,6 @@
 ### §348. Effect of conversion
 
-(a) Conversion of a case from a case under one chapter of this title to a case under another chapter of this title constitutes an order for relief under the chapter to which the case is converted, but, except as provided in subsections (b) and (c) of this section, does not effect a change in the date of the filing of the petition, the commencement of the case, or the order for relief.
+(a) Conversion of a case from a case under one chapter of this title to a case under another chapter of this title constitutes an order for relief under the chapter to which the case is converted, but, except as provided in subsections (b) and (c) of this section, does not effect a changein the date of the filing of the petition, the commencement of the case, or the order for relief.
 
 (b) Unless the court for cause orders otherwise, in sections 701(a), 727(a)(10), 727(b), 728(a), 728(b), 1102(a), 1110(a)(1), 1121(b), 1121(c), 1141(d)(4), 1146(a), 1146(b), 1201(a), 1221, 1228(a), 1301(a), and 1305(a) of this title, “the order for relief under this chapter” in a chapter to which a case has been converted under section 706, 1112, 1208, or 1307 of this title means the conversion of such case to such chapter.
 
@@ -57,8 +57,4 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 101 of this title.
 

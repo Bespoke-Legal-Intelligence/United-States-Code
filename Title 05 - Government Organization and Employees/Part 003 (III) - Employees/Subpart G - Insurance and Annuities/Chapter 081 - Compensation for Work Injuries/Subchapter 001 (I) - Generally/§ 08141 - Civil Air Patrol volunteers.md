@@ -1,6 +1,6 @@
 ### §8141. Civil Air Patrol volunteers
 
-(a) Subject to the provisions of this section, this subchapter applies to a volunteer civilian member of the Civil Air Patrol, except a Civil Air Patrol Cadet under 18 years of age.
+(a) Subject to the provisions of this section, this subchapter applies to a volunteer civilianmember of the Civil Air Patrol, except a Civil Air Patrol Cadet under 18 years of age.
 
 (b) In administering this subchapter for a member of the Civil Air Patrol covered by this section—
 
@@ -67,8 +67,4 @@ Section 1258(b) of Pub. L. 98–94 provided that:
 “(2) The amendment made by subsection (a)(1) \[amending this section\] shall apply only to deaths or injuries occurring on or after the date of the enactment of this Act \[Sept. 24, 1983\].
 
 “(3) The amendment made by subsection (a)(2) \[amending this section\] shall apply only to the computation of compensation payable for periods commencing on or after the date of the enactment of this Act \[Sept. 24, 1983\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8150 of this title.
 

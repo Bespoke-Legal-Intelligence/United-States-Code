@@ -8,7 +8,3 @@ Subject to existing international agreements to which the United States is a par
 
 The time of enactment of this Act, referred to in text, probably means the time of enactment of Pub. L. 94–583, which was approved Oct. 21, 1976.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1605 of this title.
-

@@ -14,15 +14,19 @@ Section was formerly classified to section 151 of Title 5 prior to the general r
 
 Pub. L. 100–204, title XIII, §1301, Dec. 22, 1987, 101 Stat. 1432, provided that: “Except as otherwise provided in this Act \[see Short Title of 1987 Amendment note below\], this Act shall take effect on the date of its enactment \[Dec. 22, 1987\].”
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–332, §1, Oct. 16, 2004, 118 Stat. 1282, provided that: “This Act \[enacting section 2731 of this title, amending sections 2151n, 2304, and 6412 of this title, and enacting provisions set out as notes under sections 2151n and 2731 of this title\] may be cited as the ‘Global Anti-Semitism Review Act of 2004’.”
+
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–228, §1, Sept. 30, 2002, 116 Stat. 1350, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 2003’.”
+Pub. L. 107–228, §1, Sept. 30, 2002, 116 Stat. 1350, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 2003’.”
 
 Pub. L. 107–228, div. A, §101, Sept. 30, 2002, 116 Stat. 1355, provided that: “This division \[see Tables for classification\] may be cited as the ‘Department of State Authorization Act, Fiscal Year 2003’.”
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[§1\], Nov. 29, 1999, 113 Stat. 1536, 1501A–405, provided that: “This Act \[H.R. 3427, as enacted by section 1000(a)(7) of Pub. L. 106–113, see Tables for classification\] may be cited as the ‘Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001’.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[§1\], Nov. 29, 1999, 113 Stat. 1536, 1501A–405, provided that: “This Act \[H.R.3427, as enacted by section 1000(a)(7) of Pub. L. 106–113, see Tables for classification\] may be cited as the ‘Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001’.”
 
 #### Short Title of 1998 Amendment
 
@@ -58,7 +62,7 @@ Pub. L. 94–141, §1, Nov. 29, 1975, 89 Stat. 756, provided: “That this Act \
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–475, §1, Oct. 26, 1974, 88 Stat. 1439, provided: “That this Act \[enacting sections 966, 2679a, 2680a, and 2686 of this title, amending sections 901a, 1439, 1476, and 2680 of this title, and section 5924 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 901a, 966, and 2151 of this title and amending provisions set out as notes preceding section 1 of Title 50, Appendix, War and National Defense\] may be cited as the ‘State Department/USIA Authorization Act, Fiscal Year 1975’.”
+Pub. L. 93–475, §1, Oct. 26, 1974, 88 Stat. 1439, provided: “That this Act \[enacting sections 966, 2679a, 2680a, and 2686 of this title, amending sections 901a, 1439, 1476, and 2680 of this title, and section 5924 of Title 5, Government Organization and Employees, enacting provisionsset out as notes under sections 901a, 966, and 2151 of this title and amending provisions set out as notes preceding section 1 of Title 50, Appendix, War and National Defense\] may be cited as the ‘State Department/USIA Authorization Act, Fiscal Year 1975’.”
 
 #### Short Title of 1973 Amendment
 

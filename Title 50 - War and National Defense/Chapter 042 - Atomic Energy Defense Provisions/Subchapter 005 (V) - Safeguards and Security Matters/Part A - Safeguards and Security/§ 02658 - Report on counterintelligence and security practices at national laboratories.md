@@ -1,0 +1,34 @@
+### §2658. Report on counterintelligence and security practices at national laboratories
+
+#### (a) In general
+
+Not later than March 1 of each year, the Secretary of Energy shall submit to the Congress a report for the preceding year on counterintelligence and security practices at the facilities of the national laboratories (whether or not classified activities are carried out at the facility).
+
+#### (b) Content of report
+
+The report shall include, with respect to each national laboratory, the following:
+
+&emsp;(1) The number of employees, including full-time counterintelligence and security professionals and contractor employees.
+
+&emsp;(2) A description of the counterintelligence and security training courses conducted and, for each such course, any requirement that employees successfully complete that course.
+
+&emsp;(3) A description of each contract awarded that provides an incentive for the effective performance of counterintelligence or security activities.
+
+&emsp;(4) A description of the requirement that an employee report the travel to sensitive countries of that employee (whether or not the travel was for official business).
+
+&emsp;(5) The number of trips by individuals who traveled to sensitive countries, with identification of the sensitive countries visited.
+
+#### (c) National laboratory defined
+
+In this section, the term “national laboratory” has the meaning given that term in section 2652(g)(3) of this title.
+
+(Pub. L. 107–314, div. D, title XLV, §4507, formerly Pub. L. 106–65, div. C, title XXXI, §3152, Oct. 5, 1999, 113 Stat. 940; renumbered Pub. L. 107–314, div. D, title XLV, §4507, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(8), Nov. 24, 2003, 117 Stat. 1773.)
+
+#### Codification
+
+Section was formerly classified to section 7383f of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
+
+#### Amendments
+
+2003—Subsec. (c). Pub. L. 108–136, §3141(h)(8)(D), added subsec. (c).
+

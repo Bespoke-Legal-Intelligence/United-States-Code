@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—INVESTMENT COMPANIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 77b, 77r, 78c, 78m, 78n, 78<i>o</i>, 78s, 78u–2, 80b–2, 80b–3, 80b–3a, 80b–5, 687, 687b, 3904, 6805, 7004, 7706 of this title; title 7 sections 1a, 6, 12a; title 11 section 101; title 12 sections 1464, 1820a, 1831a, 1843, 1844, 2279aa–12, 3503; title 26 sections 368, 851, 852, 856, 1246, 4975, 6049; title 29 sections 432, 1001, 1002, 1101; title 42 section 9675; title 43 section 1625.
-
 
 ---
 

@@ -56,7 +56,3 @@ Nothing in this section shall be construed to prohibit the waiving of hearings b
 
 (Pub. L. 96–465, title I, §1011, Oct. 17, 1980, 94 Stat. 2134.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4102, 4118 of this title.
-

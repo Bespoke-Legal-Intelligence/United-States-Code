@@ -18,6 +18,14 @@ Unless otherwise provided, for purposes of this part—
 
 A prior section 13701, Pub. L. 103–322, title II, §20101, Sept. 13, 1994, 108 Stat. 1815, related to grants for correctional facilities prior to the general amendment of this part by Pub. L. 104–134.
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–405, §1(a), Oct. 30, 2004, 118 Stat. 2260, provided that: “This Act \[enacting sections 10603d, 10603e, 14136 to 14136e, and 14163 to 14163e of this title and chapters 228A and 237 and section 3297 of Title 18, Crimes and Criminal Procedure, amending sections 3793, 3796gg to 3796gg–6, 3797k, 3797m, 14132, 14133, 14135, 14135a, and 14135e of this title, section 1565 of Title 10, Armed Forces, and section 2513 of Title 28, Judiciary and Judicial Procedure, repealing section 10606 of this title, and enacting provisions set out as notes under this section and sections 3796gg–1 and 14136 of this title, sections 3297, 3600, and 3771 of Title 18, and section 531 of Title 28\] may be cited as the ‘Justice for All Act of 2004’.”
+
+Pub. L. 108–405, title II, §201, Oct. 30, 2004, 118 Stat. 2266, provided that: “This title \[enacting section 3297 of Title 18, Crimes and Criminal Procedure, amending sections 3796gg–6, 14132, 14133, 14135, 14135a, and 14135e of this title and section 1565 of Title 10, Armed Forces, and enacting provisions set out as notes under section 3297 of Title 18 and section 531 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Debbie Smith Act of 2004’.”
+
+Pub. L. 108–405, title III, §301, Oct. 30, 2004, 118 Stat. 2272, provided that: “This title \[enacting sections 14136 to 14136d of this title, amending sections 3793, 3796gg to 3796gg–5, 3797k, 3797m, 14132, and 14135e of this title, and enacting provisions set out as a note under section 3796gg–1 of this title\] may be cited as the ‘DNA Sexual Assault Justice Act of 2004’.”
+
 #### Short Title of 2000 Amendments
 
 Pub. L. 106–560, §1, Dec. 21, 2000, 114 Stat. 2784, provided that: “This Act \[enacting sections 13726 to 13726c of this title\] may be cited as the ‘Interstate Transportation of Dangerous Criminals Act of 2000’ or ‘Jeanna's Act’.”
@@ -30,7 +38,7 @@ Pub. L. 106–297, §1, Oct. 13, 2000, 114 Stat. 1045, provided that: “This Ac
 
 #### Short Title of 1996 Amendments
 
-Pub. L. 104–236, §1, Oct. 3, 1996, 110 Stat. 3093, provided that: “This Act \[enacting sections 14072 and 14073 ofthis title, amending section 14071 of this title, and enacting provisions set out as notes under section 14071 of this title\] may be cited as the ‘Pam Lychner Sexual Offender Tracking and Identification Act of 1996’.”
+Pub. L. 104–236, §1, Oct. 3, 1996, 110 Stat. 3093, provided that: “This Act \[enacting sections 14072 and 14073 of this title, amending section 14071 of this title, and enacting provisions set out as notes under section 14071 of this title\] may be cited as the ‘Pam Lychner Sexual Offender Tracking and Identification Act of 1996’.”
 
 Pub. L. 104–145, §1, May 17, 1996, 110 Stat. 1345, provided that: “This Act \[amending section 14071 of this title\] may be cited as ‘Megan's Law’.”
 
@@ -56,11 +64,7 @@ Section 200101 of title XX of Pub. L. 103–322 provided that: “This subtitle 
 
 Section 200201 of title XX of Pub. L. 103–322 provided that: “This subtitle \[subtitle B (§§200201–200210) of title XX of Pub. L. 103–322, enacting part B (§14111 et seq.) of subchapter VIII of this chapter\] may be cited as the ‘Law Enforcement Scholarships and Recruitment Act’.”
 
-Section 210301 of title XXI of Pub. L. 103–322 provided that: “This subtitle \[subtitle C (§§210301–210306) of title XXI of Pub. L. 103–322, enacting part A (§14131 et seq.) of subchapter IX of this chapter and sections 3796kk to 3796kk–6 of this title, amending sections 3751, 3753, 3793, and 3797 of this title, and enacting provisions set out as a note under section 3751 of this title\] may be cited as the ‘DNA Identification Act of 1994’.”
+Section 210301 of title XXI of Pub. L. 103–322 provided that: “This subtitle \[subtitle C (§§210301–210306) of title XXI of Pub. L. 103–322, enacting part A (§14131 et seq.)of subchapter IX of this chapter and sections 3796kk to 3796kk–6 of this title, amending sections 3751, 3753, 3793, and 3797 of this title, and enacting provisions set out as a note under section 3751 of this title\] may be cited as the ‘DNA Identification Act of 1994’.”
 
 Section 220001 of title XXII of Pub. L. 103–322 provided that: “This title \[enacting subchapter X (§14171) of this chapter and section 511A of Title 18, Crimes and Criminal Procedure, and amending section 511 of Title 18\] may be cited as the ‘Motor Vehicle Theft Prevention Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13705, 14214 of this title.
 

@@ -4,7 +4,3 @@ Employers shall file with the Board, in such manner and form and at such times a
 
 (Aug. 29, 1935, ch. 812, §9, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1343.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 231, 231b, 231f of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—TRANSFERABLE RECORDS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 7001, 7002 of this title.
-
 
 ---
 

@@ -1,6 +1,6 @@
 ### §2005. Obligations
 
-(a)(1) The Postal Service is authorized to borrow money and to issue and sell such obligations as it determines necessary to carry out the purposes of this title. The aggregate amount of any such obligations outstanding at any one time shall not exceed the maximum amount then allowable under paragraph (2) of this subsection.In any one fiscal year the net increase in the amount of obligations outstanding issued for the purpose of capital improvements shall not exceed $2,000,000,000, and the net increase in the amount of obligations outstanding issued for the purpose of defraying operating expenses of the Postal Service shall not exceed $1,000,000,000.
+(a)(1) The Postal Service is authorized to borrow money and to issue and sell such obligations as it determines necessary to carry out the purposes of this title. The aggregate amount of any such obligations outstanding at any one time shall not exceed the maximum amount then allowable under paragraph (2) of this subsection. In any one fiscal year the net increase in the amount of obligations outstanding issued for the purpose of capital improvements shall not exceed $2,000,000,000, and the net increase in the amount of obligations outstanding issued for the purpose of defraying operating expenses of the Postal Service shall not exceed $1,000,000,000.
 
 (2) The maximum amount allowable under this paragraph is—
 
@@ -57,8 +57,4 @@ Section 3(b) of Pub. L. 101–227 provided that:
 “(1) Subject to the provisions of paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1990.
 
 “(2) Notwithstanding any other provision of this section, the amendments made by subsection (a) shall not take effect, if no law to provide for reconciliation pursuant to section 5 of the concurrent resolution on the budget for the fiscal year 1990 is enacted before October 1, 1990.” \[Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, Dec. 19, 1989, 103 Stat. 2106, was enacted Dec. 19, 1989.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2006 of this title.
 

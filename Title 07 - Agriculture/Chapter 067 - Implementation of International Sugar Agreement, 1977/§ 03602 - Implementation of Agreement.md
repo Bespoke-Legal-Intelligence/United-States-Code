@@ -54,7 +54,3 @@ By the authority vested in me as President of the United States of America by an
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3604 of this title.
-

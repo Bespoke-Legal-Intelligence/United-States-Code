@@ -28,7 +28,3 @@ Section 509 of act Apr. 20, 1950, provided that: “Insofar as the provisions of
 
 Section 510 of act Apr. 20, 1950, provided that: “Except as may be otherwise expressly provided in this Act \[see Tables for classification\] all powers and authorities conferred by this Act shall be cumulative and additional to and not in derogation of any powers and authorities otherwise existing. Notwithstanding any other evidences of the intention of Congress, it is hereby declared to be the controlling intent of Congress that if any provisions of this Act, or the application thereof to any persons or circumstances, shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder of this Act or its applications to other persons and circumstances, but shall be confined in its operation to the provisions of this Act, or the application thereof to the persons and circumstances, directly involved in the controversy in which such judgment shall have been rendered.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 28 section 2410.
-

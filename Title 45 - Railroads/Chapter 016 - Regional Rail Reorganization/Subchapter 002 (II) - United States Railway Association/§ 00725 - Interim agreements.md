@@ -42,7 +42,3 @@ See section 1341 of this title.
 
 Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 723, 726, 743 of this title.
-

@@ -4,7 +4,3 @@ There are authorized to be appropriated to the Department of State for the use o
 
 (Pub. L. 88–300, §9, Apr. 29, 1964, 78 Stat. 186.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 277d–17, 277d–18, 277d–22, 277d–24 of this title.
-

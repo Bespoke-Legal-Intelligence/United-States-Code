@@ -12,7 +12,3 @@ This Act, referred to in text, is Pub. L. 89–387, Apr. 13, 1966, 80 Stat. 107,
 
 “Subchapter II of chapter 5, and chapter 7, of title 5” substituted in text for “The Administrative Procedure Act (5 U.S.C. 1001–1011)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 267 of this title.
-

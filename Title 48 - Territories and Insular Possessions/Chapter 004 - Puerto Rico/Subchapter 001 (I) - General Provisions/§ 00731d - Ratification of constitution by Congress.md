@@ -14,7 +14,3 @@ Section was not enacted as part of the Puerto Rican Federal Relations Act which 
 
 Constitution of the Commonwealth of Puerto Rico was approved by the Constitutional Convention of Puerto Rico on Feb. 6, 1952; ratified by the people of Puerto Rico on Mar. 3, 1952; amended and approved by Congress by Joint Res. July 3, 1952, ch. 567, 66 Stat. 327; proclaimed by the Governor of Puerto Rico to be in force and effect on July 25, 1952.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 731b, 731c of this title.
-

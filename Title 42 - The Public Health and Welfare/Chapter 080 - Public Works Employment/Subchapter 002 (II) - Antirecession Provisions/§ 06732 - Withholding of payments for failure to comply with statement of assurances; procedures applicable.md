@@ -4,7 +4,3 @@ Whenever the Secretary, after affording reasonable notice and an opportunity for
 
 (Pub. L. 94–369, title II, §212, July 22, 1976, 90 Stat. 1009.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6736 of this title.
-

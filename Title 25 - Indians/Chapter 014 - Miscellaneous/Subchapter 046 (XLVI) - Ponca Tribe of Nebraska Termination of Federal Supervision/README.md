@@ -1,9 +1,5 @@
 ### SUBCHAPTER XLVI—PONCA TRIBE OF NEBRASKA: TERMINATION OF FEDERAL SUPERVISION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 983b of this title.
-
 
 ---
 

@@ -10,7 +10,7 @@
 
 (b) In this section, “United States person” and “foreign person controlled by a United States person” have the same meanings given those terms in section 7(f)(2)(A) and (C), respectively, of the Securities and Exchange Act of 1934 (15 U.S.C. 78g(f)(2)(A), (C)).
 
-(c) The Secretary of the Treasury shall prescribe regulations consistent with subsection (a)of this section requiring reports on foreign currency transactions conducted by a United States person or a foreign person controlled by a United States person. The regulations shall require that a report contain information and be submitted at the time and in the way, with reasonable exceptions and classifications, necessary to carry out this section.
+(c) The Secretary of the Treasury shall prescribe regulations consistent with subsection (a) of this section requiring reports on foreign currency transactions conducted by a United States person or a foreign person controlled by a United States person. The regulations shall require that a report contain information and be submitted at the time and in the way, with reasonable exceptions and classifications, necessary to carry out this section.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 997.)
 
@@ -39,8 +39,4 @@ In subsection (c), the words “(hereafter referred to as the ‘Secretary’)�
 #### References in Text
 
 Section 5(b) of the Trading With the Enemy Act, referred to in subsec. (a)(3), is also classified to section 95a of Title 12, Banks and Banking.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5311, 5313, 5318, 5321, 5322 of this title.
 

@@ -84,9 +84,5 @@ A prior section 11 of Pub. L. 102–259 was renumbered section 13 and is classif
 
 Subsec. (e). Pub. L. 105–277, §101(h) \[title V, §517(a)(2)\], added subsec. (e).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5607a of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -18,7 +18,3 @@ The Director of the Institute shall make grants to public and private nonprofit 
 
 (July 1, 1944, ch. 373, title IV, §444, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 854.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 285e–10 of this title.
-

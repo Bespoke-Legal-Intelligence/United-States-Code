@@ -4,7 +4,7 @@
 
 (1) Effective with the publication in the Federal Register of the Hoopa tribal resolution as provided in paragraph (2), the joint reservation shall be partitioned as provided in subsections (b) and (c) of this section.
 
-(2)(A) The partition of the joint reservation as provided in this subsection, and the ratification and confirmation as provided by section 1300i–7 of this title, shall not become effective unless, within 60 days after October 31, 1988, the Hoopa Valley Tribe shall adopt, and transmit to the Secretary, a tribal resolution:
+(2)(A) The partition of the joint reservation as provided in this subsection, and the ratificationand confirmation as provided by section 1300i–7 of this title, shall not become effective unless, within 60 days after October 31, 1988, the Hoopa Valley Tribe shall adopt, and transmit to the Secretary, a tribal resolution:
 
 &emsp;(i) waiving any claim such tribe may have against the United States arising out of the provisions of this subchapter, and
 
@@ -97,10 +97,6 @@ Settlement of Claims.—The transfer of lands to trust status under this section
 &emsp;“(1) All claims on land now administered as part of the Six Rivers National Forest based on the allegation of error in establishing the boundaries of the Hoopa Valley Reservation, as those boundaries were configured before the date of the enactment of this Act \[Nov. 13, 1997\].
 
 &emsp;“(2) All claims of failure to pay just compensation for a taking under the fifth amendment to the United States Constitution, if such claims are based on activities, occurring before the date of the enactment of this Act, related to the lands transferred to trust status under this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300i, 1300i–11 of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

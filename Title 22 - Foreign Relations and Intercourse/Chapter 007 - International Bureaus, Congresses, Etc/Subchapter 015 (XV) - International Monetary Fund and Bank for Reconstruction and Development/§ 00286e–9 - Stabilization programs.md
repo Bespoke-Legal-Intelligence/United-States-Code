@@ -1,6 +1,6 @@
 ### §286e–9. Stabilization programs
 
-The Secretary of the Treasury shall instruct the United States executive director on the Executive Board of the International Monetary Fund to initiate a wide consultation with the managing director of the Fund and other member country executive directors with regard to encouraging the staff of the Fund to formulate stabilization programs which, to the maximum feasible extent, foster a broader base of productive investment and employment, especially in those productive activities which are designed to meet basic human needs.
+The Secretary of the Treasury shall instruct the United States executive director on the Executive Board of the International MonetaryFund to initiate a wide consultation with the managing director of the Fund and other member country executive directors with regard to encouraging the staff of the Fund to formulate stabilization programs which, to the maximum feasible extent, foster a broader base of productive investment and employment, especially in those productive activities which are designed to meet basic human needs.
 
 (July 31, 1945, ch. 339, §30, as added Pub. L. 95–435, §4, Oct. 10, 1978, 92 Stat. 1052; amended Pub. L. 96–389, §2(b), Oct. 7, 1980, 94 Stat. 1553; Pub. L. 101–240, title V, §541(d)(1), (f)(2), Dec. 19, 1989, 103 Stat. 2518, 2519.)
 

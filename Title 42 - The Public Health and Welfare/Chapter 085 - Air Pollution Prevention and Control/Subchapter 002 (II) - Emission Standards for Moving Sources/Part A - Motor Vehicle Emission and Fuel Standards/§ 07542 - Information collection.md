@@ -38,7 +38,3 @@ Subsec. (b). Pub. L. 91–604, §§10(a), 15(c)(2), substituted provisions autho
 
 1967—Pub. L. 90–148 reenacted section without change.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7414, 7521, 7522, 7525, 7547, 7550, 7607 of this title.
-

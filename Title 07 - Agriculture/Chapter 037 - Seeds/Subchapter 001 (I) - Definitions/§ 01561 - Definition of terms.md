@@ -124,7 +124,7 @@ Subsec. (a)(9)(A)(ii). Act Aug. 1, 1956, §1(b), inserted “Guam” after “Pu
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–581, §16, provided that: “This Act, and the amendments \[amending sections 1561, 1562, 1571 to 1574, 1581, 1582, and 1586 of this title\] made hereby, shall take effect upon the date of enactment \[Aug. 1, 1958\].”
+Pub. L. 85–581, §16, provided that: “This Act, and the amendments \[amending sections 1561, 1562, 1571 to 1574,1581, 1582, and 1586 of this title\] made hereby, shall take effect upon the date of enactment \[Aug. 1, 1958\].”
 
 #### Effective Date
 
@@ -137,8 +137,4 @@ Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 326
 c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat.
 
 c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1571 of this title.
 

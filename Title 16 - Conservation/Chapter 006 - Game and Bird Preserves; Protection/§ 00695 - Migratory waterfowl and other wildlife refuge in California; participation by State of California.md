@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to purchase or rent not to exceed tw
 
 (May 18, 1948, ch. 303, §1, 62 Stat. 238.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 695a, 695b, 695c of this title.
-

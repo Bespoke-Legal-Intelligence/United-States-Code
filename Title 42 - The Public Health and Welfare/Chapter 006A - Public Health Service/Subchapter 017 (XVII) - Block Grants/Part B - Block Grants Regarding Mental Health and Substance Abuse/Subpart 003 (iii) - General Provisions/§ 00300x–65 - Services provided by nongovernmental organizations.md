@@ -70,7 +70,7 @@ A religious organization providing services through a grant, contract, or cooper
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), any religious organization providing services under any substance abuse program under this subchapter or subchapter III–A of this chapter shall be subject to the same regulations asother nongovernmental organizations to account in accord with generally accepted accounting principles for the use of such funds provided under such program.
+&emsp;Except as provided in paragraph (2), any religious organization providing services under any substance abuse program under this subchapter or subchapter III–A of this chapter shall be subject to the same regulations as other nongovernmental organizations to account in accord with generally accepted accounting principles for the use of such funds provided under such program.
 
 #### (2) Limited audit
 

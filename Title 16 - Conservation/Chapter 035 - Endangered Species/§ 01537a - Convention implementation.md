@@ -20,7 +20,7 @@ If the United States votes against including any species in Appendix I or II of 
 
 #### (e) Wildlife preservation in Western Hemisphere
 
-(1) The Secretary of the Interior (hereinafter in this subsection referred to as the “Secretary”), in cooperation with the Secretary of State, shall act on behalf of, and represent, the United States in all regards as required by the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere (56 Stat. 1354, T.S. 982, hereinafter in this subsection referred to as the “Western Convention”). In the discharge of these responsibilities, the Secretary and the Secretary of State shall consult with the Secretary of Agriculture, the Secretary of Commerce, and the heads of other agencies with respect to matters relating to or affecting their areas of responsibility.
+(1) The Secretary of the Interior (hereinafter in this subsection referred to as the “Secretary”), in cooperation with the Secretary of State, shall act on behalf of, and represent, the United States in all regards as required by the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere (56 Stat. 1354, T.S. 982, hereinafter in this subsection referred to as the “Western Convention”). In the discharge of these responsibilities, the Secretary and the Secretary of State shallconsult with the Secretary of Agriculture, the Secretary of Commerce, and the heads of other agencies with respect to matters relating to or affecting their areas of responsibility.
 
 (2) The Secretary and the Secretary of State shall, in cooperation with the contracting parties to the Western Convention and, to the extent feasible and appropriate, with the participation of State agencies, take such steps as are necessary to implement the Western Convention. Such steps shall include, but not be limited to—
 
@@ -55,8 +55,4 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 #### Endangered Species Scientific Authority; Interim Performance of Functions of Commission
 
 Section 6(b) of Pub. L. 96–159 provided that until such time as the Chairman, Members, and Executive Secretary of the International Convention Advisory Commission are appointed, but not later than 90 days after Dec. 28, 1979, the functions of the Commission be carried out by the Endangered Species Scientific Authority as established by Ex. Ord. No. 11911, formerly set out as a note under section 1537 of this title, with staff and administrative support being provided by the Secretary of the Interior as set forth in that Executive Order.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1542, 2912 of this title.
 

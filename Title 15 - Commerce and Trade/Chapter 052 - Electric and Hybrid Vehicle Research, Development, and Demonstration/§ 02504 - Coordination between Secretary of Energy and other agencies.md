@@ -18,7 +18,3 @@ In subsec. (a), “Secretary of Transportation” substituted for “Secretary�
 
 “Secretary of Energy” substituted in text for “Administrator” pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2507 of this title; title 42 section 2473.
-

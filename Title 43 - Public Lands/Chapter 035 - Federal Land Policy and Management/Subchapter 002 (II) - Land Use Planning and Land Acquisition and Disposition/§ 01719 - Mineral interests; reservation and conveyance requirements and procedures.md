@@ -16,7 +16,3 @@
 
 (Pub. L. 94–579, title II, §209, Oct. 21, 1976, 90 Stat. 2757.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 299, 2304 of this title; title 30 section 193.
-

@@ -178,7 +178,7 @@ Pub. L. 106–569, title V, §512, Dec. 27, 2000, 114 Stat. 2966, provided that:
 
 &emsp;&emsp;“(B) the enactment of the Act entitled ‘An Act to provide for the admission of the State of Hawaii into the Union’, approved March 18, 1959 (73 Stat. 4) \[Pub. L. 86–3, 48 U.S.C. note prec. 491\]—
 
-&emsp;&emsp;&emsp;“(i) by ceding to the State of Hawaii title to the public lands formerly held by the United States, and mandating that those lands be held in public trust, for the betterment of the conditions of Native Hawaiians, as that term is defined in section 201 of the Hawaiian Homes Commission Act, 1920 (42 Stat. 108 et seq.); and
+&emsp;&emsp;&emsp;“(i) by ceding to the State of Hawaii title to the public lands formerly held by the United States,and mandating that those lands be held in public trust, for the betterment of the conditions of Native Hawaiians, as that term is defined in section 201 of the Hawaiian Homes Commission Act, 1920 (42 Stat. 108 et seq.); and
 
 &emsp;&emsp;&emsp;“(ii) by transferring the United States responsibility for the administration of Hawaiian Home Lands to the State of Hawaii, but retaining the authority to enforce the trust, including the exclusive right of the United States to consent to any actions affecting the lands which comprise the corpus of the trust and any amendments to the Hawaiian Homes Commission Act, 1920 (42 Stat. 108 et seq.), enacted by the legislature of the State of Hawaii affecting the rights of beneficiaries under the Act;
 

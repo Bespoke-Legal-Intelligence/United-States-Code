@@ -120,6 +120,10 @@ Section 503(c) of title V of Pub. L. 100–607 provided that:
 
 “(2) Section 903(b)(1) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 393(b)(1)\] (as added by subsection (a) of this section) shall apply to the appointments of Commissioners of Food and Drugs made after the date of enactment of this Act.”
 
+#### Office of Minor Use and Minor Species Animal Drug Development
+
+Pub. L. 108–282, title I, §102(b)(7), Aug. 2, 2004, 118 Stat. 905, provided that: “The Secretary of Health and Human Services shall establish within the Center for Veterinary Medicine (of the Food and Drug Administration), an Office of Minor Use and Minor Species Animal Drug Development that reports directly to the Director of the Center for Veterinary Medicine. This office shall be responsible for overseeing the development and legal marketing of new animal drugs for minor uses and minor species. There is authorized to be appropriated to carry out this subsection $1,200,000 for fiscal year 2004 and such sums as may be necessary for each fiscal year thereafter.”
+
 #### Regulations for Sunscreen Products
 
 Section 129 of Pub. L. 105–115 provided that: “Not later than 18 months after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue regulations for over-the-counter sunscreen products for the prevention or treatment of sunburn.”
@@ -173,8 +177,4 @@ Section 502 of Pub. L. 100–607 provided that: “Congress finds that—
 &emsp;“(2) the presence and importance of the Food and Drug Administration must be guaranteed; and
 
 &emsp;“(3) the independence and integrity of the Food and Drug Administration need to be enhanced in order to ensure the continuing protection of the public health.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 360m, 374 of this title.
 

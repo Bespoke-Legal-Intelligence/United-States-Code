@@ -110,7 +110,3 @@ Subsec. (d)(2)(B). Pub. L. 107–355, §3(c)(3), added subpar. (B) and struck ou
 
 Subsec. (d)(2). Pub. L. 104–304, §14, added subpar. (B) and redesignated former subpar. (B) as (C).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 60108 of this title; title 18 sections 2332b, 2339A, 2516.
-

@@ -14,7 +14,3 @@ The Independent Offices Appropriation Act, 1955, as amended, referred to in text
 
 Section was enacted as part of the Department of Housing and Urban Development-Independent Agencies Appropriation Act, 1984, and not as part of the National Housing Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1701g–5b of this title.
-

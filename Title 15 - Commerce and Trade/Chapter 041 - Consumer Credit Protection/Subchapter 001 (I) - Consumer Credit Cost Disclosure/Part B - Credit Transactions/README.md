@@ -1,8 +1,6 @@
 Part B—Credit Transactions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1610 of this title.
+<i><sup>1</sup></i><i> So in original. Probably should be “de minimis”.</i>
 
 
 ---

@@ -42,7 +42,7 @@
 
 #### (ii) Multiple actions
 
-&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the same claim or claims arising under this chapter is filed, only the plaintiff or plaintiffs in the first filed action shall be required to cause notice to be published in accordance with clause (i).
+&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the sameclaim or claims arising under this chapter is filed, only the plaintiff or plaintiffs in the first filed action shall be required to cause notice to be published in accordance with clause (i).
 
 #### (iii) Additional notices may be required under Federal rules
 
@@ -146,7 +146,7 @@
 
 #### (9) Attorney conflict of interest
 
-&emsp;If a plaintiff class is represented by an attorney who directly owns or otherwise has a beneficial interest in the securities that are the subject of the litigation, the court shall make a determination of whether such ownership orother interest constitutes a conflict of interest sufficient to disqualify the attorney from representing the plaintiff class.
+&emsp;If a plaintiff class is represented by an attorney who directly owns or otherwise has a beneficial interest in the securities that are the subject of the litigation, the court shall make a determination of whether such ownership or other interest constitutes a conflict of interest sufficient to disqualify the attorney from representing the plaintiff class.
 
 #### (b) Requirements for securities fraud actions
 
@@ -178,7 +178,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;During the pendency of any stay of discovery pursuant to this paragraph, unless otherwise ordered by the court, any party to the action with actual notice of the allegations contained in the complaint shall treat all documents, data compilations (including electronically recorded or stored data), and tangible objects that are in the custody or control of such person and that are relevant to the allegations, as if they were the subject of a continuing request for production of documents from an opposing party under the Federal Rules of Civil Procedure.
+&emsp;&emsp;&emsp;During the pendency of any stay of discovery pursuant to this paragraph, unlessotherwise ordered by the court, any party to the action with actual notice of the allegations contained in the complaint shall treat all documents, data compilations (including electronically recorded or stored data), and tangible objects that are in the custody or control of such person and that are relevant to the allegations, as if they were the subject of a continuing request for production of documents from an opposing party under the Federal Rules of Civil Procedure.
 
 #### (ii) Sanction for willful violation
 
@@ -236,7 +236,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (2) Exception
 
-&emsp;In any private action arising under this chapter in which the plaintiff seeks to establish damages by reference to the market price of a security, if the plaintiff sells or repurchases the subject security prior to the expiration of the 90-day period described in paragraph (1), the plaintiff's damages shall not exceed the difference between the purchase or sale price paid or received, as appropriate, by the plaintiff for the security and the mean trading price of the security during the period beginning immediately after dissemination of information correcting the misstatement or omission and ending on the date on which the plaintiff sells or repurchases the security.
+&emsp;In any private action arising under this chapter in which the plaintiff seeks to establish damages by reference to the market price of a security, if the plaintiff sells or repurchases the subject security prior to the expiration of the 90-day period described in paragraph (1), the plaintiff's damages shall not exceed the difference between the purchase or sale price paid or received, as appropriate, by the plaintiff for the security and the mean trading price of the security during the period beginning immediately after dissemination of information correcting the misstatement oromission and ending on the date on which the plaintiff sells or repurchases the security.
 
 #### (3) “Mean trading price” defined
 
@@ -417,10 +417,6 @@ This section not to affect or apply to any private action arising under this cha
 #### Construction
 
 Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 77k of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “if,”.</i>
 

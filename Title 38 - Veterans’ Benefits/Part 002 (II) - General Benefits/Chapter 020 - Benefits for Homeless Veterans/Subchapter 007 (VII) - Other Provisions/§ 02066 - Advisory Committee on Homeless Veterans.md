@@ -64,7 +64,7 @@ Duties.—(1) The Secretary shall consult with and seek the advice of the Commit
 
 &emsp;(E) identify opportunities for increased liaison by the Department with nongovernmental organizations and individual groups providing services to homeless populations;
 
-&emsp;(F) with appropriate officials of the Department designated by the Secretary, participate with the Interagency Council on the Homeless under title II of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11311 et seq.);
+&emsp;(F) with appropriate officials of the Department designated by the Secretary, participate with the Interagency Council on the Homelessunder title II of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11311 et seq.);
 
 &emsp;(G) recommend appropriate funding levels for specialized programs for homeless veterans provided or funded by the Department;
 
@@ -99,4 +99,8 @@ Termination.—The Committee shall cease to exist December 31, 2006.
 #### References in Text
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(3)(F), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title II of the Act is classified generally to subchapter II (§11311 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+
+#### Change of Name
+
+Interagency Council on the Homeless changed to United States Interagency Council on Homelessness by Pub. L. 108–199, div. G, title II, §216, Jan. 23, 2004, 118 Stat. 394.
 

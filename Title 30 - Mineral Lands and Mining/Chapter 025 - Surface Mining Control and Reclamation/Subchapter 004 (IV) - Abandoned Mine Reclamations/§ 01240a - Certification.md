@@ -54,7 +54,3 @@ A prior section 411 of Pub. L. 95–87 was renumbered section 412 and was classi
 
 Section effective Oct. 1, 1991, see section 6014 of Pub. L. 101–508 set out as an Effective Date of 1990 Amendment note under section 1231 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1231, 1232, 1233, 1234, 1239 of this title.
-

@@ -38,6 +38,12 @@ Pub. L. 107–207, §1, Aug. 5, 2002, 116 Stat. 926, provided that: “This Act 
 
 Pub. L. 104–199, §1, Sept. 21, 1996, 110 Stat. 2419, provided that: “This Act \[enacting section 7 of this title and section 1738C of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Defense of Marriage Act’.”
 
+#### References in Consolidated Appropriations Acts
+
+Pub. L. 108–447, §3, Dec. 8, 2004, 118 Stat. 2810, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act \[Consolidated Appropriations Act, 2005, see Tables for classification\] shall be treated as referring only to the provisions of that division.”
+
+Pub. L. 108–199, §3, Jan. 23, 2004, 118 Stat. 4, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act \[Consolidated Appropriations Act, 2004, see Tables for classification\] shall be treated as referring only to the provisions of that division.”
+
 #### References in Pub. L. 108–7
 
 Pub. L. 108–7, §3, Feb. 20, 2003, 117 Stat. 12, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this joint resolution \[Consolidated Appropriations Resolution, 2003, see Tables for classification\] shall be treated as referring only to the provisions of that division.”
@@ -45,8 +51,4 @@ Pub. L. 108–7, §3, Feb. 20, 2003, 117 Stat. 12, provided that: “Except as e
 #### Continental United States
 
 Section 48 of Pub. L. 86–70, June 25, 1959, 73 Stat. 154, provided that: “Whenever the phrase ‘continental United States’ is used in any law of the United States enacted after the date of enactment of this Act \[June 25, 1959\], it shall mean the 49 States on the North American Continent and the District of Columbia, unless otherwise expressly provided.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 241; title 10 section 101; title 16 section 2402; title 20 section 5607b; title 28 section 3701; title 30 sections 1511, 1531; title 31 section 5312; title 32 section 101; title 37 section 101; title 39 section 5215; title 42 section 14902; title 49 sections 5102, 10102, 13102, 40102, 60101.
 

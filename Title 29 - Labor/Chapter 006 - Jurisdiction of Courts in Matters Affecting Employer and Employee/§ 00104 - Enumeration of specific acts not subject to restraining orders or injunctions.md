@@ -22,7 +22,3 @@ No court of the United States shall have jurisdiction to issue any restraining o
 
 (Mar. 23, 1932, ch. 90, §4, 47 Stat. 70.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 105 of this title.
-

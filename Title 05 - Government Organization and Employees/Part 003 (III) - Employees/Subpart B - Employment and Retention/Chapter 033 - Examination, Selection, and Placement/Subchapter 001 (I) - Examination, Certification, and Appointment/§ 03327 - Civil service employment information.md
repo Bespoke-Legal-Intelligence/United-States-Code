@@ -20,7 +20,3 @@ A prior section 3327, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 424, which presc
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3304, 3330 of this title.
-

@@ -6,7 +6,7 @@ Notwithstanding section 3504 of this title, the appropriate Federal officer, aft
 
 &emsp;(1) Any use or facility necessary for the exploration, extraction, or transportation of energy resources which can be carried out only on, in, or adjacent to a coastal water area because the use or facility requires access to the coastal water body.
 
-&emsp;(2) The maintenance or construction of improvements of existing Federal navigation channels (including the Intracoastal Waterway) and related structures (such as jetties), including the disposal of dredge materials related to such maintenance or construction.
+&emsp;(2) The maintenance or construction of improvements of existing Federal navigationchannels (including the Intracoastal Waterway) and related structures (such as jetties), including the disposal of dredge materials related to such maintenance or construction.
 
 &emsp;(3) The maintenance, replacement, reconstruction, or repair, but not the expansion, of publicly owned or publicly operated roads, structures, or facilities that are essential links in a larger network or system.
 
@@ -86,11 +86,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Expansion of Highways in Michigan
 
-Section 204(d) of Pub. L. 100–707 exempted existing highways in Michigan from limitations on the use of Federal expenditures or financial assistance within the Coastal Barrier Resources System under 16 U.S.C. 3505(a)(3) if the Congress added new units to the Coastal Barrier Resources System under 16 U.S.C. 3503, andthose units included portions of United States or State highways in the State of Michigan, prior to repeal by Pub. L. 101–591, §5(b), Nov. 16, 1990, 104 Stat. 2936. See section 3505(c) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3504 of this title.
+Section 204(d) of Pub. L. 100–707 exempted existing highways in Michigan from limitations on the use of Federal expenditures or financial assistance within the Coastal Barrier Resources System under 16 U.S.C. 3505(a)(3) if the Congress added new units to the Coastal Barrier Resources System under 16 U.S.C. 3503, and those units included portions of United States or State highways in the State of Michigan, prior to repeal by Pub. L. 101–591, §5(b), Nov. 16, 1990, 104 Stat. 2936. See section 3505(c) of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

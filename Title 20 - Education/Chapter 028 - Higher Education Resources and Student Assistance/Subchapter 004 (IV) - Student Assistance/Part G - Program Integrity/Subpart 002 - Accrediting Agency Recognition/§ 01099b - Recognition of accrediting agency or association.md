@@ -46,7 +46,7 @@ No accrediting agency or association may be determined by the Secretary to be a 
 
 &emsp;&emsp;(I) record of student complaints received by, or available to, the agency or association; and
 
-&emsp;&emsp;(J) record of compliance with its program responsibilities under this subchapter andpart C of subchapter I of chapter 34 of title 42 based on the most recent student loan default rate data provided by the Secretary, the results of financial or compliance audits, program reviews, and such other information as the Secretary may provide to the agency or association;
+&emsp;&emsp;(J) record of compliance with its program responsibilities under this subchapter and part C of subchapter I of chapter 34 of title 42 based on the most recent student loan default rate data provided by the Secretary, the results of financial or compliance audits, program reviews, and such other information as the Secretary may provide to the agency or association;
 
 > &emsp;except that subparagraphs (A), (H), and (J) shall not apply to agencies or associations described in paragraph (2)(A)(ii) of this subsection;
 
@@ -158,7 +158,7 @@ The Secretary may only recognize accrediting agencies or associations which accr
 
 &emsp;(A) the solicitation of third-party information concerning the performance of the accrediting agency or association; and
 
-&emsp;(B) site visits, including unannounced site visits as appropriate, at accrediting agenciesand associations, and, at the Secretary's discretion, at representative member institutions.
+&emsp;(B) site visits, including unannounced site visits as appropriate, at accrediting agencies and associations, and, at the Secretary's discretion, at representative member institutions.
 
 (2) The Secretary shall place a priority for review of accrediting agencies or associations on those agencies or associations that accredit institutions of higher education that participate most extensively in the programs authorized by this subchapter and part C of subchapter I of chapter 34 of title 42 and on those agencies or associations which have been the subject of the most complaints or legal actions.
 
@@ -222,7 +222,7 @@ Subsec. (k). Pub. L. 105–244, §§102(b)(5), 492(d)(4)(A), amended subsec. (k)
 
 Subsec. (k)(2). Pub. L. 105–244, §492(d)(4)(B), substituted “criteria” for “standards”.
 
-Subsec. (<i>l</i>). Pub. L. 105–244, §492(d)(5), substituted “recognition” for “approval” in heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary shall limit, suspend, or terminate the approval of an accrediting agency or association if theSecretary determines, after notice and opportunity for a hearing, that the accrediting agency or association has failed to apply effectively the standards or operate according to the procedures provided in this section.”
+Subsec. (<i>l</i>). Pub. L. 105–244, §492(d)(5), substituted “recognition” for “approval” in heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary shall limit, suspend, or terminate the approval of an accrediting agency or association if the Secretary determines, after notice and opportunity for a hearing, that the accrediting agency or association has failed to apply effectively the standards or operate according to the procedures provided in this section.”
 
 Subsec. (n)(1). Pub. L. 105–244, §492(d)(6)(A), substituted “criteria” for “standards” in introductory provisions.
 
@@ -256,23 +256,5 @@ Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a
 
 #### Study of Transfer of Credits
 
-Pub. L. 105–244, title VIII, §804, Oct. 7, 1998, 112 Stat. 1806, provided that:
-
-“(a)
-
-Study Required.—The Secretary of Education shall conduct a study to evaluate policies or practices instituted by recognized accrediting agencies or associations regarding the treatment of the transfer of credits from one institution of higher education to another, giving particular attention to—
-
-&emsp;“(1) adopted policies regarding the transfer of credits between institutions of higher education which are accredited by different agencies or associations and the reasons for such policies;
-
-&emsp;“(2) adopted policies regarding the transfer of credits between institutions of higher education which are accredited by national agencies or associations and institutions of higher education which are accredited by regional agencies and associations and the reasons for such policies;
-
-&emsp;“(3) the effect of the adoption of such policies on students transferring between such institutions of higher education, including time required to matriculate, increases to the student of tuition and fees paid, and increases to the student with regard to student loan burden;
-
-&emsp;“(4) the extent to which Federal financial aid is awarded to such students for the duplication of coursework already completed at another institution; and
-
-&emsp;“(5) the aggregate cost to the Federal Government of the adoption of such policies.
-
-“(b)
-
-Report.—Not later than one year after the date of enactment of this Act \[Oct. 7, 1998\], the Secretary of Education shall submit a report to the Chairman and Ranking Minority Member of the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate detailing the Secretary's findings regarding the study conducted under subsection (a). The Secretary's report shall include such recommendation with respect to the recognition of accrediting agencies or associations as the Secretary deems advisable.”
+Pub. L. 105–244, title VIII, §804, Oct. 7, 1998, 112 Stat. 1806, directed the Secretary of Education to conduct a study to evaluate policies or practices instituted by recognized accrediting agencies or associations regarding the treatment of the transfer of credits from one institution of higher education to another and to submit, not later than one year after Oct. 7, 1998, a report to Congress detailing the Secretary's findings regarding the study, including such recommendation with respect to the recognition of accrediting agencies or associations as the Secretary deemed advisable.
 

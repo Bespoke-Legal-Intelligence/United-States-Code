@@ -26,7 +26,3 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 25 section 374.
-

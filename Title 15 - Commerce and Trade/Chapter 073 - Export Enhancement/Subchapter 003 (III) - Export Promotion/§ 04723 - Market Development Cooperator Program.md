@@ -44,7 +44,3 @@ Contracts may be entered into under this section in a fiscal year only to such e
 
 (Pub. L. 100–418, title II, §2303, Aug. 23, 1988, 102 Stat. 1342.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4051, 4052, 4723a of this title; title 22 section 5823.
-

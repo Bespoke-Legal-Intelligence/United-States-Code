@@ -34,7 +34,7 @@ The specific objective of the United States under this subchapter shall be to cr
 
 &emsp;&emsp;Any extension of subparagraphs (B), (C), (D), and (E) of section 1677(5B) of this title shall take effect if (and only if)—
 
-&emsp;&emsp;&emsp;(i) after the Subsidies Committee determines to extend Articles 6.1, 8, and 9 of the Subsidies Agreement, the President submits to the committees referred to in paragraph (2) a copy of the document describing the terms of such extension, together with—
+&emsp;&emsp;&emsp;(i) after the Subsidies Committee determines to extend Articles 6.1, 8, and 9 of the Subsidies Agreement, the President submits to the committees referred to inparagraph (2) a copy of the document describing the terms of such extension, together with—
 
 &emsp;&emsp;&emsp;&emsp;(I) a draft of an implementing bill,
 
@@ -97,8 +97,4 @@ Section is comprised of section 282 of Pub. L. 103–465. Subsec. (c)(4) of sect
 #### Uruguay Round Agreements: Entry Into Force
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1677, 2191 of this title.
 

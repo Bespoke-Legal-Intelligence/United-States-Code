@@ -84,7 +84,7 @@ It shall be the function of the Access Board to—
 
 &emsp;(6) determine what measures are being taken by Federal, State, and local governments and by other public or nonprofit agencies to eliminate the barriers described in paragraph (5);
 
-&emsp;(7) promote the use of the International Accessibility Symbol in all public facilities that are in compliance with the standards prescribed by the Administrator of General Services, the Secretary of Defense, and the Secretary of Housing and Urban Development pursuant to the Act commonly known as the Architectural Barriers Act of 1968;
+&emsp;(7) promote the use of the International Accessibility Symbol in all public facilities thatare in compliance with the standards prescribed by the Administrator of General Services, the Secretary of Defense, and the Secretary of Housing and Urban Development pursuant to the Act commonly known as the Architectural Barriers Act of 1968;
 
 &emsp;(8) make to the President and to the Congress reports that shall describe in detail the results of its investigations under paragraphs (5) and (6);
 
@@ -100,7 +100,7 @@ The Access Board shall also (1)(A) determine how and to what extent transportati
 
 #### (d) Electronic and information technology accessibility training
 
-Beginning in fiscal year 2000, the Access Board, after consultation with the Secretary, representatives of such public and private entities as the Access Board determines to be appropriate (including the electronic and information technology industry), targeted individuals (as defined in section 3002 of this title), and State information technology officers, shall provide training for Federal and State employees on any obligations related to section 794d of this title.
+Beginning in fiscal year 2000, the Access Board, after consultation with the Secretary, representatives of such public and private entities as the Access Board determines to be appropriate (including the electronic and information technology industry), targeted individuals and entities (as defined in section 3002 of this title), and State information technology officers, shall provide training for Federal and State employees on any obligations related to section 794d of this title.
 
 #### (e) Investigations; hearings; orders; administrative procedure applicable; final orders; judicial review; civil action; intervention
 
@@ -120,7 +120,7 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 (2) The Executive Director shall exercise general supervision over all personnel employed by the Access Board (other than administrative law judges and their assistants). The Executive Director shall have final authority on behalf of the Access Board, with respect to the investigation of alleged noncompliance and in the issuance of formal complaints before the Access Board, and shall have such other duties as the Access Board may prescribe.
 
-(3) For the purpose of this section, an order of compliance issued by an administrative law judge shall be deemed to be an order of the Access Board and shall be the final order for the purpose of judicial review.
+(3) For the purpose of this section, an order of compliance issued by an administrative lawjudge shall be deemed to be an order of the Access Board and shall be the final order for the purpose of judicial review.
 
 #### (g) Technical, administrative, or other assistance; appointment, compensation, and travel expenses of advisory and technical experts and consultants
 
@@ -150,7 +150,7 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 There are authorized to be appropriated for the purpose of carrying out the duties and functions of the Access Board under this section such sums as may be necessary for each of the fiscal years 1999 through 2003.
 
-(Pub. L. 93–112, title V, §502, Sept. 26, 1973, 87 Stat. 391; Pub. L. 93–516, title I, §§110, 111(n)–(q), Dec. 7, 1974, 88 Stat. 1619, 1621, 1622; Pub. L. 93–651, title I, §§110, 111(n)–(q), Nov. 21, 1974, 89 Stat. 2–4, 2–6, 2–7; Pub. L. 94–230, §§10, 11(b)(13), Mar. 15, 1976, 90 Stat. 212, 214; Pub. L. 95–251, §2(a)(8), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–602, title I, §118, Nov. 6, 1978, 92 Stat. 2979; Pub. L. 96–374, title XIII, §1321, Oct. 3, 1980, 94 Stat. 1499; Pub. L. 98–221, title I, §151, Feb. 22, 1984, 98 Stat. 28; Pub. L. 99–506, title I, §103(d)(2)(C), title VI, §601, title X, §1002(e)(2)(B)–(D), Oct. 21, 1986, 100 Stat. 1810, 1829, 1844; Pub. L. 100–630, title II, §206(b), Nov. 7, 1988, 102 Stat. 3311; Pub. L. 102–52, §6, June 6, 1991, 105 Stat. 262; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(30), title V, §504, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(b), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title IV, §408(a)(2), Aug. 7, 1998, 112 Stat. 1202; Pub. L. 105–394, title II, §203(a), Nov. 13, 1998, 112 Stat. 3653.)
+(Pub. L. 93–112, title V, §502, Sept. 26, 1973, 87 Stat. 391; Pub. L. 93–516, title I, §§110, 111(n)–(q), Dec. 7, 1974, 88 Stat. 1619, 1621, 1622; Pub. L. 93–651, title I, §§110, 111(n)–(q), Nov. 21, 1974, 89 Stat. 2–4, 2–6, 2–7; Pub. L. 94–230, §§10, 11(b)(13), Mar. 15, 1976, 90 Stat. 212, 214; Pub. L. 95–251, §2(a)(8), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–602, title I, §118, Nov. 6, 1978, 92 Stat. 2979; Pub. L. 96–374, title XIII, §1321, Oct. 3, 1980, 94 Stat. 1499; Pub. L. 98–221, title I, §151, Feb. 22, 1984, 98 Stat. 28; Pub. L. 99–506, title I, §103(d)(2)(C), title VI, §601, title X, §1002(e)(2)(B)–(D), Oct. 21, 1986, 100 Stat. 1810, 1829, 1844; Pub. L. 100–630, title II, §206(b), Nov. 7, 1988, 102 Stat. 3311; Pub. L. 102–52, §6, June 6, 1991, 105 Stat. 262; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(30), title V, §504, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(b), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title IV, §408(a)(2), Aug. 7, 1998, 112 Stat. 1202; Pub. L. 105–394, title II, §203(a), Nov. 13, 1998, 112 Stat. 3653; Pub. L. 108–364, §3(b)(3), Oct. 25, 2004, 118 Stat. 1737.)
 
 #### References in Text
 
@@ -165,6 +165,8 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3)(
 Subsecs. (h) and (i)(3) of this section, which required the Board to submit an annual report on its activities to Congress and, at the same time the Board transmits the report required under section 4157(b) of Title 42, The Public Health and Welfare, to transmit that report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, items 4 to 6 on page 155 of House Document No. 103–7.
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–364 substituted “targeted individuals and entities” for “targeted individuals”.
 
 1998—Subsec. (a)(1). Pub. L. 105–220, §408(a)(2)(A), substituted “chairperson and” for “Chairperson and” in concluding provisions.
 
@@ -341,10 +343,6 @@ For contingency provisions relating to the extensions of program authorizations 
 #### Termination of Advisory Panels
 
 Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 794b, 794d of this title; title 42 sections 12185, 15344, 15361; title 49 section 40103.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Access Board”.</i>
 

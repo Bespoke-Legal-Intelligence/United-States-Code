@@ -14,7 +14,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(B) For any other nonutility unit that is not included in the NAPAP Emissions Inventory, Version 2, or a corrected data base as established by the Administrator pursuant to paragraph (3), the baseline shall be the annual average quantity, in mmBtu consumed in fuel by that unit, as calculated pursuant to a method which the administrator shall prescribe by regulation to be promulgated not later than eighteen months after November 15, 1990.
 
-&emsp;&emsp;(C) The Administrator shall, upon application or on his own motion, by December 31, 1991, supplement data needed in support of this subchapter and correct any factual errors in data from which affected Phase II units’ baselines or actual 1985 emission rates have been calculated. Corrected data shall be used for purposes of issuing allowances under the <sup>1</sup> subchapter. Such corrections shall not be subject to judicial review, nor shall the failure of the Administrator to correct an alleged factual error in such reports be subject to judicial review.
+&emsp;&emsp;(C) The Administrator shall, upon application or on his own motion, by December 31, 1991, supplement data needed in support of this subchapter and correct any factual errors in data from which affected Phase II units’ baselines or actual 1985 emission rates have been calculated. Corrected data shallbe used for purposes of issuing allowances under the <sup>1</sup> subchapter. Such corrections shall not be subject to judicial review, nor shall the failure of the Administrator to correct an alleged factual error in such reports be subject to judicial review.
 
 &emsp;(5) The term “capacity factor” means the ratio between the actual electric output from a unit and the potential electric output from that unit.
 
@@ -107,10 +107,6 @@ Part B of title III of the Act, referred to in par. (11), means title III of the
 #### Codification
 
 Another section 402 of act July 14, 1955, as added by Pub. L. 91–604, §14, Dec. 31, 1970, 84 Stat. 1709, is classified to section 7641 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7651c, 7651g, 7651h of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 

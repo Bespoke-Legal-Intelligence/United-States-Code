@@ -40,7 +40,3 @@ In subsection (b), the words “Assemblies under subsection (a)” are substitut
 
 1964—Pub. L. 88–621 substituted provisions authorizing the Secretaries of the Army and of the Air Force to issue regulations, for provisions authorizing the President to issue regulations, and provided that members of the National Guard may conduct or attend schools conducted by the National Guard.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 715 of this title; title 5 section 6323; title 10 sections 101, 701, 1054, 1089, 1208, 12732, 12733; title 28 section 2671; title 38 sections 101, 1965.
-

@@ -96,7 +96,7 @@ Subsec. (a)(4). Pub. L. 106–501, §311(1)(B), substituted “or (D) to assist 
 
 Subsec. (a)(5). Pub. L. 106–501, §311(1)(C), substituted “including—” and subpars. (A) to (C) for “including client assessment through case management and integration and coordination of community services such as preinstitution evaluation and screening and home health services, homemaker services, shopping services, escort services, reader services, and letter writing services, through resource development and management to assist such individuals to live independently in a home environment;”.
 
-Subsec. (a)(12). Pub. L. 106–501, §311(1)(D), inserted before semicolon at end “, and including the coordinationof the services with programs administered by or receiving assistance from the Department of Labor, including programs carried out under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)”.
+Subsec. (a)(12). Pub. L. 106–501, §311(1)(D), inserted before semicolon at end “, and including the coordination of the services with programs administered by or receiving assistance from the Department of Labor, including programs carried out under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)”.
 
 Subsec. (a)(15). Pub. L. 106–501, §801(c)(5), substituted “section 3027(a)(12)” for “section 3027(a)(16)”.
 
@@ -187,8 +187,4 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 #### Effective Date
 
 Part effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under section 3001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3002 of this title.
 

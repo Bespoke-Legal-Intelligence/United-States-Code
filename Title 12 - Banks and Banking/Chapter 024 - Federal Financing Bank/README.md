@@ -36,10 +36,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 1824 of this title; title 42 sections 8814, 8835.
-
 
 ---
 

@@ -10,17 +10,9 @@ For tests or investigations authorized by the Secretary of the Interior under th
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted in text for “Bureau of Mines” pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title.
+“United States Bureau of Mines” substituted in text for “Bureau of Mines” pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 
 #### Effective Date of 1932 Amendment
 
 Amendment by act June 30, 1932, effective July 1, 1932, see section 314 of that act.
-
-#### Transfer of Functions
-
-See note set out under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 3, 5, 6, 8 of this title; title 42 sections 5821, 7152.
 

@@ -28,7 +28,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 #### (d) Preferences in approving mortgage insurance applications and in providing counseling services; eligible families
 
-The Secretary shall give preference in approving mortgage insurance applications and in providing counseling services under this section (1) to families which are eligible for assistance payments under section 1715z of this title, (2) to families living in empowerment zones and enterprise communities (as those terms are defined in section 1393(b) of title 26 <sup>2</sup> who are eligible for homeownership assistance, and (3) to families living in public housing units, especially those families required to leave public housing because their incomes have risen beyond the maximum prescribed income limits, and families eligible for residence in public housing who have been displaced from federally assisted urban renewal areas.
+The Secretary shall give preference in approving mortgage insurance applications and in providing counseling services under this section (1) to families which are eligible for assistance payments under section 1715z of this title, (2) to families living in empowerment zones and enterprise communities (as those terms are defined in section 1393(b) of title 26 <sup>2</sup> who are eligible for homeownership assistance, and (3) to families living in public housing units, especially those families required to leave public housing because their incomes have risen beyond the maximum prescribed income limits, and families eligible for residence in public housing who havebeen displaced from federally assisted urban renewal areas.
 
 #### (e) Budget, debt management, and related counseling services
 
@@ -87,10 +87,6 @@ Subsec. (d). Pub. L. 91–152, §110, inserted provision requiring the Secretary
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–276, title V, §599F(b), Oct. 21, 1998, 112 Stat. 2666, provided that: “The amendments under by \[sic\] this section \[amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1715q, 1715z, 1715z–3, 1735c of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

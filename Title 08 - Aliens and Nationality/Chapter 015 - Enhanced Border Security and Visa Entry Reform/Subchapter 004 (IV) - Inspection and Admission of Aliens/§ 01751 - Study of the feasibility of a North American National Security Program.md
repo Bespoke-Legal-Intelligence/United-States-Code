@@ -34,7 +34,3 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1731 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS; AGRICULTURAL COUNSELORS AND AGRICULTURAL ATTACHE�AE1S
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1765a, 1765h of this title.
-
 
 ---
 

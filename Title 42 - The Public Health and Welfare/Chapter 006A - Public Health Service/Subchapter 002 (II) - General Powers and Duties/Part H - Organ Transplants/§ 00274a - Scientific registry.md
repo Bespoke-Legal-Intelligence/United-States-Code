@@ -14,7 +14,3 @@ A prior section 373 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1
 
 1988—Pub. L. 100–607 inserted “and bone marrow registry” in section catchline, designated existing text as subsec. (a), and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 274b of this title.
-

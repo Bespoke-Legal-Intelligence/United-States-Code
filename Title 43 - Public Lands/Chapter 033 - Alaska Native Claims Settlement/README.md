@@ -61,6 +61,7 @@
 | (c) | Computation. |
 | (d) | Village Corporation for Native village at Dutch Harbor; lands and improvements and patent for Village Corporation. |
 | (e) | Disputes over land selection rights and boundaries; arbitration. |
+| (f) | Combining entitlements and reallocations. |
 | [1612\.](%C2%A7%2001612%20-%20Surveys.md) | Surveys. |
 | (a) | Areas for conveyance to Village Corporations; monumentation of exterior boundaries; meanderable water boundaries exempt from requirement; land occupied as primary place of residence or business, or for other purposes and other patentable lands as subject to survey. |
 | (b) | Withdrawals, selections, and conveyances pursuant to chapter: current plats of surveys or protraction diagrams; conformity to Land Survey System. |
@@ -83,10 +84,13 @@
 | (a), | (b) Omitted. |
 | (c) | Prohibition against selection of lands from withdrawn area in event of withdrawal of utility and transportation corridor across public lands. |
 | (d) | Public Land Order Numbered 4582 revoked; withdrawal of unreserved public lands; classification and reclassification of lands; opening lands to appropriation; administration; contracting and other authority of Secretary not impaired by withdrawal. |
-| [1617\.](%C2%A7%2001617%20-%20Indian%20allotment%20authority%20in%20Alaska%3B%20revocation%3B%20charging%20allotments%20on%20pending%20application%20against%20statutory%20acreage%20grant%3B%20relocation%E2%80%A6.md) | Indian allotment authority in Alaska; revocation; charging allotments on pending application against statutory acreage grant; relocation of allotment. |
+| [1617\.](%C2%A7%2001617%20-%20Revocation%20of%20Indian%20allotment%20authority%20in%20Alaska.md) | Revocation of Indian allotment authority in Alaska. |
 | (a) | Revocation of authority. |
 | (b) | Charging allotment against statutory grant. |
 | (c) | Relocation of allotment. |
+| (d) | Correction of conveyance documents. |
+| (e) | Native allotment revisions on land selected by or conveyed to a Native Corporation. |
+| (f) | Reinstatements and reconstructions. |
 | [1618\.](%C2%A7%2001618%20-%20Revocation%20of%20reserved%20rights%3B%20excepted%20reserve%3B%20acquisition%20of%20title%20to%20surface%20and%20subsurface%20estates%20in%20reserve%3B%20election%20of%20Village%E2%80%A6.md) | Revocation of reserved rights; excepted reserve; acquisition of title to surface and subsurface estates in reserve; election of Village Corporations; restoration of land to Elim Native Corporation. |
 | (a) | Revocation of reserved rights; excepted reserve. |
 | (b) | Acquisition of title to surface and subsurface estates in reserve; election of Village Corporations. |
@@ -209,10 +213,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1631, 1632, 1633, 1634, 1635, 1636, 1637, 1638, 1639, 1641, 1642 of this title; title 2 section 658; title 5 section 3371; title 12 sections 1715z–13, 1715z–13a, 4702; title 15 sections 637, 2229a; title 16 sections 410hh, 410hh–3, 470bb, 1279, 1722, 1855, 3102, 3111, 3120, 3141, 3164, 3215, 4302, 4702; title 18 section 208; title 20 sections 1087uu–1, 1401, 4402, 6103, 7011, 7713, 9101; title 25 sections 450b, 1452, 1603, 1801, 2021, 2403, 2511, 3001, 3002, 3112, 3202, 3501, 3703, 3802, 3902, 4001, 4103; title 26 section 45A; title 29 sections 705, 741; title 30 section 1306; title 31 section 7501; title 33 sections 1263, 1377; title 38 section 3115; title 40 section 502; title 42 sections 290bb–25, 1490p–2, 1996a, 2991b, 2992c, 3002, 3122, 3796dd–8, 3796gg–2, 4368b, 4762, 5061, 6502, 8011, 8802, 9604, 9832, 10101, 12584, 13743, 13791, 13801, 13868, 13911, 13971, 14151; title 44 section 3601; title 45 section 1212.
-
 
 ---
 
@@ -234,7 +234,7 @@ This chapter is referred to in sections 1631, 1632, 1633, 1634, 1635, 1636, 1637
 - [&sect; 01614 - Timber sale contracts; modification; timber from contingency area](%C2%A7%2001614%20-%20Timber%20sale%20contracts%3B%20modification%3B%20timber%20from%20contingency%20area.md)
 - [&sect; 01615 - Withdrawal and selection of public lands; funds in lieu of acreage](%C2%A7%2001615%20-%20Withdrawal%20and%20selection%20of%20public%20lands%3B%20funds%20in%20lieu%20of%20acreage.md)
 - [&sect; 01616 - Joint Federal-State Land Use Planning Commission for Alaska](%C2%A7%2001616%20-%20Joint%20Federal-State%20Land%20Use%20Planning%20Commission%20for%20Alaska.md)
-- [&sect; 01617 - Indian allotment authority in Alaska; revocation; charging allotments on pending application against statutory acreage grant; relocation&#8230;](%C2%A7%2001617%20-%20Indian%20allotment%20authority%20in%20Alaska%3B%20revocation%3B%20charging%20allotments%20on%20pending%20application%20against%20statutory%20acreage%20grant%3B%20relocation%E2%80%A6.md)
+- [&sect; 01617 - Revocation of Indian allotment authority in Alaska](%C2%A7%2001617%20-%20Revocation%20of%20Indian%20allotment%20authority%20in%20Alaska.md)
 - [&sect; 01618 - Revocation of reserved rights; excepted reserve; acquisition of title to surface and subsurface estates in reserve; election of Village&#8230;](%C2%A7%2001618%20-%20Revocation%20of%20reserved%20rights%3B%20excepted%20reserve%3B%20acquisition%20of%20title%20to%20surface%20and%20subsurface%20estates%20in%20reserve%3B%20election%20of%20Village%E2%80%A6.md)
 - [&sect; 01619 - Attorney and consultant fees](%C2%A7%2001619%20-%20Attorney%20and%20consultant%20fees.md)
 - [&sect; 01620 - Taxation](%C2%A7%2001620%20-%20Taxation.md)

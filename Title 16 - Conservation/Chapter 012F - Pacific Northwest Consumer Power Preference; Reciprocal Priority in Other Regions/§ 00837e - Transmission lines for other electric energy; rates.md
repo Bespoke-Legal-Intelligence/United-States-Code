@@ -4,7 +4,3 @@ Any capacity in Federal transmission lines connecting, either by themselves or w
 
 (Pub. L. 88–552, §6, Aug. 31, 1964, 78 Stat. 758.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 837h of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—PROGRAM OF EDUCATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3514 of this title.
-
 
 ---
 

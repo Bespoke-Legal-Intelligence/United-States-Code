@@ -22,7 +22,3 @@ The purpose of this subchapter is to provide for development and coordination of
 
 (Pub. L. 101–606, title I, §101, Nov. 16, 1990, 104 Stat. 3096.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2932 of this title.
-

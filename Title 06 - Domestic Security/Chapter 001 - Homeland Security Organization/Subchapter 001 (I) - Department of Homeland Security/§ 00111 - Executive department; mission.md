@@ -20,19 +20,29 @@ There is established a Department of Homeland Security, as an executive departme
 
 &emsp;&emsp;(E) ensure that the functions of the agencies and subdivisions within the Department that are not related directly to securing the homeland are not diminished or neglected except by a specific explicit Act of Congress;
 
-&emsp;&emsp;(F) ensure that the overall economic security of the United States is not diminished by efforts, activities, and programs aimed at securing the homeland; and
+&emsp;&emsp;(F) ensure that the overall economic security of the United States is not diminished by efforts, activities, and programs aimed at securing the homeland;
 
-&emsp;&emsp;(G) monitor connections between illegal drug trafficking and terrorism, coordinate efforts to sever such connections, and otherwise contribute to efforts to interdict illegal drug trafficking.
+&emsp;&emsp;(G) ensure that the civil rights and civil liberties of persons are not diminished by efforts, activities, and programs aimed at securing the homeland; and
+
+&emsp;&emsp;(H) monitor connections between illegal drug trafficking and terrorism, coordinate efforts to sever such connections, and otherwise contribute to efforts to interdict illegal drug trafficking.
 
 #### (2) Responsibility for investigating and prosecuting terrorism
 
 &emsp;Except as specifically provided by law with respect to entities transferred to the Department under this chapter, primary responsibility for investigating and prosecuting acts of terrorism shall be vested not in the Department, but rather in Federal, State, and local law enforcement agencies with jurisdiction over the acts in question.
 
-(Pub. L. 107–296, title I, §101, Nov. 25, 2002, 116 Stat. 2142.)
+(Pub. L. 107–296, title I, §101, Nov. 25, 2002, 116 Stat. 2142; Pub. L. 108–458, title VIII, §8302, Dec. 17, 2004, 118 Stat. 3867.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (b)(2), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
+#### Amendments
+
+2004—Subsec. (b)(1)(G), (H). Pub. L. 108–458 added subpar. (G) and redesignated former subpar. (G) as (H).
+
+#### Transfer of Certain OPM Authority to Department of Homeland Security
+
+Pub. L. 108–334, title V, §518, Oct. 18, 2004, 118 Stat. 1318, provided that: “Notwithstanding any other provision of law, the authority of the Office of Personnel Management to conduct personnel security and suitability background investigations, update investigations, and periodic reinvestigations of applicants for, or appointees in, positions in the Office of the Secretary and Executive Management, the Office of the Under Secretary of Management, the Directorate of Science and Technology, and the Directorate of Information Analysis and Infrastructure Protection of the Department of Homeland Security is transferred to the Department of Homeland Security: <i>Provided</i>, That on request of the Department of Homeland Security, the Office of Personnel Management shall cooperate with and assist the Department in any investigation or reinvestigation under this section.”
 
 #### Ex. Ord. No. 13286. Amendment of Executive Orders, and Other Actions, in Connection With the Transfer of Certain Functions to the Secretary of Homeland Security
 
@@ -108,7 +118,7 @@ Sec. 33. \[Amended Ex. Ord. No. 12788, set out as a note under section 2391 of T
 
 Sec. 34. \[Amended Ex. Ord. No. 12777, set out as a note under section 1321 of Title 33, Navigation and Navigable Waters.\]
 
-Sec. 35. \[Amended Ex. Ord. No. 12743, set out as a note under section 12302 of Title 10, Armed Forces.\]
+Sec. 35. \[Amended Ex. Ord. No. 12743, formerly set out as a note under section 12302 of Title 10, Armed Forces.\]
 
 Sec. 36. \[Amended Ex. Ord. No. 12742, set out as a note under section 82 of Title 50, War and National Defense.\]
 
@@ -264,7 +274,31 @@ Sec. 93. This order does not create any right or benefit, substantive or procedu
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a) and (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
-This section is referred to in sections 193, 393 of this title.
+#### Ex. Ord. No. 13362. Designation of Additional Officers for the Department of Homeland Security Order of Succession
+
+Ex. Ord. No. 13362, Nov. 29, 2004, 69 F.R. 70173, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America and pursuant to the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
+
+Section 1. During any period when the Secretary of Homeland Security (Secretary), the Deputy Secretary of Homeland Security, and the officers designated to perform the functions and duties of the office of Secretary by section 88 of Executive Order 13286 of February 28, 2003 (“Amendment of Executive Orders, and Other Actions, in Connection With the Transfer of Certain Functions to the Secretary of Homeland Security”) \[set out as a note above\], have died, resigned, or otherwise become unable to perform the functions and duties of the office of Secretary, the following officers of the Department of Homeland Security, in the order listed, shall perform the functions and duties of the office of Secretary, if they are eligible to act as Secretary under the provisions of the Federal Vacancies Reform Act of 1998, until such time as at least one of the officers mentioned above is able to perform the functions and duties of the office of Secretary:
+
+Director, Region V, Federal Emergency Management Agency;
+
+Director, Region VI, Federal Emergency Management Agency;
+
+Director, Region VII, Federal Emergency Management Agency;
+
+Director, Region VIII, Federal Emergency Management Agency; and
+
+Director, Region X, Federal Emergency Management Agency.
+
+Sec. 2. <b>Exceptions.</b>
+
+(a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as Secretary pursuant to this order.
+
+(b) Notwithstanding the provisions of this order, the President retains discretion, to the extent permitted by law, to depart from this order in designating an acting Secretary.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -42,7 +42,7 @@ Subsection (a) of this section shall not apply to a covered commodity if the cov
 
 #### (1) In general
 
-&emsp;The information required by subsection (a) of this section may be provided to consumersby means of a label, stamp, mark, placard, or other clear and visible sign on the covered commodity or on the package, display, holding unit, or bin containing the commodity at the final point of sale to consumers.
+&emsp;The information required by subsection (a) of this section may be provided to consumers by means of a label, stamp, mark, placard, or other clear and visible sign on the covered commodity or on the package, display, holding unit, or bin containing the commodity at the final point of sale to consumers.
 
 #### (2) Labeled commodities
 
@@ -93,8 +93,4 @@ May 13, 2002, referred to in subsec. (f)(2), was in the original “the date of 
 &emsp;“(i) harvested in waters of the United States, a territory of the United States, or a State; and
 
 &emsp;“(ii) processed in the United States, a territory of the United States, or a State, including the waters thereof; and”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1638b, 1638c of this title.
 

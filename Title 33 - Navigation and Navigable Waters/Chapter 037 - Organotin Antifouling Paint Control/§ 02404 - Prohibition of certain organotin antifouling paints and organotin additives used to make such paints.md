@@ -24,7 +24,3 @@ Section 12(d), referred to in text, is section 12(d) of Pub. L. 100–333, which
 
 Section effective June 16, 1988, with subsec. (a) to remain in effect until a final decision, as defined in section 12(c) of Pub. L. 100–333, regarding release of organotin into the aquatic environment by antifouling paints, is issued and takes effect, see section 12(a) to (c) of Pub. L. 100–333, set out as an Effective Date; Use of Existing Stocks note under section 2401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2409 of this title.
-

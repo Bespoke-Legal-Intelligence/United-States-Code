@@ -2,7 +2,7 @@
 
 #### (a) Assistance
 
-In order to facilitate fulfillment of the responsibilities described in section 4802(a) of this title, other Federal agencies shall cooperate (through agreements) to the maximum extent possible with the Secretary of State. Such agencies may, with or without reimbursement, provide assistance to the Secretary, perform security inspections, provide logistical support relating to the differing missions and facilities of other Federal agencies, and perform other overseas security functions as may be authorized by the Secretary. Specifically, the Secretary may agree to delegate operational control of overseas security functions of other Federal agencies to the heads of such agencies, subject to the Secretary's authority as set forth in section 4802(a) of this title. The agency head receiving such delegated authority shall be responsible to the Secretary in the exercise of the delegated operational control.
+In order to facilitate fulfillment of the responsibilities described in section 4802(a) of this title, other Federal agencies shall cooperate (through agreements) to the maximum extentpossible with the Secretary of State. Such agencies may, with or without reimbursement, provide assistance to the Secretary, perform security inspections, provide logistical support relating to the differing missions and facilities of other Federal agencies, and perform other overseas security functions as may be authorized by the Secretary. Specifically, the Secretary may agree to delegate operational control of overseas security functions of other Federal agencies to the heads of such agencies, subject to the Secretary's authority as set forth in section 4802(a) of this title. The agency head receiving such delegated authority shall be responsible to the Secretary in the exercise of the delegated operational control.
 
 #### (b) Other agencies
 
@@ -17,8 +17,4 @@ The Administrator of General Services is authorized to lease (to such extent or 
 #### References in Text
 
 Executive Order 12333, referred to in subsec. (b), is Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, which is set out as a note under section 401 of Title 50, War and National Defense.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4831 of this title.
 

@@ -34,7 +34,3 @@ The Secretary may not use, for peer review or other activities directly related 
 
 (Pub. L. 106–402, title I, §156, Oct. 30, 2000, 114 Stat. 1725.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15061, 15062, 15081, 15083 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—ANNUAL AND SICK LEAVE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5508, 5551, 6332, 6337, 6362, 6382, 8339 of this title; title 7 section 1766c; title 22 section 3942; title 28 sections 153, 156, 603, 631, 634, 712, 752, 794; title 42 section 242<i>l.</i>
-
 
 ---
 

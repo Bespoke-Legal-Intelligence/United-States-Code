@@ -94,7 +94,3 @@ Subsec. (c)(3). Pub. L. 105–185, §603(b)(3)(B), inserted “who are importers
 
 Subsec. (c)(5). Pub. L. 105–185, §603(b)(3)(C), inserted “and alternate” before “may be appointed” in second sentence.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7462 of this title.
-

@@ -4,7 +4,3 @@ All gambling devices, and all packages containing any such, when shipped or tran
 
 (Jan. 2, 1951, ch. 1194, §4, 64 Stat. 1135.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1176 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—THE PRINCIPAL REGISTER
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 19 section 1681a.
-
 
 ---
 

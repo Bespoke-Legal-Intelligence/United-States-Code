@@ -64,7 +64,7 @@ Pub. L. 90–248, title I, §140, Jan. 2, 1968, 81 Stat. 854, directed Secretary
 
 Pub. L. 90–248, title I, §142, Jan. 2, 1968, 81 Stat. 855, provided that:
 
-“(a) Notwithstanding any provision of title XVIII of the Social Security Act \[this subchapter\] an individual who is entitled to hospital insurance benefits under section 226 of such Act \[section 426 of this title\] may, subject to subsections (b) and (c), receive, on the basis of an itemized bill, reimbursement for charges to him for inpatient hospital services (as defined in section 1861 of such Act \[section 1395x of this title\], but without regard to subsection (e) of such section) furnished by, or under arrangements (as defined in section 1861(w) of such Act \[section 1395x(w) of this title\] with, a hospital if—
+“(a) Notwithstanding any provision of title XVIII of the Social Security Act \[this subchapter\] an individual who is entitled to hospital insurance benefits under section 226 of such Act \[section 426 of this title\] may, subject to subsections (b) and (c), receive, on the basis of an itemized bill, reimbursement for charges to him for inpatient hospital services (as defined in section 1861 of such Act \[section 1395x of this title\], but without regard to subsection (e) of such section) furnished by, or under arrangements (as defined in section 1861(w) ofsuch Act \[section 1395x(w) of this title\] with, a hospital if—
 
 &emsp;“(1) the hospital did not have an agreement in effect under section 1866 of such Act \[section 1395cc of this title\] but would have been eligible for payment under part A of title XVIII of such Act \[this part\] with respect to such services if at the time such services were furnished the hospital had such an agreement in effect;
 
@@ -97,8 +97,4 @@ Pub. L. 90–248, title I, §142, Jan. 2, 1968, 81 Stat. 855, provided that:
 &emsp;“(2) the 20-day period, referred to in subsection (b)(3)(B) shall be reduced by the number of days in excess of 70 days of inpatient hospital services furnished during the spell of illness, referred to therein, and with respect to which such individual was entitled to have payment made under such part A \[this part\];
 
 &emsp;“(3) the term ‘spell of illness’ shall have the meaning assigned to it by subsection (a) of section 1861 of such Act \[section 1395x(a) of this title\] except that the term ‘inpatient hospital services’ as it appears in such subsection shall have the meaning assigned to it by subsection (a) of this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 sections 220, 223; title 38 sections 1725, 1729.
 

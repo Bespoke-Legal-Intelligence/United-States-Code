@@ -2,7 +2,7 @@
 
 #### (a) Receipt, administration, and transfer of funds; sponsorship of projects; delegation of authority, etc.
 
-In order to be designated as a Head Start agency under this subchapter, an agency must have authority under its charter or applicable law to receive and administer funds under this subchapter, funds and contributions from private or local public sources which may be used in support of a Head Start program, and funds under any Federal or State assistance program pursuant to which a public or private nonprofit or for-profit agency (as the case may be) organized in accordance with this subchapter, could act as grantee, contractor, or sponsor of projects appropriate for inclusion in a Head Start program. Such an agency must also be empowered totransfer funds so received, and to delegate powers to other agencies, subject to the powers of its governing board and its overall program responsibilities. The power to transfer funds and delegate powers must include the power to make transfers and delegations covering component projects in all cases where this will contribute to efficiency and effectiveness or otherwise further program objectives.
+In order to be designated as a Head Start agency under this subchapter, an agency must have authority under its charter or applicable law to receive and administer funds under this subchapter, funds and contributions from private or local public sources which may be used in support of a Head Start program, and funds under any Federal or State assistance program pursuant to which a public or private nonprofit or for-profit agency (as the case may be) organized in accordance with this subchapter, could act as grantee, contractor, or sponsor of projects appropriate for inclusion in a Head Start program. Such an agency must also be empowered to transfer funds so received, and to delegate powers to other agencies, subject to the powers of its governing board and its overall program responsibilities. The power to transfer funds and delegate powers must include the power to make transfers and delegations covering component projects in all cases where this will contribute to efficiency and effectiveness or otherwise further program objectives.
 
 #### (b) Participation of parents in decisionmaking, implementation, etc.
 
@@ -44,7 +44,7 @@ In order to be so designated, a Head Start agency shall also—
 
 #### (c) Coordination with other agencies
 
-The head of each Head Start agency shall coordinate and collaborate with the State agency responsible for administering the State program carried out under subchapter II–B of this chapter, and other early childhood education and development programs, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 <sup>1</sup> (20 U.S.C. 2741 et seq.) and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C. 1431–1445, 1419), serving the children and families served by the Head Start agency to carry out the provisions of this subchapter.
+The head of each Head Start agency shall coordinate and collaborate with the State agency responsible for administering the State program carried out under subchapter II–B of this chapter, and other early childhood education and development programs, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 <sup>1</sup> (20 U.S.C. 2741 et seq.) and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C <sup>2</sup> 1431–1444, 1419), serving the children and families served by the Head Start agency to carry out the provisions of this subchapter.
 
 #### (d) Transition coordination with schools
 
@@ -78,7 +78,7 @@ The head of each Head Start agency shall coordinate and collaborate with the Sta
 
 Head Start agencies shall adopt, in consultation with experts in child development and with classroom teachers, an assessment to be used when hiring or evaluating any classroom teacher in a center-based Head Start program. Such assessment shall measure whether such teacher has mastered the functions described in section 9843a(a)(1) of this title.
 
-(Pub. L. 97–35, title VI, §642, Aug. 13, 1981, 95 Stat. 502; Pub. L. 99–425, title I, §103, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §109, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 102–401, §2(i), (k)(3), Oct. 7, 1992, 106 Stat. 1957, 1959; Pub. L. 103–252, title I, §109, May 18, 1994, 108 Stat. 634; Pub. L. 105–285, title I, §109, Oct. 27, 1998, 112 Stat. 2716.)
+(Pub. L. 97–35, title VI, §642, Aug. 13, 1981, 95 Stat. 502; Pub. L. 99–425, title I, §103, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §109, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 102–401, §2(i), (k)(3), Oct. 7, 1992, 106 Stat. 1957, 1959; Pub. L. 103–252, title I, §109, May 18, 1994, 108 Stat. 634; Pub. L. 105–285, title I, §109, Oct. 27, 1998, 112 Stat. 2716; Pub. L. 108–446, title III, §305(<i>l</i>)(4), Dec. 3, 2004, 118 Stat. 2806.)
 
 #### References in Text
 
@@ -87,6 +87,8 @@ Part B of chapter 1 of title I of the Elementary and Secondary Education Act of 
 The Individuals with Disabilities Education Act, referred to in subsec. (c), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–446 substituted “1431–1444” for “1431–1445”.
 
 1998—Subsec. (a). Pub. L. 105–285, §109(1), inserted “or for-profit” after “nonprofit”.
 
@@ -108,7 +110,7 @@ Subsec. (b)(10). Pub. L. 105–285, §109(2)(D), redesignated par. (9) as (10).
 
 Subsec. (b)(11). Pub. L. 105–285, §109(2)(G), added par. (11).
 
-Subsec. (c). Pub. L. 105–285, §109(3), inserted “and collaborate” after “shall coordinate” and “and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C. 1431–1445, 1419)” after “(20 U.S.C. 2741 et seq.)” and substituted “the State program carried out under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), and other early childhood education and development” for “section 602(g) of this title, and other”.
+Subsec. (c). Pub. L. 105–285, §109(3), inserted “and collaborate” after “shall coordinate” and “and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419)” after “(20 U.S.C. 2741 et seq.)” and substituted “the State program carried out under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), and other early childhood education and development” for “section 602(g) of this title, and other”.
 
 Subsec. (d)(1). Pub. L. 105–285, §109(4)(A), substituted “take steps to ensure, to the maximum extent possible, that children maintain” for “carry out the actions specified in this subsection, to the extent feasible and appropriate in the circumstances (including the extent to which such agency is able to secure the cooperation of parents and schools) to enable children to maintain” and “build” for “to build” and inserted “and educational” after “developmental”.
 
@@ -154,9 +156,7 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
 Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as a note under section 8621 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9836, 9836a of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. A period should probably follow “U.S.C”.</i>
 

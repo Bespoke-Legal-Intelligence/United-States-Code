@@ -1,9 +1,5 @@
 Part D—National Center for Education Evaluation and Regional Assistance
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 9511 of this title.
-
 
 ---
 

@@ -72,7 +72,7 @@ Treatment of Funds.—
 
 Programmatic distribution.—The Secretary shall apportion the amounts made available under this section that exceed $2,800,000,000 so that the amount apportioned to each State under this paragraph for each program referred to in subsection (a) (other than metropolitan planning, minimum guarantee, high priority projects, Appalachian development highway system, and recreational trails programs) is equal to the amount determined by multiplying the amount to be apportioned under this paragraph by the ratio that—
 
-&emsp;&emsp;(A) the amount of funds apportioned to each State for each program referred to in subsection (a) (other than metropolitan planning, minimum guarantee, high priority projects, Appalachian development highway system, and recreational trails programs) for a fiscal year; bears to
+&emsp;&emsp;(A) the amount of funds apportioned to each State for each program referred to in subsection (a) (other than metropolitan planning, minimum guarantee, high priority projects, Appalachian development highwaysystem, and recreational trails programs) for a fiscal year; bears to
 
 &emsp;&emsp;(B) the total amount of funds apportioned to each State for such program for such fiscal year.
 
@@ -158,7 +158,7 @@ Subsec. (g). Pub. L. 91–605, §132, added subsec. (g).
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, andprovisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -167,8 +167,4 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 #### Acceleration of Projects
 
 Section 129 of Pub. L. 97–424 provided that: “The Secretary of Transportation shall by rule or regulation establish, as soon as practicable, alternative methods for processing projects under title 23, United States Code, so as to reduce the time required from the request for project approval through the completion of construction. In carrying out this section the Secretary shall utilize the knowledge and experience resulting from the demonstration project authorized by and carried out under section 141 of the Federal-Aid Highway Act of 1976 \[Pub. L. 94–280, title I, §141, May 5, 1976, 90 Stat. 444, set out as a note under section 124 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 104, 117, 131, 140, 150 of this title.
 

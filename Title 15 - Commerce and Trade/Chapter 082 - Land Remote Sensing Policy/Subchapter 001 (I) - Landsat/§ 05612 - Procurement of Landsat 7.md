@@ -24,7 +24,3 @@ The Landsat Program Management shall, for purposes of this chapter, define the t
 
 (Pub. L. 102–555, title I, §102, Oct. 28, 1992, 106 Stat. 4168.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5611 of this title.
-

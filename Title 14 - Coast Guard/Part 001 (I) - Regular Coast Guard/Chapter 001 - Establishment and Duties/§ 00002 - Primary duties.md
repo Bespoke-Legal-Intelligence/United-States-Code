@@ -30,11 +30,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Annual Report on Coast Guard Capabilities and Readiness to Fulfill National Defense Responsibilities
 
-Pub. L. 107–295, title IV, §426, Nov. 25, 2002, 116 Stat. 2126, provided that: “Not later than February 15 each year, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report,prepared in conjunction with the Commandant of the Coast Guard, setting forth the capabilities and readiness of the Coast Guard to fulfill its national defense responsibilities.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 section 113.
+Pub. L. 107–295, title IV, §426, Nov. 25, 2002, 116 Stat. 2126, provided that: “Not later than February 15 each year, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce,Science, and Transportation of the Senate a report, prepared in conjunction with the Commandant of the Coast Guard, setting forth the capabilities and readiness of the Coast Guard to fulfill its national defense responsibilities.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -16,7 +16,7 @@ There are authorized to be appropriated to the Secretary not more than the follo
 
 #### (b) Authorizations for Commission
 
-There are authorized to be appropriated to the Commission not more than the followingamounts to carry out its responsibilities under this part—
+There are authorized to be appropriated to the Commission not more than the following amounts to carry out its responsibilities under this part—
 
 &emsp;(1) $650,000 for fiscal year 1976;
 

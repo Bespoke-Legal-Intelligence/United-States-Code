@@ -15,4 +15,4 @@ Part B—Management Provisions
 - [&sect; 00460lll&#8211;28 - Cemeteries](%C2%A7%2000460lll%E2%80%9328%20-%20Cemeteries.md)
 - [&sect; 00460lll&#8211;29 - Resource management](%C2%A7%2000460lll%E2%80%9329%20-%20Resource%20management.md)
 - [&sect; 00460lll&#8211;30 - Hematite Dam](%C2%A7%2000460lll%E2%80%9330%20-%20Hematite%20Dam.md)
-- [&sect; 00460lll&#8211;31 - Trust fund](%C2%A7%2000460lll%E2%80%9331%20-%20Trust%20fund.md)
+- [&sect; 00460lll&#8211;31 - Trust Fund](%C2%A7%2000460lll%E2%80%9331%20-%20Trust%20Fund.md)

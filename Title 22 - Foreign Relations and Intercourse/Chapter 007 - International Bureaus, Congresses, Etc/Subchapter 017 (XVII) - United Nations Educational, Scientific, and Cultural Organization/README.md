@@ -1,9 +1,5 @@
 ### SUBCHAPTER XVII—UNITED NATIONS EDUCATIONAL, SCIENTIFIC, AND CULTURAL ORGANIZATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 272a, 280b, 280i, 280k, 290b of this title.
-
 
 ---
 

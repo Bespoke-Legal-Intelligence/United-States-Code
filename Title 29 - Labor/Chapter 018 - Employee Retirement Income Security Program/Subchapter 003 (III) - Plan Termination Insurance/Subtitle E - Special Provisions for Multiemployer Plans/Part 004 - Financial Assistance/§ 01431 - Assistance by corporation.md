@@ -20,7 +20,3 @@ Pending determination of the amount described in subsection (a) of this section,
 
 Part effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1306, 1307, 1322a, 1426 of this title; title 26 section 418E.
-

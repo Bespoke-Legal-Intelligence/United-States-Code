@@ -66,7 +66,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (1) In general
 
-&emsp;No funds made available under this subchapter for a library described in section9122(1)(A) or (B) of this title that does not receive services at discount rates under section 254(h)(6) of title 47 may be used to purchase computers used to access the Internet, or to pay for direct costs associated with accessing the Internet, for such library unless—
+&emsp;No funds made available under this subchapter for a library described in section 9122(1)(A) or (B) of this title that does not receive services at discount rates under section 254(h)(6) of title 47 may be used to purchase computers used to access the Internet, or to pay for direct costs associated with accessing the Internet, for such library unless—
 
 &emsp;&emsp;(A) such library—
 
@@ -122,7 +122,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (iii) Waivers
 
-&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make the certification otherwise required by that clause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this subchapter.
+&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make the certification otherwise required by that clause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certificationotherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this subchapter.
 
 #### (5) Noncompliance
 
@@ -138,7 +138,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (B) Recovery of funds prohibited
 
-&emsp;&emsp;The actions authorized by subparagraph (A) are the exclusive remedies available withrespect to the failure of a library to comply substantially with a provision of this subsection, and the Director shall not seek a recovery of funds from the recipient for such failure.
+&emsp;&emsp;The actions authorized by subparagraph (A) are the exclusive remedies available with respect to the failure of a library to comply substantially with a provision of this subsection, and the Director shall not seek a recovery of funds from the recipient for such failure.
 
 #### (C) Recommencement of payments
 
@@ -219,8 +219,4 @@ In general.—Notwithstanding any other provision of law, funds available under 
 “(2)
 
 Technology protection measure defined.—In this section, the term ‘technology protection measure’ has the meaning given that term in section 1703 \[set out as a note under section 902 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9132, 9133 of this title.
 

@@ -34,15 +34,37 @@ Whoever—
 
 > shall be guilty of a felony and upon conviction thereof shall be fined under title 18 or imprisoned for not more than five years, or both.
 
-#### (b) Violations by certified payees
+#### (b) Restitution
 
-Any person or other entity who is convicted of a violation of any of the provisions of this section, if such violation is committed by such person or entity in his role as, or in applying to become, a certified payee under section 405(j) of this title on behalf of another individual (other than such person's spouse), upon his second or any subsequent such conviction shall, in lieu of the penalty set forth in the preceding provisions of this section, be guilty of a felony and shall be fined under title 18 or imprisoned for not morethan five years, or both. In the case of any violation described in the preceding sentence, including a first such violation, if the court determines that such violation includes a willful misuse of funds by such person or entity, the court may also require that full or partial restitution of such funds be made to the individual for whom such person or entity was the certified payee.
+(1) Any Federal court, when sentencing a defendant convicted of an offense under subsection (a) of this section, may order, in addition to or in lieu of any other penalty authorized by law, that the defendant make restitution to the victims of such offense specified in paragraph (4).
 
-#### (c) Effect upon certification as payee; definitions
+(2) Sections 3612, 3663, and 3664 of title 18 shall apply with respect to the issuance and enforcement of orders of restitution to victims of such offense under this subsection.
 
-Any individual or entity convicted of a felony under this section or under section 1383a(b) of this title may not be certified as a payee under section 405(j) of this title. For the purpose of subsection (a)(7) of this section, the terms “social security number” and “social security account number” mean such numbers as are assigned by the Commissioner of Social Security under section 405(c)(2) of this title whether or not, in actual use, such numbers are called social security numbers.
+(3) If the court does not order restitution, or orders only partial restitution, under this subsection, the court shall state on the record the reasons therefor.
 
-#### (d) Application of subsection (a)(6) and (7) to certain aliens
+(4) For purposes of paragraphs (1) and (2), the victims of an offense under subsection (a) of this section are the following:
+
+&emsp;(A) Any individual who suffers a financial loss as a result of the defendant's violation of subsection (a) of this section.
+
+&emsp;(B) The Commissioner of Social Security, to the extent that the defendant's violation of subsection (a) of this section results in—
+
+&emsp;&emsp;(i) the Commissioner of Social Security making a benefit payment that should not have been made; or
+
+&emsp;&emsp;(ii) an individual suffering a financial loss due to the defendant's violation of subsection (a) of this section in his or her capacity as the individual's representative payee appointed pursuant to section 405(j) of this title.
+
+(5)(A) Except as provided in subparagraph (B), funds paid to the Commissioner of Social Security as restitution pursuant to a court order shall be deposited in the Federal Old-Age and Survivors Insurance Trust Fund, or the Federal Disability Insurance Trust Fund, as appropriate.
+
+(B) In the case of funds paid to the Commissioner of Social Security pursuant to paragraph (4)(B)(ii), the Commissioner of Social Security shall certify for payment to the individual described in such paragraph an amount equal to the lesser of the amount of the funds so paid or the individual's outstanding financial loss, except that such amount may be reduced by the amount of any overpayments of benefits owed under this subchapter, subchapter VIII of this chapter, or subchapter XVI of this chapter by the individual.
+
+#### (c) Violations by certified payees
+
+Any person or other entity who is convicted of a violation of any of the provisions of this section, if such violation is committed by such person or entity in his role as, or in applying to become, a certified payee under section 405(j) of this title on behalf of another individual (other than such person's spouse), upon his second or any subsequent such conviction shall, in lieu of the penalty set forth in the preceding provisions of this section, be guilty of a felony and shall be fined under title 18 or imprisoned for not more than five years, or both.
+
+#### (d) Effect upon certification as payee; definitions
+
+Any individual or entity convicted of a felony under this section or under section 1383a(b) <sup>1</sup> of this title may not be certified as a payee under section 405(j) of this title. For the purpose of subsection (a)(7) of this section, the terms “social security number” and “social security account number” mean such numbers as are assigned by the Commissioner of Social Security under section 405(c)(2) of this title whether or not, in actual use, such numbers are called social security numbers.
+
+#### (e) Application of subsection (a)(6) and (7) to certain aliens
 
 (1) Except as provided in paragraph (2), an alien—
 
@@ -68,7 +90,7 @@ Any individual or entity convicted of a felony under this section or under secti
 
 (3) Paragraph (1) shall not apply with respect to any criminal conduct involving both the conduct described in subsection (a)(7) of this section to which paragraph (1) applies and any other criminal conduct if such other conduct would be criminal conduct if the conduct described in subsection (a)(7) of this section were not committed.
 
-(Aug. 14, 1935, ch. 531, title II, §208, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(c), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(b), 68 Stat. 1085; Pub. L. 85–840, title III, §310, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 86–778, title II, §211(m), Sept. 13, 1960, 74 Stat. 958; Pub. L. 92–603, title I, §130(a), Oct. 30, 1972, 86 Stat. 1359; Pub. L. 94–455, title XII, §1211(a), (d), Oct. 4, 1976, 90 Stat. 1711, 1712; Pub. L. 97–123, §4(a), (b), Dec. 29, 1981, 95 Stat. 1663, 1664; Pub. L. 98–369, div. B, title VI, §2663(a)(5), July 18, 1984, 98 Stat. 1162; Pub. L. 98–460, §16(c)(2), Oct. 9, 1984, 98 Stat. 1811; Pub. L. 100–690, title VII, §7088, Nov. 18, 1988, 102 Stat. 4409; Pub. L. 101–508, title V, §§5121, 5130(a)(1), Nov. 5, 1990, 104 Stat. 1388–283, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(a)(12), Aug. 15, 1994, 108 Stat. 1478, 1536; Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(1), (2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117; Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180.)
+(Aug. 14, 1935, ch. 531, title II, §208, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(c), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(b), 68 Stat. 1085; Pub. L. 85–840, title III, §310, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 86–778, title II, §211(m), Sept. 13, 1960, 74 Stat. 958; Pub. L. 92–603, title I, §130(a), Oct. 30, 1972, 86 Stat. 1359; Pub. L. 94–455, title XII, §1211(a), (d), Oct. 4, 1976, 90 Stat. 1711, 1712; Pub. L. 97–123, §4(a), (b), Dec. 29, 1981, 95 Stat. 1663, 1664; Pub. L. 98–369, div. B, title VI, §2663(a)(5), July 18, 1984, 98 Stat. 1162; Pub. L. 98–460, §16(c)(2), Oct. 9, 1984, 98 Stat. 1811; Pub. L. 100–690, title VII, §7088, Nov. 18, 1988, 102 Stat. 4409; Pub. L. 101–508, title V, §§5121, 5130(a)(1), Nov. 5, 1990, 104 Stat. 1388–283, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(a)(12), Aug. 15, 1994, 108 Stat. 1478, 1536; Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(1), (2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117; Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 108–203, title II, §209(a), Mar. 2, 2004, 118 Stat. 513.)
 
 #### References in Text
 
@@ -78,11 +100,19 @@ For provision deeming a reference in other laws to a provision of the 1939 Code 
 
 Chapters 2 and 21 and subtitle F of the Internal Revenue Code of 1954, referred to in subsec. (a)(1), were redesignated chapters 2 and 21 and subtitle F of the Internal Revenue Code of 1986, and are classified to sections 1401 et seq., 3101 et seq., and 6001 et seq., respectively, of Title 26.
 
-Section 902 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989, referred to in subsec. (d)(1)(A), is section 902 of Pub. L. 100–204, which is set out as a note under section 1255a of Title 8, Aliens and Nationality.
+Section 1383a(b) of this title, referred to in subsec. (d), was redesignated section 1383a(c) of this title and amended by Pub. L. 108–203, title II, §209(c), Mar. 2, 2004, 118 Stat. 515.
 
-Section 202 of the Immigration Reform and Control Act of 1986, referred to in subsec. (d)(1)(B)(i), is section 202 of Pub. L. 99–603, which is set out as a note under section 1255a of Title 8.
+Section 902 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989, referred to in subsec.\(e)(1)(A), is section 902 of Pub. L. 100–204, which is set out as a note under section 1255a of Title 8, Aliens and Nationality.
+
+Section 202 of the Immigration Reform and Control Act of 1986, referred to in subsec. (e)(1)(B)(i), is section 202 of Pub. L. 99–603, which is set out as a note under section 1255a of Title 8.
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–203, §209(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 108–203, §209(a)(1), (3), redesignated subsec. (b) as (c) and struck out at end: “In the case of any violation described in the preceding sentence, including a first such violation, if the court determines that such violation includes a willful misuse of funds by such person or entity, the court may also require that full or partial restitution of such funds be made to the individual for whom such person or entity was the certified payee.” Former subsec. (c) redesignated (d).
+
+Subsecs. (d), (e). Pub. L. 108–203, §209(a)(1), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
 
 2000—Subsec. (a)(8) to (10). Pub. L. 106–553, which inserted “or” at end of par. (8) and added pars. (9) and (10), was repealed by Pub. L. 106–554, effective as if included in Pub. L. 106–553 on Dec. 21, 2000. Pars. (9) and (10) read as follows:
 
@@ -126,11 +156,15 @@ Subsec. (h). Pub. L. 94–455, §1211(d)(1), added subsec. (h).
 
 1939—Act Aug. 10, 1939, amended section generally, incorporating provisions of section 409 of this title.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–203, title II, §209(d), Mar. 2, 2004, 118 Stat. 516, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and sections 1011 and 1383a of this title\] shall apply with respect to violations occurring on or after the date of enactment of this Act \[Mar. 2, 2004\].”
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(4) \[div. A, §213(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180, provided that: “The amendments made by this section \[amending this section, section 10601 of this title, and section 2709 of Title 22, Foreign Relations and Intercourse, repealing section 1320b–23 of this title, amending provisions set out as notes under sections 4001 and 4013 of Title 18, Crimes and Criminal Procedure, and section 524 of Title 28, Judiciary and Judicial Procedure, and repealing provisions set out as notes under this section and sections 1305 and 1320b–23 of this title\] shall take effect as if included in H.R. 4942 of the 106th Congress \[Pub. L. 106–553\] on the date of its enactment \[Dec. 21, 2000\].”
 
-Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117, which provided that the amendments made by §1(a)(2) \[title VI, §635(c)\] of Pub. L. 106–553, enacting section 1320b–23 of this title and amending this section, would apply with respect to violations occurring on and after the date that is 2 years after Dec. 21, 2000, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180, see above.
+Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117, which provided that the amendments made by §1(a)(2) \[title VI, §635(c)\] of Pub. L. 106–553, enacting section 1320b–23 of this title and amending this section, would apply with respect to violations occurring on and after the date that is 2 years after Dec. 21, 2000, was repealed by Pub. L. 106–554,§1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180, see above.
 
 #### Effective Date of 1994 Amendment
 
@@ -162,7 +196,5 @@ Amendment by Pub. L. 86–778 effective in the manner provided in section 211(p)
 
 Section 201 of act Aug. 10, 1939, provided that the amendment made by that section is effective Jan. 1, 1940.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 405, 1007, 1320b–6, 1383, 1383a of this title; title 30 section 923.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

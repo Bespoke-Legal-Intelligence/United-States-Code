@@ -2,7 +2,7 @@
 
 #### (a) Policy
 
-(1) It is the continuing responsibility of the Federal Government to ensure the full use of theresults of the Nation's Federal investment in research and development. To this end the Federal Government shall strive where appropriate to transfer federally owned or originated technology to State and local governments and to the private sector.
+(1) It is the continuing responsibility of the Federal Government to ensure the full use of the results of the Nation's Federal investment in research and development. To this end the Federal Government shall strive where appropriate to transfer federally owned or originated technology to State and local governments and to the private sector.
 
 (2) Technology transfer, consistent with mission responsibilities, is a responsibility of each laboratory science and engineering professional.
 
@@ -46,11 +46,11 @@ The National Technical Information Service shall—
 
 #### (e) Establishment of Federal Laboratory Consortium for Technology Transfer
 
-(1) There is hereby established the Federal Laboratory Consortium for Technology Transfer (hereinafter referred to as the “Consortium”) which, in cooperation with Federal laboratories and the private sector, shall—
+(1) There is hereby established the Federal Laboratory Consortium for Technology Transfer\(hereinafter referred to as the “Consortium”) which, in cooperation with Federal laboratories and the private sector, shall—
 
 &emsp;(A) develop and (with the consent of the Federal laboratory concerned) administer techniques, training courses, and materials concerning technology transfer to increase the awareness of Federal laboratory employees regarding the commercial potential of laboratory technology and innovations;
 
-&emsp;(B) furnish advice and assistance requested by Federal agencies and laboratories for use in their technology transfer programs (includingthe planning of seminars for small business and other industry);
+&emsp;(B) furnish advice and assistance requested by Federal agencies and laboratories for use in their technology transfer programs (including the planning of seminars for small business and other industry);
 
 &emsp;(C) provide a clearinghouse for requests, received at the laboratory level, for technical assistance from States and units of local governments, businesses, industrial development organizations, not-for-profit organizations including universities, Federal agencies and laboratories, and other persons, and—
 
@@ -94,7 +94,7 @@ The National Technical Information Service shall—
 
 #### (1) In general
 
-&emsp;Each Federal agency which operates or directs one or more Federal laboratories or which conducts activities under sections 207 and 209 of title 35 shall report annually to theOffice of Management and Budget, as part of the agency's annual budget submission, on the activities performed by that agency and its Federal laboratories under the provisions of this section and of sections 207 and 209 of title 35.
+&emsp;Each Federal agency which operates or directs one or more Federal laboratories or which conducts activities under sections 207 and 209 of title 35 shall report annually to the Office of Management and Budget, as part of the agency's annual budget submission, on the activities performed by that agency and its Federal laboratories under the provisions of this section and of sections 207 and 209 of title 35.
 
 #### (2) Contents
 
@@ -168,7 +168,7 @@ Public availability.—The Secretary shall make the report available to the publ
 
 The reporting obligations imposed by this section—
 
-&emsp;(1) are not intended to impose requirements that duplicate requirements imposed by the Government Performance and Results Act of 1993 (31 U.S.C. 1101 note);
+&emsp;(1) are not intended to impose requirements that duplicate requirements imposed by theGovernment Performance and Results Act of 1993 (31 U.S.C. 1101 note);
 
 &emsp;(2) are to be implemented in coordination with the implementation of that Act; and
 
@@ -292,9 +292,9 @@ Section 1. <i>Transfer of Federally Funded Technology.</i>
 
 (3) ensure that State and local governments, universities, and the private sector are provided with information on the technology, expertise, and facilities available in Federal laboratories;
 
-(4) promote the commercialization, in accord with my Memorandum to the Heads of Executive Departments and Agencies of February 18, 1983, of patentable results of federally funded research by granting to all contractors, regardless of size, the title to patents made in whole or in part with Federal funds, in exchange for royalty-free use by or on behalf of the government;
+(4) promote the commercialization, in accord with my Memorandum to the Heads of Executive Departments and Agencies of February 18, 1983, of patentable results of federally funded research by granting to all contractors, regardless of size, the title to patentsmade in whole or in part with Federal funds, in exchange for royalty-free use by or on behalf of the government;
 
-(5) administer all patents and licenses to inventions made with federal assistance, which are owned by the non-profit contractor or grantee, in accordance with Section 202(c)(7) of Title 35 of the United States Code as amended by Public Law 98–620, without regard to limitations on licensing found in that section prior to amendment or in Institutional Patent Agreements nowin effect that were entered into before that law was enacted on November 8, 1984, unless, in the case of an invention that has not been marketed, the funding agency determines, based on information in its files, that the contractor or grantee has not taken adequate steps to market the inventions, in accordance with applicable law or an Institutional Patent Agreement;
+(5) administer all patents and licenses to inventions made with federal assistance, which are owned by the non-profit contractor or grantee, in accordance with Section 202(c)(7) of Title 35 of the United States Code as amended by Public Law 98–620, without regard to limitations on licensing found in that section prior to amendment or in Institutional Patent Agreements now in effect that were entered into before that law was enacted on November 8, 1984, unless, in the case of an invention that has not been marketed, the funding agency determines, based on information in its files, that the contractor or grantee has not taken adequate steps to market the inventions, in accordance with applicable law or an Institutional Patent Agreement;
 
 (6) implement, as expeditiously as practicable, royalty-sharing programs with inventors who were employees of the agency at the time their inventions were made, and cash award programs; and
 
@@ -340,11 +340,7 @@ Sec. 7. <i>Reporting Requirements</i>. (a) Within 1 year from the date of this O
 
 (4) a compilation and assessment of the Technology Share Program established in Section 2 and, where appropriate, related cooperative research and development venture programs.
 
-Sec. 8. <i>Relation to Existing Law</i>. Nothing in this Order shall affect the continued applicability of any existing laws or regulations relating to the transfer of United States technology to other nations. The head of any Executive department or agency may exclude from consideration, under this Order, any technology that would be, if transferred, detrimental to the interests of national security.
+Sec. 8. <i>Relation to Existing Law</i>. Nothing in this Order shall affect the continued applicability of any existing laws or regulations relating to the transfer of United States technology to other nations. The head of any Executive department or agency may exclude from consideration, under this Order, any technology thatwould be, if transferred, detrimental to the interests of national security.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3704b–2, 3708, 3713, 3715 of this title; title 6 section 189; title 10 section 2371a; title 29 section 3032.
 

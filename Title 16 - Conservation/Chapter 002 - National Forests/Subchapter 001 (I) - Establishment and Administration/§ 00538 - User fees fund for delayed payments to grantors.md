@@ -4,7 +4,3 @@ Whenever the agreement under which the United States has obtained for the use of
 
 (Pub. L. 88–657, §7, Oct. 13, 1964, 78 Stat. 1090.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 533, 534, 536, 1608 of this title; title 43 section 1770.
-

@@ -232,7 +232,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained from books, records, or reports required to be maintained under paragraph (1) shall be kept confidential, and shall not be disclosed to the public by any person.
+&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained frombooks, records, or reports required to be maintained under paragraph (1) shall be kept confidential, and shall not be disclosed to the public by any person.
 
 #### (B) Disclosure
 
@@ -277,8 +277,4 @@ The order shall provide that the assessments collected under section 7445 of thi
 The order shall contain such other terms and conditions, not inconsistent with this subchapter, as are determined necessary by the Secretary to effectuate this subchapter.
 
 (Pub. L. 104–127, title V, §535, Apr. 4, 1996, 110 Stat. 1051.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7442, 7445 of this title.
 

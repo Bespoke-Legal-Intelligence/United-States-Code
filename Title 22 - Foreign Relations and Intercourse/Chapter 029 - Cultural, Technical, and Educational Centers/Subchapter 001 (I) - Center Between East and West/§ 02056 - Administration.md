@@ -34,7 +34,3 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (c), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title which redesignated International Communication Agency, and Director thereof, as United States Information Agency, and Director thereof. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2075 of this title.
-

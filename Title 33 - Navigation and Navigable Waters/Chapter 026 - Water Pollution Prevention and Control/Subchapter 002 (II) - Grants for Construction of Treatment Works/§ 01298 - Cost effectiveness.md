@@ -18,7 +18,3 @@ This section applies to projects for waste treatment and management for which no
 
 (June 30, 1948, ch. 758, title II, §218, as added Pub. L. 97–117, §19, Dec. 29, 1981, 95 Stat. 1630.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1382 of this title.
-

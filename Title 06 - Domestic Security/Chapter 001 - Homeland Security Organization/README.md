@@ -28,7 +28,8 @@
 | (b) | Inspector General. |
 | (c) | Commandant of the Coast Guard. |
 | (d) | Other officers. |
-| (e) | Performance of specific functions. |
+| (e) | Chief Financial Officer. |
+| (f) | Performance of specific functions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,6 +52,7 @@
 | (b) | Manner of access. |
 | (c) | Treatment under certain laws. |
 | (d) | Access to intelligence and other information. |
+| [123\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Directorate%20for%20Information%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000123%20-%20Terrorist%20travel%20program.md) | Terrorist travel program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -178,6 +180,16 @@
 | (a) | Establishment of program. |
 | (b) | Elements of program. |
 | (c) | Miscellaneous provisions. |
+| [194\.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000194%20-%20Enhancement%20of%20public%20safety%20communications%20interoperability.md) | Enhancement of public safety communications interoperability. |
+| (a) | Coordination of public safety interoperable communications programs. |
+| (b) | Report. |
+| (c) | International interoperability. |
+| (d) | Omitted. |
+| (e) | Multiyear interoperability grants. |
+| (f) | Interoperable communications plans. |
+| (g) | Definitions. |
+| (h) | Omitted. |
+| (i) | Sense of Congress regarding interoperable communications. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -390,6 +402,14 @@
 | (b) | Federal Response Plan. |
 | [318\.](Subchapter%20005%20%28V%29%20-%20Emergency%20Preparedness%20and%20Response/%C2%A7%2000318%20-%20Use%20of%20national%20private%20sector%20networks%20in%20emergency%20response.md) | Use of national private sector networks in emergency response. |
 | [319\.](Subchapter%20005%20%28V%29%20-%20Emergency%20Preparedness%20and%20Response/%C2%A7%2000319%20-%20Use%20of%20commercially%20available%20technology%2C%20goods%2C%20and%20services.md) | Use of commercially available technology, goods, and services. |
+| [320\.](Subchapter%20005%20%28V%29%20-%20Emergency%20Preparedness%20and%20Response/%C2%A7%2000320%20-%20Procurement%20of%20security%20countermeasures%20for%20Strategic%20National%20Stockpile.md) | Procurement of security countermeasures for Strategic National Stockpile. |
+| (a) | Authorization of appropriations. |
+| (b) | Special reserve fund. |
+| (c) | Availability. |
+| (d) | Related authorizations of appropriations. |
+| [321\.](Subchapter%20005%20%28V%29%20-%20Emergency%20Preparedness%20and%20Response/%C2%A7%2000321%20-%20Urban%20and%20other%20high%20risk%20area%20communications%20capabilities.md) | Urban and other high risk area communications capabilities. |
+| (a) | In general. |
+| (b) | Minimum capabilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -415,7 +435,12 @@
 | (a) | In general. |
 | (b) | Immigration. |
 | [342\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000342%20-%20Chief%20Financial%20Officer.md) | Chief Financial Officer. |
+| (a) | In general. |
+| (b) | Program analysis and evaluation function. |
+| (c) | Notification regarding transfer or reprogramming of funds. |
 | [343\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000343%20-%20Chief%20Information%20Officer.md) | Chief Information Officer. |
+| (a) | In general. |
+| (b) | Geospatial information functions. |
 | [344\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000344%20-%20Chief%20Human%20Capital%20Officer.md) | Chief Human Capital Officer. |
 | [345\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000345%20-%20Establishment%20of%20Officer%20for%20Civil%20Rights%20and%20Civil%20Liberties.md) | Establishment of Officer for Civil Rights and Civil Liberties. |
 | (a) | In general. |
@@ -492,6 +517,9 @@
 | (c) | Waiver. |
 | (d) | Coordination rule. |
 | (e) | Rule of construction. |
+| [413\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20E%20-%20Human%20Resources%20Management/%C2%A7%2000413%20-%20Use%20of%20counternarcotics%20enforcement%20activities%20in%20certain%20employee%20performance%20appraisals.md) | Use of counternarcotics enforcement activities in certain employee performance appraisals. |
+| (a) | In general. |
+| (b) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -570,7 +598,14 @@
 | [457\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000457%20-%20Regulatory%20authority%20and%20preemption.md) | Regulatory authority and preemption. |
 | (a) | Regulatory authority. |
 | (b) | Preemption of State or local law. |
-| [458\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000458%20-%20Counternarcotics%20officer.md) | Counternarcotics officer. |
+| [458\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000458%20-%20Office%20of%20Counternarcotics%20Enforcement.md) | Office of Counternarcotics Enforcement. |
+| (a) | Office. |
+| (b) | Assignment of personnel. |
+| (c) | Limitation on concurrent employment. |
+| (d) | Eligibility to serve as the United States Interdiction Coordinator. |
+| (e) | Responsibilities. |
+| (f) | Savings clause. |
+| (g) | Reports to Congress. |
 | [459\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000459%20-%20Office%20of%20International%20Affairs.md) | Office of International Affairs. |
 | (a) | Establishment. |
 | (b) | Duties of the Director. |
@@ -633,6 +668,17 @@
 | (a) | Report required. |
 | (b) | Specified congressional committees. |
 | [484\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20I%20-%20Information%20Sharing/%C2%A7%2000484%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [485\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20I%20-%20Information%20Sharing/%C2%A7%2000485%20-%20Information%20sharing.md) | Information sharing. |
+| (a) | Definitions. |
+| (b) | Information sharing environment. |
+| (c) | Preliminary report. |
+| (d) | Guidelines and requirements. |
+| (e) | Implementation plan report. |
+| (f) | Program manager. |
+| (g) | Information Sharing Council. |
+| (h) | Performance management reports. |
+| (i) | Agency responsibilities. |
+| (j) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -728,10 +774,6 @@
 | [557\.](Subchapter%20012%20%28XII%29%20-%20Transition/Part%20B%20-%20Transitional%20Provisions/%C2%A7%2000557%20-%20Reference.md) | Reference. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 40 section 1315.
 
 
 ---

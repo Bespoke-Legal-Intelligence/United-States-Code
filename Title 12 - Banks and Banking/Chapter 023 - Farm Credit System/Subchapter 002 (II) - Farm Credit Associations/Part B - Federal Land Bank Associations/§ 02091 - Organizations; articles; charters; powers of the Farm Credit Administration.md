@@ -62,7 +62,7 @@ The Farm Credit Administration shall have power, in the terms of the charter, un
 
 #### Prior Provisions
 
-A prior section 2091, Pub. L. 92–181, title II, §2.10, Dec. 10, 1971, 85 Stat. 597; Pub. L. 96–592, title II, §207, Dec.24, 1980, 94 Stat. 3442; Pub. L. 99–205, title II, §205(e)(10), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VIII, §§802(<i>l</i>), 805(g), Jan. 6, 1988, 101 Stat. 1711, 1715, related to organization and charters of production credit associations, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
+A prior section 2091, Pub. L. 92–181, title II, §2.10, Dec. 10, 1971, 85 Stat. 597; Pub. L. 96–592, title II, §207, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 99–205, title II, §205(e)(10), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VIII, §§802(<i>l</i>), 805(g), Jan. 6, 1988, 101 Stat. 1711, 1715, related to organization and charters of production credit associations, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 #### Amendments
 

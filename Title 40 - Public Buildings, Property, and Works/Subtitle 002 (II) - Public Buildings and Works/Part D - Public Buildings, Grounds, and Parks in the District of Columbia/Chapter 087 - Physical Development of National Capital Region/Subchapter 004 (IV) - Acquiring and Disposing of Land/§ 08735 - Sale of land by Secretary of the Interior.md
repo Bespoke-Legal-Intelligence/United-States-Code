@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Sell.—With the approval of the National Capital Planning Commission, the Secretary of the Interior, for the best interests of the Federal Government, may sell, by deed orinstrument, real estate held by the Government in the District of Columbia and under the jurisdiction of the National Park Service which may be no longer needed for public purposes. The land may be sold for cash or on a deferred-payment plan the Secretary approves, at a price not less than the Government paid for it and not less than its present appraised value as determined by the Secretary.
+Authority To Sell.—With the approval of the National Capital Planning Commission, the Secretary of the Interior, for the best interests of the Federal Government, may sell, by deed or instrument, real estate held by the Government in the District of Columbia and under the jurisdiction of the National Park Service which may be no longer needed for public purposes. The land may be sold for cash or on a deferred-payment plan the Secretary approves, at a price not less than the Government paid for it and not less than its present appraised value as determined by the Secretary.
 
 (b)
 
@@ -49,8 +49,4 @@ Aug. 5, 1939, ch. 449, §§4–6, 53 Stat. 1211.
 In subsection (a), the words “in his discretion”, “and convey, in whole or in part”, and “proper” are omitted as unnecessary.
 
 In subsection (b), reference to sections 72c to 72e is omitted as unnecessary because the Secretary of the Interior does not have authority to sell land under those sections.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8701, 8711 of this title.
 

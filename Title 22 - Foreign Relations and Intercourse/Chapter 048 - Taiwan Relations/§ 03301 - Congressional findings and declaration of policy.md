@@ -92,7 +92,3 @@ Sec. 4. <i>General</i>. This order supersedes Executive Order No. 12143 of June 
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3302 of this title.
-

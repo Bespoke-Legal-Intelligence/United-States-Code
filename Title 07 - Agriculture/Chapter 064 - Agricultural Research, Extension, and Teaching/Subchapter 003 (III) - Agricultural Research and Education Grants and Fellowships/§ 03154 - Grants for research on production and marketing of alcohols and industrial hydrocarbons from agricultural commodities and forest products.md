@@ -58,7 +58,3 @@ Subsec. (d). Pub. L. 107–171, §7134, substituted “2007” for “2002”.
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3311 of this title; title 42 section 8852.
-

@@ -4,7 +4,3 @@ The Secretary may remove an officer from active duty if his removal is recommend
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 189.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 327 of this title.
-

@@ -8,7 +8,3 @@
 
 (Pub. L. 88–24, §3, May 17, 1963, 77 Stat. 19.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 430uu–4 of this title.
-

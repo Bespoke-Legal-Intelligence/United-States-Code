@@ -14,7 +14,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 &emsp;&emsp;(B) make recommendations to Congress concerning such payment policies;
 
-&emsp;&emsp;(C) by not later than March 1 of each year (beginning with 1998), submit a report toCongress containing the results of such reviews and its recommendations concerning such policies; and
+&emsp;&emsp;(C) by not later than March 1 of each year (beginning with 1998), submit a report to Congress containing the results of such reviews and its recommendations concerning such policies; and
 
 &emsp;&emsp;(D) by not later than June 15 of each year, submit a report to Congress containing an examination of issues affecting the medicare program, including the implications of changes in health care delivery in the United States and in the market for health care services on the medicare program and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title.
 
@@ -84,7 +84,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 #### (A) In general
 
-&emsp;&emsp;The membership of the Commission shall include individuals with national recognition for their expertise in health finance and economics, actuarial science, health facility management, health plans and integrated delivery systems, reimbursement of health facilities, allopathic and osteopathic physicians, and other providers of health services, and other related fields, who provide a mix of different professionals, broad geographicrepresentation, and a balance between urban and rural representatives.
+&emsp;&emsp;The membership of the Commission shall include individuals with national recognition for their expertise in health finance and economics, actuarial science, health facility management, health plans and integrated delivery systems, reimbursement of health facilities, allopathic and osteopathic physicians, and other providers of health services, and other related fields, who provide a mix of different professionals, broad geographic representation, and a balance between urban and rural representatives.
 
 #### (B) Inclusion
 
@@ -92,7 +92,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 #### (C) Majority nonproviders
 
-&emsp;&emsp;Individuals who are directly involved in the provision, or management of the delivery, of items and services covered under this subchapter shall not constitute a majority of the membership of the Commission.
+&emsp;&emsp;Individuals who are directly involved in the provision, or management of the delivery, of items and services covered under thissubchapter shall not constitute a majority of the membership of the Commission.
 
 #### (D) Ethical disclosure
 
@@ -164,7 +164,7 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 #### (1) Request for appropriations
 
-&emsp;The Commission shall submit requests for appropriations in the same manner as the Comptroller General submits requests for appropriations, but amounts appropriated for the Commission shall be separate from amounts appropriated for the Comptroller General.
+&emsp;The Commission shall submit requests for appropriations in the same manner as the Comptroller General submits requests for appropriations, but amounts appropriated for theCommission shall be separate from amounts appropriated for the Comptroller General.
 
 #### (2) Authorization
 

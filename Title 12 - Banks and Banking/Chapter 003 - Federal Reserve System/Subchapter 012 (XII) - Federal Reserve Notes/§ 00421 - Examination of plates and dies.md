@@ -12,7 +12,3 @@ Section is comprised of eleventh par. of section 16 of act Dec. 23, 1913. For cl
 
 1994—Pub. L. 103–325 amended section generally. Prior to amendment, section read as follows: “The examination of plates, dies, bed pieces, and so forth, and regulations relating to such examination of plates, dies, and so forth, of national-bank notes provided for in section 108 of this title, is extended to include notes herein provided for.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 348, 420, 467 of this title.
-

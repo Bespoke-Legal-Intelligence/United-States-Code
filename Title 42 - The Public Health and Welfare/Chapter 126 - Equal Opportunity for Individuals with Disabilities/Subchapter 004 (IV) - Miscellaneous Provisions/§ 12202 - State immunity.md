@@ -4,9 +4,5 @@ A State shall not be immune under the eleventh amendment to the Constitution of 
 
 (Pub. L. 101–336, title V, §502, July 26, 1990, 104 Stat. 370.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 29 sections 791, 793, 794.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “in a”.</i>
 

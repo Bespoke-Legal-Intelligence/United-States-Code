@@ -38,7 +38,3 @@ Any lands within the James Peak Wilderness or the Protection Area acquired by th
 
 This Act, referred to in subsec. (b)(2), is Pub. L. 107–216, Aug. 21, 2002, 116 Stat. 1055, which is classified principally to sections 539<i>l</i> to 539<i>l</i>–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 539<i>l</i> of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 539<i>l</i>, 539<i>l</i>–3, 539<i>l</i>–5 of this title.
-

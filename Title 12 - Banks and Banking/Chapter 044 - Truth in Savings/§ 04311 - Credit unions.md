@@ -18,7 +18,3 @@ Within 90 days of the effective date of any regulation prescribed by the Board u
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4308 of this title.
-

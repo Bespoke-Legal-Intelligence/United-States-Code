@@ -58,7 +58,7 @@ Priorities.—In selecting unregulated contaminants for consideration under subp
 
 &emsp;(D)
 
-Urgent threats to public health.—The Administrator may promulgate an interim national primary drinking water regulation for a contaminant without making a determination for the contaminant under paragraph (4)(C), or completing the analysis under paragraph (3)(C), to address an urgent threat to publichealth as determined by the Administrator after consultation with and written response to any comments provided by the Secretary of Health and Human Services, acting through the director of the Centers for Disease Control and Prevention or the director of the National Institutes of Health. A determination for any contaminant in accordance with paragraph (4)(C) subject to an interim regulation under this subparagraph shall be issued, and a completed analysis meeting the requirements of paragraph (3)(C) shall be published, not later than 3 years after the date on which the regulation is promulgated and the regulation shall be repromulgated, or revised if appropriate, not later than 5 years after that date.
+Urgent threats to public health.—The Administrator may promulgate an interim national primary drinking water regulation for a contaminant without making a determination for the contaminant under paragraph (4)(C), or completing the analysis under paragraph (3)(C), to address an urgent threat to public health as determined by the Administrator after consultation with and written response to any comments provided by the Secretary of Health and Human Services, acting through the director of the Centers for Disease Control and Prevention or the director of the National Institutes of Health. A determination for any contaminant in accordance with paragraph (4)(C) subject to an interim regulation under this subparagraph shall be issued, and a completed analysis meeting the requirements of paragraph (3)(C) shall be published, not later than 3 years after the date on which the regulation is promulgated and the regulation shall be repromulgated, or revised if appropriate, not later than 5 years after that date.
 
 &emsp;(E)
 
@@ -122,13 +122,13 @@ Health risk reduction and cost analysis.—
 
 &emsp;&emsp;(i)
 
-Maximum contaminant levels.—When proposing any national primary drinking water regulation that includes a maximumcontaminant level, the Administrator shall, with respect to a maximum contaminant level that is being considered in accordance with paragraph (4) and each alternative maximum contaminant level that is being considered pursuant to paragraph (5) or (6)(A), publish, seek public comment on, and use for the purposes of paragraphs (4), (5), and (6) an analysis of each of the following:
+Maximum contaminant levels.—When proposing any national primary drinking water regulation that includes a maximum contaminant level, the Administrator shall, with respect to a maximum contaminant level that is being considered in accordance with paragraph (4) and each alternative maximum contaminant level that is being considered pursuant to paragraph (5) or (6)(A), publish, seek public comment on, and use for the purposes of paragraphs (4), (5), and (6) an analysis of each of the following:
 
 &emsp;&emsp;&emsp;(I) Quantifiable and nonquantifiable health risk reduction benefits for which there is a factual basis in the rulemaking record to conclude that such benefits are likely to occur as the result of treatment to comply with each level.
 
 &emsp;&emsp;&emsp;(II) Quantifiable and nonquantifiable health risk reduction benefits for which there is a factual basis in the rulemaking record to conclude that such benefits are likely to occur from reductions in co-occurring contaminants that may be attributed solely to compliance with the maximum contaminant level, excluding benefits resulting from compliance with other proposed or promulgated regulations.
 
-&emsp;&emsp;&emsp;(III) Quantifiable and nonquantifiable costs for which there is a factual basis in the rulemaking record to conclude that such costs are likely to occur solely as a result of compliance with the maximum contaminant level, including monitoring, treatment, and other costs and excluding costs resulting from compliance with other proposed or promulgated regulations.
+&emsp;&emsp;&emsp;(III) Quantifiable and nonquantifiable costs for which there is a factual basis in the rulemaking record to conclude thatsuch costs are likely to occur solely as a result of compliance with the maximum contaminant level, including monitoring, treatment, and other costs and excluding costs resulting from compliance with other proposed or promulgated regulations.
 
 &emsp;&emsp;&emsp;(IV) The incremental costs and benefits associated with each alternative maximum contaminant level considered.
 
@@ -180,7 +180,7 @@ In general.—Each national primary drinking water regulation which establishes 
 
 &emsp;&emsp;(ii)
 
-List of technologies for small systems.—The Administrator shall include in the list any technology, treatment technique, or other means that is affordable, asdetermined by the Administrator in consultation with the States, for small public water systems serving—
+List of technologies for small systems.—The Administrator shall include in the list any technology, treatment technique, or other means that is affordable, as determined by the Administrator in consultation with the States, for small public water systems serving—
 
 &emsp;&emsp;&emsp;(I) a population of 10,000 or fewer but more than 3,300;
 
@@ -188,7 +188,7 @@ List of technologies for small systems.—The Administrator shall include in the
 
 &emsp;&emsp;&emsp;(III) a population of 500 or fewer but more than 25;
 
-> &emsp;&emsp;and that achieves compliance with the maximum contaminant level or treatment technique, including packaged or modular systems and point-of-entry or point-of-use treatment units. Point-of-entry and point-of-use treatment units shall be owned, controlled and maintained by the public water system or by a person under contract with the public water system to ensure proper operation and maintenance and compliance with the maximum contaminant level or treatment technique and equipped with mechanical warnings to ensure that customers are automatically notified of operational problems. The Administrator shall not include in the list any point-of-use treatment technology, treatment technique, or other means to achieve compliance with a maximum contaminant level or treatment technique requirement for a microbial contaminant (or an indicator of a microbial contaminant). If the American National Standards Institute has issued product standards applicable to a specific type of point-of-entry or point-of-use treatment unit, individual units of that type shall not be accepted for compliance with a maximum contaminant level or treatment technique requirement unless they are independently certified in accordance with such standards. In listing any technology, treatment technique, or other means pursuant to this clause, the Administrator shall consider the quality of the source water to be treated.
+> &emsp;&emsp;and that achieves compliance with the maximum contaminant level or treatment technique, including packaged or modular systems and point-of-entry or point-of-use treatment units. Point-of-entry and point-of-use treatment units shall be owned, controlled and maintained by the public water system or by a person under contract with the public water system to ensure proper operation and maintenance and compliance with the maximum contaminant level or treatment technique and equipped with mechanical warnings to ensure that customers are automatically notified of operational problems. The Administrator shall not include in the list any point-of-use treatment technology, treatment technique, or othermeans to achieve compliance with a maximum contaminant level or treatment technique requirement for a microbial contaminant (or an indicator of a microbial contaminant). If the American National Standards Institute has issued product standards applicable to a specific type of point-of-entry or point-of-use treatment unit, individual units of that type shall not be accepted for compliance with a maximum contaminant level or treatment technique requirement unless they are independently certified in accordance with such standards. In listing any technology, treatment technique, or other means pursuant to this clause, the Administrator shall consider the quality of the source water to be treated.
 
 &emsp;&emsp;(iii)
 
@@ -246,7 +246,7 @@ Disinfectants and disinfection byproducts.—The Administrator may not use the a
 
 &emsp;(D)
 
-Judicial review.—A determination by the Administrator that the benefits of a maximum contaminant level or treatment requirement justify or do not justify the costs of complying with the level shall be reviewed by the court pursuant to section 300j–7 of this title only as part of a review of a final national primary drinking water regulation that has been promulgated based on the determination and shall not be set aside by the court under that section unless the court finds that the determination is arbitrary and capricious.
+Judicial review.—A determination by the Administrator that the benefits of a maximum contaminant level or treatment requirement justify or do not justify the costs of complying with the level shall be reviewed by the court pursuant to section 300j–7 of this title only as part of a review of a final national primary drinking water regulation that has been promulgated based on the determination and shall not be set aside by the court under thatsection unless the court finds that the determination is arbitrary and capricious.
 
 (7)(A) The Administrator is authorized to promulgate a national primary drinking water regulation that requires the use of a treatment technique in lieu of establishing a maximum contaminant level, if the Administrator makes a finding that it is not economically or technologically feasible to ascertain the level of the contaminant. In such case, the Administrator shall identify those treatment techniques which, in the Administrator's judgment, would prevent known or anticipated adverse effects on the health of persons to the extent feasible. Such regulations shall specify each treatment technique known to the Administrator which meets the requirements of this paragraph, but the Administrator may grant a variance from any specified treatment technique in accordance with section 300g–4(a)(3) of this title.
 
@@ -272,7 +272,7 @@ Review and revision.—The Administrator shall, not less often than every 6 year
 
 (10)
 
-Effective date.—A national primary drinking water regulation promulgated under this section (and any amendment thereto) shall take effect on the date that is 3 years after the date on which the regulation is promulgated unless the Administrator determines that an earlier date is practicable, except that the Administrator, or a State (in the case of an individual system), may allow up to 2 additional years to comply with a maximum contaminant level or treatment technique if the Administrator or State (in the case of an individual system) determines that additional time is necessary for capital improvements.
+Effective date.—A national primary drinking water regulation promulgated under this section (and any amendment thereto) shall take effect on the date that is 3 years after thedate on which the regulation is promulgated unless the Administrator determines that an earlier date is practicable, except that the Administrator, or a State (in the case of an individual system), may allow up to 2 additional years to comply with a maximum contaminant level or treatment technique if the Administrator or State (in the case of an individual system) determines that additional time is necessary for capital improvements.
 
 (11) No national primary drinking water regulation may require the addition of any substance for preventive health care purposes unrelated to contamination of drinking water.
 
@@ -350,7 +350,7 @@ Other organization.—If the National Academy of Sciences declines to prepare th
 
 &emsp;(C)
 
-Health risk reduction and cost analysis.—Not later than 30 months after August 6, 1996, the Administrator shall publish, and seek public comment on, a health risk reduction and cost analysis meeting the requirements of paragraph (3)(C) for potential maximum contaminant levels that are being considered for radon in drinking water. The Administrator shall include a response to all significant public comments received on the analysis with the preamble for the proposed rule published under subparagraph (D).
+Health risk reduction and cost analysis.—Not later than 30 months after August 6, 1996, the Administrator shall publish, and seek public comment on, a health risk reductionand cost analysis meeting the requirements of paragraph (3)(C) for potential maximum contaminant levels that are being considered for radon in drinking water. The Administrator shall include a response to all significant public comments received on the analysis with the preamble for the proposed rule published under subparagraph (D).
 
 &emsp;(D)
 
@@ -386,7 +386,7 @@ Review.—The Administrator shall periodically, but not less often than every 5 
 
 &emsp;&emsp;(v)
 
-Extension.—If, within 90 days after the promulgation of an alternative maximum contaminant level under subparagraph (F), the Governor of a State submits a letter to the Administrator committing to develop amultimedia mitigation program under this subparagraph, the effective date of the national primary drinking water regulation for radon in the State that would be applicable under paragraph (10) shall be extended for a period of 18 months.
+Extension.—If, within 90 days after the promulgation of an alternative maximum contaminant level under subparagraph (F), the Governor of a State submits a letter to the Administrator committing to develop a multimedia mitigation program under this subparagraph, the effective date of the national primary drinking water regulation for radon in the State that would be applicable under paragraph (10) shall be extended for a period of 18 months.
 
 &emsp;&emsp;(vi)
 
@@ -436,7 +436,7 @@ Regulations under this section shall be prescribed in accordance with section 55
 
 The Administrator shall request comments from the Science Advisory Board (established under the Environmental Research, Development, and Demonstration Act of 1978) prior to proposal of a maximum contaminant level goal and national primary drinking water regulation. The Board shall respond, as it deems appropriate, within the time period applicable for promulgation of the national primary drinking water standard concerned. This subsection shall, under no circumstances, be used to delay final promulgation of any national primary drinking water standard.
 
-(July 1, 1944, ch. 373, title XIV, §1412, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1662; amended Pub. L. 95–190, §§3(c), 12(a), Nov. 16, 1977, 91 Stat. 1394, 1398; Pub. L. 99–339, title I, §101(a)–(c)(1), (d), (e), June 19, 1986, 100 Stat. 642–646; Pub. L. 104–182, title I, §§102(a), (c)(2), 103, 104(a), (c), 105–111(a), title V, §501(a)(1), (2), Aug. 6, 1996, 110 Stat. 1617, 1621–1623, 1625–1631, 1691.)
+(July 1, 1944, ch. 373, title XIV, §1412, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1662;amended Pub. L. 95–190, §§3(c), 12(a), Nov. 16, 1977, 91 Stat. 1394, 1398; Pub. L. 99–339, title I, §101(a)–(c)(1), (d), (e), June 19, 1986, 100 Stat. 642–646; Pub. L. 104–182, title I, §§102(a), (c)(2), 103, 104(a), (c), 105–111(a), title V, §501(a)(1), (2), Aug. 6, 1996, 110 Stat. 1617, 1621–1623, 1625–1631, 1691.)
 
 #### References in Text
 
@@ -517,8 +517,4 @@ Section 102(b) of Pub. L. 104–182 provided that: “The requirements of subpar
 #### Disinfectants and Disinfection Byproducts
 
 Section 104(b) of Pub. L. 104–182 provided that: “The Administrator of the Environmental Protection Agency may use the authority of section 1412(b)(5) of the Safe Drinking Water Act \[subsec. (b)(5) of this section\] (as amended by this Act) to promulgate the Stage I and Stage II Disinfectants and Disinfection Byproducts Rules as proposed in volume 59, Federal Register, page 38668 (July 29, 1994). The considerations used in the development of the July 29, 1994, proposed national primary drinking water regulation on disinfectants and disinfection byproducts shall be treated as consistent with such section 1412(b)(5) for purposes of such Stage I and Stage II rules.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300f, 300g–2, 300g–3, 300g–4, 300g–5, 300j–2, 300j–3, 300j–3b, 300j–4, 300j–12, 300j–14 of this title; title 21 section 349.
 

@@ -30,7 +30,3 @@ The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (d), is 
 
 1999—Subsec. (a). Pub. L. 106–113 substituted “natural resources” for “forest resources” and “National Forest System land resources” for “national forest resources”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6613 of this title.
-

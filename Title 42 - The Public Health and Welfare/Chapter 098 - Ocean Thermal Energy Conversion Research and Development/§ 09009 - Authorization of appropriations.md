@@ -14,7 +14,3 @@ Project 81–ES–1, ocean thermal energy conversion demonstration plants with a
 
 (Pub. L. 96–310, §10, July 17, 1980, 94 Stat. 946.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9005 of this title.
-

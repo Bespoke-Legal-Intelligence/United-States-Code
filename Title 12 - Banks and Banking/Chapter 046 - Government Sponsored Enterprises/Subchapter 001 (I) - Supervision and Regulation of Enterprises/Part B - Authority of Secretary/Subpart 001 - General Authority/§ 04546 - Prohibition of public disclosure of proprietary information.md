@@ -14,7 +14,3 @@ This section may not be construed to authorize the disclosure of information to,
 
 (Pub. L. 102–550, title XIII, §1326, Oct. 28, 1992, 106 Stat. 3955.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1456, 1723a, 4543 of this title.
-

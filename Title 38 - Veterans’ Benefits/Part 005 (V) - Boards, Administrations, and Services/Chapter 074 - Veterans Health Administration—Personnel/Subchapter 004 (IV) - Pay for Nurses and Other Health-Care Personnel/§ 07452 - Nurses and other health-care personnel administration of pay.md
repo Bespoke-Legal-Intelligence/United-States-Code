@@ -6,7 +6,7 @@
 
 (3) An employee in a covered position who is promoted to the next higher grade shall be paid in that grade at a step having a rate of basic pay that is greater than the rate of basic pay applicable to the employee in a covered position on the day before the effective date of the promotion.
 
-(b)(1) Under regulations which the Secretary prescribes for the administration of this section, the director of a Department health-care facility (A) shall pay a cash bonus (in an amount to be determined by the director not to exceed $2,000) to an employee in a covered position at that facility who becomes certified in a specialty recognized by the Department, and (B) may provide such a bonus to an employee in such a position who has demonstrated both exemplary job performance and exemplary jobachievement. The authority of the Secretary under this subsection is in addition to any other authority of the Secretary to provide job performance incentives.
+(b)(1) Under regulations which the Secretary prescribes for the administration of this section, the director of a Department health-care facility (A) shall pay a cash bonus (in an amount to be determined by the director not to exceed $2,000) to an employee in a covered position at that facility who becomes certified in a specialty recognized by the Department, and (B) may provide such a bonus to an employee in such a position who has demonstrated both exemplary job performance and exemplary job achievement. The authority of the Secretary under this subsection is in addition to any other authority of the Secretary to provide job performance incentives.
 
 (2) The Secretary shall include in the annual report under section 7451(g) <sup>1</sup> of this title a discussion of the use during the period covered by the report of the payment of bonuses under this subsection and other job performance incentives available to the Secretary.
 
@@ -22,7 +22,7 @@
 
 &emsp;(B) in the first budget documents submitted to the Secretary by the director after the employee is employed, include documentation for the need for such increased rates of basic pay described in clause (A).
 
-(5) Whenever the director of a health-care facility makes an appointment described in paragraph (1) on the basis of a determination described in paragraph (2), the covered employee appointed may continue to receive pay at a rate higher than that which would otherwise be applicable to that employee only so long as the employee continues to serve in a position requiring the specialized skills with respect to which the determination was made.
+(5) Whenever the director of a health-care facility makes an appointment described in paragraph (1) on the basis of a determination described in paragraph (2), the covered employee appointed may continue to receive pay at a ratehigher than that which would otherwise be applicable to that employee only so long as the employee continues to serve in a position requiring the specialized skills with respect to which the determination was made.
 
 (d) Whenever the director of a health-care facility makes an appointment described in subsection (c)(1), the director may (without a regard to any requirement for prior approval at any higher level of authority within the Department) increase the rate of pay of other employees in the same covered position at that facility who are in the grade in which the appointment is made and are serving in a position requiring the specialized skills with respect to which the determination under subsection (c)(2) concerning the appointment was made. Any such increase shall continue in effect with respect to any employee only so long as the employee continues to serve in such a position.
 
@@ -30,13 +30,27 @@
 
 (f) In this section, the term “covered position” has the meaning given that term in section 7451 of this title.
 
-(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 435, §4142; renumbered §7452 and amended Pub. L. 102–40, title III, §301(d), title IV, §401(c)(1)(A), (3), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–585, title III, §304(a), Nov. 4, 1992, 106 Stat. 4952.)
+(g)(1) In order to recruit and retain highly qualified Department nurse executives, the Secretary may, in accordance with regulations prescribed by the Secretary, pay special pay to the nurse executive at each location as follows:
+
+&emsp;(A) Each Department health care facility.
+
+&emsp;(B) The Central Office.
+
+(2) The amount of special pay paid to a nurse executive under paragraph (1) shall be not less than $10,000 or more than $25,000.
+
+(3) The amount of special pay paid to a nurse executive under paragraph (1) shall be based on factors such as the grade of the nurse executive position, the scope and complexity of the nurse executive position, the personal qualifications of the nurse executive, the characteristics of the health care facility concerned, the nature and number of specialty care units at the health care facility concerned, demonstrated difficulties in recruitment and retention of nurse executives at the health care facility concerned, and such other factors as the Secretary considers appropriate.
+
+(4) Special pay paid to a nurse executive under paragraph (1) shall be in addition to any other pay (including basic pay) and allowances to which the nurse executive is entitled, and shall be considered pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5, and other benefits, but shall not be considered basic pay for purposes of adverse actions under subchapter V of this chapter.
+
+(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 435, §4142; renumbered §7452 and amended Pub. L. 102–40, title III, §301(d), title IV, §401(c)(1)(A), (3), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–585, title III, §304(a), Nov. 4, 1992, 106 Stat. 4952; Pub. L. 108–445, §5, Dec. 3, 2004, 118 Stat. 2645.)
 
 #### References in Text
 
 Section 7451(g) of this title, referred to in subsecs. (b)(2) and (e), was repealed and subsec. (h) of section 7451 was redesignated (g) by Pub. L. 106–419, title II, §201(a)(4), Nov. 1, 2000, 114 Stat. 1840.
 
 #### Amendments
+
+2004—Subsec. (g). Pub. L. 108–445 added subsec. (g).
 
 1992—Subsec. (e). Pub. L. 102–585 inserted before period at end “, except that in the case of an employee whose transfer (other than pursuant to a disciplinary action otherwise authorized by law) to another health-care facility is at the request of the Secretary, the Secretary may provide that for at least the first year following such transfer the employee shall be paid at a rate of basic pay up to the rate applicable to such employee before the transfer, if the Secretary determines that such rate of pay is necessary to fill the position. Whenever the Secretary exercises the authority under the preceding sentence relating to the rate of basic pay of a transferred employee, the Secretary shall, in the next annual report required under section 7451(g) of this title, provide justification for doing so”.
 
@@ -59,10 +73,6 @@ Subsec. (f). Pub. L. 102–40, §401(c)(3)(D), substituted “7451” for “414
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–585 effective with respect to first pay period beginning on or after end of six-month period beginning on Nov. 4, 1992, see section 308 of Pub. L. 102–585, set out as a note under section 7404 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7451 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

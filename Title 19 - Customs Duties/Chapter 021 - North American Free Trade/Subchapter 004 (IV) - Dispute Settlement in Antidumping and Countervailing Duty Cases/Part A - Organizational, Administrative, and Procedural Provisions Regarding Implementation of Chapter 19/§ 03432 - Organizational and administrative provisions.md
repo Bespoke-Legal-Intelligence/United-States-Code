@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(iii) exercise oversight of the administration of the United States Section that is authorized to be established under section 3315 of this title; and
 
-&emsp;&emsp;&emsp;(iv) make recommendations to the Trade Representative regarding the convening ofextraordinary challenge committees and special committees under chapter 19.
+&emsp;&emsp;&emsp;(iv) make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees and special committees under chapter 19.
 
 #### (3) Preliminary candidate lists
 
@@ -104,7 +104,7 @@
 
 #### (A) Submission of lists to Congressional Committees
 
-&emsp;&emsp;No later than March 31 of each calendar year, the Trade Representative shall submit to the appropriate Congressional Committees the final candidate lists of those individuals selected by the Trade Representative to be candidates eligible to serve on panels and committees convened under chapter 19 during the 1-year period beginning on April 1 of such calendar year. An individual may be included on a final candidate list only if such individual was included in the preliminary candidate list or if written notice of the addition of such individual to the preliminary candidate list was submitted to the appropriate Congressional Committees at least 15 days before the date on which that final candidate list is submitted to such Committees under this subparagraph.
+&emsp;&emsp;No later than March 31 of each calendar year, the Trade Representative shall submit to the appropriate Congressional Committees the final candidate lists of those individuals selected by the Trade Representative to be candidates eligible to serve on panels and committees convened under chapter 19 during the 1-year period beginning on April 1 of such calendar year. An individual may be included on a final candidate list only ifsuch individual was included in the preliminary candidate list or if written notice of the addition of such individual to the preliminary candidate list was submitted to the appropriate Congressional Committees at least 15 days before the date on which that final candidate list is submitted to such Committees under this subparagraph.
 
 #### (B) Finality of lists
 
@@ -227,8 +227,4 @@ The Tariff Act of 1930, referred to in subsec. (g), is act June 17, 1930, ch. 49
 #### North American Free Trade Agreement: Entry Into Force
 
 The North American Free Trade Agreement entered into force on Jan. 1, 1994, see note set out under section 3311 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1677f, 3315 of this title.
 

@@ -44,7 +44,3 @@ Subsecs. (c) to (f). Pub. L. 85–624 added subsecs. (c) to (f).
 
 See Transfer of Functions note set out under section 661 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 662, 664 of this title.
-

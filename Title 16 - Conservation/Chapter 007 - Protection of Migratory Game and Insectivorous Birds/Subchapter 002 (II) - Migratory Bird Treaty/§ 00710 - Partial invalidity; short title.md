@@ -8,6 +8,10 @@ If any clause, sentence, paragraph, or part of this subchapter, which shall be k
 
 The provisions of this section relating to short title are from section 1 of act July 3, 1918, and the provisions relating to severability are from section 10 of that act.
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–447, div. E, title I, §143(a), Dec. 8, 2004, 118 Stat. 3071, provided that: “This section \[amending section 703 of this title and enacting provisions set out as notes under section 703 of this title\] may be cited as the ‘Migratory Bird Treaty Reform Act of 2004’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–312, title I, §101, Oct. 30, 1998, 112 Stat. 2956, provided that: “This title \[amending sections 704 and 707 of this title and enacting provisions set out as a note under section 704 of this title\] may be cited as the ‘Migratory Bird Treaty Reform Act of 1998’.”

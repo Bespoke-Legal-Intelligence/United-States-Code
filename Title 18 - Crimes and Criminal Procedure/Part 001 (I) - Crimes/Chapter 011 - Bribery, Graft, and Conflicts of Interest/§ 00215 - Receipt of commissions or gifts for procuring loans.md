@@ -54,7 +54,3 @@ Subsec. (b). Pub. L. 101–73, §962(e)(1), transferred subsec. (b) to section 2
 
 Section 3 of Pub. L. 99–370 provided that: “This Act and the amendments made by this Act \[amending this section and enacting a provision set out as a note under section 201 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Aug. 4, 1986\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 225, 981, 982, 1510, 1956, 3293, 3322 of this title; title 12 sections 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b.
-

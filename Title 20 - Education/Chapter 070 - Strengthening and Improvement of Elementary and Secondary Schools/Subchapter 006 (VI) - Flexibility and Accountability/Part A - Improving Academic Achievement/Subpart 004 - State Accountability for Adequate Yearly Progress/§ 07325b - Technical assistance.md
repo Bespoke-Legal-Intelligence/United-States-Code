@@ -20,7 +20,3 @@ The technical assistance described in subsection (a) of this section shall—
 
 (Pub. L. 89–10, title VI, §6163, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1890.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7325c of this title.
-

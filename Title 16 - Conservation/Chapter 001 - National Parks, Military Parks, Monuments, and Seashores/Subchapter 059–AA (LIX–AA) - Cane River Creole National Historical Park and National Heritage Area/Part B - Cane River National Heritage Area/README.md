@@ -1,9 +1,5 @@
 Part B—Cane River National Heritage Area
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 410ccc–1 of this title.
-
 
 ---
 

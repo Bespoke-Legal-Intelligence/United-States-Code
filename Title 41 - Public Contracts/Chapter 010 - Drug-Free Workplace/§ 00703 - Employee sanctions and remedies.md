@@ -8,7 +8,3 @@ A grantee or contractor shall, within 30 days after receiving notice from an emp
 
 (Pub. L. 100–690, title V, §5154, Nov. 18, 1988, 102 Stat. 4307.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701, 702 of this title; title 42 section 12644.
-

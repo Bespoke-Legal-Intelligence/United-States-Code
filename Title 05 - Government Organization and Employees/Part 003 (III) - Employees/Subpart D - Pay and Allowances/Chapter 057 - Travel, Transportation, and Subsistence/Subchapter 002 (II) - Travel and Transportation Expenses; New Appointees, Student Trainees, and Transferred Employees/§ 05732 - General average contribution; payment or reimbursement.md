@@ -52,7 +52,7 @@ Section 1. <i>Definitions</i>. As used in these regulations:
 
 (e) The term “general-average contribution” means the contribution by all parties to a sea venture (1) to make good the loss sustained by any one of their number on account of voluntary sacrifices made of part of the ship or cargo to save the residue or the lives of those on board from impending peril, or (2) for extraordinary expenses necessarily incurred for the common benefit and safety of all.
 
-(f) The term “household goods” means such baggage, household goods, and effects, including privately-owned automobiles and professional books, papers, and equipment, of military personnel and civilian employees as are authorized to be transported at Government expense by law or regulations pursuant to law.
+(f) The term “household goods” means such baggage, household goods, and effects, including privately-ownedautomobiles and professional books, papers, and equipment, of military personnel and civilian employees as are authorized to be transported at Government expense by law or regulations pursuant to law.
 
 Sec. 2. <i>Allowance of general-average contributions</i>. Whenever military personnel or civilian employees of a department are liable for general-average contributions arising out of shipments of household goods (as defined in section 1 (f) hereof), authorized or approved under law or regulations pursuant to law, disbursements shall be made, under rules and regulations prescribed by the head of the department concerned, from appropriations chargeable for the transportation of baggage and household goods and effects (a) for the payment of the general-average contributions for which such military personnel or civilian employees are liable, or (b) for the reimbursement of such military personnel or civilian employees in the amounts of their general-average liability paid by them and for which receipts are furnished, subject to the limitations set forth in section 3 hereof.
 
@@ -67,8 +67,4 @@ Sec. 3. <i>Limitations</i>. The provisions of section 2 hereof shall not apply:
 Sec. 4. <i>Effective date</i>. This order shall be effective in any case in which the loss involved occurs, or has occurred, on or after June 4, 1954.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 1701h; title 22 section 2504.
 

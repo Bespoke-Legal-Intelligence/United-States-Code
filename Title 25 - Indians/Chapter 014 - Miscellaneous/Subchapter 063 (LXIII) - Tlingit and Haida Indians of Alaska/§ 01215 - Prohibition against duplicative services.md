@@ -8,7 +8,3 @@ Other federally recognized tribes in Southeast Alaska shall have precedence over
 
 1996—Pub. L. 104–109 substituted “Indian Tribes of Alaska.” for “Indian tribes of Alaska.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1214 of this title.
-

@@ -1,9 +1,5 @@
 subpart 1—charter school programs
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 7861 of this title.
-
 
 ---
 

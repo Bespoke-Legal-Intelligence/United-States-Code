@@ -18,9 +18,5 @@ Section 153 of title 47, referred to in subsec. (a), was subsequently amended an
 
 1962—Subsec. (a). Pub. L. 87–862 included the transmission of sounds, signals, pictures, writing, or signs of all kinds within “telephone service”, and substituted “message telegram service or community antenna television system services or facilities other than those intended exclusively for educational purposes” for “telegraph services or facilities”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 913, 948 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

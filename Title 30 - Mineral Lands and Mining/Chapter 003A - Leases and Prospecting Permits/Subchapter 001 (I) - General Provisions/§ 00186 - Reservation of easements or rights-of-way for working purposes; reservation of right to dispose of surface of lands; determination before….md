@@ -4,7 +4,3 @@ Any permit, lease, occupation, or use permitted under this chapter shall reserve
 
 (Feb. 25, 1920, ch. 85, §29, 41 Stat. 449.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 275, 285 of this title; title 10 sections 7421, 7435.
-

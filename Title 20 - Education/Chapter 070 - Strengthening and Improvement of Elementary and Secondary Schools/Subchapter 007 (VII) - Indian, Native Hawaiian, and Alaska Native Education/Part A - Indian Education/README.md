@@ -1,9 +1,5 @@
 Part A—Indian Education
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1401, 6312, 7824 of this title.
-
 
 ---
 

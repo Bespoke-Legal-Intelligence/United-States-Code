@@ -2,7 +2,7 @@
 
 #### (a) “Cooperative association” defined
 
-As used in this chapter, the term “cooperative association” means any association in which farmers act together in processing, preparing for market, handling, and/or marketing the farm products of persons so engaged, and also means any association in which farmers act together in purchasing, testing, grading, processing, distributing, and/or furnishing farm supplies and/orfarm business services: <i>Provided, however</i>, That such associations are operated for the mutual benefit of the members thereof as such producers or purchasers and conform to one or both of the following requirements:
+As used in this chapter, the term “cooperative association” means any association in which farmers act together in processing, preparing for market, handling, and/or marketing the farm products of persons so engaged, and also means any association in which farmers act together in purchasing, testing, grading, processing, distributing, and/or furnishing farm supplies and/or farm business services: <i>Provided, however</i>, That such associations are operated for the mutual benefit of the members thereof as such producers or purchasers and conform to one or both of the following requirements:
 
 First. That no member of the association is allowed more than one vote because of the amount of stock or membership capital he may own therein; and
 
@@ -61,8 +61,4 @@ Establishment of Farm Credit Administration as an independent agency, compositio
 #### Exceptions From Transfer of Functions
 
 Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 504; title 7 sections 499e, 2302; title 15 section 632; title 26 section 3131; title 28 section 2412; title 29 section 203; title 42 sections 410, 8802; title 49 sections 13506, 13508.
 

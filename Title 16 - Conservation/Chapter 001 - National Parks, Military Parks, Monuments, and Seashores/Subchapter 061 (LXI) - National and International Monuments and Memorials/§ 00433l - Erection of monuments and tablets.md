@@ -8,7 +8,3 @@ Any State, or political subdivision thereof, organization, or individual may, wi
 
 “Whitman National Monument” redesignated “Whitman Mission National Historic Site” by Pub. L. 87–471, set out as section 433n of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 433m, 433n of this title.
-

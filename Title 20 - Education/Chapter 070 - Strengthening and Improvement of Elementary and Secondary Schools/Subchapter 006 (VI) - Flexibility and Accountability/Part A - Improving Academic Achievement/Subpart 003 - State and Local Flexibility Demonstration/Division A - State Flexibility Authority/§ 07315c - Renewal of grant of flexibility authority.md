@@ -18,7 +18,3 @@ A renewal under this section shall be effective on the later of—
 
 (Pub. L. 89–10, title VI, §6144, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1884.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7315b of this title.
-

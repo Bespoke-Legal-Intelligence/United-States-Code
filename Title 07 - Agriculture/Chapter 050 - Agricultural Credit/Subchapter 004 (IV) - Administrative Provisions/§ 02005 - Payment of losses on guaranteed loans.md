@@ -42,7 +42,3 @@ For definition of “this chapter”, referred to in subsec. (a), see note set o
 
 1990—Subsec. (b)(1), (2). Pub. L. 101–624 substituted “1981(b)(4)” for “1981(d)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1991 of this title.
-

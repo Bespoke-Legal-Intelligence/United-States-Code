@@ -30,7 +30,3 @@ Pub. L. 95–251 substituted references to administrative law judges for referen
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 559, 1305 of this title; title 15 sections 1541, 1715; title 29 section 661; title 30 section 823; title 31 section 3801; title 42 sections 2000e–4, 3608, 3787.
-

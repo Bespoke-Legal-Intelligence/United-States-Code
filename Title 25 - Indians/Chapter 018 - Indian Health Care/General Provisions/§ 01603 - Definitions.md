@@ -6,7 +6,7 @@ For purposes of this chapter—
 
 (b) “Service” means the Indian Health Service.
 
-(c) “Indians” or “Indian”, unless otherwise designated, means any person who is a member of an Indian tribe, as defined in subsection (d) of this section, except that, for the purpose of sections 1612 and 1613 of this title, such terms shall mean any individual who (1), irrespective of whether he or she lives on or near a reservation, is a member of a tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member, or (2) is an Eskimo or Aleut or other Alaska Native, or (3) is considered by the Secretary of the Interior to be an Indian for any purpose, or (4) is determined to be an Indian under regulations promulgated by the Secretary.
+(c) “Indians” or “Indian”, unless otherwise designated, means any person who is a memberof an Indian tribe, as defined in subsection (d) of this section, except that, for the purpose of sections 1612 and 1613 of this title, such terms shall mean any individual who (1), irrespective of whether he or she lives on or near a reservation, is a member of a tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member, or (2) is an Eskimo or Aleut or other Alaska Native, or (3) is considered by the Secretary of the Interior to be an Indian for any purpose, or (4) is determined to be an Indian under regulations promulgated by the Secretary.
 
 (d) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or group or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
@@ -105,8 +105,4 @@ Subsec. (<i>l</i>). Pub. L. 100–713, §203(b), added subsec. (<i>l</i>).
 Subsec. (h). Pub. L. 96–537, §2(b), substituted “governed by an Indian controlled board of directors” for “composed of urban Indians”.
 
 Subsecs. (i) to (k). Pub. L. 96–537, §2(c), added subsecs. (i) to (k).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1656, 1934, 2403 of this title; title 42 sections 1395w–104, 1395w–141, 1395qq, 1396d, 1396j, 1396s, 1396u–2, 1397bb.
 

@@ -1,9 +1,5 @@
 Part D—National Network of University Centers for Excellence in Developmental Disabilities Education, Research, and Service
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 14403, 15002, 15004, 15005, 15024, 15081, 15083, 15114 of this title.
-
 
 ---
 

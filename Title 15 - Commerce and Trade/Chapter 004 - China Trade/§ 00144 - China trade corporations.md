@@ -42,7 +42,3 @@ No certificate of incorporation shall be delivered to a China Trade Act corporat
 
 Act June 25, 1938, provided that the amendment shall apply to all China Trade Act corporations created after the date of enactment of the act.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 148 of this title.
-

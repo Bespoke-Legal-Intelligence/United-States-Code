@@ -40,7 +40,3 @@ For purposes of section 764 and 765 of this title, a member who is eighteen year
 
 Act of October 17, 1968, referred to in subsec. (b)(1)(D), is Pub. L. 90–584, Oct. 17, 1968, 82 Stat. 1147, which is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 761, 764, 765 of this title.
-

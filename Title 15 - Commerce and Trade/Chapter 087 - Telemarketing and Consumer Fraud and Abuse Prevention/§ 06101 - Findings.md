@@ -68,7 +68,7 @@ Annual Report.—For each of fiscal years 2003 through 2007, the Federal Trade C
 
 &emsp;“(5) an analysis of the progress of coordinating the operation and enforcement of the ‘do-not-call’ registry with the enforcement activities of the Federal Communications Commission pursuant to the Telephone Consumer Protection Act \[of 1991\] (47 U.S.C. 227 et seq.); and
 
-&emsp;“(6) a review of the enforcement proceedings under the Telemarketing Sales Rule (16 CFR 310), in the case of the Federal Trade Commission, and under the Telephone Consumer Protection Act \[of 1991\] (47U.S.C. 227 et seq.), in the case of the Federal Communications Commission.”
+&emsp;“(6) a review of the enforcement proceedings under the Telemarketing Sales Rule (16 CFR 310), in the case of the Federal Trade Commission, and under the Telephone Consumer Protection Act \[of 1991\] (47 U.S.C. 227 et seq.), in the case of the Federal Communications Commission.”
 
 #### Congressional Findings
 

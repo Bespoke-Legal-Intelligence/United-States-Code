@@ -20,7 +20,9 @@ Shall be subject to the penalties set forth in section 216 of this title.
 
 (2) For purposes of this subsection, the term “agency” means an agency (as defined by section 3701 of title 5) and the Office of the Chief Technology Officer of the District of Columbia.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1125; amended Pub. L. 96–174, Dec. 29, 1979, 93 Stat. 1288; Pub. L. 97–171, Apr. 13, 1982, 96 Stat. 67; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–646, §70, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 101–194, title IV, §406, Nov. 30, 1989, 103 Stat. 1753; Pub. L. 101–647, title XXXV, §3510, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 103–322, title XXXIII, §330008(7), Sept. 13, 1994, 108 Stat. 2143; Pub. L. 107–273, div. A, title III, §302(3), Nov. 2, 2002, 116 Stat. 1781; Pub. L. 107–347, title II, §209(g)(2), Dec. 17, 2002, 116 Stat. 2932.)
+(h) This section does not prohibit a member of the reserve components of the armed forces on active duty pursuant to a call or order to active duty under a provision of law referred to in section 101(a)(13) of title 10 from receiving from any person that employed such member before thecall or order to active duty any payment of any part of the salary or wages that such person would have paid the member if the member's employment had not been interrupted by such call or order to active duty.
+
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1125; amended Pub. L. 96–174, Dec. 29, 1979, 93 Stat. 1288; Pub. L. 97–171, Apr. 13, 1982, 96 Stat. 67; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–646, §70, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 101–194, title IV, §406, Nov. 30, 1989, 103 Stat. 1753; Pub. L. 101–647, title XXXV, §3510, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 103–322, title XXXIII, §330008(7), Sept. 13, 1994, 108 Stat. 2143; Pub. L. 107–273, div. A, title III, §302(3), Nov. 2, 2002, 116 Stat. 1781; Pub. L. 107–347, title II, §209(g)(2), Dec. 17, 2002, 116 Stat. 2932; Pub. L. 108–375, div. A, title VI, §663, Oct. 28, 2004, 118 Stat. 1974.)
 
 #### References in Text
 
@@ -33,6 +35,8 @@ A prior section 209, act June 25, 1948, ch. 645, 62 Stat. 693, related to an off
 Provisions similar to those comprising this section were contained in section 1914 of this title prior to the repeal of such section and the general amendment of this chapter by Pub. L. 87–849.
 
 #### Amendments
+
+2004—Subsec. (h). Pub. L. 108–375 added subsec. (h).
 
 2002—Subsec. (a). Pub. L. 107–273, in second par., substituted “makes” for “or makes” and “supplements, the salary of any” for “supplements the salary of, any”.
 
@@ -67,8 +71,4 @@ Exemptions from former section 1914 of this title deemed to be exemptions from t
 #### Promulgation of Regulations
 
 Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section, see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 202, 216 of this title; title 2 section 162; title 5 sections 568, 3102, 3343, 3374, 3704, 4111; title 7 sections 2009aa–1, 2009bb–1, 2220; title 8 section 1353c; title 12 section 2245; title 16 section 459b–7; title 22 sections 3507, 3508; title 28 section 594; title 30 section 663; title 40 section 14309; title 42 sections 280e–11, 1314; title 45 section 362.
 

@@ -4,10 +4,6 @@
 
 A prior subchapter VIII, relating to taxes with respect to employment and consisting of sections 1001 to 1011 of this title, was omitted. See Prior Provisions note set out under section 1001 of this title.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 401, 405, 659, 903, 909, 1008, 1320a–8, 1320a–8a, 1320b–17, 1320b–18, 1382, 1383 of this title; title 31 section 3716.
-
 
 ---
 

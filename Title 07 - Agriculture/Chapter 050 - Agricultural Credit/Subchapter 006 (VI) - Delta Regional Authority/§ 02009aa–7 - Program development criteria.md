@@ -30,7 +30,3 @@ Funds may be provided for a program or project in a State under this subchapter 
 
 For definition of “this chapter”, referred to in subsec. (b), see note set out under section 1921 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009aa–8 of this title.
-

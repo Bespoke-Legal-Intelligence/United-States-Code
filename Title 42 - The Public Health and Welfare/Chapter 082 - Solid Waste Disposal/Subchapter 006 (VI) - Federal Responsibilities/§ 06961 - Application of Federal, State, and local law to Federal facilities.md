@@ -6,7 +6,7 @@ Each department, agency, and instrumentality of the executive, legislative, and 
 
 #### (b) Administrative enforcement actions
 
-(1) The Administrator may commence an administrative enforcement action against any department, agency, or instrumentality of the executive, legislative, or judicial branch of the Federal Government pursuant to the enforcement authorities contained in this chapter. The Administrator shall initiate an administrative enforcement action against such a department, agency, or instrumentality in the same manner and under the same circumstances as an action would be initiated against another person. Any voluntary resolution or settlement of such an action shall be set forth in a consent order.
+(1) The Administrator may commence an administrative enforcement action against any department, agency, or instrumentality of the executive, legislative, or judicial branch of the Federal Government pursuant to the enforcement authorities contained in this chapter. The Administrator shall initiate an administrative enforcement action against such a department,agency, or instrumentality in the same manner and under the same circumstances as an action would be initiated against another person. Any voluntary resolution or settlement of such an action shall be set forth in a consent order.
 
 (2) No administrative order issued to such a department, agency, or instrumentality shall become final until such department, agency, or instrumentality has had the opportunity to confer with the Administrator.
 
@@ -122,7 +122,7 @@ Sec. 301. Committees, Executives, and Task Force. (a) Steering Committee. There 
 
 (b) Federal Environmental Executive. A Federal Environmental Executive, Environmental Protection Agency, shall be designated by the President. The FEE shall chair the Task Force described in subsection (c), take all actions necessary to ensure that the agencies comply with the requirements of this order, and generate a biennial report to the President.
 
-(c) Task Force. The Steering Committee shall charter a Task Force on Greening the Government through Waste Prevention and Recycling (“Task Force”), which shall be chaired by the FEE and composed of staff from the major procuring agencies. The Steering Committee, in consultation with the agencies, shall determine the necessary staffing and resources for the Task Force. The major procuring agencies shall provide, to the extent practicable and permitted by law, resources and support to the Task Force and the FEE, upon request from the Steering Committee. The Task Force shall have the duty of assisting the FEE and the agencies in implementing this order, subject to policy direction provided by the Steering Committee. The Task Force shall report through the FEE to the Chair of the Steering Committee.
+(c) Task Force. The Steering Committee shall charter a Task Force on Greening the Government through Waste Prevention and Recycling (“Task Force”), which shall be chaired by the FEE and composed of staff from the major procuring agencies. The Steering Committee, in consultation with the agencies, shall determine the necessary staffing and resources for the Task Force. The major procuring agencies shall provide, to the extent practicable and permitted by law, resources and support to the Task Force and the FEE, upon requestfrom the Steering Committee. The Task Force shall have the duty of assisting the FEE and the agencies in implementing this order, subject to policy direction provided by the Steering Committee. The Task Force shall report through the FEE to the Chair of the Steering Committee.
 
 (d) Agency Environmental Executives (AEEs). Within 90 days after the date of this order, the head of each major procuring agency shall designate an AEE from among his or her staff, who serves at a level no lower than the Assistant Secretary level or equivalent, and shall notify the Chair of CEQ and the FEE of such designation.
 
@@ -204,7 +204,7 @@ Sec. 503. Guidance on Acquisition of Environmentally Preferable Products and Ser
 
 (1) These pilot projects shall be focused around those product and service categories, including printing, that have wide use within the Federal Government. Priorities regarding which product and service categories to pilot shall be developed by the individual agencies and the EPA, in consultation with the OFPP, the FEE, and the appropriate agency procurement executives. Any policy disagreements shall be resolved by the Steering Committee.
 
-(2) Agencies are encouraged to use all of the options available to them to determine the environmentallypreferable attributes of products and services in their pilot and demonstration projects, including the use of technical expertise of nongovernmental entities such as labeling, certification, or standards-developing organizations, as well as using the expertise of the National Institute of Standards and Technology.
+(2) Agencies are encouraged to use all of the options available to them to determine the environmentally preferable attributes of products and services in their pilot and demonstration projects, including the use of technical expertise of nongovernmental entities such as labeling, certification, or standards-developing organizations, as well as using the expertise of the National Institute of Standards and Technology.
 
 (3) Upon request and to the extent practicable, the EPA shall assist executive agencies in designing, implementing, and documenting the results of these pilot and demonstration projects.
 
@@ -279,8 +279,4 @@ Sec. 902. This order is intended only to improve the internal management of the 
 Sec. 903. The policies and direction expressed in the EPA guidance to be developed pursuant to section 503 of this order shall be implemented and incorporated in the Federal Acquisition Regulation within 180 days after issuance of the guidance.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6939c of this title.
 

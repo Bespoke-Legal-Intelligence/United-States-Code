@@ -1,6 +1,6 @@
 ### §312b. Special pay: nuclear career accession bonus
 
-(a)(1) Under regulations prescribed by the Secretary of the Navy, an individual who is selected for officer naval nuclear power training and who executes a written agreement to participate in a program of training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants may be paid a bonus not to exceed $20,000 upon acceptance by the Secretary of the written agreement. Upon acceptance of the agreement by the Secretary, the amounts payable upon selection for training and upon completion of training, respectively, as determined under subsection (b), shall become fixed.
+(a)(1) Under regulations prescribed by the Secretary of the Navy, an individual who is selected for officer naval nuclear power training and who executes a written agreement to participate in a program of training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants may be paid abonus not to exceed $20,000 upon acceptance by the Secretary of the written agreement. Upon acceptance of the agreement by the Secretary, the amounts payable upon selection for training and upon completion of training, respectively, as determined under subsection (b), shall become fixed.
 
 (2) Under such regulations, and subject to such exceptions, as the Secretary of the Navy may prescribe, an individual who has entered into an agreement with the Secretary under this subsection, who has been paid a bonus under this subsection, and who fails to commence or satisfactorily complete the nuclear power training specified in the agreement shall be required to refund such bonus.
 
@@ -10,11 +10,13 @@
 
 &emsp;(2) upon successful completion, as a commissioned officer, of training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
-(c) The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2004, have been accepted for training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
+(c) The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2005, have been accepted for training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
-(Added Pub. L. 94–356, §3, July 12, 1976, 90 Stat. 901; amended Pub. L. 96–579, §2(b), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 97–60, title I, §119, Oct. 14, 1981, 95 Stat. 997; Pub. L. 99–145, title VI, §632(b), title XIII, §1303(b)(4), Nov. 8, 1985, 99 Stat. 644, 740; Pub. L. 101–189, div. A, title VI, §614(b), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title XIII, §1322(c)(7), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(h), Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §613(f), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(e), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(e), 624(b), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(e), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §§613(f), 624(b), Oct. 5, 1999, 113 Stat. 650, 654; Pub. L. 106–398, §1 \[\[div. A\], title VI, §623(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; Pub. L. 107–107, div. A, title VI, §613(b), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–314, div. A, title VI, §613(b), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §613(b), Nov. 24, 2003, 117 Stat. 1501.)
+(Added Pub. L. 94–356, §3, July 12, 1976, 90 Stat. 901; amended Pub. L. 96–579, §2(b), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 97–60, title I, §119, Oct. 14, 1981, 95 Stat. 997; Pub. L. 99–145, title VI, §632(b), title XIII, §1303(b)(4), Nov. 8, 1985, 99 Stat. 644, 740; Pub. L. 101–189, div. A, title VI, §614(b), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title XIII, §1322(c)(7), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(h), Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §613(f), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(e), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(e), 624(b), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(e), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §§613(f), 624(b), Oct. 5, 1999, 113 Stat. 650, 654; Pub. L. 106–398, §1 \[\[div. A\], title VI, §623(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; Pub. L. 107–107, div. A, title VI, §613(b), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–314, div. A, title VI, §613(b), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §613(b), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §613(b), Oct. 28, 2004, 118 Stat. 1947.)
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
 
 2003—Subsec. (c). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
 
@@ -91,8 +93,4 @@ Section 2(d)(2) of Pub. L. 96–579 provided: “The amendments made by subsecti
 #### Effective Date
 
 Section effective Aug. 1, 1976, see section 5 of Pub. L. 94–356, set out as an Effective Date of 1976 Amendment note under section 312 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 324 of this title.
 

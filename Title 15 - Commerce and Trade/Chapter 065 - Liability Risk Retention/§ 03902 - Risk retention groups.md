@@ -40,7 +40,7 @@ Except as provided in this section, a risk retention group is exempt from any St
 
 &emsp;(3) require any insurance policy issued to a risk retention group or any member of the group to be countersigned by an insurance agent or broker residing in that State; or
 
-&emsp;(4) otherwise, discriminate against a risk retention group or any of its members, exceptthat nothing in this section shall be construed to affect the applicability of State laws generally applicable to persons or corporations.
+&emsp;(4) otherwise, discriminate against a risk retention group or any of its members, except that nothing in this section shall be construed to affect the applicability of State laws generally applicable to persons or corporations.
 
 #### (b) Scope of exemptions
 
@@ -142,9 +142,5 @@ Subsecs. (d) to (h). Pub. L. 99–563, §§5(b)(2), 7, 8(a), added subsecs. (d) 
 
 #### Special Rule Regarding Feasibility Study
 
-The provisions of subsec. (d) of this section, relating to the submission of a feasibility study, not applicable with respect to any line or classification of liability insurance which was defined in this chapter before Oct. 27, 1986, and was offered before such date by any risk retention group chartered and operating for not less than 3 years before such date, see section 11(b) of Pub. L. 99–563, set out as an Effective Date of 1986 Amendment; Applicability note under section 3901 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3905 of this title.
+The provisions of subsec. (d) of this section, relating to the submission of a feasibility study, not applicablewith respect to any line or classification of liability insurance which was defined in this chapter before Oct. 27, 1986, and was offered before such date by any risk retention group chartered and operating for not less than 3 years before such date, see section 11(b) of Pub. L. 99–563, set out as an Effective Date of 1986 Amendment; Applicability note under section 3901 of this title.
 

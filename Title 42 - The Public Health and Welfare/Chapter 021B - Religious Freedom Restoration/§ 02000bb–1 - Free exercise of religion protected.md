@@ -18,7 +18,3 @@ A person whose religious exercise has been burdened in violation of this section
 
 (Pub. L. 103–141, §3, Nov. 16, 1993, 107 Stat. 1488.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1996a of this title.
-

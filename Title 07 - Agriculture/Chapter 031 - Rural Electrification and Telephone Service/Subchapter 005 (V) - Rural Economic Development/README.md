@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—RURAL ECONOMIC DEVELOPMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 6944 of this title.
-
 
 ---
 

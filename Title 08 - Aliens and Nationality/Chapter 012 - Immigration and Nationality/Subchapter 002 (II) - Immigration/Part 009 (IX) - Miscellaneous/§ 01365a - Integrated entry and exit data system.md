@@ -46,7 +46,7 @@ For purposes of this section, the term “integrated entry and exit data system�
 
 #### (2) High-traffic land border ports of entry
 
-&emsp;Not later than December 31, 2004, the Attorney General shall implement the integrated entry and exit data system using the data described in paragraph (1) and available alien arrival and departure data described in subsection (b)(1) of this section pertaining to aliens arriving in, or departing from, the United States at the 50 land border ports of entry determined by the Attorney General to serve the highest numbers of arriving and departing aliens. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at such a port of entry, are entered into the system and can be accessed by immigration officers at airports, seaports, and other such land border ports of entry.
+&emsp;Not later than December 31, 2004, the Attorney General shall implement the integratedentry and exit data system using the data described in paragraph (1) and available alien arrival and departure data described in subsection (b)(1) of this section pertaining to aliens arriving in, or departing from, the United States at the 50 land border ports of entry determined by the Attorney General to serve the highest numbers of arriving and departing aliens. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at such a port of entry, are entered into the system and can be accessed by immigration officers at airports, seaports, and other such land border ports of entry.
 
 #### (3) Remaining data
 
@@ -122,7 +122,7 @@ Report.—
 
 &emsp;“(1)
 
-Deadline.—Not later than December 31 of each year following the development of the system under subsection (a) of this section, the Attorney General shall submit an annual report to the Committees on the Judiciary of the House of Representatives and of the Senate on such system.
+Deadline.—Not later than December 31 of each year following the development of the system under subsection (a) of this section, the Attorney Generalshall submit an annual report to the Committees on the Judiciary of the House of Representatives and of the Senate on such system.
 
 &emsp;“(2)
 
@@ -242,7 +242,7 @@ Duties.—The Task Force shall evaluate the following:
 
 &emsp;“(2) How the United States can improve the flow of traffic at airports, seaports, and land border ports of entry through—
 
-&emsp;&emsp;“(A) enhancing systems for data collection and data sharing, including the integrated entry and exit data system described in section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1221 note \[8 U.S.C. 1365a\]), as amended by section 2 of this Act, by better use of technology, resources, and personnel;
+&emsp;&emsp;“(A) enhancing systems for data collection and data sharing, including the integrated entry and exit data system described in section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1221 note \[8 U.S.C.1365a\]), as amended by section 2 of this Act, by better use of technology, resources, and personnel;
 
 &emsp;&emsp;“(B) increasing cooperation between the public and private sectors;
 
@@ -290,7 +290,7 @@ Reports.—
 
 &emsp;“(1)
 
-Deadline.—Not later than December 31, 2002, and not later than December 31 of each year thereafter in which the Task Force is in existence, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate containing the findings, conclusions, and recommendations of the Task Force. Eachreport shall also measure and evaluate how much progress the Task Force has made, how much work remains, how long the remaining work will take to complete, and the cost of completing the remaining work.
+Deadline.—Not later than December 31, 2002, and not later than December 31 of each year thereafter in which the Task Force is in existence, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate containing the findings, conclusions, and recommendations of the Task Force. Each report shall also measure and evaluate how much progress the Task Force has made, how much work remains, how long the remaining work will take to complete, and the cost of completing the remaining work.
 
 &emsp;“(2)
 
@@ -319,8 +319,4 @@ Termination.—The Task Force shall terminate on a date designated by the Attorn
 “(j)
 
 Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2001 through 2003.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1187 of this title.
 

@@ -134,7 +134,7 @@ Subsec. (b)(4)(B). Pub. L. 101–629, §18(b)(1), as amended by Pub. L. 102–30
 
 Subsec. (b)(5)(A)(ii). Pub. L. 101–629, §18(b)(2), as amended by Pub. L. 102–300, §6(g)(1), (3), and Pub. L. 103–80, §4(a)(1), substituted “which demonstrates good cause for referral and which is made before the expiration of the period for submission of comments on such proposed regulation refer such proposed regulation,” for “unless the Secretary finds the request to be without good cause or the request is made after the expiration of the period for submission of comments on such proposed regulation refer such proposed regulation,”.
 
-Subsecs. (c) to (f). Pub. L. 101–629, §6(a)(2), struck out subsec. (c) relating to invitations for standards, subsec. (d) relating to acceptance of certain existing standards, subsec. (e) relating to acceptance of offers to develop standards, and subsec. (f) relating to development of standards by the Secretary after publication of notice inviting submissions or offers of standards.
+Subsecs. (c) to (f). Pub. L. 101–629, §6(a)(2), struck out subsec. (c) relating to invitations for standards, subsec.\(d) relating to acceptance of certain existing standards, subsec. (e) relating to acceptance of offers to develop standards, and subsec. (f) relating to development of standards by the Secretary after publication of notice inviting submissions or offers of standards.
 
 Subsec. (g). Pub. L. 101–629, §6(a)(3), redesignated subsec. (g) as (b).
 
@@ -146,13 +146,9 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Termination of Advisory Committees
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 351, 352, 360, 360c, 360e, 360g, 360j, 379i, 381, 382 of this title.
 

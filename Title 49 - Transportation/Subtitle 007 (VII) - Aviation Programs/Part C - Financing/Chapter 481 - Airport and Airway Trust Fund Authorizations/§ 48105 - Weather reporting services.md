@@ -28,7 +28,3 @@ Sept. 3, 1982, Pub. L. 97–248, §506(d), 96 Stat. 678; Dec. 30, 1987, Pub. L. 
 
 The words “for fiscal years beginning after September 30, 1982” are omitted as obsolete. The words “Secretary of Commerce” are substituted for “National Oceanic and Atmospheric Administration” because of 15:1501. The words “The Federal Aviation Administration with” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 48108 of this title.
-

@@ -1,8 +1,6 @@
 ### SUBCHAPTER III—THRIFT SAVINGS PLAN
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3521, 8116, 8351, 8402, 8424, 8461, 8471, 8472, 8473, 8474, 8477 of this title; title 2 sections 162b, 2064; title 10 sections 945, 2467; title 22 sections 4069, 4071h; title 26 sections 3121, 7701; title 28 sections 178, 377, 611, 627; title 31 section 9503; title 37 section 211; title 39 section 1005; title 50 section 2154.
+<i><sup>1</sup></i><i> So in original. Two pars. (2) have been enacted.</i>
 
 
 ---

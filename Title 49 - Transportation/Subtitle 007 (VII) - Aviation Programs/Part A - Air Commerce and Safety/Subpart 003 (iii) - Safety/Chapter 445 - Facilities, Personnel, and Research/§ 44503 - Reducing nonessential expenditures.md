@@ -22,7 +22,3 @@ July 12, 1976, Pub. L. 94–353, §25, 90 Stat. 885.
 
 The words “in accordance with this section” and “due” are omitted as surplus. The word “personnel” is substituted for “manpower” for consistency in the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
-

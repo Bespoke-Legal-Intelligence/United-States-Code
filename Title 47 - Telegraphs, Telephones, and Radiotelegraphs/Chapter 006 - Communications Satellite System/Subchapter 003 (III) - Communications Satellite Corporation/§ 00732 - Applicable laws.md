@@ -6,7 +6,7 @@ The corporation shall be subject to the provisions of this chapter and, to the e
 
 #### Termination of Section
 
-<i>Section to cease to be effective on the effective date of a Commission order determining under</i><i>section 761(b)(2) of this title that INTELSAT privatization is consistent with criteria in sections 763 and 763a of this title, see section 765d(4) of this title.</i>
+<i>Section to cease to be effective on the effective date of a Commission order determining under section 761(b)(2) of this title that INTELSAT privatization is consistent with criteria in sections 763 and 763a of this title, see section 765d(4) of this title.</i>
 
 #### References in Text
 
@@ -15,8 +15,4 @@ The District of Columbia Business Corporation Act, referred to in text, is act J
 #### Prior Provisions
 
 A prior section 732, Pub. L. 87–624, title III, §302, Aug. 31, 1962, 76 Stat. 423, related to process of organization of the communications satellite corporation, prior to repeal by Pub. L. 103–414, §304(b)(2).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 765d of this title.
 

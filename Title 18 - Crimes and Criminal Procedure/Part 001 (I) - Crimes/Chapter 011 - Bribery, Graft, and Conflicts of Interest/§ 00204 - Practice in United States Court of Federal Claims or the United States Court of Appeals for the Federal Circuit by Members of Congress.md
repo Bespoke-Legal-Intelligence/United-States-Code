@@ -40,7 +40,3 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
 Exemptions from former section 282 of this title deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under section 203 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 202, 216 of this title; title 5 section 568; title 7 sections 2009aa–1, 2009bb–1; title 28 section 594; title 40 section 14309.
-

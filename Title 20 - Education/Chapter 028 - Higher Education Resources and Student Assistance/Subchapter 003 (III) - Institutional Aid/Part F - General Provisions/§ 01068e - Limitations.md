@@ -16,9 +16,5 @@ The funds appropriated under section 1069f <sup>1</sup> of this title may not b
 
 Section 1069f of this title, referred to in text, was in the original a reference to section 360 of Pub. L. 89–329. Section 360 of Pub. L. 89–329 was renumbered section 399 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and was transferred to section 1068h of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1068 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

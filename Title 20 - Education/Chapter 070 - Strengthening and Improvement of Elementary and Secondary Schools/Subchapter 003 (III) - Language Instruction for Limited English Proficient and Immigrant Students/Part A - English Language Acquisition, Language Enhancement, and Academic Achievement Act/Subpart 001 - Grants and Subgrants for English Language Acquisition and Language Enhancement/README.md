@@ -1,9 +1,5 @@
 subpart 1—grants and subgrants for english language acquisition and language enhancement
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 6841, 6842, 7325 of this title.
-
 
 ---
 

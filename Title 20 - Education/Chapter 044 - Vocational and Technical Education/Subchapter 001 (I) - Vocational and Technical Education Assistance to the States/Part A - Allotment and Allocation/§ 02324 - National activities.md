@@ -50,7 +50,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;From amounts made available under paragraph (8), the Secretary shall provide for the conduct of an independent evaluation and assessment of vocational and technical education programs under this chapter through studies and analyses conducted independently through grants, contracts, and cooperative agreements that are awarded on a competitive basis.
+&emsp;&emsp;From amounts made available under paragraph (8), the Secretary shall provide for the conduct of an independent evaluation andassessment of vocational and technical education programs under this chapter through studies and analyses conducted independently through grants, contracts, and cooperative agreements that are awarded on a competitive basis.
 
 #### (B) Contents
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) State adjusted levels of performance and State levels of performance that serve to improve vocational and technical education programs and student achievement; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) academic knowledge and vocational and technical skills required for employment or participation in postsecondary education;
+&emsp;&emsp;&emsp;&emsp;(IV) academic knowledge and vocational and technical skills required foremployment or participation in postsecondary education;
 
 &emsp;&emsp;&emsp;(ii) to carry out research to increase the effectiveness and improve the implementation of vocational and technical education programs, including conducting research and development, and studies, providing longitudinal information or formative evaluation with respect to vocational and technical education programs and student achievement;
 
@@ -170,7 +170,7 @@ The Federal Advisory Committee Act, referred to in subsec. (c)(2), is Pub. L. 92
 
 A prior section 2324, Pub. L. 88–210, title I, §114, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2449; amended Pub. L. 101–392, title I, §114, Sept. 25, 1990, 104 Stat. 769, related to development and approval of State plans, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-#### Section Referred to in Other Sections
+#### Change of Name
 
-This section is referred to in section 2307 of this title.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

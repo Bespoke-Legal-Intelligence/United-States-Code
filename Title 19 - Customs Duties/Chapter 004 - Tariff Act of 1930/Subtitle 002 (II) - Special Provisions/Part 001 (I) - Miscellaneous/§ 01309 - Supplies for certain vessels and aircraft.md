@@ -64,7 +64,3 @@ Amendment by act Aug. 8, 1953, effective on and after thirtieth day following Au
 
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under section 1401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1557 of this title; title 26 sections 5003, 5053, 5055, 5214.
-

@@ -8,7 +8,3 @@ Whenever a mistake in a certificate of plant variety protection incurred through
 
 1980—Pub. L. 96–574 substituted provisions relating to correction of Plant Variety Protection Office mistake for provisions relating to certificate of correction of Plant Variety Protection Office mistake.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2485 of this title.
-

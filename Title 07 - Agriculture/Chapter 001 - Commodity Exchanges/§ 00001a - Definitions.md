@@ -156,7 +156,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(ii) an insurance company that is regulated by a State, or that is regulated by a foreign government and is subject to comparable regulation as determined by the Commission, including a regulated subsidiary or affiliate of such an insurance company;
 
-&emsp;&emsp;&emsp;(iii) an investment company subject to regulation under the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.) or a foreign person performing a similar role or function subject as such to foreign regulation (regardless of whether each investor in the investment company or the foreign person is itself an eligible contract participant);
+&emsp;&emsp;&emsp;(iii) an investment company subject to regulation under the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.) or a foreign person performing a similar role or function subject as such to foreign regulation (regardless of whether each investorin the investment company or the foreign person is itself an eligible contract participant);
 
 &emsp;&emsp;&emsp;(iv) a commodity pool that—
 
@@ -288,11 +288,11 @@ As used in this chapter:
 
 &emsp;&emsp;(A) is engaged in soliciting or in accepting orders for the purchase or sale of any commodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility; and
 
-&emsp;&emsp;(B) in or in connection with such solicitation or acceptance of orders, accepts anymoney, securities, or property (or extends credit in lieu thereof) to margin, guarantee, or secure any trades or contracts that result or may result therefrom.
+&emsp;&emsp;(B) in or in connection with such solicitation or acceptance of orders, accepts any money, securities, or property (or extends credit in lieu thereof) to margin, guarantee, or secure any trades or contracts that result or may result therefrom.
 
 #### (21) Hybrid instrument
 
-&emsp;The term “hybrid instrument” means a security having one or more payments indexed to the value, level, or rate of, or providing for the delivery of, one or more commodities.
+&emsp;The term “hybrid instrument” means a security having one or more payments indexedto the value, level, or rate of, or providing for the delivery of, one or more commodities.
 
 #### (22) Interstate commerce
 
@@ -360,9 +360,9 @@ As used in this chapter:
 
 &emsp;&emsp;(vi) a contract of sale for future delivery on the index is traded on or subject to the rules of a board of trade and meets such requirements as are jointly established by rule, regulation, or order by the Commission and the Securities and Exchange Commission.
 
-&emsp;(C) Within 1 year after December 21, 2000, the Commission and the Securities and ExchangeCommission jointly shall adopt rules or regulations that set forth the requirements under subparagraph (B)(iv).
+&emsp;(C) Within 1 year after December 21, 2000, the Commission and the Securities and Exchange Commission jointly shall adopt rules or regulations that set forth the requirements under subparagraph (B)(iv).
 
-&emsp;(D) An index that is a narrow-based security index solely because it was a narrow-based security index for more than 45 business days over 3 consecutive calendar months pursuant to clause (iii) of subparagraph (B) shall not be a narrow-based security index for the 3 following calendar months.
+&emsp;(D) An index that is a narrow-based security index solely because it was a narrow-based security index for more than 45 business daysover 3 consecutive calendar months pursuant to clause (iii) of subparagraph (B) shall not be a narrow-based security index for the 3 following calendar months.
 
 &emsp;(E) For purposes of subparagraphs (A) and (B)—
 
@@ -438,7 +438,7 @@ As used in this chapter:
 
 #### (C) Special rule
 
-&emsp;&emsp;A person or group of persons that would not otherwise constitute a trading facility shall not be considered to be a trading facility solely as a result of the submission to a derivatives clearing organization of transactions executed on or through the person or group of persons.
+&emsp;&emsp;A person or group of persons that would not otherwise constitute a trading facility shall not be considered to be a trading facility solely as a result of the submission to aderivatives clearing organization of transactions executed on or through the person or group of persons.
 
 (Sept. 21, 1922, ch. 369, §1a, as added Pub. L. 102–546, title IV, §404(a), Oct. 28, 1992, 106 Stat. 3625; amended Pub. L. 106–554, §1(a)(5) \[title I, §§101, 123(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–366, 2763A–405.)
 
@@ -515,10 +515,6 @@ Pars. (29) to (33). Pub. L. 106–554, §1(a)(5) \[title I, §101(7)\], added pa
 #### Effective Date
 
 Section 403 of Pub. L. 102–546 provided that: “Except as otherwise specifically provided in this Act \[enacting this section and section 12e of this title, amending sections 2, 2a, 4, 4a, 6 to 6c, 6e to 6g, 6j, 6p, 7 to 9a, 10a, 12, 12a, 12c, 13 to 13c, 15, 16, 18, 19, 21, and 25 of this title, repealing section 26 of this title, enacting provisions set out as notes under sections 1a, 4a, 6c, 6e, 6j, 6p, 7a, 13, 16a, 21, and 22 of this title, and repealing provisions set out as a note under section 4a of this title\], this Act and the amendments made by this Act shall become effective on the date of enactment of this Act \[Oct. 28, 1992\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2, 6m, 6<i>o</i>–1, 7, 7a, 7a–1, 7a–2, 27, 27b of this title; title 15 section 78f.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be preceded by an additional closing parenthesis.</i>
 

@@ -16,7 +16,3 @@ The Librarian shall publish in the Federal Register the name of each sound recor
 
 (Pub. L. 106–474, title I, §102, Nov. 9, 2000, 114 Stat. 2085.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1703 of this title.
-

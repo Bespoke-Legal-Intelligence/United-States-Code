@@ -28,7 +28,3 @@ Section was enacted as part of the Mining and Mineral Resources Research Institu
 
 1988—Subsec. (b). Pub. L. 100–483 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Notwithstanding the provisions of subsection (a) of this section, those colleges or universities which, on August 29, 1984, have a mining or mineral resources research institute program which has been found to be eligible pursuant to title III of the Surface Mining Control and Reclamation Act of 1977 (91 Stat. 445) shall continue to be eligible pursuant to this subchapter for a period of four fiscal years beginning October 1, 1984.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1221 of this title.
-

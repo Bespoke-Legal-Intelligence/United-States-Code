@@ -56,7 +56,3 @@ Nothing in this section shall be construed as precluding COMSAT from investing i
 
 Pub. L. 106–180, §2, Mar. 17, 2000, 114 Stat. 48, provided that: “It is the purpose of this Act \[see Short Title of 2000 Amendment note set out under section 701 of this title\] to promote a fully competitive global market for satellite communication services for the benefit of consumers and providers of satellite services and equipment by fully privatizing the intergovernmental satellite organizations, INTELSAT and Inmarsat.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 765d of this title.
-

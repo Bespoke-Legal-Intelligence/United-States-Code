@@ -92,7 +92,3 @@ Subsec. (e)(2). Pub. L. 104–287, §5(35)(B), substituted “December 31, 1995�
 
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13541, 14501 of this title.
-

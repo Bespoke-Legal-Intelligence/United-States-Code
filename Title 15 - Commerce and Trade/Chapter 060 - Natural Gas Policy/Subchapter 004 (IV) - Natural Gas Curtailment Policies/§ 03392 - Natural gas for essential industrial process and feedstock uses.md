@@ -32,7 +32,3 @@ For purposes of this section—
 
 (Pub. L. 95–621, title IV, §402, Nov. 9, 1978, 92 Stat. 3395.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3393 of this title.
-

@@ -36,7 +36,7 @@ The provisions of subsection (a) of this section shall not apply to any individu
 
 There are authorized to be appropriated to the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) from time to time such sums as the Secretary deems necessary for any fiscal year, on account of—
 
-&emsp;(1) payments made or to be made during such fiscal year from such Trust Fund under part A of subchapter XVIII of this chapter with respect to individuals who are entitled tohospital insurance benefits under section 426 of this title solely by reason of this section,
+&emsp;(1) payments made or to be made during such fiscal year from such Trust Fund under part A of subchapter XVIII of this chapter with respect to individuals who are entitled to hospital insurance benefits under section 426 of this title solely by reason of this section,
 
 &emsp;(2) the additional administrative expenses resulting or expected to result therefrom, and
 
@@ -61,8 +61,4 @@ Section was not enacted as part of the Social Security Act which comprises this 
 1968—Subsec. (a)(2)(B). Pub. L. 90–248, §139, substituted “1966” for “1965”.
 
 Subsec. (b)(3)(A), (C). Pub. L. 90–248, §403(h)(1), (2), substituted “chapter 89 of title 5” and “such chapter” for “the Federal Employees Health Benefits Act of 1959” and “such Act” in subpars. (A) and (C), respectively.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 426, 1395i–2, 1395ff of this title.
 

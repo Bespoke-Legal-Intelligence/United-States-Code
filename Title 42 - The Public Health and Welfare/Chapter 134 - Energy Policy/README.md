@@ -512,7 +512,7 @@
 | [13456\.](Subchapter%20009%20%28IX%29%20-%20Energy%20and%20Environment/Part%20A%20-%20Improved%20Energy%20Efficiency/%C2%A7%2013456%20-%20Improving%20efficiency%20in%20energy-intensive%20industries.md) | Improving efficiency in energy-intensive industries. |
 | (a) | Secretarial action. |
 | (b) | Joint ventures. |
-| [13457\.](Subchapter%20009%20%28IX%29%20-%20Energy%20and%20Environment/Part%20A%20-%20Improved%20Energy%20Efficiency/%C2%A7%2013457%20-%20Energy%20efficient%20environmental%20program.md) | Energy efficient environment program. |
+| [13457\.](Subchapter%20009%20%28IX%29%20-%20Energy%20and%20Environment/Part%20A%20-%20Improved%20Energy%20Efficiency/%C2%A7%2013457%20-%20Energy%20efficient%20environmental%20program.md) | Energy efficient environmental program. |
 | (a) | Program direction. |
 | (b) | Identification of opportunities. |
 | (c) | Report. |

@@ -38,7 +38,3 @@ The Secretary shall also determine the aggregate preservation rents under this s
 
 (Pub. L. 100–242, title II, §214, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4251.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4105, 4106, 4109, 4111, 4119, 4122 of this title.
-

@@ -12,7 +12,3 @@ Sections 934 to 939 of this title shall not apply to any lands within the limits
 
 Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 937, 939, 940, 943, 944 of this title.
-

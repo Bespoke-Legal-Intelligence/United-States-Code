@@ -114,7 +114,3 @@ Amendment by Pub. L. 105–264 effective 18 months after Oct. 19, 1998, see sect
 
 Amendment by Pub. L. 98–216 effective Sept. 13, 1982, see section 4(c) of Pub. L. 98–216, set out as a note under section 490 of Title 18, Crimes and Criminal Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3527 of this title; title 10 section 2773a; title 28 section 594.
-

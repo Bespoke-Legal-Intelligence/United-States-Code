@@ -114,9 +114,19 @@
 
 &emsp;(B) In the regulations referred to in subparagraph (A), the Secretary of the Treasury is authorized to prescribe time periods for making a corrected declaration and paying duties owing under subparagraph (A), if such periods are not shorter than 1 year following the date on which the importer makes the incorrect claim that a good qualifies as an originating good.
 
-#### (8) Seizure
+#### (8) Prior disclosure regarding claims under the United States-Australia free trade agreement
 
-&emsp;If the Secretary has reasonable cause to believe that a person has violated the provisions of subsection (a) of this section and that such person is insolvent or beyond the jurisdiction of the United States or that seizure is otherwise essential to protect the revenue of the United States or to prevent the introduction of prohibited or restricted merchandise into the customs territory of the United States, then such merchandise may be seized and, upon assessment of a monetary penalty, forfeited unless the monetary penalty is paid within the time specified by law. Within a reasonable time after any such seizure is made, the Secretary shall issue to the person concerned a written statement containing the reasons for the seizure. After seizure of merchandise under this subsection, the Secretary may, in the case of restricted merchandise, and shall, in the case of any other merchandise (other than prohibited merchandise), return such merchandise upon the deposit of security not to exceed the maximum monetary penalty which may be assessed under subsection (c) of this section.
+#### (A) In general
+
+&emsp;&emsp;An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States-Australia Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
+
+#### (B) Time periods for making corrections
+
+&emsp;&emsp;In the regulations referred to in subparagraph (A), the Secretary of the Treasury is authorized to prescribe time periods for making a corrected declaration and paying duties owing under subparagraph (A), if such periods are not shorter than 1 year following the date on which the importer makes the incorrect claim.
+
+#### (9) Seizure
+
+&emsp;If the Secretary has reasonable cause to believe that a person has violated the provisionsof subsection (a) of this section and that such person is insolvent or beyond the jurisdiction of the United States or that seizure is otherwise essential to protect the revenue of the United States or to prevent the introduction of prohibited or restricted merchandise into the customs territory of the United States, then such merchandise may be seized and, upon assessment of a monetary penalty, forfeited unless the monetary penalty is paid within the time specified by law. Within a reasonable time after any such seizure is made, the Secretary shall issue to the person concerned a written statement containing the reasons for the seizure. After seizure of merchandise under this subsection, the Secretary may, in the case of restricted merchandise, and shall, in the case of any other merchandise (other than prohibited merchandise), return such merchandise upon the deposit of security not to exceed the maximum monetary penalty which may be assessed under subsection (c) of this section.
 
 #### (d) Deprivation of lawful duties, taxes, or fees
 
@@ -174,9 +184,11 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;&emsp;(B) the person immediately and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certificate.
 
-(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Pub. L. 95–410, title I, §110(a), Oct. 3, 1978, 92 Stat. 893; Pub. L. 96–417, title VI, §609, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–182, title II, §205(c), title VI, §621, Dec. 8, 1993, 107 Stat. 2095, 2180; Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, 110 Stat. 3515, 3531; Pub. L. 106–36, title I, §1001(b)(8), June 25, 1999, 113 Stat. 132; Pub. L. 108–77, title II, §205(a), Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §204, Sept. 3, 2003, 117 Stat. 961.)
+(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Pub. L. 95–410, title I, §110(a), Oct. 3, 1978, 92 Stat. 893; Pub. L. 96–417, title VI, §609, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–182, title II, §205(c),title VI, §621, Dec. 8, 1993, 107 Stat. 2095, 2180; Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, 110 Stat. 3515, 3531; Pub. L. 106–36, title I, §1001(b)(8), June 25, 1999, 113 Stat. 132; Pub. L. 108–77, title II, §205(a), Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §204, Sept. 3, 2003, 117 Stat. 961; Pub. L. 108–286, title II, §205, Aug. 3, 2004, 118 Stat. 939.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 106(c) of Pub. L. 108–286, see Effective and Termination Dates of 2004 Amendment note below.</i>
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–78, see Effective and Termination Dates of 2003 Amendments note below.</i>
 
@@ -187,6 +199,8 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 Section 202 of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsecs. (c)(6) and (g)(1), is section 202 of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
 
 Section 202 of the United States-Singapore Free Trade Agreement Implementation Act, referred to in subsec. (c)(7)(A), is section 202 of Pub. L. 108–78, which is set out in a note under section 3805 of this title.
+
+Section 203 of the United States-Australia Free Trade Agreement Implementation Act, referred to in subsec. (c)(8)(A), is section 203 of Pub. L. 108–286, which is set out in a note under section 3805 of this title.
 
 #### Prior Provisions
 
@@ -201,6 +215,8 @@ R.S. §2839 provided for forfeiture of merchandise entered, but not invoiced acc
 Act June 22, 1874, ch. 391, §16, 18 Stat. 189, required special findings as to fraud in actions, etc., to enforce forfeitures, etc., prior to repeal by Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141.
 
 #### Amendments
+
+2004—Subsec. (c)(8), (9). Pub. L. 108–286, §§106(c), 205, temporarily added par. (8) and redesignated former par. (8) as (9). See Effective and Termination Dates of 2004 Amendment note below.
 
 2003—Subsec. (c)(6). Pub. L. 108–77, §§107(c), 205(a)(1)(B), temporarily added par. (6). Former par. (6) redesignated (7). See Effective and Termination Dates of 2003 Amendments note below.
 
@@ -254,6 +270,10 @@ Subsec. (f). Pub. L. 103–182, §205(c)(2), added subsec. (f).
 
 1935—Act Aug. 5, 1935, inserted “whether or not the United States shall or may be deprived of the lawful duties, or any portion thereof, accruing upon the merchandise, or any portion thereof, embraced or referred to in such invoice, declaration, affidavit, letter, paper, or statement;”.
 
+#### Effective and Termination Dates of 2004 Amendment
+
+Amendment by Pub. L. 108–286 effective on the date on which the United States-Australia Free Trade Agreement enters into force (Jan. 1, 2005) and to cease to be effective on the date on which the Agreement terminates, see section 106(a), (c) of Pub. L. 108–286, set out in a note under section 3805 of this title.
+
 #### Effective and Termination Dates of 2003 Amendments
 
 Amendment by Pub. L. 108–78 effective on the date the United States-Singapore Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–78, set out in a note under section 3805 of this title.
@@ -284,7 +304,7 @@ Section 110(f) of Pub. L. 95–410 provided that:
 
 &emsp;“(ii) was the subject of an investigation by the Customs Service which was begun before the date of enactment of this Act.
 
-“(C) Except as provided in the next sentence, subsection (e) of section 592 of the Tariff Act of 1930 (asadded by subsection (a)) \[subsec. (e) of this section\] shall be effective on the date of enactment of this Act \[Oct. 3, 1978\]. Notwithstanding any provision of law, in any proceeding in a United States district court commenced by the United States pursuant to section 604 of the Tariff Act of 1930 \[section 1604 of this title\] for the recovery of any monetary penalty claimed under section 592 of such Act \[this section\] for an alleged intentional violation described in subparagraph (B)—
+“(C) Except as provided in the next sentence, subsection (e) of section 592 of the Tariff Act of 1930 (as added by subsection (a)) \[subsec. (e) of this section\] shall be effective on the date of enactment of this Act \[Oct. 3, 1978\]. Notwithstanding any provision of law, in any proceeding in a United States district court commenced by the United States pursuant to section 604 of the Tariff Act of 1930 \[section 1604 of this title\] for the recovery of any monetary penalty claimed under section 592 of such Act \[this section\] for an alleged intentional violation described in subparagraph (B)—
 
 &emsp;“(i) all issues, including the amount of the penalty, shall be tried de novo; and
 
@@ -302,11 +322,7 @@ Section 110(f) of Pub. L. 95–410 provided that:
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1509, 1592a, 1595, 1595a, 1613, 1615, 1621, 1671c, 1673c of this title; title 7 section 511r; title 28 section 1582.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of theSecretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

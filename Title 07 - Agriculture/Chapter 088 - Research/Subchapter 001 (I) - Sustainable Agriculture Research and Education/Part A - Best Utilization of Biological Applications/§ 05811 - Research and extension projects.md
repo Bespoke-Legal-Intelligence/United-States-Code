@@ -100,7 +100,3 @@ The Secretary shall ensure that research projects conducted under this section a
 
 Subsec. (c)(2). Pub. L. 104–127, §860(c)(2)(B), redesignated subpars. (B) to (F) as (A) to (E), respectively, and struck out former subpar. (A) which read as follows: “are recommended by the Advisory Council;”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5812, 5814 of this title.
-

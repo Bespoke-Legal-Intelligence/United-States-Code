@@ -6,9 +6,9 @@ The Congress finds—
 
 &emsp;(1) that the predominant part of the Nation's population is located in its rapidly expanding metropolitan and other urban areas, which generally cross the boundary lines of local jurisdictions and often extend into two or more States;
 
-&emsp;(2) that the growth in the amount and complexity of air pollution brought about by urbanization, industrial development, and the increasing use of motor vehicles, has resulted in mounting dangers to the public health and welfare, including injury to agricultural crops and livestock, damage to and the deterioration of property, and hazards to air and ground transportation;
+&emsp;(2) that the growth in the amount and complexity of air pollution brought about by urbanization, industrial development, and the increasing use of motor vehicles, has resulted in mounting dangers to the public health andwelfare, including injury to agricultural crops and livestock, damage to and the deterioration of property, and hazards to air and ground transportation;
 
-&emsp;(3) that air pollution prevention (that is, the reduction or elimination, through any measures, of the amount of pollutants produced orcreated at the source) and air pollution control at its source is the primary responsibility of States and local governments; and
+&emsp;(3) that air pollution prevention (that is, the reduction or elimination, through any measures, of the amount of pollutants produced or created at the source) and air pollution control at its source is the primary responsibility of States and local governments; and
 
 &emsp;(4) that Federal financial assistance and leadership is essential for the development of cooperative Federal, State, regional, and local programs to prevent and control air pollution.
 
@@ -74,7 +74,7 @@ Section 406 of Pub. L. 95–95, as amended by Pub. L. 95–190, §14(b)(6), Nov.
 
 “(d)(1) Except as otherwise expressly provided, the amendments made by this Act \[see Short Title of 1977 Amendment note below\] shall be effective on date of enactment \[Aug. 7, 1977\].
 
-“(2) Except as otherwise expressly provided, each State required to revise its applicable implementation plan by reason of any amendment made by this Act \[see Short Title of 1977 Amendment note below\] shall adopt and submit to the Administrator of the Environmental Protection Administration such plan revision before the later of the date—
+“(2) Except as otherwise expressly provided, each State required to revise its applicable implementationplan by reason of any amendment made by this Act \[see Short Title of 1977 Amendment note below\] shall adopt and submit to the Administrator of the Environmental Protection Administration such plan revision before the later of the date—
 
 &emsp;“(A) one year after the date of enactment of this Act \[Aug. 7, 1977\], or
 
@@ -156,7 +156,7 @@ Radon mitigation demonstration program.—
 
 &emsp;“(A)
 
-Demonstration program.—The Administrator shall conduct a demonstration program to test methods and technologies of reducing or eliminating radongas and radon daughters where it poses a threat to human health. The Administrator shall take into consideration any demonstration program underway in the Reading Prong of Pennsylvania, New Jersey, and New York and at other sites prior to enactment. The demonstration program under this section shall be conducted in the Reading Prong, and at such other sites as the Administrator considers appropriate.
+Demonstration program.—The Administrator shall conduct a demonstration program to test methods and technologies of reducing or eliminating radon gas and radon daughters where it poses a threat to human health. The Administrator shall take into consideration any demonstration program underway in the Reading Prong of Pennsylvania, New Jersey, and New York and at other sites prior to enactment. The demonstration program under this section shall be conducted in the Reading Prong, and at such other sites as the Administrator considers appropriate.
 
 &emsp;“(B)
 
@@ -272,7 +272,7 @@ Report.—Not later than 2 years after the enactment of this Act \[Oct. 17, 1986
 
 #### “SEC. 404. CONSTRUCTION OF TITLE.
 
-“Nothing in this title shall be construed to authorize the Administrator to carry out any regulatory programor any activity other than research, development, and related reporting, information dissemination, and coordination activities specified in this title. Nothing in this title shall be construed to limit the authority of the Administrator or of any other agency or instrumentality of the United States under any other authority of law.
+“Nothing in this title shall be construed to authorize the Administrator to carry out any regulatory program or any activity other than research, development, and related reporting, information dissemination, and coordination activities specified in this title. Nothing in this title shall be construed to limit the authority of the Administrator or of any other agency or instrumentality of the United States under any other authority of law.
 
 #### “SEC. 405. AUTHORIZATIONS.
 
@@ -313,8 +313,4 @@ Ex. Ord. No. 10779, Aug. 21, 1958, 23 F.R. 6487, which related to cooperation of
 #### Executive Order No. 11507
 
 Ex. Ord. No. 11507, Feb. 4, 1970, 35 F.R. 2573, which provided for prevention, control, and abatement of air pollution at Federal facilities, was superseded by Ex. Ord. No. 11752, Dec. 17, 1973, 38 F.R. 34793, formerly set out as a note under section 4331 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7471, 7476 of this title.
 

@@ -60,7 +60,3 @@ A prior section 5 of Pub. L. 95–313 was renumbered section 8 and is classified
 
 1991—Subsec. (d). Pub. L. 102–237 substituted “State foresters” for “State Foresters” wherever appearing in introductory provisions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2106b, 3835a of this title.
-

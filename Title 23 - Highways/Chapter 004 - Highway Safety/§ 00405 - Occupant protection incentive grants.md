@@ -142,7 +142,7 @@ Use of funds.—Funds provided to a State as a grant under this subsection shall
 
 “(3)
 
-Grant awards.—The Secretary may make a grant under this subsection without regard to whether a State is eligible to receive, or has received, a grant under section 405 of title 23, United States Code (as inserted by subsection (a) of this section).
+Grant awards.—The Secretary may make a grant under this subsection without regard to whether a State is eligible to receive, or has received, a grantunder section 405 of title 23, United States Code (as inserted by subsection (a) of this section).
 
 “(4)
 
@@ -159,8 +159,4 @@ Report to congress.—Not later than June 1, 2002, the Secretary shall transmit 
 “(7)
 
 Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $7,500,000 for each of fiscal years 2000 and 2001.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410 of this title.
 

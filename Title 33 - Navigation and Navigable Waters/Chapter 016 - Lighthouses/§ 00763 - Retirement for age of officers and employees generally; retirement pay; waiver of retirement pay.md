@@ -64,7 +64,3 @@ Act Aug. 27, 1954, ch. 1010, 68 Stat. 878, as amended May 11, 1955, ch. 36, 69 S
 
 Adjustment of annuities of retired officers and employees based on cost-of-living increases, see section 2 of Pub. L. 90–163, Nov. 29, 1967, 81 Stat. 518, set out as a note under section 771 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 763–1, 763–2, 763a–1, 765, 766, 771 of this title; title 14 section 432; title 42 section 253b.
-

@@ -1,9 +1,5 @@
 subpart 5—special programs for students whose families are engaged in migrant and seasonal farmwork
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 1070, 3414 of this title.
-
 
 ---
 

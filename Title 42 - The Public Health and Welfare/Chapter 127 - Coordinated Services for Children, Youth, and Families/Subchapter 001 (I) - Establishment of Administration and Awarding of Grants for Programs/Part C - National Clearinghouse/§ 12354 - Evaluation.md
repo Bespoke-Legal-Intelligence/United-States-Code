@@ -10,7 +10,3 @@ The Commissioner shall, through grants or contracts awarded or entered into with
 
 (Pub. L. 101–501, title IX, §959, Nov. 3, 1990, 104 Stat. 1279.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12355 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Technical assistance
 
-The Secretary shall, without charge to a State receiving a grant under section 300x or 300x–21 of this title, provide to the State (or to any public or nonprofit private entity within the State) technical assistance with respect to the planning, development, and operation of any program or service carried out pursuant to the program involved. The Secretary may provide such technical assistance directly, through contract, or through grants.
+The Secretary shall, without charge to a State receiving a grant under section 300x or 300x–21 of this title, provide to the State (or to any publicor nonprofit private entity within the State) technical assistance with respect to the planning, development, and operation of any program or service carried out pursuant to the program involved. The Secretary may provide such technical assistance directly, through contract, or through grants.
 
 #### (b) Provision of supplies and services in lieu of grant funds
 
@@ -15,8 +15,4 @@ The Secretary shall, without charge to a State receiving a grant under section 3
 &emsp;With respect to a request described in paragraph (1), the Secretary shall reduce the amount of payments under the program involved to the State by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
 (July 1, 1944, ch. 373, title XIX, §1948, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 408.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300x–9, 300x–35 of this title.
 

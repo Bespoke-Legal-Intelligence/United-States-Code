@@ -82,9 +82,5 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### Amendments
 
-2000—Pub. L. 106–408 amended section generally. Prior to amendment, section read as follows: “Out of the deductions set aside for administering and executing this chapter the Secretary of the Interior is authorized to employ such assistants, clerks, and other persons in the District of Columbia and elsewhere, to be taken from the eligible lists of the civil service; to rent or construct buildings outside of the District of Columbia; to purchase such supplies, materials, equipment, office fixtures, and apparatus; and to incur such travel and other expenses, including publication of technical and administrative reports, purchase, maintenance, and hire of passenger-carrying motor vehicles, as he may deem necessary for carrying out the provisions of this chapter.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 669k, 777c of this title.
+2000—Pub. L. 106–408 amended section generally. Prior to amendment, section read as follows: “Out of the deductions set aside for administering and executing this chapter the Secretary of the Interior is authorized to employ such assistants, clerks, and other persons in the District of Columbia and elsewhere, to be taken from the eligible lists of the civil service; to rent or construct buildings outside of the District of Columbia; to purchase such supplies, materials, equipment, officefixtures, and apparatus; and to incur such travel and other expenses, including publication of technical and administrative reports, purchase, maintenance, and hire of passenger-carrying motor vehicles, as he may deem necessary for carrying out the provisions of this chapter.”
 

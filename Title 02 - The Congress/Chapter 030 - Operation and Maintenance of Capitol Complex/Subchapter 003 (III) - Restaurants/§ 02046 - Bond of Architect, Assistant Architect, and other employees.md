@@ -8,7 +8,3 @@ The Architect, Assistant Architect, and any employees of the Architect designate
 
 Section was classified to section 174j–6 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1846, 2043, 2044, 2047, 2049 of this title; title 5 section 5533.
-

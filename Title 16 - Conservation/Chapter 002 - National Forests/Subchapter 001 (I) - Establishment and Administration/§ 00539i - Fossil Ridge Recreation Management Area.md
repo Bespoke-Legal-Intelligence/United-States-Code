@@ -44,7 +44,3 @@ Geothermal leasing laws, referred to in subsec. (c), are classified principally 
 
 Section 1(a) of Pub. L. 103–77 provided that: “This Act \[enacting this section and section 539j of this title, enacting provisions set out as a note under section 539j of this title, and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Colorado Wilderness Act of 1993’.”
 
-#### Act Referred to in Other Sections
-
-The Colorado Wilderness Act of 1993 is referred to in sections 410hhh–3, 410hhh–5 of this title.
-

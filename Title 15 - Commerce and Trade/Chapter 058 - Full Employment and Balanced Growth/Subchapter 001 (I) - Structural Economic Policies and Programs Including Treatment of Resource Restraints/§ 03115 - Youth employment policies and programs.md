@@ -30,10 +30,6 @@ To the extent deemed necessary in fulfillment of the purposes of this chapter, t
 
 For definition of “this chapter”, referred to in subsec. (b), see References in Text note set out under section 3102 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3112, 3116 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original. The semicolon probably should be a period.</i>

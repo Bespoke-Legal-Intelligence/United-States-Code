@@ -54,7 +54,7 @@ In determining whether a waiver to the contractor at the time of contracting wil
 
 #### (e) Considerations applicable to identified invention for waiver determination by Secretary
 
-In determining whether a waiver to the contractor or inventor or rights to an identified invention will best serve the interests of the United States and the general public, the Secretary shall specifically include as considerations paragraphs (4) through (11) of subsection\(d) of this section as applied to the invention and—
+In determining whether a waiver to the contractor or inventor or rights to an identified invention will best serve the interests of the United States and the general public, the Secretary shall specifically include as considerations paragraphs (4) through (11) of subsection (d) of this section as applied to the invention and—
 
 &emsp;(1) the extent to which such waiver is a reasonable and necessary incentive to call forth private risk capital for the development and commercialization of the invention; and
 
@@ -123,10 +123,6 @@ Amendment by Pub. L. 96–517 effective July 1, 1981, but implementing regulatio
 #### Transfer of Functions
 
 “Secretary” and “Secretary's”, meaning Secretary of Energy, substituted for “Administrator”, “Administration”, and “Administration's”, meaning Energy Research and Development Administration and Administrator thereof, in subsecs. (a) to (e), (f)(2), (j), (k), (m)(5), and (n), and “Department of Energy” substituted for “Administration” in subsec. (<i>l</i>) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5585, 5906, 5907a, 5919, 6981, 7261a, 10308 of this title; title 7 section 178j; title 15 sections 2511, 2707, 5104; title 35 section 210.
 
 <i><sup>1</sup></i><i> So in original. Probably should be a comma.</i>
 

@@ -4,7 +4,3 @@ No money shall be expended from Indian tribal funds without specific appropriati
 
 (May 18, 1916, ch. 125, §27, 39 Stat. 158.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 155 of this title.
-

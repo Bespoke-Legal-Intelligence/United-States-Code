@@ -2,7 +2,7 @@
 
 #### (a) Permit requirements
 
-Not later than eighteen months after October 21, 1976, the Administrator shall promulgate regulations requiring each person owning or operating an existing facility or planning to construct a new facility for the treatment, storage, or disposal of hazardous waste identified or listed under this subchapter to have a permit issued pursuant to this section. Such regulations shall take effect on the date provided in section 6930 of this title and upon and after such date the treatment, storage, or disposal of any such hazardous waste and the construction of any new facility for the treatment, storage, or disposal of any such hazardous waste is prohibited except in accordance with such a permit. No permit shall be required under this section in order to construct a facility if such facility is constructed pursuant to an approval issued by the Administrator under section 2605(e) of title 15 for the incineration of polychlorinated biphenyls and any person owning or operating such a facility may, at any time after operation or construction of such facility has begun, file an application for a permit pursuant to this section authorizing such facility to incinerate hazardous waste identified or listed under this subchapter.
+Not later than eighteen months after October 21, 1976, the Administrator shall promulgate regulations requiring each person owning or operating an existing facility or planning to construct a new facility for the treatment, storage, or disposal of hazardous waste identified or listed under this subchapter to have a permit issued pursuant to this section. Such regulations shall take effect on the date provided in section 6930 of this title and upon and after such date the treatment, storage, or disposal of any such hazardous waste and the construction of any new facility for the treatment, storage, or disposal of any such hazardous waste is prohibited except in accordance with such a permit. No permit shall be required under this section in order to construct a facility if such facility is constructedpursuant to an approval issued by the Administrator under section 2605(e) of title 15 for the incineration of polychlorinated biphenyls and any person owning or operating such a facility may, at any time after operation or construction of such facility has begun, file an application for a permit pursuant to this section authorizing such facility to incinerate hazardous waste identified or listed under this subchapter.
 
 #### (b) Requirements of permit application
 
@@ -48,7 +48,7 @@ Upon a determination by the Administrator (or by a State, in the case of a State
 
 &emsp;(C) has made an application for a permit under this section,
 
-> shall be treated as having been issued such permit until such time as final administrative disposition of such application is made, unless the Administrator or other plaintiff proves that final administrative disposition of such application has not been made because of the failure of the applicant to furnish information reasonably required or requested in order to process the application. This paragraph shall not apply to any facility which has been previously denied a permit under this section or if authority to operate the facility under this section has been previously terminated.
+> shall be treated as having been issued such permit until such time as final administrative disposition of such application is made, unless the Administrator or other plaintiff proves that final administrative disposition of such application has not been made because of the failure of the applicant to furnish information reasonablyrequired or requested in order to process the application. This paragraph shall not apply to any facility which has been previously denied a permit under this section or if authority to operate the facility under this section has been previously terminated.
 
 (2) In the case of each land disposal facility which has been granted interim status under this subsection before November 8, 1984, interim status shall terminate on the date twelve months after November 8, 1984, unless the owner or operator of such facility—
 
@@ -102,7 +102,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 (2) Paragraph (1) of this subsection shall not apply to any surface impoundment which (A) has at least one liner, for which there is no evidence that such liner is leaking; (B) is located more than one-quarter mile from an underground source of drinking water; and (C) is in compliance with generally applicable ground water monitoring requirements for facilities with permits under subsection (c) of this section.
 
-(3) Paragraph (1) of this subsection shall not apply to any surface impoundment which (A) contains treated waste water during the secondary or subsequent phases of an aggressive biological treatment facility subject to a permit issued under section 1342 of title 33 (or which holds such treated waste water after treatment and prior to discharge); (B) is in compliancewith generally applicable ground water monitoring requirements for facilities with permits under subsection (c) of this section; and (C)(i) is part of a facility in compliance with section 1311(b)(2) of title 33, or (ii) in the case of a facility for which no effluent guidelines required under section 1314(b)(2) of title 33 are in effect and no permit under section 1342(a)(1) of title 33 implementing section 1311(b)(2) of title 33 has been issued, is part of a facility in compliance with a permit under section 1342 of title 33, which is achieving significant degradation of toxic pollutants and hazardous constituents contained in the untreated waste stream and which has identified those toxic pollutants and hazardous constituents in the untreated waste stream to the appropriate permitting authority.
+(3) Paragraph (1) of this subsection shall not apply to any surface impoundment which (A) contains treated waste water during the secondary or subsequent phases of an aggressive biological treatment facility subject to a permit issued under section 1342 of title 33 (or which holds such treated waste water after treatment and prior to discharge); (B) is in compliance with generally applicable ground water monitoring requirements for facilities with permits under subsection (c) of this section; and (C)(i) is part of a facility in compliance with section 1311(b)(2) of title 33, or (ii) in the case of a facility for which no effluent guidelines required under section 1314(b)(2) of title 33 are in effect and no permit under section 1342(a)(1) of title 33 implementing section 1311(b)(2) of title 33 has been issued, is part of a facility in compliance with a permit under section 1342 of title 33, which is achieving significant degradation of toxic pollutants and hazardous constituents contained in the untreated waste stream and which has identified those toxic pollutants and hazardous constituents in the untreated waste stream to the appropriate permitting authority.
 
 (4) The Administrator (or the State, in the case of a State with an authorized program), after notice and opportunity for comment, may modify the requirements of paragraph (1) for any surface impoundment if the owner or operator demonstrates that such surface impoundment is located, designed and operated so as to assure that there will be no migration of any hazardous constitutent <sup>2</sup> into ground water or surface water at any future time. The Administrator or the State shall take into account locational criteria established under section 6924(<i>o</i>)(7) of this title.
 
@@ -152,7 +152,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 &emsp;(ii) a liner designed, constructed, installed, and operated to prevent hazardous waste from migrating beyond the liner to adjacent subsurface soil, ground water, or surface water at any time during the active life of the facility.
 
-(B) For the purposes of this subsection, the term “aggressive biological treatment facility” means a system of surface impoundments in which the initial impoundment of the secondary treatment segment of the facility utilizes intense mechanical aeration to enhance biological activity to degrade waste water pollutants and
+(B) For the purposes of this subsection, the term “aggressive biological treatment facility” means a system of surface impoundments in which the initial impoundment of the secondarytreatment segment of the facility utilizes intense mechanical aeration to enhance biological activity to degrade waste water pollutants and
 
 &emsp;(i) the hydraulic retention time in such initial impoundment is no longer than 5 days under normal operating conditions, on an annual average basis;
 
@@ -164,7 +164,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 (13) The Administrator may modify the requirements of paragraph (1) in the case of a surface impoundment for which the owner or operator, prior to October 1, 1984, has entered into, and is in compliance with, a consent order, decree, or agreement with the Administrator or a State with an authorized program mandating corrective action with respect to such surface impoundment that provides a degree of protection of human health and the environment which is at a minimum equivalent to that provided by paragraph (1).
 
-(Pub. L. 89–272, title II, §3005, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2808; amended Pub. L. 95–609, §7(h), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §§10, 11, Oct. 21, 1980, 94 Stat. 2338; Pub. L. 98–616, title II, §§211–213(a), (c), 214(a), 215, 224(b), 243(c), Nov. 8, 1984, 98 Stat. 3240–3243,3253, 3261; Pub. L. 104–119, §4(6), (7), Mar. 26, 1996, 110 Stat. 833.)
+(Pub. L. 89–272, title II, §3005, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2808; amended Pub. L. 95–609, §7(h), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §§10, 11, Oct. 21, 1980, 94 Stat. 2338; Pub. L. 98–616, title II, §§211–213(a), (c), 214(a), 215, 224(b), 243(c), Nov. 8, 1984, 98 Stat. 3240–3243, 3253, 3261; Pub. L. 104–119, §4(6), (7), Mar. 26, 1996, 110 Stat. 833.)
 
 #### References in Text
 
@@ -202,11 +202,7 @@ Subsec. (f). Pub. L. 96–482, §11, added subsec. (f).
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6921, 6924, 6926, 6927, 6928, 6933, 6935, 6936, 6937, 6939a, 6945, 6974, 6976, 7429, 9601, 9607, 9620, 9621, 9622 of this title; title 10 section 2702; title 26 sections 4662, 9507.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “responsibility”.</i>
 

@@ -20,7 +20,3 @@ In order to avoid duplication and waste—
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of Title 44, Public Printing and Documents.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 208 of this title.
-

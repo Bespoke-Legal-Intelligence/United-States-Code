@@ -54,7 +54,3 @@ Section 9 of Pub. L. 85–731 provided that: “Except as provided below the pro
 
 Sales of tribal property made pursuant to subsec. (a)(3) of this section or section 564e of this title as deferred until the adjournment of the second session of the Eighty-fifth Congress, see note set out under section 564e of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 564e, 564w–1 of this title.
-

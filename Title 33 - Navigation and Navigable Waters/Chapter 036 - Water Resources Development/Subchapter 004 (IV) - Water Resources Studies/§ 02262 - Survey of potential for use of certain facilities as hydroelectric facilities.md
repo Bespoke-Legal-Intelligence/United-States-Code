@@ -6,7 +6,7 @@ The Secretary shall, upon the request of local public officials, survey the pote
 
 #### (b) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary, to implement this section, the sum of $5,000,000 for each of the fiscal years ending September 30, 1988, through September 30, 1992, such sums to remain available until expended.
+There is authorized to be appropriated to the Secretary, to implement this section, the sum of$5,000,000 for each of the fiscal years ending September 30, 1988, through September 30, 1992, such sums to remain available until expended.
 
 (Pub. L. 99–662, title VII, §703, Nov. 17, 1986, 100 Stat. 4156.)
 

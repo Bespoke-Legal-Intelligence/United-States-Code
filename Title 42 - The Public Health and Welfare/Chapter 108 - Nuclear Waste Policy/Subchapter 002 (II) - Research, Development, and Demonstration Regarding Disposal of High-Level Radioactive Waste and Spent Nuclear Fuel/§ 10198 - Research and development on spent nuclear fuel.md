@@ -42,7 +42,3 @@ The spent nuclear fuel storage program authorized in section 10155 of this title
 
 Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10153, 10155, 10194 of this title.
-

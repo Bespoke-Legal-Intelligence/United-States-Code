@@ -92,7 +92,7 @@ Authorization of funds.—The Secretary of Agriculture shall use funds made avai
 
 “(e)
 
-Extension for Delay.—There shall be a day-for-day extension to the 20-month moratorium required by subsection (a) and a day-for-day extension to the report required by subsection (d)(4)—
+Extension for Delay.—There shall be a day-for-day extension to the 20-month moratorium required bysubsection (a) and a day-for-day extension to the report required by subsection (d)(4)—
 
 &emsp;“(1) for every day of delay in implementing or establishing the Water Rights Task Force caused by a failure to nominate Task Force members by the Administration or by the Congress; or
 

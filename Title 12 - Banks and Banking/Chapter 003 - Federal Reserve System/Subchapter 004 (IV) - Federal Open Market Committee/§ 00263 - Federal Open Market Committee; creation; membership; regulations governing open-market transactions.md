@@ -14,7 +14,3 @@
 
 1935—Act Aug. 23, 1935, amended provisions relating to membership in subsec. (a), substituted “Committee” for “Federal Reserve Board” and “Board” in subsec. (b), and omitted subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 355 of this title.
-

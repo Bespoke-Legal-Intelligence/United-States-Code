@@ -34,7 +34,7 @@ The exemptions provided under subsections (d), (e), and (f) of section 2006 of t
 
 &emsp;&emsp;&emsp;(v) beliefs, affiliations, opinions, or lawful activities regarding unions or labor organizations; and
 
-&emsp;&emsp;(D) the examiner does not conduct the test if there is sufficient written evidence by aphysician that the examinee is suffering from a medical or psychological condition or undergoing treatment that might cause abnormal responses during the actual testing phase.
+&emsp;&emsp;(D) the examiner does not conduct the test if there is sufficient written evidence by a physician that the examinee is suffering from a medical or psychological condition or undergoing treatment that might cause abnormal responses during the actual testing phase.
 
 #### (2) Pretest phase
 
@@ -113,8 +113,4 @@ The exemptions provided under subsections (d), (e), and (f) of section 2006 of t
 &emsp;&emsp;(B) maintains all opinions, reports, charts, written questions, lists, and other records relating to the test for a minimum period of 3 years after administration of the test.
 
 (Pub. L. 100–347, §8, June 27, 1988, 102 Stat. 650.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2002, 2006 of this title.
 

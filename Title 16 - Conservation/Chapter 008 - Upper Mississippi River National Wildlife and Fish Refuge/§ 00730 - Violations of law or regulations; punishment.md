@@ -4,7 +4,3 @@ Any person who shall violate or fail to comply with any provision of or any regu
 
 (June 7, 1924, ch. 346, §11, 43 Stat. 652.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 727 of this title.
-

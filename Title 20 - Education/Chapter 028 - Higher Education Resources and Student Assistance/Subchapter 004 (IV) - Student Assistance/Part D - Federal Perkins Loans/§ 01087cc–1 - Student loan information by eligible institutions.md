@@ -2,7 +2,7 @@
 
 #### (a) Disclosure required prior to disbursement
 
-Each institution of higher education, in order to carry out the provisions of section1087cc(a)(8) <sup>1</sup> of this title, shall, at or prior to the time such institution makes a loan to a student borrower which is made under this part, provide thorough and adequate loan information on such loan to the student borrower. Any disclosure required by this subsection may be made by an institution of higher education as part of the written application material provided to the borrower, or as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. The disclosures shall include—
+Each institution of higher education, in order to carry out the provisions of section 1087cc(a)(8) <sup>1</sup> of this title, shall, at or prior to the time such institution makes a loan to a student borrower which is made under this part, provide thorough and adequate loan information on such loan to the student borrower. Any disclosure required by this subsection may be made by an institution of higher education as part of the written application material provided to the borrower, or as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. The disclosures shall include—
 
 &emsp;(1) the name of the institution of higher education, and the address to which communications and payments should be sent;
 
@@ -64,7 +64,7 @@ Section 1087cc(a) of this title, referred to in subsec. (a), was amended by Pub.
 
 #### Prior Provisions
 
-A prior section 1087cc–1, Pub. L. 89–329, title IV, §463A, as added Pub. L. 96–374, title IV, §447(b), Oct. 3,1980, 94 Stat. 1443; amended Pub. L. 97–301, §13, Oct. 13, 1982, 96 Stat. 1405; Pub. L. 98–79, §3(b), Aug. 15, 1983, 97 Stat. 478; Pub. L. 99–272, title XVI, §16027, Apr. 7, 1986, 100 Stat. 353, related to student loan information to be provided by institutions, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087cc–1, Pub. L. 89–329, title IV, §463A, as added Pub. L. 96–374, title IV, §447(b), Oct. 3, 1980, 94 Stat. 1443; amended Pub. L. 97–301, §13, Oct. 13, 1982, 96 Stat. 1405; Pub. L. 98–79, §3(b), Aug. 15, 1983, 97 Stat. 478; Pub. L. 99–272, title XVI, §16027, Apr. 7, 1986, 100 Stat. 353, related to student loan information to be provided by institutions, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -103,10 +103,6 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 #### Effective Date
 
 Section applicable only to loans made for periods of enrollment beginning on or after July 1, 1987, see section 405(b) of Pub. L. 99–498, as amended, set out as a note under section 1087dd of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1087cc of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

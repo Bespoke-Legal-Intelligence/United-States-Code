@@ -8,7 +8,7 @@
 
 #### (2) Statutes
 
-&emsp;The provisions of law referred to in paragraph (1) are the following: the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\]; section 249 of the Revised Statutes of the United States (19 U.S.C. 3); section 2 of the Act of March 4, 1923 (19 U.S.C. 6); section 13031 of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c); section 251 of the Revised Statutes of the United States (19 U.S.C. 66); section 1 of the Act of June 26, 1930 (19 U.S.C. 68); the Foreign Trade Zones Act (19 U.S.C. 81a et seq.); section 1 of the Act of March 2, 1911 (19 U.S.C. 198); the Trade Act of 1974 \[19 U.S.C. 2101 et seq.\]; the Trade Agreements Act of 1979; the North American Free Trade Area Implementation Act; the Uruguay Round Agreements Act; the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\]; the Andean Trade Preference Act \[19 U.S.C. 3201 et seq.\]; the African Growth and Opportunity Act \[19 U.S.C. 3701 et seq.\]; and any other provision of law vesting customs revenue functions in the Secretary of the Treasury.
+&emsp;The provisions of law referred to in paragraph (1) are the following: the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\]; section 249 of the Revised Statutes of the United States (19 U.S.C. 3); section 2 of the Act of March 4, 1923 (19 U.S.C. 6); section 13031 of the ConsolidatedOmnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c); section 251 of the Revised Statutes of the United States (19 U.S.C. 66); section 1 of the Act of June 26, 1930 (19 U.S.C. 68); the Foreign Trade Zones Act (19 U.S.C. 81a et seq.); section 1 of the Act of March 2, 1911 (19 U.S.C. 198); the Trade Act of 1974 \[19 U.S.C. 2101 et seq.\]; the Trade Agreements Act of 1979; the North American Free Trade Area Implementation Act; the Uruguay Round Agreements Act; the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\]; the Andean Trade Preference Act \[19 U.S.C. 3201 et seq.\]; the African Growth and Opportunity Act \[19 U.S.C. 3701 et seq.\]; and any other provision of law vesting customs revenue functions in the Secretary of the Treasury.
 
 #### (b) Maintenance of Customs revenue functions
 
@@ -32,7 +32,7 @@ The effective date of this chapter, referred to in subsecs. (a)(1) and (b), is 6
 
 This chapter, referred to in subsecs. (a)(1) and (b)(1), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
-The Tariff Act of 1930, referred to in subsec. (a)(2), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§1202 et seq.)of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, referred to in subsec. (a)(2), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 The Foreign Trade Zones Act, referred to in subsec. (a)(2), is act June 18, 1934, ch. 590, 48 Stat. 998, as amended, which is classified generally to chapter 1A (§81a et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Tables.
 
@@ -53,10 +53,6 @@ The African Growth and Opportunity Act, referred to in subsec. (a)(2), is title 
 #### Change of Name
 
 Customs Service, referred to in subsec. (b), changed to Bureau of Customs and Border Protection by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 218 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “203(1)”.</i>
 

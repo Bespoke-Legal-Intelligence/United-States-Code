@@ -28,7 +28,3 @@ Section 19 of Pub. L. 87–420 provided that: “The amendments made by this Act
 
 Section 1 of Pub. L. 87–420 provided: “That this Act \[enacting this section, sections 1027 and 1954 of this title, and sections 308a to 308f of Title 29, Labor, amending sections 302 to 308 and 309 of Title 29, and renumbering sections 10 to 12 of Pub. L. 85–536, classified to section 309 of Title 29 and as notes under section 301 of Title 29\], may be cited as the ‘Welfare and Pension Plans Disclosure Act Amendments of 1962’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 1961, 2516 of this title; title 29 section 1031.
-

@@ -60,7 +60,7 @@ Notwithstanding the provisions of subsection (c) of this section—
 
 &emsp;&emsp;&emsp;(i) has evidence that the grantor meets the requirements specified in subclause (A) of this clause;
 
-&emsp;&emsp;&emsp;(ii) treats and deals with all money, securities, or property received from its customers as payment of the purchase price in connection with such transactions, as belonging to such customers until the expiration of the term of the option, or, if the customer exercises the option, until allrights of the customer under the commodity option transaction have been fulfilled;
+&emsp;&emsp;&emsp;(ii) treats and deals with all money, securities, or property received from its customers as payment of the purchase price in connection with such transactions, as belonging to such customers until the expiration of the term of the option, or, if the customer exercises the option, until all rights of the customer under the commodity option transaction have been fulfilled;
 
 &emsp;&emsp;&emsp;(iii) records each transaction in its customer's name by the transaction identification number provided by the grantor;
 
@@ -68,7 +68,7 @@ Notwithstanding the provisions of subsection (c) of this section—
 
 &emsp;&emsp;(C) the grantor and futures commission merchant comply with any additional uniform and reasonable terms and conditions the Commission may prescribe, including registration with the Commission.
 
-> The Commission may permit persons not domiciled in the United States to grant options under this subsection, other than options on a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974, under such additional rules, regulations, and orders as the Commission may adopt to provide protection to purchasers that are substantially the equivalent of those applicable to grantors domiciled in the United States. The Commission may terminate the right of any person to grant, offer, or sell options under this subsection only after a hearing, including a finding that the continuation of such right is contrary to the public interest: <i>Provided</i>, That pending the completion of such termination proceedings, the Commission may suspend the right to grant, offer, or sell options of any person whose activities in the Commission's judgment present a substantial risk to the public interest.
+> The Commission may permit persons not domiciled in the United States to grant options under this subsection, other than options on a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974, under such additional rules, regulations, and orders as the Commission may adopt to provide protection to purchasers that are substantially the equivalentof those applicable to grantors domiciled in the United States. The Commission may terminate the right of any person to grant, offer, or sell options under this subsection only after a hearing, including a finding that the continuation of such right is contrary to the public interest: <i>Provided</i>, That pending the completion of such termination proceedings, the Commission may suspend the right to grant, offer, or sell options of any person whose activities in the Commission's judgment present a substantial risk to the public interest.
 
 #### (e) Rules and regulations
 
@@ -108,7 +108,7 @@ Subsec. (g). Pub. L. 102–546, §203(a), added subsec. (g).
 
 Subsec. (b). Pub. L. 97–444, §206(2), in revising section generally, struck out references to any transaction subject to provisions of subsection (a) of this section and to any commodity not specifically set forth in section 2(a) of this title, prior to October 23, 1974, and struck out “within one year after the effective date of the Commodity Futures Trading Commission Act of 1974 unless the Commission determines and notifies the Senate Committee on Agriculture, Nutrition, and Forestry and the House Committee on Agriculture that it is unable to prescribe such terms and conditions within such period of time:” after “such terms and conditions as the Commission shall prescribe”.
 
-Subsec. (c). Pub. L. 97–444, §206(3), inserted “With respect to any commodity regulated under this chapter and specifically set forth in section 2(a) of this title prior to October 23, 1974, the Commission may, pursuant to the procedures set forth in this subsection, establish a pilot program for a period not to exceed three years to permit such commodity option transactions. The Commission may authorize commodity option transactions during the pilot program in as many commodities as will provide an adequate test of the tradingof such option transactions. After completion of the pilot program, the Commission may authorize commodity option transactions without regard to the restrictions in the pilot program after the Commission transmits to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry the documentation required under clause (1) of the first sentence of this subsection and the expiration of thirty calendar days of continuous session of Congress after the date of such transmittal.”
+Subsec. (c). Pub. L. 97–444, §206(3), inserted “With respect to any commodity regulated under this chapter and specifically set forth in section 2(a) of this title prior to October 23, 1974, the Commission may, pursuant to the procedures set forth in this subsection, establish a pilot program for a period not to exceed three years to permit such commodity option transactions. The Commission may authorize commodity option transactions during the pilot program in as many commodities as will provide an adequate test of the trading of such option transactions. After completion of the pilot program, the Commission may authorize commodity option transactions without regard to the restrictions in the pilot program after the Commission transmits to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry the documentation required under clause (1) of the first sentence of this subsection and the expiration of thirty calendar days of continuous session of Congress after the date of such transmittal.”
 
 Subsec. (d)(1). Pub. L. 97–444, §206(4)(A), inserted “, other than a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974,” after “physical commodity”.
 
@@ -147,8 +147,4 @@ For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 
 #### Effective Date
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1a, 2, 6a, 6f, 6k, 7a–3, 7b–1, 12a, 13, 16, 19, 25 of this title; title 11 section 761.
 

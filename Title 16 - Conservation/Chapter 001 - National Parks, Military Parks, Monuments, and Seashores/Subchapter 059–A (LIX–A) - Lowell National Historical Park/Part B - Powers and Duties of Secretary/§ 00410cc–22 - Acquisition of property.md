@@ -22,7 +22,7 @@
 
 Until the date on which the Commission conducts its first meeting, the Secretary may acquire any property within the park or preservation district not designated in subsection (a)(2) of this section, or any interest therein, if such property—
 
-&emsp;(1) is identified in the report of the Lowell Historical Canal District Commission as a property which should be preserved, restored,managed, developed, or maintained in a manner consistent with the purpose of this subchapter;
+&emsp;(1) is identified in the report of the Lowell Historical Canal District Commission as a property which should be preserved, restored, managed, developed, or maintained in a manner consistent with the purpose of this subchapter;
 
 &emsp;(2) is listed in the National Register of Historic Places, as maintained by the Secretary pursuant to section 470a(a) of this title, and section 462(b) of this title; or
 
@@ -35,8 +35,4 @@ Until the date on which the Commission conducts its first meeting, the Secretary
 The Secretary may acquire easements within the park for the purpose of carrying out this subchapter. Such easements may be acquired only as provided in subsection (a)(1) of this section.
 
 (Pub. L. 95–290, title II, §202, June 5, 1978, 92 Stat. 293.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410cc–21 of this title.
 

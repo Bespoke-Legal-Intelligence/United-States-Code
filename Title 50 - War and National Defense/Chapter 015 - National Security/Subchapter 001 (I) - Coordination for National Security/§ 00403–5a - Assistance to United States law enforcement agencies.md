@@ -12,7 +12,7 @@ Subject to subsection (b) of this section, elements of the intelligence communit
 
 &emsp;(B) The National Reconnaissance Office.
 
-&emsp;(C) The National Imagery and Mapping Agency.
+&emsp;(C) The National Geospatial-Intelligence Agency.
 
 &emsp;(D) The Defense Intelligence Agency.
 
@@ -38,5 +38,9 @@ For purposes of subsection (a) of this section:
 
 &emsp;&emsp;(D) A corporation incorporated in the United States, except for a corporation directed and controlled by a foreign government or governments.
 
-(July 26, 1947, ch. 343, title I, §105A, as added Pub. L. 104–293, title VIII, §814(a), Oct. 11, 1996, 110 Stat. 3483.)
+(July 26, 1947, ch. 343, title I, §105A, as added Pub. L. 104–293, title VIII, §814(a), Oct. 11, 1996, 110 Stat. 3483; amended Pub. L. 108–136, div. A, title IX, §921(e)(3), Nov. 24, 2003, 117 Stat. 1569.)
+
+#### Amendments
+
+2003—Subsec. (b)(1)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 

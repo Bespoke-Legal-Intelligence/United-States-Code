@@ -10,7 +10,7 @@ Amendment by Pub. L. 98–473 is based on section 211(b) of title II of S. 2416,
 
 #### Amendments
 
-1996—Pub. L. 104–208 inserted “the Bank for Economic Cooperation and Development in the Middle East and North Africa,” after “the Inter-American Development Bank,”.
+1996—Pub. L. 104–208 inserted “the Bank for Economic Cooperation and Development in the Middle East andNorth Africa,” after “the Inter-American Development Bank,”.
 
 1990—Pub. L. 101–513 inserted “the European Bank for Reconstruction and Development,” before “the Inter-American Development Bank,”.
 

@@ -38,7 +38,7 @@ On the date on which the President submits a determination under section 6063(c)
 
 #### (1) Review
 
-&emsp;If the President takes action under subsection (a) of this section to suspend the economic embargo of Cuba, the President shall immediately so notify the Congress. ThePresident shall report to the Congress no less frequently than every 6 months thereafter, until he submits a determination under section 6063(c)(3) of this title that a democratically elected government in Cuba is in power, on the progress being made by Cuba toward the establishment of such a democratically elected government. The action of the President under subsection (a) of this section shall cease to be effective upon the enactment of a joint resolution described in paragraph (2).
+&emsp;If the President takes action under subsection (a) of this section to suspend the economic embargo of Cuba, the President shall immediately so notify the Congress. The President shall report to the Congress no less frequently than every 6 months thereafter, until he submits a determination under section 6063(c)(3) of this title that a democratically elected government in Cuba is in power, on the progress being made by Cuba toward the establishment of such a democratically elected government. The action of the President under subsection (a) of this section shall cease to be effective upon the enactment of a joint resolution described in paragraph (2).
 
 #### (2) Joint resolutions
 
@@ -65,8 +65,4 @@ Section 902(c) of the Food Security Act of 1985, referred to in subsecs. (b)(4) 
 Section 204(a) of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, referred to in subsec. (e)(2), is subsec. (a) of this section.
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (e)(4)(A), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6032, 6033, 6082 of this title.
 

@@ -10,7 +10,7 @@ Section 2 of House Resolution No. 1047, Ninety-fifth Congress, which was enacted
 
 #### Ninety-fifth Congress
 
-Section 2 of House Resolution No. 1047, Ninety-fifth Congress, Apr. 4, 1978, enacted into permanent law by Pub. L. 95–391, provided that this section would not beeffective in the Ninety-fifth Congress upon the adoption of H. Res. 1047.
+Section 2 of House Resolution No. 1047, Ninety-fifth Congress, Apr. 4, 1978, enacted into permanent law by Pub. L. 95–391, provided that this section would not be effective in the Ninety-fifth Congress upon the adoption of H. Res. 1047.
 
 #### Authorization for Payment of Expenses from Contingent Fund of House of Representatives for Participatory Activities
 

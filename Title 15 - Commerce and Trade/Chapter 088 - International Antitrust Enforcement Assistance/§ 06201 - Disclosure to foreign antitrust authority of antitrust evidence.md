@@ -16,7 +16,3 @@ This chapter, referred to in text, was in original “this Act”, meaning Pub. 
 
 Section 1 of Pub. L. 103–438 provided that: “This Act \[enacting this chapter and amending sections 46, 57b–1, 1311, and 1312 of this title\] may be cited as the ‘International Antitrust Enforcement Assistance Act of 1994’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6204, 6211 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Functions of Administrator and Secretary
 
-The Administrator and the Secretary shall promptly initiate and carry out a program, as provided in this section, for the development and demonstration of combined solar heating and cooling systems (including collectors, controls, and thermal storage) for use in residential dwellings.
+The Administrator and the Secretary shall promptly initiate and carry out a program, asprovided in this section, for the development and demonstration of combined solar heating and cooling systems (including collectors, controls, and thermal storage) for use in residential dwellings.
 
 #### (b) Time for determination, prescription and publishing of interim performance criteria; selection of designs for suitable dwellings
 
@@ -38,7 +38,7 @@ The Secretary of Defense shall arrange for the installation of combined solar he
 
 #### (g) Coordination of activities to assure a realistic and effective demonstration
 
-The Secretary and the Secretary of Defense, and officials responsible for administering Federal or federally administered property, shall coordinate their activities under this section to assure that combined solar heating and cooling systems are installed in a substantial number of residential dwellings and in a sufficient number of geographic areas under varying climatic conditions to constitute a realistic and effective demonstration in support of the objectives of this subchapter.
+The Secretary and the Secretary of Defense, and officials responsible for administering Federal or federally administered property, shall coordinate their activities under this section to assure that combined solar heating and cooling systems are installed in a substantial number of residential dwellings and in a sufficient number of geographic areas under varying climatic conditions to constitute a realistic and effectivedemonstration in support of the objectives of this subchapter.
 
 (Pub. L. 93–409, §6, Sept. 3, 1974, 88 Stat. 1072; Pub. L. 93–438, title I, §104(f), title III, §301(h), Oct. 11, 1974, 88 Stat. 1238, 1250; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
@@ -53,8 +53,4 @@ The National Aeronautics and Space Act of 1958, referred to in subsec. (d), is P
 #### Transfer of Functions
 
 “Secretary of Energy” substituted for “Director”, meaning Director of National Science Foundation, in subsecs. (b)(1) and (c) pursuant to sections 104(f) and 301(h) of Pub. L. 93–438, which are classified to sections 5814(f) and 5871(h) of this title and which transferred functions of National Science Foundation relating to or utilized in connection with solar heating and cooling development to Administrator of Energy Research and Development Administration, and pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2473, 5506, 5507, 5509, 5511, 5513 of this title.
 

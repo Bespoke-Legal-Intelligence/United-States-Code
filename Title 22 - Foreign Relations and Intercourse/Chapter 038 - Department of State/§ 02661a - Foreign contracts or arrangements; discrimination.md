@@ -1,6 +1,6 @@
 ### §2661a. Foreign contracts or arrangements; discrimination
 
-Information should not be disseminated about opportunities for, and there should be no participation or other assistance by any officer oremployee of the Department of State (including the Agency for International Development) in, the negotiation of any contract or arrangement with a foreign country, individual, or entity, if—
+Information should not be disseminated about opportunities for, and there should be no participation or other assistance by any officer or employee of the Department of State (including the Agency for International Development) in, the negotiation of any contract or arrangement with a foreign country, individual, or entity, if—
 
 &emsp;(1) any United States person (as defined in section 7701(a)(30) of title 26) is prohibited from entering into such contract or arrangement, or
 

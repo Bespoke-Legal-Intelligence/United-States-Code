@@ -26,7 +26,7 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 In subsec. (a), “section 1535(d) of title 31” substituted for “section 1210 of the General Appropriation Act, 1951 (64 Stat. 765) \[31 U.S.C. 686–1\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-In subsec. (b), “section 549(a) to (e) of title 40” substituted for “section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended” and “those subsections” substituted for “that subsection” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (b), “section 549(a) to (e) of title 40” substituted for “section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended” and“those subsections” substituted for “that subsection” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -36,7 +36,7 @@ In subsec. (b), “section 549(a) to (e) of title 40” substituted for “secti
 
 1967—Subsec. (a). Pub. L. 90–137 required, in furnishing assistance under subchapter I of this chapter, utilization of excess personal property wherever practicable in lieu of new items for United States-assisted projects and programs.
 
-1966—Subsec. (a). Pub. L. 89–583 permitted personnel costs attributable to the excess property program to becharged to the separate account for the advance acquisition of property.
+1966—Subsec. (a). Pub. L. 89–583 permitted personnel costs attributable to the excess property program to be charged to the separate account for the advance acquisition of property.
 
 #### Effective Date of 1978 Amendment
 
@@ -45,10 +45,6 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2291a, 2357 of this title; title 40 section 525.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

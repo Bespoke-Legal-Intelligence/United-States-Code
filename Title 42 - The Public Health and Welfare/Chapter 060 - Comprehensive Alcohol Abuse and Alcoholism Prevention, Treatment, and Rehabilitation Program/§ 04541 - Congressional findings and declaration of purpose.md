@@ -38,7 +38,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Amendments
 
-1980—Subsec. (a)(2). Pub. L. 96–180, §2(a), substituted current findings of number of alcoholics or problemdrinkers in the country (approximately ten million or 7 percent of the adults) for 1974 findings of number of alcohol abusers and alcoholics of estimated number of ninety-five million drinkers in the Nation (minimum of nine million or 7 per centum of the adults).
+1980—Subsec. (a)(2). Pub. L. 96–180, §2(a), substituted current findings of number of alcoholics or problem drinkers in the country (approximately ten million or 7 percent of the adults) for 1974 findings of number of alcohol abusers and alcoholics of estimated number of ninety-five million drinkers in the Nation (minimum of nine million or 7 per centum of the adults).
 
 Subsec. (a)(3). Pub. L. 96–180, §2(a), substituted current findings respecting annual cost of over $43,000,000,000 to the United States for alcoholism and other related problems in lost production, motor vehicle and other accidents, and other items, for 1974 findings respecting minimum annual problem drinking costs of $15,000,000 to the national economy in lost working time and identical other items.
 
@@ -62,7 +62,7 @@ Section 1(a) of Pub. L. 96–180 provided that: “This Act \[enacting section 4
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–371 provided: “That this Act \[enacting sections 4578 and 4585 to 4588 of this title, amending this section, sections 218, 3511, 4571 to 4573, 4576, 4577, and 4581 of this title, and sections 1176 and 1177 of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 4573 and 4577 of this title, and sections 1176 and 1177 of Title 21\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1976’.”
+Section 1 of Pub. L. 94–371 provided: “That this Act \[enacting sections 4578 and 4585 to 4588 of this title, amending this section, sections 218, 3511, 4571 to 4573, 4576, 4577, and 4581 of this title, and sections 1176 and1177 of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 4573 and 4577 of this title, and sections 1176 and 1177 of Title 21\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1976’.”
 
 #### Short Title of 1974 Amendment
 

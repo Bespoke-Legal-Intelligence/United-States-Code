@@ -14,7 +14,3 @@ There are authorized to be appropriated to carry out the activities described in
 
 (Pub. L. 105–220, title I, §137, Aug. 7, 1998, 112 Stat. 1006.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2852, 2862 of this title.
-

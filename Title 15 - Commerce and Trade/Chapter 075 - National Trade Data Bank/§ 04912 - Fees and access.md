@@ -4,7 +4,3 @@ The Secretary shall provide reasonable public services and access (including ele
 
 (Pub. L. 100–418, title V, §5412, Aug. 23, 1988, 102 Stat. 1467.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1527a of this title.
-

@@ -56,10 +56,6 @@ Pub. L. 105–178, title III, §3013(b), June 9, 1998, 112 Stat. 359, which dire
 
 Pub. L. 105–178, title III, §3027(d), as added by Pub. L. 105–206, title IX, §9009(<i>o</i>)(2), July 22, 1998, 112 Stat. 858, substituted “formula grants” for “block grants” in item 5336.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 23 sections 103, 104, 110, 120, 133, 134, 142, 181, 182, 183; title 42 section 7506.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 <i><sup>2</sup></i><i> Editorially supplied. Section 5339 added by Pub. L. 108–7 without section catchline.</i>

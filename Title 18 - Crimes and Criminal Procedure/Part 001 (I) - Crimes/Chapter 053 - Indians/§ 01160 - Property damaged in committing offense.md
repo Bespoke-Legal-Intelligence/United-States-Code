@@ -18,7 +18,3 @@ The phrase “or whose person was injured,” which followed the words “friend
 
 1994—Pub. L. 103–322 substituted “non-Indian” for “white person” in first par.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 25 section 1725.
-

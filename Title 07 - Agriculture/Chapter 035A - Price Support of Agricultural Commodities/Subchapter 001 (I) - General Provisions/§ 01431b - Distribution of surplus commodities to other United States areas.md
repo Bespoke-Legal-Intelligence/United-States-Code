@@ -18,7 +18,3 @@ Section was not enacted as part of the Agricultural Act of 1949 which is classif
 
 Section 3(a) of Pub. L. 89–808 provided that the amendment made by that section is effective Jan. 1, 1967.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1431d of this title.
-

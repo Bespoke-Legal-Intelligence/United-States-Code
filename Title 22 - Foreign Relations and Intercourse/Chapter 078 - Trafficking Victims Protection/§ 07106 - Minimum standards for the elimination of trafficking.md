@@ -8,7 +8,7 @@ For purposes of this chapter, the minimum standards for the elimination of traff
 
 &emsp;(2) For the knowing commission of any act of sex trafficking involving force, fraud, coercion, or in which the victim of sex trafficking is a child incapable of giving meaningful consent, or of trafficking which includes rape or kidnapping or which causes a death, the government of the country should prescribe punishment commensurate with that for grave crimes, such as forcible sexual assault.
 
-&emsp;(3) For the knowing commission of any act of a severe form of trafficking in persons, the government of the country should prescribe punishment that is sufficiently stringent to deter and that adequately reflects the heinous nature of the offense.
+&emsp;(3) For the knowing commission of any act of a severe form of trafficking in persons, thegovernment of the country should prescribe punishment that is sufficiently stringent to deter and that adequately reflects the heinous nature of the offense.
 
 &emsp;(4) The government of the country should make serious and sustained efforts to eliminate severe forms of trafficking in persons.
 
@@ -45,8 +45,4 @@ In determinations under subsection (a)(4) of this section, the following factors
 Subsec. (b)(7). Pub. L. 108–193, §6(d)(2), substituted “, prosecutes, convicts, and sentences” for “and prosecutes” and inserted two sentences at end relating to presumption that foreign government has not vigorously investigated, prosecuted, convicted or sentenced acts of severe forms of trafficking in persons and disregard of presumption by Secretary of State under certain circumstances.
 
 Subsec. (b)(8) to (10). Pub. L. 108–193, §6(d)(3), added pars. (8) to (10).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7102, 7110 of this title.
 

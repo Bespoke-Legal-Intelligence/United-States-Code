@@ -34,7 +34,7 @@ As used in this section—
 
 &emsp;&emsp;(C) any record or tabulation of the result of one or more events in which any participant has no interest except for its bearing upon the possibility that he may become a winner.
 
-&emsp;(3) The term “lottery ticket” includes any right, privilege, or possibility (and any ticket,receipt, record, or other evidence of any such right, privilege, or possibility) of becoming a winner in a lottery.
+&emsp;(3) The term “lottery ticket” includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility) of becoming a winner in a lottery.
 
 #### (d) Lawful banking services connected with operation of lotteries
 
@@ -49,8 +49,4 @@ The Comptroller of the Currency shall issue such regulations as may be necessary
 #### Effective Date
 
 Section 6 of Pub. L. 90–203 provided that: “The amendments made by this Act \[adding this section, sections 339, 1730c, and 1829a of this title, and section 1306 of Title 18, Crimes and Criminal Procedure\] shall take effect on April 1, 1968.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 1306.
 

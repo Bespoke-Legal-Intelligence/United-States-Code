@@ -40,7 +40,3 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 Section effective Oct. 26, 1978, see section 604 of Pub. L. 95–521, set out as a note under section 591 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 593, 595 of this title.
-

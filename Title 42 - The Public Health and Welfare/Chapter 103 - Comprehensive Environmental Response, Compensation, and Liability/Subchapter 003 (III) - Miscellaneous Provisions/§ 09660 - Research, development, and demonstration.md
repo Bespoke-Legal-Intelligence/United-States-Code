@@ -114,7 +114,7 @@
 
 #### (F) Demonstration plan
 
-&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the application for the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
+&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the applicationfor the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
 
 #### (G) Supervision and testing
 
@@ -168,7 +168,7 @@
 
 #### (10) Definition
 
-&emsp;For purposes of this subsection, the term “alternative or innovative treatment technologies” means those technologies, including proprietary or patented methods, which permanently alter the composition of hazardous waste through chemical, biological, or physical means so as to significantly reduce the toxicity, mobility, or volume (or any combination thereof) of the hazardous waste or contaminated materials being treated. The term also includes technologies that characterize orassess the extent of contamination, the chemical and physical character of the contaminants, and the stresses imposed by the contaminants on complex ecosystems at sites.
+&emsp;For purposes of this subsection, the term “alternative or innovative treatment technologies” means those technologies, including proprietary or patented methods, which permanently alter the composition of hazardous waste through chemical, biological, or physical means so as to significantly reduce the toxicity, mobility, or volume (or any combination thereof) of the hazardous waste or contaminated materials being treated. The term also includes technologies that characterize or assess the extent of contamination, the chemical and physical character of the contaminants, and the stresses imposed by the contaminants on complex ecosystems at sites.
 
 #### (c) Hazardous substance research
 
@@ -316,7 +316,7 @@ Funding.—There is authorized to be appropriated to the Secretary of Energy for
 
 “(5)
 
-Authorization of appropriations.—There is authorized to be appropriated to the Administrator for purposes of carrying out this subsection (other than paragraph (4)) for fiscal years beginning after September 30, 1986, not more than $5,000,000.”
+Authorization of appropriations.—There is authorized to be appropriated to the Administrator for purposes of carrying out this subsection (other thanparagraph (4)) for fiscal years beginning after September 30, 1986, not more than $5,000,000.”
 
 #### Congressional Statement of Purpose
 
@@ -335,8 +335,4 @@ Section 209(a) of Pub. L. 99–499 provided that: “The purposes of this sectio
 #### Termination of Advisory Councils
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9611, 9619, 9659 of this title; title 10 section 2702.
 

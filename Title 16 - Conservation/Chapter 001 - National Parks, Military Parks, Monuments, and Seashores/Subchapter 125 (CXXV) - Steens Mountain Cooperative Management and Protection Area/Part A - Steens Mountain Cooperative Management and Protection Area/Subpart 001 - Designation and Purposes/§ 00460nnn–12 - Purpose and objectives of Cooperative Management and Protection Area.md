@@ -20,7 +20,3 @@ To further the purpose specified in subsection (a) of this section, and consiste
 
 (Pub. L. 106–399, title I, §102, Oct. 30, 2000, 114 Stat. 1658.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460nnn–21, 460nnn–23 of this title.
-

@@ -4,7 +4,3 @@ Nothing in this chapter shall be construed to prohibit any individual self-defen
 
 (Added Pub. L. 105–277, div. I, title II, §201(a), Oct. 21, 1998, 112 Stat. 2681–869.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 229D of this title; title 22 section 6744.
-

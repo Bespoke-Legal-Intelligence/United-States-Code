@@ -4,7 +4,3 @@ Whenever the Secretary finds that any lender or holder of a guaranty certificate
 
 (Pub. L. 93–262, title II, §213, Apr. 12, 1974, 88 Stat. 81.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1499 of this title.
-

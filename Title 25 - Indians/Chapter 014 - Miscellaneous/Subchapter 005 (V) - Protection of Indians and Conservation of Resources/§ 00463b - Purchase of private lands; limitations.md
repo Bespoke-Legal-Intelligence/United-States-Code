@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to purchase for the use and benefit 
 
 (July 28, 1937, ch. 527, §2, 50 Stat. 536.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 463a of this title.
-

@@ -44,7 +44,3 @@ The Fund shall provide an outreach program to identify and provide information t
 
 (Pub. L. 103–325, title I, §105, Sept. 23, 1994, 108 Stat. 2170.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1834a, 4705, 4706, 4707, 4712 of this title.
-

@@ -72,7 +72,3 @@ In subsection (d)(2), the words “that is equal to” are substituted for “at
 
 In subsection (e)(2), the words “buying rate” are substituted for “market buying rate for such cable transfers” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3123 of this title; title 19 section 1360.
-

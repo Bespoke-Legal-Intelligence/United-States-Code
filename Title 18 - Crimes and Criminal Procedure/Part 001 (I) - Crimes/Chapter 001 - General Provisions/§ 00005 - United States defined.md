@@ -24,7 +24,3 @@ Words “, except the Canal Zone.” were substituted for the period in this sec
 
 For definition of Canal Zone, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 112, 878, 1116, 1201, 2340 of this title.
-

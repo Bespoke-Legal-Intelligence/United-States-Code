@@ -19,10 +19,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 331, 332, 375, 604 of this title; title 38 section 7253.
-
 
 ---
 

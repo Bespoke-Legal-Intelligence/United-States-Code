@@ -16,7 +16,3 @@
 
 (June 30, 1948, ch. 758, title I, §110, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 830.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1261, 1262, 1375 of this title.
-

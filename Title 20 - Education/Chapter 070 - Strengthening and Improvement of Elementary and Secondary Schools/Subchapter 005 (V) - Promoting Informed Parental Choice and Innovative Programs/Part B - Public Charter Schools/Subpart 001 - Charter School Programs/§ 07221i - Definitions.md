@@ -58,7 +58,3 @@ The Education Amendments of 1972, referred to in par. (1)(G), is Pub. L. 92–31
 
 The Individuals with Disabilities Education Act, referred to in par. (1)(G), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2302, 6602, 7221c, 7223i, 7225f of this title.
-

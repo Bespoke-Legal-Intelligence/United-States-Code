@@ -20,7 +20,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 Pub. L. 96–395, title III, §307, June 30, 1980, 94 Stat. 791, provided that:
 
-“(a) The Commission is authorized and directed to prepare a plan for improving the technical capability of licensee personnel to safely operate utilization facilities licensed under section 103 or 104b. of the Atomic Energy Act of 1954 \[sections 2133 and 2134(b) of this title\]. In proposing such plan, the Commission shall consider the feasibility of requiring standard mandatory training programs for nuclear facility operators, including classroom study, apprenticeships at the facility, and emergency simulator training. Such plan shallinclude specific criteria for more intensive training and retraining of operator personnel licensed under section 107 of the Atomic Energy Act of 1954 \[this section\], and for the licensing of such personnel, to assure—
+“(a) The Commission is authorized and directed to prepare a plan for improving the technical capability of licensee personnel to safely operate utilization facilities licensed under section 103 or 104b. of the Atomic Energy Act of 1954 \[sections 2133 and 2134(b) of this title\]. In proposing such plan, the Commission shall consider the feasibility of requiring standard mandatory training programs for nuclear facility operators, including classroom study, apprenticeships at the facility, and emergency simulator training. Such plan shall include specific criteria for more intensive training and retraining of operator personnel licensed under section 107 of the Atomic Energy Act of 1954 \[this section\], and for the licensing of such personnel, to assure—
 
 &emsp;“(1) conformity with all conditions and requirements of the operating license;
 
@@ -46,9 +46,5 @@ Pub. L. 96–395, title III, §307, June 30, 1980, 94 Stat. 791, provided that:
 
 > The Commission shall transmit to the Congress the plan required by this subsection within six months after the date of the enactment of this Act \[June 30, 1980\], and shall implement as expeditiously as practicable each element thereof not requiring legislative enactment.
 
-“(b) The Nuclear Regulatory Commission is authorized and directed to undertake a study of the feasibility and value of licensing, under section 107 of the Atomic Energy Act of 1954 \[this section\], plant managers of utilization facilities and senior licensee officers responsible for operation of such facilities. The Commission shall report to the Congress within six months of the date of enactment of this Act \[June 30, 1980\] on the findings and recommendations of the study required by this subsection, and shall expeditiously implement each such recommendation not requiring legislative enactment.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2282 of this title.
+“(b) The Nuclear Regulatory Commission is authorized and directed to undertake a study of the feasibility and value of licensing, under section 107 of the AtomicEnergy Act of 1954 \[this section\], plant managers of utilization facilities and senior licensee officers responsible for operation of such facilities. The Commission shall report to the Congress within six months of the date of enactment of this Act \[June 30, 1980\] on the findings and recommendations of the study required by this subsection, and shall expeditiously implement each such recommendation not requiring legislative enactment.”
 

@@ -4,7 +4,7 @@
 
 (b)(1) Subject to subsection (c)(2), whenever life insurance continues after an employee retires on an immediate annuity or while the employee is receiving compensation under subchapter I of chapter 81 of this title because of disease or injury to the employee, as provided in section 8706(b) of this title, deductions for insurance shall be withheld from the employee's annuity or compensation, except that, in any case in which the insurance is continued as provided in section 8706(b)(3)(A) of this title, the deductions shall not be made for months after the calendar month in which the employee becomes 65 years of age.
 
-(2) Notwithstanding paragraph (1) of this subsection, insurance shall be so continued without cost (other than as provided under section 8706(b)(3)(B)) to each employee who so retires, orcommences receiving compensation, on or before December 31, 1989.
+(2) Notwithstanding paragraph (1) of this subsection, insurance shall be so continued without cost (other than as provided under section 8706(b)(3)(B)) to each employee who so retires, or commences receiving compensation, on or before December 31, 1989.
 
 (c)(1) The amount withheld from the pay, annuity, or compensation of each employee subject to insurance deductions shall be at the rate, adjusted to the nearest half-cent, of 662/3 percent of the level cost as determined by the Office for each $1,000 of the employee's basic insurance amount.
 
@@ -70,9 +70,5 @@ Amendment by Pub. L. 90–206 effective on first day of first pay period which b
 
 #### Retroactive Effect of 1967 Amendment
 
-Amendment by Pub. L. 90–206 to have no effect in case of an employee who died, was finally separated, or retired prior to Dec. 16, 1967, see section 405(c) of Pub. L. 90–206, set out as a note under section 8704 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8706, 8708, 8714, 8714a, 8714d of this title; title 2 sections 162b, 2064.
+Amendment by Pub. L. 90–206 to have no effect in case of an employee who died, was finally separated, or retired prior to Dec. 16, 1967, see section 405(c) of Pub.L. 90–206, set out as a note under section 8704 of this title.
 

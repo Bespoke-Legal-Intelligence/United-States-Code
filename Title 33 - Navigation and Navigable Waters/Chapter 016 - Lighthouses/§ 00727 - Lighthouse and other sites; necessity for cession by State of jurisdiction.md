@@ -8,7 +8,3 @@ No lighthouse, beacon, public piers, or landmark, shall be built or erected on a
 
 R.S. §4661 derived from act Mar. 3, 1821, ch. 52, §3, 3 Stat. 644.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 728 of this title.
-

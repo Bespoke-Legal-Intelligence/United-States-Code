@@ -4,7 +4,3 @@ Where the lands for which application is made under section 701 of this title ha
 
 (Pub. L. 87–851, §3, Oct. 23, 1962, 76 Stat. 1127.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 704 of this title.
-

@@ -50,7 +50,7 @@ Subject to subsections (d) and (e) of this section, an amount collected on behal
 
 #### (cc) Distribution of the remainder to the family
 
-&emsp;&emsp;&emsp;&emsp;&emsp;To the extent that neither division (aa) nor division (bb) applies to theamount so collected, the State shall distribute the amount to the family.
+&emsp;&emsp;&emsp;&emsp;&emsp;To the extent that neither division (aa) nor division (bb) applies to the amount so collected, the State shall distribute the amount to the family.
 
 #### (ii) Distribution of arrearages that accrued before the family received assistance
 
@@ -64,7 +64,7 @@ Subject to subsections (d) and (e) of this section, an amount collected on behal
 
 #### (II) Post-September 2000
 
-&emsp;&emsp;&emsp;&emsp;Unless, based on the report required by paragraph (5), the Congress determines otherwise, with respect to the amount so collected on or after October 1, 2000 (or before such date, at the option of the State)—
+&emsp;&emsp;&emsp;&emsp;Unless, based on the report required by paragraph (5), the Congress determinesotherwise, with respect to the amount so collected on or after October 1, 2000 (or before such date, at the option of the State)—
 
 #### (aa) In general
 
@@ -132,7 +132,7 @@ As used in subsection (a) of this section:
 
 &emsp;The term “assistance from the State” means—
 
-&emsp;&emsp;(A) assistance under the State program funded under part A of this subchapter or under the State plan approved under part A of this subchapter (as in effect on the day before August 22, 1996); and
+&emsp;&emsp;(A) assistance under the State program funded under part A of this subchapter orunder the State plan approved under part A of this subchapter (as in effect on the day before August 22, 1996); and
 
 &emsp;&emsp;(B) foster care maintenance payments under the State plan approved under part E of this subchapter.
 
@@ -190,7 +190,7 @@ Subsec. (d). Pub. L. 106–169, §301(c)(2), (4), redesignated subsec. (e) as (d
 
 &emsp;“(1) the State share of amounts collected in the fiscal year which could be retained to reimburse the State for amounts paid to families as assistance by the State is less than the State share of such amounts collected in fiscal year 1995 (determined in accordance with this section as in effect on August 21, 1996); and
 
-&emsp;“(2)(A) the State has distributed to families that include an adult receiving assistance under the program under part A of this subchapter at least 80 percent of the current support payments collected during the preceding fiscal year on behalf of such families, and the amounts distributed were disregarded in determining the amount or type of assistance provided under the program under part A of this subchapter; or
+&emsp;“(2)(A) the State has distributed to families that include an adult receiving assistance under the program under part A of this subchapter at least 80 percent of the current support payments collected during the preceding fiscal year on behalf of such families, and the amounts distributed were disregarded indetermining the amount or type of assistance provided under the program under part A of this subchapter; or
 
 &emsp;“(B) the State has distributed to families that formerly received assistance under the program under part A of this subchapter the State share of the amounts collected pursuant to section 664 of this title that could have been retained as reimbursement for assistance paid to such families,
 
@@ -258,13 +258,13 @@ Subsec. (d). Pub. L. 98–378, §11(a)(1), added subsec. (d).
 
 1981—Subsec. (b). Pub. L. 97–35, §2332(e)(1), substituted in provision preceding par. (1) “as support” for “as child support”.
 
-Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding par. (1) “whom support payments”for “whom child support payments” and in pars. (1) and (2) “amounts of support payments” for “amounts of child support payments” in two places and “amounts of support so” for “amounts of child support so”.
+Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding par. (1) “whom support payments” for “whom child support payments” and in pars. (1) and (2) “amounts of support payments” for “amounts of child support payments” in two places and “amounts of support so” for “amounts of child support so”.
 
 1977—Subsec. (c). Pub. L. 95–171, §11(a)–(c), in par. (1), substituted “amounts of child support payments which represent monthly support payments” for “such support payments” and inserted “, which represent monthly support payments,” after “amounts so collected”; in par. (2), substituted “amounts of child support payments which represent monthly support payments” for “such support payments” and inserted “, which represents monthly support payments,” after “amount so collected”; changed to a comma the period at end of par. (2); and inserted provision for distribution of child support proceeds.
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–169, title III, §301(b), Dec. 14, 1999, 113 Stat. 1857, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to calendar quarters occurring during the period that begins on October 1, 1998, and ends on September 30, 2001.”
+Pub. L. 106–169, title III, §301(b), Dec. 14, 1999, 113 Stat. 1857, provided that: “The amendment made bysubsection (a) \[amending this section\] shall be effective with respect to calendar quarters occurring during the period that begins on October 1, 1998, and ends on September 30, 2001.”
 
 Pub. L. 106–169, title III, §301(c), Dec. 14, 1999, 113 Stat. 1857, provided that the amendment made by section 301(c) is effective Oct. 1, 2001.
 
@@ -309,8 +309,4 @@ Section 2646 of Pub. L. 98–369 provided that: “Except as otherwise specifica
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise specifically provided, see section 2336 of Pub. L. 97–35, set out as a note under section 651 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 608, 609, 652, 654, 654b, 664, 666 of this title.
 

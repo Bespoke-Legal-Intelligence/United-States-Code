@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—LICENSING OF PRIVATE REMOTE SENSING SPACE SYSTEMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5652, 5653, 5655, 5656, 5657 of this title.
-
 
 ---
 

@@ -56,7 +56,3 @@ In selecting proposed demonstrations to be supported under this section, the Sec
 
 (Pub. L. 96–512, §7, Dec. 12, 1980, 94 Stat. 2830.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3804, 3807, 3809 of this title.
-

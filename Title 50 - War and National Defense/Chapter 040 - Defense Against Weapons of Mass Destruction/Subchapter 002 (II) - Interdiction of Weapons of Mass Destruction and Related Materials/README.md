@@ -10,3 +10,4 @@
 - [&sect; 02331 - Procurement of detection equipment for United States border security](%C2%A7%2002331%20-%20Procurement%20of%20detection%20equipment%20for%20United%20States%20border%20security.md)
 - [&sect; 02332 - Sense of Congress concerning criminal penalties](%C2%A7%2002332%20-%20Sense%20of%20Congress%20concerning%20criminal%20penalties.md)
 - [&sect; 02333 - International border security](%C2%A7%2002333%20-%20International%20border%20security.md)
+- [&sect; 02334 - Training program](%C2%A7%2002334%20-%20Training%20program.md)

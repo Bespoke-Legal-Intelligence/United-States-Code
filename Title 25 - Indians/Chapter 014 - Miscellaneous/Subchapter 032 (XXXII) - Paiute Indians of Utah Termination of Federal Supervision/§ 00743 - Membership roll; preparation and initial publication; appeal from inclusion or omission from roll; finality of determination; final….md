@@ -4,9 +4,5 @@ Each tribe shall have a period of six months from September 1, 1954, in which to
 
 (Sept. 1, 1954, ch. 1207, §3, 68 Stat. 1100.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 742, 744 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “roll”.</i>
 

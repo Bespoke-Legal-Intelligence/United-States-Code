@@ -1,9 +1,5 @@
 Part E—Administrative and Enforcement Provisions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 965 of this title.
-
 
 ---
 

@@ -1,6 +1,6 @@
 ### §456a. Collections and pay-roll deductions for meals and quarters
 
-Cash collections and pay-roll deductions made for meals and quarters furnished by the National Park Service to employees of the Government in the field and to cooperating agencies may be credited as a reimbursement to the current appropriation for the administration of the parkor monument in which the accommodations are furnished.
+Cash collections and pay-roll deductions made for meals and quarters furnished by the National Park Service to employees of the Government in the field and to cooperating agencies may be credited as a reimbursement to the current appropriation for the administration of the park or monument in which the accommodations are furnished.
 
 (May 9, 1935, ch. 101, §1, 49 Stat. 209.)
 

@@ -28,9 +28,5 @@ Section 25(a) of the Federal Reserve Act, referred to in pars. (1) and (2)(A), w
 
 The International Banking Act of 1978, referred to in par. (2)(B), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted sections 347d, 611a, and 3101 to 3111 of this title, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of this title, and enacted provisions set out as notes under sections 36, 247, 601, 611a, and 3101 of this title. For definitions, see section 3101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1464, 3910 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §379a. Presumption of existence of jurisdiction
 
-In any action to enforce the requirements of this chapter respecting a device, food, drug, or cosmetic the connection with interstate commerce required for jurisdiction in such action shall be presumed to exist.
+In any action to enforce the requirements of this chapter respecting a device, food, drug, orcosmetic the connection with interstate commerce required for jurisdiction in such action shall be presumed to exist.
 
 (June 25, 1938, ch. 675, §709, as added Pub. L. 94–295, §8, May 28, 1976, 90 Stat. 583; amended Pub. L. 105–115, title IV, §419, Nov. 21, 1997, 111 Stat. 2379.)
 

@@ -20,7 +20,7 @@ Act Feb. 20, 1905, ch. 592, §12, 33 Stat. 727.
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–273 amended subsec. (c) generally. Prior to amendment, text read as follows: “If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may beserved upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director.”
+2002—Subsec. (c). Pub. L. 107–273 amended subsec. (c) generally. Prior to amendment, text read as follows: “If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director.”
 
 1999—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted “Director” for “Commissioner”.
 
@@ -63,10 +63,6 @@ Renewal of registrations under prior acts, see section 46(b) of act July 5, 1946
 #### Extension of Time for Renewal by Foreign Registrant
 
 Act July 17, 1946, ch. 587, 60 Stat. 568, provided for extension of time for renewal by a foreign registrant and expired by its own terms July 17, 1949.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1115 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Director's”.</i>
 

@@ -38,9 +38,5 @@ Section 7 of act Mar. 16, 1950, provided that: “This Act \[enacting this secti
 
 #### Transfer of Appropriations
 
-Section 5 of act Mar. 16, 1950, provided that: “So much of the unexpended balances of appropriations, allocations, or other funds (including funds available for the fiscal year ending June 30, 1950) for the use of the Bureau of Internal Revenue of the Treasury Department in the exercise of functions under the Oleomargarine Tax Act (26 U.S.C., §2300, subchapter A) \[now section 4591 et seq. of Title 26, Internal Revenue Code\], as the Director of the Bureau of the Budget \[now Director of the Office of Management and Budget\] may determine, shall be transferred to the Federal SecurityAgency (Food and Drug Administration) \[now the Department of Health and Human Services\] for use in the enforcement of this Act \[see Effective Date note above\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 347b of this title.
+Section 5 of act Mar. 16, 1950, provided that: “So much of the unexpended balances of appropriations, allocations, or other funds (including funds available for the fiscal year ending June 30, 1950) for the use of the Bureau of Internal Revenue of the Treasury Department in the exercise of functions under the Oleomargarine Tax Act (26 U.S.C., §2300, subchapter A) \[now section 4591 et seq. of Title 26, Internal Revenue Code\], as the Director of the Bureau of the Budget \[now Director of the Office of Management and Budget\] may determine, shall be transferred to the Federal Security Agency (Food and Drug Administration) \[now the Department of Health and Human Services\] for use in the enforcement of this Act \[see Effective Date note above\].”
 

@@ -4,7 +4,3 @@ The United States Commissioners may establish species working groups for the pur
 
 (Pub. L. 94–70, §4A, as added Pub. L. 101–627, title II, §205, Nov. 28, 1990, 104 Stat. 4460.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 971h of this title.
-

@@ -30,7 +30,7 @@
 
 #### (A) Procedure
 
-&emsp;&emsp;Each Governor of a State shall establish a procedure for use by local boards in theState in determining the initial eligibility of a provider described in subsection (a)(2)(C) of this section to receive funds as described in subsection (a) of this section for a program of training services, including the initial eligibility of—
+&emsp;&emsp;Each Governor of a State shall establish a procedure for use by local boards in the State in determining the initial eligibility of a provider described in subsection (a)(2)(C) of this section to receive funds as described in subsection (a) of this section for a program of training services, including the initial eligibility of—
 
 &emsp;&emsp;&emsp;(i) a postsecondary educational institution to receive such funds for a program not described in subsection (a)(2)(A) of this section; and
 
@@ -58,7 +58,7 @@
 
 #### (1) Procedure
 
-&emsp;Each Governor of a State shall establish a procedure for use by local boards in the State in determining the eligibility of a provider described in subsection (a)(2) of this section to continue to receive funds as described in subsection (a) of this section for a program after an initial period of eligibility under subsection (b) of this section (referred to in this section as “subsequent eligibility”).
+&emsp;Each Governor of a State shall establish a procedure for use by local boards in the State in determining the eligibility of a provider described in subsection (a)(2) of this section to continue to receive funds as described in subsection (a) of this section for a program after an initial period of eligibility under subsection\(b) of this section (referred to in this section as “subsequent eligibility”).
 
 #### (2) Recommendations
 
@@ -132,7 +132,7 @@
 
 &emsp;&emsp;&emsp;(ii) where appropriate, the rates of licensure or certification of all individuals who complete the program; and
 
-&emsp;&emsp;&emsp;(iii) the percentage of individuals who complete the program who attain industry-recognized occupational skills in the subject, occupation, or industry for which training is provided through the program, where applicable; and
+&emsp;&emsp;&emsp;(iii) the percentage of individuals who complete the program who attain industry-recognized occupational skills in the subject, occupation, or industry for whichtraining is provided through the program, where applicable; and
 
 &emsp;&emsp;(B) the Governor, or the local board, may require a provider to submit, under subsection (c) of this section, other verifiable program-specific performance information to obtain such subsequent eligibility.
 
@@ -158,7 +158,7 @@
 
 #### (3) Identification of eligible providers
 
-&emsp;A provider who is placed or retained on the list under paragraph (1), and is not removed by the designated State agency under paragraph (2), for a program, shall be considered to beidentified as an eligible provider of training services for the program.
+&emsp;A provider who is placed or retained on the list under paragraph (1), and is not removed by the designated State agency under paragraph (2), for a program, shall be considered to be identified as an eligible provider of training services for the program.
 
 #### (4) Availability
 
@@ -186,7 +186,7 @@
 
 #### (3) Repayment
 
-&emsp;A provider whose eligibility is terminated under paragraph (1) or (2) for a program shall be liable for repayment of all funds described in subsection (a) of this section received for the program during any period of noncompliance described in such paragraph.
+&emsp;A provider whose eligibility is terminated under paragraph (1) or (2) for a program shallbe liable for repayment of all funds described in subsection (a) of this section received for the program during any period of noncompliance described in such paragraph.
 
 #### (4) Construction
 
@@ -219,8 +219,4 @@ The Higher Education Act of 1965, referred to in subsecs. (a)(2)(A)(i) and (d)(3
 The National Apprenticeship Act, referred to in subsec. (a)(2)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, as amended, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
 This Act, referred to in subsec. (f)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2801, 2822, 2832, 2864, 2888 of this title.
 

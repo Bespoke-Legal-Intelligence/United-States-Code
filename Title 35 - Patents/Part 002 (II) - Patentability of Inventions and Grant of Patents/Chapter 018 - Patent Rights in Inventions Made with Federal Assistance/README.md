@@ -26,10 +26,6 @@
 
 1982—Pub. L. 97–256, title I, §101(5), Sept. 8, 1982, 96 Stat. 816, redesignated chapter 38, as added by Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3018, comprising sections 200 to 211, as chapter 18, and transferred chapter 18, as so redesignated, to end of this part from end of part IV.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 15 sections 278k, 3705, 5308; title 30 section 1226; title 42 section 15441; title 49 section 309.
-
 
 ---
 

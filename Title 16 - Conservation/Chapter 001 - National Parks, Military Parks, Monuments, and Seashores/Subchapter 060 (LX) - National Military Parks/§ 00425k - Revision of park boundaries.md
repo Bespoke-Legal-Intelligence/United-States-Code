@@ -32,7 +32,3 @@ Section 1 of Pub. L. 102–541 provided that: “Congress finds that the land ar
 
 Section 2(b) of Pub. L. 102–541 provided that lands included within the boundaries of the Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park pursuant to that section, amending this section and enacting provisions formerly set out as a note above, could be acquired only by donation, prior to repeal by Pub. L. 106–150, §1(b)(2), Dec. 9, 1999, 113 Stat. 1730.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 425<i>l</i>, 425m, 425<i>o</i> of this title.
-

@@ -58,7 +58,3 @@ The President shall—
 
 Subsec. (a)(2). Pub. L. 105–33, §3002(d)(2)(B), substituted “any such 6-month period” for “either such 6-month period”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 309, 926 of this title.
-

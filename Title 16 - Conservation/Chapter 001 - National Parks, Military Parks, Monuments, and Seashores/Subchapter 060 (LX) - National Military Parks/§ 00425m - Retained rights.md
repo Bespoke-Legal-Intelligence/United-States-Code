@@ -14,7 +14,3 @@ As used in this section, the term “improved property” means a year-round non
 
 (Pub. L. 101–214, §4, Dec. 11, 1989, 103 Stat. 1850.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 425k, 425<i>l</i>, 425<i>o</i> of this title.
-

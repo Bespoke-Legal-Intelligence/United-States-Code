@@ -32,7 +32,3 @@ Section 3(b) of Pub. L. 88–443, as amended by Pub. L. 91–296, title I, §120
 
 &emsp;“(6) the provisions of clause (b) of section 609 of the Public Health Service Act \[section 291i of this title\], as amended by this Act, shall apply with respect to any project whether it was approved, and whether the event specified in such clause occurred, before, on, or after the date of enactment of this Act \[June 30, 1970\], except that it shall not apply in the case of any project with respect to which recovery under title VI of such Act \[this subchapter\] has been made prior to the enactment of this paragraph.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 291a of this title.
-

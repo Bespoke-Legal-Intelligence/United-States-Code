@@ -34,7 +34,3 @@ Section inapplicable to wheat processors or exporters during period July 1, 1973
 
 Section inapplicable to wheat processed or exported during period July 1, 1973, through June 30, 1978, see section 403(b) of Pub. L. 91–524, as added by section 1(10) of Pub. L. 93–86, set out as a note under section 1379d of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1379a, 1379b, 1379d, 1379h, 1379i, 1379j of this title.
-

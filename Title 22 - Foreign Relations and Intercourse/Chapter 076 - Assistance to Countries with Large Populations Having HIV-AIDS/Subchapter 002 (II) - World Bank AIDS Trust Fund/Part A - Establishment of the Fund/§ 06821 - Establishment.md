@@ -40,7 +40,3 @@ The purpose of the Trust Fund should be to use contributed funds to—
 
 (Pub. L. 106–264, title I, §121, Aug. 19, 2000, 114 Stat. 754.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6822, 6823 of this title.
-

@@ -32,13 +32,9 @@ Clause (3) is substituted for 49 App.:1358 (words after 3d comma) for consistenc
 
 #### Amendments
 
-2001—Pub. L. 107–71 substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration” in introductory provisions.
+2001—Pub. L. 107–71 substituted “Under Secretary of Transportation for Security” for “Administrator of theFederal Aviation Administration” in introductory provisions.
 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
 

@@ -18,7 +18,3 @@ Within six months, after the enactment of an appropriation Act to carry out phas
 
 1995—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which read as follows: “Within twenty-four months after the date of enactment of an appropriation Act to carry out phase I, the Secretary shall transmit a report to Congress containing the recommendations made pursuant to subsection (b) of this section and a detailed statement of his findings and conclusions.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390g–2 of this title.
-

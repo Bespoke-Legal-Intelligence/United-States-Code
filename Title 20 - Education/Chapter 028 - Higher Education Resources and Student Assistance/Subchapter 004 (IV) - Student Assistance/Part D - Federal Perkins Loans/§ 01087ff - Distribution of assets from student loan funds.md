@@ -22,7 +22,7 @@ After March 31, 2012, each institution with which the Secretary has made an agre
 
 (2) No finding that the liquid assets of a student loan fund established under this part exceed the amount required under paragraph (1) may be made prior to a date which is 2 years after the date on which the institution of higher education received the funds from such institution's allocation under section 1087bb of this title.
 
-(Pub. L. 89–329, title IV, §466, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1453; amended Pub. L. 102–325, title IV, §466, July 23, 1992, 106 Stat. 584; Pub. L. 103–208, §2(f)(15), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §466, Oct. 7, 1998, 112 Stat. 1728.)
+(Pub. L. 89–329, title IV, §466, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat.1453; amended Pub. L. 102–325, title IV, §466, July 23, 1992, 106 Stat. 584; Pub. L. 103–208, §2(f)(15), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §466, Oct. 7, 1998, 112 Stat. 1728.)
 
 #### Prior Provisions
 
@@ -51,8 +51,4 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1087cc of this title.
 

@@ -4,7 +4,3 @@ The Secretary is authorized and directed to provide or arrange for the collectio
 
 (Pub. L. 90–396, §3, July 11, 1968, 82 Stat. 340.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 290a of this title.
-

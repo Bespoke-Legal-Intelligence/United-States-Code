@@ -14,7 +14,7 @@ Construction project proposals shall be negotiated pursuant to the statutory pro
 
 #### (c) Codes and standards
 
-The Indian tribe and the Secretary shall agree upon and specify appropriate building codes and architectural and engineering standards (including health and safety) which shall be in conformity with nationally recognized standards for comparable projects.
+The Indian tribe and the Secretary shall agree upon and specify appropriate building codes andarchitectural and engineering standards (including health and safety) which shall be in conformity with nationally recognized standards for comparable projects.
 
 #### (d) Responsibility for completion
 

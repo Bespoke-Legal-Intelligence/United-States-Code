@@ -108,7 +108,7 @@ Report.—Not later than 90 days after the date of the enactment of this Act \[A
 
 “(b)
 
-Revision.—Not later than November 15, 1989, the Secretary of Agriculture shall revise, as necessary, the report prepared under subsection (a) and submit the revision to Congress.
+Revision.—Not later than November 15, 1989, the Secretary of Agriculture shall revise, as necessary, thereport prepared under subsection (a) and submit the revision to Congress.
 
 “(c)
 

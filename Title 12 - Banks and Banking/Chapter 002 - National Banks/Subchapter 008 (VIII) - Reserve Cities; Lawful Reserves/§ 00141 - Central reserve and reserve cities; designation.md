@@ -81,7 +81,3 @@ Section 3(b) of Pub. L. 86–114, July 28, 1959, 73 Stat. 263, provided that: �
 
 &emsp;“(11) the seventh paragraph of such section is further amended by striking out ‘and central reserve cities’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 481 of this title.
-

@@ -6,7 +6,7 @@ Section 3802, Pub. L. 97–35, title V, §553, Aug. 13, 1981, 95 Stat. 464, rela
 
 Section 3803, Pub. L. 97–35, title V, §554(a)–(c), Aug. 13, 1981, 95 Stat. 464, related to applicability of title I of the Elementary and Secondary Education Act of 1965.
 
-Section 3804, Pub. L. 97–35, title V, §555, Aug. 13, 1981, 95 Stat. 465; Pub. L. 98–211, §1, Dec. 8, 1983, 97 Stat. 1412; Pub. L. 98–312, §5, June 12, 1984, 98 Stat. 234, related to programs authorized for assistance.
+Section 3804, Pub. L. 97–35, title V, §555, Aug. 13, 1981, 95 Stat. 465; Pub. L. 98–211, §1, Dec. 8, 1983, 97 Stat. 1412;Pub. L. 98–312, §5, June 12, 1984, 98 Stat. 234, related to programs authorized for assistance.
 
 Section 3805, Pub. L. 97–35, title V, §556, Aug. 13, 1981, 95 Stat. 465; Pub. L. 98–211, §§2–4, Dec. 8, 1983, 97 Stat. 1412–1414, related to approval of applications.
 

@@ -1,6 +1,6 @@
 ### §911. Discharge of committee considering resolution
 
-If the committee to which is referred a resolution introduced pursuant to subsection (a) of section 910 (or, in the absence of such a resolution, the first resolution introduced with respectto the same reorganization plan) has not reported such resolution or identical resolution at the end of 75 calendar days of continuous session of Congress after its introduction, such committee shall be deemed to be discharged from further consideration of such resolution and such resolution shall be placed on the appropriate calendar of the House involved.
+If the committee to which is referred a resolution introduced pursuant to subsection (a) of section 910 (or, in the absence of such a resolution, the first resolution introduced with respect to the same reorganization plan) has not reported such resolution or identical resolution at the end of 75 calendar days of continuous session of Congress after its introduction, such committee shall be deemed to be discharged from further consideration of such resolution and such resolution shall be placed on the appropriate calendar of the House involved.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 397; Pub. L. 92–179, §5, Dec. 10, 1971, 85 Stat. 576; Pub. L. 95–17, §2, Apr. 6, 1977, 91 Stat. 34; Pub. L. 98–614, §3(b)(4), Nov. 8, 1984, 98 Stat. 3192.)
 
@@ -31,8 +31,4 @@ Standard changes are made to conform with the definitions applicable and the sty
 1977—Pub. L. 95–17 substituted provisions deeming the committee discharged from further consideration of a resolution where that committee has not reported the resolution within 45 days of continuous session of Congress after the resolution's introduction for provisions permitting a motion to discharge a committee where the committee considering a resolution has not reported the resolution within 20 calendar days after the resolution's introduction, provisions permitting a motion to discharge to be made only by an individual favoring the resolution and limiting debate to 1 hour, and provisions prohibiting a renewal of a motion to discharge where the original motion was agreed to or disagreed to or the making of another motion with respect to a resolution from the same reorganization plan.
 
 1971—Subsec. (a). Pub. L. 92–179 substituted “20 calendar days” for “10 calendar days”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 908, 909, 912 of this title.
 

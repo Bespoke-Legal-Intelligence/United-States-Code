@@ -14,7 +14,3 @@ Act of February 20, 1929, referred to in text, is act Feb. 20, 1929, ch. 281, 45
 
 Act of May 22, 1929, referred to in text, is act May 22, 1929, ch. 6, 46 Stat. 4, which amended section 1661 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1545, 1706, 1707 of this title.
-

@@ -64,7 +64,7 @@
 
 > the provider of services or supplier shall not be subject to any penalty or interest under this subchapter or the provisions of subchapter XI of this chapter insofar as they relate to this subchapter (including interest under a repayment plan under section 1395ddd of this title or otherwise) relating to the provision of such items or service or such claim if the provider of services or supplier reasonably relied on such guidance.
 
-(B) Subparagraph (A) shall not be construed as preventing the recoupment or repayment (without any additional penalty) relating to an overpayment insofar as the overpayment was solelythe result of a clerical or technical operational error.
+(B) Subparagraph (A) shall not be construed as preventing the recoupment or repayment (without any additional penalty) relating to an overpayment insofar as the overpayment was solely the result of a clerical or technical operational error.
 
 #### (f) Report on areas of inconsistency or conflict
 
@@ -141,10 +141,6 @@ Study.—The Comptroller General of the United States shall conduct a study to d
 “(2)
 
 Report.—The Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) by not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395h, 1395u, 1395ff of this title; title 26 section 223.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (d) has been enacted.</i>
 

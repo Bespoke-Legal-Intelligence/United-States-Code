@@ -56,9 +56,5 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 203(b) of Pub. L. 105–368, set out as a note under section 3011 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3013, 3015, 3017, 3035 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

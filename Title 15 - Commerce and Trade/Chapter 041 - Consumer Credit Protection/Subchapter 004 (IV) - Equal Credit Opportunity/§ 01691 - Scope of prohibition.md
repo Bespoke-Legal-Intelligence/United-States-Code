@@ -80,9 +80,5 @@ This subchapter known as the “Equal Credit Opportunity Act”, see Short Title
 
 Section 502 of Pub. L. 93–495 provided that: “The Congress finds that there is a need to insure that the various financial institutions and other firms engaged in the extensions of credit exercise their responsibility to make credit available with fairness, impartiality, and without discrimination on the basis of sex or marital status. Economic stabilization would be enhanced and competition among the various financial institutions and other firms engaged in the extension of credit would be strengthened by an absence of discrimination on the basis of sex or marital status, as well as by the informed use of credit which Congress has heretofore sought to promote. It is the purpose of this Act \[see Short Title note set out under section 1601 of this title\] to require that financial institutions and other firms engaged in the extension of credit make that credit equally available to all credit-worthy customers without regard to sex or marital status.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1681a, 1691d, 1691e of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should not be hyphenated.</i>
 

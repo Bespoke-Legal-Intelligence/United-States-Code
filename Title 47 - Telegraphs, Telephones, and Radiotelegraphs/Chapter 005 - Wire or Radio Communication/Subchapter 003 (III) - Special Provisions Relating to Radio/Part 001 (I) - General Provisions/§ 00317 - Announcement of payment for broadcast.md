@@ -30,7 +30,3 @@ The Commission shall prescribe appropriate rules and regulations to carry out th
 
 1960—Pub. L. 86–752 designated existing provisions as subsec. (a), inserting proviso clause, and added subsecs. (b) to (e).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 503 of this title.
-

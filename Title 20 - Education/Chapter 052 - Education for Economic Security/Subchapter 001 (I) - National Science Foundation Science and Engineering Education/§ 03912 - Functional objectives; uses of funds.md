@@ -28,7 +28,3 @@
 
 A prior section 3912, Pub. L. 98–377, title I, §102, Aug. 11, 1984, 98 Stat. 1268, related to submission, contents, etc., of applications, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3916 of this title.
-

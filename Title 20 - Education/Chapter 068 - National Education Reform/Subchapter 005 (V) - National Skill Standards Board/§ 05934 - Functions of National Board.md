@@ -94,7 +94,7 @@ In order to support the activities described in subsections (b) and (d) of this 
 
 &emsp;&emsp;&emsp;(I) has been developed after taking into account relevant methods of such assessment and certification used in other countries;
 
-&emsp;&emsp;&emsp;(II) utilizes a variety of evaluation techniques, including, where appropriate, oral and written evaluations, portfolio assessments, and performance tests; and
+&emsp;&emsp;&emsp;(II) utilizes a variety of evaluation techniques, including, where appropriate, oraland written evaluations, portfolio assessments, and performance tests; and
 
 &emsp;&emsp;&emsp;(III) includes methods for establishing that the assessment and certification system is not discriminatory with respect to race, color, gender, age, religion, ethnicity, disability, or national origin, consistent with Federal civil rights laws.
 
@@ -144,7 +144,7 @@ In order to support the activities described in subsections (b) and (d) of this 
 
 #### (C) Criteria for review
 
-&emsp;&emsp;Prior to each fiscal year, the National Board shall publish objective criteria to beused by the Board in reviewing applications under subparagraph (B).
+&emsp;&emsp;Prior to each fiscal year, the National Board shall publish objective criteria to be used by the Board in reviewing applications under subparagraph (B).
 
 #### (3) Limitation on use of funds
 
@@ -162,7 +162,7 @@ In order to support the activities described in subsections (b) and (d) of this 
 
 Act of August 16, 1937, known as the National Apprenticeship Act, referred to in subsec. (d)(1)(B)(i)(II), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, as amended, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
-Subchapter II of this chapter, referred to in subsec. (d)(1)(B)(i)(III), was in the original “title II”, meaning title II of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 133, which enacted subchapter II of this chapter and section 3425 of this title, amended section 5093 of this title and section 5315 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 5093 of this title.
+Subchapter II of this chapter, referred to in subsec. (d)(1)(B)(i)(III), was in the original “title II”, meaning title II of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 133,which enacted subchapter II of this chapter and section 3425 of this title, amended section 5093 of this title and section 5315 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 5093 of this title.
 
 Federal civil rights laws, referred to in subsec. (d)(1)(B)(i)(VII), (ii)(III), are classified generally to chapter 21 (§1981 et seq.) of Title 42, The Public Health and Welfare.
 
@@ -171,8 +171,4 @@ Federal civil rights laws, referred to in subsec. (d)(1)(B)(i)(VII), (ii)(III), 
 1998—Subsec. (c)(3). Pub. L. 105–277 struck out “the Capacity Building and Information and Dissemination Network established under section 1733(b) of title 29 and” after “such mechanisms as”.
 
 1996—Subsecs. (f), (g). Pub. L. 104–134 redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: “The National Board shall establish cooperative arrangements with the National Education Standards and Improvement Council to promote the coordination of the development of skill standards under this section with the development of voluntary national content standards and voluntary national student performance standards in accordance with section 5843 of this title.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5935 of this title.
 

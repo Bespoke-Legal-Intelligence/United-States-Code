@@ -34,7 +34,7 @@
 
 #### (3) For air interdiction
 
-&emsp;There are authorized to be appropriated for the operation (including salaries and expenses) and maintenance of the air interdiction program of the Customs Service not to exceed the following:
+&emsp;There are authorized to be appropriated for the operation (including salaries and expenses)and maintenance of the air interdiction program of the Customs Service not to exceed the following:
 
 &emsp;&emsp;(A) $170,829,000 for fiscal year 2003.
 
@@ -54,7 +54,7 @@ For the fiscal year beginning October 1, 1982, and for each fiscal year thereaft
 
 #### (f) Use of savings resulting from administrative consolidations
 
-If savings in salaries and expenses result from the consolidation of administrative functionswithin the Customs Service, the Commissioner of Customs shall apply those savings, to the extent they are not needed to meet emergency requirements of the Service, to strengthening the commercial operations of the Service by increasing the number of inspector, import specialist, patrol officer, and other line operational positions.
+If savings in salaries and expenses result from the consolidation of administrative functions within the Customs Service, the Commissioner of Customs shall apply those savings, to the extent they are not needed to meet emergency requirements of the Service, to strengthening the commercial operations of the Service by increasing the number of inspector, import specialist, patrol officer, and other line operational positions.
 
 #### (g) Allocation of resources; notice to Congressional committees
 
@@ -96,7 +96,7 @@ Subsec. (b)(3)(A). Pub. L. 107–210, §311(c)(1), added subpar. (A) and struck 
 
 Subsec. (b)(3)(B). Pub. L. 107–210, §311(c)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “$150,199,000 for fiscal year 1992.”
 
-1990—Subsec. (b). Pub. L. 101–382, amended subsec. (b) generally, in par. (1), substituting provisions authorizing $516,217,000 and $542,091,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $418,822,000 for fiscal year 1990, of which at least $26,240,000 was to be used to hire at least 435 additional inspectors and other drug interdiction personnel, in par. (2), designating existing provisions as subpar. (A) and substituting provisions authorizing $672,021,000 and $705,793,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $656,468,000 for fiscal year 1990, striking out provisions relating to Customs User Fee Account, and adding subpar. (B), and in par. (3), substituting provisions authorizing $143,047,000 and $150,199,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $128,128,000 for fiscal year 1990.
+1990—Subsec. (b). Pub. L. 101–382, amended subsec. (b) generally, in par. (1), substituting provisions authorizing $516,217,000 and $542,091,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $418,822,000 for fiscal year 1990, of which at least $26,240,000 was to be used to hire at least 435 additional inspectors and other drug interdiction personnel, in par. (2), designating existing provisions as subpar. (A) and substituting provisions authorizing $672,021,000 and $705,793,000 for fiscal years 1991 and 1992, respectively, for provisionsauthorizing $656,468,000 for fiscal year 1990, striking out provisions relating to Customs User Fee Account, and adding subpar. (B), and in par. (3), substituting provisions authorizing $143,047,000 and $150,199,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $128,128,000 for fiscal year 1990.
 
 1989—Subsec. (b)(1). Pub. L. 101–207, §3(a)(1), (2), substituted “1990” for “1989” and “$418,822,000” for “$440,504,000”.
 

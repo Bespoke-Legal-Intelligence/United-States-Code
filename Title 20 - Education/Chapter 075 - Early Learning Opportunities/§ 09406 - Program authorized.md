@@ -24,7 +24,7 @@ Amounts received under this chapter shall be used to supplement and not supplant
 
 #### (e) Special rule
 
-If funds appropriated to carry out this chapter are less than $150,000,000 for any fiscal year, the Secretary shall award grants for the fiscal year directly to Local Councils, on a competitive basis, to pay the Federal share of the cost of carrying out early learning programs in the locality served by the Local Council. In carrying out the preceding sentence—
+If funds appropriated to carry out this chapter are less than $150,000,000 for any fiscal year, theSecretary shall award grants for the fiscal year directly to Local Councils, on a competitive basis, to pay the Federal share of the cost of carrying out early learning programs in the locality served by the Local Council. In carrying out the preceding sentence—
 
 &emsp;(1) subsection (c) of this section, subsections (b) and (c) of section 9409 of this title, and paragraphs (1), (2), and (3) of section 9410(a) of this title shall not apply;
 

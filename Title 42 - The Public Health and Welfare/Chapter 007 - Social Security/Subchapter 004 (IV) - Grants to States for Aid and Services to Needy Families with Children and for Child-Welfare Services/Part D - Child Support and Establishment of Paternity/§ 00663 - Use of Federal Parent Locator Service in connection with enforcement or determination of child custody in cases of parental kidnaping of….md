@@ -98,9 +98,5 @@ Section 214(c) of Pub. L. 103–432 provided that: “The amendments made by thi
 
 #### Effective Date
 
-Section 9(d) of Pub. L. 96–611 provided that: “No agreement entered into under section 463 of the SocialSecurity Act \[this section\] shall become effective before the date on which section 1738A of title 28, United States Code (as added by this title \[probably should be “as added by section 8(a) of this Act”\]) becomes effective.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 654, 655 of this title.
+Section 9(d) of Pub. L. 96–611 provided that: “No agreement entered into under section 463 of the Social Security Act \[this section\] shall become effective before the date on which section 1738A of title 28, United States Code (as added by this title \[probably should be “as added by section 8(a) of this Act”\]) becomes effective.”
 

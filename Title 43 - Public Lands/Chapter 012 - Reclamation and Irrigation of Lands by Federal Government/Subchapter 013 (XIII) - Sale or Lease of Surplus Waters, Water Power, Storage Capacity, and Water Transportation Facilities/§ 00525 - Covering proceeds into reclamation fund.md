@@ -12,7 +12,3 @@ The reclamation Act, referred to in text, probably means act June 17, 1902, ch. 
 
 The words “the contracts authorized by sections 523 and 524 of this title” substituted in text for “such contracts”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 524, 526, 2245 of this title.
-

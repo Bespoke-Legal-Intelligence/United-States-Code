@@ -14,7 +14,7 @@
 - [&sect; 00460z&#8211;6 - Land acquisition in recreation area; donation and exchange; railway right-of-way; retention rights of owners of improved property](%C2%A7%2000460z%E2%80%936%20-%20Land%20acquisition%20in%20recreation%20area%3B%20donation%20and%20exchange%3B%20railway%20right-of-way%3B%20retention%20rights%20of%20owners%20of%20improved%20property.md)
 - [&sect; 00460z&#8211;7 - Hunting, fishing, and trapping](%C2%A7%2000460z%E2%80%937%20-%20Hunting%2C%20fishing%2C%20and%20trapping.md)
 - [&sect; 00460z&#8211;8 - Mining restriction](%C2%A7%2000460z%E2%80%938%20-%20Mining%20restriction.md)
-- [&sect; 00460z&#8211;9 - Water utilization; transportation of wastes, easements](%C2%A7%2000460z%E2%80%939%20-%20Water%20utilization%3B%20transportation%20of%20wastes%2C%20easements.md)
+- [&sect; 00460z&#8211;9 - Water utilization; transportation of wastes; easements](%C2%A7%2000460z%E2%80%939%20-%20Water%20utilization%3B%20transportation%20of%20wastes%3B%20easements.md)
 - [&sect; 00460z&#8211;10 - Advisory Council](%C2%A7%2000460z%E2%80%9310%20-%20Advisory%20Council.md)
 - [&sect; 00460z&#8211;11 - Area review; report to the President; wilderness designation](%C2%A7%2000460z%E2%80%9311%20-%20Area%20review%3B%20report%20to%20the%20President%3B%20wilderness%20designation.md)
 - [&sect; 00460z&#8211;12 - Federal-State cooperation](%C2%A7%2000460z%E2%80%9312%20-%20Federal-State%20cooperation.md)

@@ -18,10 +18,6 @@
 
 1958—Pub. L. 85–752, §2, Aug. 25, 1958, 72 Stat. 845, added item 334.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 2109 of this title.
-
 
 ---
 

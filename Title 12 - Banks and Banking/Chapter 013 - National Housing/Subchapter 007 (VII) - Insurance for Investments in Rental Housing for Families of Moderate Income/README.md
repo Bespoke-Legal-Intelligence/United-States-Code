@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—INSURANCE FOR INVESTMENTS IN RENTAL HOUSING FOR FAMILIES OF MODERATE INCOME
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1702, 1715c, 1731a, 1731b, 1735f–8 of this title.
-
 
 ---
 

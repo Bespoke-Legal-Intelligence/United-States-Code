@@ -75,10 +75,6 @@ Pub. L. 102–54, §14(c)(2), June 13, 1991, 105 Stat. 285, substituted “subch
 
 1986—Pub. L. 99–576, title III, §301(d)(2), Oct. 28, 1986, 100 Stat. 3268, amended item 1432 generally, substituting “Limitations” for “Limitation”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 113, 3108, 3485, 3674, 3680A, 3681, 3684A, 3688, 3689, 3690, 3692, 3693, 3695, 3697, 3697A, 4213, 5113, 5303A, 5313B of this title; title 10 sections 510, 708, 2006, 2007, 16131, 16132; title 20 sections 1087vv, 6674; title 26 sections 25A, 135; title 29 section 2913.
-
 
 ---
 

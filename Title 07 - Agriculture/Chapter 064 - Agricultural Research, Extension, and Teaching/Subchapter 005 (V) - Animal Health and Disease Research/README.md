@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—ANIMAL HEALTH AND DISEASE RESEARCH
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3103, 3124a of this title.
-
 
 ---
 

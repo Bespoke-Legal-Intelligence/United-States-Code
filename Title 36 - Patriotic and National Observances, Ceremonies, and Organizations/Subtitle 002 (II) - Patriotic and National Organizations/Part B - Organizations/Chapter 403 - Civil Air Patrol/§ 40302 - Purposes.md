@@ -56,7 +56,3 @@ Par. (5). Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(b)(1)(E)\], added
 
 Amendment by Pub. L. 106–398 effective 120 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1090(c)\] of Pub. L. 106–398, set out as an Effective Date note under section 9441 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 9441, 9443.
-

@@ -46,7 +46,3 @@ No member or employee of a boxing commission, no person who administers or enfor
 
 2000—Pub. L. 106–210, §5, designated existing provisions as subsec. (a), inserted subsec. heading, and added subsecs. (b) and (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6309 of this title.
-

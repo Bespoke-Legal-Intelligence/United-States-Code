@@ -58,7 +58,3 @@ Subsec. (c)(1). Pub. L. 99–576, §321(6), substituted “the member's” for �
 
 Section 702(b) of Pub. L. 98–525 provided that: “Subchapter III of chapter 30 of title 38, United States Code, as added by subsection (a), shall take effect on July 1, 1986.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3022 of this title; title 10 sections 708, 2006.
-

@@ -24,7 +24,7 @@ Section was enacted as part of the Agricultural Act of 1970, and not as part of 
 
 #### Amendments
 
-1977—Par. (1). Pub. L. 95–113 substituted “to receive under one or more of the annual programs established by titles IV, V, and VI of this Act for the 1974 through 1976 crops of the commodities and by titles IV and V of the Food and Agriculture Act of 1977 and titles IV, V, and VI of this Act for the 1977 crop” for “to receive under one or more of the annual programs established by titles IV, V, and VI of this Act for the 1974 through 1977 crops”.
+1977—Par. (1). Pub. L. 95–113 substituted “to receive under one or more of the annual programs establishedby titles IV, V, and VI of this Act for the 1974 through 1976 crops of the commodities and by titles IV and V of the Food and Agriculture Act of 1977 and titles IV, V, and VI of this Act for the 1977 crop” for “to receive under one or more of the annual programs established by titles IV, V, and VI of this Act for the 1974 through 1977 crops”.
 
 1973—Par. (1). Pub. L. 93–86 substituted “one or more of the annual programs established by titles IV, V, and VI of this Act for the 1974 through 1977 crops of the Commodities shall not exceed $20,000” for “each of the annual programs established by titles IV, V, and VI of this Act for the 1971, 1972, or 1973 crop of the commodity shall not exceed $55,000”.
 
@@ -41,8 +41,4 @@ Section 1901 of Pub. L. 95–113 provided that: “Except as otherwise provided 
 #### Exemption of Disaster Payment Limitations Respecting 1977 Crops of Wheat, Feed Grains, Upland Cotton, and Rice
 
 Pub. L. 95–156, Nov. 8, 1977, 91 Stat. 1264, provided: “That, notwithstanding any other provision of law, the term ‘payments’ as used in section 101 of the Agricultural Act of 1970, as amended \[this section\], and section 101(g)(13) of the Agricultural Act of 1949, as amended \[section 1441(g)(13) of this title\], shall not include any part of any payment which is determined by the Secretary of Agriculture to represent compensation for disaster loss with respect to the 1977 crops of wheat, feed grains, upland cotton, and rice.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1308 of this title; title 16 section 3834.
 

@@ -24,7 +24,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services, as
 
 &emsp;(10) to develop new and improved underground equipment and other sources of power for such equipment which will provide greater safety;
 
-&emsp;(11) to determine, upon the written request by any operator or authorized representative of miners, specifying with reasonable particularity the grounds upon which such request is made, whether any substance normally found in a coal or other mine has potentially toxic effects in the concentrations normally found in the coal or other mine or whether any physical agents or equipment found or used in a coal or other mine has potentially hazardous effects, and shall submit such determinations to both the operators and miners as soon as possible; and
+&emsp;(11) to determine, upon the written request by any operator or authorized representative of miners, specifying with reasonable particularity the grounds upon which such request is made, whether any substance normally found in a coal or other mine has potentially toxiceffects in the concentrations normally found in the coal or other mine or whether any physical agents or equipment found or used in a coal or other mine has potentially hazardous effects, and shall submit such determinations to both the operators and miners as soon as possible; and
 
 &emsp;(12) for such other purposes as they deem necessary to carry out the purposes of this chapter.
 
@@ -46,7 +46,7 @@ There is authorized to be appropriated to the Secretary of the Interior such sum
 
 #### (f) Exceptions to mandatory health and safety standards for improving techniques and equipment
 
-The Secretary is authorized to grant on a mine-by-mine basis an exception to any mandatory health or safety standard under this chapter for the purpose of permitting, under such terms and conditions as he may prescribe, accredited educational institutions the opportunity for experimenting with new and improvedtechniques and equipment to improve the health and safety of miners. No such exception shall be granted unless the Secretary finds that the granting of the exception will not adversely affect the health and safety of miners and publishes his findings.
+The Secretary is authorized to grant on a mine-by-mine basis an exception to any mandatory health or safety standard under this chapter for the purpose of permitting, under such terms and conditions as he may prescribe, accredited educational institutions the opportunity for experimenting with new and improved techniques and equipment to improve the health and safety of miners. No such exception shall be granted unless the Secretary finds that the granting of the exception will not adversely affect the health and safety of miners and publishes his findings.
 
 #### (g) Grants for research and development of respiratory equipment
 
@@ -81,8 +81,4 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 #### Effective Date
 
 Subchapter effective Dec. 30, 1969, see section 509 of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, set out as a note under section 801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 951a, 952, 958, 961 of this title; title 35 section 210.
 

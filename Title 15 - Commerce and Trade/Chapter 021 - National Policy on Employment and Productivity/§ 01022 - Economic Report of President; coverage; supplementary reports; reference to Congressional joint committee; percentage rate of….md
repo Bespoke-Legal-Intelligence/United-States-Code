@@ -4,7 +4,7 @@
 
 The President shall annually transmit to the Congress not later than 10 days after the submission of the budget under section 1105(a) of title 31, with copies transmitted to the Governor of each State and to other appropriate State and local officials, an economic report (hereinafter in this chapter referred to as the “Economic Report”) together with the annual report of the Council of Economic Advisers submitted in accord with section 1023(c) of this title, setting forth—
 
-&emsp;(1) the current and foreseeable trends in the levels of employment, unemployment, production, capital formation, real income, Federal budget outlays and receipts, productivity, international trade and payments, and prices, and a review and analysis of recent domesticand international developments affecting economic trends in the Nation;
+&emsp;(1) the current and foreseeable trends in the levels of employment, unemployment, production, capital formation, real income, Federal budget outlays and receipts, productivity, international trade and payments, and prices, and a review and analysis of recent domestic and international developments affecting economic trends in the Nation;
 
 &emsp;(2)(A) annual numerical goals for employment and unemployment, production, real income, productivity, Federal outlays as a proportion of gross national product, and prices for the calendar year in which the Economic Report is transmitted and for the following calendar year, designated as short-term goals, which shall be consistent with achieving as rapidly as feasible the goals of full employment and production, increased real income, balanced growth, fiscal policies that would establish the share of an expanding gross national product accounted for by Federal outlays at the lowest level consistent with national needs and priorities, a balanced Federal budget, adequate productivity growth, price stability, achievement of an improved trade balance, and proper attention to national priorities; and
 
@@ -57,10 +57,6 @@ Subsecs. (d), (e). Pub. L. 95–523, §103(b), added subsecs. (d) and (e).
 #### Effective Date of 1946 Amendment
 
 Amendment by act Aug. 2, 1946, effective Aug. 2, 1946, see section 245 of that act, set out as a note under section 72a of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1022a, 1022d, 1022e, 3116, 3132 of this title; title 2 sections 632, 636.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
 

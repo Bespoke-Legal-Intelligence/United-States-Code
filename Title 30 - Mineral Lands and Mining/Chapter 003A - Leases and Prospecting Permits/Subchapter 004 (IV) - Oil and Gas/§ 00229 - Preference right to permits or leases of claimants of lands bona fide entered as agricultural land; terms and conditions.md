@@ -4,7 +4,3 @@ In the case of lands bona fide entered as agricultural, and not withdrawn or cla
 
 (Feb. 25, 1920, ch. 85, §20, 41 Stat. 445.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 7421, 7435.
-

@@ -168,7 +168,7 @@ For purposes of this section:
 
 #### (2) Contents
 
-&emsp;The regulations under this subsection shall contain specific requirements, definitions, methods, variables, and parameters used under the risk-based capital test and in implementing the test (such as loan loss severity, float income, loan-to-value ratios, taxes, yieldcurve slopes, default experience, and prepayment rates). The regulations shall be sufficiently specific to permit an individual other than the Director to apply the test in the same manner as the Director.
+&emsp;The regulations under this subsection shall contain specific requirements, definitions,methods, variables, and parameters used under the risk-based capital test and in implementing the test (such as loan loss severity, float income, loan-to-value ratios, taxes, yield curve slopes, default experience, and prepayment rates). The regulations shall be sufficiently specific to permit an individual other than the Director to apply the test in the same manner as the Director.
 
 #### (3) Confidentiality of information
 
@@ -187,8 +187,4 @@ The Director shall provide copies of the statistical model or models used to imp
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1426, 1452, 1718, 4542, 4614, 4615 of this title.
 

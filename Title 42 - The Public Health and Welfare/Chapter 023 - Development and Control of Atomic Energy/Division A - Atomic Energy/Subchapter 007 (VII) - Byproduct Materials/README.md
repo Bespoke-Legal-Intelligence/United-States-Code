@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—BYPRODUCT MATERIALS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2014, 2021, 5842 of this title.
-
 
 ---
 

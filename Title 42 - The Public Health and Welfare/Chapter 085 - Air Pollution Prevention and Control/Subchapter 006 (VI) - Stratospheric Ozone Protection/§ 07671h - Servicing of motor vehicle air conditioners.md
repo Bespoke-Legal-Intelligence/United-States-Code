@@ -12,7 +12,7 @@ As used in this section—
 
 &emsp;(2)(A) The term “approved refrigerant recycling equipment” means equipment certified by the Administrator (or an independent standards testing organization approved by the Administrator) to meet the standards established by the Administrator and applicable to equipment for the extraction and reclamation of refrigerant from motor vehicle air conditioners. Such standards shall, at a minimum, be at least as stringent as the standards of the Society of Automotive Engineers in effect as of November 15, 1990, and applicable to such equipment (SAE standard J–1990).
 
-&emsp;(B) Equipment purchased before the proposal of regulations under this section shall be considered certified if it is substantially identical to equipment certified as provided in subparagraph (A).
+&emsp;(B) Equipment purchased before the proposal of regulations under this section shall be considered certified if it is substantially identicalto equipment certified as provided in subparagraph (A).
 
 &emsp;(3) The term “properly using” means, with respect to approved refrigerant recycling equipment, using such equipment in conformity with standards established by the Administrator and applicable to the use of such equipment. Such standards shall, at a minimum, be at least as stringent as the standards of the Society of Automotive Engineers in effect as of November 15, 1990, and applicable to the use of such equipment (SAE standard J–1989).
 

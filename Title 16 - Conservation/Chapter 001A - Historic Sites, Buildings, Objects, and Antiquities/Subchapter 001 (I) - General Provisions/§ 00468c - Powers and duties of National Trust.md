@@ -10,7 +10,7 @@ To the extent necessary to enable it to carry out the functions vested in it by 
 
 (d) To adopt a constitution and to make such bylaws, rules, and regulations, not inconsistent with the laws of the United States or of any State, as it deems necessary for the administration of its functions under sections 468 to 468d of this title, including among other matter, bylaws, rules, and regulations governing visitation to historic properties, administration of corporate funds, and the organization and procedure of the board of trustees.
 
-(e) To accept, hold, and administer gifts and bequests of money, securities, or other personal property of whatsoever character, absolutely or on trust, for the purposes for which the National Trust is created. Unless otherwise restricted by the terms of the gift or bequest, the National Trust is authorized to sell, exchange, or otherwise dispose of and to invest or reinvest in such investments as it may determine from time to time the moneys, securities, or other propertygiven or bequeathed to it. The principal of such corporate funds, together with the income therefrom and all other revenues received by it from any source whatsoever, shall be placed in such depositories as the National Trust shall determine and shall be subject to expenditure by the National Trust for its corporate purposes.
+(e) To accept, hold, and administer gifts and bequests of money, securities, or other personal property of whatsoever character, absolutely or on trust, for the purposes for which the National Trust is created. Unless otherwise restricted by the terms of the gift or bequest, the National Trust is authorized to sell, exchange, or otherwise dispose of and to invest or reinvest in such investments as it may determine from time to time the moneys, securities, or other property given or bequeathed to it. The principal of such corporate funds, together with the income therefrom and all other revenues received by it from any source whatsoever, shall be placed in such depositories as the National Trust shall determine and shall be subject to expenditure by the National Trust for its corporate purposes.
 
 (f) To acquire by gift, devise, purchase, or otherwise, absolutely or on trust, and to hold and, unless otherwise restricted by the terms of the gift or devise, to encumber, convey, or otherwise dispose of, any real property, or any estate or interest therein (except property within the exterior boundaries of national parks and national monuments), as may be necessary and proper in carrying into effect the purposes of the National Trust.
 
@@ -23,8 +23,4 @@ To the extent necessary to enable it to carry out the functions vested in it by 
 (j) And generally to do any and all lawful acts necessary or appropriate to carry out the purposes for which the National Trust is created.
 
 (Oct. 26, 1949, ch. 755, §4, 63 Stat. 928.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 468, 468d, 470a of this title.
 

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title27",
- "package": "USCODE-2003-title27",
+ "package": "USCODE-2004-title27",
  "pieces": [
   {
    "id": "27_",
@@ -54,7 +54,7 @@
      12,
      [
       [
-       115,
+       224,
        "[Page 2]"
       ]
      ]
@@ -281,7 +281,7 @@
    "marks": [
     [
      "L",
-     6,
+     8,
      "[Page 6]",
      true
     ],
@@ -290,7 +290,7 @@
      100,
      [
       [
-       118,
+       227,
        "[Page 7]"
       ]
      ]
@@ -343,7 +343,7 @@
    "marks": [
     [
      "L",
-     14,
+     16,
      "[Page 8]",
      true
     ]
@@ -377,7 +377,7 @@
    "marks": [
     [
      "L",
-     10,
+     14,
      "[Page 9]",
      true
     ]
@@ -420,7 +420,7 @@
    "marks": [
     [
      "L",
-     12,
+     14,
      "[Page 10]",
      true
     ]
@@ -439,20 +439,16 @@
      24,
      [
       [
-       182,
+       610,
        "[Page 11]"
       ]
      ]
     ],
     [
-     "I",
-     54,
-     [
-      [
-       217,
-       "[Page 12]"
-      ]
-     ]
+     "L",
+     60,
+     "[Page 12]",
+     true
     ]
    ],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00204 - Permits.md",
@@ -466,33 +462,25 @@
    "marks": [
     [
      "I",
-     18,
+     22,
      [
       [
-       950,
+       96,
        "[Page 13]"
       ]
      ]
     ],
     [
-     "I",
-     26,
-     [
-      [
-       1871,
-       "[Page 14]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 14]",
+     true
     ],
     [
-     "I",
-     44,
-     [
-      [
-       266,
-       "[Page 15]"
-      ]
-     ]
+     "L",
+     52,
+     "[Page 15]",
+     true
     ]
    ],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00205 - Unfair competition and unlawful practices.md",
@@ -515,10 +503,10 @@
    "marks": [
     [
      "I",
-     4,
+     8,
      [
       [
-       366,
+       810,
        "[Page 16]"
       ]
      ]
@@ -535,7 +523,7 @@
    "marks": [
     [
      "L",
-     28,
+     32,
      "[Page 17]",
      true
     ]
@@ -559,14 +547,10 @@
    "id": "27_211",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       290,
-       "[Page 18]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 18]",
+     true
     ]
    ],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 001 (I) - Federal Alcohol Administration/§ 00211 - Miscellaneous provisions.md",
@@ -607,10 +591,10 @@
    "marks": [
     [
      "I",
-     14,
+     22,
      [
       [
-       172,
+       137,
        "[Page 19]"
       ]
      ]
@@ -642,30 +626,26 @@
   },
   {
    "id": "27_217",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       137,
-       "[Page 20]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 002 (II) - Alcoholic Beverage Labeling/§ 00217 - Report to Congress.md",
    "printed_pages": [
     19,
-    20
+    19
    ]
   },
   {
    "id": "27_218",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 20]",
+     true
+    ]
+   ],
    "path": "Chapter 008 - Federal Alcohol Administration Act/Subchapter 002 (II) - Alcoholic Beverage Labeling/§ 00218 - Civil penalties.md",
    "printed_pages": [
-    20,
+    19,
     20
    ]
   },
@@ -706,6 +686,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2003-title27 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2004-title27 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 27 - Intoxicating Liquors"
 }

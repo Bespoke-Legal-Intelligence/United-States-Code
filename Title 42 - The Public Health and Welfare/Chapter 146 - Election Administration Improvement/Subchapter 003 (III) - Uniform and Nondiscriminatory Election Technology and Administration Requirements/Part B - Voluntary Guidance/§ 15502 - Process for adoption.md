@@ -12,7 +12,3 @@ The adoption of the voluntary guidance under this part shall be carried out by t
 
 (Pub. L. 107–252, title III, §312, Oct. 29, 2002, 116 Stat. 1715.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15501 of this title.
-

@@ -60,7 +60,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §203(b) (as applicable to veterinarians), (c), 63 Stat. 809; June 25, 1952, ch. 459, §1, 66 Stat. 156; June 29, 1953, ch. 158, §8 (as applicable to veterinarians), 67 Stat. 89; June 30, 1955, ch. 250, §203, 69 Stat. 225; Apr. 30, 1956, ch. 223, §5, 70 Stat. 122; Mar. 23, 1959, Pub. L. 86–4, §5, 73 Stat. 13.
 
-In subsection (a), clause (1) is substituted for section 234(c)(1), (2), and (3) of existing title 37. The words “of the Regular Army” and “of the Regular Air Force” are inserted in clauses (1)(A) and (B), respectively, since in contradistinction to section 234(c)(4) of existing title 37, their source was intended to apply only to regular officers. Clauses (2)(A) and (B) are substituted for theenumeration of categories in section 234(c)(4) of existing title 37 to reflect current usage and designations of those categories. Clause (3) is substituted for section 234(c)(5) and (6) of existing title 37. Section 234(b) (2d proviso) of existing title 37 is omitted as obsolete. Section 234(b) (last proviso) of existing title 37 is omitted as inapplicable to veterinarians.
+In subsection (a), clause (1) is substituted for section 234(c)(1), (2), and (3) of existing title 37. The words “of the Regular Army” and “of the Regular Air Force” are inserted in clauses (1)(A) and (B), respectively, since in contradistinction to section 234(c)(4) of existing title 37, their source was intended to apply only to regular officers. Clauses (2)(A) and (B) are substituted for the enumeration of categories in section 234(c)(4) of existing title 37 to reflect current usage and designations of those categories. Clause (3) is substituted for section 234(c)(5) and (6) of existing title 37. Section 234(b) (2d proviso) of existing title 37 is omitted as obsolete. Section 234(b) (last proviso) of existing title 37 is omitted as inapplicable to veterinarians.
 
 In subsection (b), the words “disability retirement pay” are omitted as covered by the words “retired pay”.
 
@@ -105,8 +105,4 @@ Amendment by Pub. L. 95–114 effective Oct. 1, 1977, see section 4 of Pub. L. 9
 #### Effective Date of 1973 Amendment
 
 Amendment by Pub. L. 93–64 effective July 1, 1973, see section 206 of Pub. L. 93–64, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 302f, 303a, 306 of this title.
 

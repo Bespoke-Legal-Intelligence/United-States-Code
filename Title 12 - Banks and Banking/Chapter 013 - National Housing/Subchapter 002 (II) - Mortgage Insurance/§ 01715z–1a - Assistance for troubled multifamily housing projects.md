@@ -58,11 +58,11 @@ Prior to making assistance available to a project, the Secretary shall consult w
 
 (1) The Secretary may, with respect to any year, provide assistance under this section, and make commitments to provide such assistance, with respect to any project (except a project assisted only for capital improvements) in any amount which the Secretary determines is consistent with the project's management-improvement-and-operating plan described in subsection (d)(6) of this section and which does not exceed the sum of—
 
-&emsp;(A) an amount determined by the Secretary to be necessary to correct deficiencies in the project which exist at the beginning of the first year with respect to which assistance is made available for the project under this section, which were caused by the deferral of regularly scheduled maintenance and repairs or the failure to make necessary and timely replacements of equipment and other components of the project, and for which payment has not previously been made;
+&emsp;(A) an amount determined by the Secretary to be necessary to correct deficiencies in theproject which exist at the beginning of the first year with respect to which assistance is made available for the project under this section, which were caused by the deferral of regularly scheduled maintenance and repairs or the failure to make necessary and timely replacements of equipment and other components of the project, and for which payment has not previously been made;
 
 &emsp;(B) an amount determined by the Secretary to be necessary to maintain the low- and moderate-income character of the project by reducing deficiencies, which exist at the beginning of the first year with respect to which assistance is made available for the project under this section and for which payment has not previously been made, in the reserve funds established by the project owner for the purpose of replacing capital items;
 
-&emsp;(C) an amount not greater than the amount by which the estimated operating expenses (asdescribed in paragraph (2) of this subsection) for the year with respect to which such assistance is made available exceeds the estimated revenues to be received (as described in paragraph (2) of this subsection) by the project during such year; and
+&emsp;(C) an amount not greater than the amount by which the estimated operating expenses (as described in paragraph (2) of this subsection) for the year with respect to which such assistance is made available exceeds the estimated revenues to be received (as described in paragraph (2) of this subsection) by the project during such year; and
 
 &emsp;(D) an amount determined by the Secretary to be necessary to carry out a plan to upgrade the project to meet cost-effective energy efficiency standards prescribed by the Secretary.
 
@@ -100,7 +100,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 #### (j) Flexible Subsidy Fund
 
-(1) For purposes of carrying out the provisions of this section, there is hereby established in the Treasury of the United States a revolving fund, to be known as the Flexible Subsidy Fund. The Fund shall, to the extent approved in appropriation Acts, be available to the Secretary to provide assistance under this section (including assistance for capital improvements) and shall not (except as provided in Public Law 100–4–4 <sup>1</sup> (102Stat. 1018), as in effect on October 1, 1988) be available for any other purpose.
+(1) For purposes of carrying out the provisions of this section, there is hereby established in the Treasury of the United States a revolving fund, to be known as the Flexible Subsidy Fund. The Fund shall, to the extent approved in appropriation Acts, be available to the Secretary to provide assistance under this section (including assistance for capital improvements) and shall not (except as provided in Public Law 100–4–4 <sup>1</sup> (102 Stat. 1018), as in effect on October 1, 1988) be available for any other purpose.
 
 (2) The Fund shall consist of (A) any amount appropriated to carry out the purposes of this section; (B) any amount repaid on any assistance provided under this section; (C) any amounts credited to the reserve fund described in section 236(g) of the National Housing Act \[12 U.S.C. 1715z–1(g)\]; (D) any other amount received by the Secretary under this section (including any amount realized under paragraph (3)),<sup>2</sup> and (E) any amount received by the Secretary pursuant to section 537 of the National Housing Act \[12 U.S.C. 1735f–15\] and section 202a of the Housing Act of 1959 \[12 U.S.C. 1701q–1\].
 
@@ -138,7 +138,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 (C) Each loan for capital improvements provided under this section shall be considered to be a liability of the project involved, and shall not be dischargeable in any bankruptcy proceeding under section 727, 1141, or 1328(b) of title 11.
 
-(D) The Secretary may establish such additional conditions on loans provided under this section as the Secretary determines to be appropriate. The Secretary may require owners receiving assistance for capital improvements under this section to retain the housing as housing affordable for very low-income families or persons, low-income families or persons and moderate-income families or persons for the remaining useful life of the housing. For purposes of this section, the term “remaining useful life” means, with respect to housing assisted underthis section, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.
+(D) The Secretary may establish such additional conditions on loans provided under this section as the Secretary determines to be appropriate. The Secretary may require owners receiving assistance for capital improvements under this section to retain the housing as housing affordable for very low-income families or persons, low-income families or persons and moderate-income families or persons for the remaining useful life of the housing. For purposes of this section, the term “remaining useful life” means, with respect to housing assisted under this section, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.
 
 (E) The Secretary may provide more than one loan or assistance in any other form to any project under this section, if each loan or other assistance complies with the provisions of this section.
 
@@ -336,7 +336,7 @@ Subsec. (f)(4). Pub. L. 100–242, §185(d)(2), substituted “payments for any 
 
 Subsec. (g). Pub. L. 100–242, §185(e), inserted “, to the extent applicable” after “provided”.
 
-Subsec. (j). Pub. L. 100–242, §185(f), in amending subsec. (j) generally, substituted provisions relating to theestablishment, contents, and use of a revolving fund to be known as the Flexible Subsidy Fund, for provisions authorizing appropriations under this section for fiscal years 1979 through 1982.
+Subsec. (j). Pub. L. 100–242, §185(f), in amending subsec. (j) generally, substituted provisions relating to the establishment, contents, and use of a revolving fund to be known as the Flexible Subsidy Fund, for provisions authorizing appropriations under this section for fiscal years 1979 through 1982.
 
 Subsec. (j)(4). Pub. L. 100–628 substituted “shall, to the extent of approvable applications and subject to paragraph (1), use not less than $30,000,000 or 40 percent (whichever is less) of the amounts available” for “may use not more than $50,000,000”; and inserted at end “Any amount reserved under this paragraph for assistance for capital improvements that is not used before the last 60 days of a fiscal year shall become available for other assistance under this section.”
 
@@ -440,7 +440,7 @@ Covered multifamily housing property.—The term ‘covered multifamily housing 
 
 &emsp;&emsp;&emsp;“(ii) assisted under the provisions of section 202 of the Housing Act of 1959 (as such section existed before the effectiveness of the amendment made by section 801(a) of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625\]);
 
-&emsp;&emsp;&emsp;“(iii) financed by a loan or mortgage insured, assisted, or held by the Secretary or a State orState agency under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\]; or
+&emsp;&emsp;&emsp;“(iii) financed by a loan or mortgage insured, assisted, or held by the Secretary or a State or State agency under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\]; or
 
 &emsp;&emsp;&emsp;“(iv) financed by a loan or mortgage insured or held by the Secretary pursuant to section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(3)\]; and
 
@@ -587,10 +587,6 @@ Title V of Pub. L. 101–235, as amended by Pub. L. 102–550, title I, §127(a)
 #### Multifamily Housing Capital Improvements Assistance; Regulations for Implementation of Program
 
 Section 1011(b) of Pub. L. 100–628 provided that: “To implement the amendments made by section 185 of the Housing and Community Development Act of 1987 \[Pub. L. 100–242, amending this section\], the Secretary of Housing and Urban Development shall issue regulations that become effective not later than February 5, 1989.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1701q–1, 1715<i>l</i>, 1715z–1, 1715z–1b, 1735f–15, 4109 of this title; title 42 sections 1437f, 3535.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -50,7 +50,3 @@ Another prior section 294e, act July 1, 1944, ch. 373, title VII, §732, as adde
 
 Another prior section 294e, act July 1, 1944, ch. 373, title VII, §744, formerly §745, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 173; amended Nov. 18, 1971, Pub. L. 92–157, title I, §105(f)(2), 85 Stat. 451; renumbered §744, Oct. 12, 1976, Pub. L. 94–484, title IV, §406(a)(2), 90 Stat. 2268, which related to administrative provisions, was transferred to section 294q of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 294f, 294g of this title.
-

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Inspect and Investigate.—Subject to section 32707 of this title, the Secretary of Transportation may conduct an inspection or investigation necessary to carry out this chapter or a regulation prescribed or order issued under this chapter. The Secretary shallcooperate with State and local officials to the greatest extent possible in conducting an inspection or investigation. The Secretary may give the Attorney General information about a violation of this chapter or a regulation prescribed or order issued under this chapter.
+Authority To Inspect and Investigate.—Subject to section 32707 of this title, the Secretary of Transportation may conduct an inspection or investigation necessary to carry out this chapter or a regulation prescribed or order issued under this chapter. The Secretary shall cooperate with State and local officials to the greatest extent possible in conducting an inspection or investigation. The Secretary may give the Attorney General information about a violation of this chapter or a regulation prescribed or order issued under this chapter.
 
 (b)
 
@@ -133,8 +133,4 @@ This amends 49:32706(c) to correct a cross-reference necessary because of the re
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 32707 of this title.
 

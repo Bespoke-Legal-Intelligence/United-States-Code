@@ -54,7 +54,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1998—Subsec. (d). Pub. L. 105–277 added subsec. (d).
 
-1992—Subsec. (d). Pub. L. 102–378 struck out subsec. (d) which made revolving fund referred to in section 1304(e)(1) of this title available for costs of education and related travel of participants in such program, for printing, and for entertainment expenses, and which required crediting of participation fees to revolving fund.
+1992—Subsec. (d). Pub. L. 102–378 struck out subsec. (d) which made revolving fund referred to in section 1304(e)(1) of this title available for costs of education and related travel of participants in such program, forprinting, and for entertainment expenses, and which required crediting of participation fees to revolving fund.
 
 1984—Subsec. (c). Pub. L. 98–525 inserted “and the Secretary of Defense may pay an individual training to be an air traffic controller of the Department of Defense,”.
 
@@ -95,8 +95,4 @@ Exception from introductory provisions of subsec. (a) of this section of those e
 #### Central Intelligence Agency
 
 Exception of Central Intelligence Agency from certain introductory provisions of subsec. (a) of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4118, 5946 of this title.
 

@@ -1,9 +1,5 @@
 Part C—Credit Advertising
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1610 of this title.
-
 
 ---
 

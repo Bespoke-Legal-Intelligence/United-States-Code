@@ -1,5 +1,5 @@
 
-9 U.S.C.<br>United States Code, 2003 Edition<br>Title 9 - ARBITRATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+9 U.S.C.<br>United States Code, 2004 Edition<br>Title 9 - ARBITRATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 9—ARBITRATION
 
@@ -50,10 +50,6 @@ This title has been made positive law by section 1 of act July 30, 1947, ch. 392
 #### Repeals
 
 Section 2 of act July 30, 1947, ch. 392, 61 Stat. 674, provided that the sections or parts thereof of the Statutes at Large covering provisions codified in this Act, insofar as such provisions appeared in former title 9 were repealed and provided that any rights or liabilities now existing under such repealed sections or parts thereof shall not be affected by such repeal.
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 17 section 1321; title 22 sections 290k–11, 1650a; title 25 sections 415, 416a; title 28 section 651; title 29 section 1401; title 35 sections 135, 294.
 
 
 ---

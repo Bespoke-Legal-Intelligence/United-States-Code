@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(1) The term “approved conservation plan” means the conservation plan of a State approved by the Secretary pursuant to section 2904(a) of this title.
 
-&emsp;(2) The term “conservation plan” means a plan developed by a State for the conservationof fish and wildlife which meets the requirements set forth in section 2903 of this title.
+&emsp;(2) The term “conservation plan” means a plan developed by a State for the conservation of fish and wildlife which meets the requirements set forth in section 2903 of this title.
 
 &emsp;(3) The terms “conserve”, “conserving”, and “conservation” mean to use, and the use of, such methods and procedures which are necessary to ensure, to the maximum extent practicable, the well being and enhancement of fish and wildlife and their habitats for the ecological, educational, esthetic, cultural, recreational, and scientific enrichment of the public. Such methods and procedures may include, but are not limited to, any activity associated with scientific resources management, such as research, census, law enforcement, habitat acquisition, maintenance, development, information education, population manipulation, propagation, technical assistance to private landowners, live trapping, and transplantation.
 

@@ -36,7 +36,3 @@
 
 (Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 231.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6103 of this title.
-

@@ -18,7 +18,3 @@ The Secretary, in making any determination of the energy requirements of any Pac
 
 (Pub. L. 88–552, §3, Aug. 31, 1964, 78 Stat. 756.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 832m, 837c, 837d, 839f of this title.
-

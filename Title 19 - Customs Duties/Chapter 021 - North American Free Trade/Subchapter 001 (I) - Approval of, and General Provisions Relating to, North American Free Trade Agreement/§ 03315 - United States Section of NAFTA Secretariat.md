@@ -12,7 +12,7 @@ There are authorized to be appropriated for each fiscal year after fiscal year 1
 
 &emsp;(2) $2,000,000;
 
-> for the establishment and operations of the United States Section and for the payment of the United States share of the expenses of binational panels and extraordinary challenge committees convened under chapter 19, and of the expenses incurred in dispute settlement proceedings under chapter 20, of the Agreement.
+> for the establishment and operations of the United States Section and for the payment ofthe United States share of the expenses of binational panels and extraordinary challenge committees convened under chapter 19, and of the expenses incurred in dispute settlement proceedings under chapter 20, of the Agreement.
 
 #### (c) Reimbursement of certain expenses
 
@@ -27,8 +27,4 @@ Section to cease to have effect with respect to any country during any period in
 #### Establishment of United States Section of NAFTA Secretariat
 
 For establishment of United States Section of NAFTA Secretariat within Department of Commerce, see section 1 of Ex. Ord. No. 12889, Dec. 27, 1993, 58 F.R. 69681, set out as a note under section 3311 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3432 of this title.
 

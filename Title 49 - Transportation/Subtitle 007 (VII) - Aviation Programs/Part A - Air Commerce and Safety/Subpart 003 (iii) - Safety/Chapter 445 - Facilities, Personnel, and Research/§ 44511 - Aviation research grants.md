@@ -34,7 +34,7 @@ Airport Cooperative Research Program.—
 
 Establishment.—The Secretary of Transportation shall establish a 4-year pilot airport cooperative research program to—
 
-&emsp;&emsp;(A) identify problems that are shared by airport operating agencies and can be solved through applied research but that are notbeing adequately addressed by existing Federal research programs; and
+&emsp;&emsp;(A) identify problems that are shared by airport operating agencies and can be solved through applied research but that are not being adequately addressed by existing Federal research programs; and
 
 &emsp;&emsp;(B) fund research to address those problems.
 
@@ -76,7 +76,7 @@ In subsection (d), the words “money provided under the grant” are substitute
 
 #### References in Text
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(2), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(2), is section 14 of Pub. L.92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -87,8 +87,4 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(2),
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44501, 44508, 48102, 50103 of this title.
 

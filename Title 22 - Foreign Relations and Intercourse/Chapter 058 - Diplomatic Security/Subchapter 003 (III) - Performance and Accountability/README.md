@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—PERFORMANCE AND ACCOUNTABILITY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 4802 of this title.
-
 
 ---
 

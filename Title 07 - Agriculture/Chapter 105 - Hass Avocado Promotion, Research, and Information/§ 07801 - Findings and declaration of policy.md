@@ -34,7 +34,3 @@ Nothing in this chapter may be construed to provide for the control of productio
 
 Pub. L. 106–387, §1(a) \[title XII, §1201\], Oct. 28, 2000, 114 Stat. 1549, 1549A–79, provided that: “This title \[enacting this chapter\] may be cited as the ‘Hass Avocado Promotion, Research, and Information Act of 2000’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7803, 7810 of this title.
-

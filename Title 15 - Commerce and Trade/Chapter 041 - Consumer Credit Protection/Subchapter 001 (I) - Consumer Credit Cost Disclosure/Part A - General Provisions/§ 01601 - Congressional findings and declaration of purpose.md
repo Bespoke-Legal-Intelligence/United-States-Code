@@ -30,7 +30,7 @@ Section 504(a) of Pub. L. 90–321 provided that this part is effective May 29, 
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–159, §1(a), Dec. 4, 2003, 117 Stat. 1952, provided that: “This Act \[enacting sections 1681c–1, 1681c–2, 1681s–3, 1681w, and 1681x of this title and sections 9701 to 9708 of Title 20, Education, amending sections 1681a, 1681b, 1681c, 1681g, 1681i, 1681j, 1681m, 1681<i>o</i>,1681p, 1681s, 1681s–2, 1681t, 1681u, and 1681v of this title and section 5318 of Title 31, Money and Finance, enacting provisions set out as notes under this section, sections 1681, 1681a, 1681b, 1681c, 1681c–1, 1681i, 1681j, 1681m, 1681n, 1681s–2, 1681s–3 of this title, and section 9701 of Title 20, and amending provisions set out as a note under this section\] may be cited as the ‘Fair and Accurate Credit Transactions Act of 2003’.”
+Pub. L. 108–159, §1(a), Dec. 4, 2003, 117 Stat. 1952, provided that: “This Act \[enacting sections 1681c–1,1681c–2, 1681s–3, 1681w, and 1681x of this title and sections 9701 to 9708 of Title 20, Education, amending sections 1681a, 1681b, 1681c, 1681g, 1681i, 1681j, 1681m, 1681<i>o</i>, 1681p, 1681s, 1681s–2, 1681t, 1681u, and 1681v of this title and section 5318 of Title 31, Money and Finance, enacting provisions set out as notes under this section, sections 1681, 1681a, 1681b, 1681c, 1681c–1, 1681i, 1681j, 1681m, 1681n, 1681s–2, 1681s–3 of this title, and section 9701 of Title 20, and amending provisions set out as a note under this section\] may be cited as the ‘Fair and Accurate Credit Transactions Act of 2003’.”
 
 #### Short Title of 1999 Amendment
 
@@ -94,7 +94,7 @@ Section 401 of title IV of Pub. L. 90–321, as added by Pub. L. 104–208, div.
 
 Section 601 of title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128, as amended by Pub. L. 108–159, title VIII, §811(a), Dec. 4, 2003, 117 Stat. 2011, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Fair Credit Reporting Act’.”
 
-Section 709 of title VII of Pub. L. 90–321, as added by section 1(b) of Pub. L. 94–239, Mar. 23, 1976, 90 Stat. 251, provided that: “This title \[enacting subchapter IV of this chapter and notes set out under section 1691 of this title\] may be cited as the ‘Equal Credit Opportunity Act’.”
+Section 709 of title VII of Pub. L. 90–321, as added by section 1(b) of Pub. L. 94–239, Mar. 23, 1976, 90 Stat. 251, provided that: “This title \[enacting subchapter IV ofthis chapter and notes set out under section 1691 of this title\] may be cited as the ‘Equal Credit Opportunity Act’.”
 
 Section 801 of title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, provided that: “This title \[enacting subchapter V of this chapter\] may be cited as the ‘Fair Debt Collection Practices Act’.”
 

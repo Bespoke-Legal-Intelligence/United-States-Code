@@ -13,7 +13,7 @@ Pub. L. 104–52, title IV, Nov. 19, 1995, 109 Stat. 480, provided: “For neces
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00591 - Purpose](%C2%A7%2000591%20-%20Purpose.md)
+- [&sect; 00591 - Purposes](%C2%A7%2000591%20-%20Purposes.md)
 - [&sect; 00592 - Definitions](%C2%A7%2000592%20-%20Definitions.md)
 - [&sect; 00593 - Administrative Conference of the United States](%C2%A7%2000593%20-%20Administrative%20Conference%20of%20the%20United%20States.md)
 - [&sect; 00594 - Powers and duties of the Conference](%C2%A7%2000594%20-%20Powers%20and%20duties%20of%20the%20Conference.md)

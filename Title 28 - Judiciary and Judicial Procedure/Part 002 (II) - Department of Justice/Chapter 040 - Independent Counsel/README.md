@@ -22,10 +22,6 @@
 
 1983—Pub. L. 97–409, §2(a)(1)(A), Jan. 3, 1983, 96 Stat. 2039, substituted “independent counsel” for “special prosecutor” in chapter heading and in items 592, 594, and 596.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 49, 530B of this title; title 18 section 202.
-
 
 ---
 

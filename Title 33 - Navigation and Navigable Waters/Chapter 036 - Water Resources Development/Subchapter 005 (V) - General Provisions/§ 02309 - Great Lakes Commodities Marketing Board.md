@@ -30,7 +30,7 @@ To ensure the coordinated economic revitalization and environmental enhancement 
 
 &emsp;(iv) an analysis of the constraints on the flexibility of farmers in the Great Lakes region to market grains and other agricultural commodities, including harvest dates for such commodities and the availability of transport and storage facilities for such commodities; and
 
-&emsp;(v) an analysis of the amount of grain and other agricultural commodities produced inthe United States which are being diverted to Canada by rail but which could be shipped on the Great Lakes if vessels were available for shipping such products during the navigation season.
+&emsp;(v) an analysis of the amount of grain and other agricultural commodities produced in the United States which are being diverted to Canada by rail but which could be shipped on the Great Lakes if vessels were available for shipping such products during the navigation season.
 
 (D) In developing the strategy, the Board shall consider weather problems and related costs and marketing problems resulting from the late harvest of agricultural commodities (including wheat and sunflower seeds) in the Great Lakes region.
 

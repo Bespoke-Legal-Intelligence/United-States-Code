@@ -8,7 +8,7 @@
 
 (3) In regulations under this subsection, the Commission may prohibit consideration or payment by it of claims presented by or on behalf of an insurer or subrogee of a claimant in a case for which the Commission has required insurance under this subsection.
 
-(Pub. L. 96–70, title I, §1419, as added Pub. L. 99–209, §6(a), Dec. 23, 1985, 99 Stat. 1717; amended Pub. L. 100–203, title V, §5414, Dec. 22, 1987, 101 Stat. 1330–270; Pub. L. 105–261, div. C, title XXXV, §3509(b), Oct. 17, 1998, 112 Stat. 2270.)
+(Pub. L. 96–70, title I, §1419, as added Pub. L. 99–209, §6(a), Dec. 23, 1985, 99 Stat. 1717; amended Pub. L. 100–203, title V, §5414, Dec. 22, 1987, 101Stat. 1330–270; Pub. L. 105–261, div. C, title XXXV, §3509(b), Oct. 17, 1998, 112 Stat. 2270.)
 
 #### Amendments
 
@@ -18,9 +18,5 @@
 
 #### Effective Date
 
-Section applicable to any claim arising on or after Dec. 23, 1985, see section 7(b)(1) of Pub. L. 99–209, set outas an Effective Date of 1985 Amendment note under section 3771 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3771, 3772, 3776 of this title.
+Section applicable to any claim arising on or after Dec. 23, 1985, see section 7(b)(1) of Pub. L. 99–209, set out as an Effective Date of 1985 Amendment note under section 3771 of this title.
 

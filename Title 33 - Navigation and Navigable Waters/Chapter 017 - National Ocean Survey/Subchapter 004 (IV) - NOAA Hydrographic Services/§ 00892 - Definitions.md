@@ -46,7 +46,3 @@ Par. (4). Pub. L. 107–372, §102(2), inserted “geospatial, geomagnetic,” a
 
 For short title of this subchapter as the “Hydrographic Services Improvement Act of 1998”, see section 301 of Pub. L. 105–384, set out as a Short Title of 1998 Amendment note under section 851 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 892a of this title.
-

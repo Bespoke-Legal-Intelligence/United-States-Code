@@ -74,7 +74,3 @@ In subsection (e)(1), the word “Secretary” is substituted for “Treasurer o
 
 In subsection (e)(2), the words “under applicable law” and “bequest” are omitted as surplus. The words “and shall deposit the balance in the Treasury as miscellaneous receipts or as otherwise authorized by law” are omitted as surplus because of section 3302(a) of the revised title. The text of 31:757e(last sentence) is omitted because of the restatement.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 2055.
-

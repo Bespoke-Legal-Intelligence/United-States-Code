@@ -14,7 +14,7 @@ In undertaking the consideration and making the determination under section 2621
 
 #### (b) Time-of-day rates
 
-In undertaking the consideration and making the determination required under section 2621 ofthis title with respect to the standard for time-of-day rates established by section 2621(d)(3) of this title, a time-of-day rate charged by an electric utility for providing electric service to each class of electric consumers shall be determined to be cost-effective with respect to each such class if the long-run benefits of such rate to the electric utility and its electric consumers in the class concerned are likely to exceed the metering costs and other costs associated with the use of such rates.
+In undertaking the consideration and making the determination required under section 2621 of this title with respect to the standard for time-of-day rates established by section 2621(d)(3) of this title, a time-of-day rate charged by an electric utility for providing electric service to each class of electric consumers shall be determined to be cost-effective with respect to each such class if the long-run benefits of such rate to the electric utility and its electric consumers in the class concerned are likely to exceed the metering costs and other costs associated with the use of such rates.
 
 #### (c) Load management techniques
 
@@ -66,7 +66,7 @@ Separate metering shall be determined appropriate for any new building for purpo
 
 #### (g) Procedures for termination of electric service
 
-The procedures for termination of service referred to in section 2623(b)(4) of this title are procedures prescribed by the State regulatoryauthority (with respect to electric utilities for which it has ratemaking authority) or by the nonregulated electric utility which provide that—
+The procedures for termination of service referred to in section 2623(b)(4) of this title are procedures prescribed by the State regulatory authority (with respect to electric utilities for which it has ratemaking authority) or by the nonregulated electric utility which provide that—
 
 &emsp;(1) no electric service to an electric consumer may be terminated unless reasonable prior notice (including notice of rights and remedies) is given to such consumer and such consumer has a reasonable opportunity to dispute the reasons for such termination, and
 
@@ -84,7 +84,7 @@ The procedures for termination of service referred to in section 2623(b)(4) of t
 
 (1) For purposes of this section and section 2623(b)(5) of this title—
 
-&emsp;(A) The term “advertising” means the commercial use, by an electric utility, of any media, including newspaper, printed matter, radio, and television, in order to transmit a message to a substantial number of members of the public or to such utility's electric consumers.
+&emsp;(A) The term “advertising” means the commercial use, by an electric utility, of anymedia, including newspaper, printed matter, radio, and television, in order to transmit a message to a substantial number of members of the public or to such utility's electric consumers.
 
 &emsp;(B) The term “political advertising” means any advertising for the purpose of influencing public opinion with respect to legislative, administrative, or electoral matters, or with respect to any controversial issue of public importance.
 
@@ -109,8 +109,4 @@ The procedures for termination of service referred to in section 2623(b)(4) of t
 #### References in Text
 
 The National Energy Conservation Policy Act, referred to in subsec. (h)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2621, 2623 of this title.
 

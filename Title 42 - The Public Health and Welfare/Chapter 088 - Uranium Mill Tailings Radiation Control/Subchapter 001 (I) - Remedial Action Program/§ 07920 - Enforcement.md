@@ -10,7 +10,7 @@
 
 (4) No civil penalty may be assessed against the United States or any State or political subdivision of a State or any official or employee of the foregoing.
 
-(5) Nothing in this section shall prevent the Secretary from enforcing any provision of thissubchapter or any cooperative agreement or any such rule by injunction or other equitable remedy.
+(5) Nothing in this section shall prevent the Secretary from enforcing any provision of this subchapter or any cooperative agreement or any such rule by injunction or other equitable remedy.
 
 #### (b) Atomic energy licensing requirements
 

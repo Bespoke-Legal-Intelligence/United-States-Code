@@ -34,7 +34,7 @@ Pub. L. 95–599, title I, §104(a)(12), Nov. 6, 1978, 92 Stat. 2691, provided t
 
 &emsp;“(A) for the Virgin Islands, not to exceed $5,000,000 per fiscal year for each of the fiscal years ending September 30, 1979, September 30, 1980, September 30, 1981, and September 30, 1982.
 
-&emsp;“(B) for Guam, not to exceed $5,000,000 per fiscal year for each of the fiscal years ending September 30, 1979, September 30, 1980, September 30, 1981, and September 30, 1982.
+&emsp;“(B) for Guam, not to exceed $5,000,000 per fiscal year for each of the fiscal years ending September 30,1979, September 30, 1980, September 30, 1981, and September 30, 1982.
 
 &emsp;“(C) for American Samoa, not to exceed $1,000,000 per fiscal year for each of the fiscal years ending September 30, 1979, September 30, 1980, September 30, 1981, and September 30, 1982.
 

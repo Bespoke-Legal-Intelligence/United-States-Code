@@ -2,7 +2,7 @@
 
 (a) The Office of Personnel Management shall prescribe regulations to carry out the purpose of this subchapter.
 
-(b) Under such regulations, the Office may provide for the application of all or portions of the provisions of this subchapter—
+(b) Under such regulations, the Office may provide for the application of all or portions of the provisions of this subchapter (subject to any conditions or limitations the Office may establish)—
 
 &emsp;(1) to any individual reduced to a grade of a covered pay schedule from a position not subject to this subchapter;
 
@@ -10,9 +10,9 @@
 
 &emsp;(3) to situations the application to which is justified for purposes of carrying out the mission of the agency or agencies involved.
 
-> Individuals with respect to whom authority under paragraph (2) may be exercised include individuals who are moved without a break in service of more than 3 days from employment innonappropriated fund instrumentalities of the Department of Defense or the Coast Guard described in section 2105(c) to employment in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
+> Individuals with respect to whom authority under paragraph (2) may be exercised include individuals who are moved without a break in service of more than 3 days from employment in nonappropriated fund instrumentalities of the Department of Defense or the Coast Guard described in section 2105(c) to employment in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
 
-(Added Pub. L. 95–454, title VIII, §801(a)(1), Oct. 13, 1978, 92 Stat. 1220; amended Pub. L. 101–508, title VII, §7202(f), Nov. 5, 1990, 104 Stat. 1388–336.)
+(Added Pub. L. 95–454, title VIII, §801(a)(1), Oct. 13, 1978, 92 Stat. 1220; amended Pub. L. 101–508, title VII, §7202(f), Nov. 5, 1990, 104 Stat. 1388–336; Pub. L. 108–411, title III, §301(a)(6), Oct. 30, 2004, 118 Stat. 2317.)
 
 #### Prior Provisions
 
@@ -20,7 +20,13 @@ A prior section 5365, added Pub. L. 91–34, §1(a), June 30, 1969, 83 Stat. 41;
 
 #### Amendments
 
+2004—Subsec. (b). Pub. L. 108–411 inserted “(subject to any conditions or limitations the Office may establish)” after “provisions of this subchapter” in introductory provisions.
+
 1990—Subsec. (b). Pub. L. 101–508 inserted at end “Individuals with respect to whom authority under paragraph (2) may be exercised include individuals who are moved without a break in service of more than 3 days from employment in nonappropriated fund instrumentalities of the Department of Defense or the Coast Guard described in section 2105(c) to employment in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).”
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–411 effective on the first day of the first applicable pay period beginning on or after the 180th day after Oct. 30, 2004, with provisions relating to conversion rules, see section 301(d) of Pub. L. 108–411, set out as a note under section 5363 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -29,8 +35,4 @@ Amendment by Pub. L. 101–508 applicable with respect to any individual who, on
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5334 of this title.
 

@@ -1,9 +1,5 @@
 subpart 14—national institute on alcohol abuse and alcoholism
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 289c–1 of this title.
-
 
 ---
 

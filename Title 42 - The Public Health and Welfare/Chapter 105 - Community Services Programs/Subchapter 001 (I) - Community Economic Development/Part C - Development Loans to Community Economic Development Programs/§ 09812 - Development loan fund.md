@@ -40,9 +40,5 @@ The Economic Opportunity Act of 1964, referred to in subsec. (c)(2), is Pub. L. 
 
 Functions relating to administration of Community Development Credit Union Revolving Loan Fund transferred from Secretary of Health and Human Services to National Credit Union Administration Board by Pub. L. 99–609, set out as a note under section 9822 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9812a, 9822 of this title.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -1,6 +1,6 @@
 ### §289. Additional remedy for infringement of design patent
 
-Whoever during the term of a patent for a design, without license of the owner, (1) applies the patented design, or any colorable imitation thereof, to any article of manufacture for the purpose of sale, or (2) sells or exposes for sale any article of manufacture to which such design or colorable imitation has been applied shall be liable to the owner to the extent of his total profit, but not less than $250, recoverable in any United States district court having jurisdiction of the parties.
+Whoever during the term of a patent for a design, without license of the owner, (1) applies the patented design, or any colorable imitation thereof, to any article of manufacture for thepurpose of sale, or (2) sells or exposes for sale any article of manufacture to which such design or colorable imitation has been applied shall be liable to the owner to the extent of his total profit, but not less than $250, recoverable in any United States district court having jurisdiction of the parties.
 
 Nothing in this section shall prevent, lessen, or impeach any other remedy which an owner of an infringed patent has under the provisions of this title, but he shall not twice recover the profit made from the infringement.
 
@@ -11,8 +11,4 @@ Nothing in this section shall prevent, lessen, or impeach any other remedy which
 Based on Title 35, U.S.C., 1946 ed., §§74, 75 (Feb. 4, 1887, ch. 105, §§1, 2, 24 Stat. 387, 388).
 
 Language is changed.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 157, 296 of this title.
 

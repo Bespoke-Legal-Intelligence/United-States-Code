@@ -92,9 +92,19 @@
 
 &emsp;(P) Bronchiolo-alveolar carcinoma.
 
+&emsp;(Q) Cancer of the bone.
+
+&emsp;(R) Cancer of the brain.
+
+&emsp;(S) Cancer of the colon.
+
+&emsp;(T) Cancer of the lung.
+
+&emsp;(U) Cancer of the ovary.
+
 (3) For the purposes of this subsection:
 
-&emsp;(A) The term “radiation-exposed veteran” means (i) a veteran who, while serving on active duty, participated in a radiation-risk activity, or (ii) an individual who, while a member of a reserve component of the ArmedForces, participated in a radiation-risk activity during a period of active duty for training or inactive duty training.
+&emsp;(A) The term “radiation-exposed veteran” means (i) a veteran who, while serving on active duty, participated in a radiation-risk activity, or (ii) an individual who, while a member of a reserve component of the Armed Forces, participated in a radiation-risk activity during a period of active duty for training or inactive duty training.
 
 &emsp;(B) The term “radiation-risk activity” means any of the following:
 
@@ -104,9 +114,23 @@
 
 &emsp;&emsp;(iii) Internment as prisoner of war in Japan (or service on active duty in Japan immediately following such internment) during World War II which (as determined by the Secretary) resulted in an opportunity for exposure to ionizing radiation comparable to that of veterans described in clause (ii) of this subparagraph.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §312; Pub. L. 86–187, Aug. 25, 1959, 73 Stat. 418; Pub. L. 86–188, Aug. 25, 1959, 73 Stat. 418; Pub. L. 87–645, §3, Sept. 7, 1962, 76 Stat. 442; Pub. L. 91–376, §3(a), (b), Aug. 12, 1970, 84 Stat. 788, 789; Pub. L. 97–37, §4(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 98–223, title I, §§101(c), 111, Mar. 2, 1984, 98 Stat. 38, 40; Pub. L. 99–576, title I, §108(a), Oct. 28, 1986, 100 Stat. 3252; Pub. L. 100–321, §2(a), May 20, 1988, 102 Stat. 485; Pub. L. 100–322, title III, §312, May 20, 1988, 102 Stat. 534; renumbered §1112 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §§104(a), 105, Aug. 14, 1991, 105 Stat. 415; Pub. L. 102–578, §2(a), Oct. 30, 1992, 106 Stat. 4774; Pub. L. 103–446, title V, §501(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title V, §503, Nov. 30, 1999, 113 Stat. 1575; Pub. L. 108–183, title II, §201, Dec. 16, 2003, 117 Stat. 2656.)
+&emsp;&emsp;(iv) Service in a capacity which, if performed as an employee of the Department of Energy, would qualify the individual for inclusion as a member of the Special Exposure Cohort under section 3621(14) of the Energy Employees Occupational Illness Compensation Program Act of 2000 (42 U.S.C. 7384<i>l</i>(14)).
+
+(4) A radiation-exposed veteran who receives a payment under the provisions of the Radiation Exposure Compensation Act of 1990 (42 U.S.C. 2210 note) shall not be deprived, by reason of the receipt of that payment, of receipt of compensation to which that veteran is entitled by reason of paragraph (1), but there shall be deducted from payment of such compensation the amount of the payment under that Act.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §312; Pub. L. 86–187, Aug. 25, 1959, 73 Stat. 418; Pub. L. 86–188, Aug. 25, 1959, 73 Stat. 418; Pub. L. 87–645, §3, Sept. 7, 1962, 76 Stat. 442; Pub. L. 91–376, §3(a), (b), Aug. 12, 1970, 84 Stat. 788, 789; Pub. L. 97–37, §4(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 98–223, title I, §§101(c), 111, Mar. 2, 1984, 98 Stat. 38, 40; Pub. L. 99–576, title I, §108(a), Oct. 28, 1986, 100 Stat. 3252; Pub. L. 100–321, §2(a), May 20, 1988, 102 Stat. 485; Pub. L. 100–322, title III, §312, May 20, 1988, 102 Stat. 534; renumbered §1112 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §§104(a), 105, Aug. 14, 1991, 105 Stat. 415; Pub. L. 102–578, §2(a), Oct. 30, 1992, 106 Stat. 4774; Pub. L. 103–446, title V, §501(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title V, §503, Nov. 30, 1999, 113 Stat. 1575; Pub. L. 108–183, title II, §201, Dec. 16, 2003, 117 Stat. 2656; Pub. L. 108–454, title III,§§302(a), 306(a), (b), Dec. 10, 2004, 118 Stat. 3610, 3612.)
+
+#### References in Text
+
+The Radiation Exposure Compensation Act, referred to in subsec. (c)(4), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under section 2210 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2004—Subsec. (c)(2)(Q) to (U). Pub. L. 108–454, §306(a), added subpars. (Q) to (U).
+
+Subsec. (c)(3)(B)(iv). Pub. L. 108–454, §306(b), added cl. (iv).
+
+Subsec. (c)(4). Pub. L. 108–454, §302(a), added par. (4).
 
 2003—Subsec. (b). Pub. L. 108–183 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of section 1110 of this title and subject to the provisions of section 1113 of this title, in the case of a veteran who is a former prisoner of war and who was detained or interned for not less than thirty days, the disease of—
 
@@ -192,13 +216,19 @@ Pub. L. 98–223, §101(c), substituted “percent” for “per centum” in pr
 
 Pub. L. 86–187 substituted “three years” for “two years” in par. (4).
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–454, title III, §302(c), Dec. 10, 2004, 118 Stat. 3610, provided that: “Paragraph (4) of section 1112(c) of title 38, United States Code, as added by subsection (a), shall take effect with respect to compensation payments for months beginning after March 26, 2002. Subsection (c) of section 1310 of such title, as added by subsection (b), shall take effect with respect to dependency and indemnity compensation payments for months beginning after March 26, 2002.”
+
+Pub. L. 108–454, title III, §306(c), Dec. 10, 2004, 118 Stat. 3612, provided that: “The amendments made by this section \[amending this section\] shall take effect as of March 26, 2002.”
+
 #### Effective Date of 1992 Amendment
 
 Section 2(b) of Pub. L. 102–578 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1992.”
 
 #### Effective Date of 1991 Amendment
 
-Section 104(b) of Pub. L. 102–86 provided that: “No benefit may be paid by reason of the amendment madeby subsection (a) \[amending this section\] for any period before the date of the enactment of this Act \[Aug. 14, 1991\].”
+Section 104(b) of Pub. L. 102–86 provided that: “No benefit may be paid by reason of the amendment made by subsection (a) \[amending this section\] for any period before the date of the enactment of this Act \[Aug. 14, 1991\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -221,8 +251,4 @@ Section 4(b) of Pub. L. 97–37 provided that: “The amendments made by subsect
 #### Effective Date of 1962 Amendment
 
 Section 4 of Pub. L. 87–645 provided that: “This Act \[amending this section and sections 314 and 3203 \[now 1114 and 5503\] of this title and enacting provisions set out as a note under section 1114 of this title\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[Sept. 7, 1962\] but no payments shall be made by reason of this Act for any period before such effective date. The increased rate of compensation payable to any veteran entitled thereto on such first day shall be further increased, for such month only, in an amount equal to three times the monthly increase provided for such veteran by the amendments made by this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1103, 1113, 1137, 1710 of this title; title 42 section 7385j.
 

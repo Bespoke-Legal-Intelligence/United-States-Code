@@ -22,7 +22,3 @@ Joint Res. Apr. 12, 1937, ch. 73, 50 Stat. 61, provided as follows: “That not 
 
 Act Mar. 5, 1937, ch. 29, 50 Stat. 27, provided as follows: “That there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, the sum of $2,000,000 for the purpose of enabling the Federal Surplus Commodities Corporation to divert surplus fish (including shellfish) and the products thereof from the normal channels of trade and commerce by acquiring them and providing for their distribution through Federal, State, and private relief agencies. No commodities shall be acquired under this Act after ninety days after the date of its enactment: <i>Provided, however</i>, That distribution thereof may extend beyond said period. The provisions of law relating to the acquisition of materials or supplies for the United States shall not apply to the acquisition of commodities under this Act.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 713c–3 of this title.
-

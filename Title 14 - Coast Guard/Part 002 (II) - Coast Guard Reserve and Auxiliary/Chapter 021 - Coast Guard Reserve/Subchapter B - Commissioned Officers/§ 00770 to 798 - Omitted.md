@@ -58,7 +58,7 @@ Section 793, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1554, relat
 
 Section 794, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1554, authorized Secretary to promulgate regulations. See section 633 of this title.
 
-Section 795, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1555, related to effect of sections 770 to 798 of this title on retirements and retired pay. See section 723 of this title.
+Section 795, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1555, related to effect of sections 770 to 798 ofthis title on retirements and retired pay. See section 723 of this title.
 
 Section 796, added Pub. L. 91–402, §1(13), Sept. 18, 1970, 84 Stat. 842; amended Pub. L. 93–174, §2(8), Dec. 5, 1973, 87 Stat. 692, related to failure of selection for promotion. See section 739 of this title.
 

@@ -176,10 +176,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 198b, 6104 of this title; title 21 section 1033.
-
 
 ---
 

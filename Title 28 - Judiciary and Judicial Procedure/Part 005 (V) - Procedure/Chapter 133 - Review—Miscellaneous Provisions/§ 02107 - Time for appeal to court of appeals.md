@@ -50,7 +50,7 @@ By Senate amendment, all provisions relating to the Tax Court were eliminated. T
 
 #### 1949 Act
 
-This amendment to section 2107 of title 28, U.S.C., restores the former 15-day limitation of time withinwhich to appeal from an interlocutory order in admiralty.
+This amendment to section 2107 of title 28, U.S.C., restores the former 15-day limitation of time within which to appeal from an interlocutory order in admiralty.
 
 This amendment eliminates as surplusage the words “in any such action, suit or proceeding,” from the fourth paragraph of section 2107 of title 28, U.S.C., and corrects a typographical error in the same paragraph.
 
@@ -65,8 +65,4 @@ This amendment eliminates as surplusage the words “in any such action, suit or
 1978—Pub. L. 95–598 directed the amendment of section by inserting “or the bankruptcy court” after “district court” and by striking out the final paragraph, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 1949—Act May 24, 1949, restored, in third par., the 15-day limitation of time within which to appeal from an interlocutory order in admiralty, and in fourth par., substituted “The district court may” for “The district court, in any such action, suit, or proceeding, may” and corrected spelling of “excusable”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 29; title 21 section 848.
 

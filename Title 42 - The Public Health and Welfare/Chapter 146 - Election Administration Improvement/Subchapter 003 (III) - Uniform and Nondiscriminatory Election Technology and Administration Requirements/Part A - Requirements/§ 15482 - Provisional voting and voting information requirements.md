@@ -54,7 +54,3 @@ Each State and jurisdiction shall be required to comply with the requirements of
 
 (Pub. L. 107–252, title III, §302, Oct. 29, 2002, 116 Stat. 1706.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15483, 15501, 15511 of this title.
-

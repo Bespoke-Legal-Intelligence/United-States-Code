@@ -20,7 +20,7 @@ Section 197, acts Jan. 13, 1925, ch. 75, §8, 43 Stat. 743; July 1, 1943, ch. 18
 
 Section 198, acts Jan. 13, 1925, ch. 75, §9, 43 Stat. 743; Feb. 14, 1931, ch. 185, §5, 46 Stat. 1112; June 25, 1938, ch. 686, §4, 52 Stat. 1170; Oct. 10, 1940, ch. 54 Stat. 1103; July 1, 1943, ch. 183, 57 Stat. 306, empowered Secretary to promulgate regulations for taking of game, limiting the take, seasons, and for protection of Government property.
 
-Section 199, acts Jan. 13, 1925, ch. 75, §10, 43 Stat. 744; Feb. 14, 1931, ch. 185, §§6 to 11, 46 Stat. 1112 to 1114; June 25, 1938, ch. 686, §5, 52 Stat. 1172; July 1, 1943, ch. 183, 57 Stat. 306, prescribed types of hunting, trapping and fishing licenses, guide licenses, fees and issuance thereof.
+Section 199, acts Jan. 13, 1925, ch. 75, §10, 43 Stat. 744; Feb. 14, 1931, ch. 185, §§6 to 11, 46 Stat. 1112 to 1114; June25, 1938, ch. 686, §5, 52 Stat. 1172; July 1, 1943, ch. 183, 57 Stat. 306, prescribed types of hunting, trapping and fishing licenses, guide licenses, fees and issuance thereof.
 
 Section 200, acts Jan. 13, 1925, ch. 75, §11, 43 Stat. 746; July 1, 1943, ch. 183, 57 Stat. 310, prescribed duties of collectors of customs.
 

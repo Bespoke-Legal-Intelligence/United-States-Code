@@ -52,7 +52,3 @@ Section 305 of title III of Pub. L. 102–549 directed President, not later than
 
 Section 307 of Pub. L. 102–549 directed President, not later than May 1, 1993, to submit to Committee on Foreign Affairs and Committee on Appropriations of House of Representatives and Committee on Foreign Relations and Committee on Appropriations of Senate a report on feasibility of allowing AID to offer credit guarantees for financing of capital projects.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2421c, 2421e of this title.
-

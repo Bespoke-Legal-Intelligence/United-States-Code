@@ -24,7 +24,3 @@ The one year period is made inapplicable to applications which may be pending wh
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5 of this title.
-

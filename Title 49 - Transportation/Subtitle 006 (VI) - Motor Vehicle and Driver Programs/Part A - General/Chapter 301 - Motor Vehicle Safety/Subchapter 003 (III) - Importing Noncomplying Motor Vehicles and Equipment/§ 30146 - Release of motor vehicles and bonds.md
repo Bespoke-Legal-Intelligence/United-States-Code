@@ -18,7 +18,7 @@ Reliance on Manufacturer's Certification.—In making a certification under subs
 
 (c)
 
-Evidence of Compliance.—(1) The Secretary of Transportation may require that the certification under subsection (a)(1) of this section be accompanied by evidence of compliance the Secretary considers appropriate or may inspect the certified motor vehicle, or both. If theSecretary gives notice of an inspection, an importer may release the vehicle only after—
+Evidence of Compliance.—(1) The Secretary of Transportation may require that the certification under subsection (a)(1) of this section be accompanied by evidence of compliance the Secretary considers appropriate or may inspect the certified motor vehicle, or both. If the Secretary gives notice of an inspection, an importer may release the vehicle only after—
 
 &emsp;(A) an inspection showing the motor vehicle complies with applicable motor vehicle safety standards prescribed under this chapter for which the inspection was made; and
 
@@ -71,8 +71,4 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(c)(3)(E); added Oct. 31, 19
 In subsection (a)(1), the words “Except as provided in subsections (c) and (d) of this section” are added because of the restatement.
 
 In subsection (a)(2)(B), the words “showing compliance with the standards” are substituted for “showing no such failure to comply” for clarity.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30141, 30147, 30165, 30169 of this title.
 

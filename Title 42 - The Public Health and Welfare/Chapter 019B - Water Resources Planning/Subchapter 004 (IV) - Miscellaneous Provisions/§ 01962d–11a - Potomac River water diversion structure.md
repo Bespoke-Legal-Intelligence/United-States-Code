@@ -12,7 +12,7 @@ The Secretary of the Army, acting through the Chief of Engineers, is authorized 
 
 #### (c) Riparian rights or other authority of Maryland, Virginia, political subdivisions; authority of District of Columbia
 
-Except as may be provided in the agreement referred to in subsection (a)(2) of this section, nothing in this section shall alter any riparianrights or other authority of the State of Maryland, or any political subdivision thereof, the Commonwealth of Virginia, or any political subdivision thereof, or the District of Columbia, or authority of the Corps of Engineers existing on October 22, 1976, relative to the appropriation of water from, or the use of, the Potomac River.
+Except as may be provided in the agreement referred to in subsection (a)(2) of this section, nothing in this section shall alter any riparian rights or other authority of the State of Maryland, or any political subdivision thereof, the Commonwealth of Virginia, or any political subdivision thereof, or the District of Columbia, or authority of the Corps of Engineers existing on October 22, 1976, relative to the appropriation of water from, or the use of, the Potomac River.
 
 (Pub. L. 94–587, §181, Oct. 22, 1976, 90 Stat. 2939; Pub. L. 96–292, §2, June 28, 1980, 94 Stat. 609.)
 

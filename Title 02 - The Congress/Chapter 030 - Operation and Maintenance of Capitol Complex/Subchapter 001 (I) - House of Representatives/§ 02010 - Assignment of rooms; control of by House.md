@@ -12,7 +12,3 @@ Section was classified to section 183 of former Title 40, prior to the enactment
 
 Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under section 1801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2004, 2009 of this title.
-

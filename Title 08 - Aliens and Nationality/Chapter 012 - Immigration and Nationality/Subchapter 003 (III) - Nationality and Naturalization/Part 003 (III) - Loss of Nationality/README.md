@@ -1,9 +1,5 @@
 Part III—Loss of Nationality
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1101 of this title.
-
 
 ---
 

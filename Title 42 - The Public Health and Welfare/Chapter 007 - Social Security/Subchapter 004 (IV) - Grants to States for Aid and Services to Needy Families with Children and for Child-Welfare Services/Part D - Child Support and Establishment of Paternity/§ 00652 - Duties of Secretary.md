@@ -32,7 +32,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;(7) provide technical assistance to the States to help them establish effective systems for collecting child and spousal support and establishing paternity, and specify the minimum requirements of an affidavit to be used for the voluntary acknowledgment of paternity which shall include the social security number of each parent and, after consultation with the States, other common elements as determined by such designee;
 
-&emsp;(8) receive applications from States for permission to utilize the courts of the United States to enforce court orders for support against noncustodial parents and, upon a finding that (A) another State has not undertaken to enforce the court order of the originating State against the noncustodial parent within a reasonable time, and (B) that utilization of the Federal courts is the only reasonable method of enforcing such order, approve such applications;
+&emsp;(8) receive applications from States for permission to utilize the courts of the United States to enforce court orders for support against noncustodial parents and, upon a finding that (A) another State has not undertaken to enforce the court order of the originating State against the noncustodial parent within areasonable time, and (B) that utilization of the Federal courts is the only reasonable method of enforcing such order, approve such applications;
 
 &emsp;(9) operate the Federal Parent Locator Service established by section 653 of this title;
 
@@ -52,7 +52,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;&emsp;(B) costs and staff associated with the Office of Child Support Enforcement;
 
-&emsp;&emsp;(C) the following data, separately stated for cases where the child is receiving assistance under a State program funded under part A of this subchapter (or foster caremaintenance payments under part E of this subchapter), or formerly received such assistance or payments and the State is continuing to collect support assigned to it pursuant to section 608(a)(3) of this title or under section 671(a)(17) or 1396k of this title, and for all other cases under this part:
+&emsp;&emsp;(C) the following data, separately stated for cases where the child is receiving assistance under a State program funded under part A of this subchapter (or foster care maintenance payments under part E of this subchapter), or formerly received such assistance or payments and the State is continuing to collect support assigned to it pursuant to section 608(a)(3) of this title or under section 671(a)(17) or 1396k of this title, and for all other cases under this part:
 
 &emsp;&emsp;&emsp;(i) the total number of cases in which a support obligation has been established in the fiscal year for which the report is submitted;
 
@@ -90,7 +90,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 #### (b) Certification of child support obligations to Secretary of the Treasury for collection
 
-The Secretary shall, upon the request of any State having in effect a State plan approved under this part, certify to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1986 the amount of any child support obligation (including any support obligation with respect to the parent who is living with the child and receiving assistance under the State program funded under part A of this subchapter) which is assigned to such State or is undertaken to be collected by such State pursuant to section 654(4) of this title. No amount may be certified for collection under this subsection except the amount of the delinquency under a court or administrative order for support and upon a showing by the State that such State has made diligent and reasonable efforts to collect such amounts utilizing its own collection mechanisms, and upon an agreement that the State will reimburse the Secretary of the Treasury for any costs involved in making the collection. All reimbursements shall be credited to the appropriation accounts which bore all or part of the costs involved in making the collections. The Secretary after consultation with the Secretary of the Treasury may, by regulation, establish criteria for accepting amounts for collection and for making certification under this subsection including imposing such limitations on the frequency of making such certifications under this subsection.
+The Secretary shall, upon the request of any State having in effect a State plan approved under this part, certify to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1986 the amount of any child support obligation (including any support obligation with respect to the parent who is living with the child and receiving assistance under the State program funded under part A of this subchapter) which is assigned to such State or is undertaken to be collected by such State pursuant to section 654(4) of this title. No amount may be certified for collection under this subsection except the amount of the delinquency under a court or administrative order for support and upon a showing by the State that such State has made diligent and reasonable efforts to collect such amounts utilizing its own collection mechanisms, and upon an agreement that the State will reimburse the Secretary of the Treasury for any costs involved in making the collection. All reimbursements shall be credited to the appropriation accounts which bore all or part of the costs involved in making the collections. TheSecretary after consultation with the Secretary of the Treasury may, by regulation, establish criteria for accepting amounts for collection and for making certification under this subsection including imposing such limitations on the frequency of making such certifications under this subsection.
 
 #### (c) Payment of child support collections to States
 
@@ -212,7 +212,7 @@ The standards required by subsection (a)(1) of this section shall include standa
 
 #### (j) Training of Federal and State staff, research and demonstration programs, and special projects of regional or national significance
 
-Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for each fiscal year an amount equal to 1 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliabledata available to the Secretary as of the end of the third calendar quarter following the end of such preceding fiscal year), which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for—
+Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for each fiscal year an amount equal to 1 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliable data available to the Secretary as of the end of the third calendar quarter following the end of such preceding fiscal year), which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for—
 
 &emsp;(1) information dissemination and technical assistance to States, training of State and Federal staff, staffing studies, and related activities needed to improve programs under this part (including technical assistance concerning State automated systems required by this part); and
 
@@ -264,7 +264,7 @@ Subsec. (g). Pub. L. 105–200, §201(e)(1)(A), amended Pub. L. 104–193, §341
 
 Subsec. (<i>l</i>). Pub. L. 105–200, §406(b), added subsec. (<i>l</i>).
 
-1997—Subsec. (d)(3)(A). Pub. L. 105–33, §5513(a)(1)(A), substituted “section 609(a)(8) of this title, to achieve the paternity establishment percentages (as definedunder subsection (g)(2) of this section) and other performance measures that may be established by the Secretary, and to submit data under section 654(15)(B) of this title that is complete and reliable, and to substantially comply with the requirements of this part; and” for “section 603(h) of this title, to be in substantial compliance with other requirements of this part; and”.
+1997—Subsec. (d)(3)(A). Pub. L. 105–33, §5513(a)(1)(A), substituted “section 609(a)(8) of this title, to achieve the paternity establishment percentages (as defined under subsection (g)(2) of this section) and other performance measures that may be established by the Secretary, and to submit data under section 654(15)(B) of this title that is complete and reliable, and to substantially comply with the requirements of this part; and” for “section 603(h) of this title, to be in substantial compliance with other requirements of this part; and”.
 
 Subsec. (g)(1). Pub. L. 105–33, §5513(a)(1)(B), substituted “section 609(a)(8)” for “section 603(h)” in introductory provisions.
 
@@ -330,7 +330,7 @@ Subsec. (g)(1)(A). Pub. L. 104–193, §341(b)(1), formerly §341(c)(1), as rede
 
 Subsec. (g)(1)(B) to (F). Pub. L. 104–193, §341(b)(2)(A), formerly §341(c)(2)(A), as redesignated by Pub. L. 105–200, §201(e)(1)(A), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
 
-Subsec. (g)(2). Pub. L. 104–193, §108(c)(8), as amended by Pub. L. 105–33, §5513(a)(2), in closing provisions, substituted “with respect to whom assistance is being provided under the State program funded under part A of this subchapter” for “who is a dependent child” and “found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title” for “found to have good cause for refusing tocooperate under section 602(a)(26) of this title or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so”.
+Subsec. (g)(2). Pub. L. 104–193, §108(c)(8), as amended by Pub. L. 105–33, §5513(a)(2), in closing provisions, substituted “with respect to whom assistance is being provided under the State program funded under part A of this subchapter” for “who is a dependent child” and “found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title” for “found to have good cause for refusing to cooperate under section 602(a)(26) of this title or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so”.
 
 Subsec. (g)(2)(A). Pub. L. 104–193, §341(b)(3)(A), formerly §341(c)(3)(A), as redesignated by Pub. L. 105–200, §201(e)(1)(A), in introductory provisions, substituted “ ‘IV–D paternity establishment percentage’ ” for “ ‘paternity establishment percentage’ ” and struck out “(or all States, as the case may be)” after “with respect to a State”, and, in closing provisions, struck out “and” at end.
 
@@ -404,7 +404,7 @@ Subsec. (i). Pub. L. 100–485, §122(a), added subsec. (i).
 
 “(1) There is hereby established in the Treasury a revolving fund which shall be available to the Secretary without fiscal year limitation, to enable him to pay to the States for distribution in accordance with the provisions of section 657 of this title such amounts as may be collected and paid (subject to paragraph (2)) into such fund under section 6305 of the Internal Revenue Code of 1986.
 
-“(2) There is hereby appropriated to the fund, out of any moneys in the Treasury not otherwise appropriated, amounts equal to the amounts collected under section 6305 the Internal Revenue Code of 1986, reduced by the amounts credited or refunded as overpayments of the amounts so collected. The amounts appropriated by the preceding sentence shall be transferred at leastquarterly from the general fund of the Treasury to the fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.”
+“(2) There is hereby appropriated to the fund, out of any moneys in the Treasury not otherwise appropriated, amounts equal to the amounts collected under section 6305 the Internal Revenue Code of 1986, reduced by the amounts credited or refunded as overpayments of the amounts so collected. The amounts appropriated by the preceding sentence shall be transferred at least quarterly from the general fund of the Treasury to the fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.”
 
 1986—Subsecs. (b), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
 
@@ -446,7 +446,7 @@ Amendment by Pub. L. 106–169 effective as if included in the enactment of the 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–200, title II, §201(e)(2), July 16, 1998, 112 Stat. 657, provided that: “The amendments made by this subsection \[amending this section and section 658 of this title, amending provisions set out as notes under this section and section 658 of this title, and repealing provisions set out as a note under section 658 of this title\] shall take effect as if included in the enactment of section 341 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Pub. L. 105–200, title II, §201(e)(2), July 16, 1998, 112 Stat. 657, provided that: “The amendments made bythis subsection \[amending this section and section 658 of this title, amending provisions set out as notes under this section and section 658 of this title, and repealing provisions set out as a note under section 658 of this title\] shall take effect as if included in the enactment of section 341 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
 Pub. L. 105–200, title IV, §401(c)(3), July 16, 1998, 112 Stat. 662, as amended by Pub. L. 105–306, §4(b)(1), Oct. 28, 1998, 112 Stat. 2927, provided that: “The amendments made by this subsection \[amending this section and section 666 of this title\] shall be effective with respect to periods beginning on or after the later of—
 
@@ -462,7 +462,7 @@ Pub. L. 105–200, title IV, §407(c), July 16, 1998, 112 Stat. 672, provided th
 
 #### Effective Date of 1997 Amendment
 
-Section 5518(b) of Pub. L. 105–33 provided that: “The amendments made by section 5513 of this Act \[amending this section and sections 656, 664, 672, and 673 of this title\] shall take effect as if the amendments had beenincluded in section 108 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] at the time such section 108 became law.”
+Section 5518(b) of Pub. L. 105–33 provided that: “The amendments made by section 5513 of this Act \[amending this section and sections 656, 664, 672, and 673 of this title\] shall take effect as if the amendments had been included in section 108 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] at the time such section 108 became law.”
 
 Amendment by sections 5540, 5541(a), and 5556(c) of Pub. L. 105–33 effective as if included in the enactment of title III of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5557 of Pub. L. 105–33, set out as a note under section 608 of this title.
 
@@ -538,7 +538,7 @@ Section 122(b) of Pub. L. 100–485 provided that: “Not later than 180 days af
 
 #### Implementation of Performance Standards for State Paternity Establishment Programs
 
-Section 111(f)(3) of Pub. L. 100–485 provided that: “The Secretary of Health and Human Services shall collectthe data necessary to implement the requirements of section 452(g) of the Social Security Act \[subsec. (g) of this section\] (as added by subsection (a) of this section) and may, in carrying out the requirement of determining a State's paternity establishment percentage for the fiscal year 1988, compute such percentage on the basis of data collected with respect to the last quarter of such fiscal year (or, if such data are not available, the first quarter of the fiscal year 1989) if the Secretary determines that data for the full year are not available.”
+Section 111(f)(3) of Pub. L. 100–485 provided that: “The Secretary of Health and Human Services shall collect the data necessary to implement the requirements of section 452(g) of the Social Security Act \[subsec. (g) of this section\] (as added by subsection (a) of this section) and may, in carrying out the requirement of determining a State's paternity establishment percentage for the fiscal year 1988, compute such percentage on the basis of data collected with respect to the last quarter of such fiscal year (or, if such data are not available, the first quarter of the fiscal year 1989) if the Secretary determines that data for the full year are not available.”
 
 #### Requests for Child Support Assistance; Advisory Committee; Promulgation of Regulations
 
@@ -551,8 +551,4 @@ Section 121(b) of Pub. L. 100–485 provided that:
 #### Supplemental Report To Be Submitted to Congress Not Later Than June 30, 1977
 
 Section 504(c) of Pub. L. 95–30 directed Secretary of Health, Education, and Welfare to submit to Congress, not later than June 30, 1977, a special supplementary report with respect to activities undertaken pursuant to this part.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 609, 653, 654, 654a, 655, 658a, 660, 666 of this title; title 26 section 6305.
 

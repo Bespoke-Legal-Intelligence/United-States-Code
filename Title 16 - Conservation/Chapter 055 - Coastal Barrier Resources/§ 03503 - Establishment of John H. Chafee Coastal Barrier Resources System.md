@@ -60,7 +60,7 @@ The Secretary shall—
 
 #### (1) In general
 
-&emsp;In making any recommendation to the Congress regarding the addition of any area to the System or in determining whether, at the time of the inclusion of a System unit within the System, a coastal barrier is undeveloped,the Secretary shall consider whether within the area—
+&emsp;In making any recommendation to the Congress regarding the addition of any area to the System or in determining whether, at the time of the inclusion of a System unit within the System, a coastal barrier is undeveloped, the Secretary shall consider whether within the area—
 
 &emsp;&emsp;(A) the density of development is less than 1 structure per 5 acres of land above mean high tide; and
 
@@ -222,7 +222,11 @@ References.—Any reference in a law, map, regulation, document, paper, or other
 
 #### Revision of Maps for Units of System
 
-The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
+The following acts directed the Secretary of the Interior to make technical revisions and corrections tomaps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
+
+Pub. L. 108–380, §1, Oct. 30, 2004, 118 Stat. 2210.
+
+Pub. L. 108–339, §1, Oct. 18, 2004, 118 Stat. 1361.
 
 Pub. L. 108–138, §1, Dec. 1, 2003, 117 Stat. 1869.
 
@@ -340,7 +344,7 @@ Effective date of modifications.—A modification of the boundaries of a unit of
 
 #### Pacific Coastal Barrier Protection Study and Maps
 
-Section 6 of Pub. L. 101–591 directed Secretary of the Interior, not later than 6 months after Nov. 16, 1990, to prepare and submit to Congress a study examining the need for protecting undeveloped coastal barriers along the Pacific coast of the United States south of 49 degrees north latitude through inclusion in the System; as soon as practicable after Nov. 16, 1990, to prepare maps identifying the boundaries of those undeveloped coastal barriers (as that term is defined in 16 U.S.C. 3502(1)) of the United States bordering the Pacific Ocean south of 49 degrees north latitude; and, not later than 12 months after Nov. 16, 1990, to submit to Congress maps identifying the boundaries of those undeveloped coastal barriers of the United States bordering the Pacific Ocean south of 49 degrees north latitude which the Secretary and the appropriate Governor consider to be appropriate for inclusion in the System.
+Section 6 of Pub. L. 101–591 directed Secretary of the Interior, not later than 6 months after Nov. 16, 1990, to prepare and submit to Congress a study examining the need for protecting undeveloped coastal barriers along the Pacific coast of the United States south of 49 degrees north latitude through inclusion in the System; as soon as practicable after Nov. 16, 1990, to preparemaps identifying the boundaries of those undeveloped coastal barriers (as that term is defined in 16 U.S.C. 3502(1)) of the United States bordering the Pacific Ocean south of 49 degrees north latitude; and, not later than 12 months after Nov. 16, 1990, to submit to Congress maps identifying the boundaries of those undeveloped coastal barriers of the United States bordering the Pacific Ocean south of 49 degrees north latitude which the Secretary and the appropriate Governor consider to be appropriate for inclusion in the System.
 
 #### Report Regarding Coastal Barrier Management
 
@@ -369,10 +373,6 @@ Section 12 of Pub. L. 101–591, as amended by Pub. L. 106–167, §3(c)(6), Dec
 &emsp;“(4) the term ‘Secretary’ means the Secretary of the Interior; and
 
 &emsp;“(5) the term ‘System’ means the John H. Chafee Coastal Barrier Resources System established by the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.), as amended by this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3502, 3504, 3505 of this title; title 42 section 4028.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) the term “Federal credit union” means a cooperative association organized in accordance with the provisions of this chapter forthe purpose of promoting thrift among its members and creating a source of credit for provident or productive purposes;
+&emsp;(1) the term “Federal credit union” means a cooperative association organized in accordance with the provisions of this chapter for the purpose of promoting thrift among its members and creating a source of credit for provident or productive purposes;
 
 &emsp;(2) the term “Chairman” means the Chairman of the National Credit Union Administration Board;
 
@@ -46,7 +46,7 @@ Par. (5). Pub. L. 95–630, §§502(b), 503(a), (b), redesignated par. (4), defi
 
 Pars. (6) to (8). Pub. L. 95–630, §503(a), redesignated former pars. (5) to (7) as (6) to (8). Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 95–630, §503(a), (c), redesignated former par. (8) as (9), inserted “, including the trust territories,” after “several territories”, and inserted provision that term “branch” also includes a suboffice, operated by a Federal credit union or by a credit union authorized by the Department of Defense, located on anAmerican military installation in a foreign country or in the trust territories of the United States.
+Par. (9). Pub. L. 95–630, §503(a), (c), redesignated former par. (8) as (9), inserted “, including the trust territories,” after “several territories”, and inserted provision that term “branch” also includes a suboffice, operated by a Federal credit union or by a credit union authorized by the Department of Defense, located on an American military installation in a foreign country or in the trust territories of the United States.
 
 1977—Par. (4). Pub. L. 95–22 inserted provision that such terms mean those accounts of nonmember credit unions and nonmember units of Federal, State, or local governments and political subdivisions thereof in which payments are received by a credit union pursuant to section 1757(6) of this title.
 
@@ -79,10 +79,6 @@ Amendment by section 103 of Pub. L. 96–161, cited as a credit to this section,
 #### Transfer of Functions
 
 Transfer of functions of Farm Credit Administration and Governor thereof, see notes set out under section 1751 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 461, 1422, 1715z–14, 1735f–7a, 1786, 1818, 1831t, 3350, 4702, 4801 of this title; title 7 sections 1a, 27; title 11 section 101; title 15 sections 78c, 1679a; title 18 section 2113; title 22 section 5426; title 26 sections 408, 501; title 31 section 3342; title 42 sections 669a, 6901.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or share draft account”.</i>
 

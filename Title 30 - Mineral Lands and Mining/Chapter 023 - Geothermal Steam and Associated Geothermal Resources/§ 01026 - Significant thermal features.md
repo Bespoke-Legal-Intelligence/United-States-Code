@@ -106,7 +106,3 @@ Section 8 of Pub. L. 100–443 provided that:
 
 “(d) If the Secretary determines that geothermal drilling and related activities within the area studied pursuant to subsection (a) of this section may adversely affect the thermal features of Yellowstone National Park, the Secretary shall include in the study required under subsection (a) of this section recommendations regarding the acquisition of the geothermal rights necessary to protect such thermal resources and features.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1001 of this title.
-

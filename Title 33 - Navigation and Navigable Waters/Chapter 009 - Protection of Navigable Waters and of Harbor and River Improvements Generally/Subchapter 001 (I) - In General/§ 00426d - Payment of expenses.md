@@ -4,7 +4,3 @@ Any expenses incident and necessary in the undertaking of the general investigat
 
 (July 31, 1945, ch. 334, §4, 59 Stat. 508.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 426a of this title.
-

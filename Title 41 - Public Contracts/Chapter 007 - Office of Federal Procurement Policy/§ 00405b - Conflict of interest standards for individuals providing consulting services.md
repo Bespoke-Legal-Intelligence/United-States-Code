@@ -2,7 +2,7 @@
 
 #### (a) Issuance of policy and regulations
 
-Not later than 90 days after October 1, 1988, the Administrator of the Office of Federal Procurement Policy shall issue a policy, and notlater than 180 days thereafter Government-wide regulations shall be issued under the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.) which set forth—
+Not later than 90 days after October 1, 1988, the Administrator of the Office of Federal Procurement Policy shall issue a policy, and not later than 180 days thereafter Government-wide regulations shall be issued under the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.) which set forth—
 
 &emsp;(1) conflict of interest standards for persons who provide consulting services described in subsection (b) of this section; and
 
@@ -41,6 +41,10 @@ Executive order 12333, referred to in subsec. (d), is set out as a note under se
 #### Codification
 
 Section was enacted as part of the Department of Defense Appropriations Act, 1989, and not as part of the Office of Federal Procurement Policy Act which comprises this chapter.
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Termination of Reporting Requirements
 

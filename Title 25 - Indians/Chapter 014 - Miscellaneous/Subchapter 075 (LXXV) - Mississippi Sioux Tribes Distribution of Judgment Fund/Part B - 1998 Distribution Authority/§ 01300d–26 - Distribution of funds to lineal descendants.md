@@ -20,7 +20,7 @@ Subject to section 1300d–27(e) of this title, the Secretary shall, in the mann
 
 #### (2) Distribution
 
-&emsp;If a reduction in the amount that otherwise would be distributed under subsection (a) of this section is made under paragraph (1), an amount equal to that reduction shall be added to the amount available for distribution under section 1300d–23(a)(1) of this title, for distribution in accordance with section 1300d–23(a)(2) of this title.
+&emsp;If a reduction in the amount that otherwise would be distributed under subsection (a) of this section is made under paragraph (1), anamount equal to that reduction shall be added to the amount available for distribution under section 1300d–23(a)(1) of this title, for distribution in accordance with section 1300d–23(a)(2) of this title.
 
 #### (c) Verification of ancestry
 
@@ -43,10 +43,6 @@ Act of March 3, 1891, referred to in subsec. (c)(3), is act Mar. 3, 1891, ch. 54
 #### Codification
 
 Section is comprised of section 7 of Pub. L. 105–387. Subsec. (d) of section 7 of Pub. L. 105–387 amended sections 1300d–3 and 1300d–4 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300d–24, 1300d–27 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “1300d–23(a)(1)(B)(ii)”.</i>
 

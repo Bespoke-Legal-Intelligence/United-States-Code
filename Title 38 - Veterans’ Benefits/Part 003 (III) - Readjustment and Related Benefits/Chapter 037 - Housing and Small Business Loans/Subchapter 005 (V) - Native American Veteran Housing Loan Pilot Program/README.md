@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—NATIVE AMERICAN VETERAN HOUSING LOAN PILOT PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3722, 3736 of this title.
-
 
 ---
 

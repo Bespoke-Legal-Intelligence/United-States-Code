@@ -276,9 +276,5 @@ Applicability.—Subparagraph (A) shall apply to motions filed by aliens who—
 
 For purposes of this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1101, 1155, 1158, 1159, 1182, 1184, 1225, 1228, 1229, 1229c, 1231, 1252, 1256, 1282, 1357, 1368 of this title; title 18 section 4113; title 22 section 7105; title 28 section 1821.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

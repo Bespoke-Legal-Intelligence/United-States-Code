@@ -30,7 +30,3 @@ The Secretary of Agriculture may accept and use contributions of non-Federal fun
 
 (Pub. L. 108–148, title V, §504, Dec. 3, 2003, 117 Stat. 1913.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6576 of this title.
-

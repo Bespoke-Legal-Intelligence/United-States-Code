@@ -144,7 +144,3 @@ Pub. L. 100–690, title VII, §7210, Nov. 18, 1988, 102 Stat. 4432, provided th
 
 Pub. L. 100–690, title VII, §7211(b), Nov. 18, 1988, 102 Stat. 4433, provided that: “No information collection requests necessary to carry out the objectives of this subtitle \[subtitle E (§§7201–7214) of title VI of Pub. L. 100–690, see Tables for classification\] (including the amendments made by this subtitle) shall be subject to or affect, directly or indirectly, the annual information collection budget goals established for the Federal Aviation Administration and the Department of Transportation under chapter 35 of title 44, United States Code.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 45302 of this title.
-

@@ -52,7 +52,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “returning bank” means a bank (other than the paying or depositarybank) handling a returned check or notice in lieu of return.
+&emsp;&emsp;&emsp;The term “returning bank” means a bank (other than the paying or depositary bank) handling a returned check or notice in lieu of return.
 
 #### (ii) Treatment as collecting bank
 

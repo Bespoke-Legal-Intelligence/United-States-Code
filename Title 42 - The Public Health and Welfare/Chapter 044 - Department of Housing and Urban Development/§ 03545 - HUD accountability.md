@@ -118,7 +118,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (2) Factors in determining amount of penalty
 
-&emsp;In determining the amount of a penalty under subsection (f) of this section, consideration shall be given to such factors as the gravity of the offense, ability to pay the penalty, injury to the public, benefits received,deterrence of future violations, and such other factors as the Secretary may determine in regulations to be appropriate.
+&emsp;In determining the amount of a penalty under subsection (f) of this section, consideration shall be given to such factors as the gravity of the offense, ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretary may determine in regulations to be appropriate.
 
 #### (3) Reviewability of imposition of a penalty
 
@@ -132,7 +132,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (2) Objections not raised in hearing
 
-&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (g)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (g)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable groundsfor the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
 #### (3) Scope of review
 
@@ -209,8 +209,4 @@ Revocation by Secretary.—If the Secretary determines that a housing credit age
 “(d)
 
 Applicability.—Section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 (42 U.S.C. 3545(d)) shall apply only to projects for which an application for assistance or insurance was filed after the date of enactment of the Housing and Urban Development Reform Act \[probably should be Department of Housing and Urban Development Reform Act of 1989, enacted Dec. 15, 1989\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1439, 1485, 4852d, 12742, 12774 of this title; title 12 section 1715z–22.
 

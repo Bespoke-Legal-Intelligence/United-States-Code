@@ -54,9 +54,5 @@ Subsec. (f) of this section amended title 28 by adding section 1364 and by addin
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–336 substituted “section 1365 of title 28” for “section 1364 of title 28”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 288b, 288j of this title.
+1986—Subsec. (a). Pub. L. 99–336 substituted “section 1365 of title 28” for “section 1364 of title 28”.
 

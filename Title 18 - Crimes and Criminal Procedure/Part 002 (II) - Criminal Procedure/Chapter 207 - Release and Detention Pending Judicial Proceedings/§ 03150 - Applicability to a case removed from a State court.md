@@ -8,7 +8,3 @@ The provisions of this chapter apply to a criminal case removed to a Federal cou
 
 A prior section 3150, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 216, related to penalties for failure to appear, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3156 of this title.
-

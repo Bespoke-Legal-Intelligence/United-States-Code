@@ -32,7 +32,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;(B) identify high priority projects through calculation of payback periods;
 
-&emsp;&emsp;(C) take maximum advantage of contracts authorized under subchapter VII of this chapter, of financial incentives and other services provided by utilities for efficiency investment, and of other forms of financing to reduce the direct costs to the Government; and
+&emsp;&emsp;(C) take maximum advantage of contracts authorized under subchapter VII of thischapter, of financial incentives and other services provided by utilities for efficiency investment, and of other forms of financing to reduce the direct costs to the Government; and
 
 &emsp;&emsp;(D) otherwise implement this part;
 
@@ -69,8 +69,4 @@ Subsec. (d)(3) to (5). Pub. L. 102–486, §152(c)(4), (5), added pars. (3) and 
 #### Survey of Energy Saving Potential
 
 Section 3 of Pub. L. 100–615, which authorized Secretary of Energy to carry out an energy survey to determine maximum potential cost effective energy savings in federally used buildings and recommend cost effective energy efficiency and renewable energy improvements in those buildings, devise a plan for implementing such survey, and report its findings and conclusions to Congress, was repealed by Pub. L. 102–486, title I, §152(i)(3), Oct. 24, 1992, 106 Stat. 2851.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8256, 8257, 8258, 8258b, 8262f, 8262j of this title.
 

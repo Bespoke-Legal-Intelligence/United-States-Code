@@ -8,7 +8,3 @@ The purpose of this part is to provide financial incentives for schools to devel
 
 A prior section 6511, Pub. L. 89–10, title I, §1601, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3609, related to Federal regulations, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6571 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6512 of this title.
-

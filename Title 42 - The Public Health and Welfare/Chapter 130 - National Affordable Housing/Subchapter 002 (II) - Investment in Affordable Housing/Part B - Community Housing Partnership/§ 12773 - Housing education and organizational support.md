@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to provide education and organizational support assistance, inconjunction with other assistance made available under this part—
+The Secretary is authorized to provide education and organizational support assistance, in conjunction with other assistance made available under this part—
 
 &emsp;(1) to facilitate the education of low-income homeowners and tenants;
 
@@ -72,7 +72,7 @@ Contracts under this section with any one contractor for a fiscal year may not�
 
 #### (e) Single-State contractors
 
-Not less than 40 percent of the funds made available for this section in an appropriations Act in any fiscal year shall be made available for eligible contractors that have worked primarily in one State. The Secretary shall provide assistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development.
+Not less than 40 percent of the funds made available for this section in an appropriations Act in any fiscal year shall be made available for eligible contractors that have worked primarily in one State. The Secretary shall provideassistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development.
 
 #### (f) “Community land trust” defined
 
@@ -125,8 +125,4 @@ Subsec. (f). Pub. L. 102–550, §213(a)(3), added subsec. (f).
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12724, 12771 of this title.
 

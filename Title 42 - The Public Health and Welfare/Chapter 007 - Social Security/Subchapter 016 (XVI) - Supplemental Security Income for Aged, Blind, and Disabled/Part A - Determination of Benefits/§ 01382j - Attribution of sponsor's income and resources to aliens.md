@@ -92,7 +92,3 @@ Section 504(c) of Pub. L. 96–265 provided that: “The amendments made by this
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1382c of this title.
-

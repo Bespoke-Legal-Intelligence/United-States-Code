@@ -10,7 +10,3 @@ For purposes of this chapter—
 
 (Pub. L. 98–623, title II, §206, Nov. 8, 1984, 98 Stat. 3397.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2103 of this title.
-

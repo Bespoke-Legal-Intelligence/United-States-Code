@@ -4,7 +4,3 @@ There is forfeited to the United States, and the United States resumes the title
 
 (Sept. 29, 1890, ch. 1040, §1, 26 Stat. 496.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 905, 906, 907 of this title.
-

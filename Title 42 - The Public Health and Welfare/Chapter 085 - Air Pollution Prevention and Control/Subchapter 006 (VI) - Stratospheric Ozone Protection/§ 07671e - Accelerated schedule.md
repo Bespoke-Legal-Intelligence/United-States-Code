@@ -18,7 +18,3 @@ Any person may petition the Administrator to promulgate regulations under this s
 
 (July 14, 1955, ch. 360, title VI, §606, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2660.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7671d of this title.
-

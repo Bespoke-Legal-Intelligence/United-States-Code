@@ -24,7 +24,7 @@
 
 #### (b) Research grants
 
-(1) In addition to carrying out projects under subsection (a) of this section, the Director may make grants under this subsection (referred toin this subsection as “research grants”) to pay part or all of the cost of the research or other specialized covered activities described in paragraphs (2) through (18). A research grant made under any of paragraphs (2) through (18) may only be used in a manner consistent with priorities established in the 5-year plan described in section 762(h) of this title.
+(1) In addition to carrying out projects under subsection (a) of this section, the Director may make grants under this subsection (referred to in this subsection as “research grants”) to pay part or all of the cost of the research or other specialized covered activities described in paragraphs (2) through (18). A research grant made under any of paragraphs (2) through (18) may only be used in a manner consistent with priorities established in the 5-year plan described in section 762(h) of this title.
 
 (2)(A) Research grants may be used for the establishment and support of Rehabilitation Research and Training Centers, for the purpose of providing an integrated program of research, which Centers shall—
 
@@ -90,7 +90,7 @@
 
 (N) In conducting scientific peer review under section 762(f) of this title of an application for the renewal of a grant made under this paragraph, the peer review panel shall take into account the past performance of the applicant in carrying out the grant and input from individuals with disabilities and the individuals’ representatives.
 
-(O) An institution or provider that receives a grant under this paragraph to establish such aCenter may not collect more than 15 percent of the amount of the grant received by the Center in indirect cost charges.
+(O) An institution or provider that receives a grant under this paragraph to establish such a Center may not collect more than 15 percent of the amount of the grant received by the Center in indirect cost charges.
 
 (3)(A) Research grants may be used for the establishment and support of Rehabilitation Engineering Research Centers, operated by or in collaboration with institutions of higher education or nonprofit organizations, to conduct research or demonstration activities, and training activities, regarding rehabilitation technology, including rehabilitation engineering, assistive technology devices, and assistive technology services, for the purposes of enhancing opportunities for better meeting the needs of, and addressing the barriers confronted by, individuals with disabilities in all aspects of their lives.
 
@@ -148,7 +148,7 @@
 
 (G) Each Center established or supported through a grant made available under this paragraph shall—
 
-&emsp;(i) cooperate with State agencies and other local, State, regional, and national programsand organizations developing or delivering rehabilitation technology, including State programs funded under the Assistive Technology Act of 1998 \[29 U.S.C. 3001 et seq.\]; and
+&emsp;(i) cooperate with State agencies and other local, State, regional, and national programs and organizations developing or delivering rehabilitation technology, including State programs funded under the Assistive Technology Act of 1998 \[29 U.S.C. 3001 et seq.\]; and
 
 &emsp;(ii) prepare and submit to the Director as part of an application for continuation of a grant, or as a final report, a report that documents the outcomes of the program of the Center in terms of both short- and long-term impact on the lives of individuals with disabilities, and such other information as may be requested by the Director.
 
@@ -184,7 +184,7 @@
 
 (6) Research grants may be used to conduct a program for international rehabilitation research, demonstration, and training for the purpose of developing new knowledge and methods in the rehabilitation of individuals with disabilities in the United States, cooperating with and assisting in developing and sharing information found useful in other nations in the rehabilitation of individuals with disabilities, and initiating a program to exchange experts and technical assistance in the field of rehabilitation of individuals with disabilities with other nations as a means of increasing the levels of skill of rehabilitation personnel.
 
-(7) Research grants may be used to conduct a research program concerning the use of existing telecommunications systems (including telephone, television, satellite, radio, and other similar systems) which have the potential for substantially improving service delivery methods, and the development of appropriate programming to meet the particular needs of individuals with disabilities.
+(7) Research grants may be used to conduct a research program concerning the use of existing telecommunications systems (including telephone, television, satellite, radio, and other similar systems) which have the potential forsubstantially improving service delivery methods, and the development of appropriate programming to meet the particular needs of individuals with disabilities.
 
 (8) Research grants may be used to conduct a program of joint projects with the National Institutes of Health, the National Institute of Mental Health, the Health Services Administration, the Administration on Aging, the National Science Foundation, the Veterans’ Administration, the Department of Health and Human Services, the National Aeronautics and Space Administration, other Federal agencies, and private industry in areas of joint interest involving rehabilitation.
 
@@ -281,8 +281,4 @@ A prior section 764, Pub. L. 93–112, title II, §204, Sept. 26, 1973, 87 Stat.
 1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
 
 Subsec. (b)(3)(C)(i), (G)(i). Pub. L. 105–394 substituted “the Assistive Technology Act of 1998” for “the Technology-Related Assistance for Individuals With Disabilities Act of 1988 (29 U.S.C. 2201 et seq.)”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 761 of this title; title 38 sections 3904, 7303.
 

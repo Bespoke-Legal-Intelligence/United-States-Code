@@ -14,13 +14,13 @@ A commission is created, to be composed of the following members, who shall be a
 
 “Fort Donelson National Military Park” redesignated “Fort Donelson National Battlefield” by Pub. L. 86–738, §4. See section 428n of this title.
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–367, §1, Oct. 25, 2004, 118 Stat. 1743, provided that: “This Act \[enacting sections 428p to 428p–2 of this title and amending section 428k of this title\] may be cited as the ‘Fort Donelson National Battlefield Expansion Act of 2004’.”
+
 #### Transfer of Functions
 
 Administrative functions of Fort Donelson National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under section 901 of Title 5, Government Organization and Employees. Administrative functions of Fort Donelson National Battlefield assigned to Department of the Interior by section 5 of Pub. L. 86–738, set out as section 428<i>o</i> of this title.
 
 National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, §2, by act Mar. 2, 1934, ch. 38, §1, 48 Stat. 389.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 428a, 428e, 428k of this title.
 

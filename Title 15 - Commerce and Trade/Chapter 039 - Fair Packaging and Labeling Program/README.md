@@ -32,10 +32,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 21 sections 379r, 379s, 1033, 1049, 1052.
-
 
 ---
 

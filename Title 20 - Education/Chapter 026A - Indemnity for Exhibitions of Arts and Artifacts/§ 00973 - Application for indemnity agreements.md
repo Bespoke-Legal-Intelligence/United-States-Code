@@ -20,7 +20,3 @@ Upon receipt of an application under this section, the Council shall, if such ap
 
 (Pub. L. 94–158, §4, Dec. 20, 1975, 89 Stat. 845.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 974 of this title.
-

@@ -36,9 +36,5 @@ Another prior section 1927 of act July 1, 1944, was classified to section 300y�
 
 Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L. 102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300x–29 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “woman”.</i>
 

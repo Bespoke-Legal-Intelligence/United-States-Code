@@ -252,9 +252,5 @@ Title VIII of Pub. L. 98–573, as amended by Pub. L. 100–418, title I, §1322
 
 Pub. L. 88–482, §2, Aug. 22, 1964, 78 Stat. 594, as amended by Pub. L. 96–177, Dec. 31, 1979, 93 Stat. 1291; Pub. L. 100–418, title I, §1214(u), Aug. 23, 1988, 102 Stat. 1162; Pub. L. 100–449, title III, §301(b), Sept. 28, 1988, 102 Stat. 1867; Pub. L. 103–182, title III, §321(a), Dec. 8, 1993, 107 Stat. 2108, provided that this section was to be cited as the “Meat Import Act of 1979”, defined terms for purposes of this section, limited with exception the aggregate quantity of meat articles which could enter the country in any calendar year after 1979, provided for adjustment of aggregate quantity for calendar years after 1979, required Secretary of Agriculture to estimate and publish yearly aggregate quantity, authorized President to increase or limit by proclamation the total quantity of meat articles entering this country under certain circumstances, and provided for suspension of such proclamations after providing notice in Federal Register and opportunity to comment, prior to repeal by Pub. L. 103–465, title IV, §403, Dec. 8, 1994, 108 Stat. 4959, effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1330, 1981, 2114d, 2133, 2137, 2192, 2194, 2252, 2254, 2436, 2463, 2581, 2703, 3203, 3602 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “implementation”.</i>
 

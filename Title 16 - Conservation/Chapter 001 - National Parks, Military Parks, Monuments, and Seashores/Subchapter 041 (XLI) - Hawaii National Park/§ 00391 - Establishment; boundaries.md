@@ -1,6 +1,6 @@
 ### §391. Establishment; boundaries
 
-The tracts of land on the island of Hawaii and on the island of Maui, in the Territory of Hawaii, hereinafter described, shall be perpetually dedicated and set apart as a public park orpleasure ground for the benefit and enjoyment of the people of the United States, to be known as Hawaii National Park. Said tracts of land are described as follows:
+The tracts of land on the island of Hawaii and on the island of Maui, in the Territory of Hawaii, hereinafter described, shall be perpetually dedicated and set apart as a public park or pleasure ground for the benefit and enjoyment of the people of the United States, to be known as Hawaii National Park. Said tracts of land are described as follows:
 
 First. All that tract of land comprising portion of the lands of Kapapala and Keauhou, in the District of Kau, and portions of the lands of Keaau, Kahaualea, Panaunui, and Apua, in the District of Puna, containing approximately thirty-four thousand five hundred and thirty-one acres, bounded as follows:
 
@@ -60,7 +60,7 @@ Beginning at a point on the west edge of the Keamoku Aa Flow (lava flow of 1823)
 
 27\. One hundred and sixty-six degrees and twenty minutes twenty-one thousand feet across the land of Kapapala to the point of beginning; and all of those lands lying within the boundary above described are included in and made a part of the Hawaii National Park subject to all laws and regulations pertaining to said park.
 
-Second. All that tract of land comprising portions of the lands of Kapapala and Kahuku, inthe district of Kau, island of Hawaii; Keauhou second, in the district of North Kona; and Kaohe, in the district of Hamakua, containing seventeen thousand nine hundred and twenty acres, bounded as follows: Beginning at Pohaku Hanalei of Humuula, a small cone on the brow of Mauna Loa, and at the common boundary points of the lands of Humuula, Kapapala, and Kaohe, from which the true azimuth and distance to Government survey trigonometrical station Omaokoili is one hundred and ninety-five degrees twelve minutes eighteen seconds, seventy-eight thousand two hundred and eighty-six feet, and running by true azimuths: First, two hundred and ninety-eight degrees, five thousand two hundred and forty feet; second, twenty-eight degrees, thirty-six thousand nine hundred and sixty feet; third, one hundred and eighteen degrees, twenty-one thousand one hundred and twenty feet; fourth, two hundred and eight degrees, thirty-six thousand nine hundred and sixty feet; fifth, two hundred and ninety-eight degrees, fifteen thousand eight hundred and eighty feet, to the point of beginning.
+Second. All that tract of land comprising portions of the lands of Kapapala and Kahuku, in the district of Kau, island of Hawaii; Keauhou second, in the district of North Kona; and Kaohe, in the district of Hamakua, containing seventeen thousand nine hundred and twenty acres, bounded as follows: Beginning at Pohaku Hanalei of Humuula, a small cone on the brow of Mauna Loa, and at the common boundary points of the lands of Humuula, Kapapala, and Kaohe, from which the true azimuth and distance to Government survey trigonometrical station Omaokoili is one hundred and ninety-five degrees twelve minutes eighteen seconds, seventy-eight thousand two hundred and eighty-six feet, and running by true azimuths: First, two hundred and ninety-eight degrees, five thousand two hundred and forty feet; second, twenty-eight degrees, thirty-six thousand nine hundred and sixty feet; third, one hundred and eighteen degrees, twenty-one thousand one hundred andtwenty feet; fourth, two hundred and eight degrees, thirty-six thousand nine hundred and sixty feet; fifth, two hundred and ninety-eight degrees, fifteen thousand eight hundred and eighty feet, to the point of beginning.
 
 Third. A strip of land of sufficient width for a road to connect the two tracts of land on the island of Hawaii above described, the width and location of which strip shall be determined by the Secretary of the Interior.
 
@@ -72,7 +72,7 @@ Fifth. All that tract of land comprising a portion of the Kau Desert, Kapapala, 
 
 #### References in Text
 
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘An Act to create a Federal power commission; to provide for the improvement of navigation; the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended,and is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘An Act to create a Federal power commission; to provide for the improvement of navigation; the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 #### Codification
 
@@ -99,8 +99,4 @@ Designation of portion of Hawaii National Park situated on island of Hawaii as H
 #### Haleakala�AE8 National Park
 
 Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala�AE8 National Park, effective July 1, 1961, see section 396b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 391b–1, 391c, 391d, 392, 393 of this title.
 

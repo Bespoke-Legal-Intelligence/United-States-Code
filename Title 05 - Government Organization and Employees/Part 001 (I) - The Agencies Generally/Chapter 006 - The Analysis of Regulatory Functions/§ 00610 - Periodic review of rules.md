@@ -22,7 +22,3 @@
 
 The effective date of this chapter, referred to in subsec. (a), is Jan. 1, 1981. See Effective Date note set out under section 601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 605, 611 of this title.
-

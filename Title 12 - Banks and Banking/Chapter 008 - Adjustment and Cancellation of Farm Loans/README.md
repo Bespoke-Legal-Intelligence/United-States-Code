@@ -13,10 +13,6 @@
 
 For provisions similar to former chapter 8 of this title, relating to federal intermediate credit banks, see Part A (§2071 et seq.) of subchapter II of chapter 23 of this title.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 42 section 1480.
-
 
 ---
 

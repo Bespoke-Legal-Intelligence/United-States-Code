@@ -12,7 +12,3 @@ There is hereby authorized to be appropriated, out of any money in the Treasury 
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 758a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 758d of this title.
-

@@ -26,7 +26,7 @@
 
 &emsp;The objectives of a petition submitted under this subsection shall be to—
 
-&emsp;&emsp;(A) facilitate the local development of voluntary, incentive-based partnerships among owners and operators of community watersystems, governments, and other persons in source water areas; and
+&emsp;&emsp;(A) facilitate the local development of voluntary, incentive-based partnerships among owners and operators of community water systems, governments, and other persons in source water areas; and
 
 &emsp;&emsp;(B) obtain assistance from the State in identifying resources which are available to implement the recommendations of the partnerships to address the origins of drinking water contaminants that may be addressed by a petition (including to the maximum extent practicable the specific activities contributing to the presence of the contaminants) that affect the drinking water supply of a community.
 
@@ -34,7 +34,7 @@
 
 &emsp;A petition submitted to a State under this subsection may address only those contaminants—
 
-&emsp;&emsp;(A) that are pathogenic organisms for which a national primary drinking water regulation has been established or is required under section 300g–1 of this title; or
+&emsp;&emsp;(A) that are pathogenic organisms for which a national primary drinking waterregulation has been established or is required under section 300g–1 of this title; or
 
 &emsp;&emsp;(B) for which a national primary drinking water regulation has been promulgated or proposed and that are detected by adequate monitoring methods in the source water at the intake structure or in any collection, treatment, storage, or distribution facilities by the community water systems at levels—
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;(vi) any pesticide or ground water management plan;
 
-&emsp;&emsp;&emsp;(vii) any voluntary agricultural resource management plan or voluntary whole farmor whole ranch management plan developed and implemented under a process established by the Secretary of Agriculture; and
+&emsp;&emsp;&emsp;(vii) any voluntary agricultural resource management plan or voluntary whole farm or whole ranch management plan developed and implemented under a process established by the Secretary of Agriculture; and
 
 &emsp;&emsp;&emsp;(viii) any abandoned well closure program; and
 
@@ -167,8 +167,4 @@ Nothing in this section—
 The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 2 of subtitle D of title XII of the Act was classified generally to part II (§3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300j–12 of this title.
 

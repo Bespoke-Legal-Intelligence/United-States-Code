@@ -80,7 +80,7 @@ Subsec. (d). Pub. L. 97–113, §402, increased fiscal year limitation to $10,00
 
 1979—Subsec. (f). Pub. L. 96–53 substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”.
 
-1975—Pub. L. 94–161 inserted references to the House Committee on International Relations and the Senate Committee on Foreign Relations in first proviso of subsec. (b)(1), in par. (3) of penultimate proviso following subsec. (k), and in last sentence of section and repealed subsec. (c) which read: “To procure equipment, materials, facilities, and services for the common defense including internal security;”, respectively.
+1975—Pub. L. 94–161 inserted references to the House Committee on International Relations and the Senate Committee on Foreign Relations in first proviso of subsec. (b)(1), in par. (3) of penultimate proviso followingsubsec. (k), and in last sentence of section and repealed subsec. (c) which read: “To procure equipment, materials, facilities, and services for the common defense including internal security;”, respectively.
 
 1970—Pub. L. 91–524 inserted provision allowing appropriation acts to specifically authorize the use of foreign currencies in the educational and cultural exchange program without requiring the appropriation of dollars for the purchase of those same foreign currencies.
 
@@ -120,7 +120,7 @@ Subsec. (h). Pub. L. 89–808 added subsec. (h) Former subsec. (h) redesignated 
 
 Subsec. (i). Pub. L. 89–808 substituted provisions respecting use of foreign currencies for paying costs outside the United States of carrying out food production assistance programs for former provisions for financing ($5,000,000 fiscal year limitation) translation, publication, and distribution of books and periodicals, including Government publications, abroad.
 
-Subsec. (j). Pub. L. 89–808 redesignated subsec. (t) as (j), authorized sale of foreign currencies to nonprofit organizations, and struck out provisions making the currencies available for sale at United States embassies or other convenient locations, describing such currencies as acquired through operations under Foreign Assistance Act of 1961, as amended, Mutual Security Act of 1954, as amended, or any Act repealed thereby, or Agricultural Trade Development and Assistance Act of 1954, as amended, prohibiting such sales for travel purposes under agreement entered into with another country or when so committed by agreement to other uses, depositing dollars from such sales into United States Treasury as miscellaneous receipts, and treating dollars deposited into the CCC account as a reimbursement under section 1705 of this title. Former subsec. (j) provided for assistance to schools, libraries, and community centers abroad founded or sponsored by United States citizens and serving as demonstration centers, and is now covered by subsec. (b)(2) of this section.
+Subsec. (j). Pub. L. 89–808 redesignated subsec. (t) as (j), authorized sale of foreign currencies to nonprofit organizations, and struck out provisions making the currencies available for sale at United States embassiesor other convenient locations, describing such currencies as acquired through operations under Foreign Assistance Act of 1961, as amended, Mutual Security Act of 1954, as amended, or any Act repealed thereby, or Agricultural Trade Development and Assistance Act of 1954, as amended, prohibiting such sales for travel purposes under agreement entered into with another country or when so committed by agreement to other uses, depositing dollars from such sales into United States Treasury as miscellaneous receipts, and treating dollars deposited into the CCC account as a reimbursement under section 1705 of this title. Former subsec. (j) provided for assistance to schools, libraries, and community centers abroad founded or sponsored by United States citizens and serving as demonstration centers, and is now covered by subsec. (b)(2) of this section.
 
 Subsecs. (k), (<i>l</i>). Pub. L. 89–808 redesignated subsecs. (k) and (<i>l</i>) as (b)(3) and (4).
 
@@ -132,7 +132,7 @@ Subsecs. (<i>o</i>), (p). Pub. L. 89–808 struck out subsec. (<i>o</i>) which p
 
 Subsec. (q). Pub. L. 89–808 redesignated subsec. (q) as (d).
 
-Subsec. (r). Pub. L. 89–808 struck out subsec. (r) which provided for financing ($2,500,000 fiscal year limitation) preparation, distribution, and exhibition of audio-visual informational and educational materials abroad without limiting or affecting use of foreign currencies for such materials in connection with trade fairs andother market development activities under subsec. (a) of this section.
+Subsec. (r). Pub. L. 89–808 struck out subsec. (r) which provided for financing ($2,500,000 fiscal year limitation) preparation, distribution, and exhibition of audio-visual informational and educational materials abroad without limiting or affecting use of foreign currencies for such materials in connection with trade fairs and other market development activities under subsec. (a) of this section.
 
 Subsecs. (s), (t). Pub. L. 89–808 incorporated subsecs. (s) and (t) in subsec. (j), and struck out from former subsec. (s) “under such terms and conditions as the President may prescribe”.
 
@@ -176,7 +176,7 @@ Pub. L. 87–128, §201(3)(b), substituted in final proviso “pursuant to” fo
 
 1959—Subsec. (a). Pub. L. 86–341, §4, provided that from sale proceeds and loan repayments under this subchapter not less than the equivalent of 5 per centum of the total sales made under this subchapter after September 21, 1959, shall be made available in advance for use as provided by this subsection over such period of years as the Secretary of Agriculture determines will most effectively carry out the purposes of this subsection, prohibited the allocation of such funds after June 30, 1960, except as may be specified in appropriation acts, required particular regard to be given for provisions in sale and loan agreements for the convertibility of such amount of the proceeds thereof as may be needed to carry out the purpose of this subsection in those countries which are or offer reasonable potential of becoming dollar markets for United States agricultural commodities, and permitted the entering into agreements for the sale of surplus agricultural commodities in such amounts as the Secretary of Agriculture determines to be adequate and for the use of the proceeds to carry out the purpose of this subsection in cases where sufficient foreign currencies for carrying out the purpose of this subsection in such countries are not otherwise available.
 
-Subsec. (b). Pub. L. 86–341, §5, among other changes, substituted “strategic or other materials” for “strategic and critical materials” in two places, limited purchases or contracts to purchase to such amounts as may be specified from time to time in appropriation acts, and eliminated provisions which authorized contracts, including advance payment contracts, for supply extending over periods up to ten years, and whichpermitted the strategic and critical materials acquired under authority of this subchapter to be additional to the amounts acquired under authority of the Strategic and Critical Materials Stockpile Act.
+Subsec. (b). Pub. L. 86–341, §5, among other changes, substituted “strategic or other materials” for “strategic and critical materials” in two places, limited purchases or contracts to purchase to such amounts as may be specified from time to time in appropriation acts, and eliminated provisions which authorized contracts, including advance payment contracts, for supply extending over periods up to ten years, and which permitted the strategic and critical materials acquired under authority of this subchapter to be additional to the amounts acquired under authority of the Strategic and Critical Materials Stockpile Act.
 
 Subsec. (k). Pub. L. 86–341, §6, authorized the use of foreign currencies to promote and support programs of medical and scientific research, cultural and educational development, health, nutrition, and sanitation.
 
@@ -253,8 +253,4 @@ Use of foreign currencies accruing under this subchapter to carry out purposes o
 #### Use of Foreign Currencies
 
 Foreign currencies accruing to United States under this subchapter may be used for purposes set forth in this section, see Ex. Ord. No. 12752, §2(b)(1), (2), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1703, 1856 of this title; title 50 section 98c.
 

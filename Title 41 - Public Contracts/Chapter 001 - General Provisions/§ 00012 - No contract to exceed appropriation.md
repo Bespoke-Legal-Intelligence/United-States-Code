@@ -8,7 +8,3 @@ No contract shall be entered into for the erection, repair, or furnishing of any
 
 R.S. §3733 derived from act July 25, 1868, ch. 233, §3, 15 Stat. 177.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 sections 277d–3, 2396.
-

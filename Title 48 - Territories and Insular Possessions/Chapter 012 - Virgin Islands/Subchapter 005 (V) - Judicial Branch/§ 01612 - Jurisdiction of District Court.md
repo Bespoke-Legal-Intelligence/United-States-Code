@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-The District Court of the Virgin Islands shall have the jurisdiction of a District Court of the United States, including, but not limited to, the diversity jurisdiction provided for in section 1332 of title 28 and that of a bankruptcy court of theUnited States. The District Court of the Virgin Islands shall have exclusive jurisdiction over all criminal and civil proceedings in the Virgin Islands with respect to the income tax laws applicable to the Virgin Islands, regardless of the degree of the offense or of the amount involved, except the ancillary laws relating to the income tax enacted by the legislature of the Virgin Islands. Any act or failure to act with respect to the income tax laws applicable to the Virgin Islands which would constitute a criminal offense described in chapter 75 of subtitle F of title 26 shall constitute an offense against the government of the Virgin Islands and may be prosecuted in the name of the government of the Virgin Islands by the appropriate officers thereof in the District Court of the Virgin Islands without the request or the consent of the United States attorney for the Virgin Islands, notwithstanding the provisions of section 1617 of this title.
+The District Court of the Virgin Islands shall have the jurisdiction of a District Court of the United States, including, but not limited to, the diversity jurisdiction provided for in section 1332 of title 28 and that of a bankruptcy court of the United States. The District Court of the Virgin Islands shall have exclusive jurisdiction over all criminal and civil proceedings in the Virgin Islands with respect to the income tax laws applicable to the Virgin Islands, regardless of the degree of the offense or of the amount involved, except the ancillary laws relating to the income tax enacted by the legislature of the Virgin Islands. Any act or failure to act with respect to the income tax laws applicable to the Virgin Islands which would constitute a criminal offense described in chapter 75 of subtitle F of title 26 shall constitute an offense against the government of the Virgin Islands and may be prosecuted in the name of the government of the Virgin Islands by the appropriate officers thereof in the District Court of the Virgin Islands without the request or the consent of the United States attorney for the Virgin Islands, notwithstanding the provisions of section 1617 of this title.
 
 #### (b) General jurisdiction; limitations
 
@@ -20,7 +20,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1984—Pub. L. 98–454 amended section generally, designating existing provisions as subsec. (a), substituted provisions that District Court would have all jurisdiction of a district court of the United States, including diversity jurisdiction and bankruptcy jurisdiction as well as civil and criminal matters regarding the income tax laws applicable to the Virgin Islands for former provisions conferring general jurisdiction on the court and providing for the transfer of cases, repealed section 336 of Pub. L. 95–598, which had amended this section, and added subsecs. (b) and (c).
 
@@ -37,8 +37,4 @@ Section 402(e) of Pub. L. 95–598, which provided a prospective effective date 
 #### Jurisdiction of District Court Over Pending Cases
 
 Section 703(b) of Pub. L. 98–454 provided that: “The provisions of this section \[amending this section\] shall not result in the loss of jurisdiction of the District Court of the Virgin Islands over any complaint or proceeding pending in it on the day preceding the effective date of this amendatory Act \[see Effective Date of 1984 Amendment note set out under section 1424 of this title\] and such complaint and proceeding may be pursued to final determination in the District Court of the Virgin Islands, the United States Court of Appeals for the Third Circuit, and the Supreme Court, notwithstanding the provisions of this amendatory Act \[Pub. L. 98–454\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1561, 1611, 1614 of this title.
 

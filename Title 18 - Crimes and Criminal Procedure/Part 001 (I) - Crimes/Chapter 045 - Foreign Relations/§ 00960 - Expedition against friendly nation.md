@@ -16,7 +16,3 @@ Reference to territory or possessions of the United States was omitted as covere
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $3,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 959, 1717 of this title; title 8 section 1227; title 22 sections 461, 465.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—GENERALLY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5661, 5678 of this title.
-
 
 ---
 

@@ -4,7 +4,3 @@ Whenever public lands of the United States have been or may be granted to any ra
 
 (Mar. 8, 1922, ch. 94, 42 Stat. 414.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 1248.
-

@@ -8,3 +8,7 @@ An officer who has completed 20 years of service, of which at least 10 years was
 
 Provisions similar to those in this section were contained in section 853<i>l</i> of this title prior to repeal by Pub. L. 107–372.
 
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of Commerce by section 1(f) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
+

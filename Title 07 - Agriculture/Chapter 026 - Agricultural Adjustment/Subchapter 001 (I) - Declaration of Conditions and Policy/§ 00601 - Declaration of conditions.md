@@ -42,7 +42,3 @@ Section 2 of act June 3, 1937, also added subsec. (j) to section 610.
 
 Section 2 of act June 3, 1937, was amended by act Aug. 5, 1937, ch. 567, 50 Stat. 563, which amending act provided for amendments to subsecs. (2) and (6) of section 608c of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 671, 672, 673, 1392 of this title.
-

@@ -18,7 +18,3 @@
 
 1993—Subsec. (d). Pub. L. 103–123 substituted “section 3628” for “section 3268”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3662 of this title.
-

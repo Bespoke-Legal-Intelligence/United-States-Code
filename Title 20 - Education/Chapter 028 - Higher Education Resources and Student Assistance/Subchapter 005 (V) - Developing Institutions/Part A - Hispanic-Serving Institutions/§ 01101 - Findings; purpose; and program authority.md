@@ -58,7 +58,3 @@ Pub. L. 102–325, title XIV, §1412, July 23, 1992, 106 Stat. 822, authorized S
 
 Pub. L. 102–325, title XV, §1531, July 23, 1992, 106 Stat. 834, authorized Secretary of Education to make grants to local education agencies, in consortia with one or more institutions of higher education, to establish programs to provide training and technical assistance to school-based decisionmakers in local education agencies implementing system-wide reform, prior to repeal by Pub. L. 105–332, §6(b)(3), Oct. 31, 1998, 112 Stat. 3128.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1103 of this title.
-

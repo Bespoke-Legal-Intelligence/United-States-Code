@@ -18,7 +18,3 @@ There are authorized to be appropriated to carry out this subchapter $2,086,000,
 
 &emsp;“(2) not more than $11,000,000 for fiscal year 1991, and $11,000,000 for fiscal year 1992, shall be for activities in support of State and local housing strategies authorized under part C of this subchapter.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12746, 12747 of this title.
-

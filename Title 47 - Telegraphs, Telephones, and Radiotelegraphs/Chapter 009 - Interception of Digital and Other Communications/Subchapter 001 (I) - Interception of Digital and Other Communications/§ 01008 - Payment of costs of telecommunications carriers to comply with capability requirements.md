@@ -80,7 +80,3 @@ If a carrier has requested payment in accordance with procedures promulgated pur
 
 The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 158, 1002, 1003, 1005, 1007, 1010, 1021 of this title.
-

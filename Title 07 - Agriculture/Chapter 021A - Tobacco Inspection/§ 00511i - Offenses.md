@@ -22,7 +22,3 @@ It shall be unlawful—
 
 (Aug. 23, 1935, ch. 623, §10, 49 Stat. 733.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 511k of this title.
-

@@ -54,7 +54,3 @@ Act Apr. 28, 1947, ch. 43, §2, 61 Stat. 55, provided:
 
 “(b) The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary to assure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen's Readjustment Act of 1944, as amended (58 Stat. 295).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 39 section 3202; title 42 section 655a.
-

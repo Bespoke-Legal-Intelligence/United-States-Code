@@ -1,6 +1,6 @@
 ### §8116. Nursing home revolving fund
 
-(a)(1) Amounts realized from a transfer pursuant to section 8122(a)(2)(C) of this title shall be administered as a revolving fund and shall be available without fiscal year limitation.
+(a)(1) Amounts realized from a transfer pursuant to section 8122(a)(2)(C) <sup>1</sup> of this title shall be administered as a revolving fund and shall be available without fiscal year limitation.
 
 (2) The revolving fund shall be deposited in a checking account with the Treasurer of the United States.
 
@@ -10,13 +10,23 @@
 
 (Added Pub. L. 100–322, title II, §205(a), May 20, 1988, 102 Stat. 512, §5016; renumbered §8116 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239.)
 
+#### Repeal of Section
+
+<i>Pub. L. 108–422, title IV, §411(c)(1),(f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that this section is repealed effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title.</i>
+
+#### References in Text
+
+Section 8122(a)(2) of this title, referred to in subsec. (a)(1), was amended generally by Pub. L. 108–422, title IV, §411(e)(1), Nov. 30, 2004, 118 Stat. 2389, and, as so amended, no longer contains a subpar. (C).
+
 #### Amendments
 
 1991—Pub. L. 102–40, §402(b)(1), renumbered section 5016 of this title as this section.
 
 Pub. L. 102–40, §402(d)(1), substituted “8122(a)(2)(C)” for “5022(a)(2)(C)” in subsec. (a)(1) and “8104(a)(2)” for “5004(a)(2)” in subsec. (b)(2).
 
-#### Section Referred to in Other Sections
+#### Effective Date of Repeal
 
-This section is referred to in section 8122 of this title.
+Repeal effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title, see section 411(f) of Pub. L. 108–422, set out as an Effective Date of 2004 Amendment note under section 1710B of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,3 @@
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3902, 3922 of this title.
-

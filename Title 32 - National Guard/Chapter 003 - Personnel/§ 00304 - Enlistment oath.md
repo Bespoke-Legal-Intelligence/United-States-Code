@@ -36,7 +36,3 @@ The words “or affirmation” are omitted as covered by the definition of the w
 
 Amendment by Pub. L. 87–751 not to effect any oath taken before one year after Oct. 5, 1962, see section 3 of Pub. L. 87–751, set out as a note under section 502 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 12107.
-

@@ -8,7 +8,3 @@ On or before January 1, 1978, the Secretary shall review the area within the sea
 
 1974—Pub. L. 93–477 substituted provisions authorizing review of area and report to the President by the Secretary with regard to suitability of area for preservation as wilderness for provisions authorizing appropriations.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459g–1, 459g–2, 459g–4, 459g–5, 459g–7 of this title.
-

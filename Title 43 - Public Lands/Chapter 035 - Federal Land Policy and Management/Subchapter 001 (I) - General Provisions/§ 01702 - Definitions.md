@@ -54,7 +54,3 @@ The general land laws, referred to in subsec. (j), are classified generally to t
 
 The Federal Property and Administrative Services Act, referred to in subsec. (j), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended, known as the Federal Property and Administrative Services Act of 1949, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works. Section 3(d) of the Act (former 40 U.S.C. 472(d)), which provided the definition of “property”, was repealed and reenacted as section 102(9) of Title 40.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1331, 1761, 1783, 1902, 2302 of this title; title 16 sections 410ii–3, 410ii–5, 460ccc, 460<i>ooo</i>, 460ppp–1, 5207, 6502; title 30 section 1028.
-

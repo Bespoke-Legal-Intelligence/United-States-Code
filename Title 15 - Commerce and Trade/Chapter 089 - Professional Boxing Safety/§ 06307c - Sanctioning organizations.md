@@ -2,7 +2,7 @@
 
 #### (a) Objective criteria
 
-Within 2 years after May 26, 2000, the Association of Boxing Commissions shall develop and shall approve by a vote of no less than a majority of its member State boxing commissioners,guidelines for objective and consistent written criteria for the ratings of professional boxers. It is the sense of the Congress that sanctioning bodies and State boxing commissions should follow these ABC guidelines.
+Within 2 years after May 26, 2000, the Association of Boxing Commissions shall develop and shall approve by a vote of no less than a majority of its member State boxing commissioners, guidelines for objective and consistent written criteria for the ratings of professional boxers. It is the sense of the Congress that sanctioning bodies and State boxing commissions should follow these ABC guidelines.
 
 #### (b) Appeals process
 
@@ -61,8 +61,4 @@ A sanctioning organization shall not be entitled to receive any compensation, di
 #### Prior Provisions
 
 A prior section 11 of Pub. L. 104–272 was renumbered section 19 and is classified to section 6310 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6309 of this title.
 

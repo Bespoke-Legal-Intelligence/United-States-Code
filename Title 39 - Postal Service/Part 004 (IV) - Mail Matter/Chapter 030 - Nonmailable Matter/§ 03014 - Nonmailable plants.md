@@ -6,7 +6,7 @@
 
 (b) Any plant, the transportation of which by common carrier from any State or other area is prohibited or restricted under any quarantine referred to in subsection (a), is nonmailable matter, and may not be accepted by the Postal Service or conveyed in the mails, if the matter involved is tendered for transmission through the mails from such State or area or if such matter first enters the mails within such State or area.
 
-(c) The Postal Service shall, after consultation with the Secretary of Agriculture, prescribe rules and regulations permitting the mailing of a plant, and otherwise making subsection (b) ofthis section inapplicable with respect to such plant, if the method or manner of mailing such plant would be consistent with the procedures set forth in the rules and regulations prescribed under the fourth sentence of section 8 of the Plant Quarantine Act (relating to the inspection, disinfection, and certification of, and other conditions for, the delivery and shipment of plants otherwise subject to quarantine).
+(c) The Postal Service shall, after consultation with the Secretary of Agriculture, prescribe rules and regulations permitting the mailing of a plant, and otherwise making subsection (b) of this section inapplicable with respect to such plant, if the method or manner of mailing such plant would be consistent with the procedures set forth in the rules and regulations prescribed under the fourth sentence of section 8 of the Plant Quarantine Act (relating to the inspection, disinfection, and certification of, and other conditions for, the delivery and shipment of plants otherwise subject to quarantine).
 
 (d) For the purposes of this section—
 
@@ -35,10 +35,6 @@ In General.—This Act and the amendments made by this Act \[enacting this secti
 “(b)
 
 Regulations.—Nothing in this section shall prevent the United States Postal Service from taking any action which may be necessary to prepare and issue, as soon as possible after the date of the enactment of this Act, any rules and regulations which the Postal Service is required to prescribe under any of the amendments made by this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 sections 1716B, 1716C.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

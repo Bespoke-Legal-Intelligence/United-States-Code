@@ -84,7 +84,7 @@ Each plan issued under this chapter shall contain the terms and conditions presc
 
 #### (C) Selection of nominees
 
-&emsp;&emsp;Each person referred to in subparagraph (B) shall have one vote. The 2 eligible candidates receiving the largest number of votes cast for each Board position for each class of members shall be the nominees for such position.
+&emsp;&emsp;Each person referred to in subparagraph (B) shall have one vote. The 2 eligible candidates receiving the largest number of votes cast for each Board position for eachclass of members shall be the nominees for such position.
 
 #### (D) Certification
 
@@ -314,15 +314,11 @@ The plan shall provide that the assessments collected under section 6007 of this
 
 #### (j) Other terms and conditions
 
-The plan also shall contain such terms and conditions, not inconsistent with this chapter,as determined necessary by the Secretary to effectuate this chapter.
+The plan also shall contain such terms and conditions, not inconsistent with this chapter, as determined necessary by the Secretary to effectuate this chapter.
 
 (Pub. L. 101–624, title XIX, §1910, Nov. 28, 1990, 104 Stat. 3841; Pub. L. 102–237, title VIII, §802(2), Dec. 13, 1991, 105 Stat. 1882.)
 
 #### Amendments
 
 1991—Subsec. (b)(8)(G). Pub. L. 102–237 substituted “subparagraphs (A), (B), and (C) of paragraph (3),” for “paragraph 3(A), (B), and (C),” and “subparagraphs (D) and (E) of paragraph (3)” for “paragraph (3)(D) and (E)”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6002 of this title.
 

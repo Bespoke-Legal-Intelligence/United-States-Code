@@ -1,9 +1,5 @@
 ### SUBCHAPTER XI—AQUACULTURE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3103 of this title.
-
 
 ---
 

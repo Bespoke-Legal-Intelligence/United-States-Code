@@ -8,7 +8,3 @@ Any proposal with respect to the construction of a project which has theretofore
 
 The Federal reclamation laws, referred to in text, are defined in section 422b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 422d of this title.
-

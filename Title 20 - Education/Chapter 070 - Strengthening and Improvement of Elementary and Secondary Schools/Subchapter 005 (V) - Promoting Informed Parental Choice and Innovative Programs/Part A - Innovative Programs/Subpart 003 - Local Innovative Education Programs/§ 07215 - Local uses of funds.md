@@ -2,7 +2,7 @@
 
 #### (a) Innovative assistance programs
 
-Funds made available to local educational agencies under section 7211a of this title shall beused for innovative assistance programs, which may include any of the following:
+Funds made available to local educational agencies under section 7211a of this title shall be used for innovative assistance programs, which may include any of the following:
 
 &emsp;(1) Programs to recruit, train, and hire highly qualified teachers to reduce class size, especially in the early grades, and professional development activities carried out in accordance with subchapter II of this chapter, that give teachers, principals, and administrators the knowledge and skills to provide students with the opportunity to meet challenging State or local academic content standards and student academic achievement standards.
 
@@ -77,10 +77,6 @@ Not later than 120 days after January 8, 2002, the Secretary shall issue guideli
 #### Prior Provisions
 
 A prior section 5131 of Pub. L. 89–10 was classified to section 3211 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7213, 7213a, 7215b of this title.
 
 <i><sup>1</sup></i><i> So in original. Pub. L. 89–10 does not contain a section 9507.</i>
 

@@ -210,7 +210,3 @@ Amendment by Pub. L. 90–207 effective Oct. 1, 1967, see section 7 of Pub. L. 9
 
 Amendment by Pub. L. 89–26 effective Feb. 1, 1965, see section 2 of Pub. L. 89–26, as amended, set out as an Effective Date note under section 405a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 411, 420, 1003, 1006 of this title.
-

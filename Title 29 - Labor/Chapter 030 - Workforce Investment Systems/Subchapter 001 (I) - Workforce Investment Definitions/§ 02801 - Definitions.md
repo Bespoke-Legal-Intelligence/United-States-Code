@@ -194,7 +194,7 @@ In this chapter:
 
 #### (26) Nontraditional employment
 
-&emsp;The term “nontraditional employment” refers to occupations or fields of work for which individuals from one gender comprise less than 25 percent of the individuals employed in each such occupation or field of work.
+&emsp;The term “nontraditional employment” refers to occupations or fields of work for whichindividuals from one gender comprise less than 25 percent of the individuals employed in each such occupation or field of work.
 
 #### (27) Offender
 
@@ -260,7 +260,7 @@ In this chapter:
 
 #### (38) Rapid response activity
 
-&emsp;The term “rapid response activity” means an activity provided by a State, or by an entity designated by a State, with funds provided by the State under section 2864(a)(1)(A)of this title, in the case of a permanent closure or mass layoff at a plant, facility, or enterprise, or a natural or other disaster, that results in mass job dislocation, in order to assist dislocated workers in obtaining reemployment as soon as possible, with services including—
+&emsp;The term “rapid response activity” means an activity provided by a State, or by an entity designated by a State, with funds provided by the State under section 2864(a)(1)(A) of this title, in the case of a permanent closure or mass layoff at a plant, facility, or enterprise, or a natural or other disaster, that results in mass job dislocation, in order to assist dislocated workers in obtaining reemployment as soon as possible, with services including—
 
 &emsp;&emsp;(A) the establishment of onsite contact with employers and employee representatives—
 
@@ -449,8 +449,4 @@ Sec. 3. <i>Effect on Prior Orders.</i>
 (b) <i>Revocation of Executive Order 13174</i>. Executive Order 13174 of October 27, 2000, relating to the establishment of the Commission on Workers, Communities, and Economic Change in the New Economy, is revoked.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 705 of this title; title 19 section 2271; title 20 sections 9202, 9272; title 42 sections 603, 9908.
 

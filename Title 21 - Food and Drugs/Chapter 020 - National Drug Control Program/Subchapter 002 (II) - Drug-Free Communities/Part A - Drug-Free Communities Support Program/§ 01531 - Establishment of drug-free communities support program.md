@@ -24,7 +24,3 @@ The Director may employ any necessary staff and may enter into contracts or agre
 
 (Pub. L. 100–690, title I, §1031, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 226.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1523, 1535 of this title.
-

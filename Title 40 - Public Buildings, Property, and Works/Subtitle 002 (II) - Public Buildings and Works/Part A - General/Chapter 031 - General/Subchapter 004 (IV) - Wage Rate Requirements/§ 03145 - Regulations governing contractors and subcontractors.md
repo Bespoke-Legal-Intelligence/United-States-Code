@@ -30,7 +30,3 @@ June 13, 1934, ch. 482, §2, 48 Stat. 948; May 24, 1949, ch. 139, §134, 63 Stat
 
 40:276c (last sentence).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3703, 14701 of this title; title 20 sections 954, 956, 1232b, 4305, 4332; title 25 sections 450e, 450j, 458aaa–8; title 31 section 6703; title 33 section 1372; title 39 section 410; title 42 sections 291e, 300j–9, 300s–1, 300t–12, 1440, 1486, 1592i, 2297g–3, 2992a, 3107, 3212, 5046, 5196, 5310, 5919, 6371j, 6708, 6728, 6881, 6979, 7614, 9604; title 49 section 5333.
-

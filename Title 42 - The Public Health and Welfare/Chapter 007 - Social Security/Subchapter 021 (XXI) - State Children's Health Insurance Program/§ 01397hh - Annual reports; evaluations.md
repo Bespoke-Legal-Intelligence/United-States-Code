@@ -88,7 +88,7 @@ The State shall—
 
 &emsp;&emsp;(A) determine the number, if any, of enrollees under the plan under this subchapter who are eligible for medical assistance under subchapter XIX of this chapter (other than as optional targeted low-income children under section 1396a(a)(10)(A)(ii)(XIV) of this title); and
 
-&emsp;&emsp;(B) assess the progress made in reducing the number of uncovered low-income children, including the progress made to achieve the strategic objectives and performance goals included in the State child health plan under section 1397gg(a) of this title.
+&emsp;&emsp;(B) assess the progress made in reducing the number of uncovered low-income children, including the progress made to achievethe strategic objectives and performance goals included in the State child health plan under section 1397gg(a) of this title.
 
 #### (2) State described
 
@@ -103,8 +103,4 @@ The State shall—
 #### Amendments
 
 1999—Subsecs. (c), (d). Pub. L. 106–113 added subsecs. (c) and (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1397gg of this title.
 

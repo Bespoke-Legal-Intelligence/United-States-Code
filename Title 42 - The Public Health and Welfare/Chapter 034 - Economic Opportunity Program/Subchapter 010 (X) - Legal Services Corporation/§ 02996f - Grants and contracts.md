@@ -134,7 +134,7 @@ Section 2809 of this title, referred to in subsec. (c), was repealed by Pub. L. 
 
 Subsec. (a)(2)(C). Pub. L. 95–222, §9(b)(1), expanded existing provisions by requiring the Corporation to establish procedures for determining and implementing priorities and criteria for such priorities, and inserted provisions relating to appropriate training and support services.
 
-Subsec. (a)(5). Pub. L. 95–222, §9(c), in introductory text inserted prohibition relating to influencing the passage or defeat of State proposals by initiative referendum, in subpar. (A) substituted provisions relating to representation by an employee of a recipient for anyeligible client, for provisions relating to representation by an attorney as attorney for any eligible client, and in subpar. (B) designated existing provision as cl. (i), inserted exception for testifying, drafting, or reviewing measures, and added cl. (ii).
+Subsec. (a)(5). Pub. L. 95–222, §9(c), in introductory text inserted prohibition relating to influencing the passage or defeat of State proposals by initiative referendum, in subpar. (A) substituted provisions relating to representation by an employee of a recipient for any eligible client, for provisions relating to representation by an attorney as attorney for any eligible client, and in subpar. (B) designated existing provision as cl. (i), inserted exception for testifying, drafting, or reviewing measures, and added cl. (ii).
 
 Subsec. (a)(6). Pub. L. 95–222, §7(b), struck out provisions relating to prohibitions against political activities by staff attorneys of the types described under cls. (B) and (C) of this par. and section 1502(a) of title 5.
 
@@ -167,10 +167,6 @@ Pub. L. 101–515, title VI, §607 (part), Nov. 5, 1991, 104 Stat. 2153, provide
 Pub. L. 101–162, title VI, §608 (part), Nov. 21, 1989, 103 Stat. 1036, provided: “That none of the funds appropriated under this Act or under any prior Acts for the Legal Services Corporation shall be used to consider, develop, or implement any system for the competitive award of grants or contracts until such action is authorized pursuant to a majority vote of a Board of Directors of the Legal Services Corporation composed of eleven individuals nominated by the President after January 20, 1989, and subsequently confirmed by the United States Senate, except that nothing herein shall prohibit the Corporation Board, members, or staff from engaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, and that nothing herein shall apply to any competitive awards program currently in existence; subsequent to confirmation such new Board of Directors shall develop and implement a proposed system for the competitive award of all grants and contracts”.
 
 Pub. L. 100–459, title VI, §605, Oct. 1, 1988, 102 Stat. 2227, provided: “That a Board of Directors of the Legal Services Corporation, composed of individuals nominated by the President after January 20, 1989 and subsequently confirmed by the United States Senate, shall develop and implement a system for the competitive award of all grants and contracts, including support centers, to take effect after September 30, 1989.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2996e, 2996g of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,7 @@ The information collected in each census taken under this section shall relate t
 
 #### (2) Refusal or neglect to answer questions
 
-&emsp;A person over 18 years of age who refuses or willfully neglects to answer a question, which is authorized by the Secretary to be submitted to the person in connection with a census under this section, shall be fined not more than $100.
+&emsp;A person over 18 years of age who refuses or willfully neglects to answer a question, which is authorized by the Secretary to be submittedto the person in connection with a census under this section, shall be fined not more than $100.
 
 #### (3) Social Security number
 
@@ -63,8 +63,4 @@ A regulation necessary to carry out this section may be promulgated by—
 &emsp;(2) the Secretary of Commerce, to the extent that a matter under the jurisdiction of the Secretary of Commerce is involved.
 
 (Pub. L. 105–113, §2, Nov. 21, 1997, 111 Stat. 2274.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2276 of this title.
 

@@ -36,9 +36,9 @@
 
 &emsp;(A) be determined on the basis of the income of the individual and the eligible spouse, if any, of such individual and other relevant circumstances in such month; and
 
-&emsp;(B) in the case of the month in which an application becomes effective or the first month following a period of ineligibility, if such application becomes effective, or eligibility is restored, after the first day of such month, bear the same ratio to the amount of the benefit which would have been payable to such individual if such application had become effective, or eligibility had been restored, on the first day of such month as the number of days in such month including and following the effective date of such application or restoration of eligibility bears to the total number of days in such month.
+&emsp;(B) in the case of the first month following a period of ineligibility in which eligibility is restored after the first day of such month, bear the same ratio to the amount of the benefit which would have been payable to such individual if eligibility had been restored on the first day of such month as the number of days in such month including and following the date of restoration of eligibility bears to the total number of days in such month.
 
-(3) For purposes of this subsection, an increase in the benefit amount payable under subchapter II of this chapter (over the amount payable in the preceding month, or, at the election of theCommissioner of Social Security, the second preceding month) to an individual receiving benefits under this subchapter shall be included in the income used to determine the benefit under this subchapter of such individual for any month which is—
+(3) For purposes of this subsection, an increase in the benefit amount payable under subchapter II of this chapter (over the amount payable in the preceding month, or, at the election of the Commissioner of Social Security, the second preceding month) to an individual receiving benefits under this subchapter shall be included in the income used to determine the benefit under this subchapter of such individual for any month which is—
 
 &emsp;(A) the first month in which the benefit amount payable to such individual under this title is increased pursuant to section 1382f of this title, or
 
@@ -46,7 +46,7 @@
 
 (4)(A) Notwithstanding paragraph (3), if the Commissioner of Social Security determines that reliable information is currently available with respect to the income and other circumstances of an individual for a month (including information with respect to a class of which such individual is a member and information with respect to scheduled cost-of-living adjustments under other benefit programs), the benefit amount of such individual under this subchapter for such month may be determined on the basis of such information.
 
-(B) The Commissioner of Social Security shall prescribe by regulation the circumstances in which information with respect to an event may be taken into account pursuant to subparagraph (A) in determining benefit amounts under this subchapter.
+(B) The Commissioner of Social Security shall prescribe by regulation the circumstances inwhich information with respect to an event may be taken into account pursuant to subparagraph (A) in determining benefit amounts under this subchapter.
 
 (5) Notwithstanding paragraphs (1) and (2), any income which is paid to or on behalf of an individual in any month pursuant to (A) a State program funded under part A of subchapter IV of this chapter, (B) section 672 of this title (relating to foster care assistance), (C) section 1522(e) of title 8 (relating to assistance for refugees), (D) section 501(a) of Public Law 96-422 (relating to assistance for Cuban and Haitian entrants), or (E) section 13 of title 25 (relating to assistance furnished by the Bureau of Indian Affairs), shall be taken into account in determining the amount of the benefit under this subchapter of such individual (and his eligible spouse, if any) only for that month, and shall not be taken into account in determining the amount of the benefit for any other month.
 
@@ -59,6 +59,12 @@
 &emsp;(B) the first day of the month following the date such individual becomes eligible for such benefits with respect to such application.
 
 (8) The Commissioner of Social Security may waive the limitations specified in subparagraphs (A) and (B) of subsection (e)(1) of this section on an individual's eligibility and benefit amount for a month (to the extent either such limitation is applicable by reason of such individual's presence throughout such month in a hospital, extended care facility, nursing home, or intermediate care facility) if such waiver would promote the individual's removal from such institution or facility. Upon waiver of such limitations, the Commissioner of Social Security shall apply, to the month preceding the month of removal, or, if the Commissioner of Social Security so determines, the two months preceding the month of removal, the benefit rate that is appropriate to such individual's living arrangement subsequent to his removal from such institution or facility.
+
+(9)(A) Notwithstanding paragraphs (1) and (2), any nonrecurring income which is paid to an individual in the first month of any period of eligibility shall be taken into account in determining the amount of the benefit under this subchapter of such individual (and his eligible spouse, if any) only for that month, and shall not be taken into account in determining the amount of the benefit for any other month.
+
+(B) For purposes of subparagraph (A), payments to an individual in varying amounts from the same or similar source for the same or similar purpose shall not be considered to be nonrecurring income.
+
+(10) For purposes of this subsection, remuneration for service performed as a member of a uniformed service may be treated as received in the month in which it was earned, if the Commissioner of Social Security determines that such treatment would promote the economical and efficient administration of the program authorized by this subchapter.
 
 #### (d) Limitation on amount of gross income earned; “gross income” defined
 
@@ -80,7 +86,7 @@ The Commissioner of Social Security may prescribe the circumstances under which,
 
 &emsp;(iii) at a rate not in excess of $720 per year (reduced by the amount of any income not excluded pursuant to section 1382a(b) of this title) in the case of an individual who has an eligible spouse, if both of them are in such a facility throughout such month.
 
-> For purposes of this subsection, a medical treatment facility that provides services described in section 1396p(c)(1)(C) of this title shall be considered to be receiving payments with respect to an individual under a State plan approved under subchapter XIX of this chapter during any period of ineligibility of such individual provided for under the State plan pursuant to section 1396p(c) of this title.
+> For purposes of this subsection, a medical treatment facility that provides services described insection 1396p(c)(1)(C) of this title shall be considered to be receiving payments with respect to an individual under a State plan approved under subchapter XIX of this chapter during any period of ineligibility of such individual provided for under the State plan pursuant to section 1396p(c) of this title.
 
 (C) As used in subparagraph (A), the term “public institution” does not include a publicly operated community residence which serves no more than 16 residents.
 
@@ -114,7 +120,7 @@ The Commissioner of Social Security may prescribe the circumstances under which,
 
 &emsp;(I) the institution shall provide to the Commissioner, on a monthly basis and in a manner specified by the Commissioner, the names, social security account numbers, dates of birth, confinement commencement dates, and, to the extent available to the institution, such other identifying information concerning the inmates of the institution as the Commissioner may require for the purpose of carrying out this paragraph and the other provisions of this subchapter; and
 
-&emsp;(II) the Commissioner shall pay to any such institution, with respect to each individual who receives in the month preceding the first month throughout which such individual is an inmate of the jail, prison, penal institution, or correctional facility that furnishes information respecting such individual pursuant to subclause (I), or is confined in the institution (that so furnishes such information) as described in section 402(x)(1)(A)(ii) of this title, a benefit under this subchapter for such preceding month, and who is determined by the Commissioner to be ineligible for benefits under this subchapter by reason of confinement based on the information provided by such institution, $400 (subject to reduction under clause (ii)) if the institution furnishes the information described in subclause (I) to the Commissioner within 30 days after the date such individual becomes an inmate of such institution, or $200 (subject to reduction under clause (ii)) if the institution furnishes such information after 30 days after such date but within 90 days after such date.
+&emsp;(II) the Commissioner shall pay to any such institution, with respect to each individual who receives in the month preceding the first month throughout which such individual is an inmate of the jail, prison, penal institution, or correctional facility that furnishes information respecting such individual pursuant to subclause (I), or is confined in the institution (that so furnishes such information) as described in section 402(x)(1)(A)(ii) of this title, a benefit under this subchapter for such preceding month, and who is determined by the Commissioner to be ineligible for benefits under this subchapter by reason of confinement based on the information provided by such institution, $400 (subject to reduction under clause (ii)) if the institution furnishes the information described in subclause (I) to the Commissioner within 30 days after the date such individual becomes an inmate of such institution, or $200 (subject to reduction underclause (ii)) if the institution furnishes such information after 30 days after such date but within 90 days after such date.
 
 (ii) The dollar amounts specified in clause (i)(II) shall be reduced by 50 percent if the Commissioner is also required to make a payment to the institution with respect to the same individual under an agreement entered into under section 402(x)(3)(B) of this title.
 
@@ -128,25 +134,33 @@ The Commissioner of Social Security may prescribe the circumstances under which,
 
 (3) Notwithstanding anything to the contrary in the criteria being used by the Commissioner of Social Security in determining when a husband and wife are to be considered two eligible individuals for purposes of this subchapter and when they are to be considered an eligible individual with an eligible spouse, the State agency administering or supervising the administration of a State plan under any other program under this chapter may (in the administration of such plan) treat a husband and wife living in the same medical treatment facility described in paragraph (1)(B) as though they were an eligible individual with his or her eligible spouse for purposes of this subchapter (rather than two eligible individuals), after they have continuously lived in the same such facility for 6 months, if treating such husband and wife as two eligible individuals would prevent either of them from receiving benefits or assistance under such plan or reduce the amount thereof.
 
-(4) No person shall be considered an eligible individual or eligible spouse for purposes of this subchapter with respect to any month if during such month the person is—
+(4)(A) No person shall be considered an eligible individual or eligible spouse for purposes of this subchapter with respect to any month if during such month the person is—
 
-&emsp;(A) fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which the person flees, for a crime, or an attempt to commit a crime, which is a felony under the laws of the place from which the person flees, or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State; or
+&emsp;(i) fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which the person flees, for a crime, or an attempt to commit a crime, which is a felony under the laws of the place from which the person flees, or, in jurisdictions that do not define crimes as felonies, is punishable by death or imprisonment for a term exceeding 1 year regardless of the actual sentence imposed; or
 
-&emsp;(B) violating a condition of probation or parole imposed under Federal or State law.
+&emsp;(ii) violating a condition of probation or parole imposed under Federal or State law.
+
+(B) Notwithstanding subparagraph (A), the Commissioner shall, for good cause shown, treat the person referred to in subparagraph (A) as an eligible individual or eligible spouse if the Commissioner determines that—
+
+&emsp;(i) a court of competent jurisdiction has found the person not guilty of the criminal offense, dismissed the charges relating to the criminal offense, vacated the warrant for arrest of the person for the criminal offense, or issued any similar exonerating order (or taken similar exonerating action), or
+
+&emsp;(ii) the person was erroneously implicated in connection with the criminal offense by reason of identity fraud.
+
+(C) Notwithstanding subparagraph (A), the Commissioner may, for good cause shown based on mitigating circumstances, treat the person referred to in subparagraph (A) as an eligible individual or eligible spouse if the Commissioner determines that—
+
+&emsp;(i) the offense described in subparagraph (A)(i) or underlying the imposition of the probation or parole described in subparagraph (A)(ii) was nonviolent and not drug-related, and
+
+&emsp;(ii) in the case of a person who is not considered an eligible individual or eligible spouse pursuant to subparagraph (A)(ii), the action that resulted in the violation of a condition of probation or parole was nonviolent and not drug-related.
 
 (5) Notwithstanding any other provision of law (other than section 6103 of the Internal Revenue Code of 1986 and section 1306(c) of this title), the Commissioner shall furnish any Federal, State, or local law enforcement officer, upon the written request of the officer, with the current address, Social Security number, and photograph (if applicable) of any recipient of benefits under this subchapter, if the officer furnishes the Commissioner with the name of the recipient, and other identifying information as reasonably required by the Commissioner to establish the unique identity of the recipient, and notifies the Commissioner that—
 
-&emsp;(A) the recipient—
-
-&emsp;&emsp;(i) is described in subparagraph (A) or (B) of paragraph (4); and
-
-&emsp;&emsp;(ii) has information that is necessary for the officer to conduct the officer's official duties; and
+&emsp;(A) the recipient is described in clause (i) or (ii) of paragraph (4)(A); and
 
 &emsp;(B) the location or apprehension of the recipient is within the officer's official duties.
 
 #### (f) Individuals outside United States; determination of status
 
-(1) Notwithstanding any other provision of this subchapter, no individual (other than a child described in section 1382c(a)(1)(B)(ii) of this title) shall be considered an eligible individual for purposes of this subchapter for any month during all of which such individual is outside the United States (and no person shall be considered the eligible spouse of an individual for purposes of this subchapter with respect to any month during all of which such person is outside the United States). For purposes of the preceding sentence, after an individual has been outside the United States for any period of 30 consecutive days, he shall be treated as remaining outside the United States until he has been in the United States for a period of 30 consecutive days.
+(1) Notwithstanding any other provision of this subchapter, no individual (other than a child described in section 1382c(a)(1)(B)(ii) of this title) shall be considered an eligible individual for purposes of this subchapter for anymonth during all of which such individual is outside the United States (and no person shall be considered the eligible spouse of an individual for purposes of this subchapter with respect to any month during all of which such person is outside the United States). For purposes of the preceding sentence, after an individual has been outside the United States for any period of 30 consecutive days, he shall be treated as remaining outside the United States until he has been in the United States for a period of 30 consecutive days.
 
 (2) For a period of not more than 1 year, the first sentence of paragraph (1) shall not apply to any individual who—
 
@@ -194,13 +208,13 @@ In determining eligibility for, and the amount of, benefits payable under this s
 
 For application and review requirements affecting the eligibility of certain individuals, see section 1383(j) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1611, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1466; amended Pub. L. 93–66, title II, §210(a), (b), July 9, 1973, 87 Stat. 154; Pub. L. 93–233, §§4(b)(1), (2), 18(d), (e), Dec. 31, 1973, 87 Stat. 953, 968; Pub. L. 93–368, §6(a), Aug. 7, 1974, 88 Stat. 421; Pub. L. 94–566, title V, §§502, 505(a), Oct. 20, 1976, 90 Stat. 2685, 2686; Pub. L. 96–265, title III, §303(c)(2), June 9, 1980, 94 Stat. 453; Pub. L. 97–35, title XXIII, §2341(a), Aug. 13, 1981, 95 Stat. 865; Pub. L. 97–248, title I, §§181(a), 183(a), Sept. 3, 1982, 96 Stat. 404, 405; Pub. L. 98–21, title IV, §403(a), Apr. 20, 1983, 97 Stat. 140; Pub. L. 98–369, div. B, title VI, §§2611(a)–(c), 2663(g)(1), (2), July 18, 1984, 98 Stat. 1130, 1168; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–643, §§3(a), 4(c)(3), (d)(1), 9(a), Nov. 10, 1986, 100 Stat. 3574, 3577, 3579; Pub. L. 100–203, title IX, §§9106(a), 9107, 9113(a), 9115(a), 9119(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–302, 1330–304, 1330–308; Pub. L. 100–360, title III, §303(c)(2), July 1, 1988, 102 Stat. 762; Pub. L. 101–239, title VIII, §§8009(a), 8010(b), Dec. 19, 1989, 103 Stat. 2463, 2464; Pub. L. 103–66, title XIII, §13735(a), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), title II, §§201(b)(3)(A), (B)(i), 204(a), Aug. 15, 1994, 108 Stat. 1478, 1502, 1504, 1508; Pub. L. 104–121, title I, §105(b)(4)(A), Mar. 29, 1996, 110 Stat. 854; Pub. L. 104–193, title I, §108(j), title II, §§201(a), 202(a), (b), 203(a)(1), 204(a), 214(a), Aug. 22, 1996, 110 Stat. 2169, 2185–2187, 2195; Pub. L. 105–33, title V, §§5521, 5522(c), Aug. 5, 1997, 111 Stat. 621, 623; Pub. L. 106–169, title II, §§204, 207(c), 212, Dec. 14, 1999, 113 Stat. 1833, 1838, 1843; Pub. L. 106–170, title IV, §402(a)(3), (c)(1)–(3), Dec. 17, 1999, 113 Stat. 1908, 1909.)
+(Aug. 14, 1935, ch. 531, title XVI, §1611, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1466; amended Pub. L. 93–66, title II, §210(a), (b), July 9, 1973, 87 Stat. 154; Pub. L. 93–233, §§4(b)(1), (2), 18(d), (e), Dec. 31, 1973, 87 Stat. 953, 968; Pub. L. 93–368, §6(a), Aug. 7, 1974, 88 Stat. 421; Pub. L. 94–566, title V, §§502, 505(a), Oct. 20, 1976, 90 Stat. 2685, 2686; Pub. L. 96–265, title III, §303(c)(2), June 9, 1980, 94 Stat. 453; Pub. L. 97–35, title XXIII, §2341(a), Aug. 13, 1981, 95 Stat. 865; Pub. L. 97–248, title I, §§181(a), 183(a), Sept. 3, 1982, 96 Stat. 404, 405; Pub. L. 98–21, title IV, §403(a), Apr. 20, 1983, 97 Stat. 140; Pub. L. 98–369, div. B, title VI, §§2611(a)–(c), 2663(g)(1), (2), July 18, 1984, 98 Stat. 1130, 1168; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–643, §§3(a), 4(c)(3), (d)(1), 9(a), Nov. 10, 1986, 100 Stat. 3574, 3577, 3579; Pub. L. 100–203, title IX, §§9106(a), 9107, 9113(a), 9115(a), 9119(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–302, 1330–304, 1330–308; Pub. L. 100–360, title III, §303(c)(2), July 1, 1988, 102 Stat. 762; Pub. L. 101–239, title VIII, §§8009(a), 8010(b), Dec. 19, 1989, 103 Stat. 2463, 2464; Pub. L. 103–66, title XIII, §13735(a), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), title II, §§201(b)(3)(A), (B)(i), 204(a), Aug. 15, 1994, 108 Stat. 1478, 1502, 1504, 1508; Pub. L. 104–121, title I, §105(b)(4)(A), Mar. 29, 1996, 110 Stat. 854; Pub. L. 104–193, title I, §108(j), title II, §§201(a), 202(a), (b), 203(a)(1), 204(a), 214(a), Aug. 22, 1996, 110 Stat. 2169, 2185–2187, 2195; Pub. L. 105–33, title V, §§5521, 5522(c), Aug. 5, 1997, 111 Stat. 621, 623; Pub. L. 106–169, title II, §§204, 207(c), 212, Dec. 14, 1999, 113 Stat. 1833, 1838, 1843; Pub. L. 106–170, title IV, §402(a)(3), (c)(1)–(3), Dec. 17, 1999, 113 Stat. 1908, 1909; Pub. L. 108–203, title II, §203(b), title IV, §§433(a), (b), 436(a), Mar. 2, 2004, 118 Stat. 510, 539–541.)
 
 #### References in Text
 
 Part A of subchapter IV of this chapter, referred to in subsec. (c)(5), is classified to section 601 et seq. of this title.
 
-Section 501(a) of Public Law 96–422, referred to in subsec. (c)(5), is section 501(a) of Pub. L. 96–422, which is set out as a note under section 1522 of Title 8, Aliens and Nationality.
+Section 501(a) of Public Law 96–422, referred to in subsec. (c)(5), is section 501(a) of Pub. L. 96–422, which isset out as a note under section 1522 of Title 8, Aliens and Nationality.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (d) and (e)(5), is classified generally to Title 26, Internal Revenue Code.
 
@@ -208,9 +222,27 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Prior Provisions
 
-A prior section 1382, act Aug. 14, 1935, ch. 531, title XVI, §1602, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 198; amended Oct. 13, 1964, Pub. L. 88–650, §5(b), 78 Stat. 1078; July 30, 1965, Pub. L. 89–97,title II, §221(d)(3), title IV, §403(e), 79 Stat. 358, 418; Jan. 2, 1968, Pub. L. 90–248, title II, §§210(a)(5), 213(a)(4), 241(d), 81 Stat. 896, 898, 917; Oct. 30, 1972, Pub. L. 92–603, title IV, §§405(d), 406(d), 407(d), 410(d), 413(d), 86 Stat. 1488, 1489, 1491, 1492, set forth required contents of State plans for aid to aged, blind, or disabled, and for medical assistance for aged, prior to the general amendment of title XVI of the Social Security Act by Pub. L. 92–603, §301, but is set out as a note below in view of its continued applicability to Puerto Rico, Guam, and the Virgin Islands.
+A prior section 1382, act Aug. 14, 1935, ch. 531, title XVI, §1602, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 198; amended Oct. 13, 1964, Pub. L. 88–650, §5(b), 78 Stat. 1078; July 30, 1965, Pub. L. 89–97, title II, §221(d)(3), title IV, §403(e), 79 Stat. 358, 418; Jan. 2, 1968, Pub. L. 90–248, title II, §§210(a)(5), 213(a)(4), 241(d), 81 Stat. 896, 898, 917; Oct. 30, 1972, Pub. L. 92–603, title IV, §§405(d), 406(d), 407(d), 410(d), 413(d), 86 Stat. 1488, 1489, 1491, 1492, set forth required contents of State plans for aid to aged, blind, or disabled, and for medical assistance for aged, prior to the general amendment of title XVI of the Social Security Act by Pub. L. 92–603, §301, but is set out as a note below in view of its continued applicability to Puerto Rico, Guam, and the Virgin Islands.
 
 #### Amendments
+
+2004—Subsec. (c)(2)(B). Pub. L. 108–203, §433(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of the month in which an application becomes effective or the first month following a period of ineligibility, if such application becomes effective, or eligibility is restored, after the first day of such month, bear the same ratio to the amount of the benefit which would have been payable to such individual if such application had become effective, or eligibility had been restored, on the first day of such month as the number of days in such month including and following the effective date of such application or restoration of eligibility bears to the total number of days in such month.”
+
+Subsec. (c)(9). Pub. L. 108–203, §433(a), added par. (9).
+
+Subsec. (c)(10). Pub. L. 108–203, §436(a), added par. (10).
+
+Subsec. (e)(4). Pub. L. 108–203, §203(b)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), in cl. (i), substituted “or, in jurisdictions that do not define crimes as felonies, is punishable by death or imprisonment for a term exceeding 1 year regardless of the actual sentence imposed” for “or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State”, and added subpars. (B) and (C).
+
+Subsec. (e)(5)(A), (B). Pub. L. 108–203, §203(b)(2), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) the recipient—
+
+&emsp;“(i) is described in subparagraph (A) or (B) of paragraph (4); and
+
+&emsp;“(ii) has information that is necessary for the officer to conduct the officer's official duties; and
+
+“(B) the location or apprehension of the recipient is within the officer's official duties.”
 
 1999—Subsec. (e)(1)(G). Pub. L. 106–169, §212(b), substituted “subparagraph (H) or (J)” for “subparagraph (H)” in introductory provisions.
 
@@ -252,7 +284,7 @@ Subsec. (e)(1)(B)(ii). Pub. L. 105–33, §5522(c)(1)(B), struck out “hospital
 
 Subsec. (e)(1)(B)(iii). Pub. L. 105–33, §5522(c)(1)(C), struck out “hospital, home, or” before “facility”.
 
-Subsec. (e)(1)(E)(i)(II), (iii). Pub. L. 105–33, §5522(c)(2), substituted “medical treatment facility” for “hospital, extended care facility, nursing home, or intermediate care facility”.
+Subsec. (e)(1)(E)(i)(II), (iii). Pub. L. 105–33, §5522(c)(2), substituted “medical treatment facility” for “hospital,extended care facility, nursing home, or intermediate care facility”.
 
 Subsec. (e)(1)(G). Pub. L. 105–33, §5522(c)(3), substituted “or is in a medical treatment” for “or which is a hospital, extended care facility, nursing home, or intermediate care” and inserted “or, in the case of an individual who is a child under the age of 18, under any health insurance policy issued by a private provider of such insurance” after “subchapter XIX of this chapter”.
 
@@ -390,6 +422,14 @@ Subsec. (g). Pub. L. 93–233, §18(d), incorporated existing provisions in text
 
 Subsec. (h). Pub. L. 93–233, §18(e), incorporated existing text in provisions designated as cls. (1) and (2), added cls. (3) and (4), redesignated former cls. (1) and (2) as items (A) and (B), and in item (A) inserted “under which he or they received such aid or assistance for December 1973”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by section 203(b) of Pub. L. 108–203 effective on the first day of the first month that begins on or after the date that is 9 months after Mar. 2, 2004, see section 203(d) of Pub. L. 108–203, set out as a note under section 402 of this title.
+
+Pub. L. 108–203, title IV, §433(c), Mar. 2, 2004, 118 Stat. 540, provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to benefits payable for months that begin on or after 1 year after the date of enactment of this Act \[Mar. 2, 2004\].”
+
+Pub. L. 108–203, title IV, §436(b), Mar. 2, 2004, 118 Stat. 541, provided that: “The amendments made by this section \[amending this section\] shall apply to benefits payable for months that begin more than 90 days after the date of enactment of this Act \[Mar. 2, 2004\].”
+
 #### Effective Date of 1999 Amendments
 
 Amendment by section 402(a)(3) of Pub. L. 106–170 applicable to individuals whose period of confinement in an institution commences on or after the first day of the fourth month beginning after December 1999, see section 402(a)(4) of Pub. L. 106–170, set out as a note under section 402 of Title 42, The Public Health and Welfare.
@@ -436,7 +476,7 @@ Section 105(b)(5) of Pub. L. 104–121, as amended by Pub. L. 105–33, title V,
 
 “(C) Within 90 days after the date of the enactment of this Act \[Mar. 29, 1996\], the Commissioner of Social Security shall notify each individual who is eligible for supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] for the month in which this Act is enacted and whose eligibility for such benefits would terminate by reason of the amendments made by this subsection \[enacting section 1383e of this title and amending this section and sections 1382c, 1383, and 1383c of this title\]. If such an individual reapplies for supplemental security income benefits under title XVI of such Act (as amended by this Act) within 120 days after the date of the enactment of this Act, the Commissioner of Social Security shall, not later than January 1, 1997, complete the eligibility redetermination (including a new medical determination) with respect to such individual pursuant to the procedures of such title.
 
-“(D) For purposes of this paragraph, an individual's claim, with respect to supplemental security incomebenefits under title XVI of the Social Security Act \[this subchapter\] based on disability, which has been denied in whole before the date of the enactment of this Act \[Mar. 29, 1996\], may not be considered to be finally adjudicated before such date if, on or after such date—
+“(D) For purposes of this paragraph, an individual's claim, with respect to supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] based on disability, which has been denied in whole before the date of the enactment of this Act \[Mar. 29, 1996\], may not be considered to be finally adjudicated before such date if, on or after such date—
 
 &emsp;“(i) there is pending a request for either administrative or judicial review with respect to such claim, or
 
@@ -560,7 +600,7 @@ Section 215 of title II of Pub. L. 104–193 provided that: “Within 3 months a
 
 #### Construction of 1999 Amendment
 
-Amendment by Pub. L. 106–170 to be executed as if Pub. L. 106–169 had been enacted after the enactment of Pub. L. 106–170, see section 121(c)(1) of Pub. L. 106–169, set out as a note under section 1396a of this title.
+Amendment by Pub. L. 106–170 to be executed as if Pub. L. 106–169 had been enacted after the enactment ofPub. L. 106–170, see section 121(c)(1) of Pub. L. 106–169, set out as a note under section 1396a of this title.
 
 #### Study of Denial of SSI Benefits for Family Farmers
 
@@ -596,11 +636,7 @@ Section 203(c) of Pub. L. 104–193 provided that: “Not later than October 1, 
 
 #### Study by General Accounting Office
 
-Section 232 of title II of Pub. L. 104–193 provided that: “Not later than January 1, 1999, the Comptroller General of the United States shall study and report on—
-
-&emsp;“(1) the impact of the amendments made by, and the provisions of, this title \[enacting section 1383f of this title, amending this section, sections 1382a to 1382c, and 1383 of this title, and sections 665e and 901 of Title 2, The Congress, enacting provisions set out as notes under this section and sections 1382a, 1382c, and 1383 of this title, amending provisions set out as a note under section 401 of this title, and repealing provisions set out as a note below\] on the supplemental security income program under title XVI of the Social Security Act \[this subchapter\]; and
-
-&emsp;“(2) extra expenses incurred by families of children receiving benefits under such title that are not covered by other Federal, State, or local programs.”
+Pub. L. 104–193, title II, §232, Aug. 22, 1996, 110 Stat. 2198, provided that, not later than Jan. 1, 1999, the Comptroller General was to study and report on the impact of the amendments and provisions of title II of Pub. L. 104–193 on the supplemental security income program under this subchapter and extra expenses incurred by families of children receiving benefits under this subchapter not covered by other Federal, State, or local programs.
 
 #### Report to Congress on Referral, Monitoring and Treatment Activities Relating to Alcoholics and Drug Addicts
 
@@ -648,7 +684,7 @@ Special payment of $50 as soon as practicable after Mar. 29, 1975, by the Secret
 
 #### Adjustment of Individual's Monthly Supplemental Security Income Payments; Regulations; Limitations
 
-Pub. L. 93–335, §2(b)(2), July 8, 1974, 88 Stat. 291, authorized the Secretary of Health, Education, and Welfare to prescribe regulations for the adjustment of an individual's monthly supplemental security income payment in accordance with any increase to which such individual might be entitled under the amendment made by subsection (a) of this section \[amending section 212(a)(3)(B)(i) of Pub. L. 93–66, set out below\]; provided that such adjustment in monthly payment, together with the remittance of any prior unpaid increments to which such individual might be entitled undersuch amendment, was to be made no later than the first day of the first month beginning more than sixty days after July 8, 1974.
+Pub. L. 93–335, §2(b)(2), July 8, 1974, 88 Stat. 291, authorized the Secretary of Health, Education, and Welfare to prescribe regulations for the adjustment of an individual's monthly supplemental security income payment in accordance with any increase to which such individual might be entitled under the amendment made by subsection (a) of this section \[amending section 212(a)(3)(B)(i) of Pub. L. 93–66, set out below\]; provided that such adjustment in monthly payment, together with the remittance of any prior unpaid increments to which such individual might be entitled under such amendment, was to be made no later than the first day of the first month beginning more than sixty days after July 8, 1974.
 
 #### Medicaid Eligibility for Individuals Receiving Mandatory State Supplementary Payments; Effective Date
 
@@ -686,7 +722,7 @@ Section 211 of Pub. L. 93–66, as amended by Pub. L. 93–233, §4(a)(2), (b)(3
 
 “(c) The term ‘essential person’, when used in connection with any qualified individual, means a person who—
 
-&emsp;“(1) for the month of December 1973 was a person (described in subsection (b)(2)) whose needs were taken into account in determining the need of such individual for aid or assistance under a State plan referred to in subsection (b)(1) as such State plan was in effect for June 1973,
+&emsp;“(1) for the month of December 1973 was a person (described in subsection (b)(2)) whose needs weretaken into account in determining the need of such individual for aid or assistance under a State plan referred to in subsection (b)(1) as such State plan was in effect for June 1973,
 
 &emsp;“(2) lives in the home of such individual,
 
@@ -718,7 +754,7 @@ Section 212 of Pub. L. 93–66, as amended by Pub. L. 93–233, §10, Dec. 31, 1
 
 > except that no individual shall be entitled to receive such supplementary payment for any month, if, for such month, such individual was ineligible to receive supplemental income benefits under title XVI of the Social Security Act \[this chapter\] by reason of the provisions of section 1611(e)(1)(A), (2), or (3) \[subsec. (e)(1)(A), (2), or (3) of this section\], 1611(f) \[subsec. (f) of this section\], or 1615(c) of such Act \[section 1382d(c) of this title\].
 
-“(3)(A) The supplementary payment referred to in paragraph (2) which shall be paid for any month to anyindividual who is entitled thereto under an agreement entered into pursuant to this subsection shall (except as provided in subparagraphs (D) and (E)) be an amount equal to (i) the amount by which such individual's ‘December 1973 income’ (as determined under subparagraph (B)) exceeds the amount of such individual's ‘title XVI benefit plus other income’ (as determined under subparagraph (C)) for such month, or (ii) if greater, such amount as the State may specify.
+“(3)(A) The supplementary payment referred to in paragraph (2) which shall be paid for any month to any individual who is entitled thereto under an agreement entered into pursuant to this subsection shall (except as provided in subparagraphs (D) and (E)) be an amount equal to (i) the amount by which such individual's ‘December 1973 income’ (as determined under subparagraph (B)) exceeds the amount of such individual's ‘title XVI benefit plus other income’ (as determined under subparagraph (C)) for such month, or (ii) if greater, such amount as the State may specify.
 
 “(B) For purposes of subparagraph (A), an individual's ‘December 1973 income’ means an amount equal to the aggregate of—
 
@@ -804,7 +840,7 @@ Section 212 of Pub. L. 93–66, as amended by Pub. L. 93–233, §10, Dec. 31, 1
 
 “(ii) The Cash Management Improvement Act of 1990 \[see Short Title of 1990 Amendment note set out under section 6501 of Title 31, Money and Finance\] shall not apply to any payments or fees required under this paragraph that are paid by a State before the date required by clause (i).
 
-“(iii) Notwithstanding clause (i), the Commissioner may make supplementary payments on behalf of a State with funds appropriated for payment of supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\], and subsequently to be reimbursed for such payments by the State at such times as the Commissioner and State may agree. Such authority may be exercised only if extraordinary circumstances affecting a State's ability to make payment when required by clause (i) are determined by the Commissioner to exist.
+“(iii) Notwithstanding clause (i), the Commissioner may make supplementary payments on behalf of aState with funds appropriated for payment of supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\], and subsequently to be reimbursed for such payments by the State at such times as the Commissioner and State may agree. Such authority may be exercised only if extraordinary circumstances affecting a State's ability to make payment when required by clause (i) are determined by the Commissioner to exist.
 
 “(c)(1) Supplementary payments made pursuant to an agreement entered into under subsection (a) shall be excluded under section 1612(b)(6) of the Social Security Act \[section 1382a(b)(6) of this title\] (as in effect after December 1973) in determining income of individuals for purposes of title XVI of such Act \[this subchapter\] (as so in effect).
 
@@ -856,7 +892,7 @@ A State plan for aid to the aged, blind, or disabled, must—
 
 &emsp;(5) provide (A) such methods of administration (including methods relating to the establishment and maintenance of personnel standards on a merit basis, except that the Commissioner of Social Security shall exercise no authority with respect to the selection, tenure of office, and compensation of any individual employed in accordance with such methods) as are found by the Commissioner of Social Security to be necessary for the proper and efficient operation of the plan, and (B) for the training and effective use of paid subprofessional staff, with particular emphasis on the full-time or part-time employment of recipients and other persons of low income, as community service aides, in the administration of the plan and for the use of nonpaid or partially paid volunteers in a social service volunteer program in providing services to applicants and recipients and in assisting any advisory committees established by the State agency;
 
-&emsp;(6) provide that the State agency will make such reports, in such form and containing such information, as the Commissioner of Social Security may from time to time require, and comply with such provisions as the Commissioner of Social Security may from time to time find necessary to assure the correctness and verification of such reports;
+&emsp;(6) provide that the State agency will make such reports, in such form and containing such information, as the Commissioner of Social Security may from time to time require, and comply with such provisions as the Commissioner of Social Security mayfrom time to time find necessary to assure the correctness and verification of such reports;
 
 &emsp;(7) provide safeguards which permit the use or disclosure of information concerning applicants or recipients only (A) to public officials who require such information in connection with their official duties, or (B) to other persons for purposes directly connected with the administration of the State plan;
 
@@ -907,8 +943,4 @@ Subject to the last sentence of subsection (a) of this section, nothing in this 
 \[Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.\]
 
 \[Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment note under section 401 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 402, 1315, 1320b–19, 1382a, 1382b, 1382c, 1382d, 1382e, 1382f, 1382g, 1382h, 1382i, 1382j, 1383, 1385, 1396a, 1396b, 1396d, 1396r, 1396v, 4728, 8624, 11398 of this title; title 5 section 552a; title 7 section 2020.
 

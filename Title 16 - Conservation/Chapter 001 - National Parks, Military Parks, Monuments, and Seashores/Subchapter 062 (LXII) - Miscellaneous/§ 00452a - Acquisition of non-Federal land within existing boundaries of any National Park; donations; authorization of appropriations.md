@@ -8,7 +8,3 @@ In order to consolidate Federal land ownership within the existing boundaries of
 
 Authority of the Secretary under this section extended to authorize acquisition of non-Federal land within boundaries of Cape Hatteras National Seashore Recreational Area, see sections 459a–6 to 459a–8 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1c, 459a–6 of this title.
-

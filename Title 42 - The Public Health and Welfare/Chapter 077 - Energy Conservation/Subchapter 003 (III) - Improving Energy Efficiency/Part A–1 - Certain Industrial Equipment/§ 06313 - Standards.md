@@ -32,7 +32,7 @@
 
 (3) Each packaged terminal air conditioner and packaged terminal heat pump manufactured on or after January 1, 1994, shall meet the following standard levels:
 
-&emsp;(A) The minimum energy efficiency ratio (EER) of packaged terminal air conditioners and packaged terminal heat pumps in the cooling mode shall be 10.0 — (0.16 x Capacity \[in thousands of Btu per hour at a standard rating of 95 degrees F db, outdoor temperature\]). If a unit has a capacity of less than 7,000 Btu per hour, then 7,000 Btu per hour shall be used in the calculation. If a unit has a capacity of greater than 15,000 Btu per hour,then 15,000 Btu per hour shall be used in the calculation.
+&emsp;(A) The minimum energy efficiency ratio (EER) of packaged terminal air conditioners and packaged terminal heat pumps in the cooling mode shall be 10.0 — (0.16 x Capacity \[in thousands of Btu per hour at a standard rating of 95 degrees F db, outdoor temperature\]). If a unit has a capacity of less than 7,000 Btu per hour, then 7,000 Btu per hour shall be used in the calculation. If a unit has a capacity of greater than 15,000 Btu per hour, then 15,000 Btu per hour shall be used in the calculation.
 
 &emsp;(B) The minimum coefficient of performance (COP) of packaged terminal heat pumps in the heating mode shall be 1.3 + (0.16 x the minimum cooling EER as specified in subparagraph (A)) (at a standard rating of 47 degrees F db).
 
@@ -80,7 +80,7 @@
 
 &emsp;(VII) other factors the Secretary considers relevant.
 
-(ii) The Secretary may not prescribe any amended standard under this paragraph which increases the maximum allowable energy use, or decreases the minimum required energy efficiency, of a covered product. The Secretary may not prescribe an amended standard under this subparagraph if the Secretary finds (and publishes such finding) that interested persons have established by a preponderance of the evidence that a standard is likely to result in the unavailability in the United States in any product type (or class) of performance characteristics (including reliability), features, sizes, capacities, and volumes that are substantially the same as those generally available in the UnitedStates at the time of the Secretary's finding. The failure of some types (or classes) to meet this criterion shall not affect the Secretary's determination of whether to prescribe a standard for other types or classes.
+(ii) The Secretary may not prescribe any amended standard under this paragraph which increases the maximum allowable energy use, or decreases the minimum required energy efficiency, of a covered product. The Secretary may not prescribe an amended standard under this subparagraph if the Secretary finds (and publishes such finding) that interested persons have established by a preponderance of the evidence that a standard is likely to result in the unavailability in the United States in any product type (or class) of performance characteristics (including reliability), features, sizes, capacities, and volumes that are substantially the same as those generally available in the United States at the time of the Secretary's finding. The failure of some types (or classes) to meet this criterion shall not affect the Secretary's determination of whether to prescribe a standard for other types or classes.
 
 (C) A standard amended by the Secretary under this paragraph shall become effective for products manufactured—
 
@@ -146,8 +146,4 @@
 #### Amendments
 
 1992—Pub. L. 102–486 amended section generally, substituting present provisions for former provisions requiring Secretary to conduct evaluations of electric motors and pumps and other industrial equipment for purposes of determining standards.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6314, 6315, 6316 of this title.
 

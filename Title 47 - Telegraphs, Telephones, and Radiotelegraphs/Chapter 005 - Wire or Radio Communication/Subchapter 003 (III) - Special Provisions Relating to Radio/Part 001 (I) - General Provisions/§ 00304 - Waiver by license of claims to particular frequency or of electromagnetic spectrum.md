@@ -10,7 +10,3 @@ No station license shall be granted by the Commission until the applicant theref
 
 1982—Pub. L. 97–259 substituted “electromagnetic spectrum” for “ether”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 309 of this title.
-

@@ -44,7 +44,3 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 152 of this title; title 46 section 2101.
-

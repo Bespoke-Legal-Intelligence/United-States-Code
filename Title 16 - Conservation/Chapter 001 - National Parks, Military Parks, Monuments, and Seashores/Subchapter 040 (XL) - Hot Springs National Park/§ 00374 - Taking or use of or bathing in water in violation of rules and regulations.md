@@ -8,7 +8,3 @@ Any person who shall, except in compliance with such rules and regulations as th
 
 “Hot Springs National Park” substituted in text for “Hot Springs Reservation” pursuant to act Mar. 4, 1921.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 372 of this title.
-

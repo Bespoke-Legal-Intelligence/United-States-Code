@@ -1,6 +1,6 @@
 ### §2372a. Renewal, reissuance, etc., of export licenses to or for Argentina
 
-Any export license referred to in section 2372 <sup>1</sup> of this title which is issued initially on or beforeSeptember 30, 1978 may from time to time thereafter be renewed, reissued or modified (or in the event of lapse of such license, replacement licenses may be issued), provided that any such renewal, reissuance or modification (or any such replacement license) does not change significantly any such license as initially issued.
+Any export license referred to in section 2372 <sup>1</sup> of this title which is issued initially on or before September 30, 1978 may from time to time thereafter be renewed, reissued or modified (or in the event of lapse of such license, replacement licenses may be issued), provided that any such renewal, reissuance or modification (or any such replacement license) does not change significantly any such license as initially issued.
 
 (Pub. L. 95–240, title II, §210, Mar. 7, 1978, 92 Stat. 118.)
 

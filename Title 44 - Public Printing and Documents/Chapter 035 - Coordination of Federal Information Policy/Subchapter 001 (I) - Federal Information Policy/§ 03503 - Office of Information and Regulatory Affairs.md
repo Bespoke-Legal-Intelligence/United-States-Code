@@ -30,7 +30,3 @@ Section 3 of Pub. L. 96–511, as amended by Pub. L. 97–258, §5(b), Sept. 13,
 
 \[Section 101(m) \[title VIII, §833\] of Pub. L. 99–500 and Pub. L. 99–591 provided that: “This title and the amendments made by this title \[amending former sections 3501 to 3507, 3511, 3514, and 3520 of this title and sections 751, 757, and 759 of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as a notes under section 101 of this title and former section 3503 of this title, amending provisions set out as a note above, and repealing provisions set out as a note under section 759 of former Title 40\] shall take effect on the date of enactment of this Act \[Oct. 18, 1986\], except as provided in section 813(b) \[set out as a note under former section 3503 of this title\] and except that the provisions of section 821 and the amendments made by such section \[amending former sections 3503 and 3504 of this title, sections 757 and 759 of former Title 40, and provisions set out as a note above\] shall take effect on January 1, 1987.”\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 section 505.
-

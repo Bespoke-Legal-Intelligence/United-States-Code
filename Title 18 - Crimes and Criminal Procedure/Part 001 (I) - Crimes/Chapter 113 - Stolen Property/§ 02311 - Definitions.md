@@ -18,7 +18,7 @@ As used in this chapter:
 
 “Value” means the face, par, or market value, whichever is the greatest, and the aggregate value of all goods, wares, and merchandise, securities, and money referred to in a single indictment shall constitute the value thereof.
 
-(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, §1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, titleII, §202, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 103–322, title XXXII, §320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, §604(b)(20), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–273, div. B, title IV, §4002(b)(8), Nov. 2, 2002, 116 Stat. 1808.)
+(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, §1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, title II, §202, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 103–322, title XXXII, §320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, §604(b)(20), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–273, div. B, title IV, §4002(b)(8), Nov. 2, 2002, 116 Stat. 1808.)
 
 #### Historical and Revision Notes
 
@@ -51,6 +51,10 @@ Minor changes were made in phraseology.
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
+
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–482, title I, §101, Dec. 23, 2004, 118 Stat. 3912, provided that: “This title \[amending section 2318 of this title and enacting provisions set out as a note under section 2318 of this title\] may be cited as the ‘Anti-counterfeiting Amendments Act of 2004’.”
 
 #### Short Title of 1997 Amendment
 
@@ -99,8 +103,4 @@ Section 2 of Pub. L. 98–547 provided that: “It is the purpose of this Act \[
 &emsp;“(3) to encourage decreases in premiums charged consumers for motor vehicle theft insurance; and
 
 &emsp;“(4) to reduce opportunities for exporting or importing stolen motor vehicles and off-highway mobile equipment.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 667 of this title.
 

@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, in any case pending under section 77
 
 (3)(A) If a person has made or makes an offer to acquire from a carrier subject to liquidation a rail line or lines over which no service is provided by that carrier, and that offer has been or is rejected by the trustee in bankruptcy of such carrier, such person may submit an application to the Commission seeking approval of such person's acquisition of such line or lines. A copy of any such application shall be filed simultaneously with the court.
 
-(B) The Commission shall, within 15 days after the filing of an application under subparagraph\(A) of this paragraph, determine whether the applicant—
+(B) The Commission shall, within 15 days after the filing of an application under subparagraph (A) of this paragraph, determine whether the applicant—
 
 &emsp;(i) is a financially responsible person; and
 
@@ -73,10 +73,6 @@ Section 11347 of title 49, referred to in subsecs. (a) and (b)(1), was omitted i
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1009, 1018 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

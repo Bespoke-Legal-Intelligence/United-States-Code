@@ -44,7 +44,7 @@ It is the purpose of this subchapter—
 
 &emsp;(7) to promote cooperative economic and community development efforts on the part of the Seneca Nation and the city; and
 
-&emsp;(8) to avoid the potential legal liability on the part of the United States that could be adirect consequence of not reaching a settlement.
+&emsp;(8) to avoid the potential legal liability on the part of the United States that could be a direct consequence of not reaching a settlement.
 
 (Pub. L. 101–503, §2, Nov. 3, 1990, 104 Stat. 1292.)
 
@@ -57,8 +57,4 @@ Act of September 30, 1890 (26 Stat. 558), referred to in subsec. (a)(2)(D), is a
 #### Short Title
 
 Section 1 of Pub. L. 101–503 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Seneca Nation Settlement Act of 1990’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1774d of this title.
 

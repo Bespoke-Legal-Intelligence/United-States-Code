@@ -28,9 +28,5 @@ Except as provided in this section, a consumer incurs no liability from an unaut
 
 (Pub. L. 90–321, title IX, §909, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3734.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1693f of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “means”.</i>
 

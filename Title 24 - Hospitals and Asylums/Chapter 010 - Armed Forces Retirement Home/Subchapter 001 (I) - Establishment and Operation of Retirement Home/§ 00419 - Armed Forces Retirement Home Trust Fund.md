@@ -48,7 +48,3 @@ Subsec. (d). Pub. L. 107–107, §1410(b)(2), struck out heading and text of sub
 
 Section effective Nov. 5, 1990, see section 1541(b) of Pub. L. 101–510, formerly set out as a note under section 401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 401 of this title.
-

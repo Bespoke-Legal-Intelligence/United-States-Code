@@ -14,7 +14,3 @@ A grant made under section 6001 of this title may be used by a grantee to—
 
 (Pub. L. 103–267, title II, §203, June 16, 1994, 108 Stat. 727.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6001 of this title.
-

@@ -62,7 +62,7 @@ Section 8051(c) of Pub. L. 101–508 provided that:
 
 “(2) Notification under paragraph (1) shall be made not later than 90 days after the date of the enactment of this Act.
 
-“(3) The Secretary of Veterans Affairs may not obtain information from the Secretary of Health and Human Services or the Secretary of the Treasury undersection 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code of 1986 (as added by subsection (a)) until notification under paragraph (1) is made.”
+“(3) The Secretary of Veterans Affairs may not obtain information from the Secretary of Health and Human Services or the Secretary of the Treasury under section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code of 1986 (as added by subsection (a)) until notification under paragraph (1) is made.”
 
 #### Study by Comptroller General on Effectiveness of Amendments by Pub. L. 101–508
 

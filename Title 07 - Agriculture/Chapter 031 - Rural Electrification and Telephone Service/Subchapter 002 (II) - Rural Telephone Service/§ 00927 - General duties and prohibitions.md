@@ -4,7 +4,7 @@
 
 The Secretary and the Governor of the telephone bank shall—
 
-&emsp;(1) notwithstanding section 553(a)(2) of title 5, cause to be published in the Federal Register, in accordance with subsections (b) through (e) of section 553 of such title, all rules, regulations, bulletins, and other written policy standards governing the operations of the telephone loan and loan guarantee programs administered under this chapter other than those relating to agency management and personnel;
+&emsp;(1) notwithstanding section 553(a)(2) of title 5, cause to be published in the Federal Register, in accordance with subsections (b) through (e) of section 553 of such title, all rules, regulations, bulletins, and other written policy standards governing the operations of the telephone loan and loan guarantee programs administered under this chapter otherthan those relating to agency management and personnel;
 
 &emsp;(2) in evaluating the feasibility of a telephone loan to be made to a borrower for telephone services, use—
 

@@ -42,10 +42,6 @@
 
 1968—Pub. L. 90–296, §2, Apr. 29, 1968, 82 Stat. 110, added item 1407.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 42 section 3612.
-
 
 ---
 

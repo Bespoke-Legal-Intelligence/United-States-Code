@@ -32,7 +32,3 @@ Aug. 18, 1949, ch. 479, §7, 63 Stat. 617; Pub. L. 97–390, §1(b), Dec. 29, 19
 
 In subsection (a), before clause (1), the word “are” is substituted for “may be deemed” for clarity. In clause (1), the word “individuals” is substituted for “persons” for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6101, 6121, 6137 of this title.
-

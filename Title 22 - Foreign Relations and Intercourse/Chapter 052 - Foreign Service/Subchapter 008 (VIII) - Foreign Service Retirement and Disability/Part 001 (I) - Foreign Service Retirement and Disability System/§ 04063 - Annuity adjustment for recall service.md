@@ -26,7 +26,3 @@ If an annuitant becomes subject to part II of this subchapter by reason of recal
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4046, 4049, 4055 of this title.
-

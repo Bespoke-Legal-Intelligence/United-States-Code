@@ -58,7 +58,7 @@ The aggregate square feet of office space secured for Senator shall not at any t
 
 #### (f) Mobile office
 
-(1) Subject to the provisions of paragraphs (2), (3), (4), and (5), a Senator may lease one mobile office for use only in the State he represents and the contingent fund of the Senate is available for the rental payments (including by way of reimbursement) made under such lease together with the actual nonpersonnel cost of operating such mobile office. The term of any such lease shall not exceed 3 years. A copy of each such lease shall be furnished to the Sergeant at Arms of the Senate.
+(1) Subject to the provisions of paragraphs (2), (3), (4), and (5), a Senator may lease one mobile office for use only in the State he represents and the contingent fund of the Senate is available for the rental payments (including by way of reimbursement) made under such lease together with the actual nonpersonnel cost of operating such mobile office. The term of any such leaseshall not exceed 3 years. A copy of each such lease shall be furnished to the Sergeant at Arms of the Senate.
 
 (2) The maximum aggregate annual rental payments and operating costs (except furniture, equipment, and furnishings) that may be paid to a Senator under paragraph (1) shall not at any time exceed an amount determined by multiplying (A) the highest applicable rate per square foot charged Federal agencies by the Administrator of General Services in the State which that Senator represents, based upon a 100 percent building quality rating, by (B) the maximum aggregate square feet of office space to which that Senator is entitled under subsection (b) of this section reduced by the number of square feet contained in offices secured for that Senator under subsection (a) of this section and used by that Senator and his employees to perform their duties.
 
@@ -96,9 +96,9 @@ Section is comprised of section 3 of Pub. L. 93–371. Subsec. (e) of section 3 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (f)(3). Pub. L. 108–7 inserted concluding provisions.
+2003—Subsec. (f)(3). Pub. L. 108–7 inserted concluding provisions.
 
-<b>1999</b>—Subsec. (b)(1). Pub. L. 106–57, §3(1)(A), added par. (1) and struck out former par. (1) which read as follows: “4,800 square feet if the population of his State is less than 2,000,000;”.
+1999—Subsec. (b)(1). Pub. L. 106–57, §3(1)(A), added par. (1) and struck out former par. (1) which read as follows: “4,800 square feet if the population of his State is less than 2,000,000;”.
 
 Subsec. (b)(2). Pub. L. 106–57, §3(1)(A), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “5,000 square feet if such population is 2,000,000 but less than 3,000,000;”.
 
@@ -110,9 +110,9 @@ Pub. L. 106–57, §3(1)(B), substituted “8,200” for “8,000”.
 
 Subsec. (c)(2). Pub. L. 106–57, §3(2), substituted “$40,000” for “$30,000”, “5,000 square feet” for “4,800 square feet”, and “$1,000” for “$734” and inserted at end “Effective beginning with the 106th Congress, the aggregate amount in effect under this paragraph for any Congress shall be increased by the inflation adjustment factor for the calendar year in which the Congress begins. For purposes of the preceding sentence, the inflation adjustment factor for any calendar year is a fraction the numerator of which is the implicit price deflator for the gross domestic product as computed and published by the Department of Commerce for the preceding calendar year and the denominator of which is such deflator for the calendar year 1998.”
 
-<b>1996</b>—Subsec. (f)(1). Pub. L. 104–197 substituted “3 years” for “one year” in second sentence.
+1996—Subsec. (f)(1). Pub. L. 104–197 substituted “3 years” for “one year” in second sentence.
 
-<b>1991</b>—Subsec. (f)(1). Pub. L. 102–90, §7(b)(1), substituted “the contingent fund of the Senate is available for the rental payments (including by way of reimbursement)” for “shall be reimbursed from the contingent fund of the Senate for the rental payments”.
+1991—Subsec. (f)(1). Pub. L. 102–90, §7(b)(1), substituted “the contingent fund of the Senate is available for the rental payments (including by way of reimbursement)” for “shall be reimbursed from the contingent fund of the Senate for the rental payments”.
 
 Subsec. (f)(2). Pub. L. 102–90, §7(b)(2), substituted “paid” for “reimbursed”.
 
@@ -128,17 +128,17 @@ Subsec. (f)(4). Pub. L. 102–90, §7(b)(4), substituted “payment” for “re
 
 Subsec. (f)(5). Pub. L. 102–90, §7(b)(5), substituted “Payment” for “Reimbursement”.
 
-<b>1985</b>—Subsec. (c)(2). Pub. L. 99–88 substituted “$30,000” for “$22,550” and “$734” for “$550”.
+1985—Subsec. (c)(2). Pub. L. 99–88 substituted “$30,000” for “$22,550” and “$734” for “$550”.
 
-<b>1980</b>—Subsec. (a)(2). Pub. L. 96–304, §109(1), substituted provision limiting term of a lease of office space to a term not extending beyond the term of office which Senator is serving on first day of such lease, except in case of a Senator whose term is expiring and who has been elected to another term, to end of term for which he has been so elected, for provision limiting term of a lease of office space to a term of not to exceed one year and inserted provision requiring each lease to contain a provision permitting cancellation upon sixty days written notification by Sergeant at Arms and Doorkeeper of Senate, in event of death or resignation of Senator.
+1980—Subsec. (a)(2). Pub. L. 96–304, §109(1), substituted provision limiting term of a lease of office space to a term not extending beyond the term of office which Senator is serving on first day of such lease, except in case of a Senator whose term is expiring and who has been elected to another term, to end of term for which he has been so elected, for provision limiting term of a lease of office space to a term of not to exceed one yearand inserted provision requiring each lease to contain a provision permitting cancellation upon sixty days written notification by Sergeant at Arms and Doorkeeper of Senate, in event of death or resignation of Senator.
 
 Subsec. (c). Pub. L. 96–304, §109(2), substituted “shall not exceed the highest rate per square foot charged Federal agencies on the first day of the lease of such office” for “shall not at any time exceed the applicable rate per square foot charged Federal agencies”.
 
-<b>1977</b>—Subsec. (c)(2). Pub. L. 95–94 substituted “$22,550” for “$20,500” and “$550” for “$500”.
+1977—Subsec. (c)(2). Pub. L. 95–94 substituted “$22,550” for “$20,500” and “$550” for “$500”.
 
 Subsec. (f)(5). Pub. L. 95–26 substituted “monthly” for “quarterly”.
 
-<b>1975</b>—Subsec. (a). Pub. L. 94–59, §107, designated existing provisions as par. (1) and added par. (2).
+1975—Subsec. (a). Pub. L. 94–59, §107, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c). Pub. L. 94–59, §106(a), designated existing provisions as par. (1) and added par. (2).
 

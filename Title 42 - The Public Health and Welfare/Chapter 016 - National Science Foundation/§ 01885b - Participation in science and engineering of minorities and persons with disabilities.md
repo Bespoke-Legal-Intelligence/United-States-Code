@@ -4,7 +4,7 @@
 
 (b) The Foundation is authorized to undertake or support programs and activities to encourage the participation of persons with disabilities in the science and engineering professions.
 
-(Pub. L. 96–516, §34, Dec. 12, 1980, 94 Stat. 3012; Pub. L. 99–159, title I, §111(b)(7), Nov. 22, 1985, 99Stat. 892; Pub. L. 105–207, title II, §202(d)(1), July 29, 1998, 112 Stat. 874.)
+(Pub. L. 96–516, §34, Dec. 12, 1980, 94 Stat. 3012; Pub. L. 99–159, title I, §111(b)(7), Nov. 22, 1985, 99 Stat. 892; Pub. L. 105–207, title II, §202(d)(1), July 29, 1998, 112 Stat. 874.)
 
 #### Codification
 
@@ -19,8 +19,4 @@ Subsec. (b). Pub. L. 105–207, §202(d)(1)(B), added subsec. (b) and struck out
 1985—Subsec. (a). Pub. L. 99–159, §111(b)(7), substituted “science and engineering education” for “science education” and “engineering” for “technology”.
 
 Subsec. (b). Pub. L. 99–159, §111(b)(7)(B), substituted “engineering” for “technology”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1862n, 1862n–1, 1862n–2, 1862n–8, 2473e of this title.
 

@@ -36,7 +36,7 @@
 
 #### (4) Impact on the industry
 
-&emsp;In evaluating the likely impact of imports of the subject merchandise on the industry if the order is revoked or the suspended investigation is terminated, the Commission shall consider all relevant economic factors which are likely to have a bearing on the state of the industry in the United States, including, but not limited to—
+&emsp;In evaluating the likely impact of imports of the subject merchandise on the industry if theorder is revoked or the suspended investigation is terminated, the Commission shall consider all relevant economic factors which are likely to have a bearing on the state of the industry in the United States, including, but not limited to—
 
 &emsp;&emsp;(A) likely declines in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,
 
@@ -92,7 +92,7 @@
 
 #### (A) Treatment of zero and de minimis rates
 
-&emsp;&emsp;A net countervailable subsidy described in paragraph (1)(A) that is zero or de minimis shall not by itself require the administering authority to determine that revocation of a countervailing duty order or termination of a suspended investigation would not be likely to lead to continuation or recurrence of a countervailable subsidy.
+&emsp;&emsp;A net countervailable subsidy described in paragraph (1)(A) that is zero or de minimis shall not by itself require the administeringauthority to determine that revocation of a countervailing duty order or termination of a suspended investigation would not be likely to lead to continuation or recurrence of a countervailable subsidy.
 
 #### (B) Application of de minimis standards
 
@@ -120,7 +120,7 @@
 
 #### (A) Treatment of zero or de minimis margins
 
-&emsp;&emsp;A dumping margin described in paragraph (1)(A) that is zero or de minimis shall not byitself require the administering authority to determine that revocation of an antidumping duty order or termination of a suspended investigation would not be likely to lead to continuation or recurrence of sales at less than fair value.
+&emsp;&emsp;A dumping margin described in paragraph (1)(A) that is zero or de minimis shall not by itself require the administering authority to determine that revocation of an antidumping duty order or termination of a suspended investigation would not be likely to lead to continuation or recurrence of sales at less than fair value.
 
 #### (B) Application of de minimis standards
 
@@ -131,8 +131,4 @@
 #### Effective Date
 
 Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1671 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1675, 1677 of this title.
 

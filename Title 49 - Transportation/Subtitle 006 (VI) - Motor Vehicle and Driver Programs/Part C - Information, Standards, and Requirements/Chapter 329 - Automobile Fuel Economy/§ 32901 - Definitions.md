@@ -26,7 +26,7 @@ General.—In this chapter—
 
 &emsp;&emsp;(J) electricity (including electricity from solar energy); and
 
-&emsp;&emsp;(K) any other fuel the Secretary of Transportation prescribes by regulation that is not substantially petroleum and that wouldyield substantial energy security and environmental benefits.
+&emsp;&emsp;(K) any other fuel the Secretary of Transportation prescribes by regulation that is not substantially petroleum and that would yield substantial energy security and environmental benefits.
 
 &emsp;(2) “alternative fueled automobile” means an automobile that is a—
 
@@ -102,7 +102,7 @@ Authority To Change Percentage.—The Secretary may prescribe regulations changi
 
 (c)
 
-Minimum Driving Ranges for Dual Fueled Passenger Automobiles.—(1) The Secretary shall prescribe by regulation the minimum driving range that dual fueled automobiles that are passenger automobiles must meet whenoperating on alternative fuel to be dual fueled automobiles under sections 32905 and 32906 of this title. A determination whether a dual fueled automobile meets the minimum driving range requirement under this paragraph shall be based on the combined Agency city/highway fuel economy as determined for average fuel economy purposes for those automobiles.
+Minimum Driving Ranges for Dual Fueled Passenger Automobiles.—(1) The Secretary shall prescribe by regulation the minimum driving range that dual fueled automobiles that are passenger automobiles must meet when operating on alternative fuel to be dual fueled automobiles under sections 32905 and 32906 of this title. A determination whether a dual fueled automobile meets the minimum driving range requirement under this paragraph shall be based on the combined Agency city/highway fuel economy as determined for average fuel economy purposes for those automobiles.
 
 (2)(A) The Secretary may prescribe a lower range for a specific model than that prescribed under paragraph (1) of this subsection. A manufacturer may petition for a lower range than that prescribed under paragraph (1) for a specific model.
 
@@ -220,7 +220,7 @@ In this chapter, the word “model” is substituted for “model type” for co
 
 In subsection (a)(3), before clause (A), the words “except as provided in section 32908 of this title” are added for clarity. The word “line” is added for consistency in the revised title and with other titles of the United States Code. The words “or rails” are omitted because of 1:1. The text of 15:2001(1) (last sentence) is omitted because of 49:322(a). The text of 15:2001(13) and (14) is omitted as surplus because the complete names of the Secretary of Transportation and Administrator of the Environmental Protection Agency are used the first time the terms appear in a section. The text of 15:2001 (related to 15:2011) is omitted because 15:2011 is outside the scope of the restatement. See section 4(c) of the bill.
 
-In subsection (a)(4), the words “ ‘automobile manufactured by a manufacturer’ includes” are substituted for “Any reference in this subchapter to automobiles manufactured by a manufacturer shall be deemed—(1) to include” to eliminate unnecessary words. The word “every” is substituted for “all” because of the restatement. The words “but does not include” are substituted for “to exclude” for consistency. The words “manufactured by the person” are substituted for “manufactured (within the meaning of paragraph (1))” to eliminate unnecessary words.
+In subsection (a)(4), the words “ ‘automobile manufactured by a manufacturer’ includes” are substituted for “Any reference in this subchapter to automobiles manufactured by a manufacturer shall be deemed—(1)to include” to eliminate unnecessary words. The word “every” is substituted for “all” because of the restatement. The words “but does not include” are substituted for “to exclude” for consistency. The words “manufactured by the person” are substituted for “manufactured (within the meaning of paragraph (1))” to eliminate unnecessary words.
 
 In subsection (a)(10), the words “in accordance with procedures established” are omitted as surplus.
 
@@ -237,8 +237,4 @@ In subsection (c)(1), the words “For purposes of the definitions in paragraph 
 #### References in Text
 
 Section 3 of the Alternative Motor Fuels Act of 1988, referred to in subsec. (c)(3), is section 3 of Pub. L. 100–494, which is set out as a note under section 6374 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30501, 32906, 32908, 32909, 33101 of this title; title 15 section 2011; title 26 section 4064; title 42 sections 6291, 6374, 13211.
 

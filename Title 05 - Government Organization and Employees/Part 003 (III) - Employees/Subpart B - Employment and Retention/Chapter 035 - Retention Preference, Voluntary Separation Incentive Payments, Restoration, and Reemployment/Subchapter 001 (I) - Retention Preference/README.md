@@ -1,8 +1,8 @@
 ### SUBCHAPTER I—RETENTION PREFERENCE
 
-#### Subchapter Referred to in Other Sections
+<i><sup>1</sup></i><i> So in original. Two sections “3598” have been enacted.</i>
 
-This subchapter is referred to in section 6302 of this title; title 2 section 1316a; title 7 section 7657; title 22 sections 3964, 4010a; title 42 section 237.
+<i><sup>2</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

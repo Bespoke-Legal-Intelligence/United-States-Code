@@ -76,7 +76,3 @@ If the State educational agency does not respond to the Secretary's notification
 
 (Pub. L. 89–10, title II, §2413, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1675.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6764 of this title.
-

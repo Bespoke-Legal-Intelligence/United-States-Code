@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(4) the new knowledge derived from coordinated public and private research programs will promote a sound technical and ecological base for effective management, use, and protection of the Nation's renewable resources;
 
-&emsp;(5) inasmuch as the majority of the Nation's forests and rangeland is under private, State, and local governmental management and the Nation's major capacity to produce goods and services is based on these nonfederally managed renewable resources, the Federal Government should be a catalyst to encourage and assist these owners in the efficient long-term use and improvement of these lands and their renewable resources consistent with the principles of sustained yield and multiple use;
+&emsp;(5) inasmuch as the majority of the Nation's forests and rangeland is under private, State,and local governmental management and the Nation's major capacity to produce goods and services is based on these nonfederally managed renewable resources, the Federal Government should be a catalyst to encourage and assist these owners in the efficient long-term use and improvement of these lands and their renewable resources consistent with the principles of sustained yield and multiple use;
 
 &emsp;(6) the Forest Service, by virtue of its statutory authority for management of the National Forest System, research and cooperative programs, and its role as an agency in the Department of Agriculture, has both a responsibility and an opportunity to be a leader in assuring that the Nation maintains a natural resource conservation posture that will meet the requirements of our people in perpetuity; and
 
@@ -49,8 +49,4 @@ Section 1 of Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, provided: “That th
 #### Separability
 
 Section 21 of Pub. L. 94–588 provided that: “If any provision of this Act \[see Short Title of 1976 Amendment note set out above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
-
-#### Act Referred to in Other Sections
-
-The National Forest Management Act of 1976 is referred to in sections 460<i>ll</i>, 460qq, 460vv–4, 460vv–13, 460<i>lll</i>–21, 497b, 539c, 539d, 542d, 544k, 544<i>o</i>, 545b, 620 of this title; title 30 section 1272; title 43 section 1635.
 

@@ -1,9 +1,5 @@
 Part C—Nutrition Services
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1766, 3016, 3024, 3028, 3030c–3, 3030g–22, 3057e of this title.
-
 
 ---
 

@@ -78,7 +78,7 @@ As used in this chapter:
 
 &emsp;Nothing in this chapter affects the jurisdiction of the Commodity Futures Trading Commission or the applicability of the Commodity Exchange Act (7 U.S.C. 1 et seq.) to any transaction conducted on a contract market under that Act by an approved insurance provider to offset the approved insurance provider's risk under a plan or policy of insurance under this chapter.
 
-(Feb. 16, 1938, ch. 30, title V, §502, 52 Stat. 72; June 21, 1941, ch. 214, §1, 55 Stat. 255; Aug. 1, 1947, ch. 440, §4, 61 Stat. 719; Pub. L. 103–354, title I,§102(a), Oct. 13, 1994, 108 Stat. 3180; Pub. L. 106–224, title I, §§122, 141, June 20, 2000, 114 Stat. 377, 389.)
+(Feb. 16, 1938, ch. 30, title V, §502, 52 Stat. 72; June 21, 1941, ch. 214, §1, 55 Stat. 255; Aug. 1, 1947, ch. 440, §4, 61 Stat. 719; Pub. L. 103–354, title I, §102(a), Oct. 13, 1994, 108 Stat. 3180; Pub. L. 106–224, title I, §§122, 141, June 20, 2000, 114 Stat. 377, 389.)
 
 #### References in Text
 
@@ -99,8 +99,4 @@ Subsec. (d). Pub. L. 106–224, §141, added subsec. (d).
 #### Effective Date of 1994 Amendment
 
 Section 120 of title I of Pub. L. 103–354 provided that: “Except as otherwise provided in this title, this title \[enacting sections 1433f, 1515, 1521, and 2008f of this title, amending this section and sections 1441–2, 1444–2, 1444f, 1445b–3a, 1503 to 1509, 1511, 1513, 1516, and 1518 to 1520 of this title, sections 901 and 902 of Title 2, The Congress, and section 1014 of Title 18, Crimes and Criminal Procedure, repealing sections 1446i and 1508a of this title, enacting provisions set out as notes under sections 1501, 1506, and 1508 of this title and sections 901 and 902 of Title 2, and repealing provisions set out as a note under section 1421 of this title\] and the amendments made by this title shall become effective on the date of enactment of this Act \[Oct. 13, 1994\] and shall apply to the provision of crop insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with the 1995 crop year. With respect to the 1994 crop year, the Federal Crop Insurance Act (as in effect on the day before the date of enactment of this Act) shall continue to apply.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1506, 1515, 8002 of this title.
 

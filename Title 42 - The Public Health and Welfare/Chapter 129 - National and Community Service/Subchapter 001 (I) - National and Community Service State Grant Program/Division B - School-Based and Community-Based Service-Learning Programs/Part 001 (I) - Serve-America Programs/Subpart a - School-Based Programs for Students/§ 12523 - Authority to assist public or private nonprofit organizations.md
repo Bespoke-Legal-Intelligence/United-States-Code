@@ -20,7 +20,3 @@ Such organizations may use grants made under subsection (a) of this section to m
 
 A prior section 12523, Pub. L. 101–610, title I, §113, Nov. 16, 1990, 104 Stat. 3134; Pub. L. 102–384, §4, Oct. 5, 1992, 106 Stat. 1455, related to State grant applications, prior to repeal by Pub. L. 103–82, §103(a)(2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12524, 12526, 12527, 12531 of this title.
-

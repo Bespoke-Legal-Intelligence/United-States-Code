@@ -114,13 +114,9 @@ Section 25A of the Federal Reserve Act, referred to in subsec. (a)(7)(A)(ii), (8
 
 1994—Subsec. (a). Pub. L. 103–328, §§104(a), 107(f), inserted heading and substituted provisions consisting of pars. (1) to (9) for former provisions relating to limitations on interstate banking by foreign banks.
 
-Subsec. (b). Pub. L. 103–328, §104(b), inserted at end “Notwithstanding subsection (a) of this section, a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, after September 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.”
+Subsec. (b). Pub. L. 103–328, §104(b), inserted at end “Notwithstanding subsection (a) of this section, a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, orsubsidiary continues, after September 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.”
 
 Subsec. (c). Pub. L. 103–328, §104(d), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section, the home State of a foreign bank that has branches, agencies, subsidiary commercial lending companies, or subsidiary banks, or any combination thereof, in more than one State, is whichever of such States is so determined by election of the foreign bank, or, in default of such election, by the Board.”
 
 Subsec. (d). Pub. L. 103–328, §104(c), added subsec. (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3102 of this title.
 

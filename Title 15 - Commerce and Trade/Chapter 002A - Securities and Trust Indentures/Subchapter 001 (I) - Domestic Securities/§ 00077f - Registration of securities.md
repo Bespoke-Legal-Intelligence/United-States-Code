@@ -2,7 +2,7 @@
 
 #### (a) Method of registration
 
-Any security may be registered with the Commission under the terms and conditions hereinafter provided, by filing a registration statement in triplicate, at least one of which shall be signed by each issuer, its principal executive officer or officers, its principal financial officer, its comptroller or principal accounting officer, and the majority of its board of directors or persons performing similar functions (or, if there is no board of directors or persons performing similar functions, by the majority of the persons or board having the power of management of the issuer), and in case the issuer is a foreign or Territorial person by its duly authorized representative in the United States; except that when such registration statement relates to a security issued by a foreign government, or political subdivision thereof, it need be signed only by the underwriter of such security. Signatures of all such persons when written on the said registration statements shall be presumed to have been so written by authority of the person whose signature is so affixed and the burden of proof, in the event such authority shall be denied, shall be upon the party denying the same. The affixing of any signature without the authority of the purported signer shall constitute a violation of this subchapter. A registration statement shall be deemed effective only as to the securities specified therein as proposed to be offered.
+Any security may be registered with the Commission under the terms and conditions hereinafter provided, by filing a registration statement in triplicate, at least one of which shall besigned by each issuer, its principal executive officer or officers, its principal financial officer, its comptroller or principal accounting officer, and the majority of its board of directors or persons performing similar functions (or, if there is no board of directors or persons performing similar functions, by the majority of the persons or board having the power of management of the issuer), and in case the issuer is a foreign or Territorial person by its duly authorized representative in the United States; except that when such registration statement relates to a security issued by a foreign government, or political subdivision thereof, it need be signed only by the underwriter of such security. Signatures of all such persons when written on the said registration statements shall be presumed to have been so written by authority of the person whose signature is so affixed and the burden of proof, in the event such authority shall be denied, shall be upon the party denying the same. The affixing of any signature without the authority of the purported signer shall constitute a violation of this subchapter. A registration statement shall be deemed effective only as to the securities specified therein as proposed to be offered.
 
 #### (b) Registration fee
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 107–123 effective Oct. 1, 2001, except that authorities p
 
 #### Effective Date of 1965 Amendment
 
-Section 2 of Pub. L. 89–289 provided that: “The amendment made by the first section of this Act\[amending this section\] shall take effect January 1, 1966.”
+Section 2 of Pub. L. 89–289 provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect January 1, 1966.”
 
 #### Transfer of Functions
 
@@ -187,10 +187,6 @@ Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 798.
 Pub. L. 101–515, title V, Nov. 5, 1990, 104 Stat. 2139.
 
 Pub. L. 101–162, title V, Nov. 21, 1989, 103 Stat. 1022.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77b, 78m, 78n, 80a–24 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

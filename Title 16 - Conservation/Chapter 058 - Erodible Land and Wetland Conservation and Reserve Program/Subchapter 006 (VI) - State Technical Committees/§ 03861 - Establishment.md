@@ -52,7 +52,3 @@ Each State technical committee established under subsection (a) of this section 
 
 1996—Subsec. (c)(9) to (12). Pub. L. 104–127 added pars. (9) to (12).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3862 of this title.
-

@@ -66,7 +66,3 @@ For purposes of this section and section 7236 of this title, the Secretary shall
 
 (Pub. L. 104–127, title I, §134, Apr. 4, 1996, 110 Stat. 908.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7235, 7934 of this title.
-

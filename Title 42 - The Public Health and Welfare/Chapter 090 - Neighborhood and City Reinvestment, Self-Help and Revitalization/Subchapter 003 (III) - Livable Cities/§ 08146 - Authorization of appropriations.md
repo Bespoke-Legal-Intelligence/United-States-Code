@@ -8,7 +8,3 @@ There are authorized to be appropriated for carrying out the purposes of this su
 
 1979—Pub. L. 96–153 reduced authorization of appropriation for fiscal year 1980 from “$10,000,000” to “$5,000,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8144 of this title.
-

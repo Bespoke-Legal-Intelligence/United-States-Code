@@ -6,10 +6,6 @@ Part B—Transitional Living Grant Program
 
 Part B—Records” heading, formerly set out preceding section 5731 of this title.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 677, 5715, 5731a, 5732, 5732a, 5751 of this title.
-
 
 ---
 

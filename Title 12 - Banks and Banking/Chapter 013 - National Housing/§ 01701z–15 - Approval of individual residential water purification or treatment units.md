@@ -6,7 +6,7 @@ When the existing water supply does not meet the minimum property standards esta
 
 #### (b) Approval process
 
-A performance-based approval of the equipment or unit and the maintenance, monitoring, and replacement plan for such equipment or unit shall be certified by field offices of the Department of Housing and Urban Development based upon general standards recognized by the Department as modified for local or regional conditions. As a part of such approved plan, a separate monthly escrow account may be required to be established through the lender to cover the cost of the approved yearly maintenance and monitoring schedule and projected replacement of the equipment or unit.
+A performance-based approval of the equipment or unit and the maintenance, monitoring, and replacement plan for such equipment orunit shall be certified by field offices of the Department of Housing and Urban Development based upon general standards recognized by the Department as modified for local or regional conditions. As a part of such approved plan, a separate monthly escrow account may be required to be established through the lender to cover the cost of the approved yearly maintenance and monitoring schedule and projected replacement of the equipment or unit.
 
 (Pub. L. 100–242, title IV, §424, Feb. 5, 1988, 101 Stat. 1915.)
 

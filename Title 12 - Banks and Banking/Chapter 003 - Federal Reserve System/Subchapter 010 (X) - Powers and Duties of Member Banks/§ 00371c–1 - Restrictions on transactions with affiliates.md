@@ -100,9 +100,5 @@ The Board may prescribe regulations to administer and carry out the purposes of 
 
 1999—Subsec. (b)(2). Pub. L. 106–102 amended text of par. (2) generally. Prior to amendment, text read as follows: “Subparagraph (B) of paragraph (1) shall not apply if the purchase or acquisition of such securities has been approved, before such securities are initially offered for sale to the public, by a majority of the directors of the bank who are not officers or employees of the bank or any affiliate thereof.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 371c, 504, 1468, 1815, 1828, 1831w, 1843 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

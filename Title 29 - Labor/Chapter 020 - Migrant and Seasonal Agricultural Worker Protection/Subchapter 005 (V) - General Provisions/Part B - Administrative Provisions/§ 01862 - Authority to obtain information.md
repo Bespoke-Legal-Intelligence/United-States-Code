@@ -14,7 +14,3 @@ It shall be a violation of this chapter for any person to unlawfully resist, opp
 
 (Pub. L. 97–470, title V, §512, Jan. 14, 1983, 96 Stat. 2598.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1823 of this title.
-

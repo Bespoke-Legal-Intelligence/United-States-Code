@@ -44,7 +44,7 @@ Nothing in this section may be construed to require a provider of electronic com
 
 #### (1) In general
 
-&emsp;No law enforcement agency that receives a report under subsection (b)(1) of this sectionshall disclose any information contained in that report, except that disclosure of such information may be made—
+&emsp;No law enforcement agency that receives a report under subsection (b)(1) of this section shall disclose any information contained in that report, except that disclosure of such information may be made—
 
 &emsp;&emsp;(A) to an attorney for the government for use in the performance of the official duties of the attorney;
 
@@ -77,8 +77,4 @@ Subsec. (f)(1)(D). Pub. L. 108–21, §508(a)(3), amended subpar. (D) generally.
 1999—Subsec. (b)(1). Pub. L. 106–113, §1000(a)(1) \[title I, §121(a)\], inserted “to the Cyber Tip Line at the National Center for Missing and Exploited Children, which shall forward that report” after “such facts or circumstances”.
 
 Subsec. (b)(2). Pub. L. 106–113, §1000(a)(1) \[title I, §121(b)\], substituted “forwarded” for “made”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 2702.
 

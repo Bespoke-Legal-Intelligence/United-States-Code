@@ -52,7 +52,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Amendment by Pub. L. 85–609 as subject to Reorganization Plan No. 5 of 1950, see note set out under section 1067 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1052 of this title.
-

@@ -32,7 +32,3 @@ In carrying out his duties under this section, the Secretary shall avoid, to the
 
 (Pub. L. 96–270, §7, June 14, 1980, 94 Stat. 494.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3602, 3603, 3604, 3605 of this title.
-

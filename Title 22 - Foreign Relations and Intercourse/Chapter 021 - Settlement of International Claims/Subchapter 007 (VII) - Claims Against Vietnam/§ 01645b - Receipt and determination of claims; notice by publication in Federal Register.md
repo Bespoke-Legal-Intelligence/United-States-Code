@@ -4,7 +4,3 @@ The Commission shall receive and determine in accordance with applicable substan
 
 (Mar. 10, 1950, ch. 54, title VII, §703, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3535.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1645a, 1645c, 1645d, 1645g, 1645i, 1645j of this title.
-

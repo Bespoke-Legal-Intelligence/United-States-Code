@@ -40,7 +40,3 @@ Not later than 180 days after July 30, 2002, the Commission shall issue final ru
 
 Section is comprised of section 401 of Pub. L. 107–204. Subsec. (a) of section 401 of Pub. L. 107–204 amended section 78m of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 78<i>l</i> of this title.
-

@@ -42,7 +42,7 @@ For purposes of subsection (a) of this section—
 
 &emsp;&emsp;(B) If the assets available for allocation under subparagraph (A) are sufficient to satisfy in full the benefits described in such subparagraph (without regard to this subparagraph), then for purposes of subparagraph (A), benefits of individuals described in such subparagraph shall be determined on the basis of the plan as amended by the most recent plan amendment effective during such 5-year period under which the assets available for allocation are sufficient to satisfy in full the benefits of individuals described in subparagraph (A) and any assets remaining to be allocated under such subparagraph shall be allocated under subparagraph (A) on the basis of the plan as amended by the next succeeding plan amendment effective during such period.
 
-&emsp;(4) If the Secretary of the Treasury determines that the allocation made pursuant to this section (without regard to this paragraph) results in discrimination prohibited by section 401(a)(4) of title 26 then, if required to prevent the disqualification of the plan (or any trust under the plan) under section 401(a) or 403(a) of title 26, the assets allocated under subsections (a)(4)(B), (a)(5), and (a)(6) of this section shall be reallocated to the extent necessary to avoid such discrimination.
+&emsp;(4) If the Secretary of the Treasury determines that the allocation made pursuant tothis section (without regard to this paragraph) results in discrimination prohibited by section 401(a)(4) of title 26 then, if required to prevent the disqualification of the plan (or any trust under the plan) under section 401(a) or 403(a) of title 26, the assets allocated under subsections (a)(4)(B), (a)(5), and (a)(6) of this section shall be reallocated to the extent necessary to avoid such discrimination.
 
 &emsp;(5) The term “mandatory contributions” means amounts contributed to the plan by a participant which are required as a condition of employment, as a condition of participation in such plan, or as a condition of obtaining benefits under the plan attributable to employer contributions. For this purpose, the total amount of mandatory contributions of a participant is the amount of such contributions reduced (but not below zero) by the sum of the amounts paid or distributed to him under the plan before its termination.
 
@@ -50,7 +50,7 @@ For purposes of subsection (a) of this section—
 
 #### (c) Increase or decrease in value of assets
 
-Any increase or decrease in the value of the assets of a single-employer plan occurring during the period beginning on the later of (1) the date a trustee is appointed under section 1342(b) of this title or (2) the date on which the plan is terminated is to be allocated between the plan and the corporation in the manner determined by the court (in the case of a court-appointed trustee) or as agreed upon by the corporationand the plan administrator in any other case. Any increase or decrease in the value of the assets of a single-employer plan occurring after the date on which the plan is terminated shall be credited to, or suffered by, the corporation.
+Any increase or decrease in the value of the assets of a single-employer plan occurring during the period beginning on the later of (1) the date a trustee is appointed under section 1342(b) of this title or (2) the date on which the plan is terminated is to be allocated between the plan and the corporation in the manner determined by the court (in the case of a court-appointed trustee) or as agreed upon by the corporation and the plan administrator in any other case. Any increase or decrease in the value of the assets of a single-employer plan occurring after the date on which the plan is terminated shall be credited to, or suffered by, the corporation.
 
 #### (d) Distribution of residual assets; restrictions on reversions pursuant to recently amended plans; assets attributable to employee contributions; calculation of remaining assets
 
@@ -92,7 +92,7 @@ Any increase or decrease in the value of the assets of a single-employer plan oc
 
 (4) Nothing in this subsection shall be construed to limit the requirements of section 4980(d) of title 26 (as in effect immediately after the enactment of the Omnibus Budget Reconciliation Act of 1990) or section 1104(d) of this title with respect to any distribution of residual assets of a single-employer plan to the employer.
 
-(Pub. L. 93–406, title IV, §4044, Sept. 2, 1974, 88 Stat. 1025; Pub. L. 96–364, title IV, §402(a)(7), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, title XI, §11016(c)(12), (13), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9311(a)(1), (b), (c), Dec. 22, 1987, 101 Stat. 1330–359, 1330–360; Pub. L. 101–239, title VII, §§7881(e)(3), 7891(a)(1), 7894(g)(2), Dec. 19, 1989, 103 Stat. 2440, 2445, 2451; Pub. L. 101–508, title XII, §12002(b)(2)(B), Nov. 5, 1990, 104 Stat. 1388–566.)
+(Pub. L. 93–406, title IV, §4044, Sept. 2, 1974, 88 Stat. 1025; Pub. L. 96–364, title IV, §402(a)(7), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, titleXI, §11016(c)(12), (13), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9311(a)(1), (b), (c), Dec. 22, 1987, 101 Stat. 1330–359, 1330–360; Pub. L. 101–239, title VII, §§7881(e)(3), 7891(a)(1), 7894(g)(2), Dec. 19, 1989, 103 Stat. 2440, 2445, 2451; Pub. L. 101–508, title XII, §12002(b)(2)(B), Nov. 5, 1990, 104 Stat. 1388–566.)
 
 #### References in Text
 
@@ -114,7 +114,7 @@ Subsec. (d)(1). Pub. L. 100–203, §9311(b)(1), substituted “Subject to parag
 
 Subsec. (d)(2). Pub. L. 100–203, §9311(a)(1)(B), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (d)(3). Pub. L. 100–203, §9311(b)(2), as amended by Pub. L. 101–239, §7881(e)(3), added par. (3), and struck out former par. (3) which read as follows: “Notwithstanding the provisions of paragraph (1), if any assets of the plan attributable to employee contributions, remain after all liabilities of the plan to participants and their beneficiaries have been satisfied, such assets shall be equitably distributed to the employees who madesuch contributions (or their beneficiaries) in accordance with their rate of contributions.”
+Subsec. (d)(3). Pub. L. 100–203, §9311(b)(2), as amended by Pub. L. 101–239, §7881(e)(3), added par. (3), and struck out former par. (3) which read as follows: “Notwithstanding the provisions of paragraph (1), if any assets of the plan attributable to employee contributions, remain after all liabilities of the plan to participants and their beneficiaries have been satisfied, such assets shall be equitably distributed to the employees who made such contributions (or their beneficiaries) in accordance with their rate of contributions.”
 
 Pub. L. 100–203, §9311(a)(1)(A), redesignated former par. (2) as (3).
 
@@ -167,8 +167,4 @@ Section 9311(a)(2) of Pub. L. 100–203, as amended by Pub. L. 101–239, title 
 #### Special Temporary Rule for Termination of Single-Employer Plan
 
 For special temporary rule relating to requirements to be met before the final distribution of assets in the case of the termination of certain single-employer plans with respect to which the amount payable to the employer pursuant to subsec. (d) of this section exceeds $1,000,000, see section 11008(d) of Pub. L. 99–272, set out as a note under section 1341 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1103, 1104, 1108, 1301, 1305, 1322, 1341, 1346 of this title; title 26 section 4975.
 

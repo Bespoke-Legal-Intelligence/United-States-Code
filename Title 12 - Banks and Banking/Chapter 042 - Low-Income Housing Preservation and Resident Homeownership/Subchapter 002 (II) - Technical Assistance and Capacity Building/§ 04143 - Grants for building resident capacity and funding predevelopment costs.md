@@ -52,9 +52,5 @@ Title II of the Emergency Low Income Housing Preservation Act of 1987, referred 
 
 Section 604 of the Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (d)(2), is section 604 of Pub. L. 101–625, which is set out as a note under section 4101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4145, 4147 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

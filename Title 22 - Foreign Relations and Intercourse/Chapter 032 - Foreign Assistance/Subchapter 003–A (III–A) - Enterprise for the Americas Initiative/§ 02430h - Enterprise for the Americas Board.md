@@ -26,7 +26,3 @@ For purposes of this subchapter, the Enterprise for the Americas Board shall—
 
 A prior section 709 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 465, amended section 279a of this title, prior to repeal by Pub. L. 87–565, pt. IV, §401, Aug. 1, 1962, 76 Stat. 263, except insofar as section 709 affected section 279a.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2430g of this title.
-

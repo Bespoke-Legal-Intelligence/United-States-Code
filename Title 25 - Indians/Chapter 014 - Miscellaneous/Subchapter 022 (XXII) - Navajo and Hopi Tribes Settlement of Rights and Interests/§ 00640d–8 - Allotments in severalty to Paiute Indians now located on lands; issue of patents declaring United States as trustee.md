@@ -10,9 +10,5 @@ Act of June 14, 1934, referred to in text, is act June 14, 1934, ch. 521, 48 Sta
 
 Section 331 of this title, referred to in text, was repealed by Pub. L. 106–462, title I, §106(a)(1), Nov. 7, 2000, 114 Stat. 2007.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 640d–9 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

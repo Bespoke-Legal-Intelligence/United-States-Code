@@ -10,17 +10,23 @@ A sample or result described in subsection (a) of this section may be disclosed 
 
 #### (c) Criminal penalty
 
-A person who knowingly—
+A person who knowingly discloses a sample or result described in subsection (a) of this section in any manner to any person not authorized to receive it, or obtains or uses, without authorization, such sample or result, shall be fined not more than $250,000, or imprisoned for a period of not more than one year. Each instance of disclosure, obtaining, or use shall constitute a separate offense under this subsection.
 
-&emsp;(1) discloses a sample or result described in subsection (a) of this section in any manner to any person not authorized to receive it; or
-
-&emsp;(2) obtains, without authorization, a sample or result described in subsection (a) of this section,
-
-> shall be fined not more than $100,000.
-
-(Pub. L. 106–546, §10, Dec. 19, 2000, 114 Stat. 2735.)
+(Pub. L. 106–546, §10, Dec. 19, 2000, 114 Stat. 2735; Pub. L. 108–405, title II, §203(e)(2), title III, §309, Oct. 30, 2004, 118 Stat. 2271, 2275.)
 
 #### Codification
 
 Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Amendments
+
+2004—Subsec. (c). Pub. L. 108–405, §309, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A person who knowingly—
+
+&emsp;“(1) discloses a sample or result described in subsection (a) of this section in any manner to any person not authorized to receive it; or
+
+&emsp;“(2) obtains, without authorization, a sample or result described in subsection (a) of this section,
+
+> shall be fined not more than $250,000, or imprisoned for a period of not more than one year, or both.”
+
+Pub. L. 108–405, §203(e)(2), substituted “$250,000, or imprisoned for a period of not more than one year, or both” for “$100,000” in concluding provisions.
 

@@ -2,7 +2,7 @@
 
 #### (a) Investigation
 
-Whenever it shall appear to the Commission, either upon complaint or otherwise, that the provisions of this subchapter or of any rule or regulation prescribed under the authority thereof, have been or are about to be violated by any person, it may in its discretion require, and in any event shall permit, such person to file with it a statement in writing, under oath or otherwise, as to all the facts and circumstances relevant to such violation, and may otherwise investigate all such facts and circumstances.
+Whenever it shall appear to the Commission, either upon complaint or otherwise, that the provisions of this subchapter or of any rule orregulation prescribed under the authority thereof, have been or are about to be violated by any person, it may in its discretion require, and in any event shall permit, such person to file with it a statement in writing, under oath or otherwise, as to all the facts and circumstances relevant to such violation, and may otherwise investigate all such facts and circumstances.
 
 #### (b) Administration of oaths and affirmations, subpena of witnesses, etc.
 
@@ -14,7 +14,7 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 #### (d) Action for injunction
 
-Whenever it shall appear to the Commission that any person has engaged, is engaged, or isabout to engage in any act or practice constituting a violation of any provision of this subchapter, or of any rule, regulation, or order hereunder, or that any person has aided, abetted, counseled, commanded, induced, or procured, is aiding, abetting, counseling, commanding, inducing, or procuring, or is about to aid, abet, counsel, command, induce, or procure such a violation, it may in its discretion bring an action in the proper district court of the United States, or the proper United States court of any Territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices and to enforce compliance with this subchapter or any rule, regulation, or order hereunder. Upon a showing that such person has engaged, is engaged, or is about to engage in any such act or practice, or in aiding, abetting, counseling, commanding, inducing, or procuring any such act or practice, a permanent or temporary injunction or decree or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning any violation of the provisions of this subchapter, or of any rule, regulation, or order thereunder, to the Attorney General, who, in his discretion, may institute the appropriate criminal proceedings under this subchapter.
+Whenever it shall appear to the Commission that any person has engaged, is engaged, or is about to engage in any act or practice constituting a violation of any provision of this subchapter, or of any rule, regulation, or order hereunder, or that any person has aided, abetted, counseled, commanded, induced, or procured, is aiding, abetting, counseling, commanding, inducing, or procuring, or is about to aid, abet, counsel, command, induce, or procure such a violation, it may in its discretion bring an action in the proper district court of the United States, or the proper United States court of any Territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices and to enforce compliance with this subchapter or any rule, regulation, or order hereunder. Upon a showing that such person has engaged, is engaged, or is about to engage in any such act or practice, or in aiding, abetting, counseling, commanding, inducing, or procuring any such act or practice, a permanent or temporary injunction or decree or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning any violation of the provisions of this subchapter, or of any rule, regulation, or order thereunder, to the Attorney General, who, in his discretion, may institute the appropriate criminal proceedings under this subchapter.
 
 #### (e) Money penalties in civil actions
 
@@ -91,8 +91,4 @@ Amendment by Pub. L. 91–452 not to affect any immunity to which any individual
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78u, 80b–10 of this title.
 

@@ -30,7 +30,3 @@ This section corrects a typographical error in subsection (a) of section 2001 of
 
 1949—Subsec. (a). Act May 24, 1949, corrected spelling of “ancillary” in second par.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2004, 3201, 3202 of this title.
-

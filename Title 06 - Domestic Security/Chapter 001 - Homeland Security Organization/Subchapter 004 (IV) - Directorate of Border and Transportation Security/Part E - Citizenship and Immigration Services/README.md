@@ -1,9 +1,5 @@
 Part E—Citizenship and Immigration Services
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 252, 297 of this title.
-
 
 ---
 

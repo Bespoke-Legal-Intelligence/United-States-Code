@@ -22,7 +22,7 @@ The provisions of some of these sections with reference to salaries of the Unite
 
 #### Senate Revision Amendment
 
-As finally enacted, section 158d of title 16, U.S.C., which was derived from act May 15, 1947, ch. 55, §4, 61 Stat. 91, 92, was an additional source of this section and was accordingly included by Senate amendment in the schedule of repeals. See 80th Congress Senate Report No. 1559.
+As finally enacted, section 158d of title 16, U.S.C., which was derived from act May 15, 1947, ch. 55, §4, 61Stat. 91, 92, was an additional source of this section and was accordingly included by Senate amendment in the schedule of repeals. See 80th Congress Senate Report No. 1559.
 
 #### Amendments
 
@@ -69,8 +69,4 @@ Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effec
 Section 108(b) of Pub. L. 98–353 provided that: “The maximum rates for salary of full-time and part-time United States magistrates \[now United States magistrate judges\] in effect on June 27, 1984, shall remain in effect until changed as a result of a determination made under section 634(a) of title 28, United States Code, as amended by this Act.”
 
 \[Section 108(b) of Pub. L. 98–353 effective June 27, 1984, see section 122(c) of Pub. L. 98–353, set out as an Effective Date note under section 151 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 633 of this title.
 

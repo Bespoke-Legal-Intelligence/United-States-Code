@@ -12,7 +12,7 @@ In order to facilitate the administration of the national park system, the Secre
 
 #### (c) Advisory committees; compensation and travel expenses
 
-&emsp;Appoint and establish such advisory committees in regard to the functions of the National Park Service as he may deem advisable, members of which shall receive no compensation for their services as such but who shall beallowed necessary travel expenses as authorized by section 5703 of title 5.
+&emsp;Appoint and establish such advisory committees in regard to the functions of the National Park Service as he may deem advisable,members of which shall receive no compensation for their services as such but who shall be allowed necessary travel expenses as authorized by section 5703 of title 5.
 
 #### (d) Park equipment purchases
 
@@ -48,7 +48,7 @@ In order to facilitate the administration of the national park system, the Secre
 
 #### (j) Cooperative research and training programs
 
-&emsp;Enter into cooperative agreements with public or private educational institutions, States, and their political subdivisions, for the purpose of developing adequate, coordinated, cooperative research and training programs concerning the resources of the National Park System, and, pursuant to any such agreements, to accept from and make available to the cooperator such technical and support staff, financial assistance for mutually agreed upon research projects, supplies and equipment, facilities, and administrative services relating to cooperative research units as theSecretary deems appropriate; except that this paragraph shall not waive any requirements for research projects that are subject to the Federal procurement regulations.
+&emsp;Enter into cooperative agreements with public or private educational institutions, States, and their political subdivisions, for the purpose of developing adequate, coordinated, cooperative research and training programs concerning the resources of the National Park System, and, pursuant to any such agreements, to accept from and make available to the cooperator such technical and support staff, financial assistance for mutually agreed upon research projects, supplies and equipment, facilities, and administrative services relating to cooperative research units as the Secretary deems appropriate; except that this paragraph shall not waive any requirements for research projects that are subject to the Federal procurement regulations.
 
 #### (k) Leases
 
@@ -130,7 +130,7 @@ In order to facilitate the administration of the national park system, the Secre
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (g), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
-This Act, referred to in subsec. (k)(5)(C), means Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 825, as amended, popularly known as the “National Park System General Authorities Act”. As originally enacted, Pub. L. 91–383 contained sections 1 to 4, the first 3 of which enacted sections 1a–1 and 1a–2 and amended sections 1b and 1c of this title. Pub. L. 94–458 amended Pub. L. 91–383 byadding sections 5 to 12, which enacted sections 1a–3 to 1a–7, amended sections 17j, 460n–5, 463, 470a, and 559, and repealed sections 10, 10a, 17b–1, and 415 of this title. Pub. L. 103–322 amended Pub. L. 91–383 by adding section 13, which enacted section 1a–7a of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (k)(5)(C), means Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 825, as amended, known as the “National Park System General Authorities Act”. As originally enacted, Pub. L. 91–383 contained sections 1 to 4, the first 3 of which enacted sections 1a–1and 1a–2 and amended sections 1b and 1c of this title. Pub. L. 94–458 amended Pub. L. 91–383 by adding sections 5 to 12, which enacted sections 1a–3 to 1a–7, amended sections 17j, 460n–5, 463, 470a, and 559, and repealed sections 10, 10a, 17b–1, and 415 of this title. Pub. L. 103–322 amended Pub. L. 91–383 by adding section 13, which enacted section 1a–7a of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1 of this title and Tables.
 
 #### Codification
 

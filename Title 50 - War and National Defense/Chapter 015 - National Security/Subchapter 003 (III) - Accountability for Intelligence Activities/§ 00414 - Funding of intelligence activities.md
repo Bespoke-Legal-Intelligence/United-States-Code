@@ -6,7 +6,7 @@ Appropriated funds available to an intelligence agency may be obligated or expen
 
 &emsp;(1) those funds were specifically authorized by the Congress for use for such activities; or
 
-&emsp;(2) in the case of funds from the Reserve for Contingencies of the Central Intelligence Agency and consistent with the provisions of section 413b of this title concerning any significant anticipated intelligence activity, the Director of Central Intelligence has notified the appropriate congressional committees of the intent to make such funds available for such activity; or
+&emsp;(2) in the case of funds from the Reserve for Contingencies of the Central Intelligence Agency and consistent with the provisions of section 413b of this title concerning any significant anticipated intelligence activity, the Director of the Central Intelligence Agency has notified the appropriate congressional committees of the intent to make such funds available for such activity; or
 
 &emsp;(3) in the case of funds specifically authorized by the Congress for a different activity—
 
@@ -14,7 +14,7 @@ Appropriated funds available to an intelligence agency may be obligated or expen
 
 &emsp;&emsp;(B) the need for funds for such activity is based on unforseen <sup>1</sup> requirements; and
 
-&emsp;&emsp;(C) the Director of Central Intelligence, the Secretary of Defense, or the Attorney General, as appropriate, has notified the appropriate congressional committees of the intent to make such funds available for such activity;
+&emsp;&emsp;(C) the Director of National Intelligence, the Secretary of Defense, or the Attorney General, as appropriate, has notified the appropriate congressional committees of the intent to make such funds available for such activity;
 
 &emsp;(4) nothing in this subsection prohibits obligation or expenditure of funds available to an intelligence agency in accordance with sections 1535 and 1536 of title 31.
 
@@ -28,13 +28,13 @@ No funds appropriated for, or otherwise available to, any department, agency, or
 
 #### (d) Report to Congressional committees required for expenditure of nonappropriated funds for intelligence activity
 
-(1) Except as otherwise specifically provided by law, funds available to an intelligence agencythat are not appropriated funds may be obligated or expended for an intelligence or intelligence-related activity only if those funds are used for activities reported to the appropriate congressional committees pursuant to procedures which identify—
+(1) Except as otherwise specifically provided by law, funds available to an intelligence agency that are not appropriated funds may be obligated or expended for an intelligence or intelligence-related activity only if those funds are used for activities reported to the appropriate congressional committees pursuant to procedures which identify—
 
 &emsp;(A) the types of activities for which nonappropriated funds may be expended; and
 
 &emsp;(B) the circumstances under which an activity must be reported as a significant anticipated intelligence activity before such funds can be expended.
 
-(2) Procedures for purposes of paragraph (1) shall be jointly agreed upon by the congressional intelligence committees and, as appropriate, the Director of Central Intelligence or the Secretary of Defense.
+(2) Procedures for purposes of paragraph (1) shall be jointly agreed upon by the congressional intelligence committees and, as appropriate, the Director of National Intelligence or the Secretary of Defense.
 
 #### (e) Definitions
 
@@ -50,9 +50,15 @@ As used in this section—
 
 &emsp;&emsp;(B) although the funds were not formally requested, the Congress both specifically authorized the appropriation of the funds for the activity and appropriated the funds for the activity.
 
-(July 26, 1947, ch. 343, title V, §504, formerly §502, as added Pub. L. 99–169, title IV, §401(a), Dec. 4, 1985, 99 Stat. 1004; renumbered §504 and amended Pub. L. 102–88, title VI, §§602(a)(1), (c)(1), 603, Aug. 14, 1991, 105 Stat. 441, 444; Pub. L. 107–306, title III, §353(b)(3)(D), Nov. 27, 2002, 116 Stat. 2402.)
+(July 26, 1947, ch. 343, title V, §504, formerly §502, as added Pub. L. 99–169, title IV, §401(a), Dec. 4, 1985, 99 Stat. 1004; renumbered §504 and amended Pub. L. 102–88, title VI, §§602(a)(1), (c)(1), 603, Aug. 14, 1991, 105 Stat. 441, 444; Pub. L. 107–306, title III, §353(b)(3)(D), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(Z), (AA), (5), Dec. 17, 2004, 118 Stat. 3689, 3690.)
 
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–458, §1071(a)(5), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+
+Subsec. (a)(3)(C). Pub. L. 108–458, §1071(a)(1)(Z), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+Subsec. (d)(2). Pub. L. 108–458, §1071(a)(1)(AA), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 2002—Subsec. (d)(2). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees”.
 
@@ -60,9 +66,17 @@ As used in this section—
 
 Subsecs. (c) to (e). Pub. L. 102–88, §603, added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+
 #### Limitation on Transfer of Funds Between CIA and Department of Defense; Congressional Notification Required
 
-Pub. L. 103–139, title VIII, §8107, Nov. 11, 1993, 107 Stat. 1464, provided that: “During the current fiscal year and thereafter, no funds may be made available through transfer, reprogramming, or other means between the Central Intelligence Agency and the Department of Defense for any intelligence or special activity different from that previously justified to the Congress unless the Director of Central Intelligence or the Secretary of Defense has notified the House and Senate Appropriations Committees of the intent to make such funds available for such activity.” Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 103–139, title VIII, §8107, Nov. 11, 1993, 107 Stat. 1464, provided that: “During the current fiscal year and thereafter, no funds may be made available through transfer, reprogramming, or other means between the Central Intelligence Agency and the Department of Defense for any intelligence or special activity different from that previously justified to the Congress unless the Director of Central Intelligence or the Secretary of Defense has notified the House and Senate Appropriations Committees of the intent to make such funds available for such activity.”
+
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.\]
+
+Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 102–396, title IX, §9014, Oct. 6, 1992, 106 Stat. 1903.
 
@@ -86,13 +100,9 @@ Pub. L. 102–172, title VIII, §8089, Nov. 26, 1991, 105 Stat. 1193, provided t
 
 #### Enhanced Security Countermeasures Capabilities; Application of Section
 
-Section 401(c) of Pub. L. 99–169 provided that: “The amendment made by section 401(a) of this Act \[enacting this section\] shall not apply with respect to funds appropriated to the Director of Central Intelligence under the heading ‘
+Pub. L. 99–169, title IV, §401(c), Dec. 4, 1985, 99 Stat. 1006, provided that the amendment made by section 401(a) of Pub. L. 99–169, enacting this section, would not apply with respect to funds appropriated to the Director of Central Intelligence under the heading “
 
-enhanced security countermeasures capabilities’ in the Supplemental Appropriations Act, 1985 (Public Law 99–88) \[Aug. 15, 1985, 99 Stat. 311\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 21 section 1703.
+enhanced security countermeasures capabilities” in the Supplemental Appropriations Act, 1985, Pub. L. 99–88, Aug. 15, 1985, 99 Stat. 311.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “unforeseen”.</i>
 

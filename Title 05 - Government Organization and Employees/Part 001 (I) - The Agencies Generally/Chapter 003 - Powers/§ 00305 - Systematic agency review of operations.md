@@ -52,7 +52,7 @@ Oct. 28, 1949, ch. 782, §1001, 63 Stat. 971.
 
 Subsection (a) is based in part on former sections 1081 and 1082, which are carried into section 5102.
 
-In subsection (a)(1), the exception of “a Government controlled corporation” is added to preserve the application of this section to “corporations wholly owned by the United States”. This is necessary as the defined term “Executive agency” includes the defined term “Government corporation” and the latter includes both Government owned and controlled corporations. Thus the exclusion of Government controlled corporations, which are distinct from wholly owned corporations, operates to preserve the application of this section towholly owned corporations. The exception for the Inland Waterways Corporation in former section 1082(13) is omitted on authority of the Act of July 19, 1963, Pub. L. 88–67, 77 Stat. 81. The exceptions for Production Credit Corporations and Federal Intermediate Credit Banks in former section 1082(18) and (19) are omitted as they are no longer “corporations wholly owned by the United States”. Under the Farm Credit Act of 1956, 70 Stat. 659, the Production Credit Corporations were merged in the Federal Intermediate Credit Banks, and pursuant to that Act the Federal Intermediate Credit Banks have ceased to be corporations wholly owned by the United States.
+In subsection (a)(1), the exception of “a Government controlled corporation” is added to preserve the application of this section to “corporations wholly owned by the United States”. This is necessary as the defined term “Executive agency” includes the defined term “Government corporation” and the latter includes both Government owned and controlled corporations. Thus the exclusion of Government controlled corporations, which are distinct from wholly owned corporations, operates to preserve the application of this section to wholly owned corporations. The exception for the Inland Waterways Corporation in former section 1082(13) is omitted on authority of the Act of July 19, 1963, Pub. L. 88–67, 77 Stat. 81. The exceptions for Production Credit Corporations and Federal Intermediate Credit Banks in former section 1082(18) and (19) are omitted as they are no longer “corporations wholly owned by the United States”. Under the Farm Credit Act of 1956, 70 Stat. 659, the Production Credit Corporations were merged in the Federal Intermediate Credit Banks, and pursuant to that Act the Federal Intermediate Credit Banks have ceased to be corporations wholly owned by the United States.
 
 In subsection (a)(7), the words “Panama Canal Company” are substituted for “Panama Railroad Company” on authority of the Act of Sept. 26, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038.
 
@@ -87,8 +87,4 @@ Functions of President under subsec. (b) of this section delegated to Director o
 #### Dissolution of Virgin Islands Corporation
 
 Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7204 of this title; title 10 sections 4540, 7212, 9540.
 

@@ -154,7 +154,3 @@ Section 203(b) of Pub. L. 95–633 required the Attorney General to publish prop
 
 Section 203(c) of Pub. L. 95–633 required the Attorney General to analyze and evaluate the impact and effectiveness of the amendments made by title II of Pub. L. 95–633, and report to the President and Congress not later than Mar. 1, 1980.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 802, 827, 841, 842, 843, 958 of this title.
-

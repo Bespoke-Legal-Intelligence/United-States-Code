@@ -14,7 +14,3 @@ The Secretary shall promulgate, and may amend, such rules and regulations as he 
 
 (Pub. L. 94–199, §10, Dec. 31, 1975, 89 Stat. 1121.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460gg–4, 460gg–6 of this title.
-

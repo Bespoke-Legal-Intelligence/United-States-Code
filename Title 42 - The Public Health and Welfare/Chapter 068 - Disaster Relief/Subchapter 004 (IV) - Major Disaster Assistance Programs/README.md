@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—MAJOR DISASTER ASSISTANCE PROGRAMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5321, 12840 of this title.
-
 
 ---
 

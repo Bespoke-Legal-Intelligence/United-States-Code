@@ -1,6 +1,6 @@
 ### §301. Departmental regulations
 
-The head of an Executive department or military department may prescribe regulations forthe government of his department, the conduct of its employees, the distribution and performance of its business, and the custody, use, and preservation of its records, papers, and property. This section does not authorize withholding information from the public or limiting the availability of records to the public.
+The head of an Executive department or military department may prescribe regulations for the government of his department, the conduct of its employees, the distribution and performance of its business, and the custody, use, and preservation of its records, papers, and property. This section does not authorize withholding information from the public or limiting the availability of records to the public.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 379.)
 
@@ -30,129 +30,133 @@ This section was part of title IV of the Revised Statutes. The Act of July 26, 1
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Improvements in Identification-Related Documents
+#### Minimum Standards for Birth Certificates
 
-Pub. L. 104–208, div. C, title VI, §656, Sept. 30, 1996, 110 Stat. 3009–716, as amended by Pub. L. 106–69, title III, §355, Oct. 9, 1999, 113 Stat. 1027, provided that:
+Pub. L. 108–458, title VII, §7211(a)–(d), Dec. 17, 2004, 118 Stat. 3825–3827, provided that:
 
 “(a)
 
-Birth Certificates.—
+Definition.—In this section \[enacting this note and repealing provisions set out as a note below\], the term ‘birth certificate’ means a certificate of birth—
+
+&emsp;“(1) for an individual (regardless of where born)—
+
+&emsp;&emsp;“(A) who is a citizen or national of the United States at birth; and
+
+&emsp;&emsp;“(B) whose birth is registered in the United States; and
+
+&emsp;“(2) that—
+
+&emsp;&emsp;“(A) is issued by a Federal, State, or local government agency or authorized custodian of record and produced from birth records maintained by such agency or custodian of record; or
+
+&emsp;&emsp;“(B) is an authenticated copy, issued by a Federal, State, or local government agency or authorized custodian of record, of an original certificate of birth issued by such agency or custodian of record.
+
+“(b)
+
+Standards for Acceptance by Federal Agencies.—
 
 &emsp;“(1)
 
-Standards for acceptance by federal agencies.—
-
-&emsp;&emsp;“(A)
-
-In general.—
-
-&emsp;&emsp;&emsp;“(i)
-
-General rule.—Subject to clause (ii), a Federal agency may not accept for any official purpose a certificate of birth, unless the certificate—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) is a birth certificate (as defined in paragraph (3)); and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) conforms to the standards set forth in the regulation promulgated under subparagraph (B).
-
-&emsp;&emsp;&emsp;“(ii)
-
-Applicability.—Clause (i) shall apply only to a certificate of birth issued after the day that is 3 years after the date of the promulgation of a final regulation under subparagraph (B). Clause (i) shall not be construed to prevent a Federal agency from accepting for official purposes any certificate of birth issued on or before such day.
-
-&emsp;&emsp;“(B)
-
-Regulation.—
-
-&emsp;&emsp;&emsp;“(i)
-
-Consultation with government agencies.—The President shall select 1 or more Federal agencies to consult with State vital statistics offices, and with other appropriate Federal agencies designated by the President, for the purpose of developing appropriate standards for birth certificates that may be accepted for official purposes by Federal agencies, as provided in subparagraph (A).
-
-&emsp;&emsp;&emsp;“(ii)
-
-Selection of lead agency.—Of the Federal agencies selected under clause (i), the President shall select 1 agency to promulgate, upon the conclusion of the consultation conducted under such clause, a regulation establishing standards of the type described in such clause.
-
-&emsp;&emsp;&emsp;“(iii)
-
-Deadline.—The agency selected under clause (ii) shall promulgate a final regulation under such clause not later than the date that is 1 year after the date of the enactment of this Act \[Sept. 30, 1996\].
-
-&emsp;&emsp;&emsp;“(iv)
-
-Minimum requirements.—The standards established under this subparagraph—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) at a minimum, shall require certification of the birth certificate by the State or local custodian of record that issued the certificate, and shall require the use of safety paper, the seal of the issuing custodian of record, and other features designed to limit tampering, counterfeiting, and photocopying, or otherwise duplicating, the birth certificate for fraudulent purposes;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) may not require a single design to which birth certificates issued by all States must conform; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) shall accommodate the differences between the States in the manner and form in which birth records are stored and birth certificates are produced from such records.
+In general.—Beginning 2 years after the promulgation of minimum standards under paragraph (3), no Federal agency may accept a birth certificate for any official purpose unless the certificate conforms to such standards.
 
 &emsp;“(2)
 
-Grants to states.—
+State certification.—
 
 &emsp;&emsp;“(A)
 
-Assistance in meeting federal standards.—
-
-&emsp;&emsp;&emsp;“(i)
-
-In general.—Beginning on the date a final regulation is promulgated under paragraph (1)(B), the Secretary of Health and Human Services, acting through the Director of the National Center for Health Statistics and after consulting with the head of any other agency designated by the President, shall make grants to States to assist them in issuing birth certificates that conform to the standards set forth in the regulation.
-
-&emsp;&emsp;&emsp;“(ii)
-
-Allocation of grants.—The Secretary shall provide grants to States under this subparagraph in proportion to the populations of the States applying to receive a grant and in an amount needed to provide a substantial incentive for States to issue birth certificates that conform to the standards described in clause (i).
+In general.—Each State shall certify to the Secretary of Health and Human Services that the State is in compliance with the requirements of this section.
 
 &emsp;&emsp;“(B)
 
-Assistance in matching birth and death records.—
-
-&emsp;&emsp;&emsp;“(i)
-
-In general.—The Secretary of Health and Human Services, acting through the Director ofthe National Center for Health Statistics and after consulting with the head of any other agency designated by the President, shall make grants to States to assist them in developing the capability to match birth and death records, within each State and among the States, and to note the fact of death on the birth certificates of deceased persons. In developing the capability described in the preceding sentence, a State that receives a grant under this subparagraph shall focus first on individuals born after 1950.
-
-&emsp;&emsp;&emsp;“(ii)
-
-Allocation and amount of grants.—The Secretary shall provide grants to States under this subparagraph in proportion to the populations of the States applying to receive a grant and in an amount needed to provide a substantial incentive for States to develop the capability described in clause (i).
+Frequency.—Certifications under subparagraph (A) shall be made at such intervals and in such a manner as the Secretary of Health and Human Services, with the concurrence of the Secretary of Homeland Security and the Commissioner of Social Security, may prescribe by regulation.
 
 &emsp;&emsp;“(C)
 
-Demonstration projects.—The Secretary of Health and Human Services, acting through the Director of the National Center for Health Statistics, shall make grants to States for a project in each of 5 States to demonstrate the feasibility of a system under which persons otherwise required to report the death of individuals to a State would be required to provide to the State's office of vital statistics sufficient information to establish the fact of death of every individual dying in the State within 24 hours of acquiring the information.
+Compliance.—Each State shall ensure that units of local government and other authorized custodians of records in the State comply with this section.
+
+&emsp;&emsp;“(D)
+
+Audits.—The Secretary of Health and Human Services may conduct periodic audits of each State's compliance with the requirements of this section.
 
 &emsp;“(3)
 
-Birth certificate.—As used in this subsection, the term ‘birth certificate’ means a certificate of birth—
+Minimum standards.—Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary of Health and Human Services shall by regulation establish minimum standards for birth certificates for use by Federal agencies for official purposes that—
 
-&emsp;&emsp;“(A) of—
+&emsp;&emsp;“(A) at a minimum, shall require certification of the birth certificate by the State or local government custodian of record that issued the certificate, and shall require the use of safety paper or an alternative, equally secure medium, the seal of the issuing custodian of record, and other features designed to prevent tampering, counterfeiting, or otherwise duplicating the birth certificate for fraudulent purposes;
 
-&emsp;&emsp;&emsp;“(i) an individual born in the United States; or
+&emsp;&emsp;“(B) shall establish requirements for proof and verification of identity as a condition of issuance of a birth certificate, with additional security measures for the issuance of a birth certificate for a person who is not the applicant;
 
-&emsp;&emsp;&emsp;“(ii) an individual born abroad—
+&emsp;&emsp;“(C) shall establish standards for the processing of birth certificate applications to prevent fraud;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) who is a citizen or national of the United States at birth; and
+&emsp;&emsp;“(D) may not require a single design to which birth certificates issued by all States must conform; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) whose birth is registered in the United States; and
+&emsp;&emsp;“(E) shall accommodate the differences between the States in the manner and form in which birth records are stored and birth certificates are produced from such records.
 
-&emsp;&emsp;“(B) that—
+&emsp;“(4)
 
-&emsp;&emsp;&emsp;“(i) is a copy, issued by a State or local authorized custodian of record, of an original certificate of birth issued by such custodian of record; or
+Consultation with government agencies.—In promulgating the standards required under paragraph (3), the Secretary of Health and Human Services shall consult with—
 
-&emsp;&emsp;&emsp;“(ii) was issued by a State or local authorized custodian of record and was produced from birth records maintained by such custodian of record.
+&emsp;&emsp;“(A) the Secretary of Homeland Security;
 
-“\[(b) Repealed. Pub. L. 106–69, title III, §355, Oct. 9, 1999, 113 Stat. 1027.\]
+&emsp;&emsp;“(B) the Commissioner of Social Security;
+
+&emsp;&emsp;“(C) State vital statistics offices; and
+
+&emsp;&emsp;“(D) other appropriate Federal agencies.
+
+&emsp;“(5)
+
+Extension of effective date.—The Secretary of Health and Human Services may extend the date specified under paragraph (1) for up to 2 years for birth certificates issued by a State if the Secretary determines that the State made reasonable efforts to comply with the date under paragraph (1) but was unable to do so.
 
 “(c)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\], the Secretary of Health and Human Services shall submit a report to the Congress on ways to reduce the fraudulent obtaining and the fraudulent use of birth certificates, including any such use to obtain a social security account number or a State or Federal document related to identification or immigration.
+Grants to States.—
+
+&emsp;“(1)
+
+Assistance in meeting federal standards.—
+
+&emsp;&emsp;“(A)
+
+In general.—Beginning on the date a final regulation is promulgated under subsection (b)(3), the Secretary of Health and Human Services shall award grants to States to assist them in conforming to the minimum standards for birth certificates set forth in the regulation.
+
+&emsp;&emsp;“(B)
+
+Allocation of grants.—The Secretary shall award grants to States under this paragraph based on the proportion that the estimated average annual number of birth certificates issued by a State applying for a grant bears to the estimated average annual number of birth certificates issued by all States.
+
+&emsp;&emsp;“(C)
+
+Minimum allocation.—Notwithstanding subparagraph (B), each State shall receive not less than 0.5 percent of the grant funds made available under this paragraph.
+
+&emsp;“(2)
+
+Assistance in matching birth and death records.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Secretary of Health and Human Services, in coordination with the Commissioner of Social Security and other appropriate Federal agencies, shall award grants to States, under criteria established by the Secretary, to assist States in—
+
+&emsp;&emsp;&emsp;“(i) computerizing their birth and death records;
+
+&emsp;&emsp;&emsp;“(ii) developing the capability to match birth and death records within each State and among the States; and
+
+&emsp;&emsp;&emsp;“(iii) noting the fact of death on the birth certificates of deceased persons.
+
+&emsp;&emsp;“(B)
+
+Allocation of grants.—The Secretary shall award grants to qualifying States under this paragraph based on the proportion that the estimated annual average number of birth and death records created by a State applying for a grant bears to the estimated annual average number of birth and death records originated by all States.
+
+&emsp;&emsp;“(C)
+
+Minimum allocation.—Notwithstanding subparagraph (B), each State shall receive not less than 0.5 percent of the grant funds made available under this paragraph.
 
 “(d)
 
-Federal Agency Defined.—For purposes of this section, the term ‘Federal agency’ means any of the following:
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary for each of the fiscal years 2005 through 2009 such sums as may be necessary to carry out this section.”
 
-&emsp;“(1) An Executive agency (as defined in section 105 of title 5, United States Code).
+#### Improvements in Identification-Related Documents
 
-&emsp;“(2) A military department (as defined in section 102 of such title).
-
-&emsp;“(3) An agency in the legislative branch of the Government of the United States.
-
-&emsp;“(4) An agency in the judicial branch of the Government of the United States.”
+Pub. L. 104–208, div. C, title VI, §656, Sept. 30, 1996, 110 Stat. 3009–716, as amended by Pub. L. 106–69, title III, §355, Oct. 9, 1999, 113 Stat. 1027, which related to standards for acceptance of birth certificates by Federal agencies for any official purpose, required the Secretary of Health and Human Services to make grants to States for assistance in meeting Federal standards and in matching birth and death records and for demonstration projects, and required the Secretary to submit a report to the Congress on ways to reduce the fraudulent obtaining and use of birth certificates, was repealed by Pub. L. 108–458, title VII, §7211(e), Dec. 17, 2004, 118 Stat. 3827.
 
 #### Equal Opportunity in Federal Employment
 

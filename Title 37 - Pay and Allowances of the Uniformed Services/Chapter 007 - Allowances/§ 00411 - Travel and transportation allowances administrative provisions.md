@@ -6,7 +6,7 @@
 
 &emsp;(1) consider the average cost of common carrier transportation when prescribing a monetary allowance in place of transportation;
 
-&emsp;(2) consider the current economic data on the cost of subsistence, including lodging andother necessary incidental expenses related thereto, when prescribing per diem rates and designating areas as high cost areas; and
+&emsp;(2) consider the current economic data on the cost of subsistence, including lodging and other necessary incidental expenses related thereto, when prescribing per diem rates and designating areas as high cost areas; and
 
 &emsp;(3) consider the average cost of transportation and current economic data on the cost of subsistence, including lodging and other necessary incidental expenses relating thereto, when prescribing mileage allowances.
 
@@ -75,8 +75,4 @@ Amendment by Pub. L. 96–343 effective with respect to travel and transportatio
 #### Effective Date of 1965 Amendment
 
 Amendment by Pub. L. 89–26 effective Feb. 1, 1965, see section 2 of Pub. L. 89–26, as amended, set out as an Effective Date note under section 405a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 420, 1003 of this title.
 

@@ -44,7 +44,3 @@ In subsection (b)(1), before clause (A), the words “within 120 days after Dece
 
 In subsection (b)(2), before clause (A), the words “As used in this section: (1) The term” are omitted as surplus. In clause (A), the words “to which this section applies” and “for the Armed Forces” are omitted as surplus. In clause (B), the words “the sum of the fractions obtained” are substituted for “a sum of terms, each term of which is a fraction created” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 32911 of this title.
-

@@ -4,7 +4,3 @@ There are hereby authorized to be appropriated to the Secretary of the Treasury 
 
 (Pub. L. 90–390, §3, July 7, 1968, 82 Stat. 297.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 635k of this title; title 22 section 2392.
-

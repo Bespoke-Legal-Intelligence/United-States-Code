@@ -24,9 +24,5 @@ The full faith and credit of the United States is pledged to pay all amounts tha
 
 (Pub. L. 85–699, title III, §355, as added Pub. L. 106–554, §1(a)(8) \[§1(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–658.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 689b of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “the”.</i>
 

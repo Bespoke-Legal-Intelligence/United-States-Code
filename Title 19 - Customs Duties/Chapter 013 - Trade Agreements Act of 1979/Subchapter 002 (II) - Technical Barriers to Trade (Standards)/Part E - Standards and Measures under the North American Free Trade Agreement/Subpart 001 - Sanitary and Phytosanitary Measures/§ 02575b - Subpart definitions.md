@@ -72,7 +72,3 @@ Notwithstanding section 2571 of this title, for purposes of this subpart—
 
 (Pub. L. 96–39, title IV, §463, as added Pub. L. 103–182, title III, §351(a), Dec. 8, 1993, 107 Stat. 2119.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2544, 2578b of this title.
-

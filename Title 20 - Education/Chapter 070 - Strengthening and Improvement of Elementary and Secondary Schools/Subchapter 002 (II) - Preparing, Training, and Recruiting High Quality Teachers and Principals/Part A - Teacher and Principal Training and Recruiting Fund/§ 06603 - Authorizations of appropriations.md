@@ -12,13 +12,9 @@ There are authorized to be appropriated to carry out subpart 5 of this part such
 
 #### Prior Provisions
 
-A prior section 6603, Pub. L. 89–10, title II, §2003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3614; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(b)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–406, authorized appropriations and related to allocations of appropriations, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6603, Pub. L. 89–10, title II, §2003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3614; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(b)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–406, authorized appropriations and related to allocations of appropriations, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 2103 of Pub. L. 89–10 was classified to section 6623 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Another prior section 2103 of Pub. L. 89–10 was classified to section 3003 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6611, 6651 of this title.
 

@@ -32,7 +32,7 @@ Allowable rent structures.—
 
 &emsp;&emsp;(i)
 
-Flat rents.—Except as otherwise provided under this clause, each public housingagency shall establish, for each dwelling unit in public housing owned or operated by the agency, a flat rental amount for the dwelling unit, which shall—
+Flat rents.—Except as otherwise provided under this clause, each public housing agency shall establish, for each dwelling unit in public housing owned or operated by the agency, a flat rental amount for the dwelling unit, which shall—
 
 &emsp;&emsp;&emsp;(I) be based on the rental value of the unit, as determined by the public housing agency; and
 
@@ -54,7 +54,7 @@ Discretion.—Subject to the limitation on monthly rental amount under subclause
 
 &emsp;(C)
 
-Switching rent determination methods because of hardship circumstances.—Notwithstanding subparagraph (A), in the case of a family that has elected to pay rent in the amount determined under subparagraph (B)(i), a public housing agency shall immediately provide for the family to pay rent in the amount determined under subparagraph (B)(ii) during the period for which such election was made upon a determination that the family is unable to pay the amount determined under subparagraph (B)(i) because of financial hardship, including—
+Switching rent determination methods because of hardship circumstances.—Notwithstanding subparagraph (A), in the case of a family that has elected to pay rent in the amount determined under subparagraph (B)(i),a public housing agency shall immediately provide for the family to pay rent in the amount determined under subparagraph (B)(ii) during the period for which such election was made upon a determination that the family is unable to pay the amount determined under subparagraph (B)(i) because of financial hardship, including—
 
 &emsp;&emsp;(i) situations in which the income of the family has decreased because of changed circumstances, loss of <sup>2</sup> reduction of employment, death in the family, and reduction in or loss of income or other assistance;
 
@@ -94,7 +94,7 @@ Exception for hardship circumstances.—
 
 &emsp;&emsp;(i)
 
-In general.—Notwithstanding subparagraph (A), a public housing agency (or the Secretary, in the case of a family described in subparagraph (A)(ii)) shall immediately grant an exemption from application of the minimum monthly rental under such subparagraph to any family unable to pay such amount because of financial hardship, which shall include situations in which (I) the family has lost eligibility for or is awaiting an eligibility determination for a Federal, State, or local assistance program, including a family that includes a member who is analien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] who would be entitled to public benefits but for title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996; (II) the family would be evicted as a result of the imposition of the minimum rent requirement under subparagraph (A); (III) the income of the family has decreased because of changed circumstance, including loss of employment; (IV) a death in the family has occurred; and (V) other situations as may be determined by the agency (or the Secretary, in the case of a family described in subparagraph (A)(ii)).
+In general.—Notwithstanding subparagraph (A), a public housing agency (or the Secretary, in the case of a family described in subparagraph (A)(ii)) shall immediately grant an exemption from application of the minimum monthly rental under such subparagraph to any family unable to pay such amount because of financial hardship, which shall include situations in which (I) the family has lost eligibility for or is awaiting an eligibility determination for a Federal, State, or local assistance program, including a family that includes a member who is an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] who would be entitled to public benefits but for title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996; (II) the family would be evicted as a result of the imposition of the minimum rent requirement under subparagraph (A); (III) the income of the family has decreased because of changed circumstance, including loss of employment; (IV) a death in the family has occurred; and (V) other situations as may be determined by the agency (or the Secretary, in the case of a family described in subparagraph (A)(ii)).
 
 &emsp;&emsp;(ii)
 
@@ -114,7 +114,7 @@ Increased security.—A public housing agency may take the actions authorized in
 
 &emsp;(C)
 
-Definition.—In this paragraph, the term “police officer” means any person determined by a public housing agency to be, during the period of residence of that person in public housing, employed on a full-time basis as a duly licensed professional police officer by a Federal, State, or local government or by any agency thereof (including a public housing agency having an accredited police force).
+Definition.—In this paragraph, the term “police officer” means any person determined by a public housing agency to be, during the period of residence of that person in public housing, employed on a full-time basis as a duly licensed professional police officer by a Federal, State, or local government or by anyagency thereof (including a public housing agency having an accredited police force).
 
 (5)
 
@@ -216,7 +216,7 @@ Child care expenses.—Any reasonable child care expenses necessary to enable a 
 
 &emsp;&emsp;(iv)
 
-Minors, students, and persons with disabilities.—$480 for each member of thefamily residing in the household (other than the head of the household or his or her spouse) who is less than 18 years of age or is attending school or vocational training on a full-time basis, or who is 18 years of age or older and is a person with disabilities.
+Minors, students, and persons with disabilities.—$480 for each member of the family residing in the household (other than the head of the household or his or her spouse) who is less than 18 years of age or is attending school or vocational training on a full-time basis, or who is 18 years of age or older and is a person with disabilities.
 
 &emsp;&emsp;(v)
 
@@ -358,7 +358,7 @@ When used in reference to public housing:
 
 #### (2) Deposits to account
 
-&emsp;The public housing agency shall deposit in any savings account established under thissubsection an amount equal to the total amount that otherwise would be applied to the family's rent payment under subsection (a) of this section as a result of employment.
+&emsp;The public housing agency shall deposit in any savings account established under this subsection an amount equal to the total amount that otherwise would be applied to the family's rent payment under subsection (a) of this section as a result of employment.
 
 #### (3) Withdrawal from account
 
@@ -388,7 +388,7 @@ When used in reference to public housing:
 
 &emsp;&emsp;(C) for which project-based assistance is provided under section 1437f of this title, section 1437bb <sup>7</sup> of this title, or section 811.<sup>7</sup>
 
-(Sept. 1, 1937, ch. 896, title I, §3, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 654; amended Pub. L. 94–375, §2(f), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–557, title II, §206(c), Oct. 31, 1978, 92 Stat. 2091; Pub. L. 96–153, title II, §202(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 97–35, title III, §322(a), Aug. 13, 1981, 95 Stat. 400; Pub. L. 98–181, title II, §§202, 206(a)–(c), Nov. 30, 1983, 97 Stat. 1178, 1179; Pub. L. 98–479, title I, §102(b)(1)–(3), Oct. 17, 1984, 98 Stat. 2221; Pub. L. 100–242, title I, §§102(a), 111, 170(c), Feb. 5, 1988, 101 Stat. 1821, 1823, 1867; renumbered title I and amended Pub. L. 100–358, §§4, 5, June 29, 1988, 102 Stat. 680, 681; Pub. L. 101–235, title III, §302, Dec. 15, 1989, 103 Stat. 2043; Pub. L. 101–625, title V, §§515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, 104 Stat. 4199, 4236–4238; Pub. L. 102–550, title I, §§102–103(a)(2), 185(c)(4), title VI, §§621, 622(c), 625(a)(1), Oct. 28, 1992, 106 Stat. 3683, 3748, 3812, 3817, 3820; Pub. L. 103–233, title III, §301, Apr. 11, 1994, 108 Stat. 369; Pub. L. 104–99, title IV, §402(b)(1), (c), Jan. 26, 1996, 110 Stat. 40, 41; Pub. L. 104–330, title V, §501(b)(1), Oct. 26, 1996, 110 Stat. 4041; Pub. L. 105–276, title V, §§506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, 112 Stat. 2523–2529, 2562, 2565–2567, 2604; Pub. L. 106–74, title II, §214(a), Oct. 20, 1999, 113 Stat. 1074; Pub. L. 106–402, title IV, §401(b)(7), Oct. 30, 2000, 114 Stat. 1738.)
+(Sept. 1, 1937, ch. 896, title I, §3, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 654; amended Pub. L. 94–375, §2(f), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–557, title II, §206(c), Oct. 31, 1978, 92 Stat. 2091; Pub. L. 96–153, title II, §202(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 97–35, title III, §322(a), Aug. 13, 1981, 95 Stat. 400; Pub. L. 98–181, title II, §§202, 206(a)–(c), Nov. 30, 1983, 97 Stat. 1178, 1179; Pub. L. 98–479, title I, §102(b)(1)–(3), Oct. 17, 1984, 98 Stat. 2221; Pub. L. 100–242, title I, §§102(a), 111, 170(c), Feb. 5, 1988, 101 Stat. 1821, 1823, 1867; renumbered title I and amended Pub.L. 100–358, §§4, 5, June 29, 1988, 102 Stat. 680, 681; Pub. L. 101–235, title III, §302, Dec. 15, 1989, 103 Stat. 2043; Pub. L. 101–625, title V, §§515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, 104 Stat. 4199, 4236–4238; Pub. L. 102–550, title I, §§102–103(a)(2), 185(c)(4), title VI, §§621, 622(c), 625(a)(1), Oct. 28, 1992, 106 Stat. 3683, 3748, 3812, 3817, 3820; Pub. L. 103–233, title III, §301, Apr. 11, 1994, 108 Stat. 369; Pub. L. 104–99, title IV, §402(b)(1), (c), Jan. 26, 1996, 110 Stat. 40, 41; Pub. L. 104–330, title V, §501(b)(1), Oct. 26, 1996, 110 Stat. 4041; Pub. L. 105–276, title V, §§506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, 112 Stat. 2523–2529, 2562, 2565–2567, 2604; Pub. L. 106–74, title II, §214(a), Oct. 20, 1999, 113 Stat. 1074; Pub. L. 106–402, title IV, §401(b)(7), Oct. 30, 2000, 114 Stat. 1738.)
 
 #### References in Text
 
@@ -450,7 +450,7 @@ Subsec. (b)(6). Pub. L. 105–276, §546, amended par. (6) generally. Prior to a
 
 Subsec. (b)(9) to (13). Pub. L. 105–276, §506(4), added pars. (9) to (13).
 
-Subsec. (c). Pub. L. 105–276, §508(b)(1)(A), which directed the amendment of subsec. (c) by striking out the undesignated par. after par. (3), was executed by striking out concluding provisions after par. (5), to reflect the probable intent of Congress. Concluding provisions read as follows: “The earnings of and benefits to any public housing resident resulting from participation in a program providing employment training and supportive services in accordance with the Family Support Act of 1988, section 1437t of this title, or any comparable Federal, State, or local law shall not be considered as income for the purposes of determining a limitation on the amount of rent paid by the resident during—
+Subsec. (c). Pub. L. 105–276, §508(b)(1)(A), which directed the amendment of subsec. (c) by striking out theundesignated par. after par. (3), was executed by striking out concluding provisions after par. (5), to reflect the probable intent of Congress. Concluding provisions read as follows: “The earnings of and benefits to any public housing resident resulting from participation in a program providing employment training and supportive services in accordance with the Family Support Act of 1988, section 1437t of this title, or any comparable Federal, State, or local law shall not be considered as income for the purposes of determining a limitation on the amount of rent paid by the resident during—
 
 &emsp;“(1) the period that the resident participates in such program; and
 
@@ -498,7 +498,7 @@ Subsec. (b)(5)(G). Pub. L. 104–330, §501(b)(1)(A)(ii), (iii), redesignated su
 
 Subsec. (b)(5)(H). Pub. L. 104–330, §501(b)(1)(A)(iii), redesignated subpar. (H) as (G).
 
-Pub. L. 104–99, §402(c), (f), temporarily added subpar. (H) which read “for public housing, any other adjustments to earned income established by the public housing agency. If a public housing agency adopts other adjustments to income pursuant to subparagraph (H), the Secretary shall not take into account any reduction of or increase in the public housing agency's per unitdwelling rental income resulting from those adjustments when calculating the contributions under section 1437g of this title for the public housing agency for the operation of the public housing.” See Effective and Termination Dates of 1996 Amendments note below.
+Pub. L. 104–99, §402(c), (f), temporarily added subpar. (H) which read “for public housing, any other adjustments to earned income established by the public housing agency. If a public housing agency adopts other adjustments to income pursuant to subparagraph (H), the Secretary shall not take into account any reduction of or increase in the public housing agency's per unit dwelling rental income resulting from those adjustments when calculating the contributions under section 1437g of this title for the public housing agency for the operation of the public housing.” See Effective and Termination Dates of 1996 Amendments note below.
 
 Subsec. (b)(6). Pub. L. 104–330, §501(b)(1)(B), struck out at end “The term includes any Indian housing authority.”
 
@@ -684,7 +684,7 @@ Transition rule.—Prior to the issuance of final regulations under paragraph (1
 
 \[Section 402(b)(2) of Pub. L. 104–99, set out above, effective Jan. 26, 1996, and only for fiscal years 1996, 1997, and 1998, and to cease to be effective Oct. 21, 1998, see Effective and Termination Dates of 1996 Amendments notes above.\]
 
-Section 191 of title I of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any final regulations necessary to implement the provisions of this title \[see Tables for classification\] and the amendments made by this title not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], except as expressly provided otherwise in this title and the amendments made by this title. Such regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
+Section 191 of title I of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Developmentshall issue any final regulations necessary to implement the provisions of this title \[see Tables for classification\] and the amendments made by this title not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], except as expressly provided otherwise in this title and the amendments made by this title. Such regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
 
 #### Savings Provision
 
@@ -718,7 +718,7 @@ Ceiling rents from balanced budget act, I.—An agency may utilize the authority
 
 &emsp;“(3)
 
-Transitional ceiling rents for balanced budget act, I.—An agency may utilize the authority with respect to ceiling rents under section 402(b)(2) of The Balanced Budget Downpayment Act, I \[Pub. L. 104–99\] (42 U.S.C. 1437a note), notwithstanding any other provision of law (including the expiration of theapplicability of such section or the repeal of such section).”
+Transitional ceiling rents for balanced budget act, I.—An agency may utilize the authority with respect to ceiling rents under section 402(b)(2) of The Balanced Budget Downpayment Act, I \[Pub. L. 104–99\] (42 U.S.C. 1437a note), notwithstanding any other provision of law (including the expiration of the applicability of such section or the repeal of such section).”
 
 #### Certain Payments Made to Victims of Nazi Persecution Disregarded in Determining Eligibility for and Amount of Need-Based Benefits and Services
 
@@ -800,7 +800,7 @@ Section 206(d) of Pub. L. 98–181 provided that:
 
 “(1) The following provisions of this paragraph apply to determinations of the rent to be paid by or the contribution required of a tenant occupying housing assisted under the authorities amended by this section \[amending this section\] or subsections (a) through (h) of section 322 of the Housing and Community Development Amendments of 1981 \[amending sections 1437 to 1437d, 1437f, 1437g, 1437i, 1437j, and 1437<i>l</i> of this title and sections 1701s and 1715z–1 of Title 12, Banks and Banking, and repealing provisions set out as notes under this section and section 1701s of Title 12\] (hereinafter referred to as ‘assisted housing’) on or before the effective date of regulations implementing this section:
 
-&emsp;“(A) Notwithstanding any other provision of this section or subsections (a) through (h) of section 322 ofthe Housing and Community Development Amendments of 1981, the Secretary of Housing and Urban Development (hereinafter referred to as the 'Secretary’) may provide for delayed applicability, or for staged implementation, of the procedures for determining rents or contributions, as appropriate, required by such provisions if the Secretary determines that immediate application of such procedures would be impracticable, would violate the terms of existing leases, or would result in extraordinary hardship for any class of tenants.
+&emsp;“(A) Notwithstanding any other provision of this section or subsections (a) through (h) of section 322 of the Housing and Community Development Amendments of 1981, the Secretary of Housing and Urban Development (hereinafter referred to as the 'Secretary’) may provide for delayed applicability, or for staged implementation, of the procedures for determining rents or contributions, as appropriate, required by such provisions if the Secretary determines that immediate application of such procedures would be impracticable, would violate the terms of existing leases, or would result in extraordinary hardship for any class of tenants.
 
 &emsp;“(B) The Secretary shall provide that the rent or contribution, as appropriate, required to be paid by a tenant shall not increase as a result of the amendments made by this section and subsections (a) through (h) of section 322 of the Housing and Community Development Amendments of 1981, and as a result of any other provision of Federal law or regulation, by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to such amendments, law, or regulation.
 
@@ -823,10 +823,6 @@ Prior provisions for determining rent payable by tenants occupying assisted hous
 #### Establishment of Increased Monthly Rental Charge for Family Occupying Low-Income Housing Unit; Adjustment Factors
 
 Section 202 of Pub. L. 93–383 provided that: “To the extent that section 3(1) of the United States Housing Act of 1937, as amended by section 201(a) of this Act \[par. (1) of this section\], would require the establishment of an increased monthly rental charge for any family which occupies a low-income housing unit as of the effective date of such section 3(1) (other than by reason of the provisions relating to welfare assistance payments) \[see Effective Date note set out above\], the required adjustment shall be made, in accordance with regulations of the Secretary, as follows: (A) the first adjustment shall not exceed $5 and shall become effective as of the month following the month of the first review of the family's income pursuant to section 6(c)(2) of such Act \[section 1437d(c)(2) of this title\] which occurs at least six months after the effective date of such section 3(1), and (B) subsequent adjustments, each of which shall not exceed $5, shall be made at six-month intervals over whatever period is necessary to effect the full required increase in the family's rental charge.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 247b–16, 254b, 254e, 280g, 503, 1436a, 1437f, 1437j, 1437r, 1437s, 1437z–3, 1437z–7, 1437aaa–3, 1437bbb–4, 1471, 1486, 3544, 4851b, 5305, 8011, 8012, 8013, 9907, 11386, 11395, 11403e–2, 11403g, 12704, 12876, 12896, 12899d, 12899f, 12910, 13617, 13641, 13661, 13664 of this title; title 12 sections 1441a, 1701q, 1701u, 1701z–11, 1715z–1a, 1715z–1c, 1715z–9, 1715z–15, 1831q, 4119, 4125; title 20 section 1070a–22; title 38 section 1705.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

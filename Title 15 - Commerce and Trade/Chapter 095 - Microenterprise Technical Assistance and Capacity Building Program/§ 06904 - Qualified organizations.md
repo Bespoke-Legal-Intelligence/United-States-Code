@@ -12,7 +12,3 @@ For purposes of eligibility for assistance under this chapter, a qualified organ
 
 (Pub. L. 103–325, title I, §175, as added Pub. L. 106–102, title VII, §725, Nov. 12, 1999, 113 Stat. 1473.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6901 of this title.
-

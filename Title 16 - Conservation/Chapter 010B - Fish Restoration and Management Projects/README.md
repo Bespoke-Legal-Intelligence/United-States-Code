@@ -64,10 +64,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 669k, 742b–1, 1225, 2904, 2905, 3125 of this title; title 25 sections 1709, 1745; title 26 section 9504; title 46 section 13101.
-
 
 ---
 

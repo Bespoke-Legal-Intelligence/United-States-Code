@@ -34,7 +34,3 @@ It shall be unlawful for any person to obtain by means of order forms issued und
 
 Schedules I and II, referred to in subsec. (a), are set out in section 812(c) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 843 of this title.
-

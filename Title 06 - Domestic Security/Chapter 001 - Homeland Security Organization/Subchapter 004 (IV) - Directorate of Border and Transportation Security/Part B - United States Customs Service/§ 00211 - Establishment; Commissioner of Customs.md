@@ -30,7 +30,3 @@ Section is comprised of section 411 of Pub. L. 107–296. Subsec. (b)(2) of sect
 
 Customs Service, referred to in subsecs. (a) and (b)(1), changed to Bureau of Customs and Border Protection by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 212 of this title.
-

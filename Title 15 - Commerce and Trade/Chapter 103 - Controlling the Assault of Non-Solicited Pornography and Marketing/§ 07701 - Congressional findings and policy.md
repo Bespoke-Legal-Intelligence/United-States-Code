@@ -46,5 +46,5 @@ Pub. L. 108–187, §16, Dec. 16, 2003, 117 Stat. 2719, provided that: “The pr
 
 #### Short Title
 
-Pub. L. 108–187, §1, Dec. 16, 2003, 117 Stat. 2699, provided that: “This Act \[enacting this chapter and section 1037 of Title 18, Crimes and Criminal Procedure, amending section 227 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and enacting provisions listed in a Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines Relating to Specific Offenses table set out under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003’, or the ‘CAN-SPAM Act of 2003’.”
+Pub. L. 108–187, §1, Dec. 16, 2003, 117 Stat. 2699, provided that: “This Act \[enacting this chapter and section 1037 of Title 18, Crimes and Criminal Procedure, amending section 227 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003’, or the ‘CAN-SPAM Act of 2003’.”
 

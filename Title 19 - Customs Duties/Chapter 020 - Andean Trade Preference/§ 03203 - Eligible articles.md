@@ -16,7 +16,7 @@
 
 > For purposes of determining the percentage referred to in subparagraph (B), the term “beneficiary country” includes the Commonwealth of Puerto Rico and the United States Virgin Islands. If the cost or value of materials produced in the customs territory of the United States (other than the Commonwealth of Puerto Rico) is included with respect to an article to which this paragraph applies, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributed to such United States cost or value may be applied toward determining the percentage referred to in subparagraph (B).
 
-(2) The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out paragraph (1) including, but not limited to, regulations providing that, in order tobe eligible for duty-free treatment under this chapter, an article must be wholly the growth, product, or manufacture of a beneficiary country, or must be a new or different article of commerce which has been grown, produced, or manufactured in the beneficiary country; but no article or material of a beneficiary country shall be eligible for such treatment by virtue of having merely undergone—
+(2) The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out paragraph (1) including, but not limited to, regulations providing that, in order to be eligible for duty-free treatment under this chapter, an article must be wholly the growth, product, or manufacture of a beneficiary country, or must be a new or different article of commerce which has been grown, produced, or manufactured in the beneficiary country; but no article or material of a beneficiary country shall be eligible for such treatment by virtue of having merely undergone—
 
 &emsp;(A) simple combining or packaging operations, or
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;Apparel articles sewn or otherwise assembled in 1 or more ATPDEA beneficiary countries, or the United States, or both, exclusively from any one or any combination of the following:
 
-&emsp;&emsp;&emsp;&emsp;(I) Fabrics or fabric components wholly formed, or components knit-to-shape, in the United States, from yarns wholly formed in the United States or 1 or more ATPDEA beneficiary countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in the United States). Apparel articles shall qualify under this subclause only if all dyeing, printing, and finishingof the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under this subclause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.
+&emsp;&emsp;&emsp;&emsp;(I) Fabrics or fabric components wholly formed, or components knit-to-shape, in the United States, from yarns wholly formed in the United States or 1 or more ATPDEA beneficiary countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in the United States). Apparel articles shall qualify under this subclause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under this subclause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.
 
 &emsp;&emsp;&emsp;&emsp;(II) Fabrics or fabric components formed or components knit-to-shape, in 1 or more ATPDEA beneficiary countries, from yarns wholly formed in 1 or more ATPDEA beneficiary countries, if such fabrics (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in 1 or more ATPDEA beneficiary countries) or components are in chief value of llama, alpaca, or vicun�AE6a.
 
@@ -112,7 +112,7 @@
 
 #### (II) Limitation
 
-&emsp;&emsp;&emsp;&emsp;During the 1-year period beginning on October 1, 2003, and during each of the 3 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferential treatment under this paragraph only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that areentered and eligible under this clause during the preceding 1-year period.
+&emsp;&emsp;&emsp;&emsp;During the 1-year period beginning on October 1, 2003, and during each of the 3 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferential treatment under this paragraph only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
 
 #### (III) Development of procedure to ensure compliance
 
@@ -138,7 +138,7 @@
 
 #### (IV) Special origin rule
 
-&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under clause (i) or (iii) shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30, 5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS from a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1995.
+&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under clause (i) or (iii) shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30,5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS from a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1995.
 
 #### (vii) Textile luggage
 
@@ -160,7 +160,7 @@
 
 #### (ii) Penalties for countries
 
-&emsp;&emsp;&emsp;Whenever the President finds, based on sufficient evidence, that transshipment has occurred, the President shall request that the ATPDEA beneficiary country or countries through whose territory the transshipment has occurred take all necessary and appropriate actions to prevent such transshipment. If the President determines that a country is not taking such actions, the President shall reduce thequantities of apparel articles that may be imported into the United States from such country by the quantity of the transshipped articles multiplied by 3, to the extent consistent with the obligations of the United States under the WTO.
+&emsp;&emsp;&emsp;Whenever the President finds, based on sufficient evidence, that transshipment has occurred, the President shall request that the ATPDEA beneficiary country or countries through whose territory the transshipment has occurred take all necessary and appropriate actions to prevent such transshipment. If the President determines that a country is not taking such actions, the President shall reduce the quantities of apparel articles that may be imported into the United States from such country by the quantity of the transshipped articles multiplied by 3, to the extent consistent with the obligations of the United States under the WTO.
 
 #### (iii) Transshipment described
 
@@ -194,7 +194,11 @@
 
 #### (i) United States vessel
 
-&emsp;&emsp;&emsp;A “United States vessel” is a vessel having a certificate of documentation with a fishery endorsement under chapter 121 of title 46.
+&emsp;&emsp;&emsp;A “United States vessel” is—
+
+&emsp;&emsp;&emsp;&emsp;(I) a vessel that has a certificate of documentation with a fishery endorsement under chapter 121 of title 46; or
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a vessel without a fishery endorsement, a vessel that is documented under the laws of the United States and for which a license has been issued pursuant to section 973g of title 16.
 
 #### (ii) ATPDEA vessel
 
@@ -272,7 +276,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) participate in negotiations toward the completion of the FTAA or another free trade agreement.
 
-&emsp;&emsp;&emsp;(ii) The extent to which the country provides protection of intellectual property rights consistent with or greater than the protection afforded under the Agreement on Trade-Related Aspects of Intellectual Property Rights described in section 3511(d)(15) of this title.
+&emsp;&emsp;&emsp;(ii) The extent to which the country provides protection of intellectual propertyrights consistent with or greater than the protection afforded under the Agreement on Trade-Related Aspects of Intellectual Property Rights described in section 3511(d)(15) of this title.
 
 &emsp;&emsp;&emsp;(iii) The extent to which the country provides internationally recognized worker rights, including—
 
@@ -370,7 +374,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 No quantity of an agricultural product subject to a tariff-rate quota that exceeds the in-quota quantity shall be eligible for duty-free treatment under this chapter.
 
-(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033.)
+(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, §2004(e), Dec. 3, 2004, 118 Stat. 2593.)
 
 #### References in Text
 
@@ -387,6 +391,8 @@ The Trade Act of 1974, referred to in subsecs. (b)(1)(A), (D), and (c)(1), is Pu
 The Andean Trade Promotion and Drug Eradication Act, referred to in subsec. (b)(6)(E), is title XXXI of Pub. L. 107–210, div. C, Aug. 6, 2002, 116 Stat. 1023. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 3201 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (b)(4)(B)(i). Pub. L. 108–429 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A ‘United States vessel’ is a vessel having a certificate of documentation with a fishery endorsement under chapter 121 of title 46.”
 
 2002—Subsec. (a)(1). Pub. L. 107–210, §3103(c)(2)(A), in introductory provisions, inserted “(or otherwise provided for)” after “eligibility” and “(or preferential treatment)” after “duty-free treatment”.
 
@@ -416,7 +422,7 @@ Subsecs. (c) to (g). Pub. L. 107–210, §3103(a)(1), redesignated subsecs. (d) 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of this title.
+Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect tothe United States \[Jan. 1, 1995\], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of this title.
 
 #### Transfer of Functions
 
@@ -425,6 +431,30 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 #### Delegation of Authority
 
 For delegation of functions of President under div. C of Pub. L. 107–210, amending this section, see section 2 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
+
+#### Articles Eligible for Preferential Treatment Under the Andean Trade Preference Act
+
+Pub. L. 108–429, title II, §2003, Dec. 3, 2004, 118 Stat. 2589, provided that:
+
+“(a)
+
+In General.—Notwithstanding section 514 of the Tariff Act of 1930 \[19 U.S.C. 1514\] or any other provision of law, and subject to subsection (c)—
+
+&emsp;“(1) with respect to any article described in section 204(b)(1)(D) of the Andean Trade Preference Act \[19 U.S.C. 3203(b)(1)(D)\] (as amended by section 3103(a)(2) of the Trade Act of 2002 \[Pub. L. 107–210\]) for which the President proclaims duty free treatment pursuant to section 204(b)(1) of the Andean Trade Preference Act, the entry of any such article on or after August 6, 2002, and before the date on which the President so proclaims duty free treatment for such article shall be subject to the rate of duty applicable on August 5, 2002; and
+
+&emsp;“(2) such entries shall be liquidated or reliquidated as if the reduced duty preferential treatment applied, and the Secretary of the Treasury shall refund any excess duties paid with respect to such entry.
+
+“(b)
+
+Entry.—As used in this subsection, the term ‘entry’ includes a withdrawal from warehouse for consumption.
+
+“(c)
+
+Requests.—Liquidation or reliquidation may be made under paragraph (1) with respect to an entry only if a request therefor is filed with the Customs Service \[Bureau of Customs and Border Protection\], within 180 days after the date of the enactment of this Act \[Dec. 3, 2004\], and such request contains sufficient information to enable the Customs Service—
+
+&emsp;“(1) to locate the entry; or
+
+&emsp;“(2) to reconstruct the entry if it cannot be located.”
 
 #### Duty Free or Preferential Treatment of Certain Apparel Articles
 
@@ -450,7 +480,7 @@ Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, as amended by Proc. No. 7748, Dec.
 
 7\. Section 604 of the Trade Act of 1974 (19 U.S.C. 2483) (1974 Trade Act) authorizes the President to embody in the HTS the substance of the relevant provisions of that Act, and of other acts affecting import treatment, and actions thereunder, including the removal, modification, continuance, or imposition of any rate of duty or other import restriction.
 
-NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States of America, including section 604 of the 1974 Trade Act, do proclaim as follows:
+NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, acting under the authority vested in me by the Constitution and the lawsof the United States of America, including section 604 of the 1974 Trade Act, do proclaim as follows:
 
 (1) I have designated the following countries as ATPDEA beneficiary countries pursuant to section 204(b)(6)(B) of the ATPA, as amended, and have determined that these countries have satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the NAFTA:
 
@@ -473,8 +503,4 @@ Peru.
 IN WITNESS WHEREOF, I have hereunto set my hand this thirty-first day of October, in the year of our Lord two thousand two, and of the Independence of the United States of America the two hundred and twenty-seventh.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3202 of this title; title 7 sections 7236, 7937.
 

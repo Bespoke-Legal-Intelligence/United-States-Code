@@ -20,7 +20,3 @@ Authority of Secretary of Agriculture under this section as unaffected by repeal
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 839e.
-

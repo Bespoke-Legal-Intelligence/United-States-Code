@@ -10,7 +10,3 @@ The Secretary shall also contribute the necessary land which may be required at 
 
 (Pub. L. 88–587, §8, Sept. 11, 1964, 78 Stat. 932.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459e–1, 459e–2, 459e–5, 459e–6, 459e–9 of this title.
-

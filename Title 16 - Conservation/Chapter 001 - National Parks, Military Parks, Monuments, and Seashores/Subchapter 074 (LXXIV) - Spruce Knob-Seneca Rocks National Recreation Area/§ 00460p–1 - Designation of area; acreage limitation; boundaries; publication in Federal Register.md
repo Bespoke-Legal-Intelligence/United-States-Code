@@ -8,7 +8,3 @@ The Secretary of Agriculture (hereinafter called the “Secretary”) shall—
 
 (Pub. L. 89–207, §2, Sept. 28, 1965, 79 Stat. 843.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460p–2, 460p–3 of this title.
-

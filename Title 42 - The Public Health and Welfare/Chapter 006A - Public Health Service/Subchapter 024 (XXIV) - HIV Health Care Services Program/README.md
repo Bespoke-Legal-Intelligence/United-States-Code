@@ -1,9 +1,5 @@
 ### SUBCHAPTER XXIV—HIV HEALTH CARE SERVICES PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 247c–2, 256b, 256d of this title.
-
 
 ---
 

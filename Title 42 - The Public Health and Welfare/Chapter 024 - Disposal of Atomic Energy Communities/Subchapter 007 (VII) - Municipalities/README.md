@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—MUNICIPALITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2312, 2342, 2373 of this title.
-
 
 ---
 

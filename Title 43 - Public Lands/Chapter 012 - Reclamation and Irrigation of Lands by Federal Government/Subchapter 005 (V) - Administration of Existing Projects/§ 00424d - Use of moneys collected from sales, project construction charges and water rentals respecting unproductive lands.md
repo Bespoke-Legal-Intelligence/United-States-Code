@@ -8,7 +8,3 @@ In the absence of a contrary requirement in the contracts between the United Sta
 
 Sections 423 to 423g and 610 of this title, referred to in text, was in the original “said act of May 25, 1926”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, as amended, which enacted sections 423 to 423g and 610 of this title. Section 610 of this title was omitted from the Code. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 424, 424a, 424b, 424e of this title.
-

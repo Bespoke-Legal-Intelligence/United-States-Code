@@ -38,7 +38,3 @@ Subsec. (b)(3). Pub. L. 95–217, §10(a), substituted “$500,000” for “$25
 
 Subsec. (b)(4). Pub. L. 95–217, §10(b), added par. (4).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1260, 1262, 1375 of this title.
-

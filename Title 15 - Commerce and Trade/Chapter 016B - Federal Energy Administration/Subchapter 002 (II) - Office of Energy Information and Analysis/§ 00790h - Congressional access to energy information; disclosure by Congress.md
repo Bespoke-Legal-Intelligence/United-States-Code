@@ -12,7 +12,3 @@ Section effective 150 days after Aug. 14, 1976, see section 143 of Pub. L. 94–
 
 Functions assigned to Director of Office of Energy Information and Analysis under this subchapter vested in Administrator of Energy Information Administration within Department of Energy by section 7135(c) of Title 42, The Public Health and Welfare.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 7135.
-

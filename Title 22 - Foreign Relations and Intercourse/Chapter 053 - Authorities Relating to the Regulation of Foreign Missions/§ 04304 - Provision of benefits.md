@@ -86,7 +86,3 @@ Amendment by section 126(b) of Pub. L. 99–93 effective Oct. 1, 1985, see secti
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300, 4303, 4307, 4309 of this title.
-

@@ -8,7 +8,7 @@
 
 &emsp;(2) A description of how planning for the networks will be coordinated.
 
-(c) The Secretary shall submit to each committee not later than January 31 of each year a report showing the location, space, cost, and status of each medical facility (1) the construction, alteration, lease, or other acquisition of which has been approved under section 8104(a) ofthis title, and (2) which was uncompleted as of the date of the last preceding report made under this subsection.
+(c) The Secretary shall submit to each committee not later than January 31 of each year a report showing the location, space, cost, and status of each medical facility (1) the construction, alteration, lease, or other acquisition of which has been approved under section 8104(a) of this title, and (2) which was uncompleted as of the date of the last preceding report made under this subsection.
 
 (d)(1) The Secretary shall submit to each committee, not later than January 31 of each year, a report showing the current priorities of the Department for proposed major medical construction projects. Each such report shall identify the 20 projects, from within all the projects in the Department's inventory of proposed projects, that have the highest priority and, for those 20 projects, the relative priority and rank scoring of each such project and the projected cost of such project (including the projected operating costs, including both recurring and nonrecurring costs). The 20 projects shall be compiled, and their relative rankings shall be shown, by category of project (including the categories of ambulatory care projects, nursing home care projects, and such other categories as the Secretary determines).
 

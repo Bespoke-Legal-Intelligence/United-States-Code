@@ -4,7 +4,3 @@ The Secretary shall regularly consult with representatives of the private sector
 
 (Pub. L. 100–418, title V, §5404, Aug. 23, 1988, 102 Stat. 1464.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4906 of this title.
-

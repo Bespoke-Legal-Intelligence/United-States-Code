@@ -1,5 +1,5 @@
 
-27 U.S.C.<br>United States Code, 2003 Edition<br>Title 27 - INTOXICATING LIQUORS<br>From the U.S. Government Publishing Office, www.gpo.gov
+27 U.S.C.<br>United States Code, 2004 Edition<br>Title 27 - INTOXICATING LIQUORS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 27—INTOXICATING LIQUORS
 
@@ -17,10 +17,6 @@
 | [<b>9.</b>](Chapter%20009%20-%20Liquor%20Enforcement%20Act%20of%201936/README.md) | <b>Liquor Enforcement Act of 1936 \[Repealed\]</b> | <b>221</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 6 section 531.
 
 
 ---

@@ -8,7 +8,3 @@ The provisions of this chapter shall not be applicable to (1) the Canyon Ferry p
 
 The Hungry Horse Dam Act (Act of June 4, 1944, 58 Stat. 270), as amended, referred to in text, probably means act June 5, 1944, ch. 234, 58 Stat. 270, as amended, which is classified to sections 593a and 593b of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 837e of this title.
-

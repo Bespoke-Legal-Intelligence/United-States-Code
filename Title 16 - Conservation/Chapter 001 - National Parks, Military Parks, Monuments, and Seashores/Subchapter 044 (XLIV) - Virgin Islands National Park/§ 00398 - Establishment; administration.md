@@ -10,7 +10,3 @@ The national park shall be administered and preserved by the Secretary of the In
 
 The laws governing the administration of the national parks, referred to in the second par., are classified to section 1 et seq. of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 398a, 398c, 398d of this title; title 48 section 1705.
-

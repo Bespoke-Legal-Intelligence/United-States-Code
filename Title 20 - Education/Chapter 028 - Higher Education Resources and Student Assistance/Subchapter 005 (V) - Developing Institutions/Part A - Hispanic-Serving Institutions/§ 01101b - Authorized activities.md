@@ -62,7 +62,3 @@ A prior section 503 of Pub. L. 89–329 was classified to section 1102b of this 
 
 Another prior section 503 of Pub. L. 89–329 was classified to section 1091b of this title prior to repeal by Pub. L. 94–482.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1103c of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—AUTHORIZED UNITS; PROTECTION OF EXISTING USES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 390rr, 1543 of this title.
-
 
 ---
 

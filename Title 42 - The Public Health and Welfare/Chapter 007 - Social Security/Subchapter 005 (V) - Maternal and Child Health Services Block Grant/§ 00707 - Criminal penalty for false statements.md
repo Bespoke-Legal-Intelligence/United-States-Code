@@ -18,7 +18,3 @@ A prior section 707, act Aug. 14, 1935, ch. 531, title V, §507, as added Jan. 2
 
 Provisions similar to those comprising former section 707 were contained in sections 505 and 515 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 631, 633, as amended (formerly classified to sections 705 and 715 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 710 of this title.
-

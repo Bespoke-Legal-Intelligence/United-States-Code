@@ -104,9 +104,5 @@ The provisions of this section shall be in addition to, and not in lieu of, any 
 
 (Pub. L. 101–612, §11, Nov. 16, 1990, 104 Stat. 3219.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460bbb–3 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of the”.</i>
 

@@ -44,7 +44,7 @@ Health Care Contents of Report.—Each report under subsection (a) shall include
 
 (d)
 
-Benefits Content of Report.—Each report under subsection (a) shall include, with respect to programs and activities of the VeteransBenefits Administration in processing of claims for benefits of homeless veterans during the preceding year, the following:
+Benefits Content of Report.—Each report under subsection (a) shall include, with respect to programs and activities of the Veterans Benefits Administration in processing of claims for benefits of homeless veterans during the preceding year, the following:
 
 &emsp;(1) Information on costs, expenditures, and workload of Veterans Benefits Administration claims evaluators in processing claims for benefits of homeless veterans.
 
@@ -59,10 +59,6 @@ Benefits Content of Report.—Each report under subsection (a) shall include, wi
 #### Amendments
 
 2003—Subsec. (a). Pub. L. 108–170 substituted “June 15 of each year” for “April 15 of each year”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2034 of this title.
 
 <i><sup>1</sup></i><i> So in original. There is no opening parenthesis.</i>
 

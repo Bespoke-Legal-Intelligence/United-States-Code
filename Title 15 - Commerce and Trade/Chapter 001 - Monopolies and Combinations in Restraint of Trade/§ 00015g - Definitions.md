@@ -18,7 +18,3 @@ For the purposes of sections 15c, 15d, 15e, and 15f of this title:
 
 Injuries sustained prior to Sept. 30, 1976, not covered by this section, see section 304 of Pub. L. 94–435, set out as a note under section 15c of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15h, 34, 37a, 4301 of this title.
-

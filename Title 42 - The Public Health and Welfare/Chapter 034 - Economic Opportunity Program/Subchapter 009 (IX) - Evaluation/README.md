@@ -1,9 +1,5 @@
 ### SUBCHAPTER IX—EVALUATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2707 of this title; title 29 section 795a.
-
 
 ---
 

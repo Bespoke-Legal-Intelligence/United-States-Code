@@ -74,10 +74,6 @@ Pars. (1) to (16). Pub. L. 96–79, §203(e)(1), struck out pars. (1) and (2) wh
 
 Amendment by Pub. L. 96–79 effective Oct. 1, 1979, see section 204 of Pub. L. 96–79, set out as a note under section 300q of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 290dd–1, 300s–1, 6372 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “professional”.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should follow the ending quotations.</i>

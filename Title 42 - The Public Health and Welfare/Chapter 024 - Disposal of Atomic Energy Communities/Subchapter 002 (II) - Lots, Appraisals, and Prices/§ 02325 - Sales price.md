@@ -2,7 +2,7 @@
 
 #### (a) Government-owned single or duplex houses
 
-In the sale to priority purchasers of properties on which are located Government-owned single or duplex houses, the sales price shall be the appraised value less a deduction of 15 per centum of the appraised value and less the deductions provided by section 2326 of this title.
+In the sale to priority purchasers of properties on which are located Government-owned single or duplex houses, the sales price shall be the appraised value less a deduction of 15 per centumof the appraised value and less the deductions provided by section 2326 of this title.
 
 #### (b) Other properties
 
@@ -21,8 +21,4 @@ The appraised value of the Government's interest in commercial property shall, i
 #### Report With Respect to Renegotiations, Reappraisals, and Sales Proceedings
 
 Atomic Energy Commission, Federal Housing Administration, and Housing and Home Finance Agency required to report to Joint Committee by Jan. 31, 1958, with respect to renegotiations, reappraisals, and sales proceedings authorized under subsec. (c) of this section, see section 203 of Pub. L. 85–162.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2348 of this title.
 

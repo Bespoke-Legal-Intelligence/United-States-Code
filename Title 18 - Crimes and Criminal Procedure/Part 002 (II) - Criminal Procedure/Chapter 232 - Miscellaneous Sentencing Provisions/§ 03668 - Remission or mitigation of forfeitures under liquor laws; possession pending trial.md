@@ -10,7 +10,7 @@ Whenever, in any proceeding in court for the forfeiture, under the internal-reve
 
 Conditions precedent to remission or mitigation
 
-In any such proceeding the court shall not allow the claim of any claimant for remission or mitigation unless and until he proves (1) that he has an interest in such vehicle or aircraft, as owner or otherwise, which he acquired in good faith, (2) that he had at no time any knowledge or reason to believe that it was being or would be used in the violation of laws of the United States or of any State relating to liquor, and (3) if it appears that the interest asserted by the claimant arises out of or is in any way subject to any contract or agreement under which any person having a record or reputation for violating laws of the United States or of any State relating to liquor has a right with respect to such vehicle or aircraft, that, before such claimant acquired his interest, or such other person acquired his right under such contract or agreement, whichever occurred later, the claimant, his officer or agent, was informed in answer to his inquiry, at the headquarters of the sheriff, chief of police, principal Federal internal-revenue officer engaged in the enforcement of the liquor laws, or other principal local or Federal law-enforcement officer of the locality in whichsuch other person acquired his right under such contract or agreement, of the locality in which such other person then resided, and of each locality in which the claimant has made any other inquiry as to the character or financial standing of such other person, that such other person had no such record or reputation.
+In any such proceeding the court shall not allow the claim of any claimant for remission or mitigation unless and until he proves (1) that he has an interest in such vehicle or aircraft, as owner or otherwise, which he acquired in good faith, (2) that he had at no time any knowledge or reason to believe that it was being or would be used in the violation of laws of the United States or of any State relating to liquor, and (3) if it appears that the interest asserted by the claimant arises out of or is in any way subject to any contract or agreement under which any person having a record or reputation for violating laws of the United States or of any State relating to liquor has a right with respect to such vehicle or aircraft, that, before such claimant acquired his interest, or such other person acquired his right under such contract or agreement, whichever occurred later, the claimant, his officer or agent, was informed in answer to his inquiry, at the headquarters of the sheriff, chief of police, principal Federal internal-revenue officer engaged in the enforcement of the liquor laws, or other principal local or Federal law-enforcement officer of the locality in which such other person acquired his right under such contract or agreement, of the locality in which such other person then resided, and of each locality in which the claimant has made any other inquiry as to the character or financial standing of such other person, that such other person had no such record or reputation.
 
 (c)
 
@@ -39,8 +39,4 @@ The internal-revenue laws relating to liquor, referred to in subsecs. (a) and (d
 #### Amendments
 
 2002—Subsec. (c). Pub. L. 107–217 substituted “section 1306 of title 40” for “sections 304f–304m of Title 40”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3670 of this title.
 

@@ -148,7 +148,3 @@ In this part:
 
 <i>For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under section 1635 of this title.</i>
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 198 of this title.
-

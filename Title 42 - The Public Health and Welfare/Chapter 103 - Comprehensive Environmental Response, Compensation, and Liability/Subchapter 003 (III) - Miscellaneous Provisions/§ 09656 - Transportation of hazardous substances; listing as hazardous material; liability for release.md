@@ -16,7 +16,3 @@ In subsecs. (a) and (b), “chapter 51 of title 49” substituted for “the Haz
 
 Subsec. (b). Pub. L. 99–499, §202(b), inserted “and regulation” after “prior to the effective date of the listing”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 31301.
-

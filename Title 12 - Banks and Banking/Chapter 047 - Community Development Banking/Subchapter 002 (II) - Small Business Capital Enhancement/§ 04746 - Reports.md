@@ -30,7 +30,3 @@ The reports and data filed pursuant to subsections (a) and (b) of this section s
 
 (Pub. L. 103–325, title II, §256, Sept. 23, 1994, 108 Stat. 2212.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4747 of this title.
-

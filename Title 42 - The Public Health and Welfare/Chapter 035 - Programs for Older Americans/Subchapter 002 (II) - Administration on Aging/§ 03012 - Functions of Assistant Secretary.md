@@ -26,13 +26,13 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(11) coordinate, and assist in, the planning and development by public (including Federal, State, and local agencies) and private organizations of programs for older individuals, with a view to the establishment of a nationwide network of comprehensive, coordinated services and opportunities for such individuals;
 
-&emsp;(12) carry on a continuing evaluation of the programs and activities related to the objectives of this chapter, with particular attentionto the impact of medicare and medicaid, the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\], and the programs of the National Housing Act \[12 U.S.C. 1701 et seq.\] relating to housing for older individuals and the setting of standards for the licensing of nursing homes, intermediate care homes, and other facilities providing care for such individuals;
+&emsp;(12) carry on a continuing evaluation of the programs and activities related to the objectives of this chapter, with particular attention to the impact of medicare and medicaid, the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\], and the programs of the National Housing Act \[12 U.S.C. 1701 et seq.\] relating to housing for older individuals and the setting of standards for the licensing of nursing homes, intermediate care homes, and other facilities providing care for such individuals;
 
 &emsp;(13) provide information and assistance to private organizations for the establishment and operation by them of programs and activities related to the objectives of this chapter;
 
 &emsp;(14) develop, in coordination with other agencies, a national plan for meeting the needs for trained personnel in the field of aging, and for training persons for carrying out programs related to the objectives of this chapter, and conduct and provide for the conducting of such training;
 
-&emsp;(15) consult with national organizations representing minority individuals to develop and disseminate training packages and to provide technical assistance efforts designed to assist State and area agencies on aging, and service providers, in providing services to older individuals with greatest economic need or individuals with greatest social need, with particular attention to and specific objectives for providing services to low-income minority individuals and older individuals residing in rural areas;
+&emsp;(15) consult with national organizations representing minority individuals to develop and disseminate training packages and to provide technical assistance efforts designed to assist State and area agencies on aging, and service providers, in providing services to older individuals with greatest economic need or individuals with greatest social need, with particular attention to and specific objectives forproviding services to low-income minority individuals and older individuals residing in rural areas;
 
 &emsp;(16) collect for each fiscal year, for fiscal years beginning after September 30, 1988, directly or by contract, statistical data regarding programs and activities carried out with funds provided under this chapter, including—
 
@@ -152,7 +152,7 @@ In executing the duties and functions of the Administration under this chapter a
 
 &emsp;(ii) not later than 60 days before the date on which the Assistant Secretary establishes such priorities, publish in the Federal Register for public comment a statement of such proposed priorities.
 
-(4) The Assistant Secretary shall make available to the Center such resources as are necessary for the Center to carry out effectively the functions of the Center under this chapter and not less than the amount of resources madeavailable to the Resource Center on Elder Abuse for fiscal year 2000.
+(4) The Assistant Secretary shall make available to the Center such resources as are necessary for the Center to carry out effectively the functions of the Center under this chapter and not less than the amount of resources made available to the Resource Center on Elder Abuse for fiscal year 2000.
 
 #### (e) National Aging Information Center
 
@@ -222,7 +222,7 @@ In executing the duties and functions of the Administration under this chapter a
 
 The Age Discrimination in Employment Act of 1967, referred to in subsec. (a)(12), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
-The National Housing Act, referred to in subsec. (a)(12), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13\(§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (a)(12), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 The Food Stamp Act of 1977, referred to in subsec. (a)(17)(A), (20), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
@@ -452,17 +452,7 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 
 #### Deadline for Development of Data Collection Procedures
 
-Section 202(h) of Pub. L. 102–375 provided that: “Not later than 1 year after the date of the enactment of this Act \[Sept. 30, 1992\], the data collection procedures required by section 202(a)(29) of the Older Americans Act of 1965 \[42 U.S.C. 3012(a)(29)\] shall be developed by the Commissioner on Aging \[now Assistant Secretary for Aging\], jointly with the Assistant Secretary of Planning and Evaluation of the Department of Health and Human Services, after—
-
-&emsp;“(1) requesting advisory information under such Act \[42 U.S.C. 3001 et seq.\] from State agencies, local governments, area agencies on aging, recipients of grants under title VI of such Act \[42 U.S.C. 3057 et seq.\], and local providers of services under such Act; and
-
-&emsp;“(2) considering the data collection systems carried out by State agencies in the States then identified as exemplary by the General Accounting Office.
-
-> Not later than 1 year after developing such data collection procedures, the Commissioner on Aging shall test such procedures, submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report summarizing the results of such test, and implement such procedures (as modified, if appropriate, to reflect such results).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3011, 3018, 3020f, 3027, 3058g of this title.
+Pub. L. 102–375, title II, §202(h), Sept. 30, 1992, 106 Stat. 1210, provided that, not later than 1 year after Sept. 30, 1992, the data collection procedures required by section 3012(a)(29) of this title would be developed jointly by the Commissioner on Aging and the Assistant Secretary of Planning and Evaluation of the Department of Health and Human Services with advisory information from State and local agencies, recipients, and providers and considering the data collection systems carried out by States identified as exemplary by the GAO; and that, not later than 1 year after developing such data collection procedures, the Commissioner was to test, report to Congress on, and implement appropriately such procedures.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

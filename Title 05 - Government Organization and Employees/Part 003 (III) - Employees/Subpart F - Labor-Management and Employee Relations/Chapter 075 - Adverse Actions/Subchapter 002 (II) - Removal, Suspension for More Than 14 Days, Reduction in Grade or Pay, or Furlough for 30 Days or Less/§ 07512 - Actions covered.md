@@ -38,7 +38,3 @@ A prior section 7512, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528, related to 
 
 Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as a note under section 1201 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3315, 5545a, 7121 of this title; title 6 section 293; title 22 sections 1438, 3701; title 32 section 709; title 50 section 832.
-

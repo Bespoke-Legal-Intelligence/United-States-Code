@@ -1,9 +1,5 @@
 Part C—Powers and Duties of Preservation Commission
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 410cc–25 of this title.
-
 
 ---
 

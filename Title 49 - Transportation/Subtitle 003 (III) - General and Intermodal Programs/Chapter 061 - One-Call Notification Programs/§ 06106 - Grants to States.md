@@ -32,7 +32,3 @@ Funding for One-Call Notification Systems.—A State may provide funds received 
 
 The date of enactment of this chapter, referred to in subsec. (b), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 6104, 6107 of this title.
-

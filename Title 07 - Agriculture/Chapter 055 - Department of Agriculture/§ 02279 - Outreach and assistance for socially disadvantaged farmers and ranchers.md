@@ -40,7 +40,7 @@
 
 #### (C) Other projects
 
-&emsp;&emsp;Notwithstanding paragraph (1), the Secretary may make grants to, and enter into contracts and other agreements with, an organization or institution that received funding under this section before January 1, 1996, to carry out a project that is similar to a project for which the organization or institution received such funding.
+&emsp;&emsp;Notwithstanding paragraph (1), the Secretary may make grants to, and enter into contracts and other agreements with, an organization or institution that received funding under this section before January 1, 1996,to carry out a project that is similar to a project for which the organization or institution received such funding.
 
 #### (4) Funding
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;(ii) the manner in which the complaints were investigated and resolved by the Department; and
 
-&emsp;&emsp;&emsp;(iii) the longest, shortest, and average periods of time taken to investigate and resolve the complaints or allegations regarding acts, practices, or patterns of discrimination.
+&emsp;&emsp;&emsp;(iii) the longest, shortest, and average periods of time taken to investigate andresolve the complaints or allegations regarding acts, practices, or patterns of discrimination.
 
 #### (3) Report
 

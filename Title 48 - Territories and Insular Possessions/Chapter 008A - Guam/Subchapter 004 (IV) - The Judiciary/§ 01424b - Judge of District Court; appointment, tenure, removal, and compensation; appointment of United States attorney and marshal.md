@@ -34,7 +34,3 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 Section 1004 of Pub. L. 98–454 provided that: “The provisions of sections 706(a), 802(a), and 901(a) of this Act \[amending sections 1614, 1424b, and 1821, respectively, of this title\] extending the terms of district court judges of the Virgin Islands, Guam, and the Northern Mariana Islands, respectively, from eight to ten years shall be applicable to the judges of those courts holding office on the effective date of this Act \[Oct. 5, 1984\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1424, 1424–3 of this title.
-

@@ -9,3 +9,4 @@
 - [&sect; 07552 - Sense of Congress regarding protecting Afghanistan's President](%C2%A7%2007552%20-%20Sense%20of%20Congress%20regarding%20protecting%20Afghanistan%27s%20President.md)
 - [&sect; 07553 - Donor contributions to Afghanistan and reports](%C2%A7%2007553%20-%20Donor%20contributions%20to%20Afghanistan%20and%20reports.md)
 - [&sect; 07554 - Reports](%C2%A7%2007554%20-%20Reports.md)
+- [&sect; 07555 - Formulation of long-term strategy for Afghanistan](%C2%A7%2007555%20-%20Formulation%20of%20long-term%20strategy%20for%20Afghanistan.md)

@@ -20,9 +20,5 @@ Subsec. (b)(2)(A). Pub. L. 108–36, §415(4), substituted “provide for resear
 
 1992—Subsec. (b)(2)(A). Pub. L. 102–295 struck out “into the causes of family violence” after “provide for research”, inserted “most effective” before “prevention”, and added cls. (iii) to (vi).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10409 of this title.
-
 <i><sup>1</sup></i><i> So in original. The closing parenthesis probably should follow “interventions received”.</i>
 

@@ -18,7 +18,3 @@ The phrase “Except as otherwise provided by Act of Congress,” at the beginni
 
 Changes were made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 sections 1452, 1819, 2279aa–14.
-

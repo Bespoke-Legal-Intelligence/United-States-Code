@@ -72,7 +72,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 &emsp;&emsp;&emsp;&emsp;(I) means post-hospital extended care services as defined in section 1395x(i) of this title for which benefits are provided under part A of this subchapter; and
 
-&emsp;&emsp;&emsp;&emsp;(II) includes all items and services (other than items and services described in clauses (ii), (iii), and (iv)) for which payment may be made under part B of this subchapter and which are furnished to an individual who is a resident of a skilled nursing facility during the period in which the individual is provided covered post-hospital extended care services.
+&emsp;&emsp;&emsp;&emsp;(II) includes all items and services (other than items and services describedin clauses (ii), (iii), and (iv)) for which payment may be made under part B of this subchapter and which are furnished to an individual who is a resident of a skilled nursing facility during the period in which the individual is provided covered post-hospital extended care services.
 
 #### (ii) Services excluded
 
@@ -128,7 +128,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (ii) Treatment of new skilled nursing facilities
 
-&emsp;&emsp;&emsp;In the case of a skilled nursing facility that first received payment for services under this subchapter on or after October1, 1995, payment for such services shall be made under this subsection as if all services were furnished after the transition period.
+&emsp;&emsp;&emsp;In the case of a skilled nursing facility that first received payment for services under this subchapter on or after October 1, 1995, payment for such services shall be made under this subsection as if all services were furnished after the transition period.
 
 #### (3) Determination of facility specific per diem rates
 
@@ -190,7 +190,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (ii) Freestanding facilities
 
-&emsp;&emsp;&emsp;The Secretary shall compute a weighted average per diem rate for freestanding facilities by computing an average of the standardized amounts computed under subparagraph (C) only for such facilities, weighted for each facility by the number of days of extended care services furnished during the cost reporting period referred to in subparagraph (A).
+&emsp;&emsp;&emsp;The Secretary shall compute a weighted average per diem rate for freestanding facilities by computing an average of the standardized amounts computed under subparagraph (C) only for such facilities,weighted for each facility by the number of days of extended care services furnished during the cost reporting period referred to in subparagraph (A).
 
 #### (iii) Separate computation
 
@@ -250,7 +250,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (A) Skilled nursing facility market basket index
 
-&emsp;&emsp;The Secretary shall establish a skilled nursing facility market basket index that reflects changes over time in the prices of an appropriate mix of goods and services included in covered skilled nursing facility services.
+&emsp;&emsp;The Secretary shall establish a skilled nursing facility market basket index that reflects changes over time in the prices of anappropriate mix of goods and services included in covered skilled nursing facility services.
 
 #### (B) Skilled nursing facility market basket percentage
 
@@ -300,7 +300,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), in the case of a resident of a skilled nursing facility who is afflicted with acquired immune deficiency syndrome (AIDS), the per diem amount of payment otherwise applicable (determinedwithout regard to any increase under section 101 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999, or under section 314(a) of Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000), shall be increased by 128 percent to reflect increased costs associated with such residents.
+&emsp;&emsp;Subject to subparagraph (B), in the case of a resident of a skilled nursing facility who is afflicted with acquired immune deficiency syndrome (AIDS), the per diem amount of payment otherwise applicable (determined without regard to any increase under section 101 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999, or under section 314(a) of Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000), shall be increased by 128 percent to reflect increased costs associated with such residents.
 
 #### (B) Sunset
 
@@ -452,7 +452,7 @@ Amendment by Pub. L. 100–203 applicable to services furnished on or after Oct.
 
 Section 1895(b)(7)(D) of Pub. L. 99–514 provided that: “The amendments made by subparagraphs (A) and (B) \[amending this section\] apply to cost reporting periods beginning on or after October 1, 1986.”
 
-Amendment by section 9219(b)(1)(C) of Pub. L. 99–272 effective as if originally included in the Deficit Reduction Act of 1984, Pub. L. 98–369, see section 9219(b)(1)(D) of Pub. L. 99–272, set out as a note under section 1395u of this title.
+Amendment by section 9219(b)(1)(C) of Pub. L. 99–272 effective as if originally included in the Deficit Reduction Act of 1984, Pub. L. 98–369, see section 9219(b)(1)(D)of Pub. L. 99–272, set out as a note under section 1395u of this title.
 
 Section 9126(d) of Pub. L. 99–272, as amended by Pub. L. 99–514, title XVIII, §1895(b)(7)(C), Oct. 22, 1986, 100 Stat. 2933, provided that:
 
@@ -536,7 +536,7 @@ Report.—Not later than August 1, 2002, the Comptroller General shall submit to
 
 #### Oversight
 
-Pub. L. 106–554, §1(a)(6) \[title III, §313(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–499, provided that: “The Secretary of Health and Human Services, through the Office of the Inspector General in the Department of Health and Human Services or otherwise, shall monitor payments made under part B of the title XVIII of the Social Security Act \[part B of this subchapter\] for items and services furnished to residents of skilled nursing facilities during a time in which the residents are not being provided medicare covered post-hospital extended care services to ensure that there is not duplicate billing for services or excessive services provided.”
+Pub. L. 106–554, §1(a)(6) \[title III, §313(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–499, provided that: “The Secretary of Health and Human Services, through the Office of the Inspector General in the Department of Health and Human Services or otherwise, shall monitor payments made under part B of the title XVIII of the Social Security Act \[part B of this subchapter\] for items and services furnished to residents of skillednursing facilities during a time in which the residents are not being provided medicare covered post-hospital extended care services to ensure that there is not duplicate billing for services or excessive services provided.”
 
 #### Establishment of Process for Geographic Reclassification
 
@@ -590,17 +590,13 @@ Development of proposal.—The Secretary of Health and Human Services shall deve
 
 “(2)
 
-Reports.—(A) By not later than April 1, 1991, the Secretary (acting through the Administrator of the Health Care Financing Administration) shall submit any research studies to be used in developing the proposal under paragraph (1) to the Committee on Financeof the Senate and the Committee on Ways and Means of the House of Representatives.
+Reports.—(A) By not later than April 1, 1991, the Secretary (acting through the Administrator of the Health Care Financing Administration) shall submit any research studies to be used in developing the proposal under paragraph (1) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.
 
 “(B) By not later than September 1, 1991, the Secretary shall submit the proposal developed under paragraph (1) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.
 
-“(C) By not later than March 1, 1992, the Prospective Payment Assessment Commission shall submit an analysis of and comments on the proposal developed under paragraph (1) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.”
+“(C) By not later than March 1, 1992, the Prospective Payment Assessment Commission shall submit an analysis of and comments on the proposal developed under paragraph (1) to the Committee on Finance ofthe Senate and the Committee on Ways and Means of the House of Representatives.”
 
 #### Use of More Recent Data Regarding Routine Service Costs of Skilled Nursing Facilities
 
 Pub. L. 101–239, title VI, §6024, Dec. 19, 1989, 103 Stat. 2167, as amended by Pub. L. 101–508, title IV, §4008(e)(1), Nov. 5, 1990, 104 Stat. 1388–45, provided that: “The Secretary of Health and Human Services shall determine mean per diem routine service costs for freestanding and hospital based skilled nursing facilities under section 1888(a) of the Social Security Act \[subsec. (a) of this section\] for cost reporting periods beginning on or after October 1, 1989, in accordance with regulations published by the Secretary that require the use of cost reports submitted by skilled nursing facilities for cost reporting periods beginning not earlier than October 1, 1985. The Secretary shall update such costs under such section for cost reporting periods beginning on or after October 1, 1989, by using cost reports submitted by skilled nursing facilities for cost reporting periods ending not earlier than January 31, 1988, and not later than December 31, 1988.”
-
-#### Section Referred To in Other Sections
-
-This section is referred to in sections 1395i–3, 1395<i>l</i>, 1395u, 1395x, 1395y, 1395cc, 1395tt of this title.
 

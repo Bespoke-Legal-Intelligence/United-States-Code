@@ -10,5 +10,5 @@ Based on 44 U.S. Code, 1964 ed., §272 (June 25, 1910, No. 36 §§1, 2, 36 Stat.
 
 #### Change of Name
 
-Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining.
+Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of Title 30.
 

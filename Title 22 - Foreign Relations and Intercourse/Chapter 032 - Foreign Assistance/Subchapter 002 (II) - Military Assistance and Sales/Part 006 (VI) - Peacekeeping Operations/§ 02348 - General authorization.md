@@ -6,7 +6,7 @@ The President is authorized to furnish assistance to friendly countries and inte
 
 #### Amendments
 
-1979—Pub. L. 96–92 authorized reimbursement of Department of Defense for expenses incurred in furnishingassistance to the United States limited to $5,000,000 per fiscal year unless specifically authorized.
+1979—Pub. L. 96–92 authorized reimbursement of Department of Defense for expenses incurred in furnishing assistance to the United States limited to $5,000,000 per fiscal year unless specifically authorized.
 
 #### Delegation of Functions
 
@@ -37,8 +37,4 @@ Pub. L. 94–110, Oct. 13, 1975, 89 Stat. 572, provided that:
 #### Executive Order No. 11896
 
 Ex. Ord. No. 11896, Jan. 13, 1976, 41 F.R. 2067, as amended by Ex. Ord. No. 12150, July 23, 1979, 44 F.R. 43455; Ex. Ord. No. 12227, July 22, 1980, 45 F.R. 49237; Ex. Ord. No. 12357, Apr. 6, 1982, 47 F.R. 15093, which established the United States Sinai Support Mission, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7536 of this title.
 

@@ -54,7 +54,3 @@ The Foreign Service Act of 1980, referred to in par. (7), is Pub. L. 96–465, O
 
 1982—Par. (5). Pub. L. 97–258 substituted “section 9104” for “section 849”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 302, 503, 3109, 5734, 5913 of this title; title 26 section 912; title 42 section 8241.
-

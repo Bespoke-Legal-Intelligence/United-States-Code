@@ -42,7 +42,3 @@ No provision of this section shall be construed to prevent any State-licensed pr
 
 (Pub. L. 106–102, title V, §521, Nov. 12, 1999, 113 Stat. 1446.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6823, 6825 of this title.
-

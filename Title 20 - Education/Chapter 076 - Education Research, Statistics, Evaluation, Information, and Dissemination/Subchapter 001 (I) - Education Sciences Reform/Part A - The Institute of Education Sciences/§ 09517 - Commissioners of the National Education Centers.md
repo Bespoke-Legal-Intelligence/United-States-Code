@@ -48,7 +48,3 @@ The provisions of title 5 governing appointments in the competitive service, ref
 
 Level IV of the Executive Schedule, referred to in subsecs. (a)(2)(A) and (b)(2), is set out in section 5315 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9583 of this title.
-

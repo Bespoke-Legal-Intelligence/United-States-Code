@@ -1,12 +1,16 @@
 ### §1503. Dutiable value
 
-Except as provided in section 1520(c) of this title (relating to reliquidations on the basis of authorized corrections of errors) or section 1562 of this title (relating to withdrawal from manipulating warehouses), the basis for the assessment of duties on imported merchandise subject to ad valorem rates of duty or rates based upon or regulated in any manner by the value of the merchandise, shall be the appraised value determined upon liquidation, in accordance with section 1500 of this title or any adjustment thereof made pursuant to section 1501 of this title. <i>Provided, however</i>, That if reliquidation is required pursuant to a final judgment or order of the United States Court of International Trade which includes a reappraisement of imported merchandise, the basis for such assessment shall be the final appraised value determined by such court.
+Except as provided in section 1520(c) <sup>1</sup> of this title (relating to reliquidations on the basis of authorized corrections of errors) or section 1562 of this title (relating to withdrawal from manipulating warehouses), the basis for the assessment of duties on imported merchandise subject to ad valorem rates of duty or rates based upon or regulated in any manner by the value of the merchandise, shall be the appraised value determined upon liquidation, in accordance with section 1500 of this title or any adjustment thereof made pursuant to section 1501 of this title. <i>Provided, however</i>, That if reliquidation is required pursuant to a final judgment or order of the United States Court of International Trade which includes a reappraisement of imported merchandise, the basis for such assessment shall be the final appraised value determined by such court.
 
 (June 17, 1930, ch. 497, title IV, §503, 46 Stat. 731; Aug. 8, 1953, ch. 397, §18(d), 67 Stat. 518; Pub. L. 91–271, title II, §206, June 2, 1970, 84 Stat. 284; Pub. L. 96–417, title VI, §601(4), Oct. 10, 1980, 94 Stat. 1744.)
 
+#### References in Text
+
+Section 1520(c) of this title, referred to in text, was repealed by Pub. L. 108–429, title II, §2105, Dec. 3, 2004, 118 Stat. 2598.
+
 #### Prior Provisions
 
-Provisions somewhat similar to those in subsecs. (a) and (b) were contained in act Sept. 21, 1922, ch. 356, titleIV, §503, 42 Stat. 967. Provisions similar to former subsec. (b) relating to entries pending reappraisement were contained in act Sept. 21, 1922, ch. 356, title IV, §489, 42 Stat. 962. Both of the acts of 1922 were in part superseded by act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions somewhat similar to those in subsecs. (a) and (b) were contained in act Sept. 21, 1922, ch. 356, title IV, §503, 42 Stat. 967. Provisions similar to former subsec. (b) relating to entries pending reappraisement were contained in act Sept. 21, 1922, ch. 356, title IV, §489, 42 Stat. 962. Both of the acts of 1922 were in part superseded by act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 A provision for assessment of duty on merchandise of different values when invoiced at an average price, was contained in R.S. §2910, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
@@ -31,4 +35,6 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 #### Effective Date of 1953 Amendment; Savings Provision
 
 Amendment by act Aug. 8, 1953, effective on and after the thirtieth day following Aug. 8, 1953, and savings provision, see notes set out under section 1304 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

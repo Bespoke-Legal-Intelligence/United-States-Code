@@ -10,9 +10,9 @@ No vessel owner or operator shall signal a drawbridge to open for any nonstructu
 
 #### (c) Civil penalties for violation; notice and hearing; assessment, collection, and remission; civil actions
 
-Whoever violates any rule or regulation issued under subsection (a) or (b) of this section, shall be liable to a civil penalty of not more than $1,000. No penalty may be assessed under this subsection until the person charged is given notice and an opportunity for a hearing on the charge. The Secretary of Transportation may assess and collect any civil penalty incurred under this subsection and, in his discretion, may remit, mitigate, or compromise any penalty until the matter is referred to the Attorney General. If a person against whom a civil penalty is assessed under this subsection fails to pay that penalty, an action may be commenced in the district court of the United States for any district in which the violation occurs for such penalty.
+Whoever violates any rule or regulation issued under subsection (a) or (b) of this section, shall be liable to a civil penalty of not more than $5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter. No penalty may be assessed under this subsection until the person charged is given notice and an opportunity for a hearing on the charge. The Secretary of Transportation may assess and collect any civil penalty incurred under this subsection and, in his discretion, may remit, mitigate, or compromise any penalty until the matter is referred to the Attorney General. If a person against whom a civil penalty is assessed under this subsection fails to pay that penalty, an action may be commenced in the district court of the United States for any district in which the violation occurs for such penalty.
 
-(Aug. 18, 1894, ch. 299, §5, 28 Stat. 362; June 13, 1902, ch. 1079, §6, 32 Stat. 374; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 97–322, title I, §108(a), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, §2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 100–448, §21, Sept. 28, 1988, 102 Stat. 1846; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(Aug. 18, 1894, ch. 299, §5, 28 Stat. 362; June 13, 1902, ch. 1079, §6, 32 Stat. 374; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 97–322, title I, §108(a), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, §2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 100–448, §21, Sept. 28, 1988, 102 Stat. 1846; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 108–293, title VI, §601(b), Aug. 9, 2004, 118 Stat. 1050.)
 
 #### Codification
 
@@ -23,6 +23,8 @@ The last paragraph of section 1 of this title is also from a part of section 6 o
 Except for the last proviso of subsec. (a), this section was from act Aug. 18, 1894.
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–293 substituted “$5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter” for “$1,000”.
 
 1988—Subsec. (a). Pub. L. 100–448 inserted at end “Any rules and regulations made in pursuance of this section shall, to the extent practical and feasible, provide for regularly scheduled openings of drawbridges during seasons of the year, and during times of the day, when scheduled openings would help reduce motor vehicle traffic delays and congestion on roads and highways linked by drawbridges.”
 

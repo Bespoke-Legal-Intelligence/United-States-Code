@@ -16,7 +16,3 @@ Section 6 of Pub. L. 89–387 provided that: “This Act \[enacting this section
 
 Section 1 of Pub. L. 89–387 provided: “That this Act \[enacting this section and sections 260a, 266, and 267 of this title and amending sections 261 to 263 of this title\] may be cited as the ‘Uniform Time Act of 1966’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 266, 267 of this title.
-

@@ -24,7 +24,7 @@ Condition.—No subpoena shall be issued under this paragraph except in accordan
 
 &emsp;(2)
 
-Statutory proceedings.—In any statutory proceeding conducted under section 3005(a), the Judicial Officer may require by subpoena the attendance and testimony of witnesses and the production of any records (including books, papers, documents, andother tangible things which constitute or contain evidence) which the Judicial Officer considers relevant or material to such proceeding.
+Statutory proceedings.—In any statutory proceeding conducted under section 3005(a), the Judicial Officer may require by subpoena the attendance and testimony of witnesses and the production of any records (including books, papers, documents, and other tangible things which constitute or contain evidence) which the Judicial Officer considers relevant or material to such proceeding.
 
 &emsp;(3)
 
@@ -93,8 +93,4 @@ Section effective 120 days after Dec. 12, 1999, see section 111 of Pub. L. 106�
 #### Regulations
 
 Pub. L. 106–168, title I, §107(b), Dec. 12, 1999, 113 Stat. 1813, provided that: “Not later than 120 days after the date of the enactment of this section \[Dec. 12, 1999\], the Postal Service shall promulgate regulations setting out the procedures the Postal Service will use to implement the amendment made by subsection (a) \[enacting this section\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3013 of this title.
 

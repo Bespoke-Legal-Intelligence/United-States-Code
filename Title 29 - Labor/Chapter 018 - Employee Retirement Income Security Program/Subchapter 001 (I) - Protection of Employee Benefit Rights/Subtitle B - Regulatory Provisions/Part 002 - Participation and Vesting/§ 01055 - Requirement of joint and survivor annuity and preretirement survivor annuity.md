@@ -18,7 +18,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;(C) any participant under any other individual account plan unless—
 
-&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to suchparticipant) is payable in full, on the death of the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2) of this section, to a designated beneficiary),
+&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the death of the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2) of this section, to a designated beneficiary),
 
 &emsp;&emsp;(ii) such participant does not elect the payment of benefits in the form of a life annuity, and
 
@@ -152,7 +152,7 @@ For purposes of this section—
 
 > &emsp;In the case of an individual who separated from service before the date of such individual's death, subparagraph (A)(ii)(I) shall not apply.
 
-&emsp;(2) In the case of any individual account plan or participant described in subparagraph (B) or (C) of subsection (b)(1) of this section, the term “qualified preretirement survivor annuity” means an annuity for the life of the surviving spouse the actuarial equivalent ofwhich is not less than 50 percent of the portion of the account balance of the participant (as of the date of death) to which the participant had a nonforfeitable right (within the meaning of section 1053 of this title).
+&emsp;(2) In the case of any individual account plan or participant described in subparagraph (B) or (C) of subsection (b)(1) of this section, the term “qualified preretirement survivor annuity” means an annuity for the life of the surviving spouse the actuarial equivalent of which is not less than 50 percent of the portion of the account balance of the participant (as of the date of death) to which the participant had a nonforfeitable right (within the meaning of section 1053 of this title).
 
 &emsp;(3) For purposes of paragraphs (1) and (2), any security interest held by the plan by reason of a loan outstanding to the participant shall be taken into account in determining the amount of the qualified preretirement survivor annuity.
 
@@ -318,7 +318,7 @@ Subsec. (c)(1)(B). Pub. L. 99–514, §1898(b)(4)(B)(i), substituted “paragrap
 
 Subsec. (c)(2)(A). Pub. L. 99–514, §1898(b)(6)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the spouse of the participant consents in writing to such election, and the spouse's consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or”.
 
-Subsec. (c)(3)(B). Pub. L. 99–514, §1898(b)(5)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Each plan shall provide to each participant, within the period beginning with the firstday of the plan year in which the participant attains age 32 and ending with the close of the plan year preceding the plan year in which the participant attains age 35 (and consistent with such regulations as the Secretary of the Treasury may prescribe), a written explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A).”
+Subsec. (c)(3)(B). Pub. L. 99–514, §1898(b)(5)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Each plan shall provide to each participant, within the period beginning with the first day of the plan year in which the participant attains age 32 and ending with the close of the plan year preceding the plan year in which the participant attains age 35 (and consistent with such regulations as the Secretary of the Treasury may prescribe), a written explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A).”
 
 Subsec. (c)(4). Pub. L. 99–514, §1898(b)(4)(B)(ii), added par. (4). Former par. (4) redesignated (5).
 
@@ -358,7 +358,7 @@ Subsec. (d). Pub. L. 98–397 substituted provisions defining “qualified joint
 
 Subsec. (e). Pub. L. 98–397 substituted provisions defining “qualified preretirement survivor annuity” for former provisions relating to election to take annuity.
 
-Subsec. (f). Pub. L. 98–397 substituted provisions to the effect that plans may provide that annuities will not be provided unless the participant and spouse had been married for a certain 1-year period, for former provisions relating to plan provisions which render election or revocation ineffective if participant dies within period of up to 2 years following the date of election or revocation.
+Subsec. (f). Pub. L. 98–397 substituted provisions to the effect that plans may provide that annuities will not be provided unless the participant and spouse hadbeen married for a certain 1-year period, for former provisions relating to plan provisions which render election or revocation ineffective if participant dies within period of up to 2 years following the date of election or revocation.
 
 Subsec. (g). Pub. L. 98–397 substituted provisions relating to plan provisions for immediate distribution of present value if such value does not exceed $3,500 and for written consent from the participant and spouse for former provisions setting forth definitions. See subsec. (h) of this section.
 
@@ -396,7 +396,7 @@ Section 7894(c)(7)(B) of Pub. L. 101–239 provided that: “The amendment made 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1139(c)(2) of Pub. L. 99–514 applicable to distributions in plan years beginning afterDec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by section 1139(c)(2) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 Amendment by section 1145(b) of Pub. L. 99–514 applicable as if included in the amendments made by the Retirement Equity Act of 1984, Pub. L. 98–397, see section 1145(d) of Pub. L. 99–514, set out as a note under section 401 of Title 26.
 
@@ -421,10 +421,6 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1053, 1054, 1056, 1061, 1322, 1350 of this title; title 28 section 3010.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “clauses”.</i>
 

@@ -65,10 +65,6 @@ Pub. L. 104–134, title III, §31001(j)(2), (<i>o</i>)(2), (r)(2), (t)(2), Apr.
 
 1983—Pub. L. 97–452, §1(13)(B), (16)(B), Jan. 12, 1983, 96 Stat. 2470, 2474, inserted “and application” in item 3701 and added items 3716–3719.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3516 of this title; title 20 sections 1234a, 7223h; title 42 sections 1395ccc, 5155, 12651d.
-
 
 ---
 

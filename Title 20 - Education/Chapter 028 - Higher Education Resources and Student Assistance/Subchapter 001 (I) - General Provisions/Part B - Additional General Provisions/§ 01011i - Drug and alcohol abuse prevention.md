@@ -150,7 +150,7 @@ Upon determination by the Secretary to terminate financial assistance to any ins
 
 &emsp;&emsp;&emsp;&emsp;(IV) establish partnerships with community members and organizations to further alcohol prevention efforts on campus and the areas surrounding campus; and
 
-&emsp;&emsp;&emsp;&emsp;(V) establish innovative communications programs involving students andfaculty in an effort to educate students about alcohol-related risks.
+&emsp;&emsp;&emsp;&emsp;(V) establish innovative communications programs involving students and faculty in an effort to educate students about alcohol-related risks.
 
 #### (4) Eligibility
 
@@ -179,8 +179,4 @@ Upon determination by the Secretary to terminate financial assistance to any ins
 #### Prior Provisions
 
 Provisions similar to subsecs. (a) to (d) of this section were contained in section 1145g of this title prior to repeal by Pub. L. 105–244.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1092 of this title.
 

@@ -24,7 +24,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(B) was for a project, facility, or separable unit or feature of a project or facility, placed in service before October 1, 1996;
 
-&emsp;(5) “repayment date” means the end of the period within which the Administrator's rates are to assure the repayment of the principal amount of a capital investment; and
+&emsp;(5) “repayment date” means the end of the period within which the Administrator's ratesare to assure the repayment of the principal amount of a capital investment; and
 
 &emsp;(6) “Treasury rate” means—
 
@@ -90,7 +90,7 @@ During the period October 1, 1996, through September 30, 2001, the total new pri
 
 #### (3) One-year rate
 
-&emsp;For the purposes of this section, “one-year rate” for a fiscal year means a rate determined by the Secretary of the Treasury, taking into consideration prevailing market yields, during the month preceding the beginning of the fiscal year, on outstanding interest-bearing obligations of the United States with periods to maturity of approximately one year.
+&emsp;For the purposes of this section, “one-year rate” for a fiscal year means a rate determined by the Secretary of the Treasury, taking into consideration prevailing marketyields, during the month preceding the beginning of the fiscal year, on outstanding interest-bearing obligations of the United States with periods to maturity of approximately one year.
 
 #### (g) Interest rates for new capital investments
 
@@ -140,7 +140,7 @@ In each contract of the Administrator that provides for the Administrator to sel
 
 #### Codification
 
-Section was enacted as part of the Omnibus Consolidated Recissions and Appropriations Act of 1996, and not as part of the Federal Columbia River Transmission System Act which comprises this chapter.
+Section was enacted as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Federal Columbia River Transmission System Act which comprises this chapter.
 
 Section is comprised of section 3201 of Pub. L. 104–134. Subsec. (h) of section 3201 of Pub. L. 104–134 amended section 6 of Pub. L. 103–436, which is not classified to the Code.
 

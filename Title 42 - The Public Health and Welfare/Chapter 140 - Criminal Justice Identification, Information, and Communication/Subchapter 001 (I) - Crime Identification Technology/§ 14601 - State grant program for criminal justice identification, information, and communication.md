@@ -74,7 +74,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 #### (2) Information sharing
 
-&emsp;Such assurances shall include a provision that ensures that a statewide strategy for information sharing systems is underway, or will be initiated, to improve the functioning of the criminal justice system, with an emphasis on integration of all criminal justice components, law enforcement, courts, prosecution, corrections, and probation and parole. Thestrategy shall be prepared after consultation with State and local officials with emphasis on the recommendation of officials whose duty it is to oversee, plan, and implement integrated information technology systems, and shall contain—
+&emsp;Such assurances shall include a provision that ensures that a statewide strategy for information sharing systems is underway, or will be initiated, to improve the functioning of the criminal justice system, with an emphasis on integration of all criminal justice components, law enforcement, courts, prosecution, corrections, and probation and parole. The strategy shall be prepared after consultation with State and local officials with emphasis on the recommendation of officials whose duty it is to oversee, plan, and implement integrated information technology systems, and shall contain—
 
 &emsp;&emsp;(A) a definition and analysis of “integration” in the State and localities developing integrated information sharing systems;
 
@@ -82,7 +82,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;&emsp;(C) Federal, State, regional, and local information technology coordination requirements;
 
-&emsp;&emsp;(D) an assurance that the individuals who developed the grant application took into consideration the needs of all branches of the State Government and specifically sought the advice of the chief of the highest court of the State with respect to the application;
+&emsp;&emsp;(D) an assurance that the individuals who developed the grant application took intoconsideration the needs of all branches of the State Government and specifically sought the advice of the chief of the highest court of the State with respect to the application;
 
 &emsp;&emsp;(E) State and local resource needs;
 

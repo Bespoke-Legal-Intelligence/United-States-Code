@@ -26,7 +26,3 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title IV, §402(c), as added Pub. L. 91–426, §2(d), Sept. 26, 1970, 84 Stat. 883; Pub. L. 94–519, §4, Oct. 17, 1976, 90 Stat. 2455.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 549, 703, 704 of this title.
-

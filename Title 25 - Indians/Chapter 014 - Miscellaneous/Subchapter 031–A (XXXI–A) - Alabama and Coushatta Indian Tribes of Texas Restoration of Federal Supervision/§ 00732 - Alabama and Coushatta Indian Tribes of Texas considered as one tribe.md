@@ -4,7 +4,3 @@ The Alabama and Coushatta Indian Tribes of Texas shall be considered as one trib
 
 (Pub. L. 100–89, title II, §202, Aug. 18, 1987, 101 Stat. 670.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 731 of this title.
-

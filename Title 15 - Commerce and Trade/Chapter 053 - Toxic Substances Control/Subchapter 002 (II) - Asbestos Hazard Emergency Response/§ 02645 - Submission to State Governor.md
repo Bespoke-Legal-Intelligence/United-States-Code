@@ -28,7 +28,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 #### (2) Revision of plan
 
-&emsp;If the State Governor disapproves a plan, the State Governor shall explain in writing to thelocal educational agency the reasons why the plan was disapproved and the changes that need to be made in the plan. Within 30 days after the date on which notice is received of disapproval of its plan, the local educational agency shall revise the plan to conform with the State Governor's suggested changes. The Governor may extend the 30-day period for not more than 90 days.
+&emsp;If the State Governor disapproves a plan, the State Governor shall explain in writing to the local educational agency the reasons why the plan was disapproved and the changes that need to be made in the plan. Within 30 days after the date on which notice is received of disapproval of its plan, the local educational agency shall revise the plan to conform withthe State Governor's suggested changes. The Governor may extend the 30-day period for not more than 90 days.
 
 #### (d) Deferral of submission
 
@@ -74,7 +74,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 #### (4) Submission and review of plan
 
-&emsp;A local educational agency whose deferral request is approved shall submit a management plan to the Governor not later than May 9, 1989. Such management plan shall include a copy of the deferral request and the statement accompanying such request. Such management plan shall be reviewed in accordance with subsection (c) of this section, except that the Governor may extend the 30-day period forrevision of the plan under subsection (c)(2) of this section for only an additional 30 days (for a total of 60 days).
+&emsp;A local educational agency whose deferral request is approved shall submit a management plan to the Governor not later than May 9, 1989. Such management plan shall include a copy of the deferral request and the statement accompanying such request. Such management plan shall be reviewed in accordance with subsection (c) of this section, except that the Governor may extend the 30-day period for revision of the plan under subsection (c)(2) of this section for only an additional 30 days (for a total of 60 days).
 
 #### (5) Implementation of plan
 
@@ -119,8 +119,4 @@ Within 360 days after October 22, 1986, the Governor of each State—
 1988—Subsec. (d). Pub. L. 100–368, §1(a), added subsec. (d).
 
 Subsec. (e). Pub. L. 100–368, §2, added subsec. (e).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2643, 2644, 2646, 2647, 2655 of this title.
 

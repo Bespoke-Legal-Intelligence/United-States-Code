@@ -14,7 +14,7 @@ It shall be unlawful for any registered broker or dealer, member of a national s
 
 1994—Subsec. (a). Pub. L. 103–325 inserted “or a small business related security” after “mortgage related security” in last sentence.
 
-1984—Subsec. (a). Pub. L. 98–440 inserted provision that no person shall be deemed to have borrowed withinthe ordinary course of business, within the meaning of this subsection, by reason of a bona fide agreement for delayed delivery of a mortgage related security under certain conditions.
+1984—Subsec. (a). Pub. L. 98–440 inserted provision that no person shall be deemed to have borrowed within the ordinary course of business, within the meaning of this subsection, by reason of a bona fide agreement for delayed delivery of a mortgage related security under certain conditions.
 
 1975—Pub. L. 94–29, §5(1), substituted “any registered broker or dealer, member of a national securities exchange, or broker or dealer who transacts a business in securities through the medium of any member of a national securities exchange” for “any member of a national securities exchange, or any broker or dealer who transacts a business in securities through the medium of any such member” in provisions preceding subsec. (a).
 
@@ -31,8 +31,4 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78f, 78<i>o</i>, 78<i>o</i>–3, 78hh of this title; title 7 section 6d.
 

@@ -12,7 +12,7 @@
 
 > The owner shall elect the term to be reserved.
 
-(B) The retention of rights under subparagraph (A) shall be available only to individuals who are homeowners of record as of July 1, 1986, who have attained the age of majority as of that date and who make a bona fide written offer not later than July 1, 1991, to sell to the Secretary.
+(B) The retention of rights under subparagraph (A) shall be available only to individuals whoare homeowners of record as of July 1, 1986, who have attained the age of majority as of that date and who make a bona fide written offer not later than July 1, 1991, to sell to the Secretary.
 
 (3)(A) In the case of improved property included within the boundaries of the lakeshore after October 1, 1991, that was not included within such boundaries on or before that date, an individual who is an owner of record of such property may retain a right of use and occupancy of such improved property for noncommercial residential purposes for a term ending, subject to subparagraph (B), at either of the following:
 
@@ -65,8 +65,4 @@ Subsec. (c). Pub. L. 96–612, §1(7), added subsec. (c).
 1976—Subsec. (a). Pub. L. 94–549, §1(4)(a), provided that owners within unit II–B on the map referred to in section 460u of this title be excluded from use and occupancy rights, that owners attain the age of majority to be eligible to retain use and occupancy rights, and that the maximum term that an owner may retain use and occupancy rights be reduced to twenty years from twenty-five years.
 
 Subsec. (b). Pub. L. 94–549, §1(4)(b), substituted provision requiring failure of property to be used in accordance with the terms and applicable conditions as grounds for termination by the Secretary for provision which required failure of the property to be used in accordance with applicable zoning standards, added nonpayment of property taxes as a ground for termination, and provided that the standards for right of use and occupancy applicable prior to Oct. 18, 1976 remain in effect for such right, including applicable zoning regulations.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460u–7 of this title.
 

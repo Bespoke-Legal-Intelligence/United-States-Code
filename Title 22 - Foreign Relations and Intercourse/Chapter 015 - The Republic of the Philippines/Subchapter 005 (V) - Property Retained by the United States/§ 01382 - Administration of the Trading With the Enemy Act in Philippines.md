@@ -52,7 +52,3 @@ Harry S Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Functions of Alien Property Custodian and Office of Alien Property Custodian, except those relating to property or interests in Philippines, vested in Attorney General. See notes set out under section 6 of Title 50, Appendix, War and National Defense.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1383 of this title.
-

@@ -40,7 +40,7 @@
 
 #### (1) Grounds for suspension, termination, or debarment
 
-&emsp;Each contract awarded by a Federal agency shall be subject to suspension of paymentsunder the contract or termination of the contract, or both, and the contractor thereunder or the individual who entered the contract with the Federal agency, as applicable, shall be subject to suspension or debarment in accordance with the requirements of this section if the head of the agency determines that—
+&emsp;Each contract awarded by a Federal agency shall be subject to suspension of payments under the contract or termination of the contract, or both, and the contractor thereunder or the individual who entered the contract with the Federal agency, as applicable, shall be subject to suspension or debarment in accordance with the requirements of this section if the head of the agency determines that—
 
 &emsp;&emsp;(A) the contractor violates the requirements of subparagraph (A), (B), (C), (D), (E), or (F) of subsection (a)(1) of this section; or
 
@@ -89,8 +89,4 @@ Section 5151 of Pub. L. 100–690 provided that: “This subtitle \[subtitle D (
 #### Consistency of Regulations With International Obligations of United States; Extraterritorial Application
 
 Section 4804 of Pub. L. 100–690 required that regulations promulgated by agency heads be consistent with international obligations of United States, prior to repeal by Pub. L. 103–447, title I, §103(b), Nov. 2, 1994, 108 Stat. 4693.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 703, 704, 706 of this title.
 

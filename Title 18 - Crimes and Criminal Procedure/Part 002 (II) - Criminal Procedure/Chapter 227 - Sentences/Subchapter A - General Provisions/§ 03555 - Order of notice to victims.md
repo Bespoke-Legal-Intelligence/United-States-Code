@@ -8,7 +8,3 @@ The court, in imposing a sentence on a defendant who has been found guilty of an
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3551, 3553, 3563 of this title; title 28 section 994.
-

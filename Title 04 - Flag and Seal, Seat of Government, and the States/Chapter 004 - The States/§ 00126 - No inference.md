@@ -2,7 +2,7 @@
 
 (a)
 
-Internet Tax Freedom Act.—Nothing in sections 116 through this section of this title shall be construed as bearing on Congressional intent in enacting the Internet Tax Freedom Act or to modify or supersede the operation of such Act.
+Internet Tax Freedom Act.—Nothing in sections 116 through this section of this titleshall be construed as bearing on Congressional intent in enacting the Internet Tax Freedom Act or to modify or supersede the operation of such Act.
 
 (b)
 
@@ -19,8 +19,4 @@ The Telecommunications Act of 1996, referred to in subsec. (b), is Pub. L. 104�
 #### Effective Date; Application of Amendment
 
 Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the first month beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 116, 117, 118, 123, 124, 125 of this title.
 

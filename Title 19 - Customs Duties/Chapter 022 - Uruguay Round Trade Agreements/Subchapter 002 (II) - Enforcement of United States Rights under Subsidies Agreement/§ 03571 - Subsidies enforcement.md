@@ -42,7 +42,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (B) Request by interested party regarding violation of Article 8
 
-&emsp;&emsp;An interested party may request the administering authority to determine if thereis reason to believe that a violation of Article 8 of the Subsidies Agreement exists. The request shall contain such information as the administering authority may require to support the allegations contained in the request. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that additional information is needed, the administering authority shall recommend to the Trade Representative that the Trade Representative seek, pursuant to Article 8.3 or 8.4 of the Subsidies Agreement, additional information regarding the particular notified subsidy program or a subsidy granted pursuant to the notified subsidy program. If the administering authority determines that there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
+&emsp;&emsp;An interested party may request the administering authority to determine if there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists. The request shall contain such information as the administering authority may require to support the allegations contained in the request. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that additional information is needed, the administering authority shall recommend to the Trade Representative that the Trade Representative seek, pursuant to Article 8.3 or 8.4 of the Subsidies Agreement, additional information regarding the particular notified subsidy program or a subsidy granted pursuant to the notified subsidy program. If the administering authority determines that there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
 
 #### (C) Action by Trade Representative
 
@@ -150,7 +150,7 @@ For purposes of this section:
 
 #### (8) Subsidies Agreement
 
-&emsp;The term “Subsidies Agreement” means the Agreement on Subsidies and Countervailing Measures described in section 771(8) of the Tariff Act of 1930 (19 U.S.C. 1677(8)).
+&emsp;The term “Subsidies Agreement” means the Agreement on Subsidies and CountervailingMeasures described in section 771(8) of the Tariff Act of 1930 (19 U.S.C. 1677(8)).
 
 #### (9) Subsidies Committee
 

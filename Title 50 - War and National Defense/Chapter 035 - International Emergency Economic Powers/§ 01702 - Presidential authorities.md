@@ -48,7 +48,7 @@ Section 1(a) of the Classified Information Procedures Act, referred to in subsec
 
 2001—Pub. L. 107–56, §106, which directed certain amendments to section 203 of the International Emergency Powers Act, was executed by making the amendments to this section, which is section 203 of the International Emergency Economic Powers Act, to reflect the probable intent of Congress. See below.
 
-Subsec. (a)(1). Pub. L. 107–56, §106(1)(C), which directed striking out “by any person, or with respect to any property, subject to the jurisdiction of the United States‘ without providing closing quotation marks designating the provisions to be struck, was executed by striking out “by any person, or with respect to any property, subject to the jurisdiction of the United States” in concluding provisions.
+Subsec. (a)(1). Pub. L. 107–56, §106(1)(C), which directed striking out “by any person, or with respect to any property, subject to the jurisdiction of the UnitedStates‘ without providing closing quotation marks designating the provisions to be struck, was executed by striking out “by any person, or with respect to any property, subject to the jurisdiction of the United States” in concluding provisions.
 
 Subsec. (a)(1)(A). Pub. L. 107–56, §106(1)(A), substituted a comma for “; and” at end of cl. (iii) and inserted concluding provisions.
 
@@ -76,11 +76,11 @@ Section 2502(b)(2) of Pub. L. 100–418 provided that: “The amendments made by
 
 #### Ex. Ord. No. 13290. Confiscating and Vesting Certain Iraqi Property
 
-Ex. Ord. No. 13290, Mar. 20, 2003, 68 F.R. 14307, provided:
+Ex. Ord. No. 13290, Mar. 20, 2003, 68 F.R. 14307, as amended by Ex. Ord. No. 13350, §3, July 29, 2004, 69 F.R. 46055, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), and section 301 of title 3, United States Code, and in order to take additional steps with respect to the national emergency declared in Executive Order 12722 of August 2, 1990 \[50 U.S.C. 1701 note\],
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), and section 301 of title 3, United States Code, and in order to take additional steps with respect to the national emergency declared in Executive Order 13303 of March 20 \[May 22\], 2003 \[50 U.S.C. 1701 note\], and expanded in Executive Order 13315 of August 28, 2003 \[50 U.S.C. 1701 note\],
 
-I, GEORGE W. BUSH, President of the United States of America, hereby determine that the United States and Iraq are engaged in armed hostilities, that it is in the interest of the United States to confiscate certainproperty of the Government of Iraq and its agencies, instrumentalities, or controlled entities, and that all right, title, and interest in any property so confiscated should vest in the Department of the Treasury. I intend that such vested property should be used to assist the Iraqi people and to assist in the reconstruction of Iraq, and determine that such use would be in the interest of and for the benefit of the United States.
+I, GEORGE W. BUSH, President of the United States of America, hereby determine that the United States and Iraq are engaged in armed hostilities, that it is in the interest of the United States to confiscate certain property of the Government of Iraq and its agencies, instrumentalities, or controlled entities, and that all right, title, and interest in any property so confiscated should vest in the Department of the Treasury. I intend that such vested property should be used to assist the Iraqi people and to assist in the reconstruction of Iraq, and determine that such use would be in the interest of and for the benefit of the United States.
 
 I hereby order:
 
@@ -95,10 +95,6 @@ Sec. 2. The Secretary of the Treasury is authorized to perform, without further 
 Sec. 3. This order shall be transmitted to the Congress and published in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1701 of this title; title 22 sections 6004, 7108; title 28 section 1610.
 
 <i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

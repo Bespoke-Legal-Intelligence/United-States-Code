@@ -2,7 +2,11 @@
 
 #### (a) Program authorized
 
-The Secretary, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, and in consultation with the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Bureau of Justice Assistance and the Director of the National Institutes of Health, shall award grants or contracts to public or nonprofit private entities to establish not more than four research, training, and technical assistance centers to carry out the activities described in subsection (c) of this section.
+The Secretary, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, and in consultation with the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Bureau of Justice Assistance and the Director of the National Institutes of Health—
+
+&emsp;(1) shall award grants or contracts to public or nonprofit private entities to establish not more than four research, training, and technical assistance centers to carry out the activities described in subsection (c) of this section; and
+
+&emsp;(2) shall award a competitive grant to 1 additional research, training, and technical assistance center to carry out the activities described in subsection (d) of this section.
 
 #### (b) Application
 
@@ -10,7 +14,7 @@ A public or private nonprofit entity desiring a grant or contract under subsecti
 
 #### (c) Authorized activities
 
-A center established under a grant or contract under subsection (a) of this section shall—
+A center established under a grant or contract under subsection (a)(1) of this section shall—
 
 &emsp;(1) provide training with respect to state-of-the-art mental health and justice-related services and successful mental health and substance abuse-justice collaborations that focus on children and adolescents, to public policymakers, law enforcement administrators, public defenders, police, probation officers, judges, parole officials, jail administrators and mental health and substance abuse providers and administrators;
 
@@ -20,13 +24,51 @@ A center established under a grant or contract under subsection (a) of this sect
 
 &emsp;(4) provide information, training, and technical assistance to State and local governmental officials to enhance the capacity of such officials to provide appropriate services relating to mental health or substance abuse.
 
-#### (d) Authorization of appropriations
+#### (d) Additional center
 
-For the purpose of carrying out this section, there is authorized to be appropriated $4,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal years 2002 and 2003.
+The additional research, training, and technical assistance center established under subsection (a)(2) of this section shall provide appropriate information, training, and technical assistance to States, political subdivisions of a State, Federally recognized Indian tribes, tribal organizations, institutions of higher education, public organizations, or private nonprofit organizations for—
 
-(July 1, 1944, ch. 373, title V, §520C, as added Pub. L. 106–310, div. B, title XXXI, §3104(b), Oct. 17, 2000, 114 Stat. 1173.)
+&emsp;(1) the development or continuation of statewide or tribal youth suicide early intervention and prevention strategies;
+
+&emsp;(2) ensuring the surveillance of youth suicide early intervention and prevention strategies;
+
+&emsp;(3) studying the costs and effectiveness of statewide youth suicide early intervention and prevention strategies in order to provide information concerning relevant issues of importance to State, tribal, and national policymakers;
+
+&emsp;(4) further identifying and understanding causes and associated risk factors for youth suicide;
+
+&emsp;(5) analyzing the efficacy of new and existing youth suicide early intervention techniques and technology;
+
+&emsp;(6) ensuring the surveillance of suicidal behaviors and nonfatal suicidal attempts;
+
+&emsp;(7) studying the effectiveness of State-sponsored statewide and tribal youth suicide early intervention and prevention strategies on the overall wellness and health promotion strategies related to suicide attempts;
+
+&emsp;(8) promoting the sharing of data regarding youth suicide with Federal agencies involved with youth suicide early intervention and prevention, and State-sponsored statewide or tribal youth suicide early intervention and prevention strategies for the purpose of identifying previously unknown mental health causes and associated risk factors for suicide in youth;
+
+&emsp;(9) evaluating and disseminating outcomes and best practices of mental and behavioral health services at institutions of higher education; and
+
+&emsp;(10) other activities determined appropriate by the Secretary.
+
+#### (e) Authorization of appropriations
+
+(1) For the purpose of awarding grants or contracts under subsection (a)(1) of this section, there is authorized to be appropriated $4,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal years 2002 and 2003.
+
+(2) For the purpose of awarding a grant under subsection (a)(2) of this section, there are authorized to be appropriated $3,000,000 for fiscal year 2005, $4,000,000 for fiscal year 2006, and $5,000,000 for fiscal year 2007.
+
+(July 1, 1944, ch. 373, title V, §520C, as added Pub. L. 106–310, div. B, title XXXI, §3104(b), Oct. 17, 2000, 114 Stat. 1173; amended Pub. L. 108–355, §3(a), Oct. 21, 2004, 118 Stat. 1405.)
 
 #### References in Text
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (c)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–355, §3(a)(1), substituted dash for comma after “National Institutes of Health”, designated remainder of existing provisions as par. (1), substituted “; and” for period, and added par. (2).
+
+Subsec. (c). Pub. L. 108–355, §3(a)(2), substituted “(a)(1)” for “(a)” in introductory provisions.
+
+Subsec. (d). Pub. L. 108–355, §3(a)(5), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Pub. L. 108–355, §3(a)(3), designated existing provisions as par. (1), substituted “awarding grants or contracts under subsection (a)(1) of this section” for “carrying out this section”, and added par. (2).
+
+Subsec. (e). Pub. L. 108–355, §3(a)(4), redesignated subsec. (d) as (e).
 

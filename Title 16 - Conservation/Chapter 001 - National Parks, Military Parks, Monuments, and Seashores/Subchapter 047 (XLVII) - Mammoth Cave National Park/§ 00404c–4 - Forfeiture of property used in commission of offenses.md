@@ -8,7 +8,3 @@ All guns, traps, nets, seines, fishing tackle, teams, horses, or means of transp
 
 This Act, referred to in text, is act June 5, 1942, which is classified to sections 404c–1 to 404c–12 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 404c–10 of this title.
-

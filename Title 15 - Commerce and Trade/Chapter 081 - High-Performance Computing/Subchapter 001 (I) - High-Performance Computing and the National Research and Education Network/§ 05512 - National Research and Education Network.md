@@ -62,7 +62,3 @@ Within one year after December 9, 1991, the Director shall report to the Congres
 
 (Pub. L. 102–194, title I, §102, Dec. 9, 1991, 105 Stat. 1598.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5503 of this title.
-

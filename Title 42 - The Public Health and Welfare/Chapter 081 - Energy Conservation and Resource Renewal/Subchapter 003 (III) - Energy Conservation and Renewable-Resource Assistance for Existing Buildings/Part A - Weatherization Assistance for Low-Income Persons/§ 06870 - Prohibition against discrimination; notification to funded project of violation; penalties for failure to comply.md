@@ -20,7 +20,3 @@ The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352
 
 1980—Subsec. (b). Pub. L. 96–294 substituted “Secretary” for “Administrator” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6871 of this title.
-

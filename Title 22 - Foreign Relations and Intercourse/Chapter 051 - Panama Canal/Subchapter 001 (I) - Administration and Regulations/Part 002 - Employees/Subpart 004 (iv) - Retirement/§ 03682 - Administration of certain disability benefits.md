@@ -24,7 +24,7 @@ The Commission may pay cash relief to the widow of any former employee of the Ca
 
 &emsp;(3) a woman who has not remarried or assumed a common-law relationship with any other person.
 
-> Cash relief granted to such a widow shall not at any time exceed 50 percent of the rate at which cash relief, inclusive of any additional payment under subsection (b) of this section, would be payable to the former employee were he then alive.
+> Cash relief granted to such a widow shall not at any time exceed 50 percent of the rate at whichcash relief, inclusive of any additional payment under subsection (b) of this section, would be payable to the former employee were he then alive.
 
 #### (e) Applicability of subchapter III of chapter 83 of title 5
 
@@ -45,8 +45,4 @@ Section 13(a)(1) of Act July 25, 1958, referred to in subsec. (e), probably mean
 1996—Pub. L. 104–201, §§3538, 3548(c)(2), amended section catchline to read “Administration of certain disability benefits”.
 
 Subsec. (a). Pub. L. 104–201, §3538, added subsec. (a) and struck out former subsec. (a) which read as follows: “The Commission, under the regulations prescribed by the President pursuant to the Act entitled ‘An Act authorizing cash relief for certain employees of the Panama Canal not coming within the provisions of the Canal Zone Retirement Act’, approved July 8, 1937, as amended (50 Stat. 478; 68 Stat. 17), may continue the payments of cash relief to those individual former employees of the Canal Zone Government or Panama Canal Company or their predecessor agencies not coming within the scope of the former Canal Zone Retirement Act whose services were terminated prior to October 5, 1958, because of unfitness for further useful service by reason of mental or physical disability resulting from age or disease. Subject to subsection (b) of this section, that cash relief may not exceed $1.50 per month for each year of service of the employees so furnished relief, with a maximum of $45 per month, plus the amount of any cost-of-living increases in such cash relief granted before October 1, 1979, pursuant to section 181 of title 2 of the Canal Zone Code (as in effect on September 30, 1979), nor be paid to any employee who, at the time of termination for disability prior to October 5, 1958, had less than 10 years’ service with the Canal Zone Government, the Panama Canal Company, or their predecessor agencies on the Isthmus of Panama.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3620 of this title.
 

@@ -8,7 +8,3 @@ In addition to any funds authorized to be appropriated to the Commission under s
 
 (Pub. L. 107–252, title V, §503, Oct. 29, 2002, 116 Stat. 1717.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15330 of this title.
-

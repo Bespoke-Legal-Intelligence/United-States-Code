@@ -24,7 +24,3 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 757.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2401, 3404, 3405, 3627 of this title.
-

@@ -54,7 +54,3 @@ For the purpose of this section, an error consists of—
 
 (Pub. L. 90–321, title IX, §908, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3733.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1693c, 1693m of this title; title 26 section 6311.
-

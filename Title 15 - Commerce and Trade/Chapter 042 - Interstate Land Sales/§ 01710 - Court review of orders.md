@@ -10,7 +10,3 @@ The commencement of proceedings under subsection (a) of this section shall not, 
 
 (Pub. L. 90–448, title XIV, §1411, Aug. 1, 1968, 82 Stat. 595.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1717a of this title.
-

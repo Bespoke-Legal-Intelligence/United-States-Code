@@ -1,9 +1,5 @@
 Part B—Strategic Petroleum Reserve
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 6249, 6250, 7270a, 7270b of this title; title 10 section 7430; title 12 section 1701z–8.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “publicly”.</i>
 
 

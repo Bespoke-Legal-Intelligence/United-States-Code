@@ -10,7 +10,7 @@ The Director shall ensure that any regulatory analysis that is conducted under t
 
 #### (1) In general
 
-&emsp;Effective six months after October 13, 1994, the Secretary of Agriculture shall publish inthe Federal Register, for each proposed major regulation the primary purpose of which is to regulate issues of human health, human safety, or the environment that is promulgated by the Department after October 13, 1994, an analysis with as much specificity as practicable, of—
+&emsp;Effective six months after October 13, 1994, the Secretary of Agriculture shall publish in the Federal Register, for each proposed major regulation the primary purpose of which is to regulate issues of human health, human safety, or the environment that is promulgated by the Department after October 13, 1994, an analysis with as much specificity as practicable, of—
 
 &emsp;&emsp;(A) the risk, including the effect of the risk, to human health, human safety, or the environment, and any combination thereof, addressed by the regulation, including, where applicable and practicable, the health and safety risks to persons who are disproportionately exposed or particularly sensitive;
 
@@ -39,8 +39,4 @@ The Director shall ensure that any regulatory analysis that is conducted under t
 As used in this section, the term “major regulation” means any regulation that the Secretary of Agriculture estimates is likely to have an annual impact on the economy of the United States of $100,000,000 in 1994 dollars.
 
 (Pub. L. 103–354, title III, §304, Oct. 13, 1994, 108 Stat. 3239.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6912 of this title.
 

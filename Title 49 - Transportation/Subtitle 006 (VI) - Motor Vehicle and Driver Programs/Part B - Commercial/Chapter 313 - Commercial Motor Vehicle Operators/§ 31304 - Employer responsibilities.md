@@ -26,7 +26,3 @@ Oct. 27, 1986, Pub. L. 99–570, §12004, 100 Stat. 3207–171.
 
 In this section, before clause (1), the words “Effective July 1, 1987” are omitted as executed. The words “permit, or authorize” are omitted as surplus. Clause (2) is substituted for 49 App.:2703(2) to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 521 of this title.
-

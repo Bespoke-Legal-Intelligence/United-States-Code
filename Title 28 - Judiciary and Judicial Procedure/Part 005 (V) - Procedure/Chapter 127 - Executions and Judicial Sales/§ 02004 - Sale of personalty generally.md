@@ -14,7 +14,3 @@ A provision making the section applicable to pending proceedings was deleted as 
 
 Changes were made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3202 of this title.
-

@@ -16,9 +16,9 @@ The Congress finds that—
 
 &emsp;(6) census data, national polls, and other studies have documented that people with disabilities, as a group, occupy an inferior status in our society, and are severely disadvantaged socially, vocationally, economically, and educationally;
 
-&emsp;(7) individuals with disabilities are a discrete and insular minority who have beenfaced with restrictions and limitations, subjected to a history of purposeful unequal treatment, and relegated to a position of political powerlessness in our society, based on characteristics that are beyond the control of such individuals and resulting from stereotypic assumptions not truly indicative of the individual ability of such individuals to participate in, and contribute to, society;
+&emsp;(7) individuals with disabilities are a discrete and insular minority who have been faced with restrictions and limitations, subjected to a history of purposeful unequal treatment, and relegated to a position of political powerlessness in our society, based on characteristics that are beyond the control of such individuals and resulting from stereotypic assumptions not truly indicative of the individual ability of such individuals to participate in, and contribute to, society;
 
-&emsp;(8) the Nation's proper goals regarding individuals with disabilities are to assure equality of opportunity, full participation, independent living, and economic self-sufficiency for such individuals; and
+&emsp;(8) the Nation's proper goals regarding individuals with disabilities are to assure equality of opportunity, full participation, independentliving, and economic self-sufficiency for such individuals; and
 
 &emsp;(9) the continuing existence of unfair and unnecessary discrimination and prejudice denies people with disabilities the opportunity to compete on an equal basis and to pursue those opportunities for which our free society is justifiably famous, and costs the United States billions of dollars in unnecessary expenses resulting from dependency and nonproductivity.
 
@@ -46,13 +46,5 @@ Section 1(a) of Pub. L. 101–336 provided that: “This Act \[enacting this cha
 
 #### Study by General Accounting Office of Existing Disability-Related Employment Incentives
 
-Pub. L. 106–170, title III, §303(a), Dec. 17, 1999, 113 Stat. 1903, provided that:
-
-“(1)
-
-Study.—As soon as practicable after the date of the enactment of this Act \[Dec. 17, 1999\], the Comptroller General of the United States shall undertake a study to assess existing tax credits and other disability-related employment incentives under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) and other Federal laws. In such study, the Comptroller General shall specifically address the extent to which such credits and other incentives would encourage employers to hire and retain individuals with disabilities.
-
-“(2)
-
-Report.—Not later than 3 years after the date of the enactment of this Act, the Comptroller General shall transmit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a written report presenting the results of the Comptroller General's study conducted pursuant to this subsection, together with such recommendations for legislative or administrative changes as the Comptroller General determines are appropriate.”
+Pub. L. 106–170, title III, §303(a), Dec. 17, 1999, 113 Stat. 1903, provided that, as soon as practicable after Dec. 17, 1999, the Comptroller General was to undertake a study to assess existing tax credits and other disability-related employment incentives under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) and other Federal laws, specifically addressing the extent to which such credits and other incentives would encourage employers to hire and retain individuals with disabilities; and that, not later than 3 years after Dec. 17, 1999, the Comptroller General was to transmit to the appropriate congressional committees a written report presenting the results of the study and any appropriate recommendations for legislative or administrative changes.
 

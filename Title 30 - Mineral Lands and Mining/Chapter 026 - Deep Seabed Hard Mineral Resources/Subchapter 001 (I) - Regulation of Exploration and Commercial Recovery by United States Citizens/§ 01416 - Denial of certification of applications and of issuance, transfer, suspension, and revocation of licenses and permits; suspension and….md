@@ -6,7 +6,7 @@
 
 (2) The Administrator may—
 
-&emsp;(A) in addition to, or in lieu of, the imposition of any civil penalty under section 1462(a) of this title, or in addition to the imposition of any fine under section 1463 of this title, suspend or revoke any license or permit issued under this chapter, or suspend or modify any particular activities under such a license or permit, if the licensee or permittee, as thecase may be, substantially fails to comply with any provision of this chapter, any regulation issued under this chapter, or any term, condition, or restriction of the license or permit; and
+&emsp;(A) in addition to, or in lieu of, the imposition of any civil penalty under section 1462(a) of this title, or in addition to the imposition of any fine under section 1463 of this title, suspend or revoke any license or permit issued under this chapter, or suspend or modify any particular activities under such a license or permit, if the licensee or permittee, as the case may be, substantially fails to comply with any provision of this chapter, any regulation issued under this chapter, or any term, condition, or restriction of the license or permit; and
 
 &emsp;(B) suspend or modify particular activities under any license or permit, if the President determines that such suspension or modification is necessary (i) to avoid any conflict with any international obligation of the United States established by any treaty or convention in force with respect to the United States, or (ii) to avoid any situation which may reasonably be expected to lead to a breach of international peace and security involving armed conflict.
 
@@ -32,11 +32,7 @@ The issuance of any notice of proposed suspension or revocation of a license for
 
 #### (d) Judicial review
 
-Any determination of the Administrator, after any appropriate administrative review under subsection (b) of this section, to certify or deny certification of an application for the issuance or transfer of, or to issue, deny issuance of, transfer, deny the transfer of, modify, renew, suspend, or revoke any license for exploration or permit for commercial recovery, or suspend or modify particular activities under such a license or permit, or any immediate suspension of such a license or permit, or immediate suspension or modification of particular activities under such a license or permit, pursuant to subsection (c) of this section, is subject to judicial review as provided in chapter 7 of title 5.
+Any determination of the Administrator, after any appropriate administrative review under subsection (b) of this section, to certify or deny certification of an application for the issuance or transfer of, or to issue, deny issuance of, transfer, deny the transfer of, modify, renew, suspend, or revoke any license for exploration orpermit for commercial recovery, or suspend or modify particular activities under such a license or permit, or any immediate suspension of such a license or permit, or immediate suspension or modification of particular activities under such a license or permit, pursuant to subsection (c) of this section, is subject to judicial review as provided in chapter 7 of title 5.
 
 (Pub. L. 96–283, title I, §106, June 28, 1980, 94 Stat. 565.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1411, 1412 of this title.
 

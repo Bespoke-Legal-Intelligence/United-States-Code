@@ -6,7 +6,7 @@ For purposes of this chapter:
 
 &emsp;(2) The term “antifouling paint” means a coating, paint, or treatment that is applied to a vessel to control fresh water or marine fouling organisms.
 
-&emsp;(3) The term “estuary” means a body of water having an unimpaired connection with open sea, where the sea water is measurably diluted with fresh water derived from land drainage, and such term includes the Chesapeake Bay and estuary-type areas of the Great Lakes.
+&emsp;(3) The term “estuary” means a body of water having an unimpaired connection withopen sea, where the sea water is measurably diluted with fresh water derived from land drainage, and such term includes the Chesapeake Bay and estuary-type areas of the Great Lakes.
 
 &emsp;(4) The term “organotin” means any compound of tin used as a biocide in an antifouling paint.
 

@@ -36,7 +36,7 @@ Each production credit association, under standards prescribed by the board of d
 
 #### (2) Setting of rates
 
-&emsp;In setting rates and charges, it shall be the objective to provide the types of credit neededby eligible borrowers, at the lowest reasonable cost on a sound business basis, taking into account the cost of money to the association, necessary reserves and expenses of the association, and services provided to borrowers and members.
+&emsp;In setting rates and charges, it shall be the objective to provide the types of credit needed by eligible borrowers, at the lowest reasonable cost on a sound business basis, taking into account the cost of money to the association, necessary reserves and expenses of the association, and services provided to borrowers and members.
 
 #### (3) Varying rates
 
@@ -73,8 +73,4 @@ Subsec. (d). Pub. L. 100–399, §401(q), added subsec. (d).
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2206a of this title.
 

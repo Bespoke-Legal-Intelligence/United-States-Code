@@ -54,7 +54,7 @@ Notwithstanding any other provision of this section other than paragraph (3) of 
 
 #### (g) Performance of immigration officer functions by State officers and employees
 
-(1) Notwithstanding section 1342 of title 31, the Attorney General may enter into a written agreement with a State, or any political subdivision of a State, pursuant to which an officer or employee of the State or subdivision, who is determined by the Attorney General to be qualified to perform a function of an immigration officer in relation to the investigation, apprehension, or detention of aliens in the United States (including the transportation of such aliens across State lines to detention centers), may carry out such function at the expense of the State or political subdivision and to the extent consistent with State and local law.
+(1) Notwithstanding section 1342 of title 31, the Attorney General may enter into a writtenagreement with a State, or any political subdivision of a State, pursuant to which an officer or employee of the State or subdivision, who is determined by the Attorney General to be qualified to perform a function of an immigration officer in relation to the investigation, apprehension, or detention of aliens in the United States (including the transportation of such aliens across State lines to detention centers), may carry out such function at the expense of the State or political subdivision and to the extent consistent with State and local law.
 
 (2) An agreement under this subsection shall require that an officer or employee of a State or political subdivision of a State performing a function under the agreement shall have knowledge of, and adhere to, Federal law relating to the function, and shall contain a written certification that the officers or employees performing the function under the agreement have received adequate training regarding the enforcement of relevant Federal immigration laws.
 
@@ -110,7 +110,7 @@ Subsec. (e). Pub. L. 99–603, as amended by Pub. L. 100–525, §2(e), added su
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i) of Pub. L. 104–208 effective, with certaintransitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -123,8 +123,4 @@ Amendment by section 2(e) of Pub. L. 100–525 effective as if included in enact
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1304 of this title.
 

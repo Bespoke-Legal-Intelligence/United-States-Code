@@ -6,10 +6,6 @@
 
 Responsibilities of National Institute on Aging”, consisting of sections 11241 to 11243.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 285e–7 of this title.
-
 
 ---
 

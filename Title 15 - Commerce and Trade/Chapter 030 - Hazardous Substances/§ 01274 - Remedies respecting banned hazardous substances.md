@@ -48,7 +48,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 &emsp;(B) To replace such toy or article with a like or equivalent toy or article which does not contain a defect which creates a substantial risk of injury to children.
 
-&emsp;(C) To refund the purchase price of such toy or article (less a reasonable allowance for use, if such toy or article has been in the possession of the consumer for 1 year or more (i) atthe time of public notice under paragraph (1)(A), or (ii) at the time the consumer receives actual notice that the toy or article contains a defect which creates a substantial risk of injury to children, whichever first occurs).
+&emsp;(C) To refund the purchase price of such toy or article (less a reasonable allowance for use, if such toy or article has been in the possession of the consumer for 1 year or more (i) at the time of public notice under paragraph (1)(A), or (ii) at the time the consumer receives actual notice that the toy or article contains a defect which creates a substantial risk of injury to children, whichever first occurs).
 
 > An order under this paragraph may also require the person to whom it applies to submit a plan, satisfactory to the Commission, for taking the action which such person has elected to take. The Commission shall specify in the order the person to whom refunds must be made if the person to whom the order is directed elects to take the action described in subparagraph (C). If an order under this paragraph is directed to more than one person, the Commission shall specify which person has the election under this paragraph. An order under this paragraph may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, with respect to the toy or article with respect to which the order was issued.
 
@@ -56,7 +56,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 (1) No charge shall be made to any person (other than a manufacturer, distributor, or dealer) who avails himself of any remedy provided under an order issued under subsection (b) or (c) of this section, and the person subject to the order shall reimburse each person (other than a manufacturer, distributor, or dealer) who is entitled to such a remedy for any reasonable and foreseeable expenses incurred by such person in availing himself of such remedy.
 
-(2) An order issued under subsection (a), (b), or (c) of this section with respect to a toy, article or substance may require any person who is a manufacturer, distributor, or dealer of the toy, article or substance to reimburse any other person who is a manufacturer, distributor, or dealer of such toy, article or substance for such other person's expenses in connection with carrying out the order, if the Commission determines such reimbursement to be in the public interest.
+(2) An order issued under subsection (a), (b), or (c) of this section with respect to a toy, article or substance may require any person who is amanufacturer, distributor, or dealer of the toy, article or substance to reimburse any other person who is a manufacturer, distributor, or dealer of such toy, article or substance for such other person's expenses in connection with carrying out the order, if the Commission determines such reimbursement to be in the public interest.
 
 #### (e) Hearing; representative of class
 
@@ -109,8 +109,4 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 #### Effective Date
 
 Section effective on sixtieth day following Nov. 6, 1969, see section 5 of Pub. L. 91–113, set out as an Effective Date of 1969 Amendment note under section 1261 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1263 of this title.
 

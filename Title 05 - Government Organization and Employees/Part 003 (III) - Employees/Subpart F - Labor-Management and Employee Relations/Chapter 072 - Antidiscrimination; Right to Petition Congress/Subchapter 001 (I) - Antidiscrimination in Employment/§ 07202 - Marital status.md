@@ -32,7 +32,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1971—Pub. L. 92–187 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3302 of this title.
-

@@ -50,7 +50,3 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title IV, §402(a), 63 Stat. 398; Pub. L. 91–426, §2(a)–(c), Sept. 26, 1970, 84 Stat. 883; Pub. L. 99–627, §3(a), Nov. 7, 1986, 100 Stat. 3509.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 701 of this title.
-

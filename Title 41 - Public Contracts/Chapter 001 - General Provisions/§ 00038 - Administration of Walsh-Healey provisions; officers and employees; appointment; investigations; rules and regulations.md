@@ -22,7 +22,3 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 For transfer of functions of all other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 43a, 353 of this title; title 25 section 450j; title 40 section 3704.
-

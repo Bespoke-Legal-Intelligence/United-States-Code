@@ -36,7 +36,3 @@ In addition to the amounts authorized under subsection (a) of this section, ther
 
 (Pub. L. 107–252, title I, §104, Oct. 29, 2002, 116 Stat. 1672.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15302, 15407 of this title.
-

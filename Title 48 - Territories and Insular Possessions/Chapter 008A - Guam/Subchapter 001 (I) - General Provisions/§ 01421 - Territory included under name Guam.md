@@ -28,7 +28,7 @@ Section 1 of act Aug. 1, 1950, provided that: “This Act \[enacting this chapte
 
 #### Political Union Between Territory of Guam and Commonwealth of Northern Mariana Islands, Effects on Rights and Entitlements
 
-In event of political union between Guam and the Commonwealth of the Northern Mariana Islands, there shall be no diminution of rights or entitlements, norany adverse effects on any funds authorized or appropriated, see section 1844 of this title.
+In event of political union between Guam and the Commonwealth of the Northern Mariana Islands, there shall be no diminution of rights or entitlements, nor any adverse effects on any funds authorized or appropriated, see section 1844 of this title.
 
 #### Analysis of Capital Infrastructure Needs of Guam for 1985 to 1990 Timeframe; Report to Congress; Contents
 

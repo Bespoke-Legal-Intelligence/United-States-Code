@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary of the Interior is directed to investigate, study, and continually monitor the welfare of areas whose resources exhibit qualities of national significance and which may have potential for inclusion in the National Park System. Accompanying the annual listing of areas shall be a synopsis, for each report previously submitted, of the current and changed condition of the resource integrity of the area and other relevant factors, compiled as a result of continual periodic monitoring and embracing the period since the previous such submission or initial report submission one year earlier. TheSecretary is also directed to transmit annually to the Speaker of the House of Representatives and to the President of the Senate, at the beginning of each fiscal year, a complete and current list of all areas included on the Registry of Natural Landmarks and those areas of national significance listed on the National Register of Historic places which areas exhibit known or anticipated damage or threats to the integrity of their resources, along with notations as to the nature and severity of such damage or threats. Each report and annual listing shall be printed as a House document: <i>Provided</i>, That should adequate supplies of previously printed identical reports remain available, newly submitted identical reports shall be omitted from printing upon the receipt by the Speaker of the United States House of Representatives of a joint letter from the chairman of the Committee on Natural Resources of the United States House of Representatives and the chairman of the Committee on Energy and Natural Resources of the United States Senate indicating such to be the case.
+The Secretary of the Interior is directed to investigate, study, and continually monitor the welfare of areas whose resources exhibit qualities of national significance and which may have potential for inclusion in the National Park System. Accompanying the annual listing of areas shall be a synopsis, for each report previously submitted, of the current and changed condition of the resource integrity of the area and other relevant factors, compiled as a result of continual periodic monitoring and embracing the period since the previous such submission or initial report submission one year earlier. The Secretary is also directed to transmit annually to the Speaker of the House of Representatives and to the President of the Senate, at the beginning of each fiscal year, a complete and current list of all areas included on the Registry of Natural Landmarks and those areas of national significance listed on the National Register of Historic places which areas exhibit known or anticipated damage or threats to the integrity of their resources, along with notations as to the nature and severity of such damage or threats. Each report and annual listing shall be printed as a House document: <i>Provided</i>, That should adequate supplies of previously printed identical reports remain available, newly submitted identical reports shall be omitted from printing upon the receipt by the Speaker of the United States House of Representatives of a joint letter from the chairman of the Committee on Natural Resources of the United States House of Representatives and the chairman of the Committee on Energy and Natural Resources of the United States Senate indicating such to be the case.
 
 #### (b) Studies of areas for potential addition
 
@@ -70,7 +70,7 @@ The Secretary shall designate a single office to be assigned to prepare all new 
 
 #### (e) List of areas
 
-At the beginning of each calendar year, along with the annual budget submission, the Secretary shall submit to the Committee on Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate a list of areas which have been previously studied which contain primarily historical resources, and a list of areas whichhave been previously studied which contain primarily natural resources, in numerical order of priority for addition to the National Park System. In developing the lists, the Secretary should consider threats to resource values, cost escalation factors, and other factors listed in subsection (c) of this section. The Secretary should only include on the lists areas for which the supporting data is current and accurate.
+At the beginning of each calendar year, along with the annual budget submission, the Secretary shall submit to the Committee on Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate a list of areas which have been previously studied which contain primarily historical resources, and a list of areas which have been previously studied which contain primarily natural resources, in numerical order of priority for addition to the National Park System. In developing the lists, the Secretary should consider threats to resource values, cost escalation factors, and other factors listed in subsection (c) of this section. The Secretary should only include on the lists areas for which the supporting data is current and accurate.
 
 #### (f) Authorization of appropriations
 
@@ -80,7 +80,7 @@ For the purposes of carrying out the studies for potential new Park System units
 
 #### References in Text
 
-This Act, referred to in subsec. (b)(4), means Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 825, as amended, popularly known as the “National Park System General Authorities Act”. As originally enacted, Pub. L. 91–383 contained sections 1 to 4, the first 3 of which enacted sections 1a–1 and 1a–2 and amended sections 1b and 1c of this title. Pub. L. 94–458 amended Pub. L. 91–383 by adding sections 5 to 12, which enacted sections 1a–3 to 1a–7, amended sections 17j, 460n–5, 463, 470a, and 559, and repealed sections 10, 10a, 17b–1, and 415 of this title. Pub. L. 103–322 amended Pub. L. 91–383 by adding section 13, which enacted section 1a–7a of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (b)(4), means Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 825, as amended, known as the “National Park System General Authorities Act”. As originally enacted, Pub. L. 91–383 contained sections 1 to 4, the first 3 of which enacted sections 1a–1 and 1a–2 and amended sections 1b and 1c of this title. Pub. L. 94–458 amended Pub. L. 91–383 by adding sections 5 to 12, which enacted sections 1a–3 to 1a–7, amended sections 17j, 460n–5, 463, 470a, and 559, and repealed sections 10, 10a, 17b–1, and 415 of this title. Pub. L. 103–322 amended Pub. L. 91–383 by adding section 13, which enacted section 1a–7a of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1 of this title and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(4), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
@@ -130,7 +130,7 @@ In general.—The Secretary of the Interior (‘the Secretary’) shall conduct 
 
 &emsp;“(2)
 
-Criteria.—In conducting the studies authorized by this Act, the Secretary shall use the criteriafor the study of areas for potential inclusion in the National Park System in accordance with section 8 of Public Law 91–383 \[16 U.S.C. 1a–5\], as amended by section 303 of the National Parks Omnibus Management Act (Public Law 105–391; 112 Stat. 3501) \[16 U.S.C. 1a–5\].
+Criteria.—In conducting the studies authorized by this Act, the Secretary shall use the criteria for the study of areas for potential inclusion in the National Park System in accordance with section 8 of Public Law 91–383 \[16 U.S.C. 1a–5\], as amended by section 303 of the National Parks Omnibus Management Act (Public Law 105–391; 112 Stat. 3501) \[16 U.S.C. 1a–5\].
 
 &emsp;“(3)
 
@@ -202,7 +202,7 @@ Pub. L. 101–628, title VI, Nov. 28, 1990, 104 Stat. 4495, directed Secretary o
 
 #### Civil War and Other Studies
 
-Pub. L. 101–628, title XII, §§1201–1210, Nov. 28, 1990, 104 Stat. 4503–4507, as amended by Pub. L. 102–166, title V, §501, Nov. 21, 1991, 105 Stat. 1100, provided that title XII of Pub. L. 101–628 could be cited as the “Civil War Sites Study Act of 1990”, directed Secretary of the Interior to prepare a study of Shenandoah Valley Civil War sites in order to obtain information on significance of such sites, threats to their integrity, and alternatives for their preservation, authorized establishment of Civil War Sites Advisory Commission, directed such Commission to prepare a study of historically significant sites other than Shenandoah Valley Civil War sites, and directed Secretary to undertake a complete revision of National Park Service “Thematic Framework” to reflect current scholarship on American history and culture, historic and prehistoric archeology, and architecture.
+Pub. L. 101–628, title XII, §§1201–1210, Nov. 28, 1990, 104 Stat. 4503–4507, as amended by Pub. L. 102–166, title V,§501, Nov. 21, 1991, 105 Stat. 1100, provided that title XII of Pub. L. 101–628 could be cited as the “Civil War Sites Study Act of 1990”, directed Secretary of the Interior to prepare a study of Shenandoah Valley Civil War sites in order to obtain information on significance of such sites, threats to their integrity, and alternatives for their preservation, authorized establishment of Civil War Sites Advisory Commission, directed such Commission to prepare a study of historically significant sites other than Shenandoah Valley Civil War sites, and directed Secretary to undertake a complete revision of National Park Service “Thematic Framework” to reflect current scholarship on American history and culture, historic and prehistoric archeology, and architecture.
 
 #### Report to Congress on Criteria for Inclusion as Affiliated Area of National Park System
 
@@ -227,8 +227,4 @@ Section 605 of Pub. L. 95–625 directed Secretary, in cooperation with Secretar
 #### Irvine Coast-Laguna, California Study
 
 Section 608 of Pub. L. 95–625 directed Secretary to study feasibility and desirability of establishing Irvine Coast-Laguna beach area as a unit of National Park System, to consult with other Federal, State, and local agencies in conduct of this study, and to report findings and recommendations to President and Congress within six months after Nov. 10, 1978.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410ggg–2 of this title.
 

@@ -10,7 +10,7 @@ The Secretary of Agriculture (hereinafter called the “Secretary”) is authori
 
 &emsp;(4) To construct or operate, or to contract for the operation of, factories for the extraction of rubber from guayule, and from Chrysothamnus, commonly known as rabbit brush; to purchase guayule shrub; and to purchase, operate, and maintain equipment for the harvesting, storing, transporting, and complete processing of guayule, and Chrysothamnus, commonly known as rabbit brush, and to purchase land as sites for processing plants;
 
-&emsp;(5) To conduct studies, in which he may cooperate with any other public or private agency, designed to increase the yield of guayuleby breeding to by selection, and to improve planting methods; to make surveys of areas suitable for cultivating guayule; to make experimental plantings; and to conduct agronomic tests;
+&emsp;(5) To conduct studies, in which he may cooperate with any other public or private agency, designed to increase the yield of guayule by breeding to by selection, and to improve planting methods; to make surveys of areas suitable for cultivating guayule; to makeexperimental plantings; and to conduct agronomic tests;
 
 &emsp;(6) To conduct tests, in which he may cooperate with any other public or private agency, to determine the qualities of rubber obtained from guayule and to determine the most favorable methods of compounding and using guayule in rubber manufacturing processes;
 
@@ -35,8 +35,4 @@ Par. (8). Act Oct. 20, 1942, §4, substituted “not in excess of five hundred�
 #### Additional Acreage Authorized
 
 Act Oct. 26, 1942, ch. 629, title II, 56 Stat. 1002, provided that: “The Secretary of Agriculture, in connection with the appropriations herein and heretofore made for such project, is authorized to plant, or contract for the planting of, not to exceed twenty-five thousand acres of guayule in areas in the Western Hemisphere in addition to the acreage permitted under the provisions of paragraph (1), section 1 of the act of March 5, 1942 (Public Law 473) \[par. (1) of this section\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 172, 173, 175 of this title.
 

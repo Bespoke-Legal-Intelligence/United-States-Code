@@ -4,7 +4,3 @@ For the calendar year 1936 and for all succeeding years all taxes on real proper
 
 (May 26, 1936, ch. 450, §2, 49 Stat. 1372.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1401b, 1401e of this title.
-

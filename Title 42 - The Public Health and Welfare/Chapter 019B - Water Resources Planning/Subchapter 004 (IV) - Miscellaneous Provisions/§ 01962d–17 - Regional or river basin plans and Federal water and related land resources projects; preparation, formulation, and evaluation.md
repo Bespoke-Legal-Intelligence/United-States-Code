@@ -22,7 +22,3 @@ Section was enacted as part of the Water Resources Development Act of 1974, and 
 
 Pub. L. 95–28, title II, §204, May 13, 1977, 91 Stat. 121, provided that: “It is hereby reiterated that the interest rates or rates of discount to be used to assess the return on the Federal Government's investment in projects of the United States Army Corps of Engineers or the Department of the Interior Bureau of Reclamation, shall be those interest rates or rates of discount established by Public Law 93–251, the Water Resources Development Act of 1974 \[see Short Title of 1974 Amendment note set out under section 1962 of this title\] or by any prior law authorizing projects of the United States Army Corps of Engineers or the Department of the Interior Bureau of Reclamation.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9205 of this title; title 16 section 2704; title 30 sections 1513, 1531.
-

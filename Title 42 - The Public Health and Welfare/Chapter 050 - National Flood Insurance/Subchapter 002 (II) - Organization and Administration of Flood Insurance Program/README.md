@@ -1,11 +1,5 @@
 ### SUBCHAPTER II—ORGANIZATION AND ADMINISTRATION OF FLOOD INSURANCE PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 4011, 4018 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

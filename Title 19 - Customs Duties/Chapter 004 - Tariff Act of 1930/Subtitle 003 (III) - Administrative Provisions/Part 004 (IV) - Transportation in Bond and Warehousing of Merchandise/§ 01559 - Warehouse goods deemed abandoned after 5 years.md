@@ -1,6 +1,6 @@
 ### §1559. Warehouse goods deemed abandoned after 5 years
 
-Merchandise upon which any duties or charges are unpaid, remaining in bonded warehouse beyond 5 years from the date of importation, shall be regarded as abandoned to the Government and shall be sold under such regulations as the Secretary of the Treasury shall prescribe, and the proceeds of sale paid into the Treasury, as in the case of unclaimed merchandise covered by section 1493 of this title, subject to the payment to the owner or consignee of such amount, if any, as shall remain after deduction of duties, charges, and expenses. Merchandise upon which all duties and charges have been paid, remaining in bonded warehouse beyond 5 years from the date of importation, shall be held to be no longer in the custody or control of the officers of the customs.
+Merchandise upon which any duties or charges are unpaid, remaining in bonded warehouse beyond 5 years from the date of importation, shall be regarded as abandoned to the Government and shall be sold under such regulations as the Secretary of the Treasury shall prescribe, and the proceeds of sale paid into the Treasury, as in the case of unclaimed merchandise covered by section 1493 of this title, subject to the payment to the owner or consignee of such amount, if any, as shall remain after deduction of duties, charges, and expenses. Merchandise upon which all duties and charges have been paid, remainingin bonded warehouse beyond 5 years from the date of importation, shall be held to be no longer in the custody or control of the officers of the customs.
 
 (June 17, 1930, ch. 497, title IV, §559, 46 Stat. 744; June 25, 1938, ch. 679, §23(a), 52 Stat. 1088; Pub. L. 95–410, title I, §108(b)(1), Oct. 3, 1978, 92 Stat. 892.)
 
@@ -33,8 +33,4 @@ Proc. No. 2599, Nov. 6, 1943, 8 F.R. 15359, 57 Stat. 758, as amended by Proc. No
 #### Appropriations
 
 Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Refunding proceeds of unclaimed merchandise (Customs) (2x326)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1491 of this title.
 

@@ -1,6 +1,6 @@
 ### §8439. Accounting and information
 
-(a)(1) The Executive Director shall establish and maintain an account for each individual who makes contributions or for whom contributions are made under section 8432 of this title orwho makes contributions to the Thrift Savings Fund.
+(a)(1) The Executive Director shall establish and maintain an account for each individual who makes contributions or for whom contributions are made under section 8432 of this title or who makes contributions to the Thrift Savings Fund.
 
 (2) The balance in an individual's account at any time is the excess of—
 
@@ -30,13 +30,15 @@
 
 &emsp;(B) a summary description of the investment options under section 8438 of this title covering, and an evaluation of, each such option the 5-year period preceding the date as of which such evaluation is made.
 
-(2) Information under this subsection shall be provided at least 30 calendar days before the beginning of each election period under section 8432(b)(1)(A) of this title, and in a manner designed to facilitate informed decisionmaking with respect to elections under sections 8432 and 8438 of this title. Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.
+(2) Information under this subsection shall be provided on a regular basis, and in a manner designed to facilitate informed decisionmaking with respect to elections under sections 8432 and 8438 of this title. Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.
 
-(d) Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10), respectively, of section 8438(a) of this title shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in either such Fund is made at the employee's, Member's, former employee's, or former Member's risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
+(d) Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10), respectively, of section 8438(a) of this title shallsign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in either such Fund is made at the employee's, Member's, former employee's, or former Member's risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §103\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, §661(a)(5), Oct. 5, 1999, 113 Stat. 672; Pub. L. 106–361, §2(b)(4), (5), Oct. 27, 2000, 114 Stat. 1401.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §103\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, §661(a)(5), Oct. 5, 1999, 113 Stat. 672; Pub. L. 106–361, §2(b)(4), (5), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 108–469, §1(d)(3), Dec. 21, 2004, 118 Stat. 3892.)
 
 #### Amendments
+
+2004—Subsec. (c)(2). Pub. L. 108–469 substituted “on a regular basis” for “at least 30 calendar days before the beginning of each election period under section 8432(b)(1)(A) of this title”.
 
 2000—Subsec. (a)(1). Pub. L. 106–361, §2(b)(4), inserted “who makes contributions or” after “for each individual” and substituted “section 8432” for “section 8432(c)(1)”.
 
@@ -65,8 +67,4 @@ Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless pos
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective Sept. 30, 1996, with provisions for certain funds to be offered for investment at earliest practicable election period, see section 101(f) \[title VI, §659 \[title I, §104\]\] of Pub. L. 104–208, set out as a note under section 8438 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8401, 8461, 8471 of this title; title 31 section 9503.
 

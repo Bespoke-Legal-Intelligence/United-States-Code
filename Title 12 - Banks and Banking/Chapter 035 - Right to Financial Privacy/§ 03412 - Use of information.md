@@ -76,10 +76,6 @@ Amendment by Pub. L. 107–56 applicable with respect to reports filed or record
 
 Amendment by section 1606(b) of Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3409, 3413, 3420 of this title; title 15 section 78u.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>

@@ -4,7 +4,3 @@ After notice and opportunity for hearing as provided in section 2103 of this tit
 
 (Pub. L. 89–502, §5, July 13, 1966, 80 Stat. 280.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2107 of this title.
-

@@ -58,7 +58,7 @@
 
 &emsp;(B) the reasons such comments were rejected.
 
-(3) If the Director has received notice and failed to comment on an agency rule within 60 days after the notice of proposed rulemaking, the Director may not disapprove any collection of information specifically contained in an agency rule.
+(3) If the Director has received notice and failed to comment on an agency rule within 60days after the notice of proposed rulemaking, the Director may not disapprove any collection of information specifically contained in an agency rule.
 
 (4) No provision in this section shall be construed to prevent the Director, in the Director's discretion—
 
@@ -94,7 +94,7 @@
 
 &emsp;(B) an exercise of authority under subsection (d) of section 3507 concerning that agency.
 
-(2) The agency shall certify each vote to void such disapproval or exercise to the Director, and explain the reasons for such vote. The Directorshall without further delay assign a control number to such collection of information, and such vote to void the disapproval or exercise shall be valid for a period of 3 years.
+(2) The agency shall certify each vote to void such disapproval or exercise to the Director, and explain the reasons for such vote. The Director shall without further delay assign a control number to such collection of information, and such vote to void the disapproval or exercise shall be valid for a period of 3 years.
 
 (g) The Director may not approve a collection of information for a period in excess of 3 years.
 
@@ -155,8 +155,4 @@ Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see sectio
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3506, 3509 of this title; title 42 sections 242k, 14953.
 

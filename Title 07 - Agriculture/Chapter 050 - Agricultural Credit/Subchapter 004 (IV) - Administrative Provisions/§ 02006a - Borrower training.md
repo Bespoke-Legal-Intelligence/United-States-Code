@@ -58,7 +58,3 @@ Subsec. (f). Pub. L. 107–171, §5316, added subsec. (f) and struck out heading
 
 Subsec. (c). Pub. L. 105–277, §101(a) \[title VIII, §805(3)(B)\], struck out “or guaranteed” after “direct” in pars. (1) and (2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1941, 1942, 1949, 1981, 2006b of this title.
-

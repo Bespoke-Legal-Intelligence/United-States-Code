@@ -88,7 +88,7 @@
 
 #### (C) Special rule
 
-&emsp;&emsp;The process established under subparagraph (A) shall include, in the case of a part D eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) who has failed to enroll in a prescription drug plan or an MA–PD plan, for the enrollment in a prescription drug plan that has a monthly beneficiary premium that does not exceed the premium assistance available under section 1395w–114(a)(1)(A) of this title).<sup>1</sup> If there is more than one such plan available, the Secretary shall enroll such an individual on a random basis among all such plans in the PDP region. Nothing in the previous sentence shall prevent such an individual from declining or changing such enrollment.
+&emsp;&emsp;The process established under subparagraph (A) shall include, in the case of a part D eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) who has failed toenroll in a prescription drug plan or an MA–PD plan, for the enrollment in a prescription drug plan that has a monthly beneficiary premium that does not exceed the premium assistance available under section 1395w–114(a)(1)(A) of this title).<sup>1</sup> If there is more than one such plan available, the Secretary shall enroll such an individual on a random basis among all such plans in the PDP region. Nothing in the previous sentence shall prevent such an individual from declining or changing such enrollment.
 
 #### (2) Initial enrollment period
 
@@ -319,10 +319,6 @@ Report.—Not later than 18 months after the date of the enactment of this Act \
 “(c)
 
 Exemption From Paperwork Reduction Act.—Chapter 35 of title 44, United States Code, shall not apply to the collection of information under subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395w–21, 1395w–27, 1395w–102, 1395w–104, 1395w–112, 1395w–113, 1395w–141, 1395w–151, 1395ss, 1396u–5 of this title.
 
 <i><sup>1</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
 

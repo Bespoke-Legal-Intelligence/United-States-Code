@@ -292,10 +292,6 @@ The Computer Fraud and Abuse Act of 1986, referred to in subsecs. (g)(2)(D) and 
 
 1999—Subsec. (a)(1)(C). Pub. L. 106–113 struck out “on the record” after “determination in a rulemaking proceeding” in first sentence.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 112, 114, 1203, 1204 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(a)(2),”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “subsection”.</i>

@@ -12,7 +12,7 @@ Section was formerly classified to section 230 of Title 31 prior to the general 
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “contingent fund of the Senate, in the case of a committee of the Senate,or the applicable accounts of the House of Representatives, in the case of a committee of the House of Representatives.” for “contingent fund of the branch of Congress appointing such committee.”
+1996—Pub. L. 104–186 substituted “contingent fund of the Senate, in the case of a committee of the Senate, or the applicable accounts of the House of Representatives, in the case of a committee of the House of Representatives.” for “contingent fund of the branch of Congress appointing such committee.”
 
 #### Change of Name
 

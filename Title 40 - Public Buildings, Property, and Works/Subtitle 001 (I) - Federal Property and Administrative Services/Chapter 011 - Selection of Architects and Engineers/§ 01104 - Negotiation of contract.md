@@ -26,7 +26,3 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title IX, §904, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1279.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 41 section 253m.
-

@@ -1,6 +1,6 @@
 ### §4721. Declaration of purpose
 
-The purpose of this subchapter is to assist State and local governments to strengthen theirstaffs by improving their personnel administration.
+The purpose of this subchapter is to assist State and local governments to strengthen their staffs by improving their personnel administration.
 
 (Pub. L. 91–648, title II, §201, Jan. 5, 1971, 84 Stat. 1911.)
 

@@ -22,3 +22,7 @@ Subsection (a) of this section shall not be construed to prohibit the voluntary 
 
 Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 1997, and not as part of the National Security Act of 1947 which comprises this chapter.
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
+

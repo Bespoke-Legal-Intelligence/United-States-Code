@@ -30,7 +30,7 @@ Allocation of funds.—Of the aggregate of amounts made available by and appropr
 
 &emsp;(2)
 
-Fiscal years 1999 through 2003 and for the period of october 1, 2003, through february 29, 2004.—
+Fiscal years 1999 through 2004 and for the period of october 1, 2004, through may 31, 2005.—
 
 &emsp;&emsp;(A)
 
@@ -44,9 +44,11 @@ From the trust fund.—There shall be available from the Mass Transit Account of
 
 &emsp;&emsp;&emsp;(iv) $2,873,600,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $3,071,200,000 for fiscal year 2003; and
+&emsp;&emsp;&emsp;(v) $3,071,200,000 for fiscal year 2003;
 
-&emsp;&emsp;&emsp;(vi) $1,292,948,344 for the period of October 1, 2003, through February 29, 2004.
+&emsp;&emsp;&emsp;(vi) $3,071,200,000 for fiscal year 2004; and
+
+&emsp;&emsp;&emsp;(vii) $2,201,760,000 for the period of October 1, 2004, through May 31, 2005.
 
 &emsp;&emsp;(B)
 
@@ -60,13 +62,15 @@ From the general fund.—In addition to amounts made available under subparagrap
 
 &emsp;&emsp;&emsp;(iv) $718,400,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $767,800,000 for fiscal year 2003; and
+&emsp;&emsp;&emsp;(v) $767,800,000 for fiscal year 2003;
 
-&emsp;&emsp;&emsp;(vi) $323,459,169 for the period of October 1, 2003, through February 29, 2004.
+&emsp;&emsp;&emsp;(vi) $767,800,000 for fiscal year 2004; and
+
+&emsp;&emsp;&emsp;(vii) $550,440,000 for the period of October 1, 2004, through May 31, 2005.
 
 &emsp;&emsp;(C)
 
-Allocation of funds.—Of the aggregate of amounts made available by and appropriated under this paragraph for a fiscal year (other than for the period of October 1, 2003, through February 29, 2004)—
+Allocation of funds.—Of the aggregate of amounts made available by and appropriated under this paragraph for each of fiscal years 1999 through 2005 (other than for the period of October 1, 2004, through May 31, 2005)—
 
 &emsp;&emsp;&emsp;(i) $4,849,950 shall be available to the Alaska Railroad for improvements to its passenger operations under section 5307;
 
@@ -90,7 +94,7 @@ Fiscal year 1998.—There shall be available from the Mass Transit Account of th
 
 &emsp;(2)
 
-Fiscal years 1999 through 2003 and for the period of october 1, 2003, through february 29, 2004.—
+Fiscal years 1999 through 2004 and for the period of october 1, 2004, through may 31, 2005.—
 
 &emsp;&emsp;(A)
 
@@ -104,9 +108,11 @@ From the trust fund.—There shall be available from the Mass Transit Account of
 
 &emsp;&emsp;&emsp;(iv) $2,272,800,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $2,428,800,000 for fiscal year 2003; and
+&emsp;&emsp;&emsp;(v) $2,428,800,000 for fiscal year 2003;
 
-&emsp;&emsp;&emsp;(vi) $1,022,503,342 for the period of October 1, 2003, through February 29, 2004.
+&emsp;&emsp;&emsp;(vi) $2,510,000,000 for fiscal year 2004; and
+
+&emsp;&emsp;&emsp;(vii) $1,740,960,000 for the period of October 1, 2004, through May 31, 2005.
 
 &emsp;&emsp;(B)
 
@@ -120,9 +126,11 @@ From the general fund.—In addition to amounts made available under subparagrap
 
 &emsp;&emsp;&emsp;(iv) $568,200,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $607,200,000 for fiscal year 2003; and
+&emsp;&emsp;&emsp;(v) $607,200,000 for fiscal year 2003;
 
-&emsp;&emsp;&emsp;(vi) $255,801,669 for the period of October 1, 2003, through February 29, 2004.
+&emsp;&emsp;&emsp;(vi) $627,500,000 for fiscal year 2004; and
+
+&emsp;&emsp;&emsp;(vii) $435,240,000 for the period of October 1, 2004, through May 31, 2005.
 
 (c)
 
@@ -134,7 +142,7 @@ Fiscal year 1998.—There are authorized to be appropriated to carry out section
 
 &emsp;(2)
 
-Fiscal years 1999 through 2003 and for the period of october 1, 2003, through february 29, 2004.—
+Fiscal years 1999 through 2004 and for the period of october 1, 2004, through may 31, 2005.—
 
 &emsp;&emsp;(A)
 
@@ -148,9 +156,11 @@ From the trust fund.—There shall be available from the Mass Transit Account of
 
 &emsp;&emsp;&emsp;(iv) $53,800,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $58,600,000 for fiscal year 2003; and
+&emsp;&emsp;&emsp;(v) $58,600,000 for fiscal year 2003;
 
-&emsp;&emsp;&emsp;(vi) $24,636,667 for the period of October 1, 2003, through February 29, 2004.
+&emsp;&emsp;&emsp;(vi) $58,600,000 for fiscal year 2004; and
+
+&emsp;&emsp;&emsp;(vii) $41,813,334 for the period of October 1, 2004, through May 31, 2005.
 
 &emsp;&emsp;(B)
 
@@ -164,9 +174,11 @@ From the general fund.—In addition to amounts made available under subparagrap
 
 &emsp;&emsp;&emsp;(iv) $13,200,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $14,400,000 for fiscal year 2003; and
+&emsp;&emsp;&emsp;(v) $14,400,000 for fiscal year 2003;
 
-&emsp;&emsp;&emsp;(vi) $6,100,000 for the period of October 1, 2003, through February 29, 2004.
+&emsp;&emsp;&emsp;(vi) $14,400,000 for fiscal year 2004; and
+
+&emsp;&emsp;&emsp;(vii) $10,453,333 for the period of October 1, 2004, through May 31, 2005.
 
 &emsp;&emsp;(C)
 
@@ -186,7 +198,7 @@ Fiscal year 1998.—There are authorized to be appropriated to carry out section
 
 &emsp;(2)
 
-Fiscal years 1999 through 2003 and for the period of october 1, 2003, through february 29, 2004.—
+Fiscal years 1999 through 2004 and for the period of october 1, 2004, through may 31, 2005.—
 
 &emsp;&emsp;(A)
 
@@ -200,9 +212,11 @@ From the trust fund.—There shall be available from the Mass Transit Account of
 
 &emsp;&emsp;&emsp;(iv) $39,200,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $39,200,000 for fiscal year 2003; and
+&emsp;&emsp;&emsp;(v) $39,200,000 for fiscal year 2003;
 
-&emsp;&emsp;&emsp;(vi) $16,536,667 for the period of October 1, 2003, through February 29, 2004.
+&emsp;&emsp;&emsp;(vi) $42,200,000 for fiscal year 2004; and
+
+&emsp;&emsp;&emsp;(vii) $28,266,667 for the period of October 1, 2004, through May 31, 2005.
 
 &emsp;&emsp;(B)
 
@@ -216,13 +230,15 @@ From the general fund.—In addition to amounts made available under subparagrap
 
 &emsp;&emsp;&emsp;(iv) $9,800,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $9,800,000 for fiscal year 2003; and
+&emsp;&emsp;&emsp;(v) $9,800,000 for fiscal year 2003;
 
-&emsp;&emsp;&emsp;(vi) $4,095,000 for the period of October 1, 2003, through February 29, 2004.
+&emsp;&emsp;&emsp;(vi) $10,800,000 for fiscal year 2004; and
+
+&emsp;&emsp;&emsp;(vii) $7,066,667 for the period of October 1, 2004, through May 31, 2005.
 
 &emsp;&emsp;(C)
 
-Allocation of funds.—Of the funds made available by or appropriated under this paragraph for a fiscal year (other than for the period of October 1, 2003, through February 29, 2004)—
+Allocation of funds.—Of the funds made available by or appropriated under this paragraph for a fiscal year (other than for the period of October 1, 2004, through May 31, 2005)—
 
 &emsp;&emsp;&emsp;(i) not less than $5,250,000 shall be available for providing rural transportation assistance under section 5311(b)(2);
 
@@ -242,21 +258,21 @@ Fiscal year 1998.—Subject to paragraph (2)(C), there are authorized to be appr
 
 &emsp;(2)
 
-Fiscal years 1999 through 2003 and for the period of october 1, 2003, through february 29, 2004.—
+Fiscal years 1999 through 2004 and for the period of october 1, 2004, through may 31, 2005.—
 
 &emsp;&emsp;(A)
 
-From the trust fund.—Subject to subparagraph (C), there shall be available from the Mass Transit Account of the Highway Trust Fund to carry out section 5505, $4,800,000 for each of fiscal years 1999 through 2003 and $2,020,833 for the period of October 1, 2003, through February 29, 2004.
+From the trust fund.—Subject to subparagraph (C), there shall be available from the Mass Transit Account of the Highway Trust Fund to carry out section 5505, $4,800,000 for each of fiscal years 1999 through 2004 and $3,200,000 for the period of October 1, 2004, through May 31, 2005.
 
 &emsp;&emsp;(B)
 
-From the general fund.—Subject to subparagraph (C), in addition to amounts made available under subparagraph (A), there are authorized to be appropriated to carry out section 5505, $1,200,000 for each of fiscal years 1999 through 2003 and $505,833 for the period of October 1, 2003, through February 29, 2004.
+From the general fund.—Subject to subparagraph (C), in addition to amounts made available under subparagraph (A), there are authorized to be appropriated to carry out section 5505, $1,200,000 for each of fiscal years 1999 through 2004 and $800,000 for the period of October 1, 2004, through May 31, 2005.
 
 &emsp;&emsp;(C)
 
 Funding of centers.—
 
-&emsp;&emsp;&emsp;(i) Of the amounts made available under subparagraph (A) and paragraph (1) for each fiscal year (other than for the period of October 1, 2003, through February 29, 2004)—
+&emsp;&emsp;&emsp;(i) Of the amounts made available under subparagraph (A) and paragraph (1) for each fiscal year (other than for the period of October 1, 2004, through May 31, 2005)—
 
 &emsp;&emsp;&emsp;&emsp;(I) $2,000,000 shall be available for the center identified in section 5505(j)(4)(A); and
 
@@ -264,11 +280,11 @@ Funding of centers.—
 
 &emsp;&emsp;&emsp;(ii) For each of fiscal years 1998 through 2001, of the amounts made available under this paragraph and paragraph (1)—
 
-&emsp;&emsp;&emsp;&emsp;(I) $400,000 shall be available from amounts made available under subparagraph (A) of this paragraph and underparagraph (1) for each of the centers identified in subparagraphs (E) and (F) of section 5505(j)(3); and
+&emsp;&emsp;&emsp;&emsp;(I) $400,000 shall be available from amounts made available under subparagraph (A) of this paragraph and under paragraph (1) for each of the centers identified in subparagraphs (E) and (F) of section 5505(j)(3); and
 
 &emsp;&emsp;&emsp;&emsp;(II) $350,000 shall be available from amounts made available under subparagraph (B) of this paragraph and under paragraph (1) for each of the centers identified in subparagraphs (E) and (F) of section 5505(j)(3).
 
-&emsp;&emsp;&emsp;(iii) Any amounts made available under this paragraph or paragraph (1) for any fiscal year (other than for the period of October 1, 2003, through February 29, 2004) that remain after distribution under clauses (i) and (ii), shall be available for the purposes identified in section 3015(d) of the Federal Transit Act of 1998.
+&emsp;&emsp;&emsp;(iii) Any amounts made available under this paragraph or paragraph (1) for any fiscal year (other than for the period of October 1, 2004, through May 31, 2005) that remain after distribution under clauses (i) and (ii), shall be available for the purposes identified in section 3015(d) of the Federal Transit Act of 1998.
 
 &emsp;(3)
 
@@ -284,7 +300,7 @@ Fiscal year 1998.—There are authorized to be appropriated to carry out section
 
 &emsp;(2)
 
-Fiscal years 1999 through 2003 and for the period of october 1, 2003, through february 29, 2004.—
+Fiscal years 1999 through 2004 and for the period of october 1, 2004, through may 31, 2005.—
 
 &emsp;&emsp;(A)
 
@@ -298,9 +314,11 @@ From the trust fund.—There shall be available from the Mass Transit Account of
 
 &emsp;&emsp;&emsp;(iv) $53,600,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $58,400,000 for fiscal year 2003; and
+&emsp;&emsp;&emsp;(v) $58,400,000 for fiscal year 2003;
 
-&emsp;&emsp;&emsp;(vi) $24,585,834 for the period of October 1, 2003, through February 29, 2004.
+&emsp;&emsp;&emsp;(vi) $60,400,000 for fiscal year 2004; and
+
+&emsp;&emsp;&emsp;(vii) $41,600,000 for the period of October 1, 2004, through May 31, 2005.
 
 &emsp;&emsp;(B)
 
@@ -314,9 +332,11 @@ From the general fund.—In addition to amounts made available under subparagrap
 
 &emsp;&emsp;&emsp;(iv) $13,400,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $14,600,000 for fiscal year 2003; and
+&emsp;&emsp;&emsp;(v) $14,600,000 for fiscal year 2003;
 
-&emsp;&emsp;&emsp;(vi) $6,150,833 for the period of October 1, 2003, through February 29, 2004.
+&emsp;&emsp;&emsp;(vi) $15,100,000 for fiscal year 2004; and
+
+&emsp;&emsp;&emsp;(vii) $10,400,000 for the period of October 1, 2004, through May 31, 2005.
 
 (g)
 
@@ -394,7 +414,7 @@ Additional Amounts.—In addition to amounts made available by or appropriated u
 
 Availability of Amounts.—Amounts made available by or appropriated under subsections (a) through (e), and paragraphs (1) through (7) of subsection (h), shall remain available until expended.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(c), (e)–(g), (i), (k), Sept. 30, 2003, 117 Stat. 1121–1124.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat.3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(c), (e)–(g), (i), (k), Sept. 30, 2003, 117 Stat. 1121–1124; Pub. L. 108–202, §9(c), (e)–(g), (i), (k), Feb. 29, 2004, 118 Stat. 485–487; Pub. L. 108–224, §7(c), (e)–(g), (i), (k), Apr. 30, 2004, 118 Stat. 633–636; Pub. L. 108–263, §7(c), (e)–(g), (i), (k), June 30, 2004, 118 Stat. 704–707; Pub. L. 108–280, §7(c), (e)–(g), (i), (k), July 30, 2004, 118 Stat. 882–884; Pub. L. 108–310, §8(c), (e)–(g), (i), (k), Sept. 30, 2004, 118 Stat. 1154–1157.)
 
 Historical and Revision Notes
 
@@ -536,7 +556,345 @@ This amends 49:5338(g)(2) to correct an erroneous cross-reference.
 
 Section 3015(d) of the Federal Transit Act of 1998, referred to in subsec. (e)(2)(C)(iii), is section 3015(d) of Pub. L. 105–178, which is set out as a note below.
 
+#### Codification
+
+Section 8(f) of Pub. L. 108–310, which directed the amendment of section 5338(c) without specifying the Code title to be amended, was executed to subsec. (c) of this section, to reflect the probable intent of Congress. See 2004 Amendment notes below.
+
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–310, §8(c)(1), inserted “
+
+and for the period of october 1, 2004, through may 31, 2005” after “
+
+through 2004” in heading.
+
+Pub. L. 108–280, §7(c)(1), struck out “
+
+2003 and for the period of october 1, 2003, through july 31,” before “
+
+2004” in heading.
+
+Pub. L. 108–263, §7(c)(1), substituted “
+
+july 31, 2004” for “
+
+june 30, 2004” in heading.
+
+Pub. L. 108–224, §7(c)(1), substituted “
+
+june 30, 2004” for “
+
+april 30, 2004” in heading.
+
+Pub. L. 108–202, §9(c)(1), substituted “
+
+april 30, 2004” for “
+
+february 29, 2004” in heading.
+
+Subsec. (a)(2)(A)(vi). Pub. L. 108–280, §7(c)(2), added cl. (vi) and struck out former cl. (vi) which read:“$2,544,233,267 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, §7(c)(2), substituted “$2,544,233,267” for “$2,289,809,940” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, §7(c)(2), substituted “$2,289,809,940” for “$1,780,963,287” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, §9(c)(2), substituted “$1,780,963,287” for “$1,292,948,344” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (a)(2)(A)(vii). Pub. L. 108–310, §8(c)(2)–(4), added cl. (vii).
+
+Subsec. (a)(2)(B)(vi). Pub. L. 108–280, §7(c)(3), added cl. (vi) and struck out former cl. (vi) which read: “$636,058,317 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, §7(c)(3), substituted “$636,058,317” for “$572,452,485” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, §7(c)(3), substituted “$572,452,485” for “$445,240,822” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, §9(c)(3), substituted “$445,240,822” for “$323,459,169” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (a)(2)(B)(vii). Pub. L. 108–310, §8(c)(2), (3), (5), added cl. (vii).
+
+Subsec. (a)(2)(C). Pub. L. 108–310, §8(c)(6), substituted “2005 (other than for the period of October 1, 2004, through May 31, 2005)” for “2003” in introductory provisions.
+
+Pub. L. 108–280, §7(c)(4), substituted “each of fiscal years 1999 through 2003” for “a fiscal year (other than for the period of October 1, 2003, through July 31, 2004)” in introductory provisions.
+
+Pub. L. 108–263, §7(c)(4), substituted “July 31, 2004” for “June 30, 2004” in introductory provisions.
+
+Pub. L. 108–224, §7(c)(4), substituted “June 30, 2004” for “April 30, 2004” in introductory provisions.
+
+Pub. L. 108–202, §9(c)(4), substituted “April 30, 2004” for “February 29, 2004” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 108–310, §8(e)(1), inserted “
+
+and for the period of october 1, 2004, through may 31, 2005” after “
+
+through 2004” in heading.
+
+Pub. L. 108–280, §7(e)(1), struck out “
+
+2003 and for the period of october 1, 2003, through july 31,” before “
+
+2004” in heading.
+
+Pub. L. 108–263, §7(e)(1), substituted “
+
+july 31, 2004” for “
+
+june 30, 2004” in heading.
+
+Pub. L. 108–224, §7(e)(1), substituted “
+
+june 30, 2004” for “
+
+april 30, 2004” in heading.
+
+Pub. L. 108–202, §9(e)(1), substituted “
+
+april 30, 2004” for “
+
+february 29, 2004” in heading.
+
+Subsec. (b)(2)(A)(vi). Pub. L. 108–280, §7(e)(2), added cl. (vi) and struck out former cl. (vi) which read: “$2,079,325,834 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, §7(e)(2), substituted “$2,079,325,834” for “$1,871,393,250” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, §7(e)(2), substituted “$1,871,393,250” for “$1,819,410,104” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, §9(e)(2), substituted “$1,819,410,104” for “$1,022,503,342” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (b)(2)(A)(vii). Pub. L. 108–310, §8(e)(2)–(4), added cl. (vii).
+
+Subsec. (b)(2)(B)(vi). Pub. L. 108–280, §7(e)(3), added cl. (vi) and struck out former cl. (vi) which read: “$519,831,458 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, §7(e)(3), substituted “$519,831,458” for “$467,848,313” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, §7(e)(3), substituted “$467,848,313” for “$363,882,021” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, §9(e)(3), substituted “$363,882,021” for “$255,801,669” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (b)(2)(B)(vii). Pub. L. 108–310, §8(e)(2), (3), (5), added cl. (vii).
+
+Subsec. (c)(2). Pub. L. 108–310, §8(f)(1), inserted “
+
+and for the period of october 1, 2004, through may 31, 2005” after “
+
+through 2004” in heading. See Codification note above.
+
+Pub. L. 108–280, §7(f)(1), struck out “
+
+2003 and for the period of october 1, 2003, through july 31,” before “
+
+2004” in heading.
+
+Pub. L. 108–263, §7(f)(1), substituted “
+
+july 31, 2004” for “
+
+june 30, 2004” in heading.
+
+Pub. L. 108–224, §7(f)(1), substituted “
+
+june 30, 2004” for “
+
+april 30, 2004” in heading.
+
+Pub. L. 108–202, §9(f)(1), substituted “
+
+april 30, 2004” for “
+
+february 29, 2004” in heading.
+
+Subsec. (c)(2)(A)(vi). Pub. L. 108–280, §7(f)(2), added cl. (vi) and struck out former cl. (vi) which read: “$48,545,217 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, §7(f)(2), substituted “$48,545,217” for “$43,690,695” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, §7(f)(2), substituted “$43,690,695” for “$33,981,652” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, §9(f)(2), substituted “$33,981,652” for “$24,636,667” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (c)(2)(A)(vii). Pub. L. 108–310, §8(f)(2)–(4), added cl. (vii). See Codification note above.
+
+Subsec. (c)(2)(B)(vi). Pub. L. 108–280, §7(f)(3), added cl. (vi) and struck out former cl. (vi) which read: “$11,929,200 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, §7(f)(3), substituted “$11,929,200” for “$10,736,280” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, §7(f)(3), substituted “$10,736,280” for “$8,350,440” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, §9(f)(3), substituted “$8,350,440” for “$6,100,000” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (c)(2)(B)(vii). Pub. L. 108–310, §8(f)(2), (3), (5), added cl. (vii). See Codification note above.
+
+Subsec. (c)(2)(C). Pub. L. 108–310, §8(f)(6), inserted “or any portion of a fiscal year” after “for a fiscal year” in introductory provisions. See Codification note above.
+
+Pub. L. 108–280, §7(f)(4), struck out “or any portion of a fiscal year” after “for a fiscal year” in introductory provisions.
+
+Subsec. (d)(2). Pub. L. 108–310, §8(g)(1), inserted “
+
+and for the period of october 1, 2004, through may 31, 2005” after “
+
+through 2004” in heading.
+
+Pub. L. 108–280, §7(g)(1), struck out “
+
+2003 and for the period of october 1, 2003, through july 31,” before “
+
+2004” in heading.
+
+Pub. L. 108–263, §7(g)(1), substituted “
+
+july 31, 2004” for “
+
+june 30, 2004” in heading.
+
+Pub. L. 108–224, §7(g)(1), substituted “
+
+june 30, 2004” for “
+
+april 30, 2004” in heading.
+
+Pub. L. 108–202, §9(g)(1), substituted “
+
+april 30, 2004” for “
+
+february 29, 2004” in heading.
+
+Subsec. (d)(2)(A)(vi). Pub. L. 108–280, §7(g)(2), added cl. (vi) and struck out former cl. (vi) which read: “$34,959,183 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, §7(g)(2), substituted “$34,959,183” for “$31,463,265” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, §7(g)(2), substituted “$31,463,265” for “$24,471,428” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, §9(g)(2), substituted “$24,471,428” for “$16,536,667” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (d)(2)(A)(vii). Pub. L. 108–310, §8(g)(2)–(4), added cl. (vii).
+
+Subsec. (d)(2)(B)(vi). Pub. L. 108–280, §7(g)(3), added cl. (vi) and struck out former cl. (vi) which read: “$8,946,900 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, §7(g)(3), substituted “$8,946,900” for “$8,052,210” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, §7(g)(3), substituted “$8,052,210” for “$6,262,830” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, §9(g)(3), substituted “$6,262,830” for “$4,095,000” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (d)(2)(B)(vii). Pub. L. 108–310, §8(g)(2), (3), (5), added cl. (vii).
+
+Subsec. (d)(2)(C). Pub. L. 108–310, §8(g)(6), inserted “(other than for the period of October 1, 2004, through May 31, 2005)” after “a fiscal year” in introductory provisions.
+
+Pub. L. 108–280, §7(g)(4), struck out “(other than for the period of October 1, 2003, through July 31, 2004)” after “a fiscal year”.
+
+Pub. L. 108–263, §7(g)(4), substituted “July 31, 2004” for “June 30, 2004” in introductory provisions.
+
+Pub. L. 108–224, §7(g)(4), substituted “June 30, 2004” for “April 30, 2004” in introductory provisions.
+
+Pub. L. 108–202, §9(g)(4), substituted “April 30, 2004” for “February 29, 2004” in introductory provisions.
+
+Subsec. (e)(2). Pub. L. 108–310, §8(i)(1), inserted “
+
+and for the period of october 1, 2004, through may 31, 2005” after “
+
+2004” in heading.
+
+Pub. L. 108–280, §7(i)(1), struck out “
+
+2003 and for the period of october 1, 2003, through july 31,” before “
+
+2004” in heading.
+
+Pub. L. 108–263, §7(i)(1), substituted “
+
+july 31, 2004” for “
+
+june 30, 2004” in heading.
+
+Pub. L. 108–224, §7(i)(1), substituted “
+
+june 30, 2004” for “
+
+april 30, 2004” in heading.
+
+Pub. L. 108–202, §9(i)(1), substituted “
+
+april 30, 2004” for “
+
+february 29, 2004” in heading.
+
+Subsec. (e)(2)(A). Pub. L. 108–310, §8(i)(2), inserted “and $3,200,000 for the period of October 1, 2004, through May 31, 2005” after “2004”.
+
+Pub. L. 108–280, §7(i)(2), struck out “2003 and $3,976,400 for the period of October 1, 2003, through July 31,” before “2004”.
+
+Pub. L. 108–263, §7(i)(2), substituted “$3,976,400” for “$3,578,760” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, §7(i)(2), substituted “$3,578,760” for “$2,783,480” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, §9(i)(2), substituted “$2,783,480” for “$2,020,833” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (e)(2)(B). Pub. L. 108–310, §8(i)(3), inserted “and $800,000 for the period of October 1, 2004, through May 31, 2005” after “2004”.
+
+Pub. L. 108–280, §7(i)(3), struck out “2003 and $994,100 for the period of October 1, 2003, through July 31,” before “2004”.
+
+Pub. L. 108–263, §7(i)(3), substituted “$994,100” for “$894,690” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, §7(i)(3), substituted “$894,690” for “$695,870” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, §9(i)(3), substituted “$695,870” for “$505,833” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (e)(2)(C)(i), (iii). Pub. L. 108–310, §8(i)(4), inserted “(other than for the period of October 1, 2004, through May 31, 2005)” after “fiscal year”.
+
+Pub. L. 108–280, §7(i)(4), struck out “(other than for the period of October 1, 2003, through July 31, 2004)” after “fiscal year”.
+
+Pub. L. 108–263, §7(i)(4), substituted “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, §7(i)(4), substituted “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, §9(i)(4), substituted “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (f)(2). Pub. L. 108–310, §8(k)(1), inserted “
+
+and for the period of october 1, 2004, through may 31, 2005” after “
+
+2004” in heading.
+
+Pub. L. 108–280, §7(k)(1), struck out “
+
+2003 and for the period of october 1, 2003, through july 31,” before “
+
+2004” in heading.
+
+Pub. L. 108–263, §7(k)(1), substituted “
+
+july 31, 2004” for “
+
+june 30, 2004” in heading.
+
+Pub. L. 108–224, §7(k)(1), substituted “
+
+june 30, 2004” for “
+
+april 30, 2004” in heading.
+
+Pub. L. 108–202, §9(k)(1), substituted “
+
+april 30, 2004” for “
+
+february 29, 2004” in heading.
+
+Subsec. (f)(2)(A)(vi). Pub. L. 108–280, §7(k)(2), added cl. (vi) and struck out former cl. (vi) which read: “$50,036,366 for the period of October, 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, §7(k)(2), substituted “$50,036,366” for “$45,032,730” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, §7(k)(2), substituted “$45,032,730” for “$35,025,457” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, §9(k)(2), substituted “$35,025,457” for “$24,585,834” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (f)(2)(A)(vii). Pub. L. 108–310, §8(k)(2)–(4), added cl. (vii).
+
+Subsec. (f)(2)(B)(vi). Pub. L. 108–280, §7(k)(3), added cl. (vi) and struck out former cl. (vi) which read: “$12,509,093 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, §7(k)(3), substituted “$12,509,093” for “$11,258,183” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, §7(k)(3), substituted “$11,258,183” for “$8,756,364” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, §9(k)(3), substituted “$8,756,364” for “$6,150,833” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (f)(2)(B)(vii). Pub. L. 108–310, §8(k)(2), (3), (5), added cl. (vii).
 
 2003—Subsec. (a)(2). Pub. L. 108–88, §8(c)(1), inserted “
 
@@ -666,7 +1024,7 @@ Pub. L. 105–178, title III, §3041, June 9, 1998, 112 Stat. 394, provided that
 
 #### Training and Curriculum Development
 
-Pub. L. 105–178, title III, §3015(d), as added by Pub. L. 105–206, title IX, §9009(k)(2), July 22, 1998, 112 Stat. 857, and amended by Pub. L. 108–88, §8(j)(3), Sept. 30, 2003, 117 Stat. 1124, provided that:
+Pub. L. 105–178, title III, §3015(d), as added by Pub. L. 105–206, title IX, §9009(k)(2), July 22, 1998, 112 Stat. 857, and amended by Pub. L. 108–88, §8(j)(3), Sept. 30, 2003, 117 Stat. 1124; Pub. L. 108–202, §9(j)(2), Feb. 29, 2004, 118 Stat. 487; Pub. L. 108–224, §7(j)(2), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(j)(2), June 30, 2004, 118 Stat. 707; Pub. L. 108–280, §7(j)(2), July 30, 2004, 118 Stat. 884; Pub. L. 108–310, §8(j)(3), Sept. 30, 2004, 118 Stat. 1157, provided that:
 
 “(1)
 
@@ -674,13 +1032,17 @@ In general.—Any funds made available by section 5338(e)(2)(C)(iii) of title 49
 
 “(2)
 
-Special rule.—If the institutions identified in paragraph (1) are selected pursuant to \[section\] 5505(i)(3)(B) of such title in fiscal year 2002 or 2003 and in the period October 31, 2003, through February 29, 2004, the funds made available to carry out this subsection shall be available to those institutions to carry out the activities required pursuant to section 5505(i)(3)(B) of such title for that fiscal year.”
+Special rule.—If the institutions identified in paragraph (1) are selected pursuant to \[section\] 5505(i)(3)(B) of such title in fiscal year 2002, 2003, or 2004 or in the period October 1, 2004, through May 31, 2005, the funds made available to carry out this subsection shall be available to those institutions to carry out the activities required pursuant to section 5505(i)(3)(B) of such title for that fiscal year.”
 
 #### Programs of Federal Transit Administration; Limitation on Obligations
 
-Pub. L. 108–7, div. I, title III, §309, Feb. 20, 2003, 117 Stat. 407, provided that: “The limitations on obligations for the programs of the Federal Transit Administration shall not apply to any authority under 49 U.S.C. 5338, previously made available for obligation, or to any other authority previously made available for obligation.”
+Pub. L. 108–447, div. H, title I, §160, Dec. 8, 2004, 118 Stat. 3227, provided that: “The limitations on obligations for the programs of the Federal Transit Administration shall not apply to any authority under 49 U.S.C. 5338, previously made available for obligation, or to any other authority previously made available for obligation.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–199, div. F, title I, §160, Jan. 23, 2004, 118 Stat. 308.
+
+Pub. L. 108–7, div. I, title III, §309, Feb. 20, 2003, 117 Stat. 407.
 
 Pub. L. 107–87, title III, §309, Dec. 18, 2001, 115 Stat. 855.
 
@@ -715,10 +1077,6 @@ Pub. L. 100–202, §101(<i>l</i>) \[title III, §314\], Dec. 22, 1987, 101 Stat
 Pub. L. 99–500, §101(<i>l</i>) \[H.R. 5205, title III, §317\], Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(<i>l</i>) \[H.R. 5205, title III, §317\], Oct. 30, 1986, 100 Stat. 3341–308.
 
 Pub. L. 99–190, §101(e) \[title III, §322\], Dec. 19, 1985, 99 Stat. 1267, 1287.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5303, 5308, 5309, 5310, 5311, 5313, 5314, 5321, 5333, 5336, 5337, 5505 of this title; title 2 section 900; title 23 section 110.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -11,10 +11,6 @@
 
 2002—Pub. L. 107–347, title V, §526(b)(2), Dec. 17, 2002, 116 Stat. 2970, added item 402.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 9 of this title.
-
 
 ---
 

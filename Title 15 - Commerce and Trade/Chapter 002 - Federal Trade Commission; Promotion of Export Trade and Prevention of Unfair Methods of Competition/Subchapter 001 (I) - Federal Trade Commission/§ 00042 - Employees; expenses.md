@@ -8,9 +8,9 @@ All of the expenses of the Commission, including all necessary expenses for tran
 
 Until otherwise provided by law, the Commission may rent suitable offices for its use.
 
-The General Accounting Office shall receive and examine all accounts of expenditures of the Commission.
+The Government Accountability Office shall receive and examine all accounts of expenditures of the Commission.
 
-(Sept. 26, 1914, ch. 311, §2, 38 Stat. 718; June 10, 1921, ch. 18, title III, §304, 42 Stat. 24; 1978 Reorg. Plan No. 2, §102, 43 F.R. 36037, 92 Stat. 3783.)
+(Sept. 26, 1914, ch. 311, §2, 38 Stat. 718; June 10, 1921, ch. 18, title III, §304, 42 Stat. 24; 1978 Reorg. Plan No. 2, §102, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -28,5 +28,5 @@ Provisions that fixed the salary of the secretary of the commission, payable in 
 
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-“General Accounting Office” substituted in text for “Auditor for the State and Other Departments” pursuant to act June 10, 1921, which transferred all powers and duties of the Comptroller, six auditors, and certain other employees of the Treasury to the General Accounting Office. See section 701 et seq. of Title 31, Money and Finance.
+“Government Accountability Office” substituted in text for “General Accounting Office” pursuant to section 8(b) of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance, which redesignated the General Accounting Office and any references thereto as the Government Accountability Office. Previously, “General Accounting Office” substituted in text for “Auditor for the State and Other Departments” pursuant to act June 10, 1921, which transferred all powers and duties of the Comptroller, six auditors, and certain other employees of the Treasury to the General Accounting Office. See section 701 et seq. of Title 31.
 

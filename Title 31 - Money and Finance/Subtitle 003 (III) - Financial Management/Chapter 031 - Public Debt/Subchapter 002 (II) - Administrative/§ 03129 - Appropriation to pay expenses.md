@@ -8,7 +8,7 @@
 
 &emsp;(3) .1 percent of the amount of certificates of indebtedness authorized under the First Liberty Bond Act.
 
-(b) An appropriation under this section is available for obligation only through the end of the fiscal year after the fiscal year in which the issue was made. During a period for which an appropriation for a specified amount is made forexpenses for which this section makes an appropriation for an unspecified amount, only the appropriation for the specified amount is available for obligation.
+(b) An appropriation under this section is available for obligation only through the end of the fiscal year after the fiscal year in which the issue was made. During a period for which an appropriation for a specified amount is made for expenses for which this section makes an appropriation for an unspecified amount, only the appropriation for the specified amount is available for obligation.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 947.)
 

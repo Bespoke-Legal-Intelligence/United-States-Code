@@ -16,7 +16,3 @@ In addition to the general boundaries of the Cooperative Management and Protecti
 
 (Pub. L. 106–399, title I, §101, Oct. 30, 2000, 114 Stat. 1658.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460nnn–23, 460nnn–62, 460nnn–81, 460nnn–91 of this title.
-

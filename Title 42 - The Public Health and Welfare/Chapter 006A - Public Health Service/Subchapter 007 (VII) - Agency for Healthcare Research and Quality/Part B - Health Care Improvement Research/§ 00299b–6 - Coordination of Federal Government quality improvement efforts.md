@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) to describe and evaluate current quality improvement, quality research and quality monitoring processes through—
 
-&emsp;&emsp;&emsp;(i) an overview of pertinent health services research activities and quality improvement efforts conducted by all Federal programs, with particular attention paidto those under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\]; and
+&emsp;&emsp;&emsp;(i) an overview of pertinent health services research activities and quality improvement efforts conducted by all Federal programs, with particular attention paid to those under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\]; and
 
 &emsp;&emsp;&emsp;(ii) a summary of the partnerships that the Department of Health and Human Services has pursued with private accreditation, quality measurement and improvement organizations; and
 
@@ -50,7 +50,7 @@
 
 #### (B) Reports
 
-&emsp;&emsp;The Secretary shall submit the reports described in subparagraph (A) to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means and the Committee on Commerce of the House of Representatives.
+&emsp;&emsp;The Secretary shall submit the reports described in subparagraph (A) to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways andMeans and the Committee on Commerce of the House of Representatives.
 
 (July 1, 1944, ch. 373, title IX, §917, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1661.)
 

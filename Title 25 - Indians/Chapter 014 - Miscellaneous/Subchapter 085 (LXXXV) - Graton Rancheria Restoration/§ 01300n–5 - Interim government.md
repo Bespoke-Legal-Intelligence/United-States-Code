@@ -4,7 +4,3 @@ Until the Tribe ratifies a final constitution consistent with section 1300n–6 
 
 (Pub. L. 106–568, title XIV, §1407, Dec. 27, 2000, 114 Stat. 2941.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300n–1 of this title.
-

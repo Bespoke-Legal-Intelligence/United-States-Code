@@ -22,7 +22,7 @@ Project Agreement.—No payment shall be made under this chapter except for a pr
 
 Subsec. (b). Pub. L. 105–178, §1302(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “After completion of a project in accordance with the plans and specifications, and approval of the final voucher by the Secretary, a State shall be entitled to payment out of the appropriate sums apportioned to it of the unpaid balance of the Federal share payable on account of such project.”
 
-Subsec. (c). Pub. L. 105–178, §1302(2), (3), redesignated subsec. (e) as (c) and struck out former subsec. (c) which read as follows: “No payment shall be made under this chapter, except for a project located on a Federal-aid system and covered by a project agreement. No final payment shall be made to a State for its costs of construction of a project until the completion of the construction has been approved by the Secretary following inspections pursuant to section 114(a) of this title.”
+Subsec. (c). Pub. L. 105–178, §1302(2), (3), redesignated subsec. (e) as (c) and struck out former subsec. (c)which read as follows: “No payment shall be made under this chapter, except for a project located on a Federal-aid system and covered by a project agreement. No final payment shall be made to a State for its costs of construction of a project until the completion of the construction has been approved by the Secretary following inspections pursuant to section 114(a) of this title.”
 
 Subsec. (d). Pub. L. 105–178, §1302(2), struck out subsec. (d) which read as follows: “In making payments pursuant to this section, the Secretary shall be bound by the limitations with respect to the permissible amounts of such payments continued in sections 106(c), 120, and 130 of this title.”
 
@@ -47,8 +47,4 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 #### Submission of Recommendations to Congress for Reimbursement of States for Certain Highways
 
 Pub. L. 85–845, Aug. 28, 1958, 72 Stat. 1083, required Secretary of Commerce, within ten days after first day of first session of Eighty-sixth Congress, to submit to Congress recommendations for legislation for purpose of assisting Congress to determine whether or not to reimburse each State of any portion of a toll or free highway (1) which was on National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\], (2) which met standards required by Federal-Aid Highway Act of 1956 for such System of Interstate and Defense Highways, and (3) construction of which had been completed since Aug. 2, 1947, or which had been in actual use or under construction by contract, for completion, awarded not later than June 30, 1957.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 122 of this title.
 

@@ -4,7 +4,3 @@ When title to all the lands, structures, and other property in the area at Sarat
 
 (June 1, 1938, ch. 316, §1, 52 Stat. 608.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 159c of this title.
-

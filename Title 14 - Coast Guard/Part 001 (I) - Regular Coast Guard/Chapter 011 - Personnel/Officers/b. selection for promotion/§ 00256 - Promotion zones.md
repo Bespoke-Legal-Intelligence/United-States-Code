@@ -24,7 +24,3 @@
 
 1966—Subsec. (a). Pub. L. 89–444 limited promotion zone by requiring that list of officers under consideration be officers eligible for consideration for promotion to next higher grade.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 262 of this title.
-

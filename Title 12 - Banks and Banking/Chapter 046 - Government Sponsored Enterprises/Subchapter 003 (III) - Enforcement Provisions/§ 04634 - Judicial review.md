@@ -10,7 +10,7 @@ Upon receiving a copy of a petition, the Director shall file in the court the re
 
 #### (c) Jurisdiction
 
-Upon the filing of a petition, such court shall have jurisdiction, which upon the filing of the record by the Director shall (except as provided in the last sentence of section 4633(b)(2) of this title) be exclusive, to affirm, modify, terminate,or set aside, in whole or in part, the order of the Director.
+Upon the filing of a petition, such court shall have jurisdiction, which upon the filing of the record by the Director shall (except as provided in the last sentence of section 4633(b)(2) of this title) be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Director.
 
 #### (d) Review
 
@@ -25,8 +25,4 @@ Such court shall have the authority in any such review to order payment of any p
 The commencement of proceedings for judicial review under this section shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Director.
 
 (Pub. L. 102–550, title XIII, §1374, Oct. 28, 1992, 106 Stat. 3990.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4619, 4633, 4636, 4639 of this title.
 

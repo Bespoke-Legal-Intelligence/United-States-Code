@@ -8,7 +8,7 @@
 
 (d)(1) A civil action to review any final determination of the Secretary of Labor under section 223 of the Trade Act of 1974 with respect to the eligibility of workers for adjustment assistance under such Act may be commenced in the Court of International Trade by a worker, group of workers, certified or recognized union, or authorized representative of such worker or group that applies for assistance under such Act and is aggrieved by such final determination.
 
-(2) A civil action to review any final determination of the Secretary of Commerce under section 251 of the Trade Act of 1974 with respect to the eligibility of a firm for adjustment assistance under such Act may be commenced in the Court of International Trade by a firm or its representative that applies for assistance under such Act and is aggrieved by such final determination, or by any other interested domestic party that is aggrieved by such final determination.
+(2) A civil action to review any final determination of the Secretary of Commerce undersection 251 of the Trade Act of 1974 with respect to the eligibility of a firm for adjustment assistance under such Act may be commenced in the Court of International Trade by a firm or its representative that applies for assistance under such Act and is aggrieved by such final determination, or by any other interested domestic party that is aggrieved by such final determination.
 
 (3) A civil action to review any final determination of the Secretary of Commerce under section 271 of the Trade Act of 1974 with respect to the eligibility of a community for adjustment assistance under such Act may be commenced in the Court of International Trade by a community that applies for assistance under such Act and is aggrieved by such final determination, or by any other interested domestic party that is aggrieved by such final determination.
 
@@ -16,7 +16,7 @@
 
 (f) A civil action involving an application for the issuance of an order directing the administering authority or the International Trade Commission to make confidential information available under section 777(c)(2) of the Tariff Act of 1930 may be commenced in the Court of International Trade by any interested party whose application for disclosure of such confidential information was denied under section 777(c)(1) of such Act.
 
-(g)(1) A civil action to review any decision of the Secretary of the Treasury to deny a customs broker's license under section 641(b)(2) or (3) ofthe Tariff Act of 1930, or to deny a customs broker's permit under section 641(c)(1) of such Act, or to revoke such license or permit under section 641(b)(5) or (c)(2) of such Act, may be commenced in the Court of International Trade by the person whose license or permit was denied or revoked.
+(g)(1) A civil action to review any decision of the Secretary of the Treasury to deny a customs broker's license under section 641(b)(2) or (3) of the Tariff Act of 1930, or to deny a customs broker's permit under section 641(c)(1) of such Act, or to revoke such license or permit under section 641(b)(5) or (c)(2) of such Act, may be commenced in the Court of International Trade by the person whose license or permit was denied or revoked.
 
 (2) A civil action to review any decision of the Secretary of the Treasury to revoke or suspend a customs broker's license or permit or impose a monetary penalty in lieu thereof under section 641(d)(2)(B) of the Tariff Act of 1930 may be commenced in the Court of International Trade by the person against whom the decision was issued.
 

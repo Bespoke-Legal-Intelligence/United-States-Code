@@ -26,7 +26,7 @@ A stockholder vote in favor of—
 
 #### (2) Effective date
 
-&emsp;A voluntary merger, transfer, or termination that is approved by a vote of the stockholders of two or more banks or associations shall not take effect until the expiration of 30days after the date on which the stockholders of such banks or associations are notified of the final result of the vote in accordance with paragraph (1).
+&emsp;A voluntary merger, transfer, or termination that is approved by a vote of the stockholders of two or more banks or associations shall not take effect until the expiration of 30 days after the date on which the stockholders of such banks or associations are notified of the final result of the vote in accordance with paragraph (1).
 
 #### (3) Petition filed
 
@@ -64,7 +64,7 @@ A stockholder vote in favor of—
 
 &emsp;&emsp;&emsp;(i) the loans of the members of the new association will be transferred from the current association to such new association;
 
-&emsp;&emsp;&emsp;(ii) the stock, participation certificates, and other similar equities of the current association held by members of the new association will be retired at book value and the proceeds of such will be transferred to the new association, and an equivalent amount of stock, participation certificates, and other similar equities will be issued to the members by the new association; and
+&emsp;&emsp;&emsp;(ii) the stock, participation certificates, and other similar equities of the currentassociation held by members of the new association will be retired at book value and the proceeds of such will be transferred to the new association, and an equivalent amount of stock, participation certificates, and other similar equities will be issued to the members by the new association; and
 
 &emsp;&emsp;&emsp;(iii) the other assets of the current association will be distributed equitably among the current association and any resulting new association.
 

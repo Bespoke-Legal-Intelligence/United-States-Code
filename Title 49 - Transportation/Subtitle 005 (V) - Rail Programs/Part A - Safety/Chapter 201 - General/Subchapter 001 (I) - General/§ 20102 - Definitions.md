@@ -76,7 +76,3 @@ Clause (1) is substituted for the source provisions to avoid repeating the defin
 
 Clause (2) is added to distinguish between railroad transportation and the entity providing railroad transportation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 24301 of this title; title 42 sections 3771, 12181.
-

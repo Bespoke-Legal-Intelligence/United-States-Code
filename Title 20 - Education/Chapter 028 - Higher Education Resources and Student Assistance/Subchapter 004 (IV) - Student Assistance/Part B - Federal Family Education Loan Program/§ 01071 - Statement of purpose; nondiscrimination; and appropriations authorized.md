@@ -24,7 +24,7 @@ For the purpose of carrying out this part—
 
 &emsp;(1) there are authorized to be appropriated to the student loan insurance fund (established by section 1081 of this title) (A) the sum of $1,000,000, and (B) such further sums, if any, as may become necessary for the adequacy of the student loan insurance fund,
 
-&emsp;(2) there are authorized to be appropriated, for payments under section 1078 of this title with respect to interest on student loans and for payments under section 1087 of this title, such sums for the fiscal year ending June 30, 1966, and succeeding fiscal years, as may be required therefor,
+&emsp;(2) there are authorized to be appropriated, for payments under section 1078 of this titlewith respect to interest on student loans and for payments under section 1087 of this title, such sums for the fiscal year ending June 30, 1966, and succeeding fiscal years, as may be required therefor,
 
 &emsp;(3) there is authorized to be appropriated the sum of $17,500,000 for making advances pursuant to section 1072 of this title for the reserve funds of State and nonprofit private student loan insurance programs,
 
@@ -88,7 +88,7 @@ Special Rules.—(1) Any provision of this Act or any amendment made by this Act
 
 “(5) Amounts appropriated by the joint resolution entitled ‘Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes’, approved December 22, 1987 (Public Law 100–202), for the following programs shall be awarded in accordance with the applicable provisions of law in effect on the day before the date of the enactment of this Act \[Apr. 28, 1988\]:
 
-&emsp;“(A) Programs under subchapter D of chapter 2 of the Education Consolidation and Improvement Act of 1981 \[formerly 20 U.S.C. 3851 et seq.\], except that projects under section 583(c) \[formerly 20 U.S.C. 3851(c)\] may not be reviewed by a program significance panel.
+&emsp;“(A) Programs under subchapter D of chapter 2 of the Education Consolidation and Improvement Act of 1981 \[formerly 20 U.S.C. 3851 et seq.\], except that projects under section 583(c) \[formerly 20 U.S.C.3851(c)\] may not be reviewed by a program significance panel.
 
 &emsp;“(B) National programs under the Adult Education Act \[formerly 20 U.S.C. 1201 et seq.\].
 
@@ -141,8 +141,4 @@ Section 1401 of Pub. L. 102–325 directed Secretary of Education to review role
 #### General Accounting Office Reports
 
 Sections 1311 to 1314 of Pub. L. 99–498, as amended by Pub. L. 100–50, §23(6), June 3, 1987, 101 Stat. 362, directed Comptroller General to conduct studies on practices of State guaranty agencies and multistate guarantors under the student loan program, on the feasibility and efficiency of permitting students to establish multiple year lines of credit with eligible lenders, on the impact of the multiple disbursement system on the ability of students and institutions of higher education to meet expenses, and on the cost, efficiency, and impact of the consolidation loan program established by Pub. L. 99–498, and directed Comptroller General to make and submit a report to Congress on each study not later than two years after Oct. 17, 1986, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1072 of this title.
 

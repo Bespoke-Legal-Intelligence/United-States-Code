@@ -4,7 +4,3 @@ Subject to conditions hereafter prescribed, and pursuant to such regulations as 
 
 (Pub. L. 88–567, §3, Sept. 2, 1964, 78 Stat. 850.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 695r of this title.
-

@@ -38,7 +38,3 @@ Informed Decisionmaking.—The Office shall ensure that each eligible individual
 
 (Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 768.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9001 of this title.
-

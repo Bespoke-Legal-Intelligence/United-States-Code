@@ -1,6 +1,6 @@
 ### §305. Abstention
 
-(a) The court, after notice and a hearing, may dismiss a case under this title, or may suspend all proceedings in a case under this title, at any time if—
+(a) The court, after notice and a hearing, may dismiss a case under this title, or may suspendall proceedings in a case under this title, at any time if—
 
 &emsp;(1) the interests of creditors and the debtor would be better served by such dismissal or suspension; or
 
@@ -27,8 +27,4 @@ Subsection (b) gives a foreign representative authority to appear in the bankrup
 1991—Subsec. (c). Pub. L. 102–198 substituted “title 28” for “this title” in two places.
 
 1990—Subsec. (c). Pub. L. 101–650 inserted before period at end “by the court of appeals under section 158(d), 1291, or 1292 of this title or by the Supreme Court of the United States under section 1254 of this title”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 306 of this title.
 

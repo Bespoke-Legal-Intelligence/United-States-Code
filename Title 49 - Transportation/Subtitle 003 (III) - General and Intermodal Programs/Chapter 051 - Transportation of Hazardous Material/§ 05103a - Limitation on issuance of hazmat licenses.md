@@ -26,7 +26,7 @@ Background Records Check.—
 
 &emsp;(1)
 
-In general.—Upon the request of a State regarding issuance of a license described in subsection (a)(1) to an individual, the Attorney General—
+In general.—Upon the request of a State regarding issuance of a license described insubsection (a)(1) to an individual, the Attorney General—
 
 &emsp;&emsp;(A) shall carry out a background records check regarding the individual; and
 
@@ -63,8 +63,4 @@ Section 101(a)(3) of the Immigration and Nationality Act, referred to in subsec.
 #### Authorization of Appropriations
 
 Pub. L. 107–56, title X, §1012(c), Oct. 26, 2001, 115 Stat. 398, provided that: “There is authorized to be appropriated for the Department of Transportation and the Department of Justice such amounts as may be necessary to carry out section 5103a of title 49, United States Code, as added by subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 31305 of this title; title 46 section 70105.
 

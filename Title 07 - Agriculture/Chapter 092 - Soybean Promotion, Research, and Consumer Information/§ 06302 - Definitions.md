@@ -94,7 +94,3 @@ As used in this chapter:
 
 (Pub. L. 101–624, title XIX, §1967, Nov. 28, 1990, 104 Stat. 3882.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6304 of this title.
-

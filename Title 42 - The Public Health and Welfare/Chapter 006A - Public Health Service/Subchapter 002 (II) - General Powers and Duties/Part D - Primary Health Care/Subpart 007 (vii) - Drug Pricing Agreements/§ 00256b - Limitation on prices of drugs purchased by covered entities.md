@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(I) An urban Indian organization receiving funds under title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\].
 
-&emsp;&emsp;(J) Any entity receiving assistance under subchapter XXIV of this chapter (other than a State or unit of local government or an entity described in subparagraph (D)), but only if the entity is certified by the Secretary pursuant to paragraph (7).
+&emsp;&emsp;(J) Any entity receiving assistance under subchapter XXIV of this chapter (other thana State or unit of local government or an entity described in subparagraph (D)), but only if the entity is certified by the Secretary pursuant to paragraph (7).
 
 &emsp;&emsp;(K) An entity receiving funds under section 247c of this title (relating to treatment of sexually transmitted diseases) or section 247b(j)(2) <sup>1</sup> of this title (relating to treatment of tuberculosis) through a State or unit of local government, but only if the entity is certified by the Secretary pursuant to paragraph (7).
 
@@ -108,7 +108,7 @@
 
 #### (D) List of purchasers and dispensers
 
-&emsp;&emsp;The certification process developed by the Secretary under subparagraph (A) shall include procedures under which each State shall, not later than 30 days after the submission of the descriptions under subparagraph (C), prepare and submit a report to the Secretary that contains a list of entities described in subparagraphs (J) and (K) of paragraph (4) that are located in the State.
+&emsp;&emsp;The certification process developed by the Secretary under subparagraph (A) shall include procedures under which each State shall, not later than 30 days after the submission of the descriptions under subparagraph (C), prepare and submit a report to theSecretary that contains a list of entities described in subparagraphs (J) and (K) of paragraph (4) that are located in the State.
 
 #### (E) Recertification
 
@@ -165,8 +165,4 @@ Another section 340B of act July 1, 1944, was renumbered section 340C and is cla
 #### Study of Treatment of Certain Clinics as Covered Entities Eligible for Prescription Drug Discounts
 
 Section 602(b) of Pub. L. 102–585 directed Secretary of Health and Human Services to conduct a study of feasibility and desirability of including specified entities receiving funds from a State as covered entities eligible for limitations on prices of covered outpatient drugs under 42 U.S.C. 256b(a) and, not later than 1 year after Nov. 4, 1992, to submit a report to Congress on the study, including in the report a description of the entities that were the subject of the study, an analysis of the extent to which such entities procured prescription drugs, and an analysis of the impact of the inclusion of such entities as covered entities on the quality of care provided to and the health status of the patients of such entities.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1396r–8 of this title.
 

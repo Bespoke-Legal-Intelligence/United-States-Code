@@ -94,7 +94,3 @@ Sec. 12. References in any Executive order to any provision in Executive Order N
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40109, 41102, 41108, 41310, 46110, 46301 of this title.
-

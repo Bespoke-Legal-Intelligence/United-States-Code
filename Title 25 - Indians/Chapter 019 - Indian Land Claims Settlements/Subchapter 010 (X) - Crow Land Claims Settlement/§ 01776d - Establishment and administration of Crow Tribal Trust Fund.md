@@ -38,7 +38,7 @@
 
 #### (c) Investment
 
-At the request of the Secretary, the Secretary of the Treasury shall invest all sums deposited into, accruing to, and remaining in, the Crow Tribal Trust Fund in accordance with section 161a of this title.
+At the request of the Secretary, the Secretary of the Treasury shall invest all sums depositedinto, accruing to, and remaining in, the Crow Tribal Trust Fund in accordance with section 161a of this title.
 
 #### (d) Distribution of interest
 
@@ -71,8 +71,4 @@ Notwithstanding any other provision of law, no portion of the principal of the C
 #### Amendments
 
 1994—Subsec. (c). Pub. L. 103–435 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “At the request of the Secretary, the Secretary of the Treasury shall invest all sums deposited into, accruing to, and remaining in, the Crow Tribal Trust Fund in accordance with sections 161a to 161d of this title.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1776c, 1776h of this title.
 

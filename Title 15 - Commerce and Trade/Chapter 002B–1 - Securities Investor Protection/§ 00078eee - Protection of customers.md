@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(B) is the subject of a proceeding pending in any court or before any agency of the United States or any State in which a receiver, trustee, or liquidator for such debtor has been appointed;
 
-&emsp;&emsp;(C) is not in compliance with applicable requirements under the 1934 Act \[15 U.S.C. 78aet seq.\] or rules of the Commission or any self-regulatory organization with respect to financial responsibility or hypothecation of customers’ securities; or
+&emsp;&emsp;(C) is not in compliance with applicable requirements under the 1934 Act \[15 U.S.C. 78a et seq.\] or rules of the Commission or any self-regulatory organization with respect to financial responsibility or hypothecation of customers’ securities; or
 
 &emsp;&emsp;(D) is unable to make such computations as may be necessary to establish compliance with such financial responsibility or hypothecation rules.
 
@@ -88,7 +88,7 @@
 
 #### (C) Recommendations of SIPC and awarding of allowances
 
-&emsp;&emsp;Whenever an application for allowances is filed pursuant to subparagraph (B), SIPC shall file its recommendation with respect to such allowances with the court prior to the hearing on such application and shall, if it so requests, be allowed a reasonable time after such hearing within which to file a further recommendation. In any case in which such allowances are to be paid by SIPC without reasonable expectation of recoupment thereof as provided in this chapter and there is no difference between the amounts requested and the amounts recommended by SIPC, the court shall award the amounts recommended by SIPC. In determining the amount of allowances in all other cases, the court shall give due consideration to the nature, extent, and value of the services rendered, and shall place considerable reliance on the recommendation of SIPC.
+&emsp;&emsp;Whenever an application for allowances is filed pursuant to subparagraph (B), SIPC shall file its recommendation with respect to such allowances with the court prior to the hearing on such application and shall, if it so requests, be allowed a reasonable time after such hearing within which to file a further recommendation. In any case in which such allowances are to be paid by SIPC without reasonable expectation of recoupment thereof as provided in this chapter and there is no difference between the amounts requested and the amounts recommended bySIPC, the court shall award the amounts recommended by SIPC. In determining the amount of allowances in all other cases, the court shall give due consideration to the nature, extent, and value of the services rendered, and shall place considerable reliance on the recommendation of SIPC.
 
 #### (D) Applicable restrictions
 
@@ -136,7 +136,7 @@ This chapter, referred to in subsecs. (b)(2)(A)(iii), (5)(C), and (c), was in th
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–283, §7(a), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, revised format of provisions by setting out cls. (A) and (B) and inserted provisions relating to any person who was a member within 180 days prior to such determination and provisions relating to claims filed under section 78fff–3 of this title, and redesignatedformer par. (3) as (4) and, as so redesignated, substituted “with respect to a member of SIPC filed with a court under paragraph (3)” for “under paragraph (2)” in introductory text and inserted “may,” before “with the” in cl. (A).
+1978—Subsec. (a). Pub. L. 95–283, §7(a), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, revised format of provisions by setting out cls. (A) and (B) and inserted provisions relating to any person who was a member within 180 days prior to such determination and provisions relating to claims filed under section 78fff–3 of this title, and redesignated former par. (3) as (4) and, as so redesignated, substituted “with respect to a member of SIPC filed with a court under paragraph (3)” for “under paragraph (2)” in introductory text and inserted “may,” before “with the” in cl. (A).
 
 Subsec. (b)(1)(A). Pub. L. 95–598, §308(a)(1), substituted “section 101 of title 11” for “the Bankruptcy Act”.
 
@@ -150,7 +150,7 @@ Subsec. (b)(3). Pub. L. 95–598, §308(d), substituted “section 322 of title 
 
 Subsec. (b)(4). Pub. L. 95–598, §308(e), substituted provisions relating to removal of proceeding to Bankruptcy Court for provisions relating to reference of proceeding to referee in bankruptcy.
 
-Subsec. (b)(5)(B). Pub. L. 95–598, §308(f)(1), (2), (5), redesignated subpar. (C) as (B) and substituted “title 11 governing applications for allowances under such title” for “the Bankruptcy Act governing applications for allowances under such Act”. Former subpar. (B), which covered allowances to a referee in bankruptcy or special master, was struck out.
+Subsec. (b)(5)(B). Pub. L. 95–598, §308(f)(1), (2), (5), redesignated subpar. (C) as (B) and substituted “title 11governing applications for allowances under such title” for “the Bankruptcy Act governing applications for allowances under such Act”. Former subpar. (B), which covered allowances to a referee in bankruptcy or special master, was struck out.
 
 Subsec. (b)(5)(C). Pub. L. 95–598, §308(f)(2), (3), (5), redesignated subpar. (D) as (C) and substituted “subparagraph (B)” for “subparagraph (C)”. Former subpar. (C) redesignated (B).
 
@@ -165,8 +165,4 @@ Subsec. (d). Pub. L. 95–283, §7(c), added subsec. (d).
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78fff–4, 78iii, 78<i>lll</i> of this title; title 11 section 362.
 

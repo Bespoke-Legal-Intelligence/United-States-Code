@@ -26,7 +26,3 @@ Preservation Period.—The Board may prescribe the time period during which oper
 
 Provisions similar to those in this section were contained in section 11144 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 16101, 16103 of this title.
-

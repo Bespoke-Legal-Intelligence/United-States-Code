@@ -22,7 +22,7 @@
 
 #### (c) Insurance coverage
 
-As a condition to receiving grant amounts under this subchapter, the Director shall require adequate insurance coverage for housing units that are owned or operated or assisted with grant amounts provided under this subchapter.
+As a condition to receiving grant amounts under this subchapter, the Director shall requireadequate insurance coverage for housing units that are owned or operated or assisted with grant amounts provided under this subchapter.
 
 #### (d) Eligibility for admission
 
@@ -37,8 +37,4 @@ As a condition to receiving grant amounts under this subchapter, the Director sh
 #### Codification
 
 Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted identical sections 811 of Pub. L. 104–330. This section is based on the text of section 811 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4229, 4231 of this title.
 

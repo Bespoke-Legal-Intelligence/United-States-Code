@@ -528,7 +528,7 @@ Treatment of public housing.
 
 (a)
 
-Preparation and submission of annual budget program; maintenance of accounts; audit by General Accounting Office.
+Preparation and submission of annual budget program; maintenance of accounts; audit by Government Accountability Office.
 
 (b)
 
@@ -649,7 +649,7 @@ Consolidation of occupancy within or among buildings.
 
 (f)
 
-De minimus exception to demolition requirements.
+De minimis exception to demolition requirements.
 
 (g)
 
@@ -1565,10 +1565,6 @@ Labor standards.
 (h)
 
 Protection of guarantees issued by United States; inclusion by purchaser in gross income of interest paid on obligations issued by agencies.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1382a, 1396r–1a, 1404a, 1434, 1436a, 1436b, 1439, 1471, 1485, 1490a, 1502, 1503, 1504, 1586, 1590, 1594c, 1766, 3013, 5153, 5515, 8003, 11903, 12705, 12896, 12910, 14614 of this title; title 12 sections 24, 1441a, 1701r–1, 1715z–1a, 1701z–3, 1701z–11, 1715<i>l</i>, 1831q; title 25 sections 640d–14, 4103, 4111, 4112, 4116, 4133, 4140, 4152, 4181, 4182, 4183, 4191; title 26 section 32.
 
 
 ---

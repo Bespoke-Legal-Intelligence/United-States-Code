@@ -14,7 +14,7 @@ Term of Office.—The term of office of the judges of the Court of Appeals for V
 
 (d)
 
-Chief Judge.—(1) The chief judge of the Court shall be the judge of the Court in regular active service who is senior in commission among the judges of the Court who—
+Chief Judge.—(1) The chief judge of the Court is the head of the Court. The chief judge of the Court shall be the judge of the Court in regular active service who is senior in commission among the judges of the Court who—
 
 &emsp;(A) have served for one or more years as judges of the Court; and
 
@@ -26,9 +26,9 @@ Chief Judge.—(1) The chief judge of the Court shall be the judge of the Court 
 
 (4)(A) The term of a chief judge shall be terminated before the end of the term prescribed by paragraph (3) if—
 
-&emsp;(i) the chief judge leaves regular active service as a judge of the court; <sup>1</sup> or
+&emsp;(i) the chief judge leaves regular active service as a judge of the Court; or
 
-&emsp;(ii) the chief judge notifies the other judges of the court <sup>1</sup> in writing that such judge desires to be relieved of the duties of chief judge.
+&emsp;(ii) the chief judge notifies the other judges of the Court in writing that such judge desires to be relieved of the duties of chief judge.
 
 (B) The effective date of a termination of the term under subparagraph (A) shall be the date on which the chief judge leaves regular active service or the date of the notification under subparagraph (A)(ii), as the case may be.
 
@@ -70,17 +70,19 @@ Temporary Expansion of Court.—(1) During the period from January 1, 2002, thro
 
 (3) The term of office and the eligibility for retirement of a judge appointed under this subsection, other than a judge described in paragraph (4), are governed by the provisions of section 1012 of the Court of Appeals for Veterans Claims Amendments of 1999 (title X of Public Law 106–117; 113 Stat. 1590; 38 U.S.C. 7296 note) if the judge is one of the first two judges appointed to the Court after November 30, 1999.
 
-(4) A judge of the Court as of the date of the enactment of this subsection who was appointed to the Court before January 1, 1991, may accept appointment as a judge of the Court under this subsection notwithstanding that the term of office of the judge on the Court has not yet expired under this section. The term of office of an incumbent judge who receives an appointment as described in the preceding sentence shall be 15 years, which includes any period remaining in the unexpired term of the judge. Any service following an appointment under this subsection shall be treated as though served as part of the original term of office of that judge on the Court.
+(4) A judge of the Court as of December 27, 2001, who was appointed to the Court before January 1, 1991, may accept appointment as a judge of the Court under this subsection notwithstanding that the term of office of the judge on the Court has not yet expired under this section. The term of office of an incumbent judge who receives an appointment as described in the preceding sentence shall be 15 years, which includes any period remaining in the unexpired term of the judge. Any service following an appointment under this subsection shall be treated as though served as part of the original term of office of that judge on the Court.
 
 (5) Notwithstanding paragraph (1), an appointment may not be made to the Court if the appointment would result in there being more than seven judges on the Court who were appointed after January 1, 1997. For the purposes of this paragraph, a judge serving in recall status under section 7257 of this title shall be disregarded in counting the number of judges appointed to the Court after such date.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4114, §4053; amended Pub. L. 101–94, title I, §102(c), Aug. 16, 1989, 103 Stat. 626; renumbered §7253, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, §3, Aug. 6, 1991, 105 Stat. 375; Pub. L. 102–585, title VIII, §801, Nov. 4, 1992, 106 Stat. 4980; Pub. L. 105–368, title V, §§501, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§1031, 1032(a), 1033, Nov. 30, 1999, 113 Stat. 1594, 1595; Pub. L. 107–103, title VI, §601, Dec. 27, 2001, 115 Stat. 998; Pub. L. 107–273, div. C, title I, §11043(f), Nov. 2, 2002, 116 Stat. 1856.)
-
-#### References in Text
-
-The date of the enactment of this subsection, referred to in subsec. (h)(4), is the date of enactment of Pub. L. 107–103, which was approved Dec. 27, 2001.
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4114, §4053; amended Pub. L. 101–94, title I, §102(c), Aug. 16, 1989, 103 Stat. 626; renumbered §7253, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, §3, Aug. 6, 1991, 105 Stat. 375; Pub. L. 102–585, title VIII, §801, Nov. 4, 1992, 106 Stat. 4980; Pub. L. 105–368, title V, §§501, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§1031, 1032(a), 1033, Nov. 30, 1999, 113 Stat. 1594, 1595; Pub. L. 107–103, title VI, §601, Dec. 27, 2001, 115 Stat. 998; Pub. L. 107–273, div. C, title I, §11043(f), Nov. 2, 2002, 116 Stat. 1856; Pub. L. 108–454, title VIII, §802, Dec. 10, 2004, 118 Stat. 3625.)
 
 #### Amendments
+
+2004—Subsec. (d)(1). Pub. L. 108–454, §802(a), inserted “The chief judge of the Court is the head of the Court.” after “(1)”.
+
+Subsec. (d)(4)(A). Pub. L. 108–454, §802(b), substituted “Court” for “court” in cls. (i) and (ii).
+
+Subsec. (h)(4). Pub. L. 108–454, §802(c), substituted “December 27, 2001,” for “the date of the enactment of this subsection”.
 
 2002—Subsec. (g)(1). Pub. L. 107–273, §11043(f)(1), substituted “chapter 16” for “section 372(c)” and “such chapter” for “such section”.
 
@@ -134,11 +136,7 @@ Amendment by section 512(a)(1) of Pub. L. 105–368 effective on first day of fi
 
 #### Initial Appointment of Judges to Court of Veterans Appeals
 
-Section 302 of Pub. L. 100–687 prohibited President from appointing associate judges of the United StatesCourt of Veterans Appeals under subsec. (b) of this section, until the chief judge of such Court has been appointed and that judges could be appointed after Feb. 1, 1989.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7257, 7296, 7297 of this title.
+Section 302 of Pub. L. 100–687 prohibited President from appointing associate judges of the United States Court of Veterans Appeals under subsec. (b) of this section, until the chief judge of such Court has been appointed and that judges could be appointed after Feb. 1, 1989.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

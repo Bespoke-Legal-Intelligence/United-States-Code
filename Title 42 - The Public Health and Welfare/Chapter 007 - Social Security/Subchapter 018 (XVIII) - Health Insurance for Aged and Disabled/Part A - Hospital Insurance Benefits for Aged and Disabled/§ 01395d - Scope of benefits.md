@@ -70,7 +70,7 @@ For purposes of subsections (b) and (c) of this section, inpatient hospital serv
 
 #### (f) Coverage of extended care services without regard to three-day prior hospitalization requirement
 
-(1) The Secretary shall provide for coverage, under clause (B) of subsection (a)(2) of this section, of extended care services which are not post-hospital extended care services at such time and for so long as the Secretary determines, and under such terms and conditions (described in paragraph (2)) as the Secretary finds appropriate, that the inclusion of such services will not result in any increase in the total of payments made under this subchapter and will not alter the acute care nature of the benefit described in subsection (a)(2) of this section.
+(1) The Secretary shall provide for coverage, under clause (B) of subsection (a)(2) of this section, of extended care services which are notpost-hospital extended care services at such time and for so long as the Secretary determines, and under such terms and conditions (described in paragraph (2)) as the Secretary finds appropriate, that the inclusion of such services will not result in any increase in the total of payments made under this subchapter and will not alter the acute care nature of the benefit described in subsection (a)(2) of this section.
 
 (2) The Secretary may provide—
 
@@ -192,7 +192,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(m)\], Nov. 29, 1999, 
 
 Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
-Section 4449 of title IV of Pub. L. 105–33 provided that: “Except as otherwise provided in this chapter\[chapter 4 (§§4441–4449) of subtitle E of title IV of Pub. L. 105–33, amending this section and sections 1395f, 1395x, and 1395pp of this title and enacting provisions set out as notes under section 1395f and 1395x of this title\], the amendments made by this chapter apply to benefits provided on or after the date of the enactment of this chapter \[Aug. 5, 1997\], regardless of whether or not an individual has made an election under section 1812(d) of the Social Security Act (42 U.S.C. 1395d(d)) before such date.”
+Section 4449 of title IV of Pub. L. 105–33 provided that: “Except as otherwise provided in this chapter \[chapter 4 (§§4441–4449) of subtitle E of title IV of Pub. L. 105–33, amending this section and sections 1395f, 1395x, and 1395pp of this title and enacting provisions set out as notes under section 1395f and 1395x of this title\], the amendments made by this chapter apply to benefits provided on or after the date of the enactment of this chapter \[Aug. 5, 1997\], regardless of whether or not an individual has made an election under section 1812(d) of the Social Security Act (42 U.S.C. 1395d(d)) before such date.”
 
 Section 4611(f) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and sections 1395u, 1395x, and 1395ff of this title\] apply to services furnished on or after January 1, 1998. For purpose of applying such amendments, any home health spell of illness that began, but not \[sic\] did not end, before such date shall be considered to have begun as of such date.”
 
@@ -226,7 +226,7 @@ In general.—Except as provided in paragraph (2) and subsection (b), the amendm
 
 “(2)
 
-Elimination of post-hospital requirement for extended care services.—The amendments made by this subtitle, insofar as they eliminate the requirement (under section 1812(a)(2) of the Social Security Act \[subsec. (a)(2) of this section\]) that extended care services are only covered under title XVIII of such Act \[this subchapter\] if they are post-hospital extended care services, shall only apply to extended care services furnished pursuant to an admission to a skilled nursing facility occurring on or after January 1, 1989.”
+Elimination of post-hospital requirement for extended care services.—The amendments made bythis subtitle, insofar as they eliminate the requirement (under section 1812(a)(2) of the Social Security Act \[subsec. (a)(2) of this section\]) that extended care services are only covered under title XVIII of such Act \[this subchapter\] if they are post-hospital extended care services, shall only apply to extended care services furnished pursuant to an admission to a skilled nursing facility occurring on or after January 1, 1989.”
 
 #### Effective Date of 1983 Amendment
 
@@ -353,8 +353,4 @@ No impact on government contribution.—Subparagraph (A) does not apply in deter
 #### Repeal of 1988 Expansion of Medicare Part A Benefits
 
 For provisions repealing amendment by section 101 of Pub. L. 100–360, restoring or reviving this section as if section 101 of Pub. L. 100–360 had not been enacted, and providing a transition period for medicare beneficiaries with respect to inpatient hospital services and extended care services provided on or after Jan. 1, 1990, and providing an exception to such restoration for certain hospice care, see section 101(a)–(b)(2) of Pub. L. 101–234, set out as a note under section 1395e of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395e, 1395f, 1395w–23, 1395x, 1395eee, 1396b, 1396d, 1396r–8 of this title; title 10 section 1074j.
 

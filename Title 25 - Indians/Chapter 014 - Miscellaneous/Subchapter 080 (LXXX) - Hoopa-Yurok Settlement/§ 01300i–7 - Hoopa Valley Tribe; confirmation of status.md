@@ -4,9 +4,5 @@ The existing govening <sup>1</sup> documents of the Hoopa Valley Tribe and the 
 
 (Pub. L. 100–580, §8, Oct. 31, 1988, 102 Stat. 2932.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300i–1 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “governing”.</i>
 

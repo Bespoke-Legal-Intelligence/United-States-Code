@@ -4,7 +4,3 @@ For the purpose of conserving and interpreting unique scenic and other natural v
 
 (Pub. L. 88–492, §1, Aug. 27, 1964, 78 Stat. 608.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460m–1 of this title.
-

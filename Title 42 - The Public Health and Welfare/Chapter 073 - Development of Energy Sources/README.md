@@ -184,10 +184,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 5905, 7135a, 7259a, 10141, 10155 of this title; title 15 sections 2507, 2705; title 22 section 3203.
-
 
 ---
 

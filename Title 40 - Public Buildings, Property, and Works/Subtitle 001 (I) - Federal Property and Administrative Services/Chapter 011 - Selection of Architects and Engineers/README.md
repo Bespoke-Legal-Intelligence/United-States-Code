@@ -9,10 +9,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 6 section 232; title 10 sections 2302, 2305a, 2855; title 23 section 112; title 33 sections 569b, 892a, 2292; title 41 section 259; title 42 section 9619; title 43 section 377b; title 49 sections 5325, 47107.
-
 
 ---
 

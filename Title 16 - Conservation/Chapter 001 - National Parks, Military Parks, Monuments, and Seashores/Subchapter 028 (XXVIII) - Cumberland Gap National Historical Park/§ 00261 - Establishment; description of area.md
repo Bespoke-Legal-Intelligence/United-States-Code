@@ -8,7 +8,3 @@ When title to such lands, structures, and other property in the Cumberland Gap-C
 
 1943—Act May 26, 1943, omitted proviso relating to inclusion of certain specified lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 262 of this title.
-

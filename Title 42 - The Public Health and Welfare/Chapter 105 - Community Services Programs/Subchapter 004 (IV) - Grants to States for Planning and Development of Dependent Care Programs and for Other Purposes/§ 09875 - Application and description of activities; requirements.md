@@ -32,7 +32,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 #### (d) Application to Public Health Service Act
 
-Except where inconsistent with the provisions of this subchapter, the provisions of section 1903(b) \[42 U.S.C. 300w–2(b)\], paragraphs (1) through (5) of section 1906(a) <sup>1</sup> \[42 U.S.C. 300w–5(a)\], and sections 1906(b), 1907, 1908, and 1909 \[42 U.S.C. 300w–5(b), 300w–6, 300w–7, 300w–8\] of the Public Health Service Act shall apply to this subchapter in the same manner as such provisions apply to part A of title XIX of such Act \[42 U.S.C. 300w et seq.\].
+Except where inconsistent with the provisions of this subchapter, the provisions of section 1903(b) \[42 U.S.C. 300w–2(b)\], paragraphs (1) through (5) of section 1906(a) <sup>1</sup> \[42 U.S.C.300w–5(a)\], and sections 1906(b), 1907, 1908, and 1909 \[42 U.S.C. 300w–5(b), 300w–6, 300w–7, 300w–8\] of the Public Health Service Act shall apply to this subchapter in the same manner as such provisions apply to part A of title XIX of such Act \[42 U.S.C. 300w et seq.\].
 
 (Pub. L. 97–35, title VI, §670E, as added Pub. L. 98–558, title I, §109, Oct. 30, 1984, 98 Stat. 2882; amended Pub. L. 101–501, title III, §§304, 305(b), Nov. 3, 1990, 104 Stat. 1249, 1250.)
 

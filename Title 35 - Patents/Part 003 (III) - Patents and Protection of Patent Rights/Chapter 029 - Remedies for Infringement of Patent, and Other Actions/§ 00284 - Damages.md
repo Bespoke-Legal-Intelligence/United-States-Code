@@ -22,7 +22,3 @@ This section consolidates the provisions relating to damages in R.S. 4919 and 49
 
 Amendment by Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 154, 157, 287, 296 of this title.
-

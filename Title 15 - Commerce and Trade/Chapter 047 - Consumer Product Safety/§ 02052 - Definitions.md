@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(H) drugs, devices, or cosmetics (as such terms are defined in sections 201(g), (h), and (i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321(g), (h), and (i)\]), or
 
-&emsp;&emsp;(I) food. The term “food”, as used in this subparagraph means all “food”, as defined in section 201(f) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321(f)\], including poultry and poultry products (as defined in sections 4(e) and (f) of the Poultry Products Inspection Act \[21 U.S.C. 453(e) and (f)\]), meat, meat food products (as defined in section 1(j) of the Federal Meat Inspection Act \[21 U.S.C. 601(j)\]), and eggs and egg products (as defined in section 4 of the Egg Products Inspection Act \[21 U.S.C. 1033\]).
+&emsp;&emsp;(I) food. The term “food”, as used in this subparagraph means all “food”, as defined in section 201(f) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321(f)\], including poultry and poultry products (as defined in sections 4(e) and (f) of the Poultry ProductsInspection Act \[21 U.S.C. 453(e) and (f)\]), meat, meat food products (as defined in section 1(j) of the Federal Meat Inspection Act \[21 U.S.C. 601(j)\]), and eggs and egg products (as defined in section 4 of the Egg Products Inspection Act \[21 U.S.C. 1033\]).
 
 > &emsp;Such term includes any mechanical device which carries or conveys passengers along, around, or over a fixed or restricted route or course or within a defined area for the purpose of giving its passengers amusement, which is customarily controlled or directed by an individual who is employed for that purpose and who is not a consumer with respect to such device, and which is not permanently fixed to a site. Such term does not include such a device which is permanently fixed to a site. Except for the regulation under this chapter or the Federal Hazardous Substances Act \[15 U.S.C. 1261 et seq.\] of fireworks devices or any substance intended for use as a component of any such device, the Commission shall have no authority under the functions transferred pursuant to section 2079 of this title to regulate any product or article described in subparagraph (E) of this paragraph or described, without regard to quantity, in section 845(a)(5) of title 18. See sections 2079(d) and 2080 of this title, for other limitations on Commission's authority to regulate certain consumer products.
 
@@ -36,7 +36,7 @@
 
 &emsp;(7)(A) The term “private labeler” means an owner of a brand or trademark on the label of a consumer product which bears a private label.
 
-&emsp;(B) A consumer product bears a private label if (i) the product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of the product, (ii) the person with whose brand or trademark the product (or container) is labeled has authorized or caused the product to be so labeled,and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
+&emsp;(B) A consumer product bears a private label if (i) the product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of the product, (ii) the person with whose brand or trademark the product (or container) is labeled has authorized or caused the product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
 
 &emsp;(8) The term “manufactured” means to manufacture, produce, or assemble.
 
@@ -72,7 +72,7 @@ For definition of Canal Zone, referred to in subsec. (a)(10), see section 3602(b
 
 #### Codification
 
-In subsec. (a)(1)(C), (F), “section 30102(a)(6) and (7) of title 49” substituted for “sections 102(3) and (4) of the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1391(3) and (4)\]” and “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (a)(1)(C), (F), “section 30102(a)(6) and (7) of title 49” substituted for “sections 102(3) and (4) of theNational Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1391(3) and (4)\]” and “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 In subsec. (a)(1)(G), “chapter 43 of title 46” and “section 2101(1) of title 46” substituted for “the Federal Boat Safety Act of 1971 (46 U.S.C. 1451 et seq.)” and “section 3(8) of the Federal Boat Safety Act of 1971 \[46 U.S.C. 1452(8)\]”, respectively, on authority of Pub. L. 98–89, §2(b), Aug. 26, 1983, 97 Stat. 598, section 1 of which enacted Title 46, Shipping.
 
@@ -94,13 +94,9 @@ Section 1215 of Pub. L. 97–35 provided that:
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2085 of this title.
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) an expansion of credit is necessary so that the United States Government and the governments of other countries can stabilize the value of coins and currencies of a country.
 
-(b) Under an agreement under subsection (a) of this section, the Board shall permit the banks (and the Board is authorized to permit the banksnotwithstanding another law) to agree that the banks will—
+(b) Under an agreement under subsection (a) of this section, the Board shall permit the banks (and the Board is authorized to permit the banks notwithstanding another law) to agree that the banks will—
 
 &emsp;(1) conduct through each entire specified period open market operations in obligations of the United States Government or corporations in which the Government is the majority stockholder; and
 
@@ -42,6 +42,10 @@ In subsection (a), before clause (1), the text of 31:821(b)(matter before (1)) i
 
 In subsection (b), before clause (1), the words “(and the Board is authorized to permit the banks notwithstanding another law)” are substituted for “notwithstanding any provisions of law or rules and regulations to the contrary” for clarity. In clause (1), the words “pursuant to existing law” are omitted as surplus. The words “through each entire” are substituted for “throughout” for clarity. In clause (2), the words “in portfolio”, “or periods of time Treasury bills or other” and “in an aggregate sum of” are omitted as surplus.
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–458, title VI, §6201, Dec. 17, 2004, 118 Stat. 3745, provided that: “This subtitle \[subtitle C (§§6201–6205) of title VI of Pub. L. 108–458, amending sections 310, 5312, 5318, 5318A, 5324, and 5332 of this title, sections 1828, 1829b, and 1953 of Title 12, Banks and Banking, section 1681v of Title 15, Commerce and Trade, and section 262p–4r of Title 22, Foreign Relations and Intercourse, enacting provisions set out as a noteunder section 1828 of Title 12, amending provisions set out as notes under sections 310, 5311, and 5331 of this title and sections 1828 and 1842 of Title 12, and repealing provisions set out as a note under section 5311 of this title\] may be cited as the ‘International Money Laundering Abatement and Financial Antiterrorism Technical Corrections Act of 2004’.”
+
 #### Short Title of 2001 Amendment
 
 Pub. L. 107–56, title III, §301, Oct. 26, 2001, 115 Stat. 296, provided that: “This title \[enacting sections 310, 5318A, 5331, and 5332 of this title, section 1681v of Title 15, Commerce and Trade, and section 262p–4r of Title 22, Foreign Relations and Intercourse, amending sections 5311, 5312, 5317, 5318, 5319, 5321, 5322, 5324, 5326, 5328, 5330, and 5341 of this title, sections 248, 1828, 1829b, 1842, 1953, 3412, 3414, and 3420 of Title 12, Banks and Banking, section 1681u of Title 15, sections 470 to 474, 476 to 484, 493, 981 to 983, 1029, 1956, and 1960 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, renumbering former section 310 of this title as section 311, and enacting provisions set out as notes under sections 310, 5311, 5313, 5314, 5318, 5331, and 5332 of this title, sections 1828, 1829b, and 1842 of Title 12, and section 983 of Title 18\] may be cited as the ‘International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001’.”
@@ -53,8 +57,4 @@ Pub. L. 105–310, §1, Oct. 30, 1998, 112 Stat. 2941, provided that: “This Ac
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–325, title IV, §401, Sept. 23, 1994, 108 Stat. 2243, provided that: “This title \[enacting section 5330 of this title, amending sections 5312, 5313, 5318, 5321, 5322, and 5324 of this title, sections 93, 1464, 1772d, 1786, 1818, and 1821 of Title 12, Banks and Banking, and sections 984, 986, 1956, 1957, and 1960 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 5311, 5313, 5318, and 5330 of this title\] may be cited as the ‘Money Laundering Suppression Act of 1994’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5304 of this title.
 

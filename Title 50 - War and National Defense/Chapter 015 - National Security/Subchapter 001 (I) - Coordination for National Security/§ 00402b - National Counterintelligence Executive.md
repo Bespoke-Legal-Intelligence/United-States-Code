@@ -2,9 +2,9 @@
 
 #### (a) Establishment
 
-(1) There shall be a National Counterintelligence Executive, who shall be appointed by the President.
+(1) There shall be a National Counterintelligence Executive, who shall be appointed by the Director of National Intelligence.
 
-(2) It is the sense of Congress that the President should seek the views of the Attorney General, Secretary of Defense, and Director of Central Intelligence in selecting an individual for appointment as the Executive.
+(2) It is the sense of Congress that the Director of National Intelligence should seek the views of the Attorney General, Secretary of Defense, and Director of the Central Intelligence Agency in selecting an individual for appointment as the Executive.
 
 #### (b) Mission
 
@@ -12,7 +12,7 @@ The mission of the National Counterintelligence Executive shall be to serve as t
 
 #### (c) Duties
 
-Subject to the direction and control of the President, the duties of the National Counterintelligence Executive are as follows:
+Subject to the direction and control of the Director of National Intelligence, the duties of the National Counterintelligence Executive are as follows:
 
 &emsp;(1) To carry out the mission referred to in subsection (b) of this section.
 
@@ -20,13 +20,25 @@ Subject to the direction and control of the President, the duties of the Nationa
 
 &emsp;(3) To act as head of the Office of the National Counterintelligence Executive under section 402c of this title.
 
-&emsp;(4) To participate as an observer on such boards, committees, and entities of the executive branch as the President considers appropriate for the discharge of the mission and functions of the Executive and the Office of the National Counterintelligence Executive under section 402c of this title.
+&emsp;(4) To participate as an observer on such boards, committees, and entities of the executive branch as the Director of National Intelligence considers appropriate for the discharge of the mission and functions of the Executive and the Office of the National Counterintelligence Executive under section 402c of this title.
 
-(Pub. L. 107–306, title IX, §902, Nov. 27, 2002, 116 Stat. 2432.)
+(Pub. L. 107–306, title IX, §902, Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–458, title I, §1072(d)(1)(B), Dec. 17, 2004, 118 Stat. 3693.)
 
 #### Codification
 
 Section was enacted as part of the Counterintelligence Enhancement Act of 2002, and also as part of the Intelligence Authorization Act for Fiscal Year 2003, and not as part of the National Security Act of 1947 which comprises this chapter.
+
+#### Amendments
+
+2004—Subsec. (a)(1). Pub. L. 108–458, §1072(d)(1)(B)(i), substituted “Director of National Intelligence” for “President”.
+
+Subsec. (a)(2). Pub. L. 108–458, §1072(d)(1)(B), substituted “Director of National Intelligence” for “President” and “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+
+Subsec. (c). Pub. L. 108–458, §1072(d)(1)(B)(i), substituted “Director of National Intelligence” for “President” in two places.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Purpose
 
@@ -37,8 +49,4 @@ Pub. L. 107–306, title IX, §901(b), Nov. 27, 2002, 116 Stat. 2432, provided t
 &emsp;“(2) ensuring that the counterintelligence community of the United States Government acts in an efficient and effective manner; and
 
 &emsp;“(3) providing for the integration of all the counterintelligence activities of the United States Government.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 402a of this title.
 

@@ -30,7 +30,7 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 
 #### (2) Additional assistance
 
-&emsp;From amounts made available under section 4124(b) of this title, the Secretary may make grants to assist in the completion of sales and transfers under this section to any qualified purchasers. Any grant under this paragraph shall be in an amount not exceeding the difference between the preservation value for the housing (determined under section 4103(b)(2) of this title) and the level of assistance under paragraph (1) of this subsection.
+&emsp;From amounts made available under section 4124(b) of this title, the Secretary may make grants to assist in the completion of sales and transfers under this section to any qualified purchasers. Any grant under this paragraph shall be in an amount not exceeding the difference between the preservation value for thehousing (determined under section 4103(b)(2) of this title) and the level of assistance under paragraph (1) of this subsection.
 
 #### (3) Securing State and local funding
 
@@ -41,8 +41,4 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 #### Amendments
 
 1992—Subsec. (c). Pub. L. 102–550 substituted “than” for “that” before “the preservation”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4103, 4104, 4105, 4106, 4107, 4114, 4119, 4124 of this title.
 

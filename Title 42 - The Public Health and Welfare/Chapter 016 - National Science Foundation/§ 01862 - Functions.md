@@ -38,7 +38,7 @@ In exercising the authority and discharging the functions referred to in the for
 
 #### (f) Annual report to the President and Congress
 
-The Foundation shall render an annual report to the President for submission on or before the 15th day of April of each year to the Congress summarizing the activities of the Foundation and making such recommendations as it may deem appropriate. Such report shall include information as to the acquisition and disposition by the Foundation of any patents and patent rights.
+The Foundation shall render an annual report to the President for submission on or before the15th day of April of each year to the Congress summarizing the activities of the Foundation and making such recommendations as it may deem appropriate. Such report shall include information as to the acquisition and disposition by the Foundation of any patents and patent rights.
 
 #### (g) Support of access to computer networks
 
@@ -104,7 +104,7 @@ Subsec. (a)(8). Pub. L. 90–407 redesignated par. (8) as (6).
 
 Subsec. (a)(9). Pub. L. 90–407 struck out par. (9) which authorized the Foundation to initiate and support a program of study, research, and evaluation in the field of weather modification, with particular attention to areas experiencing floods, drought, etc., and to report annually to the President and the Congress thereon.
 
-Subsec. (b). Pub. L. 90–407 redesignated former subsec. (a)(3) as (b) and substituted provisions authorizing the Foundation to initiate and support specific scientific activities in matters related to international cooperation or national security for provisions authorizing the Foundation to initiate and support only scientific research activities, only in matters related to national defense and only when requested to do so by the Secretary of Defense, and inserted provisions specifying the manner of financing such scientific activities. Former subsec. (b) redesignated (e).
+Subsec. (b). Pub. L. 90–407 redesignated former subsec. (a)(3) as (b) and substituted provisions authorizing the Foundation to initiate and support specific scientific activities in matters related to international cooperation or national security for provisions authorizing the Foundation to initiate and support only scientific research activities, only in matters related to national defense and only when requested to do so by the Secretary of Defense, and inserted provisions specifyingthe manner of financing such scientific activities. Former subsec. (b) redesignated (e).
 
 Subsec. (c). Pub. L. 90–407 added subsec. (c). Former subsec. (c) redesignated (f).
 
@@ -128,7 +128,7 @@ Pub. L. 106–313, title I, §109, Oct. 17, 2000, 114 Stat. 1255, provided that:
 
 “(a)
 
-Study.—The National Science Foundation shall conduct a study of the divergence in access to hightechnology (commonly referred to as the ‘digital divide’) in the United States.
+Study.—The National Science Foundation shall conduct a study of the divergence in access to high technology (commonly referred to as the ‘digital divide’) in the United States.
 
 “(b)
 
@@ -202,7 +202,7 @@ Section 5 of Pub. L. 95–99 provided that:
 
 #### Establishment of “Science for Citizens Program” Conducted in Conjunction With “Public Understanding of Science Program”
 
-Section 5 of Pub. L. 94–471 provided that:
+Pub. L. 94–471, §5, Oct. 11, 1976, 90 Stat. 2054, provided that:
 
 “(a) The National Science Foundation is authorized and directed to conduct an experimental ‘Science for Citizens Program’ and an augmented Public Understanding of Science Program under which funds will be available for pilot projects to:
 
@@ -210,7 +210,7 @@ Section 5 of Pub. L. 94–471 provided that:
 
 &emsp;“(2) facilitate the participation of experienced scientists and engineers as well as graduate and undergraduate students in helping the public understand science, engineering and technology and their impact on public policies; and
 
-&emsp;“(3) assist nationally recognized professional societies and groups serving important public purposes in conducting a limited number of forums, conferences, and workshops to increase public understanding of science and technology, and of their impact on publicpolicy issues, after consideration of the following eligibility factors:
+&emsp;“(3) assist nationally recognized professional societies and groups serving important public purposes in conducting a limited number of forums, conferences, and workshops to increase public understanding of science and technology, and of their impact on public policy issues, after consideration of the following eligibility factors:
 
 &emsp;&emsp;“(A) the extent to which the proposal of the society or group will contribute to the development of facts, issues, and arguments relevant to public policy issues having significant scientific and technical aspects, and
 
@@ -220,7 +220,7 @@ Section 5 of Pub. L. 94–471 provided that:
 
 “(c) No contract, grant or other arrangement shall be made under this Section without the prior approval of the National Science Board.
 
-“(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of the National Science Foundation, in consultation with a review panel having a balanced representation from the scientific and nonscientific community and the public and private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology and the Senate Committee on Labor and Public Welfare \[now the Committee on Labor and Human Resources\], not later than October 31, 1977. An interim report is required no later than March 1, 1977.”
+“(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of the National Science Foundation, in consultation with a review panel having a balanced representation from the scientific and nonscientific community and the public and private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology and the Senate Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\], not later than October 31, 1977. An interim report is required no later than March 1, 1977.”
 
 #### Development of Program Plan for Continuing Education in Science and Engineering
 
@@ -256,7 +256,7 @@ Pub. L. 91–356, §5, July 24, 1970, 84 Stat. 471.
 
 #### Continuation of Authorization for Weather Modification Programs; Repeal
 
-Section 11(1) of Pub. L. 90–407 provided in part that the authorization for the programs initiated under former subsec. (a)(9) of this section shall continue in effect until Sept. 1, 1968 for the purposes of section 1872a of this title.
+Section 11(1) of Pub. L. 90–407 provided in part that the authorization for the programs initiated underformer subsec. (a)(9) of this section shall continue in effect until Sept. 1, 1968 for the purposes of section 1872a of this title.
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
@@ -298,13 +298,9 @@ Sec. 10. The National Science Foundation shall provide leadership in the effecti
 
 #### Executive Order No. 10807
 
-Ex. Ord. No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended Ex. Ord. No. 11381, Nov. 8, 1967, 32 F.R. 15629, which established the Federal Council for Science and Technology, provided for a chairman and membership, specified the functions of the Council, provided for assistance from other Federal agencies and the establishment of standing committees and panels, revoked Ex. Ord. No. 9912 of Dec. 24, 1947, entitled “Establishing the Interdepartmental Committee on Scientific Research and Development”, and amended Ex. Ord. No. 10521, set out above, was omitted from the Code in view of Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, set out below, which abolished the Federal Council for Science and Technology.
+Ex. Ord. No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended Ex. Ord. No. 11381, Nov. 8, 1967, 32 F.R. 15629, which established the Federal Council for Science andTechnology, provided for a chairman and membership, specified the functions of the Council, provided for assistance from other Federal agencies and the establishment of standing committees and panels, revoked Ex. Ord. No. 9912 of Dec. 24, 1947, entitled “Establishing the Interdepartmental Committee on Scientific Research and Development”, and amended Ex. Ord. No. 10521, set out above, was omitted from the Code in view of Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, set out below, which abolished the Federal Council for Science and Technology.
 
 #### Abolition of Federal Council for Science and Technology
 
 Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, provided that: “The Federal Council for Science and Technology, established pursuant to Executive Order No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended by Executive Order No. 11381, Nov. 8, 1967, 32 F.R. 15629, is hereby abolished.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1862b, 1873 of this title; title 8 section 1356; title 20 section 1067a.
 

@@ -34,7 +34,3 @@ Subsecs. (c), (d). Pub. L. 96–515, §203(b), added subsecs. (c) and (d).
 
 1976—Subsec. (a). Pub. L. 94–422, which directed amendment of subsec. (a) by deleting “Provided, however, That the amount granted to any one State shall not exceed 50 per centum of the total cost of the comprehensive statewide historic survey and plan for that State, as determined by the Secretary,” after “determined by him:”, was executed by deleting the quoted language, which did not contain a comma after “Secretary”, to reflect the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 470a of this title.
-

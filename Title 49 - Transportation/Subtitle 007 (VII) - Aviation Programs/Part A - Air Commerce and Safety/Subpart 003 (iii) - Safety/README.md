@@ -1,9 +1,5 @@
 subpart iii—safety
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 40101, 40102 of this title.
-
 
 ---
 

@@ -18,9 +18,5 @@ Section 24706(c) of this title, referred to in subsec. (a), was repealed by Pub.
 
 Provisions similar to those in this section were contained in section 11347 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5333, 10903, 11324, 11327 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

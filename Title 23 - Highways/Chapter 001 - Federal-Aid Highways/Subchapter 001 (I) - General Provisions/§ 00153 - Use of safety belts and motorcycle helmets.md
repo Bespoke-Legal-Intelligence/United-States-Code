@@ -158,7 +158,7 @@ Section 205(e) of Pub. L. 104–59 provided that the amendment made by that sect
 
 #### Effective Date
 
-Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of this title.
+Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available afterSept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of this title.
 
 #### Study of Benefits of Safety Belts and Motorcycle Helmets to Individuals Involved in Crashes
 
@@ -175,10 +175,6 @@ Report.—The Secretary shall make public a proposed report on the results of th
 “(3)
 
 Funding.—Of the amounts authorized to be appropriated for fiscal year 1992 or 1993 (or both) to carry out section 153 of title 23, United States Code, the Secretary shall make available $5,000,000 in the aggregate in such fiscal years to carry out this subsection. Such funds shall remain available until expended.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 31104.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

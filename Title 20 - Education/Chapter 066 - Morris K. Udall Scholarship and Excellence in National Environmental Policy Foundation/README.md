@@ -21,7 +21,7 @@
 | (b) | Investment of Trust Fund assets. |
 | [5607\.](%C2%A7%2005607%20-%20Expenditures%20and%20audit%20of%20Trust%20Fund.md) | Expenditures and audit of Trust Fund. |
 | (a) | In general. |
-| (b) | Audit by General Accounting Office. |
+| (b) | Audit by Government Accountability Office. |
 | [5607a.](%C2%A7%2005607a%20-%20Environmental%20Dispute%20Resolution%20Fund.md) | Environmental Dispute Resolution Fund. |
 | (a) | Establishment. |
 | (b) | Expenditures. |

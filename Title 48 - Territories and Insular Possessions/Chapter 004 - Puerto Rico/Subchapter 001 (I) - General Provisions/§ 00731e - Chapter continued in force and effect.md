@@ -12,7 +12,3 @@ This chapter, referred to in text, was in the original “the Act entitled ‘An
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 731b, 731c, 731d of this title.
-

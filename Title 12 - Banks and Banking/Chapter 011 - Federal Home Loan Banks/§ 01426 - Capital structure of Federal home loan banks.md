@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The leverage requirement shall require each Federal home loan bank to maintain a minimum amount of total capital based on the total assets of the bank and shall be 5 percent.
+&emsp;&emsp;The leverage requirement shall require each Federal home loan bank to maintain a minimum amount of total capital based onthe total assets of the bank and shall be 5 percent.
 
 #### (B) Treatment of stock and retained earnings
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;(ii) the amounts paid for the Class A stock;
 
-&emsp;&emsp;&emsp;(iii) consistent with generally accepted accounting principles, and subject to the regulation of the Finance Board, a generalallowance for losses, which may not include any reserves or allowances made or held against specific assets; and
+&emsp;&emsp;&emsp;(iii) consistent with generally accepted accounting principles, and subject to the regulation of the Finance Board, a general allowance for losses, which may not include any reserves or allowances made or held against specific assets; and
 
 &emsp;&emsp;&emsp;(iv) any other amounts from sources available to absorb losses incurred by the bank that the Finance Board determines by regulation to be appropriate to include in determining total capital.
 
@@ -158,7 +158,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 &emsp;The capital structure plan of a Federal home loan bank shall—
 
-&emsp;&emsp;(A) provide that any stock issued by that bank shall be available only to and held only by members of that bank and tradable only between that bank and its members; and
+&emsp;&emsp;(A) provide that any stock issued by that bank shall be available only to and held onlyby members of that bank and tradable only between that bank and its members; and
 
 &emsp;&emsp;(B) establish standards, criteria, and requirements for the issuance, purchase, transfer, retirement, and redemption of stock issued by that bank.
 
@@ -272,7 +272,7 @@ Subsec. (e). Pub. L. 101–73, §710(b)(3), which directed amendment of subsec. 
 
 Pub. L. 101–73, §710(b)(2), struck out “or nonmember borrower” after “such member” wherever appearing.
 
-Pub. L. 101–73, §706(2), substituted “If any member's membership in a Federal Home Loan Bank is terminated, the indebtedness of such member to the FederalHome Loan Bank shall be liquidated in an orderly manner (as determined by the Federal Home Loan Bank), and upon completion of such liquidation, the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled. Any such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties or other fees applicable to such prepayment.” for “In any such case, the indebtedness of such member or nonmember borrower to the Federal Home Loan Bank shall be liquidated, and the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled, except that in the case of a voluntary withdrawal, such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties applicable to such prepayment.”
+Pub. L. 101–73, §706(2), substituted “If any member's membership in a Federal Home Loan Bank is terminated, the indebtedness of such member to the Federal Home Loan Bank shall be liquidated in an orderly manner (as determined by the Federal Home Loan Bank), and upon completion of such liquidation, the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled. Any such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties or other fees applicable to such prepayment.” for “In any such case, the indebtedness of such member or nonmember borrower to the Federal Home Loan Bank shall be liquidated, and the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled, except that in the case of a voluntary withdrawal, such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties applicable to such prepayment.”
 
 Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (i) as (e), substituted “Board” for “board” wherever appearing, and struck out former subsec. (e) which related to loans to institutions not authorized to subscribe to stock.
 
@@ -292,7 +292,7 @@ Subsec. (m). Pub. L. 101–73, §706(1), redesignated former subsec. (m) as (h).
 
 1983—Subsec. (m). Pub. L. 97–457 substituted “banks or in connection with obtaining a charter from the Federal Home Loan Bank Board” for “Banks” after “between”.
 
-1982—Subsec. (c)(2). Pub. L. 97–320, §353, struck out cl. (i) limitations which had prohibited members from reducing stock to less than the amount held on Sept. 8, 1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction was made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board; and reenacted cl. (ii) limitations as par. (2), substituting “the Board defining such term” for “said Board defining said term”.
+1982—Subsec. (c)(2). Pub. L. 97–320, §353, struck out cl. (i) limitations which had prohibited members from reducing stock to less than the amount held on Sept. 8,1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction was made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board; and reenacted cl. (ii) limitations as par. (2), substituting “the Board defining such term” for “said Board defining said term”.
 
 Subsec. (i). Pub. L. 97–320, §355(a), provided for treatment of a liquidation of indebtedness, in the case of a voluntary withdrawal of an institution from membership, as a prepayment of the indebtedness, subject to applicable prepayment penalties.
 

@@ -16,7 +16,3 @@ It shall be unlawful for any handler knowingly to engage or permit any employee 
 
 (Pub. L. 90–288, §4, Apr. 16, 1968, 82 Stat. 94.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2305 of this title.
-

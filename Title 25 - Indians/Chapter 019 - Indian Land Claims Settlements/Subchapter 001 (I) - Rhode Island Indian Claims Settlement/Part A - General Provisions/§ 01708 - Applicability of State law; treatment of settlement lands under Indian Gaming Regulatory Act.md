@@ -18,7 +18,3 @@ The Indian Gaming Regulatory Act, referred to in subsec. (b), is Pub. L. 100–4
 
 1996—Pub. L. 104–208 substituted “Applicability of State law; treatment of settlement lands under Indian Gaming Regulatory Act” for “Applicability of State law” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1702 of this title.
-

@@ -6,7 +6,7 @@ Experts and consultants or organizations thereof may as authorized by section 31
 
 #### (b) Exemption from certain Federal laws
 
-Service of an individual as an expert or consultant under subsection (a) of this section shallnot be considered as employment or holding of office or position bringing such individual within the provisions of section 3323(a) of title 5.
+Service of an individual as an expert or consultant under subsection (a) of this section shall not be considered as employment or holding of office or position bringing such individual within the provisions of section 3323(a) of title 5.
 
 #### (c) Employment without compensation of persons of outstanding experience and ability
 
@@ -47,8 +47,4 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2396 of this title.
 

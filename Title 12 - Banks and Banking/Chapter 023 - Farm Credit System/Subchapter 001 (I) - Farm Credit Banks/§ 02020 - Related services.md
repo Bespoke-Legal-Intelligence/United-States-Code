@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Farm Credit Banks may provide technical assistance to borrowers, members, and applicants from the bank and associations in the district, including persons obligated on paper discounted by the bank, and may make available to them at their option such financial related services appropriate to their on-farm and aquatic operations as determined to be feasible by theboard of directors of the bank, under regulations of the Farm Credit Administration.
+The Farm Credit Banks may provide technical assistance to borrowers, members, and applicants from the bank and associations in the district, including persons obligated on paper discounted by the bank, and may make available to them at their option such financial related services appropriate to their on-farm and aquatic operations as determined to be feasible by the board of directors of the bank, under regulations of the Farm Credit Administration.
 
 #### (b) Authority to pass along cost of insurance premiums
 
@@ -48,7 +48,7 @@ Subsec. (b)(3). Pub. L. 101–220, §6(b)(2)(C), added par. (3).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–171, title V, §5403(b), May 13, 2002, 116 Stat. 351, provided that: “The amendments made by this section \[amending this section and sections 2277a–4 and 2277a–5 of this title\] shall apply with respect to determinations of premiums for calendar year 2002 and for any succeeding calendar year, and to certified statements with respect to such premiums.”
+Pub. L. 107–171, title V, §5403(b), May 13, 2002, 116 Stat. 351, provided that: “The amendments made bythis section \[amending this section and sections 2277a–4 and 2277a–5 of this title\] shall apply with respect to determinations of premiums for calendar year 2002 and for any succeeding calendar year, and to certified statements with respect to such premiums.”
 
 #### Effective Date of 1989 Amendment
 
@@ -57,8 +57,4 @@ Section 6(c) of Pub. L. 101–220 provided that: “The amendments made by subse
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2277a–4 of this title.
 

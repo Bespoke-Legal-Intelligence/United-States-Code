@@ -16,7 +16,7 @@ In this part:
 
 #### (3) Lawsuit
 
-&emsp;The term “lawsuit” means the action in the United States District Court for the SouthernDistrict of Florida, entitled Miccosukee Tribe of Indians of Florida v. State of Florida and Florida Department of Transportation, et al., docket No. 6285–Civ–Paine.
+&emsp;The term “lawsuit” means the action in the United States District Court for the Southern District of Florida, entitled Miccosukee Tribe of Indians of Florida v. State of Florida and Florida Department of Transportation, et al., docket No. 6285–Civ–Paine.
 
 #### (4) Miccosukee lands
 

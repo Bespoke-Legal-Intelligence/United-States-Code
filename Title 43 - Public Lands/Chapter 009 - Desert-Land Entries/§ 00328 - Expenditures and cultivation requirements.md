@@ -14,7 +14,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 321, 322, 323, 324, 326, 329, 333, 641, 1303 of this title; title 16 section 460iii–2.
-

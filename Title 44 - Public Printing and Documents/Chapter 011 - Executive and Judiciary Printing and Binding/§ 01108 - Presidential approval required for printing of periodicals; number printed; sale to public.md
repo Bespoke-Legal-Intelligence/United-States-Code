@@ -16,7 +16,3 @@ Based on 44 U.S. Code, 1964 ed., §220 (May 11, 1922, ch. 189, §1, 42 Stat. 541
 
 Authority of President under this section to approve use, from appropriations available for printing and binding, of such sums as are necessary for printing of journals, magazines, periodicals, and similar publications delegated to Director of Office of Management and Budget, see section 9(7) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3714b; title 35 section 2.
-

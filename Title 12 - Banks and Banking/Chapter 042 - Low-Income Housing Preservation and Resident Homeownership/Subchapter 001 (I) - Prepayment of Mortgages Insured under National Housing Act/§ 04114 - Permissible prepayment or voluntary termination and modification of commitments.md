@@ -30,7 +30,3 @@ When providing rental assistance under section 1437f of title 42, the Secretary 
 
 (Pub. L. 100–242, title II, §224, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4265.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4101, 4105 of this title.
-

@@ -6,7 +6,7 @@ The Administrator is authorized to determine, settle, compromise, and pay claims
 
 #### (b) Authorization to bring legal proceedings; representation; supervision by Attorney General
 
-The Administrator may, in the name of the United States, under the supervision of the Attorney General, bring such suits at law or in equity as in his judgment may be necessary to carry out the purposes of this chapter; and he shall be represented in the prosecution and defense of all litigation, affecting the status or operation of Bonneville project by the United States attorneys for the districts, respectively, in which such litigation may arise, or by such attorney or attorneys as the Attorney General may designate as authorized by law, in conjunction with the regularly employed attorneys of the Administrator.
+The Administrator may, in the name of the United States, under the supervision of the Attorney General, bring such suits at law or in equity as in his judgment may be necessary to carry out the purposes of this chapter; and he shall be represented in the prosecution and defense of all litigation, affecting the status or operation of Bonneville project by the United States attorneys for the districts, respectively, in which such litigation may arise, or by such attorney or attorneys as the Attorney Generalmay designate as authorized by law, in conjunction with the regularly employed attorneys of the Administrator.
 
 (Aug. 20, 1937, ch. 720, §12, 50 Stat. 736; Oct. 23, 1945, ch. 433, §6, 59 Stat. 547; July 26, 1946, ch. 673, 60 Stat. 701.)
 
@@ -19,8 +19,4 @@ The Administrator may, in the name of the United States, under the supervision o
 #### Transfer of Functions
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 838i of this title.
 

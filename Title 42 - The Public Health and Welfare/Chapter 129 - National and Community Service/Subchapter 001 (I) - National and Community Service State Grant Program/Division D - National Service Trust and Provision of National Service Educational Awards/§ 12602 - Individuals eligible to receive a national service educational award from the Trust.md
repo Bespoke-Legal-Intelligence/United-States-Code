@@ -91,7 +91,3 @@ A prior section 146 of Pub. L. 101–610 was classified to section 12576 of this
 
 1994—Subsec. (a)(3). Pub. L. 103–304 struck out second par. (3) which read as follows: “has received a high school diploma, or the equivalent of such diploma, at the time the individual uses the national service educational award, unless this requirement has been waived based on an individual education assessment conducted by the program; and”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12595, 12601, 12603, 12604, 12618 of this title.
-

@@ -18,11 +18,11 @@ Congress finds that—
 
 (Pub. L. 105–58, §2, Oct. 9, 1997, 111 Stat. 1261.)
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–199, div. F, title V, §544(a), Jan. 23, 2004, 118 Stat. 347, provided that: “This section \[amending sections 450ss–1 to 450ss–3 and 450ss–5 of this title, repealing sections 450ss–4, 450ss–6, and 450ss–7 of this title, and enacting provisions set out as notes under sections 450ss–3 and 450ss–4 of this title\] may be cited as the ‘Oklahoma City National Memorial Act Amendments of 2003’.”
+
 #### Short Title
 
 Section 1 of Pub. L. 105–58 provided that: “This Act \[enacting this section and sections 450ss–1 to 450ss–7 of this title\] may be cited as the ‘Oklahoma City National Memorial Act of 1997’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450ss–1, 450ss–2, 450ss–3, 450ss–4, 450ss–5, 450ss–7 of this title.
 

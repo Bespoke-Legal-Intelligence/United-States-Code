@@ -24,7 +24,7 @@
 
 &emsp;(C) the conviction was overturned on appeal.
 
-(3) A removal required under this section shall occur on the date specified in subsection (b) regardless of whether the notice required underparagraph (1) of this subsection and the procedures made applicable under paragraph (2) of this subsection have been provided or completed by that date.
+(3) A removal required under this section shall occur on the date specified in subsection (b) regardless of whether the notice required under paragraph (1) of this subsection and the procedures made applicable under paragraph (2) of this subsection have been provided or completed by that date.
 
 (Added Pub. L. 106–554, §1(a)(3) \[title VI, §639(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–168.)
 

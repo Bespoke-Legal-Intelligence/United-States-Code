@@ -2,7 +2,7 @@
 
 #### (a) Revision and republication
 
-Within one hundred and eighty days after December 11, 1980, the President shall, after notice and opportunity for public comments, revise and republish the national contingency plan for the removal of oil and hazardous substances, originally prepared and published pursuant to section 1321 of title 33, to reflect and effectuate the responsibilities and powers created by this chapter, in addition to those matters specified in section 1321(c)(2) <sup>1</sup> of title 33. Such revision shall include a section of the plan to be known as the national hazardous substance response plan which shall establish procedures and standardsfor responding to releases of hazardous substances, pollutants, and contaminants, which shall include at a minimum:
+Within one hundred and eighty days after December 11, 1980, the President shall, after notice and opportunity for public comments, revise and republish the national contingency plan for the removal of oil and hazardous substances, originally prepared and published pursuant to section 1321 of title 33, to reflect and effectuate the responsibilities and powers created by this chapter, in addition to those matters specified in section 1321(c)(2) <sup>1</sup> of title 33. Such revision shall include a section of the plan to be known as the national hazardous substance response plan which shall establish procedures and standards for responding to releases of hazardous substances, pollutants, and contaminants, which shall include at a minimum:
 
 &emsp;(1) methods for discovering and investigating facilities at which hazardous substances have been disposed of or otherwise come to be located;
 
@@ -20,7 +20,7 @@ Within one hundred and eighty days after December 11, 1980, the President shall,
 
 &emsp;(8)(A) criteria for determining priorities among releases or threatened releases throughout the United States for the purpose of taking remedial action and, to the extent practicable taking into account the potential urgency of such action, for the purpose of taking removal action. Criteria and priorities under this paragraph shall be based upon relative risk or danger to public health or welfare or the environment, in the judgment of the President, taking into account to the extent possible the population at risk, the hazard potential of the hazardous substances at such facilities, the potential for contamination of drinking water supplies, the potential for direct human contact, the potential for destruction of sensitive ecosystems, the damage to natural resources which may affect the human food chain and which is associated with any release or threatened release, the contamination or potential contamination of the ambient air which is associated with the release or threatened release, State preparedness to assume State costs and responsibilities, and other appropriate factors;
 
-&emsp;(B) based upon the criteria set forth in subparagraph (A) of this paragraph, the President shall list as part of the plan national priorities among the known releases or threatened releases throughout the United States and shall revise the list no less often than annually. Within one year after December 11, 1980, and annually thereafter, each State shall establish and submit for consideration by the President priorities for remedial action among known releases and potential releases in that State based upon the criteria set forth in subparagraph (A) of this paragraph. In assembling or revising the national list, the President shall consider any priorities established by the States. To the extent practicable, the highest priority facilities shall be designated individually and shall be referred to as the “top priority among known response targets”, and, to the extent practicable, shall include among the one hundred highest priority facilities one such facility from each State which shall be the facility designated by the State as presenting the greatest danger to public health or welfare or the environment among the known facilities in such State. A State shall be allowed to designate its highest priority facility only once. Other priority facilities or incidents may be listed singly or grouped for response priority purposes;
+&emsp;(B) based upon the criteria set forth in subparagraph (A) of this paragraph, the President shall list as part of the plan national priorities among the known releases or threatened releases throughout the United States and shall revise the list no less often than annually. Within one year after December 11, 1980, and annually thereafter, each State shall establish and submit for consideration by the President priorities for remedial action among known releases and potential releases in that State based upon the criteria set forth in subparagraph (A) of this paragraph. In assembling or revising the national list, the President shall consider any priorities established by theStates. To the extent practicable, the highest priority facilities shall be designated individually and shall be referred to as the “top priority among known response targets”, and, to the extent practicable, shall include among the one hundred highest priority facilities one such facility from each State which shall be the facility designated by the State as presenting the greatest danger to public health or welfare or the environment among the known facilities in such State. A State shall be allowed to designate its highest priority facility only once. Other priority facilities or incidents may be listed singly or grouped for response priority purposes;
 
 &emsp;(9) specified roles for private organizations and entities in preparation for response and in responding to releases of hazardous substances, including identification of appropriate qualifications and capacity therefor and including consideration of minority firms in accordance with subsection (f) of this section; and
 
@@ -56,7 +56,7 @@ Any person who is, or may be, affected by a release or threatened release of a h
 
 #### (e) Releases from earlier sites
 
-Whenever there has been, after January 1, 1985, a significant release of hazardous substances or pollutants or contaminants from a site which is listed by the President as a “Site Cleaned Up To Date” on the National Priorities List (revised edition, December 1984) the site shall be restored to the National Priorities List, without application of the hazard ranking system.
+Whenever there has been, after January 1, 1985, a significant release of hazardous substances or pollutants or contaminants from asite which is listed by the President as a “Site Cleaned Up To Date” on the National Priorities List (revised edition, December 1984) the site shall be restored to the National Priorities List, without application of the hazard ranking system.
 
 #### (f) Minority contractors
 
@@ -86,7 +86,7 @@ In awarding contracts under this chapter, the President shall consider the avail
 
 #### (4) Information gathering and analysis
 
-&emsp;Nothing in this chapter shall be construed to preclude the expenditure of monies from theFund for gathering and analysis of information which will enable the President to consider the specific factors required by paragraph (2).
+&emsp;Nothing in this chapter shall be construed to preclude the expenditure of monies from the Fund for gathering and analysis of information which will enable the President to consider the specific factors required by paragraph (2).
 
 #### (h) NPL deferral
 
@@ -149,10 +149,6 @@ Subsec. (a)(9). Pub. L. 99–499, §105(a)(4), inserted “and including conside
 Subsec. (a)(10). Pub. L. 99–499, §105(a)(5), added par. (10).
 
 Subsecs. (b) to (g). Pub. L. 99–499, §105(b), added subsecs. (b) to (g).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9601, 9604, 9607, 9611, 9616, 9620, 9622, 9626, 9651, 11003 of this title; title 26 sections 198, 468; title 33 section 2701; title 49 sections 5102, 5115.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -84,9 +84,5 @@ Rolling Grant Application Periods.—In establishing the program under this part
 
 (Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2946.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5353 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “represents”.</i>
 

@@ -18,7 +18,3 @@ Under authority of Ex. Ord. No. 9577, June 29, 1945, Secretary of Agriculture co
 
 Federal Crop Insurance Corporation consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of war, see Ex. Ord. No. 9069.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1502 of this title.
-

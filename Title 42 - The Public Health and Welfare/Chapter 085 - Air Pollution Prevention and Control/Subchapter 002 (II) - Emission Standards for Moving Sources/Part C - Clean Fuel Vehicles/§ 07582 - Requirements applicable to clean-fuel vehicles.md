@@ -6,7 +6,7 @@ Not later than 24 months after November 15, 1990, the Administrator shall promul
 
 #### (b) Other requirements
 
-Clean-fuel vehicles of up to 8,500 gvwr subject to standards set forth in this part shall comply with all motor vehicle requirements of this subchapter (such as requirements relating to on-board diagnostics, evaporative emissions, etc.) which are applicable to conventional gasoline-fueled vehicles of the same category and model year, except as provided in section 7584 of this title with respect to administration and enforcement, and except to the extent that any such requirement is in conflict with the provisions of this part. Clean-fuel vehicles of 8,500 gvwr or greater subject to standards set forth in this part shall comply with all requirements of this subchapter which are applicable in the case of conventional gasoline-fueled or diesel fueled vehicles of the same category and model year, except as provided in section 7584 of this title with respect to administration and enforcement, and except to the extent that any such requirement is in conflict with the provisions of this part.
+Clean-fuel vehicles of up to 8,500 gvwr subject to standards set forth in this part shall comply with all motor vehicle requirements of this subchapter (such as requirements relating to on-board diagnostics, evaporative emissions, etc.) which are applicable to conventional gasoline-fueled vehicles of the same category and model year, except as provided in section 7584 of this title with respect to administration and enforcement, and except to the extent that any such requirement is in conflict with the provisions of this part. Clean-fuel vehicles of 8,500 gvwr or greater subject to standards set forth in this part shall comply with all requirements of thissubchapter which are applicable in the case of conventional gasoline-fueled or diesel fueled vehicles of the same category and model year, except as provided in section 7584 of this title with respect to administration and enforcement, and except to the extent that any such requirement is in conflict with the provisions of this part.
 
 #### (c) In-use useful life and testing
 
@@ -23,8 +23,4 @@ Clean-fuel vehicles of up to 8,500 gvwr subject to standards set forth in this p
 &emsp;(B) a period of 11 years or 120,000 miles (or the equivalent) whichever first occurs in the case of standards applicable for purposes of certification at 120,000 miles, except that in-use testing shall not be done for a period beyond 7 years or 90,000 miles (or the equivalent) whichever first occurs.
 
 (July 14, 1955, ch. 360, title II, §242, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2513.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7583, 7587 of this title.
 

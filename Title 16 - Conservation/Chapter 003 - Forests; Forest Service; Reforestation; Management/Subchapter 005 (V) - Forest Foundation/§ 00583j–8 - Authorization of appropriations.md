@@ -14,7 +14,3 @@ For the purposes of section 583j–3 of this title, during the five-year period 
 
 1993—Subsec. (b). Pub. L. 103–106 substituted “beginning October 1, 1992” for “following November 16, 1990”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 583j–3 of this title.
-

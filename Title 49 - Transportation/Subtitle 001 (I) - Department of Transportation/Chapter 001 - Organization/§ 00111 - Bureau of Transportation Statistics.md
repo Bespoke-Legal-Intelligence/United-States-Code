@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—There is established in the Department of Transportation a Bureau of Transportation Statistics.
+Establishment.—There is established in the Research and Innovative Technology Administration a Bureau of Transportation Statistics.
 
 (b)
 
@@ -10,19 +10,11 @@ Director.—
 
 &emsp;(1)
 
-Appointment.—The Bureau shall be headed by a Director who shall be appointed by the President, by and with the advice and consent of the Senate.
+Appointment.—The Bureau shall be headed by a Director who shall be appointed in the competitive service by the Secretary.
 
 &emsp;(2)
 
 Qualifications.—The Director shall be appointed from among individuals who are qualified to serve as the Director by virtue of their training and experience in the compilation and analysis of transportation statistics.
-
-&emsp;(3)
-
-Reporting.—The Director shall report directly to the Secretary.
-
-&emsp;(4)
-
-Term.—The term of the Director shall be 4 years. The Director may continue to serveafter the expiration of the term until a successor is appointed and confirmed.
 
 (c)
 
@@ -216,7 +208,7 @@ Transportation Statistics Annual Report.—The Director shall transmit to the Pr
 
 Proceeds of Data Product Sales.—Notwithstanding section 3302 of title 31, United States Code, funds received by the Bureau from the sale of data products, for necessary expenses incurred, may be credited to the Highway Trust Fund (other than the Mass Transit Account) for the purpose of reimbursing the Bureau for the expenses.
 
-(Added Pub. L. 102–240, title VI, §6006(a), Dec. 18, 1991, 105 Stat. 2172; amended Pub. L. 104–287, §5(2), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–324, title XI, §1131, Oct. 19, 1996, 110 Stat. 3985; Pub. L. 105–130, §4(b)(1), Dec. 1, 1997, 111 Stat. 2556;Pub. L. 105–178, title V, §5109(a), June 9, 1998, 112 Stat. 437.)
+(Added Pub. L. 102–240, title VI, §6006(a), Dec. 18, 1991, 105 Stat. 2172; amended Pub. L. 104–287, §5(2), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–324, title XI, §1131, Oct. 19, 1996, 110 Stat. 3985; Pub. L. 105–130, §4(b)(1), Dec. 1, 1997, 111 Stat. 2556; Pub. L. 105–178, title V, §5109(a), June 9, 1998, 112 Stat. 437; Pub. L. 108–426, §3(a), (b), Nov. 30, 2004, 118 Stat. 2424, 2425.)
 
 #### References in Text
 
@@ -225,6 +217,20 @@ The Government Performance and Results Act of 1993, referred to in subsec. (c)(2
 Executive Order No. 12906, referred to in subsec. (g)(1)(C), is set out as a note under section 1457 of Title 43, Public Lands.
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–426, §3(a), substituted “in the Research and Innovative Technology Administration” for “in the Department of Transportation”.
+
+Subsec. (b)(1). Pub. L. 108–426, §3(b)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Bureau shall be headed by a Director who shall be appointed by the President, by and with the advice and consent of the Senate.”
+
+Subsec. (b)(3), (4). Pub. L. 108–426, §3(b)(2), struck out heading and text of pars. (3) and (4) which read as follows:
+
+“(3)
+
+Reporting.—The Director shall report directly to the Secretary.
+
+“(4)
+
+Term.—The term of the Director shall be 4 years. The Director may continue to serve after the expiration of the term until a successor is appointed and confirmed.”
 
 1998—Subsec. (b)(4). Pub. L. 105–178, §5109(a)(1), struck out after first sentence “The term of the first Director to be appointed shall begin on the 180th day after December 18, 1991.”
 
@@ -266,7 +272,7 @@ Subsec. (g). Pub. L. 104–287 substituted “December 18, 1991” for “the da
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 7th item on page 138 identifies a report to Congress in a provision which, as subsequently amended, is contained in subsec. (j) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 7th item on page 138 identifies a report to Congress in a provision which, as subsequently amended, is contained in subsec. (j) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Office of Airline Information
 
@@ -306,7 +312,7 @@ Establishment.—The Director of the Bureau of Transportation Statistics shall e
 
 “(b)
 
-Function.—It shall be the function of the advisory council established under this section to advisethe Director of the Bureau of Transportation Statistics on transportation statistics and analyses, including whether or not the statistics and analysis disseminated by the Bureau of Transportation Statistics are of high quality and are based upon the best available objective information.
+Function.—It shall be the function of the advisory council established under this section to advise the Director of the Bureau of Transportation Statistics on transportation statistics and analyses, including whether or not the statistics and analysis disseminated by the Bureau of Transportation Statistics are of high quality and are based upon the best available objective information.
 
 “(c)
 

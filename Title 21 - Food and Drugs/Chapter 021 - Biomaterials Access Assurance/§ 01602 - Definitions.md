@@ -24,11 +24,11 @@ As used in this chapter:
 
 #### (B) Action brought on behalf of an estate
 
-&emsp;&emsp;With respect to an action brought on behalf of or through the estate of a deceasedindividual into whose body, or in contact with whose blood or tissue the implant was placed, such term includes the decedent that is the subject of the action.
+&emsp;&emsp;With respect to an action brought on behalf of or through the estate of a deceased individual into whose body, or in contact with whose blood or tissue the implant was placed, such term includes the decedent that is the subject of the action.
 
 #### (C) Action brought on behalf of a minor or incompetent
 
-&emsp;&emsp;With respect to an action brought on behalf of or through a minor or incompetent, such term includes the parent or guardian of the minor or incompetent.
+&emsp;&emsp;With respect to an action brought on behalf of or through a minor or incompetent,such term includes the parent or guardian of the minor or incompetent.
 
 #### (D) Exclusions
 

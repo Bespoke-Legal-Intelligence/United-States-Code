@@ -10,13 +10,9 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-2002—Pub. L. 107–171 substituted “as described in subsections (b), (c), and (d) of section 1308 of this title” for “as described in paragraphs (1) and (2) of section 1308 of this title”.
+2002—Pub. L. 107–171 substituted “as described in subsections (b), (c), and (d) of section 1308 of this title” for“as described in paragraphs (1) and (2) of section 1308 of this title”.
 
 #### Effective Date
 
 Section 1304(b) of Pub. L. 100–203 provided that this section is effective beginning with the 1989 crops.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1308, 1308–4, 7215, 7996 of this title.
 

@@ -8,7 +8,3 @@ After June 25, 1910, no entry shall be made and no entryman shall be permitted t
 
 Section comprises part of section 5 of act June 25, 1910, as amended by acts Feb. 18, 1911 and Aug. 13, 1914. Remainder of section 5 is set out as section 437 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 447 of this title.
-

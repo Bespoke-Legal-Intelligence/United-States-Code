@@ -12,7 +12,7 @@
 
 &emsp;(C) four members from the public sector, no more than two of whom shall be of the same political party, to be appointed in the manner provided in paragraph (4).
 
-(3) The President shall appoint six judges and one State court administrator from a list of candidates submitted to the President by the Conference of Chief Justices. The Conference of Chief Justices shall submit a list of at least fourteen individuals, including judges and State court administrators, whom the Conference considers best qualified to serve on the Board.Whenever the term of any of the members of the Board described in subparagraphs (A) and (B) terminates and that member is not to be reappointed to a new term, and whenever a vacancy otherwise occurs among those members, the President shall appoint a new member from a list of three qualified individuals submitted to the President by the Conference of Chief Justices. The President may reject any list of individuals submitted by the Conference under this paragraph and, if such a list is so rejected, the President shall request the Conference to submit to him another list of qualified individuals. Prior to consulting with or submitting a list to the President, the Conference of Chief Justices shall obtain and consider the recommendations of all interested organizations and individuals concerned with the administration of justice and the objectives of this chapter.
+(3) The President shall appoint six judges and one State court administrator from a list of candidates submitted to the President by the Conference of Chief Justices. The Conference of Chief Justices shall submit a list of at least fourteen individuals, including judges and State court administrators, whom the Conference considers best qualified to serve on the Board. Whenever the term of any of the members of the Board described in subparagraphs (A) and (B) terminates and that member is not to be reappointed to a new term, and whenever a vacancy otherwise occurs among those members, the President shall appoint a new member from a list of three qualified individuals submitted to the President by the Conference of Chief Justices. The President may reject any list of individuals submitted by the Conference under this paragraph and, if such a list is so rejected, the President shall request the Conference to submit to him another list of qualified individuals. Prior to consulting with or submitting a list to the President, the Conference of Chief Justices shall obtain and consider the recommendations of all interested organizations and individuals concerned with the administration of justice and the objectives of this chapter.
 
 (4) In addition to those members appointed under paragraph (3), the President shall appoint four members from the public sector to serve on the Board.
 
@@ -58,7 +58,7 @@ Regular meetings of the Board shall be held quarterly. Special meetings shall be
 
 #### (j) Open meetings
 
-All meetings of the Board, any executive committee of the Board, and any council established in connection with this chapter, shall be open and subject to the requirements and provisions of section 552b of title 5 relating to open meetings.
+All meetings of the Board, any executive committee of the Board (on any occasion on which that committee has been delegated the authority to act on behalf of the Board), and any council established in connection with this chapter, shall be open and subject to the requirements and provisions of section 552b of title 5 relating to open meetings.
 
 #### (k) Duties and functions of Board
 
@@ -76,17 +76,15 @@ In its direction and supervision of the activities of the Institute, the Board s
 
 &emsp;(6) award grants and enter into cooperative agreements or contracts pursuant to section 10705(a) of this title.
 
-(Pub. L. 98–620, title II, §204, Nov. 8, 1984, 98 Stat. 3337; Pub. L. 102–572, title VIII, §803(a), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 98–620, title II, §204, Nov. 8, 1984, 98 Stat. 3337; Pub. L. 102–572, title VIII, §803(a), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 108–372, §3(c), Oct. 25, 2004, 118 Stat. 1754.)
 
 #### Amendments
+
+2004—Subsec. (j). Pub. L. 108–372 inserted “(on any occasion on which that committee has been delegated the authority to act on behalf of the Board)” after “executive committee of the Board”.
 
 1992—Subsec. (a)(3). Pub. L. 102–572 substituted “Conference” for “conference” after “whom the” in second sentence.
 
 #### Effective Date of 1992 Amendment
 
 Section 804 of title VIII of Pub. L. 102–572 provided that: “The provisions of this title \[amending this section and sections 10705 and 10713 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 29, 1992\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10702 of this title.
 

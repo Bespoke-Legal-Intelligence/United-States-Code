@@ -4,7 +4,3 @@ The Comptroller General of the United States, or any of his duly authorized repr
 
 (Pub. L. 92–257, §6, Mar. 21, 1972, 86 Stat. 88.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1688, 1690 of this title.
-

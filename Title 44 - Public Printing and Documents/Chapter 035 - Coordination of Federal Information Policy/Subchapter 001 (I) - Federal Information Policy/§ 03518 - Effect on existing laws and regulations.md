@@ -64,9 +64,5 @@ Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see sectio
 
 Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3502 of this title; title 5 section 601.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

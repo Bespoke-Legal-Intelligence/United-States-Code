@@ -56,13 +56,9 @@ Subsecs. (d) and (e). Pub. L. 102–575, §4009(3), added subsec. (d), relating 
 
 1980—Subsec. (a). Pub. L. 96–515, §202(a), (b), in par. (3) substituted provision directing that no grant be made for more than 50 per centum of the aggregate cost of carrying out projects and programs specified in section 470a(d)(1) and (2) of this title in any one fiscal year, except that for costs of State or local historic surveys or inventories the Secretary provide 70 per centum of the aggregate cost involved in any one fiscal year for provision directing that no grant be made for more than 50 per centum of the total cost involved, as determined by the Secretary, which determination was to be final, and inserted provision following cl. (6), that, except as otherwise permitted, the State share of the costs referred to in par. (3) be contributed by non-Federal sources and no grant made be treated as taxable income.
 
-Subsec. (c). Pub. L. 96–515, §202(c), struck out subsec. (c) which authorized the Secretary in his discretion to waive the requirements of subsec. (a)(3) of this section for the purposes of making grants for the preparation of statewide historic preservation plans and surveys and project plans and restricted any grant made pursuant to this subsection to not to exceed 70 per centum of the cost of the project, with the total cost of grants made pursuant to this subsection in any fiscal year not to exceed one-half of the funds appropriated for that fiscal year pursuant to section 470h of this title.
+Subsec. (c). Pub. L. 96–515, §202(c), struck out subsec. (c) which authorized the Secretary in his discretion to waive the requirements of subsec. (a)(3) of this section for the purposes of making grants for the preparationof statewide historic preservation plans and surveys and project plans and restricted any grant made pursuant to this subsection to not to exceed 70 per centum of the cost of the project, with the total cost of grants made pursuant to this subsection in any fiscal year not to exceed one-half of the funds appropriated for that fiscal year pursuant to section 470h of this title.
 
 1976—Pub. L. 94–422 reenacted subsecs. (a) and (b) without change, added subsec. (c), and redesignated former subsec. (c) as (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 470h–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (d) have been enacted.</i>
 

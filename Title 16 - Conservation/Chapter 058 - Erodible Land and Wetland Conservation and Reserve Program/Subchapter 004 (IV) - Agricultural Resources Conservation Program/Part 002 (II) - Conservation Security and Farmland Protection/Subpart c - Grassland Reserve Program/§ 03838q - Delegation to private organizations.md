@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may permit a private conservation or land trust organization (referred to in this section as a “private organization”) or a State agency to hold and enforce an easement under this subpart, in lieu of the Secretary, subject to the right of the Secretary to conduct periodic inspections and enforce the easement, if—
+The Secretary may transfer title of ownership to an easement under this subpart to a private conservation or land trust organization (referred to in this section as a “private organization”) or a State agency to hold and enforce an easement under this subpart, in lieu of the Secretary, subject to the right of the Secretary to conduct periodic inspections and enforce the easement, if—
 
 &emsp;(1) the Secretary determines that granting the permission will promote protection of grassland, land that contains forbs, and shrubland;
 
@@ -28,25 +28,15 @@ The Secretary may approve a private organization to hold and enforce an easement
 
 &emsp;(4) has the resources necessary to effectuate the purposes of the charter.
 
-#### (d) Reassignment
+#### (d) Reversion
 
-#### (1) In general
+If a private organization or State agency holding an easement on land under this subpart dissolves or fails to enforce the terms of the easement, the easement shall revert to the Secretary.
 
-&emsp;If a private organization holding an easement on land under this subpart terminates, not later than 30 days after termination of the private organization, the owner of the land shall reassign the easement to—
+(Pub. L. 99–198, title XII, §1238Q, as added Pub. L. 107–171, title II, §2401, May 13, 2002, 116 Stat. 262; amended Pub. L. 108–447, div. A, title VII, §797, Dec. 8, 2004, 118 Stat. 2852.)
 
-&emsp;&emsp;(A) a new private organization that is approved by the Secretary; or
+#### Amendments
 
-&emsp;&emsp;(B) the Secretary.
+2004—Subsec. (a). Pub. L. 108–447, §797(1), substituted “transfer title of ownership to an easement under this subpart to” for “permit” in introductory provisions.
 
-#### (2) Notification of Secretary
-
-#### (A) In general
-
-&emsp;&emsp;If the easement is reassigned to a new private organization, not later than 60 days after the date of reassignment, the owner and the new organization shall notify the Secretary in writing that a reassignment for termination has been made.
-
-#### (B) Failure to notify
-
-&emsp;&emsp;If the owner and the new organization fail to notify the Secretary of the reassignment in accordance with subparagraph (A), the easement shall revert to the control of the Secretary.
-
-(Pub. L. 99–198, title XII, §1238Q, as added Pub. L. 107–171, title II, §2401, May 13, 2002, 116 Stat. 262.)
+Subsec. (d). Pub. L. 108–447, §797(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text consisted of pars. (1) and (2) relating to reassignment of easements to new private organizations or the Secretary.
 

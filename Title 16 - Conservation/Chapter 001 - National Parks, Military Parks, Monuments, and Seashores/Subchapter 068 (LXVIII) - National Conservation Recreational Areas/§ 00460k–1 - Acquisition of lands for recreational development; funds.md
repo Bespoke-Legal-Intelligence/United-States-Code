@@ -24,7 +24,3 @@ The Secretary is authorized to acquire areas of land, or interests therein, whic
 
 Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L. 93–205, set out as a note under section 1531 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460<i>l</i>–9 of this title.
-

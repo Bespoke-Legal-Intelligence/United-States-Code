@@ -1,6 +1,6 @@
 ### §2212. Fire safety effectiveness statements
 
-The Administrator is authorized to encourage owners and managers of residential multiple-unit, commercial, industrial, and transportation structures to prepare Fire Safety Effectiveness Statements, pursuant to standards, forms, rules, and regulations to be developed and issued by the Administrator.
+The Administrator is authorized to encourage owners and managers of residential multiple-unit, commercial, industrial, and transportation structures to prepare Fire Safety Effectiveness Statements, pursuant to standards, forms, rules,and regulations to be developed and issued by the Administrator.
 
 (Pub. L. 93–498, §13, Oct. 29, 1974, 88 Stat. 1544.)
 

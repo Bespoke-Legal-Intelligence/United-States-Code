@@ -28,3 +28,7 @@ Section was enacted as part of the Omnibus Trade and Competitiveness Act of 1988
 
 1992—Subsec. (a). Pub. L. 102–245 substituted “Technology” for “Economic Affairs”.
 
+#### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+

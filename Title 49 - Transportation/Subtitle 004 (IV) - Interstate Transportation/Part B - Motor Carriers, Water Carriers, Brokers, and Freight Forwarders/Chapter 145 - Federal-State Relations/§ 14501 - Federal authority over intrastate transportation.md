@@ -140,7 +140,3 @@ Subsec. (a)(1). Pub. L. 105–277 substituted “operations, or to intrastate bu
 
 Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13902 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—PROJECTS GENERALLY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1404a of this title; title 12 sections 1715n, 1745.
-
 
 ---
 

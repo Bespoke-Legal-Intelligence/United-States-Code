@@ -72,7 +72,7 @@ In order to carry out the purposes of this section, the Secretary is authorized 
 
 #### (e) Release of part of mortgaged property or project from lien
 
-The Secretary may consent to the release of a part or parts of the mortgaged property or project from the lien of any mortgage insured under this section upon such terms and conditions as he may prescribe.
+The Secretary may consent to the release of a part or parts of the mortgaged property or project from the lien of any mortgage insured underthis section upon such terms and conditions as he may prescribe.
 
 #### (f) Applicability of other laws
 
@@ -84,7 +84,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### (h) Consultations concerning need for and availability of intermediate care facilities
 
-The Secretary shall also consult with the Secretary of Health and Human Services as to the need for and the availability of intermediatecare facilities in any area for which an intermediate care facility is proposed under this section.
+The Secretary shall also consult with the Secretary of Health and Human Services as to the need for and the availability of intermediate care facilities in any area for which an intermediate care facility is proposed under this section.
 
 #### (i) Fire safety equipment for nursing homes, assisted living facilities, intermediate care facilities, or board and care homes
 
@@ -122,7 +122,7 @@ Section 8211 of title 42, referred to in subsec. (d)(2)(B), was omitted from the
 
 Section 1521 of the Public Health Service Act, referred to in subsec. (d)(4)(A), is section 1521 of act July 1, 1944, which was classified to section 300m of Title 42, The Public Health and Welfare, prior to repeal, effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
 
-The Social Security Act, referred to in subsec. (i)(1), is act Aug. 13, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (i)(1), is act Aug. 13, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 etseq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -136,7 +136,7 @@ Subsec. (a)(3). Pub. L. 102–550, §511(a)(2), added par. (3).
 
 Subsec. (b)(6), (7). Pub. L. 102–550, §511(b), added pars. (6) and (7).
 
-Subsec. (d). Pub. L. 102–550, §511(c)(1), in introductory provisions, inserted “, assisted living facility,” after “rehabilitated nursing home,”, substituted “any combination of nursing home, assisted living facility, and intermediate care facility” for “combined nursing home and intermediate care facility”, and inserted “, including a new addition to an existing nursing home, assisted living facility, or intermediate care facility and regardless of whether the existing home orfacility is being rehabilitated,” after first reference to “intermediate care facility”.
+Subsec. (d). Pub. L. 102–550, §511(c)(1), in introductory provisions, inserted “, assisted living facility,” after “rehabilitated nursing home,”, substituted “any combination of nursing home, assisted living facility, and intermediate care facility” for “combined nursing home and intermediate care facility”, and inserted “, including a new addition to an existing nursing home, assisted living facility, or intermediate care facility and regardless of whether the existing home or facility is being rehabilitated,” after first reference to “intermediate care facility”.
 
 Subsec. (d)(2). Pub. L. 102–550, §511(c)(2), inserted “or 95 percent of the estimated value of the property or project in the case of a mortgagor that is a private nonprofit corporation or association (under the meaning given such term for purposes of section 1715<i>l</i>(d)(3) of this title),” before “including” in introductory provisions.
 
@@ -200,7 +200,7 @@ Subsecs. (g), (h). Pub. L. 91–152, §111(7), added subsecs. (g) and (h).
 
 1968—Subsec. (b)(2). Pub. L. 90–448, §314(1), redefined term “mortgage” to mean a first mortgage on real estate in fee simple, or on the interest of either the lessor or lessee thereof under a lease for not less than ninety-nine years which is renewable, or under a lease having a period of not less than fifty years to run from the date the mortgage was executed, and inserted definition of “first mortgage”.
 
-Subsec. (d). Pub. L. 90–448, §314(2), (3), authorized the Secretary to insure a mortgage which includes equipment to be used in the operation of a nursing home,and permitted the value of the equipment to be included in the calculation of the 90 per centum of the estimated value.
+Subsec. (d). Pub. L. 90–448, §314(2), (3), authorized the Secretary to insure a mortgage which includes equipment to be used in the operation of a nursing home, and permitted the value of the equipment to be included in the calculation of the 90 per centum of the estimated value.
 
 1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
 
@@ -227,10 +227,6 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (j) 
 #### Delegation of Processing of Mortgage Insurance
 
 Secretary of Housing and Urban Development to implement system of mortgage insurance for mortgages insured under this section that delegates processing functions to selected approved mortgagees, with Secretary to retain authority to approve rents, expenses, property appraisals, and mortgage amounts and to execute firm commitments, see section 328 of Pub. L. 101–625, set out as a note under section 1713 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1701q–2, 1715c, 1715n, 1735f–19 of this title; title 42 sections 1437f, 3013, 4822.
 
 <i><sup>1</sup></i><i> So in original. The word “a” probably should not appear.</i>
 

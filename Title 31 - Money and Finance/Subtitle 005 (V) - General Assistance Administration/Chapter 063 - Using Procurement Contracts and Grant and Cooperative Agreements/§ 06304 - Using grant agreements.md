@@ -24,7 +24,3 @@ Feb. 3, 1978, Pub. L. 95–224, §5, 92 Stat. 4.
 
 The words “type of” are omitted as unnecessary. The words “money, property, services” are omitted as being included in “a thing of value”. The words “in order” are omitted as surplus. The words “law of the United States” are substituted for “Federal statute” for consistency.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 sections 3710a, 4602; title 30 section 1901; title 43 section 373d.
-

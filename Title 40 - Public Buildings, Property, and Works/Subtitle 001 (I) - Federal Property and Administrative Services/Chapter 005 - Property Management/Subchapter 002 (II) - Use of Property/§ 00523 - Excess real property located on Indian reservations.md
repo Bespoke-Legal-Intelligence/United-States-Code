@@ -14,7 +14,7 @@ In general.—Except as provided in paragraph (2), the Secretary shall hold exce
 
 &emsp;(2)
 
-Special requirement for oklahoma.—The Secretary shall hold excess real property that is located in Oklahoma and transferredunder this section in trust for Oklahoma Indian tribes recognized by the Secretary if the real property—
+Special requirement for oklahoma.—The Secretary shall hold excess real property that is located in Oklahoma and transferred under this section in trust for Oklahoma Indian tribes recognized by the Secretary if the real property—
 
 &emsp;&emsp;(A) is located within boundaries of former reservations in Oklahoma, as defined by the Secretary, and was held in trust by the Federal Government for an Indian tribe when the Government acquired it; or
 
@@ -37,8 +37,4 @@ Historical and Revision Notes
 40:483(a)(2).
 
 June 30, 1949, ch. 288, title II, §202(a)(2), as added Pub. L. 93–599, (2), Jan. 2, 1975, 88 Stat. 1954.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 521, 556 of this title; title 25 section 1812.
 

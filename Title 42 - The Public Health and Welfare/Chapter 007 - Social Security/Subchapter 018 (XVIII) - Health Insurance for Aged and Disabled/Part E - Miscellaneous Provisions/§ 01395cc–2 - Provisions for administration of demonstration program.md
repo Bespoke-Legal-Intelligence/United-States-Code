@@ -32,7 +32,7 @@
 
 #### (5) Program standards and criteria
 
-&emsp;The Secretary shall establish performance standards for the demonstration program including, as applicable, standards for quality of health care items and services, cost-effectiveness, beneficiary satisfaction, and such other factors as the Secretary finds appropriate. The eligibility of individuals or entities for the initial award, continuation, and renewal of agreements to provide health care items and services under the program shall be conditioned, at a minimum, on performance that meets or exceeds such standards.
+&emsp;The Secretary shall establish performance standards for the demonstration program including, as applicable, standards for quality of health care items and services, cost-effectiveness, beneficiary satisfaction, and such other factors as the Secretary finds appropriate. Theeligibility of individuals or entities for the initial award, continuation, and renewal of agreements to provide health care items and services under the program shall be conditioned, at a minimum, on performance that meets or exceeds such standards.
 
 #### (6) Administrative review of decisions affecting individuals and entities furnishing services
 
@@ -170,7 +170,7 @@ The following actions and determinations with respect to the demonstration progr
 
 &emsp;(3) Establishment of program administration contract performance standards under subsection (b)(6) of this section, the refusal to renew a program administration contract, or the noncompetitive award or renewal of a program administration contract under subsection (b)(4)(B) of this section.
 
-&emsp;(4) Establishment of payment rates, through negotiation or otherwise, under a programagreement or a program administration contract.
+&emsp;(4) Establishment of payment rates, through negotiation or otherwise, under a program agreement or a program administration contract.
 
 &emsp;(5) A determination with respect to the program (where specifically authorized by the program authority or by subsection (c)(2) of this section)—
 
@@ -190,7 +190,7 @@ Not later than two years after December 21, 2000, and biennially thereafter for 
 
 #### References in Text
 
-Parts A, B, and C of this subchapter, referred to in subsecs. (a)(1) and (e), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
+Parts A, B, and C of this subchapter, referred to in subsecs. (a)(1) and (e), are classified to sections 1395c etseq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
 
 #### Amendments
 
@@ -199,8 +199,4 @@ Parts A, B, and C of this subchapter, referred to in subsecs. (a)(1) and (e), ar
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395cc–1, 1395cc–3 of this title.
 

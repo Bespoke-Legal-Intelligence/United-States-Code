@@ -8,7 +8,7 @@ The purposes of the corporation are—
 
 &emsp;(3) to solicit funds to maintain the organization and accomplish its responsibility;
 
-&emsp;(4) to accept the cooperation of, and provide an organization and means through which, the National Board of Young Men's Christian Associations, the National Board of Young Women's Christian Associations, the National Catholic Community Service, the Salvation Army, the National Jewish Welfare Board, the Travelers Aid-International Social Service of America, and other civilian agencies experienced in specialized types of related work, which may be needed adequately to meet the particular needs of the members of the Armed Forces, may carry on their historic work of serving the religious, spiritual, social, welfare, educational, and entertainment needs of men and women in the Armed Forces and be afforded an appropriate means of participation and financial assistance;
+&emsp;(4) to accept the cooperation of, and provide an organization and means through which, the National Board of Young Men's Christian Associations, the National Board of Young Women's Christian Associations, the National Catholic Community Service, the Salvation Army, the National Jewish Welfare Board, the Travelers Aid-International Social Service of America, and other civilian agencies experienced in specialized types of related work, which may be needed adequately to meet the particular needs of the members of the ArmedForces, may carry on their historic work of serving the religious, spiritual, social, welfare, educational, and entertainment needs of men and women in the Armed Forces and be afforded an appropriate means of participation and financial assistance;
 
 &emsp;(5) to coordinate their programs; and
 
@@ -35,8 +35,4 @@ Dec. 29, 1979, Pub. L. 96–165, §2, 93 Stat. 1268.
 Before clause (1), the word “objects” is omitted as included in “purposes”.
 
 In clause (4), the words “and to accept the cooperation of individual citizens in accomplishing its purposes” are omitted as unnecessary because of clause (1) of this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 220103, 220104, 220105, 220108 of this title.
 

@@ -4,7 +4,3 @@ The Secretary shall conduct a detailed study of the need for and feasibility of 
 
 (Pub. L. 96–294, title VI, §621, June 30, 1980, 94 Stat. 765.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1522 of this title.
-

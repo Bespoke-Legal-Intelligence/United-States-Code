@@ -18,7 +18,3 @@ Section 507 of title V of Pub. L. 96–477 provided that: “Except as otherwise
 
 Section 501 of title V of Pub. L. 96–477 provided that: “This title \[enacting this chapter and amending section 77s of this title\] may be cited as the ‘Omnibus Small Business Capital Formation Act of 1980’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80c–1 of this title.
-

@@ -8,7 +8,7 @@ Each recipient of a grant or other payment made under this chapter shall keep su
 
 #### (1) Audits and examinations
 
-&emsp;Except as provided in paragraph (5), each office making a grant or other payment under this chapter, or any duly authorized representative of such office, may audit or examine any recipient of the grant or payment and shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient which in the opinion of the entity may be related or pertinent to the grant or payment.
+&emsp;Except as provided in paragraph (5), each office making a grant or other payment underthis chapter, or any duly authorized representative of such office, may audit or examine any recipient of the grant or payment and shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient which in the opinion of the entity may be related or pertinent to the grant or payment.
 
 #### (2) Recipients of assistance subject to provisions of section
 

@@ -4,7 +4,3 @@ The United States district courts shall have jurisdiction over any action brough
 
 (Pub. L. 101–601, §15, Nov. 16, 1990, 104 Stat. 3058.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3006 of this title.
-

@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Nov. 28, 1990, Pub. L. 101–641, §5, 104 Stat. 4656.
 
-In this section, the words “officer or employee” are substituted for “employee” for clarity and consistency in the revised title and with other titles of the United States Code.
+In this section, the words “officer or employee” are substituted for “employee” for clarity and consistencyin the revised title and with other titles of the United States Code.
 
 In subsection (a), the words “Secretary of Transportation or the head of a component of the Department of Transportation” are substituted for “Department of Transportation, including any of its agencies” for consistency in the revised title and with other titles of the Code.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—REMOVAL, REINSTATEMENT, AND GUARANTEED PLACEMENT IN THE SENIOR EXECUTIVE SERVICE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 38 section 7425.
-
 
 ---
 

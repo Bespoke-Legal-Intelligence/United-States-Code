@@ -14,7 +14,7 @@ No registered investment company shall—
 
 &emsp;(3) have as director, officer, or employee any investment banker, or any affiliated person of an investment banker, unless a majority of the board of directors of such registered company shall be persons who are not investment bankers or affiliated persons of any investment banker. For the purposes of this paragraph, a person shall not be deemed an affiliated person of an investment banker solely by reason of the fact that he is an affiliated person of a company of the character described in section 80a–12(d)(3)(A) and (B) of this title.
 
-#### (c) Officers, directors, or employees of one bank as majority of board of directors of company; exceptions
+#### (c) Officers, directors, or employees of one bank or bank holding company as majority of board of directors of company; exceptions
 
 No registered investment company shall have a majority of its board of directors consisting of persons who are officers, directors, or employees of any one bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12), except that, if on March 15, 1940, any registered investment company had a majority of its directors consisting of persons who are directors, officers, or employees of any one bank, such company may continue to have the same percentage of its board of directors consisting of persons who are directors, officers, or employees of such bank.
 
@@ -99,8 +99,4 @@ For effective date of amendment by Pub. L. 91–547, see section 30 (introductor
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–6, 80a–12, 80a–58 of this title.
 

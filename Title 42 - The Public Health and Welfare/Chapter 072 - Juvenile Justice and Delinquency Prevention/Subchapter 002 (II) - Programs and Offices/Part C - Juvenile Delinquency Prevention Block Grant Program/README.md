@@ -4,10 +4,6 @@ Part C—Juvenile Delinquency Prevention Block Grant Program
 
 A prior part C, consisting of sections 5651 to 5665a, related to national programs, prior to repeal by Pub. L. 107–273, div. C, title II, §12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 5617, 5667–1, 5667a–1, 5671, 5675, 5783 of this title.
-
 
 ---
 

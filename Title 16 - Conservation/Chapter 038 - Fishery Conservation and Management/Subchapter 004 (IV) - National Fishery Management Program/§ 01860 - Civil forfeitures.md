@@ -34,7 +34,7 @@ If a judgment is entered for the United States in a civil forfeiture proceeding 
 
 #### (e) Rebuttable presumptions
 
-(1) For purposes of this section, it shall be a rebuttable presumption that all fish found onboard a fishing vessel which is seized in connection with an act prohibited by section 1857 of this title were taken or retained in violation of this chapter.
+(1) For purposes of this section, it shall be a rebuttable presumption that all fish found on board a fishing vessel which is seized in connection with an act prohibited by section 1857 of this title were taken or retained in violation of this chapter.
 
 (2) For purposes of this chapter, it shall be a rebuttable presumption that any fish of a species which spawns in fresh or estuarine waters and migrates to ocean waters that is found on board a vessel is of United States origin if the vessel is within the migratory range of the species during that part of the year to which the migratory range applies.
 
@@ -75,8 +75,4 @@ Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly se
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1417, 1861, 3606, 3637, 5103, 5106, 5154, 5158, 5606 of this title.
 

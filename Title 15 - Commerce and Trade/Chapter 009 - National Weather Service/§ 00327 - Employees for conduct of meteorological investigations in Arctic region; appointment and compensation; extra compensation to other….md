@@ -22,7 +22,3 @@ In this section, “chapter 51 and subchapter III of chapter 53 of title 5”, �
 
 Amendment by Pub. L. 88–448 effective on first day of first month which begins later than ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 5533.
-

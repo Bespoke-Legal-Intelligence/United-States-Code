@@ -6,13 +6,9 @@ In any civil action in the Court of International Trade, the court shall have ex
 
 #### Prior Provisions
 
-A prior section 1583, act June 25, 1948, ch. 646, 62 Stat. 943, related to certain cases of exclusive jurisdiction ofthe Customs Court, prior to repeal by Pub. L. 91–271, title I, §111, June 2, 1970, 84 Stat. 278.
+A prior section 1583, act June 25, 1948, ch. 646, 62 Stat. 943, related to certain cases of exclusive jurisdiction of the Customs Court, prior to repeal by Pub. L. 91–271, title I, §111, June 2, 1970, 84 Stat. 278.
 
 #### Effective Date
 
 Section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(A) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2643 of this title.
 

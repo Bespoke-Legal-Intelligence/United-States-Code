@@ -6,7 +6,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(b) “enhancement” means manmade improvements to natural habitats, or the application of artificial fish culture technology, that will lead to the increase of salmon stocks;
 
-&emsp;(c) “Magnuson Act” means the Act entitled “the Magnuson-Stevens Fishery Conservationand Management Act,” as approved April 13, 1976, and as later amended (16 U.S.C. section 1801 et seq.);
+&emsp;(c) “Magnuson Act” means the Act entitled “the Magnuson-Stevens Fishery Conservation and Management Act,” as approved April 13, 1976, and as later amended (16 U.S.C. section 1801 et seq.);
 
 &emsp;(d) “Panel” means any of the Panels established by the Treaty;
 
@@ -60,7 +60,7 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 #### Short Title
 
-Section 1 of Pub. L. 99–5 provided: “That this Act \[enacting this chapter and repealing sections 776 to 776f of this title and provisions set out as notes under section 776 of this title\] may be cited as the ‘Pacific Salmon Treaty Act of 1985’.”
+Section 1 of Pub. L. 99–5 provided: “That this Act \[enacting this chapter and repealing sections 776 to 776f ofthis title and provisions set out as notes under section 776 of this title\] may be cited as the ‘Pacific Salmon Treaty Act of 1985’.”
 
 #### Territorial Sea of United States
 

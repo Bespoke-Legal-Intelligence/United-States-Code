@@ -108,7 +108,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (2) The hazardous wastes to which the prohibition under paragraph (1) applies are as follows—
 
-&emsp;(A) dioxin-containing hazardous wastes numbered F020, F021, F022, and F023 (as referred to in the proposed rule published by theAdministrator in the Federal Register for April 4, 1983), and
+&emsp;(A) dioxin-containing hazardous wastes numbered F020, F021, F022, and F023 (as referred to in the proposed rule published by the Administrator in the Federal Register for April 4, 1983), and
 
 &emsp;(B) those hazardous wastes numbered F001, F002, F003, F004, and F005 in regulations promulgated by the Administrator under section 6921 of this title (40 C.F.R. 261.31 (July 1, 1983)), as those regulations are in effect on July 1, 1983.
 
@@ -136,7 +136,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (3) The preparation and submission of the schedule under this subsection shall not be subject to the Paperwork Reduction Act of 1980.<sup>2</sup> No hearing on the record shall be required for purposes of preparation or submission of the schedule. The schedule shall not be subject to judicial review.
 
-(4) The schedule under this subsection shall require that the Administrator shall promulgate regulations in accordance with paragraph (5) or make a determination under paragraph (5)—
+(4) The schedule under this subsection shall require that the Administrator shall promulgateregulations in accordance with paragraph (5) or make a determination under paragraph (5)—
 
 &emsp;(A) for at least one-third of all hazardous wastes referred to in paragraph (1) by the date forty-five months after November 8, 1984;
 
@@ -174,7 +174,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (8) Solid waste that otherwise qualifies under paragraph (7) shall nevertheless be required to meet any applicable specific methods of treatment specified for such waste by the Administrator under subsection (m) of this section, including those specified in the rule promulgated by the Administrator June 1, 1990, prior to management in a land-based unit as part of a treatment system specified in paragraph (7)(A). No solid waste may qualify under paragraph (7) that would generate toxic gases, vapors, or fumes due to the presence of cyanide when exposed to pH conditions between 2.0 and 12.5.
 
-(9) Solid waste identified as hazardous based on one or more characteristics alone shall not be subject to this subsection, any prohibitions under subsection (d), (e), or (f) of this section, or any requirement promulgated under subsection (m) of this section if the waste no longer exhibits a hazardous characteristic at the point of injection in any Class I injection well permitted under section 300h–1 of this title.
+(9) Solid waste identified as hazardous based on one or more characteristics alone shall not be subject to this subsection, any prohibitions under subsection (d), (e), or (f) of this section, or any requirement promulgated under subsection\(m) of this section if the waste no longer exhibits a hazardous characteristic at the point of injection in any Class I injection well permitted under section 300h–1 of this title.
 
 (10) Not later than five years after March 26, 1996, the Administrator shall complete a study of hazardous waste managed pursuant to paragraph (7) or (9) to characterize the risks to human health or the environment associated with such management. In conducting this study, the Administrator shall evaluate the extent to which risks are adequately addressed under existing State or Federal programs and whether unaddressed risks could be better addressed under such laws or programs. Upon receipt of additional information or upon completion of such study and as necessary to protect human health and the environment, the Administrator may impose additional requirements under existing Federal laws, including subsection (m)(1) of this section, or rely on other State or Federal programs or authorities to address such risks. In promulgating any treatment standards pursuant to subsection (m)(1) of this section under the previous sentence, the Administrator shall take into account the extent to which treatment is occurring in land-based units as part of a treatment system specified in paragraph (7)(A).
 
@@ -184,7 +184,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (1) A prohibition in regulations under subsection (d), (e), (f), or (g) of this section shall be effective immediately upon promulgation.
 
-(2) The Administrator may establish an effective date different from the effective date which would otherwise apply under subsection (d), (e), (f), or (g) of this section with respect to a specific hazardous waste which is subject to a prohibition under subsection (d), (e), (f), or (g) of this section or under regulations under subsection (d), (e), (f), or (g) of this section. Anysuch other effective date shall be established on the basis of the earliest date on which adequate alternative treatment, recovery, or disposal capacity which protects human health and the environment will be available. Any such other effective date shall in no event be later than 2 years after the effective date of the prohibition which would otherwise apply under subsection (d), (e), (f), or (g) of this section.
+(2) The Administrator may establish an effective date different from the effective date which would otherwise apply under subsection (d), (e), (f), or (g) of this section with respect to a specific hazardous waste which is subject to a prohibition under subsection (d), (e), (f), or (g) of this section or under regulations under subsection (d), (e), (f), or (g) of this section. Any such other effective date shall be established on the basis of the earliest date on which adequate alternative treatment, recovery, or disposal capacity which protects human health and the environment will be available. Any such other effective date shall in no event be later than 2 years after the effective date of the prohibition which would otherwise apply under subsection (d), (e), (f), or (g) of this section.
 
 (3) The Administrator, after notice and opportunity for comment and after consultation with appropriate State agencies in all affected States, may on a case-by-case basis grant an extension of the effective date which would otherwise apply under subsection (d), (e), (f), or (g) of this section or under paragraph (2) for up to one year, where the applicant demonstrates that there is a binding contractual commitment to construct or otherwise provide such alternative capacity but due to circumstances beyond the control of such applicant such alternative capacity cannot reasonably be made available by such effective date. Such extension shall be renewable once for no more than one additional year.
 
@@ -210,7 +210,7 @@ The use of waste or used oil or other material, which is contaminated or mixed w
 
 (1) Simultaneously with the promulgation of regulations under subsection (d), (e), (f), or (g) of this section prohibiting one or more methods of land disposal of a particular hazardous waste, and as appropriate thereafter, the Administrator shall, after notice and an opportunity for hearings and after consultation with appropriate Federal and State agencies, promulgate regulations specifying those levels or methods of treatment, if any, which substantially diminish the toxicity of the waste or substantially reduce the likelihood of migration of hazardous constituents from the waste so that short-term and long-term threats to human health and the environment are minimized.
 
-(2) If such hazardous waste has been treated to the level or by a method specified in regulations promulgated under this subsection, such waste or residue thereof shall not be subject to any prohibition promulgated under subsection (d), (e), (f), or (g) of this section and may be disposed of in a land disposal facility which meets the requirements of this subchapter. Any regulation promulgated under this subsection for a particular hazardous waste shall become effective on the same date as any applicable prohibition promulgated under subsection (d), (e), (f), or (g) of this section.
+(2) If such hazardous waste has been treated to the level or by a method specified in regulations promulgated under this subsection, such waste or residue thereof shall not be subject to any prohibition promulgated under subsection (d),\(e), (f), or (g) of this section and may be disposed of in a land disposal facility which meets the requirements of this subchapter. Any regulation promulgated under this subsection for a particular hazardous waste shall become effective on the same date as any applicable prohibition promulgated under subsection (d), (e), (f), or (g) of this section.
 
 #### (n) Air emissions
 
@@ -278,7 +278,7 @@ The standards under this section concerning ground water monitoring which are ap
 
 &emsp;&emsp;(ii) from any hazardous waste identified or listed under section 6921 of this title and any other material;
 
-&emsp;(B) standards applicable to the owners and operators of facilities which burn, for purposesof energy recovery, any fuel produced as provided in subparagraph (A) or any fuel which otherwise contains any hazardous waste identified or listed under section 6921 of this title; and
+&emsp;(B) standards applicable to the owners and operators of facilities which burn, for purposes of energy recovery, any fuel produced as provided in subparagraph (A) or any fuel which otherwise contains any hazardous waste identified or listed under section 6921 of this title; and
 
 &emsp;(C) standards applicable to any person who distributes or markets any fuel which is produced as provided in subparagraph (A) or any fuel which otherwise contains any hazardous waste identified or listed under section 6921 of this title;
 
@@ -318,7 +318,7 @@ Not later than fifteen months after November 8, 1984, the Administrator shall pr
 
 #### (t) Financial responsibility provisions
 
-(1) Financial responsibility required by subsection (a) of this section may be established in accordance with regulations promulgated by the Administrator by any one, or any combination, of the following: insurance, guarantee, suretybond, letter of credit, or qualification as a self-insurer. In promulgating requirements under this section, the Administrator is authorized to specify policy or other contractual terms, conditions, or defenses which are necessary or are unacceptable in establishing such evidence of financial responsibility in order to effectuate the purposes of this chapter.
+(1) Financial responsibility required by subsection (a) of this section may be established in accordance with regulations promulgated by the Administrator by any one, or any combination, of the following: insurance, guarantee, surety bond, letter of credit, or qualification as a self-insurer. In promulgating requirements under this section, the Administrator is authorized to specify policy or other contractual terms, conditions, or defenses which are necessary or are unacceptable in establishing such evidence of financial responsibility in order to effectuate the purposes of this chapter.
 
 (2) In any case where the owner or operator is in bankruptcy, reorganization, or arrangement pursuant to the Federal Bankruptcy Code or where (with reasonable diligence) jurisdiction in any State court or any Federal Court cannot be obtained over an owner or operator likely to be solvent at the time of judgment, any claim arising from conduct for which evidence of financial responsibility must be provided under this section may be asserted directly against the guarantor providing such evidence of financial responsibility. In the case of any action pursuant to this subsection, such guarantor shall be entitled to invoke all rights and defenses which would have been available to the owner or operator if any action had been brought against the owner or operator by the claimant and which would have been available to the guarantor if an action had been brought against the guarantor by the owner or operator.
 
@@ -406,11 +406,7 @@ Subsec. (x). Pub. L. 98–616, §209, added subsec. (x).
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6921, 6925, 6926, 6935, 6936, 6939c, 6939e, 6971, 9601, 9621, 9622 of this title; title 10 section 2708; title 26 section 4662.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

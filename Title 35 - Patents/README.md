@@ -1,5 +1,5 @@
 
-35 U.S.C.<br>United States Code, 2003 Edition<br>Title 35 - PATENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+35 U.S.C.<br>United States Code, 2004 Edition<br>Title 35 - PATENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 35—PATENTS
 
@@ -409,10 +409,6 @@ Section 4 of act July 19, 1952, ch. 950, 66 Stat. 815, provided that:
 #### Repeals
 
 Section 5 of act July 19, 1952, ch. 950, 66 Stat. 815, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large codified in this Act with the proviso that “Any rights or liabilities now existing under such sections or parts thereof shall not be affected by this repeal.”
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 11 section 101; title 15 sections 278n, 3703; title 17 sections 912, 1329; title 42 section 12002.
 
 
 ---

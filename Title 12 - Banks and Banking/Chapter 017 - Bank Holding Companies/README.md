@@ -61,10 +61,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 215a–2, 304, 619, 1467a, 1817, 1818, 1828a, 1831k, 3101, 3105, 3106, 3107 of this title; title 15 section 80b–2; title 26 section 246A.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

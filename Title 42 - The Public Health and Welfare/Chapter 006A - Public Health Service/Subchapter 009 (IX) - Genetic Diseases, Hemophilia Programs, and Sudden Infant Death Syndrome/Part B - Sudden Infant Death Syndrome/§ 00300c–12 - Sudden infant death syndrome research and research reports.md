@@ -6,7 +6,7 @@ From the sums appropriated to the National Institute of Child Health and Human D
 
 #### (b) Reports to Congressional committees; contents: data as to applications and funds for specific and general research, summary of findings and plan for taking advantage of research leads and findings
 
-(1) Not later than ninety days after the close of the fiscal year ending September 30, 1979, andof each fiscal year thereafter, the Secretary shall report to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives specific information for such fiscal year on—
+(1) Not later than ninety days after the close of the fiscal year ending September 30, 1979, and of each fiscal year thereafter, the Secretary shall report to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives specific information for such fiscal year on—
 
 &emsp;(A) the (i) number of applications approved by the Secretary in the fiscal year reported on for grants and contracts under this chapter for research which relates specifically to sudden infant death syndrome, (ii) total amount requested under such applications, (iii) number of such applications for which funds were provided in such fiscal year, and (iv) total amount of such funds; and
 
@@ -32,5 +32,7 @@ Within five days after the Budget is transmitted by the President to the Congres
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

@@ -42,7 +42,3 @@ The Secretary shall submit to the President, for inclusion in each report requir
 
 October 29, 1992, referred to in subsec. (c), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 102–573, which enacted this section, to reflect the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1671 of this title.
-

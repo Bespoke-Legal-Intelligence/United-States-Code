@@ -26,7 +26,3 @@ There is authorized to be appropriated to carry out this section such sums as ma
 
 (Pub. L. 89–665, title IV, §405, as added Pub. L. 102–575, title XL, §4022, Oct. 30, 1992, 106 Stat. 4767.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 470x–2 of this title.
-

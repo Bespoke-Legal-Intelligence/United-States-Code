@@ -14,7 +14,7 @@ For the purpose of this Act—
 
 (3) The term “package” means the immediate container or wrapping in which any household substance is contained for consumption, use, or storage by individuals in or about the household, and, for purposes of section 1473(a)(2) of this title, also means any outer container or wrapping used in the retail display of any such substance to consumers. Such term does not include—
 
-&emsp;(A) any shipping container or wrapping used solely for the transportation of any householdsubstance in bulk or in quantity to manufacturers, packers, or processors, or to wholesale or retail distributors thereof, or
+&emsp;(A) any shipping container or wrapping used solely for the transportation of any household substance in bulk or in quantity to manufacturers, packers, or processors, or to wholesale or retail distributors thereof, or
 
 &emsp;(B) any shipping container or outer wrapping used by retailers to ship or deliver any household substance to consumers unless it is the only such container or wrapping.
 
@@ -49,8 +49,4 @@ Section 1 of Pub. L. 91–601 provided that: “This Act \[enacting this chapter
 #### Transfer of Functions
 
 “Commission” substituted for “Secretary” and “Consumer Product Safety Commission” substituted for “Secretary of Health, Education, and Welfare” in par. (1) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1261 of this title.
 

@@ -16,7 +16,3 @@ The Secretary shall require, as conditions to any such loan, that the borrower c
 
 1956—Act May 14, 1956, provided that the Secretary, as conditions to loan, require borrower to account for disbursements of borrowed funds and return for application toward amortization of the loan all funds not expended in the construction of the distribution system, required, prior to the consummation of any loan, the transfer to the United States of titles to lands or interests in lands held by the borrower, and that titles to such lands, interests, and distribution works remain in United States until repayment, and provided for issuance of revocable permits for the use of lands owned by United States, in lieu of the formerly authorized actual conveyance to the districts of the rights-of-way.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 421a, 421b, 421d to 421h, 502 of this title.
-

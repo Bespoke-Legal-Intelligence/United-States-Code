@@ -160,11 +160,11 @@ Subsecs. (f), (g). Pub. L. 104–19, §1002(a)(8), (9), added subsec. (f) and re
 
 Subsec. (b)(1). Pub. L. 102–550, §116(a), inserted “of the project or portion of the project covered by the application” after “tenant cooperative”.
 
-Subsec. (b)(3). Pub. L. 102–550, §116(b)(5), inserted at end “except that, in any 5-year period, a public housing agency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned and operated by the public housing agency, without providing an additional dwelling unit for each such public housing dwelling unit to be demolished, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents.”
+Subsec. (b)(3). Pub. L. 102–550, §116(b)(5), inserted at end “except that, in any 5-year period, a public housing agency may demolish not more than the lesser of 5dwelling units or 5 percent of the total dwelling units owned and operated by the public housing agency, without providing an additional dwelling unit for each such public housing dwelling unit to be demolished, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents.”
 
 Subsec. (b)(3)(A)(ii). Pub. L. 102–550, §116(b)(1)(A), inserted before semicolon at end “to the extent available; or if such assistance is not available, in the case of an application proposing demolition or disposition of 200 or more units, the use of available project-based assistance under section 1437f of this title having a term of not less than 5 years”.
 
-Subsec. (b)(3)(A)(iii). Pub. L. 102–550, §116(b)(1)(B), inserted before semicolon at end “to the extent available; or if such assistance is not available, in the case of anapplication proposing demolition or disposition of 200 or more units, the use of available project-based assistance under other Federal programs having a term of not less than 5 years”.
+Subsec. (b)(3)(A)(iii). Pub. L. 102–550, §116(b)(1)(B), inserted before semicolon at end “to the extent available; or if such assistance is not available, in the case of an application proposing demolition or disposition of 200 or more units, the use of available project-based assistance under other Federal programs having a term of not less than 5 years”.
 
 Subsec. (b)(3)(A)(v). Pub. L. 102–550, §116(b)(1)(C), inserted before semicolon “to the extent available; or if such assistance is not available, in the case of an application proposing demolition or disposition of 200 or more units, the use of tenant-based assistance under section 1437f of this title (excluding vouchers under section 1437f(<i>o</i>) of this title) having a term of not less than 5 years”.
 
@@ -221,10 +221,6 @@ Section 512(b) of Pub. L. 101–625 provided that: “The amendment made by this
 #### Replacement Housing Demonstration Program
 
 Section 513(a) of Pub. L. 101–625 directed Secretary of Housing and Urban Development to carry out a program to demonstrate the effectiveness of replacing public housing dwelling units eligible for demolition or disposition with 5-year certificate assistance provided under 42 U.S.C. 1437f, with Secretary to carry out the demonstration only with respect to public housing dwelling units owned or operated by the public housing authority for Saint Louis, Missouri, that before the termination of the demonstration program under this subsection are approved for demolition or disposition, and with the demonstration program to terminate at end of Sept. 30, 1992.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437c–1, 1437d, 1437t, 1437v, 1437z–4, 1437z–5, 1437bbb–4 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

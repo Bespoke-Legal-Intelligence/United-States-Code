@@ -234,6 +234,7 @@
 | (b) | Loans; obligations of development companies. |
 | (c) | Maximum loans to development companies. |
 | (d) | Eligibility for assistance. |
+| (e) | Creation or retention of jobs. |
 | [696\.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000696%20-%20Loans%20for%20plant%20acquisition%2C%20construction%2C%20conversion%20and%20expansion.md) | Loans for plant acquisition, construction, conversion and expansion. |
 | [697\.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000697%20-%20Development%20company%20debentures.md) | Development company debentures. |
 | (a) | Guarantees; Administration authority; regulatory terms and conditions; full faith and credit; subordination of debentures. |
@@ -287,10 +288,6 @@
 | (e) | Report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 77c, 77ddd, 80a–2, 80a–18, 80a–60, 634, 637, 645, 1691c of this title; title 12 section 4702; title 26 sections 243, 246A, 542, 586, 1242, 1243.
 
 
 ---

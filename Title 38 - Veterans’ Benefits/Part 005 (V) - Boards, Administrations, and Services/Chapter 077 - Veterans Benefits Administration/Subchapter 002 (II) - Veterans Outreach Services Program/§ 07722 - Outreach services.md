@@ -2,7 +2,7 @@
 
 (a) In carrying out the purposes of this subchapter, the Secretary shall provide the outreach services specified in subsections (b) through (d). In areas where a significant number of eligible veterans and eligible dependents speak a language other than English as their principal language, such services shall, to the maximum feasible extent, be provided in the principal language of such persons.
 
-(b) The Secretary shall by letter advise each veteran at the time of the veteran's discharge or release from active military, naval, or air service (or as soon as possible after such discharge or release) of all benefits and services under laws administered by the Department for which the veteran may be eligible. In carrying out thissubsection, the Secretary shall ensure, through the use of veteran-student services under section 3485 of this title, that contact, in person or by telephone, is made with those veterans who, on the basis of their military service records, do not have a high school education or equivalent at the time of discharge or release.
+(b) The Secretary shall by letter advise each veteran at the time of the veteran's discharge or release from active military, naval, or air service (or as soon as possible after such discharge or release) of all benefits and services under laws administered by the Department for which the veteran may be eligible. In carrying out this subsection, the Secretary shall ensure, through the use of veteran-student services under section 3485 of this title, that contact, in person or by telephone, is made with those veterans who, on the basis of their military service records, do not have a high school education or equivalent at the time of discharge or release.
 
 (c)(1) The Secretary shall distribute full information to eligible veterans and eligible dependents regarding all benefits and services to which they may be entitled under laws administered by the Department and may, to the extent feasible, distribute information on other governmental programs (including manpower and training programs) which the Secretary determines would be beneficial to veterans.
 
@@ -10,7 +10,7 @@
 
 (d) The Secretary shall provide, to the maximum extent possible, aid and assistance (including personal interviews) to members of the Armed Forces, veterans, and eligible dependents with respect to subsections (b) and (c) and in the preparation and presentation of claims under laws administered by the Department.
 
-(e) In carrying out this section, the Secretary shall assign such employees of the Veterans Benefits Administration as the Secretary considers appropriate to conduct outreach programs and provide outreach services for homeless veterans. Such outreach services may include site visits through which homeless veterans can be identified and provided assistance in obtaining benefits and services that may be available to them.
+(e) In carrying out this section, the Secretary shall assign such employees of the VeteransBenefits Administration as the Secretary considers appropriate to conduct outreach programs and provide outreach services for homeless veterans. Such outreach services may include site visits through which homeless veterans can be identified and provided assistance in obtaining benefits and services that may be available to them.
 
 (Added Pub. L. 102–83, §2(b), Aug. 6, 1991, 105 Stat. 400; amended Pub. L. 102–590, §5, Nov. 10, 1992, 106 Stat. 5139; Pub. L. 107–103, title III, §304, Dec. 27, 2001, 115 Stat. 992.)
 
@@ -63,8 +63,4 @@ Ongoing Outreach Program.—(1) The Secretary of Veterans Affairs shall conduct 
 “(b)
 
 Information in Agent Orange Registry.—The Secretary of Veterans Affairs shall take reasonable actions to organize and update the information contained in the Department of Veterans Affairs Agent Orange Registry in a manner that enables the Secretary promptly to notify a veteran of any increased health risk for such veteran resulting from exposure of such veteran to dioxin or any other toxic agent referred to in subsection (a) during Vietnam-era service in the Republic of Vietnam whenever the Secretary determines, on the basis of physical examination or other pertinent information, that such veteran is subject to such an increased health risk.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4214 of this title.
 

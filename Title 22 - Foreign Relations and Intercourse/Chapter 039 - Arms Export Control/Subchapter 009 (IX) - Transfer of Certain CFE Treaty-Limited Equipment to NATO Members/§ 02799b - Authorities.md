@@ -54,7 +54,3 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2799c of this title.
-

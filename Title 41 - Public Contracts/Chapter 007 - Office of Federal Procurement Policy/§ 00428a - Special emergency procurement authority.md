@@ -12,13 +12,17 @@ The authorities provided in this section apply with respect to any procurement o
 
 For a procurement to which this section applies under subsection (a) of this section—
 
-&emsp;(1) the amount specified in subsections (c), (d), and (f) of section 428 of this title shall be deemed to be $15,000; and
+&emsp;(1) the amount specified in subsections (c), (d), and (f) of section 428 of this title shall be deemed to be—
+
+&emsp;&emsp;(A) $15,000 in the case of any contract to be awarded and performed, or purchase to be made, inside the United States; and
+
+&emsp;&emsp;(B) $25,000 in the case of any contract to be awarded and performed, or purchase to be made, outside the United States; and
 
 &emsp;(2) the term “simplified acquisition threshold” means—
 
 &emsp;&emsp;(A) $250,000 in the case of any contract to be awarded and performed, or purchase to be made, inside the United States; and
 
-&emsp;&emsp;(B) $500,000 in the case of any contract to be awarded and performed, or purchase to be made, outside the United States.
+&emsp;&emsp;(B) $1,000,000 in the case of any contract to be awarded and performed, or purchase to be made, outside the United States.
 
 #### (c) Increased limitation on use of simplified acquisition procedures
 
@@ -44,7 +48,13 @@ For a procurement to which this section applies under subsection (a) of this sec
 
 In this section, the term “contingency operation” has the meaning given such term in section 101(a)(13) of title 10.
 
-(Pub. L. 93–400, §32A, as added Pub. L. 108–136, div. A, title XIV, §1443(a)(1), Nov. 24, 2003, 117 Stat. 1675.)
+(Pub. L. 93–400, §32A, as added Pub. L. 108–136, div. A, title XIV, §1443(a)(1), Nov. 24, 2003, 117 Stat. 1675; amended Pub. L. 108–375, div. A, title VIII, §822, Oct. 28, 2004, 118 Stat. 2016.)
+
+#### Amendments
+
+2004—Subsec. (b)(1). Pub. L. 108–375, §822(1), added par. (1) and struck out former par. (1) which read as follows: “the amount specified in subsections (c), (d), and (f) of section 428 of this title shall be deemed to be $15,000; and”.
+
+Subsec. (b)(2)(B). Pub. L. 108–375, §822(2), substituted “$1,000,000” for “$500,000”.
 
 #### Authority to Enter Into Certain Transactions for Defense Against or Recovery From Terrorism or Nuclear, Biological, Chemical, or Radiological Attack
 

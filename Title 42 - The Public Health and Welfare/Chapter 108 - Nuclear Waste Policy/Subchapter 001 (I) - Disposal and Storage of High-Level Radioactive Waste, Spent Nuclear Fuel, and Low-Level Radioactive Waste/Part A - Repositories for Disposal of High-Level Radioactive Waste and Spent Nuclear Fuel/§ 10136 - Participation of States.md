@@ -16,9 +16,9 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 (1)(A) The Secretary shall make grants to the State of Nevada and any affected unit of local government for the purpose of participating in activities required by this section and section 10137 of this title or authorized by written agreement entered into pursuant to section 10137(c) of this title. Any salary or travel expense that would ordinarily be incurred by such State or affected unit of local government, may not be considered eligible for funding under this paragraph.
 
-(B) The Secretary shall make grants to the State of Nevada and any affected unit of local government for purposes of enabling such State or affected unit of local government—
+(B) The Secretary shall make grants to the State of Nevada and any affected unit of localgovernment for purposes of enabling such State or affected unit of local government—
 
-&emsp;(i) to review activities taken under this part with respect to the Yucca Mountain site forpurposes of determining any potential economic, social, public health and safety, and environmental impacts of a repository on such State, or affected unit of local government and its residents;
+&emsp;(i) to review activities taken under this part with respect to the Yucca Mountain site for purposes of determining any potential economic, social, public health and safety, and environmental impacts of a repository on such State, or affected unit of local government and its residents;
 
 &emsp;(ii) to develop a request for impact assistance under paragraph (2);
 
@@ -81,8 +81,4 @@ Whenever the Secretary is required under any provision of this chapter to notify
 #### Amendments
 
 1987—Subsec. (c). Pub. L. 100–202 and Pub. L. 100–203 generally amended subsec. (c) identically, substituting provisions consisting of pars. (1) to (6) for former provisions consisting of pars. (1) to (5).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10121, 10134, 10135, 10137, 10138, 10161, 10166, 10169, 10173a, 10222, 10243 of this title.
 

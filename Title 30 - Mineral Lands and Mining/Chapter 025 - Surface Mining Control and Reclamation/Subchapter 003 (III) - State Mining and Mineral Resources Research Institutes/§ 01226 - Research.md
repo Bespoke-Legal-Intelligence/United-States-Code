@@ -36,7 +36,3 @@ A prior section 1226, Pub. L. 95–87, title III, §306, Aug. 3, 1977, 91 Stat. 
 
 1988—Subsec. (d). Pub. L. 100–483 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated after September 30, 1984, such sums as are necessary for the printing and publishing of the results of activities carried out by institutes under this subchapter and for administrative planning and direction, but such appropriations shall not exceed $1,000,000 in any single fiscal year.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1328 of this title.
-

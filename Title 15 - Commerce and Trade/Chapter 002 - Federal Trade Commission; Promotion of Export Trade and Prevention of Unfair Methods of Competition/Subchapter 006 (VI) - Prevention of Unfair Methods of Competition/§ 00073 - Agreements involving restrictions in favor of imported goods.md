@@ -4,7 +4,3 @@ If any article produced in a foreign country is imported into the United States 
 
 (Sept. 8, 1916, ch. 463, title VIII, §802, 39 Stat. 799.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 74 of this title.
-

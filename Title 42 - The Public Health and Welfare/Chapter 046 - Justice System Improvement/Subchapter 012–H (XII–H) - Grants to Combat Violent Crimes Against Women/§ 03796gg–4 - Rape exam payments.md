@@ -12,7 +12,7 @@
 
 #### (b) Medical costs
 
-A State, Indian tribal government, or unit of local government shall be deemed to incur thefull out-of-pocket cost of forensic medical exams for victims of sexual assault if any government entity—
+A State, Indian tribal government, or unit of local government shall be deemed to incur the full out-of-pocket cost of forensic medical exams for victims of sexual assault if any government entity—
 
 &emsp;(1) provides such exams to victims free of charge to the victim;
 
@@ -28,13 +28,5 @@ A State, Indian tribal government, or unit of local government shall be deemed t
 
 &emsp;&emsp;(D) the State, Indian tribal government, unit of local government, or reimbursing governmental entity provides information at the time of the exam to all victims, including victims with limited or no English proficiency, regarding how to obtain reimbursement.
 
-(Pub. L. 90–351, title I, §2010, formerly §2005, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1914; renumbered §2010, Pub. L. 107–273, div. A, title IV, §402(2), Nov. 2, 2002, 116 Stat. 1789.)
-
-#### Codification
-
-Amendment by section 402(2) of Pub. L. 107–273, which directed the renumbering of sections 2002 to 2006 of Pub. L. 90–351 as sections 2006 to 2011 of that act, was executed by renumbering sections 2002 to 2006 as sections 2007 to 2011 of that act, respectively, to reflect the probable intent of Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3796gg–1 of this title.
+(Pub. L. 90–351, title I, §2010, formerly §2005, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1914; renumbered §2010, Pub. L. 107–273, div. A, title IV, §402(2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, §310(b), Oct. 30, 2004, 118 Stat. 2276.)
 

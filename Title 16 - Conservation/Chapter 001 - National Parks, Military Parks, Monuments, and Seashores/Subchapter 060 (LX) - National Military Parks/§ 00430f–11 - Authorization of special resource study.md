@@ -68,7 +68,3 @@ Not later than 1 year and 180 days after the date on which funds are made availa
 
 (Pub. L. 106–271, §7, Sept. 22, 2000, 114 Stat. 795.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430f–6, 430f–7, 430f–10, 430f–12 of this title.
-

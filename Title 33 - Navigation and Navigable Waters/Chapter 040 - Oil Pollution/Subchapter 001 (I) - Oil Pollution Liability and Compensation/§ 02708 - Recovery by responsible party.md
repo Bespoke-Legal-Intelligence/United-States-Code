@@ -14,7 +14,3 @@ A responsible party who is entitled to a limitation of liability may assert a cl
 
 (Pub. L. 101–380, title I, §1008, Aug. 18, 1990, 104 Stat. 497.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2713 of this title.
-

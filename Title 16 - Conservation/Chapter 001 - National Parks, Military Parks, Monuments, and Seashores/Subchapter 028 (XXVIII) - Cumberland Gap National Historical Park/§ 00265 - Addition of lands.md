@@ -2,7 +2,7 @@
 
 The Secretary of the Interior may acquire for addition to Cumberland Gap National Historical Park the following described land and interests in land, located in Bell County, Kentucky: <i>Provided</i>, That appropriated funds may not be used to pay more than one-half the cost of such acquisition.
 
-Beginning at a concrete marker on the west boundary of Cumberland Gap National Historical Park and being on the south margin of Avondale Avenue in the city of Middlesboro, Kentucky, and also on the south bank of Davis Branch; thence along the park boundary the following courses and distances;
+Beginning at a concrete marker on the west boundary of Cumberland Gap National Historical Park and being on the south margin of Avondale Avenue in the city of Middlesboro,Kentucky, and also on the south bank of Davis Branch; thence along the park boundary the following courses and distances;
 
 South 24 degrees 50 minutes west, 196.79 feet; thence south 30 degrees 02 minutes west, 129.95 feet to a stake; thence south 12 degrees 22 minutes west, 31.82 feet; thence south 80 degrees 38 minutes west, 143.36 feet; thence south 88 degrees 04 minutes west, 100 feet; thence north 86 degrees 14 minutes west, 100 feet; thence north 80 degrees 33 minutes west, 100 feet; thence north 77 degrees 42 minutes west, 186.40 feet;
 

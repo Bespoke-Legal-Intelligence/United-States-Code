@@ -30,7 +30,7 @@ Subject to the availability of appropriations, the Attorney General shall provid
 
 #### (ii) Aliens convicted of aggravated felonies
 
-&emsp;&emsp;&emsp;The estimate under clause (i) shall estimate separately, with respect to each yeardescribed in such clause, the number of criminal aliens described in such clause who were convicted of an aggravated felony.
+&emsp;&emsp;&emsp;The estimate under clause (i) shall estimate separately, with respect to each year described in such clause, the number of criminal aliens described in such clause who were convicted of an aggravated felony.
 
 #### (B) All inadmissible or deportable aliens
 
@@ -56,5 +56,5 @@ Amendment by section 308(g)(10)(G) of Pub. L. 104–208 effective, with certain 
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 

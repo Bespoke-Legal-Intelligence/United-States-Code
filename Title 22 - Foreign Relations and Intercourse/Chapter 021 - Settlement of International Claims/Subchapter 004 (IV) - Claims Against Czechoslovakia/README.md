@@ -82,7 +82,7 @@ Pub. L. 97–127, Dec. 29, 1981, 95 Stat. 1675, provided:
 
 &emsp;“(2) the amounts in the account established pursuant to section 4(b)(3) of this Act exceed the aggregate total of all awards certified by the Commission pursuant to section 6(b) of this Act,
 
-> the Secretary shall cover such excess amounts into the account established pursuant to section 4(b)(1) of this Act. The Secretary shall make payments pursuant to subsection (a) of this section, from such excess amounts, on the unpaid balance of awards certified by the Commission pursuant to section 410 of the International Claims Settlement Act of 1949 \[22 U.S.C. 1642i\].
+> the Secretary shall cover such excess amounts into the account established pursuant to section 4(b)(1) of this Act. The Secretary shall make payments pursuant to subsection (a) of this section, from such excessamounts, on the unpaid balance of awards certified by the Commission pursuant to section 410 of the International Claims Settlement Act of 1949 \[22 U.S.C. 1642i\].
 
 “(e) Payments under this section shall be made on the unpaid balance of each award which bear to such unpaid balance the same proportion as the total amount in the account in the Fund from which the payments are made bears to the aggregate unpaid balance of all awards payable from that account. Payments under this section, and applications for such payments, shall be made in accordance with such regulations as the Secretary may prescribe.
 

@@ -10,7 +10,3 @@ The Attorney General may consult with the Ounce of Prevention Council in making 
 
 (Pub. L. 103–322, title III, §31701, Sept. 13, 1994, 108 Stat. 1890.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

@@ -18,7 +18,7 @@ Published Works.—The works specified by sections 102 and 103, when published, 
 
 &emsp;(5) the work is first published by the United Nations or any of its specialized agencies, or by the Organization of American States; or
 
-&emsp;(6) the work comes within the scope of a Presidential proclamation. Whenever the President finds that a particular foreign nation extends, to works by authors who are nationals or domiciliaries of the United States or to works that are first published in the United States, copyright protection on substantially the same basis as that on which the foreign nation extends protection to works of its own nationals and domiciliaries and works first published in that nation, the President may by proclamation extend protection under this title to works of which one or more of the authors is, on the date of first publication, a national, domiciliary, or sovereign authority of that nation, or which was first published in that nation. The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection under a proclamation.
+&emsp;(6) the work comes within the scope of a Presidential proclamation. Whenever thePresident finds that a particular foreign nation extends, to works by authors who are nationals or domiciliaries of the United States or to works that are first published in the United States, copyright protection on substantially the same basis as that on which the foreign nation extends protection to works of its own nationals and domiciliaries and works first published in that nation, the President may by proclamation extend protection under this title to works of which one or more of the authors is, on the date of first publication, a national, domiciliary, or sovereign authority of that nation, or which was first published in that nation. The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection under a proclamation.
 
 > For purposes of paragraph (2), a work that is published in the United States or a treaty party within 30 days after publication in a foreign nation that is not a treaty party shall be considered to be first published in the United States or such treaty party, as the case may be.
 
@@ -330,7 +330,7 @@ This Convention shall not apply to works or rights in works which, at the effect
 
 3\. The Committee shall be selected with due consideration to a fair balance of national interests on the basis of geographical location, population, languages and stage of development.
 
-4\. The Director-General of the United Nations Educational, Scientific and Cultural Organization, the Director-General of the World Intellectual Property Organization and the Secretary-General of the Organizationof American States, or their representatives, may attend meetings of the Committee in an advisory capacity.
+4\. The Director-General of the United Nations Educational, Scientific and Cultural Organization, the Director-General of the World Intellectual Property Organization and the Secretary-General of the Organization of American States, or their representatives, may attend meetings of the Committee in an advisory capacity.
 
 #### Article XII
 
@@ -538,7 +538,7 @@ For the purposes of the application of the preceding provision, if the law of an
 
 2\. However, any Contracting State may, by its domestic legislation, restrict the right of translation of writings, but only subject to the following provisions:
 
-If, after the expiration of a period of seven years from the date of the first publication of a writing, a translation of such writing has not been published in the national language or languages, as the case may be, of the Contracting State, by the owner of the right of translation or with his authorization, any national of such Contracting State may obtain a non-exclusive license from the competent authority thereof to translate the work and publish the work so translated in any of the national languages in which it has not been published; provided that such national, in accordance with the procedure of the State concerned, establishes eitherthat he has requested, and been denied, authorization by the proprietor of the right to make and publish the translation, or that, after due diligence on his part, he was unable to find the owner of the right. A license may also be granted on the same conditions if all previous editions of a translation in such language are out of print.
+If, after the expiration of a period of seven years from the date of the first publication of a writing, a translation of such writing has not been published in the national language or languages, as the case may be, of the Contracting State, by the owner of the right of translation or with his authorization, any national of such Contracting State may obtain a non-exclusive license from the competent authority thereof to translate the work and publish the work so translated in any of the national languages in which it has not been published; provided that such national, in accordance with the procedure of the State concerned, establishes either that he has requested, and been denied, authorization by the proprietor of the right to make and publish the translation, or that, after due diligence on his part, he was unable to find the owner of the right. A license may also be granted on the same conditions if all previous editions of a translation in such language are out of print.
 
 If the owner of the right of translation cannot be found, then the applicant for a license shall send copies of his application to the publisher whose name appears on the work and, if the nationality of the owner of the right of translation is known, to the diplomatic or consular representative of the State of which such owner is a national, or to the organization which may have been designated by the government of that State. The license shall not be granted before the expiration of a period of two months from the date of the dispatch of the copies of the application.
 
@@ -608,7 +608,7 @@ Any Contracting State may, at the time of deposit of its instrument of ratificat
 
 #### Article XV
 
-A dispute between two or more Contracting States concerning the interpretation or application of thisConvention, not settled by negotiation, shall, unless the States concerned agree on some other method of settlement, be brought before the International Court of Justice for determination by it.
+A dispute between two or more Contracting States concerning the interpretation or application of this Convention, not settled by negotiation, shall, unless the States concerned agree on some other method of settlement, be brought before the International Court of Justice for determination by it.
 
 #### Article XVI
 
@@ -672,7 +672,7 @@ Having considered the problems relating to the Intergovernmental Committee provi
 
 (a) the normal duration of the term of office of the representatives shall be six years; with one third retiring every two years;
 
-(b) before the expiration of the term of office of any members, the Committee shall decide which States shall cease to be represented on it and which States shall be called upon to designate representatives; the representatives of those States which have not ratified, accepted or acceded shall be the first to retire;
+(b) before the expiration of the term of office of any members, the Committee shall decide which States shall cease to be represented on it and which States shall be called upon to designate representatives; therepresentatives of those States which have not ratified, accepted or acceded shall be the first to retire;
 
 (c) the different parts of the world shall be fairly represented;
 
@@ -744,7 +744,7 @@ Done at Geneva, the sixth day of September 1952, in the English, French and the 
 
 #### Particular Proclamations, Treaties and Conventions Establishing Copyright Relations Between the United States of America and Other Countries
 
-The following is based on <i>Treaties in Force</i>, as of January 1, 2004, published by the Department of State:
+The following is based on <i>Treaties in Force</i>, as of January 1, 2005, published by the Department of State:
 
 By virtue of Presidential proclamations, treaties, and conventions, the United States has established copyright relations with various other countries. This note is an attempt to present a complete and annotated list of those countries.
 
@@ -782,7 +782,27 @@ Proclamation specifically issued for the purpose of terminating a proclamation i
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### TREATIES AND CONVENTIONS
+#### TREATIES
+
+T
+
+Treaty relating in part to copyright.
+
+WTO
+
+Member of the World Trade Organization, established pursuant to the Marrakesh Agreement of April 15, 1994, to implement the Uruguay Round Agreements. These Agreements affect, among other things, intangible property rights, including copyright and other intellectual property rights. The effective date of United States membership in the WTO is January 1, 1995. A country's membership in the World Trade Organization is effective as of the date indicated.
+
+WCT
+
+WIPO Copyright Treaty. Adopted at Geneva December 20, 1996. Entered into force March 6, 2002. United States became a party, effective on that same date.
+
+WPPT
+
+WIPO Performances and Phonograms Treaty. Adopted at Geneva December 20, 1996. Entered into force May 20, 2002. United States became a party, effective on that same date.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### CONVENTIONS
 
 BAC
 
@@ -790,7 +810,7 @@ Buenos Aires Convention. Convention on literary and artistic copyright between t
 
 Berne
 
-The Berne Convention for the Protection of Literary and Artistic Works of September 9, 1886, as revised at Paris on July 24, 1971. Appearing within parentheses is the latest Act <sup>27</sup> of the Convention to which the listed country is party. The Berne Convention, as revised at Paris on July 24, 1971, and amended on October 2, 1979, did not enter into force with respect to the United States until March 1, 1989.
+The Berne Convention for the Protection of Literary and Artistic Works of September 9, 1886, as revised at Paris on July 24, 1971. Appearing within parentheses is the latest Act <sup>1</sup> of the Convention to which the listed country is party. The Berne Convention, as revised at Paris on July 24, 1971, and amended on October 2, 1979, did not enter into force with respect to the United States until March 1, 1989.
 
 MCC
 
@@ -816,10 +836,6 @@ Cm
 
 Bilateral convention including provisions covering mechanical reproduction rights for musical works.
 
-T
-
-Treaty relating in part to copyright.
-
 Pg
 
 Convention for the Protection of Producers of Phonograms Against Unauthorized Duplication of Their Phonograms. Done at Geneva October 29, 1971. Entered into force with respect to the United States on March 10, 1974.
@@ -827,18 +843,6 @@ Convention for the Protection of Producers of Phonograms Against Unauthorized Du
 Pcss
 
 Convention Relating to the Distribution of Programme-Carrying Signals Transmitted by Satellite. Done at Brussels May 21, 1974. Entered into force with respect to the United States on March 7, 1985.
-
-WTO
-
-Member of the World Trade Organization, established pursuant to the Marrakesh Agreement of April 15, 1994, to implement the Uruguay Round Agreements. These Agreements affect, among other things, intangible property rights, including copyright and other intellectual property rights. The effective date of United States membership in the WTO is January 1, 1995. A country's membership in the World Trade Organization is effective as of the date indicated.
-
-WCT
-
-WIPO Copyright Treaty. Adopted at Geneva December 20, 1996. Entered into force March 6, 2002. United States became a party, effective on that same date.
-
-WPPT
-
-WIPO Performances and Phonograms Treaty. Adopted at Geneva December 20, 1996. Entered into force May 20, 2002. United States became a party, effective on that same date.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -852,11 +856,41 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 
 <i>Document</i>
 
-<i>Effective Date for Party </i><i><sup>28</sup></i>
+<i>Effective Date for Party </i><i><sup>2</sup></i>
 
 <i>Reference</i>
 
-Albania DBerne (Paris) DJuly 24, 1971 DMar. 6, 1994 DT. Doc. 99–27.
+Albania DUCC DSept. 6, 1952 DFeb. 4, 2004 D6 UST 2731.
+
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+Mar. 6, 1994
+
+T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+Feb. 4, 2004
+
+25 UST 1341.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+June 26, 2001
+
+25 UST 309.
 
 &nbsp;
 
@@ -900,15 +934,17 @@ July 10, 1974
 
 25 UST 1341.
 
-Andorra
+Andorra DUCC DSept. 6, 1952 DSept. 16, 1955 D6 UST 2731.
 
-UCC
+&nbsp;
 
-Sept. 6, 1952
+Berne (Paris)
 
-Sept. 16, 1955
+July 24, 1971
 
-6 UST 2731.
+June 2, 2004
+
+T. Doc. 99–27.
 
 Angola
 
@@ -920,7 +956,7 @@ Nov. 23, 1996
 
 33 ILM 15.
 
-Antigua and Barbuda DBerne (Paris) DJuly 24, 1971 DMar. 17, 2000DT. Doc. 99–27..
+Antigua and Barbuda DBerne (Paris) DJuly 24, 1971 DMar. 17, 2000 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -966,7 +1002,7 @@ T. Doc. 99–27.
 
 &nbsp;
 
-Pg \\32\\
+Pg <sup>3</sup>
 
 Oct. 29, 1971
 
@@ -1046,11 +1082,11 @@ Feb. 5, 2003
 
 33 ILM 15.
 
-Australia <sup>1</sup> DPm DApr. 3, 1918 DMar. 15, 1918 D40 Stat. 1764.
+Australia <sup>4</sup> DPm DApr. 3, 1918 DMar. 15, 1918 D40 Stat. 1764.
 
 &nbsp;
 
-Pxx <sup>2</sup>
+Pxx <sup>5</sup>
 
 Dec. 29, 1949
 
@@ -1118,7 +1154,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Austria <sup>3</sup> DP DSept. 20, 1907 DSept. 20, 1907 D35 Stat. 2155.
+&nbsp;
+
+C
+
+May 18, 2004
+
+Jan. 1, 2005
+
+H. Doc. 108–199.
+
+Austria <sup>6</sup> DP DSept. 20, 1907 DSept. 20, 1907 D35 Stat. 2155.
 
 &nbsp;
 
@@ -1202,7 +1248,7 @@ Aug. 21, 1982
 
 &nbsp;
 
-Pcss \\31\\
+Pcss <sup>7</sup>
 
 May 21, 1974
 
@@ -1444,7 +1490,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Belize DUCC \\20\\ DSept. 6, 1952 DDec. 1, 1982 D6 UST 2731.
+Belize DUCC <sup>8</sup> DSept. 6, 1952 DDec. 1, 1982 D6 UST 2731.
 
 &nbsp;
 
@@ -1477,6 +1523,16 @@ Apr. 15, 1994
 Feb. 22, 1996
 
 33 ILM 15.
+
+Bhutan
+
+Berne (Paris)
+
+July 24, 1971
+
+Nov. 25, 2004
+
+T. Doc. 99–27.
 
 Bolivia DBAC DAug. 11, 1910 DMay 15, 1914 D38 Stat. 1785.
 
@@ -1760,15 +1816,17 @@ July 23, 1995
 
 33 ILM 15.
 
-Cambodia <sup>6</sup>
+Cambodia <sup>9</sup> DUCC DSept. 6, 1952 DSept. 16, 1955 D6 UST 2731.
 
-UCC
+&nbsp;
 
-Sept. 6, 1952
+WTO
 
-Sept. 16, 1955
+Apr. 15, 1994
 
-6 UST 2731.
+Oct. 13, 2004
+
+33 ILM 15.
 
 Cameroon DUCC DSept. 6, 1952 DMay 1, 1973 D6 UST 2731.
 
@@ -1802,7 +1860,7 @@ Dec. 13, 1995
 
 33 ILM 15.
 
-Canada <sup>1</sup> DPm DDec. 27, 1923 DJan. 1, 1924 D43 Stat. 1932.
+Canada <sup>4</sup> DPm DDec. 27, 1923 DJan. 1, 1924 D43 Stat. 1932.
 
 &nbsp;
 
@@ -1960,6 +2018,16 @@ May 20, 2002
 
 T. Doc. 105–17.
 
+&nbsp;
+
+C
+
+June 6, 2003
+
+Jan. 1, 2004
+
+H. Doc. 108–101.
+
 China DT DOct. 8, 1903 DJan. 13, 1904 D33 Stat. 2208.
 
 &nbsp;
@@ -2014,7 +2082,7 @@ Apr. 30, 1993
 
 &nbsp;
 
-P <sup>4</sup>
+P \\10\\
 
 Mar. 17, 1992
 
@@ -2442,7 +2510,7 @@ Nov. 4, 2000
 
 T. Doc. 105–17.
 
-Czech Republic \\33\\ DUCC DSept. 6, 1952 DJan. 6, 1960 D6 UST 2731.
+Czech Republic \\11\\ DUCC DSept. 6, 1952 DJan. 6, 1960 D6 UST 2731.
 
 &nbsp;
 
@@ -2504,7 +2572,7 @@ May 20, 2002
 
 T. Doc. 105–17.
 
-Czechoslovakia<sup> 34, 35</sup>
+Czechoslovakia \\12\\  \\13\\
 
 Pm
 
@@ -2524,7 +2592,7 @@ Apr. 7, 1934
 
 48 Stat. 1737.
 
-Denmark <sup>5</sup> DP DMay 8, 1893 DMay 8, 1893 D28 Stat. 1219.
+Denmark \\14\\ DP DMay 8, 1893 DMay 8, 1893 D28 Stat. 1219.
 
 &nbsp;
 
@@ -2618,11 +2686,11 @@ May 31, 1995
 
 33 ILM 15.
 
-Dominica DBerne (Paris) DJuly 24, 1971 DAug. 7, 1999 DT. Doc. 99–27.
+Dominica DWTO DJuly 24, 1971 DAug. 7, 1999 DT. Doc. 99–27.
 
 &nbsp;
 
-WTO
+Berne (Paris)
 
 Apr. 15, 1994
 
@@ -2904,7 +2972,7 @@ Mar. 13, 1972
 
 &nbsp;
 
-Pg \\32\\
+Pg <sup>3</sup>
 
 Oct. 29, 1971
 
@@ -2966,7 +3034,7 @@ Nov. 1, 1986
 
 &nbsp;
 
-Pg \\32\\
+Pg <sup>3</sup>
 
 Oct. 29, 1971
 
@@ -2984,59 +3052,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Former Yugoslav Republic of Macedonia DUCC DSept. 6, 1952 DJuly 30, 1997 D6 UST 2731.
-
-&nbsp;
-
-Berne (Paris)
-
-July 24, 1971
-
-Sept. 8, 1991
-
-T. Doc. 99–27.
-
-&nbsp;
-
-UCC rev.
-
-July 24, 1971
-
-July 30, 1997
-
-25 UST 1341.
-
-&nbsp;
-
-Pg
-
-Oct. 29, 1971
-
-Mar. 2, 1998
-
-25 UST 309.
-
-&nbsp;
-
-Pcss
-
-May 21, 1974
-
-Nov. 17, 1991
-
-T. Doc. 98–31.
-
-&nbsp;
-
-WTO
-
-Apr. 15, 1994
-
-Apr. 4, 2001
-
-33 ILM 15.
-
-France <sup>6</sup> DP DJuly 1, 1891 DJuly 1, 1891 D27 Stat. 981.
+France <sup>9</sup> DP DJuly 1, 1891 DJuly 1, 1891 D27 Stat. 981.
 
 &nbsp;
 
@@ -3110,7 +3126,7 @@ July 10, 1974
 
 &nbsp;
 
-Pg \\32\\
+Pg <sup>3</sup>
 
 Oct. 29, 1971
 
@@ -3214,7 +3230,7 @@ May 20, 2002
 
 T. Doc. 105–17.
 
-Germany <sup>3,</sup> \\29\\<sup>,</sup> \\36\\ DP DApr. 15, 1892 DApr. 15, 1892 D27 Stat. 1021.
+Germany <sup>6</sup>  \\15\\  \\16\\ DP DApr. 15, 1892 DApr. 15, 1892 D27 Stat. 1021.
 
 &nbsp;
 
@@ -3298,7 +3314,7 @@ May 18, 1974
 
 &nbsp;
 
-Pcss \\31\\
+Pcss <sup>7</sup>
 
 May 21, 1974
 
@@ -3466,21 +3482,21 @@ July 21, 1995
 
 &nbsp;
 
-WPPT
-
-Dec. 20, 1996
-
-Jan. 8, 2003
-
-T. Doc. 105–17.
-
-&nbsp;
-
 WCT
 
 Dec. 20, 1996
 
 Feb. 4, 2003
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Jan. 8, 2003
 
 T. Doc. 105–17.
 
@@ -3678,7 +3694,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Hungary <sup>3</sup> DCm <sup>7</sup> DJan. 30, 1912 DOct. 16, 1912 D37 Stat. 1631.
+Hungary <sup>6</sup> DCm \\17\\ DJan. 30, 1912 DOct. 16, 1912 D37 Stat. 1631.
 
 &nbsp;
 
@@ -3692,7 +3708,7 @@ June 3, 1922
 
 &nbsp;
 
-T <sup>8, 9</sup>
+T \\18\\  \\19\\
 
 Feb. 10, 1947
 
@@ -3792,7 +3808,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-India <sup>1,</sup> \\10\\ DUCC DSept. 6, 1952 DJan. 21, 1958 D6 UST 2731.
+India <sup>4</sup>  \\20\\ DUCC DSept. 6, 1952 DJan. 21, 1958 D6 UST 2731.
 
 &nbsp;
 
@@ -3876,7 +3892,7 @@ Mar. 6, 2002
 
 T. Doc. 105–17.
 
-Ireland <sup>1</sup> DPm \\11\\ DSept. 28, 1929 DOct. 1, 1929 D46 Stat. 3005.
+Ireland <sup>4</sup> DPm \\21\\ DSept. 28, 1929 DOct. 1, 1929 D46 Stat. 3005.
 
 &nbsp;
 
@@ -3908,7 +3924,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Israel \\12\\ DBerne (Brussels) DJune 26, 1948 DAug. 1, 1951 D331 UNTS 217.
+Israel \\22\\ DBerne (Brussels) DJune 26, 1948 DAug. 1, 1951 D331 UNTS 217.
 
 &nbsp;
 
@@ -3932,6 +3948,16 @@ Sept. 16, 1955
 
 &nbsp;
 
+Berne (Paris)
+
+July 24, 1971
+
+Jan. 1, 2004
+
+T. Doc. 99–27.
+
+&nbsp;
+
 Pg
 
 Oct. 29, 1971
@@ -3950,7 +3976,7 @@ Apr. 21, 1995
 
 33 ILM 15.
 
-Italy DP \\13\\ DOct. 31, 1892 DOct. 31, 1892 D27 Stat. 1043.
+Italy DP \\23\\ DOct. 31, 1892 DOct. 31, 1892 D27 Stat. 1043.
 
 &nbsp;
 
@@ -3964,7 +3990,7 @@ July 1, 1909
 
 &nbsp;
 
-Pm \\13\\
+Pm \\23\\
 
 May 1, 1915
 
@@ -3984,7 +4010,7 @@ June 3, 1922
 
 &nbsp;
 
-T <sup>9,</sup> \\14\\
+T \\19\\  \\24\\
 
 Feb. 10, 1947
 
@@ -4044,7 +4070,7 @@ Mar. 24, 1977
 
 &nbsp;
 
-Pcss \\31\\
+Pcss <sup>7</sup>
 
 May 21, 1974
 
@@ -4114,11 +4140,11 @@ June 12, 2002
 
 T. Doc. 105–17.
 
-Japan DC \\15\\ DNov. 10, 1905 DMay 10, 1906 D34 Stat. 2890.
+Japan DC \\25\\ DNov. 10, 1905 DMay 10, 1906 D34 Stat. 2890.
 
 &nbsp;
 
-C \\16\\
+C \\26\\
 
 May 19, 1908
 
@@ -4128,7 +4154,7 @@ Aug. 6, 1908
 
 &nbsp;
 
-T \\17\\
+T \\27\\
 
 Sept. 8, 1951
 
@@ -4148,7 +4174,7 @@ Apr. 28, 1956
 
 &nbsp;
 
-Pm \\18\\
+Pm \\28\\
 
 Nov. 10, 1953
 
@@ -4238,6 +4264,26 @@ Dec. 17, 2001
 
 H. Doc. 107–15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Apr. 27, 2004
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 24, 2004
+
+T. Doc. 105–17.
+
 Kazakhstan DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
 
 &nbsp;
@@ -4259,6 +4305,26 @@ Oct. 29, 1971
 Aug. 3, 2001
 
 25 UST 309.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Nov. 12, 2004
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Nov. 12, 2004
+
+T. Doc. 105–17.
 
 Kenya DUCC DSept. 6, 1952 DSept. 7, 1966 D6 UST 2731.
 
@@ -4294,7 +4360,7 @@ Apr. 21, 1976
 
 &nbsp;
 
-Pcss \\31\\
+Pcss <sup>7</sup>
 
 May 21, 1974
 
@@ -4312,7 +4378,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Korea DC \\19\\ DMay 19, 1908 DAug. 6, 1908 D35 Stat. 2041.
+Korea DC \\29\\ DMay 19, 1908 DAug. 6, 1908 D35 Stat. 2041.
 
 &nbsp;
 
@@ -4361,6 +4427,16 @@ Apr. 15, 1994
 Jan. 1, 1995
 
 33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+June 24, 2004
+
+T. Doc. 105–17.
 
 Kuwait
 
@@ -4424,7 +4500,7 @@ Aug. 15, 2002
 
 T. Doc. 105–17.
 
-Laos <sup>6</sup>
+Laos <sup>9</sup>
 
 UCC
 
@@ -4670,6 +4746,68 @@ Jan. 1, 1995
 
 33 ILM 15.
 
+Macedonia DUCC DSept. 6, 1952 DJuly 30, 1997 D6 UST 2731.
+
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+Sept. 8, 1991
+
+T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+July 30, 1997
+
+25 UST 1341.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Mar. 2, 1998
+
+25 UST 309.
+
+&nbsp;
+
+Pcss
+
+May 21, 1974
+
+Nov. 17, 1991
+
+T. Doc. 98–31.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Apr. 4, 2003
+
+33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Feb. 4, 2004
+
+T. Doc. 105–17.
+
 Madagascar DBerne (Brussels) DJune 26, 1948 DJan. 1, 1966 D331 UNTS 217.
 
 &nbsp;
@@ -4868,7 +5006,7 @@ Oct. 31, 1975
 
 &nbsp;
 
-Pg \\32\\
+Pg <sup>3</sup>
 
 Oct. 29, 1971
 
@@ -4878,7 +5016,7 @@ Dec. 21, 1973
 
 &nbsp;
 
-Pcss \\31\\
+Pcss <sup>7</sup>
 
 May 21, 1974
 
@@ -4915,6 +5053,16 @@ Dec. 20, 1996
 May 20, 2002
 
 T. Doc. 105–17.
+
+Micronesia
+
+Berne (Paris)
+
+July 24, 1971
+
+Oct. 7, 2003
+
+T. Doc. 99–27.
 
 Moldova DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
 
@@ -5076,7 +5224,7 @@ Jan. 28, 1976
 
 &nbsp;
 
-Pcss \\31\\
+Pcss <sup>7</sup>
 
 May 21, 1974
 
@@ -5113,6 +5261,16 @@ WTO
 Apr. 15, 1994
 
 Jan. 1, 1995
+
+33 ILM 15.
+
+Nepal
+
+WTO
+
+Apr. 15, 1994
+
+April 23, 2004
 
 33 ILM 15.
 
@@ -5188,7 +5346,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-New Zealand <sup>1</sup> DPm DFeb. 9, 1917 DDec. 1, 1916 D39 Stat. 1815.
+New Zealand <sup>4</sup> DPm DFeb. 9, 1917 DDec. 1, 1916 D39 Stat. 1815.
 
 &nbsp;
 
@@ -5304,7 +5462,7 @@ Aug. 10, 2000
 
 &nbsp;
 
-Pcss \\31\\
+Pcss <sup>7</sup>
 
 May 21, 1974
 
@@ -5480,7 +5638,7 @@ Nov. 9, 2000
 
 33 ILM 15.
 
-Pakistan <sup>1</sup> DBerne (Rome) DJune 2, 1928 DJuly 5, 1948 D123 LNTS 232.
+Pakistan <sup>4</sup> DBerne (Rome) DJune 2, 1928 DJuly 5, 1948 D123 LNTS 232.
 
 &nbsp;
 
@@ -5506,7 +5664,7 @@ Palestine (excluding Trans-Jordan) DPm DSept. 29, 1933 DOct. 1, 1933 D48 Stat. 1
 
 &nbsp;
 
-Pxx \\12\\
+Pxx \\22\\
 
 Mar. 10, 1944
 
@@ -5516,7 +5674,7 @@ Mar. 10, 1944
 
 &nbsp;
 
-Po \\12\\
+Po \\22\\
 
 May 26, 1950
 
@@ -5844,6 +6002,26 @@ July 1, 1995
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 23, 2004
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Oct. 21, 2003
+
+T. Doc. 105–17.
+
 Portugal DP DJuly 20, 1893 DJuly 20, 1893 D28 Stat. 1222.
 
 &nbsp;
@@ -5918,11 +6096,11 @@ Jan. 13, 1996
 
 33 ILM 15.
 
-Romania DPm \\22\\ DMay 14, 1928 DMay 14, 1928 D45 Stat. 2949.
+Romania DPm \\30\\ DMay 14, 1928 DMay 14, 1928 D45 Stat. 2949.
 
 &nbsp;
 
-T <sup>9,</sup> \\23\\
+T \\19\\  \\31\\
 
 Feb. 10, 1947
 
@@ -6014,7 +6192,7 @@ Mar. 13, 1995
 
 &nbsp;
 
-Pcss \\30\\
+Pcss \\32\\
 
 May 21, 1974
 
@@ -6043,6 +6221,16 @@ July 24, 1971
 Nov. 10, 1989
 
 25 UST 1341.
+
+&nbsp;
+
+Pcss
+
+May 21, 1974
+
+July 25, 2001
+
+T. Doc. 98–31.
 
 &nbsp;
 
@@ -6144,6 +6332,16 @@ Saudi Arabia DUCC DSept. 6, 1952 DJuly 13, 1994 D6 UST 2731.
 
 &nbsp;
 
+Berne (Paris)
+
+July 24, 1971
+
+Mar. 11, 2004
+
+T. Doc. 99–27.
+
+&nbsp;
+
 UCC rev.
 
 July 24, 1971
@@ -6204,6 +6402,58 @@ May 20, 2002
 
 T. Doc. 105–17.
 
+Serbia and Montenegro DUCC DSept. 6, 1952 DDec. 11, 2001 D6 UST 2731.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+Dec. 11, 2001
+
+25 UST 1341.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+June 10, 2003
+
+25 UST 309.
+
+&nbsp;
+
+Pcss
+
+May 21, 1974
+
+Apr. 27, 1992
+
+T. Doc. 98–31.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+June 13, 2003
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+June 13, 2003
+
+T. Doc. 105–17.
+
 Sierra Leone
 
 WTO
@@ -6236,7 +6486,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Slovakia \\37\\ DUCC DSept. 6, 1952 DJan. 6, 1960 D6 UST 2731.
+Slovakia \\33\\ DUCC DSept. 6, 1952 DJan. 6, 1960 D6 UST 2731.
 
 &nbsp;
 
@@ -6380,7 +6630,7 @@ July 26, 1996
 
 33 ILM 15.
 
-South Africa <sup>1</sup> DPm DJune 26, 1924 DJuly 1, 1924 D43 Stat. 1957.
+South Africa <sup>4</sup> DPm DJune 26, 1924 DJuly 1, 1924 D43 Stat. 1957.
 
 &nbsp;
 
@@ -6402,7 +6652,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Spain <sup>5</sup> DP \\24\\ DJuly 10, 1895 DJuly 10, 1895 D29 Stat. 871.
+Spain \\14\\ DP \\34\\ DJuly 10, 1895 DJuly 10, 1895 D29 Stat. 871.
 
 &nbsp;
 
@@ -6584,7 +6834,7 @@ July 10, 1974
 
 &nbsp;
 
-Pg \\32\\
+Pg <sup>3</sup>
 
 Oct. 29, 1971
 
@@ -6684,6 +6934,16 @@ July 1, 1995
 
 33 ILM 15.
 
+Syria
+
+Berne (Paris)
+
+July 24, 1971
+
+June 11, 2004
+
+T. Doc. 99–27.
+
 Tajikistan DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
 
 &nbsp;
@@ -6696,7 +6956,7 @@ Mar. 9, 2000
 
 T. Doc. 99–27.
 
-Tanzania (United Republic of) DBerne (Paris) DJuly 24, 1971 DJuly 25, 1994 DT. Doc. 99–27.
+Tanzania, United Republic of DBerne (Paris) DJuly 24, 1971 DJuly 25, 1994 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -6708,11 +6968,11 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Thailand DT \\25\\ DDec. 16, 1920 DSept. 1, 1921 D42 Stat. 1928.
+Thailand DT \\35\\ DDec. 16, 1920 DSept. 1, 1921 D42 Stat. 1928.
 
 &nbsp;
 
-T \\25\\
+T \\35\\
 
 Nov. 13, 1937
 
@@ -6722,7 +6982,7 @@ Oct. 1, 1938
 
 &nbsp;
 
-T \\25\\
+T \\35\\
 
 May 29, 1966
 
@@ -6750,7 +7010,27 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Togo DBerne (Paris) DJuly 24, 1971 DApr. 30, 1975 DT. Doc. 99–27.
+Togo DUCC DSept. 6, 1952 DMay 28, 2003 D6 UST 2731.
+
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+Apr. 30, 1975
+
+T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+May 28, 2003
+
+25 UST 1341.
 
 &nbsp;
 
@@ -6761,6 +7041,16 @@ Oct. 28, 1971
 June 10, 2003
 
 25 UST 309.
+
+&nbsp;
+
+Pcss
+
+May 21, 1974
+
+June 10, 2003
+
+T. Doc. 98–31.
 
 &nbsp;
 
@@ -6854,7 +7144,7 @@ Mar. 1, 1995
 
 33 ILM 15.
 
-Tunisia DP \\26\\ DOct. 4, 1912 DOct. 4, 1912 D37 Stat. 1765.
+Tunisia DP \\36\\ DOct. 4, 1912 DOct. 4, 1912 D37 Stat. 1765.
 
 &nbsp;
 
@@ -6970,17 +7260,29 @@ May 20, 2002
 
 T. Doc. 105–17.
 
-United Arab Emirates
+United Arab Emirates DWTO DApr. 15, 1994 DApr. 10, 1996 D33 ILM 15.
 
-WTO
+&nbsp;
 
-Apr. 15, 1994
+Berne (Paris)
 
-Apr. 10, 1996
+July 24, 1971
 
-33 ILM 15.
+July 14, 2004
 
-United Kingdom <sup>1</sup> DUCC DSept. 6, 1952 DSept. 27, 1957 D6 UST 2731.
+T. Doc. 99–27.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+July 14, 2004
+
+T. Doc. 105–17.
+
+United Kingdom <sup>4</sup> DUCC DSept. 6, 1952 DSept. 27, 1957 D6 UST 2731.
 
 &nbsp;
 
@@ -7004,7 +7306,7 @@ July 10, 1974
 
 &nbsp;
 
-Pg \\32\\
+Pg <sup>3</sup>
 
 Oct. 29, 1971
 
@@ -7022,7 +7324,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-United Kingdom and Possessions <sup>1</sup> DP DJuly 1, 1891 DJuly 1, 1891 D27 Stat. 981.
+United Kingdom and Possessions <sup>4</sup> DP DJuly 1, 1891 DJuly 1, 1891 D27 Stat. 981.
 
 &nbsp;
 
@@ -7034,7 +7336,7 @@ July 1, 1909
 
 36 Stat. 2685.
 
-United Kingdom and the British Dominions, Colonies and Possessions with the exception of Canada, Australia, New Zealand, South Africa and Newfoundland <sup>1</sup>
+United Kingdom and the British Dominions, Colonies and Possessions with the exception of Canada, Australia, New Zealand, South Africa and Newfoundland <sup>4</sup>
 
 Pm
 
@@ -7052,7 +7354,7 @@ Feb. 2, 1920
 
 41 Stat. 1790.
 
-United Kingdom, including certain British Territories <sup>1</sup> and Palestine \\12\\
+United Kingdom, including certain British Territories <sup>4</sup> and Palestine \\22\\
 
 Pxx
 
@@ -7206,7 +7508,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Vietnam DP \\38\\ DDec. 23, 1998 DDec. 23, 1998 D63 F. Reg. 71571.
+Vietnam DBerne (Paris) DJuly 24, 1971 DOct. 26, 2004 DT. Doc. 99–27.
+
+&nbsp;
+
+P \\37\\
+
+Dec. 23, 1998
+
+Dec. 23, 1998
+
+63 F. Reg. 71571.
 
 &nbsp;
 
@@ -7218,7 +7530,7 @@ Dec. 10, 2001
 
 H. Doc. 107–85.
 
-Yugoslavia \\39\\ DUCC DSept. 6, 1952 DMay 11, 1966 D6 UST 2731.
+Yugoslavia \\38\\ DUCC DSept. 6, 1952 DMay 11, 1966 D6 UST 2731.
 
 &nbsp;
 
@@ -7242,7 +7554,7 @@ July 10, 1974
 
 &nbsp;
 
-Pcss \\31\\
+Pcss <sup>7</sup>
 
 May 21, 1974
 
@@ -7284,85 +7596,83 @@ Mar. 5, 1995
 
 33 ILM 15.
 
-<sup>1</sup> The proclamations of July 1, 1891 and April 9, 1910, apply to “Great Britain and the British possessions,” but the proclamations of January 1, 1915 and April 10, 1920, specifically except Australia, Canada, Newfoundland, New Zealand, and South Africa. The proclamations of March 10, 1944 and May 26, 1950, enumerate the various British territories to which they apply; the enumeration does not mention the areas specifically excepted in the proclamations of 1915 and 1920. Proclamations establishing individual copyright relations with Australia, Canada, Ireland, New Zealand, Palestine, and South Africa are listed separately. See also footnotes 2, 11, and 12. The proclamation of December 27, 1923, regarding Canada is considered as applying to Newfoundland at the present time.
+<sup>1</sup> “Paris” means the Berne Convention for the Protection of Literary and Artistic Works as revised at Paris on July 24, 1971 (Paris Act); “Stockholm” means the said Convention as revised at Stockholm on July 14, 1967 (Stockholm Act); “Brussels” means the said Convention as revised at Brussels on June 26, 1948 (Brussels Act); “Rome” means the said Convention as revised at Rome on June 2, 1928 (Rome Act); “Berlin” means the said Convention as revised at Berlin on November 13, 1908 (Berlin Act). NOTE: In each case the reference to Act signifies adherence to the substantive provisions of such Act only, <i>e.g</i>., Articles 1 to 21 and the Appendix of the Paris Act.
 
-The copyright proclamations of July 1, 1891, April 9, 1910, January 1, 1915, April 10, 1920, and March 10, 1944, regarding Great Britain and possessions each applied when issued to the areas now within the boundaries of Burma, Ceylon, India, and Pakistan. See footnote 10 with respect to India. No announcement has been made as to the application of the proclamations to Burma, Ceylon, and Pakistan since they acquired their new status.
+<sup>2</sup> The effective date is the date on which the designated State became party to the Convention or Treaty named, or in the case of the Berne Convention, the date on which the latest Act of the Convention to which such State is party entered into force with respect to that State.
 
-<sup>2</sup> The proclamation of December 29, 1949, extends for one year from its date the period of time for compliance by citizens of Australia with the conditions and formalities prescribed by the copyright law of the United States.
+<sup>3</sup> The Convention for the Protection of Producers of Phonograms Against Unauthorized Duplication of Their Phonograms done at Geneva on October 29, 1971, did not enter into force with respect to the United States until March 10, 1974.
 
-<sup>3</sup> The United States entered into treaties restoring friendly relations with Austria, Germany, and Hungary at Vienna on August 24, 1921 (42 Stat. 1946; TS 659), at Berlin on August 25, 1921 (42 Stat. 1939; TS 658); and at Budapest on August 29, 1921 (42 Stat. 1951; TS 610). By virtue of these treaties the United States became entitled to the benefits of the provisions relative to copyright protection in the treaties of peace signed by Austria, Germany, and Hungary at Saint-Germain-en-Laye on September 10, 1919, at Versailles on June 28, 1919, and at Trianon on June 4, 1920, respectively. See also footnote 7.
+<sup>4</sup> The proclamations of July 1, 1891 and April 9, 1910, apply to “Great Britain and the British possessions,” but the proclamations of January 1, 1915 and April 10, 1920, specifically except Australia, Canada, Newfoundland, New Zealand, and South Africa. The proclamations of March 10, 1944 and May 26, 1950, enumerate the various British territories to which they apply; the enumeration does not mention the areas specifically excepted in the proclamations of 1915 and 1920. Proclamations establishing individual copyright relations with Australia, Canada, Ireland, New Zealand, Palestine, and South Africa are listed separately. See also footnotes 5, 21, and 22. The proclamation of December 27, 1923, regarding Canada is considered as applying to Newfoundland at the present time.
 
-<sup>4</sup> Bilateral copyright relations between the People's Republic of China and the United States of America were established, effective March 17, 1992, by a Presidential Proclamation of the same date, under the authority of section 104 of title 17 of the United States Code, as amended by the Act of October 31, 1988 (Public Law 100–568, 102 Stat. 2853, 2855).
+The copyright proclamations of July 1, 1891, April 9, 1910, January 1, 1915, April 10, 1920, and March 10, 1944, regarding Great Britain and possessions each applied when issued to the areas now within the boundaries of Burma, Ceylon, India, and Pakistan. See footnote 20 with respect to India. No announcement has been made as to the application of the proclamations to Burma, Ceylon, and Pakistan since they acquired their new status.
 
-<sup>5</sup> Treaties and conventions containing provisions relative to copyright protection in territories ceded to the United States are not included in this table: for example, the Treaty of Peace with Spain signed at Paris, December 10, 1898 (30 Stat. 1754; TS 343), and the Convention with Denmark for the Cession to the United States of the Danish West Indies, signed at New York, August 4, 1916 (39 Stat. 1706; TS 629).
+<sup>5</sup> The proclamation of December 29, 1949, extends for one year from its date the period of time for compliance by citizens of Australia with the conditions and formalities prescribed by the copyright law of the United States.
 
-<sup>6</sup> The Department of State has made no announcement as to the application of the proclamations of July 1, 1891, April 9, 1910, May 24, 1918, and March 27, 1947, to Cambodia, Laos, and Viet-Nam.
+<sup>6</sup> The United States entered into treaties restoring friendly relations with Austria, Germany, and Hungary at Vienna on August 24, 1921 (42 Stat. 1946; TS 659), at Berlin on August 25, 1921 (42 Stat. 1939; TS 658); and at Budapest on August 29, 1921 (42 Stat. 1951; TS 610). By virtue of these treaties the United States became entitled to the benefits of the provisions relative to copyright protection in the treaties of peace signed by Austria, Germany, and Hungary at Saint-Germain-en-Laye on September 10, 1919, at Versailles on June 28, 1919, and at Trianon on June 4, 1920, respectively. See also footnote 17.
 
-<sup>7</sup> Copyright convention signed at Budapest January 30, 1912 (TS 571). This convention was continued in force following World War I by notice given by the United States on May 27, 1922, to Hungary in pursuance of Article 224 of the Treaty of Trianon concluded on June 4, 1920 (III Redmond 3539), to the benefits of which the United States became entitled by the Treaty of August 29, 1921, establishing friendly relations between the United States and Hungary (42 Stat. 1951; TS 660). The convention of 1912 was kept in force or revived following World War II by notice given on March 9, 1948, by the United States to Hungary pursuant to Article 10 of the Treaty of Peace with Hungary (61 Stat. 2065; Department of State Bulletin, March 21, 1948, p. 382).
+<sup>7</sup> The Convention Relating to the Distribution of Programme-Carrying Signals Transmitted by Satellite done at Brussels on May 21, 1974, did not enter into force with respect to the United States until March 7, 1985.
 
-<sup>8</sup> Treaty of Peace with Hungary (Annex IV A) dated at Paris, February 10, 1947 (TIAS 1651).
+<sup>8</sup> Belize notified the Director-General of UNESCO on December 1, 1982, of its decision to apply “provisionally, and on the basis of reciprocity” the Universal Copyright Convention as adopted at Geneva on September 6, 1952, the application of which had been extended to its territory before the attainment of independence from the United Kingdom on September 21, 1981.
 
-<sup>9</sup> Except with respect to rights of third parties, the provisions relating to protection of copyright in the annexes to the Treaties of Peace with Hungary, Italy, and Romania dated at Paris, February 10, 1947, are bilateral in character. For example, the provisions of Annex IV A of the Treaty of Peace with Hungary relate, in general, to copyright relations between Hungary, on the one hand, and each of the other ratifying or adhering States, on the other. Those provisions do not pertain to copyright relations between those other States, except for third party rights. Annex IV of the Treaty of Peace with Bulgaria dated at Paris, February 10, 1947 (61 Stat. 1915; TIAS 1650) contains similar provisions. See also footnote 13.
+<sup>9</sup> The Department of State has made no announcement as to the application of the proclamations of July 1, 1891, April 9, 1910, May 24, 1918, and March 27, 1947, to Cambodia, Laos, and Viet-Nam.
 
-<sup>10</sup> The proclamation of October 21, 1954, affirms the existence of copyright relations with India after August 15, 1947 (the effective date of the Indian Independence Act). See also footnote 1.
+<sup>10</sup> Bilateral copyright relations between the People's Republic of China and the United States of America were established, effective March 17, 1992, by a Presidential Proclamation of the same date, under the authority of section 104 of title 17 of the United States Code, as amended by the Act of October 31, 1988 (Public Law 100–568, 102 Stat. 2853, 2855).
 
-<sup>11</sup> The Department of State has determined that the entry into force on April 18, 1949, of the Republic of Ireland Act had no effect upon the proclamation of September 28, 1929, regarding the Irish Free State (Eire). Copyright relations with Ireland are therefore governed by that proclamation. See also footnote 1.
+<sup>11</sup> For 1992 and prior years, see CZECHOSLOVAKIA.
 
-<sup>12</sup> The proclamations of March 10, 1944 and May 26, 1950, regarding Great Britain and possessions, also specifically refer to Palestine (excluding Trans-Jordan). See also footnote 1.
+<sup>12</sup> See also Czech Republic, Slovak Republic, and Slovakia.
 
-<sup>13</sup> The exchanges of notes between the United States and Italy, on the basis of which the proclamations of October 31, 1892 and May 1, 1915, were issued, were the subject of a note delivered on March 12, 1948, to the Italian Foreign Office by the American Embassy at Rome with respect to pre-war bilateral treaties and other international agreements which the United States desired to keep in force or revive pursuant to Article 44 of the Treaty of Peace with Italy. The note stated in part “that the Government of the United States of America wishes to include the reciprocal copyright arrangement between the United States and Italy effected pursuant to the exchange of notes signed at Washington October 28, 1892, and the exchanges of notes signed at Washington September 2, 1914, February 12, March 4, and March 11, 1915, among the pre-war bilateral treaties and other international agreements with Italy which the United States desires to keep in force or revive. Accordingly, it is understood that the aforementioned arrangement will continue in force and that the Government of each country will extend to the nationals of the other country treatment as favorable with respect to copyrights as was contemplated at the time the arrangement was entered into by the two countries.” (Department of State Bulletin, April 4, 1948, p. 455).
+<sup>13</sup> See note under CZECHOSLOVAKIA in bilateral section.
 
-<sup>14</sup> Treaty of Peace with Italy (Annex XV A) dated at Paris, January 10, 1947 (TIAS 1648).
+<sup>14</sup> Treaties and conventions containing provisions relative to copyright protection in territories ceded to the United States are not included in this table: for example, the Treaty of Peace with Spain signed at Paris, December 10, 1898 (30 Stat. 1754; TS 343), and the Convention with Denmark for the Cession to the United States of the Danish West Indies, signed at New York, August 4, 1916 (39 Stat. 1706; TS 629).
 
-<sup>15</sup> Copyright convention, signed at Tokyo, November 10, 1905 (TS 450). This convention is considered as having been abrogated on April 22, 1953, pursuant to the provisions of Article 7 of the Treaty of Peace which Japan signed at San Francisco, September 8, 1951 (TIAS 2490), since it was not included in the notification which was given on behalf of the United States Government to the Japanese Government on April 22, 1953, indicating the pre-war bilateral treaties or conventions which the United States wished to continue in force or revive.
+<sup>15</sup> The dates of adherence by Germany to multilateral treaties include adherence by the Federal Republic of Germany when that country was divided into the Federal Republic of Germany and the German Democratic Republic. However, through the accession, effective October 3, 1990, of the German Democratic Republic to the Federal Republic of Germany, in accordance with the German Unification Treaty of August 31, 1990, the German Democratic Republic ceased, on the said date, to be a sovereign state. Previously, the German Democratic Republic had become party to the Paris Act of the Berne Convention for the Protection of Literary and Artistic Works on February 18, 1978, but ceased to be a party to the said Convention on October 3, 1990. The German Democratic Republic had also been a member of the Universal Copyright Convention, having become party to the Geneva text of the said Convention on October 5, 1973, and party to the revised Paris text of the same Convention on December 10, 1980.
 
-<sup>16</sup> Convention between the United States and Japan for reciprocal protection of inventions, designs, trademarks, and copyrights in China and other countries where either contracting party may exercise extraterritorial jurisdiction, signed at Washington, May 19, 1908 (TS 507). This convention is considered as having been abrogated on April 22, 1953, pursuant to the provisions of Article 7 of the Treaty of Peace with Japan signed at San Francisco, September 8, 1951 (TIAS 2490), since it was not included in the notification which was given on behalf of the United States Government to the Japanese Government on April 22, 1953, indicating the pre-war bilateral treaties or conventions which the United States wished to continue in force or revive.
+<sup>16</sup> See note under GERMANY, FEDERAL REPUBLIC OF in bilateral section.
 
-<sup>17</sup> Treaty of Peace with Japan (Articles 12, 14, and 15) signed at San Francisco, September 8, 1951 (TIAS 2490). See also footnotes 15, 16, 18, and 19.
+<sup>17</sup> Copyright convention signed at Budapest January 30, 1912 (TS 571). This convention was continued in force following World War I by notice given by the United States on May 27, 1922, to Hungary in pursuance of Article 224 of the Treaty of Trianon concluded on June 4, 1920 (III Redmond 3539), to the benefits of which the United States became entitled by the Treaty of August 29, 1921, establishing friendly relations between the United States and Hungary (42 Stat. 1951; TS 660). The convention of 1912 was kept in force or revived following World War II by notice given on March 9, 1948, by the United States to Hungary pursuant to Article 10 of the Treaty of Peace with Hungary (61 Stat. 2065; Department of State Bulletin, March 21, 1948, p. 382).
 
-<sup>18</sup> The proclamation of November 10, 1953, extends benefits under the copyright law for a period of four years from the coming into force of the Treaty of Peace with Japan (TIAS 2490). That period expired April 28, 1956.
+<sup>18</sup> Treaty of Peace with Hungary (Annex IV A) dated at Paris, February 10, 1947 (TIAS 1651).
 
-<sup>19</sup> Copyright convention with Japan for reciprocal protection in Korea of inventions, designs, trademarks, and copyrights, signed at Washington, May 19, 1908 (TS 506). This convention is considered as having been abrogated on April 22, 1953, pursuant to the provisions of Article 7 of the Treaty of Peace with Japan signed at San Francisco, September 8, 1951 (TIAS 2490), since it was not included in the notification which was given on behalf of the United States Government to the Japanese Government on April 22, 1953, indicating the pre-war bilateral treaties or conventions which the United States wished to continue in force or revive.
+<sup>19</sup> Except with respect to rights of third parties, the provisions relating to protection of copyright in the annexes to the Treaties of Peace with Hungary, Italy, and Romania dated at Paris, February 10, 1947, are bilateral in character. For example, the provisions of Annex IV A of the Treaty of Peace with Hungary relate, in general, to copyright relations between Hungary, on the one hand, and each of the other ratifying or adhering States, on the other. Those provisions do not pertain to copyright relations between those other States, except for third party rights. Annex IV of the Treaty of Peace with Bulgaria dated at Paris, February 10, 1947 (61 Stat. 1915; TIAS 1650) contains similar provisions. See also footnote 23.
 
-<sup>20</sup> Belize notified the Director-General of UNESCO on December 1, 1982, of its decision to apply “provisionally, and on the basis of reciprocity” the Universal Copyright Convention as adopted at Geneva on September 6, 1952, the application of which had been extended to its territory before the attainment of independence from the United Kingdom on September 21, 1981.
+<sup>20</sup> The proclamation of October 21, 1954, affirms the existence of copyright relations with India after August 15, 1947 (the effective date of the Indian Independence Act). See also footnote 4.
 
-<sup>21</sup> An instrument of accession was deposited by the Philippine Government August 19, 1955. In a communication received by the State Department January 17, 1956, UNESCO stated that by a note dated November 14, 1955, the Philippine Government informed the Director-General of UNESCO that “the President of the \* \* \* Philippines has directed the withdrawal of the \* \* \* accession \* \* \* to the Universal Copyright Convention prior to the date of November 19, 1955, at which time the Convention would become effective” for the Philippines. The Director-General notified the Philippine Government that he “proposed to submit their communication to the States concerned, upon whom it is incumbent to declare what legal inference they intend to draw from it.”
+<sup>21</sup> The Department of State has determined that the entry into force on April 18, 1949, of the Republic of Ireland Act had no effect upon the proclamation of September 28, 1929, regarding the Irish Free State (Eire). Copyright relations with Ireland are therefore governed by that proclamation. See also footnote 4.
 
-<sup>22</sup> In a note delivered February 26, 1948, to the Romanian Minister for Foreign Affairs by the American Minister at Bucharest with respect to pre-war bilateral treaties and other international agreements which the United States desired to keep in force or revive pursuant to Article 10 of the Treaty of Peace with Romania, the following statement was made regarding the proclamation of May 14, 1928, and the exchange of notes on which it is based: “It shall be understood that the reciprocal copyright arrangement between the United States and Rumania effected pursuant to the exchanges of notes signed at Bucharest May 13 and October 21, 1927 and at Washington May 12 and 19, 1928 and the proclamation issued May 14, 1928 by the President of the United States of America will continue in force.” (Department of State Bulletin, March 14, 1948, p. 356). See also footnote 9.
+<sup>22</sup> The proclamations of March 10, 1944 and May 26, 1950, regarding Great Britain and possessions, also specifically refer to Palestine (excluding Trans-Jordan). See also footnote 4.
 
-<sup>23</sup> Treaty of Peace with Romania, dated at Paris, February 10, 1947 (TIAS 1649).
+<sup>23</sup> The exchanges of notes between the United States and Italy, on the basis of which the proclamations of October 31, 1892 and May 1, 1915, were issued, were the subject of a note delivered on March 12, 1948, to the Italian Foreign Office by the American Embassy at Rome with respect to pre-war bilateral treaties and other international agreements which the United States desired to keep in force or revive pursuant to Article 44 of the Treaty of Peace with Italy. The note stated in part “that the Government of the United States of America wishes to include the reciprocal copyright arrangement between the United States and Italy effected pursuant to the exchange of notes signed at Washington October 28, 1892, and the exchanges of notes signed at Washington September 2, 1914, February 12, March 4, and March 11, 1915, among the pre-war bilateral treaties and other international agreements with Italy which the United States desires to keep in force or revive. Accordingly, it is understood that the aforementioned arrangement will continue in force and that the Government of each country will extend to the nationals of the other country treatment as favorable with respect to copyrights as was contemplated at the time the arrangement was entered into by the two countries.” (Department of State Bulletin, April 4, 1948, p. 455).
 
-<sup>24</sup> The proclamation of July 10, 1895, regarding Spain was based upon an arrangement between the United States and Spain effected by an exchange of notes signed at Washington, July 6 and 15, 1895. An agreement restoring the arrangement of July 6 and 15, 1895, was effected by an exchange of notes signed at Madrid, January 29 and November 18 and 26, 1902 (II Malloy 1710), following the Treaty of Peace between the United States and Spain signed at Paris, December 10, 1898 (30 Stat. 1754; TS 343). The latter treaty also contains in Article XIII the following provisions: “The rights of property secured by copyrights and patents acquired by Spaniards in the Island of Cuba, and in Puerto Rico, the Philippines and other ceded territories, at the time of the exchange of ratifications of this treaty, shall continue to be respected. Spanish scientific, literary and artistic works, not subversive of public order in the territories in question, shall continue to be admitted free of duty into such territories, for the period of ten years, to be reckoned from the date of the exchange of ratification of this treaty.”
+<sup>24</sup> Treaty of Peace with Italy (Annex XV A) dated at Paris, January 10, 1947 (TIAS 1648).
 
-<sup>25</sup> Treaty of friendship, commerce and navigation, protocol and exchanges of notes, signed at Bangkok, November 13, 1937 (TS 940). This treaty replaces the treaty of friendship, commerce and navigation between the United States and Thailand signed at Washington, December 16, 1920 (TS 655), Article XII of which contains provisions relating to copyright protection. The treaty of amity and economic relations, with three exchanges of notes between the United States and Thailand signed at Bangkok, May 29, 1966 (TIAS 6540), replaces the treaty of November 13, 1937. Article V.2 contains provisions relating to copyright.
+<sup>25</sup> Copyright convention, signed at Tokyo, November 10, 1905 (TS 450). This convention is considered as having been abrogated on April 22, 1953, pursuant to the provisions of Article 7 of the Treaty of Peace which Japan signed at San Francisco, September 8, 1951 (TIAS 2490), since it was not included in the notification which was given on behalf of the United States Government to the Japanese Government on April 22, 1953, indicating the pre-war bilateral treaties or conventions which the United States wished to continue in force or revive.
 
-<sup>26</sup> The proclamation of October 4, 1912, stated, in effect, that the law “in Tunis” extended to U.S. citizens protection substantially equal to the protection secured under the copyright law of the United States and declared that “the subjects of Tunis” were entitled to the benefits of the Act of March 4, 1909, as amended, except copyright controlling the mechanical reproduction of a copyrighted musical work.
+<sup>26</sup> Convention between the United States and Japan for reciprocal protection of inventions, designs, trademarks, and copyrights in China and other countries where either contracting party may exercise extraterritorial jurisdiction, signed at Washington, May 19, 1908 (TS 507). This convention is considered as having been abrogated on April 22, 1953, pursuant to the provisions of Article 7 of the Treaty of Peace with Japan signed at San Francisco, September 8, 1951 (TIAS 2490), since it was not included in the notification which was given on behalf of the United States Government to the Japanese Government on April 22, 1953, indicating the pre-war bilateral treaties or conventions which the United States wished to continue in force or revive.
 
-<sup>27</sup> “Paris” means the Berne Convention for the Protection of Literary and Artistic Works as revised at Paris on July 24, 1971 (Paris Act); “Stockholm” means the said Convention as revised at Stockholm on July 14, 1967 (Stockholm Act); “Brussels” means the said Convention as revised at Brussels on June 26, 1948 (Brussels Act); “Rome” means the said Convention as revised at Rome on June 2, 1928 (Rome Act); “Berlin” means the said Convention as revised at Berlin on November 13, 1908 (Berlin Act). NOTE: In each case the reference to Act signifies adherence to the substantive provisions of such Act only, <i>e.g</i>., Articles 1 to 21 and the Appendix of the Paris Act.
+<sup>27</sup> Treaty of Peace with Japan (Articles 12, 14, and 15) signed at San Francisco, September 8, 1951 (TIAS 2490). See also footnotes 25, 26, 28, and 29.
 
-<sup>28</sup> The effective date is the date on which the designated State became party to the Convention or Treaty named, or in the case of the Berne Convention, the date on which the latest Act of the Convention to which such State is party entered into force with respect to that State.
+<sup>28</sup> The proclamation of November 10, 1953, extends benefits under the copyright law for a period of four years from the coming into force of the Treaty of Peace with Japan (TIAS 2490). That period expired April 28, 1956.
 
-<sup>29</sup> The dates of adherence by Germany to multilateral treaties include adherence by the Federal Republic of Germany when that country was divided into the Federal Republic of Germany and the German Democratic Republic. However, through the accession, effective October 3, 1990, of the German Democratic Republic to the Federal Republic of Germany, in accordance with the German Unification Treaty of August 31, 1990, the German Democratic Republic ceased, on the said date, to be a sovereign state. Previously, the German Democratic Republic had become party to the Paris Act of the Berne Convention for the Protection of Literary and Artistic Works on February 18, 1978, but ceased to be a party to the said Convention on October 3, 1990. The German Democratic Republic had also been a member of the Universal Copyright Convention, having become party to the Geneva text of the said Convention on October 5, 1973, and party to the revised Paris text of the same Convention on December 10, 1980.
+<sup>29</sup> Copyright convention with Japan for reciprocal protection in Korea of inventions, designs, trademarks, and copyrights, signed at Washington, May 19, 1908 (TS 506). This convention is considered as having been abrogated on April 22, 1953, pursuant to the provisions of Article 7 of the Treaty of Peace with Japan signed at San Francisco, September 8, 1951 (TIAS 2490), since it was not included in the notification which was given on behalf of the United States Government to the Japanese Government on April 22, 1953, indicating the pre-war bilateral treaties or conventions which the United States wished to continue in force or revive.
 
-<sup>30</sup> The Union of Soviet Socialist Republics (or Soviet Union) was a party to the Convention Relating to the Distribution of Programme-Carrying Signals Transmitted by Satellite from January 20, 1989, through December 24, 1991.
+<sup>30</sup> In a note delivered February 26, 1948, to the Romanian Minister for Foreign Affairs by the American Minister at Bucharest with respect to pre-war bilateral treaties and other international agreements which the United States desired to keep in force or revive pursuant to Article 10 of the Treaty of Peace with Romania, the following statement was made regarding the proclamation of May 14, 1928, and the exchange of notes on which it is based: “It shall be understood that the reciprocal copyright arrangement between the United States and Rumania effected pursuant to the exchanges of notes signed at Bucharest May 13 and October 21, 1927 and at Washington May 12 and 19, 1928 and the proclamation issued May 14, 1928 by the President of the United States of America will continue in force.” (Department of State Bulletin, March 14, 1948, p. 356). See also footnote 19.
 
-<sup>31</sup> The Convention Relating to the Distribution of Programme-Carrying Signals Transmitted by Satellite done at Brussels on May 21, 1974, did not enter into force with respect to the United States until March 7, 1985.
+<sup>31</sup> Treaty of Peace with Romania, dated at Paris, February 10, 1947 (TIAS 1649).
 
-<sup>32</sup> The Convention for the Protection of Producers of Phonograms Against Unauthorized Duplication of Their Phonograms done at Geneva on October 29, 1971, did not enter into force with respect to the United States until March 10, 1974.
+<sup>32</sup> The Union of Soviet Socialist Republics (or Soviet Union) was a party to the Convention Relating to the Distribution of Programme-Carrying Signals Transmitted by Satellite from January 20, 1989, through December 24, 1991.
 
-<sup>33</sup> For 1992 and prior years, see CZECHOSLOVAKIA.
+<sup>33</sup> Also known as Slovak Republic. For 1992 and prior years, see Czechoslovakia.
 
-<sup>34</sup> See also Czech Republic, Slovak Republic, and Slovakia.
+<sup>34</sup> The proclamation of July 10, 1895, regarding Spain was based upon an arrangement between the United States and Spain effected by an exchange of notes signed at Washington, July 6 and 15, 1895. An agreement restoring the arrangement of July 6 and 15, 1895, was effected by an exchange of notes signed at Madrid, January 29 and November 18 and 26, 1902 (II Malloy 1710), following the Treaty of Peace between the United States and Spain signed at Paris, December 10, 1898 (30 Stat. 1754; TS 343). The latter treaty also contains in Article XIII the following provisions: “The rights of property secured by copyrights and patents acquired by Spaniards in the Island of Cuba, and in Puerto Rico, the Philippines and other ceded territories, at the time of the exchange of ratifications of this treaty, shall continue to be respected. Spanish scientific, literary and artistic works, not subversive of public order in the territories in question, shall continue to be admitted free of duty into such territories, for the period of ten years, to be reckoned from the date of the exchange of ratification of this treaty.”
 
-<sup>35</sup> See note under CZECHOSLOVAKIA in bilateral section.
+<sup>35</sup> Treaty of friendship, commerce and navigation, protocol and exchanges of notes, signed at Bangkok, November 13, 1937 (TS 940). This treaty replaces the treaty of friendship, commerce and navigation between the United States and Thailand signed at Washington, December 16, 1920 (TS 655), Article XII of which contains provisions relating to copyright protection. The treaty of amity and economic relations, with three exchanges of notes between the United States and Thailand signed at Bangkok, May 29, 1966 (TIAS 6540), replaces the treaty of November 13, 1937. Article V.2 contains provisions relating to copyright.
 
-<sup>36</sup> See note under GERMANY, FEDERAL REPUBLIC OF in bilateral section.
+<sup>36</sup> The proclamation of October 4, 1912, stated, in effect, that the law “in Tunis” extended to U.S. citizens protection substantially equal to the protection secured under the copyright law of the United States and declared that “the subjects of Tunis” were entitled to the benefits of the Act of March 4, 1909, as amended, except copyright controlling the mechanical reproduction of a copyrighted musical work.
 
-<sup>37</sup> Also known as Slovak Republic. For 1992 and prior years, see Czechoslovakia.
+<sup>37</sup> Bilateral copyright relations between the Socialist Republic of Vietnam and the United States of America were established effective December 23, 1998, by a Presidential Proclamation of that same date, under the authority of sections 104(b)(5) and 104A(g) of title 17 of the United States Code, as amended.
 
-<sup>38</sup> Bilateral copyright relations between the Socialist Republic of Vietnam and the United States of America were established effective December 23, 1998, by a Presidential Proclamation of that same date, under the authority of sections 104(b)(5) and 104A(g) of title 17 of the United States Code, as amended.
-
-<sup>39</sup> See note under YUGOSLAVIA in bilateral section.
+<sup>38</sup> See note under YUGOSLAVIA in bilateral section.
 
 #### Proc. No. 3792. Copyright Extension: Germany
 

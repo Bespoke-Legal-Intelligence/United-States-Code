@@ -34,7 +34,7 @@ The Secretary shall provide for jurisdictions to submit applications for approva
 
 &emsp;&emsp;(C) to describe the function and activities to be carried out by such public housing agencies affected by the plan; and
 
-&emsp;&emsp;(D) to demonstrate that the amounts received by the jurisdiction will be maintained separate from other funds available to thejurisdiction and will be used only to carry out the plan;
+&emsp;&emsp;(D) to demonstrate that the amounts received by the jurisdiction will be maintained separate from other funds available to the jurisdiction and will be used only to carry out the plan;
 
 &emsp;(8) shall include information describing how the jurisdiction will make decisions regarding asset management of housing for low-income families under programs for covered housing assistance or assisted with grant amounts under this subchapter;
 
@@ -54,7 +54,7 @@ The Secretary shall provide for jurisdictions to submit applications for approva
 
 #### (1) Review
 
-&emsp;The Secretary shall review each application for participation in the demonstration program under this subchapter and shall determine and notify the jurisdiction submitting the application, not later than 90 days after its submission, of whether the application is approvable under this subchapter. If the Secretary determines that the application of a jurisdiction is approvable under this subchapter, the Secretary shall provide affected public housing agencies an opportunity to review and to provide written comments on the application for a period of not less than 30 days after notification under the preceding sentence. If the Secretary determines that an application is not approvable under this subchapter, the Secretary shall notify the jurisdiction submitting the application of the reasons for such determination. Upon making a determination of whether an application is approvable or nonapprovable under this subchapter, the Secretary shall make such determination publicly available in writing together with a written statement of the reasons for such determination.
+&emsp;The Secretary shall review each application for participation in the demonstration program under this subchapter and shall determine and notify the jurisdiction submitting the application, not later than 90 days after its submission, of whether the application is approvable under this subchapter. If the Secretary determines that the application of a jurisdiction is approvable under this subchapter, the Secretary shall provide affected public housing agencies an opportunity to review and to provide written comments on the application for a period of not less than 30 days afternotification under the preceding sentence. If the Secretary determines that an application is not approvable under this subchapter, the Secretary shall notify the jurisdiction submitting the application of the reasons for such determination. Upon making a determination of whether an application is approvable or nonapprovable under this subchapter, the Secretary shall make such determination publicly available in writing together with a written statement of the reasons for such determination.
 
 #### (2) Approval
 
@@ -115,10 +115,6 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(7)(A), is
 #### Amendments
 
 2000—Subsec. (a)(7)(A). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437bbb–1, 1437bbb–4, 1437bbb–7, 1437bbb–8 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

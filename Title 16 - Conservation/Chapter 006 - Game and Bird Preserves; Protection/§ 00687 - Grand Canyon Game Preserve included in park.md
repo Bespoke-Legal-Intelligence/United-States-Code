@@ -8,9 +8,5 @@ Such parts of the Grand Canyon National Game Preserve, designated under authorit
 
 This Act, referred to in text, is act Feb. 26, 1919, ch. 44, 40 Stat. 1175, as amended, which is classified principally to subchapter XXIV (§221 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 221b, 224 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “within”.</i>
 

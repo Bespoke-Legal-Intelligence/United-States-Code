@@ -10,7 +10,7 @@ If a participant who has at least 18 months of civilian service credit toward re
 
 #### (c) Surviving spouse or former spouse, and children
 
-If a participant who has at least 18 months of civilian service credit toward retirement under the System dies before retirement or other separation from the Service and is survived by a spouse or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant, and a child or children, each surviving child shall be entitled to an annuity computed in accordance with subsections (c)(1) and (d) of section 4046 of this title.
+If a participant who has at least 18 months of civilian service credit toward retirement underthe System dies before retirement or other separation from the Service and is survived by a spouse or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant, and a child or children, each surviving child shall be entitled to an annuity computed in accordance with subsections (c)(1) and (d) of section 4046 of this title.
 
 #### (d) Surviving children
 
@@ -51,8 +51,4 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4009, 4046, 4056, 4066 of this title.
 

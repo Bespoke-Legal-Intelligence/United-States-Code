@@ -42,7 +42,7 @@ Congress finds that:
 
 &emsp;(17) Existing laws often fail to protect victims of trafficking, and because victims are often illegal immigrants in the destination country, they are repeatedly punished more harshly than the traffickers themselves.
 
-&emsp;(18) Additionally, adequate services and facilities do not exist to meet victims’ needs regarding health care, housing, education, and legal assistance, which safely reintegrate trafficking victims into their home countries.
+&emsp;(18) Additionally, adequate services and facilities do not exist to meet victims’ needs regarding health care, housing, education, andlegal assistance, which safely reintegrate trafficking victims into their home countries.
 
 &emsp;(19) Victims of severe forms of trafficking should not be inappropriately incarcerated, fined, or otherwise penalized solely for unlawful acts committed as a direct result of being trafficked, such as using false documents, entering the country without documentation, or working without documentation.
 
@@ -70,7 +70,7 @@ Pub. L. 108–193, §1, Dec. 19, 2003, 117 Stat. 2875, provided that: “This Ac
 
 Pub. L. 106–386, §1, Oct. 28, 2000, 114 Stat. 1464, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Victims of Trafficking and Violence Protection Act of 2000’.”
 
-Pub. L. 106–386, div. A, §101, Oct. 28, 2000, 114 Stat. 1466, provided that: “This division \[enacting this chapter, section 2152d of this title, and sections 1589 to 1594of Title 18, Crimes and Criminal Procedure, and amending sections 2151n and 2304 of this title, sections 1101, 1182, 1184, and 1255 of Title 8, Aliens and Nationality, and sections 1581, 1583, and 1584 of Title 18\] may be cited as the ‘Trafficking Victims Protection Act of 2000’.”
+Pub. L. 106–386, div. A, §101, Oct. 28, 2000, 114 Stat. 1466, provided that: “This division \[enacting this chapter, section 2152d of this title, and sections 1589 to 1594 of Title 18, Crimes and Criminal Procedure, and amending sections 2151n and 2304 of this title, sections 1101, 1182, 1184, and 1255 of Title 8, Aliens and Nationality, and sections 1581, 1583, and 1584 of Title 18\] may be cited as the ‘Trafficking Victims Protection Act of 2000’.”
 
 #### Congressional Findings
 
@@ -82,7 +82,7 @@ Pub. L. 108–193, §2, Dec. 19, 2003, 117 Stat. 2875, provided that: “Congres
 
 &emsp;“(3) On the other hand, victims of trafficking have faced unintended obstacles in the process of securing needed assistance, including admission to the United States under section 101(a)(15)(T)(i) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T)(i)\].
 
-&emsp;“(4) Additional research is needed to fully understand the phenomenon of trafficking in persons and to determine the most effective strategies for combating trafficking in persons.
+&emsp;“(4) Additional research is needed to fully understand the phenomenon of trafficking in persons andto determine the most effective strategies for combating trafficking in persons.
 
 &emsp;“(5) Corruption among foreign law enforcement authorities continues to undermine the efforts by governments to investigate, prosecute, and convict traffickers.
 

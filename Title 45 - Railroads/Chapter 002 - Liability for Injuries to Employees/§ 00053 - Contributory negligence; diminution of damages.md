@@ -4,7 +4,3 @@ In all actions on and after April 22, 1908 brought against any such common carri
 
 (Apr. 22, 1908, ch. 149, §3, 35 Stat. 66.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 54a of this title.
-

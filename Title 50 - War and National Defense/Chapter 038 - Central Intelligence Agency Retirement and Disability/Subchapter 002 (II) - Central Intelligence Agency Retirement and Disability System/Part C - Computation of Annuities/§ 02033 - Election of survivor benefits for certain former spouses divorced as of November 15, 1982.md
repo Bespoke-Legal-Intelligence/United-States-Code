@@ -8,7 +8,7 @@ A participant, former participant, or retired participant in the system who on N
 
 (1) If the participant or former participant has not retired under such system on or before November 15, 1982, an election under this section may be made at any time before retirement.
 
-(2) If the participant or former participant has retired under such system on or before November 15, 1982, an election under this section maybe made within such period after November 15, 1982, as the Director may prescribe.
+(2) If the participant or former participant has retired under such system on or before November 15, 1982, an election under this section may be made within such period after November 15, 1982, as the Director may prescribe.
 
 (3) For the purposes of applying this subchapter, any such election shall be treated in the same manner as if it were a spousal agreement under section 2094(b) of this title.
 
@@ -35,8 +35,4 @@ An election under this section may provide for a survivor annuity based on all o
 #### Prior Provisions
 
 A prior section 223 of Pub. L. 88–643, as added Pub. L. 97–269, title VI, §607, Sept. 27, 1982, 96 Stat. 1151; amended Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to election of survivor benefits for certain former spouses and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403n, 2034 of this title.
 

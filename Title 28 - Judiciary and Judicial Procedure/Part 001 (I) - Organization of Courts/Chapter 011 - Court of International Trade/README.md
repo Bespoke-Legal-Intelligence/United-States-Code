@@ -5,7 +5,7 @@
 | [251\.](%C2%A7%2000251%20-%20Appointment%20and%20number%20of%20judges%3B%20offices.md) | Appointment and number of judges; offices. |
 | [252\.](%C2%A7%2000252%20-%20Tenure%20and%20salaries%20of%20judges.md) | Tenure and salaries of judges. |
 | [253\.](%C2%A7%2000253%20-%20Duties%20of%20chief%20judge.md) | Duties of chief judge. |
-| [254\.](%C2%A7%2000254%20-%20Single-judge%20trials.md) | Single-judge trial. |
+| [254\.](%C2%A7%2000254%20-%20Single-judge%20trials.md) | Single-judge trials. |
 | [255\.](%C2%A7%2000255%20-%20Three-judge%20trials.md) | Three-judge trials. |
 | [256\.](%C2%A7%2000256%20-%20Trials%20at%20ports%20other%20than%20New%20York.md) | Trials at ports other than New York. |
 | [257\.](%C2%A7%2000257%20-%20Publication%20of%20decisions.md) | Publication of decisions. |

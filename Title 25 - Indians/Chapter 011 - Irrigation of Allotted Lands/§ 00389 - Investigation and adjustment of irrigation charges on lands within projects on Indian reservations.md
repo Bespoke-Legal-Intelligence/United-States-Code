@@ -32,15 +32,11 @@ In accordance with sections 389 to 389e of this title, order of Secretary of the
 
 In accordance with sections 389 to 389e of this title, order of Secretary of the Interior canceling $35,700.72 of delinquent irrigation charges, providing for the deferred payment of $13,851.98, and providing for the removal of two hundred thirty-two and fifty-six one hundredths acres of assessable land from the Wapato Indian irrigation project, was approved by Pub. L. 86–281, Sept. 16, 1959, 73 Stat. 564.
 
-Action by the Secretary of the Interior taken Sept. 9, 1942, pursuant to authority contained in sections 389 to 389e of this title with respect to lands within theWapato Indian irrigation project was confirmed in act Dec. 24, 1942, ch. 815, 56 Stat. 1081.
+Action by the Secretary of the Interior taken Sept. 9, 1942, pursuant to authority contained in sections 389 to 389e of this title with respect to lands within the Wapato Indian irrigation project was confirmed in act Dec. 24, 1942, ch. 815, 56 Stat. 1081.
 
 #### Wind River Indian Irrigation Project
 
 In accordance with sections 389 to 389e of this title, the order of the Secretary of the Interior, canceling delinquent operation and maintenance irrigation charges of $1,134.99 and accrued interest thereon, against lands on the Wind River Indian irrigation project, and a contract for the deferred payment of delinquent charges in the amount of $2,331.59, was approved by Pub. L. 88–116, Sept. 6, 1963, 77 Stat. 151.
 
 In accordance with sections 389 to 389e of this title, the order of the Secretary of the Interior, canceling delinquent irrigation charges of $36,439.70 and accrued interest therein, and providing for a deferred payment of $8,706.27, as shown in schedules A, B, and C of such order, was approved by Pub. L. 87–516, July 2, 1962, 76 Stat. 128, provided that the cancellation under schedule B not become effective until the landowners agree to pay the balance of such delinquent charges amounting to $1,556.40.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 389d, 389e of this title.
 

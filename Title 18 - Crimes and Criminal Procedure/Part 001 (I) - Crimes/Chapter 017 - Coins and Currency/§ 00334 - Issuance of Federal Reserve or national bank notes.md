@@ -1,6 +1,6 @@
 ### §334. Issuance of Federal Reserve or national bank notes
 
-Whoever, being a Federal Reserve Agent, or an agent or employee of such Federal ReserveAgent, or of the Board of Governors of the Federal Reserve System, issues or puts in circulation any Federal Reserve notes, without complying with or in violation of the provisions of law regulating the issuance and circulation of such Federal Reserve notes; or
+Whoever, being a Federal Reserve Agent, or an agent or employee of such Federal Reserve Agent, or of the Board of Governors of the Federal Reserve System, issues or puts in circulation any Federal Reserve notes, without complying with or in violation of the provisions of law regulating the issuance and circulation of such Federal Reserve notes; or
 
 Whoever, being an officer acting under the provisions of chapter 2 of Title 12, countersigns or delivers to any national banking association, or to any other company or person, any circulating notes contemplated by that chapter except in strict accordance with its provisions—
 
@@ -25,8 +25,4 @@ Likewise the words “upon conviction in any district court of the United States
 #### Amendments
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 324.
 

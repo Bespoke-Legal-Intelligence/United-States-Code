@@ -6,7 +6,7 @@ Whenever the Secretary has reason to believe that any person subject to this cha
 
 #### Codification
 
-A prior section 228a, act Sept. 21, 1944, ch. 412, title I, §101(c), 58 Stat. 734, which related to inspections of livestock, hides, animal products, etc., was transferred to section 396 of this title.
+A prior section 228a, act Sept. 21, 1944, ch. 412, title I, §101(c), 58 Stat. 734, which related to inspections oflivestock, hides, animal products, etc., was transferred to section 396 of this title.
 
 #### Prior Provisions
 

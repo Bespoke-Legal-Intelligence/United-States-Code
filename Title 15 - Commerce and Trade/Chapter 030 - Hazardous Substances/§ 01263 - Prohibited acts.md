@@ -4,7 +4,7 @@ The following acts and the causing thereof are prohibited:
 
 (a) The introduction or delivery for introduction into interstate commerce of any misbranded hazardous substance or banned hazardous substance.
 
-(b) The alteration, mutilation, destruction, obliteration, or removal of the whole or any part of the label of, or the doing of any other act with respect to, a hazardous substance, if such act is done while the substance is in interstate commerce, or while the substance is held for sale (whether or not the first sale) after shipment in interstate commerce, and results in the hazardous substance being a misbranded hazardous substance or banned hazardous substance.
+(b) The alteration, mutilation, destruction, obliteration, or removal of the whole or any part of the label of, or the doing of any other act with respect to, a hazardous substance, if such act is done while the substance is in interstate commerce, or while the substance is held forsale (whether or not the first sale) after shipment in interstate commerce, and results in the hazardous substance being a misbranded hazardous substance or banned hazardous substance.
 
 (c) The receipt in interstate commerce of any misbranded hazardous substance or banned hazardous substance and the delivery or proffered delivery thereof for pay or otherwise.
 
@@ -59,8 +59,4 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 #### Transfer of Functions
 
 “Commission” substituted for “Secretary” and for “Department” in subsec. (h) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1264, 1265, 1273 of this title.
 

@@ -64,7 +64,3 @@ The amount of fees assessed by accrediting entities for the costs of accreditati
 
 Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14902, 14924, 14953 of this title.
-

@@ -20,7 +20,7 @@ The President may waive the application of subsection (b) of this section if—
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to this chapter (§2151 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to this chapter (§2151 et seq.). For complete classification of this Actto the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 

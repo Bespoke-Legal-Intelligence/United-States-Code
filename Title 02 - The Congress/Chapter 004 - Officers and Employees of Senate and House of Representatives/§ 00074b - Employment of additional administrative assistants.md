@@ -10,13 +10,9 @@ This Act, referred to in text, means act Aug. 2, 1946, ch. 753, 60 Stat. 812, as
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “is” for “and the Clerk of the House are” and “the jurisdiction of the Secretary” for “their respective jurisdictions”.
+1996—Pub. L. 104–186 substituted “is” for “and the Clerk of the House are” and “the jurisdiction of the Secretary” for “their respective jurisdictions”.
 
 #### Effective Date
 
 Section effective Aug. 2, 1946, see section 245 of act Aug. 2, 1946, set out as a note under section 72a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 60j of this title.
 

@@ -16,9 +16,5 @@ Section 12 of the Act of January 2, 1976, referred to in pars. (1) and (2), is s
 
 Section 606(d) of this title, referred to in pars. (1) and (2), means section 606(d) of title VI of Pub. L. 97–468, Jan. 14, 1983, 96 Stat. 2566.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1211 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,3 @@ Section 7433, Pub. L. 89–10, title VII, §7123, as added Pub. L. 103–382, ti
 
 Section 7434, Pub. L. 89–10, title VII, §7124, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3728, related to construction of provisions. See sections 6845 and 6918 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7423 of this title.
-

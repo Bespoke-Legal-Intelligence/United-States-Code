@@ -4,7 +4,7 @@
 
 Except as otherwise provided in this section, a first handler of honey shall be responsible, at the time of first purchase—
 
-&emsp;(1) for the collection, and payment to the Honey Board, of the assessment payable by a producer under section 4606(e)(2)(A) of thistitle or, if approved in a referendum conducted under this chapter, under section 4606(e)(3)(A)(i) of this title; and
+&emsp;(1) for the collection, and payment to the Honey Board, of the assessment payable by a producer under section 4606(e)(2)(A) of this title or, if approved in a referendum conducted under this chapter, under section 4606(e)(3)(A)(i) of this title; and
 
 &emsp;(2) if approved in a referendum conducted under this chapter, for the payment to the Honey Board of an additional assessment payable by the handler under section 4606(e)(3)(A)(ii) of this title.
 
@@ -22,7 +22,7 @@ Except as otherwise provided in this section, at the time of entry of honey and 
 
 #### (d) Loan and loan deficiency payments; deduction from disbursement of loan funds or loan deficiency payment made to producer
 
-In any case in which a loan, or a loan deficiency payment is made with respect to honey under the honey price support loan program established under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], or successor statute, the Secretary shall provide for the assessment to be deducted from the disbursement of any loan funds or from the loan deficiency payment made to the producer and for the amount of such assessment to be forwarded to the Honey Board. The Secretary shall provide for the producer to receive a statement of the amount of the assessment deducted from the loan funds or loan deficiency payment promptly after each occasion when an assessment is deducted from any such loan funds or payment under this subsection.
+In any case in which a loan, or a loan deficiency payment is made with respect to honeyunder the honey price support loan program established under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], or successor statute, the Secretary shall provide for the assessment to be deducted from the disbursement of any loan funds or from the loan deficiency payment made to the producer and for the amount of such assessment to be forwarded to the Honey Board. The Secretary shall provide for the producer to receive a statement of the amount of the assessment deducted from the loan funds or loan deficiency payment promptly after each occasion when an assessment is deducted from any such loan funds or payment under this subsection.
 
 #### (e) Producer-packers
 
@@ -147,8 +147,4 @@ Subsec. (i). Pub. L. 101–624, §1984(b)(5), added subsec. (i).
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4606, 4607, 4612 of this title.
 

@@ -20,7 +20,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Commissioner authorized to compile, as part of bulletin of Department, an abstract of main features of official statistics of cities having over 30,000 population, by a provision of act July 1, 1898, ch. 546, §1, 30 Stat. 648.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 44 section 1324.
-

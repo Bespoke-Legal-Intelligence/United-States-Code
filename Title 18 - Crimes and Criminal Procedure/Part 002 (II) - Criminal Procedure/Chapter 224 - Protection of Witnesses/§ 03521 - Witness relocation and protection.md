@@ -20,7 +20,7 @@
 
 &emsp;(F) provide other services necessary to assist the person in becoming self-sustaining;
 
-&emsp;(G) disclose or refuse to disclose the identity or location of the person relocated or protected, or any other matter concerning the person or the program after weighing the danger such a disclosure would pose to the person, the detriment it would cause to the general effectiveness of the program, and the benefit it would afford to the public or to the person seeking the disclosure, except that the Attorney General shall, upon the request of State or local law enforcement officials or pursuant to a court order, without undue delay, disclose to such officials the identity, location, criminal records, and fingerprints relating to the person relocated or protected when the Attorney General knows or the request indicates that the person is under investigation for or has been arrested for or charged with an offense that is punishable by more than one year in prison or that is a crime of violence;
+&emsp;(G) disclose or refuse to disclose the identity or location of the person relocated or protected, or any other matter concerning the person or the program after weighing the danger such a disclosure would pose to the person, the detriment it would cause to the general effectiveness of the program, and the benefit it would afford to the public or to the person seeking the disclosure, except that the Attorney General shall, upon the request of State or local law enforcement officials or pursuant to a court order, without undue delay, disclose to such officials the identity, location, criminalrecords, and fingerprints relating to the person relocated or protected when the Attorney General knows or the request indicates that the person is under investigation for or has been arrested for or charged with an offense that is punishable by more than one year in prison or that is a crime of violence;
 
 &emsp;(H) protect the confidentiality of the identity and location of persons subject to registration requirements as convicted offenders under Federal or State law, including prescribing alternative procedures to those otherwise provided by Federal or State law for registration and tracking of such persons; and
 
@@ -54,11 +54,11 @@
 
 &emsp;(I) the agreement of the person to regularly inform the appropriate program official of the activities and current address of such person.
 
-> Each such memorandum of understanding shall also set forth the protection which the AttorneyGeneral has determined will be provided to the person under this chapter, and the procedures to be followed in the case of a breach of the memorandum of understanding, as such procedures are established by the Attorney General. Such procedures shall include a procedure for filing and resolution of grievances of persons provided protection under this chapter regarding the administration of the program. This procedure shall include the opportunity for resolution of a grievance by a person who was not involved in the case.
+> Each such memorandum of understanding shall also set forth the protection which the Attorney General has determined will be provided to the person under this chapter, and the procedures to be followed in the case of a breach of the memorandum of understanding, as such procedures are established by the Attorney General. Such procedures shall include a procedure for filing and resolution of grievances of persons provided protection under this chapter regarding the administration of the program. This procedure shall include the opportunity for resolution of a grievance by a person who was not involved in the case.
 
 (2) The Attorney General shall enter into a separate memorandum of understanding pursuant to this subsection with each person protected under this chapter who is eighteen years of age or older. The memorandum of understanding shall be signed by the Attorney General and the person protected.
 
-(3) The Attorney General may delegate the responsibility initially to authorize protection under this chapter only to the Deputy Attorney General, to the Associate Attorney General, to the Assistant Attorney General in charge of the Criminal Division of the Department of Justice, to the Assistant Attorney General in charge of the Civil Rights Division of the Department of Justice (insofar as the delegation relates to a criminal civil rights case), and to one other officer or employee of the Department of Justice.
+(3) The Attorney General may delegate the responsibility initially to authorize protection under this chapter only to the Deputy Attorney General, to the Associate Attorney General, to the Assistant Attorney General in charge of the Criminal Division of the Department of Justice, to the Assistant Attorney General in charge ofthe Civil Rights Division of the Department of Justice (insofar as the delegation relates to a criminal civil rights case), and to one other officer or employee of the Department of Justice.
 
 (e) If the Attorney General determines that harm to a person for whom protection may be provided under section 3521 of this title is imminent or that failure to provide immediate protection would otherwise seriously jeopardize an ongoing investigation, the Attorney General may provide temporary protection to such person under this chapter before making the written assessment and determination required by subsection (c) of this section or entering into the memorandum of understanding required by subsection (d) of this section. In such a case the Attorney General shall make such assessment and determination and enter into such memorandum of understanding without undue delay after the protection is initiated.
 
@@ -81,8 +81,4 @@ Section 1210 of subpart A (§§1207–1210) of part F of chapter XII of title II
 #### Short Title
 
 Section 1207 of subpart A (§§1207–1210) of part F of chapter XII of title II of Pub. L. 98–473 provided that: “This subpart \[enacting this chapter, repealing provisions set out as a note preceding section 3481 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Witness Security Reform Act of 1984’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2516, 3522 of this title; title 8 section 1226.
 

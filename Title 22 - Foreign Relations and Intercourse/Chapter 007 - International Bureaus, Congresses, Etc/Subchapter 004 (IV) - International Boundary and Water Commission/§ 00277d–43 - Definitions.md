@@ -40,13 +40,9 @@ Section 510 of the Water Quality Act of 1987, referred to in par. (3), is sectio
 
 #### Short Title
 
-Pub. L. 106–457, title VIII, §801, Nov. 7, 2000, 114 Stat. 1977, provided that: “This title \[enacting this section and sections 277d–44 to 277d–46 of this title\] may becited as the ‘Tijuana River Valley Estuary and Beach Sewage Cleanup Act of 2000’.”
+Pub. L. 106–457, title VIII, §801, Nov. 7, 2000, 114 Stat. 1977, provided that: “This title \[enacting this section and sections 277d–44 to 277d–46 of this title\] may be cited as the ‘Tijuana River Valley Estuary and Beach Sewage Cleanup Act of 2000’.”
 
 #### Purpose
 
 Pub. L. 106–457, title VIII, §802, Nov. 7, 2000, 114 Stat. 1977, provided that: “The purpose of this title \[see Short Title note above\] is to authorize the United States to take actions to address comprehensively the treatment of sewage emanating from the Tijuana River area, Mexico, that flows untreated or partially treated into the United States causing significant adverse public health and environmental impacts.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 277d–45, 277d–46 of this title.
 

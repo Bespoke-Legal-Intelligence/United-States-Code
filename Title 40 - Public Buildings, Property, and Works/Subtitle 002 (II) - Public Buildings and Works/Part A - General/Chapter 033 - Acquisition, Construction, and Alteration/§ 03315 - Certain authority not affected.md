@@ -22,7 +22,3 @@ Pub. L. 86–249, §16, Sept. 9, 1959, 73 Stat. 483; Pub. L. 91–375, §6(m)(3)
 
 The text of 40:615(1) is omitted as obsolete.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 450ss–6.
-

@@ -14,7 +14,3 @@ For purposes of section 60e–1a of this title and this section—
 
 Section is based on section 2 of House Resolution No. 732, Ninety-fourth Congress, Nov. 4, 1975, which was enacted into permanent law by Pub. L. 94–440.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 60e–1a of this title.
-

@@ -6,7 +6,7 @@ The Director of a facility of the Retirement Home shall safeguard and dispose of
 
 &emsp;(1) A will or other instrument of a testamentary nature involving property rights executed by a resident shall be promptly delivered, upon the death of the resident, to the proper court of record.
 
-&emsp;(2) If a resident dies intestate and the heirs or legal representative of the deceased cannot be immediately ascertained, the Director shall retain all property left by the decedent for a three-year period beginning on the date of thedeath. If entitlement to such property is established to the satisfaction of the Director at any time during the three-year period, the Director shall distribute the decedent's property, in equal pro-rata shares when multiple beneficiaries have been identified, to the highest following categories of identified survivors (listed in the order of precedence indicated):
+&emsp;(2) If a resident dies intestate and the heirs or legal representative of the deceased cannot be immediately ascertained, the Director shall retain all property left by the decedent for a three-year period beginning on the date of the death. If entitlement to such property is established to the satisfaction of the Director at any time during the three-year period, the Director shall distribute the decedent's property, in equal pro-rata shares when multiple beneficiaries have been identified, to the highest following categories of identified survivors (listed in the order of precedence indicated):
 
 &emsp;&emsp;(A) The surviving spouse or legal representative.
 

@@ -8,7 +8,3 @@ The tract of land in the States of Montana and Wyoming, lying near the headwater
 
 R.S. §2474 derived from act Mar. 1, 1872, ch. 24, §1, 17 Stat. 32.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 21b of this title.
-

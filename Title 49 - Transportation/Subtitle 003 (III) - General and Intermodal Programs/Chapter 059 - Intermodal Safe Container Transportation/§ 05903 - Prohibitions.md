@@ -68,7 +68,7 @@ Historical and Revision Notes
 
 In this section, the words “may not” are substituted for “it shall be a violation” and “It shall be unlawful” for consistency in the revised title.
 
-In subsection (a), the words “After the date on which the Secretary of Transportation issues final regulations to enforce this section” are omitted because of section 5907(b) of the revised title. The words “to fail to comply with paragraph (1) or (2)” are omitted as unnecessary because the failure to comply with an affirmative duty is a violation without the need to say so specifically. The word “false” is omitted as included in “erroneous”. The word “written” is omitted as surplus.
+In subsection (a), the words “After the date on which the Secretary of Transportation issues final regulations to enforce this section” are omitted because ofsection 5907(b) of the revised title. The words “to fail to comply with paragraph (1) or (2)” are omitted as unnecessary because the failure to comply with an affirmative duty is a violation without the need to say so specifically. The word “false” is omitted as included in “erroneous”. The word “written” is omitted as surplus.
 
 In subsection (b), the words “(as such term is defined in section 10102 of this title)” are omitted as unnecessary because of section 5901(1) of the revised title. The word “transport” is substituted for “provide transportation of” for consistency and to eliminate unnecessary words.
 
@@ -85,10 +85,6 @@ Transporting Prior To Receiving Certification.—A motor carrier may not transpo
 Subsec. (c). Pub. L. 104–291, §205(3), substituted “29,000 pounds” for “10,000 pounds (including packing materials and pallets)”.
 
 Subsec. (d). Pub. L. 104–291, §205(4), added subsec. (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5902, 5904, 5905 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

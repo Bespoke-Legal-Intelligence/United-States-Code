@@ -62,7 +62,3 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations initiated, under this section on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as a note under section 2411 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1872, 2241, 2242, 2411, 2413, 2414, 2415, 2419, 2420, 3437, 3537, 3571 of this title.
-

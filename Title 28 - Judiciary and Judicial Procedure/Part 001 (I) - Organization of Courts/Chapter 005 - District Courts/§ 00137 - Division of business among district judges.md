@@ -16,7 +16,3 @@ Section was rewritten and the practice simplified. It provided for division of b
 
 The revised section is consistent with section 332 of this title, that the last paragraph of which requires the judicial council to make all necessary orders for the effective and expeditious administration of the business of the courts within the circuit.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 48 section 1614.
-

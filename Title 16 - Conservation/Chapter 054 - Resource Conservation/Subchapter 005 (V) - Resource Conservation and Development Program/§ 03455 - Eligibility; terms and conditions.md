@@ -16,7 +16,7 @@ Technical assistance and financial assistance may be provided by the Secretary u
 
 &emsp;(4) the project provided for in the area plan is consistent with any comprehensive plan for the area;
 
-&emsp;(5) the cost of the land or an interest in the land acquired or to be acquired under the planby any State, local unit of government, Indian tribe, or local nonprofit organization is borne by the State, local unit of government, Indian tribe, or local nonprofit organization, respectively; and
+&emsp;(5) the cost of the land or an interest in the land acquired or to be acquired under the plan by any State, local unit of government, Indian tribe, or local nonprofit organization is borne by the State, local unit of government, Indian tribe, or local nonprofit organization, respectively; and
 
 &emsp;(6) the State, local unit of government, Indian tribe, or local nonprofit organization participating in the area plan agrees to maintain and operate the project.
 
@@ -47,8 +47,4 @@ The Secretary may withdraw technical assistance and financial assistance with re
 #### Prior Provisions
 
 A prior section 3455, Pub. L. 97–98, title XV, §1532, Dec. 22, 1981, 95 Stat. 1339, related to authority of the Secretary to carry out provisions of this subchapter, prior to the general amendment of this subchapter by Pub. L. 107–171.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3454 of this title.
 

@@ -24,7 +24,3 @@ Subsec. (b). Pub. L. 103–382, §248(2), substituted “to any records maintain
 
 Section effective with respect to appropriations for fiscal year 1980 and subsequent fiscal years, see section 1261 of Pub. L. 95–561, set out as a note under section 1232c of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1232d, 1232e of this title.
-

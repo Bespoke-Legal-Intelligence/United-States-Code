@@ -10,7 +10,3 @@ The Colorado River Basin Project Act, referred to in text, is Pub. L. 90–537, 
 
 Federal reclamation law, referred to in text, is defined in section 390aa of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390cc, 390ee, 390ii of this title.
-

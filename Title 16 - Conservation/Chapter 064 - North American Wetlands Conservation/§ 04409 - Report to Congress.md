@@ -28,7 +28,3 @@ Par. (1)(D). Pub. L. 107–308, §8(a)(13), substituted “; and” for period 
 
 1994—Par. (1)(D). Pub. L. 103–375 added subpar. (D).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4410 of this title.
-

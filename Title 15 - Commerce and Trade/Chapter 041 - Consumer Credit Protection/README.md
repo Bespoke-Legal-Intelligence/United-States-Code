@@ -174,7 +174,7 @@
 |  |  |
 | :--- | ---: |
 | [1661\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising/%C2%A7%2001661%20-%20Catalogs%20and%20multiple-page%20advertisements.md) | Catalogs and multiple-page advertisements. |
-| [1662\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising/%C2%A7%2001662%20-%20Advertising%20of%20downpayments%20and%20installments.md) | Advertising of down payments and installments. |
+| [1662\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising/%C2%A7%2001662%20-%20Advertising%20of%20downpayments%20and%20installments.md) | Advertising of downpayments and installments. |
 | [1663\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising/%C2%A7%2001663%20-%20Advertising%20of%20open%20end%20credit%20plans.md) | Advertising of open end credit plans. |
 | [1664\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising/%C2%A7%2001664%20-%20Advertising%20of%20credit%20other%20than%20open%20end%20plans.md) | Advertising of credit other than open end plans. |
 | (a) | Exclusion of open end credit plans. |
@@ -634,10 +634,6 @@
 | [1693r.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693r%20-%20Exemption%20for%20State%20regulation.md) | Exemption for State regulation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 11 section 523.
 
 
 ---

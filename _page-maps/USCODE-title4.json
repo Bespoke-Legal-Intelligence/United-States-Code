@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title4",
- "package": "USCODE-2003-title4",
+ "package": "USCODE-2004-title4",
  "pieces": [
   {
    "id": "4_",
@@ -76,20 +76,20 @@
    "id": "4_4",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 4]",
-     true
-    ],
-    [
      "I",
-     58,
+     36,
      [
       [
-       368,
-       "[Page 5]"
+       305,
+       "[Page 4]"
       ]
      ]
+    ],
+    [
+     "L",
+     60,
+     "[Page 5]",
+     true
     ]
    ],
    "path": "Chapter 001 - The Flag/§ 00004 - Pledge of allegiance to the flag; manner of delivery.md",
@@ -124,14 +124,14 @@
      8,
      [
       [
-       146,
+       477,
        "[Page 6]"
       ]
      ]
     ],
     [
      "L",
-     40,
+     42,
      "[Page 7]",
      true
     ]
@@ -147,10 +147,10 @@
    "marks": [
     [
      "I",
-     20,
+     22,
      [
       [
-       267,
+       187,
        "[Page 8]"
       ]
      ]
@@ -203,10 +203,10 @@
    "marks": [
     [
      "I",
-     2,
+     8,
      [
       [
-       92,
+       160,
        "[Page 9]"
       ]
      ]
@@ -256,30 +256,26 @@
   },
   {
    "id": "4_-ch4",
-   "marks": [
-    [
-     "I",
-     61,
-     [
-      [
-       161,
-       "[Page 10]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The States/README.md",
    "printed_pages": [
     9,
-    10
+    9
    ]
   },
   {
    "id": "4_101",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 10]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - The States/§ 00101 - Oath by members of legislatures and officers.md",
    "printed_pages": [
-    10,
+    9,
     10
    ]
   },
@@ -314,14 +310,10 @@
    "id": "4_105",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       153,
-       "[Page 11]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 11]",
+     true
     ]
    ],
    "path": "Chapter 004 - The States/§ 00105 - State, and so forth, taxation affecting Federal areas; sales or use tax.md",
@@ -368,30 +360,26 @@
   },
   {
    "id": "4_110",
-   "marks": [
-    [
-     "I",
-     18,
-     [
-      [
-       560,
-       "[Page 12]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The States/§ 00110 - Same; definitions.md",
    "printed_pages": [
     11,
-    12
+    11
    ]
   },
   {
    "id": "4_111",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 12]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - The States/§ 00111 - Same; taxation affecting Federal employees; income tax.md",
    "printed_pages": [
-    12,
+    11,
     12
    ]
   },
@@ -409,7 +397,7 @@
    "marks": [
     [
      "L",
-     6,
+     28,
      "[Page 13]",
      true
     ]
@@ -431,26 +419,30 @@
   },
   {
    "id": "4_115",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 14]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The States/§ 00115 - Limitation on State authority to tax compensation paid to individuals performing services at Fort Campbell, Kentucky.md",
    "printed_pages": [
     13,
-    14
+    13
    ]
   },
   {
    "id": "4_116",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       312,
+       "[Page 14]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - The States/§ 00116 - Rules for determining State and local government treatment of charges related to mobile telecommunications services.md",
    "printed_pages": [
-    14,
+    13,
     14
    ]
   },
@@ -465,55 +457,55 @@
   },
   {
    "id": "4_118",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 15]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The States/§ 00118 - Limitations.md",
    "printed_pages": [
     14,
-    15
+    14
    ]
   },
   {
    "id": "4_119",
-   "marks": [],
-   "path": "Chapter 004 - The States/§ 00119 - Electronic databases for nationwide standard numeric jurisdictional codes.md",
-   "printed_pages": [
-    15,
-    15
-   ]
-  },
-  {
-   "id": "4_120",
    "marks": [
     [
      "I",
      14,
      [
       [
-       88,
-       "[Page 16]"
+       93,
+       "[Page 15]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 004 - The States/§ 00119 - Electronic databases for nationwide standard numeric jurisdictional codes.md",
+   "printed_pages": [
+    14,
+    15
+   ]
+  },
+  {
+   "id": "4_120",
+   "marks": [],
    "path": "Chapter 004 - The States/§ 00120 - Procedure if no electronic database provided.md",
    "printed_pages": [
     15,
-    16
+    15
    ]
   },
   {
    "id": "4_121",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 16]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - The States/§ 00121 - Correction of erroneous data for place of primary use.md",
    "printed_pages": [
-    16,
+    15,
     16
    ]
   },
@@ -528,22 +520,11 @@
   },
   {
    "id": "4_123",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       78,
-       "[Page 17]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The States/§ 00123 - Scope; special rules.md",
    "printed_pages": [
     16,
-    17
+    16
    ]
   },
   {
@@ -551,19 +532,19 @@
    "marks": [
     [
      "I",
-     60,
+     6,
      [
       [
-       258,
-       "[Page 18]"
+       308,
+       "[Page 17]"
       ]
      ]
     ]
    ],
    "path": "Chapter 004 - The States/§ 00124 - Definitions.md",
    "printed_pages": [
-    17,
-    18
+    16,
+    17
    ]
   },
   {
@@ -571,37 +552,37 @@
    "marks": [],
    "path": "Chapter 004 - The States/§ 00125 - Nonseverability.md",
    "printed_pages": [
-    18,
-    18
+    17,
+    17
    ]
   },
   {
    "id": "4_126",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       84,
+       "[Page 18]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - The States/§ 00126 - No inference.md",
    "printed_pages": [
-    18,
+    17,
     18
    ]
   },
   {
    "id": "4_-ch5",
-   "marks": [
-    [
-     "I",
-     19,
-     [
-      [
-       1315,
-       "[Page 19]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Official Territorial Papers/README.md",
    "printed_pages": [
     18,
-    19
+    18
    ]
   },
   {
@@ -609,16 +590,23 @@
    "marks": [],
    "path": "Chapter 005 - Official Territorial Papers/§ 00141 - Collection, preparation and publication.md",
    "printed_pages": [
-    19,
-    19
+    18,
+    18
    ]
   },
   {
    "id": "4_142",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 19]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Official Territorial Papers/§ 00142 - Appointment of experts.md",
    "printed_pages": [
-    19,
+    18,
     19
    ]
   },
@@ -633,18 +621,11 @@
   },
   {
    "id": "4_144",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 20]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Official Territorial Papers/§ 00144 - Cooperation of departments and agencies.md",
    "printed_pages": [
     19,
-    20
+    19
    ]
   },
   {
@@ -652,8 +633,8 @@
    "marks": [],
    "path": "Chapter 005 - Official Territorial Papers/§ 00145 - Printing and distribution.md",
    "printed_pages": [
-    20,
-    20
+    19,
+    19
    ]
   },
   {
@@ -661,11 +642,11 @@
    "marks": [],
    "path": "Chapter 005 - Official Territorial Papers/§ 00146 - Authorization of appropriations.md",
    "printed_pages": [
-    20,
-    20
+    19,
+    19
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2003-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2004-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 04 - Flag and Seal, Seat of Government, and the States"
 }

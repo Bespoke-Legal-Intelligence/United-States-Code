@@ -46,7 +46,7 @@ The overall allotment quantity for the crop year shall be allotted between—
 
 #### (A) Collectively
 
-&emsp;&emsp;Prior to the allotment of sugar derived from sugarcane to any other State, 325,000short tons, raw value shall be allotted to the offshore States.
+&emsp;&emsp;Prior to the allotment of sugar derived from sugarcane to any other State, 325,000 short tons, raw value shall be allotted to the offshore States.
 
 #### (B) Individually
 
@@ -95,8 +95,4 @@ Whenever the Secretary estimates or reestimates under section 1359bb(a) of this 
 #### Prior Provisions
 
 A prior section 1359cc, act Feb. 16, 1938, ch. 30, title III, §359c, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3481; amended Pub. L. 102–237, title I, §111(e), Dec. 13, 1991, 105 Stat. 1832, related to establishment of marketing allotments, prior to the general amendment of this subpart by Pub. L. 107–171.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1359bb, 1359dd, 1359ff of this title.
 

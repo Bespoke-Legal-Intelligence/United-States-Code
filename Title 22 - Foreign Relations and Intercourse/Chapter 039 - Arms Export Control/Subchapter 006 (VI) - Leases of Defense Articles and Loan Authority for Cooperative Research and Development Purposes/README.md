@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—LEASES OF DEFENSE ARTICLES AND LOAN AUTHORITY FOR COOPERATIVE RESEARCH AND DEVELOPMENT PURPOSES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2291c of this title; title 10 section 7307.
-
 
 ---
 

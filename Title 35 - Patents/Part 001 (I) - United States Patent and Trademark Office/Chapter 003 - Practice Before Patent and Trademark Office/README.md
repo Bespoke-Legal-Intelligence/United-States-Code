@@ -14,10 +14,6 @@
 
 1975—Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949, substituted “PATENT AND TRADEMARK OFFICE” for “PATENT OFFICE” in chapter heading.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 5 section 500.
-
 
 ---
 

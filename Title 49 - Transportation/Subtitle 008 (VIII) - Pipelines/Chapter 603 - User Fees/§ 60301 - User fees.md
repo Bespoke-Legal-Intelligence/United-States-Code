@@ -10,7 +10,7 @@ Imposition and Time of Collection.—A fee shall be imposed on each person opera
 
 (c)
 
-Means of Collection.—The Secretary shall prescribe procedures to collect fees under this section. The Secretary may use a department, agency, or instrumentality of the UnitedStates Government or of a State or local government to collect the fee and may reimburse the department, agency, or instrumentality a reasonable amount for its services.
+Means of Collection.—The Secretary shall prescribe procedures to collect fees under this section. The Secretary may use a department, agency, or instrumentality of the United States Government or of a State or local government to collect the fee and may reimburse the department, agency, or instrumentality a reasonable amount for its services.
 
 (d)
 
@@ -70,6 +70,10 @@ In subsection (c), the words “the services of” are omitted as surplus. The w
 
 In subsection (e), the words “by the Secretary” are omitted as surplus. The words “beginning on October 1, 1985” are omitted as executed.
 
+#### Transfer of Functions
+
+For transfer of duties, powers, and authority of Research and Special Programs Administration under this chapter to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under section 108 of this title.
+
 #### Study and Report on User Fee Assessment Factors
 
 Pub. L. 104–304, §17, Oct. 12, 1996, 110 Stat. 3803, provided that:
@@ -85,8 +89,4 @@ In General.—Not later than 1 year after the date of the enactment of this Act 
 “(b)
 
 Considerations.—In making the report, the Secretary shall consider a wide range of assessment factors and suggestions and comments from the public.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6105, 6107, 60125, 60130 of this title.
 

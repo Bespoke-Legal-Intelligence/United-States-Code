@@ -48,7 +48,3 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Subchapter as applicable to Coast Guard, see section 1594e of Title 42, The Public Health and Welfare.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1748h–1, 1748h–2, 3702 of this title.
-

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as provided in subsection (b), in an action or proceeding undersubchapter B or C, the United States may have discovery regarding the financial condition of the debtor in the manner in which discovery is authorized by the Federal Rules of Civil Procedure in an action on a claim for a debt.
+In General.—Except as provided in subsection (b), in an action or proceeding under subchapter B or C, the United States may have discovery regarding the financial condition of the debtor in the manner in which discovery is authorized by the Federal Rules of Civil Procedure in an action on a claim for a debt.
 
 (b)
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV–A—TRADE RELATIONS UNDER REVISED AGREEMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 48 section 734.
-
 
 ---
 

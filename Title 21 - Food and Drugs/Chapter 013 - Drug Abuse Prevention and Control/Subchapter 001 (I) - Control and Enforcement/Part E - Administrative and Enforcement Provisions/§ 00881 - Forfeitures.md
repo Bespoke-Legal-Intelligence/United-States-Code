@@ -48,7 +48,7 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 (1) Whenever property is civilly or criminally forfeited under this subchapter the Attorney General may—
 
-&emsp;(A) retain the property for official use or, in the manner provided with respect to transfers under section 1616a of title 19, transfer the property to any Federal agency or to any State or local law enforcement agency which participated directly in the seizure or forfeiture of the property;
+&emsp;(A) retain the property for official use or, in the manner provided with respect to transfers under section 1616a of title 19, transfer the property to any Federal agency or to anyState or local law enforcement agency which participated directly in the seizure or forfeiture of the property;
 
 &emsp;(B) except as provided in paragraph (4), sell, by public sale or any other commercially feasible means, any forfeited property which is not required to be destroyed by law and which is not harmful to the public;
 
@@ -100,7 +100,7 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 (2) The failure, upon demand by the Attorney General or his duly authorized agent, of the person in occupancy or in control of land or premises upon which such species of plants are growing or being stored, to produce an appropriate registration, or proof that he is the holder thereof, shall constitute authority for the seizure and forfeiture.
 
-(3) The Attorney General, or his duly authorized agent, shall have authority to enter upon any lands, or into any dwelling pursuant to a search warrant, to cut, harvest, carry off, or destroy such plants.
+(3) The Attorney General, or his duly authorized agent, shall have authority to enter uponany lands, or into any dwelling pursuant to a search warrant, to cut, harvest, carry off, or destroy such plants.
 
 #### (h) Vesting of title in United States
 
@@ -212,7 +212,7 @@ Subsec. (e). Pub. L. 98–473, §§306(e), 309, inserted “civilly or criminall
 
 Subsecs. (h) to (j). Pub. L. 98–473, §306(f), added subsecs. (h) to (j).
 
-1979—Subsec. (d). Pub. L. 96–132 substituted “The provisions” for “All provisions” and struck out “and theaward of compensation to informers in respect of such forfeitures” after “compromise of claims”.
+1979—Subsec. (d). Pub. L. 96–132 substituted “The provisions” for “All provisions” and struck out “and the award of compensation to informers in respect of such forfeitures” after “compromise of claims”.
 
 1978—Subsec. (a)(6). Pub. L. 95–633, §301(1), added par. (6).
 
@@ -238,7 +238,7 @@ Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, i
 
 #### Constructive Seizure Procedures
 
-Pub. L. 101–225, title II, §210, Dec. 12, 1989, 103 Stat. 1913, provided that: “Not later than 6 months after the date of enactment of this Act \[Dec. 12, 1989\], the Secretary of Transportation and the Secretary of the Treasury, in order to avoid the devastating economic effects on innocent owners of seizures of their vessels, shall develop a procedure for constructive seizure of vessels of the United States engaged in commercial service as defined in section 2101 of title 46, United States Code, that are suspected of being used for committing violations of law involving personal use quantities of controlled substances.”
+Pub. L. 101–225, title II, §210, Dec. 12, 1989, 103 Stat. 1913, provided that: “Not later than 6 months after thedate of enactment of this Act \[Dec. 12, 1989\], the Secretary of Transportation and the Secretary of the Treasury, in order to avoid the devastating economic effects on innocent owners of seizures of their vessels, shall develop a procedure for constructive seizure of vessels of the United States engaged in commercial service as defined in section 2101 of title 46, United States Code, that are suspected of being used for committing violations of law involving personal use quantities of controlled substances.”
 
 #### Regulations for Expedited Administrative Forfeiture Procedures
 
@@ -277,10 +277,6 @@ Summons in Lieu of Seizure of Commercial Fishing Industry Vessels.—Not later t
 “(e)
 
 Personal Use Quantities of a Controlled Substance.—For the purposes of this section, personal use quantities of a controlled substance shall not include sweepings or other evidence of non-personal use amounts.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 824, 842, 853, 958, 965 of this title; title 16 section 559d; title 33 section 1415; title 46 App. section 1904.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (k) has been enacted.</i>
 

@@ -22,7 +22,3 @@ Section 5 of the Solar, Wind, Waste, and Geothermal Power Production Act of 1990
 
 References to the Corporation, meaning the United States Enrichment Corporation, deemed, as of the privatization date (July 28, 1998), to be references to the private corporation, see section 3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2201 of this title.
-

@@ -8,7 +8,3 @@ The Secretary, through grants or contracts, shall provide funds for—
 
 (Pub. L. 89–10, title I, §1608, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1605.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6512 of this title.
-

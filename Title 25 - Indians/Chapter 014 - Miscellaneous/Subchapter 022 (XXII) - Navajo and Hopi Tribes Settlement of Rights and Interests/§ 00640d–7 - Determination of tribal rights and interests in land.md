@@ -46,9 +46,5 @@ The Indian Claims Commission, referred to in subsec. (d), terminated Sept. 30, 1
 
 Subsec. (f). Pub. L. 100–666, §9(b), added subsec. (f).
 
-1980—Subsec. (c). Pub. L. 96–305 substituted provision authorizing, as part of the determination of tribal rights and interests in land, actions for accounting, fair value of grazing, and claims for damages, specifying the formula for determining recovery, and limiting defenses for provision authorizing exchange of reservation lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 640d–9, 640d–13, 640d–14, 640d–15, 640d–18, 640d–27 of this title.
+1980—Subsec. (c). Pub. L. 96–305 substituted provision authorizing, as part of the determination of tribalrights and interests in land, actions for accounting, fair value of grazing, and claims for damages, specifying the formula for determining recovery, and limiting defenses for provision authorizing exchange of reservation lands.
 

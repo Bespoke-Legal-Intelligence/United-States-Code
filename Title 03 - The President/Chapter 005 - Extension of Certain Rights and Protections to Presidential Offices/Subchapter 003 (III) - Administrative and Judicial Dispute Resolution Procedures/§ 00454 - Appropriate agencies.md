@@ -26,7 +26,3 @@ Judicial review.—Notwithstanding any other provision of law (including any pro
 
 Section effective Oct. 1, 1997, except that subsec. (a) of this section effective Oct. 26, 1996, see section 471 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 453, 471 of this title; title 28 section 1296.
-

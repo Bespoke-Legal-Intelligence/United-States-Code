@@ -8,7 +8,7 @@ If the Secretary determines that—
 
 &emsp;(2) notification under this subsection is necessary to eliminate the unreasonable risk of such harm and no more practicable means is available under the provisions of this chapter (other than this section) to eliminate such risk,
 
-> the Secretary may issue such order as may be necessary to assure that adequate notification is provided in an appropriate form, by the persons and means best suited under the circumstances involved, to all health professionals who prescribe or use the device and to any other person (including manufacturers, importers, distributors, retailers, and device users) who should properly receive such notification in order to eliminate such risk. An order under this subsection shall require that the individuals subject to the risk with respect to which the order is to be issued be included in the persons to be notified of the risk unless the Secretary determines that notice to such individuals would present a greater danger to the health of such individuals than no such notification. If the Secretary makes such a determination with respect to such individuals, the order shall require that the health professionals who prescribe or use the device provide for the notification of the individuals whom the health professionals treated with the device of the risk presented by the device and of any action which may be taken by or on behalf of such individuals to eliminate or reduce such risk. Before issuing an order under this subsection, the Secretary shall consult with the persons who are to give notice under the order.
+> the Secretary may issue such order as may be necessary to assure that adequate notification is provided in an appropriate form, by the persons and means best suited under the circumstances involved, to all health professionals who prescribe or use the device and to any other person (including manufacturers, importers, distributors, retailers, and device users) who should properly receive such notification in order to eliminate such risk. An order under this subsection shall require that the individuals subject to the risk with respect to which the order is to be issued be included in the persons to be notified of the risk unless the Secretary determines that notice to such individuals would present a greater danger to the health of such individuals than no such notification. If the Secretary makes such a determination with respect to such individuals, the order shall require that the health professionals who prescribe or use the device provide for the notification of the individuals whom the health professionals treated with the device of the risk presented by the device and of any action which may be taken by or on behalf of such individuals to eliminate or reducesuch risk. Before issuing an order under this subsection, the Secretary shall consult with the persons who are to give notice under the order.
 
 #### (b) Repair, replacement, or refund
 
@@ -58,7 +58,7 @@ Compliance with an order issued under this section shall not relieve any person 
 
 &emsp;(B) to immediately notify health professionals and device user facilities of the order and to instruct such professionals and facilities to cease use of such device.
 
-> The order shall provide the person subject to the order with an opportunity for an informal hearing, to be held not later than 10 days after the date of the issuance of the order, on the actions required by the order and on whether the order should be amended to require a recall of such device. If, after providing an opportunity for sucha hearing, the Secretary determines that inadequate grounds exist to support the actions required by the order, the Secretary shall vacate the order.
+> The order shall provide the person subject to the order with an opportunity for an informal hearing, to be held not later than 10 days after the date of the issuance of the order, on the actions required by the order and on whether the order should be amended to require a recall of such device. If, after providing an opportunity for such a hearing, the Secretary determines that inadequate grounds exist to support the actions required by the order, the Secretary shall vacate the order.
 
 (2)(A) If, after providing an opportunity for an informal hearing under paragraph (1), the Secretary determines that the order should be amended to include a recall of the device with respect to which the order was issued, the Secretary shall, except as provided in subparagraphs (B) and (C), amend the order to require a recall. The Secretary shall specify a timetable in which the device recall will occur and shall require periodic reports to the Secretary describing the progress of the recall.
 
@@ -83,8 +83,4 @@ Compliance with an order issued under this section shall not relieve any person 
 1992—Subsec. (b)(1)(A)(ii). Pub. L. 102–300 substituted “or” for “and” after “properly designed” and “time of its design”.
 
 1990—Subsec. (e). Pub. L. 101–629 added subsec. (e).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 352, 360c, 360g, 360j of this title.
 

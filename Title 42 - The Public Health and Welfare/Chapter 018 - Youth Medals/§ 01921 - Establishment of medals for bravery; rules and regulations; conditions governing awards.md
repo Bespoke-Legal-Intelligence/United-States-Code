@@ -4,7 +4,3 @@ The Department of Justice be, and it is, authorized and directed to promulgate r
 
 (Aug. 3, 1950, ch. 520, §1, 64 Stat. 397.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1923 of this title.
-

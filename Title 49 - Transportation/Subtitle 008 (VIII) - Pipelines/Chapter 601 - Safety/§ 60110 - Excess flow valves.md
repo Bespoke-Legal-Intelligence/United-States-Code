@@ -102,7 +102,3 @@ Subsec. (c)(2). Pub. L. 104–304, §20(j), substituted “standards” for “r
 
 Subsec. (e). Pub. L. 104–304, §8(4), inserted after first sentence “The Secretary may adopt industry accepted performance standards in order to comply with the requirement under the preceding sentence.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 60102 of this title.
-

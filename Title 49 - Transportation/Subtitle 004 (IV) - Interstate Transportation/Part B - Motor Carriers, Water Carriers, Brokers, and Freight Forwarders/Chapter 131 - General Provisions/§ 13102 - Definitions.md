@@ -68,7 +68,7 @@ Highway.—The term “highway” means a road, highway, street, and way in a St
 
 &emsp;(10)
 
-Household goods.—The term “household goods”, as used in connection with transportation, means personal effects and property used or to be used in a dwelling, when a part of the equipment or supply of such dwelling, and similar property if the transportation of such effects or property is—
+Household goods.—The term “household goods”, as used in connection with transportation, means personal effects and propertyused or to be used in a dwelling, when a part of the equipment or supply of such dwelling, and similar property if the transportation of such effects or property is—
 
 &emsp;&emsp;(A) arranged and paid for by the householder, except such term does not include property moving from a factory or store, other than property that the householder has purchased with the intent to use in his or her dwelling and is transported at the request of, and the transportation charges are paid to the carrier by, the householder; or
 
@@ -172,13 +172,9 @@ Provisions similar to those in this section were contained in section 10102 of t
 
 2002—Pars. (17) to (24). Pub. L. 107–298 added pars. (17) and (20) and redesignated former pars. (17), (18), (19), (20), (21), and (22) as pars. (18), (19), (21), (22), (23), and (24), respectively.
 
-1999—Par. (10)(A). Pub. L. 106–159 substituted “, except such term does not include property moving from a factory or store, other than property that the householder has purchased with the intent to use in his or her dwelling and is transported at the request of, and the transportation charges are paid to the carrier by, the householder;” for “, including transportation of property from a factory or store when the property is purchased by the householder with intent to use in his or her dwelling,”.
+1999—Par. (10)(A). Pub. L. 106–159 substituted “, except such term does not include property movingfrom a factory or store, other than property that the householder has purchased with the intent to use in his or her dwelling and is transported at the request of, and the transportation charges are paid to the carrier by, the householder;” for “, including transportation of property from a factory or store when the property is purchased by the householder with intent to use in his or her dwelling,”.
 
 1996—Par. (4)(A). Pub. L. 104–287, §5(27)(A), substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before the effective date of this section”.
 
 Par. (4)(B). Pub. L. 104–287, §5(27)(B), substituted “after December 31, 1995” for “on or after such date”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 501, 5102, 5901, 14101, 14706, 31138, 41713 of this title; title 15 section 6781; title 18 section 921; title 29 section 186; title 39 section 5201; title 42 section 4917.
 

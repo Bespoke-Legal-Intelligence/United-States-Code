@@ -10,7 +10,3 @@ Any Indian owning a beneficial or restricted interest in mineral resources may i
 
 (Pub. L. 97–382, §3, Dec. 22, 1982, 96 Stat. 1938.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2107 of this title.
-

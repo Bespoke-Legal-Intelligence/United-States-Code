@@ -6,15 +6,11 @@ If an owner of a covered section 8 housing project in which elderly families are
 
 #### (b) Insufficient non-elderly disabled families
 
-If an owner of a covered section 8 housing project in which elderly families are given a preference for occupancy pursuant to section 13611 of this title determines (in accordance with regulations established by the Secretary) that there are insufficient numbers of disabled families who are not elderly or near-elderly families and have applied for occupancy in the housing to fill all the units in the project reserved under section 13612 of this title, the owner may give preference for occupancy of units so reserved to disabled families who are near-elderly families and have applied for occupancy in the housing.
+If an owner of a covered section 8 housing project in which elderly families are given a preference for occupancy pursuant to section 13611 of this title determines (in accordance with regulations established by the Secretary) thatthere are insufficient numbers of disabled families who are not elderly or near-elderly families and have applied for occupancy in the housing to fill all the units in the project reserved under section 13612 of this title, the owner may give preference for occupancy of units so reserved to disabled families who are near-elderly families and have applied for occupancy in the housing.
 
 (Pub. L. 102–550, title VI, §653, Oct. 28, 1992, 106 Stat. 3824.)
 
 #### References in Text
 
 Covered section 8 housing, referred to in text, is defined in section 13619 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13612, 13614, 13615 of this title.
 

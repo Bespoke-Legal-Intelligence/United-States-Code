@@ -22,7 +22,3 @@ Payments under this part may be made in installments and in advance, or by way o
 
 1980—Subsecs. (a) to (c). Pub. L. 96–294 substituted “Secretary” for “Administrator” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6866 of this title.
-

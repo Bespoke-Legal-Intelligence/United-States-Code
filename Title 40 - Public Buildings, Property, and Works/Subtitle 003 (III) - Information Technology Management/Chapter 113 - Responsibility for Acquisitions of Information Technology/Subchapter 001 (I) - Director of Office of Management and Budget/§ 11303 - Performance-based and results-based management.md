@@ -74,7 +74,3 @@ Historical and Revision Notes
 
 Pub. L. 104–106, div. E, title LI, §5113, Feb. 10, 1996, 110 Stat. 681.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11103 of this title; title 44 sections 3533, 3543.
-

@@ -1,11 +1,5 @@
 ### <b>CHAPTER 2—INTERNATIONAL RULES FOR NAVIGATION AT SEA</b>
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “this”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be paragraph “(2)”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “subsection (a)(2)”.</i>
-
 
 ---
 

@@ -16,7 +16,7 @@ This chapter applies to each gas utility in any calendar year, and to each proce
 
 #### (c) Exclusion of wholesale sales
 
-The requirements of this chapter do not apply to the operations of a gas utility, or to proceedings respecting such operations, to the extentthat such operations or proceedings relate to sales of natural gas for purposes of resale.
+The requirements of this chapter do not apply to the operations of a gas utility, or to proceedings respecting such operations, to the extent that such operations or proceedings relate to sales of natural gas for purposes of resale.
 
 #### (d) List of covered utilities
 
@@ -27,8 +27,4 @@ Before the beginning of each calendar year, the Secretary shall publish a list i
 #### Definitions
 
 The definition of Secretary in section 2602 of Title 16, Conservation, applies to this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3205 of this title.
 

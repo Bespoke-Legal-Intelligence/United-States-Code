@@ -38,7 +38,7 @@
 
 #### (7) Compensation
 
-&emsp;Members of the Board, while serving on the business of the Board, shall be entitled to receive compensation at rates fixed by the Secretary, but not exceeding the rate of basic pay payable for level IV of the Executive Schedule, including travel time, and while so serving away from their homes or regular places of business, the members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 forpersons in Government service employed intermittently.
+&emsp;Members of the Board, while serving on the business of the Board, shall be entitled to receive compensation at rates fixed by the Secretary, but not exceeding the rate of basic pay payable for level IV of the Executive Schedule, including travel time, and while so serving away from their homes or regular places ofbusiness, the members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.
 
 #### (b) Use of selection panels
 

@@ -144,7 +144,7 @@ Peer review panels.—Before a proposal to conduct activities under the program 
 
 &emsp;&emsp;(A) not later than December 31, 1995, a report summarizing the progress of the research program established under this subsection; and
 
-&emsp;&emsp;(B) not later than September 30, 1998, a final report stating the Committee's findings and conclusions on the effects, if any, of electric and magnetic fields on human health and remedial actions, if any, thatmay be needed to minimize any such health effects.
+&emsp;&emsp;(B) not later than September 30, 1998, a final report stating the Committee's findings and conclusions on the effects, if any, of electric and magnetic fields on human health and remedial actions, if any, that may be needed to minimize any such health effects.
 
 #### (h) Conflicts of interest
 

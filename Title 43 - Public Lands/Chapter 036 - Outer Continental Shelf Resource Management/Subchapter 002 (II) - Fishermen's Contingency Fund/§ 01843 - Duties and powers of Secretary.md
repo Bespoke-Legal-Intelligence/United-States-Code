@@ -14,7 +14,7 @@ The Secretary of the Interior shall establish regulations requiring all material
 
 #### (c) Disbursement of payments to compensate commercial fishermen; restrictions
 
-(1) Payments shall be disbursed by the Secretary from the Fund to compensate commercial fishermen for actual and consequential damages, including resulting economic loss, due to damages to, or loss of, fishing gear by materials, equipment, tools, containers, or other items associated with Outer Continental Shelf oil and gas exploration, development, or production activities. The compensation payable under this section for resulting economic loss shall be an amount equal to 50 per centum of such loss. For purposes of this subsection, the term “resulting economic loss” means the gross income, as estimated by the Secretary, that a commercial fisherman who is eligible for compensation under this section will lose by reason of not being able to engage in fishing, or having to reduce his fishing effort, during the period before the damaged or lost fishing gear concerned is repaired or replaced and available for use.
+(1) Payments shall be disbursed by the Secretary from the Fund to compensate commercial fishermen for actual and consequential damages, including resulting economic loss, due to damages to, or loss of, fishing gear by materials, equipment, tools, containers, or other items associated with Outer Continental Shelf oil and gas exploration, development, or production activities. The compensation payable under this section for resulting economic loss shall be an amount equal to 50 per centum of such loss. For purposes of this subsection, the term “resulting economic loss” means the gross income, as estimated by the Secretary, that a commercial fisherman who is eligible for compensation under this section will lose by reason of not being able to engage in fishing, or having to reduce hisfishing effort, during the period before the damaged or lost fishing gear concerned is repaired or replaced and available for use.
 
 (2) Notwithstanding the provisions of paragraph (1) of this subsection, no payment may be made by the Secretary from the Fund—
 
@@ -51,8 +51,4 @@ Subsec. (c)(2). Pub. L. 97–212, §3(2), substituted “the Fund” for “any 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–212 applicable with respect to claims for damages filed on or after June 30, 1982, with the Secretary of Commerce under section 1845(a) of this title, with provision for the refiling of previously filed claims under certain circumstances, see section 9 of Pub. L. 97–212, set out as a note under section 1841 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1845 of this title.
 

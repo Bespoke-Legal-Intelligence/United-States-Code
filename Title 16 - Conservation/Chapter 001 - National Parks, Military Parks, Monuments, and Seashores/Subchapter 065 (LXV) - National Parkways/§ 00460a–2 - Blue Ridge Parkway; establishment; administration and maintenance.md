@@ -14,11 +14,11 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Functions of Administrator of General Services transferred to Secretary of Commerce by Reorg. Plan No. 7 of 1949, §2, eff. Aug. 20, 1949, 14 F.R. 5228, 63 Stat. 1070, set out in the Appendix to Title 5.
 
-Functions, powers, and duties of Secretary of Commerce and other officers and offices of Department of Commerce relating generally to highways under Reorg. Plan No. 7 of 1949 transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(a)(1)(M), Oct. 15, 1966, 80 Stat. 938. Reorg. Plan No. 7 of 1949 was amended by section 2(b) of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2439, to reflect such transfer.
+Functions, powers, and duties of Secretary of Commerce and other officers and offices of Department ofCommerce relating generally to highways under Reorg. Plan No. 7 of 1949 transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(a)(1)(M), Oct. 15, 1966, 80 Stat. 938. Reorg. Plan No. 7 of 1949 was amended by section 2(b) of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2439, to reflect such transfer.
 
 Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949, ch. 288, title I, 63 Stat. 380. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act. See text of, and Historical and Revision Notes under, section 303(b) of Title 40, Public Buildings, Property, and Works.
 
 #### Effective Date of Transfer of Functions
 
-Transfer of functions by act June 30, 1949, as effective July 1, 1949, see section 605, formerly §505, of act June30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
+Transfer of functions by act June 30, 1949, as effective July 1, 1949, see section 605, formerly §505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 

@@ -14,7 +14,7 @@ Subsection (a) of this section shall not apply to any record (or portion thereof
 
 &emsp;(2) would disclose the names or identities of living persons who provided confidential information to the United States and would pose a substantial risk of harm to such persons;
 
-&emsp;(3) would demonstrably impede current diplomatic negotiations or other ongoing official activities of the United States Government or would demonstrably impair the national security of the United States; or
+&emsp;(3) would demonstrably impede current diplomatic negotiations or other ongoing officialactivities of the United States Government or would demonstrably impair the national security of the United States; or
 
 &emsp;(4) would disclose matters that are related solely to the internal personnel rules and practices of the Department of State or are contained in personnel, medical, or similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
 
@@ -61,8 +61,4 @@ Subsec. (e). Pub. L. 107–228, §205(b), substituted “Annual reports by the S
 #### Compliance With Declassification of State Department Records; Notification to Congressional Committees on Inability To Comply; Final Deadline
 
 Section 198(c)(1) of Pub. L. 102–138 provided that: “The Secretary of State shall ensure that the requirements of section 404 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 4354\] (as amended by this section) are met not later than one year after the date of enactment of this Act \[Oct. 28, 1991\]. If the Secretary cannot reasonably meet the requirements of such section, he shall so notify the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, and describe how the Department of State intends to meet the requirements of that section. In no event shall full compliance with the requirements of such section take place later than 2 years after the date of enactment of this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4355 of this title.
 

@@ -70,7 +70,3 @@ Amendment by sections 304(a) and 305 of Pub. L. 99–546 applicable to all propo
 
 Amendment by Pub. L. 89–553 not to be applicable to or affect in any way the terms on which any loan or grant was made prior to the effective date of Pub. L. 89–553, Sept. 2, 1966, see section 2 of Pub. L. 89–553, set out as a note under section 422b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 422e, 422f, 422j of this title.
-

@@ -18,7 +18,3 @@ Notwithstanding section 469c(a) of this title, or any other provision of law to 
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 377b.
-

@@ -10,7 +10,3 @@ The Migratory Bird Treaty Act (40 Stat. 755), as amended, referred to in text, i
 
 The Migratory Bird Conservation Act (45 Stat. 1222), as amended, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 695r of this title.
-

@@ -6,7 +6,3 @@
 
 (Pub. L. 96–465, title I, §605, Oct. 17, 1980, 94 Stat. 2096.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4006, 4105 of this title.
-

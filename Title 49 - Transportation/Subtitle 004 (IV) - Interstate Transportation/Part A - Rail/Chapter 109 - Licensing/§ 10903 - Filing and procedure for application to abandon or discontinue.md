@@ -74,9 +74,5 @@ Pub. L. 97–102, title IV, §402, Dec. 23, 1981, 95 Stat. 1465, as amended by P
 
 \[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10904, 10905, 10907, 11702, 11901 of this title; title 45 section 748.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

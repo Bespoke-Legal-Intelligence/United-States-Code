@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—SURPLUS PROPERTY FOR PUBLIC AIRPORTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 5 sections 551, 701.
-
 
 ---
 

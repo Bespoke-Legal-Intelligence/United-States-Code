@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—MIGRATORY BIRD CONSERVATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 668dd, 669b, 669d, 669g–1, 695p, 715s, 718, 718d, 1534, 2912, 3922 of this title.
-
 
 ---
 

@@ -4,10 +4,6 @@
 
 This subchapter is comprised of Part A of title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part B of title III contains amendatory, repealing, and transitional provisions generally classified elsewhere.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 381, 802, 824, 828, 830, 841, 842, 843, 844, 848, 849, 850, 853, 854, 861, 881, 887 of this title; title 10 section 374; title 12 section 3420; title 18 sections 924, 929, 3142, 3554, 3592; title 19 section 1401; title 22 section 2714; title 28 section 524; title 42 section 242; title 48 section 1494b.
-
 
 ---
 

@@ -22,7 +22,3 @@ Nothing in sections 285<i>l</i>–2 to 285<i>l</i>–5 of this title precludes a
 
 Section was enacted as part of the ICCVAM Authorization Act of 2000, and not as part of the Public Health Service Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 285<i>l</i>–2, 285<i>l</i>–3 of this title.
-

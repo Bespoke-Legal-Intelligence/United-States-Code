@@ -10,7 +10,3 @@ There are hereby authorized to be appropriated the sum of not more than $22,400,
 
 1972—Pub. L. 92–272 substituted “$21,050,000 (including such sums, together with interest, as may be necessary to satisfy final judgments rendered against the United States)” for “$16,250,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459f, 459f–1, 459f–2, 459f–4, 459f–5, 459f–7 of this title.
-

@@ -30,7 +30,7 @@ It shall be unlawful for a business development company to acquire any assets (o
 
 &emsp;&emsp;(C) issued by an issuer that, immediately prior to the purchase of such issuer's securities by the business development company, was not in bankruptcy proceedings but was unable to meet its obligations as they came due without material assistance other than conventional lending or financing arrangements;
 
-&emsp;(4) securities of eligible portfolio companies purchased from any person in transactions not involving any public offering, if there is no ready market for such securities and if immediately prior to such purchase the business development company owns at least 60 per centum of the outstanding equity securities ofsuch issuer (giving effect to all securities presently convertible into or exchangeable for equity securities of such issuer as if such securities were so converted or exchanged);
+&emsp;(4) securities of eligible portfolio companies purchased from any person in transactions not involving any public offering, if there is no ready market for such securities and if immediately prior to such purchase the business development company owns at least 60 per centum of the outstanding equity securities of such issuer (giving effect to all securities presently convertible into or exchangeable for equity securities of such issuer as if such securities were so converted or exchanged);
 
 &emsp;(5) securities received in exchange for or distributed on or with respect to securities described in paragraphs (1) through (4) of this subsection, or pursuant to the exercise of options, warrants, or rights relating to securities described in such paragraphs;
 
@@ -53,8 +53,4 @@ The Securities Act of 1933, referred to in subsec. (a)(1), is act May 27, 1933, 
 1996—Subsec. (a)(1)(A). Pub. L. 104–290 substituted “from any person” for “or from any person” and inserted before semicolon “, or from any other person, subject to such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors”.
 
 1987—Subsec. (a)(1)(B). Pub. L. 100–181 substituted “described in section” for “described in sections”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–2, 80a–6, 80a–53, 80a–60, 80b–2 of this title.
 

@@ -40,9 +40,5 @@ A prior section 15 of Pub. L. 93–112 was renumbered section 17 and is classifi
 
 Another prior section 15 of Pub. L. 93–112 was classified to section 714 of this title prior to repeal by Pub. L. 105–220.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 705, 710, 751 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

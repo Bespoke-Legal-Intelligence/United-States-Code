@@ -204,7 +204,7 @@ Additional Factors.—The study required under subsection (a) shall consider the
 
 #### Timely Completion of CRA Review
 
-Section 342 of Pub. L. 103–325 provided that: “The comprehensive regulatory review of the CommunityReinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\] that, as of the date of enactment of this Act \[Sept. 23, 1994\], is being conducted by the Federal banking agencies, shall be completed at the earliest practicable time.”
+Section 342 of Pub. L. 103–325 provided that: “The comprehensive regulatory review of the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\] that, as of the date of enactment of this Act \[Sept. 23, 1994\], is being conducted by the Federal banking agencies, shall be completed at the earliest practicable time.”
 
 #### Waiver of Right of Rescission for Certain Refinancing Transactions
 

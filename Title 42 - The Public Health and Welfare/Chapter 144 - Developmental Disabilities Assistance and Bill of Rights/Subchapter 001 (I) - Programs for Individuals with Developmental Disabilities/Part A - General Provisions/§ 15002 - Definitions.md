@@ -86,7 +86,7 @@ In this subchapter:
 
 #### (10) Education activities
 
-&emsp;The term “education activities” means advocacy, capacity building, and systemicchange activities that result in individuals with developmental disabilities being able to access appropriate supports and modifications when necessary, to maximize their educational potential, to benefit from lifelong educational activities, and to be integrated and included in all facets of student life.
+&emsp;The term “education activities” means advocacy, capacity building, and systemic change activities that result in individuals with developmental disabilities being able to access appropriate supports and modifications when necessary, to maximize their educational potential, to benefit from lifelong educational activities, and to be integrated and included in all facets of student life.
 
 #### (11) Employment-related activities
 
@@ -246,7 +246,7 @@ In this subchapter:
 
 #### (30) Supported employment services
 
-&emsp;The term “supported employment services” means services that enable individuals withdevelopmental disabilities to perform competitive work in integrated work settings, in the case of individuals with developmental disabilities—
+&emsp;The term “supported employment services” means services that enable individuals with developmental disabilities to perform competitive work in integrated work settings, in the case of individuals with developmental disabilities—
 
 &emsp;&emsp;(A)(i) for whom competitive employment has not traditionally occurred; or
 
@@ -263,8 +263,4 @@ In this subchapter:
 &emsp;The term “unserved and underserved” includes populations such as individuals from racial and ethnic minority backgrounds, disadvantaged individuals, individuals with limited English proficiency, individuals from underserved geographic areas (rural or urban), and specific groups of individuals within the population of individuals with developmental disabilities, including individuals who require assistive technology in order to participate in and contribute to community life.
 
 (Pub. L. 106–402, title I, §102, Oct. 30, 2000, 114 Stat. 1682.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437a, 1471, 8013, 9877, 11382, 15001, 15112, 15461 of this title; title 25 section 4103; title 29 section 794e.
 

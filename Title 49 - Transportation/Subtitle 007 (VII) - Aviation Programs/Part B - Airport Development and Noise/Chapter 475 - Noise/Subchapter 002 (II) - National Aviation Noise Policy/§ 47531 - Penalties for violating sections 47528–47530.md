@@ -34,7 +34,3 @@ This amends 49:47531 to correct a grammatical error and erroneous cross-referenc
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 47532 of this title.
-

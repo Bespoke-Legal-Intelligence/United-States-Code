@@ -130,7 +130,7 @@ Authorization of appropriation.—In addition to amounts authorized under sectio
 
 Additional Purposes of Rulemaking Proceeding and Study.—Additional purposes of the rulemaking proceeding initiated under subsection (a) with respect to a central reporting system and computerized telecommunications data center described in subsection (b) and the study conducted under subsection (b) are—
 
-&emsp;“(1) to determine whether such a system and center should be established and operated by the UnitedStates Government or by a private entity, either on its own initiative or under contract with the United States;
+&emsp;“(1) to determine whether such a system and center should be established and operated by the United States Government or by a private entity, either on its own initiative or under contract with the United States;
 
 &emsp;“(2) to determine, on an annualized basis, the estimated cost for establishing, operating, and maintaining such a system and center and for carrier and shipper compliance with such a system;
 
@@ -179,8 +179,4 @@ Rulemaking Proceeding.—Not later than 90 days after the date of the enactment 
 “(b)
 
 Completion of Proceeding.—Not later than 30 months after the date of the enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall complete the proceeding under this section and may issue a final rule relating to establishment of continually monitored telephone systems described in subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5117, 5120, 5125 of this title; title 8 section 1288.
 

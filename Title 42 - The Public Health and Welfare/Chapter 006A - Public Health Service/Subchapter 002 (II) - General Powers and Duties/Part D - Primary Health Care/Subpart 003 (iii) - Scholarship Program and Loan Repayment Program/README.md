@@ -4,10 +4,6 @@ subpart iii—scholarship program and loan repayment program
 
 1987—Pub. L. 100–177, title II, §202(f), Dec. 1, 1987, 101 Stat. 999, inserted subpart III heading and redesignated former subpart III as IV.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 247b–7, 254d, 287c–33, 288–1, 288–2, 288–3, 288–5a, 288–6, 293b, 297n of this title; title 21 section 395.
-
 
 ---
 

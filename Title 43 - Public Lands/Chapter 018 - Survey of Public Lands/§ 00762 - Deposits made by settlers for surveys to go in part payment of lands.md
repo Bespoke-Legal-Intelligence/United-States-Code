@@ -8,7 +8,3 @@ Where settlers or owners or grantees of public lands make deposits in accordance
 
 R.S. §2403 derived from acts Mar. 3, 1871, ch. 127, 16 Stat. 581; Apr. 27, 1876, ch. 84, 19 Stat. 38.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 763 of this title.
-

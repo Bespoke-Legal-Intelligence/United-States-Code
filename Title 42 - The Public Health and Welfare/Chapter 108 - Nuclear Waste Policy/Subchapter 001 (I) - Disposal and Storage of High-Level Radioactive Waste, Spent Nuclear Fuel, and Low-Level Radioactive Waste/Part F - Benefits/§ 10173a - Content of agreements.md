@@ -58,7 +58,3 @@ The Secretary shall make payments to the States or affected Indian tribes under 
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10173b, 10174a of this title.
-

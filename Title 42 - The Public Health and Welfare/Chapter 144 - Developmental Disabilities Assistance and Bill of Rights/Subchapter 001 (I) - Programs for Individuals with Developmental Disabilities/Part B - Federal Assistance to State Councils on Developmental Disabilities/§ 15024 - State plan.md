@@ -32,9 +32,9 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;&emsp;(iii) social, child welfare, aging, independent living, and rehabilitation and assistive technology services, and such other services as the Secretary may specify;
 
-&emsp;&emsp;(B) a description of the extent to which agencies operating such other federally assisted State programs, including activities authorized under section 3011 or 3012 of title 29, pursue interagency initiatives to improve and enhance community services, individualized supports, and other forms of assistance for individuals with developmental disabilities;
+&emsp;&emsp;(B) a description of the extent to which agencies operating such other federally assisted State programs, including activities authorized under section 3003 or 3004 of title 29, pursue interagency initiatives to improve and enhance community services, individualized supports, and other forms of assistance for individuals with developmental disabilities;
 
-&emsp;&emsp;(C) an analysis of the extent to which community services and opportunities related to the areas of emphasis directly benefit individuals with developmental disabilities, especially with regard to their ability to access and use services provided in their communities, to participate in opportunities, activities, and events offered in their communities, and to contribute to community life, identifying particularly—
+&emsp;&emsp;(C) an analysis of the extent to which community services and opportunities related tothe areas of emphasis directly benefit individuals with developmental disabilities, especially with regard to their ability to access and use services provided in their communities, to participate in opportunities, activities, and events offered in their communities, and to contribute to community life, identifying particularly—
 
 &emsp;&emsp;&emsp;(i) the degree of support for individuals with developmental disabilities that are attributable to either physical impairment, mental impairment, or a combination of physical and mental impairments;
 
@@ -44,7 +44,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;&emsp;(iv) the availability of assistive technology, assistive technology services, or rehabilitation technology, or information about assistive technology, assistive technology services, or rehabilitation technology to individuals with developmental disabilities;
 
-&emsp;&emsp;&emsp;(v) the numbers of individuals with developmental disabilities on waiting listsfor services described in this subparagraph;
+&emsp;&emsp;&emsp;(v) the numbers of individuals with developmental disabilities on waiting lists for services described in this subparagraph;
 
 &emsp;&emsp;&emsp;(vi) a description of the adequacy of current resources and projected availability of future resources to fund services described in this subparagraph;
 
@@ -114,7 +114,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (D) Conflict of interest
 
-&emsp;&emsp;The plan shall provide an assurance that no member of such Council will cast a voteon any matter that would provide direct financial benefit to the member or otherwise give the appearance of a conflict of interest.
+&emsp;&emsp;The plan shall provide an assurance that no member of such Council will cast a vote on any matter that would provide direct financial benefit to the member or otherwise give the appearance of a conflict of interest.
 
 #### (E) Urban and rural poverty areas
 
@@ -170,15 +170,15 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;The Secretary shall approve any State plan and, as appropriate, amendments of such plan that comply with the provisions of subsections (a), (b), and (c) of this section and this subsection. The Secretary may take final action to disapprove a State plan after providing reasonable notice and an opportunity for a hearing to the State.
 
-(Pub. L. 106–402, title I, §124, Oct. 30, 2000, 114 Stat. 1696.)
+(Pub. L. 106–402, title I, §124, Oct. 30, 2000, 114 Stat. 1696; Pub. L. 108–364, §3(a)(1), Oct. 25, 2004, 118 Stat. 1736.)
 
 #### References in Text
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (c)(5)(F), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
-The Fair Housing Act, referred to in subsec. (c)(5)(F), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81,as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Fair Housing Act, referred to in subsec. (c)(5)(F), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 15022, 15023, 15025, 15026, 15027, 15028, 15044, 15064 of this title.
+2004—Subsec. (c)(3)(B). Pub. L. 108–364 substituted “section 3003 or 3004 of title 29” for “section 3011 or 3012 of title 29”.
 

@@ -38,7 +38,3 @@
 
 See note set out under section 6631 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6634, 6635 of this title.
-

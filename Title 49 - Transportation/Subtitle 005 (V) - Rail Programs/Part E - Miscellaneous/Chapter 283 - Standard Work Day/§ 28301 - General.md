@@ -58,7 +58,3 @@ In subsection (a), the word “determining” is substituted for “reckoning”
 
 The text of sections 2 and 3 of the Act of September 3, 5, 1916 (ch. 436, 39 Stat. 721), is omitted to eliminate executed provisions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 28302 of this title.
-

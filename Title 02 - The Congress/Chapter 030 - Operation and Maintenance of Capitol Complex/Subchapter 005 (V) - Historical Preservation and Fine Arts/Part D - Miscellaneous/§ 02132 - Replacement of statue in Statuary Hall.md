@@ -14,7 +14,7 @@
 
 If the Joint Committee on the Library of Congress approves a request under subsection (a) of this section, the Architect of the Capitol shall enter into an agreement with the State to carry out the replacement in accordance with the request and any conditions the Joint Committee may require for its approval. Such agreement shall provide that—
 
-&emsp;(1) the new statue shall be subject to the same conditions and restrictions as apply to any statue provided by a State under section 2131 of this title, and
+&emsp;(1) the new statue shall be subject to the same conditions and restrictions as apply toany statue provided by a State under section 2131 of this title, and
 
 &emsp;(2) the State shall pay any costs related to the replacement, including costs in connection with the design, construction, transportation, and placement of the new statue, the removal and transportation of the statue being replaced, and any unveiling ceremony.
 
@@ -30,7 +30,7 @@ Nothing in this section shall be interpreted to permit a State to have more than
 
 #### (e) Relocation of statues
 
-The Architect of the Capitol, upon the approval of the Joint Committee on the Library and with the advice of the Commission of Fine Arts as requested, is authorized and directed to relocate within the United States Capitol any of the statues received from the States under section 2131 of this title prior to December 21, 2000, and to provide for the reception, location, and relocation of the statues received on and afterDecember 21, 2000, from the States under such section.
+The Architect of the Capitol, upon the approval of the Joint Committee on the Library and with the advice of the Commission of Fine Arts as requested, is authorized and directed to relocate within the United States Capitol any of the statues received from the States under section 2131 of this title prior to December 21, 2000, and to provide for the reception, location, and relocation of the statues received on and after December 21, 2000, from the States under such section.
 
 (Pub. L. 106–554, §1(a)(2) \[title III, §311\], Dec. 21, 2000, 114 Stat. 2763, 2763A–119.)
 

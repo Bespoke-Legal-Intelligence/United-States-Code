@@ -58,7 +58,7 @@ Industry.—The term ‘industry’ means any corporate or private sector entity
 
 &emsp;“(4) Unlike other weapons of mass destruction, biological materials capable of use as weapons can occur naturally in the environment and are also used for medicinal or other beneficial purposes.
 
-&emsp;“(5) Biological weapons are morally reprehensible, prompting the United States Government to halt its offensive biological weapons program in 1969, subsequently destroy its entire biological weapons arsenal, and maintain henceforth only a robust defensive capacity.
+&emsp;“(5) Biological weapons are morally reprehensible, prompting the United States Government to halt its offensive biological weapons program in 1969, subsequently destroy its entire biological weapons arsenal,and maintain henceforth only a robust defensive capacity.
 
 &emsp;“(6) The Senate gave its advice and consent to ratification of the Biological Weapons Convention in 1974.
 

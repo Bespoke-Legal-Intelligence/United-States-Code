@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The amount of a payment made to an eligible State or an eligible unit of local government fora year under this subpart shall be determined by the Secretary.
+The amount of a payment made to an eligible State or an eligible unit of local government for a year under this subpart shall be determined by the Secretary.
 
 #### (b) Continuing availability of funds after appropriation
 

@@ -64,7 +64,7 @@ Sec. 6. \[Certification by President; proclamation for elections.\] As soon as p
 
 “
 
-Sec. 7. \[Election of officers; date; propositions; certification of voting results; proclamation by President.\] (a) The proclamation of the Governor of Hawaii required by section 6 shall provide for the holding of a primary election and a general election and at such elections the officers required to be elected as provided in section 6 shall be chosen by the people. Such elections shall be held, and the qualifications of votersthereat shall be, as prescribed by the constitution of the proposed State of Hawaii for the election of members of the proposed State legislature. The returns thereof shall be made and certified in such manner as the constitution of the proposed State of Hawaii may prescribe. The Governor of Hawaii shall certify the results of said elections, as so ascertained, to the President of the United States.
+Sec. 7. \[Election of officers; date; propositions; certification of voting results; proclamation by President.\] (a) The proclamation of the Governor of Hawaii required by section 6 shall provide for the holding of a primary election and a general election and at such elections the officers required to be elected as provided in section 6 shall be chosen by the people. Such elections shall be held, and the qualifications of voters thereat shall be, as prescribed by the constitution of the proposed State of Hawaii for the election of members of the proposed State legislature. The returns thereof shall be made and certified in such manner as the constitution of the proposed State of Hawaii may prescribe. The Governor of Hawaii shall certify the results of said elections, as so ascertained, to the President of the United States.
 
 “(b) At an election designated by proclamation of the Governor of Hawaii, which may be either the primary or the general election held pursuant to subsection (a) of this section, or a Territorial general election, or a special election, there shall be submitted to the electors qualified to vote in said election, for adoption or rejection, the following propositions:
 
@@ -150,7 +150,7 @@ Sec. 14. \[Judicial and criminal provisions; amendment.\] Effective upon the adm
 
 “
 
-Sec. 15. \[Laws in effect.\] All Territorial laws in force in the Territory of Hawaii at the time of its admission into the Union shall continue in force in the State of Hawaii, except as modified or changed by this Act or by the constitution of the State, and shall be subject to repeal or amendment by the Legislature of the State of Hawaii, except as provided in section 4 of this Act with respect to the Hawaiian Homes Commission Act, 1920, as amended; and the laws of the United States shall have the same force and effect within the said State as elsewhere within the United States: <i>Provided</i>, That, except as herein otherwise provided, a Territorial law enacted by the Congress shall be terminated two years after the date of admission of the State of Hawaii into the Union or upon the effective date of any law enacted by the State of Hawaii which amends or repeals it, whichever may occur first. As used in this section, the term ‘Territorial laws’ includes (in addition to laws enacted by the Territorial Legislature of Hawaii) all laws or parts thereof enacted by the Congress the validity of which is dependent solely upon the authority of the Congress to provide for the government of Hawaii prior to its admission into the Union, and the term ‘laws of the United States’ includes all laws or parts thereof enacted by the Congress that (1) apply to or within Hawaii at the time of its admission into the Union, (2) arenot ‘Territorial laws’ as defined in this paragraph, and (3) are not in conflict with any other provision of this Act.
+Sec. 15. \[Laws in effect.\] All Territorial laws in force in the Territory of Hawaii at the time of its admission into the Union shall continue in force in the State of Hawaii, except as modified or changed by this Act or by the constitution of the State, and shall be subject to repeal or amendment by the Legislature of the State of Hawaii, except as provided in section 4 of this Act with respect to the Hawaiian Homes Commission Act, 1920, as amended; and the laws of the United States shall have the same force and effect within the said State as elsewhere within the United States: <i>Provided</i>, That, except as herein otherwise provided, a Territorial law enacted by the Congress shall be terminated two years after the date of admission of the State of Hawaii into the Union or upon the effective date of any law enacted by the State of Hawaii which amends or repeals it, whichever may occur first. As used in this section, the term ‘Territorial laws’ includes (in addition to laws enacted by the Territorial Legislature of Hawaii) all laws or parts thereof enacted by the Congress the validity of which is dependent solely upon the authority of the Congress to provide for the government of Hawaii prior to its admission into the Union, and the term ‘laws of the United States’ includes all laws or parts thereof enacted by the Congress that (1) apply to or within Hawaii at the time of its admission into the Union, (2) are not ‘Territorial laws’ as defined in this paragraph, and (3) are not in conflict with any other provision of this Act.
 
 “
 
@@ -182,7 +182,7 @@ Sec. 19. \[United States Nationality.\] Nothing contained in this Act shall oper
 
 Sec. 20. \[Immigration and Nationality Act; amendments.\] (a) Section 101(a)(36) of the Immigration and Nationality Act (66 Stat. 170, 8 U.S.C., sec. 1101(a)(36)) is amended by deleting the word ‘Hawaii,’.
 
-“(b) Section 212(d)(7) of the Immigration and Nationality Act (66 Stat. 188, 8 U.S.C. 1182(d)(7) is amended by deleting from the first sentence thereof the word ‘Hawaii,’ and by deleting the proviso to said first sentence.
+“(b) Section 212(d)(7) of the Immigration and Nationality Act (66 Stat. 188, 8 U.S.C. 1182(d)(7) is amended bydeleting from the first sentence thereof the word ‘Hawaii,’ and by deleting the proviso to said first sentence.
 
 “(c) The first sentence of section 310(a) of the Immigration and Nationality Act, as amended (66 Stat. 239, 8 U.S.C. 1421(a), 72 Stat. 351) is further amended by deleting the words ‘for the Territory of Hawaii, and’.
 
@@ -190,7 +190,7 @@ Sec. 20. \[Immigration and Nationality Act; amendments.\] (a) Section 101(a)(36)
 
 “
 
-Sec. 21. \[Aircraft purchase loans. \] Effective upon the admission of the State of Hawaii into the Union, section 3, subsection (b), of the Act of September 7, 1957 (71 Stat. 629), is amended by substituting the words ‘State of Hawaii’ for the words ‘Territory of Hawaii’.
+Sec. 21. \[Aircraft purchase loans.\] Effective upon the admission of the State of Hawaii into the Union, section 3, subsection (b), of the Act of September 7, 1957 (71 Stat. 629), is amended by substituting the words ‘State of Hawaii’ for the words ‘Territory of Hawaii’.
 
 “
 
@@ -310,7 +310,7 @@ Value of lands.—(A) The value of any lands conveyed to the Department of Hawai
 
 &emsp;“(3)
 
-Lost use.—Subject to paragraphs (4) and (5), the Secretary may convey Federal lands described in paragraph (5) to the Department of Hawaiian Home Lands as compensation for the lost use of lands determined under subsection (a)(1)(B).
+Lost use.—Subject to paragraphs (4) and (5), the Secretary may convey Federal lands described inparagraph (5) to the Department of Hawaiian Home Lands as compensation for the lost use of lands determined under subsection (a)(1)(B).
 
 &emsp;“(4)
 
@@ -446,7 +446,7 @@ Approval or Disapproval.—
 
 &emsp;“(1)
 
-In general.—Not later than 120 days after receiving the information required to be submitted bythe Chairman pursuant to subsection (a), the Secretary shall approve or disapprove the proposed exchange.
+In general.—Not later than 120 days after receiving the information required to be submitted by the Chairman pursuant to subsection (a), the Secretary shall approve or disapprove the proposed exchange.
 
 &emsp;“(2)
 
@@ -542,7 +542,7 @@ In General.—Not later than 180 days after the date of enactment of this Act \[
 
 “(b)
 
-Review.—Not later than 180 days after receiving the report submitted under subsection (a), the Secretary shall make a determination with respect to each claim referred to in subsection (a), whether, on the basis of legal and equitable considerations, compensation should be granted to the Department of Hawaiian Home Lands.
+Review.—Not later than 180 days after receiving the report submitted under subsection (a), the Secretary shall make a determination with respect to eachclaim referred to in subsection (a), whether, on the basis of legal and equitable considerations, compensation should be granted to the Department of Hawaiian Home Lands.
 
 “(c)
 
@@ -560,7 +560,7 @@ Pub. L. 105–21, June 27, 1997, 111 Stat. 235, provided: “That, as required b
 
 &emsp;“(2) Act 37 of the Session Laws of Hawaii, 1994.”
 
-Pub. L. 102–398, Oct. 6, 1992, 106 Stat. 1953, provided: “That, as required by section 4 of the Act entitled ‘An Act to provide for the admission of the State of Hawaii into the Union’, approved March 18, 1959 (73 Stat. 4) \[setout as a note above\], the United States hereby consents to the following amendments to the Hawaiian Homes Commission Act, 1920, as amended, adopted by the State of Hawaii in the manner required for State legislation:
+Pub. L. 102–398, Oct. 6, 1992, 106 Stat. 1953, provided: “That, as required by section 4 of the Act entitled ‘An Act to provide for the admission of the State of Hawaii into the Union’, approved March 18, 1959 (73 Stat. 4) \[set out as a note above\], the United States hereby consents to the following amendments to the Hawaiian Homes Commission Act, 1920, as amended, adopted by the State of Hawaii in the manner required for State legislation:
 
 &emsp;“Act 16 of Session Laws of Hawaii, 1986;
 
@@ -606,7 +606,7 @@ Sec. 4. \[Armed Forces; amendment.\] (a) Title 10, United States Code, section 1
 
 “(c) Title 10, United States Code, section 2662(c), is amended by striking out the word ‘, Hawaii,’.
 
-“(d) Title 10, United States Code is amended by striking out clause (6) of section 4744; by renumbering clauses (7) through (9) as clauses (6) through (8); by amending redesignated clause (8) to read as follows: ‘The families of persons described in clauses (1), (2), (4), (5), and (7).’; and by striking out the words ‘clause (8) or (9)’ in the last sentence of such section and inserting in lieu thereof the words ‘clause (7) or (8)’.
+“(d) Title 10, United States Code is amended by striking out clause (6) of section 4744 \[now section 2648\]; by renumbering clauses (7) through (9) as clauses (6) through (8); by amending redesignated clause (8) to read as follows: ‘The families of persons described in clauses (1), (2), (4), (5), and (7).’; and by striking out the words ‘clause (8) or (9)’ in the last sentence of such section and inserting in lieu thereof the words ‘clause (7) or (8)’.
 
 “
 
@@ -640,7 +640,7 @@ Sec. 9. \[Water Storage and Utilization.\] Section 1 of the Act of August 28, 19
 
 “
 
-Sec. 10. \[Wildlife Restoration.\] Section 2 of the Act of September 2, 1937 (50 Stat. 917), as amended, is further amended by striking out the words ‘; and the term “State” shall be construed to mean and include the several States and the Territory of Hawaii’.
+Sec. 10. \[Wildlife Restoration.\] Section 2 of the Act of September 2, 1937 (50 Stat. 917), as amended, is further amended by striking out the words ‘; and the term“State” shall be construed to mean and include the several States and the Territory of Hawaii’.
 
 “
 
@@ -672,7 +672,7 @@ Sec. 14. \[Education.\] (a)(1) Subsection (a) of section 103 of the National Def
 
 “(2)(A) Paragraph (2), and subparagraph (C) of paragraph (3), of subsection (a) of section 302 of such Act, relating to allotments for science, mathematics, and foreign language instruction equipment, are each amended by striking out ‘continental United States’ each time it appears therein and inserting in lieu thereof ‘United States’.
 
-“(B) Effective in the case of promulgations of allotment ratios made, under section 302 of such Act, afterenactment of this Act and before satisfactory data are available from the Department of Commerce for a full year on the per capita income of Alaska, subparagraph B of such paragraph (3) is amended to read:
+“(B) Effective in the case of promulgations of allotment ratios made, under section 302 of such Act, after enactment of this Act and before satisfactory data are available from the Department of Commerce for a full year on the per capita income of Alaska, subparagraph B of such paragraph (3) is amended to read:
 
 “ ‘(B) The term “United States” means the continental United States (excluding Alaska and Hawaii)’.
 
@@ -724,7 +724,7 @@ Sec. 17. \[Highways.\] (a) The definition of the term ‘State’ in title 23, U
 
 “(c) Section 103(d) of title 23, United States Code, is amended to read as follows:
 
-“ ‘(d) The Interstate System shall be designated within the United States, including the District of Columbia, and it shall not exceed forty-one thousand miles in total extent. It shall be so located as to connect by routes, as direct as practicable, the principal metropolitan areas, cities, and industrial centers, to serve the national defense and, to the greatest extent possible, to connect at suitable border points with routes of continental importance in the Dominion of Canada and the Republic of Mexico. The routes of this system, to the greatest extent possible, shall be selected by joint action of the State highway departments of each State and the adjoining States, subject to the approval by the Secretary as provided in subsection (e) of this section. All highways or routes included in the Interstate System as finally approved, if not already coincident with the primary system, shall be added to said system without regard to the mileage limitation set forth in subsection (b) of this section. This system may be located both in rural and urban areas.’
+“ ‘(d) The Interstate System shall be designated within the United States, including the District of Columbia, and it shall not exceed forty-one thousand miles in total extent. It shall be so located as to connect by routes, as direct as practicable, the principal metropolitan areas, cities, and industrial centers, to serve the national defense and, to the greatest extent possible, to connect at suitable border points with routesof continental importance in the Dominion of Canada and the Republic of Mexico. The routes of this system, to the greatest extent possible, shall be selected by joint action of the State highway departments of each State and the adjoining States, subject to the approval by the Secretary as provided in subsection (e) of this section. All highways or routes included in the Interstate System as finally approved, if not already coincident with the primary system, shall be added to said system without regard to the mileage limitation set forth in subsection (b) of this section. This system may be located both in rural and urban areas.’
 
 “(d) Notwithstanding any other provision of law, for the purpose of expediting the construction, reconstruction, or improvement, inclusive of necessary bridges and tunnels, of the Interstate System, including extensions thereof through urban areas, designated in accordance with section 103(d) of title 23, United States Code, as amended by section 1 of this Act, the sum of $12,375,000 shall be apportioned to the State of Hawaii out of the sum authorized to be appropriated for the Interstate System for the fiscal year ending June 30, 1962, under the provisions of section 108(b) of the Federal-Aid Highway Act of 1956 (70 Stat. 374), as amended by section 7(a) of the Federal-Aid Highway Act of 1958 (72 Stat. 89), such apportionment to be made at the same time such funds are apportioned to other States. The total sum to be apportioned under section 104(b)(5) of title 23, United States Code, for the fiscal year ending June 30, 1962, among the States other than Hawaii, shall be reduced by said sum apportioned to the State of Hawaii under this section. The Secretary of Commerce shall apportion funds to the State of Hawaii for the Interstate System for the fiscal year 1963 and subsequent fiscal years pursuant to the provisions of said section 104(b)(5) of title 23, United States Code, and, in preparing the estimates required by that section, he shall take into account the apportionment made to the State of Hawaii under this section.
 
@@ -824,7 +824,7 @@ Sec. 26. \[Davis-Bacon Act; amendment.\] Section 1 of the Act of March 3, 1931 (
 
 Sec. 27. \[Federal Property and Administrative Services Act; amendment.\] The Federal Property and Administrative Services Act of 1949, as amended, is further amended by—
 
-&emsp;“(a) striking out the words ‘continental United States (including Alaska), Hawaii,’ in section 3(f) andinserting in lieu thereof the words ‘States of the Union, the District of Columbia,’;
+&emsp;“(a) striking out the words ‘continental United States (including Alaska), Hawaii,’ in section 3(f) and inserting in lieu thereof the words ‘States of the Union, the District of Columbia,’;
 
 &emsp;“(b) striking out the words ‘continental United States, its Territories, and possessions’ in section 211(j) and inserting in lieu thereof the words ‘States of the Union, the District of Columbia, Puerto Rico, and the possessions of the United States’;
 
@@ -874,7 +874,7 @@ Sec. 30. \[Social Security Act; amendment.\] (a)(1) Paragraph (8) of subsection 
 
 “ ‘(d) For purposes of this section, the term “United States” means the fifty States and the District of Columbia.
 
-“ ‘(e) Promulgations made before satisfactory data are available from the Department of Commerce for a full year on the per capita income of Alaska shall prescribe a Federal share for Alaska of 50 per centum and, for purposes of such promulgations, Alaska shall not be included as part of the “United States”. Promulgations made thereafter but before per capita income data for Alaska for a full three-year period are available from the Department of Commerce shall be based on satisfactory data available therefrom for Alaska for such one full year or, when such data are available for a two-year period, for such two years.’
+“ ‘(e) Promulgations made before satisfactory data are available from the Department of Commerce for a full year on the per capita income of Alaska shall prescribe a Federal share for Alaska of 50 per centum and, for purposes of such promulgations, Alaska shall not be included as part of the “United States”. Promulgations made thereafter but before per capita income data for Alaska for a full three-year period are available fromthe Department of Commerce shall be based on satisfactory data available therefrom for Alaska for such one full year or, when such data are available for a two-year period, for such two years.’
 
 “(c)(1) The last sentence of subsection (i) of section 202 of the Social Security Act is amended by striking out ‘forty-nine’ and inserting in lieu thereof ‘fifty’.
 
@@ -964,7 +964,7 @@ Sec. 46. \[Federal Maritime Board.\] Section 18(a) of the Act of March 18, 1959 
 
 Sec. 47. \[Effective Dates.\] (a) The amendments made by section 14(a)(2)(A), by section 23(a), by paragraphs (1), (2), and (3) of section 29(d), by subsection (b), and paragraphs (1) and (3) of subsection (a), of section 30, and, except as provided in subsection (g) of this section, by section 20(b) shall be applicable in the case of promulgations or computations of Federal shares, allotment percentages, allotment ratios, and Federal percentages, as the case may be, made after August 21, 1959.
 
-“(b) The amendments made by paragraph (2) of section 30(a) shall be effective with the beginning of the calendar quarter in which this Act is enacted. The Secretary of Health, Education, and Welfare shall, as soon as possible after enactment of this Act, promulgate a Federal percentage for Hawaii determined in accordance with the provisions of subparagraph (B) of section 1101(a)(8) of the Social Security Act, such promulgation to be effective for the period beginning with the beginning of the calendar quarter in which this Act is enacted and ending with the close of June 30, 1961.
+“(b) The amendments made by paragraph (2) of section 30(a) shall be effective with the beginning of thecalendar quarter in which this Act is enacted. The Secretary of Health, Education, and Welfare shall, as soon as possible after enactment of this Act, promulgate a Federal percentage for Hawaii determined in accordance with the provisions of subparagraph (B) of section 1101(a)(8) of the Social Security Act, such promulgation to be effective for the period beginning with the beginning of the calendar quarter in which this Act is enacted and ending with the close of June 30, 1961.
 
 “(c) The amendment made by paragraphs (1) and (2) of subsection (b) and paragraphs (1), (2), and (3) of subsection (d) of section 14 shall be applicable in the case of fiscal years beginning after June 30, 1960.
 
@@ -1010,7 +1010,7 @@ Sec. 2. \[Public trust; terms and conditions.\] Any lands, property, improvement
 
 Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, provided:
 
-WHEREAS the Congress of the United States by the act approved on March 18, 1959 (73 Stat. 4) \[set out above\], accepted, ratified, and confirmed the constitution adopted by a vote of the people of Hawaii in an election held on November 7, 1950, and provided for the admission of the State of Hawaii into the Union on an equal footing with the other States upon compliance with certain procedural requirements specified in that act; and
+WHEREAS the Congress of the United States by the act approved on March 18, 1959 (73 Stat. 4) \[set out above\], accepted, ratified, and confirmed the constitution adopted by a vote of the people of Hawaii in an election held on November 7, 1950, and provided for the admission of the State of Hawaii into the Union on anequal footing with the other States upon compliance with certain procedural requirements specified in that act; and
 
 WHEREAS it appears from the information before me that a majority of the legal votes cast at an election on June 27, 1959, were in favor of each of the propositions required to be submitted to the people of Hawaii by section 7(b) of the act of March 18, 1959 \[set out above\]; and
 

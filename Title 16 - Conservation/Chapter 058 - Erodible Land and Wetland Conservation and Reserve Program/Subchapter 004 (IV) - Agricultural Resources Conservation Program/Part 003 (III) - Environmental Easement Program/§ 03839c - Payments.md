@@ -52,7 +52,7 @@ If an owner who is entitled to a payment under this part dies, becomes incompete
 
 #### (3) Other payments
 
-&emsp;Easement payments received by an owner shall be in addition to, and not affect, the total amount of payments that such owner is otherwise eligible to receive under this Act, the Food, Agriculture, Conservation, and Trade Act of 1990, or the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.).
+&emsp;Easement payments received by an owner shall be in addition to, and not affect, the total amount of payments that such owner is otherwise eligible to receive under this Act,the Food, Agriculture, Conservation, and Trade Act of 1990, or the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.).
 
 #### (4) State environmental enhancement
 

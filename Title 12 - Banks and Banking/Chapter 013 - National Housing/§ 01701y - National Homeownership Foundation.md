@@ -80,13 +80,13 @@ The Foundation shall coordinate its activities and consult with the Department o
 
 (1) Not later than one hundred and twenty days after the close of each fiscal year, the Foundation shall prepare and submit to the President and to the Congress a full report of its activities during such year. Such report shall include an account of the Foundation's experiences with the efforts of private and public organizations to expand homeownership and housing opportunities for lower income families, together with such recommendations as it deems appropriate.
 
-(2) Whenever in its judgement the general unavailability of mortgage funds is sufficiently serious to deter the Foundation from carrying out its objective of expanding homeownership and housing opportunities for lower income families,the Foundation shall, in its annual report or in a separate report to the President and the Congress, state its findings and make such recommendations for alternate means of financing housing for such families as it deems appropriate.
+(2) Whenever in its judgement the general unavailability of mortgage funds is sufficiently serious to deter the Foundation from carrying out its objective of expanding homeownership and housing opportunities for lower income families, the Foundation shall, in its annual report or in a separate report to the President and the Congress, state its findings and make such recommendations for alternate means of financing housing for such families as it deems appropriate.
 
 #### (g) Audit of financial transaction; access to records; report of audit; contents of report
 
-(1) The financial transactions of the Foundation shall be audited by the General Accounting Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the General Accounting Office shall have access to all books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or in use by the Foundation and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. The audit shall cover the fiscal year corresponding to that of the United States Government.
+(1) The financial transactions of the Foundation shall be audited by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the Government Accountability Office shall have access to all books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or in use by the Foundation and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. The audit shall cover the fiscal year corresponding to that of the United States Government.
 
-(2) A report of each such audit shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of the last year covered by such audit. The report shall set forth the scope of the audit and shall include a statement of assets and liabilities, capital, and surplus or deficit; a statement of sources and application of funds; and such comments and information as may be deemed necessary to keep the Congress informed of the operations and financial condition of the Foundation, together with such recommendations with respect thereto as the Comptroller General may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking, observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President and to the Foundation at the time submitted to the Congress.
+(2) A report of each such audit shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of the last year covered by such audit. The report shall set forth the scope of the audit and shall include a statement of assets and liabilities, capital, and surplus or deficit; a statementof sources and application of funds; and such comments and information as may be deemed necessary to keep the Congress informed of the operations and financial condition of the Foundation, together with such recommendations with respect thereto as the Comptroller General may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking, observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President and to the Foundation at the time submitted to the Congress.
 
 #### (h) Deposit of funds of Foundation
 
@@ -96,7 +96,7 @@ Funds of the Foundation shall be deposited, to the extent practicable, in accoun
 
 There is authorized to be appropriated to the Foundation not to exceed $10,000,000 to carry out the purposes of this section. Appropriations made hereunder shall remain available until expended.
 
-(Pub. L. 90–448, title I, §107, Aug. 1, 1968, 82 Stat. 491; Pub. L. 93–604, title VI, §604, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 104–66, title I, §1072(b), Dec. 21, 1995, 109 Stat. 721.)
+(Pub. L. 90–448, title I, §107, Aug. 1, 1968, 82 Stat. 491; Pub. L. 93–604, title VI, §604, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 104–66, title I, §1072(b), Dec. 21, 1995, 109 Stat. 721; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -107,6 +107,8 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(2
 Section was enacted as part of the Housing and Urban Development Act of 1968, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+2004—Subsec. (g)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
 1995—Subsec. (g)(1). Pub. L. 104–66 struck out at end “Such audit shall be made at least once in every three years.”
 

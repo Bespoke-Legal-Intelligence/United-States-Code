@@ -18,7 +18,3 @@ In the case of a nonattainment area that is included within more than one State,
 
 1990—Pub. L. 101–549 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), preparation of implementation plan by designated organization; and in subsec. (b), coordination of plan preparation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7505, 7511a of this title.
-

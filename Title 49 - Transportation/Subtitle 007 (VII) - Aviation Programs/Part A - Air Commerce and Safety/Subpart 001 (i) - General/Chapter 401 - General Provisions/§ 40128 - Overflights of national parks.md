@@ -86,7 +86,7 @@ Objective.—The objective of any air tour management plan shall be to develop a
 
 &emsp;(2)
 
-Environmental determination.—In establishing an air tour management plan underthis subsection, the Administrator and the Director shall each sign the environmental decision document required by section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) which may include a finding of no significant impact, an environmental assessment, or an environmental impact statement and the record of decision for the air tour management plan.
+Environmental determination.—In establishing an air tour management plan under this subsection, the Administrator and the Director shall each sign the environmental decision document required by section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) which may include a finding of no significant impact, an environmental assessment, or an environmental impact statement and the record of decision for the air tour management plan.
 
 &emsp;(3)
 
@@ -138,7 +138,7 @@ Requirements and limitations.—Interim operating authority granted under this s
 
 &emsp;&emsp;(A) shall provide annual authorization only for the greater of—
 
-&emsp;&emsp;&emsp;(i) the number of flights used by the operator to provide the commercial air tour operations over a national park within the 12-month period prior to the date of the enactment of this section; or
+&emsp;&emsp;&emsp;(i) the number of flights used by the operator to provide the commercial air touroperations over a national park within the 12-month period prior to the date of the enactment of this section; or
 
 &emsp;&emsp;&emsp;(ii) the average number of flights per 12-month period used by the operator to provide such operations within the 36-month period prior to such date of enactment, and, for seasonal operations, the number of flights so used during the season or seasons covered by that 12-month period;
 
@@ -378,7 +378,7 @@ Modification of Existing Aircraft To Meet Standards.—A commercial air tour ope
 
 Mandate To Restore Natural Quiet.—Nothing in this Act \[should be “this title”\] shall be construed to relieve or diminish—
 
-&emsp;“(1) the statutory mandate imposed upon the Secretary of the Interior and the Administrator of theFederal Aviation Administration under Public Law 100–91 (16 U.S.C. 1a–1 note) to achieve the substantial restoration of the natural quiet and experience at the Grand Canyon National Park; and
+&emsp;“(1) the statutory mandate imposed upon the Secretary of the Interior and the Administrator of the Federal Aviation Administration under Public Law 100–91 (16 U.S.C. 1a–1 note) to achieve the substantial restoration of the natural quiet and experience at the Grand Canyon National Park; and
 
 &emsp;“(2) the obligations of the Secretary and the Administrator to promulgate forthwith regulations to achieve the substantial restoration of the natural quiet and experience at the Grand Canyon National Park.
 
@@ -462,7 +462,7 @@ Overflight Fee Report.—Not later than 180 days after the date of the enactment
 
 “(b)
 
-Quiet Aircraft Technology Report.—Not later than 2 years after the date of the enactment of this Act, the Administrator and the Director of the National Park Service shall jointly transmit a report to Congress on the effectiveness of this title in providing incentives for the development and use of quiet aircraft technology.
+Quiet Aircraft Technology Report.—Not later than 2 years after the date of the enactment of this Act, the Administrator and the Director of the National Park Service shall jointly transmit a report to Congress on the effectiveness of this title in providingincentives for the development and use of quiet aircraft technology.
 
 #### “SEC. 808. METHODOLOGIES USED TO ASSESS AIR TOUR NOISE.
 

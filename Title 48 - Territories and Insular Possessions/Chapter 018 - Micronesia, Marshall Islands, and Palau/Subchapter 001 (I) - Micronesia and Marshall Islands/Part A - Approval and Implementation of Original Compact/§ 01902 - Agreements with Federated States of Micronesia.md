@@ -8,7 +8,7 @@
 
 #### (A) Mutual assistance in law enforcement
 
-&emsp;&emsp;The law enforcement agencies of the United States and the Federated States ofMicronesia shall assist one another, as mutually agreed, in the prevention and investigation of crimes and the enforcement of the laws of the United States and the Federated States of Micronesia specified in subparagraph (C) of this paragraph. The United States and the Federated States of Micronesia will authorize mutual assistance with respect to investigations, inquiries, audits and related activities by the law enforcement agencies of both Governments in the United States and the Federated States of Micronesia. In conducting activities authorized in accordance with this section, the United States and the Federated States of Micronesia will act in accordance with the constitution and laws of the jurisdiction in which such activities are conducted.
+&emsp;&emsp;The law enforcement agencies of the United States and the Federated States of Micronesia shall assist one another, as mutually agreed, in the prevention and investigation of crimes and the enforcement of the laws of the United States and the Federated States of Micronesia specified in subparagraph (C) of this paragraph. The United States and the Federated States of Micronesia will authorize mutual assistance with respect to investigations, inquiries, audits and related activities by the law enforcement agencies of both Governments in the United States and the Federated States of Micronesia. In conducting activities authorized in accordance with this section, the United States and the Federated States of Micronesia will act in accordance with the constitution and laws of the jurisdiction in which such activities are conducted.
 
 #### (B) Narcotics and control of illegal substances
 
@@ -24,7 +24,7 @@
 
 #### (3) Consultation
 
-&emsp;Any official, designated by this joint resolution or by the President to negotiate any agreement under this section, shall consult with affected law enforcement agencies prior to entering into such an agreement on behalf of the United States.
+&emsp;Any official, designated by this joint resolution or by the President to negotiate anyagreement under this section, shall consult with affected law enforcement agencies prior to entering into such an agreement on behalf of the United States.
 
 #### (4) Report
 
@@ -50,7 +50,7 @@
 
 #### (4) Views and comments
 
-&emsp;The report shall include the views of the Secretary of the Interior, the Administrator of the Agency for International Development, and the heads of such other Executive departments as the President may decide to include in the report, as well as any comments whichthe Federated States of Micronesia may wish to have included.
+&emsp;The report shall include the views of the Secretary of the Interior, the Administrator of the Agency for International Development, and the heads of such other Executive departments as the President may decide to include in the report, as well as any comments which the Federated States of Micronesia may wish to have included.
 
 #### (c) Agreement on audits
 
@@ -80,7 +80,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 #### (4) Annual financial statements
 
-&emsp;As part of the annual report submitted by the Government of the Federated States of Micronesia under section 211 of the Compact, the Government shall include annual financial statements which account for the use of all of the funds provided by the Government of the United States to the Government under the Compact or otherwise. Such financial statements shall be prepared in accordance with generally accepted accounting procedures, except as may otherwise be mutually agreed. Not later than 180 days after the end of the United States fiscal year with respect to which such funds were provided, each such statement shall be submitted to the President for audit and transmission to the Congress.
+&emsp;As part of the annual report submitted by the Government of the Federated States of Micronesia under section 211 of the Compact, theGovernment shall include annual financial statements which account for the use of all of the funds provided by the Government of the United States to the Government under the Compact or otherwise. Such financial statements shall be prepared in accordance with generally accepted accounting procedures, except as may otherwise be mutually agreed. Not later than 180 days after the end of the United States fiscal year with respect to which such funds were provided, each such statement shall be submitted to the President for audit and transmission to the Congress.
 
 #### (5) “Audits” defined
 
@@ -113,10 +113,6 @@ Section was formerly set out as a note under section 1681 of this title.
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (a)(4) and (c)(4) of this section are listed as the 12th and last items on page 37), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1901, 1905, 1910, 1931, 1955 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

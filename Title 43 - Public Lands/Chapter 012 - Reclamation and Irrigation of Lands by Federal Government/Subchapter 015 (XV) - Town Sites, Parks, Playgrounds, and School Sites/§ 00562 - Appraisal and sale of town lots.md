@@ -4,7 +4,3 @@ The lots so surveyed shall be appraised under the direction of the Secretary of 
 
 (Apr. 16, 1906, ch. 1631, §2, 34 Stat. 116.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 563, 564, 565, 567, 568 of this title.
-

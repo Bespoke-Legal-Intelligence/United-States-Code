@@ -58,7 +58,7 @@ The Secretary, acting through the Service, shall facilitate access to, or provid
 
 #### (d) Grants for immunization services
 
-(1) The Secretary, acting through the Service, shall facilitate access to, or provide, immunization services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section.
+(1) The Secretary, acting through the Service, shall facilitate access to, or provide, immunization services for urban Indians through grantsmade to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section.
 
 (2) In making any grant to carry out this subsection, the Secretary shall take into consideration—
 
@@ -167,8 +167,4 @@ Survey.—The Secretary shall conduct a survey of all facilities used by contrac
 “(b)
 
 Report.—The report shall contain general recommendations for addressing the deficiencies of facilities in which programs funded under title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\] are located and shall propose specific policies for accomplishing those recommendations.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1603, 1654, 1655, 1657 of this title.
 

@@ -28,7 +28,3 @@ May 7, 1934, ch. 222, §2, 48 Stat. 668; Pub. L. 95–431, title IV, (“Sec. 1(
 
 In this section, before clause (1), the words “to carry out” are substituted for “for the performance of the provisions of” to eliminate unnecessary words. In clause (2), the words “chapter 51 and subchapter III of chapter 53 of title 5” are substituted for “the Classification Act of 1949, as amended” because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 5, United States Code. In clause (3), the words “subchapter III of chapter 83 of title 5” are substituted for “the Act entitled ‘An Act for the retirement of employees in the classified civil service, and for other purposes’ approved May 22, 1920, as amended (U.S.C., title 5, ch. 14)” because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 5, United States Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6111 of this title.
-

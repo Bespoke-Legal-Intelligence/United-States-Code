@@ -1,9 +1,5 @@
 Part C—Wild and Scenic Rivers and Trout Reserve
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 460nnn–1 of this title.
-
 
 ---
 

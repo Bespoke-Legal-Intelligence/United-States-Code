@@ -28,7 +28,7 @@ If any employer or his officers or agents fails to comply with a compensation or
 
 Proceedings for suspending, setting aside, or enforcing a compensation order, whether rejecting a claim or making an award, shall not be instituted otherwise than as provided in this section and section 918 of this title.
 
-(Mar. 4, 1927, ch. 509, §21, 44 Stat. 1436; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 92–576, §15(a), (b), Oct. 27, 1972,86 Stat. 1261, 1262; Pub. L. 95–251, §2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, §15, Sept. 28, 1984, 98 Stat. 1649.)
+(Mar. 4, 1927, ch. 509, §21, 44 Stat. 1436; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 92–576, §15(a), (b), Oct. 27, 1972, 86 Stat. 1261, 1262; Pub. L. 95–251, §2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, §15, Sept. 28, 1984, 98 Stat. 1649.)
 
 #### Codification
 
@@ -44,7 +44,7 @@ Subsec. (b)(5). Pub. L. 98–426, §15(4), added par. (5).
 
 1978—Subsec. (b)(4). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
 
-1972—Subsec. (b). Pub. L. 92–576, §15(a), added subsec. (b). Former provisions of subsec. (b) for injunction proceedings to suspend or set aside a compensation order by a party in interest against a deputy commissioner in Federal district court for judicial district where injury occurred superseded by subsec. (c) of this section and former provisions of such subsec. (b) respecting service of process and stay of payments, except for the procedural requirement of an interlocutory injunction to the court and hearing on at least three days’ notice to the parties in interest and the deputy commissioner, incorporated in subsec. (c) of this section.
+1972—Subsec. (b). Pub. L. 92–576, §15(a), added subsec. (b). Former provisions of subsec. (b) for injunction proceedings to suspend or set aside a compensation order by a party in interest against a deputy commissioner in Federal district court for judicial district where injury occurred superseded by subsec. (c) of this section and former provisions of such subsec. (b) respecting service of process and stay of payments, except for the procedural requirement of an interlocutory injunction to the court and hearing on at least three days’ notice to theparties in interest and the deputy commissioner, incorporated in subsec. (c) of this section.
 
 Subsecs. (c) to (e). Pub. L. 92–576, §15(a), (b), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
@@ -58,9 +58,13 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 #### Review of Decisions Made by or Pending Before Benefits Review Board
 
-Pub. L. 108–7, div. G, title I, Feb. 20, 2003, 117 Stat. 306, provided in part: “That no funds made available by this Act \[div. G of Pub. L. 108–7, see Tables for classification\] may be used by the Solicitor of Labor to participate in a review in any United States court of appeals of any decision made by the Benefits Review Board under section 21 of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 921) where such participation is precluded by the decision of the United States Supreme Court in Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding, 115 S. Ct. 1278 (1995), notwithstanding any provisions to the contrary contained in Rule 15 of the Federal Rules of Appellate Procedure \[28 U.S.C. App.\]: <i>Provided further</i>, That no funds made available by this Act may be used by the Secretary of Labor to review a decision under the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) that has been appealed and that has been pending before the Benefits Review Board for more than 12 months: <i>Provided further</i>, That any such decision pending a review by the Benefits Review Board for more than 1 year shall be considered affirmed by the Benefits Review Board on the 1-year anniversary of the filing of the appeal, and shall be considered the final order of the Board for purposes of obtaining a review in the United States courts of appeals: <i>Provided further</i>, That these provisions shall not be applicable to the review or appeal of any decision issued under the Black Lung Benefits Act (30 U.S.C. 901 et seq.).”
+Pub. L. 108–447, div. F, title I, Dec. 8, 2004, 118 Stat. 3121, provided in part: “That no funds made available by this Act \[div. F of Pub. L. 108–447, see Tables for classification\] may be used by the Solicitor of Labor to participate in a review in any United States court of appeals of any decision made by the Benefits Review Board under section 21 of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 921) where such participation is precluded by the decision of the United States Supreme Court in Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding, 115 S. Ct. 1278 (1995), notwithstanding any provisions to the contrary contained in Rule 15 of the Federal Rules of Appellate Procedure \[28 U.S.C. App.\]: <i>Provided further</i>, That no funds made available by this Act may be used by the Secretary of Labor to review a decision under the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) that has been appealed and that has been pending before the Benefits Review Board for more than 12 months: <i>Provided further</i>, That any such decision pending a review by the Benefits Review Board for more than 1 year shall be considered affirmed by the Benefits Review Board on the 1-year anniversary of the filing of the appeal, and shall be considered the final order of the Board for purposes of obtaining a review in the United States courts of appeals: <i>Provided further</i>, That these provisions shall not be applicable to the review or appeal of any decision issued under the Black Lung Benefits Act (30 U.S.C. 901 et seq.).”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–199, div. E, title I, Jan. 23, 2004, 118 Stat. 234.
+
+Pub. L. 108–7, div. G, title I, Feb. 20, 2003, 117 Stat. 306.
 
 Pub. L. 107–116, title I, Jan. 10, 2002, 115 Stat. 2184.
 
@@ -75,8 +79,4 @@ Pub. L. 105–78, title I, Nov. 13, 1997, 111 Stat. 1475.
 Pub. L. 104–208, div. A, title I, §101(e) \[title I\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–241.
 
 Pub. L. 104–134, title I, §101(d) \[title I\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–218; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 914, 919, 921a, 939 of this title; title 5 section 8171; title 42 section 1653.
 

@@ -47,6 +47,7 @@
 | [4331\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004331%20-%20Regulations.md) | Regulations. |
 | [4332\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004332%20-%20Reports.md) | Reports. |
 | [4333\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004333%20-%20Outreach.md) | Outreach. |
+| [4334\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004334%20-%20Notice%20of%20rights%20and%20duties.md) | Notice of rights and duties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -58,11 +59,9 @@ A prior chapter 43 “Mustering-Out Payments”, Pub. L. 85–857, Sept. 2, 1958
 
 #### Amendments
 
+2004—Pub. L. 108–454, title II, §203(b), Dec. 10, 2004, 118 Stat. 3606, added item 4334.
+
 1998—Pub. L. 105–368, title II, §212(b)(2), Nov. 11, 1998, 112 Stat. 3331, added item 4319.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 4102A, 4106, 5303A of this title; title 2 sections 1302, 1361, 1371, 1434; title 3 sections 402, 435; title 5 sections 1204, 8331, 8334, 8351, 8401, 8422, 8432b; title 10 section 706; title 26 sections 414, 3121; title 28 section 631; title 42 sections 300hh–11, 410; title 46 App. section 1132; title 50 App. section 594.
 
 
 ---

@@ -10,7 +10,7 @@ Congress makes the following findings:
 
 &emsp;(3) In recent years, large quantities of low-cost, imported honey have been brought into the United States, replacing domestic honey in the normal trade channels.
 
-&emsp;(4) The maintenance and expansion of existing honey markets and the development of new or improved markets or uses are vital to the welfare of honey producers and those concerned with marketing, using, and processing honey, along with those engaged in general agricultural endeavors requiring bees for pollinating purposes.
+&emsp;(4) The maintenance and expansion of existing honey markets and the development of new or improved markets or uses are vital to the welfare of honey producers and those concerned with marketing, using, and processinghoney, along with those engaged in general agricultural endeavors requiring bees for pollinating purposes.
 
 &emsp;(5) The honey production industry within the United States is comprised mainly of small- and medium-sized businesses.
 
@@ -76,7 +76,7 @@ Subsecs. (b), (c). Pub. L. 105–185, §605(a)(3), added subsecs. (b) and (c) an
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–624, title XIX, §1981, Nov. 28, 1990, 104 Stat. 3904, provided that: “This chapter \[chapter 1 (§§1981–1987) of subtitle F of title XIX of Pub. L. 101–624, enacting section 4610a of this title, amending sections 4602, 4606, 4608, and 4612 of this title, and enacting provisions set out as a note under section 4603 of this title\]may be cited as the ‘Honey Research, Promotion, and Consumer Information Act Amendments of 1990’.”
+Pub. L. 101–624, title XIX, §1981, Nov. 28, 1990, 104 Stat. 3904, provided that: “This chapter \[chapter 1 (§§1981–1987) of subtitle F of title XIX of Pub. L. 101–624, enacting section 4610a of this title, amending sections 4602, 4606, 4608, and 4612 of this title, and enacting provisions set out as a note under section 4603 of this title\] may be cited as the ‘Honey Research, Promotion, and Consumer Information Act Amendments of 1990’.”
 
 #### Short Title
 

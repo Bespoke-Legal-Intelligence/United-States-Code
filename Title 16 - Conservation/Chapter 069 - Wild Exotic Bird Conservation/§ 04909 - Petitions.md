@@ -24,7 +24,3 @@ For each petition submitted to the Secretary in accordance with subsection (a) o
 
 (Pub. L. 102–440, title I, §110, Oct. 23, 1992, 106 Stat. 2229.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4906 of this title.
-

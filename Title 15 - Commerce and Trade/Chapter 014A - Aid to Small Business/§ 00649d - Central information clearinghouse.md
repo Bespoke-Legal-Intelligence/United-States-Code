@@ -8,7 +8,3 @@ The Secretary through the International Trade Administration, shall, only to suc
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 649b of this title.
-

@@ -4,7 +4,3 @@ Upon the recommendation of the Secretary of Agriculture the Secretary of the Int
 
 (July 3, 1926, ch. 776, §5, 44 Stat. 889.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 689a, 689c of this title.
-

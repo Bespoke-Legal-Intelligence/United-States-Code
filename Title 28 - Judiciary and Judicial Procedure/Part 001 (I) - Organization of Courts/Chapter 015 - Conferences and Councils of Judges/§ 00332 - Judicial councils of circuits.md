@@ -54,7 +54,7 @@ All duties delegated to the circuit executive shall be subject to the general su
 
 (3) The circuit executive may appoint, with the approval of the council, necessary employees in such number as may be approved by the Director of the Administrative Office of the United States Courts.
 
-(4) The circuit executive and his staff shall be deemed to be officers and employees of the judicial branch of the United States Government within the meaning of subchapter III of chapter 83 (relating to civil service retirement), chapter 87 (relating to Federal employees’ life insurance program), and chapter 89 (relating to Federal employees’ health benefits program) of title 5, United States Code.
+(4) The circuit executive and his staff shall be deemed to be officers and employees of the judicial branch of the United States Government within the meaning of subchapter III of chapter83 (relating to civil service retirement), chapter 87 (relating to Federal employees’ life insurance program), and chapter 89 (relating to Federal employees’ health benefits program) of title 5, United States Code.
 
 (g) No later than January 31 of each year, each judicial council shall submit a report to the Administrative Office of the United States Courts on the number and nature of orders entered under this section during the preceding calendar year that relate to judicial misconduct or disability.
 
@@ -92,7 +92,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(1), are set out
 
 Subsec. (h). Pub. L. 107–273, §11043(c)(2), struck out subsec. (h) as added by Pub. L. 106–553, which read as follows:
 
-“(h)(1) The United States Court of Appeals for the Federal Circuit may appoint a circuit executive, who shall serve at the pleasure of the court. In appointing a circuit executive, the court shall take into account experience in administrative and executive positions, familiarity with court procedures, and special training. The circuit executive shall exercise such administrative powers and perform such duties as may be delegated by the court. The duties delegated to the circuit executive may include but need not be limited to the duties specified in subsection (e) of this section, insofaras they are applicable to the Court of Appeals for the Federal Circuit.
+“(h)(1) The United States Court of Appeals for the Federal Circuit may appoint a circuit executive, who shall serve at the pleasure of the court. In appointing a circuit executive, the court shall take into account experience in administrative and executive positions, familiarity with court procedures, and special training. The circuit executive shall exercise such administrative powers and perform such duties as may be delegated by the court. The duties delegated to the circuit executive may include but need not be limited to the duties specified in subsection (e) of this section, insofar as they are applicable to the Court of Appeals for the Federal Circuit.
 
 “(2) The circuit executive shall be paid the salary for circuit executives established under subsection (f) of this section.
 
@@ -169,10 +169,6 @@ Amendment by section 403(a)(2), (b) of Pub. L. 100–702 effective Dec. 1, 1988,
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–458 effective Oct. 1, 1981, see section 7 of Pub. L. 96–458, set out as a note under section 331 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 356, 372 of this title; title 5 section 5307.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

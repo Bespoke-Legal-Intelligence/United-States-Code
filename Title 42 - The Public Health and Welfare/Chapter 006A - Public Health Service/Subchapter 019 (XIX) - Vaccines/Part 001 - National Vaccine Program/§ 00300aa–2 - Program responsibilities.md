@@ -4,7 +4,7 @@
 
 #### (1) Vaccine research
 
-&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of thistitle, coordinate and provide direction for research carried out in or through the National Institutes of Health, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development on means to induce human immunity against naturally occurring infectious diseases and to prevent adverse reactions to vaccines.
+&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for research carried out in or through the National Institutes of Health, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development on means to induce human immunity against naturally occurring infectious diseases and to prevent adverse reactions to vaccines.
 
 #### (2) Vaccine development
 
@@ -12,7 +12,7 @@
 
 #### (3) Safety and efficacy testing of vaccines
 
-&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for safety and efficacy testing of vaccines carried out in or through the National Institutes of Health, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development.
+&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for safety and efficacy testing of vaccines carried out in or through the National Institutes ofHealth, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development.
 
 #### (4) Licensing of vaccine manufacturers and vaccines
 
@@ -62,7 +62,7 @@ Pub. L. 101–502, §2(b), Nov. 3, 1990, 104 Stat. 1285, provided that:
 
 In general.—The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control, may make grants to public and nonprofit private entities for the purpose of carrying out demonstration projects—
 
-&emsp;“(A) to provide, without charge, immunizations against vaccine-preventable diseases to children notmore than 2 years of age who reside in communities whose population includes a significant number of low-income individuals; and
+&emsp;“(A) to provide, without charge, immunizations against vaccine-preventable diseases to children not more than 2 years of age who reside in communities whose population includes a significant number of low-income individuals; and
 
 &emsp;“(B) to provide outreach services to identify such children and to inform the parents (or other guardians) of the children of the availability from the entities of the immunizations specified in subparagraph (A).
 
@@ -82,7 +82,7 @@ In General.—The Secretary of Health and Human Services, acting through the Dir
 
 “(b)
 
-Authorization of Appropriations.—For the purpose of carrying out subsection (a), there are authorized to be appropriated $5,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.”
+Authorization of Appropriations.—For the purpose of carrying out subsection (a), there are authorized to be appropriated $5,000,000 for fiscal year1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.”
 
 \[Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.\]
 
@@ -97,8 +97,4 @@ In general.—The Secretary of Health and Human Services, acting through the Dir
 Authorization of Appropriations.—There are authorized to be appropriated to carry out paragraph (1) $5,000,000 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990.”
 
 \[Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300aa–3, 300aa–5, 300aa–6 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—HIGH-PERFORMANCE COMPUTING AND THE NATIONAL RESEARCH AND EDUCATION NETWORK
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5521, 5522, 5523, 5524, 5525, 5526 of this title.
-
 
 ---
 

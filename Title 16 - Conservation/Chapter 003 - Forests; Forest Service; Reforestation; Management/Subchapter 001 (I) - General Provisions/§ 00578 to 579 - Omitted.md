@@ -6,7 +6,7 @@ Section 578, act June 25, 1940, ch. 421, 54 Stat. 546, which authorized rental o
 
 Section 578a, acts July 1, 1941, ch. 267, 55 Stat. 422; July 22, 1942, ch. 516, 56 Stat. 679; July 12, 1943, ch. 215, 57 Stat. 411; June 28, 1944, ch. 296, 58 Stat. 443, related to rental of foreign service equipment to non-Federal agencies, and is now covered by section 580 of this title.
 
-Section 579, act June 29, 1954, ch. 409, title I, 68 Stat. 307, which authorized the purchase of improvements inlieu of construction, was from the Department of the Interior and Related Agencies Appropriations Act, 1955, and was not repeated in subsequent appropriation acts. Similar provisions were contained in following prior appropriation acts:
+Section 579, act June 29, 1954, ch. 409, title I, 68 Stat. 307, which authorized the purchase of improvements in lieu of construction, was from the Department of the Interior and Related Agencies Appropriations Act, 1955, and was not repeated in subsequent appropriation acts. Similar provisions were contained in following prior appropriation acts:
 
 July 28, 1953, ch. 251, title I, 67 Stat. 212.
 

@@ -72,7 +72,7 @@ The Secretary shall make grants, or enter into contracts, for the activities des
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Secretary of the Interior, shall award 5 grants toschools funded by the Bureau of Indian Affairs (hereafter referred to individually in this section as a “Bureau school”) for program research and development and the development and dissemination of curriculum and teacher training material, regarding—
+&emsp;The Secretary, in consultation with the Secretary of the Interior, shall award 5 grants to schools funded by the Bureau of Indian Affairs (hereafter referred to individually in this section as a “Bureau school”) for program research and development and the development and dissemination of curriculum and teacher training material, regarding—
 
 &emsp;&emsp;(A) gifted and talented students;
 
@@ -138,5 +138,5 @@ The Tribally Controlled College or University Assistance Act of 1978, referred t
 
 #### Prior Provisions
 
-A prior section 7454, Pub. L. 89–10, title VII, §7134, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3730, related to State grant program, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6934 of this title.
+A prior section 7454, Pub. L. 89–10, title VII, §7134, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3730, related to State grant program, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6934 of this title.
 

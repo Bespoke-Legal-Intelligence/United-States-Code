@@ -6,7 +6,7 @@ In order to conserve, protect, and enhance for the benefit and enjoyment of pres
 
 #### (b) Areas included
 
-The Conservation Area shall consist of approximately 42,000 acres of public lands in the Arizona counties of Pima and Santa Cruz, as generally depicted on the map entitled “Sonoita Valley Acquisition Planning District and Las Cienegas National Conservation Area” and dated October 2, 2000.
+The Conservation Area shall consist of approximately 42,000 acres of public lands in theArizona counties of Pima and Santa Cruz, as generally depicted on the map entitled “Sonoita Valley Acquisition Planning District and Las Cienegas National Conservation Area” and dated October 2, 2000.
 
 #### (c) Maps and legal description
 
@@ -17,8 +17,4 @@ As soon as practicable after December 6, 2000, the Secretary shall submit to Con
 Any lands included in the Coronado National Forest that are located within the boundaries of the Conservation Area shall be considered to be a part of the Conservation Area. The Secretary of Agriculture shall revise the boundaries of the Coronado National Forest to reflect the exclusion of such lands from the Coronado National Forest.
 
 (Pub. L. 106–538, §4, Dec. 6, 2000, 114 Stat. 2564.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>ooo</i>, 460<i>ooo</i>–2, 460<i>ooo</i>–4, 460<i>ooo</i>–5, 460<i>ooo</i>–7 of this title.
 

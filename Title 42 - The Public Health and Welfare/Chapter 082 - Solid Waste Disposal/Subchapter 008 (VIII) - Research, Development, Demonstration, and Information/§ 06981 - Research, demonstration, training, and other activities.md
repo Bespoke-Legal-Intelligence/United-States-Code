@@ -68,7 +68,7 @@ Subsec. (a)(13). Pub. L. 95–609, §7(s)(2), inserted “treatment,” after �
 
 “Secretary of Energy” was substituted for “Administrator of the Federal Energy Administration, the Administrator of the Energy Research and Development Administration, or the Chairman of the Federal Power Commission” in subsec. (a), and for “Energy Research and Development Administration” in subsecs. (b)(2) and (c)(3), in view of the termination of the Federal Energy Administration, the Energy Research and Development Administration, and the Federal Power Commission and the transfer of their functions and the functions of the Administrators and Chairman thereof (with certain exceptions) to the Secretary of Energy pursuant to sections 301, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151, 7293, and 7297 of this title.
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 
 #### EPA Study of Methods To Reduce Plastic Pollution
 
@@ -85,8 +85,4 @@ Section 3 of Pub. L. 94–580 provided for a study of procedures for removal of 
 #### Leachate Control Research Program in Delaware
 
 Section 4 of Pub. L. 94–580 directed Administrator of Environmental Protection Agency, in order to demonstrate effective means of dealing with contamination of public water supplies by leachate from abandoned or other landfills, to provide technical and financial assistance for a research program, designed by New Castle County areawide waste treatment management program, to control leachate from Llangollen Landfill in New Castle County, Delaware, and provided up to $250,000 in each of the fiscal years 1978 and 1979 for the operating costs of a counter-pumping program to contain the leachate from the Llangollen Landfill during the period of this study.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6984, 6985 of this title; title 35 section 210.
 

@@ -20,7 +20,7 @@ Each State regulatory authority (with respect to each electric utility for which
 
 (1) The State regulatory authority (with respect to each electric utility for which it has ratemaking authority) or nonregulated electric utility may, to the extent consistent with otherwise applicable State law—
 
-&emsp;(A) implement any such standard determined under subsection (a) of this section to be appropriate to carry out the purposes of this chapter, or
+&emsp;(A) implement any such standard determined under subsection (a) of this section tobe appropriate to carry out the purposes of this chapter, or
 
 &emsp;(B) decline to implement any such standard.
 
@@ -72,7 +72,7 @@ The following Federal standards are hereby established:
 
 #### (8) Investments in conservation and demand management
 
-&emsp;The rates allowed to be charged by a State regulated electric utility shall be such that the utility's investment in and expenditures for energy conservation, energy efficiency resources, and other demand side management measures are at least as profitable, giving appropriate consideration to income lost from reduced sales due to investments in and expenditures for conservation and efficiency, as its investments in and expenditures for the construction of new generation, transmission, and distribution equipment. Such energy conservation, energy efficiency resources and other demand side management measuresshall be appropriately monitored and evaluated.
+&emsp;The rates allowed to be charged by a State regulated electric utility shall be such that the utility's investment in and expenditures for energy conservation, energy efficiency resources, and other demand side management measures are at least as profitable, giving appropriate consideration to income lost from reduced sales due to investments in and expenditures for conservation and efficiency, as its investments in and expenditures for the construction of new generation, transmission, and distribution equipment. Such energy conservation, energy efficiency resources and other demand side management measures shall be appropriately monitored and evaluated.
 
 #### (9) Energy efficiency investments in power generation and supply
 
@@ -132,15 +132,11 @@ Section 111(e) of Pub. L. 102–486 provided that: “Not later than 2 years aft
 
 &emsp;“(3) a survey of practices and policies under which electric cooperatives prepare integrated resource plans, submit such plans to the Rural Electrification Administration and the extent to which such integrated resource planning is reflected in rates charged to customers.
 
-> The report shall include an analysis prepared in conjunction with the Federal Trade Commission, of thecompetitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand side management measures and whether any unfair, deceptive, or predatory acts exist, or are likely to exist, from implementation of such programs.”
+> The report shall include an analysis prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand side management measures and whether any unfair, deceptive, or predatory acts exist, or are likely to exist, from implementation of such programs.”
 
 \[For provisions relating to further requirements as to subject matter contained in report under section 111(e) of Pub. L. 102–486, set out above, see section 115(e) of Pub. L. 102–486, set out as a note under section 3203 of Title 15, Commerce and Trade.\]
 
 #### Study Concerning Electric Rates of State Utility Agencies
 
 Section 601 of Pub. L. 95–617 directed the Secretary to conduct a study concerning the effects of provisions of Federal law on rates established by State utility agencies and to submit a report to Congress on the results of such study not later than 1 year after Nov. 9, 1978.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 831m–1, 2622, 2624, 2625, 2626, 2627, 2641, 2643 of this title; title 42 sections 6349, 6807a, 7276b.
 

@@ -8,7 +8,3 @@ In any case in which there is no applicable law with respect to a transportation
 
 (Pub. L. 96–487, title XI, §1105, Dec. 2, 1980, 94 Stat. 2461.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3166 of this title.
-

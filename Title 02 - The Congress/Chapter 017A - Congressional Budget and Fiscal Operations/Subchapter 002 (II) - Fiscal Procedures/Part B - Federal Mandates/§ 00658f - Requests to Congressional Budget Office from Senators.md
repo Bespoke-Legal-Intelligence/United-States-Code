@@ -4,7 +4,3 @@ At the written request of a Senator, the Director shall, to the extent practicab
 
 (Pub. L. 93–344, title IV, §427, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 59.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1515 of this title.
-

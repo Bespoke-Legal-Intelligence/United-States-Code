@@ -32,7 +32,7 @@ The guidelines for the model program shall generally comport with the additional
 
 #### Assistance for Self-Help Housing Providers
 
-Pub. L. 104–120, §11, Mar. 28, 1996, 110 Stat. 841, as amended by Pub. L. 105–276, title V, §599E(a), Oct. 21, 1998, 112 Stat. 2663; Pub. L. 106–569, title II, §202, Dec. 27, 2000, 114 Stat. 2951, provided that:
+Pub. L. 104–120, §11, Mar. 28, 1996, 110 Stat. 841, as amended by Pub. L. 105–276, title V, §599E(a), Oct. 21,1998, 112 Stat. 2663; Pub. L. 106–569, title II, §202, Dec. 27, 2000, 114 Stat. 2951; Pub. L. 108–285, §2, Aug. 2, 2004, 118 Stat. 917, provided that:
 
 “(a)
 
@@ -42,7 +42,7 @@ Grant Authority.—The Secretary of Housing and Urban Development may, to the ex
 
 Goals and Accountability.—In making grants under this section, the Secretary shall take such actions as may be necessary to ensure that—
 
-&emsp;“(1) assistance provided under this section is used to facilitate and encourage innovative homeownership opportunities through the provision of self-help housing, under which the homeowner contributes a significant amount of sweat equity toward the construction of the new dwelling;
+&emsp;“(1) assistance provided under this section is used to facilitate and encourage innovative homeownership opportunities through the provision of self-help housing, under which the homeowner contributes a significant amount of sweat equity toward the construction of the new dwellings;
 
 &emsp;“(2) assistance provided under this section for land acquisition and infrastructure development results in the development of not less than 4,000 new dwellings;
 
@@ -132,7 +132,7 @@ Grant Agreement.—A grant under this section shall be made only pursuant to a g
 
 “(j)
 
-Fulfillment of Grant Agreement.—If the Secretary determines that an organization or consortia awarded a grant under this section has not, within 24 months after grant amounts are first made available to the organization or consortia (or, in the case of grant amounts from amounts made available for fiscal year 1996 to carry out this section and grant amounts provided to a local affiliate of the organization or consortia that is developing five or more dwellings in connection with such grant amounts, within 36 months), substantially fulfilled the obligations under the grant agreement, including development of the appropriate number of dwellings under the agreement, the Secretary shall use any such undisbursed amounts remaining from such grant for other grants in accordance with this section.
+Fulfillment of Grant Agreement.—If the Secretary determines that an organization or consortia awarded a grant under this section has not, within 24 months after grant amounts are first made available to the organization or consortia (or, in the case of grant amounts from amounts made available for fiscal year1996 to carry out this section and grant amounts provided to a local affiliate of the organization or consortia that is developing five or more dwellings in connection with such grant amounts, within 36 months), substantially fulfilled the obligations under the grant agreement, including development of the appropriate number of dwellings under the agreement, the Secretary shall use any such undisbursed amounts remaining from such grant for other grants in accordance with this section.
 
 “(k)
 

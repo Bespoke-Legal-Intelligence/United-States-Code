@@ -4,7 +4,3 @@ Any person who shall violate any rule or regulation promulgated in accordance wi
 
 (Mar. 10, 1934, ch. 55, §7, as added Aug. 14, 1946, ch. 965, 60 Stat. 1080.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 696 of this title.
-

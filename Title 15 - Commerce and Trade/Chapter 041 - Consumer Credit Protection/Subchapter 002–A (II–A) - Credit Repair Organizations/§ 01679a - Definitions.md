@@ -38,7 +38,3 @@ For purposes of this subchapter, the following definitions apply:
 
 For a prior section 403 of Pub. L. 90–321, see note set out under section 1679 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1681s–2 of this title.
-

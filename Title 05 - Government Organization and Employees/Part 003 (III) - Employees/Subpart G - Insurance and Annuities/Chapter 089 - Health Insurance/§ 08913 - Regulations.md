@@ -2,11 +2,11 @@
 
 (a) The Office of Personnel Management may prescribe regulations necessary to carry out this chapter.
 
-(b) The regulations of the Office may prescribe the time at which and the manner and conditions under which an employee is eligible to enroll in an approved health benefits plan described in section 8903 or 8903a of this title. The regulations may exclude an employee on thebasis of the nature and type of his employment or conditions pertaining to it, such as short-term appointment, seasonal or intermittent employment, and employment of like nature. The Office may not exclude—
+(b) The regulations of the Office may prescribe the time at which and the manner and conditions under which an employee is eligible to enroll in an approved health benefits plan described in section 8903 or 8903a of this title. The regulations may exclude an employee on the basis of the nature and type of his employment or conditions pertaining to it, such as short-term appointment, seasonal or intermittent employment, and employment of like nature. The Office may not exclude—
 
 &emsp;(1) an employee or group of employees solely on the basis of the hazardous nature of employment;
 
-&emsp;(2) a teacher in the employ of the Board of Education of the District of Columbia, whose pay is fixed by section 1501 of title 31, District of Columbia Code, on the basis of the fact that the teacher is serving under a temporary appointment if the teacher has been so employed by the Board for a period or periods totaling not less than two school years;
+&emsp;(2) a teacher in the employ of the Board of Education of the District of Columbia, whose pay is fixed by section 1501 of title 31, District of Columbia Code, on the basis of the fact that the teacher is serving under a temporary appointment if the teacher has been so employedby the Board for a period or periods totaling not less than two school years;
 
 &emsp;(3) an employee who is occupying a position on a part-time career employment basis (as defined in section 3401(2) of this title); or
 
@@ -89,8 +89,4 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions,
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8901 of this title.
 

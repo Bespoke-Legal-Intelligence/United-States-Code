@@ -30,7 +30,3 @@ Nothing in this subpart shall be construed to prohibit a local educational agenc
 
 (Pub. L. 89–10, title III, §3247, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1727.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6964, 6965 of this title.
-

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(i) a borrower that has prepaid a loan, either before or after October 21, 1992, at a discount rate as provided by paragraph (3), shall not be eligible, except at the discretion of the Secretary, to apply for or receive direct or insured loans under this chapter during the 120-month period beginning on the date of the prepayment; and
 
-&emsp;&emsp;&emsp;(ii) a borrower that prepaid a loan before October 21, 1992, at a discount rate greater than that provided by paragraph (3), shall not be eligible—
+&emsp;&emsp;&emsp;(ii) a borrower that prepaid a loan before October 21, 1992, at a discount rate greaterthan that provided by paragraph (3), shall not be eligible—
 
 &emsp;&emsp;&emsp;&emsp;(I) except at the discretion of the Secretary, to apply for or receive direct or insured loans described in clause (i) during the 180-month period beginning on the date of the prepayment; or
 
@@ -79,8 +79,4 @@ October 21, 1992, referred to in subsec. (a)(5)(A), (B), was in the original “
 Subsec. (b). Pub. L. 102–428, §2(b), inserted heading.
 
 1990—Pub. L. 101–624 designated existing provisions as subsec. (a) and added subsec. (b).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 501.
 

@@ -4,7 +4,3 @@ Possession within said parks, or either of them, of the dead bodies or any part 
 
 (June 2, 1920, ch. 218, §5, 41 Stat. 732.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 63, 65 of this title.
-

@@ -30,7 +30,7 @@ Any officer or member entitled to receive compensation for additional hours of d
 
 #### (d) Certification procedure for additional compensation
 
-Compensation which officers and members are entitled to receive under this section shall be made upon certification by the Chief of the Capitol Police at the end of each calendar quarter to the Capitol Police Board, and upon the transmission of approval from the Capitol Police Board to the Committee on House Oversight of the House of Representatives.
+Compensation which officers and members are entitled to receive under this section shall bemade upon certification by the Chief of the Capitol Police at the end of each calendar quarter to the Capitol Police Board, and upon the transmission of approval from the Capitol Police Board to the Committee on House Oversight of the House of Representatives.
 
 #### (e) Transfer of accrued compensatory time off or receipt of lump-sum payment upon termination of service
 
@@ -58,7 +58,7 @@ As originally codified, this section consisted of two undesignated pars. based o
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–186, §221(10), substituted “Chief Administrative Officer” for “Clerk”.
+1996—Subsec. (a)(1). Pub. L. 104–186, §221(10), substituted “Chief Administrative Officer” for “Clerk”.
 
 Subsec. (d). Pub. L. 104–186, §221(11)(A), substituted “House Oversight” for “House Administration”.
 

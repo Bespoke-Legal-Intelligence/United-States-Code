@@ -26,7 +26,7 @@
 
 (i) Under regulations prescribed by the Secretary concerned, not more than one month's pay may be paid in advance to a member of the Armed Forces Health Professions Scholarship program upon reporting for a period of active duty required by section 2121(c) of title 10.
 
-(j) Under regulations prescribed by the Secretary concerned, not more than one month's pay may be paid in advance to a member of theSenior Reserve Officers’ Training Corps who is ordered to field training or a practice required under section 2109 of title 10.
+(j) Under regulations prescribed by the Secretary concerned, not more than one month's pay may be paid in advance to a member of the Senior Reserve Officers’ Training Corps who is ordered to field training or a practice required under section 2109 of title 10.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 490; Pub. L. 89–26, §1(6), May 22, 1965, 79 Stat. 117; Pub. L. 89–193, Sept. 21, 1965, 79 Stat. 823; Pub. L. 89–718, §70, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–623, §3(1), (9), Oct. 22, 1968, 82 Stat. 1314, 1315; Pub. L. 96–76, title III, §313(b), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–215, §3, Mar. 25, 1980, 94 Stat. 123; Pub. L. 96–343, §8, Sept. 8, 1980, 94 Stat. 1128; Pub. L. 96–513, title V, §516(23), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 97–60, title I, §131(b), Oct. 14, 1981, 95 Stat. 1005; Pub. L. 97–258, §3(j), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–145, title XIII, §1303(b)(12), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title VI, §602(a), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §602(a), Oct. 23, 1992, 106 Stat. 2420; Pub. L. 103–160, div. A, title VI, §605(a), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 105–261, div. A, title VI, §652, Oct. 17, 1998, 112 Stat. 2051; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
 
@@ -126,7 +126,7 @@ Subsec. (f). Pub. L. 90–623, §3(1), substituted “Secretary of Transportatio
 
 1966—Subsec. (h). Pub. L. 89–718 redesignated as subsec. (h) the subsection relating to advance payment of pay and allowances when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, formerly designated as subsec. (g).
 
-1965—Subsec. (c). Pub. L. 89–26, §1(6)(A), empowered the Secretary concerned or his designee to waive any right of recovery of not more than one month's basic pay advanced if he finds that recovery of the advancewould be against equity and good conscience or against the public interest.
+1965—Subsec. (c). Pub. L. 89–26, §1(6)(A), empowered the Secretary concerned or his designee to waive any right of recovery of not more than one month's basic pay advanced if he finds that recovery of the advance would be against equity and good conscience or against the public interest.
 
 Subsec. (g). Pub. L. 89–193 added subsec. (g) relating to the payment of pay and allowances when the last day of the pay period falls on a Saturday, Sunday, or legal holiday.
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 89–26 effective Feb. 1, 1965, see section 2 of Pub. L. 89
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Fiscal Year of Recordation of Obligations
 

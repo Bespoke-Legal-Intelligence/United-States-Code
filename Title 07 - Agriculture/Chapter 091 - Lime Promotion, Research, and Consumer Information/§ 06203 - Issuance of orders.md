@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to this chapter, and to effectuate the declared purposes of this chapter, the Secretary shall issue and, from time to time, amend lime research, promotion, and consumer information orders applicable to handlers, producers, producer-handlers, and importers of limes. Any such order shall be national in scope. Not more than one order shall be in effect under this chapter at any one time.
+Subject to this chapter, and to effectuate the declared purposes of this chapter, the Secretaryshall issue and, from time to time, amend lime research, promotion, and consumer information orders applicable to handlers, producers, producer-handlers, and importers of limes. Any such order shall be national in scope. Not more than one order shall be in effect under this chapter at any one time.
 
 #### (b) Procedure
 
@@ -27,8 +27,4 @@ Subject to this chapter, and to effectuate the declared purposes of this chapter
 The Secretary, from time to time, may amend any order issued under this section. The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
 
 (Pub. L. 101–624, title XIX, §1954, Nov. 28, 1990, 104 Stat. 3872.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6202, 6204, 6205, 6210 of this title.
 

@@ -20,7 +20,7 @@ The Secretary of Commerce (hereafter in this chapter referred to as the “Secre
 
 &emsp;(6) to assist industry in the development of measurements, measurement methods, and basic measurement technology;
 
-&emsp;(7) to determine, compile, evaluate, and disseminate physical constants and the properties and performance of conventional andadvanced materials when they are important to science, engineering, manufacturing, education, commerce, and industry and are not available with sufficient accuracy elsewhere;
+&emsp;(7) to determine, compile, evaluate, and disseminate physical constants and the properties and performance of conventional and advanced materials when they are important to science, engineering, manufacturing, education, commerce, and industry and are not available with sufficient accuracy elsewhere;
 
 &emsp;(8) to develop a fundamental basis and methods for testing materials, mechanisms, structures, equipment, and systems, including those used by the Federal Government;
 
@@ -78,7 +78,7 @@ In carrying out the functions specified in subsection (b) of this section, the S
 
 &emsp;(20) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
 
-&emsp;(21) demonstrate the results of the Institute's activities by exhibits or other methodsof technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
+&emsp;(21) demonstrate the results of the Institute's activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
 
 &emsp;(22) undertake such other activities similar to those specified in this subsection as the Director determines appropriate.
 
@@ -204,7 +204,7 @@ Section 5112(d) of Pub. L. 100–418 provided that:
 
 “(2) The Director may revise the organization plan. Any revision of the organization plan submitted under paragraph (1) shall be submitted to the appropriate committees of the House of Representatives and the Senate at least 60 days before the effective date of such revision.
 
-“(3) Until the effective date of the organization plan, the major operating units of the Institute shall be the major operating units of the National Bureau of Standards that were in existence on the date of the enactment of this Act \[Aug. 23, 1988\] and the Advanced Technology Program.”
+“(3) Until the effective date of the organization plan, the major operating units of the Institute shall be themajor operating units of the National Bureau of Standards that were in existence on the date of the enactment of this Act \[Aug. 23, 1988\] and the Advanced Technology Program.”
 
 #### National Institute of Standards and Technology; Small Business Plan
 
@@ -217,10 +217,6 @@ Act Oct. 25, 1949, ch. 703, 63 Stat. 886, provided for the construction and equi
 #### Construction of a Guided-Missile Research Laboratory
 
 Act Oct. 25, 1949, ch. 728, 63 Stat. 905, provided for the construction and equipment of a research laboratory building, suitable for use as a guided-missile laboratory, together with necessary utilities and appurtenances thereto, under a limit of cost of $1,900,000, for the National Bureau of Standards.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1454 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

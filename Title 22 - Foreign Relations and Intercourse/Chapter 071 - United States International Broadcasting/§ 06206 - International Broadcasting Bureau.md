@@ -54,7 +54,3 @@ Conditions.—The Director is authorized to use the authority of subsection (a) 
 
 Termination of Authority.—The authority to award personal services contracts under the pilot program authorized by this section shall terminate on December 31, 2005. A contract entered into prior to the termination date under this subsection may remain in effect for a period not to exceed 6 months after such termination date.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6211, 6213 of this title.
-

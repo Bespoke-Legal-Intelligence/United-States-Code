@@ -14,6 +14,8 @@ The Secretary of Defense shall submit to Congress, not later than 60 days after 
 
 The Buy American Act, referred to in text, is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, which enacted sections 10a, 10b, and 10c of this title, and enacted provisions set out as notes under section 10c of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10a of this title and Tables.
 
+Section 849(c)(2) of Pub. L. 103–160, referred to in par. (1), which was formerly set out as a note under section 10b–2 of this title, was transferred and is classified to section 10b–2(a)(2) of this title.
+
 The Trade Agreements Act of 1979, referred to in par. (2), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19, Customs Duties, and Tables.
 
 #### Amendments
@@ -21,4 +23,8 @@ The Trade Agreements Act of 1979, referred to in par. (2), is Pub. L. 96–39, J
 1998—Pub. L. 105–261 substituted “60 days” for “90 days” in introductory provisions.
 
 1997—Pub. L. 105–85 substituted “90 days” for “120 days” in introductory provisions.
+
+#### Similar Provisions
+
+Provisions similar to those in this section were contained in the acts listed in the Similar Provisions note set out under section 10b–2 of this title.
 

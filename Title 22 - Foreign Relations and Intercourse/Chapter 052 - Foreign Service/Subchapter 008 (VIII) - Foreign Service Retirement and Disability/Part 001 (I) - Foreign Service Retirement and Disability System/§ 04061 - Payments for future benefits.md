@@ -26,7 +26,3 @@ There is authorized to be appropriated to the Fund for each fiscal year an amoun
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4044, 4062 of this title.
-

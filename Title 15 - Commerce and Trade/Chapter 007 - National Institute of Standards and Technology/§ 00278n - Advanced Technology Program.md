@@ -78,7 +78,7 @@ When entering into contracts or making awards under subsection (b) of this secti
 
 &emsp;(10) Grants, contracts, and cooperative assignments under this section shall be designed to support projects which are high risk and which have the potential for eventual substantial widespread commercial application. In order to receive a grant, contract, or cooperative agreement under this section, a research and development entity shall demonstrate to the Secretary the requisite ability in research and technology development and management in the project area in which the grant, contract, or cooperative agreement is being sought.
 
-&emsp;(11)(A) Title to any intellectual property arising from assistance provided under this section shall vest in a company or companies incorporated in the United States. The United States may reserve a nonexclusive, nontransferable, irrevocable paid-up license, to have practiced for or on behalf of the United States, in connection with any such intellectual property, but shall not, in the exercise ofsuch license, publicly disclose proprietary information related to the license. Title to any such intellectual property shall not be transferred or passed, except to a company incorporated in the United States, until the expiration of the first patent obtained in connection with such intellectual property.
+&emsp;(11)(A) Title to any intellectual property arising from assistance provided under this section shall vest in a company or companies incorporated in the United States. The United States may reserve a nonexclusive, nontransferable, irrevocable paid-up license, to have practiced for or on behalf of the United States, in connection with any such intellectual property, but shall not, in the exercise of such license, publicly disclose proprietary information related to the license. Title to any such intellectual property shall not be transferred or passed, except to a company incorporated in the United States, until the expiration of the first patent obtained in connection with such intellectual property.
 
 &emsp;(B) For purposes of this paragraph, the term “intellectual property” means an invention patentable under title 35 or any patent on such an invention.
 
@@ -213,10 +213,6 @@ Section 5131(c) of Pub. L. 100–418 provided that:
 &emsp;“(E) such other mechanisms of Federal-industry cooperation as may be identified by the Secretary.
 
 “(4) A report based on the findings and recommendations of the review panel shall be submitted to the Secretary, the President, and Congress within 18 months after the Secretary signs the contracts with the National Academies of Sciences and Engineering.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 272, 278 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

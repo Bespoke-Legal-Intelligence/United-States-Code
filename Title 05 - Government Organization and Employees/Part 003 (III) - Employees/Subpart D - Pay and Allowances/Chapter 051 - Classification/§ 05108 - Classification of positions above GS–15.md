@@ -162,7 +162,7 @@ Pub. L. 95–91 substituted “3243” for “2754”.
 
 1976—Subsec. (c)(7). Pub. L. 94–233 restructured provisions and, as restructured, deleted authority relating to 8 positions of Member of the Board of Parole in GS–17.
 
-Subsec. (c)(8). Pub. L. 94–503 substituted provision that the Attorney General, without regard to any otherprovision of this section, may place a total of 32 positions in GS–16, 17, and 18 for provision that the Attorney General, without regard to this chapter (except section 5114), may place 1 position in GS–16.
+Subsec. (c)(8). Pub. L. 94–503 substituted provision that the Attorney General, without regard to any other provision of this section, may place a total of 32 positions in GS–16, 17, and 18 for provision that the Attorney General, without regard to this chapter (except section 5114), may place 1 position in GS–16.
 
 1975—Subsec. (c)(11). Pub. L. 94–183, §2(14), increased to twenty-five the number of positions which the Law Enforcement Assistance Administration may place in GS–16, 17, and 18. The increase required no change in text in view of the 1974 amendment by Pub. L. 93–415, which called for an identical increase.
 
@@ -295,8 +295,4 @@ Pub. L. 95–26, title I, May 4, 1977, 91 Stat. 94, authorizing the Director of 
 #### Preference to Blind in Selection of Personnel
 
 Preference to be given to blind individuals in selection of additional personnel under subsec. (c)(12) of this section, see section 208(c) of Pub. L. 93–516, set out as a note under section 702 of Title 29, Labor.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3132, 3304, 3324, 3594, 5372b, 5376, 5723 of this title; title 2 section 166; title 15 section 2053; title 20 sections 1505, 3461, 9105a; title 22 sections 2193, 2385, 2454, 6204; title 25 section 640d–11; title 29 sections 661, 1137; title 30 section 1211; title 42 section 7231; title 45 section 231f.
 

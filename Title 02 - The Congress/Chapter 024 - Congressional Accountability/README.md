@@ -119,7 +119,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1371\.](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/Part%20F%20-%20Study/%C2%A7%2001371%20-%20Study%20and%20recommendations%20regarding%20General%20Accounting%20Office%2C%20Government%20Printing%20Office%2C%20and%20Library%20of%20Congress.md) | Study and recommendations regarding General Accounting Office, Government Printing Office, and Library of Congress. |
+| [1371\.](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/Part%20F%20-%20Study/%C2%A7%2001371%20-%20Study%20and%20recommendations%20regarding%20Government%20Accountability%20Office%2C%20Government%20Printing%20Office%2C%20and%20Library%20of%20Congress.md) | Study and recommendations regarding Government Accountability Office, Government Printing Office, and Library of Congress. |
 | (a) | In general. |
 | (b) | Applicable statutes. |
 | (c) | Contents of study and recommendations. |

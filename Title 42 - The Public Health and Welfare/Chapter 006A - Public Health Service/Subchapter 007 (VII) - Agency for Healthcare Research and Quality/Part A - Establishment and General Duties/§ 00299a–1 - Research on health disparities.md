@@ -40,7 +40,7 @@ The Director shall—
 
 &emsp;&emsp;(C) service delivery models (such as health centers under section 254b of this title and the Indian Health Service) to reduce health disparities; and
 
-&emsp;&emsp;(D) innovative mechanisms or strategies that will facilitate the translation of pastresearch investments into clinical practices that can reasonably be expected to benefit these populations.
+&emsp;&emsp;(D) innovative mechanisms or strategies that will facilitate the translation of past research investments into clinical practices that can reasonably be expected to benefit these populations.
 
 #### (c) Quality measurement development
 
@@ -77,8 +77,4 @@ Prior sections 299a–2 and 299a–3 were omitted in the general amendment of th
 Section 299a–2, act July 1, 1944, ch. 373, title IX, §904, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2191; amended Pub. L. 102–410, §4(a), Oct. 13, 1992, 106 Stat. 2095; Pub. L. 103–43, title XX, §2013(1), June 10, 1993, 107 Stat. 214, related to health care technology assessment. See section 299b–5 of this title.
 
 Section 299a–3, act July 1, 1944, ch. 373, title IX, §905, as added Pub. L. 105–115, title IV, §409, Nov. 21, 1997, 111 Stat. 2371, established demonstration program regarding centers for education and research on therapeutics. See section 299b–1(b) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 299c–6 of this title.
 

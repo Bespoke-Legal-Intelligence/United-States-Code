@@ -26,10 +26,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1430, 1831y, 1835a, 1843, 3103, 4565 of this title.
-
 
 ---
 

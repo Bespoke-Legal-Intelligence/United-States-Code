@@ -18,7 +18,3 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 936 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-No later than the date that is 30 days after the date on which the President receives the reportof the International Trade Commission containing an affirmative determination of the International Trade Commission under section 3353(a) of this title, the President, subject to subsection (b) of this section, shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to remedy or, except in the case of imports of a Canadian article, prevent the injury found by the International Trade Commission.
+No later than the date that is 30 days after the date on which the President receives the report of the International Trade Commission containing an affirmative determination of the International Trade Commission under section 3353(a) of this title, the President, subject to subsection (b) of this section, shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to remedy or, except in the case of imports of a Canadian article, prevent the injury found by the International Trade Commission.
 
 #### (b) Exception
 
@@ -63,8 +63,4 @@ When import relief under this subpart is terminated with respect to a Mexican ar
 #### North American Free Trade Agreement: Entry Into Force
 
 The North American Free Trade Agreement entered into force on Jan. 1, 1994, see note set out under section 3311 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3353, 3356 of this title.
 

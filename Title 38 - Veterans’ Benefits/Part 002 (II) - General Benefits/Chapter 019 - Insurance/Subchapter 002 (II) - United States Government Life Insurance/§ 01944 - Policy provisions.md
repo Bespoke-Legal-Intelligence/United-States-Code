@@ -16,7 +16,3 @@
 
 1982—Subsecs. (b), (c). Pub. L. 97–295 substituted “percent” for “per centum”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1961, 1962 of this title.
-

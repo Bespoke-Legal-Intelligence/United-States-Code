@@ -74,7 +74,3 @@ Subsec. (d). Pub. L. 103–322, §220003(c), added subsec. (d).
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 512, 553, 981, 982, 2321 of this title; title 49 section 33107.
-

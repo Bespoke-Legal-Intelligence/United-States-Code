@@ -2,7 +2,7 @@
 
 #### (a) Consent of Congress
 
-Subject to the following conditions, a non-Federal interest may levy port or harbor dues (in the form of tonnage duties or fees) on a vessel engaged in trade entering or departing froma harbor and on cargo loaded on or unloaded from that vessel under clauses 2 and 3 of section 10, and under clause 3 of section 8, of Article 1 of the Constitution:
+Subject to the following conditions, a non-Federal interest may levy port or harbor dues (in the form of tonnage duties or fees) on a vessel engaged in trade entering or departing from a harbor and on cargo loaded on or unloaded from that vessel under clauses 2 and 3 of section 10, and under clause 3 of section 8, of Article 1 of the Constitution:
 
 #### (1) Purposes
 
@@ -20,7 +20,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 #### (3) General limitations
 
-&emsp;(A) Port or harbor dues may not be levied under this section in conjunction with a deepening feature of a navigation improvement project on any vessel if that vessel, based on its design draft, could have utilized the project at mean low water before construction. In the case of project features which solely—
+&emsp;(A) Port or harbor dues may not be levied under this section in conjunction with a deepening feature of a navigation improvement project on any vessel if that vessel, based onits design draft, could have utilized the project at mean low water before construction. In the case of project features which solely—
 
 &emsp;&emsp;(i) widen channels or harbors,
 
@@ -88,7 +88,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 (3) On petition of the Attorney General or any other party, that district court may—
 
-&emsp;(A) grant appropriate injunctive relief to restrain an action by that non-Federal interest violating the conditions of consent in subsection (a) of this section;
+&emsp;(A) grant appropriate injunctive relief to restrain an action by that non-Federal interestviolating the conditions of consent in subsection (a) of this section;
 
 &emsp;(B) order the refund of any port or harbor dues not lawfully collected; and
 
@@ -137,10 +137,6 @@ The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch.
 &emsp;“(2) submit to each House of the Congress a written report containing the findings resulting from each audit; and
 
 &emsp;“(3) make any recommendations that the Comptroller General considers appropriate regarding the compliance of those non-Federal interests with the requirements of this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

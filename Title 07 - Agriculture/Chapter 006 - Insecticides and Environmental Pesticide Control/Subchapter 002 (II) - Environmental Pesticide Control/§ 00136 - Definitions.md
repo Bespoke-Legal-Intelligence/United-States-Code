@@ -8,7 +8,7 @@ The term “active ingredient” means—
 
 &emsp;(1) in the case of a pesticide other than a plant regulator, defoliant, desiccant, or nitrogen stabilizer, an ingredient which will prevent, destroy, repel, or mitigate any pest;
 
-&emsp;(2) in the case of a plant regulator, an ingredient which, through physiological action, will accelerate or retard the rate of growth or rate of maturation or otherwise alter the behavior of ornamental or crop plants or the product thereof;
+&emsp;(2) in the case of a plant regulator, an ingredient which, through physiological action, will accelerate or retard the rate of growth or rateof maturation or otherwise alter the behavior of ornamental or crop plants or the product thereof;
 
 &emsp;(3) in the case of a defoliant, an ingredient which will cause the leaves or foliage to drop from a plant;
 
@@ -420,6 +420,10 @@ Section 4 of Pub. L. 92–516, as amended by Pub. L. 94–140, §4, Nov. 28, 197
 
 “(e) For purposes of determining any criminal or civil penalty or liability to any third person in respect of any act or omission occurring before the expiration of the periods referred to in this section, the Federal Insecticide, Fungicide, and Rodenticide Act shall be treated as continuing in effect as if this Act had not been enacted.”
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–199, div. G, title V, §501(a), Jan. 23, 2004, 118 Stat. 419, provided that: “This section \[enacting section 136w–8 of this title, amending sections 136a, 136a–1, 136x, and 136y of this title, and enacting provisions set out as notes under section 136a of this title and section 346a of Title 21, Food and Drugs\] may be cited as the ‘Pesticide Registration Improvement Act of 2003’.”
+
 #### Short Title of 1996 Amendment
 
 Section 1 of Pub. L. 104–170 provided that: “This Act \[enacting sections 136i–2, 136r–1, and 136w–5 to 136w–7 of this title, amending this section, sections 136a, 136a–1, 136d, 136q, 136s, 136w, 136w–3, 136x, and 136y of this title, and sections 321, 331, 333, 342, and 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136i–2 of this title and sections 301 and 346a of Title 21\] may be cited as the ‘Food Quality Protection Act of 1996’.”
@@ -447,10 +451,6 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### Federal Compliance With Pollution Control Standards
 
 For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 136a, 136<i>o</i>, 136w, 136w–1, 138 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

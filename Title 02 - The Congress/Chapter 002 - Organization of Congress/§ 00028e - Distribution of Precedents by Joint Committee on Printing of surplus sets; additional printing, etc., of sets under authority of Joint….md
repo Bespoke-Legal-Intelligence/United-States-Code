@@ -6,7 +6,3 @@
 
 (Pub. L. 94–551, §4, Oct. 18, 1976, 90 Stat. 2538.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 28b of this title.
-

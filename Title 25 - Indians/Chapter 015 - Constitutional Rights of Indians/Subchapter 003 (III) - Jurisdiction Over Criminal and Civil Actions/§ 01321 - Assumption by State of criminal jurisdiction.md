@@ -10,7 +10,3 @@ Nothing in this section shall authorize the alienation, encumbrance, or taxation
 
 (Pub. L. 90–284, title IV, §401, Apr. 11, 1968, 82 Stat. 78.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 736, 1300b–15, 1300g–4, 2433 of this title.
-

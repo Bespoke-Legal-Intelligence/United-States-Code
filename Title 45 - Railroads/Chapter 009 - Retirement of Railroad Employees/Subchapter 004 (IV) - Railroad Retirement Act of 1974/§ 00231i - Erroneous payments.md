@@ -6,7 +6,7 @@ If the Board finds that at any time more than the correct amount of annuities or
 
 #### (b) Adjustments
 
-Adjustments under this section may be made either by deductions from subsequent payments or, with respect to payments which are to be made during a lifetime or lifetimes, by subtracting the total amount of annuities or other benefits paid in excess of the proper amount from the actuarial value, as determined by the Board, of such payments to be made during a lifetime orlifetimes and recertifying such payments on the basis of the reduced actuarial value. In the latter case, recovery shall be deemed to have been completed upon such recertification.
+Adjustments under this section may be made either by deductions from subsequent payments or, with respect to payments which are to be made during a lifetime or lifetimes, by subtracting the total amount of annuities or other benefits paid in excess of the proper amount from the actuarial value, as determined by the Board, of such payments to be made during a lifetime or lifetimes and recertifying such payments on the basis of the reduced actuarial value. In the latter case, recovery shall be deemed to have been completed upon such recertification.
 
 #### (c) Decision not to recover
 
@@ -31,8 +31,4 @@ The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 5
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Jan. 1, 1975, see section 1129 of Pub. L. 97–35, set out as a note under section 231 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 231f of this title.
 

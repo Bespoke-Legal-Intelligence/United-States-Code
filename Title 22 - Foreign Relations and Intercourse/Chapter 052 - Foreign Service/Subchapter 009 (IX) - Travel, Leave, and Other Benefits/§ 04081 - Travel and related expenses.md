@@ -42,7 +42,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;&emsp;(A) when the member is absent from his or her post of assignment under orders or is assigned to a Foreign Service post to which such furniture and household and personal effects cannot be taken or at which they cannot be used, or when it is in the public interest or more economical to authorize storage;
 
-&emsp;&emsp;(B) in connection with an assignment of the member to a new post, except that costs and expenses may be paid under this subparagraph only for the period beginning on the date of departure from his or her last post or (in the case of a new member) on the date of departure from the place of residence of the member and ending on the earlier of the date which is 3 months after arrival of the member at the new post or the date on which the member establishes residence quarters, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days; and
+&emsp;&emsp;(B) in connection with an assignment of the member to a new post, except that costs and expenses may be paid under this subparagraph only for the period beginning on the date of departure from his or her last post or (in the case of a new member) on the date of departure from the place of residence of the member and ending on the earlier of the date which is 3 months after arrival of the member at the new post or the date on which the member establishes residence quarters, except that in extraordinary circumstances the Secretary may extend thisperiod for not more than an additional 90 days; and
 
 &emsp;&emsp;(C) in connection with separation of the member from the Service, except that costs or expenses may not be paid under this subparagraph for storing furniture and household and personal effects for more than 3 months, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days;
 
@@ -80,7 +80,7 @@ Par. (12)(C). Pub. L. 102–138, §145(2), inserted before semicolon “, excep
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–228, div. A, title III, §315(c), Sept. 30, 2002, 116 Stat. 1379, provided that: “The amendment made bysubsection (a) \[amending this section\] shall take effect on the date on which guidance for implementation of such amendment is issued by the Secretary.” \[Guidance in the form of a State Department cable was issued Nov. 5, 2002.\]
+Pub. L. 107–228, div. A, title III, §315(c), Sept. 30, 2002, 116 Stat. 1379, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date on which guidance for implementation of such amendment is issued by the Secretary.” \[Guidance in the form of a State Department cable was issued Nov. 5, 2002.\]
 
 \[For definition of “Secretary” as used in section 315(c) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
@@ -89,10 +89,6 @@ Pub. L. 107–228, div. A, title III, §315(c), Sept. 30, 2002, 116 Stat. 1379, 
 Pub. L. 107–228, div. A, title III, §315(b), Sept. 30, 2002, 116 Stat. 1379, provided that: “The Secretary shall promulgate guidance for the implementation of the amendment made by subsection (a) \[amending this section\] to ensure its implementation in a manner which does not substantially increase the total amount of travel expenses paid or reimbursed by the Department for travel under section 901 of the Foreign Service Act of 1980 (22 U.S.C. 4081).”
 
 \[For definitions of “Secretary” and “Department” as used in section 315(b) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 143a; title 10 sections 1599b, 1605; title 28 section 530A; title 37 section 431; title 38 section 707.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

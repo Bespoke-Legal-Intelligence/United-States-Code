@@ -44,7 +44,3 @@ In General.—Subject to subsection (b), as soon as practicable after the date o
 
 Limitation.—The funds described in subsection (a) shall not be used to purchase or lease water rights.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2212 of this title.
-

@@ -52,7 +52,3 @@ Purposes.—The purposes of this section are—
 
 &emsp;“(C) to assist the National Park Service in the implementation of the National Underground Railroad Network to Freedom Act (112 Stat. 679; 16 U.S.C. 469<i>l</i> and following).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 469<i>l</i>, 469<i>l</i>–1 of this title.
-

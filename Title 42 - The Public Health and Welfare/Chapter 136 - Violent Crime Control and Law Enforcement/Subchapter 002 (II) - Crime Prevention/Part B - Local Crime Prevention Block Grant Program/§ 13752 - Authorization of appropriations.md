@@ -22,9 +22,5 @@ Up to 2.5 percent of the amount authorized to be appropriated under subsection (
 
 (Pub. L. 103–322, title III, §30202, Sept. 13, 1994, 108 Stat. 1841.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13751, 13754, 14214 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(a)”.</i>
 

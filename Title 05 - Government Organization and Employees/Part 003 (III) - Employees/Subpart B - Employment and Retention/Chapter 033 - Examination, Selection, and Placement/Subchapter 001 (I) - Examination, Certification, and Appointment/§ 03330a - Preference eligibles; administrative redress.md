@@ -1,6 +1,8 @@
 ### §3330a. Preference eligibles; administrative redress
 
-(a)(1) A preference eligible who alleges that an agency has violated such individual's rights under any statute or regulation relating to veterans’ preference may file a complaint with the Secretary of Labor.
+(a)(1)(A) A preference eligible who alleges that an agency has violated such individual's rights under any statute or regulation relating to veterans’ preference may file a complaint with the Secretary of Labor.
+
+(B) A veteran described in section 3304(f)(1) who alleges that an agency has violated such section with respect to such veteran may file a complaint with the Secretary of Labor.
 
 (2)(A) A complaint under this subsection must be filed within 60 days after the date of the alleged violation.
 
@@ -10,7 +12,7 @@
 
 (b)(1) The Secretary of Labor shall investigate each complaint under subsection (a).
 
-(2) In carrying out any investigation under this subsection, the Secretary's duly authorized representatives shall, at all reasonable times, have reasonable access to, for purposes of examination, and the right to copy and receive, any documents of any person or agency that the Secretary considers relevant to the investigation.
+(2) In carrying out any investigation under this subsection, the Secretary's duly authorized representatives shall, at all reasonable times, have reasonable access to, for purposes of examination, and the right to copy and receive, anydocuments of any person or agency that the Secretary considers relevant to the investigation.
 
 (3) In carrying out any investigation under this subsection, the Secretary may require by subpoena the attendance and testimony of witnesses and the production of documents relating to any matter under investigation. In case of disobedience of the subpoena or contumacy and on request of the Secretary, the Attorney General may apply to any district court of the United States in whose jurisdiction such disobedience or contumacy occurs for an order enforcing the subpoena.
 
@@ -34,15 +36,15 @@
 
 &emsp;(B) appropriate evidence of compliance with subparagraph (A) is included (in such form and manner as the Merit Systems Protection Board may prescribe) with the notice of appeal under this subsection.
 
-(3) Upon receiving notification under paragraph (2)(A), the Secretary shall not continue toinvestigate or further attempt to resolve the complaint to which the notification relates.
+(3) Upon receiving notification under paragraph (2)(A), the Secretary shall not continue to investigate or further attempt to resolve the complaint to which the notification relates.
 
 (e)(1) This section shall not be construed to prohibit a preference eligible from appealing directly to the Merit Systems Protection Board from any action which is appealable to the Board under any other law, rule, or regulation, in lieu of administrative redress under this section.
 
 (2) A preference eligible may not pursue redress for an alleged violation described in subsection (a) under this section at the same time the preference eligible pursues redress for such violation under any other law, rule, or regulation.
 
-(Added Pub. L. 105–339, §3(a), Oct. 31, 1998, 112 Stat. 3182.)
+(Added Pub. L. 105–339, §3(a), Oct. 31, 1998, 112 Stat. 3182; amended Pub. L. 108–454, title VIII, §804(a), Dec. 10, 2004, 118 Stat. 3626.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 3330b, 3330c of this title.
+2004—Subsec. (a)(1). Pub. L. 108–454 designated existing provisions as subpar. (A) and added subpar. (B).
 

@@ -4,7 +4,3 @@ Whenever the Secretary has reason to believe that the issuance of an order will 
 
 (Pub. L. 89–502, §4, July 13, 1966, 80 Stat. 280.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2104, 2107, 2113 of this title.
-

@@ -20,7 +20,7 @@ Not later than 180 days after the end of a fiscal year, the Administrator shall 
 
 &emsp;(3) A description, based on the most recent data available, of the extent to which each State complies with section 5633 of this title and with the plan submitted under such section by the State for such fiscal year.
 
-&emsp;(4) An evaluation of the programs funded under this subchapter and their effectivenessin reducing the incidence of juvenile delinquency, particularly violent crime, committed by juveniles.
+&emsp;(4) An evaluation of the programs funded under this subchapter and their effectiveness in reducing the incidence of juvenile delinquency, particularly violent crime, committed by juveniles.
 
 (Pub. L. 93–415, title II, §207, as added Pub. L. 100–690, title VII, §7255, Nov. 18, 1988, 102 Stat. 4437; amended Pub. L. 102–586, §2(e), Nov. 4, 1992, 106 Stat. 4986; Pub. L. 107–273, div. C, title II, §12207, Nov. 2, 2002, 116 Stat. 1872.)
 

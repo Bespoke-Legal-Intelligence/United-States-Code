@@ -92,7 +92,3 @@ Section effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out 
 
 For provisions relating to offsets for prevention of full double coverage for employees of Park Police and Secret Service, see section 103(e) of Pub. L. 100–238, set out as a note under section 8334 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 4046; title 50 section 2031.
-

@@ -22,10 +22,6 @@
 
 1996—Pub. L. 104–324, title IV, §§401(b), 402(b), 403(b), Oct. 19, 1996, 110 Stat. 3923, 3924, inserted “of the Coast Guard Auxiliary” after “Administration” in item 821, inserted “of the Coast Guard Auxiliary” after “Purpose” in item 822, and added item 823a.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 141 of this title; title 46 section 13109.
-
 
 ---
 

@@ -24,7 +24,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if theSecretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
 
 #### (ii) Chancery or consulate building
 
@@ -174,7 +174,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §602\], Nov. 29, 19
 
 #### Authorizations of Appropriations
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §604\], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 107–228, div. A, title I, §111(a)(3)(B), Sept. 30, 2002, 116 Stat. 1356, provided that:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §604\], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 107–228, div. A, title I, §111(a)(3)(B), Sept. 30, 2002, 116 Stat. 1356; Pub. L. 108–447, div. B, title VI, §629, Dec. 8, 2004, 118 Stat. 2920, provided that:
 
 “(a)
 
@@ -206,7 +206,23 @@ Availability of Authorizations.—Authorizations of appropriations under subsect
 
 “(d)
 
-Availability of Funds.—Amounts appropriated pursuant to subsection (a) are authorized to remain available until expended.”
+Availability of Funds.—Amounts appropriated pursuant to subsection (a) are authorized to remain available until expended.
+
+“(e)
+
+Capital Security Cost Sharing.—
+
+&emsp;“(1)
+
+Authority.—Notwithstanding any other provision of law, all agencies with personnel overseas subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) shall participate and provide funding in advance for their share of costs of providing new, safe, secure United States diplomatic facilities, without offsets, on the basis of the total overseas presence of each agency as determined annually by the Secretary of State in consultation with such agency. Amounts advanced by such agencies to the Department of State shall be credited to the Embassy Security, Construction and Maintenance account, and remain available until expended.
+
+&emsp;“(2)
+
+Implementation.—Implementation of this subsection shall be carried out in a manner that encourages right-sizing of each agency's overseas presence.
+
+&emsp;“(3)
+
+Exclusion.—For purposes of this subsection ‘agency’ does not include the Marine Security Guard.”
 
 #### Obligations and Expenditures
 

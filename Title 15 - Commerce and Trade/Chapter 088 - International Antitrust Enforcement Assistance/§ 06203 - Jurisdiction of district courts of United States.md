@@ -38,7 +38,3 @@ This section does not preclude a person in the United States from voluntarily gi
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2)(C), are classified to Title 28, Appendix, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6204, 6207, 6210, 6211, 6212 of this title.
-

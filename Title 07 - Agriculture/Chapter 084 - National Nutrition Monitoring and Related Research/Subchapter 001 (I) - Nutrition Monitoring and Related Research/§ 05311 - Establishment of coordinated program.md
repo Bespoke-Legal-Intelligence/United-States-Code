@@ -22,7 +22,3 @@ To establish a central focus and coordinator for the coordinated program, the Se
 
 (Pub. L. 101–445, title I, §101, Oct. 22, 1990, 104 Stat. 1035.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5302, 5331 of this title.
-

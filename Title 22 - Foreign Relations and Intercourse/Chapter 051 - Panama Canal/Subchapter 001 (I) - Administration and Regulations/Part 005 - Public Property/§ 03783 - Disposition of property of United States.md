@@ -4,7 +4,3 @@ No property of the United States located in the Republic of Panama may be dispos
 
 (Pub. L. 96–70, title I, §1503, Sept. 27, 1979, 93 Stat. 488.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3751 of this title.
-

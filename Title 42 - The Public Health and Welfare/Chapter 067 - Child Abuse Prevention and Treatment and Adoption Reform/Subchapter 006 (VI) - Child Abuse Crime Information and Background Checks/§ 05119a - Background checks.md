@@ -6,7 +6,7 @@
 
 (2) The authorized agency shall access and review State and Federal criminal history records through the national criminal history background check system and shall make reasonable efforts to respond to the inquiry within 15 business days.
 
-(3) In the absence of State procedures referred to in paragraph (1), a qualified entity designated under paragraph (1) may contact an authorized agency of the State to request national criminal fingerprint background checks. Qualified entities requesting background checks under this paragraph shall comply with the guidelines set forth in subsection (b) of this section and withprocedures for requesting national criminal fingerprint background checks, if any, established by the State.
+(3) In the absence of State procedures referred to in paragraph (1), a qualified entity designated under paragraph (1) may contact an authorized agency of the State to request national criminal fingerprint background checks. Qualified entities requesting background checks under this paragraph shall comply with the guidelines set forth in subsection (b) of this section and with procedures for requesting national criminal fingerprint background checks, if any, established by the State.
 
 #### (b) Guidelines
 
@@ -54,7 +54,7 @@ In the case of a background check pursuant to a State requirement adopted after 
 
 #### References in Text
 
-Public Law 92–544, referred to in subsec. (b)(5), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. Provisions relating to use of funds for the exchange of identification records are contained in section 201 of Pub. L. 92–544, which is set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Tables.
+Public Law 92–544, referred to in subsec. (b)(5), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. Provisions relatingto use of funds for the exchange of identification records are contained in section 201 of Pub. L. 92–544, which is set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 103–322, §320928(e), substituted “eighteen dollars, re
 
 #### Pilot Program for National Criminal History Background Checks and Feasibility Study
 
-Pub. L. 108–21, title I, §108, Apr. 30, 2003, 117 Stat. 655, as amended by Pub. L. 108–68, §1, Aug. 1, 2003, 117 Stat. 883, provided that:
+Pub. L. 108–21, title I, §108, Apr. 30, 2003, 117 Stat. 655, as amended by Pub. L. 108–68, §1, Aug. 1, 2003, 117 Stat. 883; Pub. L. 108–458, title VI, §6401, Dec. 17, 2004, 118 Stat. 3755, provided that:
 
 “(a)
 
@@ -90,7 +90,7 @@ State pilot program.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Attorney General shall designate 3 States as participants in an 18-month State pilot program.
+In general.—The Attorney General shall designate 3 States as participants in a 30-month State pilot program.
 
 &emsp;&emsp;“(B)
 
@@ -118,7 +118,7 @@ Child safety pilot program.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Attorney General shall establish an 18-month Child Safety Pilot Program that shall provide for the processing of 100,000 10-fingerprint check requests from organizations described in subparagraph (B) conducted through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
+In general.—The Attorney General shall establish a 30-month Child Safety Pilot Program that shall provide for the processing of 100,000 10-fingerprint check requests from organizations described in subparagraph (B) conducted through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
 
 &emsp;&emsp;“(B)
 
@@ -249,8 +249,4 @@ Limitation on Liability.—In connection with the Pilot Programs established und
 &emsp;“(2) alleging harm arising from a decision based on the information in an individual's criminal history record that an individual is fit to serve as a volunteer for any volunteer organization unless the Center, the director, officer, employee, or agent is furnished with an individual's criminal history records which they know to be inaccurate or incomplete, or which they know reflect a lesser crime than that for which the individual was arrested; and
 
 &emsp;“(3) alleging harm arising from a decision that, based on the absence of criminal history information, an individual is fit to serve as a volunteer for any volunteer organization unless the Center, the director, officer, employee, or agent knows that criminal history records exist and have not been furnished as required under this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14072 of this title.
 

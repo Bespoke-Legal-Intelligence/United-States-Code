@@ -40,7 +40,3 @@ Section 1303(d) of the Homeland Security Act of 2002, referred to in subsec. (c)
 
 A prior section 5406, added Pub. L. 98–615, title II, §201(a), Nov. 8, 1984, 98 Stat. 3211; amended Pub. L. 101–103, §4, Sept. 30, 1989, 103 Stat. 671; Pub. L. 102–22, §2(b), Mar. 28, 1991, 105 Stat. 71, related to performance awards, prior to repeal by Pub. L. 103–89, §3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5403, 5405 of this title.
-

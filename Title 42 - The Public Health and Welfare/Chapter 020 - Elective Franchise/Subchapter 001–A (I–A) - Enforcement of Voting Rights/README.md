@@ -1,9 +1,5 @@
 ### SUBCHAPTER I–A—ENFORCEMENT OF VOTING RIGHTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1973b, 1973aa–4, 1973ee–5, 1973gg–6, 1973gg–9, 15441, 15451, 15545 of this title; title 28 section 1869.
-
 
 ---
 

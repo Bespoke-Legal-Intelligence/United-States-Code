@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State is eligible for assistance under this subchapter for a fiscal year if the State demonstrates to the satisfaction of the Secretary that the State has in effect policies and procedures to ensure that it meets each of the following conditions:
+A State is eligible for assistance under this subchapter for a fiscal year if the State submits a plan that provides assurances to the Secretary that the State has in effect policies and procedures to ensure that the State meets each of the following conditions:
 
 #### (1) Free appropriate public education
 
@@ -12,15 +12,19 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Limitation
 
-&emsp;&emsp;The obligation to make a free appropriate public education available to all children with disabilities does not apply with respect to children:
+&emsp;&emsp;The obligation to make a free appropriate public education available to all children with disabilities does not apply with respect to children—
 
 &emsp;&emsp;&emsp;(i) aged 3 through 5 and 18 through 21 in a State to the extent that its application to those children would be inconsistent with State law or practice, or the order of any court, respecting the provision of public education to children in those age ranges; and
 
-&emsp;&emsp;&emsp;(ii) aged 18 through 21 to the extent that State law does not require that special education and related services under this subchapter be provided to children with disabilities who, in the educational placement prior to their incarceration in an adult correctional facility:
+&emsp;&emsp;&emsp;(ii) aged 18 through 21 to the extent that State law does not require that special education and related services under this subchapter be provided to children with disabilities who, in the educational placement prior to their incarceration in an adult correctional facility—
 
-&emsp;&emsp;&emsp;&emsp;(I) were not actually identified as being a child with a disability under section 1401(3) of this title; or
+&emsp;&emsp;&emsp;&emsp;(I) were not actually identified as being a child with a disability under section 1401 of this title; or
 
 &emsp;&emsp;&emsp;&emsp;(II) did not have an individualized education program under this subchapter.
+
+#### (C) State flexibility
+
+&emsp;&emsp;A State that provides early intervention services in accordance with subchapter III to a child who is eligible for services under section 1419 of this title, is not required to provide such child with a free appropriate public education.
 
 #### (2) Full educational opportunity goal
 
@@ -30,7 +34,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (A) In general
 
-&emsp;&emsp;All children with disabilities residing in the State, including children with disabilities attending private schools, regardless of the severity of their disabilities, and who are in need of special education and related services, are identified, located, and evaluated and a practical method is developed and implemented to determine which children with disabilities are currently receiving needed special education and related services.
+&emsp;&emsp;All children with disabilities residing in the State, including children with disabilities who are homeless children or are wards of the State and children with disabilities attending private schools, regardless of the severity of their disabilities, and who are in need of special education and related services, are identified, located, and evaluated and a practical method is developed and implemented to determine which children with disabilities are currently receiving needed special education and related services.
 
 #### (B) Construction
 
@@ -50,11 +54,11 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the State uses a funding mechanism by which the State distributes State fundson the basis of the type of setting in which a child is served, the funding mechanism does not result in placements that violate the requirements of subparagraph (A).
+&emsp;&emsp;&emsp;A State funding mechanism shall not result in placements that violate the requirements of subparagraph (A), and a State shall not use a funding mechanism by which the State distributes funds on the basis of the type of setting in which a child is served that will result in the failure to provide a child with a disability a free appropriate public education according to the unique needs of the child as described in the child's IEP.
 
 #### (ii) Assurance
 
-&emsp;&emsp;&emsp;If the State does not have policies and procedures to ensure compliance with clause (i), the State shall provide the Secretary an assurance that it will revise the funding mechanism as soon as feasible to ensure that such mechanism does not result in such placements.
+&emsp;&emsp;&emsp;If the State does not have policies and procedures to ensure compliance withclause (i), the State shall provide the Secretary an assurance that the State will revise the funding mechanism as soon as feasible to ensure that such mechanism does not result in such placements.
 
 #### (6) Procedural safeguards
 
@@ -64,7 +68,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Additional procedural safeguards
 
-&emsp;&emsp;Procedures to ensure that testing and evaluation materials and procedures utilized for the purposes of evaluation and placement of children with disabilities will be selected and administered so as not to be racially or culturally discriminatory. Such materials or procedures shall be provided and administered in the child's native language or mode of communication, unless it clearly is not feasible to do so, and no single procedure shall be the sole criterion for determining an appropriate educational program for a child.
+&emsp;&emsp;Procedures to ensure that testing and evaluation materials and procedures utilized for the purposes of evaluation and placement of children with disabilities for services under this chapter will be selected and administered so as not to be racially or culturally discriminatory. Such materials or procedures shall be provided and administered in the child's native language or mode of communication, unless it clearly is not feasible to do so, and no single procedure shall be the sole criterion for determining an appropriate educational program for a child.
 
 #### (7) Evaluation
 
@@ -76,7 +80,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (9) Transition from subchapter III to preschool programs
 
-&emsp;Children participating in early-intervention programs assisted under subchapter III of this chapter, and who will participate in preschool programs assisted under this subchapter, experience a smooth and effective transition to those preschool programs in a manner consistent with section 1437(a)(8) of this title. By the third birthday of such a child, an individualized education program or, if consistent with sections 1414(d)(2)(B) and 1436(d) of this title, an individualized family service plan, has been developed and is being implemented for the child. The local educational agency will participate in transition planning conferences arranged by the designated lead agency under section 1437(a)(8) of this title.
+&emsp;Children participating in early intervention programs assisted under subchapter III, and who will participate in preschool programs assisted under this subchapter, experience a smooth and effective transition to those preschool programs in a manner consistent with section 1437(a)(9) of this title. By the third birthday of such a child, an individualized education program or, if consistent with sections 1414(d)(2)(B) and 1436(d) of this title, an individualized family service plan, has been developed and is being implemented for the child. The local educational agency will participate in transition planning conferences arranged by the designated lead agency under section 1435(a)(10) of this title.
 
 #### (10) Children in private schools
 
@@ -84,25 +88,95 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To the extent consistent with the number and location of children with disabilities in the State who are enrolled by their parents in private elementary and secondary schools, provision is made for the participation of those children in the program assisted or carried out under this subchapter by providing for such children special education and related services in accordance with the following requirements, unless the Secretary has arranged for services to those children under subsection (f) of this section:
+&emsp;&emsp;&emsp;To the extent consistent with the number and location of children with disabilities in the State who are enrolled by their parents in private elementary schools and secondary schools in the school district served by a local educational agency, provision is made for the participation of those children in the program assisted or carried out under this subchapter by providing for such children special education and related services in accordance with the following requirements, unless the Secretary has arranged for services to those children under subsection (f):
 
-&emsp;&emsp;&emsp;&emsp;(I) Amounts expended for the provision of those services by a local educational agency shall be equal to a proportionate amount of Federal funds made available under this subchapter.
+&emsp;&emsp;&emsp;&emsp;(I) Amounts to be expended for the provision of those services (including direct services to parentally placed private school children) by the local educational agency shall be equal to a proportionate amount of Federal funds made available under this subchapter.
 
-&emsp;&emsp;&emsp;&emsp;(II) Such services may be provided to children with disabilities on the premises of private, including parochial, schools, to the extent consistent with law.
+&emsp;&emsp;&emsp;&emsp;(II) In calculating the proportionate amount of Federal funds, the local educational agency, after timely and meaningful consultation with representatives of private schools as described in clause (iii), shall conduct a thorough and complete child find process to determine the number of parentally placed children with disabilities attending private schools located in the local educational agency.
 
-#### (ii) Child-find requirement
+&emsp;&emsp;&emsp;&emsp;(III) Such services to parentally placed private school children with disabilities may be provided to the children on the premises of private, including religious, schools, to the extent consistent with law.
 
-&emsp;&emsp;&emsp;The requirements of paragraph (3) of this subsection (relating to child find) shall apply with respect to children with disabilities in the State who are enrolled in private, including parochial, elementary and secondary schools.
+&emsp;&emsp;&emsp;&emsp;(IV) State and local funds may supplement and in no case shall supplant the proportionate amount of Federal funds required to be expended under this subparagraph.
+
+&emsp;&emsp;&emsp;&emsp;(V) Each local educational agency shall maintain in its records and provide to the State educational agency the number of children evaluated under this subparagraph, the number of children determined to be children with disabilities under this paragraph, and the number of children served under this paragraph.
+
+#### (ii) Child find requirement
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The requirements of paragraph (3) (relating to child find) shall apply with respect to children with disabilities in the State who are enrolled in private, including religious, elementary schools and secondary schools.
+
+#### (II) Equitable participation
+
+&emsp;&emsp;&emsp;&emsp;The child find process shall be designed to ensure the equitable participation of parentally placed private school children with disabilities and an accurate count of such children.
+
+#### (III) Activities
+
+&emsp;&emsp;&emsp;&emsp;In carrying out this clause, the local educational agency, or where applicable, the State educational agency, shall undertake activities similar to those activities undertaken for the agency's public school children.
+
+#### (IV) Cost
+
+&emsp;&emsp;&emsp;&emsp;The cost of carrying out this clause, including individual evaluations, may not be considered in determining whether a local educational agency has met its obligations under clause (i).
+
+#### (V) Completion period
+
+&emsp;&emsp;&emsp;&emsp;Such child find process shall be completed in a time period comparable tothat for other students attending public schools in the local educational agency.
+
+#### (iii) Consultation
+
+&emsp;&emsp;&emsp;To ensure timely and meaningful consultation, a local educational agency, or where appropriate, a State educational agency, shall consult with private school representatives and representatives of parents of parentally placed private school children with disabilities during the design and development of special education and related services for the children, including regarding—
+
+&emsp;&emsp;&emsp;&emsp;(I) the child find process and how parentally placed private school children suspected of having a disability can participate equitably, including how parents, teachers, and private school officials will be informed of the process;
+
+&emsp;&emsp;&emsp;&emsp;(II) the determination of the proportionate amount of Federal funds available to serve parentally placed private school children with disabilities under this subparagraph, including the determination of how the amount was calculated;
+
+&emsp;&emsp;&emsp;&emsp;(III) the consultation process among the local educational agency, private school officials, and representatives of parents of parentally placed private school children with disabilities, including how such process will operate throughout the school year to ensure that parentally placed private school children with disabilities identified through the child find process can meaningfully participate in special education and related services;
+
+&emsp;&emsp;&emsp;&emsp;(IV) how, where, and by whom special education and related services will be provided for parentally placed private school children with disabilities, including a discussion of types of services, including direct services and alternate service delivery mechanisms, how such services will be apportioned if funds are insufficient to serve all children, and how and when these decisions will be made; and
+
+&emsp;&emsp;&emsp;&emsp;(V) how, if the local educational agency disagrees with the views of the private school officials on the provision of services or the types of services, whether provided directly or through a contract, the local educational agency shall provide to the private school officials a written explanation of the reasons why the local educational agency chose not to provide services directly or through a contract.
+
+#### (iv) Written affirmation
+
+&emsp;&emsp;&emsp;When timely and meaningful consultation as required by clause (iii) has occurred, the local educational agency shall obtain a written affirmation signed by the representatives of participating private schools, and if such representatives do not provide such affirmation within a reasonable period of time, the local educational agency shall forward the documentation of the consultation process to the State educational agency.
+
+#### (v) Compliance
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;A private school official shall have the right to submit a complaint to the State educational agency that the local educational agency did not engage in consultation that was meaningful and timely, or did not give due consideration to the views of the private school official.
+
+#### (II) Procedure
+
+&emsp;&emsp;&emsp;&emsp;If the private school official wishes to submit a complaint, the official shall provide the basis of the noncompliance with this subparagraph by the local educational agency to the State educational agency, and the local educational agency shall forward the appropriate documentation to the State educational agency. If the private school official is dissatisfied with the decision of the State educational agency, such official may submit a complaint to the Secretary by providing the basis of the noncompliance with this subparagraph by the local educational agency to the Secretary, and the State educational agency shall forward the appropriate documentation to the Secretary.
+
+#### (vi) Provision of equitable services
+
+#### (I) Directly or through contracts
+
+&emsp;&emsp;&emsp;&emsp;The provision of services pursuant to this subparagraph shall be provided—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) by employees of a public agency; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) through contract by the public agency with an individual, association, agency, organization, or other entity.
+
+#### (II) Secular, neutral, nonideological
+
+&emsp;&emsp;&emsp;&emsp;Special education and related services provided to parentally placed private school children with disabilities, including materials and equipment, shall be secular, neutral, and nonideological.
+
+#### (vii) Public control of funds
+
+&emsp;&emsp;&emsp;The control of funds used to provide special education and related services under this subparagraph, and title to materials, equipment, and property purchased with those funds, shall be in a public agency for the uses and purposes provided in this chapter, and a public agency shall administer the funds and property.
 
 #### (B) Children placed in, or referred to, private schools by public agencies
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Children with disabilities in private schools and facilities are provided special education and related services, in accordance with an individualized education program, at no cost to their parents, if such children are placed in, or referred to, such schools or facilities by the State or appropriate local educational agency as the means of carrying out the requirements of this subchapter or any other applicable law requiring the provision of special education and related services to all children with disabilities within such State.
+&emsp;&emsp;&emsp;Children with disabilities in private schools and facilities are provided special education and related services, in accordance with an individualized education program, at no cost to their parents, if such children are placed in, or referred to, such schools or facilities by the State or appropriate local educational agency as the means of carrying out the requirements ofthis subchapter or any other applicable law requiring the provision of special education and related services to all children with disabilities within such State.
 
 #### (ii) Standards
 
-&emsp;&emsp;&emsp;In all cases described in clause (i), the State educational agency shall determine whether such schools and facilities meet standards that apply to State and local educational agencies and that children so served have all the rights they would have if served by such agencies.
+&emsp;&emsp;&emsp;In all cases described in clause (i), the State educational agency shall determine whether such schools and facilities meet standards that apply to State educational agencies and local educational agencies and that children so served have all the rights the children would have if served by such agencies.
 
 #### (C) Payment for education of children enrolled in private schools without consent of or referral by the public agency
 
@@ -112,7 +186,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (ii) Reimbursement for private school placement
 
-&emsp;&emsp;&emsp;If the parents of a child with a disability, who previously received special educationand related services under the authority of a public agency, enroll the child in a private elementary or secondary school without the consent of or referral by the public agency, a court or a hearing officer may require the agency to reimburse the parents for the cost of that enrollment if the court or hearing officer finds that the agency had not made a free appropriate public education available to the child in a timely manner prior to that enrollment.
+&emsp;&emsp;&emsp;If the parents of a child with a disability, who previously received special education and related services under the authority of a public agency, enroll the child in a private elementary school or secondary school without the consent of or referral by the public agency, a court or a hearing officer may require the agency to reimburse the parents for the cost of that enrollment if the court or hearing officer finds that the agency had not made a free appropriate public education available to the child in a timely manner prior to that enrollment.
 
 #### (iii) Limitation on reimbursement
 
@@ -122,23 +196,29 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) at the most recent IEP meeting that the parents attended prior to removal of the child from the public school, the parents did not inform the IEP Team that they were rejecting the placement proposed by the public agency to provide a free appropriate public education to their child, including stating their concerns and their intent to enroll their child in a private school at public expense; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) 10 business days (including any holidays that occur on a business day) prior to the removal of the child from the public school, the parents did not give written notice to the public agency of the information described in division (aa);
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) 10 business days (including any holidays that occur on a business day) prior to the removal of the child from the public school, the parents did not give written notice to the public agency of the information described in item (aa);
 
-&emsp;&emsp;&emsp;&emsp;(II) if, prior to the parents’ removal of the child from the public school, the public agency informed the parents, through the notice requirements described in section 1415(b)(7) of this title, of its intent to evaluate the child (including a statement of the purpose of the evaluation that was appropriate and reasonable), but the parents did not make the child available for such evaluation; or
+&emsp;&emsp;&emsp;&emsp;(II) if, prior to the parents’ removal of the child from the public school, the public agency informed the parents, through the notice requirements described in section 1415(b)(3) of this title, of its intent to evaluate the child (including a statement of the purpose of the evaluation that was appropriate and reasonable), but the parents did not make the child available for such evaluation; or
 
 &emsp;&emsp;&emsp;&emsp;(III) upon a judicial finding of unreasonableness with respect to actions taken by the parents.
 
 #### (iv) Exception
 
-&emsp;&emsp;&emsp;Notwithstanding the notice requirement in clause (iii)(I), the cost of reimbursement may not be reduced or denied for failure to provide such notice if—
+&emsp;&emsp;&emsp;Notwithstanding the notice requirement in clause (iii)(I), the cost of reimbursement—
 
-&emsp;&emsp;&emsp;&emsp;(I) the parent is illiterate and cannot write in English;
+&emsp;&emsp;&emsp;&emsp;(I) shall not be reduced or denied for failure to provide such notice if—
 
-&emsp;&emsp;&emsp;&emsp;(II) compliance with clause (iii)(I) would likely result in physical or serious emotional harm to the child;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the school prevented the parent from providing such notice;
 
-&emsp;&emsp;&emsp;&emsp;(III) the school prevented the parent from providing such notice; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the parents had not received notice, pursuant to section 1415 of this title, of the notice requirement in clause (iii)(I); or
 
-&emsp;&emsp;&emsp;&emsp;(IV) the parents had not received notice, pursuant to section 1415 of this title, of the notice requirement in clause (iii)(I).
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) compliance with clause (iii)(I) would likely result in physical harm to the child; and
+
+&emsp;&emsp;&emsp;&emsp;(II) may, in the discretion of a court or a hearing officer, not be reduced or denied for failure to provide such notice if—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the parent is illiterate or cannot write in English; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) compliance with clause (iii)(I) would likely result in serious emotional harm to the child.
 
 #### (11) State educational agency responsible for general supervision
 
@@ -146,13 +226,15 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;The State educational agency is responsible for ensuring that—
 
-&emsp;&emsp;&emsp;(i) the requirements of this subchapter are met; and
+&emsp;&emsp;&emsp;(i) the requirements of this subchapter are met;
 
-&emsp;&emsp;&emsp;(ii) all educational programs for children with disabilities in the State, including all such programs administered by any other State or local agency—
+&emsp;&emsp;&emsp;(ii) all educational programs for children with disabilities in the State, including all such programs administered by any other State agency or local agency—
 
 &emsp;&emsp;&emsp;&emsp;(I) are under the general supervision of individuals in the State who are responsible for educational programs for children with disabilities; and
 
-&emsp;&emsp;&emsp;&emsp;(II) meet the educational standards of the State educational agency.
+&emsp;&emsp;&emsp;&emsp;(II) meet the educational standards of the State educational agency; and
+
+&emsp;&emsp;&emsp;(iii) in carrying out this subchapter with respect to homeless children, the requirements of subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.) are met.
 
 #### (B) Limitation
 
@@ -166,11 +248,11 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (A) Establishing responsibility for services
 
-&emsp;&emsp;The Chief Executive Officer or designee of the officer shall ensure that an interagency agreement or other mechanism for interagency coordination is in effect between each public agency described in subparagraph (B) and the State educational agency, in order to ensure that all services described in subparagraph (B)(i) that are needed to ensure a free appropriate public education are provided, including the provision of such services during the pendency of any dispute under clause (iii). Such agreement or mechanism shall include the following:
+&emsp;&emsp;The Chief Executive Officer of a State or designee of the officer shall ensure that an interagency agreement or other mechanism for interagency coordination is in effect between each public agency described in subparagraph (B) and the State educational agency, in order to ensure that all services described in subparagraph (B)(i) that are needed to ensure a free appropriate public education are provided, including the provision of such services during the pendency of any dispute under clause (iii). Such agreement or mechanism shall include the following:
 
 #### (i) Agency financial responsibility
 
-&emsp;&emsp;&emsp;An identification of, or a method for defining, the financial responsibility of each agency for providing services described in subparagraph (B)(i) to ensure a free appropriate public education to children with disabilities, provided that the financial responsibility of each public agency described in subparagraph (B), including the State Medicaid agency and other public insurers of children with disabilities, shall precede the financial responsibility of the local educational agency (or the State agency responsible for developing the child's IEP).
+&emsp;&emsp;&emsp;An identification of, or a method for defining, the financial responsibility of each agency for providing services described in subparagraph (B)(i) to ensure a free appropriate public education to children with disabilities, provided that the financial responsibility of each public agency described in subparagraph (B), including the State medicaid agency and other public insurers of children with disabilities, shall precede the financial responsibility of the local educational agency (or the State agency responsible for developing the child's IEP).
 
 #### (ii) Conditions and terms of reimbursement
 
@@ -178,7 +260,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (iii) Interagency disputes
 
-&emsp;&emsp;&emsp;Procedures for resolving interagency disputes (including procedures under whichlocal educational agencies may initiate proceedings) under the agreement or other mechanism to secure reimbursement from other agencies or otherwise implement the provisions of the agreement or mechanism.
+&emsp;&emsp;&emsp;Procedures for resolving interagency disputes (including procedures under which local educational agencies may initiate proceedings) under the agreement or other mechanism to secure reimbursement from other agencies or otherwise implement the provisions of the agreement or mechanism.
 
 #### (iv) Coordination of services procedures
 
@@ -188,93 +270,117 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any public agency other than an educational agency is otherwise obligated under Federal or State law, or assigned responsibility under State policy or pursuant to subparagraph (A), to provide or pay for any services that are also considered special education or related services (such as, but not limited to, services described in sections 1401(1) relating to assistive technology devices, 1401(2) relating to assistive technology services, 1401(22) relating to related services, 1401(29) relating to supplementary aids and services, and 1401(30) of this title relating to transition services) that are necessary for ensuring a free appropriate public education to children with disabilities within the State, such public agency shall fulfill that obligation or responsibility, either directly or through contract or other arrangement.
+&emsp;&emsp;&emsp;If any public agency other than an educational agency is otherwise obligated under Federal or State law, or assigned responsibility under State policy pursuant to subparagraph (A), to provide or pay for any services that are also considered special education or related services (such as, but not limited to, services described in section 1401(1) relating to assistive technology devices, 1401(2) relating to assistive technology services, 1401(26) relating to related services, 1401(33) relating to supplementary aids and services, and 1401(34) of this title relating to transition services) that are necessary for ensuring a free appropriate public education to children with disabilities within the State, such public agency shall fulfill that obligation or responsibility, either directly or through contract or other arrangement pursuant to subparagraph (A) or an agreement pursuant to subparagraph (C).
 
 #### (ii) Reimbursement for services by public agency
 
-&emsp;&emsp;&emsp;If a public agency other than an educational agency fails to provide or pay for the special education and related services described in clause (i), the local educational agency (or State agency responsible for developing the child's IEP) shall provide or pay for such services to the child. Such local educational agency or State agency may then claim reimbursement for the services from the public agency that failed to provide or pay for such services and such public agency shall reimburse the local educational agency or State agency pursuant to the terms of the interagency agreement or other mechanism described in subparagraph (A)(i) according to the procedures established in such agreement pursuant to subparagraph (A)(ii).
+&emsp;&emsp;&emsp;If a public agency other than an educational agency fails to provide or pay for the special education and related services described in clause (i), the local educational agency (or State agency responsible for developing the child's IEP) shall provide or pay for such services to the child. Such local educational agency or State agency is authorized to claim reimbursement for the services from the public agency that failed to provide or pay for such services and such public agency shall reimburse the local educational agency or State agency pursuant to the terms of the interagency agreement or other mechanism described in subparagraph (A)(i) according to the procedures established in such agreement pursuant to subparagraph (A)(ii).
 
 #### (C) Special rule
 
 &emsp;&emsp;The requirements of subparagraph (A) may be met through—
 
-&emsp;&emsp;&emsp;(i) state <sup>1</sup> statute or regulation;
+&emsp;&emsp;&emsp;(i) State statute or regulation;
 
 &emsp;&emsp;&emsp;(ii) signed agreements between respective agency officials that clearly identify the responsibilities of each agency relating to the provision of services; or
 
-&emsp;&emsp;&emsp;(iii) other appropriate written methods as determined by the Chief Executive Officer of the State or designee of the officer.
+&emsp;&emsp;&emsp;(iii) other appropriate written methods as determined by the Chief Executive Officer of the State or designee of the officer and approved by the Secretary.
 
 #### (13) Procedural requirements relating to local educational agency eligibility
 
 &emsp;The State educational agency will not make a final determination that a local educational agency is not eligible for assistance under this subchapter without first affording that agency reasonable notice and an opportunity for a hearing.
 
-#### (14) Comprehensive system of personnel development
-
-&emsp;The State has in effect, consistent with the purposes of this chapter and with section 1435(a)(8) of this title, a comprehensive system of personnel development that is designed to ensure an adequate supply of qualified special education, regular education, and related services personnel that meets the requirements for a State improvement plan relating to personnel development in subsections (b)(2)(B) and (c)(3)(D) of section 1453 of this title.
-
-#### (15) Personnel standards
+#### (14) Personnel qualifications
 
 #### (A) In general
 
-&emsp;&emsp;The State educational agency has established and maintains standards to ensure that personnel necessary to carry out this subchapter are appropriately and adequately prepared and trained.
+&emsp;&emsp;The State educational agency has established and maintains qualifications to ensure that personnel necessary to carry out this subchapter are appropriately and adequately prepared and trained, including that those personnel have the content knowledge and skills to serve children with disabilities.
 
-#### (B) Standards described
+#### (B) Related services personnel and paraprofessionals
 
-&emsp;&emsp;Such standards shall—
+&emsp;&emsp;The qualifications under subparagraph (A) include qualifications for related services personnel and paraprofessionals that—
 
-&emsp;&emsp;&emsp;(i) be consistent with any State-approved or State-recognized certification, licensing, registration, or other comparable requirements that apply to the professional discipline in which those personnel are providing special education or related services;
+&emsp;&emsp;&emsp;(i) are consistent with any State-approved or State-recognized certification, licensing, registration, or other comparable requirements that apply to the professional discipline in which those personnel are providing special education or related services;
 
-&emsp;&emsp;&emsp;(ii) to the extent the standards described in subparagraph (A) are not based on the highest requirements in the State applicable to a specific profession or discipline, the State is taking steps to require retraining or hiring of personnel that meet appropriate professional requirements in the State; and
+&emsp;&emsp;&emsp;(ii) ensure that related services personnel who deliver services in their discipline or profession meet the requirements of clause (i) and have not had certification or licensure requirements waived on an emergency, temporary, or provisional basis; and
 
-&emsp;&emsp;&emsp;(iii) allow paraprofessionals and assistants who are appropriately trained and supervised, in accordance with State law, regulations, or written policy, in meeting the requirements of this subchapter to be used to assist in the provision of special education and related services to children with disabilities under this subchapter.
+&emsp;&emsp;&emsp;(iii) allow paraprofessionals and assistants who are appropriately trained and supervised, in accordance with State law, regulation, or written policy, in meeting the requirements of this subchapter to be used to assist in the provision of special education and related services under this subchapter to children with disabilities.
 
-#### (C) Policy
+#### (C) Qualifications for special education teachers
 
-&emsp;&emsp;In implementing this paragraph, a State may adopt a policy that includes a requirement that local educational agencies in the State make an ongoing good-faith effort to recruit and hire appropriately and adequately trained personnel to provide special education and related services to children with disabilities, including, in a geographic area of the State where there is a shortage of such personnel, the most qualified individuals available who are making satisfactory progress toward completing applicable course work necessary to meet the standards described in subparagraph (B)(i), consistent with State law, and the steps described in subparagraph (B)(ii) within three years.
+&emsp;&emsp;The qualifications described in subparagraph (A) shall ensure that each person employed as a special education teacher in the State who teaches elementary school, middle school, or secondary school is highly qualified by the deadline established in section 6319(a)(2) of this title.
 
-#### (16) Performance goals and indicators
+#### (D) Policy
+
+&emsp;&emsp;In implementing this section, a State shall adopt a policy that includes a requirement that local educational agencies in the State take measurable steps to recruit, hire, train, and retain highly qualified personnel to provide special education and related services under this subchapter to children with disabilities.
+
+#### (E) Rule of construction
+
+&emsp;&emsp;Notwithstanding any other individual right of action that a parent or student may maintain under this subchapter, nothing in this paragraph shall be construed to create a right of action on behalf of an individual student for the failure of a particular State educational agency or local educational agency staff person to be highly qualified, or to prevent a parent from filing a complaint about staff qualifications with the State educational agency as provided for under this subchapter.
+
+#### (15) Performance goals and indicators
 
 &emsp;The State—
 
 &emsp;&emsp;(A) has established goals for the performance of children with disabilities in the State that—
 
-&emsp;&emsp;&emsp;(i) will promote the purposes of this chapter, as stated in section 1400(d) of this title; and
+&emsp;&emsp;&emsp;(i) promote the purposes of this chapter, as stated in section 1400(d) of this title;
 
-&emsp;&emsp;&emsp;(ii) are consistent, to the maximum extent appropriate, with other goals and standards for children established by the State;
+&emsp;&emsp;&emsp;(ii) are the same as the State's definition of adequate yearly progress, including the State's objectives for progress by children with disabilities, under section 6311(b)(2)(C) of this title;
 
-&emsp;&emsp;(B) has established performance indicators the State will use to assess progress toward achieving those goals that, at a minimum, address the performance of children with disabilities on assessments, drop-out rates, and graduation rates;
+&emsp;&emsp;&emsp;(iii) address graduation rates and dropout rates, as well as such other factors as the State may determine; and
 
-&emsp;&emsp;(C) will, every two years, report to the Secretary and the public on the progress of the State, and of children with disabilities in the State, toward meeting the goals established under subparagraph (A); and
+&emsp;&emsp;&emsp;(iv) are consistent, to the extent appropriate, with any other goals and standards for children established by the State;
 
-&emsp;&emsp;(D) based on its assessment of that progress, will revise its State improvement plan under part A of subchapter IV of this chapter as may be needed to improve its performance, if the State receives assistance under that part.
+&emsp;&emsp;(B) has established performance indicators the State will use to assess progress toward achieving the goals described in subparagraph (A), including measurable annual objectives for progress by children with disabilities under section 6311(b)(2)(C)(v)(II)(cc) of this title; and
 
-#### (17) Participation in assessments
+&emsp;&emsp;(C) will annually report to the Secretary and the public on the progress of the State, and of children with disabilities in the State, toward meeting the goals established under subparagraph (A), which may include elements of the reports required under section 6311(h) of this title.
+
+#### (16) Participation in assessments
 
 #### (A) In general
 
-&emsp;&emsp;Children with disabilities are included in general State and district-wide assessment programs, with appropriate accommodations, where necessary. As appropriate, the State or local educational agency—
+&emsp;&emsp;All children with disabilities are included in all general State and districtwide assessment programs, including assessments described under section 6311 of this title, with appropriate accommodations and alternate assessments where necessary and as indicated in their respective individualized education programs.
 
-&emsp;&emsp;&emsp;(i) develops guidelines for the participation of children with disabilities in alternate assessments for those children who cannot participate in State and district-wide assessment programs; and
+#### (B) Accommodation guidelines
 
-&emsp;&emsp;&emsp;(ii) develops and, beginning not later than July 1, 2000, conducts those alternate assessments.
+&emsp;&emsp;The State (or, in the case of a districtwide assessment, the local educational agency) has developed guidelines for the provision of appropriate accommodations.
 
-#### (B) Reports
+#### (C) Alternate assessments
 
-&emsp;&emsp;The State educational agency makes available to the public, and reports to the public with the same frequency and in the same detail as it reports on the assessment of nondisabled children, the following:
+#### (i) In general
 
-&emsp;&emsp;&emsp;(i) The number of children with disabilities participating in regular assessments.
+&emsp;&emsp;&emsp;The State (or, in the case of a districtwide assessment, the local educational agency) has developed and implemented guidelines for the participation of children with disabilities in alternate assessments for those children who cannot participate in regular assessments under subparagraph (A) with accommodations as indicated in their respective individualized education programs.
 
-&emsp;&emsp;&emsp;(ii) The number of those children participating in alternate assessments.
+#### (ii) Requirements for alternate assessments
 
-&emsp;&emsp;&emsp;(iii)(I) The performance of those children on regular assessments (beginning not later than July 1, 1998) and on alternate assessments (not later than July 1, 2000), if doing so would be statistically sound and would not result in the disclosure of performance results identifiable to individual children.
+&emsp;&emsp;&emsp;The guidelines under clause (i) shall provide for alternate assessments that—
 
-&emsp;&emsp;&emsp;(II) Data relating to the performance of children described under subclause (I) shall be disaggregated—
+&emsp;&emsp;&emsp;&emsp;(I) are aligned with the State's challenging academic content standards and challenging student academic achievement standards; and
 
-&emsp;&emsp;&emsp;&emsp;(aa) for assessments conducted after July 1, 1998; and
+&emsp;&emsp;&emsp;&emsp;(II) if the State has adopted alternate academic achievement standards permitted under the regulations promulgated to carry out section 6311(b)(1) of this title, measure the achievement of children with disabilities against those standards.
 
-&emsp;&emsp;&emsp;&emsp;(bb) for assessments conducted before July 1, 1998, if the State is required to disaggregate such data prior to July 1, 1998.
+#### (iii) Conduct of alternate assessments
 
-#### (18) Supplementation of State, local, and other Federal funds
+&emsp;&emsp;&emsp;The State conducts the alternate assessments described in this subparagraph.
+
+#### (D) Reports
+
+&emsp;&emsp;The State educational agency (or, in the case of a districtwide assessment, the localeducational agency) makes available to the public, and reports to the public with the same frequency and in the same detail as it reports on the assessment of nondisabled children, the following:
+
+&emsp;&emsp;&emsp;(i) The number of children with disabilities participating in regular assessments, and the number of those children who were provided accommodations in order to participate in those assessments.
+
+&emsp;&emsp;&emsp;(ii) The number of children with disabilities participating in alternate assessments described in subparagraph (C)(ii)(I).
+
+&emsp;&emsp;&emsp;(iii) The number of children with disabilities participating in alternate assessments described in subparagraph (C)(ii)(II).
+
+&emsp;&emsp;&emsp;(iv) The performance of children with disabilities on regular assessments and on alternate assessments (if the number of children with disabilities participating in those assessments is sufficient to yield statistically reliable information and reporting that information will not reveal personally identifiable information about an individual student), compared with the achievement of all children, including children with disabilities, on those assessments.
+
+#### (E) Universal design
+
+&emsp;&emsp;The State educational agency (or, in the case of a districtwide assessment, the local educational agency) shall, to the extent feasible, use universal design principles in developing and administering any assessments under this paragraph.
+
+#### (17) Supplementation of State, local, and other Federal funds
 
 #### (A) Expenditures
 
@@ -288,7 +394,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;Except as provided in section 1413 of this title, funds paid to a State under this subchapter will be used to supplement the level of Federal, State, and local funds (including funds that are not under the direct control of State or local educational agencies) expended for special education and related services provided to children with disabilities under this subchapter and in no case to supplant such Federal, State, and local funds, except that, where the State provides clear and convincing evidence that all children with disabilities have available to them a free appropriate public education, the Secretary may waive, in whole or in part, the requirements of this subparagraph if the Secretary concurs with the evidence provided by the State.
 
-#### (19) Maintenance of State financial support
+#### (18) Maintenance of State financial support
 
 #### (A) In general
 
@@ -300,25 +406,23 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (C) Waivers for exceptional or uncontrollable circumstances
 
-&emsp;&emsp;The Secretary may waive the requirement of subparagraph (A) for a State, for one fiscal year at a time, if the Secretary determines that—
+&emsp;&emsp;The Secretary may waive the requirement of subparagraph (A) for a State, for 1 fiscal year at a time, if the Secretary determines that—
 
 &emsp;&emsp;&emsp;(i) granting a waiver would be equitable due to exceptional or uncontrollable circumstances such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State; or
 
-&emsp;&emsp;&emsp;(ii) the State meets the standard in paragraph (18)(C) of this section for a waiver of the requirement to supplement, and not to supplant, funds received under this subchapter.
+&emsp;&emsp;&emsp;(ii) the State meets the standard in paragraph (17)(C) for a waiver of the requirement to supplement, and not to supplant, funds received under this subchapter.
 
 #### (D) Subsequent years
 
 &emsp;&emsp;If, for any year, a State fails to meet the requirement of subparagraph (A), including any year for which the State is granted a waiver under subparagraph (C), the financial support required of the State in future years under subparagraph (A) shall be the amount that would have been required in the absence of that failure and not the reduced level of the State's support.
 
-#### (E) Regulations
-
-&emsp;&emsp;(i) The Secretary shall, by regulation, establish procedures (including objective criteria and consideration of the results of compliance reviews of the State conducted by the Secretary) for determining whether to grant a waiver under subparagraph (C)(ii).
-
-&emsp;&emsp;(ii) The Secretary shall publish proposed regulations under clause (i) not later than 6 months after June 4, 1997, and shall issue final regulations under clause (i) not later than 1 year after June 4, 1997.
-
-#### (20) Public participation
+#### (19) Public participation
 
 &emsp;Prior to the adoption of any policies and procedures needed to comply with this section (including any amendments to such policies and procedures), the State ensures that there are public hearings, adequate notice of the hearings, and an opportunity for comment available to the general public, including individuals with disabilities and parents of children with disabilities.
+
+#### (20) Rule of construction
+
+&emsp;In complying with paragraphs (17) and (18), a State may not use funds paid to it under this subchapter to satisfy State-law mandated funding obligations to local educational agencies, including funding based on student attendance or enrollment, or inflation.
 
 #### (21) State advisory panel
 
@@ -328,9 +432,9 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Membership
 
-&emsp;&emsp;Such advisory panel shall consist of members appointed by the Governor, or any other official authorized under State law to make such appointments, that is representative of the State population and that is composed of individuals involved in, or concerned with, the education of children with disabilities, including—
+&emsp;&emsp;Such advisory panel shall consist of members appointed by the Governor, or any otherofficial authorized under State law to make such appointments, be representative of the State population, and be composed of individuals involved in, or concerned with, the education of children with disabilities, including—
 
-&emsp;&emsp;&emsp;(i) parents of children with disabilities;
+&emsp;&emsp;&emsp;(i) parents of children with disabilities (ages birth through 26);
 
 &emsp;&emsp;&emsp;(ii) individuals with disabilities;
 
@@ -338,7 +442,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;(iv) representatives of institutions of higher education that prepare special education and related services personnel;
 
-&emsp;&emsp;&emsp;(v) State and local education officials;
+&emsp;&emsp;&emsp;(v) State and local education officials, including officials who carry out activities under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.);
 
 &emsp;&emsp;&emsp;(vi) administrators of programs for children with disabilities;
 
@@ -346,13 +450,15 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;(viii) representatives of private schools and public charter schools;
 
-&emsp;&emsp;&emsp;(ix) at least one representative of a vocational, community, or business organization concerned with the provision of transition services to children with disabilities; and
+&emsp;&emsp;&emsp;(ix) not less than 1 representative of a vocational, community, or business organization concerned with the provision of transition services to children with disabilities;
 
-&emsp;&emsp;&emsp;(x) representatives from the State juvenile and adult corrections agencies.
+&emsp;&emsp;&emsp;(x) a representative from the State child welfare agency responsible for foster care; and
+
+&emsp;&emsp;&emsp;(xi) representatives from the State juvenile and adult corrections agencies.
 
 #### (C) Special rule
 
-&emsp;&emsp;A majority of the members of the panel shall be individuals with disabilities or parents of children with disabilities.
+&emsp;&emsp;A majority of the members of the panel shall be individuals with disabilities or parents of children with disabilities (ages birth through 26).
 
 #### (D) Duties
 
@@ -372,7 +478,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (A) In general
 
-&emsp;&emsp;The State educational agency examines data to determine if significant discrepancies are occurring in the rate of long-term suspensions and expulsions of children with disabilities—
+&emsp;&emsp;The State educational agency examines data, including data disaggregated by race and ethnicity, to determine if significant discrepancies are occurring in the rate of long-term suspensions and expulsions of children with disabilities—
 
 &emsp;&emsp;&emsp;(i) among local educational agencies in the State; or
 
@@ -380,7 +486,59 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Review and revision of policies
 
-&emsp;&emsp;If such discrepancies are occurring, the State educational agency reviews and, if appropriate, revises (or requires the affected State or local educational agency to revise) its policies, procedures, and practices relating to the development and implementation of IEPs, the use of behavioral interventions, and procedural safeguards, to ensure that such policies, procedures, and practices comply with this chapter.
+&emsp;&emsp;If such discrepancies are occurring, the State educational agency reviews and, if appropriate, revises (or requires the affected State or local educational agency to revise) its policies, procedures, and practices relating to the development and implementation of IEPs, the use of positive behavioral interventions and supports, and procedural safeguards, to ensure that such policies, procedures, and practices comply with this chapter.
+
+#### (23) Access to instructional materials
+
+#### (A) In general
+
+&emsp;&emsp;The State adopts the National Instructional Materials Accessibility Standard for the purposes of providing instructional materials to blind persons or other persons with print disabilities, in a timely manner after the publication of the National Instructional Materials Accessibility Standard in the Federal Register.
+
+#### (B) Rights of State educational agency
+
+&emsp;&emsp;Nothing in this paragraph shall be construed to require any State educational agency to coordinate with the National Instructional Materials Access Center. If a State educational agency chooses not to coordinate with the National Instructional Materials Access Center, such agency shall provide an assurance to the Secretary that the agency will provide instructional materials to blind persons or other persons with print disabilities in a timely manner.
+
+#### (C) Preparation and delivery of files
+
+&emsp;&emsp;If a State educational agency chooses to coordinate with the National Instructional Materials Access Center, not later than 2 years after December 3, 2004, the agency, as part of any print instructional materials adoption process, procurement contract, or other practice or instrument used for purchase of print instructional materials, shall enter into a written contract with the publisher of the print instructional materials to—
+
+&emsp;&emsp;&emsp;(i) require the publisher to prepare and, on or before delivery of the print instructional materials, provide to the National Instructional Materials Access Center electronic files containing the contents of the print instructional materials using the National Instructional Materials Accessibility Standard; or
+
+&emsp;&emsp;&emsp;(ii) purchase instructional materials from the publisher that are produced in, or may be rendered in, specialized formats.
+
+#### (D) Assistive technology
+
+&emsp;&emsp;In carrying out this paragraph, the State educational agency, to the maximum extent possible, shall work collaboratively with the State agency responsible for assistive technology programs.
+
+#### (E) Definitions
+
+&emsp;&emsp;In this paragraph:
+
+#### (i) National Instructional Materials Access Center
+
+&emsp;&emsp;&emsp;The term “National Instructional Materials Access Center” means the center established pursuant to section 1474(e) of this title.
+
+#### (ii) National Instructional Materials Accessibility Standard
+
+&emsp;&emsp;&emsp;The term “National Instructional Materials Accessibility Standard” has the meaning given the term in section 1474(e)(3)(A) of this title.
+
+#### (iii) Specialized formats
+
+&emsp;&emsp;&emsp;The term “specialized formats” has the meaning given the term in section 1474(e)(3)(D) of this title.
+
+#### (24) Overidentification and disproportionality
+
+&emsp;The State has in effect, consistent with the purposes of this chapter and with section 1418(d) of this title, policies and procedures designed to prevent the inappropriate overidentification or disproportionate representation by race and ethnicity of children as children with disabilities, including children with disabilities with a particular impairment described in section 1401 of this title.
+
+#### (25) Prohibition on mandatory medication
+
+#### (A) In general
+
+&emsp;&emsp;The State educational agency shall prohibit State and local educational agency personnel from requiring a child to obtain a prescription for a substance covered by the Controlled Substances Act (21 U.S.C. 801 et seq.) as a condition of attending school, receiving an evaluation under subsection (a) or (c) of section 1414 of this title, or receiving services under this chapter.
+
+#### (B) Rule of construction
+
+&emsp;&emsp;Nothing in subparagraph (A) shall be construed to create a Federal prohibition against teachers and other school personnel consulting or sharing classroom-based observations with parents or guardians regarding a student's academic and functional performance, or behavior in the classroom or school, or regarding the need for evaluation for special education or related services under paragraph (3).
 
 #### (b) State educational agency as provider of free appropriate public education or direct services
 
@@ -394,17 +552,17 @@ If the State educational agency provides free appropriate public education to ch
 
 #### (1) In general
 
-&emsp;If a State has on file with the Secretary policies and procedures that demonstrate thatsuch State meets any requirement of subsection (a) of this section, including any policies and procedures filed under this subchapter as in effect before the effective date of the Individuals with Disabilities Education Act Amendments of 1997, the Secretary shall consider such State to have met such requirement for purposes of receiving a grant under this subchapter.
+&emsp;If a State has on file with the Secretary policies and procedures that demonstrate that such State meets any requirement of subsection (a), including any policies and procedures filed under this subchapter as in effect before the effective date of the Individuals with Disabilities Education Improvement Act of 2004, the Secretary shall consider such State to have met such requirement for purposes of receiving a grant under this subchapter.
 
 #### (2) Modifications made by State
 
-&emsp;Subject to paragraph (3), an application submitted by a State in accordance with this section shall remain in effect until the State submits to the Secretary such modifications as the State deems necessary. This section shall apply to a modification to an application to the same extent and in the same manner as this section applies to the original plan.
+&emsp;Subject to paragraph (3), an application submitted by a State in accordance with this section shall remain in effect until the State submits to the Secretary such modifications as the State determines necessary. This section shall apply to a modification to an application to the same extent and in the same manner as this section applies to the original plan.
 
-#### (3) Modifications required by Secretary
+#### (3) Modifications required by the Secretary
 
-&emsp;If, after the effective date of the Individuals with Disabilities Education Act Amendments of 1997, the provisions of this chapter are amended (or the regulations developed to carry out this chapter are amended), or there is a new interpretation of this chapter by a Federal court or a State's highest court, or there is an official finding of noncompliance with Federal law or regulations, the Secretary may require a State to modify its application only to the extent necessary to ensure the State's compliance with this subchapter.
+&emsp;If, after the effective date of the Individuals with Disabilities Education Improvement Act of 2004, the provisions of this chapter are amended (or the regulations developed to carry out this chapter are amended), there is a new interpretation of this chapter by a Federal court or a State's highest court, or there is an official finding of noncompliance with Federal law or regulations, then the Secretary may require a State to modify its application only to the extent necessary to ensure the State's compliance with this subchapter.
 
-#### (d) Approval by Secretary
+#### (d) Approval by the Secretary
 
 #### (1) In general
 
@@ -426,7 +584,7 @@ Nothing in this chapter permits a State to reduce medical and other assistance a
 
 #### (1) In general
 
-&emsp;If, on December 2, 1983, a State educational agency is prohibited by law from providing for the participation in special programs of children with disabilities enrolled in private elementary and secondary schools as required by subsection (a)(10)(A) of this section, the Secretary shall, notwithstanding such provision of law, arrange for the provision of services to such children through arrangements which shall be subject to the requirements of such subsection.
+&emsp;If, on December 2, 1983, a State educational agency was prohibited by law from providing for the equitable participation in special programs of children with disabilities enrolled in private elementary schools and secondary schools as required by subsection (a)(10)(A), or if the Secretary determines that a State educational agency, local educational agency, or other entity has substantially failed or is unwilling to provide for such equitable participation, then the Secretary shall, notwithstanding such provision of law, arrange for the provision of services to such children through arrangements that shall be subject to the requirements of such subsection.
 
 #### (2) Payments
 
@@ -440,17 +598,17 @@ Nothing in this chapter permits a State to reduce medical and other assistance a
 
 #### (B) Withholding of certain amounts
 
-&emsp;&emsp;Pending final resolution of any investigation or complaint that could result in a determination under this subsection, the Secretary may withhold from the allocation of the affected State educational agency the amount the Secretary estimates would be necessary to pay the cost of services described in subparagraph (A).
+&emsp;&emsp;Pending final resolution of any investigation or complaint that may result in a determination under this subsection, the Secretary may withhold from the allocation of the affected State educational agency the amount the Secretary estimates will be necessary to pay the cost of services described in subparagraph (A).
 
 #### (C) Period of payments
 
-&emsp;&emsp;The period under which payments are made under subparagraph (A) shall continue until the Secretary determines that there will no longer be any failure or inability on the part of the State educational agency to meet the requirements of subsection (a)(10)(A) of this section.
+&emsp;&emsp;The period under which payments are made under subparagraph (A) shall continue until the Secretary determines that there will no longer be any failure or inability on the part of the State educational agency to meet the requirements of subsection (a)(10)(A).
 
 #### (3) Notice and hearing
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall not take any final action under this subsection until the State educational agency affected by such action has had an opportunity, for at least 45 days after receiving written notice thereof, to submit written objections and to appear before the Secretary or the Secretary's designee to show cause why such action should not be taken.
+&emsp;&emsp;The Secretary shall not take any final action under this subsection until the State educational agency affected by such action has had an opportunity, for not less than 45 days after receiving written notice thereof, to submit written objections and to appear before the Secretary or the Secretary's designee to show cause why such action should not be taken.
 
 #### (B) Review of action
 
@@ -464,25 +622,21 @@ Nothing in this chapter permits a State to reduce medical and other assistance a
 
 &emsp;&emsp;Upon the filing of a petition under subparagraph (B), the United States court of appeals shall have jurisdiction to affirm the action of the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
-(Pub. L. 91–230, title VI, §612, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 60.)
+(Pub. L. 91–230, title VI, §612, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2676.)
 
 #### References in Text
 
-For the effective date of the Individuals with Disabilities Education Act Amendments of 1997, referred to in subsec. (c)(1), (3), see section 201 of Pub. L. 105–17, set out as an Effective Date note under section 1400 of this title.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(11)(A)(iii), (21)(B)(v), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+
+The Controlled Substances Act, referred to in subsec. (a)(25)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+
+For the effective date of the Individuals with Disabilities Education Improvement Act of 2004, referred to in subsec. (c)(1), (3), see section 302(a), (b) of Pub. L. 108–446, set out as an Effective Date note under section 1400 of this title.
 
 The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Act are classified generally to subchapters V (§701 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
-A prior section 1412, Pub. L. 91–230, title VI, §612, Apr. 13, 1970, 84 Stat. 178; Pub. L. 92–318, title IV, §421(b)(1)(C), June 23, 1972, 86 Stat. 341; Pub. L. 93–380, title VI, §§614(b), (f)(1), 615(a), title VIII, §843(b), Aug. 21, 1974, 88 Stat. 581, 582, 611; Pub. L. 94–142, §§2(a)(4), (c), (d), 5(a), Nov. 29, 1975, 89 Stat. 773, 774, 780; Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 99–457, title II, §203(a), Oct. 8, 1986, 100 Stat. 1158; Pub. L. 100–630, title I, §102(b), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title IX, §901(b)(33)–(46), (c), Oct. 30, 1990, 104 Stat. 1143, 1144, 1151; Pub. L. 102–119, §25(a)(5), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to eligibility requirements, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1412, Pub. L. 91–230, title VI, §612, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 60, related to State eligibility for assistance, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-#### Effective Date
-
-Section effective June 4, 1997, except subsec. (a)(4), (14), (16), effective July 1, 1998, see section 201(a)(1), (2)(A), of Pub. L. 105–17, set out as a note under section 1400 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1401, 1411, 1413, 1414, 1415, 1416, 1419, 1435, 1453, 6311 of this title; title 29 section 725.
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+Another prior section 1412, Pub. L. 91–230, title VI, §612, Apr. 13, 1970, 84 Stat. 178; Pub. L. 92–318, title IV, §421(b)(1)(C), June 23, 1972, 86 Stat. 341; Pub. L. 93–380, title VI, §§614(b), (f)(1), 615(a), title VIII, §843(b), Aug. 21, 1974, 88 Stat. 581, 582, 611; Pub. L. 94–142, §§2(a)(4), (c), (d), 5(a), Nov. 29, 1975, 89 Stat. 773, 774, 780; Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 99–457, title II, §203(a), Oct. 8, 1986, 100 Stat. 1158; Pub. L. 100–630, title I, §102(b), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title IX, §901(b)(33)–(46), (c), Oct. 30, 1990, 104 Stat. 1143, 1144, 1151; Pub. L. 102–119, §25(a)(5), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to eligibility requirements, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

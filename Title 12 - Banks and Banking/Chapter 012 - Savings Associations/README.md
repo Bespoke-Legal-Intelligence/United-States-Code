@@ -102,10 +102,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1441a, 1831k, 1843, 3204, 3401 of this title; title 18 section 433; title 41 section 22.
-
 
 ---
 

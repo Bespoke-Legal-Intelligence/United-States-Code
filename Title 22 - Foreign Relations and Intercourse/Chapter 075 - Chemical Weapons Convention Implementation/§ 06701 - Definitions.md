@@ -18,7 +18,7 @@ In this chapter:
 
 #### (3) Key component of a binary or multicomponent chemical system
 
-&emsp;The term “key component of a binary or multicomponent chemical system” means the precursor which plays the most important role in determining the toxic properties of the final product and reacts rapidly with other chemicals in the binary or multicomponent system.
+&emsp;The term “key component of a binary or multicomponent chemical system” means the precursor which plays the most important rolein determining the toxic properties of the final product and reacts rapidly with other chemicals in the binary or multicomponent system.
 
 #### (4) National of the United States
 
@@ -30,7 +30,7 @@ In this chapter:
 
 #### (6) Person
 
-&emsp;The term “person”, except as otherwise provided, means any individual, corporation,partnership, firm, association, trust, estate, public or private institution, any State or any political subdivision thereof, or any political entity within a State, any foreign government or nation or any agency, instrumentality or political subdivision of any such government or nation, or other entity located in the United States.
+&emsp;The term “person”, except as otherwise provided, means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, any State or any political subdivision thereof, or any political entity within a State, any foreign government or nation or any agency, instrumentality or political subdivision of any such government or nation, or other entity located in the United States.
 
 #### (7) Precursor
 
@@ -238,9 +238,9 @@ In this chapter:
 
 &emsp;The term “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
 
-&emsp;&emsp;(A) any of the places within the provisions of paragraph (41) of section 40102 of title 49;
+&emsp;&emsp;(A) any of the places within the provisions of paragraph (41) <sup>1</sup> of section 40102 of title 49;
 
-&emsp;&emsp;(B) any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (37), respectively, of section 40102 of title 49; and
+&emsp;&emsp;(B) any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (37),<sup>1</sup> respectively, of section 40102 of title 49; and
 
 &emsp;&emsp;(C) any vessel of the United States, as such term is defined in section 1903(b) of title 46, Appendix.
 
@@ -254,11 +254,13 @@ In this chapter:
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out below and Tables.
 
+Paragraphs (17), (37), and (41) of section 40102 of title 49, referred to in par. (14)(A) and (B), probably were originally meant to refer to paragraphs (17), (37), and (41) of subsection (a) of section 40102 of title 49. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by Pub. L. 108–176, title II, §225(a)(1), (3), Dec. 12, 2003, 117 Stat. 2528.
+
 Section 1903(b) of title 46, Appendix, referred to in par. (14)(C), was in the original “section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))” and was translated as reading section 3(b) of the Maritime Drug Law Enforcement Act to reflect the probable intent of Congress.
 
 #### Short Title
 
-Pub. L. 105–277, div. I, §1, Oct. 21, 1998, 112 Stat. 2681–856, provided that: “This Division \[enacting this chapter, sections 229 to 229F of Title 18, Crimes and Criminal Procedure, and section 436 of Title 41, Public Contracts, amending section 362 of Title 11, Bankruptcy, and section 2332a of Title 18, repealing section 2332c of Title 18 and section 1520 of Title 50, War and National Defense, and enacting provisions set out as a note under section 229 of Title 18\] may be cited as the ‘Chemical Weapons Convention Implementation Act of 1998’.”
+Pub. L. 105–277, div. I, §1, Oct. 21, 1998, 112 Stat. 2681–856, provided that: “This Division \[enacting this chapter, sections 229 to 229F of Title 18, Crimes and Criminal Procedure, and section 436 of Title 41, Public Contracts, amending section 362 of Title 11, Bankruptcy, and section 2332a of Title 18, repealing section2332c of Title 18 and section 1520 of Title 50, War and National Defense, and enacting provisions set out as a note under section 229 of Title 18\] may be cited as the ‘Chemical Weapons Convention Implementation Act of 1998’.”
 
 #### Regulations
 
@@ -267,8 +269,4 @@ Regulations, orders, or directives to implement this chapter to be issued, amend
 #### Delegation of Functions
 
 For delegation of functions under this chapter, see section 5 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under section 6711 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6771 of this title; title 41 section 436.
 

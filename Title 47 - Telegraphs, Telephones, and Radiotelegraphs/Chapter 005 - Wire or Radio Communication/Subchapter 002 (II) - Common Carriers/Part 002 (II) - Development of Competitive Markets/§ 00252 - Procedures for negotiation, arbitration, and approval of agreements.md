@@ -128,7 +128,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (1) In general
 
-&emsp;A Bell operating company may prepare and file with a State commission a statement of the terms and conditions that such companygenerally offers within that State to comply with the requirements of section 251 of this title and the regulations thereunder and the standards applicable under this section.
+&emsp;A Bell operating company may prepare and file with a State commission a statement of the terms and conditions that such company generally offers within that State to comply with the requirements of section 251 of this title and the regulations thereunder and the standards applicable under this section.
 
 #### (2) State commission review
 
@@ -152,7 +152,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (g) Consolidation of State proceedings
 
-Where not inconsistent with the requirements of this chapter, a State commission may, to the extent practical, consolidate proceedings under sections 214(e), 251(f), 253 of this title, and this section in order to reduce administrative burdens on telecommunications carriers, other parties to the proceedings, and the State commission in carrying out its responsibilities under this chapter.
+Where not inconsistent with the requirements of this chapter, a State commission may, to theextent practical, consolidate proceedings under sections 214(e), 251(f), 253 of this title, and this section in order to reduce administrative burdens on telecommunications carriers, other parties to the proceedings, and the State commission in carrying out its responsibilities under this chapter.
 
 #### (h) Filing required
 
@@ -167,8 +167,4 @@ A local exchange carrier shall make available any interconnection, service, or n
 For purposes of this section, the term “incumbent local exchange carrier” has the meaning provided in section 251(h) of this title.
 
 (June 19, 1934, ch. 652, title II, §252, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 66.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 251, 271 of this title.
 

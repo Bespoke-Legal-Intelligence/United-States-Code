@@ -20,7 +20,3 @@ Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
 &emsp;“(2) to obtain any of the moneys, funds, credits, assets, securities or other property owned by or under the custody or control of a federally chartered or insured financial institution by means of false or fraudulent pretenses, representations, or promises, shall be fined not more than $10,000, or imprisoned not more than five years, or both.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 225, 981, 982, 1510, 1514A, 1961, 2326, 3293, 3322 of this title; title 12 sections 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b.
-

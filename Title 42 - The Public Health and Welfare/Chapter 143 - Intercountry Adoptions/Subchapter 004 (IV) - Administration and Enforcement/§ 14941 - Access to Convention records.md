@@ -40,7 +40,3 @@ This chapter, referred to in subsec. (b)(2), was in the original “this Act”,
 
 Subsec. (a) of this section effective Oct. 6, 2000, and subsecs. (b) and (c) of this section effective upon entry into force for the United States of the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, see section 505 of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14902 of this title.
-

@@ -28,7 +28,3 @@ And the tract of land, including Rattlesnake Springs, lying in section 23, towns
 
 (Pub. L. 88–249, §1, Dec. 30, 1963, 77 Stat. 818.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 407f, 407h of this title.
-

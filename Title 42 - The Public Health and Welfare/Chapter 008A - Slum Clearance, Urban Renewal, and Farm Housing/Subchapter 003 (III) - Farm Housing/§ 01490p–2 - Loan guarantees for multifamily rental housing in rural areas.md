@@ -18,7 +18,7 @@ A loan may be guaranteed under this section only if the loan is used for the dev
 
 &emsp;(1) consists of 5 or more adequate dwellings;
 
-&emsp;(2) is available for occupancy only by low or moderate income <sup>1</sup> families or persons, whose incomes at the time of initial occupancy do not exceed 115 percent of the median income of the area, as determined by the Secretary;
+&emsp;(2) is available for occupancy only by low or moderate income <sup>1</sup> families or persons, whose incomes at the time of initial occupancy donot exceed 115 percent of the median income of the area, as determined by the Secretary;
 
 &emsp;(3) will remain available as provided in paragraph (2), according to such binding commitments as the Secretary may require, for the period of the original term of the loan guaranteed, unless the housing is acquired by foreclosure (or instrument in lieu of foreclosure) or the Secretary waives the applicability of such requirement for the loan only after determining, based on objective information, that—
 
@@ -60,7 +60,7 @@ Each loan guaranteed pursuant to this section shall—
 
 &emsp;&emsp;(B) in the case of a borrower that is a for-profit entity not referred to in subparagraph (A), 90 percent of the development costs of the housing and related facilities or the value of the housing and facilities, whichever is less; and
 
-&emsp;&emsp;(C) in the case of any borrower, for such part of the property as may be attributableto dwelling use, the applicable maximum per unit dollar amount limitations under section 207(c) of the National Housing Act \[12 U.S.C. 1713(c)\];
+&emsp;&emsp;(C) in the case of any borrower, for such part of the property as may be attributable to dwelling use, the applicable maximum per unit dollar amount limitations under section 207(c) of the National Housing Act \[12 U.S.C. 1713(c)\];
 
 &emsp;(4) be secured by a first mortgage on the housing and related facilities for which the loan is made, or otherwise, as the Secretary may determine necessary to ensure repayment of the obligation; and
 
@@ -82,7 +82,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 #### (2) Foreclosure
 
-&emsp;After receiving notice under paragraph (1) and providing written notice of action under this paragraph to the Secretary, the holder of the guarantee certificate for the loan may initiate foreclosure proceedings for the loan in a court of competent jurisdiction, in accordance with regulations issued by the Secretary, to obtain possession of the security property. After the court issues a final order authorizing foreclosure on the property, the holder of the certificate shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b) of this section) upon (A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment to the Secretary of all the claims of the holder of the guarantee against the borrower or others arising out of the loan transaction or foreclosure proceedings, except claims released with the consent of the Secretary.
+&emsp;After receiving notice under paragraph (1) and providing written notice of action under this paragraph to the Secretary, the holder of the guarantee certificate for the loan may initiate foreclosure proceedings for the loan in a court of competent jurisdiction, in accordance with regulations issued by the Secretary, to obtain possession of the security property. After the court issues a final order authorizing foreclosure on the property, the holder of the certificate shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b) of this section)upon (A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment to the Secretary of all the claims of the holder of the guarantee against the borrower or others arising out of the loan transaction or foreclosure proceedings, except claims released with the consent of the Secretary.
 
 #### (3) Assignment by Secretary
 
@@ -108,7 +108,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 #### (k) Refinancing
 
-Any loan guaranteed under this section may be refinanced and extended in accordance withterms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term that exceeds the limitations under subsection (f) of this section.
+Any loan guaranteed under this section may be refinanced and extended in accordance with terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term that exceeds the limitations under subsection (f) of this section.
 
 #### (<i>l</i>) Geographical targeting
 
@@ -174,7 +174,7 @@ For purposes of this section, the following definitions shall apply:
 
 Indian tribe.—The term “Indian tribe” means—
 
-&emsp;&emsp;(A) any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation, as defined by or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 etseq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 (25 U.S.C. 450 et seq.); or
+&emsp;&emsp;(A) any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation, as defined by or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 (25 U.S.C. 450 et seq.); or
 
 &emsp;&emsp;(B) any entity established by the governing body of an Indian tribe described in subparagraph (A) for the purpose of financing economic development.
 
@@ -194,7 +194,7 @@ Any amounts collected by the Secretary pursuant to the fees charged to lenders f
 
 In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe's reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by the Secretary of the Interior pursuant to the Indian Reorganization Act (25 U.S.C. 461 et seq.), the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
 
-(July 15, 1949, ch. 338, title V, §538, as added and amended Pub. L. 104–120, §5, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–86, title VII, §735(c), Nov. 18, 1997, 111 Stat. 2111; Pub. L. 105–276, title V, §599C(c), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §707, Dec. 27, 2000, 114 Stat. 3015.)
+(July 15, 1949, ch. 338, title V, §538, as added and amended Pub. L. 104–120, §5, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–86, title VII, §735(c), Nov. 18, 1997, 111 Stat. 2111; Pub. L. 105–276, title V,§599C(c), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §707, Dec. 27, 2000, 114 Stat. 3015.)
 
 #### References in Text
 
@@ -240,7 +240,7 @@ Subsec. (u). Pub. L. 105–276, §599C(c)(2), added subsec. (u) and struck out h
 
 1997—Subsec. (q)(2). Pub. L. 105–86, §735(c)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In fiscal year 1996, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed $1,000,000.”
 
-Subsec. (t). Pub. L. 105–86, §735(c)(2), added subsec. (t) and struck out text of former subsec. (t). Text read asfollows: “There is authorized to be appropriated for fiscal year 1996 $1,000,000 for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section.”
+Subsec. (t). Pub. L. 105–86, §735(c)(2), added subsec. (t) and struck out text of former subsec. (t). Text read as follows: “There is authorized to be appropriated for fiscal year 1996 $1,000,000 for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section.”
 
 Subsec. (u). Pub. L. 105–86, §735(c)(3), substituted “1998” for “1996”.
 

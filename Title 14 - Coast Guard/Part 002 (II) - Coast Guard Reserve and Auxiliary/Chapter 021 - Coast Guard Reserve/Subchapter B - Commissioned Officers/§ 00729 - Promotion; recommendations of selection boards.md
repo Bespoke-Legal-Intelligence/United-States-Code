@@ -2,7 +2,7 @@
 
 (a) Except as otherwise provided by law, a Reserve officer shall only be promoted pursuant to the recommendation of a selection board.
 
-(b) The Secretary shall convene selection boards from time to time to recommend Reserve officers for promotion to the next higher grade. A board may be convened to consider officers in one or more grades.
+(b) The Secretary shall convene selection boards from time to time to recommend Reserveofficers for promotion to the next higher grade. A board may be convened to consider officers in one or more grades.
 
 (c) A selection board shall, from among the names of those eligible Reserve officers submitted to it, recommend for promotion to the next higher grade:
 
@@ -40,7 +40,7 @@
 
 (h) The recommendations of a selection board, as approved by the President, constitute a list of selectees from which the promotions of Reserve officers shall be made. An officer on a list of selectees remains thereon until promoted unless removed by the President under section 738 of this title. If an existing list of selectees has not been exhausted by the time a later list has been approved, all officers remaining on the older list shall be tendered appointments prior to those on the later list.
 
-(i) A Reserve officer whose name is on a list of selectees for promotion shall, unless that officer's promotion is lawfully withheld, be tendered an appointment in the next higher gradeon the date a vacancy occurs, or as soon thereafter as practicable in the grade to which the officer was selected for promotion or, if promotion was determined in accordance with a running mate system, at the same time, or as soon thereafter as practicable, as that officer's running mate is tendered a similar appointment.
+(i) A Reserve officer whose name is on a list of selectees for promotion shall, unless that officer's promotion is lawfully withheld, be tendered an appointment in the next higher grade on the date a vacancy occurs, or as soon thereafter as practicable in the grade to which the officer was selected for promotion or, if promotion was determined in accordance with a running mate system, at the same time, or as soon thereafter as practicable, as that officer's running mate is tendered a similar appointment.
 
 (Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1010; amended Pub. L. 97–417, §2(13), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 106–398, §1 \[\[div. A\], title V, §502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–99; Pub. L. 107–295, title IV, §411(a), Nov. 25, 2002, 116 Stat. 2118.)
 
@@ -62,7 +62,7 @@ Provisions similar to those in this section were contained in section 780 of thi
 
 Pub. L. 106–398, §1 \[\[div. A\], title V, §502(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–100, provided that: “The amendments made by this section \[amending this section and section 731 of this title\] shall apply with respect to selection boards convened under section 730 of title 14, United States Code, on or after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
-#### Section Referred to in Other Sections
+#### Delegation of Functions
 
-This section is referred to in sections 731, 738 of this title.
+For assignment of functions of President under subsec. (g) of this section, see section 2(c) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under section 301 of Title 3, The President.
 

@@ -16,9 +16,5 @@ Whenever the Commission finds that—
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 applicable with respect to regulations under this chapter and chapters 25 and 30of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2057a, 2057b, 2058, 2060 of this title.
+Amendment by Pub. L. 97–35 applicable with respect to regulations under this chapter and chapters 25 and 30 of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 

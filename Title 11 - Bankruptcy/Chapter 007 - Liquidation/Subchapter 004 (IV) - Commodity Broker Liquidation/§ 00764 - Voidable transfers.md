@@ -1,6 +1,6 @@
 ### §764. Voidable transfers
 
-(a) Except as otherwise provided in this section, any transfer by the debtor of propertythat, but for such transfer, would have been customer property, may be avoided by the trustee, and such property shall be treated as customer property, if and to the extent that the trustee avoids such transfer under section 544, 545, 547, 548, 549, or 724(a) of this title. For the purpose of such sections, the property so transferred shall be deemed to have been property of the debtor, and, if such transfer was made to a customer or for a customer's benefit, such customer shall be deemed, for the purposes of this section, to have been a creditor.
+(a) Except as otherwise provided in this section, any transfer by the debtor of property that, but for such transfer, would have been customer property, may be avoided by the trustee, and such property shall be treated as customer property, if and to the extent that the trustee avoids such transfer under section 544, 545, 547, 548, 549, or 724(a) of this title. For the purpose of such sections, the property so transferred shall be deemed to have been property of the debtor, and, if such transfer was made to a customer or for a customer's benefit, such customer shall be deemed, for the purposes of this section, to have been a creditor.
 
 (b) Notwithstanding sections 544, 545, 547, 548, 549, and 724(a) of this title, the trustee may not avoid a transfer made before five days after the order for relief, if such transfer is approved by the Commission by rule or order, either before or after such transfer, and if such transfer is—
 
@@ -41,8 +41,4 @@ Subsec. (c). Pub. L. 97–222, §17(c), struck out subsec. (c) which provided th
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
 

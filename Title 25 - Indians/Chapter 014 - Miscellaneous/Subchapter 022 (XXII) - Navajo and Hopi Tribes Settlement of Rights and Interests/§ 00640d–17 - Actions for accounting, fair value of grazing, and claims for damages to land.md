@@ -28,7 +28,3 @@ All applicable provisional and final remedies and special proceedings provided f
 
 (Pub. L. 93–531, §18, Dec. 22, 1974, 88 Stat. 1721.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 640d–7, 640d–27 of this title.
-

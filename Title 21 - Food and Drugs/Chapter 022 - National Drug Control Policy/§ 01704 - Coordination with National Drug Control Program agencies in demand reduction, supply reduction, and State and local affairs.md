@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the head of a National Drug Control Program agency shall, unless exigent circumstances require otherwise, notify the Director in writing regarding anyproposed change in policies relating to the activities of that agency under the National Drug Control Program prior to implementation of such change. The Director shall promptly review such proposed change and certify to the head of that agency in writing whether such change is consistent with the National Drug Control Strategy.
+&emsp;Subject to paragraph (2), the head of a National Drug Control Program agency shall, unless exigent circumstances require otherwise, notify the Director in writing regarding any proposed change in policies relating to the activities of that agency under the National Drug Control Program prior to implementation of such change. The Director shall promptly review such proposed change and certify to the head of that agency in writing whether such change is consistent with the National Drug Control Strategy.
 
 #### (2) Exception
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) the head of the National Drug Control Program agency shall notify the Director of the proposed change as soon as practicable; and
 
-&emsp;&emsp;(B) upon such notification, the Director shall review the change and certify to the head of that agency in writing whether the change is consistent with the National Drug Control Program.
+&emsp;&emsp;(B) upon such notification, the Director shall review the change and certify to thehead of that agency in writing whether the change is consistent with the National Drug Control Program.
 
 #### (c) General Services Administration
 
@@ -59,6 +59,10 @@ The Director shall—
 #### References in Text
 
 The National Security Act of 1947, referred to in subsec. (a)(2)(A), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50, War and National Defense, and Tables.
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “on”.</i>
 

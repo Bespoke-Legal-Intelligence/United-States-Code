@@ -19,10 +19,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 113, 20109, 20111, 20114 of this title.
-
 
 ---
 

@@ -62,9 +62,5 @@ As soon as practicable after October 17, 1986, the Administrator shall promulgat
 
 (Pub. L. 99–499, title III, §323, Oct. 17, 1986, 100 Stat. 1750.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11042, 11045 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subsections”.</i>
 

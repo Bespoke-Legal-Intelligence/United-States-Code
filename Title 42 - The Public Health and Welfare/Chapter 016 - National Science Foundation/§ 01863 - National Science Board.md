@@ -6,7 +6,7 @@ The Board shall consist of twenty-four members to be appointed by the President,
 
 #### (b) Executive Committee; delegation of powers and functions
 
-The Board shall have an Executive Committee as provided in section 1865 of this title, and may delegate to it or to the Director or both such of the powers and functions granted to the Board by this chapter as it deems appropriate.
+The Board shall have an Executive Committee as provided in section 1865 of this title, and maydelegate to it or to the Director or both such of the powers and functions granted to the Board by this chapter as it deems appropriate.
 
 #### (c) Meetings; nominations; quorum; notice
 
@@ -14,7 +14,7 @@ The persons nominated for appointment as members of the Board (1) shall be emine
 
 #### (d) Term of office; reappointment
 
-The term of office of each member of the Board shall be six years; except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term. Any person, other than the Director, who has been a member of theBoard for twelve consecutive years shall thereafter be ineligible for appointment during the two-year period following the expiration of such twelfth year.
+The term of office of each member of the Board shall be six years; except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term. Any person, other than the Director, who has been a member of the Board for twelve consecutive years shall thereafter be ineligible for appointment during the two-year period following the expiration of such twelfth year.
 
 #### (e) Meetings; quorum; notice
 
@@ -50,7 +50,7 @@ Portions of Board meetings in which the Board considers proposed Foundation budg
 
 Members of the Board shall be required to file a financial disclosure report under title II of the Ethics in Government Act of 1978 (5 U.S.C. App.; 92 Stat. 1836), except that such reports shall be held confidential and exempt from any law otherwise requiring their public disclosure.
 
-(May 10, 1950, ch. 171, §4, 64 Stat. 150; Pub. L. 86–232, §2, Sept. 8, 1959, 73 Stat. 467; Pub. L. 86–507, §1(36), June 11, 1960, 74 Stat. 202; Pub. L. 90–407, §2, July 18, 1968, 82 Stat. 361; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 94–282, title V, §503, May 11, 1976, 90 Stat. 473; Pub. L. 94–471, §9, Oct. 11, 1976, 90 Stat. 2057; Pub. L. 95–99, §12(b), formerly §14(b), Aug. 15, 1977, 91 Stat. 835, renumbered §12(b), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 96–516, §21(a), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 97–375, title II, §214, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 99–159, title I, §§109(a), 110(a)(12), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§105(a), 108, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 105–207, title II, §202(a)(1), July 29, 1998, 112 Stat. 873; Pub. L. 107–368, §15(a)(1), (c), Dec. 19, 2002, 116 Stat. 3058, 3059.)
+(May 10, 1950, ch. 171, §4, 64 Stat. 150; Pub. L. 86–232, §2, Sept. 8, 1959, 73 Stat. 467; Pub. L. 86–507, §1(36), June 11, 1960, 74 Stat. 202; Pub. L. 90–407, §2, July 18, 1968, 82 Stat. 361; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 94–282, title V, §503, May 11, 1976, 90 Stat. 473; Pub. L. 94–471, §9, Oct. 11, 1976, 90 Stat. 2057; Pub. L. 95–99, §12(b), formerly §14(b), Aug. 15, 1977, 91 Stat. 835, renumbered §12(b), Pub. L. 99–159, titleI, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 96–516, §21(a), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 97–375, title II, §214, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 99–159, title I, §§109(a), 110(a)(12), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§105(a), 108, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 105–207, title II, §202(a)(1), July 29, 1998, 112 Stat. 873; Pub. L. 107–368, §15(a)(1), (c), Dec. 19, 2002, 116 Stat. 3058, 3059.)
 
 #### References in Text
 
@@ -119,8 +119,4 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
 Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1862n–4, 1868, 1873 of this title.
 

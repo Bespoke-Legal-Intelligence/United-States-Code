@@ -10,7 +10,7 @@ The legislature of the government of the Virgin Islands may provide, in connecti
 
 #### (c) Limitations on issuance
 
-Except to the extent inconsistent with the provisions of this Act, the provisions of section 1574(b)(ii) of this title (other than the limitation contained in the proviso to the first sentence of subparagraph (A)) shall apply to bonds and other obligations authorized to be issued under subsection (a) of this section.
+Except to the extent inconsistent with the provisions of this Act, the provisions of section 1574(b)(ii) of this title (other than the limitation contained in the proviso to the first sentence ofsubparagraph (A)) shall apply to bonds and other obligations authorized to be issued under subsection (a) of this section.
 
 (Pub. L. 94–392, §1, Aug. 19, 1976, 90 Stat. 1193; Pub. L. 105–83, title I, §124(c), Nov. 14, 1997, 111 Stat. 1567; Pub. L. 106–84, §1(b)(3), Oct. 28, 1999, 113 Stat. 1295.)
 
@@ -33,8 +33,4 @@ Section was not enacted as part of the Revised Organic Act of the Virgin Islands
 #### Authorization of Appropriations
 
 Section 6 of Pub. L. 94–392 provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[enacting this section and sections 1574b to 1574d of this title and amending section 1397 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1574b, 1574c, 1645 of this title.
 

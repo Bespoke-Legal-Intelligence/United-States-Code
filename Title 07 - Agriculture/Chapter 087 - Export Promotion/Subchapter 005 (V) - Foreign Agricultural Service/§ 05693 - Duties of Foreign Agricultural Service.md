@@ -40,7 +40,3 @@ Market Development Strategy.—A program under subsection (b) would be part of a
 
 Pilot Program.—A program under subsection (a) would be established on a pilot basis to ensure that the program does not disadvantage small- and medium-sized companies, including companies that have never engaged in exporting.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6912 of this title.
-

@@ -4,7 +4,3 @@ After the Court of International Trade has rendered a judgment or order, the cou
 
 (Added Pub. L. 96–417, title III, §301, Oct. 10, 1980, 94 Stat. 1739.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2645 of this title.
-

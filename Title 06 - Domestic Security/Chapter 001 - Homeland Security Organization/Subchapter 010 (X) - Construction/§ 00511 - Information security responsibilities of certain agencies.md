@@ -22,6 +22,10 @@ The Atomic Energy Act of 1954, referred to in par. (2), is act Aug. 1, 1946, ch.
 
 Section is comprised of section 1001(c) of Pub. L. 107–296. Par. (1)(B) of section 1001(c) of Pub. L. 107–296 amended section 2224 of Title 10, Armed Forces.
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Short Title
 
 For short title of title X of Pub. L. 107–296, which enacted this subchapter, as the “Federal Information Security Management Act of 2002”, see section 1001(a) of Pub. L. 107–296, set out as a note under section 101 of this title.

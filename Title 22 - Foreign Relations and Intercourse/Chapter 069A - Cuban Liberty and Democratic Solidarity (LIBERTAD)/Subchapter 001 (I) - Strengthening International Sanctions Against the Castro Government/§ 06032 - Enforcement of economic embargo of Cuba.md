@@ -40,7 +40,3 @@ The Cuban Democracy Act of 1992, referred to in subsec. (a), is title XVII of di
 
 Section is comprised of section 102 of Pub. L. 104–114. Subsec. (d) of section 102 of Pub. L. 104–114 amended section 16 of Title 50, Appendix, War and National Defense. Subsecs. (f) and (g) of section 102 of Pub. L. 104–114 amended sections 6003 and 6004 of this title, respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6039 of this title.
-

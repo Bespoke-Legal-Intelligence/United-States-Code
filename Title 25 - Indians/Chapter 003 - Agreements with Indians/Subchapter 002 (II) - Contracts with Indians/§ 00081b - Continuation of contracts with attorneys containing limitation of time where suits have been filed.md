@@ -4,7 +4,3 @@ Any existing valid contract made and approved prior to June 26, 1936, pursuant t
 
 (June 26, 1936, ch. 851, §2, 49 Stat. 1984.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 81a of this title.
-

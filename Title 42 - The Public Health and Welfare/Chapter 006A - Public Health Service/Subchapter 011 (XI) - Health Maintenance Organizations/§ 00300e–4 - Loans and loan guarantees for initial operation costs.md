@@ -32,7 +32,7 @@ No loan may be made or guaranteed under this section after September 30, 1986.
 
 In considering applications for loan guarantees under this section, the Secretary shall give special consideration to applications for health maintenance organizations which will serve medically underserved populations.
 
-(July 1, 1944, ch. 373, title XIII, §1305, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 924; amended Pub. L. 93–641, §8, Jan. 4, 1975, 88 Stat. 2276; Pub. L. 94–273, §2(21), Apr. 21, 1976, 90 Stat. 376; Pub. L. 94–460, title I, §§107(c), 108(c), (d)(2), 109(a)(1), (2), 113(b), Oct. 8, 1976, 90 Stat. 1949, 1953; Pub. L. 95–559, §§2(b), 4(a), (b), Nov. 1, 1978, 92 Stat. 2131, 2132; Pub. L. 96–32, §2(d), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title IX, §§943(a)–(c), 947(c), Aug. 13, 1981, 95 Stat. 576, 577; Pub. L. 99–660, title VIII, §804(a), Nov. 14, 1986, 100 Stat. 3800.)
+(July 1, 1944, ch. 373, title XIII, §1305, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 924; amended Pub. L. 93–641, §8, Jan. 4, 1975, 88 Stat. 2276; Pub. L. 94–273, §2(21), Apr. 21, 1976, 90 Stat. 376; Pub. L. 94–460, title I, §§107(c), 108(c), (d)(2),109(a)(1), (2), 113(b), Oct. 8, 1976, 90 Stat. 1949, 1953; Pub. L. 95–559, §§2(b), 4(a), (b), Nov. 1, 1978, 92 Stat. 2131, 2132; Pub. L. 96–32, §2(d), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title IX, §§943(a)–(c), 947(c), Aug. 13, 1981, 95 Stat. 576, 577; Pub. L. 99–660, title VIII, §804(a), Nov. 14, 1986, 100 Stat. 3800.)
 
 #### References in Text
 
@@ -85,10 +85,6 @@ Section 4(d) of Pub. L. 95–559 provided that: “The amendments made by this s
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–460 effective Oct. 8, 1976, except that the amendment of subsec. (a)(1), (2) of this section by section 107(c) of Pub. L. 94–460 applicable with respect to grants, contracts, loans, and loan guarantees made under this section and sections 300e–2 and 300e–3 of this title for fiscal years beginning after Sept. 30, 1976, and except that the amendment of subsec. (a)(1), (2) of this section by section 109(a)(1) of Pub. L. 94–460 applicable with respect to loan guarantees made under this section after Sept. 30, 1976, see section 118 of Pub. L. 94–460, set out as a note under section 300e of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300e–5 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

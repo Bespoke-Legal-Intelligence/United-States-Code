@@ -48,7 +48,3 @@ Subsec. (b). Pub. L. 103–322, §320101(a)(2), inserted “or inflicts bodily i
 
 Pub. L. 107–273, div. C, title I, §11008(a), Nov. 2, 2002, 116 Stat. 1818, provided that: “This section \[amending this section, sections 115 and 876 of this title, and provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Federal Judiciary Protection Act of 2002’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 115, 3050 of this title; title 7 sections 84, 87c; title 16 section 742<i>l</i>; title 19 section 1629; title 25 section 2804; title 42 sections 2000e–13, 2283.
-

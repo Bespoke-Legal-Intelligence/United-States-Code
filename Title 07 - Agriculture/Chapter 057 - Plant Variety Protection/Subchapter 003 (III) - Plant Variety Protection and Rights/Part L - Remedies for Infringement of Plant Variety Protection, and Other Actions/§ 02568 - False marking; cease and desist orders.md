@@ -6,7 +6,7 @@
 
 &emsp;(2) Use of any wording importing that the material is a variety for which an application for plant variety protection is pending, when it is not.
 
-&emsp;(3) Use of either the phrase “Unauthorized Propagation Prohibited” or “Unauthorized Seed Multiplication Prohibited” or similar phrase without reasonable basis. Any reasonable basis expires one year after the first sale of the variety except as justified thereafter bya pending application or a certificate still in force.
+&emsp;(3) Use of either the phrase “Unauthorized Propagation Prohibited” or “Unauthorized Seed Multiplication Prohibited” or similar phrase without reasonable basis. Any reasonable basis expires one year after the first sale of the variety except as justified thereafter by a pending application or a certificate still in force.
 
 &emsp;(4) Failure to use the name of a variety for which a certificate of protection has been issued under this chapter, even after the expiration of the certificate, except that lawn, turf, or forage grass seed, or alfalfa or clover seed may be sold without a variety name unless use of the name of a variety for which a certificate of protection has been issued under this chapter is required under State law.
 
@@ -25,8 +25,4 @@
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2461 of this title.
 

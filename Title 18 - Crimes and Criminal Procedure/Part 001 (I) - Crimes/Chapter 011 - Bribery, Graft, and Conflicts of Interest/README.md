@@ -30,7 +30,7 @@
 
 #### Amendments
 
-2003—Pub. L. 108–198, §2(b), Dec. 19, 2003, 117 Stat. 2900, added items 212 and 213 and struck out formeritems 212 “Offer of loan or gratuity to bank examiner” and 213 “Acceptance of loan or gratuity by bank examiner”.
+2003—Pub. L. 108–198, §2(b), Dec. 19, 2003, 117 Stat. 2900, added items 212 and 213 and struck out former items 212 “Offer of loan or gratuity to bank examiner” and 213 “Acceptance of loan or gratuity by bank examiner”.
 
 1994—Pub. L. 103–322, title XXXIII, §330010(12), Sept. 13, 1994, 108 Stat. 2144, substituted “officers, and others in” for “officers and others, in” in item 203 and inserted “the” after “Federal Claims or” in item 204.
 
@@ -51,10 +51,6 @@
 1962—Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1119, included conflicts of interests in chapter heading, and amended analysis generally to contain items 201 to 218. Prior to amendment, the analysis contained items 201 to 223.
 
 1958—Pub. L. 85–699, title VII, §702(d), Aug. 21 1958, 72 Stat. 698, included small business transactions in item 221.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 5 section 3161; title 10 section 1588; title 15 section 2625; title 16 sections 450ss–3, 698v–5; title 22 section 3622; title 26 section 7802; title 36 section 2113; title 42 sections 280e–11, 9843a, 12651b, 12651g; title 48 section 1907; title 49 section 32306.
 
 
 ---

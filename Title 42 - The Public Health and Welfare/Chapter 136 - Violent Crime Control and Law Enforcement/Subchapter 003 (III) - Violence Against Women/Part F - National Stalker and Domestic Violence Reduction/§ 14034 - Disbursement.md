@@ -4,7 +4,3 @@ Not later than 90 days after the receipt of an application under this part, the 
 
 (Pub. L. 103–322, title IV, §40605, Sept. 13, 1994, 108 Stat. 1952.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

@@ -60,7 +60,7 @@ In general.—Subject to the requirements of this section and notwithstanding pa
 
 &emsp;(2)
 
-Limitation on overtime pay to an employee.—An employee of the Board may not receive overtime pay under paragraph (1), for work performed in a calendar year, in an amount that exceeds 15 percent of the annual rate of basic pay of the employee for such calendar year.
+Limitation on overtime pay to an employee.—An employee of the Board may not receive overtime pay under paragraph (1), forwork performed in a calendar year, in an amount that exceeds 15 percent of the annual rate of basic pay of the employee for such calendar year.
 
 &emsp;(3)
 
@@ -213,8 +213,4 @@ Report on Usage.—On February 1, 2006, the National Transportation Safety Board
 #### Travel Budgets
 
 Pub. L. 106–424, §9, Nov. 1, 2000, 114 Stat. 1886, provided that: “The Chairman of the National Transportation Safety Board shall establish annual fiscal year budgets for non-accident-related travel expenditures for Board members which shall be approved by the Board and submitted to the Senate Committee on Commerce, Science, and Transportation and to the House of Representatives Committee on Transportation and Infrastructure together with an annual report detailing the non-accident-related travel of each Board member. The report shall include separate accounting for foreign and domestic travel, including any personnel or other expenses associated with that travel.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1131, 1132 of this title.
 

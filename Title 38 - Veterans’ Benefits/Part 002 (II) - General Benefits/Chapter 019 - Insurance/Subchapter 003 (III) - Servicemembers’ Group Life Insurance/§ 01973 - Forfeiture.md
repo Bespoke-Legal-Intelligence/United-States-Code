@@ -10,7 +10,3 @@ Any person guilty of mutiny, treason, spying, or desertion, or who, because of c
 
 1991—Pub. L. 102–83 renumbered section 773 of this title as this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1979 of this title.
-

@@ -4,7 +4,7 @@
 
 #### (1) Authority to make grants
 
-&emsp;The Director of the Center for Substance Abuse Treatment may make grants to States and Indian tribes recognized by the United States that have a high rate, or have had a rapid increase, in methamphetamine or amphetamine abuse or addiction in order to permit such States and Indian tribes to expandactivities in connection with the treatment of methamphetamine or amphetamine abuser or addiction in the specific geographical areas of such States or Indian tribes, as the case may be, where there is such a rate or has been such an increase.
+&emsp;The Director of the Center for Substance Abuse Treatment may make grants to States and Indian tribes recognized by the United States that have a high rate, or have had a rapid increase, in methamphetamine or amphetamine abuse or addiction in order to permit such States and Indian tribes to expand activities in connection with the treatment of methamphetamine or amphetamine abuser or addiction in the specific geographical areas of such States or Indian tribes, as the case may be, where there is such a rate or has been such an increase.
 
 #### (2) Recipients
 

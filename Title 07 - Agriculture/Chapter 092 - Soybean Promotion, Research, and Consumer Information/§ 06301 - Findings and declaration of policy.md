@@ -30,9 +30,5 @@ Nothing in this chapter may be construed to provide for the control of productio
 
 #### Short Title
 
-Section 1965 of Pub. L. 101–624 provided that: “This subtitle \[subtitle E (§§1965–1976) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the ‘Soybean Promotion, Research, and Consumer Information Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6303 of this title.
+Section 1965 of Pub. L. 101–624 provided that: “This subtitle \[subtitle E (§§1965–1976) of title XIX of Pub. L.101–624, enacting this chapter\] may be cited as the ‘Soybean Promotion, Research, and Consumer Information Act’.”
 

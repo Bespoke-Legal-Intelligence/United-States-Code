@@ -4,7 +4,3 @@ In any Indian reservation opened to settlement and entry pursuant to a classific
 
 (Feb. 27, 1917, ch. 133, §1, 39 Stat. 944.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 87, 88, 89 of this title.
-

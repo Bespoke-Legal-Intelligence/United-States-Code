@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—NATIONAL ASSESSMENT OF EDUCATIONAL PROGRESS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 9513 of this title.
-
 
 ---
 

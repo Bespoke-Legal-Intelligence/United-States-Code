@@ -20,7 +20,3 @@ The Secretary of the Treasury shall cover into the Hungarian Claims Fund, such s
 
 1968—Pub. L. 90–421 designated existing provisions as subsec. (a) and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1641c, 1641h of this title.
-

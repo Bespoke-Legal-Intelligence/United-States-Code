@@ -26,7 +26,3 @@ Section was enacted as part of the Admiral James W. Nance and Meg Donovan Foreig
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 section 236.
-

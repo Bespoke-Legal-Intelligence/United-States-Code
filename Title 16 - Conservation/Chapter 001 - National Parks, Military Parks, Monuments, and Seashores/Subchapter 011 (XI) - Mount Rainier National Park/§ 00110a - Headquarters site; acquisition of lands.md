@@ -4,7 +4,3 @@ In order to apply the present headquarters site in Mount Rainier National Park t
 
 (Pub. L. 86–521, §1, June 27, 1960, 74 Stat. 219.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 110b of this title.
-

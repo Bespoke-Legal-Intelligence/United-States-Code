@@ -30,7 +30,7 @@
 
 (1) Except as provided in section 11004 of this title, a facility is subject to the requirements of this subchapter if a substance on the list referred to in subsection (a) of this section is present at the facility in an amount in excess of the threshold planning quantity established for such substance.
 
-(2) For purposes of emergency planning, a Governor or a State emergency response commission may designate additional facilities which shall be subject to the requirements of this subchapter, if such designation is made after public notice and opportunity for comment. The Governor or State emergency response commission shall notify the facility concerned of any facility designation under this paragraph.
+(2) For purposes of emergency planning, a Governor or a State emergency response commission may designate additional facilities which shall be subject to the requirements of this subchapter, if such designation is made after publicnotice and opportunity for comment. The Governor or State emergency response commission shall notify the facility concerned of any facility designation under this paragraph.
 
 #### (c) Emergency planning notification
 
@@ -45,8 +45,4 @@ The State emergency response commission shall notify the Administrator of facili
 &emsp;(2) each facility designated by the Governor or State emergency response commission under subsection (b)(2) of this section.
 
 (Pub. L. 99–499, title III, §302, Oct. 17, 1986, 100 Stat. 1730.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7413, 11003, 11004, 11005, 11045, 11046, 11049 of this title.
 

@@ -78,7 +78,3 @@ Notwithstanding paragraphs (1) and (2) of subsection (a) of this section, during
 
 1996—Subsec. (e). Pub. L. 104–105 substituted “during the period beginning on December 13, 1991, and ending on the effective date of the risk based capital regulation issued by the Director under section 2279bb–1 of this title,” for “during the 30-month period beginning on December 13, 1991,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2279bb–1, 2279cc of this title.
-

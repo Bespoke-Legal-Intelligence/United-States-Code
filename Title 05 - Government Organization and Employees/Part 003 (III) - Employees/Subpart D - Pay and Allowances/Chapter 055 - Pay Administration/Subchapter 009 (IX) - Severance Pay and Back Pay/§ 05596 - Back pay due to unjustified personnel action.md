@@ -46,7 +46,7 @@
 
 (4) The pay, allowances, or differentials granted under this section for the period for which an unjustified or unwarranted personnel action was in effect shall not exceed that authorized by the applicable law, rule, regulations, or collective bargaining agreement under which the unjustified or unwarranted personnel action is found, except that in no case may pay, allowances, or differentials be granted under this section for a period beginning more than 6 years before the date of the filing of a timely appeal or, absent such filing, the date of the administrative determination.
 
-(5) For the purpose of this subsection, “grievance” and “collective bargaining agreement” have the meanings set forth in section 7103 of this title and (with respect to members of theForeign Service) in sections 1101 and 1002 of the Foreign Service Act of 1980, “unfair labor practice” means an unfair labor practice described in section 7116 of this title and (with respect to members of the Foreign Service) in section 1015 of the Foreign Service Act of 1980, and “personnel action” includes the omission or failure to take an action or confer a benefit.
+(5) For the purpose of this subsection, “grievance” and “collective bargaining agreement” have the meanings set forth in section 7103 of this title and (with respect to members of the Foreign Service) in sections 1101 and 1002 of the Foreign Service Act of 1980, “unfair labor practice” means an unfair labor practice described in section 7116 of this title and (with respect to members of the Foreign Service) in section 1015 of the Foreign Service Act of 1980, and “personnel action” includes the omission or failure to take an action or confer a benefit.
 
 (c) The Office of Personnel Management shall prescribe regulations to carry out this section. However, the regulations are not applicable to the Tennessee Valley Authority and its employees, or to the agencies specified in subsection (a)(2) of this section.
 
@@ -136,7 +136,7 @@ Method of computing interest.—The amount of interest payable under this paragr
 
 &emsp;“(C)
 
-Source.—An amount payable under this paragraph shall be paid from the appropriation made bysection 1304 of title 31, United States Code, notwithstanding section 5596(b)(2)(C) of title 5, United States Code (as amended by this section) or any other provision of law.
+Source.—An amount payable under this paragraph shall be paid from the appropriation made by section 1304 of title 31, United States Code, notwithstanding section 5596(b)(2)(C) of title 5, United States Code (as amended by this section) or any other provision of law.
 
 &emsp;“(D)
 
@@ -173,8 +173,4 @@ Section 3 of Pub. L. 94–172 provided that:
 “(a) With respect to a former employee of the Post Office Department or a former employee of the United States Postal Service who had prior civilian service with the Post Office Department or other Federal agency, who is not on the rolls on the date of the enactment of this Act \[Dec. 23, 1975\], annual leave which was accrued before July 1, 1971, but was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to his credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and, liquidation by lump-sum payment only if a claim therefor is filed within 3 years immediately following the date of enactment of this Act with the Postal Service. Payment shall be by the Postal Service at the salary rate in effect on the date the lump-sum payment provisions of section 5551 of title 5, United States Code, or comparable provisions of regulations of the Postal Service, as appropriate, last became applicable to the former employee.
 
 “(b) With respect to a present employee of the Postal Service who had prior Federal civilian service with the Post Office Department or other Federal agency, annual leave which was accrued before July 1, 1971, but was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to the employee's credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and liquidation by lump-sum payment only if a claim therefor is filed with the Postal Service within three years immediately following the date of the enactment of this Act \[Dec. 23, 1975\]. Payment shall be by the Postal Service at the salary rate in effect on the date of the enactment of this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5307, 7118, 7121, 7122, 7371 of this title; title 22 sections 4116, 4137.
 

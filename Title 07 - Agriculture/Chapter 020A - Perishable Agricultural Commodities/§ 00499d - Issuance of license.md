@@ -78,7 +78,3 @@ Subsecs. (c) to (e). Act Apr. 13, 1934, §§5–7, added subsecs. (c) to (e).
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 499h of this title.
-

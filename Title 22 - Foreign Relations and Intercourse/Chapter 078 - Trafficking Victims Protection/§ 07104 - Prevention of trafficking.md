@@ -38,7 +38,7 @@ The President shall establish and carry out programs that support the production
 
 #### (3) Feasibility report
 
-&emsp;Not later than 180 days after December 19, 2003, the President shall transmit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Affairs of the Senate a report that describes the feasibility of such United States Government materials being disseminatedthrough public-private partnerships to individuals traveling to foreign destinations.
+&emsp;Not later than 180 days after December 19, 2003, the President shall transmit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Affairs of the Senate a report that describes the feasibility of such United States Government materials being disseminated through public-private partnerships to individuals traveling to foreign destinations.
 
 #### (f) Consultation requirement
 
@@ -65,8 +65,4 @@ Subsec. (g). Pub. L. 108–193, §3(b), added subsec. (g).
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see section 5 of Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended, set out as a note under section 7103 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7103, 7110 of this title.
 

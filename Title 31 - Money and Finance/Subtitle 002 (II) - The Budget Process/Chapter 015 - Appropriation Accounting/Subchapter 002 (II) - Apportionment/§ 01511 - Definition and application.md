@@ -52,7 +52,3 @@ In subsection (a)(1), the words “appropriated amounts” are substituted for �
 
 In subsection (b), the word “amounts” is substituted for “funds” for consistency in the revised title. In clause (1)(B), the words “(7 U.S.C. 612c)” are substituted for “section 612(c) of title 7” to correct an error in section 3679(d)(2)(6th sentence) of the Revised Statutes. Clause (2) is substituted for the source provisions for consistency in the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 38 section 114.
-

@@ -1,34 +1,94 @@
 ### §5753. Recruitment and relocation bonuses
 
-(a) The Office of Personnel Management may authorize the head of an agency to pay a bonusto an employee who is newly appointed to a position under the General Schedule, or to an employee under the General Schedule or under any other pay authority in the executive, legislative, or judicial branch who must relocate to accept a position under the General Schedule, if the Office determines that the agency would be likely, in the absence of such a bonus, to encounter difficulty in filling the position.
+(a)(1) This section may be applied to—
 
-(b)(1)(A) The amount of a bonus under this section shall be determined by regulations of the Office, but may not exceed 25 percent of the annual rate of basic pay of the position to which the employee is being appointed or relocated.
+&emsp;(A) employees covered by the General Schedule pay system established under subchapter III of chapter 53; and
 
-(B) For purposes of computing a percentage of a rate of basic pay under subparagraph (A), the rate of basic pay used shall be determined without taking into account any comparability payment under section 5304.
+&emsp;(B) employees in a category approved by the Office of Personnel Management at the request of the head of an Executive agency.
 
-(2) Payment of a bonus under this section shall be contingent upon the employee entering into an agreement with the agency to complete a period of employment with the agency, with the required period determined pursuant to regulations of the Office. If the employee voluntarily fails to complete such period of service or is separated from the service before completion of such period of service for cause on charges of misconduct or delinquency, the employee shall repay the bonus on a pro rata basis.
+(2) A bonus may not be paid under this section to an individual who is appointed to or who holds—
 
-(3) A bonus under this section shall be paid as a lump sum, and may not be considered to be part of the basic pay of an employee.
+&emsp;(A) a position to which an individual is appointed by the President, by and with the advice and consent of the Senate;
 
-(4) Under regulations of the Office, a recruitment bonus may be paid to a newly-hired employee before the employee enters on duty.
+&emsp;(B) a position in the Senior Executive Service as a noncareer appointee (as such term is defined under section 3132(a)); or
 
-(c) For the purpose of this section—
+&emsp;(C) a position which has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character.
 
-&emsp;(1) the terms “agency” and “employee” have the meanings given them by section 5102; and
+(3) In this section, the term “employee” has the meaning given that term in section 2105, except that such term also includes an employee described in subsection (c) of that section.
 
-&emsp;(2) any reference to “a position under the General Schedule” or “an employee under the General Schedule” shall be considered to be a reference to any position or employee to which subchapter III of chapter 53 applies.
+(b) The Office of Personnel Management may authorize the head of an agency to pay a bonus under this section to an individual only if—
 
-(d) The Office shall prescribe such regulations as it considers necessary for the administration of subsections (a) through (c).
+&emsp;(1) the position to which such individual is appointed (as described in paragraph (2)(A)) or to which such individual moves or must relocate (as described in paragraph (2)(B)) is likely to be difficult to fill in the absence of such a bonus; and
 
-(e) At the request of the head of an Executive agency, the President may authorize the application of the preceding provisions of this section with respect to 1 or more categories of employees within such agency who would not otherwise be covered by this section (including authority under subsection (d) to prescribe any necessary regulations).
+&emsp;(2) the individual—
 
-(Added Pub. L. 101–509, title V, §529 \[title II, §208(a)\], Nov. 5, 1990, 104 Stat. 1427, 1458.)
+&emsp;&emsp;(A) is newly appointed as an employee of the Federal Government; or
+
+&emsp;&emsp;(B)(i) is currently employed by the Federal Government; and
+
+&emsp;&emsp;(ii)(I) moves to a new position in the same geographic area under circumstances described in regulations of the Office; or
+
+&emsp;&emsp;(II) must relocate to accept a position in a different geographic area.
+
+(c)(1) Payment of a bonus under this section shall be contingent upon the employee entering into a written service agreement to complete a period of employment with the agency, not longer than 4 years. The Office may, by regulation, prescribe a minimum service period for purposes of this section.
+
+(2)(A) The agreement shall include—
+
+&emsp;(i) the commencement and termination dates of the required service period (or provisions for the determination thereof);
+
+&emsp;(ii) the amount of the bonus;
+
+&emsp;(iii) the method of payment; and
+
+&emsp;(iv) other terms and conditions under which the bonus is payable, subject to the requirements of this section and regulations of the Office.
+
+(B) The terms and conditions for paying a bonus, as specified in the service agreement, shall include—
+
+&emsp;(i) the conditions under which the agreement may be terminated before the agreed-upon service period has been completed; and
+
+&emsp;(ii) the effect of the termination.
+
+(C) The required service period shall commence upon the commencement of service with the agency or movement to a new position or geographic area, as applicable, unless the service agreement provides for a later commencement date in circumstances and to the extent allowable under regulations of the Office, such as when there is an initial period of formal basic training.
+
+(d)(1) Except as provided in subsection (e), a bonus under this section shall not exceed 25 percent of the annual rate of basic pay of the employee at the beginning of the service period multiplied by the number of years (including a fractional part of a year, as determined under regulations of the Office) in the required service period of the employee involved.
+
+(2) A bonus under this section may be paid as an initial lump sum, in installments, as a final lump sum upon the completion of the full period of service required by the agreement, or in a combination of these forms of payment.
+
+(3) A bonus under this section is not part of the basic pay of an employee for any purpose.
+
+(4) Under regulations of the Office, a recruitment bonus under this section may be paid to an eligible individual before that individual enters on duty.
+
+(e) The Office may authorize the head of an agency to waive the limitation under subsection (d)(1) based on a critical agency need, subject to regulations prescribed by the Office. Under such a waiver, the maximum bonus allowable shall—
+
+&emsp;(1) be equal to the maximum that would be determined if subsection (d)(1) were applied by substituting “50” for “25”; but
+
+&emsp;(2) in no event exceed 100 percent of the annual rate of basic pay of the employee at the beginning of the service period.
+
+> Nothing in this subsection shall be considered to permit the waiver of any requirement under subsection (c).
+
+(f) The Office shall require that an agency establish a plan for the payment of recruitment bonuses before paying any such bonuses, and a plan for the payment of relocation bonuses before paying any such bonuses, subject to regulations prescribed by the Office.
+
+(g) The Office may prescribe regulations to carry out this section, including regulations relating to the repayment of a bonus under this section in appropriate circumstances when the agreed-upon service period has not been completed.
+
+(Added Pub. L. 108–411, title I, §101(a)(1), Oct. 30, 2004, 118 Stat. 2305.)
+
+#### Prior Provisions
+
+A prior section 5753, added Pub. L. 101–509, title V, §529 \[title II, §208(a)\], Nov. 5, 1990, 104 Stat. 1427, 1458, which related to recruitment and relocation bonuses, was repealed by Pub. L. 108–411, title I, §101(a)(1), Oct. 30, 2004, 118 Stat. 2305.
 
 #### Effective Date
 
-Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Pub. L. 108–411, title I, §101(d), Oct. 30, 2004, 118 Stat. 2310, provided that:
 
-#### Section Referred to in Other Sections
+“(1)
 
-This section is referred to in sections 3521, 5307, 5404, 5757, 9504 of this title; title 38 section 7410.
+Effective date.—Except as provided under paragraphs (2) and (3), this section \[enacting this section and section 5754 of this title, repealing former sections 5753 and 5754 of this title, and amending provisions set out as a note under section 5305 of this title\] shall take effect on the first day of the first applicable pay period beginning on or after the 180th day after the date of the enactment of this Act \[Oct. 30, 2004\].
+
+“(2)
+
+Application to agreements.—A recruitment or relocation bonus service agreement that was authorized under section 5753 of title 5, United States Code, before the effective date under paragraph (1) shall continue, until its expiration, to be subject to such section as in effect on the day before such effective date.
+
+“(3)
+
+Application to allowances.—Payment of a retention allowance that was authorized under section 5754 of title 5, United States Code, before the effective date under paragraph (1) shall continue, subject to such section as in effect on the day before such effective date, until the retention allowance is reauthorized or terminated (but no longer than 1 year after such effective date).”
 

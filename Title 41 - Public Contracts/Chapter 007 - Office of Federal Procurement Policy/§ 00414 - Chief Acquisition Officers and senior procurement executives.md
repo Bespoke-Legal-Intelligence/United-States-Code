@@ -6,7 +6,7 @@
 
 &emsp;(A) have acquisition management as that official's primary duty; and
 
-&emsp;(B) advise and assist the head of the executive agency and other agency officials to ensure that the mission of the executive agencyis achieved through the management of the agency's acquisition activities.
+&emsp;(B) advise and assist the head of the executive agency and other agency officials to ensure that the mission of the executive agency is achieved through the management of the agency's acquisition activities.
 
 #### (b) Authority and functions of agency Chief Acquisition Officers
 
@@ -49,10 +49,6 @@ The functions of each Chief Acquisition Officer shall include—
 2003—Pub. L. 108–136 amended section generally. Prior to amendment, section related to executive agency responsibilities.
 
 1984—Par. (1). Pub. L. 98–369 substituted “increase the use of full and open competition in the procurement of property or services by the executive agency by establishing policies, procedures, and practices that assure that the executive agency receives a sufficient number of sealed bids or competitive proposals from responsible sources to fulfill the Government's requirements (including performance and delivery schedules) at the lowest reasonable cost considering the nature of the property or service procured;” for “increase the use of effective competition in procurement by the executive agency;”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 252c, 253, 414b, 418, 421 of this title; title 10 sections 133, 2225, 2302c, 2304, 2359a, 2382, 2435; title 15 section 637; title 49 section 40110; title 50 section 2402.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

@@ -6,7 +6,7 @@
 
 (c) An officer of the Regular Coast Guard who is discharged under section 327 of this title and has completed 6 or more, but less than 20, continuous years of active service immediately before that discharge or release is entitled to separation pay computed under subsection (d)(1) or (d)(2) of section 1174 of title 10 as determined under regulations promulgated by the Secretary.
 
-(d) Notwithstanding subsections (a) and (b), an officer discharged under chapter 11 of this title for twice failing of selection for promotion tothe next higher grade is not entitled to separation pay under this section if the officer requested in writing or otherwise sought not to be selected for promotion, or requested removal from the list of selectees.
+(d) Notwithstanding subsections (a) and (b), an officer discharged under chapter 11 of this title for twice failing of selection for promotion to the next higher grade is not entitled to separation pay under this section if the officer requested in writing or otherwise sought not to be selected for promotion, or requested removal from the list of selectees.
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 185; amended Pub. L. 107–295, title IV, §416(a)(3), Nov. 25, 2002, 116 Stat. 2121.)
 
@@ -21,8 +21,4 @@ Pub. L. 107–295, title IV, §416(c), Nov. 25, 2002, 116 Stat. 2122, provided t
 #### Interim Authority for Selection of Commanders and Captains for Continuation on Active Duty
 
 Section 3(p) of Pub. L. 88–130 authorized officers who failed of selection for continuation to request their discharge with severance pay computed in accordance with this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 283, 327 of this title.
 

@@ -14,7 +14,7 @@ Notwithstanding any other provision of law, the tribe and the members of the tri
 
 #### (d) Effect on property rights and other obligations
 
-Except as otherwise specifically provided in this subchapter, the enactment of this subchapter shall not affect any property right or obligation or any contractual right or obligation in existence before August 18, 1987, or any obligation for taxes levied before August 18, 1987.
+Except as otherwise specifically provided in this subchapter, the enactment of this subchapter shall not affect any property right orobligation or any contractual right or obligation in existence before August 18, 1987, or any obligation for taxes levied before August 18, 1987.
 
 (Pub. L. 100–89, title II, §203, Aug. 18, 1987, 101 Stat. 670.)
 
@@ -23,8 +23,4 @@ Except as otherwise specifically provided in this subchapter, the enactment of t
 Act of June 18, 1934, referred to in subsec. (a), popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
 Act approved August 23, 1954, referred to in subsec. (b), was in the original a reference to the Act entitled “An Act to provide for the termination of Federal supervision over the property of the Alabama and Coushatta Tribes of Indians of Texas, and the individual members thereof; and for other purposes” and approved August 23, 1954, which is classified generally to subchapter XXXI (§721 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 734 of this title.
 

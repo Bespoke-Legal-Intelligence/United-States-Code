@@ -10,7 +10,7 @@ Based on title 14, U.S.C., 1946 ed., §15b (Apr. 16, 1937, ch. 107, §1, 50 Stat
 
 Said section has been divided. That part of the first sentence which provides for the composition of the teaching staff is incorporated in section 187 of this title. The other provisions are incorporated in this section, except for the proviso which has been omitted as no longer needed.
 
-This section incorporates the following changes because of the new plan for the permanent teaching staff: the President is authorized to appoint a candidate to any of the grades prescribed; and the probationary term, applicable unless the candidate has served in the Coast Guard as prescribed in this section, is increased from two to four years. Authorization for appointment in any grade is deemed desirable in order to permit the acquisition of outstanding instructors for the staff. It is believed that the former two-year period was too short to fully evaluate the capabilities of a temporary appointee. 81st Congress, House Report No. 557.
+This section incorporates the following changes because of the new plan for the permanent teaching staff: the President is authorized to appoint a candidate to any of the grades prescribed; and the probationaryterm, applicable unless the candidate has served in the Coast Guard as prescribed in this section, is increased from two to four years. Authorization for appointment in any grade is deemed desirable in order to permit the acquisition of outstanding instructors for the staff. It is believed that the former two-year period was too short to fully evaluate the capabilities of a temporary appointee. 81st Congress, House Report No. 557.
 
 #### Amendments
 

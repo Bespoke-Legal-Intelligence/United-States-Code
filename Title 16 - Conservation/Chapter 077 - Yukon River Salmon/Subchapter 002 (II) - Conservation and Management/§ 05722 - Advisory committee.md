@@ -2,7 +2,7 @@
 
 #### (a) Appointments
 
-The Governor of Alaska may establish and appoint an advisory committee of not less than eight, but not more than 12, individuals who are knowledgeable and experienced with regard to the salmon fisheries on the Yukon River. At least two of the advisory committee members shall be Alaska Natives. Members of the advisory committee may attend all meetings of the Panel, and shall be given the opportunity to examine and be heard on any matter under consideration by the Panel.
+The Governor of Alaska may establish and appoint an advisory committee of not less than eight, but not more than 12, individuals who are knowledgeable and experienced with regard to the salmon fisheries on the Yukon River. Atleast two of the advisory committee members shall be Alaska Natives. Members of the advisory committee may attend all meetings of the Panel, and shall be given the opportunity to examine and be heard on any matter under consideration by the Panel.
 
 #### (b) Compensation
 
@@ -17,8 +17,4 @@ Members of such advisory committee shall serve 2-year terms. Any individual appo
 Members of such advisory committee shall be eligible for reappointment.
 
 (Pub. L. 106–450, title II, §203, Nov. 7, 2000, 114 Stat. 1943.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5723, 5725, 5727 of this title.
 

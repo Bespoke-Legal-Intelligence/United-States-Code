@@ -20,7 +20,7 @@ The Secretary may designate anti-terrorism technologies that qualify for protect
 
 &emsp;(6) Evaluation of all scientific studies that can be feasibly conducted in order to assess the capability of the technology to substantially reduce risks of harm.
 
-&emsp;(7) Anti-terrorism technology that would be effective in facilitating the defense againstacts of terrorism, including technologies that prevent, defeat or respond to such acts.
+&emsp;(7) Anti-terrorism technology that would be effective in facilitating the defense against acts of terrorism, including technologies that prevent, defeat or respond to such acts.
 
 #### (c) Regulations
 
@@ -31,8 +31,4 @@ The Secretary may issue such regulations, after notice and comment in accordance
 #### Short Title
 
 For short title of this part as the “Support Anti-terrorism by Fostering Effective Technologies Act of 2002” or the “SAFETY Act”, see section 861 of Pub. L. 107–296, set out as a Short Title note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 457 of this title.
 

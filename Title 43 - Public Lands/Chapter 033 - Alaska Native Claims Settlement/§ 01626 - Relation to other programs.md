@@ -36,7 +36,7 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 #### (e) Minority and economically disadvantaged status
 
-(1) For all purposes of Federal law, a Native Corporation shall be considered to be a corporation owned and controlled by Natives and a minority and economically disadvantaged business enterprise if the Settlement Common Stock of the corporation and other stock of the corporation held by holders of Settlement Common Stock and by Natives and descendants of Natives, represents a majority of both the total equity of the corporation and the total voting power of the corporation for the purposes of electing directors.
+(1) For all purposes of Federal law, a Native Corporation shall be considered to be a corporation owned and controlled by Natives and a minority and economically disadvantaged business enterprise if the Settlement Common Stock of the corporation and other stock of the corporation held by holders of Settlement CommonStock and by Natives and descendants of Natives, represents a majority of both the total equity of the corporation and the total voting power of the corporation for the purposes of electing directors.
 
 (2) For all purposes of Federal law, direct and indirect subsidiary corporations, joint ventures, and partnerships of a Native Corporation qualifying pursuant to paragraph (1) shall be considered to be entities owned and controlled by Natives and a minority and economically disadvantaged business enterprise if the shares of stock or other units of ownership interest in any such entity held by such Native Corporation and by the holders of its Settlement Common Stock represent a majority of both—
 
@@ -97,10 +97,6 @@ Subsec. (c)(3)(B). Pub. L. 105–333, §5(2), inserted before semicolon at end �
 Subsec. (g). Pub. L. 102–415, §11, substituted “of entities excluded from the definition of ‘employer’ by” for “defined in” and “section 701(b)(1)” for “section 701(b)”.
 
 1988—Subsecs. (c) to (g). Pub. L. 100–241 added subsecs. (c) to (g).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 632.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

@@ -26,7 +26,7 @@
 
 &emsp;(E) Recommendations for such other geriatric services, extended-care services, and other health-care services as may be needed to meet the needs of older veterans.
 
-(2) Whenever the Committee submits a report to the Secretary under paragraph (1), the Committee shall at the same time transmit a copy of the report in the same form to the appropriate committees of Congress. Not later than 90 days after receipt of a report under that paragraph,the Secretary shall submit to the appropriate committees of Congress a report containing any comments and recommendations of the Secretary with respect to the report of the Committee.
+(2) Whenever the Committee submits a report to the Secretary under paragraph (1), the Committee shall at the same time transmit a copy of the report in the same form to the appropriate committees of Congress. Not later than 90 days after receipt of a report under that paragraph, the Secretary shall submit to the appropriate committees of Congress a report containing any comments and recommendations of the Secretary with respect to the report of the Committee.
 
 (Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 217; amended Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 102–405, title I, §102, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1973, 1984; Pub. L. 103–446, title XII, §§1201(i)(9), 1202(b)(2), Nov. 2, 1994, 108 Stat. 4688, 4689; Pub. L. 107–330, title III, §308(g)(13), Dec. 6, 2002, 116 Stat. 2829.)
 

@@ -16,7 +16,3 @@ R.S. §5191 derived from act June 3, 1864, ch. 106, §31, 13 Stat. 108, which wa
 
 Central reserve cities terminated, see section 3(b) of Pub. L. 86–114, July 28, 1959, 73 Stat. 263 set out as a note under section 141 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 248, 1424, 1828 of this title.
-

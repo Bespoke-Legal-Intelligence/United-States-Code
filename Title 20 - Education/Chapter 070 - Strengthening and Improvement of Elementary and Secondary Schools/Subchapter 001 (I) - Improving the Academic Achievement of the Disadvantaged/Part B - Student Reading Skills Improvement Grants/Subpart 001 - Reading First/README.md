@@ -1,9 +1,5 @@
 subpart 1—reading first
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 6302, 6372, 7881 of this title.
-
 
 ---
 

@@ -16,7 +16,3 @@ This Act, referred to in par. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 
 
 See note set out under section 1763 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1764 of this title.
-

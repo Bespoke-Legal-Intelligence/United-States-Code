@@ -22,7 +22,3 @@ Reference to Administrator of Veterans’ Affairs deemed to refer to Secretary o
 
 Amendment by Pub. L. 94–205 effective Jan. 2, 1976, with the Secretary authorized to suspend for up to 180 days from Jan. 2, 1976, any provision of this section as amended by Pub. L. 94–205, see section 12 of Pub. L. 94–205, set out as a note under section 2602 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2604, 2609, 2610 of this title.
-

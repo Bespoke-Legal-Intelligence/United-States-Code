@@ -28,7 +28,7 @@
 
 #### (2) Removal of sanctions
 
-&emsp;Upon suspending or terminating any action imposed under the authority of subsection (a) of this section, the President shall report to the committees described in paragraph (1) on such suspension or termination.
+&emsp;Upon suspending or terminating any action imposed under the authority of subsection (a)of this section, the President shall report to the committees described in paragraph (1) on such suspension or termination.
 
 #### (3) Submission of classified information
 
@@ -67,8 +67,4 @@ Nothing in this section shall be construed as precluding judicial review of the 
 #### Codification
 
 Section is comprised of section 111 of Pub. L. 106–386. Subsec. (d) of section 111 of Pub. L. 106–386 amended section 1182 of Title 8, Aliens and Nationality.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 8 section 1182.
 

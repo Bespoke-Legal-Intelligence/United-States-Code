@@ -48,7 +48,3 @@ In subsection (a), before clause (1), the words “individual or joint” are om
 
 In subsection (b), the words “opportunity for a” are added for consistency in the revised title and with other titles of the United States Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40109, 41310, 41503, 46301 of this title.
-

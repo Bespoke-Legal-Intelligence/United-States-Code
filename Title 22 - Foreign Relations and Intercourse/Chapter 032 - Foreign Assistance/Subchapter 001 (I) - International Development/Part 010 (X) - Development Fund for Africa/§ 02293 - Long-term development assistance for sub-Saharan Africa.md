@@ -118,7 +118,7 @@ The critical sectoral priorities for long-term development, as described in subs
 
 #### (j) Minimum levels of assistance for certain critical sectors
 
-The Agency for International Development should target the equivalent of 10 percent of the amount authorized to be appropriated for each fiscal year to carry out this part for each of the following:
+The Agency for International Development should target the equivalent of 10 percent of theamount authorized to be appropriated for each fiscal year to carry out this part for each of the following:
 
 &emsp;(1) The activities described in subsection (i)(1)(B) of this section, including identifiable components of agricultural production projects.
 
@@ -162,7 +162,7 @@ Funds made available to carry out this section may be used to assist the governm
 
 #### (1) Authority to provide assistance
 
-&emsp;To the extent funds are provided for such purpose in the annual Foreign Operations, Export Financing, and Related Programs Appropriations Act, funds made available to carry out this part may be used to assist sector projects, in the sectors specified in paragraph\(2), that are supported by the Southern Africa Development Coordination Conference (SADCC) to enhance the economic development of the member states forming that regional institution.
+&emsp;To the extent funds are provided for such purpose in the annual Foreign Operations, Export Financing, and Related Programs Appropriations Act, funds made available to carry out this part may be used to assist sector projects, in the sectors specified in paragraph (2), that are supported by the Southern Africa Development Coordination Conference (SADCC) to enhance the economic development of the member states forming that regional institution.
 
 #### (2) Sectors
 
@@ -232,7 +232,7 @@ Findings.—Congress finds the following:
 
 “(b)
 
-Declaration of Policy.—It is the policy of the United States, consistent with title XII of part I of the Foreign Assistance Act of 1961 \[probably means title XII of chapter 2 of part I of the Foreign Assistance Act of 1961, 22 U.S.C. 2220a et seq.\], to support governments of sub-Saharan African countries, United States and African nongovernmental organizations, universities,businesses, and international agencies, to help ensure the availability of basic nutrition and economic opportunities for individuals in sub-Saharan Africa, through sustainable agriculture and rural development.”
+Declaration of Policy.—It is the policy of the United States, consistent with title XII of part I of the Foreign Assistance Act of 1961 \[probably means title XII of chapter 2 of part I of the Foreign Assistance Act of 1961, 22 U.S.C. 2220a et seq.\], to support governments of sub-Saharan African countries, United States and African nongovernmental organizations, universities, businesses, and international agencies, to help ensure the availability of basic nutrition and economic opportunities for individuals in sub-Saharan Africa, through sustainable agriculture and rural development.”
 
 Pub. L. 105–385, title I, Nov. 13, 1998, 112 Stat. 3462, provided that:
 
@@ -363,10 +363,6 @@ Section 562(c) of Pub. L. 101–513 provided that: “As part of the annual Cong
 &emsp;“(4) program assistance provided, including the amounts obligated, the criteria used for assisting reforms, and the provisions made pursuant to section 496(h)(2)(B) to protect vulnerable groups from possible negative consequences of the reforms; and
 
 &emsp;“(5) a description of the assistance for the critical sector priorities specified in section 496(i), by sector, including the amounts obligated.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2294 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “has”.</i>
 

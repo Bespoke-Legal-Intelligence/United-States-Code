@@ -10,7 +10,3 @@
 
 (Pub. L. 98–480, title II, §203, Oct. 17, 1984, 98 Stat. 2245.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 130aa–5 of this title.
-

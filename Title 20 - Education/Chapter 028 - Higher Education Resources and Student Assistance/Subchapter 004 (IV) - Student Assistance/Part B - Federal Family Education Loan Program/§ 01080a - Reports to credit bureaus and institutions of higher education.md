@@ -42,7 +42,7 @@ Notwithstanding paragraphs (4) and (6) <sup>1</sup> of subsection (a) of sectio
 
 &emsp;(2) 7 years from the date the Secretary, guaranty agency, eligible lender, or subsequent holder first reported the account to the consumer reporting agency; or
 
-&emsp;(3) in the case of a borrower who reenters repayment after defaulting on a loan and subsequently goes into default on such loan, 7 yearsfrom the date the loan entered default such subsequent time.
+&emsp;(3) in the case of a borrower who reenters repayment after defaulting on a loan and subsequently goes into default on such loan, 7 years from the date the loan entered default such subsequent time.
 
 (Pub. L. 89–329, title IV, §430A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1398; amended Pub. L. 100–50, §10(v), June 3, 1987, 101 Stat. 346; Pub. L. 102–325, title IV, §424, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(c)(52), Dec. 20, 1993, 107 Stat. 2467.)
 
@@ -71,10 +71,6 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1077, 1078–3, 1087cc of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

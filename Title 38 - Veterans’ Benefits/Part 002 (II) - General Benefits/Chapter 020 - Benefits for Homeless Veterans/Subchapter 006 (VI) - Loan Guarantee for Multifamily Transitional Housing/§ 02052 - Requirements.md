@@ -44,7 +44,7 @@
 
 (c) Such a project—
 
-&emsp;(1) may include space for neighborhood retail services or job training programs; and
+&emsp;(1) may include space for neighborhood retail services, other commercial activities, or job training programs; and
 
 &emsp;(2) may provide transitional housing to veterans who are not homeless and to homeless individuals who are not veterans if—
 
@@ -60,7 +60,7 @@
 
 &emsp;(2) the extent to which needs of homeless veterans are met in a community, as assessed under section 107 of Public Law 102–405.
 
-(Added Pub. L. 105–368, title VI, §601(a), Nov. 11, 1998, 112 Stat. 3343, §3773; renumbered §2052 and amended Pub. L. 107–95, §5(d)(1), (2)(C), Dec. 21, 2001, 115 Stat. 918.)
+(Added Pub. L. 105–368, title VI, §601(a), Nov. 11, 1998, 112 Stat. 3343, §3773; renumbered §2052 and amended Pub. L. 107–95, §5(d)(1), (2)(C), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–454, title IV, §402(b), Dec. 10, 2004, 118 Stat. 3616.)
 
 #### References in Text
 
@@ -68,11 +68,9 @@ Section 107 of Public Law 102–405, referred to in subsec. (d)(2), is set out a
 
 #### Amendments
 
+2004—Subsec. (c)(1). Pub. L. 108–454 substituted “services, other commercial activities,” for “services”.
+
 2001—Pub. L. 107–95, §5(d)(1), renumbered section 3773 of this title as this section.
 
 Subsec. (a). Pub. L. 107–95, §5(d)(2)(C), substituted “section 2051 of this title” for “section 3772 of this title” in introductory provisions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2051 of this title.
 

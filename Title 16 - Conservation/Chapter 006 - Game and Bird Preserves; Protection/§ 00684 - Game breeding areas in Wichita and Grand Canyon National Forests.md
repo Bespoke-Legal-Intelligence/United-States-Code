@@ -16,7 +16,3 @@ The entire Wichita National Forest was designated a Game Preserve by Proclamatio
 
 The Grand Canyon National Game Preserve was established by Proclamation of Nov. 28, 1906 (34 Stat. 3263), enlarged by Proclamation of June 23, 1908 (35 Stat. 2192), and diminished by Proclamation of June 3, 1909 (36 Stat. 2496). The lands of the Grand Canyon National Forest were divided among and combined with those of the Coconino and Kaibab National Forests by Proclamation of July 2, 1908 (35 Stat. 2196).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 685, 686, 687 of this title.
-

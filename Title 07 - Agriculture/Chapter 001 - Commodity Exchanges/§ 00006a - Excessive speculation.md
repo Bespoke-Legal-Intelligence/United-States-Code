@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 102–546, §402(2)(B), (C), redesignated par. (3) as subse
 
 Subsecs. (d), (e). Pub. L. 102–546, §402(2)(C), redesignated pars. (4) and (5) as subsecs. (d) and (e), respectively.
 
-1983—Par. (1). Pub. L. 97–444, §205(1), (2), substituted “by rule, regulation, or order, proclaim” for “by order, proclaim” and inserted “or for different number of days remaining until the last day of trading in a contract,” after “delivery months”.
+1983—Par. (1). Pub. L. 97–444, §205(1), (2), substituted “by rule, regulation, or order, proclaim” for “by order,proclaim” and inserted “or for different number of days remaining until the last day of trading in a contract,” after “delivery months”.
 
 Par. (2). Pub. L. 97–444, §205(1), (3), substituted “after the promulgation of the rule, regulation, or order” for “after the order's promulgation” in provisions before subpar. (A) and substituted “rule, regulation, or order” for “order” in provisions before subpar. (A) and in subpars. (A) and (B).
 
@@ -96,7 +96,7 @@ For effective date of section, see section 13 of act June 15, 1936, set out as a
 
 #### Regulations Defining Bona Fide Hedging Transactions and Positions
 
-Section 404 of Pub. L. 93–463 provided in part: “That notwithstanding any other provision of law, the Secretary of Agriculture, immediately upon the enactment of the Commodity Futures Trading Commission Act of 1974 \[which was approved on Oct. 23, 1974\], is authorized and directed to promulgate regulations defining bonafide hedging transactions and positions: <i>And provided further</i>, That until the Secretary issues such regulations defining bona fide hedging transactions and positions and such regulations are in full force and effect, such terms shall continue to be defined as set forth in the Commodity Exchange Act \[par. (3) of this section\] prior to its amendment by the Commodity Futures Trading Commission Act of 1974 \[Pub. L. 93–463\].”
+Section 404 of Pub. L. 93–463 provided in part: “That notwithstanding any other provision of law, the Secretary of Agriculture, immediately upon the enactment of the Commodity Futures Trading Commission Act of 1974 \[which was approved on Oct. 23, 1974\], is authorized and directed to promulgate regulations defining bona fide hedging transactions and positions: <i>And provided further</i>, That until the Secretary issues such regulations defining bona fide hedging transactions and positions and such regulations are in full force and effect, such terms shall continue to be defined as set forth in the Commodity Exchange Act \[par. (3) of this section\] prior to its amendment by the Commodity Futures Trading Commission Act of 1974 \[Pub. L. 93–463\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

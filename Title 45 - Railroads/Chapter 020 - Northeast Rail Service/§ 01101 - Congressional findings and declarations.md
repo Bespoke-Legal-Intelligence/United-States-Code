@@ -26,7 +26,3 @@ Section 1169 of subtitle E (§§1131–1169) of title XI of Pub. L. 97–35 prov
 
 Section 1131 of subtitle E (§§1131–1169) of title XI of Pub. L. 97–35 provided that: “This subtitle \[enacting this chapter, and sections 159a, 581 to 590, 727 to 729, 744a, 748, 761 to 769c, and 797 to 797m of this title, amending sections 601, 702, 711 to 713, 724, 741, 743, 745, 821, 825, and 829 of this title, repealing sections 771 to 780, 910, and 1006 of this title, and enacting provisions set out as notes under sections 744a, 771, and 1101 of this title\] may be cited as the ‘Northeast Rail Service Act of 1981’.”
 
-#### Act Referred to in Other Sections
-
-The Northeast Rail Service Act of 1981 is referred to in section 797d of this title.
-

@@ -86,9 +86,5 @@ Amendment by Pub. L. 99–556 effective Jan. 1, 1987, and applicable to any indi
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2512, 4054, 4063 of this title.
-
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

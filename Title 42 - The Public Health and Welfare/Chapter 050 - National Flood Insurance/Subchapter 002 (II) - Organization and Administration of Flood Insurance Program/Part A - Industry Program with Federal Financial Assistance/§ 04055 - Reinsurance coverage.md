@@ -14,7 +14,7 @@ The Director is authorized to negotiate an excess loss agreement, from time to t
 
 #### (d) Submission of excess losses on portfolio basis
 
-All reinsurance claims for losses in excess of losses assumed by the pool shall be submitted ona portfolio basis by such pool in accordance with terms and conditions established by the Director.
+All reinsurance claims for losses in excess of losses assumed by the pool shall be submitted on a portfolio basis by such pool in accordance with terms and conditions established by the Director.
 
 (Pub. L. 90–448, title XIII, §1335, Aug. 1, 1968, 82 Stat. 583; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
 
@@ -25,8 +25,4 @@ All reinsurance claims for losses in excess of losses assumed by the pool shall 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4017, 4052, 4054, 4127 of this title.
 

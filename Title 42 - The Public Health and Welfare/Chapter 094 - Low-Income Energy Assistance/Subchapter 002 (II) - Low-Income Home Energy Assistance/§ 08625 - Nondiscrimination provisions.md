@@ -6,7 +6,7 @@ No person shall on the ground of race, color, national origin, or sex be exclude
 
 #### (b) Procedures applicable to secure compliance
 
-Whenever the Secretary determines that a State that has received a payment under this subchapter has failed to comply with subsection (a) of this section or an applicable regulation, he shall notify the chief executive officer of the State and shall request him to secure compliance. If within a reasonable period of time, not to exceed 60 days, the chief executive officer fails or refuses to secure compliance, the Secretary is authorized to (1) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted; (2) exercise the powers and functions provided bytitle VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], or section 794 of title 29, as may be applicable; or (3) take such other action as may be provided by law.
+Whenever the Secretary determines that a State that has received a payment under thissubchapter has failed to comply with subsection (a) of this section or an applicable regulation, he shall notify the chief executive officer of the State and shall request him to secure compliance. If within a reasonable period of time, not to exceed 60 days, the chief executive officer fails or refuses to secure compliance, the Secretary is authorized to (1) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted; (2) exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], or section 794 of title 29, as may be applicable; or (3) take such other action as may be provided by law.
 
 #### (c) Maintenance of civil actions
 
@@ -19,8 +19,4 @@ When a matter is referred to the Attorney General pursuant to subsection (b) of 
 The Age Discrimination Act of 1975, referred to in subsecs. (a) and (b), is title III of Pub. L. 94–135, Nov. 28, 1975, 78 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8626b of this title.
 

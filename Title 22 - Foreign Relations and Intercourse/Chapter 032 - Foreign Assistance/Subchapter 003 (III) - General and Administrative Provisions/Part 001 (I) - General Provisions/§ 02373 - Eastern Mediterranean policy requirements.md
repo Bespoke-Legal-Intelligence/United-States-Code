@@ -28,7 +28,7 @@ United States policy regarding Cyprus, Greece, and Turkey shall be directed towa
 
 &emsp;(5) The United States shall use its influence to ensure the continuation of the ceasefire on Cyprus until an equitable negotiated settlement is reached.
 
-&emsp;(6) The United States shall use its influence to achieve the withdrawal of Turkish military forces from Cyprus in the context of a solution to the Cyprus problem.
+&emsp;(6) The United States shall use its influence to achieve the withdrawal of Turkish militaryforces from Cyprus in the context of a solution to the Cyprus problem.
 
 #### (c) Review of policy; report to Congress
 
@@ -92,7 +92,7 @@ Findings.—The Congress finds that—
 
 “(b)
 
-Appointment of Special Ambassador.—The President is authorized to appoint a special ambassadorial level envoy who shall be responsible for representing the United States in direct negotiations with the parties to the Cyprus dispute, for representing the United States in negotiations through international intermediaries and, generally, lending the good offices of the United States to the parties in this dispute in order to facilitate a peaceful settlement on Cyprus. As agreed to by Greece and Turkey, the special envoy shall also represent the United States in promoting mutual discussions between those countries concerning their differences on Aegean issues. The special ambassador appointed under this section shall have available the services of two deputies (one to specialize on the Cyprus question, the other on general Aegean issues) and such senior level Department of State personnel as may be required by the special ambassador in order to carry out his responsibilities.
+Appointment of Special Ambassador.—The President is authorized to appoint a special ambassadorial level envoy who shall be responsible for representing the United States in direct negotiations with the parties to the Cyprus dispute, for representing the United States in negotiations through international intermediaries and, generally, lending the good offices of the United States to the parties in this dispute in order to facilitate a peaceful settlement on Cyprus. As agreed to by Greece and Turkey, the special envoy shall also represent the United States in promoting mutual discussions between those countries concerning their differences on Aegean issues. The special ambassador appointed under this section shall have availablethe services of two deputies (one to specialize on the Cyprus question, the other on general Aegean issues) and such senior level Department of State personnel as may be required by the special ambassador in order to carry out his responsibilities.
 
 “(c)
 
@@ -101,10 +101,6 @@ Report.—Not later than June 1, 1988, the President shall submit a report to th
 “(d)
 
 Funding.—Up to $500,000 of the funds appropriated under any heading of this Act \[Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, as enacted by section 101(e) of Pub. L. 101–202\] which are allocated for Greece and up to $500,000 of the funds appropriated under any heading of this Act which are allocated for Turkey, may be used by the Department of State for any administrative costs associated with the activities of the special ambassador and supporting personnel, including transportation, salaries and per diem.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2321j, 2799b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

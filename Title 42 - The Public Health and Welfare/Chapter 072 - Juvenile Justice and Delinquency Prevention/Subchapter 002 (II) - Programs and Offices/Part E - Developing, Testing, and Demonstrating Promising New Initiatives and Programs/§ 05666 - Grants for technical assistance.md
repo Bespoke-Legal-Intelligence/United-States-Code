@@ -10,7 +10,3 @@ A prior section 262 of Pub. L. 93–415 was classified to section 5665a of this 
 
 Another prior section 262 of Pub. L. 93–415 was renumbered section 299A and is classified to section 5672 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13023 of this title.
-

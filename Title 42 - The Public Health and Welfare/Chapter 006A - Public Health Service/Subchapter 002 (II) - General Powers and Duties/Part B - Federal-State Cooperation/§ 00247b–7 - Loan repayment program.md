@@ -36,7 +36,3 @@ Subsec. (c). Pub. L. 105–392, §406(2), substituted “2002” for “1998”.
 
 Subsec. (d). Pub. L. 105–392, §406(3), added subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 256d of this title.
-

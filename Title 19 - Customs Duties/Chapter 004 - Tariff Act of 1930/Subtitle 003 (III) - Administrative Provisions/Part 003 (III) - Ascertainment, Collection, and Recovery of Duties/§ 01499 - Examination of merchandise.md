@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Imported merchandise that is required by law or regulation to be inspected, examined, or appraised shall not be delivered from customs custody (except under such bond or othersecurity as may be prescribed by the Secretary to assure compliance with all applicable laws, regulations, and instructions which the Secretary or the Customs Service is authorized to enforce) until the merchandise has been inspected, appraised, or examined and is reported by the Customs Service to have been truly and correctly invoiced and found to comply with the requirements of the laws of the United States.
+&emsp;Imported merchandise that is required by law or regulation to be inspected, examined, or appraised shall not be delivered from customs custody (except under such bond or other security as may be prescribed by the Secretary to assure compliance with all applicable laws, regulations, and instructions which the Secretary or the Customs Service is authorized to enforce) until the merchandise has been inspected, appraised, or examined and is reported by the Customs Service to have been truly and correctly invoiced and found to comply with the requirements of the laws of the United States.
 
 #### (2) Examination
 
@@ -64,7 +64,7 @@
 
 &emsp;Testing procedures and methodologies used by the Customs Service, and information resulting from any testing conducted by the Customs Service, shall be made available as follows:
 
-&emsp;&emsp;(A) Testing procedures and methodologies shall be made available upon request to anyperson unless the procedures or methodologies are—
+&emsp;&emsp;(A) Testing procedures and methodologies shall be made available upon request to any person unless the procedures or methodologies are—
 
 &emsp;&emsp;&emsp;(i) proprietary to the holder of a copyright or patent related to such procedures or methodologies, or
 
@@ -116,7 +116,7 @@ Except in the case of merchandise with respect to which the determination of adm
 
 #### (5) Effect of failure to make determination
 
-&emsp;(A) The failure by the Customs Service to make a final determination with respect to the admissibility of detained merchandise within 30 days after the merchandise has been presented for customs examination, or such longer period if specifically authorized by law, shall be treated as a decision of the Customs Service to exclude the merchandise for purposes of section 1514(a)(4) of this title.
+&emsp;(A) The failure by the Customs Service to make a final determination with respect to the admissibility of detained merchandise within 30 days after the merchandise has been presented for customs examination, or such longer period if specifically authorized by law,shall be treated as a decision of the Customs Service to exclude the merchandise for purposes of section 1514(a)(4) of this title.
 
 &emsp;(B) For purposes of section 1581 of title 28, a protest against the decision to exclude the merchandise which has not been allowed or denied in whole or in part before the 30th day after the day on which the protest was filed shall be treated as having been denied on such 30th day.
 
@@ -165,8 +165,4 @@ Functions of all other officers of Department of the Treasury and functions of a
 #### Existing Laboratories
 
 Section §613(b) of Pub. L. 103–182 provided that: “Accreditation under section 499(b) of the Tariff Act of 1930 \[19 U.S.C. 1499(b)\] (as added by subsection (a)) is not required for any private laboratory (including any gauger) that was accredited or approved by the Customs Service as of the day before the date of the enactment of this Act \[Dec. 8, 1993\]; but any such laboratory is subject to reaccreditation under the provisions of such section and the regulations promulgated thereunder.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1595a of this title; title 15 section 1198; title 28 sections 1581, 2631, 2636, 2640, 2642.
 

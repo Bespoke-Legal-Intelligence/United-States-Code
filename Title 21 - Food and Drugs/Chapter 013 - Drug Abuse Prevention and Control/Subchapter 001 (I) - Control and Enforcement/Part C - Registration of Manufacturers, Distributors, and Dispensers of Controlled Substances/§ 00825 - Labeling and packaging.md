@@ -2,7 +2,7 @@
 
 #### (a) Symbol
 
-It shall be unlawful to distribute a controlled substance in a commercial container unless such container, when and as required by regulations of the Attorney General, bears a label (as defined in section 321(k) of this title) containing an identifying symbol for such substance in accordance with such regulations. A different symbol shall be required for each schedule of controlled substances.
+It shall be unlawful to distribute a controlled substance in a commercial container unless suchcontainer, when and as required by regulations of the Attorney General, bears a label (as defined in section 321(k) of this title) containing an identifying symbol for such substance in accordance with such regulations. A different symbol shall be required for each schedule of controlled substances.
 
 #### (b) Unlawful distribution without identifying symbol
 
@@ -25,8 +25,4 @@ Schedules I, II, III, and IV, referred to in subsecs. (c) and (d), are set out i
 #### Effective Date
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, but with Attorney General authorized to postpone such effective date for such period as he might determine to be necessary for the efficient administration of this subchapter, see section 704(c) of Pub. L. 91–513, set out as a note under section 801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 842, 958 of this title.
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) section 233 of the Bank Enterprise Act of 1991 \[12 U.S.C. 1834a\] shall be applicable to the Administrator, for purposes of this section, in the same manner and to the same extent that such section is applicable to the Community Enterprise Assessment Credit Board;
 
-&emsp;&emsp;(B) the Administrator shall, for purposes of carrying out this section and section 233of the Bank Enterprise Act of 1991 \[12 U.S.C. 1834a\]—
+&emsp;&emsp;(B) the Administrator shall, for purposes of carrying out this section and section 233 of the Bank Enterprise Act of 1991 \[12 U.S.C. 1834a\]—
 
 &emsp;&emsp;&emsp;(i) have all powers and rights of the Community Enterprise Assessment Credit Board under section 233 of the Bank Enterprise Act of 1991 to administer and enforce any provision of such section 233 which is applicable to the Administrator under this section; and
 
@@ -94,13 +94,9 @@
 
 The Bank Enterprise Act of 1991, referred to in subsecs. (a)(2), (5) and (b)(6), is subtitle C (§§231–234) of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2308–2315, which enacted sections 1834 to 1834b of this title, amended section 1817 of this title, and enacted provisions set out as a note under section 1811 of this title. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of this title and Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (a)(5), is act Sept. 21, 1950, ch. 967, §2, 64 Stat.873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (a)(5), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 #### Codification
 
 Section is comprised of section 114 of Pub. L. 103–325. Subsec. (c) of section 114 of Pub. L. 103–325 amended section 1834a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4718 of this title.
 

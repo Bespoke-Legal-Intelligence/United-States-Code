@@ -22,7 +22,3 @@ The aggregate amount of loans and advances insured under this section shall not 
 
 (Pub. L. 94–50, title I, §105, July 2, 1975, 89 Stat. 251.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2703, 2705, 2706 of this title.
-

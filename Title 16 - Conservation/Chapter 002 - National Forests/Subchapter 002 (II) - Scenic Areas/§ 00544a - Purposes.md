@@ -8,7 +8,3 @@ The purposes of sections 544 to 544p of this title are—
 
 (Pub. L. 99–663, §3, Nov. 17, 1986, 100 Stat. 4276.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 544, 544b to 544i, 544<i>l</i> to 544p of this title.
-

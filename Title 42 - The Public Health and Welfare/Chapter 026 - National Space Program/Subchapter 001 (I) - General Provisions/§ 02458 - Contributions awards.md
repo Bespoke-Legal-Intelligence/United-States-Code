@@ -14,7 +14,7 @@ Subject to the provisions of this section, the Administrator is authorized, upon
 
 #### (b) Apportionment of awards; surrender of claims to compensation; limitation on amount; reports to Congressional committees
 
-If more than one applicant under subsection (a) of this section claims an interest in the samecontribution, the Administrator shall ascertain and determine the respective interests of such applicants, and shall apportion any award to be made with respect to such contribution among such applicants in such proportions as he shall determine to be equitable. No award may be made under subsection (a) of this section with respect to any contribution—
+If more than one applicant under subsection (a) of this section claims an interest in the same contribution, the Administrator shall ascertain and determine the respective interests of such applicants, and shall apportion any award to be made with respect to such contribution among such applicants in such proportions as he shall determine to be equitable. No award may be made under subsection (a) of this section with respect to any contribution—
 
 &emsp;(1) unless the applicant surrenders, by such means as the Administrator shall determine to be effective, all claims which such applicant may have to receive any compensation (other than the award made under this section) for the use of such contribution or any element thereof at any time by or on behalf of the United States, or by or on behalf of any foreign government pursuant to any treaty or agreement with the United States, within the United States or at any other place;
 

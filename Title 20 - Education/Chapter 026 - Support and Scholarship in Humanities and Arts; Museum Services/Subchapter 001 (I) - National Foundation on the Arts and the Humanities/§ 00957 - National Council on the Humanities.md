@@ -6,7 +6,7 @@ There is established in the National Endowment for the Humanities a National Cou
 
 #### (b) Composition; basis for selection of members; representation of interests; recommendations of national organizations
 
-The Council shall be composed of the Chairperson of the National Endowment for the Humanities, who shall be the Chairperson of the Council, and twenty-six other members appointed by the President, by and with the advice and consent of the Senate, from private life. Such members shall be individuals who (1) are selected from among private citizens of the United States who are recognized for their broad knowledge of, expertise in, or commitment to the humanities, and (2) have established records of distinguished service and scholarship or creativity and in a manner which will provide a comprehensive representation of the views of scholars and professional practitioners in the humanities and of the public throughout the United States. The President is requested in the making of such appointments to give consideration to such recommendations as may from time to time be submitted to him by leading national organizations concerned with the humanities. In making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the humanities.
+The Council shall be composed of the Chairperson of the National Endowment for the Humanities, who shall be the Chairperson of the Council, and twenty-six other members appointed by the President, by and with the advice and consent of the Senate, from private life. Such members shall be individuals who (1) are selected from among private citizens of the United States who are recognized for their broad knowledge of, expertise in, or commitment to the humanities, and (2) have established records of distinguished service and scholarship or creativity and in a manner which will provide a comprehensive representation of the views of scholars and professional practitioners in the humanities and of the public throughout theUnited States. The President is requested in the making of such appointments to give consideration to such recommendations as may from time to time be submitted to him by leading national organizations concerned with the humanities. In making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the humanities.
 
 #### (c) Term of office; vacancies; reappointment
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 93–133 effective on and after July 1, 1973, see section 2
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 959 of this title.
 

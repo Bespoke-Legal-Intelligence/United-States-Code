@@ -12,7 +12,7 @@ This section does not affect the authority of any institution of the Farm Credit
 
 &emsp;(2) to cancel borrower stock at par value under section 2202b of this title; or
 
-&emsp;(3) to apply, against any outstanding indebtedness to a System association arising out of or in connection with a liquidation referred to in subsection (d)(2) of this section, the par value of borrower stock frozen in such liquidation.
+&emsp;(3) to apply, against any outstanding indebtedness to a System association arising out ofor in connection with a liquidation referred to in subsection (d)(2) of this section, the par value of borrower stock frozen in such liquidation.
 
 #### (c) Inability to retire stock at par value
 
@@ -77,8 +77,4 @@ Subsec. (d)(2)(B). Pub. L. 100–399, §101(d), in introductory provision substi
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2154a, 2199, 2277a–9, 2278b–6 of this title.
 

@@ -12,21 +12,23 @@
 
 #### (3) Exception
 
-&emsp;The Administrator may waive the requirements of paragraphs (1) and (2) for any fiscal year if the Administrator determines that such quantities of commodities cannot be used effectively to carry out this subchapter or in order to meet an emergency. In making a waiver under this paragraph, the Administrator shall prepare and submit to the Committee on Foreign Affairs and Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the reasons for the waiver. No waiver shall be made before the beginning of the applicable fiscal year.
+&emsp;The Administrator may waive the requirements of paragraphs (1) and (2) for any fiscal year if the Administrator determines that such quantities of commodities cannot be used effectively to carry out this subchapter or in order to meet an emergency. In making a waiver under this paragraph, the Administrator shall prepare and submit to the Committees on International Relations, Agriculture and Appropriations of the House of Representatives, and the Committees on Appropriations and Agriculture, Nutrition, and Forestry of the Senate a report containing the reasons for the waiver. No waiver shall be made before the beginning of the applicable fiscal year.
 
 #### (b) Use of value-added commodities
 
 #### (1) Minimum levels
 
-&emsp;Except as provided in paragraph (2), in making agricultural commodities available under this subchapter, the Administrator shall ensure that not less than 75 percent of the quantity of such commodities required to be distributed during each fiscal year under subsection (a)(2) of this section be in the form of processed, fortified, or bagged commodities and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States.
+&emsp;Except as provided in paragraph (2), in making agricultural commodities available under this subchapter, the Administrator shall ensure that not less than 75 percent of the quantity of such commodities required to be distributed during each fiscal year under subsection (a)(2) of this section be in the form ofprocessed, fortified, or bagged commodities and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States.
 
 #### (2) Waiver of minimum
 
 &emsp;The Administrator may waive the requirement of paragraph (1) for any fiscal year in which the Administrator determines that the requirements of the programs established under this subchapter will not be best served by the enforcement of such requirement under such paragraph.
 
-(July 10, 1954, ch. 469, title II, §204, 68 Stat. 458; Pub. L. 85–128, §1(1), Aug. 13, 1957, 71 Stat. 345; Pub. L. 85–931, §5, Sept. 6, 1958, 72 Stat. 1791; Pub. L. 86–341, title I, §1, Sept. 21, 1959, 73 Stat. 606; Pub. L. 87–128, title II, §202(2), Aug. 8, 1961, 75 Stat. 307; Pub. L. 88–638, §1(15), Oct. 8, 1964, 78Stat. 1037; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1535; Pub. L. 95–113, title XII, §1203, Sept. 29, 1977, 91 Stat. 956; Pub. L. 97–98, title XII, §1212, Dec. 22, 1981, 95 Stat. 1281; Pub. L. 99–198, title XI, §1101, Dec. 23, 1985, 99 Stat. 1465; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3639; Pub. L. 104–127, title II, §209, Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, §3004, May 13, 2002, 116 Stat. 282.)
+(July 10, 1954, ch. 469, title II, §204, 68 Stat. 458; Pub. L. 85–128, §1(1), Aug. 13, 1957, 71 Stat. 345; Pub. L. 85–931, §5, Sept. 6, 1958, 72 Stat. 1791; Pub. L. 86–341, title I, §1, Sept. 21, 1959, 73 Stat. 606; Pub. L. 87–128, title II, §202(2), Aug. 8, 1961, 75 Stat. 307; Pub. L. 88–638, §1(15), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1535; Pub. L. 95–113, title XII, §1203, Sept. 29, 1977, 91 Stat. 956; Pub. L. 97–98, title XII, §1212, Dec. 22, 1981, 95 Stat. 1281; Pub. L. 99–198, title XI, §1101, Dec. 23, 1985, 99 Stat. 1465; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3639; Pub. L. 104–127, title II, §209, Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, §3004, May 13, 2002, 116 Stat. 282; Pub. L. 108–199, div. A, title VII, §758, Jan. 23, 2004, 118 Stat. 38.)
 
 #### Amendments
+
+2004—Subsec. (a)(3). Pub. L. 108–199 substituted “the Committees on International Relations, Agriculture and Appropriations of the House of Representatives, and the Committees on Appropriations and” for “the Committee on Foreign Affairs and Committee on Agriculture of the House of Representatives, and the Committee on”.
 
 2002—Subsec. (a)(1). Pub. L. 107–171, §3004(1), (2), substituted “2002 through 2007” for “1996 through 2002” and “2,500,000 metric tons” for “2,025,000 metric tons”.
 
@@ -80,10 +82,6 @@ Subsec. (b)(1). Pub. L. 104–127, §209(2), inserted before period at end “an
 
 1957—Pub. L. 85–128 extended termination date from June 30, 1957, to June 30, 1958.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under section 1691 of this title.
@@ -103,8 +101,4 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as a note under section 1691 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1736f–1 of this title.
 

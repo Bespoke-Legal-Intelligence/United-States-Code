@@ -13,9 +13,7 @@
 | :--- | ---: |
 | [205\.](%C2%A7%2000205%20-%20Forest%20development%20roads%20and%20trails.md) | Forest development roads and trails. |
 | [206\.](%C2%A7%2000206%20-%20Recreational%20trails%20program.md) | Recreational trails program. |
-| 207\. | Repealed. |
-| 208\. | Repealed. |
-| 209\. | Repealed. |
+| \[207 to 209. | Repealed.\] |
 | [210\.](%C2%A7%2000210%20-%20Defense%20access%20roads.md) | Defense access roads. |
 | \[211. | Repealed.\] |
 | [212\.](%C2%A7%2000212%20-%20Inter-American%20Highway.md) | Inter-American Highway. |
@@ -50,10 +48,6 @@ Pub. L. 97–424, title I, §126(e)(3), Jan. 6, 1983, 96 Stat. 2116, substituted
 1970—Pub. L. 91–605, title I, §§112(b), 113(b), Dec. 31, 1970, 84 Stat. 1721, 1722, added items 215 and 216.
 
 1962—Pub. L. 87–866, §6(c), Oct. 23, 1962, 76 Stat. 1147, added item 214.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 101, 104, 134, 135, 317 of this title; title 49 sections 5303, 5304.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

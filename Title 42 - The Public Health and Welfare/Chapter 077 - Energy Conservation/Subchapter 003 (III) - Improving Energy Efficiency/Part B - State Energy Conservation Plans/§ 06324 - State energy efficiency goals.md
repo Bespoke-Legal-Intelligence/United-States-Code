@@ -10,7 +10,3 @@ Each State energy conservation plan with respect to which assistance is made ava
 
 1978—Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6323a, 6325 of this title.
-

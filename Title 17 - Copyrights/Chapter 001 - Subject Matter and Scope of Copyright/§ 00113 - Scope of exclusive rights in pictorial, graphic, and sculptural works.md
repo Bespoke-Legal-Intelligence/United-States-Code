@@ -22,7 +22,7 @@
 
 > For purposes of subparagraph (A), an owner shall be presumed to have made a diligent, good faith attempt to send notice if the owner sent such notice by registered mail to the author at the most recent address of the author that was recorded with the Register of Copyrights pursuant to paragraph (3). If the work is removed at the expense of the author, title to that copy of the work shall be deemed to be in the author.
 
-(3) The Register of Copyrights shall establish a system of records whereby any author of a work of visual art that has been incorporated in ormade part of a building, may record his or her identity and address with the Copyright Office. The Register shall also establish procedures under which any such author may update the information so recorded, and procedures under which owners of buildings may record with the Copyright Office evidence of their efforts to comply with this subsection.
+(3) The Register of Copyrights shall establish a system of records whereby any author of a work of visual art that has been incorporated in or made part of a building, may record his or her identity and address with the Copyright Office. The Register shall also establish procedures under which any such author may update the information so recorded, and procedures under which owners of buildings may record with the Copyright Office evidence of their efforts to comply with this subsection.
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2560; Pub. L. 101–650, title VI, §604, Dec. 1, 1990, 104 Stat. 5130.)
 
@@ -36,7 +36,7 @@ The broad language of section 106(1) and of subsection (a) of section 113 raises
 
 The 1961 Report of the Register of Copyrights stated, on the basis of judicial precedent, that “copyright in a pictorial, graphic, or sculptural work, portraying a useful article as such, does not extend to the manufacture of the useful article itself,” and recommended specifically that “the distinctions drawn in this area by existing court decisions” not be altered by the statute. The Register's Supplementary Report, at page 48, cited a number of these decisions, and explained the insuperable difficulty of finding “any statutory formulation that would express the distinction satisfactorily.” Section 113(b) reflects the Register's conclusion that “the real need is to make clear that there is no intention to change the present law with respect to the scope of protection in a work portraying a useful article as such.”
 
-Section 113(c) provides that it would not be an infringement of copyright, where a copyright work has been lawfully published as the design of useful articles, to make, distribute or display pictures of the articles in advertising, in feature stories about the articles, or in the news reports.
+Section 113(c) provides that it would not be an infringement of copyright, where a copyright work has been lawfully published as the design of useful articles, to make, distribute or display pictures of the articlesin advertising, in feature stories about the articles, or in the news reports.
 
 In conformity with its deletion from the bill of Title II, relating to the protection of ornamental designs of useful articles, the Committee has deleted subsections (b), (c), and (d) of section 113 of S. 22 as adopted by the Senate, since they are no longer relevant.
 
@@ -51,8 +51,4 @@ Section 610(a) of the Visual Artists Rights Act of 1990 \[Pub. L. 101–650\], r
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 106A, 301, 501, 511 of this title; title 18 section 2319.
 

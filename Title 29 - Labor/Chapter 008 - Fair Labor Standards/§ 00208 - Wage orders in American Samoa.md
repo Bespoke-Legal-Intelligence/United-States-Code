@@ -10,7 +10,7 @@ Upon the convening of any such industry committee, the Administrator shall refer
 
 #### (c) Classifications within industry; recommendation of wage rate
 
-The industry committee shall recommend such reasonable classifications within any industry as it determines to be necessary for the purpose of fixing for each classification within such industry the highest minimum wage rate (not in excess of that in effect under paragraph (1) or (5) of section 206(a) of this title (as the case may be)) which (1) will not substantially curtail employment in such classification and (2) will not give a competitive advantage to any group in the industry, and shall recommend for each classification in the industry the highest minimum wage rate which the committee determines will not substantially curtail employment in such classification. In determining whethersuch classification should be made in any industry, in making such classifications, and in determining the minimum wage rates for such classifications, no classifications shall be made, and no minimum wage rate shall be fixed, solely on a regional basis, but the industry committee shall consider among other relevant factors the following:
+The industry committee shall recommend such reasonable classifications within any industry as it determines to be necessary for the purpose of fixing for each classification within such industry the highest minimum wage rate (not in excess of that in effect under paragraph (1) or (5) of section 206(a) of this title (as the case may be)) which (1) will not substantially curtail employment in such classification and (2) will not give a competitive advantage to any group in the industry, and shall recommend for each classification in the industry the highest minimum wage rate which the committee determines will not substantially curtail employment in such classification. In determining whether such classification should be made in any industry, in making such classifications, and in determining the minimum wage rates for such classifications, no classifications shall be made, and no minimum wage rate shall be fixed, solely on a regional basis, but the industry committee shall consider among other relevant factors the following:
 
 &emsp;(1) competitive conditions as affected by transportation, living, and production costs;
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L
 
 #### Effective Date of 1961 Amendment
 
-Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty days after May 5, 1961, except as otherwise provided, see section 14 of Pub. L. 87–30, set out as a note under section 203 of this title.
+Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty days after May 5, 1961,except as otherwise provided, see section 14 of Pub. L. 87–30, set out as a note under section 203 of this title.
 
 #### Effective Date of 1955 Amendment
 
@@ -125,10 +125,6 @@ The term “Administrator” as meaning the Administrator of the Wage and Hour D
 #### Definition of “Secretary”
 
 The term “Secretary” as meaning the Secretary of Labor, see section 6 of act Aug. 12, 1955, set out as a note under section 204 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 205, 206, 210 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

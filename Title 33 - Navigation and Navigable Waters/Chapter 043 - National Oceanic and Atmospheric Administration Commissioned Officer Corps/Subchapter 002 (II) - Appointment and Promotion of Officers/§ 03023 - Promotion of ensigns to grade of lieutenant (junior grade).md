@@ -14,3 +14,7 @@ If an officer in the permanent grade of ensign is at any time found not fully qu
 
 Provisions similar to those in this section were contained in section 853e of this title prior to repeal by Pub. L. 107–372.
 
+#### Delegation of Functions
+
+Functions of President under subsec. (b) of this section delegated to Secretary of Commerce by section 1(a) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
+

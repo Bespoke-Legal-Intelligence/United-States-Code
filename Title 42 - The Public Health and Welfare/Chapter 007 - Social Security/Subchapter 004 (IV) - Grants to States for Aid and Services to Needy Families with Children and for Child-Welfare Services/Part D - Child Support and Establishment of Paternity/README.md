@@ -1,9 +1,5 @@
 Part D—Child Support and Establishment of Paternity
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 405, 503, 602, 603, 609, 616, 671, 1306, 1315, 1320b–7, 1396a, 1396g–1, 1396u–1 of this title; title 7 sections 2014, 2015; title 8 section 1255a; title 10 section 1408; title 11 section 523; title 26 section 6103; title 29 section 49b.
-
 
 ---
 

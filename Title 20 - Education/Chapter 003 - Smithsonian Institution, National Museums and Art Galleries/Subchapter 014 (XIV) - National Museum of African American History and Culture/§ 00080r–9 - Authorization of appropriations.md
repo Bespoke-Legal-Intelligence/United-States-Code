@@ -18,7 +18,3 @@ Amounts appropriated pursuant to the authorization under this section may be use
 
 (Pub. L. 108–184, §11, Dec. 16, 2003, 117 Stat. 2682.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80r–7 of this title.
-

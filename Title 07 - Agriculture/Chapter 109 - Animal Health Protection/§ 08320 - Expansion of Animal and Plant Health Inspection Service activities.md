@@ -34,5 +34,5 @@ There is authorized to be appropriated to carry out this section, $30,000,000 fo
 
 #### Codification
 
-Section was enacted as part of the Public Health Security and Bioterrorism Preparedness and ResponseAct of 2002, and not as part of the Animal Health Protection Act which comprises this chapter.
+Section was enacted as part of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, and not as part of the Animal Health Protection Act which comprises this chapter.
 

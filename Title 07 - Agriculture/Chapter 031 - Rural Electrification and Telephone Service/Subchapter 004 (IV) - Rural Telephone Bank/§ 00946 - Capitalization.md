@@ -2,7 +2,7 @@
 
 #### (a) Federal and borrower subscriptions; Federal limitation; report to President, transmittal to Congress; net collection proceeds
 
-The telephone bank's capital shall consist of capital subscribed by the United States, by borrowers from the telephone bank, by corporations and public bodies eligible to become borrowers from the telephone bank, and by organizations controlled by such borrowers, corporations, and public bodies. Beginning with the fiscal year 1971 and for each fiscal year thereafter but not later than fiscal year 1991, the United States shall furnish capital for the purchase of class A stock and there are hereby authorized to be appropriated such amounts, not to exceed $30,000,000 annually, for such purchase until such class A stock shall equal $600,000,000: <i>Provided</i>, That on or before July 1, 1975, the Secretary shall make a report to the President for transmittal to the Congress on the status of capitalization of the telephone bank by the United States with appropriate recommendations. As used in this section and section 931 of this title, the term “net collection proceeds” shall be deemed to mean payments from and after July 1, 1969, of principal and interest on loans heretofore or hereafter made under section 922 of this title, less an amount representing interest payable to the Secretary of the Treasury on loans to the Secretary for telephone purposes.
+The telephone bank's capital shall consist of capital subscribed by the United States, by borrowers from the telephone bank, by corporations and public bodies eligible to become borrowers from the telephone bank, and by organizations controlled by such borrowers, corporations, andpublic bodies. Beginning with the fiscal year 1971 and for each fiscal year thereafter but not later than fiscal year 1991, the United States shall furnish capital for the purchase of class A stock and there are hereby authorized to be appropriated such amounts, not to exceed $30,000,000 annually, for such purchase until such class A stock shall equal $600,000,000: <i>Provided</i>, That on or before July 1, 1975, the Secretary shall make a report to the President for transmittal to the Congress on the status of capitalization of the telephone bank by the United States with appropriate recommendations. As used in this section and section 931 of this title, the term “net collection proceeds” shall be deemed to mean payments from and after July 1, 1969, of principal and interest on loans heretofore or hereafter made under section 922 of this title, less an amount representing interest payable to the Secretary of the Treasury on loans to the Secretary for telephone purposes.
 
 #### (b) Stock classification; voting stock; one vote rule
 
@@ -26,11 +26,11 @@ If a firm, association, corporation, or public body is not authorized under the 
 
 #### (g) Patronage refunds from remaining earnings after provision for operating expenses, reserves for losses, payments in lieu of taxes, and returns on class A and C stock
 
-After payment of all operating expenses of the telephone bank, including interest on its telephone debentures, setting aside appropriate funds for the reserve for loan losses, and making payments in lieu of taxes, and returns on classA stock as provided in subsection (c) of this section, and on class C stock, the Telephone Bank Board shall annually set aside the remaining earnings of the telephone bank for patronage refunds in accordance with the bylaws of the telephone bank. The telephone bank may not establish any reserve other than the reserves referred to in this subsection and in subsection (h) of this section.
+After payment of all operating expenses of the telephone bank, including interest on its telephone debentures, setting aside appropriate funds for the reserve for loan losses, and making payments in lieu of taxes, and returns on class A stock as provided in subsection (c) of this section, and on class C stock, the Telephone Bank Board shall annually set aside the remaining earnings of the telephone bank for patronage refunds in accordance with the bylaws of the telephone bank. The telephone bank may not establish any reserve other than the reserves referred to in this subsection and in subsection (h) of this section.
 
 #### (h) Reserve for losses due to interest rate fluctuations
 
-There is hereby established in the telephone bank a reserve for losses due to interest rate fluctuations. Within 30 days after December 22, 1987, the Governor of the telephone bank shall transfer to the reserve for losses due to interest rate fluctuations all amounts in the reserve for contingencies as of December 22, 1987. All amounts so transferred shall not be transferred, directly or indirectly, to the reserve for contingencies. Amounts in the reserve for interest rate fluctuations may be expended only to cover operating losses of the telephone bank (other than losses attributable to loan defaults) and only after taking into consideration any recommendations made by the General Accounting Office under section 1413(b) of the Omnibus Budget Reconciliation Act of 1987.
+There is hereby established in the telephone bank a reserve for losses due to interest rate fluctuations. Within 30 days after December 22, 1987, the Governor of the telephone bank shall transfer to the reserve for losses due to interest rate fluctuations all amounts in the reserve for contingencies as of December 22, 1987. All amounts so transferred shall not be transferred, directly or indirectly, to the reserve for contingencies. Amounts in the reserve for interest ratefluctuations may be expended only to cover operating losses of the telephone bank (other than losses attributable to loan defaults) and only after taking into consideration any recommendations made by the General Accounting Office under section 1413(b) of the Omnibus Budget Reconciliation Act of 1987.
 
 #### (i) Investment of RTB Equity Fund
 
@@ -66,6 +66,10 @@ Subsec. (c). Pub. L. 97–98, §1607(2), substituted “September 30, 1995” fo
 
 1973—Subsec. (a). Pub. L. 93–92 struck out “from net collection proceeds in the rural telephone account created under subchapter III of this chapter” after “appropriated”.
 
+#### Change of Name
+
+General Accounting Office redesignated Government Accountability Office by section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
+
 #### Effective Date of 1990 Amendment
 
 Section 2368 of Pub. L. 101–624 provided that:
@@ -89,8 +93,4 @@ Amendment by Pub. L. 93–32 effective May 11, 1973, see section 12 of Pub. L. 9
 #### Effective Date
 
 Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a note under section 921a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 931, 948, 950 of this title.
 

@@ -8,7 +8,7 @@ Section 636a note, act Aug. 6, 1953, ch. 335, §1, 67 Stat. 390, provided that s
 
 Section 636b, act Aug. 6, 1953, ch. 335, §3, 67 Stat. 390, covered the creation of Farm Credit Administration as an independent agency in executive branch. See section 2241 et seq. of this title.
 
-Section 636c, acts Aug. 6, 1953, ch. 335, §4, 67 Stat. 390; Aug. 11, 1955, ch. 785, title IV, §402, 69 Stat. 666; Aug. 18,1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387; Aug. 2, 1966, Pub. L. 89–525, §6, 80 Stat. 335, provided for creation of Federal Farm Credit Board. See section 2242 et seq. of this title.
+Section 636c, acts Aug. 6, 1953, ch. 335, §4, 67 Stat. 390; Aug. 11, 1955, ch. 785, title IV, §402, 69 Stat. 666; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387; Aug. 2, 1966, Pub. L. 89–525, §6, 80 Stat. 335, provided for creation of Federal Farm Credit Board. See section 2242 et seq. of this title.
 
 Section 636d, act Aug. 6, 1953, ch. 335, §5, 67 Stat. 392; Aug. 18, 1959, Pub. L. 86–168, title I, §104(j), 73 Stat. 387; Oct. 4, 1961, Pub. L. 87–367, title III, §302(a), 75 Stat. 793, provided for position of Governor of Farm Credit Administration. See section 2244 et seq. of this title.
 

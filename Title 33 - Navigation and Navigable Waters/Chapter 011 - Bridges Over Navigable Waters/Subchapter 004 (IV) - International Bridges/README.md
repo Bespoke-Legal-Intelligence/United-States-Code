@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—INTERNATIONAL BRIDGES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 508 of this title.
-
 
 ---
 

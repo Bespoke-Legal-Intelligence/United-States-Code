@@ -84,7 +84,3 @@ Responsibilities of the Administrator of General Services
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7159 of this title.
-

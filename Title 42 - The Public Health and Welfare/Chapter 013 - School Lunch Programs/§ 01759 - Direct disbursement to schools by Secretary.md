@@ -24,7 +24,3 @@
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 820(a)(4) of Pub. L. 97–35, set out as a note under section 1753 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1755, 1757, 1766, 1769, 1776 of this title.
-

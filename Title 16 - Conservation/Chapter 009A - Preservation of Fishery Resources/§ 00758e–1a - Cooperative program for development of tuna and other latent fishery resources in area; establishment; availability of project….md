@@ -4,7 +4,3 @@ In addition to the authority granted in section 758e of this title, the Secretar
 
 (Pub. L. 92–444, §4, as added Pub. L. 95–295, §1(3), June 16, 1978, 92 Stat. 319.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 758e, 758e–1, 758e–3, 758e–4, 758e–5 of this title.
-

@@ -34,7 +34,3 @@ Notwithstanding subsection (a) of this section, housing assistance pursuant to s
 
 Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted identical sections 813 of Pub. L. 104–330. This section is based on the text of section 813 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4234 of this title.
-

@@ -54,7 +54,7 @@ The Director, through the Institute, shall be responsible for—
 
 &emsp;&emsp;(D) the individuals’ representatives for the individuals described in subparagraph (C);
 
-&emsp;(5)(A) conducting an education program to inform the public about ways of providing for the rehabilitation of individuals with disabilities, including information relating to—
+&emsp;(5)(A) conducting an education program to inform the public about ways of providing forthe rehabilitation of individuals with disabilities, including information relating to—
 
 &emsp;&emsp;(i) family care;
 
@@ -110,7 +110,7 @@ The Director, pursuant to regulations which the Secretary shall prescribe, may e
 
 #### (g) Use of funds
 
-Not less than 90 percent of the funds appropriated under this subchapter for any fiscal year shall be expended by the Director to carry out activities under this subchapter through grants, contracts, or cooperative agreements. Up to 10 percent of the funds appropriated under this subchapter for any fiscal year may be expendeddirectly for the purpose of carrying out the functions of the Director under this section.
+Not less than 90 percent of the funds appropriated under this subchapter for any fiscal year shall be expended by the Director to carry out activities under this subchapter through grants, contracts, or cooperative agreements. Up to 10 percent of the funds appropriated under this subchapter for any fiscal year may be expended directly for the purpose of carrying out the functions of the Director under this section.
 
 #### (h) 5-year plan
 
@@ -156,7 +156,7 @@ In order to promote cooperation among Federal departments and agencies conductin
 
 (2) Any person responsible for administering any program of the National Institutes of Health, the Department of Veterans Affairs, the National Science Foundation, the National Aeronautics and Space Administration, the Office of Special Education and Rehabilitative Services, or of any other Federal entity, shall, through the Interagency Committee established by section 763 of this title, consult and cooperate with the Director in carrying out such program if the program is related to the purposes of this subchapter.
 
-(3) The Director shall support, directly or by grant or contract, a center associated with an institution of higher education, for research and training concerning the delivery of vocational rehabilitation services to rural areas.
+(3) The Director shall support, directly or by grant or contract, a center associated with aninstitution of higher education, for research and training concerning the delivery of vocational rehabilitation services to rural areas.
 
 #### (k) Grants for training
 
@@ -166,7 +166,7 @@ The Director shall make grants to institutions of higher education for the train
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(11), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(11), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(2), (3), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
@@ -195,10 +195,6 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 #### References to National Institute of Handicapped Research Amended or Deemed To Be References to National Institute on Disability and Rehabilitation Research
 
 Pub. L. 99–506, title III, §302(b), Oct. 21, 1986, 100 Stat. 1821, provided that: “The Act \[this chapter\] is amended by striking out ‘National Institute of Handicapped Research’ each place it appears in the Act (including the table of contents) and inserting in lieu thereof ‘National Institute on Disability and Rehabilitation Research’. Any reference in any other provision of law to the ‘National Institute of Handicapped Research’ shall be considered to be a reference to the ‘National Institute on Disability and Rehabilitation Research’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 760, 761, 764, 765 of this title.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the semicolon.</i>
 

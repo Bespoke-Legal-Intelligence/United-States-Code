@@ -4,7 +4,3 @@ The compact defining the scope of Seminole water rights and their utilization by
 
 (Pub. L. 100–228, §7, Dec. 31, 1987, 101 Stat. 1560.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1772c of this title.
-

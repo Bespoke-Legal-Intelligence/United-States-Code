@@ -40,13 +40,17 @@ In this section:
 
 &emsp;&emsp;(A) in the most recent report under section 2366 of this title; or
 
-&emsp;&emsp;(B) in any successor report on the acquisition by foreign countries of dual-use andother technology useful for the development or production of weapons of mass destruction.
+&emsp;&emsp;(B) in any successor report on the acquisition by foreign countries of dual-use and other technology useful for the development or production of weapons of mass destruction.
 
 (Pub. L. 104–293, title VII, §722, as added Pub. L. 107–314, div. A, title XII, §1209(a), Dec. 2, 2002, 116 Stat. 2668.)
 
 #### Codification
 
 Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 1997, and also as part of the Combatting Proliferation of Weapons of Mass Destruction Act of 1996, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
 
 #### Effective Date
 

@@ -24,9 +24,5 @@ Section 1115(f), referred to in subsec. (d), was redesignated section 1115(g) of
 
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a note under section 1115 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1115 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

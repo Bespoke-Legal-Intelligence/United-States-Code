@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—ALTERATION OF BRIDGES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 49 section 104.
-
 
 ---
 

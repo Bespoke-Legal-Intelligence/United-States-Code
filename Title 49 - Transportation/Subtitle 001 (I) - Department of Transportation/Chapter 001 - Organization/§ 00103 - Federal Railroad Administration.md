@@ -88,7 +88,7 @@ Subsec. (e). Pub. L. 103–440 added subsec. (e).
 
 1984—Subsec. (c)(1). Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.”.
 
-#### Section Referred to in Other Sections
+#### Funds for Broadband High Speed Internet Service Connection for Federal Railroad Administration Employees
 
-This section is referred to in section 322 of this title.
+Pub. L. 108–447, div. H, title I, §151, Dec. 8, 2004, 118 Stat. 3222, provided that: “Notwithstanding any provisions of this or any other Act, during the fiscal year ending September 30, 2005, and hereafter, the Federal Railroad Administration may use funds appropriated by this or any other Act to provide for the installation of a broadband high speed internet service connection, including necessary equipment, for Federal Railroad Administration employees, and to either pay directly recurring monthly charges or to reimburse a percentage of such monthly charges which are paid by such employees: <i>Provided</i>, That the Federal Railroad Administration certifies that adequate safeguards against private misuse exist, and that the service is necessary for direct support of the agency's mission.”
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—CONSTRUCTION OF HEALTH FACILITIES AND COMMUNITY HOSPITALS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 25 sections 861c, 1661.
-
 
 ---
 

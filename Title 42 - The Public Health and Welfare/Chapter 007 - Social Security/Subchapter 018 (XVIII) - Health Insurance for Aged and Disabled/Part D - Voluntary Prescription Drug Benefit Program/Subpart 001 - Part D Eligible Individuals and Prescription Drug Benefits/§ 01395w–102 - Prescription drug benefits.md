@@ -124,7 +124,7 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 &emsp;&emsp;&emsp;&emsp;(I) for 2006, is equal to $3,600; or
 
-&emsp;&emsp;&emsp;&emsp;(II) for a subsequent year, is equal to the amount specified in this subparagraph for the previous year, increased bythe annual percentage increase described in paragraph (6) for the year involved.
+&emsp;&emsp;&emsp;&emsp;(II) for a subsequent year, is equal to the amount specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved.
 
 #### (ii) Rounding
 
@@ -136,7 +136,7 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 &emsp;&emsp;&emsp;(i) incurred costs shall only include costs incurred with respect to covered part D drugs for the annual deductible described in paragraph (1), for cost-sharing described in paragraph (2), and for amounts for which benefits are not provided because of the application of the initial coverage limit described in paragraph (3), but does not include any costs incurred for covered part D drugs which are not included (or treated as being included) in the plan's formulary; and
 
-&emsp;&emsp;&emsp;(ii) such costs shall be treated as incurred only if they are paid by the part D eligible individual (or by another person, such as a family member, on behalf of the individual), under section 1395w–114 of this title, or under a State Pharmaceutical Assistance Program and the part D eligible individual (or other person) is not reimbursed through insurance or otherwise, a group health plan, or other third-party payment arrangement (other than under such section or such a Program) for such costs.
+&emsp;&emsp;&emsp;(ii) such costs shall be treated as incurred only if they are paid by the part Deligible individual (or by another person, such as a family member, on behalf of the individual), under section 1395w–114 of this title, or under a State Pharmaceutical Assistance Program and the part D eligible individual (or other person) is not reimbursed through insurance or otherwise, a group health plan, or other third-party payment arrangement (other than under such section or such a Program) for such costs.
 
 #### (D) Information regarding third-party reimbursement
 
@@ -253,8 +253,4 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 Part C of this subchapter, referred to in subsecs. (a)(1), (3), (4) and (b), is classified to section 1395w–21 et seq. of this title.
 
 Parts A and B of this subchapter, referred to in subsec. (e)(2)(B), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395w–101, 1395w–104, 1395w–111, 1395w–114, 1395w–115, 1395w–131, 1395w–132, 1395w–133, 1395w–134, 1395w–141, 1395w–151, 1396r–8, 1396u–5 of this title.
 

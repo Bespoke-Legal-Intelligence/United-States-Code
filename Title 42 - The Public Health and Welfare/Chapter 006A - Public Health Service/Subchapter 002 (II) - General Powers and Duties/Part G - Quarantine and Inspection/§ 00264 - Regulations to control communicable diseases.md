@@ -30,13 +30,11 @@ Nothing in this section or section 266 of this title, or the regulations promulg
 
 #### Amendments
 
-2002—Pub. L. 107–188, §142(a)(1), (2), (b)(1), and (c), which directed certain amendments to section 361 of the Public Health Act, was executed by making the amendments to this section, which is section 361 of the Public Health Service Act, to reflect the probable intent of Congress. See below.
+2002—Pub. L. 107–188, §142(a)(1), (2), (b)(1), and (c), which directed certain amendments to section 361 ofthe Public Health Act, was executed by making the amendments to this section, which is section 361 of the Public Health Service Act, to reflect the probable intent of Congress. See below.
 
 Subsec. (b). Pub. L. 107–188, §142(a)(1), substituted “Executive orders of the President upon the recommendation of the Secretary, in consultation with the Surgeon General,” for “Executive orders of the President upon the recommendation of the National Advisory Health Council and the Surgeon General”.
 
-Subsec. (d). Pub. L. 107–188, §142(a)(2), (b)(1), substituted in first sentence “Regulations” for “On recommendation of the National Advisory Health Council, regulations”, “in a qualifying stage” for “in a communicable stage” in two places,
-
-designated existing text as par. (1) and substituted “(A)” and “(B)” for “(1)” and “(2)”, respectively, and added par. (2).
+Subsec. (d). Pub. L. 107–188, §142(a)(2), (b)(1), substituted in first sentence “Regulations” for “On recommendation of the National Advisory Health Council, regulations”, “in a qualifying stage” for “in a communicable stage” in two places, designated existing text as par. (1) and substituted “(A)” and “(B)” for “(1)” and “(2)”, respectively, and added par. (2).
 
 Subsec. (e). Pub. L. 107–188, §142(c), added subsec. (e).
 
@@ -79,10 +77,6 @@ Sec. 4. This order is not intended to, and does not, create any right or benefit
 Sec. 5. Executive Order 12452 of December 22, 1983, is hereby revoked.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 201, 266, 271 of this title; title 21 section 381; title 49 section 24301.
 
 <i><sup>1</sup></i><i> So in original. Comma probably should not appear.</i>
 

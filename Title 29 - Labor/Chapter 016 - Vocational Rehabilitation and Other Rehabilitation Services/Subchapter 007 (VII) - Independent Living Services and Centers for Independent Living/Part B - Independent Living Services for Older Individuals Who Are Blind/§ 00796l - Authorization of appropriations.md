@@ -8,7 +8,3 @@ There are authorized to be appropriated to carry out this part such sums as may 
 
 A prior section 796<i>l</i>, Pub. L. 93–112, title VII, §753, as added Pub. L. 102–569, title VII, §703(a), Oct. 29, 1992, 106 Stat. 4468, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 796k of this title.
-

@@ -22,7 +22,3 @@ June 30, 1949, ch. 288, title IX, §902, as added Pub. L. 92–582, Oct. 27, 197
 
 The words “The Congress hereby declares” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 41 section 253m.
-

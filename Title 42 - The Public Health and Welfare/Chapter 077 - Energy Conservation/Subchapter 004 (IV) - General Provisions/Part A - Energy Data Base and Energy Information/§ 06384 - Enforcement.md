@@ -2,7 +2,7 @@
 
 #### (a) Civil penalties
 
-Any person who violates any general or special order of the Comptroller General issued under section 6382(a)(1)(B) of this title may be assessed a civil penalty not to exceed $10,000 for each violation. Each day of failure to comply with such an order shall be deemed a separate violation. Such penalty shall be assessed by the Comptroller General and collected in a civil action brought by the Comptroller General through any attorney employed by the General Accounting Office or any other attorney designated by the Comptroller General, or, upon request of the Comptroller General, the Attorney General. A person shall not be liable with respect to any period during which the effectiveness of the order with respect to such person was stayed.
+Any person who violates any general or special order of the Comptroller General issued under section 6382(a)(1)(B) of this title may be assessed a civil penalty not to exceed $10,000 for each violation. Each day of failure to comply with such an order shall be deemed a separate violation. Such penalty shall be assessed by the Comptroller General and collected in a civil action brought by the Comptroller General through any attorney employed by the Government Accountability Office or any other attorney designated by the Comptroller General, or, upon request of the Comptroller General, the Attorney General. A person shall not be liable with respect to any period during which the effectiveness of the order with respect to such person was stayed.
 
 #### (b) Jurisdiction; process
 
@@ -10,7 +10,11 @@ Any action to enjoin or set aside an order issued under section 6382(a)(1)(B) of
 
 #### (c) Securing compliance with subpena
 
-Upon petition by the Comptroller General through any attorney employed by the General Accounting Office or designated by the Comptroller General, or, upon request of the Comptroller General, the Attorney General, any United States district court within the jurisdiction of which any inquiry under this part is carried on may, in the case of refusal to obey a subpena of the Comptroller General issued under this part, issue an order requiring compliance therewith; and any failure to obey the order of the court may be treated by the court as a contempt thereof.
+Upon petition by the Comptroller General through any attorney employed by the Government Accountability Office or designated by the Comptroller General, or, upon request of the Comptroller General, the Attorney General, any United States district court within the jurisdiction of which any inquiry under this part is carried on may, in the case of refusal to obey a subpena of the Comptroller General issued under this part, issue an order requiring compliance therewith; and any failure to obey the order of the court may be treated by the court as a contempt thereof.
 
-(Pub. L. 94–163, title V, §504, Dec. 22, 1975, 89 Stat. 959.)
+(Pub. L. 94–163, title V, §504, Dec. 22, 1975, 89 Stat. 959; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+#### Amendments
+
+2004—Subsecs. (a), (c). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

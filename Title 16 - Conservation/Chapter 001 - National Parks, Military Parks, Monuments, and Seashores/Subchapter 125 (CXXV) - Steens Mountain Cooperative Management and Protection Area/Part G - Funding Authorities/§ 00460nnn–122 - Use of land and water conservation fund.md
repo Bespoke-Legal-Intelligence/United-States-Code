@@ -10,7 +10,3 @@ Amounts appropriated pursuant to the authorization of appropriations in subsecti
 
 (Pub. L. 106–399, title VII, §702, Oct. 30, 2000, 114 Stat. 1673.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460nnn–121 of this title.
-

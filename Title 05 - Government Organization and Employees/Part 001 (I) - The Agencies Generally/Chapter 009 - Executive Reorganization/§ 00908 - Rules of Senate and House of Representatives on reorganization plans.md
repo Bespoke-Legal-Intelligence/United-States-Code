@@ -32,9 +32,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1977—Pub. L. 95–17 substituted “Sections 909 through 912 of this title” for “Sections 909–913 of this title” in provisions preceding par. (1).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 909 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “title”.</i>
 

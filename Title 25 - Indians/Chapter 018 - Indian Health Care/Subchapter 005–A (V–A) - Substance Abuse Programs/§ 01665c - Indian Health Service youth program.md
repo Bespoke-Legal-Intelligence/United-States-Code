@@ -6,7 +6,7 @@ The Secretary shall develop and implement a program for acute detoxification and
 
 #### (b) Treatment centers or facilities
 
-(1) The Secretary shall construct, renovate, or, as necessary, purchase, and appropriately staff and operate, a youth regional treatment center in each area under the jurisdiction of anarea office. For the purposes of this subsection, the area offices of the Service in Tucson and Phoenix, Arizona, shall be considered one area office and the area office in California shall be considered to be two area offices, one office whose jurisdiction shall be considered to encompass the northern area of the State of California, and one office whose jurisdiction shall be considered to encompass the remainder of the State of California.
+(1) The Secretary shall construct, renovate, or, as necessary, purchase, and appropriately staff and operate, a youth regional treatment center in each area under the jurisdiction of an area office. For the purposes of this subsection, the area offices of the Service in Tucson and Phoenix, Arizona, shall be considered one area office and the area office in California shall be considered to be two area offices, one office whose jurisdiction shall be considered to encompass the northern area of the State of California, and one office whose jurisdiction shall be considered to encompass the remainder of the State of California.
 
 (2) For the purpose of staffing and operating such centers or facilities, funding shall be pursuant to section 13 of this title.
 
@@ -28,7 +28,7 @@ The Secretary shall develop and implement a program for acute detoxification and
 
 &emsp;(B) establish guidelines for determining the suitability of any such federally owned structure to be used as a local residential or regional alcohol and substance abuse treatment center for Indian youth.
 
-(2) Any structure described in paragraph (1) may be used under such terms and conditions as may be agreed upon by the Secretary and the agency having responsibility for the structure.
+(2) Any structure described in paragraph (1) may be used under such terms and conditions asmay be agreed upon by the Secretary and the agency having responsibility for the structure.
 
 #### (d) Rehabilitation and aftercare services
 

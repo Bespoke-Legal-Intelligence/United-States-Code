@@ -1,6 +1,6 @@
 ### §613. Signing of articles of association; forwarding to and filing by Board of Governors of the Federal Reserve System; organization certificate; contents
 
-Articles of association described in section 612 of this title shall be signed by all of the personsintending to participate in the organization of the corporation and, thereafter, shall be forwarded to the Board of Governors of the Federal Reserve System and shall be filed and preserved in its office. The persons signing the said articles of association shall, under their hands, make an organization certificate which shall specifically state:
+Articles of association described in section 612 of this title shall be signed by all of the persons intending to participate in the organization of the corporation and, thereafter, shall be forwarded to the Board of Governors of the Federal Reserve System and shall be filed and preserved in its office. The persons signing the said articles of association shall, under their hands, make an organization certificate which shall specifically state:
 
 First. The name assumed by such corporation, which shall be subject to the approval of the Board of Governors of the Federal Reserve System.
 
@@ -29,8 +29,4 @@ Section is comprised of a part of section 25A, formerly section 25(a), which was
 #### Change of Name
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 615 of this title.
 

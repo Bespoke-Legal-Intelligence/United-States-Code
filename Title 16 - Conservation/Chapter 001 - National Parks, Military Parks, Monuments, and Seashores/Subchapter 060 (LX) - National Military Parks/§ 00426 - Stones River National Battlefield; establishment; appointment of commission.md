@@ -20,7 +20,3 @@ Administrative functions of Stones River National Military Park transferred to D
 
 National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, §2, by act Mar. 2, 1934, ch. 38, §1, 48 Stat. 389.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 426a, 426c, 426e, 426j, 426k, 426n of this title.
-

@@ -20,7 +20,7 @@ If the Secretaries have not, within 1 year after October 24, 1992, established e
 
 #### (c) Revisions of Model Energy Code
 
-If the requirements of CABO Model Energy Code, 1992, or, in the case of multifamily high rises, ASHRAE Standard 90.1–1989, are revised at any time, the Secretaries shall, not later than 1 year after such revision, amend the standards established under subsection (a) of this section to meet or exceed the requirements of such revised code or standard unless the Secretaries determine that compliance with such revised code or standard would not result in a significant increase in energy efficiency or would not be technologically feasible or economically justified.
+If the requirements of CABO Model Energy Code, 1992, or, in the case of multifamily highrises, ASHRAE Standard 90.1–1989, are revised at any time, the Secretaries shall, not later than 1 year after such revision, amend the standards established under subsection (a) of this section to meet or exceed the requirements of such revised code or standard unless the Secretaries determine that compliance with such revised code or standard would not result in a significant increase in energy efficiency or would not be technologically feasible or economically justified.
 
 (Pub. L. 101–625, title I, §109, Nov. 28, 1990, 104 Stat. 4093; Pub. L. 102–486, title I, §101(c)(1), Oct. 24, 1992, 106 Stat. 2786.)
 
@@ -33,8 +33,4 @@ The Housing Act of 1949, referred to in subsec. (a)(1)(B), is act July 15, 1949,
 #### Amendments
 
 1992—Pub. L. 102–486 amended section generally. Prior to amendment, section read as follows: “The Secretary of Housing and Urban Development shall, not later than one year after November 28, 1990, promulgate energy efficiency standards for new construction of public and assisted housing and single-family and multifamily residential housing (other than manufactured homes) subject to mortgages under the National Housing Act. Such standards shall meet or exceed the provisions of the most recent edition of the Model Energy Code of the Council of American Building Officials and shall be cost-effective with respect to construction and operating costs. In developing such standards the Secretary shall consult with an advisory task force composed of homebuilders, national, State, and local housing agencies (including public housing agencies), energy agencies and building code organizations and agencies, energy efficiency organizations, utility organizations, low-income housing organizations, and other parties designated by the Secretary.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8013, 12745 of this title; title 12 section 1701q; title 38 section 3704.
 

@@ -110,13 +110,9 @@ Subsecs. (d), (e). Pub. L. 98–216, §2(1)(A)(iii), added subsecs. (d) and (e).
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reporting provisions contained in subsecs. (a) and (b) of this section and, as subsequently amended, subsec. (e) of this section, are listed, respectively, as the 11th item on page 133, the last item on page 132, and the 5th item on page 138), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reporting provisions contained in subsecs. (a) and (b) of this section and, as subsequently amended, subsec. (e) of this section, are listed, respectively, as the 11th item on page 133, the last item on page 132, and the 5th item on page 138), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Annual Report on Safety Enforcement Activities of Federal Aviation Administration
 
 Pub. L. 100–202, §101(<i>l</i>) \[title III, §317(a)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–380, and Pub. L. 100–457, title III, §317(a), Sept. 30, 1988, 102 Stat. 2148, which required Secretary of Transportation to transmit to Congress an annual report on Federal Aviation Administration's prior safety enforcement activities including staffing level comparisons, inspector experience and training schedules, criteria used to set annual work programs, annual inspection comparisons, statement of adequacy of internal management controls, status of regulatory changes, list of specific operational measures of effectiveness, schedule showing number of civil penalty cases closed, schedule showing number of enforcement actions taken, and schedules showing aviation industry's safety record, were repealed and reenacted as section 44723 of this title by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1202, 1379.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title; title 33 section 535h.
 

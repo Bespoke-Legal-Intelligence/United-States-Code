@@ -1,9 +1,5 @@
 Part B—Federal Communications Commission Licensing Criteria: Privatization Criteria
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 767 of this title.
-
 
 ---
 

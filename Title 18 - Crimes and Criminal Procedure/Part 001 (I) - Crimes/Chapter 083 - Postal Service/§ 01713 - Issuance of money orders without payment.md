@@ -1,6 +1,6 @@
 ### §1713. Issuance of money orders without payment
 
-Whoever, being an officer or employee of the Postal Service, issues a money order without having previously received the money therefor, shall be fined under this title.
+Whoever, being an officer or employee of the Postal Service, issues a money order withouthaving previously received the money therefor, shall be fined under this title.
 
 (June 25, 1948, ch. 645, 62 Stat. 781; Pub. L. 91–375, §6(j)(23), Aug. 12, 1970, 84 Stat. 779; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 

@@ -8,5 +8,5 @@
 
 #### Prior Provisions
 
-Prior similar provisions were contained in section 206 of act July 30, 1953, ch. 282, title II, 67 Stat. 235, whichwas previously classified to this section. See Codification note set out under section 631 of this title.
+Prior similar provisions were contained in section 206 of act July 30, 1953, ch. 282, title II, 67 Stat. 235, which was previously classified to this section. See Codification note set out under section 631 of this title.
 

@@ -6,7 +6,7 @@ The per annum rate of compensation of the Chief of Staff of the Joint Committee 
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–437 substituted “Joint Committee on Taxation” for “Joint Committee on Internal Revenue Taxation”.
+1994—Pub. L. 103–437 substituted “Joint Committee on Taxation” for “Joint Committee on Internal Revenue Taxation”.
 
 #### Effective Date
 

@@ -36,7 +36,7 @@ If the United States district court pursuant to subsection (f) of this section d
 
 #### (h) Finality of orders
 
-Orders granting motions or requests under subsection (g) of this section, decisions under this section that electronic surveillance was not lawfully authorized or conducted, and orders ofthe United States district court requiring review or granting disclosure of applications, orders, or other materials relating to a surveillance shall be final orders and binding upon all courts of the United States and the several States except a United States court of appeals and the Supreme Court.
+Orders granting motions or requests under subsection (g) of this section, decisions under this section that electronic surveillance was not lawfully authorized or conducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to a surveillance shall be final orders and binding upon all courts of the United States and the several States except a United States court of appeals and the Supreme Court.
 
 #### (i) Destruction of unintentionally acquired information
 
@@ -93,10 +93,6 @@ Pub. L. 106–567, title VI, §604(b), Dec. 27, 2000, 114 Stat. 2853, provided t
 &emsp;“(A) The Select Committee on Intelligence and the Committee on the Judiciary of the Senate.
 
 &emsp;“(B) The Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1802 of this title; title 8 section 1534; title 18 section 2712.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@ In this part:
 
 #### (B) Determination of contributed importantly
 
-&emsp;&emsp;The determination of whether imports of articles like or directly competitive with anagricultural commodity with respect to which a petition under this part was filed contributed importantly to a decline in the price of the agricultural commodity shall be made by the Secretary.
+&emsp;&emsp;The determination of whether imports of articles like or directly competitive with an agricultural commodity with respect to which a petition under this part was filed contributed importantly to a decline in the price of the agricultural commodity shall be made by the Secretary.
 
 #### (4) Duly authorized representative
 
@@ -40,11 +40,7 @@ Section 1308(5) of title 7, referred to in par. (2), was redesignated as section
 
 #### Effective Date
 
-Pub. L. 107–210, div. A, title I, §141(b), Aug. 6, 2002, 116 Stat. 953, provided that: “The amendments made by this title \[probably should be “this subtitle”, meaning subtitle C \[§§141 to 143\] of title I of Pub. L. 107–210, enacting this part and amending section 2395 of this title\] shall take effect on the date that is 180 days after the date of enactment of this Act \[Aug. 6, 2002\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2395 of this title.
+Pub. L. 107–210, div. A, title I, §141(b), Aug. 6, 2002, 116 Stat. 953, as amended by Pub. L. 108–429, title II, §2004(a)(10), Dec. 3, 2004, 118 Stat. 2590, provided that: “The amendments made by this subtitle \[subtitle C \[§§141 to 143\] of title I of Pub. L. 107–210, enacting this part and amending section 2395 of this title\] shall take effect on the date that is 180 days after the date of enactment of this Act \[Aug. 6, 2002\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,3 @@ Words “civil action” were substituted for “suit” in view of Rule 2 of th
 
 Words “under State law” were substituted for “imposed by or pursuant to the laws of any State” for the same reason.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 sections 11501, 14502, 31706.
-

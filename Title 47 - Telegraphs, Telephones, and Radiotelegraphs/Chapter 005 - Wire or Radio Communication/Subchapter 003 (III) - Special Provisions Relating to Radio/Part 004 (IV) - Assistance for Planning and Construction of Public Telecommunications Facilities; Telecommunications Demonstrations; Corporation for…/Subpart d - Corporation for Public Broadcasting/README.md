@@ -1,9 +1,5 @@
 subpart d—corporation for public broadcasting
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 397, 398 of this title.
-
 
 ---
 

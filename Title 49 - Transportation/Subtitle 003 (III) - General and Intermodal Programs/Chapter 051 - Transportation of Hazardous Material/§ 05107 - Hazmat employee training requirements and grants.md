@@ -118,7 +118,7 @@ In subsection (c), before clause (1), the words “in accordance with the requir
 
 In subsection (d), before clause (1), the words “take such actions as may be necessary to” are omitted as surplus. In clauses (1) and (2), the words “(and amendments thereto)” are omitted as surplus. In clause (1), the words “Secretary of Labor” are substituted for “Occupational Safety and Health Administration of the Department of Labor” because of 29:551.
 
-In subsection (e), the words “and education” are omitted as being included in “training”. Before clause (1), the words “regarding the safe loading, unloading, handling, storage, and transportation of hazardous materials and emergency preparedness for responding to accidents or incidents involving the transportation of hazardous materials in order to meet the requirements issued under section 1816(b) of this title may be made under this section” are omitted as surplus.
+In subsection (e), the words “and education” are omitted as being included in “training”. Before clause (1), the words “regarding the safe loading, unloading, handling, storage, and transportation of hazardous materials and emergency preparedness for responding to accidents or incidents involving the transportation ofhazardous materials in order to meet the requirements issued under section 1816(b) of this title may be made under this section” are omitted as surplus.
 
 In subsection (f)(1), the words “(relating to coordination of Federal information policy)” are omitted as surplus.
 
@@ -129,8 +129,4 @@ In subsection (f)(1), the words “(relating to coordination of Federal informat
 Subsec. (e). Pub. L. 103–311, §119(c)(1), (2), in first sentence substituted “The Secretary shall, subject to the availability of funds under section 5127(c)(3), make grants for training instructors to train hazmat employees under this section.” for “In consultation with the Secretaries of Transportation and Labor and the Administrator, the Director of the National Institute of Environmental Health Sciences may make grants to train hazmat employees under this section.” and in second sentence inserted “hazmat employee” after “nonprofit”.
 
 Subsec. (g). Pub. L. 103–311, §119(c)(3), added subsec. (g).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5127 of this title; title 8 section 1288.
 

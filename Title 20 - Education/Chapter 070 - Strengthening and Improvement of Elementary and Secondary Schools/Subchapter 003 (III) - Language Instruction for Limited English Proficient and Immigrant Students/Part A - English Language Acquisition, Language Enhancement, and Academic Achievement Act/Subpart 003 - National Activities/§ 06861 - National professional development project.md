@@ -16,7 +16,3 @@ A prior section 6861, Pub. L. 89–10, title III, §3141, as added Pub. L. 103�
 
 A prior section 3131 of Pub. L. 89–10 was classified to section 6841 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6821 of this title.
-

@@ -12,9 +12,13 @@ This Act, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as a
 
 1967—Pub. L. 90–19 substituted “The Department of Housing and Urban Development” for “The Housing and Home Finance Agency and its constituent agencies”.
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–285, §1, Aug. 2, 2004, 118 Stat. 917, provided that: “This Act \[amending section 1472 of this title, enacting provisions set out as a note under section 1472 of this title, and amending provisions set out as a note under section 12805 of this title\] may be cited as the ‘Helping Hands for Homeownership Act of 2004’.”
+
 #### Short Title of 1983 Amendment
 
-Pub. L. 98–181, title V, §501, Nov. 30, 1983, 97 Stat. 1240, provided that: “This title \[enacting sections 1490k to1490<i>o</i> of this title, amending sections 1471, 1472, 1474, 1476, 1479 to 1481, 1483 to 1487, 1490, 1490a, 1490c, 1490e, 1490f, and 1490j of this title, repealing sections 1482, 1490g, and 1490i of this title, and enacting provisions set out as notes under sections 1472 and 1490a of this title\] may be cited as the ‘Rural Housing Amendments of 1983’.”
+Pub. L. 98–181, title V, §501, Nov. 30, 1983, 97 Stat. 1240, provided that: “This title \[enacting sections 1490k to 1490<i>o</i> of this title, amending sections 1471, 1472, 1474, 1476, 1479 to 1481, 1483 to 1487, 1490, 1490a, 1490c, 1490e, 1490f, and 1490j of this title, repealing sections 1482, 1490g, and 1490i of this title, and enacting provisions set out as notes under sections 1472 and 1490a of this title\] may be cited as the ‘Rural Housing Amendments of 1983’.”
 
 #### Short Title
 
@@ -31,8 +35,4 @@ Assistance provided for in Housing and Community Development Act of 1974 \[42 U.
 #### Equal Opportunity in Housing
 
 Executive order relating to equal opportunity in housing, see Ex. Ord. No. 11063, Nov. 20, 1962, 27 F.R. 11527, as amended, set out as a note under section 1982 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1476 of this title; title 12 section 1701t.
 

@@ -4,7 +4,3 @@ The Secretary of the Interior shall prepare a roll of the persons of Snake or Pa
 
 (Pub. L. 88–464, §1, Aug. 20, 1964, 78 Stat. 563.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1012, 1013 of this title.
-

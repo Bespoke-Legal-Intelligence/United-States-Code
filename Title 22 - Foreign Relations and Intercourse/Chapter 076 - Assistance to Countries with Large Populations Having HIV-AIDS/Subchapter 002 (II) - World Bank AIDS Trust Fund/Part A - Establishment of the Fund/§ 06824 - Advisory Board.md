@@ -28,7 +28,3 @@ The Advisory Board should provide advice and guidance to the Board of Trustees o
 
 (Pub. L. 106–264, title I, §124, Aug. 19, 2000, 114 Stat. 756.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6821 of this title.
-

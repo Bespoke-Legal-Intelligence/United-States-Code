@@ -40,7 +40,3 @@ In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate 
 
 1996—Subsec. (d). Pub. L. 104–287 substituted “the term ‘railroad carrier’ has in section 20102 of title 49” for “such terms have under the first section of the Act of February 17, 1911 (45 U.S.C. 22)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4903, 4905, 4909, 4911, 4915 of this title.
-

@@ -4,7 +4,3 @@ A funding agreement for a grant under section 300x or 300x–21 of this title is
 
 (July 1, 1944, ch. 373, title XIX, §1941, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 403.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300x–6 of this title.
-

@@ -30,7 +30,7 @@
 
 #### Short Title
 
-Section 101 of title I of Pub. L. 96–561 provided that: “This title \[enacting this chapter and provisions set out as a note under section 1823 of this title\] may be cited as the ‘Salmon and Steelhead Conservation and Enhancement Act of 1980’.”
+Section 101 of title I of Pub. L. 96–561 provided that: “This title \[enacting this chapter and provisions setout as a note under section 1823 of this title\] may be cited as the ‘Salmon and Steelhead Conservation and Enhancement Act of 1980’.”
 
 #### Research and Development Program To Improve Salmon Survival
 

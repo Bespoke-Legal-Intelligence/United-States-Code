@@ -144,11 +144,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (b)(4)(G
 
 #### Prior Provisions
 
-A prior section 6363, Pub. L. 89–10, title I, §1203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3579; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(f), (g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–330, related to State Even Start programs, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381b of this title.
+A prior section 6363, Pub. L. 89–10, title I, §1203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3579; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(f), (g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–330, related to State Even Start programs, prior to the general amendment of thissubchapter by Pub. L. 107–110. See section 6381b of this title.
 
 A prior section 1203 of Pub. L. 89–10 was classified to section 2783 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6362, 6364, 6372, 6381a of this title.
 

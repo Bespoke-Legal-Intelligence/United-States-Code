@@ -64,7 +64,3 @@
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a)(3)(B), are set out in the Appendix to this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 472, 477 of this title.
-

@@ -16,7 +16,3 @@ Section is based on section 8 of House Resolution No. 1238, Ninety-first Congres
 
 Section 101A(b) of Pub. L. 103–69 provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on October 1, 1993.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 31b–1 of this title.
-

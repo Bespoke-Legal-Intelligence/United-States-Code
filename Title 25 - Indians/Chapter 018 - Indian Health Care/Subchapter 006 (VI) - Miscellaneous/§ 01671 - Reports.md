@@ -178,9 +178,5 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 
 Section 701(d) of Pub. L. 102–573 provided that: “Any reference in a provision of law other than the Indian Health Care Improvement Act \[25 U.S.C. 1601 et seq.\] to sections redesignated by subsection (b) \[renumbering sections 701 to 720 of Pub. L. 94–437 as sections 801 to 820 of Pub. L. 94–437, which are classified to sections 1671 to 1680j of this title\] shall be deemed to refer to the section as so redesignated.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1602, 1616a, 1621b, 1621h, 1631, 1632, 1634, 1637, 1643, 1660b, 1665a, 1665g, 1665j, 1665<i>l</i>, 1680g, 1680k, 1680<i>l</i> of this title; title 42 section 1395qq.
-
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

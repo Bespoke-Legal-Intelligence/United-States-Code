@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Proceedings.—In proceedings in the Patent and Trademark Office, in the courts, and before any other competent authority, an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a foreign country other than a NAFTA country or a WTO member country, except as provided in sections 119 and 365 of this title.
+Proceedings.—In proceedings in the Patent and Trademark Office, in the courts, and before any other competent authority, an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a foreign countryother than a NAFTA country or a WTO member country, except as provided in sections 119 and 365 of this title.
 
 &emsp;(2)
 
@@ -91,8 +91,4 @@ Amendment by Pub. L. 98–622 effective on Nov. 8, 1984, see section 406(a) of P
 Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and after that date to patent applications filed in the United States and to international applications, where applicable, see section 11 of Pub. L. 94–131, set out as an Effective Date note under section 351 of this title.
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11, 102, 119 of this title.
 

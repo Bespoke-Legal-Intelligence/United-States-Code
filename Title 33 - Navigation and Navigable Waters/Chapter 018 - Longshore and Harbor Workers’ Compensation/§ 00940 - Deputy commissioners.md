@@ -54,7 +54,3 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 For transfer of functions to the Secretary of Labor, see note set out under section 902 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 939 of this title.
-

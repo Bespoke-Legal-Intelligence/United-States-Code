@@ -38,7 +38,7 @@ As used in this section:
 
 #### (2) Ceiling amount
 
-&emsp;The term “ceiling amount” means, with respect to a territory and a fiscal year, the mandatory ceiling amount with respect to the territory, reduced for the fiscal year in accordance with subsection (e) <sup>1</sup> of this section, and reduced by the amount of any penalty imposed on the territory under any provision of law specified in subsection (a) of this section during the fiscal year.
+&emsp;The term “ceiling amount” means, with respect to a territory and a fiscal year, the mandatory ceiling amount with respect to the territory, reduced for the fiscal year in accordance with subsection (e) <sup>1</sup> of this section, andreduced by the amount of any penalty imposed on the territory under any provision of law specified in subsection (a) of this section during the fiscal year.
 
 #### (3) Family assistance grant
 
@@ -78,7 +78,7 @@ A territory to which an amount is paid under subsection (b) of this section may 
 
 Subject to subsection (g) of this section and section 1396u–5(e)(1)(B) of this title, the total amount certified by the Secretary under subchapter XIX of this chapter with respect to a fiscal year for payment to—
 
-&emsp;(1) Puerto Rico shall not exceed (A) $116,500,000 for fiscal year 1994 and (B) for eachsucceeding fiscal year the amount provided in this paragraph for the preceding fiscal year increased by the percentage increase in the medical care component of the consumer price index for all urban consumers (as published by the Bureau of Labor Statistics) for the twelve-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000;
+&emsp;(1) Puerto Rico shall not exceed (A) $116,500,000 for fiscal year 1994 and (B) for each succeeding fiscal year the amount provided in this paragraph for the preceding fiscal year increased by the percentage increase in the medical care component of the consumer price index for all urban consumers (as published by the Bureau of Labor Statistics) for the twelve-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000;
 
 &emsp;(2) the Virgin Islands shall not exceed (A) $3,837,500 for fiscal year 1994, and (B) for each succeeding fiscal year the amount provided in this paragraph for the preceding fiscal year increased by the percentage increase referred to in paragraph (1)(B), rounded to the nearest $10,000;
 
@@ -236,7 +236,7 @@ Subsec. (d). Pub. L. 92–603, §272(b), inserted “, American Samoa, and the 
 
 1965—Pub. L. 89–97 substituted “and 722(a)” for “722(a) and 727(a)” and struck out “(or, in the case of section 727(a) of this title” after “in lieu of the initial”, and removed the litigation requiring that, with respect to any fiscal year, $625,000 of the $9,800,000 certified for payments to Puerto Rico, $18,750 of the $330,000 certified for payments to the Virgin Islands, and $25,000 of the $450,000 certified for payments to Guam, be used only for payments with respect to section 303(a)(2)(B) or 1383(a)(2)(B) of this title.
 
-1962—Pub. L. 87–543 substituted “$9,800,000”, “$330,000”, “$450,000”, and “initial (or, in the case of section 727(a) of this title, the minimum) allotment” for “$9,500,000”, “$320,000”, $430,000”, and “$60,000, $60,000 $60,000, respectively,” and inserted references to subchapter “XVI (other than section 1383(a)(3) thereof)” of this chapter, section 1383(a)(2) in three places and section 727(a) after section 722(a).
+1962—Pub. L. 87–543 substituted “$9,800,000”, “$330,000”, “$450,000”, and “initial (or, in the case of section 727(a) of this title, the minimum) allotment” for “$9,500,000”, “$320,000”, “$430,000”, and “$60,000, $60,000 $60,000, respectively,” and inserted references to subchapter “XVI (other than section 1383(a)(3) thereof)” of this chapter, section 1383(a)(2) in three places and section 727(a) after section 722(a).
 
 1961—Pub. L. 87–64, substituted “$9,500,000”, “$320,000”, and “$430,000” for “$9,425,000”, “$318,750”, and “$425,000”, respectively. See Repeals note below.
 
@@ -336,15 +336,11 @@ Section 132(d) of Pub. L. 87–543 repealed section 6 of Pub. L. 87–31, May 8,
 
 #### Limitation on Payments: Effective Date
 
-Section 132(d) of Pub. L. 87–543 repealed section 6(a) of Pub. L. 87–31, May 8, 1961, 75 Stat. 78, which had limited payments to Puerto Rico not to exceed $9,075,000 for fiscal year ending June 30, 1961, $9,425,000 for fiscal year ending June 30, 1962; and $9,125,000 for fiscal years ending after June 30, 1962. Such repeal applicable in the case of fiscal years beginning after June 30, 1962, see section 202(b) of Pub. L. 87–543, set out as an Effective Date of 1962 Amendment note under section 906 of this title.
+Section 132(d) of Pub. L. 87–543 repealed section 6(a) of Pub. L. 87–31, May 8, 1961, 75 Stat. 78, which had limitedpayments to Puerto Rico not to exceed $9,075,000 for fiscal year ending June 30, 1961, $9,425,000 for fiscal year ending June 30, 1962; and $9,125,000 for fiscal years ending after June 30, 1962. Such repeal applicable in the case of fiscal years beginning after June 30, 1962, see section 202(b) of Pub. L. 87–543, set out as an Effective Date of 1962 Amendment note under section 906 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 603, 1396a, 1396d, 1396u–5 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

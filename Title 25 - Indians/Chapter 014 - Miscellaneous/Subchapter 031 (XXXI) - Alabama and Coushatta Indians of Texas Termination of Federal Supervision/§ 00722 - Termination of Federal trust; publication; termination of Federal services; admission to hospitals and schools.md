@@ -4,7 +4,3 @@ Upon the conveyance to the State of Texas of the lands held in trust by the Unit
 
 (Aug. 23, 1954, ch. 831, §2, 68 Stat. 769.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 723, 724, 725, 726, 728 of this title.
-

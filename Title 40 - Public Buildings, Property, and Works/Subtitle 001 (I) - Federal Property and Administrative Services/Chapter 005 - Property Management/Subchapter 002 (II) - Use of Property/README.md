@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—USE OF PROPERTY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 124, 505, 702 of this title; title 10 section 2814; title 38 section 8162.
-
 
 ---
 

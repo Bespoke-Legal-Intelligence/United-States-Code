@@ -70,7 +70,7 @@ Section 2 of Pub. L. 94–358 provided that: “The amendment made by the first 
 
 #### Effective Date
 
-Section 3 of Pub. L. 93–340 provided that: “This section shall become effective on the date of enactment of this Act \[July 10, 1974\]. The provisions of the first section and section 2 of this Act \[enacting this section and amending section 410 of Title 39, Postal Service\] shall become effective on the ninetieth day following the date of enactment.”
+Section 3 of Pub. L. 93–340 provided that: “This section shall become effective on the date of enactment ofthis Act \[July 10, 1974\]. The provisions of the first section and section 2 of this Act \[enacting this section and amending section 410 of Title 39, Postal Service\] shall become effective on the ninetieth day following the date of enactment.”
 
 #### Executive Order No. 11833
 
@@ -101,8 +101,4 @@ Sec. 4. The Secretary of the Treasury is authorized to prescribe additional regu
 Sec. 5. Executive Order No. 11968 of January 31, 1977, is hereby revoked. However, all actions heretofore taken by the President or his delegates in respect of the matters affected by this Order and in force at the time of the issuance of this Order, including any regulations prescribed or approved by the President or his delegates in respect of such matters and any existing agreements approved by his delegates, shall, except as they may be inconsistent with the provisions of this Order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this Order, unless sooner terminated by operation of law.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5517 of this title; title 39 section 410.
 

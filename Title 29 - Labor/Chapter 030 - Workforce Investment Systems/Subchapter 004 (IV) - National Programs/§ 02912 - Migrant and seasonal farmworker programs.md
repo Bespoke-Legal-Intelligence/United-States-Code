@@ -102,9 +102,5 @@ Provisions similar to this section were contained in sections 1672 and 1673 of t
 
 1998—Subsec. (d). Pub. L. 105–277 inserted “and section 2852(b)(1)(A)(iii) of this title” after “this section”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2852, 2915, 2919 of this title; title 20 section 1070d–2.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

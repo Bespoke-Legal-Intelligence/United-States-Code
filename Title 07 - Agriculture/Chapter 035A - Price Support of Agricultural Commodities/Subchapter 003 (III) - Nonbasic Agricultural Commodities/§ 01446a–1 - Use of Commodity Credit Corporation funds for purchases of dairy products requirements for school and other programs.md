@@ -20,7 +20,3 @@ Section 3(b) of Pub. L. 89–808 provided that the amendment made by that sectio
 
 Prohibition on furnishing commodities under authority of this section to summer camps where number of adults participating in activities of camp exceeds one for each five children under 18 years of age participating in such activities, see section 4(b) of Pub. L. 93–86, Aug. 10, 1973, 87 Stat. 249, set out as a note under section 612c of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1777, 4004 of this title; title 42 sections 1761, 3030a, 3045f.
-

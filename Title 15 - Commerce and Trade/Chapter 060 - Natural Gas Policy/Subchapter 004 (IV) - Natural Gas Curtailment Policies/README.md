@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—NATURAL GAS CURTAILMENT POLICIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 42 section 8235e.
-
 
 ---
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If at the end of any calendar year the aggregate of amounts in the Farm Credit InsuranceFund does not exceed the secure base amount, subject to paragraph (2), the annual premium due from any insured System bank for the calendar year shall be equal to the sum of—
+&emsp;If at the end of any calendar year the aggregate of amounts in the Farm Credit Insurance Fund does not exceed the secure base amount, subject to paragraph (2), the annual premium due from any insured System bank for the calendar year shall be equal to the sum of—
 
 &emsp;&emsp;(A) the annual average principal outstanding for such year on loans made by the bank that are in accrual status, excluding the guaranteed portions of loans provided for in subparagraphs (C) and (D), multiplied by 0.0015;
 
@@ -46,7 +46,7 @@ For purposes of this part, the term “secure base amount” means, with respect
 
 For the purpose of subsections (a), (c), and (e) of this section, the principal outstanding on all loans made by an insured System bank shall be determined based on all loans made—
 
-&emsp;(1) by any production credit association, or any other association making direct loans under authority provided under section 2279b of this title, that is able to make such loans because such association is receiving, or has received, funds provided through the insured System bank;
+&emsp;(1) by any production credit association, or any other association making direct loansunder authority provided under section 2279b of this title, that is able to make such loans because such association is receiving, or has received, funds provided through the insured System bank;
 
 &emsp;(2) by any bank, company, institution, corporation, union, or association described in section 2015(b)(1)(B) of this title, that is able to make such loans because such entity is receiving, or has received, funds provided through the insured System bank; and
 
@@ -112,7 +112,7 @@ For the purpose of subsections (a), (c), and (e) of this section, the principal 
 
 #### (i) Sufficient funding
 
-&emsp;&emsp;&emsp;Notwithstanding paragraph (4)(A), on provision by the Corporation for the accumulation in the Account established under paragraph (1)(B) of funds in an amount equal to $56,000,000 (in addition to the amounts described in subparagraph (F)(ii)), the Corporation shall not allocate any further funds to the Account except to replenish the Account if funds are diminished below $56,000,000 by the Corporation under paragraph (5).
+&emsp;&emsp;&emsp;Notwithstanding paragraph (4)(A), on provision by the Corporation for the accumulation in the Account established under paragraph (1)(B) of funds in an amount equal to $56,000,000 (in addition to theamounts described in subparagraph (F)(ii)), the Corporation shall not allocate any further funds to the Account except to replenish the Account if funds are diminished below $56,000,000 by the Corporation under paragraph (5).
 
 #### (ii) Wind down and termination
 
@@ -122,7 +122,7 @@ For the purpose of subsections (a), (c), and (e) of this section, the principal 
 
 #### (II) Termination of Account
 
-&emsp;&emsp;&emsp;&emsp;On disbursement of $56,000,000 (in addition to the amounts described in subparagraph (F)(ii)) from the Allocated Insurance Reserves Account, the Corporation shall close the Account established under paragraph (1)(B) and transfer any remaining funds in the Account to the remaining Allocated Insurance ReservesAccounts in accordance with paragraph (4)(B) for the calendar year in which the transfer occurs.
+&emsp;&emsp;&emsp;&emsp;On disbursement of $56,000,000 (in addition to the amounts described in subparagraph (F)(ii)) from the Allocated Insurance Reserves Account, the Corporation shall close the Account established under paragraph (1)(B) and transfer any remaining funds in the Account to the remaining Allocated Insurance Reserves Accounts in accordance with paragraph (4)(B) for the calendar year in which the transfer occurs.
 
 #### (D) Distribution of payments received
 
@@ -184,7 +184,7 @@ Subsec. (d)(3). Pub. L. 100–399, §302(e), substituted “Farm Credit Bank” 
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–171 applicable with respect to determinations of premiums for calendar year 2002 and for any succeeding calendar year, and to certified statements with respect to such premiums, seesection 5403(b) of Pub. L. 107–171, set out as a note under section 2020 of this title.
+Amendment by Pub. L. 107–171 applicable with respect to determinations of premiums for calendar year 2002 and for any succeeding calendar year, and to certified statements with respect to such premiums, see section 5403(b) of Pub. L. 107–171, set out as a note under section 2020 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -257,8 +257,4 @@ Potential Savings.—The Comptroller General of the United States shall evaluate
 “(d)
 
 Deadline.—The reports required under this section shall be provided to Congress not later than 12 months after the date of enactment of this Act \[Oct. 28, 1992\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2020, 2277a–5 of this title.
 

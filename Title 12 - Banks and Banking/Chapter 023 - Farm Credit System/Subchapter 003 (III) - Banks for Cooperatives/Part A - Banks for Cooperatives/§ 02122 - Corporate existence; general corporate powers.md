@@ -40,9 +40,9 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
 
 (iii) As used in this subparagraph, the term “participate” or “participation” refers to multilender transactions, including syndications, assignments, loan participations, subparticipations, or other forms of the purchase, sale, or transfer of interests in loans, other extensions of credit, or other technical and financial assistance.
 
-(12) Deposit its securities and its current funds with any member bank of the Federal Reserve System or any insured State nonmember bank (within the meaning of section 1813 of this title) or, to the extent necessary to facilitate transactions which may be financed under section 2128(b) of this title, any other financial organization, domestic or foreign, as may be authorized by its board of directors, and pay fees therefor and receive interest thereon as may be agreed. When designated for that purpose by the Secretary of the Treasury, it shall be a depository of public money, except receipts from customs, under such regulations as may be prescribed by the Secretary; may be employed as a fiscal agent of the Government, and shall perform all such reasonable duties as a depository of public money or financial agent of the Government as may be required of it. No Government funds deposited under the provisions of this subsection shall be invested in loans or bonds or other obligations of the bank.
+(12) Deposit its securities and its current funds with any member bank of the Federal Reserve System or any insured State nonmember bank (within the meaning of section 1813 of this title) or, to the extent necessary to facilitate transactions which may be financed under section 2128(b) of this title, any other financial organization, domestic or foreign, as may be authorized by its board of directors, and pay fees therefor and receive interest thereon as may be agreed. When designated for that purpose by the Secretary of the Treasury, it shall be a depository of public money, except receipts from customs, under such regulations as may be prescribed by the Secretary; may be employed as afiscal agent of the Government, and shall perform all such reasonable duties as a depository of public money or financial agent of the Government as may be required of it. No Government funds deposited under the provisions of this subsection shall be invested in loans or bonds or other obligations of the bank.
 
-(13)(A) Buy and sell obligations of or insured by the United States or of any agency thereof, or securities backed by the full faith and creditof any such agency and make such other investments as may be authorized under regulations issued by the Farm Credit Administration.
+(13)(A) Buy and sell obligations of or insured by the United States or of any agency thereof, or securities backed by the full faith and credit of any such agency and make such other investments as may be authorized under regulations issued by the Farm Credit Administration.
 
 (B) As may be authorized by its board of directors, buy from and sell to Farm Credit System institutions interests in loans and in other financial assistance extended and nonvoting stock.
 
@@ -95,8 +95,4 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2206a of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—HEADSTART AND FOLLOW THROUGH
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 644, 2706 of this title; title 8 section 1255a.
-
 
 ---
 

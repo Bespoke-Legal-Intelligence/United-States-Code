@@ -8,7 +8,3 @@ For the purposes of this chapter, there are authorized to be appropriated, out o
 
 See note preceding section 141 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 143 of this title.
-

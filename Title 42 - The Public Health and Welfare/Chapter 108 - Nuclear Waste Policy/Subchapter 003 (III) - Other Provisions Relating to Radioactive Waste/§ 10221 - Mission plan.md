@@ -36,7 +36,3 @@ The Secretary shall prepare a comprehensive report, to be known as the mission p
 
 (Pub. L. 97–425, title III, §301, Jan. 7, 1983, 96 Stat. 2255.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10196, 10197 of this title.
-

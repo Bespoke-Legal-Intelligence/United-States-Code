@@ -10,7 +10,7 @@ A prior section 401 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 269
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(9) \[title VII, §701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–701, provided that: “This title \[amending sections 7107, 7109, and 7110 of this title andrepealing former section 7109 of this title\] may be cited as the ‘National Women's Business Council Reauthorization Act of 2000’.”
+Pub. L. 106–554, §1(a)(9) \[title VII, §701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–701, provided that: “This title \[amending sections 7107, 7109, and 7110 of this title and repealing former section 7109 of this title\] may be cited as the ‘National Women's Business Council Reauthorization Act of 2000’.”
 
 #### Ex. Ord. No. 12138. National Women's Business Enterprise Policy and National Program for Women's Business Enterprise
 
@@ -74,7 +74,7 @@ The Committee shall in a manner consistent with law:
 
 1–303. Promote the mobilization of activities and resources of State and local governments, business and trade associations, private industry, colleges and universities, foundations, professional organizations, and volunteer and other groups toward the growth of women's business enterprise, and facilitate the coordination of the efforts of these groups with those of the departments and agencies.
 
-1–304. Make an annual assessment of the progress made in the Federal Government toward assistingwomen's business enterprise to enter the mainstream of business ownership and to provide recommendations for future actions to the President.
+1–304. Make an annual assessment of the progress made in the Federal Government toward assisting women's business enterprise to enter the mainstream of business ownership and to provide recommendations for future actions to the President.
 
 1–305. Convene and consult as necessary with persons inside and outside government to develop and promote new ideas concerning the development of women's business enterprise.
 
@@ -119,8 +119,4 @@ For the purposes of this Order, the following definitions shall apply:
 Construction
 
 Nothing in this Order shall be construed as limiting the meaning or effect of any existing Executive order.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7108 of this title.
 

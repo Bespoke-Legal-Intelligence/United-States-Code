@@ -72,7 +72,3 @@ Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub
 
 Section 402(b)(A) of Pub. L. 91–524, as added by section 1(9) of Pub. L. 93–86, provided that: “Section 379b of the Agricultural Adjustment Act of 1938 (which provides for a wheat marketing certificate program) \[this section\] shall not be applicable to the 1974 through 1977 crops of wheat, except as provided in paragraphs (B) and (C) of this subsection \[amending this section and section 1379c of this title\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1334 of this title.
-

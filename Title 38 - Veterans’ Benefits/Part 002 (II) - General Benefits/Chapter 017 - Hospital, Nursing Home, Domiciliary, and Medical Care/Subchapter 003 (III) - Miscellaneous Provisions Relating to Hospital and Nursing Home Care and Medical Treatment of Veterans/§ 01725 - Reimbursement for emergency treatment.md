@@ -48,11 +48,11 @@ Limitations on Reimbursement.—(1) The Secretary, in accordance with regulation
 
 Independent Right of Recovery.—(1) In accordance with regulations prescribed by the Secretary, the United States shall have the independent right to recover any amount paid under this section when, and to the extent that, a third party subsequently makes a payment for the same emergency treatment.
 
-(2) Any amount paid by the United States to the veteran (or the veteran's personal representative, successor, dependents, or survivors) or to any other person or organization paying for suchtreatment shall constitute a lien in favor of the United States against any recovery the payee subsequently receives from a third party for the same treatment.
+(2) Any amount paid by the United States to the veteran (or the veteran's personal representative, successor, dependents, or survivors) or to any other person or organization paying for such treatment shall constitute a lien in favor of the United States against any recovery the payee subsequently receives from a third party for the same treatment.
 
 (3) Any amount paid by the United States to the provider that furnished the veteran's emergency treatment shall constitute a lien against any subsequent amount the provider receives from a third party for the same emergency treatment for which the United States made payment.
 
-(4) The veteran (or the veteran's personal representative, successor, dependents, or survivors) shall ensure that the Secretary is promptly notified of any payment received from any third party for emergency treatment furnished to the veteran. The veteran (or the veteran's personal representative, successor, dependents, or survivors) shall immediately forward all documents relating to such payment, cooperate with the Secretary in the investigation of such payment, and assist the Secretary in enforcing the United States right to recover any payment made under subsection (c)(3).
+(4) The veteran (or the veteran's personal representative, successor, dependents, or survivors) shall ensure that the Secretary is promptly notified of any payment received from any third party for emergency treatment furnished to the veteran. The veteran (or the veteran's personal representative, successor, dependents, or survivors) shall immediately forward all documents relating to such payment, cooperate with the Secretary in the investigation of such payment, and assist the Secretary in enforcing the UnitedStates right to recover any payment made under subsection (c)(3).
 
 (e)
 
@@ -107,8 +107,4 @@ Pub. L. 106–117, title I, §111(c), Nov. 30, 1999, 113 Stat. 1556, provided th
 #### Implementation Reports
 
 Pub. L. 106–117, title I, §111(d), Nov. 30, 1999, 113 Stat. 1556, provided that: “The Secretary \[of Veterans Affairs\] shall include with the budget justification materials submitted to Congress in support of the Department of Veterans Affairs budget for fiscal year 2002 and for fiscal year 2003 a report on the implementation of section 1725 of title 38, United States Code, as added by subsection (a). Each such report shall include information on the experience of the Department under that section and the costs incurred, and expected to be incurred, under that section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1729A of this title.
 

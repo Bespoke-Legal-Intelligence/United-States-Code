@@ -28,7 +28,7 @@ Foster care maintenance payments may be made under this part only on behalf of a
 
 #### (c) “Foster family home” and “child-care institution” defined
 
-For the purposes of this part, (1) the term “foster family home” means a foster family home for children which is licensed by the State in which it is situated or has been approved, by the agency of such State having responsibility for licensing homes of this type, as meeting the standards established for such licensing; and (2) the term “child-care institution” means a private child-care institution, or a public child-care institution which accommodates no more than twenty-five children, which is licensed by the State in which it is situated or has been approved, by the agency of such State responsible for licensing or approval of institutions of this type, as meeting the standards established for such licensing, but the term shall not include detention facilities, forestry camps, trainingschools, or any other facility operated primarily for the detention of children who are determined to be delinquent.
+For the purposes of this part, (1) the term “foster family home” means a foster family home for children which is licensed by the State in which it is situated or has been approved, by the agency of such State having responsibility for licensing homes of this type, as meeting the standards established for such licensing; and (2) the term “child-care institution” means a private child-care institution, or a public child-care institution which accommodates no more than twenty-five children, which is licensed by the State in which it is situated or has been approved, by the agency of such State responsible for licensing or approval of institutions of this type, as meeting the standards established for such licensing, but the term shall not include detention facilities, forestry camps, training schools, or any other facility operated primarily for the detention of children who are determined to be delinquent.
 
 #### (d) Children removed from their homes pursuant to voluntary placement agreements
 
@@ -140,11 +140,7 @@ Section 102(d)(1) of Pub. L. 96–272 provided that: “For purposes of section 
 
 #### Annual Report to Congress of Number of Children Placed in Foster Care Pursuant to Voluntary Placement Agreements
 
-Pub. L. 96–272, title I, §102(e), June 17, 1980, 94 Stat. 515, as amended by Pub. L. 100–203, title IX, §9131(a)(3), Dec. 22, 1987, 101 Stat. 1330–313, which required the Secretary of Health, Education, and Welfare, to submit to Congress a full and complete annual report on theplacement of children in foster care pursuant to voluntary placement agreements under this section and section 608 of this title, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 12 on page 99 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 602, 671, 673, 674, 675, 1382, 1396v, 5633 of this title.
+Pub. L. 96–272, title I, §102(e), June 17, 1980, 94 Stat. 515, as amended by Pub. L. 100–203, title IX, §9131(a)(3), Dec. 22, 1987, 101 Stat. 1330–313, which required the Secretary of Health, Education, and Welfare, to submit to Congress a full and complete annual report on the placement of children in foster care pursuant to voluntary placement agreements under this section and section 608 of this title, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 12 on page 99 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

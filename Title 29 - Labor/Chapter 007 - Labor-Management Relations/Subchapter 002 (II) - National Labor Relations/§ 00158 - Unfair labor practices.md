@@ -26,7 +26,7 @@ It shall be an unfair labor practice for a labor organization or its agents—
 
 &emsp;(4)(i) to engage in, or to induce or encourage any individual employed by any person engaged in commerce or in an industry affecting commerce to engage in, a strike or a refusal in the course of his employment to use, manufacture, process, transport, or otherwise handle or work on any goods, articles, materials, or commodities or to perform any services; or (ii) to threaten, coerce, or restrain any person engaged in commerce or in an industry affecting commerce, where in either case an object thereof is—
 
-&emsp;&emsp;(A) forcing or requiring any employer or self-employed person to join any labor or employer organization or to enter into any agreement which is prohibited by subsection (e) of this section;
+&emsp;&emsp;(A) forcing or requiring any employer or self-employed person to join any labor or employer organization or to enter into anyagreement which is prohibited by subsection (e) of this section;
 
 &emsp;&emsp;(B) forcing or requiring any person to cease using, selling, handling, transporting, or otherwise dealing in the products of any other producer, processor, or manufacturer, or to cease doing business with any other person, or forcing or requiring any other employer to recognize or bargain with a labor organization as the representative of his employees unless such labor organization has been certified as the representative of such employees under the provisions of section 159 of this title: <i>Provided</i>, That nothing contained in this clause (B) shall be construed to make unlawful, where not otherwise unlawful, any primary strike or primary picketing;
 
@@ -56,13 +56,13 @@ The expressing of any views, argument, or opinion, or the dissemination thereof,
 
 #### (d) Obligation to bargain collectively
 
-For the purposes of this section, to bargain collectively is the performance of the mutual obligation of the employer and the representative of the employees to meet at reasonable times and confer in good faith with respect to wages, hours, and other terms and conditions of employment, or the negotiation of an agreement, or any question arising thereunder, and the execution of a written contract incorporating any agreement reached if requested by either party, but such obligation does not compel either party to agree to a proposal or require the making of a concession: <i>Provided</i>, That where there is in effect a collective-bargaining contract covering employees in an industry affecting commerce, the duty to bargain collectively shall also mean that no party to such contract shall terminate or modify such contract, unless the party desiring such termination or modification—
+For the purposes of this section, to bargain collectively is the performance of the mutual obligation of the employer and the representative of the employees to meet at reasonable times and confer in good faith with respect towages, hours, and other terms and conditions of employment, or the negotiation of an agreement, or any question arising thereunder, and the execution of a written contract incorporating any agreement reached if requested by either party, but such obligation does not compel either party to agree to a proposal or require the making of a concession: <i>Provided</i>, That where there is in effect a collective-bargaining contract covering employees in an industry affecting commerce, the duty to bargain collectively shall also mean that no party to such contract shall terminate or modify such contract, unless the party desiring such termination or modification—
 
 &emsp;(1) serves a written notice upon the other party to the contract of the proposed termination or modification sixty days prior to the expiration date thereof, or in the event such contract contains no expiration date, sixty days prior to the time it is proposed to make such termination or modification;
 
 &emsp;(2) offers to meet and confer with the other party for the purpose of negotiating a new contract or a contract containing the proposed modifications;
 
-&emsp;(3) notifies the Federal Mediation and Conciliation Service within thirty days after suchnotice of the existence of a dispute, and simultaneously therewith notifies any State or Territorial agency established to mediate and conciliate disputes within the State or Territory where the dispute occurred, provided no agreement has been reached by that time; and
+&emsp;(3) notifies the Federal Mediation and Conciliation Service within thirty days after such notice of the existence of a dispute, and simultaneously therewith notifies any State or Territorial agency established to mediate and conciliate disputes within the State or Territory where the dispute occurred, provided no agreement has been reached by that time; and
 
 &emsp;(4) continues in full force and effect, without resorting to strike or lock-out, all the terms and conditions of the existing contract for a period of sixty days after such notice is given or until the expiration date of such contract, whichever occurs later:
 
@@ -84,7 +84,7 @@ It shall not be an unfair labor practice under subsections (a) and (b) of this s
 
 #### (g) Notification of intention to strike or picket at any health care institution
 
-A labor organization before engaging in any strike, picketing, or other concerted refusal towork at any health care institution shall, not less than ten days prior to such action, notify the institution in writing and the Federal Mediation and Conciliation Service of that intention, except that in the case of bargaining for an initial agreement following certification or recognition the notice required by this subsection shall not be given until the expiration of the period specified in clause (B) of the last sentence of subsection (d) of this section. The notice shall state the date and time that such action will commence. The notice, once given, may be extended by the written agreement of both parties.
+A labor organization before engaging in any strike, picketing, or other concerted refusal to work at any health care institution shall, not less than ten days prior to such action, notify the institution in writing and the Federal Mediation and Conciliation Service of that intention, except that in the case of bargaining for an initial agreement following certification or recognition the notice required by this subsection shall not be given until the expiration of the period specified in clause (B) of the last sentence of subsection (d) of this section. The notice shall state the date and time that such action will commence. The notice, once given, may be extended by the written agreement of both parties.
 
 (July 5, 1935, ch. 372, §8, 49 Stat. 452; June 23, 1947, ch. 120, title I, §101, 61 Stat. 140; Oct. 22, 1951, ch. 534, §1(b), 65 Stat. 601; Pub. L. 86–257, title II, §201(e), title VII, §§704(a)–(c), 705(a), Sept. 14, 1959, 73 Stat. 525, 542–545; Pub. L. 93–360, §1(c)–(e), July 26, 1974, 88 Stat. 395, 396.)
 
@@ -127,10 +127,6 @@ Section 705(b) of Pub. L. 86–257 provided that: “Nothing contained in the am
 #### Unfair Labor Practices Prior to June 23, 1947
 
 Section 102 of title I of act June 23, 1947, provided that: “No provision of this title \[amending this subchapter\] shall be deemed to make an unfair labor practice any act which was performed prior to the date of the enactment of this act \[June 23, 1947\] which did not constitute an unfair labor practice prior thereto, and the provisions of section 8(a)(3) and section 8(b)(2) of the National Labor Relations Act as amended by this title \[subsecs. (a)(3) and (b)(2) of this section\] shall not make an unfair labor practice the performance of any obligation under a collective-bargaining agreement entered into prior to the date of the enactment of this Act \[June 23, 1947\], or (in the case of an agreement for a period of not more than one year) entered into on or after such date of enactment, but prior to the effective date of this title, if the performance of such obligation would not have constituted an unfair labor practice under section 8(3) \[see subsec. (a)(3) of this section\] of the National Labor Relations Act prior to the effective date of this title \[sixty days after June 23, 1947\] unless such agreement was renewed or extended subsequent thereto.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 158a, 159, 160, 183, 187, 433, 2101 of this title; title 18 section 1951; title 42 sections 653a, 2297h–8.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “unenforceable”.</i>
 

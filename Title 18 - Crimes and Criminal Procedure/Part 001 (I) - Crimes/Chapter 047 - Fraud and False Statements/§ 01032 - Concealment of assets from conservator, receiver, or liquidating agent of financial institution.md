@@ -20,7 +20,3 @@ Sections 11, 12, and 13 of the Federal Deposit Insurance Act, referred to in par
 
 2002—Par. (1). Pub. L. 107–273 substituted “13” for “13,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 225, 981, 982, 1956 of this title; title 12 sections 1785, 1786, 1787, 1821, 1828, 1829, 1833a.
-

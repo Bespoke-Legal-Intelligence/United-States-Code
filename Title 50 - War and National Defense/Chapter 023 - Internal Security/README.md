@@ -70,10 +70,6 @@
 
 Application of subchapters I and II of this chapter and other provisions of the Internal Security Act of 1950, as amended, to members of the Communist Party and other subversive organizations, see section 843 of this title, and References in Text note set out under that section.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 842, 843 of this title; title 26 section 3121; title 42 section 410.
-
 
 ---
 

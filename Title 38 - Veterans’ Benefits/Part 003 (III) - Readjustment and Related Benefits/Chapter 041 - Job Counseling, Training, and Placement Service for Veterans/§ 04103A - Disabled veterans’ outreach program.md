@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Employment by States of a Sufficient Number of Specialists.—(1) Subject to approval by the Secretary, a State shall employ such full- or part-time disabled veterans’ outreach program specialists as the State determines appropriate and efficient to carry out intensive services under this chapter to meet the employment needs of eligible veterans with the following priority in the provision of services:
+Requirement for Employment by States of a Sufficient Number of Specialists.—(1)Subject to approval by the Secretary, a State shall employ such full- or part-time disabled veterans’ outreach program specialists as the State determines appropriate and efficient to carry out intensive services under this chapter to meet the employment needs of eligible veterans with the following priority in the provision of services:
 
 &emsp;(A) Special disabled veterans.
 
@@ -48,7 +48,7 @@ Subsec. (c)(2). Pub. L. 102–83, §5(c)(1), substituted “3687” for “1787�
 
 1989—Subsecs. (b)(2), (c)(2), (3), (8). Pub. L. 101–237 substituted “Secretary of Veterans Affairs” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
-1988—Subsec. (a)(1). Pub. L. 100–323, §2(e)(1)(A)(i), (ii), redesignated par. (2) as (1), substituted “The amount of funds made available for use in a State under section 2002A(b)(5)(A)(i) of this title shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.” for “Funds provided for use in a State underthis subsection shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.”, inserted “qualified” before “veteran” in second sentence, inserted “qualified” before “disabled” wherever appearing in third, fourth, and fifth sentences, inserted “qualified” after “any” in fifth sentence, and struck out former par. (1) which read as follows: “The Secretary of Labor, acting through the Assistant Secretary for Veterans’ Employment, shall make available for use in each State, directly or by grant or contract, such funds as may be necessary to support a disabled veterans’ outreach program designed to meet the employment needs of veterans, especially disabled veterans of the Vietnam era.”
+1988—Subsec. (a)(1). Pub. L. 100–323, §2(e)(1)(A)(i), (ii), redesignated par. (2) as (1), substituted “The amount of funds made available for use in a State under section 2002A(b)(5)(A)(i) of this title shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.” for “Funds provided for use in a State under this subsection shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.”, inserted “qualified” before “veteran” in second sentence, inserted “qualified” before “disabled” wherever appearing in third, fourth, and fifth sentences, inserted “qualified” after “any” in fifth sentence, and struck out former par. (1) which read as follows: “The Secretary of Labor, acting through the Assistant Secretary for Veterans’ Employment, shall make available for use in each State, directly or by grant or contract, such funds as may be necessary to support a disabled veterans’ outreach program designed to meet the employment needs of veterans, especially disabled veterans of the Vietnam era.”
 
 Subsec. (a)(2). Pub. L. 100–323, §2(e)(1)(A)(i), (iii), redesignated par. (4) as (2) and struck out “paragraph (2) of” after “appointed pursuant to”. Former par. (2) redesignated (1).
 
@@ -101,8 +101,4 @@ Amendment by sections 2(e)(1)(B) and 15(c)(1) of Pub. L. 100–323 effective May
 #### Effective Date
 
 Section effective Oct. 1, 1980, see section 802(e) of Pub. L. 96–466, set out as an Effective Date of 1980 Amendment note under section 4101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3672, 4102A of this title; title 29 section 2913.
 

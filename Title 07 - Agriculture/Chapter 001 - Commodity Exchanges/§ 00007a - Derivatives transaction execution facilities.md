@@ -40,7 +40,7 @@ In lieu of compliance with the contract market designation requirements of secti
 
 &emsp;&emsp;&emsp;(i) is registered with the Commission;
 
-&emsp;&emsp;&emsp;(ii) is a member of a futures self-regulatory organization or, if the person tradesonly security futures products on the facility, a national securities association registered under section 15A(a) of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>–3(a)\];
+&emsp;&emsp;&emsp;(ii) is a member of a futures self-regulatory organization or, if the person trades only security futures products on the facility, a national securities association registered under section 15A(a) of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>–3(a)\];
 
 &emsp;&emsp;&emsp;(iii) is a clearing member of a derivatives clearing organization; and
 
@@ -187,10 +187,6 @@ The Securities Exchange Act of 1934, referred to in subsec. (b)(2)(D)(ii), is ac
 #### Prior Provisions
 
 A prior section 7a, act Sept. 21, 1922, ch. 369, §5a, as added June 15, 1936, ch. 545, §7, 49 Stat. 1497; amended Pub. L. 90–258, §12, Feb. 19, 1968, 82 Stat. 29; Pub. L. 93–463, title I, §103(a), (e), (f), title II, §§208–210, title IV, §§406, 407, Oct. 23, 1974, 88 Stat. 1392, 1400, 1401, 1413; Pub. L. 95–405, §§11, 12, Sept. 30, 1978, 92 Stat. 870, 871; Pub. L. 97–444, title II, §§216, 217(a), Jan. 11, 1983, 96 Stat. 2306, 2307; Pub. L. 99–641, title I, §110(2), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title I, §103, title II, §§201(a), 206(a)(1), 213(a), 217, 222(a), Oct. 28, 1992, 106 Stat. 3594, 3595, 3601, 3609, 3611, 3615, related to duties of contract markets prior to repeal by Pub. L. 106–554, §1(a)(5) \[title I, §110(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–384.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1a, 2, 7a–2, 8, 13a, 25 of this title; title 15 section 78f.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 

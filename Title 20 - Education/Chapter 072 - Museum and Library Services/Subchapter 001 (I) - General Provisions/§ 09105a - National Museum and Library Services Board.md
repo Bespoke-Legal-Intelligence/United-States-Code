@@ -138,7 +138,3 @@ A prior section 207 of Pub. L. 94–462 was renumbered section 208 and is classi
 
 Another prior section 207 of Pub. L. 94–462 was classified to section 966 of this title prior to the general amendment of title II of Pub. L. 94–462 by Pub. L. 104–208.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9101, 9102 of this title.
-

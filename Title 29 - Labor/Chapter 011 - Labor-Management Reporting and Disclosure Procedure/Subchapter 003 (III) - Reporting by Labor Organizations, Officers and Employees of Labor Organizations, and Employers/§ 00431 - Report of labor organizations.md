@@ -42,7 +42,3 @@ Every labor organization required to submit a report under this subchapter shall
 
 Section is comprised of subsecs. (a) to (c) of section 201 of Pub. L. 86–257. Subsec. (d) of section 201 repealed subsecs. (f) to (h) of section 159 of this title, and subsec. (e) of section 201 amended section 158(a)(3)(i) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 435, 437, 439, 461 of this title.
-

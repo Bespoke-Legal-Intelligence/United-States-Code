@@ -2,7 +2,7 @@
 
 #### (a) Applications for grants
 
-For each project for the construction of public telecommunications facilities there shall besubmitted to the Secretary an application for a grant containing such information with respect to such project as the Secretary may require, including the total cost of such project, the amount of the grant requested for such project, and a 5-year plan outlining the applicant's projected facilities requirements and the projected costs of such facilities requirements. Each applicant shall also provide assurances satisfactory to the Secretary that—
+For each project for the construction of public telecommunications facilities there shall be submitted to the Secretary an application for a grant containing such information with respect to such project as the Secretary may require, including the total cost of such project, the amount of the grant requested for such project, and a 5-year plan outlining the applicant's projected facilities requirements and the projected costs of such facilities requirements. Each applicant shall also provide assurances satisfactory to the Secretary that—
 
 &emsp;(1) the applicant is (A) a public broadcast station; (B) a noncommercial telecommunications entity; (C) a system of public telecommunications entities; (D) a nonprofit foundation, corporation, institution, or association organized primarily for educational or cultural purposes; or (E) a State or local government (or any agency thereof), or a political or special purpose subdivision of a State;
 
@@ -48,7 +48,7 @@ If, within 10 years after completion of any project for construction of public t
 
 #### (h) Recordkeeping requirements
 
-Each recipient of assistance under this subpart shall keep such records as may be reasonably necessary to enable the Secretary to carry out the functions of the Secretary under this subpart, including a complete and itemized inventory of all public telecommunications facilities under the control of such recipient, and records which fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project in connection with which such assistance is givenor used, the amount and nature of that portion of the cost of the project supplied by other sources, and such other records as will facilitate an effective audit.
+Each recipient of assistance under this subpart shall keep such records as may be reasonably necessary to enable the Secretary to carry out the functions of the Secretary under this subpart, including a complete and itemized inventory of all public telecommunications facilities under the control of such recipient, and records which fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project in connection with which such assistance is given or used, the amount and nature of that portion of the cost of the project supplied by other sources, and such other records as will facilitate an effective audit.
 
 #### (i) Accessibility of records
 
@@ -106,7 +106,7 @@ Section 103(b) of Pub. L. 95–567 provided that:
 
 “(2) Subject to the provisions of section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], the following are hereby transferred to the Secretary of Commerce for appropriate allocation—
 
-&emsp;“(A) the personnel employed in connection with or in support of, or as an integral part of the mission of, the functions transferred to the Secretary of Commerce from the Secretary of Health, Education, and Welfare by paragraph (1); and
+&emsp;“(A) the personnel employed in connection with or in support of, or as an integral part of the mission of,the functions transferred to the Secretary of Commerce from the Secretary of Health, Education, and Welfare by paragraph (1); and
 
 &emsp;“(B) the assets, liabilities, contracts, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, arising from, available for, or to be made available for, or in connection with, the functions described in subparagraph (A).
 
@@ -119,8 +119,4 @@ Section 103(b) of Pub. L. 95–567 provided that:
 &emsp;“(B) make such additional incidental dispositions of personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, arising from, available for, or to be made available for, or in connection with, the functions described in subparagraph (A);
 
 > as the Director may deem necessary to accomplish the purposes of this Act \[see Short Title of 1978 Amendment note set out under section 609 of this title\] and the amendments made by this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 902 of this title.
 

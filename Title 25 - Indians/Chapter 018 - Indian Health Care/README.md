@@ -256,7 +256,7 @@
 | (e) | Amount of assistance. |
 | (f) | Eligibility of programs administered by Indian tribes. |
 | (g) | Annual report; sanitation deficiency levels. |
-| [1633\.](Subchapter%20003%20%28III%29%20-%20Health%20Facilities/%C2%A7%2001633%20-%20Preferences%20to%20Indians%20and%20Indian%20firms.md) | Preference to Indians and Indian firms. |
+| [1633\.](Subchapter%20003%20%28III%29%20-%20Health%20Facilities/%C2%A7%2001633%20-%20Preferences%20to%20Indians%20and%20Indian%20firms.md) | Preferences to Indians and Indian firms. |
 | (a) | Discretionary authority; covered activities. |
 | (b) | Pay rates. |
 | [1634\.](Subchapter%20003%20%28III%29%20-%20Health%20Facilities/%C2%A7%2001634%20-%20Expenditure%20of%20non-Service%20funds%20for%20renovation.md) | Expenditure of non-Service funds for renovation. |
@@ -533,10 +533,6 @@
 | [1683\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2001683%20-%20Indian%20Catastrophic%20Health%20Emergency%20Fund.md) | Indian Catastrophic Health Emergency Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 450<i>l</i>, 458aaa–4, 458aaa–7 of this title; title 40 section 3162; title 42 sections 254b, 1320d, 14402.
 
 
 ---

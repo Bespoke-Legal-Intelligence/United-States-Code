@@ -32,7 +32,3 @@ Grantees who receive funds for a demonstration project for services under this s
 
 (July 1, 1944, ch. 373, title XX, §2004, as added Pub. L. 97–35, title IX, §955(a), Aug. 13, 1981, 95 Stat. 583.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300z–5 of this title.
-

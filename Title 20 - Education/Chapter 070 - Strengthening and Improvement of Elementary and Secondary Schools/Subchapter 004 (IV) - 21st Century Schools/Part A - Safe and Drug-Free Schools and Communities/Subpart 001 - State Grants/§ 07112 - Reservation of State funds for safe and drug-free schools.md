@@ -88,7 +88,7 @@
 
 #### (B) Uses of funds
 
-&emsp;&emsp;A State may use funds described in subparagraphs (A) and (B) of subsection (b)(2) ofthis section, either directly or through grants and contracts, to implement the uniform management information and reporting system described in subparagraph (A), for the collection of information on—
+&emsp;&emsp;A State may use funds described in subparagraphs (A) and (B) of subsection (b)(2) of this section, either directly or through grants and contracts, to implement the uniform management information and reporting system described in subparagraph (A), for the collection of information on—
 
 &emsp;&emsp;&emsp;(i) truancy rates;
 
@@ -115,8 +115,4 @@
 #### Prior Provisions
 
 A prior section 7112, Pub. L. 89–10, title IV, §4112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3675, related to State applications, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 7113 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7113, 7114, 7116, 7305b, 7315a of this title.
 

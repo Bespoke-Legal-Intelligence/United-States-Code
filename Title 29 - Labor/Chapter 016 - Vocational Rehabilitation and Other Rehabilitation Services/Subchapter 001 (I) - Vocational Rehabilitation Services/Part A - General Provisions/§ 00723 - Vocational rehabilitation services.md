@@ -2,7 +2,7 @@
 
 #### (a) Vocational rehabilitation services for individuals
 
-Vocational rehabilitation services provided under this subchapter are any services describedin an individualized plan for employment necessary to assist an individual with a disability in preparing for, securing, retaining, or regaining an employment outcome that is consistent with the strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the individual, including—
+Vocational rehabilitation services provided under this subchapter are any services described in an individualized plan for employment necessary to assist an individual with a disability in preparing for, securing, retaining, or regaining an employment outcome that is consistent with the strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the individual, including—
 
 &emsp;(1) an assessment for determining eligibility and vocational rehabilitation needs by qualified personnel, including, if appropriate, an assessment by personnel skilled in rehabilitation technology;
 
@@ -85,8 +85,4 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(5), is P
 #### Prior Provisions
 
 A prior section 723, Pub. L. 93–112, title I, §103, Sept. 26, 1973, 87 Stat. 368; Pub. L. 95–602, title I, §104, Nov. 6, 1978, 92 Stat. 2960; Pub. L. 99–506, title I, §103(d)(2), title II, §204, Oct. 21, 1986, 100 Stat. 1810, 1817; Pub. L. 100–630, title II, §202(d), Nov. 7, 1988, 102 Stat. 3305; Pub. L. 102–569, title I, §§102(p)(9), 124, Oct. 29, 1992, 106 Stat. 4357, 4379; Pub. L. 103–73, title I, §107(c), Aug. 11, 1993, 107 Stat. 721, related to scope of vocational rehabilitation services, prior to the general amendment of this subchapter by Pub. L. 105–220.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 705, 721, 773 of this title.
 

@@ -8,7 +8,3 @@ Every such adjudication shall be approved by the Secretary of the Interior and s
 
 R.S. §2451 derived from acts Aug. 3, 1846, ch. 78, §1, 9 Stat. 51; Feb. 27, 1877. ch. 69, §1, 19 Stat. 244.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1164 of this title.
-

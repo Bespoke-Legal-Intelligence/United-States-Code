@@ -4,7 +4,7 @@
 
 Subject to the provisions of section 77ddd of this title, a registration statement relating to a security shall include the following information and documents, as though such inclusion were required by the provisions of section 7 of the Securities Act of 1933 \[15 U.S.C. 77g\]—
 
-&emsp;(1) such information and documents as the Commission may by rules and regulations prescribe in order to enable the Commission to determine whether any person designated toact as trustee under the indenture under which such security has been or is to be issued is eligible to act as such under subsection (a) of section 77jjj of this title; and
+&emsp;(1) such information and documents as the Commission may by rules and regulations prescribe in order to enable the Commission todetermine whether any person designated to act as trustee under the indenture under which such security has been or is to be issued is eligible to act as such under subsection (a) of section 77jjj of this title; and
 
 &emsp;(2) an analysis of any provisions of such indenture with respect to (A) the definition of what shall constitute a default under such indenture, and the withholding of notice to the indenture security holders of any such default, (B) the authentication and delivery of the indenture securities and the application of the proceeds thereof, (C) the release or the release and substitution of any property subject to the lien of the indenture, (D) the satisfaction and discharge of the indenture, and (E) the evidence required to be furnished by the obligor upon the indenture securities to the trustee as to compliance with the conditions and covenants provided for in such indenture.
 
@@ -51,8 +51,4 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77ccc, 77ddd, 77fff, 77ggg, 77iii, 77jjj, 77vvv of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—NATIONAL FISHERY MANAGEMENT PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1802, 1821, 3343 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
@@ -23,5 +19,6 @@ This subchapter is referred to in sections 1802, 1821, 3343 of this title.
 - [&sect; 01860 - Civil forfeitures](%C2%A7%2001860%20-%20Civil%20forfeitures.md)
 - [&sect; 01861 - Enforcement](%C2%A7%2001861%20-%20Enforcement.md)
 - [&sect; 01861a - Transition to sustainable fisheries](%C2%A7%2001861a%20-%20Transition%20to%20sustainable%20fisheries.md)
+- [&sect; 01861b - Fisheries enforcement plans and reporting](%C2%A7%2001861b%20-%20Fisheries%20enforcement%20plans%20and%20reporting.md)
 - [&sect; 01862 - North Pacific fisheries conservation](%C2%A7%2001862%20-%20North%20Pacific%20fisheries%20conservation.md)
 - [&sect; 01863 - Northwest Atlantic Ocean Fisheries Reinvestment Program](%C2%A7%2001863%20-%20Northwest%20Atlantic%20Ocean%20Fisheries%20Reinvestment%20Program.md)

@@ -24,7 +24,3 @@ Prior section 901 was renumbered section 2301 of this title.
 
 Provisions similar to those in this section were contained in section 218(a) of this title prior to repeal by Pub. L. 102–83, §2(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 902 of this title.
-

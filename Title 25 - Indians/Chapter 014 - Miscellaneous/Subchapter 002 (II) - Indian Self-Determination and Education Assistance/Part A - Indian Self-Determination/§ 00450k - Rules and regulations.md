@@ -36,7 +36,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 (D) Notwithstanding any other provision of law (including any regulation), the Secretary of the Interior and the Secretary of Health and Human Services are authorized to jointly establish and fund such interagency committees or other interagency bodies, including advisory bodies comprised of tribal representatives, as may be necessary or appropriate to carry out the provisions of this subchapter.
 
-(E) If the Secretary determines that an extension of the deadlines under subsection (a)(2)(B) of this section and subparagraph (C) of this paragraph is appropriate, the Secretary maysubmit proposed legislation to Congress for the extension of such deadlines.
+(E) If the Secretary determines that an extension of the deadlines under subsection (a)(2)(B) of this section and subparagraph (C) of this paragraph is appropriate, the Secretary may submit proposed legislation to Congress for the extension of such deadlines.
 
 #### (e) Exceptions in or waiver of regulations
 
@@ -48,7 +48,7 @@ The Secretary may, with respect to a contract entered into under this subchapter
 
 The Contract Disputes Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 41 and Tables.
 
-The Indian Self-Determination Contract Reform Act of 1994, referred to in subsec. (d)(2)(C), is title I of Pub. L. 103–413, Oct. 25, 1994, 108 Stat. 4250, which enacted section 450<i>l</i> of this title, amended this section and sections 450b, 450c, 450e, 450f, 450j, 450j–1, 450m, and 450m–1 of this title, and enacted provisions set out as a note under section 450 of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 450 of this title and Tables.
+The Indian Self-Determination Contract Reform Act of 1994, referred to in subsec. (d)(2)(C), is title I of Pub. L. 103–413, Oct. 25, 1994, 108 Stat. 4250, which enacted section 450<i>l</i> of this title, amended this section and sections 450b, 450c, 450e, 450f, 450j, 450j–1, 450m, and 450m–1 of this title, and enacted provisions set out as a noteunder section 450 of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 450 of this title and Tables.
 
 #### Amendments
 
@@ -98,9 +98,5 @@ Committee on Natural Resources of House of Representatives treated as referring 
 
 #### Effective Date and Construction of 1996 Amendment
 
-Section 6(e) of Pub. L. 104–287 provided that: “Effective November 2, 1994, section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589) \[amending this section\], is repealed and section 107(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450k(b)), as amended by section105(1) of the Indian Self-Determination Act (Public Law 103–413, 108 Stat. 4269), is revived and shall read as if section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589), had not been enacted.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450b, 450h of this title.
+Section 6(e) of Pub. L. 104–287 provided that: “Effective November 2, 1994, section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589) \[amending this section\], is repealed and section 107(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450k(b)), as amended by section 105(1) of the Indian Self-Determination Act (Public Law 103–413, 108 Stat. 4269), is revived and shall read as if section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589), had not been enacted.
 

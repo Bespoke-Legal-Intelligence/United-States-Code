@@ -21,10 +21,6 @@
 
 1990—Pub. L. 101–647, title XXXV, §3590, Nov. 29, 1990, 104 Stat. 4930, substituted “possessors” for “possessor” in item 3607.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3566, 3586 of this title.
-
 <i><sup>1</sup></i><i> Editorially supplied.</i>
 
 <i><sup>1</sup></i><i> So in original. Probably should not appear.</i>

@@ -10,7 +10,3 @@
 
 1980—Subsec. (a). Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5409, 5411, 5422 of this title.
-

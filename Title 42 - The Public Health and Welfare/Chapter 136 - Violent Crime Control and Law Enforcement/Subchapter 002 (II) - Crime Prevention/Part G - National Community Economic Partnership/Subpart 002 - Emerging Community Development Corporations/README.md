@@ -1,9 +1,5 @@
 subpart 2—emerging community development corporations
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 13852 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be section “13852(b)(1)”.</i>
 
 

@@ -8,7 +8,3 @@ The provisions of section 10136(c) or 10138(b) of this title with respect to gra
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10162 of this title.
-

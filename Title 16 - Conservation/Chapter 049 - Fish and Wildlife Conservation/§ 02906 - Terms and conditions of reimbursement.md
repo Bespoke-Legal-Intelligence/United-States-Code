@@ -8,7 +8,3 @@ Reimbursements made to the States under section 2905 of this title shall be subj
 
 (Pub. L. 96–366, §7, Sept. 29, 1980, 94 Stat. 1327.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2905 of this title.
-

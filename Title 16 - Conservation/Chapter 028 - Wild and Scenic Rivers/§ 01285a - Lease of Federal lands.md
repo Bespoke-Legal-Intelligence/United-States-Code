@@ -10,7 +10,3 @@ Any land to be leased by the Secretary under this section shall be offered first
 
 (Pub. L. 90–542, §14A, as added Pub. L. 95–625, title VII, §764, Nov. 10, 1978, 92 Stat. 3534.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1279 of this title.
-

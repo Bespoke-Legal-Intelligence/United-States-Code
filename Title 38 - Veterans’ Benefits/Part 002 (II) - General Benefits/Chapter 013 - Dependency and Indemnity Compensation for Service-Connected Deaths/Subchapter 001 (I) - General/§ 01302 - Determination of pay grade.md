@@ -70,7 +70,3 @@ Section 8 of Pub. L. 91–96 provided that: “This Act \[amending this section 
 
 Section 2 of Pub. L. 89–622 provided that: “The amendment made by this Act \[amending this section\] shall take effect on the first day of the second calendar month after the date of enactment of this Act \[Oct. 4, 1966\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1311 of this title.
-

@@ -48,7 +48,3 @@ This section \[section 47\] corrects a typographical error in section 2421 of ti
 
 1949—Act May 24, 1949, corrected spelling of “induce”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1961, 2253, 2254, 2255, 2516, 3142, 3486, 3583 of this title; title 8 section 1101; title 42 section 14135a.
-

@@ -12,7 +12,7 @@ No contributions by the United States shall be made to the United Nations Relief
 
 #### (d) Audit of funds; report to Congress and the President
 
-In any case in which a fund established solely by United States contributions under this chapter or any other Act is administered by an international organization under the terms of an agreement between the United States and such international organization, such agreementshall provide that the Comptroller General of the United States shall conduct such audits as are necessary to assure that such fund is administered in accordance with such agreement. The President shall undertake to modify any existing agreement entered into before November 14, 1967, to conform to the requirements of the preceding sentence. The Comptroller General shall report simultaneously to the Congress and the President the results of the audits conducted under this subsection.
+In any case in which a fund established solely by United States contributions under this chapter or any other Act is administered by an international organization under the terms of an agreement between the United States and such international organization, such agreement shall provide that the Comptroller General of the United States shall conduct such audits as are necessary to assure that such fund is administered in accordance with such agreement. The President shall undertake to modify any existing agreement entered into before November 14, 1967, to conform to the requirements of the preceding sentence. The Comptroller General shall report simultaneously to the Congress and the President the results of the audits conducted under this subsection.
 
 #### (e) Evaluation of United Nations and its affiliated organizations; International Bank for Reconstruction and Development; Asian Development Bank
 
@@ -46,7 +46,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 1981—Subsec. (b). Pub. L. 97–113, §734(a)(1), struck out subsec. (b) which limited contributions to United Nations Development Program and restricted assistance to Cuba. See section 2370(f) of this title.
 
-Subsec. (e)(3). Pub. L. 97–113, §734(a)(1), struck out par. (3) which required reports by the President and the General Accounting Office of their evaluation of reports of international organizations to United Statesrepresentatives on those organizations. See section 2394 of this title.
+Subsec. (e)(3). Pub. L. 97–113, §734(a)(1), struck out par. (3) which required reports by the President and the General Accounting Office of their evaluation of reports of international organizations to United States representatives on those organizations. See section 2394 of this title.
 
 Subsec. (h). Pub. L. 97–113, §311(a), added subsec. (h).
 

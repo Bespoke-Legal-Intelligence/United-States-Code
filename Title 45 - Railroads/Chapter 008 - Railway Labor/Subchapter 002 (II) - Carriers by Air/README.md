@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—CARRIERS BY AIR
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 26 section 410; title 29 section 213; title 49 section 42112.
-
 
 ---
 

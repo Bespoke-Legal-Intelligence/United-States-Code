@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Program
 
-There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the medicare program by entering into contracts in accordance with this section with eligible entities to carry out the activities described in subsection (b) of this section.
+There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the medicare program by entering into contracts in accordance with this section with eligible entities to carry outthe activities described in subsection (b) of this section.
 
 #### (b) Activities described
 
@@ -124,7 +124,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (4) Provision of supporting documentation
 
-&emsp;In the case of a provider of services or supplier with respect to which amounts were previously overpaid, a medicare contractor may request the periodic production of records orsupporting documentation for a limited sample of submitted claims to ensure that the previous practice is not continuing.
+&emsp;In the case of a provider of services or supplier with respect to which amounts were previously overpaid, a medicare contractor may request the periodic production of records or supporting documentation for a limited sample of submitted claims to ensure that the previous practice is not continuing.
 
 #### (5) Consent settlement reforms
 
@@ -236,13 +236,9 @@ Notice of overutilization.—Not later than 1 year after the date of the enactme
 
 “(7)
 
-Payment audits.—Section 1893A(f)(7) \[1893(f)(7)\] of the Social Security Act \[probably means subsec. (f)(7) of this section\], as added by subsection (a), shall apply to audits initiated after the date of the enactment of this Act.
+Payment audits.—Section 1893A(f)(7) \[1893(f)(7)\] of the Social Security Act \[probably means subsec.\(f)(7) of this section\], as added by subsection (a), shall apply to audits initiated after the date of the enactment of this Act.
 
 “(8)
 
 Standard for abnormal billing patterns.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall first establish a standard methodology for selection of sample claims for abnormal billing patterns under section 1893(f)(8) of the Social Security Act \[subsec. (f)(8) of this section\], as added by subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395h, 1395i, 1395u, 1395hh, 1395kk–1, 1395zz of this title.
 

@@ -10,7 +10,3 @@ The heads of Federal departments or agencies are authorized and directed to perm
 
 (Pub. L. 90–583, §1, Oct. 17, 1968, 82 Stat. 1146.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1242 of this title.
-

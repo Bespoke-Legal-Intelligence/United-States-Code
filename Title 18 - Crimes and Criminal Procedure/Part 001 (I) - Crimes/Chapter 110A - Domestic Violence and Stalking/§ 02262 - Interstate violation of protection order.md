@@ -38,7 +38,7 @@ Penalties.—A person who violates this section shall be fined under this title,
 
 Crossing a state line.—A person who travels across a State line or enters or leaves Indian country with the intent to engage in conduct that—
 
-&emsp;“(A)(i) violates the portion of a protection order that involves protection against credible threats of violence, repeated harassment, or bodily injury to the person or persons for whom the protection order was issued; or
+&emsp;“(A)(i) violates the portion of a protection order that involves protection against credible threats ofviolence, repeated harassment, or bodily injury to the person or persons for whom the protection order was issued; or
 
 &emsp;“(ii) would violate this subparagraph if the conduct occurred in the jurisdiction in which the order was issued; and
 

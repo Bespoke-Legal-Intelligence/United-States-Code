@@ -42,9 +42,5 @@ Section 651 of Public Law 104–208, referred to in subsec. (b)(9), is section 1
 
 2002—Subsec. (b)(9). Pub. L. 107–295 added par. (9).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 828 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

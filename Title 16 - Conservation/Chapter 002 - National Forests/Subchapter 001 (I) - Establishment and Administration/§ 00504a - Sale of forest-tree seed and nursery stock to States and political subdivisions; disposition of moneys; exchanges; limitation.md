@@ -4,7 +4,3 @@ The Secretary of Agriculture is authorized, subject to such conditions as he may
 
 (Apr. 24, 1950, ch. 97, §9, 64 Stat. 85.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 580k of this title.
-

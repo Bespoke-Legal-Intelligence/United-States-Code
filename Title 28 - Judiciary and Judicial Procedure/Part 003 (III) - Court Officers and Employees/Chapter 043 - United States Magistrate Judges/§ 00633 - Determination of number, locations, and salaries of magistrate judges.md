@@ -12,7 +12,7 @@ Surveys by the Director.—
 
 (b)
 
-Determination by the Conference.—Upon the completion of the initial surveys required by subsection (a) of this section, the Director shall report to the district courts, the councils, and the conference his recommendations concerning the number of full-time magistrates and part-time magistrates, their respective locations, and the amount of their respective salaries under section 634 of this title. The district courts shall advise their respective councils, stating their recommendations and the reasons therefor; the councils shall advise the conference, statingtheir recommendations and the reasons therefor, and shall also report to the conference the recommendations of the district courts. The conference shall determine, in the light of the recommendations of the Director, the district courts, and the councils, the number of full-time United States magistrates and part-time United States magistrates, the locations at which they shall serve, and their respective salaries. Such determinations shall take effect in each judicial district at such time as the district court for such judicial district shall determine, but in no event later than one year after they are promulgated.
+Determination by the Conference.—Upon the completion of the initial surveys required by subsection (a) of this section, the Director shall report to the district courts, the councils, and the conference his recommendations concerning the number of full-time magistrates and part-time magistrates, their respective locations, and the amount of their respective salaries under section 634 of this title. The district courts shall advise their respective councils, stating their recommendations and the reasons therefor; the councils shall advise the conference, stating their recommendations and the reasons therefor, and shall also report to the conference the recommendations of the district courts. The conference shall determine, in the light of the recommendations of the Director, the district courts, and the councils, the number of full-time United States magistrates and part-time United States magistrates, the locations at which they shall serve, and their respective salaries. Such determinations shall take effect in each judicial district at such time as the district court for such judicial district shall determine, but in no event later than one year after they are promulgated.
 
 (c)
 
@@ -51,8 +51,4 @@ Amendment by Pub. L. 99–651 effective Jan. 1, 1987, see section 203 of Pub. L.
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 634 of this title.
 

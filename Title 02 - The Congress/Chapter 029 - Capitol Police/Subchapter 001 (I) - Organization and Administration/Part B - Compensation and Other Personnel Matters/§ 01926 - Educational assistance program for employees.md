@@ -42,7 +42,7 @@ Section was classified to section 207b–1 of former Title 40, prior to the enac
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–7 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to student loan repayment program.
+2003—Pub. L. 108–7 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to student loan repayment program.
 
 #### Deadline for Regulations
 

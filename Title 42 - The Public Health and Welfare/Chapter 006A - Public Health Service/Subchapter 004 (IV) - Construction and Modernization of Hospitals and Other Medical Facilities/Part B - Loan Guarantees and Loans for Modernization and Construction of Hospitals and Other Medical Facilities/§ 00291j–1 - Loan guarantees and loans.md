@@ -22,7 +22,3 @@ The Secretary, with the consent of the Secretary of Housing and Urban Developmen
 
 1973—Subsec. (a). Pub. L. 93–45 extended termination date of guarantee and loan making period in pars. (1) and (2) from June 30, 1973, to June 30, 1974.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 291j–2 of this title.
-

@@ -4,7 +4,3 @@ The property acquired pursuant to section 450pp of this title shall be establish
 
 (Pub. L. 89–293, §2, Oct. 22, 1965, 79 Stat. 1069.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 450pp–3 of this title.
-

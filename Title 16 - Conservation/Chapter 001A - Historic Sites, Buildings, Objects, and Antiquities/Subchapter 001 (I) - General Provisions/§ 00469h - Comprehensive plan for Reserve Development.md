@@ -6,7 +6,7 @@ The Secretary is authorized to provide technical assistance to the State of Wisc
 
 #### (b) Additional grants
 
-In addition to grants made pursuant to the Land and Water Conservation Fund Act of 1965\[16 U.S.C. 460<i>l–</i>4 et seq.\], the Secretary is authorized to make grants of not to exceed 25 per centum of the actual cost of each development project within the reserve in accordance with the comprehensive plan: <i>Provided</i>, That the maximum amount of such grants for all projects shall not exceed $2,500,000.
+In addition to grants made pursuant to the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l–</i>4 et seq.\], the Secretary is authorized to make grants of not to exceed 25 per centum of the actual cost of each development project within the reserve in accordance with the comprehensive plan: <i>Provided</i>, That the maximum amount of such grants for all projects shall not exceed $2,500,000.
 
 #### (c) Costs of maintenance
 
@@ -27,8 +27,4 @@ The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is
 1980—Subsec. (b). Pub. L. 96–199 substituted “$2,500,000” for “$425,000”.
 
 1970—Pub. L. 91–483 substituted provisions authorizing the Secretary to provide technical assistance and financial grants in addition to those under the Land and Water Conservation Fund Act of 1965, not exceeding 25 percent of the actual cost of each development project and up to a maximum of $425,000 and to share equally the annual costs of management, protection, maintenance and rehabilitation of the reserve for provisions for part recovery of the funds granted in case of conversion, and use or disposal contrary to the purposes of the establishment of the Ice Age National Scientific Reserve, and reenacted provisions for the termination of the grants.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 469d, 469e of this title.
 

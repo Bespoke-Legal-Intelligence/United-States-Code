@@ -12,7 +12,3 @@ Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 108–7, div. I, title I, Feb. 20, 2003, 117 Stat. 389.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 523 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—NATIONAL SENIOR VOLUNTEER CORPS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3013, 5056, 5058, 5061, 5081, 12592 of this title.
-
 
 ---
 

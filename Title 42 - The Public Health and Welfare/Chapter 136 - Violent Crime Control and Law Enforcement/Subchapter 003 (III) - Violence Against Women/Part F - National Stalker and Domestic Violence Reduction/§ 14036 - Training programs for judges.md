@@ -8,9 +8,5 @@ The State Justice Institute, after consultation with nationally recognized nonpr
 
 Section 10701 of this title, referred to in text, was in the original “section 202 of the State Justice Institute Authorization Act of 1984”, and was translated as reading “section 202 of the State Justice Institute Act of 1984”, which is section 202 of Pub. L. 98–620, to reflect the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

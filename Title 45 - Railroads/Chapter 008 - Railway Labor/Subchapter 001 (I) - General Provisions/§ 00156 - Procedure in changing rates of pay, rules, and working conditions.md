@@ -12,7 +12,3 @@ Carriers and representatives of the employees shall give at least thirty days’
 
 Ex. Ord. No. 9299, eff. Feb. 4, 1943, 8 F.R. 1669, provided procedure with respect to wage and salary adjustments for employees subject to this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 152, 157, 726, 741, 797g, 1346 of this title; title 11 section 1167.
-

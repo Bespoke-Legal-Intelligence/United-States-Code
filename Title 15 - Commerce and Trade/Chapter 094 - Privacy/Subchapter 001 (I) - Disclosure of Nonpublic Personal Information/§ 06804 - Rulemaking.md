@@ -20,7 +20,3 @@ The regulations prescribed under subsection (a) of this section may include such
 
 (Pub. L. 106–102, title V, §504, Nov. 12, 1999, 113 Stat. 1439.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6802, 6803, 6809 of this title.
-

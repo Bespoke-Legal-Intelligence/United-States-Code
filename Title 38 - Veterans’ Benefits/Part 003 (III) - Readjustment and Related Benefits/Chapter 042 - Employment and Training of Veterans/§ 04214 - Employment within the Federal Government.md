@@ -66,7 +66,7 @@ The civil service law, referred to in subsec. (f), is set forth in Title 5, Gove
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–288, §2(c)(1), (3)(A)(i), substituted “life” for “life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers” in first sentence, “uniquely qualified” for “major” in second sentence, and “qualified covered veterans (as defined in paragraph (2)(B))” for “disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era” in third sentence.
+2002—Subsec. (a)(1). Pub. L. 107–288, §2(c)(1), (3)(A)(i), substituted “life” for “life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers” in first sentence, “uniquely qualified” for “major” in second sentence, and “qualified covered veterans (as defined in paragraph (2)(B))” for “disabledveterans and certain veterans of the Vietnam era and of the post-Vietnam era” in third sentence.
 
 Subsec. (a)(2). Pub. L. 107–288, §2(c)(3)(A)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purposes of this section, the term ‘agency’ means a department, agency, or instrumentality in the executive branch.”
 
@@ -226,7 +226,7 @@ Section effective Dec. 3, 1974, see section 503 of Pub. L. 93–508, set out as 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in subsec. (e) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 188 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in subsec. (e) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note undersection 1113 of Title 31, Money and Finance, and page 188 of House Document No. 103–7.
 
 #### Contents of Reports on Veterans’ Readjustment Appointments
 

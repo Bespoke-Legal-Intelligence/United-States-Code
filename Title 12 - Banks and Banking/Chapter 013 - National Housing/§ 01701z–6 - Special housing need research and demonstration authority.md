@@ -28,7 +28,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 
 #### Indian Public Housing Early Childhood Development Demonstration Program
 
-Pub. L. 101–625, title V, §518, Nov. 28, 1990, 104 Stat. 4201, as amended by Pub. L. 102–550, title I, §124, Oct. 28, 1992, 106 Stat. 3709; Pub. L. 104–330, title V, §501(d)(1), Oct. 26, 1996, 110 Stat. 4042, authorized Secretary of Housing and Urban Development to carry out demonstration program in low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority in the same manner as the demonstration program under section 222 of Pub. L. 98–181 was carried out, and further provided for funding for demonstration program, limitations, and report toCongress, prior to repeal by Pub. L. 105–276, title V, §582(a)(7), Oct. 21, 1998, 112 Stat. 2643.
+Pub. L. 101–625, title V, §518, Nov. 28, 1990, 104 Stat. 4201, as amended by Pub. L. 102–550, title I, §124, Oct. 28, 1992, 106 Stat. 3709; Pub. L. 104–330, title V, §501(d)(1), Oct. 26, 1996, 110 Stat. 4042, authorized Secretary of Housing and Urban Development to carry out demonstration program in low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority in the same manner as the demonstration program under section 222 of Pub. L. 98–181 was carried out, and further provided for funding for demonstration program, limitations, and report to Congress, prior to repeal by Pub. L. 105–276, title V, §582(a)(7), Oct. 21, 1998, 112 Stat. 2643.
 
 #### Demonstration Project for Assistance to Units of General Local Government To Encourage Upgrading of Lower Income Family Housing
 
@@ -46,7 +46,7 @@ Pub. L. 98–181, title II, §225, Nov. 30, 1983, 97 Stat. 1191, provided that:
 
 &emsp;“(5) there is the potential for improving housing for many lower income families by coordinating State and local government efforts in order to assure that families receiving public assistance payments from the Department of Health and Human Services are able to live in decent, safe, and sanitary housing.
 
-“(b) The purpose of this section, therefore, is to provide assistance to units of general local government and their designated agencies in order to develop a program that will—
+“(b) The purpose of this section, therefore, is to provide assistance to units of general local governmentand their designated agencies in order to develop a program that will—
 
 &emsp;“(1) encourage the upgrading of housing occupied primarily by lower income families, including families receiving assistance under the aid for families with dependent children program established under title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]; and
 
@@ -84,7 +84,7 @@ Pub. L. 98–181, title II, §225, Nov. 30, 1983, 97 Stat. 1191, provided that:
 
 &emsp;“(1) contribute to the program an amount equal to 15 per centum of the funds received from the Secretary under this section, and the Secretary shall permit the recipient to meet this requirement by the contribution of the value of services carried out specifically in connection with the program assisted under this section;
 
-&emsp;“(2) permit the Secretary and the General Accounting Office to audit its books in order to assure that the funds received under this section are used in accordance with the section; and
+&emsp;“(2) permit the Secretary and the General Accounting Office \[now Government Accountability Office\] to audit its books in order to assure that the funds received under this section are used in accordance with the section; and
 
 &emsp;“(3) other terms and conditions prescribed by the Secretary for the purpose of carrying out this section in an effective and efficient manner.
 
@@ -98,7 +98,7 @@ Pub. L. 98–181, title II, §225, Nov. 30, 1983, 97 Stat. 1191, provided that:
 
 #### Public Housing Early Childhood Development Program
 
-Pub. L. 98–181, title II, §222, Nov. 30, 1983, 97 Stat. 1188, as amended by Pub. L. 100–242, title I, §117, Feb. 5, 1988,101 Stat. 1826; Pub. L. 100–628, title X, §1002, Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §517, Nov. 28, 1990, 104 Stat. 4200; Pub. L. 102–550, title I, §123, Oct. 28, 1992, 106 Stat. 3709, which authorized Secretary of Housing and Urban Development to carry out demonstration program of making grants to nonprofit organizations to assist in providing early childhood development services in or near lower income housing projects, and required report to Congress setting forth findings and conclusions not later than three years after Feb. 5, 1988, was repealed by Pub. L. 105–276, title V, §582(a)(6), Oct. 21, 1998, 112 Stat. 2643.
+Pub. L. 98–181, title II, §222, Nov. 30, 1983, 97 Stat. 1188, as amended by Pub. L. 100–242, title I, §117, Feb. 5, 1988, 101 Stat. 1826; Pub. L. 100–628, title X, §1002, Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §517, Nov. 28, 1990, 104 Stat. 4200; Pub. L. 102–550, title I, §123, Oct. 28, 1992, 106 Stat. 3709, which authorized Secretary of Housing and Urban Development to carry out demonstration program of making grants to nonprofit organizations to assist in providing early childhood development services in or near lower income housing projects, and required report to Congress setting forth findings and conclusions not later than three years after Feb. 5, 1988, was repealed by Pub. L. 105–276, title V, §582(a)(6), Oct. 21, 1998, 112 Stat. 2643.
 
 #### Public Housing Security
 
@@ -116,7 +116,7 @@ Pub. L. 96–399, title II, §209, Oct. 8, 1980, 94 Stat. 1635, provided that:
 
 &emsp;“(4) as authorized by the Public Housing Security Demonstration Act of 1978 \[set out below\], the Urban Initiatives Anti-Crime Program has performed in a promising manner; and
 
-&emsp;“(5) the First Annual Report to Congress of the Urban Initiatives Anti-Crime Program and the two General Accounting Office reports to Congress on such Program have provided useful suggestions which can now be implemented.
+&emsp;“(5) the First Annual Report to Congress of the Urban Initiatives Anti-Crime Program and the two General Accounting Office \[now Government Accountability Office\] reports to Congress on such Program have provided useful suggestions which can now be implemented.
 
 “(c) It is, therefore, the purpose of this section to continue the efforts of the Urban Initiatives Anti-Crime Program so that more progress can be made in providing secure, decent, safe, and sanitary dwelling units for low-income and elderly tenants in public housing projects.
 

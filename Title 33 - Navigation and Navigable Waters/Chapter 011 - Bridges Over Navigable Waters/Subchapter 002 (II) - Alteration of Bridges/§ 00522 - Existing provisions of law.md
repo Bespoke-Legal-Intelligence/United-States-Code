@@ -12,7 +12,7 @@ Any bridge, the construction, reconstruction, or alteration of which was require
 
 (2) The Secretary's determination as to such apportionment, and as to such plans and specifications and bids, shall be final.
 
-(3) Such apportionment shall not be made if such construction, reconstruction, or alteration is not completed within the time fixed in such order of the Secretary or within such additionaltime as the Secretary, for good cause shown, may allow.
+(3) Such apportionment shall not be made if such construction, reconstruction, or alteration is not completed within the time fixed in such order of the Secretary or within such additional time as the Secretary, for good cause shown, may allow.
 
 #### (c) Construction, reconstruction, or alteration of bridges not begun on July 1, 1939
 

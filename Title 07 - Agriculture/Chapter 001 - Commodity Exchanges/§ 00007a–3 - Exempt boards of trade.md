@@ -2,7 +2,7 @@
 
 #### (a) Election to register with the Commission
 
-A board of trade that meets the requirements of subsection (b) of this section may operate asan exempt board of trade on receipt from the board of trade of a notice, provided in such manner as the Commission may by rule or regulation prescribe, that the board of trade elects to operate as an exempt board of trade. Except as otherwise provided in this section, no provision of this chapter (other than subparagraphs (C) and (D) of sections 2(a)(1) and 16(e)(2)(B) of this title) shall apply with respect to a contract of sale of a commodity for future delivery (or option on such a contract) traded on or through the facilities of an exempt board of trade.
+A board of trade that meets the requirements of subsection (b) of this section may operate as an exempt board of trade on receipt from the board of trade of a notice, provided in such manner as the Commission may by rule or regulation prescribe, that the board of trade elects to operate as an exempt board of trade. Except as otherwise provided in this section, no provision of this chapter (other than subparagraphs (C) and (D) of sections 2(a)(1) and 16(e)(2)(B) of this title) shall apply with respect to a contract of sale of a commodity for future delivery (or option on such a contract) traded on or through the facilities of an exempt board of trade.
 
 #### (b) Criteria for exemption
 
@@ -38,11 +38,7 @@ A board of trade that is designated as a contract market or registered as a deri
 
 #### (g) Misrepresentation of status
 
-An exempt board of trade that meets the requirements of subsection (b) of this section shall not represent to any person that the board of trade is registered with, or designated, recognized, licensed, or approved by the Commission.
+An exempt board of trade that meets the requirements of subsection (b) of this section shallnot represent to any person that the board of trade is registered with, or designated, recognized, licensed, or approved by the Commission.
 
 (Sept. 21, 1922, ch. 369, §5d, as added Pub. L. 106–554, §1(a)(5) \[title I, §114\], Dec. 21, 2000, 114 Stat. 2763, 2763A–401.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2 of this title.
 

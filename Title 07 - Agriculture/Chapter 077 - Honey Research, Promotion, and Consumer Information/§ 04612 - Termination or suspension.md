@@ -54,7 +54,3 @@ Except as provided in subsection (d)(3) of this section and section 4613(g) of t
 
 Subsec. (d). Pub. L. 101–624, §1985(b), substituted “an order” for “such order”, inserted “in which a referendum is conducted under subsection (b) or (c) of this section” after “marketing year”, and struck out “of the order” before “is favored by”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4606, 4613 of this title.
-

@@ -32,7 +32,7 @@ In this chapter, the following definitions shall apply:
 
 &emsp;&emsp;(A) made a mortgage payment that was 60 days or longer past due during the 12-month period beginning 24 months before the later of (i) the date on which the mortgage reaches the cancellation date, or (ii) the date that the mortgagor submits a request for cancellation under section 4902(a)(1) of this title; or
 
-&emsp;&emsp;(B) made a mortgage payment that was 30 days or longer past due during the 12-month period preceding the later of (i) the date on which the mortgage reaches the cancellation date, or (ii) the date that the mortgagor submits a request for cancellation under section 4902(a)(1) of this title.
+&emsp;&emsp;(B) made a mortgage payment that was 30 days or longer past due during the 12-monthperiod preceding the later of (i) the date on which the mortgage reaches the cancellation date, or (ii) the date that the mortgagor submits a request for cancellation under section 4902(a)(1) of this title.
 
 #### (5) Initial amortization schedule
 
@@ -106,7 +106,7 @@ In this chapter, the following definitions shall apply:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–216, July 29, 1998, 112 Stat. 897, known as the Homeowners Protection Act of 1998. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–216, July 29, 1998, 112Stat. 897, known as the Homeowners Protection Act of 1998. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 The National Housing Act, referred to in par. (13), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 

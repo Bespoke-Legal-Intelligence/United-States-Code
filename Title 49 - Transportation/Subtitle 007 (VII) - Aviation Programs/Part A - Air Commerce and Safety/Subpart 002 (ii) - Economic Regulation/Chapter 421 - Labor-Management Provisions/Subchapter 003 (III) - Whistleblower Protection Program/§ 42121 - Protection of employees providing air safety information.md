@@ -54,7 +54,7 @@ Final order.—
 
 &emsp;&emsp;(A)
 
-Deadline for issuance; settlement agreements.—Not later than 120 days after the date of conclusion of a hearing under paragraph (2), the Secretary of Labor shall issue a final order providing the relief prescribed by this paragraph or denying the complaint. At any time before issuance of a final order, a proceeding under this subsection may be terminated on the basis of asettlement agreement entered into by the Secretary of Labor, the complainant, and the person alleged to have committed the violation.
+Deadline for issuance; settlement agreements.—Not later than 120 days after the date of conclusion of a hearing under paragraph (2), the Secretary of Labor shall issue a final order providing the relief prescribed by this paragraph or denying the complaint. At any time before issuance of a final order, a proceeding under this subsection may be terminated on the basis of a settlement agreement entered into by the Secretary of Labor, the complainant, and the person alleged to have committed the violation.
 
 &emsp;&emsp;(B)
 
@@ -62,7 +62,7 @@ Remedy.—If, in response to a complaint filed under paragraph (1), the Secretar
 
 &emsp;&emsp;&emsp;(i) take affirmative action to abate the violation;
 
-&emsp;&emsp;&emsp;(ii) reinstate the complainant to his or her former position together with the compensation (including back pay) and restore the terms, conditions, and privileges associated with his or her employment; and
+&emsp;&emsp;&emsp;(ii) reinstate the complainant to his or her former position together with the compensation (including back pay) and restorethe terms, conditions, and privileges associated with his or her employment; and
 
 &emsp;&emsp;&emsp;(iii) provide compensatory damages to the complainant.
 
@@ -117,8 +117,4 @@ Contractor Defined.—In this section, the term “contractor” means a company
 #### Effective Date
 
 Subchapter applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 1514A.
 

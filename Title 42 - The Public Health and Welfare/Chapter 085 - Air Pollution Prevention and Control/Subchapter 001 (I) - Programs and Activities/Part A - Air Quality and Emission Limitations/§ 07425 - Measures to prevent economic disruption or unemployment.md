@@ -40,7 +40,7 @@ The Governor, in the case of action under subsection (b)(1) of this section, or 
 
 &emsp;(1) enter into long-term contracts of at least ten years in duration (except as the President or his designee may otherwise permit or require by rule or order for good cause) for supplies of regionally available coal or coal derivatives,
 
-&emsp;(2) enter into contracts to acquire any additional means of emission limitation which theAdministrator or the State determines may be necessary to comply with the requirements of this chapter while using such coal or coal derivatives as fuel, and
+&emsp;(2) enter into contracts to acquire any additional means of emission limitation which the Administrator or the State determines may be necessary to comply with the requirements of this chapter while using such coal or coal derivatives as fuel, and
 
 &emsp;(3) comply with such schedules (including increments of progress), timetables and other requirements as may be necessary to assure compliance with the requirements of this chapter.
 
@@ -75,8 +75,4 @@ For the purpose of this section the term “locally or regionally available coal
 #### Effective Date
 
 Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6215 of this title.
 

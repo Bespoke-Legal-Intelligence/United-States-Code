@@ -14,7 +14,3 @@
 
 (Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3350.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 913 of this title.
-

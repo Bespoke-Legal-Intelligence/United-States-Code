@@ -126,6 +126,7 @@
 | [371\.](Enlisted%20Members/%C2%A7%2000371%20-%20Aviation%20cadets%3B%20procurement%3B%20transfer.md) | Aviation cadets; procurement; transfer. |
 | [372\.](Enlisted%20Members/%C2%A7%2000372%20-%20Aviation%20cadets%3B%20benefits.md) | Aviation cadets; benefits. |
 | [373\.](Enlisted%20Members/%C2%A7%2000373%20-%20Aviation%20cadets%3B%20appointment%20as%20Reserve%20officers.md) | Aviation cadets; appointment as Reserve officers. |
+| [374\.](Enlisted%20Members/%C2%A7%2000374%20-%20Critical%20skill%20training%20bonus.md) | Critical skill training bonus. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -163,6 +164,8 @@ The subject matter seemed to break down into the sub-heads of “Commissioned Of
 <i>Pub. L. 107–295, title IV, §416(b)(2)–(4), (c), Nov. 25, 2002, 116 Stat. 2122, provided that, effective 4 years after Nov. 25, 2002, the table of sections for this chapter is amended by substituting “separation” for “severance” in items 286, 286a, and 327.</i>
 
 #### Amendments
+
+2004—Pub. L. 108–293, title II, §204(b), Aug. 9, 2004, 118 Stat. 1032, added item 374.
 
 2002—Pub. L. 107–295, title IV, §§416(b)(1), 444(b), Nov. 25, 2002, 116 Stat. 2122, 2133, substituted “five” for “three” in item 281 and added item 424a.
 
@@ -215,10 +218,6 @@ Act June 8, 1955, ch. 136, §1, 69 Stat. 88, added item 370.
 #### Year-End Strength for Active Duty Personnel and Average Military Training Student Loads for Each Fiscal Year After Fiscal Year 1977; Authorization and Appropriations
 
 Pub. L. 94–406, §6, Sept. 10, 1976, 90 Stat. 1236, which had required that Congress set the active duty end strength and average training student loads for each fiscal year for the Coast Guard, appropriations for those years not to be spent relating to those areas until Congress made such determination, was repealed and reenacted as section 661 of this title by Pub. L. 97–295, §§2(20)(A), 6(b), Oct. 12, 1982, 96 Stat. 1302, 1314.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 286, 728 of this title.
 
 
 ---

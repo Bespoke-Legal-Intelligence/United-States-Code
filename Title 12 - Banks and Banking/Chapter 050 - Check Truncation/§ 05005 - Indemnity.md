@@ -32,7 +32,7 @@ A reconverting bank and each bank that subsequently transfers, presents, or retu
 
 #### (1) In general
 
-&emsp;If the indemnifying bank produces the original check or a copy of the original check (including an image or a substitute check) that accurately represents all of the informationon the front and back of the original check (as of the time the original check was truncated) or is otherwise sufficient to determine whether or not a claim is valid, the indemnifying bank shall—
+&emsp;If the indemnifying bank produces the original check or a copy of the original check (including an image or a substitute check) that accurately represents all of the information on the front and back of the original check (as of the time the original check was truncated) or is otherwise sufficient to determine whether or not a claim is valid, the indemnifying bank shall—
 
 &emsp;&emsp;(A) be liable under this section only for losses covered by the indemnity that are incurred up to the time that the original check or copy is provided to the indemnified party; and
 
@@ -61,8 +61,4 @@ A reconverting bank and each bank that subsequently transfers, presents, or retu
 #### References in Text
 
 This chapter, referred to in subsec. (d)(2), was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5001 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5002, 5006, 5007, 5009 of this title.
 

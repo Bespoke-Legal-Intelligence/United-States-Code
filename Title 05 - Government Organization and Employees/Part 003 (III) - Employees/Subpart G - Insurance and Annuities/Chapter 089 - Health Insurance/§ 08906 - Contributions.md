@@ -20,7 +20,7 @@
 
 (c) There shall be withheld from the pay of each enrolled employee and (except as provided in subsection (i) of this section) the annuity of each enrolled annuitant and there shall be contributed by the Government, amounts, in the same ratio as the contributions of the employee or annuitant and the Government under subsection (b) of this section, which are necessary for the administrative costs and the reserves provided for by section 8909(b) of this title.
 
-(d) The amount necessary to pay the total charge for enrollment, after the Government contribution is deducted, shall be withheld from the pay of each enrolled employee and (except asprovided in subsection (i) of this section) from the annuity of each enrolled annuitant. The withholding for an annuitant shall be the same as that for an employee enrolled in the same health benefits plan and level of benefits.
+(d) The amount necessary to pay the total charge for enrollment, after the Government contribution is deducted, shall be withheld from the pay of each enrolled employee and (except as provided in subsection (i) of this section) from the annuity of each enrolled annuitant. The withholding for an annuitant shall be the same as that for an employee enrolled in the same health benefits plan and level of benefits.
 
 (e)(1)(A) An employee enrolled in a health benefits plan under this chapter who is placed in a leave without pay status may have his coverage and the coverage of members of his family continued under the plan for not to exceed 1 year under regulations prescribed by the Office.
 
@@ -48,7 +48,7 @@
 
 &emsp;(v) serves on active duty for a period of more than 30 consecutive days.
 
-(C) Notwithstanding the one-year limitation on coverage described in paragraph (1)(A), payment may be made under this paragraph for a period not to exceed 18 months.
+(C) Notwithstanding the one-year limitation on coverage described in paragraph (1)(A), payment may be made under this paragraph for a period not to exceed 24 months.
 
 (f) The Government contribution, and any additional payments under subsection (e)(3)(A), for health benefits for an employee shall be paid—
 
@@ -72,7 +72,7 @@
 
 (i) An annuitant whose annuity is insufficient to cover the withholdings required for enrollment in a particular health benefits plan may enroll (or remain enrolled) in such plan, notwithstanding any other provision of this section, if the annuitant elects, under conditions prescribed by regulations of the Office, to pay currently into the Employees Health Benefits Fund, through the retirement system that administers the annuitant's health benefits enrollment, an amount equal to the withholdings that would otherwise be required under this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 604; Pub. L. 90–83, §1(96), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §1(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–246, §1, Jan. 31, 1974, 88 Stat. 3; Pub. L. 94–310, §3(a), June 15, 1976, 90 Stat. 687; Pub. L. 95–437, §4(c)(2)(A), Oct. 10, 1978, 92 Stat. 1059; Pub. L. 95–454, title IX, §906(a)(15), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1226, 1227; Pub. L. 96–54, §2(a)(53), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–272, title XV,§15202(b), Apr. 7, 1986, 100 Stat. 334; Pub. L. 101–239, title IV, §4003(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 101–303, §1(a), (b), May 29, 1990, 104 Stat. 250; Pub. L. 101–508, title VII, §7102(a), (b), Nov. 5, 1990, 104 Stat. 1388–333; Pub. L. 102–378, §2(78), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–186, title II, §215(19), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §422\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343; Pub. L. 105–33, title VII, §7002(a), Aug. 5, 1997, 111 Stat. 662; Pub. L. 105–261, div. A, title VII, §721(b)(2), (3), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 107–107, div. A, title V, §519(a), (b), Dec. 28, 2001, 115 Stat. 1096.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 604; Pub. L. 90–83, §1(96), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §1(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–246, §1, Jan. 31, 1974, 88 Stat. 3; Pub. L. 94–310, §3(a), June 15, 1976, 90 Stat. 687; Pub. L. 95–437, §4(c)(2)(A), Oct. 10, 1978, 92 Stat. 1059; Pub. L. 95–454, title IX, §906(a)(15), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1226, 1227; Pub. L. 96–54, §2(a)(53), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–272, title XV, §15202(b), Apr. 7, 1986, 100 Stat. 334; Pub. L. 101–239, title IV, §4003(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 101–303, §1(a), (b), May 29, 1990, 104 Stat. 250; Pub. L. 101–508, title VII, §7102(a), (b), Nov. 5, 1990, 104 Stat. 1388–333; Pub. L. 102–378, §2(78), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–186, title II, §215(19), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §422\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343; Pub. L.105–33, title VII, §7002(a), Aug. 5, 1997, 111 Stat. 662; Pub. L. 105–261, div. A, title VII, §721(b)(2), (3), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 107–107, div. A, title V, §519(a), (b), Dec. 28, 2001, 115 Stat. 1096; Pub. L. 108–375, div. A, title XI, §1101(b), Oct. 28, 2004, 118 Stat. 2072.)
 
 Historical and Revision Notes<br>1966
 
@@ -129,6 +129,8 @@ In subsection (a), the words “subsection (b) of this section”, “this chapt
 In subsection (e)(2), the words “as defined by section 8901 of this title” are substituted for “as defined in section 2 of this Act” to reflect the codification of that section in 5 U.S.C. 8901. The words “Employees Health Benefits Fund” and “Fund” are substituted for “fund” and “fund”, respectively. In the penultimate sentence, the words “will continue during nonpay status and end” are substituted for “will terminate” for clarity and on authority of 5 U.S.C. 8906(e)(1).
 
 #### Amendments
+
+2004—Subsec. (e)(3)(C). Pub. L. 108–375 substituted “24 months” for “18 months”.
 
 2001—Subsec. (e)(3). Pub. L. 107–107, §519(a), added par. (3).
 
@@ -188,7 +190,7 @@ Subsecs. (e)(1), (h). Pub. L. 95–454, §906(a)(15), substituted “Office” f
 
 1976—Subsec. (g). Pub. L. 94–310 provided for payment of Government contributions from annual appropriations which may be made available until expended.
 
-1974—Subsec. (a). Pub. L. 93–246, §1(a), struck out introductory text “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, now incorporated in subsec. (b)(1) of this section, required Commission determination of average of subscription charges, and reenacted remainder of existing provisions, substituting “beginning date of each contract year” for “beginning date of the adjustment”.
+1974—Subsec. (a). Pub. L. 93–246, §1(a), struck out introductory text “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, now incorporated in subsec. (b)(1) of this section, required Commission determination of averageof subscription charges, and reenacted remainder of existing provisions, substituting “beginning date of each contract year” for “beginning date of the adjustment”.
 
 Subsec. (b)(1). Pub. L. 93–246, §1(a), incorporated introductory text of former subsec. (a) reading “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, as initial text of provisions designated as subsec. (b)(1), substituted provision for amount of biweekly Government contribution equal to 50 percent of average subscription charge for applicable pay periods commencing in 1974 and 60 percent for applicable pay periods commencing in 1975, and annually thereafter, for former subsec. (a) provision for an amount equal to 40 percent of average of subscription charges and former subsec. (b) provision for 50 percent of subscription charge where the biweekly subscription charge was less than twice the Government contribution.
 
@@ -199,6 +201,10 @@ Subsec. (c). Pub. L. 93–246, §1(b), struck out reference to subsec. (a).
 Subsec. (g). Pub. L. 93–246, §1(c), substituted “by this section” for “by subsection (a) of this section”.
 
 1970—Subsec. (a). Pub. L. 91–418, in increasing the Government contribution to the cost of health benefits insurance, substituted provision for adjustment of such contribution, beginning on the first day of the first pay period of each year, to an amount equal to 40 percent of the adjustment, with respect to self alone or self and family enrollments, as applicable, for the highest level of benefits offered by the service benefit plan, the indemnity benefit plan, the two employee organization plans, and the two comprehensive medical plans, for prior provision for a contribution, in addition to requirement of subsec. (c) of this section, of $1.62 if the enrollment is for self or $3.94 if the enrollment is for self and family.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–375 applicable with respect to Federal employees called or ordered to active duty on or after Sept. 14, 2001, see section 1101(c) of Pub. L. 108–375, set out as a note under section 8905a of this title.
 
 #### Effective Date of 2001 Amendment
 
@@ -287,8 +293,4 @@ Pub. L. 97–346, §4, Oct. 15, 1982, 96 Stat. 1650, directed Office of Personne
 #### Election of Health Benefits During Period of Service as Officer or Employee of an Employee Organization; Contributions Into Employees Health Benefits Fund; Non-Election; Regulations
 
 Election of health benefits within sixty days after July 18, 1966, by certain employees on leave without pay for service as officer or employee of an employee organization, contributions into Fund, effect of non-election of benefits, and regulations, see note set out under section 8706 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8906a, 8909 of this title; title 2 sections 162b, 2063; title 10 section 1108; title 42 sections 1395s, 2297h–8; title 45 section 1212.
 

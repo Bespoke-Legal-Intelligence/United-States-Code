@@ -164,7 +164,3 @@ This subchapter, referred to in subsecs. (a)(7)(B), (8) and (c)(1), was in the o
 
 Section is comprised of section 302 of Pub. L. 104–114. Subsec. (e) of section 302 of Pub. L. 104–114 amended section 1611 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1643<i>l</i>, 6064, 6084 of this title.
-

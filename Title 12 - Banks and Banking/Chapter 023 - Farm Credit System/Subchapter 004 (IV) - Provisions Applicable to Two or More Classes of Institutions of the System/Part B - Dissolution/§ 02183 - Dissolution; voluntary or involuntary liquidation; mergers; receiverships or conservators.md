@@ -18,7 +18,7 @@ In the case of an involuntary liquidation of an association, regulations of the 
 
 1988—Subsec. (a). Pub. L. 100–399, §901(f), substituted “board of the supervising bank” for “district board”.
 
-Pub. L. 100–233, §415(a)(4), struck out third sentence which provided that Associations may voluntarily merge with other like associations upon the vote of amajority of each of their stockholders present and voting or voting by written proxy at duly authorized meetings, and with the approval of the supervising bank and the Farm Credit Administration, and substituted “Board may require an association to merge with another association” for “may require such merger” in fourth sentence.
+Pub. L. 100–233, §415(a)(4), struck out third sentence which provided that Associations may voluntarily merge with other like associations upon the vote of a majority of each of their stockholders present and voting or voting by written proxy at duly authorized meetings, and with the approval of the supervising bank and the Farm Credit Administration, and substituted “Board may require an association to merge with another association” for “may require such merger” in fourth sentence.
 
 Subsec. (b). Pub. L. 100–233, §431(g), substituted “Farm Credit Administration Board” for “Farm Credit Administration” wherever appearing other than in cl. (5).
 
@@ -30,7 +30,7 @@ Pub. L. 100–233, §805(r), substituted “court shall” for “court, shall�
 
 Pub. L. 99–205, §305(a), inserted after first sentence a sentence requiring the regulations, in the case of a voluntary liquidation of an association, to direct the supervising bank to institute appropriate measures to minimize the adverse effect of the liquidation on borrowers whose loans are purchased by or otherwise transferred to another System institution.
 
-Subsec. (b). Pub. L. 99–205, §102, in revising subsec. (b), substituted expanded provisions respecting appointment of conservator or receiver for former provision, which read as follows: “Upon default of any obligation by any institution of the System, such institution may be declared insolvent and placed in the hands of a conservator or a receiver appointed by the Governor and the proceedings thereon shall be in accordance with regulations of the Farm Credit Administration regarding such insolvencies.”
+Subsec. (b). Pub. L. 99–205, §102, in revising subsec. (b), substituted expanded provisions respecting appointment of conservator or receiver for former provision, which read as follows: “Upon default of any obligation by any institution of the System, such institution may be declared insolvent and placed in the handsof a conservator or a receiver appointed by the Governor and the proceedings thereon shall be in accordance with regulations of the Farm Credit Administration regarding such insolvencies.”
 
 Subsec. (c). Pub. L. 99–205, §305(b), added subsec. (c).
 
@@ -41,8 +41,4 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2278a–6, 2279cc of this title.
 

@@ -40,7 +40,7 @@ Pub. L. 103–270, §6, June 30, 1994, 108 Stat. 737, provided that:
 
 “(a)
 
-Submission of Report.—On July 1 of each year, the President shall submit a report described in subsection (b) to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives.
+Submission of Report.—On July 1 of each year, the President shall submit a report described in subsection (b) to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Operations of the House of Representatives.
 
 “(b)
 
@@ -70,7 +70,7 @@ Exclusion From Report.—If the President determines that disclosure of any item
 
 &emsp;&emsp;“(B) include a statement of the number of individuals with respect to whom such information has been excluded; and
 
-&emsp;“(2) at the request of the Committee on Governmental Affairs of the Senate or the Committee on Government Operations of the House of Representatives, the information that was excluded from the report shall be made available for inspection by such committee.”
+&emsp;“(2) at the request of the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate or the Committee on Government Operations of the House of Representatives, the information that was excluded from the report shall be made available for inspection by such committee.”
 
 \[Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.\]
 

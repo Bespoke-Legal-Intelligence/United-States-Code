@@ -40,7 +40,7 @@ Consultation With Attorney General and Other Agencies.—The Secretary of Labor 
 
 (e)
 
-Cooperation With State Agencies.—The Secretary of Labor shall cooperate fully with the appropriate State and local officials, and shall take all other practicable measures, to assure that the benefits of this subchapter are made available to eligible officers and their survivors with a minimum of delay and difficulty.
+Cooperation With State Agencies.—The Secretary of Labor shall cooperate fully withthe appropriate State and local officials, and shall take all other practicable measures, to assure that the benefits of this subchapter are made available to eligible officers and their survivors with a minimum of delay and difficulty.
 
 (f)
 

@@ -50,9 +50,5 @@ Level V of the Executive Schedule, referred to in subsec. (e), is set out in sec
 
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5376, 5382 of this title; title 2 section 2048; title 10 section 1602.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

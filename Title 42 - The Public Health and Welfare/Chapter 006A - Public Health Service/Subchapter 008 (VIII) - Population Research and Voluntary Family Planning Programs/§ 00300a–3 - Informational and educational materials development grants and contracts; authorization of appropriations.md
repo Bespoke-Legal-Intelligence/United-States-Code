@@ -28,7 +28,3 @@ Pub. L. 97–414, §9(a), amended directory language of Pub. L. 97–35, §931(a
 
 Amendment by section 202(d) of Pub. L. 94–63 effective July 1, 1975, see section 608 of Pub. L. 94–63, set out as a note under section 247b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300a–4 of this title.
-

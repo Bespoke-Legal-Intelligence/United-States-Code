@@ -74,7 +74,3 @@ In subsection (b), before clause (1), the words “standards” and “and other
 
 In subsection (c), before clause (1), the words “standards” and “or other provisions” are omitted as surplus. The words “any or all of” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5702, 5704, 5705, 5706, 5709, 5713 of this title.
-

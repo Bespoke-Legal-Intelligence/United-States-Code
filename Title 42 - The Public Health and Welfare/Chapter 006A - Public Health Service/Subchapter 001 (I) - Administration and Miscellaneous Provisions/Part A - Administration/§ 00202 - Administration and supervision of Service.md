@@ -72,7 +72,7 @@ As taxpayers, we demand the most efficient and economic health organizations tha
 
 I ask the Congress to approve a reorganization plan to bring new strength to the administration of Federal health programs.
 
-I propose a series of changes in the organization of the Public Health Service that will bring to all Americans a structure modern in design, more efficient in operation and better prepared to meet the great and growing needs of the future. Through such improvements we can achieve the full promise of the landmark health legislation enacted by the 89th Congress.
+I propose a series of changes in the organization of the Public Health Service that will bring to all Americans a structure modern in design, more efficient in operation and better prepared to meet the great andgrowing needs of the future. Through such improvements we can achieve the full promise of the landmark health legislation enacted by the 89th Congress.
 
 I do not propose these changes lightly. They follow a period of careful deliberation. For many months the Secretary of Health, Education, and Welfare, and the Surgeon General have consulted leading experts in the Nation—physicians, administrators, scientists, and public health specialists. They have confirmed my belief that modernization and reorganization of the Public Health Service are urgently required and long overdue.
 
@@ -152,7 +152,7 @@ In summary, the reorganization plan would:
 
 I have found, after investigation, that each reorganization included in the accompanying reorganization plan is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
 
-Should the reorganizations in the accompanying reorganization plan take effect, they will make possiblemore effective and efficient administration of the affected health programs. It is, however, not practicable at this time to itemize the reductions in expenditures which may result.
+Should the reorganizations in the accompanying reorganization plan take effect, they will make possible more effective and efficient administration of the affected health programs. It is, however, not practicable at this time to itemize the reductions in expenditures which may result.
 
 I strongly recommend that the Congress allow the reorganization plan to become effective.
 
@@ -162,7 +162,7 @@ The White House, April 25, 1966.
 
 #### Executive Order No. 10506
 
-Ex. Ord. No. 10506, Dec. 10, 1953, 18 F.R. 8219, which delegated certain functions of the President relating to the Public Health Service, was superseded by Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, set out below.
+Ex. Ord. No. 10506, Dec. 10, 1953, 18 F.R. 8219, which delegated certain functions of the President relating tothe Public Health Service, was superseded by Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, set out below.
 
 #### Ex. Ord. No. 11140. Delegation of Functions
 

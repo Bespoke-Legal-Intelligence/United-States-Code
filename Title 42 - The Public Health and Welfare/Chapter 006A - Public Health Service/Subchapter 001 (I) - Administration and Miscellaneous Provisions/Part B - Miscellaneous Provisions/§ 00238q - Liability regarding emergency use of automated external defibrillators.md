@@ -60,7 +60,7 @@ In any civil action arising under State law, the courts of the State involved ha
 
 #### (1) Perceived medical emergency
 
-&emsp;For purposes of this section, the term “perceived medical emergency” means circumstances in which the behavior of an individual leads a reasonable person to believe that the individual is experiencing a life-threatening medical condition that requires an immediate medical response regarding the heart or other cardiopulmonary functioning of the individual.
+&emsp;For purposes of this section, the term “perceived medical emergency” means circumstances in which the behavior of an individual leads a reasonable person to believe that the individual is experiencing a life-threatening medical condition that requires an immediate medical response regarding the heart or othercardiopulmonary functioning of the individual.
 
 #### (2) Other definitions
 
@@ -87,8 +87,4 @@ In any civil action arising under State law, the courts of the State involved ha
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(2)(A)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 238p of this title.
 

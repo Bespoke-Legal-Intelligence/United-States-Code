@@ -4,7 +4,3 @@ The Secretary may, if he considers that marine navigational safety will not be a
 
 (Pub. L. 92–63, §7, Aug. 4, 1971, 85 Stat. 165.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1203 of this title.
-

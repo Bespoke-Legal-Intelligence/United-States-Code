@@ -2,11 +2,11 @@
 
 #### (a) Notification of registration; effective date of registration
 
-Any investment company organized or otherwise created under the laws of the United States or of a State may register for the purposes of this subchapter by filing with the Commission a notification of registration, in such form as the Commission shall by rules and regulations prescribe as necessary or appropriate in the publicinterest or for the protection of investors. An investment company shall be deemed to be registered upon receipt by the Commission of such notification of registration.
+Any investment company organized or otherwise created under the laws of the United States or of a State may register for the purposes of this subchapter by filing with the Commission a notification of registration, in such form as the Commission shall by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors. An investment company shall be deemed to be registered upon receipt by the Commission of such notification of registration.
 
 #### (b) Registration statement; contents
 
-Every registered investment company shall file with the Commission, within such reasonable time after registration as the Commission shall fix by rules and regulations, an original and such copies of a registration statement, in such form and containing such of the following information and documents as the Commission shall by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors:
+Every registered investment company shall file with the Commission, within such reasonable time after registration as the Commission shall fix by rules and regulations, an originaland such copies of a registration statement, in such form and containing such of the following information and documents as the Commission shall by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors:
 
 &emsp;(1) a recital of the policy of the registrant in respect of each of the following types of activities, such recital consisting in each case of a statement whether the registrant reserves freedom of action to engage in activities of such type, and if such freedom of action is reserved, a statement briefly indicating, insofar as is practicable, the extent to which the registrant intends to engage therein: (A) the classification and subclassifications, as defined in sections 80a–4 and 80a–5 of this title, within which the registrant proposes to operate; (B) borrowing money; (C) the issuance of senior securities; (D) engaging in the business of underwriting securities issued by other persons; (E) concentrating investments in a particular industry or group of industries; (F) the purchase and sale of real estate and commodities, or either of them; (G) making loans to other persons; and (H) portfolio turn-over (including a statement showing the aggregate dollar amount of purchases and sales of portfolio securities, other than Government securities, in each of the last three full fiscal years preceding the filing of such registration statement);
 
@@ -42,7 +42,7 @@ If it appears to the Commission that a registered investment company has failed 
 
 #### (f) Cessation of existence as investment company
 
-Whenever the Commission, on its own motion or upon application, finds that a registered investment company has ceased to be an investment company, it shall so declare by order and upon the taking effect of such order the registration of such company shall cease to be in effect. If necessary for the protection of investors, an order under this subsection may be made upon appropriate conditions. The Commission's denial of any application under this subsection shall be by order.
+Whenever the Commission, on its own motion or upon application, finds that a registered investment company has ceased to be an investment company, it shall so declare by order andupon the taking effect of such order the registration of such company shall cease to be in effect. If necessary for the protection of investors, an order under this subsection may be made upon appropriate conditions. The Commission's denial of any application under this subsection shall be by order.
 
 (Aug. 22, 1940, ch. 686, title I, §8, 54 Stat. 803; Pub. L. 86–507, §1(14), June 11, 1960, 74 Stat. 201; Pub. L. 91–547, §3(c), Dec. 14, 1970, 84 Stat. 1415.)
 
@@ -69,8 +69,4 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78c, 78<i>l</i>, 80a–2, 80a–6, 80a–7, 80a–13, 80a–42, 7263 of this title.
 

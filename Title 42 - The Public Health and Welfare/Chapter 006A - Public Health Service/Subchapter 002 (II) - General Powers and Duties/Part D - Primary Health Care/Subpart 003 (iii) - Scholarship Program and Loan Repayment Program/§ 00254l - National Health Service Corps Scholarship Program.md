@@ -68,7 +68,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;(1) an agreement that—
 
-&emsp;&emsp;(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g) of this section) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B) of this section, and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title)the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
+&emsp;&emsp;(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g) of this section) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B) of this section, and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
 
 &emsp;&emsp;(B) subject to paragraph (2), the individual agrees—
 
@@ -108,7 +108,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 (2) The Secretary may contract with an educational institution, in which a participant in the Scholarship Program is enrolled, for the payment to the educational institution of the amounts of tuition and other reasonable educational expenses described in paragraph (1)(A). Payment to such an educational institution may be made without regard to section 3324(a) and (b) of title 31.
 
-(3) The amount of the monthly stipend, specified in paragraph (1)(B) and as previously adjusted (if at all) in accordance with this paragraph, shall be increased by the Secretary for each school year ending in a fiscal year beginning after September 30, 1978, by an amount (rounded to the next highest multiple of $1) equal to the amount of such stipend multiplied by the overall percentage (under section 5303 of title 5) of the adjustment (if such adjustment is an increase) in the rates of pay under the General Schedule made effective in the fiscal year in which such school year ends.
+(3) The amount of the monthly stipend, specified in paragraph (1)(B) and as previously adjusted (if at all) in accordance with this paragraph, shall be increased by the Secretary for each school year ending in a fiscal year beginning after September 30, 1978, by an amount (rounded to the next highest multiple of $1) equal to the amount of such stipend multiplied by the overall percentage (under section 5303 oftitle 5) of the adjustment (if such adjustment is an increase) in the rates of pay under the General Schedule made effective in the fiscal year in which such school year ends.
 
 #### (h) Employment ceiling of Department unaffected
 
@@ -120,7 +120,7 @@ Notwithstanding any other provision of law, individuals who have entered into wr
 
 Section 294z of this title, referred to in subsec. (d)(2)(A), was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994.
 
-Section 292k of this title, referred to in subsec. (g)(1)(A), was in the original a reference to section 711 of act July 1, 1944. Section 711 of that Act was renumbered as section 710 by Pub. L. 97–35, title XXVII, §2720(b), Aug. 13, 1981, 95 Stat. 915, and subsequently omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 710 of act July 1, 1944, relating to insurance accounts, a newsection 711, relating to powers and responsibilities of the Secretary, and a new section 712, relating to participation by Federal credit unions, which are classified to sections 292i, 292j, and 292k, respectively, of this title.
+Section 292k of this title, referred to in subsec. (g)(1)(A), was in the original a reference to section 711 of act July 1, 1944. Section 711 of that Act was renumbered as section 710 by Pub. L. 97–35, title XXVII, §2720(b), Aug. 13, 1981, 95 Stat. 915, and subsequently omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 710 of act July 1, 1944, relating to insurance accounts, a new section 711, relating to powers and responsibilities of the Secretary, and a new section 712, relating to participation by Federal credit unions, which are classified to sections 292i, 292j, and 292k, respectively, of this title.
 
 #### Codification
 
@@ -249,10 +249,6 @@ Section 408(b)(2) of Pub. L. 94–484, as amended, eff. Oct. 12, 1976, by Pub. L
 #### Scholarship and Loan Repayment Programs
 
 Pub. L. 107–251, title III, §302(c), Oct. 26, 2002, 116 Stat. 1644, provided that: “The Secretary of Health and Human Services, in consultation with organizations representing individuals in the dental field and organizations representing publicly funded health care providers, shall develop and implement a plan for increasing the participation of dentists and dental hygienists in the National Health Service Corps Scholarship Program under section 338A of the Public Health Service Act (42 U.S.C. 254<i>l</i>) and the Loan Repayment Program under section 338B of such Act (42 U.S.C. 254<i>l</i>–1).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 254d, 254h–1, 254m, 254n, 254<i>o</i>, 254<i>o</i>–1, 254q, 254q–1, 254s, 11709 of this title; title 25 sections 1613a, 1616m; title 26 section 117.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

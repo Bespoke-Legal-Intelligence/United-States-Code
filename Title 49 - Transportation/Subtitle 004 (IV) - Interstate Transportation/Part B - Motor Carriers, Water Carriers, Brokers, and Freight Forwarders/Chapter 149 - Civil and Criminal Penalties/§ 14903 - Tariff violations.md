@@ -32,7 +32,3 @@ Provisions similar to those in this section were contained in section 11903 of t
 
 1997—Subsec. (a). Pub. L. 105–102 inserted “a” before “civil penalty of not more than”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14913 of this title.
-

@@ -162,7 +162,3 @@ Subsec. (c). Pub. L. 99–339, §106(c), substituted “shall be subject to a ci
 
 Subsec. (b)(1). Pub. L. 95–190, §12(d), designated existing provisions as cls. (A) and (B) and added cl. (C) and reference to such cls. (A) to (C).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300g–1, 300g–3, 300i–2, 300j–12, 7412, 9606 of this title.
-

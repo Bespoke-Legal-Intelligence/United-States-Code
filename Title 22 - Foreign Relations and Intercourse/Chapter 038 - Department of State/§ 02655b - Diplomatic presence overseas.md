@@ -14,7 +14,7 @@ To carry out the purposes of subsection (a) of this section, the Secretary is au
 
 #### (c) Training
 
-After being selected to serve as Counselor, any person so selected shall spend not less than 10 months in language training courses at the Foreign Service Institute,<sup>1</sup> or in technical courses administered by the Department of Defense, the Department of Energy, or other appropriate departments and agencies of the United States, except that such requirement for training may be waived by the Secretary.
+After being selected to serve as Counselor, any person so selected shall spend not less than 10 months in language training courses at the Foreign Service Institute,<sup>1</sup> or in technical coursesadministered by the Department of Defense, the Department of Energy, or other appropriate departments and agencies of the United States, except that such requirement for training may be waived by the Secretary.
 
 (Pub. L. 107–228, div. B, title XVI, §1604, Sept. 30, 2002, 116 Stat. 1460.)
 

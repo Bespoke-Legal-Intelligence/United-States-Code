@@ -30,7 +30,3 @@ In subsection (a), the words “After January 1, 1945” are omitted as executed
 
 In subsection (b), the word “amounts” is substituted for “appropriations” for consistency in the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1346 of this title.
-

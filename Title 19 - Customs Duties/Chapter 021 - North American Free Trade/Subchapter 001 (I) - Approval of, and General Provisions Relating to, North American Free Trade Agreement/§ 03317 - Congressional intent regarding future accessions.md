@@ -36,7 +36,7 @@ Section 3311(a) of this title may not be construed as conferring Congressional a
 
 #### (4) Recommendations on future free trade area negotiations
 
-&emsp;No later than July 1, 1994, and July 1, 1997, the President shall submit to the appropriate Congressional committees a written report that contains—
+&emsp;No later than July 1, 1994, and July 1, 1997, the President shall submit to the appropriateCongressional committees a written report that contains—
 
 &emsp;&emsp;(A) recommendations for free trade area negotiations with each foreign country selected under paragraph (3);
 
@@ -71,8 +71,4 @@ Section 3311(a) of this title may not be construed as conferring Congressional a
 &emsp;&emsp;(K) monitoring and effective dispute settlement mechanisms to facilitate compliance with the matters described in subparagraphs (A) through (J).
 
 (Pub. L. 103–182, title I, §108, Dec. 8, 1993, 107 Stat. 2066.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2703 of this title; title 22 section 6062.
 

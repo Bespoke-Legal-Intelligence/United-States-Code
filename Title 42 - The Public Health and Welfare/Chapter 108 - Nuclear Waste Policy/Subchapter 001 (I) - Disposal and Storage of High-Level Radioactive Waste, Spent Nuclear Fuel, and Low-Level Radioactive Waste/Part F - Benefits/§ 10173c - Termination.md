@@ -10,7 +10,7 @@ The Secretary may terminate a benefits agreement under this subchapter if—
 
 #### (b) Termination by State or Indian tribe
 
-A State or Indian tribe may terminate a benefits agreement under this subchapter only if the Secretary disqualifies the site under consideration for its failure to comply with technical requirements established by the Secretary in accordance with this chapter or the Secretary determines that the Commission cannot license the facility within a reasonable time.
+A State or Indian tribe may terminate a benefits agreement under this subchapter only if theSecretary disqualifies the site under consideration for its failure to comply with technical requirements established by the Secretary in accordance with this chapter or the Secretary determines that the Commission cannot license the facility within a reasonable time.
 
 #### (c) Decisions of Secretary
 
@@ -21,8 +21,4 @@ Decisions of the Secretary under this section shall be in writing, shall be avai
 #### Codification
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10173 of this title.
 

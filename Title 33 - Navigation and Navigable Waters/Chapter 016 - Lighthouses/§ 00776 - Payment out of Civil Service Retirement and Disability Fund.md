@@ -1,8 +1,8 @@
 ### §776. Payment out of Civil Service Retirement and Disability Fund
 
-Annuities authorized by sections 771 to 775 of this title may, on and after February 20, 2003, be paid out of the Civil Service Retirement and Disability Fund.
+Annuities authorized by sections 771 to 775 of this title may, on and after December 8, 2004, be paid out of the Civil Service Retirement and Disability Fund.
 
-(Pub. L. 108–7, div. J, title IV, Feb. 20, 2003, 117 Stat. 459.)
+(Pub. L. 108–447, div. H, title IV, Dec. 8, 2004, 118 Stat. 3263.)
 
 #### Codification
 
@@ -11,6 +11,10 @@ Section is from the appropriation act cited as the credit to this section.
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 108–199, div. F, title IV, Jan. 23, 2004, 118 Stat. 339.
+
+Pub. L. 108–7, div. J, title IV, Feb. 20, 2003, 117 Stat. 459.
 
 Pub. L. 107–67, title IV, Nov. 12, 2001, 115 Stat. 542.
 

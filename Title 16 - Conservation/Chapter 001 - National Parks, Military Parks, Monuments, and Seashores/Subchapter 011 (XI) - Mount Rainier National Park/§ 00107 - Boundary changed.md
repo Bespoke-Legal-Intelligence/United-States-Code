@@ -4,7 +4,3 @@ The boundary of the Mount Rainier National Park is changed so as to read as foll
 
 (May 28, 1926, ch. 410, §1, 44 Stat. 668.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 108, 109 of this title.
-

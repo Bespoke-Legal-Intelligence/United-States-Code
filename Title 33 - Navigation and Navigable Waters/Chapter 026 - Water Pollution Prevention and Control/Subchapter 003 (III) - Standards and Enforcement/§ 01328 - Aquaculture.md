@@ -22,7 +22,3 @@ Subsec. (b). Pub. L. 95–217 struck out “, not later than January 1, 1974,�
 
 Subsec. (c). Pub. L. 95–217 added subsec. (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1311, 1319, 1342 of this title.
-

@@ -2,7 +2,7 @@
 
 (a)(1)(A) Each non-Federal entity that expends a total amount of Federal awards equal to or in excess of $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such non-Federal entity shall have either a single audit or a program-specific audit made for such fiscal year in accordance with the requirements of this chapter.
 
-(B) Each such non-Federal entity that expends Federal awards under more than one Federalprogram shall undergo a single audit in accordance with the requirements of subsections (b) through (i) of this section and guidance issued by the Director under section 7505.
+(B) Each such non-Federal entity that expends Federal awards under more than one Federal program shall undergo a single audit in accordance with the requirements of subsections (b) through (i) of this section and guidance issued by the Director under section 7505.
 
 (C) Each such non-Federal entity that expends awards under only one Federal program and is not subject to laws, regulations, or Federal award agreements that require a financial statement audit of the non-Federal entity, may elect to have a program-specific audit conducted in accordance with applicable provisions of this section and guidance issued by the Director under section 7505.
 
@@ -28,7 +28,7 @@
 
 &emsp;(1) cover the operations of the entire non-Federal entity; or
 
-&emsp;(2) at the option of such non-Federal entity such audit shall include a series of audits that cover departments, agencies, and other organizational units which expended or otherwise administered Federal awards during such fiscal year provided that each such audit shall encompass the financial statements and schedule of expenditures of Federal awards for each such department, agency, and organizational unit, which shall be considered to be a non-Federal entity.
+&emsp;(2) at the option of such non-Federal entity such audit shall include a series of audits thatcover departments, agencies, and other organizational units which expended or otherwise administered Federal awards during such fiscal year provided that each such audit shall encompass the financial statements and schedule of expenditures of Federal awards for each such department, agency, and organizational unit, which shall be considered to be a non-Federal entity.
 
 (e) The auditor shall—
 
@@ -96,9 +96,7 @@ Subsec. (g). Pub. L. 103–272, §4(f)(1)(W)(iv), substituted “section 3512(c)
 
 #### Change of Name
 
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7501, 7503, 7504, 7505 of this title; title 42 section 300ff–75a; title 49 section 47107.
 

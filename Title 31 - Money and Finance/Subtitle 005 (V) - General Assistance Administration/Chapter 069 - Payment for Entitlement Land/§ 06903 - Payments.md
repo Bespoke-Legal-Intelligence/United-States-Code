@@ -350,7 +350,3 @@ Section 5(b)(4) of Pub. L. 103–397 provided for the amendment of the table at 
 
 Section 101(3) of Pub. L. 98–63 provided in part that: “The United States shall not be subject to any cause of action or any liability for distribution of payments made prior to January 1, 1983, under the Act of October 20, 1976 (90 Stat. 2662), as amended \[Pub. L. 94–565, see 31 U.S.C. 6901 et seq.\], or regulations pursuant thereto.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6905 of this title; title 16 section 698v–3.
-

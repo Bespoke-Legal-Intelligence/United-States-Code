@@ -20,5 +20,5 @@ Amendment by Pub. L. 86–370 effective Sept. 23, 1959, see section 7(a) of Pub.
 
 #### Reference to Assistant Director Deemed Reference to Deputy Director
 
-References in any other law to Assistant Director of the Administrative Office of the United States Courtsdeemed to be reference to the Deputy Director of the Administrative Office of the United States Courts, see note set out under section 601 of this title.
+References in any other law to Assistant Director of the Administrative Office of the United States Courts deemed to be reference to the Deputy Director of the Administrative Office of the United States Courts, see note set out under section 601 of this title.
 

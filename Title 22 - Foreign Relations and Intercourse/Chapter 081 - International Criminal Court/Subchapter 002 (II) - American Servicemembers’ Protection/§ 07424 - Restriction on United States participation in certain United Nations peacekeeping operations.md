@@ -2,7 +2,7 @@
 
 #### (a) Policy
 
-Effective beginning on the date on which the Rome Statute enters into force pursuant to Article 126 of the Rome Statute, the President should use the voice and vote of the United States in the United Nations Security Council to ensure that each resolution of the Security Council authorizing any peacekeeping operation under chapter VI of the charter of the United Nations or peace enforcement operation under chapter VII of the charter of the United Nations permanently exempts, at a minimum, members of the Armed Forces of the United States participating in such operation from criminal prosecution or other assertion of jurisdiction by the International Criminal Court for actions undertaken by such personnel in connection with the operation.
+Effective beginning on the date on which the Rome Statute enters into force pursuant to Article 126 of the Rome Statute, the President should use the voice and vote of the United States in the United Nations Security Council to ensure that each resolution of the SecurityCouncil authorizing any peacekeeping operation under chapter VI of the charter of the United Nations or peace enforcement operation under chapter VII of the charter of the United Nations permanently exempts, at a minimum, members of the Armed Forces of the United States participating in such operation from criminal prosecution or other assertion of jurisdiction by the International Criminal Court for actions undertaken by such personnel in connection with the operation.
 
 #### (b) Restriction
 
@@ -19,8 +19,4 @@ The certification referred to in subsection (b) of this section is a certificati
 &emsp;(3) the national interests of the United States justify participation by members of the Armed Forces of the United States in the peacekeeping or peace enforcement operation.
 
 (Pub. L. 107–206, title II, §2005, Aug. 2, 2002, 116 Stat. 903.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7422, 7431 of this title.
 

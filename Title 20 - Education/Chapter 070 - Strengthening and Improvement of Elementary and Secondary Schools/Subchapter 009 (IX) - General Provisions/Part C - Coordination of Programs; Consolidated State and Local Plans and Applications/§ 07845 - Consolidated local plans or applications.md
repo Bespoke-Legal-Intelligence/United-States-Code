@@ -28,7 +28,3 @@ The State educational agency shall require only descriptions, information, assur
 
 A prior section 9305 of Pub. L. 89–10 was classified to section 7935 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6312, 6381f, 7801, 7846 of this title.
-

@@ -120,7 +120,3 @@ The Trade Act of 1974, referred to in subsec. (h)(1)(B)(ii), is Pub. L. 93–618
 
 The Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(1)(B)(ii), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§2701 et seq.) of Title 19. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 19 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6063 of this title.
-

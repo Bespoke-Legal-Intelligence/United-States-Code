@@ -56,7 +56,7 @@ For the purposes of this section—
 
 #### (d) Agency designated to receive report and action to be taken
 
-For all Federal lands and all federally operated (or contracted) facilities in which childrenare cared for or reside, the Attorney General shall designate an agency to receive and investigate the reports described in subsection (a) of this section. By formal written agreement, the designated agency may be a non-Federal agency. When such reports are received by social services or health care agencies, and involve allegations of sexual abuse, serious physical injury, or life-threatening neglect of a child, there shall be an immediate referral of the report to a law enforcement agency with authority to take emergency action to protect the child. All reports received shall be promptly investigated, and whenever appropriate, investigations shall be conducted jointly by social services and law enforcement personnel, with a view toward avoiding unnecessary multiple interviews with the child.
+For all Federal lands and all federally operated (or contracted) facilities in which children are cared for or reside, the Attorney General shall designate an agency to receive and investigate the reports described in subsection (a) of this section. By formal written agreement, the designated agency may be a non-Federal agency. When such reports are received by social services or health care agencies, and involve allegations of sexual abuse, serious physical injury, or life-threatening neglect of a child, there shall be an immediate referral of the report to a law enforcement agency with authority to take emergency action to protect the child. All reports received shall be promptly investigated, and whenever appropriate, investigations shall be conducted jointly by social services and law enforcement personnel, with a view toward avoiding unnecessary multiple interviews with the child.
 
 #### (e) Reporting form
 
@@ -77,8 +77,4 @@ All individuals in the occupations listed in subsection (b)(1) of this section w
 #### Codification
 
 Section is comprised of section 226 of Pub. L. 101–647. Subsec. (g) of section 226 of Pub. L. 101–647 enacted section 2258 of Title 18, Crimes and Criminal Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 2258.
 

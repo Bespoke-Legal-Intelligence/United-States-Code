@@ -46,7 +46,3 @@ The Board shall cease to exist when the Congress, by law, determines that its mi
 
 (Pub. L. 94–168, §5, Dec. 23, 1975, 89 Stat. 1007.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 205c, 205g of this title.
-

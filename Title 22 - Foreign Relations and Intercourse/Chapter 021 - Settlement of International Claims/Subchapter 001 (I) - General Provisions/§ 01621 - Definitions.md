@@ -212,7 +212,7 @@ Reports.—
 
 &emsp;“(1)
 
-Submission to the president.—Not later than December 31, 2000, the Commission shall submit a final report to the President that shall contain anyrecommendations for such legislative, administrative, or other action as it deems necessary or appropriate. The Commission may submit interim reports to the President as it deems appropriate.
+Submission to the president.—Not later than December 31, 2000, the Commission shall submit a final report to the President that shall contain any recommendations for such legislative, administrative, or other action as it deems necessary or appropriate. The Commission may submit interim reports to the President as it deems appropriate.
 
 &emsp;“(2)
 

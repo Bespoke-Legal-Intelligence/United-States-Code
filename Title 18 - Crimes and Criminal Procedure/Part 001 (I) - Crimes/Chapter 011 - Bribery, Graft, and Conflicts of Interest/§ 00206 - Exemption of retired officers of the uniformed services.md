@@ -12,7 +12,3 @@ A prior section 206, act June 25, 1948, ch. 645, 62 Stat. 692, related to an off
 
 Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849, set out as a note under section 201 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 202 of this title; title 5 section 568; title 7 sections 2009aa–1, 2009bb–1; title 12 section 2245; title 28 section 594; title 38 section 5902; title 40 section 14309.
-

@@ -12,7 +12,3 @@ In carrying out this subchapter—
 
 (Sept. 1, 1951, ch. 378, title III, §309, 65 Stat. 307.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1592m of this title.
-

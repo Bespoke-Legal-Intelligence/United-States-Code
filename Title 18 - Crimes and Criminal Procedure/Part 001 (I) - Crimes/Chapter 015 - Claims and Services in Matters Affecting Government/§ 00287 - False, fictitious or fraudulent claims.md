@@ -30,7 +30,3 @@ Pub. L. 99–145, title IX, §931(a), Nov. 8, 1985, 99 Stat. 699, provided that:
 
 \[Section 931(c) of Pub. L. 99–145 provided that section 931(a) is applicable to claims made or presented on or after Nov. 8, 1985.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 1345 of this title; title 10 section 2324; title 12 section 1833a; title 41 section 256.
-

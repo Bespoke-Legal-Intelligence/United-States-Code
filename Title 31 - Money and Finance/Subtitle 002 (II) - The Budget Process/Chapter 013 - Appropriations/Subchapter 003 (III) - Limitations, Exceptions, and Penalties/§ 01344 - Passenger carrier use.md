@@ -28,7 +28,7 @@
 
 &emsp;(5) the Deputy Secretary of Defense and Under Secretaries of Defense, the Secretary of the Air Force, the Secretary of the Army, the Secretary of the Navy, the members and Vice Chairman of the Joint Chiefs of Staff, and the Commandant of the Coast Guard;
 
-&emsp;(6) the Director of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, and the Administrator of the National Aeronautics and Space Administration;
+&emsp;(6) the Director of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives <sup>1</sup> the Administrator of the Drug Enforcement Administration, and the Administrator of the National Aeronautics and Space Administration;
 
 &emsp;(7) the Chairman of the Board of Governors of the Federal Reserve System;
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(G) any establishment in the executive branch of the Government (including the Executive Office of the President);
 
-&emsp;&emsp;(H) any independent regulatory agency (including an independent regulatory agency specified in section 3502(10) <sup>1</sup> of title 44);
+&emsp;&emsp;(H) any independent regulatory agency (including an independent regulatory agency specified in section 3502(10) <sup>2</sup> of title 44);
 
 &emsp;&emsp;(I) the Smithsonian Institution; and
 
@@ -84,7 +84,7 @@
 
 (h) Notwithstanding section 410(a) of title 39, this section applies to the United States Postal Service.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, §1(a), Oct. 27, 1986, 100 Stat. 3067; Pub. L. 100–180, div. A, title XIII, §1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, §101(a) \[title IV, §407\], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 101–510, div. A, title III, §326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 108–7, div. K, title IV, §423, Feb. 20, 2003, 117 Stat. 526.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, §1(a), Oct. 27, 1986, 100 Stat. 3067; Pub. L. 100–180, div. A, title XIII, §1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, §101(a) \[title IV, §407\], Dec. 22, 1987, 101 Stat. 1329, 1329–26;Pub. L. 101–510, div. A, title III, §326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 108–7, div. K, title IV, §423, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–447, div. B, title I, §117, Dec. 8, 2004, 118 Stat. 2870.)
 
 Historical and Revision Notes
 
@@ -126,6 +126,8 @@ Amendment by Pub. L. 104–91 is based on section 118 of H.R. 2076, One Hundred 
 
 #### Amendments
 
+2004—Subsec. (b)(6). Pub. L. 108–447 inserted “Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives” after “Federal Bureau of Investigation,”.
+
 2003—Subsec. (b)(6). Pub. L. 108–7 added par. (6) and struck out former par. (6) which read as follows: “the Director of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, and the Administrator of the Drug Enforcement Administration;”.
 
 1996—Subsec. (b)(6). Pub. L. 104–91, as amended by Pub. L. 104–99, amended par. (6) generally. Prior to amendment, par. (6) read as follows: “the Director of the Central Intelligence Agency and the Director of the Federal Bureau of Investigation;”.
@@ -146,7 +148,7 @@ Subsec. (d)(4). Pub. L. 100–202, §101(a) \[title IV, §407(2)(C)\], as amende
 
 Subsec. (e)(1). Pub. L. 100–202, §101(a) \[title IV, §407(3)\], as amended by Pub. L. 103–272, substituted “(b)(9)” for “(b)(8)”.
 
-1986—Pub. L. 99–550 substituted “carrier” for “motor vehicle and aircraft” in section catchline and amendedtext generally. Prior to amendment, text read as follows:
+1986—Pub. L. 99–550 substituted “carrier” for “motor vehicle and aircraft” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) Except as specifically provided by law, an appropriation may be expended to maintain, operate, and repair passenger motor vehicles or aircraft of the United States Government that are used only for an official purpose. An official purpose does not include transporting officers or employees of the Government between their domiciles and places of employment except—
 
@@ -164,7 +166,15 @@ Subsec. (e)(1). Pub. L. 100–202, §101(a) \[title IV, §407(3)\], as amended b
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight ofHouse of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–447, div. B, title I, §117, Dec. 8, 2004, 118 Stat. 2870, provided in part that: “This amendment \[amending this section\] shall take effect as if enacted on January 1, 2004.”
 
 #### Effective Date of 1994 Amendment
 
@@ -182,9 +192,7 @@ Pub. L. 101–194, title V, §503, Nov. 30, 1989, 103 Stat. 1755, as amended by 
 
 Pub. L. 101–194, title VIII, §802(d), Nov. 30, 1989, 103 Stat. 1773, as amended by Pub. L. 104–186, title II, §219(a), Aug. 20, 1996, 110 Stat. 1747, provided that: “The Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives shall take such action as may be necessary to carry out section 503 \[set out above\] with respect to vehicles of the House of Representatives.”
 
-#### Section Referred to in Other Sections
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-This section is referred to in section 1349 of this title; title 5 sections 3374, 3704; title 15 section 278e; title 22 section 3622; title 40 section 611.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

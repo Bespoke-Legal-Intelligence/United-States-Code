@@ -2,7 +2,7 @@
 
 #### (a) Certain provisions to apply to grants
 
-The following provisions of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] (and any subsequent revisionsthereto or renumbering thereof), shall apply to grants provided under this chapter:
+The following provisions of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] (and any subsequent revisions thereto or renumbering thereof), shall apply to grants provided under this chapter:
 
 &emsp;(1) Section 5(f) \[25 U.S.C. 450c(f)\] (relating to single agency audit).
 
@@ -24,7 +24,7 @@ The following provisions of the Indian Self-Determination and Education Assistan
 
 &emsp;(10) Section 106(k) \[25 U.S.C. 450j–1(k)\] (relating to allowable uses of funds).
 
-&emsp;(11) Section 108(c) \[25 U.S.C. 450<i>l</i>(c)\] (Model Agreements provisions (1)(a)(5) <sup>1</sup> (relating to limitations of costs), (1)(a)(7) <sup>2</sup> (relating to records and monitoring), (1)(a)(8) <sup>3</sup> (relating to property), and (a)(1)(9) <sup>4</sup> (relating to availability of funds).<sup>5</sup>
+&emsp;(11) Section 108(c) \[25 U.S.C. 450<i>l</i>(c)\] (Model Agreements provisions (1)(a)(5) <sup>1</sup> (relating tolimitations of costs), (1)(a)(7) <sup>2</sup> (relating to records and monitoring), (1)(a)(8) <sup>3</sup> (relating to property), and (a)(1)(9) <sup>4</sup> (relating to availability of funds).<sup>5</sup>
 
 &emsp;(12) Section 109 \[25 U.S.C. 450m\] (relating to reassumption).
 
@@ -74,7 +74,7 @@ Any exception or problem cited in an audit conducted pursuant to section 2505(b)
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to theCode, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 The Equal Access to Justice Act, referred to in subsec. (e), is title II of Pub. L. 96–481, Oct. 21, 1980, 94 Stat. 2325, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 504 of Title 5, Government Organization and Employees, and Tables.
 
@@ -85,10 +85,6 @@ A prior section 2507, Pub. L. 100–297, title V, §5208, Apr. 28, 1988, 102 Sta
 #### Effective Date
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2503, 2505 of this title; title 20 section 7221c.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “1(b)(5)”.</i>
 

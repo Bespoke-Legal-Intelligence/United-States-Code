@@ -12,7 +12,7 @@ In order to facilitate the administration of the National Park System, the Secre
 
 #### (3) Transportation of employees of Carlsbad Caverns National Park; rates
 
-&emsp;Transportation to and from work, outside of regular working hours, of employees of Carlsbad Caverns National Park, residing in or near the city of Carlsbad, New Mexico, such transportation to be between the park and the city, or intervening points, at reasonable rates to be determined by the Secretary of the Interiortaking into consideration, among other factors, comparable rates charged by transportation companies in the locality for similar services, the amounts collected for such transportation to be credited to the appropriation current at the time payment is received: <i>Provided</i>, That if adequate transportation facilities are available, or shall be available by any common carrier, at reasonable rates, then and in that event the facilities contemplated by this paragraph shall not be offered.
+&emsp;Transportation to and from work, outside of regular working hours, of employees of Carlsbad Caverns National Park, residing in or near the city of Carlsbad, New Mexico, such transportation to be between the park and the city, or intervening points, at reasonable rates to be determined by the Secretary of the Interior taking into consideration, among other factors, comparable rates charged by transportation companies in the locality for similar services, the amounts collected for such transportation to be credited to the appropriation current at the time payment is received: <i>Provided</i>, That if adequate transportation facilities are available, or shall be available by any common carrier, at reasonable rates, then and in that event the facilities contemplated by this paragraph shall not be offered.
 
 #### (4) Utility services for concessioners; reimbursement
 
@@ -39,8 +39,4 @@ In order to facilitate the administration of the National Park System, the Secre
 #### Amendments
 
 1970—Pub. L. 91–383 struck out “and miscellaneous areas administered in connection therewith” after “National Park System” and “and miscellaneous areas” after “aforesaid system” in introductory text and “National Park System” in pars. (1), (2), (4) to (7), and (8) where first appearing.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1c, 459b–6, 459c–6 of this title.
 

@@ -6,7 +6,7 @@
 
 (c) The officers or public bodies having initial responsibility for the legislative apportionment or districting of each State may, not later than 3 years before the decennial census date, submit to the Secretary a plan identifying the geographic areas for which specific tabulations of population are desired. Each such plan shall be developed in accordance with criteria established by the Secretary, which he shall furnish to such officers or public bodies not later than April 1 of the fourth year preceding the decennial census date. Such criteria shall include requirements which assure that such plan shall be developed in a nonpartisan manner. Should the Secretary find that a plan submitted by such officers or public bodies does not meet the criteria established by him, he shall consult to the extent necessary with such officers or public bodies in order to achieve the alterations in such plan that he deems necessary to bring it into accord with such criteria. Any issues with respect to such plan remaining unresolved after such consultation shall be resolved by the Secretary, and in all cases he shall have final authority for determining the geographic format of such plan. Tabulations of population for the areas identified in any plan approved by the Secretary shall be completed by him as expeditiously as possible after the decennial census date and reported to the Governor of the State involved and to the officers or public bodies having responsibility for legislative apportionment or districting of such State, except that such tabulations of population of each State requesting a tabulation plan, and basic tabulations of population of each other State, shall, in any event, be completed, reported, and transmitted to each respective State within one year after the decennial census date.
 
-(d) Without regard to subsections (a), (b), and (c) of this section, the Secretary, in the year 1985 and every 10 years thereafter, shall conduct a mid-decade census of population in such form and content as he may determine, including the use of sampling procedures and special surveys, taking into account the extent to which information to be obtained from such census will serve in lieu of information collected annually or less frequently in surveys or other statistical studies. The census shall be taken as of the first day of April of each such year, which date shall be known as the “mid-decade census date”.
+(d) Without regard to subsections (a), (b), and (c) of this section, the Secretary, in the year 1985 and every 10 years thereafter, shall conducta mid-decade census of population in such form and content as he may determine, including the use of sampling procedures and special surveys, taking into account the extent to which information to be obtained from such census will serve in lieu of information collected annually or less frequently in surveys or other statistical studies. The census shall be taken as of the first day of April of each such year, which date shall be known as the “mid-decade census date”.
 
 (e)(1) If—
 
@@ -204,7 +204,7 @@ Pub. L. 105–119, title II, §210(a)–(j), Nov. 26, 1997, 111 Stat. 2483–248
 
 “(6) Upon the request of the Board, the head of a Federal agency shall provide such technical assistance to the Board as the Board determines to be necessary to carry out its duties.
 
-“(7) The Board may use the United States mails in the same manner and under the same conditions as Federal agencies and shall, for purposes of the frank, be considered a commission of Congress as described in section 3215 of title 39, United States Code.
+“(7) The Board may use the United States mails in the same manner and under the same conditions as Federal agencies and shall, for purposes of the frank, beconsidered a commission of Congress as described in section 3215 of title 39, United States Code.
 
 “(8) Upon request of the Board, the Administrator of General Services shall provide to the Board on a reimbursable basis such administrative support services as the Board may request.
 
@@ -250,7 +250,7 @@ Pub. L. 105–119, title II, §210(a)–(j), Nov. 26, 1997, 111 Stat. 2483–248
 
 “(g) There is authorized to be appropriated $4,000,000 for each of fiscal years 1998 through 2001 to carry out this section.
 
-“(h) To the extent practicable, members of the Board shall work to promote the most accurate and completecensus possible by using their positions to publicize the need for full and timely responses to census questionnaires.
+“(h) To the extent practicable, members of the Board shall work to promote the most accurate and complete census possible by using their positions to publicize the need for full and timely responses to census questionnaires.
 
 “(i)(1) No individual described in paragraph (2) shall be eligible—
 
@@ -288,63 +288,11 @@ Expanded Census Question.—In carrying out subsection (a), the Secretary of Com
 
 #### Decennial Census Improvement Act of 1991
 
-Pub. L. 102–135, Oct. 24, 1991, 105 Stat. 635, provided that:
-
-#### “SECTION 1. SHORT TITLE.
-
-“This Act may be cited as the ‘Decennial Census Improvement Act of 1991’.
-
-#### “SEC. 2. STUDY.
-
-“(a)
-
-In General.—The Secretary of Commerce shall, within 30 days after the date of enactment of this Act \[Oct. 24, 1991\], and subject to the availability of appropriations, contract with the National Academy of Sciences (hereinafter in this Act referred to as the ‘Academy’) to study—
-
-&emsp;“(1) means by which the Government could achieve the most accurate population count possible; and
-
-&emsp;“(2) consistent with the goal under paragraph (1), ways for the Government to collect other demographic and housing data.
-
-“(b)
-
-Specific Considerations.—In conducting its study, the Academy shall consider such matters as—
-
-&emsp;“(1) with respect to subsection (a)(1)—
-
-&emsp;&emsp;“(A) ways to improve the Government's enumeration methods, especially with regard to those involving the direct collection of data from respondents;
-
-&emsp;&emsp;“(B) alternative methods for collecting the data needed for a basic population count, such as any involving administrative records, information from subnational or other surveys, and cumulative or rolling data-collection techniques; and
-
-&emsp;&emsp;“(C) the appropriateness of using sampling methods, in combination with basic data-collection techniques or otherwise, in the acquisition or refinement of population data, including a review of the accuracy of the data for different levels of geography (such as States, places, census tracts and census blocks); and
-
-&emsp;“(2) with respect to subsection (a)(2)—
-
-&emsp;&emsp;“(A) the degree to which a continuing need is anticipated with respect to the types of data (besides data relating to the basic population count) which were collected through the last decennial census; and
-
-&emsp;&emsp;“(B) with respect to data for which such a need is anticipated, whether there are more effective ways to collect information using traditional methods and whether alternative sources or methodologies exist or could be implemented for obtaining reliable information in a timely manner.
-
-“(c)
-
-Reports.—(1) The Academy shall submit to the Secretary and to the Committee on Post Office and Civil Service of the House of Representatives and the committee on Governmental Affairs of the Senate—
-
-&emsp;“(A) within 18 months after the date on which a contract is entered into under subsection (a), an interim report on its activities under this Act; and
-
-&emsp;“(B) within 36 months after the date on which a contract is entered into under subsection (a), a final report which shall include a detailed statement of the Academy's findings and conclusions, as well as recommendations for any legislation or administrative action which the Academy considers appropriate.
-
-“(2) With respect to each alternative proposed or discussed in its final report, the Academy shall include—
-
-&emsp;“(A) an evaluation of such alternative's relative advantages and disadvantages, as well as an analysis of its cost effectiveness; and
-
-&emsp;“(B) for any alternative that does not involve the direct collection of data from individuals (about themselves or members of their household), an analysis of such alternative's potential effects on—
-
-&emsp;&emsp;“(i) privacy;
-
-&emsp;&emsp;“(ii) public confidence in the census; and
-
-&emsp;&emsp;“(iii) the integrity of the census.”
+Pub. L. 102–135, Oct. 24, 1991, 105 Stat. 635, known as the Decennial Census Improvement Act of 1991, provided that the Secretary of Commerce was to contract with the National Academy of Sciences for a study of the means by which the Government could achieve the most accurate population count possible and ways for the Government to collect other demographic and housing data, and that the Academy was to submit to the Secretary and to committees of Congress an interim report and, within 36 months after the date of the contract, a final report on the study.
 
 #### Study of Counting of Homeless for National Census
 
-Pub. L. 101–645, title IV, §402, Nov. 29, 1990, 104 Stat. 4723, provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1990\], the General Accounting Office shall conduct a study of the methodology and procedures used by the Bureau of the Census in counting the number of homeless persons for the most recent decennial census conducted pursuant to title 13, United States Code, to determine the accuracy of such count, and report to the Congress the results of that study.”
+Pub. L. 101–645, title IV, §402, Nov. 29, 1990, 104 Stat. 4723, provided that not later than 1 year after Nov. 29, 1990, the General Accounting Office was to conduct a study of the methodology and procedures used by the Bureau of the Census in counting the number of homeless persons for the most recent decennial census conducted pursuant to this title, to determine the accuracy of such count, and report to the Congress the results of that study.
 
 #### Monitoring Economic Progress of Rural America
 
@@ -352,13 +300,9 @@ Pub. L. 101–624, title XXIII, §2382, Nov. 28, 1990, 104 Stat. 4050, provided 
 
 #### Americans of Spanish Origin or Descent; Study for Development of Creditable Estimates in Future Censuses
 
-Pub. L. 94–311, §4, June 16, 1976, 90 Stat. 688, provided that: “The Department of Commerce, in cooperation with appropriate Federal, State and local agencies and various population study groups and experts, shall immediately undertake a study to determine what stepswould be necessary for developing creditable estimates of undercounts of Americans of Spanish origin or descent in future censuses.”
+Pub. L. 94–311, §4, June 16, 1976, 90 Stat. 688, provided that: “The Department of Commerce, in cooperation with appropriate Federal, State and local agencies and various population study groups and experts, shall immediately undertake a study to determine what steps would be necessary for developing creditable estimates of undercounts of Americans of Spanish origin or descent in future censuses.”
 
 #### Needs and Concerns of Spanish-Origin Population; Use of Spanish Language Questionnaires and Bilingual Enumerators
 
 Pub. L. 94–311, §5, June 16, 1976, 90 Stat. 689, provided that: “The Secretary of Commerce shall ensure that, in the Bureau of the Census data-collection activities, the needs and concerns of the Spanish-origin population are given full recognition through the use of Spanish language questionnaires, bilingual enumerators, and other such methods as deemed appropriate by the Secretary.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 181 of this title.
 

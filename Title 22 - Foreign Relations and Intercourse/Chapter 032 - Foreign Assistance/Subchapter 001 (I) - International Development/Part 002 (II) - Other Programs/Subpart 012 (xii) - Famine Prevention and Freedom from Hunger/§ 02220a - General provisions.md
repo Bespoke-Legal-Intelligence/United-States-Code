@@ -28,7 +28,7 @@ The Congress so declares because it finds—
 
 Accordingly, the Congress declares that, in order to prevent famine and establish freedom from hunger, the following components must be brought together in a coordinated program to increase world food and fiber production, agricultural trade, and responsible management of natural resources, including—
 
-&emsp;(1) continued efforts by the international agricultural research centers and other international research entities to provide a global network, including United States universities, for international scientific collaboration on crops, livestock, forests, fisheries, farming resources, and food systems of worldwide importance;
+&emsp;(1) continued efforts by the international agricultural research centers and other international research entities to provide a global network, including United States universities, for international scientific collaboration oncrops, livestock, forests, fisheries, farming resources, and food systems of worldwide importance;
 
 &emsp;(2) contract research and the implementation of collaborative research support programs and other research collaboration led by United States universities, and involving research systems in other countries focused on crops, livestock, forests, fisheries, farming resources, and food systems, with benefits to the United States and partner countries;
 
@@ -60,7 +60,7 @@ The United States should—
 
 &emsp;&emsp;(E) United States Government foreign assistance and economic cooperation programs;
 
-&emsp;(4) generally engage the United States university community more extensively in the agricultural research, trade, and development initiatives undertaken outside the UnitedStates, with the objectives of strengthening its capacity to carry out research, teaching, and extension activities for solving problems in food production, processing, marketing, and consumption in agriculturally developing nations, and for transforming progress in global agricultural research and development into economic growth, trade, and trade benefits for aid recipient countries and United States communities and industries, and for the wise use of natural resources; and
+&emsp;(4) generally engage the United States university community more extensively in the agricultural research, trade, and development initiatives undertaken outside the United States, with the objectives of strengthening its capacity to carry out research, teaching, and extension activities for solving problems in food production, processing, marketing, and consumption in agriculturally developing nations, and for transforming progress in global agricultural research and development into economic growth, trade, and trade benefits for aid recipient countries and United States communities and industries, and for the wise use of natural resources; and
 
 &emsp;(5) ensure that all federally funded support to universities and public and private partners of universities relating to the goals of this subpart is periodically reviewed for its performance.
 
@@ -108,7 +108,7 @@ Subsec. (a)(A). Pub. L. 106–373, §2(a)(2)(B), substituted “with and through
 
 Subsec. (a)(B). Pub. L. 106–373, §2(a)(2)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “that land-grant and other universities in the United States have demonstrated over many years their ability to cooperate with foreign agricultural institutions in expanding indigenous food production for both domestic and international markets;”.
 
-Subsec. (a)(C). Pub. L. 106–373, §2(a)(2)(D), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: “that, in a world of growing population with rising expectations, increased food production and improved distribution, storage, and marketing in the developing countries is necessary not only to prevent hunger but to build the economic base for growth, and moreover, that the greatest potential for increasing world food supplies is in the developing countries where the gap between food need and food supply is the greatest and current yields are lowest;”.
+Subsec. (a)(C). Pub. L. 106–373, §2(a)(2)(D), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “that, in a world of growing population with rising expectations, increased food production and improved distribution, storage, and marketing in the developing countries is necessary not only to prevent hunger but to build the economic base for growth, and moreover, that the greatest potential for increasing world food supplies is in the developing countries where the gap between food need and food supply is the greatest and current yields are lowest;”.
 
 Subsec. (a)(E). Pub. L. 106–373, §2(a)(2)(E), (H), added subpar. (E) and struck out former subpar. (E) which read as follows: “that research, teaching, and extension activities, and appropriate institutional development therefor are prime factors in increasing agricultural production abroad (as well as in the United States) and in improving food distribution, storage, and marketing;”.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—ADMINISTRATION AND MISCELLANEOUS PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 5 section 5948.
-
 
 ---
 

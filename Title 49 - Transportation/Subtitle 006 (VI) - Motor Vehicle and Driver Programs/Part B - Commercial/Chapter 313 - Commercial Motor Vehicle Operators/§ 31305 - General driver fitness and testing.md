@@ -2,7 +2,7 @@
 
 (a)
 
-Minimum Standards for Testing and Fitness.—The Secretary of Transportation shallprescribe regulations on minimum standards for testing and ensuring the fitness of an individual operating a commercial motor vehicle. The regulations—
+Minimum Standards for Testing and Fitness.—The Secretary of Transportation shall prescribe regulations on minimum standards for testing and ensuring the fitness of an individual operating a commercial motor vehicle. The regulations—
 
 &emsp;(1) shall prescribe minimum standards for written and driving tests of an individual operating a commercial motor vehicle;
 
@@ -110,11 +110,11 @@ Pub. L. 105–178, title IV, §4018, June 9, 1998, 112 Stat. 413, provided that:
 
 “(a)
 
-Determination.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall determine whether a practicable and cost-effective screening, operating, and monitoring protocol could likely be developed for insulin treated diabetes mellitus individuals who want to operate commercial motor vehicles in interstate commerce that would ensure a level of safety equal to or greater than that achieved with the current prohibition on individuals with insulin treated diabetes mellitus driving such vehicles.
+Determination.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall determine whether a practicable and cost-effective screening, operating, and monitoring protocol could likely be developed for insulin treated diabetes mellitus individuals who want to operate commercial motor vehicles in interstatecommerce that would ensure a level of safety equal to or greater than that achieved with the current prohibition on individuals with insulin treated diabetes mellitus driving such vehicles.
 
 “(b)
 
-Compilation and Evaluation.—Prior to making the determination in subsection (a), the Secretary shallcompile and evaluate research and other information on the effects of insulin treated diabetes mellitus on driving performance. In preparing the compilation and evaluation, the Secretary shall, at a minimum—
+Compilation and Evaluation.—Prior to making the determination in subsection (a), the Secretary shall compile and evaluate research and other information on the effects of insulin treated diabetes mellitus on driving performance. In preparing the compilation and evaluation, the Secretary shall, at a minimum—
 
 &emsp;“(1) consult with States that have developed and are implementing a screening process to identify individuals with insulin treated diabetes mellitus who may obtain waivers to drive commercial motor vehicles in intrastate commerce;
 
@@ -177,8 +177,4 @@ Funding.—The Secretary may use amounts made available under section 5001(a)(2)
 “(b)
 
 Nonsedating Medications.—The Secretary shall review available information on the effects of medications (including antihistamines) on driver fatigue, awareness, and performance and shall consider encouraging, if appropriate, the use of nonsedating medications (including nonsedating antihistamines) as a means of reducing the adverse effects of the use of other medications by drivers.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 521, 31301, 31308, 31311 of this title.
 

@@ -14,7 +14,7 @@ The Administrator shall—
 
 &emsp;(6) develop handbooks to assist Federal, State, and local fire service and law enforcement personnel in arson prevention and detection.
 
-(Pub. L. 93–498, §24, as added Pub. L. 95–422, §3(a), Oct. 5, 1978, 92 Stat. 932; amended Pub. L. 103–254, §4, May 19, 1994, 108 Stat. 682; Pub. L. 106–503, title I, §110(a)(1)(C), (D), Nov. 13, 2000, 114 Stat. 2302.)
+(Pub. L. 93–498, §24, as added Pub. L. 95–422, §3(a), Oct. 5, 1978, 92 Stat. 932; amended Pub. L.103–254, §4, May 19, 1994, 108 Stat. 682; Pub. L. 106–503, title I, §110(a)(1)(C), (D), Nov. 13, 2000, 114 Stat. 2302.)
 
 #### Amendments
 
@@ -27,8 +27,4 @@ The Administrator shall—
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of Administrator of United States Fire Administration under this section and section 2221 of this title to remain vested in Administrator and not to be transferred to Director of Federal Emergency Management Agency, pursuant to Reorg. Plan No. 3 of 1978, §§201, 301, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out as a note under section 2201 of this title, effective Apr. 1, 1979, pursuant to Ex. Ord. No. 12127, §1–103(a), Mar. 31, 1979, 44 F.R. 19367.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 278f, 2216 of this title.
 

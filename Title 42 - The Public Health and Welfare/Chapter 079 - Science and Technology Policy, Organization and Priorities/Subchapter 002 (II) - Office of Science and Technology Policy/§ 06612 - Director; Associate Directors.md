@@ -4,7 +4,3 @@ There shall be at the head of the Office a Director who shall be appointed by th
 
 (Pub. L. 94–282, title II, §203, May 11, 1976, 90 Stat. 463.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6632 of this title.
-

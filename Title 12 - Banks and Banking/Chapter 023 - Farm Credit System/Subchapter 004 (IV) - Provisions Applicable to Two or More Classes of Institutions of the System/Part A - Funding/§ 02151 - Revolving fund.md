@@ -44,7 +44,3 @@ The second fund, providing moneys for investment in banks for cooperatives, is c
 
 Pub. L. 96–592, referred to above as continuing the revolving fund established by Pub. L. 87–494, is the Farm Credit Act Amendment of 1980, Pub. L. 96–592, Dec. 24, 1980, 94 Stat. 3437. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 2001 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2277a–9, 2278a–7, 2278a–13 of this title.
-

@@ -36,7 +36,3 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Subsec. (e). Pub. L. 93–289, §8(2), substituted “section 769(d)(1) of this title” for “section 766 of this title”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1977 of this title.
-

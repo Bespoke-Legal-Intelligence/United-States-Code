@@ -58,7 +58,7 @@ Hourly Rate.—Any attorney appointed pursuant to this section or a bar associat
 
 (2)
 
-Maximum Amounts.—For representation of a defendant before the United States magistrate judge or the district court, or both, the compensation to be paid to an attorney or to a bar association or legal aid agency or community defender organization shall not exceed $5,200 for each attorney in a case in which one or more felonies are charged, and $1,500 for each attorney in a case in which only misdemeanors are charged. For representation of a defendant in an appellate court, the compensation to be paid to an attorney or to a bar association or legal aid agency or community defender organization shall not exceed $3,700 for each attorney in each court. For representation of a petitioner in a non-capital habeas corpus proceeding, the compensation for each attorney shall not exceed the amount applicable to a felony in this paragraph for representation of a defendant before a judicial officer of the district court. For representation of such petitioner in an appellate court, the compensation for each attorney shall not exceed the amount applicable for representation of a defendant in an appellate court. For representation of an offender before the United States Parole Commission in a proceeding under section 4106A of this title, the compensation shall not exceed $1,200 for each attorney in each proceeding; for representation of an offender in an appeal from a determination of such Commission under such section, the compensation shall not exceed $3,900 for each attorney in each court. For any other representation required or authorized by this section, the compensation shall not exceed $1,200 for each attorney in each proceeding.
+Maximum Amounts.—For representation of a defendant before the United States magistrate judge or the district court, or both, the compensation to be paid to an attorney or to a bar association or legal aid agency or community defender organization shall not exceed $7,000 for each attorney in a case in which one or more felonies are charged, and $2,000 for each attorney in a case in which only misdemeanors are charged. For representation of a defendant in an appellate court, the compensation to be paid to an attorney or to a bar association or legal aid agency or community defender organization shall not exceed $5,000 for each attorney in each court. For representation of a petitioner in a non-capital habeas corpus proceeding, the compensation for each attorney shall not exceed the amount applicable to a felony in this paragraph for representation of a defendant before a judicial officer of the district court. For representation of such petitioner in an appellate court, the compensation for each attorney shall not exceed the amount applicable for representation of a defendant in an appellate court. For representation of an offender before the United States Parole Commission in a proceeding under section 4106A of this title, the compensation shall not exceed $1,500 for each attorney in each proceeding; for representation of an offender in an appeal from a determination of such Commission under such section, the compensation shall not exceed $5,000 for each attorney in each court. For any other representation required or authorized by this section, the compensation shall not exceed $1,500 for each attorney in each proceeding.
 
 (3)
 
@@ -162,13 +162,13 @@ Upon Request.—Counsel for a person who is financially unable to obtain investi
 
 (2)
 
-Without Prior Request.—(A) Counsel appointed under this section may obtain, subject to later review, investigative, expert, and other services without prior authorization if necessary for adequate representation. Except as provided in subparagraph (B) of this paragraph, the total cost of services obtained without prior authorization may not exceed $300 and expenses reasonably incurred.
+Without Prior Request.—(A) Counsel appointed under this section may obtain, subject to later review, investigative, expert, and otherservices without prior authorization if necessary for adequate representation. Except as provided in subparagraph (B) of this paragraph, the total cost of services obtained without prior authorization may not exceed $500 and expenses reasonably incurred.
 
-(B) The court, or the United States magistrate judge (if the services were rendered in a case disposed of entirely before the United States magistrate judge), may, in the interest of justice, and upon the finding that timely procurement of necessary services could not await prior authorization, approve payment for such services after they have been obtained, even if the cost of such services exceeds $300.
+(B) The court, or the United States magistrate judge (if the services were rendered in a case disposed of entirely before the United States magistrate judge), may, in the interest of justice, and upon the finding that timely procurement of necessary services could not await prior authorization, approve payment for such services after they have been obtained, even if the cost of such services exceeds $500.
 
 (3)
 
-Maximum Amounts.—Compensation to be paid to a person for services rendered by him to a person under this subsection, or to be paid to an organization for services rendered by an employee thereof, shall not exceed $1,000, exclusive of reimbursement for expenses reasonably incurred, unless payment in excess of that limit is certified by the court, or by the United States magistrate judge if the services were rendered in connection with a case disposed of entirely before him, as necessary to provide fair compensation for services of an unusual character or duration, and the amount of the excess payment is approved by the chief judge of the circuit. The chief judge of the circuit may delegate such approval authority to an active circuit judge.
+Maximum Amounts.—Compensation to be paid to a person for services rendered by him to a person under this subsection, or to be paid to an organization for services rendered by an employee thereof, shall not exceed $1,600, exclusive of reimbursement for expenses reasonably incurred, unless payment in excess of that limit is certified by the court, or by the United States magistrate judge if the services were rendered in connection with a case disposed of entirely before him, as necessary to provide fair compensation for services of an unusual character or duration, and the amount of the excess payment is approved by the chief judge of the circuit. The chief judge of the circuit may delegate such approval authority to an active circuit judge.
 
 (4)
 
@@ -208,7 +208,7 @@ Malpractice and Negligence Suits.—The Director of the Administrative Office of
 
 (h)
 
-Rules and Reports.—Each district court and court of appeals of a circuit shall submit areport on the appointment of counsel within its jurisdiction to the Administrative Office of the United States Courts in such form and at such times as the Judicial Conference of the United States may specify. The Judicial Conference of the United States may, from time to time, issue rules and regulations governing the operation of plans formulated under this section.
+Rules and Reports.—Each district court and court of appeals of a circuit shall submit a report on the appointment of counsel within its jurisdiction to the Administrative Office of the United States Courts in such form and at such times as the Judicial Conference of the United States may specify. The Judicial Conference of the United States may, from time to time, issue rules and regulations governing the operation of plans formulated under this section.
 
 (i)
 
@@ -222,7 +222,7 @@ Districts Included.—As used in this section, the term “district court” mea
 
 Applicability in the District of Columbia.—The provisions of this section shall apply in the United States District Court for the District of Columbia and the United States Court of Appeals for the District of Columbia Circuit. The provisions of this section shall not apply to the Superior Court of the District of Columbia and the District of Columbia Court of Appeals.
 
-(Added Pub. L. 88–455, §2, Aug. 20, 1964, 78 Stat. 552; amended Pub. L. 90–578, title III, §301(a)(1), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 91–447, §1, Oct. 14, 1970, 84 Stat. 916; Pub. L. 93–412, §3, Sept. 3, 1974, 88 Stat. 1093; Pub. L. 97–164, title II, §206(a), (b), Apr. 2, 1982, 96 Stat. 53; Pub. L. 98–473, title II, §§223(e), 405, 1901, Oct. 12, 1984, 98 Stat. 2028, 2067, 2185; Pub. L. 99–651, title I, §§102, 103, Nov. 14, 1986, 100 Stat. 3642, 3645; Pub. L. 100–182, §19, Dec. 7, 1987, 101 Stat. 1270; Pub. L. 100–690, title VII, §7101(f), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–132, title IX, §903(a), Apr. 24, 1996, 110 Stat. 1318; Pub. L. 105–119, title III, §308, Nov. 26, 1997, 111 Stat. 2493; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §308(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–518, title II, §§210, 211, Nov. 13, 2000, 114 Stat. 2415.)
+(Added Pub. L. 88–455, §2, Aug. 20, 1964, 78 Stat. 552; amended Pub. L. 90–578, title III, §301(a)(1), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 91–447, §1, Oct. 14, 1970, 84 Stat. 916; Pub. L. 93–412, §3, Sept. 3, 1974, 88 Stat. 1093; Pub. L. 97–164, title II, §206(a), (b), Apr. 2, 1982, 96 Stat. 53; Pub. L. 98–473, title II, §§223(e), 405, 1901, Oct. 12, 1984, 98 Stat. 2028, 2067, 2185; Pub. L. 99–651, title I, §§102, 103, Nov. 14, 1986, 100 Stat. 3642, 3645; Pub. L. 100–182, §19, Dec. 7, 1987, 101 Stat. 1270; Pub. L. 100–690, title VII, §7101(f), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–132, title IX, §903(a), Apr. 24, 1996, 110 Stat. 1318; Pub. L. 105–119, title III, §308, Nov. 26, 1997, 111 Stat. 2493; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §308(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–518, title II, §§210, 211, Nov. 13, 2000, 114 Stat. 2415; Pub. L. 108–447, div. B, title III, §304, Dec. 8, 2004, 118 Stat. 2894.)
 
 #### References in Text
 
@@ -238,9 +238,15 @@ The provisions of title 5 governing appointments in the competitive service, ref
 
 #### Amendments
 
+2004—Subsec. (d)(2). Pub. L. 108–447, §304(a), substituted “$7,000” for “$5,200” and “$2,000” for “$1,500” in first sentence, “$5,000” for “$3,700” in second sentence, “$1,500” for “$1,200” and “$5,000” for “$3,900” in fifth sentence, and “$1,500” for “$1,200” in last sentence.
+
+Subsec. (e)(2). Pub. L. 108–447, §304(b)(1), substituted “$500” for “$300” in subpars. (A) and (B).
+
+Subsec. (e)(3). Pub. L. 108–447, §304(b)(2), substituted “$1,600” for “$1,000” in first sentence.
+
 2000—Subsec. (d)(1). Pub. L. 106–518, §211, substituted “Attorneys may be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate or the court, and the costs of defending actions alleging malpractice of counsel in furnishing representational services under this section. No reimbursement for expenses in defending against malpractice claims shall be made if a judgment of malpractice is rendered against the counsel furnishing representational services under this section. The United States magistrate or the court shall make determinations relating to reimbursement of expenses under this paragraph.” for “Attorneys shall be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate or the court.”
 
-Subsec. (d)(2). Pub. L. 106–518, §210(4), (5), inserted after second sentence “For representation of a petitioner in a non-capital habeas corpus proceeding, the compensation for each attorney shall not exceed the amount applicable to a felony in this paragraph for representation of a defendant before a judicial officer of the district court. For representation of such petitioner in an appellate court, the compensation for each attorney shall not exceed the amount applicable for representation of a defendant in an appellate court.” and substituted “$1,200” for “$750” in last sentence.
+Subsec. (d)(2). Pub. L. 106–518, §210(4), (5), inserted after second sentence “For representation of a petitioner in a non-capital habeas corpus proceeding, the compensation for each attorney shall not exceed the amount applicable to a felony in this paragraph for representation of a defendant before a judicial officer of the district court. For representation of such petitionerin an appellate court, the compensation for each attorney shall not exceed the amount applicable for representation of a defendant in an appellate court.” and substituted “$1,200” for “$750” in last sentence.
 
 Pub. L. 106–518, §210(1)–(3), in first sentence, substituted “$5,200” for “$3,500” and “$1,500” for “$1,000”, in second sentence, substituted “$3,700” for “$2,500”, and in third sentence, substituted “$1,200” for “$750” and “$3,900” for “$2,500”.
 
@@ -406,7 +412,7 @@ Pub. L. 102–572, title VII, §702, Oct. 29, 1992, 106 Stat. 4515, provided tha
 
 #### Study of Federal Defender Program
 
-Pub. L. 101–650, title III, §318, Dec. 1, 1990, 104 Stat. 5116, as amended by Pub. L. 102–198, §9, Dec. 9, 1991, 105 Stat. 1626, directed Judicial Conference of the United States to conduct a study of effectiveness of Federal defender program and to transmit a report on results of study to Committees on the Judiciary of Senate and House of Representatives no later than Mar. 31, 1993, with report to include recommendations for legislation, a proposed formula for compensation of Federal defender program counsel, and suggestions for procedural and operational changes by courts.
+Pub. L. 101–650, title III, §318, Dec. 1, 1990, 104 Stat. 5116, as amended by Pub. L. 102–198, §9, Dec. 9, 1991, 105 Stat. 1626, directed Judicial Conference of the United States to conduct a study of effectiveness of Federal defender program and to transmit a report on results ofstudy to Committees on the Judiciary of Senate and House of Representatives no later than Mar. 31, 1993, with report to include recommendations for legislation, a proposed formula for compensation of Federal defender program counsel, and suggestions for procedural and operational changes by courts.
 
 #### Funds for Payment of Compensation and Reimbursement
 
@@ -423,10 +429,6 @@ Section 2 of Pub. L. 91–447 provided that a United States commissioner for a d
 #### Submission of Plans
 
 Section 3 of Pub. L. 88–455 directed each district court to submit a plan in accord with section 3006A of this title and the rules of the Judicial Conference of the United States to the judicial council of the circuit within 6 months from Aug. 20, 1964, further directed each judicial council to approve and send to the Administrative Office of the United States courts a plan for each district in its circuit within 9 months from Aug. 20, 1964, and also directed each district court and court of appeals to place its approved plan in operation within 1 year from Aug. 20, 1964.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 983, 3162, 3626, 4109, 4247 of this title; title 8 section 1534; title 10 section 876b; title 28 sections 753, 1825, 1875, 2254, 2255, 2671; title 42 section 1997e; title 48 section 1824.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

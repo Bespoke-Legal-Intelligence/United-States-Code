@@ -22,7 +22,3 @@ Subsec. (b). Pub. L. 100–86, §706(2), inserted “and enforce” after “ado
 
 1982—Pub. L. 97–320 designated existing provisions as subsecs. (a) and (c) and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1759 of this title.
-

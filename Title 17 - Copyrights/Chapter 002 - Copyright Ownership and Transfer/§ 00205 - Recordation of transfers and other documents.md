@@ -72,7 +72,3 @@ Regulations.—The Register of Copyrights is authorized to establish regulations
 
 Recordation of assignments of copyrights or other instruments received in the Copyright Office before Jan. 1, 1978, to be made in accordance with this title as it existed on Dec. 31, 1977, see section 109 of Pub. L. 94–553, set out as a note under section 410 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 708 of this title; title 28 section 4001.
-

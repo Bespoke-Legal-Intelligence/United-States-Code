@@ -26,7 +26,3 @@ The Secretary shall submit to the Congress, within one year after June 30, 1980,
 
 (Pub. L. 96–294, title IV, §406, June 30, 1980, 94 Stat. 716.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7375 of this title.
-

@@ -35,10 +35,13 @@
 | [1471a.](%C2%A7%2001471a%20-%20Availability%20of%20appropriations%20for%20emergency%20repair%20or%20replacement%20of%20damaged%20or%20destroyed%20facilities%20and%20equipment.md) | Availability of appropriations for emergency repair or replacement of damaged or destroyed facilities and equipment. |
 | [1471b.](%C2%A7%2001471b%20-%20Availability%20of%20appropriations%20for%20suppression%20and%20emergency%20prevention%20of%20forest%20and%20range%20fires.md) | Availability of appropriations for suppression and emergency prevention of forest and range fires. |
 | [1471c.](%C2%A7%2001471c%20-%20Availability%20of%20appropriations%20for%20operation%20of%20warehouses%2C%20garages%2C%20shops%2C%20and%20similar%20facilities.md) | Availability of appropriations for operation of warehouses, garages, shops, and similar facilities. |
+| 1471c–1. | Availability of appropriations for operation of warehouses, garages, shops, and similar facilities. |
 | [1471d.](%C2%A7%2001471d%20-%20Availability%20of%20appropriations%20for%20transportation%2C%20reprint%2C%20telephone%2C%20and%20library%20membership%20expenses.md) | Availability of appropriations for transportation, reprint, telephone, and library membership expenses. |
 | [1471e.](%C2%A7%2001471e%20-%20Reimbursement%20of%20employee%20license%20costs%20and%20certification%20fees.md) | Reimbursement of employee license costs and certification fees. |
 | [1471f.](%C2%A7%2001471f%20-%20Availability%20of%20appropriations%20for%20incremental%20funding%20of%20research%20work%20orders%20for%20cooperative%20agreements.md) | Availability of appropriations for incremental funding of research work orders for cooperative agreements. |
 | [1471g.](%C2%A7%2001471g%20-%20Availability%20of%20appropriations%20to%20support%20Memorial%20Day%20and%20Fourth%20of%20July%20ceremonies%20and%20activities%20in%20National%20Capital%20Region.md) | Availability of appropriations to support Memorial Day and Fourth of July ceremonies and activities in National Capital Region. |
+| [1471h.](%C2%A7%2001471h%20-%20Availability%20of%20appropriations%20for%20uniforms%20or%20allowances.md) | Availability of appropriations for uniforms or allowances. |
+| [1471i.](%C2%A7%2001471i%20-%20Availability%20of%20appropriations%20for%20services%20or%20rentals.md) | Availability of appropriations for services or rentals. |
 | [1472\.](%C2%A7%2001472%20-%20Bureau%20of%20Reclamation%20working%20capital%20fund.md) | Bureau of Reclamation working capital fund. |
 | (a) | Establishment; management of support activities of Bureau |
 | (b) | Fund credits; transfers to fund. |
@@ -63,6 +66,7 @@
 | (c) | Transfer and availability of amounts earned. |
 | (d) | Projects. |
 | (e) | Marine research activities. |
+| [1474e.](%C2%A7%2001474e%20-%20Sums%20received%20by%20the%20Bureau%20of%20Land%20Management%20for%20the%20sale%20of%20seeds.md) | Sums received by the Bureau of Land Management for the sale of seeds. |
 | [1475\.](%C2%A7%2001475%20-%20Bureau%20of%20Reclamation%20acceptance%20of%20services%20of%20volunteers.md) | Bureau of Reclamation acceptance of services of volunteers. |
 | [1475a.](%C2%A7%2001475a%20-%20Participation%20of%20non-Federal%20entities%20in%20contract%20negotiations%20and%20source%20selection%20proceedings.md) | Participation of non-Federal entities in contract negotiations and source selection proceedings. |
 
@@ -101,10 +105,13 @@
 - [&sect; 01471a - Availability of appropriations for emergency repair or replacement of damaged or destroyed facilities and equipment](%C2%A7%2001471a%20-%20Availability%20of%20appropriations%20for%20emergency%20repair%20or%20replacement%20of%20damaged%20or%20destroyed%20facilities%20and%20equipment.md)
 - [&sect; 01471b - Availability of appropriations for suppression and emergency prevention of forest and range fires](%C2%A7%2001471b%20-%20Availability%20of%20appropriations%20for%20suppression%20and%20emergency%20prevention%20of%20forest%20and%20range%20fires.md)
 - [&sect; 01471c - Availability of appropriations for operation of warehouses, garages, shops, and similar facilities](%C2%A7%2001471c%20-%20Availability%20of%20appropriations%20for%20operation%20of%20warehouses%2C%20garages%2C%20shops%2C%20and%20similar%20facilities.md)
+- [&sect; 01471c&#8211;1 - Availability of appropriations for operation of warehouses, garages, shops, and similar facilities](%C2%A7%2001471c%E2%80%931%20-%20Availability%20of%20appropriations%20for%20operation%20of%20warehouses%2C%20garages%2C%20shops%2C%20and%20similar%20facilities.md)
 - [&sect; 01471d - Availability of appropriations for transportation, reprint, telephone, and library membership expenses](%C2%A7%2001471d%20-%20Availability%20of%20appropriations%20for%20transportation%2C%20reprint%2C%20telephone%2C%20and%20library%20membership%20expenses.md)
 - [&sect; 01471e - Reimbursement of employee license costs and certification fees](%C2%A7%2001471e%20-%20Reimbursement%20of%20employee%20license%20costs%20and%20certification%20fees.md)
 - [&sect; 01471f - Availability of appropriations for incremental funding of research work orders for cooperative agreements](%C2%A7%2001471f%20-%20Availability%20of%20appropriations%20for%20incremental%20funding%20of%20research%20work%20orders%20for%20cooperative%20agreements.md)
 - [&sect; 01471g - Availability of appropriations to support Memorial Day and Fourth of July ceremonies and activities in National Capital Region](%C2%A7%2001471g%20-%20Availability%20of%20appropriations%20to%20support%20Memorial%20Day%20and%20Fourth%20of%20July%20ceremonies%20and%20activities%20in%20National%20Capital%20Region.md)
+- [&sect; 01471h - Availability of appropriations for uniforms or allowances](%C2%A7%2001471h%20-%20Availability%20of%20appropriations%20for%20uniforms%20or%20allowances.md)
+- [&sect; 01471i - Availability of appropriations for services or rentals](%C2%A7%2001471i%20-%20Availability%20of%20appropriations%20for%20services%20or%20rentals.md)
 - [&sect; 01472 - Bureau of Reclamation working capital fund](%C2%A7%2001472%20-%20Bureau%20of%20Reclamation%20working%20capital%20fund.md)
 - [&sect; 01473 - Acceptance of contributions from private and public sources by Mineral Management Service](%C2%A7%2001473%20-%20Acceptance%20of%20contributions%20from%20private%20and%20public%20sources%20by%20Mineral%20Management%20Service.md)
 - [&sect; 01473a - Acceptance of contributions by Secretary; cooperation with prosecution of projects](%C2%A7%2001473a%20-%20Acceptance%20of%20contributions%20by%20Secretary%3B%20cooperation%20with%20prosecution%20of%20projects.md)
@@ -118,5 +125,6 @@
 - [&sect; 01474b&#8211;1 - Transfer of funds from Natural Resource Damage Assessment and Restoration Fund](%C2%A7%2001474b%E2%80%931%20-%20Transfer%20of%20funds%20from%20Natural%20Resource%20Damage%20Assessment%20and%20Restoration%20Fund.md)
 - [&sect; 01474c - North American Wetlands Conservation Fund; availability of fines or forfeitures](%C2%A7%2001474c%20-%20North%20American%20Wetlands%20Conservation%20Fund%3B%20availability%20of%20fines%20or%20forfeitures.md)
 - [&sect; 01474d - Environmental Improvement and Restoration Fund](%C2%A7%2001474d%20-%20Environmental%20Improvement%20and%20Restoration%20Fund.md)
+- [&sect; 01474e - Sums received by the Bureau of Land Management for the sale of seeds](%C2%A7%2001474e%20-%20Sums%20received%20by%20the%20Bureau%20of%20Land%20Management%20for%20the%20sale%20of%20seeds.md)
 - [&sect; 01475 - Bureau of Reclamation acceptance of services of volunteers](%C2%A7%2001475%20-%20Bureau%20of%20Reclamation%20acceptance%20of%20services%20of%20volunteers.md)
 - [&sect; 01475a - Participation of non-Federal entities in contract negotiations and source selection proceedings](%C2%A7%2001475a%20-%20Participation%20of%20non-Federal%20entities%20in%20contract%20negotiations%20and%20source%20selection%20proceedings.md)

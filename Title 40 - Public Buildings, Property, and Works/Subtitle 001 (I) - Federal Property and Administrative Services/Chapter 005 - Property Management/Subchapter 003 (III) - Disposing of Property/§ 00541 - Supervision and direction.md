@@ -30,7 +30,3 @@ Pub. L. 98–181, title I, §126(a)(2), (3), Nov. 30, 1983, 97 Stat. 1175, provi
 
 “(3) Notwithstanding paragraph (1), section 414(b) \[former 40 U.S.C. 484b(b)\] of such Act shall continue to apply, where applicable, to all property transferred by either Secretary pursuant to section 414 of such Act, including properties transferred pursuant to paragraph (2).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 111 of this title; title 10 sections 2577, 2814; title 14 section 641; title 28 section 604; title 38 section 8162; title 42 sections 3796<i>ll</i>–3, 11411.
-

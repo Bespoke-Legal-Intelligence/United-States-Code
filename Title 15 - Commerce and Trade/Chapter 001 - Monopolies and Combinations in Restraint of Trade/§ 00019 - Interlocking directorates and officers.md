@@ -44,7 +44,3 @@ The antitrust laws, referred to in subsec. (a)(1)(B), are defined in section 12 
 
 1928—Act Mar. 9, 1928, amended second par.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 18a, 21, 26 of this title; title 12 section 3205.
-

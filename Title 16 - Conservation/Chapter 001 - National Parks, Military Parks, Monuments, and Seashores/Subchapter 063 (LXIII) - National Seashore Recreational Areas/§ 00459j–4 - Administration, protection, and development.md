@@ -40,7 +40,3 @@ Pub. L. 105–277, div. A, §101(e) \[title III, §318\], Oct. 21, 1998, 112 Sta
 
 Pub. L. 105–83, title III, §328, Nov. 14, 1997, 111 Stat. 1600.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459j–1, 459j–2, 459j–5, 459j–6, 459j–8 of this title.
-

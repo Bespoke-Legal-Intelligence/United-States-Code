@@ -11,6 +11,10 @@
 | [567\.](%C2%A7%2000567%20-%20Collection%20of%20fees%3B%20accounting.md) | Collection of fees; accounting. |
 | [568\.](%C2%A7%2000568%20-%20Practice%20of%20law%20prohibited.md) | Practice of law prohibited. |
 | [569\.](%C2%A7%2000569%20-%20Reemployment%20rights.md) | Reemployment rights. |
+| \[570, 571. | Repealed.\] |
+| \[572. | Renumbered.\] |
+| \[572a to 574. | Repealed.\] |
+| \[575, 576. | Renumbered.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -25,10 +29,6 @@
 1972—Pub. L. 92–310, title II, §206(a)(2), June 6, 1972, 86 Stat. 203, struck out item 564 “Bond”.
 
 1966—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 619, added chapter 37 and items 561 to 575.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 42 section 14405; title 48 sections 1424b, 1614, 1821.
 
 
 ---

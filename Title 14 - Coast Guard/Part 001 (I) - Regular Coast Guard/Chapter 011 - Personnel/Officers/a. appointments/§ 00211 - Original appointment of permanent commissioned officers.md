@@ -42,7 +42,3 @@ Section 5 of Pub. L. 88–130, as amended by Pub. L. 89–444, §3, June 9, 1966
 
 “(h) Notwithstanding section 1431 of title 10, United States Code, an original election, change, or revocation of an election, made under that section by an officer who is retired under the provisions of section 282, 283, 284, 285, or 288 of title 14, United States Code, is effective if made prior to the first day of the third month following the month in which this Act is enacted \[September 1963\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 282, 283 of this title.
-

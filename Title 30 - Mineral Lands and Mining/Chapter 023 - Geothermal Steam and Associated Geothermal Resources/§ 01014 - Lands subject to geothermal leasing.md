@@ -6,7 +6,7 @@ Geothermal leases for lands withdrawn or acquired in aid of functions of the Dep
 
 #### (b) Consent and terms and conditions for lands withdrawn or acquired for Department of Agriculture or for lands for power and related purposes
 
-Geothermal leases for lands withdrawn or acquired in aid of functions of the Department of Agriculture may be issued only with the consent of, and subject to such terms and conditions as may be prescribed by, the head of that Department to insure adequate utilization of the lands for the purposes for which they were withdrawn or acquired. Geothermal leases for lands to which section 818 of title 16 is applicable, may be issued only with the consent of, and subject to, such terms and conditions as the Secretary ofEnergy may prescribe to insure adequate utilization of such lands for power and related purposes.
+Geothermal leases for lands withdrawn or acquired in aid of functions of the Department of Agriculture may be issued only with the consent of, and subject to such terms and conditions as may be prescribed by, the head of that Department to insure adequate utilization of the lands for the purposes for which they were withdrawn or acquired. Geothermal leases for lands to which section 818 of title 16 is applicable, may be issued only with the consent of, and subject to, such terms and conditions as the Secretary of Energy may prescribe to insure adequate utilization of such lands for power and related purposes.
 
 #### (c) Exemption of certain Federal lands
 
@@ -17,8 +17,4 @@ Geothermal leases under this chapter shall not be issued for lands administered 
 #### Transfer of Functions
 
 “Secretary of Energy” substituted for “Federal Power Commission” in subsec. (b) pursuant to sections 301(b), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(b), 7293, and 7297 of Title 42, The Public Health and Welfare, and which terminated Federal Power Commission and transferred its functions (with certain exceptions) to Secretary of Energy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1002 of this title.
 

@@ -10,7 +10,3 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 1970—Pub. L. 91–252 substituted “$33,500,000” for “$16,000,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459b–1 to 459b–7 of this title.
-

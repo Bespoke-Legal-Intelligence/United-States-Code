@@ -44,11 +44,3 @@ The Harmonized Tariff Schedule of the United States, referred to in par. (2), is
 
 Section 1(a) of Pub. L. 103–182 provided that: “This Act \[see Tables for classification\] may be cited as the ‘North American Free Trade Agreement Implementation Act’.”
 
-#### Act Referred to in Other Sections
-
-The North American Free Trade Agreement Implementation Act is referred to in sections 1313, 1516a, 2252 of this title; title 6 section 212.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 58c, 81c, 1304, 1311, 1312, 1313, 1509, 1562, 1592, 1628, 2578b of this title; title 35 section 104.
-

@@ -130,15 +130,11 @@ Section 701 of subtitle A (§§701–705) of title VII of Pub. L. 100–233 prov
 
 &emsp;&emsp;“(B) to provide greater liquidity and lending capacity in extending credit to farmers and ranchers; and
 
-&emsp;&emsp;“(C) to provide an arrangement for new lending to facilitate capital market investments in providing long-term agricultural funding, including funds at fixed rates of interest; and
+&emsp;&emsp;“(C) to provide an arrangement for new lending to facilitate capital market investments in providinglong-term agricultural funding, including funds at fixed rates of interest; and
 
 &emsp;“(4) to enhance the ability of individuals in small rural communities to obtain financing for moderate-priced homes.”
 
 #### GAO Studies
 
 Section 704 of subtitle A (§§701–705) of title VII of Pub. L. 100–233, as amended by Pub. L. 100–399, title VI, §603, Aug. 17, 1988, 102 Stat. 1006, directed Comptroller General of United States to conduct studies of (1) implementation of amendments made by subtitle A of title VII of Pub. L. 100–233 (which enacted this subchapter and amended sections 2012, 2033, 2072, and 2093 of this title and section 9105 of Title 31, Money and Finance) by Federal Agricultural Mortgage Corporation and effect of operations of Corporation on producers, Farm Credit System, and other lenders, and capital markets, (2) feasibility and appropriateness of promoting establishment of a secondary market for securities representing interests in, or obligations backed by, pools of agricultural real estate loans for which a guarantee had not been provided by Federal Agricultural Mortgage Corporation, and (3) feasibility of expanding authority granted under amendments made by such subtitle A to authorize sale of securities based on or backed by a trust or pool consisting of loans made to farm-related and rural small businesses, and required, not later than Jan. 6, 1990, Comptroller General to transmit to Congress a report on the studies, including therein such recommendations for administrative action and legislation as might be appropriate.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2219d, 2279aa–6, 2279aa–11 of this title.
 

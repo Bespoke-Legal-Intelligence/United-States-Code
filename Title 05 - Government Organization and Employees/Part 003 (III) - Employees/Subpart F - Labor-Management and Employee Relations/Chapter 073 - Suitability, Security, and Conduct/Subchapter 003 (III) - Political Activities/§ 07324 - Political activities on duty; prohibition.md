@@ -28,7 +28,3 @@
 
 A prior section 7324, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525; Pub. L. 93–268, §4(a), Apr. 17, 1974, 88 Stat. 87, prohibited Executive agency employees and employees of the District of Columbia from influencing elections or taking part in political campaigns, prior to the general revision of this subchapter by Pub. L. 103–94.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7326 of this title; title 18 sections 602, 603; title 42 section 2000e–4; title 50 App. section 463.
-

@@ -8,7 +8,7 @@
 
 (3) Any commissioned officer of the Service who has had less than thirty years of active service may be retired by the Secretary, with or without application by the officer, on the first day of any month after completion of twenty or more years of active service of which not less than ten are years of active commissioned service in any of the uniformed services.
 
-(4) Except as provided in paragraph (6), a commissioned officer retired pursuant to paragraph (1), (2), or (3) who was (in the case of an officer in the Reserve Corps) on active duty with the Service on the day preceding such retirement shall be entitled to receive retired pay at the rate of 21/2 per centum of the basic pay of the highest grade held by him as such officer and in which, in the case of a temporary promotion tosuch grade, he has performed active duty for not less than six months, (A) for each year of active service, or (B) if it results in higher retired pay, for each of the following years:
+(4) Except as provided in paragraph (6), a commissioned officer retired pursuant to paragraph (1), (2), or (3) who was (in the case of an officer in the Reserve Corps) on active duty with the Service on the day preceding such retirement shall be entitled to receive retired pay at the rate of 21/2 per centum of the basic pay of the highest grade held by him as such officer and in which, in the case of a temporary promotion to such grade, he has performed active duty for not less than six months, (A) for each year of active service, or (B) if it results in higher retired pay, for each of the following years:
 
 &emsp;(i) his years of active service (determined without regard to subsection (d) of this section) as a member of a uniformed service; plus
 
@@ -16,7 +16,7 @@
 
 &emsp;(iii) the number of years of service with which he was entitled to be credited for purposes of basic pay on May 31, 1958, or (if higher) on any date prior thereto, reduced by any such year included under clause (i) and further reduced by any such year with which he was entitled to be credited under paragraphs (7) and (8) of section 205(a) of title 37 on any date before June 1, 1958;
 
-> except that (C) in the case of any officer whose retired pay, so computed, is less than 50 per centum of such basic pay, who retires pursuant to paragraph (1) of this subsection, who has not less than twelve whole years of active service (computed without the application of subsection (e) of this section), and who does not use, for purposes of a retirement annuity under subchapter III of chapter 83 of title 5, any service which is also creditable in computing his retired pay from the Service, it shall, instead, be 50 per centum of such pay, and (D) the retired pay of an officer shall in no case be more than 75 per centum of such basic pay.
+> except that (C) in the case of any officer whose retired pay, so computed, is less than 50 per centum of such basic pay, who retires pursuant to paragraph (1) of this subsection, who has not less than twelve whole years of active service\(computed without the application of subsection (e) of this section), and who does not use, for purposes of a retirement annuity under subchapter III of chapter 83 of title 5, any service which is also creditable in computing his retired pay from the Service, it shall, instead, be 50 per centum of such pay, and (D) the retired pay of an officer shall in no case be more than 75 per centum of such basic pay.
 
 (5) With the approval of the President, a commissioned officer whose service as Surgeon General, Deputy Surgeon General, or Assistant Surgeon General has totaled four years or more and who has had not less than twenty-five years of active service in the Service may retire voluntarily at any time; and except as provided in paragraph (6), his retired pay shall be at the rate of 75 per centum of the basic pay of the highest grade held by him as such officer.
 
@@ -56,7 +56,7 @@ For the purpose of determining the number of years by which a percentage of the 
 
 For purposes of retirement or separation for physical disability under chapter 61 of title 10, a commissioned officer of the Service shall be credited, in addition to the service described in section 1208(a)(2) of that title, with active service with the Public Health Service, other than as a commissioned officer, which the Surgeon General determines is comparable to service performed by commissioned officers of the Service, except that, if there are more than five years of such service, only the last five years thereof may be so credited. For such purposes, such section 1208(a)(2) shall be applicable to officers of the Regular or Reserve Corps of the Service.
 
-(July 1, 1944, ch. 373, title II, §211, 58 Stat. 688; Feb. 28, 1948, ch. 83, §7, 62 Stat. 46; Oct. 12, 1949, ch. 681, title V, §521(d), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §5(a)–(c), 70Stat. 117; Aug. 10, 1956, ch. 1041, §5, 70A Stat. 620; Pub. L. 86–415, §4, Apr. 8, 1960, 74 Stat. 33; Pub. L. 91–253, §1, May 14, 1970, 84 Stat. 216; Pub. L. 96–76, title III, §308, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–342, title VIII, §813(h)(2), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 97–25, title III, §303(b), July 27, 1981, 95 Stat. 145; Pub. L. 97–35, title XXVII, §2765(a), Aug. 13, 1981, 95 Stat. 932; Pub. L. 98–94, title IX, §§922(d), 923(f), Sept. 24, 1983, 97 Stat. 642, 643; Pub. L. 99–348, title II, §207(b), July 1, 1986, 100 Stat. 702; Pub. L. 101–509, title V, §529 \[title III, §304(b)\], Nov. 5, 1990, 104 Stat. 1427, 1464.)
+(July 1, 1944, ch. 373, title II, §211, 58 Stat. 688; Feb. 28, 1948, ch. 83, §7, 62 Stat. 46; Oct. 12, 1949, ch. 681, title V, §521(d), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §5(a)–(c), 70 Stat. 117; Aug. 10, 1956, ch. 1041, §5, 70A Stat. 620; Pub. L. 86–415, §4, Apr. 8, 1960, 74 Stat. 33; Pub. L. 91–253, §1, May 14, 1970, 84 Stat. 216; Pub. L. 96–76, title III, §308, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–342, title VIII, §813(h)(2), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 97–25, title III, §303(b), July 27, 1981, 95 Stat. 145; Pub. L. 97–35, title XXVII, §2765(a), Aug. 13, 1981, 95 Stat. 932; Pub. L. 98–94, title IX, §§922(d), 923(f), Sept. 24, 1983, 97 Stat. 642, 643; Pub. L. 99–348, title II, §207(b), July 1, 1986, 100 Stat. 702; Pub. L. 101–509, title V, §529 \[title III, §304(b)\], Nov. 5, 1990, 104 Stat. 1427, 1464.)
 
 #### Codification
 
@@ -134,7 +134,7 @@ Section 2 of Pub. L. 91–253 provided that: “The amendments made by this Act 
 
 #### Effective Date of 1960 Amendment
 
-Section 8(b) of Pub. L. 86–415 provided that: “The amendment made by section 4 \[amending this section\]shall become effective on the date of enactment of this Act \[Apr. 8, 1960\] in the case of commissioned officers of the Regular Corps of the Public Health Service, and on July 1, 1960, in the case of commissioned officers of the Reserve Corps of the Public Health Service.”
+Section 8(b) of Pub. L. 86–415 provided that: “The amendment made by section 4 \[amending this section\] shall become effective on the date of enactment of this Act \[Apr. 8, 1960\] in the case of commissioned officers of the Regular Corps of the Public Health Service, and on July 1, 1960, in the case of commissioned officers of the Reserve Corps of the Public Health Service.”
 
 #### Effective Date of 1949 Amendment
 
@@ -150,7 +150,7 @@ Section 8(c), (d) of Pub. L. 86–415 provided that:
 
 #### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of allagencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 
@@ -161,8 +161,4 @@ Functions of President delegated to Secretary of Health and Human Services, see 
 #### Coverage Under Civil Service Retirement Act
 
 Creditable service for purposes of the Civil Service Retirement Act for certain commissioned officers of the Regular or Reserve Corps of the Public Health Service, see section 6(a), (b) of Pub. L. 86–415, set out as a note under section 8332 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 209, 210 of this title; title 10 section 1406.
 

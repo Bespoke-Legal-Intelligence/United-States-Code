@@ -114,7 +114,3 @@ In subsection (e), the words “the boundaries of” and “and from time to tim
 
 The Act of June 20, 1938, referred to in subsec. (d), is act June 20, 1938, ch. 534, 52 Stat. 797, as amended. While the Act was not classified to the Code, section 16 of the Act was repealed and reenacted as subsec. (d) of this section by Pub. L. 107–217, §§1, 6, Aug. 21, 2002, 116 Stat. 1062, 1304. See Historical and Revision Notes above.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6715 of this title; title 49 section 49111.
-

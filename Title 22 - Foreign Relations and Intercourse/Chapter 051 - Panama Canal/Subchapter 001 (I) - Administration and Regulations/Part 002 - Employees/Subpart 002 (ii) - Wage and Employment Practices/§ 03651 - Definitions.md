@@ -20,7 +20,3 @@ As used in this subpart—
 
 Pub. L. 104–201, §3529, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “an Executive agency or the Smithsonian Institution, to the extent of any election in effect under section 3652(b)(2) of this title;”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3657a of this title.
-

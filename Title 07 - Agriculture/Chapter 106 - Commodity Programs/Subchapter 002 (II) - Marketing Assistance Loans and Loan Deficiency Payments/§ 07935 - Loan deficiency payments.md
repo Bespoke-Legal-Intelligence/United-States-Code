@@ -66,7 +66,3 @@ The Secretary shall determine the amount of the loan deficiency payment to be ma
 
 Section is comprised of section 1205 of Pub. L. 107–171. Subsec. (f)(2) of section 1205 of Pub. L. 107–171 amended section 7235 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7936 of this title.
-

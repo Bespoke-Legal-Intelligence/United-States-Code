@@ -32,7 +32,7 @@ If any provision of this subchapter, or the application of such provision to any
 
 #### References in Text
 
-The Revenue Act of 1918, referred to in subsec. (a)(6), is act Feb. 24, 1919, ch. 18, 40 Stat. 1057. Sections 610 and 617 of the Revenue Act of 1918, relating to the definition of “wine”, were originally classified to sections 441 and 444 of former Title 26, and were thereafter included assections 3036, 3044 and 3045 of the Internal Revenue Code of 1939. Provisions of the Internal Revenue Code of 1986 relating to the definition and classification of wine appear in sections 5373(a), 5381 to 5388, and 5392 of Title 26, Internal Revenue Code.
+The Revenue Act of 1918, referred to in subsec. (a)(6), is act Feb. 24, 1919, ch. 18, 40 Stat. 1057. Sections 610 and 617 of the Revenue Act of 1918, relating to the definition of “wine”, were originally classified to sections 441 and 444 of former Title 26, and were thereafter included as sections 3036, 3044 and 3045 of the Internal Revenue Code of 1939. Provisions of the Internal Revenue Code of 1986 relating to the definition and classification of wine appear in sections 5373(a), 5381 to 5388, and 5392 of Title 26, Internal Revenue Code.
 
 #### Codification
 
@@ -45,8 +45,4 @@ As originally enacted subsection (a)(1) of this section defined the term “Admi
 #### Admission of Alaska and Hawaii to Statehood
 
 Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 5392.
 

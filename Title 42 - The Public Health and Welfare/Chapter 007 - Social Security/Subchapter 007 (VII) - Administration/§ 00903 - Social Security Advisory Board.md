@@ -70,9 +70,9 @@ Each member of the Board shall serve for a term of 6 years, except that—
 
 A member of the Board shall be designated by the President to serve as Chairman for a term of 4 years, coincident with the term of the President, or until the designation of a successor.
 
-#### (f) Expenses and per diem
+#### (f) Compensation, expenses, and per diem
 
-Members of the Board shall serve without compensation, except that, while serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently.
+A member of the Board shall, for each day (including traveltime) during which the member is attending meetings or conferences of the Board or otherwise engaged in the business of the Board, be compensated at the daily rate of basic pay for level IV of the Executive Schedule. While serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently.
 
 #### (g) Meetings
 
@@ -92,15 +92,19 @@ The Board shall, without regard to the provisions of title 5 relating to the com
 
 There are authorized to be appropriated, out of the Federal Disability Insurance Trust Fund, the Federal Old-Age and Survivors Insurance Trust Fund, and the general fund of the Treasury, such sums as are necessary to carry out the purposes of this section.
 
-(Aug. 14, 1935, ch. 531, title VII, §703, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(<i>l</i>)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 103–296, title I, §103, Aug. 15, 1994, 108 Stat. 1467; Pub. L. 104–121, title I, §108, Mar. 29, 1996, 110 Stat. 857; Pub. L. 105–33, title V, §5526, Aug. 5, 1997, 111 Stat. 625; Pub. L. 106–169, title II, §251(b)(4), Dec. 14, 1999, 113 Stat. 1855.)
+(Aug. 14, 1935, ch. 531, title VII, §703, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(<i>l</i>)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 103–296, title I, §103, Aug. 15, 1994, 108 Stat. 1467; Pub. L. 104–121, title I, §108, Mar. 29, 1996, 110 Stat. 857; Pub. L. 105–33, title V, §5526, Aug. 5, 1997, 111 Stat. 625; Pub. L. 106–169, title II, §251(b)(4), Dec. 14, 1999, 113 Stat. 1855; Pub. L. 108–203, title IV, §417(a), Mar. 2, 2004, 118 Stat. 530.)
 
 #### References In Text
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Level IV of the Executive Schedule, referred to in subsec. (f), is set out under section 5315 of Title 5, Government Organization and Employees.
+
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The provisions of title 5 relating to the competitive service, referred to in subsec. (i), are classified generally to section 3301 et seq. of Title 5.
 
 #### Amendments
+
+2004—Subsec. (f). Pub. L. 108–203 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Members of the Board shall serve without compensation, except that, while serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently.”
 
 1999—Subsec. (b). Pub. L. 106–169 substituted “subchapter II of this chapter, the program of special benefits for certain World War II veterans under title VIII of this chapter,” for “subchapter II of this chapter” in introductory provisions.
 
@@ -113,6 +117,10 @@ The provisions of title 5 relating to the competitive service, referred to in su
 1984—Pub. L. 98–369 substituted “Secretary” for “Administrator”.
 
 1950—Act Aug. 28, 1950, substituted “Administrator” for “Board” and “his” for “its”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–203, title IV, §417(b), Mar. 2, 2004, 118 Stat. 531, provided that: “The amendment made by this section \[amending this section\] shall be effective as of January 1, 2003.”
 
 #### Effective Date of 1997 Amendment
 

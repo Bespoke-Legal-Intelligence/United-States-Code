@@ -34,7 +34,3 @@ In subsection (b), the words “section 1301(a) of title 31” are substituted f
 
 In subsection (c), the words “and methods” are added for consistency with section 501(b)(2) of the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 322 of this title; title 28 section 612; title 50 section 491.
-

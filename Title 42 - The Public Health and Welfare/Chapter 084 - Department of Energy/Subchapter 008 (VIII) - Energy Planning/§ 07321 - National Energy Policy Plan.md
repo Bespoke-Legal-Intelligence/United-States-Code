@@ -44,7 +44,3 @@ The President shall insure that consumers, small businesses, and a wide range of
 
 (Pub. L. 95–91, title VIII, §801, Aug. 4, 1977, 91 Stat. 610.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12006, 13382, 13522 of this title.
-

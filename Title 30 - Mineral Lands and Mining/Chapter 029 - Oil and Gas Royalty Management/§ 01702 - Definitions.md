@@ -90,7 +90,7 @@ For the purposes of this chapter, the term—
 
 &emsp;&emsp;&emsp;&emsp;(IV) any assessment,
 
-&emsp;&emsp;&nbsp;which arises from or relates to any lease administered by the Secretary for, or anymineral leasing law related to, the exploration, production and development of oil or gas on Federal lands or the Outer Continental Shelf;
+&emsp;&emsp;&nbsp;which arises from or relates to any lease administered by the Secretary for, or any mineral leasing law related to, the exploration, production and development of oil or gas on Federal lands or the Outer Continental Shelf;
 
 &emsp;(26) “order to pay” means a written order issued by the Secretary or the applicable delegated State to a lessee or its designee (with notice to the lessee who designated the designee) which—
 

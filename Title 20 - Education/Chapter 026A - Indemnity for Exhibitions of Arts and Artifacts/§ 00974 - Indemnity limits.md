@@ -22,7 +22,7 @@ If the estimated value of the items covered by an indemnity agreement for a sing
 
 &emsp;(3) not less than $10,000,000 but less than $125,000,000, then coverage under this chapter shall extend to loss or damage in excess of the first $50,000 of loss or damage to items covered;
 
-&emsp;(4) not less than $125,000,000 but less than $200,000,<sup>1</sup> then coverage under this chaptershall extend to loss or damage in excess of the first $100,000 of loss or damage to items covered;
+&emsp;(4) not less than $125,000,000 but less than $200,000,<sup>1</sup> then coverage under this chapter shall extend to loss or damage in excess of the first $100,000 of loss or damage to items covered;
 
 &emsp;(5) not less than $200,000,000 but less than $300,000,000, then coverage under the <sup>2</sup> chapter shall extend only to loss or damage in excess of the first $200,000, of loss or damage to items covered;
 
@@ -32,7 +32,7 @@ If the estimated value of the items covered by an indemnity agreement for a sing
 
 &emsp;(8) $500,000,000 or more, then coverage under this chapter shall extend only to loss or damage in excess of the first $500,000 of loss or damage to items covered.
 
-(Pub. L. 94–158, §5, Dec. 20, 1975, 89 Stat. 845; Pub. L. 96–496, title III, §§301, 302, Dec. 4, 1980, 94 Stat. 2593; Pub. L. 99–194, title III, §303, Dec. 20, 1985, 99 Stat. 1345; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–249; Pub. L. 101–512, title III, §318 \[title III, §301\], Nov. 5, 1990, 104 Stat. 1960, 1976; Pub. L. 105–277, div. A, §101(e) \[title III, §333\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–294; Pub. L. 108–81, title V, §501, Sept. 25, 2003, 117 Stat. 1003.)
+(Pub. L. 94–158, §5, Dec. 20, 1975, 89 Stat. 845; Pub. L. 96–496, title III, §§301, 302, Dec. 4, 1980, 94 Stat. 2593; Pub. L. 99–194, title III, §303, Dec. 20, 1985, 99 Stat. 1345; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–249; Pub. L. 101–512, title III, §318 \[title III, §301\], Nov. 5, 1990, 104 Stat. 1960, 1976; Pub. L. 105–277, div. A, §101(e) \[title III, §333\], Oct. 21, 1998, 112Stat. 2681–231, 2681–294; Pub. L. 108–81, title V, §501, Sept. 25, 2003, 117 Stat. 1003.)
 
 #### Amendments
 
@@ -75,10 +75,6 @@ Subsec. (d). Pub. L. 96–496, §302, substituted provisions relating to deducti
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title IV, §403(b)\] of Pub. L. 101–512, set out as a note under section 951 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 975 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “$200,000,000,”.</i>
 

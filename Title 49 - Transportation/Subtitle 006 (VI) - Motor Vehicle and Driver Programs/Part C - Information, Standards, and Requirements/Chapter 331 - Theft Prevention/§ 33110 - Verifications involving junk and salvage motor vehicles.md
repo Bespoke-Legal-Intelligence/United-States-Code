@@ -52,15 +52,11 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §607; added Oct. 25, 1992, Pub. 
 
 In subsection (b)(1)(B), the words “or derivative thereof” are omitted as unnecessary because of the definition of “vehicle identification number” in subsection (a) of the revised section.
 
-In subsection (b)(2)(A)(i), the words “has not been informed under the procedures prescribed” are substituted for “has not received a determination under” for clarity and consistency in the revised chapter. In clause (ii), the words “has not otherwise established whether” are substituted for “to otherwise determine whether” for clarity.
+In subsection (b)(2)(A)(i), the words “has not been informed under the procedures prescribed” are substituted for “has not received a determination under”for clarity and consistency in the revised chapter. In clause (ii), the words “has not otherwise established whether” are substituted for “to otherwise determine whether” for clarity.
 
 In subsection (b)(2)(B), the words “When a carrier transfers a motor vehicle for which the carrier has not established whether the vehicle has been reported as stolen, the carrier shall provide written certification to the transferee that the carrier has not established whether the vehicle has been reported as stolen” are substituted for “except that such carrier shall provide a written certification of such lack of determination” for clarity and because of the restatement.
 
 #### Effective Date
 
 Section 4(u) of Pub. L. 103–272 provided that: “Not later than April 25, 1993, the Attorney General shall prescribe the regulations required under section 33110(c) of title 49, United States Code, as enacted by section 1 of this Act. Section 33110(b) of title 49 is effective not later than 3 months after those regulations are prescribed but not before the date on which the National Stolen Passenger Motor Vehicle Information System established under section 33109 of title 49 is operational.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30504, 33109, 33111 of this title.
 

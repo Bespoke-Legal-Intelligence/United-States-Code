@@ -20,7 +20,7 @@ Each specially qualified agency that receives a grant under this subpart shall p
 
 #### (c) Report to Congress
 
-The Secretary shall prepare and submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a biennial report. The report shall describe—
+The Secretary shall prepare and submit to the Committee on Education and the Workforce ofthe House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a biennial report. The report shall describe—
 
 &emsp;(1) the methods the State educational agencies used to award grants to eligible local educational agencies, and to provide assistance to schools, under this subpart;
 

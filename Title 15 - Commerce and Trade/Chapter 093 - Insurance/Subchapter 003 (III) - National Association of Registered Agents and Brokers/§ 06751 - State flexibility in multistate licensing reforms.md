@@ -28,7 +28,7 @@ States shall be deemed to have established the reciprocity required to satisfy s
 
 #### (1) Administrative licensing procedures
 
-&emsp;At least a majority of the States permit a producer that has a resident license for selling or soliciting the purchase of insurance in its home State to receive a license to sell or solicit the purchase of insurance in such majority of States as a nonresident to the same extent that such producer is permitted to sell or solicit the purchase of insurance in its State, if the producer's home State also awards such licenses on such a reciprocal basis, without satisfying any additional requirements other than submitting—
+&emsp;At least a majority of the States permit a producer that has a resident license for selling or soliciting the purchase of insurance in its home State to receive a license to sell or solicit the purchase of insurance in such majority of States as a nonresident to the same extent that such producer is permitted to sell or solicit the purchase of insurance in its State, if the producer's home State also awards such licenses on such a reciprocal basis, withoutsatisfying any additional requirements other than submitting—
 
 &emsp;&emsp;(A) a request for licensure;
 
@@ -73,8 +73,4 @@ No provision of this section shall be construed as requiring that any law, regul
 Nothing in this section shall be construed to require any State to adopt new or additional licensing requirements to achieve the uniformity necessary to satisfy subsection (a)(1) of this section.
 
 (Pub. L. 106–102, title III, §321, Nov. 12, 1999, 113 Stat. 1422.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6762 of this title.
 

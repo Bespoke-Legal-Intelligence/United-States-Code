@@ -36,7 +36,3 @@
 
 (Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 27.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1204, 1212, 1216, 1219, 1221, 2105, 2302, 3393, 7121, 7502, 7512, 7521, 7542 of this title; title 49 section 40122.
-

@@ -72,7 +72,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 &emsp;(C) Preparation of environmental health assessments for each of the hazardous air pollutants referred to in subparagraph (B), beginning 6 months after the first meeting of the Interagency Task Force and to be completed within 96 months thereafter. No fewer than 24 assessments shall be completed and published annually. The assessments shall be prepared in accordance with guidelines developed by the Administrator in consultation with the Interagency Task Force and the Science Advisory Board of the Environmental Protection Agency. Each such assessment shall include—
 
-&emsp;&emsp;(i) an examination, summary, and evaluation of available toxicological and epidemiological information for the pollutant to ascertain the levels of human exposure which pose a significant threat to human health and the associated acute, subacute, and chronic adverse health effects;
+&emsp;&emsp;(i) an examination, summary, and evaluation of available toxicological and epidemiological information for the pollutant to ascertain the levels of human exposure whichpose a significant threat to human health and the associated acute, subacute, and chronic adverse health effects;
 
 &emsp;&emsp;(ii) a determination of gaps in available information related to human health effects and exposure levels; and
 
@@ -130,7 +130,7 @@ In carrying out subsection (a) of this section, the Administrator, in cooperatio
 
 In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interest groups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
 
-&emsp;(1) Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, including end-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
+&emsp;(1) Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, includingend-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
 
 &emsp;(2) Improvements in nonregulatory strategies and technologies for reducing air emissions from area sources.
 
@@ -182,7 +182,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 &emsp;(C) Publication and maintenance of a National Acid Lakes Registry that tracks the condition and change over time of a statistically representative sample of lakes in regions that are known to be sensitive to surface water acidification.
 
-&emsp;(D) Submission every two years of a unified budget recommendation to the President foractivities of the Federal Government in connection with the research program described in this subsection.
+&emsp;(D) Submission every two years of a unified budget recommendation to the President for activities of the Federal Government in connection with the research program described in this subsection.
 
 &emsp;(E) Beginning in 1992 and biennially thereafter, submission of a report to Congress describing the results of its investigations and analyses. The reporting of technical information about acid deposition shall be provided in a format that facilitates communication with policymakers and the public. The report shall include—
 
@@ -238,7 +238,7 @@ Subsecs. (g) to (k). Pub. L. 101–549, §901(c), added subsecs. (g) to (k).
 
 1977—Subsec. (a). Pub. L. 95–95, §101(b), struck out reference to “training” in par. (1) and added par. (5).
 
-Subsec. (b). Pub. L. 95–95, §101(a), struck out par. (5) which provided for training and training grants to personnel of air pollution control agencies and other persons with suitable qualifications, redesignated pars. (6), (7), and (8) as (5), (6), and (7), respectively, and, following par. (7) as so redesignated, inserted provisions directing the Administrator, in carrying out subsec. (a),to provide training for, and make training grants to, personnel of air pollution control agencies and other persons with suitable qualifications and to make grants to such agencies, to other public or nonprofit private agencies, institutions, and organizations for the purposes stated in subsec. (a)(5) and allowing reasonable fees to be charged for such training provided to persons other than personnel of air pollution control agencies but requiring that such training be provided to such personnel of air pollution control agencies without charge.
+Subsec. (b). Pub. L. 95–95, §101(a), struck out par. (5) which provided for training and training grants to personnel of air pollution control agencies and other persons with suitable qualifications, redesignated pars. (6), (7), and (8) as (5), (6), and (7), respectively, and, following par. (7) as so redesignated, inserted provisions directing the Administrator, in carrying out subsec. (a), to provide training for, and make training grants to, personnel of air pollution control agencies and other persons with suitable qualifications and to make grants to such agencies, to other public or nonprofit privateagencies, institutions, and organizations for the purposes stated in subsec. (a)(5) and allowing reasonable fees to be charged for such training provided to persons other than personnel of air pollution control agencies but requiring that such training be provided to such personnel of air pollution control agencies without charge.
 
 1970—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary”.
 
@@ -308,7 +308,7 @@ Pub. L. 106–246, div. B, title II, §2603, July 13, 2000, 114 Stat. 558, provi
 
 #### National Acid Lakes Registry
 
-Section 405 of Pub. L. 101–549 provided that: “The Administrator of the Environmental Protection Agency shall create a National Acid Lakes Registry that shall list, to the extent practical, all lakes that are known to be acidified due to acid deposition, and shall publish such list within one year of the enactment of this Act \[Nov. 15, 1990\]. Lakes shall be added to the registry as they become acidic or as data becomes available to show they are acidic. Lakes shall be deleted from the registry as they become nonacidic.”
+Section 405 of Pub. L. 101–549 provided that: “The Administrator of the Environmental Protection Agencyshall create a National Acid Lakes Registry that shall list, to the extent practical, all lakes that are known to be acidified due to acid deposition, and shall publish such list within one year of the enactment of this Act \[Nov. 15, 1990\]. Lakes shall be added to the registry as they become acidic or as data becomes available to show they are acidic. Lakes shall be deleted from the registry as they become nonacidic.”
 
 #### Assessment of International Air Pollution Control Technologies
 
@@ -335,10 +335,6 @@ Section 101(c) of Pub. L. 95–95 provided that: “The Administrator of the Env
 #### Study of Substances Discharged From Exhausts of Motor Vehicles
 
 Pub. L. 86–493, June 8, 1960, 74 Stat. 162, directed Surgeon General of Public Health Service to conduct a thorough study for purposes of determining, with respect to the various substances discharged from exhausts of motor vehicles, the amounts and kinds of such substances which, from the standpoint of human health, it is safe for motor vehicles to discharge into the atmosphere under the various conditions under which such vehicles may operate, and, not later than two years after June 8, 1960, submit to Congress a report on results of the study, together with such recommendations, if any, based upon the findings made in such study, as he deemed necessary for the protection of the public health.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7412 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “precursors,”.</i>
 

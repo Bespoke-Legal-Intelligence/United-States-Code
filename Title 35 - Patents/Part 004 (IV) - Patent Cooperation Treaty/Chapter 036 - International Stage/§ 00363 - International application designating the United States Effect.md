@@ -12,7 +12,3 @@ An international application designating the United States shall have the effect
 
 Amendment by Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under section 351 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 119, 120 of this title.
-

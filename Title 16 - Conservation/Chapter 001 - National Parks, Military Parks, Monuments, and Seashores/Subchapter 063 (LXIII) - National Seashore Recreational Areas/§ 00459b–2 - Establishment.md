@@ -10,7 +10,3 @@ Such notice referred to in subsection (a) of this section shall contain a detail
 
 (Pub. L. 87–126, §3, Aug. 7, 1961, 75 Stat. 288.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459b–1, 459b–3 to 459b–8 of this title.
-

@@ -22,9 +22,5 @@ The map of the historical park shall be on file and available for public inspect
 
 (Pub. L. 105–342, §4, Nov. 2, 1998, 112 Stat. 3201.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410eee–1 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(b)(1)”.</i>
 

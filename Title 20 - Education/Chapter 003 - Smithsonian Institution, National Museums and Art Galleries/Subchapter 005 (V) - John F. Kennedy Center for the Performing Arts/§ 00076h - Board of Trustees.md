@@ -92,6 +92,10 @@ Superintendent of schools of the district of columbia.—The amendment made by p
 
 Members of congress.—The amendment made by paragraph (1)(C)(ii) \[amending this section\] shall take effect on the date of enactment of this Act.”
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–410, §1, Oct. 30, 2004, 118 Stat. 2303, provided that: “This Act \[amending sections 76q–1 and 76r of this title\] may be cited as the ‘John F. Kennedy Center Reauthorization Act of 2004’.”
+
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–224, §1, Sept. 18, 2002, 116 Stat. 1340, provided that: “This Act \[enacting section 76q–1 of this title and amending sections 76j, 76r, and 76s of this title\] may be cited as the ‘John F. Kennedy Center Plaza Authorization Act of 2002’.”

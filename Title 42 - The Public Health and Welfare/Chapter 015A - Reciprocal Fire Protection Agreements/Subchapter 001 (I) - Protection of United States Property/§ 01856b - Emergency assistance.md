@@ -4,7 +4,3 @@ In the absence of any agreement authorized or ratified by section 1856a of this 
 
 (May 27, 1955, ch. 105, §3, 69 Stat. 67.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1856c of this title.
-

@@ -70,7 +70,7 @@ Section is comprised of section 312 of Pub. L. 103–283. Subsec. (f) of section
 
 #### Amendments
 
-<b>1995</b>—Subsec. (e). Pub. L. 104–1 struck out subsec. (e) which related to processing of discrimination complaints.
+1995—Subsec. (e). Pub. L. 104–1 struck out subsec. (e) which related to processing of discrimination complaints.
 
 #### Savings Provision
 
@@ -109,8 +109,4 @@ Pub. L. 107–68, title I, §133(a), Nov. 12, 2001, 115 Stat. 581, as amended by
 #### Treatment of Separated Employees of Architect of Capitol
 
 Pub. L. 105–55, title III, §310, Oct. 7, 1997, 111 Stat. 1199, as amended by Pub. L. 105–275, title III, §308(b)–(d), Oct. 21, 1998, 112 Stat. 2452, 2453; Pub. L. 106–57, title III, §308, Sept. 29, 1999, 113 Stat. 427, provided early retirement benefits, voluntary separation incentive payments, competitive service treatment, and retraining, job placement, and counseling services to certain employees of the Office of the Architect of the Capitol.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1435 of this title; title 31 sections 753, 755.
 

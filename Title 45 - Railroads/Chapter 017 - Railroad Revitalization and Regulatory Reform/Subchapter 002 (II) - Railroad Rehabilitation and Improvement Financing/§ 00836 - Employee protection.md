@@ -12,7 +12,7 @@ The arrangements required by subsection (a) of this section shall apply to each 
 
 &emsp;(2) to provide for final and binding arbitration of any dispute which cannot be settled by the parties, with respect to the interpretation, application, or enforcement of the provisions of the protective arrangements;
 
-&emsp;(3) to provide that an employee who is unable to secure employment by the exercise ofhis or her seniority rights, as a result of actions taken with financial assistance obtained under this subchapter, shall be offered reassignment and, where necessary, retraining to fill a position comparable to the position held at the time of such adverse effect and for which he is, or by training and retraining can become, physically and mentally qualified, so long as such offer is not in contravention of collective bargaining agreements relating thereto; and
+&emsp;(3) to provide that an employee who is unable to secure employment by the exercise of his or her seniority rights, as a result of actions taken with financial assistance obtained under this subchapter, shall be offered reassignment and, where necessary, retraining to fill a position comparable to the position held at the time of such adverse effect and for which he is, or by training and retraining can become, physically and mentally qualified, so long as such offer is not in contravention of collective bargaining agreements relating thereto; and
 
 &emsp;(4) to provide that the protection afforded pursuant to this section shall not be applicable to employees benefited solely as a result of the work which is financed by funds provided pursuant to this subchapter.
 
@@ -29,8 +29,4 @@ The Regional Rail Reorganization Act of 1973, referred to in subsec. (a), is Pub
 #### Prior Provisions
 
 A prior section 504 of Pub. L. 94–210 was classified to section 824 of this title prior to repeal by Pub. L. 105–178.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 914, 1003 of this title.
 

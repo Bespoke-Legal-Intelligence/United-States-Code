@@ -52,7 +52,3 @@ The Secretary shall deposit any civil money penalties collected under this secti
 
 (Pub. L. 102–550, title XIII, §1345, Oct. 28, 1992, 106 Stat. 3966.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4582, 4583, 4584 of this title.
-

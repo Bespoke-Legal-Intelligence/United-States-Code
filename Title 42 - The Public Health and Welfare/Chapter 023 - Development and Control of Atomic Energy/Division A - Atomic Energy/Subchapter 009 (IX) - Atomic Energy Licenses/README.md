@@ -1,9 +1,5 @@
 ### SUBCHAPTER IX—ATOMIC ENERGY LICENSES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2014, 5842 of this title.
-
 
 ---
 

@@ -14,7 +14,7 @@ Subject to the provisions of this section and other applicable law, the Director
 
 &emsp;(5) review the Plan not less than annually, and revise the Plan as appropriate; and
 
-&emsp;(6) ensure that the Plan serves as a broad, binding statement of policies regarding AIDS activities of the agencies, but does not remove the responsibility of the heads of the agenciesfor the approval of specific programs or projects, or for other details of the daily administration of such activities, in accordance with the Plan.
+&emsp;(6) ensure that the Plan serves as a broad, binding statement of policies regarding AIDS activities of the agencies, but does not remove the responsibility of the heads of the agencies for the approval of specific programs or projects, or for other details of the daily administration of such activities, in accordance with the Plan.
 
 #### (b) Certain components of Plan
 
@@ -68,13 +68,9 @@ With respect to AIDS activities of the agencies of the National Institutes of He
 
 #### (3) Allocations for agencies
 
-&emsp;(A) Each fiscal year the Director of the Office shall, from the amounts received under paragraph (2) for the fiscal year, allocate to the agencies of the National Institutes of Health (in accordance with the Plan) all amounts available for such year for carrying out the AIDS activities specified in subsection (c)(2)(B)(ii)(I) of this section for such year. Such allocation shall, to the extent practicable, be made not later than 15 days after the date on which the Director receives amounts under paragraph (2).
+&emsp;(A) Each fiscal year the Director of the Office shall, from the amounts received under paragraph (2) for the fiscal year, allocate to the agencies of the National Institutes of Health (in accordance with the Plan) all amounts available for such year for carrying out the AIDS activities specified in subsection (c)(2)(B)(ii)(I) of this section for such year. Such allocation shall, to the extent practicable, be made not later than 15 days afterthe date on which the Director receives amounts under paragraph (2).
 
 &emsp;(B) Each fiscal year the Director of the Office shall, from the amounts received under paragraph (2) for the fiscal year, allocate to the agencies of the National Institutes of Health (in accordance with the Plan) all amounts available for such year for carrying out AIDS activities that are not referred to in subparagraph (A). Such allocation shall, to the extent practicable, be made not later than 30 days after the date on which the Director receives amounts under paragraph (2).
 
 (July 1, 1944, ch. 373, title XXIII, §2353, as added Pub. L. 103–43, title XVIII, §1801(a)(3), June 10, 1993, 107 Stat. 194.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 284, 300cc–40, 300cc–40a, 300cc–45 of this title.
 

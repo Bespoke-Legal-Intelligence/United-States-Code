@@ -38,7 +38,3 @@ Section 831 of this title, referred to in subsec. (a), was repealed by Pub. L. 1
 
 Amendment by Pub. L. 96–448 effective Oct. 14, 1980, see section 710(d) of Pub. L. 96–448, set out as a note under section 1170 of Title 11, Bankruptcy.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 908 of this title.
-

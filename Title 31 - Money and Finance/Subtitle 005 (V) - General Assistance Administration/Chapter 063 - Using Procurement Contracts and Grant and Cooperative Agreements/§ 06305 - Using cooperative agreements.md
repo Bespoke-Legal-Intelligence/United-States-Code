@@ -2,7 +2,7 @@
 
 An executive agency shall use a cooperative agreement as the legal instrument reflecting a relationship between the United States Government and a State, a local government, or other recipient when—
 
-&emsp;(1) the principal purpose of the relationship is to transfer a thing of value to the State,local government, or other recipient to carry out a public purpose of support or stimulation authorized by a law of the United States instead of acquiring (by purchase, lease, or barter) property or services for the direct benefit or use of the United States Government; and
+&emsp;(1) the principal purpose of the relationship is to transfer a thing of value to the State, local government, or other recipient to carry out a public purpose of support or stimulation authorized by a law of the United States instead of acquiring (by purchase, lease, or barter) property or services for the direct benefit or use of the United States Government; and
 
 &emsp;(2) substantial involvement is expected between the executive agency and the State, local government, or other recipient when carrying out the activity contemplated in the agreement.
 
@@ -35,8 +35,4 @@ Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1018, provided that: “No
 #### Bureau of Land Management; Authorization To Use Cooperative Arrangements To Implement Challenge Cost-Share Programs
 
 Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1918, provided in part that: “the Bureau \[of Land Management\] is authorized hereafter to negotiate and enter into cooperative arrangements with public and private agencies, organizations, institutions, and individuals, to implement challenge cost-share programs.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 3710a; title 16 section 1g; title 30 section 1901; title 43 section 373d.
 

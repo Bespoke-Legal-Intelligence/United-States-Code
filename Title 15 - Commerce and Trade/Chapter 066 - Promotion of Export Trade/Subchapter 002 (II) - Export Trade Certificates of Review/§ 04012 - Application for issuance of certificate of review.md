@@ -26,7 +26,3 @@ To apply for a certificate of review, a person shall submit to the Secretary a w
 
 Section effective 90 days after effective date of rules and regulations first promulgated under section 4020 of this title, see section 312(b) of Pub. L. 97–290 set out as a note under section 4011 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4013, 4018 of this title.
-

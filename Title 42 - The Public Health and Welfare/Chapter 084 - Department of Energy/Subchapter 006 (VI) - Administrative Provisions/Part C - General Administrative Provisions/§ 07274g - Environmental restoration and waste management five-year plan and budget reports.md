@@ -8,7 +8,7 @@
 
 (3) At the same time the Secretary issues an annual five-year plan under paragraph (1), the Secretary shall submit the plan to the President and Congress, publish a notice of the issuance of the plan in the Federal Register, and make the plan available to the Governors and Attorneys General of affected States, appropriate representatives of affected Indian tribes, and the public.
 
-(4) The annual five-year plan, and the actions and other matters contained in the plan, shall be in accordance with all laws, regulations, permits, orders, and agreements. The plan shall include, with respect to the Department of Energy facilities required by paragraph (1) to be covered by the plan, the following matters:
+(4) The annual five-year plan, and the actions and other matters contained in the plan, shallbe in accordance with all laws, regulations, permits, orders, and agreements. The plan shall include, with respect to the Department of Energy facilities required by paragraph (1) to be covered by the plan, the following matters:
 
 &emsp;(A) A description of the actions, including identification of specific projects, necessary to maintain or achieve compliance with Federal, State, or local environmental laws, regulations, permits, orders, and agreements.
 
@@ -70,7 +70,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 Subsec. (a)(4). Pub. L. 103–337, §3160(a)(2), substituted “The plan shall include, with respect to the Department of Energy facilities required by paragraph (1) to be covered by the plan, the following matters:” for “The plan shall contain the following matters:” in introductory provisions.
 
-Subsec. (a)(6), (7). Pub. L. 103–337, §3160(a)(3), (4), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Secretary shall include in the annual five-year plan issued in 1992 a discussion of the feasibility and need, if any, for the establishment of a contingency fund in the Department of Energy to provide funds necessary to meet the requirements in environmental laws, to remove an immediate threat to worker or public health and safety, to prevent or improve a condition where postponement of activity would lead to deterioration of the environment, and to undertake additional environmental restoration activities at Department of Energy defense nuclear facilities that are not provided for in the budgets for fiscal years in which it is necessary to meet such requirements or undertake such activities.”
+Subsec. (a)(6), (7). Pub. L. 103–337, §3160(a)(3), (4), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Secretary shall include in the annual five-year plan issued in 1992 a discussion of the feasibility and need, if any, for the establishment of a contingency fund in the Department of Energy to provide funds necessary to meet the requirements in environmental laws, to remove an immediate threat to worker or public health and safety, to prevent or improve a condition where postponement of activity would lead to deterioration of the environment, and to undertake additional environmental restoration activities at Department of Energy defense nuclear facilitiesthat are not provided for in the budgets for fiscal years in which it is necessary to meet such requirements or undertake such activities.”
 
 #### Public Participation in Planning
 

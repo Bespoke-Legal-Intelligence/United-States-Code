@@ -62,7 +62,7 @@ The Secretary may, or at the request of the Administrator shall, deny the issuan
 
 #### (e) Permit decision
 
-The Secretary, after consultation with the Administrator, shall issue or deny a vessel permitunder this section within 30 days after receiving a complete application. On denying the issuance of the permit for a vessel the Secretary shall—
+The Secretary, after consultation with the Administrator, shall issue or deny a vessel permit under this section within 30 days after receiving a complete application. On denying the issuance of the permit for a vessel the Secretary shall—
 
 &emsp;(1) notify the applicant of the denial and the reasons for the denial; and
 
@@ -92,7 +92,7 @@ The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in sub
 
 The Rivers and Harbors Appropriation Act of 1899, referred to in subsec. (d)(4), is act Mar. 3, 1899, ch. 425, 30 Stat. 1151, as amended, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (d)(5), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (d)(5), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816,which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 #### Effective Date
 
@@ -101,8 +101,4 @@ Section 4204(b) of Pub. L. 100–688 provided that: “Section 4102(a) of this A
 #### Availability of Applications
 
 Section 4204(a) of Pub. L. 100–688 provided that: “The Secretary shall make vessel applications for permits to be issued under section 4102 of this Act \[33 U.S.C. 2602\] publicly available within 60 days after the date of enactment of this Act \[Nov. 18, 1988\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2605, 2609 of this title.
 

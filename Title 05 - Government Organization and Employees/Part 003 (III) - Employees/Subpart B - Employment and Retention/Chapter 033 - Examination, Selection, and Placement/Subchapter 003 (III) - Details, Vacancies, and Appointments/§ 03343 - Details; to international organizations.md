@@ -58,7 +58,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 For provisions concerning the providing for details of Federal employees to international organizations and the delegation of Presidential authority, concerning the extension of a detail under this section, to the Secretary of State, see Ex. Ord. No. 11552, Aug. 24, 1970, 35 F.R. 13569, set out as a note under section 3584 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3584 of this title; title 26 section 3121; title 42 section 410.
-

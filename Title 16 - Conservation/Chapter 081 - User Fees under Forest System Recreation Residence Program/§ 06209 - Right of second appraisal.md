@@ -42,7 +42,3 @@ On receipt of a request from the cabin owner under subsection (c) of this sectio
 
 (Pub. L. 106–291, title VI, §610, Oct. 11, 2000, 114 Stat. 1020.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6210, 6213 of this title.
-

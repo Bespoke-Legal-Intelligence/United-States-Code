@@ -22,7 +22,3 @@ Notwithstanding subsection (a) of this section, during the 18-month period begin
 
 (Pub. L. 102–550, title XIII, §1362, Oct. 28, 1992, 106 Stat. 3975.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1452, 1718, 4614, 4616, 4619 of this title.
-

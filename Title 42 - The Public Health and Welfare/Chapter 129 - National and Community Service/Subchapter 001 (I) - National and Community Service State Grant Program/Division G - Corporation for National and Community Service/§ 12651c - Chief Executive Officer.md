@@ -26,7 +26,3 @@ Amendment by section 203(a)(1)(B) of Pub. L. 103–82 effective Apr. 4, 1994, se
 
 Section effective Sept. 21, 1993, see section 202(i)(2) of Pub. L. 103–82, set out as a note under section 12651 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5061, 12511 of this title.
-

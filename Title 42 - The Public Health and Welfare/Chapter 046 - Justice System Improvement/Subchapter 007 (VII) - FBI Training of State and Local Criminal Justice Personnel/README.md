@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—FBI TRAINING OF STATE AND LOCAL CRIMINAL JUSTICE PERSONNEL
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3793 of this title.
-
 
 ---
 

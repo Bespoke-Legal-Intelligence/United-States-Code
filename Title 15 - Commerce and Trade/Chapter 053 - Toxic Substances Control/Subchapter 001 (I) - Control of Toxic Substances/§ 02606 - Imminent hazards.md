@@ -52,9 +52,5 @@ For the purposes of subsection (a) of this section, the term “imminently hazar
 
 Pub. L. 102–550, which directed the insertion of “or subchapter IV of this chapter” after “2604”, was executed by making the insertion after “2604” the second time appearing in last sentence, to reflect the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2603, 2604, 2605, 2607, 2608, 2611, 2612, 2614, 2619 of this title; title 33 section 1319; title 42 sections 7412, 9601, 9606.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “Subpoenas”.</i>
 

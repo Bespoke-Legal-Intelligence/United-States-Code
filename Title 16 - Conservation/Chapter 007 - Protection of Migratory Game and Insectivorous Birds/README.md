@@ -14,6 +14,8 @@
 |  |  |
 | :--- | ---: |
 | [703\.](Subchapter%20002%20%28II%29%20-%20Migratory%20Bird%20Treaty/%C2%A7%2000703%20-%20Taking%2C%20killing%2C%20or%20possessing%20migratory%20birds%20unlawful.md) | Taking, killing, or possessing migratory birds unlawful. |
+| (a) | In general. |
+| (b) | Limitation on application to introduced species. |
 | [704\.](Subchapter%20002%20%28II%29%20-%20Migratory%20Bird%20Treaty/%C2%A7%2000704%20-%20Determination%20as%20to%20when%20and%20how%20migratory%20birds%20may%20be%20taken%2C%20killed%2C%20or%20possessed.md) | Determination as to when and how migratory birds may be taken, killed, or possessed. |
 | [705\.](Subchapter%20002%20%28II%29%20-%20Migratory%20Bird%20Treaty/%C2%A7%2000705%20-%20Transportation%20or%20importation%20of%20migratory%20birds%3B%20when%20unlawful.md) | Transportation or importation of migratory birds; when unlawful. |
 | [706\.](Subchapter%20002%20%28II%29%20-%20Migratory%20Bird%20Treaty/%C2%A7%2000706%20-%20Arrests%3B%20search%20warrants.md) | Arrests; search warrants. |

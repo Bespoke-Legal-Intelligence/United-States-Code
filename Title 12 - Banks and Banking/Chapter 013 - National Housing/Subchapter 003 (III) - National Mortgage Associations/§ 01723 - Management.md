@@ -24,7 +24,7 @@ Prior provisions on the subject of this section were contained in section 1716 o
 
 1976—Subsec. (a). Pub. L. 94–375 substituted provision establishing, in the Department of Housing and Urban Development, the position of president of the Government National Mortgage Association, to be filled by the President, by and with the consent of the Senate, for provision that the Secretary appoint the president of the Association.
 
-1968—Subsec. (a). Pub. L. 90–448, §802(y)(1)–(6), designated existing provisions as subsec. (a), inserted provisions directing that the powers and duties of the Government National Mortgage Association shall be vested in the Secretary of Housing and Urban Development and that the Association shall be administered under the direction of the Secretary, and empowering the Secretary to adopt, amend, and repeal bylaws, and struck out provisions which related to the Board of Directors of the Federal National Mortgage Association.
+1968—Subsec. (a). Pub. L. 90–448, §802(y)(1)–(6), designated existing provisions as subsec. (a), inserted provisions directing that the powers and duties of the Government National Mortgage Association shall be vested in the Secretary of Housing and Urban Developmentand that the Association shall be administered under the direction of the Secretary, and empowering the Secretary to adopt, amend, and repeal bylaws, and struck out provisions which related to the Board of Directors of the Federal National Mortgage Association.
 
 Subsec. (b). Pub. L. 90–448, §802(y)(7), added subsec. (b).
 
@@ -49,8 +49,4 @@ For effective date of amendment by Pub. L. 89–174, see section 11(a) of Pub. L
 #### Powers and Duties of Position of GNMA President To Remain in Effect Until Position Filled
 
 Section 17(e) of Pub. L. 94–375 provided that notwithstanding the amendment of subsec. (a) of this section, rights, powers, and duties of position of President, Government National Mortgage Association, as in effect on Aug. 2, 1976, remain in effect until the newly established position has been filled in accordance with the terms of this Act.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1723a of this title; title 42 section 3534.
 

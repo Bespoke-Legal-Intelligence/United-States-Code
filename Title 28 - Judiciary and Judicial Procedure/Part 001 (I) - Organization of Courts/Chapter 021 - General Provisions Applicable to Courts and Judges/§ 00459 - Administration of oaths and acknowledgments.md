@@ -24,7 +24,3 @@ The revised section clarifies what was apparently a statutory omission in that n
 
 By Senate amendment, all provisions relating to the Tax Court were eliminated, therefore, as finally enacted, section 1114(a) of Title 26, U.S.C., Internal Revenue Code, did not constitute part of the source of this section. However, no change in the text of this section was necessary. See 80th Congress Senate Report No. 1559.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460 of this title.
-

@@ -90,13 +90,13 @@
 
 (4) In regard to paragraphs (1), (2), and (3), above insofar as such paragraphs apply to any bank or member of the Federal Reserve System, the Commission may delegate its authority to:
 
-&emsp;(A) the Comptroller of the Currency as to national banks and banks operating under the Code of Law for the District of Columbia;
+&emsp;(A) the Comptroller of the Currency as to national banks;
 
-&emsp;(B) the Federal Reserve Board in regard to any member of the Federal Reserve System which is not a national bank or a bank operating under the Code of Law for the District of Columbia; and
+&emsp;(B) the Federal Reserve Board in regard to any member of the Federal Reserve System which is not a national bank; and
 
 &emsp;(C) the Federal Deposit Insurance Corporation for any State bank which is insured by the Federal Deposit Insurance Corporation but which is not a member of the Federal Reserve System.
 
-(5) The Commission shall encourage the insurance industry to require their insured to report expeditiously instances of missing, lost, counterfeit, or stolen securities to the Commissionor to such other person as the Commission may, by rule, designate to receive such information.
+(5) The Commission shall encourage the insurance industry to require their insured to report expeditiously instances of missing, lost, counterfeit, or stolen securities to the Commission or to such other person as the Commission may, by rule, designate to receive such information.
 
 #### (g) Persons extending credit
 
@@ -182,7 +182,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (B) Notification of status as a supervised investment bank holding company
 
-&emsp;&emsp;An investment bank holding company that elects under subparagraph (A) to become supervised by the Commission shall file with the Commission a written notice of intention to become supervised by the Commission in such form and containing such information and documents concerning such investment bank holding company as the Commission, by rule, may prescribe as necessary or appropriate in furtherance of the purposes of this section. Unless the Commission finds that such supervision is not necessary or appropriate in furtherance of the purposes of this section, such supervision shall become effective 45 days after the date of receipt of such written notice by the Commission or within such shorter time period as the Commission, by rule or order, may determine.
+&emsp;&emsp;An investment bank holding company that elects under subparagraph (A) to become supervised by the Commission shall file with the Commission a written notice of intention to become supervised by the Commission in such form and containing such information and documents concerning such investment bank holding company as the Commission, by rule, may prescribe as necessary or appropriate in furtherance of the purposes of this section. Unless the Commission findsthat such supervision is not necessary or appropriate in furtherance of the purposes of this section, such supervision shall become effective 45 days after the date of receipt of such written notice by the Commission or within such shorter time period as the Commission, by rule or order, may determine.
 
 #### (2) Election not to be supervised by the Commission as an investment bank holding company
 
@@ -226,7 +226,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (ii) Availability
 
-&emsp;&emsp;&emsp;A supervised investment bank holding company or an affiliate of such companyshall provide to the Commission, at the request of the Commission, any report referred to in clause (i).
+&emsp;&emsp;&emsp;A supervised investment bank holding company or an affiliate of such company shall provide to the Commission, at the request of the Commission, any report referred to in clause (i).
 
 #### (C) Examination authority
 
@@ -286,7 +286,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (j) Authority to limit disclosure of information
 
-Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under subsection (h) or (i) of this section or any information supplied to the Commission by any domestic or foreign regulatory agency that relates to the financial or operational condition of any associated person of a broker or dealer, investment bank holding company, or any affiliate of an investment bank holding company. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency or any self-regulatory organization requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. In prescribing regulations to carry out the requirements of this subsection, the Commission shall designate information described in or obtained pursuant to subparagraphs (A), (B), and (C) of subsection\(i)(5) <sup>4</sup> of this section as confidential information for purposes of section 78x(b)(2) of this title.
+Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under subsection (h) or (i) of this section or any information supplied to the Commission by any domestic or foreign regulatory agency that relates to the financial or operational condition of any associated person of a broker or dealer, investment bank holding company, or any affiliate of an investment bank holding company. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency or any self-regulatory organization requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. In prescribing regulations to carry out the requirements of this subsection, the Commission shall designate information described in or obtained pursuant to subparagraphs (A), (B), and (C) of subsection (i)(5) <sup>4</sup> of this section as confidential information for purposes of section 78x(b)(2) of this title.
 
 #### (k) Coordination of examining authorities
 
@@ -310,13 +310,13 @@ Notwithstanding any other provision of law, the Commission shall not be compelle
 
 #### (B) Appropriate disclosure not prohibited
 
-&emsp;&emsp;Nothing in this paragraph authorizes the Commission or any examining authority to withhold information from the Congress, or prevent the Commission or any examining authority from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
+&emsp;&emsp;Nothing in this paragraph authorizes the Commission or any examining authority towithhold information from the Congress, or prevent the Commission or any examining authority from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
 
 #### (5) “Examining authority” defined
 
 &emsp;For purposes of this subsection, the term “examining authority” means a self-regulatory organization registered with the Commission under this chapter (other than a registered clearing agency) with the authority to examine, inspect, and otherwise oversee the activities of a registered broker or dealer.
 
-(June 6, 1934, ch. 404, title I, §17, 48 Stat. 897; May 27, 1936, ch. 462, §4, 49 Stat. 1379; June 25, 1938, ch. 677, §5, 52 Stat. 1076; Pub. L. 94–29, §14, June 4, 1975, 89 Stat. 137; Pub. L. 99–571, title I, §102(h), (i), Oct. 28, 1986, 100 Stat. 3219; Pub. L. 100–181, title III, §321, title VIII, §801(b), Dec. 4, 1987, 101 Stat. 1257, 1265; Pub. L. 101–432, §4(a), Oct. 16, 1990, 104 Stat. 966; Pub. L. 104–290, title I, §108, Oct. 11, 1996, 110 Stat. 3425; Pub. L. 105–353, title III, §301(b)(5), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §231(a), Nov. 12, 1999, 113 Stat. 1402; Pub. L. 106–554, §1(a)(5) \[title II, §204\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424; Pub. L. 107–204, title II, §205(c)(2), July 30, 2002, 116 Stat. 774.)
+(June 6, 1934, ch. 404, title I, §17, 48 Stat. 897; May 27, 1936, ch. 462, §4, 49 Stat. 1379; June 25, 1938, ch. 677, §5, 52 Stat. 1076; Pub. L. 94–29, §14, June 4, 1975, 89 Stat. 137; Pub. L. 99–571, title I, §102(h), (i), Oct. 28, 1986, 100 Stat. 3219; Pub. L. 100–181, title III, §321, title VIII, §801(b), Dec. 4, 1987, 101 Stat. 1257, 1265; Pub. L. 101–432, §4(a), Oct. 16, 1990, 104 Stat. 966; Pub. L. 104–290, title I, §108, Oct. 11, 1996, 110 Stat. 3425; Pub. L. 105–353, title III, §301(b)(5), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §231(a), Nov. 12, 1999, 113 Stat. 1402; Pub. L. 106–554, §1(a)(5) \[title II, §204\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424; Pub. L. 107–204, title II, §205(c)(2), July 30, 2002, 116 Stat. 774; Pub. L. 108–386, §8(f)(5), (6), Oct. 30, 2004, 118 Stat. 2232.)
 
 #### References in Text
 
@@ -331,6 +331,10 @@ Section 25A of the Federal Reserve Act, referred to in subsec. (i)(1)(A)(iii), i
 The Bank Secrecy Act, referred to in subsec. (i)(3)(C)(i)(II), is also the popular name of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, as amended, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
 
 #### Amendments
+
+2004—Subsec. (f)(4)(A). Pub. L. 108–386, §8(f)(5), struck out “and banks operating under the Code of Law for the District of Columbia” before semicolon.
+
+Subsec. (f)(4)(B). Pub. L. 108–386, §8(f)(6), struck out “or a bank operating under the Code of Law for the District of Columbia” before semicolon.
 
 2002—Subsecs. (e)(1)(A), (i)(3)(A)(ii). Pub. L. 107–204 substituted “a registered public accounting firm” for “an independent public accountant”.
 
@@ -370,6 +374,10 @@ Subsecs. (b) to (g). Pub. L. 94–29 added subsecs. (b) to (f) and redesignated 
 
 1936—Subsec. (a). Act May 27, 1936, substituted “every broker or dealer registered pursuant to section 78<i>o</i> of this title” for “every broker or dealer making or creating a market for both the purchase and sale of securities through the use of the mails or of any means or instrumentality of interstate commerce”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise provided, applicable with respect to fiscal year 2005 and each succeeding fiscal year, see sections 8(i) and 9 of Pub. L. 108–386, set out as notes under section 321 of Title 12, Banks and Banking.
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see section 401 of Pub. L. 99–571, set out as an Effective Date note under section 78<i>o</i>–5 of this title.
@@ -381,10 +389,6 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78c, 78f, 78<i>o</i>, 78<i>o</i>–3, 78<i>o</i>–4, 78<i>o</i>–5, 78q–1, 78s, 78y, 78hh, 78fff–1, 78iii, 7217 of this title; title 7 sections 1a, 2, 6d.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “an”.</i>
 

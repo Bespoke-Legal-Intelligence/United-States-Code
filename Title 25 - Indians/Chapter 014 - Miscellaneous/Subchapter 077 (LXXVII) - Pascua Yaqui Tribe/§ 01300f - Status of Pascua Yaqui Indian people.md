@@ -20,7 +20,7 @@ Act of June 18, 1934, referred to in subsec. (b), popularly known as the Indian 
 
 Act of October 8, 1964, referred to in subsec. (c), is act Oct. 8, 1964, Private Law 88–350, 78 Stat. 1196, which conveyed all right, title and interest of the United States in certain lands to the Pascua Yaqui Association, Inc., and was not classified to the Code.
 
-Act of August 15, 1953, as amended by the Act of April 11, 1968, referred to in subsec. (c), is act Aug. 15, 1953, ch. 505, 67 Stat. 588, as amended, which enacted section 1162 of Title 18, Crimes and Criminal Procedure, section 1360 of Title 28, Judiciary and Judicial Procedure, and provisions set out as notes under section 1360 of Title 28. For complete classification of this Act to the Code, see Tables.
+Act of August 15, 1953, as amended by the Act of April 11, 1968, referred to in subsec. (c), is act Aug. 15, 1953,ch. 505, 67 Stat. 588, as amended, which enacted section 1162 of Title 18, Crimes and Criminal Procedure, section 1360 of Title 28, Judiciary and Judicial Procedure, and provisions set out as notes under section 1360 of Title 28. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -29,10 +29,6 @@ Section is comprised of section 1 of Pub. L. 95–375. Subsec. (d) of section 1 
 #### Amendments
 
 1994—Subsec. (a). Pub. L. 103–357 inserted after first sentence “The Pascua Yaqui Tribe, a historic Indian tribe, is acknowledged as a federally recognized Indian tribe possessing all the attributes of inherent sovereignty which have not been specifically taken away by Acts of Congress and which are not inconsistent with such tribal status.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300f–1, 1300f–2 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “984”.</i>
 

@@ -22,19 +22,17 @@
 
 (e) The functions and activities of this section shall be considered to be inherently Governmental functions. The drafting of strategic plans under this section shall be performed only by Federal employees.
 
-(f) For purposes of this section the term “agency” means an Executive agency defined under section 105, but does not include the Central Intelligence Agency, the General Accounting Office, the Panama Canal Commission, the United States Postal Service, and the Postal Rate Commission.
+(f) For purposes of this section the term “agency” means an Executive agency defined under section 105, but does not include the Central Intelligence Agency, the Government Accountability Office, the Panama Canal Commission, the United States Postal Service, and the Postal Rate Commission.
 
-(Added Pub. L. 103–62, §3, Aug. 3, 1993, 107 Stat. 286; amended Pub. L. 106–65, div. A, title IX, §902, Oct. 5, 1999, 113 Stat. 717.)
+(Added Pub. L. 103–62, §3, Aug. 3, 1993, 107 Stat. 286; amended Pub. L. 106–65, div. A, title IX, §902, Oct. 5, 1999, 113 Stat. 717; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
+
+2004—Subsec. (f). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1999—Subsec. (b). Pub. L. 106–65 substituted “. The strategic plan shall be updated and revised at least every three years, except that the strategic plan for the Department of Defense shall be updated and revised at least every four years.” for “, and shall be updated and revised at least every three years.”
 
 #### Construction
 
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a note under section 1115 of Title 31, Money and Finance.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 3123; title 15 section 638; title 23 section 508; title 31 sections 1115, 1117, 1118, 1119; title 40 section 11315; title 41 section 414.
 

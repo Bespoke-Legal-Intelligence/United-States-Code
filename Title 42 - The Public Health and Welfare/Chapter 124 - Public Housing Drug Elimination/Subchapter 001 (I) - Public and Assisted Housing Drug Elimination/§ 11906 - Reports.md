@@ -14,7 +14,7 @@ The Secretary shall submit a report to the Congress not later than 18 months aft
 
 #### (c) Notice of funding awards
 
-The Secretary shall cause to be published in the Federal Register notice of all grant awards made pursuant to this subchapter, which shall identify the grantees and the amount of the grants. Such notice shall be published not less frequently than annually.
+The Secretary shall cause to be published in the Federal Register notice of all grant awardsmade pursuant to this subchapter, which shall identify the grantees and the amount of the grants. Such notice shall be published not less frequently than annually.
 
 (Pub. L. 100–690, title V, §5127, as added Pub. L. 105–276, title V, §586(g), Oct. 21, 1998, 112 Stat. 2649.)
 
@@ -24,9 +24,5 @@ A prior section 11906, Pub. L. 100–690, title V, §5127, Nov. 18, 1988, 102 St
 
 #### Effective Date
 
-Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provisionthat Secretary may implement section before such date, except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11907 of this title.
+Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement section before such date, except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 

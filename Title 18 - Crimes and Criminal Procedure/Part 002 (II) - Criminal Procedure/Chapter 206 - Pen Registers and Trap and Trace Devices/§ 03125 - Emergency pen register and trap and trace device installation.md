@@ -44,7 +44,3 @@ Subsec. (d). Pub. L. 103–322, §330008(3)(C), substituted “provider of” fo
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2707, 3124 of this title; title 47 section 1002.
-

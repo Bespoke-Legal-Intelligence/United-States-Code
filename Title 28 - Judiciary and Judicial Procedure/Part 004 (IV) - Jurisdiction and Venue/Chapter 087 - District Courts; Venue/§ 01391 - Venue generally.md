@@ -1,6 +1,6 @@
 ### §1391. Venue generally
 
-(a) A civil action wherein jurisdiction is founded only on diversity of citizenship may, except as otherwise provided by law, be brought only in (1) a judicial district where any defendant resides, if all defendants reside in the same State, (2) a judicial district in which a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3) a judicial district in which any defendant is subject to personal jurisdiction at the time the action is commenced, if there is no district in which the action may otherwise be brought.
+(a) A civil action wherein jurisdiction is founded only on diversity of citizenship may, except as otherwise provided by law, be broughtonly in (1) a judicial district where any defendant resides, if all defendants reside in the same State, (2) a judicial district in which a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3) a judicial district in which any defendant is subject to personal jurisdiction at the time the action is commenced, if there is no district in which the action may otherwise be brought.
 
 (b) A civil action wherein jurisdiction is not founded solely on diversity of citizenship may, except as otherwise provided by law, be brought only in (1) a judicial district where any defendant resides, if all defendants reside in the same State, (2) a judicial district in which a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3) a judicial district in which any defendant may be found, if there is no district in which the action may otherwise be brought.
 
@@ -42,7 +42,7 @@ Word “reside” was substituted for “whereof he is an inhabitant” for clar
 
 Reference to “all plaintiffs” and “all defendants” were substituted for references to “the plaintiff” and “the defendant,” in view of many decisions holding that the singular terms were used in a collective sense. (See <i>Smith v. Lyon</i>, 1890, 10 S.Ct. 303, 133 U.S. 315, 33 L.Ed. 635; <i>Hooe v. Jamieson</i>, 1897, 17 S.Ct. 596, 166 U.S. 395, 41 L.Ed. 1049; and <i>Fetzer v. Livermore</i>, D.C., 1926, 15 F.2d 462.)
 
-In subsection (c), references to defendants “found” within a district or voluntarily appearing were omitted. The use of the word “found” made section 111 of title 28, U.S.C., 1940 ed., ambiguous. The argument that an action could be brought in the district where one defendant resided and a nonresident defendant was “found,” was rejected in <i>Camp v. Gress</i>, 1919, 39 S.Ct. 478, 250 U.S. 308, 63 L.Ed. 997. However, this ambiguity will be obviated in the future by the omission of such reference.
+In subsection (c), references to defendants “found” within a district or voluntarily appearing were omitted. The use of the word “found” made section 111 oftitle 28, U.S.C., 1940 ed., ambiguous. The argument that an action could be brought in the district where one defendant resided and a nonresident defendant was “found,” was rejected in <i>Camp v. Gress</i>, 1919, 39 S.Ct. 478, 250 U.S. 308, 63 L.Ed. 997. However, this ambiguity will be obviated in the future by the omission of such reference.
 
 Subsection (d) of this section is added to give statutory recognition to the weight of authority concerning a rule of venue as to which there has been a sharp conflict of decisions. (See <i>Sandusky Foundry \& Machine Co. v. DeLavand</i>, 1918, D.C.Ohio, 251 F. 631, 632, and cases cited. See also <i>Keating v. Pennsylvania Co</i>., 1917, D.C.Ohio, 245 F. 155 and cases cited.)
 
@@ -99,8 +99,4 @@ Section 1013(b) of title X of Pub. L. 100–702 provided that: “The amendment 
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–583 effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as an Effective Date note under section 1602 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 sections 53, 6103, 6104, 6504, 7706; title 16 section 6516; title 19 section 1337; title 22 sections 290<i>l</i>–5, 290<i>o</i>–5; title 27 section 122a; title 42 section 1973aa–2.
 

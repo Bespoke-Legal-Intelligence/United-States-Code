@@ -18,7 +18,7 @@ The Secretary is authorized to convey to States or their political subdivisions 
 
 #### (d) Applicability of other statutory requirements for authorized use of conveyed lands
 
-The final sentence of section 1(c) of the Recreation and Public Purposes Act \[43 U.S.C. 869(c)\]shall not be applicable to conveyances under this section.
+The final sentence of section 1(c) of the Recreation and Public Purposes Act \[43 U.S.C. 869(c)\] shall not be applicable to conveyances under this section.
 
 #### (e) Limitations on uses of conveyed lands
 

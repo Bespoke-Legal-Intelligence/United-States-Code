@@ -30,7 +30,3 @@ Section 2 of Pub. L. 87–121 provided that: “Section 1 of this Act \[amending
 
 \[Referendum held Dec. 10, 1961, and debt limitation amendment to Article VI, §2, of Constitution of Commonwealth of Puerto Rico ratified by a majority of voters.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 745a, 745b of this title.
-

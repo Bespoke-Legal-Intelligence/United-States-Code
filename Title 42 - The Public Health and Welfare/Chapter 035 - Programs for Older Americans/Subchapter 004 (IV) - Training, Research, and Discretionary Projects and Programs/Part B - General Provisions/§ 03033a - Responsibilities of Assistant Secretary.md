@@ -100,11 +100,11 @@ Section 3035k, Pub. L. 89–73, title IV, §429C, as added Pub. L. 102–375, ti
 
 Section 3035<i>l</i>, Pub. L. 89–73, title IV, §429D, as added Pub. L. 102–375, title IV, §413, Sept. 30, 1992, 106 Stat. 1254; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to senior transportation demonstration program grants.
 
-Section 3035m, Pub. L. 89–73, title IV, §429E, as added Pub. L. 102–375, title IV, §414, Sept. 30, 1992, 106 Stat. 1256; amended Pub. L. 103–171, §3(a)(4), Dec. 2, 1993, 107Stat. 1990, related to Resource Centers on Native American Elders.
+Section 3035m, Pub. L. 89–73, title IV, §429E, as added Pub. L. 102–375, title IV, §414, Sept. 30, 1992, 106 Stat. 1256; amended Pub. L. 103–171, §3(a)(4), Dec. 2, 1993, 107 Stat. 1990, related to Resource Centers on Native American Elders.
 
 Section 3035n, Pub. L. 89–73, title IV, §429F, as added Pub. L. 102–375, title IV, §415, Sept. 30, 1992, 106 Stat. 1257; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–402, title IV, §401(b)(9)(C), Oct. 30, 2000, 114 Stat. 1739, related to demonstration programs for older individuals with developmental disabilities.
 
-Section 3035<i>o</i>, Pub. L. 89–73, title IV, §429G, as added Pub. L. 102–375, title IV, §416, Sept. 30, 1992, 106 Stat. 1257; amended Pub. L. 103–171, §§2(17), 3(a)(11), (13), Dec. 2, 1993, 107 Stat. 1989, 1990, related to housing demonstration programs.
+Section 3035<i>o</i>, Pub. L. 89–73, title IV, §429G, as added Pub. L. 102–375, title IV, §416, Sept. 30, 1992, 106 Stat.1257; amended Pub. L. 103–171, §§2(17), 3(a)(11), (13), Dec. 2, 1993, 107 Stat. 1989, 1990, related to housing demonstration programs.
 
 Section 3035p, Pub. L. 89–73, title IV, §429H, as added Pub. L. 102–375, title IV, §417, Sept. 30, 1992, 106 Stat. 1260; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to private resource enhancement projects.
 

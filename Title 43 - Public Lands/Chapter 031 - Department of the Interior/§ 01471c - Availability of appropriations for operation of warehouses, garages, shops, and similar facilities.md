@@ -6,7 +6,7 @@ Appropriations in this title <sup>1</sup> or appropriations made under this tit
 
 #### References in Text
 
-This title, referred to in text, is title II of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1327. For complete classification of title II to Code, see Tables.
+This title, referred to in text, is title II, Department of the Interior, of the Energy and Water Development Appropriations Act, 1993, of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1327. For complete classification of title II to Code, see Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

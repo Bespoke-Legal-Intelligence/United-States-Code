@@ -10,7 +10,7 @@ Shall be subject to the penalties set forth in section 216 of this title.
 
 &emsp;(2) if, by regulation issued by the Director of the Office of Government Ethics, applicable to all or a portion of all officers and employees covered by this section, and published in the Federal Register, the financial interest has been exempted from the requirements of subsection (a) as being too remote or too inconsequential to affect the integrity of the services of the Government officers or employees to which such regulation applies;
 
-&emsp;(3) in the case of a special Government employee serving on an advisory committee within the meaning of the Federal Advisory Committee Act (including an individual being considered for an appointment to such a position), the official responsible for the employee's appointment, after review of the financial disclosure report filed by the individual pursuant to the Ethics in Government Act of 1978, certifies in writing that the need for the individual's services outweighs the potential for a conflict of interest created by the financial interest involved; or
+&emsp;(3) in the case of a special Government employee serving on an advisory committee within the meaning of the Federal Advisory Committee Act (including an individual being considered for an appointment to such a position), the official responsible for the employee's appointment, after review of the financial disclosure report filed by the individual pursuant to the Ethics in Government Act of 1978, certifies in writing that the need for the individual'sservices outweighs the potential for a conflict of interest created by the financial interest involved; or
 
 &emsp;(4) if the financial interest that would be affected by the particular matter involved is that resulting solely from the interest of the officer or employee, or his or her spouse or minor child, in birthrights—
 
@@ -97,8 +97,4 @@ Authority of the President under subsec. (b) of this section to grant exemptions
 Pub. L. 100–446, title III, §319, Sept. 27, 1988, 102 Stat. 1826, which provided that notwithstanding any other provision of law, for the purposes of this section “particular matter”, as applied to employees of the Department of the Interior and the Indian Health Service, means “particular matter involving specific parties”, was repealed by Pub. L. 101–194, title V, §505(b), Nov. 30, 1989, 103 Stat. 1756, as amended by Pub. L. 101–280, §6(c), May 4, 1990, 104 Stat. 160.
 
 Similar provisions were contained in Pub. L. 100–202, §101(g) \[title III, §318\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–255.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 202, 216 of this title; title 5 sections 568, 3374, 3704; title 6 section 451; title 7 sections 2008m, 2009aa–1, 2009bb–1, 2009dd–2; title 10 section 9447; title 12 section 2245; title 15 section 4805; title 16 section 1852; title 20 section 5508; title 22 sections 3507, 3508, 3613, 3622; title 26 section 1043; title 28 section 594; title 28 App. section 302; title 40 section 14309; title 41 section 423; title 42 section 1396a; title 47 section 154; title 49 section 106.
 

@@ -32,7 +32,3 @@ The board shall direct the exercise of all the powers of the corporation.
 
 (June 10, 1930, ch. 440, §2, 46 Stat. 539.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 501 of this title.
-

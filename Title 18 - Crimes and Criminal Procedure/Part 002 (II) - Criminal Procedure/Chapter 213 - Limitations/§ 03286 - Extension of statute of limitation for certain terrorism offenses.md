@@ -22,7 +22,7 @@ A prior section 3286, act June 25, 1948, ch. 645, 62 Stat. 828, related to seduc
 
 1996—Pub. L. 104–132, §702(c)(2)–(4), substituted “2332” for “2331”, “2332a” for “2339”, and “37” for “36”. Pub. L. 104–294, §601(b)(1), which amended section identically, was repealed by Pub. L. 107–273.
 
-Pub. L. 104–132, §702(c)(1), (5), inserted “2332b (acts of terrorism transcending national boundaries),” after “(use of weapons of mass destruction),”, and substituted “any non-capital offense” for “any offense”.
+Pub. L. 104–132, §702(c)(1), (5), inserted “2332b (acts of terrorism transcending national boundaries),” after“(use of weapons of mass destruction),”, and substituted “any non-capital offense” for “any offense”.
 
 #### Effective Date of 2002 Amendment
 

@@ -10,7 +10,7 @@ Establishment.—The Secretary of Transportation shall establish an alternate es
 
 &emsp;(2)
 
-Assistance to eligible places.—In carrying out the program, the Secretary, instead of paying compensation to an air carrier to provide essential air service to an eligible place, may provide assistance directly to a unit of local government having jurisdiction over the eligible place or a State within theboundaries of which the eligible place is located.
+Assistance to eligible places.—In carrying out the program, the Secretary, instead of paying compensation to an air carrier to provide essential air service to an eligible place, may provide assistance directly to a unit of local government having jurisdiction over the eligible place or a State within the boundaries of which the eligible place is located.
 
 &emsp;(3)
 
@@ -87,8 +87,4 @@ Funding.—Amounts appropriated or otherwise made available to carry out the ess
 #### Effective Date
 
 Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as an Effective Date of 2003 Amendment note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41747 of this title.
 

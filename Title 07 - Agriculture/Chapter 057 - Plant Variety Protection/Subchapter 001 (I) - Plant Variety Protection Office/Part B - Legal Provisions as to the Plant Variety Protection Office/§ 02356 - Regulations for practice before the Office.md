@@ -4,7 +4,3 @@ The Secretary shall prescribe regulations governing the admission to practice an
 
 (Pub. L. 91–577, title I, §26, Dec. 24, 1970, 84 Stat. 1545.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2357 of this title.
-

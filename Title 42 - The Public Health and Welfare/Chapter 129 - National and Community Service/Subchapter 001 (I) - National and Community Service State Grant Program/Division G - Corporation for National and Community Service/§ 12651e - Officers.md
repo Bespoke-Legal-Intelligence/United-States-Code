@@ -58,7 +58,7 @@
 
 &emsp;One of the Managing Directors appointed under subsection (a) of this section shall, in accordance with applicable provisions of title 5, appoint 4 Assistant Directors who shall report directly to such Managing Director, of which—
 
-&emsp;&emsp;(A) 1 Assistant Director shall be responsible for programs carried out under parts Aand B of title I of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4951 et seq., 4971 et seq.\] (the Volunteers in Service to America (VISTA) program) and other antipoverty programs under title I of that Act \[42 U.S.C. 4951 et seq.\];
+&emsp;&emsp;(A) 1 Assistant Director shall be responsible for programs carried out under parts A and B of title I of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4951 et seq., 4971 et seq.\] (the Volunteers in Service toAmerica (VISTA) program) and other antipoverty programs under title I of that Act \[42 U.S.C. 4951 et seq.\];
 
 &emsp;&emsp;(B) 1 Assistant Director shall be responsible for programs carried out under part A of title II of that Act \[42 U.S.C. 5001 et seq.\] (relating to the Retired Senior Volunteer Program);
 
@@ -83,8 +83,4 @@ Section 203(c)(2) of the National and Community Service Trust Act of 1993, refer
 #### Effective Date
 
 Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out as a note under section 12651 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4952, 12651d, 12651f of this title.
 

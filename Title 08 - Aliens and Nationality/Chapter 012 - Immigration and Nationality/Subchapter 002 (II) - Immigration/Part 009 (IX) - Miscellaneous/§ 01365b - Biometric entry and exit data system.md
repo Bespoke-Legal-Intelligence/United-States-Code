@@ -1,0 +1,288 @@
+### §1365b. Biometric entry and exit data system
+
+#### (a) Finding
+
+Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress finds that completing a biometric entry and exit data system as expeditiously as possible is an essential investment in efforts to protect the United States by preventing the entry of terrorists.
+
+#### (b) Definition
+
+In this section, the term “entry and exit data system” means the entry and exit system required by applicable sections of—
+
+&emsp;(1) the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208);
+
+&emsp;(2) the Immigration and Naturalization Service Data Management Improvement Act of 2000 (Public Law 106–205) <sup>1</sup> ;
+
+&emsp;(3) the Visa Waiver Permanent Program Act (Public Law 106–396);
+
+&emsp;(4) the Enhanced Border Security and Visa Entry Reform Act of 2002 (Public Law 107–173) \[8 U.S.C. 1701 et seq\]; and
+
+&emsp;(5) the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (Public Law 107–56).
+
+#### (c) Plan and report
+
+#### (1) Development of plan
+
+&emsp;The Secretary of Homeland Security shall develop a plan to accelerate the full implementation of an automated biometric entry and exit data system.
+
+#### (2) Report
+
+&emsp;Not later than 180 days after December 17, 2004, the Secretary shall submit a report to Congress on the plan developed under paragraph (1), which shall contain—
+
+&emsp;&emsp;(A) a description of the current functionality of the entry and exit data system, including—
+
+&emsp;&emsp;&emsp;(i) a listing of ports of entry and other Department of Homeland Security and Department of State locations with biometric entry data systems in use and whether such screening systems are located at primary or secondary inspection areas;
+
+&emsp;&emsp;&emsp;(ii) a listing of ports of entry and other Department of Homeland Security and Department of State locations with biometric exit data systems in use;
+
+&emsp;&emsp;&emsp;(iii) a listing of databases and data systems with which the entry and exit data system are interoperable;
+
+&emsp;&emsp;&emsp;(iv) a description of—
+
+&emsp;&emsp;&emsp;&emsp;(I) identified deficiencies concerning the accuracy or integrity of the information contained in the entry and exit data system;
+
+&emsp;&emsp;&emsp;&emsp;(II) identified deficiencies concerning technology associated with processing individuals through the system; and
+
+&emsp;&emsp;&emsp;&emsp;(III) programs or policies planned or implemented to correct problems identified in subclause (I) or (II); and
+
+&emsp;&emsp;&emsp;(v) an assessment of the effectiveness of the entry and exit data system in fulfilling its intended purposes, including preventing terrorists from entering the United States;
+
+&emsp;&emsp;(B) a description of factors relevant to the accelerated implementation of the biometric entry and exit data system, including—
+
+&emsp;&emsp;&emsp;(i) the earliest date on which the Secretary estimates that full implementation of the biometric entry and exit data system can be completed;
+
+&emsp;&emsp;&emsp;(ii) the actions the Secretary will take to accelerate the full implementation of the biometric entry and exit data system at all ports of entry through which all aliens must pass that are legally required to do so; and
+
+&emsp;&emsp;&emsp;(iii) the resources and authorities required to enable the Secretary to meet the implementation date described in clause (i);
+
+&emsp;&emsp;(C) a description of any improvements needed in the information technology employed for the biometric entry and exit data system;
+
+&emsp;&emsp;(D) a description of plans for improved or added interoperability with any other databases or data systems; and
+
+&emsp;&emsp;(E) a description of the manner in which the Department of Homeland Security's US-VISIT program—
+
+&emsp;&emsp;&emsp;(i) meets the goals of a comprehensive entry and exit screening system, including both entry and exit biometric; and
+
+&emsp;&emsp;&emsp;(ii) fulfills the statutory obligations under subsection (b) of this section.
+
+#### (d) Collection of biometric exit data
+
+The entry and exit data system shall include a requirement for the collection of biometric exit data for all categories of individuals who are required to provide biometric entry data, regardless of the port of entry where such categories of individuals entered the United States.
+
+#### (e) Integration and interoperability
+
+#### (1) Integration of data system
+
+&emsp;Not later than 2 years after December 17, 2004, the Secretary shall fully integrate all databases and data systems that process or contain information on aliens, which are maintained by—
+
+&emsp;&emsp;(A) the Department of Homeland Security, at—
+
+&emsp;&emsp;&emsp;(i) the United States Immigration and Customs Enforcement;
+
+&emsp;&emsp;&emsp;(ii) the United States Customs and Border Protection; and
+
+&emsp;&emsp;&emsp;(iii) the United States Citizenship and Immigration Services;
+
+&emsp;&emsp;(B) the Department of Justice, at the Executive Office for Immigration Review; and
+
+&emsp;&emsp;(C) the Department of State, at the Bureau of Consular Affairs.
+
+#### (2) Interoperable component
+
+&emsp;The fully integrated data system under paragraph (1) shall be an interoperable component of the entry and exit data system.
+
+#### (3) Interoperable data system
+
+&emsp;Not later than 2 years after December 17, 2004, the Secretary shall fully implement an interoperable electronic data system, as required by section 202 of the Enhanced Border Security and Visa Entry Reform Act <sup>2</sup> (8 U.S.C. 1722) to provide current and immediate access to information in the databases of Federal law enforcement agencies and the intelligence community that is relevant to determine—
+
+&emsp;&emsp;(A) whether to issue a visa; or
+
+&emsp;&emsp;(B) the admissibility or deportability of an alien.
+
+#### (f) Maintaining accuracy and integrity of entry and exit data system
+
+#### (1) Policies and procedures
+
+#### (A) Establishment
+
+&emsp;&emsp;The Secretary of Homeland Security shall establish rules, guidelines, policies, and operating and auditing procedures for collecting, removing, and updating data maintained in, and adding information to, the entry and exit data system that ensure the accuracy and integrity of the data.
+
+#### (B) Training
+
+&emsp;&emsp;The Secretary shall develop training on the rules, guidelines, policies, and procedures established under subparagraph (A), and on immigration law and procedure. All personnel authorized to access information maintained in the databases and data system shall receive such training.
+
+#### (2) Data collected from foreign nationals
+
+&emsp;The Secretary of Homeland Security, the Secretary of State, and the Attorney General, after consultation with directors of the relevant intelligence agencies, shall standardize the information and data collected from foreign nationals, and the procedures utilized to collect such data, to ensure that the information is consistent and valuable to officials accessing that data across multiple agencies.
+
+#### (3) Data maintenance procedures
+
+&emsp;Heads of agencies that have databases or data systems linked to the entry and exit datasystem shall establish rules, guidelines, policies, and operating and auditing procedures for collecting, removing, and updating data maintained in, and adding information to, such databases or data systems that ensure the accuracy and integrity of the data and for limiting access to the information in the databases or data systems to authorized personnel.
+
+#### (4) Requirements
+
+&emsp;The rules, guidelines, policies, and procedures established under this subsection shall—
+
+&emsp;&emsp;(A) incorporate a simple and timely method for—
+
+&emsp;&emsp;&emsp;(i) correcting errors in a timely and effective manner;
+
+&emsp;&emsp;&emsp;(ii) determining which government officer provided data so that the accuracy of the data can be ascertained; and
+
+&emsp;&emsp;&emsp;(iii) clarifying information known to cause false hits or misidentification errors;
+
+&emsp;&emsp;(B) include procedures for individuals to—
+
+&emsp;&emsp;&emsp;(i) seek corrections of data contained in the databases or data systems; and
+
+&emsp;&emsp;&emsp;(ii) appeal decisions concerning data contained in the databases or data systems;
+
+&emsp;&emsp;(C) strictly limit the agency personnel authorized to enter data into the system;
+
+&emsp;&emsp;(D) identify classes of information to be designated as temporary or permanent entries, with corresponding expiration dates for temporary entries; and
+
+&emsp;&emsp;(E) identify classes of prejudicial information requiring additional authority of supervisory personnel before entry.
+
+#### (5) Centralizing and streamlining correction process
+
+#### (A) In general
+
+&emsp;&emsp;The President, or agency director designated by the President, shall establish a clearinghouse bureau in the Department of Homeland Security, to centralize and streamline the process through which members of the public can seek corrections to erroneous or inaccurate information contained in agency databases, which is related to immigration status, or which otherwise impedes lawful admission to the United States.
+
+#### (B) Time schedules
+
+&emsp;&emsp;The process described in subparagraph (A) shall include specific time schedules for reviewing data correction requests, rendering decisions on such requests, and implementing appropriate corrective action in a timely manner.
+
+#### (g) Integrated biometric entry-exit screening system
+
+The biometric entry and exit data system shall facilitate efficient immigration benefits processing by—
+
+&emsp;(1) ensuring that the system's tracking capabilities encompass data related to all immigration benefits processing, including—
+
+&emsp;&emsp;(A) visa applications with the Department of State;
+
+&emsp;&emsp;(B) immigration related filings with the Department of Labor;
+
+&emsp;&emsp;(C) cases pending before the Executive Office for Immigration Review; and
+
+&emsp;&emsp;(D) matters pending or under investigation before the Department of Homeland Security;
+
+&emsp;(2) utilizing a biometric based identity number tied to an applicant's biometric algorithm established under the entry and exit data system to track all immigration related matters concerning the applicant;
+
+&emsp;(3) providing that—
+
+&emsp;&emsp;(A) all information about an applicant's immigration related history, including entry and exit history, can be queried through electronic means; and
+
+&emsp;&emsp;(B) database access and usage guidelines include stringent safeguards to prevent misuse of data;
+
+&emsp;(4) providing real-time updates to the information described in paragraph (3)(A), including pertinent data from all agencies referred to in paragraph (1); and
+
+&emsp;(5) providing continuing education in counterterrorism techniques, tools, and methods for all Federal personnel employed in the evaluation of immigration documents and immigration-related policy.
+
+#### (h) Entry-exit system goals
+
+The Department of Homeland Security shall operate the biometric entry and exit system so that it—
+
+&emsp;(1) serves as a vital counterterrorism tool;
+
+&emsp;(2) screens travelers efficiently and in a welcoming manner;
+
+&emsp;(3) provides inspectors and related personnel with adequate real-time information;
+
+&emsp;(4) ensures flexibility of training and security protocols to most effectively comply with security mandates;
+
+&emsp;(5) integrates relevant databases and plans for database modifications to address volume increase and database usage; and
+
+&emsp;(6) improves database search capacities by utilizing language algorithms to detect alternate names.
+
+#### (i) Dedicated specialists and front line personnel training
+
+In implementing the provisions of subsections (g) and (h) of this section, the Department of Homeland Security and the Department of State shall—
+
+&emsp;(1) develop cross-training programs that focus on the scope and procedures of the entry and exit data system;
+
+&emsp;(2) provide extensive community outreach and education on the entry and exit data system's procedures;
+
+&emsp;(3) provide clear and consistent eligibility guidelines for applicants in low-risk traveler programs; and
+
+&emsp;(4) establish ongoing training modules on immigration law to improve adjudications at our ports of entry, consulates, and embassies.
+
+#### (j) Compliance status reports
+
+Not later than 1 year after December 17, 2004, the Secretary of Homeland Security, the Secretary of State, the Attorney General, and the head of any other department or agency subjectto the requirements of this section, shall issue individual status reports and a joint status report detailing the compliance of the department or agency with each requirement under this section.
+
+#### (k) Expediting registered travelers across international borders
+
+#### (1) Findings
+
+&emsp;Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
+
+&emsp;&emsp;(A) Expediting the travel of previously screened and known travelers across the borders of the United States should be a high priority.
+
+&emsp;&emsp;(B) The process of expediting known travelers across the borders of the United States can permit inspectors to better focus on identifying terrorists attempting to enter the United States.
+
+#### (2) Definition
+
+&emsp;In this subsection, the term “registered traveler program” means any program designed to expedite the travel of previously screened and known travelers across the borders of the United States.
+
+#### (3) Registered travel program
+
+#### (A) In general
+
+&emsp;&emsp;As soon as is practicable, the Secretary shall develop and implement a registered traveler program to expedite the processing of registered travelers who enter and exit the United States.
+
+#### (B) Participation
+
+&emsp;&emsp;The registered traveler program shall include as many participants as practicable by—
+
+&emsp;&emsp;&emsp;(i) minimizing the cost of enrollment;
+
+&emsp;&emsp;&emsp;(ii) making program enrollment convenient and easily accessible; and
+
+&emsp;&emsp;&emsp;(iii) providing applicants with clear and consistent eligibility guidelines.
+
+#### (C) Integration
+
+&emsp;&emsp;The registered traveler program shall be integrated into the automated biometric entry and exit data system described in this section.
+
+#### (D) Review and evaluation
+
+&emsp;&emsp;In developing the registered traveler program, the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) review existing programs or pilot projects designed to expedite the travel of registered travelers across the borders of the United States;
+
+&emsp;&emsp;&emsp;(ii) evaluate the effectiveness of the programs described in clause (i), the costs associated with such programs, and the costs to travelers to join such programs;
+
+&emsp;&emsp;&emsp;(iii) increase research and development efforts to accelerate the development and implementation of a single registered traveler program; and
+
+&emsp;&emsp;&emsp;(iv) review the feasibility of allowing participants to enroll in the registered traveler program at consular offices.
+
+#### (4) Report
+
+&emsp;Not later than 1 year after December 17, 2004, the Secretary shall submit to Congress a report describing the Department's progress on the development and implementation of the registered traveler program.
+
+#### (<i>l</i>) Authorization of appropriations
+
+There are authorized to be appropriated to the Secretary, for each of the fiscal years 2005 through 2009, such sums as may be necessary to carry out the provisions of this section.
+
+(Pub. L. 108–458, title VII, §7208, Dec. 17, 2004, 118 Stat. 3817.)
+
+#### References in Text
+
+The Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsec. (b)(1), is div. C of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–546. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1101 of this title and Tables.
+
+The Immigration and Naturalization Service Data Management Improvement Act of 2000, referred to in subsec. (b)(2), is Pub. L. 106–215, June 15, 2000, 114 Stat. 337, which amended section 1365a of this title and enacted provisions set out as notes under sections 1101 and 1365a of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1101 of this title and Tables.
+
+The Visa Waiver Permanent Program Act, referred to in subsec. (b)(3), is Pub. L. 106–396, Oct. 30, 2000, 114 Stat. 1637. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1101 of this title and Tables.
+
+The Enhanced Border Security and Visa Entry Reform Act of 2002, referred to in subsec. (b)(4), is Pub. L. 107–173, May 14, 2002, 116 Stat. 543, as amended, which is classified principally to chapter 15 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+
+The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in subsec. (b)(5), is Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272, as amended. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
+
+#### Codification
+
+Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “(Public Law 106–215)”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “of 2002”.</i>
+

@@ -128,7 +128,3 @@ Section 206(b) of Pub. L. 97–306 directed Administrator of Veterans’ Affairs
 
 Pub. L. 93–293, May 31, 1974, 88 Stat. 176, provided that the eight-year delimiting date for pursuit of educational programs under this chapter for eligible veterans discharged or released from active duty between Jan. 31, 1955, and Sept. 1, 1966, with certain exceptions, was to run from July 1, 1966.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3512, 3698 of this title.
-

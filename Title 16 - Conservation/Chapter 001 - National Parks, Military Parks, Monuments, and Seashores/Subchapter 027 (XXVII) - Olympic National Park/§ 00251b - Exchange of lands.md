@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to exchange approximately six thousa
 
 (Pub. L. 85–455, §1, June 11, 1958, 72 Stat. 185.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 251d, 251e of this title.
-

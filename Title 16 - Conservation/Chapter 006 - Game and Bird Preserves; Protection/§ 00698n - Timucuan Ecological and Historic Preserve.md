@@ -2,7 +2,23 @@
 
 #### (a) Establishment
 
-There is hereby established in the St. Johns River Valley, Florida, where the Timucuan Indians lived in prehistoric and historic times, the Timucuan Ecological and Historic Preserve (hereafter in sections 698n to 698p of this title referred to as the “Preserve”). The Preserve shall comprise the lands, waters, and interests therein within the boundaries generally depicted on a map of Duval County, Florida, entitled “Timucuan Ecological and Historic Preserve” numbered NA–TEHP 80,003–A and dated July 1987. The map shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior. The Secretary of the Interior may make minor revisions in the boundary of the Preserve in accordance with section 460<i>l</i>–9(c) of this title. The Preserve shall also include within its boundaries all that land consisting of approximately 500 acres adjacent to Fort Caroline National Memorial and known as the Theodore Roosevelt Preserve, being land formerly owned by one Willie Brown and donated by him to The Nature Conservancy.
+#### (1) In general
+
+&emsp;There is established in the St. Johns River Valley, Florida, where the Timucuan Indians lived in prehistoric and historic times, the Timucuan Ecological and Historic Preserve (hereafter in sections 698n to 698p of this title referred to as the “Preserve”). The Preserve shall comprise the lands, waters, and interests therein within the boundaries generally depicted on a map of Duval County, Florida, entitled “Timucuan Ecological and Historic Preserve” numbered NA–TEHP 80,003–A and dated July 1987. The map shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior. The Secretary of the Interior may make minor revisions in the boundary of the Preserve in accordance with section 460<i>l</i>–9(c) of this title. The Preserve shall also include within its boundaries all that land consisting of approximately 500 acres adjacent to Fort Caroline National Memorial and known as the Theodore Roosevelt Preserve, being land formerly owned by one Willie Brown and donated by him to The Nature Conservancy.
+
+#### (2) Modification of boundary
+
+#### (A) In general
+
+&emsp;&emsp;In addition to the land described in paragraph (1), the Preserve shall include approximately 8.5 acres of land located in Nassau County, Florida, as generally depicted on the map entitled “Timucuan Ecological and Historic Preserve American Beach Adjustment”, numbered 006/80012 and dated June 2003.
+
+#### (B) Duties of Secretary
+
+&emsp;&emsp;The Secretary of the Interior shall—
+
+&emsp;&emsp;&emsp;(i) revise the boundaries of the Preserve so as to encompass the land described in subparagraph (A); and
+
+&emsp;&emsp;&emsp;(ii) maintain the map described in subparagraph (A) on file and available for public inspection in the appropriate offices of the National Park Service.
 
 #### (b) Land acquisition
 
@@ -16,9 +32,13 @@ The Secretary shall administer those lands acquired for inclusion within the Pre
 
 Nothing in sections 698n to 698p of this title shall affect development of a multiunit residential/resort project currently proposed for Fort George Island, nor shall any provision of sections 698n to 698p of this title be construed to affect any Federal, State or local law applicable to such project.
 
-(Pub. L. 100–249, title II, §201, Feb. 16, 1988, 102 Stat. 13.)
+(Pub. L. 100–249, title II, §201, Feb. 16, 1988, 102 Stat. 13; Pub. L. 108–321, §2, Oct. 5, 2004, 118 Stat. 1214.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 698p of this title.
+2004—Subsec. (a). Pub. L. 108–321 designated existing provisions as par. (1), inserted heading, substituted “There is” for “There is hereby”, and added par. (2).
+
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–321, §1, Oct. 5, 2004, 118 Stat. 1214, provided that: “This Act \[amending this section\] may be cited as the ‘Timucuan Ecological and Historic Preserve Boundary Revision Act of 2004’.”
 

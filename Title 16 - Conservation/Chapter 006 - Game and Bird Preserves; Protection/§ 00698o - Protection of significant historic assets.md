@@ -20,7 +20,3 @@ The Secretary, with the consent of the owners thereof, may acquire by donation o
 
 (Pub. L. 100–249, title II, §202, Feb. 16, 1988, 102 Stat. 14.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698n, 698p of this title.
-

@@ -44,8 +44,21 @@
 | (a) | Purpose. |
 | (b) | Establishment. |
 | (c) | Faculty, students, and curriculum. |
-| (d) | Omitted. |
+| (d) | Annual report. |
 | (e) | Funding. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER V—INTERNATIONAL CENTER FOR MIDDLE EASTERN-WESTERN DIALOGUE
+
+|  |  |
+| :--- | ---: |
+| [2078\.](Subchapter%20005%20%28V%29%20-%20International%20Center%20for%20Middle%20Eastern-Western%20Dialogue/%C2%A7%2002078%20-%20International%20Center%20for%20Middle%20Eastern-Western%20Dialogue%20Trust%20Fund.md) | International Center for Middle Eastern-Western Dialogue Trust Fund. |
+| (a) | Establishment. |
+| (b) | Duties of Secretary of State; investments. |
+| (c) | Authorization of appropriations. |
+| (d) | Authorization of additional appropriations. |
+| (e) | Ownership of Center location. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -58,3 +71,4 @@
 - [Subchapter 002 (II) - Western Hemispheric Center](Subchapter%20002%20%28II%29%20-%20Western%20Hemispheric%20Center/README.md)
 - [Subchapter 003 (III) - Dante B. Fascell North-South Center](Subchapter%20003%20%28III%29%20-%20Dante%20B.%20Fascell%20North-South%20Center/README.md)
 - [Subchapter 004 (IV) - International University](Subchapter%20004%20%28IV%29%20-%20International%20University/README.md)
+- [Subchapter 005 (V) - International Center for Middle Eastern-Western Dialogue](Subchapter%20005%20%28V%29%20-%20International%20Center%20for%20Middle%20Eastern-Western%20Dialogue/README.md)

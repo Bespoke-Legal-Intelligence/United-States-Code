@@ -36,7 +36,5 @@ Section effective on the first day of the first applicable pay period beginning 
 
 Pub. L. 107–273, div. A, title II, §207(d), Nov. 2, 2002, 116 Stat. 1780, provided that: “No later than 3 years after the effective date of this section \[see Effective Date note above\], the Office of Personnel Management, after consultation with affected agencies, shall submit a report to Congress assessing the effectiveness of the extended assignment incentive authority as a human resources management tool and making recommendations for any changes necessary to improve the effectiveness of the incentive authority. Each agency shall maintain such records and report such information, including the number and size of incentive offers made and accepted or declined by geographic location and occupation, in such format and at such times as the Office of Personnel Management may prescribe, for use in preparing the report.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5307 of this title.
+<i><sup>1</sup></i><i> Another section 5757 is set out preceding this section.</i>
 

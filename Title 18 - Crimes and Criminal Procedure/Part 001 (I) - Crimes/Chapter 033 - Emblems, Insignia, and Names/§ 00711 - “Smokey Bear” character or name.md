@@ -16,7 +16,3 @@ Pub. L. 103–322, §330004(4), struck out last par. which read as follows: “T
 
 Deposit of fees collected under regulations governing “Smokey Bear” and availability for use, see section 580p–2 of Title 16, Conservation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 sections 580p, 580p–3.
-

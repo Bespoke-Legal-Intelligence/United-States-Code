@@ -2,7 +2,7 @@
 
 (a) Notwithstanding the end of the period for which it was made, an allotment, including one for the purchase of United States savings bonds, made by a member of a uniformed service before he was in a missing status may be continued for the period he is entitled to pay and allowances under section 552 of this title.
 
-(b) When there is no allotment in effect, or when it is insufficient for a purpose authorized by the Secretary concerned, he, or his designee, may authorize new allotments or increases in allotments that are warranted by the circumstances and payable for the period the member is entitled to pay and allowances under section 552 of this title.
+(b) When there is no allotment in effect, or when it is insufficient for a purpose authorized by the Secretary concerned, he, or his designee, may authorize new allotments or increases inallotments that are warranted by the circumstances and payable for the period the member is entitled to pay and allowances under section 552 of this title.
 
 (c) The total of all allotments from the pay and allowances of a member in a missing status may not be more than the amount of pay and allowances he is permitted to allot under regulations prescribed by the Secretary concerned.
 
@@ -113,8 +113,4 @@ In subsection (h), the words “Secretary concerned” are substituted for “he
 Subsec. (g). Pub. L. 104–106, §569(c)(3)(B), inserted “or under chapter 76 of title 10” after “section 555 of this title”.
 
 1991—Subsecs. (e) to (g). Pub. L. 102–25 struck out “of this section” after “subsections (f) and (g)” in subsec. (e) and after “subsections (a)–(d)” in subsecs. (f) and (g).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 557, 559 of this title; title 10 section 1524.
 

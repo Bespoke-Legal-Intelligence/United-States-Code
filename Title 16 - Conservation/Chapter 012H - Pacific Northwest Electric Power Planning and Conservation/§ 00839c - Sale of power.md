@@ -8,7 +8,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 (1) Whenever requested, the Administrator shall offer to sell to each requesting public body and cooperative entitled to preference and priority under the Bonneville Project Act of 1937 \[16 U.S.C. 832 et seq.\] and to each requesting investor-owned utility electric power to meet the firm power load of such public body, cooperative or investor-owned utility in the Region to the extent that such firm power load exceeds—
 
-&emsp;(A) the capability of such entity's firm peaking and energy resources used in the year priorto December 5, 1980, to serve its firm load in the region, and
+&emsp;(A) the capability of such entity's firm peaking and energy resources used in the year prior to December 5, 1980, to serve its firm load in the region, and
 
 &emsp;(B) such other resources as such entity determines, pursuant to contracts under this chapter, will be used to serve its firm load in the region.
 
@@ -102,7 +102,7 @@ No resale.—A public body or cooperative to which a joint operating entity sell
 
 #### (e) Contractual entitlements to firm power
 
-(1) The contractual entitlement to firm power of any customer from whom, or on whose behalf, the Administrator has acquired electric powerpursuant to section 839d of this title may not be restricted below the amount of electric power so acquired from, or on behalf of, such customer. If in any year such customer's requirements are less than such entitlement, any excess of such entitlement shall be first made available to increase the entitlement of other customers of the same class before being available for the entitlement of other customers. For purposes of this paragraph, the following entities shall each constitute a class:
+(1) The contractual entitlement to firm power of any customer from whom, or on whose behalf, the Administrator has acquired electric power pursuant to section 839d of this title may not be restricted below the amount of electric power so acquired from, or on behalf of, such customer. If in any year such customer's requirements are less than such entitlement, any excess of such entitlement shall be first made available to increase the entitlement of other customers of the same class before being available for the entitlement of other customers. For purposes of this paragraph, the following entities shall each constitute a class:
 
 &emsp;(A) public bodies and cooperatives;
 
@@ -142,7 +142,7 @@ The Administrator is authorized to sell, or otherwise dispose of, electric power
 
 (6) Initial contracts offered public body, cooperative and Federal agency customers in accordance with this subsection shall provide that during a period of insufficiency declared in accordance with subsection (b) of this section each customer's contractual entitlement shall, to the extent of its requirements on the Administrator, be no less than the amount of firm power received from the Administrator in the year immediately preceding the period of insufficiency.
 
-(7) The Administrator shall be deemed to have sufficient resources for the purpose of entering into the initial contracts specified in paragraph (1)(A) through (D).
+(7) The Administrator shall be deemed to have sufficient resources for the purpose of enteringinto the initial contracts specified in paragraph (1)(A) through (D).
 
 (Pub. L. 96–501, §5, Dec. 5, 1980, 94 Stat. 2712; Pub. L. 106–273, §1, Sept. 22, 2000, 114 Stat. 802.)
 
@@ -157,8 +157,4 @@ Act of August 31, 1964, referred to in subsec. (f), is Pub. L. 88–552, Aug. 31
 #### Amendments
 
 2000—Subsec. (b)(7). Pub. L. 106–273 added par. (7).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 832m, 839d, 839e, 839f, 839g of this title.
 

@@ -1,5 +1,5 @@
 
-32 U.S.C.<br>United States Code, 2003 Edition<br>Title 32 - NATIONAL GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
+32 U.S.C.<br>United States Code, 2004 Edition<br>Title 32 - NATIONAL GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 32—NATIONAL GUARD
 
@@ -11,8 +11,13 @@
 | [<b>3.</b>](Chapter%20003%20-%20Personnel/README.md) | <b>Personnel</b> | <b>301</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Training/README.md) | <b>Training</b> | <b>501</b> |
 | [<b>7.</b>](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/README.md) | <b>Service, Supply, and Procurement</b> | <b>701</b> |
+| [<b>9.</b>](Chapter%20009%20-%20Homeland%20Defense%20Activities/README.md) | <b>Homeland Defense Activities</b> | <b>901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2004—Pub. L. 108–375, div. A, title V, §512(a)(2), Oct. 28, 2004, 118 Stat. 1880, added item for chapter 9.
 
 Table Showing Disposition of All Sections of Former Title 32
 
@@ -588,10 +593,6 @@ Section 35 of Pub. L. 85–861 provided that: “If on the effective date of thi
 
 Section 36 of Pub. L. 85–861 repealed certain laws except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
 
-#### Title Referred to in Other Sections
-
-This title is referred to in title 10 section 14317; title 36 section 40727; title 49 section 40125.
-
 
 ---
 
@@ -601,3 +602,4 @@ This title is referred to in title 10 section 14317; title 36 section 40727; tit
 - [Chapter 003 - Personnel](Chapter%20003%20-%20Personnel/README.md)
 - [Chapter 005 - Training](Chapter%20005%20-%20Training/README.md)
 - [Chapter 007 - Service, Supply, and Procurement](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/README.md)
+- [Chapter 009 - Homeland Defense Activities](Chapter%20009%20-%20Homeland%20Defense%20Activities/README.md)

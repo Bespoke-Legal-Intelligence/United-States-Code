@@ -78,7 +78,7 @@ Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e
 
 1992—Subsec. (b). Pub. L. 102–580, §508(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) In addition to any action which may be brought under subsection (a) of this section, a person whoknowingly violates this subchapter, regulations promulgated under this subchapter, or a permit issued under this subchapter shall be fined not more than $50,000, or imprisoned for not more than one year, or both.
+“(1) In addition to any action which may be brought under subsection (a) of this section, a person who knowingly violates this subchapter, regulations promulgated under this subchapter, or a permit issued under this subchapter shall be fined not more than $50,000, or imprisoned for not more than one year, or both.
 
 “(2) In addition to any action which may be brought under subsection (a) of this section, any person—
 
@@ -91,8 +91,4 @@ Subsec. (i). Pub. L. 102–508, §508(b), added subsec. (i).
 1988—Subsec. (a). Pub. L. 100–688, §3201(c), inserted provisions relating to civil penalty of not more than $125,000 for engaging in activity involving dumping of medical waste.
 
 Subsec. (b). Pub. L. 100–688, §3201(d), designated existing provisions as par. (1) and added par. (2).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1414c of this title.
 

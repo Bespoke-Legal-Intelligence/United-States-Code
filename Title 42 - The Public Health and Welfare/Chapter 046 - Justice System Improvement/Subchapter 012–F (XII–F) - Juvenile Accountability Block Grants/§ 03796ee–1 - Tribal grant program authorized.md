@@ -26,7 +26,3 @@ This Act, referred to in subsec. (d), is Pub. L. 90–351, June 19, 1968, 82 Sta
 
 A prior section 3796ee–1, Pub. L. 90–351, title I, §1802, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1820, related to State applications for grants, prior to the general amendment of this subchapter by Pub. L. 107–273.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3796ee–10 of this title.
-

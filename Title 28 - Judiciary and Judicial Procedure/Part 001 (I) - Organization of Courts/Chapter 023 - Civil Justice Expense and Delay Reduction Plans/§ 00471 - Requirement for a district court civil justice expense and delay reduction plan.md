@@ -1,6 +1,6 @@
 ### §471. Requirement for a district court civil justice expense and delay reduction plan
 
-There shall be implemented by each United States district court, in accordance with thischapter, a civil justice expense and delay reduction plan. The plan may be a plan developed by such district court or a model plan developed by the Judicial Conference of the United States. The purposes of each plan are to facilitate deliberate adjudication of civil cases on the merits, monitor discovery, improve litigation management, and ensure just, speedy, and inexpensive resolutions of civil disputes.
+There shall be implemented by each United States district court, in accordance with this chapter, a civil justice expense and delay reduction plan. The plan may be a plan developed by such district court or a model plan developed by the Judicial Conference of the United States. The purposes of each plan are to facilitate deliberate adjudication of civil cases on the merits, monitor discovery, improve litigation management, and ensure just, speedy, and inexpensive resolutions of civil disputes.
 
 (Added Pub. L. 101–650, title I, §103(a), Dec. 1, 1990, 104 Stat. 5090; amended Pub. L. 102–198, §2(1), Dec. 9, 1991, 105 Stat. 1623.)
 
@@ -88,7 +88,7 @@ Report.—Not later than June 30, 1997, the Judicial Conference of the United St
 
 #### Pilot Program
 
-Section 105 of Pub. L. 101–650, as amended by Pub. L. 103–420, §4, Oct. 25, 1994, 108 Stat. 4345; Pub. L. 104–317, title VI, §608(b), Oct. 19, 1996, 110 Stat. 3860, provided that:
+Section 105 of Pub. L. 101–650, as amended by Pub. L. 103–420, §4, Oct. 25, 1994, 108 Stat. 4345; Pub. L. 104–317,title VI, §608(b), Oct. 19, 1996, 110 Stat. 3860, provided that:
 
 “(a)
 

@@ -22,7 +22,7 @@ Numismatic operations and programs.—The term “numismatic operations and prog
 
 &emsp;&emsp;(A) means the activities concerning, and assets utilized in, the production, administration, sale, and management of numismatic items and the Numismatic Public Enterprise Fund; and
 
-&emsp;&emsp;(B) includes capital, personnel salaries, functions relating to operations, marketing, distribution, promotion, advertising, and official reception and representation, the acquisition or replacement of equipment, andthe renovation or modernization of facilities (other than the construction or acquisition of new buildings).
+&emsp;&emsp;(B) includes capital, personnel salaries, functions relating to operations, marketing, distribution, promotion, advertising, and official reception and representation, the acquisition or replacement of equipment, and the renovation or modernization of facilities (other than the construction or acquisition of new buildings).
 
 &emsp;(5)
 
@@ -304,7 +304,7 @@ The date of enactment of the Treasury, Postal Service, and General Government Ap
 
 #### Amendments
 
-2003—Subsec. (c)(4), (5). Pub. L. 108–15, §103(d)(2), redesignated par. (5) as (4) and struck out heading andtext of former par. (4). Text read as follows: “For purposes of paragraph (1), any expense incurred by the Secretary in connection with the Citizens Commemorative Coin Advisory Committee established under section 5135 shall be treated as an expense incurred for numismatic operations and programs which is an ordinary and reasonable incident of the numismatic business.”
+2003—Subsec. (c)(4), (5). Pub. L. 108–15, §103(d)(2), redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “For purposes of paragraph (1), any expense incurred by the Secretary in connection with the Citizens Commemorative Coin Advisory Committee established under section 5135 shall be treated as an expense incurred for numismatic operations and programs which is an ordinary and reasonable incident of the numismatic business.”
 
 Subsec. (f)(1). Pub. L. 108–15, §201(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund to any designated recipient organization unless—
 
@@ -352,7 +352,7 @@ In general.—As soon as practicable after the end of fiscal year 1992, the Secr
 
 &emsp;&emsp;“(ii) to provide working capital for Mint numismatic operations and programs; and
 
-&emsp;“(B) all numismatic receivables, and the numismatic operations and programs (including liabilities and other obligations) of the United States Mint, and the land and buildings of the San Francisco Mint, the Old San Francisco Mint, and the West Point Mint, capitalized at current book value as carried in the Mint combined statement of financial condition.
+&emsp;“(B) all numismatic receivables, and the numismatic operations and programs (including liabilitiesand other obligations) of the United States Mint, and the land and buildings of the San Francisco Mint, the Old San Francisco Mint, and the West Point Mint, capitalized at current book value as carried in the Mint combined statement of financial condition.
 
 “(2)
 
@@ -373,10 +373,6 @@ Numismatic receivable.—The term ‘numismatic receivable’ means any account 
 &emsp;“(C)
 
 Other terms.—The terms ‘Fund’ and ‘numismatic item’ have the meaning given to such terms in the amendment made by subsection (a) \[enacting this section\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5112, 5132, 5136 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

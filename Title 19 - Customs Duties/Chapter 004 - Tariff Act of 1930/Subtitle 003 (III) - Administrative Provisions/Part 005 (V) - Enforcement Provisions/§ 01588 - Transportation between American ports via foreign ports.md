@@ -4,7 +4,3 @@ If any merchandise is laden at any port or place in the United States upon any v
 
 (June 17, 1930, ch. 497, title IV, §588, 46 Stat. 749.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1554 of this title.
-

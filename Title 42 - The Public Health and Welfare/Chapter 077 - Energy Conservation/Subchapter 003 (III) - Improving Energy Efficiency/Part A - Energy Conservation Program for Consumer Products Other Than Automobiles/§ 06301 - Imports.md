@@ -4,7 +4,3 @@ Any covered product offered for importation in violation of section 6302 of this
 
 (Pub. L. 94–163, title III, §331, Dec. 22, 1975, 89 Stat. 928.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6316 of this title.
-

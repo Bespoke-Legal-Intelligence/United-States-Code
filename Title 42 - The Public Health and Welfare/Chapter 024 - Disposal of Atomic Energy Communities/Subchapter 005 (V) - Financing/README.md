@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—FINANCING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2307, 2344 of this title.
-
 
 ---
 

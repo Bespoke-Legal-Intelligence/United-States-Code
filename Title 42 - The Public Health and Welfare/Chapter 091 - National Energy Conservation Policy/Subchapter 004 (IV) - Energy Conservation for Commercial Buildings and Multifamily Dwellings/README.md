@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—ENERGY CONSERVATION FOR COMMERCIAL BUILDINGS AND MULTIFAMILY DWELLINGS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 12 sections 3602, 3618.
-
 
 ---
 

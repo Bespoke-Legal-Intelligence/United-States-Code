@@ -4,7 +4,3 @@ That for the purposes of acquiring non-Federal lands within the boundaries of sa
 
 (Apr. 25, 1947, ch. 41, §3, 61 Stat. 54.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 241f of this title.
-

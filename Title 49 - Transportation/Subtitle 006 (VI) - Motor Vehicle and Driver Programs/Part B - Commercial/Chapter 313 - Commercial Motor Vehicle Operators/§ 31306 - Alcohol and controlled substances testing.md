@@ -194,7 +194,3 @@ Study.—The Secretary \[of Transportation\] shall conduct a study of the feasib
 
 Report.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the study, together with such recommendations as the Secretary determines appropriate.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5331, 31301 of this title.
-

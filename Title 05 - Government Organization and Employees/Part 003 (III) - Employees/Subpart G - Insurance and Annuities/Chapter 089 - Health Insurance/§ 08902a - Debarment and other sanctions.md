@@ -48,7 +48,7 @@
 
 &emsp;(3) Any individual who directly or indirectly owns or has a control interest in a sanctioned entity and who knows or should know of the action constituting the basis for the entity's conviction of any offense described in subsection (b), assessment with a civil monetary penalty under subsection (d), or debarment from participation under this chapter.
 
-&emsp;(4) Any provider that the Office determines, in connection with claims presented under this chapter, has charged for health care services or supplies in an amount substantially in excess of such provider's customary charge for such services or supplies (unless the Office finds there is good cause for such charge), or charged for health care services or supplies which are substantially in excess of the needsof the covered individual or which are of a quality that fails to meet professionally recognized standards for such services or supplies.
+&emsp;(4) Any provider that the Office determines, in connection with claims presented under this chapter, has charged for health care services or supplies in an amount substantially in excess of such provider's customary charge for such services or supplies (unless the Office finds there is good cause for such charge), or charged for health care services or supplies which are substantially in excess of the needs of the covered individual or which are of a quality that fails to meet professionally recognized standards for such services or supplies.
 
 &emsp;(5) Any provider that the Office determines has committed acts described in subsection (d).
 
@@ -116,7 +116,7 @@
 
 &emsp;(B) request that appropriate investigations be made and sanctions invoked in accordance with applicable law and policy; and
 
-&emsp;(C) request that the State or local agency or authority keep the Office fully and currently informed with respect to any actions taken in response to the request.
+&emsp;(C) request that the State or local agency or authority keep the Office fully and currentlyinformed with respect to any actions taken in response to the request.
 
 (h)(1) Any provider of health care services or supplies that is the subject of an adverse determination by the Office under this section shall be entitled to reasonable notice and an opportunity to request a hearing of record, and to judicial review as provided in this subsection after the Office renders a final decision. The Office shall grant a request for a hearing upon a showing that due process rights have not previously been afforded with respect to any finding of fact which is relied upon as a cause for an adverse determination under this section. Such hearing shall be conducted without regard to subchapter II of chapter 5 and chapter 7 of this title by a hearing officer who shall be designated by the Director of the Office and who shall not otherwise have been involved in the adverse determination being appealed. A request for a hearing under this subsection shall be filed within such period and in accordance with such procedures as the Office shall prescribe by regulation.
 
@@ -146,7 +146,7 @@ Subsec. (b)(5). Pub. L. 105–266, §2(a)(2)(B), amended par. (5) generally. Pri
 
 &emsp;“(A) whose license to provide health care services or supplies has been revoked, suspended, restricted, or not renewed, by a State licensing authority for reasons relating to the provider's professional competence, professional performance, or financial integrity; or
 
-&emsp;“(B) that surrendered such a license while a formal disciplinary proceeding was pending before such anauthority, if the proceeding concerned the provider's professional competence, professional performance, or financial integrity.”
+&emsp;“(B) that surrendered such a license while a formal disciplinary proceeding was pending before such an authority, if the proceeding concerned the provider's professional competence, professional performance, or financial integrity.”
 
 Subsec. (c). Pub. L. 105–266, §2(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 

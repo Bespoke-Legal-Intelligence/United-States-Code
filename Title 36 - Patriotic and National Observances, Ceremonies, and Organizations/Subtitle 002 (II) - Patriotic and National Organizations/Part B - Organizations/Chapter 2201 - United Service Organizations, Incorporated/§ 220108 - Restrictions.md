@@ -14,7 +14,7 @@ Stock and Dividends.—The corporation may not issue stock or declare or pay a d
 
 (c)
 
-Political Activities.—The corporation shall be nonpolitical and may not provide financial aid or assistance to, or otherwise promote the candidacy of, an individual seeking electivepublic office. A substantial part of the activities of the corporation may not involve carrying on propaganda or otherwise attempting to influence legislation.
+Political Activities.—The corporation shall be nonpolitical and may not provide financial aid or assistance to, or otherwise promote the candidacy of, an individual seeking elective public office. A substantial part of the activities of the corporation may not involve carrying on propaganda or otherwise attempting to influence legislation.
 
 (d)
 

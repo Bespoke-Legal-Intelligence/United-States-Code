@@ -10,7 +10,7 @@ The Government National Mortgage Association, together with its functions, power
 
 #### (c) Studies of organization of housing and urban development functions and programs and recommendations regarding transfer of such functions and programs to or from Department
 
-The President shall undertake studies of the organization of housing and urban development functions and programs within the Federal Government, and he shall provide the Congress with the findings and conclusions of such studies, together with his recommendations regarding the transfer of such functions and programs to or from the Department. Notwithstanding any other provision of this chapter, none of the functions of the Secretary of the Interior authorized under the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–4 et seq.\] or other functions carried out by the Bureau of Outdoor Recreation shall be transferred from the Department of the Interior or in any way be limited geographically unless specifically provided for by reorganization plan pursuant to provisions of chapter 9 of title 5, or by statute.
+The President shall undertake studies of the organization of housing and urban developmentfunctions and programs within the Federal Government, and he shall provide the Congress with the findings and conclusions of such studies, together with his recommendations regarding the transfer of such functions and programs to or from the Department. Notwithstanding any other provision of this chapter, none of the functions of the Secretary of the Interior authorized under the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–4 et seq.\] or other functions carried out by the Bureau of Outdoor Recreation shall be transferred from the Department of the Interior or in any way be limited geographically unless specifically provided for by reorganization plan pursuant to provisions of chapter 9 of title 5, or by statute.
 
 #### (d) Prohibition of merger of Office
 
@@ -43,8 +43,4 @@ Amendment by Pub. L. 90–448 effective from and after a date, no more than 120 
 #### Transfer of Functions
 
 Pub. L. 89–174, §9(c), Sept. 9, 1965, 79 Stat. 670, set out as a note under section 3531 of this title, provides that references to the Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean the Secretary of Housing and Urban Development, pursuant to the transfer of functions under this section, and that the Housing and Home Finance Agency and the Public Housing Administration, a constituent agency therein, have lapsed.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3535 of this title.
 

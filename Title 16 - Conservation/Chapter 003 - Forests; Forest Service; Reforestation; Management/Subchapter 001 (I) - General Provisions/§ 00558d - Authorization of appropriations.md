@@ -12,7 +12,3 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 Section 2 of Pub. L. 95–289 provided that: “The amendment made by this Act to the Volunteers in the National Forests Act of 1972 \[amending this section\] shall become effective October 1, 1978.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 558c, 583j–4, 1246, 1250, 1282 of this title.
-

@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to administer as a part of the Glaci
 
 (July 31, 1939, ch. 395, 53 Stat. 1142.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 161d of this title.
-

@@ -46,7 +46,3 @@ A prior section 1825 was renumbered 3725 of this title and subsequently repealed
 
 Prior sections 1826 to 1830 were renumbered sections 3726 to 3730 of this title, respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1831 of this title.
-

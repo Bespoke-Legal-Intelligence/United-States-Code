@@ -4,7 +4,7 @@
 
 (2) Paragraph (1) of this subsection applies to a non-service-connected disability—
 
-&emsp;(A) that is incurred incident to the veteran's employment and that is covered under a workers’ compensation law or plan that provides for payment for the cost of health care and services provided to the veteran by reason of the disability;
+&emsp;(A) that is incurred incident to the veteran's employment and that is covered under a workers’ compensation law or plan that provides for payment for the cost of health care andservices provided to the veteran by reason of the disability;
 
 &emsp;(B) that is incurred as the result of a motor vehicle accident to which applies a State law that requires the owners or operators of motor vehicles registered in that State to have in force automobile accident reparations insurance;
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) that the provision of such care or services to the veteran meets criteria generally applicable under the health-plan contract involved.
 
-(2) A veteran described in this paragraph is a veteran who is a beneficiary of a health-plan contract under which recovery or collection is sought under this section from the third party concerned for the cost of the care or services furnished to the veteran.
+(2) A veteran described in this paragraph is a veteran who is a beneficiary of a health-plancontract under which recovery or collection is sought under this section from the third party concerned for the cost of the care or services furnished to the veteran.
 
 (3) Records shall be made available under this subsection under such conditions to protect the confidentiality of such records as the Secretary shall prescribe in regulations.
 
@@ -142,7 +142,7 @@ Subsec. (h)(1), (3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secreta
 
 1990—Subsec. (a)(2)(E). Pub. L. 101–508, §8011(a), added subpar. (E).
 
-Subsec. (c)(2)(B). Pub. L. 101–508, §8011(b), substituted “if provided by” for “in accordance with the prevailingrates at which the third party makes payments under comparable health-plan contracts with”.
+Subsec. (c)(2)(B). Pub. L. 101–508, §8011(b), substituted “if provided by” for “in accordance with the prevailing rates at which the third party makes payments under comparable health-plan contracts with”.
 
 Subsec. (g). Pub. L. 101–508, §8011(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Amounts collected or recovered on behalf of the United States under this section shall be deposited into the Treasury as miscellaneous receipts.”
 
@@ -197,8 +197,4 @@ Section 8011(d) of Pub. L. 101–508, as amended by Pub. L. 102–83, §5(c)(2),
 #### Reports on Implementation of 1986 Amendment
 
 Section 19013(c) of Pub. L. 99–272 directed Administrator of Veterans’ Affairs, not later than six months after Apr. 7, 1986, to submit to Committees on Veterans’ Affairs of Senate and House of Representatives a report on the process for and results of implementation of this section, as amended by subsection (a), such report to show costs of administration (and a detailed breakdown of such costs) and the amount of receipts and collections under this section, and not later than Feb. 1, 1988, to submit to such Committees a report updating the information in the report previously submitted and providing information on the process and results of such implementation through at least the end of fiscal year 1987.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1725, 1729A, 1781 of this title.
 

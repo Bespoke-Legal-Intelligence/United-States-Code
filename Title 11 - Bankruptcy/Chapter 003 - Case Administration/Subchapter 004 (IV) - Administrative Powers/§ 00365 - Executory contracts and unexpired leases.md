@@ -2,7 +2,7 @@
 
 (a) Except as provided in sections 765 and 766 of this title and in subsections (b), (c), and (d) of this section, the trustee, subject to the court's approval, may assume or reject any executory contract or unexpired lease of the debtor.
 
-(b)(1) If there has been a default in an executory contract or unexpired lease of the debtor, the trustee may not assume such contract or lease unless, at the time of assumption of such contract or lease, the trustee—
+(b)(1) If there has been a default in an executory contract or unexpired lease of the debtor,the trustee may not assume such contract or lease unless, at the time of assumption of such contract or lease, the trustee—
 
 &emsp;(A) cures, or provides adequate assurance that the trustee will promptly cure, such default;
 
@@ -50,7 +50,7 @@
 
 (3) The trustee shall timely perform all the obligations of the debtor, except those specified in section 365(b)(2), arising from and after the order for relief under any unexpired lease of nonresidential real property, until such lease is assumed or rejected, notwithstanding section 503(b)(1) of this title. The court may extend, for cause, the time for performance of any such obligation that arises within 60 days after the date of the order for relief, but the time for performance shall not be extended beyond such 60-day period. This subsection shall not be deemed to affect the trustee's obligations under the provisions of subsection (b) or (f) of this section. Acceptance of any such performance does not constitute waiver or relinquishment of the lessor's rights under such lease or under this title.
 
-(4) Notwithstanding paragraphs (1) and (2), in a case under any chapter of this title, if the trustee does not assume or reject an unexpired lease of nonresidential real property under which the debtor is the lessee within 60 days after the date of the order for relief, or within such additional time as the court, for cause, within such 60-day period, fixes, then such lease is deemed rejected, and the trustee shall immediately surrender such nonresidential real property to the lessor.
+(4) Notwithstanding paragraphs (1) and (2), in a case under any chapter of this title, if the trustee does not assume or reject an unexpiredlease of nonresidential real property under which the debtor is the lessee within 60 days after the date of the order for relief, or within such additional time as the court, for cause, within such 60-day period, fixes, then such lease is deemed rejected, and the trustee shall immediately surrender such nonresidential real property to the lessor.
 
 (5) Notwithstanding paragraphs (1) and (4) of this subsection, in a case under any chapter of this title, if the trustee does not assume or reject an unexpired lease of nonresidential real property under which the debtor is an affected air carrier that is the lessee of an aircraft terminal or aircraft gate before the occurrence of a termination event, then (unless the court orders the trustee to assume such unexpired leases within 5 days after the termination event), at the option of the airport operator, such lease is deemed rejected 5 days after the occurrence of a termination event and the trustee shall immediately surrender possession of the premises to the airport operator; except that the lease shall not be deemed to be rejected unless the airport operator first waives the right to damages related to the rejection. In the event that the lease is deemed to be rejected under this paragraph, the airport operator shall provide the affected air carrier adequate opportunity after the surrender of the premises to remove the fixtures and equipment installed by the affected air carrier.
 
@@ -84,7 +84,7 @@
 
 (2) Paragraph (1) of this subsection does not apply to an executory contract or unexpired lease of the debtor, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties, if—
 
-&emsp;(A)(i) applicable law excuses a party, other than the debtor, to such contract or lease from accepting performance from or rendering performance to the trustee or to an assignee of such contract or lease, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties; and
+&emsp;(A)(i) applicable law excuses a party, other than the debtor, to such contract or lease from accepting performance from or rendering performance to the trustee or to an assignee of such contract or lease, whether or not suchcontract or lease prohibits or restricts assignment of rights or delegation of duties; and
 
 &emsp;(ii) such party does not consent to such assumption or assignment; or
 
@@ -132,7 +132,7 @@
 
 &emsp;(ii) if the term of such timeshare interest has commenced, then the timeshare interest purchaser may retain its rights in such timeshare interest for the balance of such term and for any term of renewal or extension of such timeshare interest to the extent that such rights are enforceable under applicable nonbankruptcy law.
 
-(B) If the timeshare interest purchaser retains its rights under subparagraph (A), such timeshare interest purchaser may offset against the moneys due for such timeshare interest for the balance of the term after the date of the rejection of such timeshare interest, and the term of any renewal or extension of such timeshare interest, the value of any damage caused by the nonperformance after the date of such rejection, of any obligation of the debtor under such timeshare plan, but the timeshare interest purchaser shall not have any right against the estate or the debtor on account of any damage occurring after such date caused by such nonperformance.
+(B) If the timeshare interest purchaser retains its rights under subparagraph (A), such timeshare interest purchaser may offset against the moneys due for such timeshare interest for the balance of the term after the date of the rejection of such timeshare interest, and the term of any renewal or extension of such timeshare interest, the value of any damage caused by the nonperformance after the date of such rejection,of any obligation of the debtor under such timeshare plan, but the timeshare interest purchaser shall not have any right against the estate or the debtor on account of any damage occurring after such date caused by such nonperformance.
 
 (i)(1) If the trustee rejects an executory contract of the debtor for the sale of real property or for the sale of a timeshare interest under a timeshare plan, under which the purchaser is in possession, such purchaser may treat such contract as terminated, or, in the alternative, may remain in possession of such real property or timeshare interest.
 
@@ -154,7 +154,7 @@
 
 &emsp;(A) to treat such contract as terminated by such rejection if such rejection by the trustee amounts to such a breach as would entitle the licensee to treat such contract as terminated by virtue of its own terms, applicable nonbankruptcy law, or an agreement made by the licensee with another entity; or
 
-&emsp;(B) to retain its rights (including a right to enforce any exclusivity provision of such contract, but excluding any other right under applicable nonbankruptcy law to specific performance of such contract) under such contract and under any agreement supplementaryto such contract, to such intellectual property (including any embodiment of such intellectual property to the extent protected by applicable nonbankruptcy law), as such rights existed immediately before the case commenced, for—
+&emsp;(B) to retain its rights (including a right to enforce any exclusivity provision of such contract, but excluding any other right under applicable nonbankruptcy law to specific performance of such contract) under such contract and under any agreement supplementary to such contract, to such intellectual property (including any embodiment of such intellectual property to the extent protected by applicable nonbankruptcy law), as such rights existed immediately before the case commenced, for—
 
 &emsp;&emsp;(i) the duration of such contract; and
 
@@ -230,7 +230,7 @@ Subsection (d) places time limits on assumption and rejection. In a liquidation 
 
 Subsection (e) invalidates ipso facto or bankruptcy clauses. These clauses, protected under present law, automatically terminate the contract or lease, or permit the other contracting party to terminate the contract or lease, in the event of bankruptcy. This frequently hampers rehabilitation efforts. If the trustee may assume or assign the contract under the limitations imposed by the remainder of the section, the contract or lease may be utilized to assist in the debtor's rehabilitation or liquidation.
 
-The unenforcibility \[sic\] of ipso facto or bankruptcy clauses proposed under this section will require the courts to be sensitive to the rights of the nondebtor party to executory contracts and unexpired leases. If the trustee is to assume a contract or lease, the court will have to insure that the trustee's performance under the contract or lease gives the other contracting party the full benefit of his bargain.
+The unenforcibility \[sic\] of ipso facto or bankruptcy clauses proposed under this section will require the courts to be sensitive to the rights of the nondebtor party to executory contracts and unexpired leases. If the trustee is to assume a contract or lease, the courtwill have to insure that the trustee's performance under the contract or lease gives the other contracting party the full benefit of his bargain.
 
 This subsection does not limit the application of an ipso facto or bankruptcy clause if a new insolvency or receivership occurs after the bankruptcy case is closed. That is, the clause is not invalidated in toto, but merely made inapplicable during the case for the purposes of disposition of the executory contract or unexpired lease.
 
@@ -248,7 +248,7 @@ Subsection (k) relieves the trustee and the estate of liability for a breach of 
 
 #### house report no. 95–595
 
-Subsection (c) prohibits the trustee from assuming or assigning a contract or lease if applicable nonbankruptcy law excuses the other party from performance to someone other than the debtor, unless the other party consents. This prohibition applies only in the situation in which applicable law excuses the other party from performance independent of any restrictive language in the contract or lease itself. The purpose ofthis subsection, at least in part, is to prevent the trustee from requiring new advances of money or other property. The section permits the trustee to continue to use and pay for property already advanced, but is not designed to permit the trustee to demand new loans or additional transfers of property under lease commitments.
+Subsection (c) prohibits the trustee from assuming or assigning a contract or lease if applicable nonbankruptcy law excuses the other party from performance to someone other than the debtor, unless the other party consents. This prohibition applies only in the situation in which applicable law excuses the other party from performance independent of any restrictive language in the contract or lease itself. The purpose of this subsection, at least in part, is to prevent the trustee from requiring new advances of money or other property. The section permits the trustee to continue to use and pay for property already advanced, but is not designed to permit the trustee to demand new loans or additional transfers of property under lease commitments.
 
 Thus, under this provision, contracts such as loan commitments and letters of credit are nonassignable, and may not be assumed by the trustee.
 
@@ -361,8 +361,4 @@ Section 19(a) of Pub. L. 102–365 provided that: “Congress finds that—
 &emsp;“(2) the commerce in the region served by such a major airport can be disrupted if the air carrier that leases most of its gates enters bankruptcy and either discontinues or materially reduces service; and
 
 &emsp;“(3) it is important that such airports be empowered to continue service in the event of such a disruption.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 348, 363, 502, 541, 553, 555, 556, 557, 559, 560, 744, 901, 929, 1110, 1123, 1124, 1167, 1168, 1169, 1222, 1322 of this title.
 

@@ -38,7 +38,3 @@ The Secretary shall initiate a 5-year program, in accordance with sections 13541
 
 (Pub. L. 102–486, title XXI, §2104, Oct. 24, 1992, 106 Stat. 3069.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13451 of this title.
-

@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §24; added Apr. 2, 1987, Pub. L. 100–17, §325, 101 Stat. 237.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 13931.
-

@@ -1,6 +1,6 @@
 ### §8905a. Continued coverage
 
-(a) Any individual described in paragraph (1) or (2) of subsection (b) may elect to continue coverage under this chapter in accordance with the provisions of this section.
+(a) Any individual described in subsection (b) may elect to continue coverage under this chapter in accordance with the provisions of this section.
 
 (b) This section applies with respect to—
 
@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) is separated from service, whether voluntarily or involuntarily, except that if the separation is involuntary, this section shall not apply if the separation is for gross misconduct (as defined under regulations which the Office of Personnel Management shall prescribe); and
 
-&emsp;&emsp;(B) would not otherwise be eligible for any benefits under this chapter (determined without regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract); and
+&emsp;&emsp;(B) would not otherwise be eligible for any benefits under this chapter (determined without regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract);
 
 &emsp;(2) any individual who—
 
@@ -16,7 +16,19 @@
 
 &emsp;&emsp;(B) on the day before so ceasing to meet the requirements referred to in subparagraph (A), was covered under a health benefits plan under this chapter as a member of the family of an employee or annuitant; and
 
-&emsp;&emsp;(C) would not otherwise be eligible for any benefits under this chapter (determined without regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract).
+&emsp;&emsp;(C) would not otherwise be eligible for any benefits under this chapter (determined without regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract); and
+
+&emsp;(3) any employee who—
+
+&emsp;&emsp;(A) is enrolled in a health benefits plan under this chapter;
+
+&emsp;&emsp;(B) is a member of a reserve component of the armed forces;
+
+&emsp;&emsp;(C) is called or ordered to active duty in support of a contingency operation (as defined in section 101(a)(13) of title 10);
+
+&emsp;&emsp;(D) is placed on leave without pay or separated from service to perform active duty; and
+
+&emsp;&emsp;(E) serves on active duty for a period of more than 30 consecutive days.
 
 (c)(1) The Office shall prescribe regulations and provide for the inclusion of appropriate terms in contracts with carriers to provide that—
 
@@ -96,9 +108,11 @@
 
 (e)(1) Continued coverage under this section may not extend beyond—
 
-&emsp;(A) in the case of an individual whose continued coverage is based on separation from service, the date which is 18 months after the effective date of the separation; or
+&emsp;(A) in the case of an individual whose continued coverage is based on separation from service, the date which is 18 months after the effective date of the separation;
 
-&emsp;(B) in the case of an individual whose continued coverage is based on ceasing to meet the requirements for being considered an unmarried dependent child, the date which is 36 months after the date on which the individual first ceases to meet those requirements, subject to paragraph (2).
+&emsp;(B) in the case of an individual whose continued coverage is based on ceasing to meet the requirements for being considered an unmarried dependent child, the date which is 36 months after the date on which the individual first ceases to meet those requirements, subject to paragraph (2); or
+
+&emsp;(C) in the case of an employee described in subsection (b)(3), the date which is 24 months after the employee is placed on leave without pay or separated from service to perform active duty.
 
 (2) In the case of an individual who—
 
@@ -138,7 +152,7 @@
 
 > extended coverage under this section may not extend beyond the date which is 36 months after the date of the separation from service, as referred to in subparagraph (A).
 
-(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, §1104(c), div. C, title XXXII, §3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, §1106, Nov. 30, 1999, 113 Stat. 1598; Pub. L. 107–314, div. D, title XLVI, §4603(h), formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3136(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–459, renumbered §4603(h) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(i)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 107–314, div. A, title XI, §1103, Dec. 2, 2002, 116 Stat. 2661; Pub. L. 108–136, div. C, title XXXI, §3141(m)(3), Nov. 24, 2003, 117 Stat. 1787.)
+(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, §1104(c), div. C, title XXXII, §3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, §1106, Nov. 30, 1999, 113 Stat. 1598; Pub. L. 107–314, div. A, title XI, §1103, Dec. 2, 2002, 116 Stat. 2661; Pub. L. 107–314, div. D, title XLVI, §4603(h), formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3136(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–459, renumbered §4603(h) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(i)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 108–136, div. C, title XXXI, §3141(m)(3), Nov. 24, 2003, 117 Stat. 1787; Pub. L. 108–375, div. A, title XI, §1101(a), Oct. 28, 2004, 118 Stat. 2072.)
 
 #### References in Text
 
@@ -150,7 +164,13 @@ The date of the enactment of this paragraph, referred to in subsec. (d)(5)(B), i
 
 #### Amendments
 
-2003—Subsec. (d)(5)(A). Pub. L. 108–136 substituted “section 4421 of the Atomic Energy Defense Act” for “section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)”.
+2004—Subsec. (a). Pub. L. 108–375, §1101(a)(1), struck out “paragraph (1) or (2) of” after “Any individual described in”.
+
+Subsec. (b)(3). Pub. L. 108–375, §1101(a)(2), added par. (3).
+
+Subsec. (e)(1)(C). Pub. L. 108–375, §1101(a)(4), added subpar. (C).
+
+2003—Subsec. (d)(5)(A). Pub. L. 108–136, §3141(m)(3), substituted “section 4421 of the Atomic Energy Defense Act” for “section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)”.
 
 2002—Subsec. (d)(4)(B)(i). Pub. L. 107–314, §1103(1), substituted “2006” for “2003”.
 
@@ -184,6 +204,10 @@ Subsec. (d)(2). Pub. L. 102–484, §4438(a)(2), substituted “in accordance wi
 
 Subsec. (d)(4). Pub. L. 102–484, §4438(a)(3), added par. (4).
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–375, div. A, title XI, §1101(c), Oct. 28, 2004, 118 Stat. 2072, provided that: “The amendments made by this section \[amending this section and section 8906 of this title\] shall apply with respect to Federal employees called or ordered to active duty on or after September 14, 2001.”
+
 #### Effective Date of 1999 Amendment
 
 Amendment by section 3244 of Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as an Effective Date note under section 2401 of Title 50, War and National Defense.
@@ -195,8 +219,4 @@ Section applicable with respect to any calendar year beginning, and contracts en
 #### Source of Payments
 
 Section 4438(b)(1) of Pub. L. 102–484 provided that: “Any amount which becomes payable by an agency as a result of the enactment of subsection (a) \[amending this section\] shall be paid out of funds or appropriations available for salaries and expenses of such agency.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8902, 8903, 8905, 8909 of this title; title 10 sections 1078a, 1086a, 1145.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—CONSERVATION AND UTILIZATION PROJECTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 43 section 505.
-
 
 ---
 

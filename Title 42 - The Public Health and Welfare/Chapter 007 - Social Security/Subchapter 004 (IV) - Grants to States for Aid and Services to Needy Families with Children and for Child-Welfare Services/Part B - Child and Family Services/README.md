@@ -6,10 +6,6 @@ Part B—Child and Family Services
 
 1968—Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 911, added part B heading.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 247b–16, 280g, 300z–5, 671, 672, 673b, 674, 675, 676, 679b, 1302, 1320a–2a, 1320a–9, 5106a of this title; title 8 sections 1255a, 1522, 1613; title 25 section 1931; title 40 section 14502.
-
 
 ---
 

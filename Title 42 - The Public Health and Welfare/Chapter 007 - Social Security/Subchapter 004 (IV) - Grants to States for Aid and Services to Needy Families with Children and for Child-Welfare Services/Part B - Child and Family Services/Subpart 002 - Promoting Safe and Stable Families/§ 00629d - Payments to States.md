@@ -40,7 +40,3 @@ Subsec. (b)(2). Pub. L. 107–133, §104(b)(2), substituted “subsection (a)”
 
 Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L. 107–133, set out as a note under section 629 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 629b, 629g, 673b of this title.
-

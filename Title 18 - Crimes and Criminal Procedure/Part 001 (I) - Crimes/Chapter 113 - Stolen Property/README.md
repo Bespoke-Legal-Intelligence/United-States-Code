@@ -9,7 +9,7 @@
 | [2315\.](%C2%A7%2002315%20-%20Sale%20or%20receipt%20of%20stolen%20goods%2C%20securities%2C%20moneys%2C%20or%20fraudulent%20State%20tax%20stamps.md) | Sale or receipt of stolen goods, securities, moneys, or fraudulent State tax stamps. |
 | [2316\.](%C2%A7%2002316%20-%20Transportation%20of%20livestock.md) | Transportation of livestock. |
 | [2317\.](%C2%A7%2002317%20-%20Sale%20or%20receipt%20of%20livestock.md) | Sale or receipt of livestock. |
-| [2318\.](%C2%A7%2002318%20-%20Trafficking%20in%20counterfeit%20labels%20for%20phonorecords%2C%20copies%20of%20computer%20programs%20or%20computer%20program%20documentation%20or%20packaging%2C%20and%20copies%E2%80%A6.md) | Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging. |
+| [2318\.](%C2%A7%2002318%20-%20Trafficking%20in%20counterfeit%20labels%2C%20illicit%20labels%2C%20or%20counterfeit%20documentation%20or%20packaging.md) | Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging. |
 | [2319\.](%C2%A7%2002319%20-%20Criminal%20infringement%20of%20a%20copyright.md) | Criminal infringement of a copyright. |
 | [2319A.](%C2%A7%2002319A%20-%20Unauthorized%20fixation%20of%20and%20trafficking%20in%20sound%20recordings%20and%20music%20videos%20of%20live%20musical%20performances.md) | Unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances. |
 | [2320\.](%C2%A7%2002320%20-%20Trafficking%20in%20counterfeit%20goods%20or%20services.md) | Trafficking in counterfeit goods or services. |
@@ -20,7 +20,9 @@
 
 #### Amendments
 
-1996—Pub. L. 104–153, §4(b)(2), July 2, 1996, 110 Stat. 1387, substituted “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” for “Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works” in item 2318.
+2004—Pub. L. 108–482, title I, §102(c), Dec. 23, 2004, 118 Stat. 3915, substituted “Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging” for “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” in item 2318.
+
+1996—Pub. L. 104–153, §4(b)(2), July 2, 1996, 110 Stat. 1387, substituted “Trafficking in counterfeit labels forphonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” for “Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works” in item 2318.
 
 1994—Pub. L. 103–465, title V, §513(b), Dec. 8, 1994, 108 Stat. 4976, added item 2319A.
 
@@ -52,7 +54,7 @@ Pub. L. 98–473, title II, §§1115, 1502(b), Oct. 12, 1984, 98 Stat. 2149, 217
 - [&sect; 02315 - Sale or receipt of stolen goods, securities, moneys, or fraudulent State tax stamps](%C2%A7%2002315%20-%20Sale%20or%20receipt%20of%20stolen%20goods%2C%20securities%2C%20moneys%2C%20or%20fraudulent%20State%20tax%20stamps.md)
 - [&sect; 02316 - Transportation of livestock](%C2%A7%2002316%20-%20Transportation%20of%20livestock.md)
 - [&sect; 02317 - Sale or receipt of livestock](%C2%A7%2002317%20-%20Sale%20or%20receipt%20of%20livestock.md)
-- [&sect; 02318 - Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies&#8230;](%C2%A7%2002318%20-%20Trafficking%20in%20counterfeit%20labels%20for%20phonorecords%2C%20copies%20of%20computer%20programs%20or%20computer%20program%20documentation%20or%20packaging%2C%20and%20copies%E2%80%A6.md)
+- [&sect; 02318 - Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging](%C2%A7%2002318%20-%20Trafficking%20in%20counterfeit%20labels%2C%20illicit%20labels%2C%20or%20counterfeit%20documentation%20or%20packaging.md)
 - [&sect; 02319 - Criminal infringement of a copyright](%C2%A7%2002319%20-%20Criminal%20infringement%20of%20a%20copyright.md)
 - [&sect; 02319A - Unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances](%C2%A7%2002319A%20-%20Unauthorized%20fixation%20of%20and%20trafficking%20in%20sound%20recordings%20and%20music%20videos%20of%20live%20musical%20performances.md)
 - [&sect; 02320 - Trafficking in counterfeit goods or services](%C2%A7%2002320%20-%20Trafficking%20in%20counterfeit%20goods%20or%20services.md)

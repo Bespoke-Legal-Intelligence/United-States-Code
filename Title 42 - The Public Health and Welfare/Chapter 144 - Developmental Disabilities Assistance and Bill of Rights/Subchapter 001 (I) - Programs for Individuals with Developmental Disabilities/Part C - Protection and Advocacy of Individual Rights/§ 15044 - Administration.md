@@ -26,7 +26,7 @@ In a State in which the system described in section 15043 of this title is organ
 
 &emsp;&emsp;(B) on which a majority of the members shall be—
 
-&emsp;&emsp;&emsp;(i) individuals with developmental disabilities who are eligible for services, orhave received or are receiving services, through the system; or
+&emsp;&emsp;&emsp;(i) individuals with developmental disabilities who are eligible for services, or have received or are receiving services, through the system; or
 
 &emsp;&emsp;&emsp;(ii) parents, family members, guardians, advocates, or authorized representatives of individuals referred to in clause (i).
 

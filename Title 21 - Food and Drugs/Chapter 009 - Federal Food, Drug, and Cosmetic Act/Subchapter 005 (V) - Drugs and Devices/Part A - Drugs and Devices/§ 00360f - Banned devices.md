@@ -20,7 +20,3 @@ The Secretary may declare a proposed regulation under subsection (a) of this sec
 
 1990—Subsec. (a). Pub. L. 101–629 struck out “and after consultation with the appropriate panel or panels under section 360c of this title” after “data and information” in introductory provisions and struck out at end “The Secretary shall afford all interested persons opportunity for an informal hearing on a regulation proposed under this subsection.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 360c, 360e, 360g, 360j, 381, 382 of this title.
-

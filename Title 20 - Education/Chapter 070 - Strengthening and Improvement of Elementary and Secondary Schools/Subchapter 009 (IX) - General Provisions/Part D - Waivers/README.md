@@ -1,9 +1,5 @@
 Part D—Waivers
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 6311, 7802 of this title.
-
 
 ---
 

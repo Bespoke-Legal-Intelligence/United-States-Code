@@ -40,7 +40,7 @@
 
 (B) With respect to the postage for the advertising pound portion of any mail matter under former section 4358 (d) or (e) of this title, the 5-percent discount specified in subparagraph (A) shall not apply if the advertising portion exceeds 10 percent of the publication involved.
 
-(5) The rates for any advertising under former section 4358(f) of this title shall be equal to 75percent of the rates for advertising contained in the most closely corresponding regular-rate category of mail.
+(5) The rates for any advertising under former section 4358(f) of this title shall be equal to 75 percent of the rates for advertising contained in the most closely corresponding regular-rate category of mail.
 
 (6) The rates for mail matter under former sections 4452 (b) and (c) of this title shall be established as follows:
 
@@ -88,7 +88,7 @@
 
 &emsp;(A) any credit, debit, or charge card, or similar financial instrument or account, provided by or through an arrangement with any person or organization not authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title;
 
-&emsp;(B) any insurance policy, unless the organization which promotes the purchase of suchpolicy is authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title, the policy is designed for and primarily promoted to the members, donors, supporters, or beneficiaries of the organization, and the coverage provided by the policy is not generally otherwise commercially available;
+&emsp;(B) any insurance policy, unless the organization which promotes the purchase of such policy is authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title, the policy is designed for and primarily promoted to the members, donors, supporters, or beneficiaries of the organization, and the coverage provided by the policy is not generally otherwise commercially available;
 
 &emsp;(C) any travel arrangement, unless the organization which promotes the arrangement is authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title, the travel contributes substantially (aside from the cultivation of members, donors, or supporters, or the acquisition of income or funds) to one or more of the purposes which constitutes the basis for the organization's authorization to mail at such rates, and the arrangement is designed for and primarily promoted to the members, donors, supporters, or beneficiaries of the organization; or
 
@@ -194,7 +194,7 @@ Pub. L. 101–509, §1(a), added subsec. (k) relating to mailing of matter at in
 
 1986—Subsec. (a). Pub. L. 99–272, §15102(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If the rates of postage for any class of mail or kind of mailer under former sections 4358, 4359, 4421, 4422, 4452, or 4554 of this title, as such rates existed on the effective date of this subchapter, are, on the effective date of the first rate decision under this subchapter affecting that class or kind, less than the rates established by such decision, a separate rate schedule shall be adopted for that class or kind effective each time rates are established or changed under this subchapter, with annual increases as nearly equal as practicable, so that—
 
-&emsp;“(1) the revenues received from rates for mail under former sections 4358, 4452(b) and (c), 4554(b) and (c)shall not, on and after the first day of the sixteenth year following the effective date of the first rate decision applicable to that class or kind, exceed the direct and indirect postal costs attributable to mail of such class or kind (excluding all other costs of the Postal Service);
+&emsp;“(1) the revenues received from rates for mail under former sections 4358, 4452(b) and (c), 4554(b) and (c) shall not, on and after the first day of the sixteenth year following the effective date of the first rate decision applicable to that class or kind, exceed the direct and indirect postal costs attributable to mail of such class or kind (excluding all other costs of the Postal Service);
 
 &emsp;“(2) the rates for mail under former sections 4359, 4421, 4422, and 4554(a) shall be equal, on and after the first day of the eighth year following the effective date of the first rate decision applicable to that class or kind, to the rates that would have been in effect for such mail if this subparagraph had not been enacted; and
 
@@ -263,8 +263,4 @@ Effective Date and Applicability.—The provisions of this section shall become 
 #### Construction Respecting Postage Rates Reduction Unauthorized
 
 Section 2 of Pub. L. 93–328 provided that: “Nothing in section 1 of this Act \[amending this section\] shall be construed to authorize a reduction in any rate of postage in effect and being paid on the date of enactment of this Act \[June 30, 1974\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2401, 3629, 3642 of this title.
 

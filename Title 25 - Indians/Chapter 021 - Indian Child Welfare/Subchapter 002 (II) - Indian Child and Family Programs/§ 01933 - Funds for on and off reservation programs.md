@@ -14,7 +14,3 @@ Funds for the purposes of this chapter may be appropriated pursuant to the provi
 
 “Secretary of Health and Human Services” and “Department of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” and “Department of Health, Education, and Welfare”, respectively, in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1934 of this title.
-

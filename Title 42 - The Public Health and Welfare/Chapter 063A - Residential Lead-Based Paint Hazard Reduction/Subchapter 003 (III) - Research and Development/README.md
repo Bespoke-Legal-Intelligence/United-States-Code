@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—RESEARCH AND DEVELOPMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 4856 of this title.
-
 
 ---
 

@@ -4,7 +4,3 @@ Notwithstanding any other provision of sections 228a to 228j of this title (1) l
 
 (Pub. L. 93–620, §5, Jan. 3, 1975, 88 Stat. 2090.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 227, 228a to 228c, 228e to 228i, 228j of this title.
-

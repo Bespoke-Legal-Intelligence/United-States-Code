@@ -14,7 +14,7 @@
 
 I74legislative statements
 
-The House amendment adopts section 501(b) of the Senate amendment leaving the Rules of BankruptcyProcedure free to determine where a proof of claim must be filed.
+The House amendment adopts section 501(b) of the Senate amendment leaving the Rules of Bankruptcy Procedure free to determine where a proof of claim must be filed.
 
 Section 501(c) expands language contained in section 501(c) of the House bill and Senate amendment to permit the debtor to file a proof of claim if a creditor does not timely file a proof of the creditor's claim in a case under title 11.
 
@@ -49,8 +49,4 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Child Support Creditors or Their Representatives; Appearance Before Court
 
 Pub. L. 103–394, title III, §304(g), Oct. 22, 1994, 108 Stat. 4134, provided that: “Child support creditors or their representatives shall be permitted to appear and intervene without charge, and without meeting any special local court rule requirement for attorney appearances, in any bankruptcy case or proceeding in any bankruptcy court or district court of the United States if such creditors or representatives file a form in such court that contains information detailing the child support debt, its status, and other characteristics.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 502, 506, 726, 727, 901, 925, 944, 1111, 1141 of this title.
 

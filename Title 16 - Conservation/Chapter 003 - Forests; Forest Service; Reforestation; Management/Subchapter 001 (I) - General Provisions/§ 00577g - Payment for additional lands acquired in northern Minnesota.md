@@ -8,7 +8,3 @@ The Secretary of the Treasury, upon the certification of the Secretary of Agricu
 
 Section, as amended by act June 22, 1956, ch. 425, §2, 70 Stat. 328, is set out as section 577g–1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 577d–1, 577h, 1133 of this title; title 31 section 6903.
-

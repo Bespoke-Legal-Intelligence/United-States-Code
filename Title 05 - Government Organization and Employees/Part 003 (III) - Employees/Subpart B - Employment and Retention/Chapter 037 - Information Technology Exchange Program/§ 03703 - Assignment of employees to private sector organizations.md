@@ -58,7 +58,9 @@ Section 3(a)(2) of the Small Business Act, referred to in subsec. (e)(2)(A), is 
 
 The date of the enactment of this chapter, referred to in subsec. (e)(2)(B), is the date of enactment of Pub. L. 107–347, which was approved Dec. 17, 2002.
 
-#### Section Referred to in Other Sections
+#### Change of Name
 
-This section is referred to in section 3702 of this title.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
 

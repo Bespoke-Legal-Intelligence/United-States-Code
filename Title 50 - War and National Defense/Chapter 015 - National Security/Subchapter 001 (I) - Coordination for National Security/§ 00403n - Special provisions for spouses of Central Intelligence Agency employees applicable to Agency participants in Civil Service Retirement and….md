@@ -6,15 +6,17 @@ The provisions of sections 2002, 2031(b)(1)–(3), 2031(f), 2031(g), 2031(h)(2),
 
 #### (b) Regulations
 
-The Director of the Office of Personnel Management, in consultation with the Director of Central Intelligence, shall prescribe such regulations as may be necessary to implement the provisions of this section.
+The Director of the Office of Personnel Management, in consultation with the Director of the Central Intelligence Agency, shall prescribe such regulations as may be necessary to implement the provisions of this section.
 
-(June 20, 1949, ch. 227, §14, as added Pub. L. 97–269, title VI, §612, Sept. 27, 1982, 96 Stat. 1154; amended Pub. L. 99–569, title III, §302(b), Oct. 27, 1986, 100 Stat. 3194; Pub. L. 100–178, title IV, §§401(b), 402(b)(3), Dec. 2, 1987, 101 Stat. 1013, 1014; Pub. L. 102–496, title VIII, §803(a)(1), Oct. 24, 1992, 106 Stat. 3251.)
+(June 20, 1949, ch. 227, §14, as added Pub. L. 97–269, title VI, §612, Sept. 27, 1982, 96 Stat. 1154; amended Pub. L. 99–569, title III, §302(b), Oct. 27, 1986, 100 Stat. 3194; Pub. L. 100–178, title IV, §§401(b), 402(b)(3), Dec. 2, 1987, 101 Stat. 1013, 1014; Pub. L. 102–496, title VIII, §803(a)(1), Oct. 24, 1992, 106 Stat. 3251; Pub. L. 108–458, title I, §1071(b)(3)(A), Dec. 17, 2004, 118 Stat. 3690.)
 
 #### Codification
 
 Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–458 substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
 1992—Subsec. (a). Pub. L. 102–496 substituted references to sections 2002, 2031 to 2035, 2052, 2071, and 2094 of this title for references in original to sections 204, 221 to 225, 232, 234 and 263 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees which were formerly set out in a note under section 403 of this title.
 
@@ -23,6 +25,10 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 Pub. L. 100–178, §401(b), inserted “225,” after “223, 224,”.
 
 1986—Subsec. (a). Pub. L. 99–569 inserted “224,” after “223,”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -38,9 +44,5 @@ Section 302(d) of Pub. L. 99–569 provided that: “The amendments made by this
 
 #### Effective Date
 
-Section effective Nov. 15, 1982, see section 613 of Pub. L. 97–269 set out as an Effective Date of Amendments toPub. L. 88–643 Prior to Enactment of Pub. L. 102–496 note under section 2001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403a, 403e, 403f of this title.
+Section effective Nov. 15, 1982, see section 613 of Pub. L. 97–269 set out as an Effective Date of Amendments to Pub. L. 88–643 Prior to Enactment of Pub. L. 102–496 note under section 2001 of this title.
 

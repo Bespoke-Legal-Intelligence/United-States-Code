@@ -30,7 +30,3 @@ This section does not authorize the payment of bribes or the provision of other 
 
 (Pub. L. 107–206, title II, §2008, Aug. 2, 2002, 116 Stat. 905.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7422, 7423, 7425 of this title.
-

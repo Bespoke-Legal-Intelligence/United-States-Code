@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) filing with the court comments with respect to such application and, if the United States Trustee considers it to be appropriate, objections to such application.<sup>1</sup>
 
-&emsp;&emsp;(B) monitoring plans and disclosure statements filed in cases under chapter 11 of title 11 and filing with the court, in connection with hearings under sections 1125 and 1128 ofsuch title, comments with respect to such plans and disclosure statements;
+&emsp;&emsp;(B) monitoring plans and disclosure statements filed in cases under chapter 11 of title 11 and filing with the court, in connection with hearings under sections 1125 and 1128 of such title, comments with respect to such plans and disclosure statements;
 
 &emsp;&emsp;(C) monitoring plans filed under chapters 12 and 13 of title 11 and filing with the court, in connection with hearings under sections 1224, 1229, 1324, and 1329 of such title, comments with respect to such plans;
 
@@ -127,10 +127,6 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 #### Application to All Standing Trustees
 
 Section 529 \[title I, §110(b)\] of Pub. L. 101–509 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any trustee to whom the provisions of section 302(d)(3) of the Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986 (Public Law 99–54 \[Pub. L. 99–554\]; 100 Stat. 3121) \[set out in an Effective Date of 1986 Amendment note under section 581 of this title\] apply.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 11 sections 326, 589a, 701, 703, 1202, 1302, 1326.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

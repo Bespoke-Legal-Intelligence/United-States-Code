@@ -138,7 +138,3 @@ Pub. L. 104–52, title IV, §5, Nov. 19, 1995, 109 Stat. 486.
 
 Pub. L. 105–277, div A, §101(h) \[title VI, §630\], Oct. 21, 1998, 112 Stat. 2681–522.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3712a.
-

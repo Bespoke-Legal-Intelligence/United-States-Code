@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—FOREIGN COMMERCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1561, 1592 of this title; title 6 section 231.
-
 
 ---
 

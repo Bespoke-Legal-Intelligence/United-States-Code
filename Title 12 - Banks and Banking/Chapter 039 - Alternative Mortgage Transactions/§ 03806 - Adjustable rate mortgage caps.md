@@ -38,7 +38,3 @@ Section was enacted as part of the Competitive Equality Banking Act of 1987, and
 
 1992—Subsec. (d)(2). Pub. L. 102–550 substituted “any consumer loan” for “any loan”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 1639.
-

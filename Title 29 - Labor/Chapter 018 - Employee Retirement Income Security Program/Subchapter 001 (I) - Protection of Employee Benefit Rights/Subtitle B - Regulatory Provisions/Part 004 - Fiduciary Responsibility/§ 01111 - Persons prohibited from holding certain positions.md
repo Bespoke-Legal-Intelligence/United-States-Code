@@ -70,10 +70,6 @@ Amendments by sections 229 and 230 of Pub. L. 98–473 effective Nov. 1, 1987, a
 
 Amendment by section 802 of Pub. L. 98–473 effective with respect to any judgment of conviction entered by the trial court after Oct. 12, 1984, except as otherwise provided, see section 804 of Pub. L. 98–473, set out as a note under section 504 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1109 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>

@@ -6,7 +6,7 @@ The Librarian of Congress is authorized to furnish to such institutions or indiv
 
 #### Amendments
 
-<b>1977</b>—Pub. L. 95–94 inserted provisions relating to crediting of the moneys deposited in the Treasury.
+1977—Pub. L. 95–94 inserted provisions relating to crediting of the moneys deposited in the Treasury.
 
 #### Effective Date of 1977 Amendment
 

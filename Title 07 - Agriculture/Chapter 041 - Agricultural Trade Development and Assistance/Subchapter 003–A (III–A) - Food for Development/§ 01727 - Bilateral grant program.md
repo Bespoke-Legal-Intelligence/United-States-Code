@@ -42,7 +42,7 @@ Section 4(a)(2), (3) of Pub. L. 100–576 provided that:
 
 “(2) Food for Development agreements entered into under title III of that Act \[this subchapter\] before the date of enactment of this Act \[Oct. 31, 1988\] may be amended in order to implement the amendment made by paragraph (1) \[amending this section\].
 
-“(3) Pending amendment pursuant to paragraph (2) of Food for Development agreements with the Government of Bangladesh, the use of funds accruing under those agreements, with the approval of the United States Government, for flood-related disaster assistance authorized by the amendment made by paragraph (1) shall be deemed to be consistent with the applicable agreement.”
+“(3) Pending amendment pursuant to paragraph (2) of Food for Development agreements with the Government of Bangladesh, the use of funds accruing under those agreements, with the approval of the UnitedStates Government, for flood-related disaster assistance authorized by the amendment made by paragraph (1) shall be deemed to be consistent with the applicable agreement.”
 
 #### Increased Immunizations of Children; Reporting Requirement
 

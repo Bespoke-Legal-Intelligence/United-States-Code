@@ -16,9 +16,9 @@ The Congress finds that—
 
 &emsp;(4) the raw materials and component parts also are used in a variety of nonmedical products;
 
-&emsp;(5) because small quantities of the raw materials and component parts are used for medical devices, sales of raw materials and componentparts for medical devices constitute an extremely small portion of the overall market for the raw materials and component parts;
+&emsp;(5) because small quantities of the raw materials and component parts are used for medical devices, sales of raw materials and component parts for medical devices constitute an extremely small portion of the overall market for the raw materials and component parts;
 
-&emsp;(6) under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) manufacturers of medical devices are required to demonstrate that the medical devices are safe and effective, including demonstrating that the products are properly designed and have adequate warnings or instructions;
+&emsp;(6) under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) manufacturers of medical devices are required to demonstrate that the medical devices are safe and effective,including demonstrating that the products are properly designed and have adequate warnings or instructions;
 
 &emsp;(7) notwithstanding the fact that raw materials and component parts suppliers do not design, produce, or test a final medical device, the suppliers have been the subject of actions alleging inadequate—
 

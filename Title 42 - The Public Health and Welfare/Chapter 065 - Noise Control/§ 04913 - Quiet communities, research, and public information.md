@@ -28,7 +28,7 @@ To promote the development of effective State and local noise control programs, 
 
 &emsp;&emsp;&emsp;(D) evaluating techniques for controlling noise (including institutional arrangements) and demonstrating the best available techniques in such jurisdiction;
 
-&emsp;&emsp;(2) purchase of monitoring and other equipment for loan to State and local noise control programs to meet special needs or assist in the beginning implementation of a noise control program or project;
+&emsp;&emsp;(2) purchase of monitoring and other equipment for loan to State and local noise control programs to meet special needs orassist in the beginning implementation of a noise control program or project;
 
 &emsp;&emsp;(3) development and implementation of a quality assurance program for equipment and monitoring procedures of State and local noise control programs to help communities assure that their data collection activities are accurate;
 

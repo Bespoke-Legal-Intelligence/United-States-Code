@@ -26,7 +26,7 @@ Notwithstanding the absence of an indication of intent as specified in section 4
 
 (2) The Federal share of the cost of expanding or modifying a recreational facility described in paragraph (1) may not exceed 50 percent of the total cost of expanding or modifying the facility.
 
-(Pub. L. 89–72, §3, July 9, 1965, 79 Stat. 214; Pub. L. 93–251, title I, §77(a)(3), Mar. 7, 1974, 88 Stat. 33; Pub. L. 102–575, title XXVIII, §2804(b), (d), Oct. 30, 1992, 106 Stat. 4691.)
+(Pub. L. 89–72, §3, July 9, 1965, 79 Stat. 214; Pub. L. 93–251, title I, §77(a)(3), Mar. 7, 1974, 88 Stat.33; Pub. L. 102–575, title XXVIII, §2804(b), (d), Oct. 30, 1992, 106 Stat. 4691.)
 
 #### References in Text
 
@@ -45,8 +45,4 @@ Subsec. (c). Pub. L. 102–575, §2804(d), added subsec. (c).
 #### Effective Date of 1974 Amendment
 
 For effective date of amendment by Pub. L. 93–251, see section 77(b) of Pub. L. 93–251, set out as a note under section 460<i>l</i>–13 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>l</i>–17, 460<i>l</i>–18 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—EMPLOYEE PROTECTION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 745, 836 of this title.
-
 
 ---
 

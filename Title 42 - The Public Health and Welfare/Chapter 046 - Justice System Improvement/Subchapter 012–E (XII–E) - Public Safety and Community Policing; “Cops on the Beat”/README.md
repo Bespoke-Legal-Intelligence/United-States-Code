@@ -1,9 +1,5 @@
 ### SUBCHAPTER XII–E—PUBLIC SAFETY AND COMMUNITY POLICING; “COPS ON THE BEAT”
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3793, 14601 of this title.
-
 
 ---
 

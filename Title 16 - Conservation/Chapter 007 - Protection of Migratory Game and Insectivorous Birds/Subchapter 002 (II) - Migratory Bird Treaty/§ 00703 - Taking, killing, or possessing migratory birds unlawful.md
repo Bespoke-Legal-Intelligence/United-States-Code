@@ -1,10 +1,36 @@
 ### §703. Taking, killing, or possessing migratory birds unlawful
 
+#### (a) In general
+
 Unless and except as permitted by regulations made as hereinafter provided in this subchapter, it shall be unlawful at any time, by any means or in any manner, to pursue, hunt, take, capture, kill, attempt to take, capture, or kill, possess, offer for sale, sell, offer to barter, barter, offer to purchase, purchase, deliver for shipment, ship, export, import, cause to be shipped, exported, or imported, deliver for transportation, transport or cause to be transported, carry or cause to be carried, or receive for shipment, transportation, carriage, or export, any migratory bird, any part, nest, or eggs of any such bird, or any product, whether or not manufactured, which consists, or is composed in whole or part, of any such bird or any part, nest, or egg thereof, included in the terms of the conventions between the United States and Great Britain for the protection of migratory birds concluded August 16, 1916 (39 Stat. 1702), the United States and the United Mexican States for the protection of migratory birds and game mammals concluded February 7, 1936, the United States and the Government of Japan for the protection of migratory birds and birds in danger of extinction, and their environment concluded March 4, 1972 <sup>1</sup> and the convention between the United States and the Union of Soviet Socialist Republics for the conservation of migratory birds and their environments concluded November 19, 1976.
 
-(July 3, 1918, ch. 128, §2, 40 Stat. 755; June 20, 1936, ch. 634, §3, 49 Stat. 1556; Pub. L. 93–300, §1, June 1, 1974, 88 Stat. 190; Pub. L. 101–233, §15, Dec. 13, 1989, 103 Stat. 1977.)
+#### (b) Limitation on application to introduced species
+
+#### (1) In general
+
+&emsp;This subchapter applies only to migratory bird species that are native to the United States or its territories.
+
+#### (2) Native to the United States defined
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), in this subsection the term “native to the United States or its territories” means occurring in the United States or its territories as the result of natural biological or ecological processes.
+
+#### (B) Treatment of introduced species
+
+&emsp;&emsp;For purposes of paragraph (1), a migratory bird species that occurs in the United States or its territories solely as a result of intentional or unintentional human-assisted introduction shall not be considered native to the United States or its territories unless—
+
+&emsp;&emsp;&emsp;(i) it was native to the United States or its territories and extant in 1918;
+
+&emsp;&emsp;&emsp;(ii) it was extirpated after 1918 throughout its range in the United States and its territories; and
+
+&emsp;&emsp;&emsp;(iii) after such extirpation, it was reintroduced in the United States or its territories as a part of a program carried out by a Federal agency.
+
+(July 3, 1918, ch. 128, §2, 40 Stat. 755; June 20, 1936, ch. 634, §3, 49 Stat. 1556; Pub. L. 93–300, §1, June 1, 1974, 88 Stat. 190; Pub. L. 101–233, §15, Dec. 13, 1989, 103 Stat. 1977; Pub. L. 108–447, div. E, title I, §143(b), Dec. 8, 2004, 118 Stat. 3071.)
 
 #### Amendments
+
+2004—Pub. L. 108–447 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 1989—Pub. L. 101–233 struck out “and” after “1936,” and inserted before period at end “and the convention between the United States and the Union of Soviet Socialist Republics for the conservation of migratory birds and their environments concluded November 19, 1976”.
 
@@ -18,7 +44,27 @@ Section 3 of Pub. L. 93–300 provided that: “The amendments made by this Act 
 
 #### Effective Date of 1936 Amendment
 
-Section 1 of act June 20, 1936, in conjunction with sections 2 to 5 of that act, provided that the amendment of this section and sections 704, 705, 707, 708 and the enactment of section 709a of this title by that act, are effective as of the day on which the President shall proclaim the exchange of ratifications of the convention between the United States and the United Mexican States for the protection of migratory birds and game mammals concluded February 7, 1936, or on June 20, 1936, whichever date is later. Such proclamation was made on June 30, 1937.
+Section 1 of act June 20, 1936, in conjunction with sections 2 to 5 of that act, provided that the amendment of this section and sections 704, 705, 707, 708 and the enactment of section 709a of this title by that act, are effective as of the day on which the President shall proclaim the exchange of ratifications of the conventionbetween the United States and the United Mexican States for the protection of migratory birds and game mammals concluded February 7, 1936, or on June 20, 1936, whichever date is later. Such proclamation was made on June 30, 1937.
+
+#### Publication of List
+
+Pub. L. 108–447, div. E, title I, §143(c), Dec. 8, 2004, 118 Stat. 3072, provided that:
+
+“(1)
+
+In general.—Not later than 90 days after the date of enactment of this section \[Dec. 8, 2004\], the Secretary of the Interior shall publish in the Federal Register a list of all nonnative, human-introduced bird species to which the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.) does not apply. As necessary, the Secretary may update and publish the list of species exempted from protection of the Migratory Bird Treaty Act.
+
+“(2)
+
+Public comment.—Before publishing the list under paragraph (1), the Secretary shall provide adequate time for public comment.
+
+“(3)
+
+Effect of section.—Nothing in this subsection shall delay implementation of other provisions of this section \[amending this section and enacting provisions set out as notes under this section and section 710 of this title\] or amendments made by this section that exclude nonnative, human-introduced bird species from the application of the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.).”
+
+#### Relationship of Pub. L. 108–447 to Treaties
+
+Pub. L. 108–447, div. E, title I, §143(d), Dec. 8, 2004, 118 Stat. 3072, provided that: “It is the sense of Congress that the language of this section \[amending this section and enacting provisions set out as notes under this section and section 710 of this title\] is consistent with the intent and language of the 4 bilateral treaties implemented by this section.”
 
 #### Incidental Taking of Migratory Birds During Military Readiness Activities
 
@@ -205,10 +251,6 @@ Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
 &emsp;“(3)
 
 Service.—The term ‘Service’ means the United States Fish and Wildlife Service.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 704 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -50,7 +50,7 @@ Termination Date.—Subsection (a) shall not be effective after the last day of 
 
 Ex. Ord. No. 9170, eff. May 21, 1942, 7 F.R. 384, provided in part:
 
-It is ordered that all of the navigation and vessel inspection laws of the United States be, and they arehereby, made applicable to the Virgin Islands of the United States, with the following exceptions:
+It is ordered that all of the navigation and vessel inspection laws of the United States be, and they are hereby, made applicable to the Virgin Islands of the United States, with the following exceptions:
 
 (1) The coastwise laws of the United States.
 
@@ -59,8 +59,4 @@ It is ordered that all of the navigation and vessel inspection laws of the Unite
 (3) So much of the vessel inspection laws of the United States as requires the inspection as a passenger vessel of any cargo vessel, foreign or domestic, when carrying more than twelve passengers or persons in addition to the crew.
 
 (4) Federal laws levying tonnage duties, light money, or entrance and clearance fees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1545 of this title.
 

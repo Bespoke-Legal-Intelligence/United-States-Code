@@ -78,7 +78,3 @@ In subsection (c)(2), the word “purchase” is omitted as being included in \[
 
 The National Historic Preservation Act, referred to in subsec. (c), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended. Title II of the Act is classified generally to sections 470i to 470v of Title 16, Conservation. For complete classification of this Act to the Code, see section 470 of Title 16 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3306, 3307 of this title; title 16 section 450ss–6.
-

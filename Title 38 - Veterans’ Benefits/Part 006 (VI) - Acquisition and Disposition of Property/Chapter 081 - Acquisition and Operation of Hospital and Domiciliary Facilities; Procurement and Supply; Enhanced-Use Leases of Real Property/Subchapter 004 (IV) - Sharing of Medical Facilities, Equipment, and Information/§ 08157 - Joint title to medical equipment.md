@@ -16,7 +16,3 @@
 
 (Added Pub. L. 102–405, title I, §103(a)(1), Oct. 9, 1992, 106 Stat. 1973.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8158 of this title.
-

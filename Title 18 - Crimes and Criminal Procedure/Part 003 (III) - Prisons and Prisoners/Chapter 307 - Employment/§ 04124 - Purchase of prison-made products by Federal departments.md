@@ -38,11 +38,15 @@ The date of the enactment of this subsection, referred to in subsec. (d), is the
 
 1951—Act Oct. 31, 1951, substituted “Administrator of General Services” for “Director of the Bureau of Federal Supply, Department of the Treasury” in second par.
 
+#### Agency Purchase of Federal Prison Industries Products or Services
+
+Pub. L. 108–447, div. H, title VI, §637, Dec. 8, 2004, 118 Stat. 3281, provided that: “None of the funds made available under this or any other Act for fiscal year 2005 and each fiscal year thereafter shall be expended for the purchase of a product or service offered by Federal Prison Industries, Inc., unless the agency making such purchase determines that such offered product or service provides the best value to the buying agency pursuant to governmentwide procurement regulations, issued pursuant to section 25(c)(1) of the Office of Federal Procurement Act (41 U.S.C. 421(c)(1)) that impose procedures, standards, and limitations of section 2410n of title 10, United States Code.”
+
+Similar provisions were contained in the following prior appropriations act:
+
+Pub. L. 108–199, div. F, title VI, §637, Jan. 23, 2004, 118 Stat. 358.
+
 #### Purchases by Central Intelligence Agency of Products of Federal Prison Industries
 
-Pub. L. 108–177, title IV, §404, Dec. 13, 2003, 117 Stat. 2632, provided that: “Notwithstanding section 4124 of title 18, United States Code, purchases by the Central Intelligence Agency from Federal Prison Industries shall be made only if the Director of Central Intelligence determines that the product or service to be purchased from Federal Prison Industries best meets the needs of the Agency.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2410n; title 15 sections 657a, 657f; title 41 section 48.
+Pub. L. 108–177, title IV, §404, Dec. 13, 2003, 117 Stat. 2632, as amended by Pub. L. 108–458, title I, §1071(g)(3)(C), Dec. 17, 2004, 118 Stat. 3692, provided that: “Notwithstanding section 4124 of title 18, United States Code, purchases by the Central Intelligence Agency from Federal Prison Industries shall be made only if the Director of the Central Intelligence Agency determines that the product or service to be purchased from Federal Prison Industries best meets the needs of the Agency.”
 

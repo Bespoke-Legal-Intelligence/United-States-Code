@@ -46,11 +46,11 @@ Section 5(a) of Pub. L. 89–749 provided that subsec. (b) of this section is ef
 
 Section 5(b) of Pub. L. 89–749 provided that the amendment of subsec. (b) of this section, permitting the Surgeon General to train personnel for State and local health work, is effective July 1, 1967.
 
+#### Food Allergens in the Food Code
+
+Pub. L. 108–282, title II, §209, Aug. 2, 2004, 118 Stat. 910, provided that: “The Secretary of Health and Human Services shall, in the Conference for Food Protection, as part of its efforts to encourage cooperative activities between the States under section 311 of the Public Health Service Act (42 U.S.C. 243), pursue revision of the Food Code to provide guidelines for preparing allergen-free foods in food establishments, including in restaurants, grocery store delicatessens and bakeries, and elementary and secondary school cafeterias. The Secretary shall consider guidelines and recommendations developed by public and private entities for public and private food establishments for preparing allergen-free foods in pursuing this revision.”
+
 #### Training of Private Persons Subject to Reimbursement or Advances to Appropriations
 
 Pub. L. 103–333, title II, Sept. 30, 1994, 108 Stat. 2550, provided in part: “That for fiscal year 1995 and subsequent fiscal years training of private persons shall be made subject to reimbursement or advances to this appropriation for not in excess of the full cost of such training”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7610 of this title.
 

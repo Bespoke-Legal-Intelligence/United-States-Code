@@ -24,7 +24,3 @@ The words “date of the enactment of this Act” as relating to section 482n–
 
 The date of the enactment of this section, referred to in text, is May 19, 1955.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 482n–2 of this title.
-

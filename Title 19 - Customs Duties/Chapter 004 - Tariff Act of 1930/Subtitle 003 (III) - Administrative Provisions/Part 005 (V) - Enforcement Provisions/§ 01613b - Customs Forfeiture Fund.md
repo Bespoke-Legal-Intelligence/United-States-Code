@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(ii) violations of the currency and foreign transaction reporting requirements of chapter 51 of title 31, if there is a substantial probability that the violations of these requirements are related to the smuggling of controlled substances;
 
-&emsp;(B) equipment for any vessel, vehicle, or aircraft available for official use by the United States Customs Service to enable the vessel, vehicle, or aircraft to assist in law enforcement functions;
+&emsp;(B) equipment for any vessel, vehicle, or aircraft available for official use by the United States Customs Service to enable the vessel,vehicle, or aircraft to assist in law enforcement functions;
 
 &emsp;(C) the reimbursement, at the discretion of the Secretary, of private persons for expenses incurred by such persons in cooperating with the United States Customs Service in investigations and undercover law enforcement operations;
 
@@ -110,7 +110,7 @@ Amounts in the Fund which are not currently needed for the purposes of this sect
 
 (3) At the end of each fiscal year, any unobligated amount in excess of $15,000,000 remaining in the Fund shall be deposited into the general fund of the Treasury of the United States.
 
-(June 17, 1930, ch. 497, title IV, §613A, as added Pub. L. 98–573, title II, §213(a)(11), Oct. 30, 1984, 98 Stat. 2986; amended Pub. L. 99–570, title I, §1152(b)(2), title III, §3142(a), Oct. 27, 1986, 100 Stat. 3207–12, 3207–93; Pub. L. 100–71, title I, §101, July 11, 1987, 101 Stat. 438; Pub. L. 100–202, §101(m) \[title I, §106\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–397; Pub. L. 100–418, title I, §1912, Aug. 23, 1988, 102 Stat. 1320; Pub. L. 100–690, title VII, §7364, Nov. 18, 1988, 102 Stat. 4475; Pub. L. 101–382, title I, §121, Aug. 20, 1990, 104 Stat. 640; Pub. L. 101–508, title X, §10012(a), Nov. 5, 1990, 104 Stat. 1388–390; Pub. L. 104–316, title I, §110(a), Oct. 19, 1996, 110 Stat. 3832.)
+(June 17, 1930, ch. 497, title IV, §613A, as added Pub. L. 98–573, title II, §213(a)(11), Oct. 30, 1984,98 Stat. 2986; amended Pub. L. 99–570, title I, §1152(b)(2), title III, §3142(a), Oct. 27, 1986, 100 Stat. 3207–12, 3207–93; Pub. L. 100–71, title I, §101, July 11, 1987, 101 Stat. 438; Pub. L. 100–202, §101(m) \[title I, §106\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–397; Pub. L. 100–418, title I, §1912, Aug. 23, 1988, 102 Stat. 1320; Pub. L. 100–690, title VII, §7364, Nov. 18, 1988, 102 Stat. 4475; Pub. L. 101–382, title I, §121, Aug. 20, 1990, 104 Stat. 640; Pub. L. 101–508, title X, §10012(a), Nov. 5, 1990, 104 Stat. 1388–390; Pub. L. 104–316, title I, §110(a), Oct. 19, 1996, 110 Stat. 3832.)
 
 #### Prior Provisions
 
@@ -148,7 +148,7 @@ Subsec. (f)(2). Pub. L. 101–508, §10012(a)(2), amended par. (2) generally. Pr
 
 Subsec. (a)(iii). Pub. L. 100–418, §1912(2), substituted “private persons” for “private citizens”.
 
-Subsec. (c). Pub. L. 100–418, §1912(1), substituted “described in subsection (a) of this section for which thefund is available to the United States Customs Service,” for “beginning on October 30, 1984, and ending on September 30, 1987,”.
+Subsec. (c). Pub. L. 100–418, §1912(1), substituted “described in subsection (a) of this section for which the fund is available to the United States Customs Service,” for “beginning on October 30, 1984, and ending on September 30, 1987,”.
 
 1987—Pub. L. 100–71 repealed Pub. L. 99–570, §1152(b)(2). See 1986 Amendment note below.
 
@@ -193,8 +193,4 @@ Section 1152(b)(2) of Pub. L. 99–570, which had directed the repeal of this se
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1600, 1607, 1613 of this title; title 31 section 9703.
 

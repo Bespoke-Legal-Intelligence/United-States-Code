@@ -58,7 +58,7 @@ Every individual who—
 
 &emsp;(K) such individual is not entitled to disability insurance benefits and is not entitled to old-age insurance benefits.
 
-(2) Except as provided in subsection (q) of this section and paragraph (4) of this subsection, such wife's insurance benefit for each month shall be equal to one-half of the primary insurance amount of her husband (or, in the case of a divorced wife, her former husband) for such month.
+(2) Except as provided in subsections (k)(5) and (q) of this section, such wife's insurance benefit for each month shall be equal to one-half of the primary insurance amount of her husband (or, in the case of a divorced wife, her former husband) for such month.
 
 (3) In the case of any divorced wife who marries—
 
@@ -68,25 +68,7 @@ Every individual who—
 
 > such divorced wife's entitlement to benefits under this subsection shall, notwithstanding the provisions of paragraph (1) (but subject to subsection (s) of this section), not be terminated by reason of such marriage.
 
-(4)(A) The amount of a wife's insurance benefit for each month (as determined after application of the provisions of subsections (q) and (k) of this section) shall be reduced (but not below zero) by an amount equal to two-thirds of the amount of any monthly periodic benefit payable to the wife (or divorced wife) for such month which is based upon her earnings while in the service of the Federal Government or any State (or political subdivision thereof, as defined in section 418(b)(2) of this title) if, on the last day she was employed by such entity—
-
-&emsp;(i) such service did not constitute “employment” as defined in section 410 of this title, or
-
-&emsp;(ii) such service was being performed while in the service of the Federal Government, and constituted “employment” as so defined solely by reason of—
-
-&emsp;&emsp;(I) clause (ii) or (iii) of subparagraph (G) of section 410(a)(5) of this title, where the lump-sum payment described in such clause (ii) or the cessation of coverage described in such clause (iii) (whichever is applicable) was received or occurred on or after January 1, 1988, or
-
-&emsp;&emsp;(II) an election to become subject to the Federal Employees’ Retirement System provided in chapter 84 of title 5 or the Foreign Service Pension System provided in subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 \[22 U.S.C. 4071 et seq.\] made pursuant to law after December 31, 1987,
-
-> unless subparagraph (B) applies. The amount of the reduction in any benefit under this subparagraph, if not a multiple of $0.10, shall be rounded to the next higher multiple of $0.10.
-
-(B)(i) Subparagraph (A)(i) shall not apply with respect to monthly periodic benefits based wholly on service as a member of a uniformed service (as defined in section 410(m) of this title).
-
-(ii) Subparagraph (A)(ii) shall not apply with respect to monthly periodic benefits based in whole or in part on service which constituted “employment” as defined in section 410 of this title if such service was performed for at least 60 months in the aggregate during the period beginning January 1, 1988, and ending with the close of the first calendar month as of the end of which the wife (or divorced wife) is eligible for benefits under this subsection and has made a valid application for such benefits.
-
-(C) For purposes of this paragraph, any periodic benefit which otherwise meets the requirements of subparagraph (A), but which is paid on other than a monthly basis, shall be allocated on a basis equivalent to a monthly benefit (as determined by the Commissioner of Social Security) and such equivalent monthly benefit shall constitute a monthly periodic benefit for purposes of subparagraph (A). For purposes of this subparagraph, the term “periodic benefit” includes a benefit payable in a lump sum if it is a commutation of, or a substitute for, periodic payments.
-
-(5)(A) Notwithstanding the preceding provisions of this subsection, except as provided in subparagraph (B), the divorced wife of an individual who is not entitled to old-age or disability insurance benefits, but who has attained age 62 and is a fully insured individual (as defined in section 414 of this title), if such divorced wife—
+(4)(A) Notwithstanding the preceding provisions of this subsection, except as provided in subparagraph (B), the divorced wife of an individual who is not entitled to old-age or disability insurance benefits, but who has attained age 62 and is a fully insured individual (as defined in section 414 of this title), if such divorced wife—
 
 &emsp;(i) meets the requirements of subparagraphs (A) through (D) of paragraph (1), and
 
@@ -136,27 +118,9 @@ Every individual who—
 
 &emsp;(K) such individual is not entitled to disability insurance benefits and is not entitled to old-age insurance benefits.
 
-(2)(A) The amount of a husband's insurance benefit for each month (as determined after application of the provisions of subsections (q) and (k) of this section) shall be reduced (but not below zero) by an amount equal to two-thirds of the amount of any monthly periodic benefit payable to the husband (or divorced husband) for such month which is based upon his earnings while in the service of the Federal Government or any State (or political subdivision thereof, as defined in section 418(b)(2) of this title) if, on the last day he was employed by such entity—
+(2) Except as provided in subsections (k)(5) and (q) of this section, such husband's insurance benefit for each month shall be equal to one-half of the primary insurance amount of his wife (or, in the case of a divorced husband, his former wife) for such month.
 
-&emsp;(i) such service did not constitute “employment” as defined in section 410 of this title, or
-
-&emsp;(ii) such service was being performed while in the service of the Federal Government, and constituted “employment” as so defined solely by reason of—
-
-&emsp;&emsp;(I) clause (ii) or (iii) of subparagraph (G) of section 410(a)(5) of this title, where the lump-sum payment described in such clause (ii) or the cessation of coverage described in such clause (iii) (whichever is applicable) was received or occurred on or after January 1, 1988, or
-
-&emsp;&emsp;(II) an election to become subject to the Federal Employees’ Retirement System provided in chapter 84 of title 5 or the Foreign Service Pension System provided in subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 \[22 U.S.C. 4071 et seq.\] made pursuant to law after December 31, 1987,
-
-> unless subparagraph (B) applies. The amount of the reduction in any benefit under this subparagraph, if not a multiple of $0.10, shall be rounded to the next higher multiple of $0.10.
-
-(B)(i) Subparagraph (A)(i) shall not apply with respect to monthly periodic benefits based wholly on service as a member of a uniformed service (as defined in section 410(m) of this title).
-
-(ii) Subparagraph (A)(ii) shall not apply with respect to monthly periodic benefits based in whole or in part on service which constituted “employment” as defined in section 410 of this title if such service was performed for at least 60 months in the aggregate during the period beginning January 1, 1988, and ending with the close of the first calendar month as of the end of which the husband (or divorced husband) is eligible for benefits under this subsection and has made a valid application for such benefits.
-
-(C) For purposes of this paragraph, any periodic benefit which otherwise meets the requirements of subparagraph (A), but which is paid on other than a monthly basis, shall be allocated on a basis equivalent to a monthly benefit (as determined by the Commissioner of Social Security) and such equivalent monthly benefit shall constitute a monthly periodic benefit for purposes of subparagraph (A). For purposes of this subparagraph, the term “periodic benefit” includes a benefit payable in a lump sum if it is a commutation of, or a substitute for, periodic payments.
-
-(3) Except as provided in subsection (q) of this section and paragraph (2) of this subsection, such husband's insurance benefit for each month shall be equal to one-half of the primary insurance amount of his wife (or, in the case of a divorced husband, his former wife) for such month.
-
-(4) In the case of any divorced husband who marries—
+(3) In the case of any divorced husband who marries—
 
 &emsp;(A) an individual entitled to benefits under subsection (b), (e), (g), or (h) of this section, or
 
@@ -164,7 +128,7 @@ Every individual who—
 
 > such divorced husband's entitlement to benefits under this subsection, notwithstanding the provisions of paragraph (1) (but subject to subsection (s) of this section), shall not be terminated by reason of such marriage.
 
-(5)(A) Notwithstanding the preceding provisions of this subsection, except as provided in subparagraph (B), the divorced husband of an individual who is not entitled to old-age or disability insurance benefits, but who has attained age 62 and is a fully insured individual (as defined in section 414 of this title), if such divorced husband—
+(4)(A) Notwithstanding the preceding provisions of this subsection, except as provided in subparagraph (B), the divorced husband of an individual who is not entitled to old-age or disability insurance benefits, but who has attained age 62 and is a fully insured individual (as defined in section 414 of this title), if such divorced husband—
 
 &emsp;(i) meets the requirements of subparagraphs (A) through (D) of paragraph (1), and
 
@@ -250,7 +214,7 @@ Every individual who—
 
 &emsp;(A)(i) is a full-time elementary or secondary school student and has not attained the age of 19, or (ii) is under a disability (as defined in section 423(d) of this title) and has not attained the age of 22, or
 
-&emsp;(B) is under a disability (as so defined) which began before the close of the 84th month following the month in which his most recent entitlement to child's insurance benefits terminated because he ceased to be under such disability,
+&emsp;(B) is under a disability (as so defined) which began (i) before the close of the 84th month following the month in which his most recent entitlement to child's insurance benefits terminated because he ceased to be under such disability, or (ii) after the close of the 84th month following the month in which his most recent entitlement to child's insurance benefits terminated because he ceased to be under such disability due to performance of substantial gainful activity,
 
 > but only if he has filed application for such reentitlement. Such reentitlement shall end with the month preceding whichever of the following first occurs:
 
@@ -268,7 +232,7 @@ Every individual who—
 
 &emsp;(A) A “full-time elementary or secondary school student” is an individual who is in full-time attendance as a student at an elementary or secondary school, as determined by the Commissioner of Social Security (in accordance with regulations prescribed by the Commissioner) in the light of the standards and practices of the schools involved, except that no individual shall be considered a “full-time elementary or secondary school student” if he is paid by his employer while attending an elementary or secondary school at the request, or pursuant to a requirement, of his employer. An individual shall not be considered a “full-time elementary or secondary school student” for the purpose of this section while that individual is confined in a jail, prison, or other penal institution or correctional facility, pursuant to his conviction of an offense (committed after the effective date of this sentence <sup>1</sup> ) which constituted a felony under applicable law. An individual who is determined to be a full-time elementary or secondary school student shall be deemed to be such a student throughout the month with respect to which such determination is made.
 
-&emsp;(B) Except to the extent provided in such regulations, an individual shall be deemed to be a full-time elementary or secondary school student during any period of nonattendance at an elementary or secondary school at which he has been in full-time attendance if (i) suchperiod is 4 calendar months or less, and (ii) he shows to the satisfaction of the Commissioner of Social Security that he intends to continue to be in full-time attendance at an elementary or secondary school immediately following such period. An individual who does not meet the requirement of clause (ii) with respect to such period of nonattendance shall be deemed to have met such requirement (as of the beginning of such period) if he is in full-time attendance at an elementary or secondary school immediately following such period.
+&emsp;(B) Except to the extent provided in such regulations, an individual shall be deemed tobe a full-time elementary or secondary school student during any period of nonattendance at an elementary or secondary school at which he has been in full-time attendance if (i) such period is 4 calendar months or less, and (ii) he shows to the satisfaction of the Commissioner of Social Security that he intends to continue to be in full-time attendance at an elementary or secondary school immediately following such period. An individual who does not meet the requirement of clause (ii) with respect to such period of nonattendance shall be deemed to have met such requirement (as of the beginning of such period) if he is in full-time attendance at an elementary or secondary school immediately following such period.
 
 &emsp;(C)(i) An “elementary or secondary school” is a school which provides elementary or secondary education, respectively, as determined under the law of the State or other jurisdiction in which it is located.
 
@@ -310,7 +274,7 @@ Every individual who—
 
 &emsp;(C)(i) has filed application for widow's insurance benefits,
 
-&emsp;(ii) was entitled to wife's insurance benefits, on the basis of the wages and self-employment income of such individual, for the month preceding the month in which such individual died, and—
+&emsp;(ii) was entitled to wife's insurance benefits, on the basis of the wages and self-employmentincome of such individual, for the month preceding the month in which such individual died, and—
 
 &emsp;&emsp;(I) has attained retirement age (as defined in section 416(<i>l</i>) of this title),
 
@@ -334,7 +298,7 @@ Every individual who—
 
 > and ending with the month preceding the first month in which any of the following occurs: she remarries, dies, becomes entitled to an old-age insurance benefit equal to or exceeding the primary insurance amount (as determined after application of subparagraphs (B) and (C) of paragraph (2)) of such deceased individual, or, if she became entitled to such benefits before she attained age 60, subject to section 423(e) of this title, the termination month (unless she attains retirement age (as defined in section 416(<i>l</i>) of this title) on or before the last day of such termination month). For purposes of the preceding sentence, the termination month for any individual shall be the third month following the month in which her disability ceases; except that, in the case of an individual who has a period of trial work which ends as determined by application of section 422(c)(4)(A) of this title, the termination month shall be the earlier of (I) the third month following the earliest month after the end of such period of trial work with respect to which such individual is determined to no longer be suffering from a disabling physical or mental impairment, or (II) the third month following the earliest month in which such individual engages or is determined able to engage in substantial gainful activity, but in no event earlier than the first month occurring after the 36 months following such period of trial work in which she engages or is determined able to engage in substantial gainful activity.
 
-(2)(A) Except as provided in subsection (q) of this section, paragraph (7) of this subsection, and subparagraph (D) of this paragraph, such widow's insurance benefit for each month shall be equal to the primary insurance amount (as determined for purposes of this subsection after application of subparagraphs (B) and (C)) of such deceased individual.
+(2)(A) Except as provided in subsection (k)(5) of this section, subsection (q) of this section, and subparagraph (D) of this paragraph, such widow's insurance benefit for each month shall be equal to the primary insurance amount (as determined for purposes of this subsection after application of subparagraphs (B) and (C)) of such deceased individual.
 
 (B)(i) For purposes of this subsection, in any case in which such deceased individual dies before attaining age 62 and section 415(a)(1) of this title (as in effect after December 1978) is applicable in determining such individual's primary insurance amount—
 
@@ -352,7 +316,7 @@ Every individual who—
 
 (iii) This subparagraph shall apply with respect to any benefit under this subsection only to the extent its application does not result in a primary insurance amount for purposes of this subsection which is less than the primary insurance amount otherwise determined for such deceased individual under section 415 of this title.
 
-(C) If such deceased individual was (or upon application would have been) entitled to an old-age insurance benefit which was increased (or subject to being increased) on account of delayed retirement under the provisions of subsection (w) of this section, then, for purposes of this subsection, such individual's primary insurance amount, if less than the old-age insurance benefit (increased, where applicable, under section 415(f)(5), 415(f)(6), or 415(f)(9)(B) of this title and under section 415(i) of this title as if such individual were still alive in the case of an individual who has died) which he was receiving (or would upon application have received) for themonth prior to the month in which he died, shall be deemed to be equal to such old-age insurance benefit, and (notwithstanding the provisions of paragraph (3) of such subsection (w) of this section) the number of increment months shall include any month in the months of the calendar year in which he died, prior to the month in which he died, which satisfy the conditions in paragraph (2) of such subsection (w) of this section.
+(C) If such deceased individual was (or upon application would have been) entitled to an old-age insurance benefit which was increased (or subject to being increased) on account of delayed retirement under the provisions of subsection (w) of this section, then, for purposes of this subsection, such individual's primary insurance amount, if less than the old-age insurance benefit (increased, where applicable, under section 415(f)(5), 415(f)(6), or 415(f)(9)(B) of this title and under section 415(i) of this title as if such individual were still alive in the case of an individual who has died) which he was receiving (or would upon application have received) for the month prior to the month in which he died, shall be deemed to be equal to such old-age insurance benefit, and (notwithstanding the provisions of paragraph (3) of such subsection (w) of this section) the number of increment months shall include any month in the months of the calendar year in which he died, prior to the month in which he died, which satisfy the conditions in paragraph (2) of such subsection (w) of this section.
 
 (D) If the deceased individual (on the basis of whose wages and self-employment income a widow or surviving divorced wife is entitled to widow's insurance benefits under this subsection) was, at any time, entitled to an old-age insurance benefit which was reduced by reason of the application of subsection (q) of this section, the widow's insurance benefit of such widow or surviving divorced wife for any month shall, if the amount of the widow's insurance benefit of such widow or surviving divorced wife (as determined under subparagraph (A) and after application of subsection (q) of this section) is greater than—
 
@@ -390,25 +354,7 @@ Every individual who—
 
 (6) In the case of an individual entitled to monthly insurance benefits payable under this section for any month prior to January 1973 whose benefits were not redetermined under section 102(g) of the Social Security Amendments of 1972, such benefits shall not be redetermined pursuant to such section, but shall be increased pursuant to any general benefit increase (as defined in section 415(i)(3) of this title) or any increase in benefits made under or pursuant to section 415(i) of this title, including for this purpose the increase provided effective for March 1974, as though such redetermination had been made.
 
-(7)(A) The amount of a widow's insurance benefit for each month (as determined after application of the provisions of subsections (q) and (k) of this section, paragraph (2)(D), and paragraph (3)) shall be reduced (but not below zero) by an amount equal to two-thirds of the amount of any monthly periodic benefit payable to the widow (or surviving divorced wife) for such month which is based upon her earnings while in the service of the Federal Government or any State (or political subdivision thereof, as defined in section 418(b)(2) of this title) if, on the last day she was employed by such entity—
-
-&emsp;(i) such service did not constitute “employment” as defined in section 410 of this title, or
-
-&emsp;(ii) such service was being performed while in the service of the Federal Government, and constituted “employment” as so defined solely by reason of—
-
-&emsp;&emsp;(I) clause (ii) or (iii) of subparagraph (G) of section 410(a)(5) of this title, where the lump-sum payment described in such clause (ii) or the cessation of coverage described in such clause (iii) (whichever is applicable) was received or occurred on or after January 1, 1988, or
-
-&emsp;&emsp;(II) an election to become subject to the Federal Employees’ Retirement System provided in chapter 84 of title 5 or the ForeignService Pension System provided in subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 \[22 U.S.C. 4071 et seq.\] made pursuant to law after December 31, 1987,
-
-> unless subparagraph (B) applies. The amount of the reduction in any benefit under this subparagraph, if not a multiple of $0.10, shall be rounded to the next higher multiple of $0.10.
-
-(B)(i) Subparagraph (A)(i) shall not apply with respect to monthly periodic benefits based wholly on service as a member of a uniformed service (as defined in section 410(m) of this title).
-
-(ii) Subparagraph (A)(ii) shall not apply with respect to monthly periodic benefits based in whole or in part on service which constituted “employment” as defined in section 410 of this title if such service was performed for at least 60 months in the aggregate during the period beginning January 1, 1988, and ending with the close of the first calendar month as of the end of which the widow (or surviving divorced wife) is eligible for benefits under this subsection and has made a valid application for such benefits.
-
-(C) For purposes of this paragraph, any periodic benefit which otherwise meets the requirements of subparagraph (A), but which is paid on other than a monthly basis, shall be allocated on a basis equivalent to a monthly benefit (as determined by the Commissioner of Social Security) and such equivalent monthly benefit shall constitute a monthly periodic benefit for purposes of subparagraph (A). For purposes of this subparagraph, the term “periodic benefit” includes a benefit payable in a lump sum if it is a commutation of, or a substitute for, periodic payments.
-
-(8) Any certificate filed pursuant to paragraph (1)(C)(ii)(III) shall be effective for purposes of this subsection—
+(7) Any certificate filed pursuant to paragraph (1)(C)(ii)(III) shall be effective for purposes of this subsection—
 
 &emsp;(A) for the month in which it is filed and for any month thereafter, and
 
@@ -416,7 +362,7 @@ Every individual who—
 
 > except that such certificate shall not be effective for any month before the month in which she attains age 62.
 
-(9) An individual shall be deemed to be under a disability for purposes of paragraph (1)(B)(ii) if such individual is eligible for supplemental security income benefits under subchapter XVI of this chapter, or State supplementary payments of the type referred to in section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66) which are paid by the Commissioner of Social Security under an agreement referred to in section 1382e(a) of this title (or in section 212(b) of Public Law 93–66), for the month for which all requirements of paragraph (1) for entitlement to benefits under this subsection (other than being under a disability) are met.
+(8) An individual shall be deemed to be under a disability for purposes of paragraph (1)(B)(ii) if such individual is eligible for supplemental security income benefits under subchapter XVI of this chapter, or State supplementary payments of the type referred to in section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66) which are paid by the Commissioner of Social Security under an agreement referred to in section 1382e(a) of this title (or in section 212(b) of Public Law93–66), for the month for which all requirements of paragraph (1) for entitlement to benefits under this subsection (other than being under a disability) are met.
 
 #### (f) Widower's insurance benefits
 
@@ -424,7 +370,7 @@ Every individual who—
 
 &emsp;(A) is not married,
 
-&emsp;(B)(i) has attained age 60, or (ii) has attained age 50 but has not attained age 60 and is under a disability (as defined in section 423(d) of the title) which began before the end of the period specified in paragraph (5),
+&emsp;(B)(i) has attained age 60, or (ii) has attained age 50 but has not attained age 60 and is under a disability (as defined in section 423(d) of the title) which began before the end of the period specified in paragraph (4),
 
 &emsp;(C)(i) has filed application for widower's insurance benefits,
 
@@ -446,31 +392,13 @@ Every individual who—
 
 &emsp;(F) if he satisfies subparagraph (B) by reason of clause (ii) thereof—
 
-&emsp;&emsp;(i) the first month after his waiting period (as defined in paragraph (6)) in which he becomes so entitled to such insurance benefits, or
+&emsp;&emsp;(i) the first month after his waiting period (as defined in paragraph (5)) in which he becomes so entitled to such insurance benefits, or
 
-&emsp;&emsp;(ii) the first month during all of which he is under a disability and in which he becomes so entitled to such insurance benefits, but only if he was previously entitled to insurance benefits under this subsection on the basis of being under a disability and such first month occurs (I) in the period specified in paragraph (5) and (II) after the month in which a previous entitlement to such benefits on such basis terminated,
+&emsp;&emsp;(ii) the first month during all of which he is under a disability and in which he becomes so entitled to such insurance benefits, but only if he was previously entitled to insurance benefits under this subsection on the basis of being under a disability and such first month occurs (I) in the period specified in paragraph (4) and (II) after the month in which a previous entitlement to such benefits on such basis terminated,
 
-> and ending with the month preceding the first month in which any of the following occurs: he remarries, dies, or becomes entitled to an old-age insurance benefit equal to or exceeding the primary insurance amount (as determined after application of subparagraphs (B) and (C) of paragraph (3)) of such deceased individual, or, if he became entitled to such benefits before he attained age 60, subject to section 423(e) of this title, the termination month (unless he attains retirement age (as defined in section 416(<i>l</i>) of this title) on or before the last day of such termination month). For purposes of the preceding sentence, the termination month for any individual shall be the third month following the month in which his disability ceases; except that, in the case of an individual who has a period of trial work which ends as determined by application of section 422(c)(4)(A) of this title, the termination month shall be the earlier of (I) the third month following the earliest month after the end of such period of trial work with respect to which such individual is determined to no longer be suffering from a disabling physical or mental impairment, or (II) the third month following the earliest month in which such individual engages or is determined able to engage in substantial gainful activity, but in no event earlier than the first month occurring after the 36 months following such period of trial work in which he engages or is determined able to engage in substantial gainful activity.
+> and ending with the month preceding the first month in which any of the following occurs: he remarries, dies, or becomes entitled to an old-age insurance benefit equal to or exceeding the primary insurance amount (as determined after application of subparagraphs (B) and (C) of paragraph (3)) <sup>1</sup> of such deceased individual, or, if he became entitled to such benefits before he attained age 60, subject to section 423(e) of this title, the termination month (unless he attains retirement age (as defined in section 416(<i>l</i>) of this title) on or before the last day of such termination month). For purposes of the preceding sentence, the termination month for any individual shall be the third month following the month in which his disability ceases; except that, in the case of an individual who has a period of trial work which ends as determined by application of section 422(c)(4)(A) of this title, the termination month shall be the earlier of (I) the third month following the earliest month after the end of such period of trial work with respect to which such individual is determined to no longer be suffering from a disabling physical or mental impairment, or (II) the third month following the earliest month in which such individual engages or is determined able to engage in substantial gainful activity, but in no event earlier than the first month occurring after the 36 months following such period of trial work in which he engages or is determined able to engage in substantial gainful activity.
 
-(2)(A) The amount of a widower's insurance benefit for each month (as determined after application of the provisions of subsections (q) and (k) of this section, paragraph (3)(D), and paragraph (4)) shall be reduced (but not below zero) by an amount equal to two-thirds of the amount of any monthly periodic benefit payable to the widower (or surviving divorced husband) for such month which is based upon his earnings while in the service of the Federal Government or any State (or political subdivision thereof, as defined in section 418(b)(2) of this title) if, on the last day he was employed by such entity—
-
-&emsp;(i) such service did not constitute “employment” as defined in section 410 of this title, or
-
-&emsp;(ii) such service was being performed while in the service of the Federal Government, and constituted “employment” as so defined solely by reason of—
-
-&emsp;&emsp;(I) clause (ii) or (iii) of subparagraph (G) of section 410(a)(5) of this title, where the lump-sum payment described in such clause (ii) or the cessation of coverage described in such clause (iii) (whichever is applicable) was received or occurred on or after January 1, 1988, or
-
-&emsp;&emsp;(II) an election to become subject to the Federal Employees’ Retirement System provided in chapter 84 of title 5 or the Foreign Service Pension System provided in subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 \[22 U.S.C. 4071 et seq.\] made pursuant to law after December 31, 1987,
-
-> unless subparagraph (B) applies. The amount of the reduction in any benefit under this subparagraph, if not a multiple of $0.10, shall be rounded to the next higher multiple of $0.10.
-
-(B)(i) Subparagraph (A)(i) shall not apply with respect to monthly periodic benefits based wholly on service as a member of a uniformed service (as defined in section 410(m) of this title).
-
-(ii) Subparagraph (A)(ii) shall not apply with respect to monthly periodic benefits based in whole or in part on service which constituted “employment” as defined in section 410 of this title if such service was performed for at least 60 months in the aggregate during the period beginning January 1, 1988, and ending with the close of the first calendar month as of the end of which the widower (or surviving divorced husband) is eligible for benefits under this subsection and has made a valid application for such benefits.
-
-(C) For purposes of this paragraph, any periodic benefit which otherwise meets the requirements of subparagraph (A), but which is paid on other than a monthly basis, shall be allocated on a basis equivalent to a monthly benefit (as determined by the Commissioner of Social Security) and such equivalent monthly benefit shall constitute a monthly periodic benefit for purposes of subparagraph (A). For purposes of this subparagraph, the term “periodic benefit” includes a benefit payable in a lump sum if it is a commutation of, or a substitute for, periodic payments.
-
-(3)(A) Except as provided in subsection (q) of this section, paragraph (2) of this subsection, and subparagraph (D) of this paragraph, such widower's insurance benefit for each month shall be equal to the primary insurance amount (as determined for purposes of this subsection after application of subparagraphs (B) and (C)) of such deceased individual.
+(2)(A) Except as provided in subsection (k)(5) of this section, subsection (q) of this section, and subparagraph (D) of this paragraph, such widower's insurance benefit for each month shall be equal to the primary insurance amount (as determined for purposes of this subsection after application of subparagraphs (B) and (C)) of such deceased individual.
 
 (B)(i) For purposes of this subsection, in any case in which such deceased individual dies before attaining age 62 and section 415(a)(1) of this title (as in effect after December 1978) is applicable in determining such individual's primary insurance amount—
 
@@ -498,7 +426,7 @@ Every individual who—
 
 > be reduced to the amount referred to in clause (i), or (if greater) the amount referred to in clause (ii).
 
-(4) For purposes of paragraph (1), if—
+(3) For purposes of paragraph (1), if—
 
 &emsp;(A) a widower or surviving divorced husband marries after attaining age 60 (or after attaining age 50 if he was entitled before such marriage occurred to benefits based on disability under this subsection), or
 
@@ -506,7 +434,7 @@ Every individual who—
 
 > such marriage shall be deemed not to have occurred.
 
-(5) The period referred to in paragraph (1)(B)(ii), in the case of any widower or surviving divorced husband, is the period beginning with whichever of the following is the latest:
+(4) The period referred to in paragraph (1)(B)(ii), in the case of any widower or surviving divorced husband, is the period beginning with whichever of the following is the latest:
 
 &emsp;(A) the month in which occurred the death of the fully insured individual referred to in paragraph (1) on whose wages and self-employment income his benefits are or would be based,
 
@@ -516,17 +444,17 @@ Every individual who—
 
 > and ending with the month before the month in which he attains age 60, or, if earlier, with the close of the eighty-fourth month following the month with which such period began.
 
-(6)(A) The waiting period referred to in paragraph (1)(F), in the case of any widower or surviving divorced husband, is the earliest period of five consecutive calendar months—
+(5)(A) The waiting period referred to in paragraph (1)(F), in the case of any widower or surviving divorced husband, is the earliest period of five consecutive calendar months—
 
 &emsp;(i) throughout which he has been under a disability, and
 
-&emsp;(ii) which begins not earlier than with whichever of the following is the later: (I) the first day of the seventeenth month before the month in which his application is filed, or (II) the first day of the fifth month before the month in which the period specified in paragraph (5) begins.
+&emsp;(ii) which begins not earlier than with whichever of the following is the later: (I) the first day of the seventeenth month before the month in which his application is filed, or (II) the first day of the fifth month before the month in which the period specified in paragraph (4) begins.
 
 (B) For purposes of paragraph (1)(F)(i), each month in the period commencing with the first month for which such widower or surviving divorced husband is first eligible for supplemental security income benefits under subchapter XVI of this chapter, or State supplementary payments of the type referred to in section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66) which are paid by the Commissioner of Social Security under an agreement referred to in section 1382e(a) of this title (or in section 212(b) of Public Law 93–66), shall be included as one of the months of such waiting period for which the requirements of subparagraph (A) have been met.
 
-(7) In the case of an individual entitled to monthly insurance benefits payable under this section for any month prior to January 1973 whose benefits were not redetermined under section 102(g) of the Social Security Amendments of 1972, such benefits shall not be redetermined pursuant to such section, but shall be increased pursuant to any general benefit increase (as defined in section 415(i)(3) of this title) or any increase in benefits made under or pursuant to section 415(i) of this title, including for this purpose the increase provided effective for March 1974, as though such redetermination had been made.
+(6) In the case of an individual entitled to monthly insurance benefits payable under this section for any month prior to January 1973 whose benefits were not redetermined under section 102(g) of the Social Security Amendments of 1972, such benefits shall not be redetermined pursuant to such section, but shall be increased pursuant to any general benefit increase (as defined in section 415(i)(3) of this title) or any increase in benefits made under or pursuant to section 415(i) of this title, including for this purpose the increase provided effective for March 1974, as though such redetermination had been made.
 
-(8) Any certificate filed pursuant to paragraph (1)(C)(ii)(III) shall be effective for purposes of this subsection—
+(7) Any certificate filed pursuant to paragraph (1)(C)(ii)(III) shall be effective for purposes of this subsection—
 
 &emsp;(A) for the month in which it is filed and for any month thereafter, and
 
@@ -534,7 +462,7 @@ Every individual who—
 
 > except that such certificate shall not be effective for any month before the month in which he attains age 62.
 
-(9) An individual shall be deemed to be under a disability for purposes of paragraph (1)(B)(ii) ifsuch individual is eligible for supplemental security income benefits under subchapter XVI of this chapter, or State supplementary payments of the type referred to in section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66) which are paid by the Commissioner of Social Security under an agreement referred to in such section 1382e(a) of this title (or in section 212(b) of Public Law 93–66), for the month for which all requirements of paragraph (1) for entitlement to benefits under this subsection (other than being under a disability) are met.
+(8) An individual shall be deemed to be under a disability for purposes of paragraph (1)(B)(ii) if such individual is eligible for supplemental security income benefits under subchapter XVI of this chapter, or State supplementary payments of the type referred to in section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66) which are paid by the Commissioner of Social Security under an agreement referred to in such section 1382e(a) of this title (or in section 212(b) of Public Law 93–66), for the month for which all requirements of paragraph (1) for entitlement to benefits under this subsection (other than being under a disability) are met.
 
 #### (g) Mother's and father's insurance benefits
 
@@ -558,7 +486,7 @@ Every individual who—
 
 > shall (subject to subsection (s) of this section) be entitled to a mother's or father's insurance benefit for each month, beginning with the first month in which he or she becomes so entitled to such insurance benefits and ending with the month preceding the first month in which any of the following occurs: no child of such deceased individual is entitled to a child's insurance benefit, such surviving spouse or surviving divorced parent becomes entitled to an old-age insurance benefit equal to or exceeding three-fourths of the primary insurance amount of such deceased individual, he or she becomes entitled to a surviving spouse's insurance benefit, he or she remarries, or he or she dies. Entitlement to such benefits shall also end, in the case of a surviving divorced parent, with the month immediately preceding the first month in which no son, daughter, or legally adopted child of such surviving divorced parent is entitled to a child's insurance benefit on the basis of the wages and self-employment income of such deceased individual.
 
-(2) Except as provided in paragraph (4) of this subsection, such mother's or father's insurance benefit for each month shall be equal to three-fourths of the primary insurance amount of such deceased individual.
+(2) Such mother's or father's insurance benefit for each month shall be equal to three-fourths of the primary insurance amount of such deceased individual.
 
 (3) In the case of a surviving spouse or surviving divorced parent who marries—
 
@@ -567,24 +495,6 @@ Every individual who—
 &emsp;(B) an individual who has attained the age of eighteen and is entitled to benefits under subsection (d) of this section,
 
 > the entitlement of such surviving spouse or surviving divorced parent to benefits under this subsection shall, notwithstanding the provisions of paragraph (1) of this subsection but subject to subsection (s) of this section, not be terminated by reason of such marriage.
-
-(4)(A) The amount of a mother's or father's insurance benefit for each month (as determined after application of the provisions of subsection (k) of this section) shall be reduced (but not below zero) by an amount equal to two-thirds of the amount of any monthly periodic benefit payable to the individual for such month which is based upon the individual's earnings while in the service of the Federal Government or any State (or political subdivision thereof, as defined in section 418(b)(2) of this title) if, on the last day the individual was employed by such entity—
-
-&emsp;(i) such service did not constitute “employment” as defined in section 410 of this title, or
-
-&emsp;(ii) such service was being performed while in the service of the Federal Government, and constituted “employment” as so defined solely by reason of—
-
-&emsp;&emsp;(I) clause (ii) or (iii) of subparagraph (G) of section 410(a)(5) of this title, where the lump-sum payment described in such clause (ii) or the cessation of coverage described in such clause (iii) (whichever is applicable) was received or occurred on or after January 1, 1988, or
-
-&emsp;&emsp;(II) an election to become subject to the Federal Employees’ Retirement System provided in chapter 84 of title 5 or the Foreign Service Pension System provided in subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 \[22 U.S.C. 4071 et seq.\] made pursuant to law after December 31, 1987,
-
-> unless subparagraph (B) applies. The amount of the reduction in any benefit under this subparagraph, if not a multiple of $0.10, shall be rounded to the next higher multiple of $0.10.
-
-(B)(i) Subparagraph (A)(i) shall not apply with respect to monthly periodic benefits based wholly on service as a member of a uniformed service (as defined in section 410(m) of this title).
-
-(ii) Subparagraph (A)(ii) shall not apply with respect to monthly periodic benefits based in whole or in part on service which constituted “employment” as defined in section 410 of this title if such service was performed for at least 60 months in the aggregate during the period beginning January 1, 1988, and ending with the close of the first calendar month as of the end of which the individual is eligible for benefits under this subsection and has made a valid application for such benefits.
-
-(C) For purposes of this paragraph, any periodic benefit which otherwise meets the requirements of subparagraph (A), but which is paid on other than a monthly basis, shall be allocated on a basis equivalent to a monthly benefit (as determined by the Commissioner of Social Security) and such equivalent monthly benefit shall constitute a monthly periodic benefit for purposes of subparagraph (A). For purposes of this subparagraph, the term “periodic benefit” includes a benefit payable in a lump sum if it is a commutation of, or a substitute for, periodic payments.
 
 #### (h) Parent's insurance benefits
 
@@ -600,7 +510,7 @@ Every individual who—
 
 &emsp;(E) has filed application for parent's insurance benefits,
 
-> shall be entitled to a parent's insurance benefit for each month beginning with the first month after August 1950 in which such parent becomes so entitled to such parent's insurance benefits and ending with the month preceding the first month in which any of the following occurs: such parent dies, marries, or becomes entitled to an old-age insurance benefit equal to or exceeding 821/2 percent of the primary insurance amount of such deceased individual if the amount of the parent's insurance benefit for such month is determinable under paragraph (2)(A) (or 75 percent of such primary insurance amount in any other case).
+> shall be entitled to a parent's insurance benefit for each month beginning with the first month after August 1950 in which such parent becomes so entitled to such parent's insurance benefits and ending with the month preceding the first month in which any of the following occurs: such parent dies, marries, or becomes entitled to an old-age insurance benefit equal to or exceeding 821/2 percent of the primary insurance amount of such deceased individual if theamount of the parent's insurance benefit for such month is determinable under paragraph (2)(A) (or 75 percent of such primary insurance amount in any other case).
 
 (2)(A) Except as provided in subparagraphs (B) and (C), such parent's insurance benefit for each month shall be equal to 821/2 percent of the primary insurance amount of such deceased individual.
 
@@ -628,11 +538,11 @@ Every individual who—
 
 Upon the death, after August 1950, of an individual who died a fully or currently insured individual, an amount equal to three times such individual's primary insurance amount (as determined without regard to the amendments made by section 2201 of the Omnibus Budget Reconciliation Act of 1981, relating to the repeal of the minimum benefit provisions), or an amount equal to $255, whichever is the smaller, shall be paid in a lump sum to the person, if any, determined by the Commissioner of Social Security to be the widow or widower of the deceased and to have been living in the same household with the deceased at the time of death. If there is no such person, or if such person dies before receiving payment, then such amount shall be paid—
 
-&emsp;(1) to a widow (as defined in section 416(c) of this title) or widower (as defined in section 416(g) of this title) who is entitled (or would have been so entitled had a timely application been filed), on the basis of the wages and self-employment income of such insured individual, to benefits under subsection (e), (f), or (g)of this section for the month in which occurred such individual's death; or
+&emsp;(1) to a widow (as defined in section 416(c) of this title) or widower (as defined in section 416(g) of this title) who is entitled (or would have been so entitled had a timely application been filed), on the basis of the wages and self-employment income of such insured individual, to benefits under subsection (e), (f), or (g) of this section for the month in which occurred such individual's death; or
 
 &emsp;(2) if no person qualifies for payment under paragraph (1), or if such person dies before receiving payment, in equal shares to each person who is entitled (or would have been so entitled had a timely application been filed), on the basis of the wages and self-employment income of such insured individual, to benefits under subsection (d) of this section for the month in which occurred such individual's death.
 
-> No payment shall be made to any person under this subsection unless application therefor shall have been filed, by or on behalf of such person (whether or not legally competent), prior to the expiration of two years after the date of death of such insured individual, or unless such person was entitled to wife's or husband's insurance benefits, on the basis of the wages and self-employment income of such insured individual, for the month preceding the month in which such individual died. In the case of any individual who died outside the forty-eight States and the District of Columbia after December 1953 and before January 1, 1957, whose death occurred while he was in the active military or naval service of the United States, and who is returned to any of such States, the District of Columbia, Alaska, Hawaii, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa for interment or reinterment, the provisions of the preceding sentence shall not prevent payment to any person under the second sentence of this subsection if application for a lump-sum death payment with respect to such deceased individual is filed by or on behalf of such person (whether or not legally competent) prior to the expiration of two years after the date of such interment or reinterment. In the case of any individual who died outside the fifty States and the District of Columbia after December 1956 while he was performing service, as a member of a uniformed service, to which the provisions of section 410(<i>l</i>)(1) of this title are applicable, and who is returned to any State, or to any Territory or possession of the United States, for interment or reinterment, the provisions of the third sentence of this subsection shall not prevent payment to any person under the second sentence of this subsection if application for a lump-sum death payment with respect to such deceased individual is filed by or on behalf of such person (whether or not legally competent) prior to the expiration of two years after the date of such interment or reinterment.
+> No payment shall be made to any person under this subsection unless application therefor shall have been filed, by or on behalf of such person (whether or not legally competent), prior to the expiration of two years after the date of death of such insured individual, or unless such person was entitled to wife's or husband's insurance benefits, on the basis of the wages and self-employment income of such insured individual, for the month preceding the month in which such individual died. In the case of any individual who died outside the forty-eight States and the District of Columbia after December 1953 and before January 1, 1957, whose death occurred while he was in the active military or naval service of the United States, and who is returned to any of such States, the District of Columbia, Alaska, Hawaii, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa for interment or reinterment, the provisions of the preceding sentence shall not prevent payment to any person under the second sentence of this subsection if application for a lump-sum death payment with respect to such deceased individual is filed by or on behalf of such person (whether or not legally competent) prior to the expiration of two years after the date of such interment or reinterment. In the case of any individual who died outside the fifty States and the District of Columbia after December 1956 while he was performing service, as a member of a uniformed service, to which the provisions of section 410(<i>l</i>)(1) of this title are applicable, and who is returned to any State, or to any Territory or possession of the United States, for interment or reinterment, the provisions of the third sentence of this subsection shall not prevent payment to any person under the second sentence of this subsection if application for a lump-sum death payment with respect to such deceased individual is filed by or on behalf of such person (whether or not legally competent) prior to theexpiration of two years after the date of such interment or reinterment.
 
 #### (j) Application for monthly insurance benefits
 
@@ -652,7 +562,7 @@ Upon the death, after August 1950, of an individual who died a fully or currentl
 
 (B)(i) If the individual applying for retroactive benefits is a widow, surviving divorced wife, or widower and is under a disability (as defined in section 423(d) of this title), and such individual would, except for subparagraph (A), be entitled to retroactive benefits as a disabled widow or widower or disabled surviving divorced wife for any month before attaining the age of 60, then subparagraph (A) shall not apply with respect to such month or any subsequent month.
 
-(ii) Subparagraph (A) does not apply to a benefit under subsection (e) or (f) of this section for the month immediately preceding the month ofapplication, if the insured individual died in that preceding month.
+(ii) Subparagraph (A) does not apply to a benefit under subsection (e) or (f) of this section for the month immediately preceding the month of application, if the insured individual died in that preceding month.
 
 (iii) As used in this subparagraph, the term “retroactive benefits” means benefits to which an individual becomes entitled for a month prior to the month in which application for such benefits is filed.
 
@@ -668,13 +578,33 @@ Upon the death, after August 1950, of an individual who died a fully or currentl
 
 (2)(A) Any child who under the preceding provisions of this section is entitled for any month to child's insurance benefits on the wages and self-employment income of more than one insured individual shall, notwithstanding such provisions, be entitled to only one of such child's insurance benefits for such month. Such child's insurance benefits for such month shall be the benefit based on the wages and self-employment income of the insured individual who has the greatest primary insurance amount, except that such child's insurance benefits for such month shall be the largest benefit to which such child could be entitled under subsection (d) of this section (without the application of section 403(a) of this title) or subsection (m) of this section if entitlement to such benefit would not, with respect to any person, result in a benefit lower (after the application of section 403(a) of this title) than the benefit which would be applicable if such child were entitled on the wages and self-employment income of the individual with the greatest primary insurance amount. Where more than one child is entitled to child's insurance benefits pursuant to the preceding provisions of this paragraph, each such child who is entitled on the wages and self-employment income of the same insured individuals shall be entitled on the wages and self-employment income of the same such insured individual.
 
-(B) Any individual (other than an individual to whom subsection (e)(3) or (f)(4) of this section applies) who, under the preceding provisions of this section and under the provisions of section 423 of this title, is entitled for any month to more than one monthly insurance benefit (other than an old-age or disability insurance benefit) under this subchapter shall be entitled to only one such monthly benefit for such month, such benefit to be the largest of the monthly benefits to which he (but for this subparagraph) would otherwise be entitled for such month. Any individual who is entitled for any month to more than one widow's or widower's insurance benefit to which subsection (e)(3) or (f)(4) of this section applies shall be entitled to only one such benefit for such month, such benefit to be the largest of such benefits.
+(B) Any individual (other than an individual to whom subsection (e)(3) or (f)(3) of this section applies) who, under the preceding provisions of this section and under the provisions of section 423 of this title, is entitled for any month to more than one monthly insurance benefit (other than an old-age or disability insurance benefit) under this subchapter shall be entitled to only one such monthly benefit for such month, such benefit to be the largest of the monthly benefits to which he (but for this subparagraph) would otherwise be entitled for such month. Any individual who is entitled for any month to more than one widow's or widower's insurance benefit to which subsection (e)(3) or (f)(3) of this section applies shall be entitled to only one such benefit for such month, such benefit to be the largest of such benefits.
 
-(3)(A) If an individual is entitled to an old-age or disability insurance benefit for any month and to any other monthly insurance benefit for such month, such other insurance benefit for such month, after any reduction under subsection (q), subsection (e)(2) or (f)(3) of this section, and any reduction under section 403(a) of this title, shall be reduced, but not below zero, by an amount equal to such old-age or disability insurance benefit (after reduction under such subsection (q) of this section).
+(3)(A) If an individual is entitled to an old-age or disability insurance benefit for any month and to any other monthly insurance benefit for such month, such other insurance benefit for such month, after any reduction under subsection (q), subsection (e)(2) or (f)(2) of this section, and any reduction under section 403(a) of this title, shall be reduced, but not below zero, by an amount equal to such old-age or disability insurance benefit (after reduction under such subsection (q) of this section).
 
-(B) If an individual is entitled for any month to a widow's or widower's insurance benefit to which subsection (e)(3) or (f)(4) of this section applies and to any other monthly insurance benefit under this section (other than an old-age insurance benefit), such other insurance benefit for such month, after any reduction under subparagraph (A) of this paragraph, any reduction under subsection (q) of this section, and any reduction under section 403(a) of this title, shall be reduced, but not below zero, by an amount equal to such widow's or widower's insurance benefit after any reduction or reductions under such subparagraph (A) and such section 403(a).
+(B) If an individual is entitled for any month to a widow's or widower's insurance benefit to which subsection (e)(3) or (f)(3) of this section applies and to any other monthly insurance benefit under this section (other than an old-age insurance benefit), such other insurance benefit for such month, after any reduction under subparagraph (A) of this paragraph, any reduction under subsection (q) of this section, and any reduction under section 403(a) of this title, shall be reduced, but not below zero, by an amount equal to such widow's or widower's insurance benefit after any reduction or reductions under such subparagraph (A) and such section 403(a).
 
 (4) Any individual who, under this section and section 423 of this title, is entitled for any month to both an old-age insurance benefit and a disability insurance benefit under this subchapter shall be entitled to only the larger of such benefits for such month, except that, if such individual so elects, he shall instead be entitled to only the smaller of such benefits for such month.
+
+(5)(A) The amount of a monthly insurance benefit of any individual for each month under subsection (b), (c), (e), (f), or (g) of this section (as determined after application of the provisions of subsection (q) of this section and the preceding provisions of this subsection) shall be reduced (but not below zero) by an amount equal to two-thirds of the amount of any monthly periodic benefit payable to such individual for such month which is based upon such individual's earnings while in the service of the Federal Government or any State (or political subdivision thereof, as defined in section 418(b)(2) of this title) if, during any portion of the last 60 months of such service ending with the last day such individual was employed by such entity—
+
+&emsp;(i) such service did not constitute “employment” as defined in section 410 of this title, or
+
+&emsp;(ii) such service was being performed while in the service of the Federal Government, and constituted “employment” as so defined solely by reason of—
+
+&emsp;&emsp;(I) clause (ii) or (iii) of subparagraph (G) of section 410(a)(5) of this title, where the lump-sum payment described in such clause (ii) or the cessation of coverage described in such clause (iii) (whichever is applicable) was received or occurred on or after January 1, 1988, or
+
+&emsp;&emsp;(II) an election to become subject to the Federal Employees’ Retirement System provided in chapter 84 of title 5 or the Foreign Service Pension System provided in subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 \[22 U.S.C. 4071 et seq.\] made pursuant to law after December 31, 1987,
+
+> &emsp;unless subparagraph (B) applies.
+
+> The amount of the reduction in any benefit under this subparagraph, if not a multiple of $0.10, shall be rounded to the next higher multiple of $0.10.
+
+(B)(i) Subparagraph (A)(i) shall not apply with respect to monthly periodic benefits based wholly on service as a member of a uniformed service (as defined in section 410(m) of this title).
+
+(ii) Subparagraph (A)(ii) shall not apply with respect to monthly periodic benefits based in whole or in part on service which constituted “employment” as defined in section 410 of this title if such service was performed for at least 60 months in the aggregate during the period beginning January 1, 1988, and ending with the close of the first calendar month as of the end of which such individual is eligible for benefits under this subsection and has made a valid application for such benefits.
+
+(C) For purposes of this paragraph, any periodic benefit which otherwise meets the requirements of subparagraph (A), but which is paid on other than a monthly basis, shall be allocated on a basis equivalent to a monthly benefit (as determined by the Commissioner of Social Security) and such equivalent monthly benefit shall constitute a monthly periodic benefit for purposes of subparagraph (A). For purposes of this subparagraph, the term “periodic benefit” includes a benefit payable in a lump sum if it is a commutation of, or a substitute for, periodic payments.
 
 #### (<i>l</i>) Entitlement to survivor benefits under railroad retirement provisions
 
@@ -682,11 +612,11 @@ If any person would be entitled, upon filing application therefor to an annuity 
 
 #### (m) Repealed. Pub. L. 97–35, title XXII, §2201(b)(10), Aug. 13, 1981, 95 Stat. 831
 
-#### (n) Termination of benefits upon deportation of primary beneficiary
+#### (n) Termination of benefits upon removal of primary beneficiary
 
-(1) If any individual is (after September 1, 1954) deported under section 1227(a) of title 8 (other than under paragraph (1)(C) or (1)(E) thereof), then, notwithstanding any other provisions of this subchapter—
+(1) If any individual is (after September 1, 1954) removed under section 1227(a) of title 8 (other than under paragraph (1)(C) of such section) or under section 1182(a)(6)(A) of title 8, then, notwithstanding any other provisions of this subchapter—
 
-&emsp;(A) no monthly benefit under this section or section 423 of this title shall be paid to such individual, on the basis of his wages and self-employment income, for any month occurring (i) after the month in which the Commissioner of Social Security is notified by the Attorney General that such individual has been so deported, and (ii) before the month in which such individual is thereafter lawfully admitted to the United States for permanent residence,
+&emsp;(A) no monthly benefit under this section or section 423 of this title shall be paid to such individual, on the basis of his wages and self-employment income, for any month occurring (i) after the month in which the Commissioner of Social Security is notified by the Attorney General or the Secretary of Homeland Security that such individual has been so removed, and (ii) before the month in which such individual is thereafter lawfully admitted to the United States for permanent residence,
 
 &emsp;(B) if no benefit could be paid to such individual (or if no benefit could be paid to him if he were alive) for any month by reason of subparagraph (A), no monthly benefit under this section shall be paid, on the basis of his wages and self-employment income, for such month to any other person who is not a citizen of the United States and is outside the United States for any part of such month, and
 
@@ -694,9 +624,9 @@ If any person would be entitled, upon filing application therefor to an annuity 
 
 > Section 403(b), (c), and (d) of this title shall not apply with respect to any such individual for any month for which no monthly benefit may be paid to him by reason of this paragraph.
 
-(2) As soon as practicable after the deportation of any individual under any of the paragraphs of section 1227(a) of title 8 (other than under paragraph (1)(C) or (1)(E) thereof), the Attorney General shall notify the Commissioner of Social Security of such deportation.
+(2) As soon as practicable after the removal of any individual under any of the paragraphs of section 1227(a) of title 8 (other than under paragraph (1)(C) of such section) or under section 1182(a)(6)(A) of title 8, the Attorney General or the Secretary of Homeland Security shall notify the Commissioner of Social Security of such removal.
 
-(3) For purposes of paragraphs (1) and (2) of this subsection, an individual against whom a final order of deportation has been issued under paragraph (19) <sup>2</sup> of section 1227(a) of title 8 (relating to persecution of others on account of race, religion, national origin, or political opinion, under the direction of or in association with the Nazi government of Germany or its allies) shall be considered to have been deported under such paragraph (19) <sup>2</sup> as of the date on which such order became final.
+(3) For purposes of paragraphs (1) and (2) of this subsection, an individual against whom a final order of removal has been issued under paragraph (4)(D) of section 1227(a) of title 8 (relating to participating in Nazi persecutions or genocide) shall be considered to have been removed under such paragraph (4)(D) as of the date on which such order became final.
 
 #### (<i>o</i>) Application for benefits by survivors of members and former members of uniformed services
 
@@ -722,7 +652,7 @@ In any case in which there is a failure—
 
 &emsp;(ii) if less, the number of such months in the adjusted reduction period for such benefit (determined under paragraph (7)), if such benefit is (I) for the month in which such individual attains age 62, or (II) for the month in which such individual attains retirement age.
 
-(2) If an individual is entitled to a disability insurance benefit for a month after a month for which such individual was entitled to an old-age insurance benefit, such disability insurance benefit for each month shall be reduced by the amount such old-age insurance benefit would be reduced under paragraphs (1) and (4) for such month had such individual attained retirement age (as defined in section 416(<i>l</i>) of this title) inthe first month for which he most recently became entitled to a disability insurance benefit.
+(2) If an individual is entitled to a disability insurance benefit for a month after a month for which such individual was entitled to an old-age insurance benefit, such disability insurance benefit for each month shall be reduced by the amount such old-age insurance benefit would be reduced under paragraphs (1) and (4) for such month had such individual attained retirement age (as defined in section 416(<i>l</i>) of this title) in the first month for which he most recently became entitled to a disability insurance benefit.
 
 (3)(A) If the first month for which an individual both is entitled to a wife's, husband's, widow's, or widower's insurance benefit and has attained age 62 (in the case of a wife's or husband's insurance benefit) or age 50 (in the case of a widow's or widower's insurance benefit) is a month for which such individual is also entitled to—
 
@@ -816,9 +746,9 @@ In any case in which there is a failure—
 
 &emsp;(A) in the case of old-age, wife's, and husband's insurance benefits, by multiplying such amount by the ratio of (i) the number of months in the adjusted reduction period to (ii) the number of months in the reduction period,
 
-&emsp;(B) in the case of widow's and widower's insurance benefits for the month in which such individual attains age 62, by multiplying such amount by the ratio of (i) the number of months in the reduction period beginning with age 62 multiplied by 19/40 of 1 percent, plus the number of months in the adjusted reduction period prior to age 62 multiplied by 19/40 of 1 percent to (ii) the number of months in the reduction period multiplied by 19/40 of 1 percent, and
+&emsp;(B) in the case of widow's and widower's insurance benefits for the month in which such individual attains age 62, by multiplying suchamount by the ratio of (i) the number of months in the reduction period beginning with age 62 multiplied by 19/40 of 1 percent, plus the number of months in the adjusted reduction period prior to age 62 multiplied by 19/40 of 1 percent to (ii) the number of months in the reduction period multiplied by 19/40 of 1 percent, and
 
-&emsp;(C) in the case of widow's and widower's insurance benefits for the month in which such individual attains retirement age (as defined in section 416(<i>l</i>) of this title), by multiplying such amount by the ratio of (i) the number of months in the adjusted reduction period multiplied by 19/40 of 1 percent to (ii) the number ofmonths in the reduction period beginning with age 62 multiplied by 19/40 of 1 percent, plus the number of months in the adjusted reduction period prior to age 62 multiplied by 19/40 of 1 percent,
+&emsp;(C) in the case of widow's and widower's insurance benefits for the month in which such individual attains retirement age (as defined in section 416(<i>l</i>) of this title), by multiplying such amount by the ratio of (i) the number of months in the adjusted reduction period multiplied by 19/40 of 1 percent to (ii) the number of months in the reduction period beginning with age 62 multiplied by 19/40 of 1 percent, plus the number of months in the adjusted reduction period prior to age 62 multiplied by 19/40 of 1 percent,
 
 > such determination being made in accordance with the provisions of paragraph (8).
 
@@ -840,9 +770,9 @@ In any case in which there is a failure—
 
 (1) For the purposes of subsections (b)(1), (c)(1), (g)(1), (q)(5), and (q)(7) of this section and paragraphs (2), (3), and (4) of section 403(c) of this title, a child who is entitled to child's insurance benefits under subsection (d) of this section for any month, and who has attained the age of 16 but is not in such month under a disability (as defined in section 423(d) of this title), shall be deemed not entitled to such benefits for such month, unless he was under such a disability in the third month before such month.
 
-(2) So much of subsections (b)(3), (c)(4), (d)(5), (g)(3), and (h)(4) of this section as precedes the semicolon, shall not apply in the case of any child unless such child, at the time of the marriage referred to therein, was under a disability (as defined in section 423(d) of this title) or had been under such a disability in the third month before the month in which such marriage occurred.
+(2) So much of subsections (b)(3), (c)(4),<sup>1</sup> (d)(5), (g)(3), and (h)(4) of this section as precedes the semicolon, shall not apply in the case of any child unless such child, at the time of the marriage referred to therein, was under a disability (as defined in section 423(d) of this title) or had been under such a disability in the third month before the month in which such marriage occurred.
 
-(3) The last sentence of subsection (c) of section 403 of this title, subsection (f)(1)(C) of section 403 of this title, and subsections (b)(3)(B), (c)(6)(B), (f)(3)(B), and (g)(6)(B) of section 416 of this title shall not apply in the case of any child with respect to any month referred to therein unless in such month or the third month prior thereto such child was under a disability (as defined in section 423(d) of this title).
+(3) The last sentence of subsection (c) of section 403 of this title, subsection (f)(1)(C) of section 403 of this title, and subsections (b)(3)(B), (c)(6)(B),<sup>1</sup> (f)(3)(B), and (g)(6)(B) <sup>1</sup> of section 416 of this title shall not apply in the case of any child with respect to any month referred to therein unless in such month or the third month prior thereto such child was under a disability (as defined in section 423(d) of this title).
 
 #### (t) Suspension of benefits of aliens who are outside United States; residency requirements for dependents and survivors
 
@@ -858,13 +788,13 @@ In any case in which there is a failure—
 
 &emsp;(A) periodic benefits, or the actuarial equivalent thereof, are paid on account of old age, retirement, or death, and
 
-&emsp;(B) individuals who are citizens of the United States but not citizens of such foreign country and who qualify for such benefits are permitted to receive such benefits or the actuarial equivalent thereof while outside such foreign country without regard to the duration of the absence.
+&emsp;(B) individuals who are citizens of the United States but not citizens of such foreign country and who qualify for such benefits arepermitted to receive such benefits or the actuarial equivalent thereof while outside such foreign country without regard to the duration of the absence.
 
 (3) Paragraph (1) of this subsection shall not apply in any case where its application would be contrary to any treaty obligation of the United States in effect on August 1, 1956.
 
 (4) Subject to paragraph (11), paragraph (1) of this subsection shall not apply to any benefit for any month if—
 
-&emsp;(A) not less than forty of the quarters elapsing before such month are quarters of coverage for the individual on whose wages andself-employment income such benefit is based, or
+&emsp;(A) not less than forty of the quarters elapsing before such month are quarters of coverage for the individual on whose wages and self-employment income such benefit is based, or
 
 &emsp;(B) the individual on whose wages and self-employment income such benefit is based has, before such month, resided in the United States for a period or periods aggregating ten years or more, or
 
@@ -890,7 +820,7 @@ In any case in which there is a failure—
 
 (11)(A) Paragraph (2) and subparagraphs (A), (B), (C), and (E) of paragraph (4) shall apply with respect to an individual's monthly benefits under subsection (b), (c), (d), (e), (f), (g), or (h) of this section only if such individual meets the residency requirements of this paragraph with respect to those benefits.
 
-(B) An individual entitled to benefits under subsection (b), (c), (e), (f), or (g) of this section meets the residency requirements of this paragraph with respect to those benefits only if such individual has resided in the United States, and while so residing bore a spousal relationship to the person on whose wages and self-employment income such entitlement is based, for a total period of not less than 5 years. For purposes of this subparagraph, a period of time for which an individual bears a spousal relationship to another person consists of a period throughout which the individual has been, with respect to such other person, a wife, a husband, a widow, a widower, a divorced wife, a divorced husband, a surviving divorced wife, a surviving divorced husband, a surviving divorced mother, a surviving divorced father, or (as applicable in the course of such period) any two or more of the foregoing.
+(B) An individual entitled to benefits under subsection (b), (c), (e), (f), or (g) of this section meets the residency requirements of this paragraph with respect to those benefits only if suchindividual has resided in the United States, and while so residing bore a spousal relationship to the person on whose wages and self-employment income such entitlement is based, for a total period of not less than 5 years. For purposes of this subparagraph, a period of time for which an individual bears a spousal relationship to another person consists of a period throughout which the individual has been, with respect to such other person, a wife, a husband, a widow, a widower, a divorced wife, a divorced husband, a surviving divorced wife, a surviving divorced husband, a surviving divorced mother, a surviving divorced father, or (as applicable in the course of such period) any two or more of the foregoing.
 
 (C) An individual entitled to benefits under subsection (d) of this section meets the residency requirements of this paragraph with respect to those benefits only if—
 
@@ -932,7 +862,7 @@ In any case in which there is a failure—
 
 (2) Notwithstanding any other provision of this subchapter, and subject to paragraph (3), in the case of any individual who files a waiver pursuant to section 3127 of the Internal Revenue Code of 1986 and is granted a tax exemption thereunder, no benefits or other payments shall be payable under this subchapter to him, no payments shall be made on his behalf under part A of subchapter XVIII of this chapter, and no benefits or other payments under this subchapter shall be payable on the basis of his wages and self-employment income to any other person, after the filing of such waiver.
 
-(3) If, after an exemption referred to in paragraph (1) or (2) is granted to an individual, such exemption ceases to be effective, the waiver referred to in such paragraph shall cease to be applicable in the case of benefits and other payments under this subchapter and part A of subchapter XVIII of this chapter to the extent based on—
+(3) If, after an exemption referred to in paragraph (1) or (2) is granted to an individual, suchexemption ceases to be effective, the waiver referred to in such paragraph shall cease to be applicable in the case of benefits and other payments under this subchapter and part A of subchapter XVIII of this chapter to the extent based on—
 
 &emsp;(A) his wages for and after the calendar year following the calendar year in which occurs the failure to meet the requirements of section 1402(g) or 3127 of the Internal Revenue Code of 1986 on which the cessation of such exemption is based, and
 
@@ -974,7 +904,7 @@ In any case in which there is a failure—
 
 &emsp;(D) 2/3 of 1 percent in the case of an individual who first becomes eligible for an old-age insurance benefit in a calendar year after 2004.
 
-#### (x) Limitation on payments to prisoners and certain other inmates of publicly funded institutions
+#### (x) Limitation on payments to prisoners, certain other inmates of publicly funded institutions, fugitives, probationers, and parolees
 
 (1)(A) Notwithstanding any other provision of this subchapter, no monthly benefits shall be paid under this section or under section 423 of this title to any individual for any month ending with or during or beginning with or during a period of more than 30 days throughout all of which such individual—
 
@@ -988,17 +918,33 @@ In any case in which there is a failure—
 
 &emsp;&emsp;(III) a finding that such individual is incompetent to stand trial under an allegation of such an offense, or
 
-&emsp;&emsp;(IV) a similar verdict or finding with respect to such an offense based on similar factors (such as a mental disease, a mental defect, or mental incompetence), or
+&emsp;&emsp;(IV) a similar verdict or finding with respect to such an offense based on similar factors (such as a mental disease, a mental defect, or mental incompetence),
 
-&emsp;(iii) immediately upon completion of confinement as described in clause (i) pursuant to conviction of a criminal offense an element of which is sexual activity, is confined by court order in an institution at public expense pursuant to a finding that the individual is a sexually dangerous person or a sexual predator or a similar finding.
+&emsp;(iii) immediately upon completion of confinement as described in clause (i) pursuant to conviction of a criminal offense an element of which is sexual activity, is confined by court order in an institution at public expense pursuant to a finding that the individual is a sexually dangerous person or a sexual predator or a similar finding,
 
-(B)(i) For purposes of clause (i) of subparagraph (A), an individual shall not be considered confined in an institution comprising a jail, prison, or other penal institution or correctionalfacility during any month throughout which such individual is residing outside such institution at no expense (other than the cost of monitoring) to such institution or the penal system or to any agency to which the penal system has transferred jurisdiction over the individual.
+&emsp;(iv) is fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which the person flees, for a crime, or an attempt to commit a crime, which is a felony under the laws of the place from which the person flees, or, in jurisdictions that do not define crimes as felonies, is punishable by death or imprisonment for a term exceeding 1 year regardless of the actual sentence imposed, or
+
+&emsp;(v) is violating a condition of probation or parole imposed under Federal or State law.
+
+(B)(i) For purposes of clause (i) of subparagraph (A), an individual shall not be considered confined in an institution comprising a jail, prison, or other penal institution or correctional facility during any month throughout which such individual is residing outside such institution at no expense (other than the cost of monitoring) to such institution or the penal system or to any agency to which the penal system has transferred jurisdiction over the individual.
 
 (ii) For purposes of clauses (ii) and (iii) of subparagraph (A), an individual confined in an institution as described in such clause (ii) shall be treated as remaining so confined until—
 
 &emsp;(I) he or she is released from the care and supervision of such institution, and
 
 &emsp;(II) such institution ceases to meet the individual's basic living needs.
+
+(iii) Notwithstanding subparagraph (A), the Commissioner shall, for good cause shown, pay the individual benefits that have been withheld or would otherwise be withheld pursuant to clause (iv) or (v) of subparagraph (A) if the Commissioner determines that—
+
+&emsp;(I) a court of competent jurisdiction has found the individual not guilty of the criminal offense, dismissed the charges relating to the criminal offense, vacated the warrant for arrest of the individual for the criminal offense, or issued any similar exonerating order (or taken similar exonerating action), or
+
+&emsp;(II) the individual was erroneously implicated in connection with the criminal offense by reason of identity fraud.
+
+(iv) Notwithstanding subparagraph (A), the Commissioner may, for good cause shown based on mitigating circumstances, pay the individual benefits that have been withheld or would otherwise be withheld pursuant to clause (iv) or (v) of subparagraph (A) if the Commissioner determines that—
+
+&emsp;(I) the offense described in clause (iv) or underlying the imposition of the probation or parole described in clause (v) was nonviolent and not drug-related, and
+
+&emsp;(II) in the case of an individual from whom benefits have been withheld or otherwise would be withheld pursuant to subparagraph (A)(v), the action that resulted in the violation of a condition of probation or parole was nonviolent and not drug-related.
 
 (2) Benefits which would be payable to any individual (other than a confined individual to whom benefits are not payable by reason of paragraph (1)) under this subchapter on the basis of the wages and self-employment income of such a confined individual but for the provisions of paragraph (1), shall be payable as though such confined individual were receiving such benefits under this section or section 423 of this title.
 
@@ -1012,31 +958,43 @@ In any case in which there is a failure—
 
 (ii) The dollar amounts specified in clause (i)(II) shall be reduced by 50 percent if the Commissioner is also required to make a payment to the institution with respect to the same individual under an agreement entered into under section 1382(e)(1)(I) of this title.
 
-(iii) There are authorized to be transferred from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, as appropriate, such sums as may be necessary to enable the Commissioner to make payments to institutions required by clause (i)(II).
+(iii) There are authorized to be transferred from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, as appropriate, such sums as may be necessary to enable the Commissionerto make payments to institutions required by clause (i)(II).
 
 (iv) The Commissioner shall maintain, and shall provide on a reimbursable basis, information obtained pursuant to agreements entered into under this paragraph to any agency administering a Federal or federally-assisted cash, food, or medical assistance program for eligibility and other administrative purposes under such program.
+
+(C) Notwithstanding the provisions of section 552a of title 5 or any other provision of Federal or State law (other than section 6103 of the Internal Revenue Code of 1986 and section 1306(c) of this title), the Commissioner shall furnish any Federal, State, or local law enforcement officer, upon the written request of the officer, with the current address, Social Security number, and photograph (if applicable) of any beneficiary under this subchapter, if the officer furnishes the Commissioner with the name of the beneficiary, and other identifying information as reasonably required by the Commissioner to establish the unique identity of the beneficiary, and notifies the Commissioner that—
+
+&emsp;(i) the beneficiary is described in clause (iv) or (v) of paragraph (1)(A); and
+
+&emsp;(ii) the location or apprehension of the beneficiary is within the officer's official duties.
 
 #### (y) Limitation on payments to aliens
 
 Notwithstanding any other provision of law, no monthly benefit under this subchapter shall be payable to any alien in the United States for any month during which such alien is not lawfully present in the United States as determined by the Attorney General.
 
-(Aug. 14, 1935, ch. 531, title II, §202, 49 Stat. 623; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1363; Aug. 10, 1946, ch. 951, title IV, §§402, 403(a), 404(a), 405(a), 60 Stat. 986, 987; Aug. 28, 1950, ch. 809, title I, §101(a), 64 Stat. 482; Aug. 14, 1953, ch. 483, §2, 67 Stat. 580; Sept. 1, 1954, ch. 1206, title I, §§102(i), 105(a), 107, 110, 68 Stat. 1073, 1079, 1083, 1085; Aug. 9, 1955, ch. 685, §2, 69 Stat. 621; Aug. 1, 1956, ch. 836, title I, §§101(a)–(c), 102(c), (d)(1)–(10), 103(c)(1)–(3), 113, 114(a), 118(a), 121(a), 70 Stat. 807, 810–814, 818, 831, 832, 835, 838; Aug. 1, 1956, ch. 837, title IV, §§403(a), 407, 70 Stat. 871, 876; Pub. L. 85–238, §§1, 3(a)–(g), Aug. 30, 1957, 71 Stat. 518; Pub. L. 85–798, §1, Aug. 28, 1958, 72 Stat. 964; Pub. L. 85–840, title I, §101(e), title II, §205(b)–(i), title III, §§301(a)(1), (b)(1), (c)(1), 303, 304(a)(1), 305(a), 306(a), 307(a)–(e), Aug. 28, 1958, 72 Stat. 1017, 1021–1024, 1026, 1027, 1029–1032; Pub. L. 85–857, §13(i)(1), Sept. 2, 1958, 72 Stat. 1265; Pub. L. 85–927, §301, Sept. 6, 1958, 72 Stat. 1783; Pub. L. 86–70, §32(c)(1), June 25, 1959, 73 Stat. 149; Pub. L. 86–624, §30(c)(1), July 12, 1960, 74 Stat. 420; Pub. L. 86–778, title I, §103(a)(1), (j)(2)(C), (D), title II, §§201(a), (b), 202(a), 203(a), 205(a), (b), 208(d), 211(i)–(<i>l</i>), title III, §301(a), title IV, §403(d), Sept. 13, 1960, 74 Stat. 936, 937, 946, 947, 949, 952, 957–959, 1969; Pub. L. 87–64, title I, §§102(a), (b)(1), (2)(A), (3), (e), 104(a)–(d), June 30, 1961, 75 Stat. 131, 134–136, 138, 139; Pub. L. 89–97, title I, §104(a), title III, §§303(d), 304(a)–(j), 306(a), (b), (c)(1)–(9), 307(a), (b), 308(a), (b), (d)(1), (2)(A), (3)–(5), (12), (13), 319(d), 323(a), 324(a), 328(a), 333(a)–(c), 334(e), (f), 339(b), 343(a), July 30, 1965, 79 Stat. 334, 367–379, 392, 397, 398, 400, 403–405, 410, 412; Pub. L. 90–248, title I, §§103(a)–(d), 104(a)–(c), 112(a), 151(a)–(d)(1), (2), 157(a), (b), 158(c)(1), (2), 162(a)(1), (b)(1), (c)(1), (2), Jan. 2, 1968, 81 Stat. 828–830, 838, 860, 867, 868, 871; Pub. L. 91–172, title X,§1004(a)–(c), Dec. 30, 1969, 83 Stat. 741; Pub. L. 92–223, §1, Dec. 28, 1971, 85 Stat. 802; Pub. L. 92–603, title I, §§102(a), (b), (d)–(f), 103(a), (b), 107(a), 108(a)–(e), 109(a), 110(a), 111(a), 112(a), 113(b), 114(a)–(c), 116(b), (c), Oct. 30, 1972, 86 Stat. 1335, 1336, 1338–1340, 1343–1348, 1350; Pub. L. 93–66, title II, §240(a), July 9, 1973, 87 Stat. 161; Pub. L. 93–233, §§1(f), (g), 18(b), Dec. 31, 1973, 87 Stat. 947, 948, 967; Pub. L. 93–445, title III, §301, Oct. 16, 1974, 88 Stat. 1357; Pub. L. 95–216, title II, §§203, 204(a)–(d), 205(a), (b), title III, §§331(a)–(c), 332(a)(1), (2), 334(a)–(d)(4)(A), (5), (6), (e), 336(a), (b), 337(b), 353(f)(1), Dec. 20, 1977, 91 Stat. 1527–1529, 1541–1548, 1554; Pub. L. 95–600, title VII, §703(j)(14)(A), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 96–265, title III, §§303(b)(1)(B)–(D), 306(a), June 9, 1980, 94 Stat. 451, 452, 457; Pub. L. 96–473, §§5(b), 6(a), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 96–499, title X, §1011(a), Dec. 5, 1980, 94 Stat. 2655; Pub. L. 97–35, title XXII, §§2201(b)(10), (11), (d), (f), 2202(a)(1), 2203(a), (b)(1), (c)(1), (d)(1), (2), 2205(a), 2206(b)(1), 2210(a), Aug. 13, 1981, 95 Stat. 831–838, 841; Pub. L. 97–123, §2(e), Dec. 29, 1981, 95 Stat. 1660; Pub. L. 97–455, §7(c), Jan. 12, 1983, 96 Stat. 2501; Pub. L. 98–21, title I, §§111(a)(7), 113(d), 114(a)–(c)(1), 131(a)(1)–(3)(G), (b)(1)–(3)(F), (c), 132(a), 133(a), (b), 134(a), (b), title II, §201(b), (c)(1)(A), title III, §§301(a), (b), 302, 306(a), (b), (d)–(h), 307(a), 309(a)–(e), 334(a), 337(a), 339(a), 340(a), (b), Apr. 20, 1983, 97 Stat. 72, 79, 92, 93, 95–98, 108, 111–116, 130, 131, 133–135; Pub. L. 98–369, div. B, title VI, §§2661(b)–(f), 2662(c)(1), 2663(a)(2), July 18, 1984, 98 Stat. 1156, 1159, 1160; Pub. L. 99–272, title XII, §§12104(a), 12107(a), Apr. 7, 1986, 100 Stat. 285, 286; Pub. L. 99–514, title XVIII, §1883(a)(1)–(3), Oct. 22, 1986, 100 Stat. 2916; Pub. L. 100–203, title IX, §§9007(a)–(e), 9010(b)–(d), Dec. 22, 1987, 101 Stat. 1330–289 to 1330–293; Pub. L. 100–647, title VIII, §§8004(a), (b), 8007(b), 8010(a), (b), 8014(a), Nov. 10, 1988, 102 Stat. 3780, 3782, 3788, 3790; Pub. L. 101–239, title X, §§10203(a), 10301(a), (b), 10302(a)(1), Dec. 19, 1989, 103 Stat. 2473, 2481; Pub. L. 101–508, title V, §§5103(c)(2)(A), (B), (d), 5116(a), Nov. 5, 1990, 104 Stat. 1388–252, 1388–253, 1388–274; Pub. L. 101–649, title VI, §603(b)(5), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–54, §13(q)(3)(C), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §107(a)(4), title III, §§308(a), 321(a)(2)–(5), (b)(1), (c)(2), Aug. 15, 1994, 108 Stat. 1478, 1522, 1535–1538; Pub. L. 103–387, §4(a), Oct. 22, 1994, 108 Stat. 4076; Pub. L. 104–121, title I, §104(a)(1), (b)(1), (2), Mar. 29, 1996, 110 Stat. 851, 852; Pub. L. 104–208, div. C, title III, §308(g)(1), title V, §503(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–671; Pub. L. 106–169, title II, §207(b), Dec. 14, 1999, 113 Stat. 1838; Pub. L. 106–170, title IV, §402(a)(1), (b)(1), (d)(1), (2), 113 Stat. 1907–1909; Pub. L. 106–182, §4(b), Apr. 7, 2000, 114 Stat. 199.)
+(Aug. 14, 1935, ch. 531, title II, §202, 49 Stat. 623; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1363; Aug. 10, 1946, ch. 951, title IV, §§402, 403(a), 404(a), 405(a), 60 Stat. 986, 987; Aug. 28, 1950, ch. 809, title I, §101(a), 64 Stat. 482; Aug. 14, 1953, ch. 483, §2, 67 Stat. 580; Sept. 1, 1954, ch. 1206, title I, §§102(i), 105(a), 107, 110, 68 Stat. 1073, 1079, 1083, 1085; Aug. 9, 1955, ch. 685, §2, 69 Stat. 621; Aug. 1, 1956, ch. 836, title I, §§101(a)–(c), 102(c), (d)(1)–(10), 103(c)(1)–(3), 113, 114(a), 118(a), 121(a), 70 Stat. 807, 810–814, 818, 831, 832, 835, 838; Aug. 1, 1956, ch. 837, title IV, §§403(a), 407, 70 Stat. 871, 876; Pub. L. 85–238, §§1, 3(a)–(g), Aug. 30, 1957, 71 Stat. 518; Pub. L. 85–798, §1, Aug. 28, 1958, 72 Stat. 964; Pub. L. 85–840, title I, §101(e), title II, §205(b)–(i), title III, §§301(a)(1), (b)(1), (c)(1), 303, 304(a)(1), 305(a), 306(a), 307(a)–(e), Aug. 28, 1958, 72 Stat. 1017, 1021–1024, 1026, 1027, 1029–1032; Pub. L. 85–857, §13(i)(1), Sept. 2, 1958, 72 Stat. 1265; Pub. L. 85–927, §301, Sept. 6, 1958, 72 Stat. 1783; Pub. L. 86–70, §32(c)(1), June 25, 1959, 73 Stat. 149; Pub. L. 86–624, §30(c)(1), July 12, 1960, 74 Stat. 420; Pub. L. 86–778, title I, §103(a)(1), (j)(2)(C), (D), title II, §§201(a), (b), 202(a), 203(a), 205(a), (b), 208(d), 211(i)–(<i>l</i>), title III, §301(a), title IV, §403(d), Sept. 13, 1960, 74 Stat. 936, 937, 946, 947, 949, 952, 957–959, 1969; Pub. L. 87–64, title I, §§102(a), (b)(1), (2)(A), (3), (e), 104(a)–(d), June 30, 1961, 75 Stat. 131, 134–136, 138, 139; Pub. L. 89–97, title I, §104(a), title III, §§303(d), 304(a)–(j), 306(a), (b), (c)(1)–(9), 307(a), (b), 308(a), (b), (d)(1), (2)(A), (3)–(5), (12), (13), 319(d), 323(a), 324(a), 328(a), 333(a)–(c), 334(e), (f), 339(b), 343(a), July 30, 1965, 79 Stat. 334, 367–379, 392, 397, 398, 400, 403–405, 410, 412; Pub. L. 90–248, title I, §§103(a)–(d), 104(a)–(c), 112(a), 151(a)–(d)(1), (2), 157(a), (b), 158(c)(1), (2), 162(a)(1), (b)(1), (c)(1), (2), Jan. 2, 1968, 81 Stat. 828–830, 838, 860, 867, 868, 871; Pub. L. 91–172, title X, §1004(a)–(c), Dec. 30, 1969, 83 Stat. 741; Pub. L. 92–223, §1, Dec. 28, 1971, 85 Stat. 802; Pub. L. 92–603, title I, §§102(a), (b), (d)–(f), 103(a), (b), 107(a), 108(a)–(e), 109(a), 110(a), 111(a), 112(a), 113(b), 114(a)–(c), 116(b), (c), Oct. 30, 1972, 86 Stat. 1335, 1336, 1338–1340, 1343–1348, 1350; Pub. L. 93–66, title II, §240(a), July 9, 1973, 87 Stat. 161; Pub. L. 93–233, §§1(f), (g), 18(b), Dec. 31, 1973, 87 Stat. 947, 948, 967; Pub. L. 93–445, title III, §301, Oct. 16, 1974, 88 Stat. 1357; Pub. L. 95–216, title II, §§203, 204(a)–(d), 205(a), (b), title III, §§331(a)–(c), 332(a)(1), (2), 334(a)–(d)(4)(A), (5), (6), (e), 336(a), (b), 337(b), 353(f)(1), Dec. 20, 1977, 91 Stat. 1527–1529, 1541–1548, 1554; Pub. L. 95–600, title VII, §703(j)(14)(A), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 96–265, title III, §§303(b)(1)(B)–(D), 306(a), June 9, 1980, 94 Stat. 451, 452, 457; Pub. L. 96–473, §§5(b), 6(a), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 96–499, title X, §1011(a), Dec. 5, 1980, 94 Stat. 2655; Pub. L. 97–35, title XXII, §§2201(b)(10), (11), (d), (f), 2202(a)(1), 2203(a), (b)(1), (c)(1), (d)(1), (2), 2205(a), 2206(b)(1), 2210(a), Aug. 13, 1981, 95 Stat. 831–838, 841; Pub. L. 97–123, §2(e), Dec. 29, 1981, 95 Stat. 1660; Pub. L. 97–455, §7(c), Jan. 12, 1983, 96 Stat. 2501; Pub. L. 98–21, title I, §§111(a)(7), 113(d), 114(a)–(c)(1), 131(a)(1)–(3)(G), (b)(1)–(3)(F), (c), 132(a), 133(a), (b), 134(a), (b), title II, §201(b), (c)(1)(A), title III, §§301(a), (b), 302, 306(a), (b), (d)–(h), 307(a), 309(a)–(e), 334(a), 337(a), 339(a), 340(a), (b), Apr. 20, 1983, 97 Stat. 72, 79, 92, 93, 95–98, 108, 111–116, 130, 131, 133–135; Pub. L. 98–369, div. B, title VI, §§2661(b)–(f), 2662(c)(1), 2663(a)(2), July 18, 1984, 98 Stat. 1156, 1159, 1160; Pub. L. 99–272, title XII, §§12104(a), 12107(a), Apr. 7, 1986, 100 Stat. 285, 286; Pub. L. 99–514, title XVIII, §1883(a)(1)–(3), Oct. 22, 1986, 100 Stat. 2916; Pub. L. 100–203, title IX, §§9007(a)–(e), 9010(b)–(d), Dec. 22, 1987, 101 Stat. 1330–289 to 1330–293; Pub. L. 100–647, title VIII, §§8004(a), (b), 8007(b), 8010(a), (b), 8014(a), Nov. 10, 1988, 102 Stat. 3780, 3782, 3788, 3790; Pub. L. 101–239, title X, §§10203(a), 10301(a), (b), 10302(a)(1), Dec. 19, 1989, 103 Stat. 2473, 2481; Pub. L. 101–508, title V, §§5103(c)(2)(A), (B), (d), 5116(a), Nov. 5, 1990, 104 Stat. 1388–252, 1388–253, 1388–274; Pub. L. 101–649, title VI, §603(b)(5), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–54, §13(q)(3)(C), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §107(a)(4), title III, §§308(a), 321(a)(2)–(5), (b)(1), (c)(2), Aug. 15, 1994, 108 Stat. 1478, 1522, 1535–1538; Pub. L. 103–387, §4(a), Oct. 22, 1994, 108 Stat. 4076; Pub. L. 104–121, title I, §104(a)(1), (b)(1), (2), Mar. 29, 1996, 110 Stat. 851, 852; Pub. L. 104–208, div. C, title III, §308(g)(1), title V, §503(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–671; Pub. L. 106–169, title II, §207(b), Dec. 14, 1999, 113 Stat. 1838; Pub. L. 106–170, title IV, §402(a)(1), (b)(1), (d)(1), (2), 113 Stat. 1907–1909; Pub. L. 106–182, §4(b), Apr. 7, 2000, 114 Stat. 199; Pub. L. 108–203, title II, §203(a), title IV, §§412(a), (b), 418(a)–(b)(4)(B)(vi), (5), 420A(a), Mar. 2, 2004, 118 Stat. 509, 527, 528, 531–533, 535.)
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsecs. (b)(4)(A)(ii)(II), (c)(2)(A)(ii)(II), (e)(7)(A)(ii)(II), (f)(2)(A)(ii)(II), and (g)(4)(A)(ii)(II), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Subchapter II of chapter 8 of title I of the Act is classified generally to part II (§4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
-
 The effective date of this sentence, referred to in subsec. (d)(7)(A), is the effective date of section 5 of Pub. L. 96–473, which added such sentence effective with respect to benefits payable for months beginning on or after October 1, 1980. See Effective Date of 1980 Amendments note below.
 
-Section 212 of Public Law 93–66, referred to in subsecs. (e)(5)(B), (9) and (f)(6)(B), (9), is set out as a note under section 1382 of this title.
+Section 212 of Public Law 93–66, referred to in subsecs. (e)(5)(B), (8) and (f)(5)(B), (8), is set out as a note under section 1382 of this title.
 
-Section 102(g) of the Social Security Amendments of 1972, referred to in subsecs. (e)(6) and (f)(7), is section 102(g) of Pub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a Redetermination of Widow's and Widower's Benefits note under this section.
+Section 102(g) of the Social Security Amendments of 1972, referred to in subsecs. (e)(6) and (f)(6), is section 102(g) of Pub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a Redetermination of Widow's and Widower's Benefits note under this section.
+
+Paragraph (3) of subsec. (f) of this section, referred to in subsec. (f)(1), was redesignated par. (2) of subsec. (f) by Pub. L. 108–203, §418(b)(4)(A)(i). See 2004 Amendment note below.
 
 Section 2201 of the Omnibus Budget Reconciliation Act of 1981, referred to in subsec. (i), is Pub. L. 97–35, title XXII, §2201, Aug. 13, 1981, 95 Stat. 830, which enacted section 1382k of this title, amended sections 402, 403, 415, 417, and 433 of this title, and enacted provisions set out as notes under sections 415 and 1382k of this title.
 
-Section 1227(a) of title 8, referred to in subsec. (n)(3), was amended generally by Pub. L. 101–649, title VI, §602(a), Nov. 29, 1990, 104 Stat. 5077, and, as so amended, does not contain a par. (19).
+The Foreign Service Act of 1980, referred to in subsec. (k)(5)(A)(ii)(II), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Subchapter II of chapter 8 of title I of the Act is classified generally to part II (§4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 Clause (B) of subsection (f)(1) of this section as in effect prior to the Social Security Act Amendments of 1950, and subsection (g) of this section as in effect prior to the Social Security Act Amendments of 1950, referred to in subsec. (p), means such subsections as in effect prior to September 1, 1950, which was the effective date of section 101(a) of act Aug. 28, 1950. See section 101(b), (1), (3) of act Aug. 28, 1950, set out as an Effective Date of 1950 Amendment note below.
+
+Subsection (c)(4) of this section, referred to in subsec. (s)(2), was redesignated subsec. (c)(3) by Pub. L. 108–203, §418(b)(2)(A). See 2004 Amendment note below.
+
+Subsection (c)(6)(B) of section 416 of this title, referred to in subsec. (s)(3), was redesignated subsec. (c)(1)(F)(ii) of section 416 of this title by Pub. L. 108–203, §414(a)(1), (2), (4).
+
+Subsection (g)(6)(B) of section 416 of this title, referred to in subsec. (s)(3), was redesignated subsec. (g)(1)(F)(ii) of section 416 of this title by Pub. L. 108–203, §414(b)(1), (2), (4).
 
 The Railroad Retirement Act of 1937, referred to in subsec. (t)(4)(E), is act Aug. 29, 1935, ch. 812, 49 Stat. 867, as amended generally. See par. for Railroad Retirement Act of 1974 below.
 
@@ -1046,7 +1004,7 @@ The month in which the Social Security Amendments of 1967 were enacted, referred
 
 Part A of subchapter XVIII of this chapter, referred to in subsecs. (t)(9), (u)(1), and (v)(2), (3), is classified to section 1395c et seq. of this title.
 
-The Internal Revenue Code of 1986, referred to in subsec. (v), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsecs. (v) and (x)(3)(C), is classified generally to Title 26, Internal Revenue Code.
 
 #### Codification
 
@@ -1054,7 +1012,75 @@ In subsec. (t)(4), (10), “sections 3329(a) and 3330(a) of title 31” substitu
 
 #### Amendments
 
-2000—Subsec. (w)(2)(B)(ii). Pub. L. 106–182 substituted “or, if so entitled, did not receive benefits pursuant toa request by such individual that benefits not be paid” for “or suffered deductions under section 403(b) or 403(c) of this title in amounts equal to the amount of such benefit”.
+2004—Subsec. (b)(2). Pub. L. 108–203, §418(b)(1)(A), substituted “subsections (k)(5) and (q) of this section” for “subsection (q) of this section and paragraph (4) of this subsection”.
+
+Subsec. (b)(4), (5). Pub. L. 108–203, §418(b)(1)(B), redesignated par. (5) as (4) and struck out former par. (4), which related to reduction of a wife's insurance benefit for each month, in certain circumstances, by an amount equal to two-thirds of the amount of any monthly periodic benefit payable to the wife for such month which is based upon her earnings while in the service of the Federal Government or any State or political subdivision thereof.
+
+Subsec. (c)(2). Pub. L. 108–203, §418(b)(2), redesignated par. (3) as (2), substituted “subsections (k)(5) and (q) of this section” for “subsection (q) of this section and paragraph (2) of this subsection”, and struck out former par. (2), which related to reduction of a husband's insurance benefit for each month, in certain circumstances, by an amount equal to two-thirds of the amount of any monthly periodic benefit payable to the husband for such month which is based upon his earnings while in the service of the Federal Government or any State or political subdivision thereof.
+
+Subsec. (c)(3) to (5). Pub. L. 108–203, §418(b)(2)(A), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
+
+Subsec. (d)(6)(B). Pub. L. 108–203, §420A(a), inserted “(i)” after “began” and added cl. (ii).
+
+Subsec. (e)(2)(A). Pub. L. 108–203, §418(b)(3)(A), substituted “subsection (k)(5) of this section, subsection (q) of this section,” for “subsection (q) of this section, paragraph (7) of this subsection,”.
+
+Subsec. (e)(7) to (9). Pub. L. 108–203, §418(b)(3)(B), redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7), which related to reduction of a widow's insurance benefit for each month, in certain circumstances, by an amount equal to two-thirds of the amount of any monthly periodic benefit payable to the widow for such month which is based upon her earnings while in the service of the Federal Government or any State or political subdivision thereof.
+
+Subsec. (f)(1)(B)(ii). Pub. L. 108–203, §418(b)(4)(B)(i), substituted “paragraph (4)” for “paragraph (5)”.
+
+Subsec. (f)(1)(F). Pub. L. 108–203, §418(b)(4)(B)(ii), in cl. (i), substituted “paragraph (5)” for “paragraph (6)” and, in cl. (ii), substituted “paragraph (4)” for “paragraph (5)”.
+
+Subsec. (f)(2). Pub. L. 108–203, §418(b)(4)(A)(i), redesignated par. (3) as (2) and struck out former par. (2), which related to reduction of a widower's insurance benefit for each month, in certain circumstances, by an amount equal to two-thirds of the amount of any monthly periodic benefit payable to the widower for such month which is based upon his earnings while in the service of the Federal Government or any State or political subdivision thereof.
+
+Subsec. (f)(2)(A). Pub. L. 108–203, §418(b)(4)(A)(ii), substituted “subsection (k)(5) of this section, subsection (q) of this section,” for “subsection (q) of this section, paragraph (2) of this subsection,”.
+
+Subsec. (f)(3), (4). Pub. L. 108–203, §418(b)(4)(A)(i), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
+
+Subsec. (f)(5). Pub. L. 108–203, §418(b)(4)(A)(i), (B)(iii), redesignated par. (6) as (5) and substituted “paragraph (4)” for “paragraph (5)” in subpar. (A)(ii). Former par. (5) redesignated (4).
+
+Subsec. (f)(6) to (9). Pub. L. 108–203, §418(b)(4)(A)(i), redesignated pars. (7) to (9) as (6) to (8), respectively. Former par. (6) redesignated (5).
+
+Subsec. (g)(2). Pub. L. 108–203, §418(b)(5)(A), substituted “Such” for “Except as provided in paragraph (4) of this subsection, such”.
+
+Subsec. (g)(4). Pub. L. 108–203, §418(b)(5)(B), struck out par. (4), which related to reduction of a mother's or father's insurance benefit for each month, in certain circumstances, by an amount equal to two-thirds of the amount of any monthly periodic benefit payable to the individual for such month which is based upon the individual's earnings while in the service of the Federal Government or any State or political subdivision thereof.
+
+Subsec. (k)(2)(B). Pub. L. 108–203, §418(b)(4)(B)(iv), substituted “or (f)(3)” for “or (f)(4)” in two places.
+
+Subsec. (k)(3)(A). Pub. L. 108–203, §418(b)(4)(B)(v), substituted “or (f)(2)” for “or (f)(3)”.
+
+Subsec. (k)(3)(B). Pub. L. 108–203, §418(b)(4)(B)(vi), substituted “or (f)(3)” for “or (f)(4)”.
+
+Subsec. (k)(5). Pub. L. 108–203, §418(a), added par. (5).
+
+Subsec. (n). Pub. L. 108–203, §412(b)(1)(C), substituted “removal” for “deportation” in heading.
+
+Subsec. (n)(1). Pub. L. 108–203, §412(b)(1)(B), substituted “removed” for “deported” in introductory provisions.
+
+Pub. L. 108–203, §412(a)(1), substituted “section 1227(a) of title 8 (other than under paragraph (1)(C) of such section) or under section 1182(a)(6)(A) of title 8” for “section 1227(a) of title 8 (other than under paragraph (1)(C) or (1)(E) thereof)” in introductory provisions.
+
+Subsec. (n)(1)(A). Pub. L. 108–203, §412(b)(2), inserted “or the Secretary of Homeland Security” after “the Attorney General”.
+
+Pub. L. 108–203, §412(b)(1)(B), substituted “removed” for “deported”.
+
+Subsec. (n)(2). Pub. L. 108–203, §412(b)(2), inserted “or the Secretary of Homeland Security” after “the Attorney General”.
+
+Pub. L. 108–203, §412(b)(1)(A), substituted “removal” for “deportation” in two places.
+
+Pub. L. 108–203, §412(a)(2), substituted “section 1227(a) of title 8 (other than under paragraph (1)(C) of such section) or under section 1182(a)(6)(A) of title 8” for “section 1227(a) of title 8 (other than under paragraph (1)(C) or (1)(E) thereof)”.
+
+Subsec. (n)(3). Pub. L. 108–203, §412(a)(4), (b)(1)(A), (B), substituted “removed” for “deported” and “removal” for “deportation” and made technical amendment to reference in original act which appears in text as reference to section 1227(a) of title 8.
+
+Pub. L. 108–203, §412(a)(3), substituted “paragraph (4)(D) of section 1227(a) of title 8 (relating to participating in Nazi persecutions or genocide) shall be considered to have been deported under such paragraph (4)(D)” for “paragraph (19) of section 1227(a) of title 8 (relating to persecution of others on account of race, religion, national origin, or political opinion, under the direction of or in association with the Nazi government of Germany or its allies) shall be considered to have been deported under such paragraph (19)”.
+
+Subsec. (x). Pub. L. 108–203, §203(a)(1), substituted “prisoners, certain other inmates of publicly funded institutions, fugitives, probationers, and parolees” for “prisoners and certain other inmates of publicly funded institutions” in heading.
+
+Subsec. (x)(1)(A)(iv), (v). Pub. L. 108–203, §203(a)(2)–(4), added cls. (iv) and (v).
+
+Subsec. (x)(1)(B)(iii), (iv). Pub. L. 108–203, §203(a)(5), added cls. (iii) and (iv).
+
+Subsec. (x)(3)(C). Pub. L. 108–203, §203(a)(6), added subpar. (C).
+
+2000—Subsec. (w)(2)(B)(ii). Pub. L. 106–182 substituted “or, if so entitled, did not receive benefits pursuant to a request by such individual that benefits not be paid” for “or suffered deductions under section 403(b) or 403(c) of this title in amounts equal to the amount of such benefit”.
 
 1999—Subsec. (w)(2)(B)(iii). Pub. L. 106–169 added cl. (iii).
 
@@ -1250,7 +1276,7 @@ Subsec. (c)(5)(A). Pub. L. 98–369, §2661(b)(2), substituted “clauses (i) an
 
 Subsec. (d)(1). Pub. L. 98–369, §2663(a)(2)(A)(i), substituted “subparagraphs” for “paragraphs” and “subparagraph” for “paragraph” in cl. (ii) of provisions following subpar. (C) and preceding subpar. (D).
 
-Subsec. (d)(1)(G). Pub. L. 98–369, §2663(a)(2)(A)(ii), in restructuring subpar. (G), struck out the comma after “age of 18”, substituted a dash for a comma after “the age of 22”, substituted “(i) the termination month, subject to section 423(e) of this title (and for purposes” for“, or, subject to section 423(e) of this title, the termination month (and for purposes”, and inserted closing parenthesis after “activity” and substituted “(ii)” and “(iii)” for “(III)” and “(IV)”, respectively.
+Subsec. (d)(1)(G). Pub. L. 98–369, §2663(a)(2)(A)(ii), in restructuring subpar. (G), struck out the comma after “age of 18”, substituted a dash for a comma after “the age of 22”, substituted “(i) the termination month, subject to section 423(e) of this title (and for purposes” for “, or, subject to section 423(e) of this title, the termination month (and for purposes”, and inserted closing parenthesis after “activity” and substituted “(ii)” and “(iii)” for “(III)” and “(IV)”, respectively.
 
 Subsec. (d)(7)(A). Pub. L. 98–369, §2663(a)(2)(A)(iii), substituted “the effective date of this sentence” for “the date of enactment of this paragraph”.
 
@@ -1294,7 +1320,7 @@ Subsec. (b)(3). Pub. L. 98–21, §307(a), struck out exception in provisions fo
 
 Subsec. (b)(3)(A). Pub. L. 98–21, §§301(a)(7), 309(a), inserted references to subsecs. (c) and (g), respectively.
 
-Subsec. (b)(4)(A). Pub. L. 98–21, §337(a), substituted “by an amount equal to two-thirds of the amount of any monthly periodic benefit” for “by an amount equal to the amount of any monthly periodic benefit”, and inserted provision that the amount of the reduction in any benefit under this subparagraph, if not a multiple of $0.10, shall be rounded to the next higher multiple of $0.10.
+Subsec. (b)(4)(A). Pub. L. 98–21, §337(a), substituted “by an amount equal to two-thirds of the amount of any monthly periodic benefit” for “by an amount equal to the amount of any monthly periodic benefit”, and inserted provision that the amount of the reduction in any benefit under this subparagraph, if not a multipleof $0.10, shall be rounded to the next higher multiple of $0.10.
 
 Pub. L. 97–455, §7(c), inserted “for purposes of this subchapter” after “as defined in section 410 of this title”.
 
@@ -1408,7 +1434,7 @@ Subsec. (f)(1)(F)(i). Pub. L. 98–21, §131(b)(3)(C), substituted reference to 
 
 Subsec. (f)(1)(F)(ii)(I). Pub. L. 98–21, §131(b)(3)(C), substituted reference to par. (5) for reference to par. (6).
 
-Subsec. (f)(2)(A). Pub. L. 98–21, §337(a), substituted “by an amount equal to two-thirds of the amount of any monthly periodic benefit” for “by an amount equal to the amount of any monthly periodic benefit”, and inserted provision that the amount of the reduction in any benefit under this subparagraph, if not a multipleof $0.10, shall be rounded to the next higher multiple of $0.10.
+Subsec. (f)(2)(A). Pub. L. 98–21, §337(a), substituted “by an amount equal to two-thirds of the amount of any monthly periodic benefit” for “by an amount equal to the amount of any monthly periodic benefit”, and inserted provision that the amount of the reduction in any benefit under this subparagraph, if not a multiple of $0.10, shall be rounded to the next higher multiple of $0.10.
 
 Pub. L. 98–21, §131(b)(3)(D), substituted reference to par. (4) for reference to par. (5).
 
@@ -1504,7 +1530,7 @@ Subsec. (q)(3)(A)(i). Pub. L. 98–21, §201(c)(1)(A), substituted reference to 
 
 Subsec. (q)(3)(E). Pub. L. 98–21, §309(b), inserted “or surviving divorced husband” after “widower”.
 
-Pub. L. 98–21, §201(c)(1)(A), as amended by Pub. L. 98–369, §2662(c)(1), substituted reference to retirement age as defined in section 416(<i>l</i>) of this title for reference to the age of 65.
+Pub. L. 98–21, §201(c)(1)(A), as amended by Pub. L. 98–369, §2662(c)(1), substituted reference to retirementage as defined in section 416(<i>l</i>) of this title for reference to the age of 65.
 
 Subsec. (q)(3)(E)(ii). Pub. L. 98–21, §134(a)(2)(C), substituted “paragraph (6)” for “paragraph (6)(A)”.
 
@@ -1594,7 +1620,7 @@ Subsec. (x). Pub. L. 98–21, §339(a), added subsec. (x).
 
 Subsec. (b)(1). Pub. L. 97–35, §2203(b)(1), substituted in provision following subpar. (D) provision specifying the beginning month of entitlement in the case of a wife or divorced wife who has attained the age of 65 and in the case of a wife or divorced wife who has not attained the age of 65 or of an individual entitled to disability insurance benefits for provision specifying the beginning month of entitlement as the first month the wife or divorced wife becomes so entitled to such benefits.
 
-Subsec. (c)(1). Pub. L. 97–35, §2203(c)(1), substituted in provision following subpar. (C) provision specifying the beginning month of entitlement in the case of a husband who has attained the age of 65 and in the case of a husband who has not attained the age of 65 or of an individual entitled to disability benefits for provision specifying the beginning month of entitlement as the first month after August 1950 in which he becomes entitled to benefits.
+Subsec. (c)(1). Pub. L. 97–35, §2203(c)(1), substituted in provision following subpar. (C) provision specifying the beginning month of entitlement in the case of a husband who has attained the age of 65 and in the case of a husband who has not attained the age of 65 or of an individual entitled to disability benefits for provision specifying the beginning month of entitlement as thefirst month after August 1950 in which he becomes entitled to benefits.
 
 Subsec. (d)(1). Pub. L. 97–35, §§2203(d)(1), 2210(a)(1), (5)(A), substituted in subpars. (B)(i), (E)(ii), (F)(i), and (G)(III) “full-time elementary or secondary school student” for “full-time student”, in subpars. (B)(i), (F)(ii), and (G)(IV) “19” for “22”, and in provision following subpar. (C) provision specifying the beginning month of entitlement in the case of a child of an individual who has died and of a child of an individual entitled to an old-age insurance benefit or a disability insurance benefit for provision specifying the beginning month of entitlement as the first month after August 1950 in which such child becomes entitled to benefits.
 
@@ -1762,7 +1788,7 @@ Subsec. (m). Pub. L. 92–603, §102(f), amended subsec. (m) generally to increa
 
 Subsec. (q)(1). Pub. L. 92–603, §102(e)(1), generally provided for an increase in widow's and widower's insurance benefits through the insertion of provisions covering such benefits in subpar. (A), and in provisions preceding subpar. (C), and through the substitution of a 43/240 fraction in subpar. (C) for a 43/198 fraction.
 
-Subsec. (q)(3). Pub. L. 92–603, §102(e)(2), (5), redesignated existing provisions of subpars. (E)(ii) and (F)(ii) as subcls. (I) and (II) and in subcls. (I) of each such subpar. as so redesignated substituted “would be reduced under paragraph (1) if the period specified in paragraph (6)(A) ended with the month before the month in which she or he attained age 62” for “was reduced for the month in which such individual attained retirementage”, substituted in subpar. (G) “as if the period specified in paragraph (6)(A) (or, if such paragraph does not apply, the period specified in paragraph (6)(B)) ended with the month before” for “had such individual attained age 62 in”, and added subpar. (H).
+Subsec. (q)(3). Pub. L. 92–603, §102(e)(2), (5), redesignated existing provisions of subpars. (E)(ii) and (F)(ii) as subcls. (I) and (II) and in subcls. (I) of each such subpar. as so redesignated substituted “would be reduced under paragraph (1) if the period specified in paragraph (6)(A) ended with the month before the month in which she or he attained age 62” for “was reduced for the month in which such individual attained retirement age”, substituted in subpar. (G) “as if the period specified in paragraph (6)(A) (or, if such paragraph does not apply, the period specified in paragraph (6)(B)) ended with the month before” for “had such individual attained age 62 in”, and added subpar. (H).
 
 Subsec. (q)(7). Pub. L. 92–603, §102(e)(3), divided existing source references for “adjusted reduction period” and “additional adjusted reduction period” into separate references to subpars. (A) and (B) of par. (6) in the provisions preceding subpar. (A) and, in subpar. (E), substituted “attained age 62, and also for any later month before the month in which he attained retirement age,” for “attained retirement age”.
 
@@ -1806,7 +1832,7 @@ Subsec. (d)(9). Pub. L. 90–248, §151(c), (d)(1), redesignated former par. (10
 
 Subsec. (d)(10). Pub. L. 90–248, §151(c), redesignated former par. (10) as (9).
 
-Subsec. (e)(1). Pub. L. 90–248, §104(a)(2), set out part of text formerly following subpar. (E) after subpar. (G) and inserted therein: “or, if she became entitled to such benefits before she attained age 60, the third month following the month in which her disability ceases (unless she attains age 62 on or before the last day of such third month)”.
+Subsec. (e)(1). Pub. L. 90–248, §104(a)(2), set out part of text formerly following subpar. (E) after subpar. (G)and inserted therein: “or, if she became entitled to such benefits before she attained age 60, the third month following the month in which her disability ceases (unless she attains age 62 on or before the last day of such third month)”.
 
 Subsec. (e)(1)(B). Pub. L. 90–248, §104(a)(1), provided that a widow or surviving divorced wife may become entitled to widow's insurance benefits if she is disabled and her disability began within the period specified in subsec. (e)(5) even though she has not attained age 60.
 
@@ -1838,7 +1864,7 @@ Subsec. (f)(6), (7). Pub. L. 90–248, §104(b)(4), added pars. (6) and (7).
 
 Subsec. (q). Pub. L. 90–248, §104(c)(1), substituted “Reduction of benefit amounts for certain beneficiaries” for “Reduction of old-age, disability, wife's, husband's, or widow's insurance benefit amounts” in heading.
 
-Subsec. (q)(1). Pub. L. 90–248, §104(c)(2)–(4), substituted “widow's, or widower's” for “or widow's” in text preceding subpar. (A), “, widow's, or widower's” for “or widow's” in subpar. (A), and added subpar. (C) and (D) provisions for further reduction of a widow's or widower's insurance benefit.
+Subsec. (q)(1). Pub. L. 90–248, §104(c)(2)–(4), substituted “widow's, or widower's” for “or widow's” in text preceding subpar. (A), “, widow's, or widower's” for “or widow's” in subpar. (A), and added subpar. (C) and (D) provisions for further reduction of a widow's or widower's insurance benefit.
 
 Subsec. (q)(3)(A). Pub. L. 90–248, §104(c)(5), substituted “widow's, or widower's” for “or widow's” wherever appearing, “50” for “60”, and inserted “or widower's” after “(in the case of a widow's)”.
 
@@ -1880,7 +1906,7 @@ Subsec. (c)(1). Pub. L. 89–97, §308(d)(1), substituted “divorced” for “
 
 Subsec. (c)(2). Pub. L. 89–97, §§306(c)(2), 334(e), inserted in text preceding subpar. (A) “(subject to subsection (s) of this section)” after “shall”, and added subpar. (C).
 
-Subsec. (d)(1). Pub. L. 89–97, §§306(a), (b)(1), (2), 323(a)(1), 343(a), inserted in subpar. (B)(i) and (ii) “or was a full-time student and had not attained the age of 22” and “which began before he attained the age of 22”, respectively, and substituted “is” for “was” in cl. (ii) substituted “preceding whichever of the following first occurs” for “preceding the first month in which any of the following occurs” following provisions of subpar. (C), incorporated existing provisions in subpar. (D) and (E), substituting in such subpar. (E) “but only if he (i) is not under a disability (as so defined) at the time he attains such age, and (ii) is not a full-time student during any part of such month” for former provision and is not under a disability (as defined in section 423(c) of this title), which began before he attained such age”, added subpars. (F) and (G), and repealed the second sentence which provided for the termination of entitlement of any child to benefits under this subsection with the month preceding the third month following the month in which he ceases to be under a disability after the month in which he attains age eighteen; struck out the last sentence which related to adoptions by disabled workers; and substituted “uncle, brother, or sister” for “or uncle” in subpar. (D), respectively.
+Subsec. (d)(1). Pub. L. 89–97, §§306(a), (b)(1), (2), 323(a)(1), 343(a), inserted in subpar. (B)(i) and (ii) “or was a full-time student and had not attained the age of 22” and “which began before he attained the age of 22”, respectively, and substituted “is” for “was” in cl. (ii) substituted “preceding whichever of the following first occurs” for “preceding the first month in which any ofthe following occurs” following provisions of subpar. (C), incorporated existing provisions in subpar. (D) and (E), substituting in such subpar. (E) “but only if he (i) is not under a disability (as so defined) at the time he attains such age, and (ii) is not a full-time student during any part of such month” for former provision and is not under a disability (as defined in section 423(c) of this title), which began before he attained such age”, added subpars. (F) and (G), and repealed the second sentence which provided for the termination of entitlement of any child to benefits under this subsection with the month preceding the third month following the month in which he ceases to be under a disability after the month in which he attains age eighteen; struck out the last sentence which related to adoptions by disabled workers; and substituted “uncle, brother, or sister” for “or uncle” in subpar. (D), respectively.
 
 Subsec. (d)(3). Pub. L. 89–97, §339(b), inserted “or section 416(h)(3)” after “section 416(h)(2)(B)”.
 
@@ -1910,7 +1936,7 @@ Subsec. (f)(4)(A). Pub. L. 89–97, §308(d)(2)(A), inserted reference to subsec
 
 Subsec. (f)(5). Pub. L. 89–97, §333(b)(1), added par. (5).
 
-Subsec. (g)(1). Pub. L. 89–97, §§306(c)(7), 308(d) (3)–(5), inserted “(subject to subsection (s) of this section)” after “shall” in provisions following subpar. (F); substituted in subpar. (A) “is not married” for “has not remarried”; in subpar. (F), substituted “surviving divorced mother” for “former wife divorced”, incorporated existing provisions in cls. (i) (other than (I) to (III)), (ii), and (iii), and substituted provisions of cl. (i)(I) to (III) for receipt of one-half of support under administrative regulations and substantial contributionspursuant to written agreement or court order for former provision for receipt of one-half of support pursuant to agreements or court order; and substituted “surviving divorced mother” for “former wife divorced” twice in provisions before subpar. (A) and thrice in provisions following subpar. (F), respectively.
+Subsec. (g)(1). Pub. L. 89–97, §§306(c)(7), 308(d) (3)–(5), inserted “(subject to subsection (s) of this section)” after “shall” in provisions following subpar. (F); substituted in subpar. (A) “is not married” for “has not remarried”; in subpar. (F), substituted “surviving divorced mother” for “former wife divorced”, incorporated existing provisions in cls. (i) (other than (I) to (III)), (ii), and (iii), and substituted provisions of cl. (i)(I) to (III) for receipt of one-half of support under administrative regulations and substantial contributions pursuant to written agreement or court order for former provision for receipt of one-half of support pursuant to agreements or court order; and substituted “surviving divorced mother” for “former wife divorced” twice in provisions before subpar. (A) and thrice in provisions following subpar. (F), respectively.
 
 Subsec. (g)(3). Pub. L. 89–97, §§306(c)(8), 308(d)(5), (13), inserted “but subject to subsection (s) of this section” after “notwithstanding the provisions of paragraph (1)” following subpar. (B), substituted “surviving divorced mother” for “former wife divorced” in two places, and redesignated former par. (4) as (3), respectively. Pub. L. 89–97, §308(d)(12), repealed former par. (3) which had provided that:
 
@@ -2032,7 +2058,7 @@ Subsec. (n). Pub. L. 86–778, §211(i), substituted “Section 403(b), (c), and
 
 Subsec. (q)(5). Pub. L. 86–778, §211(j), substituted “under section 403(b) of this title or paragraph (1) of section 403(c) of this title” for “under paragraph (1) or (2) of section 403(b) of this title” in cl. (A), and “section 403(b), under section 403(c)(1), under section 403(d)(1), or under section 422(b) of this title” for “paragraph (1) or (2) of section 403(b) of this title, under section 403(c) of this title, or under section 422(b) of this title” in cl. (B).
 
-Subsec. (q)(6). Pub. L. 86–778, §211(k), substituted “section 403(b), under section 403(c)(1), under section403(d)(1), or under section 422(b) of this title” for “section 403(b) (1) or (2), under section 403(c), or under section 422(b) of this title” in cl. (A), and “under section 403(b) of this title or paragraph (1) of section 403(c) of this title” for “under paragraph (1) or (2) of section 403(b) of this title” in cl. (D).
+Subsec. (q)(6). Pub. L. 86–778, §211(k), substituted “section 403(b), under section 403(c)(1), under section 403(d)(1), or under section 422(b) of this title” for “section 403(b) (1) or (2), under section 403(c), or under section 422(b) of this title” in cl. (A), and “under section 403(b) of this title or paragraph (1) of section 403(c) of this title” for “under paragraph (1) or (2) of section 403(b) of this title” in cl. (D).
 
 Subsec. (t)(4)(D). Pub. L. 86–778, §103(j)(2)(D), substituted “section 410(<i>l</i>)(2)” for “section 410(m)(2)”, “section 410(<i>l</i>)(3)” for “section 410(m)(3)”, and “section 410(m)” for “section 410(n)”, wherever appearing.
 
@@ -2056,7 +2082,7 @@ Subsec. (e)(3)(B). Pub. L. 85–840, §301(b)(1), substituted “which occurs wi
 
 Subsec. (e)(4). Pub. L. 85–840, §307(b), added par. (4).
 
-Subsec. (f)(1)(D). Pub. L. 85–840, §205(e), inserted provisions entitling a widower to an insurance benefit if he was receiving at least one-half of his support from the individual, if the individual had a period of disability which did not end prior to the month in which she died, at the time such period began, or at the time of her death, or at the time she became entitled to old-age or disability insurance benefits, and he filed proof of such support within two years after the month in which she filed application with respect to the period of disability or two years after the date of her entitlement to old-age or disability insurance benefits or her death.
+Subsec. (f)(1)(D). Pub. L. 85–840, §205(e), inserted provisions entitling a widower to an insurance benefit if he was receiving at least one-half of his support from the individual, if the individual had a period of disability which did not end prior to the month in which she died, at the time such period began, or at the time of her death, or at the time she became entitled to old-age or disability insurance benefits, and he filed proof of such support within two years after the month in which shefiled application with respect to the period of disability or two years after the date of her entitlement to old-age or disability insurance benefits or her death.
 
 Subsec. (f)(2), (3). Pub. L. 85–840, §301(c)(1), added par. (2) and redesignated former par. (2) as (3).
 
@@ -2092,7 +2118,7 @@ Subsec. (t)(4)(E). Pub. L. 85–927 added par. (E).
 
 Subsec. (c)(1). Pub. L. 85–238, §3(b), redesignated subpars. (D) and (E) as (C) and (D), respectively, and repealed former subpar. (C) which required the husband to be living with his wife at the time the application for benefits was filed.
 
-Subsec. (e)(1). Pub. L. 85–238, §3(c), redesignated subpar. (E) as (D), and repealed former subpar. (D) whichrequired the widow to be living with her husband at the time of his death.
+Subsec. (e)(1). Pub. L. 85–238, §3(c), redesignated subpar. (E) as (D), and repealed former subpar. (D) which required the widow to be living with her husband at the time of his death.
 
 Subsec. (f)(1). Pub. L. 85–238, §3(d), redesignated subpars. (E) and (F) as (D) and (E), respectively, and repealed former subpar. (D) which required the widower to be living with his wife at the time of her death.
 
@@ -2197,6 +2223,50 @@ Subsec. (h). Act Aug. 10, 1946, §405(a), extended provision for payment of bene
 #### Change of Name
 
 Reference to Administrator of Veterans’ Affairs deemed to refer to Secretary of Veterans Affairs pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–203, title II, §203(d), Mar. 2, 2004, 118 Stat. 511, provided that: “The amendments made by this section \[amending this section and sections 1004 and 1382 of this title\] shall take effect on the first day of the first month that begins on or after the date that is 9 months after the date of enactment of this Act \[Mar. 2, 2004\].”
+
+Pub. L. 108–203, title IV, §412(c), Mar. 2, 2004, 118 Stat. 528, provided that:
+
+“(1)
+
+In general.—The amendment made by—
+
+&emsp;“(A) subsection (a)(1) \[amending this section\] shall apply to individuals with respect to whom the Commissioner of Social Security receives a removal notice after the date of the enactment of this Act \[Mar. 2, 2004\];
+
+&emsp;“(B) subsection (a)(2) \[amending this section\] shall apply with respect to notifications of removals received by the Commissioner of Social Security after the date of enactment of this Act; and
+
+&emsp;“(C) subsection (a)(3) \[amending this section\] shall be effective as if enacted on March 1, 1991.
+
+“(2)
+
+Subsequent correction of cross-reference and terminology.—The amendments made by subsections (a)(4) and (b)(1) \[amending this section\] shall be effective as if enacted on April 1, 1997.
+
+“(3)
+
+References to the secretary of homeland security.—The amendment made by subsection (b)(2) \[amending this section\] shall be effective as if enacted on March 1, 2003.”
+
+Pub. L. 108–203, title IV, §418(c), Mar. 2, 2004, 118 Stat. 533, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and section 426 of this title\] shall apply with respect to applications for benefits under title II of the Social Security Act \[this subchapter\] filed on or after the first day of the first month that begins after the date of enactment of this Act \[Mar. 2, 2004\], except that such amendments shall not apply in connection with monthly periodic benefits of any individual based on earnings while in service described in section 202(k)(5)(A) of the Social Security Act \[subsec. (k)(5)(A) of this section\] (in the matter preceding clause (i) thereof) if the last day of such service occurs before July 1, 2004.
+
+“(2)
+
+Transitional rule.—In the case of any individual whose last day of service described in subparagraph (A) of section 202(k)(5) of the Social Security Act (as added by subsection (a) of this section) occurs within 5 years after the date of enactment of this Act—
+
+&emsp;“(A) the 60-month period described in such subparagraph (A) shall be reduced (but not to less than 1 month) by the number of months of such service (in the aggregate and without regard to whether such months of service were continuous) which—
+
+&emsp;&emsp;“(i) were performed by the individual under the same retirement system on or before the date of enactment of this Act, and
+
+&emsp;&emsp;“(ii) constituted ‘employment’ as defined in section 210 of the Social Security Act \[section 410 of this title\]; and
+
+&emsp;“(B) months of service necessary to fulfill the 60-month period as reduced by subparagraph (A) of this paragraph must be performed after the date of enactment of this Act.”
+
+Pub. L. 108–203, title IV, §420A(b), Mar. 2, 2004, 118 Stat. 535, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to benefits payable for months beginning with the 7th month that begins after the date of enactment of this Act \[Mar. 2, 2004\].”
 
 #### Effective Date of 2000 Amendment
 
@@ -2416,9 +2486,9 @@ Section 109(b) of Pub. L. 92–603 provided that: “The amendment made by subse
 
 Section 110(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after December 1972.”
 
-Section 111(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1967 on the basis ofan application filed in or after the month in which this Act is enacted \[October 1972\], except that such amendments shall not apply with respect to benefits for any month before the month in which this Act is enacted unless such application is filed before the close of the sixth month after the month in which this Act is enacted.”
+Section 111(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1967 on the basis of an application filed in or after the month in which this Act is enacted \[October 1972\], except that such amendments shall not apply with respect to benefits for any month before the month in which this Act is enacted unless such application is filed before the close of the sixth month after the month in which this Act is enacted.”
 
-Section 112(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months beginning with the month in which this Act is enacted \[October 1972\].”
+Section 112(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to monthly benefitsunder title II of the Social Security Act \[this subchapter\] for months beginning with the month in which this Act is enacted \[October 1972\].”
 
 Section 113(c) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and section 416 of this title\] shall apply with respect to monthly benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1972, but only on the basis of applications filed on or after the date of the enactment of this Act \[Oct. 30, 1972\].”
 
@@ -2516,7 +2586,7 @@ Section 102(f) of title I of Pub. L. 87–64 provided that:
 
 “(7) The amendment made by subsection (d)(3) \[amending section 415 of this title\] shall take effect on the effective date of this title \[see Effective Date of 1961 Amendment note set out above\].
 
-“(8) The amendments made by subsection (e) \[amending this section\] shall apply with respect to monthly benefits for months beginning on or after the effectivedate of this title \[see Effective Date of 1961 Amendment note set out above\].
+“(8) The amendments made by subsection (e) \[amending this section\] shall apply with respect to monthly benefits for months beginning on or after the effective date of this title \[see Effective Date of 1961 Amendment note set out above\].
 
 “(9) For purposes of this subsection, the term ‘monthly benefits’ means monthly insurance benefits under title II of the Social Security Act \[this subchapter\].”
 
@@ -2546,11 +2616,11 @@ Section 203(b) of Pub. L. 86–778 provided that: “The amendment made by subse
 
 Section 205(d) of Pub. L. 86–778 provided that: “The preceding provisions of this section and the amendments made thereby \[amending this section\] shall apply only in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months after the month in which this Act is enacted \[September 1960\], on the basis of applications filed in or after such month.”
 
-Amendment by section 208(d) of Pub. L. 86–778 applicable (1) with respect to monthly benefits under this subchapter for months beginning with September 1960 on the basis of an application filed in or after such month, and (2) in the case of a lump-sum death payment under this subchapter based on an application filed in or after September 1960, but only if no person,other than the person filing such application, has filed an application for a lump-sum death payment under this subchapter prior to Sept. 13, 1960 with respect to the death of the same individual, see section 208(f) of Pub. L. 86–778, set out as a note under section 416 of this title.
+Amendment by section 208(d) of Pub. L. 86–778 applicable (1) with respect to monthly benefits under this subchapter for months beginning with September 1960 on the basis of an application filed in or after such month, and (2) in the case of a lump-sum death payment under this subchapter based on an application filed in or after September 1960, but only if no person, other than the person filing such application, has filed an application for a lump-sum death payment under this subchapter prior to Sept. 13, 1960 with respect to the death of the same individual, see section 208(f) of Pub. L. 86–778, set out as a note under section 416 of this title.
 
 Amendment by section 211(i)–(<i>l</i>) of Pub. L. 86–778 effective in the manner provided in section 211(p) and (q) of Pub. L. 86–778, see section 211(p)–(s) of Pub. L. 86–778 set out as a note under section 403 of this title.
 
-Section 301(b) of Pub. L. 86–778 provided that: “The amendment made by this section \[amending this section\] shall apply only with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months after the second month following the month in which this Act is enacted \[September 1960\].”
+Section 301(b) of Pub. L. 86–778 provided that: “The amendment made by this section \[amending this section\] shall apply only with respect to monthly benefitsunder section 202 of the Social Security Act \[this section\] for months after the second month following the month in which this Act is enacted \[September 1960\].”
 
 Amendment by section 403(d) of Pub. L. 86–778 applicable only with respect to benefits under subsec. (d) of this section for months after September 1960, in the case of individuals who, without regard to such amendment, would have been entitled to such benefits for September 1960, or for any succeeding month, see section 403(e) of Pub. L. 86–778, set out as a note under section 422 of this title.
 
@@ -2596,11 +2666,11 @@ Section 403(b) of act Aug. 1, 1956, ch. 837, provided that: “The amendment mad
 
 Section 101(h) of act Aug. 1, 1956, ch. 836, provided that:
 
-“(1) The amendments made by this section \[amending this section and section 403 of this title\], other than subsection (c) \[amending this section\], shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months after December 1956, but only, except as provided in paragraph (2), on the basis of an application filed after September 1956. For purposes of title II of the Social Security Act, as amended by this Act \[this subchapter\], an application for wife's, child's, or mother's insurance benefits under such title II filed, by reason of this paragraph, by an individual who was entitled to benefits prior to, butnot for, December 1956 and whose entitlement terminated as a result of a child's attainment of age eighteen shall be treated as the application referred to in subsection (b), (d), and (g), respectively, of section 202 of such Act.
+“(1) The amendments made by this section \[amending this section and section 403 of this title\], other than subsection (c) \[amending this section\], shall apply with respect to monthly benefits under section 202 of the Social Security Act \[this section\] for months after December 1956, but only, except as provided in paragraph (2), on the basis of an application filed after September 1956. For purposes of title II of the Social Security Act, as amended by this Act \[this subchapter\], an application for wife's, child's, or mother's insurance benefits under such title II filed, by reason of this paragraph, by an individual who was entitled to benefits prior to, but not for, December 1956 and whose entitlement terminated as a result of a child's attainment of age eighteen shall be treated as the application referred to in subsection (b), (d), and (g), respectively, of section 202 of such Act.
 
 “(2) In the case of an individual who was entitled, without the application of subsection (j)(1) of such section 202 \[subsec. (j)(1) of this section\], to a child's insurance benefit under subsection (d) of such section \[subsec. (d) of this section\] for December 1956, such amendments shall apply with respect to benefits under such section 202 \[this section\] for months after December 1956.
 
-“(3) The amendment made by subsection (c) \[amending this section\] shall apply in the case of benefits under section 202(h) of the Social Security Act \[subsec. (h) of this section\] based on the wages and self-employment income of an individual who dies after August 1956.”
+“(3) The amendment made by subsection (c) \[amending this section\] shall apply in the case of benefitsunder section 202(h) of the Social Security Act \[subsec. (h) of this section\] based on the wages and self-employment income of an individual who dies after August 1956.”
 
 Section 114(b) of act Aug. 1, 1956, ch. 836, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of lump-sum death payments under title II of the Social Security Act \[this subchapter\], and monthly benefits under such title for months after August 1956, based on applications filed after August 1956.”
 
@@ -2664,7 +2734,7 @@ Report to the Congress.—The Commissioner shall report to each House of the Con
 
 Section 8014(b) of Pub. L. 100–647 provided that: “Subsections (b)(4)(A)(i), (c)(2)(A)(i), (e)(7)(A)(i), (f)(2)(A)(i), and (g)(4)(A)(i) of section 202 of the Social Security Act (42 U.S.C. 402(b)(4)(A)(i), (c)(2)(A)(i), (e)(7)(A)(i), (f)(2)(A)(i), (g)(4)(A)(i)) shall not apply with respect to monthly periodic benefits of any individual based solely on service which was performed while in the service of the Federal Government if—
 
-&emsp;“(1) such person made, before January 1, 1988, an election pursuant to law to become subject to the Federal Employees’ Retirement System provided inchapter 84 of title 5, United States Code, or the Foreign Service Pension System provided in subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 \[22 U.S.C. 4071 et seq.\] (or such person made such an election on or after January 1, 1988, and before July 1, 1988, pursuant to regulations of the Office of Personnel Management relating to belated elections and correction of administrative errors (5 CFR 846.204) as in effect on the date of the enactment of this Act \[Nov. 10, 1988\]), and
+&emsp;“(1) such person made, before January 1, 1988, an election pursuant to law to become subject to the Federal Employees’ Retirement System provided in chapter 84 of title 5, United States Code, or the Foreign Service Pension System provided in subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 \[22 U.S.C. 4071 et seq.\] (or such person made such an election on or after January 1, 1988, and before July 1, 1988, pursuant to regulations of the Office of Personnel Management relating to belated elections and correction of administrative errors (5 CFR 846.204) as in effect on the date of the enactment of this Act \[Nov. 10, 1988\]), and
 
 &emsp;“(2) such service terminated before the date on which such election became effective.”
 
@@ -2710,7 +2780,7 @@ Pub. L. 97–377, title I, §156, Dec. 21, 1982, 96 Stat. 1920, as amended by Pu
 
 “(f) Payments under subsections (a) and (b) shall be made only for months after the month in which this section is enacted.
 
-“(g)(1) During each fiscal year the Secretary of Defense shall transfer from time to time to the head of the agency such amounts as the head of the agency determines to be necessary to pay the benefits provided for under subsections (a) and (b) during such fiscal year and to pay the administrative expenses incurred in paying such benefits during such fiscal year. During fiscal year 1983, transfers under this subsection shall be made from the ‘Retired Pay, Defense’ account of the Department of Defense. During subsequent fiscal years, such transfers shall be made from such account or from funds otherwise available to the Secretary for the purpose of the payment of such benefits and expenses. TheSecretary of Defense may transfer funds under this subsection in advance of the payment of benefits and expenses by the head of the agency.
+“(g)(1) During each fiscal year the Secretary of Defense shall transfer from time to time to the head of the agency such amounts as the head of the agency determines to be necessary to pay the benefits provided for under subsections (a) and (b) during such fiscal year and to pay the administrative expenses incurred in paying such benefits during such fiscal year. During fiscal year 1983, transfers under this subsection shall be made from the ‘Retired Pay, Defense’ account of the Department of Defense. During subsequent fiscal years, such transfers shall be made from such account or from funds otherwise available to the Secretary for the purpose of the payment of such benefits and expenses. The Secretary of Defense may transfer funds under this subsection in advance of the payment of benefits and expenses by the head of the agency.
 
 “(2) The head of the agency shall establish on the books of the agency over which he exercises jurisdiction a new account to be used for the payment of benefits under subsections (a) and (b) and shall credit to such account all funds transferred to him for such purpose by the Secretary of Defense.
 
@@ -2768,9 +2838,9 @@ Section 334(g) of Pub. L. 95–216, as amended by Pub. L. 98–617, §2(b)(1), N
 
 #### Offset Against Spouses’ Benefits on Account of Public Pensions
 
-Section 334(h) of Pub. L. 95–216, as added by Pub. L. 97–455, §7(a)(1), Jan. 12, 1983, 96 Stat. 2501, and amendedby Pub. L. 98–617, §2(b)(2), Nov. 8, 1984, 98 Stat. 3294, provided that: “In addition, the amendments made by the preceding provisions of this section \[see section 334(f) of Pub. L. 95–216, set out as an Effective Date of 1977 Amendment note above\] shall not apply with respect to any monthly insurance benefit payable, under subsection (b), (c), (e), (f), or (g) (as the case may be) of section 202 of the Social Security Act \[this section\], to an individual—
+Section 334(h) of Pub. L. 95–216, as added by Pub. L. 97–455, §7(a)(1), Jan. 12, 1983, 96 Stat. 2501, and amended by Pub. L. 98–617, §2(b)(2), Nov. 8, 1984, 98 Stat. 3294, provided that: “In addition, the amendments made by the preceding provisions of this section \[see section 334(f) of Pub. L. 95–216, set out as an Effective Date of 1977 Amendment note above\] shall not apply with respect to any monthly insurance benefit payable, under subsection (b), (c), (e), (f), or (g) (as the case may be) of section 202 of the Social Security Act \[this section\], to an individual—
 
-&emsp;“(1)(A) to whom there is payable for any month prior to July 1983 (or who is eligible in any such month for) a monthly periodic benefit (within the meaning of such provisions) based upon such individual's earnings while in the service of the Federal Government or any State (or political subdivision thereof, as defined in section 218(b)(2) of the Social Security Act \[section 418(b)(2) of this title\]), or (B) who would have been eligible for such a monthly periodic benefit (within the meaning of subsection (g)(2) \[set out as a note above\]) before the close of June 1983, except for a requirement which postponed eligibility (as so defined) for such monthly periodic benefit until the month following the month in which all other requirements were met; and
+&emsp;“(1)(A) to whom there is payable for any month prior to July 1983 (or who is eligible in any suchmonth for) a monthly periodic benefit (within the meaning of such provisions) based upon such individual's earnings while in the service of the Federal Government or any State (or political subdivision thereof, as defined in section 218(b)(2) of the Social Security Act \[section 418(b)(2) of this title\]), or (B) who would have been eligible for such a monthly periodic benefit (within the meaning of subsection (g)(2) \[set out as a note above\]) before the close of June 1983, except for a requirement which postponed eligibility (as so defined) for such monthly periodic benefit until the month following the month in which all other requirements were met; and
 
 &emsp;“(2) who at the time of application for or initial entitlement to such monthly insurance benefit under such subsection (b), (c), (e), (f), or (g)—
 
@@ -2872,7 +2942,7 @@ Section 112(c) of Pub. L. 92–603 provided that: “Any child—
 
 &emsp;“(1) two or more persons are entitled to monthly benefits under section 202 of the Social Security Act \[this section\] for December 1972 on the basis of the wages and self-employment income of a deceased individual, and one or more of such persons is so entitled under subsection (e) or (f) of such section 202, and
 
-&emsp;“(2) one or more of such persons is entitled on the basis of such wages and self-employment income to monthly benefits under subsection (e) or (f) of such section 202 (as amended by this section) for January 1973, and
+&emsp;“(2) one or more of such persons is entitled on the basis of such wages and self-employment income tomonthly benefits under subsection (e) or (f) of such section 202 (as amended by this section) for January 1973, and
 
 &emsp;“(3) the total of benefits to which all persons are entitled under section 202 of such Act \[this section\] on the basis of such wages and self-employment income for January 1973 is reduced by reason of section 203(a) of such Act \[section 403(a) of this title\], as amended by this Act (or would, but for the penultimate sentence of such section 203(a), be so reduced),
 
@@ -2920,7 +2990,7 @@ Section 301(c) of Pub. L. 86–778 provided that: “Where—
 
 &emsp;“(4) in case such person is entitled to benefits under section 202(e), (f), (g), or (h), as though this section and section 208 \[section 408 of this title\] had not been enacted, or
 
-&emsp;“(5) in case such person is entitled to benefits under section 202(d), as though (i) no person is entitled to benefits under section 202(e), (f), (g), or (h) for such subsequent month, and (ii) the maximum of benefits payable, as described in paragraph (3), is such maximum less the amount of each person's benefit for such month determined pursuant to paragraph (4).”
+&emsp;“(5) in case such person is entitled to benefits under section 202(d), as though (i) no person is entitled to benefits under section 202(e), (f), (g), or (h) for suchsubsequent month, and (ii) the maximum of benefits payable, as described in paragraph (3), is such maximum less the amount of each person's benefit for such month determined pursuant to paragraph (4).”
 
 1958—Section 304(b) of Pub. L. 85–840 provided that: “Where—
 
@@ -2968,7 +3038,7 @@ Section 304(c) of Pub. L. 85–840 provided that: “In the case of any parent w
 
 “(b) For the purpose of determining the entitlement of any individual to widower's insurance benefits under subsection (f) of section 202 of the Social Security Act on the basis of his deceased wife's wages and self-employment income, the requirements of paragraph (1)(E)(ii) of such subsection shall be deemed to be met if—
 
-&emsp;“(1) such individual was receiving at least one-half of his support, as determined in accordance with regulations prescribed by the Secretary of Health, Education, and Welfare, from his wife, and she was a currently insured individual, on the first day of the first month (A) for which she was entitled to a monthly benefit under subsection (a) of such section 202, and\(B) in which an event described in paragraph (1) or (2) of section 203(b) of such Act (as in effect before or after the enactment of this Act \[Sept. 1, 1954\]) did not occur.
+&emsp;“(1) such individual was receiving at least one-half of his support, as determined in accordance with regulations prescribed by the Secretary of Health, Education, and Welfare, from his wife, and she was a currently insured individual, on the first day of the first month (A) for which she was entitled to a monthly benefit under subsection (a) of such section 202, and (B) in which an event described in paragraph (1) or (2) of section 203(b) of such Act (as in effect before or after the enactment of this Act \[Sept. 1, 1954\]) did not occur.
 
 &emsp;“(2) such individual has filed proof of such support within two years after such first month, and
 
@@ -3010,7 +3080,7 @@ Lump-sum payments of 31/2 percent of total wages paid with respect to employment
 
 #### Death Outside U.S.; Extension of Filing Time for Lump-Sum Payments
 
-Section 5(e)(2) of act July 18, 1952, ch. 945, 66 Stat. 775, as amended by Pub. L. 86–778, title I, §103(a)(2), Sept. 13,1960, 74 Stat. 936, provided that: “In the case of any individual who died outside the forty-eight States and the District of Columbia after August 1950 and prior to January 1954, whose death occurred while he was in the active military or naval service of the United States, and who is returned to any of such States, the District of Columbia, Alaska, Hawaii, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa for interment or reinterment, the last sentence of section 202(i) of the Social Security Act \[subsec. (i) of this section\] shall not prevent payment to any person under the second sentence thereof if application for a lump-sum death payment with respect to such deceased individual is filed under such section by or on behalf of such person (whether or not legally competent) prior to the expiration of two years after the date of such interment or reinterment.”
+Section 5(e)(2) of act July 18, 1952, ch. 945, 66 Stat. 775, as amended by Pub. L. 86–778, title I, §103(a)(2), Sept. 13, 1960, 74 Stat. 936, provided that: “In the case of any individual who died outside the forty-eight States and the District of Columbia after August 1950 and prior to January 1954, whose death occurred while he was in the active military or naval service of the United States, and who is returned to any of such States, the Districtof Columbia, Alaska, Hawaii, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa for interment or reinterment, the last sentence of section 202(i) of the Social Security Act \[subsec. (i) of this section\] shall not prevent payment to any person under the second sentence thereof if application for a lump-sum death payment with respect to such deceased individual is filed under such section by or on behalf of such person (whether or not legally competent) prior to the expiration of two years after the date of such interment or reinterment.”
 
 #### Payment of Annuities to Officers and Employees of the United States Convicted of Certain Offenses
 
@@ -3048,11 +3118,5 @@ Sec. 4. This Order shall be effective as of January 1, 1983.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 401, 403, 405, 415, 416, 417, 421, 422, 423, 424a, 425, 426, 426a, 427, 428, 433, 434, 1320b–1, 1320b–19, 1382, 1383, 1383c, 1395i–1, 1395p, 1395r, 1395s, 1396v of this title; title 5 sections 552a, 8332, 8421, 8442; title 8 section 1611; title 29 section 2801; title 30 sections 902, 922, 932; title 38 sections 1312, 1322; title 45 sections 231a, 231b, 231c, 231d, 231e, 231f; title 50 section 2082.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—MUSEUM SERVICES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 9108, 9109 of this title.
-
 
 ---
 

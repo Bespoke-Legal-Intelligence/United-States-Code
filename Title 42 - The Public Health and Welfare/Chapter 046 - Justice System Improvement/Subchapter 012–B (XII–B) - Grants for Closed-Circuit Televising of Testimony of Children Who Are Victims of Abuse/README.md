@@ -1,9 +1,5 @@
 ### SUBCHAPTER XII–B—GRANTS FOR CLOSED-CIRCUIT TELEVISING OF TESTIMONY OF CHILDREN WHO ARE VICTIMS OF ABUSE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3742, 3782, 3783, 3793 of this title.
-
 <i><sup>1</sup></i><i> So in original. “(5)” probably should not appear.</i>
 
 

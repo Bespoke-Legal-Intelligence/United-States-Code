@@ -2,7 +2,7 @@
 
 (a)
 
-Patent Applicant.—An applicant for a patent, any of whose claims has been twice rejected, may appeal from the decision of the primary examiner to the Board of Patent Appealsand Interferences, having once paid the fee for such appeal.
+Patent Applicant.—An applicant for a patent, any of whose claims has been twice rejected, may appeal from the decision of the primary examiner to the Board of Patent Appeals and Interferences, having once paid the fee for such appeal.
 
 (b)
 
@@ -45,8 +45,4 @@ Amendment by Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any pa
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–622 effective three months after Nov. 8, 1984, see section 207 of Pub. L. 98–622, set out as a note under section 41 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 141, 145, 154, 306, 315 of this title.
 

@@ -12,7 +12,3 @@ The Secretary of Agriculture is authorized, under such rules and regulations as 
 
 Act Feb. 1, 1905 transferred certain functions with regard to administration of national forests from Secretary of the Interior to Secretary of Agriculture.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 496 of this title.
-

@@ -26,7 +26,3 @@ Section 122 of title I of Pub. L. 91–271 provided that:
 
 “(d) All other provisions of this Act \[see Short Title notes set out under section 1 of this title and section 1500 of Title 19\] shall apply to appeals and disallowed protests deemed to have had summonses timely and properly filed under this section.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1292 of this title.
-

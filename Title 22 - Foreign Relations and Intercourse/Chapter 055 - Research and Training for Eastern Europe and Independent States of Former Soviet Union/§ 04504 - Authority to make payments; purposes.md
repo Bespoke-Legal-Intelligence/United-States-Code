@@ -56,7 +56,3 @@ Subsec. (b)(6). Pub. L. 103–199, §302(6)(A), substituted “studies on the co
 
 In subsec. (b)(2)–(6), independent states of the former Soviet Union has the meaning given in section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4505 of this title.
-

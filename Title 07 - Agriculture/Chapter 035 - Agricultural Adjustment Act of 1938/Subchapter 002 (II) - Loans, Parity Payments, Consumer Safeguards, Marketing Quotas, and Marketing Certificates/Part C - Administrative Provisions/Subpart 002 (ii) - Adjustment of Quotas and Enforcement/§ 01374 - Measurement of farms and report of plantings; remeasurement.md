@@ -28,7 +28,7 @@ Subsec. (c). Pub. L. 89–321, §702, struck out sentence directing the Secretar
 
 1960—Subsec. (b). Pub. L. 86–553, §1, struck out second sentence which read as follows: “The Secretary shall similarly provide for the remeasurement upon request by the farm operator of the acreage planted to cotton on the farm, but the operator shall be required to reimburse the local committee for the expense of such remeasurement if the planted acreage is found to be in excess of the allotted acreage” which is now covered by subsec. (c) of this section.
 
-Subsec. (c). Pub. L. 86–553, §2, authorized Secretary to provide by regulations for remeasurement of acreage planted to a basic agricultural commodity and formeasurement of acreage planted to such commodity remaining after adjustment of excess of measurement and remeasurement and to provide for refunds, and prescribed method of computing acreage in determining whether the applicable farm allotment has been exceeded.
+Subsec. (c). Pub. L. 86–553, §2, authorized Secretary to provide by regulations for remeasurement of acreage planted to a basic agricultural commodity and for measurement of acreage planted to such commodity remaining after adjustment of excess of measurement and remeasurement and to provide for refunds, and prescribed method of computing acreage in determining whether the applicable farm allotment has been exceeded.
 
 1954—Subsec. (b). Act Aug. 28, 1954, struck out last sentence relating to overplanting of cotton acreage.
 
@@ -45,8 +45,4 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1349 of this title.
 

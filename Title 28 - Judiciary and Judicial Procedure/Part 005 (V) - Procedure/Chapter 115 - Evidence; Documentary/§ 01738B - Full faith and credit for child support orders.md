@@ -20,7 +20,7 @@ Definitions.—In this section:
 
 &emsp;“child's State” means the State in which a child resides.
 
-&emsp;“child's home State” means the State in which a child lived with a parent or a person acting as parent for at least 6 consecutivemonths immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the State in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month period.
+&emsp;“child's home State” means the State in which a child lived with a parent or a person acting as parent for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the State in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month period.
 
 &emsp;“child support” means a payment of money, continuing support, or arrearages or the provision of a benefit (including payment of health insurance, child care, and educational expenses) for the support of a child.
 
@@ -110,7 +110,7 @@ Law of state of issuance of order.—In interpreting a child support order inclu
 
 &emsp;(3)
 
-Period of limitation.—In an action to enforce arrears under a child support order, acourt shall apply the statute of limitation of the forum State or the State of the court that issued the order, whichever statute provides the longer period of limitation.
+Period of limitation.—In an action to enforce arrears under a child support order, a court shall apply the statute of limitation of the forum State or the State of the court that issued the order, whichever statute provides the longer period of limitation.
 
 (i)
 
@@ -120,7 +120,7 @@ Registration for Modification.—If there is no individual contestant or child r
 
 #### Amendments
 
-1997—Subsec. (f)(4). Pub. L. 105–33, §5554(1), substituted “a court having jurisdiction over the parties shall issue a child support order, which must be recognized.” for “a court may issue a child support order, which must be recognized.”
+1997—Subsec. (f)(4). Pub. L. 105–33, §5554(1), substituted “a court having jurisdiction over the partiesshall issue a child support order, which must be recognized.” for “a court may issue a child support order, which must be recognized.”
 
 Subsec. (f)(5). Pub. L. 105–33, §5554(2), inserted “under subsection (d)” after “jurisdiction”.
 

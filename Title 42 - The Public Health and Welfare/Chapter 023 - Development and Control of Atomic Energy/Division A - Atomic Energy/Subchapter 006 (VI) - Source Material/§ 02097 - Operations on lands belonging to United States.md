@@ -8,7 +8,3 @@ The Commission is authorized, to the extent it deems necessary to effectuate the
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2183 of this title.
-

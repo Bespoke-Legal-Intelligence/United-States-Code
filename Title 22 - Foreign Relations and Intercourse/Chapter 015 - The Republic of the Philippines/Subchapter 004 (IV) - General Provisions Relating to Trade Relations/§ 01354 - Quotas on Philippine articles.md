@@ -32,7 +32,3 @@ Section 512 of act Apr. 30, 1946, provided that: “This Act \[enacting subchapt
 
 Section 1 of act Apr. 30, 1946, provided that: “This Act \[enacting subchapters I to IV of this chapter, amending section 1393 of this title, sections 2470 and 2800 of the Internal Revenue Code of 1939, and section 734 of Title 48, Territories and Insular Possessions, repealing section 1301 of Title 19, Customs Duties, sections 2476, and 3340 to 3343 of the Internal Revenue Code of 1939, and section 1243 of Title 48\] may be cited as the ‘Philippine Trade Act of 1946’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1373 of this title.
-

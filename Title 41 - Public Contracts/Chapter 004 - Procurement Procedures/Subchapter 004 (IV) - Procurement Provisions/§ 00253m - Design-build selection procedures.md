@@ -54,7 +54,7 @@ Two-phase selection procedures consist of the following:
 
 #### (d) Solicitation to state number of offerors to be selected for phase-two requests for competitive proposals
 
-A solicitation issued pursuant to the procedures described in subsection (c) of this section shall state the maximum number of offerors that are to be selected to submit competitive proposals pursuant to subsection (c)(4) of this section. The maximum number specified in the solicitation shall not exceed 5 unless the agency determines with respect to an individual solicitation that a specified number greater than 5 is in the Government's interest and is consistent with the purposes and objectives of the two-phase selection process.
+A solicitation issued pursuant to the procedures described in subsection (c) of this section shall state the maximum number of offerors that are to be selected to submit competitiveproposals pursuant to subsection (c)(4) of this section. The maximum number specified in the solicitation shall not exceed 5 unless the agency determines with respect to an individual solicitation that a specified number greater than 5 is in the Government's interest and is consistent with the purposes and objectives of the two-phase selection process.
 
 #### (e) Requirement for guidance and regulations
 

@@ -28,7 +28,3 @@ The Government Performance and Results Act of 1993, referred to in subsec. (b), 
 
 Pub. L. 108–7, div. J, title VI, §645(b), Feb. 20, 2003, 117 Stat. 474, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 2002.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9501, 9507 of this title.
-

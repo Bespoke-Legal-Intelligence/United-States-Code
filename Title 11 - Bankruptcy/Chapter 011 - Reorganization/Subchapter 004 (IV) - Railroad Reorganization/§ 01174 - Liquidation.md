@@ -16,7 +16,3 @@ Although the House amendment does not adopt provisions contained in sections 117
 
 Section 1174 permits the court to convert the case to a liquidation under chapter 7 if the court finds that the debtor cannot be reorganized, or if various time limits specified in the subchapter are not met. Section 77 \[section 205 of former title 11\] does not authorize a liquidation of a railroad under the Bankruptcy Act \[former title 11\]. If the railroad is not reorganizable, the only action open to the court is to dismiss the petition, which would in all likelihood be followed by a State court receivership, with all of its attendant disadvantages. If reorganization is impossible, the debtor should be liquidated under the Bankruptcy Act.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1165 of this title.
-

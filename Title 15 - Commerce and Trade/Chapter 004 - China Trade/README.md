@@ -41,10 +41,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 26 sections 246, 992, 1504, 6072, 6091.
-
 
 ---
 

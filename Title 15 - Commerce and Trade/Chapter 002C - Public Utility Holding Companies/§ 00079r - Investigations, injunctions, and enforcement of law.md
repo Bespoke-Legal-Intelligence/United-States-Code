@@ -6,7 +6,7 @@ The Commission, in its discretion, may investigate any facts, conditions, practi
 
 #### (b) Investigation of business, financial condition, etc., of companies
 
-The Commission upon its own motion or at the request of a State commission may investigate, or obtain any information regarding the business, financial condition, or practices of any registered holding company or subsidiary company thereof or facts, conditions, practices, or matters affecting the relations between any such company and any other company or companies in the same holding-company system.
+The Commission upon its own motion or at the request of a State commission may investigate, or obtain any information regarding the business, financial condition, or practices of any registered holding company or subsidiary company thereof or facts, conditions, practices, ormatters affecting the relations between any such company and any other company or companies in the same holding-company system.
 
 #### (c) Administering oaths; subpenas; examining witnesses
 
@@ -46,9 +46,5 @@ Amendment by Pub. L. 91–452 not to affect any immunity to which any individual
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78u, 79k of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

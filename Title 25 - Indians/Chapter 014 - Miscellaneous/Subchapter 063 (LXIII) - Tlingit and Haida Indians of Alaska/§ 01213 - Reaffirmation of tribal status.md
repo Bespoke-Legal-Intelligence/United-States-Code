@@ -4,7 +4,3 @@ The Congress reaffirms and acknowledges that the Central Council of Tlingit and 
 
 (Pub. L. 103–454, title II, §203, Nov. 2, 1994, 108 Stat. 4792.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1214 of this title.
-

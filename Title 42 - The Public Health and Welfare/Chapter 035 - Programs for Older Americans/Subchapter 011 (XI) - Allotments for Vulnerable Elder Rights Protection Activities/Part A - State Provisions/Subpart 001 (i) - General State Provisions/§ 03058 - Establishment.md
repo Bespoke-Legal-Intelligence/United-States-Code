@@ -22,7 +22,3 @@ Subchapter inapplicable with respect to fiscal year 1993, see section 4(b) of Pu
 
 Subchapter inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3058b of this title.
-

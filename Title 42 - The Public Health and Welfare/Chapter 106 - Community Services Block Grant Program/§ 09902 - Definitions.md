@@ -36,9 +36,5 @@ In this chapter:
 
 #### Prior Provisions
 
-A prior section 9902, Pub. L. 97–35, title VI, §673, Aug. 13, 1981, 95 Stat. 511; Pub. L. 97–115, §17(a)(1), Dec. 29, 1981, 95 Stat. 1609; Pub. L. 98–288, §31(a), May 21, 1984, 98 Stat. 197; Pub. L. 98–558, title II, §202, Oct. 30, 1984, 98 Stat. 2884; Pub. L. 99–425, title IV, §402, Sept. 30, 1986, 100 Stat. 968; Pub. L. 101–501, title IV, §§402, 408, Nov. 3, 1990, 104 Stat. 1251, 1255; Pub. L. 103–171, §7(c)(1), Dec. 2, 1993, 107 Stat. 1994, defined terms used in this chapter, prior to the general amendment of this chapter by Pub. L. 105–285.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 247b–5, 247b–14, 247c–1, 254c–12, 290bb–1, 290ff–3, 297q, 300n, 300ff–76, 603, 604, 701, 1395w–114, 1395w–141, 1396a, 1396d, 1396<i>o</i>, 1396r–5, 1396r–6, 1397jj, 3002, 4955, 5011, 5061, 8622, 8626b, 9910, 9924, 9925, 9926, 12618, 13791 of this title; title 7 sections 1927, 2014, 3175, 7501; title 8 sections 1154, 1183a; title 15 section 6901; title 20 sections 1021, 1085, 2351, 7801, 9141, 9402; title 29 section 2801; title 40 section 549.
+A prior section 9902, Pub. L. 97–35, title VI, §673, Aug. 13, 1981, 95 Stat. 511; Pub. L. 97–115, §17(a)(1), Dec. 29, 1981, 95 Stat. 1609; Pub. L. 98–288, §31(a), May 21, 1984, 98 Stat. 197; Pub. L. 98–558, title II, §202, Oct. 30, 1984, 98 Stat. 2884; Pub. L. 99–425, title IV, §402, Sept. 30, 1986,100 Stat. 968; Pub. L. 101–501, title IV, §§402, 408, Nov. 3, 1990, 104 Stat. 1251, 1255; Pub. L. 103–171, §7(c)(1), Dec. 2, 1993, 107 Stat. 1994, defined terms used in this chapter, prior to the general amendment of this chapter by Pub. L. 105–285.
 

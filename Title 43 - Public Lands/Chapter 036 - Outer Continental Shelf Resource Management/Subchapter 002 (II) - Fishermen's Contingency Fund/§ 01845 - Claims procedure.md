@@ -16,7 +16,7 @@ The Secretary of the Interior shall make reasonable efforts to notify all person
 
 (1) The Secretary shall, under regulations prescribed pursuant to section 1843(a) of this title, specify the time, form and manner in which claims must be filed.
 
-(2) The Secretary may not accept any claim that does not meet the filing requirements specified under paragraph (1), and shall give a claimant whose claim is not accepted written notice of the reasons for nonacceptance. Such written notice must be given to the claimant within 30days after the date on which the claim was filed and if the claimant does not refile an acceptable claim within 30 days after the date of such written notice, the claimant is not eligible for compensation under this subchapter for the damages concerned; except that the Secretary—
+(2) The Secretary may not accept any claim that does not meet the filing requirements specified under paragraph (1), and shall give a claimant whose claim is not accepted written notice of the reasons for nonacceptance. Such written notice must be given to the claimant within 30 days after the date on which the claim was filed and if the claimant does not refile an acceptable claim within 30 days after the date of such written notice, the claimant is not eligible for compensation under this subchapter for the damages concerned; except that the Secretary—
 
 &emsp;(A) shall in any case involving a good faith effort by the claimant to meet such filing requirements, or
 
@@ -50,7 +50,7 @@ Any proceeding conducted with respect to an initial determination on a claim und
 
 &emsp;(B) enters into an agreement with the Secretary to repay to the Secretary all or any part of the amount of the award if, after review under subsection (d)(3)(C) of this section or, if applicable, after judicial review, the amount of the award, or any part thereof, is not sustained.
 
-(2) Upon payment of a claim by the Secretary pursuant to this subsection, the Secretary shall acquire by subrogation all rights of the claimant against any person found to be responsible for the damages with respect to which such claim was made. Any moneys recovered by the Secretary through subrogation shall be deposited into the Fund.
+(2) Upon payment of a claim by the Secretary pursuant to this subsection, the Secretary shall acquire by subrogation all rights of the claimant against any person found to be responsiblefor the damages with respect to which such claim was made. Any moneys recovered by the Secretary through subrogation shall be deposited into the Fund.
 
 (3) Any person who denies responsibility for damages with respect to which a claim is made and who is subquently <sup>2</sup> found to be responsible for such damages, and any commercial fisherman who files a claim for damages and who is subsequently found to be responsible for such damages, shall pay the costs of the proceedings under this section with respect to such claim.
 
@@ -66,7 +66,7 @@ Section 1847 of this title, referred to in subsec. (f)(2), was repealed by Pub. 
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–498 substituted “under subsection (d)(1) of this section” for “, except that no such claim may be filed more than 60 days after thedate of discovery of the damages with respect to which such claim is made”.
+1984—Subsec. (a). Pub. L. 98–498 substituted “under subsection (d)(1) of this section” for “, except that no such claim may be filed more than 60 days after the date of discovery of the damages with respect to which such claim is made”.
 
 Subsec. (d)(1). Pub. L. 98–498 inserted “time,” before “form”.
 
@@ -95,10 +95,6 @@ Amendment by Pub. L. 97–212 applicable with respect to claims for damages file
 #### Compensation for Certain Fishing Vessel and Gear Damage; Application
 
 Authority to owners or operators of fishing vessels and commercial fishermen failing to make application for compensation within the time limitations of this section or section 1980 of Title 22, Foreign Relations and Intercourse, to make application for compensation within the 60-day period beginning on Dec. 22, 1980, see section 240(a), (b)(1) of Pub. L. 96–561, title II, Dec. 22, 1980, 94 Stat. 3300, set out as a note under section 1980 of Title 22.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1842 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

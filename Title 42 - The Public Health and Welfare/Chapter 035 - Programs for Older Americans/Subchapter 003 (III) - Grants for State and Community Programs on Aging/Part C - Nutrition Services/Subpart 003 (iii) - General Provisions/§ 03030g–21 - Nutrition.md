@@ -32,9 +32,9 @@ A State that establishes and operates a nutrition project under this chapter <s
 
 &emsp;&emsp;(G) ensures that meal providers carry out such project with the advice of dietitians (or individuals with comparable expertise), meal participants, and other individuals knowledgeable with regard to the needs of older individuals,
 
-&emsp;&emsp;(H) ensures that each participating area agency on aging establishes procedures that allow nutrition project administrators the option to offer a meal, on the same basis as meals provided to participating older individuals, to individuals providing volunteer services during the meal hours, and to individuals with disabilities who reside at home with and accompany older individuals eligible under this chapter,<sup>1</sup>
+&emsp;&emsp;(H) ensures that each participating area agency on aging establishes procedures that allow nutrition project administrators theoption to offer a meal, on the same basis as meals provided to participating older individuals, to individuals providing volunteer services during the meal hours, and to individuals with disabilities who reside at home with and accompany older individuals eligible under this chapter,<sup>1</sup>
 
-&emsp;&emsp;(I) ensures that nutrition services will be available to older individuals and to theirspouses, and may be made available to individuals with disabilities who are not older individuals but who reside in housing facilities occupied primarily by older individuals at which congregate nutrition services are provided, and
+&emsp;&emsp;(I) ensures that nutrition services will be available to older individuals and to their spouses, and may be made available to individuals with disabilities who are not older individuals but who reside in housing facilities occupied primarily by older individuals at which congregate nutrition services are provided, and
 
 &emsp;&emsp;(J) provide <sup>3</sup> for nutrition screening and, where appropriate, for nutrition education and counseling.
 
@@ -47,10 +47,6 @@ Pub. L. 106–501, §313, which directed amendment of subpart 4 of part C of tit
 #### Prior Provisions
 
 A prior section 3030g–21, Pub. L. 89–73, title III, §339, as added Pub. L. 102–375, title III, §317, Sept. 30, 1992, 106 Stat. 1241, related to compliance with dietary guidelines prior to repeal by Pub. L. 106–501, title III, §313, Nov. 13, 2000, 114 Stat. 2252. See Codification note above.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3020e of this title.
 
 <i><sup>1</sup></i><i> So in original. Title III of Pub. L. 89–73, as amended, contained parts and subparts, but not chapters.</i>
 

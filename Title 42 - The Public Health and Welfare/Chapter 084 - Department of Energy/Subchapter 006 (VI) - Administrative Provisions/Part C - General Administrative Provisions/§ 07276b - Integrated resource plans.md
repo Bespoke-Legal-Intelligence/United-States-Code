@@ -2,7 +2,7 @@
 
 #### (a) Review by Western Area Power Administration
 
-Within 1 year after October 24, 1992, the Administrator shall, by regulation, revise the Final Amended Guidelines and Acceptance Criteria for Customer Conservation and Renewable Energy Programs published in the Federal Register on August 21, 1985 (50 F.R. 33892), or any subsequent amendments thereto, to require each customer to submit an integrated resource plan to the Administrator within 12 months after such regulations are amended. The regulation shall require a revision of such plan to be submitted every 5 years after the initial submission. The Administrator shall review the initial plan in accordance with a schedule established by the Administrator (which schedule will provide for the review of all initial plans within 24 months after such regulations are amended), and each revision thereof within 120 days after his receipt of the plan or revision and determine whether the customer has in the development of the plan or revision, complied with sections 7275 to 7276c of this title. Plan amendments may be submitted to the Administrator at any time and the Administrator shall review each such amendment within 120 days after receipt thereof to determine whether the customer in amending its plan has complied with sections 7275 to 7276c of this title. If the Administrator determines that the customer, in developing its plan, revision, or amendment, has not complied with the requirements of sections 7275 to 7276c of this title, the customer shall resubmit the plan at any time thereafter. Whenever a plan or revision or amendment is resubmitted the Administrator shall review the plan or revision or amendment within 120 days after his receipt thereof to determine whether the customer has complied with sections 7275 to 7276c of this title.
+Within 1 year after October 24, 1992, the Administrator shall, by regulation, revise the Final Amended Guidelines and Acceptance Criteria for Customer Conservation and Renewable Energy Programs published in the Federal Register on August 21, 1985 (50 F.R. 33892), or any subsequent amendments thereto, to require each customer to submit an integrated resource plan to the Administrator within 12 months after such regulations are amended. The regulation shall require a revision of such plan to be submitted every 5 years after the initial submission. The Administrator shall review the initial plan in accordance with a schedule established by the Administrator (which schedule will provide for the review of all initial plans within 24 months after such regulations are amended), and each revision thereof within 120 days after his receipt of the plan or revision and determine whether the customer has in the development of the plan or revision, complied with sections 7275 to 7276c of this title. Plan amendments may besubmitted to the Administrator at any time and the Administrator shall review each such amendment within 120 days after receipt thereof to determine whether the customer in amending its plan has complied with sections 7275 to 7276c of this title. If the Administrator determines that the customer, in developing its plan, revision, or amendment, has not complied with the requirements of sections 7275 to 7276c of this title, the customer shall resubmit the plan at any time thereafter. Whenever a plan or revision or amendment is resubmitted the Administrator shall review the plan or revision or amendment within 120 days after his receipt thereof to determine whether the customer has complied with sections 7275 to 7276c of this title.
 
 #### (b) Criteria for approval of integrated resource plans
 
@@ -10,7 +10,7 @@ The Administrator shall approve an integrated resource plan submitted as require
 
 &emsp;(1) Identified and accurately compared all practicable energy efficiency and energy supply resource options available to the customer.
 
-&emsp;(2) Included a 2-year action plan and a 5-year action plan which describe specific actions thecustomer will take to implement its integrated resource plan.
+&emsp;(2) Included a 2-year action plan and a 5-year action plan which describe specific actions the customer will take to implement its integrated resource plan.
 
 &emsp;(3) Designated “least-cost options” to be utilized by the customer for the purpose of providing reliable electric service to its retail consumers and explained the reasons why such options were selected.
 
@@ -63,8 +63,4 @@ Within 1 year after January 1, 1999, and at appropriate intervals thereafter, th
 #### Codification
 
 Section was enacted as part of the Hoover Power Plant Act of 1984, and not as part of the Department of Energy Organization Act which comprises this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7275, 7276, 7276a, 7276c of this title.
 

@@ -6,7 +6,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Joint venture agreement.—The term “joint venture agreement” means an agreement between two or more major air carriers on or after January 1, 1998, with regard to (A) code-sharing, blocked-space arrangements, long-term wet leases (as defined in section 207.1 of title 14, Code of Federal Regulations) of a substantial number (as defined by the Secretary by regulation) of aircraft, or frequent flyer programs, or (B) any other cooperative working arrangement (as defined by the Secretary by regulation) between 2 or more major air carriers that affects more than 15 percent of the total number of available seat miles offered by the major air carriers.
+Joint venture agreement.—The term “joint venture agreement” means an agreement between two or more major air carriers on or after January 1, 1998, with regard to (A) code-sharing, blocked-space arrangements, long-term wet leases (as defined in section 207.1 of title 14, Code of Federal Regulations)of a substantial number (as defined by the Secretary by regulation) of aircraft, or frequent flyer programs, or (B) any other cooperative working arrangement (as defined by the Secretary by regulation) between 2 or more major air carriers that affects more than 15 percent of the total number of available seat miles offered by the major air carriers.
 
 &emsp;(2)
 
@@ -46,7 +46,7 @@ Regulations.—The effectiveness of a joint venture agreement may not be delayed
 
 (f)
 
-Memorandum To Prevent Duplicative Reviews.—Promptly after the date of enactment of this section, the Secretary shall consult with the Assistant Attorney General of the Antitrust Division of the Department of Justice in order to establish, through a written memorandum of understanding, preclearance procedures to prevent unnecessary duplication of effort by the Secretary and the Assistant Attorney Generalunder this section and the antitrust laws of the United States, respectively.
+Memorandum To Prevent Duplicative Reviews.—Promptly after the date of enactment of this section, the Secretary shall consult with the Assistant Attorney General of the Antitrust Division of the Department of Justice in order to establish, through a written memorandum of understanding, preclearance procedures to prevent unnecessary duplication of effort by the Secretary and the Assistant Attorney General under this section and the antitrust laws of the United States, respectively.
 
 (g)
 

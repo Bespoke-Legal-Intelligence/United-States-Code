@@ -22,7 +22,7 @@ Notwithstanding the assumption of management of the Preserve by the Trust, the S
 
 &emsp;(9) at the request of the Trust, construct and operate a visitors’ center in or near the Preserve, subject to the availability of appropriated funds;
 
-&emsp;(10) conduct the assessment of the Trust's performance, and, if the Secretary determinesit necessary, recommend to Congress the termination of the Trust, under section 698v–8(b)(2) of this title; and
+&emsp;(10) conduct the assessment of the Trust's performance, and, if the Secretary determines it necessary, recommend to Congress the termination of the Trust, under section 698v–8(b)(2) of this title; and
 
 &emsp;(11) conduct such other activities for which express authorization is provided to the Secretary by sections 698v to 698v–10 of this title.
 
@@ -53,8 +53,4 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(1
 The Wild and Scenic Rivers Act, referred to in subsec. (a)(3), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, as amended, which is classified generally to chapter 28 (§1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of this title and Tables.
 
 The Federal Power Act, referred to in subsec. (a)(3), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698v, 698v–1, 698v–3, 698v–4, 698v–6, 698v–8, 698v–9, 698v–10 of this title.
 

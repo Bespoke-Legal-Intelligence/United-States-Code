@@ -10,11 +10,7 @@ R.S. §104 derived from act Jan. 24, 1857, ch. 19, §3, 11 Stat. 156.
 
 #### Amendments
 
-<b>1938</b>—Act June 22, 1938, substituted “section 102” for “section 102 of the Revised Statutes” and inserted “or any joint committee established by a joint or concurrent resolution of the two Houses of Congress”.
+1938—Act June 22, 1938, substituted “section 102” for “section 102 of the Revised Statutes” and inserted “or any joint committee established by a joint or concurrent resolution of the two Houses of Congress”.
 
-<b>1936</b>—Act July 13, 1936, substituted “section 102 of the Revised Statutes” for “section 102”, inserted provisions as to failure to produce and refusal to answer, required a statement of facts constituting the failure to be reported to and filed with the President of the Senate or the Speaker of the House, and directed that said President or Speaker certify the facts to the appropriate United States attorney in lieu of prior certification to the district attorney for the District of Columbia.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 288d, 288g of this title.
+1936—Act July 13, 1936, substituted “section 102 of the Revised Statutes” for “section 102”, inserted provisions as to failure to produce and refusal to answer, required a statement of facts constituting the failure to be reported to and filed with the President of the Senate or the Speaker of the House, and directed that said President or Speaker certify the facts to the appropriate United States attorney in lieu of prior certification to the district attorney for the District of Columbia.
 

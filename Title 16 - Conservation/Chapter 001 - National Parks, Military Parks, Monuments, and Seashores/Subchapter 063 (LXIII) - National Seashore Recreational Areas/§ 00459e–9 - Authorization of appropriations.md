@@ -12,7 +12,3 @@ There is hereby authorized to be appropriated not more than $23,000,000 for the 
 
 1976—Pub. L. 94–578 substituted “$18,000,000” for “$16,000,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459e–1, 459e–2, 459e–5, 459e–6, 459e–7 of this title.
-

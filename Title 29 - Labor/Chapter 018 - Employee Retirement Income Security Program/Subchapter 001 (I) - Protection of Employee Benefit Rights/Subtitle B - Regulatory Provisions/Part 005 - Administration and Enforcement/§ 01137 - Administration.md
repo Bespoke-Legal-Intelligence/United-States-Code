@@ -28,7 +28,3 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1144 of this title.
-

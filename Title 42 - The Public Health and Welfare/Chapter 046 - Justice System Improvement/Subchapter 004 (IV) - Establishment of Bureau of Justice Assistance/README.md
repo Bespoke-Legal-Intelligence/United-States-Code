@@ -60,11 +60,7 @@ Section 3750b, Pub. L. 90–351, title I, §453, as added Pub. L. 91–644, titl
 
 Section 3750c, Pub. L. 90–351, title I, §454, as added Pub. L. 91–644, title I, §6(a), Jan. 2, 1971, 84 Stat. 1886; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 210; Pub. L. 94–237, §4(c)(5)(C), Mar. 19, 1976, 90 Stat. 244, set out guidelines and basic criteria for applicants and grantees.
 
-Section 3750d, Pub. L. 90–351, title I, §455, as added Pub. L. 91–644, title I, §6(a), Jan. 2, 1971, 84 Stat. 1886; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 210; Pub. L. 94–503, title I, §119(a), Oct. 15, 1976, 90 Stat. 2417, related to allocation and reallocation of funds.
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3793 of this title.
+Section 3750d, Pub. L. 90–351, title I, §455, as added Pub. L. 91–644, title I, §6(a), Jan. 2, 1971, 84 Stat. 1886;amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 210; Pub. L. 94–503, title I, §119(a), Oct. 15, 1976, 90 Stat. 2417, related to allocation and reallocation of funds.
 
 
 ---

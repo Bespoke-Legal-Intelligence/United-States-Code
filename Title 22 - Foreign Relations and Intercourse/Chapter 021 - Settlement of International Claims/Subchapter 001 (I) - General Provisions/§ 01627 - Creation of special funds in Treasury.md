@@ -28,7 +28,7 @@ The Secretary of the Treasury is authorized and directed out of the sums covered
 
 #### (d) Payment of balance to Yugoslav Government; certification of adjudication costs; finality of certification
 
-The Secretary of the Treasury, upon the concurrence of the Secretary of State, is authorized and directed, out of the sum covered into the Yugoslav Claims Fund pursuant to subsection (b) of this section, after completing the payments of such funds pursuant to subsection (c) of this section, to make payment of the balance of any sum remaining in such fund to the Government of the Federal People's Republic of Yugoslavia to the extent required under article 1(c) of the Yugoslav Claims Agreement of 1948. The Secretary of State shall certify to the Secretary of the Treasury the total cost of adjudication, not borne by the claimants, attributable to the Yugoslav Claims Agreement of 1948. Such certification shall be final and conclusive and shall not be subject to review by any other official, or department, agency, or establishment of the United States.
+The Secretary of the Treasury, upon the concurrence of the Secretary of State, is authorized and directed, out of the sum covered into theYugoslav Claims Fund pursuant to subsection (b) of this section, after completing the payments of such funds pursuant to subsection (c) of this section, to make payment of the balance of any sum remaining in such fund to the Government of the Federal People's Republic of Yugoslavia to the extent required under article 1(c) of the Yugoslav Claims Agreement of 1948. The Secretary of State shall certify to the Secretary of the Treasury the total cost of adjudication, not borne by the claimants, attributable to the Yugoslav Claims Agreement of 1948. Such certification shall be final and conclusive and shall not be subject to review by any other official, or department, agency, or establishment of the United States.
 
 #### (e) Payments; priorities
 
@@ -101,8 +101,4 @@ Subsec. (e). Pub. L. 90–421, §1(5), added subsec. (e).
 International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 
 For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1626 of this title.
 

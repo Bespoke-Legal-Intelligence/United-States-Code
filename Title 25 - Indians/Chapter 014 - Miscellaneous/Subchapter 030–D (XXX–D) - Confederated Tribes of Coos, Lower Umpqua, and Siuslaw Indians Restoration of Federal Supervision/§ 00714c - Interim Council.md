@@ -4,7 +4,3 @@ Until such time as a new tribal constitution and bylaws are adopted in accordanc
 
 (Pub. L. 98–481, §5, Oct. 17, 1984, 98 Stat. 2252.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 714 of this title.
-

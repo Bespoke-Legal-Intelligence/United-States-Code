@@ -76,7 +76,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (A) Development
 
-&emsp;&emsp;Except as otherwise provided in this chapter, any public housing developed usingamounts provided under this subsection, or under section 1437<i>l</i> of this title as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, shall be operated under the terms and conditions applicable to public housing during the 40-year period that begins on the date on which the project (or stage of the project) becomes available for occupancy.
+&emsp;&emsp;Except as otherwise provided in this chapter, any public housing developed using amounts provided under this subsection, or under section 1437<i>l</i> of this title as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, shall be operated under the terms and conditions applicable to public housing during the 40-year period that begins on the date on which the project (or stage of the project) becomes available for occupancy.
 
 #### (B) Modernization
 
@@ -136,7 +136,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (B) Incentive to increase certain rental income
 
-&emsp;&emsp;The formula shall provide an incentive to encourage public housing agencies to facilitate increases in earned income by families in occupancy. Any such incentive shall provide that the agency shall benefit from increases in such rental income and that suchamounts accruing to the agency pursuant to such benefit may be used only for low-income housing or to benefit the residents of the public housing agency.
+&emsp;&emsp;The formula shall provide an incentive to encourage public housing agencies to facilitate increases in earned income by families in occupancy. Any such incentive shall provide that the agency shall benefit from increases in such rental income and that such amounts accruing to the agency pursuant to such benefit may be used only for low-income housing or to benefit the residents of the public housing agency.
 
 #### (C) Treatment of savings
 
@@ -192,7 +192,7 @@ To the extent amounts are provided in advance in appropriations Acts, the Secret
 
 &emsp;&emsp;(A) at risk of being designated as troubled under section 1437d(j) of this title, to assist such agencies from being so designated; and
 
-&emsp;&emsp;(B) designated as troubled under section 1437d(j) of this title, to assist such agencies in achieving the removal of that designation;
+&emsp;&emsp;(B) designated as troubled under section 1437d(j) of this title, to assist such agenciesin achieving the removal of that designation;
 
 &emsp;(5) contract expertise;
 
@@ -276,7 +276,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 #### (A) In general
 
-&emsp;&emsp;A public housing agency shall spend any assistance received under this section not later than 4 years (plus the period of any extension approved by the Secretary under paragraph (2)) after the date on which funds become available to the agency for obligation.
+&emsp;&emsp;A public housing agency shall spend any assistance received under this section not later than 4 years (plus the period of any extension approved by the Secretary under paragraph (2)) after the date on which fundsbecome available to the agency for obligation.
 
 #### (B) Enforcement
 
@@ -340,7 +340,7 @@ A public housing agency that receives income from nonrental sources (as determin
 
 #### (3) Services for elderly residents
 
-&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one or more developments. The model project may provide for contracting with private parties for the delivery of services.
+&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one ormore developments. The model project may provide for contracting with private parties for the delivery of services.
 
 #### (4) Effective date
 
@@ -466,7 +466,7 @@ Qualifications.—Before the implementation of formulas pursuant to sections 9(d
 
 &emsp;&emsp;“(B) if a public housing agency establishes a rental amount that is based on an adjustment to income under section 3(b)(5)(G) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(5)(G)\] (as in effect immediately before the enactment of this Act \[Oct. 21, 1998\]), the Secretary shall not take into account any reduction of or any increase in the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributions for the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\]; and
 
-&emsp;&emsp;“(C) if a public housing agency establishes a rental amount other than as provided under subparagraph (A) or (B) that is less than the greatest of the amounts determined under subparagraphs (A), (B), and (C) of section 3(a)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)(1)(A), (B), (C)\], the Secretary shall not take into account any reduction of the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributionsfor the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\].
+&emsp;&emsp;“(C) if a public housing agency establishes a rental amount other than as provided under subparagraph (A) or (B) that is less than the greatest of the amounts determined under subparagraphs (A), (B), and (C) of section 3(a)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)(1)(A), (B), (C)\], the Secretary shall not take into account any reduction of the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributions for the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\].
 
 “(f)
 
@@ -502,7 +502,21 @@ Section effective on such date or dates as the Secretary of Housing and Urban De
 
 #### Regulations
 
+Pub. L. 108–199, div. G, title II, §222, Jan. 23, 2004, 118 Stat. 398, provided that: “The Secretary of Housing and Urban Development shall conduct negotiated rulemaking with representatives from interested parties for purposes of any changes to the formula governing the Public Housing Operating Fund. A final rule shall be issued no later than July 1, 2004.”
+
 Pub. L. 108–7, div. K, title II, Feb. 20, 2003, 117 Stat. 487, provided in part: “That the Secretary shall issue final regulations to carry out section 9(j) of the United States Housing Act of 1937 (42 U.S.C. 1437g(j)), not later than August 1, 2003”.
+
+#### Payments for Costs of Operation and Management of Public Housing Prohibited
+
+Pub. L. 108–447, div. I, title II, Dec. 8, 2004, 118 Stat. 3298, provided in part: “That for fiscal year 2006 and all fiscal years thereafter, the Secretary shall provide assistance under this heading \[
+
+Public Housing Operating Fund\] to public housing agencies on a calendar year basis: <i>Provided further</i>, That, in fiscal year 2005 and all fiscal years hereafter, no amounts under this heading in any appropriations Act may be used for payments to public housing agencies for the costs of operation and management of public housing for any year prior to the current year of such Act”.
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–199, div. G, title II, Jan. 23, 2004, 118 Stat. 375.
+
+Pub. L. 108–7, div. K, title II, Feb. 20, 2003, 117 Stat. 488.
 
 #### Funding of Covered Locally Developed Public Housing Units Prohibited
 
@@ -521,10 +535,6 @@ Section 508 of Pub. L. 101–625 provided that: “In determining the Performanc
 #### Energy Efficiency Demonstration
 
 Section 523 of Pub. L. 101–625, which directed Secretary of Housing and Urban Development to carry out demonstration program to encourage use of private energy service companies and demonstrate opportunities for energy cost reduction through energy services contracts, and to report findings and recommendations to Congress as soon as practicable after expiration of 1-year period beginning on Nov. 28, 1990, was repealed by Pub. L. 105–276, title V, §582(a)(11), Oct. 21, 1998, 112 Stat. 2644.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437a, 1437c, 1437c–1, 1437d, 1437k, 1437r, 1437s, 1437u, 1437v, 1437w, 1437z–4, 1437z–5, 1437z–7, 1437aaa–2, 1437aaa–4, 1437bbb–2, 1437bbb–3, 1439, 4822, 12742 of this title; title 12 section 1701u.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Fund”.</i>
 

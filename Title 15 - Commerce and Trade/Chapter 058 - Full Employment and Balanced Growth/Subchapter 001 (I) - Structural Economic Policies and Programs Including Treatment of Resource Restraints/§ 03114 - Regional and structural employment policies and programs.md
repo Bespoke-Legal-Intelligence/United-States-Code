@@ -10,7 +10,3 @@ In formulating the regional components of any such programs, the President shall
 
 (Pub. L. 95–523, title II, §204, Oct. 27, 1978, 92 Stat. 1901.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3116 of this title.
-

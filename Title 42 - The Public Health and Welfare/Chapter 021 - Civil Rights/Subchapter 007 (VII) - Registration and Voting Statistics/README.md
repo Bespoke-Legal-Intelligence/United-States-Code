@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—REGISTRATION AND VOTING STATISTICS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2000h of this title.
-
 
 ---
 

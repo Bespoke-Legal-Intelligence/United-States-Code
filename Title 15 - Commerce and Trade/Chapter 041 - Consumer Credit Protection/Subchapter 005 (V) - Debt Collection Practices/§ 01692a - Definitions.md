@@ -36,7 +36,3 @@ As used in this subchapter—
 
 1986—Par. (6). Pub. L. 99–361 in provision preceding cl. (A) substituted “clause (F)” for “clause (G)”, struck out cl. (F) which excluded any attorney-at-law collecting a debt as an attorney on behalf of and in the name of a client from term “debt collector”, and redesignated cl. (G) as (F).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 section 3718.
-

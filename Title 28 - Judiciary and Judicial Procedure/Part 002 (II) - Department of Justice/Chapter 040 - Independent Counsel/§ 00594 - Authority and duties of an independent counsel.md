@@ -58,7 +58,7 @@ Relevant factors.—In making any certification under this paragraph with respec
 
 (c)
 
-Additional Personnel.—For the purposes of carrying out the duties of an office of independent counsel, such independent counsel may appoint, fix the compensation, and assign the duties of such employees as such independent counsel considers necessary (including investigators, attorneys, and part-time consultants).The positions of all such employees are exempted from the competitive service. Such employees shall be compensated at levels not to exceed those payable for comparable positions in the Office of United States Attorney for the District of Columbia under sections 548 and 550, but in no event shall any such employee be compensated at a rate greater than the rate of basic pay payable for level ES–4 of the Senior Executive Service Schedule under section 5382 of title 5, as adjusted for the District of Columbia under section 5304 of that title regardless of the locality in which an employee is employed.
+Additional Personnel.—For the purposes of carrying out the duties of an office of independent counsel, such independent counsel may appoint, fix the compensation, and assign the duties of such employees as such independent counsel considers necessary (including investigators, attorneys, and part-time consultants). The positions of all such employees are exempted from the competitive service. Such employees shall be compensated at levels not to exceed those payable for comparable positions in the Office of United States Attorney for the District of Columbia under sections 548 and 550, but in no event shall any such employee be compensated at a rate greater than the rate of basic pay payable for level ES–4 of the Senior Executive Service Schedule under section 5382 of title 5, as adjusted for the District of Columbia under section 5304 of that title regardless of the locality in which an employee is employed.
 
 (d)
 
@@ -130,7 +130,7 @@ Restrictions on employment while independent counsel and appointees are serving.
 
 > &emsp;may not represent in any matter any person involved in any investigation or prosecution under this chapter.
 
-&emsp;(B) During the period in which any person appointed by an independent counsel under subsection (c) is serving in the office of independent counsel, such person may not represent in any matter any person involved in any investigation or prosecution under this chapter.
+&emsp;(B) During the period in which any person appointed by an independent counsel under subsection (c) is serving in the office of independent counsel, such person may not represent in any matter any person involved inany investigation or prosecution under this chapter.
 
 &emsp;(2)
 
@@ -188,7 +188,7 @@ Records provided by congress.—Records of an investigation conducted by a commi
 
 &emsp;&emsp;(A) shall be maintained as a separate body of records within the records of the independent counsel; and
 
-&emsp;&emsp;(B) shall, after the records have been transferred to the Archivist under this chapter, be made available, except as provided in paragraph (3)(B) and (C), in accordance with the rules governing release of the records ofthe House of Congress that provided the records to the independent counsel.
+&emsp;&emsp;(B) shall, after the records have been transferred to the Archivist under this chapter, be made available, except as provided in paragraph (3)(B) and (C), in accordance with the rules governing release of the records of the House of Congress that provided the records to the independent counsel.
 
 > &emsp;Subparagraph (B) shall not apply to those records which have been surrendered pursuant to grand jury or court proceedings.
 
@@ -214,7 +214,7 @@ Liability for invalid certification.—An employee making a certification under 
 
 &emsp;&emsp;(C)
 
-Department of justice policies.—An independent counsel shall comply with the established policies of the Department of Justice respecting expenditures of funds, except to the extent that compliance would be inconsistent with the purposes of this chapter.
+Department of justice policies.—An independent counsel shall comply with the established policies of the Department of Justice respecting expenditures of funds, except to the extent that compliance would beinconsistent with the purposes of this chapter.
 
 &emsp;(2)
 
@@ -281,8 +281,4 @@ Amendment by Pub. L. 103–270 applicable with respect to independent counsels a
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, but with the following provisions applicable to previously initiated proceedings pending on Dec. 15, 1987: subsec. (d)(2) (relating to reports by Attorney General on expenditures by independent counsel, except that the first such report shall be made only with respect to expenditures on or after Dec. 15, 1987), subsec. (h)(1)(A) except that the 6-month periods described in subsec. (h)(1)(A) of this section shall be calculated from Dec. 15, 1987, subsec. (i), subsec. (k) of this section, and 90 days after Dec. 15, 1987, subsec. (j), see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 593, 596, 597 of this title; title 18 section 202.
 

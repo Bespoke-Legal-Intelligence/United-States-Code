@@ -108,7 +108,3 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 Section 8008(b)(2) of Pub. L. 100–647 provided that: “The Secretary of Health and Human Services shall establish the Blood Donor Locator Service pursuant to section 1141 of the Social Security Act \[this section\] not later than 180 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 405 of this title; title 26 section 6103.
-

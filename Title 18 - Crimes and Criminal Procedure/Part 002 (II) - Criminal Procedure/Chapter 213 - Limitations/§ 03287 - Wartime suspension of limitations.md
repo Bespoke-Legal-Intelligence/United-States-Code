@@ -1,6 +1,6 @@
 ### §3287. Wartime suspension of limitations
 
-When the United States is at war the running of any statute of limitations applicable to any offense (1) involving fraud or attempted fraud against the United States or any agency thereof in any manner, whether by conspiracy or not, or (2) committed in connection with the acquisition, care, handling, custody, control or disposition of any real or personal property of the United States, or (3) committed in connectionwith the negotiation, procurement, award, performance, payment for, interim financing, cancelation, or other termination or settlement, of any contract, subcontract, or purchase order which is connected with or related to the prosecution of the war, or with any disposition of termination inventory by any war contractor or Government agency, shall be suspended until three years after the termination of hostilities as proclaimed by the President or by a concurrent resolution of Congress.
+When the United States is at war the running of any statute of limitations applicable to any offense (1) involving fraud or attempted fraud against the United States or any agency thereof in any manner, whether by conspiracy or not, or (2) committed in connection with the acquisition, care, handling, custody, control or disposition of any real or personal property of the United States, or (3) committed in connection with the negotiation, procurement, award, performance, payment for, interim financing, cancelation, or other termination or settlement, of any contract, subcontract, or purchase order which is connected with or related to the prosecution of the war, or with any disposition of termination inventory by any war contractor or Government agency, shall be suspended until three years after the termination of hostilities as proclaimed by the President or by a concurrent resolution of Congress.
 
 Definitions of terms in section 103 of title 41 shall apply to similar terms used in this section.
 
@@ -21,8 +21,4 @@ The revised section is written in general terms as permanent legislation applica
 The last paragraph was added to obviate any possibility of doubt as to meaning of terms defined in section 103 of title 41, U.S.C., 1940 ed., Public Contracts.
 
 Changes were made in phraseology.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 6533.
 

@@ -8,7 +8,7 @@
 
 #### (2) Submission
 
-&emsp;The Secretary shall (A) establish dates for submission of reports under this subsection, and (B) review such reports and make such recommendations as the Secretary deems appropriate to carry out the purposes of this Act.
+&emsp;The Secretary shall (A) establish dates for submission of reports under this subsection,and (B) review such reports and make such recommendations as the Secretary deems appropriate to carry out the purposes of this Act.
 
 #### (3) Failure to report
 
@@ -47,10 +47,6 @@ The adequacy of information submitted under section 12705(b)(4) of this title sh
 Section 12705(b)(15) of this title, referred to in subsec. (a)(1), was redesignated section 12705(b)(16) of this title by Pub. L. 102–550, title II, §220(c)(1), Oct. 28, 1992, 106 Stat. 3762, and was subsequently redesignated section 12705(b)(18) of this title by Pub. L. 105–276, title V, §583(4)(A), Oct. 21, 1998, 112 Stat. 2644.
 
 This Act, referred to in subsecs. (a)(2) and (c), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12756 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

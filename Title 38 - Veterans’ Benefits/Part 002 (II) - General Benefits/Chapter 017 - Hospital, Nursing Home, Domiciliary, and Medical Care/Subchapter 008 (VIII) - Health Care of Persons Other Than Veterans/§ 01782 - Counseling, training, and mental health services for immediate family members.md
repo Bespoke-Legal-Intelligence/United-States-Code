@@ -34,7 +34,3 @@ Travel and Transportation Authorized.—Services provided under subsections (a) 
 
 A prior section 1782 was renumbered section 3682 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1712A, 1781, 1783, 8111, 8111A, 8152 of this title.
-

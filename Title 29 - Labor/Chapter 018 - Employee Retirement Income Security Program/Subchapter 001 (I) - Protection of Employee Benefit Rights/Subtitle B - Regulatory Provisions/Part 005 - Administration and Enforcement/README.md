@@ -1,9 +1,5 @@
 part 5—administration and enforcement
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1003 of this title.
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Make Grants.—(1) Subject to the availability of appropriations provided forsuch purpose, the Secretary shall make grants to assist eligible entities in establishing programs to furnish, and expanding or modifying existing programs for furnishing, the following to homeless veterans:
+Authority To Make Grants.—(1) Subject to the availability of appropriations provided for such purpose, the Secretary shall make grants to assist eligible entities in establishing programs to furnish, and expanding or modifying existing programs for furnishing, the following to homeless veterans:
 
 &emsp;(A) Outreach.
 
@@ -70,7 +70,7 @@ Application Requirement.—An entity seeking a grant for a project under this se
 
 (f)
 
-Program Requirements.—The Secretary may not make a grant for a project to an applicant under this section unless the applicant in the application for the grant agrees to each of the following requirements:
+Program Requirements.—The Secretary may not make a grant for a project to an applicant under this section unless the applicant inthe application for the grant agrees to each of the following requirements:
 
 &emsp;(1) To provide the services for which the grant is made at locations accessible to homeless veterans.
 
@@ -86,7 +86,7 @@ Program Requirements.—The Secretary may not make a grant for a project to an a
 
 Service Center Requirements.—In addition to criteria and requirements established under subsection (b), in the case of an application for a grant under this section for a service center for homeless veterans, the Secretary shall require each of the following:
 
-&emsp;(1) That such center provide services to homeless veterans during such hours as theSecretary may specify and be open to such veterans on an as-needed, unscheduled basis.
+&emsp;(1) That such center provide services to homeless veterans during such hours as the Secretary may specify and be open to such veterans on an as-needed, unscheduled basis.
 
 &emsp;(2) That space at such center be made available, as mutually agreeable, for use by staff of the Department of Veterans Affairs, the Department of Labor, and other appropriate agencies and organizations in assisting homeless veterans served by such center.
 
@@ -109,10 +109,6 @@ Recovery of Unused Grant Funds.—(1) If a grant recipient under this section do
 A prior section 2011 was renumbered section 4211 of this title.
 
 Another prior section 2011 was renumbered section 4102 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2002, 2012, 2065 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

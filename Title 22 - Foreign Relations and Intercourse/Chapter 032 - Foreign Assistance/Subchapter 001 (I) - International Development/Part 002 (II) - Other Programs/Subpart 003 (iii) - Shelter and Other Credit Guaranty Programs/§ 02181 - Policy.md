@@ -10,7 +10,7 @@ Amendment by Pub. L. 98–473 is based on section 311(a) of H.R. 5119, Ninety-ei
 
 #### Prior Provisions
 
-A prior section 221 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 429, as amended by Pub. L. 87–565, pt. I, §104(a), Aug. 1, 1962, 76 Stat. 256; Pub. L. 88–205, pt. I, §104(a), Dec. 16, 1963, 77 Stat. 381; Pub. L. 88–633, pt. I, §103(a), Oct. 7, 1964, 78 Stat. 1009; Pub. L. 89–171, pt. I, §104(a), (b), Sept. 6, 1965, 79 Stat. 654; Pub. L. 89–583, pt. I, §104(a), Sept. 19, 1966, 80 Stat. 798; Pub. L. 90–137, pt. I, §104(a), Nov. 14, 1967, 81 Stat. 450; Pub. L. 90–554, pt.I, §103, Oct. 8, 1968, 82 Stat. 960, related to general authority for foreign investment guaranties by the President, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807.
+A prior section 221 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 429, as amended by Pub. L. 87–565, pt. I, §104(a), Aug. 1, 1962, 76 Stat. 256; Pub. L. 88–205, pt. I, §104(a), Dec. 16, 1963, 77 Stat. 381; Pub. L. 88–633, pt. I, §103(a), Oct. 7, 1964, 78 Stat. 1009; Pub. L. 89–171, pt. I, §104(a), (b), Sept. 6, 1965, 79 Stat. 654; Pub. L. 89–583, pt. I, §104(a), Sept. 19, 1966, 80 Stat. 798; Pub. L. 90–137, pt. I, §104(a), Nov. 14, 1967, 81 Stat. 450; Pub. L. 90–554, pt. I, §103, Oct. 8, 1968, 82 Stat. 960, related to general authority for foreign investment guaranties by the President, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807.
 
 #### Amendments
 
@@ -35,8 +35,4 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 #### Use of Funds From Sale of Notes for Discharge of Liabilities Under Guaranties; Transfer of Funds and Cancellation of Notes and Interest
 
 Pub. L. 90–249, title I, §120, Jan. 2, 1968, 81 Stat. 941, provided that: “Hereafter, none of the funds obtained or authorized to be obtained from the sale of notes under authority of paragraph 111(c)(2) of the Economic Cooperation Act of 1948 \[section 1509(c)(2) of this title\] or paragraph 413(b)(4)(F) of the Mutual Security Act of 1954 \[section 1933(b)(4)(F) of this title\] may be used for the purposes of discharging liabilities under any guaranties (exclusive of informational media guaranties) issued under sections 221(b) and 224 of the Foreign Assistance Act of 1961 \[subsec. (b) of this section and section 2184 of this title\], sections 202(b) and 413(b)(4) of the Mutual Security Act of 1954 \[sections 1872(b) and 1933(b)(4) of this title\] and section 111(b)(3) of the Economic Cooperation Act of 1948 \[section 1509(b)(3) of this title\]. Any portion of the funds in the reserve established pursuant to section 222(e) of the Foreign Assistance Act of 1961 \[section 2182(e) of this title\] which are attributable to the funds realized from the sale of notes specified in the preceding sentence shall be transferred to the general fund of the Treasury. The Secretary of the Treasury shall cancel all such notes and sums owing and unpaid thereon, including interest to date of cancellation.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2182, 2186 of this title; title 12 sections 1432, 1464.
 

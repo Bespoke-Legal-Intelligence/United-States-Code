@@ -24,7 +24,3 @@ Amendment by Pub. L. 104–104 applicable with respect to any charge, classifica
 
 Nothing in amendment by Pub. L. 104–104 to be construed to limit authority of Commission to waive, modify, or forbear from applying certain requirements, see section 402(b)(3) of Pub. L. 104–104, set out as a note under section 204 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 155, 332, 405 of this title.
-

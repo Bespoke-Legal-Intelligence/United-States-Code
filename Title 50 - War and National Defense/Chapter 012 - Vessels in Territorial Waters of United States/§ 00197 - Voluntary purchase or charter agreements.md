@@ -8,7 +8,3 @@ During any period in which vessels may be requisitioned under section 1242 of ti
 
 1981—Pub. L. 97–31 substituted “Secretary of Transportation” for “Secretary of Commerce”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 198 of this title.
-

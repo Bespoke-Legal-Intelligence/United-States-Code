@@ -16,7 +16,7 @@ Prohibitions.—(1) A person may not discharge an employee, or discipline or dis
 
 (b)
 
-Filing Complaints and Procedures.—(1) An employee alleging discharge, discipline, or discrimination in violation of subsection (a) of this section, or another person at the employee's request, may file a complaint with the Secretary of Labor not later than 180 days after the alleged violation occurred. On receiving the complaint, the Secretary shall notify the person alleged to have committed the violation of the filing of the complaint.
+Filing Complaints and Procedures.—(1) An employee alleging discharge, discipline, or discrimination in violation of subsection (a) of this section, or another person at the employee's request, may file a complaint with the Secretary of Labor not later than 180 days after the alleged violation occurred. On receiving the complaint, the Secretary shall notify the personalleged to have committed the violation of the filing of the complaint.
 
 (2)(A) Not later than 60 days after receiving a complaint, the Secretary shall conduct an investigation, decide whether it is reasonable to believe the complaint has merit, and notify the complainant and the person alleged to have committed the violation of the findings. If the Secretary decides it is reasonable to believe a violation occurred, the Secretary shall include with the decision findings and a preliminary order for the relief provided under paragraph (3) of this subsection.
 
@@ -36,7 +36,7 @@ Filing Complaints and Procedures.—(1) An employee alleging discharge, discipli
 
 (c)
 
-Judicial Review and Venue.—A person adversely affected by an order issued after a hearing under subsection (b) of this section may filea petition for review, not later than 60 days after the order is issued, in the court of appeals of the United States for the circuit in which the violation occurred or the person resided on the date of the violation. The review shall be heard and decided expeditiously. An order of the Secretary subject to review under this subsection is not subject to judicial review in a criminal or other civil proceeding.
+Judicial Review and Venue.—A person adversely affected by an order issued after a hearing under subsection (b) of this section may file a petition for review, not later than 60 days after the order is issued, in the court of appeals of the United States for the circuit in which the violation occurred or the person resided on the date of the violation. The review shall be heard and decided expeditiously. An order of the Secretary subject to review under this subsection is not subject to judicial review in a criminal or other civil proceeding.
 
 (d)
 

@@ -20,7 +20,3 @@
 
 (Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 22.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 1371.
-

@@ -12,7 +12,3 @@ After the creation of such board and for thirty days after such board has made i
 
 1934—Act June 21, 1934, substituted “Mediation Board” for “Board of Mediation” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 155, 159a of this title.
-

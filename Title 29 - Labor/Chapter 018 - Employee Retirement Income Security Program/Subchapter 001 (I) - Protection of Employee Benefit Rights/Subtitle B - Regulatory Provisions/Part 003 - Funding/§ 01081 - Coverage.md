@@ -78,7 +78,7 @@ Subsecs. (c), (d). Pub. L. 96–364, §304(a), added subsecs. (c) and (d).
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Section 7894(d)(1)(B) of Pub. L. 101–239 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if included in section 411 of the Multiemployer Pension Plan Amendments Act of 1980 \[Pub. L. 96–364\].”
 
@@ -91,8 +91,4 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 #### Regulations
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1003, 1023, 1054 of this title.
 

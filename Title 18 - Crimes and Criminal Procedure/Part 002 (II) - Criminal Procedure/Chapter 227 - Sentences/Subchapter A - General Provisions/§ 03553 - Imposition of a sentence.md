@@ -34,7 +34,7 @@ Factors To Be Considered in Imposing a Sentence.—The court shall impose a sent
 
 &emsp;&emsp;(B) that, except as provided in section 3742(g), is in effect on the date the defendant is sentenced.<sup>1</sup>
 
-&emsp;(6) the need to avoid unwarranted sentence disparities among defendants with similarrecords who have been found guilty of similar conduct; and
+&emsp;(6) the need to avoid unwarranted sentence disparities among defendants with similar records who have been found guilty of similar conduct; and
 
 &emsp;(7) the need to provide restitution to any victims of the offense.
 
@@ -78,7 +78,7 @@ Statement of Reasons for Imposing a Sentence.—The court, at the time of senten
 
 (d)
 
-Presentence Procedure for an Order of Notice.—Prior to imposing an order of notice pursuant to section 3555, the court shall give notice to the defendant and the Government that it is considering imposing such an order. Uponmotion of the defendant or the Government, or on its own motion, the court shall—
+Presentence Procedure for an Order of Notice.—Prior to imposing an order of notice pursuant to section 3555, the court shall give notice to the defendant and the Government that it is considering imposing such an order. Upon motion of the defendant or the Government, or on its own motion, the court shall—
 
 &emsp;(1) permit the defendant and the Government to submit affidavits and written memoranda addressing matters relevant to the imposition of such an order;
 
@@ -190,7 +190,7 @@ Pub. L. 108–21, title IV, §401(<i>l</i>), Apr. 30, 2003, 117 Stat. 674, provi
 
 “(1)
 
-Defined term.—For purposes of this section \[amending this section, section 3742 of this title, and section 994 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as a note under section 991 of Title 28, and enacting provisions listed in a table of provisions for review, promulgation, or amendment of Federal sentencing guidelines relating to specific offenses set out under section 994 of Title 28\], the term ‘report described in paragraph (3)’ means a report, submitted by the Attorney General, which states in detail the policies and procedures that the Department of Justice has adopted subsequent to the enactment of this Act \[Apr. 30, 2003\]—
+Defined term.—For purposes of this section \[amending this section, section 3742 of this title, and section 994 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as a note under section 991 of Title 28, and enacting provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28\], the term ‘report described in paragraph (3)’ means a report, submitted by the Attorney General, which states in detail the policies and procedures that the Department of Justice has adopted subsequent to the enactment of this Act \[Apr. 30, 2003\]—
 
 &emsp;“(A) to ensure that Department of Justice attorneys oppose sentencing adjustments, including downward departures, that are not supported by the facts and the law;
 
@@ -243,10 +243,6 @@ Section 24 of Pub. L. 100–182 provided that: “Notwithstanding section 235 of
 &emsp;“(3) rule 35(b) as in effect before the taking effect of the initial set of guidelines promulgated by the United States Sentencing Commission pursuant to chapter 58 of title 28, United States Code,
 
 > shall apply in the case of an offense committed before the taking effect of such guidelines.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1031, 3551, 3552, 3555, 3562, 3563, 3564, 3565, 3572, 3582, 3583, 3584, 3742 of this title; title 28 sections 991, 994, 995.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

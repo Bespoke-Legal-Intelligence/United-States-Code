@@ -18,7 +18,7 @@
 
 &emsp;If the final determination of the administering authority is affirmative, then that determination, in any investigation in which the presence of critical circumstances has been alleged under section 1673b(e) of this title, shall also contain a finding of whether—
 
-&emsp;&emsp;(A)(i) there is a history of dumping and material injury by reason of dumped importsin the United States or elsewhere of the subject merchandise, or
+&emsp;&emsp;(A)(i) there is a history of dumping and material injury by reason of dumped imports in the United States or elsewhere of the subject merchandise, or
 
 &emsp;&emsp;(ii) the person by whom, or for whose account, the merchandise was imported knew or should have known that the exporter was selling the subject merchandise at less than its fair value and that there would be material injury by reason of such sales, and
 
@@ -66,7 +66,7 @@ Commission standard for retroactive application.—
 
 &emsp;&emsp;(i)
 
-In general.—If the finding of the administering authority under subsection (a)(3) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(3) of this section are likely to undermine seriously the remedial effect of the antidumping duty order to be issued under section 1673e of this title.
+In general.—If the finding of the administering authority under subsection\(a)(3) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(3) of this section are likely to undermine seriously the remedial effect of the antidumping duty order to be issued under section 1673e of this title.
 
 &emsp;&emsp;(ii)
 
@@ -96,7 +96,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 &emsp;&emsp;(ii) the administering authority shall order the posting of a cash deposit, bond, or other security, as the administering authority deems appropriate, for each entry of the subject merchandise in an amount based on the estimated weighted average dumping margin or the estimated all-others rate, whichever is applicable, and
 
-&emsp;&emsp;(C) in cases where the preliminary determination by the administering authorityunder section 1673b(b) of this title was negative, the administering authority shall order the suspension of liquidation under section 1673b(d)(2) of this title.
+&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1673b(b) of this title was negative, the administering authority shall order the suspension of liquidation under section 1673b(d)(2) of this title.
 
 #### (2) Issuance of order; effect of negative determination
 
@@ -186,7 +186,7 @@ Subsec. (c)(4). Pub. L. 98–573, §605(b)(2), added par. (4).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the UnitedStates \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -195,8 +195,4 @@ Amendment by section 1333(a) of Pub. L. 100–418 effective Aug. 23, 1988, and a
 #### Effective Date of 1984 Amendment
 
 Amendment by section 602(c) of Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984, and amendment by section 605(b) of Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a), (b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1516a, 1673, 1673a, 1673b, 1673c, 1673e, 1673f, 1673h, 1675, 1675a, 1677, 1677c, 1677f, 1677f–1, 1677m, 1677n of this title.
 

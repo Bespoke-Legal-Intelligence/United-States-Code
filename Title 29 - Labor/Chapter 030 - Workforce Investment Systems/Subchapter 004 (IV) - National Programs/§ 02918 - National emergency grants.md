@@ -6,7 +6,7 @@ The Secretary is authorized to award national emergency grants in a timely manne
 
 &emsp;(1) to an entity described in subsection (c) of this section to provide employment and training assistance to workers affected by major economic dislocations, such as plant closures, mass layoffs, or closures and realignments of military installations;
 
-&emsp;(2) to provide assistance to the Governor of any State within the boundaries of which is an area that has suffered an emergency or a major disaster as defined in paragraphs (1) and (2), respectively, of section 5122 of title 42 (referred to in this section as the “disaster area”) to provide disaster relief employment in the area;
+&emsp;(2) to provide assistance to the Governor of any State within the boundaries of which is an area that has suffered an emergency or a major disaster as defined in paragraphs (1) and (2), respectively, of section 5122 of title 42 (referred to in this section as the “disaster area”)to provide disaster relief employment in the area;
 
 &emsp;(3) to provide additional assistance to a State or local board for eligible dislocated workers in a case in which the State or local board has expended the funds provided under this section to carry out activities described in paragraphs (1) and (2) and can demonstrate the need for additional funds to provide appropriate services for such workers, in accordance with requirements prescribed by the Secretary; and
 
@@ -188,7 +188,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 &emsp;&emsp;&emsp;(ix) Coverage under a group health plan that is available through the employment of the eligible individual's spouse.
 
-&emsp;&emsp;&emsp;(x) In the case of any eligible individual and such individual's qualifying familymembers, coverage under individual health insurance if the eligible individual was covered under individual health insurance during the entire 30-day period that ends on the date that such individual became separated from the employment which qualified such individual for—
+&emsp;&emsp;&emsp;(x) In the case of any eligible individual and such individual's qualifying family members, coverage under individual health insurance if the eligible individual was covered under individual health insurance during the entire 30-day period that ends on the date that such individual became separated from the employment which qualified such individual for—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of an eligible TAA recipient, the allowance described in section 35(c)(2) of title 26,
 
@@ -348,7 +348,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 &emsp;&emsp;With respect to applications submitted by States or entities for grants under this subsection, the Secretary shall—
 
-&emsp;&emsp;&emsp;(i) not later than 15 days after the date on which the Secretary receives a completed application from a State or entity,notify the State or entity of the determination of the Secretary with respect to the approval or disapproval of such application;
+&emsp;&emsp;&emsp;(i) not later than 15 days after the date on which the Secretary receives a completed application from a State or entity, notify the State or entity of the determination of the Secretary with respect to the approval or disapproval of such application;
 
 &emsp;&emsp;&emsp;(ii) in the case of an application of a State or entity that is disapproved by the Secretary, provide technical assistance, at the request of the State or entity, in a timely manner to enable the State or entity to submit an approved application; and
 
@@ -389,10 +389,6 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 #### Construction of 2002 Amendment
 
 Pub. L. 107–210, div. A, title II, §203(f), Aug. 6, 2002, 116 Stat. 972, provided that: “Nothing in this title \[enacting sections 35, 6050T, and 7527 of Title 26, Internal Revenue Code, and section 300gg–45 of Title 42, The Public Health and Welfare, amending this section, sections 1165, 2862, and 2919 of this title, sections 4980B, 6103, 6724, and 7213A of Title 26, section 1324 of Title 31, Money and Finance, and section 300bb–5 of Title 42, renumbering section 35 of Title 26 as section 36 of Title 26, and enacting provisions set out as notes under sections 35 and 6050T of Title 26\] (or the amendments made by this title), other than provisions relating to COBRA continuation coverage and reporting requirements, shall be construed as creating any new mandate on any party regarding health insurance coverage.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2862, 2915, 2916, 2919 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “ ‘military installation’ ”.</i>
 

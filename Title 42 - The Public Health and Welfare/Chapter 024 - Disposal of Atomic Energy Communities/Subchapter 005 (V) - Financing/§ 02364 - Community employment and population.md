@@ -18,9 +18,5 @@ Subsec. (b). Pub. L. 87–719, §19, inserted “or eleven thousand seven hundre
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2311, 2326, 2348, 2366 of this title.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. Seealso Transfer of Functions notes set out under those sections.
 

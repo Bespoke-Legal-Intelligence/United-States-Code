@@ -108,7 +108,3 @@ Executive Order No. 11988, referred to in subsec. (f), is set out as a note unde
 
 A prior section 11386, Pub. L. 100–77, title IV, §426, July 22, 1987, 101 Stat. 503, related to establishment of guidelines for purposes of a supportive housing demonstration program, prior to repeal by Pub. L. 102–550, §1403(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11382 of this title.
-

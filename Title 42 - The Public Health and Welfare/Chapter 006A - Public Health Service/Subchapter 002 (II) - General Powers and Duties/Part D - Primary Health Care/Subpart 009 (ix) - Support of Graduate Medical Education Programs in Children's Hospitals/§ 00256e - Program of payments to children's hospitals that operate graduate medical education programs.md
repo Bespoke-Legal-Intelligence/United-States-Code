@@ -68,7 +68,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;The Secretary shall compute for each such hospital that is a children's hospital a per resident amount—
 
-&emsp;&emsp;&emsp;(i) by dividing the national average per resident amount computed under subparagraph (D) into a wage-related portion and a non-wage-related portion by applyingthe proportion determined under subparagraph (B);
+&emsp;&emsp;&emsp;(i) by dividing the national average per resident amount computed under subparagraph (D) into a wage-related portion and a non-wage-related portion by applying the proportion determined under subparagraph (B);
 
 &emsp;&emsp;&emsp;(ii) by multiplying the wage-related portion by the factor described in subparagraph (C)(ii) for the hospital's area; and
 
@@ -82,13 +82,13 @@ The Secretary shall make two payments under this section to each children's hosp
 
 #### (1) In general
 
-&emsp;The amount determined under this subsection for payments to a children's hospital for indirect expenses associated with the treatment of more severely ill patients and the additional costs related to the teaching of residents for a fiscal year is equal to an amount determined appropriate by the Secretary.
+&emsp;The amount determined under this subsection for payments to a children's hospital for indirect expenses associated with the treatment of more severely ill patients and the additional costs associated with the teaching of residents for a fiscal year is equal to an amount determined appropriate by the Secretary.
 
 #### (2) Factors
 
 &emsp;In determining the amount under paragraph (1), the Secretary shall—
 
-&emsp;&emsp;(A) take into account variations in case mix among children's hospitals and the number of full-time equivalent residents in the hospitals’ approved graduate medical residency training programs; and
+&emsp;&emsp;(A) take into account variations in case mix among children's hospitals and the ratio of the number of full-time equivalent residents in the hospitals’ approved graduate medical residency training programs to beds (but excluding beds or bassinets assigned to healthy newborn infants); and
 
 &emsp;&emsp;(B) assure that the aggregate of the payments for indirect expenses associated with the treatment of more severely ill patients and the additional costs related to the teaching of residents under this section in a fiscal year are equal to the amount appropriated for such expenses for the fiscal year involved under subsection (f)(2) of this section.
 
@@ -150,13 +150,17 @@ In this section:
 
 &emsp;The term “direct graduate medical education costs” has the meaning given such term in section 1395ww(h)(5)(C) of this title.
 
-(July 1, 1944, ch. 373, title III, §340E, as added Pub. L. 106–129, §4, Dec. 6, 1999, 113 Stat. 1671; amended Pub. L. 106–310, div. A, title XX, §2001, Oct. 17, 2000, 114 Stat. 1155.)
+(July 1, 1944, ch. 373, title III, §340E, as added Pub. L. 106–129, §4, Dec. 6, 1999, 113 Stat. 1671; amended Pub. L. 106–310, div. A, title XX, §2001, Oct. 17, 2000, 114 Stat. 1155; Pub. L. 108–490, §1(a), Dec. 23, 2004, 118 Stat. 3972.)
 
 #### References in Text
 
 Section 1395ww(d) of this title, referred to in subsec. (e)(3), was in the original “section 1186(d) of such Act” and was translated as reading “section 1886(d) of such Act”, meaning section 1886(d) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1186 and section 1395ww(d) of this title relates to review of inpatient hospital service payments.
 
 #### Amendments
+
+2004—Subsec. (d)(1). Pub. L. 108–490, §1(a)(1), substituted “costs associated with” for “costs related to”.
+
+Subsec. (d)(2)(A). Pub. L. 108–490, §1(a)(2), inserted “ratio of the” after “hospitals and the” and “to beds (but excluding beds or bassinets assigned to healthy newborn infants)” before semicolon.
 
 2000—Subsec. (a). Pub. L. 106–310, §2001(a), substituted “2000 through 2005” for “2000 and 2001” and inserted at end “The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.”.
 
@@ -173,4 +177,8 @@ Subsec. (f)(1)(A)(iii). Pub. L. 106–310, §2001(f)(1), added cl. (iii).
 Subsec. (f)(2)(C). Pub. L. 106–310, §2001(f)(2), added subpar. (C).
 
 Subsec. (g)(2). Pub. L. 106–310, §2001(g), substituted “with a Medicare payment agreement and which is excluded from the Medicare inpatient prospective payment system pursuant to section 1395ww(d)(1)(B)(iii) of this title and its accompanying regulations” for “described in section 1395ww(d)(1)(B)(iii) of this title”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–490, §1(b), Dec. 23, 2004, 118 Stat. 3972, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to payments for periods beginning with fiscal year 2005.”
 

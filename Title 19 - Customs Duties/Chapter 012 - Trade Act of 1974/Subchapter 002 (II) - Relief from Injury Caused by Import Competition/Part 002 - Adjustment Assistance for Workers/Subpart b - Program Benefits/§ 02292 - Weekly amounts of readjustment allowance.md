@@ -2,7 +2,7 @@
 
 #### (a) Formula
 
-Subject to subsections (b) and (c) of this section, the trade readjustment allowance payable to an adversely affected worker for a week of total unemployment shall be an amount equal to the most recent weekly benefit amount of the unemployment insurance payable to the worker for a week of total unemployment preceding the worker's first exhaustion of unemployment insurance (as determined for purposes of section 2291(a)(3)(B) of this title) reduced (but not below zero) by—
+Subject to subsections (b) and (c) of this section, the trade readjustment allowance payableto an adversely affected worker for a week of total unemployment shall be an amount equal to the most recent weekly benefit amount of the unemployment insurance payable to the worker for a week of total unemployment preceding the worker's first exhaustion of unemployment insurance (as determined for purposes of section 2291(a)(3)(B) of this title) reduced (but not below zero) by—
 
 &emsp;(1) any training allowance deductible under subsection (c) of this section; and
 
@@ -48,13 +48,9 @@ Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemp
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be providedunder this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Reference to Subsection (d) Deemed Reference to (c)
 
 Section 2504(b) of Pub. L. 97–35 provided that: “Any reference in any law to subsection (d) of section 232 of the Trade Act of 1974 \[subsec. (d) of this section\] shall be considered a reference to subsection (c) thereof \[subsec. (c) of this section\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2291, 2293, 2311, 2396 of this title; title 26 section 62.
 

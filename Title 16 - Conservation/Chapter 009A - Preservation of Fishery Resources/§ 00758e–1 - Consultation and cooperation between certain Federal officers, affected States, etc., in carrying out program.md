@@ -12,7 +12,3 @@ In carrying out the purposes of sections 758e to 758e–5 of this title, the Sec
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 758e, 758e–1a, 758e–3, 758e–4, 758e–5 of this title.
-

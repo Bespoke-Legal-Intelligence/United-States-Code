@@ -8,7 +8,3 @@ In furtherance of the purposes of the Act of March 4, 1931 (46 Stat. 1522), the 
 
 Act of March 4, 1931 (46 Stat. 1522), referred to in text, was not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430qq, 430tt of this title.
-

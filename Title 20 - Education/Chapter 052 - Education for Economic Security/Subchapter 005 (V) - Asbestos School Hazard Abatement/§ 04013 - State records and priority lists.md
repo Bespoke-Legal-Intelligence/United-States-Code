@@ -16,7 +16,7 @@ The Governor of each State shall maintain records on—
 
 &emsp;(A) submit to the Administrator a priority list of all schools under the authority of a local educational agency within the State, without regard to the public or private nature of the school involved, that are candidates for abatement activities and other response actions; and
 
-&emsp;(B) forward to the Administrator for each candidate for abatement activities and other response actions all applications for financial assistance prepared by the local educational agencies in accordance with the provisions of section 4014 of this title; and <sup>1</sup>
+&emsp;(B) forward to the Administrator for each candidate for abatement activities and other response actions all applications for financialassistance prepared by the local educational agencies in accordance with the provisions of section 4014 of this title; and <sup>1</sup>
 
 (2) The priority list shall rank the potential candidates for abatement action based on the nature and magnitude of the existing and potential exposure presented by the asbestos materials.
 
@@ -65,10 +65,6 @@ Subsec. (b)(4)(C). Pub. L. 101–637, §14(b)(6)(D), inserted a comma after “p
 Subsec. (b)(4)(F), (G). Pub. L. 101–637, §5(c), added subpar. (F) and redesignated former subpar. (F) as (G).
 
 Subsec. (c). Pub. L. 101–637, §5(d), struck out subsec. (c) which read as follows: “Not later than nine months after the submission of the plan described in subsection (a) of this section, and each twelve months thereafter, the Governor shall submit to the Administrator a report which describes the actions taken by the State in accordance with its plan under such subsection.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4014 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should end with a period instead of “; and”.</i>
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) the general welfare, the security, the economic health and stability of the Nation, the conservation and efficient utilization of its natural and human resources, and the effective functioning of government and society require vigorous, perceptive support and employment of science and technology in achieving national objectives;
 
-&emsp;(2) the many large and complex scientific and technological factors which increasingly influence the course of national and international events require appropriate provision, involving long-range, inclusive planning as well as more immediate program development, to incorporate scientific and technological knowledge in the national decisionmaking process;
+&emsp;(2) the many large and complex scientific and technological factors which increasingly influence the course of national and international events require appropriate provision, involving long-range, inclusive planning as well as more immediate program development,to incorporate scientific and technological knowledge in the national decisionmaking process;
 
 &emsp;(3) the scientific and technological capabilities of the United States, when properly fostered, applied, and directed, can effectively assist in improving the quality of life, in anticipating and resolving critical and emerging international, national, and local problems, in strengthening the Nation's international economic position, and in furthering its foreign policy objectives;
 
@@ -62,7 +62,7 @@ Section 1. (a) The transfer, provided by Section 5A of Reorganization Plan No. 1
 
 Sec. 2. (a) The intergovernmental science, engineering, and technology functions under Section 205(b)(1) of the Act (42 U.S.C. 6614(b)(1)), which were transferred to the President (see Section 1(b) of this Order), are delegated to the Director of the Office of Science and Technology Policy; <i>Except that</i>, the responsibility for fostering any policies to facilitate the transfer and utilization of research and development results is delegated to the Director of the Office of Management and Budget.
 
-(b) The functions vested by subsection (a) of this Section in the Director of the Office of Management and Budget shall be performed in accord with the Director's responsibilities under the Intergovernmental Cooperation Act of 1968 (82 Stat. 1098, 42 U.S.C. 4201 et seq.) \[31 U.S.C. 6501 et seq.\]. The Director of the Office of Science and Technology Policy shall advise the Director of the Office of Management and Budget with respect to the needs of State, regional, and local governments which may be assisted by the utilization of science, engineering, and technology research and development results.
+(b) The functions vested by subsection (a) of this Section in the Director of the Office of Management and Budget shall be performed in accord with the Director'sresponsibilities under the Intergovernmental Cooperation Act of 1968 (82 Stat. 1098, 42 U.S.C. 4201 et seq.) \[31 U.S.C. 6501 et seq.\]. The Director of the Office of Science and Technology Policy shall advise the Director of the Office of Management and Budget with respect to the needs of State, regional, and local governments which may be assisted by the utilization of science, engineering, and technology research and development results.
 
 (c) The functions vested by subsection (a) of this Section in the Director of the Office of Science and Technology Policy shall be performed in coordination with the Director of the Office of Management and Budget and with others as designated by the President.
 
@@ -84,7 +84,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12700
 
-Ex. Ord. No. 12700, Jan. 19, 1990, 55 F.R. 2219, as amended by Ex. Ord. No. 12768, June 28, 1991, 56 F.R. 30302, which established the President's Council of Advisors on Science and Technology and provided for its functions, administration, and termination on June 30,1993, was revoked by section 4(c) of Ex. Ord. No. 12882, §4(c), Nov. 23, 1993, 58 F.R. 62493. Ex. Ord. No. 12869, Sept. 30, 1993, §2, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees, which reestablished the President's Council of Advisors on Science and Technology in accordance with the provisions of Ex. Ord. No. 12700 and extended its term until Sept. 30, 1995, was also revoked by Ex. Ord. 12882, §4(c).
+Ex. Ord. No. 12700, Jan. 19, 1990, 55 F.R. 2219, as amended by Ex. Ord. No. 12768, June 28, 1991, 56 F.R. 30302, which established the President's Council of Advisors on Science and Technology and provided for its functions, administration, and termination on June 30, 1993, was revoked by section 4(c) of Ex. Ord. No. 12882, §4(c), Nov. 23, 1993, 58 F.R. 62493. Ex. Ord. No. 12869, Sept. 30, 1993, §2, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees, which reestablished the President's Council of Advisors on Science and Technology in accordance with the provisions of Ex. Ord. No. 12700 and extended its term until Sept. 30, 1995, was also revoked by Ex. Ord. 12882, §4(c).
 
 #### Ex. Ord. No. 12881. Establishment of National Science and Technology Council
 
@@ -160,7 +160,7 @@ Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, as amended by Ex. Ord. No. 1301
 
 #### Ex. Ord. No. 13226. President's Council of Advisors on Science and Technology
 
-Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, as amended by Ex. Ord. No. 13305, May 28, 2003, 68 F.R. 32323, provided:
+Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, as amended by Ex. Ord. No. 13305, May 28, 2003, 68 F.R. 32323; Ex. Ord. No. 13349, July 23, 2004, 69 F.R. 44891, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to establish an advisory committee on science and technology, it is hereby ordered as follows:
 
@@ -170,11 +170,13 @@ Sec. 2. <i>Functions</i>. (a) The PCAST shall advise the President, through the 
 
 (b) In performance of its advisory duties, the PCAST shall assist the National Science and Technology Council (NSTC) in securing private sector involvement in its activities.
 
+(c) PCAST shall serve as the National Nanotechnology Advisory Panel under section 4 of the 21st Century Nanotechnology Research and Development Act (Public Law 108–153) \[15 U.S.C. 7503\] (Act). Nothing in this Order shall be construed to require the National Nanotechnology Advisory Panel to comply with any requirement from which it is exempted by section 4(f) of the Act.
+
 Sec. 3. <i>Administration</i>. (a) The heads of the executive departments and agencies shall, to the extent permitted by law, provide the PCAST with information concerning scientific and technological matters when requested by the PCAST co-chairs.
 
 (b) In consultation with the Official, the PCAST is authorized to convene ad hoc working groups to provide preliminary nonbinding information and advice directly to the PCAST.
 
-(c) Members shall serve without compensation for their work on the PCAST. However, members may beallowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
+(c) Members shall serve without compensation for their work on the PCAST. However, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
 
 (d) Any expenses of the PCAST shall be paid from the funds available for the expenses of the Office of Science and Technology Policy.
 
@@ -254,7 +256,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Council on Bioethics
 
-Term of President's Council on Bioethics extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003,68 F.R. 55255, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council on Bioethics extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Strengthened Protections for Human Subjects of Classified Research
 
@@ -278,7 +280,7 @@ The Advisory Committee acknowledged that it is in the Nation's interest to conti
 
 —maintain permanent records of the panel's deliberations and consent procedures.
 
-This memorandum implements these recommendations with some modifications. For classified research, it prohibits waiver of informed consent and requires researchers to disclose that the project is classified. For all but minimal risk studies, it requires researchers to inform subjects of the sponsoring agency. It also requires permanent recordkeeping.
+This memorandum implements these recommendations with some modifications. For classified research, it prohibits waiver of informed consent and requires researchers to disclose that the project is classified. Forall but minimal risk studies, it requires researchers to inform subjects of the sponsoring agency. It also requires permanent recordkeeping.
 
 The memorandum also responds to the Advisory Committee's call for a special review process for classified human subjects research. It requires that institutional review boards for secret projects include a nongovernmental member, and establishes an appeals process so that any member of a review board who believes a project should not go forward can appeal the boards’ decision to approve it.
 
@@ -323,8 +325,4 @@ These steps, set forth in detail below, will preserve the government's ability t
 8\. The Secretary of Health and Human Services shall publish this memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6614 of this title.
 

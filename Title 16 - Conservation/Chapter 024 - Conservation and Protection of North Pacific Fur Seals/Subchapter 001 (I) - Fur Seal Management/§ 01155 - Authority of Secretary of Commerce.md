@@ -18,7 +18,3 @@ The Secretary shall give preference to the village corporations of Saint Paul an
 
 1983—Pub. L. 98–129 amended section generally, substituting provisions delineating the authority of the Secretary of Commerce, which were previously contained in sections 1154 and 1185 of this title, for provisions which had set out enforcement steps. See section 1156 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1172 of this title.
-

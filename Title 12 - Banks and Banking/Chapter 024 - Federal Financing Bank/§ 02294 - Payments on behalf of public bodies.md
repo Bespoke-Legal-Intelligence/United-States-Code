@@ -6,7 +6,3 @@
 
 (Pub. L. 93–224, §16, Dec. 29, 1973, 87 Stat. 941.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2294a of this title; title 42 section 1437q.
-

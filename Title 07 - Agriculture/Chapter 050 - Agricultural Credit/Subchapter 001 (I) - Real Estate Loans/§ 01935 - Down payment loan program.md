@@ -84,7 +84,3 @@ Subsec. (b)(3). Pub. L. 107–171, §5005(1)(B), substituted “15 years” for 
 
 Subsec. (c)(3)(B). Pub. L. 107–171, §5005(2), substituted “15-year” for “10-year”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1925, 1929, 1991, 1994 of this title.
-

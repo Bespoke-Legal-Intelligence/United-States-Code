@@ -40,7 +40,3 @@ Subsec. (c). Pub. L. 100–702, §1020(a)(4)(A), added subsec. (c).
 
 Amendment by Pub. L. 91–577 effective Dec. 24, 1970, see section 141 of Pub. L. 91–577, set out as an Effective Date note under section 2321 of Title 7, Agriculture.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1295 of this title; title 35 sections 315, 317.
-

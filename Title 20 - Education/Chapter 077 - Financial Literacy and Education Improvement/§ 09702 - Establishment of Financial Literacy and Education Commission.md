@@ -42,7 +42,3 @@ The Commission shall hold its first meeting not later than 60 days after Decembe
 
 (Pub. L. 108–159, title V, §513, Dec. 4, 2003, 117 Stat. 2003.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9701, 9703 of this title.
-

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(H) remote access and wireless security; and
 
-&emsp;&emsp;(I) enhancement of law enforcement ability to detect, investigate, and prosecutecyber-crimes, including those that involve piracy of intellectual property.
+&emsp;&emsp;(I) enhancement of law enforcement ability to detect, investigate, and prosecute cyber-crimes, including those that involve piracy of intellectual property.
 
 #### (2) Merit review; competition
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(B) how the Center will promote active collaboration among scientists and engineers from different disciplines, such as computer scientists, engineers, mathematicians, and social science researchers;
 
-&emsp;&emsp;(C) how the Center will contribute to increasing the number and quality of computer and network security researchers and other professionals, including individuals from groups historically underrepresented in these fields; and
+&emsp;&emsp;(C) how the Center will contribute to increasing the number and quality of computer and network security researchers and other professionals, including individualsfrom groups historically underrepresented in these fields; and
 
 &emsp;&emsp;(D) how the center <sup>1</sup> will disseminate research results quickly and widely to improve cyber security in information technology networks, products, and services.
 
@@ -99,10 +99,6 @@
 &emsp;&emsp;(E) $36,000,000 for fiscal year 2007.
 
 (Pub. L. 107–305, §4, Nov. 27, 2002, 116 Stat. 2368.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 278h, 7405 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -30,7 +30,3 @@
 
 Section 5(b) of Pub. L. 94–421 provided that: “The amendment made by subsection (a) of this section \[adding subsec. (c) of this section\] shall not apply to any action or proceeding with respect to the recommended decision of the Postal Rate Commission relating to proposed changes in rates of postage, and in fees for postal services, requested on September 18, 1975, by the United States Postal Service in a request which bears, or which at any time has been included under, Postal Rate Commission Docket Number R76–1.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3628, 3641, 3662 of this title.
-

@@ -24,7 +24,7 @@
 
 (2) Except as provided in paragraph (3), amounts received by the United States as payment of interest under this subsection shall be deposited in the Treasury and credited as miscellaneous receipts.
 
-(3)(A) Amounts paid by a State under paragraph (1) as interest on funds paid to a State from a trust fund for which the Secretary is the trustee shall be credited to such trust fund.
+(3)(A) Amounts paid by a State under paragraph (1) as interest on funds paid to a Statefrom a trust fund for which the Secretary is the trustee shall be credited to such trust fund.
 
 (B) Notwithstanding any other provision of this section, amounts of interest paid by a State, on funds drawn from its account in the Unemployment Trust Fund, shall be deposited into that account and shall consist of actual interest earnings by the State, less related banking costs incurred by the State, for the period for which interest is calculated.
 
@@ -32,7 +32,7 @@
 
 (2) If interest is paid under this subsection as a result of a State disbursing its own funds before receiving payment from a trust fund for which the Secretary of the Treasury is the trustee, such interest shall be charged against such trust fund.
 
-(e) The budget submitted by the President under section 1105 of this title for a fiscal year shall include a statement specifying, for the most recently completed fiscal year, amounts of interest accrued to the Federal Governmentunder subsection (c) and amounts of interest paid to States under subsection (d).
+(e) The budget submitted by the President under section 1105 of this title for a fiscal year shall include a statement specifying, for the most recently completed fiscal year, amounts of interest accrued to the Federal Government under subsection (c) and amounts of interest paid to States under subsection (d).
 
 (f) If a State receives refunds of funds disbursed by the State under a Federal program, the State shall return those refunds to the Federal executive agency administering the program or apply those refunds to reduce the amount of funds owed by the Federal Government to the State under such program. Interest earned on such refunds shall be considered when setting overall interest obligations between the State and the Federal Government as required by this section.
 
@@ -96,9 +96,5 @@ Effective date of regulations.—Regulations issued by the Secretary of the Trea
 
 #### GAO Report
 
-Section 6 of Pub. L. 101–453, as amended by Pub. L. 102–589, §2(3), Nov. 10, 1992, 106 Stat. 5133, which directedComptroller General, five years after Oct. 24, 1990, to submit an audit of the implementation of amendments made by section 5 of Pub. L. 101–453 (which amended this section and section 6501 of this title) and to submit a report to Congress describing results of that audit, was repealed by Pub. L. 104–316, title I, §115(i), Oct. 19, 1996, 110 Stat. 3835.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 sections 300w–2, 703, 706, 1397a, 1397e, 8626, 9873, 9906.
+Section 6 of Pub. L. 101–453, as amended by Pub. L. 102–589, §2(3), Nov. 10, 1992, 106 Stat. 5133, which directed Comptroller General, five years after Oct. 24, 1990, to submit an audit of the implementation of amendments made by section 5 of Pub. L. 101–453 (which amended this section and section 6501 of this title) and to submit a report to Congress describing results of that audit, was repealed by Pub. L. 104–316, title I, §115(i), Oct. 19, 1996, 110 Stat. 3835.
 

@@ -2,9 +2,9 @@
 
 #### (a) Trustee as creditor of obligor
 
-Subject to the provisions of subsection (b) of this section, if the indenture trustee shall be, orshall become, a creditor, directly or indirectly, secured or unsecured, of an obligor upon the indenture securities, within three months prior to a default as defined in the last paragraph of this subsection, or subsequent to such a default, then, unless and until such default shall be cured, such trustee shall set apart and hold in a special account for the benefit of the trustee individually and the indenture security holders—
+Subject to the provisions of subsection (b) of this section, if the indenture trustee shall be, or shall become, a creditor, directly or indirectly, secured or unsecured, of an obligor upon the indenture securities, within three months prior to a default as defined in the last paragraph of this subsection, or subsequent to such a default, then, unless and until such default shall be cured, such trustee shall set apart and hold in a special account for the benefit of the trustee individually and the indenture security holders—
 
-&emsp;(1) an amount equal to any and all reductions in the amount due and owing upon any claim as such creditor in respect of principal or interest, effected after the beginning of such three months’ period and valid as against such obligor and its other creditors, except any such reduction resulting from the receipt or disposition of any property described in paragraph (2) of this subsection, or from the exercise of any right of setoff which the trustee could have exercised if a petition in bankruptcy had been filed by or against such obligor upon the date of such default; and
+&emsp;(1) an amount equal to any and all reductions in the amount due and owing upon any claim as such creditor in respect of principal or interest, effected after the beginning of such three months’ period and valid as against such obligor and its other creditors, except any such reduction resulting from the receipt or disposition of any property described in paragraph (2) of this subsection, or from theexercise of any right of setoff which the trustee could have exercised if a petition in bankruptcy had been filed by or against such obligor upon the date of such default; and
 
 &emsp;(2) all property received in respect of any claim as such creditor, either as security therefor, or in satisfaction or composition thereof, or otherwise, after the beginning of such three months’ period, or an amount equal to the proceeds of any such property, if disposed of, subject, however, to the rights, if any, of such obligor and its other creditors in such property or such proceeds.
 
@@ -28,7 +28,7 @@ Any indenture trustee who has resigned or been removed after the beginning of su
 
 &emsp;(ii) such receipt of property or reduction of claim occurred within three months after such resignation or removal.
 
-As used in this subsection, the term “default” means any failure to make payment in full of principal or interest, when and as the same becomes due and payable, under any indenture which has been qualified under this subchapter, and under which the indenture trustee is trustee and the person of whom the indenture trustee is directly or indirectly a creditor is an obligor; and the term “indenture security holder” means all holders of securities outstanding under any such indenture under which any such default exists. In any case commenced under the Bankruptcy Act of July 1, 1898, or any amendment thereto enacted prior to November 6, 1978, all references to periods of three months shall be deemed to be references to periods of four months.
+As used in this subsection, the term “default” means any failure to make payment in full of principal or interest, when and as the same becomes due and payable, under any indenture which has been qualified under this subchapter, and under which the indenture trustee is trusteeand the person of whom the indenture trustee is directly or indirectly a creditor is an obligor; and the term “indenture security holder” means all holders of securities outstanding under any such indenture under which any such default exists. In any case commenced under the Bankruptcy Act of July 1, 1898, or any amendment thereto enacted prior to November 6, 1978, all references to periods of three months shall be deemed to be references to periods of four months.
 
 #### (b) Exclusion of creditor relationship arising from specified classes
 
@@ -67,10 +67,6 @@ Subsec. (b). Pub. L. 101–550, §409(5), substituted “shall automatically be 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77jjj, 77mmm, 77rrr, 77sss of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

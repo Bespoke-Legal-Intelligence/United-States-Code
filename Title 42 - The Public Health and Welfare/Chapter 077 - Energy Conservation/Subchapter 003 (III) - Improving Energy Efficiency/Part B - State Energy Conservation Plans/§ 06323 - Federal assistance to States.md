@@ -10,7 +10,7 @@ Upon request of the Governor of any State, the Secretary shall provide, subject 
 
 #### (b) Financial assistance to assist State in development, implementation, or modification of energy conservation plan; submission of plan to and approval of Secretary; considerations governing approval; amount of assistance
 
-(1) The Secretary may grant Federal financial assistance pursuant to this section for the purpose of assisting such State in the development of any such energy conservation plan or in theimplementation or modification of a State energy conservation plan or part thereof which has been submitted to and approved by the Secretary pursuant to this part.
+(1) The Secretary may grant Federal financial assistance pursuant to this section for the purpose of assisting such State in the development of any such energy conservation plan or in the implementation or modification of a State energy conservation plan or part thereof which has been submitted to and approved by the Secretary pursuant to this part.
 
 (2) In determining whether to approve a State energy conservation plan submitted under section 6322(b) or (e) of this title, the Secretary—
 
@@ -52,11 +52,11 @@ If the Secretary determines that a State has demonstrated a commitment to improv
 
 &emsp;(3) such State has obtained funding from non-Federal sources, including but not limited to, oil overcharge funds, State or local government appropriations, or utility contributions (including rebates) equal to or greater than three times the amount provided by the Secretary under this subsection for deposit into such revolving fund.
 
-(Pub. L. 94–163, title III, §363, Dec. 22, 1975, 89 Stat. 934; Pub. L. 94–385, title IV, §432(b), (c), Aug. 14, 1976, 90 Stat. 1162; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §3(b), Oct. 18, 1990, 104 Stat. 1007; Pub. L. 102–486, title I, §141(a)(1), Oct. 24, 1992, 106 Stat. 2840.)
+(Pub. L. 94–163, title III, §363, Dec. 22, 1975, 89 Stat. 934; Pub. L. 94–385, title IV, §432(b), (c),Aug. 14, 1976, 90 Stat. 1162; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §3(b), Oct. 18, 1990, 104 Stat. 1007; Pub. L. 102–486, title I, §141(a)(1), Oct. 24, 1992, 106 Stat. 2840.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(2)(B), (3)(C), was in the original “this Act”, meaning Pub. L. 94–163,Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (b)(2)(B), (3)(C), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 
@@ -69,8 +69,4 @@ This chapter, referred to in subsec. (b)(2)(B), (3)(C), was in the original “t
 1976—Subsec. (b)(2). Pub. L. 94–385, §432(b), inserted provision requiring notice and opportunity to present views prior to disapproval of plans.
 
 Subsec. (c). Pub. L. 94–385, §432(c), inserted references to plan, measures, or systems wherever appearing and required that examinations be at reasonable times and under reasonable conditions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6323a, 6325 of this title.
 

@@ -14,7 +14,7 @@ Rates of Allowance Based on Food Costs.—
 
 &emsp;(A) the monthly rate of basic allowance for subsistence that was in effect for an enlisted member for the preceding year; plus
 
-&emsp;(B) the product of the monthly rate under subparagraph (A) and the percentage increase in the monthly cost of a liberal food plan for a male in the United States who is between 20 and 50 years of age over the preceding fiscal year, as determined by the Secretary of Agriculture each October 1.
+&emsp;(B) the product of the monthly rate under subparagraph (A) and the percentage increasein the monthly cost of a liberal food plan for a male in the United States who is between 20 and 50 years of age over the preceding fiscal year, as determined by the Secretary of Agriculture each October 1.
 
 (2) The monthly rate of basic allowance for subsistence to be in effect for an officer for a year (beginning on January 1 of that year) shall be the amount equal to the monthly rate of basic allowance for subsistence in effect for officers for the preceding year, increased by the same percentage by which the rate of basic allowance for subsistence for enlisted members for the preceding year is increased effective on such January 1.
 
@@ -126,7 +126,7 @@ Oct. 12, 1949, ch. 681, §501(a) (45 words before proviso), (e) (less applicabil
 
 In subsection (a), the words “in the amount set forth in subsection (d)” are substituted for the words “in such amounts . . . as are provided in this section”.
 
-In subsection (b), the words “on a daily basis” are substituted for the last sentence of section 251(a) of existing title 37. The words “United States” are substituted for the word “Government”, in the 2d sentence of section 251(a) of existing title 37, section 251(b) of existing title 37, and section 251(e) of existing title 37. The word “confined” is substituted for the word “sick” for clarity. The last 16 words of the third sentence are substituted for section 251(b) (proviso) of existing title 37. The fourth sentence is substituted for section 251(a) of existing title 37. The last sentence is substituted forsection 301(a) (45 words before proviso) of existing title 37 and section 301(e) (less applicability to basic pay, incentive pay, administrative pay, and duty without pay). In that sentence, the words “of a reserve component of a uniformed service, or of the National Guard” are substituted for the enumeration of the organizations concerned.
+In subsection (b), the words “on a daily basis” are substituted for the last sentence of section 251(a) of existing title 37. The words “United States” are substituted for the word “Government”, in the 2d sentence of section 251(a) of existing title 37, section 251(b) of existing title 37, and section 251(e) of existing title 37. The word “confined” is substituted for the word “sick” for clarity. The last 16 words of the third sentence are substituted for section 251(b) (proviso) of existing title 37. The fourth sentence is substituted for section 251(a) of existing title 37. The last sentence is substituted for section 301(a) (45 words before proviso) of existing title 37 and section 301(e) (less applicability to basic pay, incentive pay, administrative pay, and duty without pay). In that sentence, the words “of a reserve component of a uniformed service, or of the National Guard” are substituted for the enumeration of the organizations concerned.
 
 In subsection (c), the words “who are entitled to basic pay” are inserted to reflect the 1st sentence of section 251(a) of existing title 37.
 
@@ -202,11 +202,11 @@ Subsecs. (d) to (f). Pub. L. 93–419, §3(4), (5), struck out subsec. (d) which
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1997 Amendment
 
-Section 602(g) of Pub. L. 105–85 provided that: “This section \[amending this section, section 404 of this title,and section 6081 of Title 10, Armed Forces, and enacting provisions set out as a note below\] and the amendments made by this section shall take effect on January 1, 1998.”
+Section 602(g) of Pub. L. 105–85 provided that: “This section \[amending this section, section 404 of this title, and section 6081 of Title 10, Armed Forces, and enacting provisions set out as a note below\] and the amendments made by this section shall take effect on January 1, 1998.”
 
 #### Effective Date of 1984 Amendment
 
@@ -249,8 +249,4 @@ Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157,
 #### Executive Order No. 10119
 
 Ex. Ord. No. 10119, Mar. 30, 1950, 15 F.R. 1767, as amended by 1953 Reorg. Plan No. 1, §§5, 8, Apr. 11, 1953, 18 F.R. 2053; Ex. Ord. No. 10605, Apr. 22, 1955, 20 F.R. 2747, which related to regulations governing basic allowance for subsistence, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, set out as a note under section 301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 402a, 420, 1003, 1009, 1012 of this title; title 10 sections 708, 6912; title 14 section 372; title 32 section 107.
 

@@ -10,7 +10,7 @@ The Secretary may accept and retain donations of funds, property, or services fr
 
 #### (c) Leasing
 
-The Secretary may lease any real or personal property, including vessels and heavy marineequipment such as floating drydocks, which is administered as part of the park. The net receipts from any such lease shall be credited in accordance with section 460bb–3(f) of this title.
+The Secretary may lease any real or personal property, including vessels and heavy marine equipment such as floating drydocks, which is administered as part of the park. The net receipts from any such lease shall be credited in accordance with section 460bb–3(f) of this title.
 
 #### (d) Fees
 
@@ -37,10 +37,6 @@ The National Historic Preservation Act, referred to in subsec. (a), is Pub. L. 8
 #### Change of Name
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410nn–2 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

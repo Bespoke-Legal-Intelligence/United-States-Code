@@ -20,7 +20,7 @@ The President of the Corporation shall be appointed by the President of the Unit
 
 #### (d) Officers and staff
 
-The Executive Vice President of the Corporation shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and shall serve at the pleasure of the President. Other officers, attorneys, employees, and agents shall be selected and appointed by the Corporation, and shall be vested with such powers and duties as the Corporation may determine. Of such persons employed by the Corporation, not to exceed twenty may be appointed, compensated, or removed without regard to the civil service laws and regulations: <i>Provided</i>, That under such regulations as the President of the United States may prescribe, officers and employees of the United States Government who are appointed to any of the above positions may be entitled, upon removal from such position, except for cause, to reinstatement to the position occupied at the time of appointment or to a position of comparable grade and salary. Such positions shall be in addition to those otherwise authorized by law, including those authorized by section 5108 of title 5.
+The Executive Vice President of the Corporation shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and shall serve at the pleasure of the President. Other officers, attorneys,employees, and agents shall be selected and appointed by the Corporation, and shall be vested with such powers and duties as the Corporation may determine. Of such persons employed by the Corporation, not to exceed twenty may be appointed, compensated, or removed without regard to the civil service laws and regulations: <i>Provided</i>, That under such regulations as the President of the United States may prescribe, officers and employees of the United States Government who are appointed to any of the above positions may be entitled, upon removal from such position, except for cause, to reinstatement to the position occupied at the time of appointment or to a position of comparable grade and salary. Such positions shall be in addition to those otherwise authorized by law, including those authorized by section 5108 of title 5.
 
 #### (e) Investment advisory council
 
@@ -63,8 +63,4 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 #### Members of Board of Directors of Overseas Private Investment Corporation
 
 For provisions directing that the United States Trade Representative serve, ex officio, as an additional voting member of the Board of Directors of the Overseas Private Investment Corporation and to serve as the Vice Chair of that Board and authorizing and directing the appointment of an additional member of the Board of Directors of the Overseas Private Investment Corporation as part of the consolidation of the trade functions of the Federal government, see Reorg. Plan No. 3 of 1979, §4, 44 F.R. 69274, 93 Stat. 1381, eff. Jan. 2, 1980, as provided in section 1–107(a) of Ex. Ord. No. 12188, 45 F.R. 993, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 19 section 3733.
 

@@ -88,7 +88,7 @@ Subsec. (c). Pub. L. 95–485, §804(b)(1)(B), added subsec. (c).
 
 1963—Pub. L. 88–132 substituted “while on sea duty or duty at certain places” for “sea and foreign duty” in section catchline.
 
-Subsec. (a). Pub. L. 88–132 designated existing provisions as cl. (1) and substituted provisions of cl. (2) permitting special pay for an enlisted member of a uniformed service while on duty at a designated place outside the contiguous 48 States and the District of Columbia for former provision entitling such member tospecial pay while on duty in any place outside the United States, or in Alaska or Hawaii.
+Subsec. (a). Pub. L. 88–132 designated existing provisions as cl. (1) and substituted provisions of cl. (2) permitting special pay for an enlisted member of a uniformed service while on duty at a designated place outside the contiguous 48 States and the District of Columbia for former provision entitling such member to special pay while on duty in any place outside the United States, or in Alaska or Hawaii.
 
 Subsec. (b). Pub. L. 88–132 substituted “a State, Puerto Rico, the Virgin Islands, a possession, or a foreign country and who is serving in that State, Puerto Rico, the Virgin Islands, that possession, or that foreign country” for “Alaska, Hawaii, Puerto Rico, the Virgin Islands, or a possession, unless that member is serving in an area outside Alaska, Hawaii, the Virgin Islands, or a possession, of which he is a resident”.
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Savings Provision
 
-Section 12(b) of Pub. L. 88–132 provided that: “Notwithstanding subsection (a) \[amending this section\], an enlisted member who, on the day before the effective date of this Act \[Oct. 1, 1963\], was permanently assigned to duty at a place outside the United States or in Alaska or Hawaii, shall, during the remaining period of that assignment, but not after that place is designated for the purpose of section 305(a)(2) of title 37, United States Code, be paid the basic pay to which he was entitled on that date plus special pay under section 305 of title 37, United States Code, whenever qualified thereunder as that section was in effect on the day before the effective date of this Act, if the total of that basic pay and that special pay is more than the basic pay to which he would otherwise be entitled during that period under section 2 of this Act \[amending section 203 of this title\].”
+Section 12(b) of Pub. L. 88–132 provided that: “Notwithstanding subsection (a) \[amending this section\], an enlisted member who, on the day before the effective date of this Act \[Oct. 1, 1963\], was permanently assigned to duty at a place outside the United States or in Alaska or Hawaii, shall, during the remaining period of thatassignment, but not after that place is designated for the purpose of section 305(a)(2) of title 37, United States Code, be paid the basic pay to which he was entitled on that date plus special pay under section 305 of title 37, United States Code, whenever qualified thereunder as that section was in effect on the day before the effective date of this Act, if the total of that basic pay and that special pay is more than the basic pay to which he would otherwise be entitled during that period under section 2 of this Act \[amending section 203 of this title\].”
 
 #### Transition Provision
 
@@ -119,8 +119,4 @@ Section 804(c) of Pub. L. 95–485 provided that: “Any individual who on Septe
 #### Executive Order No. 10168
 
 Ex. Ord. No. 10168, Oct. 11, 1950, 15 F.R. 6877, as amended by Ex. Ord. No. 10821, May 20, 1959, 24 F.R. 4123; Ex. Ord. No. 10989, Jan. 23, 1962, 27 F.R. 727; Ex. Ord. No. 11120, Oct. 2, 1963, 28 F.R. 10631, which concerned regulations relating to special pay for sea duty and duty at certain places, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 907 of this title.
 

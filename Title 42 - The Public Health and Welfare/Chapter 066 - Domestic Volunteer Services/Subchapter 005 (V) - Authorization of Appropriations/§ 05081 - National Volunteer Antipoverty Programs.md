@@ -38,7 +38,7 @@ Amounts appropriated for part A of subchapter I of this chapter shall remain ava
 
 #### (1) Volunteer service years
 
-&emsp;Of the amounts appropriated under this section for parts A, B, and C of subchapter I of this chapter, including section 4995 of this title, there shall first be available for part A of subchapter I of this chapter, including sections 4954(e) and 4959 of this title, an amount not less than the amount necessary to provide3,700 volunteer service years in fiscal year 1994, 4,000 volunteer service years in fiscal year 1995, and 4,500 volunteer service years in fiscal year 1996.
+&emsp;Of the amounts appropriated under this section for parts A, B, and C of subchapter I of this chapter, including section 4995 of this title, there shall first be available for part A of subchapter I of this chapter, including sections 4954(e) and 4959 of this title, an amount not less than the amount necessary to provide 3,700 volunteer service years in fiscal year 1994, 4,000 volunteer service years in fiscal year 1995, and 4,500 volunteer service years in fiscal year 1996.
 
 #### (2) Plan
 
@@ -114,11 +114,7 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 
 #### Additional Appropriations Authorization
 
-Additional appropriations authorization for meeting increase in stipend to volunteers under section4955(a)(1) of this title, see section 5(b) of Pub. L. 94–130, set out as a note under section 4955 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4953, 4958, 5084, 12651d of this title.
+Additional appropriations authorization for meeting increase in stipend to volunteers under section 4955(a)(1) of this title, see section 5(b) of Pub. L. 94–130, set out as a note under section 4955 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

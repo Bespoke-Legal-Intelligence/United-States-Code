@@ -6,7 +6,7 @@ In order to encourage greater availability of political risk insurance for eligi
 
 &emsp;(1) Utilizing its statutory authorities, encourage the development of associations, pools, or consortia of United States private political risk insurers.
 
-&emsp;(2) Share insurance risks (through coinsurance, contingent insurance, or other means) in a manner that is conducive to the growth and development of the private political risk insurance industry in the United States.
+&emsp;(2) Share insurance risks (through coinsurance, contingent insurance, or other means) ina manner that is conducive to the growth and development of the private political risk insurance industry in the United States.
 
 &emsp;(3) Notwithstanding section 2197(e) of this title, upon the expiration of insurance provided by the Corporation for an investment, enter into risk-sharing agreements with United States private political risk insurers to insure any such investment; except that, in cooperating in the offering of insurance under this paragraph, the Corporation shall not assume responsibility for more than 50 percent of the insurance being offered in each separate transaction.
 
@@ -45,8 +45,4 @@ Amendment by Pub. L. 100–461 is based on section 105(a) of title I of H.R. 526
 #### Amendments
 
 1988—Pub. L. 100–461 amended section generally, substituting provisions relating to enhancing private political risk insurance industry for provisions which related to facultative reinsurance program.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2195, 2197, 2200, 2200a of this title.
 

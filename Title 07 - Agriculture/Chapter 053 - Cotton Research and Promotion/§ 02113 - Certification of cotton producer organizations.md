@@ -20,7 +20,3 @@ The eligibility of each cotton producer organization to represent cotton produce
 
 (Pub. L. 89–502, §14, July 13, 1966, 80 Stat. 284.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2103, 2106 of this title.
-

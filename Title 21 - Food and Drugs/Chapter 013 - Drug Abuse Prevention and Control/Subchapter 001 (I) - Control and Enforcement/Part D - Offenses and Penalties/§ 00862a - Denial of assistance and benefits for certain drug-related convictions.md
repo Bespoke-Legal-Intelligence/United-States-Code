@@ -74,7 +74,7 @@ The Food Stamp Act of 1977, referred to in subsecs. (a)(2), (b)(2), and (e)(2), 
 
 #### Codification
 
-Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of1996, and not as part of the Controlled Substances Act which comprises this subchapter.
+Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and not as part of the Controlled Substances Act which comprises this subchapter.
 
 #### Amendments
 
@@ -86,5 +86,5 @@ Section 5518(d) of title V of Pub. L. 105–33 provided that: “The amendments 
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rulesrelating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 

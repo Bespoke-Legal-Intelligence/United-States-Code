@@ -46,7 +46,7 @@ Designation of housing shortage areas.—For purposes of section 3708 of title 3
 
 “(3)
 
-Report.—Not later than March 30, 1998, the Secretary shall submit to Congress a report regarding the effectiveness of the authority provided in section 3708 of title 38, United States Code, in ensuring that members of the Armed Forces and their dependents have access to suitable housing. The report shall include therecommendations of the Secretary regarding whether the authority provided in this subsection should be extended beyond the date specified in paragraph (5).
+Report.—Not later than March 30, 1998, the Secretary shall submit to Congress a report regarding the effectiveness of the authority provided in section 3708 of title 38, United States Code, in ensuring that members of the Armed Forces and their dependents have access to suitable housing. The report shall include the recommendations of the Secretary regarding whether the authority provided in this subsection should be extended beyond the date specified in paragraph (5).
 
 “(4)
 

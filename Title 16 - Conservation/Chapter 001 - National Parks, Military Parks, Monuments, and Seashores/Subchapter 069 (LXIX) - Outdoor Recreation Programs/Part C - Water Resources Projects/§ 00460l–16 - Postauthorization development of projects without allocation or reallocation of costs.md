@@ -4,7 +4,3 @@ Nothing herein shall be construed as preventing or discouraging postauthorizatio
 
 (Pub. L. 89–72, §5, July 9, 1965, 79 Stat. 215.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460<i>l</i>–17 of this title.
-

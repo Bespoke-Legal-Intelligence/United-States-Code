@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—BLACK LUNG BENEFITS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 802, 820 of this title; title 31 section 3803.
-
 
 ---
 

@@ -10,7 +10,3 @@
 
 1988—Subsec. (a). Pub. L. 100–690 inserted “, the Associate Attorney General” after “Deputy Attorney General”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3334 of this title.
-

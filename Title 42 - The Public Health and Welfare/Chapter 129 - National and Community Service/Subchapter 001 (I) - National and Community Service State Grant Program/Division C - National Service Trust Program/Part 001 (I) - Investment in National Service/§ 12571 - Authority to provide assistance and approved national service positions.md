@@ -94,7 +94,3 @@ A prior section 121 of Pub. L. 101–610 was renumbered section 199A, and is cla
 
 Division effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12572, 12573, 12574, 12575, 12576, 12581, 12582, 12583, 12584, 12585, 12591, 12592, 12593, 12594, 12595, 12604, 12638, 12639, 12651d, 12651f, 12655<i>l</i>, 12656 of this title; title 16 section 1729.
-

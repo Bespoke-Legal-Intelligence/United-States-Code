@@ -16,7 +16,3 @@ The words “prior to February 26, 1919,” were in the original “existing”,
 
 A provision of the original text requiring a report to Congress as to terms upon which the toll road and trail mentioned herein might be purchased was omitted as historically obsolete.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 221b of this title.
-

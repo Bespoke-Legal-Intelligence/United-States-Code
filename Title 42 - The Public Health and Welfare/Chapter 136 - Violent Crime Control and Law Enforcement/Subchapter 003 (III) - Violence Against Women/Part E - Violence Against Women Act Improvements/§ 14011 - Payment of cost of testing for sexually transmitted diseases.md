@@ -28,7 +28,7 @@
 
 #### (5) Confidentiality of test
 
-&emsp;The results of any test ordered under this subsection shall be disclosed only to the victim or, where the court deems appropriate, to the parent or legal guardian of the victim, and to the person tested. The victim may disclose the test results only to any medical professional, counselor, family member or sexual partner(s) the victim may have had since the attack. Any such individual to whom the test results are disclosed by the victim shall maintain the confidentiality of such information.
+&emsp;The results of any test ordered under this subsection shall be disclosed only to the victim or, where the court deems appropriate, to the parent or legal guardian of the victim, and to the person tested. The victim may disclose the test results only to any medical professional, counselor, family member or sexual partner(s) the victim may have had since theattack. Any such individual to whom the test results are disclosed by the victim shall maintain the confidentiality of such information.
 
 #### (6) Disclosure of test results
 
@@ -46,7 +46,7 @@ Not later than 6 months after September 13, 1994, the United States Sentencing C
 
 #### Codification
 
-Section is comprised of section 40503 of Pub. L. 103–322. Subsec. (a) of section 40503 of Pub. L. 103–322 amended section 10607 of this title. Subsec. (c) of section 40503 of Pub. L. 103–322 also enacted provisions listed in a table of provisions for review, promulgation, or amendment of Federal sentencing guidelines relating to specific offenses set out under section 994 of Title 28, Judiciary and Judicial Procedure.
+Section is comprised of section 40503 of Pub. L. 103–322. Subsec. (a) of section 40503 of Pub. L. 103–322 amended section 10607 of this title. Subsec. (c) of section 40503 of Pub. L. 103–322 also enacted provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
 

@@ -1,9 +1,5 @@
 Part A—Safe and Drug-Free Schools and Communities
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 7345, 7345a, 7351a, 7801, 7881 of this title.
-
 
 ---
 

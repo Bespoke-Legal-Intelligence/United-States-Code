@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—SUPPLEMENTAL EDUCATIONAL ASSISTANCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3002, 3035 of this title; title 10 section 2006.
-
 
 ---
 

@@ -10,7 +10,7 @@ The management of any horse sale or auction shall prohibit the sale or auction o
 
 #### (c) Appointment of inspectors; manner of inspections
 
-The Secretary shall prescribe by regulation requirements for the appointment by the management of any horse show, horse exhibition, or horse sale or auction of persons qualified to detect and diagnose a horse which is sore or to otherwise inspect horses for the purposes of enforcing this chapter. Such requirements shall prohibit the appointment of persons who, after notice and opportunity for a hearing, have been disqualified by the Secretary to make such detection, diagnosis, or inspection. Appointment of a person in accordance with the requirements prescribed under this subsection shall not be construed as authorizing such person to conduct inspections in a manner other than that prescribed for inspections by the Secretary (or the Secretary's representative) under subsection (e) of this section.
+The Secretary shall prescribe by regulation requirements for the appointment by the management of any horse show, horse exhibition, or horse sale or auction of persons qualified to detect and diagnose a horse which is sore or to otherwise inspect horses for the purposes of enforcing this chapter. Such requirements shallprohibit the appointment of persons who, after notice and opportunity for a hearing, have been disqualified by the Secretary to make such detection, diagnosis, or inspection. Appointment of a person in accordance with the requirements prescribed under this subsection shall not be construed as authorizing such person to conduct inspections in a manner other than that prescribed for inspections by the Secretary (or the Secretary's representative) under subsection (e) of this section.
 
 #### (d) Recordkeeping and reporting requirements; availability of records
 
@@ -25,8 +25,4 @@ For purposes of enforcement of this chapter (including any regulation promulgate
 #### Amendments
 
 1976—Pub. L. 94–360 substituted provisions relating to the inspection and disqualification of horses participating in horse shows and exhibitions, the issuance of regulations by the Secretary, and the maintenance of records by horse show management, for provisions prohibiting as constituting unlawful acts the exhibition of sored horses, the transportation in commerce for purposes of exhibition of any horse that had been sored, and the conducting of any show or exhibition in which sored horses appear. Provisions now covering such unlawful acts are set out as section 1824 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1824, 1825 of this title.
 

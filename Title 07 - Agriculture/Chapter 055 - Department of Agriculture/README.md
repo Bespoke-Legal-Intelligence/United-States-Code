@@ -146,6 +146,7 @@
 | [2272a.](%C2%A7%2002272a%20-%20Funds%20for%20incidental%20expenses%20and%20promotional%20items%20relating%20to%20volunteers.md) | Funds for incidental expenses and promotional items relating to volunteers. |
 | [2273\.](%C2%A7%2002273%20-%20Local%20search%20and%20rescue%20operations.md) | Local search and rescue operations. |
 | [2274\.](%C2%A7%2002274%20-%20Firearm%20authority%20of%20employees%20engaged%20in%20animal%20quarantine%20enforcement.md) | Firearm authority of employees engaged in animal quarantine enforcement. |
+| [2274a.](%C2%A7%2002274a%20-%20Firearm%20authority%20of%20employees%20conducting%20field%20work%20in%20remote%20locations.md) | Firearm authority of employees conducting field work in remote locations. |
 | [2275\.](%C2%A7%2002275%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20XV%2C%20%C2%A71572%283%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203702.md) | Repealed. |
 | [2276\.](%C2%A7%2002276%20-%20Confidentiality%20of%20information.md) | Confidentiality of information. |
 | (a) | Authorized disclosure. |
@@ -322,6 +323,7 @@
 - [&sect; 02272a - Funds for incidental expenses and promotional items relating to volunteers](%C2%A7%2002272a%20-%20Funds%20for%20incidental%20expenses%20and%20promotional%20items%20relating%20to%20volunteers.md)
 - [&sect; 02273 - Local search and rescue operations](%C2%A7%2002273%20-%20Local%20search%20and%20rescue%20operations.md)
 - [&sect; 02274 - Firearm authority of employees engaged in animal quarantine enforcement](%C2%A7%2002274%20-%20Firearm%20authority%20of%20employees%20engaged%20in%20animal%20quarantine%20enforcement.md)
+- [&sect; 02274a - Firearm authority of employees conducting field work in remote locations](%C2%A7%2002274a%20-%20Firearm%20authority%20of%20employees%20conducting%20field%20work%20in%20remote%20locations.md)
 - [&sect; 02275 - Repealed. Pub. L. 101&#8211;624, title XV, &sect;1572(3), Nov. 28, 1990, 104 Stat. 3702](%C2%A7%2002275%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20XV%2C%20%C2%A71572%283%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203702.md)
 - [&sect; 02276 - Confidentiality of information](%C2%A7%2002276%20-%20Confidentiality%20of%20information.md)
 - [&sect; 02277 - Contracts by Animal and Plant Health Inspection Service for services to be performed abroad](%C2%A7%2002277%20-%20Contracts%20by%20Animal%20and%20Plant%20Health%20Inspection%20Service%20for%20services%20to%20be%20performed%20abroad.md)

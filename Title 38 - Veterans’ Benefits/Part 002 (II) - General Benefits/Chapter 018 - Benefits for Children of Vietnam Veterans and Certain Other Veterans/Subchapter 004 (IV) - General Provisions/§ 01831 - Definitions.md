@@ -44,7 +44,3 @@ Par. (1). Pub. L. 108–183, §102(b), added par. (1) and struck out former par.
 
 Subchapter effective on the first day of the first month beginning more than one year after Nov. 1, 2000, see section 401(g) of Pub. L. 106–419, set out as a note under section 1811 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1811 of this title.
-

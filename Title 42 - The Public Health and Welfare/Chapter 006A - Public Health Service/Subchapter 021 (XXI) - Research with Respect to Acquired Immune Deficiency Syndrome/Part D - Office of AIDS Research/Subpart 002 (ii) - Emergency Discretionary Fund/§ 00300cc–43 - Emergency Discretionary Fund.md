@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;There is established a fund consisting of such amounts as may be appropriated under subsection (g) of this section. Subject to theprovisions of this section, the Director of the Office, after consultation with the advisory council established under section 300cc–40a of this title, may expend amounts in the Fund for the purpose of conducting and supporting such AIDS activities, including projects of AIDS research, as may be authorized in this chapter for the National Institutes of Health.
+&emsp;There is established a fund consisting of such amounts as may be appropriated under subsection (g) of this section. Subject to the provisions of this section, the Director of the Office, after consultation with the advisory council established under section 300cc–40a of this title, may expend amounts in the Fund for the purpose of conducting and supporting such AIDS activities, including projects of AIDS research, as may be authorized in this chapter for the National Institutes of Health.
 
 #### (2) Preconditions to use of Fund
 
@@ -68,7 +68,7 @@ For purposes of this section:
 
 #### (1) Authorization of appropriations
 
-&emsp;For the purpose of providing amounts for the Fund, there is authorized to be appropriated $100,000,000 for each of the fiscal years 1994 through 1996.
+&emsp;For the purpose of providing amounts for the Fund, there is authorized to be appropriated$100,000,000 for each of the fiscal years 1994 through 1996.
 
 #### (2) Availability
 
@@ -77,6 +77,8 @@ For purposes of this section:
 (July 1, 1944, ch. 373, title XXIII, §2356, as added Pub. L. 103–43, title XVIII, §1802, June 10, 1993, 107 Stat. 196.)
 
 #### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

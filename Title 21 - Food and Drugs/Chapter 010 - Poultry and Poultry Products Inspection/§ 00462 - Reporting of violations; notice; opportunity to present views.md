@@ -4,7 +4,3 @@ Before any violation of this chapter is reported by the Secretary to any United 
 
 (Pub. L. 85–172, §13, Aug. 28, 1957, 71 Stat. 447.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 454 of this title.
-

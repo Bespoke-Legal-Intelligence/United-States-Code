@@ -30,7 +30,7 @@ The period during which payments are made under a grant under subsection (a) of 
 
 Grants under subsection (a) of this section shall be used to supplement, and not supplant, other Federal, State, or local public funds provided for the activities described in such subsection.
 
-#### (f) General Accounting Office report
+#### (f) Government Accountability Office report
 
 Not later than 180 days after the conclusion of the demonstration programs carried out under subsection (a) of this section, the Comptroller General of the United States shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate, and the Committee on Commerce and the Committee on Appropriations of the House of Representatives, a report that describes the ability of grantees under such subsection to detect pathogens likely to be used in a bioterrorist attack, develop plans and measures for dealing with such threats, and train personnel involved with the various responsibilities and capabilities needed to deal with bioterrorist threats.
 
@@ -38,13 +38,13 @@ Not later than 180 days after the conclusion of the demonstration programs carri
 
 There is authorized to be appropriated to carry out this section $6,000,000 for fiscal year 2001, and such sums as may be necessary through fiscal year 2006.
 
-(July 1, 1944, ch. 373, title III, §319G, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2323.)
+(July 1, 1944, ch. 373, title III, §319G, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2323; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+#### Amendments
+
+2004—Subsec. (f). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
 
 #### Change of Name
 
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 247d–7c of this title.
 

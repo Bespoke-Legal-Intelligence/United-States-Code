@@ -44,7 +44,3 @@ Position Described.—The position of Under Secretary for Nuclear Security of th
 
 Substantially identical provisions were contained in Pub. L. 106–377, §1(a)(2) \[title III, §313\], Oct. 27, 2000, 114 Stat. 1441, 1441A–81.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 50 sections 2402, 2410.
-

@@ -34,7 +34,3 @@
 
 A prior section 9302 of Pub. L. 89–10 was classified to section 7932 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6311, 6396, 6823, 7801, 7844, 7845 of this title.
-

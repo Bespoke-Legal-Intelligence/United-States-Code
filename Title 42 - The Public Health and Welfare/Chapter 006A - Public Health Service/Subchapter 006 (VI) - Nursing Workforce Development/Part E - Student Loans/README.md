@@ -6,10 +6,6 @@ Part E—Student Loans
 
 1975—Pub. L. 94–63, title IX, §941(g)(3), July 29, 1975, 89 Stat. 365, inserted subpart II heading.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 2 section 60c–5; title 5 section 5379.
-
 
 ---
 

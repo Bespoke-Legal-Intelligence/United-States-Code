@@ -6,7 +6,7 @@ Section 9855a, Pub. L. 101–501, title I, §133, Nov. 3, 1990, 104 Stat. 1238; 
 
 Section 9855b, Pub. L. 101–501, title I, §134, Nov. 3, 1990, 104 Stat. 1238; Pub. L. 103–382, title III, §391(v)(2), (3), Oct. 20, 1994, 108 Stat. 4025, related to eligibility for Head Start transition grants.
 
-Section 9855c, Pub. L. 101–501, title I, §135, Nov. 3, 1990, 104 Stat. 1239; Pub. L. 103–382, title III, §391(v)(4), Oct. 20, 1994, 108 Stat. 4025, related to requirements for awarding Head Start transition grants.
+Section 9855c, Pub. L. 101–501, title I, §135, Nov. 3, 1990, 104 Stat. 1239; Pub. L. 103–382, title III, §391(v)(4),Oct. 20, 1994, 108 Stat. 4025, related to requirements for awarding Head Start transition grants.
 
 Section 9855d, Pub. L. 101–501, title I, §136, Nov. 3, 1990, 104 Stat. 1239; Pub. L. 102–119, §26(d), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, §391(v)(5)–(7), Oct. 20, 1994, 108 Stat. 4025, related to applications for Head Start transition grants.
 

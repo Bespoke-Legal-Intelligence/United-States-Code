@@ -8,7 +8,3 @@ The Secretary may make grants to the States for the purpose of providing opportu
 
 (July 1, 1944, ch. 373, title XXIV, §2431, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102 Stat. 3090.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300dd–32, 300dd–33 of this title.
-

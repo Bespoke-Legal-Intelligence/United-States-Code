@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—ACCOUNTABILITY AND REPORTING REQUIREMENTS OF PRESIDENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1703 of this title.
-
 
 ---
 

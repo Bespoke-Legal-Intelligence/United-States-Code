@@ -30,7 +30,3 @@ A prior section 4307, added Pub. L. 102–25, title III, §339(a), Apr. 6, 1991,
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4312 of this title; title 2 section 1316; title 3 section 416.
-

@@ -56,7 +56,7 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 &emsp;&emsp;(E) the date of entry and port of entry;
 
-&emsp;&emsp;(F) the date of the alien's enrollment in an approved institution of higher education, other approved educational institution, or designated exchange visitor program in the United States;
+&emsp;&emsp;(F) the date of the alien's enrollment in an approved institution of higher education,other approved educational institution, or designated exchange visitor program in the United States;
 
 &emsp;&emsp;(G) the degree program, if applicable, and field of study; and
 
@@ -249,10 +249,6 @@ Full Implementation and Expansion of Foreign Student Visa Monitoring Program Req
 “(b)
 
 Integration With Port of Entry Information.—For each alien with respect to whom information is collected under section 641 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1372), the Attorney General, in consultation with the Secretary of State, shall include information on the date of entry and port of entry.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1761, 1762 of this title; title 6 section 252; title 15 section 7410.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -20,7 +20,3 @@ Not later than March 1 of each year beginning in 1996, the Trade Representative 
 
 (Pub. L. 103–465, title I, §124, Dec. 8, 1994, 108 Stat. 4832.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3533, 3535 of this title.
-

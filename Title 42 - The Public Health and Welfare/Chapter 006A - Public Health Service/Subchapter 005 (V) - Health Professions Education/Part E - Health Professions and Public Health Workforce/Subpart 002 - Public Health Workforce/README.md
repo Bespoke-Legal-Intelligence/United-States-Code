@@ -1,9 +1,5 @@
 subpart 2—public health workforce
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 295<i>o</i>–1 of this title.
-
 
 ---
 

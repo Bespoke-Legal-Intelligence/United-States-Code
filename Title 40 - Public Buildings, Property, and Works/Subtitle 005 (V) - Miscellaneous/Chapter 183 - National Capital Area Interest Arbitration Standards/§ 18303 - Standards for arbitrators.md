@@ -80,7 +80,3 @@ Pub. L. 104–50, title IV, §§403(3), (6), 404, Nov. 15, 1995, 109 Stat. 464.
 
 The text of 40:1302(3) and 1303(b) is combined because 40:1303(b) is the only place the definition of “funding ability” is used in the revised chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 18304 of this title.
-

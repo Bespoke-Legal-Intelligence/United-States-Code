@@ -58,7 +58,3 @@ In subsection (c), the words “as he deems appropriate in order” and “or no
 
 In subsection (d), the words “described in subsection (b) of this section”, “either”, and “requested in the petition” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 30103 of this title.
-

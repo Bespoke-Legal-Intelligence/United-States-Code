@@ -34,7 +34,7 @@ General Authority.—(1) The Airports Authority shall be authorized—
 
 &emsp;(A) are not a debt of Virginia, the District of Columbia, or a political subdivision of Virginia or the District of Columbia; and
 
-&emsp;(B) may be secured by the Airports Authority's revenues generally, or exclusively from the income and revenues of certain designated projects whether or not any part of the projects are financed from the proceeds of the bonds.
+&emsp;(B) may be secured by the Airports Authority's revenues generally, or exclusivelyfrom the income and revenues of certain designated projects whether or not any part of the projects are financed from the proceeds of the bonds.
 
 (c)
 
@@ -205,8 +205,4 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–225, §7(c)(3), Aug. 12, 1998, 112 Stat. 1512, provided that: “The amendments made by this subsection \[amending this section and sections 49107 and 49111 of this title and provisions set out as a note preceding section 101 of this title\] are effective as of November 20, 1997.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 49103, 49104 of this title.
 

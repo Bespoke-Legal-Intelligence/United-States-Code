@@ -14,7 +14,3 @@ Limitation on Duration of Franchising Authority Power To Disapprove Transfers.â€
 
 Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102â€“385, set out as an Effective Date of 1992 Amendment note under section 325 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 573 of this title.
-

@@ -48,7 +48,3 @@ Section 802(f) of Pub. L. 96–466 provided that:
 
 Section 605(b) of Pub. L. 96–466 provided that: “The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] shall, not later than January 1, 1981, prescribe the regulations required to be prescribed under sections 3114 and 3115 \[now 5314 and 5315\] of title 38, United States Code, as added by subsection (a).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3485 of this title.
-

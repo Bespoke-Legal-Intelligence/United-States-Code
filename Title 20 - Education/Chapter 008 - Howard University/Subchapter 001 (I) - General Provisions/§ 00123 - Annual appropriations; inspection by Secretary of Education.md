@@ -30,7 +30,3 @@ Office of Education created and placed in Department of the Interior by the act 
 
 Office of Education was directed to continue its inspections of Howard University in accordance with provisions of existing law, by Reorg. Plan No. IV of 1940, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1063, 1066c of this title.
-

@@ -8,7 +8,7 @@
 
 (d) The leader of the Naval Academy Band is entitled to the basic pay of the grade the Secretary of the Navy prescribes. The second leader is entitled to the basic pay of a warrant officer, W–1.
 
-(e) The director of the Coast Guard Band is entitled to the basic pay of an officer in the grade in which he is serving. However, his basic pay may not be less than that to which he was entitled at the time of his appointment as director.
+(e) The director of the Coast Guard Band is entitled to the basic pay of an officer in the gradein which he is serving. However, his basic pay may not be less than that to which he was entitled at the time of his appointment as director.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 89–189, §2, Sept. 17, 1965, 79 Stat. 820; Pub. L. 95–551, §3(b)(1), Oct. 30, 1978, 92 Stat. 2069.)
 
@@ -71,8 +71,4 @@ Subsec. (f). Pub. L. 95–551 redesignated former subsec. (f) as (e).
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 424 of this title.
 

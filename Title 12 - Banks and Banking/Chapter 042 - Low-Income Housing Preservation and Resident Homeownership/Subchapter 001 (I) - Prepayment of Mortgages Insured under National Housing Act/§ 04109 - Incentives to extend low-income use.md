@@ -54,10 +54,6 @@ Study.—The Secretary shall conduct a study of housing projects that (1) are as
 
 Report.—The Secretary shall submit a report to the Congress regarding any findings and conclusions of the study under subsection (a) not later than the expiration of the 1-year period beginning on the date of the enactment of this Act \[Oct. 28, 1992\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4102, 4103, 4104, 4105, 4106, 4107, 4110, 4111, 4112, 4114, 4119 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

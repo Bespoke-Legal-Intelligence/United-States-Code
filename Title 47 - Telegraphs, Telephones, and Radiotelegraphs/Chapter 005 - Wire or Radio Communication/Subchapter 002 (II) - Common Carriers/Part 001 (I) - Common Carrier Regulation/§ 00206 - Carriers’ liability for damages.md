@@ -4,7 +4,3 @@ In case any common carrier shall do, or cause or permit to be done, any act, mat
 
 (June 19, 1934, ch. 652, title II, §206, 48 Stat. 1072.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 274 of this title.
-

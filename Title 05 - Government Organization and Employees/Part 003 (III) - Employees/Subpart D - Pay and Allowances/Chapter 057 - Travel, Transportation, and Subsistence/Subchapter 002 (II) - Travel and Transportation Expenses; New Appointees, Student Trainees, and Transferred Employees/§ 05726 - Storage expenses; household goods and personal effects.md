@@ -80,7 +80,3 @@ Amendment by Pub. L. 98–151 and promulgation of regulations for amendments by 
 
 Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3735, 5724, 5724a, 5737 of this title; title 26 section 912; title 42 sections 290aa, 299c–5.
-

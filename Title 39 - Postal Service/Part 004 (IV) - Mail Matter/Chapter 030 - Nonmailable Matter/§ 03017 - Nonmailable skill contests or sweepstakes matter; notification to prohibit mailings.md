@@ -14,7 +14,7 @@ Definitions.—In this section—
 
 &emsp;(3) the terms “skill contest”, “sweepstakes”, and “clearly and conspicuously displayed” have the same meanings as given them in section 3001(k); and
 
-&emsp;(4) the term “duly authorized person”, as used in connection with an individual, meansa conservator or guardian of, or person granted power of attorney by, such individual.
+&emsp;(4) the term “duly authorized person”, as used in connection with an individual, means a conservator or guardian of, or person granted power of attorney by, such individual.
 
 (b)
 
@@ -144,7 +144,7 @@ In general.—Any promoter—
 
 &emsp;(2)
 
-Enforcement.—The Postal Service shall, in accordance with the same procedures as setforth in section 3012(b), provide for the assessment of civil penalties under this section.
+Enforcement.—The Postal Service shall, in accordance with the same procedures as set forth in section 3012(b), provide for the assessment of civil penalties under this section.
 
 (Added Pub. L. 106–168, title I, §108(a), Dec. 12, 1999, 113 Stat. 1814.)
 

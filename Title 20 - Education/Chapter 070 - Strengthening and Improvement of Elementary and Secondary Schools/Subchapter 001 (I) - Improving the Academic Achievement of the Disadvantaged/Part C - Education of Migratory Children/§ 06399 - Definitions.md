@@ -28,7 +28,3 @@ As used in this part:
 
 A prior section 6399, Pub. L. 89–10, title I, §1309, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3591, defined terms for this part, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6314 of this title; title 42 section 11434a.
-

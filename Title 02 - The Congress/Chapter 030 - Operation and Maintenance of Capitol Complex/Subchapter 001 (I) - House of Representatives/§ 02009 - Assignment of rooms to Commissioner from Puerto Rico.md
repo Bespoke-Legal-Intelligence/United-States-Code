@@ -18,7 +18,3 @@ Words “and the Philippine Islands” after “Puerto Rico” were omitted purs
 
 Section 2106 of Title 5, Government Organization and Employees, provides that the term “Members of Congress” shall include the “Resident Commissioner from Puerto Rico.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2004, 2010 of this title.
-

@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized and directed to require the owners o
 
 (Feb. 14, 1920, ch. 75, §1, 41 Stat. 409.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 386a of this title.
-

@@ -166,7 +166,3 @@ In General.—The Administrator of the National Highway Traffic Safety Administr
 
 Report.—The Administrator shall report the findings of the study conducted under paragraph (1) to the Congress and the Secretary not later than 2 years after the date of the enactment of this Act \[Oct. 24, 1992\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5511a, 6323, 6323a, 6325, 6371 of this title.
-

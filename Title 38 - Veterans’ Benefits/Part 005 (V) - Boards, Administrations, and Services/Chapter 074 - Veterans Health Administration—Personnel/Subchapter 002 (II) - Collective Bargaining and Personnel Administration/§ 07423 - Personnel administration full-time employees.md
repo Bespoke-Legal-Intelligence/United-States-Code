@@ -8,7 +8,7 @@
 
 &emsp;(2) Accept payment under any insurance or assistance program established under title XVIII or XIX of the Social Security Act or under chapter 55 of title 10 for professional services rendered by such person while carrying out such person's responsibilities under this title.
 
-&emsp;(3) Accept from any source, with respect to any travel performed by such person in the course of carrying out such person's responsibilities under this title, any payment or per diem for such travel, other than as provided for in section 4111 of title 5.
+&emsp;(3) Accept from any source, with respect to any travel performed by such person in thecourse of carrying out such person's responsibilities under this title, any payment or per diem for such travel, other than as provided for in section 4111 of title 5.
 
 &emsp;(4) Request or permit any individual or organization to pay, on such person's behalf for insurance insuring such person against malpractice claims arising in the course of carrying out such person's responsibilities under this title or for such person's dues or similar fees for membership in medical or dental societies or related professional associations, except where such payments constitute a part of such person's remuneration for the performance of professional responsibilities permitted under this section, other than those carried out under this title.
 
@@ -68,9 +68,5 @@ Subsec. (f). Pub. L. 102–405, §203, added subsec. (f).
 
 #### Establishment of Leave Bank Program
 
-For provision authorizing the establishment of a leave bank program for health-care professional covered under subsec. (e) of former section 4108 of this title \[now covered by subsec. (e) of this section\] similar to the leave bank program for Federal civilian employees in reserves who were activated during Persian GulfWar, see section 361 of Pub. L. 102–25, set out as a Leave Bank for Federal Civilian Employees in Reserves Who Were Activated During Persian Gulf War note under section 6361 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7616 of this title.
+For provision authorizing the establishment of a leave bank program for health-care professional covered under subsec. (e) of former section 4108 of this title \[now covered by subsec. (e) of this section\] similar to the leave bank program for Federal civilian employees in reserves who were activated during Persian Gulf War, see section 361 of Pub. L. 102–25, set out as a Leave Bank for Federal Civilian Employees in Reserves Who Were Activated During Persian Gulf War note under section 6361 of Title 5, Government Organization and Employees.
 

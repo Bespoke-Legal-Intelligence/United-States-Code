@@ -14,7 +14,7 @@
 
 #### (2) Preliminary applications
 
-&emsp;In carrying out paragraph (1), the Secretary may develop a preliminary application for use by eligible institutions applying under part A of this subchapter prior to the submission of the principal application.
+&emsp;In carrying out paragraph (1), the Secretary may develop a preliminary application for useby eligible institutions applying under part A of this subchapter prior to the submission of the principal application.
 
 #### (b) Contents
 
@@ -26,7 +26,7 @@ An institution, in its application for a grant, shall—
 
 &emsp;(3) set forth policies and procedures for evaluating the effectiveness in accomplishing the purpose of the activities for which a grant is sought under this subchapter;
 
-&emsp;(4) provide for such fiscal control and fund accounting procedures as may be necessary to ensure proper disbursement of and accountingfor funds made available to the applicant under this subchapter;
+&emsp;(4) provide for such fiscal control and fund accounting procedures as may be necessary to ensure proper disbursement of and accounting for funds made available to the applicant under this subchapter;
 
 &emsp;(5) provide (A) for making such reports, in such form and containing such information, as the Secretary may require to carry out the functions under this subchapter, including not less than one report annually setting forth the institution's progress toward achieving the objectives for which the funds were awarded, and (B) for keeping such records and affording such access thereto, as the Secretary may find necessary to assure the correctness and verification of such reports;
 
@@ -78,7 +78,7 @@ Another prior section 1068, Pub. L. 89–329, title IV, §408, Nov. 8, 1965, 79 
 
 Subsec. (b)(1). Pub. L. 105–244, §308(b), inserted “, D or E” after “part C”.
 
-Subsec. (b)(6). Pub. L. 105–244, §§301(c)(11), 308(c), substituted “section 1068e” for “section 1069c” and inserted “, except that for purposes of section 1059c ofthis title, paragraphs (2) and (3) of section 1068e of this title shall not apply” before semicolon.
+Subsec. (b)(6). Pub. L. 105–244, §§301(c)(11), 308(c), substituted “section 1068e” for “section 1069c” and inserted “, except that for purposes of section 1059c of this title, paragraphs (2) and (3) of section 1068e of this title shall not apply” before semicolon.
 
 1992—Subsec. (b)(7)(D) to (F). Pub. L. 102–325 redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “information explaining the manner in which the proposed project will assist the applicant to prepare for the critical financial problems that all institutions of higher education will face during the subsequent decade as a result of declining enrollment, and other problems;”.
 
@@ -95,8 +95,4 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1057, 1059a of this title.
 

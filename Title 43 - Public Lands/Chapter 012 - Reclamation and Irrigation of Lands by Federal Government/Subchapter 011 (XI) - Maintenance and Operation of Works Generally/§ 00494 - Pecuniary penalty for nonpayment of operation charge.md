@@ -10,7 +10,3 @@ Section is comprised of part of first sentence of section 6 of act Aug. 13, 1914
 
 Act Dec. 5, 1924, reduced the additional penalty from 1 per centum to one-half of 1 per centum.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 371, 417, 475, 493, 500, 511 of this title.
-

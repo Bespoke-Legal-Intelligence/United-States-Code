@@ -230,6 +230,8 @@ Subsecs. (d) to (f). Pub. L. 97–452 redesignated former subsecs. (b) to (d) as
 
 #### Change of Name
 
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Short Title
@@ -296,7 +298,7 @@ Purpose\[.\]—The purposes of this Act \[title\] are to—
 
 “(a)
 
-In General.—Each agency shall implement and maintain financial management systems that comply substantially with Federal financial management systems requirements, applicable Federal accountingstandards, and the United States Government Standard General Ledger at the transaction level.
+In General.—Each agency shall implement and maintain financial management systems that comply substantially with Federal financial management systems requirements, applicable Federal accounting standards, and the United States Government Standard General Ledger at the transaction level.
 
 “(b)
 
@@ -348,7 +350,7 @@ Date of determination.—The determination under paragraph (1) shall be made no 
 
 Remediation plan.—
 
-&emsp;&emsp;“(A) If the Head of an agency determines that the agency's financial management systems do not comply with the requirements of subsection (a), the head of the agency, in consultation with the Director, shall establish a remediation plan that shall include resources, remedies, and intermediate target dates necessary to bring the agency's financial management systems into substantial compliance.
+&emsp;&emsp;“(A) If the Head of an agency determines that the agency's financial management systems do notcomply with the requirements of subsection (a), the head of the agency, in consultation with the Director, shall establish a remediation plan that shall include resources, remedies, and intermediate target dates necessary to bring the agency's financial management systems into substantial compliance.
 
 &emsp;&emsp;“(B) If the determination of the head of the agency differs from the audit compliance findings required in subsection (b), the Director shall review such determinations and provide a report on the findings to the appropriate committees of the Congress.
 
@@ -447,10 +449,6 @@ Mixed system.—The term ‘mixed system’ means an information system that sup
 “(b) \[Amended section 5001 of Pub. L. 104–106, div. E, Feb. 10, 1996, 110 Stat. 679, subsequently repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.\]
 
 “(c) Any reference in any law, regulation, document, record, or other paper of the United States to the Federal Acquisition Reform Act of 1996 or to the Information Technology Management Reform Act of 1996 shall be considered to be a reference to the Clinger-Cohen Act of 1996 \[see Short Title of 1996 Amendment note set out under 41 U.S.C. 251\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 902, 3511, 3521, 5134, 7502 of this title; title 10 sections 3022, 5025, 8022; title 22 section 2421; title 44 sections 3534, 3544.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

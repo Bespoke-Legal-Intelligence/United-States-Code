@@ -18,7 +18,7 @@ Each such demand shall—
 
 &emsp;(2) if it is a demand for production of documentary material—
 
-&emsp;&emsp;(A) describe the class or classes of documentary material to be produced thereunderwith such definiteness and certainty as to permit such material to be fairly identified;
+&emsp;&emsp;(A) describe the class or classes of documentary material to be produced thereunder with such definiteness and certainty as to permit such material to be fairly identified;
 
 &emsp;&emsp;(B) prescribe a return date or dates which will provide a reasonable period of time within which the material so demanded may be assembled and made available for inspection and copying or reproduction; and
 
@@ -48,7 +48,7 @@ Each such demand shall—
 
 &emsp;(B) the standards applicable to discovery requests under the Federal Rules of Civil Procedure, to the extent that the application of such standards to any such demand is appropriate and consistent with the provisions and purposes of this chapter.
 
-(2) Any such demand which is an express demand for any product of discovery supersedes any inconsistent order, rule, or provision of law (other than this chapter) preventing or restraining disclosure of such product of discovery to any person. Disclosure of any product of discovery pursuant to any such express demand does not constitute a waiver of any right or privilege, including without limitation any right or privilege which may be invoked to resist discovery of trial preparation materials, to which the person making such disclosure may be entitled.
+(2) Any such demand which is an express demand for any product of discovery supersedes any inconsistent order, rule, or provision of law\(other than this chapter) preventing or restraining disclosure of such product of discovery to any person. Disclosure of any product of discovery pursuant to any such express demand does not constitute a waiver of any right or privilege, including without limitation any right or privilege which may be invoked to resist discovery of trial preparation materials, to which the person making such disclosure may be entitled.
 
 #### (d) Service; jurisdiction
 
@@ -78,7 +78,7 @@ A verified return by the individual serving any such demand or petition setting 
 
 #### (g) Sworn certificates
 
-The production of documentary material in response to a demand served pursuant to this section shall be made under a sworn certificate, in such form as the demand designates, by the person, if a natural person, to whom the demand is directed or, if not a natural person, by a person or persons having knowledge of the facts and circumstances relating to such production, to the effect that all of the documentary materialrequired by the demand and in the possession, custody, or control of the person to whom the demand is directed has been produced and made available to the custodian.
+The production of documentary material in response to a demand served pursuant to this section shall be made under a sworn certificate, in such form as the demand designates, by the person, if a natural person, to whom the demand is directed or, if not a natural person, by a person or persons having knowledge of the facts and circumstances relating to such production, to the effect that all of the documentary material required by the demand and in the possession, custody, or control of the person to whom the demand is directed has been produced and made available to the custodian.
 
 #### (h) Interrogatories
 
@@ -139,10 +139,6 @@ Subsecs. (g) to (i). Pub. L. 94–435 added subsecs. (g) to (i).
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–435 effective Sept. 30, 1976, except subsec. (i)(8) of this section effective Oct. 1, 1976, see section 106 of Pub. L. 94–435, set out as a note under section 1311 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1313, 1314, 4014 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

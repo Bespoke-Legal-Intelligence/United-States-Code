@@ -18,7 +18,7 @@ Any student meeting the requirements for student eligibility under section 1091 
 
 #### (c) Determination of amount of loan
 
-The determination of the amount of a loan by an eligible institution under subsection (b) ofthis section shall be calculated by subtracting from the estimated cost of attendance at the eligible institution any estimated financial assistance reasonably available to such student. An eligible institution may not, in carrying out the provisions of subsection (b) of this section, provide a statement which certifies the eligibility of any student to receive any loan under this section in excess of the amount calculated under the preceding sentence.
+The determination of the amount of a loan by an eligible institution under subsection (b) of this section shall be calculated by subtracting from the estimated cost of attendance at the eligible institution any estimated financial assistance reasonably available to such student. An eligible institution may not, in carrying out the provisions of subsection (b) of this section, provide a statement which certifies the eligibility of any student to receive any loan under this section in excess of the amount calculated under the preceding sentence.
 
 #### (d) Loan limits
 
@@ -100,7 +100,7 @@ The determination of the amount of a loan by an eligible institution under subse
 
 #### (6) Repayment period
 
-&emsp;For purposes of calculating the repayment period under section 1078(b)(9) of this title, such period shall commence at the time the first payment of principal is due from the borrower.
+&emsp;For purposes of calculating the repayment period under section 1078(b)(9) of this title,such period shall commence at the time the first payment of principal is due from the borrower.
 
 #### (7) Qualification for forbearance
 
@@ -146,7 +146,7 @@ Subsec. (d)(3). Pub. L. 105–244, §423(b)(2), inserted at end “Interest capi
 
 Subsec. (e)(2). Pub. L. 105–244, §423(c), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Interest on loans made under this section for which payments of principal are not required during the in-school and grace periods or for which payments are deferred under sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title shall, if agreed upon by the borrower and the lender (A) be paid monthly or quarterly, or (B) be added to the principal amount of the loan not more frequently than quarterly by the lender. Such capitalization of interest shall not be deemed to exceed the annual insurable limit on account of the student.”
 
-Subsec. (e)(6). Pub. L. 105–244, §423(d), which directed substitution of “repayment period under section 1078(b)(9) of this title” for “10 year repayment period under section 1078(b)(1)(D) of this title”, was executedby making the substitution for “10-year repayment period under section 1078(b)(1)(D) of this title” to reflect the probable intent of Congress.
+Subsec. (e)(6). Pub. L. 105–244, §423(d), which directed substitution of “repayment period under section 1078(b)(9) of this title” for “10 year repayment period under section 1078(b)(1)(D) of this title”, was executed by making the substitution for “10-year repayment period under section 1078(b)(1)(D) of this title” to reflect the probable intent of Congress.
 
 Subsec. (e)(7). Pub. L. 105–244, §423(e), added par. (7).
 
@@ -213,10 +213,6 @@ Section effective with respect to loans made to cover the cost of instruction fo
 #### Continuing Applicability of Terms, Conditions, and Benefits of Loans
 
 Section 4047(c) of Pub. L. 103–66 provided that: “Notwithstanding the amendments made by this section \[amending this section and repealing section 1078–1 of this section\], with respect to loans provided under sections 428A \[former 20 U.S.C. 1078–1\] and 428H of the Act \[20 U.S.C. 1078–8\] (as such sections existed on the date preceding the date of enactment of this Act \[Aug. 10, 1993\]) the terms, conditions and benefits applicable to such loans under such sections shall continue to apply to such loans after the date of enactment of this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1072a, 1077a, 1078, 1078–10, 1083, 1085, 1087, 1087–1, 1087d, 1087e, 1087j, 1091, 1091b of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

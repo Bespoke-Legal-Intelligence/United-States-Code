@@ -30,7 +30,3 @@ The Social Security Act, referred to in par. (4), is act Aug. 14, 1935, ch. 531,
 
 Amendment by Pub. L. 99–509 effective, except as otherwise provided, as if included in title X of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 9501(e) of Pub. L. 99–509, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1162, 1166, 1167 of this title.
-

@@ -18,7 +18,3 @@ Section 1. The Office of Personnel Management is hereby designated and empowered
 
 Sec. 2. To the extent that section 1(b) of this order is inconsistent with the provisions of Executive Order No. 10952 of July 20, 1961, as amended \[formerly set out as a note under section 2271 of Title 50, Appendix, War and National Defense\], section 1(b) shall control.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3372 of this title.
-

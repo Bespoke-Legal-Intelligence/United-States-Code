@@ -10,7 +10,7 @@
 
 &emsp;(3) historic properties significant to the Nation's heritage are being lost or substantially altered, often inadvertently, with increasing frequency;
 
-&emsp;(4) the preservation of this irreplaceable heritage is in the public interest so that its vitallegacy of cultural, educational, aesthetic, inspirational, economic, and energy benefits will be maintained and enriched for future generations of Americans;
+&emsp;(4) the preservation of this irreplaceable heritage is in the public interest so that its vital legacy of cultural, educational, aesthetic, inspirational, economic, and energy benefits will be maintained and enriched for future generations of Americans;
 
 &emsp;(5) in the face of ever-increasing extensions of urban centers, highways, and residential, commercial, and industrial developments, the present governmental and nongovernmental historic preservation programs and activities are inadequate to insure future generations a genuine opportunity to appreciate and enjoy the rich heritage of our Nation;
 

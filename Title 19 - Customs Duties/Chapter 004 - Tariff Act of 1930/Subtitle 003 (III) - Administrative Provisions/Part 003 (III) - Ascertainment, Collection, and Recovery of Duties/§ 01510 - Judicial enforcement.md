@@ -10,7 +10,7 @@ If any person summoned under section 1509 of this title does not comply with the
 
 &emsp;(A) prohibit that person from importing merchandise into the customs territory of the United States directly or indirectly or for his account, and
 
-&emsp;(B) instruct the appropriate customs officers to withhold delivery of merchandise imported directly or indirectly by that person or for his account.
+&emsp;(B) instruct the appropriate customs officers to withhold delivery of merchandise importeddirectly or indirectly by that person or for his account.
 
 (2) If any person remains in contempt for more than one year after the date on which the Secretary issues instructions under paragraph (1)(B) with respect to that person, the appropriate customs officers shall cause all merchandise held in customs custody pursuant to such instructions to be sold at public auction or otherwise disposed of under the customs laws.
 
@@ -39,8 +39,4 @@ Prior provisions similar to those in this section were contained in R.S. §§292
 #### Effective Date of 1970 Amendment
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1509 of this title.
 

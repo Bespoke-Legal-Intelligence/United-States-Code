@@ -8,5 +8,5 @@ Section, Pub. L. 95–511, title V, §503, as added Pub. L. 105–272, title VI,
 
 #### Termination Date of Repeal
 
-Repeal by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a Termination Date of 2001 Amendment note under section 2510 of Title 18, Crimes and Criminal Procedure.
+Repeal by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as aTermination Date of 2001 Amendment note under section 2510 of Title 18, Crimes and Criminal Procedure.
 

@@ -32,7 +32,3 @@
 
 (Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 211.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7303, 7362, 7471, 8153, 8201, 8241 of this title.
-

@@ -52,7 +52,3 @@ Subsec. (a)(2). Pub. L. 101–627, §105(b)(1)(B), substituted “tuna” for �
 
 Section 105(b)(2) of Pub. L. 101–627 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on January 1, 1992.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 972c, 973a of this title.
-

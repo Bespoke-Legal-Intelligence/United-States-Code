@@ -24,7 +24,3 @@ The Secretary shall mark, for the protection of navigation, any component of a d
 
 1996—Subsec. (a). Pub. L. 104–324, §507(a), inserted “and the provision of adequate opportunities for public involvement” after “international law” and substituted “shall prescribe and enforce procedures, either by regulation (for basic standards and conditions) or by the licensee's operations manual, with respect to” for “shall prescribe by regulation and enforce procedures with respect to any deepwater port, including, but not limited to,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1502, 1503 of this title.
-

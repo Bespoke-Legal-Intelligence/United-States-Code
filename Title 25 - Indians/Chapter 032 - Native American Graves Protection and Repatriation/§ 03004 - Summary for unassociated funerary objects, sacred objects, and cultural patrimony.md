@@ -18,9 +18,5 @@ Each Federal agency or museum which has possession or control over holdings or c
 
 (Pub. L. 101–601, §6, Nov. 16, 1990, 104 Stat. 3053.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3005, 3006, 3008 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

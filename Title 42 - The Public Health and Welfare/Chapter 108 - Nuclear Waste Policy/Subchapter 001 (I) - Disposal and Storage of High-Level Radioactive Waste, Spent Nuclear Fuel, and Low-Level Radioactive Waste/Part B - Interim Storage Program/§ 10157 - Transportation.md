@@ -6,7 +6,3 @@
 
 (Pub. L. 97–425, title I, §137, Jan. 7, 1983, 96 Stat. 2241.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10156 of this title.
-

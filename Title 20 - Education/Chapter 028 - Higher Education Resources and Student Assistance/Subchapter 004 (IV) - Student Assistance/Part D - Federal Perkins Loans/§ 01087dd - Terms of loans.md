@@ -72,7 +72,7 @@
 
 (B) No repayment of principal of, or interest on, any loan for any period described in subparagraph (A) shall begin until 6 months after the completion of such period.
 
-(C) An individual with an outstanding loan balance who meets the eligibility criteria for a deferment described in subparagraph (A) as ineffect on October 7, 1998, shall be eligible for deferment under this paragraph notwithstanding any contrary provision of the promissory note under which the loan or loans were made, and notwithstanding any amendment (or effective date provision relating to any amendment) to this section made prior to the date of such deferment.
+(C) An individual with an outstanding loan balance who meets the eligibility criteria for a deferment described in subparagraph (A) as in effect on October 7, 1998, shall be eligible for deferment under this paragraph notwithstanding any contrary provision of the promissory note under which the loan or loans were made, and notwithstanding any amendment (or effective date provision relating to any amendment) to this section made prior to the date of such deferment.
 
 (3)(A) The Secretary is authorized, when good cause is shown, to extend, in accordance with regulations, the 10-year maximum repayment period provided for in subparagraph (A) of paragraph (1) with respect to individual loans.
 
@@ -126,7 +126,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 #### (2) Assignment
 
-&emsp;A borrower whose loan has been discharged pursuant to this subsection shall be deemed tohave assigned to the United States the right to a loan refund in an amount that does not exceed the amount discharged against the institution and the institution's affiliates and principals.
+&emsp;A borrower whose loan has been discharged pursuant to this subsection shall be deemed to have assigned to the United States the right to a loan refund in an amount that does not exceed the amount discharged against the institution and the institution's affiliates and principals.
 
 #### (3) Eligibility for additional assistance
 
@@ -172,7 +172,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 &emsp;&emsp;(A) offer a reduction of the interest rate on a loan on which the borrower has made 48 consecutive, monthly repayments, but in no event may the rate be reduced by more than 1 percent;
 
-&emsp;&emsp;(B) provide for a discount on the balance owed on a loan on which the borrower pays the principal and interest in full prior to the end of the applicable repayment period, but in no event may the discount exceed 5 percent of the unpaid principal balance due on the loan at the time the early repayment is made; and
+&emsp;&emsp;(B) provide for a discount on the balance owed on a loan on which the borrower paysthe principal and interest in full prior to the end of the applicable repayment period, but in no event may the discount exceed 5 percent of the unpaid principal balance due on the loan at the time the early repayment is made; and
 
 &emsp;&emsp;(C) include such other incentive repayment options as the institution determines will carry out the objectives of this subsection.
 
@@ -190,7 +190,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 &emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the institution of higher education shall grant the borrower forbearance in accordance with subsection (e)(3) of this section.
 
-(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3),Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580.)
+(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580.)
 
 #### References in Text
 
@@ -313,10 +313,6 @@ Section 405(b) of Pub. L. 99–498, as amended by Pub. L. 100–50, §22(d), Jun
 “(3) Section 463(a)(9) and section 463A of the Act \[20 U.S.C. 1087cc(a)(9), 1087cc–1\] as amended by this section shall apply only to loans made for periods of enrollment beginning on or after July 1, 1987.
 
 “(4) For the purpose of this subsection, the term ‘new borrower’ means, with respect to any date, an individual who on that date has no outstanding balance of principal or interest owing on any loan made under part E of title IV of the Act \[this part\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1087cc, 1092 of this title; title 10 section 2174.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

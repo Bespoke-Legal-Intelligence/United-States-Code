@@ -14,7 +14,3 @@ Other provisions of section 257 of title 40, U.S.C., 1940 ed., are retained in s
 
 Changes were made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 79c.
-

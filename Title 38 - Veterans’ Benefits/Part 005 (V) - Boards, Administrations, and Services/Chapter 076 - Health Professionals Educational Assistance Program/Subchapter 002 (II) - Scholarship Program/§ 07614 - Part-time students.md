@@ -16,7 +16,3 @@ In the case of a participant who is a part-time student—
 
 Par. (3). Pub. L. 102–83 substituted “Secretary” for “Administrator” in two places.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7612, 7613 of this title.
-

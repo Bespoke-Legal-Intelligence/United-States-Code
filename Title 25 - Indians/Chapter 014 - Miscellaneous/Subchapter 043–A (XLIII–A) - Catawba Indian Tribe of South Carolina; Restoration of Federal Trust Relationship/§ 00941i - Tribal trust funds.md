@@ -52,7 +52,7 @@ Upon the Secretary's approval of the Tribe's investment management firm and an i
 
 #### (e) Economic Development Trust
 
-(1) The Secretary shall establish and maintain a Catawba Economic Development Trust Fund, and until the Tribe engages an outside firm for investment management of this Trust Fund, the Secretary shall manage, invest, and administer this Trust Fund. The original principal amount of the Economic Development Trust Fund shall be determined by the Tribe in consultation with the Secretary. The principal and income of this Trust Fund may be used to support tribal economic development activities, including but not limited to infrastructure improvements and tribal business ventures and commercial investments benefiting the Tribe.
+(1) The Secretary shall establish and maintain a Catawba Economic Development Trust Fund, and until the Tribe engages an outside firm for investment management of this Trust Fund, the Secretary shall manage, invest, and administer this Trust Fund. The original principal amount of the Economic Development Trust Fund shall be determined by the Tribe in consultation withthe Secretary. The principal and income of this Trust Fund may be used to support tribal economic development activities, including but not limited to infrastructure improvements and tribal business ventures and commercial investments benefiting the Tribe.
 
 (2) The Tribe, in consultation with the Secretary, may pledge or hypothecate future income and up to 50 percent of the principal of this Trust Fund to secure loans for economic development. In defining the provisions for administration of this Trust Fund, and before pledging or hypothecating future income or principal, the Tribe and the Secretary shall agree on rules and standards for the invasion of principal and for repayment or restoration of principal, which shall encourage preservation of principal, and provide that, if feasible, a portion of all profits derived from activities funded by principal be applied to repayment of the Trust Fund.
 
@@ -76,7 +76,7 @@ The Secretary shall establish and maintain a Catawba Education Trust Fund, and u
 
 (1) The Secretary shall establish and maintain a Catawba Per Capita Payment Trust Fund in an amount equal to 15 percent of the settlement funds paid pursuant to section 5 of the Settlement Agreement. Until the Tribe engages an outside firm for investment management of this Trust Fund, the Secretary shall manage, invest, and administer the Catawba Per Capita Payment Trust Fund.
 
-(2) Each person (or their estate) whose name appears on the final base membership roll of theTribe published by the Secretary pursuant to section 941e(c) of this title will receive a one-time, non-recurring payment from this Trust Fund.
+(2) Each person (or their estate) whose name appears on the final base membership roll of the Tribe published by the Secretary pursuant to section 941e(c) of this title will receive a one-time, non-recurring payment from this Trust Fund.
 
 (3) The amount payable to each member <sup>1</sup> shall be determined by dividing the trust principal and any accrued interest thereon by the number of Members on the final base membership roll.
 
@@ -86,7 +86,7 @@ The Secretary shall establish and maintain a Catawba Education Trust Fund, and u
 
 (C) No member <sup>1</sup> may elect to have their pro rata share managed by this Trust Fund for a period of more than 21 years after the date of publication of the final base membership roll.
 
-(5)(A) Subject to the provisions of this paragraph, the pro rata share of any Member who has not attained the age of 21 years on the date the final base membership roll is published shall be managed, invested and administered pursuant to the provisions of this section until such Member has attained the age of 21 years, at which time such Member's pro rata share shall be paid, together with the net income of the Trust Fund allocable to such Member's share as of the date of payment. Such Members shall be paid their pro rata share of this Trust Fund on the date they attain 21 years of age unless they elect in writing to leave their pro rata share in the Trust Fund, in which case such share shall not be distributed.
+(5)(A) Subject to the provisions of this paragraph, the pro rata share of any Member who has not attained the age of 21 years on the date the final base membership roll is published shall be managed, invested and administered pursuant to the provisions of this section until such Member has attained the age of 21 years, at which time such Member's pro rata share shall be paid, together with the net income of the Trust Fund allocable to such Member's share as of the date of payment. Such Members shall be paid their pro rata share of this Trust Fund on the datethey attain 21 years of age unless they elect in writing to leave their pro rata share in the Trust Fund, in which case such share shall not be distributed.
 
 (B) The pro rata share of such Members who elect not to withdraw their payment from this Trust Fund shall be managed, invested and administered, together with the funds of members <sup>1</sup> who have not attained the age of 21 years on the date the final base membership roll is published, until such Member requests in writing that their pro rata share be distributed, at which time such Member's pro rata share shall be paid, together with the net income of the Trust Fund allocable to such Member's share as of the date of distribution.
 
@@ -118,7 +118,7 @@ The Tribe, in consultation with the Secretary, shall have the authority to trans
 
 &emsp;(C) indicate dates and amounts of distributions to the Tribe, separately distinguishing current income, accumulated income, and distributions of principal; and
 
-&emsp;(D) identify any invasions or repayments of principal during the relevant period andrecord provisions the Tribe has made for repayment or restoration of principal.
+&emsp;(D) identify any invasions or repayments of principal during the relevant period and record provisions the Tribe has made for repayment or restoration of principal.
 
 (2)(A) Any outside investment management firm engaged by the Tribe shall account to the Tribe and separately to the Secretary at periodic intervals, at least quarterly. Its accounting shall—
 
@@ -136,7 +136,7 @@ The Tribe, in consultation with the Secretary, shall have the authority to trans
 
 #### (<i>l</i>) Replacement of investment management firm and modification of investment management plan
 
-The Tribe shall not replace the investment management firm approved by the Secretary without prior written notification to the Secretary and approval by the Secretary of any investment management firm chosen by the Tribe as a replacement. Such Secretarial approval shall be given or denied in accordance with the Secretarial approval provisions contained in subsection (b)(5)(D) of this section. The Tribe and its investment management firm shall also notify the Secretary in writing of any revisions in the investment management plan which materially increase investment risk or significantly change the investment management plan, or the agreement, made in consultation with the Secretary pursuant to which the outside management firm was retained.
+The Tribe shall not replace the investment management firm approved by the Secretary without prior written notification to the Secretary and approval by the Secretary of any investment management firm chosen by the Tribe as a replacement. Such Secretarial approval shall be given or denied in accordance with the Secretarial approval provisions contained in subsection (b)(5)(D) of this section. The Tribe and its investment management firm shall alsonotify the Secretary in writing of any revisions in the investment management plan which materially increase investment risk or significantly change the investment management plan, or the agreement, made in consultation with the Secretary pursuant to which the outside management firm was retained.
 
 #### (m) Trust funds not counted for certain purposes; use as matching funds
 
@@ -147,10 +147,6 @@ None of the funds, assets, income, payments, or distributions from the Trust Fun
 #### References in Text
 
 For the effective date of this subchapter, referred to in subsecs. (d)(4)(B) and (e)(3), see Effective Date note set out under section 941 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 941a, 941c, 941e of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

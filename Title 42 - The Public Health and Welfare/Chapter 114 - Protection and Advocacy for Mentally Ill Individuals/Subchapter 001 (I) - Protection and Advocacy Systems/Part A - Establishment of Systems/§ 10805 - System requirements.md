@@ -6,7 +6,7 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;(1) have the authority to—
 
-&emsp;&emsp;(A) investigate incidents of abuse and neglect of individuals with mental illness if the incidents are reported to the system or if there is probable cause to believe that the incidents occurred;
+&emsp;&emsp;(A) investigate incidents of abuse and neglect of individuals with mental illness ifthe incidents are reported to the system or if there is probable cause to believe that the incidents occurred;
 
 &emsp;&emsp;(B) pursue administrative, legal, and other appropriate remedies to ensure the protection of individuals with mental illness who are receiving care or treatment in the State; and
 
@@ -66,7 +66,7 @@ The Secretary and the agency of a State which administers its State plan under t
 
 #### (c) Governing authority
 
-(1)(A) Each system established in a State, through allotments received under section 10803 of this title, to protect and advocate the rights of individuals with mental illness shall have a governing authority.
+(1)(A) Each system established in a State, through allotments received under section 10803of this title, to protect and advocate the rights of individuals with mental illness shall have a governing authority.
 
 (B) In States in which the governing authority is organized as a private non-profit entity with a multi-member governing board, or a public system with a multi-member governing board, such governing board shall be selected according to the policies and procedures of the system. The governing board shall be composed of—
 
@@ -117,10 +117,6 @@ Subsec. (c). Pub. L. 100–509, §4(2), added subsec. (c).
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10803, 10806, 10824 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Administration of Federal lands
 
-(1) <sup>1</sup> The Secretary shall administer Federal lands within the special management areas in accordance with sections 544 to 544p of this title and other laws, rules and regulations applicable to the national forest system. In addition, the construction of roads and the management, utilization and harvest of timber on Federal lands within the special management areas also shall be subject to Forest Service visual resource management guidelines. The Secretary shall utilize lands acquired through exchange in calculating the allowable sales quantity on the Gifford Pinchot and Mount Hood National Forests.
+(1) <sup>1</sup> The Secretary shall administer Federal lands within the special management areas in accordance with sections 544 to 544p of this title and other laws, rules and regulations applicable to the national forest system. In addition, the construction of roads and the management, utilization and harvest of timber on Federal lands within the special management areas also shallbe subject to Forest Service visual resource management guidelines. The Secretary shall utilize lands acquired through exchange in calculating the allowable sales quantity on the Gifford Pinchot and Mount Hood National Forests.
 
 #### (b) Withdrawal of Federal lands
 
@@ -66,7 +66,7 @@ Upon receipt of notification of nonconcurrence by the Secretary, the Commission 
 
 (2) The Commission shall promptly submit the ordinance to the Secretary. The Secretary shall, within ninety days after receipt of the ordinance from the Commission, concur with the tentative determination that the land use ordinance is consistent with the management plan unless a determination of inconsistency is made. Any ordinance submitted to the Secretary shall become effective upon concurrence. Should the Secretary fail to concur within ninety days, the land use ordinance shall be effective.
 
-(3) If concurrence is denied, the Secretary shall state the reasons for finding the ordinance is inconsistent with the management plan, andshall submit to the Commission suggested modifications to the ordinance to make it consistent with the plan.
+(3) If concurrence is denied, the Secretary shall state the reasons for finding the ordinance is inconsistent with the management plan, and shall submit to the Commission suggested modifications to the ordinance to make it consistent with the plan.
 
 (4) The Commission shall have ninety days after it receives recommendations from the Secretary to make modifications designed to eliminate the inconsistencies and to resubmit the ordinance to the Secretary for concurrence. The Secretary shall have sixty days to concur with the resubmitted ordinance. Any resubmitted ordinance shall become effective upon concurrence by the Secretary. Should the Secretary deny concurrence for the resubmitted ordinance, the Secretary shall state the reasons therefor and shall promptly resubmit the ordinance for reconsideration. Should the Secretary fail to concur within sixty days, the ordinance shall be deemed effective.
 
@@ -111,10 +111,6 @@ Laws pertaining to geothermal leasing, referred to in subsec. (b), are classifie
 #### Administration, Operation, and Maintenance of Pierce National Wildlife Refuge and Little White Salmon National Fish Hatchery
 
 Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 418, provided in part that: “Notwithstanding the provisions of Public Law 99–663 \[enacting sections 544 to 544p of this title and amending sections 1274 and 1276 of this title\], which established the Columbia River Gorge National Scenic Area, the Pierce National Wildlife Refuge and the Little White Salmon National Fish Hatchery shall continue to be administered, operated and maintained in accordance with the provisions of the National Wildlife Refuge System Administration Act \[16 U.S.C. 668dd, 668ee\], Fish and Wildlife Coordination Act \[16 U.S.C. 661 et seq.\], and Fish and Wildlife Act of 1956 \[16 U.S.C. 742a et seq.\] by the U.S. Fish and Wildlife Service.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 544 to 544e, 544g to 544i, 544<i>l</i> to 544p of this title.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

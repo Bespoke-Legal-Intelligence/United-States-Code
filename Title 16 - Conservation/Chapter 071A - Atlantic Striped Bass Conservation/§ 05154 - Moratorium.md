@@ -2,7 +2,7 @@
 
 #### (a) Secretarial action after notification
 
-Upon receiving notice from the Commission under section 5153(c) of this title of a negative determination regarding a coastal State, the Secretaries shall determine jointly, within 30 days, whether that coastal State is in compliance with the Plan and, if the State is not in compliance, the Secretaries shall declare jointly a moratorium on fishing for Atlantic striped bass within the coastal waters of that coastal State. In making such a determination, the Secretaries shall carefully consider and review the comments of the Commission and that coastal State in question.
+Upon receiving notice from the Commission under section 5153(c) of this title of a negativedetermination regarding a coastal State, the Secretaries shall determine jointly, within 30 days, whether that coastal State is in compliance with the Plan and, if the State is not in compliance, the Secretaries shall declare jointly a moratorium on fishing for Atlantic striped bass within the coastal waters of that coastal State. In making such a determination, the Secretaries shall carefully consider and review the comments of the Commission and that coastal State in question.
 
 #### (b) Prohibited acts during moratorium
 
@@ -30,7 +30,7 @@ During a moratorium period, it is unlawful for any person—
 
 #### (B) Disposal of fish
 
-&emsp;&emsp;Any fish seized pursuant to this chapter may be disposed of pursuant to the order ofa court of competent jurisdiction, or, if perishable, in a manner prescribed in regulations.
+&emsp;&emsp;Any fish seized pursuant to this chapter may be disposed of pursuant to the order of a court of competent jurisdiction, or, if perishable, in a manner prescribed in regulations.
 
 #### (d) Enforcement
 
@@ -44,7 +44,7 @@ The Secretaries may issue regulations to implement this section.
 
 #### Amendments
 
-1997—Pub. L. 105–146 amended section catchline and text generally. Prior to amendment, section defined terms “moratorium area” and “moratorium period”, prohibited acts during moratorium, and provided for penalties, forefeitures, and enforcement.
+1997—Pub. L. 105–146 amended section catchline and text generally. Prior to amendment, section defined terms “moratorium area” and “moratorium period”, prohibited acts during moratorium, and provided for penalties, forfeitures, and enforcement.
 
 1996—Subsec. (e)(2). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
@@ -63,8 +63,4 @@ Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided th
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5152 of this title.
 

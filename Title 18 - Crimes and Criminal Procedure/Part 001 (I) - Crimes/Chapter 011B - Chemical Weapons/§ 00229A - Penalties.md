@@ -30,7 +30,3 @@ Reimbursement of Costs.—The court shall order any person convicted of an offen
 
 (Added Pub. L. 105–277, div. I, title II, §201(a), Oct. 21, 1998, 112 Stat. 2681–867.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 229B of this title.
-

@@ -8,7 +8,3 @@ The Director of the Center, after consultation with the advisory council for the
 
 1993—Pub. L. 103–43 substituted “the Center” for “the Division of Research Resources” and “the Center” for “the Division” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 287a, 287c–31 of this title.
-

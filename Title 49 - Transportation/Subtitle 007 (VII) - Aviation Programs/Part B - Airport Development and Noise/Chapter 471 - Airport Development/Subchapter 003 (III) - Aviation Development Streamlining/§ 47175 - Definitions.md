@@ -16,7 +16,7 @@ Airport capacity enhancement project.—The term “airport capacity enhancement
 
 &emsp;&emsp;(A) a project for construction or extension of a runway, including any land acquisition, taxiway, or safety area associated with the runway or runway extension; and
 
-&emsp;&emsp;(B) such other airport development projects as the Secretary may designate as facilitating a reduction in air traffic congestion and delays.
+&emsp;&emsp;(B) such other airport development projects as the Secretary may designate asfacilitating a reduction in air traffic congestion and delays.
 
 &emsp;(4)
 
@@ -37,8 +37,4 @@ Aviation security project.—The term “aviation security project” means a se
 Federal agency.—The term “Federal agency” means a department or agency of the United States Government.
 
 (Added Pub. L. 108–176, title III, §304(a), Dec. 12, 2003, 117 Stat. 2538.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 47504 of this title.
 

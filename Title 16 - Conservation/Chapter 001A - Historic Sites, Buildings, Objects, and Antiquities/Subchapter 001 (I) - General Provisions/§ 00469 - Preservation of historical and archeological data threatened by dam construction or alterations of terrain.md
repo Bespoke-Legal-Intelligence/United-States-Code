@@ -8,7 +8,3 @@ It is the purpose of sections 469 to 469c–1 of this title to further the polic
 
 1974—Pub. L. 93–291 designated existing provisions as cl. (1) and added cl. (2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 469a–3, 469b, 469c, 469c–1, 470a, 470dd, 470hh of this title; title 42 section 5320; title 43 section 377b.
-

@@ -2,7 +2,7 @@
 
 #### (a) Filing of notice
 
-Whoever, having been a candidate for election in the last preceding election and claiming aright to such office, intends to contest the election of a Member of the House of Representatives, shall, within thirty days after the result of such election shall have been declared by the officer of Board of Canvassers authorized by law to declare such result, file with the Clerk and serve upon the contestee written notice of his intention to contest such election.
+Whoever, having been a candidate for election in the last preceding election and claiming a right to such office, intends to contest the election of a Member of the House of Representatives, shall, within thirty days after the result of such election shall have been declared by the officer of Board of Canvassers authorized by law to declare such result, file with the Clerk and serve upon the contestee written notice of his intention to contest such election.
 
 #### (b) Contents and form of notice
 
@@ -28,11 +28,7 @@ Service of the notice of contest upon contestee shall be made as follows:
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–186, §211(3)(A), struck out “to the House of Representatives” after “for election”.
+1996—Subsec. (a). Pub. L. 104–186, §211(3)(A), struck out “to the House of Representatives” after “for election”.
 
 Subsec. (c)(4), (5). Pub. L. 104–186, §211(3)(B), struck out “or” at end of par. (4) and inserted “or” at end of par. (5).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 383, 394 of this title.
 

@@ -8,7 +8,7 @@
 
 #### (2) Use of funds
 
-&emsp;A State shall use the funds provided under a payment under this section (either directly oras reimbursement, including as reimbursement for costs incurred on or after January 1, 2001, under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in qualifying precincts within that State with a voting system (by purchase, lease, or such other arrangement as may be appropriate) that—
+&emsp;A State shall use the funds provided under a payment under this section (either directly or as reimbursement, including as reimbursement for costs incurred on or after January 1, 2001, under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in qualifying precincts within that State with a voting system (by purchase, lease, or such other arrangement as may be appropriate) that—
 
 &emsp;&emsp;(A) does not use punch cards or levers;
 
@@ -42,7 +42,7 @@
 
 #### (2) Compliance of states that require changes to State law
 
-&emsp;In the case of a State that requires State legislation to carry out an activity covered by any certification submitted under this subsection, the State shall be permitted to make the certification notwithstanding that the legislation has not been enacted at the time the certification is submitted and such State shall submit an additional certification once such legislation is enacted.
+&emsp;In the case of a State that requires State legislation to carry out an activity covered byany certification submitted under this subsection, the State shall be permitted to make the certification notwithstanding that the legislation has not been enacted at the time the certification is submitted and such State shall submit an additional certification once such legislation is enacted.
 
 #### (c) Amount of payment
 
@@ -91,8 +91,4 @@ For purposes of this section, a “punch card voting system” includes any of t
 &emsp;(7) Votomatic.
 
 (Pub. L. 107–252, title I, §102, Oct. 29, 2002, 116 Stat. 1670.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15303, 15304 of this title.
 

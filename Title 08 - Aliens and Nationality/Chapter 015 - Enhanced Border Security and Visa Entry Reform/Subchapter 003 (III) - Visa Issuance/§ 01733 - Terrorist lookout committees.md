@@ -36,7 +36,3 @@ There are authorized to be appropriated such sums as may be necessary to impleme
 
 (Pub. L. 107–173, title III, §304, May 14, 2002, 116 Stat. 554.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 section 236.
-

@@ -14,7 +14,3 @@
 
 1969—Subsec. (a). Pub. L. 91–24 substituted “the age of twenty-three years” for “the age of twenty-one years”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1314 of this title.
-

@@ -46,7 +46,3 @@ In subsection (a), the words “repair parts, and other supplies” are substitu
 
 In subsection (b) the words “shall ensure” are substituted for “shall be responsible for ensuring” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40722, 40728 of this title.
-

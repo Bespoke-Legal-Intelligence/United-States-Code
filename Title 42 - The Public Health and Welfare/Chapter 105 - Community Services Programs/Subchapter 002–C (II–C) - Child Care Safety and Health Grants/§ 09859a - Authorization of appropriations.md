@@ -1,10 +1,6 @@
 ### §9859a. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this subchapter $200,000,000 for fiscal year 2001, and such sums as may be necessary for each subsequent fiscal year.
+There are authorized to be appropriated to carry out this subchapter $200,000,000 for fiscalyear 2001, and such sums as may be necessary for each subsequent fiscal year.
 
 (Pub. L. 106–310, div. A, title XIV, §1402, Oct. 17, 2000, 114 Stat. 1143.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9859c of this title.
 

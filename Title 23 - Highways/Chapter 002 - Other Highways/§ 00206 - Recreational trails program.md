@@ -230,7 +230,3 @@ A prior section 206, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908, provided for
 
 Pub. L. 105–178, title I, §1112(e), June 9, 1998, 112 Stat. 151, provided that: “The Secretary shall encourage the States to enter into contracts and cooperative agreements with qualified youth conservation or service corps to perform construction and maintenance of recreational trails under section 206 of title 23, United States Code.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 104 of this title.
-

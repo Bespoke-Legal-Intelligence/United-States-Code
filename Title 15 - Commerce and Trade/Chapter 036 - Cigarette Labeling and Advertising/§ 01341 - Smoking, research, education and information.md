@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program; Secretary; functions
 
-The Secretary of Health and Human Services (hereinafter in this section referred to as the “Secretary”) shall establish and carry out a program to inform the public of any dangers tohuman health presented by cigarette smoking. In carrying out such program, the Secretary shall—
+The Secretary of Health and Human Services (hereinafter in this section referred to as the “Secretary”) shall establish and carry out a program to inform the public of any dangers to human health presented by cigarette smoking. In carrying out such program, the Secretary shall—
 
 &emsp;(1) conduct and support research on the effect of cigarette smoking on human health and develop materials for informing the public of such effect;
 
@@ -28,7 +28,7 @@ The Secretary of Health and Human Services (hereinafter in this section referred
 
 > The Secretary shall designate the chairman of the Committee.
 
-(2) While away from their homes or regular places of business in the performance of services for the Committee, members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistance,<sup>1</sup> in the manner provided by sections 5702 and 5703 of title 5.
+(2) While away from their homes or regular places of business in the performance of services for the Committee, members of the Committee shall be allowed travel expenses, including perdiem in lieu of subsistance,<sup>1</sup> in the manner provided by sections 5702 and 5703 of title 5.
 
 (3) The Secretary shall make available to the Committee such staff, information, and other assistance as it may require to carry out its activities effectively.
 

@@ -34,7 +34,7 @@ In this chapter:
 
 &emsp;&emsp;(F) The Naval Criminal Investigative Service.
 
-&emsp;&emsp;(G) The Coastal Security Service.
+&emsp;&emsp;(G) The Coast Guard.
 
 &emsp;&emsp;(H) The Diplomatic Security Service.
 
@@ -58,7 +58,7 @@ In this chapter:
 
 &emsp;The term “USA PATRIOT Act” means the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (Public Law 107–56).
 
-(Pub. L. 107–173, §2, May 14, 2002, 116 Stat. 544; Pub. L. 107–296, title XI, §1112(c), Nov. 25, 2002, 116 Stat. 2276.)
+(Pub. L. 107–173, §2, May 14, 2002, 116 Stat. 544; Pub. L. 107–296, title XI, §1112(c), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 108–293, title VI, §619, Aug. 9, 2004, 118 Stat. 1062.)
 
 #### References in Text
 
@@ -68,7 +68,13 @@ Uniting and Strengthening America by Providing Appropriate Tools Required to Int
 
 #### Amendments
 
+2004—Par. (4)(G). Pub. L. 108–293 substituted “The Coast Guard” for “The Coastal Security Service”.
+
 2002—Par. (4)(J). Pub. L. 107–296 substituted “Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco, and Firearms”.
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date of 2002 Amendment
 
@@ -76,7 +82,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Short Title
 
-Pub. L. 107–173, §1(a), May 14, 2002, 116 Stat. 543, provided that: “This Act \[enacting this chapter, amending sections 1187, 1201, 1221, 1356, 1372, and 1379 of this title, enacting provisions set out as notes under section 1221 of this title, and amending provisions set out as notes under sections 1101, 1351, and 1365a of this title\] may becited as the ‘Enhanced Border Security and Visa Entry Reform Act of 2002’.”
+Pub. L. 107–173, §1(a), May 14, 2002, 116 Stat. 543, provided that: “This Act \[enacting this chapter, amending sections 1187, 1201, 1221, 1356, 1372, and 1379 of this title, enacting provisions set out as notes under section 1221 of this title, and amending provisions set out as notes under sections 1101, 1351, and 1365a of this title\] may be cited as the ‘Enhanced Border Security and Visa Entry Reform Act of 2002’.”
 
 #### Transfer of Functions
 
@@ -87,4 +93,48 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### Border Surveillance
+
+Pub. L. 108–458, title V, §5201, Dec. 17, 2004, 118 Stat. 3733, provided that:
+
+“(a)
+
+In General.—Not later than 6 months after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary of Homeland Security shall submit to the President and the appropriate committees of Congress a comprehensive plan for the systematic surveillance of the southwest border of the United States by remotely piloted aircraft.
+
+“(b)
+
+Contents.—The plan submitted under subsection (a) shall include—
+
+&emsp;“(1) recommendations for establishing command and control centers, operations sites, infrastructure, maintenance, and procurement;
+
+&emsp;“(2) cost estimates for the implementation of the plan and ongoing operations;
+
+&emsp;“(3) recommendations for the appropriate agent within the Department of Homeland Security to be the executive agency for remotely piloted aircraft operations;
+
+&emsp;“(4) the number of remotely piloted aircraft required for the plan;
+
+&emsp;“(5) the types of missions the plan would undertake, including—
+
+&emsp;&emsp;“(A) protecting the lives of people seeking illegal entry into the United States;
+
+&emsp;&emsp;“(B) interdicting illegal movement of people, weapons, and other contraband across the border;
+
+&emsp;&emsp;“(C) providing investigative support to assist in the dismantling of smuggling and criminal networks along the border;
+
+&emsp;&emsp;“(D) using remotely piloted aircraft to serve as platforms for the collection of intelligence against smugglers and criminal networks along the border; and
+
+&emsp;&emsp;“(E) further validating and testing of remotely piloted aircraft for airspace security missions;
+
+&emsp;“(6) the equipment necessary to carry out the plan; and
+
+&emsp;“(7) a recommendation regarding whether to expand the pilot program along the entire southwest border.
+
+“(c)
+
+Implementation.—The Secretary of Homeland Security shall implement the plan submitted under subsection (a) as a pilot program as soon as sufficient funds are appropriated and available for this purpose.
+
+“(d)
+
+Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.”
 

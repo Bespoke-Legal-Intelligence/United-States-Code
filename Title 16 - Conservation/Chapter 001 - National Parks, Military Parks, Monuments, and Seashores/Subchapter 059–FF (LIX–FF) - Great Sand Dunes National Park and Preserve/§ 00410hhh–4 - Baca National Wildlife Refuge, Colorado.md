@@ -12,7 +12,7 @@ The map shall be on file and available for public inspection in the appropriate 
 
 #### (c) Administration
 
-The Secretary shall administer all lands and interests therein acquired within the boundaries of the national wildlife refuge in accordancewith the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and the Act of September 28, 1962 (16 U.S.C. 460k et seq.) (commonly known as the Refuge Recreation Act).
+The Secretary shall administer all lands and interests therein acquired within the boundaries of the national wildlife refuge in accordance with the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and the Act of September 28, 1962 (16 U.S.C. 460k et seq.) (commonly known as the Refuge Recreation Act).
 
 #### (d) Protection of water resources
 
@@ -29,8 +29,4 @@ In administering water resources for the national wildlife refuge, the Secretary
 The National Wildlife Refuge System Administration Act of 1966, referred to in subsec. (c), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.
 
 Act of September 28, 1962, referred to in subsec. (c), is Pub. L. 87–714, Sept. 28, 1962, 76 Stat. 653, as amended, popularly known as the Refuge Recreation Act, which is classified generally to subchapter LXVIII (§460k et seq.) of this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410hhh–1 of this title.
 

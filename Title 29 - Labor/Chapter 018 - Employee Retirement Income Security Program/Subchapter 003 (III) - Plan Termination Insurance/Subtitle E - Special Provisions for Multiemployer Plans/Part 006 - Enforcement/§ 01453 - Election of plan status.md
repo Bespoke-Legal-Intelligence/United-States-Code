@@ -30,7 +30,3 @@ The Internal Revenue Code of 1954, referred to in subsecs. (a) and (b)(1), was r
 
 For the effective date of the Multiemployer Pension Plan Amendments Act of 1980, referred to in subsec. (a), see section 1461(e) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1002 of this title; title 26 section 414.
-

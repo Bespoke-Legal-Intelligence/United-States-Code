@@ -2,7 +2,7 @@
 
 #### (a) Sense of the Congress
 
-It is the sense of the Congress that the Board of Directors of the Bank shall continue to take comprehensive measures, consistent with thecredit standards otherwise required by law, to promote the expansion of the Bank's financial commitments in sub-Saharan Africa under the loan, guarantee and insurance programs of the Bank.
+It is the sense of the Congress that the Board of Directors of the Bank shall continue to take comprehensive measures, consistent with the credit standards otherwise required by law, to promote the expansion of the Bank's financial commitments in sub-Saharan Africa under the loan, guarantee and insurance programs of the Bank.
 
 #### (b) Sub-Saharan Africa Advisory Committee
 

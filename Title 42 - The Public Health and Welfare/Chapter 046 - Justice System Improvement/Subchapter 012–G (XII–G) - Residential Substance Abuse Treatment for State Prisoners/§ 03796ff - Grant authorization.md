@@ -28,7 +28,3 @@ Subsec. (c). Pub. L. 107–273, §2101, added subsec. (c).
 
 A prior section 1901 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3796ff–2 of this title.
-

@@ -14,7 +14,3 @@ The amount provided by a grant under this section shall not exceed 80 percent of
 
 Section 201 of title II of Pub. L. 103–267 provided that: “This title \[enacting this chapter\] may be cited as the ‘Children's Bicycle Helmet Safety Act of 1994’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6002, 6003 of this title.
-

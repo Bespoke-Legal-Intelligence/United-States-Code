@@ -12,7 +12,7 @@ The State plan shall contain a description of each of the following:
 
 &emsp;&emsp;(B) the methods to be used by the State to monitor the performance of the units or entities to whom the payment is distributed, consistent with the performance goals and measures adopted under paragraph (8).
 
-&emsp;(3) How the State will provide for programs for voter education, election official educationand training, and poll worker training which will assist the State in meeting the requirements of subchapter III of this chapter.
+&emsp;(3) How the State will provide for programs for voter education, election official education and training, and poll worker training which will assist the State in meeting the requirements of subchapter III of this chapter.
 
 &emsp;(4) How the State will adopt voting system guidelines and processes which are consistent with the requirements of section 15481 of this title.
 
@@ -72,7 +72,7 @@ The State plan shall contain a description of each of the following:
 
 #### (1) In general
 
-&emsp;No action may be brought under this chapter against a State or other jurisdiction on the basis of any information contained in the State plan filed under this subpart.
+&emsp;No action may be brought under this chapter against a State or other jurisdiction on thebasis of any information contained in the State plan filed under this subpart.
 
 #### (2) Exception for criminal acts
 
@@ -83,8 +83,4 @@ The State plan shall contain a description of each of the following:
 #### References in Text
 
 This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15304, 15401, 15403, 15408 of this title.
 

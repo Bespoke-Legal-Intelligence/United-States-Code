@@ -10,7 +10,3 @@ Any State containing an area designated nonattainment with respect to national p
 
 (July 14, 1955, ch. 360, title I, §191, as added Pub. L. 101–549, title I, §106, Nov. 15, 1990, 104 Stat. 2463.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7514a of this title.
-

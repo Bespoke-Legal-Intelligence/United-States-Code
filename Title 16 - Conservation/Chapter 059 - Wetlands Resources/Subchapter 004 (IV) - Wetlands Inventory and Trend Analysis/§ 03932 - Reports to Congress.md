@@ -40,11 +40,11 @@ The reports required under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(B) Federal expenditures required incident to studies, evaluations, design, construction, operation, maintenance, or rehabilitation of Federal water resource development activities, including channel improvements;
 
-&emsp;&emsp;(C) the commodity loans and purchases program and cotton, feed grain, wheat, and rice production stabilization programs administered by the Department of Agriculture; and
+&emsp;&emsp;(C) the commodity loans and purchases program and cotton, feed grain, wheat, andrice production stabilization programs administered by the Department of Agriculture; and
 
 &emsp;&emsp;(D) Federal expenditures for the construction of publicly owned or publicly operated highways, roads, structures, or facilities that are essential links in a larger network or system; and
 
-&emsp;(7) recommendations for the conservation of wetlands resources based on an evaluation and comparison of all management alternatives,and combinations of management alternatives, such as State and local actions, Federal actions, and initiatives by private organizations and individuals.
+&emsp;(7) recommendations for the conservation of wetlands resources based on an evaluation and comparison of all management alternatives, and combinations of management alternatives, such as State and local actions, Federal actions, and initiatives by private organizations and individuals.
 
 (Pub. L. 99–645, title IV, §402, Nov. 10, 1986, 100 Stat. 3589.)
 

@@ -6,7 +6,7 @@ A lender, in connection with a federally related mortgage loan, may not require 
 
 &emsp;(1) to deposit in any escrow account which may be established in connection with such loan for the purpose of assuring payment of taxes, insurance premiums, or other charges with respect to the property, in connection with the settlement, an aggregate sum (for such purpose) in excess of a sum that will be sufficient to pay such taxes, insurance premiums and other charges attributable to the period beginning on the last date on which each such charge would have been paid under the normal lending practice of the lender and local custom, provided that the selection of each such date constitutes prudent lending practice, and ending on the due date of its first full installment payment under the mortgage, plus one-sixth of the estimated total amount of such taxes, insurance premiums and other charges to be paid on dates, as provided above, during the ensuing twelve-month period; or
 
-&emsp;(2) to deposit in any such escrow account in any month beginning with the first full installment payment under the mortgage a sum\(for the purpose of assuring payment of taxes, insurance premiums and other charges with respect to the property) in excess of the sum of (A) one-twelfth of the total amount of the estimated taxes, insurance premiums and other charges which are reasonably anticipated to be paid on dates during the ensuing twelve months which dates are in accordance with the normal lending practice of the lender and local custom, provided that the selection of each such date constitutes prudent lending practice, plus (B) such amount as is necessary to maintain an additional balance in such escrow account not to exceed one-sixth of the estimated total amount of such taxes, insurance premiums and other charges to be paid on dates, as provided above, during the ensuing twelve-month period: <i>Provided, however</i>, That in the event the lender determines there will be or is a deficiency he shall not be prohibited from requiring additional monthly deposits in such escrow account to avoid or eliminate such deficiency.
+&emsp;(2) to deposit in any such escrow account in any month beginning with the first full installment payment under the mortgage a sum (for the purpose of assuring payment of taxes, insurance premiums and other charges with respect to the property) in excess of the sum of (A) one-twelfth of the total amount of the estimated taxes, insurance premiums and other charges which are reasonably anticipated to be paid on dates during the ensuing twelve months which dates are in accordance with the normal lending practice of the lender and local custom, provided that the selection of each such date constitutes prudent lending practice, plus (B) such amount as is necessary to maintain an additional balance in such escrow account not to exceed one-sixth of the estimated total amount of such taxes, insurance premiums and other charges to be paid on dates, as provided above, during the ensuing twelve-month period: <i>Provided, however</i>, That in the event the lender determines there will be or is a deficiency he shall not be prohibited from requiring additional monthly deposits in such escrow account to avoid or eliminate such deficiency.
 
 #### (b) Notification of shortage in escrow account
 
@@ -18,7 +18,7 @@ If the terms of any federally related mortgage loan require the borrower to make
 
 #### (A) In general
 
-&emsp;&emsp;Any servicer that has established an escrow account in connection with a federally related mortgage loan shall submit to the borrower for which the escrow account has been established a statement clearly itemizing the estimated taxes, insurance premiums, and other charges that are reasonably anticipated to be paid from the escrow account during the first 12 months after the establishment of the account and the anticipated dates of such payments.
+&emsp;&emsp;Any servicer that has established an escrow account in connection with a federallyrelated mortgage loan shall submit to the borrower for which the escrow account has been established a statement clearly itemizing the estimated taxes, insurance premiums, and other charges that are reasonably anticipated to be paid from the escrow account during the first 12 months after the establishment of the account and the anticipated dates of such payments.
 
 #### (B) Time of submission
 
@@ -60,15 +60,11 @@ If the terms of any federally related mortgage loan require the borrower to make
 
 1990—Pub. L. 101–625 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (d).
 
-1976—Pub. L. 94–205 provided that in addition to amounts required for the payment of taxes, insurancepremiums, and other charges due at settlement, the buyer could not be required at settlement to place into an escrow account more than one-sixth of the estimated total amount of such taxes, insurance premiums, and other charges payable within a twelve month period beginning on the date of settlement, but the buyer could be required to make monthly payments into an escrow account sufficient to maintain a surplus of one-sixth of the estimated total amount payable in the coming twelve month period.
+1976—Pub. L. 94–205 provided that in addition to amounts required for the payment of taxes, insurance premiums, and other charges due at settlement, the buyer could not be required at settlement to place into an escrow account more than one-sixth of the estimated total amount of such taxes, insurance premiums, and other charges payable within a twelve month period beginning on the date of settlement, but the buyer could be required to make monthly payments into an escrow account sufficient to maintain a surplus of one-sixth of the estimated total amount payable in the coming twelve month period.
 
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–205 effective Jan. 2, 1976, see section 12 of Pub. L. 94–205, set out as a note under section 2602 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2605, 2610 of this title; title 42 section 4012a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(c)”.</i>
 

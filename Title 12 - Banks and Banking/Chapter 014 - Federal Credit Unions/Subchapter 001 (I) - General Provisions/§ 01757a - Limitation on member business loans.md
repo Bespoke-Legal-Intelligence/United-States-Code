@@ -90,7 +90,3 @@ NCUA cooperation.—The National Credit Union Administration shall, upon request
 
 Report.—Not later than 12 months after the date of enactment of this Act \[Aug. 7, 1998\], the Secretary shall submit a report to the Congress on the results of the study conducted under paragraph (1).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1790d of this title.
-

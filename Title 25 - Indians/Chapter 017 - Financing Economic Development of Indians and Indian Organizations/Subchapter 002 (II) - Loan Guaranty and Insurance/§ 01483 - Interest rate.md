@@ -4,7 +4,3 @@ Loans guaranteed or insured pursuant to this subchapter shall bear interest (exc
 
 (Pub. L. 93–262, title II, §203, Apr. 12, 1974, 88 Stat. 79.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1499 of this title.
-

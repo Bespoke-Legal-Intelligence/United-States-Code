@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—EX-SERVICEMEN
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 8501, 8506, 8508 of this title.
-
 
 ---
 

@@ -6,7 +6,7 @@ In every case of adjudication (as defined in section 551 of title 5) which has b
 
 #### (b) Exceptions to initial decisions; memoranda; determination of Commission or authority within Commission; prohibition against consideration of own decision
 
-In every case of adjudication (as defined in section 551 of title 5) which has been designated by the Commission for hearing, any party to the proceeding shall be permitted to file exceptions and memoranda in support thereof to the initial, tentative, or recommended decision, which shall be passed upon by the Commission or by the authority within the Commission, if any, to whom the function of passing upon the exceptions is delegated under section 155(d)(1) <sup>1</sup> of this title: <i>Provided, however</i>, That such authority shall not be the same authority which made the decision to which the exception is taken.
+In every case of adjudication (as defined in section 551 of title 5) which has been designated by the Commission for hearing, any party to the proceeding shall be permitted to file exceptions and memoranda in support thereof to the initial, tentative, or recommended decision, which shall be passed upon by the Commission or by the authority within the Commission, if any, to whom the function of passing upon the exceptions is delegated under section 155(d)(1) <sup>1</sup> of this title:<i>Provided, however</i>, That such authority shall not be the same authority which made the decision to which the exception is taken.
 
 #### (c) Notice and opportunity for participation by parties; applicability of administrative procedure provisions
 
@@ -87,10 +87,6 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 #### Savings Provision
 
 Section 5 of Pub. L. 87–192 provided that: “Notwithstanding the foregoing provisions of this Act \[amending this section and sections 155 and 405 of this title\], the second sentence of subsection (b) of section 409 of the Communications Act of 1934 \[subsec. (b) of this section\] (which relates to the filing of exceptions and the presentation of oral argument), as in force at the time of the enactment of this Act \[Aug. 31, 1961\], shall continue to be applicable with respect to any case of adjudication (as defined in the Administrative Procedure Act) \[see sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees\] designated by the Federal Communications Commission for hearing by a notice of hearing issued prior to the date of the enactment of this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410 of this title; title 21 sections 467d, 677, 1051.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

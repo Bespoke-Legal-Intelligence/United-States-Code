@@ -24,7 +24,3 @@ The Secretary shall—
 
 (July 1, 1944, ch. 373, title XXVI, §2681, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 623.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300ff–83 of this title.
-

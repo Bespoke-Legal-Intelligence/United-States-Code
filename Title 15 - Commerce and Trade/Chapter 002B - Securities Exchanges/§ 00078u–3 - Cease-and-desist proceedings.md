@@ -52,7 +52,7 @@ The notice instituting proceedings pursuant to subsection (a) of this section sh
 
 #### (ii) Violations not charged
 
-&emsp;&emsp;&emsp;If the issuer or other person described in subparagraph (A) is not charged with anyviolation of the Federal securities laws before the expiration of the effective period of a temporary order under subparagraph (A) (including any applicable extension period), the escrow shall terminate at the expiration of the 45-day effective period (or the expiration of any extension period, as applicable), and the disputed payments (with accrued interest) shall be returned to the issuer or other affected person.
+&emsp;&emsp;&emsp;If the issuer or other person described in subparagraph (A) is not charged with any violation of the Federal securities laws before the expiration of the effective period of a temporary order under subparagraph (A) (including any applicable extension period), the escrow shall terminate at the expiration of the 45-day effective period (or the expiration of any extension period, as applicable), and the disputed payments (with accrued interest) shall be returned to the issuer or other affected person.
 
 #### (d) Review of temporary orders
 
@@ -68,7 +68,7 @@ The notice instituting proceedings pursuant to subsection (a) of this section sh
 
 &emsp;&emsp;(B) 10 days after the Commission renders a decision on an application and hearing under paragraph (1), with respect to any temporary cease-and-desist order entered without a prior Commission hearing,
 
-> &emsp;the respondent may apply to the United States district court for the district in which the respondent resides or has its principal place of business, or for the District of Columbia, for an order setting aside, limiting, or suspending the effectiveness or enforcement of the order, and the court shall have jurisdiction to enter such an order. A respondent served with a temporary cease-and-desist order entered without a prior Commission hearing may not apply to the court except after hearing and decision by the Commission on the respondent's application under paragraph (1) of this subsection.
+> &emsp;the respondent may apply to the United States district court for the district in which the respondent resides or has its principal place of business, or for the District of Columbia, for an order setting aside, limiting, or suspending the effectiveness or enforcement of the order, and the court shall have jurisdiction to enter such an order. A respondent served with a temporary cease-and-desist order entered without a prior Commission hearing may notapply to the court except after hearing and decision by the Commission on the respondent's application under paragraph (1) of this subsection.
 
 #### (3) No automatic stay of temporary order
 
@@ -107,10 +107,6 @@ Subsec. (f). Pub. L. 107–204, §1105(a), added subsec. (f).
 #### Effective Date
 
 Section effective Oct. 15, 1990, with provisions relating to civil penalties and accounting and disgorgement, see section 1(c)(1), (2) of Pub. L. 101–429, set out in an Effective Date of 1990 Amendment note under section 77g of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78j–1, 78u, 78w of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

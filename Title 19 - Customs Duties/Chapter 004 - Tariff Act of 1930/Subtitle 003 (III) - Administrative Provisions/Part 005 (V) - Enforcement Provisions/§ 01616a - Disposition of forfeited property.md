@@ -70,7 +70,3 @@ Section 7366(b) of Pub. L. 100–690 provided that: “The amendment made by sub
 
 Section effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out as an Effective Date of 1984 Amendment note under section 1304 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1600, 1613b of this title; title 18 sections 1467, 2253, 2254; title 21 section 881; title 31 section 9703.
-

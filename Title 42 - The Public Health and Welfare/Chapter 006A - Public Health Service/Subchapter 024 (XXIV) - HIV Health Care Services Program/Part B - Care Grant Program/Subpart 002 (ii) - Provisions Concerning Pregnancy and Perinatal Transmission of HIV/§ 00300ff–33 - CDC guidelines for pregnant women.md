@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-Notwithstanding any other provision of law, a State shall, not later than 120 days after May 20, 1996, certify to the Secretary that such State has in effect regulations or measures to adopt the guidelines issued by the Centers for Disease Control and Prevention concerning recommendations for human immunodeficiency virus counseling and voluntary testing for pregnant women.
+Notwithstanding any other provision of law, a State shall, not later than 120 days after May 20, 1996, certify to the Secretary that such State has in effect regulations or measures to adopt the guidelines issued by the Centers for DiseaseControl and Prevention concerning recommendations for human immunodeficiency virus counseling and voluntary testing for pregnant women.
 
 #### (b) Noncompliance
 

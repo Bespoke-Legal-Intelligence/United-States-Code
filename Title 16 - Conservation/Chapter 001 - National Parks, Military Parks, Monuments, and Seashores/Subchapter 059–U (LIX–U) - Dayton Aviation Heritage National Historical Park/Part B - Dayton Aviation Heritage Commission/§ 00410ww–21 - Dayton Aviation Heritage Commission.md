@@ -10,7 +10,7 @@ The Commission shall consist of 13 members as follows:
 
 &emsp;(1) 3 members appointed by the Secretary, who shall have demonstrated expertise in aviation history, black history and literature, aviation technology, or historic preservation, at least one of whom shall represent the National Park Service.
 
-&emsp;(2) 3 members appointed by the Secretary after consideration of recommendations submitted by the Governor of the State of Ohio, who shall have demonstrated expertise in aviation history, black history and literature, aviation technology, or historic preservation, at least one of whom shall represent the Ohio Historical Society.
+&emsp;(2) 3 members appointed by the Secretary after consideration of recommendations submitted by the Governor of the State of Ohio, who shall have demonstrated expertise in aviation history, black history and literature,aviation technology, or historic preservation, at least one of whom shall represent the Ohio Historical Society.
 
 &emsp;(3) 1 member appointed by the Secretary of Defense, who shall represent Wright-Patterson Air Force Base.
 

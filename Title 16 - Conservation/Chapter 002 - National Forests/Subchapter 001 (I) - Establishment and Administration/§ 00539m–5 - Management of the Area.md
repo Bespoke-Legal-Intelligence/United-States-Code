@@ -100,7 +100,3 @@
 
 (Pub. L. 108–7, div. F, title IV, §407, Feb. 20, 2003, 117 Stat. 284.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 539m, 539m–1, 539m–2, 539m–3, 539m–4, 539m–6, 539m–7, 539m–8, 539m–9, 539m–10, 539m–11, 539m–12 of this title.
-

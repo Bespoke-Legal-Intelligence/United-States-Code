@@ -1,6 +1,6 @@
 ### §1127. Use of appropriated funds; approval by Secretary on receipt of recommendations from tribal governing body
 
-The funds on deposit in the Treasury of the United States to the credit of the Miami Tribeof Oklahoma that were appropriated by the Act of July 22, 1969 (83 Stat. 49), to pay a judgment by the Indian Claims Commission in docket numbered 251–A, together with the interest thereon, after payment of attorney fees and expenses, may be advanced or expended for any purpose that is authorized by the tribal governing body of the Miami Tribe of Oklahoma, and approved by the Secretary of the Interior.
+The funds on deposit in the Treasury of the United States to the credit of the Miami Tribe of Oklahoma that were appropriated by the Act of July 22, 1969 (83 Stat. 49), to pay a judgment by the Indian Claims Commission in docket numbered 251–A, together with the interest thereon, after payment of attorney fees and expenses, may be advanced or expended for any purpose that is authorized by the tribal governing body of the Miami Tribe of Oklahoma, and approved by the Secretary of the Interior.
 
 (Pub. L. 92–309, §6, June 2, 1972, 86 Stat. 200.)
 
@@ -13,8 +13,4 @@ The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. Se
 #### Codification
 
 Section was not enacted as part of Pub. L. 89–659, Oct. 14, 1966, 80 Stat. 909, which comprises this subchapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1122, 1123, 1129, 1130 of this title.
 

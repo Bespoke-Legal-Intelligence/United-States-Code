@@ -24,7 +24,7 @@ As a condition of the receipt of an award under this section a State shall agree
 
 #### (e) Duration of support
 
-The period during which payments may be made for a project under subsection (a) of thissection may be not less than 3 years nor more than 5 years.
+The period during which payments may be made for a project under subsection (a) of this section may be not less than 3 years nor more than 5 years.
 
 #### (f) Authorization of appropriation
 
@@ -73,8 +73,4 @@ Section 300y–8, act July 1, 1944, ch. 373, title XIX, §1929, as added Aug. 13
 Section 300y–9, act July 1, 1944, ch. 373, title XIX, §1930, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 558, related to nondiscrimination requirements.
 
 Section 300y–10, act July 1, 1944, ch. 373, title XIX, §1931, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 559, provided criminal penalty for false statements.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 290bb–32, 300x–9, 300x–35 of this title.
 

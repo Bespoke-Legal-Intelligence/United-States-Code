@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized, in his discretion and upon submissi
 
 (June 20, 1935, ch. 283, §2, 49 Stat. 393.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 157d of this title.
-

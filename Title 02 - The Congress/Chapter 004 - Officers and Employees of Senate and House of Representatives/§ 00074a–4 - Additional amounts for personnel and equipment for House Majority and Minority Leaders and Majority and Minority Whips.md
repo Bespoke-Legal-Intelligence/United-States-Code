@@ -18,9 +18,5 @@ Section is based on section 2 of House Resolution No. 393, Ninety-fifth Congress
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “applicable accounts of the House of Representatives” for “contingent fund of the House”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 74a–5 of this title.
+1996—Pub. L. 104–186 substituted “applicable accounts of the House of Representatives” for “contingent fund of the House”.
 

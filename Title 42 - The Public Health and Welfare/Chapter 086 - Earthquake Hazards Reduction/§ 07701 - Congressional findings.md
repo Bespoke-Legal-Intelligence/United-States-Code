@@ -6,7 +6,7 @@ The Congress finds and declares the following:
 
 &emsp;(2) Earthquakes have caused, and can cause in the future, enormous loss of life, injury, destruction of property, and economic and social disruption. With respect to future earthquakes, such loss, destruction, and disruption can be substantially reduced through the development and implementation of earthquake hazards reduction measures, including (A) improved design and construction methods and practices, (B) land-use controls and redevelopment, (C) prediction techniques and early-warning systems, (D) coordinated emergency preparedness plans, and (E) public education and involvement programs.
 
-&emsp;(3) An expertly staffed and adequately financed earthquake hazards reduction program, based on Federal, State, local, and private research, planning, decisionmaking, and contributions would reduce the risk of such loss, destruction, and disruption in seismic areas by an amount far greater than the cost of such program.
+&emsp;(3) An expertly staffed and adequately financed earthquake hazards reduction program, based on Federal, State, local, and private research, planning, decisionmaking, and contributions would reduce the risk of suchloss, destruction, and disruption in seismic areas by an amount far greater than the cost of such program.
 
 &emsp;(4) A well-funded seismological research program in earthquake prediction could provide data adequate for the design, of an operational system that could predict accurately the time, place, magnitude, and physical effects of earthquakes in selected areas of the United States.
 
@@ -33,6 +33,10 @@ The Congress finds and declares the following:
 “(5) An operational earthquake prediction system can produce significant social, economic, legal, and political consequences.
 
 “(6) There is a scientific basis for hypothesizing that major earthquakes may be moderated, in at least some seismic areas, by application of the findings of earthquake control and seismological research.”
+
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–360, title I, §101, Oct. 25, 2004, 118 Stat. 1668, provided that: “This title \[amending sections 7703, 7704, and 7706 to 7708 of this title\] may be cited as the ‘National Earthquake Hazards Reduction Program Reauthorization Act of 2004’.”
 
 #### Short Title of 2000 Amendment
 

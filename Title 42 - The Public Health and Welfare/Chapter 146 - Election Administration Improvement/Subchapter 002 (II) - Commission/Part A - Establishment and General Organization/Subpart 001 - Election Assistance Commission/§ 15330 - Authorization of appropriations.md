@@ -4,7 +4,3 @@ In addition to the amounts authorized for payments and grants under this subchap
 
 (Pub. L. 107–252, title II, §210, Oct. 29, 2002, 116 Stat. 1678.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15523 of this title.
-

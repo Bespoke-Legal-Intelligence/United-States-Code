@@ -1,9 +1,5 @@
 subpart ii—home delivered nutrition services
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 3016, 3023, 3028 of this title.
-
 
 ---
 

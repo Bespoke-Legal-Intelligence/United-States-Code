@@ -2,7 +2,7 @@
 
 #### (a) Elements of State program
 
-Beginning 30 months after November 8, 1984, any State may, submit an underground storage tank release detection, prevention, and correction program for review and approval by the Administrator. The program may cover tanks used to store regulated substances referred to in <sup>1</sup> 6991(2)(A) or (B) or both of this title. A State program may be approved by the Administrator under this section only if the State demonstrates that the State program includes the following requirements and standards and provides for adequate enforcement of compliance with such requirements and standards—
+Beginning 30 months after November 8, 1984, any State may, submit an underground storage tank release detection, prevention, and correction program for review and approval by the Administrator. The program may cover tanks used to store regulated substances referred to in <sup>1</sup>6991(2)(A) or (B) or both of this title. A State program may be approved by the Administrator under this section only if the State demonstrates that the State program includes the following requirements and standards and provides for adequate enforcement of compliance with such requirements and standards—
 
 &emsp;(1) requirements for maintaining a leak detection system, an inventory control system together with tank testing, or a comparable system or method designed to identify releases in a manner consistent with the protection of human health and the environment;
 
@@ -65,10 +65,6 @@ The Federal Bankruptcy Code, referred to in subsec. (c)(3), probably means a ref
 1986—Subsec. (c)(1). Pub. L. 99–499, §205(e)(1), struck out “financed by fees on tank owners and operators and” after “compensation programs”.
 
 Subsec. (c)(2). Pub. L. 99–499, §205(e)(2), struck out “or” after “letter of credit,” and inserted “or any other method satisfactory to the Administrator” and “including the amount of coverage required for various classes and categories of underground storage tanks pursuant to section 6991b(d)(5) of this title”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6991b, 6991e of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “in section”.</i>
 

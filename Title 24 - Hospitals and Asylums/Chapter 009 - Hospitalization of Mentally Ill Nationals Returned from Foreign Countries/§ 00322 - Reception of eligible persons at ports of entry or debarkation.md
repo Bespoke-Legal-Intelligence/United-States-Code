@@ -14,7 +14,3 @@ The Secretary may, to the extent deemed appropriate, equitable, and practicable 
 
 “Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 323, 324, 325, 326 of this title.
-

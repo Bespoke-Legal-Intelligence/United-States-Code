@@ -4,7 +4,7 @@
 
 (b) The following amounts may be appropriated to the Secretary for the fiscal year ending September 30, 1982:
 
-&emsp;(1) not more than $22,896,000 to carry out the international affairs duties and powers of the Department (including amounts for official functions and reception and representation expenses).
+&emsp;(1) not more than $22,896,000 to carry out the international affairs duties and powers of the Department (including amounts for officialfunctions and reception and representation expenses).
 
 &emsp;(2) not more than $1,000,000 for increases in—
 
@@ -60,7 +60,7 @@ Subsection (c) is substituted for the words “and such sums as may be necessary
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set outas a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 #### Study on Role of Gold in Domestic and International Monetary Systems; Establishment of Commission; Report to Congress; Availability of Appropriations
 

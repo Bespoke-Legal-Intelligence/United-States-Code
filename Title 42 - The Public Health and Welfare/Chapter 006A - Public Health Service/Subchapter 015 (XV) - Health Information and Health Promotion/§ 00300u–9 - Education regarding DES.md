@@ -6,7 +6,7 @@ The Secretary, acting through the heads of the appropriate agencies of the Publi
 
 #### (b) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1999 through 2003. The authorization of appropriations established in the preceding sentence is in addition to any other authorizationof appropriation that is available for such purpose.
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1999 through 2003. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriation that is available for such purpose.
 
 (July 1, 1944, ch. 373, title XVII, §1710, as added Pub. L. 105–340, title I, §101(b), Oct. 31, 1998, 112 Stat. 3191.)
 

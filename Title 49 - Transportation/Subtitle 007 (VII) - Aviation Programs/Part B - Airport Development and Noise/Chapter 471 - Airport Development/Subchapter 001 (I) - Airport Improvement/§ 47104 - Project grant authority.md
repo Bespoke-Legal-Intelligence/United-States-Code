@@ -146,7 +146,3 @@ Design-Build Contract Defined.—In this section, the term ‘design-build contr
 
 Expiration of Authority.—The authority of the Administrator to carry out the pilot program under this section shall expire on September 30, 2003.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47107, 47117, 47118, 47524, 48103 of this title.
-

@@ -38,7 +38,3 @@ Amendment by Pub. L. 98–573 applicable with respect to investigations initiate
 
 Part effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as a note under section 1671 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1337, 1673a, 1673e, 1673g, 1673i of this title.
-

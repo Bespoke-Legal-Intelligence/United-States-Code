@@ -8,11 +8,11 @@ Beginning in fiscal year 1993, and in each year thereafter, notwithstanding any 
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in text, is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
-Section 901 of title 2, referred to in text, was amended by Pub. L. 105–33, title X, §10203(a)(4), Aug. 5, 1997, 111 Stat. 699, by striking out subsec. (b) and adding a new subsec. (b). As so amended, section 901(b)(2)(D) of title 2 no longer refers to “emergency requirements”. However, “emergency requirements” are referred to elsewhere in section 901.
+Section 901 of title 2, referred to in text, was amended by Pub. L. 105–33, title X, §10203(a)(4), Aug. 5, 1997, 111 Stat. 699, by striking out subsec. (b) and adding a new subsec. (b). As so amended, section 901(b)(2)(D) of title2 no longer refers to “emergency requirements”. However, “emergency requirements” are referred to elsewhere in section 901.
 
 #### Codification
 
-Section was enacted as part of the Dire Emergency Supplemental Appropriations and Transfers for Relief From the Effects of Natural Disasters, for Other UrgentNeeds, and for Incremental Cost of “Operation Desert Shield/Desert Storm” Act of 1992, and not as a part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+Section was enacted as part of the Dire Emergency Supplemental Appropriations and Transfers for Relief From the Effects of Natural Disasters, for Other Urgent Needs, and for Incremental Cost of “Operation Desert Shield/Desert Storm” Act of 1992, and not as a part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

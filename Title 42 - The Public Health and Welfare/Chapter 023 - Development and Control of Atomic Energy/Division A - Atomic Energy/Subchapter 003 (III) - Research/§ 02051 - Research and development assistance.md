@@ -46,7 +46,7 @@ Subsecs. (b) to (d). Act Aug. 6, 1956, §3, added subsec. (b) and redesignated f
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. Seealso Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
 #### Three Mile Island Nuclear Station, Pa.; Feasibility of Epidemiological Research on Health Effects of Low-Level Radiation; Report to Congress
 
@@ -55,8 +55,4 @@ Pub. L. 96–295, title III, §308(a), June 30, 1980, 94 Stat. 792, provided tha
 #### Study on Health Effects of Low-Level Radiation; Report to Congress
 
 Pub. L. 95–601, §5, Nov. 6, 1978, 92 Stat. 2949, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–295, title III, §308(b), June 30, 1980, 94 Stat. 792, provided that the Nuclear Regulatory Commission and the Environmental Protection Agency, in consultation with the Secretary of Health and Human Services, conduct preliminary planning and design studies for epidemiological research on the health effects of low-level ionizing radiation, within thirty days after Nov. 6, 1978, the Commission and the Environmental Protection Agency submit to the Congress a memorandum of understanding to delineate their responsibilities in the conduct of the planning studies, on or before Apr. 1, 1979, the Commission and the Environmental Protection Agency submit a report to the Congress containing an assessment of the capabilities and research needs of such agencies in the area of health effects of low-level ionizing radiation, and on or before Sept. 30, 1980, the Commission and the Environmental Protection Agency, in consultation with the Secretary of Health and Human Services, submit a report to the Congress which includes a study of options for Federal epidemiological research on the health effects of low-level ionizing radiation with evaluations of the feasibility of such options.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2052, 2053, 2061, 2073, 2093, 2122, 2134, 2165, 2183, 2201, 2209, 5817 of this title.
 

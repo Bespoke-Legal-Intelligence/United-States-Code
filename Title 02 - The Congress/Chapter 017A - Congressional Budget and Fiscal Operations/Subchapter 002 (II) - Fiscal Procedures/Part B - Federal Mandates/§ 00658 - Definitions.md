@@ -104,7 +104,7 @@ For purposes of this part:
 
 #### (11) Small government
 
-&emsp;The term “small government” means any small governmental jurisdictions defined insection 601(5) of title 5 and any tribal government.
+&emsp;The term “small government” means any small governmental jurisdictions defined in section 601(5) of title 5 and any tribal government.
 
 #### (12) State
 
@@ -123,10 +123,6 @@ The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92
 #### Effective Date
 
 Part effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 658b, 658c, 1502, 1515 of this title; title 42 section 801.
 
 <i><sup>1</sup></i><i> So in original. Second closing parenthesis probably should not appear.</i>
 

@@ -1,14 +1,16 @@
 ### §3761. Pilot program
 
-(a) The Secretary shall establish and implement a pilot program under which the Secretary may make direct housing loans to Native American veterans. The purpose of such loans is to permit such veterans to purchase, construct, or improve dwellings on trust land. The Secretary shall establish and implement the pilot program in accordance with the provisions of this subchapter.
+(a) The Secretary shall establish and implement a pilot program under which the Secretarymay make direct housing loans to Native American veterans. The purpose of such loans is to permit such veterans to purchase, construct, or improve dwellings on trust land. The Secretary shall establish and implement the pilot program in accordance with the provisions of this subchapter.
 
 (b) In carrying out the pilot program under this subchapter, the Secretary shall, to the extent practicable, make direct housing loans to Native American veterans who are located in a variety of geographic areas and in areas experiencing a variety of economic circumstances.
 
-(c) No loans may be made under this subchapter after December 31, 2005.
+(c) No loans may be made under this subchapter after December 31, 2008.
 
-(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3636; amended Pub. L. 105–114, title II, §201(a), Nov. 21, 1997, 111 Stat. 2282; Pub. L. 107–103, title IV, §402(a), Dec. 27, 2001, 115 Stat. 993.)
+(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3636; amended Pub. L. 105–114, title II, §201(a), Nov. 21, 1997, 111 Stat. 2282; Pub. L. 107–103, title IV, §402(a), Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–454, title IV, §407, Dec. 10, 2004, 118 Stat. 3617.)
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–454 substituted “December 31, 2008” for “December 31, 2005”.
 
 2001—Subsec. (c). Pub. L. 107–103 substituted “December 31, 2005” for “December 31, 2001”.
 

@@ -26,7 +26,3 @@ Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see sectio
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7a–1 of this title.
-

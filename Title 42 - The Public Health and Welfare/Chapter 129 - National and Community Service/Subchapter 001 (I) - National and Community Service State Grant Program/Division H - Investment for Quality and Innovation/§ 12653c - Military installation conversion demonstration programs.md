@@ -56,7 +56,7 @@ As used in this section:
 
 #### (1) Grants
 
-&emsp;The Corporation may make grants to communities and community-based agencies topay for the Federal share of establishing and carrying out military installation conversion demonstration programs, to assist in converting to community use affected military installations located—
+&emsp;The Corporation may make grants to communities and community-based agencies to pay for the Federal share of establishing and carrying out military installation conversion demonstration programs, to assist in converting to community use affected military installations located—
 
 &emsp;&emsp;(A) within the community; or
 
@@ -74,7 +74,7 @@ As used in this section:
 
 #### (1) Stipend
 
-&emsp;A community or community-based agency that receives a grant under subsection (c) of this section to establish and carry out a project through a demonstration program may use the funds made available through such grant to pay for a portion of a stipend for the participants in the project.
+&emsp;A community or community-based agency that receives a grant under subsection (c) of this section to establish and carry out a project through a demonstration program mayuse the funds made available through such grant to pay for a portion of a stipend for the participants in the project.
 
 #### (2) Limitation on amount of stipend
 
@@ -150,7 +150,7 @@ A prior section 12653c, Pub. L. 101–610, title I, §195C, as added Pub. L. 102
 
 #### Amendments
 
-1998—Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(42)(B)(i)\], substituted “a military installationbeing closed or realigned under—” and subpars. (A) and (B) for “a military installation described in section 1662d(e)(1) of title 29”.
+1998—Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(42)(B)(i)\], substituted “a military installation being closed or realigned under—” and subpars. (A) and (B) for “a military installation described in section 1662d(e)(1) of title 29”.
 
 Subsec. (e)(1)(B)(iii). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(33)(A)\], added cl. (iii) and struck out former cl. (iii) which read as follows: “an eligible youth described in section 1693 of title 29 or an individual described in section 2884 of title 29.”
 
@@ -159,8 +159,4 @@ Pub. L. 105–277, §101(f) \[title VIII, §405(d)(42)(B)(ii)\], added cl. (iii)
 #### Effective Date of 1998 Amendment
 
 Amendment by section 101(f) \[title VIII, §405(d)(42)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(33)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12511 of this title.
 

@@ -4,10 +4,6 @@
 
 1996—Pub. L. 104–204, title VI, §604(a)(1), Sept. 26, 1996, 110 Stat. 2938, substituted “REQUIREMENTS RELATING TO HEALTH INSURANCE COVERAGE” for “ASSURING PORTABILITY, AVAILABILITY, AND RENEWABILITY OF HEALTH INSURANCE COVERAGE” as subchapter heading.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 300bb–2, 1397cc, 1397ii of this title; title 26 sections 4980B, 9805; title 29 section 1162.
-
 
 ---
 

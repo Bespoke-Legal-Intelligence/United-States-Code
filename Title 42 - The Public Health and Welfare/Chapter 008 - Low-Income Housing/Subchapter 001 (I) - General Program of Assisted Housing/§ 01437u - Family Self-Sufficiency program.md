@@ -20,7 +20,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (2) Exception
 
-&emsp;The Secretary shall not require a public housing agency to carry out a local program under subsection (a) of this section if the public housing agency provides certification (assuch term is defined under title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\]) to the Secretary, that the establishment and operation of the program is not feasible because of local circumstances, which may include—
+&emsp;The Secretary shall not require a public housing agency to carry out a local program under subsection (a) of this section if the public housing agency provides certification (as such term is defined under title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\]) to the Secretary, that the establishment and operation of the program is not feasible because of local circumstances, which may include—
 
 &emsp;&emsp;(A) lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or the Job Opportunities and Basic Skills Training Program under part F <sup>1</sup> of title IV of the Social Security Act;
 
@@ -70,7 +70,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (2) Supportive services
 
-&emsp;A local program under this section shall provide appropriate supportive services under this paragraph to each participating family entering into a contract of participation under paragraph (1). The supportive services shall be provided during the period the family is receiving assistance under section 1437f of this title or residing in public housing, and may include—
+&emsp;A local program under this section shall provide appropriate supportive services under this paragraph to each participating family entering into a contract of participation under paragraph (1). The supportive services shall beprovided during the period the family is receiving assistance under section 1437f of this title or residing in public housing, and may include—
 
 &emsp;&emsp;(A) child care;
 
@@ -168,7 +168,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (2) Performance funding system
 
-&emsp;Notwithstanding any provision of section 1437g of this title, the Secretary shall provide for inclusion under the performance funding system under section 1437g of this title of reasonable and eligible administrative costs (including the costs of employing a full-time service coordinator) incurred by public housing agencies carrying out local programs under this section. The Secretary shall include an estimate of the administrative costs likely to be incurred by participating public housingagencies in the annual budget request for the Department of Housing and Urban Development for public housing operating assistance under section 1437g of this title and shall include a request for such amounts in the budget request. Of any amounts appropriated under section 1437g(c) of this title for fiscal year 1993, $25,000,000 is authorized to be used for costs under this paragraph, and of any amounts appropriated under such section for fiscal year 1994, $25,900,000 is authorized to be used for costs under this paragraph.
+&emsp;Notwithstanding any provision of section 1437g of this title, the Secretary shall provide for inclusion under the performance funding system under section 1437g of this title of reasonable and eligible administrative costs (including the costs of employing a full-time service coordinator) incurred by public housing agencies carrying out local programs under this section. The Secretary shall includean estimate of the administrative costs likely to be incurred by participating public housing agencies in the annual budget request for the Department of Housing and Urban Development for public housing operating assistance under section 1437g of this title and shall include a request for such amounts in the budget request. Of any amounts appropriated under section 1437g(c) of this title for fiscal year 1993, $25,000,000 is authorized to be used for costs under this paragraph, and of any amounts appropriated under such section for fiscal year 1994, $25,900,000 is authorized to be used for costs under this paragraph.
 
 #### (i) Public housing agency incentive award allocation
 
@@ -300,7 +300,7 @@ Timing.—The Comptroller General shall submit the following reports under this 
 
 &emsp;“(B) A final report, not later than the expiration of the 5-year period beginning on November 28, 1990.”
 
-Subsec. (<i>o</i>)(2). Pub. L. 104–330 struck out heading and text of par. (2). Text read as follows: “Notwithstandingany other provision of law, the provisions of this section shall be optional for Indian housing authorities.”
+Subsec. (<i>o</i>)(2). Pub. L. 104–330 struck out heading and text of par. (2). Text read as follows: “Notwithstanding any other provision of law, the provisions of this section shall be optional for Indian housing authorities.”
 
 1992—Subsec. (b)(2). Pub. L. 102–550, §106(b), added subpars. (A) to (D) and concluding provisions and struck out former subpars. (A) to (D) which read as follows:
 
@@ -349,10 +349,6 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 #### GAO Study on Linking Federal Housing Assistance to Economic Self-Sufficiency Programs
 
 Section 554(b) of Pub. L. 101–625 directed Comptroller General to submit to Congress, not later than 18 months after Nov. 28, 1990, a report (1) evaluating the policy and administrative implications of requiring State and local governments to require participation in an economic self-sufficiency program as a condition of the receipt of rental assistance under 42 U.S.C. 1437f and public housing assistance, (2) determining the additional costs to public housing agencies under such programs and recommending a change in the amount of the administrative fee under 42 U.S.C. 1437f(q) to cover the additional costs of carrying out the Family Self-Sufficiency Program under this section, and (3) examining how housing and social service policies affect beneficiaries, particularly persons receiving public assistance, when such beneficiaries gain employment and experience a rise in income.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437f, 1437g of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

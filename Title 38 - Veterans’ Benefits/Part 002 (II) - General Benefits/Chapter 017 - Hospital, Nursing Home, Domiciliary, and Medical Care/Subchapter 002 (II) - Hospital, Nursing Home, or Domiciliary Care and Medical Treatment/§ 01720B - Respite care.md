@@ -42,13 +42,9 @@ Pub. L. 101–110, §3(b), Oct. 6, 1989, 103 Stat. 682, ratified actions of the 
 
 #### Interim Extension of Respite Care Program
 
-Pub. L. 101–110, §1(a), Oct. 6, 1989, 103 Stat. 682, provided that: “Notwithstanding the provisions of subsection (c) of section 620B \[now 1720B\] of title 38, United States Code, the authority provided by such section shall terminate on November 30, 1989.”
+Pub. L. 101–110, §1(a), Oct. 6, 1989, 103 Stat. 682, provided that: “Notwithstanding the provisions of subsection (c) of section 620B \[now 1720B\] of title 38, UnitedStates Code, the authority provided by such section shall terminate on November 30, 1989.”
 
 #### Report
 
 Section 201(b) of Pub. L. 99–576 provided that if the Administrator of Veterans’ Affairs furnished respite care under this section, the Administrator was to conduct an evaluation of the health efficacy and cost-effectiveness of furnishing such care and submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives not later than Feb. 1, 1989, a report containing the results of such evaluation and appropriate recommendations.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1710B of this title.
 

@@ -567,7 +567,7 @@ I74subpart 1—nonattainment areas in general
 | (f) | Less stringent CARB standards. |
 | (g) | Not applicable to heavy-duty vehicles. |
 | [7584\.](Subchapter%20002%20%28II%29%20-%20Emission%20Standards%20for%20Moving%20Sources/Part%20C%20-%20Clean%20Fuel%20Vehicles/%C2%A7%2007584%20-%20Administration%20and%20enforcement%20as%20per%20California%20standards.md) | Administration and enforcement as per California standards. |
-| [7585\.](Subchapter%20002%20%28II%29%20-%20Emission%20Standards%20for%20Moving%20Sources/Part%20C%20-%20Clean%20Fuel%20Vehicles/%C2%A7%2007585%20-%20Standards%20for%20heavy-duty%20clean-fuel%20vehicles%20%28GVWR%20above%208%2C500%20up%20to%2026%2C000%20lbs.%29.md) | Standards for heavy-duty clean-fuel vehicles (GVWR above 8,500 up to 26,000 lbs). |
+| [7585\.](Subchapter%20002%20%28II%29%20-%20Emission%20Standards%20for%20Moving%20Sources/Part%20C%20-%20Clean%20Fuel%20Vehicles/%C2%A7%2007585%20-%20Standards%20for%20heavy-duty%20clean-fuel%20vehicles%20%28GVWR%20above%208%2C500%20up%20to%2026%2C000%20lbs.%29.md) | Standards for heavy-duty clean-fuel vehicles (GVWR above 8,500 up to 26,000 lbs.). |
 | (a) | Model years after 1997; combined NO<sub>x</sub> and NMHC standard. |
 | (b) | Revised standards that are less stringent. |
 | [7586\.](Subchapter%20002%20%28II%29%20-%20Emission%20Standards%20for%20Moving%20Sources/Part%20C%20-%20Clean%20Fuel%20Vehicles/%C2%A7%2007586%20-%20Centrally%20fueled%20fleets.md) | Centrally fueled fleets. |
@@ -860,7 +860,7 @@ I74subpart 1—nonattainment areas in general
 | (d) | General permits. |
 | (e) | Temporary sources. |
 | (f) | Permit shield. |
-| [7661d.](Subchapter%20005%20%28V%29%20-%20Permits/%C2%A7%2007661d%20-%20Notification%20to%20Administrator%20and%20contiguous%20States.md) | Notification to administrator and contiguous States. |
+| [7661d.](Subchapter%20005%20%28V%29%20-%20Permits/%C2%A7%2007661d%20-%20Notification%20to%20Administrator%20and%20contiguous%20States.md) | Notification to Administrator and contiguous States. |
 | (a) | Transmission and notice. |
 | (b) | Objection by EPA. |
 | (c) | Issuance or denial. |
@@ -971,10 +971,6 @@ I74subpart 1—nonattainment areas in general
 #### Codification
 
 Act July 14, 1955, ch. 360, 69 Stat. 322, as amended, known as the Clean Air Act, which was formerly classified to chapter 15B (§1857 et seq.) of this title, was completely revised by Pub. L. 95–95, Aug. 7, 1977, 91 Stat. 685, and was reclassified to this chapter.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2022, 4363a, 4365, 4905, 6901, 6905, 6907, 6949, 8302, 8402, 8411, 9621, 13257, 13260, 13369 of this title; title 7 section 7719; title 10 section 2704; title 15 sections 793, 798, 2080, 2617, 2706, 3801; title 16 sections 410aaa–59, 460ii–4, 460<i>lll</i>, 1456; title 18 section 2721; title 23 sections 104, 134, 135, 149; title 26 section 169; title 30 sections 201, 1251, 1253, 1292, 1303; title 33 sections 1345, 1502, 1503; title 43 section 1334; title 49 sections 5303, 5305, 5309, 5323, 5335, 5506, 26101, 47102, 47117; title 50 section 2762.
 
 
 ---

@@ -398,7 +398,7 @@
 | (e) | Publication in Federal Register of rules, regulations, guidelines and instructions. |
 | [2996h.](Subchapter%20010%20%28X%29%20-%20Legal%20Services%20Corporation/%C2%A7%2002996h%20-%20Audits.md) | Audits. |
 | (a) | Annual audit; availability of records; filing and inspection of report. |
-| (b) | Audit by General Accounting Office. |
+| (b) | Audit by Government Accountability Office. |
 | (c) | Annual financial audit of recipient persons or bodies. |
 | (d) | Attorney-client privilege. |
 | [2996i.](Subchapter%20010%20%28X%29%20-%20Legal%20Services%20Corporation/%C2%A7%2002996i%20-%20Financing.md) | Financing. |
@@ -411,10 +411,6 @@
 | 2996<i>l.</i> | Reservation of right to repeal, alter, or amend. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 6861, 8624 of this title; title 2 section 452; title 5 section 8332; title 12 section 1766; title 38 section 4213.
 
 
 ---

@@ -4,7 +4,7 @@
 
 (b) Debate on the resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than ten hours, which shall be divided equally between individuals favoring and individuals opposing the resolution. A motion further to limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the resolution is not in order. A motion to reconsider the vote by which the resolution is passed or rejected shall not be in order.
 
-(c) Immediately following the conclusion of the debate on the resolution with respect to a reorganization plan, and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the appropriate House, the vote on final passage of the resolution shall occur.
+(c) Immediately following the conclusion of the debate on the resolution with respect to a reorganization plan, and a single quorum call atthe conclusion of the debate if requested in accordance with the rules of the appropriate House, the vote on final passage of the resolution shall occur.
 
 (d) Appeals from the decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution with respect to a reorganization plan shall be decided without debate.
 
@@ -51,8 +51,4 @@ Subsec. (b). Pub. L. 95–17 inserted provisions that a motion to postpone or a 
 Subsec. (c). Pub. L. 95–17 added subsec. (c).
 
 Subsec. (d). Pub. L. 95–17 added subsec. (d) which provisions were formerly set out in section 913(b) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 908, 909 of this title; title 42 section 2941.
 

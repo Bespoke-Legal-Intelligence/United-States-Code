@@ -100,9 +100,5 @@ Section 153(b) of Pub. L. 104–164 provided that: “The third sentence of sect
 
 Functions of President under this section delegated to Secretary of Defense by section 1(r) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2291c of this title.
-
 <i><sup>1</sup></i><i> So in original. The words “the fiscal year” probably should not appear.</i>
 

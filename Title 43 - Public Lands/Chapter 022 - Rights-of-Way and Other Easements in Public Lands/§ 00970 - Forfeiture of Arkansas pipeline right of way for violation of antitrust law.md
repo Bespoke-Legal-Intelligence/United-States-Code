@@ -6,7 +6,7 @@ If any citizen, company, or corporation taking advantage of the benefits of sect
 
 #### Repeal of Section
 
-<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
+<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to</i><i>the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
 
 #### References in Text
 
@@ -15,8 +15,4 @@ Act of July 2, 1890, referred to in text, is act July 2, 1890, ch. 647, 26 Stat.
 #### Savings Provision
 
 Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 967, 968, 969 of this title.
 

@@ -7,6 +7,7 @@
 | [70103\.](%C2%A7%2070103%20-%20General%20authority.md) | General authority. |
 | [70104\.](%C2%A7%2070104%20-%20Restrictions%20on%20launches%2C%20operations%2C%20and%20reentries.md) | Restrictions on launches, operations, and reentries. |
 | [70105\.](%C2%A7%2070105%20-%20License%20applications%20and%20requirements.md) | License applications and requirements. |
+| [70105a.](%C2%A7%2070105a%20-%20Experimental%20permits.md) | Experimental permits. |
 | [70106\.](%C2%A7%2070106%20-%20Monitoring%20activities.md) | Monitoring activities. |
 | [70107\.](%C2%A7%2070107%20-%20Effective%20periods%2C%20and%20modifications%2C%20suspensions%2C%20and%20revocations%2C%20of%20licenses.md) | Effective periods, and modifications, suspensions, and revocations, of licenses. |
 | [70108\.](%C2%A7%2070108%20-%20Prohibition%2C%20suspension%2C%20and%20end%20of%20launches%2C%20operation%20of%20launch%20sites%20and%20reentry%20sites%2C%20and%20reentries.md) | Prohibition, suspension, and end of launches, operation of launch sites and reentry sites, and reentries. |
@@ -29,6 +30,8 @@
 
 #### Amendments
 
+2004—Pub. L. 108–492, §2(c)(26), Dec. 23, 2004, 118 Stat. 3982, added item 70105a.
+
 2000—Pub. L. 106–405, §3(b), Nov. 1, 2000, 114 Stat. 1752, substituted “Office of Commercial Space Transportation” for “Authorization of appropriations” in item 70119.
 
 Pub. L. 106–391, title III, §322(d), Oct. 30, 2000, 114 Stat. 1598, added item 70109a.
@@ -36,10 +39,6 @@ Pub. L. 106–391, title III, §322(d), Oct. 30, 2000, 114 Stat. 1598, added ite
 1998—Pub. L. 105–303, title I, §102(a)(1), Oct. 28, 1998, 112 Stat. 2846, substituted “launches, operations, and reentries” for “launches and operations” in item 70104, “launches, operation of launch sites and reentry sites, and reentries” for “launches and operation of launch sites” in item 70108, inserted “or reentries” after “scheduled launches” in item 70109, and added items 70120 and 70121.
 
 1994—Pub. L. 103–429, §6(78), Oct. 31, 1994, 108 Stat. 4388, made technical amendment to chapter heading.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 15 section 5801; title 42 section 2458c.
 
 
 ---
@@ -51,6 +50,7 @@ This chapter is referred to in title 15 section 5801; title 42 section 2458c.
 - [&sect; 70103 - General authority](%C2%A7%2070103%20-%20General%20authority.md)
 - [&sect; 70104 - Restrictions on launches, operations, and reentries](%C2%A7%2070104%20-%20Restrictions%20on%20launches%2C%20operations%2C%20and%20reentries.md)
 - [&sect; 70105 - License applications and requirements](%C2%A7%2070105%20-%20License%20applications%20and%20requirements.md)
+- [&sect; 70105a - Experimental permits](%C2%A7%2070105a%20-%20Experimental%20permits.md)
 - [&sect; 70106 - Monitoring activities](%C2%A7%2070106%20-%20Monitoring%20activities.md)
 - [&sect; 70107 - Effective periods, and modifications, suspensions, and revocations, of licenses](%C2%A7%2070107%20-%20Effective%20periods%2C%20and%20modifications%2C%20suspensions%2C%20and%20revocations%2C%20of%20licenses.md)
 - [&sect; 70108 - Prohibition, suspension, and end of launches, operation of launch sites and reentry sites, and reentries](%C2%A7%2070108%20-%20Prohibition%2C%20suspension%2C%20and%20end%20of%20launches%2C%20operation%20of%20launch%20sites%20and%20reentry%20sites%2C%20and%20reentries.md)

@@ -28,7 +28,7 @@ Definition.—As used in this section, the term “copyright management informat
 
 &emsp;(2) The name of, and other identifying information about, the author of a work.
 
-&emsp;(3) The name of, and other identifying information about, the copyright owner of the work, including the information set forth in a notice of copyright.
+&emsp;(3) The name of, and other identifying information about, the copyright owner of thework, including the information set forth in a notice of copyright.
 
 &emsp;(4) With the exception of public performances of works by radio and television broadcast stations, the name of, and other identifying information about, a performer whose performance is fixed in a work other than an audiovisual work.
 
@@ -42,7 +42,7 @@ Definition.—As used in this section, the term “copyright management informat
 
 (d)
 
-Law Enforcement, Intelligence, and Other Government Activities.—This sectiondoes not prohibit any lawfully authorized investigative, protective, information security, or intelligence activity of an officer, agent, or employee of the United States, a State, or a political subdivision of a State, or a person acting pursuant to a contract with the United States, a State, or a political subdivision of a State. For purposes of this subsection, the term “information security” means activities carried out in order to identify and address the vulnerabilities of a government computer, computer system, or computer network.
+Law Enforcement, Intelligence, and Other Government Activities.—This section does not prohibit any lawfully authorized investigative, protective, information security, or intelligence activity of an officer, agent, or employee of the United States, a State, or a political subdivision of a State, or a person acting pursuant to a contract with the United States, a State, or a political subdivision of a State. For purposes of this subsection, the term “information security” means activities carried out in order to identify and address the vulnerabilities of a government computer, computer system, or computer network.
 
 (e)
 
@@ -95,8 +95,4 @@ The effective date of this chapter, referred to in subsec. (e)(2)(B)(ii)(II), is
 #### Amendments
 
 1999—Subsec. (e)(2)(B). Pub. L. 106–44 substituted “category of works” for “category or works” in introductory provisions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1203, 1204 of this title.
 

@@ -10,7 +10,3 @@ The Secretary of State, acting through the Commissioner, is authorized to act jo
 
 (Pub. L. 100–465, §3, Oct. 3, 1988, 102 Stat. 2272.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 277g, 277g–2 of this title.
-

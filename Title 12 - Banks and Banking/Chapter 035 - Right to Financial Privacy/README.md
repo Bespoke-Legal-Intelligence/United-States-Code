@@ -50,7 +50,7 @@
 | (g) | Disclosure pursuant to legitimate law enforcement inquiry respecting name, address, account number, and type of account of particular customers. |
 | (h) | Disclosure pursuant to lawful proceeding, investigation, etc., directed at financial institution or legal entity or consideration or administration respecting Government loans, loan guarantees, etc. |
 | (i) | Disclosure pursuant to issuance of subpena or court order respecting grand jury proceeding. |
-| (j) | Disclosure pursuant to proceeding, investigation, etc., instituted by General Accounting Office and directed at a government authority. |
+| (j) | Disclosure pursuant to proceeding, investigation, etc., instituted by Government Accountability Office and directed at a government authority. |
 | (k) | Disclosure necessary for proper administration of programs of withholding taxes on nonresident aliens, Federal Old-Age, Survivors, and Disability Insurance Benefits, and Railroad Retirement Act Benefits. |
 | (<i>l</i>) | Crimes against financial institutions by insiders. |
 | (m) | Disclosure to, or examination by, employees or agents of Board of Governors of Federal Reserve System or Federal Reserve Bank. |
@@ -76,10 +76,6 @@
 | [3422\.](%C2%A7%2003422%20-%20Applicability%20to%20Securities%20and%20Exchange%20Commission.md) | Applicability to Securities and Exchange Commission. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 15 sections 78u, 78x, 6802; title 31 section 310; title 38 section 5319; title 42 section 1383; title 50 section 436.
 
 
 ---

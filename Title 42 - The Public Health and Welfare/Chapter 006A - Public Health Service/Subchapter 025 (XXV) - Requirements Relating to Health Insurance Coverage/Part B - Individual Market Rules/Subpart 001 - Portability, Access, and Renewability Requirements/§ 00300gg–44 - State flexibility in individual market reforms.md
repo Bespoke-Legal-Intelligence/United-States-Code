@@ -56,7 +56,7 @@
 
 #### (2) Notice
 
-&emsp;If the Secretary finds, after review of information provided under paragraph (1) and in consultation with the chief executive officer of the State and the insurance commissioner orchief insurance regulatory official of the State, that such a mechanism is not an acceptable alternative mechanism or is not (or no longer) being implemented, the Secretary—
+&emsp;If the Secretary finds, after review of information provided under paragraph (1) and in consultation with the chief executive officer of the State and the insurance commissioner or chief insurance regulatory official of the State, that such a mechanism is not an acceptable alternative mechanism or is not (or no longer) being implemented, the Secretary—
 
 &emsp;&emsp;(A) shall notify the State of—
 
@@ -68,7 +68,7 @@
 
 #### (3) Final determination
 
-&emsp;If, after providing notice and opportunity under paragraph (2), the Secretary finds that the mechanism is not an acceptable alternative mechanism or the State is not implementing such a mechanism, the Secretary shall notify the State that the State is no longer considered to be implementing an acceptable alternative mechanism and that the requirements of section 300gg–41 of this title shall apply to health insurance coverage offered in the individual market in the State, effective as of a date specified in the notice.
+&emsp;If, after providing notice and opportunity under paragraph (2), the Secretary finds thatthe mechanism is not an acceptable alternative mechanism or the State is not implementing such a mechanism, the Secretary shall notify the State that the State is no longer considered to be implementing an acceptable alternative mechanism and that the requirements of section 300gg–41 of this title shall apply to health insurance coverage offered in the individual market in the State, effective as of a date specified in the notice.
 
 #### (4) Limitation on secretarial authority
 
@@ -117,10 +117,6 @@ Section 605(c) of Pub. L. 104–204 provided that: “The amendments made by thi
 #### Effective Date
 
 Section applicable with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market after June 30, 1997, regardless of when a period of creditable coverage occurs, see section 111(b) of Pub. L. 104–191, set out as a note under section 300gg–41 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300gg–41, 300gg–45 of this title; title 26 section 35; title 29 section 2918.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

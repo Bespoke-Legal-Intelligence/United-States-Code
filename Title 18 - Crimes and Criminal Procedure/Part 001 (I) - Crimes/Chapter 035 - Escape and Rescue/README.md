@@ -19,10 +19,6 @@
 
 1994—Pub. L. 103–322, title XXXIII, §330004(5), Sept. 13, 1994, 108 Stat. 2141, struck out item 754 “Rescue of body of executed offender”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 4082 of this title.
-
 
 ---
 

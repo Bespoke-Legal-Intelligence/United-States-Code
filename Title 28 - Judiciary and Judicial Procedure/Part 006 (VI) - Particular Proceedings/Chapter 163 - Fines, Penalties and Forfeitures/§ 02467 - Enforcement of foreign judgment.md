@@ -86,7 +86,7 @@ Evidence.—The court, in issuing a restraining order under subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) may rely on information set forth in an affidavit describing the nature of the proceeding or investigation underway in the foreign country, and setting forth a reasonable basis to believe that the property to be restrained will be named in a judgment of forfeiture at the conclusion of such proceeding; or
 
-&emsp;&emsp;&emsp;(ii) may register and enforce a restraining order that has been issued by a court of competent jurisdiction in the foreign country and certified by the Attorney General pursuant to subsection (b)(2).
+&emsp;&emsp;&emsp;(ii) may register and enforce a restraining order that has been issued by a courtof competent jurisdiction in the foreign country and certified by the Attorney General pursuant to subsection (b)(2).
 
 &emsp;&emsp;(C)
 
@@ -112,7 +112,7 @@ The Federal Rules of Civil Procedure, referred to in subsecs. (c)(2)(C) and (d)(
 
 Subsec. (b)(1)(C). Pub. L. 107–56, §323(2), substituted “establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons” for “establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant”.
 
-Subsec. (d)(1)(D). Pub. L. 107–56, §323(3), substituted “the foreign nation did not take steps, in accordancewith the principles of due process, to give notice of the proceedings to a person with an interest in the property” for “the defendant in the proceedings in the foreign court did not receive notice”.
+Subsec. (d)(1)(D). Pub. L. 107–56, §323(3), substituted “the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property” for “the defendant in the proceedings in the foreign court did not receive notice”.
 
 Subsec. (d)(3). Pub. L. 107–56, §323(1), added par. (3).
 

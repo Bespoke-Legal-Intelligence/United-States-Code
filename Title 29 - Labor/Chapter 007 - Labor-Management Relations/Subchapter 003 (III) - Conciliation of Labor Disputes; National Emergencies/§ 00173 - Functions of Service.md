@@ -42,5 +42,5 @@ This chapter, referred to in subsec. (c), was in the original “this Act” mea
 
 #### Applicability to Collective Bargaining Agreements
 
-Amendment by Pub. L. 95–524 not to affect terms and conditions of any collective bargaining agreement whether in effect prior to or entered into after Oct. 27,1978, see section 6(e) of Pub. L. 95–524, set out as a note under section 175a of this title.
+Amendment by Pub. L. 95–524 not to affect terms and conditions of any collective bargaining agreement whether in effect prior to or entered into after Oct. 27, 1978, see section 6(e) of Pub. L. 95–524, set out as a note under section 175a of this title.
 

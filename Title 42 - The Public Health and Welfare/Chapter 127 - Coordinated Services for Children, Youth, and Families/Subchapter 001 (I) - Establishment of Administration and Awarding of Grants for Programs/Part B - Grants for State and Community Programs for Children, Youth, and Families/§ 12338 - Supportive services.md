@@ -38,7 +38,3 @@ The services eligible to be provided under subsection (a) of this section are se
 
 (Pub. L. 101–501, title IX, §932, Nov. 3, 1990, 104 Stat. 1273.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12333, 12335, 12336, 12337, 12340 of this title.
-

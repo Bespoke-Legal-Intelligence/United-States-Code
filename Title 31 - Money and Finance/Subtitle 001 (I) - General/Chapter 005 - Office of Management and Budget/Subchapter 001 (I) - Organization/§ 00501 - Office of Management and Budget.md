@@ -32,7 +32,33 @@ For assignment of certain emergency preparedness functions to Director of the Of
 
 #### Competitive Sourcing Activities
 
-Pub. L. 108–108, title III, §340(a), (b), (f), Nov. 10, 2003, 117 Stat. 1315, 1317, provided that:
+Pub. L. 108–199, div. F, title VI, §647(b), (d), (f), Jan. 23, 2004, 118 Stat. 361, 362, provided that:
+
+“(b) Not later than 120 days following the enactment of this Act \[Jan. 23, 2004\] and not later than December 31 of each year thereafter, the head of each executive agency shall submit to Congress a report on the competitive sourcing activities on the list required under the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; 31 U.S.C. 501 note) that were performed for such executive agency during the previous fiscal year by Federal Government sources. The report shall include—
+
+&emsp;“(1) the total number of competitions completed;
+
+&emsp;“(2) the total number of competitions announced, together with a list of the activities covered by such competitions;
+
+&emsp;“(3) the total number (expressed as a full-time employee equivalent number) of the Federal employees studied under completed competitions;
+
+&emsp;“(4) the total number (expressed as a full-time employee equivalent number) of the Federal employees that are being studied under competitions announced but not completed;
+
+&emsp;“(5) the incremental cost directly attributable to conducting the competitions identified under paragraphs (1) and (2), including costs attributable to paying outside consultants and contractors;
+
+&emsp;“(6) an estimate of the total anticipated savings, or a quantifiable description of improvements in service or performance, derived from completed competitions;
+
+&emsp;“(7) actual savings, or a quantifiable description of improvements in service or performance, derived from the implementation of competitions completed after May 29, 2003;
+
+&emsp;“(8) the total projected number (expressed as a full-time employee equivalent number) of the Federal employees that are to be covered by competitions scheduled to be announced in the fiscal year covered by the next report required under this section; and
+
+&emsp;“(9) a general description of how the competitive sourcing decisionmaking processes of the executive agency are aligned with the strategic workforce plan of that executive agency.
+
+“(d) Hereafter, the head of an executive agency may expend funds appropriated or otherwise made available for any purpose to the executive agency under this or any other Act to monitor (in the administration of responsibilities under Office of Management and Budget Circular A–76 or any related policy, directive, or regulation) the performance of an activity or function of the executive agency that has previously been subjected to a public-private competition under such circular.
+
+“(f) In this section, the term ‘executive agency’ has the meaning given such term in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403).”
+
+Pub. L. 108–108, title III, §340(a), (b), (f), Nov. 10, 2003, 117 Stat. 1315, 1317, as amended by Pub. L. 108–447, div. E, title III, §332(c), Dec. 8, 2004, 118 Stat. 3100, provided that:
 
 “(a)
 
@@ -46,37 +72,7 @@ Justification of Competitive Sourcing Activities.—(1) In each budget submitted
 
 &emsp;“(C) of the Department of Energy for which funds are appropriated by this Act.
 
-“(b)
-
-Annual Reporting Requirements on Competitive Sourcing Activities.—(1) Not later than December 31 of each year, beginning with December 31, 2003, the Secretary concerned shall submit to the Committees on Appropriations of the Senate and the House of Representatives a report, covering the preceding fiscal year, on the competitive sourcing studies conducted by the Department of the Interior, the Forest Service, or the Department of Energy, as appropriate, and the costs and cost savings to the citizens of the United States of such studies.
-
-“(2) In this subsection, the term ‘Secretary concerned’ means—
-
-&emsp;“(A) the Secretary of the Interior, with respect to the Department of the Interior programs, projects, and activities for which funds are appropriated by this Act;
-
-&emsp;“(B) the Secretary of Agriculture, with respect to the Forest Service; and
-
-&emsp;“(C) the Secretary of Energy, with respect to the Department of Energy programs, projects, and activities for which funds are appropriated by this Act.
-
-“(3) The report under this subsection shall include, for the fiscal year covered—
-
-&emsp;“(A) the total number of competitions completed;
-
-&emsp;“(B) the total number of competitions announced, together with a list of the activities covered by such competitions;
-
-&emsp;“(C) the total number of full-time equivalent Federal employees studied under completed competitions;
-
-&emsp;“(D) the total number of full-time equivalent Federal employees being studied under competitions announced, but not completed;
-
-&emsp;“(E) the incremental cost directly attributable to conducting the competitions identified under subparagraphs (A) and (B), including costs attributable to paying outside consultants and contractors;
-
-&emsp;“(F) an estimate of the total anticipated savings, or a quantifiable description of improvements in service or performance, derived from completed competitions;
-
-&emsp;“(G) actual savings, or a quantifiable description of improvements in service or performance, derived from the implementation of competitions;
-
-&emsp;“(H) the total projected number of full-time equivalent Federal employees covered by competitions scheduled to be announced in the fiscal year; and
-
-&emsp;“(I) a description of how the competitive sourcing decision making processes are aligned with strategic workforce plans.
+\[(b) Repealed. Pub. L. 108–447, div. E, title III, §332(c), Dec. 8, 2004, 118 Stat. 3100.\]
 
 “(f)
 
@@ -84,53 +80,7 @@ Competitive Sourcing Study Defined.—In this subsection \[probably means “thi
 
 #### Study of Policies and Procedures for Transfer of Commercial Activities
 
-Pub. L. 106–398, §1 \[\[div. A\], title VIII, §832\], Oct. 30, 2000, 114 Stat. 1654, 1654A–221, provided that:
-
-“(a)
-
-GAO-Convened Panel.—The Comptroller General shall convene a panel of experts to study the policies and procedures governing the transfer of commercial activities for the Federal Government from Government personnel to a Federal contractor, including—
-
-&emsp;“(1) procedures for determining whether functions should continue to be performed by Government personnel;
-
-&emsp;“(2) procedures for comparing the costs of performance of functions by Government personnel and the costs of performance of such functions by Federal contractors;
-
-&emsp;“(3) implementation by the Department of Defense of the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; 31 U.S.C. 501 note); and
-
-&emsp;“(4) procedures of the Department of Defense for public-private competitions pursuant to the Office of Management and Budget Circular A–76.
-
-“(b)
-
-Composition of Panel.—(1) The Comptroller General shall appoint highly qualified and knowledgeable persons to serve on the panel and shall ensure that the following entities receive fair representation on the panel:
-
-&emsp;“(A) The Department of Defense.
-
-&emsp;“(B) Persons in private industry.
-
-&emsp;“(C) Federal labor organizations.
-
-&emsp;“(D) The Office of Management and Budget.
-
-“(2) For the purposes of the requirement for fair representation under paragraph (1), persons serving on the panel under subparagraph (C) of that paragraph shall not be counted as persons serving on the panel under subparagraph (A), (B), or (D) of that paragraph.
-
-“(c)
-
-Chairman.—The Comptroller General, or an individual within the General Accounting Office designated by the Comptroller General, shall be the chairman of the panel.
-
-“(d)
-
-Participation by Other Interested Parties.—The chairman shall ensure that all interested parties, including individuals who are not represented on the panel who are officers or employees of the United States, persons in private industry, or representatives of Federal labor organizations, have the opportunity to submit information and views on the matters being studied by the panel.
-
-“(e)
-
-Information From Agencies.—The panel may request directly from any department or agency of the United States any information that the panel considers necessary to carry out a meaningful study of the policies and procedures described in subsection (a), including the Office of Management and Budget Circular A–76 process. To the extent consistent with applicable laws and regulations, the head of such department or agency shall furnish the requested information to the panel.
-
-“(f)
-
-Report.—Not later than May 1, 2002, the Comptroller General shall submit the report of the panel on the results of the study to Congress, including recommended changes with respect to implementation of policies and enactment of legislation.
-
-“(g)
-
-Definition.—In this section, the term ‘Federal labor organization’ has the meaning given the term ‘labor organization’ in section 7103(a)(4) of title 5, United States Code.”
+Pub. L. 106–398, §1 \[\[div. A\], title VIII, §832\], Oct. 30, 2000, 114 Stat. 1654, 1654A–221, provided that the Comptroller General was to convene a panel of experts to study the policies and procedures governing the transfer of commercial activities for the Federal Government from Government personnel to Federal contractors and to appoint highly qualified and knowledgeable persons, from appropriate governmental agencies and private industry, to serve on the panel, whose chairman would be the Comptroller General or a designated individual within the GAO, and provided that interested parties would be allowed to participate, that the panel would have access to necessary information from Federal agencies, and that the Comptroller General was to submit a report of the panel on the results of the study to Congress no later than May 1, 2002.
 
 #### Use of Private Enterprises
 
@@ -154,7 +104,7 @@ Architectural and engineering services.—Any review and conversion by the Secre
 
 #### Federal Activities Inventory Reform
 
-Pub. L. 105–270, Oct. 19, 1998, 112 Stat. 2382, provided that:
+Pub. L. 105–270, Oct. 19, 1998, 112 Stat. 2382, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -202,7 +152,7 @@ Competition Required.—Within a reasonable time after the date on which a notic
 
 “(e)
 
-Realistic and Fair Cost Comparisons.—For the purpose of determining whether to contract with a source in the private sector for the performance of an executive agency activity on the list on the basis of a comparison of the costs of procuring services from such a source with the costs of performing that activity by the executive agency, the head of the executive agency shall ensure that all costs (including the costs of quality assurance, technical monitoring of the performance of such function, liability insurance, employee retirement and disability benefits, and all other overhead costs) are considered and that the costs considered are realistic and fair.
+Realistic and Fair Cost Comparisons.—For the purpose of determining whether to contract with a source in the private sector for the performance of an executive agency activity on the list on the basis of a comparison of the costs of procuring services from such a source with the costs of performing that activity by the executive agency, the head of the executive agency shall ensure that all costs (including the costs of quality assurance, technical monitoring of the performance of such function, liability insurance, employee retirement and disability benefits, and all other overheadcosts) are considered and that the costs considered are realistic and fair.
 
 #### “SEC. 3. CHALLENGES TO THE LIST.
 
@@ -274,7 +224,7 @@ Exceptions.—This Act does not apply to or with respect to the following:
 
 &emsp;“(1)
 
-General accounting office.—The General Accounting Office.
+Government accountability office.—The Government Accountability Office.
 
 &emsp;“(2)
 
@@ -336,9 +286,11 @@ Pub. L. 104–316, title II, §201, Oct. 19, 1996, 110 Stat. 3842, provided that
 
 #### Department of Commerce Franchise Fund Pilot
 
-Pub. L. 108–7, div. B, title II, §207, Feb. 20, 2003, 117 Stat. 78, provided in part: “That an amount not to exceed 4 percent of the total annual income to such fund \[Commerce franchise fund\] may be retained in the fund for fiscal year 2003 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of department financial management, ADP, and other support systems: <i>Provided further</i>, That such amounts retained in the fund for fiscal year 2003 and each fiscal year thereafter shall be available for obligation and expenditure only in accordance with section 605 of this Act \[117 Stat. 100\]: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury: <i>Provided further</i>, That such franchise fund pilot program shall terminate pursuant to section 403(f) of Public Law 103–356 \[set out below\].”
+Pub. L. 108–199, div. B, title II, §206, Jan. 23, 2004, 118 Stat. 73, provided that: “Hereafter, the Secretary of Commerce may use the Commerce franchise fund forexpenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services, pursuant to section 403 of Public Law 103–356 \[set out below\]: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 2004 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of department financial management, automated data processing, and other support systems: <i>Provided further</i>, That such amounts retained in the fund for fiscal year 2004 and each fiscal year thereafter shall be available for obligation and expenditure only in accordance with section 605 of this Act \[118 Stat. 93\]: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–7, div. B, title II, §207, Feb. 20, 2003, 117 Stat. 77.
 
 Pub. L. 107–77, title II, §207, Nov. 28, 2001, 115 Stat. 778.
 
@@ -352,35 +304,31 @@ Pub. L. 105–277, div. A, §101(b) \[title II, §209\], Oct. 21, 1998, 112 Stat
 
 Pub. L. 104–208, div. A, title I, §101(d) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–200, as amended by Pub. L. 108–7, div. F, title I, §149, Feb. 20, 2003, 117 Stat. 245, provided that: “There is hereby established in the Treasury a franchise fund pilot, as authorized by section 403 of Public Law 103–356 \[set out below\], to be available as provided in such section for costs of capitalizing and operating administrative services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made prior to the current year for the purpose of providing capital shall be used to capitalize such fund: <i>Provided further</i>, That such fund may be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automatic data processing (ADP) software and systems (either acquired or donated) and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of Department financial management, ADP, and other support systems: <i>Provided further</i>, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356.”
 
-#### Department of the Treasury Franchise Fund
-
-Pub. L. 104–208, div. A, title I, §101(f) \[title I\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–316, as amended by Pub. L. 106–554, §1(a)(3) \[title I, §120\], Dec. 21, 2000, 114 Stat. 2763, 2763A–135; Pub. L. 108–7, div. J, title I, §123, Feb. 20, 2003, 117 Stat. 439, provided in part that: “There is hereby established in the Treasury a franchise fund until October 1, 2004 to be available without fiscal year limitation, for expenses and equipment necessary for the maintenance and operation of such financial and administrative support services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with the payments, including advanced payments, from applicable appropriations and funds available to the Department and other Federal agencies for which such administrative and financial services are performed, at rates which will recover all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of Automatic Data Processing (ADP) software and systems, and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Treasury financial management, ADP, and other support systems: <i>Provided further</i>, That no later than 30 days after theend of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury.”
-
 #### Department of Veterans Affairs Franchise Fund Pilot
 
-Pub. L. 108–7, div. K, title I, §108, Feb. 20, 2003, 117 Stat. 481, provided that: “Notwithstanding any other provision of law, the Department of Veterans Affairs shall continue the Franchise Fund pilot program authorized to be established by section 403 of Public Law 103–356 \[set out below\] until October 1, 2003: <i>Provided</i>, That the Franchise Fund, established by title I of Public Law 104–204 \[set out below\] to finance the operations of the Franchise Fund pilot program, shall continue until October 1, 2003.”
+Pub. L. 108–447, div. I, title I, §108, Dec. 8, 2004, 118 Stat. 3292, provided that: “Notwithstanding any other provision of law, the Department of Veterans Affairs shall continue the Franchise Fund pilot program authorized to be established by section 403 of Public Law 103–356 \[set out below\] until October 1, 2005: <i>Provided</i>, That the Franchise Fund, established by title I of Public Law 104–204 \[set out below\] to finance the operations of the Franchise Fund pilot program, shall continue until October 1, 2005.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–199, div. G, title I, §108, Jan. 23, 2004, 118 Stat. 369.
+
+Pub. L. 108–7, div. K, title I, §108, Feb. 20, 2003, 117 Stat. 481.
 
 Pub. L. 107–73, title I, §108, Nov. 26, 2001, 115 Stat. 658.
 
 Pub. L. 104–204, title I, Sept. 26, 1996, 110 Stat. 2880, provided in part that: “There is hereby established in the Treasury a franchise fund pilot, as authorized by section 403 of Public Law 103–356 \[set out below\], to be available as provided in such section for expenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment and other assets pertaining to the services to be provided by the franchise fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize the franchise fund: <i>Provided further</i>, That the franchise fund may be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That the franchise fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Departmental financial management, ADP, and other support systems: <i>Provided further</i>, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356.”
 
-#### Environmental Protection Agency Franchise Fund Pilot
-
-Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2912, as amended, formerly set out as a note under this section, was transferred and is classified to section 4370e of Title 42, The Public Health and Welfare.
-
 #### Department of Homeland Security Working Capital Fund
 
 Pub. L. 108–90, title V, §506, Oct. 1, 2003, 117 Stat. 1153, provided in part: “That such fund \[Federal Emergency Management Agency Working Capital Fund\] shall hereafter be known as the ‘Department of Homeland Security Working Capital Fund’.”
 
-Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915, provided in part: “For the establishment of a working capital fund for the Federal Emergency Management Agency, to be available without fiscal year limitation, for expenses and equipment necessary for maintenance and operations of such administrative services as the Director determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of the Federal Emergency Management Agency, other Federal agencies, and other sources authorized by law for which such centralized services are performed, including supplies, materials, and services, at rates that will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve as determined by the Director: <i>Provided further</i>, That income of such fund may be retained, to remain available until expended, for purposes of the fund: <i>Provided further</i>, That fees for services shall be established by the Director at a level to cover the total estimated costs of providing such services, such fees to be deposited in the fund shall remain available until expended for purposes of the fund: <i>Provided further</i>, That such fund shall terminate in a manner consistent with section 403(f) of Public Law 103–356 \[set out below\].”
+Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915, provided in part: “For the establishment of a working capital fund for the Federal Emergency Management Agency, to be available without fiscal year limitation, for expenses and equipment necessary for maintenanceand operations of such administrative services as the Director determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of the Federal Emergency Management Agency, other Federal agencies, and other sources authorized by law for which such centralized services are performed, including supplies, materials, and services, at rates that will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve as determined by the Director: <i>Provided further</i>, That income of such fund may be retained, to remain available until expended, for purposes of the fund: <i>Provided further</i>, That fees for services shall be established by the Director at a level to cover the total estimated costs of providing such services, such fees to be deposited in the fund shall remain available until expended for purposes of the fund: <i>Provided further</i>, That such fund shall terminate in a manner consistent with section 403(f) of Public Law 103–356 \[set out below\].”
 
 \[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Franchise Fund Pilot Programs
 
-Pub. L. 103–356, title IV, §403, Oct. 13, 1994, 108 Stat. 3413, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §627\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–360; Pub. L. 107–67, title VI, §634, Nov. 12, 2001, 115 Stat. 553; Pub. L. 108–7, div. J, title VI, §633, Feb. 20, 2003, 117 Stat. 471; Pub. L. 108–136, div. A, title XIV, §1426, Nov. 24, 2003, 117 Stat. 1670, provided that:
+Pub. L. 103–356, title IV, §403, Oct. 13, 1994, 108 Stat. 3413, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §627\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–360; Pub. L. 107–67, title VI, §634, Nov. 12, 2001, 115 Stat. 553; Pub. L. 108–7, div. J, title VI, §633, Feb. 20, 2003, 117 Stat. 471; Pub. L. 108–136, div. A, title XIV, §1426, Nov. 24, 2003, 117 Stat. 1670; Pub. L. 108–199, div. F, title VI, §632, Jan. 23, 2004, 118 Stat. 357; Pub. L. 108–447, div. H, title VI, §632, Dec. 8, 2004, 118 Stat. 3280, provided that:
 
 “(a)
 
@@ -400,7 +348,7 @@ Funding.—(1) There are authorized to be appropriated to the franchise fund of 
 
 “(d)
 
-Report on Pilot Programs.—Within 6 months after the end of fiscal year 1997, the Director of the Office of Management and Budget shall forward a report on the results of the pilot programs to the Committees on Appropriations of the Senate and of the House of Representatives, and to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives. The report shall contain the financial and program performance results of the pilot programs, including recommendations for—
+Report on Pilot Programs.—Within 6 months after the end of fiscal year 1997, the Director of the Office of Management and Budget shall forward a report on the results of the pilot programs to the Committees on Appropriations of the Senate and of the House of Representatives, and to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives. The report shall contain the financial and program performance results of the pilot programs, including recommendations for—
 
 &emsp;“(1) the structure of the fund;
 
@@ -416,7 +364,9 @@ Procurement.—Nothing in this section shall be construed as relieving any agenc
 
 “(f)
 
-Termination.—The provisions of this section shall expire on December 31, 2004.”
+Termination.—The provisions of this section shall expire on October 1, 2005.”
+
+\[Pub. L. 108–199, div. F, title VI, §632, Jan. 23, 2004, 118 Stat. 357, which directed the amendment of subsec. (f) of section 403 of Pub. L. 103–356, set out above, by substituting “October 1, 2004” for “October 1, 2003”, was executed by making the substitution for “December 31, 2004” to reflect the probable intent of Congress.\]
 
 #### Simplification of Management Reporting Process
 
@@ -438,7 +388,7 @@ Application.—The authority provided in subsection (a) shall apply only to repo
 
 Adjustments in Reporting.—The Director may consolidate or adjust the frequency and due dates of any statutorily required reports under subsections (a) and (b) only after—
 
-&emsp;“(1) consultation with the Chairman of the Senate Committee on Governmental Affairs and the Chairman of the House of Representatives Committee on Government Operations \[now Committee on Government Reform\]; and
+&emsp;“(1) consultation with the Chairman of the Senate Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] andthe Chairman of the House of Representatives Committee on Government Operations \[now Committee on Government Reform\]; and
 
 &emsp;“(2) written notification to the Congress, no later than February 8 of each fiscal year covered under subsection (b) for those reports required to be submitted during that fiscal year.”
 
@@ -544,7 +494,7 @@ The staff of the Council shall be headed by an Executive Director who shall be a
 
 #### Sec. 301. Effective Date
 
-The provisions of this reorganization plan shall take effect as provided by section 906(a) of title 5 of the United States Code, or on July 1, 1970, whichever is later.
+The provisions of this reorganization plan shall take effect as provided by section 906(a) of title 5 of theUnited States Code, or on July 1, 1970, whichever is later.
 
 #### Message of the President
 
@@ -642,7 +592,7 @@ Finally, the new Office will continue the Legislative Reference functions now pe
 
 The people deserve a more responsive and more effective Government. The times require it. These changes will help provide it.
 
-Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. In particular, the plan is responsive to Section 901(a)(1), “to promote the better execution of the laws, the more effective management of the Executive Branch and of its agencies and functions, and the expeditious administration of the public business;” and Section 901(a)(3), “to increase the efficiency of the operations of the Government to the fullest extent practicable.”
+Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. In particular, the plan is responsive to Section 901(a)(1), “to promote the better execution of the laws, the more effective management of the Executive Branch and of its agenciesand functions, and the expeditious administration of the public business;” and Section 901(a)(3), “to increase the efficiency of the operations of the Government to the fullest extent practicable.”
 
 The reorganizations provided for in this plan make necessary the appointment and compensation of new officers, as specified in Section 102(c) of the plan. The rates of compensation fixed for these officers are comparable to those fixed for other officers in the Executive Branch who have similar responsibilities.
 
@@ -732,7 +682,7 @@ Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Supersedure of Ex. Ord. No. 11717
 
-Ex. Ord. No. 11717 superseded to the extent that it is inconsistent with Ex. Ord. No. 11893, Dec. 31, 1975, 41F.R. 1040, see section 4 of Ex. Ord. No. 11893, set out as a note under section 4252 of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 11717 superseded to the extent that it is inconsistent with Ex. Ord. No. 11893, Dec. 31, 1975, 41 F.R. 1040, see section 4 of Ex. Ord. No. 11893, set out as a note under section 4252 of Title 42, The Public Health and Welfare.
 
 #### Executive Order No. 12013
 
@@ -830,7 +780,7 @@ Sec. 3. Executive Order No. 10033, as amended \[22 U.S.C. 286f note\], is furthe
 
 Sec. 4. (a) Executive Order No. 12013 is revoked.
 
-(b) Section 4 of Executive Order No. 11961, as amended \[22 U.S.C. 3101 note\], is further amended by deleting “the Secretary of Commerce shall perform the functions set forth in Sections 4(a)(3) and 5(c) of the Act” \[22 U.S.C. 3103(a)(3), 3104(c)\], and substituting therefor “the Secretary of Commerce shall perform the function of making periodic reports to the Committees of the Congress as set forth in Section 4(a)(3) of the Act” \[22 U.S.C. 3103(a)(3)\].
+(b) Section 4 of Executive Order No. 11961, as amended \[22 U.S.C. 3101 note\], is further amended by deleting “the Secretary of Commerce shall perform the functions set forth in Sections 4(a)(3) and 5(c) of the Act” \[22 U.S.C. 3103(a)(3), 3104(c)\], and substituting therefor“the Secretary of Commerce shall perform the function of making periodic reports to the Committees of the Congress as set forth in Section 4(a)(3) of the Act” \[22 U.S.C. 3103(a)(3)\].
 
 Sec. 5. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred or reassigned from the Secretary of Commerce to the Director of the Office of Management and Budget by the delegations made in this Order, are hereby transferred to the Director of the Office of Management and Budget.
 
@@ -948,7 +898,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12805, May 11, 1992, 57 F.R. 20627, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to coordinate and enhance governmental efforts to promote integrity and efficiency and to detect and prevent fraud, waste, and abuse in Federal programs, the establishment of two Councils of Federal Inspectors General and appropriate Federal officials is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to coordinate and enhance governmental efforts to promote integrity and efficiencyand to detect and prevent fraud, waste, and abuse in Federal programs, the establishment of two Councils of Federal Inspectors General and appropriate Federal officials is hereby ordered as follows:
 
 Section 1. <i>Establishment of the President's Council on Integrity and Efficiency.</i>
 
@@ -1048,7 +998,7 @@ Ex. Ord. No. 12837, Feb. 10, 1993, 58 F.R. 8205, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Budget and Accounting Act of 1921, as amended (31 U.S.C. 1101 <i>et seq</i>.), and section 301 of title 3, United States Code, and in order to assist in the control of the Federal deficit and improve the administrative productivity of the Federal Government, it is hereby ordered as follows:
 
-Section 1. All executive departments and agencies shall include a separate category for “administrative expenses” when submitting their appropriation requests to the Office of Management and Budget (OMB) for fiscal years 1994 through 1997. The Director of OMB (Director), in consultation with the agencies, shall establish and revise as necessary a definition of administrative expenses for the agencies. All questions regarding the definition of administrative expenses shall be resolved by the Director.
+Section 1. All executive departments and agencies shall include a separate category for “administrative expenses” when submitting their appropriation requests to the Office of Management and Budget (OMB) for fiscal years 1994 through 1997. The Director of OMB\(Director), in consultation with the agencies, shall establish and revise as necessary a definition of administrative expenses for the agencies. All questions regarding the definition of administrative expenses shall be resolved by the Director.
 
 Sec. 2. The purpose of this order is to achieve real reductions in the administrative costs of Federal agencies. In order to accomplish that goal, agencies shall submit budgets that reflect the following reductions from the fiscal year 1993 baseline:
 
@@ -1120,7 +1070,7 @@ Each executive department and agency with infrastructure responsibilities (herei
 
 (a) <i>Systematic Analysis of Expected Benefits and Costs</i>. Infrastructure investments shall be based on systematic analysis of expected benefits and costs, including both quantitative and qualitative measures, in accordance with the following:
 
-&emsp;(1) Benefits and costs should be quantified and monetized to the maximum extent practicable. All types of benefits and costs, both market and nonmarket, should be considered. To the extent that environmental and other nonmarket benefits and costs can be quantified, they shall be given the same weight as quantifiable market benefits and costs.
+&emsp;(1) Benefits and costs should be quantified and monetized to the maximum extent practicable. All typesof benefits and costs, both market and nonmarket, should be considered. To the extent that environmental and other nonmarket benefits and costs can be quantified, they shall be given the same weight as quantifiable market benefits and costs.
 
 &emsp;(2) Benefits and costs should be measured and appropriately discounted over the full life cycle of each project. Such analysis will enable informed tradeoffs among capital outlays, operating and maintenance costs, and nonmonetary costs borne by the public.
 

@@ -76,7 +76,3 @@ For purposes of this section, the term “hazardous chemical” has the meaning 
 
 The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), (2)(A)(i), (B) and (d)(1)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11022, 11041, 11042, 11043, 11044, 11045, 11046, 11049 of this title.
-

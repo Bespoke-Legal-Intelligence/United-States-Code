@@ -4,7 +4,3 @@ Within 30 days after the Secretary of State's receipt of notice from a Pacific I
 
 (Pub. L. 100–330, §18, June 7, 1988, 102 Stat. 600.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 973c, 973d of this title.
-

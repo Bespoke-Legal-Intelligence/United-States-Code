@@ -20,7 +20,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (3) Notice and hearing
 
-&emsp;No penalty shall be assessed or cease and desist order issued by the Secretary under this subsection unless the Secretary gives the person against whom the penalty is assessed or the order is issued notice and opportunity for a hearing before the Secretary with respect to such violation.
+&emsp;No penalty shall be assessed or cease and desist order issued by the Secretary under this subsection unless the Secretary gives the person against whom the penalty is assessed or the order is issued notice and opportunity fora hearing before the Secretary with respect to such violation.
 
 #### (4) Finality
 
@@ -57,8 +57,4 @@ If a person fails to pay an assessment of a civil penalty after it has become fi
 #### Amendments
 
 1991—Subsec. (d)(1)(A). Pub. L. 102–237 substituted “United States District Court” for “United States district court”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6106, 6108 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Required disclosures by creditor
 
-Before opening any account under an open end consumer credit plan, the creditor shall disclose to the person to whom credit is to be extendedeach of the following items, to the extent applicable:
+Before opening any account under an open end consumer credit plan, the creditor shall disclose to the person to whom credit is to be extended each of the following items, to the extent applicable:
 
 &emsp;(1) The conditions under which a finance charge may be imposed, including the time period (if any) within which any credit extended may be repaid without incurring a finance charge, except that the creditor may, at his election and without disclosure, impose no such finance charge if payment is received after the termination of such time period. If no such time period is provided, the creditor shall disclose such fact.
 
@@ -44,7 +44,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(8) The outstanding balance in the account at the end of the period.
 
-&emsp;(9) The date by which or the period (if any) within which, payment must be made to avoid additional finance charges, except that the creditor may, at his election and without disclosure, impose no such additional financecharge if payment is received after such date or the termination of such period.
+&emsp;(9) The date by which or the period (if any) within which, payment must be made to avoid additional finance charges, except that the creditor may, at his election and without disclosure, impose no such additional finance charge if payment is received after such date or the termination of such period.
 
 &emsp;(10) The address to be used by the creditor for the purpose of receiving billing inquiries from the obligor.
 
@@ -76,7 +76,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;&emsp;&emsp;(I) The date by which or the period within which any credit extended under such credit plan for purchases of goods or services must be repaid to avoid incurring a finance charge, and, if no such period is offered, such fact shall be clearly stated.
 
-&emsp;&emsp;&emsp;(II) If the length of such “grace period” varies, the card issuer may disclose the range of days in the grace period, the minimum number of days in the grace period, or the average number of days in the grace period, if the disclosure is identified as such.
+&emsp;&emsp;&emsp;(II) If the length of such “grace period” varies, the card issuer may disclose therange of days in the grace period, the minimum number of days in the grace period, or the average number of days in the grace period, if the disclosure is identified as such.
 
 #### (iv) Balance calculation method
 
@@ -128,7 +128,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 #### (B) Specific information
 
-&emsp;&emsp;An application or solicitation described in subparagraph (A) meets the requirement ofthis subparagraph if such application or solicitation contains—
+&emsp;&emsp;An application or solicitation described in subparagraph (A) meets the requirement of this subparagraph if such application or solicitation contains—
 
 &emsp;&emsp;&emsp;(i) the information—
 
@@ -358,7 +358,7 @@ For effective date of amendments by Pub. L. 100–709, see Regulations; Effectiv
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Effective Date of 1974 Amendment
 
@@ -385,10 +385,6 @@ Section 7 of Pub. L. 100–583 provided that: “Any regulation required to be p
 #### Reports to Congress
 
 Section 8 of Pub. L. 100–583 provided that: “Not later than 1 year after the regulations prescribed under section 7 of this Act \[set out as a note above\] become effective and annually thereafter, the Board of Governors of the Federal Reserve System shall transmit to the Congress a report containing an assessment by the Board of the profitability of credit card operations of depository institutions, including an analysis of any impact of the amendments made by this Act \[see Short Title of 1988 Amendment note under section 1601 of this title\] on such profitability.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78m, 1602, 1610, 1632, 1640, 1643, 1646, 1666, 1681s–2 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “conspicuously”.</i>
 

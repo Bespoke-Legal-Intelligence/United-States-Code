@@ -120,7 +120,7 @@ Pub. L. 108–183, title I, §101(d), Dec. 16, 2003, 117 Stat. 2653, provided th
 
 Pub. L. 108–183, title I, §101(e), Dec. 16, 2003, 117 Stat. 2653, provided that: “In the case of an individual who but for having remarried would be eligible for benefits under title 38, United States Code, by reason of the amendment made by subsection (a) \[amending this section\] and whose remarriage was before the date of the enactment of this Act \[Dec. 16, 2003\] and after the individual had attained age 57, the individual shall be eligible for such benefits by reason of such amendment only if the individual submits an application for such benefits to the Secretary of Veterans Affairs not later than the end of the one-year period beginning on the date of the enactment of this Act.”
 
-Pub. L. 107–330, title I, §101(b), Dec. 6, 2002, 116 Stat. 2821, as amended by Pub. L. 108–183, title I, §101(f), Dec. 16, 2003, 117 Stat. 2653, provided that: “In the case of an individual who but for having remarried would be eligible for medical care under section 1781 of title 38, United States Code, and whose remarriage was beforethe date of the enactment of this Act \[Dec. 6, 2002\] and after the individual had attained age 55, the individual shall be eligible for such medical care by reason of the amendments made by subsection (a) \[amending this section\] only if an application for such medical care is received by the Secretary of Veterans Affairs before the end of the one-year period beginning on the date of the enactment of the Veterans Benefits Act of 2003 \[Dec. 16, 2003\].”
+Pub. L. 107–330, title I, §101(b), Dec. 6, 2002, 116 Stat. 2821, as amended by Pub. L. 108–183, title I, §101(f), Dec. 16, 2003, 117 Stat. 2653, provided that: “In the case of an individual who but for having remarried would be eligible for medical care under section 1781 of title 38, United States Code, and whose remarriage was before the date of the enactment of this Act \[Dec. 6, 2002\] and after the individual had attained age 55, the individual shall be eligible for such medical care by reason of the amendments made by subsection (a) \[amending this section\] only if an application for such medical care is received by the Secretary of Veterans Affairs before the end of the one-year period beginning on the date of the enactment of the Veterans Benefits Act of 2003 \[Dec. 16, 2003\].”
 
 #### Limitation on Payments
 
@@ -147,8 +147,4 @@ Section 5 of Pub. L. 91–376, effective January 1, 1971, provided that:
 “(a) If a widow terminates a relationship or conduct which resulted in imposition of a prior restriction on payment of benefits, in the nature of inference or presumption of remarriage, or relating to open and notorious adulterous cohabitation or similar conduct, she shall not be denied any benefits by the Veterans’ Administration, other than insurance, solely because of such prior relationship or conduct.
 
 “(b) The effective date of an award of benefits resulting from enactment of subsection (a) of this section shall not be earlier than the date of receipt of application therefor, filed after termination of the particular relationship or conduct and after December 31, 1970.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1311, 5110 of this title.
 

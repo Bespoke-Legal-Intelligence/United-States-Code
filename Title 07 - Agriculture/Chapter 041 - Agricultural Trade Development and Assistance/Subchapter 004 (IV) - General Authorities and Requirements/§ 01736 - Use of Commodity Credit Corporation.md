@@ -68,7 +68,7 @@ Subsec. (a)(5). Pub. L. 94–161, §214(3), substituted “with other foreign as
 
 Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under section 1691 of this title.
 
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as a note under section 511r of this title.
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under section 940d of this title.
 
 #### Effective Date of 1966 Amendment
 
@@ -80,9 +80,5 @@ Pub. L. 99–198, title XI, §1107, Dec. 23, 1985, 99 Stat. 1467, as amended by 
 
 “(a) Notwithstanding any other provision of law, not less than one-tenth of 1 percent of the funds available for each of the fiscal years ending September 30, 1986 through September 30, 1990, to carry out the Agricultural Trade Development and Assistance Act of 1954 \[this chapter\] shall be used to carry out paragraphs (1) and (2) of section 406(a) of that Act \[7 U.S.C. 1736(a)(1), (2)\]. Any such funds used to carry out paragraph (2) of section 406(a) shall not constitute more than one-fourth of the funds used as provided by the first sentence of this subsection, shall be used for activities in direct support of the farmer-to-farmer program under paragraph (1) of section 406(a), and shall be administered whenever possible in conjunction with programs under sections 296 through 300 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2220a–2220e\].
 
-“(b) Not later than 120 days after the date of enactment of this Act \[Dec. 23, 1985\], the Administrator ofthe Agency for International Development, in conjunction with the Secretary of Agriculture, shall submit to Congress a report indicating the manner in which the Agency intends to implement the provisions of paragraphs (1) and (2) of section 406(a) of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1736(a)(1), (2)\] with the funds made available under subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1431, 1736<i>o</i> of this title; title 22 section 5423.
+“(b) Not later than 120 days after the date of enactment of this Act \[Dec. 23, 1985\], the Administrator of the Agency for International Development, in conjunction with the Secretary of Agriculture, shall submit to Congress a report indicating the manner in which the Agency intends to implement the provisions of paragraphs (1) and (2) of section 406(a) of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1736(a)(1), (2)\] with the funds made available under subsection (a).”
 

@@ -24,11 +24,7 @@ Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-wa
 
 #### Extension of Time To Complete Railroad
 
-The time of the Western Alaska Construction Company to comply with the provisions of this section and section 942–6 of this title, in acquiring and completing its railroad, was extended by act Apr. 9, 1904, ch. 1165, 33 Stat. 165.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 942–1, 942–3, 942–5, 942–6, 942–7, 942–8 of this title; title 16 section 3215.
+The time of the Western Alaska Construction Company to comply with the provisions of this section andsection 942–6 of this title, in acquiring and completing its railroad, was extended by act Apr. 9, 1904, ch. 1165, 33 Stat. 165.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

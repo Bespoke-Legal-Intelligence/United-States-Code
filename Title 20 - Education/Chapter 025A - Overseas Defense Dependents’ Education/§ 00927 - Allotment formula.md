@@ -30,19 +30,21 @@ Any regulation under subsection (a) of this section shall be issued, and shall b
 
 #### (2) Infants and toddlers with disabilities
 
-&emsp;The responsibility to provide comparable early intervention services to infants and toddlers with disabilities and their families in accordance with individualized family service plans described in section 677 <sup>1</sup> of the Individuals with Disabilities Education Act and to comply with the procedural safeguards set forth in part H <sup>1</sup> of such Act shall apply with respect to all eligible dependents overseas.
+&emsp;The responsibility to provide comparable early intervention services to infants and toddlers with disabilities and their families in accordance with individualized family service plans described in section 636 of the Individuals with Disabilities Education Act \[20 U.S.C. 1436\] and to comply with the procedural safeguards set forth in part C of such Act \[20 U.S.C. 1431 et seq.\] shall apply with respect to all eligible dependents overseas.
 
 #### (3) Implementation
 
 &emsp;In carrying out paragraph (2), the Secretary shall have in effect a comprehensive, coordinated, multidisciplinary program of early intervention services for infants and toddlers with disabilities among Department of Defense entities involved in the provision of such services to such individuals.
 
-(Pub. L. 95–561, title XIV, §1409, Nov. 1, 1978, 92 Stat. 2369; Pub. L. 102–119, §24, Oct. 7, 1991, 105 Stat. 605; Pub. L. 106–65, div. A, title III, §354(3), Oct. 5, 1999, 113 Stat. 573.)
+(Pub. L. 95–561, title XIV, §1409, Nov. 1, 1978, 92 Stat. 2369; Pub. L. 102–119, §24, Oct. 7, 1991, 105 Stat. 605; Pub. L. 106–65, div. A, title III, §354(3), Oct. 5, 1999, 113 Stat. 573; Pub. L. 108–446, title III, §305(b), Dec. 3, 2004, 118 Stat. 2804.)
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c)(1), (2), is title VI of Pub. L., 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. Part H of the Act and section 677 of the Act were classified generally to subchapter VIII (§1471 et seq.) of chapter 33 of this title and section 1477 of this title, respectively, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(1), (2), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts B and C of the Act are classified generally to subchapters II (§1411 et seq.) and III (§1431 et seq.), respectively, of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (c)(2). Pub. L. 108–446 substituted “section 636” for “section 677” and “part C” for “part H”.
 
 1999—Subsec. (b). Pub. L. 106–65, §354(3)(A), substituted “Secretary of Education” for “Department of Health, Education, and Welfare” and made technical amendment to reference in original act which appears in text as reference to section 1232 of this title.
 
@@ -71,6 +73,4 @@ and 18.—The amendments made by sections 5, 12, 13, 14, 15, 17, and 18 \[amendi
 “(c)
 
 Remaining Provisions.—The remaining sections of this Act \[enacting section 1484a of this title, amending this section, sections 241, 1087ee, 1400 to 1402, 1404, 1405, 1407, 1411 to 1417, 1419, 1421 to 1425, 1431 to 1433, 1435, 1442, 1443, 1451, 1452, 1461, 1471 to 1473, and 1475 to 1485 of this title, sections 2503 and 2504 of Title 25, Indians, sections 721, 774, 777a, 795m, and 796d of Title 29, Labor, and sections 1396b, 1396n, 6022, 6024, 9835, 9855d, 9862, and 9886 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 1400 and 1484 of this title\] and the amendments made by such sections shall take effect on the date of the enactment of this Act \[Oct. 7, 1991\].”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

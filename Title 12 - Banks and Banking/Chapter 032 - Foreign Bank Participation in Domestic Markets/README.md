@@ -62,10 +62,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 619, 1813, 3902 of this title; title 15 section 78c; title 31 sections 3121, 9110.
-
 
 ---
 

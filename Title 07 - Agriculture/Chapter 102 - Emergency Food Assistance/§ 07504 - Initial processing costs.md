@@ -12,7 +12,3 @@ The Secretary may use funds of the Commodity Credit Corporation to pay costs of 
 
 Section 2 of Pub. L. 98–92 provided in part that this section is effective Oct. 1, 1983.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7505, 7509 of this title.
-

@@ -44,7 +44,3 @@ Subsec. (d). Pub. L. 107–73, §206(2), added subsec. (d).
 
 Pub. L. 108–186, title III, §301(b), Dec. 16, 2003, 117 Stat. 2692, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to mortgages executed on or after the date of the enactment of this title \[Dec. 16, 2003\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1709 of this title; title 38 sections 3707, 3707A.
-

@@ -4,7 +4,3 @@ The Secretary of State is authorized, notwithstanding any other provision of law
 
 (July 27, 1953, ch. 242, §1, 67 Stat. 195.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 277d–11 of this title.
-

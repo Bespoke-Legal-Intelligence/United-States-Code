@@ -20,7 +20,3 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 Amendment by Pub. L. 92–197 effective Jan. 1, 1972, see section 10 of Pub. L. 92–197, set out as a note under section 1311 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1142, 5313 of this title.
-

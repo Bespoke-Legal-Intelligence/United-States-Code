@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in coordination with the Secretary of Agriculture, the Attorney General, the Director of Central Intelligence, the Secretary of Defense, the Secretary of Energy, the Administrator of the Environmental Protection Agency, the Director of the Federal Emergency Management Agency, the Secretary of Labor, the Secretary of Veterans Affairs, and with other similar Federal officials as determined appropriate, shall establish a working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies. Such joint working group, or subcommittees thereof, shall meetperiodically for the purpose of consultation on, assisting in, and making recommendations on—
+&emsp;The Secretary, in coordination with the Secretary of Agriculture, the Attorney General, the Director of Central Intelligence, the Secretary of Defense, the Secretary of Energy, the Administrator of the Environmental Protection Agency, the Director of the Federal Emergency Management Agency, the Secretary of Homeland Security, the Secretary of Labor, the Secretary of Veterans Affairs, and with other similar Federal officials as determined appropriate, shall establish a working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies. Such joint working group, or subcommittees thereof, shall meet periodically for the purpose of consultation on, assisting in, and making recommendations on—
 
 &emsp;&emsp;(A) responding to a bioterrorist attack, including the provision of appropriate safety and health training and protective measures for medical, emergency service, and other personnel responding to such attacks;
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;(ii) needed changes to the health care and emergency medical service systems and emergency medical services protocols to meet the special needs of children; and
 
-&emsp;&emsp;&emsp;(iii) changes, if necessary, to the national stockpile under section 300hh–12 ofthis title to meet the emergency health security of children.
+&emsp;&emsp;&emsp;(iii) changes, if necessary, to the national stockpile under section 300hh–12 of this title to meet the emergency health security of children.
 
 #### (C) Composition
 
@@ -208,7 +208,7 @@ The Secretary shall ensure that the Department of Health and Human Services is a
 
 &emsp;&emsp;(A) a priority to treat, identify, or prevent infection by a biological agent or toxin listed pursuant to section 262a(a)(1) of this title, or harm from any other agent that may cause a public health emergency; or
 
-&emsp;&emsp;(B) a priority to diagnose conditions that may result in adverse health consequences or death and may be caused by the administering of a drug, biological product, device, vaccine, vaccine adjuvant, antiviral, or diagnostic test that is a priority under subparagraph (A).
+&emsp;&emsp;(B) a priority to treat, identify, or prevent conditions that may result in adverse health consequences or death and may be caused by the administering of a drug, biological product, device, vaccine, vaccine adjuvant, antiviral, or diagnostic test that is a priority under subparagraph (A).
 
 #### (i) General Accounting Office report
 
@@ -226,9 +226,13 @@ Not later than 180 days after November 13, 2000, the Comptroller General shall s
 
 Funds appropriated under this section shall be used to supplement and not supplant other Federal, State, and local public funds provided for activities under this section.
 
-(July 1, 1944, ch. 373, title III, §319F, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2321; amended Pub. L. 107–188, title I, §§104(a) 105, 108, 111(3), 125, June 12, 2002, 116 Stat. 605, 606, 609, 611, 614.)
+(July 1, 1944, ch. 373, title III, §319F, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2321; amended Pub. L. 107–188, title I, §§104(a) 105, 108, 111(3), 125, June 12, 2002, 116 Stat. 605, 606, 609, 611, 614; Pub. L. 108–276, §2(d), July 21, 2004, 118 Stat. 842.)
 
 #### Amendments
+
+2004—Subsec. (a)(1). Pub. L. 108–276, §2(d)(1), inserted “the Secretary of Homeland Security,” after “Management Agency,” in introductory provisions.
+
+Subsec. (h)(4)(B). Pub. L. 108–276, §2(d)(2), substituted “to treat, identify, or prevent conditions” for “to diagnose conditions”.
 
 2002—Subsec. (a). Pub. L. 107–188, §108, added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary, in coordination with the Secretary of Defense, shall establish a joint interdepartmental working group on preparedness and readiness for the medical and public health effects of a bioterrorist attack on the civilian population. Such joint working group shall—
 
@@ -276,13 +280,15 @@ Subsec. (j). Pub. L. 107–188, §104(a)(2), redesignated subsec. (h) as (j).
 
 #### Change of Name
 
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
+General Accounting Office redesignated Government Accountability Office by section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
+
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-For transfer of functions, personnel, assets, and liabilities of the Strategic National Stockpile of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(6), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of functions, personnel, assets, and liabilities of the National Domestic Preparedness Office of the Federal Bureau of Investigation, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(3), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
@@ -311,8 +317,4 @@ In general.—Not later than one year after the date of the enactment of this Ac
 #### Study Regarding Communications Abilities of Public Health Agencies
 
 Pub. L. 107–188, title I, §104(b), June 12, 2002, 116 Stat. 606, provided that: “The Secretary of Health and Human Services, in consultation with the Federal Communications Commission, the National Telecommunications and Information Administration, and other appropriate Federal agencies, shall conduct a study to determine whether local public health entities have the ability to maintain communications in the event of a bioterrorist attack or other public health emergency. The study shall examine whether redundancies are required in the telecommunications system, particularly with respect to mobile communications, for public health entities to maintain systems operability and connectivity during such emergencies. The study shall also include recommendations to industry and public health entities about how to implement such redundancies if necessary.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 247d–7c, 247d–7d, 300hh–12, 300hh–13, 7257d of this title; title 21 section 356–1; title 38 sections 7325, 8117.
 

@@ -28,7 +28,3 @@ Whenever United States Armed Forces are introduced into hostilities or into any 
 
 (Pub. L. 93–148, §4, Nov. 7, 1973, 87 Stat. 555.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1544 of this title.
-

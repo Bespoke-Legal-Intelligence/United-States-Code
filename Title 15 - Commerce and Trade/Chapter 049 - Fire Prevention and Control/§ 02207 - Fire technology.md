@@ -102,7 +102,3 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2216 of this title.
-

@@ -10,7 +10,7 @@ Part I—Selection System
 - [&sect; 01152 - Numerical limitations on individual foreign states](%C2%A7%2001152%20-%20Numerical%20limitations%20on%20individual%20foreign%20states.md)
 - [&sect; 01153 - Allocation of immigrant visas](%C2%A7%2001153%20-%20Allocation%20of%20immigrant%20visas.md)
 - [&sect; 01154 - Procedure for granting immigrant status](%C2%A7%2001154%20-%20Procedure%20for%20granting%20immigrant%20status.md)
-- [&sect; 01155 - Revocation of approval of petitions; notice of revocation; effective date](%C2%A7%2001155%20-%20Revocation%20of%20approval%20of%20petitions%3B%20notice%20of%20revocation%3B%20effective%20date.md)
+- [&sect; 01155 - Revocation of approval of petitions; effective date](%C2%A7%2001155%20-%20Revocation%20of%20approval%20of%20petitions%3B%20effective%20date.md)
 - [&sect; 01156 - Unused immigrant visas](%C2%A7%2001156%20-%20Unused%20immigrant%20visas.md)
 - [&sect; 01157 - Annual admission of refugees and admission of emergency situation refugees](%C2%A7%2001157%20-%20Annual%20admission%20of%20refugees%20and%20admission%20of%20emergency%20situation%20refugees.md)
 - [&sect; 01158 - Asylum](%C2%A7%2001158%20-%20Asylum.md)

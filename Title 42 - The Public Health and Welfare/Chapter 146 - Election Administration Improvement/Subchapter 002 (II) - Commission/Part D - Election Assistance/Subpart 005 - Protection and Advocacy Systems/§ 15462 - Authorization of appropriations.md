@@ -14,7 +14,3 @@ Any amounts appropriated pursuant to the authority of this section shall remain 
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (a), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15461 of this title.
-

@@ -4,7 +4,7 @@
 
 There is established an Interagency Committee on Dam Safety—
 
-&emsp;(1) comprised of a representative of each of the Department of Agriculture, the Department of Defense, the Department of Energy,the Department of the Interior, the Department of Labor, FEMA, the Federal Energy Regulatory Commission, the Nuclear Regulatory Commission, the Tennessee Valley Authority, and the United States Section of the International Boundary Commission; and
+&emsp;(1) comprised of a representative of each of the Department of Agriculture, the Department of Defense, the Department of Energy, the Department of the Interior, the Department of Labor, FEMA, the Federal Energy Regulatory Commission, the Nuclear Regulatory Commission, the Tennessee Valley Authority, and the United States Section of the International Boundary Commission; and
 
 &emsp;(2) chaired by the Director.
 
@@ -31,8 +31,4 @@ A prior section 7 of Pub. L. 92–367 was classified to section 467f of this tit
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 467, 467f, 467j of this title.
 

@@ -8,7 +8,3 @@ It is the object of this section and sections 228b to 228j of this title to prov
 
 For short title of this section and sections 228b to 228j of this title as the “Grand Canyon National Park Enlargement Act”, see Short Title note set out under section 221 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 227, 228b to 228i, 228j of this title.
-

@@ -14,7 +14,3 @@ An officer or employee of the United States or of any State or local government 
 
 (Pub. L. 100–478, title II, §2205, Oct. 7, 1988, 102 Stat. 2320.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4224, 4246 of this title.
-

@@ -1,5 +1,5 @@
 
-43 U.S.C.<br>United States Code, 2003 Edition<br>Title 43 - PUBLIC LANDS<br>From the U.S. Government Publishing Office, www.gpo.gov
+43 U.S.C.<br>United States Code, 2004 Edition<br>Title 43 - PUBLIC LANDS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 43—PUBLIC LANDS
 
@@ -10,7 +10,7 @@
 | [<b>3.</b>](Chapter%20003%20-%20Surveys/README.md) | <b>Surveys</b> | <b>51</b> |
 | [<b>4.</b>](Chapter%20004%20-%20District%20Land%20Offices/README.md) | <b>District Land Offices</b> | <b>70</b> |
 | [<b>5</b>](Chapter%20005%20-%20Land%20Districts/README.md) | <b>Land Districts</b> | <b>121</b> |
-| [<b>6.</b>](Chapter%20006%20-%20Withdrawal%20from%20Settlement%2C%20Location%2C%20Sale%2C%20or%20Entry/README.md) | <b>Withdrawal from Settlement, Location, Sale, or Entry</b> | <b>141</b> |
+| [<b>6.</b>](Chapter%20006%20-%20Withdrawal%20from%20Settlement%2C%20Location%2C%20Sale%2C%20or%20Entry/README.md) | <b>Withdrawal From Settlement, Location, Sale, or Entry</b> | <b>141</b> |
 | [<b>7.</b>](Chapter%20007%20-%20Homesteads/README.md) | <b>Homesteads</b> | <b>161</b> |
 | [<b>8.</b>](Chapter%20008%20-%20Timber%20and%20Stone%20Lands/README.md) | <b>Timber and Stone Lands \[Repealed\]</b> | <b>311</b> |
 | [<b>8A.</b>](Chapter%20008A%20-%20Grazing%20Lands/README.md) | <b>Grazing Lands</b> | <b>315</b> |

@@ -1,9 +1,5 @@
 Part C—Smallpox Emergency Personnel Protection
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 233 of this title.
-
 
 ---
 

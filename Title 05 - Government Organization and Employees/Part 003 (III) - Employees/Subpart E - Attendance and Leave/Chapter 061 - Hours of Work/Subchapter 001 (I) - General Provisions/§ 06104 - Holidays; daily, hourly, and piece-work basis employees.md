@@ -58,7 +58,3 @@ Ex. Ord. No. 10552, Aug. 10, 1954, 19 F.R. 5079, as amended by Ex. Ord. No. 1210
 
 By virtue of the authority vested in me by section 301 of title 3 of the United States Code, 65 Stat. 713, it is declared that the Office of Personnel Management be, and it is hereby, designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by the joint resolution of June 29, 1938, 52 Stat. 1246, as amended by the act of June 11, 1954, 68 Stat. 249 \[this section\], to promulgate regulations under which certain employees of the Government may be prevented or relieved from working by administrative order.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6124 of this title.
-

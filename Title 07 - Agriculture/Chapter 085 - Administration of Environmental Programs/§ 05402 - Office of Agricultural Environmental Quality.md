@@ -46,7 +46,3 @@ The Office shall be administered by a director who shall be appointed by the Sec
 
 (Pub. L. 101–624, title XIV, §1472, Nov. 28, 1990, 104 Stat. 3619.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5401, 5506 of this title.
-

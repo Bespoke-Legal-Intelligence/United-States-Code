@@ -12,7 +12,7 @@ The Center shall—
 
 > &emsp;in efforts to improve the rate of productivity growth in all sectors of the Nation's economy;
 
-&emsp;(3) seek, stimulate, and encourage maximum active participation of the public agencies and private organizations identified in clause (2) of this section through identification and encouragement of selected research and demonstration programs implemented by public agencies and qualified private organizations which will—
+&emsp;(3) seek, stimulate, and encourage maximum active participation of the public agencies andprivate organizations identified in clause (2) of this section through identification and encouragement of selected research and demonstration programs implemented by public agencies and qualified private organizations which will—
 
 &emsp;&emsp;(A) increase the rate of productivity growth in the public and private sectors of the national economy through improved and innovative utilization of technological and human resources; and
 
@@ -56,5 +56,5 @@ The Center shall—
 
 #### Transfer of Functions
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in par. (4)(D) pursuant to Reorg. Plan No. 2 of 1978, §102, 43F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in par. (4)(D) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 

@@ -6,7 +6,3 @@
 
 (Pub. L. 92–573, §21, Oct. 27, 1972, 86 Stat. 1225.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2055 of this title.
-

@@ -108,7 +108,7 @@ Subsec. (a)(2)(F). Pub. L. 100–532, §§601(b)(2)(B), 801(g), substituted “t
 
 Subsec. (a)(2)(J). Pub. L. 100–532, §801(q)(2)(B), made a technical amendment to the reference to section 136a–1 of this title to reflect the renumbering of the corresponding section of the original act.
 
-Pub. L. 100–532, §603(2)(B), added subpar. (J) and struck out former subpar. (J) which read as follows: “toviolate any suspension order issued under section 136d of this title;”.
+Pub. L. 100–532, §603(2)(B), added subpar. (J) and struck out former subpar. (J) which read as follows: “to violate any suspension order issued under section 136d of this title;”.
 
 Subsec. (a)(2)(K). Pub. L. 100–532, §603(2)(B), added subpar. (K) and struck out former subpar. (K) which read as follows: “to violate any cancellation of registration of a pesticide under section 136d of this title, except as provided by section 136d(a)(1) of this title;”.
 

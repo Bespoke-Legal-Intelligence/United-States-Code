@@ -14,9 +14,9 @@ R.S. §1821 derived from acts Mar. 2, 1867, ch. 167, §2, 14 Stat. 466; Mar. 3, 
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–7 struck out last sentence which read as follows: “The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.”
+2003—Pub. L. 108–7 struck out last sentence which read as follows: “The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.”
 
-<b>1979</b>—Pub. L. 96–152 inserted last sentence providing that the Capitol Police be headed by a Chief who shall be appointed by the Capitol Police Board and who shall serve at the pleasure of the Board.
+1979—Pub. L. 96–152 inserted last sentence providing that the Capitol Police be headed by a Chief who shall be appointed by the Capitol Police Board and who shall serve at the pleasure of the Board.
 
 #### Effective Date of 2003 Amendment
 
@@ -82,7 +82,7 @@ Meetings.—The Capitol Police Board shall document Board meetings and make the 
 
 “(e)
 
-Assistance of Comptroller General.—Upon request, the Comptroller General shall provide assistanceto the Capitol Police Board in carrying out its responsibilities under this subsection \[probably should be “section”\].
+Assistance of Comptroller General.—Upon request, the Comptroller General shall provide assistance to the Capitol Police Board in carrying out its responsibilities under this subsection \[probably should be “section”\].
 
 “(f)
 
@@ -92,7 +92,7 @@ References in Law; Effect on Other Laws.—(1) Any reference in any law or resol
 
 #### Transfer of Library of Congress Police to Capitol Police
 
-Pub. L. 108–83, title I, §1006, Sept. 30, 2003, 117 Stat. 1023, provided that:
+Pub. L. 108–83, title I, §1006, Sept. 30, 2003, 117 Stat. 1023, as amended by Pub. L. 108–447, div. G, title I, §1002, Dec. 8, 2004, 118 Stat. 3179, provided that:
 
 “(a)
 
@@ -138,19 +138,27 @@ In general.—The Librarian of Congress may select individuals to be submitted t
 
 &emsp;&emsp;“(B)
 
-Hiring.—If an individual submitted under subparagraph (A) meets all qualifications to be a member of the Capitol Police, the Chief of the Capitol Police shall hire that individual as a member of the Capitol Police.
+Hiring.—If an individual submitted under subparagraph (A) meets all qualifications to be a member of the Capitol Police, the Chief of the Capitol Police shall hire that individual as a member of the Capitol Police. The Chief of Police may hire individuals under this subsection who are not submitted for selection under this subparagraph. All hirings under this subparagraph shall comply with the limitations under this paragraph for any fiscal year.
 
 &emsp;&emsp;“(C)
 
-Limitation.—During fiscal year 2004, the number of individuals hired under this subsection may not exceed the total of—
+Limitation for fiscal year 2004.—During fiscal year 2004, the number of individuals hired under this subsection may not exceed the total of—
 
 &emsp;&emsp;&emsp;“(i) 23 individuals; and
 
 &emsp;&emsp;&emsp;“(ii) the number of Library of Congress Police employees who separate from service or transfer to a position other than a Library of Congress Police employee position.
 
+&emsp;&emsp;“(D)
+
+Limitation for fiscal year 2005.—During fiscal year 2005, the number of individuals hired under this subsection may not exceed—
+
+&emsp;&emsp;&emsp;“(i) the number of Library of Congress Police employees who separated from service or transferred to a position other than a Library of Congress Police employee position during fiscal year 2004 for whom a corresponding hire was not made under this subsection; and
+
+&emsp;&emsp;&emsp;“(ii) the number of Library of Congress Police employees who separate from service or transfer to a position other than a Library of Congress Police employee position during fiscal year 2005.
+
 &emsp;“(4)
 
-Training and detailing.—An individual hired under this subsection shall receive necessary training, including training by the Library of Congress Police, and be detailed to the Library of Congress Police.
+Training and detailing.—Notwithstanding subsection (a)(1)(C), the Chief of the Capitol Police may detail an individual hired under this subsection to the Library of Congress Police on a nonreimbursable basis. Any individual detailed under this subsection shall receive necessary training, including training by the Library of Congress Police.
 
 &emsp;“(5)
 
@@ -214,7 +222,7 @@ Plan.—Not later than 180 days after the date of enactment of this section \[Fe
 
 &emsp;&emsp;&emsp;“(ii) establishing dates by which Library of Congress personnel and functions authorized to be transferred under subsection (a)(1) shall be transferred to the United States Capitol Police;
 
-&emsp;&emsp;&emsp;“(iii) in consultation with the Librarian of Congress, providing for the performance of law enforcement and protection functions relating to the buildings and grounds of the Library of Congress, including collections security, within theoverall security responsibilities of the United States Capitol Police;
+&emsp;&emsp;&emsp;“(iii) in consultation with the Librarian of Congress, providing for the performance of law enforcement and protection functions relating to the buildings and grounds of the Library of Congress, including collections security, within the overall security responsibilities of the United States Capitol Police;
 
 &emsp;&emsp;&emsp;“(iv) recommending legislative changes needed to implement the transfers under subsection (a)(1), including—
 
@@ -346,7 +354,7 @@ Mar. 20, 1922, ch. 103, 42 Stat. 429.
 
 #### Capitol Police Civilian Support Positions With Respect to the House of Representatives
 
-House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392, title I, §102, Oct. 6, 1992, 106 Stat. 1710, and amended by Pub. L. 104–186, title II, §221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions,provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight \[now Committee on House Administration\] to prescribe regulations to carry out this provision.
+House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392, title I, §102, Oct. 6, 1992, 106 Stat. 1710, and amended by Pub. L. 104–186, title II, §221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight \[now Committee on House Administration\] to prescribe regulations to carry out this provision.
 
 #### Director of Employment Practices Under Capitol Police Board
 

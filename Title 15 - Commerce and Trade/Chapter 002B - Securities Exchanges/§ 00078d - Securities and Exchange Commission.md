@@ -20,7 +20,7 @@ There is hereby established a Securities and Exchange Commission (hereinafter re
 
 #### (c) Acceptance of travel support for Commission activities from non-Federal sources; regulations
 
-Notwithstanding any other provision of law, in accordance with regulations which the Commission shall prescribe to prevent conflicts of interest, the Commission may accept payment and reimbursement, in cash or in kind, from non-Federal agencies, organizations, and individualsfor travel, subsistence, and other necessary expenses incurred by Commission members and employees in attending meetings and conferences concerning the functions or activities of the Commission. Any payment or reimbursement accepted shall be credited to the appropriated funds of the Commission. The amount of travel, subsistence, and other necessary expenses for members and employees paid or reimbursed under this subsection may exceed per diem amounts established in official travel regulations, but the Commission may include in its regulations under this subsection a limitation on such amounts.
+Notwithstanding any other provision of law, in accordance with regulations which the Commission shall prescribe to prevent conflicts of interest, the Commission may accept payment and reimbursement, in cash or in kind, from non-Federal agencies, organizations, and individuals for travel, subsistence, and other necessary expenses incurred by Commission members and employees in attending meetings and conferences concerning the functions or activities of the Commission. Any payment or reimbursement accepted shall be credited to the appropriated funds of the Commission. The amount of travel, subsistence, and other necessary expenses for members and employees paid or reimbursed under this subsection may exceed per diem amounts established in official travel regulations, but the Commission may include in its regulations under this subsection a limitation on such amounts.
 
 #### (d) Acceptance of relocation expenses from former employers by professional fellows program participants
 
@@ -123,10 +123,6 @@ After investigation I have found and hereby declare that each reorganization inc
 The taking effect of the reorganizations included in this plan may not in itself result in substantial immediate savings. However, many benefits in improved operations are probable during the next years which will result in a reduction in expenditures as compared with those that would be otherwise necessary. An itemization of these reductions in advance of actual experience under this plan is not practicable.
 
 Harry S. Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77uuu, 78c, 79z–5, 80a–45, 80b–18 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Notwithstanding”.</i>
 

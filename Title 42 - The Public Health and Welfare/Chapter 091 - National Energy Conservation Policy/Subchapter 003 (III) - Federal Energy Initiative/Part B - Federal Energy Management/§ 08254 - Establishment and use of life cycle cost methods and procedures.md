@@ -24,11 +24,7 @@ The Secretary shall make available information to the public on the use of life 
 
 1992—Subsec. (a). Pub. L. 102–486, §152(d)(1), substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-Subsec. (b)(2). Pub. L. 102–486, §152(d)(2), substituted “agency shall, after January 1, 1994, fully consider the efficiency of all potential building space at the time of renewing or entering into a new lease.” for “agency shall give appropriate preference to buildings which minimize life cycle costs.”
+Subsec. (b)(2). Pub. L. 102–486, §152(d)(2), substituted “agency shall, after January 1, 1994, fully consider the efficiency of all potential building space at the time of renewing or entering into a new lease.” for “agencyshall give appropriate preference to buildings which minimize life cycle costs.”
 
 1988—Pub. L. 100–615 amended section generally, substituting provisions relating to establishment and use of life cycle cost methods and procedures for provisions defining terms (1) Secretary, (2) life cycle cost, (3) preliminary energy audit, (4) energy survey, (5) Federal building, (6) construction, and (7) energy performance target.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8253, 8258b, 8262g, 8262j of this title; title 10 sections 2394a, 2857.
 

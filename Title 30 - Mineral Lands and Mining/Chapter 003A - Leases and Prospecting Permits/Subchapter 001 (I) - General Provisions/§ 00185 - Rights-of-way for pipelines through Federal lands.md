@@ -24,7 +24,7 @@ The width of a right-of-way shall not exceed fifty feet plus the ground occupied
 
 #### (e) Temporary permits
 
-A right-of-way may be supplemented by such temporary permits for the use of Federal lands in the vicinity of the pipeline as the Secretaryor agency head finds are necessary in connection with construction, operation, maintenance, or termination of the pipeline, or to protect the natural environment or public safety.
+A right-of-way may be supplemented by such temporary permits for the use of Federal lands in the vicinity of the pipeline as the Secretary or agency head finds are necessary in connection with construction, operation, maintenance, or termination of the pipeline, or to protect the natural environment or public safety.
 
 #### (f) Regulatory authority
 
@@ -38,7 +38,7 @@ The Secretary or agency head shall impose requirements for the operation of the 
 
 (1) Nothing in this section shall be construed to amend, repeal, modify, or change in any way the requirements of section 102(2)(C) \[42 U.S.C. 4332(2)(C)\] or any other provision of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
 
-(2) The Secretary or agency head, prior to granting a right-of-way or permit pursuant to this section for a new project which may have a significant impact on the environment, shall require the applicant to submit a plan of construction, operation, and rehabilitation for such right-of-way or permit which shall comply with this section. The Secretary or agency head shall issue regulations or impose stipulations which shall include, but shall not be limited to: (A) requirements for restoration, revegetation, and curtailment of erosion of the surface of the land; (B) requirements to insure that activities in connection with the right-of-way or permit will not violate applicable air and water quality standards nor related facility siting standards established by or pursuant to law; (C) requirements designed to control or prevent (i) damage to the environment (including damage to fish and wildlife habitat), (ii) damage to public or private property, and (iii) hazards to public health and safety; and (D) requirements to protect the interests of individuals living in the general area of the right-of-way or permit who rely on the fish, wildlife, and biotic resources of the area for subsistence purposes. Such regulations shall be applicable to every right-of-way or permit granted pursuant to this section, and may be made applicable by the Secretary or agency head to existing rights-of-way or permits, or rights-of-way or permits to be renewed pursuant to this section.
+(2) The Secretary or agency head, prior to granting a right-of-way or permit pursuant to this section for a new project which may have a significant impact on the environment, shall require the applicant to submit a plan of construction, operation, and rehabilitation for such right-of-way or permit which shall comply with this section. The Secretary or agency head shall issue regulations or impose stipulations which shall include, but shall not be limited to: (A) requirements for restoration, revegetation, and curtailment of erosion of the surface of the land; (B) requirements to insure that activities in connection with the right-of-way or permit will not violate applicable air and water quality standards nor related facility siting standards established by or pursuant to law; (C) requirements designed to control or prevent (i) damage to the environment (including damage to fish and wildlife habitat), (ii) damage to public orprivate property, and (iii) hazards to public health and safety; and (D) requirements to protect the interests of individuals living in the general area of the right-of-way or permit who rely on the fish, wildlife, and biotic resources of the area for subsistence purposes. Such regulations shall be applicable to every right-of-way or permit granted pursuant to this section, and may be made applicable by the Secretary or agency head to existing rights-of-way or permits, or rights-of-way or permits to be renewed pursuant to this section.
 
 #### (i) Disclosure
 
@@ -78,7 +78,7 @@ In order to minimize adverse environmental impacts and the proliferation of sepa
 
 #### (q) Statutes
 
-No rights-of-way for the purposes provided for in this section shall be granted or renewed across Federal lands except under and subject to the provisions, limitations, and conditions of this section. Any application for a right-of-way filed under any other law prior to the effective date of this provision may, at the applicant's option, be considered as an application under this section. The Secretary or agency head may require the applicant to submit any additional information he deems necessary to comply with the requirements of this section.
+No rights-of-way for the purposes provided for in this section shall be granted or renewed across Federal lands except under and subject to the provisions, limitations, and conditions of this section. Any application for a right-of-wayfiled under any other law prior to the effective date of this provision may, at the applicant's option, be considered as an application under this section. The Secretary or agency head may require the applicant to submit any additional information he deems necessary to comply with the requirements of this section.
 
 #### (r) Common carriers
 
@@ -100,7 +100,7 @@ No rights-of-way for the purposes provided for in this section shall be granted 
 
 #### (s) Exports of Alaskan North Slope oil
 
-(1) Subject to paragraphs (2) through (6) of this subsection and notwithstanding any other provision of this chapter or any other provision of law (including any regulation) applicable to theexport of oil transported by pipeline over right-of-way granted pursuant to section 1652 of title 43, such oil may be exported unless the President finds that exportation of this oil is not in the national interest. The President shall make his national interest determination within five months of November 28, 1995. In evaluating whether exports of this oil are in the national interest, the President shall at a minimum consider—
+(1) Subject to paragraphs (2) through (6) of this subsection and notwithstanding any other provision of this chapter or any other provision of law (including any regulation) applicable to the export of oil transported by pipeline over right-of-way granted pursuant to section 1652 of title 43, such oil may be exported unless the President finds that exportation of this oil is not in the national interest. The President shall make his national interest determination within five months of November 28, 1995. In evaluating whether exports of this oil are in the national interest, the President shall at a minimum consider—
 
 &emsp;(A) whether exports of this oil would diminish the total quantity or quality of petroleum available to the United States;
 
@@ -112,7 +112,7 @@ No rights-of-way for the purposes provided for in this section shall be granted 
 
 (2) Except in the case of oil exported to a country with which the United States entered into a bilateral international oil supply agreement before November 26, 1979, or to a country pursuant to the International Emergency Oil Sharing Plan of the International Energy Agency, any oil transported by pipeline over right-of-way granted pursuant to section 1652 of title 43 shall, when exported, be transported by a vessel documented under the laws of the United States and owned by a citizen of the United States (as determined in accordance with sections 802 and 803 of title 46, Appendix).
 
-(3) Nothing in this subsection shall restrict the authority of the President under the Constitution, the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), the National Emergencies Act (50 U.S.C. 1601 et seq.), or Part B of title II of the Energy Policy and Conservation Act (42 U.S.C. 6271–76) to prohibit exports.
+(3) Nothing in this subsection shall restrict the authority of the President under the Constitution, the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), theNational Emergencies Act (50 U.S.C. 1601 et seq.), or Part B of title II of the Energy Policy and Conservation Act (42 U.S.C. 6271–76) to prohibit exports.
 
 (4) The Secretary of Commerce shall issue any rules necessary for implementation of the President's national interest determination, including any licensing requirements and conditions, within 30 days of the date of such determination by the President. The Secretary of Commerce shall consult with the Secretary of Energy in administering the provisions of this subsection.
 
@@ -146,7 +146,7 @@ The Secretary or agency head shall take into consideration and to the extent pra
 
 (2) The Secretary or agency head may, by regulation or stipulation, impose a standard of strict liability to govern activities taking place on a right-of-way or permit area which the Secretary or agency head determines, in his discretion, to present a foreseeable hazard or risk of danger to the United States.
 
-(3) Regulations and stipulations pursuant to this subsection shall not impose strict liability for damage or injury resulting from (A) an act of war, or (B) negligence of the United States.
+(3) Regulations and stipulations pursuant to this subsection shall not impose strict liabilityfor damage or injury resulting from (A) an act of war, or (B) negligence of the United States.
 
 (4) Any regulation or stipulation imposing liability without fault shall include a maximum limitation on damages commensurate with the foreseeable risks or hazards presented. Any liability for damage or injury in excess of this amount shall be determined by ordinary rules of negligence.
 
@@ -196,7 +196,7 @@ Subsec. (w)(2). Pub. L. 101–475, §1(b), amended par. (2) generally. Prior to 
 
 1973—Pub. L. 93–153 completely rewrote the section substituting 25 subsecs. lettered (a) through (y) covering all aspects of the granting of rights-of-way for pipelines through Federal lands for the former single unlettered paragraph under which rights-of-way of 25 feet on each side of the pipeline could be granted and under which the pipeline was to be operated as a common carrier.
 
-1953—Act Aug. 12, 1953, permitted companies subject to Federal regulation, or public utilities subject to State regulations, to pass through the public domain without incurring the obligation to become a common carrier.
+1953—Act Aug. 12, 1953, permitted companies subject to Federal regulation, or public utilities subject toState regulations, to pass through the public domain without incurring the obligation to become a common carrier.
 
 1935—Act Aug. 21, 1935, substituted “may be granted by the Secretary of the Interior” for “are granted” and inserted “and conditions” after “regulations” in two places, and “and shall accept, convey, transport, or purchase without discrimination, oil or natural gas produced from Government lands in the vicinity of the pipe line in such proportionate amounts as the Secretary of the Interior may, after a full hearing with notice thereof to the interested parties and a proper finding of facts, determine to be reasonable:” after “and maintained as common carriers.”.
 
@@ -206,7 +206,7 @@ Committee on Natural Resources of House of Representatives treated as referring 
 
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with grants of rights-of-way and temporary use permits for Federal land and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of Department of Agriculture, related to compliance with associated land use permits authorized for and in conjunction with grants of rights-of-way across Federal lands issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with grants of rights-of-way and temporary use permits for Federal land and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of Department of Agriculture, related to compliance with associated land use permits authorized for and in conjunction with grants of rights-of-way across Federal lands issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 “Secretary of Energy or Federal Energy Regulatory Commission” substituted for “Interstate Commerce Commission or Federal Power Commission” in subsec. (r)(5) pursuant to sections 301(b), 306, 402(a), (b), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(b), 7155, 7172(a), (b), 7293, and 7297 of Title 42, The Public Health and Welfare, and which transferred functions vested in Interstate Commerce Commission, and Chairman and members thereof, relating to transportation of oil by pipeline to Secretary of Energy (except for certain functions which were transferred to Federal Energy Regulatory Commission within Department of Energy), and terminated Federal Power Commission and transferred its functions to Secretary of Energy (except for certain functions which were transferred to Federal Energy Regulatory Commission).
 
@@ -232,7 +232,7 @@ Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1017.
 
 #### GAO Report
 
-Section 202 of Pub. L. 104–58 directed the Comptroller General of the United States to commence, three years after Nov. 28, 1995, a review of energy production in California and Alaska and the effects of Alaskan North Slope oil exports, if any, on consumers, independent refiners, and shipbuilding and ship repair yards on the West Coast and in Hawaii, and to submit to Congress, within twelve months after commencing the review, a report containing recommendations for Congress and the President to address job loss in the shipbuildingand ship repair industry on the West Coast, as well as adverse impacts on consumers and refiners on the West Coast and in Hawaii, that are attributed to Alaska North Slope oil exports.
+Section 202 of Pub. L. 104–58 directed the Comptroller General of the United States to commence, three years after Nov. 28, 1995, a review of energy production in California and Alaska and the effects of Alaskan North Slope oil exports, if any, on consumers, independent refiners, and shipbuilding and ship repair yards on the West Coast and in Hawaii, and to submit to Congress, within twelve months after commencing the review, a report containing recommendations for Congress and the President to address job loss in the shipbuilding and ship repair industry on the West Coast, as well as adverse impacts on consumers and refiners on the West Coast and in Hawaii, that are attributed to Alaska North Slope oil exports.
 
 #### Outer Continental Shelf; Pipeline Rights-of-Way
 
@@ -265,8 +265,4 @@ Therefore, pursuant to section 28(s) of the Mineral Leasing Act I direct the Sec
 The Secretary of Commerce is authorized and directed to inform the appropriate committees of the Congress of this determination and to publish it in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 236a, 275, 285 of this title; title 10 sections 7421, 7435; title 16 section 3167; title 33 section 1522; title 42 sections 6271, 6502; title 43 sections 1652, 1768, 2009; title 50 App. section 2406.
 

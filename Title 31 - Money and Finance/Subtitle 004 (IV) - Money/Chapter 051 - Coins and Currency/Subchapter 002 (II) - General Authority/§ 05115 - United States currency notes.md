@@ -40,7 +40,3 @@ In subsection (a), the first sentence is added for clarity and because of the re
 
 In subsection (b), before clause (1), the words “in circulation” are substituted for “to be used as a part of the circulation medium” to eliminate unnecessary words. In clause (1), the words “the sum of” are omitted as surplus. The words “which said sum shall appear in each monthly statement of the public debt” are omitted because of the source provisions restated in section 5118 of the revised title. In clause (2), the words “and no part thereof shall” are omitted because of the restatement. The text of section 3(less 2d sentence) of the Act of January 14, 1875 (ch. 15, 18 Stat. 296), is omitted as executed.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5119 of this title.
-

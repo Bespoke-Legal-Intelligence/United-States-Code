@@ -84,7 +84,3 @@ Subsec. (b). Pub. L. 96–463, §5(b), added subsec. (b) relating to discretiona
 
 Pub. L. 96–482, §32(d)(2), added subsec. (b) relating to energy and materials conservation and recovery feasibility planning and assistance.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6944, 6945, 6946, 6947, 6948 of this title.
-

@@ -42,7 +42,3 @@ Subsecs. (d), (e). Pub. L. 107–171, §10704(a)(2), added subsec. (d) and struc
 
 1998—Subsec. (a). Pub. L. 105–277 inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “Assistant Secretary of Agriculture for Marketing and Regulatory Programs.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7014 of this title.
-

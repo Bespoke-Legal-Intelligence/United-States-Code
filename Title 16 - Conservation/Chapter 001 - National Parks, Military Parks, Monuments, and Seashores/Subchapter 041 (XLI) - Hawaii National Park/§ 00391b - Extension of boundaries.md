@@ -26,7 +26,7 @@ Along the seacoast at high-water mark, in a general southwesterly direction for 
 
 10\. One hundred and sixty-six degrees twenty-two minutes and twenty-four seconds twelve thousand four hundred and sixty-seven and nine-tenths feet along portion of the land of Keauhou to a pipe in concrete on the south boundary of Hawaii National Park, Kilauea section;
 
-11\. Exactly two hundred and sixty-nine degrees and ten minutes twenty-one thousand one hundred forty-six and five-tenths feet along HawaiiNational Park, Kilauea section, to a pipe (note: azimuths of courses 12 and 13 are referred to Puu Huluhulu meridian):
+11\. Exactly two hundred and sixty-nine degrees and ten minutes twenty-one thousand one hundred forty-six and five-tenths feet along Hawaii National Park, Kilauea section, to a pipe (note: azimuths of courses 12 and 13 are referred to Puu Huluhulu meridian):
 
 12\. Exactly two hundred and eleven degrees and thirty minutes thirteen thousand seventy-four and seven-tenths feet along Hawaii National Park, Kilauea section, to a pipe;
 
@@ -92,7 +92,7 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 #### Amendments
 
-2000—Pub. L. 106–510 substituted at end “park. Land (including the land depicted on the map entitled ‘NPS–PAC 1997HW’) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.” for “park: <i>Provided</i>, That the United States shall not purchase, by appropriation of public moneys, any land within the aforesaid area, but such lands shall be secured by the United States only by public and private donations, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds.”
+2000—Pub. L. 106–510 substituted at end “park. Land (including the land depicted on the map entitled ‘NPS–PAC 1997HW’) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.” for “park: <i>Provided</i>, That the United States shall not purchase, by appropriation ofpublic moneys, any land within the aforesaid area, but such lands shall be secured by the United States only by public and private donations, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds.”
 
 1998—Pub. L. 105–380 inserted before period at end “, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds”.
 
@@ -107,8 +107,4 @@ Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance o
 #### Hawai‘i Volcanoes National Park
 
 Designation of portion of Hawaii National Park situated on island of Hawaii as Hawai‘i Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 391b–1, 391c, 392b, 392c, 396, 396a, 396c of this title.
 

@@ -16,7 +16,3 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 Functions of Secretary of the Interior under this section, with respect to use and disposal from lands under jurisdiction of Secretary of Agriculture of those mineral materials which Secretary of Agriculture is authorized to dispose of from other lands under his jurisdiction under sections 601 to 604 and 611 to 615 of this title, see Pub. L. 86–509, June 11, 1960, 74 Stat. 205, set out as a Transfer of Functions from Secretary of the Interior to Secretary of Agriculture note under section 2201 of Title 7, Agriculture.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 192b of this title; title 16 section 460q–5.
-

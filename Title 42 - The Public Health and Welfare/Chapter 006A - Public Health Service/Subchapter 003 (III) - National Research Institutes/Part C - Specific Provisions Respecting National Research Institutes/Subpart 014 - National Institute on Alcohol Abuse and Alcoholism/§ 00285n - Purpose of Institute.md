@@ -46,7 +46,7 @@ The research program established under this subpart shall encompass the social, 
 
 &emsp;(9) enter into contracts under this subchapter without regard to section 3324(a) and (b) of title 31 and section 5 of title 41; and
 
-&emsp;(10) adopt, upon recommendation of the National Advisory Council on Alcohol Abuse and Alcoholism, such additional means as he deems necessary or appropriate to carry out the purposes of this section.
+&emsp;(10) adopt, upon recommendation of the National Advisory Council on Alcohol Abuse and Alcoholism, such additional means as hedeems necessary or appropriate to carry out the purposes of this section.
 
 #### (c) Collaboration
 

@@ -34,7 +34,3 @@ Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1814(b)\], s
 
 Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1814(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–387, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to an action of the Secretary under title VIII of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7701 et seq.) initiated on or after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7709 of this title.
-

@@ -64,7 +64,7 @@ Section 6109 of the Internal Revenue Code of 1986, referred to in subsec. (h)(3)
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–134, §31001(v)(1), amended subsec. (a) generally. Prior to amendment, subsec.\(a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support), including debt administered by a third party acting as an agent for the Federal Government, by a named person shall, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once a year of the amount of all such debt.”
+1996—Subsec. (a). Pub. L. 104–134, §31001(v)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support), including debt administered by a third party acting as an agent for the Federal Government, by a named person shall, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once a year of the amount of all such debt.”
 
 Subsec. (h). Pub. L. 104–134, §31001(w), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “For purposes of this section—
 
@@ -111,10 +111,6 @@ Section applicable with respect to refunds payable under section 6402 of Title 2
 #### Clarification of Congressional Intent as to Scope of Amendments by Section 2653 of Pub. L. 98–369
 
 For provisions that nothing in amendments by section 2653 of Pub. L. 98–369, enacting this section, be construed as exempting debts of corporations or any other category of persons from application of such amendments, with such amendments to extend to all Federal agencies (as defined in such amendments), see section 9402(b) of Pub. L. 100–203, set out as a note under section 6402 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3322, 3325 of this title; title 7 sections 2020, 2022; title 26 section 6402; title 42 sections 404, 1008, 1320a–8, 1395ccc.
 
 <i><sup>1</sup></i><i> So in original. Subsec. (h) contains two pars. designated (1) and (2).</i>
 

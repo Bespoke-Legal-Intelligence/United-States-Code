@@ -10,7 +10,7 @@
 
 1994—Pub. L. 103–412 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1984—Pub. L. 98–451 amended section generally, substituting provisions directing that all funds held in trust by the United States and carried in principal accounts on the books of the United States Treasury to the credit of Indian tribes be invested by the Secretary of the Treasury, at the request of the Secretary of the Interior, in public debt securities with maturities suitable to the needs of the fund involved, as determined by the Secretary of the Interior, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities for provisions which required that all funds with account balances exceeding $500 held in trust by the United States and carried in principal accounts on the books of the Treasury Department to the credit of Indian tribes, upon which interest was not otherwise authorized by law, bear simple interest at the rate of 4 per centum per annum.
+1984—Pub. L. 98–451 amended section generally, substituting provisions directing that all funds held in trust by the United States and carried in principal accounts on the books of the United States Treasury to the credit of Indian tribes be invested by the Secretaryof the Treasury, at the request of the Secretary of the Interior, in public debt securities with maturities suitable to the needs of the fund involved, as determined by the Secretary of the Interior, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities for provisions which required that all funds with account balances exceeding $500 held in trust by the United States and carried in principal accounts on the books of the Treasury Department to the credit of Indian tribes, upon which interest was not otherwise authorized by law, bear simple interest at the rate of 4 per centum per annum.
 
 1930—Act June 13, 1930, amended section generally.
 
@@ -21,8 +21,4 @@ Section 103(d) of Pub. L. 103–412 provided that: “The amendment made by subs
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 161d, 672, 1776d of this title.
 

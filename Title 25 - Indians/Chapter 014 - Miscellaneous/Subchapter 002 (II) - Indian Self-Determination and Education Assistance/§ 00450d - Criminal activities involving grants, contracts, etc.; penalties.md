@@ -8,7 +8,3 @@ Whoever, being an officer, director, agent, or employee of, or connected in any 
 
 Act of April 16, 1934, referred to in text, is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O'Malley Act, which is classified generally to section 452 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 452 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 458ff, 458aaa–15, 2507, 3307 of this title; title 29 section 741.
-

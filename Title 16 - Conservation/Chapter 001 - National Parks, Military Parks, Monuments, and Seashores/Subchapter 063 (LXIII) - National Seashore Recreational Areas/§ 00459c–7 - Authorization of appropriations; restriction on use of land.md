@@ -1,6 +1,6 @@
 ### §459c–7. Authorization of appropriations; restriction on use of land
 
-There are authorized to be appropriated such sums as may be necessary to carry out the provisions of sections 459c to 459c–7 of this title, except that no more than $57,500,000 shall be appropriated for the acquisition of land and waters and improvements thereon, and interests therein, and incidental costs relating thereto, in accordance with the provisions of such sections: <i>Provided</i>, That no freehold, leasehold, or lesserinterest in any lands hereafter acquired within the boundaries of the Point Reyes National Seashore shall be conveyed for residential or commercial purposes except for public accommodations, facilities, and services provided pursuant to sections 20 to 20g and 462(h) of this title. In addition to the sums heretofore authorized by this section, there is further authorized to be appropriated $5,000,000 for the acquisition of lands or interests therein.
+There are authorized to be appropriated such sums as may be necessary to carry out the provisions of sections 459c to 459c–7 of this title, except that no more than $57,500,000 shall be appropriated for the acquisition of land and waters and improvements thereon, and interests therein, and incidental costs relating thereto, in accordance with the provisions of such sections: <i>Provided</i>, That no freehold, leasehold, or lesser interest in any lands hereafter acquired within the boundaries of the Point Reyes National Seashore shall be conveyed for residential or commercial purposes except for public accommodations, facilities, and services provided pursuant to sections 20 to 20g and 462(h) of this title. In addition to the sums heretofore authorized by this section, there is further authorized to be appropriated $5,000,000 for the acquisition of lands or interests therein.
 
 (Pub. L. 87–657, §9, formerly §8, Sept. 13, 1962, 76 Stat. 541; Pub. L. 89–666, §1(b), Oct. 15, 1966, 80 Stat. 919; renumbered §7 and amended Pub. L. 91–223, §§1, 2(c), Apr. 3, 1970, 84 Stat. 90; renumbered §8, Pub. L. 94–544, §4(b), Oct. 18, 1976, 90 Stat. 2515; renumbered §8, Pub. L. 94–567, §7(b), Oct. 20, 1976, 90 Stat. 2695; renumbered §9, Pub. L. 95–625, title III, §318(e), Nov. 10, 1978, 92 Stat. 3487; amended Pub. L. 95–625, title III, §318(f), as added Pub. L. 96–199, title I, §101(a)(5), Mar. 5, 1980, 94 Stat. 67.)
 
@@ -19,8 +19,4 @@ Section 7(b) of Pub. L. 94–567 made the identical change in the credit as did 
 1970—Pub. L. 91–223, §1, substituted “$57,500,000” for “$19,135,000”, restricted conveyances of any interest in any lands acquired after April 3, 1970, only for public accommodations, facilities, and services under provisions for concessions in areas administered by National Park Service.
 
 1966—Pub. L. 89–666 substituted “$19,135,000” for “$14,000,000”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459c–2, 459c–4, 459c–5, 459c–6, 459c–6b of this title.
 

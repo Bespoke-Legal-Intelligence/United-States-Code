@@ -8,7 +8,3 @@ It shall be unlawful for any person to induce any Indian to execute any contract
 
 Section was formerly classified to section 115 of Title 18, Criminal Code and Criminal Procedure, prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, §1, 62 Stat. 683.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 353, 406, 564h, 697, 747 of this title.
-

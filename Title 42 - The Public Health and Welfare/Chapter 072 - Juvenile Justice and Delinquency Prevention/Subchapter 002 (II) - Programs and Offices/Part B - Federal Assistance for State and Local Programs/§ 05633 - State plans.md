@@ -118,11 +118,11 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;(ii) to ensure that juveniles follow the terms of their probation;
 
-&emsp;&emsp;(G) counseling, training, and mentoring programs, which may be in support of academic tutoring, vocational and technical training, and drug and violence prevention counseling, that are designed to link at-risk juveniles, juvenile offenders, or juveniles who have a parent or legal guardian who is or was incarcerated in a Federal, State, or local correctional facility or who is otherwise under the jurisdiction of a Federal,State, or local criminal justice system, particularly juveniles residing in low-income and high-crime areas and juveniles experiencing educational failure, with responsible individuals (such as law enforcement officials, Department of Defense personnel, individuals working with local businesses, and individuals working with community-based and faith-based organizations and agencies) who are properly screened and trained;
+&emsp;&emsp;(G) counseling, training, and mentoring programs, which may be in support of academic tutoring, vocational and technical training, and drug and violence prevention counseling, that are designed to link at-risk juveniles, juvenile offenders, or juveniles who have a parent or legal guardian who is or was incarcerated in a Federal, State, or local correctional facility or who is otherwise under the jurisdiction of a Federal, State, or local criminal justice system, particularly juveniles residing in low-income and high-crime areas and juveniles experiencing educational failure, with responsible individuals (such as law enforcement officials, Department of Defense personnel, individuals working with local businesses, and individuals working with community-based and faith-based organizations and agencies) who are properly screened and trained;
 
 &emsp;&emsp;(H) programs designed to develop and implement projects relating to juvenile delinquency and learning disabilities, including on-the-job training programs to assist community services, law enforcement, and juvenile justice personnel to more effectively recognize and provide for learning disabled and other juveniles with disabilities;
 
-&emsp;&emsp;(I) projects designed both to deter involvement in illegal activities and to promote involvement in lawful activities on the part of gangs whose membership is substantially composed of youth;
+&emsp;&emsp;(I) projects designed both to deter involvement in illegal activities and to promote involvement in lawful activities on the part ofgangs whose membership is substantially composed of youth;
 
 &emsp;&emsp;(J) programs and projects designed to provide for the treatment of youths’ dependence on or abuse of alcohol or other addictive or nonaddictive drugs;
 
@@ -200,7 +200,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;(iii) in which period such juveniles make a court appearance;
 
-> &emsp;&emsp;and only if such juveniles do not have contact with adult inmates and only if there is in effect in the State a policy that requires individuals who work with both such juveniles and adult inmates in collocated facilities have been trained and certified to work with juveniles;
+> &emsp;&emsp;and only if such juveniles do not have contact with adult inmates and only if there isin effect in the State a policy that requires individuals who work with both such juveniles and adult inmates in collocated facilities have been trained and certified to work with juveniles;
 
 &emsp;&emsp;(B) juveniles who are accused of nonstatus offenses, who are awaiting an initial court appearance that will occur within 48 hours after being taken into custody (excluding Saturdays, Sundays, and legal holidays), and who are detained in a jail or lockup—
 
@@ -380,7 +380,7 @@ Pub. L. 107–273, §12209(1)(G), amended par. (9) generally. Prior to amendment
 
 Subsec. (a)(10). Pub. L. 107–273, §12209(1)(S), redesignated par. (11) as (10). Former par. (10) redesignated (9).
 
-Subsec. (a)(10)(A). Pub. L. 107–273, §12209(1)(H)(i), substituted “including” for “, specifically” in introductory provisons, redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “for youth who can remain at home with assistance: home probation and programs providing professional supervised group activities or individualized mentoring relationships with adults that involve the family and provide counseling and other supportive services;”.
+Subsec. (a)(10)(A). Pub. L. 107–273, §12209(1)(H)(i), substituted “including” for “, specifically” in introductory provisions, redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “for youth who can remain at home with assistance: home probation and programs providing professional supervised group activities or individualized mentoring relationships with adults that involve the family and provide counseling and other supportive services;”.
 
 Subsec. (a)(10)(D). Pub. L. 107–273, §12209(1)(H)(ii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “projects designed to develop and implement programs stressing advocacy activities aimed at improving services for and protecting the rights of youth affected by the juvenile justice system;”.
 
@@ -500,7 +500,7 @@ Subsec. (c). Pub. L. 107–273, §12209(2), amended subsec. (c) generally. Prior
 
 “(3) If a State fails to comply with the requirements of subsection (a), (12)(A), (13), (14), or (23) of this section in any fiscal year beginning after January 1, 1993—
 
-&emsp;“(A) subject to subparagraph (B), the amount allotted under section 5632 of this title to the State forthat fiscal year shall be reduced by 25 percent for each such paragraph with respect to which noncompliance occurs; and
+&emsp;“(A) subject to subparagraph (B), the amount allotted under section 5632 of this title to the State for that fiscal year shall be reduced by 25 percent for each such paragraph with respect to which noncompliance occurs; and
 
 &emsp;“(B) the State shall be ineligible to receive any allotment under that section for such fiscal year unless—
 
@@ -694,13 +694,13 @@ Subsec. (d). Pub. L. 96–509, §§11(c), 19(g)(13), substituted reference to se
 
 Subsec. (a)(4). Pub. L. 95–115. §4(c)(2), inserted provisions relating to grants or contracts with local private agencies or the advisory group, and substituted “units of general local government or combinations thereof in” for “local governments in”.
 
-Subsec. (a)(5). Pub. L. 95–115, §4(c)(3), substituted provisions relating to requirements respecting expenditureof funds through programs of units of general local government or combinations thereof and programs of local private agencies, for provisions relating to requirements respecting expenditure of funds through programs of local government.
+Subsec. (a)(5). Pub. L. 95–115, §4(c)(3), substituted provisions relating to requirements respecting expenditure of funds through programs of units of general local government or combinations thereof and programs of local private agencies, for provisions relating to requirements respecting expenditure of funds through programs of local government.
 
 Subsec. (a)(6). Pub. L. 95–115, §4(c)(4), inserted provision relating to regional planning agency and “unit of general” before “local government”.
 
 Subsec. (a)(8). Pub. L. 95–115, §4(c)(5), inserted provisions relating to programs and projects developed under the study.
 
-Subsec. (a)(10). Pub. L. 95–115, §4(c)(6)(A)(i), (B), inserted provisions relating to availability of funds to the State advisory group and provisions expanding authorized use of funds to include encouragement of diversity of alternatives within the juvenile justice system and adoption of juvenile justice standards, and substituted reference to unit of general local government or combination of such unit with the State, for reference to local government.
+Subsec. (a)(10). Pub. L. 95–115, §4(c)(6)(A)(i), (B), inserted provisions relating to availability of funds to the State advisory group and provisions expanding authorized use of funds to include encouragement of diversityof alternatives within the juvenile justice system and adoption of juvenile justice standards, and substituted reference to unit of general local government or combination of such unit with the State, for reference to local government.
 
 Subsec. (a)(10)(A). Pub. L. 95–115, §4(c)(6)(A)(ii), inserted “twenty-four hour intake screening, volunteer and crisis home programs, day treatment, and home probation,” after “health services,”.
 
@@ -770,11 +770,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### Costs and Implications of Removal of Juveniles From Adults in Jails; Report to Congress
 
-Section 17 of Pub. L. 96–509 provided that the Administrator of the Office of Juvenile Justice and Delinquency Prevention, not later than 18 months after Dec. 8, 1980, submit a report to the Congress relating to the cost and implications of any requirement added to the Juvenile Justice and Delinquency Prevention Act of 1974 which would mandate the removal of juveniles from adults in all jails and lockups, such report to include an estimate of the costs likely to be incurred by the States, an analysis of the experience of States which required the removal of juveniles from adults in all jails and lockups, an analysis of possible adverse ramifications which might result from such requirement of removal, and recommendations for such legislative or administrative action as the Administrator considers appropriate.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5614, 5616, 5617, 5631, 5632, 5653, 5656, 5671, 5672, 5781, 5782 of this title.
+Section 17 of Pub. L. 96–509 provided that the Administrator of the Office of Juvenile Justice and Delinquency Prevention, not later than 18 months after Dec. 8, 1980, submit a report to the Congress relating to the cost and implications of any requirement added to the Juvenile Justice and Delinquency Prevention Act of 1974 which would mandate the removal of juvenilesfrom adults in all jails and lockups, such report to include an estimate of the costs likely to be incurred by the States, an analysis of the experience of States which required the removal of juveniles from adults in all jails and lockups, an analysis of possible adverse ramifications which might result from such requirement of removal, and recommendations for such legislative or administrative action as the Administrator considers appropriate.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

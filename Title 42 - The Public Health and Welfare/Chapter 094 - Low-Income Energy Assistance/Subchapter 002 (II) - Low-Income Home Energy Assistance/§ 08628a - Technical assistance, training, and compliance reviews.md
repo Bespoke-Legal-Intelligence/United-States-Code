@@ -36,7 +36,3 @@ Amendment by Pub. L. 103–252 effective Oct. 1, 1994, see section 314 of Pub. L
 
 Section effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as an Effective Date of 1986 Amendment note under section 8621 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8623 of this title.
-

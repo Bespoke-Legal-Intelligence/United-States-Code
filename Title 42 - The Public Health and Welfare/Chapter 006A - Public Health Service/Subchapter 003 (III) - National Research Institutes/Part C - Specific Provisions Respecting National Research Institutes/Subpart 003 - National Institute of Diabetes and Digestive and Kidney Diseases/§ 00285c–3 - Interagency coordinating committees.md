@@ -26,9 +26,29 @@ Each Committee shall prepare an annual report for—
 
 > detailing the work of the Committee in carrying out paragraphs (1) and (2) of subsection (a) of this section in the fiscal year for which the report was prepared. Such report shall be submitted not later than 120 days after the end of each fiscal year.
 
-(July 1, 1944, ch. 373, title IV, §429, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 843; amended Pub. L. 100–527, §10(4), Oct. 25, 1988, 102 Stat. 2641; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985.)
+#### (d) Annual assessment on Federal pancreatic islet cell transplantation
+
+In each annual report prepared by the Diabetes Mellitus Interagency Coordinating Committee pursuant to subsection (c) of this section, the Committee shall include an assessment of the Federal activities and programs related to pancreatic islet cell transplantation. Such assessment shall, at a minimum, address the following:
+
+&emsp;(1) The adequacy of Federal funding for taking advantage of scientific opportunities relating to pancreatic islet cell transplantation.
+
+&emsp;(2) Current policies and regulations affecting the supply of pancreata for islet cell transplantation.
+
+&emsp;(3) The effect of xenotransplantation on advancing pancreatic islet cell transplantation.
+
+&emsp;(4) The effect of United Network for Organ Sharing policies regarding pancreas retrieval and islet cell transplantation.
+
+&emsp;(5) The existing mechanisms to collect and coordinate outcomes data from existing islet cell transplantation trials.
+
+&emsp;(6) Implementation of multiagency clinical investigations of pancreatic islet cell transplantation.
+
+&emsp;(7) Recommendations for such legislation and administrative actions as the Committee considers appropriate to increase the supply of pancreata available for islet cell transplantation.
+
+(July 1, 1944, ch. 373, title IV, §429, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 843; amended Pub. L. 100–527, §10(4), Oct. 25, 1988, 102 Stat. 2641; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 108–362, §3, Oct. 25, 2004, 118 Stat. 1703.)
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–362 added subsec. (d).
 
 1992—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”.
 

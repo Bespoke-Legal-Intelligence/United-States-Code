@@ -32,7 +32,7 @@ Maximum Flying Hours.—The Secretary may not exempt an air carrier under this s
 
 (f)
 
-Smaller Aircraft.—(1) An air carrier is exempt from section 41101(a)(1) of this title, and the Secretary may exempt an air carrier fromanother provision of subpart II of this part, if the air carrier—
+Smaller Aircraft.—(1) An air carrier is exempt from section 41101(a)(1) of this title, and the Secretary may exempt an air carrier from another provision of subpart II of this part, if the air carrier—
 
 &emsp;(A)(i) provides passenger transportation only with aircraft having a maximum capacity of 55 passengers; or
 
@@ -198,7 +198,7 @@ In subsection (f)(3)(B), the word “only” is added for clarity. The words “
 
 In subsection (g), the word “exemption” is substituted for “authorization” and “authority” for clarity and consistency.
 
-In subsection (g)(1), before clause (A), the words “required”, “a period”, and “to the extent necessary” are omitted as surplus. The word “mail” is omitted as being included in “cargo”. In clause (B), before subclause (i), the words “for example” are omitted as surplus.
+In subsection (g)(1), before clause (A), the words “required”, “a period”, and “to the extent necessary” areomitted as surplus. The word “mail” is omitted as being included in “cargo”. In clause (B), before subclause (i), the words “for example” are omitted as surplus.
 
 In subsection (g)(3), the words “a period” are omitted as surplus.
 
@@ -233,8 +233,4 @@ Requirements.—The Administrator may grant an exemption under paragraph (1) onl
 &emsp;“(A) the Administrator finds that granting the exemption is necessary to prevent an undue economic burden on the unit of government; and
 
 &emsp;“(B) the Administrator certifies that the aviation safety program of the unit of government is effective and appropriate to ensure safe operations of the type of aircraft operated by the unit of government.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 41505, 41703, 41710, 41733, 41738 of this title; title 39 section 5402.
 

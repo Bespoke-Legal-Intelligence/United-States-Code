@@ -1,12 +1,24 @@
 ### §1282. Declaration of policy
 
-It is declared to be the policy of Congress to continue the Soil Conservation and Domestic Allotment Act, as amended \[16 U.S.C. 590a et seq.\], for the purpose of conserving national resources, preventing the wasteful use of soil fertility, and of preserving, maintaining, and rebuilding the farm and ranch land resources in the national public interest; to accomplish these purposes through the encouragement of soil-building and soil-conserving crops and practices; to assist in the marketing of agricultural commodities for domestic consumption and for export; and to regulate interstate and foreign commerce in cotton, wheat, corn, tobacco, and rice to the extent necessary to provide an orderly, adequate, and balanced flow of such commodities in interstate and foreign commerce through storage of reserve supplies, loans, marketing quotas, assisting farmers to obtain insofar as practicable, parity prices for such commodities and parity of income, and assisting consumers to obtain an adequate and steady supply of such commodities at fair prices.
+It is declared to be the policy of Congress to continue the Soil Conservation and Domestic Allotment Act, as amended \[16 U.S.C. 590a et seq.\], for the purpose of conserving national resources, preventing the wasteful use of soil fertility, and of preserving, maintaining, and rebuilding the farm and ranch land resources in the national public interest; to accomplish these purposes through the encouragement of soil-building and soil-conserving crops and practices; to assist in the marketing of agricultural commodities for domestic consumption and for export; and to regulate interstate and foreign commerce in cotton, wheat, corn, and rice to the extent necessary to provide an orderly, adequate, and balanced flow of such commodities in interstate and foreign commerce through storage of reserve supplies, loans, marketing quotas, assisting farmers to obtain insofar as practicable, parity prices for such commodities and parity of income, and assisting consumers to obtain an adequate and steady supply of such commodities at fair prices.
 
-(Feb. 16, 1938, ch. 30, §2, 52 Stat. 31.)
+(Feb. 16, 1938, ch. 30, §2, 52 Stat. 31; Pub. L. 108–357, title VI, §611(e), Oct. 22, 2004, 118 Stat. 1522.)
 
 #### References in Text
 
 The Soil Conservation and Domestic Allotment Act, as amended, referred to in text, is act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
+
+#### Amendments
+
+2004—Pub. L. 108–357 struck out “tobacco,” after “corn,”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as an Effective Date note under section 518 of this title.
+
+#### Savings Provision
+
+Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 
 #### Transfer of Functions
 
@@ -18,7 +30,7 @@ Functions of Soil Conservation Service in Department of Agriculture with respect
 
 #### Congressional Declaration of Policy Under Agricultural Act of 1961
 
-Section 2 of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, provided that: “In order more fully and effectively to improve, maintain, and protect the prices and incomesof farmers, to enlarge rural purchasing power, to achieve a better balance between supplies of agricultural commodities and the requirements of consumers therefor, to preserve and strengthen the structure of agriculture, and to revitalize and stabilize the overall economy at reasonable costs to the Government, it is hereby declared to be the policy of Congress to—
+Section 2 of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, provided that: “In order more fully and effectively to improve, maintain, and protect the prices and incomes of farmers, to enlarge rural purchasing power, to achieve a better balance between supplies of agricultural commodities and the requirements of consumers therefor, to preserve and strengthen the structure of agriculture, and to revitalize and stabilize the overall economy at reasonable costs to the Government, it is hereby declared to be the policy of Congress to—
 
 &emsp;“(a) afford farmers the opportunity to achieve parity of income with other economic groups by providing them with the means to develop and strengthen their bargaining power in the Nation's economy;
 

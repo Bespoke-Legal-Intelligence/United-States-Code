@@ -8,15 +8,11 @@
 
 &emsp;(2) section 1818 of this title, by the Director of the Office of Thrift Supervision in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation.
 
-(Pub. L. 94–200, title III, §306, Dec. 31, 1975, 89 Stat. 1127; Pub. L. 100–628, title X, §1087(b), Nov.7, 1988, 102 Stat. 3280; Pub. L. 101–73, title VII, §744(p)(2), Aug. 9, 1989, 103 Stat. 440.)
+(Pub. L. 94–200, title III, §306, Dec. 31, 1975, 89 Stat. 1127; Pub. L. 100–628, title X, §1087(b), Nov. 7, 1988, 102 Stat. 3280; Pub. L. 101–73, title VII, §744(p)(2), Aug. 9, 1989, 103 Stat. 440.)
 
 #### Amendments
 
 1989—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “section 1464(d) of this title in the case of any institution subject to that provision, by the Federal Home Loan Bank Board.”
 
 1988—Subsec. (b)(1), (2). Pub. L. 100–628 substituted “section” for “Section”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2803, 2809, 2810 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—REPORTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6725, 6728 of this title.
-
 
 ---
 

@@ -74,7 +74,7 @@ In this subchapter—
 
 &emsp;&emsp;(J) constructing an air traffic control tower or acquiring and installing air traffic control, communications, and related equipment at an air traffic control tower under the terms specified in section 47124(b)(4).
 
-I13(K) work necessary to construct or modify airport facilities to provide low-emission fuel systems, gate electrification, and other related air quality improvements at a commercial service airport if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) and if such project will result in an airport receiving appropriate emission credits, as described in section 47139.
+&emsp;&emsp;(K) work necessary to construct or modify airport facilities to provide low-emission fuel systems, gate electrification, and other related air quality improvements at a commercial service airport if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) and if such project will result in an airport receiving appropriate emission credits, as described in section 47139.
 
 &emsp;&emsp;(L) a project for the acquisition or conversion of vehicles and ground support equipment, owned by a commercial service airport, to low-emission technology, if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) and if such project will result in an airport receiving appropriate emission credits as described in section 47139.
 
@@ -142,7 +142,7 @@ I13(K) work necessary to construct or modify airport facilities to provide low-e
 
 &emsp;&emsp;&emsp;(i) a reliever airport; or
 
-&emsp;&emsp;&emsp;(ii) determined by the Secretary to have at least 2,500 passenger boardings eachyear and to receive scheduled passenger aircraft service.
+&emsp;&emsp;&emsp;(ii) determined by the Secretary to have at least 2,500 passenger boardings each year and to receive scheduled passenger aircraft service.
 
 &emsp;(22) “reliever airport” means an airport the Secretary designates to relieve congestion at a commercial service airport and to provide more general aviation access to the overall community.
 
@@ -282,7 +282,7 @@ In clause (3)(D), the words “any . . . work involved to” are omitted as su
 
 In clause (4), the word “near” is substituted for “in the vicinity of” to eliminate unnecessary words. The words “obstructs or otherwise is hazardous to the landing or taking off” are substituted for “obstructs the airspace required for the flight of aircraft in landing or taking off . . . or is otherwise hazardous to such landing or taking off” for clarity and to eliminate unnecessary words.
 
-In clause (6), the words “for a fiscal year . . . for that fiscal year” are omitted as surplus. The words “authorized for grants” are substituted for “made available for obligation” for clarity and consistency. The word“law” is substituted for “Act of Congress” for consistency in the revised title and with other titles of the Code. The words “or limited” are omitted as surplus.
+In clause (6), the words “for a fiscal year . . . for that fiscal year” are omitted as surplus. The words “authorized for grants” are substituted for “made available for obligation” for clarity and consistency. The word “law” is substituted for “Act of Congress” for consistency in the revised title and with other titles of the Code. The words “or limited” are omitted as surplus.
 
 In clause (8), before subclause (A), the words “the initial as well as continuing” and “nature” are omitted as surplus. In subclause (C), the words “needed to decide which aeronautical needs should be met” are substituted for “as may be necessary to determine the short-, intermediate-, and long-range aeronautical demands required to be met” for clarity and to eliminate unnecessary words. The word “particular” is eliminated as unnecessary. In subclause (D), the word “prescribed” is substituted for “the establishment . . . of” for consistency in the revised title and with other titles of the Code.
 
@@ -318,7 +318,7 @@ Par. (3)(K), (L). Pub. L. 108–176, §159(b)(1), added subpars. (K) and (L) and
 
 “(K) in fiscal year 2002 with respect to funds apportioned under section 47114 in fiscal years 2001 and 2002, any activity, including operational activities, of an airport that is not a primary airport if that airport is located within the confines of enhanced class B airspace, as defined by Notice to Airmen FDC 1/0618 issued by the Federal Aviation Administration and the activity was carried out when any restriction in the Notice is in effect.
 
-“(L) in fiscal year 2002, payments for debt service on indebtedness incurred to carry out a project at an airport owned or controlled by the sponsor or at a privately owned or operated airport passenger terminal financed by indebtedness incurred by the sponsor if the Secretary determines that such payments are necessary to prevent a default on the indebtedness.”
+“(L) in fiscal year 2002, payments for debt service on indebtedness incurred to carry out a project at an airport owned or controlled by the sponsor or at a privately owned or operated airport passenger terminal financed by indebtedness incurred by the sponsor if theSecretary determines that such payments are necessary to prevent a default on the indebtedness.”
 
 Par. (3)(M). Pub. L. 108–176, §159(b)(1)(A), redesignated subpar. (M) as (J).
 
@@ -397,8 +397,4 @@ Eligible low-emission modifications and improvements.—The Secretary of Transpo
 “(B)
 
 Eligible low-emission vehicle technology.—The Secretary, in consultation with the Administrator, shall issue guidance describing eligible low-emission vehicle technology, and stating how airport sponsors will demonstrate benefits, under section 47102(3)(L) of title 49, United States Code, as added by this subsection.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40102, 40117, 41104, 44502, 44923, 46319, 47106, 47109, 47110, 47114, 47115, 47117, 47134, 47139, 47151, 47175, 47501, 50104 of this title; title 18 section 1036; title 19 section 1644a; title 50 App. section 1622.
 

@@ -2,11 +2,7 @@
 
 #### Codification
 
-This subchapter is comprised of act Aug. 29, 1935, ch. 812, as amended in its entirety and completely revised by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and as further amended in its entirety and completely revised by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, eff. Jan. 1, 1975. The Act, as restated by Pub. L. 93–445, was redesignated the Railroad Retirement Act of 1974. See section 231t of this title. The Act is set out in this subchapter carrying a statutory credit showing restatement by act June 24, 1937 and a further restatement by Pub. L. 93–445 without reference to amendments made to the Act between its original enactment in 1935 and 1974. For history of the Act, credits, and note material, see subchapters II and III of this chapter.
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 354, 361, 362, 726, 797d, 909, 1207 of this title; title 7 section 2012; title 8 section 1611; title 12 section 3413; title 26 sections 22, 72, 86, 401, 3231, 3304, 6103, 6331, 6334, 6050G; title 31 section 3803; title 42 sections 402, 405, 426–1, 1395i–1, 1395r, 1395s, 1395v, 1395gg, 1395kk, 3020e–1; title 49 sections 10501, 24301.
+This subchapter is comprised of act Aug. 29, 1935, ch. 812, as amended in its entirety and completely revised by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and as further amended in its entirety and completely revised by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305,eff. Jan. 1, 1975. The Act, as restated by Pub. L. 93–445, was redesignated the Railroad Retirement Act of 1974. See section 231t of this title. The Act is set out in this subchapter carrying a statutory credit showing restatement by act June 24, 1937 and a further restatement by Pub. L. 93–445 without reference to amendments made to the Act between its original enactment in 1935 and 1974. For history of the Act, credits, and note material, see subchapters II and III of this chapter.
 
 
 ---

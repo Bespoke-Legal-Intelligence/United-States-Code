@@ -26,7 +26,3 @@ Nothing in this subsection shall be construed to limit the Administrator's autho
 
 (July 14, 1955, ch. 360, title II, §217, as added Pub. L. 101–549, title II, §225, Nov. 15, 1990, 104 Stat. 2504.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7607 of this title.
-

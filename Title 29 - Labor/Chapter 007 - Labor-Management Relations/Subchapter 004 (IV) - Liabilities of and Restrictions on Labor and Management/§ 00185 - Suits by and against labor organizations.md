@@ -26,7 +26,3 @@ For the purposes of this section, in determining whether any person is acting as
 
 This chapter, referred to in subsecs. (a) and (b), was in the original “this Act” meaning act June 23, 1947, ch. 120, 61 Stat. 136, as amended, known as the Labor Management Relations Act, 1947, which is classified principally to this subchapter and subchapters III (§171 et seq.) and IV (§185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 187 of this title; title 42 section 2297h–8.
-

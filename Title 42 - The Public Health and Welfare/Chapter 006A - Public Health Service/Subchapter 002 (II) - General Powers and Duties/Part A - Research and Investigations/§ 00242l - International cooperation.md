@@ -70,9 +70,5 @@ Subsec. (b). Pub. L. 97–35, §921(b), in par. (5) inserted reference to health
 
 Pub. L. 95–83, title III, §315, Aug. 1, 1977, 91 Stat. 398, provided that the Secretary of Health, Education, and Welfare arrange through the National Academy of Sciences or other nonprofit private groups or associations, for a study to determine opportunities for broadened Federal program activities in areas of international health, which study was to consider biomedical and behavioral research, health services research, health professions education, immunization and public health activities, and other areas that might improve our and other nations’ capacities to prevent, diagnose, control, or cure disease, and to organize and deliver effective and efficient health services, with an interim report on such study completed no later than Oct. 1, 1977 and a final report completed no later than Jan. 1, 1978 and both reports submitted to the Secretary, the Committee on Human Resources of the Senate, and the Committee on Interstate and Foreign Commerce of the House of Representatives.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 242m, 300cc–15 of this title; title 22 section 2101.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

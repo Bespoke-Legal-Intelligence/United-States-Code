@@ -80,7 +80,7 @@
 
 |  |  |
 | :--- | ---: |
-| \[8191. | Repealed.\] |
+| [8191\.](Subchapter%20003%20%28III%29%20-%20Law%20Enforcement%20Officers%20Not%20Employed%20by%20the%20United%20States/%C2%A7%2008191%20-%20Determination%20of%20eligibility.md) | Determination of eligibility. |
 | [8192\.](Subchapter%20003%20%28III%29%20-%20Law%20Enforcement%20Officers%20Not%20Employed%20by%20the%20United%20States/%C2%A7%2008192%20-%20Benefits.md) | Benefits. |
 | [8193\.](Subchapter%20003%20%28III%29%20-%20Law%20Enforcement%20Officers%20Not%20Employed%20by%20the%20United%20States/%C2%A7%2008193%20-%20Administration.md) | Administration. |
 
@@ -99,10 +99,6 @@
 1968—Pub. L. 90–291, §1(b), Apr. 19, 1968, 82 Stat. 100, added subchapter III consisting of items 8191, 8192, and 8193.
 
 1967—Pub. L. 90–83, §1(59), (66)(B), (67)(B), (70), Sept. 11, 1967, 81 Stat. 211, 212, 213, inserted “; hearings” in item 8124, added item 8143a relating to members of the National Teachers Corps and item 8146a relating to cost-of-living adjustment of compensation, and struck out item 8148 relating to reports.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3102, 3111, 3161, 3704, 5948 of this title; title 2 sections 2146, 2166; title 7 sections 2272, 2279c; title 8 section 1357; title 10 sections 1588, 2113, 2360, 2904, 7086; title 14 sections 93, 823a; title 15 section 4102; title 16 sections 565a–2, 831b–1, 932, 952, 971a, 1703, 3602, 3640, 5003, 5608, 5708, 5725; title 18 section 4126; title 20 sections 76<i>l</i>, 4416; title 22 sections 2124c, 2391, 3508, 3715a, 3715d, 3649, 3658, 3664, 7002; title 24 sections 225e, 422; title 25 sections 2012, 3115, 3733; title 28 sections 376, 995, 996; title 33 section 569c; title 36 section 2113; title 38 sections 3115, 3485, 7453, 7458; title 42 sections 300hh–11, 405, 3788, 7142c, 9843a; title 43 sections 50d, 1475; title 44 section 318; title 49 sections 106, 40122, 49104; title 50 section 2081.
 
 
 ---

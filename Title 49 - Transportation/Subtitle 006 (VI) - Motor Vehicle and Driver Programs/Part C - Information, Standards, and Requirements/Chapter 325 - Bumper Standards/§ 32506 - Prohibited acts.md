@@ -78,7 +78,3 @@ In subsection (c)(1), before clause (A), the word “conditions” is substitute
 
 1998—Subsec. (a). Pub. L. 105–277 inserted “and section 32502 of this title” after “Except as provided in this section” in introductory provisions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 32507 of this title.
-

@@ -136,7 +136,7 @@ For purposes of this section—
 
 &emsp;(2) The term “interactive computer service” has the meaning provided in section 230(f)(2) of this title.
 
-&emsp;(3) The term “access software” means software (including client or server software) or enabling tools that do not create or providethe content of the communication but that allow a user to do any one or more of the following:
+&emsp;(3) The term “access software” means software (including client or server software) or enabling tools that do not create or provide the content of the communication but that allow a user to do any one or more of the following:
 
 &emsp;&emsp;(A) filter, screen, allow, or disallow content;
 
@@ -228,7 +228,7 @@ Subsecs. (d) to (h). Pub. L. 104–104, §502(2), added subsecs. (d) to (h).
 
 “(4) The Attorney General may bring a suit in the appropriate district court of the United States to enjoin any act or practice which violates paragraph (1)(A) or (1)(B). An injunction may be granted in accordance with the Federal Rules of Civil Procedure.”
 
-Pub. L. 100–297, in par. (1)(A), struck out “under eighteen years of age or to any other person without that person's consent” after “to any person”, redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “It is a defense to a prosecution under this subsection that the defendant restricted access to the prohibited communication to persons eighteen years of age or older in accordance with procedures which the Commission shall prescribe by regulation.”, redesignated par. (4) as (3) and substituted “under paragraphs (1) and (2)” for “under paragraphs (1) and (3)”, and redesignated par. (5) as (4).
+Pub. L. 100–297, in par. (1)(A), struck out “under eighteen years of age or to any other person without that person's consent” after “to any person”, redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “It is a defense to a prosecution under this subsection that the defendant restricted access to the prohibited communication to persons eighteen years of age or older in accordance with procedureswhich the Commission shall prescribe by regulation.”, redesignated par. (4) as (3) and substituted “under paragraphs (1) and (2)” for “under paragraphs (1) and (3)”, and redesignated par. (5) as (4).
 
 1983—Subsec. (a). Pub. L. 98–214, §8(a)(1), (2), designated existing provisions as subsec. (a) and substituted “$50,000” for “$500” in provisions after par. (2).
 
@@ -269,8 +269,4 @@ Section 8(c), (d) of Pub. L. 98–214 provided that:
 “(c) The Federal Communications Commission shall issue regulations pursuant to section 223(b)(2) of the Communications Act of 1934 (as added by subsection (a) of this section) \[subsec. (b)(2) of this section\] not later than one hundred and eighty days after the date of the enactment of this Act \[Dec. 8, 1983\].
 
 “(d) The Commission shall act on all complaints alleging violation of section 223 of the Communications Act of 1934 \[this section\] which are pending on the date of the enactment of this Act \[Dec. 8, 1983\] within ninety days of such date of enactment.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 152, 153, 228, 230 of this title; title 15 section 7707.
 

@@ -64,7 +64,7 @@ Civil contempt authority in civil consent and misdemeanor cases.—In any case i
 
 &emsp;(5)
 
-Criminal contempt penalties.—The sentence imposed by a magistrate judge for any criminal contempt provided for in paragraphs (2) and (3) shall not exceed the penalties for a Class C misdemeanor as set forth in sections 3581(b)(8) and 3571(b)(6) of title 18.
+Criminal contempt penalties.—The sentence imposed by a magistrate judge for any criminal contempt provided for in paragraphs\(2) and (3) shall not exceed the penalties for a Class C misdemeanor as set forth in sections 3581(b)(8) and 3571(b)(6) of title 18.
 
 &emsp;(6)
 
@@ -88,7 +88,7 @@ Appeals of magistrate judge contempt orders.—The appeal of an order of contemp
 
 (f) In an emergency and upon the concurrence of the chief judges of the districts involved, a United States magistrate judge may be temporarily assigned to perform any of the duties specified in subsection (a), (b), or (c) of this section in a judicial district other than the judicial district for which he has been appointed. No magistrate judge shall perform any of such duties in a district to which he has been temporarily assigned until an order has been issued by the chief judge of such district specifying (1) the emergency by reason of which he has been transferred, (2) the duration of his assignment, and (3) the duties which he is authorized to perform. A magistrate judge so assigned shall not be entitled to additional compensation but shall be reimbursed for actual and necessary expenses incurred in the performance of his duties in accordance with section 635.
 
-(g) A United States magistrate judge may perform the verification function required by section 4107 of title 18, United States Code. A magistrate judge may be assigned by a judge of any United States district court to perform the verification required by section 4108 and the appointment of counsel authorized by section 4109of title 18, United States Code, and may perform such functions beyond the territorial limits of the United States. A magistrate judge assigned such functions shall have no authority to perform any other function within the territory of a foreign country.
+(g) A United States magistrate judge may perform the verification function required by section 4107 of title 18, United States Code. A magistrate judge may be assigned by a judge of any United States district court to perform the verification required by section 4108 and the appointment of counsel authorized by section 4109 of title 18, United States Code, and may perform such functions beyond the territorial limits of the United States. A magistrate judge assigned such functions shall have no authority to perform any other function within the territory of a foreign country.
 
 (h) A United States magistrate judge who has retired may, upon the consent of the chief judge of the district involved, be recalled to serve as a magistrate judge in any judicial district by the judicial council of the circuit within which such district is located. Upon recall, a magistrate judge may receive a salary for such service in accordance with regulations promulgated by the Judicial Conference, subject to the restrictions on the payment of an annuity set forth in section 377 of this title or in subchapter III of chapter 83, and chapter 84, of title 5 which are applicable to such magistrate judge. The requirements set forth in subsections (a), (b)(3), and (d) of section 631, and paragraph (1) of subsection (b) of such section to the extent such paragraph requires membership of the bar of the location in which an individual is to serve as a magistrate judge, shall not apply to the recall of a retired magistrate judge under this subsection or section 375 of this title. Any other requirement set forth in section 631(b) shall apply to the recall of a retired magistrate judge under this subsection or section 375 of this title unless such retired magistrate judge met such requirement upon appointment or reappointment as a magistrate judge under section 631.
 
@@ -96,7 +96,7 @@ Appeals of magistrate judge contempt orders.—The appeal of an order of contemp
 
 #### Historical and Revision Notes
 
-<i>Prior jurisdiction, powers, and procedure provisions in section 632</i>.—Based on sections 27, 66, 67, 68, 80f, 100, 117e, 129, 172, 181b, 204e, 256d, 376, 395e, 403c–5, 403c–6, 403h–5, 404c–5, and 408m of title 16, U.S.C., 1940 ed., Conservation (May 7, 1894, ch. 72, §5, 28 Stat. 74; Apr. 20, 1904, ch. 1400, §6, 33 Stat. 188; Mar. 2, 1907, ch. 2516, §§1, 2, 34 Stat. 1218; Mar. 3, 1911, ch. 230, 36 Stat. 1086; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Aug. 22, 1914, ch. 264, §6, 38 Stat. 700; June 30, 1916, ch. 197, §6, 39 Stat. 245; Aug. 21, 1916, ch. 368, §6, 39 Stat. 523; June 2, 1920, ch. 218, §§7, 8, 41 Stat. 733; Apr. 25, 1928, ch. 434, §6, 45 Stat. 460; Apr. 26, 1928, ch. 438, §6, 45 Stat. 464; Apr. 19, 1930, ch. 200, §6, 4 Stat. 228; May 2, 1932, ch. 155, §3, 47 Stat. 145; June 25, 1935, ch. 309, §1, 49 Stat. 422; Aug. 19, 1937, ch. 703, §§5, 6, 50 Stat. 702; June 25, 1938, ch. 684, §1, 52 Stat. 1164; June 28, 1938, ch. 778, §1, 52 Stat. 1213; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43; Mar. 6, 1942, ch. 150, §5, 56 Stat. 134; Mar. 6, 1942, ch. 151, §5, 56 Stat. 137; Apr. 29, 1942, ch. 264, §5, 56 Stat. 260; June 5, 1942, ch. 341, §5, 56 Stat. 318; Apr. 23, 1946, ch. 202, §2, 60 Stat. 120; June 24, 1946, ch. 463, §2, 60 Stat. 303).
+<i>Prior jurisdiction, powers, and procedure provisions in section 632</i>.—Based on sections 27, 66, 67, 68, 80f, 100, 117e, 129, 172, 181b, 204e, 256d, 376, 395e, 403c–5, 403c–6, 403h–5, 404c–5, and 408m of title 16, U.S.C., 1940 ed., Conservation (May 7, 1894, ch. 72, §5, 28 Stat. 74; Apr. 20, 1904, ch. 1400, §6, 33 Stat. 188; Mar. 2, 1907, ch. 2516, §§1, 2, 34 Stat. 1218; Mar. 3, 1911, ch. 230, 36 Stat. 1086; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Aug. 22, 1914, ch. 264, §6, 38 Stat. 700; June 30, 1916, ch. 197, §6, 39 Stat. 245; Aug. 21, 1916, ch. 368, §6, 39 Stat. 523; June 2, 1920, ch. 218, §§7, 8, 41 Stat. 733; Apr. 25, 1928, ch. 434, §6, 45 Stat. 460; Apr. 26, 1928, ch. 438, §6, 45 Stat. 464; Apr. 19, 1930, ch. 200, §6, 4Stat. 228; May 2, 1932, ch. 155, §3, 47 Stat. 145; June 25, 1935, ch. 309, §1, 49 Stat. 422; Aug. 19, 1937, ch. 703, §§5, 6, 50 Stat. 702; June 25, 1938, ch. 684, §1, 52 Stat. 1164; June 28, 1938, ch. 778, §1, 52 Stat. 1213; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43; Mar. 6, 1942, ch. 150, §5, 56 Stat. 134; Mar. 6, 1942, ch. 151, §5, 56 Stat. 137; Apr. 29, 1942, ch. 264, §5, 56 Stat. 260; June 5, 1942, ch. 341, §5, 56 Stat. 318; Apr. 23, 1946, ch. 202, §2, 60 Stat. 120; June 24, 1946, ch. 463, §2, 60 Stat. 303).
 
 Section consolidates provisions of sections 27, 66, 67, 68, 80f, 100, 117e, 129, 172, 181b, 204e, 256d, 376, 395e, 403c–5, 403c–6, 403h–5, 404c–5 and 408m of title 16, U.S.C., 1940 ed., relating to jurisdiction and powers of park commissioners with necessary changes in arrangement and phraseology. For other provisions of such sections, see Distribution Table.
 
@@ -126,7 +126,7 @@ Changes were made in phraseology.
 
 The Rules of Criminal Procedure for the United States District Courts, referred to in subsecs. (a)(1) and (e)(2)–(4), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-The Federal Rules of Civil Procedure for the United States district courts, referred to in subsecs. (b)(2),\(c)(3), and (e)(4), are set out in the Appendix to this title.
+The Federal Rules of Civil Procedure for the United States district courts, referred to in subsecs. (b)(2), (c)(3), and (e)(4), are set out in the Appendix to this title.
 
 #### Amendments
 
@@ -162,7 +162,7 @@ Subsec. (f). Pub. L. 104–317, §201, substituted “subsection (a), (b), or (c
 
 1988—Subsec. (a)(4). Pub. L. 100–690 added par. (4).
 
-Subsec. (c)(7). Pub. L. 100–702, §1014, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “The magistrate shall determine, taking into account the complexity of the particular matter referred to the magistrate, whether the record in the proceeding shall be taken, pursuant to section 753 of this title, by electronic sound recording means, by a court reporter appointed or employed by the court to take a verbatim record by shorthand or by mechanical means, or by an employee of the court designated by the court to take such a verbatim record. Notwithstanding the magistrate's determination, (A) the proceeding shall be taken down by a court reporter if any party so requests, (B) the proceeding shall be recorded by a means other than a court reporter if all parties so agree, and (C) no record of the proceeding shall be made if all parties so agree. Reporters referred to in this paragraph may be transferred for temporary service in any district court of the judicial circuit for reporting proceedings under this subsection, or for other reporting duties in such court.”
+Subsec. (c)(7). Pub. L. 100–702, §1014, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “The magistrate shall determine, taking into account the complexity of the particular matter referred to the magistrate, whether the record in the proceeding shall be taken, pursuant to section 753 of this title, by electronic sound recording means, by a court reporter appointed or employed by the court to take a verbatimrecord by shorthand or by mechanical means, or by an employee of the court designated by the court to take such a verbatim record. Notwithstanding the magistrate's determination, (A) the proceeding shall be taken down by a court reporter if any party so requests, (B) the proceeding shall be recorded by a means other than a court reporter if all parties so agree, and (C) no record of the proceeding shall be made if all parties so agree. Reporters referred to in this paragraph may be transferred for temporary service in any district court of the judicial circuit for reporting proceedings under this subsection, or for other reporting duties in such court.”
 
 Subsec. (d). Pub. L. 100–702, §404(b)(1), substituted “section 2072 of this title” for “section 3402 of title 18, United States Code”.
 
@@ -208,11 +208,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now UnitedStates magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 374, 375, 376, 377, 631, 633 of this title; title 7 section 2149; title 19 section 1915; title 46 sections 4311, 12309.
+Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “post-trial”.</i>
 

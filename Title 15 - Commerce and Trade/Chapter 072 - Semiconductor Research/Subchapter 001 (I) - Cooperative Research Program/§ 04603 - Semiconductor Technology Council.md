@@ -94,7 +94,7 @@ The Council shall use Federal funds made available to Sematech as needed for gen
 
 #### References in Text
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463,which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -133,8 +133,4 @@ Section 263(f) of Pub. L. 103–160 provided that: “The first meeting of the S
 #### References to Terminated Council
 
 Section 263(g) of Pub. L. 103–160 provided that: “A reference in any provision of law to the Advisory Council on Federal Participation in Sematech shall be deemed to refer to the Semiconductor Technology Council established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[15 U.S.C. 4603\], as amended by subsection (b).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4601, 4603a of this title.
 

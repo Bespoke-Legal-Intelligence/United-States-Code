@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—STATE AND MUNICIPAL WATER CONSERVATION FACILITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 808 of this title.
-
 
 ---
 

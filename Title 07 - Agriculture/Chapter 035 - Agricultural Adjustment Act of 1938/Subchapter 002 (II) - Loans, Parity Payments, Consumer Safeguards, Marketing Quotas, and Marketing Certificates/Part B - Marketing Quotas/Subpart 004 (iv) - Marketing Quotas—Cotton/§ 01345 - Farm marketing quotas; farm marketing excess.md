@@ -2,7 +2,7 @@
 
 The farm marketing quota for any crop of cotton shall be the actual production of the acreage planted to cotton on the farm less the farm marketing excess. The farm marketing excess shall be the normal production of that acreage planted to cotton on the farm which is in excess of the farm acreage allotment: <i>Provided</i>, That such farm marketing excess shall not be larger than the amount by which the actual production of cotton on the farm exceeds the normal production of the farm acreage allotment, if the producer establishes such actual production to the satisfaction of the Secretary.
 
-(Feb. 16, 1938, ch. 30, title III, §345, 52 Stat. 58; July 3, 1948, ch. 827, title II, §205, 62 Stat. 1256; Aug. 29, 1949, ch. 518, §1, 63 Stat. 674; Oct. 31, 1949, ch. 792, title IV, §415(e), 63 Stat. 1058.)
+(Feb. 16, 1938, ch. 30, title III, §345, 52 Stat. 58; July 3, 1948, ch. 827, title II, §205, 62 Stat. 1256;Aug. 29, 1949, ch. 518, §1, 63 Stat. 674; Oct. 31, 1949, ch. 792, title IV, §415(e), 63 Stat. 1058.)
 
 #### Amendments
 
@@ -33,12 +33,4 @@ Section inapplicable to 1982 through 1985 crops of upland cotton, see section 50
 Section inapplicable to 1978 through 1981 crops of upland cotton, see section 601 of Pub. L. 95–113, set out as a note under section 1342 of this title.
 
 Pub. L. 91–524, title VI, §601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, §1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
-
-#### Proclamations Affirmed
-
-Effect of act Apr. 7, 1938, ch. 107, 52 Stat. 202, see note set out under section 1312 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1346, 1349 of this title.
 

@@ -28,6 +28,10 @@ The Secretary may accept a certificate of alternative compliance issued by a con
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3415; Pub. L. 102–241, §21(1), Dec. 19, 1991, 105 Stat. 2217; Pub. L. 102–587, title V, §5206\[(1)\], Nov. 4, 1992, 106 Stat. 5074.)
 
+#### Repeal of Section
+
+<i>Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that this section is repealed effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 2071 of this title.</i>
+
 #### References in Text
 
 These Rules, referred to in pars. (a), (b), (c), and (e), are the Inland Navigational Rules which are classified to this subchapter.
@@ -44,6 +48,10 @@ Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the I
 
 1991—Par. (e). Pub. L. 102–241 struck out “without interfering with the special function of the vessel,” before “the vessel shall comply”.
 
+#### Effective Date of Repeal
+
+Pub. L. 108–293, title III, §303(c), Aug. 9, 2004, 118 Stat. 1042, provided that: “Subsection (a) \[repealing this subchapter\] is effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 3 of the Inland Navigation Rules Act of 1980 (33 U.S.C. 2001) \[33 U.S.C. 2071\], as amended by this Act.”
+
 #### Effective Date
 
 Section 7 of Pub. L. 96–591 provided that: “Sections 2, 4, 6(1), and 8(a) \[enacting this section and sections 2002 to 2038 and 2072 of this title, amending section 1604 of this title, and repealing sections 154 to 159, 171 to 183, 191, 192, 201 to 213, 221, 222, 231, 232, 301 to 303, 311 to 323, 331, 341–356, 360, and 360a of this title and sections 526b, 526c, and 526d of former Title 46, Shipping\] are effective 12 months after the date of enactment of this Act \[Dec. 24, 1980\], except that on the Great Lakes, the effective date of sections 2 and 4 \[enacting this section and sections 2002 to 2038 and 2072 of this title\] will be established by the Secretary. \[The effective date on the Great Lakes was established as Mar. 1, 1983. See 47 F.R. 15135, Apr. 8, 1982.\] Section 5 \[enacting section 2073 of this title\] is effective on October 1, 1981.”
@@ -57,8 +65,4 @@ Section 1 of Pub. L. 96–591 provided: “That this Act \[enacting this chapter
 Section 8(a) of Pub. L. 96–591 provided in part that: “The laws specified in the following schedules are repealed. Any prior rights or liabilities existing under these laws are not affected by their repeal.” \[The schedules repealed sections 154 to 159, 171 to 183, 191, 192, 201 to 213, 221, 222, 231, 232, 301 to 303, 311 to 323, 331, 341 to 356, 360, and 360a of this title and sections 526b, 526c, and 526d of former Title 46, Shipping.\]
 
 Section 8(b) of Pub. L. 96–591 provided in part that: “The following laws \[sections 241 to 244, 251 to 262, 271, 272, and 281 to 295 of this title\] are repealed when the Secretary establishes an effective date under section 7 \[set out as a note above\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2072 of this title.
 

@@ -50,7 +50,7 @@ Subject to the availability of funds and in consultation with other appropriate 
 
 &emsp;&emsp;(A) not later than 30 days after receiving a project proposal, provide a copy of the proposal to other appropriate Federal officials; and
 
-&emsp;&emsp;(B) review each project proposal in a timely manner to determine if the proposal meets the criteria specified in subsection (d) of this section.
+&emsp;&emsp;(B) review each project proposal in a timely manner to determine if the proposalmeets the criteria specified in subsection (d) of this section.
 
 #### (2) Consultation; approval or disapproval
 
@@ -70,7 +70,7 @@ The Secretary may approve a project proposal under this section if the project w
 
 &emsp;(2) address the conflicts between humans and great apes that arise from competition for the same habitat;
 
-&emsp;(3) enhance compliance with CITES and other applicable laws that prohibit or regulatethe taking or trade of great apes or regulate the use and management of great ape habitat;
+&emsp;(3) enhance compliance with CITES and other applicable laws that prohibit or regulate the taking or trade of great apes or regulate the use and management of great ape habitat;
 
 &emsp;(4) develop sound scientific information on, or methods for monitoring—
 
@@ -113,8 +113,4 @@ Amounts provided as a grant under this chapter—
 Every 2 years, the Secretary shall convene a panel of experts to identify the greatest needs for the conservation of great apes.
 
 (Pub. L. 106–411, §4, Nov. 1, 2000, 114 Stat. 1791.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6304 of this title.
 

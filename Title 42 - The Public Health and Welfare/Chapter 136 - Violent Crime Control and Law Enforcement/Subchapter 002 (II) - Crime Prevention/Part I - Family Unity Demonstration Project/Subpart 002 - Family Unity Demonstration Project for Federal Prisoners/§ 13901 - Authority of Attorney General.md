@@ -18,9 +18,5 @@ At the discretion of the Attorney General, Federal participants may be placed in
 
 This part, referred to in subsec. (b), was in the original “this title” and was translated as reading “this subtitle”, meaning subtitle S of title III of Pub. L. 103–322, to reflect the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13902, 14214 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

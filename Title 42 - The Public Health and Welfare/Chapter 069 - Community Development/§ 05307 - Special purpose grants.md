@@ -208,10 +208,6 @@ Pub. L. 102–550, title VIII, §801(c)(3), Oct. 28, 1992, 106 Stat. 3844, provi
 
 Section 851 of Pub. L. 102–550 directed Secretary to carry out a 5-year demonstration program to determine feasibility of facilitating partnerships between institutions of higher education and communities to solve urban problems through research, outreach, and exchange of information, established program of grantsto public and private nonprofit institutions of higher education to assist in establishing or carrying out such activities and to establish and operate Community Outreach Partnership Centers which were to focus on problems associated with housing, economic development, neighborhood revitalization, infrastructure, health care, job training, education, crime prevention, planning, community organizing, and other areas deemed appropriate by the Secretary, further provided for establishment of national advisory council to assist Secretary in these areas and a national clearinghouse to disseminate information resulting from these activities, and further provided for appropriations for the demonstration program as well as for an annual report to Congress by the Secretary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5306, 5308 of this title; title 26 section 42.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>

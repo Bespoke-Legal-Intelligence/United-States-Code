@@ -38,3 +38,7 @@ Another prior section 1202 of act July 1, 1944, was classified to section 300d�
 
 Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
 
+#### Recommendations Regarding Responding to Food-Related Allergic Responses
+
+Pub. L. 108–282, title II, §210, Aug. 2, 2004, 118 Stat. 911, provided that: “The Secretary of Health and Human Services shall, in providing technical assistance relating to trauma care and emergency medical services to State and local agencies under section 1202(b)(3) of the Public Health Service Act (42 U.S.C. 300d–2(b)(3)), include technical assistance relating to the use of different modes of treatment for and prevention of allergic responses to foods.”
+

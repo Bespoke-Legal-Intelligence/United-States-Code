@@ -24,9 +24,5 @@ Section 701 of the Housing Act of 1954, referred to in par. (2), is section 701 
 
 The Land and Water Conservation Fund Act of 1965, referred to in par. (2), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of Title 16 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1962c–1, 1962c–3 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

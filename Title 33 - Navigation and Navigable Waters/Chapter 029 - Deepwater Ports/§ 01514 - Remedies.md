@@ -14,7 +14,7 @@ Any person who willfully violates any provision of this chapter or any rule, ord
 
 #### (c) Attorney General's action for equitable relief; scope of relief
 
-Upon a request by the Secretary, the Attorney General shall bring an action in an appropriate district court of the United States for equitable relief to redress a violation by any person of any provision of this chapter, any regulation under this chapter, or any license condition. The district courts of the United States shall have jurisdiction to grant such relief as is necessary or appropriate, including mandatory or prohibitive injunctive relief, interim equitable relief, compensatory damages, and punitive damages.
+Upon a request by the Secretary, the Attorney General shall bring an action in an appropriatedistrict court of the United States for equitable relief to redress a violation by any person of any provision of this chapter, any regulation under this chapter, or any license condition. The district courts of the United States shall have jurisdiction to grant such relief as is necessary or appropriate, including mandatory or prohibitive injunctive relief, interim equitable relief, compensatory damages, and punitive damages.
 
 #### (d) Vessels; liability in rem; exempt vessels; consent or privy of owners or bareboat charterers
 
@@ -32,5 +32,5 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Deposit of Certain Penalties Into Oil Spill Liability Trust Fund
 
-Penalties paid pursuant to this chapter and sections 1319(c) and 1321 of this title to be deposited in the OilSpill Liability Trust Fund created under section 9509 of Title 26, Internal Revenue Code, see section 4304 of Pub. L. 101–380, set out as a note under section 9509 of Title 26.
+Penalties paid pursuant to this chapter and sections 1319(c) and 1321 of this title to be deposited in the Oil Spill Liability Trust Fund created under section 9509 of Title 26, Internal Revenue Code, see section 4304 of Pub. L. 101–380, set out as a note under section 9509 of Title 26.
 

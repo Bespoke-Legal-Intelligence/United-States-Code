@@ -4,7 +4,3 @@ Nothing in sections 183, 184 to 186, 188, or 189 of title 46, Appendix, shall be
 
 (Mar. 4, 1927, ch. 509, §48, 44 Stat. 1446.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 30 section 932.
-

@@ -8,7 +8,3 @@ Township 2 south, range 17, west: Section 13, southwest quarter southeast quarte
 
 (Pub. L. 88–24, §2, May 17, 1963, 77 Stat. 18.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430uu–2, 430uu–4 of this title.
-

@@ -22,7 +22,7 @@ Within three full fiscal years following the fiscal year of enactment of this su
 
 (1) The general management plan for the monument shall review and recommend the suitability or nonsuitability for preservation as wilderness of all roadless lands within the boundaries of the monument as established by this subchapter except those lands within the areas identified as “potential development areas” on the map referenced in section 460uu of this title.
 
-(2) Pending the submission of a recommendation and until otherwise directed by Act of Congress, the Secretary, through the Director of the National Park Service, shall manage all roadless lands within the boundaries of the monument so as to maintain their potential for inclusion in the National Wilderness Preservation System, except those lands within the areas identified as “potential development areas” on the map referenced in section 460uu of this title.
+(2) Pending the submission of a recommendation and until otherwise directed by Act of Congress, the Secretary, through the Director of the National Park Service, shall manage all roadlesslands within the boundaries of the monument so as to maintain their potential for inclusion in the National Wilderness Preservation System, except those lands within the areas identified as “potential development areas” on the map referenced in section 460uu of this title.
 
 (Pub. L. 100–225, title V, §501, Dec. 31, 1987, 101 Stat. 1543.)
 
@@ -37,8 +37,4 @@ The National Historic Preservation Act, referred to in subsec. (a)(3), is Pub. L
 #### Change of Name
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460uu–47, 460uu–48 of this title.
 

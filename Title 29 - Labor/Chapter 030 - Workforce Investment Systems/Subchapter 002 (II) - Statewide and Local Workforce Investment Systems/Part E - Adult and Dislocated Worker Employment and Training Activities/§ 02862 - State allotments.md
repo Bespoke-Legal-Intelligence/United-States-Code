@@ -122,7 +122,7 @@ The Secretary shall—
 
 #### (ii) Applicability of additional requirements
 
-&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistance to the outlying areas for dislocated worker employment and training activities and statewide workforce investment activities in accordance with the requirements ofsection 2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(a) and 262(a)(1) of the Job Training Partnership Act shall be deemed to be a reference to section 302(e) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
+&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistance to the outlying areas for dislocated worker employment and training activities and statewide workforce investment activities in accordance with the requirements of section 2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(a) and 262(a)(1) of the Job Training Partnership Act shall be deemed to be a reference to section 302(e) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
 
 #### (B) States
 
@@ -172,7 +172,7 @@ The Secretary shall—
 
 #### (4) Eligibility
 
-&emsp;For purposes of this subsection, an eligible State means a State that has obligated at least 80 percent of the State allotment under this section for such activities for the program year prior to the program year for which the determination under paragraph (2) is made.
+&emsp;For purposes of this subsection, an eligible State means a State that has obligated atleast 80 percent of the State allotment under this section for such activities for the program year prior to the program year for which the determination under paragraph (2) is made.
 
 #### (5) Procedures
 
@@ -195,10 +195,6 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 #### Construction of 2002 Amendment
 
 Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2801, 2822, 2831, 2853, 2854, 2861, 2863, 2864, 2871, 2872, 2915, 2916, 2918, 2932, 2944 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsections”.</i>
 

@@ -40,13 +40,9 @@ The Secretary shall establish and carry out a program of national leadership act
 
 &emsp;&emsp;(H) other activities designed to enhance the quality of adult education and literacy activities nationwide.
 
-(Pub. L. 105–220, title II, §243, Aug. 7, 1998, 112 Stat. 1078; Pub. L. 105–277, div. A, §101(f) \[titleVIII, §404(e)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417.)
+(Pub. L. 105–220, title II, §243, Aug. 7, 1998, 112 Stat. 1078; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(e)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417.)
 
 #### Amendments
 
 1998—Par. (2)(B). Pub. L. 105–277 substituted “quality” for “qualify”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9211 of this title.
 

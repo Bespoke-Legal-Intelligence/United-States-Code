@@ -4,7 +4,3 @@ Not later than 2 years after October 11, 2000, the Secretary shall promulgate re
 
 (Pub. L. 106–291, title VI, §613, Oct. 11, 2000, 114 Stat. 1022.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6213 of this title.
-

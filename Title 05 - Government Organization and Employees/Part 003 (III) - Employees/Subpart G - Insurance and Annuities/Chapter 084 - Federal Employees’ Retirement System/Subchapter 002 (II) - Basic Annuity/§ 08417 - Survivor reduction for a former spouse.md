@@ -16,15 +16,11 @@
 
 &emsp;&emsp;&emsp;(II) any agreement referred to in such section 8445(a) which was entered into before such date; or
 
-&emsp;&emsp;(ii) would cause the total of survivor annuities payable under sections 8442 and 8445, respectively, based on the service of the employee or Member to exceed the amount which would be payable to a widow or widower of such employee or Member under such section 8442 (determined without regard to any reduction to provide for an annuity under such section 8445); and
+&emsp;&emsp;(ii) would cause the total of survivor annuities payable under sections 8442 and 8445, respectively, based on the service of the employee or Member to exceed the amount which would be payable to a widow or widower of such employee or Member undersuch section 8442 (determined without regard to any reduction to provide for an annuity under such section 8445); and
 
 &emsp;(B) shall not be effective, in the case of an employee or Member who is then married, unless it is made with the spouse's written consent.
 
 > The Office shall by regulation provide that subparagraph (B) may be waived for either of the reasons set forth in section 8416(a)(2).
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 530.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8418, 8442, 8445, 8901, 8905 of this title; title 22 section 4071j; title 50 section 2154.
 

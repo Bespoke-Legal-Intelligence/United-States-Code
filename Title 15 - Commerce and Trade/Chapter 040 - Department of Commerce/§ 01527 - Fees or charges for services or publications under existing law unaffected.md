@@ -10,7 +10,3 @@ This Act, referred to in text, means Pub. L. 91–412, which enacted sections 15
 
 Laws expressly repealed herein, referred to in text, means amendment of section 1153 and repeal of sections 189, 189a, 192, 192a, 1153a, and 1520 of this title, as heretofore noted.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1527a of this title.
-

@@ -34,7 +34,7 @@
 
 #### (c) Term of office
 
-The term of office of each member of the Board shall be three years, except that the Secretary of State shall remain a member of the Board during the Director's <sup>1</sup> term of service. Of the other 8 voting members, the initial terms of office of two members shall be one year, and the initial terms of office of 3 other members shall be two years, as determined by the President. The President shall appoint, by and with the advice and consent of the Senate, Board members to fill vacancies occurring prior to the expiration of a term, in which case the members so appointed shall serve for the remainder of such term. Any member whose term has expired may serve until a successor has been appointed and qualified. When there is no Secretary of State, the Acting Secretary of State shall serve as a member of the Board until a Director <sup>2</sup> is appointed.
+The term of office of each member of the Board shall be three years, except that the Secretary of State shall remain a member of the Board during the Director's <sup>1</sup> term of service. Of the other 8 voting members, the initial terms of office of two members shall be one year, and the initial terms of office of 3 other members shall be two years, as determined by the President. The President shall appoint, by and with the advice and consent of the Senate, Board members to fill vacancies occurring prior to the expiration of a term, in which case the members so appointed shall serve for the remainder of suchterm. Any member whose term has expired may serve until a successor has been appointed and qualified. When there is no Secretary of State, the Acting Secretary of State shall serve as a member of the Board until a Director <sup>2</sup> is appointed.
 
 #### (d) Selection of Board
 
@@ -79,10 +79,6 @@ Subsec. (e). Pub. L. 105–277, §1323(b), substituted “Secretary of State” 
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6207 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Secretary's”.</i>
 

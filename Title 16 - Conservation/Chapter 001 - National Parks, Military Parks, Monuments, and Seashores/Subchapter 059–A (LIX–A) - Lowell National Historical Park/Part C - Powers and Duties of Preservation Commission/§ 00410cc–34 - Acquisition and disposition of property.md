@@ -22,7 +22,3 @@ Pursuant to a written agreement between the Commission and the Commonwealth of M
 
 (Pub. L. 95–290, title III, §304, June 5, 1978, 92 Stat. 302.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410cc–13, 410cc–32, 410cc–35 of this title.
-

@@ -82,7 +82,3 @@ Section 1 of Pub. L. 94–461 provided: “That this Act \[enacting sections 112
 
 Section 201 of title II of Pub. L. 89–454, as added by section 1 of Pub. L. 89–688, and amended by Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1961; Pub. L. 95–428, §2(a), Oct. 7, 1978, 92 Stat. 999, provided that: “This title \[enacting this subchapter\] may be cited as the ‘National Sea Grant College Program Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1124, 1126 of this title.
-

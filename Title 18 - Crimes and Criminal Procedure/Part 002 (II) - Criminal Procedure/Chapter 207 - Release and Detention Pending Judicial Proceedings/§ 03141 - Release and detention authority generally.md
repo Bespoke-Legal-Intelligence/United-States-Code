@@ -24,6 +24,10 @@ Subsec. (b). Pub. L. 99–646, §55(a), substituted “under this chapter” for
 
 Section 55(j) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section and sections 3142 to 3144, 3146 to 3148, and 3156 of this title\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\].”
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–458, title VI, §6951, Dec. 17, 2004, 118 Stat. 3775, provided that: “This subtitle \[subtitle K (§§6951, 6952) of title VI of Pub. L. 108–458, amending section 3142 of this title\] may be cited as the ‘Pretrial Detention of Terrorists Act of 2004’.”
+
 #### Short Title of 1990 Amendment
 
 Pub. L. 101–647, title IX, §901, Nov. 29, 1990, 104 Stat. 4826, provided that: “This title \[amending sections 3143 and 3145 of this title\] may be cited as the ‘Mandatory Detention for Offenders Convicted of Serious Crimes Act’.”
@@ -43,8 +47,4 @@ Section 1 of Pub. L. 89–465 provided: “That this Act \[enacting sections 314
 #### Purpose of Bail Reform Act of 1966
 
 Section 2 of Pub. L. 89–465 provided that: “The purpose of this Act \[enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title and enacting provisions set out as a note above\] is to revise the practices relating to bail to assure that all persons, regardless of their financial status, shall not needlessly be detained pending their appearance to answer charges, to testify, or pending appeal, when detention serves neither the ends of justice nor the public interest.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3156 of this title.
 

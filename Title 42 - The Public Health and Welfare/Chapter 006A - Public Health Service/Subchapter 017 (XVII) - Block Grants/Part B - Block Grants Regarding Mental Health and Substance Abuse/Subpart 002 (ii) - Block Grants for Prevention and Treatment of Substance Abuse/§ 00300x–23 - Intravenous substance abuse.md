@@ -26,7 +26,3 @@ A prior section 1923 of act July 1, 1944, was classified to section 300x–9b of
 
 Another prior section 1923 of act July 1, 1944, was classified to section 300y–2 of this title prior to repeal by Pub. L. 100–690.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300x–29, 300x–32 of this title.
-

@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(1) the term “agency head” means the head and any assistant head of an executive agency, and may “upon the designation by” the head of an executive agency include the chief official of any principal division of the agency;
 
-&emsp;(2) the term “executive agency” means an executive department as defined in section 101 of title 5, an independent establishment as defined by section 104 of title 5 (except that it shall not include the General Accounting Office), a military department as defined by section 102 of title 5, and a wholly owned Government corporation as defined by section 9101(3) of title 31, the United States Postal Service, and the Postal Rate Commission;
+&emsp;(2) the term “executive agency” means an executive department as defined in section 101 of title 5, an independent establishment as defined by section 104 of title 5 (except that it shall not include the Government Accountability Office), a military department as defined by section 102 of title 5, and a wholly owned Government corporation as defined by section 9101(3) of title 31, the United States Postal Service, and the Postal Rate Commission;
 
 &emsp;(3) the term “contracting officer” means any person who, by appointment in accordance with applicable regulations, has the authority to enter into and administer contracts and make determinations and findings with respect thereto. The term also includes the authorized representative of the contracting officer, acting within the limits of his authority;
 
@@ -16,7 +16,7 @@ As used in this chapter—
 
 &emsp;(7) the term “misrepresentation of fact” means a false statement of substantive fact, or any conduct which leads to a belief of a substantive fact material to proper understanding of the matter in hand, made with intent to deceive or mislead.
 
-(Pub. L. 95–563, §2, Nov. 1, 1978, 92 Stat. 2383; Pub. L. 104–106, div. D, title XLIII, §4322(b)(5), Feb. 10, 1996, 110 Stat. 677.)
+(Pub. L. 95–563, §2, Nov. 1, 1978, 92 Stat. 2383; Pub. L. 104–106, div. D, title XLIII, §4322(b)(5), Feb. 10, 1996, 110 Stat. 677; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -29,6 +29,8 @@ The Office of Federal Procurement Policy Act, referred to in par. (5), is Pub. L
 In par. (2), “section 9101(3) of title 31” substituted for “section 846 of title 31, United States Code” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2004—Par. (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1996—Pars. (3), (5) to (7). Pub. L. 104–106 substituted “the term” for “The term”.
 

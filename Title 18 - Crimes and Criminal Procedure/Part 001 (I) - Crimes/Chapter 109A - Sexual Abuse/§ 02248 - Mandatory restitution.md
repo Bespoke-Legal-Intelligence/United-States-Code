@@ -10,7 +10,7 @@ Scope and Nature of Order.—
 
 &emsp;(1)
 
-Directions.—The order of restitution under this section shall direct the defendant to pay to the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court pursuant to paragraph (2).
+Directions.—The order of restitution under this section shall direct the defendantto pay to the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court pursuant to paragraph (2).
 
 &emsp;(2)
 
@@ -81,8 +81,4 @@ Subsec. (f). Pub. L. 104–132, §205(b)(4), redesignated subsec. (f) as (c).
 #### Effective Date of 1996 Amendment
 
 Section 211 of title II of Pub. L. 104–132 provided that: “The amendments made by this subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out under section 3551 of this title\] shall, to the extent constitutionally permissible, be effective for sentencing proceedings in cases in which the defendant is convicted on or after the date of enactment of this Act \[Apr. 24, 1996\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3563, 3613, 3664 of this title.
 

@@ -200,7 +200,3 @@ Section 132(c) of Pub. L. 102–242 provided that: “The amendment made by subs
 
 Section 132(b) of Pub. L. 102–242 provided that: “Each appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) shall promulgate final regulations under section 39 of the Federal Deposit Insurance Act \[12 U.S.C. 1831p–1\] (as added by subsection (a)) not later than August 1, 1993.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1464, 1818 of this title; title 15 section 6805.
-

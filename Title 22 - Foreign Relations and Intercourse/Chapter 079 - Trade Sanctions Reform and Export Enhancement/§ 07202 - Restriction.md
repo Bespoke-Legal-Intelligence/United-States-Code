@@ -18,7 +18,3 @@ The President shall terminate any unilateral agricultural sanction or unilateral
 
 (Pub. L. 106–387, §1(a) \[title IX, §903\], Oct. 28, 2000, 114 Stat. 1549, 1549A–68.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7201, 7203, 7204, 7206 of this title.
-

@@ -26,7 +26,7 @@ The applicant shall comply with the requirements of section 1427(a) of this titl
 
 #### (e) Moral character
 
-Any such period or periods of service under honorable conditions, and good moral character, attachment to the principles of the Constitution of the United States, and favorable disposition toward the good order and happiness of the United States, during such service, shall be proved by duly authenticated copies of the records of the executive departments having custody of the records of such service, and such authenticated copies of records shall be acceptedin lieu of compliance with the provisions of section 1427(a) of this title.
+Any such period or periods of service under honorable conditions, and good moral character, attachment to the principles of the Constitution of the United States, and favorable disposition toward the good order and happiness of the United States, during such service, shall be proved by duly authenticated copies of the records of the executive departments having custody of the records of such service, and such authenticated copies of records shall be accepted in lieu of compliance with the provisions of section 1427(a) of this title.
 
 #### (f) Revocation
 
@@ -85,8 +85,4 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1429 of this title.
 

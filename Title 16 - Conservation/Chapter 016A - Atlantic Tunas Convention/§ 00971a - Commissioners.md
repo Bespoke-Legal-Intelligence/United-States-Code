@@ -42,11 +42,11 @@ Subsec. (d). Pub. L. 101–627, §203, added subsec. (d).
 
 Section 201(b) of title II of Pub. L. 101–627 provided that:
 
-“(1) Paragraph (2) of section 3(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971a(a)), asadded by this section, shall not apply to reappointment of an individual as a United States Commissioner of the International Commission for the Conservation of Atlantic Tunas (hereinafter in this title \[enacting section 971b–1 of this title, amending this section and sections 971b, 971d, and 971h of this title, and enacting provisions set out as a note below\] referred to as a ‘Commissioner’) if that individual is serving in that position on the date of enactment of this Act \[Nov. 28, 1990\].
+“(1) Paragraph (2) of section 3(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971a(a)), as added by this section, shall not apply to reappointment of an individual as a United States Commissioner of the International Commission for the Conservation of Atlantic Tunas (hereinafter in this title \[enacting section 971b–1 of this title, amending this section and sections 971b, 971d, and 971h of this title, and enacting provisions set out as a note below\] referred to as a ‘Commissioner’) if that individual is serving in that position on the date of enactment of this Act \[Nov. 28, 1990\].
 
 “(2) An individual serving a term as a Commissioner on the date of enactment of this Act shall not, by reason of that term of service, be ineligible under paragraph (3)(B) of section 3(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971a(a)), as added by this section, for reappointment as a Commissioner.”
 
 #### Termination of Current Terms and Completion of Pending Appointments
 
-Section 202 of Pub. L. 101–627 provided that: “The term as Commissioner of each individual serving in that position on the date of enactment of this Act \[Nov. 28, 1990\] shall terminate March 1, 1991. Not later than that date, the President shall complete appointment (or reappointment) of individuals to serve as Commissioners on and after that date.”
+Section 202 of Pub. L. 101–627 provided that: “The term as Commissioner of each individual serving in that position on the date of enactment of this Act\[Nov. 28, 1990\] shall terminate March 1, 1991. Not later than that date, the President shall complete appointment (or reappointment) of individuals to serve as Commissioners on and after that date.”
 

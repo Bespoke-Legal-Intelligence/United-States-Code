@@ -6,7 +6,3 @@
 
 (Aug. 4, 1950, ch. 561, §7, 64 Stat. 411.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 167g, 167h, 167j of this title.
-

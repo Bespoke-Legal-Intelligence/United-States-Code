@@ -24,7 +24,3 @@ Contracting.—The Secretary may employ any necessary staff and may enter into c
 
 (Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2946.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5342 of this title.
-

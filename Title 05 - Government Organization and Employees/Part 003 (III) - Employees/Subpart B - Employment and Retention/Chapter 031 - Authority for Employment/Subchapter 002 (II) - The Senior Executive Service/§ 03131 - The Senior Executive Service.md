@@ -58,7 +58,3 @@ Section 415 of title IV of Pub. L. 95–454 provided that:
 
 Pub. L. 98–615, title III, §301, Nov. 8, 1984, 98 Stat. 3217, provided that: “The Congress finds that the Senior Executive Service should be continued indefinitely.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3151 of this title; title 10 section 1606; title 31 section 733.
-

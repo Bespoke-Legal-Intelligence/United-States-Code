@@ -24,7 +24,3 @@ Amendment by Pub. L. 100–628 effective Nov. 7, 1988, see section 631 of Pub. L
 
 Amendment by Pub. L. 100–607 effective Nov. 4, 1988, see section 831 of Pub. L. 100–607, set out as a note under section 254e of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 290cc–21, 290cc–25, 290cc–26, 290cc–27, 290cc–31 of this title.
-

@@ -4,7 +4,7 @@
 
 (1)(A) Upon its finding that a Federal credit union insured under this subchapter is bankrupt or insolvent, the Board shall close such credit union for liquidation and appoint itself liquidating agent therefor.
 
-(B) Not later than 10 days after the date on which the Board closes a credit union for liquidation pursuant to paragraph (1), or accepts appointment as liquidating agent pursuant to subsection (b) of this section, such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for theDistrict of Columbia, for an order requiring the Board to show cause why it should not be prohibited from continuing such liquidation. Except as otherwise provided in this subparagraph, no court may take any action for or toward the removal of any liquidating agent or, except at the instance of the Board, restrain or affect the exercise of powers or functions of a liquidating agent.
+(B) Not later than 10 days after the date on which the Board closes a credit union for liquidation pursuant to paragraph (1), or accepts appointment as liquidating agent pursuant to subsection (b) of this section, such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for the District of Columbia, for an order requiring the Board to show cause why it should not be prohibited from continuing such liquidation. Except as otherwise provided in this subparagraph, no court may take any action for or toward the removal of any liquidating agent or, except at the instance of the Board, restrain or affect the exercise of powers or functions of a liquidating agent.
 
 (2) Notwithstanding any other provision of law, the Board as liquidating agent of a closed Federal credit union insured under this subchapter shall not be required to furnish bond and shall have the right to appoint an agent or agents to assist it in its duties as such liquidating agent. All fees, compensation, and expenses of liquidation and administration thereof shall be fixed by the Board and may be paid by them out of funds coming into its possession as such liquidating agent.
 
@@ -50,7 +50,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (C) Functions of credit union's officers, directors, and shareholders
 
-&emsp;&emsp;The Board may, by regulation or order, provide for the exercise of any function by any member or stockholder, director, or officer of any credit union for which the Board has been appointed conservator or liquidating agent.
+&emsp;&emsp;The Board may, by regulation or order, provide for the exercise of any function byany member or stockholder, director, or officer of any credit union for which the Board has been appointed conservator or liquidating agent.
 
 #### (D) Powers as conservator
 
@@ -80,7 +80,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (ii) State proceeding
 
-&emsp;&emsp;&emsp;If, in the case of any proceeding in a State court, the court determines that rules of civil procedure available under the laws of such State provide substantially similar protections to such party's right to due process as Rule 65 (as modified with respect to such proceeding by clause (i)),the relief sought by the Board pursuant to subparagraph (G) may be requested under the laws of such State.
+&emsp;&emsp;&emsp;If, in the case of any proceeding in a State court, the court determines that rules of civil procedure available under the laws of such State provide substantially similar protections to such party's right to due process as Rule 65 (as modified with respect to such proceeding by clause (i)), the relief sought by the Board pursuant to subparagraph (G) may be requested under the laws of such State.
 
 #### (I) Subpoena authority
 
@@ -130,7 +130,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (4) Rulemaking authority relating to determination of claims
 
-&emsp;The Board may prescribe regulations regarding the allowance or disallowance of claims by the liquidating agent and providing for administrative determination of claims and review of such determination.
+&emsp;The Board may prescribe regulations regarding the allowance or disallowance of claims bythe liquidating agent and providing for administrative determination of claims and review of such determination.
 
 #### (5) Procedures for determination of claims
 
@@ -224,7 +224,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (A) Administrative hearing
 
-&emsp;&emsp;If any claimant requests review under this subparagraph in lieu of filing or continuing any action under paragraph (6) and the Board agrees to such request, the Board shall consider the claim after opportunity for a hearing on the record. The final determination of the Board with respect to such claim shall be subject to judicial review under chapter 7 of title 5.
+&emsp;&emsp;If any claimant requests review under this subparagraph in lieu of filing or continuingany action under paragraph (6) and the Board agrees to such request, the Board shall consider the claim after opportunity for a hearing on the record. The final determination of the Board with respect to such claim shall be subject to judicial review under chapter 7 of title 5.
 
 #### (B) Other review procedures
 
@@ -306,7 +306,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (B) Payment of dividends on claims
 
-&emsp;&emsp;The liquidating agent may, in the liquidating agent's sole discretion, pay dividends on proved claims at any time, and no liability shall attach to the Board (in such Board's corporate capacity or as liquidating agent), by reason of any such payment, for failure to pay dividends to a claimant whose claim is not proved at the time of any such payment.
+&emsp;&emsp;The liquidating agent may, in the liquidating agent's sole discretion, pay dividends onproved claims at any time, and no liability shall attach to the Board (in such Board's corporate capacity or as liquidating agent), by reason of any such payment, for failure to pay dividends to a claimant whose claim is not proved at the time of any such payment.
 
 #### (11) Distribution of assets
 
@@ -398,7 +398,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (B) Annual accounting or report
 
-&emsp;&emsp;With respect to each conservatorship or liquidation to which the Board was appointed, the Board shall make an annual accounting or report, as appropriate, available to the Comptroller General of the United States or, in the case of a State-chartered credit union, the authority which appointed the Board as conservator or liquidating agent.
+&emsp;&emsp;With respect to each conservatorship or liquidation to which the Board was appointed, the Board shall make an annual accounting or report, as appropriate, availableto the Comptroller General of the United States or, in the case of a State-chartered credit union, the authority which appointed the Board as conservator or liquidating agent.
 
 #### (C) Availability of reports
 
@@ -568,7 +568,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (A) Services performed before appointment
 
-&emsp;&emsp;In the case of any contract for services between any person and any insured credit union for which the Board has been appointed conservator or liquidating agent, any claim of such person for services performed before the appointment of the conservator or the liquidating agent shall be—
+&emsp;&emsp;In the case of any contract for services between any person and any insured creditunion for which the Board has been appointed conservator or liquidating agent, any claim of such person for services performed before the appointment of the conservator or the liquidating agent shall be—
 
 &emsp;&emsp;&emsp;(i) a claim to be paid in accordance with subsection (b) of this section; and
 
@@ -638,7 +638,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;&emsp;(I) has the meaning given to such term in section 101 of title 11, except that the items (as described in such section) which may be subject to any such agreement shall be deemed to include mortgage-related securities (as such term is defined in section 78c(a)(41) of title 15,<sup>1</sup> any mortgage loan, and any interest in any mortgage loan; and
 
-&emsp;&emsp;&emsp;&emsp;(II) does not include any participation in a commercial mortgage loan unless the Board determines by regulation, resolution, or order to include any such participation within the meaning of such term.
+&emsp;&emsp;&emsp;&emsp;(II) does not include any participation in a commercial mortgage loan unlessthe Board determines by regulation, resolution, or order to include any such participation within the meaning of such term.
 
 #### (v) Transfer
 
@@ -672,7 +672,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;(iv) all property securing any claim described in clause (ii) or (iii) under any such contract; or
 
-&emsp;&emsp;(B) transfer none of the financial contracts, claims, or property referred to insubparagraph (A) (with respect to such person and any affiliate of such person).
+&emsp;&emsp;(B) transfer none of the financial contracts, claims, or property referred to in subparagraph (A) (with respect to such person and any affiliate of such person).
 
 #### (10) Notification of transfer
 
@@ -748,7 +748,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (2) Dividends on subrogated amounts
 
-&emsp;The subrogation of the Board under paragraph (1) with respect to any insured credit union shall include the right on the part of the Board to receive the same dividends from the proceeds of the assets of such credit union as would have been payable to the accountholder on a claim for the insured deposit, but suchaccountholder shall retain such claim for any uninsured or unassumed portion of the deposit.
+&emsp;The subrogation of the Board under paragraph (1) with respect to any insured credit union shall include the right on the part of the Board to receive the same dividends from the proceeds of the assets of such credit union as would have been payable to the accountholder on a claim for the insured deposit, but such accountholder shall retain such claim for any uninsured or unassumed portion of the deposit.
 
 #### (f) Valuation of claims in default
 
@@ -784,7 +784,7 @@ A director or officer of an insured credit union may be held personally liable f
 
 &emsp;(3) acting based upon a suit, claim, or cause of action purchased from, assigned by, or otherwise conveyed in whole or in part by an insured credit union or its affiliate in connection with assistance provided under section 1788 of this title,
 
-> for gross negligence, including any similar conduct or conduct that demonstrates a greater disregard of a duty of care (than gross negligence) including intentional tortious conduct, as such terms are defined and determined under applicable State law. Nothing in this paragraph shall impair or affect any right, if any, of the Board under other applicable law.
+> for gross negligence, including any similar conduct or conduct that demonstrates a greater disregard of a duty of care (than gross negligence)including intentional tortious conduct, as such terms are defined and determined under applicable State law. Nothing in this paragraph shall impair or affect any right, if any, of the Board under other applicable law.
 
 #### (i) Damages
 
@@ -822,7 +822,7 @@ Payment of an insured account to any person by the Board shall discharge the Boa
 
 #### (m) Undisclosed names
 
-Except as otherwise prescribed by the Board, the Board shall not be required to recognize as the owner of any portion of an account appearing on the records of the closed credit union under a name other than that of the claimant any person whose name or interest as such owner is not disclosed on the records of such closed credit union as part owner of such account, if such recognition would increase the aggregate amount of the insured accounts in such closed credit union.
+Except as otherwise prescribed by the Board, the Board shall not be required to recognize as the owner of any portion of an account appearing on the records of the closed credit union under a name other than that of the claimant any person whose name or interest as suchowner is not disclosed on the records of such closed credit union as part owner of such account, if such recognition would increase the aggregate amount of the insured accounts in such closed credit union.
 
 #### (n) Withholding of payment due to liability of credit union member
 
@@ -924,7 +924,7 @@ Subsecs. (<i>l</i>) to (p). Pub. L. 101–73, §1217(a)(3), redesignated former 
 
 1987—Subsec. (a)(1). Pub. L. 100–86, §714(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (j). Pub. L. 100–86, §714(b), redesignated former section 1788(c) of this title as subsec. (j) of this section and substituted “subject only to the regulationof the Board, or, in cases where the Board has been appointed liquidating agent solely by a public authority having jurisdiction over the matter other than said Board, subject only to the regulation of such public authority” for “subject to the regulation of the court or other public body having jurisdiction over the matter”.
+Subsec. (j). Pub. L. 100–86, §714(b), redesignated former section 1788(c) of this title as subsec. (j) of this section and substituted “subject only to the regulation of the Board, or, in cases where the Board has been appointed liquidating agent solely by a public authority having jurisdiction over the matter other than said Board, subject only to the regulation of such public authority” for “subject to the regulation of the court or other public body having jurisdiction over the matter”.
 
 1986—Subsec. (c)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -970,13 +970,9 @@ For effective date of amendment by section 101(c)(1), (2) of Pub. L. 93–495 se
 
 Section 104(b), (c) of Pub. L. 93–495 provided that:
 
-“(b) The amendment made by this section \[amending this section\] is not applicable to any claim arising out of the closing of a credit union for liquidation on account of bankruptcy or insolvency pursuant to section 207 of title II of the Federal Credit Union Act (12 U.S.C. 1787) prior to the effective date of this section.
+“(b) The amendment made by this section \[amending this section\] is not applicable to any claim arising outof the closing of a credit union for liquidation on account of bankruptcy or insolvency pursuant to section 207 of title II of the Federal Credit Union Act (12 U.S.C. 1787) prior to the effective date of this section.
 
 “(c) The amendment made by this section shall take effect on the thirtieth day beginning after the date of enactment of this Act \[Oct. 28, 1974.\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1752, 1757, 1782, 1783, 1786 of this title.
 
 <i><sup>1</sup></i><i> So in original. A close parenthesis probably should precede the comma.</i>
 

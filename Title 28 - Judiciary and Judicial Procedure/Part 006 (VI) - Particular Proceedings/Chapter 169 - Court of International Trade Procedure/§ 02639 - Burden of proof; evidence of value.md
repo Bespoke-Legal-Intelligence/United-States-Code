@@ -28,7 +28,3 @@ Subsec. (a)(2) of this section applicable with respect to civil actions commence
 
 Subsec. (b) of this section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(B) of Pub. L. 96–417.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2641 of this title; title 19 section 1499.
-

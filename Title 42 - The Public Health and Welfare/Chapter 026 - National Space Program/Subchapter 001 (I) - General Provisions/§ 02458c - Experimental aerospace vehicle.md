@@ -22,11 +22,11 @@ The Administrator may provide liability insurance for, or indemnification to, th
 
 #### (B) Maximum required
 
-&emsp;&emsp;The Administrator shall determine the amount of insurance required, but, except asprovided in subparagraph (C), that amount shall not be greater than the amount required under section 70112(a)(3) of title 49 for a launch. The Administrator shall publish notice of the Administrator's determination and the applicable amount or amounts in the Federal Register within 10 days after making the determination.
+&emsp;&emsp;The Administrator shall determine the amount of insurance required, but, except as provided in subparagraph (C), that amount shall not be greater than the amount required under section 70112(a)(3) of title 49 for a launch. The Administrator shall publish notice of the Administrator's determination and the applicable amount or amounts in the Federal Register within 10 days after making the determination.
 
 #### (C) Increase in dollar amounts
 
-&emsp;&emsp;The Administrator may increase the dollar amounts set forth in section 70112(a)(3)(A) of title 49 for the purpose of applying that section under this section to a developer after consultation with the Comptroller General and such experts and consultants as may be appropriate, and after publishing notice of the increase in the Federal Register not less than 180 days before the increase goes into effect. The Administrator shall make available for public inspection, not later than the date of publication of such notice, a complete record of any correspondence received by the Administration, and a transcript of any meetings in which the Administration participated, regarding the proposed increase.
+&emsp;&emsp;The Administrator may increase the dollar amounts set forth in section 70112(a)(3)(A) of title 49 for the purpose of applying that section under this section to a developer after consultation with the Comptroller General and such experts and consultants as may be appropriate, and after publishing notice of the increase in the Federal Register not less than 180 days before the increase goes into effect. The Administrator shall make available for public inspection, not later than the date of publication of such notice, a complete record of any correspondence received by the Administration, and a transcript of any meetings in which the Administrationparticipated, regarding the proposed increase.
 
 #### (D) Safety review required before Administrator provides insurance
 

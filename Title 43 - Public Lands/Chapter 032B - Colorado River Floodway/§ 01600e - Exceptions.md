@@ -46,9 +46,5 @@ The Disaster Relief Act of 1974, referred to in subsec. (e)(5), is Pub. L. 93–
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1600c, 1600d, 1600j, 1600<i>l</i> of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

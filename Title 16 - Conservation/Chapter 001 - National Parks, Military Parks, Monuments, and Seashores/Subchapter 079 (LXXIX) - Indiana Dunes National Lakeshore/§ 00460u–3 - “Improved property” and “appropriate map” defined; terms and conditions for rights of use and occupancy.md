@@ -49,7 +49,3 @@ As used in this subchapter, the term “improved property” means a detached, o
 
 1976—Pub. L. 94–549 struck out subsec. (a) which related to the suspension of the authority of the Secretary to acquire improved property by condemnation when an appropriate zoning agency had in force a valid zoning ordinance, designated subsec. (b) as the entire provision, and in the entire provision as so designated, inserted provision including in definition of “improved property” a one-family dwelling the construction of which was begun before February 1, 1973, or in the case of improved property located within the boundaries of the map bearing the number “LNPNE–1008–ID”, property the construction of which was begun before January 4, 1965, and provision which subjected all rights of use and occupancy to terms and conditions the Secretary deems appropriate.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460u–5, 460u–7, 460u–13, 460u–16 of this title.
-

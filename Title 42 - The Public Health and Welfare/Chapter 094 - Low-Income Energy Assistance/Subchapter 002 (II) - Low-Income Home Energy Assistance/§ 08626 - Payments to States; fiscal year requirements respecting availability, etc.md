@@ -42,7 +42,7 @@ In subsec. (a)(1), “section 6503(a) of title 31” substituted for “section 
 
 1990—Subsec. (b)(2)(B). Pub. L. 101–501 substituted “10 percent” for “15 percent”.
 
-1984—Subsec. (b)(2)(A). Pub. L. 98–558, §606(a), inserted “Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for thefollowing fiscal year.” and “or the amount payable to” after “computing the allotment of”.
+1984—Subsec. (b)(2)(A). Pub. L. 98–558, §606(a), inserted “Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for the following fiscal year.” and “or the amount payable to” after “computing the allotment of”.
 
 Subsec. (b)(2)(B). Pub. L. 98–558, §606(b), substituted “15 percent” for “25 percent”, “payable to such State for such prior fiscal year and not transferred pursuant to section 8623(f) of this title” for “allotted to such State for such prior fiscal year”, and “payable to a State but not transferred by the State” for “allotted to a State” in second sentence.
 
@@ -59,8 +59,4 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–558 applicable to amounts held available for fiscal years beginning after Sept. 30, 1985, see section 609(c) of Pub. L. 98–558, set out as a note under section 8621 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8623 of this title.
 

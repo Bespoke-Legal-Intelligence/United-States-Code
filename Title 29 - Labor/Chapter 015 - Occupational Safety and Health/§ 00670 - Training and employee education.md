@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary of Health and Human Services to conduct education and informational programs; consultations
 
-The Secretary of Health and Human Services, after consultation with the Secretary and with other appropriate Federal departments and agencies, shall conduct, directly or by grants or contracts (1) education programs to provide an adequate supply of qualified personnel to carry out the purposes of this chapter, and (2) informational programs on the importance of and proper use of adequate safety and health equipment.
+The Secretary of Health and Human Services, after consultation with the Secretary and with other appropriate Federal departments and agencies, shall conduct, directly or by grants or contracts (1) education programs to provide anadequate supply of qualified personnel to carry out the purposes of this chapter, and (2) informational programs on the importance of and proper use of adequate safety and health equipment.
 
 #### (b) Authority of Secretary of Labor to conduct short-term training of personnel
 
@@ -50,9 +50,13 @@ The Secretary, in consultation with the Secretary of Health and Human Services, 
 
 #### Retention of Training Institute Course Tuition Fees by OSHA
 
-Pub. L. 108–7, div. G, title I, Feb. 20, 2003, 117 Stat. 303, provided in part that: “notwithstanding 31 U.S.C. 3302, the Occupational Safety and Health Administration may retain up to $750,000 per fiscal year of training institute course tuition fees, otherwise authorized by law to be collected, and may utilize such sums for occupational safety and health training and education grants”.
+Pub. L. 108–447, div. F, title I, Dec. 8, 2004, 118 Stat. 3118, provided in part that: “notwithstanding 31 U.S.C. 3302, the Occupational Safety and Health Administration may retain up to $750,000 per fiscal year of training institute course tuition fees, otherwise authorized by law to be collected, and may utilize such sums for occupational safety and health training and education grants”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–199, div. E, title I, Jan. 23, 2004, 118 Stat. 232.
+
+Pub. L. 108–7, div. G, title I, Feb. 20, 2003, 117 Stat. 303.
 
 Pub. L. 107–116, title I, Jan. 10, 2002, 115 Stat. 2182.
 
@@ -69,8 +73,4 @@ Pub. L. 104–208, div. A, title I, §101(e) \[title I\], Sept. 30, 1996, 110 St
 Pub. L. 104–134, title I, §101(d) \[title I\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–217; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 103–333, title I, Sept. 30, 1994, 108 Stat. 2544.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 671 of this title.
 

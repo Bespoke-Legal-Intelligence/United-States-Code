@@ -20,17 +20,13 @@
 
 #### (c) <sup>1</sup> Deadline for commencing action
 
-A civil action for judicial review described under subsection (a)(1) of this section may be brought not later than the 180th day after the date of the decision or action or failure to act involved, as the case may be, except that if a party shows that he did not know of the decision or action complained of (or of the failure to act), and that a reasonable person acting under the circumstances would not have known, suchparty may bring a civil action not later than the 180th day after the date such party acquired actual or constructive knowledge of such decision, action, or failure to act.
+A civil action for judicial review described under subsection (a)(1) of this section may be brought not later than the 180th day after the date of the decision or action or failure to act involved, as the case may be, except that if a party shows that he did not know of the decision or action complained of (or of the failure to act), and that a reasonable person acting under the circumstances would not have known, such party may bring a civil action not later than the 180th day after the date such party acquired actual or constructive knowledge of such decision, action, or failure to act.
 
 (Pub. L. 97–425, title I, §119, Jan. 7, 1983, 96 Stat. 2227.)
 
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(D), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10132, 10145, 10155, 10201, 10244 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

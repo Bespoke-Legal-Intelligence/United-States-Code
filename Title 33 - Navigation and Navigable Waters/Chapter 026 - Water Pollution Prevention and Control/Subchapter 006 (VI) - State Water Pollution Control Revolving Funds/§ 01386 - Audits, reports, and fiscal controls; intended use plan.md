@@ -2,7 +2,7 @@
 
 #### (a) Fiscal control and auditing procedures
 
-Each State electing to establish a water pollution control revolving fund under this subchapter shall establish fiscal controls and accounting procedures sufficient to assure proper accounting during appropriate accounting periods for—
+Each State electing to establish a water pollution control revolving fund under this subchapter shall establish fiscal controls and accounting procedures sufficient to assure properaccounting during appropriate accounting periods for—
 
 &emsp;(1) payments received by the fund;
 
@@ -12,7 +12,7 @@ Each State electing to establish a water pollution control revolving fund under 
 
 #### (b) Annual Federal audits
 
-The Administrator shall, at least on an annual basis, conduct or require each State to have independently conducted reviews and audits as may be deemed necessary or appropriate by the Administrator to carry out the objectives of this section. Audits of the use of funds deposited in the water pollution revolving fund established by such State shall be conducted in accordance with the auditing procedures of the General Accounting Office, including chapter 75 of title 31.
+The Administrator shall, at least on an annual basis, conduct or require each State to have independently conducted reviews and audits as may be deemed necessary or appropriate by the Administrator to carry out the objectives of this section. Audits of the use of funds deposited in the water pollution revolving fund established by such State shall be conducted in accordance with the auditing procedures of the Government Accountability Office, including chapter 75 of title 31.
 
 #### (c) Intended use plan
 
@@ -40,9 +40,9 @@ The Administrator shall conduct an annual oversight review of each State plan pr
 
 Except to the extent provided in this subchapter, the provisions of subchapter II of this chapter shall not apply to grants under this subchapter.
 
-(June 30, 1948, ch. 758, title VI, §606, as added Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 25.)
+(June 30, 1948, ch. 758, title VI, §606, as added Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 25; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 1301, 1381, 1382 of this title.
+2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

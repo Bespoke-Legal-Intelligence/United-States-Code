@@ -8,7 +8,7 @@ Not later than 1 year after November 13, 2000, and every five years thereafter, 
 
 #### (1) In general
 
-&emsp;A State, or a consortium of two or more States or political subdivisions of States, may contract with an outside entity to perform the evaluation described in subsection (a) of this section.
+&emsp;A State, or a consortium of two or more States or political subdivisions of States, maycontract with an outside entity to perform the evaluation described in subsection (a) of this section.
 
 #### (2) Methods
 
@@ -31,8 +31,4 @@ There are authorized to be appropriated to carry out this section $45,000,000 fo
 #### Amendments
 
 2002—Subsec. (a). Pub. L. 107–188 substituted “five years” for “10 years” in first sentence.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 247d–3, 247d–3a, 247d–4, 247d–7c of this title.
 

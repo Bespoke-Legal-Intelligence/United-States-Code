@@ -1,5 +1,5 @@
 
-6 U.S.C.<br>United States Code, 2003 Edition<br>Title 6 - DOMESTIC SECURITY<br>From the U.S. Government Publishing Office, www.gpo.gov
+6 U.S.C.<br>United States Code, 2004 Edition<br>Title 6 - DOMESTIC SECURITY<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 6—DOMESTIC SECURITY
 

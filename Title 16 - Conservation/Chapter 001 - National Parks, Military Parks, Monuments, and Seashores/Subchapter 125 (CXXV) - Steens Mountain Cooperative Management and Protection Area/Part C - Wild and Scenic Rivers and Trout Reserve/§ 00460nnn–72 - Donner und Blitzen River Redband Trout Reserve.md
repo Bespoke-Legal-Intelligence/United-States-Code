@@ -54,7 +54,3 @@ The Wilderness Act, referred to in subsec. (e)(1), is Pub. L. 88–577, Sept. 3,
 
 The Wild and Scenic Rivers Act, referred to in subsec. (e)(1), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, as amended, which is classified generally to chapter 28 (§1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460nnn of this title.
-

@@ -6,15 +6,11 @@ Where the Commission finds private facilities or laboratories are inadequate for
 
 #### Amendments
 
-1971—Pub. L. 92–84 substituted provisions authorizing the Commission to conduct research for other persons for the development of energy, for provisions authorizing the Commission to conduct research for other persons for the development of atomic energy.
+1971—Pub. L. 92–84 substituted provisions authorizing the Commission to conduct research for other personsfor the development of energy, for provisions authorizing the Commission to conduct research for other persons for the development of atomic energy.
 
 1967—Pub. L. 90–190 inserted provision which authorized the Commission, to the extent the Commission made certain determinations, to assist other persons on the fields of protection of public health and safety by conducting for such persons, through the facilities of the Commission, research and development or training activities and studies, and substituted “the activities and studies referred to in this section” for “such activities and studies”.
 
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5817, 7259a of this title.
 

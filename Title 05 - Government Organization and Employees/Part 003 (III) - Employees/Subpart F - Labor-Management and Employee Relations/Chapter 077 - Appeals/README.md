@@ -12,10 +12,6 @@
 
 1978—Pub. L. 95–454, title II, §205, Oct. 13, 1978, 92 Stat. 1138, substituted “Appellate procedures” for “Appeals of preference eligibles” in item 7701, and added items 7702 and 7703.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 9701, 9902 of this title; title 6 section 293; title 29 section 783.
-
 
 ---
 

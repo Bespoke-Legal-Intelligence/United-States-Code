@@ -122,7 +122,7 @@ Subsec. (e). Pub. L. 105–178, §1115(d)(3), substituted “Secretary of the ap
 
 Subsec. (h)(8). Pub. L. 105–178, §1115(d)(4), added par. (8).
 
-Subsec. (i). Pub. L. 105–178, §1115(d)(5), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “The Secretary shall transfer to the Secretary of the Interior from the appropriation for public land highways amounts as may be needed to cover necessary administrative costs of the Bureau of Land Management in connection with public lands highways.”
+Subsec. (i). Pub. L. 105–178, §1115(d)(5), added subsec. (i) and struck out heading and text of former subsec.\(i). Text read as follows: “The Secretary shall transfer to the Secretary of the Interior from the appropriation for public land highways amounts as may be needed to cover necessary administrative costs of the Bureau of Land Management in connection with public lands highways.”
 
 Subsec. (j). Pub. L. 105–178, §1115(d)(6), substituted second sentence for former second sentence which read as follows: “The Indian tribal government, in cooperation with the Secretary of the Interior, and, as may be appropriate, with a State, local government, or metropolitan planning organization, shall develop a transportation improvement program, that includes all Indian reservation road projects proposed for funding.”
 
@@ -163,10 +163,6 @@ Subsec. (h). Pub. L. 97–424 redesignated former subsec. (f) as (h), substitute
 #### Effective Date of 1991 Amendment
 
 Amendment by sections 1030 and 1032 of Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 104, 120, 138, 315 of this title; title 16 section 460<i>lll</i>–14; title 41 section 252; title 49 section 303.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of funds”.</i>
 

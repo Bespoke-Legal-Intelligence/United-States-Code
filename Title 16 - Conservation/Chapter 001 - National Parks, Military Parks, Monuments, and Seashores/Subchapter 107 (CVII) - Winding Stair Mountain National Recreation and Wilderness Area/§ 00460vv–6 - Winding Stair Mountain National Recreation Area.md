@@ -14,7 +14,7 @@ The Secretary of Agriculture (hereinafter in this section referred to as the “
 
 #### (d) Administration
 
-The Secretary shall administer the recreation area in accordance with the laws, rules and regulations applicable to the national forests in such manner as will best further the purposes ofthis section, as set forth in subsection (a) of this section. Management and utilization of natural resources within the recreation area shall be permitted to the extent such management and utilization is compatible with and does not impair the purposes for which the recreation area is established.
+The Secretary shall administer the recreation area in accordance with the laws, rules and regulations applicable to the national forests in such manner as will best further the purposes of this section, as set forth in subsection (a) of this section. Management and utilization of natural resources within the recreation area shall be permitted to the extent such management and utilization is compatible with and does not impair the purposes for which the recreation area is established.
 
 #### (e) Timber management
 
@@ -24,5 +24,5 @@ Any sales of timber from within the recreation area shall be designed so as to n
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One HundredThird Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

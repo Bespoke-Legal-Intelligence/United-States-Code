@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—SMALL COMMUNITY AIR SERVICE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 329, 40117, 41709, 41714 of this title; title 39 section 5402.
-
 
 ---
 

@@ -10,7 +10,3 @@ The portion of the boundary of the Great Smoky Mountains National Park that is c
 
 (July 26, 1950, ch. 492, §1, 64 Stat. 377.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 403k–1 of this title.
-

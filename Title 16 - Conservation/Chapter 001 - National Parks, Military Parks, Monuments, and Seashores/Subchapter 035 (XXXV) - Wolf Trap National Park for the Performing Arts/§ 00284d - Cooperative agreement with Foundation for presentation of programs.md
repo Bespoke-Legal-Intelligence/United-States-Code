@@ -42,7 +42,3 @@ Amendment by Pub. L. 101–636 effective on the date on which the Wolf Trap Foun
 
 For termination, effective May 15, 2000, of provisions in subsec. (c)(2) of this section relating to submitting annual report to appropriate committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 116 of House Document No. 103–7.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 284c, 284i of this title.
-

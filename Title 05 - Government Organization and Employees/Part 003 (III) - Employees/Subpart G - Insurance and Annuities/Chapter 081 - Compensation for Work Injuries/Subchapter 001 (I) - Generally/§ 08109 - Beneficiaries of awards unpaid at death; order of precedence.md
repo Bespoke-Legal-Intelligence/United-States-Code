@@ -76,7 +76,3 @@ July 4, 1966, Pub. L. 89–488, §2(d), 80 Stat. 252.
 
 Increases authorized under amendment by Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8115 of this title; title 18 section 1921.
-

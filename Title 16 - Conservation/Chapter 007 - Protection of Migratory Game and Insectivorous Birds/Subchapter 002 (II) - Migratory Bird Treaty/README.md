@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—MIGRATORY BIRD TREATY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 459a–1, 668d, 695b, 695p, 715j, 718, 718f, 2404, 2407, 2408, 2912, 3125, 4402 of this title.
-
 
 ---
 

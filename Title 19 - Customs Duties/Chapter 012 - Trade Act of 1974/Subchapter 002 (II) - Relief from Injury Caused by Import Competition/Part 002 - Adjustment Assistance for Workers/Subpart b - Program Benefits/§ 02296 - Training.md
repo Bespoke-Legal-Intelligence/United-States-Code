@@ -16,7 +16,7 @@
 
 &emsp;(F) such training is suitable for the worker and available at a reasonable cost,
 
-> the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on his behalf by the Secretary directly or through a voucher system.Insofar as possible, the Secretary shall provide or assure the provision of such training on the job, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.
+> the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on his behalf by the Secretary directly or through a voucher system. Insofar as possible, the Secretary shall provide or assure the provision of such training on the job, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.
 
 (2)(A) The total amount of payments that may be made under paragraph (1) for any fiscal year shall not exceed $220,000,000.
 
@@ -102,7 +102,7 @@ The Secretary shall pay the costs of any on-the-job training of an adversely aff
 
 &emsp;(7) such training is not for the same occupation from which the worker was separated and with respect to which such worker's group was certified pursuant to section 2272 of this title,
 
-&emsp;(8) the employer is provided reimbursement of not more than 50 percent of the wage rate of the participant, for the cost of providing the training and additional supervision related to the training,
+&emsp;(8) the employer is provided reimbursement of not more than 50 percent of the wage rate of the participant, for the cost of providingthe training and additional supervision related to the training,
 
 &emsp;(9) the employer has not received payment under subsection (a)(1) of this section with respect to any other on-the-job training provided by such employer which failed to meet the requirements of paragraphs (1), (2), (3), (4), (5), and (6), and
 
@@ -160,7 +160,7 @@ Subsec. (a)(1)(F). Pub. L. 100–418, §1424(a)(2)–(4), added subpar. (F).
 
 Subsec. (a)(2). Pub. L. 100–418, §1424(a)(11), (12), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (a)(2)(A). Pub. L. 100–418, §1424(b), directed the amendment of subpar. (A) by substituting “$120,000,000” for “$80,000,000”, which amendment did not become effective pursuant to section 1430(d) of Pub. L. 100–418, as amended, set out as an Effective Date note under section 2397 of this title.
+Subsec. (a)(2)(A). Pub. L. 100–418, §1424(b), directed the amendment of subpar. (A) by substituting “$120,000,000” for “$80,000,000”, which amendment did not become effective pursuant to section 1430(d) of Pub.L. 100–418, as amended, set out as an Effective Date note under section 2397 of this title.
 
 Subsec. (a)(3), (4). Pub. L. 100–418, §1424(a)(11), redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
@@ -219,10 +219,6 @@ No trade adjustment assistance, vouchers, allowances, or other payments or benef
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to submitting a quarterly report to Congress on funds for training under subsection (a) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 124 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2275, 2291, 2293, 2297, 2298, 2311, 2317, 2401e of this title; title 7 section 2015.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@ There are authorized to be appropriated to the Secretary $16,000,000 for each of
 
 The unexpended balances of appropriations authorized by section 1912(d) <sup>1</sup> of this title are transferred to the Secretary to carry out his functions under this part.
 
-(Pub. L. 93–618, title II, §256, Jan. 3, 1975, 88 Stat. 2032; Pub. L. 97–35, title XXV, §2524, Aug. 13, 1981, 95 Stat. 892; Pub. L. 99–272, title XIII, §13008(b), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(2), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. J, title I, §1012(c), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §§111(b), 131, Aug. 6, 2002, 116 Stat. 936, 946.)
+(Pub. L. 93–618, title II, §256, Jan. 3, 1975, 88 Stat. 2032; Pub. L. 97–35, title XXV, §2524, Aug. 13, 1981, 95 Stat. 892; Pub. L. 99–272, title XIII, §13008(b), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(2), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. J, title I, §1012(c), Oct. 21, 1998, 112 Stat. 2681–901; Pub.L. 106–113, div. B, §1000(a)(5) \[title VII, §702(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §§111(b), 131, Aug. 6, 2002, 116 Stat. 936, 946; Pub. L. 108–429, title II, §2004(a)(3), Dec. 3, 2004, 118 Stat. 2589.)
 
 #### References in Text
 
@@ -24,9 +24,11 @@ Section 1912 of this title, referred to in subsec. (c), was repealed by section 
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–210, §131, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are hereby authorized to be appropriated to the Secretary for the period beginning October 1, 2001, and ending September 30, 2007, such sums as may be necessary to carry out his functions under this part in connection with furnishing adjustment assistance to firms (including, but not limited to, the payment of principal, interest, and reasonable costs incident to default on loans guaranteed by the Secretary under the authority of this part), which sums are authorized to be appropriated to remain available until expended.”
+2004—Subsec. (b). Pub. L. 108–429 deemed amendment by Pub. L. 107–210, §111(b), never to have been enacted. See 2002 Amendment note below.
 
-Pub. L. 107–210, §111(b), substituted “October 1, 2001, and ending September 30, 2007,” for “October 1, 1998, and ending September 30, 2001”.
+2002—Subsec. (b). Pub. L. 107–210, §131, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are hereby authorized to be appropriated to the Secretary for the period beginning October 1, 1998, and ending September 30, 2001, such sums as may be necessary to carry out his functions under this part in connection with furnishing adjustment assistance to firms (including, but not limited to, the payment of principal, interest, and reasonable costs incident to default on loans guaranteed by the Secretary under the authority of this part), which sums are authorized to be appropriated to remain available until expended.”
+
+Pub. L. 107–210, §111(b), substituted “October 1, 2001, and ending September 30, 2007,” for “October 1, 1998, and ending September 30, 2001”. Pub. L. 108–429, title II, §2004(a)(3), provided that the amendment by Pub. L. 107–210, §111(b), shall be deemed never to have been enacted.
 
 1999—Subsec. (b). Pub. L. 106–113 substituted “September 30, 2001” for “June 30, 1999”.
 

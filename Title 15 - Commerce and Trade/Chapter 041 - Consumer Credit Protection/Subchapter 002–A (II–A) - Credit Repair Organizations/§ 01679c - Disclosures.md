@@ -52,7 +52,3 @@ The Credit Repair Organization Act, referred to in subsec. (a), probably means t
 
 For a prior section 405 of Pub. L. 90–321, see note set out under section 1679 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1679e of this title.
-

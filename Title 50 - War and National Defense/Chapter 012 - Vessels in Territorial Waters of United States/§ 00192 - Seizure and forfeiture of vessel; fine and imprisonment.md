@@ -10,17 +10,33 @@ If any other person knowingly fails to comply with any regulation or rule issued
 
 #### (c) Civil penalty
 
-A person violating this Act, or a regulation prescribed under this Act, shall be liable to the United States Government for a civil penalty of not more than $25,000 for each violation. Each day of a continuing violation shall constitute a separate violation.
+A person violating this title,<sup>1</sup> or a regulation prescribed under this title,<sup>1</sup> shall be liable to the United States Government for a civil penalty of not more than $25,000 for each violation. Each day of a continuing violation shall constitute a separate violation.
 
-(June 15, 1917, ch. 30, title II, §2, 40 Stat. 220; Mar. 28, 1940, ch. 72, §3(a), 54 Stat. 79; Nov. 15, 1941, ch. 471, §3, 55 Stat. 763; Aug. 9, 1950, ch. 656, §3, 64 Stat. 428; Pub. L. 107–295, title I, §104(b), Nov. 25, 2002, 116 Stat. 2085.)
+#### (d) In rem liability
+
+Any vessel that is used in violation of this title,<sup>1</sup> or of any regulation issued under this title,<sup>1</sup> shall be liable in rem for any civil penalty assessed pursuant to subsection (c) of this section and may be proceeded against in the United States district court for any district in which such vessel may be found.
+
+#### (e) Withholding of clearance
+
+#### (1) In general
+
+&emsp;If any owner, agent, master, officer, or person in charge of a vessel is liable for a penalty or fine under subsection (c) of this section, or if reasonable cause exists to believe that the owner, agent, master, officer, or person in charge may be subject to a penalty or fine under this section, the Secretary may, with respect to such vessel, refuse or revoke any clearance required by section 91 of title 46, Appendix.
+
+#### (2) Clearance upon filing of bond or other surety
+
+&emsp;The Secretary may require the filing of a bond or other surety as a condition of granting clearance refused or revoked under this subsection.
+
+(June 15, 1917, ch. 30, title II, §2, 40 Stat. 220; Mar. 28, 1940, ch. 72, §3(a), 54 Stat. 79; Nov. 15, 1941, ch. 471, §3, 55 Stat. 763; Aug. 9, 1950, ch. 656, §3, 64 Stat. 428; Pub. L. 107–295, title I, §104(b), Nov. 25, 2002, 116 Stat. 2085; Pub. L. 108–293, title VIII, §802(b), Aug. 9, 2004, 118 Stat. 1079.)
 
 #### References in Text
 
-This title, referred to in subsecs. (a) and (b), means title II of act June 15, 1917, ch. 30, 40 Stat. 220, as amended, which enacted sections 191 and 192 to 194 of this title. For complete classification of title II to the Code, see Tables.
-
-This Act, referred to in subsec. (c), means act June 15, 1917, ch. 30, 40 Stat. 217, as amended. For complete classification of this Act to the Code, see Tables.
+This title, referred to in subsecs. (a) to (d), means title II of act June 15, 1917, ch. 30, 40 Stat. 220, as amended, which enacted sections 191 and 192 to 194 of this title. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–293, §802(b)(1), substituted “title” for “Act” in two places.
+
+Subsecs. (d), (e). Pub. L. 108–293, §802(b)(2), added subsecs. (d) and (e).
 
 2002—Pub. L. 107–295 inserted subsec. headings, designated first par. as subsec. (a), redesignated former subsec. (a) as (b), and added subsec. (c).
 
@@ -33,10 +49,6 @@ This Act, referred to in subsec. (c), means act June 15, 1917, ch. 30, 40 Stat. 
 #### Termination Date of 1950 Amendment
 
 For termination of amendment by act Aug. 9, 1950, see section 4 of act Aug. 9, 1950, set out as a note under section 191 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 267.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

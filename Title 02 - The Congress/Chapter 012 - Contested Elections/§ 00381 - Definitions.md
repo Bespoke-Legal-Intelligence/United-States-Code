@@ -24,7 +24,7 @@ For purposes of this chapter:
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186, §211(1)(A)–(C), substituted “chapter:” for “chapter—” in introductory provisions, redesignated subdivs. (a) to (i) as pars. (1) to (9), respectively, and realigned margins of pars. (1) to (9).
+1996—Pub. L. 104–186, §211(1)(A)–(C), substituted “chapter:” for “chapter—” in introductory provisions, redesignated subdivs. (a) to (i) as pars. (1) to (9), respectively, and realigned margins of pars. (1) to (9).
 
 Par. (1). Pub. L. 104–186, §211(2)(A), substituted “, or Delegate or Resident Commissioner to, the Congress, but that term” for “or Resident Commissioner to the Congress of the United States, but”.
 

@@ -76,7 +76,3 @@ The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(A
 
 A prior section 6398, Pub. L. 89–10, title I, §1308, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3590, related to coordination of migrant education activities, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6393, 7911 of this title.
-

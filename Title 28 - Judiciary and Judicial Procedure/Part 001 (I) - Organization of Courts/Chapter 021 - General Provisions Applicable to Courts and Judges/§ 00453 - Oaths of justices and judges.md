@@ -22,7 +22,3 @@ The Attorney General has ruled that the expression “any judge of any court of 
 
 Amendment by Pub. L. 101–650 effective 90 days after Dec. 1, 1990, see section 407 of Pub. L. 101–650, set out as a note under section 332 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 153, 460, 631, 655 of this title.
-

@@ -36,7 +36,7 @@ The provisions of section 7001 of this title shall not apply to—
 
 #### (2) Determinations
 
-&emsp;If a Federal regulatory agency, with respect to matter within its jurisdiction, determinesafter notice and an opportunity for public comment, and publishes a finding, that one or more such exceptions are no longer necessary for the protection of consumers and eliminating such exceptions will not increase the material risk of harm to consumers, such agency may extend the application of section 7001 of this title to the exceptions identified in such finding.
+&emsp;If a Federal regulatory agency, with respect to matter within its jurisdiction, determines after notice and an opportunity for public comment, and publishes a finding, that one or more such exceptions are no longer necessary for the protection of consumers and eliminating such exceptions will not increase the material risk of harm to consumers, such agency may extend the application of section 7001 of this title to the exceptions identified in such finding.
 
 (Pub. L. 106–229, title I, §103, June 30, 2000, 114 Stat. 468.)
 

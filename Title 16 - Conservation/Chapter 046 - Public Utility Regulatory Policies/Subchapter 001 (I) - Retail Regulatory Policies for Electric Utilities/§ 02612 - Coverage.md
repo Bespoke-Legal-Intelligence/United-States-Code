@@ -14,7 +14,3 @@ Before the beginning of each calendar year, the Secretary shall publish a list i
 
 (Pub. L. 95–617, title I, §102, Nov. 9, 1978, 92 Stat. 3121.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2613, 2642 of this title.
-

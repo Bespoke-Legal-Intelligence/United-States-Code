@@ -4,7 +4,3 @@ The Council may bring suit in Federal court to compel compliance with an assessm
 
 (Pub. L. 104–284, §7, Oct. 11, 1996, 110 Stat. 3374.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6404 of this title.
-

@@ -58,7 +58,7 @@ Use of excess revenue.—After satisfying scheduled debt service requirements on
 
 &emsp;&emsp;(B)
 
-Use of proceeds of refinancing.—The secured loan may be prepaid at any time without penalty from proceeds of refinancing from non-Federal funding sources.
+Use of proceeds of refinancing.—The secured loan may be prepaid at any timewithout penalty from proceeds of refinancing from non-Federal funding sources.
 
 (c)
 
@@ -66,7 +66,7 @@ Loan Guarantees.—
 
 &emsp;(1)
 
-In general.—A loan guarantee under this section with respect to a loan made for an aircraft purchase shall be made in such form and on such terms and conditions and contain suchcovenants, representatives, warranties, and requirements (including requirements for audits) as the Secretary determines appropriate.
+In general.—A loan guarantee under this section with respect to a loan made for an aircraft purchase shall be made in such form and on such terms and conditions and contain such covenants, representatives, warranties, and requirements (including requirements for audits) as the Secretary determines appropriate.
 
 &emsp;(2)
 
@@ -170,7 +170,7 @@ Conditions.—Subject to subsection (h), the Secretary may only make a Federal c
 
 &emsp;&emsp;&emsp;(i) to continue its operations as an air carrier; and
 
-&emsp;&emsp;&emsp;(ii) to the extent that the Secretary determines to be necessary, to continue its operations as an air carrier between the same route or routes being operated by theair carrier at the time of the issuance of the Federal credit instrument; and
+&emsp;&emsp;&emsp;(ii) to the extent that the Secretary determines to be necessary, to continue its operations as an air carrier between the same route or routes being operated by the air carrier at the time of the issuance of the Federal credit instrument; and
 
 &emsp;&emsp;(B) reasonable protection to the United States.
 
@@ -191,8 +191,4 @@ Requirement.—Subject to subsection (i), no Federal credit instrument may be ma
 Other Limitations.—No Federal credit instrument shall be made by the Secretary under this section for the purchase of a regional jet aircraft unless the commuter air carrier or new entrant air carrier enters into a legally binding agreement that requires the carrier to provide scheduled passenger air transportation to the underserved market for which the aircraft is purchased for a period of not less than 36 consecutive months after the date that aircraft is placed in service.
 
 (Added Pub. L. 106–181, title II, §210(a), Apr. 5, 2000, 114 Stat. 97.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41762, 41767 of this title.
 

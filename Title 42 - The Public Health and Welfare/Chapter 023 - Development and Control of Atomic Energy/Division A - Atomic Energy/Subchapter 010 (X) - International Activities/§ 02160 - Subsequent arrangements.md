@@ -62,7 +62,7 @@ Notwithstanding section 7172(d) of this title, the Secretary of Energy, and not 
 
 (4) For the purposes of this subsection, the term “foreign spent nuclear fuel” shall include any nuclear fuel irradiated in any nuclear power reactor located outside of the United States and operated by any foreign legal entity, government or nongovernment, regardless of the legal ownership or other control of the fuel or reactor and regardless of the origin or licensing of the fuel or reactor, but not including fuel irradiated in a research reactor.
 
-(Aug. 1, 1946, ch. 724, title I, §131, as added Pub. L. 95–242, title III, §303(a), Mar. 10, 1978, 92 Stat. 127; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 103–437, §15(f)(6), Nov. 2, 1994, 108 Stat. 4592; Pub. L. 105–277, div. G, title XII, §1225(d)(6), (7), Oct. 21, 1998, 112 Stat. 2681–774.)
+(Aug. 1, 1946, ch. 724, title I, §131, as added Pub. L. 95–242, title III, §303(a), Mar. 10, 1978, 92 Stat. 127; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amendedPub. L. 103–437, §15(f)(6), Nov. 2, 1994, 108 Stat. 4592; Pub. L. 105–277, div. G, title XII, §1225(d)(6), (7), Oct. 21, 1998, 112 Stat. 2681–774.)
 
 #### Amendments
 
@@ -94,7 +94,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Delegation of Functions
 
-Delegation or assignment to Secretary of Energy of functions vested in President under subsecs. (a)(2)(G), (b)(1), and (f)(2) of this section, and of function vestedin President under subsec. (f)(1)(A)(ii) of this section to extent that such function relates to preparation of a detailed generic plan, see section 1(b) and (c) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
+Delegation or assignment to Secretary of Energy of functions vested in President under subsecs. (a)(2)(G), (b)(1), and (f)(2) of this section, and of function vested in President under subsec. (f)(1)(A)(ii) of this section to extent that such function relates to preparation of a detailed generic plan, see section 1(b) and (c) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
 
 Secretary of State responsible for performing function vested in President under subsec. (c) of this section, except that Secretary of State may not waive 60-day requirement for preparation of a Nuclear Non-Proliferation Assessment Statement for more than 60 days without approval of President, see section 2(e) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22.
 
@@ -148,9 +148,5 @@ Definition.—In this section, the term ‘spent nuclear fuel’ means nuclear f
 
 #### Performance of Functions Pending Development of Procedures
 
-The performance of functions under this chapter, as amended by the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days \[after Mar. 10, 1978\] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2074, 2075, 2077, 2153a, 2159, 2160c of this title.
+The performance of functions under this chapter, as amended by the Nuclear Non-Proliferation Act of 1978,Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days \[after Mar. 10, 1978\] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
 

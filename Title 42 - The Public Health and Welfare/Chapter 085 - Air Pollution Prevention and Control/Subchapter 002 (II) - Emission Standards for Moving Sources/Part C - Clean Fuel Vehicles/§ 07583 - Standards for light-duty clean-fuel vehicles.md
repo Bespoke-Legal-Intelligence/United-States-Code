@@ -317,7 +317,7 @@ For standards under column B, for purposes of certification under section 7525 o
 
 #### (2) Multiple sets of CARB standards
 
-&emsp;If the State of California promulgates regulations establishing and implementing severaldifferent sets of standards applicable in California pursuant to a waiver approved under section 7543 of this title to any category of vehicles referred to in subsection (a), (b), (c), or (d) of this section and each of such sets of California standards is, in the aggregate, at least as protective of public health and welfare as the otherwise applicable standards set forth in section 7582 of this title and subsection (a), (b), (c), or (d) of this section, such standards shall be treated as “qualifying California standards” for purposes of this paragraph. Where more than one set of qualifying standards are established and administered by the State of California, the least stringent set of qualifying California standards shall apply to the clean-fuel vehicles concerned in lieu of the standards otherwise applicable to such vehicles under section 7582 of this title and this section.
+&emsp;If the State of California promulgates regulations establishing and implementing several different sets of standards applicable in California pursuant to a waiver approved under section 7543 of this title to any category of vehicles referred to in subsection (a), (b), (c), or (d) of this section and each of such sets of California standards is, in the aggregate, at least as protective of public health and welfare as the otherwise applicable standards set forth in section 7582 of this title and subsection (a), (b), (c), or (d) of this section, such standards shall be treated as “qualifying California standards” for purposes of this paragraph. Where more than one set of qualifying standards are established and administered by the State of California, the least stringent set of qualifying California standards shall apply tothe clean-fuel vehicles concerned in lieu of the standards otherwise applicable to such vehicles under section 7582 of this title and this section.
 
 #### (f) Less stringent CARB standards
 
@@ -328,10 +328,6 @@ If the Low-Emission Vehicle and Clean Fuels Regulations of the California Air Re
 Notwithstanding any provision of the Low-Emission Vehicle and Clean Fuels Regulations of the California Air Resources Board nothing in this section shall apply to heavy-duty engines in vehicles of more than 8,500 lbs. GVWR.
 
 (July 14, 1955, ch. 360, title II, §243, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2514.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7581, 7582, 7586, 7587 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsections”.</i>
 

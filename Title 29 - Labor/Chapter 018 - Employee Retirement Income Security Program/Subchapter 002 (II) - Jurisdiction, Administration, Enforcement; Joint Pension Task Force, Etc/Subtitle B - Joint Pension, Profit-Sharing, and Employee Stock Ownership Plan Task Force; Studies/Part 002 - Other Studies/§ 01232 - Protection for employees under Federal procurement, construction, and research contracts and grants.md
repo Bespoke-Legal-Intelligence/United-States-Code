@@ -26,7 +26,7 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 (2) For purposes of this subsection, the term “resolution of disapproval” means only a resolution of either House of Congress, the matter after the resolving clause of which is as follows: “That the \_\_\_\_ does not favor the taking effect of the regulations transmitted to the Congress by the Secretary of Labor on \_\_\_\_”, the first blank space therein being filled with the name of the resolving House and the second blank space therein being filled with the day and year.
 
-(3) A resolution of disapproval in the House of Representatives shall be referred to the Committee on Education and Labor. A resolution of disapproval in the Senate shall be referred to the Committee on Labor and Human Resources.
+(3) A resolution of disapproval in the House of Representatives shall be referred to the Committee on Education and Labor. A resolution of disapproval in the Senate shall be referred to the Committee on Labor and Public Welfare.
 
 (4)(A) If the committee to which a resolution of disapproval has been referred has not reported it at the end of 7 calendar days after its introduction, it is in order to move either to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of any other resolution of disapproval which has been referred to the committee.
 
@@ -36,7 +36,7 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 (5)(A) When the committee has reported, or has been discharged from further consideration of, a resolution of disapproval, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
-(B) Debate on the resolution of disapproval shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
+(B) Debate on the resolution of disapproval shall be limited to not more than 10 hours,which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
 
 (6)(A) Motions to postpone, made with respect to the discharge from committee or the consideration of a resolution of disapproval, and motions to proceed to the consideration of other business, shall be decided without debate.
 
@@ -56,13 +56,11 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 &emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
 
-(Pub. L. 93–406, title III, §3032, Sept. 2, 1974, 88 Stat. 1000; S. Res. 4, Feb. 4, 1977; S. Res. 30, Mar. 7, 1979.)
+(Pub. L. 93–406, title III, §3032, Sept. 2, 1974, 88 Stat. 1000.)
 
 #### Change of Name
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
-Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979.
-
-Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

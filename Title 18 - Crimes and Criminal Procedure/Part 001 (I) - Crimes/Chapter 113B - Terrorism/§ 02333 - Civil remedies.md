@@ -22,7 +22,3 @@ Estoppel Under Foreign Law.—A final judgment or decree rendered in favor of an
 
 Section applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as a note under section 2331 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2334, 2335, 2336, 2337 of this title.
-

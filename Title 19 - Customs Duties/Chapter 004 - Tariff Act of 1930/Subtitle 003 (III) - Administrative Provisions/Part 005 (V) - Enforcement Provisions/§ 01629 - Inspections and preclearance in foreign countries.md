@@ -18,7 +18,7 @@ When authorized by treaty, agreement or foreign law, merchandise which is subjec
 
 #### (e) Stationing of foreign customs and agriculture inspection officers in the United States
 
-The Secretary of State, in coordination with the Secretary and the Secretary of Agriculture, may enter into agreements with any foreign country authorizing the stationing in the United States of customs and agriculture inspection officials of that country (if similar privileges are extended by that country to United States officials) for the purpose of insuring that persons and merchandise going directly to that country from the United States or that have gone directly from that country to the United States comply with the customs and other laws of that country governing the importation or exportation of merchandise. Any foreign customs and agriculture inspection official stationed in the United States under this subsection may exercise such functions, perform such duties, and enjoy such privileges and immunities as United States officials may be authorized to perform or are afforded in that foreign country by treaty, agreement or law.
+The Secretary of State, in coordination with the Secretary and the Secretary of Agriculture, may enter into agreements with any foreigncountry authorizing the stationing in the United States of customs and agriculture inspection officials of that country (if similar privileges are extended by that country to United States officials) for the purpose of insuring that persons and merchandise going directly to that country from the United States, or that have gone directly from that country to the United States, comply with the customs and other laws of that country governing the importation or exportation of merchandise. Any foreign customs or agriculture inspection official stationed in the United States under this subsection may exercise such functions, perform such duties, and enjoy such privileges and immunities as United States officials may be authorized to perform or are afforded in that foreign country by treaty, agreement, or law.
 
 #### (f) Application of certain laws
 
@@ -28,37 +28,77 @@ When customs officials of a foreign country are stationed in the United States i
 
 &emsp;(2) any person who in any matter before a foreign customs official stationed in the United States knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, is liable for a fine of not more than $10,000 or imprisonment for not more than 5 years, or both.
 
-#### (g) Privileges and immunities for designated persons
+#### (g) Privileges and immunities
 
-Persons designated to perform the duties of an officer of the Customs Service pursuant to section 1401(i) of this title shall be entitled to the same privileges and immunities as an officer of the Customs Service with respect to any actions taken by the designated person in the performance of such duties.
+Any person designated to perform the duties of an officer of the Customs Service pursuant to section 1401(i) of this title shall be entitled to the same privileges and immunities as an officer of the Customs Service with respect to any actions taken by the designated person in the performance of such duties.
 
-(June 17, 1930, ch. 497, title IV, §629, as added Pub. L. 99–570, title III, §3128, Oct. 27, 1986, 100 Stat. 3207–89; amended Pub. L. 108–7, div. J, title I, §127(c), Feb. 20, 2003, 117 Stat. 441.)
+(June 17, 1930, ch. 497, title IV, §629, as added Pub. L. 99–570, title III, §3128, Oct. 27, 1986, 100 Stat. 3207–89; amended Pub. L. 108–7, div. J, title I, §127(c), Feb. 20, 2003, 117 Stat. 441; Pub. L. 108–429, title I, §1561(b), (c), Dec. 3, 2004, 118 Stat. 2581, 2582.)
 
 #### References in Text
 
 The customs laws of the United States and the customs law, referred to in subsecs. (c) and (d), are classified generally to this title.
 
-#### Codification
-
-Pub. L. 108–7, which directed the amendment of section 1629 of title 19, United States Code, was executed by making the amendment to this section, which is section 629 of the Tariff Act of 1930, to reflect the probable intent of Congress. See 2003 Amendment notes below.
-
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–7, §127(c)(1), inserted “, or subsequent to their exit from,” after “prior to their arrival in”. See Codification note above.
+2004—Pub. L. 108–429, §1561(c), repealed Pub. L. 108–7, §127(c). See 2003 Amendment notes below.
 
-Subsec. (c). Pub. L. 108–7, §127(c)(2), inserted “or exportation” after “relating to the importation” and “or exit” after “port of entry”. See Codification note above.
+Subsec. (a). Pub. L. 108–429, §1561(b)(1), inserted “, or subsequent to their exit from,” after “prior to their arrival in”.
 
-Subsec. (e). Pub. L. 108–7, §127(c)(3), substituted “such functions,” for “such functions and” and “by treaty, agreement or law” for “under reciprocal agreement” and inserted “and agriculture inspection” after “States of customs” and “foreign customs”, “and the Secretary of Agriculture” after “in coordination with the Secretary”, “or that have gone directly from that country to the United States” after “to that country from the United States”, “or exportation” after “governing the importation”, “, and enjoy such privileges and immunities” after “such duties”, and “or are afforded” after “authorized to perform”. See Codification note above.
+Subsec. (c). Pub. L. 108–429, §1561(b)(2), inserted “or exportation” after “relating to the importation” and “or exit” after “port of entry”.
 
-Subsec. (g). Pub. L. 108–7, §127(c)(4), added subsec. (g).
+Subsec. (e). Pub. L. 108–429, §1561(b)(3), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary of State, in coordination with the Secretary, may enter into agreements with any foreign country authorizing the stationing in the United States of customs and officials of that country (if similar privileges are extended by that country to United States officials) for the purpose of insuring that persons and merchandise going directly to that country from the United States comply with the customs and other laws of that country governing the importation of merchandise. Any foreign customs official stationed in the United States under this subsection may exercise such functions, and perform such duties, as United States officials may be authorized to perform in that foreign country under reciprocal agreement.”
+
+Subsec. (g). Pub. L. 108–429, §1561(b)(4), added subsec. (g).
+
+2003—Subsec. (a). Pub. L. 108–7, §127(c)(1), which directed insertion of “, or subsequent to their exit from,” after “prior to their arrival in” in section 1629 of title 19, was repealed by Pub. L. 108–429, §1561(c).
+
+Subsec. (c). Pub. L. 108–7, §127(c)(2), which directed insertion of “or exportation” after “relating to the importation” and “or exit” after “port of entry” in section 1629 of title 19, was repealed by Pub. L. 108–429, §1561(c).
+
+Subsec. (e). Pub. L. 108–7, §127(c)(3), which directed substitution of “such functions,” for “such functions and” and “by treaty, agreement or law” for “under reciprocal agreement”, and insertion of “and agriculture inspection” after “States of customs” and “foreign customs”, “and the Secretary of Agriculture” after “in coordination with the Secretary”, “or that have gone directly from that country to the United States” after “to that country from the United States”, “or exportation” after “governing the importation”, “, and enjoy such privileges and immunities” after “such duties”, and “or are afforded” after “authorized to perform”, in section 1629 of title 19, was repealed by Pub. L. 108–429, §1561(c).
+
+Subsec. (g). Pub. L. 108–7, §127(c)(4), which directed addition of subsec. (g) to section 1629 of title 19, was repealed by Pub. L. 108–429, §1561(c).
+
+#### Authority for the Establishment of Integrated Border Inspection Areas at the United States-Canada Border
+
+Pub. L. 108–429, title I, §1560, Dec. 3, 2004, 118 Stat. 2580, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) The increased security and safety concerns that developed in the aftermath of the terrorist attacks in the United States on September 11, 2001, need to be addressed.
+
+&emsp;“(2) One concern that has come to light is the vulnerability of the international bridges and tunnels along the United States borders.
+
+&emsp;“(3) It is necessary to ensure that potentially dangerous vehicles are inspected prior to crossing these bridges and tunnels; however, currently these vehicles are not inspected until after they have crossed into the United States.
+
+&emsp;“(4) Establishing Integrated Border Inspection Areas (IBIAs) would address these concerns by inspecting vehicles before they gained access to the infrastructure of international bridges and tunnels joining the United States and Canada.
+
+“(b)
+
+Creation of Integrated Border Inspection Areas.—
+
+&emsp;“(1)
+
+In general.—The Commissioner of the Customs Service \[Bureau of Customs and Border Protection\], in consultation with the Canadian Customs and Revenue Agency (CCRA), shall seek to establish Integrated Border Inspection Areas (IBIAs), such as areas on either side of the United States-Canada border, in which United States Customs officers can inspect vehicles entering the United States from Canada before they enter the United States, or Canadian Customs officers can inspect vehicles entering Canada from the United States before they enter Canada. Such inspections may include, where appropriate, employment of reverse inspection techniques.
+
+&emsp;“(2)
+
+Additional requirement.—The Commissioner of Customs, in consultation with the Administrator of the General Services Administration when appropriate, shall seek to carry out paragraph (1) in a manner that minimizes adverse impacts on the surrounding community.
+
+&emsp;“(3)
+
+Elements of the program.—Using the authority granted by this section and under section 629 of the Tariff Act of 1930 \[19 U.S.C. 1629\], the Commissioner of Customs, in consultation with the Canadian Customs and Revenue Agency, shall seek to—
+
+&emsp;&emsp;“(A) locate Integrated Border Inspection Areas in areas with bridges or tunnels with high traffic volume, significant commercial activity, and that have experienced backups and delays since September 11, 2001;
+
+&emsp;&emsp;“(B) ensure that United States Customs officers stationed in any such IBIA on the Canadian side of the border are vested with the maximum authority to carry out their duties and enforce United States law;
+
+&emsp;&emsp;“(C) ensure that United States Customs officers stationed in any such IBIA on the Canadian side of the border shall possess the same immunity that they would possess if they were stationed in the United States; and
+
+&emsp;&emsp;“(D) encourage appropriate officials of the United States to enter into an agreement with Canada permitting Canadian Customs officers stationed in any such IBIA on the United States side of the border to enjoy such immunities as permitted in Canada.”
 
 #### Creation of Integrated Border Inspection Areas
 
-Pub. L. 108–7, div. J, title I, §127(a), Feb. 20, 2003, 117 Stat. 440, provided that:
-
-“(1) The Commissioner of Customs, in consultation with the Canadian Customs and Revenue Agency (CCRA), shall seek to establish Integrated Border Inspection Areas (IBIAs), i.e., areas on either side of the United States-Canada border in which the United States Customs officers can inspect vehicles entering the United States from Canada before they enter the United States, or Canadian officers can inspect vehicles entering Canada from the United States before they enter Canada. This may include, where appropriate, employment of reverse inspection techniques.
-
-“(2) The Commissioner of Customs, in consultation with the Administrator of the General Services Administration when appropriate, shall endeavor to carry out the IBIA program in a manner that minimizes adverse impacts on the surrounding community.”
-
-\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+Pub. L. 108–7, div. J, title I, §127(a), Feb. 20, 2003, 117 Stat. 440, which related to the creation of integrated border inspection areas on either side of the United States–Canada border, was repealed by Pub. L. 108–429, title I, §1561(c), Dec. 3, 2004, 118 Stat. 2582.
 

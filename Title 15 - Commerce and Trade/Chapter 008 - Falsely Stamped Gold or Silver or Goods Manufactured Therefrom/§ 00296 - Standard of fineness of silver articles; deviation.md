@@ -4,7 +4,3 @@ In the case of articles of merchandise made in whole or in part of silver or any
 
 (June 13, 1906, ch. 3289, §3, 34 Stat. 261.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 294, 298, 299, 300 of this title.
-

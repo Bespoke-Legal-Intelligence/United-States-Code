@@ -1,6 +1,6 @@
 ### §952. Reservoir sites for water for livestock
 
-Any person, livestock company, or transportation corporation engaged in breeding, grazing, driving, or transporting livestock may construct reservoirs upon unoccupied public lands of the United States, not mineral or otherwise reserved, for the purpose of furnishing water to such livestock, and shall have control of such reservoir, under regulations prescribed by the Secretary of the Interior, and the lands upon which the same is constructed, not exceeding one hundred and sixty acres, so long as such reservoir is maintained and water kept therein for such purposes: <i>Provided</i>, That such reservoir shall not be fenced and shall be open to the free use of any person desiring to water animals of any kind.
+Any person, livestock company, or transportation corporation engaged in breeding, grazing,driving, or transporting livestock may construct reservoirs upon unoccupied public lands of the United States, not mineral or otherwise reserved, for the purpose of furnishing water to such livestock, and shall have control of such reservoir, under regulations prescribed by the Secretary of the Interior, and the lands upon which the same is constructed, not exceeding one hundred and sixty acres, so long as such reservoir is maintained and water kept therein for such purposes: <i>Provided</i>, That such reservoir shall not be fenced and shall be open to the free use of any person desiring to water animals of any kind.
 
 The Secretary of the Interior, in his discretion, under such rules, regulations, and conditions as he may prescribe, upon application by such person, company, or corporation, may grant permission to fence such reservoirs in order to protect livestock, to conserve water, and to preserve its quality and conditions: <i>Provided</i>, That such reservoir shall be open to the free use of any person desiring to water animals of any kind; but any fence, erected under the authority hereof, shall be immediately removed on the order of the Secretary.
 
@@ -13,8 +13,4 @@ The Secretary of the Interior, in his discretion, under such rules, regulations,
 #### Savings Provision
 
 Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 953, 955 of this title.
 

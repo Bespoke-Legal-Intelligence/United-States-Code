@@ -26,7 +26,3 @@ Section 7 of Pub. L. 87–262 provided that: “All laws heretofore applicable s
 
 Section 8 of Pub. L. 87–262 provided that: “All unexpended balances of appropriations, allocations, and other funds, available or to be made available, of Freedmen's Hospital are, effective with the transfer of Freedmen's Hospital pursuant to section 1 \[this section\], transferred to Howard University for use in the operation of the Howard University Hospital facilities, except to the extent (determined by the Director of the Bureau of the Budget \[Director of the Office of Management and Budget\]) required to meet obligations already incurred and not assumed by the university.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 125, 126, 127, 128 of this title.
-

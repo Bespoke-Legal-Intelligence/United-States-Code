@@ -52,7 +52,3 @@ A prior section 2102 of Pub. L. 89–10 was classified to section 6622 of this t
 
 Another prior section 2102 of Pub. L. 89–10 was classified to section 3002 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6674, 6682 of this title.
-

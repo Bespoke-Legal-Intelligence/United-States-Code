@@ -12,7 +12,3 @@ Sections 251e to 251m of this title, referred to in text, was in the original �
 
 1980—Pub. L. 96–199 substituted “$23,700,000” for “$13,000,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 251f, 251g, 251h, 251i, 251<i>l</i> of this title.
-

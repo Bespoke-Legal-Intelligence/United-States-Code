@@ -1,9 +1,5 @@
 Part C—Specific Provisions Respecting National Research Institutes
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 284a, 289c–1 of this title.
-
 
 ---
 

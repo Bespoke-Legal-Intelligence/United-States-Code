@@ -22,7 +22,7 @@ Pursuant to their respective tribal resolutions, and in exchange for the benefit
 
 &emsp;Notwithstanding any provision of this subchapter—
 
-&emsp;&emsp;(A) the Indian Nations do not relinquish any right, title, or interest in any lands which constitute the Wetbed Lands subject to the navigational servitude exercised by the United States on the Wetbed Lands. By virtue of the exercise of the navigational servitude, the United States shall not be liable to the Indian Nations for any loss they may have related to the minerals in the Wetbed Lands;
+&emsp;&emsp;(A) the Indian Nations do not relinquish any right, title, or interest in any landswhich constitute the Wetbed Lands subject to the navigational servitude exercised by the United States on the Wetbed Lands. By virtue of the exercise of the navigational servitude, the United States shall not be liable to the Indian Nations for any loss they may have related to the minerals in the Wetbed Lands;
 
 &emsp;&emsp;(B) no provision of this subchapter shall be construed to extinguish or convey any water rights of the Indian Nations in the Arkansas River or any other stream or the beneficial interests or title of any of the Indian Nations in and to lands held in trust by the United States on December 13, 2002, which lie above or below the mean high water mark of the Arkansas River, except for the Disclaimed Drybed Lands; and
 
@@ -30,7 +30,7 @@ Pursuant to their respective tribal resolutions, and in exchange for the benefit
 
 #### (3) Setoff
 
-&emsp;In the event the Court of Federal Claims does not enter the consent decree as set forth in subsection (a) of this section, the UnitedStates shall be entitled to setoff against any claims of the Indian Nations as set forth in subsection (a) of this section, any funds transferred to the Indian Nations pursuant to section 1779d of this title, and any interest accrued thereon up to the date of setoff.
+&emsp;In the event the Court of Federal Claims does not enter the consent decree as set forth in subsection (a) of this section, the United States shall be entitled to setoff against any claims of the Indian Nations as set forth in subsection (a) of this section, any funds transferred to the Indian Nations pursuant to section 1779d of this title, and any interest accrued thereon up to the date of setoff.
 
 #### (4) Quiet title actions
 
@@ -67,8 +67,4 @@ After payment pursuant to section 1779e of this title, the remaining funds autho
 #### References in Text
 
 The Trade and Intercourse Act, referred to in subsec. (b)(1)(B) to (D), is not classified to the Code. See sections 177, 179, 180, 193, 194, 201, 229, 230, 251, 263, and 264 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1779d, 1779e, 1779f of this title.
 

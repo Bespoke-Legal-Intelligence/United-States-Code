@@ -8,7 +8,3 @@ In making grants and entering into contracts or cooperative agreements under sub
 
 A prior section 7473, Pub. L. 89–10, title VII, §7143, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3733, related to bilingual education teachers and personnel grants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6951 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7452 of this title.
-

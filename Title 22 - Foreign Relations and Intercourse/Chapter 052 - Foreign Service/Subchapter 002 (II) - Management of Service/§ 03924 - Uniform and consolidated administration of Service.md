@@ -4,7 +4,3 @@ The Secretary shall on a continuing basis consider the need for uniformity of pe
 
 (Pub. L. 96–465, title I, §204, Oct. 17, 1980, 94 Stat. 2079.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4001 of this title.
-

@@ -14,9 +14,5 @@ Platt National Park designation repealed and areas formerly known as Platt Natio
 
 #### Repeals
 
-Pub. L. 94–235, §5, repealed act June 29, 1906, No. 42, 34 Stat. 837, cited as a credit to this section, under which the name of the reservation at the village of Sulphur established by section 151 of this title, known as Sulphur Springs Reservation, had been renamed Platt National Park in honor of Orville Hitchcock Platt, former senator from Connecticut “and for many years a member of the Committee on Indian Affairs, in recognition of his distinguished services to the Indians and to the country.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460hh–5 of this title.
+Pub. L. 94–235, §5, repealed act June 29, 1906, No. 42, 34 Stat. 837, cited as a credit to this section, underwhich the name of the reservation at the village of Sulphur established by section 151 of this title, known as Sulphur Springs Reservation, had been renamed Platt National Park in honor of Orville Hitchcock Platt, former senator from Connecticut “and for many years a member of the Committee on Indian Affairs, in recognition of his distinguished services to the Indians and to the country.”
 

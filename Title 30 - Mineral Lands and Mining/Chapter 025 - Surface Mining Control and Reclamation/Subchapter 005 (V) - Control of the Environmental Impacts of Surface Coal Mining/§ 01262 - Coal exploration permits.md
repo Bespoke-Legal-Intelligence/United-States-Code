@@ -26,7 +26,3 @@ Coal exploration on Federal lands shall be governed by section 4 of the Federal 
 
 Section 4 of the Federal Coal Leasing Amendments Act of 1975 (90 Stat. 1085), referred to in subsec. (e), is section 4 of Pub. L. 94–377, Aug. 4, 1976, 90 Stat. 1085, redesignated the Federal Coal Leasing Amendments Act of 1976, which amended section 201(b) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1291 of this title.
-

@@ -6,7 +6,7 @@ In order to ensure that the processing, delivery, and administration of grant, l
 
 &emsp;(1) take such actions as are necessary to ensure that all internal and external systems, hardware, and data exchange infrastructure administered by the Department that are necessary for the processing, delivery, and administration of the grant, loan, and work assistance are Year 2000 compliant by March 31, 1999, such that there will be no business interruption after December 31, 1999;
 
-&emsp;(2) ensure that the Robert T. Stafford Federal Student Loan Program and the William D. Ford Federal Direct Loan Program are equal in level of priority with respect to addressing, and that resources are managed to equally provide for successful resolution of, the Year 2000 computer problem in both programs by December 31, 1999;
+&emsp;(2) ensure that the Robert T. Stafford Federal Student Loan Program and the WilliamD. Ford Federal Direct Loan Program are equal in level of priority with respect to addressing, and that resources are managed to equally provide for successful resolution of, the Year 2000 computer problem in both programs by December 31, 1999;
 
 &emsp;(3) work with the Department's various data exchange partners under this subchapter and part C of subchapter I of chapter 34 of title 42 to fully test all data exchange routes for Year 2000 compliance via end-to-end testing, and submit a report describing the parameters and results of such tests to the Comptroller General not later than March 31, 1999;
 
@@ -55,6 +55,10 @@ In order to ensure that the processing, delivery, and administration of grant, l
 The Higher Education Amendments of 1998, referred to in subsec. (b)(1)(A), (2), (3)(B), is Pub. L. 105–244, Oct. 7, 1998, 112 Stat. 1581. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 1001 of this title and Tables.
 
 For general effective date of the Higher Education Amendments of 1998, referred to in subsec. (b)(3)(B), see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date
 

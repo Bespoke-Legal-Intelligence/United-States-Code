@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (3) Treatment under securities laws
 
-&emsp;The filing of a registration statement under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] shall not be required with respect to the sale or offer for sale by the Bank of a loan or any interest therein pursuant to this section. For purposes of the Securities Act of 1933, the Bank shall not be deemed to be an issuer or underwriter with respect to any subsequent sale or other disposition of such loan (or any interest therein) or any security received by an eligible purchaser pursuant to any debt-for-equity swap, debt-for-development swap, or debt-for-nature swap.
+&emsp;The filing of a registration statement under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\]shall not be required with respect to the sale or offer for sale by the Bank of a loan or any interest therein pursuant to this section. For purposes of the Securities Act of 1933, the Bank shall not be deemed to be an issuer or underwriter with respect to any subsequent sale or other disposition of such loan (or any interest therein) or any security received by an eligible purchaser pursuant to any debt-for-equity swap, debt-for-development swap, or debt-for-nature swap.
 
 #### (4) Administration
 
@@ -80,7 +80,7 @@ For the sale, reduction, and cancellation of loans or portions thereof pursuant 
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74,as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (c)(5), is title V of Pub. L. 93–344, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 621 of Title 2 and Tables.
 

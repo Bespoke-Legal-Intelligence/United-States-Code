@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—INTERIM MANDATORY HEALTH STANDARDS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 802, 813, 878, 938, 954, 960 of this title.
-
 
 ---
 

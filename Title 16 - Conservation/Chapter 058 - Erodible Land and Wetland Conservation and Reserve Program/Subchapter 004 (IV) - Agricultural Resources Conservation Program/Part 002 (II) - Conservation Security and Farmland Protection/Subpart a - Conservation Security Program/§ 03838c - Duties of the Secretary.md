@@ -52,7 +52,7 @@ The Secretary shall make payments under a conservation security contract as soon
 
 &emsp;&emsp;&emsp;(i) An amount equal to 10 percent of the applicable base payment for land covered by the conservation security contract.
 
-&emsp;&emsp;&emsp;(ii) An amount that does not exceed 75 percent (or, in the case of a beginning farmer or rancher, 90 percent) of the average county cost of adopting or maintaining practices for the 2001 crop year thatare included in the conservation security contract, as described in subparagraph (C)(ii).
+&emsp;&emsp;&emsp;(ii) An amount that does not exceed 75 percent (or, in the case of a beginning farmer or rancher, 90 percent) of the average county cost of adopting or maintaining practices for the 2001 crop year that are included in the conservation security contract, as described in subparagraph (C)(ii).
 
 &emsp;&emsp;&emsp;(iii) An enhanced payment that is determined in accordance with subparagraph (C)(iii).
 
@@ -88,7 +88,7 @@ The Secretary shall make payments under a conservation security contract as soon
 
 #### (C) Other USDA payments
 
-&emsp;&emsp;A producer shall not receive payments under the conservation security program and any other conservation program administered by the Secretary for the same practices on the same land.
+&emsp;&emsp;A producer shall not receive payments under the conservation security programand any other conservation program administered by the Secretary for the same practices on the same land.
 
 #### (D) Commensurate share
 
@@ -145,8 +145,4 @@ Section 3838d, Pub. L. 99–198, title XII, §1238D, as added Pub. L. 101–624,
 Section 3838e, Pub. L. 99–198, title XII, §1238E, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3596, related to demonstration and pilot programs.
 
 Section 3838f, Pub. L. 99–198, title XII, §1238F, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3596, related to report to Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3838, 3838a of this title.
 

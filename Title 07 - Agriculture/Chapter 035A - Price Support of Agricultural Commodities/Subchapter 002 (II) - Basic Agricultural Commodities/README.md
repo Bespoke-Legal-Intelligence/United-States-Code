@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—BASIC AGRICULTURAL COMMODITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1463, 5822 of this title.
-
 
 ---
 
@@ -26,9 +22,7 @@ This subchapter is referred to in sections 1463, 5822 of this title.
 - [&sect; 01444e&#8211;1 - Loans and purchases for 1986 through 1996 crops of corn](%C2%A7%2001444e%E2%80%931%20-%20Loans%20and%20purchases%20for%201986%20through%201996%20crops%20of%20corn.md)
 - [&sect; 01444f - Repealed. Pub. L. 104&#8211;127, title I, &sect;171(b)(2)(C), Apr. 4, 1996, 110 Stat. 938](%C2%A7%2001444f%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20I%2C%20%C2%A7171%28b%29%282%29%28C%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20938.md)
 - [&sect; 01444f&#8211;1 - Repealed. Pub. L. 102&#8211;237, title I, &sect;114(b)(2), Dec. 13, 1991, 105 Stat. 1840](%C2%A7%2001444f%E2%80%931%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93237%2C%20title%20I%2C%20%C2%A7114%28b%29%282%29%2C%20Dec.%2013%2C%201991%2C%20105%20Stat.%201840.md)
-- [&sect; 01445 - Tobacco price support levels for 1960 and subsequent years](%C2%A7%2001445%20-%20Tobacco%20price%20support%20levels%20for%201960%20and%20subsequent%20years.md)
-- [&sect; 01445&#8211;1 - Producer contributions and purchaser assessments for No Net Cost Tobacco Fund](%C2%A7%2001445%E2%80%931%20-%20Producer%20contributions%20and%20purchaser%20assessments%20for%20No%20Net%20Cost%20Tobacco%20Fund.md)
-- [&sect; 01445&#8211;2 - Marketing assessments to No Net Cost Tobacco Account](%C2%A7%2001445%E2%80%932%20-%20Marketing%20assessments%20to%20No%20Net%20Cost%20Tobacco%20Account.md)
+- [&sect; 01445 to 1445&#8211;2 - Repealed. Pub. L. 108&#8211;357, title VI, &sect;612(a), Oct. 22, 2004, 118 Stat. 1523](%C2%A7%2001445%20to%201445%E2%80%932%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93357%2C%20title%20VI%2C%20%C2%A7612%28a%29%2C%20Oct.%2022%2C%202004%2C%20118%20Stat.%201523.md)
 - [&sect; 01445&#8211;3 - Purchase of inventory stock](%C2%A7%2001445%E2%80%933%20-%20Purchase%20of%20inventory%20stock.md)
 - [&sect; 01445a - Wheat price support levels; &#8220;cooperator&#8221; defined](%C2%A7%2001445a%20-%20Wheat%20price%20support%20levels%3B%20%E2%80%9Ccooperator%E2%80%9D%20defined.md)
 - [&sect; 01445b, 1445b&#8211;1 - Repealed. Pub. L. 101&#8211;624, title III, &sect;301(1), Nov. 28, 1990, 104 Stat. 3382](%C2%A7%2001445b%2C%201445b%E2%80%931%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20III%2C%20%C2%A7301%281%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203382.md)

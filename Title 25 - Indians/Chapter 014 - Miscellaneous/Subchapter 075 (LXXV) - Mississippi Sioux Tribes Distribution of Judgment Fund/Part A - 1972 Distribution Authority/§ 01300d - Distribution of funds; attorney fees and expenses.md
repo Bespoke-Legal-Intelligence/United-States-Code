@@ -14,7 +14,3 @@ The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. Se
 
 Pub. L. 105–387, §1, Nov. 13, 1998, 112 Stat. 3471, provided that: “This Act \[enacting part B of this subchapter and amending sections 1300d–3 and 1300d–4 of this title\] may be cited as the ‘Mississippi Sioux Tribes Judgment Fund Distribution Act of 1998’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300d–4 of this title.
-

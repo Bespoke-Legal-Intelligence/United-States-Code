@@ -4,7 +4,3 @@ The Secretary is authorized to sell such lands to resident farm owners or reside
 
 (May 16, 1930, ch. 292, §2, 46 Stat. 367.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 424, 424b, 424d, 424e of this title.
-

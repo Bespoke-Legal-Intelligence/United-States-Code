@@ -16,7 +16,7 @@ The Secretary of Housing and Urban Development and the Director of the Office of
 
 &emsp;(2) utilize, contract with and act through, without regard to section 5 of title 41, any Federal, State, or local public agency or instrumentality, educational institution, or non-profit agency or organization with the consent of the agency or organization concerned, and any funds available to said officers for carrying out their respective functions, powers, and duties shall be available to reimburse or pay any such agency or organization; and, whenever in the judgment of any such officer necessary, he may make advance, progress, or other payments with respect to such contracts without regard to the provisions of subsections (a) and (b) of section 3324 of title 31; and
 
-&emsp;(3) make expenditures for all necessary expenses, including preparation, mounting, shipping, and installation of exhibits; purchaseand exchange of technical apparatus; and such other expenses as may, from time to time, be found necessary in carrying out their respective functions, powers, and duties: <i>Provided</i>, That funds made available for administrative expenses in carrying out the functions, powers, and duties imposed upon the Secretary of Housing and Urban Development and the Federal Home Loan Bank Board,<sup>1</sup> respectively, by or pursuant to law may at their option be consolidated into a single administrative expense fund accounts of such officer or agency for expenditure by them, respectively, in accordance with the provisions hereof.
+&emsp;(3) make expenditures for all necessary expenses, including preparation, mounting, shipping, and installation of exhibits; purchase and exchange of technical apparatus; and such other expenses as may, from time to time, be found necessary in carrying out their respective functions, powers, and duties: <i>Provided</i>, That funds made available for administrativeexpenses in carrying out the functions, powers, and duties imposed upon the Secretary of Housing and Urban Development and the Federal Home Loan Bank Board,<sup>1</sup> respectively, by or pursuant to law may at their option be consolidated into a single administrative expense fund accounts of such officer or agency for expenditure by them, respectively, in accordance with the provisions hereof.
 
 #### (d) Use of funds for library memberships
 
@@ -82,15 +82,11 @@ For assignment of certain emergency preparedness functions to Secretary of Housi
 
 #### Annual Report on Areas of Program Administration and Management Which Require Improvement
 
-Pub. L. 90–448, §5, Aug. 1, 1968, 82 Stat. 477, as amended by Pub. L. 91–609, title IX, §918, Dec. 31, 1970, 84 Stat.1816, directed Secretary to report annually to Committees on Banking and Currency of House and Senate, identifying specific areas of program administration and management which require improvement, describing actions taken and proposed, and recommendations for legislation, prior to repeal by Pub. L. 93–608, §1(9), Jan. 2, 1975, 88 Stat. 1968.
+Pub. L. 90–448, §5, Aug. 1, 1968, 82 Stat. 477, as amended by Pub. L. 91–609, title IX, §918, Dec. 31, 1970, 84 Stat. 1816, directed Secretary to report annually to Committees on Banking and Currency of House and Senate, identifying specific areas of program administrationand management which require improvement, describing actions taken and proposed, and recommendations for legislation, prior to repeal by Pub. L. 93–608, §1(9), Jan. 2, 1975, 88 Stat. 1968.
 
 #### Executive Order No. 11196
 
 Ex. Ord. No. 11196, Feb. 2, 1965, 30 F.R. 1171, which delegated functions to Housing and Home Finance Administrator, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1701z–2 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should refer to the Director of the Office of Thrift Supervision.</i>
 

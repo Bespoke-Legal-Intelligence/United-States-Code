@@ -4,7 +4,3 @@ No person shall be prosecuted, tried, or punished for any non-capital offense un
 
 (Added Pub. L. 104–132, title VII, §708(c)(1), Apr. 24, 1996, 110 Stat. 1297.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3286 of this title.
-

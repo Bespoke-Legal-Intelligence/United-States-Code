@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—AFFORDABLE HOUSING ACTIVITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 4103, 4111, 4112 of this title.
-
 
 ---
 

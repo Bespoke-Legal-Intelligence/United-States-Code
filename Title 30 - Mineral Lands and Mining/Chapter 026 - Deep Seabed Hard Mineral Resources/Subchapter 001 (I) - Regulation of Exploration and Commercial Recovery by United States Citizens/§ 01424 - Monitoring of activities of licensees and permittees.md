@@ -10,7 +10,3 @@ Each license and permit issued under this subchapter shall require the licensee 
 
 (Pub. L. 96–283, title I, §114, June 28, 1980, 94 Stat. 572.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1461 of this title.
-

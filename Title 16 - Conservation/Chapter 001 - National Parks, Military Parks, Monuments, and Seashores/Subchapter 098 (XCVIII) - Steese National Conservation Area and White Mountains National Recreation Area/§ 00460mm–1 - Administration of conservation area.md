@@ -22,7 +22,3 @@ The Mineral Leasing Act of 1920, as amended, and supplemented, referred to in su
 
 The Materials Act of 1947, as amended, referred to in subsec. (b), is act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460mm–3 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Administrative support for Office
 
-The Secretary, acting through the Director of the National Institutes of Health, shall provide administrative support and support services tothe Director of the Office and shall ensure that such support takes maximum advantage of existing administrative structures at the agencies of the National Institutes of Health.
+The Secretary, acting through the Director of the National Institutes of Health, shall provide administrative support and support services to the Director of the Office and shall ensure that such support takes maximum advantage of existing administrative structures at the agencies of the National Institutes of Health.
 
 #### (b) Evaluation and report
 
@@ -35,6 +35,8 @@ For purposes of this part:
 (July 1, 1944, ch. 373, title XXIII, §2359, as added Pub. L. 103–43, title XVIII, §1803, June 10, 1993, 107 Stat. 198.)
 
 #### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

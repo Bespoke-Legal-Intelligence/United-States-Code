@@ -162,7 +162,3 @@
 
 1992—Pub. L. 102–573 amended section generally. Prior to amendment, section read as follows: “The Congress hereby declares that it is the policy of this Nation, in fulfillment of its special responsibilities and legal obligation to the American Indian people, to meet the national goal of providing the highest possible health status to Indians and to provide existing Indian health services with all resources necessary to effect that policy.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13f, 1616<i>l</i>, 1621, 1621b, 1621m, 1665g, 1671 of this title.
-

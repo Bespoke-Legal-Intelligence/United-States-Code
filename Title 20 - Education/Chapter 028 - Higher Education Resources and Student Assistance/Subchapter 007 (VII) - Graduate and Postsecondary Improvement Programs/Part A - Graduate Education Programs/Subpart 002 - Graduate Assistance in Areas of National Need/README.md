@@ -1,9 +1,5 @@
 subpart 2—graduate assistance in areas of national need
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 1137 of this title.
-
 
 ---
 

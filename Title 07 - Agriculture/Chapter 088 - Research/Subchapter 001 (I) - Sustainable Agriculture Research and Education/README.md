@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—SUSTAINABLE AGRICULTURE RESEARCH AND EDUCATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3222c of this title.
-
 
 ---
 

@@ -16,7 +16,7 @@ Mississippi is divided into two judicial districts to be known as the northern a
 
 &emsp;&emsp;(3) The Delta division comprises the counties of Bolivar, Coahoma, De Soto, Panola, Quitman, Tallahatchie, Tate, and Tunica.
 
-&emsp;&emsp;Court for the Delta division shall be held at Clarksdale.
+&emsp;&emsp;Court for the Delta division shall be held at Clarksdale and Cleveland.
 
 &emsp;&emsp;(4) The Greenville division comprises the counties of Carroll, Humphreys, Leflore, Sunflower, and Washington.
 
@@ -46,7 +46,7 @@ Mississippi is divided into two judicial districts to be known as the northern a
 
 &emsp;&emsp;Court for the Hattiesburg division shall be held at Hattiesburg.
 
-(June 25, 1948, ch. 646, 62 Stat. 883; Aug. 7, 1950, ch. 601, 64 Stat. 415; Pub. L. 90–92, Sept. 27, 1967, 81 Stat. 229; Pub. L. 91–546, §§2, 3, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 95–408, §2(b), Oct. 2, 1978, 92 Stat. 883; Pub. L. 106–130, §1, Dec. 6, 1999, 113 Stat. 1677.)
+(June 25, 1948, ch. 646, 62 Stat. 883; Aug. 7, 1950, ch. 601, 64 Stat. 415; Pub. L. 90–92, Sept. 27, 1967, 81 Stat. 229; Pub. L. 91–546, §§2, 3, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 95–408, §2(b), Oct. 2, 1978, 92 Stat. 883; Pub. L. 106–130, §1, Dec. 6, 1999, 113 Stat. 1677; Pub. L. 108–455, §2, Dec. 10, 2004, 118 Stat. 3628.)
 
 #### Historical and Revision Notes
 
@@ -57,6 +57,8 @@ Provisions relating to the maintenance of offices by the clerks and marshals wer
 Changes in arrangement and phraseology were made.
 
 #### Amendments
+
+2004—Subsec. (a)(3). Pub. L. 108–455 inserted “and Cleveland” after “Clarksdale”.
 
 1999—Subsec. (b)(3). Pub. L. 106–130, in second sentence, struck out “: <i>Provided</i>, That court shall be held at Natchez if suitable quarters and accommodations are furnished at no cost to the United States” before period at end.
 

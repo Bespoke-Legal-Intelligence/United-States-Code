@@ -58,7 +58,3 @@ Section 504(a) of Pub. L. 95–454 provided that amendment by section 503(h) of 
 
 Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 13 section 24.
-

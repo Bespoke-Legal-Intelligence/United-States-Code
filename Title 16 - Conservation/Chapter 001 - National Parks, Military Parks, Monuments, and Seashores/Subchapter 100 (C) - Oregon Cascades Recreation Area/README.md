@@ -1,9 +1,5 @@
 ### SUBCHAPTER C—OREGON CASCADES RECREATION AREA
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 545b of this title.
-
 
 ---
 

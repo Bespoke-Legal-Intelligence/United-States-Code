@@ -4,7 +4,3 @@ The Secretary of the Interior shall issue quitclaim deeds to the public-land Sta
 
 (Aug. 13, 1954, ch. 727, §1, 68 Stat. 703.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 641c, 641d of this title.
-

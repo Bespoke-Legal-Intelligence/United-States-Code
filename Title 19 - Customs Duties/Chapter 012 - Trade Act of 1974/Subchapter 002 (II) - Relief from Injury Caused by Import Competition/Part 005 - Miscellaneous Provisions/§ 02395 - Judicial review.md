@@ -6,13 +6,13 @@ A worker, group of workers, certified or recognized union, or authorized represe
 
 #### (b) Findings of fact by Secretary; conclusiveness; new or modified findings
 
-The findings of fact by the Secretary of Labor, the Secretary of Commerce, or the Secretary ofAgriculture, as the case may be, if supported by substantial evidence, shall be conclusive; but the court, for good cause shown, may remand the case to such Secretary to take further evidence, and such Secretary may thereupon make new or modified findings of fact and may modify his previous action, and shall certify to the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
+The findings of fact by the Secretary of Labor, the Secretary of Commerce, or the Secretary of Agriculture, as the case may be, if supported by substantial evidence, shall be conclusive; but the court, for good cause shown, may remand the case to such Secretary to take further evidence, and such Secretary may thereupon make new or modified findings of fact and may modify his previous action, and shall certify to the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
 #### (c) Determination; review by Supreme Court
 
 The Court of International Trade shall have jurisdiction to affirm the action of the Secretary of Labor, the Secretary of Commerce, or the Secretary of Agriculture, as the case may be, or to set such action aside, in whole or in part. The judgment of the Court of International Trade shall be subject to review by the United States Court of Appeals for the Federal Circuit as prescribed by the rules of such court. The judgment of the Court of Appeals for the Federal Circuit shall be subject to review by the Supreme Court of the United States upon certiorari as provided in section 1256 <sup>1</sup> of title 28.
 
-(Pub. L. 93–618, title II, §284, as added Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; amended Pub. L. 97–164, title I, §163(a)(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 103–182, title V, §503(d), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §§123(b)(4), 142(a), Aug. 6, 2002, 116 Stat. 944, 953.)
+(Pub. L. 93–618, title II, §284, as added Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; amended Pub. L. 97–164, title I, §163(a)(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 103–182, title V, §503(d), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §§123(b)(4), 142(a), Aug. 6, 2002, 116 Stat. 944, 953; Pub. L. 108–429, title II, §2004(a)(11)(A), Dec. 3, 2004, 118 Stat. 2590.)
 
 #### References in Text
 
@@ -22,11 +22,13 @@ Section 1256 of title 28, referred to in subsec. (c), was repealed by Pub. L. 97
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–210, §142(a)(1), inserted “an agricultural commodity producer (as defined in section 2401(2) of this title) aggrieved by a determination of the Secretary of Agriculture under section 2401b of this title,” after “section 2341 of this title,” in first sentence and substituted “, the Secretary of Commerce, or the Secretary of Agriculture” for “or the Secretary of Commerce” in second sentence.
+2004—Pub. L. 108–429, §2004(a)(11)(A), amended directory language of Pub. L. 107–210, §142(a)(1). See 2002 Amendment notes below.
+
+2002—Subsec. (a). Pub. L. 107–210, §142(a)(1), as amended by Pub. L. 108–429, §2004(a)(11)(A), inserted “an agricultural commodity producer (as defined in section 2401(2) of this title) aggrieved by a determination of the Secretary of Agriculture under section 2401b of this title,” after “section 2341 of this title,” in first sentence and substituted “, the Secretary of Commerce, or the Secretary of Agriculture” for “or the Secretary of Commerce” in second sentence.
 
 Pub. L. 107–210, §123(b)(4), struck out “or section 2331(c) of this title” after “section 2273 of this title”.
 
-Subsecs. (b), (c). Pub. L. 107–210, §142(a)(1)(B), substituted “, the Secretary of Commerce, or the Secretary of Agriculture” for “or the Secretary of Commerce”.
+Subsecs. (b), (c). Pub. L. 107–210, §142(a)(1)(B), as amended by Pub. L. 108–429, §2004(a)(11)(A)(i), substituted “, the Secretary of Commerce, or the Secretary of Agriculture” for “or the Secretary of Commerce”.
 
 1993—Subsec. (a). Pub. L. 103–182 inserted reference to section 2331(c) of this title.
 
@@ -49,10 +51,6 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 #### Effective Date
 
 Section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(3) of Pub. L. 96–417 set out as an Effective Date of 1980 Amendment note under section 251 of Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 79<i>l</i>; title 28 section 2640.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

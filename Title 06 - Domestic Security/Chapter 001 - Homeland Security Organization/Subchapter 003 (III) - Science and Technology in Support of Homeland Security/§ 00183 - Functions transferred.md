@@ -20,7 +20,3 @@ In accordance with subchapter XII of this chapter, there shall be transferred to
 
 (Pub. L. 107–296, title III, §303, Nov. 25, 2002, 116 Stat. 2164.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 186 of this title.
-

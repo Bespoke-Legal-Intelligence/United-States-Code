@@ -38,7 +38,3 @@
 
 Sections 1 to 7 of Pub. L. 101–190, as amended by Pub. L. 101–374, §4(a), (c)(1), Aug. 15, 1990, 104 Stat. 458, 459, authorized a reservation of funds for making a grant to construct facilities for development and breeding of specialized strains of mice for use in biomedical research, provided for a competitive grant award process, required applicant for the grant to agree to a twenty-year transferable obligation, restricted grant applicant to public or nonprofit private status, with assurances of sufficient financial resources, set forth other grant requirements, and specified consequences of failure to comply with agreements and violation of the twenty-year obligation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 285a–3, 285b–4, 285<i>o</i>–4 of this title.
-

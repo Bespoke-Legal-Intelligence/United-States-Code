@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make awards of grants, contracts, or cooperative agreements to public and nonprofit private entities (including tribal entities) for the purpose of carrying out research and demonstration projects (including research and demonstration projects for continuing health professions education) for training and education of health professionals for the reduction of disparities in health care outcomes and the provision of culturally competent health care.
+&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make awards of grants, contracts, or cooperative agreements to public and nonprofit private entities (including tribal entities) for the purpose of carrying out research and demonstration projects (including research and demonstration projects for continuing health professions education) for training and education of health professionalsfor the reduction of disparities in health care outcomes and the provision of culturally competent health care.
 
 #### (2) Eligible entities
 
@@ -26,7 +26,7 @@ A prior section 293f, act July 1, 1944, ch. 373, title VII, §726, formerly §72
 
 Another prior section 293f, act July 1, 1944, ch. 373, title VII, §726, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 170, provided for noninterference with administration of institutions, prior to repeal by Pub. L. 94–484, title III, §308(b), Oct. 12, 1976, 90 Stat. 2257.
 
-A prior section 293g, act July 1, 1944, ch. 373, title VII, §727, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 170; amended Nov. 18, 1971, Pub. L. 92–157, title I, §102(j)(7)(B), 85 Stat. 437, which related to regulations, was renumbered section 724 of act July 1, 1944, by Pub.L. 94–484 and transferred to section 293d of this title, and subsequently omitted in the general amendment of this subchapter by Pub. L. 102–408.
+A prior section 293g, act July 1, 1944, ch. 373, title VII, §727, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 170; amended Nov. 18, 1971, Pub. L. 92–157, title I, §102(j)(7)(B), 85 Stat. 437, which related to regulations, was renumbered section 724 of act July 1, 1944, by Pub. L. 94–484 and transferred to section 293d of this title, and subsequently omitted in the general amendment of this subchapter by Pub. L. 102–408.
 
 A prior section 293h, act July 1, 1944, ch. 373, title VII, §728, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 170; amended Sept. 4, 1964, Pub. L. 88–581, §3(d), 78 Stat. 919; Nov. 18, 1971, Pub. L. 92–157, title I, §102(i), 85 Stat. 436, which related to technical assistance, was renumbered section 726 of act July 1, 1944, by Pub. L. 94–484 and transferred to section 293e of this title, and subsequently omitted in the general amendment of this subchapter by Pub. L. 102–408.
 
@@ -55,8 +55,4 @@ Publication of Findings.—Not later than 6 months after the national conference
 “(e)
 
 Authorization of Appropriations.—There is authorized to be appropriated such sums as may be necessary to carry out this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 296e–1 of this title.
 

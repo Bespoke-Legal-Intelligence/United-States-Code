@@ -32,7 +32,7 @@ The provisions of section 1278(a) of this title,<sup>2</sup> shall apply to the 
 
 #### (4) Access to river
 
-&emsp;(A) In order to facilitate public safety, use, and enjoyment of the recreation area, and to protect, to the maximum extent feasible, the scenic and natural resources of the area, the Secretary is authorized and directed to acquire such lands or interests in lands and to take such actions as are necessary to provide access by noncommercial entities on the northside of the Gauley River at the area known as Woods Ferry utilizing existing roads and rights-of-way. Such actions by the Secretary shall include the construction of parking and related facilities in the vicinity of Woods Ferry for noncommercial use on lands acquired pursuant to paragraph (3) or on lands acquired with the consent of the owner thereof within the boundaries of the recreation area.
+&emsp;(A) In order to facilitate public safety, use, and enjoyment of the recreation area, and to protect, to the maximum extent feasible, the scenic and natural resources of the area, the Secretary is authorized and directed to acquire such lands or interests in lands and to take such actions as are necessary to provide access by noncommercial entities on the north side of the Gauley River at the area known as Woods Ferry utilizing existing roads and rights-of-way. Such actions by the Secretary shall include the construction of parking and related facilities in the vicinity of Woods Ferry for noncommercial use on lands acquired pursuant to paragraph (3) or on lands acquired with the consent of the owner thereof within the boundaries of the recreation area.
 
 &emsp;(B) If necessary, in the discretion of the Secretary, in order to minimize environmental impacts, including visual impacts, within portions of the recreation area immediately adjacent to the river, the Secretary may, by contract or otherwise, provide transportation services for noncommercial visitors, at reasonable cost, between such parking facilities and the river.
 
@@ -40,7 +40,7 @@ The provisions of section 1278(a) of this title,<sup>2</sup> shall apply to the 
 
 #### (f) Properties and facilities of Federal agencies
 
-After consultation with any other Federal agency managing lands and waters within or contiguous to the recreation area, the Secretary shall enter into a memorandum of understanding with such other Federal agency to identify those areas within the recreation area which are (1) under the administrative jurisdiction of such other agency; (2) directly related to the operation of the Summersville project; and (3) essential to the operation of such project. The memorandum of understanding shall also include provisions regarding the management of all such lands and waters in a manner consistent with the operation of such project and the management of the recreation area.
+After consultation with any other Federal agency managing lands and waters within or contiguous to the recreation area, the Secretary shall enter into a memorandum of understanding with such other Federal agency to identify those areas within the recreation area which are (1) under the administrative jurisdiction of such other agency; (2) directly related to the operation of the Summersville project; and (3) essential to the operation of such project. The memorandum of understanding shall also include provisions regarding the management of all such lands and waters in a manner consistent withthe operation of such project and the management of the recreation area.
 
 (Pub. L. 100–534, title II, §202, Oct. 26, 1988, 102 Stat. 2702; Pub. L. 104–333, div. I, title IV, §406(c)(2), Nov. 12, 1996, 110 Stat. 4150.)
 
@@ -51,10 +51,6 @@ This Act, referred to in subsecs. (a) and (b), is Pub. L. 100–534, Oct. 26, 19
 #### Amendments
 
 1996—Subsec. (e)(4). Pub. L. 104–333 added par. (4).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460m–30, 460ww–2, 460ww–4 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

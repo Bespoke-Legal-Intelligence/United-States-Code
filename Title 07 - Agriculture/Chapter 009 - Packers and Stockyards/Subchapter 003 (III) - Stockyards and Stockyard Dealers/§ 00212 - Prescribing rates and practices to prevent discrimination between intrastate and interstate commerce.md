@@ -10,7 +10,3 @@ Whenever in any investigation under the provisions of this subchapter, or in any
 
 1958—Pub. L. 85–909 substituted “stockyard owner, market agency, or dealer” for “stockyard owner or market agency” wherever occurring, and “stockyard owners, market agencies, or dealers” for “stockyard owners or market agencies”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 215 of this title.
-

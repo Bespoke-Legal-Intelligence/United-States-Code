@@ -2,25 +2,25 @@
 
 In the fulfillment of its purposes and in carrying out its annual budget programs submitted to and approved by the Congress pursuant to chapter 91 of title 31, the Corporation is authorized to use its general powers only to—
 
-(a) Support the prices of agricultural commodities through loans, purchases, payments, and other operations.
+(a) Support the prices of agricultural commodities (other than tobacco) through loans, purchases, payments, and other operations.
 
-(b) Make available materials and facilities required in connection with the production and marketing of agricultural commodities.
+(b) Make available materials and facilities required in connection with the production and marketing of agricultural commodities (other than tobacco).
 
-(c) Procure agricultural commodities for sale to other Government agencies, foreign governments, and domestic, foreign, or international relief or rehabilitation agencies, and to meet domestic requirements.
+(c) Procure agricultural commodities (other than tobacco) for sale to other Government agencies, foreign governments, and domestic, foreign, or international relief or rehabilitation agencies, and to meet domestic requirements.
 
-(d) Remove and dispose of or aid in the removal or disposition of surplus agricultural commodities.
+(d) Remove and dispose of or aid in the removal or disposition of surplus agricultural commodities (other than tobacco).
 
-(e) Increase the domestic consumption of agricultural commodities by expanding or aiding in the expansion of domestic markets or by developing or aiding in the development of new and additional markets, marketing facilities, and uses for such commodities.
+(e) Increase the domestic consumption of agricultural commodities (other than tobacco) by expanding or aiding in the expansion of domestic markets or by developing or aiding in the development of new and additional markets, marketing facilities, and uses for such commodities.
 
-(f) Export or cause to be exported, or aid in the development of foreign markets for, agricultural commodities (including fish and fish products, without regard to whether such fish are harvested in aquacultural operations).
+(f) Export or cause to be exported, or aid in the development of foreign markets for, agricultural commodities (other than tobacco) (including fish and fish products, without regard to whether such fish are harvested in aquacultural operations).
 
 (g) Carry out conservation or environmental programs authorized by law.
 
 (h) Carry out such other operations as the Congress may specifically authorize or provide for.
 
-In the Corporation's purchasing and selling operations with respect to agricultural commodities (except sales to other Government agencies), and in the warehousing, transporting, processing, or handling of agricultural commodities, the Corporation shall, to the maximum extent practicable consistent with the fulfillment of the Corporation's purposes and the effective and efficient conduct of its business, utilize the usual and customary channels, facilities, and arrangements of trade and commerce (including, at the option of the Corporation, the use of private sector entities).
+In the Corporation's purchasing and selling operations with respect to agricultural commodities (other than tobacco) (except sales to other Government agencies), and in the warehousing, transporting, processing, or handling of agricultural commodities (other than tobacco), the Corporation shall, to the maximum extent practicable consistent with the fulfillment of the Corporation's purposes and the effective and efficient conduct of its business, utilize the usual and customary channels, facilities, and arrangements of trade and commerce (including, at the option of the Corporation, the use of private sector entities).
 
-(June 29, 1948, ch. 704, §5, 62 Stat. 1072; Pub. L. 98–623, title IV, §405(a), Nov. 8, 1984, 98 Stat. 3409; Pub. L. 104–127, title III, §381(a), Apr. 4, 1996, 110 Stat. 1016; Pub. L. 107–171, title I, §1609, May 13, 2002, 116 Stat. 218.)
+(June 29, 1948, ch. 704, §5, 62 Stat. 1072; Pub. L. 98–623, title IV, §405(a), Nov. 8, 1984, 98 Stat. 3409; Pub. L. 104–127, title III, §381(a), Apr. 4, 1996, 110 Stat. 1016; Pub. L. 107–171, title I, §1609, May 13, 2002, 116 Stat. 218; Pub. L. 108–357, title VI, §612(d), Oct. 22, 2004, 118 Stat. 1524.)
 
 #### Codification
 
@@ -28,11 +28,17 @@ In the Corporation's purchasing and selling operations with respect to agricultu
 
 #### Amendments
 
+2004—Pub. L. 108–357 inserted “(other than tobacco)” after “agricultural commodities” wherever appearing.
+
 2002—Pub. L. 107–171 inserted “(including, at the option of the Corporation, the use of private sector entities)” before period at end of last sentence.
 
 1996—Subsecs. (g), (h). Pub. L. 104–127 added subsec. (g) and redesignated former subsec. (g) as (h).
 
 1984—Subsec. (f). Pub. L. 98–623 inserted “(including fish and fish products, without regard to whether such fish are harvested in aquacultural operations)”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as an Effective Date note under section 518 of Title 7, Agriculture.
 
 #### Effective Date of 1996 Amendment
 
@@ -41,6 +47,10 @@ Section 381(b) of Pub. L. 104–127 provided that: “The amendments made by sub
 #### Effective Date of 1984 Amendment
 
 Section 405(d) of Pub. L. 98–623 provided that: “For purposes of section 135 of the Omnibus Budget Reconciliation Act of 1982 (7 U.S.C. 612c note) \[Pub. L. 97–253\], the amendments made by this section \[amending this section and sections 1707a and 1732 of Title 7, Agriculture\] shall be considered to have taken effect before the date of the enactment of that Act \[Sept. 8, 1982\].”
+
+#### Continuation of Liability for 2004 and Earlier Crop Years
+
+Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of Title 7, Agriculture.
 
 #### Exceptions From Transfer of Functions
 
@@ -79,8 +89,4 @@ Pub. L. 96–494, title II, §206, Dec. 3, 1980, 94 Stat. 2572, provided that: �
 &emsp;“(2) cannot be exported under such contracts due to the imposition, on January 4, 1980, of restrictions on the export of agricultural products to the Union of Soviet Socialist Republics,
 
 > in the same manner and under the same conditions as the Secretary purchases and handles grains under similar contracts and subject to the imposition of the same restrictions.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 713a–14, 714k of this title; title 7 section 1738r; title 16 section 3811; title 21 section 889.
 

@@ -96,7 +96,3 @@ Subsec. (b). Pub. L. 95–268 substituted provisions relating to report to be su
 
 Section 9(b) of Pub. L. 97–65, which provided for a report to Congress by the Overseas Private Investment Corporation on the effect on investments of lack of insurance, was repealed by Pub. L. 99–204, §17(c)(2), Dec. 23, 1985, 99 Stat. 1677.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2194b, 2200 of this title.
-

@@ -66,7 +66,7 @@
 | [5751\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005751%20-%20Travel%20expenses%20of%20witnesses.md) | Travel expenses of witnesses. |
 | [5752\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005752%20-%20Travel%20expenses%20of%20Senior%20Executive%20Service%20candidates.md) | Travel expenses of Senior Executive Service candidates. |
 | [5753\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005753%20-%20Recruitment%20and%20relocation%20bonuses.md) | Recruitment and relocation bonuses. |
-| [5754\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005754%20-%20Retention%20allowances.md) | Retention allowances. |
+| [5754\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005754%20-%20Retention%20bonuses.md) | Retention bonuses. |
 | [5755\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005755%20-%20Supervisory%20differentials.md) | Supervisory differentials. |
 | [5756\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005756%20-%20Home%20marketing%20incentive%20payment.md) | Home marketing incentive payment. |
 | 5757\.<sup>1</sup> | Payment of expenses to obtain professional credentials. |
@@ -76,10 +76,15 @@
 |  |  |
 | :--- | ---: |
 | 5757\.<sup>1</sup> | Extended assignment incentive. |
+| [5759\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005759%20-%201%20Retention%20and%20relocation%20bonuses%20for%20the%20Federal%20Bureau%20of%20Investigation.md) | Retention and relocation bonuses for the Federal Bureau of Investigation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–447, div. B, title I, §113(b), Dec. 8, 2004, 118 Stat. 2869, added item 5759.
+
+Pub. L. 108–411, title I, §101(a)(2), Oct. 30, 2004, 118 Stat. 2309, substituted “Retention bonuses” for “Retention allowances” in item 5754.
 
 2002—Pub. L. 107–273, div. A, title II, §207(a)(2), Nov. 2, 2002, 116 Stat. 1780, added item 5757 “Extended assignment incentive”.
 
@@ -112,10 +117,6 @@ Pub. L. 91–481, §1(2), Oct. 21, 1970, 84 Stat. 1081, added item 5709.
 1967—Pub. L. 90–206, title II, §222(c)(2), Dec. 16, 1967, 81 Stat. 641, added item 5733.
 
 Pub. L. 90–83 §1(37)(B), Sept. 11, 1967, 81 Stat. 205, added item 5724a.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3396, 5307, 9701, 9902 of this title; title 14 section 193; title 18 section 3168; title 22 section 3671; title 26 section 7471; title 42 section 5816; title 43 section 50d; title 49 section 106.
 
 
 ---

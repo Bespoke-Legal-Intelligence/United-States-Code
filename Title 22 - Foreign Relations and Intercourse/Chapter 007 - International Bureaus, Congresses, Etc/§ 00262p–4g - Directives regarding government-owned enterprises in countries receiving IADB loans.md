@@ -18,7 +18,3 @@ A prior section 1612 of Pub. L. 95–118 was renumbered section 1622 and is clas
 
 The definitions in section 262p–5 of this title apply to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 262r of this title.
-

@@ -40,6 +40,7 @@
 | [308g.](%C2%A7%2000308g%20-%20Special%20pay%20bonus%20for%20enlistment%20in%20elements%20of%20the%20Ready%20Reserve%20other%20than%20the%20Selected%20Reserve.md) | Special pay: bonus for enlistment in elements of the Ready Reserve other than the Selected Reserve. |
 | [308h.](%C2%A7%2000308h%20-%20Special%20pay%20bonus%20for%20reenlistment%2C%20enlistment%2C%20or%20voluntary%20extension%20of%20enlistment%20in%20elements%20of%20the%20Ready%20Reserve%20other%20than%20the%E2%80%A6.md) | Special pay: bonus for reenlistment, enlistment, or voluntary extension of enlistment in elements of the Ready Reserve other than the Selected Reserve. |
 | [308i.](%C2%A7%2000308i%20-%20Special%20pay%20prior%20service%20enlistment%20bonus.md) | Special pay: prior service enlistment bonus. |
+| [308j.](%C2%A7%2000308j%20-%20Special%20pay%20bonus%20for%20certain%20initial%20service%20of%20officers%20in%20the%20Selected%20Reserve.md) | Special pay: bonus for certain initial service of officers in the Selected Reserve. |
 | [309\.](%C2%A7%2000309%20-%20Special%20pay%20enlistment%20bonus.md) | Special pay: enlistment bonus. |
 | [310\.](%C2%A7%2000310%20-%20Special%20pay%20duty%20subject%20to%20hostile%20fire%20or%20imminent%20danger.md) | Special pay: duty subject to hostile fire or imminent danger. |
 | \[311. | Repealed.\] |
@@ -50,8 +51,8 @@
 | \[313. | Repealed.\] |
 | [314\.](%C2%A7%2000314%20-%20Special%20pay%20or%20bonus%20qualified%20members%20extending%20duty%20at%20designated%20locations%20overseas.md) | Special pay or bonus: qualified members extending duty at designated locations overseas. |
 | [315\.](%C2%A7%2000315%20-%20Special%20pay%20engineering%20and%20scientific%20career%20continuation%20pay.md) | Special pay: engineering and scientific career continuation pay. |
-| [316\.](%C2%A7%2000316%20-%20Special%20pay%20foreign%20language%20proficiency%20pay.md) | Special pay: foreign language proficiency pay. |
-| [316a.](%C2%A7%2000316a%20-%20Waiver%20of%20certification%20requirement.md) | Waiver of certification requirement. |
+| [316\.](%C2%A7%2000316%20-%20Special%20pay%20and%20bonus%20for%20members%20with%20foreign%20language%20proficiency.md) | Special pay and bonus for members with foreign language proficiency. |
+| \[316a. | Repealed.\] |
 | [317\.](%C2%A7%2000317%20-%20Special%20pay%20officers%20in%20critical%20acquisition%20positions%20extending%20period%20of%20active%20duty.md) | Special pay: officers in critical acquisition positions extending period of active duty. |
 | [318\.](%C2%A7%2000318%20-%20Special%20pay%20special%20warfare%20officers%20extending%20period%20of%20active%20duty.md) | Special pay: special warfare officers extending period of active duty. |
 | [319\.](%C2%A7%2000319%20-%20Special%20pay%20surface%20warfare%20officer%20continuation%20pay.md) | Special pay: surface warfare officer continuation pay. |
@@ -66,6 +67,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title VI, §§619(b), 620(a)(2), (b)(2), Oct. 28, 2004, 118 Stat. 1952, 1954, added item 308j, substituted “Special pay and bonus for members with foreign language proficiency” for “Special pay: foreign language proficiency pay” in item 316, and struck out item 316a “Waiver of certification requirement”.
 
 2003—Pub. L. 108–136, div. A, title VI, §§621(a)(2)(B), 624(b), 625(b), Nov. 24, 2003, 117 Stat. 1505–1507, added items 305b and 326 and substituted “qualified members” for “qualified enlisted members” in item 314.
 
@@ -135,10 +138,6 @@ Pub. L. 93–274, §1(1), (2), (4), May 6, 1974, 88 Stat. 94, 95, substituted �
 
 1963—Pub. L. 88–132, §§9(a)(2), 12(c), Oct. 2, 1963, 77 Stat. 216, 218, substituted “while on sea duty or duty at certain places” for “sea and foreign duty” in item 305, and added item 310.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 907, 909, 1003 of this title; title 5 section 8440e; title 42 section 254d.
-
 
 ---
 
@@ -182,6 +181,7 @@ This chapter is referred to in sections 907, 909, 1003 of this title; title 5 se
 - [&sect; 00308g - Special pay bonus for enlistment in elements of the Ready Reserve other than the Selected Reserve](%C2%A7%2000308g%20-%20Special%20pay%20bonus%20for%20enlistment%20in%20elements%20of%20the%20Ready%20Reserve%20other%20than%20the%20Selected%20Reserve.md)
 - [&sect; 00308h - Special pay bonus for reenlistment, enlistment, or voluntary extension of enlistment in elements of the Ready Reserve other than the&#8230;](%C2%A7%2000308h%20-%20Special%20pay%20bonus%20for%20reenlistment%2C%20enlistment%2C%20or%20voluntary%20extension%20of%20enlistment%20in%20elements%20of%20the%20Ready%20Reserve%20other%20than%20the%E2%80%A6.md)
 - [&sect; 00308i - Special pay prior service enlistment bonus](%C2%A7%2000308i%20-%20Special%20pay%20prior%20service%20enlistment%20bonus.md)
+- [&sect; 00308j - Special pay bonus for certain initial service of officers in the Selected Reserve](%C2%A7%2000308j%20-%20Special%20pay%20bonus%20for%20certain%20initial%20service%20of%20officers%20in%20the%20Selected%20Reserve.md)
 - [&sect; 00309 - Special pay enlistment bonus](%C2%A7%2000309%20-%20Special%20pay%20enlistment%20bonus.md)
 - [&sect; 00310 - Special pay duty subject to hostile fire or imminent danger](%C2%A7%2000310%20-%20Special%20pay%20duty%20subject%20to%20hostile%20fire%20or%20imminent%20danger.md)
 - [&sect; 00311 - Repealed. Pub. L. 99&#8211;145, title VI, &sect;639(b), Nov. 8, 1985, 99 Stat. 651](%C2%A7%2000311%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93145%2C%20title%20VI%2C%20%C2%A7639%28b%29%2C%20Nov.%208%2C%201985%2C%2099%20Stat.%20651.md)
@@ -192,8 +192,8 @@ This chapter is referred to in sections 907, 909, 1003 of this title; title 5 se
 - [&sect; 00313 - Repealed. Pub. L. 96&#8211;513, title IV, &sect;414(a), Dec. 12, 1980, 94 Stat. 2906](%C2%A7%2000313%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20IV%2C%20%C2%A7414%28a%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202906.md)
 - [&sect; 00314 - Special pay or bonus qualified members extending duty at designated locations overseas](%C2%A7%2000314%20-%20Special%20pay%20or%20bonus%20qualified%20members%20extending%20duty%20at%20designated%20locations%20overseas.md)
 - [&sect; 00315 - Special pay engineering and scientific career continuation pay](%C2%A7%2000315%20-%20Special%20pay%20engineering%20and%20scientific%20career%20continuation%20pay.md)
-- [&sect; 00316 - Special pay foreign language proficiency pay](%C2%A7%2000316%20-%20Special%20pay%20foreign%20language%20proficiency%20pay.md)
-- [&sect; 00316a - Waiver of certification requirement](%C2%A7%2000316a%20-%20Waiver%20of%20certification%20requirement.md)
+- [&sect; 00316 - Special pay and bonus for members with foreign language proficiency](%C2%A7%2000316%20-%20Special%20pay%20and%20bonus%20for%20members%20with%20foreign%20language%20proficiency.md)
+- [&sect; 00316a - Repealed. Pub. L. 108&#8211;375, div. A, title VI, &sect;620(b)(1), Oct. 28, 2004, 118 Stat. 1954](%C2%A7%2000316a%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7620%28b%29%281%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%201954.md)
 - [&sect; 00317 - Special pay officers in critical acquisition positions extending period of active duty](%C2%A7%2000317%20-%20Special%20pay%20officers%20in%20critical%20acquisition%20positions%20extending%20period%20of%20active%20duty.md)
 - [&sect; 00318 - Special pay special warfare officers extending period of active duty](%C2%A7%2000318%20-%20Special%20pay%20special%20warfare%20officers%20extending%20period%20of%20active%20duty.md)
 - [&sect; 00319 - Special pay surface warfare officer continuation pay](%C2%A7%2000319%20-%20Special%20pay%20surface%20warfare%20officer%20continuation%20pay.md)

@@ -10,7 +10,3 @@ This chapter shall cease to be in effect whenever the President finds and procla
 
 1934—Act May 9, 1934, inserted second sentence relating to taxes on sugar beets and sugarcane.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 609, 673 of this title.
-

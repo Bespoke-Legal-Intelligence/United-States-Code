@@ -24,9 +24,9 @@ Section is based on House Resolution No. 457, Ninety-second Congress, July 21, 1
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a)(1), (2). Pub. L. 106–57 substituted “all aspects of official mail” for “all aspects of the Official Mail Allowance”.
+1999—Subsec. (a)(1), (2). Pub. L. 106–57 substituted “all aspects of official mail” for “all aspects of the Official Mail Allowance”.
 
-<b>1996</b>—Pub. L. 104–186 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) authorizing Committee on House Administration to adjust certain allowances for Members, committees, and officers of House of Representatives.
+1996—Pub. L. 104–186 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) authorizing Committee on House Administration to adjust certain allowances for Members, committees, and officers of House of Representatives.
 
 #### Change of Name
 
@@ -52,9 +52,9 @@ Resolved, that effective January 3, 1973, until otherwise provided by order of t
 
 (a) The contingent fund of the House of Representatives is made available for reimbursement of transportation expenses incurred by Members (including the Resident Commissioner from Puerto Rico) in traveling on official business, by the nearest usual route, between Washington, District of Columbia, and any point in the district which he represents, for not more than 36 round trips during each Congress, such reimbursement to be made in accordance with rules and regulations established by the Committee on House Administration of the House of Representatives.
 
-(b) The contingent fund of the House of Representatives is made available for reimbursement of transportation expenses incurred by employees in the office of a Member (including the Resident Commissioner from Puerto Rico) for not more than 6 round trips during any Congress between Washington, District of Columbia and any point in the Congressional district represented by the Member. Such payment shall be madeonly upon vouchers approved by the Member, containing a certification by him that such travel was performed on official duty. The Committee on House Administration shall make such rules and regulations as may be necessary to carry out this section.
+(b) The contingent fund of the House of Representatives is made available for reimbursement of transportation expenses incurred by employees in the office of a Member (including the Resident Commissioner from Puerto Rico) for not more than 6 round trips during any Congress between Washington, District of Columbia and any point in the Congressional district represented by the Member. Such payment shall be made only upon vouchers approved by the Member, containing a certification by him that such travel was performed on official duty. The Committee on House Administration shall make such rules and regulations as may be necessary to carry out this section.
 
-(c) A Member of the House of Representatives (including the Resident Commissioner from Puerto Rico) may elect to receive in any Congress, in lieu of reimbursement of transportation expenses for such Congress is authorized in paragraph (a) above, a lump sum transportation payment of $2,250 for each Congress. The Committee on House Administration of the House of Representatives shall make such rules and regulations as may be necessary to carry out this section.
+(c) A Member of the House of Representatives (including the Resident Commissioner from Puerto Rico)may elect to receive in any Congress, in lieu of reimbursement of transportation expenses for such Congress is authorized in paragraph (a) above, a lump sum transportation payment of $2,250 for each Congress. The Committee on House Administration of the House of Representatives shall make such rules and regulations as may be necessary to carry out this section.
 
 (d) This order shall not affect any allowance for travel of Members of the House of Representatives (including the Resident Commissioner from Puerto Rico) which is authorized to be paid from funds other than the contingent fund of the House of Representatives.
 
@@ -206,7 +206,7 @@ Resolved, that effective immediately prior to noon on January 3, 1977, until oth
 
 2—Withdraw a sum not to exceed $1.00 per session from his or her stationery account.
 
-3—Receive under the provisions of 2 U.S.C. 122a an amount not to exceed $1.00 per session for official expenses outside the District of Columbia unless suchMember submits an itemization of the expenses for which such Member seeks reimbursement.
+3—Receive under the provisions of 2 U.S.C. 122a an amount not to exceed $1.00 per session for official expenses outside the District of Columbia unless such Member submits an itemization of the expenses for which such Member seeks reimbursement.
 
 The Committee on House Administration of the House of Representatives shall promulgate such regulations as may be necessary to carry out the provisions of this resolution.
 
@@ -326,7 +326,7 @@ Resolved, That effective May 1, 1983, until otherwise provided by the Committee 
 
 1\. The base allowance for Official Expenses is increased by $15,000.
 
-2\. Each session a Member may allocate not to exceed $30,000 from the basic Clerk-Hire Allowance which maybe used to supplement the Official Expenses Allowance, and may allocate not to exceed $30,000 from the Official Expenses Allowance to supplement the basic Clerk-Hire Allowance, provided however that monthly Clerk-Hire disbursements may not exceed 10 percent of the basic Clerk-Hire Allowance.
+2\. Each session a Member may allocate not to exceed $30,000 from the basic Clerk-Hire Allowance which may be used to supplement the Official Expenses Allowance, and may allocate not to exceed $30,000 from the Official Expenses Allowance to supplement the basic Clerk-Hire Allowance, provided however that monthly Clerk-Hiredisbursements may not exceed 10 percent of the basic Clerk-Hire Allowance.
 
 All disbursements and allocations shall be made in accordance with rules and regulations established by the Committee on House Administration.
 
@@ -379,10 +379,6 @@ Resolved, that pursuant to 2 U.S.C. §57 and 2 U.S.C. §59e, the Committee hereb
 <i>Sec. 1</i> Effective January 3, 1999 the amount available within the Members’ Representational Allowance for franked mail with respect to a session of Congress shall not be limited by subsection (b) of Committee Order No. 41.
 
 <i>Sec. 2</i> The Committee on House Oversight shall have the authority to prescribe regulations to carry out this resolution.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 57a of this title.
 
 <i><sup>1</sup></i><i> Rescinded. See Committee Order No. 12.</i>
 

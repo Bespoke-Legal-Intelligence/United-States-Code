@@ -12,7 +12,3 @@ Nothing in sections 946 to 949 of this title shall authorize such canal or ditch
 
 Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 421c, 664, 947, 948, 950, 951 of this title.
-

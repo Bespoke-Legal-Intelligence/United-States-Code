@@ -54,7 +54,7 @@ Subsec. (g)(3). Pub. L. 103–171, §§2(5)(C), 3(a)(13), substituted “1995”
 
 1992—Subsec. (a). Pub. L. 102–375, §207(1), inserted “their effectiveness in targeting for services under this chapter unserved older individuals with greatest economic need (including low-income minority individuals) and unserved older individuals with greatest social need (including low-income minority individuals),” after “related programs,”.
 
-Subsecs. (g), (h). Pub. L. 102–375, §207(2), added subsecs. (g) and (h) and struck out former subsec. (g) which read as follows: “The Secretary is authorized to use such sums as may be required, but not to exceed one-tenth of 1 percent of the funds appropriated under this chapter for each fiscal year, or $300,000 whichever is lower, to conduct program and project evaluations (directly, or by grants or contracts) as required by this subchapter. In the case of allotments from such an appropriation, the amount available for such allotments (and the amount deemed appropriated therefor) shall be reduced accordingly.”
+Subsecs. (g), (h). Pub. L. 102–375, §207(2), added subsecs. (g) and (h) and struck out former subsec. (g) which read as follows: “The Secretary is authorized to use such sums as may be required, but not to exceed one-tenth of 1 percent of the funds appropriated under this chapter for each fiscal year, or $300,000 whichever is lower, to conduct program and project evaluations (directly, or by grants or contracts) as required by this subchapter. In the case of allotments from such an appropriation, the amount available for such allotments\(and the amount deemed appropriated therefor) shall be reduced accordingly.”
 
 1987—Subsec. (c). Pub. L. 100–175 inserted “and older individuals with disabilities” before period at end.
 

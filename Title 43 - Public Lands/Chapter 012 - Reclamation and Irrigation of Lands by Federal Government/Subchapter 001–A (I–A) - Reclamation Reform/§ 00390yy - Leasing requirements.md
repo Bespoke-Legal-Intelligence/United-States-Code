@@ -12,7 +12,3 @@ Notwithstanding any other provision of Federal reclamation law, including this s
 
 Federal reclamation law, referred to in text, is defined in section 390aa of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390cc of this title.
-

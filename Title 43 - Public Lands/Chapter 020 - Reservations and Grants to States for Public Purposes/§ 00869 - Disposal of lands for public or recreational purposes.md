@@ -10,7 +10,7 @@ Conveyances made in any one calendar year shall be limited as follows:
 
 &emsp;(i) For recreational purposes:
 
-&emsp;&emsp;(A) To any State or the State park agency or any other agency having jurisdiction over the State park system of such State designated by the Governor of that State as its sole representative for acceptance of lands under this provision, hereinafter referred to as the State, or to any political subdivision of such State, six thousand four hundred acres, and such additional acreage as may beneeded for small roadside parks and rest sites of not more than ten acres each.
+&emsp;&emsp;(A) To any State or the State park agency or any other agency having jurisdiction over the State park system of such State designated by the Governor of that State as its sole representative for acceptance of lands under this provision, hereinafter referred to as the State, or to any political subdivision of such State, six thousand four hundred acres, and such additional acreage as may be needed for small roadside parks and rest sites of not more than ten acres each.
 
 &emsp;&emsp;(B) To any nonprofit corporation or nonprofit association, six hundred and forty acres.
 
@@ -36,7 +36,7 @@ Sections 682a to 682e of this title, referred to in subsec. (c), were repealed b
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–579, §212(a), inserted provisions requiring lands proposed to be disposed not to be of national significance nor more than reasonably necessary for the proposed use, provisions relating to proposals of over 640 acres, and provisions relating to participation by affected individuals.
+1976—Subsec. (a). Pub. L. 94–579, §212(a), inserted provisions requiring lands proposed to be disposed not to be of national significance nor more than reasonablynecessary for the proposed use, provisions relating to proposals of over 640 acres, and provisions relating to participation by affected individuals.
 
 Subsec. (b)(1). Pub. L. 94–579, §212(b), in cl. (A) inserted reference to State political subdivision and struck out limitation of three sites, limitation of six sites for calendar years 1960, 1961, and 1962, and proviso for additional sites where conveyances in one year did not meet the authorized number, in cl. (B) substituted “nonprofit corporation or nonprofit association” for “political subdivision of a State”, and in cl. (C) substituted provisions relating to authorization for a calendar year, for provisions authorizing six hundred and forty acres to any nonprofit corporation or association.
 
@@ -63,10 +63,6 @@ Act June 14, 1926, ch. 578, 44 Stat. 741, which enacted sections 869 to 869–4 
 #### Savings Provision
 
 Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 869–2, 869–3, 869–4, 1721 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

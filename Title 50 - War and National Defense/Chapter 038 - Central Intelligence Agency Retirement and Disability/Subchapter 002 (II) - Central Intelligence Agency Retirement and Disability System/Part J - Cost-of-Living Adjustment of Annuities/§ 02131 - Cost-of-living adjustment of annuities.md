@@ -24,7 +24,7 @@ Eligibility for an annuity increase under this section shall be governed by the 
 
 &emsp;(2) Effective from its commencing date, an annuity payable from the fund to an annuitant's survivor (other than a child entitled to an annuity under section 2031(d) of this title) shall be increased by the total percentage increase the annuitant was receiving under this section at death.
 
-&emsp;(3) For purposes of computing the annuity of a child under section 2031(d) of this title that commences after October 31, 1969, the dollaramounts specified in section 2031(d)(3) of this title shall each be increased by the total percentage increases allowed and in force under this section on or after such day and, in the case of a deceased annuitant, the percentages specified in that section shall be increased by the total percent allowed and in force to the annuitant under this section on or after such day.
+&emsp;(3) For purposes of computing the annuity of a child under section 2031(d) of this title that commences after October 31, 1969, the dollar amounts specified in section 2031(d)(3) of this title shall each be increased by the total percentage increases allowed and in force under this section on or after such day and, in the case of a deceased annuitant, the percentages specified in that section shall be increased by the total percent allowed and in force to the annuitant under this section on or after such day.
 
 #### (c) Limitation
 
@@ -73,8 +73,4 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 #### Delay in Cost-of-Living Adjustments During Fiscal Years 1994, 1995, and 1996
 
 Any cost-of-living increase scheduled to take effect during fiscal year 1994, 1995, or 1996 under this section delayed until first day of third calendar month after date such increase would otherwise take effect, see section 11001 of Pub. L. 103–66, set out as a note under section 8340 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2031, 2032, 2091 of this title.
 

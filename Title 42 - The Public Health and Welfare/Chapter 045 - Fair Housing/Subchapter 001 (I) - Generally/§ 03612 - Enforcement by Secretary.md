@@ -22,7 +22,7 @@ At a hearing under this section, each party may appear in person, be represented
 
 #### (e) Resolution of charge
 
-Any resolution of a charge before a final order under this section shall require the consent ofthe aggrieved person on whose behalf the charge is issued.
+Any resolution of a charge before a final order under this section shall require the consent of the aggrieved person on whose behalf the charge is issued.
 
 #### (f) Effect of trial of civil action on administrative proceedings
 
@@ -44,7 +44,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 > except that if the acts constituting the discriminatory housing practice that is the object of the charge are committed by the same natural person who has been previously adjudged to have committed acts constituting a discriminatory housing practice, then the civil penalties set forth in subparagraphs (B) and (C) may be imposed without regard to the period of time within which any subsequent discriminatory housing practice occurred.
 
-(4) No such order shall affect any contract, sale, encumbrance, or lease consummated before the issuance of such order and involving a bona fide purchaser, encumbrancer, or tenant without actual notice of the charge filed under this subchapter.
+(4) No such order shall affect any contract, sale, encumbrance, or lease consummated before the issuance of such order and involving a bonafide purchaser, encumbrancer, or tenant without actual notice of the charge filed under this subchapter.
 
 (5) In the case of an order with respect to a discriminatory housing practice that occurred in the course of a business subject to a licensing or regulation by a governmental agency, the Secretary shall, not later than 30 days after the date of the issuance of such order (or, if such order is judicially reviewed, 30 days after such order is in substance affirmed upon such review)—
 
@@ -106,7 +106,7 @@ The clerk of the court of appeals in which a petition for enforcement is filed u
 
 #### (<i>o</i>) Civil action for enforcement when election is made for such civil action
 
-(1) If an election is made under subsection (a) of this section, the Secretary shall authorize, and not later than 30 days after the election is made the Attorney General shall commence and maintain, a civil action on behalf of the aggrieved person in a United States district court seeking relief under this subsection. Venue for such civil action shall be determined under chapter 87 of title 28.
+(1) If an election is made under subsection (a) of this section, the Secretary shall authorize, and not later than 30 days after the election is made the Attorney General shall commence and maintain, a civil action on behalf of the aggrieved person in a United States district court seeking relief under this subsection. Venue forsuch civil action shall be determined under chapter 87 of title 28.
 
 (2) Any aggrieved person with respect to the issues to be determined in a civil action under this subsection may intervene as of right in that civil action.
 
@@ -129,8 +129,4 @@ A prior section 3612, Pub. L. 90–284, title VIII, §812, Apr. 11, 1968, 82 Sta
 #### Effective Date
 
 Section effective on 180th day beginning after Sept. 13, 1988, see section 13(a) of Pub. L. 100–430, set out as an Effective Date of 1988 Amendment note under section 3601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3608 of this title; title 28 sections 2341, 2342.
 

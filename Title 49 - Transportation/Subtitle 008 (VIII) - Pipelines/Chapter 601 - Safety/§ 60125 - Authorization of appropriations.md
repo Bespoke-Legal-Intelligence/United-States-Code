@@ -42,7 +42,7 @@ In general.—The Secretary may establish a program for making grants to State, 
 
 &emsp;(2)
 
-Authorization of appropriations.—There is authorized to be appropriated $6,000,000 for each of fiscal years 2003 through 2006 to carry out this subsection.
+Authorization of appropriations.—There is authorized to be appropriated$6,000,000 for each of fiscal years 2003 through 2006 to carry out this subsection.
 
 (e)
 
@@ -168,7 +168,7 @@ Subsec. (d). Pub. L. 107–355, §22(b)(1), (c), added subsec. (d) and struck ou
 
 “(d)
 
-Grants for One-Call Notification Systems.—Not more than $\_\_\_\_\_\_\_\_\_\_ may be appropriated to the Secretary for the fiscal year ending September 30, 19\_\_, to carry out section 60114(b) of this title. Amounts under this subsection remain available until expended.”
+Grants for One-Call Notification Systems.—Not more than $\_\_\_\_\_\_\_\_\_\_ may be appropriated to the Secretary for the fiscal year ending September 30, 19\_\_,to carry out section 60114(b) of this title. Amounts under this subsection remain available until expended.”
 
 Subsec. (e). Pub. L. 107–355, §22(d), struck out “or (b) of this section” after “under subsection (a)”.
 

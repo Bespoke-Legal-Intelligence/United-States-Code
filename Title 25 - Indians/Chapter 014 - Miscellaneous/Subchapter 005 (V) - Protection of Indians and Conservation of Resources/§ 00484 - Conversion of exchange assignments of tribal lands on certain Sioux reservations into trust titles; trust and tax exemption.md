@@ -4,7 +4,3 @@ From and after July 14, 1954, each grant of exchange assignment of tribal lands 
 
 (July 14, 1954, ch. 472, §1, 68 Stat. 467.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 486 of this title.
-

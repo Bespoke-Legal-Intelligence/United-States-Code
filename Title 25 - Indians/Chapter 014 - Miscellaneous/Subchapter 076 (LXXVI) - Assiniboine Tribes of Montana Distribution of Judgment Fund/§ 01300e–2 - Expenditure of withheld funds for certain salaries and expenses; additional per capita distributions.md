@@ -10,7 +10,3 @@ The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. Se
 
 Act of June 29, 1954, referred to in text, is act June 29, 1954, ch. 421, 68 Stat. 329, which was not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300e–1 of this title.
-

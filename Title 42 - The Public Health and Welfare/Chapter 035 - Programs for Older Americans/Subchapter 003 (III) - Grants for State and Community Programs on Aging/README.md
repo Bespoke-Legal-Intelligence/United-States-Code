@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—GRANTS FOR STATE AND COMMUNITY PROGRAMS ON AGING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1395i–3, 1396r, 1762a, 3011, 3015, 3017, 3018, 3032e, 3033, 3056a, 3057, 3057b, 3057e, 3057j, 3058b, 5021, 8011, 8012 of this title.
-
 
 ---
 

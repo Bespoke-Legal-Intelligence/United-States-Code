@@ -12,7 +12,3 @@ Section was enacted as part of the Firefighters’ Safety Study Act, and not as 
 
 Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2223a, 2223d, 2223e of this title.
-

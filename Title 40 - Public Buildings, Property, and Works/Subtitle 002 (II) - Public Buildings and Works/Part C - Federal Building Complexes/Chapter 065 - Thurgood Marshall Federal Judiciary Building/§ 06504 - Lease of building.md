@@ -66,7 +66,3 @@ Subsection (a) is substituted for 40:1203(a) to eliminate obsolete words.
 
 In subsection (b)(2), the words “in the District of Columbia” are added for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6502, 6506, 6507 of this title.
-

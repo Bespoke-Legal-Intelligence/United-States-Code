@@ -28,7 +28,3 @@ The customer has the right, unless the Government authority obtains a court orde
 
 1979—Subsec. (d). Pub. L. 96–3 struck out subsec. (d) which had directed that all financial institutions promptly notify all of their customers of their rights under this chapter, that the Board of Governors of the Federal Reserve System prepare a statement of customers’ rights under this chapter, and that the supplying of such a statement to their customers by the financial institutions be deemed compliance with the notification requirement.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3402, 3409 of this title; title 42 section 1383.
-

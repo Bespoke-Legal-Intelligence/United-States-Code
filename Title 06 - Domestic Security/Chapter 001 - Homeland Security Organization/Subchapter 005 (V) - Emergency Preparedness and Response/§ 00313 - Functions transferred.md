@@ -12,7 +12,9 @@ In accordance with subchapter XII of this chapter, there shall be transferred to
 
 &emsp;(5) The Office of Emergency Preparedness, the National Disaster Medical System, and the Metropolitan Medical Response System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness relating thereto.
 
-&emsp;(6) The Strategic National Stockpile of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services relating thereto.
+(Pub. L. 107–296, title V, §503, Nov. 25, 2002, 116 Stat. 2213; Pub. L. 108–276, §3(c)(3), July 21, 2004, 118 Stat. 853.)
 
-(Pub. L. 107–296, title V, §503, Nov. 25, 2002, 116 Stat. 2213.)
+#### Amendments
+
+2004—Par. (6). Pub. L. 108–276 struck out par. (6) which read as follows: “The Strategic National Stockpile of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services relating thereto.”
 

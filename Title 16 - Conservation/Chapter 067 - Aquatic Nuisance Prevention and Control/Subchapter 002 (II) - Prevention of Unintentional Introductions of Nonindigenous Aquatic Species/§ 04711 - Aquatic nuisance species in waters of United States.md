@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(ii) the crew and passengers of each vessel;
 
-&emsp;&emsp;(D) direct a vessel that is carrying ballast water into waters of the United States afteroperating beyond the exclusive economic zone to—
+&emsp;&emsp;(D) direct a vessel that is carrying ballast water into waters of the United States after operating beyond the exclusive economic zone to—
 
 &emsp;&emsp;&emsp;(i) carry out the exchange of ballast water of the vessel in waters beyond the exclusive economic zone;
 
@@ -234,7 +234,7 @@ In developing the guidelines issued and regulations promulgated under this secti
 
 #### (j) International cooperation
 
-The Secretary, in cooperation with the International Maritime Organization of the United Nations and the Commission on Environmental Cooperation established pursuant to the North American Free Trade Agreement, is encouraged to enter into negotiations with the governments of foreign countries to develop and implement an effective international program for preventing the unintentional introduction and spread of nonindigenous species.
+The Secretary, in cooperation with the International Maritime Organization of the United Nations and the Commission on Environmental Cooperation established pursuant to the North American Free Trade Agreement, is encouraged to enter into negotiations with the governments of foreign countries to develop and implementan effective international program for preventing the unintentional introduction and spread of nonindigenous species.
 
 #### (k) Safety exemption
 
@@ -246,7 +246,7 @@ The Secretary, in cooperation with the International Maritime Organization of th
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), a vessel that does not exchange ballast water on the high seas under paragraph (1) shallnot be restricted from discharging ballast water in any harbor.
+&emsp;&emsp;Except as provided in subparagraph (B), a vessel that does not exchange ballast water on the high seas under paragraph (1) shall not be restricted from discharging ballast water in any harbor.
 
 #### (B) Great Lakes
 
@@ -283,10 +283,6 @@ October 26, 1996, referred to in subsec. (k)(3), was in the original “the date
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4712, 4741 of this title.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

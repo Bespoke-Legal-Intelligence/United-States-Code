@@ -4,7 +4,3 @@ The Secretary of the Interior, in order to implement the purposes of section 430
 
 (Pub. L. 87–134, §2, Aug. 10, 1961, 75 Stat. 336.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430pp, 430tt of this title.
-

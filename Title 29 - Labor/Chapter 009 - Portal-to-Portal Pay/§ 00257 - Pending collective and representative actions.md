@@ -6,5 +6,5 @@ The statute of limitations prescribed in section 255(b) of this title shall also
 
 #### References in Text
 
-The Fair Labor Standards Act of 1938, as amended, referred to in text, is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
+The Fair Labor Standards Act of 1938, as amended, referred to in text, is act June 25, 1938, ch. 676, 52 Stat.1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
 

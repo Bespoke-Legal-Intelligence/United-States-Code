@@ -22,7 +22,3 @@ The payment for each option may be retained by the party granting the option if 
 
 (Pub. L. 95–395, §5, Sept. 30, 1978, 92 Stat. 814.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1702, 1707 of this title.
-

@@ -12,7 +12,7 @@ The Deputy Architect of the Capitol shall have strong leadership skills and demo
 
 #### (1) In general
 
-&emsp;The Deputy Architect of the Capitol shall be responsible to the Architect of the Capitol forthe overall direction, operation, and management of the Office of the Architect of the Capitol, including implementing the Office's goals and mission; providing overall organization management to improve the Office's performance; and assisting the Architect of the Capitol in promoting reform, and measuring results.
+&emsp;The Deputy Architect of the Capitol shall be responsible to the Architect of the Capitol for the overall direction, operation, and management of the Office of the Architect of the Capitol, including implementing the Office's goals and mission; providing overall organization management to improve the Office's performance; and assisting the Architect of the Capitol in promoting reform, and measuring results.
 
 #### (2) Responsibilities
 
@@ -50,7 +50,7 @@ The Architect of the Capitol may delegate to the Deputy Architect such additiona
 
 #### (f) Evaluation
 
-The General Accounting Office shall evaluate annually the implementation of the action plan and provide the results of the evaluation to the Architect of the Capitol, the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate.
+The Government Accountability Office shall evaluate annually the implementation of the action plan and provide the results of the evaluation to the Architect of the Capitol, the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate.
 
 #### (g) Removal
 
@@ -66,9 +66,9 @@ The Deputy Architect of the Capitol shall prepare and transmit to the Architect 
 
 #### (j) Termination of role
 
-As of October 1, 2006, the role of the Comptroller General and the General Accounting Office, as established by this section, will cease.
+As of October 1, 2006, the role of the Comptroller General and the Government Accountability Office, as established by this section, will cease.
 
-(Pub. L. 108–7, div. H, title I, §1203, Feb. 20, 2003, 117 Stat. 373; Pub. L. 108–11, title II, §2601(a), Apr. 16, 2003, 117 Stat. 599.)
+(Pub. L. 108–7, div. H, title I, §1203, Feb. 20, 2003, 117 Stat. 373; Pub. L. 108–11, title II, §2601(a), Apr. 16, 2003, 117 Stat. 599; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -80,7 +80,9 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–11, substituted “not later than 180 days” for “not later than 90 days”.
+2004—Subsecs. (f), (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
+2003—Subsec. (a). Pub. L. 108–11, substituted “not later than 180 days” for “not later than 90 days”.
 
 #### Effective Date of 2003 Amendment
 

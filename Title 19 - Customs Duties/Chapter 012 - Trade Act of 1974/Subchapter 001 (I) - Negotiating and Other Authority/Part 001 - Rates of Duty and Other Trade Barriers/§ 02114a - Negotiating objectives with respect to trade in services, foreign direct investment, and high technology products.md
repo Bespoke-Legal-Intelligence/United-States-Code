@@ -82,7 +82,3 @@ For purposes of subsection (a) of this section, the term “barriers to, or othe
 
 (Pub. L. 93–618, title I, §104A, as added Pub. L. 98–573, title III, §305(a)(1), Oct. 30, 1984, 98 Stat. 3006.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2114e of this title.
-

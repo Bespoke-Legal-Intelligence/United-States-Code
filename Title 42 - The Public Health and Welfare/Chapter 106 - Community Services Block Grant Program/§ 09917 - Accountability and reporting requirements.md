@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) a summary of the planned use of funds by each State, and the eligible entities in the State, under the community services block grant program, as contained in each State plan submitted pursuant to section 9908 of this title;
 
-&emsp;&emsp;(B) a description of how funds were actually spent by the State and eligible entities in the State, including a breakdown of funds spent on administrative costs and on the direct delivery of local services by eligible entities;
+&emsp;&emsp;(B) a description of how funds were actually spent by the State and eligible entities in the State, including a breakdown of fundsspent on administrative costs and on the direct delivery of local services by eligible entities;
 
 &emsp;&emsp;(C) information on the number of entities eligible for funds under this chapter, the number of low-income persons served under this chapter, and such demographic data on the low-income populations served by eligible entities as is determined by the Secretary to be feasible;
 
@@ -40,7 +40,7 @@
 
 #### (3) Submission
 
-&emsp;The Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate the report described in paragraph (2), and any comments the Secretary may have with respect to such report. The report shall include definitions of direct and administrative costsused by the Department of Health and Human Services for programs funded under this chapter.
+&emsp;The Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate the report described in paragraph (2), and any comments the Secretary may have with respect to such report. The report shall include definitions of direct and administrative costs used by the Department of Health and Human Services for programs funded under this chapter.
 
 #### (4) Costs
 
@@ -48,7 +48,7 @@
 
 (Pub. L. 97–35, title VI, §678E, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2746.)
 
-#### Section Referred to in Other Sections
+#### Change of Name
 
-This section is referred to in sections 9903, 9908, 9914 of this title.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

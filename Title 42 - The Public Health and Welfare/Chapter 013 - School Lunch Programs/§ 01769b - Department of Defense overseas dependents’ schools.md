@@ -2,7 +2,7 @@
 
 #### (a) Purpose of program; availability of payments and commodities
 
-For the purpose of obtaining Federal payments and commodities in conjunction with the provision of lunches to students attending Department of Defense dependents’ schools which are located outside the United States, its territories or possessions, the Secretary of Agriculture shall make available to the Departmentof Defense, from funds appropriated for such purpose, the same payments and commodities as are provided to States for schools participating in the National School Lunch Program in the United States.
+For the purpose of obtaining Federal payments and commodities in conjunction with the provision of lunches to students attending Department of Defense dependents’ schools which are located outside the United States, its territories or possessions, the Secretary of Agriculture shall make available to the Department of Defense, from funds appropriated for such purpose, the same payments and commodities as are provided to States for schools participating in the National School Lunch Program in the United States.
 
 #### (b) Administration of program; eligibility determinations and regulations
 
@@ -34,7 +34,7 @@ A prior section 20 of act June 4, 1946, was renumbered section 18 of act June 4,
 
 1989—Subsec. (b). Pub. L. 101–147 substituted “reduced price” for “reduced-price”.
 
-1986—Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591, §328(a), and Pub. L. 99–661, §4208(a), amended subsec. (d) identically, striking out “and for payment of the difference between the value of commodities and payments received from the Secretary of Agriculture and (1) the full cost of each lunch for each student eligible for a free lunch, and (2) the full cost of each lunch, less any amounts required by law or regulation to be paid by each student eligible for a reduced-price lunch” after “this section”.
+1986—Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591, §328(a), and Pub. L. 99–661, §4208(a), amended subsec. (d) identically, striking out “and for payment of the difference between the value of commodities and payments received from the Secretary of Agriculture and\(1) the full cost of each lunch for each student eligible for a free lunch, and (2) the full cost of each lunch, less any amounts required by law or regulation to be paid by each student eligible for a reduced-price lunch” after “this section”.
 
 #### Effective Date
 
@@ -43,8 +43,4 @@ Section effective Oct. 1, 1978 and no provision herein to be construed as impair
 #### Transfer of Functions
 
 For transfer to Secretary of Education of functions of Secretary of Defense and Department of Defense relating to operation of overseas schools for dependents of Department of Defense and under Defense Dependents’ Education Act of 1978, 20 U.S.C. 921 et seq., see section 3442(a) of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2243.
 

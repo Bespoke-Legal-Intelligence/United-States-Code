@@ -33,3 +33,4 @@
 - [&sect; 44922 - Deputation of State and local law enforcement officers](%C2%A7%2044922%20-%20Deputation%20of%20State%20and%20local%20law%20enforcement%20officers.md)
 - [&sect; 44923 - Airport security improvement projects](%C2%A7%2044923%20-%20Airport%20security%20improvement%20projects.md)
 - [&sect; 44924 - Repair station security](%C2%A7%2044924%20-%20Repair%20station%20security.md)
+- [&sect; 44925 - Deployment and use of detection equipment at airport screening checkpoints](%C2%A7%2044925%20-%20Deployment%20and%20use%20of%20detection%20equipment%20at%20airport%20screening%20checkpoints.md)

@@ -16,15 +16,13 @@
 
 #### (b) Amount of assistance
 
-The aggregate value (as defined in section 2403(m) of this title) of assistance provided under subsection (a) of this section may not exceed $450,000,000, except that such limitation shall be increased by any amounts appropriated pursuant to the authorization of appropriations in section 7534(b)(1) of this title and shall not count toward any limitation contained in section 2318 of this title.
+The aggregate value (as defined in section 2403(m) of this title) of assistance provided under subsection (a) of this section may not exceed $550,000,000, except that such limitation shall be increased by any amounts appropriated pursuant to the authorization of appropriations in section 7534(b)(1) of this title and shall not count toward any limitation contained in section 2318 of this title.
 
-(Pub. L. 107–327, title II, §202, Dec. 4, 2002, 116 Stat. 2807; Pub. L. 108–106, title II, §2206, Nov. 6, 2003, 117 Stat. 1231.)
+(Pub. L. 107–327, title II, §202, Dec. 4, 2002, 116 Stat. 2807; Pub. L. 108–106, title II, §2206, Nov. 6, 2003, 117 Stat. 1231; Pub. L. 108–287, title IX, §9008, Aug. 5, 2004, 118 Stat. 1008.)
 
 #### Amendments
 
+2004—Subsec. (b). Pub. L. 108–287 substituted “$550,000,000” for “$450,000,000”.
+
 2003—Subsec. (b). Pub. L. 108–106 substituted “$450,000,000” for “$300,000,000”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7533, 7534 of this title.
 

@@ -4,7 +4,3 @@ If any person violates section 2101(a) or (b) of this title or a rule under sect
 
 (Pub. L. 93–167, §3, Nov. 29, 1973, 87 Stat. 686.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2103 of this title.
-

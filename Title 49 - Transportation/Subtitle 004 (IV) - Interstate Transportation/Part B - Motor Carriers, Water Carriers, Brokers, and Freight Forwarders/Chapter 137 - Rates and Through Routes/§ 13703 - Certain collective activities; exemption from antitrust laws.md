@@ -34,7 +34,7 @@ Conditions.—The Board may require compliance with reasonable conditions consis
 
 &emsp;(4)
 
-Independently established rates.—Any carrier which is a party to an agreement under paragraph (1) is not, and may not be, precludedfrom independently establishing its own rates, classification, and mileages or from adopting and using a noncollectively made classification or mileage guide.
+Independently established rates.—Any carrier which is a party to an agreement under paragraph (1) is not, and may not be, precluded from independently establishing its own rates, classification, and mileages or from adopting and using a noncollectively made classification or mileage guide.
 
 &emsp;(5)
 
@@ -179,8 +179,4 @@ Subsec. (f)(2). Pub. L. 104–287, §5(28)(B), substituted “December 31, 1995�
 #### Abolition of Interstate Commerce Commission
 
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13541, 13701, 14706 of this title.
 

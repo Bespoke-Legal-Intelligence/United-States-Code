@@ -6,7 +6,7 @@ Grant Authority.—
 
 &emsp;(1)
 
-In general.—The Secretary of Transportation may make grants for technical assistance to local communities and groups of individuals (not including for-profit entities) relating to the safety of pipeline facilities in local communities, other than facilities regulated under Public Law 93–153 (43 U.S.C. 1651 et seq.). The Secretary shall establish competitive procedures for awarding grants under this section and criteria for selecting grant recipients. The amount of any grant under this section may not exceed $50,000 for a single grant recipient. The Secretary shall establish appropriate procedures to ensure the proper use of funds provided under this section.
+In general.—The Secretary of Transportation may make grants for technical assistance to local communities and groups of individuals (not including for-profit entities) relating to the safety of pipeline facilities in local communities, other than facilities regulated under Public Law 93–153 (43 U.S.C. 1651 etseq.). The Secretary shall establish competitive procedures for awarding grants under this section and criteria for selecting grant recipients. The amount of any grant under this section may not exceed $50,000 for a single grant recipient. The Secretary shall establish appropriate procedures to ensure the proper use of funds provided under this section.
 
 &emsp;(2)
 

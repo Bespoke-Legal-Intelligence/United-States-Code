@@ -10,7 +10,3 @@ Act of May 25, 1971, referred to in text, is Pub. L. 92–18, May 25, 1971, 85 S
 
 The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 590b, 590c of this title.
-

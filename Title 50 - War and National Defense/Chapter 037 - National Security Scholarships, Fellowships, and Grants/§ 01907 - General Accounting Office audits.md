@@ -1,6 +1,0 @@
-### §1907. General Accounting Office audits
-
-The conduct of the program required by this chapter may be audited by the General Accounting Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. Representatives of the General Accounting Office shall have access to all books, accounts, records, reports, and files and all other papers, things, or property of the Department of Defense pertaining to such activities and necessary to facilitate the audit.
-
-(Pub. L. 102–183, title VIII, §807, Dec. 4, 1991, 105 Stat. 1276.)
-

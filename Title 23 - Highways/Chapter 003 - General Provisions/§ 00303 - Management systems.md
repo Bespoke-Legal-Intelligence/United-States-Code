@@ -62,7 +62,7 @@ The date of the enactment of this section, referred to in subsecs. (a) and (b), 
 
 #### Prior Provisions
 
-A prior section 303, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 912; Pub. L. 87–392, §1, Oct. 4, 1961, 75 Stat. 822; Pub. L. 88–426, title III, §305(24), Aug. 14, 1964, 78 Stat. 425; Pub. L. 91–605, title I, §114(a), Dec. 31, 1970, 84 Stat. 1722; Pub. L. 93–87, title I, §152(4), Aug. 13, 1973, 87 Stat. 276, provided for administrative organization of the Federal Highway Administration, prior to repeal by Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2445. See section 104 of Title 49, Transportation.
+A prior section 303, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 912; Pub. L. 87–392, §1, Oct. 4, 1961, 75 Stat. 822; Pub. L. 88–426, title III, §305(24), Aug. 14, 1964, 78 Stat.425; Pub. L. 91–605, title I, §114(a), Dec. 31, 1970, 84 Stat. 1722; Pub. L. 93–87, title I, §152(4), Aug. 13, 1973, 87 Stat. 276, provided for administrative organization of the Federal Highway Administration, prior to repeal by Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2445. See section 104 of Title 49, Transportation.
 
 #### Amendments
 
@@ -85,8 +85,4 @@ Section effective Dec. 18, 1991, and applicable to funds authorized to be approp
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of reporting provisions in subsec. (f)(1) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 137 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 103, 109, 133, 505 of this title.
 

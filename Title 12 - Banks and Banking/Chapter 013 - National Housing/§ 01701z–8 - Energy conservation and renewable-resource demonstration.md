@@ -86,7 +86,3 @@ Functions vested in Secretary of Housing and Urban Development under this sectio
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1701z–2 of this title; title 42 sections 6325, 7154.
-

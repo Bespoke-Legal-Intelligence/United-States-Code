@@ -1,9 +1,5 @@
 Part B—Improving Language Instruction Educational Programs
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 6394, 6396, 6801 of this title.
-
 
 ---
 

@@ -28,7 +28,7 @@ Compliance with the requirements imposed under this chapter shall be enforced un
 
 #### (c) Exercise of certain powers
 
-For the purpose of the exercise by any agency referred to in subsection (a) <sup>2</sup> of this section ofits powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a) <sup>2</sup> of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
+For the purpose of the exercise by any agency referred to in subsection (a) <sup>2</sup> of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a) <sup>2</sup> of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
 
 #### (d) Actions by Commission
 
@@ -57,10 +57,6 @@ This chapter, referred to in subsec. (e), was in the original “Act” and “t
 #### Effective Date
 
 For effective date of section, see section 1308 of Pub. L. 105–277, set out as a note under section 6501 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6502 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

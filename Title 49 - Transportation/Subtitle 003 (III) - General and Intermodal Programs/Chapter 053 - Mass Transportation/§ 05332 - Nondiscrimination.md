@@ -92,7 +92,3 @@ In subsection (f), the words “considered to be” and “and not in lieu of”
 
 The Civil Rights Act of 1964, referred to in subsecs. (d)(3) and (f), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5307, 5336 of this title.
-

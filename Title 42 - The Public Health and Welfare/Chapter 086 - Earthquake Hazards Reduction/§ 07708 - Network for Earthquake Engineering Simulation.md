@@ -12,9 +12,23 @@ In addition to amounts appropriated under section 7706(c) of this title, there a
 
 &emsp;(2) $24,400,000 for fiscal year 2002;
 
-&emsp;(3) $4,500,000 for fiscal year 2003; and
+&emsp;(3) $4,500,000 for fiscal year 2003;
 
-&emsp;(4) $17,000,000 for fiscal year 2004.
+&emsp;(4) $17,000,000 for fiscal year 2004;
 
-(Pub. L. 95–124, §14, as added Pub. L. 106–503, title II, §205, Nov. 13, 2000, 114 Stat. 2306.)
+&emsp;(5) $20,000,000 for fiscal year 2005, all of which shall be available for operations and maintenance;
+
+&emsp;(6) $20,400,000 for fiscal year 2006, all of which shall be available for operations and maintenance;
+
+&emsp;(7) $20,870,000 for fiscal year 2007, all of which shall be available for operations and maintenance;
+
+&emsp;(8) $21,390,000 for fiscal year 2008, all of which shall be available for operations and maintenance; and
+
+&emsp;(9) $21,930,000 for fiscal year 2009, all of which shall be available for operations and maintenance.
+
+(Pub. L. 95–124, §14, as added Pub. L. 106–503, title II, §205, Nov. 13, 2000, 114 Stat. 2306; amended Pub. L. 108–360, title I, §104(c), Oct. 25, 2004, 118 Stat. 1675.)
+
+#### Amendments
+
+2004—Subsec. (b)(5) to (9). Pub. L. 108–360 added pars. (5) to (9).
 

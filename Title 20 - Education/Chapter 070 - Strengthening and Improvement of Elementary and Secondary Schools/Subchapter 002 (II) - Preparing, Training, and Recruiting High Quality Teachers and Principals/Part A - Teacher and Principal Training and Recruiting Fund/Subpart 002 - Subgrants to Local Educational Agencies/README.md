@@ -1,9 +1,5 @@
 subpart 2—subgrants to local educational agencies
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 5891b, 6612, 6613, 6641, 7321a of this title.
-
 
 ---
 

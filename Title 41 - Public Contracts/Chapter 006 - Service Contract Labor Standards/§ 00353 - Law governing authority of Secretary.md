@@ -10,7 +10,7 @@ The Secretary may provide such reasonable limitations and may make such rules an
 
 #### (c) Predecessor contracts; employees’ wages and fringe benefits
 
-No contractor or subcontractor under a contract, which succeeds a contract subject to this chapter and under which substantially the same services are furnished, shall pay any service employee under such contract less than the wages and fringe benefits, including accrued wages and fringe benefits, and any prospective increases in wages and fringe benefits provided for in a collective-bargaining agreement as a result of arm's-length negotiations, to which such service employees would have been entitled if they were employed under the predecessor contract: <i>Provided</i>, That in any of the foregoing circumstances such obligations shall not apply if the Secretary finds after a hearing in accordance with regulations adopted by the Secretary that such wages and fringe benefits are substantially at variance with those which prevail for services of a character similar in the locality.
+No contractor or subcontractor under a contract, which succeeds a contract subject to thischapter and under which substantially the same services are furnished, shall pay any service employee under such contract less than the wages and fringe benefits, including accrued wages and fringe benefits, and any prospective increases in wages and fringe benefits provided for in a collective-bargaining agreement as a result of arm's-length negotiations, to which such service employees would have been entitled if they were employed under the predecessor contract: <i>Provided</i>, That in any of the foregoing circumstances such obligations shall not apply if the Secretary finds after a hearing in accordance with regulations adopted by the Secretary that such wages and fringe benefits are substantially at variance with those which prevail for services of a character similar in the locality.
 
 #### (d) Duration of contract
 
@@ -23,8 +23,4 @@ Subject to limitations in annual appropriation Acts but notwithstanding any othe
 1972—Subsec. (b). Pub. L. 92–473, §3(a), excluded section 358 of this title from being subject to Secretary's authority to provide limitations and to make regulations respecting application of provisions of this chapter, substituted “but only in special circumstances where he determines that such limitation, variation, tolerance, or exemption is necessary and proper” for “as he may find necessary and proper”, and authorized administrative action in accord with the remedial purpose of this chapter to protect prevailing labor standards.
 
 Subsecs. (c), (d). Pub. L. 92–473, §3(b), added subsecs. (c) and (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 351, 352 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Incorporation of necessary programs and policies
 
-In each Economic Report after October 27, 1978, the President shall incorporate (as part of the five-year numerical goals in each Economic Report) medium-term annual numerical goals specified in section 1022(a)(2)(B) of this title, andin each President's Budget submitted immediately prior thereto, the President shall incorporate the programs and policies the President deems necessary to achieve such medium-term goals and a balanced Federal budget and to achieve reasonable price stability as rapidly as feasible as provided for in section 1022b(b) of this title.
+In each Economic Report after October 27, 1978, the President shall incorporate (as part of the five-year numerical goals in each Economic Report) medium-term annual numerical goals specified in section 1022(a)(2)(B) of this title, and in each President's Budget submitted immediately prior thereto, the President shall incorporate the programs and policies the President deems necessary to achieve such medium-term goals and a balanced Federal budget and to achieve reasonable price stability as rapidly as feasible as provided for in section 1022b(b) of this title.
 
 #### (b) Interim numerical goals for initial Economic Reports
 
@@ -54,7 +54,7 @@ If, after achievement of the 3 and 4 per centum goals specified in subsection (b
 
 #### References in Text
 
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (d), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended. Title III of the Full Employment and Balanced Growth Act of 1978 is classified principally to subchapter II (§3131 et seq.) of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (d), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended. Title III of the Full Employment and Balanced Growth Act of 1978 is classified principally to subchapter II (§3131 et seq.) of chapter 58of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 Section 304 of the Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, §304, Oct. 27, 1978, 92 Stat. 1906, which amended section 632 of Title 2, The Congress.
 
@@ -73,10 +73,6 @@ A prior section 4 of act Feb. 20, 1946, was renumbered section 10 and is classif
 Subsec. (c)(3). Pub. L. 96–10, §6(b), added par. (3).
 
 Subsec. (d). Pub. L. 96–10, §6(c), inserted reference to Federal outlays as a proportion of gross national product.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1021, 1022d, 1022e, 3116, 3132, 3151 of this title; title 2 sections 632, 636.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

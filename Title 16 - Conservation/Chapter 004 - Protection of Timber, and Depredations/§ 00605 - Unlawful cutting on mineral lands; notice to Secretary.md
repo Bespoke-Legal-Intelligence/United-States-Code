@@ -10,7 +10,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 “Such officer as the Secretary of the Interior may designate” substituted in text for “the register and the receiver of any local land office”, “Secretary of the Interior” for “Commissioner of the General Land Office”, and “such officer” for “such register and receiver” on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 604, 606, 607 of this title.
-

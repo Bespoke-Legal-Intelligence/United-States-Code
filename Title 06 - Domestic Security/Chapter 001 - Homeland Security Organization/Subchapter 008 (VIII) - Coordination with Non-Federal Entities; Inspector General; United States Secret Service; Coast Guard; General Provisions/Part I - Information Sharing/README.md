@@ -9,3 +9,4 @@ Part I—Information Sharing
 - [&sect; 00482 - Facilitating homeland security information sharing procedures](%C2%A7%2000482%20-%20Facilitating%20homeland%20security%20information%20sharing%20procedures.md)
 - [&sect; 00483 - Report](%C2%A7%2000483%20-%20Report.md)
 - [&sect; 00484 - Authorization of appropriations](%C2%A7%2000484%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00485 - Information sharing](%C2%A7%2000485%20-%20Information%20sharing.md)

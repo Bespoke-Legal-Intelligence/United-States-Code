@@ -102,7 +102,3 @@ Section 403 of Pub. L. 100–687, which provided that the amendment to subsec. (
 
 \[Repeal of section 403 of Pub. L. 100–687, formerly set out above, applicable to any appeal filed with the United States Court of Appeals for Veterans Claims on or after Dec. 27, 2001, or before that date but in which a final decision has not been made under section 7291 of this title as of that date, see section 603(d) of Pub. 107–103, set out as a note under section 7251 of this title.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5905, 7263 of this title.
-

@@ -46,7 +46,3 @@ Subsec. (e). Pub. L. 106–386, §1202(b)(3), added subsec. (e).
 
 1992—Subsec. (a)(1). Pub. L. 102–295 struck out “whichever is the greater of the following amounts: one-half of” before “1 percent” and substituted “$200,000, whichever is the lessor amount” for “$50,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10409 of this title.
-

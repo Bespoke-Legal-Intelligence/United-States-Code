@@ -76,7 +76,3 @@ Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment ha
 
 Pub. L. 105–276, title V, §599A(b), Oct. 21, 1998, 112 Stat. 2660, provided that: “The amendment made by this section \[amending this section\] is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 sections 1701j–3, 1735f–7a, 3802; title 15 section 78c.
-

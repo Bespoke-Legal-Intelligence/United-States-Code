@@ -42,7 +42,7 @@ A grant under this section—
 
 &emsp;(4) may be made subject to such conditions and requirements, in addition to those provided in this section, as the Administrator may require to properly carry out his functions pursuant to this chapter.
 
-> For purposes of paragraph (1), the non-Federal share may be in any form, including, but not limited to, lands or interests therein needed for the project or personal property or services, thevalue of which shall be determined by the Administrator.
+> For purposes of paragraph (1), the non-Federal share may be in any form, including, but not limited to, lands or interests therein needed for the project or personal property or services, the value of which shall be determined by the Administrator.
 
 #### (f) Single State
 
@@ -58,5 +58,5 @@ Provisions similar to those in this section were contained in section 3254b of t
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 

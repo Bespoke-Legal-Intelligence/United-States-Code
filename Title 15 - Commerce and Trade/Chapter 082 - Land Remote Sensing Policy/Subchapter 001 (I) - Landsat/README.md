@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—LANDSAT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 5652 of this title.
-
 
 ---
 

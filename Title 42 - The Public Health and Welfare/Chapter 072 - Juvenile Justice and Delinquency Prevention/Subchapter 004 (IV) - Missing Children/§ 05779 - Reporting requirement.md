@@ -26,9 +26,5 @@ Section was enacted as part of the Crime Control Act of 1990, and not as part of
 
 2003—Subsec. (a). Pub. L. 108–21 substituted “age of 21” for “age of 18”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5780 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

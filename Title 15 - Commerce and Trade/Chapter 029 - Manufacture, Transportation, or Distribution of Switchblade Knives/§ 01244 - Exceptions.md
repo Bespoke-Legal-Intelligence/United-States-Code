@@ -12,7 +12,3 @@ Sections 1242 and 1243 of this title shall not apply to—
 
 (Pub. L. 85–623, §4, Aug. 12, 1958, 72 Stat. 562.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1245 of this title.
-

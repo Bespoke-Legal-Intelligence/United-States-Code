@@ -54,7 +54,7 @@ Required showing by complainant.—The Secretary of Labor shall dismiss a compla
 
 &emsp;&emsp;&emsp;(ii)
 
-Showing by employer.—Notwithstanding a finding by the Secretary of Labor that the complainant has made the showing required under clause (i), no investigation otherwise required under subparagraph (A) shall be conducted if the employer demonstrates, by clear and convincing evidence, that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
+Showing by employer.—Notwithstanding a finding by the Secretary of Labor that the complainant has made the showing required under clause (i), no investigation otherwise required under subparagraph (A) shall be conducted if the employer demonstrates, by clear and convincing evidence, that the employer wouldhave taken the same unfavorable personnel action in the absence of that behavior.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -125,8 +125,4 @@ Mandamus.—Any nondiscretionary duty imposed by this section shall be enforceab
 Nonapplicability To Deliberate Violations.—Subsection (a) shall not apply with respect to an action of an employee of an employer who, acting without direction from the employer (or such employer's agent), deliberately causes a violation of any requirement relating to pipeline safety under this chapter or any other law of the United States.
 
 (Added Pub. L. 107–355, §6(a), Dec. 17, 2002, 116 Stat. 2989.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 60122 of this title.
 

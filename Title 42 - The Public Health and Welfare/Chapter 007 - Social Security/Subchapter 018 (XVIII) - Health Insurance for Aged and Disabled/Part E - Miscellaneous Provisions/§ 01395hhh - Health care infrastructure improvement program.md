@@ -38,7 +38,7 @@ The provision of a loan under this section with respect to a project shall not�
 
 #### (f) Forgiveness of indebtedness
 
-The Secretary may forgive a loan provided to a qualifying hospital under this section underterms and conditions that are analogous to the loan forgiveness provision for student loans under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.), except that the Secretary shall condition such forgiveness on the establishment by the hospital of—
+The Secretary may forgive a loan provided to a qualifying hospital under this section under terms and conditions that are analogous to the loan forgiveness provision for student loans under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.), except that the Secretary shall condition such forgiveness on the establishment by the hospital of—
 
 &emsp;(A) an outreach program for cancer prevention, early diagnosis, and treatment that provides services to a substantial majority of the residents of a State or region, including residents of rural areas;
 
@@ -64,7 +64,7 @@ The Secretary may forgive a loan provided to a qualifying hospital under this se
 
 #### (h) Report to Congress
 
-Not later than 4 years after December 8, 2003, the Secretary shall submit to Congress a report on the projects for which loans are provided under this section and a recommendation as to whether the Congress should authorize the Secretary to continue loans under this section beyond fiscal year 2008.
+Not later than 4 years after December 8, 2003, the Secretary shall submit to Congress a report on the projects for which loans are provided under this section and a recommendation as towhether the Congress should authorize the Secretary to continue loans under this section beyond fiscal year 2008.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1897, as added Pub. L. 108–173, title X, §1016, Dec. 8, 2003, 117 Stat. 2447.)
 

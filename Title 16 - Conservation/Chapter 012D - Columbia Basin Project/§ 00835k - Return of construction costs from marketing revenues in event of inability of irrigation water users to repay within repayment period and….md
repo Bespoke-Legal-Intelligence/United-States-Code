@@ -8,7 +8,7 @@ Subject to the provisions of section 835<i>l</i> of this title, that portion of 
 
 The Federal reclamation laws, referred to in text, are classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands.
 
-Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, known as theReclamation Act, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 
 #### Codification
 
@@ -21,8 +21,4 @@ Section is comprised of second par. of section 2(a) of Pub. L. 89–448, as so d
 #### Transfer of Functions
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 835<i>l</i> of this title; title 43 sections 615rrr, 616nnnn, 616uuuu.
 

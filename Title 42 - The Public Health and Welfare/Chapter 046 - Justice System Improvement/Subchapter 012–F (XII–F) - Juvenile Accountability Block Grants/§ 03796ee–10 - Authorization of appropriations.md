@@ -26,7 +26,3 @@ Of the amounts appropriated under subsection (a) of this section, 2 percent shal
 
 (Pub. L. 90–351, title I, §1810, as added Pub. L. 107–273, div. C, title II, §12102(a), Nov. 2, 2002, 116 Stat. 1868.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3796ee–1 of this title.
-

@@ -10,7 +10,7 @@ The President and the Congress shall determine the nature and quantity of such d
 
 #### (c) United States response to threats to Taiwan or dangers to United States interests
 
-The President is directed to inform the Congress promptly of any threat to the security or the social or economic system of the people on Taiwan and any danger to the interests of the United States arising therefrom. The Presidentand the Congress shall determine, in accordance with constitutional processes, appropriate action by the United States in response to any such danger.
+The President is directed to inform the Congress promptly of any threat to the security or the social or economic system of the people on Taiwan and any danger to the interests of the United States arising therefrom. The President and the Congress shall determine, in accordance with constitutional processes, appropriate action by the United States in response to any such danger.
 
 (Pub. L. 96–8, §3, Apr. 10, 1979, 93 Stat. 15.)
 

@@ -62,7 +62,3 @@ States may enter into reciprocal arrangements for the establishment and enforcem
 
 For effective date of section, see section 395(a)–(c) of Pub. L. 104–193, set out as an Effective Date of 1996 Amendment note under section 654 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 654 of this title.
-

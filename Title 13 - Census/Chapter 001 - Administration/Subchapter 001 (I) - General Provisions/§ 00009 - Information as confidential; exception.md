@@ -48,7 +48,3 @@ Pub. L. 105–113 inserted “or section 2(f) of the Census of Agriculture Act o
 
 1962—Subsec. (a). Pub. L. 87–813 inserted sentences stating that no department, bureau, agency, officer, or employee of the Government, except the Secretary in carrying out the purposes of this title, shall require, for any reason, copies of census reports which have been retained by any such establishment or individual, and providing that copies of census reports which have been so retained shall be immune from legal process, and shall not, without the consent of the individual or establishment, be admitted as evidence or used for any purpose in any action, suit or other judicial or administrative proceeding.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8, 23, 214 of this title; title 7 section 2204g; title 22 section 3144; title 42 sections 1973aa–5, 2000f, 6274, 11608; title 50 App. section 2411.
-

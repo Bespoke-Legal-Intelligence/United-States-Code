@@ -50,7 +50,7 @@ As used in this part, the term “eligible State” means, with respect to a fis
 
 #### (5) Certification that the State will provide Indians with equitable access to assistance
 
-&emsp;A certification by the chief executive officer of the State that, during the fiscal year, the State will provide each member of an Indian tribe, who is domiciled in the State and is not eligible for assistance under a tribal family assistance plan approved under section 612 of this title, with equitable access to assistance under the State program funded under this part attributable to funds provided by the Federal Government.
+&emsp;A certification by the chief executive officer of the State that, during the fiscal year, the State will provide each member of an Indiantribe, who is domiciled in the State and is not eligible for assistance under a tribal family assistance plan approved under section 612 of this title, with equitable access to assistance under the State program funded under this part attributable to funds provided by the Federal Government.
 
 #### (6) Certification of standards and procedures to ensure against program fraud and abuse
 
@@ -96,7 +96,7 @@ A prior section 602, acts Aug. 14, 1935, ch. 531, title IV, §402, 49 Stat. 627;
 
 1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
-Subsec. (a). Pub. L. 105–33, §5501(a), substituted “27-month period ending with the close of the 1st quarter of” for “2-year period immediately preceding” in introductory provisions.
+Subsec. (a). Pub. L. 105–33, §5501(a), substituted “27-month period ending with the close of the 1st quarterof” for “2-year period immediately preceding” in introductory provisions.
 
 Subsec. (a)(1)(A)(ii). Pub. L. 105–33, §5501(b), inserted “, consistent with section 607(e)(2) of this title” before period at end.
 
@@ -141,8 +141,4 @@ Section 159 of Pub. L. 97–248 provided that payments made under statutorily es
 #### State Plans To Disregard Earned Income of Individuals in Determination of Need for Aid; Effective Date
 
 Section 202(d) of Pub. L. 90–248 provided that effective with respect to quarters beginning after June 30, 1968, in determining need of individuals claiming aid under State plan approved under this part, State was to apply provisions of this part notwithstanding any provisions of law other than this chapter requiring State to disregard earned income of such individuals in determining need under such State plan, prior to repeal by Pub. L. 104–193, title I, §110(f), Aug. 22, 1996, 110 Stat. 2171.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 603, 608, 609, 610, 618, 657, 672, 673, 1308, 1315, 1396a, 1396b, 1396r–6, 1396v, 4728 of this title; title 7 sections 2015, 2026, 2031; title 25 sections 683, 686, 689, 996; title 26 section 6402.
 

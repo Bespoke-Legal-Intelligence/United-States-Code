@@ -70,11 +70,11 @@ The objectives of the Program are to—
 
 #### (A) Leadership
 
-&emsp;&emsp;The leadership activity shall be the responsibility of FEMA and shall be exercisedby chairing the Board to coordinate national efforts to improve the safety of the dams in the United States.
+&emsp;&emsp;The leadership activity shall be the responsibility of FEMA and shall be exercised by chairing the Board to coordinate national efforts to improve the safety of the dams in the United States.
 
 #### (B) Technical assistance
 
-&emsp;&emsp;The technical assistance activity shall consist of the transfer of knowledge and technical information among the Federal and non-Federal elements described in paragraph (2).
+&emsp;&emsp;The technical assistance activity shall consist of the transfer of knowledge andtechnical information among the Federal and non-Federal elements described in paragraph (2).
 
 #### (C) Public awareness
 
@@ -150,11 +150,11 @@ The objectives of the Program are to—
 
 #### (C) Notification of disapproval
 
-&emsp;&emsp;If the Director determines that a State dam safety program does not meet the requirements for approval, the Director shallimmediately notify the State in writing and provide the reasons for the determination and the changes that are necessary for the plan to be approved.
+&emsp;&emsp;If the Director determines that a State dam safety program does not meet the requirements for approval, the Director shall immediately notify the State in writing and provide the reasons for the determination and the changes that are necessary for the plan to be approved.
 
 #### (6) Review of State dam safety programs
 
-&emsp;Using the expertise of the Board, the Director shall periodically review State dam safety programs. If the Board finds that a State dam safety program has proven inadequate to reasonably protect human life and property and the Director concurs, the Director shall revoke approval of the State dam safety program, and withhold assistance under this subsection, until the State dam safety program again meets the requirements for approval.
+&emsp;Using the expertise of the Board, the Director shall periodically review State dam safetyprograms. If the Board finds that a State dam safety program has proven inadequate to reasonably protect human life and property and the Director concurs, the Director shall revoke approval of the State dam safety program, and withhold assistance under this subsection, until the State dam safety program again meets the requirements for approval.
 
 #### (f) Board
 
@@ -234,7 +234,7 @@ The Federal Advisory Committee Act, referred to in subsec. (f)(9), is Pub. L. 92
 
 #### Prior Provisions
 
-A prior section 467f, Pub. L. 92–367, §7, as added Pub. L. 99–662, title XII, §1201(b), Nov. 17, 1986, 100 Stat. 4260;amended Pub. L. 102–580, title II, §209(a), Oct. 31, 1992, 106 Stat. 4830, related to funding for State dam safety programs, prior to repeal by Pub. L. 104–303, title II, §215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
+A prior section 467f, Pub. L. 92–367, §7, as added Pub. L. 99–662, title XII, §1201(b), Nov. 17, 1986, 100 Stat. 4260; amended Pub. L. 102–580, title II, §209(a), Oct. 31, 1992, 106 Stat. 4830, related to funding for State dam safety programs, prior to repeal by Pub. L. 104–303, title II, §215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
 
 A prior section 8 of Pub. L. 92–367 was classified to section 467g of this title prior to repeal by Pub. L. 104–303.
 
@@ -311,10 +311,6 @@ Subsec. (h). Pub. L. 107–310, §3(e)(1), redesignated subsec. (h) as (f).
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 467, 467j of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) makes such an attempt a criminal offense; and
 
-&emsp;&emsp;&emsp;&emsp;(II) chooses to include such an offense in those which are criminal offenses against a victim who is a minor for the purposes of this section.
+&emsp;&emsp;&emsp;&emsp;(II) chooses to include such an offense in those which are criminal offensesagainst a victim who is a minor for the purposes of this section.
 
 > &emsp;&emsp;For purposes of this subparagraph conduct which is criminal only because of the age of the victim shall not be considered a criminal offense if the perpetrator is 18 years of age or younger.
 
@@ -104,7 +104,7 @@ An approved State registration program established under this section shall cont
 
 #### (4) Notification of local law enforcement agencies of changes in address
 
-&emsp;A change of address by a person required to register under this section shall be reported by the person in the manner provided by State law. State procedures shall ensure that the updated address information is promptly made available to a law enforcement agency having jurisdiction where the person will reside and entered into the appropriate State records or data system.
+&emsp;A change of address by a person required to register under this section shall be reported bythe person in the manner provided by State law. State procedures shall ensure that the updated address information is promptly made available to a law enforcement agency having jurisdiction where the person will reside and entered into the appropriate State records or data system.
 
 #### (5) Registration for change of address to another State
 
@@ -310,7 +310,7 @@ Subsec. (g). Pub. L. 105–119, §115(a)(3), redesignated subsec. (f), relating 
 
 1996—Subsec. (a)(2). Pub. L. 104–236, §4, inserted before period at end “, victim rights advocates, and representatives from law enforcement agencies”.
 
-Subsec. (b)(2). Pub. L. 104–236, §7, amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The officer, or in the case of a person placed on probation, the court, shall, within 3 days after receipt of information described in paragraph (1), forward it to a designated State law enforcement agency. The State law enforcement agency shall immediately enter the information into the appropriate State law enforcement record system and notify the appropriate law enforcement agency having jurisdiction where the person expects to reside. The State law enforcement agency shall also immediately transmit the conviction data and fingerprints to the Federal Bureau of Investigation.”
+Subsec. (b)(2). Pub. L. 104–236, §7, amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The officer, or in the case of a person placed on probation, the court, shall, within 3 days after receipt of information described in paragraph (1), forward it to a designated State law enforcement agency. The State law enforcement agency shall immediately enter the information into the appropriate State law enforcement record system and notify the appropriate law enforcement agency having jurisdiction where the person expects to reside. The State law enforcement agency shall also immediately transmit theconviction data and fingerprints to the Federal Bureau of Investigation.”
 
 Subsec. (b)(3)(A)(iii). Pub. L. 104–236, §6, inserted at end “The person shall include with the verification form, fingerprints and a photograph of that person.”
 
@@ -402,11 +402,7 @@ In General.—Not later than 1 year after the date of the enactment of this Act 
 
 Contents of Study.—The study under this section shall include an examination of—
 
-&emsp;“(1) existing State programs for informing the public about the presence of sexual predators releasedfrom prison, as required in section 170101 of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071), including the use of CD-ROMs, Internet databases, and Sexual Offender Identification Hotlines, such as those used in the State of California; and
+&emsp;“(1) existing State programs for informing the public about the presence of sexual predators released from prison, as required in section 170101 of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071), including the use of CD-ROMs, Internet databases, and Sexual Offender Identification Hotlines, such as those used in the State of California; and
 
 &emsp;“(2) the feasibility of establishing a national hotline for parents to access a Federal Bureau of Investigation database that tracks the location of convicted sexual predators established under section 170102 of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14072) and, in determining that feasibility, the Attorney General shall examine issues including the cost, necessary changes to Federal and State laws necessitated by the creation of such a hotline, consistency with Federal and State case law pertaining to community notification, and the need for, and accuracy and reliability of, the information available through such a hotline.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14072 of this title; title 18 sections 3563, 3583; title 20 sections 1092, 1232g.
 

@@ -16,7 +16,7 @@
 
 #### (3) Shipping study
 
-&emsp;The Secretary shall conduct a study to determine the need for controls on vessels entering waters of the United States, other than the Great Lakes, to minimize the risk of unintentional introduction and dispersal of aquatic nuisance species in those waters. The study shall include an examination of—
+&emsp;The Secretary shall conduct a study to determine the need for controls on vessels entering waters of the United States, other than the Great Lakes, to minimize the risk of unintentional introduction and dispersal of aquaticnuisance species in those waters. The study shall include an examination of—
 
 &emsp;&emsp;(A) the degree to which shipping may be a major pathway of transmission of aquatic nuisance species in those waters;
 
@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Task Force, in cooperation with the Secretary, shall conduct ecological surveysof the Chesapeake Bay, San Francisco Bay, and Honolulu Harbor and, as necessary, of other estuaries of national significance and other waters that the Task Force determines—
+&emsp;&emsp;The Task Force, in cooperation with the Secretary, shall conduct ecological surveys of the Chesapeake Bay, San Francisco Bay, and Honolulu Harbor and, as necessary, of other estuaries of national significance and other waters that the Task Force determines—
 
 &emsp;&emsp;&emsp;(i) to be highly susceptible to invasion by aquatic nuisance species resulting from ballast water operations and other operations of vessels; and
 
@@ -129,8 +129,4 @@ Subsec. (b). Pub. L. 104–332, §2(c)(3), added subsec. (b) and struck out head
 Subsec. (c). Pub. L. 104–332, §2(g), substituted “Congress” for “appropriate Committees” in pars. (1) and (2).
 
 Subsecs. (e), (f). Pub. L. 104–332, §2(c)(4), added subsecs. (e) and (f).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4711, 4741 of this title.
 

@@ -72,7 +72,7 @@ Quarterly, semiannual, lump-sum, and other methods of payment.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—Pursuant to section 108(b) of the Indian Self-Determination and Education Assistance Act, and notwithstanding any other provision of law, for each fiscal year covered by this Contract, the Secretary shall make available to the Contractor the funds specified for the fiscal year under the annual funding agreement incorporated by reference pursuant to subsection (f)(2) by paying to the Contractor, on a quarterly basis, one-quarter of the total amount provided for in theannual funding agreement for that fiscal year, in a lump-sum payment or as semiannual payments, or any other method of payment authorized by law, in accordance with such method as may be requested by the Contractor and specified in the annual funding agreement.
+In general.—Pursuant to section 108(b) of the Indian Self-Determination and Education Assistance Act, and notwithstanding any other provision of law, for each fiscal year covered by this Contract, the Secretary shall make available to the Contractor the funds specified for the fiscal year under the annual funding agreement incorporated by reference pursuant to subsection (f)(2) by paying to the Contractor, on a quarterly basis, one-quarter of the total amount provided for in the annual funding agreement for that fiscal year, in a lump-sum payment or as semiannual payments, or any other method of payment authorized by law, in accordance with such method as may be requested by the Contractor and specified in the annual funding agreement.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -355,8 +355,4 @@ Similar provisions were contained in the following prior appropriation acts:
 Pub. L. 104–208, div. A, title I, §101(d) \[title III, §311\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–221.
 
 Pub. L. 104–134, title I, §101(c) \[title III, §311\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–197; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450j, 2507 of this title.
 

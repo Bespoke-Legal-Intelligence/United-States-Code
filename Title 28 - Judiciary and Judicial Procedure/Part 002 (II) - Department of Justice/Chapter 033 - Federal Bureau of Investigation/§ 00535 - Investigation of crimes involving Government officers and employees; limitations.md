@@ -48,9 +48,5 @@ Subsec. (b). Pub. L. 107–273, in introductory provisions, substituted “matte
 
 #### Transfer of Functions
 
-Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 50 section 403q.
+Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties ofPostmaster General transferred to United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
 

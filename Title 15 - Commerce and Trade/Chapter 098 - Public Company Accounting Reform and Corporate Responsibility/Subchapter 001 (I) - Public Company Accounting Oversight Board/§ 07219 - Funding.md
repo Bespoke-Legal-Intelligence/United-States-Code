@@ -64,7 +64,3 @@ From the unexpended balances of the appropriations to the Commission for fiscal 
 
 Section is comprised of section 109 of Pub. L. 107–204. Subsec. (h) of section 109 of Pub. L. 107–204 amended section 78m of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77s, 78m, 7211 of this title.
-

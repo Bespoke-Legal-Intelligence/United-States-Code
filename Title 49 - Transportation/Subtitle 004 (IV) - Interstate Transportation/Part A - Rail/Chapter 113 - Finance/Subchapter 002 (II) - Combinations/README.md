@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—COMBINATIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 10906, 11702 of this title; title 45 section 662.
-
 
 ---
 

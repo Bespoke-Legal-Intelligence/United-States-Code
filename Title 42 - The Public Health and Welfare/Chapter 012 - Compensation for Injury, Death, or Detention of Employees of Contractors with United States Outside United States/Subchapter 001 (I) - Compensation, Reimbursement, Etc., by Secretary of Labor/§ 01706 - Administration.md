@@ -10,7 +10,7 @@ In administering the provisions of this subchapter the Secretary may enter into 
 
 #### (c) Waiver of notice of injury and filing of claims
 
-The Secretary, in his discretion, may waive the limitation provisions of subchapter I of chapter 81 of title 5 with respect to notice of injury and filing of claims under this subchapter, whenever the Secretary shall find that, because of circumstances beyond the control of an injured person or his beneficiary, compliance with such provisions could not have been accomplished within the time therein specified.
+The Secretary, in his discretion, may waive the limitation provisions of subchapter I ofchapter 81 of title 5 with respect to notice of injury and filing of claims under this subchapter, whenever the Secretary shall find that, because of circumstances beyond the control of an injured person or his beneficiary, compliance with such provisions could not have been accomplished within the time therein specified.
 
 (Dec. 2, 1942, ch. 668, title I, §106, 56 Stat. 1033.)
 
@@ -27,8 +27,4 @@ Previously, “Federal Security Administrator” and “Administrator” substit
 #### Admission of Alaska and Hawaii to Statehood
 
 Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1701 of this title.
 

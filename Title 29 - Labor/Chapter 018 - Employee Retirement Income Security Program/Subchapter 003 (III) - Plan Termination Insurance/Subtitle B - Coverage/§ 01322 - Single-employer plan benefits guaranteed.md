@@ -20,7 +20,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(B) $750 multiplied by a fraction, the numerator of which is the contribution and benefit base (determined under section 230 of the Social Security Act \[42 U.S.C. 430\]) in effect at the time the plan terminates and the denominator of which is such contribution and benefit base in effect in calendar year 1974.
 
-> The provisions of this paragraph do not apply to non-basic benefits. The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq.; 1381 et seq.\], and the regulationsthereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.
+> The provisions of this paragraph do not apply to non-basic benefits. The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq.; 1381 et seq.\], and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.
 
 (4)(A) The actuarial value of a benefit, for purposes of this subsection, shall be determined in accordance with regulations prescribed by the corporation.
 
@@ -104,7 +104,7 @@ For purposes of subsection (a) of this section, a qualified preretirement surviv
 
 For purposes of this section, the effective date of a plan amendment described in section 1054(i)(1) of this title shall be the effective date of the plan of reorganization of the employer described in section 1054(i)(1) of this title or, if later, the effective date stated in such amendment.
 
-(Pub. L. 93–406, title IV, §4022, Sept. 2, 1974, 88 Stat. 1016; Pub. L. 96–364, title IV, §403(c), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(c)(8), (9), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9312(b)(3)(A), Dec. 22, 1987, 101 Stat. 1330–362; Pub. L. 101–239, title VII, §§7881(f)(4), (5), (11), 7891(a)(1), 7894(g)(1), (3)(B), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451; Pub. L. 103–465, title VII, §§766(c), 777(a), Dec. 8, 1994, 108 Stat. 5037, 5049.)
+(Pub. L. 93–406, title IV, §4022, Sept. 2, 1974, 88 Stat. 1016; Pub. L. 96–364, title IV, §403(c), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI,§11016(c)(8), (9), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9312(b)(3)(A), Dec. 22, 1987, 101 Stat. 1330–362; Pub. L. 101–239, title VII, §§7881(f)(4), (5), (11), 7891(a)(1), 7894(g)(1), (3)(B), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451; Pub. L. 103–465, title VII, §§766(c), 777(a), Dec. 8, 1994, 108 Stat. 5037, 5049.)
 
 #### References in Text
 
@@ -134,7 +134,7 @@ Subsec. (b)(7). Pub. L. 99–272, §11016(c)(8), in provisions following subpar.
 
 Subsec. (d). Pub. L. 99–272, §11016(c)(9), added subsec. (d).
 
-1980—Subsec. (a). Pub. L. 96–364, §403(c)(2), inserted “, in accordance with this section,” after “guarantee”and “single-employer” before “plan which”, and struck out “the terms of” after “under”.
+1980—Subsec. (a). Pub. L. 96–364, §403(c)(2), inserted “, in accordance with this section,” after “guarantee” and “single-employer” before “plan which”, and struck out “the terms of” after “under”.
 
 Subsec. (b). Pub. L. 96–364, §403(c)(3), (4), in par. (1) substituted “(7)” for “(8)”, struck out par. (5) relating to receipt of a life annuity commencing at age 65, and redesignated pars. (6) to (8) as (5) to (7), respectively.
 
@@ -177,8 +177,4 @@ In general.—In the case of any plan termination to which the amendments made b
 &emsp;“(II) subparagraph (C) of section 4022(c)(3) of ERISA (as so amended) shall apply irrespective of the outstanding amount of benefit liabilities under the plan.
 
 “(ii) \[Repealed. Pub. L. 101–239, title VII, §7881(f)(6), Dec. 19, 1989, 103 Stat. 2440.\]”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1301, 1305, 1306, 1321, 1322a, 1322b, 1341, 1343, 1344, 1346, 1350, 1361, 1412, 1461 of this title; title 26 section 404; title 42 section 430.
 

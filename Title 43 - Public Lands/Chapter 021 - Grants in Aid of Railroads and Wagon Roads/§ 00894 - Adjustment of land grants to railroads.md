@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized and directed as of March 3, 1887, to
 
 (Mar. 3, 1887, ch. 376, §1, 24 Stat. 556.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 886, 897, 903, 906 of this title.
-

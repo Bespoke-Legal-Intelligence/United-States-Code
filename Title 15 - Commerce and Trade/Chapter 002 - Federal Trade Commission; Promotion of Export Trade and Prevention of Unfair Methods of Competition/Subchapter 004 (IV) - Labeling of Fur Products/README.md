@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—LABELING OF FUR PRODUCTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 70b of this title.
-
 
 ---
 

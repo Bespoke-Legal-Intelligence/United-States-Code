@@ -22,7 +22,3 @@ Section 1(12) of Pub. L. 93–86 provided that the amendment made by that sectio
 
 Sections 405(a) and 606 of Pub. L. 91–524, as amended by section 1(12), (22) of Pub. L. 93–86, provided that the amendments made by those sections are effective only with respect to 1971 through 1977 crops.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 19 section 2401.
-

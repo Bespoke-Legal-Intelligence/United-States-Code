@@ -38,7 +38,7 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 #### (b) Compensation, allowances, and travel of personnel; printing and binding; expenditures outside United States
 
-Funds made available for the purposes of this chapter may be used for compensation, allowances, and travel of personnel including Foreign Service personnel whose services are utilized primarily for the purposes of this chapter, for printing and binding without regard to the provisions of any other law, and for expenditures outside the United States for the procurement of supplies and services and for other administrative and operating purposes (other than compensation of personnel) without regard to such laws and regulations governing the obligation and expenditure of funds of the United States Government as may be necessary to accomplish the purposes of this chapter.
+Funds made available for the purposes of this chapter may be used for compensation, allowances, and travel of personnel including ForeignService personnel whose services are utilized primarily for the purposes of this chapter, for printing and binding without regard to the provisions of any other law, and for expenditures outside the United States for the procurement of supplies and services and for other administrative and operating purposes (other than compensation of personnel) without regard to such laws and regulations governing the obligation and expenditure of funds of the United States Government as may be necessary to accomplish the purposes of this chapter.
 
 #### (c) Construction of living quarters, office space, and supporting facilities
 
@@ -80,7 +80,7 @@ Notwithstanding section 2399a <sup>4</sup> of this title or any other provision
 
 This chapter, referred to in subsecs. (a) to (e), (h), and (i), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (a)(7), was repealed by Pub. L.97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
+Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (a)(7), was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
 The Foreign Service Act of 1980, referred to in subsec. (a)(14), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
@@ -128,7 +128,7 @@ Subsec. (c). Pub. L. 95–424, §102(g)(2)(H), struck out “(other than subpart
 
 Subsecs. (d), (e). Pub. L. 95–424, §102(g)(2)(I), struck out “(other than subpart I of part II of subchapter I of this chapter)” after “under this chapter”.
 
-Subsec. (f). Pub. L. 95–424, §102(g)(2)(J), substituted “available under part I of subchapter I of this chapter” for “section 2172 of this title”, and “functions under part I” for “functions under subpart I of part II”.
+Subsec. (f). Pub. L. 95–424, §102(g)(2)(J), substituted “available under part I of subchapter I of this chapter”for “section 2172 of this title”, and “functions under part I” for “functions under subpart I of part II”.
 
 1976—Subsec. (g)(1). Pub. L. 94–329, §106(b)(5)(A), inserted “military education and training” after “articles”.
 
@@ -175,10 +175,6 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2349b, 2360, 2396a, 2514, 4341 of this title; title 2 section 143a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

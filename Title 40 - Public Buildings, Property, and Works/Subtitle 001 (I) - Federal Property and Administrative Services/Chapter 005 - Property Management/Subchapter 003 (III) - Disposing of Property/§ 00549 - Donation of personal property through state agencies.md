@@ -158,11 +158,11 @@ Return and redistribution for non-use.—The state plan of operation shall requi
 
 &emsp;&emsp;(E)
 
-Request by recipient.—The state plan of operation shall require the state agency, to the extent practicable, to select property requested by a public agency or other eligible institution in the State and, if requested by the recipient, to arrange shipment of the property directly to the recipient.
+Request by recipient.—The state plan of operation shall require the state agency, to the extent practicable, to select propertyrequested by a public agency or other eligible institution in the State and, if requested by the recipient, to arrange shipment of the property directly to the recipient.
 
 &emsp;&emsp;(F)
 
-Service charges.—If the state agency is authorized to assess and collect service charges from participating recipients to cover direct and reasonable indirect costs of its activities, the method of establishing the charges shall be set out in the state plan of operation. The charges shall be fair and equitable and shall be based on services thestate agency performs, including screening, packing, crating, removal, and transportation.
+Service charges.—If the state agency is authorized to assess and collect service charges from participating recipients to cover direct and reasonable indirect costs of its activities, the method of establishing the charges shall be set out in the state plan of operation. The charges shall be fair and equitable and shall be based on services the state agency performs, including screening, packing, crating, removal, and transportation.
 
 &emsp;&emsp;(G)
 
@@ -284,7 +284,7 @@ June 30, 1949, ch. 288, title II, §203(n), formerly (m), as added June 3, 1955,
 
 In subsection (a)(2), the words “the Northern Mariana Islands” are added because of section 502(a)(2) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America (48:1801 note).
 
-In subsection (d), the words “Secretary of Defense” are substituted for “National Military Establishment”\[subsequently changed to “Department of Defense” because of section 12(a) of the National Security Act Amendments of 1949 (ch. 412, 63 Stat. 591)\] because of 10:113(a).
+In subsection (d), the words “Secretary of Defense” are substituted for “National Military Establishment” \[subsequently changed to “Department of Defense” because of section 12(a) of the National Security Act Amendments of 1949 (ch. 412, 63 Stat. 591)\] because of 10:113(a).
 
 In subsection (e)(2)(B), the words “In the event that a State legislature has not developed, according to State law, a State plan within two hundred and seventy calendar days after October 17, 1976, the chief executive officer of the State shall approve, and submit to the Administrator, a temporary State plan” are omitted as obsolete.
 
@@ -349,8 +349,4 @@ Sec. 5. This order shall supersede Executive Order No. 12821 of November 16, 199
 Sec. 6. <i>Judicial Review</i>. This order is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 111, 525, 550, 556, 702 of this title; title 10 sections 2577, 2814; title 14 section 641; title 22 section 2358; title 28 section 604; title 38 section 8162; title 42 sections 3796<i>ll</i>–3, 11411, 11412.
 

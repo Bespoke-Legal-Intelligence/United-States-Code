@@ -60,15 +60,11 @@ Subsec. (b). Pub. L. 95–17 substituted provisions limiting to three the number
 
 Subsec. (c). Pub. L. 95–17 added subsec. (c).
 
-1971—Subsec. (a). Pub. L. 92–179, §2(a), restructured provisions covering requirements of findings of fact andcertification by placing in a position preceding par. (1) provisions formerly set out following par. (6).
+1971—Subsec. (a). Pub. L. 92–179, §2(a), restructured provisions covering requirements of findings of fact and certification by placing in a position preceding par. (1) provisions formerly set out following par. (6).
 
 Subsec. (b). Pub. L. 92–179, §2(b), inserted provisions limiting to one plan within any period of thirty consecutive days the allowable number of plans submitted.
 
 #### Effective Date of 1967 Amendment
 
 Amendment by Pub. L. 90–83 effective Sept. 6, 1966, for all purposes, see section 9(h) of Pub. L. 90–83, set out as a note under section 5102 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 902, 904, 905, 908, 909, 910 of this title.
 

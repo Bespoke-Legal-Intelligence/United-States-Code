@@ -66,7 +66,7 @@ Amounts in the accounts of the revolving fund under this section shall be availa
 
 #### (2) Federal Research program
 
-&emsp;In this section, the “Federal Research program” is the program of the Library of Congress under which the Librarian provides research reports, translations, and analytical studies for entities of the Federal Government and the District of Columbia (other than any program of the Congressional Research Service).
+&emsp;In this section, the “Federal Research program” is the program of the Library of Congress under which the Librarian provides research reports, translations, and analytical studies for entities of the Federal Government and the District of Columbia (other than anyprogram of the Congressional Research Service).
 
 (Pub. L. 106–481, title I, §103, Nov. 9, 2000, 114 Stat. 2189.)
 

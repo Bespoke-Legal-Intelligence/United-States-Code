@@ -28,7 +28,3 @@ In subsec. (c), “chapter 63 of title 31” substituted for “the Federal Gran
 
 Pub. L. 104–185, §8(a), Aug. 13, 1996, 110 Stat. 1717, provided that: “With respect to Federal lands, sections 202 and 307 of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1732 and 1755), are no longer applicable. The applicability of those sections to Indian leases is not affected.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 196, 1731a, 1736 of this title.
-

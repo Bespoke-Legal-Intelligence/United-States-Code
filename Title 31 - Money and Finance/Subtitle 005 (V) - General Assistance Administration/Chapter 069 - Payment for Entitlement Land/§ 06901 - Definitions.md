@@ -122,7 +122,3 @@ Pub. L. 105–263, §1, Oct. 19, 1998, 112 Stat. 2343, provided that: “This Ac
 
 Pub. L. 103–397, §1, Oct. 22, 1994, 108 Stat. 4156, provided that: “This Act \[amending sections 6902 and 6903 of this title and enacting provisions set out as notes under sections 6902 and 6903 of this title\] may be cited as the ‘Payments In Lieu of Taxes Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6902 of this title; title 16 section 698v–3.
-

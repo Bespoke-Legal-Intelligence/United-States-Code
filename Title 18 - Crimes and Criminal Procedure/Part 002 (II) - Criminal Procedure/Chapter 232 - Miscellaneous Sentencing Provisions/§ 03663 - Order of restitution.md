@@ -30,7 +30,7 @@
 
 &emsp;(2) in the case of an offense resulting in bodily injury to a victim including an offense under chapter 109A or chapter 110—
 
-&emsp;&emsp;(A) pay an amount equal to the cost of necessary medical and related professional services and devices relating to physical, psychiatric, and psychological care, including nonmedical care and treatment rendered in accordance with a method of healing recognized by the law of the place of treatment;
+&emsp;&emsp;(A) pay an amount equal to the cost of necessary medical and related professional services and devices relating to physical,psychiatric, and psychological care, including nonmedical care and treatment rendered in accordance with a method of healing recognized by the law of the place of treatment;
 
 &emsp;&emsp;(B) pay an amount equal to the cost of necessary physical and occupational therapy and rehabilitation; and
 
@@ -86,7 +86,7 @@ Subsec. (c). Pub. L. 104–132, §205(a)(2), (3), added subsec. (c) and struck o
 
 Subsec. (c)(4). Pub. L. 104–294, §601(r)(2), inserted “or chapter 96” after “under chapter 46”.
 
-Subsec. (d). Pub. L. 104–132, §205(a)(2), (3), added subsec. (d) and struck out former subsec. (d) which read as follows: “To the extent that the court determines that the complication and prolongation of the sentencing process resulting from the fashioning of an order of restitution under this section outweighs the need to provide restitution to any victims, the court may decline to make such an order.”
+Subsec. (d). Pub. L. 104–132, §205(a)(2), (3), added subsec. (d) and struck out former subsec. (d) which read as follows: “To the extent that the court determines thatthe complication and prolongation of the sentencing process resulting from the fashioning of an order of restitution under this section outweighs the need to provide restitution to any victims, the court may decline to make such an order.”
 
 Subsecs. (e) to (i). Pub. L. 104–132, §205(a)(2), struck out subsecs. (e) to (i), relating to provisions for restitution to persons who had compensated victims for their loss as well as offsets for restitution received by victims against amounts later recovered as compensatory damages, court orders that defendant make restitution in specified time period or in specified installments, payment of restitution as condition of probation or of supervised release, enforcement of restitution orders by United States or by victim, and supervision, termination, or restoration of eligibility for Federal benefits of persons delinquent in making restitution, respectively.
 
@@ -161,10 +161,6 @@ Section effective with respect to offenses occurring after Jan. 1, 1983, see sec
 #### Profit by a Criminal From Sale of His Story
 
 Section 7 of Pub. L. 97–291 required the Attorney General to report, by Oct. 12, 1982, to Congress regarding any laws that are necessary to ensure that no Federal felon derives any profit from the sale of the recollections, thoughts, and feelings of such felon with regards to the offense committed by the felon until any victim of the offense receives restitution.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 43, 1593, 2248, 2259, 2264, 2327, 3525, 3556, 3563, 3613, 3664, 4048 of this title; title 12 section 1831k.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(ii)),”.</i>
 

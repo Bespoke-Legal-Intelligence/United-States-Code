@@ -6,7 +6,7 @@ If the Commissioner of Social Security, on the basis of information obtained by 
 
 #### (b) Continued payments during rehabilitation program
 
-Notwithstanding any other provision of this subchapter, payment to an individual of benefits based on disability (as described in the first sentence of subsection (a) of this section) shall not be terminated or suspended because the physical or mental impairment, on which the individual's entitlement to such benefits is based, has or may have ceased, if—
+Notwithstanding any other provision of this subchapter, payment to an individual of benefitsbased on disability (as described in the first sentence of subsection (a) of this section) shall not be terminated or suspended because the physical or mental impairment, on which the individual's entitlement to such benefits is based, has or may have ceased, if—
 
 &emsp;(1) such individual is participating in a program consisting of the Ticket to Work and Self-Sufficiency Program under section 1320b–19 of this title or another program of vocational rehabilitation services, employment services, or other support services approved by the Commissioner of Social Security, and
 
@@ -74,7 +74,7 @@ Effective date.—
 
 &emsp;“(i)
 
-In general.—Except as otherwise provided in this paragraph, the amendments made by this paragraph \[amending this section and sections 426 and 426–1 of this title\] shall apply with respect to benefits based on disability (as defined in section 225(c)(9) of the Social Security Act \[subsec. (c)(9) of this section\], added by this section) which are otherwise payable in months beginning after 180 days after the date of theenactment of this Act \[Aug. 15, 1994\]. The Secretary of Health and Human Services shall issue regulations necessary to carry out the amendments made by this paragraph not later than 180 days after the date of the enactment of this Act.
+In general.—Except as otherwise provided in this paragraph, the amendments made by this paragraph \[amending this section and sections 426 and 426–1 of this title\] shall apply with respect to benefits based on disability (as defined in section 225(c)(9) of the Social Security Act \[subsec. (c)(9) of this section\], added by this section) which are otherwise payable in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\]. The Secretary of Health and Human Services shall issue regulations necessary to carry out the amendments made by this paragraph not later than 180 days after the date of the enactment of this Act.
 
 &emsp;“(ii)
 
@@ -82,7 +82,7 @@ Referral and monitoring agencies.—Section 225(c)(5) of the Social Security Act
 
 &emsp;“(iii)
 
-Termination after 36 months.—Section 225(c)(7) of the Social Security Act \[subsec. (c)(7) of this section\] (added by this subsection) shall apply with respect to benefits based on disability (as so defined) for months beginning after 180 days after the date of the enactment of this Act.”
+Termination after 36 months.—Section 225(c)(7) of the Social Security Act \[subsec. (c)(7) ofthis section\] (added by this subsection) shall apply with respect to benefits based on disability (as so defined) for months beginning after 180 days after the date of the enactment of this Act.”
 
 #### Effective Date of 1990 Amendment
 
@@ -144,13 +144,9 @@ Concurrent beneficiaries not currently under treatment.—In any case in which t
 
 #### Demonstration Projects Relating to Referral, Monitoring, and Treatment for Alcoholics or Drug Addicts
 
-Section 201(c) of Pub. L. 103–296 related to demonstration projects relating to referral, monitoring, andtreatment for alcoholics or drug addicts, prior to repeal by Pub. L. 104–121, title I, §105(c), Mar. 29, 1996, 110 Stat. 855.
+Section 201(c) of Pub. L. 103–296 related to demonstration projects relating to referral, monitoring, and treatment for alcoholics or drug addicts, prior to repeal by Pub. L. 104–121, title I, §105(c), Mar. 29, 1996, 110 Stat. 855.
 
 #### Payment of Costs of Rehabilitation Services
 
 Amendment of sections 422 and 1382d of this title by section 11(a), (b) of Pub. L. 98–460 applicable with respect to individuals who receive benefits as a result of section 425(b) or section 1383(a)(6) of this title, or who refuse to continue to accept rehabilitation services or fail to cooperate in an approved vocational rehabilitation program, in or after the first month following October 1984, see section 11(c) of Pub. L. 98–460, set out as an Effective Date of 1984 Amendment note under section 422 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 416, 422, 426, 426–1 of this title.
 

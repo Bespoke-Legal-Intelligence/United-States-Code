@@ -28,7 +28,3 @@ The Inspector General Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95�
 
 1996—Subsec. (b)(5). Pub. L. 104–127 substituted “Corporate Board of the Alternative Agricultural Research and Commercialization Corporation” for “Alternative Agricultural Research and Commercialization Board”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6912 of this title.
-

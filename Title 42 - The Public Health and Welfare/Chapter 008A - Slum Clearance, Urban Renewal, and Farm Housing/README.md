@@ -67,7 +67,7 @@
 | (e) | Manufactured homes; qualifications for loans made or insured; energy conservation requirements. |
 | (f) | Remote rural areas. |
 | (g) | Deferred mortgage demonstration. |
-| (h) | Guaranteed loans. |
+| (h) | Doug Bereuter section 502 single family housing loan guarantee program. |
 | [1473\.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001473%20-%20Loans%20for%20housing%20and%20buildings%20on%20potentially%20adequate%20farms%3B%20conditions%20and%20terms.md) | Loans for housing and buildings on potentially adequate farms; conditions and terms. |
 | [1474\.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001474%20-%20Loans%20and%20grants%20for%20repairs%20or%20improvements%20of%20rural%20dwellings.md) | Loans and grants for repairs or improvements of rural dwellings. |
 | (a) | Prerequisites; purposes; amounts; terms. |
@@ -300,10 +300,6 @@
 | (b) | Civil monetary penalties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1434, 1441a, 9817, 12721, of this title; title 7 section 1981; title 12 sections 1715z–13a, 1715z–13b; title 20 section 80g; title 48 sections 1408, 1408c.
 
 
 ---

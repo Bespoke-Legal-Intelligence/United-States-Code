@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—FOREIGN MILITARY SALES AUTHORIZATIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2415 of this title.
-
 
 ---
 

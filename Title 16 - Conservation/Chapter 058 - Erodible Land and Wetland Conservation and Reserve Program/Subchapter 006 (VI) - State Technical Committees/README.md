@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—STATE TECHNICAL COMMITTEES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3838a of this title; title 7 section 5831.
-
 
 ---
 

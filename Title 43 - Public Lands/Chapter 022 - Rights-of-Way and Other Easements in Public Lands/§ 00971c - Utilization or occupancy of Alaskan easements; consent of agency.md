@@ -8,7 +8,3 @@ Lands in Alaska within an easement established under sections 971a to 971e of th
 
 Section was formerly classified to section 420b of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 971d, 971e of this title.
-

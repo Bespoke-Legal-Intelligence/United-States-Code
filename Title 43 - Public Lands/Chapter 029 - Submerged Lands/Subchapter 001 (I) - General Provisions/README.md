@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1311, 1315, 1335, 1631, 1632 of this title; title 16 sections 742i, 1434, 1453; title 33 section 941.
-
 
 ---
 

@@ -40,7 +40,3 @@ All notices provided to a declarant under this section shall be kept confidentia
 
 (Pub. L. 101–647, title XXV, §2566, Nov. 29, 1990, 104 Stat. 4897.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4203, 4204, 4207, 4208 of this title.
-

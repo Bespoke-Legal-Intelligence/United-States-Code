@@ -90,7 +90,7 @@ Subsec. (c)(2)(C). Pub. L. 105–276, §599C(e)(2)(C)(iv), inserted “or operat
 
 Subsec. (b). Pub. L. 102–550, §701(b), amended subsec. (b) generally, inserting heading and substituting provisions authorizing appropriations for fiscal years 1993 and 1994 for provisions authorizing appropriations for fiscal years 1991 and 1992.
 
-Subsec. (c). Pub. L. 102–550, §701(c), inserted heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary, to the extent approved in appropriation Acts for fiscal years 1991 and 1992, may enter into rental assistance payment contracts under section 1490a(a)(2)(A) of this title aggregating $397,000,000 for fiscal year 1991 and $414,100,000 for fiscal year 1992.”
+Subsec. (c). Pub. L. 102–550, §701(c), inserted heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary, to the extent approved in appropriation Acts for fiscal years 1991 and1992, may enter into rental assistance payment contracts under section 1490a(a)(2)(A) of this title aggregating $397,000,000 for fiscal year 1991 and $414,100,000 for fiscal year 1992.”
 
 Subsec. (d). Pub. L. 102–550, §701(d), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary, to the extent approved in appropriation Acts for fiscal years 1991 and 1992, may enter into 5-year supplemental rental assistance contracts under section 1472(c)(5)(D) of this title aggregating $5,200,000 for fiscal year 1991 and $5,500,000 for fiscal year 1992.”
 
@@ -148,7 +148,7 @@ Subsec. (b). Pub. L. 98–181 amended subsec. (b) generally, substituting “The
 
 > &emsp;for “There are authorized to be appropriated—
 
-&emsp;“(1) such sums as may be necessary to meet payments on notes or other obligations issued by the Secretary under section 1481 of this title equal to (A) the aggregate of the contributions made by the Secretary in the form of credits on principal due on loansmade pursuant to section 1473 of this title, and (B) the interest due on a similar sum represented by notes or other obligations issued by the Secretary;
+&emsp;“(1) such sums as may be necessary to meet payments on notes or other obligations issued by the Secretary under section 1481 of this title equal to (A) the aggregate of the contributions made by the Secretary in the form of credits on principal due on loans made pursuant to section 1473 of this title, and (B) the interest due on a similar sum represented by notes or other obligations issued by the Secretary;
 
 &emsp;“(2) not to exceed $50,000,000 for loans and grants pursuant to section 1474 of this title for the fiscal year ending September 30, 1982, of which not more than $25,000,000 shall be available for grants;
 
@@ -225,10 +225,6 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 #### Effective Date of 1956 Amendment
 
 Amendment by act Aug. 7, 1956, effective July 1, 1956, see section 606(d) of act Aug. 7, 1956, set out as a note under section 1481 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1484, 1485, 1490<i>l</i> of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

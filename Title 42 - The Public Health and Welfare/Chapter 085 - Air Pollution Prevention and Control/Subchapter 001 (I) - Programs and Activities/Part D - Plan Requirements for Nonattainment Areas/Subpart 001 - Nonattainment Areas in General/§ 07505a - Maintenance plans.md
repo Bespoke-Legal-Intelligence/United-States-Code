@@ -18,7 +18,3 @@ Each plan revision submitted under this section shall contain such contingency p
 
 (July 14, 1955, ch. 360, title I, §175A, as added Pub. L. 101–549, title I, §102(e), Nov. 15, 1990, 104 Stat. 2418.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7407, 7506 of this title; title 23 section 109; title 49 sections 40117, 47102, 47140.
-

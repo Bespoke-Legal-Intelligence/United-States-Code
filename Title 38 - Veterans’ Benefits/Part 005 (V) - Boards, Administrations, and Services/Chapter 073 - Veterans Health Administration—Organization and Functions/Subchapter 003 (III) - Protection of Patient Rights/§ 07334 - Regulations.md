@@ -46,7 +46,3 @@ Subsec. (d). Pub. L. 102–40, §403(a)(1), substituted “Secretary” for “A
 
 1982—Subsec. (a). Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing, and substituted “the President (or the delegate of the President)” for “the Director of the Office of Drug Abuse Policy (or any successor authority)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7331, 7332, 7333 of this title.
-

@@ -20,7 +20,7 @@ It shall be unlawful for any issuer which has a class of securities registered p
 
 > &emsp;in order to assist such issuer in obtaining or retaining business for or with, or directing business to, any person; or
 
-&emsp;(3) any person, while knowing that all or a portion of such money or thing of value will be offered, given, or promised, directly or indirectly, to any foreign official, to any foreign political party or official thereof, or to any candidate for foreign political office, for purposes of—
+&emsp;(3) any person, while knowing that all or a portion of such money or thing of value will beoffered, given, or promised, directly or indirectly, to any foreign official, to any foreign political party or official thereof, or to any candidate for foreign political office, for purposes of—
 
 &emsp;&emsp;(A)(i) influencing any act or decision of such foreign official, political party, party official, or candidate in his or its official capacity, (ii) inducing such foreign official, political party, party official, or candidate to do or omit to do any act in violation of the lawful duty of such foreign official, political party, party official, or candidate, or (iii) securing any improper advantage; or
 
@@ -46,7 +46,7 @@ It shall be an affirmative defense to actions under subsection (a) or (g) of thi
 
 #### (d) Guidelines by Attorney General
 
-Not later than one year after August 23, 1988, the Attorney General, after consultation withthe Commission, the Secretary of Commerce, the United States Trade Representative, the Secretary of State, and the Secretary of the Treasury, and after obtaining the views of all interested persons through public notice and comment procedures, shall determine to what extent compliance with this section would be enhanced and the business community would be assisted by further clarification of the preceding provisions of this section and may, based on such determination and to the extent necessary and appropriate, issue—
+Not later than one year after August 23, 1988, the Attorney General, after consultation with the Commission, the Secretary of Commerce, the United States Trade Representative, the Secretary of State, and the Secretary of the Treasury, and after obtaining the views of all interested persons through public notice and comment procedures, shall determine to what extent compliance with this section would be enhanced and the business community would be assisted by further clarification of the preceding provisions of this section and may, based on such determination and to the extent necessary and appropriate, issue—
 
 &emsp;(1) guidelines describing specific types of conduct, associated with common types of export sales arrangements and business contracts, which for purposes of the Department of Justice's present enforcement policy, the Attorney General determines would be in conformance with the preceding provisions of this section; and
 
@@ -156,7 +156,7 @@ Treatment as Public International Organizations.—
 
 &emsp;“(1)
 
-Treatment.—An international organization providing commercial communications services shallbe treated as a public international organization for purposes of section 30A of the Securities Exchange Act of 1934 (15 U.S.C. 78dd–1) and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–2 \[and 78dd–3\]) until such time as the President certifies to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committees on Banking, Housing and Urban Affairs and Commerce, Science, and Transportation that such international organization providing commercial communications services has achieved a pro-competitive privatization.
+Treatment.—An international organization providing commercial communications services shall be treated as a public international organization for purposes of section 30A of the Securities Exchange Act of 1934 (15 U.S.C. 78dd–1) and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–2 \[and 78dd–3\]) until such time as the President certifies to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committees on Banking, Housing and Urban Affairs and Commerce, Science, and Transportation that such international organization providing commercial communications services has achieved a pro-competitive privatization.
 
 &emsp;“(2)
 
@@ -266,7 +266,7 @@ Private sector review.—A description of the steps taken to ensure full involve
 
 &emsp;“(10)
 
-Additional information.—In consultation with the private sector participants and representatives of nongovernmental organizations described in paragraph (9), a list of additional means for enlargingthe scope of the Convention and otherwise increasing its effectiveness. Such additional means shall include, but not be limited to, improved recordkeeping provisions and the desirability of expanding the applicability of the Convention to additional individuals and organizations and the impact on United States business of section 30A of the Securities Exchange Act of 1934 \[15 U.S.C. 78dd–1\] and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977 \[15 U.S.C. 78dd–2, 78dd–3\].
+Additional information.—In consultation with the private sector participants and representatives of nongovernmental organizations described in paragraph (9), a list of additional means for enlarging the scope of the Convention and otherwise increasing its effectiveness. Such additional means shall include, but not be limited to, improved recordkeeping provisions and the desirability of expanding the applicability of the Convention to additional individuals and organizations and the impact on United States business of section 30A of the Securities Exchange Act of 1934 \[15 U.S.C. 78dd–1\] and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977 \[15 U.S.C. 78dd–2, 78dd–3\].
 
 “(b)
 
@@ -313,8 +313,4 @@ By the authority vested in me as President by the Constitution and the laws of t
 Designation in this Executive Order is intended solely to further the purposes of the statutes mentioned above and is not determinative of whether an entity is a public international organization for the purpose of other statutes or regulations.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78dd–2, 78dd–3, 78ff of this title; title 7 section 12a; title 18 section 1956; title 22 sections 2197, 2778; title 26 sections 162, 952, 964.
 

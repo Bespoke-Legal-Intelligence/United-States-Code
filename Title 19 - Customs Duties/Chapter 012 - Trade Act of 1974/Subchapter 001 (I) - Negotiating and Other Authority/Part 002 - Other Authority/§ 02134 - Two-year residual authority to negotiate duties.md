@@ -36,7 +36,3 @@ Agreements may be entered into under this section only during the 2-year period 
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2212 of this title.
-

@@ -12,7 +12,7 @@
 
 #### (3) Waiver
 
-&emsp;The President may waive the application of paragraph (1) with respect to Iran, Libya, North Korea, and Sudan to the degree the President determines that it is in the national security interest of the United States to do so, or for humanitarian reasons.
+&emsp;The President may waive the application of paragraph (1) with respect to Iran, Libya, North Korea, and Sudan to the degree the President determines that it is in the nationalsecurity interest of the United States to do so, or for humanitarian reasons.
 
 #### (b) Prohibition on financing of agricultural sales to Cuba
 
@@ -49,4 +49,16 @@
 #### References in Text
 
 The Trading With the Enemy Act, referred to in subsec. (b)(2), (3), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+
+#### Determination and Waiver of Application of Section 908(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000 With Respect to Libya
+
+Determination of President of the United States, No. 2004–49, Sept. 20, 2004, 69 F.R. 58035, provided:
+
+Memorandum for the Secretary of State\[,\] the Secretary of Agriculture\[, and\] the Secretary of Commerce
+
+By virtue of the authority vested in me by the Constitution and laws of the United States, including section 908(a)(3) of the Trade Sanctions Reform and Export Enhancement Act of 2000, title IX, Public Law 106–387 \[22 U.S.C. 7207(a)(3)\] (TSRA), I hereby determine that waiver of the application of section 908(a)(1) of TSRA with respect to Libya is in the national security interest of the United States and hereby waive the application of that section with respect to Libya.
+
+The Secretary of State is hereby authorized and directed to report this determination and waiver to the Congress and to arrange for its publication in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -34,6 +34,8 @@
 | [7324\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007324%20-%20Annual%20report%20on%20use%20of%20authorities%20to%20enhance%20retention%20of%20experienced%20nurses.md) | Annual report on use of authorities to enhance retention of experienced nurses. |
 | [7325\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007325%20-%20Medical%20emergency%20preparedness%20centers.md) | Medical emergency preparedness centers. |
 | [7326\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007326%20-%20Education%20and%20training%20programs%20on%20medical%20response%20to%20consequences%20of%20terrorist%20activities.md) | Education and training programs on medical response to consequences of terrorist activities. |
+| [7327\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007327%20-%20Centers%20for%20research%2C%20education%2C%20and%20clinical%20activities%20on%20complex%20multi-trauma%20associated%20with%20combat%20injuries.md) | Centers for research, education, and clinical activities on complex multi-trauma associated with combat injuries. |
+| [7328\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007328%20-%20Medical%20preparedness%20centers.md) | Medical preparedness centers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -43,7 +45,12 @@
 | :--- | ---: |
 | [7331\.](Subchapter%20003%20%28III%29%20-%20Protection%20of%20Patient%20Rights/%C2%A7%2007331%20-%20Informed%20consent.md) | Informed consent. |
 | [7332\.](Subchapter%20003%20%28III%29%20-%20Protection%20of%20Patient%20Rights/%C2%A7%2007332%20-%20Confidentiality%20of%20certain%20medical%20records.md) | Confidentiality of certain medical records. |
-| [7333\.](Subchapter%20003%20%28III%29%20-%20Protection%20of%20Patient%20Rights/%C2%A7%2007333%20-%20Nondiscrimination%20against%20alcohol%20and%20drug%20abusers%20and%20persons%20infected%20with%20the%20human%20immunodeficiency%20virus.md) | Nondiscrimination against alcohol and drug abusers and persons infected with human immunodeficiency virus. |
+| [7333\.](Subchapter%20003%20%28III%29%20-%20Protection%20of%20Patient%20Rights/%C2%A7%2007333%20-%20Nondiscrimination%20against%20alcohol%20and%20drug%20abusers%20and%20persons%20infected%20with%20the%20human%20immunodeficiency%20virus.md) | Nondiscrimination against alcohol and drug abusers and persons infected with human immunodeficiency virus.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [7334\.](Subchapter%20003%20%28III%29%20-%20Protection%20of%20Patient%20Rights/%C2%A7%2007334%20-%20Regulations.md) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -65,6 +72,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–422, title III, §§302(a)(2), 303(c)(2), Nov. 30, 2004, 118 Stat. 2385, 2387, added items 7327 and 7328.
 
 2003—Pub. L. 108–170, title IV, §§401(a)(2), 402(a)(2), Dec. 6, 2003, 117 Stat. 2061, 2062, added items 7307 and 7364A.
 
@@ -115,10 +124,6 @@ Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984, substit
 1962—Pub. L. 87–793, §803(b), Oct. 11, 1962, 76 Stat. 861, substituted “Administration” for “Specialist ratings” in item 4108.
 
 Pub. L. 87–574, §4(3), Aug. 6, 1962, 76 Stat. 309, inserted “; residencies and internships” in item 4114.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 5 sections 2105, 4301, 5102, 5355; title 42 section 284c.
 
 
 ---

@@ -14,7 +14,3 @@ The study required by this section shall consider—
 
 (Pub. L. 104–4, title III, §301, Mar. 22, 1995, 109 Stat. 67.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1556 of this title.
-

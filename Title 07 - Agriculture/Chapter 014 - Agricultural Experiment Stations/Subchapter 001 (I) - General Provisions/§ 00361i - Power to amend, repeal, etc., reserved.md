@@ -12,7 +12,3 @@ Section was formerly classified to section 368b of this title. The provisions of
 
 1955—Act Aug. 11, 1955, amended section generally to reserve the right to Congress to amend, suspend, or repeal any or all of the provisions of sections 361a to 361i of this title, and to strike out provisions which subjected grants of moneys to the legislative assent of the several States and Territories.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 361c, 361d, 361e, 361g, 361h of this title.
-

@@ -1,9 +1,5 @@
 Part B—Federal Energy Management
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 8243, 8262f of this title.
-
 
 ---
 

@@ -14,7 +14,3 @@ From amounts reserved under section 9131(a)(1)(A) of this title for any fiscal y
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9131 of this title.
-

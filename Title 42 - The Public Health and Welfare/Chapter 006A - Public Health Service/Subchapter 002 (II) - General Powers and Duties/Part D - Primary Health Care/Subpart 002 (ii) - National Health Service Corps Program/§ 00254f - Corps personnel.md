@@ -62,7 +62,7 @@ The Secretary shall assign Corps members to entities in health professional shor
 
 &emsp;(ii) to determine the need for such personnel in such areas and to recruit, select, and retain health professions personnel (including members of the National Health Service Corps) to meet such need;
 
-&emsp;(iii) to determine the extent to which such areas will have a financial base to support the practice of such personnel and the extent to which additional financial resources are needed to adequately support the practice;
+&emsp;(iii) to determine the extent to which such areas will have a financial base to support thepractice of such personnel and the extent to which additional financial resources are needed to adequately support the practice;
 
 &emsp;(iv) to determine the types of inpatient and other health services that should be provided by such personnel in such areas;
 
@@ -104,7 +104,7 @@ Subsec. (b). Pub. L. 101–597, §103(b), redesignated subsec. (d) as (b) and st
 
 Subsec. (c). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-Pub. L. 101–597, §103(b), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to applications, consideration and approval by Secretary,priorities, cooperation with Corps members, and comments by health professionals and societies in designated areas.
+Pub. L. 101–597, §103(b), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to applications, consideration and approval by Secretary, priorities, cooperation with Corps members, and comments by health professionals and societies in designated areas.
 
 Subsec. (d). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing in pars. (1) to (4)(A)(i).
 
@@ -147,8 +147,4 @@ Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the
 #### Effective Date of 1981 Amendment
 
 Section 2703(d) of Pub. L. 97–35 provided that the amendment made by that section is effective Oct. 1, 1981.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 254d, 254f–1, 254h, 254h–1, 254i, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 256<i>o</i>–1, 254q–1, 1396s, 11709 of this title.
 

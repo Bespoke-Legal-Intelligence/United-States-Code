@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—NATIONAL RECORDING PRESERVATION BOARD
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1702, 1711 of this title.
-
 
 ---
 

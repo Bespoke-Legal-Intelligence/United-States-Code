@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—BASIC EDUCATIONAL ASSISTANCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3002, 3035, 3232 of this title; title 10 sections 510, 2006.
-
 
 ---
 

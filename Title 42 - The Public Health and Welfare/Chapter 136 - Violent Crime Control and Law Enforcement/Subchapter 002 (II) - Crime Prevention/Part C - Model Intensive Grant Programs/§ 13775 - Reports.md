@@ -4,7 +4,3 @@ Not later than December 31, 1998, the Attorney General shall prepare and submit 
 
 (Pub. L. 103–322, title III, §30305, Sept. 13, 1994, 108 Stat. 1846.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

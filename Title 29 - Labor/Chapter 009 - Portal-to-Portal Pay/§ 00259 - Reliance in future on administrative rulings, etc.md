@@ -24,9 +24,5 @@ Functions relating to enforcement and administration of equal pay provisions ves
 
 For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6, of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 626 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,7 +28,3 @@ The provisions of section 1346(b) of title 28 and the provisions of chapter 171 
 
 1987—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No claim for an amount exceeding $50,000 shall be adjusted and paid by the Commission under the provisions of this subpart.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3612a, 3771 of this title.
-

@@ -1,9 +1,5 @@
 subpart 2—grants to public agencies
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 3761, 3793 of this title.
-
 
 ---
 

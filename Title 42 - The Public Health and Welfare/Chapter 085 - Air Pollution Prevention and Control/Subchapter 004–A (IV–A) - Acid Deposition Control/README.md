@@ -4,10 +4,6 @@
 
 Another title IV of act July 14, 1955, as added by Pub. L. 91–604, §14, Dec. 31, 1970, 84 Stat. 1709, is classified principally to subchapter IV (§7641 et seq.) of this chapter.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 7403, 7413, 7420, 7429, 7513b, 7607, 7661, 7661a, 7661c, 7661e, 7661f of this title.
-
 
 ---
 

@@ -14,7 +14,7 @@ Subject to the conditions above specified in this section, the incontestable rig
 
 The Director shall notify any registrant who files the above-prescribed affidavit of the filing thereof.
 
-(July 5, 1946, ch. 540, title I, §15, 60 Stat. 433; Pub. L. 87–772, §10, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §10, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, §116, Nov. 16, 1988, 102 Stat. 3941;Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(July 5, 1946, ch. 540, title I, §15, 60 Stat. 433; Pub. L. 87–772, §10, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §10, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, §116, Nov. 16, 1988, 102 Stat. 3941; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 #### References in Text
 
@@ -55,8 +55,4 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1094, 1115, 1141m of this title.
 

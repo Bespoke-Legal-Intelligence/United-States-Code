@@ -16,7 +16,3 @@ All National Oceanic and Atmospheric Administration fleet modernization shipbuil
 
 (Pub. L. 102–567, title VI, §610, Oct. 29, 1992, 106 Stat. 4303.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 891b of this title.
-

@@ -4,7 +4,3 @@ Upon the request of a judge whose conduct is the subject of a complaint under th
 
 (Added Pub. L. 107–273, div. C, title I, §11042(a), Nov. 2, 2002, 116 Stat. 1854.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 38 section 7253.
-

@@ -1,5 +1,5 @@
 
-36 U.S.C.<br>United States Code, 2003 Edition<br>Title 36 - PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
+36 U.S.C.<br>United States Code, 2004 Edition<br>Title 36 - PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS
 
@@ -6116,10 +6116,6 @@ Pub. L. 105–354, §5(b), Nov. 3, 1998, 112 Stat. 3245, repealed specified laws
 Pub. L. 105–225, §6(a), Aug. 12, 1998, 112 Stat. 1499, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
 Pub. L. 105–225, §6(b), Aug. 12, 1998, 112 Stat. 1499, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 12, 1998.
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 20 section 7905.
 
 
 ---

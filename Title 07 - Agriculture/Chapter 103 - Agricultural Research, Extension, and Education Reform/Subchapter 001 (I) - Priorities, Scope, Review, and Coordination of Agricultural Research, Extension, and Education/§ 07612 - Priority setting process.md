@@ -34,7 +34,3 @@ To the maximum extent practicable, the Secretary shall ensure that federally sup
 
 (Pub. L. 105–185, title I, §102, June 23, 1998, 112 Stat. 526.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7611, 7613, 7621 of this title.
-

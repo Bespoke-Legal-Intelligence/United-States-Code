@@ -32,7 +32,3 @@ Act Aug. 4, 1955, ch. 548, 69 Stat. 491, provided: “The requirement of section
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 321, 322, 323, 324, 326, 327, 328, 329, 333, 641, 1303 of this title; title 16 section 460iii–2.
-

@@ -22,7 +22,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;(3) Expand interagency procedures to collect and organize data, including significant research and resource information on domestic and international trafficking. Any data collection procedures established under this subsection shall respect the confidentiality of victims of trafficking.
 
-&emsp;(4) Engage in efforts to facilitate cooperation among countries of origin, transit, and destination. Such efforts shall aim to strengthen local and regional capacities to prevent trafficking, prosecute traffickers and assist trafficking victims, and shall includeinitiatives to enhance cooperative efforts between destination countries and countries of origin and assist in the appropriate reintegration of stateless victims of trafficking.
+&emsp;(4) Engage in efforts to facilitate cooperation among countries of origin, transit, and destination. Such efforts shall aim to strengthen local and regional capacities to prevent trafficking, prosecute traffickers and assist trafficking victims, and shall include initiatives to enhance cooperative efforts between destination countries and countries of origin and assist in the appropriate reintegration of stateless victims of trafficking.
 
 &emsp;(5) Examine the role of the international “sex tourism” industry in the trafficking of persons and in the sexual exploitation of women and children around the world.
 
@@ -30,7 +30,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;(7) Not later than May 1, 2004, and annually thereafter, the Attorney General shall submit to the Committee on Ways and Means, the Committee on International Relations, and the Committee on the Judiciary of the House of Representatives and the Committee on Finance, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate, a report on Federal agencies that are implementing any provision of this chapter, or any amendment made by this chapter, which shall include, at a minimum, information on—
 
-&emsp;&emsp;(A) the number of persons who received benefits or other services under section 7105(b) of this title in connection with programs or activities funded or administered by the Secretary of Health and Human Services, the Secretary of Labor, the Board of Directors of the Legal Services Corporation, and other appropriate Federal agencies during the preceding fiscal year;
+&emsp;&emsp;(A) the number of persons who received benefits or other services under section 7105(b) of this title in connection with programs or activities funded or administeredby the Secretary of Health and Human Services, the Secretary of Labor, the Board of Directors of the Legal Services Corporation, and other appropriate Federal agencies during the preceding fiscal year;
 
 &emsp;&emsp;(B) the number of persons who have been granted continued presence in the United States under section 7105(c)(3) of this title during the preceding fiscal year;
 
@@ -95,6 +95,10 @@ Executive Order No. 13257, referred to in subsec. (f)(2)(A), is set out as a not
 Subsec. (e). Pub. L. 108–193, §6(b)(1), inserted before period at end of second sentence “, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large”.
 
 Subsec. (f). Pub. L. 108–193, §6(c)(1), added subsec. (f).
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Savings Provision
 
@@ -180,7 +184,7 @@ Sec. 5. <i>Enhanced Prevention of Trafficking in Persons</i>. (a) The Secretary 
 
 (d) The Secretary of State shall have responsibility to initiate appropriate regulatory implementation of the requirements set out in section 106(g) of the Act with respect to contracts, including proposing appropriate amendments to the Federal Acquisition Regulation. Each affected executive branch department or agency shall implement, within that department or agency, the requirements set out in section 106(g) of the Act with respect to grants and cooperative agreements.
 
-Sec. 6. <i>Research on Trafficking in Persons</i>. The entities named in section 112A of the Act \[22 U.S.C. 7109a\] shall carry out the research initiatives required by section 112A of the Act, and shall award grants according to such policies and guidelines as may be established by the SPOG described in section 105(f) of the Act \[22 U.S.C. 7103(f)\], as well as any applicable agency rules and regulations.
+Sec. 6. <i>Research on Trafficking in Persons</i>. The entities named in section 112A of the Act \[22 U.S.C. 7109a\] shall carry out the research initiatives required by section 112A of the Act, and shall award grants according tosuch policies and guidelines as may be established by the SPOG described in section 105(f) of the Act \[22 U.S.C. 7103(f)\], as well as any applicable agency rules and regulations.
 
 Sec. 7. <i>Guidance for Exercising Authority and Performing Duties</i>. In exercising authority delegated by, or performing functions assigned in, this order, officers of the United States shall ensure that all actions taken by them are consistent with the President's constitutional authority to:
 
@@ -195,8 +199,4 @@ Sec. 7. <i>Guidance for Exercising Authority and Performing Duties</i>. In exerc
 Sec. 8. <i>Judicial Review</i>. This order does not create any rights or benefits, enforceable at law or equity, against the United States, its departments, its agencies, or other entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7102, 7110 of this title.
 

@@ -20,7 +20,7 @@ The following Federal standards are hereby established:
 
 #### (2) Advertising
 
-&emsp;No gas utility may recover from any person other than the shareholders (or other owners)of such utility any direct or indirect expenditure by such utility for promotional or political advertising as defined in section 3204(b) of this title.
+&emsp;No gas utility may recover from any person other than the shareholders (or other owners) of such utility any direct or indirect expenditure by such utility for promotional or political advertising as defined in section 3204(b) of this title.
 
 #### (3) Integrated resource planning
 
@@ -63,10 +63,6 @@ Section 115(e) of Pub. L. 102–486 provided that: “The report under section 1
 #### Definitions
 
 The definition of State in section 2602 of Title 16, Conservation, applies to this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3204 of this title; title 42 section 6807a.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

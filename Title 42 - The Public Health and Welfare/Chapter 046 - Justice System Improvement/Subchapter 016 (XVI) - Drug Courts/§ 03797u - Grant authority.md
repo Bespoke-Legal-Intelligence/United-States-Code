@@ -28,7 +28,7 @@ Economic sanctions imposed on an offender pursuant to this section shall not be 
 
 (Pub. L. 90–351, title I, §2951, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1794.)
 
-#### Study by the General Accounting Office
+#### Study by the Government Accountability Office
 
 Pub. L. 107–273, div. B, title II, §2303, Nov. 2, 2002, 116 Stat. 1799, provided that:
 

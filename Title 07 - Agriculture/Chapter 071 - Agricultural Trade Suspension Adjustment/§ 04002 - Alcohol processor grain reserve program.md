@@ -24,7 +24,7 @@ Except as otherwise provided in this section, loans made under this section to c
 
 #### (d) Amount of loan
 
-The amount of the loan that the Secretary may make to an eligible processor at any time on any quantity of grain purchased by the processor shall be determined by multiplying the price support loan rate in effect for such grain at the time the loan is made times the quantity of grain purchased by the processor. The quantity of grain on which one or more loans may be outstanding at any time in the case of any processor may not exceed the estimated quantity of grain needed by such processor for one year of operation.
+The amount of the loan that the Secretary may make to an eligible processor at any timeon any quantity of grain purchased by the processor shall be determined by multiplying the price support loan rate in effect for such grain at the time the loan is made times the quantity of grain purchased by the processor. The quantity of grain on which one or more loans may be outstanding at any time in the case of any processor may not exceed the estimated quantity of grain needed by such processor for one year of operation.
 
 #### (e) Replacement of removed grain
 

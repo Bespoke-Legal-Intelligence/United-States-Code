@@ -18,7 +18,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Abolition of office of surveyor general, see note set out under section 51 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 55, 56 of this title.
-

@@ -16,7 +16,3 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1451 of this title; title 5 section 5549.
-

@@ -12,7 +12,7 @@ Section consolidates section 5 of title 13, U.S.C., 1952 ed., with section 6 of 
 
 A reference to “officers” was inserted for completeness, and the word “permanent” was inserted before “officers and employees” for the purpose of clarity.
 
-The provision in section 5 of title 13, U.S.C., 1952 ed., excepting unskilled laborers from the requirements for citizenship, was omitted as superseded and covered by the Classification Act of 1949 (5 U.S.C., 1952 ed., ch. 21).
+The provision in section 5 of title 13, U.S.C., 1952 ed., excepting unskilled laborers from the requirements forcitizenship, was omitted as superseded and covered by the Classification Act of 1949 (5 U.S.C., 1952 ed., ch. 21).
 
 The provision that appointments and compensation shall be subject to the Classification Act of 1949 is new but is in accordance with existing law. See chapter 21 of title 5, U.S.C., 1952 ed., Executive Departments and Government Officers and Employees.
 
@@ -27,8 +27,4 @@ Changes were made in phraseology.
 #### Program for Employment of Spanish-Origin Personnel in Bureau; Report to Congress
 
 Pub. L. 94–311, §6, June 16, 1976, 90 Stat. 689, required Department of Commerce to implement an affirmative action program within Bureau of the Census for employment of personnel of Spanish origin or descent and to submit a report to Congress within one year of June 16, 1976, on progress of such program.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 307 of this title.
 

@@ -4,7 +4,3 @@ In this part, the term “State” means each of the 50 States, the District of 
 
 (Pub. L. 107–279, title I, §158, Nov. 5, 2002, 116 Stat. 1962.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9501 of this title.
-

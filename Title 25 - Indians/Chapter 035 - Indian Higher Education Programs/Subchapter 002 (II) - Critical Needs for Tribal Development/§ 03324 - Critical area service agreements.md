@@ -6,7 +6,7 @@ A critical area service agreement shall be an agreement between an Indian studen
 
 &emsp;(1) to undertake a course of study at an eligible institution (as that term is defined in section 1085(a) of title 20) in an area of critical need, as determined under section 3323 of this title, and to pursue that course of study to its completion; and
 
-&emsp;(2)(A) to perform, for each academic year for which the student receives federally funded higher education assistance under a critical area service agreement, one calendar year of service to the tribe or organization in an occupation that is in a critical area designated by the tribe pursuant to section 3323(b) <sup>1</sup> of this title, commencing not later than 6 months after the student ceases to carry at an institution of higher education at least one-half the normal full-time academic workload as determined by the institution; or
+&emsp;(2)(A) to perform, for each academic year for which the student receives federally funded higher education assistance under a criticalarea service agreement, one calendar year of service to the tribe or organization in an occupation that is in a critical area designated by the tribe pursuant to section 3323(b) <sup>1</sup> of this title, commencing not later than 6 months after the student ceases to carry at an institution of higher education at least one-half the normal full-time academic workload as determined by the institution; or
 
 &emsp;(B) to repay such assistance to the Secretary, together with interest thereon at a rate prescribed by the Secretary by regulation, in monthly or quarterly installments over not more than 5 years.
 
@@ -24,7 +24,7 @@ The tribe or tribal organization shall agree that a student performing services 
 
 #### (1) Waiver
 
-&emsp;An Indian tribe or tribal organization may, by formal action, waive the service agreementof an Indian student for just cause, as determined in accordance with regulations prescribed by the Secretary. The tribe or organization shall notify the Secretary in writing of any waiver granted under this subsection.
+&emsp;An Indian tribe or tribal organization may, by formal action, waive the service agreement of an Indian student for just cause, as determined in accordance with regulations prescribed by the Secretary. The tribe or organization shall notify the Secretary in writing of any waiver granted under this subsection.
 
 #### (2) Suspension
 
@@ -55,10 +55,6 @@ An Indian tribe or tribal organization receiving services under a critical area 
 #### References in Text
 
 Section 3323(b) of this title, referred to in subsec. (a)(2)(A), was in the original a reference to “section 1322(b)”, meaning section 1322(b) of Pub. L. 102–325, which has been translated as reading section 1323(b) of Pub. L. 102–325 to reflect the probable intent of Congress because section 1322 does not have a subsec. (b) and section 1323(b) relates to designation of critical areas by tribes.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3323 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

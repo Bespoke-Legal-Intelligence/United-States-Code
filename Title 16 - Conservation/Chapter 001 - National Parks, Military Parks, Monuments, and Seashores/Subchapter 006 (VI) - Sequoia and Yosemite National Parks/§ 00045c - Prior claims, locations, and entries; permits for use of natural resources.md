@@ -8,7 +8,3 @@ Nothing herein contained shall affect any valid existing claim, location, or ent
 
 Herein, referred to in text, means act July 3, 1926, which is classified to sections 45a, 45b to 45e, and 688 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 45e of this title.
-

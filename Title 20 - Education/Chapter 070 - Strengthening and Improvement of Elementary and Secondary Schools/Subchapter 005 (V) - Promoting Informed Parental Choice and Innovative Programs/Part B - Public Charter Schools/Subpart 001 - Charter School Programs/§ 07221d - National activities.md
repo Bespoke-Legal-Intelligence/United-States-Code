@@ -14,9 +14,9 @@ The Secretary shall reserve for each fiscal year the greater of 5 percent or $5,
 
 &emsp;&emsp;(B) assistance in applying for Federal education funds that are allocated by formula, including assistance with filing deadlines and submission of applications.
 
-&emsp;(2) To provide for other evaluations or studies that include the evaluation of the impact of charter schools on student academic achievement, including information regarding—
+&emsp;(2) To provide for other evaluations or studies that include the evaluation of the impactof charter schools on student academic achievement, including information regarding—
 
-&emsp;&emsp;(A) students attending charter schools reported on the basis of race, age, disability,gender, limited English proficiency, and previous enrollment in public school; and
+&emsp;&emsp;(A) students attending charter schools reported on the basis of race, age, disability, gender, limited English proficiency, and previous enrollment in public school; and
 
 &emsp;&emsp;(B) the professional qualifications of teachers within a charter school and the turnover of the teaching force.
 
@@ -114,7 +114,7 @@ The Secretary shall reserve for each fiscal year the greater of 5 percent or $5,
 
 #### (6) Priorities
 
-&emsp;In making grants under this subsection, the Secretary shall give priority to States that meet the criteria described in paragraph (2), and subparagraphs (A), (B), and (C) of paragraph (3), of section 7221a(e) of this title.
+&emsp;In making grants under this subsection, the Secretary shall give priority to States thatmeet the criteria described in paragraph (2), and subparagraphs (A), (B), and (C) of paragraph (3), of section 7221a(e) of this title.
 
 #### (c) Rule of construction
 
@@ -125,10 +125,6 @@ Nothing in this section shall be construed to require charter schools to collect
 #### Prior Provisions
 
 A prior section 5205 of Pub. L. 89–10 was classified to section 7235 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7221a, 7221j of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “per-pupil”.</i>
 

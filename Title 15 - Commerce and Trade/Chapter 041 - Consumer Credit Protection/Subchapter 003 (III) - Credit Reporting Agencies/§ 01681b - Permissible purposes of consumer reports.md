@@ -72,7 +72,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 #### (C) Scope
 
-&emsp;&emsp;Subparagraph (B) shall apply to a person procuring a consumer report on a consumer in connection with the consumer's application for employment only if—
+&emsp;&emsp;Subparagraph (B) shall apply to a person procuring a consumer report on a consumerin connection with the consumer's application for employment only if—
 
 &emsp;&emsp;&emsp;(i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49, or a position subject to safety regulation by a State transportation agency; and
 
@@ -216,7 +216,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;An election of a consumer under paragraph (1)—
 
-&emsp;&emsp;(A) shall be effective with respect to a consumer reporting agency beginning 5 business days after the date on which the consumer notifies the agency in accordance with paragraph (2);
+&emsp;&emsp;(A) shall be effective with respect to a consumer reporting agency beginning 5 business days after the date on which the consumernotifies the agency in accordance with paragraph (2);
 
 &emsp;&emsp;(B) shall be effective with respect to a consumer reporting agency—
 
@@ -320,7 +320,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 Section 1681g(c) of this title, referred to in subsec. (b)(1)(B), (3)(A)(ii), (B)(ii), was amended generally by Pub. L. 108–159, title II, §211(c), Dec. 4, 2003, 117 Stat. 1970, and, as so amended, no longer contains a par. (3).
 
-Executive Order No. 12958, referred to in subsec. (b)(4)(E)(i), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R. 19825, as amended, which is set out under section 435 of Title 50, War and National Defense.
+Executive Order No. 12958, referred to in subsec. (b)(4)(D)(i), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R. 19825, as amended, which is set out under section 435 of Title 50, War and National Defense.
 
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (g)(3)(B), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of Title 42, The Public Health and Welfare, and Tables.
 
@@ -342,7 +342,7 @@ Reports to congressional intelligence committees.—In the case of a report to b
 
 Subsec. (e)(3)(A), (4)(B)(i). Pub. L. 108–159, §213(c), substituted “5-year period” for “2-year period”.
 
-Subsec. (g). Pub. L. 108–159, §411(a), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.”
+Subsec. (g). Pub. L. 108–159, §411(a), amended heading and text of subsec. (g) generally. Prior to amendment,text read as follows: “A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.”
 
 2002—Subsec. (b)(4)(D). Pub. L. 107–306, §811(b)(8)(A)(i), substituted “Except as provided in subparagraph (E), not later than” for “Not later than”.
 
@@ -396,7 +396,7 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1681e of this title\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory PaperworkReduction Act of 1996 \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208\], as of the date of the enactment of such Act \[Sept. 30, 1996\].”
+Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1681e of this title\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208\], as of the date of the enactment of such Act \[Sept. 30, 1996\].”
 
 #### Effective Date of 1996 Amendments
 
@@ -417,10 +417,6 @@ Pub. L. 108–159, title IV, §412(d), Dec. 4, 2003, 117 Stat. 2002, provided th
 #### FTC Guidelines Regarding Prescreening for Insurance Transactions
 
 Section 2404(c) of div. A of Pub. L. 104–208 provided that: “The Federal Trade Commission may issue such guidelines as it deems necessary with respect to the use of consumer reports in connection with insurance transactions that are not initiated by the consumer pursuant to section 604(c) of the Fair Credit Reporting Act \[15 U.S.C. 1681b(c)\], as added by subsection (a) of this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1681a, 1681e, 1681f, 1681g, 1681k, 1681m, 1681s–1, 1681t, 1681u, 1681v, 1692d of this title; title 31 section 3711; title 50 section 415b.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

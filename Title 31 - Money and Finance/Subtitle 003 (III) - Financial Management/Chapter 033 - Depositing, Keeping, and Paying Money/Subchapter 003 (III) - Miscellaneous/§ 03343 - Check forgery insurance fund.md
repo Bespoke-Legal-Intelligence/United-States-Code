@@ -96,3 +96,7 @@ Subsec. (d). Pub. L. 104–134, §31001(x)(3)(C), inserted after first sentence 
 
 Subsecs. (e) to (g). Pub. L. 104–134, §31001(x)(3)(D), (E), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
+#### Availability of Fund
+
+Pub. L. 108–447, div. H, title II, §220(b), Dec. 8, 2004, 118 Stat. 3242, provided that: “The Check Forgery Insurance Fund (31 U.S.C. 3343) shall be available to fund amounts relating to the payment of items listed in 31 U.S.C. 3333(a)(1), as amended above \[Pub. L. 108–447, §220(a)(1)\], prior to the enactment of this Act \[Dec. 8, 2004\].”
+

@@ -4,7 +4,3 @@ To construct, improve, extend, better, repair, reconstruct, acquire, and operate
 
 (Oct. 27, 1949, ch. 769, §1, 63 Stat. 940.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1403a, 1403b, 1408a of this title.
-

@@ -28,15 +28,21 @@ Limitations and Administration.—(1) A member may not be paid more than one spe
 
 (d)
 
-Determinations of Fact.—Any determination of fact that is made in administering this section is conclusive. Such a determination may not be reviewed by any other officer or agencyof the United States unless there has been fraud or gross negligence. However, the determination may be changed on the basis of new evidence or for other good cause.
+Determinations of Fact.—Any determination of fact that is made in administering this section is conclusive. Such a determination may not be reviewed by any other officer or agency of the United States unless there has been fraud or gross negligence. However, the determination may be changed on the basis of new evidence or for other good cause.
 
 (e)
 
-Temporary Increase in Authorized Amount of Special Pay.—For the period beginning on October 1, 2003, and ending on December 31, 2004, the rate of pay authorized by subsection (a) shall be increased to $225.
+Temporary Increase in Authorized Amount of Special Pay.—For the period beginning on October 1, 2003, and ending on December 31, 2005, the rate of pay authorized by subsection (a) shall be increased to $225.
 
-(Added Pub. L. 88–132, §9(a)(1), Oct. 2, 1963, 77 Stat. 216; amended Pub. L. 89–132, §4, Aug. 21, 1965, 79 Stat. 547; Pub. L. 98–94, title IX, §905(a), (b)(1), Sept. 24, 1983, 97 Stat. 636, 637; Pub. L. 99–145, title VI, §638(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 101–510, div. A, title XIII, §1322(c)(6), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title VI, §§611(a), 613, Dec. 5, 1991, 105 Stat. 1376, 1377; Pub. L. 105–261, div. A, title VI, §621, Oct. 17, 1998, 112 Stat. 2042; Pub. L. 108–11, title I, §1316(a), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§618(a), (b), (d)(2), 619, Nov. 24, 2003, 117 Stat. 1503, 1504.)
+(Added Pub. L. 88–132, §9(a)(1), Oct. 2, 1963, 77 Stat. 216; amended Pub. L. 89–132, §4, Aug. 21, 1965, 79 Stat. 547; Pub. L. 98–94, title IX, §905(a), (b)(1), Sept. 24, 1983, 97 Stat. 636, 637; Pub. L. 99–145, title VI, §638(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 101–510, div. A, title XIII, §1322(c)(6), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title VI, §§611(a), 613, Dec. 5, 1991, 105 Stat. 1376, 1377; Pub. L. 105–261, div. A, title VI, §621, Oct. 17, 1998, 112 Stat. 2042; Pub. L. 108–11, title I, §1316(a), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§618(a), (b), (d)(2), 619, Nov. 24, 2003, 117 Stat. 1503, 1504; Pub. L. 108–375, div. A, title VI, §623(a), Oct. 28, 2004, 118 Stat. 1955.)
+
+#### Amendment of Section
+
+<i>Pub. L. 108–375, div. A, title VI, §623(a)(2), Oct. 28, 2004, 118 Stat. 1955, provided that, effective Jan. 1, 2006, subsection (a) of this section is amended by substituting “$225” for “$150” and subsection (e) of this section is repealed.</i>
 
 #### Amendments
+
+2004—Subsec. (e). Pub. L. 108–375, §623(a)(1), substituted “December 31, 2005” for “December 31, 2004”.
 
 2003—Subsec. (a). Pub. L. 108–136, §618(a)(2), added subsec. (a) and struck out former subsec. (a) which read as follows: “Under regulations prescribed by the Secretary of Defense, a member of a uniformed service may be paid special pay at the rate of $150 for any month in which he was entitled to basic pay and in which he—
 
@@ -77,6 +83,10 @@ Subsec. (e). Pub. L. 108–136, §619, added subsec. (e).
 Subsec. (a)(4). Pub. L. 98–94, §905(a), added cl. (4).
 
 1965—Subsec. (a). Pub. L. 89–132 increased rate of special pay from $55 to $65 a month.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–375, div. A, title VI, §623(a)(2), Oct. 28, 2004, 118 Stat. 1955, provided that the amendments made by section 623(a)(2) are effective Jan. 1, 2006.
 
 #### Effective and Termination Dates of 2003 Amendments
 
@@ -163,8 +173,4 @@ Period of Applicability.—Subsection (a) shall apply during the period beginnin
 #### Imminent Danger Pay in Connection With Operation Desert Shield
 
 Section 1111(a) of Pub. L. 101–510 provided that: “The Secretary of Defense may provide for the payment of imminent danger pay under section 310 of title 37, United States Code, to members of the Armed Forces assigned to duty in the Persian Gulf area in connection with Operation Desert Shield with respect to periods of duty served after August 1, 1990, and before the date of the enactment of this Act \[Nov. 5, 1990\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 411a of this title; title 10 sections 701, 703, 1079, 1133; title 20 section 1087ee; title 24 section 412; title 26 section 112; title 36 section 230103; title 42 section 1382a.
 

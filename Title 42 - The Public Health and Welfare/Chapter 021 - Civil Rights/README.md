@@ -405,7 +405,7 @@ Effective date.
 |  |  |
 | :--- | ---: |
 | [2000e.](Subchapter%20006%20%28VI%29%20-%20Equal%20Employment%20Opportunities/%C2%A7%2002000e%20-%20Definitions.md) | Definitions. |
-| 2000e–1. | Applicability to foreign and religious employment. |
+| 2000e–1. | Exemption. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -779,10 +779,6 @@ Attorney's fees.
 | 2000h–6. | Separability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 11111 of this title.
 
 
 ---

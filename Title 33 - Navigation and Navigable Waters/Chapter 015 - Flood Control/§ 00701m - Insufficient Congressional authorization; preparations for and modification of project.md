@@ -4,7 +4,3 @@ In any case where the total authorization for a project heretofore or hereafter 
 
 (Aug. 18, 1941, ch. 377, §2, 55 Stat. 638.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 702a–12 of this title.
-

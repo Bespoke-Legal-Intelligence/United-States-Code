@@ -50,7 +50,3 @@ This Act, referred to in subsec. (c)(2)(A), refers to the Agricultural Act of 19
 
 2002—Pub. L. 107–171 reenacted section catchline without change and amended text generally to clarify provisions relating to supplements to Federal grant programs.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009aa–5 of this title.
-

@@ -6,7 +6,7 @@ The Secretary of the Senate on and after July 31, 1958, is authorized, in his di
 
 #### Amendments
 
-<b>1977</b>—Pub. L. 95–26 struck out “during any fiscal year” after “$4,000”.
+1977—Pub. L. 95–26 struck out “during any fiscal year” after “$4,000”.
 
-<b>1976</b>—Pub. L. 94–440 substituted “$4,000 during any fiscal year” for “$2,000”.
+1976—Pub. L. 94–440 substituted “$4,000 during any fiscal year” for “$2,000”.
 

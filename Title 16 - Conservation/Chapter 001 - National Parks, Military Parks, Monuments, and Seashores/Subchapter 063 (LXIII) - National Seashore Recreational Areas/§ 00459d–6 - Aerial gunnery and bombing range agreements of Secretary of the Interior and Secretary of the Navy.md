@@ -4,7 +4,3 @@ The Secretary of the Interior shall enter into such administrative agreements wi
 
 (Pub. L. 87–712, §7, Sept. 28, 1962, 76 Stat. 652.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459d–1, 459d–2, 459d–4, 459d–7 of this title.
-

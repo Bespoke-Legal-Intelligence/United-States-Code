@@ -22,7 +22,7 @@ For purposes of this part:
 
 #### (3) Covered injury
 
-&emsp;The term “covered injury” means an injury, disability, illness, condition, or death (otherthan a minor injury such as minor scarring or minor local reaction) determined, pursuant to the procedures established under section 239a of this title, to have been sustained by an individual as the direct result of—
+&emsp;The term “covered injury” means an injury, disability, illness, condition, or death (other than a minor injury such as minor scarring or minor local reaction) determined, pursuant to the procedures established under section 239a of this title, to have been sustained by an individual as the direct result of—
 
 &emsp;&emsp;(A) administration to the individual of a covered countermeasure during the effective period of the Declaration; or
 

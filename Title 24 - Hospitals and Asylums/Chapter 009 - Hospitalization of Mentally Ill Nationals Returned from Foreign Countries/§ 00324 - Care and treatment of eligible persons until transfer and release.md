@@ -18,7 +18,3 @@ The authority of the Secretary to provide hospitalization for any person under t
 
 Amendment by Pub. L. 98–621 effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621 set out as an Effective Date note under section 225 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 168b, 323, 325, 326, 327, 328 of this title.
-

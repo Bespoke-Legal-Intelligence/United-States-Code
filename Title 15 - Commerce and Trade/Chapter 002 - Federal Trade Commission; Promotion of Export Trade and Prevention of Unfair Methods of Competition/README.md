@@ -179,7 +179,7 @@
 | (b) | Violations of Federal Trade Commission Act. |
 | (c) | Verified statement of compliance. |
 | [69e.](Subchapter%20004%20%28IV%29%20-%20Labeling%20of%20Fur%20Products/%C2%A7%2000069e%20-%20Name%20guide%20for%20fur%20products.md) | Name guide for fur products. |
-| (a) | Fur products Name Guide. |
+| (a) | Fur Products Name Guide. |
 | (b) | Additions and deletions; public hearing. |
 | (c) | Prevention of confusion or deception. |
 | [69f.](Subchapter%20004%20%28IV%29%20-%20Labeling%20of%20Fur%20Products/%C2%A7%2000069f%20-%20Enforcement%20of%20subchapter.md) | Enforcement of subchapter. |
@@ -219,6 +219,7 @@
 | (h) | Reused stuffing. |
 | (i) | Mail order catalog or promotional material. |
 | (j) | Location of stamp, tag, label, or other identification. |
+| (k) | Marking of certain sock products. |
 | [70c.](Subchapter%20005%20%28V%29%20-%20Textile%20Fiber%20Products%20Identification/%C2%A7%2000070c%20-%20Removal%20of%20stamp%2C%20tag%2C%20label%2C%20or%20other%20identification.md) | Removal of stamp, tag, label, or other identification. |
 | (a) | Removal or mutilation after shipment in commerce. |
 | (b) | Substitution of stamp, tag, etc. |
@@ -248,7 +249,7 @@
 |  |  |
 | :--- | ---: |
 | [71\.](Subchapter%20006%20%28VI%29%20-%20Prevention%20of%20Unfair%20Methods%20of%20Competition/%C2%A7%2000071%20-%20%E2%80%9CPerson%E2%80%9D%20defined.md) | “Person” defined. |
-| [72\.](Subchapter%20006%20%28VI%29%20-%20Prevention%20of%20Unfair%20Methods%20of%20Competition/%C2%A7%2000072%20-%20Importation%20or%20sale%20of%20articles%20at%20less%20than%20market%20value%20or%20wholesale%20price.md) | Importation or sale of articles at less than market value or wholesale price. |
+| [72\.](Subchapter%20006%20%28VI%29%20-%20Prevention%20of%20Unfair%20Methods%20of%20Competition/%C2%A7%2000072%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93429%2C%20title%20II%2C%20%C2%A72006%28a%29%2C%20Dec.%203%2C%202004%2C%20118%20Stat.%202597.md) | Repealed. |
 | [73\.](Subchapter%20006%20%28VI%29%20-%20Prevention%20of%20Unfair%20Methods%20of%20Competition/%C2%A7%2000073%20-%20Agreements%20involving%20restrictions%20in%20favor%20of%20imported%20goods.md) | Agreements involving restrictions in favor of imported goods. |
 | [74\.](Subchapter%20006%20%28VI%29%20-%20Prevention%20of%20Unfair%20Methods%20of%20Competition/%C2%A7%2000074%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [75\.](Subchapter%20006%20%28VI%29%20-%20Prevention%20of%20Unfair%20Methods%20of%20Competition/%C2%A7%2000075%20-%20Retaliation%20against%20country%20prohibiting%20importations.md) | Retaliation against country prohibiting importations. |

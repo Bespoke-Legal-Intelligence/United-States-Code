@@ -6,7 +6,7 @@ The Secretary of Agriculture may conduct a program of wildlife services with res
 
 #### Amendments
 
-2000—Pub. L. 106–387 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Agriculture is authorized and directed to conduct such investigations, experiments, and tests as he may deem necessary in order to determine, demonstrate, and promulgate the best methods of eradication, suppression, or bringing under control on national forests and other areas of the public domain as well as on State, Territory, or privatelyowned lands of mountain lions, wolves, coyotes, bobcats, prairie dogs, gophers, ground squirrels, jack rabbits, brown tree snakes, and other animals injurious to agriculture, horticulture, forestry, animal husbandry, wild game animals, fur-bearing animals, and birds, and for the protection of stock and other domestic animals through the suppression of rabies and tularemia in predatory or other wild animals; and to conduct campaigns for the destruction or control of such animals: <i>Provided</i>, That in carrying out the provisions of this section the Secretary of Agriculture may cooperate with States, individuals, and public and private agencies, organizations, and institutions.”
+2000—Pub. L. 106–387 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Agriculture is authorized and directed to conduct such investigations, experiments, and tests as he may deem necessary in order to determine, demonstrate, and promulgate the best methods of eradication, suppression, or bringing under control on national forests and other areas of the public domain as well as on State, Territory, or privately owned lands of mountain lions, wolves, coyotes, bobcats, prairie dogs, gophers, ground squirrels, jack rabbits, brown tree snakes, and other animals injurious to agriculture, horticulture, forestry, animal husbandry, wild game animals, fur-bearing animals, and birds, and for the protection of stock and other domestic animals through the suppression of rabies and tularemia in predatory or other wild animals; and to conduct campaigns for the destruction or control of such animals: <i>Provided</i>, That in carrying out the provisions of this section the Secretary of Agriculture may cooperate with States, individuals, and public and private agencies, organizations, and institutions.”
 
 1991—Pub. L. 102–237 inserted “brown tree snakes,” after “rabbits,”.
 
@@ -33,8 +33,4 @@ Introduction Into Hawaii.—The Secretary shall initiate a program to prevent th
 Authority.—The Secretary shall use the authority provided under the Federal Plant Pest Act (7 U.S.C. 150aa et seq.) to carry out subsections (a) and (b).”
 
 Pub. L. 102–190, div. A, title III, §348, Dec. 5, 1991, 105 Stat. 1348, provided that: “The Secretary of Defense shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes from Guam to Hawaii in aircraft and vessels transporting personnel or cargo for the Department of Defense. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventive processes or devices at aircraft and vessel loading facilities in Guam or Hawaii or at intermediate transit points for personnel or cargo transported between Guam and Hawaii.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 426b of this title; title 16 section 2909.
 

@@ -44,7 +44,3 @@ Subsecs. (d), (e). Pub. L. 108–21, §608(c), added subsecs. (d) and (e).
 
 2000—Subsec. (c). Pub. L. 106–310 added subsec. (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 843, 849, 860 of this title; title 18 sections 3663, 3663A.
-

@@ -84,7 +84,7 @@ A loan may be guaranteed under this subchapter only for—
 
 For definition of “this chapter”, referred to in subsecs. (a)(9)(B)(i) and (d)(1), see note set out under section 1921 of this title.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(9)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(9)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, seeShort Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
 
@@ -137,8 +137,4 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 #### Construction of 1991 Amendment
 
 Section 516(f)(2) of Pub. L. 102–552 provided that: “Subsection (b) of section 501 of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) \[amending this section\] is repealed. The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) shall be applied and administered as if such subsection had never become law.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1991, 1992, 2008f of this title.
 

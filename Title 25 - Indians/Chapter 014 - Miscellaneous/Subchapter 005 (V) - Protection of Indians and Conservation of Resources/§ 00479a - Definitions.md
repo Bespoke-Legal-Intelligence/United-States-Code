@@ -38,9 +38,5 @@ Section 103 of Pub. L. 103–454 provided that: “The Congress finds that—
 
 &emsp;“(8) the list of federally recognized tribes which the Secretary publishes should reflect all of the federally recognized Indian tribes in the United States which are eligible for the special programs and services provided by the United States to Indians because of their status as Indians.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 228; title 42 section 3796ee–1.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

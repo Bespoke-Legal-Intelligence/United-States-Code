@@ -14,7 +14,7 @@ In order for a warrantor warranting a consumer product by means of a written war
 
 #### (b) Duties and conditions imposed on consumer by warrantor
 
-(1) In fulfilling the duties under subsection (a) of this section respecting a written warranty, the warrantor shall not impose any duty other than notification upon any consumer as a condition of securing remedy of any consumer product which malfunctions, is defective, or does not conform to the written warranty, unless the warrantor has demonstrated in a rulemaking proceeding, or can demonstrate in an administrative or judicial enforcement proceeding (including private enforcement), or in an informal dispute settlement proceeding, that such a duty is reasonable.
+(1) In fulfilling the duties under subsection (a) of this section respecting a written warranty, the warrantor shall not impose any duty other than notification upon any consumer as a condition of securing remedy of any consumer product which malfunctions, is defective, or does not conform to the written warranty, unless the warrantor has demonstrated in a rulemaking proceeding, or can demonstrate in an administrative or judicial enforcement proceeding (including private enforcement), or in an informaldispute settlement proceeding, that such a duty is reasonable.
 
 (2) Notwithstanding paragraph (1), a warrantor may require, as a condition to replacement of, or refund for, any consumer product under subsection (a) of this section, that such consumer product shall be made available to the warrantor free and clear of liens and other encumbrances, except as otherwise provided by rule or order of the Commission in cases in which such a requirement would not be practicable.
 
@@ -35,8 +35,4 @@ For purposes of this section and of section 2302(c) of this title, the term “w
 If a supplier designates a warranty applicable to a consumer product as a “full (statement of duration)” warranty, then the warranty on such product shall, for purposes of any action under section 2310(d) of this title or under any State law, be deemed to incorporate at least the minimum requirements of this section and rules prescribed under this section.
 
 (Pub. L. 93–637, title I, §104, Jan. 4, 1975, 88 Stat. 2187.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2301, 2303, 2308, 2311 of this title.
 

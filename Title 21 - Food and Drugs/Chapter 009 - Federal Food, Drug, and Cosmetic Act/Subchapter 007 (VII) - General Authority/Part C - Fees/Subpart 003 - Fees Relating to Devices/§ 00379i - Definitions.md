@@ -20,11 +20,11 @@ For purposes of this part:
 
 &emsp;&emsp;(ii) a notice of completion has become effective under section 360e(f) of this title.
 
-&emsp;(B) The term “panel-track supplement” means a supplement to an approved premarket application or premarket report under section 360e of this title that requests a significant change in design or performance of the device, or a new indication for use of the device, and for which clinical data are generally necessary to provide a reasonable assurance of safety and effectiveness.
+&emsp;(B) The term “panel-track supplement” means a supplement to an approved premarket application or premarket report under section 360e of this title that requests a significant change in design or performance of the device, or a new indication for use of the device, and for which substantial clinical data are necessary to provide a reasonable assurance of safety and effectiveness.
 
 &emsp;(C) The term “180-day supplement” means a supplement to an approved premarket application or premarket report under section 360e of this title that is not a panel-track supplement and requests a significant change in components, materials, design, specification, software, color additives, or labeling.
 
-&emsp;(D) The term “real-time supplement” means a supplement to an approved premarket application or premarket report under section 360e of this title that requests a minor change to the device, such as a minor change to the design of the device, software, manufacturing, sterilization, or labeling, and for which the applicant has requested and the agency has granted a meeting or similar forum to jointly review and determine the status of the supplement.
+&emsp;(D) The term “real-time supplement” means a supplement to an approved premarket application or premarket report under section 360e of this title that requests a minor change to the device, such as a minor change to the design of the device, software, sterilization, or labeling, and for which the applicant has requested and the agency has granted a meeting or similar forum to jointly review and determine the status of the supplement.
 
 &emsp;(E) The term “efficacy supplement” means a supplement to an approved premarket application under section 262 of title 42 that requires substantive clinical data.
 
@@ -42,13 +42,13 @@ For purposes of this part:
 
 &emsp;&emsp;(F) The development of guidance, policy documents, or regulations to improve the process for the review of premarket applications, premarket reports, supplements, and premarket notification submissions.
 
-&emsp;&emsp;(G) The development of voluntary test methods, consensus standards, or mandatory performance standards under section 360d of this title in connection with the review of such applications, reports, supplements, or submissions and related activities.
+&emsp;&emsp;(G) The development of voluntary test methods, consensus standards, or mandatory performance standards under section 360d ofthis title in connection with the review of such applications, reports, supplements, or submissions and related activities.
 
 &emsp;&emsp;(H) The provision of technical assistance to device manufacturers in connection with the submission of such applications, reports, supplements, or submissions.
 
 &emsp;&emsp;(I) Any activity undertaken under section 360c or 360e(i) of this title in connection with the initial classification or reclassification of a device or under section 360e(b) of this title in connection with any requirement for approval of a device.
 
-&emsp;&emsp;(J) Evaluation of postmarket studies required as a condition of an approval of a premarket application under section 360e of this title or section 262 of title 42.
+&emsp;&emsp;(J) Evaluation of postmarket studies required as a condition of an approval of a premarket application or premarket report under section 360e of this title or a premarket application under section 262 of title 42.
 
 &emsp;&emsp;(K) Compiling, developing, and reviewing information on relevant devices to identify safety and effectiveness issues for devices subject to premarket applications, premarket reports, supplements, or premarket notification submissions.
 
@@ -64,17 +64,29 @@ For purposes of this part:
 
 &emsp;(7) The term “adjustment factor” applicable to a fiscal year is the Consumer Price Index for all urban consumers (all items; United States city average) for April of the preceding fiscal year divided by such Index for April 2002.
 
-&emsp;(8) The term “affiliate” means a business entity that has a relationship with a second business entity if, directly or indirectly—
+&emsp;(8) The term “affiliate” means a business entity that has a relationship with a second business entity (whether domestic or international) if, directly or indirectly—
 
 &emsp;&emsp;(A) one business entity controls, or has the power to control, the other business entity; or
 
 &emsp;&emsp;(B) a third party controls, or has power to control, both of the business entities.
 
-(June 25, 1938, ch. 675, §737, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1589.)
+(June 25, 1938, ch. 675, §737, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1589; amended Pub. L. 108–214, §2(a)(1), (d)(3)(A), Apr. 1, 2004, 118 Stat. 572, 577.)
 
 #### Termination of Section
 
 <i>For termination of section by section 107 of Pub. L. 107–250, see Effective and Termination Dates note set out below.</i>
+
+#### Amendments
+
+2004—Pub. L. 108–214, §2(d)(3)(A), made technical correction to directory language of Pub. L. 107–250, §102(a), which enacted this section.
+
+Par. (4)(B). Pub. L. 108–214, §2(a)(1)(A), substituted “and for which substantial clinical data are necessary to provide a reasonable assurance of safety and effectiveness” for “and for which clinical data are generally necessary to provide a reasonable assurance of safety and effectiveness”.
+
+Par. (4)(D). Pub. L. 108–214, §2(a)(1)(B), struck out “manufacturing,” after “software,”.
+
+Par. (5)(J). Pub. L. 108–214, §2(a)(1)(C), substituted “a premarket application or premarket report under section 360e of this title or a premarket application under section 262 of title 42.” for “a premarket application under section 360e of this title or section 262 of title 42.”
+
+Par. (8). Pub. L. 108–214, §2(a)(1)(D), substituted “The term ‘affiliate’ means a business entity that has a relationship with a second business entity (whether domestic or international)” for “The term ‘affiliate’ means a business entity that has a relationship with a second business entity”.
 
 #### Effective and Termination Dates
 
@@ -135,8 +147,4 @@ In General.—In developing recommendations to the Congress for the goals and pl
 “(b)
 
 Recommendations.—The Secretary shall publish in the Federal Register recommendations under subsection (a), after negotiations with the regulated industry; shall present such recommendations to the congressional committees specified in such paragraph; shall hold a meeting at which the public may present its views on such recommendations; and shall provide for a period of 30 days for the public to provide written comments on such recommendations.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 360e of this title.
 

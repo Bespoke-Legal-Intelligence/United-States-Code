@@ -42,7 +42,7 @@ Higher Penalty Amounts.—(1)(A) The Secretary of Transportation shall prescribe
 
 &emsp;(C) experts and consultants that provided information to a person that the person includes, or refers to, in an oral presentation.
 
-(3) The Secretary may restrict the questions of an interested person and the Commission when the Secretary decides that the questionsare duplicative or not likely to result in a timely and effective resolution of the issues. A transcript shall be kept of a public hearing under this subsection. A copy of the transcript and written comments shall be available to the public at the cost of reproduction.
+(3) The Secretary may restrict the questions of an interested person and the Commission when the Secretary decides that the questions are duplicative or not likely to result in a timely and effective resolution of the issues. A transcript shall be kept of a public hearing under this subsection. A copy of the transcript and written comments shall be available to the public at the cost of reproduction.
 
 (4) The Secretary shall publish a regulation prescribed under this subsection in the Federal Register with the decisions required under paragraph (1) of this subsection.
 
@@ -111,8 +111,4 @@ In subsection (c)(1)(C), the words “the later of” and the text of 15:2008(d)
 In subsection (c)(2), before clause (A), the words “After the Secretary of Transportation develops a proposed rule pursuant to subsection (d) of this section” are omitted as surplus. In clause (B), the words “written comments or an oral presentation” are substituted for “written or oral presentations” for consistency in the section. The text of 15:2008(e)(1)(B) (last sentence) and (C) is omitted as surplus because of 5:556(d).
 
 In subsection (c)(5), before clause (A), the words “department, agency, or instrumentality” are substituted for “department or agency” for consistency in the revised title and with other titles of the United States Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 32909, 32913, 32914, 32915 of this title.
 

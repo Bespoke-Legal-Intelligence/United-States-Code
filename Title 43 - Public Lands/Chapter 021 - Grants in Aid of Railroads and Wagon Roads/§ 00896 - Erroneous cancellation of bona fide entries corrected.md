@@ -4,7 +4,3 @@ If, in the adjustment of said grants, it shall appear that the homestead or pree
 
 (Mar. 3, 1887, ch. 376, §3, 24 Stat. 557.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 897, 903, 906 of this title.
-

@@ -36,9 +36,5 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title V, §571\], Sept. 30, 1996,
 
 Pub. L. 104–107, title V, §576(b), Feb. 12, 1996, 110 Stat. 750.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5721 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

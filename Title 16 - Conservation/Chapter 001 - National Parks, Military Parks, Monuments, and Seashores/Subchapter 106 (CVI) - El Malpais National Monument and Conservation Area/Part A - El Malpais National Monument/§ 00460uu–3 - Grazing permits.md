@@ -10,7 +10,3 @@ Where any lands included within the boundary of the monument on the map referred
 
 (Pub. L. 100–225, title I, §104, Dec. 31, 1987, 101 Stat. 1540.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460uu–45 of this title.
-

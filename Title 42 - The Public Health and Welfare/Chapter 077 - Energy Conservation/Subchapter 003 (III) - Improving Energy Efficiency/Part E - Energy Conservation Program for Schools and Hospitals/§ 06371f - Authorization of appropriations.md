@@ -10,7 +10,3 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 1990—Pub. L. 101–440 amended section generally, substituting provisions authorizing appropriations for fiscal years 1991 through 1993 for provisions authorizing appropriations for fiscal years ending Sept. 30, 1978, Sept. 30, 1979, and Sept. 30, 1980.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6371g of this title.
-

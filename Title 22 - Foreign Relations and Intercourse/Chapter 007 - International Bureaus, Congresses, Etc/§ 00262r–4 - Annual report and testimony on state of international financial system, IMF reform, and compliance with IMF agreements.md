@@ -10,17 +10,21 @@ After submitting the report required by subsection (a) of this section but not l
 
 &emsp;(1) any progress made in reforming the International Monetary Fund;
 
-&emsp;(2) the status of efforts to reform the international financial system; and
+&emsp;(2) the status of efforts to reform the international financial system;
 
-&emsp;(3) the compliance of countries which have received assistance from the International Monetary Fund with agreements made as a condition of receiving the assistance.
+&emsp;(3) the compliance of countries which have received assistance from the International Monetary Fund with agreements made as a condition of receiving the assistance; and
 
-(Pub. L. 95–118, title XVII, §1705, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §613\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–230; amended Pub. L. 106–200, title IV, §404(c), May 18, 2000, 114 Stat. 292; Pub. L. 106–429, §101(a) \[title VIII, §803(c)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–67.)
+&emsp;(4) the status of implementation of international anti-money laundering and counterterrorist financing standards by the International Monetary Fund, the multilateral development banks, and other multilateral financial policymaking bodies.
+
+(Pub. L. 95–118, title XVII, §1705, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §613\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–230; amended Pub. L. 106–200, title IV, §404(c), May 18, 2000, 114 Stat. 292; Pub. L. 106–429, §101(a) \[title VIII, §803(c)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–67; Pub. L. 108–458, title VII, §7703(b), Dec. 17, 2004, 118 Stat. 3860.)
 
 #### References in Text
 
 Section 801(c)(1)(B) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2001, referred to in subsec. (a)(2), is section 801(c)(1)(B) of Pub. L. 106–429, §101(a) \[title VIII\], Nov. 6, 2000, 114 Stat. 1900, 1900A–65, which is not classified to the Code.
 
 #### Amendments
+
+2004—Subsec. (b)(4). Pub. L. 108–458 added par. (4).
 
 2000—Subsec. (a). Pub. L. 106–429 inserted “(1)” after “a written report on” and inserted before period at end “, and (2) the progress made by the International Monetary Fund in adopting and implementing the policies described in section 801(c)(1)(B) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2001”.
 

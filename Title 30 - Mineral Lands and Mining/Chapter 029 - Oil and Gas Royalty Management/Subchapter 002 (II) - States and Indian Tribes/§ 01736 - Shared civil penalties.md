@@ -4,7 +4,3 @@ An amount equal to 50 per centum of any civil penalty collected by the Federal G
 
 (Pub. L. 97–451, title II, §206, Jan. 12, 1983, 96 Stat. 2460.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 196, 1731a of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—STATE OR REGIONAL SOLID WASTE PLANS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6903, 6907, 6916, 6986 of this title; title 25 section 3902.
-
 <i><sup>1</sup></i><i> So in original. Probably should be singular.</i>
 
 

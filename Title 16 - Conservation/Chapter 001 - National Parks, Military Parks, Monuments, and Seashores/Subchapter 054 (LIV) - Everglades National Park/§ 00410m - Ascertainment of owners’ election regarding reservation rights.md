@@ -4,7 +4,3 @@ In acquiring any of the land or water within the area described in section 410i 
 
 (Pub. L. 85–482, §5, July 2, 1958, 72 Stat. 285.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410j, 410p of this title.
-

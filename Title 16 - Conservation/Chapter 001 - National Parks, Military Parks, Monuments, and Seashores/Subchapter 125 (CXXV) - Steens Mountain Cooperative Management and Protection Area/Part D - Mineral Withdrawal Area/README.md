@@ -1,9 +1,5 @@
 Part D—Mineral Withdrawal Area
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 460nnn, 460nnn–1, 460nnn–11 of this title.
-
 
 ---
 

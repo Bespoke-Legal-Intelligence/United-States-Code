@@ -34,7 +34,3 @@ A recipient preparing a report under this section shall make the report publicly
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4163, 4165 of this title.
-

@@ -22,7 +22,7 @@ Application for reimbursement under this section shall be made in such manner as
 
 No State is eligible for reimbursement under this section unless the Secretary finds that the costs, for which reimbursement is sought, have been incurred by the State as follows:
 
-&emsp;(1) If reimbursement is sought under subsection (a)(1) of this section, such costs havebeen incurred in developing a conservation plan that meets the requirements set forth in section 2903 of this title.
+&emsp;(1) If reimbursement is sought under subsection (a)(1) of this section, such costs have been incurred in developing a conservation plan that meets the requirements set forth in section 2903 of this title.
 
 &emsp;(2) If reimbursement is sought under subsection (a)(2) of this section, such costs have been incurred in revising the plan in a manner consistent with such requirements.
 
@@ -82,7 +82,7 @@ Subject to the limitations in subsection (c) and the terms and conditions impose
 
 &emsp;(ii) not include any other Federal moneys received by such State and applied by it, directly or indirectly, for such purposes.
 
-(B) For purposes of subparagraph (A), inkind contributions may be in the form of, but are not limited to, personal services rendered by volunteers in carrying out surveys, censuses, andother scientific studies regarding fish and wildlife. The Secretary shall by regulation establish (i) the training experience, and other qualifications which such volunteers must have in order for their services to be considered as inkind contributions; and (ii) the standards under which the Secretary will determine the value of inkind contributions and real and personal property for purposes of subparagraph (A).
+(B) For purposes of subparagraph (A), inkind contributions may be in the form of, but are not limited to, personal services rendered by volunteers in carrying out surveys, censuses, and other scientific studies regarding fish and wildlife. The Secretary shall by regulation establish (i) the training experience, and other qualifications which such volunteers must have in order for their services to be considered as inkind contributions; and (ii) the standards under which the Secretary will determine the value of inkind contributions and real and personal property for purposes of subparagraph (A).
 
 (C) Any valuation determination made by the Secretary for purposes of this paragraph shall be final and conclusive.
 
@@ -95,8 +95,4 @@ The Pittman-Robertson Wildlife Restoration Act, referred to in subsecs. (a)(5) a
 The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (a)(5) and (c)(5), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
 
 16 U.S.C 777c(a)(1), referred to in subsecs. (a)(5) and (c)(5), probably is a reference to section 6(a)(1) of act Aug. 9, 1950, ch. 658, 64 Stat. 432, which is classified to section 777e(a)(1) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2904, 2906, 2907, 2910 of this title.
 

@@ -6,7 +6,7 @@
 
 (c) All expenditures of the Court shall be allowed and paid upon presentation of itemized vouchers signed by the certifying officer designated by the chief judge. Except as provided in section 7285 of this title, all such expenditures shall be paid out of moneys appropriated for purposes of the Court.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4118, §4082; renumbered §7282 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4118, §4082; renumbered§7282 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §3707A. Hybrid adjustable rate mortgages
 
-(a) The Secretary shall carry out a demonstration project under this section during fiscal years 2004 and 2005 for the purpose of guaranteeing loans in a manner similar to the manner in which the Secretary of Housing and Urban Development insures adjustable rate mortgages under section 251 of the National Housing Act in accordance with the provisions of this section with respect to hybrid adjustable rate mortgages described in subsection (b).
+(a) The Secretary shall carry out a demonstration project under this section during fiscal years 2004 through 2008 for the purpose of guaranteeing loans in a manner similar to the manner in which the Secretary of Housing and Urban Development insures adjustable rate mortgages under section 251 of the National Housing Act in accordance with the provisions of this section with respect to hybrid adjustable rate mortgages described in subsection (b).
 
 (b) Adjustable rate mortgages that are guaranteed under this section shall be adjustable rate mortgages (commonly referred to as “hybrid adjustable rate mortgages”) having interest rate adjustment provisions that—
 
@@ -16,9 +16,15 @@
 
 &emsp;(2) be made by adjusting the monthly payment on an annual basis;
 
-&emsp;(3) be limited, with respect to any single annual interest rate adjustment, to a maximum increase or decrease of 1 percentage point; and
+&emsp;(3) in the case of the initial contract interest rate adjustment—
 
-&emsp;(4) be limited, over the term of the mortgage, to a maximum increase of 5 percentage points above the initial contract interest rate.
+&emsp;&emsp;(A) if the initial contract interest rate remained fixed for less than 5 years, be limited to a maximum increase or decrease of 1 percentage point; or
+
+&emsp;&emsp;(B) if the initial contract interest rate remained fixed for 5 years or more, be limited to a maximum increase or decrease of such percentage point or points as the Secretary may prescribe;
+
+&emsp;(4) in the case of any single annual interest rate adjustment after the initial contract interest rate adjustment, be limited to a maximum increase or decrease of 1 percentage point; and
+
+&emsp;(5) be limited, over the term of the mortgage, to a maximum increase of such number of percentage points as the Secretary shall prescribe for purposes of this section.
 
 (d) The Secretary shall promulgate underwriting standards for loans guaranteed under this section, taking into account—
 
@@ -32,9 +38,23 @@
 
 (e) The Secretary shall require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first five years of the mortgage term.
 
-(Added Pub. L. 107–330, title III, §303(a), Dec. 6, 2002, 116 Stat. 2825.)
+(Added Pub. L. 107–330, title III, §303(a), Dec. 6, 2002, 116 Stat. 2825; amended Pub. L. 108–454, title IV, §405(a), (b), Dec. 10, 2004, 118 Stat. 3616.)
 
 #### References in Text
 
 The National Housing Act, referred to in subsecs. (a) and (d)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. Section 251 of the Act is classified to section 1715z–16 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–454, §405(a), substituted “during fiscal years 2004 through 2008” for “during fiscal years 2004 and 2005”.
+
+Subsec. (c)(3). Pub. L. 108–454, §405(b)(2), added par. (3) and struck out former par. (3) which read as follows: “be limited, with respect to any single annual interest rate adjustment, to a maximum increase or decrease of 1 percentage point; and”.
+
+Subsec. (c)(4). Pub. L. 108–454, §405(b)(2), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (c)(5). Pub. L. 108–454, §405(b)(1), (3), redesignated par. (4) as (5) and substituted “such number of percentage points as the Secretary shall prescribe for purposes of this section” for “5 percentage points above the initial contract interest rate”.
+
+#### No Effect on Guarantee of Loans Under Hybrid Adjustable Rate Mortgage Guarantee Demonstration Project
+
+Pub. L. 108–454, title IV, §405(c), Dec. 10, 2004, 118 Stat. 3616, provided that: “The amendments made by this section \[amending this section\] shall not be construed to affect the force or validity of any guarantee of a loan made by the Secretary of Veterans Affairs under the demonstration project for the guarantee of hybrid adjustable rate mortgages under section 3707A of title 38, United States Code, as in effect on the day before the date of the enactment of this Act \[Dec. 10, 2004\].”
 

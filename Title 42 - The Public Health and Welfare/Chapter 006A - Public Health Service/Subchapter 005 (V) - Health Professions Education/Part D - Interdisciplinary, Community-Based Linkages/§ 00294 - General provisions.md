@@ -32,7 +32,3 @@ Another prior section 294, act July 1, 1944, ch. 373, title VII, §740, as added
 
 A prior section 750 of act July 1, 1944, was classified to section 293n of this title prior to repeal by Pub. L. 105–392.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 295j of this title.
-

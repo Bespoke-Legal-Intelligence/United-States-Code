@@ -32,7 +32,7 @@ The Secretary shall monitor the performance of each enterprise in carrying out t
 
 #### (2) Interim goal
 
-&emsp;During such 2-year period, the Secretary shall establish a separate annual goal for each enterprise, the achievement of which shall require—
+&emsp;During such 2-year period, the Secretary shall establish a separate annual goal for eachenterprise, the achievement of which shall require—
 
 &emsp;&emsp;(A) an enterprise that is not meeting the target under paragraph (1) upon January 1, 1993, to improve its performance relative to such target annually and, to the maximum extent feasible, to meet such target at the conclusion of such 2-year period; and
 
@@ -50,7 +50,7 @@ The Secretary shall monitor the performance of each enterprise in carrying out t
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIII of Pub. L.102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
 The Federal National Mortgage Association Charter Act, referred to in subsec. (a), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, as amended, which is classified generally to subchapter III (§1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
 
@@ -59,8 +59,4 @@ The Federal Home Loan Mortgage Corporation Act, referred to in subsec. (a), is t
 #### Effective Date
 
 Housing goals established under subsec. (d) of this section effective Jan. 1, 1993, see section 1338 of Pub. L. 102–550, set out as a note under section 4562 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4544, 4561, 4565, 4566, 4567, 4589 of this title.
 

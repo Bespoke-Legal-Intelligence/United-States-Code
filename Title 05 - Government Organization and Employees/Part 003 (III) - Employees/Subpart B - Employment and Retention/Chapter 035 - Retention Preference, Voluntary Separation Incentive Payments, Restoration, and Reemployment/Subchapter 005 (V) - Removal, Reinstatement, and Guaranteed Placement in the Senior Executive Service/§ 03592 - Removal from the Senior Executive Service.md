@@ -44,7 +44,7 @@ Subsec. (a)(3). Pub. L. 101–194, §506(b)(3)(A)–(C), added par. (3).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1989 Amendment
 
@@ -57,8 +57,4 @@ Pub. L. 107–296, title XIII, §1321(b), Nov. 25, 2002, 116 Stat. 2297, provide
 &emsp;“(1) shall not abate by reason of the enactment of the amendments made by subsection (a)(2)(A); and
 
 &emsp;“(2) shall continue as if such amendments had not been enacted.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3151, 3393, 7542 of this title; title 10 section 1606; title 31 section 733.
 

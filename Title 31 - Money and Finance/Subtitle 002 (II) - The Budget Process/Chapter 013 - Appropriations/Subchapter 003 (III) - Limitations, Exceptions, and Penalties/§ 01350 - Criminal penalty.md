@@ -20,7 +20,3 @@ R.S. §3679(i)(1)(words after semicolon related to (a), (b)); Mar. 3, 1905, ch. 
 
 The words “District of Columbia government” are added because of section 47–105 of the D.C. Code. The words “upon conviction” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 60a–2; title 5 section 5306; title 22 sections 277d–3, 1461b; title 42 sections 2204, 2204a, 2210, 2295, 2394.
-

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The plan sponsor of each group health plan shall provide, in accordance with this part, that each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled, under the plan, to elect, within the election period, continuation coverage under the plan.
+The plan sponsor of each group health plan shall provide, in accordance with this part, that each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled, under the plan, to elect, withinthe election period, continuation coverage under the plan.
 
 #### (b) Exception for certain plans
 
@@ -39,8 +39,4 @@ Special rule for collective bargaining agreements.—In the case of a group heal
 &emsp;“(B) January 1, 1987.
 
 > For purposes of subparagraph (A), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1162 of this title.
 

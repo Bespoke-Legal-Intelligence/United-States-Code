@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(D) the government of the District of Columbia;
 
-&emsp;(2) “public official” means an officer (including the President and a Member of Congress), a member of the uniformed service, an employee and any other individual, in whom is vested the authority by law, rule, or regulation, or to whom the authority has been delegated, to appoint, employ, promote, or advance individuals, or to recommend individuals for appointment, employment, promotion, or advancement in connection with employment in an agency; and
+&emsp;(2) “public official” means an officer (including the President and a Member of Congress), a member of the uniformed service, an employee and any other individual, in whom isvested the authority by law, rule, or regulation, or to whom the authority has been delegated, to appoint, employ, promote, or advance individuals, or to recommend individuals for appointment, employment, promotion, or advancement in connection with employment in an agency; and
 
 &emsp;(3) “relative” means, with respect to a public official, an individual who is related to the public official as father, mother, son, daughter, brother, sister, uncle, aunt, first cousin, nephew, niece, husband, wife, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, or half sister.
 
@@ -43,8 +43,4 @@ Section 220(a)(1) of title II of Pub. L. 90–206 provided, except as otherwise 
 Section 221(c) of Pub. L. 90–206 provided that: “The amendments made by this section \[enacting this section\] do not apply to an appointment, employment, advancement, or promotion made or advocated by a public official of any individual who is a relative of the public official if, prior to the effective date of this section \[see Effective Date note above\], the individual was appointed by the public official, or received an appointment advocated by the public official, and is serving under the appointment on such effective date.”
 
 \[Section 221(c) of Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as an Effective Date note above.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2302 of this title; title 39 section 410.
 

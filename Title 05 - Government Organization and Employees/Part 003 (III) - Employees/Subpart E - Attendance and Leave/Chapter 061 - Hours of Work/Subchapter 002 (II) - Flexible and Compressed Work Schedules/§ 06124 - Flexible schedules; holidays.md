@@ -4,7 +4,3 @@ Notwithstanding sections 6103 and 6104 of this title, if any employee on a flexi
 
 (Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 229.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6121, 6132 of this title.
-

@@ -42,7 +42,3 @@ Section is comprised of subsecs. (a) to (e) of section 119 of Pub. L. 96–254. 
 
 Reference to Veterans’ Administration deemed to refer to Department of Veterans Affairs pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1007, 1012 of this title.
-

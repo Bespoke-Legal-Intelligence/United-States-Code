@@ -12,7 +12,7 @@
 
 (2) No person serving in the active military, naval, or air service may be transferred pursuant to an agreement made under paragraph (1) of this subsection unless such person requests such transfer in writing for a specified period of time. No such person transferred pursuant to such a request may be furnished such care and services by the Secretary beyond the period of time specified in such request unless such person requests in writing an extension for a further specified period of time and such request is approved by the Secretary.
 
-(d)(1) The Secretary shall ensure that each medical center of the Department develops and carries out a plan to provide treatment for substance use disorders, either through referral or direct provision of services, to veterans who require such treatment.
+(d)(1) The Secretary shall ensure that each medical center of the Department develops andcarries out a plan to provide treatment for substance use disorders, either through referral or direct provision of services, to veterans who require such treatment.
 
 (2) Each plan under paragraph (1) shall make available clinically proven substance abuse treatment methods, including opioid substitution therapy, to veterans with respect to whom a qualified medical professional has determined such treatment methods to be appropriate.
 
@@ -186,7 +186,7 @@ Loan Program.—The Secretary of Veterans Affairs may make loans in accordance w
 
 “(b)
 
-Loan Recipients.—A loan under this section may only be made to a nonprofit organization under selection criteria promulgated by the Secretary and only to assist that organization in leasing housing units for use as a group residence for the purposes described in subsection (a). The amount of such a loan that is used with respect to any single residential unit may not exceed $4,500. In making loans under this subsection, the Secretary shall, except to the extent that the Secretary determines that it is infeasible to do so, ensure that—
+Loan Recipients.—A loan under this section may only be made to a nonprofit organization under selection criteria promulgated by the Secretary and onlyto assist that organization in leasing housing units for use as a group residence for the purposes described in subsection (a). The amount of such a loan that is used with respect to any single residential unit may not exceed $4,500. In making loans under this subsection, the Secretary shall, except to the extent that the Secretary determines that it is infeasible to do so, ensure that—
 
 &emsp;“(1) each loan is repaid within two years after the date on which the loan is made;
 
@@ -231,8 +231,4 @@ Pub. L. 100–690, title II, §2501, Nov. 18, 1988, 102 Stat. 4232, directed Adm
 #### Ratification for Lapsed Period
 
 Section 502(a)(2) of Pub. L. 100–689 ratified actions by the Administrator of Veterans’ Affairs in providing, during the period beginning Oct. 1, 1988, and ending Nov. 18, 1988, for care and treatment and rehabilitative services under this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1703 of this title; title 29 section 2913.
 

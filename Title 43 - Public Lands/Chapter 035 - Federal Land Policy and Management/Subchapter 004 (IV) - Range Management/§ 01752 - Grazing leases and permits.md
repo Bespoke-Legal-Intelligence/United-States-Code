@@ -28,7 +28,7 @@ In all cases where the Secretary concerned has not completed an allotment manage
 
 #### (f) Allotment management plan applicability to non-Federal lands; appeal rights
 
-Allotment management plans shall not refer to livestock operations or range improvements on non-Federal lands except where the non-Federal lands are intermingled with, or, with the consent of the permittee or lessee involved, associated with, the Federal lands subject to the plan. The Secretary concerned under appropriate regulations shall grant to lessees and permittees the right of appeal from decisions which specify the terms and conditions of allotment management plans. The preceding sentence ofthis subsection shall not be construed as limiting any other right of appeal from decisions of such officials.
+Allotment management plans shall not refer to livestock operations or range improvements on non-Federal lands except where the non-Federal lands are intermingled with, or, with the consent of the permittee or lessee involved, associated with, the Federal lands subject to the plan. The Secretary concerned under appropriate regulations shall grant to lessees and permittees the right of appeal from decisions which specify the terms and conditions of allotment management plans. The preceding sentence of this subsection shall not be construed as limiting any other right of appeal from decisions of such officials.
 
 #### (g) Cancellation of permit or lease; determination of reasonable compensation; notice
 
@@ -95,8 +95,4 @@ Pub. L. 97–100, title I, Dec. 23, 1981, 95 Stat. 1393.
 Pub. L. 96–514, title I, Dec. 12, 1980, 94 Stat. 2959.
 
 Pub. L. 96–126, title I, Nov. 27, 1979, 93 Stat. 956.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 460iii–3; title 25 section 640d–26.
 

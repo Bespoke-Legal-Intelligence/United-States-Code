@@ -2,7 +2,7 @@
 
 #### (a) Continuing participation
 
-Each Indian tribe that is participating in the Tribal Self-Governance Demonstration Project under title III <sup>1</sup> on August 18, 2000, may elect toparticipate in self-governance under this part under existing authority as reflected in tribal resolution.
+Each Indian tribe that is participating in the Tribal Self-Governance Demonstration Project under title III <sup>1</sup> on August 18, 2000, may elect to participate in self-governance under this part under existing authority as reflected in tribal resolution.
 
 #### (b) Additional participants
 
@@ -64,15 +64,11 @@ Receipt of a grant under subsection (e) of this section shall not be a requireme
 
 #### References in Text
 
-Title III, referred to in subsec. (a), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296, and amended, which was set out as a note under section 450f of this title prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
+Title III, referred to in subsec. (a), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209,Oct. 5, 1988, 102 Stat. 2296, and amended, which was set out as a note under section 450f of this title prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
 
 #### Codification
 
 Another section 503 of Pub. L. 93–638, as added by Pub. L. 106–568, title XIII, §1302, Dec. 27, 2000, 114 Stat. 2938, is classified to section 458bbb–2 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 458aaa–6 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

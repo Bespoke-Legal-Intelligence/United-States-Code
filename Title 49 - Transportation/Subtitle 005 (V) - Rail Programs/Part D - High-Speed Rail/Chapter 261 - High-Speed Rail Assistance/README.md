@@ -14,10 +14,6 @@
 
 A prior chapter 261, consisting of sections 26101 and 26102, was renumbered chapter 281 of this title by Pub. L. 103–440, title I, §103(a)(1), Nov. 2, 1994, 108 Stat. 4616.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 24301 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 

@@ -10,7 +10,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (A) Establishment
 
-&emsp;&emsp;The order shall provide for the establishment of a Fresh Cut Flowers and Fresh Cut Greens Promotion Council, consisting of 25 members, to administer the order.
+&emsp;&emsp;The order shall provide for the establishment of a Fresh Cut Flowers and Fresh CutGreens Promotion Council, consisting of 25 members, to administer the order.
 
 #### (B) Membership
 
@@ -108,7 +108,7 @@ An order shall contain the terms and provisions specified in this section.
 
 &emsp;&emsp;&emsp;(ii) 2 of the retailer appointments shall be made by traditional retail florist organizations, in accordance with regulations issued by the Secretary;
 
-&emsp;&emsp;(D) nominations for each appointment of a representative of persons who produce fresh cut flowers and fresh cut greens shall be made by the persons through an election process, in accordance with regulations issued by the Secretary; and
+&emsp;&emsp;(D) nominations for each appointment of a representative of persons who produce fresh cut flowers and fresh cut greens shall be made by the persons through an electionprocess, in accordance with regulations issued by the Secretary; and
 
 &emsp;&emsp;(E) in any case in which qualified wholesale handlers, producers that are qualified handlers, importers that are qualified handlers, persons who produce fresh cut flowers and fresh cut greens, or retailers fail to nominate individuals for an appointment to the PromoFlor Council, the Secretary may appoint an individual to fill the vacancy on a basis provided in the order or other regulations of the Secretary.
 
@@ -288,7 +288,7 @@ The order shall define the general responsibilities of the PromoFlor Council, wh
 
 #### (g) Control of administrative costs
 
-The order shall provide that the PromoFlor Council shall, as soon as practicable after the order becomes effective and after consultation with the Secretary and other appropriate persons, implement a system of cost controls based on normally accepted business practices that will ensure that the annual budgets of the PromoFlor Council include only amounts for administrative expenses that cover the minimum administrative activities and personnel needed to properly administer and enforce the order, and conduct, supervise, and evaluate plans and projects under the order.
+The order shall provide that the PromoFlor Council shall, as soon as practicable after theorder becomes effective and after consultation with the Secretary and other appropriate persons, implement a system of cost controls based on normally accepted business practices that will ensure that the annual budgets of the PromoFlor Council include only amounts for administrative expenses that cover the minimum administrative activities and personnel needed to properly administer and enforce the order, and conduct, supervise, and evaluate plans and projects under the order.
 
 #### (h) Assessments
 
@@ -434,7 +434,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The time period of a postponement and the terms and conditions of the payment of each assessment that is postponed under this paragraph shall be established by the PromoFlor Council, in accordance with rules established under the procedures specified in subparagraph (A)(ii), so as to appropriately reflect the demonstrated needs of the qualified handler.
+&emsp;&emsp;&emsp;The time period of a postponement and the terms and conditions of the paymentof each assessment that is postponed under this paragraph shall be established by the PromoFlor Council, in accordance with rules established under the procedures specified in subparagraph (A)(ii), so as to appropriately reflect the demonstrated needs of the qualified handler.
 
 #### (ii) Extensions
 
@@ -511,8 +511,4 @@ The order shall contain such other terms and provisions, consistent with this ch
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6802, 6806, 6810 of this title.
 

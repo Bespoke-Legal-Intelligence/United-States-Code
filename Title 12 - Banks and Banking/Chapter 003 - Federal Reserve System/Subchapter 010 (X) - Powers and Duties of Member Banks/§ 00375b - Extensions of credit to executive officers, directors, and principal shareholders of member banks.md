@@ -48,7 +48,7 @@ A member bank may extend credit to any executive officer, director, or principal
 
 #### (C) Board may make exceptions for certain banks
 
-&emsp;The Board may, by regulation, make exceptions to subparagraph (A) for member banks with less than $100,000,000 in deposits if theBoard determines that the exceptions are important to avoid constricting the availability of credit in small communities or to attract directors to such banks. In no case may the aggregate amount of all outstanding extensions of credit to a bank's executive officers, directors, principal shareholders, and those persons’ related interests be more than 2 times the bank's unimpaired capital and unimpaired surplus.
+&emsp;The Board may, by regulation, make exceptions to subparagraph (A) for member banks with less than $100,000,000 in deposits if the Board determines that the exceptions are important to avoid constricting the availability of credit in small communities or to attract directors to such banks. In no case may the aggregate amount of all outstanding extensions of credit to a bank's executive officers, directors, principal shareholders, and those persons’ related interests be more than 2 times the bank's unimpaired capital and unimpaired surplus.
 
 #### (6) Overdrafts by executive officers and directors prohibited
 
@@ -233,8 +233,4 @@ Section 306(n) of Pub. L. 102–242 provided that: “The amendments made by thi
 #### Reporting of Credit by Executive Officers and Directors
 
 Section 306(<i>o</i>) of Pub. L. 102–242 provided that: “An executive officer or director of an insured depository institution, a bank holding company, or a savings and loan holding company, the shares of which are not publicly traded, shall report annually to the board of directors of the institution or holding company the outstanding amount of any credit that was extended to such executive officer or director and that is secured by shares of the institution or holding company.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 503, 504, 1468, 1828, 1831<i>o</i>, 1843, 1972 of this title; title 15 section 78m.
 

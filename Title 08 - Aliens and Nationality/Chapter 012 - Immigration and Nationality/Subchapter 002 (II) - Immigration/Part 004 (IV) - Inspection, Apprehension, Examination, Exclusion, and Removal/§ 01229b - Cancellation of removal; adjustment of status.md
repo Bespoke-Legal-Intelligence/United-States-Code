@@ -72,7 +72,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 #### (B) Duration of parole
 
-&emsp;&emsp;The grant of parole shall extend from the time of the grant of relief under subsection (b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to the time the application for adjustment of status filed by aliens covered under this paragraph has been finally adjudicated. Applications for adjustment of status filed by aliens covered under this paragraph shall be treated as if they were applications filed under section 1154(a)(1)(A)(iii), (A)(iv), (B)(ii), or (B)(iii) of this title for purposes of section 1255 (a) and\(c) of this title. Failure by the alien granted relief under subsection (b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to exercise due diligence in filing a visa petition on behalf of an alien described in clause (i) or (ii) may result in revocation of parole.
+&emsp;&emsp;The grant of parole shall extend from the time of the grant of relief under subsection (b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to the time the application for adjustment of status filed by aliens covered under this paragraph has been finally adjudicated. Applications for adjustment of status filed by aliens covered under this paragraph shall be treated as if they were applications filed under section 1154(a)(1)(A)(iii), (A)(iv), (B)(ii), or (B)(iii) of this title for purposes of section 1255 (a) and (c) of this title. Failure by the alien granted relief under subsection (b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to exercise due diligence in filing a visa petition on behalf of an alien described in clause (i) or (ii) may result in revocation of parole.
 
 #### (c) Aliens ineligible for relief
 
@@ -122,7 +122,7 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 #### (2) Fiscal year 1997
 
-&emsp;For fiscal year 1997, paragraph (1) shall only apply to decisions to cancel the removal of an alien, or suspend the deportation of an alien, made after April 1, 1997. Notwithstanding any other provision of law, the Attorney General may cancel the removal or suspend the deportation, in addition to the normal allotment for fiscal year 1998, of a number of aliens equal to 4,000 less the number of such cancellations of removal and suspensions of deportation granted in fiscal year 1997 after April 1, 1997.
+&emsp;For fiscal year 1997, paragraph (1) shall only apply to decisions to cancel the removal of an alien, or suspend the deportation of an alien, made after April 1, 1997. Notwithstanding anyother provision of law, the Attorney General may cancel the removal or suspend the deportation, in addition to the normal allotment for fiscal year 1998, of a number of aliens equal to 4,000 less the number of such cancellations of removal and suspensions of deportation granted in fiscal year 1997 after April 1, 1997.
 
 #### (3) Exception for certain aliens
 
@@ -132,7 +132,7 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 &emsp;&emsp;(B) Aliens in deportation proceedings prior to April 1, 1997, who applied for suspension of deportation under section 1254(a)(3) of this title (as in effect before September 30, 1996).
 
-(June 27, 1952, ch. 477, title II, ch. 4, §240A, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–594; amended Pub. L. 105–100, title II, §204(a)–(c), Nov. 19, 1997, 111Stat. 2200, 2201; Pub. L. 106–386, div. B, title V, §§1504(a), (b), 1505(b)(2), 1506(b)(1), Oct. 28, 2000, 114 Stat. 1522, 1524, 1525, 1527.)
+(June 27, 1952, ch. 477, title II, ch. 4, §240A, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–594; amended Pub. L. 105–100, title II, §204(a)–(c), Nov. 19, 1997, 111 Stat. 2200, 2201; Pub. L. 106–386, div. B, title V, §§1504(a), (b), 1505(b)(2), 1506(b)(1), Oct. 28, 2000, 114 Stat. 1522, 1524, 1525, 1527.)
 
 #### References in Text
 
@@ -191,8 +191,4 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 #### Definitions
 
 For definition of the term “removable” used in subsec. (d)(1), see section 1229a(e) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1101, 1151, 1229a, 1229c, 1252, 1254a, 1367, 1534, 1641 of this title.
 

@@ -80,7 +80,3 @@ In subsection (a), before clause (1), the word “title” is substituted for �
 
 In subsection (c), the words “negotiable bill of lading” are substituted for “order bill . . . the negotiation of which would transfer the right to the possession of the goods” in 49 App.:91 for consistency in this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80110 of this title.
-

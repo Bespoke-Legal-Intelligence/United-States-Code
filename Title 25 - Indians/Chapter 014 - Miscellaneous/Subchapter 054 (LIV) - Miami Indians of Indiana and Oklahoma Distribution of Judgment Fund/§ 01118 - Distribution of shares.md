@@ -10,7 +10,3 @@ A share payable to a person under twenty-one years of age or to a person under l
 
 (Pub. L. 89–659, §8, Oct. 14, 1966, 80 Stat. 910.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1116, 1117 of this title.
-

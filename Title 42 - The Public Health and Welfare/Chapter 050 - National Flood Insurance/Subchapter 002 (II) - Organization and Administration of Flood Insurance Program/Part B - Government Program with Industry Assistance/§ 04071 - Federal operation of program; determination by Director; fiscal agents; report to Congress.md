@@ -4,7 +4,7 @@
 
 &emsp;(1) insurance companies and other insurers, insurance agents and brokers, and insurance adjustment organizations, as fiscal agents of the United States,
 
-&emsp;(2) such other officers and employees of any executive agency (as defined in section 105 of title 5) as the Director and the head of any such agency may from time to time, agree upon, on a reimbursement or other basis, or
+&emsp;(2) such other officers and employees of any executive agency (as defined in section 105 oftitle 5) as the Director and the head of any such agency may from time to time, agree upon, on a reimbursement or other basis, or
 
 &emsp;(3) both the alternatives specified in paragraphs (1) and (2).
 
@@ -28,7 +28,7 @@ This chapter, referred to in subsec. (a), is title XIII of Pub. L. 90–448, Aug
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–137 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Upon making the determination referred to in subsection (a) of this section, and at least thirty days prior to implementing the program of flood insurance authorized under subchapter I of this chapter throughthe facilities of the Federal Government, the Director shall make a report to the Congress and such report shall—
+1989—Subsec. (b). Pub. L. 101–137 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Upon making the determination referred to in subsection (a) of this section, and at least thirty days prior to implementing the program of flood insurance authorized under subchapter I of this chapter through the facilities of the Federal Government, the Director shall make a report to the Congress and such report shall—
 
 &emsp;“(1) state the reasons for such determination,
 
@@ -49,8 +49,4 @@ Subsec. (b). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Se
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4017, 4041, 4072 of this title.
 

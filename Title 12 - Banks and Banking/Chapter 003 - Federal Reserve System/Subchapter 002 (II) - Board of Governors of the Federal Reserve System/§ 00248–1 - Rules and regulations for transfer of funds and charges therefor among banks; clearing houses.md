@@ -20,7 +20,3 @@ Section 203(a) of act Aug. 23, 1935, changed the name of the Federal Reserve Boa
 
 Amendment by Pub. L. 96–221 effective on first day of sixth month which begins after Mar. 31, 1980, see section 108 of Pub. L. 96–221, set out as a note under section 248 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 348, 461 of this title.
-

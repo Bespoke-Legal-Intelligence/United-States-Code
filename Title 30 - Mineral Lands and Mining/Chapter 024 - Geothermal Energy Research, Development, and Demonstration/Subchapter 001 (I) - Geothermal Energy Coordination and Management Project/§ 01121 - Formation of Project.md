@@ -76,7 +76,3 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 Federal Energy Administration terminated and all functions transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1102 of this title.
-

@@ -14,7 +14,3 @@ Any land acquired by the Secretary under this subchapter on which there is situa
 
 (Pub. L. 89–668, §11, Oct. 15, 1966, 80 Stat. 925.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460s–6 of this title.
-

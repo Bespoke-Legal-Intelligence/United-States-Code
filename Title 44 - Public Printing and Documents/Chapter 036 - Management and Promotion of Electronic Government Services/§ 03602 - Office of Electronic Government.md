@@ -66,7 +66,7 @@
 
 &emsp;(9) Sponsor ongoing dialogue that—
 
-&emsp;&emsp;(A) shall be conducted among Federal, State, local, and tribal government leaders on electronic Government in the executive, legislative, and judicial branches, as well as leaders in the private and nonprofit sectors, to encourage collaboration and enhance understanding of best practices and innovative approaches in acquiring, using, and managing information resources;
+&emsp;&emsp;(A) shall be conducted among Federal, State, local, and tribal government leaders on electronic Government in the executive,legislative, and judicial branches, as well as leaders in the private and nonprofit sectors, to encourage collaboration and enhance understanding of best practices and innovative approaches in acquiring, using, and managing information resources;
 
 &emsp;&emsp;(B) is intended to improve the performance of governments in collaborating on the use of information technology to improve the delivery of Government information and services; and
 
@@ -104,7 +104,7 @@
 
 &emsp;(17) Assist the Director in preparing the E-Government report established under section 3606.
 
-(g) The Director shall ensure that the Office of Management and Budget, including the Office of Electronic Government, the Office of Information and Regulatory Affairs, and other relevantoffices, have adequate staff and resources to properly fulfill all functions under the E-Government Act of 2002.
+(g) The Director shall ensure that the Office of Management and Budget, including the Office of Electronic Government, the Office of Information and Regulatory Affairs, and other relevant offices, have adequate staff and resources to properly fulfill all functions under the E-Government Act of 2002.
 
 (Added Pub. L. 107–347, title I, §101(a), Dec. 17, 2002, 116 Stat. 2902.)
 
@@ -115,8 +115,4 @@ The E-Government Act of 2002, referred to in text, is Pub. L. 107–347, Dec. 17
 The Government Paperwork Elimination Act, referred to in subsec. (d)(4), is title XVII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–749, which amended section 3504 of this title and enacted provisions set out as a note under section 3504 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Federal Information Security Management Act of 2002, referred to in subsec. (d)(5), probably means title III of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2946, which is classified principally to subchapter III of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under section 101 of this title and Tables. Another Federal Information Security Management Act of 2002 is title X of Pub. L. 107–296, Nov. 25, 116 Stat. 2259. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6, Domestic Security.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3601 of this title; title 31 section 507.
 

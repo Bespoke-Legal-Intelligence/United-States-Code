@@ -36,7 +36,3 @@ The National Housing Act, referred to in par. (2)(B), is act June 27, 1934, ch. 
 
 Section effective Oct. 15, 1982, see section 807(a) of Pub. L. 97–320, set out as a note under section 3801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1715z–20 of this title.
-

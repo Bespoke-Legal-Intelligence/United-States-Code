@@ -14,7 +14,3 @@ The eligibility of covered employees for compensation under the compensation pro
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3611\], Oct. 30, 2000, 114 Stat. 1654, 1654A–497.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7384r of this title.
-

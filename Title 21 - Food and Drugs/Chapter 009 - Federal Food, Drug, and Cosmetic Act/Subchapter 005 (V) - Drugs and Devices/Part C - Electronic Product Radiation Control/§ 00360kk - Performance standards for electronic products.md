@@ -28,7 +28,7 @@ The provisions of subchapter II of chapter 5 of title 5 (relating to the adminis
 
 #### (c) Publication in Federal Register
 
-Each regulation prescribing, amending, or revoking a standard shall specify the date on which it shall take effect which, in the case of any regulation prescribing, or amending any standard, may not be sooner than one year or not later than two years after the date on which such regulation is issued, unless the Secretary finds, for good cause shown, that an earlier or later effective date is in the public interest and publishes in the Federal Register his reason for such finding, in which case such earlier or later date shall apply.
+Each regulation prescribing, amending, or revoking a standard shall specify the date on which it shall take effect which, in the case of any regulation prescribing, or amending any standard, may not be sooner than one year or not later than two years after the date on which such regulation is issued, unless the Secretary finds, for good cause shown, that an earlier or later effective date is in the public interest and publishes in the Federal Register his reason forsuch finding, in which case such earlier or later date shall apply.
 
 #### (d) Judicial review
 
@@ -68,9 +68,9 @@ The Secretary shall review and evaluate on a continuing basis testing programs c
 
 #### (h) Product certification
 
-Every manufacturer of an electronic product to which is applicable a standard in effect under this section shall furnish to the distributor or dealer at the time of delivery of such product, in the form of a label or tag permanently affixed to such product or in such manner as approved by the Secretary, the certification that such product conforms to all applicable standards under this section. Such certification shall be basedupon a test, in accordance with such standard, of the individual article to which it is attached or upon a testing program which is in accord with good manufacturing practice and which has not been disapproved by the Secretary (in such manner as he shall prescribe by regulation) on the grounds that it does not assure the adequacy of safeguards against hazardous electronic product radiation or that it does not assure that electronic products comply with the standards prescribed under this section.
+Every manufacturer of an electronic product to which is applicable a standard in effect under this section shall furnish to the distributor or dealer at the time of delivery of such product, in the form of a label or tag permanently affixed to such product or in such manner as approved by the Secretary, the certification that such product conforms to all applicable standards under this section. Such certification shall be based upon a test, in accordance with such standard, of the individual article to which it is attached or upon a testing program which is in accord with good manufacturing practice and which has not been disapproved by the Secretary (in such manner as he shall prescribe by regulation) on the grounds that it does not assure the adequacy of safeguards against hazardous electronic product radiation or that it does not assure that electronic products comply with the standards prescribed under this section.
 
-(June 25, 1938, ch. 675, §534, formerly act July 1, 1944, ch. 373, title III, §534, formerly §358, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1177; amended Pub. L. 91–515, title VI, §601(b)(2), (3), Oct. 30, 1970, 84 Stat. 1311; renumbered §534 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(B), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §§3(w), 4(a)(2), Aug. 13, 1993, 107 Stat. 778, 779.)
+(June 25, 1938, ch. 675, §534, formerly act July 1, 1944, ch. 373, title III, §534, formerly §358, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat.1177; amended Pub. L. 91–515, title VI, §601(b)(2), (3), Oct. 30, 1970, 84 Stat. 1311; renumbered §534 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(B), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §§3(w), 4(a)(2), Aug. 13, 1993, 107 Stat. 778, 779.)
 
 #### Codification
 
@@ -91,8 +91,4 @@ Subsecs. (e), (f)(1)(A). Pub. L. 101–629, §19(a)(1)(B), substituted “this p
 #### Noninterference With Other Federal Agencies
 
 Enactment of this section not to be construed to supersede or limit the functions under any other provision of law of any officer or agency of the United States, see section 4 of Pub. L. 90–602, set out as a note under section 360hh of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 360ii, 360<i>ll</i>, 360mm, 360nn, 360<i>oo</i>, 360pp, 360ss of this title.
 

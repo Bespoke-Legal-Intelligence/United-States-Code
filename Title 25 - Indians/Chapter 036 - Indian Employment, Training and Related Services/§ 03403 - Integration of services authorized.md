@@ -4,7 +4,3 @@ The Secretary of the Interior, in cooperation with the appropriate Secretary of 
 
 (Pub. L. 102–477, §4, Oct. 23, 1992, 106 Stat. 2302.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3404, 3405 of this title.
-

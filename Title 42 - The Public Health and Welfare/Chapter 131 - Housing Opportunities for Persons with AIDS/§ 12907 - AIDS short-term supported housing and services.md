@@ -108,7 +108,3 @@ Subsec. (b)(2)(C). Pub. L. 102–550, §606(g)(2)(A)(ii), (iii), substituted “
 
 Subsec. (b)(3)(C). Pub. L. 102–550, §606(g)(2)(B), added subpar. (C).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12904 of this title.
-

@@ -12,7 +12,7 @@ There are authorized to be appropriated to the Commission for the use of the Off
 
 There are authorized to be appropriated to the Association for purposes of carrying out its administrative expenses under this chapter not to exceed $13,000,000 for the fiscal year ending September 30, 1982, and not to exceed $4,000,000 for the fiscal year ending September 30, 1983. Sums appropriated under this subsection are authorized to remain available until expended.
 
-(Pub. L. 93–236, title II, §214, Jan. 2, 1974, 87 Stat. 1003; Pub. L. 93–488, §1(c), Oct. 26, 1974, 88 Stat. 1464; Pub. L. 94–210, title VI, §607(m), (n), Feb. 5, 1976, 90 Stat. 97; Pub. L. 94–436, §1, Sept. 30, 1976, 90 Stat. 1398; Pub. L. 95–199, §1, Nov. 23, 1977, 91 Stat. 1423; Pub. L. 95–611, §1, Nov. 8, 1978, 92 Stat. 3089; Pub. L. 96–73, title II, §201, Sept. 29, 1979, 93 Stat. 555; Pub. L. 96–448, title VII, §704, Oct. 14, 1980, 94 Stat. 1965; Pub. L. 97–35, title XI, §1151, Aug. 13, 1981, 95 Stat. 676.)
+(Pub. L. 93–236, title II, §214, Jan. 2, 1974, 87 Stat. 1003; Pub. L. 93–488, §1(c), Oct. 26, 1974, 88 Stat.1464; Pub. L. 94–210, title VI, §607(m), (n), Feb. 5, 1976, 90 Stat. 97; Pub. L. 94–436, §1, Sept. 30, 1976, 90 Stat. 1398; Pub. L. 95–199, §1, Nov. 23, 1977, 91 Stat. 1423; Pub. L. 95–611, §1, Nov. 8, 1978, 92 Stat. 3089; Pub. L. 96–73, title II, §201, Sept. 29, 1979, 93 Stat. 555; Pub. L. 96–448, title VII, §704, Oct. 14, 1980, 94 Stat. 1965; Pub. L. 97–35, title XI, §1151, Aug. 13, 1981, 95 Stat. 676.)
 
 #### Amendments
 
@@ -20,7 +20,7 @@ There are authorized to be appropriated to the Association for purposes of carry
 
 1980—Subsec. (c). Pub. L. 96–448 substituted provision authorizing appropriations of not to exceed $30,000,000 for fiscal year ending Sept. 30, 1981, for provision authorizing appropriations of not to exceed $28,500,000 for fiscal year ending Sept. 30, 1980.
 
-1979—Subsec. (c). Pub. L. 96–73 substituted appropriations authorization of $28,500,000 for fiscal year endingSept. 30, 1980 for $27,200,000 for fiscal year ending Sept. 30, 1979.
+1979—Subsec. (c). Pub. L. 96–73 substituted appropriations authorization of $28,500,000 for fiscal year ending Sept. 30, 1980 for $27,200,000 for fiscal year ending Sept. 30, 1979.
 
 1978—Subsec. (c). Pub. L. 95–611 substituted provision authorizing appropriations of $27,200,000 for fiscal year ending Sept. 30, 1979, to remain available until expended, for provision authorizing appropriations of $23,000,000 for fiscal year ending Sept. 30, 1978, to remain available until Sept. 30, 1979.
 

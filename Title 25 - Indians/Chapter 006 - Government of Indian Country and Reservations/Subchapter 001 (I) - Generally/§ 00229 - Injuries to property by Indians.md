@@ -16,7 +16,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 The services of Indian agents have been dispensed with. See note set out under section 64 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 230 of this title.
-

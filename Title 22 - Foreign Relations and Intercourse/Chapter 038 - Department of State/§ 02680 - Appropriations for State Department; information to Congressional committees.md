@@ -40,7 +40,7 @@ Pub. L. 101–513, title V, §581, Nov. 5, 1990, 104 Stat. 2046, directed that t
 
 #### Report on Expenditures Made From Appropriation for Emergencies in Diplomatic and Consular Service
 
-Pub. L. 100–204, title I, §124, Dec. 22, 1987, 101 Stat. 1341, as amended by Pub. L. 102–138, title I, §114, Oct. 28, 1991, 105 Stat. 655, provided that: “The Secretary ofState shall provide to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Appropriations of the House of Representatives within 30 days after the end of each quarter of the fiscal year a complete report, including amount, payee, and purpose, of all expenditures made from the appropriation for ‘Emergencies in the Diplomatic and Consular Service’ for that quarter. Items included in each such report concerning representation, official travel, and gifts shall be submitted in unclassified form.”
+Pub. L. 100–204, title I, §124, Dec. 22, 1987, 101 Stat. 1341, as amended by Pub. L. 102–138, title I, §114, Oct. 28, 1991, 105 Stat. 655, provided that: “The Secretary of State shall provide to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Appropriations of the House of Representatives within 30 days after the end of each quarter of the fiscal year a complete report, including amount, payee, and purpose, of all expenditures made from the appropriation for ‘Emergencies in the Diplomatic and Consular Service’ for that quarter. Items included in each such report concerning representation, official travel, and gifts shall be submitted in unclassified form.”
 
 #### Information-Sharing Arrangement Between Department of State and Congressional Committees
 
@@ -59,8 +59,4 @@ Section 407(a) of Pub. L. 92–226 provided that: “It is the purpose of this s
 &emsp;“(2) providing periodic authorizations of appropriations for that Department and Agency.”
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2696 of this title.
 

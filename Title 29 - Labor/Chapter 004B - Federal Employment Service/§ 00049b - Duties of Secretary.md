@@ -6,7 +6,7 @@ The Secretary shall assist in coordinating the State public employment services 
 
 #### (b) Provision of unemployment compensation information
 
-It shall be the duty of the Secretary to assure that unemployment insurance and employment service offices in each State, as appropriate, upon request of a public agency administering or supervising the administration of a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], of a public agency charged with any duty or responsibility under any program or activity authorized orrequired under part D of title IV of such Act \[42 U.S.C. 651 et seq.\], or of a State agency charged with the administration of the food stamp program in a State under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), shall (and, notwithstanding any other provision of law, is authorized to) furnish to such agency making the request, from any data contained in the files of any such office, information with respect to any individual specified in the request as to (1) whether such individual is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received by such individual, (2) the current (or most recent) home address of such individual, and (3) whether such individual has refused an offer of employment and, if so, a description of the employment so offered and the terms, conditions, and rate of pay therefor.
+It shall be the duty of the Secretary to assure that unemployment insurance and employment service offices in each State, as appropriate, upon request of a public agency administering or supervising the administration of a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], of a public agency charged with any duty or responsibility under any program or activity authorized or required under part D of title IV of such Act \[42 U.S.C. 651 et seq.\], or of a State agency charged with the administration of the food stamp program in a State under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), shall (and, notwithstanding any other provision of law, is authorized to) furnish to such agency making the request, from any data contained in the files of any such office, information with respect to any individual specified in the request as to (1) whether such individual is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received by such individual, (2) the current (or most recent) home address of such individual, and (3) whether such individual has refused an offer of employment and, if so, a description of the employment so offered and the terms, conditions, and rate of pay therefor.
 
 #### (c) Public labor exchange services
 
@@ -73,8 +73,4 @@ Section 771(b) of Pub. L. 93–198 provided in part that title II of Pub. L. 93�
 #### Effective Date of 1954 Amendment
 
 Section 8 of act Aug. 3, 1954, provided that: “The amendments made by this Act \[enacting section 107e–1 of Title 20, Education, and amending this section, sections 31 to 41, 42, and 49g of this title, sections 107, 107a, 107b, 107e, and 107f of Title 20, and section 155a of former Title 36, Patriotic Societies and Observances\] shall become effective July 1, 1954.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 49a of this title; title 7 section 2022; title 39 section 3202; title 42 section 603a.
 

@@ -36,7 +36,3 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §704\], Nov. 29, 1999, 113
 
 &emsp;“(2) the term ‘State children's health insurance program’ instead of the term ‘children's health insurance program’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1397cc, 1397ee, 1397ii of this title.
-

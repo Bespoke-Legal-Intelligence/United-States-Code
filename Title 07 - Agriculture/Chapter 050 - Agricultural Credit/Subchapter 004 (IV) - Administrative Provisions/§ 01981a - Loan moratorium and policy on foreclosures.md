@@ -40,7 +40,7 @@ Pub. L. 97–370, title II, Dec. 18, 1982, 96 Stat. 1800.
 
 #### Forbearance and Restructuring for Farm Loans
 
-Pub. L. 100–387, title III, §313(a), Aug. 11, 1988, 102 Stat. 949, provided that: “It is the sense of Congress that the Secretary of Agriculture should, with respect to farmers and ranchers who suffer major losses due to drought, hail, excessive moisture, or related condition in 1988—
+Pub. L. 100–387, title III, §313(a), Aug. 11, 1988, 102 Stat. 949, provided that: “It is the sense of Congressthat the Secretary of Agriculture should, with respect to farmers and ranchers who suffer major losses due to drought, hail, excessive moisture, or related condition in 1988—
 
 &emsp;“(1) exercise forbearance in the collection of interest and principal on direct farmer program loans under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\] outstanding for such farmers and ranchers;
 

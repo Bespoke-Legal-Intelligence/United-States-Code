@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—URBAN AND RURAL COMMUNITY ACTION PROGRAMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2707, 3103, 5012, 6863, 6865 of this title; title 20 section 3382.
-
 
 ---
 

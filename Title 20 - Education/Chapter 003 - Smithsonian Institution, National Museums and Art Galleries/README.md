@@ -139,6 +139,7 @@
 | (d) | Responsibilities of the District of Columbia. |
 | (e) | Ownership. |
 | (f) | National highway boundaries. |
+| (g) | GAO review. |
 | [76r.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076r%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | Maintenance, repair, and security. |
 | (b) | Capital projects. |

@@ -10,7 +10,3 @@ Based on 44 U.S. Code, 1964 ed., §115 (part) (Jan. 12, 1895, ch. 23, §80, 28 S
 
 This section incorporates only the second clause of former section 115. The balance will be found in section 506 of the revision.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3714b; title 35 section 2.
-

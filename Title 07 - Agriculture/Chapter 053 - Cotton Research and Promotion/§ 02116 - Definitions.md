@@ -30,7 +30,3 @@ Subsec. (d). Pub. L. 101–624, §1997(2), inserted “or, for the purposes of s
 
 Subsec. (h). Pub. L. 101–624, §1997(3), added subsec. (h).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2107 of this title.
-

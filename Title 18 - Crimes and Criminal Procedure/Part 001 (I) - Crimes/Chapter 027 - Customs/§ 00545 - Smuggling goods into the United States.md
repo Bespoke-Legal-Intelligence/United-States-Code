@@ -6,7 +6,7 @@ Whoever fraudulently or knowingly imports or brings into the United States, any 
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
-Proof of defendant's possession of such goods, unless explained to the satisfaction of the jury,shall be deemed evidence sufficient to authorize conviction for violation of this section.
+Proof of defendant's possession of such goods, unless explained to the satisfaction of the jury, shall be deemed evidence sufficient to authorize conviction for violation of this section.
 
 Merchandise introduced into the United States in violation of this section, or the value thereof, to be recovered from any person described in the first or second paragraph of this section, shall be forfeited to the United States.
 
@@ -59,8 +59,4 @@ Amendment by act June 30, 1955, effective July 1, 1955, see section 2(d) of act 
 #### Effective Date of 1954 Amendment
 
 Section 2 of act Aug. 24, 1954, provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply only with respect to offenses committed on and after the date of the enactment of this Act \[Aug. 24, 1954\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 981, 982, 1956 of this title; title 21 section 967; title 31 section 9703.
 

@@ -14,7 +14,3 @@ With respect to the internal control assessment required by subsection (a) of th
 
 (Pub. L. 107–204, title IV, §404, July 30, 2002, 116 Stat. 789.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78<i>l</i>, 7213 of this title.
-

@@ -10,7 +10,7 @@
 
 &emsp;(B) to expand the loan purchase capacity of the national neighborhood housing services secondary market operated by Neighborhood Housing Services of America;
 
-&emsp;(C) to make grants to provide incentives to extend low-income housing use in connection with properties subject to prepayment pursuant to the Low-Income Housing Preservation and Resident Ownership Act of 1990 \[12 U.S.C. 4101 et seq.\];
+&emsp;(C) to make grants to provide incentives to extend low-income housing use in connectionwith properties subject to prepayment pursuant to the Low-Income Housing Preservation and Resident Ownership Act of 1990 \[12 U.S.C. 4101 et seq.\];
 
 &emsp;(D) to increase the resources available to the national neighborhood housing services network programs for the purchase of multifamily and single-family properties owned by the Secretary of Housing and Urban Development for rehabilitation (if necessary) and sale to low- and moderate-income families; and
 
@@ -78,7 +78,7 @@ Findings.—The Congress finds that—
 
 “(b)
 
-Purpose.—It is the purpose of this section \[amending this section\] to authorize appropriations forthe Neighborhood Reinvestment Corporation for fiscal years 1991 and 1992 to permit the corporation—
+Purpose.—It is the purpose of this section \[amending this section\] to authorize appropriations for the Neighborhood Reinvestment Corporation for fiscal years 1991 and 1992 to permit the corporation—
 
 &emsp;“(1) to carefully expand the capacities of the national neighborhood housing services network;
 
@@ -99,8 +99,4 @@ Purpose.—It is the purpose of this section \[amending this section\] to author
 &emsp;“(9) to increase resources available to neighborhood housing services network programs for foreclosure intervention and prevention; and
 
 &emsp;“(10) to create additional neighborhood housing services partnership organizations to serve rural communities, Native Americans, Native Hawaiians, and other communities in need.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8105 of this title.
 

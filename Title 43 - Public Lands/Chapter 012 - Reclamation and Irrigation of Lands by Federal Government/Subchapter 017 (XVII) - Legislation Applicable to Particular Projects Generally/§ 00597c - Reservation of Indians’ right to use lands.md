@@ -4,7 +4,3 @@ The easements granted in section 597a of this title shall not interfere with the
 
 (Mar. 14, 1940, ch. 51, §3, 54 Stat. 49.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 597d of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Acquisition of properties by donation or with donated funds
 
-In order to preserve for the benefit and inspiration of the people of the United States as a national historical park certain historic structures and properties of outstanding national significance located in Boston, Massachusetts, and associated with the American Revolution and the founding and growth of the United States, the Secretary of the Interior (hereinafter referred to as the “Secretary”) may, in accordance with the provisions of this subchapter, acquire by donation or by purchase with donated funds, all landsand improvements thereon or interests therein comprising the following described areas:
+In order to preserve for the benefit and inspiration of the people of the United States as a national historical park certain historic structures and properties of outstanding national significance located in Boston, Massachusetts, and associated with the American Revolution and the founding and growth of the United States, the Secretary of the Interior (hereinafter referred to as the “Secretary”) may, in accordance with the provisions of this subchapter, acquire by donation or by purchase with donated funds, all lands and improvements thereon or interests therein comprising the following described areas:
 
 &emsp;(1) Faneuil Hall, located at Dock Square, Boston;
 
@@ -22,7 +22,7 @@ In order to preserve for the benefit and inspiration of the people of the United
 
 #### (b) Acquisition of properties with appropriated funds
 
-In the event that the properties described in this section are not donated to the United States or purchased with donated funds, they may be acquired by the Secretary with appropriated funds: <i>Provided</i>, That, except for privately held lands within the Charlestown Navy Yard as described in subsection (d) of this section, the Secretary shall not acquire any such properties by eminent domain so long as he determines that a binding, written cooperative agreement, assuring the preservation and historical integrity of such properties remains in force and effect. Lands owned by the Commonwealth of Massachusetts, or any of its political subdivisions, may be acquired only by donation.
+In the event that the properties described in this section are not donated to the UnitedStates or purchased with donated funds, they may be acquired by the Secretary with appropriated funds: <i>Provided</i>, That, except for privately held lands within the Charlestown Navy Yard as described in subsection (d) of this section, the Secretary shall not acquire any such properties by eminent domain so long as he determines that a binding, written cooperative agreement, assuring the preservation and historical integrity of such properties remains in force and effect. Lands owned by the Commonwealth of Massachusetts, or any of its political subdivisions, may be acquired only by donation.
 
 #### (c) Publication of notice
 
@@ -49,8 +49,4 @@ Section 1 of Pub. L. 93–431, Oct. 1, 1974, 88 Stat. 1184, provided: “That th
 #### Authorization of Appropriations
 
 Section 310(c) of Pub. L. 95–625 provided that: “There are authorized to be appropriated such sums as may be necessary for the acquisition of lands or interests in lands designated by subsection (a) of this section \[enacting subsec. (a)(8) of this section\] as a component of the Boston National Historical Park, and for the development of such component.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410z–1, 410z–4, 410z–5 of this title.
 

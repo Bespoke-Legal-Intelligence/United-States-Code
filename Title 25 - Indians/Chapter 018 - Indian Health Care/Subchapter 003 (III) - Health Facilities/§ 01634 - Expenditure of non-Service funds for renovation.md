@@ -32,7 +32,7 @@ The requirements of this subsection are met with respect to any renovation or mo
 
 #### (c) Recovery for non-use as Service facility
 
-If any Service facility which has been renovated or modernized by an Indian tribe under this section ceases to be used as a Service facility during the 20-year period beginning on the date such renovation or modernization is completed, such Indian tribe shall be entitled to recover from the United States an amount which bears the same ratio to the value of such facility at the time of such cessation as the value of such renovation or modernization (less the total amount of any funds provided specifically for such facility under any Federal program that were expended for such renovation or modernization) bore to the value of such facility at the time of the completion of such renovation or modernization.
+If any Service facility which has been renovated or modernized by an Indian tribe under this section ceases to be used as a Service facility during the 20-year period beginning on thedate such renovation or modernization is completed, such Indian tribe shall be entitled to recover from the United States an amount which bears the same ratio to the value of such facility at the time of such cessation as the value of such renovation or modernization (less the total amount of any funds provided specifically for such facility under any Federal program that were expended for such renovation or modernization) bore to the value of such facility at the time of the completion of such renovation or modernization.
 
 (Pub. L. 94–437, title III, §305, as added Pub. L. 96–537, §5, Dec. 17, 1980, 94 Stat. 3175; amended Pub. L. 100–713, title III, §303(a), Nov. 23, 1988, 102 Stat. 4816; Pub. L. 102–573, title III, §305, Oct. 29, 1992, 106 Stat. 4563.)
 
@@ -45,8 +45,4 @@ The Indian Self-Determination Act, referred to in subsec. (a)(1), is title I of 
 1992—Pub. L. 102–573 amended section generally, substituting present provisions for former provisions which related to: in subsec. (a), authority of Secretary; in subsec. (b), requirements; in subsec. (c), higher priority project; and in subsec. (d), recovery for non-use as Service facility.
 
 1988—Pub. L. 100–713 amended section generally, substituting “Expenditure of non-Service funds for renovation” for “Authorization of appropriations” in section catchline and subsecs. (a) to (d) for former single unlettered par.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1671 of this title.
 

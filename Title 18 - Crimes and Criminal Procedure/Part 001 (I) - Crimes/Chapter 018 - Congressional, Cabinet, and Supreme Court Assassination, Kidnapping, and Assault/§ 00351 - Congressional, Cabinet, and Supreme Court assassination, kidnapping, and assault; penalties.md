@@ -10,7 +10,7 @@
 
 (e) Whoever assaults any person designated in subsection (a) of this section shall be fined under this title, or imprisoned not more than one year, or both; and if the assault involved the use of a dangerous weapon, or personal injury results, shall be fined under this title, or imprisoned not more than ten years, or both.
 
-(f) If Federal investigative or prosecutive jurisdiction is asserted for a violation of this section, such assertion shall suspend the exercise of jurisdiction by a State or local authority, underany applicable State or local law, until Federal action is terminated.
+(f) If Federal investigative or prosecutive jurisdiction is asserted for a violation of this section, such assertion shall suspend the exercise of jurisdiction by a State or local authority, under any applicable State or local law, until Federal action is terminated.
 
 (g) Violations of this section shall be investigated by the Federal Bureau of Investigation. Assistance may be requested from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
 
@@ -50,6 +50,10 @@ Subsec. (a). Pub. L. 97–285, §1(a), expanded coverage of subsec. (a) to cover
 
 Subsecs. (h), (i). Pub. L. 97–285, §1(b), added subsecs. (h) and (i).
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
@@ -57,8 +61,4 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 #### Report to Member of Congress on Investigation Conducted Subsequent to Threat on Member's Life
 
 Pub. L. 95–624, §19, Nov. 9, 1978, 92 Stat. 3466, provided that: “The Federal Bureau of Investigation shall provide a written report to a Member of Congress on any investigation conducted based on a threat on the Member's life under section 351 of title 18 of the United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 209, 1956, 2332b, 2339A, 2516, 3286, 3592 of this title; title 5 section 8112.
 

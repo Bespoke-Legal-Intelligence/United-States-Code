@@ -8,7 +8,3 @@ The Corporation is authorized to use in the conduct of its business all its fund
 
 For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 section 3902.
-

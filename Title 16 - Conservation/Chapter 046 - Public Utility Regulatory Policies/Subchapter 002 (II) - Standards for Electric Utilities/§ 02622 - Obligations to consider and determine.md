@@ -32,7 +32,3 @@ Each State regulatory authority (with respect to each electric utility for which
 
 1992—Subsec. (b)(1), (2). Pub. L. 102–486 inserted “(or after October 24, 1992, in the case of standards under paragraphs (7), (8), and (9) of section 2621(d) of this title)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2621 of this title.
-

@@ -50,7 +50,3 @@ Subsec. (b)(5). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” f
 
 Subsec. (c)(1). Pub. L. 102–40, §402(d)(1), substituted “7616(b)(4)” for “4316(b)(4)” in subpar. (C) and “7613” for “4313” in subpar. (D).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7655 of this title.
-

@@ -16,15 +16,13 @@ The Director shall administer the system in accordance with regulations prescrib
 
 #### (c) Finality of decisions of DCI
 
-In the interests of the security of the foreign intelligence activities of the United States and in order further to implement paragraph (6) <sup>1</sup> of section 403–3(c) of this title that the Director of Central Intelligence shall be responsible for protecting intelligence sources and methods from unauthorized disclosure, and notwithstanding the provisions of chapter 7 of title 5 or any other provision of law (except section 2155(b) of this title), any determination by the Director authorized by this chapter shall be final and conclusive and shall not be subject to review by any court.
+In the interests of the security of the foreign intelligence activities of the United States and in order further to implement section 403–1(i) of this title that the Director of National Intelligence shall be responsible for protecting intelligence sources and methods from unauthorized disclosure, and notwithstanding the provisions of chapter 7 of title 5 or any other provision of law (except section 2155(b) of this title), any determination by the Director authorized by this chapter shall be final and conclusive and shall not be subject to review by any court.
 
-(Pub. L. 88–643, title II, §201, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3201; amended Pub. L. 103–178, title II, §202(a)(2), Dec. 3, 1993, 107 Stat. 2026; Pub. L. 105–272, title IV, §403(b), Oct. 20, 1998, 112 Stat. 2404.)
+(Pub. L. 88–643, title II, §201, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3201; amended Pub. L. 103–178, title II, §202(a)(2), Dec. 3, 1993, 107 Stat. 2026; Pub. L. 105–272, title IV, §403(b), Oct. 20, 1998, 112 Stat. 2404; Pub. L. 108–458, title I, §1072(c), Dec. 17, 2004, 118 Stat. 3693.)
 
 #### References in Text
 
 The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in subsec. (a)(1), is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, as amended, which was formerly set out as a note under section 403 of this title. Pub. L. 88–643 was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, and is now known as the Central Intelligence Agency Retirement Act. As so revised, title II of Pub. L. 88–643 is classified generally to this subchapter.
-
-Paragraph (6) of section 403–3(c) of this title, referred to in subsec. (c), was redesignated par. (7) of section 403–3(c) and a new par. (6) was added by Pub. L. 107–56, title IX, §901, Oct. 28, 2001, 115 Stat. 387.
 
 #### Prior Provisions
 
@@ -32,17 +30,17 @@ A prior section 201 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1043;
 
 #### Amendments
 
+2004—Subsec. (c). Pub. L. 108–458 substituted “section 403–1(i) of this title that the Director of National Intelligence” for “paragraph (6) of section 403–3(c) of this title that the Director of Central Intelligence”.
+
 1998—Subsec. (c). Pub. L. 105–272 substituted “paragraph (6) of section 403–3(c) of this title” for “section 403–3(c)(5) of this title”.
 
 1993—Subsec. (c). Pub. L. 103–178 substituted “section 403–3(c)(5) of this title” for “the proviso of section 403(d)(3) of this title”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2155 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

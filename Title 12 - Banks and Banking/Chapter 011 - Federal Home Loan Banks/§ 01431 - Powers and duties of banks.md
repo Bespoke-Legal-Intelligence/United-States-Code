@@ -6,7 +6,7 @@ Each Federal Home Loan Bank shall have power, subject to rules and regulations p
 
 #### (b) Issuance of consolidated Federal Home Loan Bank debentures; restrictions
 
-The Board may issue consolidated Federal Home Loan Bank debentures which shall be the joint and several obligations of all Federal Home Loan Banks organized and existing under this chapter, in order to provide funds for any such bank or banks, and such debentures shall be issued upon such terms and conditions as the Board may prescribe. No such debentures shall be issued at any time if any of the assets of any Federal Home Loan Bank are pledged to secure any debts or subject to any lien, and neither the Board nor any Federal Home Loan Bank shall have power to pledge any of the assets of any Federal Home Loan Bank, or voluntarily to permit any lien to attach to the same while any of such debentures so issued are outstanding. The debentures issued under this section and outstanding shall at no time exceed five times the total paid-in capital of all the Federal Home Loan Banks as of the time of the issue of such debentures. It shall be the duty of the Board notto issue debentures under this section in excess of the notes or obligations of member institutions held and secured under section 1430(a) of this title by all the Federal Home Loan Banks.
+The Board may issue consolidated Federal Home Loan Bank debentures which shall be the joint and several obligations of all Federal Home Loan Banks organized and existing under this chapter, in order to provide funds for any such bank or banks, and such debentures shall be issued upon such terms and conditions as the Board may prescribe. No such debentures shall be issued at any time if any of the assets of any Federal Home Loan Bank are pledged to secure any debts or subject to any lien, and neither the Board nor any Federal Home Loan Bank shall have power to pledge any of the assets of any Federal Home Loan Bank, or voluntarily to permit any lien to attach to the same while any of such debentures so issued are outstanding. The debentures issued under this section and outstanding shall at no time exceed five times the total paid-in capital of all the Federal Home Loan Banks as of the time of the issue of such debentures. It shall be the duty of the Board not to issue debentures under this section in excess of the notes or obligations of member institutions held and secured under section 1430(a) of this title by all the Federal Home Loan Banks.
 
 #### (c) Issuance of Federal Home Loan Bank bonds
 
@@ -48,7 +48,7 @@ Notwithstanding the foregoing, the authority provided in this subsection may be 
 
 #### (j) Audits
 
-Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 31, audits by the General Accounting Office of the financial transactions of a Federal Home Loan Bank shall not be limited to periods during which Government capital has been invested therein. The provisions of sections 9107(c)(2) and 9108(d)(1) of title 31 shall not apply to any Federal Home Loan Bank.
+Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 31, audits by the Government Accountability Office of the financial transactions of a Federal Home Loan Bank shall not be limited to periods during which Government capital has been invested therein. The provisions of sections 9107(c)(2) and 9108(d)(1) of title 31 shall not apply to any Federal Home Loan Bank.
 
 #### (k) Bank loans to SAIF
 
@@ -68,7 +68,7 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 &emsp;&emsp;(B) be adequately secured.
 
-(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747.)
+(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -80,9 +80,11 @@ In subsecs. (i) (first par.) and (j), “chapter 31 of title 31” substituted f
 
 #### Amendments
 
+2004—Subsec. (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
 1996—Subsec. (h). Pub. L. 104–208, §208(h)(2), substituted “section 681 of title 15” for “section 681(d) of title 15”.
 
-Subsec. (k). Pub. L. 104–208, §2704(d)(11)(A), which directed the amendment of subsec. (k) by substituting “the Deposit Insurance Fund” for “SAIF” in headingand “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (k). Pub. L. 104–208, §2704(d)(11)(A), which directed the amendment of subsec. (k) by substituting “the Deposit Insurance Fund” for “SAIF” in heading and “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2), was not executed. See Effective Date of 1996 Amendment note below.
 
 1989—Subsecs. (a) to (d). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
 
@@ -141,10 +143,6 @@ Amendment by section 2704(d)(11)(A) of Pub. L. 104–208 effective Jan. 1, 1999,
 #### Effective Date of 1968 Amendment
 
 For effective date of amendment by title VIII of Pub. L. 90–448, see section 808 of Pub. L. 90–448, set out as an Effective Date note under section 1716b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1422b, 1430, 1438, 2705 of this title.
 
 <i><sup>1</sup></i><i> So in original. See 1989 Amendment note below.</i>
 

@@ -2,7 +2,7 @@
 
 (a) Whoever kills (1) any individual who is the President of the United States, the President-elect, the Vice President, or, if there is no Vice President, the officer next in the order of succession to the Office of the President of the United States, the Vice President-elect, or any person who is acting as President under the Constitution and laws of the United States, or (2) any person appointed under section 105(a)(2)(A) of title 3 employed in the Executive Office of the President or appointed under section 106(a)(1)(A) of title 3 employed in the Office of the Vice President, shall be punished as provided by sections 1111 and 1112 of this title.
 
-(b) Whoever kidnaps any individual designated in subsection (a) of this section shall be punished (1) by imprisonment for any term of years or for life, or (2) by death or imprisonment for any term of years or for life, if death results to such individual.
+(b) Whoever kidnaps any individual designated in subsection (a) of this section shall be punished (1) by imprisonment for any term of yearsor for life, or (2) by death or imprisonment for any term of years or for life, if death results to such individual.
 
 (c) Whoever attempts to kill or kidnap any individual designated in subsection (a) of this section shall be punished by imprisonment for any term of years or for life.
 
@@ -53,8 +53,4 @@ Subsecs. (j), (k). Pub. L. 97–285, §3(d), added subsecs. (j) and (k).
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 209, 1956, 2332b, 2339A, 2516, 3286, 4247 of this title; title 5 section 8112.
 

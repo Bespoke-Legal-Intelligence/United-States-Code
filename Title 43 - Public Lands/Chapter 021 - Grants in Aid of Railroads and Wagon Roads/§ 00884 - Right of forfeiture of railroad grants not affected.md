@@ -4,7 +4,3 @@ Sections 882 to 885 of this title shall not affect the right of the Government t
 
 (July 10, 1886, ch. 764, §3, 24 Stat. 143.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 882, 885 of this title.
-

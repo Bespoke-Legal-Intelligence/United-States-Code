@@ -78,7 +78,3 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(3
 
 The Higher Education Act of 1965, referred to in subsec. (b)(3)(D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2322 of this title.
-

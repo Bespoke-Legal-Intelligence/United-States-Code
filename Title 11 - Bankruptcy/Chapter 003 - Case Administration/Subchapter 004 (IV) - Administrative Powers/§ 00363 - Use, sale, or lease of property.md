@@ -24,7 +24,7 @@
 
 &emsp;(B) the court, after notice and a hearing, authorizes such use, sale, or lease in accordance with the provisions of this section.
 
-(3) Any hearing under paragraph (2)(B) of this subsection may be a preliminary hearing or may be consolidated with a hearing under subsection (e) of this section, but shall be scheduled in accordance with the needs of the debtor. If the hearing under paragraph (2)(B) of this subsection is a preliminary hearing, the court may authorize such use, sale, or lease only if there is a reasonable likelihood that the trustee will prevail at the final hearing under subsection (e) of this section. The court shall act promptly on any request for authorization under paragraph (2)(B) of this subsection.
+(3) Any hearing under paragraph (2)(B) of this subsection may be a preliminary hearing or may be consolidated with a hearing under subsection\(e) of this section, but shall be scheduled in accordance with the needs of the debtor. If the hearing under paragraph (2)(B) of this subsection is a preliminary hearing, the court may authorize such use, sale, or lease only if there is a reasonable likelihood that the trustee will prevail at the final hearing under subsection (e) of this section. The court shall act promptly on any request for authorization under paragraph (2)(B) of this subsection.
 
 (4) Except as provided in paragraph (2) of this subsection, the trustee shall segregate and account for any cash collateral in the trustee's possession, custody, or control.
 
@@ -98,7 +98,7 @@ Subsection (a) defines “cash collateral” as cash, negotiable instruments, do
 
 Subsection (b) permits the trustees to use, sell, or lease, other than in the ordinary course of business, property of the estate upon notice and opportunity for objections and hearing thereon.
 
-Subsection (c) governs use, sale, or lease in the ordinary course of business. If the business of the debtor isauthorized to be operated under §721, 1108, or 1304 of the bankruptcy code, then the trustee may use, sell, or lease property in the ordinary course of business or enter into ordinary course transactions without need for notice and hearing. This power is subject to several limitations. First, the court may restrict the trustee's powers in the order authorizing operation of the business. Second, with respect to cash collateral, the trustee may not use, sell, or lease cash collateral except upon court authorization after notice and a hearing, or with the consent of each entity that has an interest in such cash collateral. The same preliminary hearing procedure in the automatic stay section applies to a hearing under this subsection. In addition, the trustee is required to segregate and account for any cash collateral in the trustee's possession, custody, or control.
+Subsection (c) governs use, sale, or lease in the ordinary course of business. If the business of the debtor is authorized to be operated under §721, 1108, or 1304 of the bankruptcy code, then the trustee may use, sell, or lease property in the ordinary course of business or enter into ordinary course transactions without need for notice and hearing. This power is subject to several limitations. First, the court may restrict the trustee's powers in the order authorizing operation of the business. Second, with respect to cash collateral, the trustee may not use, sell, or lease cash collateral except upon court authorization after notice and a hearing, or with the consent of each entity that has an interest in such cash collateral. The same preliminary hearing procedure in the automatic stay section applies to a hearing under this subsection. In addition, the trustee is required to segregate and account for any cash collateral in the trustee's possession, custody, or control.
 
 Under subsections (d) and (e), the use, sale, or lease of property is further limited by the concept of adequate protection. Sale, use, or lease of property in which an entity other than the estate has an interest may be effected only to the extent not inconsistent with any relief from the stay granted to that interest's holder. Moreover, the court may prohibit or condition the use, sale, or lease as is necessary to provide adequate protection of that interest. Again, the trustee has the burden of proof on the issue of adequate protection. Subsection (e) also provides that where a sale of the property is proposed, an entity that has an interest in such property may bid at the sale thereof and set off against the purchase price up to the amount of such entity's claim. No prior valuation under section 506(a) would limit this bidding right, since the bid at the sale would be determinative of value.
 
@@ -173,8 +173,4 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not app
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 303, 361, 507, 541, 542, 552, 553, 557, 1111, 1129, 1205, 1206, 1303, 1304 of this title.
 

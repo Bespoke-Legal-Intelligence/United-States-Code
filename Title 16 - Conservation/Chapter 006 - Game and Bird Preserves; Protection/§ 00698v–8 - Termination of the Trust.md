@@ -10,7 +10,7 @@ The Valles Caldera Trust shall terminate at the end of the twentieth full fiscal
 
 &emsp;(A) If after the fourteenth full fiscal years <sup>1</sup> from the date of acquisition of the Baca ranch under section 698v–2(a) of this title, the Board believes the Trust has met the goals and objectives of the comprehensive management program under section 698v–6(d) of this title, but has not become financially self-sustaining, the Board may submit to the Committees of Congress, a recommendation for authorization of appropriations beyond that provided under sections 698v to 698v–10 of this title.
 
-&emsp;(B) During the eighteenth full fiscal year from the date of acquisition of the Baca ranch under section 698v–2(a) of this title, the Board shall submit to the Secretary its recommendation that the Trust be either extended or terminated including the reasons for such recommendation.
+&emsp;(B) During the eighteenth full fiscal year from the date of acquisition of the Baca ranchunder section 698v–2(a) of this title, the Board shall submit to the Secretary its recommendation that the Trust be either extended or terminated including the reasons for such recommendation.
 
 #### (2) Secretary
 
@@ -26,13 +26,9 @@ In the event of termination of the Trust, all assets of the Trust shall be used 
 
 #### (e) Valles Caldera Fund
 
-In the event of termination, the Secretary shall assume the powers of the Trust over funds under section 698v–4(h) of this title, and the Valles Caldera Fund shall not terminate. Anybalances remaining in the fund shall be available to the Secretary, without further appropriation, for any purpose consistent with the purposes of sections 698v to 698v–10 of this title.
+In the event of termination, the Secretary shall assume the powers of the Trust over funds under section 698v–4(h) of this title, and the Valles Caldera Fund shall not terminate. Any balances remaining in the fund shall be available to the Secretary, without further appropriation, for any purpose consistent with the purposes of sections 698v to 698v–10 of this title.
 
 (Pub. L. 106–248, title I, §110, July 25, 2000, 114 Stat. 611.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698v, 698v–1, 698v–3, 698v–4, 698v–6, 698v–7, 698v–9, 698v–10 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “year”.</i>
 

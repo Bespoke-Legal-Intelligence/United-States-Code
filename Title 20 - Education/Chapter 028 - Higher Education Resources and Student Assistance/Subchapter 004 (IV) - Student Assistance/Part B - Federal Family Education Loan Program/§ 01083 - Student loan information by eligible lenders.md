@@ -16,7 +16,7 @@ Each eligible lender, at or prior to the time such lender disburses a loan that 
 
 &emsp;(6) the yearly and cumulative maximum amounts that may be borrowed;
 
-&emsp;(7) an explanation of when repayment of the loan will be required and when the borrowerwill be obligated to pay interest that accrues on the loan;
+&emsp;(7) an explanation of when repayment of the loan will be required and when the borrower will be obligated to pay interest that accrues on the loan;
 
 &emsp;(8) a statement as to the minimum and maximum repayment term which the lender may impose, and the minimum annual payment required by law;
 
@@ -64,7 +64,7 @@ Each eligible lender shall, at the time such lender notifies a borrower of appro
 
 #### (e) Special disclosure rules on SLS loans and PLUS loans and unsubsidized loans
 
-Loans made under sections 1078–1,<sup>2</sup> 1078–2, and 1078–8 of this title shall not be subject to the disclosure of projected monthly payment amounts required under subsection (b)(8) of this section if the lender, in lieu of such disclosure, provides the borrower with sample projections of monthly repayment amounts assuming different levelsof borrowing and interest accruals resulting from capitalization of interest while the borrower is in school. Such sample projections shall disclose the cost to the student of capitalizing—
+Loans made under sections 1078–1,<sup>2</sup> 1078–2, and 1078–8 of this title shall not be subject to the disclosure of projected monthly payment amounts required under subsection (b)(8) of this section if the lender, in lieu of such disclosure, provides the borrower with sample projections of monthly repayment amounts assuming different levels of borrowing and interest accruals resulting from capitalization of interest while the borrower is in school. Such sample projections shall disclose the cost to the student of capitalizing—
 
 &emsp;(1) principal and interest; and
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 2(c)(53) of Pub. L. 103–208 effective on and after 60 days after Dec. 20, 1993 and amendments by section 2(c)(54), (k)(4) of Pub. L. 103–208 effective, except as otherwise provided, as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, see section 5(a), (b)(4) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by section 2(c)(53) of Pub. L. 103–208 effective on and after 60 days after Dec. 20, 1993 and amendments by section 2(c)(54), (k)(4) of Pub. L. 103–208 effective, except as otherwise provided, as if included in the Higher Education Amendments of 1992, Pub. L.102–325, see section 5(a), (b)(4) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -128,11 +128,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Effective Date
 
-Section effective Oct. 17, 1986, with subsecs. (a), (b), and (d) of this section applicable only with respect to loans disbursed on or after Jan. 1, 1987, or made tocover the costs of instruction for periods of enrollment beginning on or after Jan. 1, 1987, see section 402(b) of Pub. L. 99–498, set out as a note under section 1071 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1077a of this title.
+Section effective Oct. 17, 1986, with subsecs. (a), (b), and (d) of this section applicable only with respect to loans disbursed on or after Jan. 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after Jan. 1, 1987, see section 402(b) of Pub. L. 99–498, set out as a note under section 1071 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

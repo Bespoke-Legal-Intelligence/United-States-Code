@@ -34,7 +34,3 @@ The Housing Act of 1949, as amended, referred to in subsec. (b), is act July 15,
 
 1978—Subsec. (a)(2). Pub. L. 95–286 substituted “devises” for “devices”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80g–1 of this title.
-

@@ -10,7 +10,3 @@ The holder of any lease or permit issued under the provisions of sections 211 to
 
 1948—Act June 3, 1948, increased lands to be used from 40 to 80 acres, excepted national forest lands from its provisions, and substituted “The holder of any lease issued under the provisions of sections 211 to 214 of this title”, “public lands not a part of his lease”, and “or convenient for the extraction” for “Any qualified applicant to whom the Secretary of the Interior may grant a lease to develop and extract phosphates, or phosphate rock, under the provisions of this chapter”, “lands”, and “for the proper prospecting for or development, extraction”, respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 213 of this title; title 10 sections 7421, 7435.
-

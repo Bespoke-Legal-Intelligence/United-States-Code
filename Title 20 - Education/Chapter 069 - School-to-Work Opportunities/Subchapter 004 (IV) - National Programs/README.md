@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—NATIONAL PROGRAMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 6235 of this title.
-
 
 ---
 

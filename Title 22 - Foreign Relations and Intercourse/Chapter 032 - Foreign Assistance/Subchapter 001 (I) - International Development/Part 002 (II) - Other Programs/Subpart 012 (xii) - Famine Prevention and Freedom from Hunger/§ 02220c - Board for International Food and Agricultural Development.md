@@ -94,9 +94,5 @@ Subsec. (d)(2). Pub. L. 106–373, §4(d)(2), substituted “Joint Operations Co
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2220e of this title.
-
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

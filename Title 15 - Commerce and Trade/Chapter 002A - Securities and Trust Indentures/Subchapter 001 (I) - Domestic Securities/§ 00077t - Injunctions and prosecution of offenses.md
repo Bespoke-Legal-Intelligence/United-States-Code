@@ -60,7 +60,7 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (e) Authority of court to prohibit persons from serving as officers and directors
 
-In any proceeding under subsection (b) of this section, the court may prohibit, conditionally orunconditionally, and permanently or for such period of time as it shall determine, any person who violated section 77q(a)(1) of this title from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78<i>l</i> of this title or that is required to file reports pursuant to section 78<i>o</i>(d) of this title if the person's conduct demonstrates unfitness to serve as an officer or director of any such issuer.
+In any proceeding under subsection (b) of this section, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated section 77q(a)(1) of this title from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78<i>l</i> of this title or that is required to file reports pursuant to section 78<i>o</i>(d) of this title if the person's conduct demonstrates unfitness to serve as an officer or director of any such issuer.
 
 #### (f) Prohibition of attorneys’ fees paid from Commission disgorgement funds
 
@@ -109,8 +109,4 @@ Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any im
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 77uuu of this title.
 

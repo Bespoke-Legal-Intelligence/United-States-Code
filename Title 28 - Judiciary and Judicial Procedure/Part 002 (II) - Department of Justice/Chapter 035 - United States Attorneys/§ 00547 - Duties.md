@@ -70,7 +70,3 @@ Changes in arrangement and phraseology were made.
 
 A prior section 547, acts June 25, 1948, ch. 646, 62 Stat. 912; Oct. 18, 1962, Pub. L. 87–845, §8, 76A Stat. 699, related to powers and duties of marshals, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 569 of this title by section 4(c) of Pub. L. 89–554.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 4243; title 19 section 2350; title 20 section 1082; title 31 section 3718; title 42 sections 292j, 12651d.
-

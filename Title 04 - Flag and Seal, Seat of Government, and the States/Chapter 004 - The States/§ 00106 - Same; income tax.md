@@ -6,7 +6,3 @@
 
 (July 30, 1947, ch. 389, 61 Stat. 644.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 107, 108, 109, 110 of this title.
-

@@ -12,7 +12,3 @@ Section was added by subsec. (c)(1) of section 304 of Pub. L. 85–568. Subsecs.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 951 of this title.
-

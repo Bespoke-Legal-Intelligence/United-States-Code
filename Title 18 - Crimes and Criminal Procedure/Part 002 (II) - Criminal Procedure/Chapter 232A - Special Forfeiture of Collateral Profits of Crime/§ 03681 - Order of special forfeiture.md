@@ -34,7 +34,3 @@ Pub. L. 99–399 inserted “an offense under section 794 of this title or for�
 
 Chapter effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98–473, set out as a note under section 10601 of Title 42, The Public Health and Welfare.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 10601.
-

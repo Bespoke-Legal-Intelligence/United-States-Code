@@ -64,7 +64,3 @@ Pub. L. 106–181, title VII, §728, Apr. 5, 2000, 114 Stat. 168, provided that:
 
 &emsp;“(2) 60 days have passed since the report was transmitted to Congress.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 46301 of this title.
-

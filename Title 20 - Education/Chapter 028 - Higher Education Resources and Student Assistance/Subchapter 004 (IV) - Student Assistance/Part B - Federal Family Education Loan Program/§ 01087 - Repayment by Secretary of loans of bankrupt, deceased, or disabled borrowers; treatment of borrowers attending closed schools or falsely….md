@@ -62,6 +62,10 @@ Subsec. (c)(4). Pub. L. 103–208, §2(c)(65), inserted at end “The amount dis
 
 1992—Pub. L. 102–325 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which related to repayment by Secretary of loans of bankrupt, deceased, or disabled borrowers.
 
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
@@ -69,10 +73,6 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1071, 1072a, 1075, 1077, 1078, 1080a, 1092b, 1099c of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

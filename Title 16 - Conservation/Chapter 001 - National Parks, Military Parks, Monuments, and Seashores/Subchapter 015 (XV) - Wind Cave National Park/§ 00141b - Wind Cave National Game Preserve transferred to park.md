@@ -8,7 +8,3 @@ Effective July 1, 1935, the Wind Cave National Game Preserve in the State of Sou
 
 Section 672 of this title, referred to in text, was omitted from the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 715k–1 of this title.
-

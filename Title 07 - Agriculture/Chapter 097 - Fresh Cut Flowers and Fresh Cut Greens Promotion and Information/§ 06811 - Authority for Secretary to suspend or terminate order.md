@@ -4,7 +4,3 @@ If the Secretary finds that an order, or any provision of the order, obstructs o
 
 (Pub. L. 103–190, §12, Dec. 14, 1993, 107 Stat. 2289.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6802 of this title.
-

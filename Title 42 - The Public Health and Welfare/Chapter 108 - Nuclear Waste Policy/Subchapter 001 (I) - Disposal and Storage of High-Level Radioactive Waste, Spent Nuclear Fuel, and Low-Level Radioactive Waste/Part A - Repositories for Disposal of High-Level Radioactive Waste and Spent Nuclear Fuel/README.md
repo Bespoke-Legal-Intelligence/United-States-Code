@@ -1,9 +1,5 @@
 Part A—Repositories for Disposal of High-Level Radioactive Waste and Spent Nuclear Fuel
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 10107, 10175 of this title.
-
 
 ---
 

@@ -1,9 +1,5 @@
 subpart 1—formula grants to local educational agencies
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 7492 of this title.
-
 
 ---
 

@@ -30,7 +30,7 @@ In reviewing potential projects, the Secretary shall consider criteria including
 
 (1) A financial award under this section may be made only to the extent of the Federal share of the estimated total design and construction costs, plus operation and maintenance costs.
 
-(2) For the purposes of this chapter the non-Federal share may be in any form, including, but not limited to, lands or interests thereinneeded for the project or personal property or services, the value of which shall be determined by the Secretary.
+(2) For the purposes of this chapter the non-Federal share may be in any form, including, but not limited to, lands or interests therein needed for the project or personal property or services, the value of which shall be determined by the Secretary.
 
 #### (d) Submission of proposals to Secretary; promulgation of regulations by Secretary establishing procedures; required contents of proposals and regulations
 
@@ -81,8 +81,4 @@ If the total estimated amount of the Federal contribution to the construction co
 #### Report to Congress on Environmental, Monitoring, Assessment, and Control Efforts Required for Demonstration Projects; Submission to Congress by December 3, 1977
 
 Pub. L. 95–39, title I, §113, June 3, 1977, 91 Stat. 187, directed Administrator of Energy Research and Development Administration, in consultation with Administrator of Environmental Protection Agency, to submit a report to Congress six months after June 3, 1977, on the environmental monitoring, assessment, and control efforts, relating to environment, safety, and health, which are required to successfully demonstrate any project which is subject to subsecs. (e) and (f) of this section and is authorized by this Act or any prior Act.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5585, 5915a, 5919 of this title.
 

@@ -80,7 +80,3 @@ seal\]
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2013, 2014, 2021 of this title.
-

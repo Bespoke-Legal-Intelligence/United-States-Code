@@ -24,15 +24,11 @@ The Secretary shall, by regulation and under such procedures as he may prescribe
 
 #### (c) Suspension or termination of exemptions
 
-The Secretary may immediately suspend or terminate any exemption under subsection (a)(2) or (6) of this section at any time with respect to any person, if the conditions of exemption prescribed by this section or the regulations of the Secretary are not being met. The Secretary may modify or revoke any regulation granting exemption under this chapter whenever he deems such action appropriate to effectuate the purposes of this chapter.
+The Secretary may immediately suspend or terminate any exemption under subsection (a)(2) or (6) of this section at any time with respect toany person, if the conditions of exemption prescribed by this section or the regulations of the Secretary are not being met. The Secretary may modify or revoke any regulation granting exemption under this chapter whenever he deems such action appropriate to effectuate the purposes of this chapter.
 
 (Pub. L. 91–597, §15, Dec. 29, 1970, 84 Stat. 1629; Pub. L. 92–67, Aug. 6, 1971, 85 Stat. 173.)
 
 #### Amendments
 
 1971—Subsecs. (b), (c). Pub. L. 92–67 added subsec. (b) and redesignated former subsec. (b) as (c).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1034 of this title.
 

@@ -36,7 +36,3 @@ Subsec. (b)(3). Pub. L. 100–418, §5171(b)(3)–(5), added par. (3).
 
 Subsec. (d). Pub. L. 100–418, §5171(c), added subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2656d, 3503 of this title.
-

@@ -20,7 +20,3 @@
 
 (Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1136.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1221, 7371, 9508 of this title; title 38 section 7101A.
-

@@ -88,29 +88,15 @@ Section 7 of Pub. L. 96–458 provided that: “This Act \[amending this section
 
 For termination, effective May 15, 2000, of provisions in this section relating to requirement that the Chief Justice submit to Congress an annual report of proceedings of the Judicial Conference and recommendations for legislation, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
+#### Deposit of Fees for Processing of Violations Through Central Violations Bureau Cases
+
+Pub. L. 108–447, div. B, title III, §308, Dec. 8, 2004, 118 Stat. 2895, provided that: “For fiscal year 2005 and hereafter, such fees as shall be collected for the processing of violations through the Central Violations Bureau cases as prescribed by the Judicial Conference of the United States shall be deposited to the ‘Courts of Appeals, District Courts, and Other Judicial Services, Salaries and Expenses’ appropriation to be used for salaries and other expenses.”
+
 #### Policies, Procedures, and Methodologies Used in Recommendation for Creation of Additional Federal Judgeships; Study by General Accounting Office and Report to Congress
 
-Pub. L. 101–650, title II, §205, Dec. 1, 1990, 104 Stat. 5103, provided that:
-
-“(a)
-
-In General.—The Comptroller General of the United States shall review the policies, procedures, and methodologies used by the Judicial Conference of the United States in recommending to the Congress the creation of additional Federal judgeships. In conducting such review the Comptroller General shall, at a minimum, determine the extent to which such policies, procedures, and methodologies—
-
-&emsp;“(1) provide an accurate measure of the workload of existing judges;
-
-&emsp;“(2) are applied consistently to the various circuit courts of appeals and district courts; and
-
-&emsp;“(3) provide an accurate indicator of the need for additional judgeships.
-
-“(b)
-
-Report to Congress.—The Comptroller General shall, not later than 18 months after the date of the enactment of this Act \[Dec. 1, 1990\], report the results of the review conducted under subsection (a) to the Committees on the Judiciary of the House of Representatives and the Senate. The report shall include such recommendations as the Comptroller General considers appropriate for revisions of the policies, procedures, and methodologies used by the Judicial Conference that were reviewed in the report.”
+Pub. L. 101–650, title II, §205, Dec. 1, 1990, 104 Stat. 5103, provided that the Comptroller General was to review the policies, procedures, and methodologies used by the Judicial Conference of the United States in recommending to Congress the creation of additional Federal judgeships and, not later than 18 months after Dec. 1, 1990, report the results of the review, with recommendations, to the appropriate congressional committees.
 
 #### Federal Courts Study Committee
 
-Title I of Pub. L. 100–702, known as the “Federal Courts Study Act”, established within the JudicialConference of the United States, a Federal Courts Study Committee on the future of the Federal Judiciary, which was directed to examine problems and issues currently facing the courts of the United States, develop a long-range plan for the future of the Federal Judiciary, including assessments involving alternative methods of dispute resolution, the structure and administration of the Federal court system, methods of resolving intracircuit and intercircuit conflicts in the courts of appeals, and the types of disputes resolved by the Federal courts, and to submit, within 15 months after Jan. 1, 1989, a report to the Judicial Conference of the United States, the President, the Congress, the Conference of Chief Justices, and the State Justice Institute on the revisions, if any, in the laws of the United States which the Committee, based on its study and evaluation, deemed advisable, and further provided for membership of the Committee, duties, powers and functions, compensation of members, appropriations, and expiration of the Committee 60 days after submission of report.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 356, 357, 359, 360, 372 of this title; title 42 section 10608.
+Title I of Pub. L. 100–702, known as the “Federal Courts Study Act”, established within the Judicial Conference of the United States, a Federal Courts Study Committee on the future of the Federal Judiciary, which was directed to examine problems and issues currently facing the courts of the United States, develop a long-range plan for the future of the Federal Judiciary, including assessments involving alternative methods of dispute resolution, the structure and administration of the Federal court system, methods of resolving intracircuit and intercircuit conflicts in the courts of appeals, and the types of disputes resolved by the Federal courts, and to submit, within 15 months after Jan. 1, 1989, a report to the Judicial Conference of the United States, the President, the Congress, the Conference of Chief Justices, and the State Justice Institute on the revisions, if any, in the laws of the United States which the Committee, based on its study and evaluation, deemed advisable, and further provided for membership of the Committee, duties, powers and functions, compensation of members, appropriations, and expiration of the Committee 60 days after submission of report.
 

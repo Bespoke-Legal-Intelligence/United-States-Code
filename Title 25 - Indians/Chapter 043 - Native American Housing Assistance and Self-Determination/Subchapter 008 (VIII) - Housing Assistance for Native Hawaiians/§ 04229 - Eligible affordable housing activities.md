@@ -44,7 +44,7 @@ The activities described in this subsection are the following:
 
 &emsp;&emsp;(D) activities related to the provisions of self-sufficiency and other services; and
 
-&emsp;&emsp;(E) other services related to assisting owners, tenants, contractors, and other entities participating or seeking to participate inother housing activities assisted pursuant to this section.
+&emsp;&emsp;(E) other services related to assisting owners, tenants, contractors, and other entities participating or seeking to participate in other housing activities assisted pursuant to this section.
 
 #### (3) Housing management services
 
@@ -79,8 +79,4 @@ The activities described in this subsection are the following:
 #### Codification
 
 Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted identical sections 810 of Pub. L. 104–330. This section is based on the text of section 810 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4228, 4230 of this title.
 

@@ -12,7 +12,3 @@ The public land laws, referred to in text, are classified generally to this titl
 
 1947—Act Aug. 6, 1947, provided that 331/3 per centum of grazing fees on certain Indian lands be paid to the States and the remaining 662/3 per centum of such fees be credited to the Indians.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 315i, 315m–1, 315m–4, 1751 of this title; title 25 section 672.
-

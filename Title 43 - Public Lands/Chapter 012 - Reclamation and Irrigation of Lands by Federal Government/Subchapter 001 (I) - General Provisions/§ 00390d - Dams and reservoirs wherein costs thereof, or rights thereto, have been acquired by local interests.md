@@ -4,7 +4,3 @@ Sections 390c to 390f of this title are applicable to all dams and reservoirs he
 
 (Pub. L. 88–140, §2, Oct. 16, 1963, 77 Stat. 249.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390f of this title.
-

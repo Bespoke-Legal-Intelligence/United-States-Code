@@ -5,4 +5,6 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00441g - Scholarships and work-study for pursuit of graduate degrees in science and technology](%C2%A7%2000441g%20-%20Scholarships%20and%20work-study%20for%20pursuit%20of%20graduate%20degrees%20in%20science%20and%20technology.md)
+- [Part A - Science and Technology](Part%20A%20-%20Science%20and%20Technology/README.md)
+- [Part B - Foreign Languages Program](Part%20B%20-%20Foreign%20Languages%20Program/README.md)
+- [Part C - Additional Education Provisions](Part%20C%20-%20Additional%20Education%20Provisions/README.md)

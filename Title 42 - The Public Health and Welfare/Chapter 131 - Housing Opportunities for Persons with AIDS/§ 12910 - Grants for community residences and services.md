@@ -130,7 +130,3 @@ Subsec. (d)(1)(D). Pub. L. 102–550, §606(j)(10)(B), inserted “with acquired
 
 Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12904 of this title.
-

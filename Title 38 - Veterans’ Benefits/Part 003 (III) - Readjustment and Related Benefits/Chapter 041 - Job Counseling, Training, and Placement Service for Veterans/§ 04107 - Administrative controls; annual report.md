@@ -8,7 +8,7 @@
 
 (b) The Secretary shall apply performance standards established under section 4102A(f) of this title for determining compliance by the State public employment service agencies with the provisions of this chapter and chapter 42 of this title. Not later than February 1 of each year, the Secretary shall report to the Committees on Veterans’ Affairs of the Senate and the House of Representatives on the performance of States and organizations and entities carrying out employment, training, and placement services under this chapter, as measured under subsection (b)(7) of section 4102A of this title. In the case of a State that the Secretary determines has not met the minimum standard of performance (established by the Secretary under subsection (f) of such section), the Secretary shall include an analysis of the extent and reasons for the State's failure to meet that minimum standard, together with the State's plan for corrective action during the succeeding year.
 
-(c) Not later than February 1 of each year, the Secretary shall report to the Committees onVeterans’ Affairs of the Senate and the House of Representatives on the success during the preceding program year of the Department of Labor and its affiliated State employment service agencies in carrying out the provisions of this chapter and programs for the provision of employment and training services to meet the needs of eligible veterans and eligible persons. The report shall include—
+(c) Not later than February 1 of each year, the Secretary shall report to the Committees on Veterans’ Affairs of the Senate and the House of Representatives on the success during the preceding program year of the Department of Labor and its affiliated State employment service agencies in carrying out the provisions of this chapter and programs for the provision of employment and training services to meet the needs of eligible veterans and eligible persons. The report shall include—
 
 &emsp;(1) specification, by State and by age group, of the numbers of eligible veterans, disabled veterans, special disabled veterans, eligible persons, recently separated veterans (as defined in section 4211(6) of this title), and servicemembers transitioning to civilian careers who registered for assistance with, or who are identified as veterans by, the public employment service system and, for each of such categories, the numbers referred to and placed in permanent and other jobs, the numbers referred to and placed in jobs and job training programs supported by the Federal Government, the number who received intensive services, and the number who received some, and the number who received no, reportable service;
 
@@ -44,7 +44,7 @@ Subsec. (c)(1). Pub. L. 107–288, §5(d)(1)(A), struck out “veterans of the V
 
 Pub. L. 107–288, §5(a)(1)(E), substituted “the number who received intensive services” for “the number counseled”.
 
-Subsec. (c)(2). Pub. L. 107–288, §5(d)(1)(B), substituted “the rate of entered employment (as determined in a manner consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998) for each of the categories” for “the job placement rate for each of the categories” and“such rate of entered employment (as so determined) for nonveterans” for “the job placement rate for nonveterans”.
+Subsec. (c)(2). Pub. L. 107–288, §5(d)(1)(B), substituted “the rate of entered employment (as determined in a manner consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998) for each of the categories” for “the job placement rate for each of the categories” and “such rate of entered employment (as so determined) for nonveterans” for “the job placement rate for nonveterans”.
 
 Subsec. (c)(4). Pub. L. 107–288, §5(d)(1)(C), substituted “section 4212(d)” for “sections 4103A and 4104”.
 
@@ -113,8 +113,4 @@ Section 513 of Pub. L. 96–466 provided that:
 “(b) For the purposes of this section, veterans who during the Vietnam era served in Vietnam, in air missions over Vietnam, or in naval missions in the waters adjacent to Vietnam shall be considered to be veterans who served in the Vietnam theatre of operations.”
 
 Section 802(e) of Pub. L. 96–466 provided in part that the provisions of section 513 shall become effective on Oct. 1, 1980.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4212, 4215 of this title.
 

@@ -24,7 +24,3 @@
 
 Amendment by Pub. L. 95–216 effective Jan. 1, 1978, see section 351(d) of Pub. L. 95–216, set out as a note under section 409 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 413, 415 of this title.
-

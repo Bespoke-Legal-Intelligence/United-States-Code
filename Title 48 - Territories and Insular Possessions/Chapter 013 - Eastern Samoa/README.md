@@ -21,7 +21,7 @@
 | [1669\.](%C2%A7%2001669%20-%20Administration%20and%20enforcement%20of%20collection%20of%20customs%20duties%3B%20employment%20and%20training%20of%20residents.md) | Administration and enforcement of collection of customs duties; employment and training of residents. |
 | [1670\.](%C2%A7%2001670%20-%20Industrial%20development%20bonds.md) | Industrial development bonds. |
 | (a) | Issuance. |
-| (b) | Exemption from taxation; “State” defined. |
+| (b) | Exemption of all bonds from income taxation by State and local governments. |
 | (c) | Cross reference. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

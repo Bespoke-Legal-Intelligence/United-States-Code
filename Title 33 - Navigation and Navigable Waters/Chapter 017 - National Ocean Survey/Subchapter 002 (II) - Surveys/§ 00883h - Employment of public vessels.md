@@ -6,9 +6,5 @@ The President is authorized to cause to be employed such of the public vessels a
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Commerce, see section 1(<i>l</i>) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, set out as a note under section 301 of Title 3, The President.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 44721.
+Functions of President under this section delegated to Secretary of Commerce, see section 1(<i>l</i>) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
 

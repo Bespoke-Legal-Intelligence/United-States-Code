@@ -28,7 +28,7 @@ The Federal antitrust laws, referred to in subsec. (c), are classified generally
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–39, §1, June 30, 2003, 117 Stat. 835, provided that: “This Act \[amending section 763 of this title\] maybe cited as the ‘ORBIT Technical Corrections Act of 2003’.”
+Pub. L. 108–39, §1, June 30, 2003, 117 Stat. 835, provided that: “This Act \[amending section 763 of this title\] may be cited as the ‘ORBIT Technical Corrections Act of 2003’.”
 
 #### Short Title of 2000 Amendment
 
@@ -103,8 +103,4 @@ Definition.—For the purposes of this section, the term ‘separate internation
 &emsp;“(1) primarily for domestic telecommunications purposes and which incidentally provides services on an ancillary basis to points outside the jurisdiction of the United States but within the western hemisphere, or
 
 &emsp;“(2) solely for unique governmental purposes.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 743, 765d of this title.
 

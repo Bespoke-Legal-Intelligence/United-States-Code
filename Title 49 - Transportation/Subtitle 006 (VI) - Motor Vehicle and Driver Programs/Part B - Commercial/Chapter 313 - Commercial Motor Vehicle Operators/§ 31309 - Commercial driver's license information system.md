@@ -144,7 +144,3 @@ Completion date.—The pilot program shall end on the last day of the 18-month p
 
 Rulemaking.—After completion of the pilot program, the Secretary shall initiate, if appropriate, a rulemaking to revise the information system under section 31309 of title 49, United States Code, to take into account the results of the pilot program.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30304, 31106, 31107, 31311 of this title.
-

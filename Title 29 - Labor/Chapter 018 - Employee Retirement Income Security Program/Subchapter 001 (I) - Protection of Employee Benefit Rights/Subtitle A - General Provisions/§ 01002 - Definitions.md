@@ -34,7 +34,7 @@ For purposes of this subchapter:
 
 (9) The term “person” means an individual, partnership, joint venture, corporation, mutual company, joint-stock company, trust, estate, unincorporated organization, association, or employee organization.
 
-(10) The term “State” includes any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island, and the Canal Zone. The term “United States” when used in the geographic sense means the States and the Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act (43 U.S.C. 1331–1343).
+(10) The term “State” includes any State of the United States, the District of Columbia,Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island, and the Canal Zone. The term “United States” when used in the geographic sense means the States and the Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act (43 U.S.C. 1331–1343).
 
 (11) The term “commerce” means trade, traffic, commerce, transportation, or communication between any State and any place outside thereof.
 
@@ -184,7 +184,7 @@ For purposes of this subchapter:
 
 &emsp;(I) the period ending 270 days after the date of mailing by the Secretary of the Treasury of a notice of default with respect to the plan's failure to meet one or more of the requirements of this paragraph; or
 
-&emsp;(II) any period set by a court of competent jurisdiction after a final determination that the plan fails to meet such requirements, or, if the court does not specify such period, any reasonable period determined by the Secretary of the Treasury on the basis of all the facts and circumstances, but in any event not less than 270 days after the determination has become final; or
+&emsp;(II) any period set by a court of competent jurisdiction after a final determination that the plan fails to meet such requirements, or, if the court does not specify such period, any reasonable period determined by the Secretary of the Treasury on the basis of all the facts and circumstances, but in any event not lessthan 270 days after the determination has become final; or
 
 &emsp;(III) any additional period which the Secretary of the Treasury determines is reasonable or necessary for the correction of the default,
 
@@ -290,11 +290,11 @@ Section 77b(1) of title 15, referred to in par. (20), was redesignated section 7
 
 The Investment Company Act of 1940, referred to in par. (21)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
-The Railroad Retirement Act of 1935 or 1937, referred to in par. (32), means act Aug. 29, 1935, ch. 812, 49 Stat. 867, as amended, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305 and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
+The Railroad Retirement Act of 1935 or 1937, referred to in par. (32), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, as amended, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305 and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
 The International Organizations Immunities Act, referred to in par. (32), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
-Sections 1453(b) and (c) of this title, referred to in par. (37)(E), was in the original “sections 4403(b) and (c)”, meaning sections 4403(b) and (c) of the Employee Retirement Income Security Act of 1974, which was translated as section 1453(b) and (c) of this title as the probable intent of Congress, in view of the Employee Retirement Income Security Act of 1974 not containing a section 4403 and the subject matter of section 4303 of the Act which is classified to section 1453(b) and (c) of this title.
+Sections 1453(b) and (c) of this title, referred to in par. (37)(E), was in the original “sections 4403(b) and (c)”, meaning sections 4403(b) and (c) of the Employee Retirement Income Security Act of 1974, which wastranslated as section 1453(b) and (c) of this title as the probable intent of Congress, in view of the Employee Retirement Income Security Act of 1974 not containing a section 4403 and the subject matter of section 4303 of the Act which is classified to section 1453(b) and (c) of this title.
 
 The Internal Revenue Code of 1954, referred to in par. (37)(E), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, and is classified to Title 26, Internal Revenue Code.
 
@@ -427,10 +427,6 @@ Section 1(b) of Pub. L. 105–72 provided that: “A fiduciary shall be treated 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 For provisions directing that if any amendments made by Pub. L. 99–509 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 623, 1003, 1021, 1023, 1053, 1055, 1056, 1081, 1082, 1143a, 1144, 1144a, 1301, 1321, 1342, 1453, 2104, 2611, 2918 of this title; title 5 sections 8438, 8477; title 7 section 2009cc; title 12 section 1821; title 15 sections 77b, 78c, 662, 7244; title 18 section 1954; title 26 sections 35, 412, 414, 3121, 3306, 4980B, 4980D, 9702, 9712, 9803; title 38 sections 4303, 4317, 4318; title 42 sections 300bb–8, 300gg–91, 409, 1306, 1320d, 1395w–132, 3020e–1.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

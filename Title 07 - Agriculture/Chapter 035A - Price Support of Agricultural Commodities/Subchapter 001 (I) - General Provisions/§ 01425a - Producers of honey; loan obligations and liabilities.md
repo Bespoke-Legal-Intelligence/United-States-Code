@@ -2,11 +2,11 @@
 
 #### (a) Loan forfeiture limitation
 
-A producer of honey may satisfy the producer's obligation to repay a loan, or a portion of a loan, made to the producer under section 1446h <sup>1</sup> of this title by forfeiting the collateral for the loan, or portion of the loan, only if the value of the collateral forfeited, when taken together with the value of the collateral forfeited on any other loan or loans of the person for such crop of honey under section 1446h <sup>1</sup> of this title, does not exceed $200,000 in the 1991 crop year, $175,000 in the 1992 crop year, $150,000 in the 1993 crop year, and $125,000 in each of the 1994 and subsequent crop years: <i>Provided, however</i>, That the loan forfeiture limitation provided by this section shall not be applicable for any crop year for which the Secretary does not permit producers of honey to repay the price support loans at a level determined under section 1446h(b)(2) <sup>1</sup> of this title.
+A producer of honey may satisfy the producer's obligation to repay a loan, or a portion of aloan, made to the producer under section 1446h <sup>1</sup> of this title by forfeiting the collateral for the loan, or portion of the loan, only if the value of the collateral forfeited, when taken together with the value of the collateral forfeited on any other loan or loans of the person for such crop of honey under section 1446h <sup>1</sup> of this title, does not exceed $200,000 in the 1991 crop year, $175,000 in the 1992 crop year, $150,000 in the 1993 crop year, and $125,000 in each of the 1994 and subsequent crop years: <i>Provided, however</i>, That the loan forfeiture limitation provided by this section shall not be applicable for any crop year for which the Secretary does not permit producers of honey to repay the price support loans at a level determined under section 1446h(b)(2) <sup>1</sup> of this title.
 
 #### (b) Liability for nonforfeitable part of obligation
 
-The producer of honey shall be personally liable for the repayment of a loan or loans made to the producer under the program for the crop of honey involved, with respect to that portion of the loan or loans for which satisfaction of theloan by forfeiture, as provided in subsection (a) of this section, is prohibited.
+The producer of honey shall be personally liable for the repayment of a loan or loans made to the producer under the program for the crop of honey involved, with respect to that portion of the loan or loans for which satisfaction of the loan by forfeiture, as provided in subsection (a) of this section, is prohibited.
 
 #### (c) Extent of personal liability
 
@@ -49,10 +49,6 @@ Similar provisions were contained in the following prior appropriation acts:
 Pub. L. 103–330, title VII, §723, Sept. 30, 1994, 108 Stat. 2469.
 
 Pub. L. 103–111, title VII, §728, Oct. 21, 1993, 107 Stat. 1081.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1425 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -86,9 +86,5 @@ Notwithstanding the provisions of the Federal Financing Bank Act of 1973 (12 U.S
 
 The Federal Financing Bank Act of 1973, referred to in subsec. (h), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, as amended, which is classified generally to chapter 24 (§2281 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2281 of Title 12 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8832, 8833 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

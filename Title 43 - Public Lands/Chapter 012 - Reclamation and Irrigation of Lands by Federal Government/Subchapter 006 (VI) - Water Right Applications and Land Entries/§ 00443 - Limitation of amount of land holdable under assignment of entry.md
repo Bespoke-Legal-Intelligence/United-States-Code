@@ -4,7 +4,3 @@ No person shall hold by assignment more than one farm unit prior to final paymen
 
 (Aug. 13, 1914, ch. 247, §13, 38 Stat. 690.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 475 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER VIII—AGRICULTURAL MORTGAGE SECONDARY MARKET
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2013, 2073, 2093, 2154a, 2250 of this title.
-
 
 ---
 

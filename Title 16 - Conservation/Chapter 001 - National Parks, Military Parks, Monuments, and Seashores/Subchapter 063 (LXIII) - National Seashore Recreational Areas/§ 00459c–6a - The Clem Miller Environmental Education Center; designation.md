@@ -8,7 +8,3 @@ The Secretary shall designate the principal environmental education center withi
 
 Section 7(b) of Pub. L. 94–567 enacted this section as did section 4(b) of Pub. L. 94–544.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459c–2, 459c–4, 459c–5, 459c–6, 459c–6b, 459c–7 of this title.
-

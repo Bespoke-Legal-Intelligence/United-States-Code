@@ -58,7 +58,7 @@ No compensation shall be paid to the members of the Board for their services as 
 
 #### (1) In general
 
-&emsp;The Foundation is authorized to accept, receive, solicit, hold, administer, and use any gifts, devises, or bequests, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein for the benefit of or in connection with rural tourism, except that the Foundation may not accept any such gift, devise, or bequest which entails any expenditure other than from the resources of the Foundation. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of rural tourism.
+&emsp;The Foundation is authorized to accept, receive, solicit, hold, administer, and use any gifts, devises, or bequests, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein for the benefit of or in connection with rural tourism, except that the Foundation may not accept any such gift, devise, or bequest which entails any expenditure other than from the resources of the Foundation. A gift, devise, or bequest may be accepted by the Foundationeven though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of rural tourism.
 
 #### (2) Indians
 
@@ -80,7 +80,7 @@ The Foundation shall have the power to enter into contracts, to execute instrume
 
 #### (1) In general
 
-&emsp;In carrying out the provisions of this section, the Board may adopt bylaws, rules, and regulations necessary for the administration of its functions and may hire officers and employees and contract for any other necessary services. Such officers and employees shall be appointed without regard to the provisions oftitle 5 governing appointments in the competitive service and may be paid without regard to the provisions of chapters 51 and 53 of such title relating to classification and General Schedule pay rates.
+&emsp;In carrying out the provisions of this section, the Board may adopt bylaws, rules, and regulations necessary for the administration of its functions and may hire officers and employees and contract for any other necessary services. Such officers and employees shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service and may be paid without regard to the provisions of chapters 51 and 53 of such title relating to classification and General Schedule pay rates.
 
 #### (2) Services
 

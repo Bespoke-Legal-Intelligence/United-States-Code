@@ -12,7 +12,7 @@ The Secretary of the Interior is authorized in his discretion, to—
 
 #### (b) Multiple ownership of land
 
-Where lands are held in multiple ownership, the Secretary is authorized to sell and exchange such lands to other Indians or the Yakima Tribes only if the sale or exchange is authorized in writing by the owners of at least a majority interest in such lands; except that no greater percentage of approval of individual Indians shall be required under sections 608 to 608c of this title than in any other statute of general application approved by Congress.
+Where lands are held in multiple ownership, the Secretary is authorized to sell and exchange such lands to other Indians or the Yakima Tribes only if the sale or exchange is authorized in writing by the owners of at least a majority interest in such lands; except that no greaterpercentage of approval of individual Indians shall be required under sections 608 to 608c of this title than in any other statute of general application approved by Congress.
 
 #### (c) Acquisitions to be held in trust
 
@@ -37,8 +37,4 @@ Pub. L. 101–301, §1(a)(3), repealed Pub. L. 100–581, §213. See 1988 Amendm
 1988—Subsec. (c). Pub. L. 100–581, §213, which directed the general amendment of subsec. (c) of Pub. L. 88–540, cited as a credit to this section, was repealed by Pub. L. 101–301, §1(a)(3).
 
 1964—Pub. L. 88–540 amended section generally, and among other changes, permits acquisitions by gift or relinquishment, acquisition of any land within the reservation or area ceded to the United States by the treaty of June 9, 1855, sale of tribal land not only to tribe members, but also to Federal, State, or local government for recreational, educational, civic, or other public purposes, exchange of tribal land for any land within the reservation or the ceded area, lands held in multiple ownership to be sold or exchanged upon the written authorization of owners of at least a majority interest in the lands or any lesser percentage that may be provided in a statute of general application, and title to land in fee status acquired by the tribes to be taken in fee status.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 465, 608b, 608c of this title.
 

@@ -1,0 +1,10 @@
+### §441g–1. Framework for cross-disciplinary education and training
+
+The Director of National Intelligence shall establish an integrated framework that brings together the educational components of the intelligence community in order to promote a more effective and productive intelligence community through cross-disciplinary education and joint training.
+
+(July 26, 1947, ch. 343, title X, §1002, as added Pub. L. 108–458, title I, §1042, Dec. 17, 2004, 118 Stat. 3679.)
+
+#### Effective Date
+
+Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+

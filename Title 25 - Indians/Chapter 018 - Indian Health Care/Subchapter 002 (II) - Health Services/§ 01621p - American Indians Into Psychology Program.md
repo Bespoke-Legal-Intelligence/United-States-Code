@@ -18,7 +18,7 @@ The Secretary shall provide one of the grants authorized under subsection (a) of
 
 &emsp;(B) incorporates a program advisory board comprised of representatives from the tribes and communities that will be served by the program;
 
-&emsp;(C) provides summer enrichment programs to expose Indian students to the varied fieldsof psychology through research, clinical, and experiential activities;
+&emsp;(C) provides summer enrichment programs to expose Indian students to the varied fields of psychology through research, clinical, and experiential activities;
 
 &emsp;(D) provides stipends to undergraduate and graduate students to pursue a career in psychology;
 
@@ -30,7 +30,7 @@ The Secretary shall provide one of the grants authorized under subsection (a) of
 
 #### (d) Active duty service obligation
 
-The active duty service obligation prescribed under section 254m of title 42 shall be met by each graduate student who receives a stipend described in subsection (c)(2)(D) of this section that is funded by a grant provided under this section. Such obligation shall be met by service—
+The active duty service obligation prescribed under section 254m of title 42 shall be met byeach graduate student who receives a stipend described in subsection (c)(2)(D) of this section that is funded by a grant provided under this section. Such obligation shall be met by service—
 
 &emsp;(1) in the Indian Health Service;
 
@@ -45,8 +45,4 @@ The active duty service obligation prescribed under section 254m of title 42 sha
 #### References in Text
 
 The Indian Self-Determination Act, referred to in subsec. (d)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1616e, 1616g of this title.
 

@@ -98,13 +98,13 @@ Deadline for operational capability.—The database established under subparagra
 
 #### (c) Revolving funds; disaster loan fund; business loan and investment fund; payments into funds; appropriations; reports to Congress; business-type budgets; borrowing authority: terms and conditions of notes, interest rate, public debt transactions; payments into miscellaneous receipts; authorization of appropriations for losses and interest subsidies
 
-(1) There are established in the Treasury the following revolving funds: (A) a disaster loan fund which shall be available for financing functions performed under sections 634(e), 636(b)(1), 636(b)(2), 636(b)(3), 636(b)(4), 636(c)(2), and 636(m) of this title; and (B) a business loan and investment fund which shall be available for financing functions performed under sections 634(g), 636(a) and 637(a) of this title, and titles III, IV and Vof the Small Business Investment Act of 1958 \[15 U.S.C. 681 et seq., 692 et seq., 695 et seq.\].
+(1) There are established in the Treasury the following revolving funds: (A) a disaster loan fund which shall be available for financing functions performed under sections 634(e), 636(b)(1), 636(b)(2), 636(b)(3), 636(b)(4), 636(c)(2), and 636(m) of this title; and (B) a business loan and investment fund which shall be available for financing functions performed under sections 634(g), 636(a) and 637(a) of this title, and titles III, IV and V of the Small Business Investment Act of 1958 \[15 U.S.C. 681 et seq., 692 et seq., 695 et seq.\].
 
 (2) All repayments of loans and debentures, payments of interest and other receipts arising out of transactions heretofore or hereafter entered into by the Administration (A) pursuant to sections 634(e), 636(b)(1), 636(b)(2), 636(b)(3), 636(b)(4), 636(b)(5), 636(b)(6), 636(b)(7), 636(b)(8), 636(c)(2), and 636(g) of this title, shall be paid into a disaster loan fund; and (B) pursuant to sections 634(g), 636(a), 636(e),<sup>1</sup> 636(h), 636(i), 636(<i>l</i>),<sup>1</sup> 636(m), and 637(a) of this title, and titles III, IV and V of the Small Business Investment Act of 1958 \[15 U.S.C. 681 et seq., 692 et seq., 695 et seq.\], shall be paid into the business loan and investment fund.
 
 (3) Unexpended balances of appropriations made to the fund pursuant to this subsection, as in effect immediately prior to the effective date of this paragraph, shall be allocated, together with related assets and liabilities, to the funds established by paragraph (1) in such amounts as the Administrator shall determine.
 
-(4) The Administration shall submit to the Committees on Appropriations, Senate Select Committee on Small Business, and the Committee on Small Business of the House of Representatives, as soon as possible after the beginning of each calendar quarter, a full and complete report on the status of each of the funds established by paragraph (1). Business-type budgets for each of the funds established by paragraph (1) shall be prepared, transmitted to the Committees on Appropriations, the Senate Select Committee on Small Business, and the Committee on Small Business of the House of Representatives, and considered, and enacted in the manner prescribed by law (sections 9103 and 9104 of title 31) for wholly owned Government corporations.
+(4) The Administration shall submit to the Committees on Appropriations, Senate Select Committee on Small Business, and the Committee on Small Business of the House of Representatives, as soon as possible after the beginning of each calendar quarter, a full and complete report on the status of each of the fundsestablished by paragraph (1). Business-type budgets for each of the funds established by paragraph (1) shall be prepared, transmitted to the Committees on Appropriations, the Senate Select Committee on Small Business, and the Committee on Small Business of the House of Representatives, and considered, and enacted in the manner prescribed by law (sections 9103 and 9104 of title 31) for wholly owned Government corporations.
 
 (5)(A) The Administration is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under the revolving funds created by paragraph (1) and for authorized expenditures out of the funds. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Administration with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Administration under this paragraph. The Secretary of the Treasury is authorized and directed to purchase any notes of the Administration issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Administration. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States. All borrowing authority contained herein shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
@@ -128,7 +128,7 @@ Notwithstanding any other provision of law, the Administration is prohibited fro
 
 #### (1) In general
 
-&emsp;For financial assistance approved after the promulgation of final regulations to implement this section, each recipient of financialassistance under this chapter, including a recipient of a direct loan or a loan guarantee, shall certify that the recipient is not more than 60 days delinquent under the terms of any—
+&emsp;For financial assistance approved after the promulgation of final regulations to implement this section, each recipient of financial assistance under this chapter, including a recipient of a direct loan or a loan guarantee, shall certify that the recipient is not more than 60 days delinquent under the terms of any—
 
 &emsp;&emsp;(A) administrative order;
 
@@ -142,17 +142,71 @@ Notwithstanding any other provision of law, the Administration is prohibited fro
 
 &emsp;Not later than 6 months after October 22, 1994, the Administration shall promulgate such regulations as may be necessary to enforce compliance with the requirements of this subsection.
 
-(Pub. L. 85–536, §2\[4\], July 18, 1958, 72 Stat. 384; Pub. L. 85–699, title II, §202, formerly §202(a), Aug. 21, 1958, 72 Stat. 690, renumbered Pub. L. 87–341, §11(h)(1), Oct. 3, 1961, 75 Stat. 757; amended Pub. L. 86–367, §1, Sept. 22, 1959, 73 Stat. 647; Pub. L. 87–70, title III, §305(c), June 30, 1961, 75 Stat. 167; Pub. L. 87–198, Sept. 5, 1961, 75 Stat. 468; Pub. L. 87–305, §3, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–341, §§11(h)(3), (4), 12, Oct. 3, 1961, 75 Stat. 757; Pub. L. 87–550, §1(a), July 25, 1962, 76 Stat. 220; Pub. L. 89–59, §§1(c), 2, June 30, 1965, 79 Stat. 207; Pub. L. 89–78, July 21, 1965, 79 Stat. 243; Pub. L. 89–117, title III, §316(d), Aug. 10, 1965, 79 Stat. 484; Pub. L. 89–334, Nov. 8, 1965, 79 Stat. 1294; Pub. L. 89–409, §§1, 2, May 2, 1966, 80 Stat. 132; Pub. L. 89–779, §8(a), (b), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–104, title I, §102, Oct. 11, 1967, 81 Stat. 268; Pub. L. 90–448, title XVII, §1721, Aug. 1, 1968, 82 Stat. 610; Pub. L. 91–173, title V, §504(c), Dec. 30, 1969, 83 Stat. 802; Pub. L. 91–558, title I, §101, Dec. 17, 1970, 84 Stat. 1468; Pub. L. 91–596, §28(c), Dec. 29, 1970, 84 Stat. 1618; Pub. L. 91–597, §25(c), Dec. 29, 1970, 84 Stat. 1634; Pub. L. 92–16, May 18, 1971, 85 Stat. 39; Pub. L. 92–320, §1, June 27, 1972, 86 Stat. 382; Pub. L. 92–385, §2(b), Aug. 16, 1972, 86 Stat. 556; Pub. L. 92–500, §8(b), Oct. 18, 1972, 86 Stat. 899; Pub. L. 92–595, §3(a), Oct. 27, 1972, 86 Stat. 1316; Pub. L. 93–237, §§1, 3(b), 8, Jan. 2, 1974, 87 Stat. 1023–1025; Pub. L. 93–386, §§2(a)(2), (3), 7, Aug. 23, 1974, 88 Stat. 742, 748; Pub. L. 94–273, §2(5), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–14, §§1–3, Mar. 24, 1977, 91 Stat. 25; Pub. L. 95–89, title I, §101(a)–(c), title II, §§201, 202, title III, §304, title IV, §401, Aug. 4, 1977, 91 Stat. 553, 557, 559; Pub. L. 95–315, §4, July 4, 1978, 92 Stat. 379; Pub. L. 95–507, title II, §206, Oct. 24, 1978, 92 Stat. 1766; Pub. L. 96–302, title I, §121, title IV, §401, July 2, 1980, 94 Stat. 842, 849; Pub. L. 96–481, title I, §103, Oct. 21, 1980, 94 Stat. 2321; Pub. L. 97–35, title XIX, §§1908, 1913(b), 1915, Aug. 13, 1981, 95 Stat. 778, 780; Pub. L. 98–270, title III, §306, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–352, §5, July 10, 1984, 98 Stat. 331; Pub. L. 98–362, §§3, 4, July 16, 1984, 98 Stat. 431, 433; Pub. L. 100–590, title I, §111(a), Nov. 3, 1988, 102 Stat. 2995; Pub. L. 100–656, title IV, §401(a), Nov. 15, 1988, 102 Stat. 3873; Pub. L. 101–37, §11(a), June 15, 1989, 103 Stat. 73; Pub. L. 101–515, title V, §1(a), Nov. 5, 1990, 104 Stat. 2140; Pub. L. 101–574, title II, §221(a), Nov. 15, 1990, 104 Stat. 2823; Pub. L. 102–140, title VI, §609(k), Oct. 28, 1991, 105 Stat. 831; Pub. L. 103–403, title VI, §§601, 611, 612, Oct. 22, 1994, 108 Stat. 4201, 4204; Pub. L. 104–208, div. D, title I, §102, Sept. 30, 1996, 110 Stat. 3009–725; Pub. L. 106–50, title II, §201(a), Aug. 17, 1999, 113 Stat. 235.)
+#### (g) Gifts
+
+#### (1) In general
+
+&emsp;The Administrator may, for purposes of this chapter, the Small Business Investment Act of 1954,<sup>2</sup> and title IV of the Women's Business Ownership Act of 1988 \[15 U.S.C. 7101 et seq.\], solicit, accept, hold, administer, utilize, and dispose of gifts, devises, and bequests of cash,property (including tangible, intangible, real, and personal), subsistence, and services. Notwithstanding any other provision of law, the Administrator may utilize gifts, devises, or bequests for marketing and outreach activities, including the cost of promotional materials and wearing apparel.
+
+#### (2) Audits
+
+&emsp;Any gift, devise, or bequest of cash accepted by the Administrator shall be held in a separate account and shall be subject to semi-annual audits by the Inspector General of the Administration who shall report his findings to the Congress.
+
+#### (3) Conflicts of interest
+
+&emsp;No gift, devise, or bequest shall be solicited or accepted under the authority of this subsection if such solicitation or acceptance would, in the determination of the General Counsel, create a conflict of interest.
+
+#### (4) Acceptance of services and facilities for disaster loan program
+
+&emsp;The Administrator may accept the services and facilities of Federal, State, and local agencies and groups, both public and private, and utilize such gratuitous services and facilities as may, from time to time, be necessary, to further the objectives of section 636(b) of this title.
+
+#### (h) Co-sponsorship of events
+
+#### (1) Authorization
+
+&emsp;The Administrator, after consultation with the General Counsel, may provide assistance for the benefit of small business through Administration-sponsored activities, through cosponsored activities with any eligible entity, or through such other activities that the Administrator determines to be appropriate, including recognition events.
+
+#### (2) Eligible entity
+
+&emsp;For purposes of this subsection, the term “eligible entity” means any for-profit or not-for-profit entity, any Federal, State, or local government official, or any Federal, State, or local government entity.
+
+#### (3) Prohibition on endorsements
+
+&emsp;The Administrator shall ensure that the Administration and any eligible entities that cosponsor activities receive appropriate recognition for such cosponsorship, and that such recognition does not constitute or imply an endorsement by the Administration of any product or service of such entity.
+
+#### (4) Authority to charge fees
+
+&emsp;Notwithstanding any other provision of law, the Administrator may charge a participant in any activity sponsored or cosponsored by the Administration a minimal fee, and retain and use such fee to cover the costs of such activity.
+
+#### (5) Limited delegation
+
+&emsp;The Administrator may not delegate the authority described in this subsection except to the Deputy Administrator, an Associate Administrator, or an Assistant Administrator.
+
+#### (6) Report to Congress
+
+&emsp;The Inspector General of the Administration shall report semi-annually to Congress on the Administrator's use of authority under this subsection.
+
+#### (7) Rulemaking
+
+&emsp;Not later than 180 days after December 8, 2004, the Administrator shall promulgate regulations to carry out the provisions of this subsection.
+
+(Pub. L. 85–536, §2\[4\], July 18, 1958, 72 Stat. 384; Pub. L. 85–699, title II, §202, formerly §202(a), Aug. 21, 1958, 72 Stat. 690, renumbered Pub. L. 87–341, §11(h)(1), Oct. 3, 1961, 75 Stat. 757; amended Pub. L. 86–367, §1, Sept. 22, 1959, 73 Stat. 647; Pub. L. 87–70, title III, §305(c), June 30, 1961, 75 Stat. 167; Pub. L. 87–198, Sept. 5, 1961, 75 Stat. 468; Pub. L. 87–305, §3, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–341, §§11(h)(3), (4), 12, Oct. 3, 1961, 75 Stat. 757; Pub. L. 87–550, §1(a), July 25, 1962, 76 Stat. 220; Pub. L. 89–59, §§1(c), 2, June 30, 1965, 79 Stat. 207; Pub. L. 89–78, July 21, 1965, 79 Stat. 243; Pub. L. 89–117, title III, §316(d), Aug. 10, 1965, 79 Stat. 484; Pub. L. 89–334, Nov. 8, 1965, 79 Stat. 1294; Pub. L. 89–409, §§1, 2, May 2, 1966, 80 Stat. 132; Pub. L. 89–779, §8(a), (b), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–104, title I, §102, Oct. 11, 1967, 81 Stat. 268; Pub. L. 90–448, title XVII, §1721, Aug. 1, 1968, 82 Stat. 610; Pub. L. 91–173, title V, §504(c), Dec. 30, 1969, 83 Stat. 802; Pub. L. 91–558, title I, §101, Dec. 17, 1970, 84 Stat. 1468; Pub. L. 91–596, §28(c), Dec. 29, 1970, 84 Stat. 1618; Pub. L. 91–597, §25(c), Dec. 29, 1970, 84 Stat. 1634; Pub. L. 92–16, May 18, 1971, 85 Stat. 39; Pub. L. 92–320, §1, June 27, 1972, 86 Stat. 382; Pub. L. 92–385, §2(b), Aug. 16, 1972, 86 Stat. 556; Pub. L. 92–500, §8(b), Oct. 18, 1972, 86 Stat. 899; Pub. L. 92–595, §3(a), Oct. 27, 1972, 86 Stat. 1316; Pub. L. 93–237, §§1, 3(b), 8, Jan. 2, 1974, 87 Stat. 1023–1025; Pub. L. 93–386, §§2(a)(2), (3), 7, Aug. 23, 1974, 88 Stat. 742, 748; Pub. L. 94–273, §2(5), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–14, §§1–3, Mar. 24, 1977, 91 Stat. 25; Pub. L. 95–89, title I, §101(a)–(c), title II, §§201, 202, title III, §304, title IV, §401, Aug. 4, 1977, 91 Stat. 553, 557, 559; Pub. L. 95–315, §4, July 4, 1978, 92 Stat. 379; Pub. L. 95–507, title II, §206, Oct. 24, 1978, 92 Stat. 1766; Pub. L. 96–302, title I, §121, title IV, §401, July 2, 1980, 94 Stat. 842, 849; Pub. L. 96–481, title I, §103, Oct. 21, 1980, 94 Stat. 2321; Pub. L. 97–35, title XIX, §§1908, 1913(b), 1915, Aug. 13, 1981, 95 Stat. 778, 780; Pub. L. 98–270, title III, §306, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–352, §5, July 10, 1984, 98 Stat. 331; Pub. L. 98–362, §§3, 4, July 16, 1984, 98 Stat. 431, 433; Pub. L. 100–590, title I, §111(a), Nov. 3, 1988, 102 Stat. 2995; Pub. L. 100–656, title IV, §401(a), Nov. 15, 1988, 102 Stat. 3873; Pub. L. 101–37, §11(a), June 15, 1989, 103 Stat. 73; Pub. L. 101–515, title V, §1(a), Nov. 5, 1990, 104 Stat. 2140; Pub. L. 101–574, title II, §221(a), Nov. 15, 1990, 104 Stat. 2823; Pub. L. 102–140, title VI, §609(k), Oct. 28, 1991, 105 Stat. 831; Pub. L. 103–403, title VI, §§601, 611, 612, Oct. 22, 1994, 108 Stat. 4201, 4204; Pub. L. 104–208, div. D, title I, §102, Sept. 30, 1996, 110 Stat. 3009–725; Pub. L. 106–50, title II, §201(a), Aug. 17, 1999, 113 Stat. 235; Pub. L. 108–447, div. K, title I, §132(a), (c), Dec. 8, 2004, 118 Stat. 3452, 3453.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 132(c) of Pub. L. 108–447, see Termination Date of 2004 Amendment note below.</i>
 
 #### References in Text
 
 The effective date of this paragraph, referred to in subsec. (c)(3), is July 1, 1966, pursuant to Pub. L. 89–409, §2.
 
-The Small Business Investment Act of 1958, referred to in subsecs. (b)(3)(A) and (c)(1), (2), (5)(C), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended. Titles III, IV, and V of the Act are classified generally to subchapters III (§681 et seq.), IV (§692 et seq.), and V (§695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsecs. (b)(3)(A), (c)(1), (2), (5)(C), and (g)(1), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended. Titles III, IV, and V of the Act are classified generally to subchapters III (§681 et seq.), IV (§692 et seq.), and V (§695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 Sections 636(e) and 636(<i>l</i>) of this title, referred to in subsec. (c)(2)(B), were amended generally to read “\[RESERVED\].” by Pub. L. 104–208, div. D, title I, §107(b), (d), Sept. 30, 1996, 110 Stat. 3009–732.
 
 Section 662 of title 42, referred to in subsec. (f)(1), was repealed by Pub. L. 104–193, title III, §362(b)(1), Aug. 22, 1996, 110 Stat. 2246.
+
+The Women's Business Ownership Act of 1988, referred to in subsec. (g)(1), is Pub. L. 100–533, Oct. 25, 1988, 102 Stat. 2689, as amended. Title IV of the Act is classified generally to chapter 97 (§7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 631 of this title and Tables.
 
 #### Codification
 
@@ -163,6 +217,8 @@ In subsec. (c)(4), (5)(A), “(sections 9103 and 9104 of title 31)” substitute
 Prior similar provisions were contained in section 204 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, as amended by acts Aug. 9, 1955, ch. 628, §3, 69 Stat. 547; Feb. 2, 1956, ch. 29, §1, 70 Stat. 10; July 31, 1956, ch. 804, title I, §§106(a), 107(b), 70 Stat. 737; Pub. L. 85–4, §§1, 2, Feb. 11, 1957, 71 Stat. 1; Pub. L. 85–120, §1, Aug. 3, 1957, 71 Stat. 341, which was previously classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+2004—Subsecs. (g), (h). Pub. L. 108–447, §132(a), (c), temporarily added subsecs. (g) and (h). See Termination Date of 2004 Amendment note below.
 
 1999—Subsec. (b)(1). Pub. L. 106–50 substituted “five Associate Administrators” for “four Associate Administrators” in fifth sentence and inserted after fifth sentence “One such Associate Administrator shall be the Associate Administrator for Veterans Business Development, who shall administer the Office of Veterans Business Development established under section 657b of this title.”
 
@@ -234,7 +290,7 @@ Subsec. (c)(2). Pub. L. 93–386, §2(a)(2), inserted references to sections 636
 
 Pub. L. 93–237, §3(b), substituted “636(h)” for “636(g)” in cl. (B).
 
-Subsec. (c)(4). Pub. L. 93–386, §2(a)(3), in cl. (A) substituted “636(i), and 637(a) of this title, shall not exceed $6,000,000,000” for “and 637(a) of this title, and title IV of the Economic Opportunity Act of 1964, shall not exceed $4,875,000,000”, in cl. (B) substituted $725,000,000” for “$556,250,000”, and in cl. (D) substituted “section 636(i) of this title, shall not exceed $450,000,000” for “title IV of the Economic Opportunity Act of 1964 shall not exceed $381,250,000”.
+Subsec. (c)(4). Pub. L. 93–386, §2(a)(3), in cl. (A) substituted “636(i), and 637(a) of this title, shall not exceed $6,000,000,000” for “and 637(a) of this title, and title IV of the Economic Opportunity Act of 1964, shall not exceed $4,875,000,000”, in cl. (B) substituted “$725,000,000” for “$556,250,000”, and in cl. (D) substituted “section 636(i) of this title, shall not exceed $450,000,000” for “title IV of the Economic Opportunity Act of 1964 shall not exceed $381,250,000”.
 
 Pub. L. 93–237, §§1, 3(b), substituted “$4,875,000,000” for “$4,300,000,000” and “636(h)” for “636(g)” in cl. (A), “$556,250,000” for “$500,000,000” in cl. (B), “$525,000,000” for “$500,000,000” in cl. (C) and “$381,250,000” for “$350,000,000” in cl. (D).
 
@@ -294,6 +350,14 @@ Pub. L. 87–70 substituted “$1,000,000,000” for “$975,000,000” wherever
 
 1958—Subsec. (c). Pub. L. 85–699 substituted “$900,000,000” for “$650,000,000” wherever appearing, and inserted provisions authorizing the revolving fund to be used in the exercise of the functions of the Administration under the Small Business Investment Act of 1958, and providing that not more than an aggregate of $250,000,000 shall be outstanding at any one time for the exercise of the functions under the Small Business Investment Act of 1958.
 
+#### Change of Name
+
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001. Previously, Select Committee on Small Business of Senate became Committee on Small Business of Senate. See Senate Resolution No. 101, Ninety-Seventh Congress, Mar. 25, 1981.
+
+#### Termination Date of 2004 Amendment
+
+Pub. L. 108–447, div. K, title I, §132(c), Dec. 8, 2004, 118 Stat. 3453, provided that: “The amendments made by this section \[amending this section and section 637 of this title\] are repealed on October 1, 2006.”
+
 #### Effective Date of 1996 Amendment
 
 Section 3 of div. D of Pub. L. 104–208 provided that: “Except as otherwise expressly provided, this Act \[probably should be “division”, see Short Title of 1996 Amendment note set out under section 631 of this title\] and the amendments made by this Act shall take effect on October 1, 1996.”
@@ -314,7 +378,7 @@ Amendment by Pub. L. 100–656 effective Aug. 15, 1989, see section 803(b)(1)(C)
 
 #### Effective and Termination Dates of 1984 Amendments
 
-Section 7 of Pub. L. 98–362, as amended by Pub. L. 100–590, title I, §131(a), Nov. 3, 1988, 102 Stat. 3004; Pub. L. 101–515, title V, §11, Nov. 5, 1990, 104 Stat. 2145; Pub. L. 101–574, title II, §212, Nov. 15, 1990, 104 Stat. 2821; Pub. L. 102–140, title VI, §609(g), Oct. 28, 1991, 105 Stat. 826; Pub. L. 102–366, title II, §225, Sept. 4, 1992, 106 Stat. 1001; Pub. L. 103–403, title IV, §401(b), Oct. 22, 1994, 108 Stat. 4190, provided that:
+Section 7 of Pub. L. 98–362, as amended by Pub. L. 100–590, title I, §131(a), Nov. 3, 1988, 102 Stat. 3004; Pub. L. 101–515, title V, §11, Nov. 5, 1990, 104 Stat. 2145; Pub. L. 101–574, title II, §212, Nov. 15, 1990, 104 Stat. 2821; Pub. L. 102–140, title VI, §609(g), Oct. 28, 1991, 105 Stat. 826;Pub. L. 102–366, title II, §225, Sept. 4, 1992, 106 Stat. 1001; Pub. L. 103–403, title IV, §401(b), Oct. 22, 1994, 108 Stat. 4190, provided that:
 
 “(a) This Act \[amending this section and sections 632 and 637 of this title and enacting provisions set out as notes under this section and sections 631 and 637 of this title\] shall take effect on October 1, 1984.
 
@@ -352,7 +416,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Transfer of Functions
 
-Functions, powers, and duties of Office of Audits and Investigations in Small Business Administration transferred to Office of Inspector General in Small Business Administration, as established by Pub. L. 95–452, §2, Oct. 12, 1978, 92 Stat. 1101, set out in the Appendix to Title 5, Government Organization and Employees. See section 9(a)(1)(M) of Pub. L. 95–452 set out in the Appendix to Title 5.
+Functions, powers, and duties of Office of Audits and Investigations in Small Business Administration transferred to Office of Inspector General in Small Business Administration, as established by Pub. L. 95–452, §2, Oct. 12, 1978, 92 Stat. 1101, set out in the Appendix to Title 5, Government Organization and Employees. See section 9(a)(1)(T) of Pub. L. 95–452 set out in the Appendix to Title 5.
 
 Loan Policy Board, provided for in subsec. (d) of this section, abolished and functions, including functions of chairman and other officers, transferred to Administrator of Small Business Administration by sections 11(b) and 13(a) of Reorg. Plan No. 4 of 1965, eff. July 27, 1965, 30 F.R. 9353, 79 Stat. 1321, set out in the Appendix to Title 5.
 
@@ -414,7 +478,7 @@ Section 401(b) of Pub. L. 100–656, as amended by Pub. L. 101–37, §11(b), Ju
 
 #### Availability of Funds
 
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 396, provided in part that: “hereafter, notwithstanding any law, rule or regulation, moneys in any fund established by the Small Business Act \[15 U.S.C. 631 et seq.\] which are not needed for current operations shall remain in such funds and shall be available solely to carry out the provisions and purposes of programs operated from such funds pursuant to law as provided in appropriations Acts.”
+Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 396, provided in part that: “hereafter, notwithstanding anylaw, rule or regulation, moneys in any fund established by the Small Business Act \[15 U.S.C. 631 et seq.\] which are not needed for current operations shall remain in such funds and shall be available solely to carry out the provisions and purposes of programs operated from such funds pursuant to law as provided in appropriations Acts.”
 
 #### Finding and Purpose of 1984 Amendment
 
@@ -496,9 +560,7 @@ Section 3(b) of Pub. L. 89–409 provided in part that any unexpended balances o
 
 Such transfer of funds as effective July 1, 1966, see section 3(c) of Pub. L. 89–409, set out as Effective Date of 1966 Amendment note under section 636 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 635, 636, 657b of this title; title 38 section 3117.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “1958,”.</i>
 

@@ -4,7 +4,3 @@ The Secretary of the Interior shall set aside for the benefit of the Payson Indi
 
 (Pub. L. 92–461, §2, Oct. 6, 1972, 86 Stat. 769.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300a–2 of this title.
-

@@ -24,7 +24,3 @@ Subsec. (b). Pub. L. 98–555, §4(b), substituted “$3,500,000” for “$3,00
 
 Section 901 of Pub. L. 97–35 provided in part that this subchapter is effective Oct. 1, 1981.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300w–1 of this title.
-

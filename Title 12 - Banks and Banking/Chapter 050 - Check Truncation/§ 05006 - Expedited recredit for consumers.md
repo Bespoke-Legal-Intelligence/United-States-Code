@@ -62,7 +62,7 @@
 
 #### (1) Conditions for recredit
 
-&emsp;The bank shall recredit a consumer account in accordance with paragraph (2) for theamount of a substitute check that was charged against the consumer account if—
+&emsp;The bank shall recredit a consumer account in accordance with paragraph (2) for the amount of a substitute check that was charged against the consumer account if—
 
 &emsp;&emsp;(A) a consumer submits a claim to the bank with respect to that substitute check that meets the requirement of subsection (b); and
 
@@ -144,7 +144,7 @@ A bank may reverse a recredit to a consumer account if the bank—
 
 #### (2) Notice of recredit
 
-&emsp;If a bank recredits a consumer account under subsection (c), the bank shall send to the consumer, no later than the business day following the business day on which the bank makes the recredit, a notice of—
+&emsp;If a bank recredits a consumer account under subsection (c), the bank shall send tothe consumer, no later than the business day following the business day on which the bank makes the recredit, a notice of—
 
 &emsp;&emsp;(A) the amount of the recredit; and
 
@@ -175,8 +175,4 @@ A consumer who was provided a substitute check may make a claim for an expedited
 This section shall only apply to customers who are consumers.
 
 (Pub. L. 108–100, §7, Oct. 28, 2003, 117 Stat. 1182.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5007, 5009, 5010, 5011 of this title.
 

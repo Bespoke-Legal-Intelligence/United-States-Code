@@ -32,7 +32,7 @@ Any agreement with a hospital under this section shall provide that payment for 
 
 #### (e) Reimbursement for routine hospital services
 
-During a period for which a hospital has in effect an agreement under this section, in order to allocate routine costs between hospital and long-term care services for purposes of determining payment for inpatient hospital services, the total reimbursement due for routine services from all classes of long-term care patients (including this subchapter, subchapter XIX of this chapter, and private pay patients) shall be subtracted from the hospital's total routine costs before calculations are made to determine this subchapter reimbursement for routine hospital services.
+During a period for which a hospital has in effect an agreement under this section, in order to allocate routine costs between hospital and long-term care services for purposes of determining payment for inpatient hospital services, the total reimbursement due for routine services from all classes of long-term care patients (including this subchapter, subchapter XIX of thischapter, and private pay patients) shall be subtracted from the hospital's total routine costs before calculations are made to determine this subchapter reimbursement for routine hospital services.
 
 #### (f) Conditions applicable to skilled nursing facilities
 
@@ -40,7 +40,7 @@ A hospital which enters into an agreement with the Secretary under this section 
 
 #### (g) Agreements on demonstration basis
 
-The Secretary may enter into an agreement under this section on a demonstration basis withany hospital which does not meet the requirement of subsection (b)(1) of this section, if the hospital otherwise meets the requirements of this section.
+The Secretary may enter into an agreement under this section on a demonstration basis with any hospital which does not meet the requirement of subsection (b)(1) of this section, if the hospital otherwise meets the requirements of this section.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1883, as added Pub. L. 96–499, title IX, §904(a)(1), Dec. 5, 1980, 94 Stat. 2615; amended Pub. L. 100–203, title IV, §§4005(b)(1), (2), 4201(d)(3), Dec. 22, 1987, 101 Stat. 1330–48, as amended Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(C), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(6), title IV, §411(b)(4)(D), July 1, 1988, 102 Stat. 689, 770; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–508, title IV, §4008(j)(1), Nov. 5, 1990, 104 Stat. 1388–51; Pub. L. 105–33, title IV, §4432(b)(5)(G), Aug. 5, 1997, 111 Stat. 422; Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §§403(f), 408(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–371, 1501A–375; Pub. L. 106–554, §1(a)(6) \[title II, §203(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–482; Pub. L. 108–173, title IV, §405(a)(1), Dec. 8, 2003, 117 Stat. 2266.)
 
@@ -141,8 +141,4 @@ Section 4005(b)(3) of Pub. L. 100–203, as amended by Pub. L. 100–360, title 
 #### Report on Hospital Providers of Extended Care, Skilled Nursing, and Intermediate Care Services
 
 Section 904(c) of Pub. L. 96–499 directed Secretary of Health and Human Services, within three years after Dec. 5, 1980, to submit to Congress a report evaluating programs established by the amendments made by this section (enacting this section and section 1396<i>l</i> of this title), including in such report an analysis of the extent and effect of the agreements under such programs on availability and effective and economical provision of long-term care services, whether such programs should be continued, the results of any demonstration projects conducted under such programs, and whether eligibility to participate in such programs should be extended to other hospitals, regardless of bed size or geographic location, where there is a shortage of long-term care beds.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395i–4, 1395yy, 1396<i>l</i> of this title.
 

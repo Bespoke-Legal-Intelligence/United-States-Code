@@ -24,7 +24,3 @@ The Commission may by rule require the use and prescribe the form and content of
 
 (Pub. L. 92–573, §14, Oct. 27, 1972, 86 Stat. 1220.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2066, 2068, 2082 of this title.
-

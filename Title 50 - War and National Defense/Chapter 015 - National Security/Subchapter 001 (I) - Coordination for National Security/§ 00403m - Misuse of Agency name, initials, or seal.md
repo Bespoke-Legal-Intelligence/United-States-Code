@@ -18,7 +18,3 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a note under section 1621 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403a, 403e, 403f of this title.
-

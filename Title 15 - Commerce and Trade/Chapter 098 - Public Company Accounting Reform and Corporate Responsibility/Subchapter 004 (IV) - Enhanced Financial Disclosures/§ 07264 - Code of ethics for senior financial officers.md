@@ -28,7 +28,3 @@ The Commission shall—
 
 (Pub. L. 107–204, title IV, §406, July 30, 2002, 116 Stat. 789.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 78<i>l</i> of this title.
-

@@ -4,7 +4,3 @@ In the administration of the area for the purposes of this subchapter, the Secre
 
 (Pub. L. 89–158, §4, Sept. 1, 1965, 79 Stat. 613.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460<i>o</i>–4 of this title.
-

@@ -32,7 +32,3 @@ Subsec. (b). Pub. L. 95–316, §3(2), added reference to sections 1379 and 1380
 
 Subsec. (b). Pub. L. 95–136, §2(2), inserted “, and not to exceed $850,000 for the fiscal year ending September 30, 1978” after “thereafter”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1388 of this title.
-

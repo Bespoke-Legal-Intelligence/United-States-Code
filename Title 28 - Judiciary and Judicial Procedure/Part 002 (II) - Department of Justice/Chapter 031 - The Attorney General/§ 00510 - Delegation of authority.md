@@ -24,7 +24,3 @@ The words “including any function transferred to the Attorney General by the p
 
 A prior section 510, act June 25, 1948, ch. 646, 62 Stat. 910, related to clerical assistants and messengers for United States attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 550 of this title by section 4(c) of Pub. L. 89–554.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 6103; title 31 section 3733.
-

@@ -30,15 +30,11 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(iii) the frequency of interaction between the persons involved in the relationship.
 
-(Pub. L. 90–351, title I, §2008, formerly §2003, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1913; amended Pub. L. 106–386, div. B, title I, §§1103(b)(3), 1109(a)(1), Oct. 28, 2000, 114 Stat. 1496, 1502; renumbered §2008, Pub. L. 107–273, div. A, title IV, §402(2), Nov. 2, 2002, 116 Stat. 1789.)
+(Pub. L. 90–351, title I, §2008, formerly §2003, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1913; amended Pub. L. 106–386, div. B, title I, §§1103(b)(3), 1109(a)(1), Oct. 28, 2000, 114 Stat. 1496, 1502; renumbered §2008, Pub. L. 107–273, div. A, title IV, §402(2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, §310(b), Oct. 30, 2004, 118 Stat. 2276.)
 
 #### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, §2, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
-
-#### Codification
-
-Amendment by section 402(2) of Pub. L. 107–273, which directed the renumbering of sections 2002 to 2006 of Pub. L. 90–351 as sections 2006 to 2011 of that act, was executed by renumbering sections 2002 to 2006 as sections 2007 to 2011 of that act, respectively, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -53,8 +49,4 @@ Pub. L. 106–386, div. B, §1002, Oct. 28, 2000, 114 Stat. 1491, provided that:
 &emsp;“(1) the term ‘domestic violence’ has the meaning given the term in section 2003 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796gg–2); and
 
 &emsp;“(2) the term ‘sexual assault’ has the meaning given the term in section 2003 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796gg–2).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3002, 3796gg–6, 10402, 10420, 13971, 13992, 14041, 14042 of this title; title 20 section 7275.
 

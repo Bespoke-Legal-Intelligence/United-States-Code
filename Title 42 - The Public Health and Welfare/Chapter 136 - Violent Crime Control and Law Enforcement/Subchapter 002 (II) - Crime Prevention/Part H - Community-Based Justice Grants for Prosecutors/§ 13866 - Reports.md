@@ -10,7 +10,3 @@ The Attorney General shall submit to the Congress a report by October 1 of each 
 
 (Pub. L. 103–322, title III, §31706, Sept. 13, 1994, 108 Stat. 1892.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

@@ -430,15 +430,11 @@ Pub. L. 105–155, §4, Feb. 11, 1998, 112 Stat. 6, provided that:
 
 “(a)
 
-Reprogramming.—If any funds authorized by the amendments made by this Act \[amending this section\] are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+Reprogramming.—If any funds authorized by the amendments made by this Act \[amending this section\]are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 “(b)
 
 Notice of Reorganization.—The Administrator of the Federal Aviation Administration shall provide notice to the Committees on Science, Transportation and Infrastructure, and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 30 days before any major reorganization (as determined by the Administrator) of any program of the Federal Aviation Administration for which funds are authorized by this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44508, 47108, 48108, 48109, 48114, 50101, 50102, 50103, 50105 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (g) has been enacted.</i>
 

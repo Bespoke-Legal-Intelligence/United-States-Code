@@ -1,6 +1,6 @@
 ### §83. Homestead or desert-land and other entries
 
-Unreserved public lands of the United States exclusive of Alaska which have been withdrawn or classified as coal lands, or are valuable for coal, shall be subject to appropriate entry under the homestead laws by actual settlers only, the desert-land law, to selection under section 641 of title 43, and to withdrawal under the Act approved June seventeenth, nineteen hundred and two, known as the Reclamation Act, wheneversuch entry, selection, or withdrawal shall be made with a view of obtaining or passing title, with a reservation to the United States of the coal in such lands and of the right to prospect for, mine, and remove the same. But all homestead entries made hereunder shall be subject to the conditions, as to residence and cultivation, of entries under section 218 of title 43. Those who have initiated nonmineral entries, selections, or locations in good faith, prior to June 22, 1910, on lands withdrawn or classified as coal lands may perfect the same under the provisions of the laws under which said entries were made, but shall receive the limited patent provided for in sections 83 to 85 of this title.
+Unreserved public lands of the United States exclusive of Alaska which have been withdrawn or classified as coal lands, or are valuable for coal, shall be subject to appropriate entry under the homestead laws by actual settlers only, the desert-land law, to selection under section 641 of title 43, and to withdrawal under the Act approved June seventeenth, nineteen hundred and two, known as the Reclamation Act, whenever such entry, selection, or withdrawal shall be made with a view of obtaining or passing title, with a reservation to the United States of the coal in such lands and of the right to prospect for, mine, and remove the same. But all homestead entries made hereunder shall be subject to the conditions, as to residence and cultivation, of entries under section 218 of title 43. Those who have initiated nonmineral entries, selections, or locations in good faith, prior to June 22, 1910, on lands withdrawn or classified as coal lands may perfect the same under the provisions of the laws under which said entries were made, but shall receive the limited patent provided for in sections 83 to 85 of this title.
 
 (June 22, 1910, ch. 318, §1, 36 Stat. 583; June 16, 1955, ch. 145, §1, 69 Stat. 138.)
 
@@ -23,8 +23,4 @@ Section 3 of act June 16, 1955, as amended by Pub. L. 85–641, §2, Aug. 14, 19
 #### Supplemental Provisions
 
 Section 90 of this title, act Apr. 30, 1912, ch. 99, 37 Stat. 105, supplements this section by making provisions for the selection of coal lands by the several States, and for their sale under the laws providing for the sale of isolated or disconnected tracts of public lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77, 82, 84, 85, 90, 541c of this title.
 

@@ -22,11 +22,13 @@
 
 &emsp;(C) the term “compensation” means cash benefits payable to individuals with respect to their unemployment, exclusive of expenses of administration.
 
-(b) The Secretary of the Treasury shall, prior to audit or settlement by the General Accounting Office, transfer in monthly installments from the Federal unemployment account to the account of the State in the Unemployment Trust Fund the amount certified under subsection (a) of this section by the Secretary of Labor (but not exceeding that portion of the balance in the Federal unemployment account at the time of the transfer which is not restricted as to use pursuant to section 1103(b)(1) of this title). The amount of any monthly installment so transferred shall not exceed the amount estimated by the State to be required for the payment of compensation for the month with respect to which such installment is made.
+(b) The Secretary of the Treasury shall, prior to audit or settlement by the Government Accountability Office, transfer in monthly installments from the Federal unemployment account to the account of the State in the Unemployment Trust Fund the amount certified under subsection (a) of this section by the Secretary of Labor (but not exceeding that portion of the balance in the Federal unemployment account at the time of the transfer which is not restricted as to use pursuant to section 1103(b)(1) of this title). The amount of any monthly installment so transferred shall not exceed the amount estimated by the State to be required for the payment of compensation for the month with respect to which such installment is made.
 
-(Aug. 14, 1935, ch. 531, title XII, §1201, as added Oct. 3, 1944, ch. 480, title IV, §402, 58 Stat. 790; amended Aug. 6, 1947, ch. 510, §5(b), 61 Stat. 794; 1949 Reorg. Plan No. 2, §1, eff. Aug. 19, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §404(a), 64 Stat. 560; Aug. 5, 1954, ch. 657, §3, 68 Stat. 671; Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 978; Pub. L. 94–566, title II, §213(a)–(c), Oct. 20, 1976, 90 Stat. 2677; Pub. L. 97–35, title XXIV, §2407(b)(1), Aug. 13, 1981, 95 Stat. 880.)
+(Aug. 14, 1935, ch. 531, title XII, §1201, as added Oct. 3, 1944, ch. 480, title IV, §402, 58 Stat. 790; amended Aug. 6, 1947, ch. 510, §5(b), 61 Stat. 794; 1949 Reorg. Plan No. 2, §1, eff. Aug. 19, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §404(a), 64 Stat. 560; Aug. 5, 1954, ch. 657, §3, 68 Stat. 671; Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 978; Pub. L. 94–566, title II, §213(a)–(c), Oct. 20, 1976, 90 Stat. 2677; Pub. L. 97–35, title XXIV, §2407(b)(1), Aug. 13, 1981, 95 Stat. 880; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1981—Subsec. (a)(1). Pub. L. 97–35 substituted “with interest to the extent provided in section 1322(b) of this title” for “without interest”.
 
@@ -48,7 +50,7 @@ Subsec. (b). Pub. L. 86–778 amended subsec. (b) generally, striking out provis
 
 #### Effective Date of 1976 Amendment
 
-Section 213(d) of Pub. L. 94–566 provided that: “ The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 20, 1976\].”
+Section 213(d) of Pub. L. 94–566 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 20, 1976\].”
 
 #### Effective Date of 1950 Amendment
 
@@ -60,7 +62,7 @@ Section 4 of act Aug. 6, 1947, provided that: “Section 603 of the War Mobiliza
 
 #### Applications for Transfer of Funds Under Former Provisions of Section 1321(a); Limitations
 
-Section 522(b) of Pub. L. 86–778 provided that:
+Pub. L. 86–778, title V, §522(b), Sept. 13, 1960, 74 Stat. 979, provided that:
 
 “(1) No amount shall be transferred on or after the date of the enactment of this Act \[Sept. 13, 1960\] from the Federal unemployment account to the account of any State in the Unemployment Trust Fund pursuant to any application made under section 1201(a) of the Social Security Act \[subsec. (a) of this section\] as in effect before such date; except that, if—
 
@@ -68,15 +70,11 @@ Section 522(b) of Pub. L. 86–778 provided that:
 
 &emsp;“(B) the Governor of such State, after the date of the enactment of this Act \[Sept. 13, 1960\], requests the Secretary of the Treasury to transfer all or any part of the remainder to such account,
 
-> the Secretary of the Treasury shall, prior to audit or settlement by the General Accounting Office, transfer from the Federal unemployment account to the account of such State in the Unemployment Trust Fund the amount so requested or (if smaller) the amount available in the Federal unemployment account at the time of the transfer. No such amount shall be transferred under this paragraph after the one-year period beginning on the date of the enactment of this Act \[Sept. 13, 1960\].
+> the Secretary of the Treasury shall, prior to audit or settlement by the General Accounting Office \[now Government Accountability Office\], transfer from the Federal unemployment account to the account of suchState in the Unemployment Trust Fund the amount so requested or (if smaller) the amount available in the Federal unemployment account at the time of the transfer. No such amount shall be transferred under this paragraph after the one-year period beginning on the date of the enactment of this Act \[Sept. 13, 1960\].
 
-“(2) For purposes of section 3302(c) of the Federal Unemployment Tax Act \[section 3302(c) of Title 26, Internal Revenue Code\] and titles IX and XII of the Social Security Act \[subchapter IX and XII of this chapter\], if any amount is transferred pursuant to paragraph (1) to the unemployment account of any State, such amountshall be treated as an advance made before the date of the enactment of this Act \[Sept. 13, 1960\].”
+“(2) For purposes of section 3302(c) of the Federal Unemployment Tax Act \[section 3302(c) of Title 26, Internal Revenue Code\] and titles IX and XII of the Social Security Act \[subchapter IX and XII of this chapter\], if any amount is transferred pursuant to paragraph (1) to the unemployment account of any State, such amount shall be treated as an advance made before the date of the enactment of this Act \[Sept. 13, 1960\].”
 
 #### Advances to Alaska
 
 Act June 1, 1955, ch. 118, 69 Stat. 81, authorized the Governor of Alaska to obtain from the Federal Unemployment Fund such advances as the Territory of Alaska might qualify for and as might be necessary to obtain for the payment of unemployment compensation benefits to claimants entitled thereto under the Alaska employment security law and provided for the reimbursement of the general fund of the Territory of Alaska from which advances have been made for the payment of unemployment compensation benefits from advances made through the Governor of Alaska from the Federal Unemployment Fund.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1101, 1104, 1322 of this title.
 

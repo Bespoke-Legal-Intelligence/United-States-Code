@@ -50,7 +50,3 @@ Subsec. (g). Act Aug. 9, 1955, §2, authorized head of department in which the C
 
 Section 5(b) of Pub. L. 96–23 provided that: “The Coast Guard may issue retroactive pay to its remaining civilian lighthouse keepers in an amount equal to the difference between what the keeper actually received and what he would have received under the General Schedule salary rates had there not been a statutory limitation of $7,500 on his annual salary. This amount is to be calculated from the time at which his salary reached the statutory limitation to the date of enactment of this Act \[June 13, 1979\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 42 of this title; title 5 section 5102.
-

@@ -4,10 +4,6 @@ Subtitle E—Special Provisions for Multiemployer Plans
 
 1980—Pub. L. 96–364, title I, §104, Sept. 26, 1980, 94 Stat. 1217, added subtitle heading. Former subtitle E heading “Effective Date; Special Rules” was struck out. See subtitle F of this subchapter.
 
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in sections 1301, 1342, 1361, 1365 of this title; title 26 section 9721.
-
 
 ---
 

@@ -8,11 +8,11 @@
 
 &emsp;&emsp;(A) 0.50 percent for each State; and
 
-&emsp;&emsp;(B) of the total funds remaining after the allocation under subparagraph (A), to each State, an amount which bears the same ratio to the amount of remaining funds described in this subparagraph as the population of people under the age of 18 living in such State for the most recent calendar year in which such data is available bears to the population of people under the age of 18 of all the States for such fiscal year.
+&emsp;&emsp;(B) of the total funds remaining after the allocation under subparagraph (A), to each State, an amount which bears the same ratio to the amount of remaining funds described in this subparagraph as the population ofpeople under the age of 18 living in such State for the most recent calendar year in which such data is available bears to the population of people under the age of 18 of all the States for such fiscal year.
 
 #### (2) Prohibition
 
-&emsp;No funds allocated to a State under this subsection or received by a State for distributionunder subsection (b) of this section may be distributed by the Attorney General or by the State involved for any program other than a program contained in an approved application.
+&emsp;No funds allocated to a State under this subsection or received by a State for distribution under subsection (b) of this section may be distributed by the Attorney General or by the State involved for any program other than a program contained in an approved application.
 
 #### (b) Local distribution
 
@@ -85,8 +85,4 @@ If under this section a unit of local government is allocated less than $10,000 
 A prior section 3796ee–3, Pub. L. 90–351, title I, §1804, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1820, related to applications by local governments, prior to the general amendment of this subchapter by Pub. L. 107–273.
 
 A prior section 1803 of Pub. L. 90–351 was classified to section 3796ee–2 of this title prior to the general amendment of this subchapter by Pub. L. 107–273.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3796ee–2, 3796ee–4, 3796ee–5, 3796ee–9 of this title.
 

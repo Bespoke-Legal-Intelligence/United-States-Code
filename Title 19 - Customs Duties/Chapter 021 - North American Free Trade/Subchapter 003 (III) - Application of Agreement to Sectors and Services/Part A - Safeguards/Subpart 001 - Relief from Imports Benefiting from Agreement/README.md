@@ -1,9 +1,5 @@
 subpart 1—relief from imports benefiting from agreement
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 2252 of this title.
-
 
 ---
 

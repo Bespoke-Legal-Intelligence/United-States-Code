@@ -18,7 +18,7 @@ Section 29(a) of Pub. L. 93–259 provided that: “Except as otherwise specific
 
 #### Effective Date of 1949 Amendment
 
-Section 16(a) of act Oct. 26, 1949, provided that: “The amendments made by this Act \[enacting section 216b of this title, amending this section and sections 203 to 208,211 to 216, and 217 of this title, and repealing section 216a of this title\] shall take effect upon the expiration of ninety days from the date of its enactment \[Oct. 26, 1947\]; except that the amendment made by section 4 \[amending section 204 of this title\] shall take effect on the date of its enactment \[Oct. 26, 1949\].”
+Section 16(a) of act Oct. 26, 1949, provided that: “The amendments made by this Act \[enacting section 216b of this title, amending this section and sections 203 to 208, 211 to 216, and 217 of this title, and repealing section 216a of this title\] shall take effect upon the expiration of ninety days from the date of its enactment \[Oct. 26, 1947\]; except that the amendment made by section 4 \[amending section 204 of this title\] shall take effect on the date of its enactment \[Oct. 26, 1949\].”
 
 #### Rules, Regulations, and Orders With Regard to Fair Labor Standards Amendments of 1974
 

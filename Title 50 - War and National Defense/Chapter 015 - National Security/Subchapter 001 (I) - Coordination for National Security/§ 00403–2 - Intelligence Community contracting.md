@@ -16,3 +16,7 @@ Section was enacted as part of the authorization act cited as the credit to this
 
 Provisions similar to those in this section were contained in the following prior authorization act: Pub. L. 102–88, title IV, §404, Aug. 14, 1991, 105 Stat. 434.
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
+

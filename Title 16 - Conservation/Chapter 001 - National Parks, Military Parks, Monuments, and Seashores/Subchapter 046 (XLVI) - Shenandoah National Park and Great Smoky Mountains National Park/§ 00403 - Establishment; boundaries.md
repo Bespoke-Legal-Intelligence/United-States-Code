@@ -4,13 +4,17 @@ When title to lands within the areas hereinafter referred to shall have been ves
 
 (May 22, 1926, ch. 363, §1, 44 Stat. 616.)
 
+#### Tapoco Project Licensing
+
+Pub. L. 108–343, Oct. 18, 2004, 118 Stat. 1372, known as the “Tapoco Project Licensing Act of 2004”, authorized land exchange in Great Smoky Mountains National Park between the Secretary of the Interior and private corporation, and provided that Federal Energy Regulatory Commission had jurisdiction to license Tapoco Hydroelectric Project on lands transferred by the Secretary.
+
 #### Land Exchange in Great Smoky Mountains National Park
 
 For land exchange between National Park Service and Eastern Band of Cherokee Indians involving tract in Great Smoky Mountains National Park, see section 138 of Pub. L. 108–108, classified as a note under section 460a–5 of this title.
 
 #### Right-of-way Permits for Natural Gas Pipelines in Great Smoky Mountains National Park
 
-Pub. L. 107–223, Aug. 21, 2002, 116 Stat. 1338, authorized the Secretary of the Interior to issue right-of-way permits for natural gas pipelines existing as of Sept. 1, 2001, or proposed for certain specified locations, within the boundary of Great Smoky Mountains National Park, subject to certain terms and conditions and consistent with laws and regulations generally applicable to utility rights-of-way within units of the National Park System.
+Pub. L. 107–223, Aug. 21, 2002, 116 Stat. 1338, authorized the Secretary of the Interior to issue right-of-way permits for natural gas pipelines existing as of Sept. 1, 2001, or proposed for certain specified locations, within the boundary of Great Smoky Mountains National Park, subject to certain terms and conditions and consistent with laws and regulations generally applicableto utility rights-of-way within units of the National Park System.
 
 #### Shenandoah National Park; Roads on Federal Land; Transfer of County Road Corridors
 
@@ -49,8 +53,4 @@ Description of the Land.—The land referred to in subsection (a) is a plot of f
 “Beginning at (1) a monument in the line of the land of Lawson just west of Road No. 604; thence with the land of Lawson, and then with a new division line through the land of Shenandoah National Park north 59 degrees 45 minutes 38 seconds west 506.05 feet to (2) a Concrete Monument set, said point being north 59 degrees 45 minutes 38 seconds west 9.26 feet from a monument to a corner to the land of Lawson; thence with another new division line through the land of Shenandoah National Park north 31 degrees 31 minutes 00 seconds east 1206.07 feet to (3) a Concrete Monument set in the line of the land of the United States Government; thence with the land of the United States Government for the following two courses: south 07 degrees 49 minutes 31 seconds east 203.98 feet to (4); thence south 09 degrees 10 minutes 06 seconds east 27.79 feet to (5) a corner between the land of the United States Government and the land of United States Customs Service Detector Dog Training Center; thence with 282.896 acre tract of land of United States Customs Service Detector Dog Training Center for the following six courses: south 10 degrees 38 minutes 32 seconds east 152.47 feet to (6); thence south 00 degrees 48 minutes 32 seconds west 127.52 feet to (7); thence south 08 degrees 25 minutes 46 seconds west 422.15 feet to (8); thence south 14 degrees 37 minutes 16 seconds west 106.47 feet to (9); thence south 27 degrees 13 minutes 28 seconds west 158.11 feet to (10); thence south 38 degrees 17 minutes 36 seconds west 146.44 feet to the point of beginning, containing 9.888 acres, more or less.”
 
 \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403a, 403c, 403f, 403h, 403i, 403k, 403k–2 of this title.
 

@@ -4,7 +4,3 @@ The Secretary shall permit hunting, fishing, and trapping on lands and waters un
 
 (Pub. L. 93–626, §4, Jan. 3, 1975, 88 Stat. 2123.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459j–1, 459j–2, 459j–4, 459j–5, 459j–6, 459j–8 of this title.
-

@@ -4,10 +4,6 @@
 
 1955—Sections 1621 to 1627 of this title which constituted the International Claims Settlement Act of 1949 were designated title I of such Act, herein referred to as subchapter I, for purposes of codification, by act Aug. 9, 1955, ch. 645, §1, 69 Stat. 562.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1641q, 1642<i>o</i>, 1643h, 1644m, 1645n of this title; title 50 App. section 2017n.
-
 
 ---
 

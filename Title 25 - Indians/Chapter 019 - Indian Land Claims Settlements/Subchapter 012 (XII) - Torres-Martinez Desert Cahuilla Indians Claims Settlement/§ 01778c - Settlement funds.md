@@ -34,7 +34,7 @@
 
 #### (5) Additional payments
 
-&emsp;In the event that any of the sums described in paragraph (2) or (3) are not timely paid by the Coachella Valley Water District or the Imperial Irrigation District, as the case may be, the delinquent payor shall pay an additional sum equal to 10 percent interest annually onthe amount outstanding daily, compounded yearly on December 31 of each respective year, until all outstanding amounts due have been paid in full.
+&emsp;In the event that any of the sums described in paragraph (2) or (3) are not timely paid by the Coachella Valley Water District or the Imperial Irrigation District, as the case may be, the delinquent payor shall pay an additional sum equal to 10 percent interest annually on the amount outstanding daily, compounded yearly on December 31 of each respective year, until all outstanding amounts due have been paid in full.
 
 #### (6) Severally liable for payments
 

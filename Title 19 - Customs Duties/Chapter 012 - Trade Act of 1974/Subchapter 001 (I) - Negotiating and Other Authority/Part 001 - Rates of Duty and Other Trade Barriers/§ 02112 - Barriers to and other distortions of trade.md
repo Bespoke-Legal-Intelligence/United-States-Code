@@ -88,7 +88,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) trade in both goods and services, and
 
-&emsp;&emsp;(B) foreign direct investment by United States persons, especially if such investmenthas implications for trade in goods and services.
+&emsp;&emsp;(B) foreign direct investment by United States persons, especially if such investment has implications for trade in goods and services.
 
 (Pub. L. 93–618, title I, §102, Jan. 3, 1975, 88 Stat. 1982; Pub. L. 96–39, title XI, §§1101, 1106(c)(1), July 26, 1979, 93 Stat. 307, 311; Pub. L. 98–573, title III, §307(a), title IV, §401(a)–(c)(1), Oct. 30, 1984, 98 Stat. 3012, 3013–3015; Pub. L. 99–47, §8(b)(1), June 11, 1985, 99 Stat. 84; Pub. L. 99–514, title XVIII, §1887(a)(1), Oct. 22, 1986, 100 Stat. 2923.)
 
@@ -546,7 +546,7 @@ Effect of Agreement With Respect to Private Remedies.—No person other than the
 
 &emsp;“(2) other appropriate officers of the United States may issue such regulations,
 
-> as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date the Agreement enters into force is appropriately implemented on such date, but no such proclamation or regulation may have an effective date earlier than the date the Agreement enters into force.
+> as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date the Agreement enters into force is appropriately implemented on such date, but no suchproclamation or regulation may have an effective date earlier than the date the Agreement enters into force.
 
 #### “SEC. 404. EFFECTIVE DATES; EFFECT OF TERMINATION.
 
@@ -572,7 +572,7 @@ Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–2
 
 “(a)
 
-Short Title.—This Act \[enacting section 1584 of Title 28, Judiciary and Judicial Procedure, amendingsections 58c, 81c, 1305, 1306, 1311, 1312, 1313, 1502, 1508, 1514, 1516a, 1562, 1677, 1677f, and 2518 of this title, sections 150bb, 150cc, 154, 156, 624, 1582, and 2803 of Title 7, Agriculture, section 1184 of Title 8, Aliens and Nationality, section 24 of Title 12, Banks and Banking, section 152 of Title 21, Food and Drugs, sections 1581, 2201, and 2643 of Title 28, section 2201 of Title 42, The Public Health and Welfare, section 2406 of the Appendix to Title 50, War and National Defense, enacting provisions set out as notes below, and amending provisions set out as a note under section 2253 of this title\] may be cited as the ‘United States-Canada Free-Trade Agreement Implementation Act of 1988’.
+Short Title.—This Act \[enacting section 1584 of Title 28, Judiciary and Judicial Procedure, amending sections 58c, 81c, 1305, 1306, 1311, 1312, 1313, 1502, 1508, 1514, 1516a, 1562, 1677, 1677f, and 2518 of this title, sections 150bb, 150cc, 154, 156, 624, 1582, and 2803 of Title 7, Agriculture, section 1184 of Title 8, Aliens and Nationality, section 24 of Title 12, Banks and Banking, section 152 of Title 21, Food and Drugs, sections 1581, 2201, and 2643 of Title 28, section 2201 of Title 42, The Public Health and Welfare, section 2406 of the Appendix to Title 50, War and National Defense, enacting provisions set out as notes below, and amending provisions set out as a note under section 2253 of this title\] may be cited as the ‘United States-Canada Free-Trade Agreement Implementation Act of 1988’.
 
 “(b)
 
@@ -658,7 +658,7 @@ Effect of Agreement With Respect to Private Remedies.—No person other than the
 
 &emsp;“(1) have any cause of action or defense under the Agreement or by virtue of congressional approval thereof, or
 
-&emsp;“(2) challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State, or any political subdivision of a State on the ground that such action or inaction is inconsistent with the Agreement.
+&emsp;“(2) challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State, or any political subdivisionof a State on the ground that such action or inaction is inconsistent with the Agreement.
 
 “(d)
 
@@ -778,7 +778,7 @@ In General.—
 
 &emsp;&emsp;“(B) they—
 
-&emsp;&emsp;&emsp;“(i) have been transformed in the territory of either Party or both Parties so as to be subject toa change in tariff classification as described in the Annex rules or to such other requirements as the Annex rules may provide when no change in tariff classifications occurs, and
+&emsp;&emsp;&emsp;“(i) have been transformed in the territory of either Party or both Parties so as to be subject to a change in tariff classification as described in the Annex rules or to such other requirements as the Annex rules may provide when no change in tariff classifications occurs, and
 
 &emsp;&emsp;&emsp;“(ii) meet the other conditions set out in the Annex.
 
@@ -848,7 +848,7 @@ Annex Rules.—
 
 Automotive Products.—
 
-&emsp;“(1) The President is authorized to proclaim such modifications to the definition of Canadian articles (relating to the administration of the Automotive Products Trade Act of 1965 \[19 U.S.C. 2001 et seq.\]) in the general notes of the Harmonized System as may be necessary to conform that definition with chapter 3 of the Agreement.
+&emsp;“(1) The President is authorized to proclaim such modifications to the definition of Canadian articles (relating to the administration of the Automotive Products Trade Act of 1965 \[19 U.S.C. 2001 et seq.\]) in the general notes of the Harmonized System as maybe necessary to conform that definition with chapter 3 of the Agreement.
 
 &emsp;“(2) For purposes of administering the value requirement (as defined in section 304(c)(3)) with respect to vehicles, the Secretary of the Treasury shall prescribe regulations governing the averaging of the value content of vehicles of the same class, or of sister vehicles, assembled in the same plant as an alternative to the calculation of the value content of each vehicle.
 
@@ -954,7 +954,7 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;&emsp;“(ii) duties, taxes, and brokerage fees on all materials paid in the territory of either Party or both Parties;
 
-&emsp;&emsp;&emsp;“(iii) the cost of waste or spoilage resulting from the use or consumption of such materials, less the value of renewable scrap or byproduct; and
+&emsp;&emsp;&emsp;“(iii) the cost of waste or spoilage resulting from the use or consumption of such materials,less the value of renewable scrap or byproduct; and
 
 &emsp;&emsp;&emsp;“(iv) the value of goods and services relating to all materials determined in accordance with subparagraph 1(b) of article 8 of the Agreement on Implementation of article VII of the General Agreement on Tariffs and Trade; and
 
@@ -1084,7 +1084,7 @@ Special Tariff Provisions for Fresh Fruits and Vegetables.—
 
 &emsp;&emsp;“(B) The planted acreage in the United States for the like fresh fruit or vegetable is no higher than the average planted acreage over the preceding 5 years, excluding the years with the highest and lowest acreage. For the purposes of applying this subparagraph, any acreage increase attributed directly to a reduction in the acreage that was planted to wine grapes as of October 4, 1987, shall be excluded.
 
-> &emsp;Whenever the Secretary makes a determination that the conditions referred to in subparagraphs (A) and (B) regarding any Canadian fresh fruit or vegetable exist, the Secretary shall immediately submit for publication in the Federal Register notice of the determination.
+> &emsp;Whenever the Secretary makes a determination that the conditions referred to in subparagraphs (A) and\(B) regarding any Canadian fresh fruit or vegetable exist, the Secretary shall immediately submit for publication in the Federal Register notice of the determination.
 
 &emsp;“(2) No later than 6 days after publication in the Federal Register of the notice described in paragraph (1), the Secretary shall decide whether to recommend the imposition of a temporary duty to the President, and if the Secretary decides to make such a recommendation, the recommendation shall be forwarded immediately to the President.
 
@@ -1190,7 +1190,7 @@ Relief From Imports of Canadian Articles.—
 
 &emsp;“(1) A petition requesting action under this section for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with the United States International Trade Commission (hereafter in this section referred to as the ‘Commission’) by an entity, including a trade association, firm, certified or recognized union, or group of workers, which is representative of an industry. The Commission shall transmit a copy of any petition filed under this paragraph to the United States Trade Representative.
 
-&emsp;“(2)(A) Upon the filing of a petition under paragraph (1), the Commission shall promptly initiate an investigation to determine whether, as a result of a reduction or elimination of a duty provided for under the United States-Canada Free-Trade Agreement, an article originating in Canada is being imported into the United States in such increased quantities, in absolute terms, and under such conditions, so that imports of such Canadian article, alone, constitute a substantial cause of serious injury to the domestic industry producing an article like, or directly competitive with, the imported article.
+&emsp;“(2)(A) Upon the filing of a petition under paragraph (1), the Commission shall promptly initiate an investigation to determine whether, as a result of a reduction or elimination of a duty provided for under the United States-Canada Free-Trade Agreement, anarticle originating in Canada is being imported into the United States in such increased quantities, in absolute terms, and under such conditions, so that imports of such Canadian article, alone, constitute a substantial cause of serious injury to the domestic industry producing an article like, or directly competitive with, the imported article.
 
 &emsp;“(B) The provisions of—
 
@@ -1204,7 +1204,7 @@ Relief From Imports of Canadian Articles.—
 
 &emsp;“(D) If the determination made by the Commission under subparagraph (A) with respect to imports of an article is affirmative, the Commission shall find and recommend to the President the amount of import relief that is necessary to remedy the injury found by the Commission in such affirmative determination, which shall be limited to that set forth in paragraph (3)(C).
 
-&emsp;“(E)(i) By no later than the date that is 30 days after the date on which a determination is made under subparagraph (A) with respect to an investigation, the Commission shall submit to the President a report on the determination and the basis for the determination. The report shall include any dissentingor separate views and a transcript of the hearings and any briefs which were submitted to the Commission in the course of the investigation initiated under subparagraph (A).
+&emsp;“(E)(i) By no later than the date that is 30 days after the date on which a determination is made under subparagraph (A) with respect to an investigation, the Commission shall submit to the President a report on the determination and the basis for the determination. The report shall include any dissenting or separate views and a transcript of the hearings and any briefs which were submitted to the Commission in the course of the investigation initiated under subparagraph (A).
 
 &emsp;“(ii) Any finding made under subparagraph (D) shall be included in the report submitted to the President under clause (i).
 
@@ -1252,7 +1252,7 @@ Relief From Imports From All Countries.—
 
 &emsp;“(B) In determining the nature and extent of action to be taken under chapter 1 of title II of the Trade Act of 1974, the President shall exclude from such action imports from Canada if the President has made a negative determination under subparagraph (A) regarding imports from Canada.
 
-&emsp;“(3)(A) If, under paragraph (2)(B), the President excludes imports from Canada from action taken under chapter 1 of title II of the Trade Act of 1974, the President may, if the President thereafter determines that a surge in imports from Canada of the article that is the subject of the action is undermining the effectiveness of the action, take appropriate action under such chapter with respect to such imports from Canada to include such imports in such action.
+&emsp;“(3)(A) If, under paragraph (2)(B), the President excludes imports from Canada from action taken under chapter 1 of title II of the Trade Act of 1974, the President may, if the President thereafter determines that a surge in imports from Canada of the articlethat is the subject of the action is undermining the effectiveness of the action, take appropriate action under such chapter with respect to such imports from Canada to include such imports in such action.
 
 &emsp;“(B)(i) If, under paragraph (2)(B), the President excludes imports from Canada from action taken under chapter 1 of title II of the Trade Act of 1974, any entity, including a trade association, firm, certified or recognized union, or group of workers, that is representative of an industry for which such action is being taken under such chapter may request the Commission to conduct an investigation of imports from Canada of the article that is the subject of such action.
 
@@ -1260,7 +1260,7 @@ Relief From Imports From All Countries.—
 
 &emsp;“(C) For purposes of this paragraph, the term ‘surge’ means a significant increase in imports over the trend for a reasonable, recent base period for which data are available.
 
-“(c) Any entity that is representative of an industry may submit a petition for relief under subsection (a), under chapter 1 of title II of the Trade Act of 1974, or under both subsection (a) and such chapter at the sametime. If petitions are submitted by such an entity under subsection (a) and such chapter at the same time, the Commission shall consider such petitions jointly.
+“(c) Any entity that is representative of an industry may submit a petition for relief under subsection (a), under chapter 1 of title II of the Trade Act of 1974, or under both subsection (a) and such chapter at the same time. If petitions are submitted by such an entity under subsection (a) and such chapter at the same time, the Commission shall consider such petitions jointly.
 
 #### “SEC. 303. ACTS IDENTIFIED IN NATIONAL TRADE ESTIMATES.
 
@@ -1356,7 +1356,7 @@ Negotiation of Limitation on Potato Trade.—
 
 &emsp;&emsp;“(B) enforce any quantitative limitation, restriction, and other terms contained in the agreement.
 
-> &emsp;Such actions may include, but are not limited to, requirements that valid export licenses or other documentation issued by a foreign government be presented as a condition for the entry into the UnitedStates of any article that is subject to the agreement.
+> &emsp;Such actions may include, but are not limited to, requirements that valid export licenses or other documentation issued by a foreign government be presented as a condition for the entry into the United States of any article that is subject to the agreement.
 
 &emsp;“(4) The provisions of section 1204 of the Agriculture and Food Act of 1981 (7 U.S.C. 1736j) and the last sentence of section 812 of the Agricultural Act of 1970 (7 U.S.C. 612c–3) shall not apply in the case of actions taken pursuant to this subsection.
 
@@ -1622,7 +1622,7 @@ Panels and Committees.—
 
 &emsp;“(3) Funds appropriated for the payment of expenses described in paragraph (1) during any fiscal year may be expended only to the extent such funds do not exceed the amount authorized to be appropriated under paragraph (1) for such fiscal year. This paragraph shall apply, notwithstanding any law enacted after the date of enactment of this Act \[Sept. 28, 1988\], unless such subsequent law specifically provides that this paragraph shall not apply and specifically cites this paragraph.
 
-&emsp;“(4) If the Canadian Secretariat described in chapter 19 of the Agreement provides funds during any fiscal year for the purpose of paying, in accordance with Annex 1901.2 of the Agreement, the Canadian share of the expenses of binational panels, the United StatesSecretariat established under section 405(e)(1) may hereafter retain and use such funds for such purposes.
+&emsp;“(4) If the Canadian Secretariat described in chapter 19 of the Agreement provides funds during any fiscal year for the purpose of paying, in accordance with Annex 1901.2 of the Agreement, the Canadian share of the expenses of binational panels, the United States Secretariat established under section 405(e)(1) may hereafter retain and use such funds for such purposes.
 
 #### “SEC. 407. TESTIMONY AND PRODUCTION OF PAPERS IN EXTRAORDINARY CHALLENGES.
 
@@ -1834,7 +1834,7 @@ Pub. L. 99–47, June 11, 1985, 99 Stat. 82, as amended by Pub. L. 104–234, §
 
 “The purposes of this Act are—
 
-&emsp;“(1) to approve and implement the agreement on the establishment of a free trade area between the United States and Israel negotiated under the authority of section 102 of the Trade Act of 1974 \[19 U.S.C. 2112\];
+&emsp;“(1) to approve and implement the agreement on the establishment of a free trade area between theUnited States and Israel negotiated under the authority of section 102 of the Trade Act of 1974 \[19 U.S.C. 2112\];
 
 &emsp;“(2) to strengthen and develop the economic relations between the United States and Israel for their mutual benefit; and
 
@@ -1976,7 +1976,7 @@ Cost or value of materials.—(A) For purposes of this section, the cost or valu
 
 &emsp;&emsp;“(i) the manufacturer's actual cost for the materials;
 
-&emsp;&emsp;“(ii) when not included in the manufacturer's actual cost for the materials, the freight, insurance,packing, and all other costs incurred in transporting the materials to the manufacturer's plant;
+&emsp;&emsp;“(ii) when not included in the manufacturer's actual cost for the materials, the freight, insurance, packing, and all other costs incurred in transporting the materials to the manufacturer's plant;
 
 &emsp;&emsp;“(iii) the actual cost of waste or spoilage, less the value of recoverable scrap; and
 
@@ -2126,7 +2126,7 @@ ITC Reports.—In any report by the United States International Trade Commission
 
 #### “SEC. 404. FAST TRACK PROCEDURES FOR PERISHABLE ARTICLES.
 
-“(a) If a petition is filed with the Commission under the provisions of section 202(a) of the Trade Act of 1974 \[19 U.S.C. 2252(a)\] regarding a perishable product which is subject to any reduction or elimination of a duty imposed by the United States under a trade agreement entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] and alleges injury from imports of that product, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted under subsection (c) with respect to such article.
+“(a) If a petition is filed with the Commission under the provisions of section 202(a) of the Trade Act of 1974\[19 U.S.C. 2252(a)\] regarding a perishable product which is subject to any reduction or elimination of a duty imposed by the United States under a trade agreement entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] and alleges injury from imports of that product, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted under subsection (c) with respect to such article.
 
 “(b) Within 14 days after the filing of a petition under subsection (a)—
 
@@ -2259,8 +2259,4 @@ The President retains the sole authority under the Act to implement an action by
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2113, 2114, 2114a, 2115, 2116, 2117, 2118, 2191, 2194, 2503, 2504, 2904, 3810 of this title; title 22 section 5342.
 

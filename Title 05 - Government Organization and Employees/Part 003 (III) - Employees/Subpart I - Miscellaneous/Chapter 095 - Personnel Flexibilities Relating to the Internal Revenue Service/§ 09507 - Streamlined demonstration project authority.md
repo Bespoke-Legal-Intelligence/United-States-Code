@@ -28,7 +28,3 @@
 
 (Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 715.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9501 of this title.
-

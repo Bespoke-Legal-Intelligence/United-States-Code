@@ -22,7 +22,3 @@ In a case in which any recommendation by a board convened under subsection (a) o
 
 Provisions similar to those in this section were contained in section 853r of this title prior to repeal by Pub. L. 107–372.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3041 of this title.
-

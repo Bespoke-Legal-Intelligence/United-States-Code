@@ -82,7 +82,3 @@ Section effective July 1, 1960, see section 10 of Pub. L. 86–211, set out as a
 
 Section 101(c) of Pub. L. 102–405 provided that: “A veteran who exhausts such veteran's eligibility for benefits under section 1717(a)(2) of title 38, United States Code, before January 1, 1990, is not entitled to additional benefits under such section by reason of the amendments made by subsection (a) \[amending this section\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1710, 2104 of this title.
-

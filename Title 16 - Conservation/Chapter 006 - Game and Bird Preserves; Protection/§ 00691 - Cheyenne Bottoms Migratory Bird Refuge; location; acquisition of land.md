@@ -8,7 +8,3 @@ The Secretary of the Interior is authorized to acquire by purchase, gift, or lea
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 671 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 691a, 691c, 691d of this title.
-

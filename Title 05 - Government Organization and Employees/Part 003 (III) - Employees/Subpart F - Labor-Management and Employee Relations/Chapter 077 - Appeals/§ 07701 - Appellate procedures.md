@@ -80,7 +80,7 @@
 
 (4) It shall be the duty of the Board, an administrative law judge, or employee designated by the Board to hear any proceeding under this section to expedite to the extent practicable that proceeding.
 
-(j) In determining the appealability under this section of any case involving a removal from the service (other than the removal of a reemployed annuitant), neither an individual's status under any retirement system established by or under Federal statute nor any election made by suchindividual under any such system may be taken into account.
+(j) In determining the appealability under this section of any case involving a removal from the service (other than the removal of a reemployed annuitant), neither an individual's status under any retirement system established by or under Federal statute nor any election made by such individual under any such system may be taken into account.
 
 (k) The Board may prescribe regulations to carry out the purpose of this section.
 
@@ -172,9 +172,5 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (i)(
 
 #### Executive Order No. 11787
 
-Ex. Ord. No. 11787, June 11, 1974, 39 F.R. 20675; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which provided that the appeals system established by the Merit Systems Protection Board is the sole system of appeal for anemployee covered by that appeal system, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1212, 2105, 2302, 3395a, 3592, 3593, 3595, 4303, 5596, 7121, 7513, 7543, 7702, 7703, 8347, 8451, 8461 of this title; title 10 section 1610; title 22 sections 1438, 4137; title 28 section 569; title 31 section 753; title 49 section 40122.
+Ex. Ord. No. 11787, June 11, 1974, 39 F.R. 20675; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which provided that the appeals system established by the Merit Systems Protection Board is the sole system of appeal for an employee covered by that appeal system, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 

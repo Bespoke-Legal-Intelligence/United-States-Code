@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—PROVISIONS RELATING TO ACCREDITATION AND APPROVAL
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 14902, 14912, 14944 of this title.
-
 
 ---
 

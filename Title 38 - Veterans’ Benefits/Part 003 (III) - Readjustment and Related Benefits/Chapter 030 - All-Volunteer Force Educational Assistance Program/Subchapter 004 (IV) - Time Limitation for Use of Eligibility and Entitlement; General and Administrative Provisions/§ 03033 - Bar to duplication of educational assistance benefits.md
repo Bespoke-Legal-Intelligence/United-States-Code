@@ -10,6 +10,10 @@
 
 (Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2561, §1433; amended Pub. L. 99–576, title III, §306, Oct. 28, 1986, 100 Stat. 3269; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §10(a)(4), Mar. 22, 1991, 105 Stat. 55; renumbered §3033, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### References in Text
+
+The Hostage Relief Act of 1980, referred to in subsec. (a)(1), is Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, as amended, which was formerly set out as a note under section 5561 of Title 5, Government Organization and Employees.
+
 #### Amendments
 
 1991—Pub. L. 102–83 renumbered section 1433 of this title as this section.

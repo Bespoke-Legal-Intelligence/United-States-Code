@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(B) in which the entity carrying out the project, in conjunction with employers, organized labor, and other groups such as the disability community, will design, develop, and test various training approaches in order to determine effective practices; and
 
-&emsp;&emsp;(C) that will assist in the development and replication of effective service delivery strategies for targeted populations for the national employment and training system as a whole.
+&emsp;&emsp;(C) that will assist in the development and replication of effective service deliverystrategies for targeted populations for the national employment and training system as a whole.
 
 #### (2) Research projects
 
@@ -151,8 +151,4 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 #### Demonstration Programs and Projects To Provide Technical Skills Training for Workers
 
 Pub. L. 105–277, div. C, title IV, §414(c), Oct. 21, 1998, 112 Stat. 2681–653, as amended, formerly set out as a note under this section, was transferred and is classified to section 2916a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2862, 2916a, 2917, 2919, 2939 of this title.
 

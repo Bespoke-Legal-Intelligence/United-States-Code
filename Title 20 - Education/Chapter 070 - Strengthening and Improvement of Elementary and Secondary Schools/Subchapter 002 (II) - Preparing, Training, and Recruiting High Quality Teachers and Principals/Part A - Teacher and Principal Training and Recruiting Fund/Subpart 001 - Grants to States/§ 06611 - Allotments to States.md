@@ -58,9 +58,5 @@ Section 2202(b) of this Act (as in effect on the day before January 8, 2002), re
 
 Section 306 of the Department of Education Appropriations Act, 2001, referred to in subsec. (b)(2)(A)(i)(II), is section 1(a)(1) \[title III, §306\] of Pub. L. 106–554, Nov. 29, 1999, 113 Stat. 2763, 2763A–41, which is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6613, 6632 of this title.
-
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

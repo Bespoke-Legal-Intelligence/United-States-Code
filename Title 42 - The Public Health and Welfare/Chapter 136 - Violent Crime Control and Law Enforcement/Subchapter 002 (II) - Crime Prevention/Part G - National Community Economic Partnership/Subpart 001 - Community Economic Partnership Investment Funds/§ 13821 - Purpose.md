@@ -8,7 +8,3 @@ It is the purpose of this subpart to increase private investment in distressed l
 
 For short title of this part as the “National Community Economic Partnership Act of 1994”, see section 31101 of Pub. L. 103–322, set out as a note under section 13701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13824, 13825, 14214 of this title.
-

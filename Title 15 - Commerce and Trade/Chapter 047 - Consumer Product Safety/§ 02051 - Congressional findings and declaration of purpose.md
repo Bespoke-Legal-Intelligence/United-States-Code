@@ -12,7 +12,7 @@
 
 &emsp;(5) existing Federal authority to protect consumers from exposure to consumer products presenting unreasonable risks of injury is inadequate; and
 
-&emsp;(6) regulation of consumer products the distribution or use of which affects interstate or foreign commerce is necessary to carry out this chapter.
+&emsp;(6) regulation of consumer products the distribution or use of which affects interstate orforeign commerce is necessary to carry out this chapter.
 
 (b) The purposes of this chapter are—
 
@@ -48,7 +48,7 @@ Pub. L. 95–319, §1, July 11, 1978, 92 Stat. 386, provided: “That this Act \
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–284, §1, May 11, 1976, 90 Stat. 503, provided that: “This Act \[amending sections 1193, 1203, 1204, 1261, 1471, 1476, 2052, 2053, 2056, 2058 to 2060, 2064, 2068, 2069,2071 to 2073, 2075, 2076, 2078, 2079, and 2081 of this title, and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 1193, 1261, and 2080 of this title\] may be cited as the ‘Consumer Product Safety Commission Improvements Act of 1976’.”
+Pub. L. 94–284, §1, May 11, 1976, 90 Stat. 503, provided that: “This Act \[amending sections 1193, 1203, 1204, 1261, 1471, 1476, 2052, 2053, 2056, 2058 to 2060, 2064, 2068, 2069, 2071 to 2073, 2075, 2076, 2078, 2079, and 2081 of this title, and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 1193, 1261, and 2080 of this title\] may be cited as the ‘Consumer Product Safety Commission Improvements Act of 1976’.”
 
 #### Short Title
 

@@ -4,7 +4,3 @@ The purpose of the Office shall be to advise and assist the House of Representat
 
 (Pub. L. 91–510, title V, §502, Oct. 26, 1970, 84 Stat. 1202.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 281b of this title.
-

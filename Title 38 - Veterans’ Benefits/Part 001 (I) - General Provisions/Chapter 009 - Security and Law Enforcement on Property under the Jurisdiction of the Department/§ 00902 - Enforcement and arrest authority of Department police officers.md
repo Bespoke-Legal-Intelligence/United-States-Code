@@ -32,7 +32,3 @@ Prior section 902 was renumbered section 2302 of this title.
 
 Provisions similar to those in this section were contained in section 218(b) of this title prior to repeal by Pub. L. 102–83, §2(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7455 of this title.
-

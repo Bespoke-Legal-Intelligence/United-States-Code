@@ -48,7 +48,3 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 732 of this title.
-

@@ -36,7 +36,3 @@
 
 (Added Pub. L. 103–62, §7, Aug. 3, 1993, 107 Stat. 293.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2802, 2804 of this title.
-

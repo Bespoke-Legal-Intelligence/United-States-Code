@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized, in his discretion, to designate and
 
 (Aug. 13, 1914, ch. 247, §7, 38 Stat. 688.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 475 of this title.
-

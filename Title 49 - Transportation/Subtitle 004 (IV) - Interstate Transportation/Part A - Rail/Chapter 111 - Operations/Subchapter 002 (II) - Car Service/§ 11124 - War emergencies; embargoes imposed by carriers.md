@@ -1,6 +1,6 @@
 ### §11124. War emergencies; embargoes imposed by carriers
 
-(a)(1) When the President, during time of war or threatened war, notifies the Board that it is essential to the defense and security of the United States to give preference or priority to the movement of certain traffic, the Board shall direct that preference or priority be given to that traffic.
+(a)(1) When the President, during time of war or threatened war, notifies the Board that it isessential to the defense and security of the United States to give preference or priority to the movement of certain traffic, the Board shall direct that preference or priority be given to that traffic.
 
 (2) When the President, during time of war or threatened war, demands that preference and precedence be given to the transportation of troops and material of war over all other traffic, all rail carriers providing transportation subject to the jurisdiction of the Board under this part shall adopt every means within their control to facilitate and expedite the military traffic.
 
@@ -23,8 +23,4 @@ Section 11126, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1424; Pub. L. 103–272
 Section 11127, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1424; Pub. L. 99–521, §9(b)(1), (2), Oct. 22, 1986, 100 Stat. 2997, related to service of household goods freight forwarders.
 
 Section 11128, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1425, related to war emergencies and embargoes imposed by carriers. See section 11124 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11121, 11901 of this title.
 

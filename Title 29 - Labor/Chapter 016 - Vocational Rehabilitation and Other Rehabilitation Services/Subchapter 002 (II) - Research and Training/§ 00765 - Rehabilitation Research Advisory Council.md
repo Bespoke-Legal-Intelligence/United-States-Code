@@ -70,7 +70,3 @@ A prior section 770, Pub. L. 93–112, title III, §301, formerly §300, Sept. 2
 
 Pub. L. 105–277, §101(f) \[title VIII, §401(16)\], made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 761, 762 of this title.
-

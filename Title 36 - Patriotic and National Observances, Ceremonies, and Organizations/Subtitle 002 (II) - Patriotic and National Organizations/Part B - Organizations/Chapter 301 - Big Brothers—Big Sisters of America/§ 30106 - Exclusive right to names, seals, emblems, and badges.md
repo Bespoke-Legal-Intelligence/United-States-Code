@@ -1,6 +1,6 @@
 ### §30106. Exclusive right to names, seals, emblems, and badges
 
-The corporation and its subordinate divisions have the exclusive right to use the names “The Big Brothers of America, Big Sisters International, Incorporated”, “Big Sisters of America”, “Big Brothers”, “Big Sisters”, “Big Brothers—Big Sisters of America”, and “Big Sisters—Big Brothers”, and to use and to allow others to use seals, emblems, and badges the corporation adopts.
+The corporation and its subordinate divisions have the exclusive right to use the names “The Big Brothers of America, Big Sisters International, Incorporated”, “Big Sisters of America”, “Big Brothers”, “Big Sisters”, “Big Brothers—Big Sisters of America”, and “Big Sisters—Big Brothers”, and to use and to allow others touse seals, emblems, and badges the corporation adopts.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1315.)
 

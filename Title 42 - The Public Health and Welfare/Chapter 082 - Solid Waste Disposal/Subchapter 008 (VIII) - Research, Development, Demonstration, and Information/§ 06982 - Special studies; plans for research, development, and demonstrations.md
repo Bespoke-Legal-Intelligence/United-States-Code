@@ -16,7 +16,7 @@ For purposes of determining priorities for research on recovery of materials and
 
 &emsp;(2) the potential for research, development, and demonstration without Federal action, including the degree of restraint on such potential posed by the risks involved, and
 
-&emsp;(3) the magnitude of effort and period of time necessary to develop the technology tothe point where Federal assistance can be ended.
+&emsp;(3) the magnitude of effort and period of time necessary to develop the technology to the point where Federal assistance can be ended.
 
 #### (d) Small-scale and low technology study
 
@@ -42,7 +42,7 @@ The Administrator, in consultation with the Secretary of the Interior, shall con
 
 &emsp;(6) potential for use of discarded material as a secondary source of the mine product.
 
-> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal agencies concerning such wastes with a view toward avoiding duplication of effort and the need to expedite such study. Not later than thirty-six months after October 21, 1980, the Administrator shall publish a report of such study and shall include appropriate findings and recommendations for Federal and non-Federal actions concerning such effects. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
+> In furtherance of this study, the Administrator shall, as he deems appropriate, review studiesand other actions of other Federal agencies concerning such wastes with a view toward avoiding duplication of effort and the need to expedite such study. Not later than thirty-six months after October 21, 1980, the Administrator shall publish a report of such study and shall include appropriate findings and recommendations for Federal and non-Federal actions concerning such effects. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
 
 #### (g) Sludge
 
@@ -174,7 +174,7 @@ The Administrator shall conduct a detailed and comprehensive study of the advers
 
 &emsp;(8) the current and potential utilization of such materials.
 
-> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and State agencies concerning such waste or materials and invite participation by other concerned parties, including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report of such study, which shall include appropriate findings, not later than thirty-six months after October 21, 1980. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
+> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and Stateagencies concerning such waste or materials and invite participation by other concerned parties, including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report of such study, which shall include appropriate findings, not later than thirty-six months after October 21, 1980. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
 
 #### (p) Materials generated from extraction, beneficiation, and processing of ores and minerals, including phosphate rock and overburden from uranium mining
 
@@ -208,7 +208,7 @@ The Administrator shall compile, and not later than October 1, 1986, submit to t
 
 #### (s) Extending landfill life and reusing landfilled areas
 
-The Administrator shall conduct detailed, comprehensive studies of methods to extend the useful life of sanitary landfills and to better usesites in which filled or closed landfills are located. Such studies shall address—
+The Administrator shall conduct detailed, comprehensive studies of methods to extend the useful life of sanitary landfills and to better use sites in which filled or closed landfills are located. Such studies shall address—
 
 &emsp;(1) methods to reduce the volume of materials before placement in landfills;
 
@@ -254,9 +254,5 @@ Committee on Interstate and Foreign Commerce of the House of Representatives cha
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6921, 6981, 6987, 7412 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 

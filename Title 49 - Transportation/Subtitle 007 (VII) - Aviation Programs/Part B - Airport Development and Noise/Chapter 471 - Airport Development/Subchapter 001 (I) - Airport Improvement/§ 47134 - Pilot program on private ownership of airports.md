@@ -22,7 +22,7 @@ In general.—The Secretary may grant an exemption to a sponsor from the provisi
 
 &emsp;&emsp;(B)
 
-Objection to exemption.—An air carrier shall be deemed to have approved a sponsor's application for an exemption under subparagraph (A) unless the air carrier has submitted an objection, in writing, to the sponsor within 60 days of the filing of the sponsor's application with the Secretary, or within 60 days of the service of the application upon that air carrier, whichever is later.
+Objection to exemption.—An air carrier shall be deemed to have approved a sponsor's application for an exemption under subparagraph (A) unless the air carrier has submitted an objection, in writing, to thesponsor within 60 days of the filing of the sponsor's application with the Secretary, or within 60 days of the service of the application upon that air carrier, whichever is later.
 
 &emsp;&emsp;(C)
 
@@ -84,7 +84,7 @@ Interests of General Aviation Users.—In approving an application of an airport
 
 (g)
 
-Passenger Facility Fees; Apportionments; Service Charges.—Notwithstanding that the sponsor of an airport receiving an exemption under subsection (b) is not a publicagency, the sponsor shall not be prohibited from—
+Passenger Facility Fees; Apportionments; Service Charges.—Notwithstanding that the sponsor of an airport receiving an exemption under subsection (b) is not a public agency, the sponsor shall not be prohibited from—
 
 &emsp;(1) imposing a passenger facility fee under section 40117 of this title;
 
@@ -102,7 +102,7 @@ Revocation of Exemptions.—The Secretary may revoke an exemption issued to a pu
 
 (j)
 
-Nonapplication of Provisions to Airports Owned by Public Agencies.—The provisions of this section requiring the approval of air carriers in determinations concerning the use of revenues, and imposition of fees, at an airport shall not be extended so as to apply to any airport owned by a public agency that is not participating in the program established by this section.
+Nonapplication of Provisions to Airports Owned by Public Agencies.—The provisions ofthis section requiring the approval of air carriers in determinations concerning the use of revenues, and imposition of fees, at an airport shall not be extended so as to apply to any airport owned by a public agency that is not participating in the program established by this section.
 
 (k)
 
@@ -139,8 +139,4 @@ Pub. L. 108–176, title I, §155(b), Dec. 12, 2003, 117 Stat. 2508, provided th
 #### Effective Date
 
 Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40116, 47109, 47129 of this title.
 

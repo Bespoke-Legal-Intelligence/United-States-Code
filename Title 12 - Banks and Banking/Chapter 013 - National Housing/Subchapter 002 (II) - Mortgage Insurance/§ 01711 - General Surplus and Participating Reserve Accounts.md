@@ -88,7 +88,3 @@ Subsecs. (f) to (h). Pub. L. 101–508, §2105, added subsecs. (f) to (h).
 
 Section 508(b) of Pub. L. 102–550 provided that: “Notwithstanding the 6-year limitation on distribution of shares of the Participating Reserve Account under section 205(c) of the National Housing Act \[12 U.S.C. 1711(c)\], the Secretary shall distribute a share to an otherwise eligible mortgagor in accordance with section 205(c), if the mortgagor applies for payment of the share within 1 year after the date of enactment of this Act \[Oct. 28, 1992\] in accordance with procedures in effect on such date.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1709 of this title.
-

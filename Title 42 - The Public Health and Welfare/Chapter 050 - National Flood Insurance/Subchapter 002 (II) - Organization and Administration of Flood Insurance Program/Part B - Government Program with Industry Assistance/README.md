@@ -1,9 +1,5 @@
 Part B—Government Program With Industry Assistance
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 4041, 4084 of this title.
-
 
 ---
 

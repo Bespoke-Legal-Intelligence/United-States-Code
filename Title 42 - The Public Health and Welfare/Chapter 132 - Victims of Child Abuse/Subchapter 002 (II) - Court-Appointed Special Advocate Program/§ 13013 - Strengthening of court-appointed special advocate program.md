@@ -28,7 +28,7 @@ The Administrator of the Office of Juvenile Justice and Delinquency Prevention s
 
 &emsp;(F) a court-appointed special advocate program not accept volunteers who have been convicted of, have charges pending for, or have in the past been charged with, a felony or misdemeanor involving a sex offense, violent act, child abuse or neglect, or related acts that would pose risks to children or to the court-appointed special advocate program's credibility;
 
-&emsp;(G) a court-appointed special advocate program have an established procedure to allow the immediate reporting to a court or appropriate agency of a situation in which a court-appointed special advocate volunteer has reason to believe that a child is in imminent danger;
+&emsp;(G) a court-appointed special advocate program have an established procedure to allowthe immediate reporting to a court or appropriate agency of a situation in which a court-appointed special advocate volunteer has reason to believe that a child is in imminent danger;
 
 &emsp;(H) a court-appointed special advocate volunteer be an individual who has been screened and trained by a recognized court-appointed special advocate program and appointed by the court to advocate for children who come into the court system primarily as a result of abuse or neglect; and
 

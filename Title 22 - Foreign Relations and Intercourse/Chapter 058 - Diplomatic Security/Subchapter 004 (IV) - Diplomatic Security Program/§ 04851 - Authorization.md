@@ -18,7 +18,7 @@
 
 #### (4) Allocation of amounts authorized to be appropriated
 
-&emsp;Amounts authorized to be appropriated by this subsection, and by the amendment made by paragraph (2), shall be allocated as provided in the table entitled “Diplomatic Security Program” relating to this section which appears in the Joint Explanatory Statement of the Committee of Conference to accompany H.R. 4151 of the 99th Congress (the Omnibus Diplomatic Security and Antiterrorism Act of 1986).
+&emsp;Amounts authorized to be appropriated by this subsection, and by the amendment madeby paragraph (2), shall be allocated as provided in the table entitled “Diplomatic Security Program” relating to this section which appears in the Joint Explanatory Statement of the Committee of Conference to accompany H.R. 4151 of the 99th Congress (the Omnibus Diplomatic Security and Antiterrorism Act of 1986).
 
 #### (b) Notification to authorizing Committees of requests for appropriations
 
@@ -68,7 +68,7 @@ Section is comprised of section 401 of Pub. L. 99–399. Subsecs. (a)(2) and (h)
 
 1994—Subsec. (a)(3). Pub. L. 103–236, §101(c), struck out heading and text of par. (3). Text read as follows: “There is authorized to be appropriated for the Department of State for ‘Acquisition and Maintenance of Buildings Abroad’ for each of the fiscal years 1988 through 1990, $417,962,000 to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program. Authorizations of appropriations under this paragraph shall remain available until the appropriations are made.”
 
-Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec. (c). Text read as follows: “Amounts made available for capital projects pursuantto subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
+Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec. (c). Text read as follows: “Amounts made available for capital projects pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
 
 Subsec. (h)(3). Pub. L. 103–236, §122(b), struck out heading and text of par. (3). Text read as follows: “Amounts made available for furniture, furnishings, and equipment pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
 
@@ -112,6 +112,8 @@ Director of Central Intelligence.—The Director of Central Intelligence shall p
 
 Dissenting Views.—If the Director of Central Intelligence disagrees with the Secretary of State with respect to any project certification made pursuant to subsection (a), the Director shall submit in writing disagreeing views to the Secretary of State.”
 
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
+
 #### Report to Congress on Obligation of Funds
 
 Pub. L. 100–459, title III, §302, Oct. 1, 1988, 102 Stat. 2207, provided that: “The Secretary of State shall report to the appropriate committees of the Congress on the obligation of funds provided for diplomatic security and related expenses every month.”
@@ -121,8 +123,4 @@ Similar provisions were contained in the following prior appropriation acts:
 Pub. L. 100–202, §101(a) \[title III, §302\], Dec. 22, 1987, 101 Stat. 1329, 1329–23.
 
 Pub. L. 99–500, §101(b) \[title III, §302\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–60, and Pub. L. 99–591, §101(b) \[title III, §302\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–60.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4852, 4854, 4855, 4860 of this title.
 

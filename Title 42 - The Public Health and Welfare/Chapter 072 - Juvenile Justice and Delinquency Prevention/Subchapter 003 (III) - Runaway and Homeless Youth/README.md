@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—RUNAWAY AND HOMELESS YOUTH
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 11432 of this title; title 31 section 6703.
-
 
 ---
 

@@ -26,7 +26,3 @@ Federal recognition of the Little Traverse Bay Bands of Odawa Indians and the Li
 
 The Indian Reorganization Act, referred to in subsec. (a), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, which is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300k–4 of this title.
-

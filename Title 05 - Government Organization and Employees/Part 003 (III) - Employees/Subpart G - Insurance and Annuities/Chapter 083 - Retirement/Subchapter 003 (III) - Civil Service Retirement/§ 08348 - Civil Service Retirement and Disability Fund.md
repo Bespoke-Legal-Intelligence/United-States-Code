@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(IV) any other appropriate amount, as determined by the Office in accordance with generally accepted actuarial practices and principles.
 
-(B)(i) In computing the actuarial present value of future benefits, the Office shall include the full value of benefits attributable to military and volunteer service for United States Postal Service employees first employed after June 30, 1971, and a prorated share of the value of benefits attributable to military and volunteer service for United States Postal Service employees first employed before July 1, 1971.
+(B)(i) In computing the actuarial present value of future benefits, the Office shall include the full value of benefits attributable to military and volunteer service for United States Postal Service employees first employed after June 30,1971, and a prorated share of the value of benefits attributable to military and volunteer service for United States Postal Service employees first employed before July 1, 1971.
 
 (ii) Military service so included shall not be included in the computation of any amount under subsection (g)(2).
 
@@ -90,7 +90,7 @@
 
 &emsp;(A) the term “public debt limit” means the limitation imposed by section 3101(b) of title 31; and
 
-&emsp;(B) the term “debt issuance suspension period” means any period for which the Secretary of the Treasury determines for purposes of this subsection that the issuance of obligations of the United States may not be made without exceeding the public debt limit.
+&emsp;(B) the term “debt issuance suspension period” means any period for which the Secretary of the Treasury determines for purposesof this subsection that the issuance of obligations of the United States may not be made without exceeding the public debt limit.
 
 (k)(1) Subject to paragraph (2) of this subsection, the Secretary of the Treasury may sell or redeem securities, obligations, or other invested assets of the Fund before maturity in order to prevent the public debt of the United States from exceeding the public debt limit.
 
@@ -174,7 +174,7 @@ Section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 19
 
 Subsec. (m). Pub. L. 108–18, §2(d)(1)(A), struck out subsec. (m) which read as follows:
 
-“(m)(1) Notwithstanding any other provision of law, the United States Postal Service shall be liable for that portion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to former employees of the Postal Service who first become annuitants by reason of separation from the Postal Service on or after July 1, 1971, or to their survivors, or to the survivors of individuals who die on or after July 1, 1971, while employed by the Postal Service, when the increase results from a cost-of-living adjustment under section 8340 of this title.
+“(m)(1) Notwithstanding any other provision of law, the United States Postal Service shall be liable for thatportion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to former employees of the Postal Service who first become annuitants by reason of separation from the Postal Service on or after July 1, 1971, or to their survivors, or to the survivors of individuals who die on or after July 1, 1971, while employed by the Postal Service, when the increase results from a cost-of-living adjustment under section 8340 of this title.
 
 “(2) The estimated increase in the unfunded liability referred to in paragraph (1) of this subsection shall be determined by the Office after consultation with the Postal Service. The Postal Service shall pay the amount so determined to the Office in 15 equal annual installments with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System, and with the first payment thereof due at the end of the fiscal year in which the cost-of-living adjustment with respect to which the payment relates becomes effective.
 
@@ -252,7 +252,7 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions 
 
 Amendment by Pub. L. 97–346 effective Sept. 8, 1982, see section 3(n) of Pub. L. 97–346, set out as a note under section 8332 of this title.
 
-Amendment by Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Managementwithin 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1979 Amendment
 
@@ -310,7 +310,7 @@ Section 4002(b)(3) of Pub. L. 101–239, which provided that first payment made 
 
 #### Status of Original Subsec. (g) Provisions During Period From Oct. 20, 1969 to June 30, 1970
 
-Section 103(b)(2) of Pub. L. 91–93 provided that: “Paragraph (1) of this subsection \[set out as EffectiveDate of 1969 Amendment note above\], shall not be held or considered to continue in effect after the enactment of this Act \[Oct. 20, 1969\], the provisions of section 8348(g) of title 5, United States Code, as in effect immediately prior to such enactment.”
+Section 103(b)(2) of Pub. L. 91–93 provided that: “Paragraph (1) of this subsection \[set out as Effective Date of 1969 Amendment note above\], shall not be held or considered to continue in effect after the enactment of this Act \[Oct. 20, 1969\], the provisions of section 8348(g) of title 5, United States Code, as in effect immediately prior to such enactment.”
 
 #### Inapplicability to Benefits Under Pub. L. 89–737 of Prohibition Against Payment of Increased Annuity Benefit Without Compensating Appropriation
 
@@ -319,8 +319,4 @@ Section 3 of Pub. L. 89–737, Nov. 2, 1966, 80 Stat. 1164, which provided that 
 #### Redemption of Obligations Held Prior to Oct. 4, 1961; Reinvestment of Proceeds
 
 Pub. L. 87–350, §1(b) Oct. 4, 1961, 75 Stat. 770, provided that: “All special issues in which the civil service retirement and disability fund is invested in accordance with section 17(d) of the Civil Service Retirement Act \[subsecs. (d) and (e) of this section\] as in effect prior to the enactment of this Act \[Oct. 4, 1961\] shall be redeemed and the moneys reinvested by the Secretary of the Treasury, as nearly as may be practicable, in equal annual amounts over the period of ten calendar years beginning with the calendar year 1962, in accordance with such section 17(d), as amended by subsection (a) of this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8331, 8401 of this title; title 20 section 125; title 25 section 450i; title 42 section 2297h–8.
 

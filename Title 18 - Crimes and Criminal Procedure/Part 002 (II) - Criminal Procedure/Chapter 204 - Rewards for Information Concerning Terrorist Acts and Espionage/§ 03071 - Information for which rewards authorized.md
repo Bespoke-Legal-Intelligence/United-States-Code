@@ -30,7 +30,3 @@ Section 1 of Pub. L. 98–533 provided that: “This Act \[enacting this chapter
 
 Pub. L. 107–56, title V, §501, Oct. 26, 2001, 115 Stat. 363, which provided that funds available to Attorney General could be used for payment of rewards to combat terrorism and defend Nation against terrorist acts, in accordance with procedures and regulations established or issued by Attorney General, and set forth conditions in making such rewards, was repealed by Pub. L. 107–273, div. A, title III, §301(c)(1), Nov. 2, 2002, 116 Stat. 1781.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3072, 3074 of this title.
-

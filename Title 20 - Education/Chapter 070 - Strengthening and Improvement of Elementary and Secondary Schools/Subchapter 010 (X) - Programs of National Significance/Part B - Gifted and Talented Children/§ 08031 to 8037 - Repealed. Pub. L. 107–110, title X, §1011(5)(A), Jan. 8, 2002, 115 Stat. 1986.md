@@ -4,7 +4,7 @@ Section 8031, Pub. L. 89–10, title X, §10201, as added Pub. L. 103–382, tit
 
 Section 8032, Pub. L. 89–10, title X, §10202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3820, set forth findings and purposes. See section 7253a of this title.
 
-Section 8033, Pub. L. 89–10, title X, §10203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3822, related to construction of provisions. See section 7253b of this title.
+Section 8033, Pub. L. 89–10, title X, §10203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3822,related to construction of provisions. See section 7253b of this title.
 
 Section 8034, Pub. L. 89–10, title X, §10204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3822, related to authorized programs. See section 7253c of this title.
 

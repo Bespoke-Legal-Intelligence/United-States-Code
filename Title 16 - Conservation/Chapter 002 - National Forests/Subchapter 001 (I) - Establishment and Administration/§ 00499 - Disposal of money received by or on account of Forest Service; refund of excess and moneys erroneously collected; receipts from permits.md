@@ -22,9 +22,5 @@ The words “and moneys received on account of permits for hunting, fishing, or 
 
 1928—Act May 29, 1928, struck out provision which required the Secretary of Agriculture to make an annual report to Congress of the amounts refunded under this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 508b, 527, 670e of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

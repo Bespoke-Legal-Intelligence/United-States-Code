@@ -12,7 +12,3 @@ To finance the establishment, maintenance, and operation of the Service there is
 
 1972—Pub. L. 92–310 struck out “and premiums on fidelity bonds of employees” in cl. (4).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 113, 7810 of this title.
-

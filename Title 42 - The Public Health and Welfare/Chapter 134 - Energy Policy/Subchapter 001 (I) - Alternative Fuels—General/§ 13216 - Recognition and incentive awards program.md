@@ -30,7 +30,3 @@ There are authorized to be appropriated for the purpose of carrying out this sec
 
 (Pub. L. 102–486, title III, §307, Oct. 24, 1992, 106 Stat. 2873.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13214 of this title.
-

@@ -14,11 +14,23 @@ The Associate Administrator—
 
 &emsp;(3) shall report to and be responsible directly to the Administrator.
 
-(Pub. L. 85–536, §2\[32\], as added Pub. L. 106–50, title II, §201(b)(2), Aug. 17, 1999, 113 Stat. 235.)
+#### (c) Authorization of appropriations
+
+There are authorized to be appropriated to carry out this section—
+
+&emsp;(1) $1,500,000 for fiscal year 2005; and
+
+&emsp;(2) $2,000,000 for fiscal year 2006.
+
+(Pub. L. 85–536, §2\[32\], as added Pub. L. 106–50, title II, §201(b)(2), Aug. 17, 1999, 113 Stat. 235; amended Pub. L. 108–447, div. K, title I, §145, Dec. 8, 2004, 118 Stat. 3455.)
 
 #### Prior Provisions
 
 A prior section 2\[32\] of Pub. L. 85–536 was renumbered section 2\[37\] and is set out as a note under section 631 of this title.
+
+#### Amendments
+
+2004—Subsec. (c). Pub. L. 108–447 added subsec. (c).
 
 #### Congressional Findings
 
@@ -46,7 +58,7 @@ Pub. L. 106–50, title I, §102, Aug. 17, 1999, 113 Stat. 234, provided that: �
 
 #### Advisory Committee on Veterans Business Affairs
 
-Pub. L. 106–50, title II, §203, Aug. 17, 1999, 113 Stat. 239, provided that:
+Pub. L. 106–50, title II, §203, Aug. 17, 1999, 113 Stat. 239, as amended by Pub. L. 108–447, div. K, title I, §143(b), Dec. 8, 2004, 118 Stat. 3455, provided that:
 
 “(a)
 
@@ -202,7 +214,7 @@ Report.—Not later than 30 days after the end of each fiscal year beginning aft
 
 “(h)
 
-Termination.—The Committee shall terminate its business on September 30, 2004.”
+Termination.—The Committee shall terminate its business on September 30, 2006.”
 
 #### SCORE Program
 
@@ -242,7 +254,7 @@ Pub. L. 106–50, title III, §302, Aug. 17, 1999, 113 Stat. 242, provided that:
 
 #### Annual Report of Administrator
 
-Pub. L. 106–50, title VI, §603, Aug. 17, 1999, 113 Stat. 248, provided that: “The Administrator of the Small Business Administration shall transmit annually to the Committees on Small Business and Veterans Affairs ofthe House of Representatives and the Senate a report on the needs of small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans, which shall include information on—
+Pub. L. 106–50, title VI, §603, Aug. 17, 1999, 113 Stat. 248, provided that: “The Administrator of the Small Business Administration shall transmit annually to the Committees on Small Business and Veterans Affairs of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] a report on the needs of small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans, which shall include information on—
 
 &emsp;“(1) the availability of Small Business Administration programs for such small business concerns and the degree of utilization of such programs by such small business concerns during the preceding 12-month period, including statistical information on such utilization as compared to the small business community as a whole;
 
@@ -279,8 +291,4 @@ Data Collection Required.—The Federal Procurement Data System described in sec
 #### Definitions
 
 Pub. L. 106–50, title I, §103(b), Aug. 17, 1999, 113 Stat. 235, provided that: “In this Act \[see Short Title of 1999 Amendments note set out under section 631 of this title\], the definitions contained in section 3(q) of the Small Business Act \[15 U.S.C. 632(q)\], as added by this section, apply.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 633 of this title.
 

@@ -4,7 +4,7 @@
 
 The Secretary, under such regulations as the Secretary may establish, shall not provide financial assistance for any community economic development program under this part unless the Secretary determines that—
 
-&emsp;(1) such community development corporation is responsible to residents of the area served (A) through a governing body not less than 50 percent of the members of which are area residents; and (B) in accordance with such other guidelines as may be established by the Secretary, except that the composition of the governing bodies of organizations owned or controlled by the community development corporation need not be subject to such residency requirement;
+&emsp;(1) such community development corporation is responsible to residents of the area served (A) through a governing body not less than 50 percent of the members of which are area residents; and (B) in accordance with such other guidelines as may be established by the Secretary, except that the composition of the governing bodies of organizations owned or controlled by the community developmentcorporation need not be subject to such residency requirement;
 
 &emsp;(2) the program will be appropriately coordinated with local planning under this subchapter with housing and community development programs, with employment and training programs, and with other relevant planning for physical and human resources in the areas served;
 
@@ -41,8 +41,4 @@ Financial assistance under this section shall not be extended to assist in the r
 Financial assistance for commercial development under this part shall not be extended until the community economic development program that has applied for assistance under this subchapter has specified in some detail its development goals and its development timetable. The Secretary, in providing continued financial assistance to a community economic development program, shall give serious consideration to the experience such program has had in meeting development goals or in adhering to development timetables.
 
 (Pub. L. 97–35, title VI, §618, Aug. 13, 1981, 95 Stat. 491.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9808 of this title.
 

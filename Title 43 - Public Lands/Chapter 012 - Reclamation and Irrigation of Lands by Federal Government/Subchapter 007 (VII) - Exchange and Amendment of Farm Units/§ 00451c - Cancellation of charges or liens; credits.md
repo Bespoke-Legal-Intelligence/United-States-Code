@@ -6,7 +6,3 @@
 
 (Aug. 13, 1953, ch. 428, §4, 67 Stat. 567.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 451a, 451k of this title.
-

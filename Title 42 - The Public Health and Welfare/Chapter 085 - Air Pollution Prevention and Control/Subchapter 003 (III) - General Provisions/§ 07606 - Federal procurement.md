@@ -54,7 +54,7 @@ Sec. 2. <i>Designation of Facilities</i>. (a) The Administrator of the Environme
 
 (b) In carrying out his responsibilities under this Order, the Administrator shall, in conformity with all applicable requirements of law, designate facilities which have given rise to a conviction for an offense under section 113(c)(1) of the Air Act \[42 U.S.C. 7413(c)(1)\] or section 309(c) of the Water Act \[33 U.S.C. 1319(c)\]. The Administrator shall, from time to time, publish and circulate to all Federal agencies lists of those facilities, together with the names and addresses of the persons who have been convicted of such offenses. Whenever the Administrator determines that the condition which gave rise to a conviction has been corrected, he shall promptly remove the facility and the name and address of the person concerned from the list.
 
-Sec. 3. <i>Contracts, Grants, or Loans</i>. (a) Except as provided in section 8 of this Order, no Federal agency shall enter into any contract for the procurement of goods, materials, or services which is to be performed in wholeor in part in a facility then designated by the Administrator pursuant to section 2.
+Sec. 3. <i>Contracts, Grants, or Loans</i>. (a) Except as provided in section 8 of this Order, no Federal agency shall enter into any contract for the procurement of goods, materials, or services which is to be performed in whole or in part in a facility then designated by the Administrator pursuant to section 2.
 
 (b) Except as provided in section 8 of this Order, no Federal agency authorized to extend Federal assistance by way of grant, loan, or contract shall extend such assistance in any case in which it is to be used to support any activity or program involving the use of a facility then designated by the Administrator pursuant to section 2.
 
@@ -85,8 +85,4 @@ Sec. 11. <i>Uniformity</i>. Rules, regulations, standards, and guidelines issued
 Sec. 12. <i>Order Superseded</i>. Executive Order No. 11602 of June 29, 1971, is hereby superseded.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7607 of this title.
 

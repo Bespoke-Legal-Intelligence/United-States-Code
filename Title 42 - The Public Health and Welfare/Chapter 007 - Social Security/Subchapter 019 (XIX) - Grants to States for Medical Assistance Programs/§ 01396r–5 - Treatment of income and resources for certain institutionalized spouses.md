@@ -22,7 +22,7 @@
 
 #### (A) Application in States operating under demonstration projects
 
-&emsp;&emsp;In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of thistitle, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
+&emsp;&emsp;In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of this title, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
 
 #### (B) No application in commonwealths and territories
 
@@ -88,7 +88,7 @@
 
 #### (B) Assessment
 
-&emsp;&emsp;At the request of an institutionalized spouse or community spouse, at the beginning of the first continuous period of institutionalization (beginning on or after September 30, 1989) of the institutionalized spouse and upon the receipt of relevant documentation of resources, the State shall promptly assess and document the total value described in subparagraph (A)(i) and shall provide a copy of such assessment and documentation to each spouse and shall retain a copy of the assessment for use under this section. If the request is not part of an application for medical assistance under this subchapter, the State may, at its option as acondition of providing the assessment, require payment of a fee not exceeding the reasonable expenses of providing and documenting the assessment. At the time of providing the copy of the assessment, the State shall include a notice indicating that the spouse will have a right to a fair hearing under subsection (e)(2) of this section.
+&emsp;&emsp;At the request of an institutionalized spouse or community spouse, at the beginning of the first continuous period of institutionalization (beginning on or after September 30, 1989) of the institutionalized spouse and upon the receipt of relevant documentation of resources, the State shall promptly assess and document the total value described in subparagraph (A)(i) and shall provide a copy of such assessment and documentation to each spouse and shall retain a copy of the assessment for use under this section. If the request is not part of an application for medical assistance under this subchapter, the State may, at its option as a condition of providing the assessment, require payment of a fee not exceeding the reasonable expenses of providing and documenting the assessment. At the time of providing the copy of the assessment, the State shall include a notice indicating that the spouse will have a right to a fair hearing under subsection (e)(2) of this section.
 
 #### (2) Attribution of resources at time of initial eligibility determination
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;(A) except as provided in subparagraph (B), all the resources held by either the institutionalized spouse, community spouse, or both, shall be considered to be available to the institutionalized spouse, and
 
-&emsp;&emsp;(B) resources shall be considered to be available to an institutionalized spouse, but only to the extent that the amount of such resources exceeds the amount computed under subsection (f)(2)(A) of this section (as of the time of application for benefits).
+&emsp;&emsp;(B) resources shall be considered to be available to an institutionalized spouse, but only to the extent that the amount of suchresources exceeds the amount computed under subsection (f)(2)(A) of this section (as of the time of application for benefits).
 
 #### (3) Assignment of support rights
 
@@ -248,7 +248,7 @@
 
 #### (3) Transfers under court orders
 
-&emsp;If a court has entered an order against an institutionalized spouse for the support of the community spouse, section 1396p of this title shall not apply to amounts of resources transferred pursuant to such order for the support of the spouse or a family member (as defined in subsection (d)(1) of this section).
+&emsp;If a court has entered an order against an institutionalized spouse for the support of thecommunity spouse, section 1396p of this title shall not apply to amounts of resources transferred pursuant to such order for the support of the spouse or a family member (as defined in subsection (d)(1) of this section).
 
 #### (g) Indexing dollar amounts
 
@@ -349,8 +349,4 @@ Section 303(g) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, 
 “(5) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section (other than paragraphs (1) and (5) of subsection (e) \[amending section 1396a of this title\]), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
 
 “(6) The amendments made by paragraphs (1) and (5) of subsection (e) \[amending section 1396a of this title\] shall apply to medical assistance furnished on or after October 1, 1982.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1396a, 1396p, 1396r of this title.
 

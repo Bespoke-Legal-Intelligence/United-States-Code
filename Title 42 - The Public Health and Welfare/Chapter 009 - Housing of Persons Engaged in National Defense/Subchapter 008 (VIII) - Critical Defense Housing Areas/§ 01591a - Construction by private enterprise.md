@@ -30,7 +30,3 @@ This Act, referred to in subsecs. (c) and (d), means act Sept. 1, 1951, ch. 378,
 
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under section 1581 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1592, 1592a of this title.
-

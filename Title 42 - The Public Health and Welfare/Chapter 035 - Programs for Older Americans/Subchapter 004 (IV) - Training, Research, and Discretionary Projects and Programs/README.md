@@ -12,10 +12,6 @@ A prior section 3030bb, Pub. L. 89–73, title IV, §402, as added Pub. L. 98–
 
 A prior section 3030jj, Pub. L. 89–73, title IV, §410, as added Pub. L. 98–459, title IV, §402, Oct. 9, 1984, 98 Stat. 1781; amended Pub. L. 100–175, title I, §134(c)(2), Nov. 29, 1987, 101 Stat. 941; Pub. L. 102–375, title IV, §403, Sept. 30, 1992, 106 Stat. 1244, related to purpose of former part A of this subchapter.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3012, 3017, 3030 of this title.
-
 
 ---
 

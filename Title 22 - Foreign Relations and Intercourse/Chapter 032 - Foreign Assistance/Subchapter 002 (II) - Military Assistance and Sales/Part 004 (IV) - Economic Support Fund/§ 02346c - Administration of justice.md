@@ -76,11 +76,35 @@ Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as 
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### Administration of Justice Activities
+
+Pub. L. 108–199, div. D, title V, §536, Jan. 23, 2004, 118 Stat. 183, provided that: “Of the funds appropriated or otherwise made available by this Act or any subsequent Act for ‘Economic Support Fund’, assistance may be provided to strengthen the administration of justice in countries in Latin America and the Caribbean and in other regions consistent with the provisions of section 534(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346c(b)\], except that programs to enhance protection of participants in judicial cases may be conducted notwithstanding section 660 of that Act \[22 U.S.C. 2420\]. Funds made available pursuant to this section may be made available notwithstanding section 534(c) and the second and third sentences of section 534(e) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346c(c), (e)\].”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–7, div. E, title V, §536, Feb. 20, 2003, 117 Stat. 195.
+
+Pub. L. 107–115, title V, §536, Jan. 10, 2002, 115 Stat. 2152.
+
+Pub. L. 106–429, §101(a) \[title V, §540\], Nov. 6, 2000, 114 Stat. 1900, 1900A–37.
+
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §540\], Nov. 29, 1999, 113 Stat. 1535, 1501A–95.
+
+Pub. L. 105–277, div. A, §101(d) \[title V, §542\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–184.
+
+Pub. L. 105–118, title V, §541, Nov. 26, 1997, 111 Stat. 2418.
+
+Pub. L. 104–208, div. A, title I, §101(c) \[title V, §543\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–157.
+
+Pub. L. 104–107, title V, §543, Feb. 12, 1996, 110 Stat. 739.
+
+Pub. L. 103–306, title V, §549(a), (c), Aug. 23, 1994, 108 Stat. 1643, 1644.
+
+Pub. L. 103–87, title V, §551(a)(1), (b), Sept. 30, 1993, 107 Stat. 962.
+
+Pub. L. 102–391, title V, §588(a)(1), (b), Oct. 6, 1992, 106 Stat. 1689, 1690.
+
 #### Anti-Narcotics Update
 
 Pub. L. 102–145, §124, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 97, provided that: “The program authorized by section 534 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346c\] may continue from funds appropriated by this joint resolution for foreign operations, export financing, and related programs, notwithstanding the last sentence of section 534(e) of that Act: <i>Provided</i>, That such programs may include the protection of participants in judicial cases, notwithstanding section 660 of that Act \[22 U.S.C. 2420\]: <i>Provided further</i>, That, notwithstanding sections 534(c) and 660 of that Act, (1) up to $10,000,000 to provide support for a professional civilian police force for Panama, except that such assistance shall not include more than $5,000,000 for the procurement of equipment for law enforcement purposes, and shall not include lethal equipment, and (2) up to $16,000,000 for Bolivia, Colombia, and Peru.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2295b, 5402 of this title.
 

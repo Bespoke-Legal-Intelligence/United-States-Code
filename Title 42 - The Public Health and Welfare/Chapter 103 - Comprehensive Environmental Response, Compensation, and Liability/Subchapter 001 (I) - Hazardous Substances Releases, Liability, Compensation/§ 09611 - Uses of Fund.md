@@ -18,7 +18,7 @@ Grants for technical assistance.—The cost of grants under section 9617(e) of t
 
 &emsp;(6)
 
-Lead contaminated soil.—Payment of not to exceed $15,000,000 for the costs of a pilotprogram for removal, decontamination, or other action with respect to lead-contaminated soil in one to three different metropolitan areas.
+Lead contaminated soil.—Payment of not to exceed $15,000,000 for the costs of a pilot program for removal, decontamination, or other action with respect to lead-contaminated soil in one to three different metropolitan areas.
 
 > The President shall not pay for any administrative costs or expenses out of the Fund unless such costs and expenses are reasonably necessary for and incidental to the implementation of this subchapter.
 
@@ -48,7 +48,7 @@ Uses of the Fund under subsection (a) of this section include—
 
 &emsp;(3) Subject to such amounts as are provided in appropriation Acts, the costs of a program to identify, investigate, and take enforcement and abatement action against releases of hazardous substances.
 
-&emsp;(4) Any costs incurred in accordance with subsection (m) of this section (relating to ATSDR) and section 9604(i) of this title, including the costs of epidemiologic and laboratory studies, health assessments, preparation of toxicologic profiles, development and maintenance of a registry of persons exposed to hazardous substances to allow long-term health effect studies, and diagnostic services not otherwise available to determine whether persons in populations exposed to hazardous substances in connection with a release or a suspected release are suffering from long-latency diseases.
+&emsp;(4) Any costs incurred in accordance with subsection (m) of this section (relating to ATSDR) and section 9604(i) of this title, including the costs of epidemiologic and laboratory studies, health assessments, preparation of toxicologic profiles, development and maintenance of a registry of persons exposed tohazardous substances to allow long-term health effect studies, and diagnostic services not otherwise available to determine whether persons in populations exposed to hazardous substances in connection with a release or a suspected release are suffering from long-latency diseases.
 
 &emsp;(5) Subject to such amounts as are provided in appropriation Acts, the costs of providing equipment and similar overhead, related to the purposes of this chapter and section 1321 of title 33, and needed to supplement equipment and services available through contractors or other non-Federal entities, and of establishing and maintaining damage assessment capability, for any Federal agency involved in strike forces, emergency task forces, or other response teams under the national contingency plan.
 
@@ -114,7 +114,7 @@ The President shall provide for the promulgation of rules and regulations with r
 
 #### (i) Restoration, etc., of natural resources
 
-Except in a situation requiring action to avoid an irreversible loss of natural resources or to prevent or reduce any continuing danger to natural resources or similar need for emergency action, funds may not be used under this chapter for the restoration, rehabilitation, or replacement or acquisition of the equivalent of any natural resources until a plan for the use of such funds for such purposes has been developed and adopted by affected Federal agencies and theGovernor or Governors of any State having sustained damage to natural resources within its borders, belonging to, managed by or appertaining to such State, and by the governing body of any Indian tribe having sustained damage to natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation, after adequate public notice and opportunity for hearing and consideration of all public comment.
+Except in a situation requiring action to avoid an irreversible loss of natural resources or to prevent or reduce any continuing danger to natural resources or similar need for emergency action, funds may not be used under this chapter for the restoration, rehabilitation, or replacement or acquisition of the equivalent of any natural resources until a plan for the use of such funds for such purposes has been developed and adopted by affected Federal agencies and the Governor or Governors of any State having sustained damage to natural resources within its borders, belonging to, managed by or appertaining to such State, and by the governing body of any Indian tribe having sustained damage to natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation, after adequate public notice and opportunity for hearing and consideration of all public comment.
 
 #### (j) Use of Post-closure Liability Fund
 
@@ -138,7 +138,7 @@ To the extent that the provisions of this chapter permit, a foreign claimant may
 
 #### (m) Agency for Toxic Substances and Disease Registry
 
-There shall be directly available to the Agency for Toxic Substances and Disease Registry to be used for the purpose of carrying out activities described in subsection (c)(4) of this section and section 9604(i) of this title not less than $50,000,000 per fiscal year for each of fiscal years 1987 and 1988, not less than $55,000,000 for fiscal year 1989, and not less than $60,000,000 per fiscal year for each of fiscal years 1990, 1991, 1992, 1993, and 1994. Any funds so made available which are not obligated by the end of the fiscal year in which made available shall be returned to the Fund.
+There shall be directly available to the Agency for Toxic Substances and Disease Registry to be used for the purpose of carrying out activities described in subsection (c)(4) of this section and section 9604(i) of this title not less than$50,000,000 per fiscal year for each of fiscal years 1987 and 1988, not less than $55,000,000 for fiscal year 1989, and not less than $60,000,000 per fiscal year for each of fiscal years 1990, 1991, 1992, 1993, and 1994. Any funds so made available which are not obligated by the end of the fiscal year in which made available shall be returned to the Fund.
 
 #### (n) Limitations on research, development, and demonstration program
 
@@ -214,7 +214,7 @@ Fishery conservation zone, referred to in subsec. (b), probably means the fisher
 
 Subsection (f) of section 118 of the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (c)(14), is section 118(f) of Pub. L. 99–499, title I, Oct. 17, 1986, 100 Stat. 1657, which is not classified to the Code.
 
-Subchapter II of this chapter, referred to in subsec. (e)(2), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
+Subchapter II of this chapter, referred to in subsec. (e)(2), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
 
 The Single Audit Act, referred to in subsec. (k), probably means the Single Audit Act of 1984, Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
 
@@ -264,7 +264,7 @@ Subsec. (h). Pub. L. 99–499, §111(c)(2), struck out subsec. (h) which read as
 
 Subsec. (i). Pub. L. 99–499, §207(d)(4), inserted “and by the governing body of any Indian tribe having sustained damage to natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation,” after “State,”.
 
-Subsec. (k). Pub. L. 99–499, §111(g), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Inspector General of each department or agency to which responsibility to obligate money in the Fund is delegated shall provide an audit review team to audit all payments, obligations, reimbursements, or other uses of the Fund, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. Each such Inspector General shall submit to the Congress an interim report one year after the establishment of the Fund and a final report two years after the establishment of the Fund. Each such Inspector General shall thereafter provide such auditing of the Fund as is appropriate. Each Federal agency shall cooperate with the Inspector General in carrying out this subsection.”
+Subsec. (k). Pub. L. 99–499, §111(g), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Inspector General of each department or agency to which responsibility to obligate money in the Fund is delegated shall provide an audit review team to audit all payments, obligations, reimbursements, or other uses of the Fund, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. Each such Inspector General shall submit to the Congress an interim report one year after the establishment of the Fund and a final report two years after the establishment of the Fund. Each such Inspector General shall thereafter provide such auditing of the Fundas is appropriate. Each Federal agency shall cooperate with the Inspector General in carrying out this subsection.”
 
 Subsecs. (m) to (p). Pub. L. 99–499, §111(h), (i), added subsecs. (m) to (p).
 
@@ -272,13 +272,21 @@ Subsecs. (m) to (p). Pub. L. 99–499, §111(h), (i), added subsecs. (m) to (p).
 
 For termination, effective May 15, 2000, of provisions in subsec. (k) of this section relating to the requirement that the Inspector General submit an annual report to Congress on the audit report required under subsec. (k), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 7th item on page 151 of House Document No. 103–7.
 
+#### Satisfaction of Superfund Audit Requirements by Inspector General of the Department of Defense
+
+Pub. L. 108–375, div. A, title III, §311, Oct. 28, 2004, 118 Stat. 1842, provided that:
+
+“(a)
+
+Satisfaction of Requirements.—The Inspector General of the Department of Defense shall be deemed to be in compliance with the requirements of section 111(k) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9611(k)) if the Inspector General conducts periodic audits of the payments, obligations, reimbursements, and other uses of the Hazardous Substance Superfund by the Department of Defense, even if such audits do not occur on an annual basis.
+
+“(b)
+
+Reports to Congress on Audits.—The Inspector General shall submit to Congress a report on each audit conducted by the Inspector General as described in subsection (a).”
+
 #### Coordination of Titles I to IV of Pub. L. 99–499
 
 Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trust fund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6924, 6991b, 6991c, 9601, 9604, 9607, 9608, 9609, 9612, 9619, 9661 of this title; title 26 section 9507.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

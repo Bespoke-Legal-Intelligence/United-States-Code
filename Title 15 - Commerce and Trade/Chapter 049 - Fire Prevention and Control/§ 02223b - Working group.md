@@ -34,7 +34,3 @@ Section was enacted as part of the Firefighters’ Safety Study Act, and not as 
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2223a, 2223c, 2223d, 2223e of this title.
-

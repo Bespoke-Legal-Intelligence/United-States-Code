@@ -1,9 +1,5 @@
 subpart 2—promoting safe and stable families
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 622, 653, 1320a–9 of this title.
-
 
 ---
 

@@ -12,7 +12,7 @@ The Secretary shall not approve the management program submitted by a state purs
 
 (1)(A) Each Federal agency activity within or outside the coastal zone that affects any land or water use or natural resource of the coastal zone shall be carried out in a manner which is consistent to the maximum extent practicable with the enforceable policies of approved State management programs. A Federal agency activity shall be subject to this paragraph unless it is subject to paragraph (2) or (3).
 
-(B) After any final judgment, decree, or order of any Federal court that is appealable under section 1291 or 1292 of title 28, or under any other applicable provision of Federal law, that a specific Federal agency activity is not in compliance with subparagraph (A), and certification by the Secretary that mediation under subsection (h) of this section is not likely to result in such compliance, the President may, upon written request from the Secretary, exempt from compliance those elements of the Federal agency activity that are found by the Federal court to be inconsistent with an approved State program, if the President determines that the activity is in the paramount interest of the United States. Nosuch exemption shall be granted on the basis of a lack of appropriations unless the President has specifically requested such appropriations as part of the budgetary process, and the Congress has failed to make available the requested appropriations.
+(B) After any final judgment, decree, or order of any Federal court that is appealable under section 1291 or 1292 of title 28, or under any other applicable provision of Federal law, that a specific Federal agency activity is not in compliance with subparagraph (A), and certification by the Secretary that mediation under subsection (h) of this section is not likely to result in such compliance, the President may, upon written request from the Secretary, exempt from compliance those elements of the Federal agency activity that are found by the Federal court to be inconsistent with an approved State program, if the President determines that the activity is in the paramount interest of the United States. No such exemption shall be granted on the basis of a lack of appropriations unless the President has specifically requested such appropriations as part of the budgetary process, and the Congress has failed to make available the requested appropriations.
 
 (C) Each Federal agency carrying out an activity subject to paragraph (1) shall provide a consistency determination to the relevant State agency designated under section 1455(d)(6) of this title at the earliest practicable time, but in no case later than 90 days before final approval of the Federal activity unless both the Federal agency and the State agency agree to a different schedule.
 
@@ -32,7 +32,7 @@ The Secretary shall not approve the management program submitted by a state purs
 
 #### (d) Application of local governments for Federal assistance; relationship of activities with approved management programs
 
-State and local governments submitting applications for Federal assistance under other Federal programs, in or outside of the coastal zone, affecting any land or water use of natural resource of the coastal zone shall indicate theviews of the appropriate state or local agency as to the relationship of such activities to the approved management program for the coastal zone. Such applications shall be submitted and coordinated in accordance with the provisions of section 6506 of title 31. Federal agencies shall not approve proposed projects that are inconsistent with the enforceable policies of a coastal state's management program, except upon a finding by the Secretary that such project is consistent with the purposes of this chapter or necessary in the interest of national security.
+State and local governments submitting applications for Federal assistance under other Federal programs, in or outside of the coastal zone, affecting any land or water use of natural resource of the coastal zone shall indicate the views of the appropriate state or local agency as to the relationship of such activities to the approved management program for the coastal zone. Such applications shall be submitted and coordinated in accordance with the provisions of section 6506 of title 31. Federal agencies shall not approve proposed projects that are inconsistent with the enforceable policies of a coastal state's management program, except upon a finding by the Secretary that such project is consistent with the purposes of this chapter or necessary in the interest of national security.
 
 #### (e) Construction with other laws
 
@@ -111,8 +111,4 @@ Subsec. (i). Pub. L. 101–508, §6208(c), added subsec. (i).
 Subsec. (c)(3). Pub. L. 94–370, §6(3), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (h). Pub. L. 94–370, §6(4), added subsec. (h) which incorporates former provision of subsec. (b) relating to mediation by Secretary of disagreements between Federal agencies and state.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1453, 1455, 1456a, 1462, 1465 of this title; title 43 sections 1340, 1351.
 

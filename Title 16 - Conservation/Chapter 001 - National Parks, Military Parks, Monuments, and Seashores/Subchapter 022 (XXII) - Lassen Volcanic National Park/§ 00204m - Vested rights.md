@@ -8,7 +8,3 @@ Nothing herein contained shall affect any vested and accrued rights of ownership
 
 Herein, referred to in text, means act July 3, 1930, which is classified to sections 204k to 204m of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 204<i>l</i> of this title.
-

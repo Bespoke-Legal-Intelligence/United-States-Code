@@ -20,9 +20,5 @@ Pub. L. 101–219, title II, §202, Dec. 12, 1989, 103 Stat. 1874, provided that
 
 Act Sept. 28, 1943, ch. 243, 57 Stat. 568, provided: “That the Public Library of the District of Columbia is hereby constituted a designated depository of governmental publications, and the Superintendent of Documents shall supply to such library one copy of each such publication, in the same form as supplied to other designated depositories.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1910 of this title; title 17 section 707.
-
 <i><sup>1</sup></i><i> See Transfer of Functions note below.</i>
 

@@ -226,7 +226,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 &emsp;“(11) That the employer will furnish each participating veteran, before the veteran's entry into training, with a copy of the employer's certification under this subsection and will obtain and retain the veteran's signed acknowledgment of having received such certification.
 
-&emsp;“(12) That, as applicable, the employer will provide each participating veteran with the full opportunity to participate in a personal interview pursuant to section 14(b)(1)(A) during the veteran's normal workday.
+&emsp;“(12) That, as applicable, the employer will provide each participating veteran with the full opportunity to participate in a personal interview pursuant tosection 14(b)(1)(A) during the veteran's normal workday.
 
 &emsp;“(13) That the program meets such other criteria as the Administrator may determine are essential for the effective implementation of the program established by this Act.
 
@@ -326,7 +326,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 “(b)(1) The Secretary shall provide for a program under which—
 
-&emsp;“(A) except as provided in paragraph (2), a disabled veteran's outreach program specialist appointed under section 4103A(a) of title 38, United States Code,is assigned as a case manager for each veteran participating in a program of job training under this Act;
+&emsp;“(A) except as provided in paragraph (2), a disabled veteran's outreach program specialist appointed under section 4103A(a) of title 38, United States Code, is assigned as a case manager for each veteran participating in a program of job training under this Act;
 
 &emsp;“(B) the veteran has an in-person interview with the case manager not later than 60 days after entering into a program of training under this Act; and
 
@@ -344,7 +344,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 “(3) The Secretary and the Administrator shall jointly provide, to the extent feasible—
 
-&emsp;“(A) a program of counseling or other services (to be provided pursuant to subchapter IV of chapter 3 \[now subchapter II of chapter 77\] of title 38, United States Code, and sections 1712A, 4103A, and 4104 of such title) designed to resolve difficulties that may be encountered by veterans during their training under this Act; and
+&emsp;“(A) a program of counseling or other services (to be provided pursuant to subchapter IV of chapter 3\[now subchapter II of chapter 77\] of title 38, United States Code, and sections 1712A, 4103A, and 4104 of such title) designed to resolve difficulties that may be encountered by veterans during their training under this Act; and
 
 &emsp;“(B) a program of information services under which—
 
@@ -396,7 +396,7 @@ Sec. 17. Assistance may not be paid to an employer under this Act—
 
 #### “expansion of targeted delimiting date extension
 
-“Sec. 18. (a) Subject to the limitation on the availability of funds set forth in subsection (b), an associate degree program which is predominantly vocational in content may be considered by the Administrator, for the purposes of section 3462(a)(3) of title 38, United States Code, to be a course with an approved vocational objective if such degree program meets the requirements established in such title for approval of such program.
+“Sec. 18. (a) Subject to the limitation on the availability of funds set forth in subsection (b), an associate degree program which is predominantly vocational in content may be considered by the Administrator, forthe purposes of section 3462(a)(3) of title 38, United States Code, to be a course with an approved vocational objective if such degree program meets the requirements established in such title for approval of such program.
 
 “(b) Funds for the purpose of carrying out subsection (a) shall be derived only from amounts appropriated pursuant to the authorizations of appropriations in section 16. Not more than a total of $25,000,000 of amounts so appropriated for fiscal years 1984 and 1985 shall be available for that purpose.
 
@@ -415,8 +415,4 @@ Sec. 17. Assistance may not be paid to an employer under this Act—
 #### Coordination With Programs Under Other Laws
 
 For provisions requiring coordination of programs under section 3116(b) of Title 38, Veterans’ Benefits, with programs under the Veterans’ Job Training Act, Pub. L. 98–77, set out above, see section 202 of Pub. L. 99–238, set out as a note under section 3116 of Title 38.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2915, 2919 of this title.
 

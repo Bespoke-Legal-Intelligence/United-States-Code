@@ -6,9 +6,5 @@ There are authorized to be appropriated to the Librarian such sums as may be nec
 
 #### Termination of Section
 
-<i>For termination of section, see section 179w of this title.</i>
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 179<i>l</i>, 179s, 179t, 179u, 179w of this title.
+<i>For termination of section, see section 179w of this title and section 1205(a) of Pub. L. 108–447, set out as an Effective Date Extension note under section 179w of this title.</i>
 

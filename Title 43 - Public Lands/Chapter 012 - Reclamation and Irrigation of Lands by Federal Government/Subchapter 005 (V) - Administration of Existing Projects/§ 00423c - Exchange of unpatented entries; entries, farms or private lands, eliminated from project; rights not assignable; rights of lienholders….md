@@ -10,10 +10,6 @@ The public land laws, referred to in text, are classified generally to this titl
 
 Section 438 of this title, referred to in text, was repealed by act Aug. 13, 1953, ch. 428, §10, 67 Stat. 568. For provisions giving preference to ex-servicemen, see section 451g of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 423a, 423b, 423d, 423f, 424b, 424d of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “one of whom”.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

@@ -14,7 +14,7 @@ A report under subsection (a) of this section shall—
 
 &emsp;(3) describe the nature and scope of educational and training activities provided to prisoners participating in the project;
 
-&emsp;(4) state the number, and describe the scope of, contracts made with public and nonprofit private community-based organizations to carry out such project; and
+&emsp;(4) state the number, and describe the scope of, contracts made with public and nonprofitprivate community-based organizations to carry out such project; and
 
 &emsp;(5) evaluate the effectiveness of the project in accomplishing the purposes described in section 13881 of this title.
 
@@ -23,8 +23,4 @@ A report under subsection (a) of this section shall—
 #### References in Text
 
 This subpart, referred to in subsec. (a), was in the original “this title” and was translated as reading “this chapter”, meaning chapter 1 of subtitle S of title III of Pub. L. 103–322, to reflect the probable intent of Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
 

@@ -30,7 +30,3 @@
 
 (Pub. L. 102–550, title XIII, §1373, Oct. 28, 1992, 106 Stat. 3989.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4631, 4634, 4636, 4639 of this title.
-

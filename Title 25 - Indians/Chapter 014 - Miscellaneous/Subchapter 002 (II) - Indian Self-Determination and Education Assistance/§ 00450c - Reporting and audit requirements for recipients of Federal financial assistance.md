@@ -2,7 +2,7 @@
 
 #### (a) Maintenance of records
 
-(1) Each recipient of Federal financial assistance under this subchapter shall keep suchrecords as the appropriate Secretary shall prescribe by regulation promulgated under sections 552 and 553 of title 5, including records which fully disclose—
+(1) Each recipient of Federal financial assistance under this subchapter shall keep such records as the appropriate Secretary shall prescribe by regulation promulgated under sections 552 and 553 of title 5, including records which fully disclose—
 
 &emsp;(A) the amount and disposition by such recipient of the proceeds of such assistance,
 
@@ -59,10 +59,6 @@ Subsec. (e). Pub. L. 100–581 substituted “to each tribe” for “to tribes�
 Pub. L. 100–472, §104(b), added subsec. (e).
 
 Subsec. (f). Pub. L. 100–472, §208, redesignated section 450<i>l</i> of this title as subsec. (f) of this section and inserted “through regulations promulgated under sections 552 and 553 of title 5”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 458ff, 458aaa–15, 2507, 3307 of this title; title 29 section 741; title 42 sections 612, 5656.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

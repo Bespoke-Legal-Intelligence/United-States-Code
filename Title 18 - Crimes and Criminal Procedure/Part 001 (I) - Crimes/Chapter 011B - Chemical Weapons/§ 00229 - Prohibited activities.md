@@ -48,7 +48,3 @@ Pub. L. 105–277, div. I, title II, §211, Oct. 21, 1998, 112 Stat. 2681–872,
 
 \[For authority of Secretary of Commerce to suspend or revoke export privileges pursuant to section 211 of Pub. L. 105–277, set out above, see section 4 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under section 6711 of Title 22, Foreign Relations and Intercourse.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 229A, 229D, 229E, 2332b, 2339, 2339A, 2516 of this title; title 38 section 6105.
-

@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(iii) the separation and recombination are conducted in accordance with regulations issued by the Secretary; or
 
-&emsp;(F) the addition to grain of a dust suppressant, or the addition of confetti or any other similar material that serves the same purposein a quantity necessary to facilitate identification of ownership or origin of a particular lot of grain.
+&emsp;(F) the addition to grain of a dust suppressant, or the addition of confetti or any other similar material that serves the same purpose in a quantity necessary to facilitate identification of ownership or origin of a particular lot of grain.
 
 (3)(A) The Secretary may, by regulation, exempt from paragraph (1) the last handling of grain in the final sale and shipment of such grain to a domestic user or processor if such exemption is determined by the Secretary to be in the best economic interest of producers, grain merchants, the industry involved, and the public.
 
@@ -161,8 +161,4 @@ For effective date of section, see section 2 of Pub. L. 90–487, set out as an 
 #### Benefits and Costs Associated With Improved Grain Quality
 
 Administrator of Federal Grain Inspection Service to estimate economic impact, including benefits and costs and distribution of such benefits and costs, of any major changes necessary to carry out amendments to this section by title XX of Pub. L. 101–624 prior to making such changes, see section 2003 of Pub. L. 101–624, set out as a note under section 76 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 85, 86, 87c of this title.
 

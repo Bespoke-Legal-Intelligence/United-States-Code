@@ -6,7 +6,7 @@ The Secretary may enter into reimbursable fee agreements with persons for precle
 
 #### (b) Funds collected for preclearance
 
-Funds collected for preclearance shall be credited to accounts which may be established by the Secretary for this purpose and shall remain available until expended for the preclearance activities without fiscal year limitation.
+Funds collected for preclearance shall be credited to accounts which may be established bythe Secretary for this purpose and shall remain available until expended for the preclearance activities without fiscal year limitation.
 
 #### (c) Payment of employees
 

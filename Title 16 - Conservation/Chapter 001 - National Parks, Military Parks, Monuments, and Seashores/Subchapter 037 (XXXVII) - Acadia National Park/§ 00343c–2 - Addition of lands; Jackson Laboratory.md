@@ -28,7 +28,3 @@ Beginning at a stone bound set in the ground in the southerly side of State High
 
 (Pub. L. 90–262, §1, Mar. 4, 1968, 82 Stat. 40.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 343c–3 of this title.
-

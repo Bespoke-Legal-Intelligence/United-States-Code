@@ -60,9 +60,5 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Amendment by Pub. L. 103–208 effective on and after Oct. 1, 1993, see section 5(b)(1) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1070d–33 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

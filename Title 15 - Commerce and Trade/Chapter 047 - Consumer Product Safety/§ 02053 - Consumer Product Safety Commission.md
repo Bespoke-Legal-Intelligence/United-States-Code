@@ -16,7 +16,7 @@ Not more than three of the Commissioners shall be affiliated with the same polit
 
 #### (d) Quorum; seal; Vice Chairman
 
-No vacancy in the Commission shall impair the right of the remaining Commissioners to exercise all the powers of the Commission, but three members of the Commission shall constitute a quorum for the transaction of business, except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two. The Commission shall have an official seal of which judicial notice shall be taken. The Commission shall annually elect a Vice Chairman to act in the absence or disability of the Chairman or in case of a vacancy in the office of the Chairman.
+No vacancy in the Commission shall impair the right of the remaining Commissioners to exercise all the powers of the Commission, but three members of the Commission shall constitute a quorum for the transaction of business, except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only twomembers serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two. The Commission shall have an official seal of which judicial notice shall be taken. The Commission shall annually elect a Vice Chairman to act in the absence or disability of the Chairman or in case of a vacancy in the office of the Chairman.
 
 #### (e) Offices
 
@@ -32,7 +32,7 @@ The Commission shall maintain a principal office and such field offices as it de
 
 #### (g) Executive Director; officers and employees
 
-(1)(A) The Chairman, subject to the approval of the Commission, shall appoint as officers of the Commission an Executive Director, a General Counsel, an Associate Executive Director for Engineering Sciences, an Associate Executive Director for Epidemiology, an Associate Executive Director for Compliance and Administrative Litigation, an Associate Executive Director for Health Sciences, an Associate Executive Director for Economic Analysis, an Associate Executive Director for Administration, anAssociate Executive Director for Field Operations, a Director for Office of Program, Management, and Budget, and a Director for Office of Information and Public Affairs. Any other individual appointed to a position designated as an Associate Executive Director shall be appointed by the Chairman, subject to the approval of the Commission. The Chairman may only appoint an attorney to the position of Associate Executive Director of Compliance and Administrative Litigation except the position of acting Associate Executive Director of Compliance and Administrative Litigation.
+(1)(A) The Chairman, subject to the approval of the Commission, shall appoint as officers of the Commission an Executive Director, a General Counsel, an Associate Executive Director for Engineering Sciences, an Associate Executive Director for Epidemiology, an Associate Executive Director for Compliance and Administrative Litigation, an Associate Executive Director for Health Sciences, an Associate Executive Director for Economic Analysis, an Associate Executive Director for Administration, an Associate Executive Director for Field Operations, a Director for Office of Program, Management, and Budget, and a Director for Office of Information and Public Affairs. Any other individual appointed to a position designated as an Associate Executive Director shall be appointed by the Chairman, subject to the approval of the Commission. The Chairman may only appoint an attorney to the position of Associate Executive Director of Compliance and Administrative Litigation except the position of acting Associate Executive Director of Compliance and Administrative Litigation.
 
 (B)(i) No individual may be appointed to such a position on an acting basis for a period longer than 90 days unless such appointment is approved by the Commission.
 
@@ -66,7 +66,7 @@ Subsections (a) and (h) of section 2680 of title 28 do not prohibit the bringing
 
 At least 30 days before the beginning of each fiscal year, the Commission shall establish an agenda for Commission action under the Acts under its jurisdiction and, to the extent feasible, shall establish priorities for such actions. Before establishing such agenda and priorities, the Commission shall conduct a public hearing on the agenda and priorities and shall provide reasonable opportunity for the submission of comments.
 
-(Pub. L. 92–573, §4, Oct. 27, 1972, 86 Stat. 1210; Pub. L. 94–284, §§4, 5(a), May 11, 1976, 90 Stat. 504; Pub. L. 95–631, §2, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 96–373, Oct. 3, 1980, 94 Stat. 1366; Pub. L. 101–608, title I, §§102–105(a), Nov. 16, 1990, 104 Stat. 3110, 3111.)
+(Pub. L. 92–573, §4, Oct. 27, 1972, 86 Stat. 1210; Pub. L. 94–284, §§4, 5(a), May 11, 1976, 90 Stat. 504; Pub. L. 95–631, §2, Nov. 10, 1978, 92 Stat. 3742;Pub. L. 96–373, Oct. 3, 1980, 94 Stat. 1366; Pub. L. 101–608, title I, §§102–105(a), Nov. 16, 1990, 104 Stat. 3110, 3111.)
 
 #### Codification
 
@@ -109,8 +109,4 @@ Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1596, provided in part: �
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2052, 2081 of this title.
 

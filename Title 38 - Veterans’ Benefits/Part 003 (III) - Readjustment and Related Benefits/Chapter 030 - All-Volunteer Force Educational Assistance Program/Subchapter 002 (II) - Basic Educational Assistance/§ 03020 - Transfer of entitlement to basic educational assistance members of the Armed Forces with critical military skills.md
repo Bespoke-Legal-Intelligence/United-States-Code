@@ -124,7 +124,7 @@ Secretary Concerned Defined.—Notwithstanding section 101(25) of this title, in
 
 &emsp;(3) the Secretary of the Air Force with respect to matters concerning the Air Force; and
 
-&emsp;(4) the Secretary of Defense with respect to matters concerning the Coast Guard, or the Secretary of Homeland Security when it is not operating as a service in the Navy.
+&emsp;(4) the Secretary of Defense with respect to matters concerning the Coast Guard, or theSecretary of Homeland Security when it is not operating as a service in the Navy.
 
 (Added Pub. L. 107–107, div. A, title VI, §654(a)(1), Dec. 28, 2001, 115 Stat. 1153; amended Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–314, div. A, title VI, §643(a), Dec. 2, 2002, 116 Stat. 2577.)
 
@@ -149,8 +149,4 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Plan for Implementation
 
 Pub. L. 107–107, div. A, title VI, §654(c), Dec. 28, 2001, 115 Stat. 1157, provided that: “Not later than June 30, 2002, the Secretary of Defense shall submit to Congress a report describing the manner in which the Secretaries of the military departments and the Secretary of Transportation propose to exercise the authority granted by section 3020 of title 38, United States Code, as added by subsection (a). The report shall include the regulations prescribed under subsection (k) of that section for purposes of the exercise of the authority.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3035 of this title; title 10 section 2006.
 

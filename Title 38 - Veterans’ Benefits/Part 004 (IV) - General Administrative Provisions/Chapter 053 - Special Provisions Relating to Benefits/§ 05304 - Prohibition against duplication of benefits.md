@@ -1,6 +1,6 @@
 ### §5304. Prohibition against duplication of benefits
 
-(a)(1) Except to the extent that retirement pay is waived under other provisions of law, not more than one award of pension, compensation,emergency officers’, regular, or reserve retirement pay, or initial award of naval pension granted after July 13, 1943, shall be made concurrently to any person based on such person's own service or concurrently to any person based on the service of any other person.
+(a)(1) Except as provided in section 1414 of title 10 or to the extent that retirement pay is waived under other provisions of law, not more than one award of pension, compensation, emergency officers’, regular, or reserve retirement pay, or initial award of naval pension granted after July 13, 1943, shall be made concurrently to any person based on such person's own service or concurrently to any person based on the service of any other person.
 
 (2) Notwithstanding the provisions of paragraph (1) of this subsection and of section 5305 of this title, pension under section 1521 or 1541 of this title may be paid to a person entitled to receive retired or retirement pay described in section 5305 of this title concurrently with such person's receipt of such retired or retirement pay if the annual amount of such retired or retirement pay is counted as annual income for the purposes of chapter 15 of this title.
 
@@ -12,9 +12,11 @@
 
 (c) Pension, compensation, or retirement pay on account of any person's own service shall not be paid to such person for any period for which such person receives active service pay.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1230, §3104; Pub. L. 86–495, §1, June 8, 1960, 74 Stat. 163; Pub. L. 88–664, §9, Oct. 13, 1964, 78 Stat. 1096; Pub. L. 91–376, §6, Aug. 12, 1970, 84 Stat. 790; Pub. L. 95–588, title III, §304, Nov. 4, 1978, 92 Stat. 2507; Pub. L. 96–385, title V, §503(a), Oct. 7, 1980, 94 Stat. 1534; Pub. L. 99–576, title VII, §701(71), Oct. 28, 1986, 100 Stat. 3297; renumbered §5304 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(1), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1230, §3104; Pub. L. 86–495, §1, June 8, 1960, 74 Stat. 163; Pub. L. 88–664, §9, Oct. 13, 1964, 78 Stat. 1096; Pub. L. 91–376, §6, Aug. 12, 1970, 84 Stat. 790; Pub. L. 95–588, title III, §304, Nov. 4, 1978, 92 Stat. 2507; Pub. L. 96–385, title V, §503(a), Oct. 7, 1980, 94 Stat. 1534; Pub. L. 99–576, title VII, §701(71), Oct. 28, 1986, 100 Stat. 3297; renumbered §5304 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(1), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 108–454, title III, §308(a), Dec. 10, 2004, 118 Stat. 3614.)
 
 #### Amendments
+
+2004—Subsec. (a)(1). Pub. L. 108–454 inserted “as provided in section 1414 of title 10 or” after “Except”.
 
 1991—Pub. L. 102–40, §402(b)(1), renumbered section 3104 of this title as this section.
 
@@ -63,8 +65,4 @@ Amendment by Pub. L. 88–664 effective Jan. 1, 1965, see section 11 of Pub. L. 
 #### Effective Date of 1960 Amendment
 
 Section 2 of Pub. L. 86–495 provided that: “The amendment made by this Act \[amending this section\] shall apply only to cases where the death of a parent occurs after the date of enactment of this Act \[June 8, 1960\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1311 of this title; title 10 sections 1413a, 1414.
 

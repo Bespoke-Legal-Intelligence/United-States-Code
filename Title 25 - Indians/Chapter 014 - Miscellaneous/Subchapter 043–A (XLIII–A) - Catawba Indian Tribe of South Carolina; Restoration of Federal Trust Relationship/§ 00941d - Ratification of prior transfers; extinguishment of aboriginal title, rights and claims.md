@@ -2,7 +2,7 @@
 
 #### (a) Ratification of transfers
 
-Any transfer of land or natural resources located anywhere within the United States from, by, or on behalf of the Tribe, any one or more of its Members, or anyone purporting to be a Member, including but without limitation any transfer pursuant to any treaty, compact, or statute of any State, shall be deemed to have been made in accordance with the Constitution and all laws of the United States, and Congress hereby approves and ratifies any such transfer effective as of the date of such transfer. Nothing in this section shall be construed to affect, eliminate, or revive the personal claim of any individual Member (except for any Federal common law fraud claim) which is pursued under any law of general applicability that protects non-Indians as well as Indians.
+Any transfer of land or natural resources located anywhere within the United States from, by, or on behalf of the Tribe, any one or more of its Members, or anyone purporting to be a Member, including but without limitation any transfer pursuant to any treaty, compact, or statute of any State, shall be deemed to have been made in accordance with the Constitution and all laws of the United States, and Congress hereby approves and ratifies any such transfer effective as of the date of such transfer. Nothing in this section shall be construed to affect, eliminate, or revive the personal claim of any individualMember (except for any Federal common law fraud claim) which is pursued under any law of general applicability that protects non-Indians as well as Indians.
 
 #### (b) Aboriginal title
 
@@ -36,7 +36,7 @@ Nothing in this section shall be deemed to affect, diminish, or eliminate the pe
 
 #### (i) Federal payment
 
-In the event any of the Federal payments are not paid as set forth in section 941c of this title, such failure to pay shall give rise to a cause of action by the Tribe against the United States for money damages for the amount authorized to be paid to the Tribe in section 941c(a) of thistitle in settlement of the Tribe's claim, and the Tribe is authorized to bring an action in the United States Court of Claims for such funds plus applicable interest. The United States hereby waives any affirmative defense to such action.
+In the event any of the Federal payments are not paid as set forth in section 941c of this title, such failure to pay shall give rise to a cause of action by the Tribe against the United States for money damages for the amount authorized to be paid to the Tribe in section 941c(a) of this title in settlement of the Tribe's claim, and the Tribe is authorized to bring an action in the United States Court of Claims for such funds plus applicable interest. The United States hereby waives any affirmative defense to such action.
 
 #### (j) State payment
 
@@ -47,8 +47,4 @@ In the event any of the State payments are not paid as set forth in section 941c
 #### References in Text
 
 For the effective date of this subchapter, referred to in subsec. (e), see Effective Date note set out under section 941 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 941a, 941c, 941i, 941m of this title.
 

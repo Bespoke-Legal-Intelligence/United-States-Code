@@ -36,7 +36,3 @@ Information Accompanying Transmissions in Digital Format.—Any person who trans
 
 (Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4240.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 114, 115, 1009, 1010 of this title.
-

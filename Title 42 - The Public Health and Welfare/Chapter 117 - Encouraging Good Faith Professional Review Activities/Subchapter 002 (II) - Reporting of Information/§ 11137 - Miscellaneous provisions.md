@@ -52,7 +52,3 @@ In general.—The amendments made by subsections (a) and (c) \[amending this sec
 
 Fees.—The amendment made by subsection (b) \[amending this section\] shall become effective on the date of enactment of this Act \[Dec. 1, 1987\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1396r–2 of this title.
-

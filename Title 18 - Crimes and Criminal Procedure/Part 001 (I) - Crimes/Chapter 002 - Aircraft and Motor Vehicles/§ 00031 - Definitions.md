@@ -110,7 +110,3 @@ Section 2012 of part B (§§2011–2015) of chapter XX of title II of Pub. L. 98
 
 &emsp;“(3) the purpose of this subtitle \[part, see Short Title of 1984 Amendment note above\] is to implement fully the Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation and to expand the protection accorded to aircraft and related facilities.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1993 of this title.
-

@@ -32,7 +32,3 @@ The Colorado River Storage Project Act, referred to in subsec. (a), is act Apr. 
 
 For termination, effective May 15, 2000, of provisions in subsec. (b)(1) of this section relating to the requirement that the Secretary transmit a report to Congress every five years, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 9th item on page 114 of House Document No. 103–7.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 228h.
-

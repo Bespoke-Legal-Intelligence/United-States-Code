@@ -10,7 +10,3 @@ Subsection (a) of this section shall be satisfied, with respect to a particular 
 
 (Pub. L. 101–610, title I, §173, Nov. 16, 1990, 104 Stat. 3160.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12571 of this title.
-

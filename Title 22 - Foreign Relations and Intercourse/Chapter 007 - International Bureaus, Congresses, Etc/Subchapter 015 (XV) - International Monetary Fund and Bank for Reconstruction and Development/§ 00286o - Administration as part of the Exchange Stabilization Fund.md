@@ -26,7 +26,3 @@ Subsec. (b). Pub. L. 94–564, §5(2), substituted “article XX, article XXIV, 
 
 Amendment effective Apr. 1, 1978, see section 9 of Pub. L. 94–564, set out as a note under section 286a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 section 5302.
-

@@ -22,7 +22,7 @@ Jurisdiction.—There is jurisdiction over the prohibited activity in subsection
 
 Bar to Prosecution.—It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c) <sup>1</sup> of the Norris-LaGuardia Act, as amended (29 U.S.C. 113(c)), and the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 103–322, title VI, §60021(a), Sept. 13, 1994, 108 Stat. 1979; amended Pub. L. 104–132, title VII, §§721(g), 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300; Pub. L. 104–294, title VI, §§601(q), 607(<i>o</i>), Oct. 11, 1996, 110 Stat. 3502, 3512.)
+(Added Pub. L. 103–322, title VI, §60021(a), Sept. 13, 1994, 108 Stat. 1979; amended Pub. L. 104–132, title VII, §§721(g), 723(a)(1), Apr. 24, 1996, 110Stat. 1299, 1300; Pub. L. 104–294, title VI, §§601(q), 607(<i>o</i>), Oct. 11, 1996, 110 Stat. 3502, 3512.)
 
 #### Amendments
 
@@ -39,10 +39,6 @@ Section 60021(c) of Pub. L. 103–322 provided that: “The amendment made by su
 &emsp;“(1) the date of enactment of this Act \[Sept. 13, 1994\]; or
 
 &emsp;“(2) the date on which the Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, Supplementary to the Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation, done at Montreal on 23 September 1971, has come into force and the United States has become a party to the Protocol.” \[Protocol came into force and United States became a party to the Protocol Nov. 18, 1994, Treaty Doc. 100–19.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1956, 2332b, 2339A, 3592 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “13(c)”.</i>
 

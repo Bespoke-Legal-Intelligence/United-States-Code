@@ -32,7 +32,3 @@ Par. (5). Pub. L. 103–349, §4(3), redesignated par. (4) as (5).
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2481, 2562 of this title.
-

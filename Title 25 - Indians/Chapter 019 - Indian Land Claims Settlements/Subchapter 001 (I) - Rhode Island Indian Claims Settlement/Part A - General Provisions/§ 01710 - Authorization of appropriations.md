@@ -4,7 +4,3 @@ There is hereby authorized to be appropriated $3,500,000 to carry out the purpos
 
 (Pub. L. 95–395, §11, Sept. 30, 1978, 92 Stat. 817.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1703 of this title.
-

@@ -18,7 +18,3 @@ Executive Orders 11491, 11616, 11636, and 11838, referred to in subsec. (b), are
 
 Executive Order 11787, referred to in subsec. (b), which was set out as a note under section 7701 of this title, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7112 of this title.
-

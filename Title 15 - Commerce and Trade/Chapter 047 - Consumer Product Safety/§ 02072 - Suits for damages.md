@@ -32,7 +32,3 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 
 For effective date and applicability of amendment by Pub. L. 96–486, see section 4 of Pub. L. 96–486, set out as an Effective Date of 1980 Amendment note under section 1331 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2060 of this title.
-

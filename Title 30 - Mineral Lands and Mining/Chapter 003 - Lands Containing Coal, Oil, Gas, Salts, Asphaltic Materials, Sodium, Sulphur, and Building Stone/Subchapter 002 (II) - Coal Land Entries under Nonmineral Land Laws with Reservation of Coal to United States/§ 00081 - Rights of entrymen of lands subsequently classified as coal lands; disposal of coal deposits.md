@@ -42,7 +42,3 @@ Similar provisions were contained in Pub. L. 105–277, div. A, §101(e) \[title
 
 Patents for lands in North Platte Reclamation Project not to contain reservations of minerals in certain cases, see section 125 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 82, 125, 541c of this title.
-

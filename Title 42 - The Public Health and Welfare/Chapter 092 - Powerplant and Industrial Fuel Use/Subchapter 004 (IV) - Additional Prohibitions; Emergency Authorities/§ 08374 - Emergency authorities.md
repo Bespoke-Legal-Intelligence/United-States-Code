@@ -56,9 +56,5 @@ Subchapter II (§1621 et seq.) of chapter 34 of title 50, referred to in subsec.
 
 1987—Subsec. (g). Pub. L. 100–42 struck out subsec. (g) which permitted use of natural gas or petroleum as primary energy source in peakload powerplant or major fuel-burning installation during temporary emergency condition (other than emergency conditions provided for under section 8302(a)(15) of this title).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8411, 8412, 8421, 8471 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

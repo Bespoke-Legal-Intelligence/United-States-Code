@@ -26,7 +26,3 @@
 
 (Added Pub. L. 91–452, title I, §101(a), Oct. 15, 1970, 84 Stat. 924.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3331, 3334 of this title.
-

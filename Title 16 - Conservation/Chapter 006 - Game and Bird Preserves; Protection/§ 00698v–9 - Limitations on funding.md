@@ -10,7 +10,3 @@ Within two years after the first meeting of the Board, the Trust shall submit to
 
 (Pub. L. 106–248, title I, §111, July 25, 2000, 114 Stat. 612.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698v, 698v–1, 698v–3, 698v–4, 698v–6, 698v–7, 698v–8, 698v–10 of this title.
-

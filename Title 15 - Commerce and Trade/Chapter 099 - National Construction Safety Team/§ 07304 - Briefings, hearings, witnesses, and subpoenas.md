@@ -26,7 +26,7 @@ A subpoena shall be issued only under the signature of the Director but may be s
 
 #### (f) Failure to obey subpoena
 
-If a person disobeys a subpoena issued by the Director under this chapter, the Attorney General, acting on behalf of the Director, may bring a civil action in a district court of the United States to enforce the subpoena. An action under this subsection may be brought in the judicial district in which the person against whom the action is brought resides, is found, or does business. The court may punish a failure to obey an order of the court to comply with the subpoena as a contempt of court.
+If a person disobeys a subpoena issued by the Director under this chapter, the Attorney General, acting on behalf of the Director, may bring a civil action in a district court of the United States to enforce the subpoena. An action under this subsection may be brought in the judicial district in which the person against whom the action is brought resides, is found, or does business. The court may punish a failure to obey anorder of the court to comply with the subpoena as a contempt of court.
 
 (Pub. L. 107–231, §5, Oct. 1, 2002, 116 Stat. 1474.)
 

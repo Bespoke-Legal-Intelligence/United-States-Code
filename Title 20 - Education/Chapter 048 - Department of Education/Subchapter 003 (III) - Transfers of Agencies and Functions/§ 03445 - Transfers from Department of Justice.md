@@ -2,7 +2,7 @@
 
 There are transferred to the Secretary all functions of the Attorney General and of the Law Enforcement Assistance Administration with regard to the student loan and grant programs known as the law enforcement education program and the law enforcement intern program authorized by subsections (b), (c), and (f) of section 406 <sup>1</sup> of the Omnibus Crime Control and Safe Streets Act of 1968.
 
-(Pub. L. 96–88, title III, §304, formerly §305, Oct. 17, 1979, 93 Stat. 680; renumbered §304, Pub. L. 103–382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
+(Pub. L. 96–88, title III, §304, formerly §305, Oct. 17, 1979, 93 Stat. 680; renumbered §304, Pub. L.103–382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
 
 #### References in Text
 

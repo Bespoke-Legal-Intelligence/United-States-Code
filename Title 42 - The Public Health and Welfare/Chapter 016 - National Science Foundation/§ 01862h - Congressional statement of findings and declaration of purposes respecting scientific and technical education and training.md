@@ -36,7 +36,3 @@ Sections 1862h to 1862j of this title, referred to in subsec. (b), was in the or
 
 Section was enacted as part of the Scientific and Advanced-Technology Act of 1992, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1862i, 1862j of this title; title 15 section 7404.
-

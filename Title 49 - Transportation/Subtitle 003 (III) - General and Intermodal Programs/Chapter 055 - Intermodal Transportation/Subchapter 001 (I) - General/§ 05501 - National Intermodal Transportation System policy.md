@@ -20,7 +20,7 @@ System Characteristics.—(1) The National Intermodal Transportation System shal
 
 (7) The National Intermodal Transportation System shall be adapted to “intelligent vehicles”, “magnetic levitation systems”, and other new technologies, wherever feasible and economical, with benefit cost estimates given special emphasis on safety considerations and techniques for cost allocation.
 
-(8) When appropriate, the National Intermodal Transportation System will be financed, as regards Government apportionments and reimbursements, by the Highway Trust Fund. Financial assistance will be provided to State and local governments and their instrumentalities to help carry out national goals related to mobility for elderly individuals, individuals with disabilities, and economically disadvantaged individuals.
+(8) When appropriate, the National Intermodal Transportation System will be financed, as regards Government apportionments and reimbursements, by the Highway Trust Fund. Financial assistance will be provided to State andlocal governments and their instrumentalities to help carry out national goals related to mobility for elderly individuals, individuals with disabilities, and economically disadvantaged individuals.
 
 (9) The National Intermodal Transportation System must be the centerpiece of a national investment commitment to create the new wealth of the United States for the 21st century.
 

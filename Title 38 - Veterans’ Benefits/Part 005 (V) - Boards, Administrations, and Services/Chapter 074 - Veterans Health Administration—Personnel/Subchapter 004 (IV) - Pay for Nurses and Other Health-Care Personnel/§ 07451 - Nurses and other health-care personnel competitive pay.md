@@ -34,7 +34,7 @@
 
 (2) An adjustment in rates of basic pay under this subsection for a grade shall be carried out by adjusting the amount of the minimum rate of basic pay for that grade in accordance with paragraph (3) and then adjusting the other rates for that grade to conform to the requirements of subsection (c). Except as provided in paragraph (1)(A), such an adjustment in the minimum rate of basic pay for a grade shall be made by the director of a Department health-care facility so as to achieve consistency with the beginning rate of compensation for corresponding health-care professionals in the Bureau of Labor Statistics (BLS) labor-market area of that facility.
 
-(3)(A) In the case of a Department health-care facility located in an area for which there is current information, based upon an industry-wage survey by the Bureau of Labor Statistics for that labor market, on compensation for corresponding health-care professionals for the BLS labor-market area of that facility, the director of the facility concerned shall use that information as the basis for making adjustments in rates of pay under this subsection. Whenever the Bureau of Labor Statistics releases the results of a new industry-wage survey for that labor market that includes information on compensation for corresponding health-care professionals, the director of that facility shall determine, not later than 30 days after the results of the survey are released, whether an adjustment in rates of pay for employees at that facility for any covered position is necessary in order to meet thepurposes of this section. If the director determines that such an adjustment is necessary, the adjustment, based upon the information determined in the survey, shall take effect on the first day of the first pay period beginning after that determination.
+(3)(A) In the case of a Department health-care facility located in an area for which there is current information, based upon an industry-wage survey by the Bureau of Labor Statistics for that labor market, on compensation for corresponding health-care professionals for the BLS labor-market area of that facility, the director of the facility concerned shall use that information as the basis for making adjustments in rates of pay under this subsection. Whenever the Bureau of Labor Statistics releases the results of a new industry-wage survey for that labor market that includes information on compensation for corresponding health-care professionals, the director of that facility shall determine, not later than 30 days after the results of the survey are released, whether an adjustment in rates of pay for employees at that facility for any covered position is necessary in order to meet the purposes of this section. If the director determines that such an adjustment is necessary, the adjustment, based upon the information determined in the survey, shall take effect on the first day of the first pay period beginning after that determination.
 
 (B) In the case of a Department health-care facility located in an area for which the Bureau of Labor Statistics does not have current information on compensation for corresponding health-care professionals for the labor-market area of that facility for any covered position, the director of that facility shall conduct a survey in accordance with this subparagraph and shall adjust the amount of the minimum rate of basic pay for grades in that covered position at that facility based upon that survey. To the extent practicable, the director shall use third-party industry wage surveys to meet the requirements of the preceding sentence. Any such survey shall be conducted in accordance with regulations prescribed by the Secretary. Those regulations shall be developed in consultation with the Secretary of Labor in order to ensure that the director of a facility collects information that is valid and reliable and is consistent with standards of the Bureau. The survey should be conducted using methodology comparable to that used by the Bureau in making industry-wage surveys except to the extent determined infeasible by the Secretary. To the extent practicable, all surveys conducted pursuant to this subparagraph or subparagraph (A) shall include the collection of salary midpoints, actual salaries, lowest and highest salaries, average salaries, bonuses, incentive pays, differential pays, actual beginning rates of pay, and such other information needed to meet the purpose of this section. Upon conducting a survey under this subparagraph, the director concerned shall determine, not later than 30 days after the date on which the collection of information through the survey is completed or published, whether an adjustment in rates of pay for employees at that facility for any covered position is necessary in order to meet the purposes of this section. If the director determines that such an adjustment is necessary, the adjustment, based upon the information determined in the survey, shall take effect on the first day of the first pay period beginning after that determination.
 
@@ -102,7 +102,7 @@ The General Schedule, referred to in subsec. (d)(1)(A), is set out under section
 
 #### Amendments
 
-2002—Subsec. (d)(3)(A). Pub. L. 107–135, §133(1)(A), struck out “beginning rates of” before “compensation for corresponding health-care professionals” in two places.
+2002—Subsec. (d)(3)(A). Pub. L. 107–135, §133(1)(A), struck out “beginning rates of” before “compensationfor corresponding health-care professionals” in two places.
 
 Subsec. (d)(3)(B). Pub. L. 107–135, §133(1)(B), struck out “beginning rates of” before “compensation for corresponding health-care professionals”.
 
@@ -190,7 +190,7 @@ Section 104 of Pub. L. 101–366, as amended by Pub. L. 102–40, title III, §3
 
 “(a)
 
-In General.—(1) Except as provided in subsection (b), section 101 \[amending former section 4107 of this title and enacting provisions set out as a note under former section 4107 of this title\] and the amendments made by section 102 \[enacting this section and section 4142 \[now 7452\] of this title and amending former sections 4104 and 4107 of this title\] shall take effect on the date of enactment \[Aug. 15, 1990\].
+In General.—(1) Except as provided in subsection (b), section 101 \[amending former section 4107 ofthis title and enacting provisions set out as a note under former section 4107 of this title\] and the amendments made by section 102 \[enacting this section and section 4142 \[now 7452\] of this title and amending former sections 4104 and 4107 of this title\] shall take effect on the date of enactment \[Aug. 15, 1990\].
 
 “(2) The amendment made by section 103 \[amending former section 4107 of this title\] shall take effect on the first day of the first pay period beginning after April 1, 1991.
 
@@ -202,13 +202,41 @@ New Pay Rates.—The rates of basic pay established pursuant to section 4141 \[n
 
 Section 301(a) of Pub. L. 102–40 provided that: “Physician assistants and expanded-function dental auxiliaries shall continue to be paid after August 14, 1990, according to the Nurse Schedule in section 4107(b) of title 38 \[former section 4107(b) of this title\], United States Code, as in effect on August 14, 1990, until the effective date of a determination by the Secretary to convert those occupations to ‘covered positions’ and pay them pursuant to section 7451 of such title, as redesignated by section 401(c).”
 
+#### Pilot Program To Study Innovative Recruitment Tools To Address Nursing Shortages at Department of Veterans Affairs Health Care Facilities
+
+Pub. L. 108–422, title V, §501, Nov. 30, 2004, 118 Stat. 2395, provided that:
+
+“(a)
+
+Pilot Program.—(1) Not later than 90 days after the date of the enactment of this Act \[Nov. 30, 2004\], the Secretary of Veterans Affairs shall designate a health care service region, or a section within such a region, in which health care facilities of the Department of Veterans Affairs are adversely affected by a shortage of qualified nurses.
+
+“(2) The Secretary shall conduct a pilot program in the region or section designated under paragraph (1) to determine the effectiveness of the use of innovative human capital tools and techniques in the recruitment of qualified nurses for positions at Department health care facilities in such region or section and for the retention of nurses at such facilities. In carrying out the pilot program, the Secretary shall enter into a contract with a private sector entity for services under the pilot program for recruitment of qualified nurses.
+
+“(b)
+
+Private Sector Recruitment Practices.—For purposes of the pilot program under this section, the Secretary shall identify and use recruitment practices that have proven effective for placing qualified individuals in positions that are difficult to fill due to shortages of qualified individuals or other factors. Recruitment practices to be reviewed by the Secretary for use in the pilot program shall include—
+
+&emsp;“(1) employer branding and interactive advertising strategies;
+
+&emsp;“(2) Internet technologies and automated staffing systems; and
+
+&emsp;“(3) the use of recruitment, advertising, and communication agencies.
+
+“(c)
+
+Streamlined Hiring Process.—In carrying out the pilot program under this section, the Secretary shall, at health care facilities of the Department in the region or section in which the pilot program is conducted, revise procedures and systems for selecting and hiring qualified nurses to reduce the length of the hiring process. If the Secretary identifies measures to streamline and automate the hiring process that can only be implemented if authorized by law, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives recommendations for such changes in law as may be necessary to enable such measures to be implemented.
+
+“(d)
+
+Report.—Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the extent to which the pilot program achieved the goal of improving the recruitment and retention of nurses in Department of Veterans Affairs health care facilities.”
+
 #### Report on Requests for Waivers of Pay Reductions for Reemployed Annuitants To Fill Nurse Positions
 
 Pub. L. 107–135, title I, §103, Jan. 23, 2002, 115 Stat. 2450, provided that:
 
 “(a)
 
-Report.—Not later than March 28 of each of 2002 and 2003, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senateand the House of Representatives and to the National Commission on VA Nursing established under subtitle D \[set out below\] a report describing each request of the Secretary, during the fiscal year preceding such report, to the Director of the Office of Personnel Management for the following:
+Report.—Not later than March 28 of each of 2002 and 2003, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives and to the National Commission on VA Nursing established under subtitle D \[set out below\] a report describing each request of the Secretary, during the fiscal year preceding such report, to the Director of the Office of Personnel Management for the following:
 
 &emsp;“(1) A waiver under subsection (i)(1)(A) of section 8344 of title 5, United States Code, of the provisions of such section in order to meet requirements of the Department of Veterans Affairs for appointments to nurse positions in the Veterans Health Administration.
 
@@ -393,10 +421,6 @@ Review.—The Secretary of Veterans Affairs shall conduct a review of—
 “(b)
 
 Report.—The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the review and assessment conducted under subsection (a). To the extent that the review discloses difficulties in obtaining accurate data in the survey process with respect to the Chief Nurse position at Department facilities, the Secretary shall include in the report recommendations for corrective action. The Secretary shall also include in the report (1) a listing of the salary differential (expressed as a percentage) between the Chief Nurse at a facility and the highest paid nurse (excluding certified registered nurse anesthetists) serving in a position subordinate to the Chief Nurse, and (2) an analysis of such data. The report shall be submitted not later than 12 months after the date of the enactment of this Act \[Nov. 4, 1992\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7452 of this title; title 5 section 5302.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

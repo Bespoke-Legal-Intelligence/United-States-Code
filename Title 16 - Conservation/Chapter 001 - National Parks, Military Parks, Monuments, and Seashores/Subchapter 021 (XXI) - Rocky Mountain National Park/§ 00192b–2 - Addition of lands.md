@@ -8,7 +8,3 @@ Township 5 north, range 73 west, section 27, southwest quarter northwest quarter
 
 (Aug. 24, 1949, ch. 501, §1, 63 Stat. 626.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 192b–5 of this title.
-

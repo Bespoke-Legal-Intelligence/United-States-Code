@@ -16,7 +16,7 @@ The President may not authorize the conduct of a covert action by departments, a
 
 #### (b) Reports to congressional intelligence committees; production of information
 
-To the extent consistent with due regard for the protection from unauthorized disclosure of classified information relating to sensitive intelligence sources and methods or other exceptionally sensitive matters, the Director of Central Intelligence and the heads of all departments, agencies, and entities of the United States Government involved in a covert action—
+To the extent consistent with due regard for the protection from unauthorized disclosure of classified information relating to sensitive intelligence sources and methods or other exceptionally sensitive matters, the Director of National Intelligence and the heads of all departments, agencies, and entities of the United States Government involved in a covert action—
 
 &emsp;(1) shall keep the congressional intelligence committees fully and currently informed of all covert actions which are the responsibility of, are engaged in by, or are carried out for or on behalf of, any department, agency, or entity of the United States Government, including significant failures; and
 
@@ -52,7 +52,7 @@ As used in this subchapter, the term “covert action” means an activity or ac
 
 No covert action may be conducted which is intended to influence United States political processes, public opinion, policies, or media.
 
-(July 26, 1947, ch. 343, title V, §503, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 442; amended Pub. L. 107–306, title III, §353(b)(3)(C), (8), Nov. 27, 2002, 116 Stat. 2402.)
+(July 26, 1947, ch. 343, title V, §503, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 442; amended Pub. L. 107–306, title III, §353(b)(3)(C), (8), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(Y), Dec. 17, 2004, 118 Stat. 3689.)
 
 #### Prior Provisions
 
@@ -60,15 +60,17 @@ A prior section 503 of act July 26, 1947, ch. 343, was renumbered section 505 an
 
 #### Amendments
 
+2004—Subsec. (b). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+
 2002—Subsecs. (b), (c)(1) to (3). Pub. L. 107–306, §353(b)(3)(C), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
 
 Subsec. (c)(4). Pub. L. 107–306, §353(b)(8), substituted “congressional intelligence committee” for “intelligence committee”.
 
 Subsec. (d). Pub. L. 107–306, §353(b)(3)(C), substituted “congressional intelligence committees” for “intelligence committees”.
 
-#### Section Referred to in Other Sections
+#### Effective Date of 2004 Amendment
 
-This section is referred to in sections 413, 413a, 414 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection,”.</i>
 

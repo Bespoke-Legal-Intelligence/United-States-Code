@@ -6,7 +6,7 @@ Nothing contained in this chapter shall be construed to infringe upon the powers
 
 #### (b) Responsibility for supervision and direction of sales, leases, financing, cooperative projects, and exports
 
-Under the direction of the President, the Secretary of State (taking into account other United States activities abroad, such as military assistance, economic assistance, and the food for peace program) shall be responsible for the continuous supervision and general direction of sales, leases, financing, cooperative projects, and exports under this chapter, including, but not limited to, determining—
+Under the direction of the President, the Secretary of State (taking into account otherUnited States activities abroad, such as military assistance, economic assistance, and the food for peace program) shall be responsible for the continuous supervision and general direction of sales, leases, financing, cooperative projects, and exports under this chapter, including, but not limited to, determining—
 
 &emsp;(1) whether there will be a sale to or financing for a country and the amount thereof;
 

@@ -28,7 +28,7 @@ The Architect of the Capitol—
 
 #### Codification
 
-Section was classified to section 166i of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 166i of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Energy Management Requirements for Congressional Buildings
 
@@ -52,7 +52,7 @@ Implementation.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—Not later than 18 months after the date of the enactment of this Act \[Oct. 24, 1992\] and subject to the availability of funds to carry out this section, the Architect shall begin implementing a program to replace in each building described in subsection (a) all inefficient office and general use area fluorescent lighting systems with systems that incorporate the bestavailable design and technology and that have payback periods of 10 years or less, as determined by using methods and procedures established under section 544(a) of the National Energy and Conservation Policy Act (42 U.S.C. 8254(a)).
+In general.—Not later than 18 months after the date of the enactment of this Act \[Oct. 24, 1992\] and subject to the availability of funds to carry out this section, the Architect shall begin implementing a program to replace in each building described in subsection (a) all inefficient office and general use area fluorescent lighting systems with systems that incorporate the best available design and technology and that have payback periods of 10 years or less, as determined by using methods and procedures established under section 544(a) of the National Energy and Conservation Policy Act (42 U.S.C. 8254(a)).
 
 &emsp;&emsp;&emsp;“(ii)
 

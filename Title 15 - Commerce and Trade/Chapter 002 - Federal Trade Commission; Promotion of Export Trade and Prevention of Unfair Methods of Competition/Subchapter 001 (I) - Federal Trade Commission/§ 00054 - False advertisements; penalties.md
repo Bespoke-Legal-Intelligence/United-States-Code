@@ -22,7 +22,3 @@ Section 5(b) of act Mar. 21, 1938, provided: “Section 14 of the Federal Trade 
 
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 55 of this title; title 21 section 352.
-

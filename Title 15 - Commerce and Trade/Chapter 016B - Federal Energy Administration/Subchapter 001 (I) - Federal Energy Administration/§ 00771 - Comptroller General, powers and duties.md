@@ -2,7 +2,7 @@
 
 #### (a) Scope of activities; monitoring activity; data to Comptroller General from Administration; reports and recommendations to Congress
 
-For the duration of this chapter, the Comptroller General of the United States shall monitor and evaluate the operations of the Administration including its reporting activities. The Comptroller General shall (1) conduct studies of existing statutes and regulations governing the Administration's programs; (2) review the policies and practices of the Administration; (3) review and evaluate the procedures followed by the Administrator in gathering, analyzing, and interpreting energy statistics, data, and information related to the management and conservation of energy, including but not limited to data related to energy costs, supply, demand, industry structure, and environmental impacts; and (4) evaluate particular projects or programs. The Comptroller General shall have access to such data within the possession or control of the Administration from any public or private source whatever, notwithstanding the provisions of any other law, as are necessary to carry out his responsibilities under this chapter and shall report to the Congress at such times as he deems appropriate with respect to the Administration's programs, including his recommendationsfor modifications in existing laws, regulations, procedures, and practices.
+For the duration of this chapter, the Comptroller General of the United States shall monitor and evaluate the operations of the Administration including its reporting activities. The Comptroller General shall (1) conduct studies of existing statutes and regulations governing the Administration's programs; (2) review the policies and practices of the Administration; (3) review and evaluate the procedures followed by the Administrator in gathering, analyzing, and interpreting energy statistics, data, and information related to the management and conservation of energy, including but not limited to data related to energy costs, supply, demand, industry structure, and environmental impacts; and (4) evaluate particular projects or programs. The Comptroller General shall have access to such data within the possession or control of the Administration from any public or private source whatever, notwithstanding the provisions of any other law, as are necessary to carry out his responsibilities under this chapter and shall report to the Congress at such times as he deems appropriate with respect to the Administration's programs, including his recommendations for modifications in existing laws, regulations, procedures, and practices.
 
 #### (b) Access to material and written energy information from owners or operators of facilities or business premises engaged in energy matters; scope of information
 
@@ -40,11 +40,7 @@ Subsections (d) and (g) of section 766 of this title, referred to in subsec. (c)
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-Functions of Comptroller General of United States under this section made applicable with respect to monitoring and evaluation of all functions and activities of Department of Energy by section 7137 of Title 42.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 sections 6892, 7137.
+Functions of Comptroller General of United States under this section made applicable with respect tomonitoring and evaluation of all functions and activities of Department of Energy by section 7137 of Title 42.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

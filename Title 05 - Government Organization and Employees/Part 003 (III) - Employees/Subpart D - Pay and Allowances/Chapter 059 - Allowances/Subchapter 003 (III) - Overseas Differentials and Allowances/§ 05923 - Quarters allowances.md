@@ -4,7 +4,7 @@
 
 &emsp;(1) A temporary subsistence allowance for the reasonable cost of temporary quarters (including meals and laundry expenses) incurred by the employee and his family—
 
-&emsp;&emsp;(A) for a period not in excess of 90 days after first arrival at a new post of assignment in a foreign area or a period endingwith the occupation of residence quarters, whichever is shorter; and
+&emsp;&emsp;(A) for a period not in excess of 90 days after first arrival at a new post of assignment in a foreign area or a period ending with the occupation of residence quarters, whichever is shorter; and
 
 &emsp;&emsp;(B) for a period of not more than 30 days immediately before final departure from the post after the necessary evacuation of residence quarters.
 
@@ -41,8 +41,4 @@ Standard changes are made to conform with the definitions applicable and the sty
 1991—Pub. L. 102–138 designated existing provisions as subsec. (a), substituted “subsistence” for “lodging” and inserted “(including meals and laundry expenses)” after “quarters” in par. (1), substituted “90 days” for “3 months” in par. (1)(A), substituted “30 days” for “1 month” in par. (1)(B), and added subsec. (b).
 
 1982—Par. (2). Pub. L. 97–258 substituted “section 3324(a) and (b)” for “section 529”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5924 of this title; title 22 sections 1474, 2506; title 26 section 912.
 

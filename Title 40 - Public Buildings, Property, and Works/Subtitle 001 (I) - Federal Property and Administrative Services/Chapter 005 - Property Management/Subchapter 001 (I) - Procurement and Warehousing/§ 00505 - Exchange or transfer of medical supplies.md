@@ -52,7 +52,3 @@ June 30, 1949, ch. 288, title II, §201(e), as added Pub. L. 91–426, §1, Sept
 
 In subsection (a)(2), the words “holding such medical materials or supplies” and “provided for in the first sentence of this subsection” are omitted as unnecessary because of the reorganization of the revised section. The words “in sufficient time to allow for” are substituted for “at such times as to insure . . . in sufficient time” for clarity and to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 322 of this title; title 28 section 612; title 50 section 491.
-

@@ -8,7 +8,3 @@ Prior to the transfer of title to, or the removal of restrictions from, property
 
 1957—Pub. L. 85–132 inserted provisions allowing Secretary to act without application from member to create a trust or purchase an annuity for such member, by setting out factors for determination by Secretary before he declares a member to be in need of assistance, and by providing for contest of such secretarial determination by member.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 565a of this title.
-

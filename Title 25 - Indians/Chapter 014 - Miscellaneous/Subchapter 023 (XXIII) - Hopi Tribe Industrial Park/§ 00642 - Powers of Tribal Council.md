@@ -12,7 +12,7 @@ To execute mortgages upon, or deeds of trust to, the lands within said Hopi Indu
 
 #### (c) Pledge of revenue or other income to secure indebtedness for development of park; law governing action to enforce pledge; United States as party
 
-To pledge any revenue or other income from lands within said Hopi Industrial Park, and the improvements situated thereon, and any other revenue or income that may be available to the Hopi Tribe without regard to source, to secure any indebtedness of the Hopi Tribe incurred in the development of said Hopi Industrial Park, and any action to enforce said pledge shall be in accordance with the laws of the State of Arizona, and the United States shall be an indispensable party thereto to the same extent and under the same conditions as hereinbefore provided in the case of mortgage foreclosures.
+To pledge any revenue or other income from lands within said Hopi Industrial Park, and the improvements situated thereon, and any otherrevenue or income that may be available to the Hopi Tribe without regard to source, to secure any indebtedness of the Hopi Tribe incurred in the development of said Hopi Industrial Park, and any action to enforce said pledge shall be in accordance with the laws of the State of Arizona, and the United States shall be an indispensable party thereto to the same extent and under the same conditions as hereinbefore provided in the case of mortgage foreclosures.
 
 #### (d) Issuance of bonds and payment of costs thereof; sale of bonds at public or private sale
 

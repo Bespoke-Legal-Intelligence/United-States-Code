@@ -24,7 +24,7 @@ There are authorized to be appropriated to carry out part E of subchapter II of 
 
 1989—Pub. L. 101–204, §902(7), struck out “National” before “Older Americans” in section catchline.
 
-Subsec. (a). Pub. L. 101–204, §804(a), inserted “not less than the amount appropriated in the previous fiscal year and not more than” after “to be appropriated”, struck out provisions authorizing appropriations for fiscal years 1986 through 1988, and inserted provisions authorizing appropriations for fiscal years 1990 through 1993.
+Subsec. (a). Pub. L. 101–204, §804(a), inserted “not less than the amount appropriated in the previous fiscal year and not more than” after “to be appropriated”, struck out provisions authorizing appropriations forfiscal years 1986 through 1988, and inserted provisions authorizing appropriations for fiscal years 1990 through 1993.
 
 Subsec. (b). Pub. L. 101–204, §804(b), inserted “not less than the amount appropriated in the previous fiscal year and not more than” after “to be appropriated”, struck out provisions authorizing appropriations for fiscal years 1986 through 1988, and inserted provisions authorizing appropriations for fiscal years 1990 through 1993.
 
@@ -67,8 +67,4 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–478 effective at the close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as a note under section 3001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5021, 5025, 5084 of this title.
 

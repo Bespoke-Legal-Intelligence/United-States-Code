@@ -24,7 +24,3 @@ All but the quoted language in R.S. §1757 is omitted as obsolete since R.S. §1
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2903, 2904, 2905, 2906, 3332 of this title; title 2 section 64–1; title 10 sections 578, 603, 626, 12201, 14309; title 14 sections 273, 735; title 22 section 2504; title 33 sections 854a–2, 3031; title 42 sections 1971, 4954.
-

@@ -48,7 +48,3 @@ Subsec. (e). Pub. L. 90–448, §602(d)(1), substituted “areawide development 
 
 Subsec. (f). Pub. L. 90–448, §602(d)(6), struck out “within the metropolitanwide area” after “school districts”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3336, 3337, 3339 of this title.
-

@@ -76,7 +76,7 @@ Percentages for Computation of State and Other Tax Allowance
 
 #### (4) Income protection allowance
 
-&emsp;The income protection allowance is determined by the following table (or a successortable prescribed by the Secretary under section 1087rr of this title):
+&emsp;The income protection allowance is determined by the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
 
 Income Protection Allowance
 
@@ -337,7 +337,7 @@ Subsec. (g)(2)(E). Pub. L. 105–78, §609(g)(2), added subpar. (E).
 
 1993—Subsec. (c)(4). Pub. L. 103–208, §2(g)(2), substituted “$9,510” for “9,510” in table.
 
-Subsec. (f)(3). Pub. L. 103–208, §2(g)(3), in introductory provisions, substituted “If a parent” for “Income in thecase of a parent”, “(1) of this subsection, or if a parent” for “(1) of this subsection, or a parent”, and “the income” for “is determined as follows: The income”.
+Subsec. (f)(3). Pub. L. 103–208, §2(g)(3), in introductory provisions, substituted “If a parent” for “Income in the case of a parent”, “(1) of this subsection, or if a parent” for “(1) of this subsection, or a parent”, and “the income” for “is determined as follows: The income”.
 
 Subsec. (g)(1)(B). Pub. L. 103–208, §2(g)(4), inserted closing parenthesis after “paragraph (2)”.
 
@@ -400,8 +400,4 @@ Amendment by Pub. L. 102–325 applicable with respect to determinations of need
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1087nn, 1087rr, 1087ss of this title.
 

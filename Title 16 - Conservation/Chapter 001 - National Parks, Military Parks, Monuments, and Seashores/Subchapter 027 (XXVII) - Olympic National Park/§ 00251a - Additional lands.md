@@ -4,7 +4,3 @@ Title to State, county, and private lands situated north of the line between tow
 
 (Dec. 22, 1942, ch. 800, 56 Stat. 1070.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 251e of this title.
-

@@ -56,7 +56,3 @@ Enactment of this chapter as not affecting term of office of judge of the Distri
 
 Resignation and retirement of judges in the Territories and possessions, see section 373 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1613a of this title.
-

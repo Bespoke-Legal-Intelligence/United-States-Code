@@ -8,7 +8,3 @@ Nothing in sections 971a to 971e of this title shall affect adversely any valid 
 
 Section was formerly classified to section 420c of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 971c, 971e of this title.
-

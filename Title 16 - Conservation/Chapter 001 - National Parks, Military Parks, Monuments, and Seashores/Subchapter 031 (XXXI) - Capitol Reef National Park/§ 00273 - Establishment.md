@@ -10,7 +10,3 @@ The Capitol Reef National Monument is hereby abolished, and any funds available 
 
 (Pub. L. 92–207, §1, Dec. 18, 1971, 85 Stat. 739.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 273a of this title.
-

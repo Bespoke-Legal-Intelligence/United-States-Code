@@ -32,7 +32,7 @@ Open Container Laws.—
 
 &emsp;(1)
 
-In general.—For the purposes of this section, each State shall have in effect a law that prohibits the possession of any open alcoholic beverage container, or the consumption of any alcoholic beverage, in the passenger area of any motor vehicle (including possession orconsumption by the driver of the vehicle) located on a public highway, or the right-of-way of a public highway, in the State.
+In general.—For the purposes of this section, each State shall have in effect a law that prohibits the possession of any open alcoholic beverage container, or the consumption of any alcoholic beverage, in the passenger area of any motor vehicle (including possession or consumption by the driver of the vehicle) located on a public highway, or the right-of-way of a public highway, in the State.
 
 &emsp;(2)
 
@@ -84,7 +84,7 @@ Transfer of obligation authority.—
 
 &emsp;&emsp;(A)
 
-In general.—If the Secretary transfers under this subsection any funds to the apportionment of a State under section 402 for a fiscal year, the Secretary shall transfer an amount, determined under subparagraph (B), of obligation authority distributed for the fiscal year to the State for Federal-aid highways and highway safety construction programs for carrying out projects under section 402.
+In general.—If the Secretary transfers under this subsection any funds to the apportionment of a State under section 402 for a fiscal year, the Secretary shall transfer anamount, determined under subparagraph (B), of obligation authority distributed for the fiscal year to the State for Federal-aid highways and highway safety construction programs for carrying out projects under section 402.
 
 &emsp;&emsp;(B)
 

@@ -50,7 +50,7 @@ The National Historic Preservation Act of 1966 (80 Stat. 915; 16 U.S.C. 470), re
 
 The Urban Park and Recreation Recovery Act of 1978 (92 Stat. 3538; 16 U.S.C. 2501 et seq.), referred to in subsec. (b), is title X of Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3538, which is classified generally to chapter 45 (§2501 et seq.) of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 16 and Tables.
 
-The Surface Mining Control and Reclamation Act of 1977 (91 Stat. 445), referred to in subsec. (b), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended. Title III of the Surface Mining Control and Reclamation Act of 1977 was formerly classified generally to subchapter III (§1221 et seq.) of chapter 25 of Title 30, Mineral Lands and Mining, prior to the replacement of subchapter III by Pub. L. 98–409. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
+The Surface Mining Control and Reclamation Act of 1977 (91 Stat. 445), referred to in subsec. (b), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended. Title III of the Surface Mining Control and Reclamation Act of1977 was formerly classified generally to subchapter III (§1221 et seq.) of chapter 25 of Title 30, Mineral Lands and Mining, prior to the replacement of subchapter III by Pub. L. 98–409. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
 #### Codification
 
@@ -60,7 +60,7 @@ Subsec. (d) of this section is set out as a note under section 1734 of this titl
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (e)(3) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining.
+“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (e)(3) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of Title 30.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -74,7 +74,7 @@ Pub. L. 98–540, §3, Oct. 24, 1984, 98 Stat. 2718, provided that:
 
 &emsp;“(1) the public lands administered by the National Park Service, the Bureau of Land Management, and the United States Fish and Wildlife Service contain valuable wildlife, scenery, natural and historic features, and other resources;
 
-&emsp;“(2) the Congress has specified the duties and responsibilities of the National Park Service, the Bureau of Land Management, and the United StatesFish and Wildlife Service to balance the conservation and protection of these public lands and resources with permitted uses in ways Congress has found to be appropriate for each of the various land areas;
+&emsp;“(2) the Congress has specified the duties and responsibilities of the National Park Service, the Bureau of Land Management, and the United States Fish and Wildlife Service to balance the conservation and protection of these public lands and resources with permitted uses in ways Congress has found to be appropriate for each of the various land areas;
 
 &emsp;“(3) the National Park Service, the Bureau of Land Management, and the United States Fish and Wildlife Service are currently under congressional mandates to maintain sufficient visitor and recreational services in our national parks, campgrounds, and wildlife refuges;
 

@@ -62,7 +62,7 @@ For purposes of this section:
 
 #### (d) Alteration, amendment, modification, invalidation, impairment, or supersedure of any law of the United States prohibited
 
-Nothing in this subchapter shall be construed to alter, amend, modify, invalidate, impair, or supersede any law of the United States (except as provided in sections 1031 and 1137(c) of this title) or any rule or regulation issued under any such law.
+Nothing in this subchapter shall be construed to alter, amend, modify, invalidate, impair, or supersede any law of the United States (except as provided in sections 1031 and 1137(b) of this title) or any rule or regulation issued under any such law.
 
 (Pub. L. 93–406, title I, §514, Sept. 2, 1974, 88 Stat. 897; Pub. L. 97–473, title III, §§301(a), 302(b), Jan. 14, 1983, 96 Stat. 2611, 2613; Pub. L. 98–397, title I, §104(b), Aug. 23, 1984, 98 Stat. 1436; Pub. L. 99–272, title IX, §9503(d)(1), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–239, title VII, §7894(f)(2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2450, 2451; Pub. L. 103–66, title IV, §4301(c)(4), Aug. 10, 1993, 107 Stat. 377; Pub. L. 104–191, title I, §101(f)(1), Aug. 21, 1996, 110 Stat. 1953; Pub. L. 104–204, title VI, §603(b)(3)(G), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–200, title IV, §401(h)(2)(A)(i), (ii), July 16, 1998, 112 Stat. 668.)
 
@@ -80,7 +80,7 @@ Pub. L. 105–200, §401(h)(2)(A)(i), amended directory language of Pub. L. 103�
 
 Pub. L. 104–191 added par. (9).
 
-1993—Subsec. (b)(7). Pub. L. 103–66, §4301(c)(4)(A), as amended by Pub. L. 105–200, §401(h)(1)(A)(i), inserted “, qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent enforced by qualified medical child support orders” before period at end.
+1993—Subsec. (b)(7). Pub. L. 103–66, §4301(c)(4)(A), as amended by Pub. L. 105–200, §401(h)(1)(A)(i), inserted“, qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent enforced by qualified medical child support orders” before period at end.
 
 Subsec. (b)(8). Pub. L. 103–66, §4301(c)(4)(B), added par. (8) and struck out former par. (8) which read as follows: “Subsection (a) of this section shall not apply to any State law mandating that an employee benefit plan not include any provision which has the effect of limiting or excluding coverage or payment for any health care for an individual who would otherwise be covered or entitled to benefits or services under the terms of the employee benefit plan, because that individual is provided, or is eligible for, benefits or services pursuant to a plan under title XIX of the Social Security Act, to the extent such law is necessary for the State to be eligible to receive reimbursement under title XIX of that Act.”
 
@@ -149,8 +149,4 @@ For provisions setting forth circumstances under which any amendment to a plan r
 #### Treatment of Other State Laws
 
 Section 301(b) of Pub. L. 97–473 provided that: “The amendment made by this section \[amending this section\] shall not be considered a precedent with respect to extending such amendment to any other State law.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1114, 1185b, 1191, 1191b of this title; title 4 section 114; title 26 section 9832; title 42 sections 300gg–23, 300gg–62, 300gg–91, 666, 1397ii.
 

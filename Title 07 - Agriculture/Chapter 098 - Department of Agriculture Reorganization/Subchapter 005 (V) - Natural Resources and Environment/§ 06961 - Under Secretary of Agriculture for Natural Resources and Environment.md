@@ -12,7 +12,7 @@ If the Secretary establishes the position of Under Secretary of Agriculture for 
 
 #### (1) Principal functions
 
-&emsp;Upon establishment, the Secretary shall delegate to the Under Secretary of Agriculturefor Natural Resources and Environment those functions under the jurisdiction of the Department that are related to natural resources and environment (except to the extent those functions are delegated under section 6932 of this title).
+&emsp;Upon establishment, the Secretary shall delegate to the Under Secretary of Agriculture for Natural Resources and Environment those functions under the jurisdiction of the Department that are related to natural resources and environment (except to the extent those functions are delegated under section 6932 of this title).
 
 #### (2) Additional functions
 

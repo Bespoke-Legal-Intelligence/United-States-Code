@@ -72,7 +72,7 @@ Subsection (a) of this section applies to assistance provided under the followin
 
 #### (B) Congressional notification
 
-&emsp;&emsp;When exercising the authorities of subparagraph (A), the President shall notify the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives inaccordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title.
+&emsp;&emsp;When exercising the authorities of subparagraph (A), the President shall notify the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives in accordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title.
 
 #### (2) Congressional review
 

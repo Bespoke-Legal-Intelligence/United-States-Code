@@ -92,7 +92,7 @@ The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(1), is act F
 
 Sections 1358, 1358a, and 1359 of this title, referred to in subsec. (a)(1)(B)–(D), were repealed by Pub. L. 107–171, title I, §1309(a)(1), May 13, 2002, 116 Stat. 179.
 
-The Agricultural Act of 1949, referred to in subsec. (b)(1), (2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. Title III of the Act is classified generally to sections 1447 to 1449 of this title. Title IV of the Act is classified principally to subchapter I (§1421 et seq.) of chapter 35A of this title. Title V of the Act, which was classified generally to subchapter IV (§1461 et seq.) of chapter 35A of this title, was omitted from the Code. Title VI of the Act is classified generally to subchapter V (§1471 et seq.) of chapter 35A of this title. For complete classification of this Act to theCode, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (b)(1), (2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. Title III of the Act is classified generally to sections 1447 to 1449 of this title. Title IV of the Act is classified principally to subchapter I (§1421 et seq.) of chapter 35A of this title. Title V of the Act, which was classified generally to subchapter IV (§1461 et seq.) of chapter 35A of this title, was omitted from the Code. Title VI of the Act is classified generally to subchapter V (§1471 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Codification
 
@@ -101,10 +101,6 @@ Section is comprised of section 171 of Pub. L. 104–127. Subsec. (a)(2) of sect
 #### Amendments
 
 2002—Subsec. (a)(1). Pub. L. 107–171 substituted “1996 through 2001” for “1996 through 2002”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7202, 7901 of this title; title 2 section 907.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

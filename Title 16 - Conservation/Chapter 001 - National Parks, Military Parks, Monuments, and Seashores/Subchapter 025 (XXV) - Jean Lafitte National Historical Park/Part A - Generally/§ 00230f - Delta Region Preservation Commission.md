@@ -28,7 +28,7 @@ Members of the Commission shall serve without compensation as such. The Secretar
 
 #### (c) Functions
 
-The function of the Commission shall be to advise the Secretary in the selection of sites forinclusion in the park, in the development and implementation of a general management plan, and in the development and implementation of a comprehensive interpretive program of the natural, historic, and cultural resources of the region. The Commission shall inform interested members of the public, the State of Louisiana and its political subdivisions, and interested Federal agencies with respect to existing and proposed actions and programs having a material effect on the perpetuation of a high-quality natural and cultural environment in the delta region.
+The function of the Commission shall be to advise the Secretary in the selection of sites for inclusion in the park, in the development and implementation of a general management plan, and in the development and implementation of a comprehensive interpretive program of the natural, historic, and cultural resources of the region. The Commission shall inform interested members of the public, the State of Louisiana and its political subdivisions, and interested Federal agencies with respect to existing and proposed actions and programs having a material effect on the perpetuation of a high-quality natural and cultural environment in the delta region.
 
 #### (d) Majority voting; generally; single parish or municipality
 
@@ -55,10 +55,6 @@ Subsec. (e). Pub. L. 96–87, §401(q)(4), provided that the Commission terminat
 #### “Secretary” Defined
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 230c of this title.
 
 <i><sup>1</sup></i><i> So in original. There are two pars. designated “(8)”.</i>
 

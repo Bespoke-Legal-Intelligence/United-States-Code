@@ -14,7 +14,3 @@ Each bank for cooperatives and its obligations are instrumentalities of the Unit
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2214 of this title.
-

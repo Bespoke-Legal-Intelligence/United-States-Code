@@ -36,7 +36,3 @@ On a determination by the agency that, because of an act of God or a catastrophi
 
 (Pub. L. 106–291, title VI, §607, Oct. 11, 2000, 114 Stat. 1018.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6203, 6208 of this title.
-

@@ -2,7 +2,7 @@
 
 The functions of each United States Agricultural Trade Office shall be to—
 
-&emsp;(1) increase the effectiveness of agricultural export promotion efforts through consolidation of activities, providing services and facilities for foreign buyers and United States trade representatives, and coordination of market development activities sponsored by the Department of Agriculture;
+&emsp;(1) increase the effectiveness of agricultural export promotion efforts through consolidation of activities, providing services and facilities for foreign buyers and United States traderepresentatives, and coordination of market development activities sponsored by the Department of Agriculture;
 
 &emsp;(2) establish goals by nation or region and agricultural commodity for developing, expanding, and maintaining markets for United States agricultural commodities;
 
@@ -27,8 +27,4 @@ The functions of each United States Agricultural Trade Office shall be to—
 #### References in Text
 
 The Agricultural Trade Development and Assistance Act of 1954, as amended, referred to in par. (7), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified principally to chapter 41 (§1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1765c of this title.
 

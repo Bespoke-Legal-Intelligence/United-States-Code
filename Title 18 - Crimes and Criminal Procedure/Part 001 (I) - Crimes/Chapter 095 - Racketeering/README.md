@@ -35,10 +35,6 @@
 
 Pub. L. 87–218, §1, Sept. 13, 1961, 75 Stat. 492, added item 1953.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3582 of this title; title 7 section 12a; title 15 section 7703.
-
 
 ---
 

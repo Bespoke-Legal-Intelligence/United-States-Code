@@ -12,7 +12,3 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 1982—Pub. L. 97–259 struck out “interstate and foreign” after “channels of” in first sentence, substituted “State, Territory,” for “Territory” after “from one place in any” and inserted “State,” after “to another place in the same” in cl. (a), and inserted “(except as provided in section 303(t) of this title)” in cl. (e).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 152, 221, 302a, 303, 305, 306, 309, 510 of this title.
-

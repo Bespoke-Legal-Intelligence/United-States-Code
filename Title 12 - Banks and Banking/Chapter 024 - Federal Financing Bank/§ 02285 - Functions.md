@@ -14,7 +14,3 @@ The Bank is authorized to charge fees for its commitments and other services ade
 
 (Pub. L. 93–224, §6, Dec. 29, 1973, 87 Stat. 938.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2290, 2294 of this title; title 2 section 661d; title 48 section 1423a.
-

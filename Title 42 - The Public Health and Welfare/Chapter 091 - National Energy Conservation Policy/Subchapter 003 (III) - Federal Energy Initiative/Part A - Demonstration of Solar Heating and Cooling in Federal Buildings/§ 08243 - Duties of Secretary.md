@@ -38,7 +38,3 @@ In order to more widely disseminate information about the program under this par
 
 1989—Subsec. (d). Pub. L. 101–218 added subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8244 of this title.
-

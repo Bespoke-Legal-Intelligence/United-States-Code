@@ -16,7 +16,3 @@ The Reclamation Act, referred to in text, is act June 17, 1902, ch. 1093, 32 Sta
 
 See note set out under section 83 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77, 82, 83, 85, 90, 541c of this title.
-

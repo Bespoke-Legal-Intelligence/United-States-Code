@@ -10,11 +10,11 @@ Such attendance of witnesses, and the production of such documentary evidence, m
 
 #### (c) Court order requiring attendance and testimony of witnesses
 
-Any such court within the jurisdiction of which such inquiry is carried on may, in case of contumacy or refusal to obey a subpena issued to any person, issue an order requiring such person to appear before the Secretary or to produce documentary evidence if so ordered, or to give evidence touching the matter in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Any such court within the jurisdiction of which such inquiry is carried on may, in case of contumacy or refusal to obey a subpena issued to any person, issue an order requiring such person to appear before the Secretary or to produce documentary evidence if so ordered, or to giveevidence touching the matter in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (d) Fees and mileage costs of witnesses
 
-Witnesses summoned before the Secretary shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses from whom depositionsare taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
+Witnesses summoned before the Secretary shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses from whom depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 
 #### (e) Violation of subpena as misdemeanor
 
@@ -59,8 +59,4 @@ For effective date of amendment by Pub. L. 91–452, and amendment not to affect
 #### Effective Date
 
 For effective date of section, see section 2 of Pub. L. 90–487, set out as an Effective Date of 1968 Amendment note under section 78 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 86 of this title.
 

@@ -1,6 +1,6 @@
 ### §1521. Negotiations with Canada and Mexico; report to Congress
 
-The President of the United States is authorized and requested to enter into negotiations with the Governments of Canada and Mexico to determine:
+The President of the United States is authorized and requested to enter into negotiationswith the Governments of Canada and Mexico to determine:
 
 &emsp;(1) the need for intergovernmental understandings, agreements, or treaties to protect the interests of the people of Canada, Mexico, and the United States and of any party or parties involved with the construction or operation of deepwater ports; and
 

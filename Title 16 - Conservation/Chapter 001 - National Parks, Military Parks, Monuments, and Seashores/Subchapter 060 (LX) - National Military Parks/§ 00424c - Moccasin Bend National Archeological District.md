@@ -28,7 +28,7 @@ As used in this section:
 
 #### (1) In general
 
-&emsp;In order to preserve, protect, and interpret for the benefit of the public the nationally significant archeological and historic resources located on the peninsula known as Moccasin Bend, Tennessee, there is established as a unit of Chickamauga and Chattanooga NationalMilitary Park, the Moccasin Bend National Archeological District.
+&emsp;In order to preserve, protect, and interpret for the benefit of the public the nationally significant archeological and historic resources located on the peninsula known as Moccasin Bend, Tennessee, there is established as a unit of Chickamauga and Chattanooga National Military Park, the Moccasin Bend National Archeological District.
 
 #### (2) Boundaries
 

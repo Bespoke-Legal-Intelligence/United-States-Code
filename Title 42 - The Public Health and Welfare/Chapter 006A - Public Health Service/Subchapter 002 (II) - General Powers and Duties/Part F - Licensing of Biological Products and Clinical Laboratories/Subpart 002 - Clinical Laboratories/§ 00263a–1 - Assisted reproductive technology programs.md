@@ -12,7 +12,7 @@ Effective 2 years after October 24, 1992, each assisted reproductive technology 
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(1) of this section, the Secretary shall, in consultation with the organizations referenced in subsection (c) of this section, define pregnancy success ratesand shall make public any proposed definition in such manner as to facilitate comment from any person (including any Federal or other public agency) during its development.
+&emsp;For purposes of subsection (a)(1) of this section, the Secretary shall, in consultation with the organizations referenced in subsection (c) of this section, define pregnancy success rates and shall make public any proposed definition in such manner as to facilitate comment from any person (including any Federal or other public agency) during its development.
 
 #### (2) Definition
 
@@ -43,10 +43,6 @@ Centers for Disease Control changed to Centers for Disease Control and Preventio
 #### Effective Date
 
 Section 9 of Pub. L. 102–493 provided that: “This Act \[enacting this section, sections 263a–2 to 263a–7 of this title, and provisions set out as a note under section 201 of this title\] shall take effect upon the expiration of 2 years after the date of the enactment of this Act \[Oct. 24, 1992\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 263a–5, 263a–6, 263a–7 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

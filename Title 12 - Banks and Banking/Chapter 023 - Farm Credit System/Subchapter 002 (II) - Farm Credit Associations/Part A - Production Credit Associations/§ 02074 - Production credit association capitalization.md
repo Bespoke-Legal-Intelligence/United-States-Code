@@ -6,7 +6,7 @@ In accordance with section 2154a of this title, each production credit associati
 
 #### (b) Application of earnings
 
-At the end of each fiscal year, each production credit association shall apply the amount of the earnings of the association for the fiscal year inexcess of the operating expenses of the association (including provision for valuation reserves against loan assets in accordance with generally accepted accounting principles)—
+At the end of each fiscal year, each production credit association shall apply the amount of the earnings of the association for the fiscal year in excess of the operating expenses of the association (including provision for valuation reserves against loan assets in accordance with generally accepted accounting principles)—
 
 &emsp;(1) first, to the restoration of the impairment (if any) of capital; and
 

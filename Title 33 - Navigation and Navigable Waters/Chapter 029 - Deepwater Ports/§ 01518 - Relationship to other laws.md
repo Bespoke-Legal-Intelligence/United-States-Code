@@ -24,7 +24,7 @@ The law of the nearest adjacent coastal State, now in effect or hereafter adopte
 
 &emsp;(A) calling at or otherwise utilizing a deepwater port; and
 
-&emsp;(B) are within the safety zone of such a deepwater port, and are engaged in activities connected, associated, or potentially interfering with the use and operation of the deepwater port.
+&emsp;(B) are within the safety zone of such a deepwater port, and are engaged in activities connected, associated, or potentially interferingwith the use and operation of the deepwater port.
 
 > The jurisdiction of the United States under this paragraph shall not, however, apply to vessels registered in or flying the flag of any foreign state that has objected to the application of such jurisdiction.
 
@@ -69,8 +69,4 @@ Subsec. (c)(3). Pub. L. 98–419, §5(b), added par. (3).
 #### Effective Date of 1984 Amendment
 
 Section 5(c) of Pub. L. 98–419 provided that: “The amendment made by subsection (b) of this section \[amending this section\] shall be effective on the ninetieth day following the date of enactment of this Act \[Sept. 25, 1984\]. The Secretary of State shall make the first series of notifications referred to in section 19(a)(3) of the Deepwater Port Act of 1974 \[subsec. (a)(3) of this section\], as added by subsection (a) of this section, prior to the thirtieth day following the date of enactment of this Act \[Sept. 25, 1984\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to section 1507 of this title; title 19 section 1644.
 

@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than October 26, 2004, the Attorney General, in consultation with the Secretary of State, shall install at all ports of entry of the United States equipment and software to allow biometric comparison and authentication of all United States visas and other travel and entry documents issued to aliens, and passports issued pursuant to subsection (c)(1) of this section.
+&emsp;&emsp;Not later than October 26, 2005, the Attorney General, in consultation with the Secretary of State, shall install at all ports of entry of the United States equipment and software to allow biometric comparison and authentication of all United States visas and other travel and entry documents issued to aliens, and passports issued pursuant to subsection (c)(1) of this section.
 
 #### (B) Use of readers and scanners
 
@@ -38,23 +38,27 @@
 
 #### (3) Use of technology standard
 
-&emsp;The systems employed to implement paragraphs (1) and (2) shall utilize the technology standard established pursuant to section 1379 of this title.
+&emsp;The systems employed to implement paragraphs (1) and (2) shall utilize the technologystandard established pursuant to section 1379 of this title.
 
 #### (c) Technology standard for visa waiver participants
 
 #### (1) Certification requirement
 
-&emsp;Not later than October 26, 2004, the government of each country that is designated to participate in the visa waiver program established under section 1187 of this title shall certify, as a condition for designation or continuation of that designation, that it has a program to issue to its nationals machine-readable passports that are tamper-resistant and incorporate biometric and document authentication identifiers that comply with applicable biometric and document identifying standards established by the International Civil Aviation Organization. This paragraph shall not be construed to rescind the requirement of section 1187(a)(3) of this title.
+&emsp;Not later than October 26, 2005, the government of each country that is designated to participate in the visa waiver program established under section 1187 of this title shall certify, as a condition for designation or continuation of that designation, that it has a program to issue to its nationals machine-readable passports that are tamper-resistant and incorporate biometric and document authentication identifiers that comply with applicable biometric and document identifying standards established by the International Civil Aviation Organization. This paragraph shall not be construed to rescind the requirement of section 1187(a)(3) of this title.
 
 #### (2) Use of technology standard
 
-&emsp;On and after October 26, 2004, any alien applying for admission under the visa waiver program under section 1187 of this title shall present a passport that meets the requirements of paragraph (1) unless the alien's passport was issued prior to that date.
+&emsp;On and after October 26, 2005, any alien applying for admission under the visa waiver program under section 1187 of this title shall present a passport that meets the requirements of paragraph (1) unless the alien's passport was issued prior to that date.
 
 #### (d) Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section, including reimbursement to international and domestic standards organizations.
 
-(Pub. L. 107–173, title III, §303, May 14, 2002, 116 Stat. 553.)
+(Pub. L. 107–173, title III, §303, May 14, 2002, 116 Stat. 553; Pub. L. 108–299, §1, Aug. 9, 2004, 118 Stat. 1100.)
+
+#### Amendments
+
+2004—Subsecs. (b)(2)(A), (c)(1), (2). Pub. L. 108–299 substituted “2005” for “2004”.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

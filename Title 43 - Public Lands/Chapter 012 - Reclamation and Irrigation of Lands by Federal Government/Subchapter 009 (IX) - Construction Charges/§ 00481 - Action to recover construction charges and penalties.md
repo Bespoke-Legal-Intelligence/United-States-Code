@@ -4,7 +4,3 @@ If the Secretary of the Interior shall so elect, he may cause suit or action to 
 
 (Aug. 13, 1914, ch. 247, §3, 38 Stat. 687.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 469, 475, 497, 511 of this title.
-

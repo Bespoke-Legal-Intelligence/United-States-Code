@@ -44,7 +44,3 @@ Amendment by Pub. L. 98–397 applicable to plan years beginning after Dec. 31, 
 
 Secretary of Labor authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations by him, see section 1031 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1021, 1026, 1132 of this title.
-

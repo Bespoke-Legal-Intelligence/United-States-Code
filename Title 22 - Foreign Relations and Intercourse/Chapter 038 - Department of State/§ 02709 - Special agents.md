@@ -76,7 +76,7 @@ Subsec. (a)(5). Pub. L. 107–228, §202(a)(3), amended par. (5) generally. Prio
 
 &emsp;“(B) in the case of a felony or misdemeanor violation, if the violation is committed in the presence of the special agent.”
 
-Subsec. (b). Pub. L. 107–228, §202(b), substituted “Agreements with Attorney General and Secretary of the Treasury and firearms regulations” for “Agreement with Attorney General and firearms regulations” in heading, added pars. (1) and (2), struck out former par. (1), which related to agreement with the Attorney General, and redesignated former par. (2) as (3).
+Subsec. (b). Pub. L. 107–228, §202(b), substituted “Agreements with Attorney General and Secretary ofthe Treasury and firearms regulations” for “Agreement with Attorney General and firearms regulations” in heading, added pars. (1) and (2), struck out former par. (1), which related to agreement with the Attorney General, and redesignated former par. (2) as (3).
 
 2000—Subsec. (a)(3)(E), (F). Pub. L. 106–553, as renumbered by Pub. L. 106–554, added subpars. (E) and (F).
 
@@ -103,10 +103,6 @@ Pub. L. 107–228, div. A, title II, §202(c), Sept. 30, 2002, 116 Stat. 1362, p
 “(2) The authority conferred by paragraphs (2) and (5) of subsection (a) of section 37 of the State Department Basic Authorities Act of 1956, as in effect on the day before the date of the enactment of this Act \[Sept. 30, 2002\], may continue to be exercised until the date on which the notice described in paragraph (1)(B) is published in the Federal Register.”
 
 \[For definitions of “Secretary” and “appropriate congressional committees” as used in section 202(c) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4044 of this title; title 5 section 5542.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

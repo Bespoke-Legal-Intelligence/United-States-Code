@@ -6,7 +6,7 @@ Each State educational agency receiving funds under this subpart shall submit, o
 
 #### (b) Report to Congress
 
-The Secretary shall submit, once every 2 years, a report to the appropriate committees ofCongress concerning programs assisted under this subpart.
+The Secretary shall submit, once every 2 years, a report to the appropriate committees of Congress concerning programs assisted under this subpart.
 
 (Pub. L. 89–10, title III, §3248, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1728.)
 

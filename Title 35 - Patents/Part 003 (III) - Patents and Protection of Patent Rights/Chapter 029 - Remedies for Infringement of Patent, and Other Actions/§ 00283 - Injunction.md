@@ -10,7 +10,3 @@ Based on Title 35, U.S.C., 1946 ed., §70, part (R.S. 4921, amended (1) Mar. 3, 
 
 This section is the same as the provision which opens R.S. 4921 with minor changes in language.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 154, 157, 287 of this title.
-

@@ -56,7 +56,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Pub. L. 103–332, title III, §312, Sept. 30, 1994, 108 Stat. 2537, provided that: “Notwithstanding any other provision of law in fiscal year 1995 and thereafter, appropriations made available to any department or agency in a Department of the Interior and Related Agencies Appropriations Act shall be available to that department or agency to reimburse the representative (as that term is defined by applicable law) of employees killed in the line of duty after January 1, 1994, and in subsequent fiscal years, for burial costs and related out-of-pocket expenses: <i>Provided</i>, That the amount of such reimbursement may exceed the $800 limitation in 5 U.S.C. 8134(a): <i>Provided further</i>, That funds provided pursuant to this authority may not exceed $10,000 per employee.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8109, 8133, 8146 of this title; title 38 section 2307.
-

@@ -6,7 +6,3 @@
 
 (Pub. L. 93–406, title I, §409, Sept. 2, 1974, 88 Stat. 886.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1132 of this title.
-

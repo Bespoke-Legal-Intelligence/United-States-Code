@@ -4,7 +4,3 @@ Not later than 180 days after October 28, 1992, the Secretary of Labor shall iss
 
 (Pub. L. 102–550, title X, §1031, Oct. 28, 1992, 106 Stat. 3924.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4853a of this title.
-

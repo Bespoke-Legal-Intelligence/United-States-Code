@@ -44,7 +44,3 @@ The program established under this chapter shall comply with the following requi
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6101, 6104 of this title.
-

@@ -40,7 +40,3 @@ All other requirements and limitations imposed by this subchapter on a community
 
 (Pub. L. 103–325, title I, §106, Sept. 23, 1994, 108 Stat. 2171.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4704 of this title.
-

@@ -4,7 +4,3 @@ For the purpose of effecting land consolidations between Indians and non-Indians
 
 (Aug. 10, 1939, ch. 662, §2, 53 Stat. 1351.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 463f, 463g of this title.
-

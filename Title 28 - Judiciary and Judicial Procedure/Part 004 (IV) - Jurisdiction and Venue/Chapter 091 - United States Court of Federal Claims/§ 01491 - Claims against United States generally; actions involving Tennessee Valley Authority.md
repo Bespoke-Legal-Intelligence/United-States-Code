@@ -12,7 +12,7 @@
 
 (4) In any action under this subsection, the courts shall review the agency's decision pursuant to the standards set forth in section 706 of title 5.
 
-(c) Nothing herein shall be construed to give the United States Court of Federal Claims jurisdiction of any civil action within the exclusive jurisdiction of the Court of International Trade,or of any action against, or founded on conduct of, the Tennessee Valley Authority, or to amend or modify the provisions of the Tennessee Valley Authority Act of 1933 with respect to actions by or against the Authority.
+(c) Nothing herein shall be construed to give the United States Court of Federal Claims jurisdiction of any civil action within the exclusive jurisdiction of the Court of International Trade, or of any action against, or founded on conduct of, the Tennessee Valley Authority, or to amend or modify the provisions of the Tennessee Valley Authority Act of 1933 with respect to actions by or against the Authority.
 
 (June 25, 1948, ch. 646, 62 Stat. 940; July 28, 1953, ch. 253, §7, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §44(a), (b), 68 Stat. 1241; Pub. L. 91–350, §1(b), July 23, 1970, 84 Stat. 449; Pub. L. 92–415, §1, Aug. 29, 1972, 86 Stat. 652; Pub. L. 95–563, §14(i), Nov. 1, 1978, 92 Stat. 2391; Pub. L. 96–417, title V, §509, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 97–164, title I, §133(a), Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, §§902(a), 907(b)(1), Oct. 29, 1992, 106 Stat. 4516, 4519; Pub. L. 104–320, §12(a), Oct. 19, 1996, 110 Stat. 3874.)
 
@@ -28,7 +28,7 @@ The exception in section 250(1) of title 28, U.S.C., 1940 ed., as to pension cla
 
 Words “in respect of which claims the party would be entitled to redress against the United States either in a court of law, equity, or admiralty, if the United States were suable” were omitted as unnecessary since the Court of Claims manifestly, under this section will determine whether a petition against the United States states a cause of action. In any event, the Court of Claims has no admiralty jurisdiction, but the Suits in Admiralty Act, sections 741–752 of title 46, U.S.C., 1940 ed., Shipping, vests exclusive jurisdiction over suits in admiralty against the United States in the district courts. <i>Sanday \& Co. v. U.S</i>., 1932, 76 Ct.Cl. 370.
 
-For additional provisions respecting jurisdiction of the court of claims in war contract settlement cases see section 114b of Title 41, U.S.C., 1940 ed., Public Contracts.
+For additional provisions respecting jurisdiction of the court of claims in war contract settlement casessee section 114b of Title 41, U.S.C., 1940 ed., Public Contracts.
 
 Changes were made in phraseology.
 
@@ -132,11 +132,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Study on Concurrent Jurisdiction
 
-Section 12(c) of Pub. L. 104–320 provided that: “No earlier than 2 years after the effective date of this section \[Dec. 31, 1996\], the United States General Accounting Office shall undertake a study regarding the concurrent jurisdiction of the district courts of the United States and the Court of Federal Claims over bid protests to determine whether concurrent jurisdiction is necessary. Such a study shall be completed no later than December 31, 1999, and shall specifically consider the effect of any proposed change on the ability of small businesses to challenge violations of Federal procurement law.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2409a of this title; title 12 section 216b; title 16 section 460jjj–2; title 20 section 1155; title 22 section 3862; title 25 sections 1300i–11, 1779c, 3001; title 41 sections 114, 602; title 42 sections 2297h–3, 4654; title 45 section 1018; title 46 App. section 1242; title 47 section 606.
+Pub. L. 104–320, §12(c), Oct. 19, 1996, 110 Stat. 3875, required that, no earlier than 2 years after Dec. 31, 1996, the General Accounting Office was to undertake a study regarding the concurrent jurisdiction of the district courts of the United States and the Court of Federal Claims over bid protests to determine whether concurrent jurisdiction was necessary, which study was to be completed no later than Dec. 31, 1999, and was to specifically consider the effect of any proposed change on the ability of small businesses to challenge violations of Federal procurement law.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “United”.</i>
 

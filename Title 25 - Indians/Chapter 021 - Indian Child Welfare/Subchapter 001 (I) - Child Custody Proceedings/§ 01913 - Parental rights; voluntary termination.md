@@ -18,7 +18,3 @@ After the entry of a final decree of adoption of an Indian child in any State co
 
 (Pub. L. 95–608, title I, §103, Nov. 8, 1978, 92 Stat. 3072.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1914 of this title.
-

@@ -36,7 +36,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 #### (2) Capacity enhancement
 
-&emsp;The Secretary shall use funds made available under this section to help establish, organize, and build the capacity of fair housing enforcement organizations, particularly in those areas of the country which are currently underserved by fair housing enforcement organizations as well as those areas where large concentrations of protected classes exist. For purposes of meeting the objectives of this paragraph, the Secretary may enter into contracts or cooperative agreements with qualified fair housing enforcement organizations. The Secretary shall establish annual goals which reflect the national need for private fair housing enforcement organizations.
+&emsp;The Secretary shall use funds made available under this section to help establish, organize, and build the capacity of fair housing enforcement organizations, particularly in those areas of the country which are currently underserved by fair housing enforcement organizations as well as those areas where large concentrations of protected classes exist. For purposes of meeting the objectives of this paragraph, the Secretary may enter into contractsor cooperative agreements with qualified fair housing enforcement organizations. The Secretary shall establish annual goals which reflect the national need for private fair housing enforcement organizations.
 
 #### (d) Education and outreach
 
@@ -150,7 +150,7 @@ Not later than 180 days after the close of each fiscal year in which assistance 
 
 #### References in Text
 
-The Civil Rights Act of 1968, referred to in subsecs. (a)(1), (b)(1), (2)(C), (c)(1), and (d), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§3601 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title notes set out under sections 2000a and 3601 of this title and Tables.
+The Civil Rights Act of 1968, referred to in subsecs. (a)(1), (b)(1), (2)(C), (c)(1), and (d), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§3601 et seq.) of this chapter. For complete classification of these Acts to the Code, see Short Title notes set out under section 3601 of this title and Tables.
 
 The Fair Housing Act Amendments of 1988, referred to in subsec. (d)(1), probably means the Fair Housing Amendments Act of 1988, Pub. L. 100–430, Sept. 13, 1988, 102 Stat. 1619, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 3601 of this title and Tables.
 
@@ -182,7 +182,7 @@ Subsec. (e). Pub. L. 101–625, §953(b), substituted “1992” for “1989”.
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating tosecurities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Congressional Findings
 
@@ -205,10 +205,6 @@ Section 905(a) of Pub. L. 102–550 provided that: “The Congress finds that—
 &emsp;“(8) continuing educational efforts by the real estate industry are a useful way to increase understanding by the public of their fair housing rights and responsibilities; and
 
 &emsp;“(9) the proven efficacy of private nonprofit fair housing enforcement organizations and community-based efforts makes support for these organizations a necessary component of the fair housing enforcement system.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3535 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

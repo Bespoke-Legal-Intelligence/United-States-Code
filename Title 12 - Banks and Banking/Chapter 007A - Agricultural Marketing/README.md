@@ -30,10 +30,6 @@ This chapter contains the Agricultural Marketing Act, approved June 15, 1929.
 
 In view of the amendments to the Agricultural Marketing Act made by the Farm Credit Act of 1933, approved June 16, 1933, and by the Farm Credit Act of 1935, approved June 3, 1935, and of the transfer of its administration to the Governor of the Farm Credit Administration by Executive Order No. 6084, set out preceding section 2241 of this title, the provisions of the Agricultural Marketing Act, as amended, have been transferred to this chapter from Title 7, Agriculture.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 1150a of this title; title 15 sections 78<i>l</i>, 632.
-
 
 ---
 

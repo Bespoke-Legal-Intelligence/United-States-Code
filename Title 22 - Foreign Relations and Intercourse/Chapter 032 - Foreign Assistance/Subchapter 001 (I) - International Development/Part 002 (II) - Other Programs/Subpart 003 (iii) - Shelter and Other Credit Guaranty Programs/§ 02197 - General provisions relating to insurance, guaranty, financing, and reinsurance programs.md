@@ -10,7 +10,7 @@ The Corporation shall determine that suitable arrangements exist for protecting 
 
 #### (c) Guaranties as obligations backed by full faith and credit of United States
 
-All guaranties issued prior to July 1, 1956, all guaranties issued under sections 1872(b) <sup>1</sup> and 1933(b) <sup>1</sup> of this title, all guaranties heretofore issued pursuant to prior guaranty authorities repealed by the Foreign Assistance Act of 1969, and all insurance, reinsurance and guaranties issued pursuant to this subpart shall constitute obligations, in accordance with the terms ofsuch insurance, reinsurance or guaranties, of the United States of America and the full faith and credit of the United States of America is hereby pledged for the full payment and performance of such obligations.
+All guaranties issued prior to July 1, 1956, all guaranties issued under sections 1872(b) <sup>1</sup> and 1933(b) <sup>1</sup> of this title, all guaranties heretofore issued pursuant to prior guaranty authorities repealed by the Foreign Assistance Act of 1969, and all insurance, reinsurance and guaranties issued pursuant to this subpart shall constitute obligations, in accordance with the terms of such insurance, reinsurance or guaranties, of the United States of America and the full faith and credit of the United States of America is hereby pledged for the full payment and performance of such obligations.
 
 #### (d) Fees
 
@@ -32,7 +32,7 @@ No insurance, guaranty, or reinsurance of any equity investment shall extend bey
 
 #### (f) Limitations on amounts
 
-Compensation for insurance, reinsurance, or guaranties issued under this subpart shall not exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings, or profits actually accrued on such investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide that (1) appropriate adjustments in the insured dollar value be made to reflect the replacement cost of project assets, (2) compensation for a claim of loss under insurance of an equity investment may be computed on the basis of the net book value attributable to such equity investment on the date of loss, and (3) compensation for loss due to business interruption may be computed on a basis to be determined by the Corporation which reflects amounts lost. Notwithstanding the preceding sentence, the Corporation shall limit the amount of direct insurance and reinsurance issued by it under section 2194 or 2194b of this title so that risk of loss as to at least 10 per centum of the total investment of the insured and its affiliates in the project is borne by the insured and such affiliates, except that such limitation shall not apply to direct insurance or reinsurance of loans by banks or other financial institutions to unrelated parties.
+Compensation for insurance, reinsurance, or guaranties issued under this subpart shall not exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings, or profits actually accrued on such investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide that (1) appropriate adjustments in the insured dollar value be made to reflect the replacement cost of project assets, (2) compensation for a claim of loss under insurance of an equity investment may be computed on the basis of the net book value attributable to such equity investment on the date of loss, and (3) compensation for loss due to businessinterruption may be computed on a basis to be determined by the Corporation which reflects amounts lost. Notwithstanding the preceding sentence, the Corporation shall limit the amount of direct insurance and reinsurance issued by it under section 2194 or 2194b of this title so that risk of loss as to at least 10 per centum of the total investment of the insured and its affiliates in the project is borne by the insured and such affiliates, except that such limitation shall not apply to direct insurance or reinsurance of loans by banks or other financial institutions to unrelated parties.
 
 #### (g) Fraud or misrepresentation
 
@@ -58,7 +58,7 @@ In making a determination to issue insurance, guaranties, or reinsurance under t
 
 (1) No payment may be made under any insurance or reinsurance which is issued under this subpart on or after April 24, 1978, for any loss occurring with respect to a project, if the preponderant cause of such loss was an act by the investor seeking payment under this subpart, by a person possessing majority ownership and control of the investor at the time of the act, or by any agent of such investor or controlling person, and a court of the United States has entered a final judgment that such act constituted a violation under the Foreign Corrupt Practices Act of 1977.
 
-(2) Not later than 120 days after April 24, 1978, the Corporation shall adopt regulations settingforth appropriate conditions under which any person convicted under the Foreign Corrupt Practices Act of 1977 for an offense related to a project insured or otherwise supported by the Corporation shall be suspended, for a period of not more than five years, from eligibility to receive any insurance, reinsurance, guaranty, loan, or other financial support authorized by this subpart.
+(2) Not later than 120 days after April 24, 1978, the Corporation shall adopt regulations setting forth appropriate conditions under which any person convicted under the Foreign Corrupt Practices Act of 1977 for an offense related to a project insured or otherwise supported by the Corporation shall be suspended, for a period of not more than five years, from eligibility to receive any insurance, reinsurance, guaranty, loan, or other financial support authorized by this subpart.
 
 #### (m) Notification of countries of environmental restrictions on certain activities
 
@@ -80,7 +80,7 @@ In making a determination to issue insurance, guaranties, or reinsurance under t
 
 #### (n) Penalties for fraud
 
-Whoever knowingly makes any false statement or report, or willfully overvalues any land, property, or security, for the purpose of influencing in any way the action of the Corporation with respect to any insurance, reinsurance, guarantee, loan, equity investment, or other activity of the Corporation under section 2194 of this title or any change or extension of any such insurance, reinsurance, guarantee, loan, equity investment, or activity, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
+Whoever knowingly makes any false statement or report, or willfully overvalues any land, property, or security, for the purpose of influencing in any way the action of the Corporation with respect to any insurance, reinsurance, guarantee, loan, equity investment, or other activity of the Corporation under section 2194 of this title or any change or extension of any such insurance, reinsurance, guarantee, loan, equityinvestment, or activity, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
 #### (<i>o</i>) Use of local currencies
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 100–461 is based on section 110(c) of title I of H.R. 526
 
 #### Amendments
 
-1992—Subsec. (d). Pub. L. 102–549, §105(a), amended subsec. (d) generally. Prior to amendment, subsec. (d)read as follows: “Fees shall be charged for insurance, guaranty, and reinsurance coverage in amounts to be determined by the Corporation. In the event fees charged for investment insurance, guaranties, or reinsurance are reduced, fees to be paid under existing contracts for the same type of insurance, guaranties, or reinsurance and for similar guaranties issued under predecessor guaranty authority may be reduced.”
+1992—Subsec. (d). Pub. L. 102–549, §105(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Fees shall be charged for insurance, guaranty, and reinsurance coverage in amounts to be determined by the Corporation. In the event fees charged for investment insurance, guaranties, or reinsurance are reduced, fees to be paid under existing contracts for the same type of insurance, guaranties, or reinsurance and for similar guaranties issued under predecessor guaranty authority may be reduced.”
 
 Subsecs. (n), (<i>o</i>). Pub. L. 102–549, §105(b), (c), added subsecs. (n) and (<i>o</i>).
 
@@ -139,10 +139,6 @@ Subsecs. (h) to (k). Pub. L. 93–390, §2(4)(I)–(K), inserted reference to re
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2194b, 2195, 2199 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

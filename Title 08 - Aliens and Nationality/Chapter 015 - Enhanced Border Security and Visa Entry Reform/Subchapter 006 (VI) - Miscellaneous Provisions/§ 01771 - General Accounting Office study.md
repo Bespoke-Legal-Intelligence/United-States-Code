@@ -16,6 +16,10 @@ Not later than 1 year after May 14, 2002, the Comptroller General shall submit t
 
 (Pub. L. 107–173, title VI, §602, May 14, 2002, 116 Stat. 564.)
 
+#### Change of Name
+
+General Accounting Office redesignated Government Accountability Office by section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
+
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.

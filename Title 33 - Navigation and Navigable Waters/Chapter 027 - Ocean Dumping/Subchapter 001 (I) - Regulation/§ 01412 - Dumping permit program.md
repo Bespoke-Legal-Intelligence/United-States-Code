@@ -94,7 +94,7 @@ This Act, referred to in subsec. (c)(4), means Pub. L. 92–532, which is classi
 
 1980—Subsec. (e). Pub. L. 96–572 inserted applicability to United States agency or instrumentality, and proviso respecting such agency or instrumentality.
 
-1974—Subsec. (a). Pub. L. 93–254, §1(4)(A), substituted “for which no permit may be issued,” for “as provided for in section 1411 of this title,”, inserted “or in thecase of a vessel or aircraft registered in the United States or flying the United States flag,” after “instrumentality of the United States,”, and required the Administrator to apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
+1974—Subsec. (a). Pub. L. 93–254, §1(4)(A), substituted “for which no permit may be issued,” for “as provided for in section 1411 of this title,”, inserted “or in the case of a vessel or aircraft registered in the United States or flying the United States flag,” after “instrumentality of the United States,”, and required the Administrator to apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
 
 Subsec. (e). Pub. L. 93–254, §1(4)(B), added subsec. (e).
 
@@ -103,8 +103,4 @@ Subsec. (e). Pub. L. 93–254, §1(4)(B), added subsec. (e).
 Section 2 of Pub. L. 93–254 provided in part that: “The amendments made by subparagraph 1(4)(A)(iii) and paragraph 1(4)(B) of this Act \[enacting provision of subsec. (a) respecting application of standards by Administrator and subsec. (e) of this section\] shall become effective on the date that the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matters enters into force for the United States.” \[The Convention entered into force for the United States Aug. 30, 1975.\]
 
 Amendment of subsec. (a) of this section, other than last sentence, by Pub. L. 93–254 effective Mar. 22, 1974, see section 2 of Pub. L. 93–254, set out in part as a note under section 1401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1411, 1413, 1414, 1414a, 1414b, 1415, 1416 of this title; title 42 section 9601.
 

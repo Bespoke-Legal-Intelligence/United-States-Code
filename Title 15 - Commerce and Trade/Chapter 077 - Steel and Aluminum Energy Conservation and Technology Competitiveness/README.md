@@ -25,10 +25,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 42 section 13451.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “(e)”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “of the”.</i>

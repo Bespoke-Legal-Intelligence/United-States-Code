@@ -68,7 +68,3 @@ In subsection (d), the words “or other employees” are omitted as unnecessary
 
 The Railway Labor Act, referred to in subsec. (b)(3), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended. Title II of the Act was added by act Apr. 10, 1936, ch. 166, 49 Stat. 1189, and is classified generally to subchapter II (§181 et seq.) of chapter 8 of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 40109 of this title; title 39 section 5402.
-

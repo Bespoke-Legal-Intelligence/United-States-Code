@@ -12,7 +12,7 @@ The Director may, in accordance with applicable provisions of title 5, appoint a
 
 #### (2) Number and compensation
 
-&emsp;The number of employees appointed and compensated under paragraph (1) shall not exceed 1/5 of the number of full-time regular or professional employees of the Institute. The rate of basic compensation for the employees appointed and compensated under paragraph (1) may not exceed the rate prescribed for levelGS–15 of the General Schedule under section 5332 of title 5.
+&emsp;The number of employees appointed and compensated under paragraph (1) shall not exceed 1/5 of the number of full-time regular or professional employees of the Institute. The rate of basic compensation for the employees appointed and compensated under paragraph (1) may not exceed the rate prescribed for level GS–15 of the General Schedule under section 5332 of title 5.
 
 #### (c) Voluntary services
 

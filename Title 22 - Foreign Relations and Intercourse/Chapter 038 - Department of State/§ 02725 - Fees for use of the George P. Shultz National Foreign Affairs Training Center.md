@@ -10,5 +10,5 @@ The Secretary is authorized to charge a fee for use of the George P. Shultz Nati
 
 #### Reporting on Pilot Program
 
-Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(c), Oct. 21, 1998, 112 Stat. 2681–809, required the Secretary of State to submit, two years after Oct. 21, 1998, a report to Congress on the number of persons taking advantage of the pilot program established under section 4021 of this title and this section, their business or government affiliations, the amount of fees collected, and the impact of the program on the primary mission of the National Foreign Affairs Training Center, prior to repeal by Pub. L. 107–228, div. A, title III, §318(3), Sept. 30, 2002, 116 Stat. 1380.
+Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(c), Oct. 21, 1998, 112 Stat. 2681–809, required the Secretaryof State to submit, two years after Oct. 21, 1998, a report to Congress on the number of persons taking advantage of the pilot program established under section 4021 of this title and this section, their business or government affiliations, the amount of fees collected, and the impact of the program on the primary mission of the National Foreign Affairs Training Center, prior to repeal by Pub. L. 107–228, div. A, title III, §318(3), Sept. 30, 2002, 116 Stat. 1380.
 

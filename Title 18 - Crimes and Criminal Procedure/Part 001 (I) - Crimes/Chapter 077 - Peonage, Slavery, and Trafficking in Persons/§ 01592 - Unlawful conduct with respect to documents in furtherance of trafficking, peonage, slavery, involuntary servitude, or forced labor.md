@@ -18,7 +18,3 @@
 
 Section 103 of the Trafficking Victims Protection Act of 2000, referred to in subsecs. (a)(3) and (b), is classified to section 7102 of Title 22, Foreign Relations and Intercourse.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 7103.
-

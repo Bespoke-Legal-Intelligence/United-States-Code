@@ -18,7 +18,3 @@ For purposes of this part, the critical capital level for the Corporation shall 
 
 &emsp;&emsp;“(B) after the expiration of such 5-year period, 1.25 percent of any such aggregate assets.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2279bb–4 of this title.
-

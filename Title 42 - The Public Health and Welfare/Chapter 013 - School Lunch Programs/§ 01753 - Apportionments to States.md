@@ -92,7 +92,7 @@ Section 820(c) of title VIII of Pub. L. 97–35 provided that: “Not later than
 
 #### Reduction in General Reimbursement for Fiscal Year Ending September 30, 1981
 
-Pub. L. 96–499, title II, §201(a), Dec. 5, 1980, 94 Stat. 2599, provided that the national average payment per lunch under this chapter shall be reduced by 21/2 cents for certain school food authorities for fiscal year ending Sept. 30, 1981, and that the amount of reimbursements under section 1776 of this title for fiscal year ending Sept. 30, 1983, and the amount of State revenues appropriated or used for meeting the requirements under section 1756 of this title for the school year ending June 30, 1982, shall not be reduced because of a reduction in the amount of Federal funds expended, prior to repeal by Pub. L. 97–35, title VIII, §820(b)(1), Aug. 13, 1981, 95 Stat. 535, effective Sept. 1, 1981, or the first dayof the first month following Aug. 1981, whichever is earlier.
+Pub. L. 96–499, title II, §201(a), Dec. 5, 1980, 94 Stat. 2599, provided that the national average payment perlunch under this chapter shall be reduced by 21/2 cents for certain school food authorities for fiscal year ending Sept. 30, 1981, and that the amount of reimbursements under section 1776 of this title for fiscal year ending Sept. 30, 1983, and the amount of State revenues appropriated or used for meeting the requirements under section 1756 of this title for the school year ending June 30, 1982, shall not be reduced because of a reduction in the amount of Federal funds expended, prior to repeal by Pub. L. 97–35, title VIII, §820(b)(1), Aug. 13, 1981, 95 Stat. 535, effective Sept. 1, 1981, or the first day of the first month following Aug. 1981, whichever is earlier.
 
 #### Use of Funds Appropriated Under Section 612c of Title 7 for Implementing This Section and Reimbursement of Such Funds
 
@@ -107,8 +107,4 @@ Pub. L. 92–153, §1, Nov. 5, 1971, 85 Stat. 419, provided: “That, notwithsta
 Section 4(b) of Pub. L. 92–433 provided that: “Funds made available pursuant to this section shall be apportioned to the States in such manner as will best enable schools to meet their obligations with respect to the service of free and reduced-price lunches and to meet the objective of this section with respect to providing a minimum rate of reimbursement under section 4 of the \[Richard B. Russell\] National School Lunch Act \[this section\], and such funds shall be apportioned and paid as expeditiously as may be practicable.”
 
 Pub. L. 92–153, §2, Nov. 5, 1971, 85 Stat. 420, provided that: “Funds made available by this joint resolution \[amending sections 1758 and 1759a of this title and enacting provisions set out as notes under this section and sections 1758 and 1773 of this title\] shall be apportioned to the States in such manner as will best enable schools to meet their obligations with respect to the service of free and reduced price lunches and to meet the objective of this joint resolution \[amending sections 1758 and 1759a of this title and enacting provisions set out as notes under this section and sections 1758 and 1773 of this title\] with respect to providing a minimum rate of reimbursement under section 4 of the \[Richard B. Russell\] National School Lunch Act \[this section\], and such funds shall be apportioned and paid as expeditiously as may be practicable.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1755, 1756, 1757, 1759a, 1760, 1762a, 1766, 1776 of this title.
 

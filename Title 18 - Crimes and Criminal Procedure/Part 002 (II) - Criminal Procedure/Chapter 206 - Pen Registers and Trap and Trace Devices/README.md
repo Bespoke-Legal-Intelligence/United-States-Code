@@ -16,10 +16,6 @@
 
 1988—Pub. L. 100–690, title VII, §§7068, 7092(c), Nov. 18, 1988, 102 Stat. 4405, 4411, substituted “trap and trace” for “trap or trace” in item 3123, added item 3125, and redesignated former items 3125 and 3126 as 3126 and 3127, respectively.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2511, 2522 of this title; title 47 section 551.
-
 
 ---
 

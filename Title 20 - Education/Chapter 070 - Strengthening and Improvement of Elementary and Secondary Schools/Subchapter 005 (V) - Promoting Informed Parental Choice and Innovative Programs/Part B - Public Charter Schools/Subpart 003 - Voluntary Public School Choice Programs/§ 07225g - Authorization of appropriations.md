@@ -4,7 +4,3 @@ There are authorized to be appropriated to carry out this subpart $100,000,000 f
 
 (Pub. L. 89–10, title V, §5248, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1806.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7225 of this title.
-

@@ -1,9 +1,5 @@
 subpart c—telecommunications demonstrations
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in title 20 section 3441.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “within”.</i>
 
 

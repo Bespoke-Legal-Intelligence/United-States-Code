@@ -4,7 +4,3 @@ There is hereby established the Farm Credit System Insurance Corporation which s
 
 (Pub. L. 92–181, title V, §5.52, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1611.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2277a of this title.
-

@@ -20,11 +20,7 @@ The Committee shall each year provide general guidance to each Federal agency or
 
 (1) The President shall, in a timely fashion, provide the Committee with an opportunity to review and comment on the budget estimate of each agency and department involved in global change research in the context of the Plan.
 
-(2) The President shall identify in each annual budget submitted to the Congress under section1105 of title 31 those items in each agency's or department's annual budget which are elements of the Program.
+(2) The President shall identify in each annual budget submitted to the Congress under section 1105 of title 31 those items in each agency's or department's annual budget which are elements of the Program.
 
 (Pub. L. 101–606, title I, §105, Nov. 16, 1990, 104 Stat. 3100.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2932 of this title.
 

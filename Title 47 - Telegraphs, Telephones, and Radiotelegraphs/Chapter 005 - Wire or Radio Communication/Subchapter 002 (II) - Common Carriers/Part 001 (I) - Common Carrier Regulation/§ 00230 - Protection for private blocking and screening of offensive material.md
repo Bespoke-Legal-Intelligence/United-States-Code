@@ -38,7 +38,7 @@ It is the policy of the United States—
 
 &emsp;No provider or user of an interactive computer service shall be held liable on account of—
 
-&emsp;&emsp;(A) any action voluntarily taken in good faith to restrict access to or availability ofmaterial that the provider or user considers to be obscene, lewd, lascivious, filthy, excessively violent, harassing, or otherwise objectionable, whether or not such material is constitutionally protected; or
+&emsp;&emsp;(A) any action voluntarily taken in good faith to restrict access to or availability of material that the provider or user considers to be obscene, lewd, lascivious, filthy, excessively violent, harassing, or otherwise objectionable, whether or not such material is constitutionally protected; or
 
 &emsp;&emsp;(B) any action taken to enable or make available to information content providers or others the technical means to restrict access to material described in paragraph (1).<sup>1</sup>
 
@@ -111,10 +111,6 @@ Subsecs. (e), (f). Pub. L. 105–277, §1404(a)(2), redesignated subsecs. (d) an
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective 30 days after Oct. 21, 1998, see section 1406 of Pub. L. 105–277, set out as a note under section 223 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 223, 231, 941 of this title; title 15 section 1127; title 18 sections 1462, 1465; title 27 section 122b.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (A).”</i>
 

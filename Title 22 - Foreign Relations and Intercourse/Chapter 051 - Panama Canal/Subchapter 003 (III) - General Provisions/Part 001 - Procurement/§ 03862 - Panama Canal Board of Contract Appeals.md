@@ -46,7 +46,7 @@ The Board may perform functions similar to those described in this section for s
 
 #### References in Text
 
-The Contract Disputes Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383,as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code see Short Title note set out under section 601 of Title 41 and Tables.
+The Contract Disputes Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code see Short Title note set out under section 601 of Title 41 and Tables.
 
 #### Amendments
 
@@ -55,8 +55,4 @@ The Contract Disputes Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95�
 Subsec. (a)(3). Pub. L. 105–261, §3510(a)(2), added par. (3).
 
 Subsec. (e). Pub. L. 105–261, §3510(b), struck out “, but not later than January 1, 1999” before period at end.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3861 of this title.
 

@@ -22,7 +22,3 @@ In carrying out the duties under this part, the Director may award grants, enter
 
 (Pub. L. 107–279, title I, §171, Nov. 5, 2002, 116 Stat. 1962.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9563 of this title.
-

@@ -68,7 +68,7 @@ In this section:
 
 #### (4) Proration
 
-&emsp;If the amount made available for a fiscal year under subsection (c) of this section is insufficient to allow the payment of the amount of the payments that eligible producers (that apply for the payments) otherwise would receive under this subsection, the Secretary shall prorate the amount of the funds among all such eligible producers.
+&emsp;If the amount made available for a fiscal year under subsection (c) of this section is insufficient to allow the payment of the amount of the payments that eligible producers (thatapply for the payments) otherwise would receive under this subsection, the Secretary shall prorate the amount of the funds among all such eligible producers.
 
 #### (5) Overpayments
 

@@ -12,7 +12,3 @@ The purpose of this subpart is to assist eligible local educational agencies tha
 
 (Pub. L. 89–10, title III, §3241, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1723.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6964, 6965 of this title.
-

@@ -28,7 +28,7 @@ Appalachian region.—The term “Appalachian region” means that area of the e
 
 &emsp;&emsp;(J) In South Carolina, the counties of Anderson, Cherokee, Greenville, Oconee, Pickens, and Spartanburg.
 
-&emsp;&emsp;(K) In Tennessee, the counties of Anderson, Bledsoe, Blount, Bradley, Campbell, Cannon, Carter, Claiborne, Clay, Cocke, Coffee, Cumberland, De Kalb, Fentress, Franklin, Grainger, Greene, Grundy, Hamblen, Hamilton, Hancock, Hawkins, Jackson, Jefferson, Johnson, Knox, Loudon, McMinn, Macon, Marion, Meigs, Monroe, Morgan, Overton, Pickett, Polk, Putnam, Rhea, Roane, Scott, Sequatchie, Sevier, Smith,Sullivan, Unicoi, Union, Van Buren, Warren, Washington, and White.
+&emsp;&emsp;(K) In Tennessee, the counties of Anderson, Bledsoe, Blount, Bradley, Campbell, Cannon, Carter, Claiborne, Clay, Cocke, Coffee, Cumberland, De Kalb, Fentress, Franklin, Grainger, Greene, Grundy, Hamblen, Hamilton, Hancock, Hawkins, Jackson, Jefferson, Johnson, Knox, Loudon, McMinn, Macon, Marion, Meigs, Monroe, Morgan, Overton, Pickett, Polk, Putnam, Rhea, Roane, Scott, Sequatchie, Sevier, Smith, Sullivan, Unicoi, Union, Van Buren, Warren, Washington, and White.
 
 &emsp;&emsp;(L) In Virginia, the counties of Alleghany, Bath, Bland, Botetourt, Buchanan, Carroll, Craig, Dickenson, Floyd, Giles, Grayson, Highland, Lee, Montgomery, Pulaski, Rockbridge, Russell, Scott, Smyth, Tazewell, Washington, Wise, and Wythe.
 
@@ -81,8 +81,4 @@ Pub. L. 89–4, title III, §301, Mar. 9, 1965, 79 Stat. 19.
 In subsection (a)(2), the words “the appropriate state official” are substituted for “the State officer designated by the appropriate State law to make such certification” to eliminate unnecessary words. The words “No entity shall be certified as a local development district for the purposes of this Act unless it is one of the following” are omitted as unnecessary.
 
 In subsection (b), the text of 40 App.:403(last par.) is omitted as obsolete.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14525, 14704 of this title; title 33 section 1257; title 42 section 3174.
 

@@ -52,7 +52,7 @@ Beginning with fiscal year 1992, the Secretary may allocate funds appropriated p
 
 #### (e) Supplementary financial assistance to grant recipients
 
-(1)(A) Beginning with fiscal year 1992, the Secretary may allocate, from funds appropriated pursuant to section 6872(b) <sup>2</sup> of this title, among the States an equal amount for each State not to exceed $100,000 per State. Each State shallmake available amounts received under this subsection to provide supplementary financial assistance to recipients of grants under this part that have achieved the best performance during the previous fiscal year in advancing the purposes of this part.
+(1)(A) Beginning with fiscal year 1992, the Secretary may allocate, from funds appropriated pursuant to section 6872(b) <sup>2</sup> of this title, among the States an equal amount for each State not to exceed $100,000 per State. Each State shall make available amounts received under this subsection to provide supplementary financial assistance to recipients of grants under this part that have achieved the best performance during the previous fiscal year in advancing the purposes of this part.
 
 (B) None of the funds made available under this subsection may be used by any State for administrative purposes.
 
@@ -119,10 +119,6 @@ Subsec. (c). Pub. L. 95–619, §231(c)(2), included expenditure of financial as
 #### Performance Fund; Restriction on Use
 
 Pub. L. 99–190, §101(d) \[title II, §201\], Dec. 19, 1985, 99 Stat. 1224, 1253, provided: “That section 404 of Public Law 98–558 \[enacting subsec. (d) of this section\] shall not be effective in any fiscal year in which the amount made available for low income weatherization assistance from appropriations under this head is less than 5 per centum above the amount made available in fiscal year 1985.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1474, 6864, 6872 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

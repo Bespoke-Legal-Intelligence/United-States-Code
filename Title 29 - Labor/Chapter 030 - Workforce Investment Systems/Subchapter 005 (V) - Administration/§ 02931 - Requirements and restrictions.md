@@ -160,9 +160,5 @@ The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch
 
 Provisions similar to this section were contained in sections 1551 to 1554 of this title prior to repeal by Pub. L. 105–220.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 2014.
-
 <i><sup>1</sup></i><i> So in original. No par. (3) has been enacted.</i>
 

@@ -4,7 +4,7 @@ Section 1973dd, Pub. L. 94–203, §2, Jan. 2, 1976, 89 Stat. 1142; Pub. L. 95�
 
 Section 13973dd–1, Pub. L. 94–203, §3, Jan. 2, 1976, 89 Stat. 1142; Pub. L. 95–593, §2, Nov. 4, 1978, 92 Stat. 2535, related to qualifications for registration and vote by absentee ballot.
 
-Section 1973dd–2, Pub. L. 94–203, §4, Jan. 2, 1976, 89 Stat. 1143; Pub. L. 95–593, §3, Nov. 4, 1978, 92 Stat. 2535, related to State provisions concerning absentee registration or qualification and absentee ballots and to recommendations to States in carrying out the provisions of this section. See sections 1973ff–1 and 1973ff–3 of this title.
+Section 1973dd–2, Pub. L. 94–203, §4, Jan. 2, 1976, 89 Stat. 1143; Pub. L. 95–593, §3, Nov. 4, 1978, 92 Stat. 2535,related to State provisions concerning absentee registration or qualification and absentee ballots and to recommendations to States in carrying out the provisions of this section. See sections 1973ff–1 and 1973ff–3 of this title.
 
 Section 1973dd–2a, Pub. L. 94–203, §5, as added Pub. L. 95–593, §4(2), Nov. 4, 1978, 92 Stat. 2535, related to acquisition and dissemination by Presidential designee of current absentee voting information from each State.
 

@@ -120,7 +120,7 @@ The owner of a farm may reduce, at any time, the base acres for any covered comm
 
 #### References in Text
 
-Subchapter III of this chapter, referred to in subsec. (g)(1), (2)(A), (3), was in the original “subtitle C”,meaning subtitle C (§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+Subchapter III of this chapter, referred to in subsec. (g)(1), (2)(A), (3), was in the original “subtitle C”, meaning subtitle C (§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (g)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
@@ -131,8 +131,4 @@ Pub. L. 108–7, div. A, title VII, §767, Feb. 20, 2003, 117 Stat. 48, provided
 “(a) Notwithstanding any other provision of law, for purposes of administering sections 1101 and 1102 of Public Law 107–171 \[7 U.S.C. 7911, 7912\], acreage planted to, or prevented from being planted to, popcorn shall be considered as acreage planted to, or prevented from being planted to, corn: <i>Provided</i>, That if a farm program payment yield for corn is otherwise established for a farm under such section 1102, the same yield shall be used for the acreage on the farm planted to, or prevented from being planted to, popcorn: <i>Provided further</i>, That with respect to all other farms, the farm program payment yield for such popcorn acreage shall be established by the Secretary on a fair and equitable basis to reflect the farm program payment yields for corn on similar farms in the area.
 
 “(b) This section shall take effect on October 1, 2003.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7901, 7912, 7916, 7952 of this title.
 

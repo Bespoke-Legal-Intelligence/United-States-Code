@@ -106,7 +106,3 @@ Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(c)\], Oct. 30, 2000, 114 S
 
 “(2) Not later than 240 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Director shall issue final regulations.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3521 of this title; title 2 sections 610, 1926; title 10 section 1745.
-

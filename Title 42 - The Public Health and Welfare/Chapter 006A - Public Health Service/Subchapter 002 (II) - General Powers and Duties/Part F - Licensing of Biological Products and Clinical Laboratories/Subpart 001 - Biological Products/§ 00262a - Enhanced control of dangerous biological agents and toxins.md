@@ -278,7 +278,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (j) Notification in event of release
 
-Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to public health or safety, the Secretary shall take appropriate action to notify relevant State and local public health authorities, other relevant Federal authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin (as defined in subsection (<i>l</i>) of this section), the Secretary shall promptly notify the Secretary of Agriculture upon notification by the registered person.
+Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to public healthor safety, the Secretary shall take appropriate action to notify relevant State and local public health authorities, other relevant Federal authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin (as defined in subsection (<i>l</i>) of this section), the Secretary shall promptly notify the Secretary of Agriculture upon notification by the registered person.
 
 #### (k) Reports
 
@@ -360,7 +360,7 @@ Date Certain for Notice of Possession.—Not later than 90 days after the date o
 
 “(b)
 
-Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties.—Not later than 180 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate an interim final rule for carrying out section 351A of the Public Health Service Act \[this section\], subject to subsection (c). Such interim final rule shall take effect 60 days after the date on which such rule is promulgated, including for purposes of—
+Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties.—Notlater than 180 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate an interim final rule for carrying out section 351A of the Public Health Service Act \[this section\], subject to subsection (c). Such interim final rule shall take effect 60 days after the date on which such rule is promulgated, including for purposes of—
 
 &emsp;“(1) section 175b(c) of title 18, United States Code (relating to criminal penalties), as added by section 231(a)(5) of this Act; and
 
@@ -369,10 +369,6 @@ Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penal
 “(c)
 
 Transitional Provision Regarding Current Research and Education.—The interim final rule under subsection (b) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 351A(a)(1) of the Public Health Service Act \[subsec. (a)(1) of this section\] and that were underway as of the effective date of such rule.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 247d–6 of this title; title 6 section 182; title 7 sections 8401, 8411; title 18 section 175b.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “judicial”.</i>
 

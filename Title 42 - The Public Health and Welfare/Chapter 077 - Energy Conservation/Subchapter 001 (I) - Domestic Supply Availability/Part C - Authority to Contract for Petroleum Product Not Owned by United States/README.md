@@ -4,10 +4,6 @@ Part C—Authority To Contract for Petroleum Product Not Owned by United States
 
 A prior part C, consisting of section 6251 of this title, was redesignated part E of this subchapter.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 6232 of this title.
-
 
 ---
 

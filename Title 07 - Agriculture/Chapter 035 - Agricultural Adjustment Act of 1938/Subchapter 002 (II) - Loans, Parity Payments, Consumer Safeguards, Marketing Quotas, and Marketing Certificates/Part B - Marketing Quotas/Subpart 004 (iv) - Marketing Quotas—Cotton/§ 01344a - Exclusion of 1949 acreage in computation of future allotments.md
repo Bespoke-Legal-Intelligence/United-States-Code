@@ -8,7 +8,3 @@ Notwithstanding the provisions of subchapter III of this chapter, or of any othe
 
 Section was not enacted as part of the Agriculture Adjustment Act of 1938 which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1344 of this title.
-

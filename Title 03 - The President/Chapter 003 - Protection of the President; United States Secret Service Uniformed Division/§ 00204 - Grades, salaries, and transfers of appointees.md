@@ -114,7 +114,7 @@ Limitation on Pay Period Earnings.—\[Amended act Aug. 15, 1950, ch. 715, 64 St
 
 “(d)
 
-Savings Provision.—On the effective date of this section, any existing special salary rates authorized formembers of the United States Secret Service Uniformed Division under section 5305 of title 5, United States Code (or any previous similar provision of law) and any special rates of pay or special pay adjustments under section 403, 404, or 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[Pub. L. 101–509, §529 \[title IV, §§403–405\], 5 U.S.C. 5305 note\] applicable to members of the United States Secret Service Uniformed Division shall be rendered inapplicable.
+Savings Provision.—On the effective date of this section, any existing special salary rates authorized for members of the United States Secret Service Uniformed Division under section 5305 of title 5, United States Code (or any previous similar provision of law) and any special rates of pay or special pay adjustments under section 403, 404, or 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[Pub. L. 101–509, §529 \[title IV, §§403–405\], 5 U.S.C. 5305 note\] applicable to members of the United States Secret Service Uniformed Division shall be rendered inapplicable.
 
 “(e)
 
@@ -122,9 +122,5 @@ Conforming Amendment.—\[Amended Pub. L. 101–509, §529 \[title IV, §405\], 
 
 “(f)
 
-Effective Date.—The provisions of this section shall become effective on the first day of the first pay period beginning after the date of enactment of this Act \[Oct. 10, 1997\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 209 of this title.
+Effective Date.—The provisions of this section shall become effective on the first day of the first payperiod beginning after the date of enactment of this Act \[Oct. 10, 1997\].”
 

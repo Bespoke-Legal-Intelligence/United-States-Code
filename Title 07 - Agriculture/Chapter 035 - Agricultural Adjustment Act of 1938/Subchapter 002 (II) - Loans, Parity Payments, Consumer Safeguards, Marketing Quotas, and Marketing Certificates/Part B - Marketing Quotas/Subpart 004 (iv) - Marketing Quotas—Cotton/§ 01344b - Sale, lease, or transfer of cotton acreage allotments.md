@@ -10,7 +10,7 @@ Transfers under this section shall be subject to the following conditions: (i) n
 
 #### (c) Extent of estate transferred
 
-The transfer of an allotment shall have the effect of transferring also the acreage history, farm base, and marketing quota attributable to such allotment and if the transfer is made prior to the determination of the allotment for any year the transfer shall include the right of the owner or operator to have an allotment determined for the farm for such year: <i>Provided</i>, That in the case of a transfer by lease, the amount ofthe allotment shall be considered for purposes of determining allotments after the expiration of the lease to have been planted on the farm from which such allotment is transferred.
+The transfer of an allotment shall have the effect of transferring also the acreage history, farm base, and marketing quota attributable to such allotment and if the transfer is made prior to the determination of the allotment for any year the transfer shall include the right of the owner or operator to have an allotment determined for the farm for such year: <i>Provided</i>, That in the case of a transfer by lease, the amount of the allotment shall be considered for purposes of determining allotments after the expiration of the lease to have been planted on the farm from which such allotment is transferred.
 
 #### (d) Period of ineligibility of land for new allotment
 

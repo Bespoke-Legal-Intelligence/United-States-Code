@@ -82,7 +82,7 @@ Sec. 4. <i>HEU Agreement Oversight</i>. The EOC shall form an HEU Agreement Over
 
 Sec. 5. <i>Foreign Ownership, Control, or Influence (FOCI)</i>. The EOC shall collect information and monitor issues relating to foreign ownership, control, or influence of the USEC or any successor entities. Specifically, the EOC shall:
 
-(a) monitor the application and enforcement of the FOCI requirements of the National Industrial Security Program established by Executive Order 12829 \[50 U.S.C. 435 note\] with respect to the USEC and any successor entities (<i>see</i> National Industrial Security Program Operating Manual, Department of Defense 2–3 (Oct. 1994));
+(a) monitor the application and enforcement of the FOCI requirements of the National Industrial Security Program established by Executive Order 12829 \[50 U.S.C. 435 note\] with respect to the USEC and any successorentities (<i>see</i> National Industrial Security Program Operating Manual, Department of Defense 2–3 (Oct. 1994));
 
 (b) monitor and review reports and submissions relating to FOCI issues made by the USEC or any successor entity to the Nuclear Regulatory Commission (NRC) under the Atomic Energy Act of 1954, 42 U.S.C. 2011 <i>et seq</i>. (1994), and the USEC Privatization Act, Public Law 104–134, title III, 110 Stat. 1321–335 <i>et seq</i>. (1996) \[42 U.S.C. 2297h et seq.\];
 

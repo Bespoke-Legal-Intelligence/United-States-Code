@@ -28,7 +28,3 @@ In any countercyclical efforts undertaken, the President shall consider a trigge
 
 (Pub. L. 95–523, title II, §202, Oct. 27, 1978, 92 Stat. 1900.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3113, 3116 of this title.
-

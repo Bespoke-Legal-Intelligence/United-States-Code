@@ -13,10 +13,6 @@
 
 2002—Pub. L. 107–314, div. A, title VIII, §825(b)(3)(G), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, §210(h)(3)(H), Dec. 17, 2002, 116 Stat. 2939, amended item for chapter 115 identically, substituting “PROGRAM” for “PROGRAMS”.
 
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in title 5 sections 9505, 9508; title 10 section 2315; title 38 section 310; title 44 sections 3504, 3505, 3534, 3544, 3602.
-
 
 ---
 

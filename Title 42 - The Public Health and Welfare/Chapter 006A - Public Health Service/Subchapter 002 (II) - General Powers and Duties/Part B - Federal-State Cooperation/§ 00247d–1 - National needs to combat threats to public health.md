@@ -38,7 +38,3 @@ There are authorized to be appropriated to carry out this section $4,000,000 for
 
 2002—Subsec. (a)(1). Pub. L. 107–188 substituted “five years” for “10 years”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 247d–2, 247d–3, 247d–4, 247d–7c, 300hh, 300hh–11 of this title.
-

@@ -32,7 +32,7 @@ Capital project.—The term “capital project” means a project for—
 
 &emsp;(2)
 
-Chief executive officer of a state.—The term “chief executive officer of a State”includes the designee of the chief executive officer.
+Chief executive officer of a state.—The term “chief executive officer of a State” includes the designee of the chief executive officer.
 
 &emsp;(3)
 
@@ -279,8 +279,4 @@ Section 6(c) of Pub. L. 104–287 provided that the amendment made by that secti
 #### Effective Date of 1995 Amendment
 
 Section 333(b) of Pub. L. 104–50 provided that: “The amendments made by this section \[amending this section\] shall not take effect before March 31, 1996.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5307, 5336, 10501 of this title; title 18 section 1993.
 

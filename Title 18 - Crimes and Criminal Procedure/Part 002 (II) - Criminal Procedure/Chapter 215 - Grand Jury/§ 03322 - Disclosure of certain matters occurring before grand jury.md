@@ -42,7 +42,7 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (a)(2) and (d)(
 
 #### Prior Provisions
 
-A prior section 3322, act June 25, 1948, ch. 645, 62 Stat. 829, related to the summoning of and number of grand jurors, prior to repeal by Pub. L. 101–73, §964(a). See Rule 6(a) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
+A prior section 3322, act June 25, 1948, ch. 645, 62 Stat. 829, related to the summoning of and number of grandjurors, prior to repeal by Pub. L. 101–73, §964(a). See Rule 6(a) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
 
 #### Amendments
 
@@ -59,8 +59,4 @@ Subsec. (b)(2). Pub. L. 106–102, §740(2), inserted “at any time during or a
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1345 of this title.
 

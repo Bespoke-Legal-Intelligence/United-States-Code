@@ -10,7 +10,3 @@ In any action brought by a foreign state, or in which a foreign state intervenes
 
 (Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2894.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1330, 1604, 1605, 1606 of this title.
-

@@ -18,7 +18,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 &emsp;&emsp;&emsp;(iii) improves access to hospital and other health services for rural residents of the State; and
 
-&emsp;&emsp;(B) has developed the rural health care plan described in subparagraph (A) in consultation with the hospital association of the State, rural hospitals located in the State, and the State Office of Rural Health (or, in the case of a State in the process of developing such plan, that assures the Secretary that the State will consult with its State hospital association, rural hospitalslocated in the State, and the State Office of Rural Health in developing such plan);
+&emsp;&emsp;(B) has developed the rural health care plan described in subparagraph (A) in consultation with the hospital association of the State, rural hospitals located in the State, and the State Office of Rural Health (or, in the case of a State in the process of developing such plan, that assures the Secretary that the State will consult with its State hospital association, rural hospitals located in the State, and the State Office of Rural Health in developing such plan);
 
 &emsp;(2) assurances that the State has designated (consistent with the rural health care plan described in paragraph (1)(A)), or is in the process of so designating, rural nonprofit or public hospitals or facilities located in the State as critical access hospitals; and
 
@@ -186,7 +186,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (A) Grants to hospitals
 
-&emsp;&emsp;The Secretary may award grants to hospitals that have submitted applications in accordance with subparagraph (C) to assisteligible small rural hospitals in meeting the costs of implementing data systems required to meet requirements established under the medicare program pursuant to amendments made by the Balanced Budget Act of 1997.
+&emsp;&emsp;The Secretary may award grants to hospitals that have submitted applications in accordance with subparagraph (C) to assist eligible small rural hospitals in meeting the costs of implementing data systems required to meet requirements established under the medicare program pursuant to amendments made by the Balanced Budget Act of 1997.
 
 #### (B) Eligible small rural hospital defined
 
@@ -260,11 +260,11 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (i) Waiver of conflicting part A provisions
 
-The Secretary is authorized to waive such provisions of this part and part E of this subchapter as are necessary to conduct the program established under this section.
+The Secretary is authorized to waive such provisions of this part and part E of this subchapteras are necessary to conduct the program established under this section.
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund formaking grants to all States under subsection (g) of this section, $25,000,000 in each of the fiscal years 1998 through 2002, and for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008.
+There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g) of this section, $25,000,000 in each of the fiscal years 1998 through 2002, and for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33, title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(a), title IV, §§401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, 1501A–369, 1501A–370, 1501A–375; Pub. L. 108–173, title I, §101(e)(1), title IV, §405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, 117 Stat. 2150, 2267–2269.)
 
@@ -326,7 +326,7 @@ Subsec. (f)(1)(F). Pub. L. 103–432, §102(a)(1), amended subpar. (F) generally
 
 Subsec. (f)(1)(H). Pub. L. 103–432, §102(f), inserted before period at end “, except that in determining whether a facility meets the requirements of this subparagraph, subparagraphs (E) and (F) of that paragraph shall be applied as if any reference to a ‘physician’ is a reference to a physician as defined in section 1395x(r)(1) of this title”.
 
-Subsec. (f)(3). Pub. L. 103–432, §102(c), substituted “because, at the time the facility applies to the State for designation as a rural primary care hospital, there is in effect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities are used for the furnishing of extended care services, except that the number of beds used for the furnishing of such services may not exceed the total number of licensed inpatient beds at the time the facility applies to the State for such designation (minus the number of inpatient beds used for providing inpatient care pursuant to paragraph (1)(F)). For purposes of the previous sentence, the number of beds of the facility used for the furnishing of extended care services shall not include any beds of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a rural primary care hospital.” for “because the facility has entered into an agreement with the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities may be used for the furnishing of extended care services.”
+Subsec. (f)(3). Pub. L. 103–432, §102(c), substituted “because, at the time the facility applies to the State for designation as a rural primary care hospital, there is in effect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities are used for the furnishing of extended care services, except that the number of beds used for the furnishing of such services may not exceed the total number of licensed inpatient beds at the time the facility applies to the State for such designation (minus the number of inpatient beds used for providing inpatient care pursuant to paragraph (1)(F)). For purposes of the previous sentence, the number of beds of the facility used for the furnishing of extended care services shall not include any beds of a unit of the facility that is licensed as a distinct-part skillednursing facility at the time the facility applies to the State for designation as a rural primary care hospital.” for “because the facility has entered into an agreement with the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities may be used for the furnishing of extended care services.”
 
 Subsec. (f)(4). Pub. L. 103–432, §102(a)(2), added par. (4).
 
@@ -418,13 +418,9 @@ Initial period.—Subject to clause (ii), the transition period described in thi
 
 &emsp;“(ii)
 
-Extension.—If the Secretary determines that the transition is not complete as of October 1, 1998, the Secretary shall provide for an appropriate extension of the transition period.”
+Extension.—If the Secretary determines that the transition is not complete as of October 1, 1998,the Secretary shall provide for an appropriate extension of the transition period.”
 
 #### GAO Reports
 
-Section 102(a)(4) of Pub. L. 103–432 directed Comptroller General to submit to Congress, not later than 2years after Oct. 31, 1994, reports on application of requirements under subsec. (f) of this section that rural primary care hospitals provide inpatient care only to those individuals whose attending physicians certify may reasonably be expected to be discharged within 72 hours after admission and maintain average length of inpatient stay during a year that does not exceed 72 hours, and extent to which such requirements have resulted in such hospitals providing inpatient care beyond their capabilities or have limited ability of such hospitals to provide needed services.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395f, 1395x, 1395ww of this title.
+Section 102(a)(4) of Pub. L. 103–432 directed Comptroller General to submit to Congress, not later than 2 years after Oct. 31, 1994, reports on application of requirements under subsec. (f) of this section that rural primary care hospitals provide inpatient care only to those individuals whose attending physicians certify may reasonably be expected to be discharged within 72 hours after admission and maintain average length of inpatient stay during a year that does not exceed 72 hours, and extent to which such requirements have resulted in such hospitals providing inpatient care beyond their capabilities or have limited ability of such hospitals to provide needed services.
 

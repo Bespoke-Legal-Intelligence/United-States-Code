@@ -1,8 +1,14 @@
 ### §3133. Coordination
 
-The Secretary shall coordinate activities relating to the preparation and implementation of comprehensive economic development strategies under this chapter with Federal agencies carrying out other Federal programs, States, economic development districts, and other appropriate planning and development organizations.
+#### (a) In general
 
-(Pub. L. 89–136, title I, §103, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3601.)
+The Secretary shall coordinate activities relating to the preparation and implementation of comprehensive economic development strategies under this chapter with Federal agencies carrying out other Federal programs, States, economic development districts, Indian tribes, and other appropriate planning and development organizations.
+
+#### (b) Meetings
+
+To carry out subsection (a) of this section, or for any other purpose relating to economic development activities, the Secretary may convene meetings with Federal agencies, State and local governments, economic development districts, Indian tribes, and other appropriate planning and development organizations.
+
+(Pub. L. 89–136, title I, §103, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3601; amended Pub. L. 108–373, title I, §104, Oct. 27, 2004, 118 Stat. 1759.)
 
 #### Prior Provisions
 
@@ -17,4 +23,8 @@ Section 3135, Pub. L. 89–136, title I, §105, Aug. 26, 1965, 79 Stat. 554; Pub
 Section 3136, Pub. L. 89–136, title I, §106, Aug. 26, 1965, 79 Stat. 554; 1966 Reorg. Plan No. 2, §1(h)(3), eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; 1970 Reorg. Plan No. 3, §2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, conditioned use of financial assistance for sewer or other waste disposal facilities upon certification by Administrator of Environmental Protection Agency.
 
 Section 3137, Pub. L. 89–136, title I, §107, as added Pub. L. 94–487, title I, §106, Oct. 12, 1976, 90 Stat. 2332, authorized increase in amount of grant for construction cost increases after grant had been made.
+
+#### Amendments
+
+2004—Pub. L. 108–373 designated existing provisions as subsec. (a), inserted heading, inserted “Indian tribes,” after “districts,”, and added subsec. (b).
 

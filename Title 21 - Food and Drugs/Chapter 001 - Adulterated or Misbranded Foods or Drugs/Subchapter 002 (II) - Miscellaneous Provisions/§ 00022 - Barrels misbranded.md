@@ -8,7 +8,3 @@ Second. If the barrel bears any statement, design, or device indicating that the
 
 (Aug. 3, 1912, ch. 273, §5, 37 Stat. 251.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 21, 23 of this title.
-

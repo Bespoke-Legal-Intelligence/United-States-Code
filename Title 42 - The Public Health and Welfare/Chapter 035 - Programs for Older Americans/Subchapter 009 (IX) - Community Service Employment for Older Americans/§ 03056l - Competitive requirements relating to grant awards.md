@@ -98,7 +98,7 @@ The Secretary shall select the eligible applicants to receive grants under subse
 
 #### (C) After second year of failure
 
-&emsp;&emsp;If a grantee fails to meet the national performance measures for a second consecutive program year, the Secretary shall conduct a national competition to award, for the first full program year following the determination (minimizing, to the extent possible, the disruption of services provided to enrollees), an amount equal to 25 percent of the funds awarded to the grantee for such year.
+&emsp;&emsp;If a grantee fails to meet the national performance measures for a second consecutiveprogram year, the Secretary shall conduct a national competition to award, for the first full program year following the determination (minimizing, to the extent possible, the disruption of services provided to enrollees), an amount equal to 25 percent of the funds awarded to the grantee for such year.
 
 #### (D) Competition after third consecutive year of failure
 
@@ -155,8 +155,4 @@ The Secretary shall select the eligible applicants to receive grants under subse
 #### References in Text
 
 The Debt Collection Improvement Act of 1996, referred to in subsec. (d)(6), is section 31001 of title III of Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321–358. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 3701 of Title 31, Money and Finance, and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3056, 3056d, 3056k of this title.
 

@@ -4,7 +4,3 @@ There is granted to the United States and its assigns, including its successors 
 
 (Mar. 14, 1940, ch. 51, §1, 54 Stat. 49.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 597b, 597c, 597d of this title.
-

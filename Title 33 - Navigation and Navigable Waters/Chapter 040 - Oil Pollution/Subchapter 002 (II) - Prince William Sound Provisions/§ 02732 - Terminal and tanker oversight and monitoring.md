@@ -212,7 +212,7 @@
 
 #### (1) Technical Oil Spill Committee
 
-&emsp;Each Council shall establish a standing technical committee (hereinafter referred to as“Oil Spill Committee”) to review and assess measures designed to prevent oil spills and the planning and preparedness for responding to, containing, cleaning up, and mitigating impacts of oil spills. The membership of the Oil Spill Committee shall be made up of members of the Council, citizens, and recognized technical experts selected by the Council.
+&emsp;Each Council shall establish a standing technical committee (hereinafter referred to as “Oil Spill Committee”) to review and assess measures designed to prevent oil spills and the planning and preparedness for responding to, containing, cleaning up, and mitigating impacts of oil spills. The membership of the Oil Spill Committee shall be made up of members of the Council, citizens, and recognized technical experts selected by the Council.
 
 #### (2) Duties
 
@@ -228,7 +228,7 @@
 
 &emsp;&emsp;(E) monitor developments in oil spill prevention, containment, response, and cleanup technology;
 
-&emsp;&emsp;(F) periodically review port organization, operations, incidents, and the adequacy and maintenance of vessel traffic service systems designed to assure safe transit of crude oil tankers pertinent to terminal operations;
+&emsp;&emsp;(F) periodically review port organization, operations, incidents, and the adequacy andmaintenance of vessel traffic service systems designed to assure safe transit of crude oil tankers pertinent to terminal operations;
 
 &emsp;&emsp;(G) periodically review the standards for tankers bound for, loading at, exiting from, or otherwise using the terminal facilities;
 
@@ -276,7 +276,7 @@ Appointments, designations, and selections of individuals to serve as members of
 
 #### (3) Cook Inlet Program
 
-&emsp;The owners or operators of terminal facilities, offshore facilities, or crude oil tankersoperating in Cook Inlet shall provide, on an annual basis, an aggregate amount of not more than $1,000,000, as determined by the Secretary. Such amount—
+&emsp;The owners or operators of terminal facilities, offshore facilities, or crude oil tankers operating in Cook Inlet shall provide, on an annual basis, an aggregate amount of not more than $1,000,000, as determined by the Secretary. Such amount—
 
 &emsp;&emsp;(A) shall provide for the establishment and operation of the environmental oversight and monitoring program in Cook Inlet;
 
@@ -341,6 +341,10 @@ The requirements of subsections (c) through (<i>l</i>) of this section, as such 
 &emsp;With respect to the Cook Inlet Program, the terminal facilities, offshore facilities, or crude oil tanker owners and operators enter into a contract with a voluntary advisory organization to fund that organization on an annual basis and the President annually certifies that the organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Cook Inlet.
 
 (Pub. L. 101–380, title V, §5002, Aug. 18, 1990, 104 Stat. 544.)
+
+#### Change of Name
+
+General Accounting Office redesignated Government Accountability Office by section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
 
 #### Transfer of Functions
 

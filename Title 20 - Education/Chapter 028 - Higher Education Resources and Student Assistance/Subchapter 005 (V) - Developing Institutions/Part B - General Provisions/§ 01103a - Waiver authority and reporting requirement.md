@@ -26,7 +26,7 @@ The Secretary may waive the requirements set forth in section 1101a(a)(2)(A)(i) 
 
 &emsp;&emsp;(A) identify the factors referred to in paragraph (1) that were considered by the Secretary as factors that distorted the determination of compliance with clauses (i) and (ii) of section 1101a(a)(2)(A) of this title; and
 
-&emsp;&emsp;(B) contain a list of each institution determined to be an eligible institution underpart A of this subchapter including a statement of the reasons for each such determination.
+&emsp;&emsp;(B) contain a list of each institution determined to be an eligible institution under part A of this subchapter including a statement of the reasons for each such determination.
 
 (Pub. L. 89–329, title V, §512, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1772.)
 
@@ -37,8 +37,4 @@ A prior section 1103a, Pub. L. 89–329, title V, §512, as added Pub. L. 102–
 Another prior section 1103a, Pub. L. 89–329, title V, §512, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1496, related to selection procedures for grants to institutions offering midcareer teacher training for nontraditional students, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 A prior section 512 of Pub. L. 89–329 was classified to section 1102 of this title prior to repeal by Pub. L. 97–35.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1101a of this title.
 

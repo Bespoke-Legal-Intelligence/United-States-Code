@@ -26,7 +26,7 @@
 
 &emsp;(I) the Secretary determines that the transferor of the property is unable to make payments on the loan and has made reasonable efforts to find a buyer who meets the requirements of paragraph (1)(B) of this subsection and that, as a result, the proposed transfer is in the best interests of the Department and the transferor;
 
-&emsp;(II) the transferor has requested, within 15 days after receiving the notice referred to in subparagraph (A) of this paragraph, that the Secretary approve the assumption; and
+&emsp;(II) the transferor has requested, within 15 days after receiving the notice referred to insubparagraph (A) of this paragraph, that the Secretary approve the assumption; and
 
 &emsp;(III) the transferor will, upon assumption of the loan by the purchaser, be secondarily liable on the loan.
 
@@ -38,7 +38,7 @@
 
 > the holder may demand immediate, full payment of the principal, and all interest earned thereon, of such loan if the transferor disposes of the property.
 
-(b) If a person disposes of residential property described in subsection (a)(1) of this section andthe person fails to notify the holder of the loan before the property is disposed of, the holder, upon learning of such action by the person, may demand immediate and full payment of the principal, interest, and all other amounts owing under the terms of the loan.
+(b) If a person disposes of residential property described in subsection (a)(1) of this section and the person fails to notify the holder of the loan before the property is disposed of, the holder, upon learning of such action by the person, may demand immediate and full payment of the principal, interest, and all other amounts owing under the terms of the loan.
 
 (c)(1) In any case in which the holder of a loan described in subsection (a)(1) of this section has knowledge of a person's disposing of residential property securing the loan, the holder shall notify the Secretary of such action.
 
@@ -83,8 +83,4 @@ Subsec. (f)(1)(A). Pub. L. 102–83, §5(c)(1), substituted “3733(a)(1)” for
 Subsec. (a)(1). Pub. L. 100–689, §302(1), substituted “Except as provided in subsection (f) of this section, if” for “If” and “loan guaranteed, insured, or made” for “guaranteed, insured, or direct housing loan obtained by a veteran”.
 
 Subsec. (f). Pub. L. 100–689, §302(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “This section shall apply only to loans for which commitments are made on or after March 1, 1988.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3704, 3729 of this title.
 

@@ -1,6 +1,6 @@
 ### §151. Purposes of chapter; Federal Communications Commission created
 
-For the purpose of regulating interstate and foreign commerce in communication by wire and radio so as to make available, so far as possible, to all the people of the United States, without discrimination on the basis of race, color, religion, national origin, or sex, a rapid, efficient, Nation-wide, and world-wide wire and radio communication service with adequate facilities at reasonable charges, for the purpose ofthe national defense, for the purpose of promoting safety of life and property through the use of wire and radio communications, and for the purpose of securing a more effective execution of this policy by centralizing authority heretofore granted by law to several agencies and by granting additional authority with respect to interstate and foreign commerce in wire and radio communication, there is created a commission to be known as the “Federal Communications Commission”, which shall be constituted as hereinafter provided, and which shall execute and enforce the provisions of this chapter.
+For the purpose of regulating interstate and foreign commerce in communication by wire and radio so as to make available, so far as possible, to all the people of the United States, without discrimination on the basis of race, color, religion, national origin, or sex, a rapid, efficient, Nation-wide, and world-wide wire and radio communication service with adequate facilities at reasonable charges, for the purpose of the national defense, for the purpose of promoting safety of life and property through the use of wire and radio communications, and for the purpose of securing a more effective execution of this policy by centralizing authority heretofore granted by law to several agencies and by granting additional authority with respect to interstate and foreign commerce in wire and radio communication, there is created a commission to be known as the “Federal Communications Commission”, which shall be constituted as hereinafter provided, and which shall execute and enforce the provisions of this chapter.
 
 (June 19, 1934, ch. 652, title I, §1, 48 Stat. 1064; May 20, 1937, ch. 229, §1, 50 Stat. 189; Pub. L. 104–104, title I, §104, Feb. 8, 1996, 110 Stat. 86.)
 
@@ -16,7 +16,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 #### Moratorium on Internet Taxes
 
-Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as amended by Pub. L. 107–75, §2, Nov. 28, 2001, 115 Stat. 703, provided that:
+Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as amended by Pub. L. 107–75, §2, Nov. 28, 2001, 115 Stat. 703; Pub. L. 108–435, §§2–6A, Dec. 3, 2004, 118 Stat. 2615–2618, provided that:
 
 #### “SEC. 1100. SHORT TITLE.
 
@@ -26,11 +26,11 @@ Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as ame
 
 “(a)
 
-Moratorium.—No State or political subdivision thereof shall impose any of the following taxes during the period beginning on October 1, 1998, and ending on November 1, 2003—
+Moratorium.—No State or political subdivision thereof may impose any of the following taxes duringthe period beginning November 1, 2003, and ending November 1, 2007:
 
-&emsp;“(1) taxes on Internet access, unless such tax was generally imposed and actually enforced prior to October 1, 1998; and
+&emsp;“(1) Taxes on Internet access.
 
-&emsp;“(2) multiple or discriminatory taxes on electronic commerce.
+&emsp;“(2) Multiple or discriminatory taxes on electronic commerce.
 
 “(b)
 
@@ -41,14 +41,6 @@ Preservation of State and Local Taxing Authority.—Except as provided in this s
 Liabilities and Pending Cases.—Nothing in this title affects liability for taxes accrued and enforced before the date of enactment of this Act, nor does this title affect ongoing litigation relating to such taxes.
 
 “(d)
-
-Definition of Generally Imposed and Actually Enforced.—For purposes of this section, a tax has been generally imposed and actually enforced prior to October 1, 1998, if, before that date, the tax was authorized by statute and either—
-
-&emsp;“(1) a provider of Internet access services had a reasonable opportunity to know by virtue of a rule or other public proclamation made by the appropriate administrative agency of the State or political subdivision thereof, that such agency has interpreted and applied such tax to Internet access services; or
-
-&emsp;“(2) a State or political subdivision thereof generally collected such tax on charges for Internet access.
-
-“(e)
 
 Exception to Moratorium.—
 
@@ -100,7 +92,7 @@ Internet.—The term ‘Internet’ means collectively the myriad of computer an
 
 &emsp;&emsp;“(D)
 
-Internet access service.—The term ‘Internet access service’ means a service that enablesusers to access content, information, electronic mail, or other services offered over the Internet and may also include access to proprietary content, information, and other services as part of a package of services offered to consumers. Such term does not include telecommunications services.
+Internet access service.—The term ‘Internet access service’ means a service that enables users to access content, information, electronic mail, or other services offered over the Internet and may also include access to proprietary content, information, and other services as part of a package of services offered to consumers. The term ‘Internet access service’ does not include telecommunications services, except to the extent such services are purchased, used, or sold by a provider of Internet access to provide Internet access.
 
 &emsp;&emsp;“(E)
 
@@ -124,7 +116,7 @@ Minor.—The term ‘minor’ means any person under 17 years of age.
 
 Telecommunications carrier; telecommunications service.—The terms ‘telecommunications carrier’ and ‘telecommunications service’ have the meanings given such terms in section 3 of the Communications Act of 1934 (47 U.S.C. 153).
 
-“(f)
+“(e)
 
 Additional Exception to Moratorium.—
 
@@ -270,9 +262,71 @@ National Tax Association Communications and Electronic Commerce Tax Project.—T
 
 #### “SEC. 1103. REPORT.
 
-“Not later than 18 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Commission shall transmit to Congress for its consideration a report reflecting the results, including such legislative recommendations as required to address the findings of the Commission's study under this title. Any recommendation agreed to by the Commission shall be tax and technologically neutral and apply to all forms of remote commerce. No finding or recommendation shall be included in the report unless agreed to by at least two-thirds of the members of the Commission serving at the time the finding or recommendation is made.
+“Not later than 18 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Commission shalltransmit to Congress for its consideration a report reflecting the results, including such legislative recommendations as required to address the findings of the Commission's study under this title. Any recommendation agreed to by the Commission shall be tax and technologically neutral and apply to all forms of remote commerce. No finding or recommendation shall be included in the report unless agreed to by at least two-thirds of the members of the Commission serving at the time the finding or recommendation is made.
 
-#### “SEC. 1104. DEFINITIONS.
+#### “SEC. 1104. GRANDFATHERING OF STATES THAT TAX INTERNET ACCESS.
+
+“(a)
+
+Pre-October 1998
+
+Taxes.—
+
+&emsp;“(1)
+
+In general.—Section 1101(a) does not apply to a tax on Internet access that was generally imposed and actually enforced prior to October 1, 1998, if, before that date—
+
+&emsp;&emsp;“(A) the tax was authorized by statute; and
+
+&emsp;&emsp;“(B) either—
+
+&emsp;&emsp;&emsp;“(i) a provider of Internet access services had a reasonable opportunity to know, by virtue of a rule or other public proclamation made by the appropriate administrative agency of the State or political subdivision thereof, that such agency has interpreted and applied such tax to Internet access services; or
+
+&emsp;&emsp;&emsp;“(ii) a State or political subdivision thereof generally collected such tax on charges for Internet access.
+
+&emsp;“(2)
+
+Termination.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided in subparagraph (B), this subsection shall not apply after November 1, 2007.
+
+&emsp;&emsp;“(B)
+
+State telecommunications service tax.—
+
+&emsp;&emsp;&emsp;“(i)
+
+Date for termination.—This subsection shall not apply after November 1, 2006, with respect to a State telecommunications service tax described in clause (ii).
+
+&emsp;&emsp;&emsp;“(ii)
+
+Description of tax.—A State telecommunications service tax referred to in subclause (i) is a State tax—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) enacted by State law on or after October 1, 1991, and imposing a tax on telecommunications service; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) applied to Internet access through administrative code or regulation issued on or after December 1, 2002.
+
+“(b)
+
+Pre-November 2003
+
+Taxes.—
+
+&emsp;“(1)
+
+In general.—Section 1101(a) does not apply to a tax on Internet access that was generally imposed and actually enforced as of November 1, 2003, if, as of that date, the tax was authorized by statute and—
+
+&emsp;&emsp;“(A) a provider of Internet access services had a reasonable opportunity to know by virtue of a public rule or other public proclamation made by the appropriate administrative agency of the State or political subdivision thereof, that such agency has interpreted and applied such tax to Internet access services; and
+
+&emsp;&emsp;“(B) a State or political subdivision thereof generally collected such tax on charges for Internet access.
+
+&emsp;“(2)
+
+Termination.—This subsection shall not apply after November 1, 2005.
+
+#### “SEC. 1105. DEFINITIONS.
 
 “For the purposes of this title:
 
@@ -296,7 +350,7 @@ Discriminatory tax.—The term ‘discriminatory tax’ means—
 
 &emsp;&emsp;“(B) any tax imposed by a State or political subdivision thereof, if—
 
-&emsp;&emsp;&emsp;“(i) except with respect to a tax (on Internet access) that was generally imposed and actually enforced prior to October 1, 1998, the sole ability to access a site on a remote seller's out-of-State computer server is considered a factor in determining a remote seller's tax collection obligation; or
+&emsp;&emsp;&emsp;“(i) the sole ability to access a site on a remote seller's out-of-State computer server is considered a factor in determining a remote seller's tax collection obligation; or
 
 &emsp;&emsp;&emsp;“(ii) a provider of Internet access service or online services is deemed to be the agent of a remote seller for determining tax collection obligations solely as a result of—
 
@@ -314,7 +368,7 @@ Internet.—The term ‘Internet’ means collectively the myriad of computer an
 
 &emsp;“(5)
 
-Internet access.—The term ‘Internet access’ means a service that enables users to access content, information, electronic mail, or other services offered over the Internet, and may also include access to proprietary content, information, and other services as part of a package of services offered to users. Such term does not include telecommunications services.
+Internet access.—The term ‘Internet access’ means a service that enables users to access content, information, electronic mail, or other services offered over the Internet, and may also include access to proprietary content, information, and other services as part of a package of services offered to users. The term ‘Internet access’ does not include telecommunications services, except to the extent such services are purchased, used, or sold by a provider of Internet access to provide Internet access.
 
 &emsp;“(6)
 
@@ -322,7 +376,7 @@ Multiple tax.—
 
 &emsp;&emsp;“(A)
 
-In general.—The term ‘multiple tax’ means any tax that is imposed by one State or political subdivision thereof on the same or essentially the same electronic commerce that is also subject to another tax imposed by another State or political subdivision thereof (whether or not at the samerate or on the same basis), without a credit (for example, a resale exemption certificate) for taxes paid in other jurisdictions.
+In general.—The term ‘multiple tax’ means any tax that is imposed by one State or political subdivision thereof on the same or essentially the same electronic commerce that is also subject to another tax imposed by another State or political subdivision thereof (whether or not at the same rate or on the same basis), without a credit (for example, a resale exemption certificate) for taxes paid in other jurisdictions.
 
 &emsp;&emsp;“(B)
 
@@ -358,7 +412,63 @@ Telecommunications service.—The term ‘telecommunications service’ has the 
 
 &emsp;“(10)
 
-Tax on internet access.—The term ‘tax on Internet access’ means a tax on Internet access, including the enforcement or application of any new or preexisting tax on the sale or use of Internet services unless such tax was generally imposed and actually enforced prior to October 1, 1998.”
+Tax on internet access.—
+
+&emsp;&emsp;“(A)
+
+In general.—The term ‘tax on Internet access’ means a tax on Internet access, regardless of whether such tax is imposed on a provider of Internet access or a buyer of Internet access and regardless of the terminology used to describe the tax.
+
+&emsp;&emsp;“(B)
+
+General exception.—The term ‘tax on Internet access’ does not include a tax levied upon or measured by net income, capital stock, net worth, or property value.
+
+#### “SEC. 1106. ACCOUNTING RULE.
+
+“(a)
+
+In General.—If charges for Internet access are aggregated with and not separately stated from charges for telecommunications services or other charges that are subject to taxation, then the charges for Internet access may be subject to taxation unless the Internet access provider can reasonably identify the charges for Internet access from its books and records kept in the regular course of business.
+
+“(b)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Charges for internet access.—The term ‘charges for Internet access’ means all charges for Internet access as defined in section 1105(5).
+
+&emsp;“(2)
+
+Charges for telecommunications services.—The term ‘charges for telecommunications services’ means all charges for telecommunications services, except to the extent such services are purchased, used, or sold by a provider of Internet access to provide Internet access.
+
+#### “SEC. 1107. EFFECT ON OTHER LAWS.
+
+“(a)
+
+Universal Service.—Nothing in this Act \[probably means “this title”\] shall prevent the imposition or collection of any fees or charges used to preserve and advance Federal universal service or similar State programs—
+
+&emsp;“(1) authorized by section 254 of the Communications Act of 1934 (47 U.S.C. 254); or
+
+&emsp;“(2) in effect on February 8, 1996.
+
+“(b) 911
+
+and E–911
+
+Services.—Nothing in this Act \[probably means “this title”\] shall prevent the imposition or collection, on a service used for access to 911 or E–911 services, of any fee or charge specifically designated or presented as dedicated by a State or political subdivision thereof for the support of 911 or E–911 services if no portion of the revenue derived from such fee or charge is obligated or expended for any purpose other than support of 911 or E–911 services.
+
+“(c)
+
+Non-Tax Regulatory Proceedings.—Nothing in this Act \[probably means “this title”\] shall be construed to affect any Federal or State regulatory proceeding that is not related to taxation.
+
+#### “SEC. 1108. EXCEPTION FOR VOICE SERVICES OVER THE INTERNET.
+
+“Nothing in this Act \[probably means “this title”\] shall be construed to affect the imposition of tax on a charge for voice or similar service utilizing Internet Protocol or any successor protocol. This section shall not apply to any services that are incidental to Internet access, such as voice-capable e-mail or instant messaging.
+
+#### “SEC. 1109. EXCEPTION FOR TEXAS MUNICIPAL ACCESS LINE FEE.
+
+“Nothing in this Act \[probably means “this title”\] shall prohibit Texas or a political subdivision thereof from imposing or collecting the Texas municipal access line fee pursuant to Texas Local Govt. Code Ann. ch. 283 (Vernon 2005) and the definition of access line as determined by the Public Utility Commission of Texas in its ‘Order Adopting Amendments to Section 26.465 As Approved At The February 13, 2003 Public Hearing’, issued March 5, 2003, in Project No. 26412.”
+
+\[Pub. L. 108–435, §8, Dec. 3, 2004, 118 Stat. 2619, provided that: “The amendments made by this Act \[amending title XI of div. C of Pub. L. 105–277, set out above\] take effect on November 1, 2003.”\]
 
 #### Stylistic Consistency
 
@@ -378,7 +488,7 @@ Pub. L. 97–259, title II, §202, Sept. 13, 1982, 96 Stat. 1099, provided that:
 
 #### Commission on Governmental Use of International Telecommunications
 
-Act July 29, 1954, ch. 647, 68 Stat. 587, established the Commission on Governmental Use of International Telecommunications to examine, study and report on the objectives, operations, and effectiveness of information programs with respect to the prompt development of techniques, methods, and programs for greatly expanded and far more effective operations in this vital area of foreign policy through the use of foreign telecommunications. The Commission was required to make a report of its findings and recommendations on or before Dec. 31, 1954, and the Commission ceased to exist 90 days after submission of its report to the Congress.
+Act July 29, 1954, ch. 647, 68 Stat. 587, established the Commission on Governmental Use of International Telecommunications to examine, study and report on the objectives, operations, and effectiveness of information programs with respect to the prompt developmentof techniques, methods, and programs for greatly expanded and far more effective operations in this vital area of foreign policy through the use of foreign telecommunications. The Commission was required to make a report of its findings and recommendations on or before Dec. 31, 1954, and the Commission ceased to exist 90 days after submission of its report to the Congress.
 
 #### Communication Privileges to Participants in World Telecommunication Conferences
 
@@ -387,8 +497,4 @@ Act May 13, 1947, ch. 51, 61 Stat. 83, provided that nothing in this chapter, or
 #### Executive Order No. 10460
 
 Ex. Ord. No. 10460, eff. June 18, 1953, 18 F.R. 3513, as amended by Ex. Ord. No. 10773, eff. July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, eff. Sept. 8, 1958, 23 F.R. 6971, which related to the performance of telecommunication functions by Director of the Office of Civil and Defense Mobilization, was revoked by section 4 of Ex. Ord. No. 10995, eff. Feb. 16, 1962, 27 F.R. 1519.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 225, 309, 332, 607, 925 of this title.
 

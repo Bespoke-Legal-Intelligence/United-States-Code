@@ -10,7 +10,7 @@ Wisconsin is divided into two judicial districts to be known as the Eastern and 
 
 ### Western District
 
-(b) The Western District comprises the counties of Adams, Ashland, Barron, Bayfield, Buffalo, Burnett, Chippewa, Clark, Columbia, Crawford, Dane, Douglas, Dunn, Eau Claire, Grant, Green, Iowa, Iron, Jackson, Jefferson,Juneau, La Crosse, Lafayette, Lincoln, Marathon, Monroe, Oneida, Pepin, Pierce, Polk, Portage, Price, Richland, Rock, Rusk, Saint Croix, Sauk, Sawyer, Taylor, Trempealeau, Vernon, Vilas, Washburn, and Wood.
+(b) The Western District comprises the counties of Adams, Ashland, Barron, Bayfield, Buffalo, Burnett, Chippewa, Clark, Columbia, Crawford, Dane, Douglas, Dunn, Eau Claire, Grant, Green, Iowa, Iron, Jackson, Jefferson, Juneau, La Crosse, Lafayette, Lincoln, Marathon, Monroe, Oneida, Pepin, Pierce, Polk, Portage, Price, Richland, Rock, Rusk, Saint Croix, Sauk, Sawyer, Taylor, Trempealeau, Vernon, Vilas, Washburn, and Wood.
 
 &emsp;&emsp;Court for the Western District shall be held at Eau Claire, La Crosse, Madison, Superior, and Wausau.
 

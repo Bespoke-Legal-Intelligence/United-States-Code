@@ -12,7 +12,7 @@
 
 &emsp;(2) a Federal magistrate judge orders the detention of the person before trial pursuant to section 3142(e), in which case the person shall be promptly removed to the United States for purposes of such detention;
 
-&emsp;(3) the person is entitled to, and does not waive, a preliminary examination under the Federal Rules of Criminal Procedure, in which case the person shall be removed to the United States in time for such examination;
+&emsp;(3) the person is entitled to, and does not waive, a preliminary examination under theFederal Rules of Criminal Procedure, in which case the person shall be removed to the United States in time for such examination;
 
 &emsp;(4) a Federal magistrate judge otherwise orders the person to be removed to the United States; or
 
@@ -23,8 +23,4 @@
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(3), are set out in the Appendix to this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3262 of this title.
 

@@ -18,7 +18,3 @@ Based on title 18, U.S.C., 1940 ed., §6 (Mar. 4, 1909, ch. 321, §6, 35 Stat. 1
 
 Section 3 of act July 24, 1956, provided that: “The foregoing amendments \[amending this section and section 2385 of this title\] shall apply only with respect to offenses committed on and after the date of the enactment of this Act \[July 24, 1956\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 8312; title 8 section 1481; title 38 section 6105; title 50 App. section 34.
-

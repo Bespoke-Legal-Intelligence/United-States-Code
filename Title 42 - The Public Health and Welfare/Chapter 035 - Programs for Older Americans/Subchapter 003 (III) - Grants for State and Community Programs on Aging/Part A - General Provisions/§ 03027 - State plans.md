@@ -194,7 +194,7 @@ Whenever the Assistant Secretary, after reasonable notice and opportunity for a 
 
 #### (e) Appeal
 
-(1) A State which is dissatisfied with a final action of the Assistant Secretary under subsection (b), (c), or (d) of this section may appeal to the United States court of appeals for the circuit in which the State is located, by filing a petition with such court within 30 days after such final action. A copy of the petition shall be forthwith transmitted by the clerk of the courtto the Assistant Secretary, or any officer designated by the Assistant Secretary for such purpose. The Assistant Secretary thereupon shall file in the court the record of the proceedings on which the Assistant Secretary's action is based, as provided in section 2112 of title 28.
+(1) A State which is dissatisfied with a final action of the Assistant Secretary under subsection (b), (c), or (d) of this section may appeal to the United States court of appeals for the circuit in which the State is located, by filing a petition with such court within 30 days after such final action. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Assistant Secretary, or any officer designated by the Assistant Secretary for such purpose. The Assistant Secretary thereupon shall file in the court the record of the proceedings on which the Assistant Secretary's action is based, as provided in section 2112 of title 28.
 
 (2) Upon the filing of such petition, the court shall have jurisdiction to affirm the action of the Assistant Secretary or to set it aside, in whole or in part, temporarily or permanently, but until the filing of the record, the Assistant Secretary may modify or set aside the Assistant Secretary's order. The findings of the Assistant Secretary as to the facts, if supported by substantial evidence, shall be conclusive, but the court, for good cause shown, may remand the case to the Assistant Secretary to take further evidence, and the Assistant Secretary shall, within 30 days, file in the court the record of those further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence. The judgment of the court affirming or setting aside, in whole or in part, any action of the Assistant Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
@@ -216,7 +216,7 @@ The Legal Services Corporation Act, referred to in subsec. (a)(11)(A), is title 
 
 A prior section 3027, Pub. L. 89–73, title III, §307, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 44, related to payment of grants or contracts, prior to the general amendment of this subchapter by Pub. L. 95–478. See section 3029 of this title.
 
-Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §305, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 41; Pub. L. 94–135, title I, §§106(a), (b), 114(e), Nov. 28, 1975, 89 Stat. 715, 725, which was classified to section 3025 of this title prior to repeal by Pub. L. 95–478.
+Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §305, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 41;Pub. L. 94–135, title I, §§106(a), (b), 114(e), Nov. 28, 1975, 89 Stat. 715, 725, which was classified to section 3025 of this title prior to repeal by Pub. L. 95–478.
 
 #### Amendments
 
@@ -230,7 +230,7 @@ Subsec. (a)(8), (9). Pub. L. 106–501, §306(3), added pars. (8) and (9) and st
 
 “(9) The plan shall provide for establishing and maintaining information and assistance services in sufficient numbers to assure that all older individuals in the State who are not furnished adequate information and assistance services under section 3026(a)(4) of this title will have reasonably convenient access to such services.”
 
-Subsec. (a)(10). Pub. L. 106–501, §306(4), added par. (10) and struck out former par. (10) which read as follows: “The plan shall provide that no supportive services, nutrition services, or in-home services (as defined in section 3030i of this title) will be directly provided by the State agency or an area agency on aging, except where, in the judgment of the State agency, provision of suchservices by the State agency or an area agency on aging is necessary to assure an adequate supply of such services, or where such services are directly related to such State or area agency on aging's administrative functions, or where such services of comparable quality can be provided more economically by such State or area agency on aging.”
+Subsec. (a)(10). Pub. L. 106–501, §306(4), added par. (10) and struck out former par. (10) which read as follows: “The plan shall provide that no supportive services, nutrition services, or in-home services (as defined in section 3030i of this title) will be directly provided by the State agency or an area agency on aging, except where, in the judgment of the State agency, provision of such services by the State agency or an area agency on aging is necessary to assure an adequate supply of such services, or where such services are directly related to such State or area agency on aging's administrative functions, or where such services of comparable quality can be provided more economically by such State or area agency on aging.”
 
 Subsec. (a)(11). Pub. L. 106–501, §306(5), (6), redesignated par. (15) as (11) and struck out former par. (11) which read as follows: “The plan shall provide that subject to the requirements of merit employment systems of State and local governments—
 
@@ -356,7 +356,7 @@ Subsec. (a)(7). Pub. L. 102–375, §307(c), designated existing provisions as s
 
 Subsec. (a)(8). Pub. L. 102–375, §904(a)(13)(A)(i), substituted “greatest economic need and older individuals with greatest social need” for “the greatest economic or social needs”.
 
-Pub. L. 102–375, §307(d), inserted at end “In conducting such evaluations and public hearings, the State agency shall solicit the views and experiences of entities that are knowledgable about the needs and concerns of low-income minority older individuals.”
+Pub. L. 102–375, §307(d), inserted at end “In conducting such evaluations and public hearings, the Stateagency shall solicit the views and experiences of entities that are knowledgable about the needs and concerns of low-income minority older individuals.”
 
 Subsec. (a)(9). Pub. L. 102–375, §102(b)(4), substituted “information and assistance” for “information and referral” in two places.
 
@@ -404,7 +404,7 @@ Subsec. (a)(18). Pub. L. 102–375, §307(j), inserted “(one of whom shall be 
 
 Subsec. (a)(20)(A). Pub. L. 102–375, §708(c)(4), substituted “section 3026(a)(2)(A) of this title” for “sections 3026(a)(2)(A) and 3026(a)(6)(P) of this title”.
 
-Subsec. (a)(21). Pub. L. 102–375, §307(k), amended par. (21) generally. Prior to amendment, par. (21) read asfollows: “The State plan shall provide that the State agency, from funds allotted under section 3024(a) of this title for part B of this subchapter and for paragraph (12) (relating to the State long-term care ombudsman) shall expend to carry out paragraph (12), for each fiscal year in which the allotment for part B of this subchapter for the State is not less than the allotment for fiscal year 1987 for part B of this subchapter for such State, an amount which is not less than the amount expended from funds received under this chapter by such State in fiscal year 1987 to carry out paragraph (12) as in effect before the effective date of the Older Americans Act Amendments of 1987. This paragraph shall not apply to American Samoa, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.”
+Subsec. (a)(21). Pub. L. 102–375, §307(k), amended par. (21) generally. Prior to amendment, par. (21) read as follows: “The State plan shall provide that the State agency, from funds allotted under section 3024(a) of this title for part B of this subchapter and for paragraph (12) (relating to the State long-term care ombudsman) shall expend to carry out paragraph (12), for each fiscal year in which the allotment for part B of this subchapter for the State is not less than the allotment for fiscal year 1987 for part B of this subchapter for such State, an amount which is not less than the amount expended from funds received under this chapter by such State in fiscal year 1987 to carry out paragraph (12) as in effect before the effective date of the Older Americans Act Amendments of 1987. This paragraph shall not apply to American Samoa, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.”
 
 Subsec. (a)(22). Pub. L. 102–375, §102(b)(10)(E), substituted “area agency on aging” for “area agency” in two places.
 
@@ -560,7 +560,7 @@ Subsec. (b)(2), (3). Pub. L. 97–115, §7(h), redesignated par. (3) as (2). For
 
 #### Effective Date of 1992 Amendment
 
-Amendment by sections 307 and 708(c)(4) of Pub. L. 102–375 inapplicable with respect to fiscal year 1993, seesection 4(b) of Pub. L. 103–171, set out as a note under section 3001 of this title.
+Amendment by sections 307 and 708(c)(4) of Pub. L. 102–375 inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as a note under section 3001 of this title.
 
 Amendment by sections 307 and 708(c)(4) of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section 905(b)(2), (6) of Pub. L. 102–375, set out as a note under section 3001 of this title.
 
@@ -579,10 +579,6 @@ Section 111 of Pub. L. 100–175 directed Commissioner on Aging, not later than 
 #### Study of Ombudsman Program
 
 Section 129(b) of Pub. L. 100–175 directed Commissioner on Aging, not later than Dec. 31, 1989, to conduct a study and submit a report to Congress concerning involvement in the ombudsman program established under 42 U.S.C. 3027(a)(12) and its impact upon issues and problems affecting residents of board and care facilities and other similar adult care homes who are older individuals as defined in 42 U.S.C. 3022(10), and the effectiveness of recruiting, supervising, and retaining volunteer ombudsmen.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395i–3, 1396r, 3002, 3011, 3012, 3017, 3021, 3024, 3025, 3026, 3029, 3030c–3, 3030d, 3030e, 3030f, 3030m, 3030s–1, 3032i, 3058d of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

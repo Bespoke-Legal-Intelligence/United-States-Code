@@ -56,7 +56,7 @@
 
 (3) Any payment received by an agency, the Secretary of the Senate, or the Chief Administrative Officer of the House of Representatives under this subsection shall be immediately remitted to the Office for deposit in the Treasury of the United States to the credit of the Fund.
 
-(4) The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, or the Secretary of Health and Human Services, as appropriate, shall furnish such information to the Office as the Office may determine to be necessary for the administration of this subsection.
+(4) The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, orthe Secretary of Health and Human Services, as appropriate, shall furnish such information to the Office as the Office may determine to be necessary for the administration of this subsection.
 
 (5) For the purpose of survivor annuities, deposits authorized by this subsection may also be made by a survivor of an employee or Member.
 
@@ -74,7 +74,7 @@
 
 &emsp;(B) the date on which the employee or Member making the deposit first becomes an employee or Member,
 
-> shall include interest on such amount computed and compounded annually beginning on the dateof the expiration of the 2-year period. The interest rate that is applicable in computing interest in any year under this paragraph shall be equal to the interest rate that is applicable for such year under section 8334(e).
+> shall include interest on such amount computed and compounded annually beginning on the date of the expiration of the 2-year period. The interest rate that is applicable in computing interest in any year under this paragraph shall be equal to the interest rate that is applicable for such year under section 8334(e).
 
 (3) The Director of the Peace Corps and the Chief Executive Officer of the Corporation for National and Community Service shall furnish such information to the Office of Personnel Management as the Office may determine to be necessary for the administration of this subsection.
 
@@ -100,7 +100,7 @@ The Economic Opportunity Act of 1964, referred to in subsec. (f)(1), is Pub. L. 
 
 Parts A, B, and C of title I of the Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(1), are classified to part A (§4951 et seq.), part B (§4971 et seq.), and part C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42.
 
-The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse.Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first dayafter the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans’ Benefits.
 
 #### Effective Date of 1993 Amendment
 
@@ -207,10 +207,6 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, and applicable with respec
 Pub. L. 105–261, div. C, title XXXI, §3154(i)(2), Oct. 17, 1998, 112 Stat. 2256, provided that: “Contributions under subsections (a) and (b) of section 8423 of title 5, United States Code, shall not be reduced as a result of that portion of the amendment made by paragraph (1) \[amending this section\] requiring employee deductions at a rate in excess of 7.5 percent for the period beginning on January 1, 1999, and ending on December 31, 2002.”
 
 Section 7001(b)(2) of Pub. L. 105–33 provided that: “Contributions under section 8423(a) and (b) of title 5, United States Code, shall not be reduced as a result of the amendments made under paragraph (1) \[amending this section\] of this subsection.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8401, 8411, 8415, 8423, 8468 of this title; title 2 sections 121b, 162b, 2064; title 10 section 942; title 22 section 4045; title 28 sections 611, 627; title 42 section 2297h–8; title 50 section 2152.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,3 @@ References to this section in subchapter II of chapter 14 of this title deemed t
 
 Act June 26, 1936, ch. 831, 49 Stat. 1967, as amended, which enacted this subchapter, is popularly known as the “Oklahoma Welfare Act” and the “Oklahoma Indian Welfare Act”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 458aaa–10, 1041e of this title.
-

@@ -32,7 +32,3 @@ The Secretary shall provide the Center assistance in obtaining such personnel, e
 
 (Pub. L. 89–665, title IV, §403, as added Pub. L. 102–575, title XL, §4022, Oct. 30, 1992, 106 Stat. 4766.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 470x–1 of this title.
-

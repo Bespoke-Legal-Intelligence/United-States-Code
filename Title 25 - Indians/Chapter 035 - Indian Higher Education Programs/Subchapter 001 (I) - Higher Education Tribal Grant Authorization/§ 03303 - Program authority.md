@@ -18,7 +18,3 @@ Grants provided under this subchapter may not be terminated, modified, suspended
 
 (Pub. L. 102–325, title XIII, §1313, July 23, 1992, 106 Stat. 798.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3304 of this title.
-

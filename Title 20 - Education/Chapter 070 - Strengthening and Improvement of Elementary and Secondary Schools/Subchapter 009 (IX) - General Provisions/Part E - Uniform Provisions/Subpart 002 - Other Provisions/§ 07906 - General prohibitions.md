@@ -34,7 +34,3 @@ The General Education Provisions Act, referred to in subsec. (b)(2), is title IV
 
 A prior section 7906, Pub. L. 89–10, title IX, §9206, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3800, authorized grants for a Native Hawaiian higher education program, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7861 of this title.
-

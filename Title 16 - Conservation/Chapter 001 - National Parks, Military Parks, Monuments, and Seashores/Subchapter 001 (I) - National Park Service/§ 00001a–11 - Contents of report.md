@@ -10,7 +10,3 @@ The report shall contain—
 
 (Pub. L. 101–628, title XII, §1215, Nov. 28, 1990, 104 Stat. 4508.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1a–9 of this title.
-

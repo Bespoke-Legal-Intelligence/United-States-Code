@@ -38,7 +38,7 @@
 
 (5) Any person who requests or receives from a person referred to in paragraph (1) of this subsection a subcontract under a Federal contract, a subgrant or contract under a Federal grant, a contract or subcontract to carry out any purpose for which a particular Federal loan is made, or a contract under a Federal cooperative agreement shall be required to file with the person referred to in such paragraph a written declaration referred to in clause (A) of such paragraph.
 
-(6) The Director of the Office of Management and Budget, after consulting with the Secretary of the Senate and the Clerk of the House of Representatives, shall issue guidance for agency implementation of, and compliance with, the requirements of this section.
+(6) The Director of the Office of Management and Budget, after consulting with the Secretaryof the Senate and the Clerk of the House of Representatives, shall issue guidance for agency implementation of, and compliance with, the requirements of this section.
 
 (c)(1) Any person who makes an expenditure prohibited by subsection (a) of this section shall be subject to a civil penalty of not less than $10,000 and not more than $100,000 for each such expenditure.
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(B) does not include an Indian tribe, tribal organization, or any other Indian organization eligible to receive Federal contracts, grants, cooperative agreements, or loans from an agency but only with respect to expenditures by such tribe or organization that are made for purposes specified in subsection (a) and are permitted by other Federal law.
 
-&emsp;(4) The term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, a territory or possession of the United States, an agency or instrumentality of a State, and a multi-State, regional, or interstate entity having governmental duties and powers.
+&emsp;(4) The term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, a territory or possession of the United States, an agency or instrumentality of a State, and a multi-State,regional, or interstate entity having governmental duties and powers.
 
 &emsp;(5) The term “local government” means a unit of government in a State and, if chartered, established, or otherwise recognized by a State for the performance of a governmental duty, the following entities:
 
@@ -209,8 +209,4 @@ Section 319(b) of Pub. L. 101–121 provided that the first report submitted und
 #### Notification of Compliance Date; Guidance for Agency Implementation
 
 Section 319(c) of Pub. L. 101–121 provided that: “The Director of the Office of Management and Budget shall notify the head of each agency that section 1352 of title 31, United States Code (as added by subsection (a)), is to be complied with commencing 60 days after the date of the enactment of this Act \[Oct. 23, 1989\]. Not later than 60 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall issue the guidance required by subsection (b)(7) \[now (b)(6)\] of such section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 4707; title 18 section 1913.
 

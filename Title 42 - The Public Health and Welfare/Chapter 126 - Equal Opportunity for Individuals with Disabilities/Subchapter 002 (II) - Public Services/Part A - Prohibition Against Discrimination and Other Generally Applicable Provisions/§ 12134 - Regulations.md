@@ -16,13 +16,9 @@ Regulations under subsection (a) of this section shall include standards applica
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–336, July 26,1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Effective Date
 
 Section effective July 26, 1990, see section 205(b) of Pub. L. 101–336, set out as a note under section 12131 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12209 of this title; title 2 section 1331; title 3 section 421.
 

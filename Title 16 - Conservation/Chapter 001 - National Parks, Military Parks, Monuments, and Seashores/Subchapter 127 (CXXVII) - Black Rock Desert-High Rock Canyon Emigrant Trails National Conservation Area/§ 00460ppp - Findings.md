@@ -10,7 +10,7 @@ The Congress finds the following:
 
 &emsp;(4) The Black Rock-High Rock region contains a number of cultural and natural resources that have been declared eligible for National Historic Landmark and Natural Landmark status, including a portion of the 1843–44 John Charles Fremont exploration route, the site of the death of Peter Lassen, early military facilities, and examples of early homesteading and mining.
 
-&emsp;(5) The archeological, paleontological, and geographical resources of the Black Rock-High Rock region include numerous prehistoric and historic Native American sites, wooly mammoth sites, some of the largest natural potholes of North America, and a remnant dry Pleistocene lakebed (playa) where the curvature of the Earth may be observed.
+&emsp;(5) The archeological, paleontological, and geographical resources of the Black Rock-High Rock region include numerous prehistoric and historic Native American sites, wooly mammoth sites, some of the largest natural potholes of North America, and a remnant dryPleistocene lakebed (playa) where the curvature of the Earth may be observed.
 
 &emsp;(6) The two large wilderness mosaics that frame the conservation area offer exceptional opportunities for solitude and serve to protect the integrity of the viewshed of the historic emigrant trails.
 

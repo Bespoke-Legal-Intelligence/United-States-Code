@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish a national education program which shall include, but not belimited to, the dissemination of the results of food and human nutrition research performed or funded by the Department of Agriculture.
+The Secretary shall establish a national education program which shall include, but not be limited to, the dissemination of the results of food and human nutrition research performed or funded by the Department of Agriculture.
 
 #### (b) Expansion of existing programs
 
@@ -26,7 +26,7 @@ Beginning with the fiscal year ending September 30, 1982—
 
 &emsp;(3) There is authorized to be appropriated to carry out the expanded food and nutrition education program established under section 343(d) of this title and this section, $83,000,000 for each of fiscal years 1996 through 2007.
 
-(Pub. L. 95–113, title XIV, §1425, Sept. 29, 1977, 91 Stat. 1000; Pub. L. 97–98, title XIV, §1423, Dec. 22, 1981, 95 Stat. 1307; Pub. L. 101–624, title XVII, §1776(b), Nov. 28, 1990, 104 Stat. 3814; Pub. L. 104–127, title VIII, §809, Apr. 4, 1996, 110 Stat. 1164; Pub. L. 105–185, title III, §301(a)(6), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7106, May 13, 2002, 116 Stat. 432.)
+(Pub. L. 95–113, title XIV, §1425, Sept. 29, 1977, 91 Stat. 1000; Pub. L. 97–98, title XIV, §1423, Dec. 22, 1981, 95 Stat. 1307; Pub. L. 101–624, title XVII,§1776(b), Nov. 28, 1990, 104 Stat. 3814; Pub. L. 104–127, title VIII, §809, Apr. 4, 1996, 110 Stat. 1164; Pub. L. 105–185, title III, §301(a)(6), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7106, May 13, 2002, 116 Stat. 432.)
 
 #### Amendments
 
@@ -49,8 +49,4 @@ Amendment by Pub. L. 101–624 effective Oct. 1, 1990, see section 1781(b)(1) of
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3175e of this title.
 

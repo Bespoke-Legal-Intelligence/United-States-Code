@@ -26,7 +26,3 @@ Section 394(g)(2) of Pub. L. 97–35 provided that: “The amendment made by par
 
 Amendment by section 396(d) of Pub. L. 97–35 effective on the day after the Final Government Equity Redemption Date (Dec. 31, 1981), see section 396(i) of Pub. L. 97–35, set out as a note under section 3011 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3012, 3017a, 3022 of this title.
-

@@ -10,7 +10,7 @@ Covered Activities.—(1) Except as provided in paragraph (2), financial assista
 
 &emsp;(A) the activity is carried out in the performance of a responsibility of the Secretary of the Army under paragraph (6), (10), or (11) of section 3013(b) of title 10; and
 
-&emsp;(B) the Army National Guard was selected to perform the activity under competitive procedures that permit all qualified public-sector and private-sector sources to submit offers and be considered for selection to perform the activity on the basis of the offers.
+&emsp;(B) the Army National Guard was selected to perform the activity under competitive procedures that permit all qualified public-sector and private-sector sources to submit offers and be considered for selection to perform the activity on the basis of the offers, subject to the exceptions provided in section 2304(c) of title 10.
 
 (2) Paragraph (1)(B) does not apply to an activity that, on October 17, 1998, was performed for the Federal Government by employees of the Federal Government or employees of a State.
 
@@ -22,9 +22,11 @@ Disbursement Through National Guard Bureau.—The Secretary of the Army shall di
 
 Availability of Funds.—Funds appropriated for the Army for a fiscal year are available for providing financial assistance under this section in support of activities carried out by the Army National Guard during that fiscal year.
 
-(Added Pub. L. 105–85, div. A, title III, §386(a), Nov. 18, 1997, 111 Stat. 1712; amended Pub. L. 105–261, div. A, title III, §375(a), Oct. 17, 1998, 112 Stat. 1992; Pub. L. 106–65, div. A, title X, §1066(d)(4), Oct. 5, 1999, 113 Stat. 773.)
+(Added Pub. L. 105–85, div. A, title III, §386(a), Nov. 18, 1997, 111 Stat. 1712; amended Pub. L. 105–261, div. A, title III, §375(a), Oct. 17, 1998, 112 Stat. 1992; Pub. L. 106–65, div. A, title X, §1066(d)(4), Oct. 5, 1999, 113 Stat. 773; Pub. L. 108–375, div. A, title VIII, §806, Oct. 28, 2004, 118 Stat. 2010.)
 
 #### Amendments
+
+2004—Subsec. (b)(1)(B). Pub. L. 108–375 inserted before period at end “, subject to the exceptions provided in section 2304(c) of title 10”.
 
 1999—Subsec. (b)(2). Pub. L. 106–65 substituted “October 17, 1998” for “the date of the enactment of this subsection”.
 

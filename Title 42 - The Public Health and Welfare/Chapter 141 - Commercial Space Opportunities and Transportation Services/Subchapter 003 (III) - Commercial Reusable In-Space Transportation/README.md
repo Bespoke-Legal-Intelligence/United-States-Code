@@ -2,7 +2,7 @@
 
 #### Codification
 
-This subchapter was enacted as part of the Commercial Reusable In-Space Transportation Act of 2002, and also as part of the Department of Defense Appropriations Act, 2003, and not as part of the Commerical Space Act of 1998, which comprises subchapters I and II of this chapter.
+This subchapter was enacted as part of the Commercial Reusable In-Space Transportation Act of 2002, and also as part of the Department of Defense Appropriations Act, 2003, and not as part of the Commercial Space Act of 1998, which comprises subchapters I and II of this chapter.
 
 
 ---

@@ -72,7 +72,3 @@ The Older Americans Act of 1965, referred to in subsec. (a)(1)(A)(iii), is Pub. 
 
 1992—Pub. L. 102–507 amended section generally. Prior to amendment, section read as follows: “The Director of the National Institute on Aging, through centers supported under section 285e–2 of this title, professional associations, and continuing education programs, shall conduct education and information dissemination activities concerning the special problems of individuals with Alzheimer's disease and their families. Such activities shall be designed to enhance the understanding of such problems by individuals who provide care for individuals with Alzheimer's disease and related dementias, including physicians, nurses, psychologists, social workers, occupational therapists, nursing home administrators, nurses, and health care aides.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11294 of this title.
-

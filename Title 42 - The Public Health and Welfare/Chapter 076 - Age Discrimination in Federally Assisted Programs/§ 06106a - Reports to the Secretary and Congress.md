@@ -4,7 +4,7 @@
 
 (b) Not later than March 31 of each year (beginning in 1980), the Secretary of Health and Human Services shall compile the reports made pursuant to subsection (a) of this section and shall submit them to the Congress, together with an evaluation of the performance of each department or agency with respect to carrying out the provisions of section 6102 of this title.
 
-(Pub. L. 94–135, title III, §308, as added Pub. L. 95–478, title IV, §401(e), Oct. 18, 1978, 92 Stat. 1556; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 94–135, title III, §308, as added Pub. L. 95–478, title IV, §401(e), Oct. 18, 1978, 92 Stat.1556; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### Prior Provisions
 

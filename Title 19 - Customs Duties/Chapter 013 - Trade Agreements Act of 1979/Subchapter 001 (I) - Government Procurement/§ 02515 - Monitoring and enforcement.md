@@ -98,7 +98,7 @@ Time sanctions are imposed.—Any sanction—
 
 Subsec. (f)(4). Pub. L. 103–465, §341(b)(2), substituted “subclause (I) or (II) of paragraph (3)(B)(i)” for “subparagraph (A) or (B) of paragraph (3)” in introductory provisions.
 
-Subsec. (g)(1). Pub. L. 103–465, §343(c)(1), in introductory provisions, substituted “(B), (C), (D), or (E)” for“(B) or (C)” and “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “their discriminatory procurement practices”.
+Subsec. (g)(1). Pub. L. 103–465, §343(c)(1), in introductory provisions, substituted “(B), (C), (D), or (E)” for “(B) or (C)” and “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “their discriminatory procurement practices”.
 
 Subsec. (g)(3). Pub. L. 103–465, §343(c)(2), substituted “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “discrimination identified pursuant to subsection (d)(2)(B) or (C) of this section”.
 
@@ -296,7 +296,7 @@ Legislative recommendations.—The general report may also include, if appropria
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement,referred to in section 3511(d)(17) of this title, enters into force with respect to the United States \[Jan. 1, 1995\], see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
+Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in section 3511(d)(17) of this title, enters into force with respect to the United States \[Jan. 1, 1995\], see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
 
 #### Termination Date of 1988 Amendment
 
@@ -311,8 +311,4 @@ Pub. L. 96–609, title II, §205, Dec. 28, 1980, 94 Stat. 3562, provided that: 
 #### Delegation of Functions
 
 Functions of President under subsec. (c) of this section delegated to United States Trade Representative, see section 1–201 of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under section 2511 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 24 section 225h; title 28 sections 1581, 2631, 2636, 2640; title 49 section 50102.
 

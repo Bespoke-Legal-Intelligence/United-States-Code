@@ -50,7 +50,7 @@ If any individual who has attained the age of 18 and is receiving benefits under
 
 > for so long as such person (i) would be eligible for such supplemental security income benefits, or such State supplementary payments (or payments of the type described in section 212(a) of Public Law 93–66), in the absence of benefits described in paragraph (1)(A), and (ii) is not entitled to hospital insurance benefits under part A of subchapter XVIII of this chapter.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1634, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1478; amended Pub. L. 99–272, title XII, §12202(a), Apr. 7, 1986, 100 Stat. 290; Pub. L. 99–643, §6(a), Nov. 10, 1986, 100 Stat. 3578; Pub. L.100–203, title IX, §§9108, 9116(a), Dec. 22, 1987, 101 Stat. 1330–302, 1330–305; Pub. L. 101–508, title V, §5103(c)(1), Nov. 5, 1990, 104 Stat. 1388–251; Pub. L. 103–296, title I, §107(a)(4), title II, §201(b)(3)(D), Aug. 15, 1994, 108 Stat. 1478, 1504; Pub. L. 104–121, title I, §105(b)(4)(B), Mar. 29, 1996, 110 Stat. 854.)
+(Aug. 14, 1935, ch. 531, title XVI, §1634, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1478; amended Pub. L. 99–272, title XII, §12202(a), Apr. 7, 1986, 100 Stat. 290; Pub. L. 99–643, §6(a), Nov. 10, 1986, 100 Stat. 3578; Pub. L. 100–203, title IX, §§9108, 9116(a), Dec. 22, 1987, 101 Stat. 1330–302, 1330–305; Pub. L. 101–508, title V, §5103(c)(1), Nov. 5, 1990, 104 Stat. 1388–251; Pub. L. 103–296, title I, §107(a)(4), title II, §201(b)(3)(D), Aug. 15, 1994, 108 Stat. 1478, 1504; Pub. L. 104–121, title I, §105(b)(4)(B), Mar. 29, 1996, 110 Stat. 854.)
 
 #### References in Text
 
@@ -114,7 +114,7 @@ Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 
 
 #### Notice of Possible Eligibility for Medicaid Assistance
 
-Section 9116(b) of Pub. L. 100–203 provided that: “The Secretary of Health and Human Services, acting through the Social Security Administration, shall (within 3 months after the date of the enactment of this Act \[Dec. 22, 1987\]) issue a notice to all individuals who will have attained age 60 but not age 65 as of April 1, 1988, and who received supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] prior to attaining age 60 but lost those benefits by reason of the receipt of widow's or widower's insurance benefits (or other benefits as described in section 1634(d)(1) of that Act \[subsec. (d)(1) ofthis section\] as added by subsection (a) of this section) under title II of that Act \[subchapter II of this chapter\]. Each such notice shall set forth and explain the provisions of section 1634(d) of the Social Security Act (as so added), and shall inform the individual that he or she should contact the Secretary or the appropriate State agency concerning his or her possible eligibility for medical assistance benefits under such title XIX \[subchapter XIX of this chapter\].”
+Section 9116(b) of Pub. L. 100–203 provided that: “The Secretary of Health and Human Services, acting through the Social Security Administration, shall (within 3 months after the date of the enactment of this Act \[Dec. 22, 1987\]) issue a notice to all individuals who will have attained age 60 but not age 65 as of April 1, 1988, and who received supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] prior to attaining age 60 but lost those benefits by reason of the receipt of widow's or widower's insurance benefits (or other benefits as described in section 1634(d)(1) of that Act \[subsec. (d)(1) of this section\] as added by subsection (a) of this section) under title II of that Act \[subchapter II of this chapter\]. Each such notice shall set forth and explain the provisions of section 1634(d) of the Social Security Act (as so added), and shall inform the individual that he or she should contact the Secretary or the appropriate State agency concerning his or her possible eligibility for medical assistance benefits under such title XIX \[subchapter XIX of this chapter\].”
 
 #### State Determinations
 
@@ -143,8 +143,4 @@ For applicability of this section to the Northern Mariana Islands, see section 5
 #### Puerto Rico, Guam, and Virgin Islands
 
 Enactment of provisions of Pub. L. 92–603, eff. Jan. 1, 1974, not applicable to Puerto Rico, Guam, and the Virgin Islands, see section 303(b) of Pub. L. 92–603, set out as a note under section 301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1396a, 1396b, 1396v of this title.
 

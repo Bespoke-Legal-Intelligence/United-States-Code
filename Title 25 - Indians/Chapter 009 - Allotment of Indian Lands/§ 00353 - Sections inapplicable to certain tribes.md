@@ -12,7 +12,3 @@ This Act, referred to in text, is act June 25, 1910, ch. 431, 36 Stat. 855, as a
 
 The first and second sentences are from sections 33 and 32, respectively of act June 25, 1910.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 406, 564h, 697, 747 of this title; title 43 section 1617.
-

@@ -8,7 +8,3 @@ No funds authorized to be appropriated by sections 390g to 390g–8 of this titl
 
 (Pub. L. 98–434, §10, Sept. 28, 1984, 98 Stat. 1677.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390g, 390g–3, 390g–7 of this title.
-

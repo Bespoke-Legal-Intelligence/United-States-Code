@@ -32,7 +32,7 @@ The Administration may provide financial assistance to private nonprofit organiz
 
 &emsp;(1) financial assistance, including training and counseling in how to apply for and secure business credit and investment capital, preparing and presenting financial statements, and managing cash flow and other financial operations of a business concern;
 
-&emsp;(2) management assistance, including training and counseling in how to plan, organize, staff, direct, and control each major activity and function of a small business concern; and
+&emsp;(2) management assistance, including training and counseling in how to plan, organize,staff, direct, and control each major activity and function of a small business concern; and
 
 &emsp;(3) marketing assistance, including training and counseling in identifying and segmenting domestic and international market opportunities, preparing and executing marketing plans, developing pricing strategies, locating contract opportunities, negotiating contracts, and utilizing varying public relations and advertising techniques.
 
@@ -40,7 +40,7 @@ The Administration may provide financial assistance to private nonprofit organiz
 
 #### (1) Non-Federal contributions
 
-&emsp;As a condition of receiving financial assistance authorized by this section, the recipientorganization shall agree to obtain, after its application has been approved and notice of award has been issued, cash contributions from non-Federal sources as follows:
+&emsp;As a condition of receiving financial assistance authorized by this section, the recipient organization shall agree to obtain, after its application has been approved and notice of award has been issued, cash contributions from non-Federal sources as follows:
 
 &emsp;&emsp;(A) in the first and second years, 1 non-Federal dollar for each 2 Federal dollars; and
 
@@ -110,9 +110,9 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 &emsp;&emsp;&emsp;&emsp;(I) administer and manage the Women's Business Center program;
 
-&emsp;&emsp;&emsp;&emsp;(II) recommend the annual administrative and program budgets for the Office of Women's Business Ownership (including the budget for the Women's Business Center program);
+&emsp;&emsp;&emsp;&emsp;(II) recommend the annual administrative and program budgets for the Officeof Women's Business Ownership (including the budget for the Women's Business Center program);
 
-&emsp;&emsp;&emsp;&emsp;(III) establish appropriate funding levels therefore;
+&emsp;&emsp;&emsp;&emsp;(III) establish appropriate funding levels therefore <sup>1</sup> ;
 
 &emsp;&emsp;&emsp;&emsp;(IV) review the annual budgets submitted by each applicant for the Women's Business Center program;
 
@@ -160,7 +160,7 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 #### (i) Contract authority
 
-The authority of the Administrator to enter into contracts shall be in effect for each fiscal year only to the extent and in the amounts as are provided in advance in appropriations Acts. After the Administrator has entered into a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate, or fail to renew or extend any such contract unless the Administrator provides the applicant with written notification setting forth the reasons therefore and affords the applicant an opportunity for a hearing, appeal, or other administrative proceeding under chapter 5 of title 5.
+The authority of the Administrator to enter into contracts shall be in effect for each fiscal year only to the extent and in the amounts as are provided in advance in appropriations Acts. After the Administrator has entered into a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate, or fail to renew or extend any such contract unless the Administrator provides the applicant with written notification setting forth the reasons therefore <sup>1</sup> and affords the applicant an opportunity for a hearing, appeal, or other administrative proceeding under chapter 5 of title 5.
 
 #### (j) Management report
 
@@ -294,7 +294,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 &emsp;&emsp;&emsp;(i) to serve women business owners or potential owners in the future by improving fundraising and training activities; and
 
-&emsp;&emsp;&emsp;(ii) to provide training and services to a representative number of women who are both socially and economically disadvantaged.
+&emsp;&emsp;&emsp;(ii) to provide training and services to a representative number of women who areboth socially and economically disadvantaged.
 
 #### (3) Review of applications
 
@@ -306,7 +306,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 &emsp;&emsp;&emsp;(ii) as part of the final selection process, conduct a site visit at each women's business center for which a sustainability grant is sought; and
 
-&emsp;&emsp;&emsp;(iii) approve or disapprove applications for sustainability grants simultaneouslywith applications for grants under subsection (b) of this section.
+&emsp;&emsp;&emsp;(iii) approve or disapprove applications for sustainability grants simultaneously with applications for grants under subsection (b) of this section.
 
 #### (B) Data collection
 
@@ -392,6 +392,10 @@ Subsec. (<i>l</i>). Pub. L. 106–165, §4(a), added subsec. (<i>l</i>).
 
 Subsec. (h). Pub. L. 103–403, §412, added subsec. (h).
 
+#### Change of Name
+
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship ofSenate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+
 #### Effective Date of 1999 Amendments
 
 Pub. L. 106–165, §6, Dec. 9, 1999, 113 Stat. 1801, provided that: “This Act \[amending this section and enacting provisions set out as notes under this section and section 631 of this title\] and the amendments made by this Act shall take effect on October 1, 1999.”
@@ -418,7 +422,5 @@ In general.—Subject to paragraph (2), any organization conducting a 3-year pro
 
 Terms of assistance for certain organizations.—Any organization operating in the third year of a 3-year project under section 29 of the Small Business Act (15 U.S.C. 656) (as in effect on the day before the effective date of this Act) on September 30, 1997, may request an extension of the term of that project to a total term of 5 years. If such an extension is made, during the fourth and fifth years of the project, the organization shall receive financial assistance in accordance with section 29(c)(1)(C) of the Small Business Act (as amended by this section) subject to procedures established by the Administrator, in coordination with the Assistant Administrator of the Office of Women's Business Ownership established under section 29 of the Small Business Act (15 U.S.C. 656) (as amended by this section).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 648 of this title.
+<i><sup>1</sup></i><i> So in original. Probably should be “therefor”.</i>
 

@@ -20,7 +20,7 @@ The Secretary may not make payments under section 300ee–11(a) of this title fo
 
 #### (b) Opportunity for public comment
 
-The Secretary may not make payments under section 300ee–11(a) of this title for a fiscal yearunless the State involved agrees that, in developing and carrying out the description required in subsection (a) of this section, the State will provide public notice with respect to the description (including any revisions) and will facilitate comments from interested persons.
+The Secretary may not make payments under section 300ee–11(a) of this title for a fiscal year unless the State involved agrees that, in developing and carrying out the description required in subsection (a) of this section, the State will provide public notice with respect to the description (including any revisions) and will facilitate comments from interested persons.
 
 (July 1, 1944, ch. 373, title XXV, formerly title XV, §2503, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3095; amended Pub. L. 100–690, title II, §2619(c), Nov. 18, 1988, 102 Stat. 4242; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 
@@ -35,8 +35,4 @@ A prior section 2503 of act July 1, 1944, was successively renumbered by subsequ
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ee–11, 300ee–15, 300ee–17, 300ee–18 of this title.
 

@@ -18,7 +18,7 @@ Any alien subject to a final order of removal who—
 
 #### (b) Construction
 
-Nothing in this section shall be construed to diminish or qualify any penalties to which an alien may be subject for activities proscribed by section 1253(a) of this title or any other section of this chapter.
+Nothing in this section shall be construed to diminish or qualify any penalties to which an alien may be subject for activities proscribed bysection 1253(a) of this title or any other section of this chapter.
 
 (June 27, 1952, ch. 477, title II, ch. 8, §274D, as added Pub. L. 104–208, div. C, title III, §380(a), Sept. 30, 1996, 110 Stat. 3009–650.)
 
@@ -33,8 +33,4 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
 For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1330 of this title.
 

@@ -58,7 +58,7 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 &emsp;(9) Reasonable efforts to preserve and support the family units of the women, including promoting the appropriate involvement of parents and others, and counseling the children of the women.
 
-&emsp;(10) Planning for and counseling to assist reentry into society, both before and after discharge, including referrals to any public or nonprofit private entities in the communityinvolved that provide services appropriate for the women and the children of the women.
+&emsp;(10) Planning for and counseling to assist reentry into society, both before and after discharge, including referrals to any public or nonprofit private entities in the community involved that provide services appropriate for the women and the children of the women.
 
 &emsp;(11) Case management services, including—
 
@@ -124,7 +124,7 @@ A funding agreement for an award under subsection (a) of this section for an app
 
 #### (i) Continuing education
 
-A funding agreement for an award under subsection (a) of this section is that the applicantinvolved will provide for continuing education in treatment services for the individuals who will provide treatment in the program to be operated by the applicant pursuant to such subsection.
+A funding agreement for an award under subsection (a) of this section is that the applicant involved will provide for continuing education in treatment services for the individuals who will provide treatment in the program to be operated by the applicant pursuant to such subsection.
 
 #### (j) Imposition of charges
 
@@ -201,6 +201,8 @@ A prior section 508 of act July 1, 1944, which was classified to section 290aa�
 2000—Subsec. (r). Pub. L. 106–310 reenacted heading without change and amended text generally, substituting provisions authorizing appropriations for fiscal years 2001 to 2003 for provisions authorizing appropriations for fiscal years 1993 and 1994 and authorizing appropriations from the special forfeiture fund of the Director of the Office of National Drug Control Policy.
 
 #### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

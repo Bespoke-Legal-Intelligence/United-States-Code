@@ -8,7 +8,3 @@ The provisions of the act of the Legislature of the State of Washington, approve
 
 Act of State of Washington “approved March 8, 1941”, referred to in text, may be found in Rem. Rev. St., §8110–1 and Revised Code of Washington Annotated, §37.08.210.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 256b, 256c, 256i of this title.
-

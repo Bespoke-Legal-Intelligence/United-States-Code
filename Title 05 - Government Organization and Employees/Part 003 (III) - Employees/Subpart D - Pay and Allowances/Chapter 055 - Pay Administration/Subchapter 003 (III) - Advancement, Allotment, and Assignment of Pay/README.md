@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—ADVANCEMENT, ALLOTMENT, AND ASSIGNMENT OF PAY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5307, 5527 of this title; title 15 section 78d.
-
 
 ---
 

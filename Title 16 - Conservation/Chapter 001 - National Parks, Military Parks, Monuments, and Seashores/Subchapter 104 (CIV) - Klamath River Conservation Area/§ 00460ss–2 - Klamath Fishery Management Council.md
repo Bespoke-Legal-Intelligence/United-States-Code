@@ -70,7 +70,7 @@ The Council is composed of 11 members as follows:
 
 #### (d) Consultation requirement
 
-The appointments required under subsection (c) of this section shall be made in consultationwith the appropriate users of Area anadromous fish resources.
+The appointments required under subsection (c) of this section shall be made in consultation with the appropriate users of Area anadromous fish resources.
 
 #### (e) Qualifications
 
@@ -145,10 +145,6 @@ Any Council member who is an officer or employee of the United States, the State
 Subsec. (i). Pub. L. 100–653, §603(1), substituted “, the State of California, or the State of Oregon” for “or the State of California”.
 
 Subsec. (j)(1). Pub. L. 100–653, §603(2), inserted provision at end that any Council member who is employee of agency or governmental unit and is eligible for travel expenses from that agency or unit for performing services for Council not be eligible for travel expenses under this par.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460ss–5 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “knowledgeable”.</i>
 

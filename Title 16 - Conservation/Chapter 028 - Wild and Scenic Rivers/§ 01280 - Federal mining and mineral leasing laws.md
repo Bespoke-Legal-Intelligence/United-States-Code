@@ -6,11 +6,11 @@ Nothing in this chapter shall affect the applicability of the United States mini
 
 &emsp;(i) all prospecting, mining operations, and all other activities on mining claims which, in the case of a component of the system designated in section 1274 of this title, have not heretofore been perfected or which, in the case of a component hereafter designated pursuant to this chapter or any other Act of Congress, are not perfected before its inclusion in the system and all mining operations and other activities under a mineral lease, license, or permit issued or renewed after inclusion of a component in the system shall be subject to such regulations as the Secretary of the Interior or, in the case of national forest lands, the Secretary of Agriculture may prescribe to effectuate the purposes of this chapter;
 
-&emsp;(ii) subject to valid existing rights, the perfection of, issuance of a patent to, any mining claim affecting lands within the system shall confer or convey a right or title only to the mineral deposits and such rights only to theuse of the surface and the surface resources as are reasonably required to carrying on prospecting or mining operations and are consistent with such regulations as may be prescribed by the Secretary of the Interior or, in the case of national forest lands, by the Secretary of Agriculture; and
+&emsp;(ii) subject to valid existing rights, the perfection of, issuance of a patent to, any mining claim affecting lands within the system shall confer or convey a right or title only to the mineral deposits and such rights only to the use of the surface and the surface resources as are reasonably required to carrying on prospecting or mining operations and are consistent with such regulations as may be prescribed by the Secretary of the Interior or, in the case of national forest lands, by the Secretary of Agriculture; and
 
 &emsp;(iii) subject to valid existing rights, the minerals in Federal lands which are part of the system and constitute the bed or bank or are situated within one-quarter mile of the bank of any river designated a wild river under this chapter or any subsequent Act are hereby withdrawn from all forms of appropriation under the mining laws and from operation of the mineral leasing laws including, in both cases, amendments thereto.
 
-> Regulations issued pursuant to paragraphs (i) and (ii) of this subsection shall, among other things, provide safeguards against pollution of the river involved and unnecessary impairment of the scenery within the component in question.
+> Regulations issued pursuant to paragraphs (i) and (ii) of this subsection shall, among otherthings, provide safeguards against pollution of the river involved and unnecessary impairment of the scenery within the component in question.
 
 #### (b) Withdrawal from appropriation of minerals in Federal river beds or bank areas; prospecting, leases, licenses, and permits
 
@@ -27,8 +27,4 @@ The United States mineral leasing laws, referred to in text, are classified gene
 1986—Subsec. (b). Pub. L. 99–590 substituted “issuance of leases” for “issuance or leases”.
 
 1980—Subsec. (b). Pub. L. 96–487 inserted provision withdrawing, subject to valid existing rights, all public lands which constitute the bed or bank, or are within an area extending two miles from the bank of the river channel or both sides of the river segments referred to in section 1276(a)(77) through (88) of this title, from all forms of appropriations under the mining laws and operation of the mineral leasing laws during the periods specified in section 1278(b) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1274, 1285b of this title.
 

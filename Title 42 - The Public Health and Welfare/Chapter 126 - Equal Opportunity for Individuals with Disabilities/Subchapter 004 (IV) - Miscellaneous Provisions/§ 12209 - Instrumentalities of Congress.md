@@ -1,6 +1,6 @@
 ### §12209. Instrumentalities of Congress
 
-The General Accounting Office, the Government Printing Office, and the Library of Congress shall be covered as follows:
+The Government Accountability Office, the Government Printing Office, and the Library of Congress shall be covered as follows:
 
 #### (1) In general
 
@@ -16,7 +16,7 @@ The General Accounting Office, the Government Printing Office, and the Library o
 
 #### (4) Definition of instrumentalities
 
-&emsp;For purposes of this section, the term “instrumentality of the Congress” means the following:,<sup>1</sup> the General Accounting Office, the Government Printing Office, and the Library of Congress,.<sup>1</sup>
+&emsp;For purposes of this section, the term “instrumentality of the Congress” means the following:,<sup>1</sup> the Government Accountability Office, the Government Printing Office, and the Library of Congress,.<sup>1</sup>
 
 #### (5) Enforcement of employment rights
 
@@ -30,13 +30,15 @@ The General Accounting Office, the Government Printing Office, and the Library o
 
 &emsp;Nothing in this section shall alter the enforcement procedures for individuals with disabilities provided in the General Accounting Office Personnel Act of 1980 and regulations promulgated pursuant to that Act.
 
-(Pub. L. 101–336, title V, §509, July 26, 1990, 104 Stat. 373; Pub. L. 102–166, title III, §315, Nov. 21, 1991, 105 Stat. 1095; Pub. L. 104–1, title II, §§201(c)(3), 210(g), Jan. 23, 1995, 109 Stat. 8, 16.)
+(Pub. L. 101–336, title V, §509, July 26, 1990, 104 Stat. 373; Pub. L. 102–166, title III, §315, Nov. 21, 1991, 105 Stat. 1095; Pub. L. 104–1, title II, §§201(c)(3), 210(g), Jan. 23, 1995, 109 Stat. 8, 16; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
-The General Accounting Office Personnel Act of 1980, referred to in par. (7), is Pub. L. 96–191, Feb. 15, 1980, 94 Stat. 27, which was classified principally to section 52–1et seq. of former Title 31, and which was substantially repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof principally in subchapters III (§731 et seq.) and IV (§751 et seq.) of chapter 7 of Title 31, Money and Finance.
+The General Accounting Office Personnel Act of 1980, referred to in par. (7), is Pub. L. 96–191, Feb. 15, 1980, 94 Stat. 27, which was classified principally to section 52–1 et seq. of former Title 31, and which was substantially repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof principally in subchapters III (§731 et seq.) and IV (§751 et seq.) of chapter 7 of Title 31, Money and Finance.
 
 #### Amendments
+
+2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions and in par. (4).
 
 1995—Pub. L. 104–1, §201(c)(3)(F), amended section catchline generally.
 
@@ -46,7 +48,7 @@ Pub. L. 104–1, §201(c)(3)(B), substituted “The General Accounting Office, t
 
 Par. (2). Pub. L. 104–1, §201(c)(3)(C), struck out at end “Such remedies and procedures shall apply exclusively, except for the employees who are defined as Senate employees, in section 1201(c)(1) of title 2.”
 
-Par. (4). Pub. L. 104–1, §201(c)(3)(D), struck out “the Architect of the Capitol, the Congressional Budget Office” after “the following:”, inserted “and” before “the Library of Congress”, and struck out “the Office of Technology Assessment, and the United States Botanic Garden” before period at end.
+Par. (4). Pub. L. 104–1, §201(c)(3)(D), struck out “the Architect of the Capitol, the Congressional Budget Office” after “the following:”, inserted “and” before “theLibrary of Congress”, and struck out “the Office of Technology Assessment, and the United States Botanic Garden” before period at end.
 
 Pub. L. 104–1, §201(c)(3)(D), which in part directed the substitution of “the term ‘instrumentality of the Congress’ means” for “the instrumentalities of the Congress include”, was executed by making the substitution for “instrumentalities of the Congress include” to reflect the probable intent of Congress.
 
@@ -87,10 +89,6 @@ Amendment by section 210(g) of Pub. L. 104–1 effective 1 year after transmissi
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–166 effective Nov. 21, 1991, except as otherwise provided, see section 402 of Pub. L. 102–166, set out as a note under section 1981 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 1435.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -19,6 +19,7 @@
 | (c) | Taking in defense of self or others. |
 | (d) | Good Samaritan exemption. |
 | (e) | Chapter not to apply to incidental takings by United States citizens employed on foreign vessels outside United States EEZ. |
+| (f) | Exemption of actions necessary for national defense. |
 | [1372\.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001372%20-%20Prohibitions.md) | Prohibitions. |
 | (a) | Taking. |
 | (b) | Importation of pregnant or nursing mammals; depleted species or stock; inhumane taking. |
@@ -261,10 +262,6 @@
 | [1421h.](Subchapter%20005%20%28V%29%20-%20Marine%20Mammal%20Health%20and%20Stranding%20Response/%C2%A7%2001421h%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1375a, 1543, 1881, 1881a, 1881b, 2407, 2408, 3125, 6406 of this title; title 10 section 7524.
 
 
 ---

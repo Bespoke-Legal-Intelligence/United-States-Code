@@ -14,7 +14,7 @@ Lien creditor.—The term “lien creditor” means a creditor having a lien on 
 
 &emsp;(3)
 
-Security interest.—The term “security interest” means an interest (including an interest established by a conditional sales contract, mortgage, equipment trust, or other lien or title retention contract, or lease) in a motor vehicle when the interest secures payment or performance of an obligation.
+Security interest.—The term “security interest” means an interest (including an interest established by a conditional sales contract, mortgage, equipment trust, or other lien or title retention contract, or lease) in amotor vehicle when the interest secures payment or performance of an obligation.
 
 &emsp;(4)
 

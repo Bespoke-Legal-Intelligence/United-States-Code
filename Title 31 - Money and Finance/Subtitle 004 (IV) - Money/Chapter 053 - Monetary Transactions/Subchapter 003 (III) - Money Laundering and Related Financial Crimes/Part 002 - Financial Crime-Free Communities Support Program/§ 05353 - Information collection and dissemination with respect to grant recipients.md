@@ -28,7 +28,3 @@ Activities of Secretary.—The Secretary may—
 
 (Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2948.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5352 of this title.
-

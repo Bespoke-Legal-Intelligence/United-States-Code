@@ -12,7 +12,7 @@ Section is comprised of third par. of section 16 of act Dec. 23, 1913. For class
 
 1968—Pub. L. 90–269 substituted requirement that Federal Reserve notes bear upon their faces a distinctive letter and serial number which shall be assigned by the Board of Governors to each Federal Reserve bank for former requirement that each Federal Reserve bank maintain reserves in gold certificates of not less than 25 percent against its Federal Reserve notes in actual circulation and former provisions respecting redemption by the Treasury of Federal Reserve notes.
 
-1966—Pub. L. 89–427 substituted provisions that Federal Reserve notes unfit for circulation be canceled, destroyed, and accounted for under procedures prescribed and at locations designated by the Secretary of the Treasury and that credit with respect to the destruction of the notes be apportioned among the twelve Federal Reserve banks as determined by the Board of Governors of the Federal Reserve System for provisions that Federal Reserve notes unfit for circulation be returned by the Federal Reserve agents to the Comptroller of the Currency for cancellation and destruction.
+1966—Pub. L. 89–427 substituted provisions that Federal Reserve notes unfit for circulation be canceled, destroyed, and accounted for under procedures prescribedand at locations designated by the Secretary of the Treasury and that credit with respect to the destruction of the notes be apportioned among the twelve Federal Reserve banks as determined by the Board of Governors of the Federal Reserve System for provisions that Federal Reserve notes unfit for circulation be returned by the Federal Reserve agents to the Comptroller of the Currency for cancellation and destruction.
 
 1965—Pub. L. 89–3 struck out requirement that each Federal Reserve bank maintain reserves in gold certificates against deposit liabilities.
 
@@ -29,8 +29,4 @@ Section 203(a) of Act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 #### Transfer of Functions
 
 For transfer of functions to Secretary of the Treasury, see note set out under section 121 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 348, 420, 421, 467 of this title.
 

@@ -12,7 +12,7 @@ The Administrator, in coordination with the Director and with the Director of th
 
 &emsp;(A) A written agreement between local law enforcement, social service, health, and other related agencies to coordinate child abuse investigation, prosecution, treatment, and counseling services.
 
-&emsp;(B) An appropriate site for referring, interviewing, treating, and counseling child victims of sexual and serious physical abuse and neglect and nonoffending family members (referred to as the “counseling center”).
+&emsp;(B) An appropriate site for referring, interviewing, treating, and counseling child victims of sexual and serious physical abuse andneglect and nonoffending family members (referred to as the “counseling center”).
 
 &emsp;(C) Referral of all sexual and serious physical abuse and neglect cases to the counseling center not later than 24 hours after notification of an incident of abuse.
 
@@ -59,8 +59,4 @@ Subsec. (d). Pub. L. 102–586, §6(c)(4), added subsec. (d).
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13001b, 13004 of this title.
 

@@ -18,7 +18,3 @@ No person shall be entitled to receive any salary or other compensation from the
 
 1970—Subsec. (b). Pub. L. 91–599 authorized appointment of an alternate Executive Director.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 283bb of this title.
-

@@ -28,7 +28,3 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b), are set out in
 
 Section 310(c) of Pub. L. 101–650 provided that: “The amendments made by this section \[enacting this section\] shall apply to civil actions commenced on or after the date of the enactment of this Act \[Dec. 1, 1990\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 13981.
-

@@ -34,7 +34,3 @@ This section \[section 3\] corrects a typographical error in section 114 of titl
 
 1949—Act May 24, 1949, corrected spelling of “maim”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 46506.
-

@@ -52,7 +52,7 @@ The organization shall, to the maximum extent practicable, draw upon the resourc
 
 Section 2251 of this title, referred to in subsec. (b)(2), was amended generally by Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225, and as so amended does not contain a subsec. (d). See section 2252(f) of this title.
 
-Section 2412 of this title, referred to in subsec. (b)(3), was amended generally by Pub. L. 100–418, title I,§1301(a), Aug. 23, 1988, 102 Stat. 1168, and as so amended the provisions of subsec. (b)(2) of section 2412 are contained in subsec. (a)(4).
+Section 2412 of this title, referred to in subsec. (b)(3), was amended generally by Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1168, and as so amended the provisions of subsec. (b)(2) of section 2412 are contained in subsec. (a)(4).
 
 #### Amendments
 
@@ -88,15 +88,11 @@ Section 1621(b) of Pub. L. 100–418 provided that: “It is the sense of Congre
 
 #### Transfer of Functions From East-West Foreign Trade Board
 
-East-West Foreign Trade Board, which was established by Pub. L. 93–618, title IV, §411, Jan. 3, 1975, 88 Stat. 2065, and classified to section 2441 of this title, abolished by Reorg. Plan No. 3 of 1979, §6, 44 Stat. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, and functions of Board under subsecs. (a) and (b) of section 411 of Pub. L. 93–618 transferred to interagency organization established under this section by section 5(e) of Reorg. Plan No. 3 of 1979. See section 2441 of this title.
+East-West Foreign Trade Board, which was established by Pub. L. 93–618, title IV, §411, Jan. 3, 1975, 88Stat. 2065, and classified to section 2441 of this title, abolished by Reorg. Plan No. 3 of 1979, §6, 44 Stat. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, and functions of Board under subsecs. (a) and (b) of section 411 of Pub. L. 93–618 transferred to interagency organization established under this section by section 5(e) of Reorg. Plan No. 3 of 1979. See section 2441 of this title.
 
 #### Trade Policy Committee
 
 For provisions relating to Trade Policy Committee, see section 3 of Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out as a note under section 2111 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2114c, 2114d, 2171, 2241, 2253, 2512, 2553, 2554, 2804, 3108, 3432, 3437 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

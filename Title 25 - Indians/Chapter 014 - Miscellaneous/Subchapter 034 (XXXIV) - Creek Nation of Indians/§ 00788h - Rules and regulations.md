@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to prescribe rules and regulations t
 
 (Pub. L. 90–506, §4, Sept. 21, 1968, 82 Stat. 859.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 788f of this title.
-

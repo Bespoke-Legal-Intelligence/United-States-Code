@@ -10,7 +10,3 @@
 
 (Pub. L. 99–450, §6, Oct. 8, 1986, 100 Stat. 1132.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1600e, 1600<i>l</i> of this title.
-

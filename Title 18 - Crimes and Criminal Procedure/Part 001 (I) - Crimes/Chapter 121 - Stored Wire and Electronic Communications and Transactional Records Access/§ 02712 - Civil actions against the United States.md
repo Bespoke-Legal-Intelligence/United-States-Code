@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Any person who is aggrieved by any willful violation of this chapter or of chapter 119 of this title or of sections 106(a), 305(a), or 405(a) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) may commence an action in United States District Court against the United States to recover money damages. In any such action, if a personwho is aggrieved successfully establishes such a violation of this chapter or of chapter 119 of this title or of the above specific provisions of title 50, the Court may assess as damages—
+In General.—Any person who is aggrieved by any willful violation of this chapter or of chapter 119 of this title or of sections 106(a), 305(a), or 405(a) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) may commence an action in United States District Court against the United States to recover money damages. In any such action, if a person who is aggrieved successfully establishes such a violation of this chapter or of chapter 119 of this title or of the above specific provisions of title 50, the Court may assess as damages—
 
 &emsp;(1) actual damages, but not less than $10,000, whichever amount is greater; and
 
@@ -40,7 +40,7 @@ Stay of Proceedings.—(1) Upon the motion of the United States, the court shall
 
 #### Termination of Section
 
-<i>For termination of section by section 224 of Pub. L. 107–56, see Termination Date of 2001 Amendment note set out under section 2510 of this title.</i>
+<i>For termination of section by section 224 of Pub. L. 107–56, see Termination Date of 2001</i><i>Amendment note set out under section 2510 of this title.</i>
 
 #### References in Text
 

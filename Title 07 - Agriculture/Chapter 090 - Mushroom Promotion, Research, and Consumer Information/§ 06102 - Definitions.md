@@ -48,7 +48,7 @@ As used in this chapter—
 
 #### (12) Promotion
 
-&emsp;The term “promotion” means any action determined by the Secretary to enhance theimage or desirability of mushrooms, including paid advertising.
+&emsp;The term “promotion” means any action determined by the Secretary to enhance the image or desirability of mushrooms, including paid advertising.
 
 #### (13) Research
 
@@ -63,8 +63,4 @@ As used in this chapter—
 &emsp;The terms “State” and “United States” include the 50 States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 (Pub. L. 101–624, title XIX, §1923, Nov. 28, 1990, 104 Stat. 3855.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6104 of this title.
 

@@ -4,7 +4,7 @@ The purposes of this chapter are as follows:
 
 &emsp;(1) to carry out the responsibility of the United States to Indian tribes and members of Indian tribes by ensuring access to quality technical and legal assistance.
 
-&emsp;(2) To strengthen and improve the capacity of tribal court systems that address civil and criminal causes of action under the jurisdiction of Indian tribes.
+&emsp;(2) To strengthen and improve the capacity of tribal court systems that address civil andcriminal causes of action under the jurisdiction of Indian tribes.
 
 &emsp;(3) To strengthen tribal governments and the economies of Indian tribes through the enhancement and, where appropriate, development of tribal court systems for the administration of justice in Indian country by providing technical and legal assistance services.
 

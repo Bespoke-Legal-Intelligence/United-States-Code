@@ -1,9 +1,5 @@
 Part E—Demonstration Programs
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 5061, 5082 of this title.
-
 
 ---
 

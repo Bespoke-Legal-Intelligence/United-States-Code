@@ -18,7 +18,3 @@ This section does not prevent any State or political subdivision thereof from re
 
 (Pub. L. 92–574, §8, Oct. 27, 1972, 86 Stat. 1241.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4902, 4909, 4912, 4913, 4915 of this title.
-

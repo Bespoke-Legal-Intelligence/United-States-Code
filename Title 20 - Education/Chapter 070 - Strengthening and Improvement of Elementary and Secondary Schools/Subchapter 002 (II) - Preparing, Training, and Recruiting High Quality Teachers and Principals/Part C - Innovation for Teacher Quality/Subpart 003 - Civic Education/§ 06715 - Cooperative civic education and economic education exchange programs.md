@@ -2,7 +2,7 @@
 
 #### (a) Cooperative education exchange programs
 
-The Center for Civic Education, the National Council on Economic Education, and organizations described in section 6713(a)(3) of this title shall use funds made available under grants orcontracts under section 6713 of this title to carry out cooperative education exchange programs in accordance with this section.
+The Center for Civic Education, the National Council on Economic Education, and organizations described in section 6713(a)(3) of this title shall use funds made available under grants or contracts under section 6713 of this title to carry out cooperative education exchange programs in accordance with this section.
 
 #### (b) Purpose
 
@@ -24,7 +24,7 @@ The purpose of the cooperative education exchange programs carried out under thi
 
 #### (c) Activities
 
-In carrying out the cooperative education exchange programs assisted under this section, the Center for Civic Education, the National Council on Economic Education, and organizations described in section 6713(a)(3) of this title shall—
+In carrying out the cooperative education exchange programs assisted under this section, theCenter for Civic Education, the National Council on Economic Education, and organizations described in section 6713(a)(3) of this title shall—
 
 &emsp;(1) provide to the participants from eligible countries—
 
@@ -83,10 +83,6 @@ In this section, the term “eligible country” means a Central European countr
 #### References in Text
 
 Section 4359a(d) of this title, referred to in subsec. (g), was in the original “section 209(d) of the Education for the Deaf Act”, and was translated as reading “section 209(d) of the Education of the Deaf Act of 1986”, to reflect the probable intent of Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6713 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

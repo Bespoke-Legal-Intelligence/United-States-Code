@@ -16,7 +16,3 @@ In return for a contract entered into by an owner or operator under section 3832
 
 A prior section 3833, Pub. L. 99–198, title XII, §1233, Dec. 23, 1985, 99 Stat. 1511, related to duties of Secretary, prior to the general amendment of this subpart by Pub. L. 107–171.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3831 of this title.
-

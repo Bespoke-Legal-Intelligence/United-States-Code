@@ -22,7 +22,3 @@ The dissemination or the causing to be disseminated of any false advertisement w
 
 Subsec. (b). Pub. L. 93–637 substituted “in or affecting commerce” for “in commerce”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 54, 55 of this title; title 21 section 352.
-

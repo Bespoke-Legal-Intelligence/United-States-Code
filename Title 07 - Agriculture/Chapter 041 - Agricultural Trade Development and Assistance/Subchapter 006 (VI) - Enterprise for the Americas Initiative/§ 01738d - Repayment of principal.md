@@ -10,7 +10,3 @@ Principal repayments on new obligations issued under section 1738c of this title
 
 (July 10, 1954, ch. 469, title VI, §605, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3659.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 2431e.
-

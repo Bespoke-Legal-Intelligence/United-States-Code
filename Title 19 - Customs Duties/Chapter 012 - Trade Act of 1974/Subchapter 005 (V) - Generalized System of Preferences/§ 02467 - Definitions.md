@@ -58,7 +58,3 @@ For purposes of this subchapter:
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2462, 2463, 2702, 2703, 3202, 3203, 3551 of this title; title 22 sections 262p–4p, 2191a, 6903.
-

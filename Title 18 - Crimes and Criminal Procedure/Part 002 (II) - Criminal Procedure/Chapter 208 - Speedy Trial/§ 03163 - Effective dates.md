@@ -20,7 +20,3 @@
 
 1979—Subsec. (c). Pub. L. 96–43 substituted provision that section 3162 of this title was to become effective and apply to all cases commenced by arrest or summons, and all informations and indictments filed, on or after July 1, 1980, subject to section 3174(c) of this title, for provision that such section was to become effective after the date of expiration of the fourth twelve-calendar-month period following July 1, 1975.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3161 of this title.
-

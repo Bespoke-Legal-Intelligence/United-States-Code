@@ -130,7 +130,3 @@ Electronic Filing and Processing.—The Director \[of the Patent and Trademark O
 
 Authorization of Appropriations.—Of amounts authorized under section 13102 \[set out as a note under section 42 of this title\], there is authorized to be appropriated to carry out subsection (a) of this section not more than $50,000,000 for each of fiscal years 2003, 2004, and 2005. Amounts made available pursuant to this subsection shall remain available until expended.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 32 of this title.
-

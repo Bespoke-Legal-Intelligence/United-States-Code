@@ -16,10 +16,6 @@
 
 2001—Pub. L. 107–71, title I, §139(5), Nov. 19, 2001, 115 Stat. 641, added item 45107.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 106 of this title.
-
 
 ---
 

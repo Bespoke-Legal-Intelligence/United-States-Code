@@ -28,7 +28,7 @@ A State shall select qualifying individuals, and provide such individuals with a
 
 #### (4) Receipt of assistance during duration of year
 
-&emsp;If a qualifying individual is selected to receive assistance under this section for a month in a year, the individual is entitled to receive such assistance for the remainder of the year if the individual continues to be a qualifying individual. The fact that an individual is selected to receive assistance under this section at any time during a year does not entitle the individual to continued assistance for any succeeding year.
+&emsp;If a qualifying individual is selected to receive assistance under this section for a month in a year, the individual is entitled to receive such assistance for the remainder of the year if the individual continues to be a qualifying individual. The fact that an individual is selected to receive assistance under thissection at any time during a year does not entitle the individual to continued assistance for any succeeding year.
 
 #### (c) Allocation
 
@@ -50,9 +50,7 @@ A State shall select qualifying individuals, and provide such individuals with a
 
 &emsp;The Secretary shall provide for the allocation of the total amount described in paragraph (1) for a fiscal year, among the States that executed a plan amendment in accordance with subsection (a) of this section, based upon the Secretary's estimate of the ratio of—
 
-&emsp;&emsp;(A) an amount equal to
-
-the total number of individuals described in section 1396a(a)(10)(E)(iv) of this title in the State; to
+&emsp;&emsp;(A) an amount equal to the total number of individuals described in section 1396a(a)(10)(E)(iv) of this title in the State; to
 
 &emsp;&emsp;(B) the sum of the amounts computed under subparagraph (A) for all eligible States.
 
@@ -72,21 +70,49 @@ Except as specifically provided under this section, nothing in this subchapter s
 
 For each fiscal year, the Secretary shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title to the appropriate account in the Treasury that provides for payments under section 1396b(a) of this title with respect to medical assistance provided under this section, of an amount equivalent to the total of the amount of payments made under such section that is attributable to this section and such transfer shall be treated as an expenditure from such Trust Fund for purposes of section 1395r of this title.
 
-#### (g) Special rule
+#### (g) Special rules
 
-With respect to the period that begins on January 1, 2004, and ends on September 30, 2004, a State shall select qualifying individuals, and provide such individuals with assistance, in accordance with the provisions of this section as in effect with respect to calendar year 2003, except that for such purpose—
+#### (1) In general
 
-&emsp;(1) references in the preceding subsections of this section to “fiscal year” and “calendar year” shall be deemed to be references to such period; and
+&emsp;With respect to each period described in paragraph (2), a State shall select qualifying individuals, subject to paragraph (3), and provide such individuals with assistance, in accordance with the provisions of this section as in effect with respect to calendar year 2003, except that for such purpose—
 
-&emsp;(2) the total allocation amount under subsection (c) of this section for such period shall be $300,000,000.
+&emsp;&emsp;(A) references in the preceding subsections of this section to a year, whether fiscal or calendar, shall be deemed to be references to such period; and
 
-(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160.)
+&emsp;&emsp;(B) the total allocation amount under subsection (c) of this section for such period shall be the amount described in paragraph (2) for that period.
+
+#### (2) Periods and total allocation amounts described
+
+&emsp;For purposes of this subsection—
+
+&emsp;&emsp;(A) for the period that begins on January 1, 2004, and ends on September 30, 2004, the total allocation amount is $300,000,000;
+
+&emsp;&emsp;(B) for the period that begins on October 1, 2004, and ends on December 31, 2004, the total allocation amount is $100,000,000; and
+
+&emsp;&emsp;(C) for the period that begins on January 1, 2005, and ends on September 30, 2005, the total allocation amount is $300,000,000.
+
+#### (3) Rules for periods that begin after January 1
+
+&emsp;For any specific period described in subparagraph (B) of paragraph (2), the following applies:
+
+&emsp;&emsp;(A) The specific period shall be treated as a continuation of the immediately preceding period in that calendar year for purposes of applying subsection (b)(2) of this section and qualifying individuals who received assistance in the last month of such immediately preceding period shall be deemed to be selected for the specific period (without the need to complete an application for assistance for such period).
+
+&emsp;&emsp;(B) The limit to be applied under subsection (b)(3) of this section for the specific period shall be the same as the limit applied under such subsection for the immediately preceding period.
+
+&emsp;&emsp;(C) The ratio to be applied under subsection (c)(2) of this section for the specific period shall be the same as the ratio applied under such subsection for the immediately preceding period.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 108–448, §1(b), Dec. 8, 2004, 118 Stat. 3467.)
 
 #### Prior Provisions
 
 A prior section 1933 of act Aug. 14, 1935, was renumbered section 1936 and is classified to section 1396v of this title.
 
 #### Amendments
+
+2004—Subsec. (g). Pub. L. 108–448 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “With respect to the period that begins on January 1, 2004, and ends on September 30, 2004, a State shall select qualifying individuals, andprovide such individuals with assistance, in accordance with the provisions of this section as in effect with respect to calendar year 2003, except that for such purpose—
+
+&emsp;“(1) references in the preceding subsections of this section to ‘fiscal year’ and ‘calendar year’ shall be deemed to be references to such period; and
+
+&emsp;“(2) the total allocation amount under subsection (c) of this section for such period shall be $300,000,000.”
 
 2003—Subsec. (c)(1)(E). Pub. L. 108–89, §401(b)(1), substituted “each of fiscal years 2002 and 2003” for “fiscal year 2002”.
 
@@ -107,8 +133,4 @@ Subsec. (g)(2). Pub. L. 108–173, §103(f)(2)(B), substituted “$300,000,000�
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–173 applicable to calendar quarters beginning on or after Apr. 1, 2004, see section 103(f)(3) of Pub. L. 108–173, set out as a note under section 1396a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320b–14, 1396a, 1396d of this title.
 

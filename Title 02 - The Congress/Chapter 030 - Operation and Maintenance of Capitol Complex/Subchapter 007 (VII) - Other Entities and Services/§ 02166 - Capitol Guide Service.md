@@ -68,13 +68,13 @@ Section was classified to section 851 of former Title 40, prior to the enactment
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (c)(1), (4), (h). Pub. L. 104–186, §221(17)(A), substituted “House Oversight” for “House Administration”.
+1996—Subsecs. (c)(1), (4), (h). Pub. L. 104–186, §221(17)(A), substituted “House Oversight” for “House Administration”.
 
 Subsec. (j). Pub. L. 104–279 added subsec. (j).
 
 Pub. L. 104–186, §221(17)(B), struck out subsec. (j) which read as follows: “The expenses of the Capitol Guide Service shall be paid from the contingent fund of the House of Representatives, until appropriations are available for the payment of such expenses.”
 
-<b>1977</b>—Subsec. (c)(2). Pub. L. 95–94 inserted reference to Deputy Chief Guide.
+1977—Subsec. (c)(2). Pub. L. 95–94 inserted reference to Deputy Chief Guide.
 
 #### Effective Date of 1977 Amendment
 
@@ -100,7 +100,7 @@ Section 443 of Pub. L. 91–510 provided that:
 
 “(b) The United States Capitol Police Board shall transfer, on the effective date of this section, to the Capitol Guide Board, all personnel records, financial records, assets, and other property of the United States Capitol Guides, which exist immediately prior to such effective date.
 
-“(c) As soon as practicable after the effective date of this section but not later than the close of the sixtieth day after such effective date, the Capitol Guide Board shall, out of the assets and property transferred under subsection (b) of this section, on the basis of a special audit which shall be conducted by the General Accounting Office—
+“(c) As soon as practicable after the effective date of this section but not later than the close of the sixtieth day after such effective date, the Capitol Guide Board shall, out of the assets and property transferred under subsection (b) of this section, on the basis of a special audit which shall be conducted by the General Accounting Office \[now Government Accountability Office\]—
 
 &emsp;“(1) settle and pay any outstanding accounts payable of the United States Capitol Guides,
 
@@ -111,8 +111,4 @@ Section 443 of Pub. L. 91–510 provided that:
 > which exist immediately prior to such effective date. The Capitol Guide Board shall dispose of any net monetary amounts remaining after the winding up of the affairs of the United States Capitol Guides, in accordance with the practices and procedures of the United States Capitol Guides, existing immediately prior to the effective date of this section, with respect to disposal of monetary surpluses.”
 
 \[Section 443 of Pub. L. 91–510, set out as a note above, effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 72a of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 60j of this title.
 

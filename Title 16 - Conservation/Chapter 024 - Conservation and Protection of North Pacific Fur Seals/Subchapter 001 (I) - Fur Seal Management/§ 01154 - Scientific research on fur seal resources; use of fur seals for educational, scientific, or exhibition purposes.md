@@ -8,7 +8,3 @@ The Secretary shall (1) conduct such scientific research and investigations on t
 
 1983—Pub. L. 98–129 amended section generally, substituting provisions authorizing scientific research on fur seal resources, which were previously contained in section 1153 of this title, for provisions delineating the authority of the Secretary of Commerce. See section 1155 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1175 of this title.
-

@@ -116,7 +116,3 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5313, 5314, 5338 of this title.
-

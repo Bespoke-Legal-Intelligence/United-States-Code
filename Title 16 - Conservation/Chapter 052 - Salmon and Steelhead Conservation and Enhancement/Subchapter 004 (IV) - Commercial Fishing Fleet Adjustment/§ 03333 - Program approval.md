@@ -42,9 +42,5 @@ The Secretary shall approve such program within ninety days of the date of recei
 
 (Pub. L. 96–561, title I, §132, Dec. 22, 1980, 94 Stat. 3284.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3331, 3336 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “with”.</i>
 

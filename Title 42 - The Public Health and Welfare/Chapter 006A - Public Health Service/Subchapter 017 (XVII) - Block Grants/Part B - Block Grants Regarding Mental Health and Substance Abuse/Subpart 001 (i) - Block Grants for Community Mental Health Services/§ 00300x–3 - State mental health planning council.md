@@ -56,7 +56,3 @@ A prior section 300x–3, act July 1, 1944, ch. 373, title XIX, §1915, formerly
 
 A prior section 1914 of act July 1, 1944, was classified to section 300x–2 of this title prior to repeal by Pub. L. 102–321.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300x–4 of this title; title 29 section 725.
-

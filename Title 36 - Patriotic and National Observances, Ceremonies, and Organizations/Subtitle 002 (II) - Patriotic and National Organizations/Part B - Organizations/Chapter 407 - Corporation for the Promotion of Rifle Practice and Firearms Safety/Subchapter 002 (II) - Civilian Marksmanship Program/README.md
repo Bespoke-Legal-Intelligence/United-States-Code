@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 40702 of this title.
-
 
 ---
 

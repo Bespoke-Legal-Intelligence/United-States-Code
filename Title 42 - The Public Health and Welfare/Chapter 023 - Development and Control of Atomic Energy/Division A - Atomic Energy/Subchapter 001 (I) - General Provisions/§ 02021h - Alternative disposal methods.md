@@ -10,7 +10,3 @@
 
 Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2021b, 2021d, 2021e, 2021f, 2021g, 2023 of this title.
-

@@ -14,7 +14,7 @@ As used in this chapter—
 
 &emsp;(6) The term “farm labor contracting activity” means recruiting, soliciting, hiring, employing, furnishing, or transporting any migrant or seasonal agricultural worker.
 
-&emsp;(7) The term “farm labor contractor” means any person, other than an agricultural employer, an agricultural association, or an employee of an agricultural employer or agricultural association, who, for any money or other valuable consideration paid or promised to be paid, performs any farm labor contracting activity.
+&emsp;(7) The term “farm labor contractor” means any person, other than an agricultural employer, an agricultural association, or an employee of an agricultural employer or agricultural association, who, for any money or othervaluable consideration paid or promised to be paid, performs any farm labor contracting activity.
 
 &emsp;(8)(A) Except as provided in subparagraph (B), the term “migrant agricultural worker” means an individual who is employed in agricultural employment of a seasonal or other temporary nature, and who is required to be absent overnight from his permanent place of residence.
 
@@ -58,9 +58,5 @@ Pars. (8)(B)(ii), (10)(B)(iii). Pub. L. 99–603 substituted “1101(a)(15)(H)(i
 
 #### Effective Date of 1986 Amendment
 
-Section 101(b)(2) of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(a)(2), Oct. 24, 1988, 102 Stat. 2610, provided that: “The amendments made by paragraph (1) \[amending this section and sections 1813 and 1851 of this title and repealing section 1816 of this title\] shall apply to the employment, recruitment, referral, or utilization of the services of an individual occurring on or after thefirst day of the seventh month beginning after the date of the enactment of this Act \[Nov. 6, 1986\]; except that if the provisions of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\] are terminated as of a date under \[former\] subsection (<i>l</i>) of such section, then such amendments shall no longer apply as of such date.” \[The provisions of section 1324a of Title 8, Aliens and Nationality, were not terminated under subsection (<i>l</i>) of section 1324a, and that subsection was repealed by Pub. L. 104–208.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1831 of this title; title 8 section 1324a.
+Section 101(b)(2) of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(a)(2), Oct. 24, 1988, 102 Stat. 2610, provided that: “The amendments made by paragraph (1) \[amending this section and sections 1813 and 1851 of this title and repealing section 1816 of this title\] shall apply to the employment, recruitment, referral, or utilization of the services of an individual occurring on or after the first day of the seventh month beginning after the date of the enactment of this Act \[Nov. 6, 1986\]; except that if the provisions of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\] are terminated as of a date under \[former\] subsection (<i>l</i>) of such section, then such amendments shall no longer apply as of such date.” \[The provisions of section 1324a of Title 8, Aliens and Nationality, were not terminated under subsection (<i>l</i>) of section 1324a, and that subsection was repealed by Pub. L. 104–208.\]
 

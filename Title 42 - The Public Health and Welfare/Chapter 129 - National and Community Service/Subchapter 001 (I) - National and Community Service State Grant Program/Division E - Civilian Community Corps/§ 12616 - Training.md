@@ -18,7 +18,7 @@ Each member of the Civilian Community Corps shall be provided with between three
 
 #### (1) In general
 
-&emsp;Members of the cadre appointed under section 12619(c)(2) of this title shall provide the training for the members of the Corps, including, as appropriate, advanced service training and ongoing training throughout the members’ periods of agreed service.
+&emsp;Members of the cadre appointed under section 12619(c)(2) of this title shall provide thetraining for the members of the Corps, including, as appropriate, advanced service training and ongoing training throughout the members’ periods of agreed service.
 
 #### (2) Coordination with other entities
 

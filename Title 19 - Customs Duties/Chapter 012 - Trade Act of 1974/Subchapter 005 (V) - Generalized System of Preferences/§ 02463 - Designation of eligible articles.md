@@ -54,7 +54,7 @@
 
 &emsp;The President may not designate any article as an eligible article under subsection (a) of this section if such article is within one of the following categories of import-sensitive articles:
 
-&emsp;&emsp;(A) Textile and apparel articles which were not eligible articles for purposes of this subchapter on January 1, 1994, as this subchapter was in effect on such date.
+&emsp;&emsp;(A) Except as provided in paragraph (4), textile and apparel articles which were not eligible articles for purposes of this subchapter on January 1, 1994, as this subchapter was in effect on such date.
 
 &emsp;&emsp;(B) Watches, except those watches entered after June 30, 1989, that the President specifically determines, after public notice and comment, will not cause material injury to watch or watch band, strap, or bracelet manufacturing and assembly operations in the United States or the United States insular possessions.
 
@@ -75,6 +75,10 @@
 #### (3) Agricultural products
 
 &emsp;No quantity of an agricultural product subject to a tariff-rate quota that exceeds the in-quota quantity shall be eligible for duty-free treatment under this subchapter.
+
+#### (4) Certain hand-knotted or hand-woven carpets
+
+&emsp;Notwithstanding paragraph (1)(A), the President may designate as an eligible article or articles under subsection (a) of this section carpets or rugs which are hand-loomed, hand-woven, hand-hooked, hand-tufted, or hand-knotted, and classifiable under subheading 5701.10.16, 5701.10.40, 5701.90.10, 5701.90.20, 5702.10.90, 5702.42.20, 5702.49.10, 5702.51.20, 5702.91.30, 5702.92.00, 5702.99.10, 5703.10.00, 5703.20.10, or 5703.30.00 of the Harmonized Tariff Schedule of the United States.
 
 #### (c) Withdrawal, suspension, or limitation of duty-free treatment; competitive need limitation
 
@@ -110,7 +114,7 @@
 
 #### (C) Redesignations
 
-&emsp;&emsp;A country which is no longer treated as a beneficiary developing country with respect to an eligible article by reason of subparagraph (A) may, subject to the considerations set forth in sections 2461 and 2462 of this title, be redesignated a beneficiary developing country with respect to such article if imports of such article from such country did not exceed the limitations in subparagraph (A) during the preceding calendar year.
+&emsp;&emsp;A country which is no longer treated as a beneficiary developing country with respect to an eligible article by reason of subparagraph (A) may, subject to the considerationsset forth in sections 2461 and 2462 of this title, be redesignated a beneficiary developing country with respect to such article if imports of such article from such country did not exceed the limitations in subparagraph (A) during the preceding calendar year.
 
 #### (D) Least-developed beneficiary developing countries and beneficiary sub-Saharan African countries
 
@@ -124,7 +128,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The President may disregard subparagraph (A)(i)(II) with respect to any eligible article from any beneficiary developing country if the aggregate appraised value of the imports of such article into the United States during the preceding calendar yeardoes not exceed the applicable amount for such preceding calendar year.
+&emsp;&emsp;&emsp;The President may disregard subparagraph (A)(i)(II) with respect to any eligible article from any beneficiary developing country if the aggregate appraised value of the imports of such article into the United States during the preceding calendar year does not exceed the applicable amount for such preceding calendar year.
 
 #### (ii) Applicable amount
 
@@ -198,9 +202,13 @@ Before designating articles as eligible articles under subsection (a)(1) of this
 
 #### (f) Special rule concerning Puerto Rico
 
-No action under this subchapter may affect any tariff duty imposed by the Legislature ofPuerto Rico pursuant to section 1319 of this title on coffee imported into Puerto Rico.
+No action under this subchapter may affect any tariff duty imposed by the Legislature of Puerto Rico pursuant to section 1319 of this title on coffee imported into Puerto Rico.
 
-(Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921; amended Pub. L. 106–36, title I, §1001(a)(7), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title I, §111(b), May 18, 2000, 114 Stat. 258.)
+(Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921; amended Pub. L. 106–36, title I, §1001(a)(7), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title I, §111(b), May 18, 2000, 114 Stat. 258; Pub. L. 108–429, title I, §1555(a), (b), Dec. 3, 2004, 118 Stat. 2578, 2579.)
+
+#### References in Text
+
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(4), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Prior Provisions
 
@@ -208,11 +216,15 @@ A prior section 2463, Pub. L. 93–618, title V, §503, Jan. 3, 1975, 88 Stat. 2
 
 #### Amendments
 
+2004—Subsec. (b)(1)(A). Pub. L. 108–429, §1555(b), substituted “Except as provided in paragraph (4), textile” for “Textile”.
+
+Subsec. (b)(4). Pub. L. 108–429, §1555(a), added par. (4).
+
 2000—Subsec. (c)(2)(D). Pub. L. 106–200 amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “Subparagraph (A) shall not apply to any least-developed beneficiary developing country.”
 
 1999—Subsec. (a)(2)(A)(ii). Pub. L. 106–36 added subcl. (II) and concluding provisions and struck out former subcl. (II) which read as follows: “the direct costs of processing operations performed in such beneficiary developing country or such member countries, is not less than 35 percent of the appraised value of such article at the time it is entered.”
 
-#### Section Referred to in Other Sections
+#### Effective Date of 2004 Amendment
 
-This section is referred to in sections 2466a, 3011 of this title; title 7 sections 7236, 7937.
+Pub. L. 108–429, title I, §1555(c), Dec. 3, 2004, 118 Stat. 2579, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to any article entered, or withdrawn from warehouse for consumption, on or after the date on which the President makes a designation with respect to the article under section 503(b)(4) of the Trade Act of 1974 \[subsec. (b)(4) of this section\], as added by subsection (a).”
 

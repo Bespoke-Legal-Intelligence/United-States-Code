@@ -44,7 +44,7 @@
 
 (2) In matters covered under sections 4303 and 7512 of this title which have been raised under the negotiated grievance procedure in accordance with this section, an arbitrator shall be governed by section 7701(c)(1) of this title, as applicable.
 
-(f) In matters covered under sections 4303 and 7512 of this title which have been raised under the negotiated grievance procedure in accordance with this section, section 7703 of this title pertaining to judicial review shall apply to the award of an arbitrator in the same manner and under the same conditions as if the matter had been decided by the Board. In matters similar to those covered under sections 4303 and 7512 of this title which arise under other personnel systems and which an aggrieved employee has raised under the negotiated grievance procedure, judicial review of an arbitrator's award may be obtained in the same manner and on the same basis as could be obtained of a final decision in such matters raised under applicable appellate procedures.
+(f) In matters covered under sections 4303 and 7512 of this title which have been raised under the negotiated grievance procedure in accordance with this section, section 7703 of this title pertaining to judicial review shall apply to the award of an arbitrator in the same manner and under the same conditions as if the matter had been decided by the Board. In matters similar tothose covered under sections 4303 and 7512 of this title which arise under other personnel systems and which an aggrieved employee has raised under the negotiated grievance procedure, judicial review of an arbitrator's award may be obtained in the same manner and on the same basis as could be obtained of a final decision in such matters raised under applicable appellate procedures.
 
 (g)(1) This subsection applies with respect to a prohibited personnel practice other than a prohibited personnel practice to which subsection (d) applies.
 
@@ -83,8 +83,4 @@ Subsec. (g). Pub. L. 103–424, §9(b), added subsec. (g).
 #### Partial Suspension of Federal Service Labor-Management Relations
 
 Subsec. (b)(3)(C) of this section suspended with respect to any grievance involving the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(d) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under section 7103 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7116, 7122 of this title; title 2 section 1351; title 6 section 293; title 22 section 3701.
 

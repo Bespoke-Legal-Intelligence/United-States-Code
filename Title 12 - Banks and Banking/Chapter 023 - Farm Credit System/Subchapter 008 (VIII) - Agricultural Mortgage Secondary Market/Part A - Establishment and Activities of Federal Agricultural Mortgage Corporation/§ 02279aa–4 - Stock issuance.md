@@ -30,7 +30,7 @@
 
 #### (2) Stock issued as consideration for contribution
 
-&emsp;The Corporation, from time to time, shall issue to each originator or certified facility voting common stock evidencing any capital contributions made pursuant to this subsection.
+&emsp;The Corporation, from time to time, shall issue to each originator or certified facilityvoting common stock evidencing any capital contributions made pursuant to this subsection.
 
 #### (c) Dividends
 
@@ -54,7 +54,7 @@ The Corporation is authorized to issue nonvoting common stock having such par va
 
 #### (1) Authority of Board
 
-&emsp;The Corporation is authorized to issue nonvoting preferred stock having such par valueas may be fixed by the Board from time to time. Such preferred stock issued shall be freely transferable, except that, as to the Corporation, such stock shall be transferred only on the books of the Corporation.
+&emsp;The Corporation is authorized to issue nonvoting preferred stock having such par value as may be fixed by the Board from time to time. Such preferred stock issued shall be freely transferable, except that, as to the Corporation, such stock shall be transferred only on the books of the Corporation.
 
 #### (2) Rights of preferred stock
 
@@ -75,8 +75,4 @@ Subsec. (e)(1). Pub. L. 100–399, §601(e), substituted “books of the Corpora
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2279aa–2, 2279aa–3, 2279bb–7 of this title.
 

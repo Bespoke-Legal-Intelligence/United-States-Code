@@ -52,7 +52,3 @@ Contents of Report.—The report under subsection (a) shall include information 
 
 Pub. L. 100–418, title I, §1906, Aug. 23, 1988, 102 Stat. 1313, related to Congressional findings of deplorable forced labor conditions in former Soviet Union and request of President to instruct Secretary of the Treasury to enforce this section without delay, prior to repeal by Pub. L. 103–199, title II, §204(a), Dec. 17, 1993, 107 Stat. 2322.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 sections 6962, 6965.
-

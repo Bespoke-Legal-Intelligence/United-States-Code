@@ -62,7 +62,3 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 Section 31001(aa)(4) of Pub. L. 104–134 provided that: “Notwithstanding any other provision of law, the Secretary of the Treasury may consolidate reports concerning debt collection otherwise required to be submitted by the Secretary into one annual report.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3701 of this title.
-

@@ -12,7 +12,7 @@ The Secretary shall reserve 1 percent of the amount appropriated under section 5
 
 &emsp;&emsp;(A) 70 percent of such amount appropriated shall be allotted among the States by allotting to each State an amount that bears the same proportion to such amount appropriated as the number of children under the age of 18 residing in the State bears to the total number of children under the age of 18 residing in all States (except that no State shall receive less than $175,000 under this subparagraph).
 
-&emsp;&emsp;(B) 30 percent of such amount appropriated shall be allotted among the States by allotting to each State an amount that bears the same proportion to such amount appropriated as the amount of private, State or other non-Federal funds leveraged and directed through the currently designated State lead entity in the preceding fiscal yearbears to the aggregate of the amounts leveraged by all States from private, State, or other non-Federal sources and directed through the current lead entity of such States in the preceding fiscal year.
+&emsp;&emsp;(B) 30 percent of such amount appropriated shall be allotted among the States by allotting to each State an amount that bears the same proportion to such amount appropriated as the amount of private, State or other non-Federal funds leveraged and directed through the currently designated State lead entity in the preceding fiscal year bears to the aggregate of the amounts leveraged by all States from private, State, or other non-Federal sources and directed through the current lead entity of such States in the preceding fiscal year.
 
 #### (2) Additional requirement
 
@@ -37,8 +37,4 @@ A prior section 5116b, Pub. L. 93–247, title II, §203, formerly Pub. L. 98–
 2003—Subsec. (b)(1)(B). Pub. L. 108–36, §123(1), substituted “as the amount of private, State or other non-Federal funds leveraged and directed through the currently designated” for “as the amount leveraged by the State from private, State, or other non-Federal sources and directed through the”, “State lead entity” for “State lead agency”, and “the current lead entity” for “the lead agency”.
 
 Subsec. (c)(2). Pub. L. 108–36, §123(2), substituted “subsection (b)” for “subsection (a)”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5106a of this title.
 

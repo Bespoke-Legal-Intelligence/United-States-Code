@@ -32,7 +32,3 @@ This section shall take effect on December 27, 2000.
 
 Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted substantially identical sections 817 of Pub. L. 104–330. This section is based on the text of section 817 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4235 of this title.
-

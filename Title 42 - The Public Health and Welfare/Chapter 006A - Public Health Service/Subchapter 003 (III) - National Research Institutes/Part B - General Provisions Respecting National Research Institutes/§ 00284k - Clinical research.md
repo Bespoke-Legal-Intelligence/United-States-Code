@@ -14,7 +14,7 @@ In carrying out subsection (a) of this section, the Director of National Institu
 
 #### (c) Support for the diverse needs of clinical research
 
-The Director of National Institutes of Health, in cooperation with the Directors of the Institutes, Centers, and Divisions of the National Institutes of Health, shall support and expand the resources available for the diverse needs of the clinical research community, including inpatient, outpatient, and critical care clinical research.
+The Director of National Institutes of Health, in cooperation with the Directors of the Institutes, Centers, and Divisions of the National Institutes of Health, shall support and expand theresources available for the diverse needs of the clinical research community, including inpatient, outpatient, and critical care clinical research.
 
 #### (d) Peer review
 
@@ -82,7 +82,7 @@ Findings.—Congress makes the following findings:
 
 Purpose.—It is the purpose of this title \[see Short Title of 2000 Amendments note set out under section 201 of this title\] to provide additional support for and to expand clinical research programs.”
 
-#### Oversight by General Accounting Office
+#### Oversight by GAO
 
-Pub. L. 106–505, title II, §207, Nov. 13, 2000, 114 Stat. 2330, provided that: “Not later than 18 months after the date of the enactment of this Act \[Nov. 13, 2000\], the Comptroller General of the United States shall submit to the Congress a reporting \[sic\] describing the extent to which the National Institutes of Health has complied with the amendments made by this title \[see Short Title of 2000 Amendments note set out under section 201 of this title\].”
+Pub. L. 106–505, title II, §207, Nov. 13, 2000, 114 Stat. 2330, provided that, not later than 18 months after Nov. 13, 2000, the Comptroller General was to submit to Congress a report describing the extent to which the National Institutes of Health had complied with the amendments made by title II of Pub. L. 106–505.
 

@@ -34,9 +34,5 @@ The President shall designate an official to direct the coordination mechanism e
 
 (Pub. L. 107–228, div. B, title XIII, §1334, Sept. 30, 2002, 116 Stat. 1449.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2357c, 2357d, 2357e, 2357f, 2357g of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “department's”.</i>
 

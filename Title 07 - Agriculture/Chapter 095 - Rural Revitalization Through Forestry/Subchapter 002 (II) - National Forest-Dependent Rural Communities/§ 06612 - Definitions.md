@@ -24,7 +24,7 @@ As used in this subchapter:
 
 &emsp;“(A) any town, township, municipality, or other similar unit of general purpose local government having a population of not more than 10,000 individuals (according to the latest decennial census) that is located in a county where at least 15 percent of the total primary and secondary labor and proprietor income is derived from forestry, wood products, and forest-related industries such as recreation and tourism; or
 
-&emsp;“(B) any county or similar unit of general purpose local government having a population of not more than 22,550 individuals (according to the latest decennial census) in which at least 15 percent of the total primary and secondary labor and proprietor income isderived from forestry, wood products, and forest-related industries such as recreation and tourism,
+&emsp;“(B) any county or similar unit of general purpose local government having a population of not more than 22,550 individuals (according to the latest decennial census) in which at least 15 percent of the total primary and secondary labor and proprietor income is derived from forestry, wood products, and forest-related industries such as recreation and tourism,
 
 > that is located within the boundary, or within 100 miles of the boundary, of a national forest.”
 

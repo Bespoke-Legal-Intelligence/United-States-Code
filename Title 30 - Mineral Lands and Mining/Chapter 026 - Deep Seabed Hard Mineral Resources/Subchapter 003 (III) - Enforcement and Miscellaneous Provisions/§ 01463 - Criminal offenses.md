@@ -10,7 +10,3 @@ Any offense described in paragraphs (1), (2), and (6) of section 1461 of this ti
 
 (Pub. L. 96–283, title III, §303, June 28, 1980, 94 Stat. 578.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1416, 1423, 1464 of this title.
-

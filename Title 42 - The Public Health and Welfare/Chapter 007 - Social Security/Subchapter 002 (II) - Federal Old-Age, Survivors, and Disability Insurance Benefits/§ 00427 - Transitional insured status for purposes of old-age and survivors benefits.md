@@ -28,7 +28,7 @@ Section 402(m) of this title, referred to in subsec. (b), was repealed by Pub. L
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 98–21, §304(a), substituted “spouse” for “wife”, “spouse's” for “wife's”, and “he orshe” for “she”, wherever appearing, substituted “the” for “his” after “402(a) of this title, and of” and preceding “spouse” in two places and preceding “old-age insurance”, and inserted “or section 402(c)” after “section 402(b)” wherever appearing.
+1983—Subsec. (a). Pub. L. 98–21, §304(a), substituted “spouse” for “wife”, “spouse's” for “wife's”, and “he or she” for “she”, wherever appearing, substituted “the” for “his” after “402(a) of this title, and of” and preceding “spouse” in two places and preceding “old-age insurance”, and inserted “or section 402(c)” after “section 402(b)” wherever appearing.
 
 Subsec. (b). Pub. L. 98–21, §304(b), substituted “surviving spouse” for “widow” and “surviving spouse's” for “widow's” wherever appearing, substituted “the” for “her” after “determining” and “The amount of”, and inserted “or section 402(f)” after “section 402(e)” wherever appearing.
 
@@ -93,10 +93,6 @@ Section 309(b) of Pub. L. 89–97 provided that: “The amendment made by subsec
 #### Repeal of Amendment of Subsecs. (a) and (b) Prior to Effective Date
 
 Section 202(a)(4) of Pub. L. 92–336, title II, July 1, 1972, 86 Stat. 416, which, effective Jan. 1, 1975, substituted “the larger of $58.00 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$58.00” and “the larger of $29.00 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$29.00”, was repealed prior to its effective date by Pub. L. 93–233, §2(b)(2), Dec. 31, 1973, 87 Stat. 952, applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under section 402(i) of this title. See section 2(c) of Pub. L. 93–233, set out as an Effective Date of 1973 Amendment note under section 415 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 415 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,10 +1,6 @@
 ### §206. Order to compel arbitration; appointment of arbitrators
 
-A court having jurisdiction under this chapter may direct that arbitration be held in accordance with the agreement at any place therein provided for, whether that place is within or without the United States. Such court may also appoint arbitrators in accordance with the provisions of the agreement.
+A court having jurisdiction under this chapter may direct that arbitration be held in accordance with the agreement at any place thereinprovided for, whether that place is within or without the United States. Such court may also appoint arbitrators in accordance with the provisions of the agreement.
 
 (Added Pub. L. 91–368, §1, July 31, 1970, 84 Stat. 693.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15 of this title.
 

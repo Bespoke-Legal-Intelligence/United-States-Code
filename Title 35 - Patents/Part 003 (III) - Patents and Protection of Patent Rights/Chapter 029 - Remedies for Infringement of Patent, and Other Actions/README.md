@@ -37,10 +37,6 @@
 
 1982—Pub. L. 97–247, §17(b)(2), Aug. 27, 1982, 96 Stat. 323, added item 294.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 154, 207 of this title; title 15 section 3710a.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 

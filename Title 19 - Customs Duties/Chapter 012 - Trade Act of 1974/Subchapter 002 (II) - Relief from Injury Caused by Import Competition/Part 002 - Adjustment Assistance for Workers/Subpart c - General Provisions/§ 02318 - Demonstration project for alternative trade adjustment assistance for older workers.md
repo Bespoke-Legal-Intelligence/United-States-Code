@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(ii) obtains reemployment not more than 26 weeks after the date of separation from the adversely affected employment;
 
-&emsp;&emsp;&emsp;(iii) is at least 50 years of age; and <sup>1</sup>
+&emsp;&emsp;&emsp;(iii) is at least 50 years of age;
 
 &emsp;&emsp;&emsp;(iv) earns not more than $50,000 a year in wages from reemployment;
 
@@ -64,7 +64,7 @@
 
 #### (5) Limitation on other benefits
 
-&emsp;Except as provided in section 2298(a)(2)(B) of this title, if a worker is receiving payments pursuant to the program established under paragraph (1), the worker shall not be eligible to receive any other benefits under this subchapter.
+&emsp;Except as provided in paragraph (2)(B), if a worker is receiving payments pursuant to the program established under paragraph (1), the worker shall not be eligible to receive any other benefits under this subchapter.
 
 #### (b) Termination
 
@@ -74,15 +74,23 @@
 
 #### (2) Exception
 
-&emsp;Notwithstanding paragraph (1), a worker receiving payments under the program established under subsection (a)(1) of this section on the termination date described in paragraph (1) shall continue to receive such payments provided that the worker meets the criteria described in subsection (a)(3)(B) of this section.
+&emsp;Notwithstanding paragraph (1), a worker receiving payments under the program established under subsection (a)(1) of this section on the termination date described in paragraph (1) shall continue to receive such payments if the worker meets the criteria described in subsection (a)(3)(B) of this section.
 
-(Pub. L. 93–618, title II, §246, as added Pub. L. 107–210, div. A, title I, §124(a), Aug. 6, 2002, 116 Stat. 944.)
+(Pub. L. 93–618, title II, §246, as added Pub. L. 107–210, div. A, title I, §124(a), Aug. 6, 2002, 116 Stat. 944; amended Pub. L. 108–429, title II, §2004(a)(7), Dec. 3, 2004, 118 Stat. 2590.)
 
 #### Prior Provisions
 
 A prior section 2318, Pub. L. 93–618, title II, §246, as added Pub. L. 100–418, title I, §1423(d)(1), Aug. 23, 1988, 102 Stat. 1246; amended Pub. L. 101–382, title I, §136, Aug. 20, 1990, 104 Stat. 652, related to supplemental wage allowance demonstration projects, prior to repeal by Pub. L. 107–210, div. A, title I, §§124(a), 151, Aug. 6, 2002, 116 Stat. 944, 953, applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002.
 
 Another prior section 2318, Pub. L. 93–618, title II, §246, Jan. 3, 1975, 88 Stat. 2027, contained transition provisions for events taking place during specified periods prior to the effective date of this part, prior to repeal by Pub. L. 97–35, title XXV, §2513(c), Aug. 13, 1981, 95 Stat. 889.
+
+#### Amendments
+
+2004—Subsec. (a)(3)(B)(iii). Pub. L. 108–429, §2004(a)(7)(A), struck out “and” after semicolon.
+
+Subsec. (a)(5). Pub. L. 108–429, §2004(a)(7)(B), substituted “paragraph (2)(B)” for “section 2298(a)(2)(B) of this title”.
+
+Subsec. (b)(2). Pub. L. 108–429, §2004(a)(7)(C), substituted “if” for “provided that”.
 
 #### Effective Date
 
@@ -91,10 +99,4 @@ Section applicable to petitions for certification filed under this part or part 
 #### Termination Date
 
 No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 35.
-
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

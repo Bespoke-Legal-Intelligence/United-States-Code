@@ -8,7 +8,3 @@ The Secretary of the Interior is authorized and directed to divide the trust fun
 
 Act of June 28, 1938, referred to in text, is act June 28, 1938, ch. 776, 52 Stat. 1209, which was not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 676a, 676b of this title.
-

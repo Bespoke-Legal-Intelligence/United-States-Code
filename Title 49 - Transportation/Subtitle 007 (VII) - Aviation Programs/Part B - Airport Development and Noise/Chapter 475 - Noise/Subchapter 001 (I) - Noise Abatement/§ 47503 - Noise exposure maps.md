@@ -64,7 +64,3 @@ Public Availability of Noise Exposure Maps.—The Administrator shall make noise
 
 Noise Exposure Map.—In this section, the term ‘noise exposure map’ means a noise exposure map prepared under section 47503 of title 49, United States Code.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47504, 47505, 47506, 47507 of this title.
-

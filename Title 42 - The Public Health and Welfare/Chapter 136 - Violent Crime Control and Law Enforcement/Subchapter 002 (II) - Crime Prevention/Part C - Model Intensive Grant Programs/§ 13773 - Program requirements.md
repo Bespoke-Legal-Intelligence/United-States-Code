@@ -14,7 +14,3 @@ An applicant shall include an evaluation plan by which the success of the plan w
 
 (Pub. L. 103–322, title III, §30303, Sept. 13, 1994, 108 Stat. 1845.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

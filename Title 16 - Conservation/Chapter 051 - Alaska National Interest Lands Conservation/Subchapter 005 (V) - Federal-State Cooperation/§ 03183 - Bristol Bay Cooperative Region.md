@@ -80,7 +80,3 @@ The mining laws, referred to in subsec. (f), are classified generally to Title 3
 
 The Mineral Leasing Act, referred to in subsec. (f), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1276 of this title.
-

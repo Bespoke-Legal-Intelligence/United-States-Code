@@ -10,7 +10,3 @@
 
 1990—Subsec. (b). Pub. L. 101–647 substituted “this section” for “this subsection” and “this subsection” for “subsection (b)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 19 section 1583.
-

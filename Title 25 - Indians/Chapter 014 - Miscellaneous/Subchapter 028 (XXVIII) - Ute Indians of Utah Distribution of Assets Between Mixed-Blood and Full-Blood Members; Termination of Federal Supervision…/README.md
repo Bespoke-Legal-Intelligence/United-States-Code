@@ -1,9 +1,5 @@
 ### SUBCHAPTER XXVIII—UTE INDIANS OF UTAH: DISTRIBUTION OF ASSETS BETWEEN MIXED-BLOOD AND FULL-BLOOD MEMBERS; TERMINATION OF FEDERAL SUPERVISION OVER PROPERTY OF MIXED-BLOOD MEMBERS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 676a, 676b of this title.
-
 
 ---
 

@@ -10,7 +10,3 @@ If the Secretary finds after reasonable notice and opportunity for hearing that 
 
 (Pub. L. 101–625, title II, §223, Nov. 28, 1990, 104 Stat. 4112.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12742, 12743, 12748, 12821 of this title.
-

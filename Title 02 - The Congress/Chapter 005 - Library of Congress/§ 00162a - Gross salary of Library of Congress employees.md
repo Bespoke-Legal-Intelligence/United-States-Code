@@ -10,7 +10,7 @@ Hereafter the gross salary of any position in the Library which is augmented by 
 
 #### Amendments
 
-<b>1949</b>—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Repeals
 

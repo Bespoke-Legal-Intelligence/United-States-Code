@@ -60,7 +60,3 @@ Actions.—For each contract that is described in the report under subsection (b
 
 Effective Date.—This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11906 of this title.
-

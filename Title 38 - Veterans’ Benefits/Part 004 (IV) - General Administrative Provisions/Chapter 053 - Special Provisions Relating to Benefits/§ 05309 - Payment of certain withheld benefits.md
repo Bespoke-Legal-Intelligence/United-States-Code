@@ -24,7 +24,3 @@ Subsec. (b). Pub. L. 99–576, §701(75)(B), substituted “such person” for �
 
 1982—Subsec. (a). Pub. L. 97–258 substituted “sections 3329 and 3330 of title 31” for “sections 123–128 of title 31” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5308 of this title.
-

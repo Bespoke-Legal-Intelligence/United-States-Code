@@ -12,9 +12,5 @@ Section 1107 of this title, referred to in text, was repealed by Pub. L. 99–50
 
 Section is comprised of subsec. (b) of section 1167 of Pub. L. 97–35. Subsec. (a) of section 1167 amended section 743 of this title. Subsec. (c) of section 1167, which was set out as subsec. (b) of this section and which provided that the clerk of the special court convey to the Secretary certain series B preferred stock and common stock of Conrail on deposit with the court, and authorized the Secretary to hold and exercise all rights to such Conrail securities, was repealed by Pub. L. 99–509, title IV, §4033(c)(1)(C)(i)(IV), Oct. 21, 1986, 100 Stat. 1908.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 719 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

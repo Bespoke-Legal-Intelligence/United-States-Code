@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—RESIDENTIAL ENERGY CONSERVATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 12 sections 1451, 1717.
-
 
 ---
 

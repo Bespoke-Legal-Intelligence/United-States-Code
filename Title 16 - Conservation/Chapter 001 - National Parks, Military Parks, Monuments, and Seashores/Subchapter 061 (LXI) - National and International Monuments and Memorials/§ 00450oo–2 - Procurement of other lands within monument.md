@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to procure any and all other lands o
 
 (Pub. L. 85–910, §3, Sept. 2, 1958, 72 Stat. 1752.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450<i>oo</i>, 450<i>oo</i>–9 of this title.
-

@@ -4,7 +4,3 @@ Whenever it shall appear that any person has violated or is about to violate any
 
 (Pub. L. 86–257, title II, §210, Sept. 14, 1959, 73 Stat. 530.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 414, 461 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Counseling before testing
 
-The Secretary may not make a grant under this part unless the applicant for the grantagrees that, before testing an individual for HIV disease, the applicant will provide to the individual appropriate counseling regarding the disease (based on the most recently available scientific data), including counseling on—
+The Secretary may not make a grant under this part unless the applicant for the grant agrees that, before testing an individual for HIV disease, the applicant will provide to the individual appropriate counseling regarding the disease (based on the most recently available scientific data), including counseling on—
 
 &emsp;(1) measures for the prevention of exposure to, and the transmission of, HIV;
 
@@ -56,7 +56,7 @@ The Secretary may not make a grant under this part to a State unless the State a
 
 #### (f) Rule of construction regarding counseling without testing
 
-Agreements made pursuant to this section may not be construed to prohibit any grantee under this part from expending the grant for the purpose of providing counseling services described in this section to an individual who does not undergo testing for HIV disease as a result of the grantee or the individual determining that such testing of the individual is not appropriate.
+Agreements made pursuant to this section may not be construed to prohibit any grantee under this part from expending the grant for the purpose of providing counseling services described in this section to an individual who doesnot undergo testing for HIV disease as a result of the grantee or the individual determining that such testing of the individual is not appropriate.
 
 (July 1, 1944, ch. 373, title XXVI, §2662, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 610; amended Pub. L. 106–345, title III, §321, Oct. 20, 2000, 114 Stat. 1346.)
 
@@ -69,10 +69,6 @@ Subsec. (c)(3)(A), (B). Pub. L. 106–345, §321(2), inserted “on” before �
 Subsec. (c)(3)(C). Pub. L. 106–345, §321(3), designated existing provisions as cl. (i), inserted “that explains” before “the benefits”, and added cl. (ii).
 
 Subsec. (c)(3)(D). Pub. L. 106–345, §321(2), inserted “on” before “the availability”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–51, 300ff–61, 300ff–63 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be “; and”.</i>
 

@@ -16,7 +16,3 @@ Any amounts appropriated pursuant to the authority of subsection (a) of this sec
 
 (Pub. L. 107–252, title II, §257, Oct. 29, 2002, 116 Stat. 1697.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15402 of this title.
-

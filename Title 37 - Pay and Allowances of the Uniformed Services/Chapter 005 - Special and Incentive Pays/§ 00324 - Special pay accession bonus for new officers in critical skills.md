@@ -28,17 +28,19 @@ Relation to Other Accession Bonus Authority.—An individual may not receive an 
 
 Repayment for Failure To Commence or Complete Obligated Service.—(1) An individual who, after having received all or part of the accession bonus under an agreement referred to in subsection (a), fails to accept a commission or an appointment as an officer or to commence or complete the total period of active duty service specified in the agreement shall repay to the United States the amount that bears the same ratio to the total amount of the bonus authorized for such person as the unserved part of the period of agreed active duty service bears to the total period of the agreed active duty service. However, the amount required to be repaid by the individual may not exceed the amount of the accession bonus that was paid to the individual.
 
-(2) Subject to paragraph (3), an obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to theUnited States. A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement entered into under subsection (a) does not discharge the individual signing the agreement from a debt arising under such agreement or under paragraph (1).
+(2) Subject to paragraph (3), an obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States. A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement entered into under subsection (a) does not discharge the individual signing the agreement from a debt arising under such agreement or under paragraph (1).
 
 (3) The Secretary concerned may waive, in whole or in part, the repayment requirement under paragraph (1) on a case-by-case basis if the Secretary concerned determines that repayment would be against equity and good conscience or would be contrary to the best interests of the United States.
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2004.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2005.
 
-(Added Pub. L. 107–107, div. A, title VI, §621(a), Dec. 28, 2001, 115 Stat. 1139; amended Pub. L. 107–314, div. A, title VI, §614(e), title X, §1062(c)(2), Dec. 2, 2002, 116 Stat. 2568, 2651; Pub. L. 108–136, div. A, title VI, §§614(e), 623, Nov. 24, 2003, 117 Stat. 1502, 1505.)
+(Added Pub. L. 107–107, div. A, title VI, §621(a), Dec. 28, 2001, 115 Stat. 1139; amended Pub. L.107–314, div. A, title VI, §614(e), title X, §1062(c)(2), Dec. 2, 2002, 116 Stat. 2568, 2651; Pub. L. 108–136, div. A, title VI, §§614(e), 623, Nov. 24, 2003, 117 Stat. 1502, 1505; Pub. L. 108–375, div. A, title VI, §614(f), Oct. 28, 2004, 118 Stat. 1948.)
 
 #### Amendments
+
+2004—Subsec. (g). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
 
 2003—Subsecs. (a), (f)(1). Pub. L. 108–136, §623, inserted “or an appointment” after “commission”.
 

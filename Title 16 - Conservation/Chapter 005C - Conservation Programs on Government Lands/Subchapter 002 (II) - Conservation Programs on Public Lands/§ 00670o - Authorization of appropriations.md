@@ -16,7 +16,7 @@ The Secretary of the Interior and the Secretary of Agriculture may each use any 
 
 The Secretary of the Interior and the Secretary of Agriculture may each make purchases and contracts for property and services from, or provide assistance to, the State agencies concerned, if such property, services or assistance is required to implement those projects and programs carried out on, or of benefit to, Federal lands and identified in the comprehensive plans or cooperative agreements developed under section 670h of this title without regard to title III (other than section 304) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251–260). Contract authority provided in this section is effective only to such extent or in such amounts as are provided in appropriation Acts.
 
-(Pub. L. 86–797, title II, §209, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1374; amended Pub. L. 95–420, §3, Oct. 5, 1978, 92 Stat. 921; Pub. L. 97–396, §5, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §1(b), Oct. 27, 1986, 100 Stat. 3149; Pub. L. 100–653, title II, §202(b), Nov. 14, 1988, 102 Stat. 3827; Pub. L. 105–85, div. B, title XXIX, §2914(b), Nov. 18, 1997, 111 Stat. 2023.)
+(Pub. L. 86–797, title II, §209, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1374; amended Pub. L. 95–420, §3, Oct. 5, 1978, 92 Stat. 921; Pub.L. 97–396, §5, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §1(b), Oct. 27, 1986, 100 Stat. 3149; Pub. L. 100–653, title II, §202(b), Nov. 14, 1988, 102 Stat. 3827; Pub. L. 105–85, div. B, title XXIX, §2914(b), Nov. 18, 1997, 111 Stat. 2023.)
 
 #### References in Text
 
@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 105–85, §2914(b)(2), substituted “$5,000,000 for each 
 
 1986—Subsecs. (a), (b). Pub. L. 99–561 substituted “1985, 1986, 1987, and 1988” for “and 1985”.
 
-1982—Subsecs. (a), (b). Pub. L. 97–396, §5(1), substituted “1983, 1984, and 1985,” for “ending September30, 1979, September 30, 1980, and September 30, 1981,” wherever appearing.
+1982—Subsecs. (a), (b). Pub. L. 97–396, §5(1), substituted “1983, 1984, and 1985,” for “ending September 30, 1979, September 30, 1980, and September 30, 1981,” wherever appearing.
 
 Subsecs. (c), (d). Pub. L. 97–396, §5(2), added subsecs. (c) and (d).
 

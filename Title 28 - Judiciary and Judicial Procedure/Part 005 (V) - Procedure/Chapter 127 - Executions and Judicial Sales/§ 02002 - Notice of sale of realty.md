@@ -32,7 +32,3 @@ This section corrects a typographical error in section 2002 of title 28, U.S.C.
 
 1949—Act May 24, 1949, substituted “11” for “II” after “Title” in third par.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3201, 3202 of this title.
-

@@ -28,7 +28,7 @@ Not later than 30 days prior to the issuance of a final guideline or annual poli
 
 #### (1) In general
 
-&emsp;The Administrator shall promptly issue all necessary regulations and make revisions to agency guidelines with respect to changes in the operation or implementation of the program established under this subchapter.
+&emsp;The Administrator shall promptly issue all necessary regulations and make revisions toagency guidelines with respect to changes in the operation or implementation of the program established under this subchapter.
 
 #### (2) Requirements
 
@@ -101,8 +101,4 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 #### Effective Date
 
 Section 1104(b) of Pub. L. 99–198 provided that: “Section 207 of the Agricultural Trade Development and Assistance Act of 1954 (as added by subsection (a)) \[this section\] shall apply with respect to agreements entered into after December 31, 1985.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1722 of this title.
 

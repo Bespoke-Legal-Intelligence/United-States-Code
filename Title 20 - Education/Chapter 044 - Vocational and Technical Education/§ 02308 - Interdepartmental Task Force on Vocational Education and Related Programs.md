@@ -30,7 +30,7 @@ The Job Training Partnership Act, referred to in subsec. (c)(1), is Pub. L. 97�
 
 The Rehabilitation Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Wagner-Peyser Act, referred to in subsec. (c)(1), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified principally to chapter 4B (§49 etseq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+The Wagner-Peyser Act, referred to in subsec. (c)(1), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended,which is classified principally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 #### Codification
 

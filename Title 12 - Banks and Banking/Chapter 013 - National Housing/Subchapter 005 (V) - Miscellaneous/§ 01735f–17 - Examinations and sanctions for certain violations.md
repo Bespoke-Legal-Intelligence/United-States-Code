@@ -24,9 +24,5 @@ Section 1715n(a)(7)(B) of this title, referred to in subsec. (a)(1), (2), was re
 
 Paragraph (3) of subsection (a), which required the Secretary to submit to Congress, not less than annually, a report on actions taken to carry out this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 103 of House Document No. 103–7.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1709 of this title; title 42 section 3535.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

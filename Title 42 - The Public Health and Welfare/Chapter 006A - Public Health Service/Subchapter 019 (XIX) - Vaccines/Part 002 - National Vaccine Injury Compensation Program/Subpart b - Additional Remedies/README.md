@@ -1,9 +1,5 @@
 subpart b—additional remedies
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 300aa–34 of this title.
-
 
 ---
 

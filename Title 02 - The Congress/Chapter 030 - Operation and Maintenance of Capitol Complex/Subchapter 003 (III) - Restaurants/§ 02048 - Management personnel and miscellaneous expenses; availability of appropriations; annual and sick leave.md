@@ -10,15 +10,11 @@ Section was classified to section 174j–8 of former Title 40, prior to the enac
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–509 substituted “5306” for “5307”.
+1990—Pub. L. 101–509 substituted “5306” for “5307”.
 
-<b>1975</b>—Pub. L. 94–59 inserted references to compensation of Director of Food Service, Assistant Director of Food Service, Manager (special functions), and Administrative Officer.
+1975—Pub. L. 94–59 inserted references to compensation of Director of Food Service, Assistant Director of Food Service, Manager (special functions), and Administrative Officer.
 
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2049 of this title.
 

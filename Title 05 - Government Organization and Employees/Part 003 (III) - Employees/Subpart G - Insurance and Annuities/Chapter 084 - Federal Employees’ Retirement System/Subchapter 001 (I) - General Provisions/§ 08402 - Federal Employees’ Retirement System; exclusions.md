@@ -30,7 +30,7 @@
 
 > except to the extent provided for under subsection (d) of this section or title III of the Federal Employees’ Retirement System Act of 1986 pursuant to an election under such title to become subject to this chapter.
 
-(c)(1) The Office may exclude from the operation of this chapter an employee or group of employees in or under an Executive agency, the United States Postal Service, or the Postal Rate Commission, whose employment is temporary orintermittent, except an employee whose employment is part-time career employment (as defined in section 3401(2)).
+(c)(1) The Office may exclude from the operation of this chapter an employee or group of employees in or under an Executive agency, the United States Postal Service, or the Postal Rate Commission, whose employment is temporary or intermittent, except an employee whose employment is part-time career employment (as defined in section 3401(2)).
 
 (2) The Architect of the Capitol may exclude from the operation of this chapter an employee under the Office of the Architect of the Capitol whose employment is temporary or of uncertain duration.
 
@@ -38,7 +38,7 @@
 
 (4) The Director or Acting Director of the Botanic Garden may exclude from the operation of this chapter an employee under the Botanic Garden whose employment is temporary or of uncertain duration.
 
-(5) The Chief Administrative Officer of the House of Representatives and the Secretary of the Senate each may exclude from the operation of this chapter a Congressional employee—
+(5) The Chief Administrative Officer of the House of Representatives and the Secretary ofthe Senate each may exclude from the operation of this chapter a Congressional employee—
 
 &emsp;(A) whose employment is temporary or intermittent; and
 
@@ -88,7 +88,7 @@ Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges 
 
 &emsp;“(i) having been subject to subchapter III of chapter 83 of this title, or subchapter I of chapter 8 of the Foreign Service Act of 1980; and
 
-&emsp;“(ii) having completed at least 5 years of civilian service creditable under subchapter III of chapter 83 of this title, or at least 5 years of civilian service creditable under subchapter I of the Foreign Service Act of 1980 (determined without regard to any deposit or redeposit requirement under either such subchapter, or any requirement that the individual become subject to either such subchapter after performing the service involved); or”.
+&emsp;“(ii) having completed at least 5 years of civilian service creditable under subchapter III of chapter 83of this title, or at least 5 years of civilian service creditable under subchapter I of the Foreign Service Act of 1980 (determined without regard to any deposit or redeposit requirement under either such subchapter, or any requirement that the individual become subject to either such subchapter after performing the service involved); or”.
 
 Subsec. (d). Pub. L. 106–168, §202(b)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “Paragraph (2) of subsection (b) shall not apply to an individual who becomes subject to subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 (relating to the Foreign Service Pension System) pursuant to an election and who subsequently enters a position in which, but for such paragraph (2), he would be subject to this chapter.”
 
@@ -164,9 +164,5 @@ Pub. L. 106–168, title II, §202(c), Dec. 12, 1999, 113 Stat. 1819, provided t
 
 &emsp;“(3) after service described in paragraph (2), becomes subject to and thereafter entitled to benefits under chapter 84 of title 5, United States Code,
 
-> shall, for purposes of section 302 of the Federal Employees’ Retirement System Act of 1986 \[Pub. L. 99–335\] (100Stat. 601; 5 U.S.C. 8331 note) be considered to have become subject to chapter 84 of title 5, United States Code, pursuant to an election under section 301 of such Act \[5 U.S.C. 8331 note\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8334, 8347, 8349, 8401 of this title; title 50 section 2151.
+> shall, for purposes of section 302 of the Federal Employees’ Retirement System Act of 1986 \[Pub. L. 99–335\] (100 Stat. 601; 5 U.S.C. 8331 note) be considered to have become subject to chapter 84 of title 5, United States Code, pursuant to an election under section 301 of such Act \[5 U.S.C. 8331 note\].”
 

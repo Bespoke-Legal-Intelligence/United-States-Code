@@ -10,7 +10,3 @@ Based on 44 U.S. Code, 1964 ed., §92 (part) (Jan. 12, 1895, ch. 23, §74, 28 St
 
 The first sentence of section 92, is classified to section 1119; the remainder comprises this section of the revision.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1915 of this title.
-

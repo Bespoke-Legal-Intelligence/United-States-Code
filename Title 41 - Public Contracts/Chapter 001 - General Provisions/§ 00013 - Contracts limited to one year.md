@@ -18,7 +18,3 @@ Functions authorized by Foreign Assistance Act of 1961, as amended, as exempt, s
 
 Section inapplicable to procurement or sale of property or services by Armed Services and National Aeronautics and Space Administration, see section 2314 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 260 of this title; title 10 section 2314.
-

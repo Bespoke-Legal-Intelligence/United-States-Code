@@ -73,10 +73,6 @@
 
 1998—Pub. L. 105–178, title VII, §7104(b), June 9, 1998, 112 Stat. 467, added item 30105.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 105, 32502, 32511, 32705, 32902 of this title; title 18 sections 511, 512, 2721; title 42 sections 4905, 7590, 13257.
-
 
 ---
 

@@ -4,7 +4,3 @@ The President of the United States is authorized, upon the joint recommendation 
 
 (July 3, 1930, ch. 834, §1, 46 Stat. 853.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 204<i>l</i> of this title.
-

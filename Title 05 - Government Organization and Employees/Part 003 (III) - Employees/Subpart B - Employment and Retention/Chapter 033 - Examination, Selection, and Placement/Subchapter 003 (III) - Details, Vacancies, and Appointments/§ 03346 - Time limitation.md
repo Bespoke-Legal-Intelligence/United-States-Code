@@ -4,7 +4,7 @@
 
 &emsp;(1) for no longer than 210 days beginning on the date the vacancy occurs; or
 
-&emsp;(2) subject to subsection (b), once a first or second nomination for the office is submittedto the Senate, from the date of such nomination for the period that the nomination is pending in the Senate.
+&emsp;(2) subject to subsection (b), once a first or second nomination for the office is submitted to the Senate, from the date of such nomination for the period that the nomination is pending in the Senate.
 
 (b)(1) If the first nomination for the office is rejected by the Senate, withdrawn, or returned to the President by the Senate, the person may continue to serve as the acting officer for no more than 210 days after the date of such rejection, withdrawal, or return.
 
@@ -25,8 +25,4 @@ A prior section 3346, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 426, provided fo
 #### Effective Date
 
 Section effective 30 days after Oct. 21, 1998, and applicable to any office that becomes vacant after such effective date, with certain exceptions, see section 151(d) of Pub. L. 105–277, set out as a note under section 3345 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3345, 3347, 3348, 3349, 3349a, 3349b, 3349c, 3349d, 5535 of this title.
 

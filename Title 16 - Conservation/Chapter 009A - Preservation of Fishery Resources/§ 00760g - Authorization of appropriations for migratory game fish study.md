@@ -4,7 +4,3 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 (Pub. L. 86–359, §3, Sept. 22, 1959, 73 Stat. 643.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 760f of this title.
-

@@ -26,7 +26,7 @@ The Commission shall report promptly to the Attorney General any information it 
 
 (8) With respect to any application for a construction permit on file at the time of enactment into law of this subsection, which permit would be for issuance under section 2133 of this title, and with respect to any application for an operating license in connection with which a written request for an antitrust review is made as provided for in paragraph (3), the Commission, after consultation with the Attorney General, may, upon determination that such action is necessary in the public interest to avoid unnecessary delay, establish by rule or order periods for Commission notification and receipt of advice differing from those set forth above and may issue a construction permit or operating license in advance of consideration of and findings with respect to the matters covered in this subsection: <i>Provided</i>, That any construction permit or operating license so issued shall contain such conditions as the Commission deems appropriate to assure that any subsequent findings and orders of the Commission with respect to such matters will be given full force and effect.
 
-(Aug. 1, 1946, ch. 724, title I, §105, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 938; amended Pub. L. 88–489, §14, Aug. 26, 1964, 78 Stat. 606; Pub. L. 91–560, §6, Dec. 19, 1970, 84 Stat. 1473; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct.24, 1992, 106 Stat. 2944; Pub. L. 107–273, div. C, title IV, §14102(c)(2)(D), Nov. 2, 2002, 116 Stat. 1921.)
+(Aug. 1, 1946, ch. 724, title I, §105, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 938; amended Pub. L. 88–489, §14, Aug. 26, 1964, 78 Stat. 606; Pub. L. 91–560, §6, Dec. 19, 1970, 84 Stat. 1473; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 107–273, div. C, title IV, §14102(c)(2)(D), Nov. 2, 2002, 116 Stat. 1921.)
 
 #### References in Text
 
@@ -57,8 +57,4 @@ Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with 
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2188, 2201 of this title.
 

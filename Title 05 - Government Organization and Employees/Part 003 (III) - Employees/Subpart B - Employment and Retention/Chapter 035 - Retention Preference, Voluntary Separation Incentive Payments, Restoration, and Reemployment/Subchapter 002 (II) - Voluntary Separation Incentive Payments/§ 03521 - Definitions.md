@@ -52,5 +52,5 @@ Pub. L. 107–296, title XIII, §1313(a)(3), Nov. 25, 2002, 116 Stat. 2294, prov
 
 #### Sense of Congress
 
-Pub. L. 107–296, title XIII, §1313(c), Nov. 25, 2002, 116 Stat. 2296, provided that: “It is the sense of Congress that the implementation of this section \[enacting this subchapter, amending sections 8336 and 8414 of this title, enacting provisions set out as notes under this section and section 8336 of this title, and repealing provisions set out as notes under sections 8336 and 8414 of this title\] is intended to reshape the Federal workforce and not downsize the Federal workforce.”
+Pub. L. 107–296, title XIII, §1313(c), Nov. 25, 2002, 116 Stat. 2296, provided that: “It is the sense of Congressthat the implementation of this section \[enacting this subchapter, amending sections 8336 and 8414 of this title, enacting provisions set out as notes under this section and section 8336 of this title, and repealing provisions set out as notes under sections 8336 and 8414 of this title\] is intended to reshape the Federal workforce and not downsize the Federal workforce.”
 

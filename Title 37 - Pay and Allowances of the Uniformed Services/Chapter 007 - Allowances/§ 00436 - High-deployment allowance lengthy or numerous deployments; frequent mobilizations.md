@@ -76,7 +76,3 @@ Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §574(c)(2)\], substi
 
 Pub. L. 106–65, div. A, title V, §586(d)(2), Oct. 5, 1999, 113 Stat. 639, provided that: “Section 435 \[now 436\] of title 37, United States Code (as added by subsection (b)) \[this section\], shall take effect on October 1, 2001.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12503 of this title; title 10 section 487.
-

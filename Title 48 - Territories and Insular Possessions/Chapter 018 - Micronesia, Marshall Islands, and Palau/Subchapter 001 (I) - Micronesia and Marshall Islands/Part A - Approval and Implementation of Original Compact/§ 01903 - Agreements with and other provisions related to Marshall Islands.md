@@ -68,7 +68,7 @@
 
 #### (2) Failure to pay
 
-&emsp;In the event that the Government of the Marshall Islands fails to make payments in accordance with paragraph (1) of this subsection, the Government of the United States shall initiate procedures under Section 313 of the Compact and consult with the Government of the Marshall Islands with respect to the basis for such non-payment of funds. The United States shall expeditiously resolve the matter of any non-payment of funds as described in paragraph (1) of this subsection pursuant to Section 313 of the Compact and the authority and responsibility of the Government of the United States for security and defense matters in or relating to the Marshall Islands. This paragraph shall be enforced, as may be necessary, in accordance with section 1905(g)(2) of this title.
+&emsp;In the event that the Government of the Marshall Islands fails to make payments in accordance with paragraph (1) of this subsection, the Government of the United States shall initiate procedures under Section 313 of the Compact and consult with the Government of the Marshall Islands with respect to the basis forsuch non-payment of funds. The United States shall expeditiously resolve the matter of any non-payment of funds as described in paragraph (1) of this subsection pursuant to Section 313 of the Compact and the authority and responsibility of the Government of the United States for security and defense matters in or relating to the Marshall Islands. This paragraph shall be enforced, as may be necessary, in accordance with section 1905(g)(2) of this title.
 
 #### (3) Assistance
 
@@ -80,7 +80,7 @@
 
 (2) In the event that the President determines that an investment management firm selected by the Government of the Marshall Islands does not meet the requirements specified in Article I of the Section 177 Agreement, the United States shall invoke the conference and dispute resolution procedures of Article II of Title Four of the Compact. Pending the resolution of such a dispute and until a qualified Fund Manager has been designated, the Government of the Marshall Islands shall place the funds paid by the United States pursuant to Article I of the Section 177 Agreement into an interest-bearing escrow account. Upon designation of a qualified Fund Manager, all funds in the escrow account shall be transferred to the control of such Fund Manager for management pursuant to the Section 177 Agreement.
 
-(3) If the Government of the Marshall Islands determines that some other investment firmshould act as Fund Manager in place of the firm first (or subsequently) selected by such Government, the Government of the Marshall Islands shall so notify the President of the United States, identifying the firm selected by such Government to become Fund Manager, and the President shall proceed to evaluate the qualifications of such identified firm.
+(3) If the Government of the Marshall Islands determines that some other investment firm should act as Fund Manager in place of the firm first (or subsequently) selected by such Government, the Government of the Marshall Islands shall so notify the President of the United States, identifying the firm selected by such Government to become Fund Manager, and the President shall proceed to evaluate the qualifications of such identified firm.
 
 (4) At the end of 15 years after the effective date of the Compact, the firm then acting as Fund Manager shall transfer to the Government of the Marshall Islands, or to such account as such Government shall so notify the Fund Manager, all remaining funds and assets being managed by the Fund Manager under the Section 177 Agreement.
 
@@ -100,7 +100,7 @@ In approving the Compact, the Congress understands and intends that the peoples 
 
 #### (1) Marshall Islands program
 
-&emsp;Notwithstanding any other provision of law, upon the request of the Government of the Marshall Islands, the President (either through an appropriate department or agency of the United States or by contract with a United States firm) shall continue to provide special medical care and logistical support thereto for the remaining 174 members of the population of Rongelap and Utrik who were exposed to radiation resulting from the 1954 United States thermonuclear “Bravo” test, pursuant to Public Laws 95–134 and 96–205. Such medical care and its accompanying logistical support shall total $22,500,000 over the first 11 years of the Compact.
+&emsp;Notwithstanding any other provision of law, upon the request of the Government of theMarshall Islands, the President (either through an appropriate department or agency of the United States or by contract with a United States firm) shall continue to provide special medical care and logistical support thereto for the remaining 174 members of the population of Rongelap and Utrik who were exposed to radiation resulting from the 1954 United States thermonuclear “Bravo” test, pursuant to Public Laws 95–134 and 96–205. Such medical care and its accompanying logistical support shall total $22,500,000 over the first 11 years of the Compact.
 
 #### (2) Agricultural and food programs
 
@@ -116,7 +116,7 @@ In approving the Compact, the Congress understands and intends that the peoples 
 
 #### (i) Rongelap
 
-(1) Because Rongelap was directly affected by fallout from a 1954 United States thermonuclear test and because the Rongelap people remain unconvinced that it is safe to continue to live on Rongelap Island, it is the intent of Congress totake such steps (if any) as may be necessary to overcome the effects of such fallout on the habitability of Rongelap Island, and to restore Rongelap Island, if necessary, so that it can be safely inhabited. Accordingly, it is the expectation of the Congress that the Government of the Marshall Islands shall use such portion of the funds specified in Article II, section 1(e) of the subsidiary agreement for the implementation of section 177 of the Compact as are necessary for the purpose of contracting with a qualified scientist or group of scientists to review the data collected by the Department of Energy relating to radiation levels and other conditions on Rongelap Island resulting from the thermonuclear test. It is the expectation of the Congress that the Government of the Marshall Islands, after consultation with the people of Rongelap, shall select the party to review such data, and shall contract for such review and for submission of a report to the President of the United States and the Congress as to the results thereof.
+(1) Because Rongelap was directly affected by fallout from a 1954 United States thermonuclear test and because the Rongelap people remain unconvinced that it is safe to continue to live on Rongelap Island, it is the intent of Congress to take such steps (if any) as may be necessary to overcome the effects of such fallout on the habitability of Rongelap Island, and to restore Rongelap Island, if necessary, so that it can be safely inhabited. Accordingly, it is the expectation of the Congress that the Government of the Marshall Islands shall use such portion of the funds specified in Article II, section 1(e) of the subsidiary agreement for the implementation of section 177 of the Compact as are necessary for the purpose of contracting with a qualified scientist or group of scientists to review the data collected by the Department of Energy relating to radiation levels and other conditions on Rongelap Island resulting from the thermonuclear test. It is the expectation of the Congress that the Government of the Marshall Islands, after consultation with the people of Rongelap, shall select the party to review such data, and shall contract for such review and for submission of a report to the President of the United States and the Congress as to the results thereof.
 
 (2) The purpose of the review referred to in paragraph (1) of this subsection shall be to establish whether the data cited in support of the conclusions as to the habitability of Rongelap Island, as set forth in the Department of Energy report entitled: “The Meaning of Radiation for Those Atolls in the Northern Part of the Marshall Islands That Were Surveyed in 1978”, dated November 1982, are adequate and whether such conclusions are fully supported by the data. If the party reviewing the data concludes that such conclusions as to habitability are fully supported by adequate data, the report to the President of the United States and the Congress shall so state. If the party reviewing the data concludes that the data are inadequate to support such conclusions as to habitability or that such conclusions as to habitability are not fully supported by the data, the Government of the Marshall Islands shall contract with an appropriate scientist or group of scientists to undertake a complete survey of radiation and other effects of the nuclear testing program relating to the habitability of Rongelap Island. Such sums as are necessary for such survey and report concerning the results thereof and as to steps needed to restore the habitability of Rongelap Island are authorized to be made available to the Government of the Marshall Islands.
 
@@ -136,7 +136,7 @@ Notwithstanding any other provision of law, the Secretary of the Treasury shall 
 
 #### (1) Enjebi trust agreement
 
-&emsp;The Government of the Marshall Islands and the Enewetak Local Government Council, in consultation with the people of Enjebi, shall provide for the creation of the Enjebi Community Trust Fund and the employment of the manager of the Enewetak Fund established pursuant to the Section 177 Agreement as trustee and manager of the Enjebi Community Trust Fund, or, should the manager of the Enewetak Fund not be acceptable to the people of Enjebi, another United States investment manager with substantial experience in the administration of trusts and with fundsunder management in excess of 250 million dollars.
+&emsp;The Government of the Marshall Islands and the Enewetak Local Government Council, in consultation with the people of Enjebi, shall provide for the creation of the Enjebi Community Trust Fund and the employment of the manager of the Enewetak Fund established pursuant to the Section 177 Agreement as trustee and manager of the Enjebi Community Trust Fund, or, should the manager of the Enewetak Fund not be acceptable to the people of Enjebi, another United States investment manager with substantial experience in the administration of trusts and with funds under management in excess of 250 million dollars.
 
 #### (2) Monitor conditions
 
@@ -166,7 +166,7 @@ Notwithstanding any other provision of law, the Secretary of the Treasury shall 
 
 #### (1) Declaration of policy
 
-&emsp;The Congress hereby determines and declares that it is the policy of the United States, to be supported by the full faith and credit of the United States, that because the United States, through its nuclear testing and other activities, rendered Bikini Atoll unsafe for habitation by the people of Bikini, the United States will fulfill its responsibility for restoring Bikini Atoll to habitability, as set forth in paragraphs (2) and (3) of this subsection.
+&emsp;The Congress hereby determines and declares that it is the policy of the United States, to be supported by the full faith and credit of the United States, that because theUnited States, through its nuclear testing and other activities, rendered Bikini Atoll unsafe for habitation by the people of Bikini, the United States will fulfill its responsibility for restoring Bikini Atoll to habitability, as set forth in paragraphs (2) and (3) of this subsection.
 
 #### (2) Cleanup funds
 
@@ -194,7 +194,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 #### (2) GAO access to records
 
-&emsp;(A) In carrying out paragraph (1), the Comptroller General (and his duly authorized representatives) shall have such access to the personnel and (without cost) to records, documents, working papers, automated data andfiles, and other information relevant to such audits. The Comptroller General may duplicate any such records, documents, working papers, automated data and files, or other information relevant to such audits.
+&emsp;(A) In carrying out paragraph (1), the Comptroller General (and his duly authorized representatives) shall have such access to the personnel and (without cost) to records, documents, working papers, automated data and files, and other information relevant to such audits. The Comptroller General may duplicate any such records, documents, working papers, automated data and files, or other information relevant to such audits.
 
 &emsp;(B) Such records, documents, working papers, automated data and files, and other information regarding each such grant or other assistance shall be maintained for at least three years after the date such grant or assistance was provided and in a manner that permits such grants, assistance, and payments to be accounted for distinct from any other funds of the Government of the Marshall Islands.
 
@@ -224,7 +224,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 The Compact, referred to in text, is the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, as amended, set out as a note under section 1901 of this title.
 
-This joint resolution, referred to in subsecs. (a)(3), (e)(5), (k), and (m)(6), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to this part and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+This joint resolution, referred to in subsecs. (a)(3), (e)(5), (k), and (m)(6), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principallyto this part and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 Section 2291(e) of title 22, referred to in subsec. (a)(4), was repealed and section 2291(i) of title 22, relating to definitions, was redesignated section 2291(e) by Pub. L. 102–583, §6(b)(2), (3), Nov. 2, 1992, 106 Stat. 4932. See sections 2291h and 2291i of Title 22, Foreign Relations and Intercourse.
 
@@ -262,7 +262,7 @@ In General.—Any earnings on, and distributions from, the Enjebi Community Trus
 
 “(b)
 
-Effective Date.—The provisions of subsection (a) shall apply to all taxable years whether beginningbefore, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Effective Date.—The provisions of subsection (a) shall apply to all taxable years whether beginning before, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Medical Care and Treatment and Environmental Research and Monitoring Program for Inhabitants of Bikini, etc., Atolls for Injury, Illness, or Condition Resulting From Nuclear Weapons Testing by United States; Implementation Plan and Report
 
@@ -280,15 +280,11 @@ Pub. L. 95–134, title I, §106, as added by Pub. L. 96–205, title I, §102, 
 
 “(2) At the request of the Secretary, any Federal agency shall provide such information, personnel, facilities, logistical support, or other assistance as the Secretary deems necessary to carry out the functions of this program; the costs of all such assistance shall be reimbursed to the provider thereof out of the sums appropriated pursuant to this section.
 
-“(3) All costs associated with the development and implementation of the plan shall be assumed by the Secretary of Energy and effective October 1, 1980, there are authorized to be appropriated to the Secretary of Energy such sums as may be necessary to achieve the purposes of this section.
+“(3) All costs associated with the development and implementation of the plan shall be assumed by the Secretary of Energy and effective October 1, 1980, there are authorized to be appropriated to the Secretary ofEnergy such sums as may be necessary to achieve the purposes of this section.
 
 “(c) The Secretary shall report to the appropriate committees of the Congress, and to the people of the affected atolls annually, or more frequently if necessary, on the implementation of the plan. Each such report shall include a description of the health status of the individuals examined and treated under the plan, an evaluation by the scientific advisory committee, and any recommendations for improvement of the plan. The first such report shall be submitted not later than January 1, 1982.”
 
 Pub. L. 98–213, §8, Dec. 8, 1983, 97 Stat. 1460, provided that: “The Secretary of the Interior is directed to implement the health care program required by section 106 of Public Law 95–134 (91 Stat. 1159) \[set out above\] for the populations of the four atolls in the Marshall Islands identified in such section immediately upon enactment of this section and shall promptly notify the Committee on Interior and Insular Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate if he finds that the populations of other atolls should be included in the program setting forth the basis for his finding and the estimated cost of extension of the program. The Secretary of Energy shall transmit annually to the Committees on Interior and Insular Affairs \[now Committee on Resources\] and Appropriations of the House of Representatives and the Committees on Energy and Natural Resources and Appropriations of the Senate together with the proposed budget for the next fiscal year, a description of the program and the estimated costs for implementation together with any recommendations which he may have for improvements in such program.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1901, 1905, 1910, 1933, 1955 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

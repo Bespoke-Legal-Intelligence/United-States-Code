@@ -48,7 +48,3 @@ Subsec. (c). Pub. L. 95–619, §425(e)(2), substituted “section 6293(c) of th
 
 Subsec. (d). Pub. L. 95–619, §423, added subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6316, 6317 of this title.
-

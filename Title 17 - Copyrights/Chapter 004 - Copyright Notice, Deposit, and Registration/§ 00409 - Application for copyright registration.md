@@ -24,7 +24,7 @@ The application for copyright registration shall be made on a form prescribed by
 
 &emsp;(11) any other information regarded by the Register of Copyrights as bearing upon the preparation or identification of the work or the existence, ownership, or duration of the copyright.
 
-> If an application is submitted for the renewed and extended term provided for in section 304(a)(3)(A) and an original term registration has not been made, the Register may request information with respect to the existence, ownership, or duration of the copyright for the original term.
+> If an application is submitted for the renewed and extended term provided for in section304(a)(3)(A) and an original term registration has not been made, the Register may request information with respect to the existence, ownership, or duration of the copyright for the original term.
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2582; Pub. L. 102–307, title I, §102(b)(1), June 26, 1992, 106 Stat. 266.)
 
@@ -45,8 +45,4 @@ The catch-all clause at the end of the section will enable the Register to obtai
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to copyrights secured between January 1, 1964, and December 31, 1977, and not affecting court proceedings pending on June 26, 1992, with copyrights secured before January 1, 1964, governed by section 304(a) of this title as in effect on the day before June 26, 1992, except each reference to forty-seven years in such provisions deemed to be 67 years, see section 102(g) of Pub. L. 102–307, as amended, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 408, 506 of this title.
 

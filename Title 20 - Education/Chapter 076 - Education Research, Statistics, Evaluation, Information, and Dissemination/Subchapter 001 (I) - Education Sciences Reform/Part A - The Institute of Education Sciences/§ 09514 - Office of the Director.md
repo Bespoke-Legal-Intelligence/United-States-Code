@@ -64,7 +64,7 @@ The duties of the Director shall include the following:
 
 #### (g) Expert guidance and assistance
 
-The Director may establish technical and scientific peer-review groups and scientific program advisory committees for research and evaluations that the Director determines are necessary to carry out the requirements of this subchapter. The Director shall appoint such personnel, except that officers and employees of the United States shall comprise no more than 1/4 of the members of any such group or committee and shall not receive additional compensation for their service as members of such a group or committee. The Director shall ensure that reviewers are highly qualified and capable to appraise education research and development projects. The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a peer-review group or an advisory committee established under this subsection.
+The Director may establish technical and scientific peer-review groups and scientific program advisory committees for research and evaluations that the Director determines are necessary to carry out the requirements of this subchapter. The Director shall appoint such personnel, except that officers and employees of the United States shall comprise no more than 1/4 of the members of any such group or committee and shall not receive additional compensation for their service as members of such a group or committee. The Director shall ensure that reviewers are highly qualified and capable to appraise education research and development projects. The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a peer-reviewgroup or an advisory committee established under this subsection.
 
 #### (h) Review
 
@@ -77,8 +77,4 @@ The Director may, when requested by other officers of the Department, and shall,
 Level II of the Executive Schedule, referred to in subsec. (c), is set out in section 5313 of Title 5, Government Organization and Employees.
 
 The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3412, 3419, 9511, 9533 of this title.
 

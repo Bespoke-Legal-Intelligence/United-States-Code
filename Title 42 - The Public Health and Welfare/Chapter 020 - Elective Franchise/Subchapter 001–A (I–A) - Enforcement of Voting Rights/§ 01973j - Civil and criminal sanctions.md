@@ -18,7 +18,7 @@ Whenever any person has engaged or there are reasonable grounds to believe that 
 
 #### (e) Proceeding by Attorney General to enforce the counting of ballots of registered and eligible persons who are prevented from voting
 
-Whenever in any political subdivision in which there are examiners appointed pursuant to subchapters I–A to I–C of this chapter any persons allege to such an examiner within forty-eighthours after the closing of the polls that notwithstanding (1) their listing under subchapters I–A to I–C of this chapter or registration by an appropriate election official and (2) their eligibility to vote, they have not been permitted to vote in such election, the examiner shall forthwith notify the Attorney General if such allegations in his opinion appear to be well founded. Upon receipt of such notification, the Attorney General may forthwith file with the district court an application for an order providing for the marking, casting, and counting of the ballots of such persons and requiring the inclusion of their votes in the total vote before the results of such election shall be deemed final and any force or effect given thereto. The district court shall hear and determine such matters immediately after the filing of such application. The remedy provided in this subsection shall not preclude any remedy available under State or Federal law.
+Whenever in any political subdivision in which there are examiners appointed pursuant to subchapters I–A to I–C of this chapter any persons allege to such an examiner within forty-eight hours after the closing of the polls that notwithstanding (1) their listing under subchapters I–A to I–C of this chapter or registration by an appropriate election official and (2) their eligibility to vote, they have not been permitted to vote in such election, the examiner shall forthwith notify the Attorney General if such allegations in his opinion appear to be well founded. Upon receipt of such notification, the Attorney General may forthwith file with the district court an application for an order providing for the marking, casting, and counting of the ballots of such persons and requiring the inclusion of their votes in the total vote before the results of such election shall be deemed final and any force or effect given thereto. The district court shall hear and determine such matters immediately after the filing of such application. The remedy provided in this subsection shall not preclude any remedy available under State or Federal law.
 
 #### (f) Jurisdiction of district courts; exhaustion of administrative or other remedies unnecessary
 
@@ -29,8 +29,4 @@ The district courts of the United States shall have jurisdiction of proceedings 
 #### Amendments
 
 1968—Subsecs. (a), (c). Pub. L. 90–284 struck out reference to violation of section 1973i(b) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1973e, 1973i of this title.
 

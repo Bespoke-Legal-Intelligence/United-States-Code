@@ -8,11 +8,3 @@ The Secretary of the Interior (hereinafter referred to as the “Secretary”), 
 
 Section 1 of Pub. L. 98–434 provided: “That this Act \[enacting sections 390g to 390g–8 of this title\] may be cited as the ‘High Plains States Groundwater Demonstration Program Act of 1983’.”
 
-#### Act Referred to in Other Sections
-
-The High Plains States Groundwater Demonstration Program Act of 1983 is referred to in section 390h–14 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390g–3, 390g–7, 390g–8 of this title.
-

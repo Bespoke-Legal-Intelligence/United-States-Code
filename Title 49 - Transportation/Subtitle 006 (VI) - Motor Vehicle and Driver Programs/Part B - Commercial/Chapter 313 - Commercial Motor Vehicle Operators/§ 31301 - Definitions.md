@@ -18,7 +18,7 @@ In this chapter—
 
 &emsp;&emsp;(B) is designed to transport at least 16 passengers including the driver; or
 
-&emsp;&emsp;(C) is used to transport material found by the Secretary to be hazardous under section5103 of this title, except that a vehicle shall not be included as a commercial motor vehicle under this subclause if—
+&emsp;&emsp;(C) is used to transport material found by the Secretary to be hazardous under section 5103 of this title, except that a vehicle shall not be included as a commercial motor vehicle under this subclause if—
 
 &emsp;&emsp;&emsp;(i) the vehicle does not satisfy the weight requirements of subclause (A) of this clause;
 
@@ -161,8 +161,4 @@ Par. (4)(C)(ii). Pub. L. 105–178, §4011(a)(2), inserted “is” before “tr
 #### Exemptions From Requirements Relating to Commercial Motor Vehicles and Their Operators
 
 For provisions relating to waiver of requirements of this chapter with respect to vehicles used for snow or ice removal, see section 345(a)(5) of Pub. L. 104–59, set out as a note under section 31136 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 521, 31316 of this title; title 21 section 849.
 

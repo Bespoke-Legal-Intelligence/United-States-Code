@@ -22,7 +22,7 @@ Except as provided in subsection (c) of this section, no such application—
 
 &emsp;&emsp;(E) aeronautical fixed stations, and
 
-&emsp;&emsp;(F) such other stations or classes of stations, not in the broadcasting or common carrier services, as the Commission shall by rule prescribe,
+&emsp;&emsp;(F) such other stations or classes of stations, not in the broadcasting or commoncarrier services, as the Commission shall by rule prescribe,
 
 > shall be granted by the Commission earlier than thirty days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereof.
 
@@ -62,7 +62,7 @@ If, in the case of any application to which subsection (a) of this section appli
 
 #### (f) Temporary authorization of temporary operations under subsection (b)
 
-When an application subject to subsection (b) of this section has been filed, the Commission, notwithstanding the requirements of such subsection, may, if the grant of such application is otherwise authorized by law and if it finds that there are extraordinary circumstances requiring temporary operations in the public interest and that delay in the institution of such temporary operations would seriously prejudice the public interest, grant a temporary authorization, accompanied by a statement of its reasons therefor, to permit such temporary operations for a period not exceeding 180 days, and upon making like findings may extend such temporary authorization for additional periods not to exceed 180 days. When any such grant of a temporary authorization is made, the Commission shall give expeditious treatment to any timely filed petition to deny such application and to any petition for rehearing of such grant filed under section 405 of this title.
+When an application subject to subsection (b) of this section has been filed, the Commission, notwithstanding the requirements of such subsection, may, if the grant of such application is otherwise authorized by law and if it finds that there are extraordinary circumstances requiringtemporary operations in the public interest and that delay in the institution of such temporary operations would seriously prejudice the public interest, grant a temporary authorization, accompanied by a statement of its reasons therefor, to permit such temporary operations for a period not exceeding 180 days, and upon making like findings may extend such temporary authorization for additional periods not to exceed 180 days. When any such grant of a temporary authorization is made, the Commission shall give expeditious treatment to any timely filed petition to deny such application and to any petition for rehearing of such grant filed under section 405 of this title.
 
 #### (g) Classification of applications
 
@@ -112,7 +112,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (1) General authority
 
-&emsp;If, consistent with the obligations described in paragraph (6)(E), mutually exclusive applications are accepted for any initial license or construction permit, then, except as provided in paragraph (2), the Commission shall grant the license or permit to a qualified applicant through a system of competitive bidding that meets the requirements of this subsection.
+&emsp;If, consistent with the obligations described in paragraph (6)(E), mutually exclusive applications are accepted for any initial license or construction permit, then, except as provided in paragraph (2), the Commission shall grantthe license or permit to a qualified applicant through a system of competitive bidding that meets the requirements of this subsection.
 
 #### (2) Exemptions
 
@@ -130,7 +130,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (3) Design of systems of competitive bidding
 
-&emsp;For each class of licenses or permits that the Commission grants through the use of a competitive bidding system, the Commission shall, by regulation, establish a competitive bidding methodology. The Commission shall seek to design and test multiple alternative methodologies under appropriate circumstances. The Commission shall, directly or by contract, provide for the design and conduct (for purposes of testing) of competitive biddingusing a contingent combinatorial bidding system that permits prospective bidders to bid on combinations or groups of licenses in a single bid and to enter multiple alternative bids within a single bidding round. In identifying classes of licenses and permits to be issued by competitive bidding, in specifying eligibility and other characteristics of such licenses and permits, and in designing the methodologies for use under this subsection, the Commission shall include safeguards to protect the public interest in the use of the spectrum and shall seek to promote the purposes specified in section 151 of this title and the following objectives:
+&emsp;For each class of licenses or permits that the Commission grants through the use of a competitive bidding system, the Commission shall, by regulation, establish a competitive bidding methodology. The Commission shall seek to design and test multiple alternative methodologies under appropriate circumstances. The Commission shall, directly or by contract, provide for the design and conduct (for purposes of testing) of competitive bidding using a contingent combinatorial bidding system that permits prospective bidders to bid on combinations or groups of licenses in a single bid and to enter multiple alternative bids within a single bidding round. In identifying classes of licenses and permits to be issued by competitive bidding, in specifying eligibility and other characteristics of such licenses and permits, and in designing the methodologies for use under this subsection, the Commission shall include safeguards to protect the public interest in the use of the spectrum and shall seek to promote the purposes specified in section 151 of this title and the following objectives:
 
 &emsp;&emsp;(A) the development and rapid deployment of new technologies, products, and services for the benefit of the public, including those residing in rural areas, without administrative or judicial delays;
 
@@ -138,13 +138,15 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;(C) recovery for the public of a portion of the value of the public spectrum resource made available for commercial use and avoidance of unjust enrichment through the methods employed to award uses of that resource;
 
-&emsp;&emsp;(D) efficient and intensive use of the electromagnetic spectrum; and
+&emsp;&emsp;(D) efficient and intensive use of the electromagnetic spectrum;
 
 &emsp;&emsp;(E) ensure that, in the scheduling of any competitive bidding under this subsection, an adequate period is allowed—
 
 &emsp;&emsp;&emsp;(i) before issuance of bidding rules, to permit notice and comment on proposed auction procedures; and
 
-&emsp;&emsp;&emsp;(ii) after issuance of bidding rules, to ensure that interested parties have a sufficient time to develop business plans, assess market conditions, and evaluate the availability of equipment for the relevant services.
+&emsp;&emsp;&emsp;(ii) after issuance of bidding rules, to ensure that interested parties have a sufficient time to develop business plans, assess market conditions, and evaluate the availability of equipment for the relevant services; and
+
+&emsp;&emsp;(F) for any auction of eligible frequencies described in section 113(g)(2) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923(g)(2)), the recovery of 110 percent of estimated relocation costs as provided to the Commission pursuant to section 113(g)(4) of such Act.
 
 #### (4) Contents of regulations
 
@@ -204,7 +206,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (A) General rule
 
-&emsp;&emsp;Except as provided in subparagraph (B), all proceeds from the use of a competitive bidding system under this subsection shall be deposited in the Treasury in accordance with chapter 33 of title 31.
+&emsp;&emsp;Except as provided in subparagraph (B) or subparagraph (D), all proceeds from the use of a competitive bidding system under this subsection shall be deposited in the Treasury in accordance with chapter 33 of title 31.
 
 #### (B) Retention of revenues
 
@@ -219,6 +221,10 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 &emsp;&emsp;&emsp;(ii) the deposits of unsuccessful bidders shall be returned to such bidders; and
 
 &emsp;&emsp;&emsp;(iii) the interest accrued to the account shall be transferred to the Telecommunications Development Fund established pursuant to section 614 of this title.
+
+#### (D) Disposition of cash proceeds
+
+&emsp;&emsp;Cash proceeds attributable to the auction of any eligible frequencies described in section 113(g)(2) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923(g)(2)) shall be deposited in the Spectrum Relocation Fund established under section 118 of such Act \[47 U.S.C. 928\], and shall be available in accordance with that section.
 
 #### (9) Use of former Government spectrum
 
@@ -244,7 +250,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (B) Subsequent conditions
 
-&emsp;&emsp;The Commission's authority to issue licenses or permits under this subsection onand after 2 years after August 10, 1993, shall cease to be effective if—
+&emsp;&emsp;The Commission's authority to issue licenses or permits under this subsection on and after 2 years after August 10, 1993, shall cease to be effective if—
 
 &emsp;&emsp;&emsp;(i) the Secretary of Commerce has failed to submit the report required by section 113(a) of the National Telecommunications and Information Administration Organization Act \[47 U.S.C. 923(a)\];
 
@@ -312,7 +318,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;Except with respect to pending applications described in clause (iv) of this subparagraph, the Commission shall prescribe regulations specifying the procedures and criteria by which the Commission will evaluate applications for preferential treatment in its licensing processes (by precluding the filing of mutually exclusive applications) for persons who make significant contributions to the development of a new service or to the development of new technologies that substantially enhance an existing service. Such regulations shall—
 
-&emsp;&emsp;&emsp;(i) specify the procedures and criteria by which the significance of such contributions will be determined, after an opportunity for review and verification by experts in the radio sciences drawn from among persons who are not employees ofthe Commission or by any applicant for such preferential treatment;
+&emsp;&emsp;&emsp;(i) specify the procedures and criteria by which the significance of such contributions will be determined, after an opportunity for review and verification by experts in the radio sciences drawn from among persons who are not employees of the Commission or by any applicant for such preferential treatment;
 
 &emsp;&emsp;&emsp;(ii) include such other procedures as may be necessary to prevent unjust enrichment by ensuring that the value of any such contribution justifies any reduction in the amounts paid for comparable licenses under this subsection;
 
@@ -344,7 +350,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (F) Expiration
 
-&emsp;&emsp;The authority of the Commission to provide preferential treatment in licensing procedures (by precluding the filing of mutually exclusive applications) to persons who make significant contributions to the development of a new service or to the development of new technologies that substantially enhance an existing service shall expire on August 5, 1997.
+&emsp;&emsp;The authority of the Commission to provide preferential treatment in licensing procedures (by precluding the filing of mutually exclusive applications) to persons who make significant contributions to the developmentof a new service or to the development of new technologies that substantially enhance an existing service shall expire on August 5, 1997.
 
 #### (G) Effective date
 
@@ -366,7 +372,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;&emsp;(iii) in any market in which an extension is not available under clause (i) or (ii), 15 percent or more of the television households in such market—
 
-&emsp;&emsp;&emsp;&emsp;(I) do not subscribe to a multichannel video programming distributor (as defined in section 522 of this title) that carries one of the digital television service programming channels of each of thetelevision stations broadcasting such a channel in such market; and
+&emsp;&emsp;&emsp;&emsp;(I) do not subscribe to a multichannel video programming distributor (as defined in section 522 of this title) that carries one of the digital television service programming channels of each of the television stations broadcasting such a channel in such market; and
 
 &emsp;&emsp;&emsp;&emsp;(II) do not have either—
 
@@ -396,7 +402,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;&emsp;(ii) apply either such rule to preclude such a party that is a winning bidder in a competitive bidding for such spectrum from using such spectrum for digital television service.
 
-#### (15) Commission to determine timing of auctions
+#### (15) <sup>1</sup> Commission to determine timing of auctions
 
 #### (A) Commission authority
 
@@ -436,6 +442,20 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;Within one month after June 19, 2002, the Commission shall return to the bidders for licenses in the A-block, B-block, and E-block of auction 44 the full amount of all upfront payments made by such bidders for such licenses.
 
+#### (15) <sup>1</sup> Special auction provisions for eligible frequencies
+
+#### (A) Special regulations
+
+&emsp;&emsp;The Commission shall revise the regulations prescribed under paragraph (4)(F) of this subsection to prescribe methods by which the total cash proceeds from any auction of eligible frequencies described in section 113(g)(2) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923(g)(2)) shall at least equal 110 percent of the total estimated relocation costs provided to the Commission pursuant to section 113(g)(4) of such Act.
+
+#### (B) Conclusion of auctions contingent on minimum proceeds
+
+&emsp;&emsp;The Commission shall not conclude any auction of eligible frequencies described in section 113(g)(2) of such Act \[47 U.S.C. 923(g)(2)\] if the total cash proceeds attributable to such spectrum are less than 110 percent of the total estimated relocation costs provided to the Commission pursuant to section 113(g)(4) of such Act. If the Commission is unable to conclude an auction for the foregoing reason, the Commission shall cancel the auction, return within 45 days after the auction cancellation date any deposits from participating bidders held in escrow, and absolve such bidders from any obligation to the United States to bid in any subsequent reauction of such spectrum.
+
+#### (C) Authority to issue prior to deauthorization
+
+&emsp;&emsp;In any auction conducted under the regulations required by subparagraph (A), the Commission may grant a license assigned for the use of eligible frequencies prior to the termination of an eligible Federal entity's authorization. However, the Commission shall condition such license by requiring that the licensee cannot cause harmful interference to such Federal entity until such entity's authorization has been terminated by the National Telecommunications and Information Administration.
+
 #### (k) Broadcast station renewal procedures
 
 #### (1) Standards for renewal
@@ -462,7 +482,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (4) Competitor consideration prohibited
 
-&emsp;In making the determinations specified in paragraph (1) or (2), the Commission shall not consider whether the public interest, convenience, and necessity might be served by the grant of a license to a person other than the renewal applicant.
+&emsp;In making the determinations specified in paragraph (1) or (2), the Commission shall notconsider whether the public interest, convenience, and necessity might be served by the grant of a license to a person other than the renewal applicant.
 
 #### (<i>l</i>) Applicability of competitive bidding to pending comparative licensing cases
 
@@ -474,13 +494,21 @@ With respect to competing applications for initial licenses or construction perm
 
 &emsp;(3) waive any provisions of its regulations necessary to permit such persons to enter an agreement to procure the removal of a conflict between their applications during the 180-day period beginning on August 5, 1997.
 
-(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265; Pub. L. 107–195, §3(a), (b)(1), June 19, 2002, 116 Stat. 716, 717.)
+(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265; Pub. L. 107–195, §3(a), (b)(1), June 19, 2002, 116 Stat. 716, 717; Pub. L. 108–494, title II, §203, Dec. 23, 2004, 118 Stat. 3993.)
 
 #### References in Text
 
 The National Telecommunications and Information Administration Organization Act, referred to in subsec. (j)(9)(B), is title I of Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, as amended. Part B of the Act is classified generally to subchapter II (§921 et seq.) of chapter 8 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 901 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (j)(3)(F). Pub. L. 108–494, §203(a), added subpar. (F).
+
+Subsec. (j)(8)(A). Pub. L. 108–494, §203(c)(1), inserted “or subparagraph (D)” after “subparagraph (B)”.
+
+Subsec. (j)(8)(D). Pub. L. 108–494, §203(c)(2), added subpar. (D).
+
+Subsec. (j)(15). Pub. L. 108–494, §203(b), added par. (15) relating to special auction provisions for eligible frequencies.
 
 2002—Subsec. (j)(14)(C)(ii). Pub. L. 107–195, §3(b)(1), struck out at end “The Commission shall complete the assignment of such licenses, and report to the Congress the total revenues from such competitive bidding, by September 30, 2002.”
 
@@ -514,7 +542,7 @@ Uses to which bidding may apply.—A use of the electromagnetic spectrum is desc
 
 &emsp;“(B) a system of competitive bidding will promote the objectives described in paragraph (3).”
 
-Subsec. (j)(3). Pub. L. 105–33, §3002(a)(1)(B)(i), inserted after second sentence of introductory provisions “The Commission shall, directly or by contract, provide for the design and conduct (for purposes of testing) of competitive bidding using a contingent combinatorial bidding system that permits prospective bidders to bid oncombinations or groups of licenses in a single bid and to enter multiple alternative bids within a single bidding round.”
+Subsec. (j)(3). Pub. L. 105–33, §3002(a)(1)(B)(i), inserted after second sentence of introductory provisions “The Commission shall, directly or by contract, provide for the design and conduct (for purposes of testing) of competitive bidding using a contingent combinatorial bidding system that permits prospective bidders to bid on combinations or groups of licenses in a single bid and to enter multiple alternative bids within a single bidding round.”
 
 Subsec. (j)(3)(E). Pub. L. 105–33, §3002(a)(1)(B)(ii)–(iv), added subpar. (E).
 
@@ -532,7 +560,7 @@ Subsec. (<i>l</i>). Pub. L. 105–33, §3002(a)(3), added subsec. (<i>l</i>).
 
 1996—Subsec. (b)(2)(A) to (G). Pub. L. 104–104, §403(j), redesignated subpars. (B) to (G) as (A) to (F), respectively, and struck out former subpar. (A) which read as follows: “fixed point-to-point microwave stations (exclusive of control and relay stations used as integral parts of mobile radio systems),”.
 
-Subsec. (d). Pub. L. 104–104, §204(a)(2), inserted “(or subsection (k) of this section in the case of renewal of any broadcast station license)” after “with subsection (a) of this section” wherever appearing.
+Subsec. (d). Pub. L. 104–104, §204(a)(2), inserted “(or subsection (k) of this section in the case of renewal ofany broadcast station license)” after “with subsection (a) of this section” wherever appearing.
 
 Subsec. (j)(8)(B). Pub. L. 104–104, §710(c), inserted at end “Such offsetting collections are authorized to remain available until expended.”
 
@@ -598,7 +626,7 @@ Section 4(d)(1)–(3) of Pub. L. 86–752 provided that:
 
 “(1) Subsections (a) and (b) of this section \[amending this section and section 319 of this title\] shall take effect ninety days after the date of the enactment of this Act \[Sept. 13, 1960\].
 
-“(2) Section 309 of the Communications Act of 1934 \[this section\] (as amended by subsection (a) of this section) shall apply to any application to which section 308 of such Act \[section 308 of this title\] applies (A) which is filed on or after the effective date of subsection (a) of this section, (B) which is filed before such effective date, but is substantially amended on or after such effective date, or (C) which is filed before such effective date and is not substantially amended on or after such effective date, but with respect to which the Commission by rule provides reasonable opportunity to file petitions to deny in accordance with section 309 of such Act (as amended by subsection (a) of this section) \[this section\].
+“(2) Section 309 of the Communications Act of 1934 \[this section\] (as amended by subsection (a) of this section) shall apply to any application to which section 308 of such Act \[section 308 of this title\] applies (A) which is filed on or after the effective date of subsection (a) of this section, (B) which is filed before such effective date, but is substantially amended on or after such effective date, or (C) which is filed before such effective date and is not substantially amended on or after such effective date, but with respect to which the Commission by rule provides reasonable opportunity to file petitions to deny in accordance with section 309 ofsuch Act (as amended by subsection (a) of this section) \[this section\].
 
 “(3) Section 309 of the Communications Act of 1934 \[this section\], as in effect immediately before the effective date of subsection (a) of this section, shall, on and after such effective date, apply only to applications to which section 308 of such Act \[section 308 of this title\] apply which are filed before such effective date and not substantially amended on or after such effective date and with respect to which the Commission does not permit petitions to deny to be filed as provided in clause (C) of paragraph (2) of this subsection.”
 
@@ -636,7 +664,7 @@ Pub. L. 105–33, title III, §3007, Aug. 5, 1997, 111 Stat. 269, which provided
 
 #### Administrative Procedures for Spectrum Auctions
 
-Section 3008 of title III of Pub. L. 105–33 provided that: “Notwithstanding section 309(b) of the Communications Act of 1934 (47 U.S.C. 309(b)), no application for an instrument of authorization for frequencies assigned under this title \[enacting section 337 of this title, amending this section and sections 153, 303, and 923 to 925 of this title, enacting provisions set out as notes under this section and sections 153, 254, and 925 of this title, and repealing provisions set out as a note under this section\] (or amendments made by this title) shall be granted by the Commission earlier than 7 days following issuance of public notice by the Commissionof the acceptance for filing of such application or of any substantial amendment thereto. Notwithstanding section 309(d)(1) of such Act (47 U.S.C. 309(d)(1)), the Commission may specify a period (no less than 5 days following issuance of such public notice) for the filing of petitions to deny any application for an instrument of authorization for such frequencies.”
+Section 3008 of title III of Pub. L. 105–33 provided that: “Notwithstanding section 309(b) of the Communications Act of 1934 (47 U.S.C. 309(b)), no application for an instrument of authorization for frequencies assigned under this title \[enacting section 337 of this title, amending this section and sections 153, 303, and 923 to 925 of this title, enacting provisions set out as notes under this section and sections 153, 254, and 925 of this title, and repealing provisions set out as a note under this section\] (or amendments made by this title) shall be granted by the Commission earlier than 7 days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereto. Notwithstanding section 309(d)(1) of such Act (47 U.S.C. 309(d)(1)), the Commission may specify a period (no less than 5 days following issuance of such public notice) for the filing of petitions to deny any application for an instrument of authorization for such frequencies.”
 
 #### Deadlines for Commission Action Regarding Competitive Bidding
 
@@ -656,7 +684,7 @@ PCS orders and licensing.—The Commission shall—
 
 #### Special Rule Regarding Subsection (i) Licenses and Permits
 
-Section 6002(e) of Pub. L. 103–66, which provided for exceptions to ban on Federal Communications Commission issuance of licenses and permits under section 309(i) of this title after Aug. 10, 1993, was repealed by Pub. L. 105–33, title III, §3002(a)(4), Aug. 5, 1997, 111 Stat. 260.
+Section 6002(e) of Pub. L. 103–66, which provided for exceptions to ban on Federal Communications Commission issuance of licenses and permits under section309(i) of this title after Aug. 10, 1993, was repealed by Pub. L. 105–33, title III, §3002(a)(4), Aug. 5, 1997, 111 Stat. 260.
 
 #### Authority To Use the System of Random Selection With Respect to Applications for Initial Licenses and Construction Permits
 
@@ -666,7 +694,5 @@ Section 1242(b) of Pub. L. 97–35 provided that: “The Commission shall have a
 
 &emsp;“(2) is pending before the Commission on such date of enactment but has not been designated for hearing on or before such date of enactment.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 311, 316, 319, 325, 336, 337, 532, 533, 554, 614, 922, 925, 1103, 1106 of this title.
+<i><sup>1</sup></i><i> So in original. Two pars. (15) have been enacted.</i>
 

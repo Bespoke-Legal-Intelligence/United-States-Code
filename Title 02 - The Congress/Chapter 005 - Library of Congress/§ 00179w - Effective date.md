@@ -10,7 +10,7 @@ The National Film Preservation Act of 1988, referred to in text, is Pub. L. 100�
 
 The National Film Preservation Act of 1992, referred to in text, is title II of Pub. L. 102–307, June 26, 1992, 106 Stat. 267, which was classified principally to sections 179 to 179k of this title and was repealed by Pub. L. 104–285, title I, §114, Oct. 11, 1996, 110 Stat. 3382.
 
-#### Section Referred to in Other Sections
+#### Effective Date Extension
 
-This section is referred to in sections 179<i>l</i>, 179s, 179t, 179u, 179v of this title.
+Pub. L. 108–447, div. G, title I, §1205(a), Dec. 8, 2004, 118 Stat. 3189, provided that: “Notwithstanding the effective date under section 113 of the National Film Preservation Act of 1996 (2 U.S.C. 179w), title I of that Act \[enacting sections 179<i>l</i> to 179w of this title and repealing sections 179 to 179k of this title and provisions set out as a note under section 179 of this title\] shall be considered to be effective through fiscal year 2005.”
 

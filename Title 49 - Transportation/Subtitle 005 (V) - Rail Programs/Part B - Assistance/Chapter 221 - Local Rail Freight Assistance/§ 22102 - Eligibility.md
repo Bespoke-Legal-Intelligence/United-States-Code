@@ -38,7 +38,3 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(a); added Feb. 5, 1976, Pub. 
 
 In this section, before clause (1), the words “and the Secretary decides that” are substituted for “and the Secretary determines that such State meets or exceeds the requirements of paragraphs (1) through (4) of this subsection” to eliminate unnecessary words. In clauses (2) and (3), the word “authority” is substituted for “agency” for consistency in the revised title. In clause (2), the word “fair” is substituted for “equitable” for consistency in the revised title. In clause (3)(A), the words “is authorized” are substituted for “has authority and administrative jurisdiction” to eliminate unnecessary words. In clause (3)(B), the words “directly or indirectly” are omitted as surplus. In clause (4), the word “adopt” is omitted as being included in “maintain”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 22104, 22301 of this title; title 7 section 3703.
-

@@ -8,7 +8,3 @@ The Bureau is authorized to make financial assistance under this part available 
 
 For prior sections 502 of Pub. L. 90–351 and prior sections 3752 of this title, see note set out preceding section 3750 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3756 of this title.
-

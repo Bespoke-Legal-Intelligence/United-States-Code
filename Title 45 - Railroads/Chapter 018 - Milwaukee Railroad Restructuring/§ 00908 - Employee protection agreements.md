@@ -16,11 +16,7 @@ If the Milwaukee Railroad and the labor organizations representing the employees
 
 #### (d) Payment of benefits and allowances
 
-Benefits and allowances under an employee protection agreement entered into under thissection shall be paid by the Milwaukee Railroad in accordance with section 914 of this title, and claims of employees for such benefits and allowances shall be treated as administrative expenses of the estate of the Milwaukee Railroad.
+Benefits and allowances under an employee protection agreement entered into under this section shall be paid by the Milwaukee Railroad in accordance with section 914 of this title, and claims of employees for such benefits and allowances shall be treated as administrative expenses of the estate of the Milwaukee Railroad.
 
 (Pub. L. 96–101, §9, Nov. 4, 1979, 93 Stat. 741.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 911, 912, 914, 919, 1018 of this title.
 

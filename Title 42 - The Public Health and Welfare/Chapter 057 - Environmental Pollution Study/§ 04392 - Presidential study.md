@@ -4,7 +4,3 @@ The President shall immediately commence (1) a study of the nature and gravity o
 
 (Pub. L. 91–515, title V, §501(b), Oct. 30, 1970, 84 Stat. 1310.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4393 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—RURAL, AGRICULTURAL, AND FORESTRY BIOMASS ENERGY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 8802 of this title.
-
 
 ---
 

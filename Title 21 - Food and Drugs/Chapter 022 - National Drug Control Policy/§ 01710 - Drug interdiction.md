@@ -24,7 +24,7 @@ In this section, the term “Federal drug control agency” means—
 
 In order to assist Congress in determining the personnel, equipment, funding, and other resources that would be required by Federal drug control agencies in order to achieve a level of interdiction success at or above the highest level achieved before October 21, 1998, not later than 90 days after October 21, 1998, the Director shall submit to Congress and to each Federal drug control program agency a report, which shall include—
 
-&emsp;(1) with respect to the southern and western border regions of the United States (including the Pacific coast, the border with Mexico, the Gulf of Mexico coast, and other ports of entry) and in overall totals, data relating to—
+&emsp;(1) with respect to the southern and western border regions of the United States (including the Pacific coast, the border with Mexico, theGulf of Mexico coast, and other ports of entry) and in overall totals, data relating to—
 
 &emsp;&emsp;(A) the amount of marijuana, heroin, methamphetamine, and cocaine—
 

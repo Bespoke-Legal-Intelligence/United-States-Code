@@ -4,7 +4,3 @@ Officers who are not included on the active duty promotion list may be promoted 
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 183.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 336 of this title.
-

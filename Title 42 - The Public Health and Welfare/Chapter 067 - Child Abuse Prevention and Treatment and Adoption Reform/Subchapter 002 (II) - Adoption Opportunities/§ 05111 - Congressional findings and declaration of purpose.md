@@ -30,7 +30,7 @@ It is the purpose of this subchapter to facilitate the elimination of barriers, 
 
 &emsp;(1) promote quality standards for adoption services, pre-placement, post-placement, and post-legal adoption counseling, and standards to protect the rights of children in need of adoption;
 
-&emsp;(2) maintain an Internet-based national adoption information exchange system to bring together children who would benefit from adoption and qualified prospective adoptive parents who are seeking such children, and conduct national recruitment efforts in order to reach prospective parents for children awaiting adoption; and
+&emsp;(2) maintain an Internet-based national adoption information exchange system to bring together children who would benefit from adoption and qualified prospective adoptive parents who are seeking such children, and conduct national recruitment efforts inorder to reach prospective parents for children awaiting adoption; and
 
 &emsp;(3) demonstrate expeditious ways to free children for adoption for whom it has been determined that adoption is the appropriate plan.
 

@@ -32,7 +32,3 @@ Subsec. (b). Pub. L. 100–483, §4, substituted “production of fuel and nonfu
 
 For short title of Pub. L. 98–409, which enacted this subchapter, as the Mining and Mineral Resources Institutes Act, see section 11 of Pub. L. 98–409, as amended, set out as a note under section 1201 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1223, 1226 of this title.
-

@@ -46,5 +46,5 @@ Except as provided in section 198b(a) of this title, in this part:
 
 #### Termination Date
 
-Part to terminate 5 years after Oct. 22, 1999, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
+Part to terminate Sept. 30, 2005, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
 

@@ -52,7 +52,7 @@ Loans from any student loan fund established by a school pursuant to an agreemen
 
 #### (d) Payment of proportionate share
 
-Where all or any part of a loan, or interest, is canceled under this section, the Secretary shallpay to the school an amount equal to the school's proportionate share of the canceled portion, as determined by the Secretary.
+Where all or any part of a loan, or interest, is canceled under this section, the Secretary shall pay to the school an amount equal to the school's proportionate share of the canceled portion, as determined by the Secretary.
 
 #### (e) Review by Secretary
 

@@ -16,7 +16,7 @@ The Secretary may utilize condemnation proceedings without the consent of the ow
 
 #### (d) Exchange of property; cash equalization payments
 
-In exercising his authority to acquire property by exchange, the Secretary may accept title to any non-Federal property, or interests therein, located within the recreation area and, notwithstanding any other provision of law, he may convey in exchange therefor any federally owned property within the State of Idaho which he classifies as suitable for exchange and which is under his administrative jurisdiction. The values of the properties so exchanged shall be approximately equal or, if they are not approximately equal, they shall be equalized by thepayment of cash to the grantor or to the Secretary as the circumstances require. In the exercise of his exchange authority, the Secretary may utilize authorities and procedures available to him in connection with exchanges of national forest lands.
+In exercising his authority to acquire property by exchange, the Secretary may accept title to any non-Federal property, or interests therein, located within the recreation area and, notwithstanding any other provision of law, he may convey in exchange therefor any federally owned property within the State of Idaho which he classifies as suitable for exchange and which is under his administrative jurisdiction. The values of the properties so exchanged shall be approximately equal or, if they are not approximately equal, they shall be equalized by the payment of cash to the grantor or to the Secretary as the circumstances require. In the exercise of his exchange authority, the Secretary may utilize authorities and procedures available to him in connection with exchanges of national forest lands.
 
 #### (e) Mineral interests
 
@@ -39,8 +39,4 @@ Except as otherwise provided, the Secretary shall have the authority to use cond
 #### References in Text
 
 The United States mining laws, referred to in subsec. (e), are classified generally to Title 30, Mineral Lands and Mining.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460aa–3 of this title.
 

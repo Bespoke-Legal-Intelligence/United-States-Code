@@ -20,7 +20,3 @@ The Secretary of Agriculture of the United States shall be the competent authori
 
 (Pub. L. 97–325, §4, Oct. 15, 1982, 96 Stat. 1604.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4405 of this title.
-

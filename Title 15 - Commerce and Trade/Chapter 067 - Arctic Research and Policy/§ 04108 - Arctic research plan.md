@@ -18,9 +18,9 @@
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the biennial revision required under subsec. (a) of this section is listed on page 174), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the biennial revision required under subsec. (a) of this section is listed on page 174), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
-#### Section Referred to in Other Sections
+#### Delegation of Functions
 
-This section is referred to in sections 4107, 4109 of this title.
+Functions of President under subsec. (a) delegated to Director of the National Science Foundation, see Memorandum of President of the United States, Feb. 17, 2005, 70 F.R. 9841, set out as a note under section 4107 of this title.
 

@@ -68,7 +68,7 @@ The following members of the Armed Forces are eligible for selection to particip
 
 #### (d) Selection priorities
 
-In selecting eligible members of the Armed Forces to receive assistance under the Program, the Secretary shall give priority to members who have educational or military experience in science, mathematics, special education, or vocational or technical subjects and agree to seek employment as science, mathematics, or special education teachers in elementary schools or secondary schools or in other schools under the jurisdiction of a local educational agency.
+In selecting eligible members of the Armed Forces to receive assistance under the Program, the Secretary shall give priority to members who have educational or military experience in science, mathematics, special education, or vocational or technical subjects and agree to seek employment as science, mathematics, or specialeducation teachers in elementary schools or secondary schools or in other schools under the jurisdiction of a local educational agency.
 
 #### (e) Other conditions on selection
 
@@ -93,10 +93,6 @@ Section 1151 of title 10, referred to in subsec. (a)(4)(B), was repealed by Pub.
 #### Prior Provisions
 
 A prior section 6673, Pub. L. 89–10, title II, §2303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3634, related to grants for the implementation of professional development programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6672, 6674, 6676 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(i) to have”.</i>
 

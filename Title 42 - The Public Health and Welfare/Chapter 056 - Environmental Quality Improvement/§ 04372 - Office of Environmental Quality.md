@@ -40,7 +40,7 @@ The Director is authorized to contract with public or private agencies, institut
 
 Public Law 91–190, referred to in subsecs. (a), (c), and (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
-The provisions of title 5, governing appointments in the competitive service, referred to in subsec. (c), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5, governing appointments in the competitive service, referred to in subsec. (c), areclassified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The General Schedule, referred to in subsec. (c), is set out under section 5332 of Title 5.
 

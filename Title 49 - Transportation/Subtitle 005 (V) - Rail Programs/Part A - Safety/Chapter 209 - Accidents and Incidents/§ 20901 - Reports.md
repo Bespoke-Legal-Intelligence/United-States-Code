@@ -60,7 +60,3 @@ In this section, the words “accident” and “incident” are used, and the w
 
 In subsection (b), the words “or incident” are added for consistency. The text of section 15(c) of the Rail Safety Enforcement and Review Act (Pub. L. 102–365, 106 Stat. 981) is omitted as executed.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 20903, 21311 of this title.
-

@@ -50,9 +50,5 @@ No investigation may be initiated under this section with respect to—
 
 Paragraphs (3) and (4) of subsection (b) of section 2252 of this title, referred to in subsec. (c)(1), were repealed and a new paragraph (3) was added by Pub. L. 103–465, title III, §301(c), Dec. 8, 1994, 108 Stat. 4932.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3353, 3354 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

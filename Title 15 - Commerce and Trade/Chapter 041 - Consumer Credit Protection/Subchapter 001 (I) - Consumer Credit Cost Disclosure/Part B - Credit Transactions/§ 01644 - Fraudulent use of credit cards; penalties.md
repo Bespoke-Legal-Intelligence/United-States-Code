@@ -40,7 +40,3 @@ Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L
 
 Section 503(3) of Pub. L. 91–508 provided that: “Section 134 of such Act \[this section\] applies to offenses committed on or after such date of enactment \[Oct. 26, 1970\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1645 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—PARTICIPATION IN FEDERAL EMPLOYEES’ RETIREMENT SYSTEM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2021 of this title; title 22 section 4071c.
-
 
 ---
 

@@ -13,10 +13,13 @@
 | [209\.](%C2%A7%2000209%20-%20Members%20of%20precommissioning%20programs.md) | Members of precommissioning programs. |
 | [210\.](%C2%A7%2000210%20-%20Pay%20of%20senior%20enlisted%20members%20during%20terminal%20leave%20and%20while%20hospitalized.md) | Pay of senior enlisted members during terminal leave and while hospitalized. |
 | [211\.](%C2%A7%2000211%20-%20Participation%20in%20Thrift%20Savings%20Plan.md) | Participation in Thrift Savings Plan. |
+| [212\.](%C2%A7%2000212%20-%20Advancement%20of%20basic%20pay%20members%20deployed%20in%20combat%20zone%20for%20more%20than%20one%20year.md) | Advancement of basic pay: members deployed in combat zone for more than one year. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title VI, §606(b), Oct. 28, 2004, 118 Stat. 1946, added item 212.
 
 1999—Pub. L. 106–65, div. A, title VI, §661(a)(1)(B), Oct. 5, 1999, 113 Stat. 670, added item 211.
 
@@ -40,10 +43,6 @@
 
 1964—Pub. L. 88–647, title II, §202(5), Oct. 13, 1964, 78 Stat. 1071, substituted “Senior Reserve Officers’ Training Corps” for “naval officer candidate programs” in item 209.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 406, 1003 of this title; title 26 section 3121; title 42 section 409.
-
 
 ---
 
@@ -60,3 +59,4 @@ This chapter is referred to in sections 406, 1003 of this title; title 26 sectio
 - [&sect; 00209 - Members of precommissioning programs](%C2%A7%2000209%20-%20Members%20of%20precommissioning%20programs.md)
 - [&sect; 00210 - Pay of senior enlisted members during terminal leave and while hospitalized](%C2%A7%2000210%20-%20Pay%20of%20senior%20enlisted%20members%20during%20terminal%20leave%20and%20while%20hospitalized.md)
 - [&sect; 00211 - Participation in Thrift Savings Plan](%C2%A7%2000211%20-%20Participation%20in%20Thrift%20Savings%20Plan.md)
+- [&sect; 00212 - Advancement of basic pay members deployed in combat zone for more than one year](%C2%A7%2000212%20-%20Advancement%20of%20basic%20pay%20members%20deployed%20in%20combat%20zone%20for%20more%20than%20one%20year.md)

@@ -146,7 +146,7 @@ This chapter, referred to in subsecs. (d)(5), (e)(10), and (p), was in the origi
 
 This subchapter, referred to in subsec. (i), was in the original “this subtitle”, meaning subtitle A of title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3901, which enacted this subchapter and amended sections 1437f, 1437aaa–1, 1437aaa–2, 1471, 4822, 5305, 12705, 12742, 12872, 12873, 12892, and 12893 of this title and sections 1703, 1709, and 1715<i>l</i> of Title 12, Banks and Banking.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (<i>o</i>)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (<i>o</i>)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (<i>o</i>)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, as amended. Title II of the Act, known as the HOME Investment Partnerships Act, is classified generally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
@@ -159,10 +159,6 @@ The Departments of Veterans Affairs and Housing and Urban Development, and Indep
 Subsecs. (c)(4), (d)(1), (e)(1) to (3), (7), (9). Pub. L. 104–134, §101(e) \[title II, §217(a)\], substituted “housing” for “priority housing”.
 
 1994—Subsecs. (<i>o</i>), (p). Pub. L. 103–233 added subsec. (<i>o</i>) and redesignated former subsec. (<i>o</i>) as (p).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4854b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

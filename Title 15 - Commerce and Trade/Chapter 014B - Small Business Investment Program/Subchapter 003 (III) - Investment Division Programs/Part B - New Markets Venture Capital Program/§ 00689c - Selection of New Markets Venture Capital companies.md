@@ -62,7 +62,7 @@ To participate, as a New Markets Venture Capital company, in the program establi
 
 #### (d) Requirements to be met for final approval
 
-The Administrator shall grant each conditionally approved company a period of time, notto exceed 2 years, to satisfy the following requirements:
+The Administrator shall grant each conditionally approved company a period of time, not to exceed 2 years, to satisfy the following requirements:
 
 #### (1) Capital requirement
 
@@ -117,10 +117,6 @@ The Administrator shall, with respect to each applicant conditionally approved t
 &emsp;(2) if the applicant fails to satisfy the requirements of subsection (d) of this section on or before the expiration of the time period described in that subsection, revoke the conditional approval granted under that subsection.
 
 (Pub. L. 85–699, title III, §354, as added Pub. L. 106–554, §1(a)(8) \[§1(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–655.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 689, 689b, 689g of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “approve”.</i>
 

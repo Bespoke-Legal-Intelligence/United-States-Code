@@ -8,7 +8,7 @@
 
 &emsp;(3) The term “owner-operator” shall include in the State of Hawaii the lessee-operator of real property in any case in which the Secretary determines that such real property cannot be acquired in fee simple by such lessee-operator, that adequate security is provided for the loan with respect to such real property for which such lessee-operator applies under this chapter, and that there is a reasonable probability of accomplishing the objectives and repayment of such loan.
 
-&emsp;(4) The word “insure” as used in this chapter includes guarantee, which means to guarantee the payment of a loan originated, held, and serviced by a private financial agency or other lender approved by the Secretary.
+&emsp;(4) The word “insure” as used in this chapter includes guarantee, which means to guarantee the payment of a loan originated, held, andserviced by a private financial agency or other lender approved by the Secretary.
 
 &emsp;(5) The term “contract of insurance” includes a contract of guarantee.
 
@@ -225,8 +225,4 @@ Section 702(h)(2) of Pub. L. 102–237, as amended by Pub. L. 102–552, title V
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2001 of this title; title 16 sections 3838, 3839aa–1; title 25 section 492.
 

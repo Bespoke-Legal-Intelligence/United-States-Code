@@ -32,11 +32,11 @@
 
 (f)(1) Notwithstanding subsection (a) but subject to paragraph (2), a physician or a professional counselor may disclose information or records indicating that a patient or subject is infected with the human immunodeficiency virus if the disclosure is made to (A) the spouse of the patient or subject, or (B) to an individual whom the patient or subject has, during the process of professional counseling or of testing to determine whether the patient or subject is infected with such virus, identified as being a sexual partner of such patient or subject.
 
-(2)(A) A disclosure under paragraph (1) may be made only if the physician or counselor, after making reasonable efforts to counsel and encourage the patient or subject to provide the information to the spouse or sexual partner, reasonably believes that the patient or subject will not provide the information to the spouse or sexual partner and that the disclosure is necessary to protect the health of the spouse or sexual partner.
+(2)(A) A disclosure under paragraph (1) may be made only if the physician or counselor, aftermaking reasonable efforts to counsel and encourage the patient or subject to provide the information to the spouse or sexual partner, reasonably believes that the patient or subject will not provide the information to the spouse or sexual partner and that the disclosure is necessary to protect the health of the spouse or sexual partner.
 
 (B) A disclosure under such paragraph may be made by a physician or counselor other than the physician or counselor referred to in subparagraph (A) if such physician or counselor is unavailable by reason of absence or termination of employment to make the disclosure.
 
-(g) Any person who violates any provision of this section or any regulation issued pursuant tothis section shall be fined, in the case of a first offense, up to the maximum amount provided under section 5701(f) of this title for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under section 5701(f) of this title for a subsequent offense under that section.
+(g) Any person who violates any provision of this section or any regulation issued pursuant to this section shall be fined, in the case of a first offense, up to the maximum amount provided under section 5701(f) of this title for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under section 5701(f) of this title for a subsequent offense under that section.
 
 (Added Pub. L. 94–581, title I, §111(a)(1), Oct. 21, 1976, 90 Stat. 2849, §4132; amended Pub. L. 100–322, title I, §121, May 20, 1988, 102 Stat. 502; renumbered §7332 and amended Pub. L. 102–40, title IV, §§401(a)(4)(A), 402(d)(1), 403(a)(1), (2), (4), (5), May 7, 1991, 105 Stat. 221, 239.)
 
@@ -89,8 +89,4 @@ Subsec. (c). Pub. L. 100–322, §121(e)(2), substituted “subsection (b)(2)(D)
 Subsec. (f). Pub. L. 100–322, §121(c)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 100–322, §121(c)(1), (d), redesignated subsec. (f) as (g) and substituted “shall be fined, in the case of a first offense, up to the maximum amount provided under section 3301(f) of this title for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under section 3301(f) of this title for a subsequent offense under that section.” for “shall be fined not more than $500 in the case of a first offense, and not more than $5,000 in the case of each subsequent offense”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1729, 1753, 7334, 7464 of this title.
 

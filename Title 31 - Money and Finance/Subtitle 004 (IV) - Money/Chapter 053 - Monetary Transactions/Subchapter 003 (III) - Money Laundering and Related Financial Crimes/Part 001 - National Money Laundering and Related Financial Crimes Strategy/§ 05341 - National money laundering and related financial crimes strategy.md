@@ -6,11 +6,11 @@ Development and Transmittal to Congress.—
 
 &emsp;(1)
 
-Development.—The President, acting through the Secretary and in consultation with the Attorney General, shall develop a national strategy for combating money laundering and related financial crimes.
+Development.—The President, acting through the Secretary and in consultationwith the Attorney General, shall develop a national strategy for combating money laundering and related financial crimes.
 
 &emsp;(2)
 
-Transmittal to congress.—By February 1 of 1999, 2000, 2001, 2002, and 2003, the President shall submit a national strategy developed in accordance with paragraph (1) to the Congress.
+Transmittal to congress.—By August 1 of 1999, 2000, 2001, 2002, 2003, 2005, and 2007, the President shall submit a national strategy developed in accordance with paragraph (1) to the Congress.
 
 &emsp;(3)
 
@@ -106,17 +106,11 @@ Consultations.—In addition to the consultations required under this section wi
 
 &emsp;(10) representatives of the private financial services sector, to the extent appropriate.
 
-(Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2942; amended Pub. L. 107–56, title III, §354, Oct. 26, 2001, 115 Stat. 323.)
+(Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2942; amended Pub. L. 107–56, title III, §354, Oct. 26, 2001, 115 Stat. 323; Pub. L. 108–458, title VI, §6102(a), Dec. 17, 2004, 118 Stat. 3744.)
 
 #### Amendments
 
+2004—Subsec. (a)(2). Pub. L. 108–458 substituted “August 1” for “February 1” and “2003, 2005, and 2007,” for “and 2003,”.
+
 2001—Subsec. (b)(12). Pub. L. 107–56 added par. (12).
-
-#### Termination Date of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5342, 5354 of this title.
 

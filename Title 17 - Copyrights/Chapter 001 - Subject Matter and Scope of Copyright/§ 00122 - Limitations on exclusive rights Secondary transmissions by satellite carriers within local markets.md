@@ -104,7 +104,7 @@ In general.—The term “local market”, in the case of both commercial and no
 
 &emsp;&emsp;&emsp;(i) in the case of a commercial television broadcast station, all commercial television broadcast stations licensed to a community within the same designated market area are within the same local market; and
 
-&emsp;&emsp;&emsp;(ii) in the case of a noncommercial educational television broadcast station, themarket includes any station that is licensed to a community within the same designated market area as the noncommercial educational television broadcast station.
+&emsp;&emsp;&emsp;(ii) in the case of a noncommercial educational television broadcast station, the market includes any station that is licensed to a community within the same designated market area as the noncommercial educational television broadcast station.
 
 &emsp;&emsp;(B)
 
@@ -113,6 +113,10 @@ County of license.—In addition to the area described in subparagraph (A), a st
 &emsp;&emsp;(C)
 
 Designated market area.—For purposes of subparagraph (A), the term “designated market area” means a designated market area, as determined by Nielsen Media Research and published in the 1999–2000 Nielsen Station Index Directory and Nielsen Station Index United States Television Household Estimates or any successor publication.
+
+&emsp;&emsp;(D)
+
+Certain areas outside of any designated market area.—Any census area, borough, or other area in the State of Alaska that is outside of a designated market area, as determined by Nielsen Media Research, shall be deemed to be part of one of the local markets in the State of Alaska. A satellite carrier may determine which local market in the State of Alaska will be deemed to be the relevant local market in connection with each subscriber in such census area, borough, or other area.
 
 &emsp;(3)
 
@@ -130,17 +134,15 @@ Television broadcast station.—The term “television broadcast station”—
 
 &emsp;&emsp;(B) includes a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico if the station broadcasts primarily in the English language and is a network station as defined in section 119(d)(2)(A).
 
-(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–523; amended Pub. L. 107–273, div. C, title III, §13210(2)(A), Nov. 2, 2002, 116 Stat. 1909.)
+(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–523; amended Pub. L. 107–273, div. C, title III, §13210(2)(A), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–447, div. J, title IX \[title I, §111(b)\], Dec. 8, 2004, 118 Stat. 3409.)
 
 #### Amendments
+
+2004—Subsec. (j)(2)(D). Pub. L. 108–447 added subpar. (D).
 
 2002—Pub. L. 107–273 substituted “rights: Secondary” for “rights; secondary” in section catchline.
 
 #### Effective Date
 
-Section effective July 1, 1999, see section 1000(a)(9) \[title I, §1012\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 119, 501, 511 of this title; title 18 section 2319; title 47 sections 325, 338, 339, 1103, 1109.
+Section effective July 1, 1999, see section 1000(a)(9) \[title I, §1012\] of Pub. L. 106–113, set out as an EffectiveDate of 1999 Amendment note under section 101 of this title.
 

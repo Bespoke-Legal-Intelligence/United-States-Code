@@ -4,27 +4,39 @@ For purposes of this subchapter, the following definitions apply:
 
 &emsp;(1) The term “Federal agency” means each authority of the Government of the United States, whether or not it is within or subject to review by another agency.
 
-&emsp;(2) The term “energy savings” means a reduction in the cost of energy, from a base cost established through a methodology set forth in the contract, utilized in an existing federally owned building or buildings or other federally owned facilities as a result of—
+&emsp;(2) The term “energy savings” means a reduction in the cost of energy, water, or wastewater treatment, from a base cost established through a methodology set forth in the contract, used in an existing federally owned building or buildings or other federally owned facilities as a result of—
 
-&emsp;&emsp;(A) the lease or purchase of operating equipment, improvements, altered operation and maintenance, or technical services; or
+&emsp;&emsp;(A) the lease or purchase of operating equipment, improvements, altered operation and maintenance, or technical services;
 
-&emsp;&emsp;(B) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a federally owned building or buildings or other federally owned facilities.
+&emsp;&emsp;(B) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a federally owned building or buildings or other federally owned facilities; or
 
-&emsp;(3) The terms “energy savings contract” and “energy savings performance contract” mean a contract which provides for the performance of services for the design, acquisition, installation, testing, operation, and, where appropriate, maintenance and repair, of an identified energy conservation measure or series of measures at one or more locations. Such contracts—
+&emsp;&emsp;(C) the increased efficient use of existing water sources in either interior or exterior applications.
 
-&emsp;&emsp;(A) may provide for appropriate software licensing agreements; and
+&emsp;(3) The terms “energy savings contract” and “energy savings performance contract” mean a contract that provides for the performance of services for the design, acquisition, installation, testing, and, where appropriate, operation, maintenance, and repair, of an identified energy or water conservation measure or series of measures at 1 or more locations. Such contracts shall, with respect to an agency facility that is a public building (as such term is defined in section 3301 of title 40), be in compliance with the prospectus requirements and procedures of section 3307 of title 40.
 
-&emsp;&emsp;(B) shall, with respect to an agency facility that is a public building as such term is defined in section 3301(a)(5) of title 40, be in compliance with the prospectus requirements and procedures of section 3307 of title 40.
+&emsp;(4) The term “energy or water conservation measure” means—
 
-&emsp;(4) The term “energy conservation measures” has the meaning given such term in section 8259(4) of this title.
+&emsp;&emsp;(A) an energy conservation measure, as defined in section 8259 of this title; or
 
-(Pub. L. 95–619, title VIII, §804, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 143; amended Pub. L. 102–486, title I, §155(b), Oct. 24, 1992, 106 Stat. 2855; Pub. L. 105–388, §4(b), Nov. 13, 1998, 112 Stat. 3477.)
+&emsp;&emsp;(B) a water conservation measure that improves the efficiency of water use, is life-cycle cost-effective, and involves water conservation, water recycling or reuse, more efficient treatment of wastewater or stormwater, improvements in operation or maintenance efficiencies, retrofit activities, or other related activities, not at a Federal hydroelectric facility.
 
-#### Codification
-
-In par. (3)(B), “section 3301(a)(5) of title 40” substituted for “section 13(1) of the Public Buildings Act of 1959 (40 U.S.C. 612(1))” and “section 3307 of title 40” substituted for “section 7 of the Public Buildings Act of 1959 (40 U.S.C. 606)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+(Pub. L. 95–619, title VIII, §804, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 143; amended Pub. L. 102–486, title I, §155(b), Oct. 24, 1992, 106 Stat. 2855; Pub. L. 105–388, §4(b), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 108–375, div. A, title X, §1090(c)–(e), Oct. 28, 2004, 118 Stat. 2067.)
 
 #### Amendments
+
+2004—Par. (2). Pub. L. 108–375, §1090(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘energy savings’ means a reduction in the cost of energy, from a base cost established through a methodology set forth in the contract, utilized in an existing federally owned building or buildings or other federally owned facilities as a result of—
+
+&emsp;“(A) the lease or purchase of operating equipment, improvements, altered operation and maintenance, or technical services; or
+
+&emsp;“(B) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a federally owned building or buildings or other federally owned facilities.”
+
+Par. (3). Pub. L. 108–375, §1090(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The terms ‘energy savings contract’ and ‘energy savings performance contract’ mean a contract which provides for the performance of services for the design, acquisition, installation, testing, operation, and, where appropriate, maintenance and repair, of an identified energy conservation measure or series of measures at one or more locations. Such contracts—
+
+&emsp;“(A) may provide for appropriate software licensing agreements; and
+
+&emsp;“(B) shall, with respect to an agency facility that is a public building as such term is defined in section 13(1) of the Public Buildings Act of 1959 (40 U.S.C. 612(1)), be in compliance with the prospectus requirements and procedures of section 7 of the Public Buildings Act of 1959 (40 U.S.C. 606).”
+
+Par. (4). Pub. L. 108–375, §1090(e), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘energy conservation measures’ has the meaning given such term in section 8259(4) of this title.”
 
 1998—Par. (1). Pub. L. 105–388 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Federal agency’ means an agency defined in section 551(1) of title 5.”
 

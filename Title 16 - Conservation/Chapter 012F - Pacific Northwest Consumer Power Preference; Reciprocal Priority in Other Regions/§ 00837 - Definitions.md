@@ -10,7 +10,7 @@ As used in this chapter—
 
 (d) “Surplus peaking capacity” means electric peaking capacity at Federal hydroelectric plants in the Pacific Northwest for which there is no demand in the Pacific Northwest at any established rate.
 
-(e) “Non-Federal utility” means any utility not owned or controlled by the United States, including any entity (1) which such a utilityowns or controls, in whole or in part, or is controlled by, (2) which is controlled by those controlling such utility, or (3) of which such utility is a member.
+(e) “Non-Federal utility” means any utility not owned or controlled by the United States, including any entity (1) which such a utility owns or controls, in whole or in part, or is controlled by, (2) which is controlled by those controlling such utility, or (3) of which such utility is a member.
 
 (f) “Energy requirements of any Pacific Northwest customer” means the full requirements for electric energy of (1) any purchaser from the United States for direct consumption in the Pacific Northwest, and (2) any non-Federal utility in that region in excess of (i) the hydroelectric energy available for its own use from its generating plants in the Pacific Northwest, and (ii) any additional energy available for use in the Pacific Northwest which, under a then existing contract, the utility (A) can obtain at no higher incremental cost than the rate charged by the United States, or (B) is required to accept.
 
@@ -28,11 +28,7 @@ Amendment by Pub. L. 96–501 effective Dec. 5, 1980, see section 11 of Pub. L. 
 
 #### Transfer of Functions
 
-“Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) pursuant to Pub. L. 95–91, §302(a), which is classified to section 7152(a) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) pursuant to Pub. L. 95–91,§302(a), which is classified to section 7152(a) of Title 42, The Public Health and Welfare.
 
 Federal Power Commission terminated and the functions, personnel, property, funds, etc., thereof transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 835k of this title.
 

@@ -10,7 +10,3 @@ All guns, traps, teams, horses, or means of transportation of every nature or de
 
 This Act, referred to in text, is act May 7, 1894, which is classified to sections 24 to 30a of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 21b, 30a of this title.
-

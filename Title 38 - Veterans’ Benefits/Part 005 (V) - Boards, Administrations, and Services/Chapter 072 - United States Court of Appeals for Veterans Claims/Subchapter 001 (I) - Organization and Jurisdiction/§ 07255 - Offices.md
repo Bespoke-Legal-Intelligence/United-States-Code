@@ -1,10 +1,12 @@
 ### §7255. Offices
 
-The principal office of the Court of Appeals for Veterans Claims shall be in the District of Columbia, but the Court may sit at any place within the United States.
+The principal office of the Court of Appeals for Veterans Claims shall be in the Washington, D.C., metropolitan area, but the Court may sit at any place within the United States.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4114, §4055; renumbered §7255, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4114, §4055; renumbered §7255, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 108–454, title VIII, §801, Dec. 10, 2004, 118 Stat. 3625.)
 
 #### Amendments
+
+2004—Pub. L. 108–454 substituted “Washington, D.C., metropolitan area” for “District of Columbia”.
 
 1998—Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 

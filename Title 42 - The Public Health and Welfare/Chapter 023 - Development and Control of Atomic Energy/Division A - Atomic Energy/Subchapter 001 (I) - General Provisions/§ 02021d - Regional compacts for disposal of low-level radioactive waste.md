@@ -30,7 +30,7 @@
 
 &emsp;Nothing contained in sections 2021b to 2021j of this title or any compact may be construed to confer any new authority on any compact commission or State—
 
-&emsp;&emsp;(A) to regulate the packaging, generation, treatment, storage, disposal, or transportation of low-level radioactive waste in a manner incompatible with the regulations of the Nuclear Regulatory Commission or inconsistent with the regulations of the Department of Transportation;
+&emsp;&emsp;(A) to regulate the packaging, generation, treatment, storage, disposal, or transportation of low-level radioactive waste in a manner incompatible with the regulations ofthe Nuclear Regulatory Commission or inconsistent with the regulations of the Department of Transportation;
 
 &emsp;&emsp;(B) to regulate health, safety, or environmental hazards from source material, byproduct material, or special nuclear material;
 
@@ -138,7 +138,7 @@ Pub. L. 100–712, Nov. 23, 1988, 102 Stat. 4773, provided that:
 
 #### “SEC. 5. SOUTHWESTERN LOW-LEVEL RADIOACTIVE WASTE COMPACT.
 
-“In accordance with section 4(a)(2) of the Low-Level Radioactive Waste Policy Act (42 U.S.C. 2021d(a)(2)), the consent of Congress is given to the states of Arizona, California, and any eligible states, as defined in article VII of the Southwestern Low-Level Radioactive Waste Disposal Compact, to enter into such compact. Such compact is substantially as follows: \[Text of compact appears at 102 Stat. 4773\]”.
+“In accordance with section 4(a)(2) of the Low-Level Radioactive Waste Policy Act (42 U.S.C. 2021d(a)(2)),the consent of Congress is given to the states of Arizona, California, and any eligible states, as defined in article VII of the Southwestern Low-Level Radioactive Waste Disposal Compact, to enter into such compact. Such compact is substantially as follows: \[Text of compact appears at 102 Stat. 4773\]”.
 
 #### Appalachian States Low-Level Radioactive Waste Compact Consent Act
 
@@ -196,7 +196,7 @@ Pub. L. 99–240, title II, Jan. 15, 1986, 99 Stat. 1859, provided that:
 
 #### “SEC. 213. CONGRESSIONAL REVIEW.
 
-“The Congress may alter, amend, or repeal this Act with respect to any compact set forth in subtitle Bafter the expiration of the 10-year period following the date of the enactment of this Act \[Jan. 15, 1986\], and at such intervals thereafter as may be provided in such compact.
+“The Congress may alter, amend, or repeal this Act with respect to any compact set forth in subtitle B after the expiration of the 10-year period following the date of the enactment of this Act \[Jan. 15, 1986\], and at such intervals thereafter as may be provided in such compact.
 
 #### “Subtitle B—Congressional Consent to Compacts
 
@@ -227,8 +227,4 @@ Pub. L. 99–240, title II, Jan. 15, 1986, 99 Stat. 1859, provided that:
 #### “SEC. 227. NORTHEAST INTERSTATE LOW-LEVEL RADIOACTIVE WASTE MANAGEMENT COMPACT.
 
 “In accordance with section 4(a)(2) of the Low-Level Radioactive Waste Policy Act \[42 U.S.C. 2021d(a)(2)\], the consent of the Congress is hereby given to the States of Connecticut, New Jersey, Delaware, and Maryland to enter into the Northeast Interstate Low-Level Radioactive Waste Management Compact. Such compact is substantially as follows: \[Text of compact appears at 99 Stat. 1910.\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2021b, 2021e, 2021f, 2021g, 2023 of this title.
 

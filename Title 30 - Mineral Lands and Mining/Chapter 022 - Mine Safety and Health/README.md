@@ -408,7 +408,7 @@
 | (e) | Authorization of appropriations. |
 | (f) | Exceptions to mandatory health and safety standards for improving techniques and equipment. |
 | (g) | Grants for research and development of respiratory equipment. |
-| [951a.](Subchapter%20005%20%28V%29%20-%20Administrative%20Provisions/%C2%A7%2000951a%20-%20Health%2C%20Safety%2C%20and%20Mining%20Technology%20Research%20program.md) | Health, Safety, and Mining Technology Research Program. |
+| [951a.](Subchapter%20005%20%28V%29%20-%20Administrative%20Provisions/%C2%A7%2000951a%20-%20Health%2C%20Safety%2C%20and%20Mining%20Technology%20Research%20program.md) | Health, Safety, and Mining Technology Research program. |
 | (a) | Health, Safety, and Mining Technology Research Plan. |
 | (b) | Technical amendment. |
 | [952\.](Subchapter%20005%20%28V%29%20-%20Administrative%20Provisions/%C2%A7%2000952%20-%20Training%20and%20education.md) | Training and education. |
@@ -440,10 +440,6 @@
 | [962\.](Subchapter%20005%20%28V%29%20-%20Administrative%20Provisions/%C2%A7%2000962%20-%20Acceptance%20of%20contributions%20and%20prosecution%20of%20projects%3B%20cooperative%20programs%20to%20promote%20health%20and%20safety%20education%20and%20training%3B%20use%20of%E2%80%A6.md) | Acceptance of contributions and prosecution of projects; cooperative programs to promote health and safety education and training; use of funds for costs of mine rescue and survival operations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 961, 1211, 1266, 1292 of this title; title 29 section 557a; title 31 section 1105.
 
 
 ---

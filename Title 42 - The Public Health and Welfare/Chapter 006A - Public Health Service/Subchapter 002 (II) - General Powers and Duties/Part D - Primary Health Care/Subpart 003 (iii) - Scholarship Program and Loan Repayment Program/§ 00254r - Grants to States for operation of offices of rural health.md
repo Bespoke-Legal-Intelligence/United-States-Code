@@ -144,9 +144,5 @@ Pub. L. 102–538, title I, §154, formerly §134, Oct. 27, 1992, 106 Stat. 3541
 
 Similar provisions were contained in Pub. L. 101–555, §3, Nov. 15, 1990, 104 Stat. 2760.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 254q–1 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

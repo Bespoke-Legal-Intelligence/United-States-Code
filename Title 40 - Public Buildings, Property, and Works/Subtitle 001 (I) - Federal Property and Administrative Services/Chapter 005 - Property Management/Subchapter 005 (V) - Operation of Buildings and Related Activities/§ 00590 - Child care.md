@@ -40,7 +40,7 @@ Payment for Space and Services.—
 
 &emsp;(1)
 
-Definition.—For purposes of this subsection, the term “services” includes the providing of lighting, heating, cooling, electricity, office furniture, office machines and equipment, classroom furnishings and equipment, kitchen appliances, playground equipment, telephone service (including installation of lines and equipment and other expenses associated with telephone services), and security systems (including installation and otherexpenses associated with security systems), including replacement equipment, as needed.
+Definition.—For purposes of this subsection, the term “services” includes the providing of lighting, heating, cooling, electricity, office furniture, office machines and equipment, classroom furnishings and equipment, kitchen appliances, playground equipment, telephone service (including installation of lines and equipment and other expenses associated with telephone services), and security systems (including installation and other expenses associated with security systems), including replacement equipment, as needed.
 
 &emsp;(2)
 
@@ -86,7 +86,7 @@ Appropriated Amounts for Affordable Child Care.—
 
 &emsp;(1)
 
-Definition.—For purposes of this subsection, the term “Executive agency” has the meaning given that term in section 105 of title 5, but does not include the General Accounting Office.
+Definition.—For purposes of this subsection, the term “Executive agency” has themeaning given that term in section 105 of title 5, but does not include the Government Accountability Office.
 
 &emsp;(2)
 
@@ -104,7 +104,7 @@ Advances.—Notwithstanding section 3324 of title 31, amounts may be paid in adv
 
 Notification.—No amounts made available by law may be used to implement this subsection without advance notice to the Committees on Appropriations of the House of Representatives and the Senate.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1116.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1116; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 Historical and Revision Notes
 
@@ -165,4 +165,8 @@ In subsection (g)(2), the word “hereafter” is omitted as unnecessary.
 In subsection (g)(4), the words “as appropriate” are omitted as unnecessary.
 
 In subsection (g)(5), the words “in this or any other Act” are omitted as unnecessary. The words “of the House of Representatives and the Senate” are added for consistency in the revised title.
+
+#### Amendments
+
+2004—Subsec. (g)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

@@ -14,5 +14,5 @@ The last paragraph of this section, which permitted Members and Delegates of the
 
 #### Amendments
 
-<b>1948</b>—Act Feb. 18, 1948, added last two paragraphs to provide a way by which any Member of House of Representatives can establish by record evidence the fact that the Member took the oath of office and so became a Member.
+1948—Act Feb. 18, 1948, added last two paragraphs to provide a way by which any Member of House of Representatives can establish by record evidence the fact that the Member took the oath of office and so became a Member.
 

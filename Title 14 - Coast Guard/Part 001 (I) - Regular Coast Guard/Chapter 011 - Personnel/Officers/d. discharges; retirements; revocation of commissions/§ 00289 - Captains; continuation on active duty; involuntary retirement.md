@@ -34,7 +34,7 @@
 
 #### Effective Date
 
-Section 6 of Pub. L. 88–130 provided that: “Section 289 of title 14, United States Code, as enacted by section 1(10)(C) of this Act \[see section 5(a) of Pub. L. 88–130, set out as a note under section 211 of this title\], becomes effective three years after the effective date of this Act \[Sept. 24, 1963\], or on July 1, 1966, whichever is later.”
+Section 6 of Pub. L. 88–130 provided that: “Section 289 of title 14, United States Code, as enacted by section 1(10)(C) of this Act \[see section 5(a) of Pub. L. 88–130, setout as a note under section 211 of this title\], becomes effective three years after the effective date of this Act \[Sept. 24, 1963\], or on July 1, 1966, whichever is later.”
 
 #### Consideration for Retention on Active Duty Under Former Section 248 of This Title
 
@@ -43,8 +43,4 @@ Section 2(c) of Pub. L. 88–130 provided that: “Officers who, prior to the ef
 #### Retired Pay on or Prior to September 24, 1963
 
 Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88–130 does not affect the retired pay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under section 211 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 190, 287, 726 of this title.
 

@@ -66,9 +66,5 @@ If the estimate of the Federal investment with respect to construction and opera
 
 (Pub. L. 93–473, §7, Oct. 26, 1974, 88 Stat. 1434.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5557, 5566 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by a closing parenthesis.</i>
 

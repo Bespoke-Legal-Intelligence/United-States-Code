@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—LICENSEES AND PUBLIC UTILITIES; PROCEDURAL AND ADMINISTRATIVE PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 824 of this title; title 43 section 1761.
-
 
 ---
 

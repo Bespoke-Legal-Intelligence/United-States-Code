@@ -24,11 +24,13 @@ Congress finds that—
 
 #### References in Text
 
-This chapter, referred to in pars. (4) and (9), was in the original “this title”, meaning title IV of Pub. L.106–224, June 20, 2000, 114 Stat. 438, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in pars. (4) and (9), was in the original “this title”, meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 
 Pub. L. 106–224, title IV, §401, June 20, 2000, 114 Stat. 438, provided that: “This title \[enacting this chapter, amending section 7759 of this title and section 129a of Title 21, Food and Drugs, and repealing sections 148, 148a, 148c to 148f, 149, 150, 150a to 150g, 150aa to 150jj, 151 to 154, 156 to 164, 164a, 167, 1651 to 1656, and 2801 to 2813 of this title, and provisions set out as notes under sections 147a, 150, 150aa, 151, and 1651 of this title\] may be cited as the ‘Plant Protection Act’.”
+
+Pub. L. 106–224, title IV, §451, as added by Pub. L. 108–412, §1, Oct. 30, 2004, 118 Stat. 2320, provided that: “This subtitle \[subtitle E (§§451–457) of title IV of Pub. L. 106–224, enacting subchapter V of this chapter\] may be cited as the ‘Noxious Weed Control and Eradication Act of 2004’.”
 
 #### Transfer of Functions
 

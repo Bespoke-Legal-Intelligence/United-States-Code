@@ -25,15 +25,11 @@
 | :--- | ---: |
 | 4511 to 4524. Repealed. |  |
 | [4525\.](Part%20B%20-%20Development%20of%20New%20Communities/%C2%A7%2004525%20-%20Real%20property%20taxation.md) | Real property taxation. |
-| [4526\.](Part%20B%20-%20Development%20of%20New%20Communities/%C2%A7%2004526%20-%20Audit%20by%20General%20Accounting%20Office%3B%20records%2C%20access.md) | Audit by General Accounting Office; records, access. |
+| [4526\.](Part%20B%20-%20Development%20of%20New%20Communities/%C2%A7%2004526%20-%20Audit%20by%20Government%20Accountability%20Office.md) | Audit by Government Accountability Office. |
 | [4527\.](Part%20B%20-%20Development%20of%20New%20Communities/%C2%A7%2004527%20-%20General%20powers%20of%20Secretary.md) | General powers of Secretary. |
 | 4528 to 4532. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 1439 of this title; title 12 section 1701g–5b.
 
 
 ---

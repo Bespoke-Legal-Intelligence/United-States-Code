@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(E) sell, after reasonable public notice and notice to such next of kin as can be ascertained with reasonable diligence, such additional items of property as necessary to provide funds sufficient to pay the decedent's debts and property taxes in the country of death, funeral expenses, and other expenses incident to the disposition of the estate;
 
-&emsp;&emsp;(F) upon the expiration of the one-year period beginning on the date of death (or after such additional period as may be required for final settlement of the estate), if no claimant shall have appeared, after reasonable public notice and notice to such next ofkin as can be ascertained with reasonable diligence, sell or dispose of the residue of the personal estate, except as provided in subparagraph (G), in the same manner as United States Government-owned foreign excess property;
+&emsp;&emsp;(F) upon the expiration of the one-year period beginning on the date of death (or after such additional period as may be required for final settlement of the estate), if no claimant shall have appeared, after reasonable public notice and notice to such next of kin as can be ascertained with reasonable diligence, sell or dispose of the residue of the personal estate, except as provided in subparagraph (G), in the same manner as United States Government-owned foreign excess property;
 
 &emsp;&emsp;(G) transmit to the custody of the Secretary of State in Washington, D.C. the proceeds of any sales, together with all financial instruments (including bonds, shares of stock, and notes of indebtedness), jewelry, heirlooms, and other articles of obvious sentimental value, to be held in trust for the legal claimant; and
 
@@ -40,7 +40,7 @@
 
 #### (5) Statutory construction
 
-&emsp;Nothing in this section supersedes or otherwise affects the authority of any military commander under title 10 with respect to the person or property of any decedent who died while under a military command or jurisdiction or the authority of the Peace Corps with respect to a Peace Corps volunteer or the volunteer's property.
+&emsp;Nothing in this section supersedes or otherwise affects the authority of any militarycommander under title 10 with respect to the person or property of any decedent who died while under a military command or jurisdiction or the authority of the Peace Corps with respect to a Peace Corps volunteer or the volunteer's property.
 
 #### (b) Disposition of estates by the Secretary of State
 
@@ -105,10 +105,6 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 #### Effective Date
 
 Section effective six months after Nov. 29, 1999, see section 1000(a)(7) \[title II, §234(c)\] of Pub. L. 106–113, set out as a note under section 2715b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2715 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

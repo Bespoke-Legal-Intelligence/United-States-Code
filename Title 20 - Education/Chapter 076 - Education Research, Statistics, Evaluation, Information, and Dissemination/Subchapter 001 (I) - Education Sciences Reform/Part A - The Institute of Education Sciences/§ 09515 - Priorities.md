@@ -2,7 +2,7 @@
 
 #### (a) Proposal
 
-The Director shall propose to the Board priorities for the Institute (taking into consideration long-term research and development on core issues conducted through the national research and development centers). The Director shall identify topics that may require long-term research and topics that are focused on understanding and solving particular education problems and issues, including those associated with the goals and requirements established in the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) and the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), such as—
+The Director shall propose to the Board priorities for the Institute (taking into consideration long-term research and development on core issues conducted through the national research and development centers). The Director shall identify topics that may require long-term research and topics that are focused on understanding and solving particular education problems and issues, including those associated with the goals and requirements of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), such as—
 
 &emsp;(1) closing the achievement gap between high-performing and low-performing children, especially achievement gaps between minority and nonminority children and between disadvantaged children and such children's more advantaged peers; and
 
@@ -32,15 +32,17 @@ The Board shall ensure that priorities of the Institute and the National Educati
 
 &emsp;Upon approval of such priorities, the Director shall make the Institute's plan for addressing such priorities available for public comment in the same manner as under paragraph (1).
 
-(Pub. L. 107–279, title I, §115, Nov. 5, 2002, 116 Stat. 1948.)
+(Pub. L. 107–279, title I, §115, Nov. 5, 2002, 116 Stat. 1948; Pub. L. 108–446, title II, §201(b)(2)(C), Dec. 3, 2004, 118 Stat. 2802.)
 
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
+The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+
 The Higher Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 9513, 9514, 9516 of this title.
+2004—Subsec. (a). Pub. L. 108–446, in introductory provisions, substituted “including those associated with the goals and requirements of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), such as” for “including those associated with the goals and requirements established in the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) and the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), such as”.
 

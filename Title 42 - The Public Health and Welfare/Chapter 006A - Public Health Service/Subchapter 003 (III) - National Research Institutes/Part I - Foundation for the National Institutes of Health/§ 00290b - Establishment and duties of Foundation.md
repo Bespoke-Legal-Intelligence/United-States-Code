@@ -112,7 +112,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;(i) Policies for the selection of the officers, employees, agents, and contractors of the Foundation.
 
-&emsp;&emsp;(ii) Policies, including ethical standards, for the acceptance, solicitation, and disposition of donations and grants to the Foundation and for the disposition of the assets ofthe Foundation. Policies with respect to ethical standards shall ensure that officers, employees and agents of the Foundation (including members of the Board) avoid encumbrances that would result in a conflict of interest, including a financial conflict of interest or a divided allegiance. Such policies shall include requirements for the provision of information concerning any ownership or controlling interest in entities related to the activities of the Foundation by such officers, employees and agents and their spouses and relatives.
+&emsp;&emsp;(ii) Policies, including ethical standards, for the acceptance, solicitation, and disposition of donations and grants to the Foundation and for the disposition of the assets of the Foundation. Policies with respect to ethical standards shall ensure that officers, employees and agents of the Foundation (including members of the Board) avoid encumbrances that would result in a conflict of interest, including a financial conflict of interest or a divided allegiance. Such policies shall include requirements for the provision of information concerning any ownership or controlling interest in entities related to the activities of the Foundation by such officers, employees and agents and their spouses and relatives.
 
 &emsp;&emsp;(iii) Policies for the conduct of the general operations of the Foundation.
 
@@ -130,7 +130,7 @@ The initial members of the Board shall serve as incorporators and shall take wha
 
 #### (f) Nonprofit status
 
-The Foundation shall be considered to be a corporation under section 501(c) of title 26, and shall be subject to the provisions of such section.
+The Foundation shall be considered to be a corporation under section 501(c) of title 26, andshall be subject to the provisions of such section.
 
 #### (g) Executive Director
 
@@ -264,7 +264,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (1) Applicability of certain standards to non-Federal employees
 
-&emsp;In the case of any individual who is not an employee of the Federal Government and whoserves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, has been executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
+&emsp;In the case of any individual who is not an employee of the Federal Government and who serves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, has been executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
 
 #### (2) Support services
 
@@ -280,7 +280,7 @@ No participant in the program established under this part shall exercise any adm
 
 &emsp;Amounts appropriated under any provision of law other than paragraph (1) may not be expended to establish or operate the Foundation.
 
-(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417.)
+(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II,§216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417.)
 
 #### References in Text
 
@@ -416,13 +416,11 @@ Subsec. (c)(1)(C)(iii). Pub. L. 102–170, §216(2), substituted “5” for “
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as a note under section 236 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 21 sections 355a, 355c.
 

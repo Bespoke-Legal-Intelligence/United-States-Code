@@ -14,7 +14,7 @@ Any component of the national wild and scenic rivers system that is administered
 
 #### (d) Statutory authorities relating to national forests
 
-The Secretary of Agriculture, in his administration of any component of the national wildand scenic rivers system area, may utilize the general statutory authorities relating to the national forests in such manner as he deems appropriate to carry out the purposes of this chapter.
+The Secretary of Agriculture, in his administration of any component of the national wild and scenic rivers system area, may utilize the general statutory authorities relating to the national forests in such manner as he deems appropriate to carry out the purposes of this chapter.
 
 #### (e) Cooperative agreements with State and local governments
 
@@ -24,7 +24,7 @@ The Federal agency charged with the administration of any component of the natio
 
 #### References in Text
 
-The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, whichis classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 The Acts under which the national park system and the national wildlife system are administered, referred to in subsec. (c), are classified generally to this title.
 
@@ -34,13 +34,9 @@ The first reference to the Wilderness Act in subsec. (b) was in the original a r
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of the Interior and Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 1278 of this title.
+For transfer of certain enforcement functions of Secretary or other official in Department of the Interior and Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1278 of this title.
 
 #### Management of Segment of Salmon River Designated as Component of Wild and Scenic River System Located Within Frank Church—River of No Return Wilderness or Gospel-Hump Wilderness
 
 Pub. L. 96–312, §9(b), July 23, 1980, 94 Stat. 953, as amended Pub. L. 98–231, §1, Mar. 14, 1984, 98 Stat. 60, provided: “That segment of the main Salmon River designated as a component of the Wild and Scenic Rivers System by this Act \[see 16 U.S.C. 1274(a)(24)\], which lies within the Frank Church—River of No Return Wilderness or the Gospel-Hump Wilderness designated by Public Law 95–237 \[Pub. L. 95–237, §4, Feb. 24, 1978, 92 Stat. 43\], shall be managed under the provisions of the Wild and Scenic Rivers Act, as amended \[16 U.S.C. 1271 et seq\], and the regulations promulgated pursuant thereto, notwithstanding section 10(b) of the Wild and Scenic Rivers Act \[16 U.S.C. 1281(b)\] or any provisions of the Wilderness Act \[16 U.S.C. 1131 et seq.\] to the contrary.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1274 of this title.
 

@@ -38,7 +38,3 @@ Minor changes in phraseology are made to conform to the style of title 18.
 
 Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 8148; title 42 section 7385i.
-

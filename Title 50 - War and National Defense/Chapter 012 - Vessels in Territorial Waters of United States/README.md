@@ -9,6 +9,8 @@
 | (a) | In general. |
 | (b) | Application to others. |
 | (c) | Civil penalty. |
+| (d) | In rem liability. |
+| (e) | Withholding of clearance. |
 | [193\.](%C2%A7%2000193%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20645%2C%20%C2%A721%2C%2062%20Stat.%20862.md) | Repealed. |
 | [194\.](%C2%A7%2000194%20-%20Enforcement%20provisions.md) | Enforcement provisions. |
 | [195\.](%C2%A7%2000195%20-%20Definitions.md) | Definitions. |

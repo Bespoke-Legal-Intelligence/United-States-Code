@@ -28,7 +28,7 @@ Notwithstanding subsection (a) of this section, a person may, in the ordinary co
 
 #### (d) Joint or joint and several participation with company in transactions
 
-It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company (other than a company of the character described in section 80a–12(d)(3) (A) and (B) of this title), or any affiliated person of such a person or principal underwriter, acting as principal to effect any transaction in which such registered company, or a company controlled by such registered company, is a joint or a joint and several participant with such person, principal underwriter, or affiliated person, in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such registered or controlled company on a basis different from or less advantageous than that of such other participant. Nothing contained inthis subsection shall be deemed to preclude any affiliated person from acting as manager of any underwriting syndicate or other group in which such registered or controlled company is a participant and receiving compensation therefor.
+It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company (other than a company of the character described in section 80a–12(d)(3) (A) and (B) of this title), or any affiliated person of such a person or principal underwriter, acting as principal to effect any transaction in which such registered company, or a company controlled by such registered company, is a joint or a joint and several participant with such person, principal underwriter, or affiliated person, in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such registered or controlled company on a basis different from or less advantageous than that of such other participant. Nothing contained in this subsection shall be deemed to preclude any affiliated person from acting as manager of any underwriting syndicate or other group in which such registered or controlled company is a participant and receiving compensation therefor.
 
 #### (e) Acceptance of compensation, commissions, fees, etc.
 
@@ -58,7 +58,7 @@ The Commission is authorized to require by rules and regulations or orders for t
 
 #### (h) Provisions in charter, by-laws, etc., protecting against liability for willful misfeasance, etc.
 
-After one year from the effective date of this subchapter, neither the charter, certificate of incorporation, articles of association, indentureof trust, nor the by-laws of any registered investment company, nor any other instrument pursuant to which such a company is organized or administered, shall contain any provision which protects or purports to protect any director or officer of such company against any liability to the company or to its security holders to which he would otherwise be subject by reason of willful misfeasance, bad faith, gross negligence or reckless disregard of the duties involved in the conduct of his office.
+After one year from the effective date of this subchapter, neither the charter, certificate of incorporation, articles of association, indenture of trust, nor the by-laws of any registered investment company, nor any other instrument pursuant to which such a company is organized or administered, shall contain any provision which protects or purports to protect any director or officer of such company against any liability to the company or to its security holders to which he would otherwise be subject by reason of willful misfeasance, bad faith, gross negligence or reckless disregard of the duties involved in the conduct of his office.
 
 #### (i) Provisions in contracts protecting against willful misfeasance, etc.
 
@@ -66,7 +66,7 @@ After one year from the effective date of this subchapter no contract or agreeme
 
 #### (j) Rules and regulations prohibiting fraudulent, deceptive or manipulative courses of conduct
 
-It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company or any affiliated person of an investment adviser of or principal underwriter for a registered investment company, to engage in any act, practice, or course of business in connection with the purchase or sale, directly or indirectly, by such person of any security held or to be acquired by such registered investment company in contravention of such rules and regulations as the Commission may adopt to define, and prescribe means reasonably necessary to prevent, such acts, practices, or courses of business as are fraudulent, deceptive or manipulative. Such rules and regulations may include requirements for the adoption of codes of ethics by registered investment companies and investment advisers of, and principal underwriters for, such investment companies establishing such standards as are reasonably necessary to prevent such acts, practices, or courses of business.
+It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company or any affiliated person of an investment adviser of or principal underwriter for a registered investment company, to engage inany act, practice, or course of business in connection with the purchase or sale, directly or indirectly, by such person of any security held or to be acquired by such registered investment company in contravention of such rules and regulations as the Commission may adopt to define, and prescribe means reasonably necessary to prevent, such acts, practices, or courses of business as are fraudulent, deceptive or manipulative. Such rules and regulations may include requirements for the adoption of codes of ethics by registered investment companies and investment advisers of, and principal underwriters for, such investment companies establishing such standards as are reasonably necessary to prevent such acts, practices, or courses of business.
 
 (Aug. 22, 1940, ch. 686, title I, §17, 54 Stat. 815; Pub. L. 91–547, §9, Dec. 14, 1970, 84 Stat. 1420; Pub. L. 100–181, title VI, §612, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 106–102, title II, §§211(a), 212, Nov. 12, 1999, 113 Stat. 1396.)
 
@@ -103,8 +103,4 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that amendment by 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–6, 80a–35, 80a–56, 80a–58 of this title.
 

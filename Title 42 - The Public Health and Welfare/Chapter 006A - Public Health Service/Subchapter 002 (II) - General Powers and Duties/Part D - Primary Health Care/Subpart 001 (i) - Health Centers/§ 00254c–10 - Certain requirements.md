@@ -20,9 +20,5 @@ A grant may be made under section 254c–9 of this title only if the applicant i
 
 #### Codification
 
-Section was enacted as part of the Lupus Research and Care Amendments of 2000, and also as part of the Public Health Improvement Act, and not as part of the Public Health Service Act which comprises this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 254c–9, 254c–11, 254c–12, 254c–13 of this title.
+Section was enacted as part of the Lupus Research and Care Amendments of 2000, and also as part of thePublic Health Improvement Act, and not as part of the Public Health Service Act which comprises this chapter.
 

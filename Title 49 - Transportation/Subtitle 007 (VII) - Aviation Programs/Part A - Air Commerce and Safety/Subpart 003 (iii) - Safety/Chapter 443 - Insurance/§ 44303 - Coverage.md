@@ -22,11 +22,11 @@ In General.—The Secretary of Transportation may provide insurance and reinsura
 
 &emsp;&emsp;&emsp;(i) a place in a State or the District of Columbia and a place in a territory or possession of the United States;
 
-&emsp;&emsp;&emsp;(ii) a place in a territory or possession of the United States and a place in anotherterritory or possession of the United States; or
+&emsp;&emsp;&emsp;(ii) a place in a territory or possession of the United States and a place in another territory or possession of the United States; or
 
 &emsp;&emsp;&emsp;(iii) 2 places in the same territory or possession of the United States.
 
-&emsp;(3) the personal effects and baggage of officers and members of the crew of an aircraft referred to in clause (1) of this section and of other individuals employed or transported on that aircraft.
+&emsp;(3) the personal effects and baggage of officers and members of the crew of an aircraft referred to in clause (1) of this section and ofother individuals employed or transported on that aircraft.
 
 &emsp;(4) officers and members of the crew of an aircraft referred to in clause (1) of this section and other individuals employed or transported on that aircraft against loss of life, injury, or detention.
 
@@ -36,9 +36,9 @@ In General.—The Secretary of Transportation may provide insurance and reinsura
 
 (b)
 
-Air Carrier Liability for Third Party Claims Arising Out of Acts of Terrorism.—For acts of terrorism committed on or to an air carrier during the period beginning on September 22, 2001, and ending on December 31, 2004, the Secretary may certify that the air carrier was a victim of an act of terrorism and in the Secretary's judgment, based on the Secretary's analysis and conclusions regarding the facts and circumstances of each case, shall not be responsible for losses suffered by third parties (as referred to in section 205.5(b)(1) of title 14, Code of Federal Regulations) that exceed $100,000,000, in the aggregate, for all claims by such parties arising out of such act. If the Secretary so certifies, the air carrier shall not be liable for an amount that exceeds $100,000,000, in the aggregate, for all claims by such parties arising out of such act, and the Government shall be responsible for any liability above such amount. No punitive damages may be awarded against an air carrier (or the Government taking responsibility for an air carrier under this subsection) under a cause of action arising out of such act. The Secretary may extend the provisions of this subsection to an aircraft manufacturer (as defined in section 44301) of the aircraft of the air carrier involved.
+Air Carrier Liability for Third Party Claims Arising Out of Acts of Terrorism.—For acts of terrorism committed on or to an air carrier during the period beginning on September 22, 2001, and ending on December 31, 2005, the Secretary may certify that the air carrier was a victim of an act of terrorism and in the Secretary's judgment, based on the Secretary's analysis and conclusions regarding the facts and circumstances of each case, shall not be responsible for losses suffered by third parties (as referred to in section 205.5(b)(1) of title 14, Code of Federal Regulations) that exceed $100,000,000, in the aggregate, for all claims by such parties arising out of such act. If the Secretary so certifies, the air carrier shall not be liable for an amount that exceeds $100,000,000, in the aggregate, for all claims by such parties arising out of such act, and the Government shall be responsible for any liability above such amount. No punitive damages may be awarded against an air carrier (or the Government taking responsibility for an air carrier under this subsection) under a cause of action arising out of such act. The Secretary may extend the provisions of this subsection to an aircraft manufacturer (as defined in section 44301) of the aircraft of the air carrier involved.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1169; Pub. L. 107–42, title II, §201(b)(1), Sept. 22, 2001, 115 Stat. 235; Pub. L. 107–296, title XII, §1201, Nov. 25, 2002, 116 Stat. 2286; Pub. L. 108–11, title IV, §4001(b), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(a)(3), (b), Dec. 12, 2003, 117 Stat. 2499.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1169; Pub. L. 107–42, title II, §201(b)(1), Sept. 22, 2001, 115 Stat. 235; Pub. L. 107–296, title XII, §1201, Nov. 25, 2002, 116 Stat. 2286; Pub. L. 108–11, title IV, §4001(b), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(a)(3), (b), Dec. 12, 2003, 117 Stat. 2499; Pub. L. 108–447, div. H, title I, §106(b), Dec. 8, 2004, 118 Stat. 3204.)
 
 Historical and Revision Notes
 
@@ -63,6 +63,8 @@ In this section, before clause (1), the words “persons, property, or interest�
 The text of section 201(b)(2) of Pub. L. 107–42, which was transferred and redesignated so as to appear as subsec. (b) of this section and amended by Pub. L. 107–296, was based on Pub. L. 107–42, title II, §201(b)(2), Sept. 22, 2001, 115 Stat. 235, formerly included in a note set out under section 40101 of this title.
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–447 substituted “2005” for “2004’.
 
 2003—Subsec. (a). Pub. L. 108–176, §106(a)(3)(A), substituted “
 
@@ -89,8 +91,4 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 44302 of this title.
 

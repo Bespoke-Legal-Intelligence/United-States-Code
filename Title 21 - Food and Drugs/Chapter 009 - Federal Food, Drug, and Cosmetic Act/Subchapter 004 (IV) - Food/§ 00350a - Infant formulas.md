@@ -20,7 +20,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 &emsp;(i) the testing, in accordance with paragraph (3) and by the manufacturer of an infant formula or an agent of such manufacturer, of each batch of infant formula for each nutrient required by subsection (i) of this section before the distribution of such batch,
 
-&emsp;(ii) regularly scheduled testing, by the manufacturer of an infant formula or an agent ofsuch manufacturer, of samples of infant formulas during the shelf life of such formulas to ensure that such formulas are in compliance with this section,
+&emsp;(ii) regularly scheduled testing, by the manufacturer of an infant formula or an agent of such manufacturer, of samples of infant formulas during the shelf life of such formulas to ensure that such formulas are in compliance with this section,
 
 &emsp;(iii) in-process controls including, where necessary, testing required by good manufacturing practices designed to prevent adulteration of each batch of infant formula, and
 
@@ -98,7 +98,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 #### (e) Additional notice requirements for manufacturer
 
-(1) If the manufacturer of an infant formula has knowledge which reasonably supports the conclusion that an infant formula which has been processed by the manufacturer and which has left an establishment subject to the control of the manufacturer—
+(1) If the manufacturer of an infant formula has knowledge which reasonably supports the conclusion that an infant formula which has been processed by the manufacturer and whichhas left an establishment subject to the control of the manufacturer—
 
 &emsp;(A) may not provide the nutrients required by subsection (i) of this section, or
 
@@ -134,7 +134,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 &emsp;(B) who otherwise has an unusual medical or dietary problem,
 
-> is exempt from the requirements of subsections (a), (b), and (c) of this section. The manufacturerof an infant formula exempt under this paragraph shall, in the case of the exempt formula, be required to provide the notice required by subsection (e)(1) of this section only with respect to adulteration or misbranding described in subsection (e)(1)(B) of this section and to comply with the regulations prescribed by the Secretary under paragraph (2).
+> is exempt from the requirements of subsections (a), (b), and (c) of this section. The manufacturer of an infant formula exempt under this paragraph shall, in the case of the exempt formula, be required to provide the notice required by subsection (e)(1) of this section only with respect to adulteration or misbranding described in subsection (e)(1)(B) of this section and to comply with the regulations prescribed by the Secretary under paragraph (2).
 
 (2) The Secretary may by regulation establish terms and conditions for the exemption of an infant formula from the requirements of subsections (a), (b), and (c) of this section. An exemption of an infant formula under paragraph (1) may be withdrawn by the Secretary if such formula is not in compliance with applicable terms and conditions prescribed under this paragraph.
 
@@ -223,8 +223,4 @@ Subsec. (i). Pub. L. 99–570, §4014(a)(1), (b)(1), redesignated subsec. (g) as
 #### Effective Date of 1980 Amendment
 
 Section 6 of Pub. L. 96–359 provided that: “Section 412 of the Federal Food, Drug, and Cosmetic Act (added by section 2) \[this section\] shall apply with respect to infant formulas manufactured on or after the 90th day after the date of the enactment of this Act \[Sept. 26, 1980\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 343, 374 of this title.
 

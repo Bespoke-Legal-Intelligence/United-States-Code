@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-(1) The admission to the United States of any alien as a nonimmigrant shall be for such time and under such conditions as the Attorney General may by regulations prescribe, including when he deems necessary the giving of a bond with sufficient surety in such sum and containing such conditions as the Attorney General shall prescribe, to insure that at the expiration of such time or upon failure to maintain the status under which he was admitted, or to maintain any status subsequently acquired under section 1258 of this title, such alien will depart from the United States. No alien admitted toGuam without a visa pursuant to section 1182(<i>l</i>) of this title may be authorized to enter or stay in the United States other than in Guam or to remain in Guam for a period exceeding fifteen days from date of admission to Guam. No alien admitted to the United States without a visa pursuant to section 1187 of this title may be authorized to remain in the United States as a nonimmigrant visitor for a period exceeding 90 days from the date of admission.
+(1) The admission to the United States of any alien as a nonimmigrant shall be for such time and under such conditions as the Attorney General may by regulations prescribe, including when he deems necessary the giving of a bond with sufficient surety in such sum and containing such conditions as the Attorney General shall prescribe, to insure that at the expiration of such time or upon failure to maintain the status under which he was admitted, or to maintain any status subsequently acquired under section 1258 of this title, such alien will depart from the United States. No alien admitted to Guam without a visa pursuant to section 1182(<i>l</i>) of this title may be authorized to enter or stay in the United States other than in Guam or to remain in Guam for a period exceeding fifteen days from date of admission to Guam. No alien admitted to the United States without a visa pursuant to section 1187 of this title may be authorized to remain in the United States as a nonimmigrant visitor for a period exceeding 90 days from the date of admission.
 
 (2)(A) The period of authorized status as a nonimmigrant described in section 1101(a)(15)(O) of this title shall be for such period as the Attorney General may specify in order to provide for the event (or events) for which the nonimmigrant is admitted.
 
@@ -14,9 +14,9 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 
 #### (c) Petition of importing employer; involvement of Departments of Labor and Agriculture
 
-(1) The question of importing any alien as a nonimmigrant under subparagraph (H), (L), (O), or (P)(i) of section 1101(a)(15) of this title (excluding nonimmigrants under section 1101(a)(15)(H)(i)(b1) of this title) in any specific case or specific cases shall be determined by the Attorney General, after consultation with appropriate agencies of the Government, upon petition of the importing employer. Such petition, shall be made and approved before the visa is granted. The petition shall be in such form and contain such information as the Attorney General shall prescribe. The approval of such a petition shall not, of itself, be construed as establishing that the alien is a nonimmigrant. For purposes of this subsection with respect to nonimmigrants described in section 1101(a)(15)(H)(ii)(a) of this title, the term “appropriate agencies of Government” means the Department of Labor and includes the Department of Agriculture. The provisions of section 1188 of this title shall apply to the question of importing any alien as a nonimmigrant under section 1101(a)(15)(H)(ii)(a) of this title.
+(1) The question of importing any alien as a nonimmigrant under subparagraph (H), (L), (O), or (P)(i) of section 1101(a)(15) of this title (excluding nonimmigrants under section 1101(a)(15)(H)(i)(b1) of this title) in any specific case or specific cases shall be determined by the Attorney General, after consultation with appropriate agencies of the Government, upon petition of the importing employer. Such petition,shall be made and approved before the visa is granted. The petition shall be in such form and contain such information as the Attorney General shall prescribe. The approval of such a petition shall not, of itself, be construed as establishing that the alien is a nonimmigrant. For purposes of this subsection with respect to nonimmigrants described in section 1101(a)(15)(H)(ii)(a) of this title, the term “appropriate agencies of Government” means the Department of Labor and includes the Department of Agriculture. The provisions of section 1188 of this title shall apply to the question of importing any alien as a nonimmigrant under section 1101(a)(15)(H)(ii)(a) of this title.
 
-(2)(A) The Attorney General shall provide for a procedure under which an importing employer which meets requirements established by the Attorney General may file a blanket petition to import aliens as nonimmigrants described in section 1101(a)(15)(L) of this title instead of filing individual petitions under paragraph (1) to import such aliens. Such procedure shall permit the expedited processing of visas for admission of aliens covered under such a petition. In the case of an alien seeking admission under section 1101(a)(15)(L) of this title, the 1-year period of continuous employment required under such section is deemed to be reduced to a 6-month period if the importing employer has filed a blanket petition under this subparagraph and met the requirements for expedited processing of aliens covered under such petition.
+(2)(A) The Attorney General shall provide for a procedure under which an importing employer which meets requirements established by the Attorney General may file a blanket petition to import aliens as nonimmigrants described in section 1101(a)(15)(L) of this title instead of filing individual petitions under paragraph (1) to import such aliens. Such procedure shall permit the expedited processing of visas for admission of aliens covered under such a petition.
 
 (B) For purposes of section 1101(a)(15)(L) of this title, an alien is considered to be serving in a capacity involving specialized knowledge with respect to a company if the alien has a special knowledge of the company product and its application in international markets or has an advanced level of knowledge of processes and procedures of the company.
 
@@ -29,6 +29,12 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 &emsp;(ii) a nonimmigrant admitted to render services in a capacity that involves specialized knowledge under section 1101(a)(15)(L) of this title shall not exceed 5 years.
 
 (E) In the case of an alien spouse admitted under section 1101(a)(15)(L) of this title, who is accompanying or following to join a principal alien admitted under such section, the Attorney General shall authorize the alien spouse to engage in employment in the United States and provide the spouse with an “employment authorized” endorsement or other appropriate work permit.
+
+(F) An alien who will serve in a capacity involving specialized knowledge with respect to an employer for purposes of section 1101(a)(15)(L) of this title and will be stationed primarily at the worksite of an employer other than the petitioning employer or its affiliate, subsidiary, or parent shall not be eligible for classification under section 1101(a)(15)(L) of this title if—
+
+&emsp;(i) the alien will be controlled and supervised principally by such unaffiliated employer; or
+
+&emsp;(ii) the placement of the alien at the worksite of the unaffiliated employer is essentially an arrangement to provide labor for hire for the unaffiliated employer, rather than a placement in connection with the provision of a product or service for which specialized knowledge specific to the petitioning employer is necessary.
 
 (3) The Attorney General shall approve a petition—
 
@@ -74,7 +80,7 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 
 (ii) To meet the consultation requirement of paragraph (3)(B) in the case of a petition for a nonimmigrant described in section 1101(a)(15)(O)(ii) of this title (other than with respect to aliens seeking entry for a motion picture or television production), the petitioner shall submit with the petition an advisory opinion from a labor organization with expertise in the skill area involved.
 
-(iii) To meet the consultation requirement of paragraph (4)(D) in the case of a petition for anonimmigrant described in section 1101(a)(15)(P)(i) or 1101(a)(15)(P)(iii) of this title, the petitioner shall submit with the petition an advisory opinion from a labor organization with expertise in the specific field of athletics or entertainment involved.
+(iii) To meet the consultation requirement of paragraph (4)(D) in the case of a petition for a nonimmigrant described in section 1101(a)(15)(P)(i) or 1101(a)(15)(P)(iii) of this title, the petitioner shall submit with the petition an advisory opinion from a labor organization with expertise in the specific field of athletics or entertainment involved.
 
 (B) To meet the consultation requirements of subparagraph (A), unless the petitioner submits with the petition an advisory opinion from an appropriate labor organization, the Attorney General shall forward a copy of the petition and all supporting documentation to the national office of an appropriate labor organization within 5 days of the date of receipt of the petition. If there is a collective bargaining representative of an employer's employees in the occupational classification for which the alien is being sought, that representative shall be the appropriate labor organization.
 
@@ -102,7 +108,7 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 
 &emsp;(E) The number of such petitions which are awaiting final action.
 
-(9)(A) The Attorney General shall impose a fee on an employer (excluding any employer that is a primary or secondary education institution, an institution of higher education, as defined in section 1001(a) of title 20, a nonprofit entity related to or affiliated with any such institution, a nonprofit entity which engages in established curriculum-related clinical training of students registered at any such institution, a nonprofit research organization, or a governmental research organization) filing before October 1, 2003 <sup>1</sup> a petition under paragraph (1)—
+(9)(A) The Attorney General shall impose a fee on an employer (excluding any employer that is a primary or secondary education institution, an institution of higher education, as defined in section 1001(a) of title 20, a nonprofit entity related to or affiliated with any such institution, a nonprofit entity which engages in established curriculum-related clinical training of students registered at any such institution, a nonprofit research organization, or a governmental research organization) filing before <sup>1</sup> a petition under paragraph (1)—
 
 &emsp;(i) initially to grant an alien nonimmigrant status described in section 1101(a)(15)(H)(i)(b) of this title;
 
@@ -110,7 +116,7 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 
 &emsp;(iii) to obtain authorization for an alien having such status to change employers.
 
-(B) The amount of the fee shall be $1,000 for each such petition.
+(B) The amount of the fee shall be $1,500 for each such petition except that the fee shall be half the amount for each such petition by any employer with not more than 25 full-time equivalent employees who are employed in the United States (determined by including any affiliate or subsidiary of such employer).
 
 (C) Fees collected under this paragraph shall be deposited in the Treasury in accordance with section 1356(s) of this title.
 
@@ -126,9 +132,23 @@ Every alien (other than a nonimmigrant described in subparagraph (L) or (V) of s
 
 (C) Fees collected under this paragraph shall be deposited in the Treasury in accordance with section 1356(s) of this title.
 
+(12)(A) In addition to any other fees authorized by law, the Secretary of Homeland Security shall impose a fraud prevention and detection fee on an employer filing a petition under paragraph (1)—
+
+&emsp;(i) initially to grant an alien nonimmigrant status described in subparagraph (H)(i)(b) or (L) of section 1101(a)(15) of this title; or
+
+&emsp;(ii) to obtain authorization for an alien having such status to change employers.
+
+(B) In addition to any other fees authorized by law, the Secretary of State shall impose a fraud prevention and detection fee on an alien filing an application abroad for a visa authorizing admission to the United States as a nonimmigrant described in section 1101(a)(15)(L) of this title, if the alien is covered under a blanket petition described in paragraph (2)(A).
+
+(C) The amount of the fee imposed under subparagraph (A) or (B) shall be $500.
+
+(D) The fee imposed under subparagraph (A) or (B) shall only apply to principal aliens and not to the spouses or children who are accompanying or following to join such principal aliens.
+
+(E) Fees collected under this paragraph shall be deposited in the Treasury in accordance with section 1356(v) of this title.
+
 #### (d) Issuance of visa to fiance�AE1e or fiance�AE1 of citizen
 
-A visa shall not be issued under the provisions of section 1101(a)(15)(K)(i) of this title until the consular officer has received a petition filed in the United States by the fiance�AE1e and fiance�AE1 of the applying alien and approved by the Attorney General. The petition shall be in such form and contain such information as the Attorney General shall, by regulation, prescribe. It shall be approved only after satisfactory evidence is submitted by the petitioner to establish that the parties have previously met in person within 2 years before the date of filing the petition, have a bona fide intention to marry, and are legally able and actually willing to conclude a valid marriage in the United States within a period of ninety days after the alien's arrival, except that the Attorney General in his discretion may waive the requirement that the parties have previously met in person. In the event the marriage with the petitioner does not occur within three months after the admission of the said alien and minor children, they shall be required to depart from the United States and upon failure to do so shall be removed in accordance with sections 1229a and 1231 of this title.
+A visa shall not be issued under the provisions of section 1101(a)(15)(K)(i) of this title until the consular officer has received a petition filed in the United States by the fiance�AE1e and fiance�AE1 of the applying alien and approved by the Attorney General. The petition shall be in such form and contain such information as the Attorney General shall, by regulation, prescribe. It shall be approved only after satisfactory evidence is submitted by the petitioner to establish that the parties have previously met in person within 2 years before the date of filing the petition, have a bona fide intention to marry, and are legally able and actually willing to conclude a valid marriage in the United States within a period of ninety days after the alien's arrival, except that the Attorney General in his discretion maywaive the requirement that the parties have previously met in person. In the event the marriage with the petitioner does not occur within three months after the admission of the said alien and minor children, they shall be required to depart from the United States and upon failure to do so shall be removed in accordance with sections 1229a and 1231 of this title.
 
 #### (e) Nonimmigrant professionals and annual numerical limit
 
@@ -162,7 +182,7 @@ A visa shall not be issued under the provisions of section 1101(a)(15)(K)(i) of 
 
 #### (f) Denial of crewmember status in case of certain labor disputes
 
-(1) Except as provided in paragraph (3), no alien shall be entitled to nonimmigrant status described in section 1101(a)(15)(D) of this title if the alien intends to land for the purpose of performing service on board a vessel of the United States (as defined in section 2101(46) of title 46) or on an aircraft of an air carrier (as defined in section 40102(a)(2) of title 49) during a labor dispute where there is a strike or lockout in thebargaining unit of the employer in which the alien intends to perform such service.
+(1) Except as provided in paragraph (3), no alien shall be entitled to nonimmigrant status described in section 1101(a)(15)(D) of this title if the alien intends to land for the purpose of performing service on board a vessel of the United States (as defined in section 2101(46) of title 46) or on an aircraft of an air carrier (as defined in section 40102(a)(2) of title 49) during a labor dispute where there is a strike or lockout in the bargaining unit of the employer in which the alien intends to perform such service.
 
 (2) An alien described in paragraph (1)—
 
@@ -174,7 +194,7 @@ A visa shall not be issued under the provisions of section 1101(a)(15)(K)(i) of 
 
 &emsp;(A) has been an employee of such employer for a period of not less than 1 year preceding the date that a strike or lawful lockout commenced;
 
-&emsp;(B) has served as a qualified crewman for such employer at least once in each of 3 months during the 12-month period preceding such date; and
+&emsp;(B) has served as a qualified crewman for such employer at least once in each of 3months during the 12-month period preceding such date; and
 
 &emsp;(C) shall continue to provide the same services that such alien provided as such a crewman.
 
@@ -206,11 +226,13 @@ A visa shall not be issued under the provisions of section 1101(a)(15)(K)(i) of 
 
 (4) In the case of a nonimmigrant described in section 1101(a)(15)(H)(i)(b) of this title, the period of authorized admission as such a nonimmigrant may not exceed 6 years.
 
-(5) The numerical limitations contained in paragraph (1)(A) shall not apply to any nonimmigrant alien issued a visa or otherwise provided status under section 1101(a)(15)(H)(i)(b) of this title who is employed (or has received an offer of employment) at—
+(5) The numerical limitations contained in paragraph (1)(A) shall not apply to any nonimmigrant alien issued a visa or otherwise provided status under section 1101(a)(15)(H)(i)(b) of this title who—
 
-&emsp;(A) an institution of higher education (as defined in section 1001(a) of title 20), or a related or affiliated nonprofit entity; or
+&emsp;(A) is employed (or has received an offer of employment) at an institution of higher education (as defined in section 1001(a) of title 20), or a related or affiliated nonprofit entity;
 
-&emsp;(B) a nonprofit research organization or a governmental research organization.
+&emsp;(B) is employed (or has received an offer of employment) at a nonprofit research organization or a governmental research organization; or
+
+&emsp;(C) has earned a master's or higher degree from a United States institution of higher education (as defined in section 1001(a) of title 20), until the number of aliens who are exempted from such numerical limitation during such year exceeds 20,000.
 
 (6) Any alien who ceases to be employed by an employer described in paragraph (5)(A) shall, if employed as a nonimmigrant alien described in section 1101(a)(15)(H)(i)(b) of this title, who has not previously been counted toward the numerical limitations contained in paragraph (1)(A), be counted toward those limitations the first time the alien is employed by an employer other than one described in paragraph (5).
 
@@ -312,9 +334,15 @@ The fact that an alien is the beneficiary of an application for a preference sta
 
 &emsp;&emsp;(ii) the alien agrees to begin employment with the health facility or health care organization within 90 days of receiving such waiver, and agrees to continue to work for a total of not less than 3 years (unless the Attorney General determines that extenuating circumstances exist, such as closure of the facility or hardship to the alien, which would justify a lesser period of employment at such health facility or health care organization, in which case the alien must demonstrate another bona fide offer of employment at a health facility or health care organization for the remainder of such 3-year period); and
 
-&emsp;(D) in the case of a request by an interested Federal agency (other than a request by an interested Federal agency to employ the alien full-time in medical research or training) or by an interested State agency, the alien agrees to practice medicine in accordance with paragraph (2) for a total of not less than 3 years only in the geographic area or areas which are designated by the Secretary of Health and Human Services as having a shortage of health care professionals, except that, in the case of a request by the Department of Veterans Affairs, the alien shall not be required to practice medicine in a geographic area designated by the Secretary.
+&emsp;(D) in the case of a request by an interested Federal agency (other than a request by an interested Federal agency to employ the alien full-time in medical research or training) or by an interested State agency, the alien agrees to practice primary care or specialty medicine in accordance with paragraph (2) for a total of not less than 3 years only in the geographic area or areas which are designated by the Secretary of Health and Human Services as having a shortage of health care professionals, except that—
 
-(2)(A) Notwithstanding section 1258(2) of this title, the Attorney General may change the status of an alien who qualifies under this subsection and section 1182(e) of this title to that of an alien described in section 1101(a)(15)(H)(i)(b) of this title.
+&emsp;&emsp;(i) in the case of a request by the Department of Veterans Affairs, the alien shall not be required to practice medicine in a geographic area designated by the Secretary;
+
+&emsp;&emsp;(ii) in the case of a request by an interested State agency, the head of such State agency determines that the alien is to practice medicine under such agreement in a facility that serves patients who reside in one or more geographic areas so designated by the Secretary of Health and Human Services (without regard to whether such facility is located within such a designated geographic area), and the grant of such waiver would not cause the number of the waivers granted on behalf of aliens for such State for a fiscal year (within the limitation in subparagraph (B)) in accordance with the conditions of this clause to exceed 5; and
+
+&emsp;&emsp;(iii) in the case of a request by an interested Federal agency or by an interested State agency for a waiver for an alien who agrees to practice specialty medicine in a facility located in a geographic area so designated by the Secretary of Health and Human Services, the request shall demonstrate, based on criteria established by such agency, that there is a shortage of health care professionals able to provide services in the appropriate medical specialty to the patients who will be served by the alien.
+
+(2)(A) Notwithstanding section 1258(2) of this title, the Attorney General may change the status of an alien who qualifies under this subsection and section 1182(e) of this title to that of an alien described in section 1101(a)(15)(H)(i)(b) of this title. The numerical limitations contained in subsection (g)(1)(A) of this section shall not apply to any alien whose status is changed under the preceding sentence, if the alien obtained a waiver of the 2-year foreign residence requirement upon a request by an interested Federal agency or an interested State agency.
 
 (B) No person who has obtained a change of status under subparagraph (A) and who has failed to fulfill the terms of the contract with the health facility or health care organization named in the waiver application shall be eligible to apply for an immigrant visa, for permanent residence, or for any other change of nonimmigrant status, until it is established that such person has resided and been physically present in the country of his nationality or his last residence for an aggregate of at least 2 years following departure from the United States.
 
@@ -334,7 +362,7 @@ The fact that an alien is the beneficiary of an application for a preference sta
 
 &emsp;&emsp;(i) the aggregate period of such status at such a school does not exceed 12 months with respect to any alien, and (ii) the alien demonstrates that the alien has reimbursed the local educational agency that administers the school for the full, unsubsidized per capita cost of providing education at such school for the period of the alien's attendance.
 
-&emsp;(2) An alien who obtains the status of a nonimmigrant under clause (i) or (iii) of section1101(a)(15)(F) of this title in order to pursue a course of study at a private elementary or secondary school or in a language training program that is not publicly funded shall be considered to have violated such status, and the alien's visa under section 1101(a)(15)(F) of this title shall be void, if the alien terminates or abandons such course of study at such a school and undertakes a course of study at a public elementary school, in a publicly funded adult education program, in a publicly funded adult education language training program, or at a public secondary school (unless the requirements of paragraph (1)(B) are met).
+&emsp;(2) An alien who obtains the status of a nonimmigrant under clause (i) or (iii) of section 1101(a)(15)(F) of this title in order to pursue a course of study at a private elementary or secondary school or in a language training program that is not publicly funded shall be considered to have violated such status, and the alien's visa under section 1101(a)(15)(F) of this title shall be void, if the alien terminates or abandons such course of study at such a school and undertakes a course of study at a public elementary school, in a publicly funded adult education program, in a publicly funded adult education language training program, or at a public secondary school (unless the requirements of paragraph (1)(B) are met).
 
 #### (n) Increased portability of H–1B status
 
@@ -428,7 +456,7 @@ The fact that an alien is the beneficiary of an application for a preference sta
 
 &emsp;(C) The principal alien's application for adjustment of status under section 1255 of this title pursuant to the approval of such petition.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §214, 66 Stat. 189; Pub. L. 91–225, §3, Apr. 7, 1970, 84 Stat. 117; Pub. L. 98–454, title VI, §602(b), Oct. 5, 1984, 98 Stat. 1737; Pub. L. 99–603, title III, §§301(b), 313(b), Nov. 6, 1986, 100 Stat. 3411, 3438; Pub. L. 99–639, §3(a), (c), Nov. 10, 1986, 100 Stat. 3542; Pub. L. 100–449, title III, §307(b), Sept. 28, 1988, 102 Stat. 1877; Pub. L. 100–525, §2(<i>l</i>)(1), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–649, title II, §§202(a), 205(a), (b), (c)(2), 206(b), 207(b), Nov. 29, 1990, 104 Stat. 5014, 5019, 5020, 5023, 5025; Pub. L. 102–232, title II, §§202(a), 203(b), 204, 205(d), (e), 206(a), (c)(2), 207(a), (c)(1), title III, §303(a)(10)–(12), Dec. 12, 1991, 105 Stat. 1737–1741, 1748; Pub. L. 103–182, title III, §341(b), (c), Dec. 8, 1993, 107 Stat. 2116, 2117; Pub. L. 103–322, title XIII, §130003(b)(2), Sept. 13, 1994, 108 Stat. 2025; Pub. L. 103–416, title II, §220(b), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. C, title III, §308(e)(1)(D), (2)(B), (f)(1)(G), (H), (3)(B), (g)(5)(A)(i), (7)(A), title VI, §§621, 622(c), 625(a)(1), 671(a)(3)(A), (e)(4)(A), Sept. 30, 1996, 110 Stat. 3009–619 to 3009–621, 3009–623, 3009–695, 3009–699, 3009–721, 3009–723; Pub. L. 105–65, title I, §108, Oct. 27, 1997, 111 Stat. 1350; Pub. L. 105–277, div. C, title IV, §§411(a), 414(a), Oct. 21, 1998, 112 Stat. 2681–642, 2681–651; Pub. L. 106–104, §2, Nov. 13, 1999, 113 Stat. 1483; Pub. L. 106–311, §1, Oct. 17, 2000, 114 Stat. 1247; Pub. L. 106–313, title I, §§102(a), 103, 105(a), 108, Oct. 17, 2000, 114 Stat. 1251–1253, 1255; Pub. L. 106–386, div. A, §107(e)(2), div. B, title V, §1513(c), Oct. 28, 2000, 114 Stat. 1478, 1535; Pub. L. 106–396, title IV, §401, Oct. 30, 2000, 114 Stat. 1647; Pub. L. 106–553, §1(a)(2) \[title XI, §§1102(b), (d)(1), 1103(b), (c)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–142, 2762A–144, 2762A–145; Pub. L. 107–45, §1, Oct. 1, 2001, 115 Stat. 258; Pub. L. 107–124, Jan. 16, 2002, 115 Stat. 2402; Pub. L. 107–125, §§1, 2(a), Jan. 16, 2002, 115 Stat. 2403; Pub. L. 107–273, div. C, title I, §11018(a), Nov. 2, 2002, 116 Stat. 1825; Pub. L. 107–274, §2(c), Nov. 2, 2002, 116 Stat. 1923; Pub. L. 108–77, title IV, §§402(a)(2), (d)(1), 403, 404, Sept. 3, 2003, 117 Stat. 940, 946, 947; Pub. L. 108–78, title IV, §402, Sept. 3, 2003, 117 Stat. 970; Pub. L. 108–193, §§4(b)(2), 8(a)(3), Dec. 19, 2003, 117 Stat. 2878, 2886.)
+(June 27, 1952, ch. 477, title II, ch. 2, §214, 66 Stat. 189; Pub. L. 91–225, §3, Apr. 7, 1970, 84 Stat. 117; Pub. L. 98–454, title VI, §602(b), Oct. 5, 1984, 98 Stat. 1737; Pub. L. 99–603, title III, §§301(b), 313(b), Nov. 6, 1986, 100 Stat. 3411, 3438; Pub. L. 99–639, §3(a), (c), Nov. 10, 1986, 100 Stat. 3542; Pub. L. 100–449, title III, §307(b), Sept. 28, 1988, 102 Stat. 1877; Pub. L. 100–525, §2(<i>l</i>)(1), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–649, title II, §§202(a), 205(a), (b), (c)(2), 206(b), 207(b), Nov. 29, 1990, 104 Stat. 5014, 5019, 5020, 5023, 5025; Pub. L. 102–232, title II, §§202(a), 203(b), 204, 205(d), (e), 206(a), (c)(2), 207(a), (c)(1), title III, §303(a)(10)–(12), Dec. 12, 1991, 105 Stat. 1737–1741, 1748; Pub. L. 103–182, title III, §341(b), (c), Dec. 8, 1993, 107 Stat. 2116, 2117; Pub. L. 103–322, title XIII, §130003(b)(2), Sept. 13, 1994, 108 Stat. 2025; Pub. L. 103–416, title II, §220(b), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. C, title III, §308(e)(1)(D), (2)(B), (f)(1)(G), (H), (3)(B), (g)(5)(A)(i), (7)(A), title VI, §§621, 622(c), 625(a)(1), 671(a)(3)(A), (e)(4)(A), Sept. 30, 1996, 110 Stat. 3009–619 to 3009–621, 3009–623, 3009–695, 3009–699, 3009–721, 3009–723; Pub. L. 105–65, title I, §108, Oct. 27, 1997, 111 Stat. 1350; Pub. L. 105–277, div. C, title IV, §§411(a), 414(a), Oct. 21, 1998, 112 Stat. 2681–642, 2681–651; Pub. L. 106–104, §2, Nov. 13, 1999, 113 Stat. 1483; Pub. L. 106–311, §1, Oct. 17, 2000, 114 Stat. 1247; Pub. L. 106–313, title I, §§102(a), 103, 105(a), 108, Oct. 17, 2000, 114 Stat. 1251–1253, 1255; Pub. L. 106–386, div. A, §107(e)(2), div. B, title V, §1513(c), Oct. 28,2000, 114 Stat. 1478, 1535; Pub. L. 106–396, title IV, §401, Oct. 30, 2000, 114 Stat. 1647; Pub. L. 106–553, §1(a)(2) \[title XI, §§1102(b), (d)(1), 1103(b), (c)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–142, 2762A–144, 2762A–145; Pub. L. 107–45, §1, Oct. 1, 2001, 115 Stat. 258; Pub. L. 107–124, Jan. 16, 2002, 115 Stat. 2402; Pub. L. 107–125, §§1, 2(a), Jan. 16, 2002, 115 Stat. 2403; Pub. L. 107–273, div. C, title I, §11018(a), Nov. 2, 2002, 116 Stat. 1825; Pub. L. 107–274, §2(c), Nov. 2, 2002, 116 Stat. 1923; Pub. L. 108–77, title IV, §§402(a)(2), (d)(1), 403, 404, Sept. 3, 2003, 117 Stat. 940, 946, 947; Pub. L. 108–78, title IV, §402, Sept. 3, 2003, 117 Stat. 970; Pub. L. 108–193, §§4(b)(2), 8(a)(3), Dec. 19, 2003, 117 Stat. 2878, 2886; Pub. L. 108–441, §1(b)–(d), Dec. 3, 2004, 118 Stat. 2630; Pub. L. 108–447, div. J, title IV, §§412(a), 413(a), 422(b), 425(a) 426(a), Dec. 8, 2004, 118 Stat. 3351–3353, 3356, 3357.)
 
 #### Amendment of Section
 
@@ -438,9 +466,31 @@ The fact that an alien is the beneficiary of an application for a preference sta
 
 #### References in Text
 
-The International Organizations Immunities Act, referred to in subsec. (b), is act Dec. 29, 1945, ch. 652, titleI, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+The International Organizations Immunities Act, referred to in subsec. (b), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 #### Amendments
+
+2004—Subsec. (c)(2)(A). Pub. L. 108–447, §413(a), struck out at end “In the case of an alien seeking admission under section 1101(a)(15)(L) of this title, the 1-year period of continuous employment required under such section is deemed to be reduced to a 6-month period if the importing employer has filed a blanket petition under this subparagraph and met the requirements for expedited processing of aliens covered under such petition.”
+
+Subsec. (c)(2)(F). Pub. L. 108–447, §412(a), added subpar. (F).
+
+Subsec. (c)(9)(A). Pub. L. 108–447, §422(b)(1), struck out “October 1, 2003” before “a petition under paragraph (1)” in introductory provisions.
+
+Subsec. (c)(9)(B). Pub. L. 108–447, §422(b)(2), (3), substituted “$1,500” for “$1,000” and inserted before period at end “except that the fee shall be half the amount for each such petition by any employer with not more than 25 full-time equivalent employees who are employed in the United States (determined by including any affiliate or subsidiary of such employer)”.
+
+Subsec. (c)(12). Pub. L. 108–447, §426(a), added par. (12).
+
+Subsec. (g)(5). Pub. L. 108–447, §425(a)(1), struck out “is employed (or has received an offer of employment) at” after “section 1101(a)(15)(H)(i)(b) of this title who” in introductory provisions.
+
+Subsec. (g)(5)(A). Pub. L. 108–447, §425(a)(2), inserted “is employed (or has received an offer of employment) at” before “an institution” and struck out “or” at end.
+
+Subsec. (g)(5)(B). Pub. L. 108–447, §425(a)(3), inserted “is employed (or has received an offer of employment) at” before “a nonprofit” and substituted “; or” for period at end.
+
+Subsec. (g)(5)(C). Pub. L. 108–447, §425(a)(4), added subpar. (C).
+
+Subsec. (<i>l</i>)(1)(D). Pub. L. 108–441, §1(c), (d), substituted “agrees to practice primary care or specialty medicine” for “agrees to practice medicine” and “except that—” for “except that, in the case of a request by the Department of Veterans Affairs, the alien shall not be required to practice medicine in a geographic area designated by the Secretary.” and added cls. (i) to (iii).
+
+Subsec. (<i>l</i>)(2)(A). Pub. L. 108–441, §1(b), inserted at end “The numerical limitations contained in subsection (g)(1)(A) of this section shall not apply to any alien whose status is changed under the preceding sentence, if the alien obtained a waiver of the 2-year foreign residence requirement upon a request by an interested Federal agency or an interested State agency.”
 
 2003—Subsec. (b). Pub. L. 108–77, §§107(c), 404(1), temporarily substituted “(other than a nonimmigrant described in subparagraph (L) or (V) of section 1101(a)(15) of this title, and other than a nonimmigrant described in any provision of section 1101(a)(15)(H)(i) of this title except subclause (b1) of such section)” for “(other than a nonimmigrant described in subparagraph (H)(i), (L), or (V) of section 1101(a)(15) of this title)”. See Effective and Termination Dates of 2003 Amendments note below.
 
@@ -644,6 +694,18 @@ Pub. L. 99–639, §3(c), struck out last sentence which read: “In the event t
 
 Subsec. (d). Pub. L. 91–225, §3(b), added subsec. (d).
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–447, div. J, title IV, §412(b), Dec. 8, 2004, 118 Stat. 3352, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to petitions filed on or after the effective date of this subtitle \[subtitle A, effective 180 days after Dec. 8, 2004, see below\], whether for initial, extended, or amended classification.”
+
+Pub. L. 108–447, div. J, title IV, §413(b), Dec. 8, 2004, 118 Stat. 3352, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only to petitions for initial classification filed on or after the effective date of this subtitle \[subtitle A, effective 180 days after Dec. 8, 2004, see below\].”
+
+Pub. L. 108–447, div. J, title IV, §417, Dec. 8, 2004, 118 Stat. 3353, provided that: “This subtitle \[subtitle A (§§411–417) of title IV of div. J of Pub. L. 108–447, enacting section 1380 of this title, amending this section, and enacting provisions set out as notes under this section and section 1101 of this title\] and the amendments made by this subtitle shall take effect 180 days after the date of enactment of this Act \[Dec. 8, 2004\].”
+
+Amendment by sections 422(b) and 426(a) of Pub. L. 108–447 effective Dec. 8, 2004, and amendment by section 425(a) of Pub. L. 108–447 effective 90 days after Dec. 8, 2004, see section 430 of Pub. L. 108–447, set out as a note under section 1182 of this title.
+
+Pub. L. 108–447, div. J, title IV, §426(c), Dec. 8, 2004, 118 Stat. 3358, provided that: “The amendments made by this section \[amending this section and section 1356 of this title\] shall take effect on the date of enactment of this Act \[Dec. 8, 2004\], and the fees imposed undersuch amendments shall apply to petitions under section 214(c) of the Immigration and Nationality Act \[8 U.S.C. 1184(c)\], and applications for nonimmigrant visas under section 222 of such Act \[8 U.S.C. 1202\], filed on or after the date that is 90 days after the date of the enactment of this Act.”
+
 #### Effective and Termination Dates of 2003 Amendments
 
 Amendment by Pub. L. 108–78 effective on the date the United States-Singapore Free Trade Agreement enters into force (Jan. 1, 2004), and ceases to be effective on the date the Agreement ceases to be in force, see section 107 of Pub. L. 108–78, set out in a note under section 3805 of Title 19, Customs Duties.
@@ -678,7 +740,7 @@ Amendment by section 671(a)(3)(A) of Pub. L. 104–208 effective as if included 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–416 applicable to aliens admitted to United States under section 1101(a)(15)(J) of this title, or acquiring such status after admission to United States, before, on, or after Oct. 25, 1994, and before June 1, 2004, see section 220(c) of Pub. L. 103–416, as amended, set out as an Effective and Termination Dates of 1994 Amendments note under section 1182 of this title.
+Amendment by Pub. L. 103–416 applicable to aliens admitted to United States under section 1101(a)(15)(J) of this title, or acquiring such status after admission to United States, before, on, or after Oct. 25, 1994, and before June 1, 2006, see section 220(c) of Pub. L. 103–416, as amended, set out as an Effective and Termination Dates of 1994 Amendments note under section 1182 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -718,7 +780,29 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+
+#### L Visa Interagency Task Force and Inspector General Report
+
+Pub. L. 108–447, div. J, title IV, §§415, 416, Dec. 8, 2004, 118 Stat. 3352, provided that:
+
+#### “SEC. 415. INSPECTOR GENERAL REPORT ON L VISA PROGRAM.
+
+“Not later than 6 months after the date of enactment of this Act \[Dec. 8, 2004\], the Inspector General of the Department of Homeland Security shall, consistent with the authority granted the Department under section 428 of the Homeland Security Act of 2002 (6 U.S.C. 236), examine and report to the Committees on the Judiciary of the House of Representatives and the Senate on the vulnerabilities and potential abuses in the visa program carried out under section 214(c) of the Immigration and Nationality Act (8 U.S.C. 1184(c)) with respect to nonimmigrants described in section 101(a)(15)(L) of such Act (8 U.S.C. 1101(a)(15)(L)).
+
+#### “SEC. 416. ESTABLISHMENT OF TASK FORCE.
+
+“(a)
+
+Establishment.—Not later than 6 months after the date of enactment of this Act \[Dec. 8, 2004\], there shall be established an L Visa Interagency Task Force that consists of representatives from the Department of Homeland Security, the Department of Justice, and the Department of State. The Secretaries of each Department and each relevant bureau of the Department of Homeland Security shall appoint designees to the L Visa Interagency Task Force. The L Visa Interagency Task Force shall consult with other agencies deemed appropriate.
+
+“(b)
+
+Report.—Not later than 6 months after the submission of the report by the Inspector General of the Department of Homeland Security in accordance with section 6 \[probably means section 415 of div. J. of Pub. L. 108–447\], the L Visa Interagency Task Force shall report to the Committees on the Judiciary of the House of Representatives and the Senate on the efforts to implement the recommendations set forth by the Inspector General's report. The L Visa Interagency Task Force shall note specific areas of agreement and disagreement, and make recommendations to Congress on the findings of the Task Force, including any suggestions for legislation. The Task Force shall also review other additional issues as may be raised by the Inspector General's report or by the Task Force's own deliberations regarding the policies and purposes of the visa program relative to national goals and transnational commerce.”
+
+#### Statistical Information on Country of Origin, Occupation, Educational Level and Compensation
+
+Pub. L. 108–447, div. J, title IV, §425(b), Dec. 8, 2004, 118 Stat. 3356, provided that: “Beginning on the date of enactment of this Act \[Dec. 8, 2004\], the Secretary of Homeland Security shall maintain statistical information on the country of origin and occupation of, educational level maintained by, and compensation paid to, each alien who is issued a visa or otherwise provided nonimmigrant status and is exempt under section 214(g)(5) of the Immigration and Nationality Act (8 U.S.C. 1184(g)(5)) for each fiscal year. The statistical information shall be included in the annual report to Congress under section 416(c) of the American Competitiveness and Workforce Improvement Act of 1998 (Public Law 105–277; 112 Stat. 2681–655) \[set out below\].”
 
 #### Additional Visas for Fiscal Years 1999 and 2000
 
@@ -778,7 +862,7 @@ Pub. L. 105–277, div. C, title IV, §416, Oct. 21, 1998, 112 Stat. 2681–655,
 
 “(a)
 
-Ensuring Accurate Count.—The Attorney General shall take such steps as are necessary to maintainan accurate count of the number of aliens subject to the numerical limitations of section 214(g)(1) of the Immigration and Nationality Act (8 U.S.C. 1184(g)(1)) who are issued visas or otherwise provided nonimmigrant status.
+Ensuring Accurate Count.—The Attorney General shall take such steps as are necessary to maintain an accurate count of the number of aliens subject to the numerical limitations of section 214(g)(1) of the Immigration and Nationality Act (8 U.S.C. 1184(g)(1)) who are issued visas or otherwise provided nonimmigrant status.
 
 “(b)
 
@@ -834,7 +918,7 @@ Section 207(c) of Pub. L. 101–649, as amended by Pub. L. 102–232, title III,
 
 #### Off-Campus Work Authorization for Students (F Nonimmigrants)
 
-Section 221 of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §303(b)(1), (2), Dec. 12, 1991, 105 Stat. 1748; Pub. L. 103–416, title II, §215(a), Oct. 25, 1994, 108 Stat. 4315, provided that:
+Section 221 of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §303(b)(1), (2), Dec. 12, 1991, 105 Stat.1748; Pub. L. 103–416, title II, §215(a), Oct. 25, 1994, 108 Stat. 4315, provided that:
 
 “(a) 5-
 
@@ -842,7 +926,7 @@ Year Provision.—With respect to work authorization for aliens admitted as noni
 
 &emsp;“(1) the alien has completed 1 academic year as such a nonimmigrant and is maintaining good academic standing at the educational institution,
 
-&emsp;“(2) the employer provides the educational institution and the Secretary of Labor with an attestation that the employer (A) has recruited for at least 60 days for the position and (B) will provide for payment to the alien and to other similarly situated workers at a rate equal to not less than the actual wage level for the occupation at the place of employment or, ifgreater, the prevailing wage level for the occupation in the area of employment, and
+&emsp;“(2) the employer provides the educational institution and the Secretary of Labor with an attestation that the employer (A) has recruited for at least 60 days for the position and (B) will provide for payment to the alien and to other similarly situated workers at a rate equal to not less than the actual wage level for the occupation at the place of employment or, if greater, the prevailing wage level for the occupation in the area of employment, and
 
 &emsp;“(3) the alien will not be employed more than 20 hours each week during the academic term (but may be employed on a full-time basis during vacation periods and between academic terms).
 
@@ -868,9 +952,5 @@ Quota deductions authorized by acts June 30, 1950, ch. 423, 64 Stat. 306; Apr. 9
 
 Pub. L. 85–531, July 18, 1958, 72 Stat. 375, authorized the Attorney General, upon application made not later than July 18, 1963, to cancel any departure bond posted pursuant to the Immigration Act of 1924, as amended, or the Immigration and Nationality Act \[this chapter\], on behalf of any refugee who entered the United States as a nonimmigrant after May 6, 1945, and prior to July 1, 1953, and who had his immigration status adjusted to that of an alien admitted for permanent residence pursuant to any public or private law.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1101, 1182, 1186a, 1187, 1188, 1201, 1255, 1356, 1571, 1574 of this title; title 22 section 7105; title 26 section 3306; title 29 sections 1802, 2916a.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> So in original. The word “before” probably should not appear.</i>
 

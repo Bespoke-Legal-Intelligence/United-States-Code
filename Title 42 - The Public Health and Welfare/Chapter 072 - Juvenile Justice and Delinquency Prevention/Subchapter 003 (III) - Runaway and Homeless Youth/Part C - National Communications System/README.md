@@ -1,9 +1,5 @@
 Part C—National Communications System
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 5715, 5731a, 5732, 5751, 5773 of this title.
-
 
 ---
 

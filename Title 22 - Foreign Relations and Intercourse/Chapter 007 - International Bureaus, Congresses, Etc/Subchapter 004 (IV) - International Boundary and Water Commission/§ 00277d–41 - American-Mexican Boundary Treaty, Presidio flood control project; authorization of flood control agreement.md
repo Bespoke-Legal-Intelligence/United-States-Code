@@ -4,7 +4,3 @@ The Secretary of State, acting through the Commissioner, is hereby authorized to
 
 (Pub. L. 92–549, title II, §201, Oct. 25, 1972, 86 Stat. 1163.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 277d–42 of this title.
-

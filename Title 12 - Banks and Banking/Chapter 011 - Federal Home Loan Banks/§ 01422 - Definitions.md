@@ -78,7 +78,7 @@ Par. (3). Pub. L. 106–102, §602(2), added par. (3) and struck out former par.
 
 Par. (13). Pub. L. 106–102, §602(3), added par. (13).
 
-1989—Pars. (1), (2). Pub. L. 101–73, §701(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2)which defined “board” and “Federal Home Loan Bank”.
+1989—Pars. (1), (2). Pub. L. 101–73, §701(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which defined “board” and “Federal Home Loan Bank”.
 
 Par. (4). Pub. L. 101–73, §701(a)(2), which directed amendment of par. (4) by striking out “(except when used in reference to the member of the Board)” after “ ‘member’ ”, was executed by striking out “(except when used in reference to a member of the board)” as the probable intent of Congress.
 
@@ -97,8 +97,4 @@ Pars. (9) to (12). Pub. L. 101–73, §701(a)(3), added pars. (9) to (12) and st
 1935—Subsec. (6). Act May 28, 1935, substituted “four families” for “three families”.
 
 1934—Subsec. (6). Act June 27, 1934, struck out “first” before “mortgage” and inserted “or (2) under a lease having a period of not less than fifty years to run from the date the mortgage was executed”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 248, 461, 1424, 1735f–7a of this title; title 18 section 20.
 

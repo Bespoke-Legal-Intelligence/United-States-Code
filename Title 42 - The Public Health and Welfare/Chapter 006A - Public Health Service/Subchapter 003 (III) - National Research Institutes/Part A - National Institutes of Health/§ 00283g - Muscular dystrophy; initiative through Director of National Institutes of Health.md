@@ -120,7 +120,7 @@ The Secretary shall, under subsection (a)(1) of this section, provide for a mean
 
 #### (h) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2002 through 2006. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to muscular dystrophy.
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2002 through 2006. The authorization of appropriations established in the preceding sentence is in addition to any other authorizationof appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to muscular dystrophy.
 
 (July 1, 1944, ch. 373, title IV, §404E, as added Pub. L. 107–84, §3, Dec. 18, 2001, 115 Stat. 824.)
 
@@ -131,10 +131,6 @@ Section 6 of the MD–CARE Act, referred to in subsec. (a)(2), is section 6 of P
 #### Prior Provisions
 
 A prior section 283g, act July 1, 1944, ch. 373, title IV, §404E, as added Pub. L. 103–43, title II, §209, June 10, 1993, 107 Stat. 149, related to Office of Alternative Medicine, prior to repeal by Pub. L. 105–277, div. A, §101(f) \[title VI, §601(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–387.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 247b–18 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

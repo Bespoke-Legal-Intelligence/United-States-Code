@@ -130,10 +130,6 @@ Subsec. (d). Pub. L. 102–573, §102(c)(4), struck out subsec. (d) which author
 
 Section 102(d) of Pub. L. 102–573 provided that: “The amendments made by subsection (c)(1)(C) and subsection (c)(2)(B) \[amending this section\] shall apply with respect to scholarships granted under section 104 of the Indian Health Care Improvement Act \[this section\] after the date of the enactment of this Act \[Oct. 29, 1992\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1614, 1616a, 1616a–1, 1616m of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
 
 <i><sup>2</sup></i><i> So in original. The “; or” probably should be a period.</i>

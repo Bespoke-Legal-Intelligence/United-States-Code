@@ -22,7 +22,7 @@ The Telephone Bank Board shall consist of thirteen individuals, as follows:
 
 #### (3) Commercial members
 
-&emsp;The commercial-type entities, and the organizations controlled by such entities, that hold class B or class C stock shall elect three individuals to serve on the Telephone Bank Board for a term of two years, by a pluralityvote of the stockholders voting in the election.
+&emsp;The commercial-type entities, and the organizations controlled by such entities, that hold class B or class C stock shall elect three individuals to serve on the Telephone Bank Board for a term of two years, by a plurality vote of the stockholders voting in the election.
 
 #### (c) Elections
 
@@ -99,8 +99,4 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (i) of this section relating to transmittal of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 45 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 950 of this title.
 

@@ -44,7 +44,7 @@ The Secretary may waive the application of subsection (a) of this section if an 
 
 #### (2) Redistribution
 
-&emsp;Any amounts that are not distributed by reason of paragraph (1) shall be redistributedto eligible institutions or consortia in accordance with this section.
+&emsp;Any amounts that are not distributed by reason of paragraph (1) shall be redistributed to eligible institutions or consortia in accordance with this section.
 
 (Pub. L. 88–210, title I, §132, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3112.)
 
@@ -53,8 +53,4 @@ The Secretary may waive the application of subsection (a) of this section if an 
 Provisions similar to this section were contained in section 2341a of this title, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 A prior section 2352, Pub. L. 88–210, title III, §302, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2458; amended Pub. L. 101–392, title III, §301, Sept. 25, 1990, 104 Stat. 786, related to use of funds, prior to the general amendment of this chapter by Pub. L. 105–332.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2302, 2322, 2353 of this title.
 

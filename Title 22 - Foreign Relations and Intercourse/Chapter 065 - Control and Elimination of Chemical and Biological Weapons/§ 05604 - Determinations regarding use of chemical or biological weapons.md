@@ -4,7 +4,7 @@
 
 #### (1) When determination required; nature of determination
 
-&emsp;Whenever persuasive information becomes available to the executive branch indicating the substantial possibility that, on or after October 28, 1991, the government of a foreign country has made substantial preparation to use or has used chemical or biological weapons, the President shall, within 60 days after the receipt of such information by the executive branch, determine whether that government, on or after October 28, 1991, has usedchemical or biological weapons in violation of international law or has used lethal chemical or biological weapons against its own nationals. Section 5605 of this title applies if the President determines that that government has so used chemical or biological weapons.
+&emsp;Whenever persuasive information becomes available to the executive branch indicating the substantial possibility that, on or after October 28, 1991, the government of a foreign country has made substantial preparation to use or has used chemical or biological weapons, the President shall, within 60 days after the receipt of such information by the executive branch, determine whether that government, on or after October 28, 1991, has used chemical or biological weapons in violation of international law or has used lethal chemical or biological weapons against its own nationals. Section 5605 of this title applies if the President determines that that government has so used chemical or biological weapons.
 
 #### (2) Matters to be considered
 
@@ -28,7 +28,7 @@
 
 #### (1) Request
 
-&emsp;The Chairman of the Committee on Foreign Relations of the Senate (upon consultation with the ranking minority member of such committee) or the Chairman of the Committee on Foreign Affairs of the House of Representatives (upon consultation with the ranking minority member of such committee) may at any time request the President to consider whether a particular foreign government, on or after December 4, 1991, has used chemical or biological weapons in violation of international law or has used lethal chemical or biological weapons against its own nationals.
+&emsp;The Chairman of the Committee on Foreign Relations of the Senate (upon consultation with the ranking minority member of suchcommittee) or the Chairman of the Committee on Foreign Affairs of the House of Representatives (upon consultation with the ranking minority member of such committee) may at any time request the President to consider whether a particular foreign government, on or after December 4, 1991, has used chemical or biological weapons in violation of international law or has used lethal chemical or biological weapons against its own nationals.
 
 #### (2) Report to Congress
 
@@ -47,8 +47,4 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 #### Delegation of Functions
 
 Functions of President under this section delegated to Secretary of State, with certain exceptions, by section 1(b) of Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2295a, 2295b, 5605 of this title.
 

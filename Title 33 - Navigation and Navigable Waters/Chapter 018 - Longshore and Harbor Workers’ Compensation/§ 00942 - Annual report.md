@@ -16,9 +16,5 @@ A prior section 942, act Mar. 4, 1927, ch. 509, §42, 44 Stat. 1444, related to 
 
 Section effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as an Effective Date of 1984 Amendment note under section 901 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 944 of this title; title 5 section 8152; title 30 section 936.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -56,11 +56,11 @@
 
 &emsp;&emsp;(A) not later than 20 days after the date the employer hires the employee; or
 
-&emsp;&emsp;(B) in the case of an employer transmitting reports magnetically or electronically, by 2 monthly transmissions (if necessary)not less than 12 days nor more than 16 days apart.
+&emsp;&emsp;(B) in the case of an employer transmitting reports magnetically or electronically, by 2 monthly transmissions (if necessary) not less than 12 days nor more than 16 days apart.
 
 #### (c) Reporting format and method
 
-Each report required by subsection (b) of this section shall be made on a W–4 form or, at the option of the employer, an equivalent form, and may be transmitted by 1st class mail, magnetically, or electronically.
+Each report required by subsection (b) of this section shall be made on a W–4 form or, at the option of the employer, an equivalent form, andmay be transmitted by 1st class mail, magnetically, or electronically.
 
 #### (d) Civil money penalties on noncomplying employers
 
@@ -128,7 +128,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (b)(1)(A), an
 
 1997—Subsec. (d). Pub. L. 105–33, §5533(1), substituted “shall not exceed” for “shall be less than” in introductory provisions and “$25 per failure to meet the requirements of this section with respect to a newly hired employee” for “$25” in par. (1).
 
-Subsec. (g)(2)(B). Pub. L. 105–33, §5533(2), substituted “information” for “extracts of the reports requiredunder section 503(a)(6) of this title to be made to the Secretary of Labor”.
+Subsec. (g)(2)(B). Pub. L. 105–33, §5533(2), substituted “information” for “extracts of the reports required under section 503(a)(6) of this title to be made to the Secretary of Labor”.
 
 #### Effective Date of 1997 Amendment
 
@@ -137,8 +137,4 @@ Amendment by Pub. L. 105–33 effective as if included in the enactment of title
 #### Effective Date
 
 For effective date of section, see section 395(a)–(c) of Pub. L. 104–193, set out as an Effective Date of 1996 Amendment note under section 654 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 653, 654, 666, 1320b–7 of this title.
 

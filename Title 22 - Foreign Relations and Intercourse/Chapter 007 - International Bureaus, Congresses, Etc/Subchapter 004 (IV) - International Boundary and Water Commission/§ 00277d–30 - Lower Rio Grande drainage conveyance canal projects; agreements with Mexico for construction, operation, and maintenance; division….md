@@ -4,7 +4,3 @@ The Secretary of State, acting through the United States Commissioner, Internati
 
 (Pub. L. 89–584, §1, Sept. 19, 1966, 80 Stat. 808.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 277d–31 of this title.
-

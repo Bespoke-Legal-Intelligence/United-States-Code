@@ -4,7 +4,3 @@ The $200,000 withheld from per capita distribution pursuant to section 1191 of t
 
 (Pub. L. 91–259, §5, May 21, 1970, 84 Stat. 254.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1191 of this title.
-

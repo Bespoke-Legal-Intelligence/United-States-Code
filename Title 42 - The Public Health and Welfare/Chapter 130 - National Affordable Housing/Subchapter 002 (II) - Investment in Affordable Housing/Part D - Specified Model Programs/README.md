@@ -1,9 +1,5 @@
 Part D—Specified Model Programs
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 12743 of this title.
-
 
 ---
 

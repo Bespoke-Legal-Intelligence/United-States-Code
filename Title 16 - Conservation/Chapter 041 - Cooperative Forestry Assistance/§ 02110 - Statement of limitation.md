@@ -10,9 +10,5 @@ A prior section 14 of Pub. L. 95–313 was renumbered section 17 and is set out 
 
 #### Amendments
 
-1990—Pub. L. 101–624, §1221, amended section generally. Prior to amendment, section read as follows: “This chapter does not authorize the Federal Government to regulate the use of private land or to deprive owners of land of their rights to property or to income from the sale of property, and this chapter does not diminish in any way the rights and responsibilities of the States and political subdivisions of States.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2106b of this title.
+1990—Pub. L. 101–624, §1221, amended section generally. Prior to amendment, section read as follows:“This chapter does not authorize the Federal Government to regulate the use of private land or to deprive owners of land of their rights to property or to income from the sale of property, and this chapter does not diminish in any way the rights and responsibilities of the States and political subdivisions of States.”
 

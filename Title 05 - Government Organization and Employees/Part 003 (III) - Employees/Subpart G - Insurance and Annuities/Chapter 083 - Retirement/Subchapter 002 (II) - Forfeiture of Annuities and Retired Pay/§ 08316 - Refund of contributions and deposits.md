@@ -50,7 +50,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Section 5 of the Uniform Services Contingency Option Act of 1953 (67 Stat. 504), referred to in text, is covered by section 1438 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8318 of this title.
-

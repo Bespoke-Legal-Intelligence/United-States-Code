@@ -22,7 +22,7 @@ The plan may provide for establishing and carrying out research and development 
 
 #### (f) Reserve funds; limitation
 
-The plan may provide authority for the accumulation of reserve funds from assessments collected under this chapter, to permit an effectiveand continuous coordinated program of research, development, advertising, and promotion in years when watermelon production and assessment income may be reduced, except that the total reserve fund may not exceed the amount budgeted for two years operation.
+The plan may provide authority for the accumulation of reserve funds from assessments collected under this chapter, to permit an effective and continuous coordinated program of research, development, advertising, and promotion in years when watermelon production and assessment income may be reduced, except that the total reserve fund may not exceed the amount budgeted for two years operation.
 
 #### (g) Foreign market sales
 
@@ -33,8 +33,4 @@ The plan may provide for the use of funds from assessments collected under this 
 The plan may contain terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of the plan.
 
 (Pub. L. 99–198, title XVI, §1648, Dec. 23, 1985, 99 Stat. 1625.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4906, 4912 of this title.
 

@@ -72,7 +72,3 @@ Ex. Ord. No. 11970, Feb. 5, 1977, 42 F.R. 7919, establishing the Presidential Ad
 
 Term of the Presidential Advisory Board on Ambassadorial Appointments extended until Dec. 31, 1980, see Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3903, 3943, 3946, 3948, 3961, 4001, 4006, 4046, 4053 of this title.
-

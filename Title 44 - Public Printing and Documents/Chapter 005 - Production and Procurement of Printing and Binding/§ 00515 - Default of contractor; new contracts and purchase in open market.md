@@ -8,7 +8,3 @@ If a contractor fails to comply with his contract, the Public Printer shall repo
 
 Based on 44 U.S. Code, 1964 ed., §11 (Jan. 12, 1895, ch. 23, §9, 28 Stat. 602; Mar. 3, 1917, ch. 163, §6, 39 Stat. 1121).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1121 of this title; title 22 section 3714b; title 35 section 2.
-

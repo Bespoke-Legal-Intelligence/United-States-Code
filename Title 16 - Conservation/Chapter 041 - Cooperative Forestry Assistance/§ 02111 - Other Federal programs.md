@@ -40,9 +40,5 @@ The Rural Development Act of 1972, referred to in subsec. (a)(6), is Pub. L. 92�
 
 Section 1010 of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (a)(7), was classified to section 1510 of this title prior to repeal by Pub. L. 104–127, title III, §336(d)(1), Apr. 4, 1996, 110 Stat. 1006.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2106b, 2108, 2109 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

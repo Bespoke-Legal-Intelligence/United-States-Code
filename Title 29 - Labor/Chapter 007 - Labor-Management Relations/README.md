@@ -63,7 +63,7 @@
 | (b) | Agreements requiring union membership in violation of State law. |
 | (c) | Power of Board to decline jurisdiction of labor disputes; assertion of jurisdiction by State and Territorial courts. |
 | [165\.](Subchapter%20002%20%28II%29%20-%20National%20Labor%20Relations/%C2%A7%2000165%20-%20Conflict%20of%20laws.md) | Conflict of laws. |
-| [166\.](Subchapter%20002%20%28II%29%20-%20National%20Labor%20Relations/%C2%A7%2000166%20-%20Separability.md) | Separability of provisions. |
+| [166\.](Subchapter%20002%20%28II%29%20-%20National%20Labor%20Relations/%C2%A7%2000166%20-%20Separability.md) | Separability. |
 | [167\.](Subchapter%20002%20%28II%29%20-%20National%20Labor%20Relations/%C2%A7%2000167%20-%20Short%20title%20of%20subchapter.md) | Short title of subchapter. |
 | [168\.](Subchapter%20002%20%28II%29%20-%20National%20Labor%20Relations/%C2%A7%2000168%20-%20Validation%20of%20certificates%20and%20other%20Board%20actions.md) | Validation of certificates and other Board actions. |
 | [169\.](Subchapter%20002%20%28II%29%20-%20National%20Labor%20Relations/%C2%A7%2000169%20-%20Employees%20with%20religious%20convictions%3B%20payment%20of%20dues%20and%20fees.md) | Employees with religious convictions; payment of dues and fees. |
@@ -147,10 +147,6 @@
 | 191 to 197. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 401, 402, 1002, 1415, 1803 of this title; title 20 section 76k; title 46 App. section 1707.
 
 
 ---

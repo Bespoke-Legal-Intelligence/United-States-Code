@@ -68,7 +68,7 @@ The acquisition of the Baca ranch by the Secretary shall be subject to all outst
 
 #### (f) Boundaries of the Baca ranch
 
-For purposes of section 460<i>l</i>–9 of this title, the boundaries of the Baca ranch shall be treated asif they were National Forest boundaries existing as of January 1, 1965.
+For purposes of section 460<i>l</i>–9 of this title, the boundaries of the Baca ranch shall be treated as if they were National Forest boundaries existing as of January 1, 1965.
 
 #### (g) Pueblo of Santa Clara
 
@@ -93,10 +93,6 @@ For purposes of section 460<i>l</i>–9 of this title, the boundaries of the Bac
 #### References in Text
 
 Section 3 of Pub. L. 105–376, referred to in subsecs. (b) and (c)(2), appears in the item for Bandelier National Monument, New Mexico, in the table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under section 431 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698v, 698v–1, 698v–3, 698v–4, 698v–5, 698v–6, 698v–7, 698v–8, 698v–9, 698v–10 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 

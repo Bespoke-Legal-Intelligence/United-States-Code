@@ -26,7 +26,7 @@ Upon approval of any project proposal by the Secretary under the provisions of s
 
 Subsec. (c)(1). Pub. L. 99–546, §307(a), substituted “forty” for “fifty”.
 
-Subsec. (c)(2). Pub. L. 99–546, §307(b), amended cl. (2) generally. Prior to amendment, cl. (2) read as follows: “interest, as determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which the contract is executed, on the basis of the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations, which are neither due nor callable for redemption for fifteen years from date of issue, and by adjusting such average rate to the nearest one-eighth of 1 per centum, on that portion of the loan which is attributable to furnishing irrigation benefits in each particular year to land held in private ownership by a qualified recipient, as such termis defined in section 390bb of this title, in excess of nine hundred and sixty irrigable acres, or by a limited recipient, as such term is defined in section 390bb of this title, in excess of three hundred and twenty irrigable acres; and”.
+Subsec. (c)(2). Pub. L. 99–546, §307(b), amended cl. (2) generally. Prior to amendment, cl. (2) read as follows: “interest, as determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which the contract is executed, on the basis of the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations, which are neither due nor callable for redemption for fifteen years from date of issue, and by adjusting such average rate to the nearest one-eighth of 1 per centum, on that portion of the loan which is attributable to furnishing irrigation benefits in each particular year to land held in private ownership by a qualified recipient, as such term is defined in section 390bb of this title, in excess of nine hundred and sixty irrigable acres, or by a limited recipient, as such term is defined in section 390bb of this title, in excess of three hundred and twenty irrigable acres; and”.
 
 Subsec. (c)(3). Pub. L. 99–546, §307(c), struck out cl. (3) which read as follows: “in the case of any project involving an allocation to domestic, industrial, or municipal water supply, commercial power, fish and wildlife enhancement, or public recreation, interest on the unamortized balance of an appropriate portion of the loan at a rate as determined in (2) above; Except that portion of said allocation attributable to furnishing benefits to a facility operated by an agency of the United States, which portion shall bear no interest;”.
 
@@ -55,10 +55,6 @@ Amendment by Pub. L. 99–546 applicable to all proposals for which draft applic
 #### Retroactive Effect of 1966 Amendment
 
 Amendment by Pub. L. 89–553 not to be applicable to or affect in any way the terms on which any loan or grant was made prior to the effective date of Pub. L. 89–553, Sept. 2, 1966, see section 2 of Pub. L. 89–553, set out as a note under section 422b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390cc, 422d, 422f, 422g of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

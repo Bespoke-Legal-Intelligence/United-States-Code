@@ -14,7 +14,7 @@ The Commission, in evaluating United States Government policies in response to v
 
 #### (c) Policy review and recommendations in response to progress
 
-The Commission, in evaluating the United States Government policies with respect to countries found to be taking deliberate steps and making significant improvement in respect for the right of religious freedom, shall consider and recommend policy options, including private commendation, diplomatic commendation, official public commendation, commendation within multilateral fora, an increase in cultural or scientific exchanges, or both, termination or reduction of existing Presidential actions, an increase in certain assistance funds, and invitations for working, official, or state visits.
+The Commission, in evaluating the United States Government policies with respect to countries found to be taking deliberate steps and making significant improvement in respect for the right of religious freedom, shall consider and recommend policy options, including private commendation, diplomatic commendation,official public commendation, commendation within multilateral fora, an increase in cultural or scientific exchanges, or both, termination or reduction of existing Presidential actions, an increase in certain assistance funds, and invitations for working, official, or state visits.
 
 #### (d) Effects on religious communities and individuals
 
@@ -29,8 +29,4 @@ The Commission shall, on an ongoing basis, monitor facts and circumstances of vi
 #### Amendments
 
 1999—Subsec. (f). Pub. L. 106–55 struck out heading and text of subsec. (f). Text read as follows: “The Commission may, for the purpose of carrying out its duties under this subchapter, hold hearings, sit and act at times and places in the United States, take testimony, and receive evidence as the Commission considers advisable to carry out the purposes of this chapter.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6433, 6435a of this title.
 

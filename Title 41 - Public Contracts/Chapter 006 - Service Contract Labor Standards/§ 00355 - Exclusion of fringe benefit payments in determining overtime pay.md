@@ -1,6 +1,6 @@
 ### §355. Exclusion of fringe benefit payments in determining overtime pay
 
-In determining any overtime pay to which such service employees are entitled under anyFederal law, the regular or basic hourly rate of pay of such an employee shall not include any fringe benefit payments computed hereunder which are excluded from the regular rate under the Fair Labor Standards Act \[29 U.S.C. 201 et seq.\] by provisions of section 7(d) thereof \[29 U.S.C. 207(d)\].
+In determining any overtime pay to which such service employees are entitled under any Federal law, the regular or basic hourly rate of pay of such an employee shall not include any fringe benefit payments computed hereunder which are excluded from the regular rate under the Fair Labor Standards Act \[29 U.S.C. 201 et seq.\] by provisions of section 7(d) thereof \[29 U.S.C. 207(d)\].
 
 (Pub. L. 89–286, §6, Oct. 22, 1965, 79 Stat. 1035.)
 

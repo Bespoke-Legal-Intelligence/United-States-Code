@@ -40,7 +40,3 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 In this section, before clause (1), the words “prescribe regulations” are substituted for “establish reasonable rules and regulations” in 49 App.:1402 and “by such reasonable regulations” in 49 App.:1405 (1st sentence) because of 49:322(a). In clause (1), the words “and no aircraft engine, propeller, or appliance shall be used in violation of any such rule or regulation” are omitted as surplus because of section 46301 of the revised title. In clause (2), the words “in connection with” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 44103 of this title.
-

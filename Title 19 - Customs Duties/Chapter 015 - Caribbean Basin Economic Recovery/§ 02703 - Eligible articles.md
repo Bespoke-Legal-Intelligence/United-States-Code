@@ -38,7 +38,7 @@
 
 &emsp;(A) such rum is the growth, product, or manufacture of a beneficiary country or of the Virgin Islands of the United States;
 
-&emsp;(B) such rum is imported directly from a beneficiary country or the Virgin Islands of the United States into the territory of Canada, and such liqueurs and spirituous beverages are imported directly from the territory of Canada into the customs territory of the United States;
+&emsp;(B) such rum is imported directly from a beneficiary country or the Virgin Islands ofthe United States into the territory of Canada, and such liqueurs and spirituous beverages are imported directly from the territory of Canada into the customs territory of the United States;
 
 &emsp;(C) when imported into the customs territory of the United States, such liqueurs and spirituous beverages are classified in subheading 2208.90 or 2208.40 of the HTS; and
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(A) textile and apparel articles which were not eligible articles for purposes of this chapter on January 1, 1994, as this chapter was in effect on that date;
 
-&emsp;&emsp;(B) footwear not designated at the time of the effective date of this chapter \[Aug. 5, 1983\] as eligible articles for the purpose of the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\];
+&emsp;&emsp;(B) footwear provided for in any of subheadings 6401.10.00, 6401.91.00, 6401.92.90, 6401.99.30, 6401.99.60, 6401.99.90, 6402.30.50, 6402.30.70, 6402.30.80, 6402.91.50, 6402.91.80, 6402.91.90, 6402.99.20, 6402.99.80, 6402.99.90, 6403.59.60, 6403.91.30, 6403.99.60, 6403.99.90, 6404.11.90, and 6404.19.20 of the HTS that was not designated at the time of the effective date of this chapter \[Aug. 5, 1983\] as eligible articles for the purpose of the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\];
 
 &emsp;&emsp;(C) tuna, prepared or preserved in any manner, in airtight containers;
 
@@ -70,23 +70,21 @@
 
 #### (i) Apparel articles assembled in one or more CBTPA beneficiary countries
 
-&emsp;&emsp;&emsp;Apparel articles sewn or otherwise assembled in one or more CBTPA beneficiary countries from fabrics wholly formed and cut, or from components knit-to-shape, in the United States from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed and cut in the United States) that are—
+&emsp;&emsp;&emsp;Apparel articles sewn or otherwise assembled in one or more CBTPA beneficiary countries from fabrics wholly formed and cut, or from components knit-to-shape, in the United States from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed and cut in the United States) that are—
 
 &emsp;&emsp;&emsp;&emsp;(I) entered under subheading 9802.00.80 of the HTS; or
 
 &emsp;&emsp;&emsp;&emsp;(II) entered under chapter 61 or 62 of the HTS, if, after such assembly, the articles would have qualified for entry under subheading 9802.00.80 of the HTS but for the fact that the articles were embroidered or subjected to stone-washing, enzyme-washing, acid washing, perma-pressing, oven-baking, bleaching, garment-dyeing, screen printing, or other similar processes.
 
-&emsp;&emsp;&nbsp;Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.<sup>1</sup>
-
-&emsp;&emsp;&nbsp;Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.<sup>1</sup>
+&emsp;&emsp;&nbsp;Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.
 
 #### (ii) Other apparel articles assembled in one or more CBTPA beneficiary countries
 
-&emsp;&emsp;&emsp;Apparel articles sewn or otherwise assembled in one or more CBTPA beneficiary countries with thread formed in the United States from fabrics wholly formed in the United States and cut in one or more CBTPA beneficiary countries from yarns wholly formed in the United States, or from components knit-to-shape in the United States from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed in the United States). Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.<sup>1</sup> Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled,if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.<sup>1</sup>
+&emsp;&emsp;&emsp;Apparel articles sewn or otherwise assembled in one or more CBTPA beneficiary countries with thread formed in the United States from fabrics wholly formed in the United States and cut in one or more CBTPA beneficiary countries from yarns wholly formed in the United States, or from components knit-to-shape in the United States from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed in the United States). Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.
 
 #### (iii) Certain knit apparel articles
 
-&emsp;&emsp;&emsp;(I) Apparel articles knit to shape (other than socks provided for in heading 6115 of the HTS) in a CBTPA beneficiary country from yarns wholly formed in the United States, and knit apparel articles (other than t-shirts described in subclause (III)) cut and wholly assembled in one or more CBTPA beneficiary countries from fabric formed in one or more CBTPA beneficiary countries or the United States from yarns wholly formed in the United States (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in one or more CBTPA beneficiary countries), in an amount not exceeding the amount set forth in subclause (II).
+&emsp;&emsp;&emsp;(I) Apparel articles knit to shape (other than socks provided for in heading 6115 of the HTS) in a CBTPA beneficiary country from yarns wholly formed in the United States, and knit apparel articles (other than t-shirts described in subclause (III)) cut and wholly assembled in one or more CBTPA beneficiary countries from fabric formed in one or more CBTPA beneficiary countries or the United States from yarns wholly formed in the United States (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in one or more CBTPA beneficiary countries),in an amount not exceeding the amount set forth in subclause (II).
 
 &emsp;&emsp;&emsp;(II) The amount referred to in subclause (I) is as follows:
 
@@ -126,7 +124,7 @@
 
 #### (v) Apparel articles assembled from fabrics or yarn not widely available in commercial quantities
 
-&emsp;&emsp;&emsp;(I) Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more CBTPA beneficiary countries, from fabrics or yarn that is not formed in the United States or in one or more CBTPA beneficiary countries, to the extent that apparel articles of such fabrics or yarn would be eligible for preferential treatment, without regard to the source of the fabrics or yarn, under Annex 401 of the NAFTA.
+&emsp;&emsp;&emsp;(I) Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more CBTPA beneficiary countries, to the extent that apparel articles of such fabrics or yarn would be eligible for preferential treatment, without regard to the source of the fabrics or yarn, under Annex 401 of the NAFTA.
 
 &emsp;&emsp;&emsp;(II) At the request of any interested party, the President is authorized to proclaim additional fabrics and yarn as eligible for preferential treatment under subclause (I) if—
 
@@ -166,7 +164,7 @@
 
 #### (IV) Special origin rule
 
-&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under clause (i) or (ii) of this subparagraph shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30, 5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS duty-free from a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1995.
+&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under clause (i), (ii), or (ix) of this subparagraph shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30, 5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS duty-free from a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1995.
 
 #### (V) Thread
 
@@ -186,7 +184,7 @@
 
 #### (B) Preferential treatment
 
-&emsp;&emsp;Except as provided in subparagraph (E), during the transition period, the articles to which this subparagraph applies shall enter the United States free of duty and free of any quantitative restrictions, limitations, or consultation levels.
+&emsp;&emsp;Except as provided in subparagraph (E), during the transition period, the articles towhich this subparagraph applies shall enter the United States free of duty and free of any quantitative restrictions, limitations, or consultation levels.
 
 #### (C) Handloomed, handmade, and folklore articles
 
@@ -228,15 +226,23 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the tariff treatment accorded at any time during the transition period to any article referred to in any of subparagraphs (B) through (F) of paragraph (1) that is a CBTPA originating good shall be identical to the tariff treatment that is accorded at such time under Annex 302.2 of the NAFTA to an article described in the same 8-digit subheading of the HTS that is a good of Mexico and is imported into the United States.
+&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii), the tariff treatment accorded at any time during the transition period to any article referred to in any of subparagraphs (B) through (F) of paragraph (1) that is a CBTPA originating good shall be identical to the tariff treatment that is accorded at such time under Annex 302.2 of the NAFTA to an article described in the same 8-digit subheading of the HTS that is a good of Mexico and is imported into the United States.
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Clause (i) does not apply to any article accorded duty-free treatment under U.S.Note 2(b) to subchapter II of chapter 98 of the HTS.
+&emsp;&emsp;&emsp;Clause (i) does not apply to any article accorded duty-free treatment under U.S. Note 2(b) to subchapter II of chapter 98 of the HTS.
+
+#### (iii) Certain footwear
+
+&emsp;&emsp;&emsp;Notwithstanding paragraph (1)(B) and clause (i) of this subparagraph, footwear provided for in any of subheadings 6403.59.60, 6403.91.30, 6403.99.60, and 6403.99.90 of the HTS shall be eligible for the duty-free treatment provided for under this chapter if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the article of footwear is the growth, product, or manufacture of a CBTPA beneficiary country; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the article otherwise meets the requirements of subsection (a) of this section, except that in applying such subsection, “CBTPA beneficiary country” shall be substituted for “beneficiary country” each place it appears.
 
 #### (B) Relationship to subsection (h) duty reductions
 
-&emsp;&emsp;If at any time during the transition period the rate of duty that would (but for action taken under subparagraph (A)(i) in regard to such period) apply with respect to any article under subsection (h) of this section is a rate of duty that is lower than the rate of duty resulting from such action, then such lower rate of duty shall be applied for the purposes of implementing such action.
+&emsp;&emsp;If at any time during the transition period the rate of duty that would (but for action taken under subparagraph (A)(i) in regard to such period) apply with respect to any article under subsection (h) of this section is arate of duty that is lower than the rate of duty resulting from such action, then such lower rate of duty shall be applied for the purposes of implementing such action.
 
 #### (4) Customs procedures
 
@@ -350,7 +356,7 @@
 
 &emsp;&emsp;&emsp;(i) September 30, 2008; or
 
-&emsp;&emsp;&emsp;(ii) the date on which the FTAA or another free trade agreement that makes substantial progress in achieving the negotiating objectives set forth in 3317(b)(5) <sup>2</sup> of this title enters into force with respect to the United States and the CBTPA beneficiary country.
+&emsp;&emsp;&emsp;(ii) the date on which the FTAA or another free trade agreement that makes substantial progress in achieving the negotiating objectives set forth in 3317(b)(5) <sup>1</sup> of this title enters into force with respect to the United States and the CBTPA beneficiary country.
 
 #### (E) CBTPA
 
@@ -410,11 +416,11 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 (2) In any report by the International Trade Commission to the President under section 202(f) of the Trade Act of 1974 \[19 U.S.C. 2252(f)\] regarding any article for which duty-free treatment has been proclaimed by the President pursuant to this chapter, the Commission shall state whether and to what extent its findings and recommendations apply to such article when imported from beneficiary countries.
 
-(3) For purposes of subsections <sup>3</sup> section 203 of the Trade Act of 1974 \[19 U.S.C. 2253(a), (c)\], the suspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
+(3) For purposes of subsections <sup>2</sup> section 203 of the Trade Act of 1974 \[19 U.S.C. 2253(a), (c)\], the suspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
 
 (4) No proclamation which provides solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall be taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
 
-(5)(A) Any action taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when duty-free treatment pursuant to section 2701 <sup>4</sup> of this title is proclaimed shall remain in effect until modified or terminated.
+(5)(A) Any action taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when duty-free treatment pursuant to section 2701 <sup>3</sup> of this title is proclaimed shall remain in effect until modified or terminated.
 
 (B) If any article is subject to any such action at the time duty-free treatment is proclaimed pursuant to section 2701 of this title, the President may reduce or terminate the application of such action to the importation of such article from beneficiary countries prior to the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\].
 
@@ -428,7 +434,7 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 &emsp;(B) the Secretary of Agriculture shall publish a notice of his determination not to recommend the imposition of emergency action and so advise the petitioner.
 
-(3) Within seven days after the President receives a recommendation from the Secretary of Agriculture to take emergency action pursuant to paragraph (2) of this subsection, he shall issuea proclamation withdrawing the duty-free treatment provided by this chapter or publish a notice of his determination not to take emergency action.
+(3) Within seven days after the President receives a recommendation from the Secretary of Agriculture to take emergency action pursuant to paragraph (2) of this subsection, he shall issue a proclamation withdrawing the duty-free treatment provided by this chapter or publish a notice of his determination not to take emergency action.
 
 (4) The emergency action provided by paragraph (3) of this subsection shall cease to apply—
 
@@ -474,7 +480,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 &emsp;(B) is 1.5 percent ad valorem or greater, the aggregate of such proclaimed reduction and the reduction under this subsection may not exceed the proclaimed reduction plus 1 percent ad valorem.
 
-(Pub. L. 98–67, title II, §213, Aug. 5, 1983, 97 Stat. 387; Pub. L. 98–573, title II, §235, Oct. 30, 1984, 98 Stat. 2992; Pub. L. 99–514, title IV, §423(f)(2), title XVIII, §1890, Oct. 22, 1986, 100 Stat. 2232, 2926; Pub. L. 100–418, title I, §§1214(q)(2), 1401(b)(2), Aug. 23, 1988, 102 Stat. 1159, 1239; Pub. L. 100–647, title IX, §9001(a)(14), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title II, §§212, 215(a), Aug. 20, 1990, 104 Stat. 655, 657; Pub. L. 103–465, title IV, §404(e)(1), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 106–200, title II, §§211(a), (e)(1)(B), 212, May 18, 2000, 114 Stat. 276, 287, 288; Pub. L. 107–206, title III, §3001\[(a)\], Aug. 2, 2002, 116 Stat. 909; Pub. L. 107–210, div. C, title XXXI, §3107(a), Aug. 6, 2002, 116 Stat. 1035.)
+(Pub. L. 98–67, title II, §213, Aug. 5, 1983, 97 Stat. 387; Pub. L. 98–573, title II, §235, Oct. 30, 1984, 98 Stat. 2992; Pub. L. 99–514, title IV, §423(f)(2), title XVIII, §1890, Oct. 22, 1986, 100 Stat. 2232, 2926; Pub. L. 100–418, title I, §§1214(q)(2), 1401(b)(2), Aug. 23, 1988, 102 Stat. 1159, 1239; Pub. L. 100–647, title IX, §9001(a)(14), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title II, §§212, 215(a), Aug. 20, 1990, 104 Stat. 655, 657; Pub. L. 103–465, title IV, §404(e)(1), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 106–200, title II, §§211(a), (e)(1)(B), 212, May 18, 2000, 114 Stat. 276, 287, 288; Pub. L. 107–206, title III, §3001\[(a)\], Aug. 2, 2002, 116 Stat. 909; Pub. L. 107–210, div. C, title XXXI, §3107(a), Aug. 6, 2002, 116 Stat. 1035; Pub. L. 108–429, title I, §1558, title II, §2004(b), Dec. 3, 2004, 118 Stat. 2579, 2592.)
 
 #### References in Text
 
@@ -488,17 +494,37 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (c)(
 
 Section 2701 of this title, referred to in subsec. (e)(5)(A), was in the original “section 101 of this title” which has been translated as the probable intent of Congress as meaning section 211 of this title.
 
+#### Codification
+
+Amendment of subsec. (b)(2)(A)(i) of this section by Pub. L. 107–210, §3107(a)(1)(B), as amended by Pub. L. 108–429, §2004(b)(2), was executed after amendment by Pub. L. 107–206, §3001\[(a)\](1), as if the amendment by Pub. L. 108–429, §2004(b)(2), was included in the enactment of Pub. L. 107–210, §3107(a)(1)(B), and notwithstanding section 3001(c) of Pub. L. 107–206, set out as an Effective Date of 2002 Amendments note below, to reflect the probable intent of Congress.
+
+Amendment of subsec. (b)(2)(A)(ii) of this section by Pub. L. 107–210, §3107(a)(2), was executed after amendment by Pub. L. 107–206, §3001\[(a)\](2), notwithstanding section 3001(c) of Pub. L. 107–206, set out as an Effective Date of 2002 Amendments note below, to reflect the probable intent of Congress.
+
 #### Amendments
 
-2002—Subsec. (b)(2)(A)(i). Pub. L. 107–210, §3107(a)(1)(B), inserted at end “Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.”
+2004—Subsec. (b)(1)(B). Pub. L. 108–429, §1558(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “footwear not designated at the time of the effective date of this chapter as eligible articles for the purpose of the generalized system of preferences under title V of the Trade Act of 1974;”.
+
+Subsec. (b)(2)(A)(i). Pub. L. 108–429, §2004(b)(2), amended directory language of Pub. L. 107–210, §3107(a)(1)(B). See Codification note above and 2002 Amendment note below.
+
+Pub. L. 108–429, §2004(b)(1)(A), substituted “or both (including” for “(including” in introductory provisions.
+
+Subsec. (b)(2)(A)(v)(I). Pub. L. 108–429, §2004(b)(1)(B), struck out “, from fabrics or yarn that is not formed in the United States or in one or more CBTPA beneficiary countries” after “countries”.
+
+Subsec. (b)(2)(A)(vii)(IV). Pub. L. 108–429, §2004(b)(1)(C), substituted “(i), (ii), or (ix)” for “(i) or (ii)”.
+
+Subsec. (b)(3)(A)(i). Pub. L. 108–429, §1558(2)(A), substituted “Subject to clauses (ii) and (iii)” for “Subject to clause (ii)”.
+
+Subsec. (b)(3)(A)(iii). Pub. L. 108–429, §1558(2)(B), added cl. (iii).
+
+2002—Subsec. (b)(2)(A)(i). Pub. L. 107–210, §3107(a)(1)(B), as amended by Pub. L. 108–429, §2004(b)(2), substituted “Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” for “Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
 
 Pub. L. 107–210, §3107(a)(1)(A), added introductory provisions and struck out former introductory provisions which read as follows: “Apparel articles assembled in one or more CBTPA beneficiary countries from fabrics wholly formed and cut in the United States, from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed and cut in the United States) that are—”.
 
-Pub. L. 107–206, §3001\[(a)\](1), inserted at end “Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.”
+Pub. L. 107–206, §3001\[(a)\](1), inserted at end “Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
 
-Subsec. (b)(2)(A)(ii). Pub. L. 107–210, §3107(a)(2), amended heading and text of cl. (ii) generally. Prior to amendment, text read as follows: “Apparel articles cut in one or more CBTPA beneficiary countries from fabric wholly formed in the United States from yarns wholly formed in the United States (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed in the United States), if such articles are assembled in one or more such countries with thread formed in the United States.”
+Subsec. (b)(2)(A)(ii). Pub. L. 107–210, §3107(a)(2), amended heading and text of cl. (ii) generally. Prior to amendment, text read as follows: “Apparel articles cut in one or more CBTPA beneficiary countries from fabric wholly formed in the United States from yarns wholly formed in the United States (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed in the United States), if such articles are assembled in one or more such countries with thread formed in the United States. Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
 
-Pub. L. 107–206, §3001\[(a)\](2), inserted at end “Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.”
+Pub. L. 107–206, §3001\[(a)\](2), inserted at end “Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
 
 Subsec. (b)(2)(A)(iii)(II). Pub. L. 107–210, §3107(a)(3), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “The amount referred to in subclause (I) is—
 
@@ -602,6 +628,10 @@ Subsec. (f)(5)(B). Pub. L. 99–514, §1890(2), substituted “138.46” for “
 
 1984—Subsec. (a)(3). Pub. L. 98–573 added par. (3) relating to products of a beneficiary country imported directly from such country into Puerto Rico.
 
+#### Effective Date of 2004 Amendment
+
+Except as otherwise provided, amendment by section 1558 of Pub. L. 108–429 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Dec. 3, 2004, see section 1571 of Pub. L. 108–429, set out as a note under section 1313 of this title.
+
 #### Effective Date of 2002 Amendments
 
 Pub. L. 107–210, div. C, title XXXI, §3107(b), Aug. 6, 2002, 116 Stat. 1038, provided that: “The amendment made by subsection (a)(3) \[amending this section\] shall take effect on October 1, 2002.”
@@ -663,6 +693,30 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(4) of this
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Entries of Certain Apparel Articles Pursuant to the Caribbean Basin Economic Recovery Act
+
+Pub. L. 108–429, title II, §2004(g), Dec. 3, 2004, 118 Stat. 2593, provided that:
+
+“(1)
+
+In general.—Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, the Customs Service \[Bureau of Customs and Border Protection\] shall liquidate or reliquidate as free of duty and free of any quantitative restrictions, limitations, or consultation levels entries of articles described in paragraph (4) made on or after October 1, 2000.
+
+“(2)
+
+Requests.—Liquidation or reliquidation may be made under paragraph (1) with respect to an entry described in paragraph (4) only if a request therefor is filed with the Customs Service within 90 days after the date of the enactment of this Act \[Dec. 3, 2004\] and the request contains sufficient information to enable the Customs Service to locate the entry or reconstruct the entry if it cannot be located.
+
+“(3)
+
+Payment of amounts owed.—Any amounts owed by the United States pursuant to the liquidation or reliquidation of any entry under paragraph (1) shall be paid not later than 180 days after the date of such liquidation or reliquidation.
+
+“(4)
+
+Entries.—The entries referred to in paragraph (1) are entries of apparel articles (other than socks provided for in heading 6115 of the Harmonized Tariff Schedule of the United States \[see Publication of Harmonized Tariff Schedule note set out under section 1202 of this title\]) that meet the requirements of section 213(b)(2)(A) of the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2703(b)(2)(A)\] (as amended by section 3107(a) of the Trade Act of 2002 \[Pub. L. 107–210\] and subsection (b) of this section).”
+
+#### Reference to Customs Service Considered Reference to Bureau of Customs and Border Protection in Pub. L. 108–429
+
+Pub. L. 108–429, title V, §5001, Dec. 3, 2004, 118 Stat. 2604, provided that: “Except as otherwise expressly provided, any reference in this Act \[see Short Title of 2004 Amendment note set out under section 1654 of this title\] to the ‘United States Customs Service’ or the ‘Customs Service’ shall be considered to be a reference to the ‘Bureau of Customs and Border Protection’ of the Department of Homeland Security.”
 
 #### Ethyl Alcohol and Mixtures Thereof for Fuel Use
 
@@ -830,15 +884,9 @@ Sec. 11. <i>Judicial Review</i>. This order does not create any right or benefit
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 
-This section is referred to in section 2702 of this title; title 7 sections 7236, 7937; title 26 section 7652.
+<i><sup>2</sup></i><i> So in original.</i>
 
-<i><sup>1</sup></i><i> So in original. Duplicative language added by Pub. L. 107–206 and Pub. L. 107–210. See 2002 Amendment notes below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “section”.</i>
-
-<i><sup>3</sup></i><i> So in original.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

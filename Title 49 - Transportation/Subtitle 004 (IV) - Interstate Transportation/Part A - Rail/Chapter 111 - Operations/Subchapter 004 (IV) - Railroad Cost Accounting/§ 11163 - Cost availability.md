@@ -10,7 +10,3 @@ Provisions similar to those in this section were contained in section 11165 of t
 
 A prior section 11163, added Pub. L. 96–448, title III, §302(a), Oct. 14, 1980, 94 Stat. 1936; amended Pub. L. 103–272, §4(j)(31), July 5, 1994, 108 Stat. 1370, related to implementation of cost accounting principles, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See section 11161 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11904 of this title.
-

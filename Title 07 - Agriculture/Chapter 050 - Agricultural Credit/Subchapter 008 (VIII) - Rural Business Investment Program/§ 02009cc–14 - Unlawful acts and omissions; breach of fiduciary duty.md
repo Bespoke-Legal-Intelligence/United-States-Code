@@ -6,7 +6,7 @@ Whenever any rural business investment company violates this subchapter (includi
 
 #### (b) Fiduciary duties
 
-It shall be unlawful for any officer, director, employee, agent, or other participant in themanagement or conduct of the affairs of a rural business investment company to engage in any act or practice, or to omit any act or practice, in breach of the fiduciary duty of the officer, director, employee, agent, or participant if, as a result of the act or practice, the rural business investment company suffers or is in imminent danger of suffering financial loss or other damage.
+It shall be unlawful for any officer, director, employee, agent, or other participant in the management or conduct of the affairs of a rural business investment company to engage in any act or practice, or to omit any act or practice, in breach of the fiduciary duty of the officer, director, employee, agent, or participant if, as a result of the act or practice, the rural business investment company suffers or is in imminent danger of suffering financial loss or other damage.
 
 #### (c) Unlawful acts
 

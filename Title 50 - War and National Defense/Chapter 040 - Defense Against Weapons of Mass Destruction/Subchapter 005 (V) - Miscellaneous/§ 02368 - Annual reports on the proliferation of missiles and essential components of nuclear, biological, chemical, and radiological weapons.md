@@ -46,7 +46,7 @@ Each such report shall include the following with respect to preceding <sup>1</
 
 #### (d) Exclusions
 
-The countries excluded under subsection (a) of this section are Australia, Belgium, Canada, theCzech Republic, Denmark, France, Germany, Greece, Hungary, Iceland, Italy, Japan, Luxembourg, the Netherlands, New Zealand, Norway, Poland, Portugal, Spain, Turkey, the United Kingdom, and the United States.
+The countries excluded under subsection (a) of this section are Australia, Belgium, Canada, the Czech Republic, Denmark, France, Germany, Greece, Hungary, Iceland, Italy, Japan, Luxembourg, the Netherlands, New Zealand, Norway, Poland, Portugal, Spain, Turkey, the United Kingdom, and the United States.
 
 #### (e) Classification of report
 
@@ -87,6 +87,10 @@ The Iran-Iraq Arms Non-Proliferation Act of 1992, referred to in subsec. (c)(10)
 Section is comprised of section 1308 of Pub. L. 107–228. Subsec. (g) of section 1308 of Pub. L. 107–228 repealed section 5606 of Title 22, Foreign Relations and Intercourse, amended provisions set out as notes under section 1701 of this title and section 2656 of Title 22, and repealed provisions set out as a note under section 2751 of Title 22.
 
 Section was enacted as part of the Security Assistance Act of 2002, and also as part of the Foreign Relations Authorization Act, Fiscal Year 2003, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
+
+#### Delegation of Functions
+
+For delegation of congressional reporting functions of President under subsec. (a) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
 
 #### Definitions
 

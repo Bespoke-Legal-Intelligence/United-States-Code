@@ -10,7 +10,7 @@ Any judicial review of final regulations promulgated pursuant to this chapter an
 
 #### (b) Review of certain actions under sections 6925 and 6926 of this title
 
-Review of the Administrator's action (1) in issuing, denying, modifying, or revoking any permit under section 6925 of this title (or in modifying or revoking any permit which is deemed to have been issued under section 6935(d)(1) <sup>1</sup> of this title), or (2) in granting, denying, or withdrawing authorization or interim authorization under section 6926 of this title, may be had by any interested person in the Circuit Court of Appeals of the United States for the Federal judicial district in which such person resides or transacts such business upon application by such person. Any such application shall be made within ninety days from the date of such issuance, denial, modification, revocation, grant, orwithdrawal, or after such date only if such application is based solely on grounds which arose after such ninetieth day. Action of the Administrator with respect to which review could have been obtained under this subsection shall not be subject to judicial review in civil or criminal proceedings for enforcement. Such review shall be in accordance with sections 701 through 706 of title 5.
+Review of the Administrator's action (1) in issuing, denying, modifying, or revoking any permit under section 6925 of this title (or in modifying or revoking any permit which is deemed to have been issued under section 6935(d)(1) <sup>1</sup> of this title), or (2) in granting, denying, or withdrawing authorization or interim authorization under section 6926 of this title, may be had by any interested person in the Circuit Court of Appeals of the United States for the Federal judicial district in which such person resides or transacts such business upon application by such person. Any such application shall be made within ninety days from the date of such issuance, denial, modification, revocation, grant, or withdrawal, or after such date only if such application is based solely on grounds which arose after such ninetieth day. Action of the Administrator with respect to which review could have been obtained under this subsection shall not be subject to judicial review in civil or criminal proceedings for enforcement. Such review shall be in accordance with sections 701 through 706 of title 5.
 
 (Pub. L. 89–272, title II, §7006, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2827; amended Pub. L. 96–482, §27, Oct. 21, 1980, 94 Stat. 2349; Pub. L. 98–616, title II, §241(b)(1), title IV, §403(d)(5), Nov. 8, 1984, 98 Stat. 3259, 3273.)
 
@@ -26,11 +26,7 @@ Section 6935(d)(1) of this title, referred to in subsec. (b), was in the origina
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6972 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

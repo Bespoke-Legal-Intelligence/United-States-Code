@@ -98,7 +98,3 @@ In subsection (b)(1), the words “said lands in fee simple absolute, or such le
 
 In subsection (b)(2), the words “deemed to be” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3115, 3116, 3118 of this title; title 10 section 7422; title 16 sections 79c, 831c; title 25 sections 500a, 941j, 1724, 1754; title 33 section 598; title 39 section 410; title 42 sections 1502, 1592d, 1594a, 2222, 4651; title 43 section 1522.
-

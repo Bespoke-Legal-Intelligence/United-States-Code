@@ -70,7 +70,7 @@ For purposes of this section, the term “cooperative” means a cooperative for
 
 Not later than 30 days after October 28, 1992, the Secretary shall issue interim final regulations, with a request for public comments, implementing this section.
 
-(Pub. L. 87–128, title III, §306C, as added Pub. L. 101–624, title XXIII, §2327, Nov. 28, 1990, 104 Stat. 4015; amended Pub. L. 102–237, title VII, §701(b), Dec. 13, 1991, 105 Stat. 1879; Pub. L. 102–552, title V, §516(<i>l</i>), (m), Oct. 28, 1992, 106 Stat. 4139; Pub. L. 102–554, §24, Oct. 28, 1992, 106 Stat. 4161; Pub. L. 107–171, title VI, §6010, May 13, 2002, 116 Stat. 357.)
+(Pub. L. 87–128, title III, §306C, as added Pub. L. 101–624, title XXIII, §2327, Nov. 28, 1990, 104 Stat.4015; amended Pub. L. 102–237, title VII, §701(b), Dec. 13, 1991, 105 Stat. 1879; Pub. L. 102–552, title V, §516(<i>l</i>), (m), Oct. 28, 1992, 106 Stat. 4139; Pub. L. 102–554, §24, Oct. 28, 1992, 106 Stat. 4161; Pub. L. 107–171, title VI, §6010, May 13, 2002, 116 Stat. 357.)
 
 #### Amendments
 
@@ -97,8 +97,4 @@ Subsec. (f). Pub. L. 102–552, §516(m), added subsec. (f).
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(6) of Pub. L. 102–237, set out as a note under section 1421 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 917, 6942 of this title; title 8 section 1611.
 

@@ -8,7 +8,3 @@ The share of the Assiniboine Tribe of the Fort Peck Reservation, after deducting
 
 Act June 19, 1970, referred to in text, is act June 19, 1970, Pub. L. 91–283, 84 Stat. 313, which is classified generally to subchapter LXII (§1201 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300e–2 of this title.
-

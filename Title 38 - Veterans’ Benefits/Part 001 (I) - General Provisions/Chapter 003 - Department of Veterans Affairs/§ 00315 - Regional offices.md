@@ -32,7 +32,3 @@ Section 1(b) of Pub. L. 102–291 provided that: “The amendment made by subsec
 
 Section 1(c) of Pub. L. 102–291 provided that: “Any action of the Secretary of Veterans Affairs in maintaining a Department of Veterans Affairs Regional Office in the Republic of the Philippines under section 315(b) of title 38, United States Code, during the period beginning on October 1, 1991, and ending on the date of the enactment of this Act \[May 20, 1992\] is hereby ratified with respect to that period.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 115 of this title.
-

@@ -1,0 +1,8 @@
+### §404f. Repealed. Pub. L. 108–458, title I, §1075, Dec. 17, 2004, 118 Stat. 3694
+
+Section, act July 26, 1947, ch. 343, title I, §111, formerly §121, as added Pub. L. 104–201, div. A, title XI, §1114(c), Sept. 23, 1996, 110 Stat. 2685; renumbered §111, Pub. L. 105–107, title III, §303(b), Nov. 20, 1997, 111 Stat. 2252, related to collection tasking authority of Director of Central Intelligence.
+
+#### Effective Date of Repeal
+
+Repeal effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+

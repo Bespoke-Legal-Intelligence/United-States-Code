@@ -38,9 +38,5 @@ Section 503(b) of Pub. L. 96–53 provided that: “The amendment made by subsec
 
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under section 2151 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3503 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “any”.</i>
 

@@ -46,9 +46,5 @@ Clause (1) is added for clarity.
 
 The Davis-Bacon Act, referred to in par. (1), is act of Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which was classified generally to sections 276a to 276a–5 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3141–3144, 3146, and 3147 of this title by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3142, 14701 of this title; title 10 section 2304; title 12 sections 1701q, 1715c; title 15 section 3152; title 16 section 284c; title 20 sections 954, 956, 1232b, 4305, 4332; title 23 section 113; title 25 sections 450e, 458aaa–8, 1633, 4114, 4225; title 31 section 6703; title 33 section 1372; title 38 sections 8135, 8162; title 39 section 410; title 41 section 42; title 42 sections 291e, 300j–9, 300s–1, 300t–12, 1437j, 1440, 1486, 1592i, 2297g–3, 2992a, 3107, 3212, 3936, 4728, 5046, 5196, 5310, 5919, 6371j, 6708, 6728, 6881, 6979, 7614, 8013, 9604, 9839, 12836; title 49 sections 5333, 24312, 47112.
-
 <i><sup>1</sup></i><i> So in original. The period probably should be preceded by an additional closing parenthesis.</i>
 

@@ -280,7 +280,7 @@ If the carrier accepts goods without an air waybill having been made out, or if 
 
 #### <i>Article 12</i>
 
-(1) Subject to his liability to carry out all his obligations under the contract of transportation, the consignor shall have the right to dispose of the goods by withdrawing them at the airport of departure or destination, or by stopping them in the course of the journey on any landing, or by calling for them to be delivered at the place of destination, or in the course of thejourney to a person other than the consignee named in the air waybill, or by requiring them to be returned to the airport of departure. He must not exercise this right of disposition in such a way as to prejudice the carrier or other consignors, and he must repay any expenses occasioned by the exercise of this right.
+(1) Subject to his liability to carry out all his obligations under the contract of transportation, the consignor shall have the right to dispose of the goods by withdrawing them at the airport of departure or destination, or by stopping them in the course of the journey on any landing, or by calling for them to be delivered at the place of destination, or in the course of the journey to a person other than the consignee named in the air waybill, or by requiring them to be returned to the airport of departure. He must not exercise this right of disposition in such a way as to prejudice the carrier or other consignors, and he must repay any expenses occasioned by the exercise of this right.
 
 (2) If it is impossible to carry out the orders of the consignor the carrier must so inform him forthwith.
 
@@ -352,7 +352,7 @@ If the carrier proves that the damage was caused by or contributed to by the neg
 
 #### <i>Article 23</i>
 
-Any provision tending to relieve the carrier of liability or to fix a lower limit than that which is laid downin this convention shall be null and void, but the nullity of any such provision shall not involve the nullity of the whole contract, which shall remain subject to the provisions of this convention.
+Any provision tending to relieve the carrier of liability or to fix a lower limit than that which is laid down in this convention shall be null and void, but the nullity of any such provision shall not involve the nullity of the whole contract, which shall remain subject to the provisions of this convention.
 
 #### <i>Article 24</i>
 
@@ -378,7 +378,7 @@ Any provision tending to relieve the carrier of liability or to fix a lower limi
 
 #### <i>Article 27</i>
 
-In the case of the death of the person liable, an action for damages lies in accordance with the terms of this convention against those legally representing his estate.
+In the case of the death of the person liable, an action for damages lies in accordance with the terms of thisconvention against those legally representing his estate.
 
 #### <i>Article 28</i>
 
@@ -487,10 +487,6 @@ Upon consideration of the agreement, and of matters relating thereto of which th
 Accordingly, pursuant to the provisions of the Federal Aviation Act of 1958, and particularly sections 102, 204(a), and 412 thereof:
 
 <i>It is ordered</i>, That: 1. Agreement CAB 18900 is approved.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40106, 41705, 44907, 46101, 46301, 46316 of this title.
 
 <i><sup>1</sup></i><i> The Convention was amended by the Protocol signed at Hague in 1955 which has never been ratified by the United States. The Convention (subject to certain provisions) limits carriers’ liability for death or injury to passengers in international transportation to 125,000 gold francs, or approximately $8,300. The Protocol, subject to certain provisions, provides for liability limitations of approximately $16,600.</i>
 

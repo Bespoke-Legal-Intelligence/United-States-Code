@@ -2,10 +2,6 @@ subpart v—section 1437f
 
 moderate rehabilitation assistance for single-room occupancy dwellings
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 11403a, 11403c, 11403h of this title.
-
 
 ---
 

@@ -14,7 +14,3 @@ For classes or categories of heavy-duty vehicles or engines manufactured for the
 
 (July 14, 1955, ch. 360, title II, §245, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2519.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7584, 7587, 7589 of this title.
-

@@ -14,7 +14,3 @@ In carrying out the rural housing voucher program under this section, the Secret
 
 (July 15, 1949, ch. 338, title V, §542, as added Pub. L. 102–550, title VII, §706(2), Oct. 28, 1992, 106 Stat. 3835.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1436a, 1483, 1490m of this title.
-

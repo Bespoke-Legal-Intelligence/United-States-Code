@@ -8,7 +8,3 @@ The deposit of money in a proper United States depository, under the provisions 
 
 R.S. §2402 derived from Res. July 1, 1864, No. 60, 13 Stat. 414.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 763 of this title.
-

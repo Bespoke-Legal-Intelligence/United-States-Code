@@ -150,7 +150,7 @@
 
 &emsp;&emsp;(E) review, on a continuing basis (and promptly whenever a recommendation pertaining to fishing for highly migratory species has been made under a relevant international fishery agreement), and revise as appropriate, the conservation and management measures included in the plan;
 
-&emsp;&emsp;(F) diligently pursue, through international entities (such as the International Commission for the Conservation of Atlantic Tunas), comparable international fishery management measures with respect to fishing for highly migratory species; and
+&emsp;&emsp;(F) diligently pursue, through international entities (such as the International Commission for the Conservation of Atlantic Tunas), comparable international fisherymanagement measures with respect to fishing for highly migratory species; and
 
 &emsp;&emsp;(G) ensure that conservation and management measures under this subsection—
 
@@ -158,7 +158,7 @@
 
 &emsp;&emsp;&emsp;(ii) take into consideration traditional fishing patterns of fishing vessels of the United States and the operating requirements of the fisheries;
 
-&emsp;&emsp;&emsp;(iii) are fair and equitable in allocating fishing privileges among United Statesfishermen and do not have economic allocation as the sole purpose; and
+&emsp;&emsp;&emsp;(iii) are fair and equitable in allocating fishing privileges among United States fishermen and do not have economic allocation as the sole purpose; and
 
 &emsp;&emsp;&emsp;(iv) promote, to the extent practicable, implementation of scientific research programs that include the tagging and release of Atlantic highly migratory species.
 
@@ -220,7 +220,7 @@ Subsec. (c)(2)(B). Pub. L. 101–627, §120(d), substituted “appropriate Counc
 
 Pub. L. 101–627, §111(a)(2)(C), substituted “section 1855(a)” for “section 1855(c)”.
 
-Subsec. (e). Pub. L. 101–627, §110(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall initiate and maintain, in cooperation with the Councils, a comprehensive program of fishery research to carry out and further the purposes, policy, and provisions of this chapter. Such program shall be designed to acquire knowledge and information, including statistics, on fishery conservation and management and on the economics of the fisheries, including, but not limited to, biological research concerning the interdependence of fisheries or stocks of fish, the impact of pollution on fish, the impact of wetland and estuarine degradation, and other matters bearing upon the abundance and availability of fish. The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
+Subsec. (e). Pub. L. 101–627, §110(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall initiate and maintain, in cooperation with the Councils, a comprehensive program of fishery research to carry out and further the purposes, policy, and provisions of this chapter. Such program shall be designed to acquire knowledge and information, including statistics, on fishery conservation and management and on the economics of the fisheries, including, but not limited to, biological research concerning the interdependence of fisheries or stocks of fish, the impact of pollution on fish, the impact of wetland and estuarine degradation, and other matters bearing upon the abundance and availability of fish.The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
 
 Subsec. (f). Pub. L. 101–627, §110(b)(1), in heading substituted “Fisheries under authority of more than one Council” for “Miscellaneous duties”, in par. (1) substituted “Except as provided in paragraph (3), if” for “If”, and added par. (3).
 
@@ -280,7 +280,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 #### Delay of Collection of Fees in Quahog and Wreckfish Fisheries
 
-Section 109(d) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding any other provision of law, the Secretary shall not begin the collection of fees under section 304(d)(2) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1854(d)(2)\], as amended by this Act, in the surf clam and ocean (including mahogany) quahog fishery or in the wreckfish fishery until after January 1, 2000.”
+Section 109(d) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding any other provision of law, the Secretary shall not begin the collection of fees under section 304(d)(2) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1854(d)(2)\], as amendedby this Act, in the surf clam and ocean (including mahogany) quahog fishery or in the wreckfish fishery until after January 1, 2000.”
 
 #### Comprehensive Management System for Atlantic Pelagic Longline Fishery
 
@@ -288,7 +288,7 @@ Section 109(h) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, ti
 
 “(1) The Secretary of Commerce shall—
 
-&emsp;“(A) establish an advisory panel under section 302(g)(4) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1852(g)(4)\], asamended by this Act, for pelagic longline fishing vessels that participate in fisheries for Atlantic highly migratory species;
+&emsp;“(A) establish an advisory panel under section 302(g)(4) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1852(g)(4)\], as amended by this Act, for pelagic longline fishing vessels that participate in fisheries for Atlantic highly migratory species;
 
 &emsp;“(B) conduct surveys and workshops with affected fishery participants to provide information and identify options for future management programs;
 
@@ -313,10 +313,6 @@ Section 108(k) of Pub. L. 101–627, as amended by Pub. L. 104–208, div. A, ti
 &emsp;“(3) was in force and effect on January 1, 1990,
 
 > shall remain in force and effect until superseded by a fishery management plan prepared by the Secretary, and regulations implementing that plan.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1821, 1852, 1853, 1855, 1861a, 1862 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

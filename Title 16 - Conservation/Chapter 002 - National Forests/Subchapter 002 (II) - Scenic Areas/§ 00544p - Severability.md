@@ -4,9 +4,5 @@
 
 (Pub. L. 99–663, §18, Nov. 17, 1986, 100 Stat. 4302.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 544 to 544i, 544<i>l</i> to 544<i>o</i> of this title.
-
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

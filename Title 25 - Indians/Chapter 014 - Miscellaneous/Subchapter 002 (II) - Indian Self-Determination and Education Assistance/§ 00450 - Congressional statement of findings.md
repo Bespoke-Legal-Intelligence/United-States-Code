@@ -64,6 +64,10 @@ Pub. L. 100–472, title II, §210, Oct. 5, 1988, 102 Stat. 2298, provided that:
 
 Pub. L. 100–472, title II, §211, Oct. 5, 1988, 102 Stat. 2298, provided that: “If any provision of this Act \[see Short Title of 1988 Amendment note above\] or the application thereof to any Indian tribe, entity, person or circumstance is held invalid, neither the remainder of this Act, nor the application of any provisions herein to other Indian tribes, entities, persons, or circumstances, shall be affected thereby.”
 
+#### Consultation With Alaska Native Corporations
+
+Pub. L. 108–199, div. H, §161, Jan. 23, 2004, 118 Stat. 452, as amended by Pub. L. 108–447, div. H, title V, §518, Dec. 8, 2004, 118 Stat. 3267, provided that: “The Director of the Office of Management and Budget and all Federal agencies shall hereafter consult with Alaska Native corporations on the same basis as Indian tribes under Executive Order No. 13175 \[set out below\].”
+
 #### Executive Order No. 13084
 
 Ex. Ord. No. 13084, May 14, 1998, 63 F.R. 27655, which provided for agencies to establish regular and meaningful consultation and collaboration with Indian tribal governments in the development of regulatory practices on Federal matters that significantly or uniquely affect their communities, to reduce the imposition of unfunded mandates upon Indian tribal governments, and to streamline the application process for and increase the availability of waivers to Indian tribal governments, was revoked, effective 60 days after Nov. 6, 2000, by Ex. Ord. No. 13175, §9(c), Nov. 6, 2000, 65 F.R. 67251, set out below.

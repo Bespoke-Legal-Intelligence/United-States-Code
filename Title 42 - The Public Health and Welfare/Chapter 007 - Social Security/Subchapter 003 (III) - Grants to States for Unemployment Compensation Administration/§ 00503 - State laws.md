@@ -12,7 +12,7 @@ The Secretary of Labor shall make no certification for payment to any State unle
 
 &emsp;(4) The payment of all money received in the unemployment fund of such State (except for refunds of sums erroneously paid into such fund and except for refunds paid in accordance with the provisions of section 3305(b) of the Federal Unemployment Tax Act \[26 U.S.C. 3305(b)\]), immediately upon such receipt, to the Secretary of the Treasury to the credit of the unemployment trust fund <sup>1</sup> established by section 1104 of this title; and
 
-&emsp;(5) Expenditure of all money withdrawn from an unemployment fund of such State, in the payment of unemployment compensation, exclusive of expenses of administration, and for refunds of sums erroneously paid into such fund and refunds paid in accordance with the provisions of section 3305(b) of the Federal Unemployment Tax Act \[26 U.S.C. 3305(b)\]: <i>Provided</i>, That an amount equal to the amount of employee payments into the unemployment fund of a State may be used in the payment of cash benefits to individuals with respect to their disability, exclusive of expenses of administration: <i>Provided further</i>, That the amounts specified by section 1103(c)(2) or 1103(d)(4) of this title may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices: <i>Provided further</i>, That nothing in this paragraph shall be construed to prohibit deducting an amount from unemployment compensation otherwise payable to an individual and using the amount so deducted to pay for health insurance, or the withholding of Federal, State, or local individual income tax, if the individual elected to have such deduction made and such deduction was made under a program approved by the Secretary of Labor: <i>Provided further</i>, Thatamounts may be deducted from unemployment benefits and used to repay overpayments as provided in subsection (g) of this section: <i>Provided further</i>, That amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor: <i>Provided further</i>, That amounts may be withdrawn for the payment of allowances under a self-employment assistance program (as defined in section 3306(t) of the Internal Revenue Code of 1986 \[26 U.S.C. 3306(t)\]); and
+&emsp;(5) Expenditure of all money withdrawn from an unemployment fund of such State, in the payment of unemployment compensation, exclusive of expenses of administration, and for refunds of sums erroneously paid into such fund and refunds paid in accordance with the provisions of section 3305(b) of the Federal Unemployment Tax Act \[26 U.S.C. 3305(b)\]: <i>Provided</i>, That an amount equal to the amount of employee payments into the unemployment fund of a State may be used in the payment of cash benefits to individuals with respect to their disability, exclusive of expenses of administration: <i>Provided further</i>, That the amounts specified by section 1103(c)(2) or 1103(d)(4) of this title may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices: <i>Provided further</i>, That nothing in this paragraph shall be construed to prohibit deducting an amount from unemployment compensation otherwise payable to an individual and using the amount so deducted to pay for health insurance, or the withholding of Federal, State, or local individual income tax, if the individual elected to have such deduction made and such deduction was made under a program approved by the Secretary of Labor: <i>Provided further</i>, That amounts may be deducted from unemployment benefits and used to repay overpayments as provided in subsection (g) of this section: <i>Provided further</i>, That amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor: <i>Provided further</i>, That amounts may be withdrawn for the payment of allowances under a self-employment assistance program (as defined in section 3306(t) of the Internal Revenue Code of 1986 \[26 U.S.C. 3306(t)\]); and
 
 &emsp;(6) The making of such reports, in such form and containing such information, as the Secretary of Labor may from time to time require, and compliance with such provisions as the Secretary of Labor may from time to time find necessary to assure the correctness and verification of such reports; and
 
@@ -114,7 +114,7 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 &emsp;&emsp;(III) any amount otherwise required to be so deducted and withheld from such unemployment compensation through legal process (as defined in section 662(e) <sup>2</sup> of this title), and
 
-&emsp;(iv) shall pay any amount deducted and withheld under clause (iii) to the appropriateState or local child support enforcement agency.
+&emsp;(iv) shall pay any amount deducted and withheld under clause (iii) to the appropriate State or local child support enforcement agency.
 
 > Any amount deducted and withheld under clause (iii) shall for all purposes be treated as if it were paid to the individual as unemployment compensation and paid by such individual to the State or local child support enforcement agency in satisfaction of his child support obligations.
 
@@ -134,7 +134,7 @@ The State agency charged with the administration of the State law shall provide 
 
 #### (g) Recovery of unemployment benefit payments
 
-(1) A State may deduct from unemployment benefits otherwise payable to an individual an amount equal to any overpayment made to such individual under an unemployment benefit program of the United States or of any other State, and not previously recovered. The amount so deducted shall be paid to the jurisdiction under whose program such overpayment was made. Any such deduction shall be made only in accordance with the same procedures relating to notice and opportunity for a hearing as apply to the recovery of overpayments of regular unemployment compensation paid by such State.
+(1) A State may deduct from unemployment benefits otherwise payable to an individual an amount equal to any overpayment made to such individual under an unemployment benefit program of the United States or of any other State, and not previously recovered. The amount so deducted shall be paid to the jurisdiction under whose program such overpayment was made. Any such deduction shall be made only in accordance with the same procedures relating to notice and opportunity for a hearing as apply tothe recovery of overpayments of regular unemployment compensation paid by such State.
 
 (2) Any State may enter into an agreement with the Secretary of Labor under which—
 
@@ -158,7 +158,7 @@ The State agency charged with the administration of the State law shall provide 
 
 (3) For purposes of this subsection—
 
-&emsp;(A) the term “wage information” means information regarding wages paid to an individual, the social security account number of such individual, and the name, address, State,and the Federal employer identification number of the employer paying such wages to such individual; and
+&emsp;(A) the term “wage information” means information regarding wages paid to an individual, the social security account number of such individual, and the name, address, State, and the Federal employer identification number of the employer paying such wages to such individual; and
 
 &emsp;(B) the term “claim information” means information regarding whether an individual is receiving, has received, or has made application for, unemployment compensation, the amount of any such compensation being received (or to be received by such individual), and the individual's current (or most recent) home address.
 
@@ -194,19 +194,59 @@ The State agency charged with the administration of the State law shall provide 
 
 (2) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirements of paragraph (1), the Secretary of Labor shall notify such State agency that further payments will not be made to the State until he is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, he shall make no further certification to the Secretary of the Treasury with respect to such State.
 
-(Aug. 14, 1935, ch. 531, title III, §303, 49 Stat. 626; June 25, 1938, ch. 680, §13(g), 52 Stat. 1112; June 20, 1939, ch. 227, §18, 53 Stat. 848; Aug. 10, 1939, ch. 666, title III, §302, 53 Stat. 1378; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §416(c), 60 Stat. 991; 1949 Reorg. Plan No. 2, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §405(b), 64 Stat. 560; Aug. 5, 1954, ch. 657, §5(a)(1), 68 Stat. 673; Pub. L. 96–249, title I, §127(b)(1), May 26, 1980, 94 Stat. 366; Pub. L. 96–265, title IV, §408(b)(1), June 9, 1980, 94 Stat. 468; Pub. L. 96–473, §6(e)(1), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 97–35, title XXIII, §2335(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(3), 175(a)(2), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–21, title V, §§515(a), 523(b), Apr. 20, 1983, 97 Stat. 147, 148; Pub. L. 98–369, div. B, title VI, §§2651(d), 2663(b)(2)–(5), July 18, 1984, 98 Stat. 1149, 1165; Pub. L. 99–198, title XV, §1535(b)(3), Dec. 23, 1985, 99 Stat. 1584; Pub. L. 99–272, title XII, §12401(a), Apr. 7, 1986, 100 Stat. 297; Pub. L. 100–485, title I, §124(b)(1), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 100–628, title IX, §904(c)(1)(A), Nov. 7, 1988, 102 Stat. 3260; Pub. L. 102–318, title IV, §401(a)(3), July 3, 1992, 106 Stat. 298; Pub. L. 103–152, §4(a)(1), (b), Nov. 24, 1993, 107 Stat. 1517; Pub. L. 103–182, title V, §507(b)(3), Dec. 8, 1993, 107 Stat. 2154; Pub. L. 103–465, title VII, §702(c)(3), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–193, title III, §§313(d), 316(g)(3), Aug. 22, 1996, 110 Stat. 2212, 2219; Pub. L. 105–33, title V, §5201, Aug. 5, 1997, 111 Stat. 597; Pub. L. 105–65, title V, §542(a)(1), Oct. 27, 1997, 111 Stat. 1412; Pub. L. 107–147, title II, §209(d)(2), Mar. 9, 2002, 116 Stat. 33.)
+#### (k) Transfer of unemployment experience upon transfer of business
+
+(1) For purposes of subsection (a) of this section, the unemployment compensation law of a State must provide—
+
+&emsp;(A) that if an employer transfers its business to another employer, and both employers are (at the time of transfer) under substantially common ownership, management, or control, then the unemployment experience attributable to the transferred business shall also be transferred to (and combined with the unemployment experience attributable to) the employer to whom such business is so transferred,
+
+&emsp;(B) that unemployment experience shall not, by virtue of the transfer of a business, be transferred to the person acquiring such business if—
+
+&emsp;&emsp;(i) such person is not otherwise an employer at the time of such acquisition, and
+
+&emsp;&emsp;(ii) the State agency finds that such person acquired the business solely or primarily for the purpose of obtaining a lower rate of contributions,
+
+&emsp;(C) that unemployment experience shall (or shall not) be transferred in accordance with such regulations as the Secretary of Labor may prescribe to ensure that higher rates of contributions are not avoided through the transfer or acquisition of a business,
+
+&emsp;(D) that meaningful civil and criminal penalties are imposed with respect to—
+
+&emsp;&emsp;(i) persons that knowingly violate or attempt to violate those provisions of the State law which implement subparagraph (A) or (B) or regulations under subparagraph (C), and
+
+&emsp;&emsp;(ii) persons that knowingly advise another person to violate those provisions of the State law which implement subparagraph (A) or (B) or regulations under subparagraph (C), and
+
+&emsp;(E) for the establishment of procedures to identify the transfer or acquisition of a business for purposes of this subsection.
+
+(2) For purposes of this subsection—
+
+&emsp;(A) the term “unemployment experience”, with respect to any person, refers to such person's experience with respect to unemployment or other factors bearing a direct relation to such person's unemployment risk;
+
+&emsp;(B) the term “employer” means an employer as defined under the State law;
+
+&emsp;(C) the term “business” means a trade or business (or a part thereof);
+
+&emsp;(D) the term “contributions” has the meaning given such term by section 3306(g) of the Internal Revenue Code of 1986;
+
+&emsp;(E) the term “knowingly” means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibition involved; and
+
+&emsp;(F) the term “person” has the meaning given such term by section 7701(a)(1) of the Internal Revenue Code of 1986.
+
+(Aug. 14, 1935, ch. 531, title III, §303, 49 Stat. 626; June 25, 1938, ch. 680, §13(g), 52 Stat. 1112; June 20, 1939, ch. 227, §18, 53 Stat. 848; Aug. 10, 1939, ch. 666, title III, §302, 53 Stat. 1378; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §416(c), 60 Stat. 991; 1949 Reorg. Plan No. 2, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §405(b), 64 Stat. 560; Aug. 5, 1954, ch. 657, §5(a)(1), 68 Stat. 673; Pub. L. 96–249, title I, §127(b)(1), May 26, 1980, 94 Stat. 366; Pub. L. 96–265, title IV, §408(b)(1), June 9, 1980, 94 Stat. 468; Pub. L. 96–473, §6(e)(1), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 97–35, title XXIII, §2335(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(3), 175(a)(2), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–21, title V, §§515(a), 523(b), Apr. 20, 1983, 97 Stat. 147, 148; Pub. L. 98–369, div. B, title VI, §§2651(d), 2663(b)(2)–(5), July 18, 1984, 98 Stat. 1149, 1165; Pub. L. 99–198, title XV, §1535(b)(3), Dec. 23, 1985, 99 Stat. 1584; Pub. L. 99–272, title XII, §12401(a), Apr. 7, 1986, 100 Stat. 297; Pub. L. 100–485, title I, §124(b)(1), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 100–628, title IX, §904(c)(1)(A), Nov. 7, 1988, 102 Stat. 3260; Pub. L. 102–318, title IV, §401(a)(3), July 3, 1992, 106 Stat. 298; Pub. L. 103–152, §4(a)(1), (b), Nov. 24, 1993, 107 Stat. 1517; Pub. L. 103–182, title V, §507(b)(3), Dec. 8, 1993, 107 Stat. 2154; Pub. L. 103–465, title VII, §702(c)(3), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–193, title III, §§313(d), 316(g)(3), Aug. 22, 1996, 110 Stat. 2212, 2219; Pub. L. 105–33, title V, §5201, Aug. 5, 1997, 111 Stat. 597; Pub. L. 105–65, title V, §542(a)(1), Oct. 27, 1997, 111 Stat. 1412; Pub. L. 107–147, title II, §209(d)(2), Mar. 9, 2002, 116 Stat. 33; Pub. L. 108–295, §2(a), Aug. 9, 2004, 118 Stat. 1090.)
 
 #### References in Text
 
 The Federal Unemployment Tax Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§3301–3311, 68A Stat. 439, as amended, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (d)(1)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, asamended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (d)(1)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51\(§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 Part D of subchapter IV of this chapter, referred to in subsec. (e)(1), is classified to section 651 et seq. of this title.
 
 Section 662 of this title, referred to in subsec. (e)(2)(A)(iii)(III), was repealed by Pub. L. 104–193, title III, §362(b)(1), Aug. 22, 1996, 110 Stat. 2246.
 
+The Internal Revenue Code of 1986, referred to in subsec. (k)(2)(D), (F), is classified generally to Title 26, Internal Revenue Code.
+
 #### Amendments
+
+2004—Subsec. (k). Pub. L. 108–295 added subsec. (k).
 
 2002—Subsec. (a)(5). Pub. L. 107–147 substituted “section 1103(c)(2) or 1103(d)(4) of this title” for “section 1103(c)(2) of this title”.
 
@@ -282,9 +322,27 @@ Subsec. (c)(2). Act June 20, 1939, substituted “unemployment” for “employm
 
 1938—Subsec. (c). Act June 25, 1938, added subsec. (c).
 
+#### Effective Date of 2004 Amendment; Definitions
+
+Pub. L. 108–295, §2(c), (d), Aug. 9, 2004, 118 Stat. 1091, provided that:
+
+“(c)
+
+Effective Date.—The amendment made by subsection (a) \[amending this section\] shall, with respect to a State, apply to certifications for payments (under section 302(a) of the Social Security Act \[section 502(a) of this title\]) in rate years beginning after the end of the 26-week period beginning on the first day of the first regularly scheduled session of the State legislature beginning on or after the date of the enactment of this Act \[Aug. 9, 2004\].
+
+“(d)
+
+Definitions.—For purposes of this section—
+
+&emsp;“(1) the term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, and the Virgin Islands;
+
+&emsp;“(2) the term ‘rate year’ means the rate year as defined in the applicable State law; and
+
+&emsp;“(3) the term ‘State law’ means the unemployment compensation law of the State, approved by the Secretary of Labor under section 3304 of the Internal Revenue Code of 1986 \[26 U.S.C. 3304\].”
+
 #### Effective Date of 1997 Amendment
 
-Section 542(a)(2) of Pub. L. 105–65 provided that: “The amendment made by this subsection \[amending this section\] shall apply to any request for information made after the date of the enactment of this Act \[Oct. 27, 1997\].”
+Section 542(a)(2) of Pub. L. 105–65 provided that: “The amendment made by this subsection \[amending thissection\] shall apply to any request for information made after the date of the enactment of this Act \[Oct. 27, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -300,7 +358,7 @@ Section 4(f) of Pub. L. 103–152 provided that:
 
 “(1) The amendments made by subsections (a) and (b) \[amending this section and section 504 of this title\] shall take effect on the date one year after the date of the enactment of this Act \[Nov. 24, 1993\].
 
-“(2) The provisions of subsections (c), (d), and (e) \[enacting provisions set out as notes below and repealingprovisions set out as a note under section 3304 of Title 26, Internal Revenue Code\] shall take effect on the date of enactment of this Act.”
+“(2) The provisions of subsections (c), (d), and (e) \[enacting provisions set out as notes below and repealing provisions set out as a note under section 3304 of Title 26, Internal Revenue Code\] shall take effect on the date of enactment of this Act.”
 
 #### Effective Date of 1988 Amendments
 
@@ -373,10 +431,6 @@ Section 4(c) of Pub. L. 103–152 provided that: “The Secretary of Labor shall
 #### Profiling System Report to Congress
 
 Section 4(d) of Pub. L. 103–152 provided that: “Not later than the date 3 years after the date of enactment of this Act \[Nov. 24, 1993\], the Secretary of Labor shall report to the Congress on the operation and effectiveness of the profiling system required under the amendments made by subsection (a) \[amending this section and section 504 of this title\] and the participation requirement provided by the amendments made under subsection (b) \[amending this section\]. Such report shall include such recommendations as the Secretary of Labor determines are appropriate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 504, 1103, 3544, 4728 of this title; title 5 section 8506; title 7 section 2020; title 19 section 2291; title 26 section 3306; title 29 section 49d; title 45 section 363.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Unemployment Trust Fund”.</i>
 

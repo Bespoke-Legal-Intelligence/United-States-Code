@@ -4,7 +4,3 @@ The State Justice Institute, after consultation with nationally recognized nonpr
 
 (Pub. L. 103–322, title IV, §40608, Sept. 13, 1994, 108 Stat. 1952.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

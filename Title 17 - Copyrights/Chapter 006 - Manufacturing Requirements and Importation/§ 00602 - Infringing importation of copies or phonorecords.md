@@ -4,7 +4,7 @@
 
 &emsp;(1) importation of copies or phonorecords under the authority or for the use of the Government of the United States or of any State or political subdivision of a State, but not including copies or phonorecords for use in schools, or copies of any audiovisual work imported for purposes other than archival use;
 
-&emsp;(2) importation, for the private use of the importer and not for distribution, by any person with respect to no more than one copy or phonorecord of any one work at any one time, or by any person arriving from outside theUnited States with respect to copies or phonorecords forming part of such person's personal baggage; or
+&emsp;(2) importation, for the private use of the importer and not for distribution, by any person with respect to no more than one copy or phonorecord of any one work at any one time, or by any person arriving from outside the United States with respect to copies or phonorecords forming part of such person's personal baggage; or
 
 &emsp;(3) importation by or for an organization operated for scholarly, educational, or religious purposes and not for private gain, with respect to no more than one copy of an audiovisual work solely for its archival purposes, and no more than five copies or phonorecords of any other work for its library lending or archival purposes, unless the importation of such copies or phonorecords is part of an activity consisting of systematic reproduction or distribution, engaged in by such organization in violation of the provisions of section 108(g)(2).
 
@@ -29,8 +29,4 @@ If none of the three exemptions applies, any unauthorized importer of copies or 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 501, 511, 603 of this title.
 

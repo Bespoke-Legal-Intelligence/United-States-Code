@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to transfer to the State of Florida 
 
 (Pub. L. 85–482, §7, July 2, 1958, 72 Stat. 286.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410i, 410j, 410p of this title.
-

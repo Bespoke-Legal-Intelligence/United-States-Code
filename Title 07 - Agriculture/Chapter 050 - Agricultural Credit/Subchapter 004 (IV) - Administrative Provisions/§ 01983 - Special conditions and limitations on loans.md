@@ -72,7 +72,3 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1932 of this title.
-

@@ -28,7 +28,7 @@ Each person who makes a federally related mortgage loan shall disclose to each p
 
 #### (C) Exception for notice provided at closing
 
-&emsp;&emsp;The provisions of subparagraphs (A) and (B) shall not apply to any assignment, sale, or transfer of the servicing of any mortgage loan if the person who makes the loan provides to the borrower, at settlement (with respect to the property for which the mortgage loan is made), written notice under paragraph (3) of such transfer.
+&emsp;&emsp;The provisions of subparagraphs (A) and (B) shall not apply to any assignment, sale, or transfer of the servicing of any mortgage loan if the person who makes the loan provides to the borrower, at settlement (withrespect to the property for which the mortgage loan is made), written notice under paragraph (3) of such transfer.
 
 #### (3) Contents of notice
 
@@ -100,7 +100,7 @@ During the 60-day period beginning on the effective date of transfer of the serv
 
 #### (2) Action with respect to inquiry
 
-&emsp;Not later than 60 days (excluding legal public holidays, Saturdays, and Sundays) after the receipt from any borrower of any qualified written request under paragraph (1) and, if applicable, before taking any action with respect to the inquiry of the borrower, the servicer shall—
+&emsp;Not later than 60 days (excluding legal public holidays, Saturdays, and Sundays) afterthe receipt from any borrower of any qualified written request under paragraph (1) and, if applicable, before taking any action with respect to the inquiry of the borrower, the servicer shall—
 
 &emsp;&emsp;(A) make appropriate corrections in the account of the borrower, including the crediting of any late charges or penalties, and transmit to the borrower a written notification of such correction (which shall include the name and telephone number of a representative of the servicer who can provide assistance to the borrower);
 
@@ -170,7 +170,7 @@ For purposes of this section:
 
 #### (2) Servicer
 
-&emsp;The term “servicer” means the person responsible for servicing of a loan (including the person who makes or holds a loan if such person also services the loan). The term does not include—
+&emsp;The term “servicer” means the person responsible for servicing of a loan (including theperson who makes or holds a loan if such person also services the loan). The term does not include—
 
 &emsp;&emsp;(A) the Federal Deposit Insurance Corporation or the Resolution Trust Corporation, in connection with assets acquired, assigned, sold, or transferred pursuant to section 1823(c) of this title or as receiver or conservator of an insured depository institution; and
 
@@ -217,8 +217,4 @@ A prior section 2605, Pub. L. 93–533, §6, Dec. 22, 1974, 88 Stat. 1726, relat
 > for “(B) for each of the most recent”, redesignated cls. (i) and (ii) as subcls. (I) and (II), respectively, and realigned margins, substituted “or” for “and” at end of subcl. (II), and added cl. (ii).
 
 1991—Subsec. (j). Pub. L. 102–27 added subsec. (j).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2609, 2610, 2614, 4901 of this title; title 15 section 1641.
 

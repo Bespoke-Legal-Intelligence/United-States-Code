@@ -1,9 +1,5 @@
 ### SUBCHAPTER III–B—PARK SYSTEM RESOURCE PROTECTION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 43 section 1474b–1.
-
 
 ---
 

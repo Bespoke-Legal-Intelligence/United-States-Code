@@ -40,7 +40,3 @@ In subsection (b), the words “balance of an appropriation or fund” are subst
 
 Pub. L. 102–377, title V, §501, Oct. 2, 1992, 106 Stat. 1342, provided that: “No part of any appropriation contained in this Act or subsequent Energy and Water Development Appropriations Acts shall remain available for obligation beyond the fiscal year specified in such Acts therein unless expressly so provided therein.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 19 section 2345; title 38 section 114; title 49 section 5309.
-

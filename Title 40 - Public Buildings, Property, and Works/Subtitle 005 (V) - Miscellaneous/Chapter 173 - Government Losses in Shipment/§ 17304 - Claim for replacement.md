@@ -16,7 +16,7 @@ Replacement made from fund.—If the Secretary is satisfied that the loss, destr
 
 Replacement made by credit.—When the Secretary decides that any part of the replacement can be made, without actual or ultimate injury to the Federal Government, by a credit in the accounts of the executive department, independent establishment, agency, officer, employee, or other accountable person making the claim, the Secretary shall—
 
-&emsp;&emsp;(A) certify the decision to the Comptroller General who, on receiving the certification, shall make the credit in the settlement of accounts in the General Accounting Office; and
+&emsp;&emsp;(A) certify the decision to the Comptroller General who, on receiving the certification, shall make the credit in the settlement of accounts in the Government Accountability Office; and
 
 &emsp;&emsp;(B) use the fund only to the extent that the replacement cannot be made by the credit.
 
@@ -24,7 +24,7 @@ Replacement made by credit.—When the Secretary decides that any part of the re
 
 Decision of Secretary Not Reviewable.—The decision of the Secretary that a loss, destruction, or damage has occurred or that a shipment was made substantially in accordance with regulations is final and conclusive and is not subject to review by any other officer of the Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1281.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1281; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 Historical and Revision Notes
 
@@ -52,7 +52,7 @@ July 8, 1937, ch. 444, §3 (1st sentence, 2d sentence words before 2d proviso), 
 
 In subsection (c), the words “Notwithstanding any provision of law to the contrary” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in title 31 section 3126.
+2004—Subsec. (b)(2)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

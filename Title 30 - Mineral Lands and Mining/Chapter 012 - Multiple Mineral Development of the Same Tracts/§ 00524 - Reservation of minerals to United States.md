@@ -20,7 +20,3 @@ The mining laws of the United States, referred to in text, are classified genera
 
 For definitions of “Leasing Act minerals” and “mineral leasing laws”, referred to in par. (2), see section 530 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 527, 528 of this title.
-

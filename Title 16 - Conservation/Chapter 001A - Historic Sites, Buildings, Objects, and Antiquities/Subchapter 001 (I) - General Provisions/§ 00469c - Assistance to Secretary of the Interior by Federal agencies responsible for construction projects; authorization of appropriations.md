@@ -32,9 +32,5 @@ Subsecs. (b), (c). Pub. L. 93–291 designated existing unlettered provisions as
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of the Interior and Secretary or other official in Department of Agriculture to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 469a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 469, 469a–3, 469b, 469c–1, 469c–2, 470a, 470bb, 470hh of this title; title 42 section 5320; title 43 section 377b.
+For transfer of certain enforcement functions of Secretary or other official in Department of the Interior and Secretary or other official in Department of Agriculture to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 469a of this title.
 

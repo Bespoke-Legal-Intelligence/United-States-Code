@@ -18,7 +18,3 @@ This subtitle, referred to in text, is subtitle C (§§1581–1589) of title XV 
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2020, 3175b, 3175d, 3175e of this title.
-

@@ -40,3 +40,7 @@ Not later than 18 months after May 27, 2003, the President should submit a repor
 
 (Pub. L. 108–25, title III, §314, May 27, 2003, 117 Stat. 742.)
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+

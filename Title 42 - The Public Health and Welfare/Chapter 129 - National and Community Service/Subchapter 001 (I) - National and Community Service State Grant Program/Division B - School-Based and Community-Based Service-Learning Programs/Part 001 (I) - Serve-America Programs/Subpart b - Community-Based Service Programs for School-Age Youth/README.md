@@ -1,9 +1,5 @@
 subpart b—community-based service programs for school-age youth
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 12681 of this title.
-
 
 ---
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—SAFETY REGULATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 507, 521, 526 of this title.
-
 
 ---
 

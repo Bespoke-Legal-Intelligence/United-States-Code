@@ -74,9 +74,5 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77p, 77r, 77r–1, 78c, 78<i>o</i>–3, 78bb, 80a–24 of this title; title 12 sections 24, 1464, 1757; title 26 section 67.
-
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -78,7 +78,3 @@ Issues which can properly be raised under an appeals procedure may not be raised
 
 Section 153(f) of Pub. L. 102–138 provided that: “The amendments made by this section \[amending this section and sections 4131, 4134, 4137, 4139, and 4140 of this title\] shall not apply with respect to any grievance (within the meaning of section 1101 of the Act \[22 U.S.C. 4131\], as amended by this section) arising before the date of enactment of this Act \[Oct. 28, 1991\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4102, 4117 of this title; title 5 section 5596.
-

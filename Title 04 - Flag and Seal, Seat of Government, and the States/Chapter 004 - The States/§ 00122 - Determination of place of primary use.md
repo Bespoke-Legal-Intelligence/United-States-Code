@@ -22,7 +22,3 @@ The date of the enactment of the Mobile Telecommunications Sourcing Act, referre
 
 Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the first month beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 116, 117, 118, 123, 124, 125, 126 of this title.
-

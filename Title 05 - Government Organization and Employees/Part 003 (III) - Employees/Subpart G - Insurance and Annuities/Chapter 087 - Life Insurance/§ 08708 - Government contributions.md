@@ -6,7 +6,7 @@
 
 (c) When the employee is an elected official, the sum required by subsection (a) of this section is contributed from an appropriation or fund available for payment of other salaries of the same office or establishment.
 
-(d)(1) Except as otherwise provided in this subsection, for each period in which an employee continues life insurance after retirement or while in receipt of compensation under subchapter I of chapter 81 of this title because of disease or injury to the employee, as provided under section 8706(b) of this title, a sum equal to one-half of the amount which is withheld from the employee's annuity or compensation under section 8707 of this title shall be contributed bythe Office from annual appropriations which are authorized to be made for that purpose and which may be made available until expended.
+(d)(1) Except as otherwise provided in this subsection, for each period in which an employee continues life insurance after retirement or while in receipt of compensation under subchapter I of chapter 81 of this title because of disease or injury to the employee, as provided under section 8706(b) of this title, a sum equal to one-half of the amount which is withheld from the employee's annuity or compensation under section 8707 of this title shall be contributed by the Office from annual appropriations which are authorized to be made for that purpose and which may be made available until expended.
 
 (2) Contributions under this subsection—
 
@@ -69,8 +69,4 @@ Amendment by Pub. L. 90–206 effective on first day of first pay period which b
 #### Retroactive Effect of 1967 Amendment
 
 Amendment by Pub. L. 90–206 to have no effect in case of an employee who died, was finally separated, or retired prior to Dec. 16, 1967, see section 405(c) of Pub. L. 90–206, set out as a note under section 8704 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8707, 8714, 8714a, 8714d of this title; title 2 sections 162b, 2064.
 

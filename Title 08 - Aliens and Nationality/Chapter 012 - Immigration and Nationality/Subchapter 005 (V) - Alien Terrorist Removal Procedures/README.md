@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1326 of this title.
-
 
 ---
 

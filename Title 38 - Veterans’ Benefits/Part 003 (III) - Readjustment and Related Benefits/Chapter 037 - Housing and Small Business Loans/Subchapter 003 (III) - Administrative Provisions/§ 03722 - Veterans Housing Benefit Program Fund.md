@@ -52,7 +52,3 @@ Pub. L. 105–368, title VI, §602(b), Nov. 11, 1998, 112 Stat. 3346, provided t
 
 &emsp;“(3) The Guaranty and Indemnity Fund, as established by section 3725 of such title (as such section was in effect on the day before the effective date of this title).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2106, 3727, 3733 of this title.
-

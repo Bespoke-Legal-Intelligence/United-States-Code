@@ -2,7 +2,7 @@
 
 There is authorized to be appropriated to the Secretary for the purposes of this chapter the following sums; and all such funds appropriated shall remain available until expended:
 
-(a) For the implementation and funding of sections 1252, 1273, and 1300 of this title, there areauthorized to be appropriated to the Secretary of the Interior the sum of $10,000,000 for the fiscal year ending September 30, 1978, $25,000,000 for each of the two succeeding fiscal years, and in such fiscal years such additional amounts as may be necessary for increases in salary, pay, retirement, other employee benefits authorized by law, and other nondiscretionary costs.
+(a) For the implementation and funding of sections 1252, 1273, and 1300 of this title, there are authorized to be appropriated to the Secretary of the Interior the sum of $10,000,000 for the fiscal year ending September 30, 1978, $25,000,000 for each of the two succeeding fiscal years, and in such fiscal years such additional amounts as may be necessary for increases in salary, pay, retirement, other employee benefits authorized by law, and other nondiscretionary costs.
 
 (b) For the implementation and funding of section 1257(c) of this title, see the provisions of section 1231(c)(11) of this title.
 
@@ -31,8 +31,4 @@ Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681�
 #### Cost-Based Fees for Products of Mine Map Repository
 
 Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–244, provided in part that: “Beginning in fiscal year 1999 and thereafter, cost-based fees for the products of the Mine Map Repository shall be established (and revised as needed) in Federal Register Notices, and shall be collected and credited to this account, to be available until expended for the costs of administering this program.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1252, 1300 of this title.
 

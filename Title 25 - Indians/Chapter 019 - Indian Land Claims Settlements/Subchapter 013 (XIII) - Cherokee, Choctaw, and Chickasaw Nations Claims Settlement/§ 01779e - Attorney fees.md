@@ -10,7 +10,3 @@ Notwithstanding subsection (a) of this section, the total fees payable to attorn
 
 (Pub. L. 107–331, title VI, §607, Dec. 13, 2002, 116 Stat. 2852.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1779c, 1779d of this title.
-

@@ -180,7 +180,3 @@ Repeal of Superseded Provisions.—Section 8124 of the Department of Defense App
 
 Pub. L. 106–79, title VIII, §8124, Oct. 25, 1999, 113 Stat. 1262, related to the establishment of a competitive bidding process for commercial licenses and required reports to Congressional committees, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §213(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–297.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 336 of this title.
-

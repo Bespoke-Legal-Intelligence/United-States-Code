@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—ACQUISITION AND DEVELOPMENT OF STRATEGIC RAW MATERIALS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2093 of Appendix to this title; title 7 sections 1301, 1743, 1745, 1856; title 15 section 714b; title 30 section 1604; title 31 sections 5112, 5116, 5132; title 40 section 113; title 42 section 5821.
-
 
 ---
 

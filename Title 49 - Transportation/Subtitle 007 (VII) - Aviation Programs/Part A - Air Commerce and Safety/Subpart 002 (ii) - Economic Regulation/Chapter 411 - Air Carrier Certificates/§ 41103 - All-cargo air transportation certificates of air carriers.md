@@ -2,7 +2,7 @@
 
 (a)
 
-Applications.—A citizen of the United States may apply to the Secretary of Transportation for a certificate authorizing the citizen to provide all-cargo air transportation. The application must contain information and be in the form the Secretary by regulation requires.
+Applications.—A citizen of the United States may apply to the Secretary of Transportation for a certificate authorizing the citizen toprovide all-cargo air transportation. The application must contain information and be in the form the Secretary by regulation requires.
 
 (b)
 
@@ -99,8 +99,4 @@ This amends 49:41103(a) to make the term consistent throughout subtitle VII of t
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41110, 41709, 46301, 46316 of this title.
 

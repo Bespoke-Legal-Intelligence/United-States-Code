@@ -26,7 +26,3 @@ Description of Land.—The parcel of land referred to in subsection (a) is the a
 
 Use of Land.—The parcel of land described in subsection (b) shall be used by the National Park Service for administrative facilities.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460n–9 of this title.
-

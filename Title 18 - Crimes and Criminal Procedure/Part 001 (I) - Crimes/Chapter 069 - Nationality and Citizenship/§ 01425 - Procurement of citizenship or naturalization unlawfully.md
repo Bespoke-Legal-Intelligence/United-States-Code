@@ -28,7 +28,3 @@ Words “a certificate of arrival or” were inserted before “any certificate�
 
 Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 982, 1961, 2516, 3291 of this title; title 8 section 1451.
-

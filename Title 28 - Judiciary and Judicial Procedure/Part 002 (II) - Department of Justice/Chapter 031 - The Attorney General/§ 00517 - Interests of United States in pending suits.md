@@ -18,7 +18,3 @@ Historical and Revision Notes
 
 R.S. §367.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 943; title 19 section 1920; title 20 section 1082; title 42 sections 292j, 12651d.
-

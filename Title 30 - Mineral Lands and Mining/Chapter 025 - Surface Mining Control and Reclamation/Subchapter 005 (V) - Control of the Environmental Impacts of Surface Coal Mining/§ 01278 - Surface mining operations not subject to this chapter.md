@@ -32,7 +32,3 @@ Effect on State Law.—To the extent that any provision of a State law, or of a 
 
 Definition.—For purposes of this section, the term ‘surface coal mining operations’ has the meaning provided by section 701(28) of the Surface Mining Control and Reclamation Act of 1977 \[30 U.S.C. 1291(28)\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 468.
-

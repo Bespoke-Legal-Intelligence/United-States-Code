@@ -4,7 +4,3 @@ The Secretary or an authorized representative of the Secretary may prescribe in 
 
 (Pub. L. 91–173, title III, §315, Dec. 30, 1969, 83 Stat. 787.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 861 of this title.
-

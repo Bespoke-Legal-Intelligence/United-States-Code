@@ -88,15 +88,15 @@ Section was formerly classified to section 1302 of Title 31 prior to the general
 
 #### Amendments
 
-<b>1997</b>—Par. (9). Pub. L. 105–33 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Theterm ‘entitlement authority’ means spending authority described by section 651(c)(2)(C) of this title.”
+1997—Par. (9). Pub. L. 105–33 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘entitlement authority’ means spending authority described by section 651(c)(2)(C) of this title.”
 
-<b>1990</b>—Par. (2). Pub. L. 101–508, §13211(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘budget authority’ means authority provided by law to enter into obligations which will result in immediate or future outlays involving Government funds or to collect offsetting receipts., except that such term does not include authority to insure or guarantee the repayment of indebtedness incurred by another person or government. The term includes the cost for direct loan and loan guarantee programs, as those terms are defined by subchapter III of this chapter”.
+1990—Par. (2). Pub. L. 101–508, §13211(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘budget authority’ means authority provided by law to enter into obligations which will result in immediate or future outlays involving Government funds or to collect offsetting receipts., except that such term does not include authority to insure or guarantee the repayment of indebtedness incurred by another person or government. The term includes the cost for direct loan and loan guarantee programs, as those terms are defined by subchapter III of this chapter”.
 
 Pub. L. 101–508, §13201(b)(1), inserted at end: “The term includes the cost for direct loan and loan guarantee programs, as those terms are defined by subchapter III of this chapter”.
 
 Pars. (6) to (8). Pub. L. 101–508, §13112(a)(2), added pars. (6) to (8) and struck out former par. (6) which defined “deficit” and contained provisions relating to calculation of the deficit, former par. (7) which defined “maximum deficit amount”, and former par. (8) which defined “off-budget Federal entity”.
 
-<b>1987</b>—Par. (7)(C). Pub. L. 100–203, §8003(c)(1), (2), redesignated subpar. (D) as (C). Former subpar. (C), which provided for maximum deficit amount of $108,000,000,000 for fiscal year beginning Oct. 1, 1987, was struck out.
+1987—Par. (7)(C). Pub. L. 100–203, §8003(c)(1), (2), redesignated subpar. (D) as (C). Former subpar. (C), which provided for maximum deficit amount of $108,000,000,000 for fiscal year beginning Oct. 1, 1987, was struck out.
 
 Par. (7)(D) to (I). Pub. L. 100–203, §8003(c)(2)–(7), redesignated subpars. (E) to (I) as (D) to (H), respectively. Former subpar. (D) redesignated (C).
 
@@ -108,15 +108,15 @@ Pub. L. 100–119 inserted subpars. (D) to (I) and struck out former subpars. (D
 
 &emsp;“(F) with respect to the fiscal year beginning October 1, 1990, zero.”
 
-<b>1986</b>—Par. (6). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Par. (6). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-<b>1985</b>—Par. (2). Pub. L. 99–177, §201(a)(2), inserted reference to the collection of offsetting receipts, effective Apr. 15, 1986.
+1985—Par. (2). Pub. L. 99–177, §201(a)(2), inserted reference to the collection of offsetting receipts, effective Apr. 15, 1986.
 
 Par. (4). Pub. L. 99–177, §232(b), struck out subpar. (B) relating to concurrent resolutions as provided in section 641 of this title, and redesignated subpar. (C) as (B).
 
 Pars. (6) to (10). Pub. L. 99–177, §201(a)(1), added pars. (6) to (10).
 
-<b>1977</b>—Pub. L. 95–110 struck out designation “(a)” before “For the purpose of this chapter” and struck out subsec. (b) which provided that Members of the respective Houses of Congress who were members of the Joint Committee on Atomic Energy were to be treated as standing committees of their respective Houses of Congress.
+1977—Pub. L. 95–110 struck out designation “(a)” before “For the purpose of this chapter” and struck out subsec. (b) which provided that Members of the respective Houses of Congress who were members of the Joint Committee on Atomic Energy were to be treated as standing committees of their respective Houses of Congress.
 
 #### Effective Date of 1990 Amendment
 
@@ -125,10 +125,6 @@ Section 13211(b) of Pub. L. 101–508 provided that: “The amendment made by su
 #### Effective Date of 1985 Amendment
 
 Amendment by sections 201(a)(1) and 232(b) of Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, and amendment by section 201(a)(2) of Pub. L. 99–177 effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 900, 1602 of this title; title 39 section 2009a; title 50 section 403f.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “as”.</i>
 

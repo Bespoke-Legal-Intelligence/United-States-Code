@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) at the end of the thirty-first day of a continuous period of (i) absence without leave, (ii) confinement by civil authorities under a sentence adjudged by a civilian court, or (iii) confinement by military authorities under a courtmartial sentence involving total forfeiture of pay and allowances. Any insurance so terminated as the result of such an absence or confinement, together with any beneficiary designation in effect for such insurance at such termination thereof, shall be automatically revived as of the date the member is restored to active duty with pay or to active duty for training with pay.
 
-&emsp;(2) With respect to a member on active duty or active duty for training under a call or order to duty that specifies a period of less than 31 days, insurance under this subchapter shall cease at midnight, local time, on the last day of such duty, unless on such date the insured is suffering from a disability incurred or aggravated during such period which, within 120 days after such date, (i) results in death, or (ii) renders the member uninsurable at standard premium rates according to the good health standards approved by the Secretary, in which event the insurance shall continue in force to death, or for 120 days after such date, whichever is the earlier date.
+&emsp;(2) With respect to a member on active duty or active duty for training under a call or order to duty that specifies a period of less than 31 days, insurance under this subchapter shall cease at midnight, local time, on the last day of such duty, unless on such date the insured is suffering from a disability incurred oraggravated during such period which, within 120 days after such date, (i) results in death, or (ii) renders the member uninsurable at standard premium rates according to the good health standards approved by the Secretary, in which event the insurance shall continue in force to death, or for 120 days after such date, whichever is the earlier date.
 
 &emsp;(3) With respect to a member on inactive duty training scheduled in advance by competent authority, insurance under this subchapter shall cease at the end of such scheduled training period, unless at such time the insured is suffering from a disability incurred, or aggravated during such period which, within 120 days after the date of such training, (i) results in death, or (ii) renders the member uninsurable at standard premium rates according to the good health standards approved by the Secretary in which event the insurance shall continue in force to death, or for 120 days after the date such training terminated, whichever is the earlier date.
 
@@ -82,7 +82,7 @@ Pub. L. 104–275, §402(c)(1)(D)(i)–(iii), substituted “120 days after sepa
 
 &emsp;“(A) unless on”,
 
-> substituted “before the end of 120 days” for “prior to the expiration of one hundred and twenty days”, andsubstituted “such assignment.” for “such assignment;”.
+> substituted “before the end of 120 days” for “prior to the expiration of one hundred and twenty days”, and substituted “such assignment.” for “such assignment;”.
 
 Subsec. (a)(5), (6). Pub. L. 104–275, §402(c)(1)(E), struck out pars. (5) and (6) which read as follows:
 
@@ -124,7 +124,7 @@ Subsec. (b). Pub. L. 99–576, §701(38)(C), substituted “the” for “he” 
 
 1982—Subsec. (a)(5). Pub. L. 97–295 substituted “the amendment made by section 5(a) of the Veterans’ Insurance Act of 1974 (Public Law 93–289, 88 Stat. 166)” for “this amendment”.
 
-1974—Subsec. (a). Pub. L. 93–289, §5(a)(1)–(3), inserted in opening provisions “or while the member meets the qualifications set forth in section 765(5)(B) or (C) of this title,”, substituted “one hundred and twenty days” for “ninety days” wherever appearing in pars. (2) and (3), and added pars. (4) and (5).
+1974—Subsec. (a). Pub. L. 93–289, §5(a)(1)–(3), inserted in opening provisions “or while the member meets thequalifications set forth in section 765(5)(B) or (C) of this title,”, substituted “one hundred and twenty days” for “ninety days” wherever appearing in pars. (2) and (3), and added pars. (4) and (5).
 
 Subsec. (b). Pub. L. 93–289, §5(a)(4), substituted provisions requiring policies of Servicemen's Group Life Insurance to contain a provision automatically converting such policy to Veterans’ Group Life Insurance, for provisions which required such policies to contain a provision for conversion to an individual policy of insurance, and inserted sentences providing for the effective date of automatic conversion, prohibiting conversion of Servicemen's Group Life Insurance continued in force under section 768(a)(4)(B) or (5) of this title, and authorizing conversion by a member whose insurance could be continued in force under section 768(a)(4)(B) of this title, but is not so continued.
 
@@ -160,13 +160,9 @@ Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub.
 
 #### Conversion of SGLI to VGLI
 
-Section 402(e) of Pub. L. 104–275 provided that: “The Servicemembers’ Group Life Insurance of any memberof the Retired Reserve of a uniformed service shall be converted to Veterans’ Group Life Insurance effective 90 days after the date of the enactment of this Act \[Oct. 9, 1996\].”
+Section 402(e) of Pub. L. 104–275 provided that: “The Servicemembers’ Group Life Insurance of any member of the Retired Reserve of a uniformed service shall be converted to Veterans’ Group Life Insurance effective 90 days after the date of the enactment of this Act \[Oct. 9, 1996\].”
 
 #### Right of Persons Discharged or Released From Uniformed Services To Convert Servicemen's Group Life Insurance to Individual Policies
 
 Section 5(b) of Pub. L. 93–289 provided that the amendments made by Pub. L. 93–289, enacting sections 777, 778, and 779 \[now 1977, 1978, and 1979\] of this title and section 707 of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 723, 765, 767, 768, 769, 770, 771, and 774 \[now 1923, 1965, 1967, 1968, 1969, 1970, 1971, and 1974\] of this title, not be construed to deprive any person discharged or released from the uniformed services of the United States prior to the date on which the Veterans’ Group Life Insurance program (provided for under section 777 \[now 1977\] of this title) became effective of the right to convert Servicemen's Group Life Insurance to an individual policy under the provisions of law in effect prior to such effective date.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1969, 1977, 1980 of this title.
 

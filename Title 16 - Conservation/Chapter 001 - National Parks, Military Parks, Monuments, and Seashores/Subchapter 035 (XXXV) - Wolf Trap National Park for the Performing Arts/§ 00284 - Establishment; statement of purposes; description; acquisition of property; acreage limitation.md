@@ -16,7 +16,3 @@ Section 12 of Pub. L. 89–671, as added by Pub. L. 97–310, Oct. 14, 1982, 96 
 
 Pub. L. 89–671, §13, as added by Pub. L. 101–636, §3, Nov. 28, 1990, 104 Stat. 4587, directed Secretary, acting jointly with the Foundation, to conduct a study and analysis of the operations and management practices being used to carry out the purposes of this subchapter and to submit, not later than 2 years after Nov. 28, 1990, a report of such study and analysis to Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 284a of this title.
-

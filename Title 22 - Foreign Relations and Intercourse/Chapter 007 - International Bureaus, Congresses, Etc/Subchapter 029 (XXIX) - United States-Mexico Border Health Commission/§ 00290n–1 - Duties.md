@@ -20,7 +20,3 @@ Par. (2)(B). Pub. L. 106–113, §1000(a)(4) \[title V, §516(2)(B)\], substitut
 
 Par. (3). Pub. L. 106–113, §1000(a)(4) \[title V, §516(2)(C)\], struck out par. (3) which read as follows: “to formulate recommendations to the Governments of the United States and Mexico concerning a fair and reasonable method by which the government of one country could reimburse a public or private entity in the other country for the cost of a health care service that the entity furnishes to a citizen of the first country who is unable, through insurance or otherwise, to pay for the service.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 290n–2 of this title.
-

@@ -24,7 +24,7 @@ May 15, 1952, ch. 289, §2, 66 Stat. 72; July 9, 1952, ch. 600, 66 Stat. 479.
 
 #### Expenditures; Inmate Telephone System
 
-Pub. L. 105–277, div. A, §101(b) \[title I, §108\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, provided that: “For fiscal year 1999 and thereafter, the Director of the Bureau of Prisons may make expenditures out of the Commissary Fund of the Federal Prison System, regardless of whether any such expenditure is security-related, for programs, goods, and services for the benefit of inmates (to the extent the provision of those programs, goods, or services to inmates is not otherwise prohibited by law), including—
+Pub. L. 105–277, div. A, §101(b) \[title I, §108\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, provided that: “For fiscal year 1999 and thereafter, the Director of the Bureau ofPrisons may make expenditures out of the Commissary Fund of the Federal Prison System, regardless of whether any such expenditure is security-related, for programs, goods, and services for the benefit of inmates (to the extent the provision of those programs, goods, or services to inmates is not otherwise prohibited by law), including—
 
 &emsp;“(1) the installation, operation, and maintenance of the Inmate Telephone System;
 
@@ -39,8 +39,4 @@ Section 108 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of
 Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 103–317, title I, §107, Aug. 26, 1994, 108 Stat. 1735.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 sections 170, 2055.
 

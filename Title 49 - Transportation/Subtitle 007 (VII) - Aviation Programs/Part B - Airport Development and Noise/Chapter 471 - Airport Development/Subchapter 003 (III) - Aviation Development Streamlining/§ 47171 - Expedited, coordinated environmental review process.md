@@ -2,7 +2,7 @@
 
 (a)
 
-Aviation Project Review Process.—The Secretary of Transportation shall develop and implement an expedited and coordinated environmental review process for airport capacity enhancement projects at congested airports, aviation safety projects, and aviation security projects that—
+Aviation Project Review Process.—The Secretary of Transportation shall develop andimplement an expedited and coordinated environmental review process for airport capacity enhancement projects at congested airports, aviation safety projects, and aviation security projects that—
 
 &emsp;(1) provides for better coordination among the Federal, regional, State, and local agencies concerned with the preparation of environmental impact statements or environmental assessments under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
 
@@ -54,7 +54,7 @@ Agency participation.—Each Federal agency described in subsection (d) shall fo
 
 (d)
 
-Identification of Jurisdictional Agencies.—With respect to each airport capacity enhancement project at a congested airport or a project designated under subsection (b)(2), the Secretary shall identify, as soon as practicable,all Federal and State agencies that may have jurisdiction over environmental-related matters that may be affected by the project or may be required by law to conduct an environmental-related review or analysis of the project or determine whether to issue an environmental-related permit, license, or approval for the project.
+Identification of Jurisdictional Agencies.—With respect to each airport capacity enhancement project at a congested airport or a project designated under subsection (b)(2), the Secretary shall identify, as soon as practicable, all Federal and State agencies that may have jurisdiction over environmental-related matters that may be affected by the project or may be required by law to conduct an environmental-related review or analysis of the project or determine whether to issue an environmental-related permit, license, or approval for the project.
 
 (e)
 
@@ -74,7 +74,7 @@ In general.—The Secretary may utilize an interagency environmental impact stat
 
 &emsp;(2)
 
-Responsibility of interagency environmental impact statement team.—Under a coordinated environmental review process being implemented under this section, the interagency environmental impact statement team shall assist the Federal Aviation Administration in the preparation of the environmental impact statement. To facilitate timely and efficient environmental review, the team shall agree on agency or Tribal points of contact, protocols for communication among agencies, and deadlines for necessary actions by each individual agency (including the review of environmental analyses, the conduct of required consultation and coordination, and the issuance of environmental opinions, licenses, permits, and approvals). The members of the team may formalize their agreement in a written memorandum.
+Responsibility of interagency environmental impact statement team.—Under a coordinated environmental review process being implemented under this section, theinteragency environmental impact statement team shall assist the Federal Aviation Administration in the preparation of the environmental impact statement. To facilitate timely and efficient environmental review, the team shall agree on agency or Tribal points of contact, protocols for communication among agencies, and deadlines for necessary actions by each individual agency (including the review of environmental analyses, the conduct of required consultation and coordination, and the issuance of environmental opinions, licenses, permits, and approvals). The members of the team may formalize their agreement in a written memorandum.
 
 (h)
 

@@ -22,7 +22,3 @@ The United States hereby approves and confirms the releases and waivers required
 
 1996—Subsec. (a). Pub. L. 104–109 substituted “This subchapter” for “The subchapter” in introductory provisions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1776b, 1776d of this title.
-

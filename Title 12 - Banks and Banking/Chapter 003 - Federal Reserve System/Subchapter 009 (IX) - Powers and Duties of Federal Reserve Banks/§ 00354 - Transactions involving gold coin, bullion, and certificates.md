@@ -8,7 +8,3 @@ Every Federal reserve bank shall have power to deal in gold coin and bullion at 
 
 Section is comprised of subsec. (a) of section 14 of act Dec. 23, 1913. For classification to this title of remainder of section 14, see Codification note set out under section 353 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 263, 412 of this title.
-

@@ -36,7 +36,7 @@
 
 #### (b) Hardship exemptions
 
-(1) If any person enters into a contract with respect to a species of fish or wildlife or plant before the date of the publication in the Federal Register of notice of consideration of that species as an endangered species and the subsequent listing of that species as an endangered species pursuant to section 1533 of this title will cause undue economic hardship to such person under the contract, the Secretary, in order to minimize such hardship, may exempt such person from the application of section 1538(a) of this title to the extent the Secretary deems appropriate if such person applies to him for such exemption and includes with such application such information as the Secretary may require to prove such hardship; except that (A) no such exemption shall be for a duration of more than one year from the date of publication in the Federal Register of notice of consideration of the species concerned, or shall apply to a quantity of fish or wildlife or plants in excess of that specified by the Secretary; (B) the one-year period for those species of fish or wildlife listed by the Secretary as endangered prior to December 28, 1973, shall expire in accordance with the terms of section 668cc–3 <sup>1</sup> of this title; and (C) nosuch exemption may be granted for the importation or exportation of a specimen listed in Appendix I of the Convention which is to be used in a commercial activity.
+(1) If any person enters into a contract with respect to a species of fish or wildlife or plant before the date of the publication in the Federal Register of notice of consideration of that species as an endangered species and the subsequent listing of that species as an endangered species pursuant to section 1533 of this title will cause undue economic hardship to such person under the contract, the Secretary, in order to minimize such hardship, may exempt such person from the application of section 1538(a) of this title to the extent the Secretary deems appropriate if such person applies to him for such exemption and includes with such application such information as the Secretary may require to prove such hardship; except that (A) no such exemption shall be for a duration of more than one year from the date of publication in the Federal Register of notice of consideration of the species concerned, or shall apply to a quantity of fish or wildlife or plants in excess of that specified by the Secretary; (B) the one-year period for those species of fish or wildlife listed by the Secretary as endangered prior to December 28, 1973, shall expire in accordance with the terms of section 668cc–3 <sup>1</sup> of this title; and (C) no such exemption may be granted for the importation or exportation of a specimen listed in Appendix I of the Convention which is to be used in a commercial activity.
 
 (2) As used in this subsection, the term “undue economic hardship” shall include, but not be limited to:
 
@@ -82,7 +82,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 &emsp;(A) The term “pre-Act endangered species part” means—
 
-&emsp;&emsp;(i) any sperm whale oil, including derivatives thereof, which was lawfully held withinthe United States on December 28, 1973, in the course of a commercial activity; or
+&emsp;&emsp;(i) any sperm whale oil, including derivatives thereof, which was lawfully held within the United States on December 28, 1973, in the course of a commercial activity; or
 
 &emsp;&emsp;(ii) any finished scrimshaw product, if such product or the raw material for such product was lawfully held within the United States on December 28, 1973, in the course of a commercial activity.
 
@@ -138,7 +138,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 (C) No exemption or renewal of such exemption made under this subsection shall have force and effect after the expiration date of the certificate of renewal of such exemption issued under this paragraph.
 
-(D) No person may, after January 31, 1984, sell or offer for sale in interstate or foreign commerce, any pre-Act finished scrimshaw product unless such person holds a valid certificate ofexemption issued by the Secretary under this subsection, and unless such product or the raw material for such product was held by such person on October 13, 1982.
+(D) No person may, after January 31, 1984, sell or offer for sale in interstate or foreign commerce, any pre-Act finished scrimshaw product unless such person holds a valid certificate of exemption issued by the Secretary under this subsection, and unless such product or the raw material for such product was held by such person on October 13, 1982.
 
 #### (g) Burden of proof
 
@@ -200,7 +200,7 @@ Any importation into the United States of fish or wildlife shall, if—
 
 &emsp;(ii) critical habitat shall not be designated under this chapter for any experimental population determined under subparagraph (B) to be not essential to the continued existence of a species.
 
-(3) The Secretary, with respect to populations of endangered species or threatened species thatthe Secretary authorized, before October 13, 1982, for release in geographical areas separate from the other populations of such species, shall determine by regulation which of such populations are an experimental population for the purposes of this subsection and whether or not each is essential to the continued existence of an endangered species or a threatened species.
+(3) The Secretary, with respect to populations of endangered species or threatened species that the Secretary authorized, before October 13, 1982, for release in geographical areas separate from the other populations of such species, shall determine by regulation which of such populations are an experimental population for the purposes of this subsection and whether or not each is essential to the continued existence of an endangered species or a threatened species.
 
 (Pub. L. 93–205, §10, Dec. 28, 1973, 87 Stat. 896; Pub. L. 94–359, §§2, 3, July 12, 1976, 90 Stat. 911, 912; Pub. L. 95–632, §5, Nov. 10, 1978, 92 Stat. 3760; Pub. L. 96–159, §7, Dec. 28, 1979, 93 Stat. 1230; Pub. L. 97–304, §6(1)–(4)(A), (5), (6), Oct. 13, 1982, 96 Stat. 1422–1424; Pub. L. 100–478, title I, §§1011, 1013(b), (c), Oct. 7, 1988, 102 Stat. 2314, 2315.)
 
@@ -263,10 +263,6 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 #### Scrimshaw Exemptions
 
 Pub. L. 103–238, §18, Apr. 30, 1994, 108 Stat. 559, provided that: “Notwithstanding any other provision of law, any valid certificate of exemption renewed by the Secretary (or deemed to be renewed) under section 10(f)(8) of the Endangered Species Act of 1973 (16 U.S.C. 1539(f)(8)) for any person holding such a certificate with respect to the possession of pre-Act finished scrimshaw products or raw material for such products shall remain valid for a period not to exceed 5 years beginning on the date of enactment of this Act \[Apr. 30, 1994\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 471j, 1538, 6576 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

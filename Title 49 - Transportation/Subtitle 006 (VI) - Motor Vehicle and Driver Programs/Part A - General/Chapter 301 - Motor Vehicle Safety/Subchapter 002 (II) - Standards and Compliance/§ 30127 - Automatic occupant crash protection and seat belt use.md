@@ -88,7 +88,7 @@ Report.—(1) On October 1, 1992, and annually after that date through October 1
 
 (h)
 
-Airbags for Government Cars.—In cooperation with the Administrator of General Services and the heads of appropriate departments, agencies, and instrumentalities of the Government, the Secretary of Transportation shall establish a program, consistent with applicable procurement laws of the Government and available appropriations, requiring that all passenger cars acquired—
+Airbags for Government Cars.—In cooperation with the Administrator of General Services and the heads of appropriate departments, agencies, and instrumentalities of the Government, the Secretary of Transportation shall establish a program, consistent with applicable procurement laws of the Government andavailable appropriations, requiring that all passenger cars acquired—
 
 &emsp;(1) after September 30, 1994, for use by the Government be equipped, to the maximum extent practicable, with driver-side inflatable restraints; and
 
@@ -398,9 +398,5 @@ Credit for early compliance.—To encourage early compliance, the Secretary is d
 
 “(b)
 
-Advisory Committees.—Any government advisory committee, task force, or other entity involving air bags shall include representatives of consumer andsafety organizations, insurers, manufacturers, and suppliers.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30141, 30165 of this title.
+Advisory Committees.—Any government advisory committee, task force, or other entity involving air bags shall include representatives of consumer and safety organizations, insurers, manufacturers, and suppliers.”
 

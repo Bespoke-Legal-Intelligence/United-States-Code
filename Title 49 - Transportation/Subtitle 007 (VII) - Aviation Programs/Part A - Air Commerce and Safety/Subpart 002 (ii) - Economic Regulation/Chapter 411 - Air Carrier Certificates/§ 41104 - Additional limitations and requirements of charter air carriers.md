@@ -22,7 +22,7 @@ In general.—Except as provided in paragraphs (3) and (4), an air carrier, incl
 
 &emsp;(2)
 
-Definition.—In this paragraph, the term “regularly scheduled charter air transportation” does not include operations for which the departure time, departure location, and arrival location are specifically negotiated with the customer or the customer's representative.
+Definition.—In this paragraph, the term “regularly scheduled charter air transportation” does not include operations for whichthe departure time, departure location, and arrival location are specifically negotiated with the customer or the customer's representative.
 
 &emsp;(3)
 
@@ -38,7 +38,7 @@ Alaska.—An air carrier holding a certificate issued under section 41102 of thi
 
 &emsp;(1) maintained a principal place of business in Alaska; and
 
-&emsp;(2) conducted air transport operations between places in Alaska with aircraft with acertificate for gross takeoff weight of more than 40,000 pounds.
+&emsp;(2) conducted air transport operations between places in Alaska with aircraft with a certificate for gross takeoff weight of more than 40,000 pounds.
 
 (d)
 

@@ -10,7 +10,3 @@ A prior section 3508, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 28
 
 Another prior section 3508, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1304, related to unlawful disclosure of information, penalties, and release of information to other agencies, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3510(b) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3507 of this title.
-

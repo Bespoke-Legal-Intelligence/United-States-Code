@@ -16,7 +16,7 @@ The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, c
 
 #### Amendments
 
-1955—Act July 23, 1955, required disposal under this subchapter of common varieties of sand, stone, gravel, pumice, pumicite, and cinders, and gave the Secretary of Agriculture the same authority as to lands under his jurisdiction as the Secretary of Interior possesses as to lands under his jurisdiction in the disposal of mining and vegetative materials.
+1955—Act July 23, 1955, required disposal under this subchapter of common varieties of sand, stone, gravel,pumice, pumicite, and cinders, and gave the Secretary of Agriculture the same authority as to lands under his jurisdiction as the Secretary of Interior possesses as to lands under his jurisdiction in the disposal of mining and vegetative materials.
 
 #### Short Title
 
@@ -24,9 +24,5 @@ Act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified to thi
 
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliancewith materials sales contracts under this subchapter and removal permits issued under this subchapter and enforcement functions of Secretary or other official in Department of Agriculture insofar as they involve lands and programs under jurisdiction of that Department related to compliance with removal of materials under this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), eff. July 1, 1979, 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 611, 612, 615 of this title.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with materials sales contracts under this subchapter and removal permits issued under this subchapter and enforcement functions of Secretary or other official in Department of Agriculture insofar as they involve lands and programs under jurisdiction of that Department related to compliance with removal of materials under this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), eff. July 1, 1979, 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 

@@ -58,9 +58,5 @@ Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. 
 
 Amendment by section 4(e) of Pub. L. 92–303 effective Dec. 30, 1969, see section 4(g) of Pub. L. 92–303, set out as a note under section 921 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 932, 933 of this title.
-
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

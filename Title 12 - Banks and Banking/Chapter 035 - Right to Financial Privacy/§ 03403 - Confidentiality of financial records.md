@@ -26,7 +26,3 @@ Nothing in this chapter shall preclude any financial institution, or any officer
 
 1986—Subsec. (c). Pub. L. 99–570 inserted provisions that the disclosure of only the name or other identifying information concerning any individual or account involved in and the nature of any suspected illegal activity is permitted notwithstanding any constitution, law, or regulation of any State or political subdivision thereof to the contrary, and any financial institutions, officers, agents, or employees thereof making such disclosure shall not be liable to the customer under any State constitution or any Federal, State, or local law or regulation for such disclosure or failure to notify the customer thereof.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3402, 3411, 3413, 3414, 3415 of this title; title 42 section 1383.
-

@@ -34,7 +34,3 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 The text of 49 App.:1473(b)(4) is omitted because of 28:ch. 131. The words “imposed or assessed” are omitted as surplus. The words “bringing a civil action” are substituted for “proceedings in personam”, the words “civil action in rem” are substituted for “proceedings in rem”, and the words “civil action” are substituted for “civil suits”, for consistency in the revised title and with other titles of the United States Code and the Federal Rules of Civil Procedure (28 App. U.S.C.). The words “regardless of the place an aircraft in a civil action in rem is seized” are substituted for 49 App.:1473(b)(1) (last sentence) to eliminate unnecessary words. The word “civil” is added after “involving a” for clarity. The words “(except a penalty imposed by the Secretary of Transportation that formerly was imposed by the Civil Aeronautics Board)” are substituted for “other than those assessed by the Board” because the Civil Aeronautics Board went out of existence and its duties and powers were transferred to the Secretary of Transportation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
-

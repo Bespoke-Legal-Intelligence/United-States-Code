@@ -24,13 +24,9 @@ Nothing in sections 58a–1 to 58a–3 of this title shall be construed as limit
 
 #### Amendments
 
-<b>1989</b>—Subsec. (d). Pub. L. 101–163 inserted “and all other moneys received by the Sergeant at Arms as charges or commissions for telephone services,” after “by the Sergeant at Arms),”.
+1989—Subsec. (d). Pub. L. 101–163 inserted “and all other moneys received by the Sergeant at Arms as charges or commissions for telephone services,” after “by the Sergeant at Arms),”.
 
 #### Effective Date
 
 Section effective Oct. 1, 1987, see section 4 of Pub. L. 100–123, set out as a note under section 58a–1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 58a–1, 58a–3 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Grant authority
 
-The Secretary may make grants to States, and in consultation with State health authorities, topolitical subdivisions of States and to other public entities to assist them in meeting the costs of establishing and maintaining preventive health service programs.
+The Secretary may make grants to States, and in consultation with State health authorities, to political subdivisions of States and to other public entities to assist them in meeting the costs of establishing and maintaining preventive health service programs.
 
 #### (b) Application
 
@@ -12,7 +12,7 @@ No grant may be made under subsection (a) of this section unless an application 
 
 &emsp;(2) with respect to each such program (A) the amount of Federal, State, and other funds obligated by the applicant in its latest annual accounting period for the provision of such program, (B) a description of the services provided by the applicant in such program in such period, (C) the amount of Federal funds needed by the applicant to continue providing such services in such program, and (D) if the applicant proposes changes in the provision of the services in such program, the priorities of such proposed changes, reasons for such changes, and the amount of Federal funds needed by the applicant to make such changes;
 
-&emsp;(3) assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) of this section will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) <sup>1</sup> of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 <sup>1</sup> of this title;
+&emsp;(3) assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) of this section will be provided in a manner consistent with the State health plan in effectunder section 300m–3(c) <sup>1</sup> of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 <sup>1</sup> of this title;
 
 &emsp;(4) assurances satisfactory to the Secretary that the applicant will provide for such fiscal control and fund accounting procedures as the Secretary by regulation prescribes to assure the proper disbursement of and accounting for funds received under grants under subsection (a) of this section;
 
@@ -64,7 +64,7 @@ The Secretary, at the request of a recipient of a grant under subsection (a) of 
 
 #### (h) Reports
 
-The Secretary shall include, as part of the report required by section 300u–4 of this title, a report on the extent of the problems presented by the diseases and conditions referred to in subsection (j) of this section; on the amount of funds obligated under grants under subsection (a) of this section in the preceding fiscal year for each of the programs listed in subsection (j) of this section; and on the effectiveness of the activities assisted under grants under subsection (a) of this section in controlling such diseases and conditions.
+The Secretary shall include, as part of the report required by section 300u–4 of this title, a report on the extent of the problems presented by the diseases and conditions referred to in subsection (j) of this section; on the amount of funds obligated under grants under subsection (a) of this section in the preceding fiscal year foreach of the programs listed in subsection (j) of this section; and on the effectiveness of the activities assisted under grants under subsection (a) of this section in controlling such diseases and conditions.
 
 #### (i) Technical assistance
 
@@ -234,7 +234,7 @@ Section 202(a) of Pub. L. 94–317 provided that the amendment made by that sect
 
 #### Effective Date of 1975 Amendment
 
-Section 608 of title VI of Pub. L. 94–63 provided that: “Except as may otherwise be specifically provided, the amendments made by this title \[enacting sections 300c–21 and 300c–22 of this title, amending this section, and enacting provisions set out as notes under sections 289, 289k–2, and 1395x of this title\] and by titles I \[amending section 246 of this title and enacting provisions set out as notes under section 246 of this title\], II \[enacting sections 300a–6a and 300a–8 of this title, amending sections 300 and 300a–1 to 300a–4 of this title, repealing section 3505c of this title, and enacting provision set out as a note under section 300 of this title\], III \[enacting sections 2689 to 2689aa of this title, amending sections 2691 and 2693 to 2696 of this title, and enacting provisions set out as notes under section 2689 of this title\], IV \[amending sections 218 and 254b of this title and enacting provision set out as a note under section 254b of this title\], and V \[enacting section 254c of this title and amending section 246 of this title\] of this Act shall take effect July 1, 1975. The amendments made bythis title and by such titles to the provisions of law amended by this title and by such titles are made to such provisions as amended by title VII of this Act \[amending sections 246, 254b, 300, 300a–1 to 300a–3 of this title and sections 2681, 2687, 2688a, 2688d, 2688j–1, 2688j–2, 2688<i>l</i>, 2688<i>l</i>–1, 2688n–1, 2688<i>o</i>, and 2688u of this title\].”
+Section 608 of title VI of Pub. L. 94–63 provided that: “Except as may otherwise be specifically provided, the amendments made by this title \[enacting sections 300c–21 and 300c–22 of this title, amending this section, and enacting provisions set out as notes under sections 289, 289k–2, and 1395x of this title\] and by titles I \[amending section 246 of this title and enacting provisions set out as notes under section 246 of this title\], II \[enacting sections 300a–6a and 300a–8 of this title, amending sections 300 and 300a–1 to 300a–4 of this title, repealing section 3505c of this title, and enacting provision set out as a note under section 300 of this title\], III \[enacting sections 2689 to 2689aa of this title, amending sections 2691 and 2693 to 2696 of this title, and enacting provisions set out as notes under section 2689 of this title\], IV \[amending sections 218 and 254b of this title and enacting provision set out as a note under section 254b of this title\], and V \[enacting section 254c of this title and amending section 246 of this title\] of this Act shall take effect July 1, 1975. The amendments made by this title and by such titles to the provisions of law amended by this title and by such titles are made to such provisions as amended by title VII of this Act \[amending sections 246, 254b, 300, 300a–1 to 300a–3 of this title and sections 2681, 2687, 2688a, 2688d, 2688j–1, 2688j–2, 2688<i>l</i>, 2688<i>l</i>–1, 2688n–1, 2688<i>o</i>, and 2688u of this title\].”
 
 #### Effective Date of 1972 Amendment
 
@@ -246,11 +246,7 @@ Pub. L. 94–420, §3, Sept. 23, 1976, 90 Stat. 1301, provided that, in order to
 
 #### Study by Secretary of Scope and Extent of Liability Arising Out of Immunization Program; Alternative Protective Approaches; Report to Congress
 
-Section 3 of Pub. L. 94–380 directed Secretary to conduct a study of liability for personal injuries or death arising out of immunization programs and of alternative approaches to provide protection against such liability and report to Congress on findings of such study by Aug. 12, 1977.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 256b, 256c, 300w–1, 300ff–14, 300ff–22, 1396s of this title.
+Section 3 of Pub. L. 94–380 directed Secretary to conduct a study of liability for personal injuries or deatharising out of immunization programs and of alternative approaches to provide protection against such liability and report to Congress on findings of such study by Aug. 12, 1977.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -36,7 +36,7 @@ The Speaker of the House shall prescribe rules and regulations to carry out the 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–316 struck out “, if the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official” before period at end.
+1996—Subsec. (a). Pub. L. 104–316 struck out “, if the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official” before period at end.
 
 Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 

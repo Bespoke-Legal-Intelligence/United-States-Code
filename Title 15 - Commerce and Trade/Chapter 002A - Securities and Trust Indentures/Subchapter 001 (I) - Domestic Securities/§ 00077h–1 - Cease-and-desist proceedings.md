@@ -60,7 +60,3 @@ In any cease-and-desist proceeding under subsection (a) of this section, the Com
 
 Section effective Oct. 15, 1990, with provisions relating to civil penalties and accounting and disgorgement, see section 1(c)(1) and (2) of Pub. L. 101–429, set out in an Effective Date of 1990 Amendment note under section 77g of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77t, 78w of this title.
-

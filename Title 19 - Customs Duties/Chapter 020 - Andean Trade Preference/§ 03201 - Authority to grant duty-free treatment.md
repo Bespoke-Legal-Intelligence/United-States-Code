@@ -40,7 +40,3 @@ Pub. L. 107–210, div. C, title XXXI, §3102, Aug. 6, 2002, 116 Stat. 1023, pro
 
 &emsp;“(8) Temporarily enhancing trade benefits for Andean beneficiary countries will promote the growth of free enterprise and economic opportunity in these countries and serve the security interests of the United States, the region, and the world.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3203 of this title.
-

@@ -52,7 +52,3 @@ Section supersedes two former similar sections enacted by act July 2, 1890, ch. 
 
 Section 4(b) of Pub. L. 96–349 provided that: “The amendments made by this section \[amending this section and sections 15a and 15c of this title\] shall apply only with respect to actions commenced after the date of the enactment of this Act \[Sept 12, 1980\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15b, 15c, 16, 35, 36, 4016, 4303, 4304 of this title; title 26 sections 162, 186; title 46 App. section 1706.
-

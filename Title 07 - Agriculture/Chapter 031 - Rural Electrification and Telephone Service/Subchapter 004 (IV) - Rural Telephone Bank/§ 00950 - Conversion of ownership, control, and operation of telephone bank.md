@@ -6,7 +6,7 @@ Whenever fifty-one per centum of the maximum amount of class A stock issued to t
 
 &emsp;(1) the powers and authority of the Governor of the telephone bank granted to the Secretary by this subchapter shall vest in the Telephone Bank Board, and may be exercised and performed through the Governor of the telephone bank, to be selected by the Telephone Bank Board, and through such other employees as the Telephone Bank Board shall designate;
 
-&emsp;(2) the five members of the Telephone Bank Board designated by the President pursuant to section 945(b)(1)(A) of this title shall cease tobe members, and the number of Board members shall be accordingly reduced to eight unless other provision is thereafter made in the bylaws of the telephone bank;
+&emsp;(2) the five members of the Telephone Bank Board designated by the President pursuant to section 945(b)(1)(A) of this title shall cease to be members, and the number of Board members shall be accordingly reduced to eight unless other provision is thereafter made in the bylaws of the telephone bank;
 
 &emsp;(3) the telephone bank shall cease to be an agency of the United States, but shall continue in existence in perpetuity as an instrumentality of the United States and as a banking corporation with all of the powers and limitations conferred or imposed by this subchapter except such as shall have lapsed pursuant to the provisions of this subchapter.
 
@@ -18,7 +18,7 @@ When all class A stock has been fully redeemed and retired, loans made by the te
 
 Congress reserves the right to review the continued operations of the telephone bank after all class A stock has been fully redeemed and retired.
 
-(May 20, 1936, ch. 432, title IV, §410, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 36; amended Pub. L. 94–273, §2(2), Apr. 21, 1976, 90 Stat. 375; Pub. L. 101–624, title XXIII, §2363(b)(2), Nov. 28, 1990, 104 Stat. 4043; Pub. L. 103–354, title II, §235(a)(11), Oct. 13, 1994, 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title IV, §410, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 36; amended Pub. L. 94–273, §2(2), Apr. 21, 1976, 90 Stat. 375; Pub. L. 101–624, title XXIII, §2363(b)(2), Nov. 28,1990, 104 Stat. 4043; Pub. L. 103–354, title II, §235(a)(11), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### Amendments
 
@@ -31,8 +31,4 @@ Congress reserves the right to review the continued operations of the telephone 
 #### Effective Date
 
 Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a note under section 921a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 943, 944 of this title; title 31 sections 9101, 9108.
 

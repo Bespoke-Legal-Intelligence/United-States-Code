@@ -18,7 +18,3 @@ The provisions of this chapter shall apply with respect to any repository not us
 
 (Pub. L. 97–425, §8, Jan. 7, 1983, 96 Stat. 2205.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10121, 10155, 10192 of this title.
-

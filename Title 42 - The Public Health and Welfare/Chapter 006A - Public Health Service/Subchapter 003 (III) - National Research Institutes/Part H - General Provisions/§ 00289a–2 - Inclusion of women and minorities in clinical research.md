@@ -82,7 +82,3 @@ For purposes of this section:
 
 Section 133 of Pub. L. 103–43 provided that: “Section 492B of the Public Health Service Act, as added by section 131 of this Act \[this section\], shall not apply with respect to projects of clinical research for which initial funding was provided prior to the date of the enactment of this Act \[June 10, 1993\]. With respect to the inclusion of women and minorities as subjects in clinical research conducted or supported by the National Institutes of Health, any policies of the Secretary of Health and Human Services regarding such inclusion that are in effect on the day before the date of the enactment of this Act shall continue to apply to the projects referred to in the preceding sentence.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 287c–31, 287d, 289a of this title; title 38 sections 317, 318.
-

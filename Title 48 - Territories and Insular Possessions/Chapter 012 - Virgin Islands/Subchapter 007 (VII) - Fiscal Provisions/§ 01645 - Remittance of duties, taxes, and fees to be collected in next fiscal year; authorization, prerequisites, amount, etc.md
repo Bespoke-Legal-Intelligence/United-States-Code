@@ -1,6 +1,6 @@
 ### §1645. Remittance of duties, taxes, and fees to be collected in next fiscal year; authorization, prerequisites, amount, etc.
 
-Beginning as soon as the government of the Virgin Islands enacts legislation establishing a fiscal year commencing on October 1 and ending on September 30, the Secretary of the Treasury, prior to the commencement of any fiscal year, shall remit to the government of the Virgin Islands the amount of duties, taxes, and fees which the Governor of the Virgin Islands, with the concurrence of the government comptroller of the Virgin Islands, has estimated will be collected in or derived from the Virgin Islands under the Revised Organic Act of the Virgin Islands \[48 U.S.C. 1541 et seq.\] during the next fiscal year, except for those sums covered directly upon collection into the treasury of the Virgin Islands. There shall be deducted from or added to the amounts so remitted, as may be appropriate, at the beginning of the fiscal year, the difference between the amount of duties, taxes, and fees actually collected during the prior fiscal year and the amount of such duties, taxes, and fees as estimated and remitted at the beginning of that prior fiscal year, including any deductions which may be required as a result of the operation of sections 1574a to 1574d <sup>1</sup> of this title.
+Beginning as soon as the government of the Virgin Islands enacts legislation establishing a fiscal year commencing on October 1 and ending on September 30, the Secretary of the Treasury, prior to the commencement of any fiscal year, shall remit to the government of the Virgin Islands the amount of duties, taxes, and fees which the Governor of the Virgin Islands, with the concurrence of the government comptroller of the Virgin Islands, has estimated will be collected in or derived from the Virgin Islands under the Revised Organic Act of the Virgin Islands \[48 U.S.C. 1541 et seq.\] during the next fiscal year, except for those sums covered directly upon collection into the treasury of the Virgin Islands. There shall be deducted from or added to the amounts so remitted, as may be appropriate, at the beginning of the fiscal year, thedifference between the amount of duties, taxes, and fees actually collected during the prior fiscal year and the amount of such duties, taxes, and fees as estimated and remitted at the beginning of that prior fiscal year, including any deductions which may be required as a result of the operation of sections 1574a to 1574d <sup>1</sup> of this title.
 
 (Pub. L. 95–348, §4(c)(2), Aug. 18, 1978, 92 Stat. 490.)
 
@@ -13,8 +13,4 @@ Section 1574d of this title, referred to in text, was repealed by Pub. L. 97–3
 #### Codification
 
 Section was not enacted as part of the Revised Organic Act of the Virgin Islands which comprises this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 7652.
 

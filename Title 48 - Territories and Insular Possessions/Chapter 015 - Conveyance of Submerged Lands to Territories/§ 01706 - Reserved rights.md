@@ -22,7 +22,3 @@ Nothing in this Act shall affect the status of lands beyond the three-mile limit
 
 This Act, referred to in subsecs. (a), (b), and (d), is Pub. L. 93–435, Oct. 5, 1974, 88 Stat. 1210, as amended, which enacted sections 1705 to 1708 of this title, amended section 1545 of this title, and repealed sections 1701 to 1703 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1545, 1707, 1708 of this title.
-

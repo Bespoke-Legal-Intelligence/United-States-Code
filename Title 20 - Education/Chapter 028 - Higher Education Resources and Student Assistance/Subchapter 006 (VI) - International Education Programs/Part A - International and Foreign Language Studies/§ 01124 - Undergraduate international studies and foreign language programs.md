@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;The Secretary is authorized to make grants to institutions of higher education, combinations of such institutions, or partnerships between nonprofit educational organizations andinstitutions of higher education, to assist such institutions, combinations or partnerships in planning, developing, and carrying out programs to improve undergraduate instruction in international studies and foreign languages. Such grants shall be awarded to institutions, combinations or partnerships seeking to create new programs or to strengthen existing programs in foreign languages, area studies, and other international fields.
+&emsp;The Secretary is authorized to make grants to institutions of higher education, combinations of such institutions, or partnerships between nonprofit educational organizations and institutions of higher education, to assist such institutions, combinations or partnerships in planning, developing, and carrying out programs to improve undergraduate instruction in international studies and foreign languages. Such grants shall be awarded to institutions, combinations or partnerships seeking to create new programs or to strengthen existing programs in foreign languages, area studies, and other international fields.
 
 #### (2) Use of funds
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(A) evidence that the applicant has conducted extensive planning prior to submitting the application;
 
-&emsp;&emsp;(B) an assurance that the faculty and administrators of all relevant departments andprograms served by the applicant are involved in ongoing collaboration with regard to achieving the stated objectives of the application;
+&emsp;&emsp;(B) an assurance that the faculty and administrators of all relevant departments and programs served by the applicant are involved in ongoing collaboration with regard to achieving the stated objectives of the application;
 
 &emsp;&emsp;(C) an assurance that students at the applicant institutions, as appropriate, will have equal access to, and derive benefits from, the program assisted under this subsection; and
 
@@ -107,8 +107,4 @@ A prior section 1124, Pub. L. 89–329, title VI, §604, as added Pub. L. 96–3
 Another prior section 1124, Pub. L. 89–329, title VI, §604, Nov. 8, 1965, 79 Stat. 1263; Pub. L. 89–752, §14, Nov. 3, 1966, 80 Stat. 1244; Pub. L. 90–575, title II, §242(b)–(d), Oct. 16, 1968, 82 Stat. 1041; Pub. L. 94–482, title I, §157, Oct. 12, 1976, 90 Stat. 2156, provided for grants to institutions of higher education for projects, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 1124a, Pub. L. 89–329, title VI, §605, as added Pub. L. 99–498, title VI, §605(2), Oct. 17, 1986, 100 Stat. 1517; amended Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 725, authorized grants for intensive summer language institutes, prior to the general amendment of this part by Pub. L. 105–244.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1103d of this title.
 

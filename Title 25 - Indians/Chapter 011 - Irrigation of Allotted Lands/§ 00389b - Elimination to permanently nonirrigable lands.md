@@ -4,7 +4,3 @@ Where the Secretary finds that any such lands are permanently nonirrigable he ma
 
 (June 22, 1936, ch. 692, §3, 49 Stat. 1804.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 389d, 389e of this title.
-

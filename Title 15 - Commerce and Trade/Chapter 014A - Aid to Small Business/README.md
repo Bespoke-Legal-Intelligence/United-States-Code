@@ -22,6 +22,13 @@
 | (c) | Supplementary reports. |
 | (d) | Referral to Congressional committees. |
 | (e) | Small business concerns owned by disadvantaged individuals and by women. |
+| [631c.](%C2%A7%2000631c%20-%20Small%20Business%20Manufacturing%20Task%20Force.md) | Small Business Manufacturing Task Force. |
+| (a) | Establishment. |
+| (b) | Chair. |
+| (c) | Duties. |
+| (d) | Meetings. |
+| (e) | Personnel matters. |
+| (f) | Report. |
 | [632\.](%C2%A7%2000632%20-%20Small-business%20concern.md) | Small-business concern. |
 | (a) | Criteria. |
 | (b) | “Agency” defined. |
@@ -40,6 +47,7 @@
 | (<i>o</i>) | Definitions of bundling of contract requirements and related terms. |
 | (p) | Definitions relating to HUBZones. |
 | (q) | Definitions relating to veterans. |
+| (r) | Definitions relating to small business lending companies. |
 | [633\.](%C2%A7%2000633%20-%20Small%20Business%20Administration.md) | Small Business Administration. |
 | (a) | Creation; principal, branch, and regional offices. |
 | (b) | Appointment of Administrator, Deputy Administrator, and Associate Administrators; duties of Administrator: preparation of data base and publication of economic indices and annual report; risk management database; computer security and education program. |
@@ -47,6 +55,8 @@
 | (d) | Creation and composition of Loan Policy Board; establishment of policies. |
 | (e) | Prohibition on provision of assistance. |
 | (f) | Certification of compliance with child support obligations. |
+| (g) | Gifts. |
+| (h) | Co-sponsorship of events. |
 | [634\.](%C2%A7%2000634%20-%20General%20powers.md) | General powers. |
 | (a) | Seal; appointment and compensation of personnel; use of other services and facilities. |
 | (b) | Powers of Administrator. |
@@ -186,7 +196,7 @@
 | (h) | Associate Administrator for Small Business Development Centers. |
 | (i) | National Small Business Development Center Advisory Board; establishment; membership; term; Chairman; advisory and counseling functions; meetings; compensation. |
 | (j) | Small business development center advisory board; establishment; chairman; conferences with director on policy. |
-| (k) | Program examination and certification. |
+| (k) | Program examination and accreditation. |
 | (<i>l</i>) | Contract authority. |
 | (m) | Prohibition on certain fees. |
 | [648a.](%C2%A7%2000648a%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93140%2C%20title%20VI%2C%20%C2%A7609%28e%29%2C%20Oct.%2028%2C%201991%2C%20105%20Stat.%20826.md) | Repealed. |
@@ -210,7 +220,17 @@
 | (h) | Contract authority. |
 | [649c.](%C2%A7%2000649c%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [649d.](%C2%A7%2000649d%20-%20Central%20information%20clearinghouse.md) | Central information clearinghouse. |
-| [650\.](%C2%A7%2000650%20-%20El%20Nino-related%20ocean%20conditions%3B%20disaster%20loan%20assistance%20to%20small%20business%20concerns%20in%20fishing%20industry.md) | El Nino-related ocean conditions; disaster loan assistance to small business concerns in fishing industry. |
+| [650\.](%C2%A7%2000650%20-%20Supervisory%20and%20enforcement%20authority%20for%20small%20business%20lending%20companies.md) | Supervisory and enforcement authority for small business lending companies. |
+| (a) | In general. |
+| (b) | Capital directive. |
+| (c) | Civil action. |
+| (d) | Revocation or suspension of loan authority. |
+| (e) | Cease and desist order. |
+| (f) | Procedure for revocation or suspension of loan authority and for cease and desist order. |
+| (g) | Removal or suspension of management official. |
+| (h) | Appointment of receiver. |
+| (i) | Possession of assets. |
+| (j) | Penalties and forfeitures. |
 | [651\.](%C2%A7%2000651%20-%20National%20small%20business%20tree%20planting%20program.md) | National small business tree planting program. |
 | (a) | Authorization of grants and contracts with States. |
 | (b) | Establishment by Administrator. |
@@ -237,7 +257,7 @@
 | [654\.](%C2%A7%2000654%20-%20Paul%20D.%20Coverdell%20drug-free%20workplace%20program.md) | Paul D. Coverdell drug-free workplace program. |
 | (a) | Definitions. |
 | (b) | Establishment. |
-| (c) | Privacy protection for employees participating in drug-free workplace program. |
+| (c) | Promotion of effective practices of eligible intermediaries. |
 | (d) | Evaluation and coordination. |
 | (e) | Contract authority. |
 | (f) | Construction. |
@@ -278,6 +298,7 @@
 | [657b.](%C2%A7%2000657b%20-%20Veterans%20programs.md) | Veterans programs. |
 | (a) | Office of Veterans Business Development. |
 | (b) | Associate Administrator for Veterans Business Development. |
+| (c) | Authorization of appropriations. |
 | [657c.](%C2%A7%2000657c%20-%20National%20Veterans%20Business%20Development%20Corporation.md) | National Veterans Business Development Corporation. |
 | (a) | Establishment. |
 | (b) | Purposes of the Corporation. |
@@ -311,12 +332,9 @@
 | (c) | Relationship to other contracting preferences. |
 | (d) | Enforcement; penalties. |
 | (e) | Contracting officer. |
+| [657g.](%C2%A7%2000657g%20-%20Participation%20in%20federally%20funded%20projects.md) | Participation in federally funded projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 662, 687 of this title; title 7 section 2000; title 10 section 2855; title 16 sections 472a, 535a, 539d; title 19 sections 2345, 2346; title 25 section 450j; title 38 section 3742; title 42 sections 7661f, 9607; title 49 sections 13709, 40110; title 50 App. section 2017<i>l.</i>
 
 
 ---
@@ -326,6 +344,7 @@ This chapter is referred to in sections 662, 687 of this title; title 7 section 
 - [&sect; 00631 - Declaration of policy](%C2%A7%2000631%20-%20Declaration%20of%20policy.md)
 - [&sect; 00631a - Congressional declaration of small business economic policy](%C2%A7%2000631a%20-%20Congressional%20declaration%20of%20small%20business%20economic%20policy.md)
 - [&sect; 00631b - Reports to Congress; state of small business](%C2%A7%2000631b%20-%20Reports%20to%20Congress%3B%20state%20of%20small%20business.md)
+- [&sect; 00631c - Small Business Manufacturing Task Force](%C2%A7%2000631c%20-%20Small%20Business%20Manufacturing%20Task%20Force.md)
 - [&sect; 00632 - Small-business concern](%C2%A7%2000632%20-%20Small-business%20concern.md)
 - [&sect; 00633 - Small Business Administration](%C2%A7%2000633%20-%20Small%20Business%20Administration.md)
 - [&sect; 00634 - General powers](%C2%A7%2000634%20-%20General%20powers.md)
@@ -364,7 +383,7 @@ This chapter is referred to in sections 662, 687 of this title; title 7 section 
 - [&sect; 00649b - Grants, contracts and cooperative agreements for international marketing programs](%C2%A7%2000649b%20-%20Grants%2C%20contracts%20and%20cooperative%20agreements%20for%20international%20marketing%20programs.md)
 - [&sect; 00649c - Authorization of appropriations](%C2%A7%2000649c%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00649d - Central information clearinghouse](%C2%A7%2000649d%20-%20Central%20information%20clearinghouse.md)
-- [&sect; 00650 - El Nino-related ocean conditions; disaster loan assistance to small business concerns in fishing industry](%C2%A7%2000650%20-%20El%20Nino-related%20ocean%20conditions%3B%20disaster%20loan%20assistance%20to%20small%20business%20concerns%20in%20fishing%20industry.md)
+- [&sect; 00650 - Supervisory and enforcement authority for small business lending companies](%C2%A7%2000650%20-%20Supervisory%20and%20enforcement%20authority%20for%20small%20business%20lending%20companies.md)
 - [&sect; 00651 - National small business tree planting program](%C2%A7%2000651%20-%20National%20small%20business%20tree%20planting%20program.md)
 - [&sect; 00652 - Central European Enterprise Development Commission](%C2%A7%2000652%20-%20Central%20European%20Enterprise%20Development%20Commission.md)
 - [&sect; 00653 - Office of Rural Affairs](%C2%A7%2000653%20-%20Office%20of%20Rural%20Affairs.md)
@@ -378,3 +397,4 @@ This chapter is referred to in sections 662, 687 of this title; title 7 section 
 - [&sect; 00657d - Federal and State Technology Partnership Program](%C2%A7%2000657d%20-%20Federal%20and%20State%20Technology%20Partnership%20Program.md)
 - [&sect; 00657e - Mentoring Networks](%C2%A7%2000657e%20-%20Mentoring%20Networks.md)
 - [&sect; 00657f - Procurement program for small business concerns owned and controlled by service-disabled veterans](%C2%A7%2000657f%20-%20Procurement%20program%20for%20small%20business%20concerns%20owned%20and%20controlled%20by%20service-disabled%20veterans.md)
+- [&sect; 00657g - Participation in federally funded projects](%C2%A7%2000657g%20-%20Participation%20in%20federally%20funded%20projects.md)

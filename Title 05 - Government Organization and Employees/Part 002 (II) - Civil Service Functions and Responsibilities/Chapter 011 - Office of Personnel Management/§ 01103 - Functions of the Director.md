@@ -36,7 +36,7 @@
 
 (3) Paragraphs (1) and (2) of this subsection shall not apply to any proposed rule or regulation which is temporary in nature and which is necessary to be implemented expeditiously as a result of an emergency.
 
-(4) Paragraphs (1) and (2) of this subsection and section 1105 of this title shall not apply to the establishment of any schedules or rates of basic pay or allowances under subpart D of part III of this title. The preceding sentence does not apply to the establishment of the procedures, methodology, or criteria used to establish such schedules, rates, or allowances.
+(4) Paragraphs (1) and (2) of this subsection and section 1105 of this title shall not apply tothe establishment of any schedules or rates of basic pay or allowances under subpart D of part III of this title. The preceding sentence does not apply to the establishment of the procedures, methodology, or criteria used to establish such schedules, rates, or allowances.
 
 (c)(1) The Office of Personnel Management shall design a set of systems, including appropriate metrics, for assessing the management of human capital by Federal agencies.
 
@@ -95,8 +95,4 @@ Pub. L. 107–296, title XIII, §1305, Nov. 25, 2002, 116 Stat. 2289, provided t
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1105, 1204, 1212, 3133 of this title.
 

@@ -76,7 +76,3 @@ Section 1033(b) of Pub. L. 104–106 provided that: “The amendments made by su
 
 For restriction on availability of funds for salaries of employees reassigned on temporary detail basis to another position without independent approval by head of employing department or agency, see section 515(3) of Pub. L. 103–333, set out as a note under section 1301 of Title 31, Money and Finance.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9510 of this title; title 15 sections 652, 7103.
-

@@ -14,7 +14,7 @@ The provisions of any Federal law enacted after October 27, 1993, for the benefi
 
 #### (d) Eligibility for consideration to become enterprise zone or general purpose foreign trade zone
 
-Notwithstanding the provisions of any other law or regulation, the Tribe shall be eligible to become, sponsor and operate (1) an “enterprise zone” pursuant to title VII of the Housing and Community Development Act of 1987 (42 U.S.C.11501–11505) or any other applicable Federal (or State) laws or regulations; or (2) a “foreign-trade zone” or “subzone” pursuant to the Foreign Trade Zones Act of 1934, as amended (19 U.S.C. 81a–81u) and the regulations thereunder, to the same extent as other federally recognized Indian Tribes.
+Notwithstanding the provisions of any other law or regulation, the Tribe shall be eligible to become, sponsor and operate (1) an “enterprise zone” pursuant to title VII of the Housing and Community Development Act of 1987 (42 U.S.C. 11501–11505) or any other applicable Federal (or State) laws or regulations; or (2) a “foreign-trade zone” or “subzone” pursuant to the Foreign Trade Zones Act of 1934, as amended (19 U.S.C. 81a–81u) and the regulations thereunder, to the same extent as other federally recognized Indian Tribes.
 
 #### (e) General applicability of State law
 
@@ -39,10 +39,6 @@ Consent is hereby given to the Tribe and the State to amend the Settlement Agree
 The Housing and Community Development Act of 1987, referred to in subsec. (d), is Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1815, as amended. Title VII of the Act is classified principally to chapter 120 (§11501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note under section 5301 of Title 42 and Tables.
 
 The Foreign Trade Zones Act of 1934, referred to in subsec. (d), probably means act June 18, 1934, ch. 590, 48 Stat. 998, as amended, popularly known as the Foreign Trade Zones Act, which is classified generally to chapter 1A (§81a et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 941n of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “specifically”.</i>
 

@@ -14,7 +14,7 @@ An order issued under this subchapter may contain authority for the board establ
 
 #### (c) Activities
 
-An order issued under this subchapter may contain authority to develop and carry out research, promotion, and information activities designed to expand, improve, or make more efficient the marketing or use of the agriculturalcommodity covered by the order in domestic and foreign markets. Section 7414(e) of this title shall apply with respect to activities authorized under this subsection.
+An order issued under this subchapter may contain authority to develop and carry out research, promotion, and information activities designed to expand, improve, or make more efficient the marketing or use of the agricultural commodity covered by the order in domestic and foreign markets. Section 7414(e) of this title shall apply with respect to activities authorized under this subsection.
 
 #### (d) Reserve funds
 
@@ -49,8 +49,4 @@ An order issued under this subchapter may contain authority to take any other ac
 &emsp;(2) is necessary to administer the order.
 
 (Pub. L. 104–127, title V, §516, Apr. 4, 1996, 110 Stat. 1041.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7413, 7414, 7416 of this title.
 

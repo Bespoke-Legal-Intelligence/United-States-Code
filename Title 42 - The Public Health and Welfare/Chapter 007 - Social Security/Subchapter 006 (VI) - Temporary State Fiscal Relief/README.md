@@ -9,4 +9,4 @@ A prior subchapter VI related to grants to States for services to the aged, blin
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00801 - Temporary State fiscal relief](%C2%A7%2000801%20-%20Temporary%20State%20fiscal%20relief.md)
+- [&sect; 00801 - Repealed](%C2%A7%2000801%20-%20Repealed.md)

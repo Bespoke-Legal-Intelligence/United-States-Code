@@ -24,7 +24,7 @@ The purposes of the Conference shall be—
 
 &emsp;In order to carry out the purposes of the Conference, the Conference shall bring together—
 
-&emsp;&emsp;(A) representatives of Federal, State, and local governments, including representatives of the General Accounting Office;
+&emsp;&emsp;(A) representatives of Federal, State, and local governments, including representatives of the Government Accountability Office;
 
 &emsp;&emsp;(B) professionals who are working in the field of children, youth, and families; and
 
@@ -34,5 +34,9 @@ The purposes of the Conference shall be—
 
 &emsp;The delegates to attend the Conference shall be selected without regard to political affiliation or past partisan activity and shall, to the best of the appointing authority's ability, be representative of the spectrum of thought in the field of children, youth, and families.
 
-(Pub. L. 101–501, title IX, §983, Nov. 3, 1990, 104 Stat. 1280.)
+(Pub. L. 101–501, title IX, §983, Nov. 3, 1990, 104 Stat. 1280; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+#### Amendments
+
+2004—Subsec. (c)(1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

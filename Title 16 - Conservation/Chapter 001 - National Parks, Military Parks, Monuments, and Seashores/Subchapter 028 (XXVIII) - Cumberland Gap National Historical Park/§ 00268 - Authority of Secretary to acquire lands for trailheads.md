@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-Notwithstanding this subchapter, the Secretary of the Interior is authorized to acquire by donation, purchase with donated or appropriated funds, or exchange not to exceed 10 acres of land or interests in land, which shall consist of those necessary lands for the establishment of trailheads to be located at White Rocks and Chadwell Gap.
+Notwithstanding the Act of June 11, 1940 (16 U.S.C. 261 et seq.), the Secretary of the Interior is authorized to acquire by donation, purchase with donated or appropriated funds, or exchange not to exceed 10 acres of land or interests in land, which shall consist of those necessary lands for the establishment of trailheads to be located at White Rocks and Chadwell Gap.
 
 #### (b) Administration
 
@@ -10,7 +10,11 @@ Lands and interests in lands acquired pursuant to subsection (a) of this section
 
 (Pub. L. 104–333, div. I, title II, §216, Nov. 12, 1996, 110 Stat. 4112.)
 
+#### References in Text
+
+The act of June 11, 1940, referred to in subsec. (a), is act June 11, 1940, ch. 304, 54 Stat. 262, as amended, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
+
 #### Codification
 
-Section was enacted as part the Omnibus Parks and Public Lands Management Act of 1996, and not as part of act June 11, 1940, ch. 304, 54 Stat. 262, which comprises this subchapter.
+Section was enacted as part of the Omnibus Parks and Public Lands Management Act of 1996, and not as part of act June 11, 1940, ch. 304, 54 Stat. 262, which comprises this subchapter.
 

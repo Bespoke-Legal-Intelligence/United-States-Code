@@ -4,7 +4,3 @@ The Secretaries of the Departments of Interior and Agriculture, for the purpose 
 
 (Apr. 9, 1912, ch. 74, §1, 37 Stat. 80; Apr. 16, 1914, ch. 58, 38 Stat. 345.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 52 of this title.
-

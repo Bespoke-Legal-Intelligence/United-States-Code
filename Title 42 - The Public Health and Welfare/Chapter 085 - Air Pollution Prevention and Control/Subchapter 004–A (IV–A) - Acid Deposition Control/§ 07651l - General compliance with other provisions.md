@@ -4,7 +4,3 @@ Except as expressly provided, compliance with the requirements of this subchapte
 
 (July 14, 1955, ch. 360, title IV, §413, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2625.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7651i of this title.
-

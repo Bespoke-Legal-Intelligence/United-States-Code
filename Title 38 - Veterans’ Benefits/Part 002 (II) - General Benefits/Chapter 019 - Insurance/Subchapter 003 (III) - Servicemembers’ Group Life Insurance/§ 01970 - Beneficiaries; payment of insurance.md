@@ -16,7 +16,7 @@ Sixth, if none of the above, to other next of kin of such member or former membe
 
 (b) If any person otherwise entitled to payment under this section does not make claim therefor within one year after the death of the member or former member, or if payment to such person within that period is prohibited by Federal statute or regulation, payment may be made in the order of precedence as if such person had predeceased the member or former member, and any such payment shall be a bar to recovery by any other person.
 
-(c) If, within two years after the death of the member or former member, no claim for payment has been filed by any person entitled under the order of precedence set forth in this section, and neither the Secretary nor the administrative office established by the insurance company or companies pursuant to section 1966(b) of this title has received any notice that any such claim will be made, payment may be made to a claimant as may in the judgment of the Secretary be equitably entitled thereto, and such payment shall be a bar to recovery by any other person.
+(c) If, within two years after the death of the member or former member, no claim for payment has been filed by any person entitled under the order of precedence set forth in this section, and neither the Secretary nor the administrative office established by the insurance company or companies pursuant to section 1966(b) of this title has received any notice that any suchclaim will be made, payment may be made to a claimant as may in the judgment of the Secretary be equitably entitled thereto, and such payment shall be a bar to recovery by any other person.
 
 (d) The member may elect settlement of insurance under this subchapter either in a lump sum or in thirty-six equal monthly installments. If no such election is made by the member the beneficiary or beneficiaries may elect settlement either in a lump sum or in thirty-six equal monthly installments. If the member has elected settlement in a lump sum, the beneficiary or beneficiaries may elect settlement in thirty-six equal monthly installments.
 
@@ -26,7 +26,7 @@ Sixth, if none of the above, to other next of kin of such member or former membe
 
 (g) Any payments due or to become due under Servicemembers’ Group Life Insurance or Veterans’ Group Life Insurance made to, or on account of, an insured or a beneficiary shall be exempt from taxation, shall be exempt from the claims of creditors, and shall not be liable to attachment, levy, or seizure by or under any legal or equitable process whatever, either before or after receipt by the beneficiary. The preceding sentence shall not apply to (1) collection of amounts not deducted from the member's pay, or collected from him by the Secretary concerned under section 1969(a) of this title, (2) levy under subchapter D of chapter 64 of the Internal Revenue Code of 1986 (26 U.S.C. 6331 et seq.) (relating to the seizure of property for collection of taxes), and (3) the taxation of any property purchased in part or wholly out of such payments.
 
-(h) Insurance payable under this subchapter may not be paid in any amount to the extent that such amount would escheat to a State. Payment of insurance under this subchapter may not be made to the estate of the insured orthe estate of any beneficiary of the insured unless it is affirmatively shown that any amount to be paid will not escheat to a State. Any amount to be paid under this subchapter shall be reduced to the extent necessary to comply with this subsection.
+(h) Insurance payable under this subchapter may not be paid in any amount to the extent that such amount would escheat to a State. Payment of insurance under this subchapter may not be made to the estate of the insured or the estate of any beneficiary of the insured unless it is affirmatively shown that any amount to be paid will not escheat to a State. Any amount to be paid under this subchapter shall be reduced to the extent necessary to comply with this subsection.
 
 (i) Any amount of insurance in force on an insurable dependent of a member under this subchapter on the date of the dependent's death shall be paid, upon the establishment of a valid claim therefor, to the member or, in the event of the member's death before payment to the member can be made, then to the person or persons entitled to receive payment of the proceeds of insurance on the member's life under this subchapter.
 
@@ -91,8 +91,4 @@ Section 401(b) of Pub. L. 97–306 provided that: “The amendments made by subs
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub. L. 91–291, set out as a note under section 1317 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1977 of this title.
 

@@ -26,6 +26,8 @@ There is hereby established the Malcolm Baldrige National Quality Award, which s
 
 &emsp;(E) Education providers.
 
+&emsp;(F) Nonprofit organizations.
+
 (2) The Secretary may at any time expand, subdivide, or otherwise modify the list of categories within which awards may be made as initially in effect under paragraph (1), and may establish separate awards for other organizations including units of government, upon a determination that the objectives of this section would be better served thereby; except that any such expansion, subdivision, modification, or establishment shall not be effective unless and until the Secretary has submitted a detailed description thereof to the Congress and a period of 30 days has elapsed since that submission.
 
 (3) Not more than two awards may be made within any subcategory in any year, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government (and no award shall be made within any category or subcategory if there are no qualifying enterprises in that category or subcategory).
@@ -58,9 +60,11 @@ The Secretary is authorized to seek and accept gifts from public and private sou
 
 The Secretary shall prepare and submit to the President and the Congress, within 3 years after August 20, 1987, a report on the progress, findings, and conclusions of activities conducted pursuant to this section along with recommendations for possible modifications thereof.
 
-(Pub. L. 96–480, §17, formerly §16, as added Pub. L. 100–107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §17 and amended Pub. L. 100–418, title V, §§5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, 102 Stat. 1433, 1438; Pub. L. 102–245, title III, §305, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §3, Oct. 30, 1998, 112 Stat. 2935.)
+(Pub. L. 96–480, §17, formerly §16, as added Pub. L. 100–107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §17 and amended Pub. L. 100–418, title V, §§5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, 102 Stat. 1433, 1438; Pub. L. 102–245, title III, §305, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §3, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 108–320, §1, Oct. 5, 2004, 118 Stat. 1213.)
 
 #### Amendments
+
+2004—Subsec. (c)(1)(F). Pub. L. 108–320 added subpar. (F).
 
 1998—Subsec. (c)(1)(D), (E). Pub. L. 105–309, §3(b), added subpars. (D) and (E).
 
@@ -84,7 +88,7 @@ Findings.—The Congress finds and declares that—
 
 &emsp;“(3) strategic planning for quality and quality improvement programs, through a commitment to excellence in manufacturing and services, are becoming more and more essential to the well-being of our Nation's economy and our ability to compete effectively in the global marketplace;
 
-&emsp;“(4) improved management understanding of the factory floor, worker involvement in quality, and greater emphasis on statistical process control can lead to dramatic improvements in the cost and quality of manufactured products;
+&emsp;“(4) improved management understanding of the factory floor, worker involvement in quality, andgreater emphasis on statistical process control can lead to dramatic improvements in the cost and quality of manufactured products;
 
 &emsp;“(5) the concept of quality improvement is directly applicable to small companies as well as large, to service industries as well as manufacturing, and to the public sector as well as private enterprise;
 
@@ -105,8 +109,4 @@ Findings.—The Congress finds and declares that—
 “(b)
 
 Purpose.—It is the purpose of this Act \[enacting section 3711a of this title, amending section 3708 of this title, and enacting provisions set out as a note under section 3701 of this title\] to provide for the establishment and conduct of a national quality improvement program under which (1) awards are given to selected companies and other organizations in the United States that practice effective quality management and as a result make significant improvements in the quality of their goods and services, and (2) information is disseminated about the successful strategies and programs.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3708 of this title.
 

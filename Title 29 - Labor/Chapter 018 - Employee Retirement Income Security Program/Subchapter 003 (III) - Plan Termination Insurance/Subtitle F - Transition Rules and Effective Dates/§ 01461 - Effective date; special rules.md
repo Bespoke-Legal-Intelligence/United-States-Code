@@ -14,7 +14,7 @@
 
 > The corporation shall not pay benefits guaranteed under this subchapter with respect to a plan described in the preceding sentence unless the corporation finds substantial evidence that the plan was terminated for a reasonable business purpose and not for the purpose of obtaining the payment of benefits by the corporation under this subchapter or for the purpose of avoiding the liability which might be imposed under subtitle D of this subchapter if the plan terminated on or after September 2, 1974. The provisions of subtitle D of this subchapter do not apply in the case of such a plan which terminates before September 2, 1974. For purposes of determining whether a plan is a plan described in paragraph (2), the provisions of section 1348 of this title shall not apply, but the corporation shall make the determination on the basis of the date on which benefits ceased to accrue or on any other reasonable basis consistent with the purposes of this subsection.
 
-(c)(1) Except as provided in paragraphs (2), (3), and (4), the corporation shall not pay benefits guaranteed under this subchapter with respect to a multiemployer plan which terminates before August 1, 1980. Whenever the corporation exercises the authority granted under paragraph (2) or (3), the corporation shall notify the Committee on Education and Labor and the Committee on Ways and Means of the House of Representatives, and the Committee on Labor and Human Resources and the Committee on Finance of the Senate.
+(c)(1) Except as provided in paragraphs (2), (3), and (4), the corporation shall not pay benefits guaranteed under this subchapter with respect to a multiemployer plan which terminates before August 1, 1980. Whenever the corporation exercises the authority granted under paragraph (2) or (3), the corporation shall notify the Committee on Education and Labor and the Committee on Ways and Means of the House of Representatives, and the Committee on Labor and Public Welfare and the Committee on Finance of the Senate.
 
 (2) The corporation may, in its discretion, pay benefits guaranteed under this subchapter with respect to a multiemployer plan which terminates after September 2, 1974 and before August 1, 1980, if—
 
@@ -38,7 +38,7 @@
 
 &emsp;(C) may not make any payments with respect to benefits guaranteed under this subchapter in connection with such a plan which are derived, directly or indirectly, from amounts borrowed under section 1305(c) of this title, and
 
-&emsp;(D) shall review from time to time payments made under the authority granted to it by paragraphs (2) and (3), and reduce or terminate such payments to the extent necessary to avoid jeopardizing the ability of the corporation to make payments of benefits guaranteed under this subchapter in connection with multiemployer plans which terminate after July 31, 1980, without increasing premium rates for such plans.
+&emsp;(D) shall review from time to time payments made under the authority granted to it by paragraphs (2) and (3), and reduce or terminatesuch payments to the extent necessary to avoid jeopardizing the ability of the corporation to make payments of benefits guaranteed under this subchapter in connection with multiemployer plans which terminate after July 31, 1980, without increasing premium rates for such plans.
 
 (d) Notwithstanding any other provision of this subchapter, guaranteed benefits payable by the corporation pursuant to its discretionary authority under this section shall continue to be paid at the level guaranteed under section 1322 of this title, without regard to any limitation on payment under subparagraph (C) or (D) of subsection (c)(4) of this section.
 
@@ -166,9 +166,7 @@ Subsecs. (d), (e). Pub. L. 95–214, §1(b), added subsecs. (d) and (e).
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
-Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979.
-
-Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1989 Amendment
 
@@ -190,5 +188,5 @@ Section 405 of Pub. L. 96–364 provided that:
 
 “(a) Except as otherwise provided in the amendments made by this Act \[see Short Title of 1980 Amendment note set out under section 1001 of this title\] and in subsection (b), if the way in which any such amendment will apply to a particular circumstance is to be set forth in regulations, any reasonable action during the period before such regulations take effect shall be treated as complying with such regulations for such period.
 
-“(b) Subsection (a) shall not apply to any action which violates any instruction issued, or temporary rule prescribed, by the agency having jurisdiction but only if such instruction or rule was published, or furnished to the party taking the action, before such action was taken.”
+“(b) Subsection (a) shall not apply to any action which violates any instruction issued, or temporaryrule prescribed, by the agency having jurisdiction but only if such instruction or rule was published, or furnished to the party taking the action, before such action was taken.”
 

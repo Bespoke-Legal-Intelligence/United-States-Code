@@ -16,7 +16,3 @@ Section is from act Mar. 3, 1883, which contained an additional provision relati
 
 General Land Office abolished and functions transferred to Bureau of Land Management by Reorg. Plan No. 3 of 1946, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, and regulations thereunder. See note set out under section 1 of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 77 of this title.
-

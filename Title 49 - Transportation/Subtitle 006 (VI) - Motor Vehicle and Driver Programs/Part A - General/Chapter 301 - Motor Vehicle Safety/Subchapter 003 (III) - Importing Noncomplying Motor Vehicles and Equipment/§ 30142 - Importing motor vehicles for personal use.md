@@ -60,7 +60,3 @@ In subsection (b)(1), the word “compliance” is substituted for “conformity
 
 In subsection (b)(1)(B), before subclause (i), the word “conditions” is omitted as being included in “terms”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30112, 30146, 30147, 30165, 32902 of this title.
-

@@ -36,7 +36,7 @@ Pub. L. 97–295, §4(35)(B), Oct. 12, 1982, 96 Stat. 1307, substituted “1651�
 
 1981—Pub. L. 97–72, title III, §302(b)(2), Nov. 3, 1981, 95 Stat. 1059, substituted “Housing and Small Business Loans” for “Home, Condominium, and Mobile Home Loans” in item for chapter 37.
 
-1980—Pub. L. 96–466, title I, §101(b), Oct. 17, 1980, 94 Stat. 2186, substituted “Training and Rehabilitation forVeterans with Service-Connected Disabilities . . . 1,500” for “Vocational Rehabilitation . . . 1501” in item for chapter 31.
+1980—Pub. L. 96–466, title I, §101(b), Oct. 17, 1980, 94 Stat. 2186, substituted “Training and Rehabilitation for Veterans with Service-Connected Disabilities . . . 1,500” for “Vocational Rehabilitation . . . 1501” in item for chapter 31.
 
 1976—Pub. L. 94–502, title III, §309(b), title IV, §405, Oct. 15, 1976, 90 Stat. 2391, 2397, added item for chapter 32 and substituted “Survivors’ and Dependents’ Educational Assistance” for “War Orphans’ and Widows’ Education Assistance” in item for chapter 35.
 
@@ -53,10 +53,6 @@ Pub. L. 93–508, title IV, §404(b), Dec. 3, 1974, 88 Stat. 1600, added item fo
 1966—Pub. L. 89–358, §§4(c), 6(b), Mar. 3, 1966, 80 Stat. 23, 27, added item for chapter “34. Veterans’ Educational Assistance . . . 1650”, struck out item for chapter “33. Education of Korean Conflict Veterans . . . 1601” and added item for chapter 36; and substituted “Job Counseling and Employment Placement Service for Veterans” for “Unemployment Benefits for Veterans” in item for chapter 41.
 
 1965—Pub. L. 89–50, §1(b), June 24, 1965, 79 Stat. 173, struck out item for chapter 43 “Mustering-Out Payments”.
-
-#### Part Referred to in Other Sections
-
-This part is referred to in title 42 section 3013.
 
 
 ---

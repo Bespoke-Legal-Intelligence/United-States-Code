@@ -1,6 +1,6 @@
 ### §731b. Organization of a government pursuant to a constitution
 
-Fully recognizing the principle of government by consent, sections 731b to 731e of this title are now adopted in the nature of a compact so that the people of Puerto Rico may organize a government pursuant to a constitution of their own adoption.
+Fully recognizing the principle of government by consent, sections 731b to 731e of this title arenow adopted in the nature of a compact so that the people of Puerto Rico may organize a government pursuant to a constitution of their own adoption.
 
 (July 3, 1950, ch. 446, §1, 64 Stat. 319.)
 
@@ -11,8 +11,4 @@ Section was not enacted as part of the Puerto Rican Federal Relations Act which 
 #### Repeals
 
 Section 6 of act July 3, 1950 provided that: “All laws or parts of laws inconsistent with this Act \[enacting sections 731b to 731e of this title\] are hereby repealed.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 731c, 731d of this title.
 

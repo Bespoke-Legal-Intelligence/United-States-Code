@@ -34,7 +34,3 @@
 
 (Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 20.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6383, 6384, 6386 of this title; title 2 section 1371.
-

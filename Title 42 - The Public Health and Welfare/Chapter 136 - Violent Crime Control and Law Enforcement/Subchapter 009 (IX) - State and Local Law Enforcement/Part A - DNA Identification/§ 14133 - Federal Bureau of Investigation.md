@@ -40,17 +40,15 @@
 
 > shall be fined not more than $100,000.
 
-(2) A person who, without authorization, knowingly obtains DNA samples or individually identifiable DNA information indexed in a database created or maintained by any Federal law enforcement agency shall be fined not more than $100,000.
+(2) A person who, without authorization, knowingly obtains DNA samples or individually identifiable DNA information indexed in a database created or maintained by any Federal law enforcement agency shall be fined not more than $250,000, or imprisoned for a period of not more than one year, or both.
 
-(Pub. L. 103–322, title XXI, §210305, Sept. 13, 1994, 108 Stat. 2070; Pub. L. 106–546, §8(c), Dec. 19, 2000, 114 Stat. 2735.)
+(Pub. L. 103–322, title XXI, §210305, Sept. 13, 1994, 108 Stat. 2070; Pub. L. 106–546, §8(c), Dec. 19, 2000, 114 Stat. 2735; Pub. L. 108–405, title II, §203(e)(1), Oct. 30, 2004, 118 Stat. 2270.)
 
 #### Amendments
 
+2004—Subsec. (c)(2). Pub. L. 108–405 substituted “$250,000, or imprisoned for a period of not more than one year, or both” for “$100,000”.
+
 2000—Subsec. (a)(1)(A). Pub. L. 106–546 substituted “semiannual” for “, at regular intervals of not to exceed 180 days,”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14134, 14214 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “statutes”.</i>
 

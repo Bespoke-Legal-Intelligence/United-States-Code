@@ -34,7 +34,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Effective Date of 1958 Amendment
 
-Section 1505(2) of Pub. L. 85–726, title XV, Aug. 23, 1958, 72 Stat. 810, provided that the amendment made by Pub. L. 85–726 is effective on 60th day following dateon which Administrator of Federal Aviation Agency \[Federal Aviation Administration\] first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office on Oct. 31, 1958.
+Section 1505(2) of Pub. L. 85–726, title XV, Aug. 23, 1958, 72 Stat. 810, provided that the amendment made by Pub. L. 85–726 is effective on 60th day following date on which Administrator of Federal Aviation Agency \[Federal Aviation Administration\] first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office on Oct. 31, 1958.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -63,8 +63,4 @@ Ex. Ord. No. 7521, Dec. 21, 1936, 1 F.R. 2527, provided:
 1\. The Coast Guard, operating under the direction of the Secretary of the Treasury, is hereby directed to assist in keeping open to navigation by means of ice-breaking operations, in so far as practicable and as the exigencies may require, channels and harbors in accordance with the reasonable demands of commerce; and to use for that purpose such vessels subject to its control and jurisdiction or which may be made available to it under paragraph 2 hereof as are necessary and are reasonably suitable for such operations.
 
 2\. The Secretary of War \[Army\], the Secretary of the Navy, and the Secretary of Commerce are hereby directed to cooperate with the Coast Guard in such ice-breaking operations, and to furnish the Coast Guard, upon the request of the Commandant thereof, for this service such vessels under their jurisdiction and control as in the opinion of the Commandant, with the concurrence of the head of the Department concerned, are available and are, or may readily be made, suitable for this service.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 84 of this title.
 

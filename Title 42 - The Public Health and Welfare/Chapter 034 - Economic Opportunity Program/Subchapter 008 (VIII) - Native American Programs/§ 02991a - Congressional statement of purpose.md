@@ -2,7 +2,7 @@
 
 The purpose of this subchapter is to promote the goal of economic and social self-sufficiency for American Indians, Native Hawaiians, other Native American Pacific Islanders (including American Samoan Natives), and Alaska Natives.
 
-(Pub. L. 88–452, title VIII, §802, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324; amended Pub. L. 100–175, title V, §§504(b)(1), 506(c)(1), Nov.29, 1987, 101 Stat. 975, 978; Pub. L. 102–375, title VIII, §822(21), Sept. 30, 1992, 106 Stat. 1300; Pub. L. 103–171, §5(1), Dec. 2, 1993, 107 Stat. 1991.)
+(Pub. L. 88–452, title VIII, §802, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324; amended Pub. L. 100–175, title V, §§504(b)(1), 506(c)(1), Nov. 29, 1987, 101 Stat. 975, 978; Pub. L. 102–375, title VIII, §822(21), Sept. 30, 1992, 106 Stat. 1300; Pub. L. 103–171, §5(1), Dec. 2, 1993, 107 Stat. 1991.)
 
 #### Prior Provisions
 

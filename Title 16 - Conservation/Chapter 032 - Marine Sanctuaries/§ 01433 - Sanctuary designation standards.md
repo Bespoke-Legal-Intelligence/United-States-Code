@@ -112,7 +112,7 @@ Subsec. (b)(3). Pub. L. 106–513, §5(b)(2), struck out heading and text of par
 
 Subsec. (b)(1)(A). Pub. L. 102–587, §2103(b)(1), inserted “maintenance of critical habitat of endangered species,” after “assemblages,”.
 
-Subsec. (b)(3). Pub. L. 102–587, §2103(b)(2), substituted “1434(a)(2)” for “1434(a)(1)”, inserted “, governmental,” after “other commercial” and after “any commercial”,and inserted at end: “The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.”
+Subsec. (b)(3). Pub. L. 102–587, §2103(b)(2), substituted “1434(a)(2)” for “1434(a)(1)”, inserted “, governmental,” after “other commercial” and after “any commercial”, and inserted at end: “The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.”
 
 1984—Pub. L. 98–498 amended section generally, substituting provisions relating to sanctuary designation standards for provisions relating to penalties. See section 1437(b) of this title.
 
@@ -142,10 +142,6 @@ Gulf of the Farallones National Marine Sanctuary (former Point Reyes-Farallon Is
 
 Hawaiian Islands Humpback Whale National Marine Sanctuary.—15 C.F.R. part 922, subpart Q; Pub. L. 102–587, title II, subtitle C, §§2301–2308, Nov. 4, 1992, 106 Stat. 5055–5059; Pub. L. 104–283, §7, Oct. 11, 1996, 110 Stat. 3365.
 
-Key Largo National Marine Sanctuary.—41 F.R. 2379, Jan. 16, 1976; 48 F.R. 55118, Dec. 9, 1983.
-
-Looe Key National Marine Sanctuary.—46 F.R. 7949, Jan. 26, 1981.
-
 MONITOR National Marine Sanctuary.—40 F.R. 5349, Feb. 5, 1975; 40 F.R. 21706, May 19, 1975; 15 C.F.R. part 922, subpart F.
 
 Monterey Bay National Marine Sanctuary.—57 F.R. 43310, Sept. 18, 1992; 15 C.F.R. part 922, subpart M; Pub. L. 100–627, title II, §205(a)(3), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–368, title I, §102, Sept. 23, 1992, 106 Stat. 1119; Pub. L. 102–587, title II, §2203, Nov. 4, 1992, 106 Stat. 5048.
@@ -157,8 +153,4 @@ Thunder Bay National Marine Sanctuary and Underwater Preserve.—65 F.R. 39042, 
 #### Northwest Straits
 
 Pub. L. 104–283, §10, Oct. 11, 1996, 110 Stat. 3368, provided that: “No designation of an area in the Northwest Straits in the State of Washington as a national marine sanctuary under the National Marine Sanctuaries Act \[16 U.S.C. 1431 et seq.\] shall take effect unless that designation is specifically authorized by a law enacted after the date of enactment of this Act \[Oct. 11, 1996\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1434 of this title.
 

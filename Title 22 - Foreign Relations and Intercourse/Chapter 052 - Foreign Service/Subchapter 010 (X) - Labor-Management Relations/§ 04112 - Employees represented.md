@@ -8,7 +8,3 @@ The employees of the Department shall constitute a single and separate worldwide
 
 (Pub. L. 96–465, title I, §1012, Oct. 17, 1980, 94 Stat. 2135.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4113 of this title.
-

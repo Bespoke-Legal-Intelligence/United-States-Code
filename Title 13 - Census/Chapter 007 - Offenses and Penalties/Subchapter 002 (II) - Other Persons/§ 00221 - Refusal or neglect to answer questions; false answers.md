@@ -10,7 +10,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 13, U.S.C., 1952 ed., §§122, 209, and section 1442 of title 42, U.S.C., 1952 ed., The Public Healthand Welfare (June 18, 1929, ch. 28, §9, 46 Stat. 23; June 19, 1948, ch. 502, §2, 62 Stat. 479; July 15, 1949, ch. 338, title VI, §607, 63 Stat. 441).
+Based on title 13, U.S.C., 1952 ed., §§122, 209, and section 1442 of title 42, U.S.C., 1952 ed., The Public Health and Welfare (June 18, 1929, ch. 28, §9, 46 Stat. 23; June 19, 1948, ch. 502, §2, 62 Stat. 479; July 15, 1949, ch. 338, title VI, §607, 63 Stat. 441).
 
 Section consolidates the first paragraph of section 209 of title 13, U.S.C., 1952 ed., which section related to the decennial censuses of population, agriculture, etc. (see subchapter II of chapter 5 of this revised title), with that part of section 122 of such title which made such section 209 applicable to the quinquennial censuses of manufactures, the mineral industries, and other businesses (see subchapter I of chapter 5 of this revised title) and applicable to the surveys provided for by section 121(b) of such title (see subchapter IV of chapter 5 of this revised title), and that part of subsection (b) of section 1442 of title 42, U.S.C., 1952 ed., which made such section 209 applicable to the decennial censuses of housing (see subchapter II of chapter 5 of this revised title). For remainder of sections 122 and 209 of title 13, U.S.C., 1952 ed., and of section 1442 of title 42, U.S.C., 1952 ed. (which section has been transferred in its entirety to this revised title), see Distribution Table.
 
@@ -35,8 +35,4 @@ Subsec. (c). Pub. L. 94–521, §13(3), added subsec. (c).
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as a note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 225 of this title.
 

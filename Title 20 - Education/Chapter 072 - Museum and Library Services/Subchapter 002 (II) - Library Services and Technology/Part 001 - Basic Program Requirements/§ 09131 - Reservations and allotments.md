@@ -52,7 +52,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of this subsection and using funds allotted for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau under this subsection, the Director shall award grants to the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this subchapter in accordance with the provisions of this subchapter that the Director determines are not inconsistent with this subparagraph.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this subsection and using funds allotted for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau under this subsection, the Director shall award grants tothe United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this subchapter in accordance with the provisions of this subchapter that the Director determines are not inconsistent with this subparagraph.
 
 #### (ii) Award basis
 
@@ -64,7 +64,7 @@
 
 #### (4) Data
 
-&emsp;The population of each State and of all the States shall be determined by the Director onthe basis of the most recent data available from the Bureau of the Census.
+&emsp;The population of each State and of all the States shall be determined by the Director on the basis of the most recent data available from the Bureau of the Census.
 
 (Pub. L. 94–462, title II, §221, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–297; amended Pub. L. 105–128, §4, Dec. 1, 1997, 111 Stat. 2548; Pub. L. 108–81, title II, §204, Sept. 25, 2003, 117 Stat. 997.)
 
@@ -107,8 +107,4 @@ Subsec. (a)(1)(B). Pub. L. 105–128, §4(2), substituted “3.75 percent” for
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L. 108–81, set out as a note under section 9101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9161, 9162 of this title.
 

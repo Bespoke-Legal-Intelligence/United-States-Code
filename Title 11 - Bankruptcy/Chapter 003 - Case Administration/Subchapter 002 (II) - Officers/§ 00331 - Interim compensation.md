@@ -12,7 +12,3 @@ Section 331 permits trustees and professional persons to apply to the court not 
 
 This section will apply to professionals such as auctioneers and appraisers only if they are not paid on a per job basis.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 330 of this title.
-

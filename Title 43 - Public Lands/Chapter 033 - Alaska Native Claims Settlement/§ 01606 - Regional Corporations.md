@@ -32,7 +32,7 @@ For purposes of this chapter, the State of Alaska shall be divided by the Secret
 
 #### (b) Region mergers; limitation
 
-The Secretary may, on request made within one year of December 18, 1971, by representative and responsible leaders of the Native associations listed in subsection (a) of this section, merge two or more of the twelve regions: <i>Provided</i>, That the twelve regions may not be reduced to less than seven, and there may be no fewer than seven Regional Corporations.
+The Secretary may, on request made within one year of December 18, 1971, by representativeand responsible leaders of the Native associations listed in subsection (a) of this section, merge two or more of the twelve regions: <i>Provided</i>, That the twelve regions may not be reduced to less than seven, and there may be no fewer than seven Regional Corporations.
 
 #### (c) Establishment of thirteenth region for nonresident Natives; majority vote; Regional Corporation for thirteenth region
 
@@ -108,7 +108,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;&emsp;&emsp;(I) Natives who have attained the age of sixty-five;
 
-&emsp;&emsp;&emsp;(II) other identifiable groups of Natives or identifiable groups of descendants ofNatives defined in terms of general applicability and not in any way by reference to place of residence or family;
+&emsp;&emsp;&emsp;(II) other identifiable groups of Natives or identifiable groups of descendants of Natives defined in terms of general applicability and not in any way by reference to place of residence or family;
 
 &emsp;&emsp;&emsp;(III) Settlement Trusts; or
 
@@ -222,7 +222,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;&emsp;(I) a share of Replacement Common Stock that carries such right, or
 
-&emsp;&emsp;(II) a share of Replacement Common Stock that does not carry such right together with a separate, non-voting security that represents only such right.
+&emsp;&emsp;(II) a share of Replacement Common Stock that does not carry such right together witha separate, non-voting security that represents only such right.
 
 &emsp;(iii) Replacement Common Stock issued in exchange for a class of Settlement Common Stock carrying greater per share voting power than Settlement Common Stock issued pursuant to subsections (g)(1)(A) and (g)(1)(B) of this section shall carry such voting power and be subject to such other terms as may be provided in the amendment to the articles of incorporation authorizing the issuance of such class of Settlement Common Stock.
 
@@ -232,7 +232,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;&emsp;(i) a restriction denying voting rights to any holder of Replacement Common Stock who is not a Native or a descendant of a Native;
 
-&emsp;&emsp;(ii) a restriction granting the Regional Corporation, or the Regional Corporation and members of the shareholder's immediate family who are Natives or descendants of Natives, the first right to purchase, on reasonable terms, the Replacement CommonStock of the shareholder prior to the sale or transfer of such stock (other than a transfer by will or intestate succession) to any other party, including a transfer in satisfaction of a lien, writ of attachment, judgment execution, pledge, or other encumbrance; and
+&emsp;&emsp;(ii) a restriction granting the Regional Corporation, or the Regional Corporation and members of the shareholder's immediate family who are Natives or descendants of Natives, the first right to purchase, on reasonable terms, the Replacement Common Stock of the shareholder prior to the sale or transfer of such stock (other than a transfer by will or intestate succession) to any other party, including a transfer in satisfaction of a lien, writ of attachment, judgment execution, pledge, or other encumbrance; and
 
 &emsp;&emsp;(iii) any other term, restriction, limitation, or provision authorized by the laws of the State.
 
@@ -322,7 +322,7 @@ During the five years following December 18, 1971, not less than 10% of all corp
 
 #### (k) Distributions among Village Corporations; computation of amount
 
-Funds distributed among the Village Corporations shall be divided among them according to the ratio that the number of shares of stock registered on the books of the Regional Corporation in the names of residents of each village bears to the number of shares of stock registered in the names of residents in all villages.
+Funds distributed among the Village Corporations shall be divided among them according tothe ratio that the number of shares of stock registered on the books of the Regional Corporation in the names of residents of each village bears to the number of shares of stock registered in the names of residents in all villages.
 
 #### (<i>l</i>) Distributions to Village Corporations; village plan: withholding funds until submission of plan for use of money; joint ventures and joint financing of projects; disagreements, arbitration of issues as provided in articles of Regional Corporation
 
@@ -330,7 +330,7 @@ Funds distributed to a Village Corporation may be withheld until the village has
 
 #### (m) Distributions among Village Corporations in a region; computation of dividends for nonresidents of village; financing regional projects with equitably withheld dividends and Village Corporation funds
 
-When funds are distributed among Village Corporations in a region, an amount computed asfollows shall be distributed as dividends to the class of stockholders who are not residents of those villages: The amount distributed as dividends shall bear the same ratio to the amount distributed among the Village Corporations that the number of shares of stock registered on the books of the Regional Corporation in the names of nonresidents of villages bears to the number of shares of stock registered in the names of village residents: <i>Provided</i>, That an equitable portion of the amount distributed as dividends may be withheld and combined with Village Corporation funds to finance projects that will benefit the region generally.
+When funds are distributed among Village Corporations in a region, an amount computed as follows shall be distributed as dividends to the class of stockholders who are not residents of those villages: The amount distributed as dividends shall bear the same ratio to the amount distributed among the Village Corporations that the number of shares of stock registered on the books of the Regional Corporation in the names of nonresidents of villages bears to the number of shares of stock registered in the names of village residents: <i>Provided</i>, That an equitable portion of the amount distributed as dividends may be withheld and combined with Village Corporation funds to finance projects that will benefit the region generally.
 
 #### (n) Projects for Village Corporations
 
@@ -387,10 +387,6 @@ Subsec. (h)(3). Pub. L. 96–487, §1401(a), substituted provisions that provide
 #### Effective Date of 1995 Amendment
 
 Section 109(b) of Pub. L. 104–42 provided that: “This amendment \[amending this section\] shall be effective as of the date of enactment of the Alaska Native Claims Settlement Act, Public Law 92–203 (43 U.S.C. 1601, et seq.) \[Dec. 18, 1971\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1602, 1604, 1605, 1607, 1618, 1620, 1621, 1625, 1626, 1627, 1628, 1629, 1629b, 1629c, 1629d, 1629e, 1636 of this title; title 16 section 3181; title 25 section 1903; title 26 section 646; title 42 section 1382b; title 50 App. section 1989c–1.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

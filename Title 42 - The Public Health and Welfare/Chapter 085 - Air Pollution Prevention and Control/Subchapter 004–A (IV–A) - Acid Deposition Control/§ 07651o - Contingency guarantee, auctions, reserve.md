@@ -72,7 +72,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 &emsp;&emsp;(D) has not received (within 180 days after submitting offers to purchase under subparagraph (C)) an acceptance of the offer to purchase the required allowances,
 
-> &emsp;shall, within 30 days after submission of such application, be entitled to receive the Administrator's written guarantee (subject to the eligibility requirements set forth in paragraph (4)) that such required allowances will be made available for purchase from the Direct Sale Subaccount established under this subsection and at a guaranteed price. The guaranteed price at which such allowances shall be made available for purchase shall be $1,500 per ton,adjusted by the percentage, if any, by which the Consumer Price Index (as determined under section 7661a(b)(3)(B)(v) of this title) for the year in which the allowance is purchased exceeds the Consumer Price Index for the calendar year 1990.
+> &emsp;shall, within 30 days after submission of such application, be entitled to receive the Administrator's written guarantee (subject to theeligibility requirements set forth in paragraph (4)) that such required allowances will be made available for purchase from the Direct Sale Subaccount established under this subsection and at a guaranteed price. The guaranteed price at which such allowances shall be made available for purchase shall be $1,500 per ton, adjusted by the percentage, if any, by which the Consumer Price Index (as determined under section 7661a(b)(3)(B)(v) of this title) for the year in which the allowance is purchased exceeds the Consumer Price Index for the calendar year 1990.
 
 #### (4) Eligibility requirements
 
@@ -174,7 +174,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 #### (3) Proceeds
 
-&emsp;(A) Notwithstanding section 3302 of title 31 or any other provision of law, within 90 days of receipt, the Administrator shall transfer the proceeds from the auction under this section,on a pro rata basis, to the owners or operators of the affected units at an affected source from whom allowances were withheld under subsection (b) of this section. No funds transferred from a purchaser to a seller of allowances under this paragraph shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or the Administrator.
+&emsp;(A) Notwithstanding section 3302 of title 31 or any other provision of law, within 90 days of receipt, the Administrator shall transfer the proceeds from the auction under this section, on a pro rata basis, to the owners or operators of the affected units at an affected source from whom allowances were withheld under subsection (b) of this section. No funds transferred from a purchaser to a seller of allowances under this paragraph shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or the Administrator.
 
 &emsp;(B) At the end of each year, any allowances offered for sale but not sold at the auction shall be returned without charge, on a pro rata basis, to the owner or operator of the affected units from whose allocation the allowances were withheld.
 
@@ -195,8 +195,4 @@ Pursuant to rulemaking after public notice and comment the Administrator may at 
 The Administrator may terminate the withholding of allowances and the auction sales under this section if the Administrator determines that, during any period of 3 consecutive calendar years after 2002, less than 20 percent of the allowances available in the auction subaccount have been purchased. Pursuant to regulations under this section, the Administrator may by delegation or contract provide for the conduct of sales or auctions under the Administrator's supervision by other departments or agencies of the United States Government or by nongovernmental agencies, groups, or organizations.
 
 (July 14, 1955, ch. 360, title IV, §416, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2626.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7651b, 7651d of this title.
 

@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), the United States, the State of New Mexico, and local public bodies shall have the same civil adjudicatory, regulatory, and taxing jurisdiction over the Area as was exercised by those entities on the day before February 20, 2003.
+&emsp;Except as provided in paragraphs (2) and (3), the United States, the State of New Mexico,and local public bodies shall have the same civil adjudicatory, regulatory, and taxing jurisdiction over the Area as was exercised by those entities on the day before February 20, 2003.
 
 #### (2) Jurisdiction of the Pueblo
 
@@ -73,10 +73,6 @@
 #### References in Text
 
 Sections 539m to 539m–12 of this title, referred to in subsec. (b)(2)(B)(i), was in the original “this title”, meaning title IV of div. F of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 279, which is classified generally to sections 539m to 539m–12 of this title. For complete classification of title IV to the Code, see Short Title note set out under section 539m of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 539m, 539m–1, 539m–2, 539m–3, 539m–4, 539m–7, 539m–8, 539m–9, 539m–10, 539m–11, 539m–12 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection.”</i>
 

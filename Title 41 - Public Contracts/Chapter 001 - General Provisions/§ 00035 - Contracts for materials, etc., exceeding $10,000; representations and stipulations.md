@@ -4,7 +4,7 @@ In any contract made and entered into by any executive department, independent e
 
 (a) That all persons employed by the contractor in the manufacture or furnishing of the materials, supplies, articles, or equipment used in the performance of the contract will be paid, without subsequent deduction or rebate on any account, not less than the minimum wages as determined by the Secretary of Labor to be the prevailing minimum wages for persons employed on similar work or in the particular or similar industries or groups of industries currently operating in the locality in which the materials, supplies, articles, or equipment are to be manufactured or furnished under said contract;
 
-(b) That no person employed by the contractor in the manufacture or furnishing of the materials, supplies, articles, or equipment used in the performance of the contract shall be permitted to work in excess of forty hours in any one week: <i>Provided</i>, That the provisions of this subsection shall not apply to any employer who shall have entered into an agreement with his employees pursuant to the provisions of paragraphs (1) or (2) of subsection (b) of section 207 of title 29;
+(b) That no person employed by the contractor in the manufacture or furnishing of the materials, supplies, articles, or equipment used in the performance of the contract shall be permitted to work in excess of forty hours in any one week: <i>Provided</i>, That the provisions of this subsection shall not apply to any employer who shall have entered into an agreement with hisemployees pursuant to the provisions of paragraphs (1) or (2) of subsection (b) of section 207 of title 29;
 
 (c) That no male person under sixteen years of age and no female person under eighteen years of age and no convict labor will be employed by the contractor in the manufacture or production or furnishing of any of the materials, supplies, articles, or equipment included in such contract, except that this section, or any other law or Executive order containing similar prohibitions against purchase of goods by the Federal Government, shall not apply to convict labor which satisfies the conditions of section 1761(c) of title 18; and
 
@@ -14,7 +14,7 @@ In any contract made and entered into by any executive department, independent e
 
 #### Amendments
 
-1994—Subsecs. (a) to (e). Pub. L. 103–355 redesignated subsecs. (b) to (e) as (a) to (d), respectively, and struckout former subsec. (a) which read as follows: “That the contractor is the manufacturer of or a regular dealer in the materials, supplies, articles, or equipment to be manufactured or used in the performance of the contract;”.
+1994—Subsecs. (a) to (e). Pub. L. 103–355 redesignated subsecs. (b) to (e) as (a) to (d), respectively, and struck out former subsec. (a) which read as follows: “That the contractor is the manufacturer of or a regular dealer in the materials, supplies, articles, or equipment to be manufactured or used in the performance of the contract;”.
 
 1985—Subsec. (c). Pub. L. 99–145 struck out “eight hours in any one day or in excess of” before “forty hours”.
 
@@ -78,7 +78,7 @@ Sec. 3. <i>Procurement Regulations</i>. Within 120 days after the date of this o
 
 (2) The head of an executive agency, in his or her sole discretion, may terminate a contract on the basis of any finding described in subsection 3(c)(1) of this order for any contract entered into after the date the regulation called for in section 3 of this order is published in final.
 
-(3) The head of an executive agency may debar or suspend a contractor from eligibility for Federal contracts on the basis of a finding that the contractor has engaged in an act described in subsection 3(c)(1) of thisorder. The provision for debarment may not exceed 3 years.
+(3) The head of an executive agency may debar or suspend a contractor from eligibility for Federal contracts on the basis of a finding that the contractor has engaged in an act described in subsection 3(c)(1) of this order. The provision for debarment may not exceed 3 years.
 
 (4) The Administrator of General Services shall include on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs (maintained by the Administrator as described in the Federal Acquisition Regulation) each party that is debarred, suspended, proposed for debarment or suspension, or declared ineligible by the head of an agency on the basis that the person has engaged in an act described in subsection 3(c)(1) of this order.
 
@@ -103,12 +103,4 @@ Sec. 6. <i>Definitions</i>. (a) “Executive agency” and “agency” have the
 Sec. 7. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and does not create any rights or benefits, substantive or procedural, enforceable by law by a party against the United States, its agencies, its officers, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Act Referred to in Other Sections
-
-The Walsh-Healey Act is referred to in section 356 of this title; title 10 sections 2304, 7299; title 15 section 637; title 29 sections 251 to 256, 258, 259, 262, 653; title 30 section 846; title 39 section 410; title 40 section 3701.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 36, 37, 38, 39, 40, 41, 42, 43, 43a, 44, 45, 356 of this title; title 10 section 2304; title 15 sections 636, 637; title 25 section 450j; title 39 section 410.
 

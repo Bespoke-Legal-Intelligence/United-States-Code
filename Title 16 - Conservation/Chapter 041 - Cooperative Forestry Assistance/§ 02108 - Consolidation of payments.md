@@ -10,7 +10,7 @@ Consolidation of payments made under this section shall be based upon State fore
 
 #### (c) Amount of payments
 
-Consolidated payments to any State during any fiscal year shall not exceed the total amount of non-Federal funds expended within the State during that year to implement itsState forest resources program. However, the Secretary may make payments that exceed the non-Federal amount expended for selected activities under the program, if the total Federal expenditure during any fiscal year does not exceed the total non-Federal expenditure during that year under the State forest resources program.
+Consolidated payments to any State during any fiscal year shall not exceed the total amount of non-Federal funds expended within the State during that year to implement its State forest resources program. However, the Secretary may make payments that exceed the non-Federal amount expended for selected activities under the program, if the total Federal expenditure during any fiscal year does not exceed the total non-Federal expenditure during that year under the State forest resources program.
 
 #### (d) Certification requirement by State forester or equivalent State official for Federal payment
 
@@ -33,8 +33,4 @@ A prior section 12 of Pub. L. 95–313, which amended section 1606 of this title
 #### Amendments
 
 1990—Subsec. (f). Pub. L. 101–624, §1224(2), made technical amendment to reference to section 2111 of this title to reflect renumbering of corresponding section of original act.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2106b of this title.
 

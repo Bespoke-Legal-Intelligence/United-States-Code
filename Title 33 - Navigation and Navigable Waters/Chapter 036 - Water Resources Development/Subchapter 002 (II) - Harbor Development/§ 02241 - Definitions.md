@@ -52,7 +52,7 @@ For purposes of this subchapter—
 
 #### (7) Non-Federal interest
 
-&emsp;The term “non-Federal interest” has the meaning such term has under section 1962d–5b of title 42 and includes any interstate agencyand port authority established under a compact entered into between two or more States with the consent of Congress under section 10 of Article I of the Constitution.
+&emsp;The term “non-Federal interest” has the meaning such term has under section 1962d–5b of title 42 and includes any interstate agency and port authority established under a compact entered into between two or more States with the consent of Congress under section 10 of Article I of the Constitution.
 
 #### (8) United States
 
@@ -77,8 +77,4 @@ Amendment by Pub. L. 104–303 not to increase, or result in increase of, non-Fe
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2219 of this title.
 

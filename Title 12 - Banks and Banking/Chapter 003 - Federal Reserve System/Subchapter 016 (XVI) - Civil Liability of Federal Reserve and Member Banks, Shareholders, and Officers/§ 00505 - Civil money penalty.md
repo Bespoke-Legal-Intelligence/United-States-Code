@@ -80,7 +80,7 @@ This section, referred to in pars. (1) and (8), means section 19 of act Dec. 23,
 
 #### Amendments
 
-1989—Pub. L. 101–73 amended section generally, revising and restating as pars. (1) to (9) provisions of former pars. (1) to (7) which related to civil penalty respecting depository, reserve, etc., requirements; amount; hearing; review; action by Attorney General; and regulations.
+1989—Pub. L. 101–73 amended section generally, revising and restating as pars. (1) to (9) provisions of formerpars. (1) to (7) which related to civil penalty respecting depository, reserve, etc., requirements; amount; hearing; review; action by Attorney General; and regulations.
 
 1982—Par. (1). Pub. L. 97–320, §424(a), (d)(2), inserted proviso giving Board discretionary authority to compromise, etc., any civil money penalty imposed under this section, and substituted “may be assessed” for “shall be assessed”.
 
@@ -93,8 +93,4 @@ Amendment by Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 198
 #### Effective Date
 
 Section effective with respect to violations occurring or continuing after Nov. 10, 1978, see section 109 of Pub. L. 95–630 set out as an Effective Date of 1978 Amendment note under section 93 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1828 of this title.
 

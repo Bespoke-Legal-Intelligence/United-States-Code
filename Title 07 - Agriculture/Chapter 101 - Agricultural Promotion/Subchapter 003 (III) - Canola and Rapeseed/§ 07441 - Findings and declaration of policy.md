@@ -16,7 +16,7 @@ Congress finds that—
 
 &emsp;(4) the maintenance and expansion of existing markets and development of new markets for canola, rapeseed, and canola and rapeseed products are vital to the welfare of canola and rapeseed producers and processors and those persons concerned with marketing canola, rapeseed, and canola and rapeseed products, as well as to the general economy of the United States, and are necessary to ensure the ready availability and efficient marketing of canola, rapeseed, and canola and rapeseed products;
 
-&emsp;(5) there exist established State and national organizations conducting canola and rapeseed research, promotion, and consumer education programs that are valuable to the efforts of promoting the consumption of canola, rapeseed, and canola and rapeseed products;
+&emsp;(5) there exist established State and national organizations conducting canola and rapeseed research, promotion, and consumer educationprograms that are valuable to the efforts of promoting the consumption of canola, rapeseed, and canola and rapeseed products;
 
 &emsp;(6) the cooperative development, financing, and implementation of a coordinated national program of canola and rapeseed research, promotion, consumer information, and industry information is necessary to maintain and expand existing markets and develop new markets for canola, rapeseed, and canola and rapeseed products; and
 

@@ -80,11 +80,11 @@ Concealment.—Whoever—
 
 &emsp;(B) is outside the United States and is a national of the United States or a legal entity organized under the laws of the United States (including any of its States, districts, commonwealths, territories, or possessions); and
 
-&emsp;(2) knowingly conceals or disguises the nature, location, source, ownership, or control of any material support, resources, or funds—
+&emsp;(2) knowingly conceals or disguises the nature, location, source, ownership, or control of any material support or resources, or any funds or proceeds of such funds—
 
-&emsp;&emsp;(A) knowing or intending that the support or resources were provided in violation of section 2339B of this title; or
+&emsp;&emsp;(A) knowing or intending that the support or resources are to be provided, or knowing that the support or resources were provided, in violation of section 2339B of this title; or
 
-&emsp;&emsp;(B) knowing or intending that any such funds or any proceeds of such funds were provided or collected in violation of subsection (a),
+&emsp;&emsp;(B) knowing or intending that any such funds are to be provided or collected, or knowing that the funds were provided or collected, in violation of subsection (a),
 
 > shall be punished as prescribed in subsection (d)(2).
 
@@ -144,21 +144,33 @@ Definitions.—In this section—
 
 &emsp;(11) the term “serious bodily injury” has the same meaning as in section 1365(g)(3) of this title; <sup>1</sup>
 
-&emsp;(12) the term “national of the United States” has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)); and
+&emsp;(12) the term “national of the United States” has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
 
-&emsp;(13) the term “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof.
+&emsp;(13) the term “material support or resources” has the same meaning given that term in section 2339B(g)(4) of this title; and
+
+&emsp;(14) the term “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof.
 
 (f)
 
 Civil Penalty.—In addition to any other criminal, civil, or administrative liability or penalty, any legal entity located within the United States or organized under the laws of the United States, including any of the laws of its States, districts, commonwealths, territories, or possessions, shall be liable to the United States for the sum of at least $10,000, if a person responsible for the management or control of that legal entity has, in that capacity, committed an offense set forth in subsection (a).
 
-(Added Pub. L. 107–197, title II, §202(a), June 25, 2002, 116 Stat. 724; amended Pub. L. 107–273, div. B, title IV, §4006, Nov. 2, 2002, 116 Stat. 1813.)
+(Added Pub. L. 107–197, title II, §202(a), June 25, 2002, 116 Stat. 724; amended Pub. L. 107–273, div. B, title IV, §4006, Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, §6604, Dec. 17, 2004, 118 Stat. 3764.)
 
 #### References in Text
 
 Section 1365(g)(3), referred to in subsec. (e)(11), was redesignated section 1365(h)(3) by Pub. L. 107–307, §2(1), Dec. 2, 2002, 116 Stat. 2445.
 
 #### Amendments
+
+2004—Pub. L. 108–458, §6604, which directed certain amendments to section 2339c of this title, was executed to this section, which is section 2339C of this title, to reflect the probable intent of Congress. See below.
+
+Subsec. (c)(2). Pub. L. 108–458, §6604(a)(1), substituted “or resources, or any funds or proceeds of such funds” for “, resources, or funds” in introductory provisions.
+
+Subsec. (c)(2)(A). Pub. L. 108–458, §6604(a)(2), substituted “are to be provided, or knowing that the support or resources were provided,” for “were provided”.
+
+Subsec. (c)(2)(B). Pub. L. 108–458, §6604(a)(3), struck out “or any proceeds of such funds” after “any such funds” and substituted “are to be provided or collected, or knowing that the funds were provided or collected,” for “were provided or collected”.
+
+Subsec. (e)(13), (14). Pub. L. 108–458, §6604(b), added par. (13) and redesignated former par. (13) as (14).
 
 2002—Subsec. (a)(1). Pub. L. 107–273 substituted “described in subsection (b)” for “described in subsection (c)”.
 
@@ -170,7 +182,5 @@ Pub. L. 107–197, title II, §203, June 25, 2002, 116 Stat. 727, provided that:
 
 Pub. L. 107–197, title II, §202(c), June 25, 2002, 116 Stat. 727, provided that: “Nothing contained in this section \[enacting this section\] is intended to affect the scope or applicability of any other Federal or State law.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 981, 2332b, 2516 of this title.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

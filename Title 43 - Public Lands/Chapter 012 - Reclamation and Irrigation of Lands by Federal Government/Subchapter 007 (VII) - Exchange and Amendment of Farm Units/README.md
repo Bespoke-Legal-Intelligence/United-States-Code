@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—EXCHANGE AND AMENDMENT OF FARM UNITS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 16 section 835c.
-
 
 ---
 

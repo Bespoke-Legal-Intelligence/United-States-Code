@@ -26,7 +26,7 @@ Section 212 of Pub. L. 105–115 provided in part that the amendment made by tha
 
 #### Study by Institute of Medicine of Postmarket Surveillance Regarding Pediatric Populations
 
-Pub. L. 107–250, title II, §212, Oct. 26, 2002, 116 Stat. 1614, provided that:
+Pub. L. 107–250, title II, §212, Oct. 26, 2002, 116 Stat. 1614, as amended by Pub. L. 108–214, §2(d)(3)(C), Apr. 1, 2004, 118 Stat. 577, provided that:
 
 “(a)
 
@@ -38,13 +38,9 @@ Certain Matters.—The Secretary shall ensure that determinations made in the st
 
 &emsp;“(1) whether postmarket surveillance studies of implanted medical devices are of long enough duration to evaluate the impact of growth and development for the number of years that the child will have the implant, and whether the studies are adequate to evaluate how children's active lifestyles may affect the failure rate and longevity of the implant; and
 
-&emsp;“(2) whether the postmarket surveillance by the Food and Drug Administration of medical devices used in pediatric populations is sufficient to provide adequate safeguards for such populations, taking into account the Secretary's monitoring of commitments made at the time of approval of medical devices, such as phase IV trials, and the Secretary's monitoring and use of adverse reaction reports, registries, and other postmarket surveillance activities.
+&emsp;“(2) whether the postmarket surveillance by the Food and Drug Administration of medical devices used in pediatric populations is sufficient to provide adequate safeguards for such populations, taking into account the Secretary's monitoring of commitments made at the time of approval of medical devices and the Secretary's monitoring and use of adverse reaction reports, registries, and other postmarket surveillance activities.
 
 “(c)
 
 Report to Congress.—The Secretary shall ensure that, not later than four years after the date of the enactment of this Act \[Oct. 26, 2002\], a report describing the findings of the study under subsection (a) is submitted to the Congress. The report shall include any recommendations of the Secretary for administrative or legislative changes to the system of postmarket surveillance referred to in such subsection.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 352 of this title.
 

@@ -30,7 +30,7 @@ Section is from the Congressional Operations Appropriations Act, 1993, which is 
 
 #### Amendments
 
-<b>2003</b>—Subsecs. (a), (b), (c)(1). Pub. L. 108–7 substituted “effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer” for “upon approval of the Committee on Appropriations of the House of Representatives”.
+2003—Subsecs. (a), (b), (c)(1). Pub. L. 108–7 substituted “effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer” for “upon approval of the Committee on Appropriations of the House of Representatives”.
 
 #### Effective Date of 2003 Amendment
 
@@ -39,8 +39,4 @@ Pub. L. 108–7, div. H, title I, §109(b), Feb. 20, 2003, 117 Stat. 355, provid
 #### Categories of Allowances and Expenses
 
 Pub. L. 105–55, title I, §102, Oct. 7, 1997, 111 Stat. 1183, provided that: “The funds and accounts specified in section 107(b) of the Legislative Branch Appropriations Act, 1996 (2 U.S.C. 123b note) shall be treated as categories of allowances and expenses for purposes of section 101(a) of the Legislative Branch Appropriations Act, 1993 (2 U.S.C. 95b(a)).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 95d, 112g of this title.
 

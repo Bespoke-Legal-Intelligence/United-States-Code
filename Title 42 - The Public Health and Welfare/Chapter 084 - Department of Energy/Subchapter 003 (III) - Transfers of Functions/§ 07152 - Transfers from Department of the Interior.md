@@ -48,13 +48,13 @@ Act of May 15, 1910, referred to in subsec. (d), as amended, probably means act 
 
 1995—Subsec. (a)(1)(C) to (F). Pub. L. 104–58, §104(h)(1), redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “the Alaska Power Administration;”.
 
-Subsec. (a)(2). Pub. L. 104–58, §104(h)(2), inserted “and” after “Southwestern Power Administration,” and struck out “and the Alaska Power Administration” after “Bonneville Power Administration,”.
+Subsec. (a)(2). Pub. L. 104–58, §104(h)(2), inserted “and” after “Southwestern Power Administration,”and struck out “and the Alaska Power Administration” after “Bonneville Power Administration,”.
 
 1981—Subsecs. (b), (c). Pub. L. 97–100 struck out subsecs. (b) and (c) which related, respectively, to the functions of the Secretary of Energy to promulgate regulations under certain provisions of the Outer Continental Shelf Lands Act, the Mineral Lands Leasing Act, the Mineral Leasing Act for Acquired Lands, the Geothermal Steam Act of 1970, and the Energy Policy and Conservation Act and to the functions of establishing production rates for all Federal leases.
 
 #### Change of Name
 
-Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining.
+Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of Title 30.
 
 #### Effective Date of 1995 Amendment
 
@@ -108,7 +108,7 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 “(f)
 
-Contributed Funds.—Notwithstanding any other provision of law, the Alaska Power Administration is authorized to receive, administer, and expend such contributed funds as may be provided by the Eklutna Purchasers or customers or the Snettisham Purchaser or customers for the purposes of upgrading, improving, maintaining, or administering Eklutna or Snettisham. Upon the termination of the Alaska Power Administration under section 104(f), the Secretary of Energy shalladminister and expend any remaining balances of such contributed funds for the purposes intended by the contributors.
+Contributed Funds.—Notwithstanding any other provision of law, the Alaska Power Administration is authorized to receive, administer, and expend such contributed funds as may be provided by the Eklutna Purchasers or customers or the Snettisham Purchaser or customers for the purposes of upgrading, improving, maintaining, or administering Eklutna or Snettisham. Upon the termination of the Alaska Power Administration under section 104(f), the Secretary of Energy shall administer and expend any remaining balances of such contributed funds for the purposes intended by the contributors.
 
 #### “SEC. 104. EXEMPTION AND OTHER PROVISIONS.
 
@@ -142,7 +142,7 @@ Eklutna Lands.—With respect to Eklutna lands described in Exhibit A of the Ekl
 
 &emsp;&emsp;“(B) to remain effective for a period equal to the life of Eklutna as extended by improvements, repairs, renewals, or replacements; and
 
-&emsp;&emsp;“(C) sufficient for the operation of, maintenance of, repair to, and replacement of, and access to, Eklutna facilities located on military lands and lands managed by the Bureau of Land Management, including lands selected by the State of Alaska.
+&emsp;&emsp;“(C) sufficient for the operation of, maintenance of, repair to, and replacement of, and access to, Eklutna facilities located on military lands andlands managed by the Bureau of Land Management, including lands selected by the State of Alaska.
 
 &emsp;“(2) Fee title to lands at Anchorage Substation shall be transferred to Eklutna Purchasers at no additional cost if the Secretary of the Interior determines that pending claims to, and selections of, those lands are invalid or relinquished.
 
@@ -197,10 +197,6 @@ Pub. L. 102–377, title V, §505, Oct. 2, 1992, 106 Stat. 1343, provided that: 
 #### Transfers to Secretary of the Interior of Certain Fossil Energy Research and Development Authorities
 
 Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 841, provided: “That there are transferred to, and vested in, the Secretary of the Interior all functions vested in, or delegated to, the Secretary of Energy and the Department of Energy under or with respect to (1) the Act of May 16, 1910 \[30 U.S.C. 1, 3, 5–7\], and other authorities formerly exercised by the Bureau of Mines \[now United States Bureau of Mines\], but limited to research and development relating to increased efficiency of production technology of solid fuel minerals; (2) section 908 of the Surface Mining Control and Reclamation Act of 1977, relating to research and development concerning alternative coal mining technologies (30 U.S.C. 1328); (3) sections 5(g)(2), 8(a)(4), 8(a)(9), 27(b)(2)(3) of the Outer Continental Shelf Lands Act (43 U.S.C. 1334(g)(2) and 1337(a)(4) and 1337(a)(9) \[and 1353(b)(2) and (3)\]); and (4) section 105 of the Energy Policy and Conservation Act (42 U.S.C. 6213): <i>Provided further</i>, That the personnel employed, personnel positions, equipment, facilities, and unexpended balances of the aforementioned transferred programs shall be merged with the ‘Mines and minerals’ account of the Bureau of Mines.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7153 of this title; title 16 section 839f; title 33 section 2213.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -98,7 +98,3 @@
 
 (Pub. L. 105–220, title I, §128, Aug. 7, 1998, 112 Stat. 976.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2821, 2822, 2832, 2842, 2843, 2854, 2863, 2864, 2932 of this title.
-

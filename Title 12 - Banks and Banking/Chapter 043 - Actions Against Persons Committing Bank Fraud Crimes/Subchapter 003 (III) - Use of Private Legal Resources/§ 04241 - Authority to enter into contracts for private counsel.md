@@ -18,7 +18,3 @@ Notwithstanding section 3302(b) of title 31, a contract under this section shall
 
 (Pub. L. 101–647, title XXV, §2588, Nov. 29, 1990, 104 Stat. 4905.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4242, 4243, 4244, 4245 of this title.
-

@@ -36,7 +36,3 @@ Subsecs. (b), (c). Act July 24, 1956, §2(4), repealed subsecs. (b) and (c) whic
 
 For delegation of authority under this section, as invoked by section 2 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, to Secretary of Homeland Security when Coast Guard is not serving as part of Navy, see section 5 of Ex. Ord. No. 13223, set out as a note under section 12302 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 366, 369 of this title; title 38 section 4312.
-

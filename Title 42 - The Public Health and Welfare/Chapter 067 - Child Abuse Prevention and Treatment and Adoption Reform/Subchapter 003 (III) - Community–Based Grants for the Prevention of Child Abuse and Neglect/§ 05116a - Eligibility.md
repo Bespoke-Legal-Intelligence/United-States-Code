@@ -4,7 +4,7 @@ A State shall be eligible for a grant under this subchapter for a fiscal year if
 
 &emsp;(1)(A) the chief executive officer of the State has designated a lead entity to administer funds under this subchapter for the purposes identified under the authority of this subchapter, including to develop, implement, operate, enhance or expand community-based and prevention-focused, programs and activities designed to strengthen and support families to prevent child abuse and neglect (through networks where appropriate);
 
-&emsp;(B) such lead entity is an existing public, quasi-public, or nonprofit private entity (which may be an entity that has not been established pursuant to State legislation, executive order, or any other written authority of the State) that exists to strengthen and support families to prevent child abuse and neglect with a demonstrated ability to work with other State and community-based agencies to provide training and technical assistance, and that has the capacity and commitment to ensure the meaningful involvement of parents who are consumers and who can provide leadership in the planning, implementation, and evaluation of programs and policy decisions of the applicant agency in accomplishing the desired outcomes for such efforts;
+&emsp;(B) such lead entity is an existing public, quasi-public, or nonprofit private entity (which may be an entity that has not been established pursuant to State legislation, executive order, or any other written authority of the State) that exists to strengthen and support families to prevent child abuse and neglect with a demonstrated ability to work with other State and community-based agencies to provide training and technical assistance, and that has the capacity and commitment to ensure the meaningful involvement of parents who are consumers and who can provide leadership in the planning, implementation, and evaluation of programs and policydecisions of the applicant agency in accomplishing the desired outcomes for such efforts;
 
 &emsp;(C) in determining which entity to designate under subparagraph (A), the chief executive officer should give priority consideration equally to a trust fund advisory board of the State or to an existing entity that leverages Federal, State, and private funds for a broad range of child abuse and neglect prevention activities and family resource programs, and that is directed by an interdisciplinary, public-private structure, including participants from communities; and
 
@@ -16,7 +16,7 @@ A State shall be eligible for a grant under this subchapter for a fiscal year if
 
 &emsp;&emsp;(B) direction through an interdisciplinary, collaborative, public-private structure with balanced representation from private and public sector members, parents, and public sector and private nonprofit sector service providers, and parents with disabilities; and
 
-&emsp;&emsp;(C) direction and oversight through identified goals and objectives, clear lines of communication and accountability, the provision of leveraged or combined funding fromFederal, State and private sources, centralized assessment and planning activities, the provision of training and technical assistance, and reporting and evaluation functions; and
+&emsp;&emsp;(C) direction and oversight through identified goals and objectives, clear lines of communication and accountability, the provision of leveraged or combined funding from Federal, State and private sources, centralized assessment and planning activities, the provision of training and technical assistance, and reporting and evaluation functions; and
 
 &emsp;(3) the chief executive officer of the State provides assurances that the lead entity—
 
@@ -48,15 +48,11 @@ Par. (2)(C). Pub. L. 108–36, §122(2)(C), struck out “to the network” afte
 
 Par. (3)(A). Pub. L. 108–36, §122(3)(A), substituted “community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect (through networks where appropriate)” for “Statewide network of community-based, prevention-focused, family resource and support programs”.
 
-Par. (3)(B). Pub. L. 108–36, §122(3)(B), substituted “community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect (through networks where appropriate)” for “Statewide network of community-based, prevention-focused, family resource and support programs”.
+Par. (3)(B). Pub. L. 108–36, §122(3)(B), substituted “community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect (through networks where appropriate)” for “Statewide network ofcommunity-based, prevention-focused, family resource and support programs”.
 
 Par. (3)(C). Pub. L. 108–36, §122(3)(C), substituted “training, technical assistance, and evaluation assistance, to community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect (through networks where appropriate)” for “and training and technical assistance, to the Statewide network of community-based, prevention-focused, family resource and support programs”.
 
 Par. (3)(D). Pub. L. 108–36, §122(3)(D), inserted “, parents with disabilities,” after “children with disabilities”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5116, 5116d, 5116f of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

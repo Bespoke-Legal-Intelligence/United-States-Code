@@ -28,7 +28,3 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 Secretary of State authorized to designate Alternate United States Commissioners, see sections 2672a and 2672b of Title 22, Foreign Relations and Intercourse.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 951, 1413 of this title.
-

@@ -6,11 +6,11 @@ For purposes of this chapter:
 
 (2) The term “commerce” means commerce (A) between any State or the District of Columbia and any place outside thereof; (B) between points within any State or the District of Columbia, but through any place outside thereof; or (C) wholly within the District of Columbia.
 
-(3) The term “federally protected function” means any function, operation, or action carriedout, under the laws of the United States, by any department, agency, or instrumentality of the United States or by an officer or employee thereof; and such term shall specifically include, but not be limited to, the collection and distribution of the United States mails.
+(3) The term “federally protected function” means any function, operation, or action carried out, under the laws of the United States, by any department, agency, or instrumentality of the United States or by an officer or employee thereof; and such term shall specifically include, but not be limited to, the collection and distribution of the United States mails.
 
 (4) The term “firearm” means any weapon which is designed to or may readily be converted to expel any projectile by the action of an explosive; or the frame or receiver of any such weapon.
 
-(5) The term “explosive or incendiary device” means (A) dynamite and all other forms of high explosives, (B) any explosive bomb, grenade, missile, or similar device, and (C) any incendiary bomb or grenade, fire bomb, or similar device, including any device which (i) consists of or includes a breakable container including a flammable liquid or compound, and a wick composed of any material which, when ignited, is capable of igniting such flammable liquid or compound, and (ii) can be carried or thrown by one individual acting alone.
+(5) The term “explosive or incendiary device” means (A) dynamite and all other forms of high explosives, (B) any explosive bomb, grenade, missile, or similar device, and (C) any incendiary bomb or grenade, fire bomb, or similar device, including any device which (i) consists of or includes a breakable container including aflammable liquid or compound, and a wick composed of any material which, when ignited, is capable of igniting such flammable liquid or compound, and (ii) can be carried or thrown by one individual acting alone.
 
 (6) The term “fireman” means any member of a fire department (including a volunteer fire department) of any State, any political subdivision of a State, or the District of Columbia.
 
@@ -25,8 +25,4 @@ For purposes of this chapter:
 1992—Par. (7). Pub. L. 102–484 substituted “members of the National Guard (as defined in section 101 of title 10),” for “, but shall not be limited to, members of the National Guard, as defined in section 101(9) of title 10, United States Code,” and “not included within the National Guard (as defined in section 101 of title 10),” for “, not included within the definition of National Guard as defined by such section 101(9),”.
 
 1990—Par. (8). Pub. L. 101–647 added par. (8).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 844 of this title; title 49 sections 5117, 40113.
 

@@ -16,7 +16,7 @@ In executing the technology demonstration program, the President shall seek to a
 
 #### (c) Broad application
 
-To the greatest extent practicable, the technology demonstration program establishedunder subsection (a) of this section shall be designed to be responsive to the broad civilian, national security, commercial, and foreign policy needs of the United States.
+To the greatest extent practicable, the technology demonstration program established under subsection (a) of this section shall be designed to be responsive to the broad civilian, national security, commercial, and foreign policy needs of the United States.
 
 #### (d) Private sector funding
 
@@ -31,8 +31,4 @@ The Landsat Program Management shall have a coordinating role in the technology 
 The President shall assess the progress of the technology demonstration program under this section and, within 2 years after October 28, 1992, submit a report to the Congress on such progress.
 
 (Pub. L. 102–555, title III, §303, Oct. 28, 1992, 106 Stat. 4174.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5611, 5632, 5641 of this title.
 

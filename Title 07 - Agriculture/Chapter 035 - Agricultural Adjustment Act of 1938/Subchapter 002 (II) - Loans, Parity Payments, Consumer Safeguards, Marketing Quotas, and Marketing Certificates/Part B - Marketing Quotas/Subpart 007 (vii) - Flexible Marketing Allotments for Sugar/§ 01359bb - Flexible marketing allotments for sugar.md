@@ -22,7 +22,7 @@
 
 #### (3) Reestimates
 
-&emsp;The Secretary shall make reestimates of sugar consumption, stocks, production, andimports for a crop year as necessary, but no later than the beginning of each of the second through fourth quarters of the crop year.
+&emsp;The Secretary shall make reestimates of sugar consumption, stocks, production, and imports for a crop year as necessary, but no later than the beginning of each of the second through fourth quarters of the crop year.
 
 #### (b) Sugar allotments
 
@@ -53,8 +53,4 @@
 #### Prior Provisions
 
 A prior section 1359bb, act Feb. 16, 1938, ch. 30, title III, §359b, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3480; amended Pub. L. 102–237, title I, §111(d), Dec. 13, 1991, 105 Stat. 1831; Pub. L. 103–66, title I, §1107(b), Aug. 10, 1993, 107 Stat. 324, related to marketing allotments for sugar and crystalline fructose, prior to the general amendment of this subpart by Pub. L. 107–171.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1359cc of this title.
 

@@ -66,7 +66,7 @@ The Secretary shall provide such technical and other assistance as may be necess
 
 #### (e) Service to ineligible persons
 
-The authority to provide services to persons otherwise ineligible for the health care benefitsof the Service and the authority to extend hospital privileges in service facilities to non-Service health care practitioners as provided in section 1680c of this title may be included, subject to the terms of such section, in any demonstration project approved pursuant to this section.
+The authority to provide services to persons otherwise ineligible for the health care benefits of the Service and the authority to extend hospital privileges in service facilities to non-Service health care practitioners as provided in section 1680c of this title may be included, subject to the terms of such section, in any demonstration project approved pursuant to this section.
 
 #### (f) Equitable treatment
 
@@ -103,8 +103,4 @@ Subsec. (e). Pub. L. 102–573, §701(c)(2), made technical amendment to the ref
 Subsec. (h). Pub. L. 102–573, §304(b), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Within 90 days after the end of the period set out in subsection (a) of this section, the Secretary shall prepare and submit to Congress a report, together with legislative recommendations, on the findings and conclusions derived from the demonstration projects.”
 
 Subsec. (i). Pub. L. 102–573, §307(b)(2), struck out subsec. (i) which authorized appropriation of such sums as necessary for fiscal years 1991 and 1992 for purpose of carrying out this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1636, 1671 of this title.
 

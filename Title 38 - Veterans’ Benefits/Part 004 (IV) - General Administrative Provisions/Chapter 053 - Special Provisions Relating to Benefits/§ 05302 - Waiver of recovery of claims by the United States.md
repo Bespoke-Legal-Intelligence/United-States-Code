@@ -74,7 +74,3 @@ Section 202(b) of Pub. L. 92–328 provided that the waiver authority under subs
 
 For effective date of Pub. L. 92–328, see Effective Date of 1972 Amendment notes set out under sections 1114, 1134, and 3713 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3680, 3685, 3713, 3726, 5314, 5315, 5701 of this title.
-

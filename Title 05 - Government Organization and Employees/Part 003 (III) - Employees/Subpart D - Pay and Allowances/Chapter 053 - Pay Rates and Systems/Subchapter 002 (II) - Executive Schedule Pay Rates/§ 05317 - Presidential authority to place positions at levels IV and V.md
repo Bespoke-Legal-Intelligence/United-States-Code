@@ -58,7 +58,7 @@ Ex. Ord. No. 11995, June 8, 1977, 42 F.R. 29841, which placed the position of Ex
 
 #### Executive Order No. 12076
 
-Ex. Ord. No. 12076, Aug. 18, 1978, 43 F.R. 37161, as amended by Ex. Ord. No. 12099, Nov. 17, 1978, 43 F.R. 54191; Ex. Ord. No. 12111, Jan. 2, 1979, 44 F.R. 1071; Ex.Ord. No. 12119, Feb. 14, 1979, 44 F.R. 10039, which related to the placement of positions in levels IV and V of the Federal Executive Salary Schedule, was revoked by Ex. Ord. No. 12154, Sept. 4, 1979, 44 F.R. 51965, set out below.
+Ex. Ord. No. 12076, Aug. 18, 1978, 43 F.R. 37161, as amended by Ex. Ord. No. 12099, Nov. 17, 1978, 43 F.R. 54191; Ex. Ord. No. 12111, Jan. 2, 1979, 44 F.R. 1071; Ex. Ord. No. 12119, Feb. 14, 1979, 44 F.R. 10039, which related to the placement of positions in levels IV and V of the Federal Executive Salary Schedule, was revoked by Ex. Ord. No. 12154, Sept. 4, 1979, 44 F.R. 51965, set out below.
 
 #### Ex. Ord. No. 12154. Placement of Positions in Levels IV and V
 
@@ -115,8 +115,4 @@ General Provisions
 1–201. Nothing in this Order shall be deemed to terminate or otherwise affect the appointment, or to require the reappointment, of any occupant of any position listed in Section 1–1 of this Order who was the occupant of that position immediately prior to the issuance of this Order.
 
 1–202. Executive Order No. 12076, as amended, is hereby revoked.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5377, 5380, 8432 of this title; title 10 section 973; title 26 section 3121; title 28 sections 548, 587; title 42 section 410.
 

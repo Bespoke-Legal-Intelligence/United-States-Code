@@ -2,7 +2,7 @@
 
 #### (a) Notice of intent
 
-The Secretary, on request from an appropriate non-Federal interest in the form of a written notice of intent to construct a navigation project for a harbor or inland harbor under section 2232 of this title or this section, shall initiate procedures to establish a schedule for consolidating Federal, State, and local agency environmental assessments, project reviews, and issuance of all permits for the construction of the project, including associated access channels, berthing areas, and onshore port-related facilities, beforethe initiation of construction. The non-Federal interest shall submit, with the notice of intent, studies and documentation, including environmental reviews, that may be required by Federal law for decisionmaking on the proposed project. A State shall not be required to participate in carrying out this section.
+The Secretary, on request from an appropriate non-Federal interest in the form of a written notice of intent to construct a navigation project for a harbor or inland harbor under section 2232 of this title or this section, shall initiate procedures to establish a schedule for consolidating Federal, State, and local agency environmental assessments, project reviews, and issuance of all permits for the construction of the project, including associated access channels, berthing areas, and onshore port-related facilities, before the initiation of construction. The non-Federal interest shall submit, with the notice of intent, studies and documentation, including environmental reviews, that may be required by Federal law for decisionmaking on the proposed project. A State shall not be required to participate in carrying out this section.
 
 #### (b) Procedural requirements
 
@@ -10,7 +10,7 @@ Within 15 days after receipt of notice under subsection (a) of this section, the
 
 #### (c) Scheduling agreement
 
-Within 90 days after receipt of notice under subsection (a) of this section, the Secretary of the Interior, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, and any State or local agencies that have notified the Secretary under subsection (b) of this section shall enter into an agreement with the Secretary establishing a schedule of decisionmaking for approval of the project and permits associated with it and with related activities. Such schedule may not exceed two and one-half years from the date of the agreement.
+Within 90 days after receipt of notice under subsection (a) of this section, the Secretary of the Interior, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, and any State or local agencies that have notified the Secretary under subsection (b) of this section shall enter into an agreement with the Secretary establishing a schedule of decisionmaking for approval of the project andpermits associated with it and with related activities. Such schedule may not exceed two and one-half years from the date of the agreement.
 
 #### (d) Contents of agreement
 
@@ -41,8 +41,4 @@ Not later than one year after November 17, 1986, the Secretary shall prepare and
 #### Change of Name
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2234, 2236 of this title.
 

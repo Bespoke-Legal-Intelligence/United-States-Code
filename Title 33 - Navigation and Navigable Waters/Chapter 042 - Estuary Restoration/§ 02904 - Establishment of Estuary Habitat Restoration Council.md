@@ -10,7 +10,7 @@ The Council shall be responsible for—
 
 &emsp;(1) soliciting, reviewing, and evaluating project proposals and developing recommendations concerning such proposals based on the factors specified in section 2903(c)(3) of this title;
 
-&emsp;(2) submitting to the Secretary a list of recommended projects, including a recommendedpriority order and any recommendation as to whether a project should be carried out by the Secretary or by another Federal department or agency under section 2903(g) of this title;
+&emsp;(2) submitting to the Secretary a list of recommended projects, including a recommended priority order and any recommendation as to whether a project should be carried out by the Secretary or by another Federal department or agency under section 2903(g) of this title;
 
 &emsp;(3) developing and transmitting to Congress a national strategy for restoration of estuary habitat;
 
@@ -69,8 +69,4 @@ The Council shall consult with persons with recognized scientific expertise in e
 &emsp;(2) to provide advice and recommendations to the Council on proposed estuary habitat restoration projects, including advice on the scientific merit, technical merit, and feasibility of a project.
 
 (Pub. L. 106–457, title I, §105, Nov. 7, 2000, 114 Stat. 1962.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2902, 2903 of this title.
 

@@ -4,7 +4,3 @@ Any person who by culpable negligence shall break or injure a submarine cable in
 
 (Feb. 29, 1888, ch. 17, §2, 25 Stat. 41.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 23 of this title.
-

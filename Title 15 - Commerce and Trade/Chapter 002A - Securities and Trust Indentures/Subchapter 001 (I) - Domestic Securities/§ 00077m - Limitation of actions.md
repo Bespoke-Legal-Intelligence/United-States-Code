@@ -10,7 +10,3 @@ No action shall be maintained to enforce any liability created under section 77k
 
 1934—Act June 6, 1934, substituted “one year” for “two years”, “three years” for “ten years”, and inserted “or under section 77<i>l</i>(2) of this title more than three years after the sale”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80a–24 of this title.
-

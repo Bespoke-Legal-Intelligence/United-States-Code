@@ -1,9 +1,5 @@
 ### SUBCHAPTER XVIII—PRIVILEGES AND IMMUNITIES OF INTERNATIONAL ORGANIZATIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 288j, 288k, 4309 of this title; title 8 sections 1101, 1184; title 10 section 130c; title 26 sections 414, 7701; title 28 section 1611; title 29 sections 1002, 1321; title 42 section 410; title 49 section 30144.
-
 
 ---
 
@@ -17,10 +13,11 @@ This subchapter is referred to in sections 288j, 288k, 4309 of this title; title
 - [&sect; 00288e - Personnel entitled to benefits](%C2%A7%2000288e%20-%20Personnel%20entitled%20to%20benefits.md)
 - [&sect; 00288f - Applicability of reciprocity laws](%C2%A7%2000288f%20-%20Applicability%20of%20reciprocity%20laws.md)
 - [&sect; 00288f&#8211;1 - European Space Agency and Organization of Eastern Caribbean States; extension of privileges, exemptions, and immunities to members](%C2%A7%2000288f%E2%80%931%20-%20European%20Space%20Agency%20and%20Organization%20of%20Eastern%20Caribbean%20States%3B%20extension%20of%20privileges%2C%20exemptions%2C%20and%20immunities%20to%20members.md)
-- [&sect; 00288f&#8211;2 - Organization of African Unity; extension of privileges, exemptions, and immunities](%C2%A7%2000288f%E2%80%932%20-%20Organization%20of%20African%20Unity%3B%20extension%20of%20privileges%2C%20exemptions%2C%20and%20immunities.md)
+- [&sect; 00288f&#8211;2 - African Union; extension of privileges, exemptions, and immunities](%C2%A7%2000288f%E2%80%932%20-%20African%20Union%3B%20extension%20of%20privileges%2C%20exemptions%2C%20and%20immunities.md)
 - [&sect; 00288f&#8211;3 - Immunities for International Committee of the Red Cross](%C2%A7%2000288f%E2%80%933%20-%20Immunities%20for%20International%20Committee%20of%20the%20Red%20Cross.md)
 - [&sect; 00288f&#8211;4 - International Union for Conservation of Nature and Natural Resources; extension of privileges, exemptions, and immunities](%C2%A7%2000288f%E2%80%934%20-%20International%20Union%20for%20Conservation%20of%20Nature%20and%20Natural%20Resources%3B%20extension%20of%20privileges%2C%20exemptions%2C%20and%20immunities.md)
 - [&sect; 00288f&#8211;5 - European Central Bank; extension of privileges, exemptions, and immunities](%C2%A7%2000288f%E2%80%935%20-%20European%20Central%20Bank%3B%20extension%20of%20privileges%2C%20exemptions%2C%20and%20immunities.md)
+- [&sect; 00288f&#8211;6 - Global Fund to Fight AIDS, Tuberculosis and Malaria; extension of privileges, exemptions, and immunities](%C2%A7%2000288f%E2%80%936%20-%20Global%20Fund%20to%20Fight%20AIDS%2C%20Tuberculosis%20and%20Malaria%3B%20extension%20of%20privileges%2C%20exemptions%2C%20and%20immunities.md)
 - [&sect; 00288g - Organization of American States; extension of privileges and immunities to members](%C2%A7%2000288g%20-%20Organization%20of%20American%20States%3B%20extension%20of%20privileges%20and%20immunities%20to%20members.md)
 - [&sect; 00288h - Commission of European Communities; extension of privileges and immunities to members](%C2%A7%2000288h%20-%20Commission%20of%20European%20Communities%3B%20extension%20of%20privileges%20and%20immunities%20to%20members.md)
 - [&sect; 00288i - Liaison Office of the People's Republic of China; extension of privileges and immunities to members](%C2%A7%2000288i%20-%20Liaison%20Office%20of%20the%20People%27s%20Republic%20of%20China%3B%20extension%20of%20privileges%20and%20immunities%20to%20members.md)

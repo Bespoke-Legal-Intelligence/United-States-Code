@@ -72,7 +72,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (A) Study
 
-&emsp;&emsp;The Secretary shall conduct a study of the relative operational and environmental risks posed by the transportation of oil by vessel to deepwater ports (as defined in section 1502 of this title) versus the transportation of oilby vessel to other ports. The study shall include a review and analysis of offshore lightering practices used in connection with that transportation, an analysis of the volume of oil transported by vessel using those practices, and an analysis of the frequency and volume of oil discharges which occur in connection with the use of those practices.
+&emsp;&emsp;The Secretary shall conduct a study of the relative operational and environmental risks posed by the transportation of oil by vessel to deepwater ports (as defined in section 1502 of this title) versus the transportation of oil by vessel to other ports. The study shall include a review and analysis of offshore lightering practices used in connection with that transportation, an analysis of the volume of oil transported by vessel using those practices, and an analysis of the frequency and volume of oil discharges which occur in connection with the use of those practices.
 
 #### (B) Report
 
@@ -109,10 +109,6 @@ Subsec. (c)(4). Pub. L. 105–383, §406(2), added par. (4).
 #### Delegation of Functions
 
 Specific functions of President under subsec. (d) of this section delegated to Administrator of Environmental Protection Agency, Secretary of Transportation, and Secretary of the Interior by section 4 of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54763, set out as a note under section 1321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2702, 2705, 2708, 2712, 2716 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “this” probably should not appear.</i>
 

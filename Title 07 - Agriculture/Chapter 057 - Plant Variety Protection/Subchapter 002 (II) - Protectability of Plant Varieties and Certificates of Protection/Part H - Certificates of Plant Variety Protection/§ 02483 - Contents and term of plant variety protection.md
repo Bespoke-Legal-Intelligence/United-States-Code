@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the term of plant variety protection shall expire20 years from the date of issue of the certificate in the United States, except that—
+&emsp;Except as provided in paragraph (2), the term of plant variety protection shall expire 20 years from the date of issue of the certificate in the United States, except that—
 
 &emsp;&emsp;(A) in the case of a tuber propagated plant variety subject to a waiver granted under section 2402(a)(1)(B)(i) of this title, the term of the plant variety protection shall expire 20 years after the date of the original grant of the plant breeder's rights to the variety outside the United States; and
 
@@ -30,7 +30,7 @@
 
 #### (c) Expiration upon failure to comply with regulations; notice
 
-The term of plant variety protection shall also expire if the owner fails to comply with regulations, in force at the time of certificating, relating to replenishing seed in a public repository, or requiring the submission of a different name for the variety, except that this expiration shall not occur unless notice is mailed to the last owner recorded as provided in section 2531(d) of this title and the last owner fails, within the time allowed thereafter, not less than three months, to comply with said regulations, paying an additional fee to be prescribed by the Secretary.
+The term of plant variety protection shall also expire if the owner fails to comply with regulations, in force at the time of certificating, relating to replenishing seed in a public repository, or requiring the submission of a different namefor the variety, except that this expiration shall not occur unless notice is mailed to the last owner recorded as provided in section 2531(d) of this title and the last owner fails, within the time allowed thereafter, not less than three months, to comply with said regulations, paying an additional fee to be prescribed by the Secretary.
 
 (Pub. L. 91–577, title II, §83, Dec. 24, 1970, 84 Stat. 1551; Pub. L. 96–574, §14, Dec. 22, 1980, 94 Stat. 3350; Pub. L. 103–349, §§7, 13(m), Oct. 6, 1994, 108 Stat. 3140, 3143; Pub. L. 104–127, title IX, §913(b), Apr. 4, 1996, 110 Stat. 1186.)
 

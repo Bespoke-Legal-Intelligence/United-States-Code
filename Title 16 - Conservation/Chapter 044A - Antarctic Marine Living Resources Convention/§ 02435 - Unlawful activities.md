@@ -18,7 +18,3 @@ It is unlawful for any person—
 
 (Pub. L. 98–623, title III, §306, Nov. 8, 1984, 98 Stat. 3401.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2437, 2438, 2439 of this title.
-

@@ -26,7 +26,3 @@ Pub. L. 99–190, §101(d) \[title II\], Dec. 19, 1985, 99 Stat. 1224, 1256.
 
 Pub. L. 98–473, title I, §101(c) \[title II\], Oct. 12, 1984, 98 Stat. 1837, 1865.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1682 of this title.
-

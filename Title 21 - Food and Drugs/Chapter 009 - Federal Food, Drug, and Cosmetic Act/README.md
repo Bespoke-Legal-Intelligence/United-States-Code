@@ -116,6 +116,8 @@
 | (t) | Catfish. |
 | (u) | Ginseng. |
 | (v) | Failure to label; health threat. |
+| (w) | Major food allergen labeling requirements. |
+| (x) | Nonmajor food allergen labeling requirements. |
 | 343–1. | National uniform nutrition labeling. |
 | 343–2. | Dietary supplement labeling exemptions. |
 | (a) | In general. |
@@ -238,6 +240,7 @@
 | (t) | Devices for which there has been a failure or refusal to give required notification or to furnish required material or information. |
 | (u) | Identification of manufacturer. |
 | (v) | Reprocessed single-use devices. |
+| (w) | New animal drugs. |
 | [353\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000353%20-%20Exemptions%20and%20consideration%20for%20certain%20drugs%2C%20devices%2C%20and%20biological%20products.md) | Exemptions and consideration for certain drugs, devices, and biological products. |
 | (a) | Regulations for goods to be processed, labeled, or repacked elsewhere. |
 | (b) | Prescription by physician; exemption from labeling and prescription requirements; misbranded drugs; compliance with narcotic and marihuana laws. |
@@ -474,7 +477,7 @@
 | (a) | Establishment. |
 | (b) | Powers of Secretary. |
 | (c) | Record keeping. |
-| [360jj.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20C%20-%20Electronic%20Product%20Radiation%20Control/%C2%A7%2000360jj%20-%20Studies%20by%20Secretary.md) | Studies by the Secretary. |
+| [360jj.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20C%20-%20Electronic%20Product%20Radiation%20Control/%C2%A7%2000360jj%20-%20Studies%20by%20Secretary.md) | Studies by Secretary. |
 | (a) | Report to Congress. |
 | (b) | Participation of other Federal agencies. |
 | (c) | Organization of studies and participation. |
@@ -585,6 +588,39 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Part F—New Animal Drugs for Minor Use and Minor Species
+
+|  |  |
+| :--- | ---: |
+| [360ccc.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20F%20-%20New%20Animal%20Drugs%20for%20Minor%20Use%20and%20Minor%20Species/%C2%A7%2000360ccc%20-%20Conditional%20approval%20of%20new%20animal%20drugs%20for%20minor%20use%20and%20minor%20species.md) | Conditional approval of new animal drugs for minor use and minor species. |
+| (a) | Application requirements; contents; restrictions. |
+| (b) | Order of approval or hearing. |
+| (c) | Order of approval or refusal after hearing. |
+| (d) | Effective period; renewal; refusal of renewal. |
+| (e) | Withdrawal of conditional approval. |
+| (f) | Labeling. |
+| (g) | Amendment of application. |
+| (h) | Order of approval after conditional approval period termination. |
+| (i) | Judicial review. |
+| (j) | Definition. |
+| 360ccc–1. | Index of legally marketed unapproved new animal drugs for minor species. |
+| (a) | Establishment and content. |
+| (b) | Conferences. |
+| (c) | Request for determination of eligibility for inclusion in index. |
+| (d) | Request for addition to index. |
+| (e) | Index contents; publication. |
+| (f) | Removal from index; suspended listing. |
+| (g) | Regulations concerning exemptions for investigational use. |
+| (h) | Labeling contents. |
+| (i) | Records and reports. |
+| (j) | Public disclosure of safety and effectiveness data. |
+| 360ccc–2. | Designated new animal drugs for minor use or minor species. |
+| (a) | Designation. |
+| (b) | Grants and contracts for development of designated new animal drugs. |
+| (c) | Exclusivity for designated new animal drugs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER VI—COSMETICS
 
 |  |  |
@@ -627,6 +663,7 @@
 | (e) | Accessibility of records. |
 | (f) | Recordkeeping. |
 | (g) | Inspections by accredited persons. |
+| [374a.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20A%20-%20General%20Administrative%20Provisions/%C2%A7%2000374a%20-%20Inspections%20relating%20to%20food%20allergens.md) | Inspections relating to food allergens. |
 | [375\.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20A%20-%20General%20Administrative%20Provisions/%C2%A7%2000375%20-%20Publicity.md) | Publicity. |
 | (a) | Reports. |
 | (b) | Information regarding certain goods. |
@@ -873,10 +910,6 @@ I74subpart 1—freedom of information fees
 | (c) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 321d, 355b, 453, 457, 466, 467, 467f, 601, 607, 620, 679, 802, 811, 823, 829, 830, 902, 1033, 1049, 1052, 1401, 1402, 1403, 1601 of this title; title 7 sections 136a–1, 136v, 138i, 1431c, 5341, 6519, 7653, 8401; title 15 sections 70j, 1261, 1263, 1277, 1459, 1460, 2057a, 2057b, 2079; title 18 sections 42, 983; title 19 section 2578a; title 26 sections 170, 4817; title 35 sections 155, 156, 271, 287; title 42 sections 238q, 262, 262a, 284m, 299b–7, 300aa–22, 300aa–23, 1395w–3, 1395w–3b, 1396r–8, 1786, 3512, 7671.
 
 
 ---

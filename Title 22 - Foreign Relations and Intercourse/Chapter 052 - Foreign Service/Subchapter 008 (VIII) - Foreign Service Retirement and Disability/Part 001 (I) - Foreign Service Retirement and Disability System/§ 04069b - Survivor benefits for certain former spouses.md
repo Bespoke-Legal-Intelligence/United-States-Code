@@ -10,7 +10,7 @@ Any individual who was a former spouse of a participant or former participant on
 
 #### (b) Election by former spouse
 
-If an election has been made with respect to such former spouse under section 4159 or 4046(f)of this title, then the survivor annuity under subsection (a) of this section of such former spouse shall be equal to the full amount of the participant's or former participant's annuity referred to in subsection (a) of this section less the amount of such election.
+If an election has been made with respect to such former spouse under section 4159 or 4046(f) of this title, then the survivor annuity under subsection (a) of this section of such former spouse shall be equal to the full amount of the participant's or former participant's annuity referred to in subsection (a) of this section less the amount of such election.
 
 #### (c) Disqualification
 
@@ -73,8 +73,4 @@ Another section 831 of the Foreign Service Act of 1980 was enacted by Pub. L. 10
 #### Transfer of Functions
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6551 of this title.
 

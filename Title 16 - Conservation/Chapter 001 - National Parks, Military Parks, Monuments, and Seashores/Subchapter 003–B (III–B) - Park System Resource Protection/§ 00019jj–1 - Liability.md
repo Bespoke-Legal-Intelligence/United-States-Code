@@ -30,7 +30,3 @@ The provisions of this section shall be in addition to any other liability which
 
 1996—Subsec. (b). Pub. L. 104–333 inserted “any marine or aquatic park resource” after “any park system resource”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 19jj–2 of this title.
-

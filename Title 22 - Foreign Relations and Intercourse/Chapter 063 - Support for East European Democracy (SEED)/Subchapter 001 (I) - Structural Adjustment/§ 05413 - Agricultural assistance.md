@@ -46,7 +46,3 @@ The Agricultural Trade Development and Assistance Act of 1954, referred to in su
 
 House Concurrent Resolution 106 of the 101st Congress, referred to in subsec. (d), is H. Con. Res. 106, May 18, 1989, 103 Stat. 2450, which is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5411, 5425 of this title.
-

@@ -46,7 +46,3 @@ Nothing in this chapter shall be construed to prevent the acceptance and review 
 
 (Pub. L. 95–617, title V, §505, Nov. 9, 1978, 92 Stat. 3158.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2007 of this title.
-

@@ -52,9 +52,5 @@ The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10173a of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

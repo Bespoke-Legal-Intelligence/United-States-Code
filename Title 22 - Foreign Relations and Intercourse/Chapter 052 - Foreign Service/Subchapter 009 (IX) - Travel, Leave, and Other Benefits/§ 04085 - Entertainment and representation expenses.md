@@ -1,10 +1,6 @@
 ### §4085. Entertainment and representation expenses
 
-Notwithstanding section 5536 of title 5, the Secretary may provide for official receptions and may pay entertainment and representational expenses (including expenses of family members) to enable the Department and the Service to provide for the proper representation of the United States and its interests. In carrying out this section, the Secretary shall, to the maximum extent practicable, provide for the use of United States products, including American wine.
+Notwithstanding section 5536 of title 5, the Secretary may provide for official receptions and may pay entertainment and representational expenses (including expenses of family members) to enable the Department and the Service to provide for the proper representation of the United States and its interests. In carrying out this section, the Secretary shall, to themaximum extent practicable, provide for the use of United States products, including American wine.
 
 (Pub. L. 96–465, title I, §905, Oct. 17, 1980, 94 Stat. 2128.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 287e, 1452, 2389, 2513 of this title; title 38 section 707.
 

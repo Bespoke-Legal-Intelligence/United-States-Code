@@ -38,11 +38,11 @@
 
 #### (A) Subsequent State law
 
-&emsp;&emsp;Paragraphs (1) and (2) shall not apply with respect to a particular person, trust, corporation, partnership, association, business trust, or business entity, or class thereof, in any State that, prior to the expiration of the 8-year period beginning on January 6, 1988, enacts a law that specifically refers to this section and either prohibits or provides for a more limited authority to purchase, hold, or invest in the securities by any person, trust, corporation, partnership, association, business trust, or business entity, or class thereof, than is provided in paragraphs (1) and (2).
+&emsp;&emsp;Paragraphs (1) and (2) shall not apply with respect to a particular person, trust, corporation, partnership, association, business trust, or business entity, or class thereof, in any State that, prior to the expiration of the8-year period beginning on January 6, 1988, enacts a law that specifically refers to this section and either prohibits or provides for a more limited authority to purchase, hold, or invest in the securities by any person, trust, corporation, partnership, association, business trust, or business entity, or class thereof, than is provided in paragraphs (1) and (2).
 
 #### (B) Effect of subsequent State law
 
-&emsp;&emsp;The enactment by any State of a law of the type described in subparagraph (A) shallnot affect the validity of any contractual commitment to purchase, hold, or invest that was made prior to the effective date of the law and shall not require the sale or other disposition of any securities acquired prior to the effective date of the law.
+&emsp;&emsp;The enactment by any State of a law of the type described in subparagraph (A) shall not affect the validity of any contractual commitment to purchase, hold, or invest that was made prior to the effective date of the law and shall not require the sale or other disposition of any securities acquired prior to the effective date of the law.
 
 #### (d) State usury laws superseded
 

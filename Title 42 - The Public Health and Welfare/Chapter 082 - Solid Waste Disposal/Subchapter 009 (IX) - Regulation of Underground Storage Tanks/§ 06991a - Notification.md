@@ -2,7 +2,7 @@
 
 #### (a) Underground storage tanks
 
-(1) Within 18 months after November 8, 1984, each owner of an underground storage tank shallnotify the State or local agency or department designated pursuant to subsection (b)(1) of this section of the existence of such tank, specifying the age, size, type, location, and uses of such tank.
+(1) Within 18 months after November 8, 1984, each owner of an underground storage tank shall notify the State or local agency or department designated pursuant to subsection (b)(1) of this section of the existence of such tank, specifying the age, size, type, location, and uses of such tank.
 
 (2)(A) For each underground storage tank taken out of operation after January 1, 1974, the owner of such tank shall, within eighteen months after November 8, 1984, notify the State or local agency, or department designated pursuant to subsection (b)(1) of this section of the existence of such tanks (unless the owner knows the tank subsequently was removed from the ground). The owner of a tank taken out of operation on or before January 1, 1974, shall not be required to notify the State or local agency under this subsection.
 
@@ -28,7 +28,7 @@
 
 (1) Within one hundred and eighty days after November 8, 1984, the Governors of each State shall designate the appropriate State agency or department or local agencies or departments to receive the notifications under subsection (a)(1), (2), or (3) of this section.
 
-(2) Within twelve months after November 8, 1984, the Administrator, in consultation with State and local officials designated pursuant to subsection (b)(1) of this section, and after notice and opportunity for public comment, shall prescribe the form of the notice and the information to be included in the notifications under subsection (a)(1), (2), or (3) of this section. In prescribing the form of such notice, the Administrator shall take into account the effect on small businesses and other owners and operators.
+(2) Within twelve months after November 8, 1984, the Administrator, in consultation with State and local officials designated pursuant to subsection (b)(1) of this section, and after noticeand opportunity for public comment, shall prescribe the form of the notice and the information to be included in the notifications under subsection (a)(1), (2), or (3) of this section. In prescribing the form of such notice, the Administrator shall take into account the effect on small businesses and other owners and operators.
 
 #### (c) State inventories
 
@@ -39,8 +39,4 @@ Each State shall make 2 separate inventories of all underground storage tanks in
 #### Amendments
 
 1986—Subsec. (c). Pub. L. 99–499 added subsec. (c).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6991c, 6991e of this title.
 

@@ -32,21 +32,23 @@ The musical works fund.—
 
 (c)
 
-Allocation of Royalty Payments Within Groups.—If all interested copyright parties within a group specified in subsection (b) do not agree on a voluntary proposal for the distribution of the royalty payments within each group, the Librarian of Congress shall convene a copyright arbitration royalty panel which shall, pursuant to the procedures specified under section 1007(c), allocate royalty payments under this section based on the extent to which, during the relevant period—
+Allocation of Royalty Payments Within Groups.—If all interested copyright parties within a group specified in subsection (b) do not agree on a voluntary proposal for the distribution of the royalty payments within each group, the Copyright Royalty Judges shall, pursuant to the procedures specified under section 1007(c), allocate royalty payments under this section based on the extent to which, during the relevant period—
 
 &emsp;(1) for the Sound Recordings Fund, each sound recording was distributed in the form of digital musical recordings or analog musical recordings; and
 
 &emsp;(2) for the Musical Works Fund, each musical work was distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions.
 
-(Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4242; amended Pub. L. 103–198, §6(b)(3), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 105–80, §12(a)(24), Nov. 13, 1997, 111 Stat. 1535.)
+(Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4242; amended Pub. L. 103–198, §6(b)(3), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 105–80, §12(a)(24), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 108–419, §5(i)(2), Nov. 30, 2004, 118 Stat. 2368.)
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–419 substituted “Copyright Royalty Judges” for “Librarian of Congress shall convene a copyright arbitration royalty panel which” in introductory provisions.
 
 1997—Subsec. (b)(1). Pub. L. 105–80 substituted “Federation of Television” for “Federation Television” before “and Radio Artists or any successor entity)”.
 
 1993—Subsec. (c). Pub. L. 103–198 substituted “Librarian of Congress shall convene a copyright arbitration royalty panel which” for “Copyright Royalty Tribunal” in introductory provisions.
 
-#### Section Referred to in Other Sections
+#### Effective Date of 2004 Amendment
 
-This section is referred to in sections 802, 1007 of this title.
+Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject to transition provisions, see section 6 of Pub. L. 108–419, set out as an Effective Date; Transition Provisions note under section 801 of this title.
 

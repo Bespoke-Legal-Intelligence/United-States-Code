@@ -34,7 +34,3 @@ As used in this section—
 
 Reference to Veterans’ Administration deemed to refer to Department of Veterans Affairs pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 912, 913, 919 of this title.
-

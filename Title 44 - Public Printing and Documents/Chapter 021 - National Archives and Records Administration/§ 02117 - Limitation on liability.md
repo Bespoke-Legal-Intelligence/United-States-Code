@@ -22,7 +22,3 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 Amendment by Pub. L. 94–553 effective Jan. 1, 1978, see section 102 of Pub. L. 94–553, set out as an Effective Date note preceding section 101 of Title 17, Copyrights.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3102 of this title.
-

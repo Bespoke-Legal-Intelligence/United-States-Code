@@ -74,9 +74,5 @@ Amendment by section 1422(b)(4)(D) of Pub. L. 105–277 effective Apr. 1, 1999, 
 
 Amendment by Pub. L. 102–138 not applicable with respect to any grievance, within the meaning of this section, arising before Oct. 28, 1991, see section 153(f) of Pub. L. 102–138, set out as a note under section 4115 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4102, 4113, 4132, 4134, 4137, 4139, 4140 of this title; title 5 section 5596.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “the Broadcasting”.</i>
 

@@ -4,7 +4,7 @@
 
 (1) During a period of three years from December 18, 1971, the Village Corporation for each Native village identified pursuant to section 1610 of this title shall select, in accordance with rules established by the Secretary, all of the township or townships in which any part of the village is located, plus an area that will make the total selection equal to the acreage to which the village is entitled under section 1613 of this title. The selection shall be made from lands withdrawn by section 1610(a) of this title: <i>Provided</i>, That no Village Corporation may select more than 69,120 acres from lands withdrawn by section 1610(a)(2) of this title, and not more than 69,120 acres from the National Wildlife Refuge System, and not more than 69,120 acres in a National Forest: <i>Provided further</i>, That when a Village Corporation selects the surface estate to lands within the National Wildlife Refuge System or Naval Petroleum Reserve Numbered 4, the Regional Corporation, for that region may select the subsurface estate in an equal acreage from other lands withdrawn in section 1610(a) of this title within the region, if possible.
 
-(2) Selections made under this subsection (a) of this section shall be contiguous and in reasonably compact tracts, except as separated by bodies of water or by lands which are unavailable for selection, and shall be in whole sections and, wherever feasible, in units of not less than 1,280 acres: <i>Provided</i>, That the Secretary in his discretion and upon the request of the concerned Village Corporation, may waive the whole section requirement where—
+(2) Selections made under this subsection (a) of this section shall be contiguous and in reasonably compact tracts, except as separated by bodies of water or by lands which are unavailable for selection, and shall be in whole sections and, wherever feasible, in units of not less than 1,280 acres: <i>Provided</i>, That the Secretary in his discretion and upon the request of the concernedVillage Corporation, may waive the whole section requirement where—
 
 &emsp;(A)(i) a portion of available public lands of a section is separated from other available public lands in the same section by lands unavailable for selection or by a meanderable body of water;
 
@@ -16,7 +16,7 @@
 
 #### (b) Allocation; reallocation considerations
 
-The difference between twenty-two million acres and the total acreage selected by Village Corporations pursuant to subsection (a) of this section shall be allocated by the Secretary among the eleven Regional Corporations (which excludes the Regional Corporation for southeastern Alaska) on the basis of the number of Natives enrolled in each region. Each Regional Corporation shall reallocate such acreage among the Native villages within the region on an equitable basis after considering historic use, subsistence needs, and population. The action of the Secretary or the Corporation shall not be subject to judicial review. Each Village Corporation shall select the acreage allocated to it from the lands withdrawn by section 1610(a) of this title.
+The difference between twenty-two million acres and the total acreage selected by Village Corporations pursuant to subsection (a) of this section shall be allocated by the Secretary among the eleven Regional Corporations (which excludes the Regional Corporation for southeastern Alaska) on the basis of the number of Natives enrolled in each region. Each Regional Corporation shall, not later than October 1, 2005, reallocate such acreage among the Native villages within the region on an equitable basis after considering historic use, subsistence needs, and population. The action of the Secretary or the Corporation shall not be subject to judicial review. Each Village Corporation shall select the acreage allocated to it from the lands withdrawn by section 1610(a) of this title.
 
 #### (c) Computation
 
@@ -42,7 +42,7 @@ The difference between thirty-eight million acres and the 22 million acres selec
 
 &emsp;(iii) For purposes of this subparagraph and subparagraph (C), the term “Regional Corporation” shall refer only to Doyon, Limited.
 
-&emsp;(E) Where the Regional Corporation elects to obtain such public lands under subparagraph (A), (B), or (C) of this paragraph, it may select, within ninety days of receipt of notice from the Secretary, the surface estate in an equal acreage from other public lands withdrawn by the Secretary for that purpose. Such selections shall be in units no smaller than a whole section, except where the remaining entitlement is less than six hundred and forty acres, or where an entire section is not available. Where possible, selections shall be of lands from which the subsurface estate was selectedby that Regional Corporation pursuant to subsection (a)(1) of this section or section 1613(h)(9) of this title, and, where possible, all selections made under this section shall be contiguous to lands already selected by the Regional Corporation or a Village Corporation. The Secretary is authorized, as necessary, to withdraw up to two times the acreage entitlement of the in lieu surface estate from vacant, unappropriated, and unreserved public lands from which the Regional Corporation may select such in lieu surface estate except that the Secretary may withdraw public lands which had been previously withdrawn pursuant to subsection 1616(d)(1) of this title.
+&emsp;(E) Where the Regional Corporation elects to obtain such public lands under subparagraph (A), (B), or (C) of this paragraph, it may select, within ninety days of receipt of notice from the Secretary, the surface estate in an equal acreage from other public lands withdrawn by the Secretary for that purpose. Such selections shall be in units no smaller than a whole section, except where the remaining entitlement is less than six hundred and forty acres, or where an entire section is not available. Where possible, selections shall be of lands from which the subsurface estate was selected by that Regional Corporation pursuant to subsection (a)(1) of this section or section 1613(h)(9) of this title, and, where possible, all selections made under this section shall be contiguous to lands already selected by the Regional Corporation or a Village Corporation. The Secretary is authorized, as necessary, to withdraw up to two times the acreage entitlement of the in lieu surface estate from vacant, unappropriated, and unreserved public lands from which the Regional Corporation may select such in lieu surface estate except that the Secretary may withdraw public lands which had been previously withdrawn pursuant to subsection 1616(d)(1) of this title.
 
 &emsp;(F) No mineral estate or in lieu surface estate shall be available for selection within the National Petroleum Reserve—Alaska or within Wildlife Refuges as the boundaries of those refuges exist on December 18, 1971.
 
@@ -56,7 +56,21 @@ To insure that the Village Corporation for the Native village at Dutch Harbor, i
 
 Any dispute over the land selection rights and the boundaries of Village Corporations shall be resolved by a board of arbitrators consisting of one person selected by each of the Village Corporations involved, and an additional one or two persons, whichever is needed to make an odd number of arbitrators, such additional person or persons to be selected by the arbitrators selected by the Village Corporations.
 
-(Pub. L. 92–203, §12, Dec. 18, 1971, 85 Stat. 701; Pub. L. 96–487, title XIV, §§1402, 1403, Dec. 2, 1980, 94 Stat. 2492; Pub. L. 105–333, §3, Oct. 31, 1998, 112 Stat. 3130.)
+#### (f) Combining entitlements and reallocations
+
+(1) The entitlements received by any Village Corporation under subsection (a) of this section and the reallocations made to the Village Corporation under subsection (b) of this section may be combined, at the discretion of the Secretary, without—
+
+&emsp;(A) increasing or decreasing the combined entitlement; or
+
+&emsp;(B) increasing the limitation on selections of Wildlife Refuge System land, National Forest System land, or State-selected land under subsection (a) of this section.
+
+(2) The combined entitlement under paragraph (1) may be fulfilled from selections under subsection (a) or (b) of this section without regard to the entitlement specified in the selection application.
+
+(3) All selections under a combined entitlement under paragraph (1) shall be adjudicated and conveyed in compliance with this chapter.
+
+(4) Except in a case in which a survey has been contracted for December 10, 2004, the combination of entitlements under paragraph (1) shall not require separate patents or surveys, to distinguish between conveyances made to a Village Corporation under subsections (a) and (b) of this section.
+
+(Pub. L. 92–203, §12, Dec. 18, 1971, 85 Stat. 701; Pub. L. 96–487, title XIV, §§1402, 1403, Dec. 2, 1980, 94 Stat. 2492; Pub. L. 105–333, §3, Oct. 31, 1998, 112 Stat. 3130; Pub. L. 108–452, title II, §202, Dec. 10, 2004, 118 Stat. 3582.)
 
 #### References in Text
 
@@ -65,6 +79,10 @@ The public land laws, referred to in subsec. (c)(4), are classified generally to
 For Federal surplus property disposal laws, referred to in subsec. (d), see, generally, subtitle I of Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–452, §202(1), substituted “Regional Corporation shall, not later than October 1, 2005,” for “Regional Corporation shall” in second sentence.
+
+Subsec. (f). Pub. L. 108–452, §202(2), added subsec. (f).
 
 1998—Subsec. (c)(4)(C), (D). Pub. L. 105–333, §3(a)(1), added subpars. (C) and (D). Former subpars. (C) and (D) redesignated (E) and (F), respectively.
 
@@ -81,6 +99,242 @@ Subsec. (c)(4). Pub. L. 96–487, §1403, added par. (4).
 #### Separability
 
 Pub. L. 95–178, §3(b), Nov. 15, 1977, 91 Stat. 1370, provided that: “If any provision of this Act \[enacting section 1628 of this title, amending sections 1613 and 1615 of this title, and amending provisions set out as a note under this section\] or the applicability thereof is held invalid, the validity of the remainder of this Act, of section 12 of the Act of January 2, 1976 (Public Law 94–204), as amended \[set out below\], of the document referred to in section 12(b) thereof, and the duties and obligations of the Secretary of the Interior, the State of Alaska, and Cook Inlet Region, Incorporated, with respect thereto, shall not be affected thereby.”
+
+#### Land Available After Selection Period
+
+Pub. L. 108–452, title II, §201, Dec. 10, 2004, 118 Stat. 3582, provided that:
+
+“(a)
+
+In General.—To make certain Federal land available for conveyance to a Native Corporation that has sufficient remaining entitlement, the Secretary \[ofthe Interior\] may waive the filing deadlines under sections 12 and 16 of the Alaska Native Claims Settlement Act (43 U.S.C. 1611, 1615) if—
+
+&emsp;“(1) the Federal land is—
+
+&emsp;&emsp;“(A) located in a township in which all or any part of a Native Village is located; or
+
+&emsp;&emsp;“(B) surrounded by—
+
+&emsp;&emsp;&emsp;“(i) land that is owned by the Native Corporation; or
+
+&emsp;&emsp;&emsp;“(ii) selected land that will be conveyed to the Native Corporation;
+
+&emsp;“(2) the Federal land—
+
+&emsp;&emsp;“(A) became available after the end of the original selection period;
+
+&emsp;&emsp;“(B)(i) was not selected by the Native Corporation because the Federal land was subject to a competing claim or entry; and
+
+&emsp;&emsp;“(ii) the competing claim or entry has lapsed; or
+
+&emsp;&emsp;“(C) was previously an unavailable Federal enclave within a Native selection withdrawal area;
+
+&emsp;“(3)(A) the Secretary provides the Native Corporation with a specific time period in which to decline the Federal land; and
+
+&emsp;“(B) the Native Corporation does not submit to the Secretary written notice declining the land within the period established under subparagraph (A); and
+
+&emsp;“(4) the State \[of Alaska\] has voluntarily relinquished any valid State selection or top-filing for the Federal land.
+
+“(b)
+
+Congressional Action.—Subsection (a) shall not apply to a parcel of Federal land if Congress has specifically made other provisions for disposition of the parcel of Federal land.”
+
+#### Settlement of Remaining Entitlement
+
+Pub. L. 108–452, title II, §209, Dec. 10, 2004, 118 Stat. 3586, provided that:
+
+“(a)
+
+In General.—The Secretary \[of the Interior\] may enter into a binding written agreement with a Native Corporation relating to—
+
+&emsp;“(1) the land remaining to be conveyed to the Native Corporation under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) from land selected as of September 1, 2004, or land made available under section 201 \[set out above\], 206 \[amending section 1613 of this title\], or 208 \[amending section 1621 of this title\] of this Act;
+
+&emsp;“(2) the priority in which the land is to be conveyed;
+
+&emsp;“(3) the relinquishment of selections which are not to be conveyed;
+
+&emsp;“(4) the selection entitlement to which selections are to be charged, regardless of the entitlement under which originally selected;
+
+&emsp;“(5) the survey of the exterior boundaries of the land to be conveyed;
+
+&emsp;“(6) the additional survey to be performed under section 14(c) of the Alaska Native Claims Settlement Act (43 U.S.C. 1613(c)); and
+
+&emsp;“(7) the resolution of conflicts with Native allotment \[an allotment claimed under the Act of May 17, 1906 (34 Stat. 197, chapter 2469)\] applications.
+
+“(b)
+
+Requirements.—An agreement under subsection (a)—
+
+&emsp;“(1) shall be authorized by a resolution of the Native Corporation entering into the agreement; and
+
+&emsp;“(2) shall include a statement that the entitlement of the Native Corporation shall be considered complete on execution of the agreement.
+
+“(c)
+
+Correction of Conveyance Documents.—In an agreement under subsection (a), the Secretary and the Native Corporation may agree to make technical corrections to the legal description in the conveyance documents for easements previously reserved so that the easements provide the access intended by the original reservation.
+
+“(d)
+
+Consultation.—Before entering into an agreement under subsection (a), the Secretary shall ensure that the concerns or issues identified by the State \[of Alaska\] and all Federal agencies potentially affected by the agreement are given consideration.
+
+“(e)
+
+Errors.—Any Native Corporation entering into an agreement under subsection (a) shall receive any gain or bear any loss resulting from errors in prior surveys, protraction diagrams, or computation of the ownership of third parties on any land conveyed.
+
+“(f)
+
+Effect.—
+
+&emsp;“(1)
+
+In general.—An agreement under subsection (a) shall not—
+
+&emsp;&emsp;“(A) affect the obligations of Native Corporations under prior agreements; or
+
+&emsp;&emsp;“(B) result in a Native Corporation relinquishing valid selections of land in order to qualify for the withdrawal of other tracts of land.
+
+&emsp;“(2)
+
+Effect on subsurface rights.—The terms of an agreement entered into under subsection (a) shall be binding on a Regional Corporation with respect to the location and quantity of subsurface rights of the Regional Corporation under section 14(f) of the Alaska Native Claims Settlement Act (43 U.S.C. 1613(f)).
+
+&emsp;“(3)
+
+Effect on entitlement.—Nothing in this section increases the entitlement provided to any Native Corporation under—
+
+&emsp;&emsp;“(A) the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.); or
+
+&emsp;&emsp;“(B) the Alaska National Interest Lands Conservation Act (16 U.S.C. 3101 et seq.).
+
+“(g)
+
+Boundaries of a Native Village.—An agreement entered into under subsection (a) may not define the boundaries of a Native Village.
+
+“(h)
+
+Availability of Agreements.—An agreement entered into under subsection (a) shall be available for public inspection in the appropriate offices of the Department of the Interior.”
+
+#### Final Priorities; Conveyance and Survey Plans
+
+Pub. L. 108–452, title IV, §§401–403, Dec. 10, 2004, 118 Stat. 3591, provided that:
+
+#### “SEC. 401. DEADLINE FOR ESTABLISHMENT OF REGIONAL PLANS.
+
+“(a)
+
+In General.—Not later than 18 months after the date of enactment of this Act \[Dec. 10, 2004\], the Secretary \[of the Interior\], in coordination and consultation with Native Corporations, other Federal land management agencies, and the State \[of Alaska\], shall update and revise the 12 preliminary Regional Conveyance and Survey Plans.
+
+“(b)
+
+Inclusions.—The updated and revised plans under subsection (a) shall identify any conflicts to be resolved and recommend any actions that should be taken to facilitate the finalization of land conveyances in a region by 2009.
+
+#### “SEC. 402. DEADLINE FOR ESTABLISHMENT OF VILLAGE PLANS.
+
+“Not later than 30 months after the date of enactment of this Act \[Dec. 10, 2004\], the Secretary, in coordination with affected Federal land management agencies, the State, and Village Corporations, shall complete a final closure plan with respect to the entitlements for each Village Corporation under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
+
+#### “SEC. 403. FINAL PRIORITIZATION OF ANCSA SELECTIONS.
+
+“(a)
+
+In General.—Any Native Corporation that has not received its full entitlement or entered into a voluntary, negotiated settlement of final entitlement shall submit the final, irrevocable priorities of the Native Corporation—
+
+&emsp;“(1) in the case of a Village, Group, or Urban Corporation entitlement, not later than 36 months after the date of enactment of this Act \[Dec. 10, 2004\]; and
+
+&emsp;“(2) in the case of a Regional Corporation entitlement, not later than 42 months after the date of enactment of this Act.
+
+“(b)
+
+Acreage Limitations.—The priorities submitted under subsection (a) shall not exceed land that is the greater of—
+
+&emsp;“(1) not more than 125 percent of the remaining entitlement; or
+
+&emsp;“(2) not more than 640 acres in excess of the remaining entitlement.
+
+“(c)
+
+Corrections.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), the priorities submitted under subsection (a) may not be revoked, rescinded, or modified by the Native Corporation.
+
+&emsp;“(2)
+
+Technical corrections.—Not later than 90 days after the date of receipt of a notification by the Secretary that there appears to be a technical error in the priorities, the Native Corporation may correct the technical error in accordance with any recommendations of, and in a manner prescribed by or acceptable to, the Secretary.
+
+“(d)
+
+Relinquishment.—
+
+&emsp;“(1)
+
+In general.—As of the date on which the Native Corporation submits its final priorities under subsection (a)—
+
+&emsp;&emsp;“(A) any unprioritized, remaining selections of the Native Corporation—
+
+&emsp;&emsp;&emsp;“(i) are relinquished, but any part of the selections may be reinstated for the purpose of correcting a technical error; and
+
+&emsp;&emsp;&emsp;“(ii) have no further segregative effect; and
+
+&emsp;&emsp;“(B) all withdrawals under sections 11 and 16 of the Alaska Native Claims Settlement Act (43 U.S.C. 1610, 1615) under the relinquished selections are terminated.
+
+&emsp;“(2)
+
+Records.—All relinquishments under paragraph (1) shall be included in Bureau of Land Management land records.
+
+“(e)
+
+Failure To Submit Priorities.—If a Native Corporation fails to submit priorities by the deadline specified in subsection (a)—
+
+&emsp;“(1) with respect to a Native Corporation that has priorities on file with the Secretary, the Secretary—
+
+&emsp;&emsp;“(A) shall convey to the Native Corporation the remaining entitlement of the Native Corporation, as determined based on the most recent priorities of the Native Corporation on file with the Secretary and in accordance with the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.); and
+
+&emsp;&emsp;“(B) may reject any selections not needed to fulfill the entitlement; or
+
+&emsp;“(2) with respect to a Native Corporation that does not have priorities on file with the Secretary, the Secretary shall satisfy the entitlement by conveying land selected by the Secretary, in consultation with the appropriate Native Corporation, the Federal land managing agency with administrative jurisdiction over the land to be conveyed, and the State, that, to the maximum extent practicable, is—
+
+&emsp;&emsp;“(A) compact;
+
+&emsp;&emsp;“(B) contiguous to land previously conveyed to the Native Corporation; and
+
+&emsp;&emsp;“(C) consistent with the applicable preliminary Regional Conveyance and Survey Plan referred to in section 401.
+
+“(f)
+
+Plan of Conveyance.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall—
+
+&emsp;&emsp;“(A) identify any Native Corporation that does not have sufficient priorities on file;
+
+&emsp;&emsp;“(B) develop priorities for the Native Corporation in accordance with subsection (e); and
+
+&emsp;&emsp;“(C) provide to the Native Corporation a plan of conveyance based on the priorities developed under subparagraph (B).
+
+&emsp;“(2)
+
+Finalized selections.—Not later than 180 days after the date on which the Secretary provides a plan of conveyance to the affected Village, Group, or Urban Corporation and the Regional Corporation, the Regional Corporation shall finalize any Regional selections that are in conflict with land selected by the Village, Group, or Urban Corporation that has not been prioritized by the deadline under subsection (a)(1).
+
+“(g)
+
+Dissolved or Lapsed Corporations.—
+
+&emsp;“(1)(A) If a Native Corporation is lapsed or dissolved at the time final priorities are required to be filed under this section and does not have priorities on file with the Secretary, the Secretary shall establish a deadline for the filing of priorities that shall be one year from the provisions of notice of the deadline.
+
+&emsp;“(B) To fulfill the notice requirement under paragraph (1), the Secretary shall—
+
+&emsp;&emsp;“(i) publish notice of the deadline to a lapsed or dissolved Native Corporation in a newspaper of general circulation nearest the locality where the affected land is located; and
+
+&emsp;&emsp;“(ii) seek to notify in writing the last known shareholders of the lapsed or dissolved corporation.
+
+&emsp;“(C) If a Native Corporation does not file priorities with the Secretary before the deadline set pursuant to subparagraph (A), the Secretary shall notify Congress.
+
+&emsp;“(2) If a Native Corporation with final priorities on file with the Bureau of Land Management is lapsed or dissolved, the United States—
+
+&emsp;&emsp;“(A) shall continue to administer the prioritized selected land under applicable law; but
+
+&emsp;&emsp;“(B) may reject any selections not needed to fulfill the lapsed or dissolved Native Corporation's entitlement.”
 
 #### Availability of Property Account for Purposes Involving Public Sale of Property by Federal Agencies
 
@@ -144,7 +398,7 @@ Pub. L. 94–204, §12, Jan. 2, 1976, 89 Stat. 1150, as amended by Pub. L. 94–
 
 &emsp;“(5) title to twenty-nine and sixty-six hundredths townships of land outside the boundaries of Cook Inlet Region: unless pursuant to the document referred to in this subsection a greater or lesser entitlement shall exist, in which case the Secretary shall convey such entitlement;
 
-&emsp;“(6) title to lands selected by the Region from a pool which shall be established by the Secretary and the Administrator of General Services: <i>Provided</i>, That conveyances pursuant to this paragraph shall not be subject to the provisions of section 22(<i>l</i>) of the Settlement Act \[section 1621(<i>l</i>) of this title\]: <i>Provided further</i>, That conveyances pursuant to this paragraph shall be made in exchange for lands or rights to select lands outside the boundaries of Cook Inlet Region as described in paragraph (5) of this subsection and on the basis of values determined by agreement among the parties, notwithstanding any other provision of law. Effective upon their conveyance, the lands referred to in paragraph (1) of this subsection are excluded from the Kenai National Moose Range, but they shall automatically become part of the range and subject to the laws and regulations applicable thereto upon title thereafter vesting in the UnitedStates. The Secretary is authorized to acquire lands formerly within the range with the concurrence of the Region so long as the Region owns such lands. Section 22(e) of the Settlement Act \[section 1621(e) of this title\], concerning refuge replacement, shall apply with respect to lands conveyed pursuant to paragraphs (1) and (2) of this subsection, except that the Secretary may designate for replacement land twice the amount of any land conveyed without restriction to a native corporation.
+&emsp;“(6) title to lands selected by the Region from a pool which shall be established by the Secretary and the Administrator of General Services: <i>Provided</i>, That conveyances pursuant to this paragraph shall not be subject to the provisions of section 22(<i>l</i>) of the Settlement Act \[section 1621(<i>l</i>) of this title\]: <i>Provided further</i>, That conveyances pursuant to this paragraph shall be made in exchange for lands or rights to select lands outside the boundaries of Cook Inlet Region as described in paragraph (5) of this subsection and on the basis of values determined by agreement among the parties, notwithstanding any other provision of law. Effective upon their conveyance, the lands referred to in paragraph (1) of this subsection are excluded from the Kenai National Moose Range, but they shall automatically become part of the range and subject to the laws and regulations applicable thereto upon title thereafter vesting in the United States. The Secretary is authorized to acquire lands formerly within the range with the concurrence of the Region so long as the Region owns such lands. Section 22(e) of the Settlement Act \[section 1621(e) of this title\], concerning refuge replacement, shall apply with respect to lands conveyed pursuant to paragraphs (1) and (2) of this subsection, except that the Secretary may designate for replacement land twice the amount of any land conveyed without restriction to a native corporation.
 
 &emsp;“(7)(i) Until the obligations of the Secretary and the Administrator of General Services under section 12(b)(5) and (6) of this Act \[subsec. (b)(5), (6) of this note\] are otherwise fulfilled: (a) Cook Inlet Region, Incorporated, may, by using the account established in subsection 12(b)(7)(iv) \[subsec. (b)(7)(iv) of this note\], bid, as any other bidder for property as defined in subsection 12(b)(7)(vii) \[subsec. (b)(7)(vii) of this note\],, \[sic\] wherever located, in accordance with the applicable laws and regulations of the Federal agency or instrumentality offering such property for sale. No preference right of any type will be offered to Cook Inlet Region Incorporated, for bidding on property under this section 12(b)(7) \[subsec. (b)(7) of this note\]. There shall be no advertising other than that ordinarily required by such sale. \[sic\] (b) the Administrator of General Services may, at the discretion of the Administrator, tender to the Secretary any surplus property otherwise to be disposed of pursuant to 40 U.S.C. 484(e)(3) \[now 40 U.S.C. 545(b)\] to be offered Cook Inlet Region, Incorporated for a period of 90 days so as to aid in the fulfillment of the Secretary's program purposes under the Alaska Native Claims Settlement Act \[this chapter\]: <i>Provided</i>, That nothing in these subsections 12(b)(7)(i)(b) or (ii) \[subsec. (b)(7)(i)(b) or (ii) of this note\] shall be construed to establish, enlarge or diminish authority of the Administrator or the Secretary within the State of Alaska. Prior to any disposition under subsection 12(b)(7)(i)(b) \[subsec. (b)(7)(i)(b) of this note\], the Administrator shall notify the governing body of the locality where such property is located and any appropriate state agency, and no such disposition shall be made if such governing body or state agency, within ninety days of such notification formally advises the Administrator that it objects to the proposed disposition.
 
@@ -162,7 +416,7 @@ Pub. L. 94–204, §12, Jan. 2, 1976, 89 Stat. 1150, as amended by Pub. L. 94–
 
 &emsp;“(v) The amount charged against the Treasury account established under subsection 12(b)(7)(iv) \[subsec. (b)(7)(iv) of this note\] for sales or transfers of property made pursuant to the Federal Property and Administrative Services Act of 1949, 40 U.S.C. sec. 471 et seq. \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\], or any legislative or executive delegation under that Act, shall be treated as proceeds of dispositions of surplus property for the purpose of determining the basis for calculating direct expenses pursuant to 40 U.S.C. 485(b) \[now 40 U.S.C. 572(a)\], as amended.
 
-&emsp;“(vi) The basis for computing gain or loss on subsequent sale or other disposition of lands or interests in land conveyed to Cook Inlet Region, Incorporated, under this subsection, for purposes of any Federal, State or local tax imposed on or measured by income, shall be the fair value of such land or interest in land at the time of receipt. The amount charged against Cook Inlet's entitlement under I(C)(2)(e) of the document referred to in subsection (b) of this section \[subsec. (b) of this note\] shall be prima facie evidence of such fair value.
+&emsp;“(vi) The basis for computing gain or loss on subsequent sale or other disposition of lands or interests in land conveyed to Cook Inlet Region, Incorporated,under this subsection, for purposes of any Federal, State or local tax imposed on or measured by income, shall be the fair value of such land or interest in land at the time of receipt. The amount charged against Cook Inlet's entitlement under I(C)(2)(e) of the document referred to in subsection (b) of this section \[subsec. (b) of this note\] shall be prima facie evidence of such fair value.
 
 &emsp;“(vii) Notwithstanding the definition of ‘property’ found in the Federal Property and Administrative Services Act of 1949, as amended \[see 40 U.S.C. 102(9)\], as used in this section 12(b)(7) \[subsec. (b)(7) of this note\], ‘property’ means any property—real, personal (including intangible assets sold or offered by the Federal Deposit Insurance Corporation or the Resolution Trust Corporation, such as financial instruments, notes, loans, and bonds), or mixed—owned, held, or controlled by the United States (including that in a corporate capacity or as a receiver or conservator, or such other similar fiduciary relationship), and offered for sale by any agency or instrumentality of the United States, including but not limited to the General Services Administration, Department of Defense, Department of the Interior, Department of Agriculture, Department of Housing and Urban Development, the United States Courts and any Government corporation, agency or instrumentality subject to chapter 91 of title 31, United States Code; real property means any land or interest in land or option to purchase land, any improvements on such lands, or rights to their use or exploitation.
 
@@ -214,9 +468,9 @@ Pub. L. 94–204, §12, Jan. 2, 1976, 89 Stat. 1150, as amended by Pub. L. 94–
 
 “(d)(1) The Secretary shall convey to the State of Alaska all right, title, and interest of the United States in and to all of the following lands:
 
-&emsp;“(i) At least 22.8 townships and no more than 27 townships of land from those presently withdrawn under section 17(d)(2) of the Settlement Act \[section 1616(d)(2) of this title\] in the Lake Iliamna area and within the Nushagak River or Koksetana River drainages near lands heretofore selected by the State, the amount and identities of which shall be determined pursuant to the document referred to in subsection (b); and
+&emsp;“(i) At least 22.8 townships and no more than 27 townships of land from those presently withdrawn under section 17(d)(2) of the Settlement Act \[section 1616(d)(2) of this title\] in the Lake Iliamna area andwithin the Nushagak River or Koksetana River drainages near lands heretofore selected by the State, the amount and identities of which shall be determined pursuant to the document referred to in subsection (b); and
 
-&emsp;“(ii) 26 townships of lands in the Talkeetna Mountains, Kamishak Bay, and Tutna Lake areas, theidentities of which are set forth in the document referred to in subsection (b).
+&emsp;“(ii) 26 townships of lands in the Talkeetna Mountains, Kamishak Bay, and Tutna Lake areas, the identities of which are set forth in the document referred to in subsection (b).
 
 > All lands granted to the State of Alaska pursuant to this subsection shall be regarded for all purposes as if conveyed to the State under and pursuant to section 6 of the Alaska Statehood Act \[set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\]: <i>Provided, however</i>, That this grant of lands shall not constitute a charge against the total acreage to which the State is entitled under section 6(b) of the Alaska Statehood Act.
 
@@ -274,7 +528,7 @@ Pub. L. 94–204, §15, Jan. 2, 1976, 89 Stat. 1154, as amended by Pub. L. 96–
 
 &emsp;“Township 41 south, range 54 west, section 6, S. M., Alaska;
 
-“Notwithstanding the withdrawal of such lands by Public Land Order 5179, as amended, pursuant to section 17(d)(2) of the Settlement Act \[section 1616(d)(2) of this title\]: <i>Provided</i>, That notwithstanding the future designation by Congress as part of the National Park System or other national land system referred to in section 17(d)(2)(A) of the Settlement Act \[section 1616(d)(2)(A) of this title\] of the surface estate overlying any subsurface estate conveyed as provided inthis section, and with or without such designation, Koniag, Incorporated, shall have such use of the surface estate, including such right of access thereto, as is reasonably necessary to the exploration for and the removal of oil and gas from said subsurface estate, subject to such regulations by the Secretary as are necessary to protect the ecology from permanent harm.
+“Notwithstanding the withdrawal of such lands by Public Land Order 5179, as amended, pursuant to section 17(d)(2) of the Settlement Act \[section 1616(d)(2) of this title\]: <i>Provided</i>, That notwithstanding the future designation by Congress as part of the National Park System or other national land system referred to in section 17(d)(2)(A) of the Settlement Act \[section 1616(d)(2)(A) of this title\] of the surface estate overlying any subsurface estate conveyed as provided in this section, and with or without such designation, Koniag, Incorporated, shall have such use of the surface estate, including such right of access thereto, as is reasonably necessary to the exploration for and the removal of oil and gas from said subsurface estate, subject to such regulations by the Secretary as are necessary to protect the ecology from permanent harm.
 
 “The United States shall make available to Koniag, its successors and assigns, such sand and gravel as is reasonably necessary for the construction of facilities and rights-of-way appurtenant to the exercise of the rights conveyed under this section, pursuant to the provisions of section 601 et seq., title 30, United States Code, and the regulations implementing that statute which are then in effect.
 
@@ -297,10 +551,6 @@ Pub. L. 94–204, §16, Jan. 2, 1976, 89 Stat. 1155, provided that: “Within ni
 “The Secretary shall receive and adjudicate such selections as though they were timely filed pursuant to section 12(a) or 12(b) of the Settlement Act \[section 1611(a) or 1611(b) of this title\], and were withdrawn pursuant to section 11 of that Act \[section 1610 of this title\].
 
 “The Secretary shall convey such lands selected pursuant to this authorization which otherwise comply with the applicable statutes and regulations. This section shall not be construed to increase the entitlement of the corporation of the enrolled residents of Tatitlek or to increase the amount of land that may be selected from the National Forest System. The subsurface of any land selected pursuant to this section shall be conveyed to the Regional Corporation for the Chugach Region pursuant to section 14(f) of the Settlement Act \[section 1613(f) of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1613, 1616, 1620, 1621, 1627, 1629a, 1635, 1641 of this title; title 45 section 1205.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

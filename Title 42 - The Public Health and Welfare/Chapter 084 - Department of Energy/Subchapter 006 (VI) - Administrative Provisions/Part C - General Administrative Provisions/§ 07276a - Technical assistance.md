@@ -8,7 +8,3 @@ The Administrator may provide technical assistance to customers to, among other 
 
 Section was enacted as part of the Hoover Power Plant Act of 1984, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7275, 7276, 7276b, 7276c of this title.
-

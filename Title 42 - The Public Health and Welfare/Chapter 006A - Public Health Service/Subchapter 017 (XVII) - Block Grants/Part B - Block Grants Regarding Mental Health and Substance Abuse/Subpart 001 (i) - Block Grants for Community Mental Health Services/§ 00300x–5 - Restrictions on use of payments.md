@@ -26,7 +26,3 @@ A prior section 300x–5, act July 1, 1944, ch. 373, title XIX, §1917, formerly
 
 A prior section 1916 of act July 1, 1944, was classified to section 300x–4 of this title prior to repeal by Pub. L. 102–321.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300x, 300x–6 of this title.
-

@@ -50,13 +50,13 @@ A proceeding for the promulgation of a regulation under section 1261(q)(1) of th
 
 &emsp;(5) invite any person (other than the Commission) to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days after the date of publication of the notice), an existing standard or a portion of a standard as a proposed regulation under section 1261(q)(1) of this title or subsection (e) of this section; and
 
-&emsp;(6) invite any person (other than the Commission) to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days after the date of publication of the notice), a statement of intention to modify ordevelop a voluntary standard to address the risk of injury identified in paragraph (1) together with a description of a plan to modify or develop the standard.
+&emsp;(6) invite any person (other than the Commission) to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days after the date of publication of the notice), a statement of intention to modify or develop a voluntary standard to address the risk of injury identified in paragraph (1) together with a description of a plan to modify or develop the standard.
 
 > The Commission shall transmit such notice within 10 calendar days to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 
 #### (g) Publication of standard; termination of proceeding for promulgation of regulation; monitoring of compliance
 
-(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (f)(5) of this section if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a regulation under section 1261(q)(1) of this title or subsection (e) of this section, as the case may be, would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (f)(1) of this section, the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed regulation under such section or subsection.
+(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (f)(5) of this section if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a regulation under section 1261(q)(1) of this title or subsection (e) of this section, as the case may be, would eliminate oradequately reduce the risk of injury identified in the notice provided under subsection (f)(1) of this section, the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed regulation under such section or subsection.
 
 (2) If the Commission determines that—
 
@@ -94,7 +94,7 @@ No regulation under section 1261(q)(1) of this title classifying an article or s
 
 &emsp;(A) A description of the potential benefits and potential costs of the regulation, including costs and benefits that cannot be quantified in monetary terms, and the identification of those likely to receive the benefits and bear the costs.
 
-&emsp;(B) A description of any alternatives to the final regulation which were considered by the Commission, together with a summary description of their potential benefits and costsand a brief explanation of the reasons why these alternatives were not chosen.
+&emsp;(B) A description of any alternatives to the final regulation which were considered by the Commission, together with a summary description of their potential benefits and costs and a brief explanation of the reasons why these alternatives were not chosen.
 
 &emsp;(C) A summary of any significant issues raised by the comments submitted during the public comment period in response to the preliminary regulatory analysis, and a summary of the assessment by the Commission of such issues.
 
@@ -104,7 +104,7 @@ No regulation under section 1261(q)(1) of this title classifying an article or s
 
 &emsp;(A) in the case of a regulation which relates to a risk of injury with respect to which persons who would be subject to such regulation have adopted and implemented a voluntary standard, that—
 
-&emsp;&emsp;(i) compliance with such voluntary standard is not likely to result in the elimination or adequate reduction of such risk of injury; or
+&emsp;&emsp;(i) compliance with such voluntary standard is not likely to result in the eliminationor adequate reduction of such risk of injury; or
 
 &emsp;&emsp;(ii) it is unlikely that there will be substantial compliance with such voluntary standard;
 
@@ -156,9 +156,5 @@ Amendment by Pub. L. 91–113 effective on sixtieth day following Nov. 6, 1969, 
 
 #### National Commission on Product Safety
 
-Pub. L. 90–146, Nov. 20, 1967, 81 Stat. 466, as amended by Pub. L. 91–51, Aug. 4, 1969, 83 Stat. 86, established aNational Commission on Product Safety to study and investigate the scope and adequacy of measures to protect consumers against unreasonable risk of injuries which may be caused by hazardous household products and required the Commission to transmit its final report to the President and to the Congress by June 30, 1970. Ninety days after submission of its final report the Commission ceased to exist by the express terms of Pub. L. 90–146.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1261, 1275, 1276, 1277 of this title.
+Pub. L. 90–146, Nov. 20, 1967, 81 Stat. 466, as amended by Pub. L. 91–51, Aug. 4, 1969, 83 Stat. 86, established a National Commission on Product Safety to study and investigate the scope and adequacy of measures to protect consumers against unreasonable risk of injuries which may be caused by hazardous household products and required the Commission to transmit its final report to the President and to the Congress by June 30, 1970. Ninety days after submission of its final report the Commission ceased to exist by the express terms of Pub. L. 90–146.
 

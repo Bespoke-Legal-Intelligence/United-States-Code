@@ -159,6 +159,7 @@
 | (a) | Authority. |
 | (b) | Terms of loans. |
 | (c) | Limitation on outstanding guarantees. |
+| (d) | Limitation on percentage. |
 | [4192\.](Subchapter%20006%20%28VI%29%20-%20Federal%20Guarantees%20for%20Financing%20for%20Tribal%20Housing%20Activities/%C2%A7%2004192%20-%20Security%20and%20repayment.md) | Security and repayment. |
 | (a) | Requirements on issuer. |
 | (b) | Repayment from grant amounts. |
@@ -262,17 +263,13 @@
 | (a) | Annual review. |
 | (b) | Report by Secretary. |
 | (c) | Effect of reviews. |
-| [4241\.](Subchapter%20008%20%28VIII%29%20-%20Housing%20Assistance%20for%20Native%20Hawaiians/%C2%A7%2004241%20-%20General%20Accounting%20Office%20audits.md) | General Accounting Office audits. |
+| [4241\.](Subchapter%20008%20%28VIII%29%20-%20Housing%20Assistance%20for%20Native%20Hawaiians/%C2%A7%2004241%20-%20Government%20Accountability%20Office%20audits.md) | Government Accountability Office audits. |
 | [4242\.](Subchapter%20008%20%28VIII%29%20-%20Housing%20Assistance%20for%20Native%20Hawaiians/%C2%A7%2004242%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | (a) | In general. |
 | (b) | Related reports. |
 | [4243\.](Subchapter%20008%20%28VIII%29%20-%20Housing%20Assistance%20for%20Native%20Hawaiians/%C2%A7%2004243%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 12 section 1715z–13a; title 20 section 7713; title 26 section 42; title 42 sections 1396r–1a, 1437z–6, 11902, 11903, 11904, 11905, 11908, 14614.
 
 
 ---

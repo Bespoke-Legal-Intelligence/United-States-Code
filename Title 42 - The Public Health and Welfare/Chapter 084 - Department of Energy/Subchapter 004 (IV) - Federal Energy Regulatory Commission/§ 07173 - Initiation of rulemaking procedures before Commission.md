@@ -14,7 +14,7 @@ Any function described in section 7172 of this title which relates to the establ
 
 #### (d) Submission of written questions by interested persons
 
-With respect to any rule or regulation promulgated by the Commission to establish rates and charges for the first sale of natural gas by a producer or gatherer to a natural gas pipeline under the Natural Gas Act \[15 U.S.C. 717 et seq.\], the Commission may afford any interested person a reasonable opportunity to submit written questions with respect to disputed issues of fact to other interested persons participating in the rulemaking proceedings. The Commission may establish a reasonable time for both the submission of questions and responses thereto.
+With respect to any rule or regulation promulgated by the Commission to establish rates and charges for the first sale of natural gas by a producer or gatherer to a natural gas pipeline underthe Natural Gas Act \[15 U.S.C. 717 et seq.\], the Commission may afford any interested person a reasonable opportunity to submit written questions with respect to disputed issues of fact to other interested persons participating in the rulemaking proceedings. The Commission may establish a reasonable time for both the submission of questions and responses thereto.
 
 (Pub. L. 95–91, title IV, §403, Aug. 4, 1977, 91 Stat. 585.)
 
@@ -23,8 +23,4 @@ With respect to any rule or regulation promulgated by the Commission to establis
 The Federal Power Act, referred to in subsec. (c), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
 The Natural Gas Act, referred to in subsecs. (c) and (d), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7174 of this title.
 

@@ -24,7 +24,7 @@ Until the date on which the national park is established, the Secretary shall an
 
 #### (e) Transfer of jurisdiction
 
-Administrative jurisdiction is transferred to the National Park Service over any land under the jurisdiction of the Department of the Interior that—
+Administrative jurisdiction is transferred to the National Park Service over any land underthe jurisdiction of the Department of the Interior that—
 
 &emsp;(1) is depicted on the map as being within the boundaries of the national park or the preserve; and
 
@@ -35,8 +35,4 @@ Administrative jurisdiction is transferred to the National Park Service over any
 #### Designation of Park
 
 On Sept. 13, 2004, the Secretary of the Interior made the determination under subsec. (a) of this section and designated the existing Great Sand Dunes National Monument as the Great Sand Dunes National Park. See 69 F.R. 57355.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410hhh–1 of this title.
 

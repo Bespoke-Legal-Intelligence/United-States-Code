@@ -66,9 +66,5 @@ Amendment by section 7303(a)(2) of Pub. L. 100–690 applicable with respect to 
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3562, 3563, 3607, 3613A, 3664, 4104, 5037 of this title; title 28 section 994.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

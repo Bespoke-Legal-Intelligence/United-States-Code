@@ -14,7 +14,7 @@
 
 &emsp;(6) knowingly possesses an identification document or authentication feature that is or appears to be an identification document or authentication feature of the United States which is stolen or produced without lawful authority knowing that such document or feature was stolen or produced without such authority;
 
-&emsp;(7) knowingly transfers or uses, without lawful authority, a means of identification of another person with the intent to commit, or to aid or abet, any unlawful activity that constitutes a violation of Federal law, or that constitutes a felony under any applicable State or local law; or
+&emsp;(7) knowingly transfers, possesses, or uses, without lawful authority, a means of identification of another person with the intent to commit, or to aid or abet, or in connection with, any unlawful activity that constitutes a violation of Federal law, or that constitutes a felony under any applicable State or local law; or
 
 &emsp;(8) knowingly traffics in false authentication features for use in false identification documents, document-making implements, or means of identification;
 
@@ -34,9 +34,9 @@
 
 &emsp;&emsp;(C) an offense under paragraph (5) of such subsection; or
 
-&emsp;&emsp;(D) an offense under paragraph (7) of such subsection that involves the transfer or use of 1 or more means of identification if, as a result of the offense, any individual committing the offense obtains anything of valueaggregating $1,000 or more during any 1-year period;
+&emsp;&emsp;(D) an offense under paragraph (7) of such subsection that involves the transfer, possession, or use of 1 or more means of identification if, as a result of the offense, any individual committing the offense obtains anything of value aggregating $1,000 or more during any 1-year period;
 
-&emsp;(2) except as provided in paragraphs (3) and (4), a fine under this title or imprisonment for not more than three years, or both, if the offense is—
+&emsp;(2) except as provided in paragraphs (3) and (4), a fine under this title or imprisonment for not more than 5 years, or both, if the offense is—
 
 &emsp;&emsp;(A) any other production, transfer, or use of a means of identification, an identification document,,<sup>1</sup> authentication feature, or a false identification document; or
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(C) after a prior conviction under this section becomes final;
 
-&emsp;(4) a fine under this title or imprisonment for not more than 25 years, or both, if the offense is committed to facilitate an act of international terrorism (as defined in section 2331(1) of this title);
+&emsp;(4) a fine under this title or imprisonment for not more than 30 years, or both, if the offense is committed to facilitate an act of domestic terrorism (as defined under section 2331(5) of this title) or an act of international terrorism (as defined in section 2331(1) of this title);
 
 &emsp;(5) in the case of any offense under subsection (a), forfeiture to the United States of any personal property used or intended to be used to commit the offense; and
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(B) the means of identification, identification document, false identification document, or document-making implement is transported in the mail in the course of the production, transfer, possession, or use prohibited by this section.
 
-(d) In this section—
+(d) In this section and section 1028A—
 
 &emsp;(1) the term “authentication feature” means any hologram, watermark, certification, symbol, code, image, sequence of numbers or letters, or other feature that either individually or in combination with another feature is used by the issuing authority on an identification document, document-making implement, or means of identification to determine if the document is counterfeit, altered, or otherwise falsified;
 
@@ -98,7 +98,7 @@
 
 &emsp;(7) the term “means of identification” means any name or number that may be used, alone or in conjunction with any other information, to identify a specific individual, including any—
 
-&emsp;&emsp;(A) name, social security number, date of birth, official State or government issueddriver's license or identification number, alien registration number, government passport number, employer or taxpayer identification number;
+&emsp;&emsp;(A) name, social security number, date of birth, official State or government issued driver's license or identification number, alien registration number, government passport number, employer or taxpayer identification number;
 
 &emsp;&emsp;(B) unique biometric data, such as fingerprint, voice print, retina or iris image, or other unique physical representation;
 
@@ -138,9 +138,21 @@ Forfeiture; Disposition.—In the circumstance in which any person is convicted 
 
 Rule of Construction.—For purpose of subsection (a)(7), a single identification document or false identification document that contains 1 or more means of identification shall be construed to be 1 means of identification.
 
-(Added Pub. L. 97–398, §2, Dec. 31, 1982, 96 Stat. 2009; amended Pub. L. 99–646, §44(a), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 100–690, title VII, §7023, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, §1205(e), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(K), (M), (O), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–208, div. C, title II, §211(a)(1), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 104–294, title VI, §601(a)(3), (p), Oct. 11, 1996, 110 Stat. 3498, 3502; Pub. L. 105–318, §3(a)–(h)(1), Oct. 30, 1998, 112 Stat. 3007–3009; Pub. L. 106–578, §3, Dec. 28, 2000, 114 Stat. 3076; Pub. L. 108–21, title VI, §607(b), Apr. 30, 2003, 117 Stat. 689.)
+(Added Pub. L. 97–398, §2, Dec. 31, 1982, 96 Stat. 2009; amended Pub. L. 99–646, §44(a), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 100–690, title VII, §7023, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, §1205(e), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(K), (M), (O), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–208, div. C, title II, §211(a)(1), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 104–294, title VI, §601(a)(3), (p), Oct. 11, 1996, 110 Stat. 3498, 3502; Pub. L. 105–318, §3(a)–(h)(1), Oct. 30, 1998, 112 Stat. 3007–3009; Pub. L. 106–578, §3, Dec. 28, 2000, 114 Stat. 3076; Pub. L. 108–21, title VI, §607(b), Apr. 30, 2003, 117 Stat. 689; Pub. L. 108–275, §§2(c), 3, July 15, 2004, 118 Stat. 832; Pub. L. 108–458, title VII, §7216, Dec. 17, 2004, 118 Stat. 3833.)
 
 #### Amendments
+
+2004—Subsec. (a)(7). Pub. L. 108–275, §3(1), substituted “transfers, possesses,” for “transfers” and “abet, or in connection with,” for “abet,”.
+
+Subsec. (b)(1)(D). Pub. L. 108–275, §3(2), substituted “transfer, possession,” for “transfer”.
+
+Subsec. (b)(2). Pub. L. 108–275, §3(3), substituted “5 years” for “three years” in introductory provisions.
+
+Subsec. (b)(4). Pub. L. 108–458 substituted “30 years” for “25 years”.
+
+Pub. L. 108–275, §3(4), inserted “an act of domestic terrorism (as defined under section 2331(5) of this title) or” after “facilitate”.
+
+Subsec. (d). Pub. L. 108–275, §2(c), inserted “and section 1028A” after “In this section” in introductory provisions.
 
 2003—Pub. L. 108–21, §607(b)(6), inserted “, authentication features,” after “documents” in section catchline.
 
@@ -282,7 +294,7 @@ Contents.—The report referred to in paragraph (1) shall include—
 
 #### Constitutional Authority
 
-Pub. L. 105–318, §2, Oct. 30, 1998, 112 Stat. 3007, provided that: “The constitutional authority upon which this Act \[see Short Title of 1998 Amendments note set out under section 1001 of this title\] rests is the power of Congress to regulate commerce with foreign nations and among the several States, and the authority to make all laws which shall be necessary and proper for carrying into execution the powers vested by the Constitution in the Government of the United States or inany department or officer thereof, as set forth in article I, section 8 of the United States Constitution.”
+Pub. L. 105–318, §2, Oct. 30, 1998, 112 Stat. 3007, provided that: “The constitutional authority upon which this Act \[see Short Title of 1998 Amendments note set out under section 1001 of this title\] rests is the power of Congress to regulate commerce with foreign nations and among the several States, and the authority to make all laws which shall be necessary and proper for carrying into execution the powers vested by the Constitution in the Government of the United States or in any department or officer thereof, as set forth in article I, section 8 of the United States Constitution.”
 
 #### Centralized Complaint and Consumer Education Service for Victims of Identity Theft
 
@@ -323,10 +335,6 @@ Pub. L. 98–473, title II, §609L, Oct. 12, 1984, 98 Stat. 2103, provided that:
 &emsp;“(2) recommend appropriate civil and criminal sanctions for the misuse or unauthorized disclosure of personal identification information, and
 
 &emsp;“(3) make recommendations providing for the exchange of personal identification information as authorized by Federal or State law or Executive order of the President or the chief executive officer of any of the several States.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 922, 981, 982, 2257, 2326, 2516 of this title; title 8 section 1324a; title 31 section 9703; title 42 section 5119a.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

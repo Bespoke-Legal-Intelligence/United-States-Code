@@ -21,10 +21,6 @@
 
 Pub. L. 91–452, title III, §301(b), Oct. 15, 1970, 84 Stat. 932, added item 1826.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 11 section 503.
-
 
 ---
 

@@ -22,11 +22,7 @@ Any highly erodible cropland for which a conservation easement or other interest
 
 #### (2) Bidding down
 
-&emsp;If the Secretary determines that 2 or more applications for the purchase of a conservation easement or other interest in eligible land described in subsection (a) of this section are comparable in achieving the purposes of thissection, the Secretary shall not assign a higher priority to any 1 of those applications solely on the basis of lesser cost to the farmland protection program established under subsection (a) of this section.
+&emsp;If the Secretary determines that 2 or more applications for the purchase of a conservation easement or other interest in eligible land described in subsection (a) of this section are comparable in achieving the purposes of this section, the Secretary shall not assign a higher priority to any 1 of those applications solely on the basis of lesser cost to the farmland protection program established under subsection (a) of this section.
 
 (Pub. L. 99–198, title XII, §1238I, as added Pub. L. 107–171, title II, §2503(a), May 13, 2002, 116 Stat. 268.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3838h of this title.
 

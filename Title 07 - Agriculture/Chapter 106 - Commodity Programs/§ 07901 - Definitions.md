@@ -40,7 +40,7 @@ In this chapter (other than subchapter III of this chapter):
 
 #### (9) Other oilseed
 
-&emsp;The term “other oilseed” means a crop of sunflower seed, rapeseed, canola, safflower, flaxseed, mustard seed, crambe, sesame seed, or, if designated by the Secretary, another oilseed.
+&emsp;The term “other oilseed” means a crop of sunflower seed, rapeseed, canola, safflower,flaxseed, mustard seed, crambe, sesame seed, or, if designated by the Secretary, another oilseed.
 
 #### (10) Payment acres
 
@@ -70,7 +70,7 @@ In this chapter (other than subchapter III of this chapter):
 
 #### (15) Target price
 
-&emsp;The term “target price” means the price per bushel (or other appropriate unit in the case ofupland cotton, rice, and other oilseeds) of a covered commodity used to determine the payment rate for counter-cyclical payments.
+&emsp;The term “target price” means the price per bushel (or other appropriate unit in the case of upland cotton, rice, and other oilseeds) of a covered commodity used to determine the payment rate for counter-cyclical payments.
 
 #### (16) United States
 
@@ -97,8 +97,4 @@ Pub. L. 108–7, div. A, title VII, §763(d), Feb. 20, 2003, 117 Stat. 47, provi
 #### Short Title
 
 Pub. L. 107–171, §1(a), May 13, 2002, 116 Stat. 134, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Farm Security and Rural Investment Act of 2002’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1308 of this title.
 

@@ -32,7 +32,7 @@ Each common carrier providing telephone voice transmission services shall, not l
 
 &emsp;(1) with respect to intrastate telecommunications relay services in any State that does not have a certified program under subsection (f) of this section and with respect to interstate telecommunications relay services, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the Commission's regulations under subsection (d) of this section; or
 
-&emsp;(2) with respect to intrastate telecommunications relay services in any State that has a certified program under subsection (f) of thissection for such State, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the program certified under subsection (f) of this section for such State.
+&emsp;(2) with respect to intrastate telecommunications relay services in any State that has a certified program under subsection (f) of this section for such State, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the program certified under subsection (f) of this section for such State.
 
 #### (d) Regulations
 
@@ -123,8 +123,4 @@ Each common carrier providing telephone voice transmission services shall, not l
 #### Amendments
 
 1996—Subsec. (a)(1). Pub. L. 104–104 substituted “section 153” for “section 153(h)”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 152, 221 of this title; title 42 sections 12201, 12206.
 

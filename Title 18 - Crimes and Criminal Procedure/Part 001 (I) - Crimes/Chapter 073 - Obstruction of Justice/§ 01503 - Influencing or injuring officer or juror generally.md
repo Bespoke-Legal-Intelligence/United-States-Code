@@ -6,7 +6,7 @@
 
 &emsp;(1) in the case of a killing, the punishment provided in sections 1111 and 1112;
 
-&emsp;(2) in the case of an attempted killing, or a case in which the offense was committed against a petit juror and in which a class A or B felony was charged, imprisonment for not more than 20 years, a fine under this title, or both; and
+&emsp;(2) in the case of an attempted killing, or a case in which the offense was committedagainst a petit juror and in which a class A or B felony was charged, imprisonment for not more than 20 years, a fine under this title, or both; and
 
 &emsp;(3) in any other case, imprisonment for not more than 10 years, a fine under this title, or both.
 
@@ -35,8 +35,4 @@ Pub. L. 97–291, §4(c)(2), (3), substituted in text “grand” for “witness
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–291 effective Oct. 12, 1982, see section 9(a) of Pub. L. 97–291, set out as an Effective Date note under section 1512 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 201, 1512, 1961, 2516, 3142 of this title; title 7 section 12a; title 29 section 1111.
 

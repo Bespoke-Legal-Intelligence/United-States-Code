@@ -8,7 +8,3 @@ After December 5, 1924, no new project or new division of a project shall be app
 
 The definitions in section 371 of this title apply to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 371, 417, 493, 500, 600a of this title.
-

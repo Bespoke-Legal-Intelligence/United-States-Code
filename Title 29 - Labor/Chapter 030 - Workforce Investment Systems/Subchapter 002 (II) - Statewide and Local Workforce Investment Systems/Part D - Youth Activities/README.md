@@ -1,9 +1,5 @@
 Part D—Youth Activities
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 2945 of this title; title 20 section 2411.
-
 
 ---
 

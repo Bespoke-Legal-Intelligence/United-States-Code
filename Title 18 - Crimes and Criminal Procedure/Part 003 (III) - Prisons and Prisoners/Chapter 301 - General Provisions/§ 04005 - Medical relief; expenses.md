@@ -2,7 +2,7 @@
 
 (a) Upon request of the Attorney General and to the extent consistent with the Assisted Suicide Funding Restriction Act of 1997, the Federal Security Administrator shall detail regular and reserve commissioned officers of the Public Health Service, pharmacists, acting assistant surgeons, and other employees of the Public Health Service to the Department of Justice for the purpose of supervising and furnishing medical, psychiatric, and other technical and scientific services to the Federal penal and correctional institutions.
 
-(b) The compensation, allowances, and expenses of the personnel detailed under this section may be paid from applicable appropriations of the Public Health Service in accordance with the law and regulations governing the personnel of the Public Health Service, such appropriations to be reimbursed from applicable appropriations of the Department of Justice; or the Attorney General may make allotments of funds and transfer of credit to the Public Health Service in such amounts as are available and necessary, for payment of compensation, allowances, and expenses of personnel so detailed, in accordance with the law and regulations governing the personnel of the Public Health Service.
+(b) The compensation, allowances, and expenses of the personnel detailed under this section may be paid from applicable appropriations of the Public Health Service in accordance with the law and regulations governing the personnel of the Public Health Service, such appropriations to be reimbursed from applicable appropriations of the Department of Justice; or theAttorney General may make allotments of funds and transfer of credit to the Public Health Service in such amounts as are available and necessary, for payment of compensation, allowances, and expenses of personnel so detailed, in accordance with the law and regulations governing the personnel of the Public Health Service.
 
 (June 25, 1948, ch. 645, 62 Stat. 848; Pub. L. 105–12, §9(k), Apr. 30, 1997, 111 Stat. 28.)
 
@@ -39,8 +39,4 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5.
 
 Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 sections 250, 14402, 14405.
 

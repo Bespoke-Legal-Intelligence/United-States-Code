@@ -24,7 +24,3 @@ The words “head of the agency concerned” are substituted for “head of the 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6301, 6302, 6325 of this title; title 22 section 3968.
-

@@ -1,6 +1,6 @@
 ### §5382. Establishment of rates of pay for the Senior Executive Service
 
-(a) Subject to regulations prescribed by the Office of Personnel Management, there shall be established a range of rates of basic pay for the Senior Executive Service, and each senior executive shall be paid at one of the rates within the range, based on individual performance, contribution to the agency's performance, or both, as determined under a rigorous performance management system. The lowest rate of the range shall not be less than the minimum rate of basic pay payable under section 5376, and the highest rate, for any position under this system or an equivalent system as determined by the President's Pay Agent designated under section 5304(d), shall not exceed the rate for level III of the Executive Schedule. The payment of the rates shall not be subject to the pay limitation of section 5306(e) or 5373.
+(a) Subject to regulations prescribed by the Office of Personnel Management, there shall beestablished a range of rates of basic pay for the Senior Executive Service, and each senior executive shall be paid at one of the rates within the range, based on individual performance, contribution to the agency's performance, or both, as determined under a rigorous performance management system. The lowest rate of the range shall not be less than the minimum rate of basic pay payable under section 5376, and the highest rate, for any position under this system or an equivalent system as determined by the President's Pay Agent designated under section 5304(d), shall not exceed the rate for level III of the Executive Schedule. The payment of the rates shall not be subject to the pay limitation of section 5306(e) or 5373.
 
 (b) Notwithstanding the provisions of subsection (a), the applicable maximum shall be level II of the Executive Schedule for any agency that is certified under section 5307 as having a performance appraisal system which, as designed and applied, makes meaningful distinctions based on relative performance.
 
@@ -40,17 +40,19 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Pay Increases
 
-2004—The President, under Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of this title, adjusted the rates of basic pay for the Senior Executive Service effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2004, as follows:
+2005—The President, under Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of this title, adjusted the rates of basic pay for the Senior Executive Service effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2005, as follows:
 
 &nbsp;
 
 | &nbsp; | &nbsp; | &nbsp; |
 | :--- | :---: | ---: |
 | &nbsp; | Minimum | Maximum |
-| Agencies with a Certified SES Performance Appraisal System | $104,927 | $158,100 |
-| Agencies without a Certified SES Performance Appraisal System | $104,927 | $145,600 |
+| Agencies with a Certified SES Performance Appraisal System | $107,550 | $162,100 |
+| Agencies without a Certified SES Performance Appraisal System | $107,550 | $149,200 |
 
-Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231, which provided for adjustment of pay rates effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of this title.
+2004—Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, which provided for adjustment of pay rates effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of this title.
+
+Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231, which provided for adjustment of pay rates effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891.
 
 2003—Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, which provided for adjustment of pay rates effective Jan. 1, 2003, was superseded by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
 
@@ -90,7 +92,7 @@ Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231, which provided for adjustment of
 
 1982—Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, which provided for adjustment of pay rates effective Oct. 1, 1982, was superseded by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493.
 
-Maximum rate payable after Dec. 17, 1982, increased from $58,500 to $67,200, see Pub. L. 97–377, title I,§129(b)–(d), set out as a note under section 5318 of this title.
+Maximum rate payable after Dec. 17, 1982, increased from $58,500 to $67,200, see Pub. L. 97–377, title I, §129(b)–(d), set out as a note under section 5318 of this title.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of this title.
 
@@ -109,8 +111,4 @@ Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 
 #### Executive Order No. 12592
 
 Ex. Ord. No. 12592, Apr. 10, 1987, 52 F.R. 13417, as amended by Ex. Ord. No. 12609, Sept. 23, 1987, 52 F.R. 36211, which related to the establishment, functions, administration, and termination of the President's Commission on Compensation of Career Federal Executives, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3151, 3161, 4507, 5383, 5384 of this title; title 3 section 115; title 7 sections 2009aa–1, 2009bb–1; title 10 section 1602; title 15 section 1511e; title 20 section 1018; title 22 sections 3962, 4154; title 26 sections 4946, 7803; title 28 section 995; title 29 sections 715, 772, 782, 783, 792, 794b; title 31 sections 325, 733; title 35 section 3; title 40 section 14306; title 42 sections 902, 903, 1317, 1395b–9, 14196.
 

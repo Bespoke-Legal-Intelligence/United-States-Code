@@ -26,7 +26,3 @@ Not later than 30 days after receipt from the proposer of certification that the
 
 (Pub. L. 102–486, title VI, §613, Oct. 24, 1992, 106 Stat. 2902.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13271, 13282 of this title.
-

@@ -30,7 +30,7 @@ The activities of the Program shall include—
 
 &emsp;&emsp;(D) make use of ongoing research and development at the micrometer scale to support their work in nanotechnology; and
 
-&emsp;&emsp;(E) to the greatest extent possible, be established in geographically diverse locations, encourage the participation of Historically Black Colleges and Universitiesthat are part B institutions as defined in section 1061(2) of title 20 and minority institutions (as defined in section 1067k(3) of title 20), and include institutions located in States participating in the Experimental Program to Stimulate Competitive Research (EPSCoR);
+&emsp;&emsp;(E) to the greatest extent possible, be established in geographically diverse locations, encourage the participation of Historically Black Colleges and Universities that are part B institutions as defined in section 1061(2) of title 20 and minority institutions (as defined in section 1067k(3) of title 20), and include institutions located in States participating in the Experimental Program to Stimulate Competitive Research (EPSCoR);
 
 &emsp;(5) ensuring United States global leadership in the development and application of nanotechnology;
 
@@ -107,8 +107,4 @@ Section 246 of the Bob Stump National Defense Authorization Act for Fiscal Year 
 #### Short Title
 
 Pub. L. 108–153, §1, Dec. 3, 2003, 117 Stat. 1923, provided that: “This Act \[enacting this chapter\] may be cited as the ‘21st Century Nanotechnology Research and Development Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7506, 7509 of this title.
 

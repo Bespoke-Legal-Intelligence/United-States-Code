@@ -10,7 +10,7 @@ Not later than June 1, 2003, and each June 1 thereafter, the Statistics Commissi
 
 #### (c) Statistical reports
 
-The Statistics Commissioner shall issue regular and, as necessary, special statistical reportson education topics, particularly in the core academic areas of reading, mathematics, and science, consistent with the priorities and the mission of the Statistics Center.
+The Statistics Commissioner shall issue regular and, as necessary, special statistical reports on education topics, particularly in the core academic areas of reading, mathematics, and science, consistent with the priorities and the mission of the Statistics Center.
 
 (Pub. L. 107–279, title I, §155, Nov. 5, 2002, 116 Stat. 1960.)
 

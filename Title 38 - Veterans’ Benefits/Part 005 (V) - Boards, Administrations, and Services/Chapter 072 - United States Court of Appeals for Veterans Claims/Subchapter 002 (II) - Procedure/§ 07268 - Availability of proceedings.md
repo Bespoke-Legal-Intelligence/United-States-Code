@@ -1,6 +1,6 @@
 ### §7268. Availability of proceedings
 
-(a) Except as provided in subsection (b) of this section, all decisions of the Court of Appeals forVeterans Claims and all briefs, motions, documents, and exhibits received by the Court (including a transcript of the stenographic report of the hearings) shall be public records open to the inspection of the public.
+(a) Except as provided in subsection (b) of this section, all decisions of the Court of Appeals for Veterans Claims and all briefs, motions, documents, and exhibits received by the Court (including a transcript of the stenographic report of the hearings) shall be public records open to the inspection of the public.
 
 (b)(1) The Court may make any provision which is necessary to prevent the disclosure of confidential information, including a provision that any such document or information be placed under seal to be opened only as directed by the Court.
 

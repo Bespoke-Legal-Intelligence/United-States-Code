@@ -52,7 +52,3 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 Section 210(c)(2) of Pub. L. 94–329 provided in part that all funds in the suspense account referred to in former subsec. (a) of this section on July 1, 1976, shall be transferred to the general fund of the Treasury.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2321c of this title.
-

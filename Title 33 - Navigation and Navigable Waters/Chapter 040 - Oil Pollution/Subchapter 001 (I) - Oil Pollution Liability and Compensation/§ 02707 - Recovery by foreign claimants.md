@@ -44,7 +44,3 @@ This Act, referred to in subsec. (a)(1), is Pub. L. 101–380, Aug. 18, 1990, 10
 
 The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (b)(4), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2706 of this title.
-

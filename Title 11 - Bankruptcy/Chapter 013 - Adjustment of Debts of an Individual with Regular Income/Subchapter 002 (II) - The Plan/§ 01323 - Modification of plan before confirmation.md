@@ -16,7 +16,3 @@ The debtor is permitted to modify the plan before confirmation without court app
 
 The original acceptance or rejection of a plan by the holder of a secured claim remains binding unless the modified plan changes the rights of the holder and the holder withdraws or alters its earlier acceptance or rejection.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1329 of this title.
-

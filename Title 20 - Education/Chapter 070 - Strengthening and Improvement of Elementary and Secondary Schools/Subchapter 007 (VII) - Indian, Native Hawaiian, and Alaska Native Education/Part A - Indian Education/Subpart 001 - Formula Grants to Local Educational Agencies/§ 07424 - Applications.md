@@ -84,7 +84,3 @@ Each application submitted under subsection (a) of this section shall include as
 
 A prior section 7424, Pub. L. 89–10, title VII, §7114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3721, related to comprehensive school grants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6913 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7423, 7425, 7427, 7429 of this title; title 25 section 456.
-

@@ -8,7 +8,3 @@ There is established within the Small Business Administration an Office of Advoc
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 634d, 634e, 634g of this title.
-

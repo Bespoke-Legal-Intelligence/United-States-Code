@@ -4,10 +4,6 @@
 
 A prior subchapter VIII, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 1056, which related to part-time career employment opportunities, was redesignated as chapter 34 of this title by Pub. L. 95–454, title IX, §906(c)(1)(A), Oct. 13, 1978, 92 Stat. 1226.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1204, 1212 of this title; title 38 section 7425; title 42 section 7384<i>o</i>; title 44 section 2105.
-
 
 ---
 

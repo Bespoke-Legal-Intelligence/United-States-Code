@@ -70,7 +70,7 @@ The Secretary shall prescribe regulations applicable to the client assistance pr
 
 &emsp;(3)(A) Each program shall contain provisions designed to assure that to the maximum extent possible alternative means of dispute resolution are available for use at the discretion of an applicant or client of the program prior to resorting to litigation or formal adjudication to resolve a dispute arising under this section.
 
-&emsp;(B) In subparagraph (A), the term “alternative means of dispute resolution” means any procedure, including good faith negotiation, conciliation, facilitation, mediation, factfinding, and arbitration, and any combination of procedures, that is used in lieu of litigation in a court or formal adjudication in anadministrative forum, to resolve a dispute arising under this section.
+&emsp;(B) In subparagraph (A), the term “alternative means of dispute resolution” means any procedure, including good faith negotiation, conciliation, facilitation, mediation, factfinding, and arbitration, and any combination of procedures, that is used in lieu of litigation in a court or formal adjudication in an administrative forum, to resolve a dispute arising under this section.
 
 &emsp;(4) For purposes of any periodic audit, report, or evaluation of the performance of a client assistance program under this section, the Secretary shall not require such a program to disclose the identity of, or any other personally identifiable information related to, any individual requesting assistance under such program.
 
@@ -97,8 +97,4 @@ Another prior section 740, Pub. L. 93–112, title I, §120, Sept. 26, 1973, 87 
 #### Amendments
 
 1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 717, 720, 721, 722, 725, 794e, 796, 796c, 2841 of this title; title 20 section 9271; title 42 section 1320b–20.
 

@@ -10,7 +10,7 @@ Information relating to basis of rate.—A motor carrier of property (other than
 
 &emsp;(2)
 
-Reasonableness of rates; collecting additional charges.—When the applicability or reasonableness of the rates and related provisions billed by a motor carrier is challenged by the person paying the freight charges, the Board shall determine whether such rates and provisions are reasonable under section 13701 or applicable based on the record before it.
+Reasonableness of rates; collecting additional charges.—When the applicabilityor reasonableness of the rates and related provisions billed by a motor carrier is challenged by the person paying the freight charges, the Board shall determine whether such rates and provisions are reasonable under section 13701 or applicable based on the record before it.
 
 &emsp;(3)
 
@@ -30,7 +30,7 @@ Voiding of certain tariffs.—Any tariff on file with the Interstate Commerce Co
 
 (b)
 
-Resolution of Disputes Over Status of Common Carrier or Contract Carrier.—If a motor carrier (other than a motor carrier providing transportation of household goods) that was subject to jurisdiction under subchapter II of chapter 105, as in effect on December 31, 1995,and that had authority to provide transportation as both a motor common carrier and a motor contract carrier and a dispute arises as to whether certain transportation that was provided prior to January 1, 1996, was provided in its common carrier or contract carrier capacity and the parties are not able to resolve the dispute consensually, the Board shall resolve the dispute.
+Resolution of Disputes Over Status of Common Carrier or Contract Carrier.—If a motor carrier (other than a motor carrier providing transportation of household goods) that was subject to jurisdiction under subchapter II of chapter 105, as in effect on December 31, 1995, and that had authority to provide transportation as both a motor common carrier and a motor contract carrier and a dispute arises as to whether certain transportation that was provided prior to January 1, 1996, was provided in its common carrier or contract carrier capacity and the parties are not able to resolve the dispute consensually, the Board shall resolve the dispute.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 876; amended Pub. L. 104–287, §5(30), Oct. 11, 1996, 110 Stat. 3391.)
 
@@ -61,8 +61,4 @@ Subsec. (b). Pub. L. 104–287, §5(30)(B), substituted “December 31, 1995” 
 #### Abolition of Interstate Commerce Commission
 
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14706 of this title.
 

@@ -10,7 +10,3 @@ Of the amounts authorized to be appropriated by subsection (a) of this section f
 
 (Pub. L. 106–264, title I, §141, Aug. 19, 2000, 114 Stat. 758.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6842, 7622 of this title.
-

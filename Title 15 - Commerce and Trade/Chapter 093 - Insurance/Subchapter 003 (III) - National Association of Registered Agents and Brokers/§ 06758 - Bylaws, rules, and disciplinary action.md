@@ -84,7 +84,7 @@
 
 &emsp;&emsp;Notwithstanding any provision of this subsection other than subparagraph (B), a proposed rule or amendment relating to the administration or organization of the Association shall take effect—
 
-&emsp;&emsp;&emsp;(i) upon the date of filing with the NAIC, if such proposed rule or amendment is designated by the Association as relatingsolely to matters which the NAIC, consistent with the public interest and the purposes of this subsection, determines by rule do not require the procedures set forth in this paragraph; or
+&emsp;&emsp;&emsp;(i) upon the date of filing with the NAIC, if such proposed rule or amendment is designated by the Association as relating solely to matters which the NAIC, consistent with the public interest and the purposes of this subsection, determines by rule do not require the procedures set forth in this paragraph; or
 
 &emsp;&emsp;&emsp;(ii) upon such date as the NAIC shall for good cause determine.
 
@@ -171,8 +171,4 @@ The filing of an application to the NAIC for review of a disciplinary action, or
 #### References in Text
 
 This Act, referred to in subsec. (b)(4)(A), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6760, 6762 of this title.
 

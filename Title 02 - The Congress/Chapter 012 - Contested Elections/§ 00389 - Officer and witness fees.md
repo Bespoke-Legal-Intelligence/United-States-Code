@@ -6,7 +6,3 @@
 
 (Pub. L. 91–138, §10, Dec. 5, 1969, 83 Stat. 288.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 388 of this title.
-

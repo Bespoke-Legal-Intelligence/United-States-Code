@@ -2,7 +2,7 @@
 
 #### (a) Mutual Mortgage Insurance Fund
 
-There is created a Mutual Mortgage Insurance Fund (hereinafter referred to as the “Fund”), which shall be used by the Secretary as a revolving fund for carrying out the provisions of thissubchapter with respect to mortgages insured under section 1709 of this title as hereinafter provided, and there shall be allocated immediately to such Fund the sum of $10,000,000 out of funds made available to the Secretary for the purposes of this subchapter.
+There is created a Mutual Mortgage Insurance Fund (hereinafter referred to as the “Fund”), which shall be used by the Secretary as a revolving fund for carrying out the provisions of this subchapter with respect to mortgages insured under section 1709 of this title as hereinafter provided, and there shall be allocated immediately to such Fund the sum of $10,000,000 out of funds made available to the Secretary for the purposes of this subchapter.
 
 #### (b) Advisory Board
 
@@ -88,7 +88,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 #### (D) Withdrawal
 
-&emsp;&emsp;The Board may issue an order withdrawing a mortgagee if the Board has made a determination of a serious violation or repeated violations by the mortgagee. The Board shall determine the terms of such withdrawal, but the term shall be not less than 1 year. Where the Board has determined that the violation is egregious or willful, the withdrawal shall be permanent.
+&emsp;&emsp;The Board may issue an order withdrawing a mortgagee if the Board has made a determination of a serious violation or repeatedviolations by the mortgagee. The Board shall determine the terms of such withdrawal, but the term shall be not less than 1 year. Where the Board has determined that the violation is egregious or willful, the withdrawal shall be permanent.
 
 #### (E) Settlements
 
@@ -116,7 +116,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;(B) If the Board takes action against a mortgagee under subparagraph (B), (C), or (D) of paragraph (3), the Board shall promptly notify the mortgagee in writing of the nature, duration, and specific reasons for the action. If, within 30 days of receiving the notice, the mortgagee requests a hearing, the Board shall hold a hearing on the record regarding the violations within 30 days of receiving the request. If a mortgagee fails to request a hearing within such 30-day period, the right of the mortgagee to a hearing shall be considered waived.
 
-&emsp;(C) In any case in which the notification of the Board does not result in a hearing (including any settlement by the Board and a mortgagee), any information regarding the natureof the violation and the resolution of the action shall be available to the public.
+&emsp;(C) In any case in which the notification of the Board does not result in a hearing (including any settlement by the Board and a mortgagee), any information regarding the nature of the violation and the resolution of the action shall be available to the public.
 
 #### (5) Publication
 
@@ -239,10 +239,6 @@ Subsec. (c)(7), (8). Pub. L. 102–550, §519(2), added par. (7) and redesignate
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1709, 1735, 1735f–11, 1735f–14 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

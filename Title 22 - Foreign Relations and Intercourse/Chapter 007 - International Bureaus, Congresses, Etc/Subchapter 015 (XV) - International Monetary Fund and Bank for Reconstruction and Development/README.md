@@ -1,9 +1,5 @@
 ### SUBCHAPTER XV—INTERNATIONAL MONETARY FUND AND BANK FOR RECONSTRUCTION AND DEVELOPMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 286q, 290k–5, 290<i>l</i>–2, 290<i>o</i>–2 of this title.
-
 
 ---
 

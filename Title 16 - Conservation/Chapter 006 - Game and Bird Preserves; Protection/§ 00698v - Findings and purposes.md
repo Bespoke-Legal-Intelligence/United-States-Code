@@ -16,7 +16,7 @@ Congress finds that—
 
 &emsp;(6) the Baca ranch's natural beauty and abundant resources, and its proximity to large municipal populations, could provide numerous recreational opportunities for hiking, fishing, camping, cross-country skiing, and hunting;
 
-&emsp;(7) the Forest Service documented the scenic and natural values of the Baca ranch in its 1993 study entitled “Report on the Study of the Baca Location No. 1, Santa Fe NationalForest, New Mexico”, as directed by Public Law 101–556;
+&emsp;(7) the Forest Service documented the scenic and natural values of the Baca ranch in its 1993 study entitled “Report on the Study of the Baca Location No. 1, Santa Fe National Forest, New Mexico”, as directed by Public Law 101–556;
 
 &emsp;(8) the Baca ranch can be protected for current and future generations by continued operation as a working ranch under a unique management regime which would protect the land and resource values of the property and surrounding ecosystem while allowing and providing for the ranch to eventually become financially self-sustaining;
 
@@ -53,8 +53,4 @@ Pub. L. 101–556, referred to in subsec. (a)(7), is Pub. L. 101–556, Nov. 15,
 #### Short Title
 
 Pub. L. 106–248, title I, §101, July 25, 2000, 114 Stat. 598, provided that: “This title \[enacting this section and sections 698v–1 to 698v–10 of this title\] may be cited as the ‘Valles Caldera Preservation Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698v–1, 698v–3, 698v–4, 698v–6, 698v–7, 698v–8, 698v–9, 698v–10 of this title.
 

@@ -156,7 +156,3 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 Section 633(f) of Pub. L. 103–329 provided that: “Not later than the effective date of this section \[see Effective Date note above\], each criminal investigator under section 5545a of title 5, United States Code, as added by this section, and the appropriate supervisory officer, to be designated by the head of the agency, shall make an initial certification to the head of the agency that the criminal investigator is expected to meet the requirements of subsection (d) of such section 5545a. The head of a law enforcement agency may prescribe procedures necessary to administer this paragraph.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5542, 5547, 8331 of this title; title 2 section 1371; title 29 section 213.
-

@@ -12,7 +12,7 @@
 
 &emsp;(A) that the Attorney General has notified in writing, at least fifteen days previously, the Governor or chief executive officer, attorney general or chief legal officer of the appropriate State or political subdivision, and the director of the institution of—
 
-&emsp;&emsp;(i) the alleged conditions which deprive rights, privileges, or immunities secured or protected by the Constitution or laws of the United States and the alleged pattern or practice of resistance to the full enjoyment of such rights, privileges, or immunities;
+&emsp;&emsp;(i) the alleged conditions which deprive rights, privileges, or immunities secured or protected by the Constitution or laws of theUnited States and the alleged pattern or practice of resistance to the full enjoyment of such rights, privileges, or immunities;
 
 &emsp;&emsp;(ii) the supporting facts giving rise to the alleged conditions, including the dates and time period during which the alleged conditions and pattern or practice of resistance occurred; and
 
@@ -41,8 +41,4 @@ Subsec. (b)(1)(B). Pub. L. 104–134, §101\[(a)\] \[title VIII, §803(c)(1)(A)\
 Subsec. (b)(2). Pub. L. 104–134, §101\[(a)\] \[title VIII, §803(c)(1)(B)\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any certification made by the Attorney General pursuant to this subsection shall be personally signed by him.”
 
 Subsec. (c). Pub. L. 104–134, §101\[(a)\] \[title VIII, §803(c)(2)\], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any motion to intervene made by the Attorney General pursuant to this section shall be personally signed by him.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1997e, 1997h of this title.
 

@@ -252,36 +252,7 @@ Financing cooperative projects among United States, Israel, and developing count
 |  |  |
 | :--- | ---: |
 | [2151e.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151e%20-%20Appropriate%20technology.md) | Appropriate technology. |
-| [2151f.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151f%20-%20Microenterprise%20development%20credits.md) | Microenterprise development credits. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Findings and policy.
-
-(b)
-
-Program.
-
-(c)
-
-Eligibility criteria.
-
-(d)
-
-Additional requirement.
-
-(e)
-
-Procurement provision.
-
-(f)
-
-Availability of funds.
-
-|  |  |
-| :--- | ---: |
+| [2151f.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151f%20-%20Transferred.md) | Transferred. |
 | [2151g.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151g%20-%20Transfer%20of%20funds.md) | Transfer of funds. |
 | [2151h.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151h%20-%20Cost-sharing.md) | Cost-sharing. |
 | [2151i.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151i%20-%20Development%20and%20use%20of%20cooperatives.md) | Development and use of cooperatives. |
@@ -698,62 +669,7 @@ Use of funds.
 
 |  |  |
 | :--- | ---: |
-| [2152a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152a%20-%20Microenterprise%20development%20grant%20assistance.md) | Microenterprise development grant assistance. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Findings and policy.
-
-(b)
-
-Authorization.
-
-(c)
-
-Monitoring system.
-
-(d)
-
-Development and certification of poverty measurement methods; application of methods.
-
-(e)
-
-Level of assistance.
-
-(f)
-
-Definitions.
-
-|  |  |
-| :--- | ---: |
-| [2152b.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152b%20-%20United%20States%20Microfinance%20Loan%20Facility.md) | United States Microfinance Loan Facility. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Establishment.
-
-(b)
-
-Disbursements.
-
-(c)
-
-General provisions.
-
-(d)
-
-Funding.
-
-(e)
-
-Definitions.
-
-|  |  |
-| :--- | ---: |
+| 2152a, 2152b. | Repealed or Transferred. |
 | [2152c.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152c%20-%20Programs%20to%20encourage%20good%20governance.md) | Programs to encourage good governance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1491,11 +1407,142 @@ Congressional findings.
 
 Authority of President.
 
-#### subpart vi—alliance for progress
+#### subpart vi—microenterprise development assistance
+
+#### Division A—Grant Assistance
 
 |  |  |
 | :--- | ---: |
-| 2211 to 2213. | Repealed. |
+| [2211\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20A%20-%20Grant%20Assistance/%C2%A7%2002211%20-%20Findings%20and%20policy.md) | Findings and policy. |
+| [2211a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20A%20-%20Grant%20Assistance/%C2%A7%2002211a%20-%20Authorization%3B%20implementation%3B%20targeted%20assistance.md) | Authorization; implementation; targeted assistance. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authorization.
+
+(b)
+
+Implementation.
+
+(c)
+
+Targeted assistance.
+
+|  |  |
+| :--- | ---: |
+| [2211b.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20A%20-%20Grant%20Assistance/%C2%A7%2002211b%20-%20Monitoring%20system.md) | Monitoring system. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Requirements.
+
+|  |  |
+| :--- | ---: |
+| [2211c.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20A%20-%20Grant%20Assistance/%C2%A7%2002211c%20-%20Development%20and%20certification%20of%20poverty%20measurement%20methods%3B%20application%20of%20methods.md) | Development and certification of poverty measurement methods; application of methods. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Development and certification.
+
+(b)
+
+Application.
+
+|  |  |
+| :--- | ---: |
+| [2211d.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20A%20-%20Grant%20Assistance/%C2%A7%2002211d%20-%20Additional%20authorities.md) | Additional authorities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Division B—Credit Assistance
+
+|  |  |
+| :--- | ---: |
+| [2212\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20B%20-%20Credit%20Assistance/%C2%A7%2002212%20-%20Microenterprise%20development%20credits.md) | Microenterprise development credits. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Findings and policy.
+
+(b)
+
+Program.
+
+(c)
+
+Eligibility criteria.
+
+(d)
+
+Additional requirement.
+
+(e)
+
+Procurement provision.
+
+(f)
+
+Availability of funds.
+
+#### Division C—United States Microfinance Loan Facility
+
+|  |  |
+| :--- | ---: |
+| [2213\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20C%20-%20United%20States%20Microfinance%20Loan%20Facility/%C2%A7%2002213%20-%20United%20States%20Microfinance%20Loan%20Facility.md) | United States Microfinance Loan Facility. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Disbursements.
+
+(c)
+
+General provisions.
+
+(d)
+
+Funding.
+
+#### Division D—Miscellaneous Provisions
+
+|  |  |
+| :--- | ---: |
+| [2214\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2002214%20-%20Report.md) | Report. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Contents.
+
+(c)
+
+Availability to public.
+
+|  |  |
+| :--- | ---: |
+| [2214a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2002214a%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1786,6 +1833,20 @@ Exceptions.
 (d)
 
 Programs and projects of the International Atomic Energy Agency in Iran.
+
+|  |  |
+| :--- | ---: |
+| [2228\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20003%20%28III%29%20-%20International%20Organizations%20and%20Programs/%C2%A7%2002228%20-%20International%20Youth%20Opportunity%20Fund.md) | International Youth Opportunity Fund. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Findings.
+
+(b)
+
+International Youth Opportunity Fund.
 
 #### Part IV—Supporting Assistance
 
@@ -3021,7 +3082,7 @@ Participation of Defense personnel in training prohibited; availability of funds
 
 |  |  |
 | :--- | ---: |
-| 2346d to 2346i. | Repealed or Transferred. |
+| 2346d to 2346i. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3768,6 +3829,10 @@ Waiver.
 
 “United States person” defined.
 
+(i)
+
+Certain claims for expropriation by the Government of Nicaragua.
+
 |  |  |
 | :--- | ---: |
 | [2371\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002371%20-%20Prohibition%20on%20assistance%20to%20governments%20supporting%20international%20terrorism.md) | Prohibition on assistance to governments supporting international terrorism. |
@@ -3820,20 +3885,7 @@ Arms sales agreements to prohibit transfer to Cyprus.
 
 |  |  |
 | :--- | ---: |
-| [2374\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002374%20-%20Prohibition%20on%20assistance%20to%20Afghanistan.md) | Prohibition on assistance to Afghanistan. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Prohibition; conditions for resumption of assistance.
-
-(b)
-
-Substantially changed circumstances.
-
-|  |  |
-| :--- | ---: |
+| [2374\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002374%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93458%2C%20title%20VII%2C%20%C2%A77104%28l%29%2C%20Dec.%2017%2C%202004%2C%20118%20Stat.%203788.md) | Repealed. |
 | [2375\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002375%20-%20Assistance%20to%20Pakistan.md) | Assistance to Pakistan. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4194,7 +4246,7 @@ Assignment of personnel.
 
 |  |  |
 | :--- | ---: |
-| [2393a.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20002%20%28II%29%20-%20Administrative%20Provisions/%C2%A7%2002393a%20-%20Requests%20by%20General%20Accounting%20Office%20and%20Congressional%20committees%20for%20documents%20and%20materials.md) | Requests by General Accounting Office and Congressional committees for documents and materials. |
+| [2393a.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20002%20%28II%29%20-%20Administrative%20Provisions/%C2%A7%2002393a%20-%20Requests%20by%20Government%20Accountability%20Office%20and%20Congressional%20committees%20for%20documents%20and%20materials.md) | Requests by Government Accountability Office and Congressional committees for documents and materials. |
 | [2394\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20002%20%28II%29%20-%20Administrative%20Provisions/%C2%A7%2002394%20-%20Reports%20and%20information%3B%20definitions.md) | Reports and information; definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4229,6 +4281,56 @@ Funds in the International Affairs Budget Function; reprogramming.
 | :--- | ---: |
 | 2394–1a. | Classification of reports. |
 | [2394a.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20002%20%28II%29%20-%20Administrative%20Provisions/%C2%A7%2002394a%20-%20Extortion%20and%20illegal%20payments%20to%20officials%20of%20foreign%20countries%20receiving%20international%20security%20assistance.md) | Extortion and illegal payments to officials of foreign countries receiving international security assistance. |
+| [2394b.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20002%20%28II%29%20-%20Administrative%20Provisions/%C2%A7%2002394b%20-%20HELP%20Commission.md) | HELP Commission. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Short title.
+
+(b)
+
+Findings.
+
+(c)
+
+Establishment of Commission; responsibilities.
+
+(d)
+
+Membership.
+
+(e)
+
+Authority.
+
+(f)
+
+Report of Commission.
+
+(g)
+
+Applicability of other laws.
+
+(h)
+
+Definition.
+
+(i)
+
+Authorization of appropriations.
+
+(j)
+
+Termination.
+
+(k)
+
+Annual report of President.
+
+|  |  |
+| :--- | ---: |
 | [2395\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20002%20%28II%29%20-%20Administrative%20Provisions/%C2%A7%2002395%20-%20General%20authorities.md) | General authorities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4866,7 +4968,7 @@ Eligibility criteria.
 |  |  |
 | :--- | ---: |
 | [2430h.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2002430h%20-%20Enterprise%20for%20the%20Americas%20Board.md) | Enterprise for the Americas Board. |
-| [2430i.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2002430i%20-%20Omitted.md) | Omitted. |
+| [2430i.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2002430i%20-%20Annual%20reports%20to%20Congress.md) | Annual reports to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -4904,7 +5006,7 @@ Eligibility determinations.
 
 |  |  |
 | :--- | ---: |
-| [2431d.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431d%20-%20Reduction%20of%20debt%20owed%20to%20United%20States%20as%20result%20of%20concessional%20loans%20under%20this%20chapter.md) | Reduction of debt owed to United States as result of concessional loans under chapter. |
+| [2431d.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431d%20-%20Reduction%20of%20debt%20owed%20to%20United%20States%20as%20result%20of%20concessional%20loans%20under%20this%20chapter.md) | Reduction of debt owed to United States as result of concessional loans under this chapter. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -4923,6 +5025,10 @@ Additional terms and conditions.
 (d)
 
 Authorization of appropriations for fiscal years after fiscal year 2001.
+
+(e)
+
+Use of funds to conduct program audits and evaluations.
 
 |  |  |
 | :--- | ---: |
@@ -5044,10 +5150,6 @@ Supplemental views in annual report.
 | 2441 to 2443. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1975, 2305, 2370a, 2428b, 2429a–2, 2460, 2601, 2751, 2761, 2763, 2765, 2771, 2775, 2780, 2785, 2795, 2795a, 2799aa, 2799aa–1, 3501, 3503, 5401, 5476, 5605, 5813, 6003, 6006, 6021, 6041, 6401, 6593, 6713, 6982, 7102, 7551, 7602, 7631, 7632, 7633 of this title; title 13 section 301; title 16 section 973r; title 48 section 1904; title 49 section 44908.
 
 
 ---

@@ -46,7 +46,3 @@ Subsec. (d). Pub. L. 100–399, §408(i), (j), transferred section 2279c of this
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2015, 2020, 2277a–4, 2277a–8, 2277a–10, 2277a–10a, 2279c–2 of this title.
-

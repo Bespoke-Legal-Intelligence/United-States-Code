@@ -30,7 +30,7 @@ As used in this subchapter:
 
 #### (B) New programs
 
-&emsp;&emsp;A new program of nursing that, by reason of an insufficient period of operation, is not, at the time of the submission of an application for a grant or contract under this subchapter, eligible for accreditation by such a recognized body or bodies or State agency, shall be deemed accredited for purposes of this subchapter if the Secretary of Education finds, after consultation with the appropriate accreditation body or bodies, that there is reasonable assurance that the program will meet the accreditation standards of such body or bodies prior to the beginning of the academic year following the normal graduation date of students of the first entering class in such a program.
+&emsp;&emsp;A new program of nursing that, by reason of an insufficient period of operation, is not,at the time of the submission of an application for a grant or contract under this subchapter, eligible for accreditation by such a recognized body or bodies or State agency, shall be deemed accredited for purposes of this subchapter if the Secretary of Education finds, after consultation with the appropriate accreditation body or bodies, that there is reasonable assurance that the program will meet the accreditation standards of such body or bodies prior to the beginning of the academic year following the normal graduation date of students of the first entering class in such a program.
 
 #### (7) Nonprofit
 
@@ -42,7 +42,7 @@ As used in this subchapter:
 
 #### (9) Ambulatory surgical center
 
-&emsp;The term “ambulatory surgical center” has the meaning applicable to such term undertitle XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].
+&emsp;The term “ambulatory surgical center” has the meaning applicable to such term under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].
 
 #### (10) Federally qualified health center
 
@@ -90,7 +90,7 @@ Pub. L. 105–392, title I, §124, Nov. 13, 1998, 112 Stat. 3574, provided that:
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Reports by General Accounting Office
+#### Reports by Government Accountability Office
 
 Pub. L. 107–205, title II, §204, Aug. 1, 2002, 116 Stat. 818, provided that:
 
@@ -147,8 +147,4 @@ Section 951 of Pub. L. 94–63, as amended by Pub. L. 95–623, §12(h), Nov. 9,
 &emsp;“(3) recommendations for such legislation as the Secretary determines, based on such determinations and data, will achieve (A) an equitable distribution of nurses within the United States and within each State, and (B) adequate supplies of nurses within the United States and within each State.
 
 “(c) The Office of Management and Budget may review the Secretary's report under subsection (b) before its submission to the Congress, but the Office may not revise the report or delay its submission, and it may submit to the Congress its comments (and those of other departments or agencies of the Government) respecting such report.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 293a, 293b, 294c of this title.
 

@@ -4,7 +4,3 @@ Unless the context of this chapter otherwise requires, the term “vessel” sha
 
 (Feb. 29, 1888, ch. 17, §10, 25 Stat. 42.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 26 of this title.
-

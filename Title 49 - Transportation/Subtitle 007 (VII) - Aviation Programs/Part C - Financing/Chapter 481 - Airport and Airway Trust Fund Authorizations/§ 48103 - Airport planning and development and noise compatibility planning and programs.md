@@ -92,7 +92,3 @@ Timely Announcement.—The Secretary \[of Transportation\] shall announce a gran
 
 Notice to Committees.—If the Secretary provides any committee of Congress advance notice of a grant to be made with funds made available under section 48103 of title 49, United States Code, the Secretary shall provide, on the same date, such notice to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40117, 47102, 47104, 47107, 47110, 47113, 47114, 47115, 47116, 47117, 47136, 47140, 47504, 47505, 48108, 48112, 48113, 48114 of this title; title 6 section 233.
-

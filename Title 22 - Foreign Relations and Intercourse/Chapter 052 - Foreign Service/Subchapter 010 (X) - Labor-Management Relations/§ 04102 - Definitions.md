@@ -66,9 +66,5 @@ As used in this subchapter, the term—
 
 #### Amendments
 
-1994—Par. (8)(A). Pub. L. 103–236 inserted “a member of the Service who is a United States citizen (otherthan a family member) employed under section 3951 of this title,”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3902, 4117, 6613 of this title; title 5 section 5596.
+1994—Par. (8)(A). Pub. L. 103–236 inserted “a member of the Service who is a United States citizen (other than a family member) employed under section 3951 of this title,”.
 

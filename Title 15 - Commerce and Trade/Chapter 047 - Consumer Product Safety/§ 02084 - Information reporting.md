@@ -72,10 +72,6 @@ Section 112(f) of Pub. L. 101–608 provided that:
 
 “(2) The first report under paragraph (1) shall be due February 1, 1992, and the second such report shall be due April 1, 1993.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2055, 2068 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>

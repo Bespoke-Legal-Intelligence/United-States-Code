@@ -54,7 +54,7 @@ This section and section 183a of this title, referred to in subsec. (a), was in 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c)(3). Pub. L. 108–7 inserted “excerpts of” after “dissemination of”.
+2003—Subsec. (c)(3). Pub. L. 108–7 inserted “excerpts of” after “dissemination of”.
 
 #### Short Title
 

@@ -110,7 +110,3 @@ A prior section 242, acts Aug. 11, 1916, ch. 313, pt. C, §2, 39 Stat. 486; Feb.
 
 A prior section 3 of act Aug. 11, 1916, ch. 313, pt. C, was classified to section 243 of this title, prior to the general amendment of this chapter by Pub. L. 106–472.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 250 of this title.
-

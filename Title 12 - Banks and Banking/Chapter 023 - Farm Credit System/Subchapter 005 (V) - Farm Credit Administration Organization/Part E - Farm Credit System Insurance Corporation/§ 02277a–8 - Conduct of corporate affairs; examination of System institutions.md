@@ -54,7 +54,7 @@ In connection with examinations under this section, the Corporation or its desig
 
 The examiners appointed by the Board of Directors shall cooperate to the maximum extent possible with examiners of the Farm Credit Administration to minimize duplication of effort and minimize costs.
 
-(Pub. L. 92–181, title V, §5.59, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1615; amended Pub. L. 101–220, §6(b)(3), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 102–552, title II, §203, title V, §513(a), Oct. 28, 1992, 106 Stat. 4106, 4133; Pub.L. 104–105, title II, §216, Feb. 10, 1996, 110 Stat. 179.)
+(Pub. L. 92–181, title V, §5.59, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1615; amended Pub. L. 101–220, §6(b)(3), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 102–552, title II, §203, title V, §513(a), Oct. 28, 1992, 106 Stat. 4106, 4133; Pub. L. 104–105, title II, §216, Feb. 10, 1996, 110 Stat. 179.)
 
 #### Amendments
 
@@ -85,10 +85,6 @@ Appointment of claim agents.—The Board of Directors, in like manner, shall app
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm Credit System Insurance Corporation under this chapter on or after Jan. 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendar year 1989, and effective for the calculation of the initial premium payment required under section 2277a–5(c) of this title, see section 6(c) of Pub. L. 101–220, set out as a note under section 2020 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2254 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

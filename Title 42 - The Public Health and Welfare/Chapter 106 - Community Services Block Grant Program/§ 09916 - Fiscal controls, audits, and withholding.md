@@ -22,7 +22,7 @@
 
 #### (B) Single audit requirements
 
-&emsp;&emsp;Audits shall be conducted under this paragraph in the manner and to the extent provided in chapter 75 of title 31 (commonly known as the “Single Audit Act Amendments of 1996”).
+&emsp;&emsp;Audits shall be conducted under this paragraph in the manner and to the extent provided in chapter 75 of title 31 (commonlyknown as the “Single Audit Act Amendments of 1996”).
 
 #### (C) Submission of copies
 
@@ -40,15 +40,11 @@
 
 #### (2) Response to complaints
 
-&emsp;The Secretary shall respond in an expeditious and speedy manner to complaints of a substantial or serious nature that a State has failed to use funds in accordance with the provisions of this chapter, including the assurances provided by the State under section 9908 of this title. For purposes of this paragraph, a complaint of a failure to meet any one of theassurances provided under section 9908 of this title that constitutes disregarding that assurance shall be considered to be a complaint of a serious nature.
+&emsp;The Secretary shall respond in an expeditious and speedy manner to complaints of a substantial or serious nature that a State has failed to use funds in accordance with the provisions of this chapter, including the assurances provided by the State under section 9908 of this title. For purposes of this paragraph, a complaint of a failure to meet any one of the assurances provided under section 9908 of this title that constitutes disregarding that assurance shall be considered to be a complaint of a serious nature.
 
 #### (3) Investigations
 
 &emsp;Whenever the Secretary determines that there is a pattern of complaints of failures described in paragraph (2) from any State in any fiscal year, the Secretary shall conduct an investigation of the use of funds received under this chapter by such State in order to ensure compliance with the provisions of this chapter.
 
 (Pub. L. 97–35, title VI, §678D, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2744.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9903, 9908 of this title.
 

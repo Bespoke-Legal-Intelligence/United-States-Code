@@ -22,7 +22,7 @@ Under such regulations as the Director may prescribe, the Agency, with respect t
 
 &emsp;(B) While in the United States (as described in paragraph (3)(A) of this subsection) <sup>2</sup> on leave, the service of any officer or employee shall be available for work or duties in the Agency or elsewhere as the Director may prescribe; and the time of such work or duty shall not be counted as leave.
 
-&emsp;(C) Where an officer or employee on leave returns to the United States (as described in paragraph (3)(A) of this subsection),<sup>2</sup> leave of absence granted shall be exclusive of the time actually and necessarily occupied in going to and from the United States (as so described) and such time as may be necessarily occupied in awaiting transportation.
+&emsp;(C) Where an officer or employee on leave returns to the United States (as described in paragraph (3)(A) of this subsection),<sup>2</sup> leave of absence granted shall be exclusive of the timeactually and necessarily occupied in going to and from the United States (as so described) and such time as may be necessarily occupied in awaiting transportation.
 
 &emsp;(4) Notwithstanding the provisions of any other law, transport for or on behalf of an officer or employee of the Agency, a privately owned motor vehicle in any case in which it shall be determined that water, rail, or air transportation of the motor vehicle is necessary or expedient for all or any part of the distance between points of origin and destination, and pay the costs of such transportation. Not more than one motor vehicle of any officer or employee of the Agency may be transported under authority of this paragraph during any four-year period, except that, as a replacement for such motor vehicle, one additional motor vehicle of any such officer or employee may be so transported during such period upon approval, in advance, by the Director and upon a determination, in advance, by the Director that such replacement is necessary for reasons beyond the control of the officer or employee and is in the interest of the Government. After the expiration of a period of four years following the date of transportation under authority of this paragraph of a privately owned motor vehicle of any officer or employee who has remained in continuous service outside the several States of the United States of America, excluding Alaska and Hawaii, but including the District of Columbia, during such period, the transportation of a replacement for such motor vehicle for such officer or employee may be authorized by the Director in accordance with this paragraph.
 
@@ -54,9 +54,9 @@ Under such regulations as the Director may prescribe, the Agency, with respect t
 
 (4) Members of the Armed Forces may not receive benefits under both this section and title 37 for the same purpose. The Director and Secretary of Defense shall prescribe joint regulations to carry out the preceding sentence.
 
-(5) Regulations issued pursuant to this subsection shall be submitted to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate before such regulations take effect.
+(5) Regulations, other than regulations under paragraph (1), issued pursuant to this subsection shall be submitted to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate before such regulations take effect.
 
-(June 20, 1949, ch. 227, §4, formerly §5, 63 Stat. 209; renumbered §4, Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337; amended Pub. L. 86–707, title III, §§301(b), 323, title V, §511(a)(3), (c)(2)–(5), Sept. 6, 1960, 74 Stat. 795, 798, 800, 801; Pub. L. 97–89, title V, §501, Dec. 4, 1981, 95 Stat. 1152; Pub. L. 103–359, title IV, §401, Oct. 14, 1994, 108 Stat. 3427.)
+(June 20, 1949, ch. 227, §4, formerly §5, 63 Stat. 209; renumbered §4, Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337; amended Pub. L. 86–707, title III, §§301(b), 323, title V, §511(a)(3), (c)(2)–(5), Sept. 6, 1960, 74 Stat. 795, 798, 800, 801; Pub. L. 97–89, title V, §501, Dec. 4, 1981, 95 Stat. 1152; Pub. L. 103–359, title IV, §401, Oct. 14, 1994, 108 Stat. 3427; Pub. L. 108–177, title IV, §401, Dec. 13, 2003, 117 Stat. 2631.)
 
 #### References in Text
 
@@ -69,6 +69,8 @@ In subsec. (a)(3)(B), (C), “this subsection” substituted for “this section
 Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Amendments
+
+2003—Subsec. (b)(5). Pub. L. 108–177 inserted “, other than regulations under paragraph (1),” after “Regulations”.
 
 1994—Subsec. (a)(5)(A). Pub. L. 103–359, §401(1)(A)–(D), struck out “, not the result of vicious habits, intemperance, or misconduct on his part,” after “the Agency” and substituted “the Director deems” for “he shall deem”, “section 5731 of title 5” for “section 10 of the Act of March 3, 1933 (47 Stat. 1516; 5 U.S.C. 73b)”, and “the recovery of such officer or employee” for “his recovery”.
 
@@ -104,17 +106,15 @@ Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 
 
 #### Clarification of Terms Applied to Furniture, Household Goods, and Personal Effects in 1960 Amendment
 
-Section 301(d) of Pub. L. 86–707 provided that: “The term ‘furniture and household and personal effects’, asused in the amendments made by this part to the Foreign Service Act of 1946, as amended \[amending section 1136 of Title 22, Foreign Relations and Intercourse\], and the Central Intelligence Agency Act of 1949, as amended \[amending this section\], and the term ‘household goods and personal effects’, as used in the amendments made by this part to the Administrative Expenses Act of 1946, as amended \[amending section 73b–1 of former Title 5, Executive Departments and Government Officers and Employees\], mean such personal property of an employee and the dependents of such employee as the Secretary of State and the Director of Central Intelligence, as the case may be, with respect to the term ‘furniture and household and personal effects’, and the President, with respect to the term ‘household goods and personal effects’, shall by regulation authorize to be transported or stored under the amendments made by this part to such Acts (including, in emergencies, motor vehicles authorized to be shipped at Government expense). Such motor vehicle shall be excluded from the weight and volume limitations prescribed by the laws set forth in this part.”
+Section 301(d) of Pub. L. 86–707 provided that: “The term ‘furniture and household and personal effects’, as used in the amendments made by this part to the Foreign Service Act of 1946, as amended \[amending section 1136 of Title 22, Foreign Relations and Intercourse\], and the Central Intelligence Agency Act of 1949, as amended \[amending this section\], and the term ‘household goods and personal effects’, as used in the amendments made by this part to the Administrative Expenses Act of 1946, as amended \[amending section 73b–1 of former Title 5, Executive Departments and Government Officers and Employees\], mean such personal property of an employee and the dependents of such employee as the Secretary of State and the Director of Central Intelligence, as the case may be, with respect to the term ‘furniture and household and personal effects’, and the President, with respect to the term ‘household goods and personal effects’, shall by regulation authorize to be transported or stored under the amendments made by this part to such Acts (including, in emergencies, motor vehicles authorized to be shipped at Government expense). Such motor vehicle shall be excluded from the weight and volume limitations prescribed by the laws set forth in this part.”
+
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.\]
 
 Section 301(d) of Pub. L. 86–707 was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 661, insofar as it is applicable to the Administrative Expenses Act of 1946, as amended.
 
 #### Executive Order No. 10100
 
 Ex. Ord. No. 10100, Jan. 28, 1950, 15 F.R. 499, which provided for regulations governing the granting of allowances by the Director of the Central Intelligence Agency under this section, was revoked by section 5(a) of Ex. Ord. No. 10903, Jan. 9, 1961, 26 F.R. 217, set out under section 5921 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403a, 403f of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

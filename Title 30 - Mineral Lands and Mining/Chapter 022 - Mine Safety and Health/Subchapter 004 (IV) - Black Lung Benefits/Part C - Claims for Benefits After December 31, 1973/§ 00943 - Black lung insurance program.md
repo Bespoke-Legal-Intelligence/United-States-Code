@@ -32,7 +32,7 @@ The Secretary may by regulation provide for general terms and conditions of insu
 
 #### (e) Premium schedule studies and investigations
 
-The Secretary may undertake and carry out such studies and investigations, and receive or exchange such information, as may be necessary to formulate a premium schedule which will enable the insurance and reinsurance authorized by this section to be provided on a basis whichis (1) in accordance with accepted actuarial principles; and (2) fair and equitable.
+The Secretary may undertake and carry out such studies and investigations, and receive or exchange such information, as may be necessary to formulate a premium schedule which will enable the insurance and reinsurance authorized by this section to be provided on a basis which is (1) in accordance with accepted actuarial principles; and (2) fair and equitable.
 
 #### (f) Regulations relating to premium rates
 
@@ -81,10 +81,6 @@ Subsec. (h) of this section, which required the Secretary to report to Congress 
 #### Effective Date
 
 Section effective Mar. 1, 1978, see section 20(a) of Pub. L. 95–239, set out as an Effective Date of 1978 Amendment note under section 901 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 9501.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,7 +28,3 @@
 
 (Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 21.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6382 of this title; title 2 section 1371.
-

@@ -92,7 +92,7 @@ The date of enactment of this paragraph, referred to in subsec. (b)(5), is the d
 
 1998—Subsec. (a). Pub. L. 105–178, §1110(a), substituted “shall establish and implement” for “shall establish”.
 
-Subsec. (b). Pub. L. 105–178, §1110(b)(1), in introductory provisions, substituted “that is or was designated as a nonattainment area for ozone, carbon monoxide, or particulate matter under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)) and classified pursuant to section 181(a), 186(a), 188(a), or 188(b) of the Clean Air Act (42 U.S.C. 7511(a), 7512(a), 7513(a), or 7513(b)) or is or was designated as a nonattainment area under such section 107(d) after December 31, 1997,” for “that was designated as a nonattainment area under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)) during any part of fiscal year 1994”.
+Subsec. (b). Pub. L. 105–178, §1110(b)(1), in introductory provisions, substituted “that is or was designated as a nonattainment area for ozone, carbon monoxide, or particulate matter under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)) and classified pursuant to section 181(a), 186(a), 188(a), or 188(b) of the Clean Air Act (42 U.S.C. 7511(a), 7512(a), 7513(a), or 7513(b)) or is or was designated as a nonattainment area under such section 107(d) after December 31, 1997,” for “that was designated as a nonattainment area under section 107(d) ofthe Clean Air Act (42 U.S.C. 7407(d)) during any part of fiscal year 1994”.
 
 Subsec. (b)(1)(A). Pub. L. 105–178, §1110(b)(2), substituted “clause (xvi) of such section” for “clauses (xii) and (xvi) of such section”.
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Determination by Secretary; Water-Phased Hydrocarbon Fuel Emulsion Technologies
 
-Pub. L. 105–178, title I, §1110(d)(2), June 9, 1998, 112 Stat. 144, as amended by Pub. L. 105–206, title IX, §9002(g), July 22, 1998, 112 Stat. 836, provided that: “For the purposes of section 149(e) of title 23, United States Code, the Secretary shall determine in accordance with the procedures specified in section 149(b) of such title whether water-phased hydrocarbon fuel emulsion technologies that consist of a hydrocarbon base and waterin an amount not less than 20 percent by volume reduce emissions of hydrocarbon, particulate matter, carbon monoxide, or nitrogen oxide from motor vehicles.”
+Pub. L. 105–178, title I, §1110(d)(2), June 9, 1998, 112 Stat. 144, as amended by Pub. L. 105–206, title IX, §9002(g), July 22, 1998, 112 Stat. 836, provided that: “For the purposes of section 149(e) of title 23, United States Code, the Secretary shall determine in accordance with the procedures specified in section 149(b) of such title whether water-phased hydrocarbon fuel emulsion technologies that consist of a hydrocarbon base and water in an amount not less than 20 percent by volume reduce emissions of hydrocarbon, particulate matter, carbon monoxide, or nitrogen oxide from motor vehicles.”
 
 #### Study of CMAQ Program
 
@@ -180,7 +180,7 @@ Notwithstanding any other provision of law, for each of fiscal years 1996 and 19
 
 #### Value Pricing Pilot Program
 
-Pub. L. 102–240, title I, §1012(b), Dec. 18, 1991, 105 Stat. 1938, as amended by Pub. L. 104–59, title III, §325(e), Nov. 28, 1995, 109 Stat. 592; Pub. L. 105–178, title I, §1216(a), June 9, 1998, 112 Stat. 211; Pub. L. 105–206, title IX, §9006(b), July 22, 1998, 112 Stat. 848, provided that:
+Pub. L. 102–240, title I, §1012(b), Dec. 18, 1991, 105 Stat. 1938, as amended by Pub. L. 104–59, title III, §325(e),Nov. 28, 1995, 109 Stat. 592; Pub. L. 105–178, title I, §1216(a), June 9, 1998, 112 Stat. 211; Pub. L. 105–206, title IX, §9006(b), July 22, 1998, 112 Stat. 848, provided that:
 
 “(1) The Secretary shall solicit the participation of State and local governments and public authorities for one or more value pricing pilot programs. The Secretary may enter into cooperative agreements with as many as 15 such State or local governments or public authorities to establish, maintain, and monitor value pricing programs.
 
@@ -221,8 +221,4 @@ Use of unallocated funds.—If the total amount of funds made available from the
 &emsp;“(C)
 
 Contract authority.—Funds authorized to carry out this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of any project under this subsection and the availability of funds authorized to carry out this subsection shall be determined in accordance with this subsection.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 104, 106, 322 of this title.
 

@@ -30,7 +30,3 @@ As used in this section, the term “United States” means each of the several 
 
 Section was classified to section 212a–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1819, 1961, 1970, 2021, 2161 of this title; title 40 sections 5105, 5107, 5109, 8501.
-

@@ -2,7 +2,7 @@
 
 (a)
 
-Purpose.—To provide a highway system which, in conjunction with the Interstate System and other Federal-aid highways in the Appalachian region, will open up an area with a developmental potential where commerce and communication have been inhibited by lack of adequate access, the Secretary of Transportation may assist in the construction of an Appalachian development highway system and local access roads serving the Appalachian region. Construction on the development highway system shall not be more than 3,025 miles. There shall not be more than 1,400 miles of local access roads that serve specific recreational, residential, educational, commercial, industrial, or similar facilities or facilitate a school consolidation program.
+Purpose.—To provide a highway system which, in conjunction with the Interstate System and other Federal-aid highways in the Appalachian region, will open up an area with a developmental potential where commerce and communication have been inhibited by lack of adequate access, the Secretary of Transportation may assist in the construction of an Appalachian development highway system and local access roads serving the Appalachian region. Construction on the development highway system shall not be more than three thousand and ninety miles. There shall not be more than 1,400 miles of local access roads that serve specific recreational, residential, educational, commercial, industrial, or similar facilities or facilitate a school consolidation program.
 
 (b)
 
@@ -50,7 +50,7 @@ Construction Without Federal Amounts.—
 
 &emsp;(1)
 
-Payment of federal share.—When a participating State constructs a segment of a development highway without the aid of federal amounts and the construction is in accordance with all procedures and requirements applicable to the construction of segments of Appalachian development highways with those amounts, except for procedures and requirements that limit a State to the construction of projects for which federal amounts have previously been appropriated, the Secretary, on application by the State and with the approval of the Commission, may pay to the State the federal share, which shall not be more than 80 percent of the cost of the construction of the segment, from any amounts appropriated and allocated to the State to carry out this section.
+Payment of federal share.—When a participating State constructs a segment of a development highway without the aid of federal amounts and the construction is in accordance with all procedures and requirementsapplicable to the construction of segments of Appalachian development highways with those amounts, except for procedures and requirements that limit a State to the construction of projects for which federal amounts have previously been appropriated, the Secretary, on application by the State and with the approval of the Commission, may pay to the State the federal share, which shall not be more than 80 percent of the cost of the construction of the segment, from any amounts appropriated and allocated to the State to carry out this section.
 
 &emsp;(2)
 
@@ -70,7 +70,7 @@ and 118.—Sections 106(a) and 118 of title 23 apply to the development highway 
 
 Construction and maintenance.—States are required to maintain each development highway and local access road as provided for Federal-aid highways in title 23. All other provisions of title 23 that are applicable to the construction and maintenance of Federal-aid primary and secondary highways and which the Secretary decides are not inconsistent with this subtitle shall apply to the system and roads, respectively.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1265.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1265; Pub. L. 108–199, div. F, title I, §123(a), Jan. 23, 2004, 118 Stat. 296.)
 
 Historical and Revision Notes
 
@@ -124,7 +124,7 @@ In subsection (c), the text of 40 App.:201(c) (1st sentence) is omitted as obsol
 
 In subsection (e), the text of 40 App.:201(g) is omitted as obsolete.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 14507, 14526, 14703, 14704 of this title; title 23 section 104.
+2004—Subsec. (a). Pub. L. 108–199, which directed substitution of “three thousand and ninety” for “three thousand and twenty-five” in third sentence, was executed by substituting “three thousand and ninety” for “3,025” in second sentence of subsec. (a) to reflect the probable intent of Congress.
 

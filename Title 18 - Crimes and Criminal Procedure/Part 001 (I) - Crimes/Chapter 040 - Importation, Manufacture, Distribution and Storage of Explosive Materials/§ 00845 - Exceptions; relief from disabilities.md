@@ -34,7 +34,7 @@
 
 &emsp;(3) For purposes of this subsection, the term “military device” includes, but is not restricted to, shells, bombs, projectiles, mines, missiles, rockets, shaped charges, grenades, perforators, and similar devices lawfully manufactured exclusively for military or police purposes.
 
-(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15. 1970, 84 Stat. 958; amended Pub. L. 93–639, §101, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 104–132, title VI, §605, Apr. 24, 1996, 110 Stat. 1289; Pub. L. 107–296, title XI, §§1112(e)(3), 1126, Nov. 25, 2002, 116 Stat. 2276, 2285.)
+(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 958; amended Pub. L. 93–639, §101, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 104–132, title VI, §605, Apr. 24, 1996, 110 Stat. 1289; Pub. L. 107–296, title XI, §§1112(e)(3), 1126, Nov. 25, 2002, 116 Stat. 2276, 2285.)
 
 #### References in Text
 
@@ -42,7 +42,7 @@ The date of enactment of the Antiterrorism and Effective Death Penalty Act of 19
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–296, §1126, amended subsec. (b) generally. Prior to amendment, text read as follows: “A person who had been indicted for or convicted of a crime punishable by imprisonment for a term exceeding one year may make application to the Attorney General for relief from the disabilities imposed bythis chapter with respect to engaging in the business of importing, manufacturing, or dealing in explosive materials, or the purchase of explosive materials, and incurred by reason of such indictment or conviction, and the Attorney General may grant such relief if it is established to his satisfaction that the circumstances regarding the indictment or conviction, and the applicant's record and reputation, are such that the applicant will not be likely to act in a manner dangerous to public safety and that the granting of the relief will not be contrary to the public interest. A licensee or permittee who makes application for relief from the disabilities incurred under this chapter by reason of indictment or conviction, shall not be barred by such indictment or conviction from further operations under his license or permit pending final action on an application for relief filed pursuant to this section.”
+2002—Subsec. (b). Pub. L. 107–296, §1126, amended subsec. (b) generally. Prior to amendment, text read as follows: “A person who had been indicted for or convicted of a crime punishable by imprisonment for a term exceeding one year may make application to the Attorney General for relief from the disabilities imposed by this chapter with respect to engaging in the business of importing, manufacturing, or dealing in explosive materials, or the purchase of explosive materials, and incurred by reason of such indictment or conviction, and the Attorney General may grant such relief if it is established to his satisfaction that the circumstances regarding the indictment or conviction, and the applicant's record and reputation, are such that the applicant will not be likely to act in a manner dangerous to public safety and that the granting of the relief will not be contrary to the public interest. A licensee or permittee who makes application for relief from the disabilities incurred under this chapter by reason of indictment or conviction, shall not be barred by such indictment or conviction from further operations under his license or permit pending final action on an application for relief filed pursuant to this section.”
 
 Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
 
@@ -59,10 +59,6 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–132 effective 1 year after Apr. 24, 1996, see section 607 of Pub. L. 104–132, set out as a note under section 841 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 926 of this title; title 15 section 2052.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

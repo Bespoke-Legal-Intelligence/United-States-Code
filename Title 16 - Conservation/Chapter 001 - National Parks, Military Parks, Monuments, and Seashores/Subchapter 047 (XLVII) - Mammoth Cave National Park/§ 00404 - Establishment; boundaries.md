@@ -8,7 +8,3 @@ When title to lands within the area referred to in this section shall have been 
 
 Act of February 21, 1925, referred to in text, was not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 404a, 404c–11, 404f of this title.
-

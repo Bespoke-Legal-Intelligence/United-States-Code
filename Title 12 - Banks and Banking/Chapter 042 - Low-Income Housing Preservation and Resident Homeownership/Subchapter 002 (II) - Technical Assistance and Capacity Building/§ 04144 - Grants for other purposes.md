@@ -12,9 +12,5 @@ The Secretary may provide grants under this subchapter—
 
 This title, referred to in par. (2), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4145, 4147 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -266,9 +266,5 @@ General victim assistance.—The guidelines should also ensure that any other im
 
 \[Amendment of section 6 of Pub. L. 97–291 by Pub. L. 98–473, set out above, effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98–473, set out as an Effective Date note under section 10601 of Title 42, The Public Health and Welfare.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1514, 1515, 1961, 2516, 3142 of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -6,7 +6,7 @@ General Penalties.—(1) A person that the Secretary of Transportation decides, 
 
 (2) A person violating a standard or order under section 60103 or 60111 of this title is liable to the Government for a civil penalty of not more than $50,000 for each violation. A penalty under this paragraph may be imposed in addition to penalties imposed under paragraph (1) of this subsection.
 
-(3) A person violating section 60129, or an order issued thereunder, is liable to the Governmentfor a civil penalty of not more than $1,000 for each violation. The penalties provided by paragraph (1) do not apply to a violation of section 60129 or an order issued thereunder.
+(3) A person violating section 60129, or an order issued thereunder, is liable to the Government for a civil penalty of not more than $1,000 for each violation. The penalties provided by paragraph (1) do not apply to a violation of section 60129 or an order issued thereunder.
 
 (b)
 
@@ -147,8 +147,4 @@ Subsec. (b). Pub. L. 107–355, §8(b)(2), substituted “under this section—�
 #### Comptroller General Study
 
 Pub. L. 107–355, §8(d), Dec. 17, 2002, 116 Stat. 2994, required the Comptroller General to study the actions, policies, and procedures of the Secretary of Transportation for assessing and collecting fines and penalties on operators of hazardous liquid and gas transmission pipelines, and to report, not later than 1 year after Dec. 17, 2002, the results of the study to certain committees of Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 60105, 60114, 60120 of this title.
 

@@ -10,7 +10,7 @@
 
 (b) If, except for the pendency of the case under this chapter, such abandonment would require approval by the Board under a law of the United States, the trustee shall initiate an appropriate application for such abandonment with the Board. The court may fix a time within which the Board shall report to the court on such application.
 
-(c) After the court receives the report of the Board, or the expiration of the time fixed under subsection (b) of this section, whichever occurs first, the court may authorize such abandonment, after notice to the Board, the Secretary of Transportation, the trustee, any party in interest that has requested notice, any affected shipper or community, and any other entity prescribed by the court, and a hearing.
+(c) After the court receives the report of the Board, or the expiration of the time fixed undersubsection (b) of this section, whichever occurs first, the court may authorize such abandonment, after notice to the Board, the Secretary of Transportation, the trustee, any party in interest that has requested notice, any affected shipper or community, and any other entity prescribed by the court, and a hearing.
 
 (d)(1) Enforcement of an order authorizing such abandonment shall be stayed until the time for taking an appeal has expired, or, if an appeal is timely taken, until such order has become final.
 
@@ -26,7 +26,7 @@
 
 I74senate report no. 95–989
 
-Subsection (a) of section 1178 \[enacted as section 1170\] permits the court to authorize the abandonment of a railroad line if the abandonment is consistent with the public interest and either in the best interest of the estate or essential to the formulation of a plan. Thisavoids the normal abandonment requirements of generally applicable railroad regulatory law.
+Subsection (a) of section 1178 \[enacted as section 1170\] permits the court to authorize the abandonment of a railroad line if the abandonment is consistent with the public interest and either in the best interest of the estate or essential to the formulation of a plan. This avoids the normal abandonment requirements of generally applicable railroad regulatory law.
 
 Subsection (b) permits some participation by the Interstate Commerce Commission in the abandonment process. The Commission's role, however, is only advisory. The Commission will represent the public interest, while the trustee and various creditors and equity security holders will represent the interests of those who have invested money in the enterprise. The court will balance the various interests and make an appropriate decision. The subsection specifies that if, except for the pendency of the railroad reorganization case, the proposed abandonment would require Commission approval, then the trustee, with the approval of the court, must initiate an application for the abandonment with the Commission. The court may then fix a time within which the Commission must report to the court on the application.
 
@@ -69,10 +69,6 @@ Section 710 of Pub. L. 96–448 provided that:
 “(c) Section 218(b) of this Act \[amending former section 10705 of Title 49\] shall take effect on October 1, 1983.
 
 “(d) Section 701 of this Act \[enacting section 1018 of Title 45, Railroads, and amending sections 231f, 825, 906, 913, 914, 1002, 1005, 1007, and 1008 of Title 45\] shall take effect on the date of enactment of this Act \[Oct. 14, 1980\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1165, 1166, 1169, 1172 of this title; title 45 sections 904, 915.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

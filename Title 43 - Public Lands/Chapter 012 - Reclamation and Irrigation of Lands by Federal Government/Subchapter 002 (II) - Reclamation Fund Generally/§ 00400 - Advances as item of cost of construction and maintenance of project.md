@@ -12,7 +12,3 @@ Section 399 of this title, included within reference in text to sections 398 to 
 
 Section is comprised of first clause of section 4 of act June 25, 1910. Second clause of such section 4 is classified to section 413 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 391a–1 of this title.
-

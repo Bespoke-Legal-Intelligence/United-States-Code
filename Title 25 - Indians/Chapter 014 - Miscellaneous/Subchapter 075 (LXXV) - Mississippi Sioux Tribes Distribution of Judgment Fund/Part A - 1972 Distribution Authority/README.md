@@ -2,10 +2,6 @@ Part A—1972
 
 Distribution Authority
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1300d–22, 1300d–24, 1300d–27 of this title.
-
 
 ---
 

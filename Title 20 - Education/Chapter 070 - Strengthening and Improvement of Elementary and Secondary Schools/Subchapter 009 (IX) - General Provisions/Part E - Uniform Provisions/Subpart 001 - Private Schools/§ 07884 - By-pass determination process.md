@@ -48,7 +48,7 @@
 
 #### (b) Determination
 
-Any determination by the Secretary under this section shall continue in effect until the Secretary determines, in consultation with that agency, consortium, or entity and representatives of the affected private school children, teachers, or other educational personnel, thatthere will no longer be any failure or inability on the part of the agency, consortium, or entity to meet the applicable requirements of section 7881 of this title or any other provision of this chapter.
+Any determination by the Secretary under this section shall continue in effect until the Secretary determines, in consultation with that agency, consortium, or entity and representatives of the affected private school children, teachers, or other educational personnel, that there will no longer be any failure or inability on the part of the agency, consortium, or entity to meet the applicable requirements of section 7881 of this title or any other provision of this chapter.
 
 #### (c) Payment from State allotment
 
@@ -59,8 +59,4 @@ When the Secretary arranges for services pursuant to this section, the Secretary
 Any by-pass determination by the Secretary under this chapter as in effect on the day preceding January 8, 2002, shall remain in effect to the extent the Secretary determines that that determination is consistent with the purpose of this section.
 
 (Pub. L. 89–10, title IX, §9504, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1978.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6320, 7315, 7321 of this title.
 

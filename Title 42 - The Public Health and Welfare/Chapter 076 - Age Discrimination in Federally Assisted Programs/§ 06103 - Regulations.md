@@ -14,7 +14,7 @@
 
 (3) Not later than ninety days after the Secretary publishes proposed regulations under paragraph (1), the Secretary shall publish in the Federal Register final general regulations to carry out the provisions of section 6102 of this title, after taking into consideration any comments received by the Secretary with respect to the regulations proposed under paragraph (1).
 
-(4) Not later than ninety days after the Secretary publishes final general regulations under paragraph (a)(3), the head of each Federal department or agency which extends Federal financial assistance to any program or activity by way of grant, entitlement, loan, or contract other than a contract of insurance or guaranty, shall transmit to the Secretary and publish in the Federal Register proposed regulations to carry out the provisions of section 6102 of this title and to provide appropriate investigative, conciliation, and enforcement procedures. Such regulations shall be consistent with the final general regulations issued by the Secretary, and shall not become effective until approved by the Secretary.
+(4) Not later than ninety days after the Secretary publishes final general regulations under paragraph (a)(3), the head of each Federal department or agency which extends Federal financial assistance to any program or activity by way of grant, entitlement, loan, or contract other than a contract of insurance or guaranty, shall transmit to the Secretary and publish in the Federal Register proposed regulations to carry out the provisions of section 6102 of this title and to provide appropriate investigative, conciliation, and enforcement procedures. Such regulations shall be consistent with the finalgeneral regulations issued by the Secretary, and shall not become effective until approved by the Secretary.
 
 (5) Notwithstanding any other provision of this section, no regulations issued pursuant to this section shall be effective before July 1, 1979.
 
@@ -38,7 +38,7 @@
 
 #### References in Text
 
-The Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amended, referred to in subsec. (c)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, asamended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
+The Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amended, referred to in subsec. (c)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
 #### Codification
 
@@ -59,8 +59,4 @@ Subsec. (a)(5). Pub. L. 95–478, §401(b)(2), substituted “July 1, 1979” fo
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–478 effective at the close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as a note under section 3001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6102, 6104 of this title.
 

@@ -8,10 +8,6 @@ Subtitle E of title I of Pub. L. 101–610, comprising this division, was former
 
 This division is comprised of subtitle E, §§151–166, of title I of Pub. L. 101–610. A prior part E (§12591 et seq.), comprised of subtitle E, §§155–167, of title I of Pub. L. 101–610, related to innovative and demonstration programs and projects, prior to repeal by Pub. L. 103–82, §104(a).
 
-#### Division Referred to in Other Sections
-
-This division is referred to in sections 12573, 12581, 12605, 12681 of this title; title 32 section 509.
-
 
 ---
 

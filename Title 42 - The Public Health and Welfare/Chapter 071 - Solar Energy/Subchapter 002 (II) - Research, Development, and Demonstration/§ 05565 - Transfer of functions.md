@@ -4,7 +4,3 @@ Within sixty days after the effective date of the law creating a permanent Feder
 
 (Pub. L. 93–473, §16, Oct. 26, 1974, 88 Stat. 1438.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5563 of this title.
-

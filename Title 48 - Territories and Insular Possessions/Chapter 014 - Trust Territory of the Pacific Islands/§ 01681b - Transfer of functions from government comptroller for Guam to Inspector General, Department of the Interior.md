@@ -6,7 +6,7 @@ The following functions, powers, and duties heretofore vested in the government 
 
 &emsp;(1) The authority to audit all accounts pertaining to the revenue and receipts of the governments of the Marshall Islands, the Federated States of Micronesia, Palau, and the Northern Mariana Islands, and of funds derived from bond issues, and the authority to audit, in accordance with law and administrative regulations, all expenditures of funds and property pertaining to the aforementioned governments including those pertaining to trust funds held by such governments.
 
-&emsp;(2) The authority to report to the Secretary of the Interior, the High Commissioner of the Trust Territory of the Pacific Islands, the chief executives of the governments of the Marshall Islands, the Federated States of Micronesia, Palau, and the Northern Mariana Islands all failures to collect amounts due the governments, and expenditures of funds oruses of property which are irregular or not pursuant to law.
+&emsp;(2) The authority to report to the Secretary of the Interior, the High Commissioner of the Trust Territory of the Pacific Islands, the chief executives of the governments of the Marshall Islands, the Federated States of Micronesia, Palau, and the Northern Mariana Islands all failures to collect amounts due the governments, and expenditures of funds or uses of property which are irregular or not pursuant to law.
 
 #### (b) Scope of authority transferred
 

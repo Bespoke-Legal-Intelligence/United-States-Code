@@ -88,9 +88,5 @@ Subsec. (f). Pub. L. 106–497, §2(4), added subsec. (f).
 
 Section 107 of Pub. L. 101–644 provided that: “For the purposes of section 1159 of title 18, United States Code, and section 6 of the Act entitled ‘An Act to promote the development of Indian arts and crafts and to create a board to assist therein, and for other purposes’ (25 U.S.C. 305 et seq.) \[25 U.S.C. 305e\] an Indian tribe may not impose a fee in certifying an individual as an Indian artisan. For the purposes of this section, the term ‘Indian tribe’ has the same meaning given such term in section 1159(c)(3) of title 18, United States Code.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 305d of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “terms”.</i>
 

@@ -46,7 +46,3 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 Section 10 of Pub. L. 93–584 provided that: “This Act \[amending this section, sections 1336, 1398, 2323, 2341, and 2342 of this title, and section 305 of former Title 49, Transportation, and repealing sections 2324 and 2325 of this title\] shall not apply to any action commenced on or before the last day of the first month beginning after the date of enactment \[Jan. 2, 1975\]. However, actions to enjoin or suspend orders of the Interstate Commerce Commission which are pending when this Act becomes effective shall not be affected thereby, but shall proceed to final disposition under the law existing on the date they were commenced.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2322, 2323, 2342 of this title.
-

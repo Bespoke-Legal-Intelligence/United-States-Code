@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—JURISDICTION, ADMINISTRATION, ENFORCEMENT; JOINT PENSION TASK FORCE, ETC.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1135 of this title.
-
 
 ---
 

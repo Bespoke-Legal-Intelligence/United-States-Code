@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—INDIAN SELF-DETERMINATION AND EDUCATION ASSISTANCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 450a–1, 941h, 1645, 1683, 1809, 1812, 2001, 2006, 2008, 2212, 2411, 2501, 2502, 2504, 2505, 2507, 2802, 3207, 3302, 3304, 3305, 3322, 3325, 3613, 3614, 3711, 3731, 3803, 3905, 4101, 4103, 4132 of this title; title 7 sections 178g, 178h; title 12 section 1715z–13a; title 16 section 410ii–5; title 20 sections 969, 2327; title 23 sections 202, 204; title 29 section 2911; title 40 section 3162; title 42 sections 247d–8, 612, 1471, 1490p–2, 5302, 11432; title 43 section 1600<i>l.</i>
-
 
 ---
 
@@ -18,9 +14,10 @@ This subchapter is referred to in sections 450a–1, 941h, 1645, 1683, 1809, 181
 - [&sect; 00450e - Wage and labor standards](%C2%A7%2000450e%20-%20Wage%20and%20labor%20standards.md)
 - [&sect; 00450e&#8211;1 - Grant and cooperative agreements](%C2%A7%2000450e%E2%80%931%20-%20Grant%20and%20cooperative%20agreements.md)
 - [&sect; 00450e&#8211;2 - Use of excess funds](%C2%A7%2000450e%E2%80%932%20-%20Use%20of%20excess%20funds.md)
+- [&sect; 00450e&#8211;3 - Investment of advance payments; restrictions](%C2%A7%2000450e%E2%80%933%20-%20Investment%20of%20advance%20payments%3B%20restrictions.md)
 - [Part A - Indian Self-Determination](Part%20A%20-%20Indian%20Self-Determination/README.md)
 - [Part B - Contracts with States](Part%20B%20-%20Contracts%20with%20States/README.md)
 - [Part C - Indian Education Assistance](Part%20C%20-%20Indian%20Education%20Assistance/README.md)
 - [Part D - Tribal Self-Governance&#8212;Department of the Interior](Part%20D%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/README.md)
 - [Part E - Tribal Self-Governance&#8212;Indian Health Service](Part%20E%20-%20Tribal%20Self-Governance%E2%80%94Indian%20Health%20Service/README.md)
-- [Part F - American Indian Education Foundation](Part%20F%20-%20American%20Indian%20Education%20Foundation/README.md)
+- [Part F - National Fund for Excellence in American Indian Education](Part%20F%20-%20National%20Fund%20for%20Excellence%20in%20American%20Indian%20Education/README.md)

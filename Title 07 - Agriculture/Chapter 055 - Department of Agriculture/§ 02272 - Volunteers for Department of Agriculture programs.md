@@ -26,7 +26,3 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 Section 1527 of Pub. L. 97–98 provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subtitle \[enacting this section\], such sums to remain available until expended.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2272a of this title.
-

@@ -74,7 +74,3 @@ In subsection (a)(1), before clause (A), the words “in accordance with this se
 
 In subsection (a)(2), the text of 15:2022(c)(1)–(3) is omitted as obsolete because the standard has already been prescribed. See 49 C.F.R. part 541.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 33101, 33104, 33105, 33106, 33107, 33108, 33112, 33114, 33115, 33118 of this title.
-

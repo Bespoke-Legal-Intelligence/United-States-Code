@@ -82,7 +82,7 @@ Sec. 1. Settlement of disputes\]. That no carrier which served the notices of No
 
 “
 
-Sec. 2. \[Arbitration board\]. There is hereby established an arbitration board to consist of seven members. The representatives of the carrier and organization parties to the aforesaid dispute are hereby directed, respectively, within five days after the enactment hereof \[Aug. 28, 1963\] each to name two persons to serve as members of such arbitration board. The four members thus chosen shall select three additional members. The seven members shall then elect a chairman. If the members chosen by the parties shall fail to name one or more of the additional three members within ten days, such additional members shall be named by the President. If either party fails to name a member or members to the arbitration board within the five days provided, the President shall name such member or members in lieu of such party and shall also name the additional three members necessary to constitute a board of seven members, all within ten days after the date of enactment of this joint resolution \[Aug. 28, 1963\]. Notwithstanding any other provision of law, the National Mediation Board is authorized and directed: (1) to compensate the arbitrators not named by the parties at a rate not in excess of $100 for each day together with necessary travel and subsistence expenses, and (2) to provide such services and facilities as may be necessary and appropriate in carrying out the purposes of this joint resolution.
+Sec. 2. \[Arbitration board\]. There is hereby established an arbitration board to consist of seven members. The representatives of the carrier and organization parties to the aforesaid dispute are hereby directed, respectively, within five days after the enactment hereof \[Aug. 28, 1963\] each to name two persons to serve as members of such arbitration board. The four members thus chosen shall select three additional members. The seven members shall then elect a chairman. If the members chosen by the parties shall fail to name one or more of the additional three members within ten days, such additional members shall be named by the President. If either party fails to name a member or members to the arbitration board withinthe five days provided, the President shall name such member or members in lieu of such party and shall also name the additional three members necessary to constitute a board of seven members, all within ten days after the date of enactment of this joint resolution \[Aug. 28, 1963\]. Notwithstanding any other provision of law, the National Mediation Board is authorized and directed: (1) to compensate the arbitrators not named by the parties at a rate not in excess of $100 for each day together with necessary travel and subsistence expenses, and (2) to provide such services and facilities as may be necessary and appropriate in carrying out the purposes of this joint resolution.
 
 “
 
@@ -115,8 +115,4 @@ Sec. 8. \[Expiration date\]. This joint resolution shall expire one hundred and 
 “
 
 Sec. 9. \[Separability\]. If any provision of this joint resolution or the application thereof is held invalid, the remainder of this joint resolution and the application of such provision to other parties or in other circumstances not held invalid shall not be affected thereby.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 154, 155, 797g of this title; title 18 section 6001.
 

@@ -46,7 +46,3 @@ In subsection (b), the words “may be served in any judicial district” are su
 
 In subsection (c), the words “a final action of the Secretary” are substituted for “Any final agency action taken by the Secretary” to eliminate unnecessary words. The words “this part or, as applicable to railroad safety, chapter 51 or 57 of this title” are substituted for “this subchapter or under any of the other Federal railroad safety laws, as defined in section 441(e) of this title” because of the restatement. The words “is subject to judicial review as provided in chapter 7 of title 5” are omitted as unnecessary because 5:ch. 7 applies unless otherwise stated. The words “by and in the manner prescribed” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 28 section 2342.
-

@@ -1,9 +1,5 @@
 subpart 1—jacob k. javits fellowship program
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 1137 of this title.
-
 
 ---
 

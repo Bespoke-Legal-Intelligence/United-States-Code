@@ -4,7 +4,3 @@ There is hereby authorized to be appropriated to the Department of State for the
 
 (Pub. L. 86–605, §4, July 7, 1960, 74 Stat. 361.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 460fff–1.
-

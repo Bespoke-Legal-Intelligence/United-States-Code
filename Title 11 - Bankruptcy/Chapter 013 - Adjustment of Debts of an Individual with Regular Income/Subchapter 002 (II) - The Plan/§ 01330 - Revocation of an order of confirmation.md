@@ -18,7 +18,3 @@ Special tax provision: Section 1331 of title 11 of the House bill and the compar
 
 The court may revoke an order of confirmation procured by fraud, after notice and hearing, on application of a party in interest filed within 180 days after the entry of the order. Thereafter, unless a modified plan is confirmed, the court is to convert or dismiss the chapter 13 case as provided in section 1307.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1307 of this title.
-

@@ -10,7 +10,7 @@ For purposes of this section:
 
 #### (1) Spouse
 
-&emsp;The term “spouse” means any individual who is the marriage partner of an HIV-infected patient, or who has been the marriagepartner of that patient at any time within the 10-year period prior to the diagnosis of HIV infection.
+&emsp;The term “spouse” means any individual who is the marriage partner of an HIV-infected patient, or who has been the marriage partner of that patient at any time within the 10-year period prior to the diagnosis of HIV infection.
 
 #### (2) HIV-infected patient
 

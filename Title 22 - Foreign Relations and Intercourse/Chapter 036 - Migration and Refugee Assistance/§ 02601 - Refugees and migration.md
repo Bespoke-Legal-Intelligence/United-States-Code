@@ -28,7 +28,7 @@ The President shall keep the appropriate committees of Congress currently inform
 
 #### (e) Continued availability of certain funds
 
-Unexpended balances of funds made available under authority of the Mutual Security Act of 1954, as amended, and of the Foreign Assistance Act of 1961, as amended, \[22 U.S.C. 2151 et seq.\], and allocated or transferred for the purposes of sections 405(a), 405(c), 405(d) and 451(c) <sup>1</sup> of theMutual Security Act of 1954, as amended \[22 U.S.C. 1925(a), (c), (d), 1951(c)\], are authorized to be continued available for the purposes of this section and may be consolidated with appropriations authorized by this section.
+Unexpended balances of funds made available under authority of the Mutual Security Act of 1954, as amended, and of the Foreign Assistance Act of 1961, as amended, \[22 U.S.C. 2151 et seq.\], and allocated or transferred for the purposes of sections 405(a), 405(c), 405(d) and 451(c) <sup>1</sup> of the Mutual Security Act of 1954, as amended \[22 U.S.C. 1925(a), (c), (d), 1951(c)\], are authorized to be continued available for the purposes of this section and may be consolidated with appropriations authorized by this section.
 
 #### (f) Restrictions on foreign assistance not applicable to migration and refugee assistance
 
@@ -80,7 +80,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §251\], Nov. 29, 19
 
 “(a)
 
-In General.—None of the funds made available by this Act \[see Short Title of 1999 Amendment note set out under section 2651 of this title\] or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or politicalopinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
+In General.—None of the funds made available by this Act \[see Short Title of 1999 Amendment note set out under section 2651 of this title\] or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
 
 “(b)
 
@@ -88,7 +88,7 @@ Migration and Refugee Assistance.—None of the funds made available by this Act
 
 “(c)
 
-Involuntary Return Defined.—As used in this section, the term ‘to effect the involuntary return’ means to require, by means of physical force or circumstances amounting to a threat thereof, a person to return to a country against the person's will, regardless of whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.”
+Involuntary Return Defined.—As used in this section, the term ‘to effect the involuntary return’ means to require, by means of physical force or circumstances amounting to a threat thereof, a person to return to a country against the person's will, regardlessof whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.”
 
 Similar provisions were contained in the following prior act:
 
@@ -197,10 +197,6 @@ Any reference in this memorandum to section 2(b)(2) of the MRAA, as amended, sha
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2730 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

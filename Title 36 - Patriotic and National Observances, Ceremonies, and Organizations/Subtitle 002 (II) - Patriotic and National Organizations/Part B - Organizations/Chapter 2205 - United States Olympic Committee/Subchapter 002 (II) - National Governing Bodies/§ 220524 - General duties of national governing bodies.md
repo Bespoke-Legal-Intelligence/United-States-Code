@@ -44,7 +44,3 @@ In clause (4), the word “by” is substituted for “under its auspices or tha
 
 1998—Pars. (4) to (9). Pub. L. 105–277, added par. (4) and redesignated former pars. (4) to (8) as (5) to (9), respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 220522, 220527, 220528 of this title.
-

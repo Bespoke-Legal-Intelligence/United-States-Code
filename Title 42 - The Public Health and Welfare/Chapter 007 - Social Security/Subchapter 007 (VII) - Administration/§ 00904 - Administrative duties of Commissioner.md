@@ -24,7 +24,7 @@ The total number of positions in the Administration (other than positions establ
 
 &emsp;(1) are held by noncareer appointees (within the meaning of section 3132(a)(7) of title 5) in the Senior Executive Service, or
 
-&emsp;(2) have been determined by the President or the Office of Personnel Management to be of aconfidential, policy-determining, policy-making, or policy-advocating character and have been excepted from the competitive service thereby,
+&emsp;(2) have been determined by the President or the Office of Personnel Management to be of a confidential, policy-determining, policy-making, or policy-advocating character and have been excepted from the competitive service thereby,
 
 > may not exceed at any time the equivalent of 20 full-time positions.
 
@@ -93,8 +93,4 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 #### Report on SES Positions Under Comprehensive Work Force Plan
 
 Section 104(b) of Pub. L. 103–296 provided that within 60 days after establishment by Commissioner of Social Security of comprehensive work force plan required under subsec. (b)(2) of this section, Director of Office of Personnel Management was to transmit to Congress a report specifying total number of Senior Executive Services positions authorized for Social Security Administration in connection with such work force plan.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 405, 1383 of this title.
 

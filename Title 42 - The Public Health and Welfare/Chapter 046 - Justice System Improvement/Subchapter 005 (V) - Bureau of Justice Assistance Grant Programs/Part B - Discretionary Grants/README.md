@@ -1,9 +1,5 @@
 Part B—Discretionary Grants
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 3742, 3756, 3766b of this title.
-
 
 ---
 

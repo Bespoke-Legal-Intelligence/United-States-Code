@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—ADMINISTRATIVE PROCEDURES AND JUDICIAL REVIEW
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 7919, 8411 of this title.
-
 
 ---
 

@@ -1,10 +1,14 @@
 ### §1472. Assistance for livestock producers
 
-#### (a) Availability of assistance
+#### (a) Definition of livestock
+
+In this section, the term “livestock” includes elk, reindeer, and bison.
+
+#### (b) Availability of assistance
 
 In such amounts as are provided in advance in appropriation Acts, the Secretary of Agriculture may provide assistance to dairy and other livestock producers to cover economic losses incurred by such producers in connection with the production of livestock.
 
-#### (b) Types of assistance
+#### (c) Types of assistance
 
 The assistance provided to livestock producers may be in the following forms:
 
@@ -16,17 +20,21 @@ The assistance provided to livestock producers may be in the following forms:
 
 &emsp;(4) Such other assistance, and for such other economic losses, as the Secretary considers appropriate.
 
-#### (c) Limitations
+#### (d) Limitations
 
 The Secretary may not use the funds of the Commodity Credit Corporation to provide assistance under this section.
 
-#### (d) Authorization of appropriations
+#### (e) Authorization of appropriations
 
 There is authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section.
 
-(Pub. L. 107–171, title X, §10104, May 13, 2002, 116 Stat. 488.)
+(Pub. L. 107–171, title X, §10104, May 13, 2002, 116 Stat. 488; Pub. L. 108–447, div. A, title VII, §785(b)(2), Dec. 8, 2004, 118 Stat. 2850.)
 
 #### Codification
 
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Emergency Livestock Feed Assistance Act of 1988 which comprises this subchapter or as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+
+#### Amendments
+
+2004—Pub. L. 108–447 added subsec. (a) and redesignated former subsecs. (a) to (d) as (b) to (e), respectively.
 

@@ -56,7 +56,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose of providing health and support services to infants, children, youth, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall for each of such populations in the eligible area use, from the grants made for the area under section 300ff–11(a) of thistitle for a fiscal year, not less than the percentage constituted by the ratio of the population involved (infants, children, youth, or women in such area) with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome.
+&emsp;&emsp;For the purpose of providing health and support services to infants, children, youth, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall for each of such populations in the eligible area use, from the grants made for the area under section 300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population involved (infants, children, youth, or women in such area) with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome.
 
 #### (B) Waiver
 
@@ -70,7 +70,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (2) Use of funds
 
-&emsp;From amounts received under a grant awarded under this part for a fiscal year, the chief elected official of an eligible area may (in addition to amounts to which subsection (f)(1) of this section applies) use for activities associated with the quality management program required in paragraph (1) not more than the lesser of—
+&emsp;From amounts received under a grant awarded under this part for a fiscal year, thechief elected official of an eligible area may (in addition to amounts to which subsection (f)(1) of this section applies) use for activities associated with the quality management program required in paragraph (1) not more than the lesser of—
 
 &emsp;&emsp;(A) 5 percent of amounts received under the grant; or
 
@@ -122,7 +122,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an entity making an agreement pursuant to paragraph (1)(B) regardingthe provision of services, the requirement established in such paragraph shall be waived by the HIV health services planning council for the eligible area if the entity does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
+&emsp;&emsp;In the case of an entity making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph shall be waived by the HIV health services planning council for the eligible area if the entity does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
 
 #### (B) Determination
 
@@ -209,10 +209,6 @@ Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L.
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 
 Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–11, 300ff–12, 300ff–15, 300ff–22 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

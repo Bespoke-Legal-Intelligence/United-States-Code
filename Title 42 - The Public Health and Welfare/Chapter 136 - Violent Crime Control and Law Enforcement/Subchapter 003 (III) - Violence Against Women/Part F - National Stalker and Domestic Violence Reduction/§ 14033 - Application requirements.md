@@ -10,7 +10,3 @@ An application for a grant under this part shall be submitted in such form and m
 
 (Pub. L. 103–322, title IV, §40604, Sept. 13, 1994, 108 Stat. 1951.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

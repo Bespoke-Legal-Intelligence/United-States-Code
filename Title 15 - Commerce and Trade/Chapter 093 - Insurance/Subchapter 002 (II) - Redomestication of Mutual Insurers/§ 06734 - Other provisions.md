@@ -14,9 +14,5 @@ If any provision of this section,<sup>1</sup> or the application thereof to any 
 
 This section, referred to in text, probably should be a reference to this subtitle, meaning subtitle B (§§311–316) of title III of Pub. L. 106–102, which is classified generally to this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6733, 6735 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@
 
 #### (3) Membership
 
-&emsp;The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Research and Special Projects Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
+&emsp;The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
 
 > A representative of the Department of Transportation shall serve as Chairman.
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) identify agency roles and responsibilities;
 
-&emsp;&emsp;(B) assess the current status of knowledge on oil pollution prevention, response, and mitigation technologies and effects of oil pollution on the environment;
+&emsp;&emsp;(B) assess the current status of knowledge on oil pollution prevention, response, andmitigation technologies and effects of oil pollution on the environment;
 
 &emsp;&emsp;(C) identify significant oil pollution research gaps including an assessment of major technological deficiencies in responses to past oil discharges;
 
@@ -134,7 +134,7 @@
 
 &emsp;(B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency represented on the Interagency Committee for awarding the grant. The granting agency shall award the grants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
 
-&emsp;(C) Any university or other research institution, or group of universities or research institutions, may apply for a grant for the regional research program established by this paragraph. The applicant must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program. With respect to a group application, the entity or entities which will carry out the substantial portion of the proposed research must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program.
+&emsp;(C) Any university or other research institution, or group of universities or research institutions, may apply for a grant for the regionalresearch program established by this paragraph. The applicant must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program. With respect to a group application, the entity or entities which will carry out the substantial portion of the proposed research must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program.
 
 &emsp;(D) The Interagency Committee shall make recommendations on grants in such a manner as to ensure an appropriate balance within a region among the various aspects of oil pollution research, including prevention, removal, mitigation, and the effects of discharged oil on regional environments. In addition, the Interagency Committee shall make recommendations for grants based on the following criteria:
 
@@ -160,7 +160,7 @@
 
 #### (11) Utilization of resources
 
-&emsp;In carrying out research under this section, the Department of Transportation shall continue to utilize the resources of the Research and Special Programs Administration of the Department of Transportation, to the maximum extent practicable.
+&emsp;In carrying out research under this section, the Department of Transportation shall continue to utilize the resources of the Pipeline and Hazardous Materials Safety Administration of the Department of Transportation, to the maximum extent practicable.
 
 #### (d) International cooperation
 
@@ -180,17 +180,21 @@ Not to exceed $22,000,000 of amounts in the Fund shall be available annually to 
 
 > All activities authorized in this section, including subsection (c)(8) of this section, are subject to appropriations.
 
-(Pub. L. 101–380, title VII, §7001, Aug. 18, 1990, 104 Stat. 559; Pub. L. 101–537, title II, §2002, Nov. 8, 1990, 104 Stat. 2375; Pub. L. 101–646, title IV, §4002, Nov. 29, 1990, 104 Stat. 4788; Pub. L. 104–324, title XI, §§1102(c)(2), 1108, Oct. 19, 1996, 110 Stat. 3966, 3968; Pub. L. 104–332, §2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091.)
+(Pub. L. 101–380, title VII, §7001, Aug. 18, 1990, 104 Stat. 559; Pub. L. 101–537, title II, §2002, Nov. 8, 1990, 104 Stat. 2375; Pub. L. 101–646, title IV, §4002, Nov. 29, 1990, 104 Stat. 4788; Pub. L. 104–324, title XI, §§1102(c)(2), 1108, Oct. 19, 1996, 110 Stat. 3966, 3968; Pub. L. 104–332, §2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 108–426, §2(c)(5), Nov. 30, 2004, 118 Stat. 2424.)
 
 #### References in Text
 
-This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, knownas the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
 
+2004—Subsec. (a)(3). Pub. L. 108–426, §2(c)(5)(A), substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Projects Administration”.
+
+Subsec. (c)(11). Pub. L. 108–426, §2(c)(5)(B), substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Programs Administration”.
+
 1996—Subsec. (c)(2)(D). Pub. L. 104–324, §1108, inserted “, and the Center for Marine Training and Safety in Galveston, Texas” before semicolon at end.
 
-Subsec. (c)(6). Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 104–646, §4002(1). See 1990 Amendment note below.
+Subsec. (c)(6). Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §4002(1). See 1990 Amendment note below.
 
 Subsec. (c)(9). Pub. L. 104–324, §1102(c)(2), inserted “until the authorization for funding under section 2736(b) of this title expires” before period at end.
 
@@ -209,8 +213,4 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 #### Delegation of Functions
 
 Functions of President under subsec. (a)(3) of this section delegated to Secretary of the Department in which the Coast Guard is operating by section 8(h) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54769, as amended, set out as a note under section 1321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2731 of this title.
 

@@ -50,7 +50,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;Except to the extent provided otherwise under a written election under subparagraph\(B) or (C), if at the time of retirement a participant or former participant is married (or has a former spouse who has not remarried before attaining age 55), the participant shall receive a reduced annuity and provide a survivor annuity for the participant's spouse under this subsection or former spouse under section 2032(b) of this title, or a combination of such annuities, as the case may be.
+&emsp;&emsp;Except to the extent provided otherwise under a written election under subparagraph (B) or (C), if at the time of retirement a participant or former participant is married (or has a former spouse who has not remarried before attaining age 55), the participant shall receive a reduced annuity and provide a survivor annuity for the participant's spouse under this subsection or former spouse under section 2032(b) of this title, or a combination of such annuities, as the case may be.
 
 #### (B) Joint election for waiver or reduction of spouse survivor annuity
 
@@ -58,7 +58,7 @@
 
 #### (C) Joint election of participant and former spouse
 
-&emsp;&emsp;If a participant or former participant has a former spouse, such participant and the participant's former spouse may jointly elect by spousal agreement under section 2094(b) of this title to waive, reduce, or increase a survivor annuity under section 2032(b) of this title for that former spouse. Any such election must be made (i) before the end of the 12-month period beginning on the date on which the divorce or annulment involving that former spouse becomes final, or (ii) at the time of retirement of the participant, whichever is later.
+&emsp;&emsp;If a participant or former participant has a former spouse, such participant and the participant's former spouse may jointly elect by spousal agreement under section 2094(b) of this title to waive, reduce, or increase a survivor annuity under section 2032(b) of this title for that former spouse. Any such election must be made (i) before the end of the 12-month period beginning on the date onwhich the divorce or annulment involving that former spouse becomes final, or (ii) at the time of retirement of the participant, whichever is later.
 
 #### (D) Unilateral elections in absence of spouse or former spouse
 
@@ -126,7 +126,7 @@
 
 #### (ii) Interest
 
-&emsp;&emsp;&emsp;Interest on the additional cost determined under clause (i), computed using the interest rate specified or determined under section 8334(e) of title 5 for the calendar year in which the amount to be deposited is determined.
+&emsp;&emsp;&emsp;Interest on the additional cost determined under clause (i), computed using theinterest rate specified or determined under section 8334(e) of title 5 for the calendar year in which the amount to be deposited is determined.
 
 #### (3) Voiding of previous elections
 
@@ -180,7 +180,7 @@
 
 &emsp;(A) In the case of a child annuity payable under paragraph (1), upon the death of a surviving spouse or the termination of the annuity of a child, the annuities of any remaining children shall be recomputed and paid as though the spouse or child had not survived the retired participant.
 
-&emsp;(B) In the case of a child annuity payable under paragraph (2), upon the death of a surviving spouse or former spouse or termination of the annuity of a child, the annuities of anyremaining children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the retired participant. If the annuity of a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities of all currently eligible children were then being initiated.
+&emsp;(B) In the case of a child annuity payable under paragraph (2), upon the death of a surviving spouse or former spouse or termination of the annuity of a child, the annuities of any remaining children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the retired participant. If the annuity of a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities of all currently eligible children were then being initiated.
 
 #### (5) “Former spouse” defined
 
@@ -194,7 +194,7 @@
 
 #### (2) Termination
 
-&emsp;Such an annuity shall terminate on the last day of the month before the month in which the recipient of the annuity dies or no longer qualifies as a child (as defined in section 2002(b) of this title).
+&emsp;Such an annuity shall terminate on the last day of the month before the month in which the recipient of the annuity dies or no longerqualifies as a child (as defined in section 2002(b) of this title).
 
 #### (f) Participants not married at time of retirement
 
@@ -236,7 +236,7 @@
 
 #### (i) Election
 
-&emsp;&emsp;&emsp;If the retired participant's annuity was not reduced (or was not fully reduced) to provide a survivor annuity for the participant's spouse or former spouse as of the time of retirement, the retired participant may make an election under the first sentence of subparagraph (A) upon remarriage to a spouse other than the spouse at the time of retirement. For any remarriagethat occurred before August 14, 1991, the retired participant may make such an election within 2 years after such date.
+&emsp;&emsp;&emsp;If the retired participant's annuity was not reduced (or was not fully reduced) to provide a survivor annuity for the participant's spouse or former spouse as of the time of retirement, the retired participant may make an election under the first sentence of subparagraph (A) upon remarriage to a spouse other than the spouse at the time of retirement. For any remarriage that occurred before August 14, 1991, the retired participant may make such an election within 2 years after such date.
 
 #### (ii) Deposit required
 
@@ -314,7 +314,7 @@ The Director shall, on an annual basis—
 
 #### Prior Provisions
 
-A prior section 221 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045; Pub. L. 91–185, §2, Dec. 30, 1969, 83 Stat. 847; Pub. L. 91–626, §§2, 3, Dec. 31, 1970, 84 Stat. 1872; Pub. L. 94–522, title II, §§202–204, Oct. 17, 1976, 90 Stat. 2468, 2469; Ex. Ord. No. 12326, §§1, 3, 6, Sept. 30, 1981, 46 F.R. 48889, 48890; Pub. L. 97–269, title VI, §§603–605, 610, Sept. 27, 1982, 96 Stat. 1146, 1147, 1153; Ex. Ord. No. 12443, §§4, 7, 8, Sept. 27, 1983, 48 F.R. 44752; Pub. L. 99–335, title V, §§501(2), (3), 503, June 6, 1986, 100 Stat. 622, 623; Pub. L. 100–178, title IV, §402(b)(1), Dec. 2, 1987, 101 Stat. 1014; Pub. L. 100–453, title III, §302(d)(1), (2), Sept. 29, 1988, 102 Stat. 1907; Pub. L. 102–88, title III, §§304(a), 305(a)(1), 306, Aug. 14, 1991, 105 Stat. 431, 432; Pub. L. 102–183, title III, §§302(a), 303(a), Dec. 4, 1991, 105 Stat. 1262, 1263, related to computation of annuities for other than former spouses and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 221 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045; Pub. L. 91–185, §2, Dec. 30, 1969, 83 Stat. 847; Pub. L. 91–626, §§2, 3, Dec. 31, 1970, 84 Stat. 1872; Pub. L. 94–522, title II, §§202–204, Oct. 17, 1976, 90 Stat. 2468, 2469; Ex. Ord. No. 12326, §§1, 3, 6, Sept. 30, 1981, 46 F.R. 48889, 48890; Pub. L. 97–269, title VI, §§603–605, 610, Sept. 27, 1982, 96 Stat. 1146, 1147, 1153; Ex. Ord. No. 12443, §§4, 7, 8, Sept. 27, 1983, 48 F.R. 44752; Pub. L. 99–335, title V, §§501(2), (3), 503, June 6, 1986, 100 Stat. 622, 623; Pub. L. 100–178, title IV, §402(b)(1), Dec. 2, 1987, 101 Stat. 1014; Pub. L. 100–453, title III, §302(d)(1), (2), Sept. 29, 1988, 102 Stat. 1907; Pub. L. 102–88, title III, §§304(a), 305(a)(1), 306, Aug. 14, 1991, 105 Stat. 431, 432; Pub. L. 102–183, title III, §§302(a), 303(a), Dec. 4, 1991, 105 Stat. 1262, 1263, related to computation of annuities for other than former spouses and was set out as a noteunder section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 
@@ -329,8 +329,4 @@ Subsec. (j). Pub. L. 103–178, §202(a)(4)(D), struck out “(except as provide
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403n, 2002, 2021, 2032, 2033, 2034, 2051, 2052, 2053, 2054, 2055, 2071, 2082, 2111, 2131 of this title.
 

@@ -36,7 +36,7 @@ Unless the Secretary determines the risk proposed by the applicant is unreasonab
 
 #### (f) Certificate of insurance; issuance, etc.
 
-The Secretary, within ninety days after making and submitting the determinations under subsection (e) of this section, and upon agreement of the applicant to such determinations, shall issue a certificate of insurance containing such terms and conditions as the Secretary shall specify, which shall not be transferrable without the express approval of the Secretary for good cause shown, and shall execute a contract with the applicant setting forth the terms and conditions of the investment insurance and such other provisions as may be necessary to protect the interests of the United States, including provisions with respect to the ownership, use, and disposition of any currency, credits, assets, or investments on account of which payment under such insurance is to be made and any right, title, claim, or course of action existing in relation thereto.
+The Secretary, within ninety days after making and submitting the determinations under subsection (e) of this section, and upon agreement of the applicant to such determinations, shall issue a certificate of insurance containing such terms and conditions as the Secretary shall specify, which shall not be transferrable without the express approval of the Secretary for good cause shown, and shall execute a contract with the applicant setting forth the terms and conditions of the investment insurance and such other provisions as may be necessary to protect the interests of the United States, includingprovisions with respect to the ownership, use, and disposition of any currency, credits, assets, or investments on account of which payment under such insurance is to be made and any right, title, claim, or course of action existing in relation thereto.
 
 #### (g) Compensation payable to holder of certificate of insurance; amount, etc.
 
@@ -63,8 +63,4 @@ The Secretary may enter into agreements to reinsure any private insurer for any 
 #### References in Text
 
 This Act, referred to in subsec. (i), is Pub. L. 96–294, June 30, 1980, 94 Stat. 611, as amended, known as the Energy Security Act. For complete classification of this Act to the Code, see Short Title note set out under section 8801 of Title 42, The Public Health and Welfare, and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1521 of this title.
 

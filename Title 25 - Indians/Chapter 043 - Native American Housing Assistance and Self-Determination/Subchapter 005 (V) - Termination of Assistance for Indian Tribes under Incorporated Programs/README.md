@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—TERMINATION OF ASSISTANCE FOR INDIAN TRIBES UNDER INCORPORATED PROGRAMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 4152 of this title.
-
 
 ---
 

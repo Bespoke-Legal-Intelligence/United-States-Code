@@ -92,7 +92,3 @@ Pub. L. 105–261, div. A, title X, §1041(d), Oct. 17, 1998, 112 Stat. 2124, pr
 
 Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as a note under section 401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 432, 433 of this title.
-

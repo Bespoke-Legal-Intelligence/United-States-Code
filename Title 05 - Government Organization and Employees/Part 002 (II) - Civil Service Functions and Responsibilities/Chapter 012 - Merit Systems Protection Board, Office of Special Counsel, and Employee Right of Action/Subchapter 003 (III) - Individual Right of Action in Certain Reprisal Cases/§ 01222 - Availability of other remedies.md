@@ -4,7 +4,3 @@ Except as provided in section 1221(i), nothing in this chapter or chapter 23 sha
 
 (Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 31.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2105 of this title.
-

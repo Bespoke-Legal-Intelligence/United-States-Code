@@ -14,7 +14,7 @@ Maximum Increases.—(1)(A) For each of the model years 1993–2004 for each cat
 
 (b)
 
-Offsets.—Notwithstanding this section and sections 32901(c) and 32905 of this title, if theSecretary of Transportation reduces the average fuel economy standard for passenger automobiles for any model year below 27.5 miles a gallon, an increase in average fuel economy for passenger automobiles of more than .7 mile a gallon to which a manufacturer of dual fueled automobiles would otherwise be entitled is reduced by an amount equal to the amount of the reduction in the standard. However, the increase may not be reduced to less than .7 mile a gallon.
+Offsets.—Notwithstanding this section and sections 32901(c) and 32905 of this title, if the Secretary of Transportation reduces the average fuel economy standard for passenger automobiles for any model year below 27.5 miles a gallon, an increase in average fuel economy for passenger automobiles of more than .7 mile a gallon to which a manufacturer of dual fueled automobiles would otherwise be entitled is reduced by an amount equal to the amount of the reduction in the standard. However, the increase may not be reduced to less than .7 mile a gallon.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1067.)
 
@@ -37,8 +37,4 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §513(g)(1), (2)(A); added Oct. 1
 32906(b)
 
 15:2013(g)(2)(A).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 32901 of this title.
 

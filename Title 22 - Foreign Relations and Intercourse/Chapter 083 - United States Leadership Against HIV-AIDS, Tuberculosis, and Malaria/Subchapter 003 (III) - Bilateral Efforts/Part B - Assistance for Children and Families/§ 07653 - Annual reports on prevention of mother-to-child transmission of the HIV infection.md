@@ -28,5 +28,5 @@ In this section, the term “reporting period” means, in the case of the initi
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State by Memorandum of President of Feb. 23, 2004, 69 F.R. 9509, set out as a note under section 7611 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title, and Memorandum of President of Feb. 23, 2004, 69 F.R. 9509, set out as a note under section 7611 of this title.
 

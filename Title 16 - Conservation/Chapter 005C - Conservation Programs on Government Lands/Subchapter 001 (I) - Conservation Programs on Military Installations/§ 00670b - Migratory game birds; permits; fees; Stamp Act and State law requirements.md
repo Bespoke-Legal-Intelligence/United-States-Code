@@ -16,7 +16,3 @@ Public Law 85–337, referred to in text, is Pub. L. 85–337, Feb. 28, 1958, 72
 
 1974—Pub. L. 93–452, §3(3), substituted “title” for “Act” which for purposes of codification was translated as “subchapter”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 670a, 670f of this title.
-

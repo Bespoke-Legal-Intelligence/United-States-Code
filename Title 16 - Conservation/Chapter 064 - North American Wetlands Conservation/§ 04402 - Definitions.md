@@ -4,7 +4,7 @@ For the purposes of this chapter:
 
 &emsp;(1) The term “Agreement” means the Tripartite Agreement signed in March 1988, by the Director General for Ecological Conservation of Natural Resources of Mexico, the Director of the Canadian Wildlife Service, and the Director of the United States Fish and Wildlife Service.
 
-&emsp;(2) The term “appropriate Committees” means the Committee on Environment andPublic Works of the United States Senate and the Committee on Resources of the House of Representatives.
+&emsp;(2) The term “appropriate Committees” means the Committee on Environment and Public Works of the United States Senate and the Committee on Resources of the House of Representatives.
 
 &emsp;(3) The term “flyway” means the four administrative units used by the United States Fish and Wildlife Service and the States in the management of waterfowl populations.
 

@@ -150,7 +150,3 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
 Act Dec. 23, 1944, ch. 713, §6, 58 Stat. 920, provided an additional appropriation not to exceed $3,000,000 to be available for the fiscal year 1945 to carry out the provisions of this chapter for the fiscal years 1943 and 1944.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1505, 1507, 1508, 1515, 1522 of this title.
-

@@ -16,13 +16,13 @@ Every employer shall pay to each of his employees who in any workweek is engaged
 
 #### (b) Additional applicability to employees pursuant to subsequent amendatory provisions
 
-Every employer shall pay to each of his employees (other than an employee to whom subsection (a)(5) of this section applies) who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, and who in such workweek is brought within the purview of this section by the amendments made to thischapter by the Fair Labor Standards Amendments of 1966, title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or the Fair Labor Standards Amendments of 1974, wages at the following rate: Effective after December 31, 1977, not less than the minimum wage rate in effect under subsection (a)(1) of this section.
+Every employer shall pay to each of his employees (other than an employee to whom subsection (a)(5) of this section applies) who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, and who in such workweek is brought within the purview of this section by the amendments made to this chapter by the Fair Labor Standards Amendments of 1966, title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or the Fair Labor Standards Amendments of 1974, wages at the following rate: Effective after December 31, 1977, not less than the minimum wage rate in effect under subsection (a)(1) of this section.
 
 #### (c) Repealed. Pub. L. 104–188, \[title II\], §2104(c), Aug. 20, 1996, 110 Stat. 1929
 
 #### (d) Prohibition of sex discrimination
 
-(1) No employer having employees subject to any provisions of this section shall discriminate, within any establishment in which such employees are employed, between employees on the basis of sex by paying wages to employees in such establishment at a rate less than the rate at which he pays wages to employees of the opposite sex in such establishment for equal work on jobs the performance of which requires equal skill, effort, and responsibility, and which are performed under similar working conditions, except where such payment is made pursuant to (i) a seniority system; (ii) a merit system; (iii) a system which measures earnings by quantity or quality of production; or (iv) a differential based on any other factor other than sex: <i>Provided</i>, That an employer who is paying a wage rate differential in violation of this subsection shall not, in order to comply with the provisions of this subsection, reduce the wage rate of any employee.
+(1) No employer having employees subject to any provisions of this section shall discriminate, within any establishment in which such employees are employed, between employees on the basis of sex by paying wages to employees in such establishment at a rate less than the rate at which he pays wages to employees of the opposite sex in such establishment for equal work on jobs the performance of which requires equal skill, effort, and responsibility, and which are performed under similar working conditions, except where such payment is made pursuant to (i) a seniority system; (ii) a merit system; (iii) a system which measures earnings by quantity or quality of production; or (iv) a differential based on any other factor other than sex: <i>Provided</i>,That an employer who is paying a wage rate differential in violation of this subsection shall not, in order to comply with the provisions of this subsection, reduce the wage rate of any employee.
 
 (2) No labor organization, or its agents, representing employees of an employer having employees subject to any provisions of this section shall cause or attempt to cause such an employer to discriminate against an employee in violation of paragraph (1) of this subsection.
 
@@ -64,7 +64,7 @@ Any employee—
 
 #### References in Text
 
-The Fair Labor Standards Amendments of 1966, referred to in subsec. (b), is Pub. L. 89–601, Sept. 23, 1966,80 Stat. 830. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 201 of this title and Tables.
+The Fair Labor Standards Amendments of 1966, referred to in subsec. (b), is Pub. L. 89–601, Sept. 23, 1966, 80 Stat. 830. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 201 of this title and Tables.
 
 The Education Amendments of 1972, referred to in subsec. (b), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
@@ -76,7 +76,7 @@ The Social Security Act, referred to in subsec. (f)(1), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–188, §2104(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “except as otherwise provided in this section, not less than $3.35 an hour during the period ending March 31, 1990, not less than $3.80 an hour during the year beginning April 1, 1990, and not less than $4.25 an hour after March 31, 1991;”.
+1996—Subsec. (a)(1). Pub. L. 104–188, §2104(b), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: “except as otherwise provided in this section, not less than $3.35 an hour during the period ending March 31, 1990, not less than $3.80 an hour during the year beginning April 1, 1990, and not less than $4.25 an hour after March 31, 1991;”.
 
 Subsec. (c). Pub. L. 104–188, §2104(c), struck out subsec. (c) which related to employees in Puerto Rico.
 
@@ -120,7 +120,7 @@ Subsec. (c)(2) to (6). Pub. L. 93–259, §5(b), added pars. (2) to (6) and stru
 
 &emsp;“(B) Beginning one year after the applicable effective date under paragraph (A), not less than the rate or rates prescribed by paragraph (A), increased by an amount equal to 16 per centum of the rate or rates applicable under the most recent wage order issued by the Secretary prior to the effective date of the Fair Labor Standards Amendments of 1966, unless such rate or rates are superseded by the rate or rates prescribed in a wage order issued by the Secretary pursuant to the recommendations of a review committee appointed under paragraph (C).
 
-&emsp;“(C) Any employer, or group of employers, employing a majority of the employees in an industry in Puerto Rico or the Virgin Islands, may apply to the Secretary in writing for the appointment of a review committee to recommend the minimum rate or rates to be paid such employees in lieu of the rate or rates provided by paragraph (A) or (B). Any such application with respect to any rate or rates provided for under paragraph (A) shall be filed within sixty days following the enactment of the Fair Labor Standards Amendments of 1966 and any such application with respect to any rate or rates provided for under paragraph (B) shall be filed not more than one hundred and twenty days and not less than sixty days prior to the effective date of the applicable rate or rates under paragraph (B). The Secretary shall promptly consider such application and may appoint a review committee if he has reasonable cause to believe, on the basis of financial and other information contained in the application, that compliance with any applicable rate or rates prescribed by paragraph (A) or (B) will substantially curtail employment in such industry. The Secretary's decision upon any such application shall be final. Any wage order issued pursuant to the recommendations of a review committee appointed under this paragraph shall take effect on the applicable effective date provided in paragraph (A) or (B).
+&emsp;“(C) Any employer, or group of employers, employing a majority of the employees in an industry in Puerto Rico or the Virgin Islands, may apply to theSecretary in writing for the appointment of a review committee to recommend the minimum rate or rates to be paid such employees in lieu of the rate or rates provided by paragraph (A) or (B). Any such application with respect to any rate or rates provided for under paragraph (A) shall be filed within sixty days following the enactment of the Fair Labor Standards Amendments of 1966 and any such application with respect to any rate or rates provided for under paragraph (B) shall be filed not more than one hundred and twenty days and not less than sixty days prior to the effective date of the applicable rate or rates under paragraph (B). The Secretary shall promptly consider such application and may appoint a review committee if he has reasonable cause to believe, on the basis of financial and other information contained in the application, that compliance with any applicable rate or rates prescribed by paragraph (A) or (B) will substantially curtail employment in such industry. The Secretary's decision upon any such application shall be final. Any wage order issued pursuant to the recommendations of a review committee appointed under this paragraph shall take effect on the applicable effective date provided in paragraph (A) or (B).
 
 &emsp;“(D) In the event a wage order has not been issued pursuant to the recommendation of a review committee prior to the applicable effective date under paragraph (A) or (B), the applicable percentage increase provided by any such paragraph shall take effect on the effective date prescribed therein, except with respect to the employees of an employer who filed an application under paragraph (C) and who files with the Secretary an undertaking with a surety or sureties satisfactory to the Secretary for payment to his employees of an amount sufficient to compensate such employees for the difference between the wages they actually receive and the wages to which they are entitled under this subsection. The Secretary shall be empowered to enforce such undertaking and any sums recovered by him shall be held on a special deposit account and shall be paid, on order of the Secretary, directly to the employee or employees affected. Any such sum not paid to an employee because of inability to do so within a period of three years shall be covered into the Treasury of the United States as miscellaneous receipts.
 
@@ -204,7 +204,7 @@ Functions of all other officers of Department of Labor and functions of all agen
 
 #### Training Wage
 
-Section 6 of Pub. L. 101–157 provided that:
+Pub. L. 101–157, §6, Nov. 17, 1989, 103 Stat. 941, provided that:
 
 “(a)
 
@@ -324,7 +324,7 @@ Employer Requirements.—An employer who wants to employ employees at the wage a
 
 &emsp;“(1) notify the Secretary annually of the positions at which such employees are to be employed at such wage,
 
-&emsp;“(2) provide on-the-job training to such employees which meets general criteria of the Secretary issued by regulation after consultation with the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives and other interested persons,
+&emsp;“(2) provide on-the-job training to such employees which meets general criteria of the Secretary issued by regulation after consultation with the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives and other interested persons,
 
 &emsp;“(3) keep on file a copy of the training program which the employer will provide such employees,
 
@@ -385,8 +385,4 @@ Section 2 of Pub. L. 88–38 provided that:
 #### Definition of “Administrator”
 
 The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see section 204 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 203, 205, 207, 208, 213, 214, 215, 216, 218, 721, 2617, 2931 of this title; title 2 sections 60k, 1313; title 3 section 413; title 5 sections 2302, 5343, 5349, 7702; title 7 sections 2015, 2026; title 10 section 1588; title 15 section 1673; title 20 section 1085; title 21 section 849; title 22 sections 2506, 3905, 3967, 3968, 3969, 4131; title 24 section 422; title 26 section 45B; title 38 sections 1720, 3485; title 41 section 351; title 42 sections 300e–9, 431, 1320b–22, 1396d, 2000e–2, 2753, 3056, 3056d, 8009, 8011, 9848.
 

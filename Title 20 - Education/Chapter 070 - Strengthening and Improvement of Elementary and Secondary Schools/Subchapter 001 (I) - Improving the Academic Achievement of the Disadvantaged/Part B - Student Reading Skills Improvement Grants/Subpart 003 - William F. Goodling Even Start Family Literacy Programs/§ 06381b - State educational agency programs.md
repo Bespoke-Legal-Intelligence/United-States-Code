@@ -32,7 +32,3 @@ Each State educational agency that receives a grant under section 6381a(d)(1) of
 
 (Pub. L. 89–10, title I, §1233, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1558.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6381c of this title.
-

@@ -58,7 +58,7 @@ In order to receive any grant, loan, or work assistance under this subchapter an
 
 &emsp;(A) the institution at which the student is in attendance, reviews the progress of the student at the end of each academic year, or its equivalent, as determined by the institution, and
 
-&emsp;(B) the student has a cumulative C average, or its equivalent or academic standing consistent with the requirements for graduation, asdetermined by the institution, at the end of the second such academic year.
+&emsp;(B) the student has a cumulative C average, or its equivalent or academic standing consistent with the requirements for graduation, as determined by the institution, at the end of the second such academic year.
 
 (2) Whenever a student fails to meet the eligibility requirements of subsection (a)(2) of this section as a result of the application of this subsection and subsequent to that failure the student has academic standing consistent with the requirements for graduation, as determined by the institution, for any grading period, the student may, subject to this subsection, again be eligible under subsection (a)(2) of this section for a grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
@@ -122,7 +122,7 @@ Each eligible institution may certify student eligibility for a loan by an eligi
 
 &emsp;&emsp;(B) if there are submitted documents which the institution determines constitute reasonable evidence indicating such status—
 
-&emsp;&emsp;&emsp;(i) the institution shall transmit to the Immigration and Naturalization Service either photostatic or other similar copies of such documents, or information from such documents, as specified by the Immigration and Naturalization Service, for official verification,
+&emsp;&emsp;&emsp;(i) the institution shall transmit to the Immigration and Naturalization Service either photostatic or other similar copies of such documents, or information fromsuch documents, as specified by the Immigration and Naturalization Service, for official verification,
 
 &emsp;&emsp;&emsp;(ii) pending such verification, the institution may not delay, deny, reduce, or terminate the individual's eligibility for the grant, loan, or work assistance on the basis of the individual's immigration status, and
 
@@ -186,7 +186,7 @@ A student shall not be eligible to receive grant, loan, or work assistance under
 
 #### (3) Special rule
 
-&emsp;For award years prior to July 23, 1992, the Secretary shall not take any compliance, disallowance, penalty, or other action against a student or an eligible institution when such action arises out of such institution's prior award of student assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 if the institution demonstrates to the satisfaction of the Secretary that its course of instruction would have been in conformance with the requirements of this subsection.
+&emsp;For award years prior to July 23, 1992, the Secretary shall not take any compliance, disallowance, penalty, or other action against a student or an eligible institution when such action arises out of such institution's prior award of student assistance under this subchapter and part C of subchapter I of chapter34 of title 42 if the institution demonstrates to the satisfaction of the Secretary that its course of instruction would have been in conformance with the requirements of this subsection.
 
 #### (4) “Telecommunications” defined
 
@@ -228,7 +228,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 #### (2) Notification
 
-&emsp;The Secretary shall establish procedures under which an applicant is notified that theInternal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103(<i>l</i>)(13) of title 26.
+&emsp;The Secretary shall establish procedures under which an applicant is notified that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103(<i>l</i>)(13) of title 26.
 
 #### (r) Suspension of eligibility for drug-related offenses
 
@@ -299,7 +299,7 @@ Subsec. (j). Pub. L. 105–244, §483(c), amended heading and text of subsec. (j
 
 &emsp;“(2) meets the requirements of subsection (a)(5) of this section and attends a public or nonprofit private institution of higher education in the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau.”
 
-Subsec. (<i>l</i>)(1). Pub. L. 105–244, §483(d), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “A student enrolled in a course ofinstruction at an eligible institution of higher education (other than an institution that meets the definition in section 2471(4)(C) of this title) that is offered in whole or in part through telecommunications and leads to a recognized associate, bachelor, or graduate degree conferred by such institution shall not be considered to be enrolled in correspondence courses unless the total amount of telecommunications and correspondence courses at such institution equals or exceeds 50 percent of such courses.”
+Subsec. (<i>l</i>)(1). Pub. L. 105–244, §483(d), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “A student enrolled in a course of instruction at an eligible institution of higher education (other than an institution that meets the definition in section 2471(4)(C) of this title) that is offered in whole or in part through telecommunications and leads to a recognized associate, bachelor, or graduate degree conferred by such institution shall not be considered to be enrolled in correspondence courses unless the total amount of telecommunications and correspondence courses at such institution equals or exceeds 50 percent of such courses.”
 
 Subsec. (q). Pub. L. 105–244, §483(e), added subsec. (q).
 
@@ -377,7 +377,7 @@ Pub. L. 102–26, §2(b), amended subsec. (d) generally. Prior to amendment, sub
 
 &emsp;“(2) be counseled prior to admission and be enrolled in and successfully complete the institutionally prescribed program of remedial or developmental education not to exceed one academic year or its equivalent; or
 
-&emsp;“(3)(A) be administered a nationally recognized, standardized, or industry developed test, subject to criteria developed by the appropriate accrediting association, measuring the applicant's aptitude to complete successfully the program to which the applicant has applied; and
+&emsp;“(3)(A) be administered a nationally recognized, standardized, or industry developed test, subject tocriteria developed by the appropriate accrediting association, measuring the applicant's aptitude to complete successfully the program to which the applicant has applied; and
 
 &emsp;“(B) with respect to applicants who are unable to satisfy the institutions’ admissions testing requirements specified in subparagraph (A), be enrolled in and successfully complete an institutionally prescribed program or course of remedial or developmental education not to exceed one academic year or its equivalent.
 
@@ -447,7 +447,7 @@ Section 13 of Pub. L. 100–369 provided that:
 
 “(a)
 
-General Rule.—Except as otherwise provided, the amendments made by this Act to title IV of the Higher Education Act of 1965 \[amending this sectionand section 1078–1 of this title\] shall be effective for any loan for which the eligibility of the borrower is certified by the institution 30 days after the date of enactment of this Act \[July 18, 1988\].
+General Rule.—Except as otherwise provided, the amendments made by this Act to title IV of the Higher Education Act of 1965 \[amending this section and section 1078–1 of this title\] shall be effective for any loan for which the eligibility of the borrower is certified by the institution 30 days after the date of enactment of this Act \[July 18, 1988\].
 
 “(b)
 
@@ -457,7 +457,7 @@ Special Rules.—(1) The amendments made by section 5 \[amending this section an
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -496,10 +496,6 @@ Section 1361 of Pub. L. 99–498 established in Department of Education the Alie
 #### Financial Aid to Students Not Deemed Income or Resources for Purposes of Certain Social Security Act Programs
 
 Pub. L. 90–575, title V, §507, Oct. 16, 1968, 82 Stat. 1063, as amended by Pub. L. 96–88, title III, §301(a)(1), Oct. 17, 1979, 93 Stat. 677, provided that: “For the purpose of any program assisted under title I, IV, X, XIV, XVI, or XIX of the Social Security Act \[subchapters I, IV, X, XIV, XVI, or XIX of chapter 7 of Title 42, The Public Health and Welfare\], no grant or loan to any undergraduate student for educational purposes made or insured under any program administered by the Secretary of Education shall be considered to be income or resources.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1002, 1070, 1070a, 1070a–24, 1070a–34, 1070b–1, 1070b–2, 1077, 1078, 1078–2, 1078–6, 1078–8, 1087d, 1087dd, 1092, 1093, 1094, 1096, 1134, 1135c of this title; title 26 section 25A; title 42 sections 2753, 3796d–4, 12591, 12602.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

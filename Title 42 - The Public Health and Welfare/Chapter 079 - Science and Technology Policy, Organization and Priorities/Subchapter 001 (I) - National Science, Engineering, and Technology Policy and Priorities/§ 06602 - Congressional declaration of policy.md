@@ -22,7 +22,7 @@ To implement the policy enunciated in subsection (a) of this section, the Congre
 
 &emsp;(1) The Federal Government should maintain central policy planning elements in the executive branch which assist Federal agencies in (A) identifying public problems and objectives, (B) mobilizing scientific and technological resources for essential national programs, (C) securing appropriate funding for programs so identified, (D) anticipating future concerns to which science and technology can contribute and devising strategies for the conduct of science and technology for such purposes, (E) reviewing systematically Federal science policy and programs and recommending legislative amendment thereof when needed. Such elements should include an advisory mechanism within the Executive Office of the President so that the Chief Executive may have available independent, expert judgment and assistance on policy matters which require accurate assessments of the complex scientific and technological features involved.
 
-&emsp;(2) It is a responsibility of the Federal Government to promote prompt, effective, reliable, and systematic transfer of scientific and technological information by such appropriate methods as programs conducted by nongovernmental organizations, including industrialgroups and technical societies. In particular, it is recognized as a responsibility of the Federal Government not only to coordinate and unify its own science and technology information systems, but to facilitate the close coupling of institutional scientific research with commercial application of the useful findings of science.
+&emsp;(2) It is a responsibility of the Federal Government to promote prompt, effective, reliable, and systematic transfer of scientific and technological information by such appropriate methods as programs conducted by nongovernmental organizations, including industrial groups and technical societies. In particular, it is recognized as a responsibility of the Federal Government not only to coordinate and unify its own science and technology information systems, but to facilitate the close coupling of institutional scientific research with commercial application of the useful findings of science.
 
 &emsp;(3) It is further an appropriate Federal function to support scientific and technological efforts which are expected to provide results beneficial to the public but which the private sector may be unwilling or unable to support.
 
@@ -57,8 +57,4 @@ The Congress declares that, in order to expedite and facilitate the implementati
 &emsp;(10) Federal departments, agencies, and instrumentalities should establish procedures to insure among them the systematic interchange of scientific data and technological findings developed under their programs.
 
 (Pub. L. 94–282, title I, §102, May 11, 1976, 90 Stat. 460.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6614 of this title.
 

@@ -122,19 +122,15 @@ Subsec. (c)(5). Pub. L. 102–550, §207(c)(2)(B), redesignated par. (5) as (4).
 
 Subsec. (c)(6) to (8). Pub. L. 102–550, §210(b)(3), added pars. (6) to (8).
 
-Subsec. (d). Pub. L. 102–550, §210(c), added subsec. (d) and struck out former subsec. (d) which read as follows: “If a jurisdiction demonstrates to the satisfaction of the Secretary that a reduction of the matching requirement specified in subsection (a) of this section is necessary to permit the jurisdiction to carry out the purposes of this subchapter, the Secretary may reduce the matching requirement during a period not to exceed 3years after the jurisdiction is first designated as a participating jurisdiction. Such reduction shall be not more than 75 percent in the first year, not more than 50 percent in the second year, and not more than 25 percent in the third year.”
+Subsec. (d). Pub. L. 102–550, §210(c), added subsec. (d) and struck out former subsec. (d) which read as follows: “If a jurisdiction demonstrates to the satisfaction of the Secretary that a reduction of the matching requirement specified in subsection (a) of this section is necessary to permit the jurisdiction to carry out the purposes of this subchapter, the Secretary may reduce the matching requirement during a period not to exceed 3 years after the jurisdiction is first designated as a participating jurisdiction. Such reduction shall be not more than 75 percent in the first year, not more than 50 percent in the second year, and not more than 25 percent in the third year.”
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out this subchapter after Apr. 11, 1994, and any amounts made available to carry out this subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out such amendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out this subchapter after Apr. 11, 1994, and any amounts made available to carry out this subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out suchamendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1992 Amendment
 
 Section 210(d) of Pub. L. 102–550 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 1993 and each fiscal year thereafter.”
 
 Amendment by section 207(c) of Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437aaa–2, 12747 of this title.
 

@@ -4,7 +4,3 @@ The area designated as the Robert S. Kerr Memorial Arboretum and Nature Center s
 
 (Pub. L. 90–327, §2, June 4, 1968, 82 Stat. 169.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 693d of this title.
-

@@ -21,10 +21,6 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical chapters 109A.
 
 1994—Pub. L. 103–322, title IV, §§40111(c), 40113(a)(2), title VI, §60010(b), Sept. 13, 1994, 108 Stat. 1903, 1907, 1973, redesignated item 2245 as 2246 and added items 2245, 2247, and 2248.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 113, 1153, 2251, 2252, 2252A, 2260, 2261, 2262, 2423, 2426, 3156, 3185, 3282, 3553, 3592, 3663, 4042 of this title; title 20 section 1152; title 42 sections 3796gg–2, 13713, 13943, 14135a; title 46 section 10104; title 49 section 46506.
-
 
 ---
 

@@ -10,7 +10,7 @@ The Appraisal Subcommittee shall—
 
 &emsp;&emsp;(A) appraisal standards for federally related transactions under their jurisdiction, and
 
-&emsp;&emsp;(B) determinations as to which federally related transactions under their jurisdiction require the services of a State certified appraiser and which require the services of a State licensed appraiser;
+&emsp;&emsp;(B) determinations as to which federally related transactions under their jurisdictionrequire the services of a State certified appraiser and which require the services of a State licensed appraiser;
 
 &emsp;(3) maintain a national registry of State certified and licensed appraisers who are eligible to perform appraisals in federally related transactions; and
 

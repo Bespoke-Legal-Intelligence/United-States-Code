@@ -2,7 +2,7 @@
 
 #### (a) Hearings and sessions
 
-The Commission may, for the purpose of carrying out this chapter, hold such hearings, sitand act at such times and places, take such testimony, and receive such evidence, as the Commission considers appropriate.
+The Commission may, for the purpose of carrying out this chapter, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Commission considers appropriate.
 
 #### (b) Obtaining official data
 

@@ -113,7 +113,7 @@
 | (b) | Taxes imposed prior to August 24, 1935, legalized and ratified. |
 | (c) | Rental and benefit payments, agreements, and programs made prior to August 24, 1935, legalized and ratified. |
 | [624\.](Subchapter%20003%20%28III%29%20-%20Commodity%20Benefits/%C2%A7%2000624%20-%20Limitation%20on%20imports%3B%20authority%20of%20President.md) | Limitation on imports; authority of President. |
-| [625\.](Subchapter%20003%20%28III%29%20-%20Commodity%20Benefits/%C2%A7%2000625%20-%20Review%20of%20Burley%20tobacco%20imports%20by%20Secretary%20of%20Agriculture%3B%20price-support%20levels%3B%20excessive%20stocks.md) | Review of Burley tobacco imports by Secretary of Agriculture; price-support levels; excessive stocks. |
+| [625\.](Subchapter%20003%20%28III%29%20-%20Commodity%20Benefits/%C2%A7%2000625%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93357%2C%20title%20VI%2C%20%C2%A7611%28s%29%2C%20Oct.%2022%2C%202004%2C%20118%20Stat.%201523.md) | Repealed. |
 | [626\.](Subchapter%20003%20%28III%29%20-%20Commodity%20Benefits/%C2%A7%2000626%20-%20Import%20inventory.md) | Import inventory. |
 | (a) | Compilation and report on imports. |
 | (b) | Compilation and report on consumption. |
@@ -134,10 +134,6 @@
 | 641 to 659. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 499b–1, 671, 672, 673, 1446, 7958 of this title; title 12 section 1150a; title 16 section 3839bb; title 18 section 433; title 41 section 22.
 
 
 ---

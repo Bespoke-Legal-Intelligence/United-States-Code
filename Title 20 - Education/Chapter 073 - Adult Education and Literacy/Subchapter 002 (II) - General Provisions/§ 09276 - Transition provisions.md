@@ -44,7 +44,7 @@ Not later than 1 year after August 7, 1998, the Secretary of Labor shall reorgan
 
 The Job Training Partnership Act, referred to in subsecs. (a) and (d), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
 
-This Act, referred to in subsecs. (a) and (c) to (e), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
+This Act, referred to in subsecs. (a) and (c) to (e), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended,known as the Workforce Investment Act of 1998. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
 The Adult Education Act, referred to in subsec. (b)(1), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which was classified generally to chapter 30 (§1201 et seq.) of this title, prior to repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
@@ -57,8 +57,4 @@ The Adult Education and Family Literacy Act, referred to in subsec. (b)(1), is t
 Subsec. (d)(1). Pub. L. 105–277, §101(f) \[title VIII, §401(19)(A)\], substituted “subsection (c)” for “subsection (b)”.
 
 Subsec. (d)(2). Pub. L. 105–277, §101(f) \[title VIII, §401(19)(B)\], inserted “planning authorized under” after “carry out” in two places and substituted “the planning purposes” for “the purposes”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9224 of this title.
 

@@ -12,7 +12,7 @@
 
 &emsp;(B) restrictions on the hours of the day and night when unsolicited telephone calls can be made to consumers,
 
-&emsp;(C) a requirement that any person engaged in telemarketing for the sale of goods or services shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to sell goods or services and make such other disclosures as the Commissiondeems appropriate, including the nature and price of the goods and services; <sup>1</sup> and
+&emsp;(C) a requirement that any person engaged in telemarketing for the sale of goods or services shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to sell goods or services and make such other disclosures as the Commission deems appropriate, including the nature and price of the goods and services; <sup>1</sup> and
 
 &emsp;(D) a requirement that any person engaged in telemarketing for the solicitation of charitable contributions, donations, or gifts of money or any other thing of value, shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to solicit charitable contributions, donations, or gifts, and make such other disclosures as the Commission considers appropriate, including the name and mailing address of the charitable organization on behalf of which the solicitation is made.
 
@@ -91,10 +91,6 @@ Authority.—The Federal Trade Commission is authorized under section 3(a)(3)(A)
 “(b)
 
 Ratification.—The do-not-call registry provision of the Telemarketing Sales Rule (16 C.F.R. 310.4(b)(1)(iii)), which was promulgated by the Federal Trade Commission, effective March 31, 2003, is ratified.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 6104, 6105, 6107, 6108, 7712 of this title; title 7 section 9b.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

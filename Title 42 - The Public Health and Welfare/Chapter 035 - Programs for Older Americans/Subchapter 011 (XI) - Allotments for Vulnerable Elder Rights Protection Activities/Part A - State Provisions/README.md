@@ -1,9 +1,5 @@
 Part A—State Provisions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 3058bb of this title.
-
 
 ---
 

@@ -68,13 +68,13 @@ No grant funds provided under this section may be used for the following purpose
 
 #### (j) Audit authority
 
-(1) Such financial transactions of RFE/RL, Incorporated, as relate to functions carried out under this section may be audited by the General Accounting Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States. Any such audit shall be conducted at the place or places where accounts of RFE/RL, Incorporated, are normally kept.
+(1) Such financial transactions of RFE/RL, Incorporated, as relate to functions carried out under this section may be audited by the Government Accountability Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States. Any such audit shall be conducted at the place or places where accounts of RFE/RL, Incorporated, are normally kept.
 
-(2) Representatives of the General Accounting Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by RFE/RL, Incorporated pertaining to such financial transactions and necessary to facilitate an audit. Such representatives shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of RFE/RL, Incorporated, shall remain in the possession and custody of RFE/RL, Incorporated.
+(2) Representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by RFE/RL, Incorporated pertaining to such financial transactions and necessary to facilitate an audit. Such representatives shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of RFE/RL, Incorporated, shall remain in the possession and custody of RFE/RL, Incorporated.
 
 (3) Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act \[22 U.S.C. 2871 et seq.\], the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to RFE/RL, Incorporated.
 
-(Pub. L. 103–236, title III, §308, Apr. 30, 1994, 108 Stat. 437; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1314(d), 1323(<i>l</i>)(1), Oct. 21, 1998, 112 Stat. 2681–777, 2681–780; Pub. L. 107–228, div. A, title V, §§501, 502, Sept. 30, 2002, 116 Stat. 1392.)
+(Pub. L. 103–236, title III, §308, Apr. 30, 1994, 108 Stat. 437; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1314(d), 1323(<i>l</i>)(1), Oct. 21, 1998, 112 Stat. 2681–777, 2681–780; Pub. L. 107–228, div. A, title V, §§501, 502, Sept. 30, 2002, 116 Stat. 1392; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -86,6 +86,8 @@ The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95�
 
 #### Amendments
 
+2004—Subsec. (j)(1), (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
 2002—Subsec. (c). Pub. L. 107–228, §501, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The total amount of grants made by the Board for the operating costs of Radio Free Europe and Radio Liberty may not exceed $75,000,000 for any fiscal year after fiscal year 1995.”
 
 Subsec. (h)(1)(A). Pub. L. 107–228, §502(2), substituted “subparagraph (B) or (C),” for “subparagraph (B),”.
@@ -96,7 +98,7 @@ Subsec. (h)(1)(C). Pub. L. 107–228, §502(1), added subpar. (C).
 
 Subsec. (j)(3). Pub. L. 105–277, §1314(d)(1), substituted “Inspector General of the Department of State and the Foreign Service” for “Inspector General of the United States Information Agency”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 105–277, §1323(<i>l</i>)(1), struck out subsecs. (k) and (<i>l</i>), which listed conditions placed upon plan for relocation of offices or operations of RFE/RL, Incorporated from Munich, Germany, and required report to Congress on classification of personnel not later than 90 days after confirmation of all members of Board, respectively.
+Subsecs. (k), (<i>l</i>). Pub. L. 105–277, §1323(<i>l</i>)(1), struck out subsecs. (k) and (<i>l</i>), which listed conditions placed uponplan for relocation of offices or operations of RFE/RL, Incorporated from Munich, Germany, and required report to Congress on classification of personnel not later than 90 days after confirmation of all members of Board, respectively.
 
 #### Effective Date of 1998 Amendment
 
@@ -109,10 +111,6 @@ Section 305(b) of Pub. L. 99–93 provided that: “The Secretary of State shall
 &emsp;“(1) establish an office within the United States Consulate in Munich, Federal Republic of Germany, which shall be responsible for the daily liaison operations of the Department of State with RFE/RL, Incorporated; and
 
 &emsp;“(2) be represented by an observer at each meeting of the Board for International Broadcasting and of the Board of Directors of RFE/RL, Incorporated.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6204, 6206, 6215 of this title.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

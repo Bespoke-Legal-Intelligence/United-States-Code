@@ -4,7 +4,3 @@ If any provision of this chapter is declared unconstitutional or the applicabili
 
 (Mar. 4, 1927, ch. 509, §51 formerly §50, 44 Stat. 1446; renumbered §51, Pub. L. 92–576, §19, Oct. 27, 1972, 86 Stat. 1263.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 30 section 932.
-

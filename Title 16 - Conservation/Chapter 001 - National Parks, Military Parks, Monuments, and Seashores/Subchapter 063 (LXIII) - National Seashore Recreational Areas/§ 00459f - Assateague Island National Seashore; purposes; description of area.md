@@ -4,7 +4,3 @@ For the purpose of protecting and developing Assateague Island in the States of 
 
 (Pub. L. 89–195, §1, Sept. 21, 1965, 79 Stat. 824.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459f–1, 459f–2, 459f–3, 459f–4, 459f–5, 459f–7, 459f–10 of this title.
-

@@ -16,7 +16,7 @@ The authority of the Secretary to issue letters of credit and insurance under th
 
 #### (c) Religious activity prohibition
 
-No loan may be made under this part for any educational program, activity or service related to sectarian instruction or religious worship orprovided by a school or department of divinity or to an institution in which a substantial portion of its functions is subsumed in a religious mission.
+No loan may be made under this part for any educational program, activity or service related to sectarian instruction or religious worship or provided by a school or department of divinity or to an institution in which a substantial portion of its functions is subsumed in a religious mission.
 
 #### (d) Discrimination prohibition
 
@@ -35,8 +35,4 @@ Section was formerly classified to section 1132c–3 of this title prior to renu
 #### Prior Provisions
 
 A prior section 344 of Pub. L. 89–329 was classified to section 1069 of this title prior to the general amendment of this subchapter by Pub. L. 99–498.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1066a, 1066b of this title.
 

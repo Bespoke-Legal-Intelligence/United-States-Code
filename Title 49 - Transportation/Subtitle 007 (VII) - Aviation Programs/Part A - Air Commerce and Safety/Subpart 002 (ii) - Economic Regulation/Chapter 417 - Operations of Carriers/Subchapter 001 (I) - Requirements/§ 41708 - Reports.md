@@ -54,7 +54,3 @@ In subsection (a), the word “reasonably” is omitted as surplus. The words �
 
 In subsection (b)(3), the word “copy” is substituted for “true copy” to eliminate an unnecessary word. The word “transportation” is substituted for “traffic” for consistency in the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41110 of this title.
-

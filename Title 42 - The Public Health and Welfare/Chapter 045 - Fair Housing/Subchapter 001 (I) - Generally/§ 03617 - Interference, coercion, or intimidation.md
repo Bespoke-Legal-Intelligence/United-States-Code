@@ -16,7 +16,3 @@ A prior section 818 of Pub. L. 90–284 was renumbered section 819 and is classi
 
 Amendment by Pub. L. 100–430 effective on the 180th day beginning after Sept. 13, 1988, see section 13(a) of Pub. L. 100–430, set out as a note under section 3601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3602 of this title.
-

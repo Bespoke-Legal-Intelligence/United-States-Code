@@ -12,7 +12,7 @@
 
 #### (b) Adjustments
 
-Subject to the availability of appropriations, for any fiscal year following a year in which each Center described in subsection (a) of this section received a grant award of not less than $500,000 under subsection (a) of this section (adjusted in accordance with this subsection), the Secretary shall adjust the awards to take into account the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 720(c)(1) of title 29 (if the percentage change indicates an increase), prior to making grants under subsection (c) or (d) of this section.
+Subject to the availability of appropriations, for any fiscal year following a year in which each Center described in subsection (a) of thissection received a grant award of not less than $500,000 under subsection (a) of this section (adjusted in accordance with this subsection), the Secretary shall adjust the awards to take into account the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 720(c)(1) of title 29 (if the percentage change indicates an increase), prior to making grants under subsection (c) or (d) of this section.
 
 #### (c) National training initiatives on critical and emerging needs
 
@@ -29,8 +29,4 @@ For any fiscal year in which each Center described in subsection (a) of this sec
 &emsp;(3) a high concentration of unserved or underserved populations.
 
 (Pub. L. 106–402, title I, §152, Oct. 30, 2000, 114 Stat. 1719.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15066 of this title.
 

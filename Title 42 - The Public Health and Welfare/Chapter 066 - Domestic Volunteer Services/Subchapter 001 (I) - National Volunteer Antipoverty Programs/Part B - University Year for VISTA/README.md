@@ -1,9 +1,5 @@
 Part B—University Year for VISTA
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 5055, 5081, 12651e of this title; title 5 sections 8332, 8334, 8411, 8422; title 22 section 4071c.
-
 
 ---
 

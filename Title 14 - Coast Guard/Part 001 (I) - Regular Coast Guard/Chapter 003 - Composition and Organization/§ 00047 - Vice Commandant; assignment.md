@@ -10,11 +10,11 @@ Based on title 14, U.S.C., 1946 ed., §§11a, 12 (Apr. 16, 1908, ch. 145, §§1,
 
 Said sections have been divided. The provisions of the proviso of title 14, U.S.C., 1946 ed., §11a, and the first proviso of title 14, U.S.C., 1946 ed., §12, are placed in section 48 of this title and the remainder is placed in this section.
 
-The provisions regarding appointment of the Assistant Commandant and Engineer in Chief are coordinated, inasmuch as these positions are about equal inthe Coast Guard organization. The qualification that the Engineer in Chief be appointed from the active list of engineering officers is changed to the active list of officers who have qualified for engineering duty, because there is no longer any provision for a corps of engineering officers. 81st Congress, House Report No. 557.
+The provisions regarding appointment of the Assistant Commandant and Engineer in Chief are coordinated, inasmuch as these positions are about equal in the Coast Guard organization. The qualification that the Engineer in Chief be appointed from the active list of engineering officers is changed to the active list of officers who have qualified for engineering duty, because there is no longer any provision for a corps of engineering officers. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1993—Pub. L. 103–206 struck out “; retirement” after “assignment” in section catchline, struck out “(a)” before “The President may appoint”, substituted “The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in subsection 51(d) of this title.” for “The appointment of a Vice Commandant shall be effective on the date the officer assumes such duty, and shall terminate on the date he is detached from such duty.”, and struck out subsecs. (b) to (d) which read as follows:
+1993—Pub. L. 103–206 struck out “; retirement” after “assignment” in section catchline, struck out “(a)” before “The President may appoint”, substituted “The appointment and grade of a Vice Commandant shall beeffective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in subsection 51(d) of this title.” for “The appointment of a Vice Commandant shall be effective on the date the officer assumes such duty, and shall terminate on the date he is detached from such duty.”, and struck out subsecs. (b) to (d) which read as follows:
 
 “(b) A Vice Commandant, while so serving, who is retired for physical disability shall be placed on the retired list with the grade of vice admiral.
 

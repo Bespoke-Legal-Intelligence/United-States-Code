@@ -84,7 +84,7 @@ The criteria required to be applied in evaluating applications submitted under s
 
 &emsp;&emsp;&emsp;(i) received funding under part D of this subchapter, as in effect on the day before September 21, 1993;
 
-&emsp;&emsp;&emsp;(ii) the Corporation determines to meet the requirements of sections 12572 (other than subsection (g)), 12573, and 12578 through 12580 of this title, as in effect on such day, in addition to the requirements of this division; and
+&emsp;&emsp;&emsp;(ii) the Corporation determines to meet the requirements of sections 12572 (otherthan subsection (g)), 12573, and 12578 through 12580 of this title, as in effect on such day, in addition to the requirements of this division; and
 
 &emsp;&emsp;&emsp;(iii) include an evaluation component.
 
@@ -137,8 +137,4 @@ Part D of this subchapter and sections 12572, 12573, and 12578 through 12580 of 
 #### Prior Provisions
 
 A prior section 133 of Pub. L. 101–610 was renumbered section 199K and is classified to section 12655<i>l</i> of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12545, 12572, 12581, 12582, 12639, 12651d of this title.
 

@@ -14,7 +14,3 @@ Section 744 instructs the court to give the trustee a reasonable time, not to ex
 
 1982—Pub. L. 97–222 inserted “but” after “relief,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
-

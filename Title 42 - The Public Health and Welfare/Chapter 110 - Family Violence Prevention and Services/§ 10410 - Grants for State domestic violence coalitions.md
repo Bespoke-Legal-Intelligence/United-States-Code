@@ -46,7 +46,7 @@ The Secretary shall award grants for the funding of State domestic violence coal
 
 &emsp;&emsp;(O) any other matters as the Secretary and the State domestic violence coalitions believe merit investigations;
 
-&emsp;(3) work with family law judges, criminal court judges, Child Protective Services agencies, and children's advocates to develop appropriate responses to child custody and visitation issues in domestic violence cases aswell as cases where domestic violence and child abuse are both present, including—
+&emsp;(3) work with family law judges, criminal court judges, Child Protective Services agencies, and children's advocates to develop appropriate responses to child custody and visitation issues in domestic violence cases as well as cases where domestic violence and child abuse are both present, including—
 
 &emsp;&emsp;(A) the inappropriateness of mutual protection orders;
 
@@ -149,8 +149,4 @@ Subsec. (a)(5). Pub. L. 103–322, §40272(c)(1), redesignated par. (4) as (5).
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10402, 10409, 13951 of this title.
 

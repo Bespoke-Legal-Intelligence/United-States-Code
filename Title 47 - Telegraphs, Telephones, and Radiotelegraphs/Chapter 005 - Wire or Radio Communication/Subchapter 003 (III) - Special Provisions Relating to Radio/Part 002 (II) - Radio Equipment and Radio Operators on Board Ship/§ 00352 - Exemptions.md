@@ -70,7 +70,3 @@ Section effective May 20, 1937, unless deferred by the Commission, see section 1
 
 For transfer of functions of United States Maritime Commission, see Reorg. Plan No. 21 of 1950 and Reorg. Plan No. 7 of 1961, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 351 this title; title 46 section 14305.
-

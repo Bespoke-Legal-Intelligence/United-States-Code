@@ -4,7 +4,3 @@ All articles of merchandise to which sections 294 to 300 of this title apply whi
 
 (June 13, 1906, ch. 3289, §7, 34 Stat. 262.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 298, 299 of this title.
-

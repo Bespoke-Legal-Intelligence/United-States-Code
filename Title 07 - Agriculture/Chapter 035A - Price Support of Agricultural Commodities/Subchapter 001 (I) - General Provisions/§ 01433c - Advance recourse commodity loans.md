@@ -1,6 +1,6 @@
 ### §1433c. Advance recourse commodity loans
 
-Notwithstanding any other provision of this Act, the Secretary may make advance recourseloans available to producers of the commodities of the 1986 through 1990 crops for which nonrecourse loans are made available under this Act if the Secretary finds that such action is necessary to ensure that adequate operating credit is available to producers. Such recourse loans may be made available under such reasonable terms and conditions as the Secretary may prescribe, except that the Secretary shall require that a producer obtain crop insurance for the crop as a condition of eligibility for a loan.
+Notwithstanding any other provision of this Act, the Secretary may make advance recourse loans available to producers of the commodities of the 1986 through 1990 crops for which nonrecourse loans are made available under this Act if the Secretary finds that such action is necessary to ensure that adequate operating credit is available to producers. Such recourse loans may be made available under such reasonable terms and conditions as the Secretary may prescribe, except that the Secretary shall require that a producer obtain crop insurance for the crop as a condition of eligibility for a loan.
 
 (Oct. 31, 1949, ch. 792, title IV, §424, as added Pub. L. 99–198, title X, §1003, Dec. 23, 1985, 99 Stat. 1447.)
 
@@ -17,8 +17,4 @@ Section 1003 of Pub. L. 99–198 provided that this section is effective for the
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(10) of this title.
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1433c–1 of this title.
 

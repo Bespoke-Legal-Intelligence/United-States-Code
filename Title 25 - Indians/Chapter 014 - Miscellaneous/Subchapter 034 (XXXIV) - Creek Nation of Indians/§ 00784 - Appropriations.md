@@ -8,7 +8,3 @@ There is authorized to be appropriated out of any money in the Treasury not othe
 
 1959—Pub. L. 86–229 increased appropriation authorization from $200,000 to $325,000.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 782, 783, 785 of this title.
-

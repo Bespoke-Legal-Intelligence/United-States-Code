@@ -4,10 +4,6 @@
 
 Application of this subchapter to members of the Communist Party and other subversive organizations, see section 843 of this title, and References in Text note set out under that section.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 42 section 2000e–2.
-
 
 ---
 

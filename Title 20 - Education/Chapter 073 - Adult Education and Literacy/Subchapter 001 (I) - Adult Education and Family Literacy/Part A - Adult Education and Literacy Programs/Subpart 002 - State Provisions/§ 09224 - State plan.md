@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each eligible agency desiring a grant under this part for any fiscal year shall submit to, or have on file with, the Secretary a 5-year State plan.
+&emsp;Each eligible agency desiring a grant under this part for any fiscal year shall submit to, orhave on file with, the Secretary a 5-year State plan.
 
 #### (2) Comprehensive plan or application
 
@@ -75,8 +75,4 @@ The provisions of this section shall be subject to section 9276(b) of this title
 #### Amendments
 
 1998—Subsec. (g). Pub. L. 105–332 added subsec. (g).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9211, 9212 of this title.
 

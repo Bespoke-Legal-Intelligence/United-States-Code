@@ -64,7 +64,3 @@ Subsecs. (d), (e). Pub. L. 104–235, §203(2), added subsecs. (d) and (e).
 
 Subsec. (c). Pub. L. 100–294, §301(b), added subsec. (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10402, 10403, 10410, 10412 of this title.
-

@@ -60,7 +60,3 @@ Section 102(b) of Pub. L. 102–546 provided that: “The amendment made by subs
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2, 6f, 6k, 7b–1 of this title; title 15 section 78f.
-

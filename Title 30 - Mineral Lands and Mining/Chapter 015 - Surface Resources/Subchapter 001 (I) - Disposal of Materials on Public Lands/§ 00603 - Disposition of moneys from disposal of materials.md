@@ -8,7 +8,7 @@ All moneys received from the disposal of materials under this subchapter shall b
 
 Subchapter V (§1181a et seq.) of chapter 28 of title 43, referred to in text, was in the original a reference to the Acts of Aug. 28, 1937 (50 Stat. 874), and June 24, 1954 (68 Stat. 270), as amended. For complete classification of these Acts to the Code, see Tables.
 
-Act of March 4, 1915 (38 Stat. 1214), referred to in text, is act Mar. 4, 1915, ch. 181, 38 Stat. 1214, as amended. Section 1 of that Act, which made reservation of certain Alaska lands for educational purposes, covered disposition of proceeds or income derived from reserved lands, and set out the exclusion of certain lands, was classified to section 353 of Title 48, Territories and Insular Possessions, and was repealed by Pub. L. 85–508, §6(k), July 7, 1958, 72 Stat. 343. For complete classification of this Act to the Code, see Tables.
+Act of March 4, 1915 (38 Stat. 1214), referred to in text, is act Mar. 4, 1915, ch. 181, 38 Stat. 1214, as amended. Section 1 of that Act, which made reservation of certain Alaska lands for educational purposes, covered disposition of proceeds or income derived from reservedlands, and set out the exclusion of certain lands, was classified to section 353 of Title 48, Territories and Insular Possessions, and was repealed by Pub. L. 85–508, §6(k), July 7, 1958, 72 Stat. 343. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -18,13 +18,9 @@ Act of March 4, 1915 (38 Stat. 1214), referred to in text, is act Mar. 4, 1915, 
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other appropriate officer or entity in Departments of Agriculture and the Interior under this subchapter to Federal Inspector of Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 601 of this title.
+For transfer of certain enforcement functions of Secretary or other appropriate officer or entity in Departments of Agriculture and the Interior under this subchapter to Federal Inspector of Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 601 of this title.
 
 #### Admission of Alaska as State
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 611, 612, 615 of this title; title 31 section 6903.
 

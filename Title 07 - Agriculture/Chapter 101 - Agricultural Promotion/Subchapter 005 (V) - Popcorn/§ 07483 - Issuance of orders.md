@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To effectuate the policy described in section 7481(b) of this title, the Secretary, subject to subsection (b) of this section, shall issue 1 or more orders applicable to processors. An order shall be applicable to all popcorn production and marketing areas in the United States. Not more than 1 order shall be in effect under this subchapter at any 1 time.
+To effectuate the policy described in section 7481(b) of this title, the Secretary, subject tosubsection (b) of this section, shall issue 1 or more orders applicable to processors. An order shall be applicable to all popcorn production and marketing areas in the United States. Not more than 1 order shall be in effect under this subchapter at any 1 time.
 
 #### (b) Procedure
 
@@ -23,8 +23,4 @@ To effectuate the policy described in section 7481(b) of this title, the Secreta
 The Secretary, as appropriate, may amend an order. The provisions of this subchapter applicable to an order shall be applicable to any amendment to an order, except that an amendment to an order may not require a referendum to become effective.
 
 (Pub. L. 104–127, title V, §574, Apr. 4, 1996, 110 Stat. 1076.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7482, 7485 of this title.
 

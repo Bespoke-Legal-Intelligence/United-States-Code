@@ -30,7 +30,7 @@
 
 &emsp;(A) on the date, after such participant's course completion date, on which such participant (in accordance with subsection (b) of this section) is appointed under this chapter as a full-time employee in the Veterans Health Administration; or
 
-&emsp;(B) if the participant is a full-time employee in the Veterans Health Administration on such course completion date, on the date thereafter on which such participant is assigned to a position for which such participant's course of training prepared such participant.
+&emsp;(B) if the participant is a full-time employee in the Veterans Health Administration onsuch course completion date, on the date thereafter on which such participant is assigned to a position for which such participant's course of training prepared such participant.
 
 (2) A participant in the Scholarship Program who on such participant's course completion date is a full-time employee in the Veterans Health Administration serving in a capacity for which such participant's course of training prepared such participant shall be considered to have begun serving such participant's period of obligated service on such course completion date.
 
@@ -61,8 +61,4 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 Pub. L. 102–40, §403(b)(5), substituted “7423(d)(1)” for “4108(c)(1)” in introductory provisions.
 
 Subsec. (b)(5). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7612, 7617 of this title.
 

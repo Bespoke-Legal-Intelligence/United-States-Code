@@ -36,7 +36,3 @@ The Foreign Affairs Reform and Restructuring Act of 1998, referred to in subsec.
 
 Section was enacted as part of the Radio Free Afghanistan Act, and not as part of the United States International Broadcasting Act of 1994 which comprises this chapter.
 
-#### Short Title
-
-For short title of Pub. L. 107–148, which enacted this section, as the Radio Free Afghanistan Act, see section 1 of Pub. L. 107–148, set out as a note under section 6201 of this title.
-

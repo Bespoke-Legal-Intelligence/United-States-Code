@@ -8,7 +8,3 @@ Any person who willfully violates any provision of this chapter, or any rule or 
 
 1987—Pub. L. 100–42 struck out “(other than section 8372 of this title)” after “this chapter”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8431 of this title.
-

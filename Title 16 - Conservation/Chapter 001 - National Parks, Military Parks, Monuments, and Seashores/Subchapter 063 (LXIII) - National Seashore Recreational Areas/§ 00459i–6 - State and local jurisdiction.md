@@ -4,7 +4,3 @@ Nothing in sections 459i to 459i–9 of this title shall deprive the State of Ge
 
 (Pub. L. 92–536, §7, Oct. 23, 1972, 86 Stat. 1068.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459i–2, 459i–5, 459i–7 of this title.
-

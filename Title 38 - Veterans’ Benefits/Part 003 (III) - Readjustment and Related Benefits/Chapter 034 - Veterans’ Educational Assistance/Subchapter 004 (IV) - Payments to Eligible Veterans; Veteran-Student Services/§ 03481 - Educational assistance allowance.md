@@ -50,7 +50,3 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise provide
 
 Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3491 of this title.
-

@@ -44,7 +44,3 @@ Sections 6851, 6861, and 6871 of the Internal Revenue Code of 1986, referred to 
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 557 of this title.
-

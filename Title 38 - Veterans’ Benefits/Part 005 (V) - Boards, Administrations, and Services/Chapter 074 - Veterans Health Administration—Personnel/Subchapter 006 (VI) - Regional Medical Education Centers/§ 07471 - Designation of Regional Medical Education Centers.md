@@ -1,6 +1,6 @@
 ### §7471. Designation of Regional Medical Education Centers
 
-(a) In carrying out the Secretary's functions under section 7302 of this title with regard to thetraining of health personnel, the Secretary shall implement a program under which the Secretary shall designate as Regional Medical Education Centers such Department hospitals as the Secretary determines appropriate to carry out the provisions of this subchapter.
+(a) In carrying out the Secretary's functions under section 7302 of this title with regard to the training of health personnel, the Secretary shall implement a program under which the Secretary shall designate as Regional Medical Education Centers such Department hospitals as the Secretary determines appropriate to carry out the provisions of this subchapter.
 
 (b) Each Regional Medical Education Center (hereinafter in this subchapter referred to as “Center”) designated under subsection (a) shall provide continuing medical and related education programs for personnel eligible for training under this subchapter. Such programs shall include the following:
 
@@ -19,8 +19,4 @@
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 4121 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7362 of this title.
 

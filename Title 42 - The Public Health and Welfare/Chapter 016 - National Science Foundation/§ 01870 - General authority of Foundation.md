@@ -56,7 +56,3 @@ Subsec. (j). Pub. L. 90–407, §9(d), added subsec. (j).
 
 Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1864, 1874 of this title; title 40 section 525.
-

@@ -4,10 +4,6 @@ Part E—Energy Conservation Program for Schools and Hospitals
 
 This part was, in the original, designated part G and has been changed to part E for purposes of codification.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 6323, 6325, 6371j of this title; title 15 section 4507.
-
 
 ---
 

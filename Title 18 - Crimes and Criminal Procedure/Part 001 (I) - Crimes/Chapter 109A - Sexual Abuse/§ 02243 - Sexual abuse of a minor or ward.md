@@ -24,7 +24,7 @@ Of a Ward.—Whoever, in the special maritime and territorial jurisdiction of th
 
 Defenses.—(1) In a prosecution under subsection (a) of this section, it is a defense, which the defendant must establish by a preponderance of the evidence, that the defendant reasonably believed that the other person had attained the age of 16 years.
 
-(2) In a prosecution under this section, it is a defense, which the defendant must establish bya preponderance of the evidence, that the persons engaging in the sexual act were at that time married to each other.
+(2) In a prosecution under this section, it is a defense, which the defendant must establish by a preponderance of the evidence, that the persons engaging in the sexual act were at that time married to each other.
 
 (d)
 
@@ -47,8 +47,4 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2243.
 1996—Subsec. (a). Pub. L. 104–208 inserted “crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or” after “Whoever” in introductory provisions.
 
 1990—Subsec. (a). Pub. L. 101–647 substituted “15 years” for “five years” in concluding provisions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2244, 2255, 3486 of this title; title 42 section 14135a.
 

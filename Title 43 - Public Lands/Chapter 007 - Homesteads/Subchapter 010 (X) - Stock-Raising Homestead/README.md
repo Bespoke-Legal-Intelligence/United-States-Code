@@ -1,9 +1,5 @@
 ### SUBCHAPTER X—STOCK-RAISING HOMESTEAD
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 144, 315 of this title.
-
 
 ---
 

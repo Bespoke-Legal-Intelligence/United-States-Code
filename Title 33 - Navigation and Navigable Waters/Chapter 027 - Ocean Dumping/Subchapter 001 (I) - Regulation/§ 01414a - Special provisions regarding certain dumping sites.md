@@ -20,7 +20,7 @@
 
 #### (b) Restriction on use of 106-mile site
 
-The Administrator may not issue or renew any permit under this subchapter which authorizes any person, other than a person that is an eligible authority within the meaning of subsection (a)(1)(C) of this section, to dump, or to transport for the purposes of dumping, municipal sludge within the site designated under section 1412(c) of this title by the Administrator and known as the “106-Mile Ocean Waste Dump Site” (as described in 49 F.R. 19005).
+The Administrator may not issue or renew any permit under this subchapter which authorizes any person, other than a person that is an eligible authority within the meaning of subsection\(a)(1)(C) of this section, to dump, or to transport for the purposes of dumping, municipal sludge within the site designated under section 1412(c) of this title by the Administrator and known as the “106-Mile Ocean Waste Dump Site” (as described in 49 F.R. 19005).
 
 (Pub. L. 92–532, title I, §104A, as added Pub. L. 99–662, title XI, §1172(b), Nov. 17, 1986, 100 Stat. 4259; Pub. L. 100–4, title V, §508(b), Feb. 4, 1987, 101 Stat. 79; Pub. L. 100–688, title I, §1002, Nov. 18, 1988, 102 Stat. 4139.)
 
@@ -33,8 +33,4 @@ The Administrator may not issue or renew any permit under this subchapter which 
 Section 1172(a) of Pub. L. 99–662 provided that: “The Congress finds that the New York Bight Apex is no longer a suitable location for the ocean dumping of municipal sludge.”
 
 An identical provision was enacted by Pub. L. 100–4, title V, §508(a), Feb. 4, 1987, 101 Stat. 79.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1414b of this title.
 

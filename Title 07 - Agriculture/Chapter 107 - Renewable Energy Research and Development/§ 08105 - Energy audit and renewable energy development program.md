@@ -76,7 +76,3 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (Pub. L. 107–171, title IX, §9005, May 13, 2002, 116 Stat. 480.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8106 of this title.
-

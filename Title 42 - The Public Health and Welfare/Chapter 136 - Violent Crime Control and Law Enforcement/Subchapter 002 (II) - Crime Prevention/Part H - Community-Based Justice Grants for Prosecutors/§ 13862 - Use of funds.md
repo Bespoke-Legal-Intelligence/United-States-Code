@@ -12,7 +12,3 @@ Grants made by the Attorney General under this section shall be used—
 
 (Pub. L. 103–322, title III, §31702, Sept. 13, 1994, 108 Stat. 1890.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13863, 14214 of this title.
-

@@ -40,7 +40,7 @@ In addition to such other terms and conditions as the President may determine pu
 
 &emsp;(B) to any defense article or defense service, or portion thereof, acquired with funds appropriated for military assistance under this chapter.
 
-(Pub. L. 87–195, pt. II, §503, Sept. 4, 1961, 75 Stat. 435; Pub. L. 88–633, §201(a), Oct. 7, 1964, 78 Stat.1011; Pub. L. 89–171, pt. II, §201(a), Sept. 6, 1965, 79 Stat. 656; Pub. L. 90–137, pt. II, §201(b), Nov. 14, 1967, 81 Stat. 455; Pub. L. 93–189, §12(b)(1), Dec. 17, 1973, 87 Stat. 720; Pub. L. 96–533, title I, §112(a), Dec. 16, 1980, 94 Stat. 3138; Pub. L. 97–113, title I, §§109(c), 110(c), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 99–83, title I, §123(a), Aug. 8, 1985, 99 Stat. 205; Pub. L. 100–461, title V, §586(a), Oct. 1, 1988, 102 Stat. 2268–50.)
+(Pub. L. 87–195, pt. II, §503, Sept. 4, 1961, 75 Stat. 435; Pub. L. 88–633, §201(a), Oct. 7, 1964, 78 Stat. 1011; Pub. L. 89–171, pt. II, §201(a), Sept. 6, 1965, 79 Stat. 656; Pub. L. 90–137, pt. II, §201(b), Nov. 14, 1967, 81 Stat. 455; Pub. L. 93–189, §12(b)(1), Dec. 17, 1973, 87 Stat. 720; Pub. L. 96–533, title I, §112(a), Dec. 16, 1980, 94 Stat. 3138; Pub. L. 97–113, title I, §§109(c), 110(c), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 99–83, title I, §123(a), Aug. 8, 1985, 99 Stat. 205; Pub. L. 100–461, title V, §586(a), Oct. 1, 1988, 102 Stat. 2268–50.)
 
 #### References in Text
 
@@ -90,7 +90,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 #### Reports to Congressional Committees
 
@@ -103,8 +103,4 @@ The Secretary of State, in the implementation of the functions delegated to him 
 #### Review of Military Assistance Program; Reduction and Elimination Plan; Submittal to Congress
 
 Pub. L. 93–559, §17, Dec. 30, 1974, 88 Stat. 1800, which set forth provisions respecting review of military assistance program and submittal to Congress of plan for reduction and elimination, was repealed by Pub. L. 95–384, §29(c)(4), Sept. 26, 1978, 92 Stat. 747.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2321j, 2394, 2761, 2764, 2765 of this title.
 

@@ -14,7 +14,3 @@ For the purposes of all classification and administration of Acts of Congress, E
 
 Section 3 of act Apr. 30, 1946, provided that this section and section 434 of this title shall become effective sixty days after Apr. 30, 1946.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 434 of this title.
-

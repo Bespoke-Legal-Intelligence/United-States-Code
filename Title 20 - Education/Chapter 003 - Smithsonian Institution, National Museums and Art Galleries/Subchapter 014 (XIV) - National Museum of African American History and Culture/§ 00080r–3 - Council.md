@@ -132,7 +132,3 @@ A majority of the voting members of the Council holding office shall constitute 
 
 (Pub. L. 108–184, §5, Dec. 16, 2003, 117 Stat. 2677.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80r–1 of this title.
-

@@ -42,7 +42,7 @@
 
 #### (iv) Standards for power wheelchairs
 
-&emsp;&emsp;&emsp;Effective on December 8, 2003, in the case of a covered item consisting of a motorized or power wheelchair for an individual, payment may not be made for such covered item unless a physician (as defined in section 1395x(r)(1) of this title), a physician assistant, nurse practitioner, or a clinicalnurse specialist (as those terms are defined in section 1395x(aa)(5) of this title) has conducted a face-to-face examination of the individual and written a prescription for the item.
+&emsp;&emsp;&emsp;Effective on December 8, 2003, in the case of a covered item consisting of a motorized or power wheelchair for an individual, payment may not be made for such covered item unless a physician (as defined in section 1395x(r)(1) of this title), a physician assistant, nurse practitioner, or a clinical nurse specialist (as those terms are defined in section 1395x(aa)(5) of this title) has conducted a face-to-face examination of the individual and written a prescription for the item.
 
 #### (v) Limitation on payment for covered items
 
@@ -164,7 +164,7 @@
 
 #### (D) Limit on adjustment
 
-&emsp;&emsp;When portable oxygen equipment is used and the attending physician prescribes an oxygen flow rate exceeding 4 liters per minute, there shall only be an increase under either subparagraph (B) or (C), whichever increase is larger, and not under both such subparagraphs.
+&emsp;&emsp;When portable oxygen equipment is used and the attending physician prescribes an oxygen flow rate exceeding 4 liters perminute, there shall only be an increase under either subparagraph (B) or (C), whichever increase is larger, and not under both such subparagraphs.
 
 #### (E) Recertification for patients receiving home oxygen therapy
 
@@ -202,7 +202,7 @@
 
 #### (i) For 1989
 
-&emsp;&emsp;&emsp;For items furnished during 1989, the payment amount recognized under subparagraph (A)(i) shall not be more than 115 percent, and shall not be less than 85 percent,of the prevailing charge established for rental of the item in January 1987, increased by the percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 6-month period ending with December 1987.
+&emsp;&emsp;&emsp;For items furnished during 1989, the payment amount recognized under subparagraph (A)(i) shall not be more than 115 percent, and shall not be less than 85 percent, of the prevailing charge established for rental of the item in January 1987, increased by the percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 6-month period ending with December 1987.
 
 #### (ii) For 1990
 
@@ -266,7 +266,7 @@
 
 &emsp;&emsp;&emsp;(i) in 1989 or 1990, is 100 percent of the local purchase price computed under subparagraph (A)(ii)(I);
 
-&emsp;&emsp;&emsp;(ii) in 1991, is the sum of (I) 67 percent of the local purchase price computed under subparagraph (A)(ii)(II) for 1991, and (II) 33 percent of the national limited purchase price computed under subparagraph (B) for 1991;
+&emsp;&emsp;&emsp;(ii) in 1991, is the sum of (I) 67 percent of the local purchase price computed under subparagraph (A)(ii)(II) for 1991, and (II) 33percent of the national limited purchase price computed under subparagraph (B) for 1991;
 
 &emsp;&emsp;&emsp;(iii) in 1992, is the sum of (I) 33 percent of the local purchase price computed under subparagraph (A)(ii)(III) for 1992, and (II) 67 percent of the national limited purchase price computed under subparagraph (B) for 1992; and
 
@@ -324,7 +324,7 @@
 
 #### (ii) Budget neutrality
 
-&emsp;&emsp;&emsp;The Secretary may take actions under clause (i) only to the extent such actions do not result in expenditures for any year to be more or less than the expenditures which would have been made if such actions had not been taken.
+&emsp;&emsp;&emsp;The Secretary may take actions under clause (i) only to the extent such actionsdo not result in expenditures for any year to be more or less than the expenditures which would have been made if such actions had not been taken.
 
 #### (10) Exceptions and adjustments
 
@@ -456,7 +456,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If a nonparticipating supplier furnishes to an individual enrolled under this part a covered item for which no payment may be made under this part by reason of paragraph (17)(B), the supplier shall refund on a timely basis to the patient (and shall be liable to the patient for) any amounts collected from the patient for the item, unless—
+&emsp;&emsp;If a nonparticipating supplier furnishes to an individual enrolled under this part a covered item for which no payment may be made under this part by reason of paragraph (17)(B), the supplier shall refund on a timelybasis to the patient (and shall be liable to the patient for) any amounts collected from the patient for the item, unless—
 
 &emsp;&emsp;&emsp;(i) the supplier establishes that the supplier did not know and could not reasonably have been expected to know that payment may not be made for the item by reason of paragraph (17)(B), or
 
@@ -2529,10 +2529,6 @@ Section 4062(c) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV,
 “(4) The Secretary shall, upon written request and payment of a reasonable copying fee which the Secretary may establish, provide the data and information used in determining the payment amounts for covered items under section 1834(a) of the Social Security Act \[subsec. (a) of this section\], but only in a form which does not permit identification of individual suppliers.
 
 “(5) The Comptroller General shall conduct a study on the appropriateness of the level of payments allowed for covered items under the medicare program, and shall report to Congress on the results of such study (including recommendations on the transition to regional or national rates) by not later than January 1, 1991. Entities furnishing such items which fail to provide the Comptroller General with reasonable access to necessary records to carry out the study under this paragraph are subject to exclusion from the medicare program under section 1128(a) of the Social Security Act \[section 1320a–7(a) of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395f, 1395k, 1395<i>l</i>, 1395u, 1395w–3, 1395w–4, 1395x, 1395y, 1395bb, 1395cc, 1395kk–1, 1395pp, 1395ww, 1395ddd, 1396a of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

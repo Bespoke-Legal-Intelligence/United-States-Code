@@ -50,7 +50,7 @@ For the purpose of subsection (c)(2) of this section, the term “qualifying adu
 
 #### (1) In general
 
-&emsp;From amounts made available under subsection (c) of this section for the Republic ofthe Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, the Secretary shall award grants to Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this part in accordance with the provisions of this part that the Secretary determines are not inconsistent with this subsection.
+&emsp;From amounts made available under subsection (c) of this section for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, the Secretary shall award grants to Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this part in accordance with the provisions of this part that the Secretary determines are not inconsistent with this subsection.
 
 #### (2) Award basis
 
@@ -91,8 +91,4 @@ Section 313 of the Adult Education Act (as such Act was in effect on the day bef
 #### Amendments
 
 1998—Subsec. (d)(1). Pub. L. 105–277 struck out “, but less than 61 years of age” after “16 years of age”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9212, 9222, 9241 of this title.
 

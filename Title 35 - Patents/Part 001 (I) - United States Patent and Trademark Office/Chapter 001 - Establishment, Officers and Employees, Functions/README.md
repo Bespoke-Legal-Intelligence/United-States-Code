@@ -15,6 +15,7 @@
 | [11\.](%C2%A7%2000011%20-%20Exchange%20of%20copies%20of%20patents%20and%20applications%20with%20foreign%20countries.md) | Exchange of copies of patents and applications with foreign countries. |
 | [12\.](%C2%A7%2000012%20-%20Copies%20of%20patents%20and%20applications%20for%20public%20libraries.md) | Copies of patents and applications for public libraries. |
 | [13\.](%C2%A7%2000013%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| \[14. | Renumbered 13.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

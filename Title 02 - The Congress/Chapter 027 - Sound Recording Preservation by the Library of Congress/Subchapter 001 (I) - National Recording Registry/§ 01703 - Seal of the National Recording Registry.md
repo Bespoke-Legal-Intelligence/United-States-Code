@@ -24,7 +24,7 @@ The use of the seal provided under subsection (a) of this section with respect t
 
 #### (1) Prohibition on distribution and exhibition
 
-&emsp;No person may knowingly distribute or exhibit to the public a version of a sound recording or any copy of a sound recording which bears the seal described in subsection (a) of this section if such recording—
+&emsp;No person may knowingly distribute or exhibit to the public a version of a sound recording or any copy of a sound recording whichbears the seal described in subsection (a) of this section if such recording—
 
 &emsp;&emsp;(A) is not included in the National Recording Registry; or
 
@@ -38,7 +38,7 @@ The use of the seal provided under subsection (a) of this section with respect t
 
 #### (1) Jurisdiction
 
-&emsp;The several district courts of the United States shall have jurisdiction, for causeshown, to prevent and restrain violations of subsection (d) of this section.
+&emsp;The several district courts of the United States shall have jurisdiction, for cause shown, to prevent and restrain violations of subsection (d) of this section.
 
 #### (2) Relief
 

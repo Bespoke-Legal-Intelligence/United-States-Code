@@ -26,7 +26,7 @@
 
 &emsp;(A) the annuity of the former spouse shall commence on the date the participant would qualify, on the basis of his or her creditable service, for an annuity under this subchapter (other than a disability annuity) or the date the disability annuity begins, whichever is later, and
 
-&emsp;(B) the amount of the annuity of the former spouse shall be calculated on the basis of the annuity for which the participant would otherwise so qualify.
+&emsp;(B) the amount of the annuity of the former spouse shall be calculated on the basis of theannuity for which the participant would otherwise so qualify.
 
 (6)(A) Except as provided in subparagraph (B), any former spouse who becomes entitled to receive any benefit under this part which would otherwise be payable to a participant or former participant shall be entitled to make any election regarding method of payment to such former spouse that such participant would have otherwise been entitled to elect, and the participant may elect an alternate method for the remaining share of such benefits. Such elections shall not increase the actuarial present value of benefits expected to be paid under this part.
 

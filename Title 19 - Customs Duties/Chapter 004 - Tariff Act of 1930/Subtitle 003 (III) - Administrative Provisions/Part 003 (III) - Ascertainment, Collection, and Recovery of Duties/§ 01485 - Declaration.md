@@ -6,7 +6,7 @@ Every importer of record making an entry under the provisions of section 1484 of
 
 &emsp;(1) Whether the merchandise is imported in pursuance of a purchase or an agreement to purchase, or whether it is imported otherwise than in pursuance of a purchase or agreement to purchase;
 
-&emsp;(2) That the prices set forth in the invoice are true, in the case of merchandise purchased or agreed to be purchased; or in the case ofmerchandise secured otherwise than by purchase or agreement to purchase, that the statements in such invoice as to value or price are true to the best of his knowledge and belief;
+&emsp;(2) That the prices set forth in the invoice are true, in the case of merchandise purchased or agreed to be purchased; or in the case of merchandise secured otherwise than by purchase or agreement to purchase, that the statements in such invoice as to value or price are true to the best of his knowledge and belief;
 
 &emsp;(3) That all other statements in the invoice or other documents filed with the entry, or in the entry itself, are true and correct; and
 
@@ -103,8 +103,4 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1514 of this title; title 15 section 70g.
 

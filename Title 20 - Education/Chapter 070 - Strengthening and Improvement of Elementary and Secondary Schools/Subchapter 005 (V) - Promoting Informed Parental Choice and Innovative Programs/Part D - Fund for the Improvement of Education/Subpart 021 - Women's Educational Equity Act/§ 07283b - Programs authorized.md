@@ -42,7 +42,7 @@ The Secretary is authorized—
 
 &emsp;&emsp;&emsp;(v) enhancing educational and career opportunities for those women and girls who suffer multiple forms of discrimination, based on sex, and on race, ethnic origin, limited English proficiency, disability, socioeconomic status, or age;
 
-&emsp;&emsp;&emsp;(vi) assisting pregnant students and students rearing children to remain in or to return to secondary school, graduate, and prepare their preschool children to start school;
+&emsp;&emsp;&emsp;(vi) assisting pregnant students and students rearing children to remain in or toreturn to secondary school, graduate, and prepare their preschool children to start school;
 
 &emsp;&emsp;&emsp;(vii) evaluating exemplary model programs to assess the ability of such programs to advance educational equity for women and girls;
 
@@ -64,7 +64,7 @@ The Secretary is authorized—
 
 &emsp;&emsp;&emsp;&emsp;(III) innovative approaches to school-community partnerships for educational equity; and
 
-&emsp;&emsp;(B) for research and development, which shall be coordinated with each of the National Education Centers of the Institute of Education Sciences to avoid duplication of research efforts, designed to advance gender equity nationwide and to help make policiesand practices in educational agencies and institutions, and local communities, gender equitable, including—
+&emsp;&emsp;(B) for research and development, which shall be coordinated with each of the National Education Centers of the Institute of Education Sciences to avoid duplication of research efforts, designed to advance gender equity nationwide and to help make policies and practices in educational agencies and institutions, and local communities, gender equitable, including—
 
 &emsp;&emsp;&emsp;(i) research and development of innovative strategies and model training programs for teachers and other education personnel;
 
@@ -97,8 +97,4 @@ The Social Security Act, referred to in subsec. (b)(2)(A)(xi), (B)(viii), is act
 2002—Subsec. (a)(5). Pub. L. 107–279, §404(d)(7)(A), substituted “Director of the Institute of Education Sciences” for “Assistant Secretary of the Office of Educational Research and Improvement”.
 
 Subsec. (b)(2)(B). Pub. L. 107–279, §404(d)(7)(B), substituted “National Education Centers of the Institute of Education Sciences” for “research institutes of the Office of Educational Research and Improvement” in introductory provisions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7283c, 7283d, 7283g of this title.
 

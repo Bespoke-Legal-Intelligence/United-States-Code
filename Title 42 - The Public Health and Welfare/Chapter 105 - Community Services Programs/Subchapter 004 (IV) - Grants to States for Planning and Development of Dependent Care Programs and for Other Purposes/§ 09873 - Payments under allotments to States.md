@@ -4,7 +4,3 @@ The Secretary shall make payments, as provided by section 6503(a) of title 31, t
 
 (Pub. L. 97–35, title VI, §670C, as added Pub. L. 98–558, title I, §109, Oct. 30, 1984, 98 Stat. 2880.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9874, 9875 of this title.
-

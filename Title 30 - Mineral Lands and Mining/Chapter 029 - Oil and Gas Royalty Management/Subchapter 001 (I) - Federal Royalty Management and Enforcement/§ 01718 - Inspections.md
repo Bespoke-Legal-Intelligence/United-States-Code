@@ -16,7 +16,3 @@ For the purpose of making any inspection or investigation under this chapter, th
 
 (Pub. L. 97–451, title I, §108, Jan. 12, 1983, 96 Stat. 2453.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1719, 1732 of this title.
-

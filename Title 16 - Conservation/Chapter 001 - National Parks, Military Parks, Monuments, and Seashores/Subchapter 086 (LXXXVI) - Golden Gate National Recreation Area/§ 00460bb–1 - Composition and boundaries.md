@@ -8,7 +8,7 @@ The recreation area shall comprise the lands, waters, and submerged lands genera
 
 The maps referred to in this section shall be on file and available for public inspection in the Offices of the National Park Service, Department of the Interior, Washington, District of Columbia. After advising the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate (hereinafter referred to as the “committees”) in writing, the Secretary may make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
-(Pub. L. 92–589, §2, Oct. 27, 1972, 86 Stat. 1299; Pub. L. 93–544, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 95–625, title III, §317(a), Nov. 10, 1978, 92 Stat. 3484; Pub. L. 96–199, title I, §103(a), Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–344, §4(1), Sept. 8, 1980, 94 Stat. 1134; Pub. L. 96–607, title X, §1001(1), (2), Dec. 28, 1980, 94 Stat. 3544; Pub. L. 102–299, §2(b)(1), June 9, 1992, 106 Stat. 236; Pub. L. 103–437, §6(n)(2), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 106–350, §2, Oct. 24, 2000, 114 Stat. 1361.)
+(Pub. L. 92–589, §2, Oct. 27, 1972, 86 Stat. 1299; Pub. L. 93–544, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 95–625, title III, §317(a), Nov. 10, 1978, 92 Stat. 3484; Pub. L. 96–199, title I, §103(a), Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–344, §4(1), Sept. 8, 1980, 94 Stat. 1134; Pub. L. 96–607, title X, §1001(1), (2), Dec. 28, 1980, 94 Stat. 3544; Pub. L. 102–299, §2(b)(1), June 9, 1992, 106 Stat. 236; Pub. L.103–437, §6(n)(2), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 106–350, §2, Oct. 24, 2000, 114 Stat. 1361.)
 
 #### References in Text
 
@@ -41,8 +41,4 @@ Committee on Natural Resources of House of Representatives treated as referring 
 #### Phleger Estate Addition
 
 Section 2(a) and (b)(2) of Pub. L. 102–299 authorized Secretary of the Interior to acquire by donation or purchase with donated or appropriated funds approximately 1,232 acres of land in San Mateo County, California, known generally as the Phleger property, as generally depicted on map entitled “1991 addition to Golden Gate National Recreation Area (Phleger Estate)” and numbered GGNRA<sup>641</sup>/<sub>40062</sub>, with Federal share of acquisition of land not to exceed 50 percent of purchase price of land, and directed Secretary, upon acquisition of the land and after publication of notice in the Federal Register, to revise boundary of Golden Gate National Recreation Area to reflect inclusion of such land, and to prepare and make available a map displaying such boundary revision in accordance with subsection (b) of this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460bb–2 of this title.
 

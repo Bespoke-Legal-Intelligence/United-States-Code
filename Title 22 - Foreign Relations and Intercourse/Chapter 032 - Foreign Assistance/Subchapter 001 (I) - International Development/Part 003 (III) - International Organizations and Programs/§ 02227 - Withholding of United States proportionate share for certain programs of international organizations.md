@@ -2,7 +2,7 @@
 
 #### (a) Covered programs
 
-Notwithstanding any other provision of law, none of the funds authorized to be appropriated by this part shall be available for the United States proportionate share for programs for Burma, Iraq, North Korea, Syria, Libya, Iran, Cuba, or the Palestine Liberation Organization or for projects whose purpose is to provide benefits to the Palestine Liberation Organization or entities associated with it, or at the discretion of the President, Communist countries listed in section 2370(f) of this title.
+Notwithstanding any other provision of law, none of the funds authorized to be appropriatedby this part shall be available for the United States proportionate share for programs for Burma, Iraq, North Korea, Syria, Libya, Iran, Cuba, or the Palestine Liberation Organization or for projects whose purpose is to provide benefits to the Palestine Liberation Organization or entities associated with it, or at the discretion of the President, Communist countries listed in section 2370(f) of this title.
 
 #### (b) Review and report by Secretary of State
 
@@ -22,7 +22,7 @@ The Secretary of State—
 
 (ii) Clause (i) shall not apply with respect to the Juragua Nuclear Power Plant near Cienfuegos, Cuba, or the Pedro Pi Nuclear Research Center unless Cuba—
 
-&emsp;(I) ratifies the Treaty on the Non-Proliferation of Nuclear Weapons (21 UST 483) or the Treaty for the Prohibition of Nuclear Weaponsin Latin America (commonly known as the Treaty of Tlatelolco);
+&emsp;(I) ratifies the Treaty on the Non-Proliferation of Nuclear Weapons (21 UST 483) or the Treaty for the Prohibition of Nuclear Weapons in Latin America (commonly known as the Treaty of Tlatelolco);
 
 &emsp;(II) negotiates full-scope safeguards of the International Atomic Energy Agency not later than two years after ratification by Cuba of such Treaty; and
 
@@ -59,8 +59,4 @@ Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as 
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2027, 6039 of this title.
 

@@ -4,7 +4,3 @@ As a part of the Assessment, the Secretary of Agriculture shall develop and main
 
 (Pub. L. 93–378, §5, formerly §4, Aug. 17, 1974, 88 Stat. 477, renumbered §5, Pub. L. 94–588, §2, Oct. 22, 1976, 90 Stat. 2949.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 1903.
-

@@ -62,7 +62,7 @@ In this section:
 
 #### (B) Functions not previously operated
 
-&emsp;&emsp;In the case of Bureau elementary or secondary education functions which have notpreviously been operated by a tribe or tribal organization under contract, grant, or agreement with the Bureau, the direct cost base for the initial year shall be the projected aggregate direct cost program funding for all Bureau elementary and secondary functions to be operated by the tribe or tribal organization during that fiscal year.
+&emsp;&emsp;In the case of Bureau elementary or secondary education functions which have not previously been operated by a tribe or tribal organization under contract, grant, or agreement with the Bureau, the direct cost base for the initial year shall be the projected aggregate direct cost program funding for all Bureau elementary and secondary functions to be operated by the tribe or tribal organization during that fiscal year.
 
 #### (4) Maximum base rate
 
@@ -106,7 +106,7 @@ In this section:
 
 &emsp;&emsp;(A) reduce the amount of the grant determined under paragraph (1) to the extent that payments for administrative costs are actually received by an Indian tribe or tribal organization under any Federal education program included in the direct cost base of the tribe or tribal organization; and
 
-&emsp;&emsp;(B) take such actions as may be necessary to be reimbursed by any other department or agency of the Federal Government for the portion of grants made under this section for the costs of administering any program for Indians that is funded by appropriations made to such other department or agency.
+&emsp;&emsp;(B) take such actions as may be necessary to be reimbursed by any other department or agency of the Federal Government for theportion of grants made under this section for the costs of administering any program for Indians that is funded by appropriations made to such other department or agency.
 
 #### (d) Administrative cost percentage rate
 
@@ -206,7 +206,7 @@ In applying this section and section 106 of the Indian Self-Determination and Ed
 
 &emsp;&emsp;(D) identify, and quantify in terms of percentages of direct program costs, any general factors arising from geographic isolation, or numbers of programs administered, independent of program size factors used to compute a base administrative cost percentage in such formula; and
 
-&emsp;&emsp;(E) identify any other incremental cost factors substantially affecting the costs of required administrative cost functions atany of the tribal elementary or secondary educational programs studied and determine whether the factors are of general applicability to other such programs, and (if so) how the factors may effectively be incorporated into such formula.
+&emsp;&emsp;(E) identify any other incremental cost factors substantially affecting the costs of required administrative cost functions at any of the tribal elementary or secondary educational programs studied and determine whether the factors are of general applicability to other such programs, and (if so) how the factors may effectively be incorporated into such formula.
 
 #### (3) Consultation with Inspector General
 
@@ -275,10 +275,6 @@ Another prior section 2008 and a prior section 2008a were omitted in the general
 Section 2008, Pub. L. 95–561, title XI, §1128, Nov. 1, 1978, 92 Stat. 2320; Pub. L. 96–46, §2(b)(7), (8), Aug. 6, 1979, 93 Stat. 341; Pub. L. 98–511, title V, §505, Oct. 19, 1984, 98 Stat. 2394; Pub. L. 99–89, §5, Aug. 15, 1985, 99 Stat. 381; Pub. L. 99–228, §1, Dec. 28, 1985, 99 Stat. 1747; Pub. L. 100–297, title V, §§5107(a), 5108(b), (c), Apr. 28, 1988, 102 Stat. 368, 375; Pub. L. 100–427, §§2(a), (b)(1), (c), 3, 5, Sept. 9, 1988, 102 Stat. 1604, 1605; Pub. L. 101–301, §5(d)(1), May 24, 1990, 104 Stat. 208; Pub. L. 103–382, title III, §393(b), Oct. 20, 1994, 108 Stat. 4026, related to allotment formula.
 
 Section 2008a, Pub. L. 95–561, title XI, §1128A, as added Pub. L. 100–297, title V, §5108(a), Apr. 28, 1988, 102 Stat. 369; amended Pub. L. 100–427, §4, Sept. 9, 1988, 102 Stat. 1604; Pub. L. 101–301, §5(f), May 24, 1990, 104 Stat. 208, related to administrative cost grants.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 458cc, 2502, 2503, 2507 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

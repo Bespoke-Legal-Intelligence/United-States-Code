@@ -10,7 +10,7 @@ Subsection (a) of this section shall not apply with respect to a voter registere
 
 #### (c) Revision of official post card form
 
-The Presidential designee shall revise the official post card form (prescribed under section1973ff of this title) to enable a voter using the form to—
+The Presidential designee shall revise the official post card form (prescribed under section 1973ff of this title) to enable a voter using the form to—
 
 &emsp;(1) request an absentee ballot for each election for Federal office held in a State during a year; or
 
@@ -36,9 +36,5 @@ Subsec. (e). Pub. L. 107–252, §706(a), added subsec. (e).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–252, title VII, §706(b), Oct. 29, 2002, 116 Stat. 1725, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to elections for Federal office that occur after January 1, 2004.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1973ff of this title.
+Pub. L. 107–252, title VII, §706(b), Oct. 29, 2002, 116 Stat. 1725, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply withrespect to elections for Federal office that occur after January 1, 2004.”
 

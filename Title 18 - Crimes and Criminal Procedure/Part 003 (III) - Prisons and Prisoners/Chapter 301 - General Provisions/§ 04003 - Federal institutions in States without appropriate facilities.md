@@ -14,7 +14,3 @@ The phrase “held under authority of any Act of Congress,” was substituted fo
 
 Minor changes in arrangement and phraseology were made.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4009 of this title.
-

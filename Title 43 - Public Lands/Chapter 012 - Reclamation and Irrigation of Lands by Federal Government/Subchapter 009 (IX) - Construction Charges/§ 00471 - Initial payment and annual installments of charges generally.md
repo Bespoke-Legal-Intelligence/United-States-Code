@@ -8,7 +8,3 @@ Any entryman or applicant shall at the time of making water-right application or
 
 Section comprises part of section 1 of act Aug. 13, 1914. Remainder of section 1 is set out as section 472 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 475, 511 of this title.
-

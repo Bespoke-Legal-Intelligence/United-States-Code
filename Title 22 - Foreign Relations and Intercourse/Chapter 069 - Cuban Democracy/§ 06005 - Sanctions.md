@@ -14,7 +14,7 @@
 
 #### (1) Vessels engaging in trade
 
-&emsp;Beginning on the 61st day after October 23, 1992, a vessel which enters a port or place in Cuba to engage in the trade of goods or services may not, within 180 days after departure from such port or place in Cuba, load or unload any freight at any place in the United States, except pursuant to a license issued by the Secretary of the Treasury.
+&emsp;Beginning on the 61st day after October 23, 1992, a vessel which enters a port or place inCuba to engage in the trade of goods or services may not, within 180 days after departure from such port or place in Cuba, load or unload any freight at any place in the United States, except pursuant to a license issued by the Secretary of the Treasury.
 
 #### (2) Vessels carrying goods or passengers to or from Cuba
 
@@ -47,8 +47,4 @@ The prohibitions contained in subsections (a), (b), and (c) of this section shal
 #### Repeal of Section
 
 <i>Pub. L. 104–114, title II, §204(d)(3), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, this section is repealed.</i>
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6007, 6064 of this title.
 

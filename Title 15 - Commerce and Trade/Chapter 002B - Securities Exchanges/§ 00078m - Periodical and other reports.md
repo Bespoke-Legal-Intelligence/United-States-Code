@@ -2,7 +2,7 @@
 
 #### (a) Reports by issuer of security; contents
 
-Every issuer of a security registered pursuant to section 78<i>l</i> of this title shall file with the Commission, in accordance with such rules andregulations as the Commission may prescribe as necessary or appropriate for the proper protection of investors and to insure fair dealing in the security—
+Every issuer of a security registered pursuant to section 78<i>l</i> of this title shall file with the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate for the proper protection of investors and to insure fair dealing in the security—
 
 &emsp;(1) such information and documents (and such copies thereof) as the Commission shall require to keep reasonably current the information and documents required to be included in or filed with an application or registration statement filed pursuant to section 78<i>l</i> of this title, except that the Commission may not require the filing of any material contract wholly executed before July 1, 1962.
 
@@ -44,7 +44,7 @@ Every issuer of a security registered pursuant to section 78<i>l</i> of this tit
 
 #### (c) Alternative reports
 
-If in the judgment of the Commission any report required under subsection (a) of this section is inapplicable to any specified class or classes of issuers, the Commission shall require in lieu thereof the submission of such reports of comparable character as it may deem applicable to such class or classes of issuers.
+If in the judgment of the Commission any report required under subsection (a) of this sectionis inapplicable to any specified class or classes of issuers, the Commission shall require in lieu thereof the submission of such reports of comparable character as it may deem applicable to such class or classes of issuers.
 
 #### (d) Reports by persons acquiring more than five per centum of certain classes of securities
 
@@ -76,7 +76,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 &emsp;(C) any acquisition of an equity security by the issuer of such security;
 
-&emsp;(D) any acquisition or proposed acquisition of a security which the Commission, by rulesor regulations or by order, shall exempt from the provisions of this subsection as not entered into for the purpose of, and not having the effect of, changing or influencing the control of the issuer or otherwise as not comprehended within the purposes of this subsection.
+&emsp;(D) any acquisition or proposed acquisition of a security which the Commission, by rules or regulations or by order, shall exempt from the provisions of this subsection as not entered into for the purpose of, and not having the effect of, changing or influencing the control of the issuer or otherwise as not comprehended within the purposes of this subsection.
 
 #### (e) Purchase of securities by issuer
 
@@ -128,7 +128,7 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 #### (f) Reports by institutional investment managers
 
-(1) Every institutional investment manager which uses the mails, or any means or instrumentality of interstate commerce in the course of its business as an institutional investment manager and which exercises investment discretion with respect to accounts holding equity securities of a class described in subsection (d)(1) of this section having an aggregate fair market value on the last trading day in any of the preceding twelve months of at least $100,000,000 or such lesser amount (but in no case less than $10,000,000) as the Commission, by rule, may determine, shall file reports with the Commission in such form, for such periods, and at such times after the end of such periods as the Commission, by rule, may prescribe, but in no event shall such reports be filed for periods longer than one year or shorter than one quarter. Such reports shall include for each such equity security held on the last day of the reporting period by accounts (in aggregate or by type as the Commission, by rule, may prescribe) with respect to which the institutional investment manager exercises investment discretion (other than securities held in amounts which the Commission, by rule, determines to be insignificant for purposes of this subsection), the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair market value of each such security. Such reports may also include for accounts (in aggregate or by type) with respect to which the institutional investment manager exercises investment discretion such of the following information as the Commission, by rule, prescribes—
+(1) Every institutional investment manager which uses the mails, or any means or instrumentality of interstate commerce in the course of its business as an institutional investment manager and which exercises investment discretion with respect to accounts holding equity securities of a class described in subsection (d)(1) of this section having an aggregate fair market value on the last trading day in any of the preceding twelve months of at least $100,000,000 or such lesser amount (but in no case less than $10,000,000) as the Commission, by rule, may determine, shall file reports with the Commission in such form, for such periods, and at such times after the end of such periods as the Commission, by rule, may prescribe, but in no event shall such reports be filed for periods longer than oneyear or shorter than one quarter. Such reports shall include for each such equity security held on the last day of the reporting period by accounts (in aggregate or by type as the Commission, by rule, may prescribe) with respect to which the institutional investment manager exercises investment discretion (other than securities held in amounts which the Commission, by rule, determines to be insignificant for purposes of this subsection), the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair market value of each such security. Such reports may also include for accounts (in aggregate or by type) with respect to which the institutional investment manager exercises investment discretion such of the following information as the Commission, by rule, prescribes—
 
 &emsp;(A) the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair market value or cost or amortized cost of each other security (other than an exempted security) held on the last day of the reporting period by such accounts;
 
@@ -256,7 +256,7 @@ Not later than 180 days after July 30, 2002, the Commission shall issue final ru
 
 #### (2) Limitation
 
-&emsp;Paragraph (1) does not preclude any home improvement and manufactured home loans (as that term is defined in section 1464 of title 12), consumer credit (as defined in section 1602 of this title), or any extension of credit under an open end credit plan (as defined in section 1602 of this title), or a charge card (as defined in section 1637(c)(4)(e) of this title), or any extension of credit by a broker or dealer registered under section 78<i>o</i> of this title to an employee of that broker or dealer to buy, trade, or carry securities, that is permitted under rules or regulations of the Board of Governors of the Federal Reserve System pursuant to section 78g of this title (other than an extension of credit that would be used to purchase the stock of that issuer), that is—
+&emsp;Paragraph (1) does not preclude any home improvement and manufactured home loans\(as that term is defined in section 1464 of title 12), consumer credit (as defined in section 1602 of this title), or any extension of credit under an open end credit plan (as defined in section 1602 of this title), or a charge card (as defined in section 1637(c)(4)(e) of this title), or any extension of credit by a broker or dealer registered under section 78<i>o</i> of this title to an employee of that broker or dealer to buy, trade, or carry securities, that is permitted under rules or regulations of the Board of Governors of the Federal Reserve System pursuant to section 78g of this title (other than an extension of credit that would be used to purchase the stock of that issuer), that is—
 
 &emsp;&emsp;(A) made or provided in the ordinary course of the consumer credit business of such issuer;
 
@@ -330,7 +330,7 @@ Subsec. (e)(2). Pub. L. 91–567, §2, inserted provisions empowering the Commis
 
 1968—Subsecs. (d), (e). Pub. L. 90–439 added subsecs. (d) and (e).
 
-1964—Subsec. (a). Pub. L. 88–467 substituted provisions which require the issuer of a security registered pursuant to section 78<i>l</i> of this title to file reports with the Commission rather than with the exchange and to furnish the exchange with duplicate originals and prohibit the Commission from requiring the filing of any material contract wholly executed before July 1, 1962 for former provisions which required the issuer of a security registered on a national securities exchange to file certain reports with the exchange and to file duplicates with the Commission.
+1964—Subsec. (a). Pub. L. 88–467 substituted provisions which require the issuer of a security registeredpursuant to section 78<i>l</i> of this title to file reports with the Commission rather than with the exchange and to furnish the exchange with duplicate originals and prohibit the Commission from requiring the filing of any material contract wholly executed before July 1, 1962 for former provisions which required the issuer of a security registered on a national securities exchange to file certain reports with the exchange and to file duplicates with the Commission.
 
 #### Effective Date of 2002 Amendment
 
@@ -363,10 +363,6 @@ In General.—The Securities and Exchange Commission shall consult and coordinat
 “(b)
 
 Definitions.—For purposes of subsection (a), the terms ‘insured depository institution’, ‘depository institution holding company’, and ‘appropriate Federal banking agency’ have the same meaning as given in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77f, 77r, 77s, 77z–2, 77nnn, 78c, 78j–1, 78<i>l</i>, 78n, 78<i>o</i>, 78u–5, 78w, 78hh, 80a–8, 80a–29, 80a–54, 80a–63, 773, 7201, 7241, 7261, 7262, 7264, 7265, 7266 of this title; title 7 section 12a; title 11 section 1145; title 12 section 1817; title 16 section 824c; title 18 section 1350; title 22 section 2197; title 26 sections 162, 952, 964; title 29 section 1343; title 43 section 1629c.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “account.”</i>
 

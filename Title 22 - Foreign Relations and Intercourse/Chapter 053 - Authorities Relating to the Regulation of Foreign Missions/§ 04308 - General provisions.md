@@ -18,7 +18,7 @@ For purposes of administering this chapter—
 
 #### (d) Contracts and subcontracts for supplies and services; advertisement; factors considered
 
-Contracts and subcontracts for supplies or services, including personal services, made by or on behalf of the Secretary shall be made after advertising, in such manner and at such times as the Secretary shall determine to be adequate to ensure notice and opportunity for competition, except that advertisement shall not be required when (1) the Secretary determines that it is impracticable or will not permit timely performance to obtain bids by advertising, or (2) the aggregate amount involved in a purchase of supplies or procurement of services does not exceed $10,000. Such contracts and subcontracts may be entered into without regard to laws and regulations otherwise applicable to solicitation, negotiation, administration, and performance ofgovernment contracts. In awarding contracts, the Secretary may consider such factors as relative quality and availability of supplies or services and the compatibility of the supplies or services with implementation of this chapter.
+Contracts and subcontracts for supplies or services, including personal services, made by or on behalf of the Secretary shall be made after advertising, in such manner and at such times as the Secretary shall determine to be adequate to ensure notice and opportunity for competition, except that advertisement shall not be required when (1) the Secretary determines that it is impracticable or will not permit timely performance to obtain bids by advertising, or (2) the aggregate amount involved in a purchase of supplies or procurement of services does not exceed $10,000. Such contracts and subcontracts may be entered into without regard to laws and regulations otherwise applicable to solicitation, negotiation, administration, and performance of government contracts. In awarding contracts, the Secretary may consider such factors as relative quality and availability of supplies or services and the compatibility of the supplies or services with implementation of this chapter.
 
 #### (e) Transfer or loan of property to or from Department of State
 
@@ -59,8 +59,4 @@ Subsec. (h)(2). Pub. L. 103–236, §162(<i>o</i>)(6)(C), struck out “Director
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4304, 4314 of this title; title 28 section 1610.
 

@@ -4,7 +4,3 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (June 29, 1936, ch. 863, §4, 49 Stat. 2029.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 433n of this title.
-

@@ -4,7 +4,3 @@ A unit of general local government expending payments under this part shall hold
 
 (Pub. L. 103–322, title III, §30206, Sept. 13, 1994, 108 Stat. 1843.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

@@ -4,7 +4,7 @@
 
 #### (1) Requirements
 
-&emsp;Payment of a trade adjustment allowance shall be made to an adversely affected agricultural commodity producer covered by a certification under this part who files an application for such allowance within 90 days after the date on which the Secretary makes a determination and issues a certification of eligibility under section 2401b of this title, if the following conditions are met:
+&emsp;Payment of a <sup>1</sup> adjustment assistance under this part shall be made to an adversely affected agricultural commodity producer covered by a certification under this part who files an application for such assistance within 90 days after the date on which the Secretary makes a determination and issues a certification of eligibility under section 2401b of this title, if the following conditions are met:
 
 &emsp;&emsp;(A) The producer submits to the Secretary sufficient information to establish the amount of agricultural commodity covered by the application filed under this subsection that was produced by the producer in the most recent year.
 
@@ -28,7 +28,7 @@
 
 #### (ii) Certification
 
-&emsp;&emsp;&emsp;To comply with the limitation under subparagraph (A),<sup>1</sup> an individual or entity shall provide to the Secretary—
+&emsp;&emsp;&emsp;To comply with the limitation under subparagraph (A),<sup>2</sup> an individual or entity shall provide to the Secretary—
 
 &emsp;&emsp;&emsp;&emsp;(I) a certification by a certified public accountant or another third party that is acceptable to the Secretary that the average adjusted gross income of the producer does not exceed the level set forth in section 1308–3a of title 7; or
 
@@ -76,7 +76,7 @@
 
 #### (2) Special rule for subsequent qualified years
 
-&emsp;The amount of cash benefits for a qualified year shall be determined in the same manner as cash benefits are determined under paragraph (1) except that the average national price of the agricultural commodity shall be determined under paragraph (1)(A)(i) by using the 5-marketing-year period used to determine the amount of cash benefits for the first certification.
+&emsp;The amount of cash benefits for a qualified year shall be determined in the same manner as cash benefits are determined under paragraph (1), except that the average national price of the agricultural commodity shall be determined under paragraph (1)(A)(i) by using the 5-marketing-year period used to determine the amount of cash benefits for the first certification.
 
 #### (c) Maximum amount of cash assistance
 
@@ -90,11 +90,17 @@ An agricultural commodity producer entitled to receive a cash benefit under this
 
 &emsp;(2) shall be entitled to employment services and training benefits under sections 2295 to 2298 of this title.
 
-(Pub. L. 93–618, title II, §296, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 949.)
+(Pub. L. 93–618, title II, §296, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 949; amended Pub. L. 108–429, title II, §2004(a)(9), Dec. 3, 2004, 118 Stat. 2590.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 2401a of this title.
+2004—Subsec. (a)(1). Pub. L. 108–429, §2004(a)(9)(A)(i), substituted “adjustment assistance under this part” for “trade adjustment allowance” and “such assistance” for “such allowance” in introductory provisions.
 
-<i><sup>1</sup></i><i> So in original. Probably should be a reference to clause (i).</i>
+Subsec. (a)(1)(A). Pub. L. 108–429, §2004(a)(9)(A)(ii), made technical amendment to reference in original act which appears in text as reference to this subsection.
+
+Subsec. (b)(2). Pub. L. 108–429, §2004(a)(9)(B), substituted “paragraph (1), except” for “paragraph (1) except”.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be a reference to clause (i).</i>
 

@@ -50,7 +50,3 @@ Par. (2). Pub. L. 98–353, §460(3), substituted “at the time of the commence
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 303, 349, 502, 522, 546, 547, 548, 550, 551, 552, 749, 764, 901, 926 of this title; title 26 sections 6327, 7437.
-

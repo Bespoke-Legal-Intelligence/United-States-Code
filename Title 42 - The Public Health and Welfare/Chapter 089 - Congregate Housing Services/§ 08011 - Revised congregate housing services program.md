@@ -232,7 +232,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 &emsp;(7) a description of any fees that would be established pursuant to subsection (d) of this section; and
 
-&emsp;(8) such other information or certifications that the Secretary determines to be necessaryor appropriate to achieve the purposes of this section.
+&emsp;(8) such other information or certifications that the Secretary determines to be necessary or appropriate to achieve the purposes of this section.
 
 > The Secretary shall act on each application within 60 days of its submission.
 
@@ -242,7 +242,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 &emsp;Each Secretary concerned shall establish criteria for selecting States, Indian tribes, units of general local government, and local nonprofit housing sponsors to receive assistance under this section, and shall select such entities to receive assistance. The criteria for selection shall include consideration of—
 
-&emsp;&emsp;(A) the extent to which the activities described in subsection (d)(3) of this section will foster independent living and the provision of such services;
+&emsp;&emsp;(A) the extent to which the activities described in subsection (d)(3) of this sectionwill foster independent living and the provision of such services;
 
 &emsp;&emsp;(B) the types and priorities of the basic services proposed to be provided, the appropriateness of the targeting of services, the methods of providing for deinstitutionalized older individuals and individuals with disabilities, and the relationship of the proposal to the needs and characteristics of the eligible residents of the projects where the services are to be provided;
 
@@ -288,7 +288,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (C) Eligible supplemental contributions
 
-&emsp;&emsp;If provided by the State, Indian tribe, unit of general local government, or local nonprofit housing sponsor, any salary paid to staff from governmental sources to carry out the program of the recipient and salary paid to residents employed by the program\(other than from amounts under a contract under subsection (b) of this section), and any other in-kind contributions from governmental sources shall be considered as supplemental contributions for purposes of meeting the supplemental contribution requirement under subparagraph (A)(i), except that the amount of in-kind contributions considered for purposes of fulfilling such contribution requirement may not exceed 10 percent of the total amount to be provided by the State, Indian tribe, local government, or local nonprofit housing sponsor.
+&emsp;&emsp;If provided by the State, Indian tribe, unit of general local government, or local nonprofit housing sponsor, any salary paid to staff from governmental sources to carry out the program of the recipient and salary paid to residents employed by the program (other than from amounts under a contract under subsection (b) of this section), and any other in-kind contributions from governmental sources shall be considered as supplemental contributions for purposes of meeting the supplemental contribution requirement under subparagraph (A)(i), except that the amount of in-kind contributions considered for purposes of fulfilling such contribution requirement may not exceed 10 percent of the total amount to be provided by the State, Indian tribe, local government, or local nonprofit housing sponsor.
 
 #### (D) Prohibition of substitution of funds
 
@@ -392,7 +392,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) means any city, town, township, county, parish, village, or other general purpose political subdivision of a State; and
 
-&emsp;&emsp;(B) includes a unit of general government acting as an applicant for assistance under this section in cooperation with a nonprofit housing sponsor and a nonprofit housing sponsor acting as an applicant for assistance under this section in cooperation with a unit of general local government, as provided under subsection (g)(1)(B) <sup>11</sup> of this section.
+&emsp;&emsp;(B) includes a unit of general government acting as an applicant for assistance under this section in cooperation with a nonprofithousing sponsor and a nonprofit housing sponsor acting as an applicant for assistance under this section in cooperation with a unit of general local government, as provided under subsection (g)(1)(B) <sup>11</sup> of this section.
 
 #### (<i>l</i>) Reports to Congress
 
@@ -450,7 +450,7 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (k)(9), is Pub. 
 
 #### Codification
 
-Section was enacted as part of the Cranston-Gonzalez National Affordable Housing Act, and not as part of the Congregate Housing Services Act of 1978 which comprises this chapter.
+Section was enacted as part of the Cranston-Gonzalez National Affordable Housing Act, and not as part of theCongregate Housing Services Act of 1978 which comprises this chapter.
 
 Section is comprised of section 802 of Pub. L. 101–625. Subsec. (p) of section 802 of Pub. L. 101–625 amended section 1437g of this title.
 
@@ -491,10 +491,6 @@ Failure under 1990 act.—This subsection may not be construed to authorize any 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1485, 13631 of this title; title 12 section 1715w.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section,”.</i>
 

@@ -66,7 +66,3 @@ Subsec. (b). Pub. L. 96–276, §3, extended membership on the Egg Board to two 
 
 Subsec. (e). Pub. L. 96–276, §4, substituted rate of assessment provisions prescribing for fiscal year 1981 a rate not exceeding 71/2 cents per case of commercial eggs or its equivalent, authorizing increases of three-quarters of a cent per case for each fiscal year thereafter, but limiting maximum rate to 10 cents per case for prior limitation of the rate of assessment to 5 cents per case.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2706, 2715 of this title.
-

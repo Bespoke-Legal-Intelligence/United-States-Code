@@ -74,17 +74,11 @@ The membership of the National Counterintelligence Policy Board shall consist of
 
 (5) Where essential to meet extraordinary circumstances affecting vital national security interests of the United States, the President may on a case-by-case basis waive the requirements of paragraph (1), (2), or (3), as they apply to the head of a particular department or agency, or the Director of the Federal Bureau of Investigation. Such waiver shall be in writing and shall fully state the justification for such waiver. Within thirty days, the President shall notify the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives that such waiver has been issued, and at that time or as soon as national security considerations permit, provide these committees with a complete explanation of the circumstances which necessitated such waiver.
 
-(6)(A) Not later each year than the date provided in section 415b of this title, the Director of the Federal Bureau of Investigation shall submit to the congressional intelligence committees (as defined in section 401a of this title) a report with respect to compliance with paragraphs (1) and (2) during the previous calendar year.
+(6) Nothing in this section may be construed to alter the existing jurisdictional arrangements between the Federal Bureau of Investigation and the Department of Defense with respect to investigations of persons subject to the Uniform Code of Military Justice, nor to impose additional reporting requirements upon the Department of Defense with respect to such investigations beyond those required by existing law and executive branch policy.
 
-(B) Not later than February 1 each year, the Director shall, in accordance with applicable security procedures, submit to the Committees on the Judiciary of the Senate and House of Representatives a report with respect to compliance with paragraphs (1) and (2) during the previous calendar year.
+(7) As used in this section, the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections <sup>1</sup> 1801(a) and (b), respectively, of this title.
 
-(C) The Director of the Federal Bureau of Investigation shall submit each report under this paragraph in consultation with the Director of Central Intelligence and the Secretary of Defense.
-
-(7) Nothing in this section may be construed to alter the existing jurisdictional arrangements between the Federal Bureau of Investigation and the Department of Defense with respect to investigations of persons subject to the Uniform Code of Military Justice, nor to impose additional reporting requirements upon the Department of Defense with respect to such investigations beyond those required by existing law and executive branch policy.
-
-(8) As used in this section, the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections <sup>1</sup> 1801(a) and (b), respectively, of this title.
-
-(Pub. L. 103–359, title VIII, §811, Oct. 14, 1994, 108 Stat. 3455; Pub. L. 106–120, title VI, §602, Dec. 3, 1999, 113 Stat. 1620; Pub. L. 106–567, title VI, §605, Dec. 27, 2000, 114 Stat. 2853; Pub. L. 107–306, title VIII, §811(b)(5)(B), title IX, §903, Nov. 27, 2002, 116 Stat. 2424, 2433.)
+(Pub. L. 103–359, title VIII, §811, Oct. 14, 1994, 108 Stat. 3455; Pub. L. 106–120, title VI, §602, Dec. 3, 1999, 113 Stat. 1620; Pub. L. 106–567, title VI, §605, Dec. 27, 2000, 114 Stat. 2853; Pub. L. 107–306, title VIII, §811(b)(5)(B), title IX, §903, Nov. 27, 2002, 116 Stat. 2424, 2433; Pub. L. 108–177, title III, §361(g), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 108–458, title I, §1071(g)(1), Dec. 17, 2004, 118 Stat. 3691.)
 
 #### References in Text
 
@@ -96,6 +90,16 @@ Section was enacted as part of the Counterintelligence and Security Enhancements
 
 #### Amendments
 
+2004—Subsec. (c)(6)(C). Pub. L. 108–458, which directed amendment of subsec. (c)(6)(C) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, could not be executed because of the amendments by Pub. L. 107–306, §903(a)(2), and Pub. L. 108–177. See 2002 and 2003 Amendment notes below.
+
+2003—Subsec. (e). Pub. L. 108–177, which directed the amendment of subsec. (c) by redesignating pars. (7) and (8) as (6) and (7), respectively, and striking out former par. (6), was executed by making the amendment to subsec. (e) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (e) by Pub. L. 107–306, §903(a)(2), see below. Prior to amendment, par. (6) read as follows:
+
+“(6)(A) Not later each year than the date provided in section 415b of this title, the Director of the Federal Bureau of Investigation shall submit to the congressional intelligence committees (as defined in section 401a of this title) a report with respect to compliance with paragraphs (1) and (2) during the previous calendar year.
+
+“(B) Not later than February 1 each year, the Director shall, in accordance with applicable security procedures, submit to the Committees on the Judiciary of the Senate and House of Representatives a report with respect to compliance with paragraphs (1) and (2) during the previous calendar year.
+
+“(C) The Director of the Federal Bureau of Investigation shall submit each report under this paragraph in consultation with the Director of Central Intelligence and the Secretary of Defense.”
+
 2002—Subsec. (b). Pub. L. 107–306, §903(a)(1), (3), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Board shall serve as the principal mechanism for—
 
 &emsp;“(1) developing policies and procedures for the approval of the President to govern the conduct of counterintelligence activities; and
@@ -104,7 +108,7 @@ Section was enacted as part of the Counterintelligence and Security Enhancements
 
 Subsec. (c). Pub. L. 107–306, §903(b), added subsec. (c). Former subsec. (c) redesignated (e).
 
-Subsec. (c)(6). Pub. L. 107–306, §811(b)(5)(B), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Director of the Federal Bureau of Investigation shall, in consultation with the Director of Central Intelligence and the Secretary of Defense, reportannually, beginning on February 1, 1995, and continuing each year thereafter, to the Select Committee on Intelligence of the Senate and to the Permanent Select Committee on Intelligence of the House of Representatives and, in accordance with applicable security procedures, the Committees on the Judiciary of the House of Representatives and the Senate with respect to compliance with paragraphs (1) and (2) during the previous calendar year.”
+Subsec. (c)(6). Pub. L. 107–306, §811(b)(5)(B), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Director of the Federal Bureau of Investigation shall, in consultation with the Director of Central Intelligence and the Secretary of Defense, report annually, beginning on February 1, 1995, and continuing each year thereafter, to the Select Committee on Intelligence of the Senate and to the Permanent Select Committee on Intelligence of the House of Representatives and, in accordance with applicable security procedures, the Committees on the Judiciary of the House of Representatives and the Senate with respect to compliance with paragraphs (1) and (2) during the previous calendar year.”
 
 Subsec. (d). Pub. L. 107–306, §903(c), added subsec. (d).
 
@@ -124,25 +128,17 @@ Subsec. (c)(6) to (8). Pub. L. 106–567, §605(a)(2), redesignated pars. (4) to
 
 1999—Subsec. (c)(2). Pub. L. 106–120 struck out “after a report has been provided pursuant to paragraph (1)(A)” before period at end.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–177 effective Dec. 31, 2003, see section 361(n) of Pub. L. 108–177, set out as a note under section 1611 of Title 10, Armed Forces.
+
 #### Annual Reports on Intelligence Activities of the People's Republic of China
 
-Pub. L. 105–107, title III, §308, Nov. 20, 1997, 111 Stat. 2253, as amended by Pub. L. 107–306, title VIII, §811(b)(5)(D), Nov. 27, 2002, 116 Stat. 2424, provided that:
-
-“(a)
-
-Report to Congress.—The Director of Central Intelligence and the Director of the Federal Bureau of Investigation, jointly and in consultation with the heads of other appropriate Federal agencies, including the National Security Agency and the Departments of Defense, Justice, Treasury, and State, shall prepare and transmit to Congress on an annual basis a report on intelligence activities of the People's Republic of China directed against or affecting the interests of the United States.
-
-“(b)
-
-Delivery of Report.—The Director of Central Intelligence and the Director of the Federal Bureau of Investigation shall jointly transmit classified and unclassified versions of the report to the Speaker and Minority leader of the House of Representatives, the Majority and Minority leaders of the Senate, the Chairman and Ranking Member of the Permanent Select Committee on Intelligence of the House of Representatives, and the Chairman and Vice-Chairman of the Select Committee on Intelligence of the Senate.
-
-“(c)
-
-Submittal Date of Report to Leadership of Congressional Intelligence Committees.—The date each year for the submittal to the Chairman and Ranking Member of the Permanent Select Committee on Intelligence of the House of Representatives and the Chairman and Vice Chairman of the Select Committee on Intelligence of the Senate of the report required by subsection (a) shall be the date provided in section 507 of the National Security Act of 1947 \[50 U.S.C. 415b\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 402b, 415b of this title.
+Pub. L. 105–107, title III, §308, Nov. 20, 1997, 111 Stat. 2253, as amended by Pub. L. 107–306, title VIII, §811(b)(5)(D), Nov. 27, 2002, 116 Stat. 2424, related to annual reports to Congress by the Director of Central Intelligence and the Director of the Federal Bureau of Investigation on intelligence activities of the People's Republic of China directed against or affecting the interests of the United States, prior to repeal by Pub. L. 108–177, title III, §361(f), Dec. 13, 2003, 117 Stat. 2625.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

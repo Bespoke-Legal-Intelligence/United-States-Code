@@ -98,6 +98,14 @@
 | (c) | Deposit. |
 | (d) | “Head of the employing office” defined. |
 | (e) | Applicability. |
+| [60q.](%C2%A7%2000060q%20-%20Voluntary%20separation%20incentive%20payments.md) | Voluntary separation incentive payments. |
+| (a) | Authority to offer payments. |
+| (b) | Amount and administration of payments. |
+| (c) | Plan. |
+| (d) | Exclusion of certain offices. |
+| (e) | Eligible employee defined. |
+| (f) | Repayment for individuals returning to Government employment. |
+| (g) | Effective date. |
 | [61\.](%C2%A7%2000061%20-%20Limit%20on%20rate%20of%20compensation%20of%20Senate%20officers%20and%20employees.md) | Limit on rate of compensation of Senate officers and employees. |
 | 61–1. | Gross rate of compensation of employees paid by Secretary of Senate. |
 | (a) | Annual rate; certification. |
@@ -127,11 +135,11 @@
 | [61d.](%C2%A7%2000061d%20-%20Compensation%20of%20Chaplain%20of%20Senate.md) | Compensation of Chaplain of Senate. |
 | 61d–1. | Compensation of employees of Chaplain of Senate. |
 | 61d–2. | Postage allowance for Chaplain of Senate. |
-| 61d–3. | Office of the Chaplain Expense Revolving Fund. |
-| (a) | Establishment. |
-| (b) | Disbursements. |
-| (c) | Deposits. |
-| (d) | Vouchers. |
+| 61d–3. | Repealed. |
+| 61d–4 | Payment of expenses of the Chaplain of the Senate from the contingent fund of the Senate. |
+| (a) | In general. |
+| (b) | Repeal of Revolving Fund. |
+| (c) | Effective date. |
 | [61e.](%C2%A7%2000061e%20-%20Compensation%20of%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate.md) | Compensation of Sergeant at Arms and Doorkeeper of Senate. |
 | 61e–1. | Compensation of Deputy Sergeant at Arms and Doorkeeper of Senate. |
 | 61e–2. | Compensation of Administrative Assistant to Sergeant at Arms and Doorkeeper of Senate. |
@@ -255,7 +263,7 @@
 | (2) | Certification; professional staff privileges. |
 | (3) | Termination. |
 | 72a–1f. | Designation by Senator who is Chairman or Vice Chairman of Senate Select Committee on Ethics of employee in office of that Senator to perform part-time service for Committee; amount reimbursable; procedure applicable. |
-| 72a–1g. | Referral of ethics violations by Senate Ethics Committee to General Accounting Office for investigation. |
+| 72a–1g. | Referral of ethics violations by Senate Ethics Committee to Government Accountability Office for investigation. |
 | 72a–2 to 72a–4. Omitted or Repealed. |  |
 | [72b.](%C2%A7%2000072b%20-%20Regulations%20governing%20availability%20of%20appropriations%20for%20House%20committee%20employees.md) | Regulations governing availability of appropriations for House committee employees. |
 | 72b–1, 72c. Omitted or Repealed. |  |
@@ -290,6 +298,10 @@
 | (b) | Official expenses. |
 | (c) | Applicability. |
 | 74a–12. | Lump sum allowance for Speaker. |
+| 74a–13. | Republican Policy Committee. |
+| (a) | In general. |
+| (b) | Salaries and expenses. |
+| (c) | Applicability. |
 | [74b.](%C2%A7%2000074b%20-%20Employment%20of%20additional%20administrative%20assistants.md) | Employment of additional administrative assistants. |
 | [74c.](%C2%A7%2000074c%20-%20Compensation%20of%20certain%20House%20minority%20employees.md) | Compensation of certain House minority employees. |
 | [74d.](%C2%A7%2000074d%20-%20Corrections%20Calendar%20Office.md) | Corrections Calendar Office. |
@@ -377,6 +389,10 @@
 | (a) | Establishment. |
 | (b) | Payments made from account. |
 | (c) | Category of allowances and expenses. |
+| [95e.](%C2%A7%2000095e%20-%20House%20of%20Representatives%20Revolving%20Fund.md) | House of Representatives Revolving Fund. |
+| (a) | Establishment. |
+| (b) | Expenditures. |
+| (c) | Applicability. |
 | 96 to 100. | Repealed. |
 | [101\.](%C2%A7%2000101%20-%20Subletting%20duties%20of%20employees%20of%20Senate%20or%20House.md) | Subletting duties of employees of Senate or House. |
 | [102\.](%C2%A7%2000102%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2852%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201737.md) | Repealed. |
@@ -390,6 +406,7 @@
 | (d) | House document. |
 | (e) | Conforming provision. |
 | (f) | Effective date. |
+| [104c.](%C2%A7%2000104c%20-%20Preservation%20of%20reports%2C%20statements%2C%20or%20documents%20filed%20with%20Clerk%20of%20House.md) | Preservation of reports, statements, or documents filed with Clerk of House. |
 | [105\.](%C2%A7%2000105%20-%20Preparation%20and%20contents%20of%20statement%20of%20appropriations.md) | Preparation and contents of statement of appropriations. |
 | [106\.](%C2%A7%2000106%20-%20Stationery%20for%20Senate%3B%20advertisements%20for.md) | Stationery for Senate; advertisements for. |
 | [107\.](%C2%A7%2000107%20-%20Opening%20bids%20for%20Senate%20and%20House%20stationery%3B%20awarding%20contracts.md) | Opening bids for Senate and House stationery; awarding contracts. |
@@ -411,7 +428,14 @@
 | (a) | Establishment. |
 | (b) | Use of funds. |
 | (c) | Treatment. |
-| (d) | Applicability. |
+| (d) | Applicability to fiscal years. |
+| (e) | Applicability to telecommunications equipment. |
+| [112h.](%C2%A7%2000112h%20-%20Net%20expenses%20of%20Telecommunications%20Revolving%20Fund.md) | Net expenses of Telecommunications Revolving Fund. |
+| (a) | Establishment. |
+| (b) | Use of amounts in Fund. |
+| (c) | Transfer authority. |
+| (d), | (e) Omitted. |
+| (f) | Applicability. |
 | [113\.](%C2%A7%2000113%20-%20Detailed%20reports%20of%20receipts%20and%20expenditures%20by%20Secretary%20of%20Senate%20and%20Chief%20Administrative%20Officer%20of%20House.md) | Detailed reports of receipts and expenditures by Secretary of Senate and Chief Administrative Officer of House. |
 | [114\.](%C2%A7%2000114%20-%20Fees%20for%20copies%20from%20Senate%20journals.md) | Fees for copies from Senate journals. |
 | [115\.](%C2%A7%2000115%20-%20Index%20to%20House%20daily%20calendar.md) | Index to House daily calendar. |
@@ -428,17 +452,31 @@
 | (e) | Effective date. |
 | [117c.](%C2%A7%2000117c%20-%20Disposal%20of%20used%20or%20surplus%20automobiles%20and%20trucks%20by%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%3B%20procedure%3B%20deposit%20of%20receipts.md) | Disposal of used or surplus automobiles and trucks by Sergeant at Arms and Doorkeeper of Senate; procedure; deposit of receipts. |
 | [117d.](%C2%A7%2000117d%20-%20Reimbursements%20to%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%20for%20equipment%20provided%20to%20Senators%2C%20etc.%2C%20which%20has%20been%20lost%2C%20stolen%E2%80%A6.md) | Reimbursements to Sergeant at Arms and Doorkeeper of Senate for equipment provided to Senators, etc., which has been lost, stolen, damaged, or otherwise unaccounted for; deposit of receipts. |
+| 117d–1. | Compensation for lost or damaged property. |
+| (a) | In general. |
+| (b) | Availability. |
+| (c) | Effective date. |
 | [117e.](%C2%A7%2000117e%20-%20Disposal%20of%20used%20or%20surplus%20furniture%20and%20equipment%20by%20Chief%20Administrative%20Officer%20of%20House%3B%20procedure%3B%20deposit%20of%20receipts.md) | Disposal of used or surplus furniture and equipment by Chief Administrative Officer of House; procedure; deposit of receipts. |
 | [117f.](%C2%A7%2000117f%20-%20Commissions%20and%20charges%20for%20public%20telephone%20or%20telecommunications%20services%3B%20deposit%20of%20receipts.md) | Commissions and charges for public telephone or telecommunications services; deposit of receipts. |
 | (a) | Authority of Chief Administrative Officer to receive commissions for providing public telephone service in House occupied areas. |
-| (b) | Authority of Chief Administrative Officer to receive legislative branch charges for provision of telephone or telecommunications services; exception. |
-| (c) | Deposit of receipts; availability for expenditure. |
+| (b) | Deposit of receipts; availability for expenditure. |
 | [117g.](%C2%A7%2000117g%20-%20Monies%20received%20by%20Attending%20Physician%20from%20sale%20of%20prescription%20drugs%20or%20other%20sources%3B%20deposit%20of%20receipts.md) | Monies received by Attending Physician from sale of prescription drugs or other sources; deposit of receipts. |
 | [117h.](%C2%A7%2000117h%20-%20Deposit%20of%20fees%20for%20services%20by%20Office%20of%20Attending%20Physician%3B%20availability%20of%20amounts%20deposited.md) | Deposit of fees for services by Office of Attending Physician; availability of amounts deposited. |
 | [117i.](%C2%A7%2000117i%20-%20Revolving%20fund%20for%20House%20gymnasium%3B%20deposit%20of%20receipts%3B%20availability%20for%20expenditure.md) | Revolving fund for House gymnasium; deposit of receipts; availability for expenditure. |
 | [117j.](%C2%A7%2000117j%20-%20Fees%20for%20internal%20delivery%20in%20House%20of%20Representatives%20of%20nonpostage%20mail%20from%20outside%20sources.md) | Fees for internal delivery in House of Representatives of nonpostage mail from outside sources. |
+| 117j–1. | Regulations for safe handling of mail matter. |
+| (a) | In general. |
+| (b) | Civil or criminal liability. |
+| (c) | Definition. |
+| (d) | Effective date. |
 | [117k.](%C2%A7%2000117k%20-%20Rebates%20under%20Government%20Travel%20Charge%20Card%20Program.md) | Rebates under Government Travel Charge Card Program. |
 | 117(<i>l</i>). | Deposit of House Information Resources reimbursements for services. |
+| [117m.](%C2%A7%2000117m%20-%20House%20Services%20Revolving%20Fund.md) | House Services Revolving Fund. |
+| (a) | Establishment of House Services Revolving Fund. |
+| (b) | Use of amounts in Fund. |
+| (c) | Transfer authority. |
+| (d) | Termination and transfer of existing funds and accounts. |
+| (e) | Effective date. |
 | [118\.](%C2%A7%2000118%20-%20Actions%20against%20officers%20for%20official%20acts.md) | Actions against officers for official acts. |
 | [118a.](%C2%A7%2000118a%20-%20Officers%20of%20Senate.md) | Officers of Senate. |
 | [119\.](%C2%A7%2000119%20-%20Stationery%20rooms%20of%20House%20and%20Senate%3B%20specification%20of%20classes%20of%20articles%20purchasable.md) | Stationery rooms of House and Senate; specification of classes of articles purchasable. |
@@ -488,6 +526,10 @@
 | (c) | Availability of funds. |
 | (d) | Withdrawal of excess amounts. |
 | (e) | Regulations. |
+| [121g](%C2%A7%2000121g%20-%20Authority%20of%20Attending%20Physician%20in%20response%20to%20medical%20contingencies%20or%20public%20health%20emergencies%20at%20Capitol.md) | Authority of Attending Physician in response to medical contingencies or public health emergencies at Capitol. |
+| (a) | In general. |
+| (b) | Definitions. |
+| (c) | Effective date. |
 | 122 to 123a. Repealed or Omitted. |  |
 | [123b.](%C2%A7%2000123b%20-%20House%20Recording%20Studio%3B%20Senate%20Recording%20Studio%20and%20Senate%20Photographic%20Studio.md) | House Recording Studio; Senate Recording Studio and Senate Photographic Studio. |
 | (a) | Establishment. |
@@ -640,6 +682,7 @@
 - [&sect; 00060m, 60n - Repealed. Pub. L. 104&#8211;1, title V, &sect;504(b), Jan. 23, 1995, 109 Stat. 41](%C2%A7%2000060m%2C%2060n%20-%20Repealed.%20Pub.%20L.%20104%E2%80%931%2C%20title%20V%2C%20%C2%A7504%28b%29%2C%20Jan.%2023%2C%201995%2C%20109%20Stat.%2041.md)
 - [&sect; 00060o - Lump sum payment for accrued annual leave of House employees](%C2%A7%2000060o%20-%20Lump%20sum%20payment%20for%20accrued%20annual%20leave%20of%20House%20employees.md)
 - [&sect; 00060p - Payment for unaccrued leave](%C2%A7%2000060p%20-%20Payment%20for%20unaccrued%20leave.md)
+- [&sect; 00060q - Voluntary separation incentive payments](%C2%A7%2000060q%20-%20Voluntary%20separation%20incentive%20payments.md)
 - [&sect; 00061 - Limit on rate of compensation of Senate officers and employees](%C2%A7%2000061%20-%20Limit%20on%20rate%20of%20compensation%20of%20Senate%20officers%20and%20employees.md)
 - [&sect; 00061&#8211;1 - Gross rate of compensation of employees paid by Secretary of Senate](%C2%A7%2000061%E2%80%931%20-%20Gross%20rate%20of%20compensation%20of%20employees%20paid%20by%20Secretary%20of%20Senate.md)
 - [&sect; 00061&#8211;1a - Availability of appropriated funds for payment to an individual of pay from more than one position; conditions](%C2%A7%2000061%E2%80%931a%20-%20Availability%20of%20appropriated%20funds%20for%20payment%20to%20an%20individual%20of%20pay%20from%20more%20than%20one%20position%3B%20conditions.md)
@@ -666,7 +709,8 @@
 - [&sect; 00061d - Compensation of Chaplain of Senate](%C2%A7%2000061d%20-%20Compensation%20of%20Chaplain%20of%20Senate.md)
 - [&sect; 00061d&#8211;1 - Compensation of employees of Chaplain of Senate](%C2%A7%2000061d%E2%80%931%20-%20Compensation%20of%20employees%20of%20Chaplain%20of%20Senate.md)
 - [&sect; 00061d&#8211;2 - Postage allowance for Chaplain of Senate](%C2%A7%2000061d%E2%80%932%20-%20Postage%20allowance%20for%20Chaplain%20of%20Senate.md)
-- [&sect; 00061d&#8211;3 - Office of the Chaplain Expense Revolving Fund](%C2%A7%2000061d%E2%80%933%20-%20Office%20of%20the%20Chaplain%20Expense%20Revolving%20Fund.md)
+- [&sect; 00061d&#8211;3 - Repealed. Pub. L. 108&#8211;199, div. H, &sect;155(b)(1), Jan. 23, 2004, 118 Stat. 450](%C2%A7%2000061d%E2%80%933%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93199%2C%20div.%20H%2C%20%C2%A7155%28b%29%281%29%2C%20Jan.%2023%2C%202004%2C%20118%20Stat.%20450.md)
+- [&sect; 00061d&#8211;4 - Payment of expenses of the Chaplain of the Senate from the contingent fund of the Senate](%C2%A7%2000061d%E2%80%934%20-%20Payment%20of%20expenses%20of%20the%20Chaplain%20of%20the%20Senate%20from%20the%20contingent%20fund%20of%20the%20Senate.md)
 - [&sect; 00061e - Compensation of Sergeant at Arms and Doorkeeper of Senate](%C2%A7%2000061e%20-%20Compensation%20of%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate.md)
 - [&sect; 00061e&#8211;1 - Compensation of Deputy Sergeant at Arms and Doorkeeper of Senate](%C2%A7%2000061e%E2%80%931%20-%20Compensation%20of%20Deputy%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate.md)
 - [&sect; 00061e&#8211;2 - Compensation of Administrative Assistant to Sergeant at Arms and Doorkeeper of Senate](%C2%A7%2000061e%E2%80%932%20-%20Compensation%20of%20Administrative%20Assistant%20to%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate.md)
@@ -747,7 +791,7 @@
 - [&sect; 00072a&#8211;1d - Repealed. Pub. L. 95&#8211;94, title I, &sect;111(e)(1), Aug. 5, 1977, 91 Stat. 663](%C2%A7%2000072a%E2%80%931d%20-%20Repealed.%20Pub.%20L.%2095%E2%80%9394%2C%20title%20I%2C%20%C2%A7111%28e%29%281%29%2C%20Aug.%205%2C%201977%2C%2091%20Stat.%20663.md)
 - [&sect; 00072a&#8211;1e - Assistance to Senators with committee memberships by employees in office of Senator](%C2%A7%2000072a%E2%80%931e%20-%20Assistance%20to%20Senators%20with%20committee%20memberships%20by%20employees%20in%20office%20of%20Senator.md)
 - [&sect; 00072a&#8211;1f - Designation by Senator who is Chairman or Vice Chairman of Senate Select Committee on Ethics of employee in office of that Senator&#8230;](%C2%A7%2000072a%E2%80%931f%20-%20Designation%20by%20Senator%20who%20is%20Chairman%20or%20Vice%20Chairman%20of%20Senate%20Select%20Committee%20on%20Ethics%20of%20employee%20in%20office%20of%20that%20Senator%E2%80%A6.md)
-- [&sect; 00072a&#8211;1g - Referral of ethics violations by Senate Ethics Committee to General Accounting Office for investigation](%C2%A7%2000072a%E2%80%931g%20-%20Referral%20of%20ethics%20violations%20by%20Senate%20Ethics%20Committee%20to%20General%20Accounting%20Office%20for%20investigation.md)
+- [&sect; 00072a&#8211;1g - Referral of ethics violations by Senate Ethics Committee to Government Accountability Office for investigation](%C2%A7%2000072a%E2%80%931g%20-%20Referral%20of%20ethics%20violations%20by%20Senate%20Ethics%20Committee%20to%20Government%20Accountability%20Office%20for%20investigation.md)
 - [&sect; 00072a&#8211;2, 72a&#8211;3 - Omitted](%C2%A7%2000072a%E2%80%932%2C%2072a%E2%80%933%20-%20Omitted.md)
 - [&sect; 00072a&#8211;4 - Repealed. Pub. L. 90&#8211;57, &sect;105(i)(1), July 28, 1967, 81 Stat. 144](%C2%A7%2000072a%E2%80%934%20-%20Repealed.%20Pub.%20L.%2090%E2%80%9357%2C%20%C2%A7105%28i%29%281%29%2C%20July%2028%2C%201967%2C%2081%20Stat.%20144.md)
 - [&sect; 00072b - Regulations governing availability of appropriations for House committee employees](%C2%A7%2000072b%20-%20Regulations%20governing%20availability%20of%20appropriations%20for%20House%20committee%20employees.md)
@@ -771,6 +815,7 @@
 - [&sect; 00074a&#8211;10 - Lump sum allowances for House Minority Leader and Majority Whip](%C2%A7%2000074a%E2%80%9310%20-%20Lump%20sum%20allowances%20for%20House%20Minority%20Leader%20and%20Majority%20Whip.md)
 - [&sect; 00074a&#8211;11 - Transfer of appropriations by House Leadership Offices](%C2%A7%2000074a%E2%80%9311%20-%20Transfer%20of%20appropriations%20by%20House%20Leadership%20Offices.md)
 - [&sect; 00074a&#8211;12 - Lump sum allowance for Speaker](%C2%A7%2000074a%E2%80%9312%20-%20Lump%20sum%20allowance%20for%20Speaker.md)
+- [&sect; 00074a&#8211;13 - Republican Policy Committee](%C2%A7%2000074a%E2%80%9313%20-%20Republican%20Policy%20Committee.md)
 - [&sect; 00074b - Employment of additional administrative assistants](%C2%A7%2000074b%20-%20Employment%20of%20additional%20administrative%20assistants.md)
 - [&sect; 00074c - Compensation of certain House minority employees](%C2%A7%2000074c%20-%20Compensation%20of%20certain%20House%20minority%20employees.md)
 - [&sect; 00074d - Corrections Calendar Office](%C2%A7%2000074d%20-%20Corrections%20Calendar%20Office.md)
@@ -834,6 +879,7 @@
 - [&sect; 00095b - Transfers of amounts appropriated for House](%C2%A7%2000095b%20-%20Transfers%20of%20amounts%20appropriated%20for%20House.md)
 - [&sect; 00095c - Advance payments](%C2%A7%2000095c%20-%20Advance%20payments.md)
 - [&sect; 00095d - Account in House of Representatives for Employees&#8217; Compensation Fund](%C2%A7%2000095d%20-%20Account%20in%20House%20of%20Representatives%20for%20Employees%E2%80%99%20Compensation%20Fund.md)
+- [&sect; 00095e - House of Representatives Revolving Fund](%C2%A7%2000095e%20-%20House%20of%20Representatives%20Revolving%20Fund.md)
 - [&sect; 00096 to 100 - Repealed. Pub. L. 104&#8211;186, title II, &sect;204(46)&#8211;(51), Aug. 20, 1996, 110 Stat. 1737](%C2%A7%2000096%20to%20100%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2846%29%E2%80%93%2851%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201737.md)
 - [&sect; 00101 - Subletting duties of employees of Senate or House](%C2%A7%2000101%20-%20Subletting%20duties%20of%20employees%20of%20Senate%20or%20House.md)
 - [&sect; 00102 - Repealed. Pub. L. 104&#8211;186, title II, &sect;204(52), Aug. 20, 1996, 110 Stat. 1737](%C2%A7%2000102%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2852%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201737.md)
@@ -841,6 +887,7 @@
 - [&sect; 00103, 104 - Omitted](%C2%A7%2000103%2C%20104%20-%20Omitted.md)
 - [&sect; 00104a - Semiannual statements of expenditures by Secretary of Senate and Chief Administrative Officer of House](%C2%A7%2000104a%20-%20Semiannual%20statements%20of%20expenditures%20by%20Secretary%20of%20Senate%20and%20Chief%20Administrative%20Officer%20of%20House.md)
 - [&sect; 00104b - Report of disbursements for House of Representatives](%C2%A7%2000104b%20-%20Report%20of%20disbursements%20for%20House%20of%20Representatives.md)
+- [&sect; 00104c - Preservation of reports, statements, or documents filed with Clerk of House](%C2%A7%2000104c%20-%20Preservation%20of%20reports%2C%20statements%2C%20or%20documents%20filed%20with%20Clerk%20of%20House.md)
 - [&sect; 00105 - Preparation and contents of statement of appropriations](%C2%A7%2000105%20-%20Preparation%20and%20contents%20of%20statement%20of%20appropriations.md)
 - [&sect; 00106 - Stationery for Senate; advertisements for](%C2%A7%2000106%20-%20Stationery%20for%20Senate%3B%20advertisements%20for.md)
 - [&sect; 00107 - Opening bids for Senate and House stationery; awarding contracts](%C2%A7%2000107%20-%20Opening%20bids%20for%20Senate%20and%20House%20stationery%3B%20awarding%20contracts.md)
@@ -855,6 +902,7 @@
 - [&sect; 00112e - Office equipment for House Members, officers, and committees](%C2%A7%2000112e%20-%20Office%20equipment%20for%20House%20Members%2C%20officers%2C%20and%20committees.md)
 - [&sect; 00112f - Incidental use of equipment and supplies](%C2%A7%2000112f%20-%20Incidental%20use%20of%20equipment%20and%20supplies.md)
 - [&sect; 00112g - Net Expenses of Equipment Revolving Fund](%C2%A7%2000112g%20-%20Net%20Expenses%20of%20Equipment%20Revolving%20Fund.md)
+- [&sect; 00112h - Net expenses of Telecommunications Revolving Fund](%C2%A7%2000112h%20-%20Net%20expenses%20of%20Telecommunications%20Revolving%20Fund.md)
 - [&sect; 00113 - Detailed reports of receipts and expenditures by Secretary of Senate and Chief Administrative Officer of House](%C2%A7%2000113%20-%20Detailed%20reports%20of%20receipts%20and%20expenditures%20by%20Secretary%20of%20Senate%20and%20Chief%20Administrative%20Officer%20of%20House.md)
 - [&sect; 00114 - Fees for copies from Senate journals](%C2%A7%2000114%20-%20Fees%20for%20copies%20from%20Senate%20journals.md)
 - [&sect; 00115 - Index to House daily calendar](%C2%A7%2000115%20-%20Index%20to%20House%20daily%20calendar.md)
@@ -866,14 +914,17 @@
 - [&sect; 00117b&#8211;2 - Transfer of excess or surplus educationally useful equipment to public schools](%C2%A7%2000117b%E2%80%932%20-%20Transfer%20of%20excess%20or%20surplus%20educationally%20useful%20equipment%20to%20public%20schools.md)
 - [&sect; 00117c - Disposal of used or surplus automobiles and trucks by Sergeant at Arms and Doorkeeper of Senate; procedure; deposit of receipts](%C2%A7%2000117c%20-%20Disposal%20of%20used%20or%20surplus%20automobiles%20and%20trucks%20by%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%3B%20procedure%3B%20deposit%20of%20receipts.md)
 - [&sect; 00117d - Reimbursements to Sergeant at Arms and Doorkeeper of Senate for equipment provided to Senators, etc., which has been lost, stolen&#8230;](%C2%A7%2000117d%20-%20Reimbursements%20to%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%20for%20equipment%20provided%20to%20Senators%2C%20etc.%2C%20which%20has%20been%20lost%2C%20stolen%E2%80%A6.md)
+- [&sect; 00117d&#8211;1 - Compensation for lost or damaged property](%C2%A7%2000117d%E2%80%931%20-%20Compensation%20for%20lost%20or%20damaged%20property.md)
 - [&sect; 00117e - Disposal of used or surplus furniture and equipment by Chief Administrative Officer of House; procedure; deposit of receipts](%C2%A7%2000117e%20-%20Disposal%20of%20used%20or%20surplus%20furniture%20and%20equipment%20by%20Chief%20Administrative%20Officer%20of%20House%3B%20procedure%3B%20deposit%20of%20receipts.md)
 - [&sect; 00117f - Commissions and charges for public telephone or telecommunications services; deposit of receipts](%C2%A7%2000117f%20-%20Commissions%20and%20charges%20for%20public%20telephone%20or%20telecommunications%20services%3B%20deposit%20of%20receipts.md)
 - [&sect; 00117g - Monies received by Attending Physician from sale of prescription drugs or other sources; deposit of receipts](%C2%A7%2000117g%20-%20Monies%20received%20by%20Attending%20Physician%20from%20sale%20of%20prescription%20drugs%20or%20other%20sources%3B%20deposit%20of%20receipts.md)
 - [&sect; 00117h - Deposit of fees for services by Office of Attending Physician; availability of amounts deposited](%C2%A7%2000117h%20-%20Deposit%20of%20fees%20for%20services%20by%20Office%20of%20Attending%20Physician%3B%20availability%20of%20amounts%20deposited.md)
 - [&sect; 00117i - Revolving fund for House gymnasium; deposit of receipts; availability for expenditure](%C2%A7%2000117i%20-%20Revolving%20fund%20for%20House%20gymnasium%3B%20deposit%20of%20receipts%3B%20availability%20for%20expenditure.md)
 - [&sect; 00117j - Fees for internal delivery in House of Representatives of nonpostage mail from outside sources](%C2%A7%2000117j%20-%20Fees%20for%20internal%20delivery%20in%20House%20of%20Representatives%20of%20nonpostage%20mail%20from%20outside%20sources.md)
+- [&sect; 00117j&#8211;1 - Regulations for safe handling of mail matter](%C2%A7%2000117j%E2%80%931%20-%20Regulations%20for%20safe%20handling%20of%20mail%20matter.md)
 - [&sect; 00117k - Rebates under Government Travel Charge Card Program](%C2%A7%2000117k%20-%20Rebates%20under%20Government%20Travel%20Charge%20Card%20Program.md)
 - [&sect; 00117l - Deposit of House Information Resources reimbursements for services](%C2%A7%2000117l%20-%20Deposit%20of%20House%20Information%20Resources%20reimbursements%20for%20services.md)
+- [&sect; 00117m - House Services Revolving Fund](%C2%A7%2000117m%20-%20House%20Services%20Revolving%20Fund.md)
 - [&sect; 00118 - Actions against officers for official acts](%C2%A7%2000118%20-%20Actions%20against%20officers%20for%20official%20acts.md)
 - [&sect; 00118a - Officers of Senate](%C2%A7%2000118a%20-%20Officers%20of%20Senate.md)
 - [&sect; 00119 - Stationery rooms of House and Senate; specification of classes of articles purchasable](%C2%A7%2000119%20-%20Stationery%20rooms%20of%20House%20and%20Senate%3B%20specification%20of%20classes%20of%20articles%20purchasable.md)
@@ -887,6 +938,7 @@
 - [&sect; 00121d - Senate Gift Shop](%C2%A7%2000121d%20-%20Senate%20Gift%20Shop.md)
 - [&sect; 00121e - Payment of fees for services of Attending Physician and for use of Senate health and fitness facilities](%C2%A7%2000121e%20-%20Payment%20of%20fees%20for%20services%20of%20Attending%20Physician%20and%20for%20use%20of%20Senate%20health%20and%20fitness%20facilities.md)
 - [&sect; 00121f - Senate Staff Health and Fitness Facility Revolving Fund](%C2%A7%2000121f%20-%20Senate%20Staff%20Health%20and%20Fitness%20Facility%20Revolving%20Fund.md)
+- [&sect; 00121g - Authority of Attending Physician in response to medical contingencies or public health emergencies at Capitol](%C2%A7%2000121g%20-%20Authority%20of%20Attending%20Physician%20in%20response%20to%20medical%20contingencies%20or%20public%20health%20emergencies%20at%20Capitol.md)
 - [&sect; 00122 - Repealed. Pub. L. 95&#8211;391, title I, &sect;111, Sept. 30, 1978, 92 Stat. 777](%C2%A7%2000122%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93391%2C%20title%20I%2C%20%C2%A7111%2C%20Sept.%2030%2C%201978%2C%2092%20Stat.%20777.md)
 - [&sect; 00122a - Repealed. Pub. L. 104&#8211;186, title II, &sect;204(66), Aug. 20, 1996, 110 Stat. 1740](%C2%A7%2000122a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2866%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201740.md)
 - [&sect; 00122b to 122g - Repealed. Pub. L. 104&#8211;186, title II, &sect;204(67), Aug. 20, 1996, 110 Stat. 1740](%C2%A7%2000122b%20to%20122g%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2867%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201740.md)

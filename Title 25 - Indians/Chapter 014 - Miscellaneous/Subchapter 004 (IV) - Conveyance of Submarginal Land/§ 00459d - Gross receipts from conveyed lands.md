@@ -2,7 +2,7 @@
 
 #### (a) Deposit to credit of tribe; nonapplicability
 
-Any and all gross receipts derived from, or which relate to, the property conveyed by this subchapter, the Act of July 20, 1956 (70 Stat. 581), the Act of August 2, 1956 (70 Stat. 941), the Act of October 9, 1972 (86 Stat. 795), and section 1 of the Act of October 13, 1972 (86 Stat. 806) which were received by the United States subsequent to its acquisition by the United States under the statutes cited in section 459 of this title and prior to such conveyance, from whatever source and for whatever purpose, including but not limited to the receipts in the special fund of the Treasury as required by section 6 of the Mineral Leasing Act for Acquired Lands of August 7, 1947 (61 Stat. 913, 915) \[30 U.S.C. 355\], shall as of October 17, 1975, be deposited to the credit of the Indian tribe receiving such land and may be expended by the tribe for such beneficial programs as the tribal governing body may determine: <i>Provided</i>, That this section shall not apply to any such receipts received prior to October 17, 1975, from the leasing of public domain minerals which were subject to the Mineral Leasing Act of 1920 (41 Stat. 437) \[30 U.S.C. 181 et seq.\], as amended and supplemented.
+Any and all gross receipts derived from, or which relate to, the property conveyed by this subchapter, the Act of July 20, 1956 (70 Stat. 581), the Act of August 2, 1956 (70 Stat. 941), the Act of October 9, 1972 (86 Stat. 795), and section 1 of the Act of October 13, 1972 (86 Stat. 806) which were received by the United States subsequent to its acquisition by the United States under the statutes cited in section 459 of this title and prior to such conveyance, from whatever source and for whatever purpose, including but not limited to the receipts in the special fund of the Treasury as required by section 6 of the Mineral Leasing Act for Acquired Lands of August 7, 1947 (61 Stat. 913, 915) \[30 U.S.C. 355\], shall as of October 17, 1975, be deposited to the credit of the Indian tribe receiving such land and may be expended by the tribe for such beneficial programs as the tribal governing body may determine:<i>Provided</i>, That this section shall not apply to any such receipts received prior to October 17, 1975, from the leasing of public domain minerals which were subject to the Mineral Leasing Act of 1920 (41 Stat. 437) \[30 U.S.C. 181 et seq.\], as amended and supplemented.
 
 #### (b) Administration of gross receipts
 
@@ -23,8 +23,4 @@ Section 1 of the Act of October 13, 1972, referred to in subsec. (a), is section
 For statutes cited in section 459 of this title, referred to in subsec. (a), see text of such section and References in Text note set out thereunder.
 
 The Mineral Leasing Act of 1920, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 459e of this title.
 

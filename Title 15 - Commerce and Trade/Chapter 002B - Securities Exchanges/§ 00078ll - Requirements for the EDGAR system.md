@@ -16,6 +16,10 @@ The Commission, by rule or regulation—
 
 (June 6, 1934, ch. 404, title I, §35A, as added Pub. L. 100–181, title I, §102, Dec. 4, 1987, 101 Stat. 1249; amended Pub. L. 105–353, title II, §202, Nov. 3, 1998, 112 Stat. 3234.)
 
+#### Codification
+
+Pub. L. 100–181, which directed amendment of the Securities Exchange Act of 1934 by adding this section after section 35 of the Act, is reflected in the source credit above as adding this section to title I of the Securities Exchange Act of 1934, to reflect the probable intent of Congress. See Codification note set out under section 78kk of this title.
+
 #### Amendments
 
 1998—Subsecs. (a) to (c). Pub. L. 105–353, §202(1), struck out subsecs. (a) to (c) which: in subsec. (a) required certifications and reports as prerequisite to obligation or expenditure of funds for establishment or operation of EDGAR system, and provided that former section 78kk(b) amounts were to be exclusive source of funds for systems procurement and operation; in subsec. (b) required report on status of EDGAR development, implementation, and progress to certain Congressional committees at six-month intervals; and in subsec. (c) required certification to Congressional committees of total costs, cost/benefit analysis, assurances of compliance, capabilities of system, competence of personnel, and review of test group filings prior to entering into contract for EDGAR system.

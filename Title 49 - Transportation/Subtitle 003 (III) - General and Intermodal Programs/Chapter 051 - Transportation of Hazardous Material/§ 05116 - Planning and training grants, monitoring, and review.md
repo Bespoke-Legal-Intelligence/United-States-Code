@@ -78,11 +78,11 @@ Government's Share of Costs.—A grant under this section is for 80 percent of t
 
 (f)
 
-Monitoring and Technical Assistance.—In coordination with the Secretaries of Transportation and Energy, Administrator of the Environmental Protection Agency, and Director of the National Institute of Environmental Health Sciences, the Director of the Federal Emergency Management Agency shall monitor public sector emergency response planning and training for an accident or incident involving hazardous material. Considering the results of the monitoring, the Secretaries, Administrator, and Directors each shall provide technical assistance to a State, political subdivision of a State, or Indian tribe for carrying out emergency response training and planning for an accident or incident involving hazardous material and shall coordinatethe assistance using the existing coordinating mechanisms of the national response team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee.
+Monitoring and Technical Assistance.—In coordination with the Secretaries of Transportation and Energy, Administrator of the Environmental Protection Agency, and Director of the National Institute of Environmental Health Sciences, the Director of the Federal Emergency Management Agency shall monitor public sector emergency response planning and training for an accident or incident involving hazardous material. Considering the results of the monitoring, the Secretaries, Administrator, and Directors each shall provide technical assistance to a State, political subdivision of a State, or Indian tribe for carrying out emergency response training and planning for an accident or incident involving hazardous material and shall coordinate the assistance using the existing coordinating mechanisms of the national response team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee.
 
 (g)
 
-Delegation of Authority.—To minimize administrative costs and to coordinate Government grant programs for emergency response training and planning, the Secretary of Transportation may delegate to the Directors of the Federal Emergency Management Agency and National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, and Secretaries of Labor and Energy any of the following:
+Delegation of Authority.—To minimize administrative costs and to coordinate Government grant programs for emergency responsetraining and planning, the Secretary of Transportation may delegate to the Directors of the Federal Emergency Management Agency and National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, and Secretaries of Labor and Energy any of the following:
 
 &emsp;(1) authority to receive applications for grants under this section.
 
@@ -261,8 +261,4 @@ Section 7(c) of Pub. L. 103–429 provided that the amendment made by that secti
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5108, 5127 of this title.
 

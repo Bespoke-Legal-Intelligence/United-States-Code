@@ -1,6 +1,6 @@
 ### §1446a. Dairy products; availability through Commodity Credit Corporation
 
-As a means of increasing the utilization of dairy products (including for purposes of this section, milk) upon the certification by the Secretary of Veterans Affairs or by the Secretary ofthe Army, acting for the military departments under the Department of Defense's Single Service Purchase Assignment for Subsistence, or their duly authorized representatives that the usual quantities of dairy products have been purchased in the normal channels of trade—
+As a means of increasing the utilization of dairy products (including for purposes of this section, milk) upon the certification by the Secretary of Veterans Affairs or by the Secretary of the Army, acting for the military departments under the Department of Defense's Single Service Purchase Assignment for Subsistence, or their duly authorized representatives that the usual quantities of dairy products have been purchased in the normal channels of trade—
 
 #### (a) Secretary of Veterans Affairs; needs; report to Congress
 
@@ -77,10 +77,6 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1447 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

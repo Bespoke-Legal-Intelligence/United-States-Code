@@ -228,10 +228,6 @@ Amendment by section 405(a)(2) to (4) of Pub. L. 103–82 effective Apr. 4, 1994
 
 Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provided, see section 11 of Pub. L. 99–551, set out as an Effective Date note under section 4950 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4954, 4972 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(5)”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “the Corporation)”.</i>

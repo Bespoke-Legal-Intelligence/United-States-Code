@@ -48,9 +48,9 @@
 
 I74legislative statements
 
-Section 1110 of the House amendment adopts an identical provision contained in the House bill without modifications contained in the Senate amendment. This section protects a limited class of financiers of aircraft and vessels and is intended to be narrowly construed to prevent secured parties or lessors from gaining the protection of the section unless the interest of such lessor or secured party is explicitly enumerated therein. It should be emphasized that under section 1110(a) a debtor in possession or trustee is given 60 days after the order for relief in a case under chapter 11, to have an opportunity to comply with the provisions of section 1110(a).
+Section 1110 of the House amendment adopts an identical provision contained in the House bill withoutmodifications contained in the Senate amendment. This section protects a limited class of financiers of aircraft and vessels and is intended to be narrowly construed to prevent secured parties or lessors from gaining the protection of the section unless the interest of such lessor or secured party is explicitly enumerated therein. It should be emphasized that under section 1110(a) a debtor in possession or trustee is given 60 days after the order for relief in a case under chapter 11, to have an opportunity to comply with the provisions of section 1110(a).
 
-During this time the automatic stay will apply and may not be lifted prior to the expiration of the 60-dayperiod. Under section 1110(b), the debtor and secured party or lessor are given an opportunity to extend the 60-day period, but no right to reduce the period is intended. It should additionally be noted that under section 1110(a) the trustee or debtor in possession is not required to assume the executory contract or unexpired lease under section 1110; rather, if the trustee or debtor in possession complies with the requirements of section 1110(a), the trustee or debtor in possession is entitled to retain the aircraft or vessels subject to the normal requirements of section 365. The discussion regarding aircraft and vessels likewise applies with respect to railroad rolling stock in a railroad reorganization under section 1168.
+During this time the automatic stay will apply and may not be lifted prior to the expiration of the 60-day period. Under section 1110(b), the debtor and secured party or lessor are given an opportunity to extend the 60-day period, but no right to reduce the period is intended. It should additionally be noted that under section 1110(a) the trustee or debtor in possession is not required to assume the executory contract or unexpired lease under section 1110; rather, if the trustee or debtor in possession complies with the requirements of section 1110(a), the trustee or debtor in possession is entitled to retain the aircraft or vessels subject to the normal requirements of section 365. The discussion regarding aircraft and vessels likewise applies with respect to railroad rolling stock in a railroad reorganization under section 1168.
 
 #### senate report no. 95–989
 
@@ -106,7 +106,7 @@ Pub. L. 103–7, Mar. 17, 1993, 107 Stat. 36, provided that:
 
 #### “SEC. 2. TREATMENT OF AIRCRAFT EQUIPMENT SETTLEMENT LEASES WITH THE PENSION BENEFIT GUARANTY CORPORATION.
 
-“In the case of any settlement of liability under title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\] entered into by the Pension Benefit Guaranty Corporation and one or more other parties, if—
+“In the case of any settlement of liability under title IV of the Employee Retirement Income Security Act of1974 \[29 U.S.C. 1301 et seq.\] entered into by the Pension Benefit Guaranty Corporation and one or more other parties, if—
 
 &emsp;“(1) such settlement was entered into before, on, or after the date of the enactment of this Act \[Mar. 17, 1993\],
 
@@ -115,8 +115,4 @@ Pub. L. 103–7, Mar. 17, 1993, 107 Stat. 36, provided that:
 &emsp;“(3) an agreement that is entered into as part of such settlement provides that such agreement is to be treated as a lease,
 
 > then such agreement shall be treated as a lease for purposes of section 1110 of such title 11.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 348 of this title.
 

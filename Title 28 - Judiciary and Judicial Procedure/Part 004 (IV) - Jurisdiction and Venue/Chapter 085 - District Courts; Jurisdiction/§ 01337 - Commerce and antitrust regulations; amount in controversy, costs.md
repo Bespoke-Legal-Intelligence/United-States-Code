@@ -34,7 +34,3 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 21 section 1603; title 41 sections 607, 609; title 49 section 10709.
-

@@ -2,7 +2,7 @@
 
 #### (a) Conservation measures; resources
 
-(1) The Administrator shall acquire such resources through conservation, implement all such conservation measures, and acquire such renewable resources which are installed by a residential or small commercial consumer to reduce load, as the Administrator determines areconsistent with the plan, or if no plan is in effect with the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title and, in the case of major resources, in accordance with subsection (c) of this section. Such conservation measures and such resources may include, but are not limited to—
+(1) The Administrator shall acquire such resources through conservation, implement all such conservation measures, and acquire such renewable resources which are installed by a residential or small commercial consumer to reduce load, as the Administrator determines are consistent with the plan, or if no plan is in effect with the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title and, in the case of major resources, in accordance with subsection (c) of this section. Such conservation measures and such resources may include, but are not limited to—
 
 &emsp;(A) loans and grants to consumers for insulation or weatherization, increased system efficiency, and waste energy recovery by direct application,
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(ii) if no plan is in effect, a finding that the proposal is either consistent or inconsistent with the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title or notwithstanding its inconsistency, a finding that it is needed to meet the Administrator's obligations under this chapter.
 
-> &emsp;In the case of subsection (f) of this section, such decision shall be treated as satisfying the applicable requirements of this subsection and of subsection (f) of this section, if it includes a finding of probable consistency, based upon the Administrator's evaluation of information available at the time of completion of thehearing under this paragraph. Such decision shall include the reasons for such finding.
+> &emsp;In the case of subsection (f) of this section, such decision shall be treated as satisfying the applicable requirements of this subsection and of subsection (f) of this section, if it includes a finding of probable consistency, based upon the Administrator's evaluation of information available at the time of completion of the hearing under this paragraph. Such decision shall include the reasons for such finding.
 
 (2) Within sixty days of the receipt of the Administrator's decision pursuant to paragraph (1)(D) of this subsection, the Council may determine by a majority vote of all members of the Council, and notify the Administrator—
 
@@ -100,7 +100,7 @@ The Administrator is authorized to acquire a resource, other than a major resour
 
 &emsp;(iii) after such investigation the Administrator determines not to acquire the resource and the sponsor determines not to construct the resource.
 
-(2) The Administrator may exercise the authority of this subsection only after he determines that the failure to do so would result in inequitable hardship to the consumers of suchsponsors. The Administrator may provide reimbursement under this subsection only for expenses incurred after December 5, 1980.
+(2) The Administrator may exercise the authority of this subsection only after he determines that the failure to do so would result in inequitable hardship to the consumers of such sponsors. The Administrator may provide reimbursement under this subsection only for expenses incurred after December 5, 1980.
 
 (3) Any agreement under paragraph (1) of this subsection shall provide the Administrator an option to acquire any such resource, including a renewable resource, and shall include such other provisions, as the Administrator deems appropriate, for the Administrator's recovery from such sponsors or any assignee of the sponsors, if such sponsor or assignee continues development of the resource, of any advances made by the Administrator pursuant to such agreement.
 
@@ -128,7 +128,7 @@ At the request of the appropriate State, any environmental impact statement whic
 
 (6) Prior to granting any credit or providing services pursuant to this subsection, the Administrator shall—
 
-&emsp;(A) comply with the notice provisions of subsection (c) of this section, and include in such notice the methodology the Administrator proposes to use in determining the amount of any such credit;
+&emsp;(A) comply with the notice provisions of subsection (c) of this section, and include in suchnotice the methodology the Administrator proposes to use in determining the amount of any such credit;
 
 &emsp;(B) include the cost of such credit in the Administrator's annual or amended budget submittal to the Congress made pursuant to the Federal Columbia River Transmission System Act (16 U.S.C. 838(j)) \[16 U.S.C. 838 et seq.\];
 
@@ -142,7 +142,7 @@ Contracts for the acquisition of resources and for billing credits for major res
 
 &emsp;(1) insure timely construction, scheduling, completion, and operation of resources,
 
-&emsp;(2) insure that the costs of any acquisition are as low as reasonably possible, consistent\(A) with sound engineering, operating, and safety practices, and (B) the protection, mitigation, and enhancement of fish and wildlife, including related spawning grounds and habitat affected by the development of such resources, and
+&emsp;(2) insure that the costs of any acquisition are as low as reasonably possible, consistent (A) with sound engineering, operating, and safety practices, and (B) the protection, mitigation, and enhancement of fish and wildlife, including related spawning grounds and habitat affected by the development of such resources, and
 
 &emsp;(3) insure that the Administrator exercises effective oversight, inspection, audit, and review of all aspects of such construction and operation.
 
@@ -172,7 +172,7 @@ In the exercise of his authorities pursuant to this section, the Administrator s
 
 #### (m) Offering of reasonable shares to each Pacific Northwest electric utility
 
-Except as to resources under construction on December 5, 1980, the Administrator shall determine in each case of a major resource acquisition that a reasonable share of the particular resource, or a reasonable equivalent, has been offered to each Pacific Northwest electric utility for ownership, participation, or other sponsorship, but not in excess of the amounts needed to meet such utility's Regional load.
+Except as to resources under construction on December 5, 1980, the Administrator shall determine in each case of a major resource acquisition that a reasonable share of the particular resource, or a reasonable equivalent, has been offered to each Pacific Northwest electric utilityfor ownership, participation, or other sponsorship, but not in excess of the amounts needed to meet such utility's Regional load.
 
 (Pub. L. 96–501, §6, Dec. 5, 1980, 94 Stat. 2717.)
 
@@ -181,8 +181,4 @@ Except as to resources under construction on December 5, 1980, the Administrator
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(4)(C), (d), and (h)(6)(B), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 838k, 839b, 839c, 839e, 839f, 839g of this title; title 26 section 149.
 

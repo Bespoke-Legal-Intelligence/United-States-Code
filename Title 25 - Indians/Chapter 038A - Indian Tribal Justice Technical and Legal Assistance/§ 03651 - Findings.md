@@ -30,3 +30,11 @@ The Congress finds and declares that—
 
 Pub. L. 106–559, §1, Dec. 21, 2000, 114 Stat. 2778, provided that: “This Act \[enacting this chapter and amending section 3621 of this title and sections 1629e and 1629g of Title 43, Public Lands\] may be cited as the ‘Indian Tribal Justice Technical and Legal Assistance Act of 2000’.”
 
+#### Availability of Funds for Courts or Law Enforcement Officers of Certain Tribes or Villages
+
+Pub. L. 108–199, div. B, title I, §112(a)(1), Jan. 23, 2004, 118 Stat. 62, provided that: “None of the funds provided in this Act \[div. B of Pub. L. 108–199, see Tables for classification\] or hereafter may be used for courts or law enforcement officers for a tribe or village—
+
+&emsp;“(A) in which fewer than 25 Native members live in the village year round; or
+
+&emsp;“(B) that is located within the boundaries of the Fairbanks North Star Borough, the Matanuska Susitna Borough, the Municipality of Anchorage, the Kenai Peninsula Borough, the City and Borough of Juneau, the Sitka Borough, or the Ketchikan Borough.”
+

@@ -40,7 +40,3 @@ Amendment by Pub. L. 107–107 applicable to funeral honors duty performed on or
 
 Amendment by Pub. L. 106–398 applicable with respect to funeral honors duty performed on or after Oct. 1, 2000, see section 1 \[\[div. A\], title V, §575(c)\] of Pub. L. 106–398, set out as a note under section 12503 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 114 of this title; title 5 section 6323; title 10 sections 1074a, 1076, 1204, 1206, 1481, 12503, 12732; title 28 section 2671; title 37 sections 204, 435; title 38 sections 4303, 4316.
-

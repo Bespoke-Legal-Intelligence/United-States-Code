@@ -4,7 +4,3 @@ Nothing in this subchapter shall diminish, enlarge, or modify any right of the S
 
 (Pub. L. 95–450, §10, Oct. 11, 1978, 92 Stat. 1098.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460jj–7 of this title.
-

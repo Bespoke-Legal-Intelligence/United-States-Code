@@ -150,10 +150,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 717x, 717y of this title; title 26 section 29; title 42 section 7255.
-
 
 ---
 

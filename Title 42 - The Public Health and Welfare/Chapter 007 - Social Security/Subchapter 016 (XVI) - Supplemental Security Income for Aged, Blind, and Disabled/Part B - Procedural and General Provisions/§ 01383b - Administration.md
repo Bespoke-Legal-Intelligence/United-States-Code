@@ -6,7 +6,7 @@ Subject to subsection (b) of this section, the Commissioner of Social Security m
 
 #### (b) Examination to determine blindness
 
-In determining, for purposes of this subchapter, whether an individual is blind, there shall be an examination of such individual by a physician skilled in the diseases of the eye or byan optometrist, whichever the individual may select.
+In determining, for purposes of this subchapter, whether an individual is blind, there shall be an examination of such individual by a physician skilled in the diseases of the eye or by an optometrist, whichever the individual may select.
 
 #### (c) Notification of review
 
@@ -71,8 +71,4 @@ For applicability of this section to the Northern Mariana Islands, see section 5
 #### Puerto Rico, Guam, and Virgin Islands
 
 Enactment of provisions of Pub. L. 92–603, eff. Jan. 1, 1974, not applicable to Puerto Rico, Guam, and the Virgin Islands, see section 303(b) of Pub. L. 92–603, set out as a note under section 301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1320b–6 of this title.
 

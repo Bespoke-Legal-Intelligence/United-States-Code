@@ -25,10 +25,6 @@
 
 1974—Pub. L. 93–536, §1(a), Dec. 22, 1974, 88 Stat. 1734, inserted “AND RECORDS” after “PUBLICATIONS” in chapter heading.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2111, 2901, 3107 of this title; title 25 section 450j.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 

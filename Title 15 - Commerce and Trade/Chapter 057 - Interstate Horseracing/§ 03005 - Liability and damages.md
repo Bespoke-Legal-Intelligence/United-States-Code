@@ -8,7 +8,3 @@ Any person accepting any interstate off-track wager in violation of this chapter
 
 (Pub. L. 95–515, §6, Oct. 25, 1978, 92 Stat. 1814.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3006 of this title.
-

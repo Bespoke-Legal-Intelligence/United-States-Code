@@ -22,7 +22,3 @@ Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that se
 
 For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 253<i>l</i>–1, 253<i>l</i>–2, 253<i>l</i>–3, 253<i>l</i>–4, 253<i>l</i>–5, 253<i>l</i>–6, 253<i>l</i>–7, 253<i>l</i>–8 of this title.
-

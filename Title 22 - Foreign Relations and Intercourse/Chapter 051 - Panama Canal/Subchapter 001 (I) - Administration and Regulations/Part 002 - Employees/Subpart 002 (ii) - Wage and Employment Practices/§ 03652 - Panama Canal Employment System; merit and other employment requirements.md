@@ -58,9 +58,5 @@ Section 3530(b) of Pub. L. 104–201 provided that: “The Panama Canal Employme
 
 For provisions requiring consultations with the Secretary of Defense for agencies under this subpart with respect to the establishment of rates of pay and other matters deemed appropriate by the Secretary in order to develop compatible or unified systems of basic pay and employment practices, see section 1–201 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043, set out as a note under section 3601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3651, 3657a of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “111”.</i>
 

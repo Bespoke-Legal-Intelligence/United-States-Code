@@ -6,7 +6,13 @@ The Congress finds that the use of flexible and compressed work schedules has th
 
 #### Implementation of Telecommuting Programs
 
-Pub. L. 108–7, div. B, title VI, §623, Feb. 20, 2003, 117 Stat. 103, provided that: “Of the funds appropriated in this Act \[div. B of Pub. L. 108–7, see Tables for classification\] for the Departments of Commerce, Justice, and State, the Judiciary, and the Small Business Administration, $100,000 shall be available to each Department or agency only to implement telecommuting programs: <i>Provided</i>, That, 6 months after the date of enactment of this Act \[Feb. 20, 2003\] and every 6 months thereafter, each Department or agency shall provide a report to the Committees on Appropriations on the status of telecommuting programs, including the number of Federal employees eligible for, and participating in, such programs: <i>Provided further</i>, That each Department or agency shall designate a ‘Telework Coordinator’ to be responsible for overseeing the implementation of telecommuting programs and serve as a point of contact on such programs for the Committees on Appropriations.”
+Pub. L. 108–447, div. B, title VI, §622, Dec. 8, 2004, 118 Stat. 2919, provided that: “The Departments of Commerce, Justice, State, the Judiciary, the Securities and Exchange Commission and the Small Business Administration shall, not later than two months after the date of the enactment of this Act \[Dec. 8, 2004\], certify that telecommuting opportunities are made available to 100 percent of the eligible workforce: <i>Provided</i>, That, of the total amounts appropriated to the Departments of Commerce, Justice, State, the Judiciary, the Securities and Exchange Commission and the Small Business Administration, $5,000,000 shall be available only upon such certification: <i>Provided further</i>, That each Department or agency shall provide quarterly reports to the Committees on Appropriations on the status of telecommuting programs, including the number of Federal employees eligible for, and participating in, such programs: <i>Provided further</i>, That each Department or agency shall designate a ‘Telework Coordinator’ to be responsible for overseeing the implementation and operations of telecommuting programs, and serve as a point of contact on such programs for the Committees on Appropriations.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–199, div. B, title VI, §627, Jan. 23, 2004, 118 Stat. 99.
+
+Pub. L. 108–7, div. B, title VI, §623, Feb. 20, 2003, 117 Stat. 103.
 
 #### Telecommuting in Executive Agencies
 

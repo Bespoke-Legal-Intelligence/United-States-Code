@@ -8,7 +8,3 @@ Except for records obtained pursuant to section 3403(d) or 3413(a) through (h) o
 
 Section 1115(b) of Pub. L. 95–630 provided that: “This section shall take effect on October 1, 1979.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3413, 3414 of this title; title 42 section 1383.
-

@@ -8,7 +8,7 @@ Every individual who—
 
 &emsp;(2)(A) has been entitled to benefits under this part under section 426(b) of this title, and
 
-&emsp;(B)(i) continues to have the disabling physical or mental impairment on the basis of which the individual was found to be under a disability or to be a disabled qualified railroadretirement beneficiary, or (ii) is blind (within the meaning of section 416(i)(1) of this title), but
+&emsp;(B)(i) continues to have the disabling physical or mental impairment on the basis of which the individual was found to be under a disability or to be a disabled qualified railroad retirement beneficiary, or (ii) is blind (within the meaning of section 416(i)(1) of this title), but
 
 &emsp;(C) whose entitlement under section 426(b) of this title ends due solely to the individual having earnings that exceed the substantial gainful activity amount (as defined in section 423(d)(4) of this title); and
 
@@ -73,8 +73,4 @@ Subsec. (d)(1)(C). Pub. L. 101–508, §4008(m)(3)(C)(ii), struck out subpar. (C
 #### Effective Date
 
 Section 6012(b) of Pub. L. 101–239 provided that: “The amendments made by this section \[enacting this section and amending section 1395i–2 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\], but shall not apply so as to provide for coverage under part A of title XVIII of the Social Security Act \[this part\] for any month before July 1990.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1395i–2 of this title.
 

@@ -4,7 +4,7 @@
 
 #### (1) Prohibited conduct
 
-&emsp;Whoever knowingly and with knowledge of the character of the material, in interstate or foreign commerce by means of the World Wide Web, makes any communication for commercial purposes that is available to any minor and that includes any material that is harmfulto minors shall be fined not more than $50,000, imprisoned not more than 6 months, or both.
+&emsp;Whoever knowingly and with knowledge of the character of the material, in interstate or foreign commerce by means of the World Wide Web, makes any communication for commercial purposes that is available to any minor and that includes any material that is harmful to minors shall be fined not more than $50,000, imprisoned not more than 6 months, or both.
 
 #### (2) Intentional violations
 
@@ -24,7 +24,7 @@ For purposes of subsection (a) of this section, a person shall not be considered
 
 &emsp;(3) a person engaged in the business of providing an Internet information location tool; or
 
-&emsp;(4) similarly engaged in the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication made by another person, without selection or alteration of the content of the communication, except that such person's deletion of a particular communication or material made by another person in a manner consistent with subsection (c) of this section or section 230 of this title shall not constitute such selection or alteration of the content of the communication.
+&emsp;(4) similarly engaged in the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication made by another person, without selection or alteration of the content of the communication, except that such person's deletion of a particular communication or material made by another person in a manner consistent with subsection (c) of this sectionor section 230 of this title shall not constitute such selection or alteration of the content of the communication.
 
 #### (c) Affirmative defense
 
@@ -84,7 +84,7 @@ For purposes of this subsection,<sup>1</sup> the following definitions shall app
 
 #### (3) Internet
 
-&emsp;The term “Internet” means the combination of computer facilities and electromagnetictransmission media, and related equipment and software, comprising the interconnected worldwide network of computer networks that employ the Transmission Control Protocol/Internet Protocol or any successor protocol to transmit information.
+&emsp;The term “Internet” means the combination of computer facilities and electromagnetic transmission media, and related equipment and software, comprising the interconnected worldwide network of computer networks that employ the Transmission Control Protocol/Internet Protocol or any successor protocol to transmit information.
 
 #### (4) Internet access service
 
@@ -100,7 +100,7 @@ For purposes of this subsection,<sup>1</sup> the following definitions shall app
 
 &emsp;&emsp;(A) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, is designed to appeal to, or is designed to pander to, the prurient interest;
 
-&emsp;&emsp;(B) depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
+&emsp;&emsp;(B) depicts, describes, or represents, in a manner patently offensive with respect tominors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
 
 &emsp;&emsp;(C) taken as a whole, lacks serious literary, artistic, political, or scientific value for minors.
 
@@ -271,8 +271,4 @@ Termination.—The Commission shall terminate 30 days after the submission of th
 “(m)\[j\]
 
 Inapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 230 of this title; title 15 sections 7702, 7707.
 

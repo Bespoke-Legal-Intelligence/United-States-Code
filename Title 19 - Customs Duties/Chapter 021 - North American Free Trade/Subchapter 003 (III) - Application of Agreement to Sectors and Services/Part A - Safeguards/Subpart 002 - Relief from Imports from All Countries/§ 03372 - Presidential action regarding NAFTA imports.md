@@ -40,7 +40,3 @@ Any action taken under this section proclaiming a quantitative restriction shall
 
 The Trade Act of 1974, referred to in subsecs. (a) to (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3371 of this title.
-

@@ -12,7 +12,3 @@ An applicant dissatisfied with a decision under section 2443 or 2501 of this tit
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2404 of this title.
-

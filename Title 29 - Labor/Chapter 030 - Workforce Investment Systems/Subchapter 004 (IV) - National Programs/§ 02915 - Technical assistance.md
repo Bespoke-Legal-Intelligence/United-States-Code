@@ -18,7 +18,7 @@
 
 #### (1) Authority
 
-&emsp;Of the amounts available pursuant to section 2862(a)(2) of this title, the Secretary shall reserve not more than 5 percent of such amounts to provide technical assistance toStates that do not meet the State performance measures described in section 2871 of this title with respect to employment and training activities for dislocated workers. Using such reserved funds, the Secretary may provide such assistance to other States, local areas, and other entities involved in providing assistance to dislocated workers, to promote the continuous improvement of assistance provided to dislocated workers, under this chapter.
+&emsp;Of the amounts available pursuant to section 2862(a)(2) of this title, the Secretary shall reserve not more than 5 percent of such amounts to provide technical assistance to States that do not meet the State performance measures described in section 2871 of this title with respect to employment and training activities for dislocated workers. Using such reserved funds, the Secretary may provide such assistance to other States, local areas, and other entities involved in providing assistance to dislocated workers, to promote the continuous improvement of assistance provided to dislocated workers, under this chapter.
 
 #### (2) Training
 
@@ -35,10 +35,6 @@ Section 199, referred to in subsec. (a)(1), is section 199 of Pub. L. 105–220,
 1998—Subsec. (a)(1). Pub. L. 105–277, §101(f) \[title VIII, §401(9)\], substituted “carrying out activities under this chapter” for “carry out activities under this chapter”.
 
 Subsec. (b)(2). Pub. L. 105–277, §101(f) \[title VIII, §401(10)\], substituted “section 2918(b)” for “section 2919(b)”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2862, 2871, 2919 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

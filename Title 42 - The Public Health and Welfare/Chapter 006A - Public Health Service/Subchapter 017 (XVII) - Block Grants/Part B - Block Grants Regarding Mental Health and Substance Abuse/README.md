@@ -1,9 +1,5 @@
 Part B—Block Grants Regarding Mental Health and Substance Abuse
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 290ff, 300w–3, 15025 of this title; title 7 section 2012.
-
 
 ---
 

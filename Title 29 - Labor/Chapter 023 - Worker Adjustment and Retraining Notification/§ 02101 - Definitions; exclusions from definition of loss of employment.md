@@ -54,7 +54,3 @@ Section 11 of Pub. L. 100–379 provided that: “This Act \[enacting this chapt
 
 Section 1(a) of Pub. L. 100–379 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Worker Adjustment and Retraining Notification Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2102 of this title; title 3 section 435; title 42 section 2297h–8.
-

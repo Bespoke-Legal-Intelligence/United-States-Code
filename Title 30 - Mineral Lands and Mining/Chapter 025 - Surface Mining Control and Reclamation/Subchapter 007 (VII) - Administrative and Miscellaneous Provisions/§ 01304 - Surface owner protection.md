@@ -2,7 +2,7 @@
 
 #### (a) Applicability
 
-The provisions of this section shall apply where coal owned by the United States underland the surface rights to which are owned by a surface owner as defined in this section is to be mined by methods other than underground mining techniques.
+The provisions of this section shall apply where coal owned by the United States under land the surface rights to which are owned by a surface owner as defined in this section is to be mined by methods other than underground mining techniques.
 
 #### (b) Lease of coal deposits governed by section 201 of this title
 
@@ -37,8 +37,4 @@ This section shall not apply to Indian lands.
 Nothing in this section shall be construed as increasing or diminishing any property rights by the United States or by any other landowner.
 
 (Pub. L. 95–87, title VII, §714, Aug. 3, 1977, 91 Stat. 524.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1291 of this title.
 

@@ -24,7 +24,3 @@ Another prior section 216, act June 25, 1948, ch. 645, 62 Stat. 694, which relat
 
 Subsec. (b). Pub. L. 101–280, §5(f)(2), substituted “section 203, 204, 205, 207, 208, or 209” for “sections 203, 204, 205, 207, 208, and 209”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 203, 204, 205, 207, 208, 209 of this title.
-

@@ -1,9 +1,5 @@
 Part A—Weatherization Assistance for Low-Income Persons
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1474, 3013, 6325, 6873, 8626b, 12807 of this title; title 15 section 4507; title 31 section 3803.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 

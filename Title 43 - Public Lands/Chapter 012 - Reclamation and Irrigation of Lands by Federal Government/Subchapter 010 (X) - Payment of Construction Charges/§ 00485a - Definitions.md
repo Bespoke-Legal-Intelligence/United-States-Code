@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-(a) The term “Federal reclamation laws” shall mean the Act of June 17, 1902 (32 Stat. 388), and all Acts amendatory thereof supplementary thereto.
+(a) The term “Federal reclamation laws” shall mean the Act of June 17, 1902 (32 Stat. 388), andall Acts amendatory thereof supplementary thereto.
 
 (b) The term “Secretary” shall mean the Secretary of the Interior.
 
@@ -33,8 +33,4 @@ Act of June 17, 1902, referred to in subsec. (a), is popularly known as the Recl
 #### Amendments
 
 1958—Subsecs. (h) to (k). Pub. L. 85–611 repealed subsec. (h) which defined “annual returns” and “normal returns”, and redesignated subsecs. (i) to (k) as (h) to (j), respectively.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 421b, 504, 620c of this title.
 

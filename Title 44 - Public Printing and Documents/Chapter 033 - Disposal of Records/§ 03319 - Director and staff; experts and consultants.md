@@ -4,7 +4,7 @@
 
 (b) The Commission may appoint and fix the pay of such additional personnel as it deems necessary.
 
-(c)(1) The Commission may procure temporary and intermittent services to the same extent as is authorized by section 3109(b) of title 5, United States Code, but at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay in effect for grade GS–15 of the General Schedule (5 U.S.C. 5332).
+(c)(1) The Commission may procure temporary and intermittent services to the same extent as is authorized by section 3109(b) of title 5, United States Code, but at rates for individuals not to exceed the daily equivalent of the annual rate ofbasic pay in effect for grade GS–15 of the General Schedule (5 U.S.C. 5332).
 
 (2) In procuring services under this subsection, the Commission shall seek to obtain the advice and assistance of constitutional scholars and members of the historical, archival, and journalistic professions.
 
@@ -15,8 +15,4 @@
 #### Termination of Commission
 
 For provision that Commission is to cease to exist sixty days after transmitting its report, see section 3323 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3315, 3317, 3320, 3324 of this title.
 

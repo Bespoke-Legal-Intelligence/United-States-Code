@@ -18,7 +18,3 @@ To defray costs that accrue to the United States under the agreement or agreemen
 
 Amendment by Pub. L. 95–105 effective Oct. 1, 1977, see section 514(d) of Pub. L. 95–105, set out as a note under section 277d–3 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 277d–30 of this title.
-

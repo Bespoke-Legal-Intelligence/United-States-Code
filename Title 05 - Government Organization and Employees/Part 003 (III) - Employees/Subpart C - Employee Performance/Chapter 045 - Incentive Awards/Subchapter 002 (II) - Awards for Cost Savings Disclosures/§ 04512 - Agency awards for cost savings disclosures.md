@@ -1,6 +1,6 @@
 ### §4512. Agency awards for cost savings disclosures
 
-(a) The Inspector General of an agency, or any other agency employee designated under subsection (b), may pay a cash award to any employee of such agency whose disclosure of fraud, waste, or mismanagement to the Inspector General of the agency, or to such other designated agency employee, has resulted in cost savings for the agency. The amount of an award under this section may not exceed the lesser of—
+(a) The Inspector General of an agency, or any other agency employee designated under subsection (b), may pay a cash award to any employee of such agency whose disclosure of fraud,waste, or mismanagement to the Inspector General of the agency, or to such other designated agency employee, has resulted in cost savings for the agency. The amount of an award under this section may not exceed the lesser of—
 
 &emsp;(1) $10,000; or
 

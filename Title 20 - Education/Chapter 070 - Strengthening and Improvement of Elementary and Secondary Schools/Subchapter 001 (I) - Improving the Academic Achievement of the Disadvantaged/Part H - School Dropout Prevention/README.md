@@ -1,9 +1,5 @@
 Part H—School Dropout Prevention
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 6302 of this title.
-
 
 ---
 

@@ -24,7 +24,3 @@
 
 1988—Subsec. (b)(3). Pub. L. 100–653 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Except for expenses incurred in the printing, issuing, or selling of such stamps, the fees collected for such stamps by the State agency shall be utilized in carrying out conservation and rehabilitation programs implemented under this subchapter in the State concerned and for no other purpose. If such programs are implemented by both the Secretary of the Interior and the Secretary of Agriculture in the State, the Secretaries shall mutually agree, on such basis as they deem reasonable, on the proportion of such fees that shall be applied by the State agency to their respective programs.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 670h, 670<i>l</i> of this title.
-

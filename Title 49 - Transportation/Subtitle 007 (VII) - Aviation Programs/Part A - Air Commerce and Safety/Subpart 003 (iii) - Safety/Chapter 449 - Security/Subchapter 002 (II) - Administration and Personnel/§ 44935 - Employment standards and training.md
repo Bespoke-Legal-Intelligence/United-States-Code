@@ -230,9 +230,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §316(c); added Aug. 5, 1974, Pub
 
 In subsection (a), before clause (1), the words “Not later than 270 days after November 16, 1990” are omitted as obsolete. The words “contracting for” are substituted for “contracting of” for clarity and consistency in the revised title.
 
-In subsection (c)(1)(A), the words “individuals employed” are substituted for “personnel employed by him . . .  and for other personnel, including State, local, and private law enforcement personnel, whose services may be utilized” for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (c)(1)(A), the words “individuals employed” are substituted for “personnel employed by him . . . and for other personnel, including State, local, and private law enforcement personnel, whose services may be utilized” for clarity and consistency in the revised title and with other titles of the United States Code.
 
-In subsection (c)(1)(B), the words “individuals eligible” are substituted for “personnel whose services are utilized to enforce any such transportation security program, including State, local, and private law enforcement personnel . . .  for personnel eligible” for clarity and consistency in the revised title and with other titles of the Code.
+In subsection (c)(1)(B), the words “individuals eligible” are substituted for “personnel whose services are utilized to enforce any such transportation security program, including State, local, and private law enforcement personnel . . . for personnel eligible” for clarity and consistency in the revised title and with other titles of the Code.
 
 In subsection (c)(2), the words “under this section” are omitted as unnecessary. The words “United States” before “air carriers” are omitted because of the definition of “air carrier” in section 40102(a) of the revised title.
 
@@ -286,6 +286,20 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
 Pub. L. 107–71, title I, §111(c), Nov. 19, 2001, 115 Stat. 620, provided that: “The Under Secretary of Transportation for Security shall complete the full implementation of section 44935 (e), (f), (g), and (h) of title 49, United States Code, as amended by subsection (a), as soon as is practicable. The Under Secretary may make or continue such arrangements for the training of security screeners under that section as the Under Secretary determines necessary pending full implementation of that section as so amended.”
 
+#### Improvement of Screener Job Performance
+
+Pub. L. 108–458, title IV, §4015, Dec. 17, 2004, 118 Stat. 3720, provided that:
+
+“(a)
+
+Required Action.—The Assistant Secretary of Homeland Security (Transportation Security Administration) shall take such action as may be necessary to improve the job performance of airport screening personnel.
+
+“(b)
+
+Human Factors Study.—In carrying out this section, the Assistant Secretary shall provide, not later than 180 days after the date of the enactment of this Act \[Dec. 17, 2004\], to the appropriate congressional committees a report on the results of any human factors study conducted by the Department of Homeland Security to better understand problems in screener performance and to improve screener performance.”
+
+\[For definitions of “airport” and “appropriate congressional committees” used in section 4015 of Pub. L. 108–458, set out above, see section 4081 of Pub. L. 108–458, set out as a note under section 44901 of this title.\]
+
 #### Screener Personnel
 
 Pub. L. 107–71, title I, §111(d), Nov. 19, 2001, 115 Stat. 620, provided that: “Notwithstanding any other provision of law, the Under Secretary of Transportation for Security may employ, appoint, discipline, terminate, and fix the compensation, terms, and conditions of employment of Federal service for such a number of individuals as the Under Secretary determines to be necessary to carry out the screening functions of the Under Secretary under section 44901 of title 49, United States Code. The Under Secretary shall establish levels of compensation and other benefits for individuals so employed.”
@@ -325,10 +339,6 @@ Study.—The Administrator of the Federal Aviation Administration shall conduct 
 “(b)
 
 Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 9, 1996\], the Administrator shall transmit to Congress a report on the results of the study.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 114, 40109, 44915, 44936, 44937 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “101(a)(22)”.</i>
 

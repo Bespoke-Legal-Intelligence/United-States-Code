@@ -10,7 +10,3 @@ A prior section 10 of Pub. L. 92–367 was renumbered section 11, and is classif
 
 Another prior section 10 of Pub. L. 92–367 was classified to section 467i of this title prior to repeal by Pub. L. 104–303.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 467j of this title.
-

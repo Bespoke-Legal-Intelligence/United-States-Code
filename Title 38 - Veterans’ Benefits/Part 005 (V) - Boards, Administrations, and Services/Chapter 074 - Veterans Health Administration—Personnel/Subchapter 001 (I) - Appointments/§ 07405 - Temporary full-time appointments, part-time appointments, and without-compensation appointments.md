@@ -78,7 +78,3 @@ Subsec. (c)(3), (4). Pub. L. 106–419, §204(b), added par. (3) and redesignate
 
 1992—Subsecs. (a), (c)(1), (f)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7403, 7407, 7408, 7424, 7425 of this title; title 5 section 5102.
-

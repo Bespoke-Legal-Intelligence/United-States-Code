@@ -6,7 +6,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 #### (b) Payments with respect to services; dialysis; regulations; physicians’ services; target reimbursement rates; home dialysis supplies and equipment; self-care home dialysis support services; self-care dialysis units; hepatitis B vaccine
 
-(1) Payments under this subchapter with respect to services, in addition to services for which payment would otherwise be made under this subchapter, furnished to individuals who have been determined to have end stage renal disease shall include (A) payments on behalf of such individuals to providers of services and renal dialysis facilities which meet such requirements as the Secretary shall by regulation prescribe for institutional dialysis services and supplies (including self-dialysis services in a self-care dialysis unit maintained by the provider or facility), transplantation services, self-care home dialysis support services which are furnished by the provider or facility, and routine professional services performed by a physician during a maintenance dialysis episode if payments for his other professional services furnished to an individual who has end stage renal disease are made on the basis specified in paragraph (3)(A) of this subsection, (B) payments to or on behalf of such individuals for home dialysis supplies and equipment, and (C) payments to a supplier of home dialysis supplies and equipment that is not a provider of services, a renal dialysis facility, or a physician for self-administered erythropoietin as described in section 1395x(s)(2)(P) <sup>1</sup> of this title if the Secretary finds that the patient receiving such drug from such a supplier can safely and effectively administer the drug (in accordance with the applicable methods and standards established by the Secretary pursuant to such section). The requirements prescribed by the Secretary under subparagraph (A) shall include requirements for a minimum utilization rate for transplantations.
+(1) Payments under this subchapter with respect to services, in addition to services for which payment would otherwise be made under this subchapter, furnished to individuals who have been determined to have end stage renal disease shall include (A) payments on behalf of such individuals to providers of services and renal dialysis facilities which meet such requirements as the Secretary shall by regulationprescribe for institutional dialysis services and supplies (including self-dialysis services in a self-care dialysis unit maintained by the provider or facility), transplantation services, self-care home dialysis support services which are furnished by the provider or facility, and routine professional services performed by a physician during a maintenance dialysis episode if payments for his other professional services furnished to an individual who has end stage renal disease are made on the basis specified in paragraph (3)(A) of this subsection, (B) payments to or on behalf of such individuals for home dialysis supplies and equipment, and (C) payments to a supplier of home dialysis supplies and equipment that is not a provider of services, a renal dialysis facility, or a physician for self-administered erythropoietin as described in section 1395x(s)(2)(P) <sup>1</sup> of this title if the Secretary finds that the patient receiving such drug from such a supplier can safely and effectively administer the drug (in accordance with the applicable methods and standards established by the Secretary pursuant to such section). The requirements prescribed by the Secretary under subparagraph (A) shall include requirements for a minimum utilization rate for transplantations.
 
 (2)(A) With respect to payments for dialysis services furnished by providers of services and renal dialysis facilities to individuals determined to have end stage renal disease for which payments may be made under part B of this subchapter, such payments (unless otherwise provided in this section) shall be equal to 80 percent of the amounts determined in accordance with subparagraph (B); and with respect to payments for services for which payments may be made under part A of this subchapter, the amounts of such payments (which amounts shall not exceed, in respect to costs in procuring organs attributable to payments made to an organ procurement agency or histocompatibility laboratory, the costs incurred by that agency or laboratory) shall be determined in accordance with section 1395x(v) of this title or section 1395ww of this title (if applicable). Payments shall be made to a renal dialysis facility only if it agrees to accept such payments as payment in full for covered services, except for payment by the individual of 20 percent of the estimated amounts for such services calculated on the basis established by the Secretary under subparagraph (B) and the deductible amount imposed by section 1395<i>l</i>(b) of this title.
 
@@ -70,7 +70,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 &emsp;(D) the proportion of the aggregate administrative funds collected in the network area.
 
-> The Secretary shall increase the amount of each composite rate payment for dialysis services furnished during 2000 by 1.2 percent above such composite rate payment amounts for such services furnished on December 31, 1999, for such services furnished on or after January 1, 2001, and before January 1, 2005, by 2.4 percent above such composite rate payment amounts for such services furnished on December 31, 2000, and for such services furnished on or after January 1, 2005, by 1.6 percent above such composite rate payment amounts for such services furnished on December 31, 2004.
+> The Secretary shall increase the amount of each composite rate payment for dialysis services furnished during 2000 by 1.2 percent above such composite rate payment amounts for such services furnished on December 31, 1999, for such services furnished on or after January 1, 2001, and before January 1, 2005, by 2.4 percent above such composite rate payment amounts for such services furnished on December 31, 2000, and for such services furnished on or after January 1,2005, by 1.6 percent above such composite rate payment amounts for such services furnished on December 31, 2004.
 
 (8) For purposes of this subchapter, the term “home dialysis supplies and equipment” means medically necessary supplies and equipment (including supportive equipment) required by an individual suffering from end stage renal disease in connection with renal dialysis carried out in his home (as defined in regulations), including obtaining, installing, and maintaining such equipment.
 
@@ -138,7 +138,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 &emsp;(i) For such drugs and biologicals (other than erythropoietin) furnished in 2004, the amount determined under section 1395u(<i>o</i>)(1)(A)(v) of this title for the drug or biological.
 
-&emsp;(ii) For such drugs and biologicals (including erythropoietin) furnished in 2005, the acquisition cost of the drug or biological, as determined by the Inspector General reports to theSecretary as required by section 623(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003. Insofar as the Inspector General has not determined the acquisition cost with respect to a drug or biological, the Secretary shall determine the payment amount for such drug or biological.
+&emsp;(ii) For such drugs and biologicals (including erythropoietin) furnished in 2005, the acquisition cost of the drug or biological, as determined by the Inspector General reports to the Secretary as required by section 623(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003. Insofar as the Inspector General has not determined the acquisition cost with respect to a drug or biological, the Secretary shall determine the payment amount for such drug or biological.
 
 &emsp;(iii) For such drugs and biologicals (including erythropoietin) furnished in 2006 and subsequent years, such acquisition cost or the amount determined under section 1395w–3a of this title for the drug or biological, as the Secretary may specify.
 
@@ -162,7 +162,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 (B) At least one patient representative shall serve as a member of each network council and each medical review board.
 
-(C) The Secretary shall, in regulations, prescribe requirements with respect to membership in network organizations by individuals (and the relatives of such individuals) (i) who have an ownership or control interest in a facility or provider which furnishes services referred to in section 1395x(s)(2)(F) of this title, or (ii) who have received remuneration from any such facility or provider in excess of such amounts as constitute reasonable compensation for services (including time and effort relative to the provision of professional medical services) or goods supplied to such facility or provider; and such requirements shall provide for the definition, disclosure, and, to the maximum extent consistent with effective administration, prevention of potential or actual financial or professional conflicts of interest with respect to decisions concerning the appropriateness, nature, or site of patient care.
+(C) The Secretary shall, in regulations, prescribe requirements with respect to membership in network organizations by individuals (and the relatives of such individuals) (i) who have anownership or control interest in a facility or provider which furnishes services referred to in section 1395x(s)(2)(F) of this title, or (ii) who have received remuneration from any such facility or provider in excess of such amounts as constitute reasonable compensation for services (including time and effort relative to the provision of professional medical services) or goods supplied to such facility or provider; and such requirements shall provide for the definition, disclosure, and, to the maximum extent consistent with effective administration, prevention of potential or actual financial or professional conflicts of interest with respect to decisions concerning the appropriateness, nature, or site of patient care.
 
 (2) The network organizations of each network shall be responsible, in addition to such other duties and functions as may be prescribed by the Secretary, for—
 
@@ -238,7 +238,7 @@ Notwithstanding any provision to the contrary in section 426 of this title any i
 
 (5) The Secretary shall conduct a full and complete study of the reimbursement of physicians for services furnished to patients with end stage renal disease under this subchapter, giving particular attention to the range of payments to physicians for such services, the average amounts of such payments, and the number of hours devoted to furnishing such services to patients at home, in renal disease facilities, in hospitals, and elsewhere.
 
-(6) The Secretary shall conduct a study of the number of patients with end stage renal disease who are not eligible for benefits with respect to such disease under this subchapter (by reason of this section or otherwise), and of the economic impact of such noneligibility of such individuals. Such study shall include consideration of mechanisms whereby governmental and other health plans might be instituted or modified to permit the purchase of actuarially sound coverage for the costs of end stage renal disease.
+(6) The Secretary shall conduct a study of the number of patients with end stage renal disease who are not eligible for benefits with respect to such disease under this subchapter (by reason of this section or otherwise), and of the economicimpact of such noneligibility of such individuals. Such study shall include consideration of mechanisms whereby governmental and other health plans might be instituted or modified to permit the purchase of actuarially sound coverage for the costs of end stage renal disease.
 
 (7)(A) The Secretary shall establish protocols on standards and conditions for the reuse of dialyzer filters for those facilities and providers which voluntarily elect to reuse such filters.
 
@@ -306,7 +306,7 @@ Subsec. (b)(4). Pub. L. 101–239, §6203(b)(2), designated existing provisions 
 
 Subsec. (b)(7). Pub. L. 101–239, §6219(a), substituted “organizations (designated under subsection (c)(1)(A) of this section) for such organizations’ necessary and proper administrative costs incurred in carrying out the responsibilities described in subsection (c)(2) of this section. The Secretary shall provide that amounts paid under the previous sentence shall be distributed to the organizations described in subsection (c)(1)(A) of this section to ensure equitable treatment of all such network organizations. The Secretary in distributing any such payments to network organizations shall take into account—” and subpars. (A) to (D) for “network administrative organization (designated under subsection (c)(1)(A) of this section for the network area in which the treatment is provided) for its necessary and proper administrative costs incurred in carrying out its responsibilities under subsection (c)(2) of this section.” in last sentence.
 
-Pub. L. 101–239, §6203(b)(1), inserted after second sentence “The amount of a payment made under any method other than a method based on a single composite weighted formula may not exceed the amount (or,in the case of continuous cycling peritoneal dialysis, 130 percent of the amount) of the median payment that would have been made under the formula for hospital-based facilities.”
+Pub. L. 101–239, §6203(b)(1), inserted after second sentence “The amount of a payment made under any method other than a method based on a single composite weighted formula may not exceed the amount (or, in the case of continuous cycling peritoneal dialysis, 130 percent of the amount) of the median payment that would have been made under the formula for hospital-based facilities.”
 
 Subsec. (c)(8). Pub. L. 101–239, §6219(b), added par. (8).
 
@@ -346,7 +346,7 @@ Subsec. (c)(2)(H). Pub. L. 99–509, §9335(f)(4), (5), redesignated former subp
 
 Subsec. (c)(3). Pub. L. 99–509, §9335(g), inserted “or to follow the recommendations of the medical review board” after “network plans and goals”.
 
-Subsec. (c)(6). Pub. L. 99–509, §9335(h), inserted “and that the maximum practical number of patients who are suitable candidates for vocational rehabilitation services be given access to such services and encouraged to return to gainful employment” at end of first sentence.
+Subsec. (c)(6). Pub. L. 99–509, §9335(h), inserted “and that the maximum practical number of patients who are suitable candidates for vocational rehabilitationservices be given access to such services and encouraged to return to gainful employment” at end of first sentence.
 
 Subsec. (c)(7). Pub. L. 99–509, §9335(i)(1), added par. (7).
 
@@ -368,7 +368,7 @@ Subsec. (b)(3)(B). Pub. L. 97–35, §2145(a)(3), substituted “or other basis 
 
 Subsec. (b)(4). Pub. L. 97–35, §2145(a)(4), inserted reference to alternative basis of a method established under par. (7).
 
-Subsec. (b)(6). Pub. L. 97–35, §2145(a)(5), (6), substituted “(except as may be provided in regulations under paragraph (7)) shall such target rate exceed 75 percent” and “any other procedure (including methods established under paragraph (7)) which the Secretary”for “shall such target rate exceed 70 percent” and “any other procedure which the Secretary”, respectively.
+Subsec. (b)(6). Pub. L. 97–35, §2145(a)(5), (6), substituted “(except as may be provided in regulations under paragraph (7)) shall such target rate exceed 75 percent” and “any other procedure (including methods established under paragraph (7)) which the Secretary” for “shall such target rate exceed 70 percent” and “any other procedure which the Secretary”, respectively.
 
 Subsec. (b)(7) to (10). Pub. L. 97–35, §2145(a)(7), (8), added par. (7) and redesignated former pars. (7) to (9) as (8) to (10), respectively.
 
@@ -502,7 +502,9 @@ Facilities included in the demonstration.—In conducting the demonstration unde
 
 &emsp;“(F) Specialty providers and facilities, including pediatric providers and facilities and small providers and facilities.
 
-“(3) Temporary add-on payment for dialysis services furnished under the demonstration.—
+“(3)
+
+Temporary add-on payment for dialysis services furnished under the demonstration.—
 
 &emsp;“(A)
 
@@ -700,7 +702,7 @@ In general.—
 
 &emsp;“(A)
 
-Study.—The Prospective Payment Assessment Commission (in this subsection referred to as the‘Commission’) shall conduct a study to determine the costs and services and profits associated with various modalities of dialysis treatments provided to end stage renal disease patients provided under title XVIII of the Social Security Act \[this subchapter\].
+Study.—The Prospective Payment Assessment Commission (in this subsection referred to as the ‘Commission’) shall conduct a study to determine the costs and services and profits associated with various modalities of dialysis treatments provided to end stage renal disease patients provided under title XVIII of the Social Security Act \[this subchapter\].
 
 &emsp;“(B)
 
@@ -762,7 +764,7 @@ In general.—Under the demonstration project established under subsection (a), 
 
 Services described.—For purposes of subparagraph (A), the term ‘services of a home hemodialysis staff assistant’ means—
 
-&emsp;&emsp;&emsp;“(i) technical assistance with the operation of a hemodialysis machine in the patient's home and with such patient's care during in-home hemodialysis; and
+&emsp;&emsp;&emsp;“(i) technical assistance with the operation of a hemodialysis machine in the patient's home andwith such patient's care during in-home hemodialysis; and
 
 &emsp;&emsp;&emsp;“(ii) administration of medications within the patient's home to maintain the patency of the extra corporeal circuit.
 
@@ -917,10 +919,6 @@ Section 9335(k)(2) of Pub. L. 99–509, as amended by Pub. L. 100–203, title I
 #### Limitation on Merger of End Stage Renal Disease Networks
 
 Pub. L. 99–272, title IX, §9214, Apr. 7, 1986, 100 Stat. 180, provided that: “The Secretary of Health and Human Services shall maintain renal disease network organizations as authorized under section 1881(c) of the Social Security Act \[subsec. (c) of this section\], and may not merge the network organizations into other organizations or entities. The Secretary may consolidate such network organizations, but only if such consolidation does not result in fewer than 14 such organizations being permitted to exist.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 426–1, 1395f, 1395<i>l</i>, 1395u, 1395w–23, 1395x, 1395aa, 1395bb, 1396r–8 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

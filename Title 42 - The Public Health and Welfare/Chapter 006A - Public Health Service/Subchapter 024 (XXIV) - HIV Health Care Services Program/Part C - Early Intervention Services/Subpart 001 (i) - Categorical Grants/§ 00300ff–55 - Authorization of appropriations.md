@@ -14,7 +14,3 @@ For the purpose of making grants under section 300ff–51 of this title, there a
 
 Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300ff–54 of this title.
-

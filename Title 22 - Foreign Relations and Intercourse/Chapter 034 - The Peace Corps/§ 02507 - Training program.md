@@ -22,7 +22,3 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 Functions of President under this section delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2504 of this title; title 5 section 8142.
-

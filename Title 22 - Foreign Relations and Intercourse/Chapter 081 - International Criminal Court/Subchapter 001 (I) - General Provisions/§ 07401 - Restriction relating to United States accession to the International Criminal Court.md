@@ -22,7 +22,3 @@ Section was formerly set out as a note under section 262–1 of this title.
 
 Pub. L. 107–206, title II, §2001, Aug. 2, 2002, 116 Stat. 899, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘American Servicemembers’ Protection Act of 2002’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7402, 7429 of this title.
-

@@ -6,7 +6,7 @@ Payments from the contingent fund of the Senate for materials and supplies (incl
 
 #### Amendments
 
-<b>1946</b>—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee to Audit and Control Contingent Expenses”.
+1946—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee to Audit and Control Contingent Expenses”.
 
 #### Change of Name
 

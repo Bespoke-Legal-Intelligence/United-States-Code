@@ -20,7 +20,3 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 For delegation of certain functions of President under this section, see Memorandum of President of May 30, 2001, 66 F.R. 30629, set out as a note under section 1942 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1945 of this title.
-

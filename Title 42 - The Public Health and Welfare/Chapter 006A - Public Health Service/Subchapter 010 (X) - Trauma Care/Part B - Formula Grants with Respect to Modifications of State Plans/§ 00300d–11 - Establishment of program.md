@@ -14,9 +14,5 @@ Except as provided in section 300d–33 <sup>1</sup> of this title, the Secreta
 
 Section 300d–33 of this title, referred to in subsec. (b), was repealed by Pub. L. 103–183, title VI, §601(e), Dec. 14, 1993, 107 Stat. 2239.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300d–12, 300d–13, 300d–14, 300d–15, 300d–16, 300d–17, 300d–18, 300d–19, 300d–20, 300d–21, 300d–22, 300d–32 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

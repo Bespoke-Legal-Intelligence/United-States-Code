@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—ESTABLISHMENT OF DEPARTMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 7232, 7341 of this title.
-
 
 ---
 

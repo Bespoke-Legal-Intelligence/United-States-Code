@@ -38,7 +38,3 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 In this section, before clause (1), the words “Notwithstanding any other provision of this chapter” are omitted as surplus. The words “a citizen of the United States providing transportation under section 41101(b) of this title” are substituted for “any citizen of the United States who undertakes, within any State, the carriage of persons or property as a common carrier for compensation or hire with aircraft capable of carrying thirty or more persons pursuant to authority for such carriage within such State granted by the appropriate State agency” for clarity and because of the restatement of 49 App.:1371(d)(4)(A)(i) and (ii) (related to joint services) in section 41101(b) of the revised title. The words “the establishment of” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41110 of this title.
-

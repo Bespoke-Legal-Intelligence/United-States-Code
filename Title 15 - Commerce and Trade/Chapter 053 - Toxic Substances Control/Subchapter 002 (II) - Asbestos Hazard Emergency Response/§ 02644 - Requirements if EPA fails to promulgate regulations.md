@@ -104,9 +104,5 @@ The local educational agency shall provide for the transportation and disposal o
 
 (Pub. L. 94–469, title II, §204, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2977.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2643, 2645, 2646, 2647 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection,”.</i>
 

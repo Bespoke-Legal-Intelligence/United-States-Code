@@ -14,7 +14,3 @@
 
 Section to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which the defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as an Effective Date of 1996 Amendment note under section 2248 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3572, 3664 of this title.
-

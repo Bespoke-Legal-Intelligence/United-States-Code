@@ -52,6 +52,10 @@ Subsec. (f). Pub. L. 99–661, §1370(2), added subsec. (f).
 
 #### Change of Name
 
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1998 Amendment
@@ -69,8 +73,4 @@ Requirement to Provide Information.—The head of each department and agency des
 “(b)
 
 Issuance of Directives.—Not later than February 1, 2000, the Secretary of State, the Secretary of Defense, the Secretary of Commerce, the Secretary of Energy, the Director of Central Intelligence, and the Chairman of the Nuclear Regulatory Commission shall issue directives, which shall provide access to information, including information contained in special access programs, to implement their responsibilities under subsections (c) and (d) of section 602 of the Nuclear Non-Proliferation Act of 1978 (22 U.S.C. 3282(c) and (d)). Copies of such directives shall be forwarded promptly to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives upon the issuance of the directives.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6304 of this title.
 

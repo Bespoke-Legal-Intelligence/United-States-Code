@@ -20,7 +20,3 @@ R.S. §5143 derived from act June 3, 1864, ch. 106, §13, 13 Stat. 103, which wa
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 56 of this title.
-

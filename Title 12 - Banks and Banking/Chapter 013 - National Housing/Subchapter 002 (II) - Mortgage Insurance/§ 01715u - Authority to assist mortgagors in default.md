@@ -2,7 +2,7 @@
 
 #### (a) Loss mitigation
 
-Upon default of any mortgage insured under this subchapter, mortgagees shall engage in loss mitigation actions for the purpose of providingan alternative to foreclosure (including but not limited to actions such as special forbearance, loss modification, and deeds in lieu of foreclosure, but not including assignment of mortgages to the Secretary under section 1710(a)(1)(A) of this title) as provided in regulations by the Secretary.
+Upon default of any mortgage insured under this subchapter, mortgagees shall engage in loss mitigation actions for the purpose of providing an alternative to foreclosure (including but not limited to actions such as special forbearance, loss modification, and deeds in lieu of foreclosure, but not including assignment of mortgages to the Secretary under section 1710(a)(1)(A) of this title) as provided in regulations by the Secretary.
 
 #### (b) Payment of partial claim
 
@@ -44,7 +44,7 @@ No decision by the Secretary to exercise or forego exercising any authority unde
 
 No provision of this chapter, or any other law, shall be construed to require the Secretary to provide an alternative to foreclosure for mortgagees with mortgages on 1- to 4-family residences insured by the Secretary under this chapter, or to accept assignments of such mortgages.
 
-(June 27, 1934, ch. 847, title II, §230, as added Pub. L. 86–372, title I, §114(a), Sept. 23, 1959, 73 Stat. 662; amended Pub. L. 88–560, title I, §104(b), Sept. 2, 1964, 78 Stat. 770; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 96–399, title III, §341, Oct. 8, 1980, 94 Stat. 1659; Pub. L. 98–181, title IV, §418, Nov. 30, 1983, 97 Stat. 1212; Pub. L. 100–242, title IV, §428, Feb. 5, 1988, 101 Stat. 1918; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–99, title IV, §407(b), Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–134, title I, §101(e) \[title II, §221(b)(2)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–291; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–276, title VI, §601(f), Oct. 21, 1998, 112 Stat. 2674.)
+(June 27, 1934, ch. 847, title II, §230, as added Pub. L. 86–372, title I, §114(a), Sept. 23, 1959, 73 Stat. 662; amended Pub. L. 88–560, title I, §104(b), Sept. 2, 1964, 78 Stat. 770; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 96–399, title III, §341, Oct. 8, 1980, 94 Stat. 1659; Pub. L. 98–181, title IV, §418, Nov. 30, 1983, 97 Stat. 1212; Pub. L. 100–242, title IV, §428, Feb. 5, 1988, 101 Stat. 1918; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–99, title IV, §407(b), Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–134, title I, §101(e) \[title II, §221(b)(2)\], Apr. 26, 1996, 110 Stat. 1321–257,1321–291; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–276, title VI, §601(f), Oct. 21, 1998, 112 Stat. 2674.)
 
 #### Amendments
 
@@ -62,7 +62,7 @@ Subsec. (d). Pub. L. 104–134 struck out heading and text of subsec. (d). Text 
 
 1980—Subsec. (a). Pub. L. 96–399 added subsec. (a). Existing undesignated provisions were designated as subsec. (b)(1).
 
-Subsec. (b). Pub. L. 96–399 designated existing undesignated provision as par. (1), made changes in phraseology which included applicability of remedy providedby subsection (a) of this section and determinations made pursuant to such subsection, and added pars. (2) and (3).
+Subsec. (b). Pub. L. 96–399 designated existing undesignated provision as par. (1), made changes in phraseology which included applicability of remedy provided by subsection (a) of this section and determinations made pursuant to such subsection, and added pars. (2) and (3).
 
 Subsecs. (c), (d). Pub. L. 96–399 added subsecs. (c) and (d).
 
@@ -77,8 +77,4 @@ Amendment by Pub. L. 104–99 applicable with respect to mortgages insured under
 #### Savings Provision
 
 Section 101(e) \[title II, §221(b)(1)\] of Pub. L. 104–134 provided that: “Any mortgage for which the mortgagor has applied to the Secretary, before the date of enactment of this Act \[Apr. 26, 1996\], for assignment to the Secretary pursuant to section 230(b) of the National Housing Act \[12 U.S.C. 1715u(b)\] shall continue to be governed by the provisions of such section, as in effect immediately before enactment of the Balanced Budget Downpayment Act, I \[Pub. L. 104–99, which was approved Jan. 26, 1996\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1710, 1735f–14 of this title.
 

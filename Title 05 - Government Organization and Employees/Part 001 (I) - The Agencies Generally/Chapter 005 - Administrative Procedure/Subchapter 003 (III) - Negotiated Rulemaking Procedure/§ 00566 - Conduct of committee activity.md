@@ -20,7 +20,7 @@ Duties of Facilitator.—A facilitator approved or selected by a negotiated rule
 
 &emsp;(2) impartially assist the members of the committee in conducting discussions and negotiations; and
 
-&emsp;(3) manage the keeping of minutes and records as required under section 10(b) and (c) of the Federal Advisory Committee Act, except that any personal notes and materials of the facilitator or of the members of a committee shall not be subject to section 552 of this title.
+&emsp;(3) manage the keeping of minutes and records as required under section 10(b) and (c)of the Federal Advisory Committee Act, except that any personal notes and materials of the facilitator or of the members of a committee shall not be subject to section 552 of this title.
 
 (e)
 
@@ -43,8 +43,4 @@ Section 10 of the Federal Advisory Committee Act, referred to in subsecs. (c), (
 #### Amendments
 
 1992—Pub. L. 102–354 renumbered section 586 of this title as this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 1395w–26.
 

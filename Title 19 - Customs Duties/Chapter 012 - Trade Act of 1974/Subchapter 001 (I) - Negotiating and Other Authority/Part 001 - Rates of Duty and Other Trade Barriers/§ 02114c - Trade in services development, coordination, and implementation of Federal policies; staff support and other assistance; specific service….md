@@ -34,10 +34,6 @@ Section was enacted as part of the International Trade and Investment Act, and a
 
 Section is comprised of subsec. (c)(1), (2)(A) of section 306 of Pub. L. 98–573. Subsec. (a) of such section is classified to section 2114(b) of this title, subsec. (b) of such section amended sections 3101, 3103, and 3104 of Title 22, Foreign Relations and Intercourse, and enacted a provision set out as a note under section 3101 of Title 22, and subsec. (c)(2)(B), (C) of such section amended sections 2114, 2155, 2413, and 2414 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3312, 3512 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “Representative”.</i>
 
 <i><sup>2</sup></i><i> See Codification note below.</i>

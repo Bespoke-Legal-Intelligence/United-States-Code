@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—PUBLIC ACCOMMODATIONS AND SERVICES OPERATED BY PRIVATE ENTITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 12201, 12203, 12204, 12206 of this title; title 29 section 792.
-
 
 ---
 

@@ -98,7 +98,3 @@ Performance of Study and Review.—(1) The Secretary shall provide for the perfo
 
 Reporting Requirements.—Not later than June 1, 2005, the Federal entities conducting the study and review under this section shall submit to the Secretary reports containing the results of the study and review.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300j–12 of this title.
-

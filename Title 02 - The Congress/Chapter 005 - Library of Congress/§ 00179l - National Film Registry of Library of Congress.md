@@ -6,7 +6,7 @@ The Librarian of Congress (hereafter in sections 179<i>l</i> to 179w of this tit
 
 #### Termination of Section
 
-<i>For termination of section, see section 179w of this title.</i>
+<i>For termination of section, see section 179w of this title and section 1205(a) of Pub. L. 108–447, set out as an Effective Date Extension note under section 179w of this title.</i>
 
 #### References in Text
 
@@ -23,12 +23,4 @@ Prior provisions similar to sections 179<i>l</i> to 179w of this title were cont
 #### Short Title
 
 Section 101 of title I of Pub. L. 104–285 provided that: “This title \[enacting this section and sections 179m to 179w of this title and repealing sections 179 to 179k of this title and provisions set out as a note under section 179 of this title\] may be cited as the ‘National Film Preservation Act of 1996’.”
-
-#### Act Referred to in Other Sections
-
-The National Film Preservation Act of 1996 is referred to in title 36 section 151702.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 179s, 179t, 179u, 179v, 179w of this title.
 

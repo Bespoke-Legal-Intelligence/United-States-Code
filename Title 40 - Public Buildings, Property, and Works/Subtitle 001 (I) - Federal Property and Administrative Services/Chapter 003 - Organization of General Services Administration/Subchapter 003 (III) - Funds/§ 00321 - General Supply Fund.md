@@ -96,7 +96,7 @@ Payment in advance.—A requisitioning agency shall pay in advance when the Admi
 
 &emsp;&emsp;(B)
 
-Prompt reimbursement.—If payment is not made in advance, the Administration shall be reimbursed promptly out of amounts of the requisitioning agency in accordance with accounting procedures approved by the Comptroller General.
+Prompt reimbursement.—If payment is not made in advance, the Administration shall be reimbursed promptly out ofamounts of the requisitioning agency in accordance with accounting procedures approved by the Comptroller General.
 
 &emsp;&emsp;(C)
 
@@ -203,8 +203,4 @@ In subsection (d)(2)(B), the words “with respect to the supplies or services c
 In subsection (e), the text of 40:756b(b) and the words “Notwithstanding any other provision of law” are omitted as unnecessary.
 
 In subsection (f)(2), the words “on and after June 5, 1981” are omitted as obsolete.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 521, 522, 524, 573, 605 of this title; title 42 section 7588.
 

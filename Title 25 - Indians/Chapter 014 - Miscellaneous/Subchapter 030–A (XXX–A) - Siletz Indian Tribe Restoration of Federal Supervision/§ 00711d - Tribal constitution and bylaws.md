@@ -20,11 +20,7 @@ In any election held pursuant to subsection (a) of this section, the vote of a m
 
 #### (d) Election of tribal officials provided for in constitution and bylaws; ballot requirements
 
-Not later than one hundred and twenty days after the tribe adopts a constitution and bylaws, the Interim Council shall conduct an election by secret ballot for the purpose of electing the individuals who will serve as tribal officials as provided in the tribal constitution and bylaws. Forthe purpose of this election and notwithstanding any provision in the tribal constitution and bylaws to the contrary, absentee balloting shall be permitted.
+Not later than one hundred and twenty days after the tribe adopts a constitution and bylaws, the Interim Council shall conduct an election by secret ballot for the purpose of electing the individuals who will serve as tribal officials as provided in the tribal constitution and bylaws. For the purpose of this election and notwithstanding any provision in the tribal constitution and bylaws to the contrary, absentee balloting shall be permitted.
 
 (Pub. L. 95–195, §6, Nov. 18, 1977, 91 Stat. 1417.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 711b, 711c, 711e of this title.
 

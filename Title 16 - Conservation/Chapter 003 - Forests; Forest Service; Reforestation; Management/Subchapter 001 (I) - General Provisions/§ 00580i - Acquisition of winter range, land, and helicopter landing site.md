@@ -12,7 +12,3 @@ Land acquired under this section may be subject to such reservations and outstan
 
 (Apr. 24, 1950, ch. 97, §14, 64 Stat. 86.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 580k of this title.
-

@@ -46,7 +46,3 @@ In subsection (d), the words “Not later than 1 year after the date of enactmen
 
 1998—Pub. L. 105–178 substituted “See section 31144.” for subsecs. (a) to (d) which related to unsatisfactory safety ratings.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5127, 31144 of this title.
-

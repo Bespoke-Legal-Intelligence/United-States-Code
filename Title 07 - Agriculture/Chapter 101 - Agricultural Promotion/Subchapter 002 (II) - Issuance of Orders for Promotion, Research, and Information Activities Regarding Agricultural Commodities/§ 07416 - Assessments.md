@@ -24,7 +24,7 @@ The board shall recommend to the Secretary 1 or more rates of assessment to be l
 
 #### (1) In general
 
-&emsp;Late-payment and interest charges may be levied on each person subject to an order who fails to remit an assessment in accordance with subsection (b) of this section.
+&emsp;Late-payment and interest charges may be levied on each person subject to an order whofails to remit an assessment in accordance with subsection (b) of this section.
 
 #### (2) Rate
 
@@ -85,8 +85,4 @@ Pending disbursement of assessments under a budget approved by the Secretary, a 
 &emsp;&emsp;(B) the funds shall be available to the board for disbursement as authorized in the order.
 
 (Pub. L. 104–127, title V, §517, Apr. 4, 1996, 110 Stat. 1042.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7414, 7415, 7417 of this title.
 

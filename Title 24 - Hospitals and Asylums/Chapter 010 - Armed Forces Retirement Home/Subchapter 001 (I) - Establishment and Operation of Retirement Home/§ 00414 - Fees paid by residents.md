@@ -18,7 +18,7 @@ The Directors shall deposit fees collected under subsection (a) of this section 
 
 #### (d) Transitional fee structures
 
-(1) Until different fees are prescribed and take effect under subsection (c) of this section, the percentages and limitations on maximum monthly amount that are applicable to fees charged residents of the Retirement Home are (subject to any adjustment that the Secretary of Defense determines appropriate) as follows:
+(1) Until different fees are prescribed and take effect under subsection (c) of this section, the percentages and limitations on maximummonthly amount that are applicable to fees charged residents of the Retirement Home are (subject to any adjustment that the Secretary of Defense determines appropriate) as follows:
 
 &emsp;(A) For months beginning before January 1, 2002—
 
@@ -59,8 +59,4 @@ Section 371(d)(2) of Pub. L. 103–337 provided that: “The amendments made by 
 #### Effective Date
 
 Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 419 of this title.
 

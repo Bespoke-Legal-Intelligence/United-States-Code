@@ -52,7 +52,7 @@ For the purposes of any provision of law that authorizes the drawdown of defense
 
 There are authorized to be appropriated to the President such sums as may be necessary to reimburse the applicable appropriation, fund, or account for defense articles, defense services, and military education and training provided under this section.
 
-(Pub. L. 87–195, pt. II, §506, formerly §510, Sept. 4, 1961, 75 Stat. 437; Pub. L. 87–565, pt. II, §201(d), Aug. 1, 1962, 76 Stat. 260; Pub. L. 88–205, pt. II, §202(c), Dec. 16, 1963, 77 Stat. 384; Pub. L. 88–633, pt. II, §201(e), Oct. 7, 1964, 78 Stat. 1012; Pub. L. 89–171, pt. II, §201(g), Sept. 6, 1965, 79 Stat. 658; Pub. L. 89–583, pt. II, §201(d), Sept. 19, 1966, 80 Stat. 803; renumbered §506 and amended Pub. L. 90–137, pt. II, §201(j), Nov. 14, 1967, 81 Stat. 457; Pub. L. 90–554, pt. II, §201(b), Oct. 8, 1968, 82 Stat. 962; Pub. L. 91–175, pt. II, §202, Dec. 30, 1969, 83 Stat. 820; Pub. L. 92–226, pt. II, §201(d), pt. III, §304(a)(2), Feb. 7, 1972, 86 Stat. 25, 28; Pub. L. 93–189, §12(b)(4), Dec. 17, 1973, 87 Stat. 721; Pub. L. 93–559, §11, Dec. 30, 1974, 88 Stat. 1798; Pub. L. 94–329, title I, §102, June 30, 1976, 90 Stat. 730; Pub. L. 96–92, §5(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 96–533, title I, §112(c), Dec. 16, 1980, 94 Stat. 3139; Pub. L. 97–113, title I, §110(b), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 101–167, title V, §551(b), Nov. 21, 1989, 103 Stat. 1236; Pub. L. 104–164, title I, §103(a), (b), July 21, 1996, 110 Stat. 1423; Pub. L. 105–118, title V, §576, Nov. 26, 1997, 111 Stat. 2433; Pub. L. 106–280, title I, §121, Oct. 6, 2000, 114 Stat. 850.)
+(Pub. L. 87–195, pt. II, §506, formerly §510, Sept. 4, 1961, 75 Stat. 437; Pub. L. 87–565, pt. II, §201(d), Aug. 1, 1962, 76 Stat. 260; Pub. L. 88–205, pt. II, §202(c), Dec. 16, 1963, 77 Stat. 384; Pub. L. 88–633, pt. II, §201(e), Oct. 7, 1964, 78 Stat. 1012; Pub. L. 89–171, pt. II, §201(g), Sept. 6, 1965, 79 Stat. 658; Pub. L. 89–583, pt. II, §201(d), Sept. 19, 1966, 80 Stat. 803; renumbered §506 and amended Pub. L. 90–137, pt. II, §201(j), Nov. 14, 1967, 81 Stat. 457; Pub. L. 90–554, pt. II, §201(b), Oct. 8, 1968, 82 Stat. 962; Pub. L. 91–175, pt. II, §202, Dec. 30, 1969, 83 Stat. 820; Pub. L. 92–226, pt. II, §201(d), pt. III, §304(a)(2), Feb. 7, 1972, 86 Stat. 25, 28; Pub. L. 93–189, §12(b)(4), Dec. 17, 1973, 87 Stat. 721; Pub. L. 93–559, §11, Dec. 30, 1974, 88 Stat. 1798; Pub. L. 94–329, title I, §102, June 30, 1976, 90 Stat. 730; Pub. L. 96–92, §5(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 96–533, title I, §112(c), Dec. 16, 1980, 94 Stat. 3139; Pub. L. 97–113, title I, §110(b), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 101–167, title V, §551(b), Nov. 21, 1989, 103 Stat. 1236; Pub. L. 104–164, title I, §103(a), (b), July 21, 1996, 110 Stat. 1423; Pub. L. 105–118, title V, §576, Nov. 26, 1997,111 Stat. 2433; Pub. L. 106–280, title I, §121, Oct. 6, 2000, 114 Stat. 850.)
 
 #### References in Text
 
@@ -70,7 +70,7 @@ References to subchapter II of this chapter are deemed to exclude parts IV (§23
 
 Subsec. (a)(2)(B). Pub. L. 106–280, §121(a), substituted “$200,000,000” for “$150,000,000” in introductory provisions.
 
-1997—Subsec. (b)(2). Pub. L. 105–118, §576(1), inserted before period at end “, including providing the Congress with a report detailing all defense articles, defense services, and military education and training delivered to the recipient country or international organization upon delivery of such articles or upon completion of such services or education and training. Suchreport shall also include whether any savings were realized by utilizing commercial transport services rather than acquiring those services from United States Government transport assets”.
+1997—Subsec. (b)(2). Pub. L. 105–118, §576(1), inserted before period at end “, including providing the Congress with a report detailing all defense articles, defense services, and military education and training delivered to the recipient country or international organization upon delivery of such articles or upon completion of such services or education and training. Such report shall also include whether any savings were realized by utilizing commercial transport services rather than acquiring those services from United States Government transport assets”.
 
 Subsecs. (c), (d). Pub. L. 105–118, §576(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -129,8 +129,4 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 287b, 287e–2, 2360, 2370, 2392, 2411, 7532 of this title.
 

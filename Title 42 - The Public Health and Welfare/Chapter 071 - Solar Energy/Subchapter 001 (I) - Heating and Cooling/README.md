@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—HEATING AND COOLING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5553, 5902, 7135a of this title.
-
 
 ---
 

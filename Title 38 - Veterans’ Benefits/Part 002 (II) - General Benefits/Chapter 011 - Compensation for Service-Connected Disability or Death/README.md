@@ -119,10 +119,6 @@ Pub. L. 102–4, §2(a)(2), Feb. 6, 1991, 105 Stat. 13, added item 316.
 
 1960—Pub. L. 86–501, §2, June 10, 1960, 74 Stat. 195, added item 359.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 106, 107, 1310, 1315, 1712, 1822, 2101, 3102, 3485, 3501, 3901, 4213, 5125, 5303A, 5310, 5313B, 5317 of this title; title 10 sections 1086, 1437, 1446, 1450; title 26 section 6103; title 31 section 3803; title 42 section 6862.
-
 
 ---
 

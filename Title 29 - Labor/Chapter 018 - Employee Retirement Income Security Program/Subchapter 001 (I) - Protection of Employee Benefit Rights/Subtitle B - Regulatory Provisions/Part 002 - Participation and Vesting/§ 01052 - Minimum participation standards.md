@@ -34,7 +34,7 @@
 
 (3) In computing an employee's period of service for purposes of subsection (a)(1) of this section in the case of any participant who has any 1-year break in service (as defined in section 1053(b)(3)(A) of this title), service before such break shall not be required to be taken into account under the plan until he has completed a year of service (as defined in subsection (a)(3) of this section) after his return.
 
-(4)(A) For purposes of paragraph (1), in the case of a nonvested participant, years of service with the employer or employers maintaining the plan before any period of consecutive 1-year breaks in service shall not be required to be taken into account in computing the period of service if the number of consecutive 1-year breaks in service within such period equals or exceeds the greater of—
+(4)(A) For purposes of paragraph (1), in the case of a nonvested participant, years of service with the employer or employers maintaining the plan before any period of consecutive 1-yearbreaks in service shall not be required to be taken into account in computing the period of service if the number of consecutive 1-year breaks in service within such period equals or exceeds the greater of—
 
 &emsp;(i) 5, or
 
@@ -141,8 +141,4 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 For provisions directing that if any amendments made by Pub. L. 99–509 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1002, 1053, 1054, 1060, 1061 of this title.
 

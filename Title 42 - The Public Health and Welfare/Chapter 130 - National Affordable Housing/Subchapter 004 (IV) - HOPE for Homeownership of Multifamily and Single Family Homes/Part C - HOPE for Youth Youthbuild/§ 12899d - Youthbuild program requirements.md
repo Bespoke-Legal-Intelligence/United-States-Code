@@ -44,7 +44,7 @@ Each residential rental housing project receiving assistance under this part sha
 
 #### (4) Tenant participation plan
 
-&emsp;For each project owned by a nonprofit organization, the organization shall provide a plan for and follow a program of tenant participation in management decisions.
+&emsp;For each project owned by a nonprofit organization, the organization shall provide a planfor and follow a program of tenant participation in management decisions.
 
 #### (5) Prohibition against discrimination
 
@@ -62,7 +62,7 @@ Each transitional housing project receiving assistance under this part shall adh
 
 #### (2) Profit limitations on partners
 
-&emsp;A nonprofit organization that receives assistance under this part for a project shallagree to use any profit received from the operation, sale, or other disposition of the project for the purpose of providing housing for low- and moderate-income families. Profit-motivated partners in a nonprofit partnership may receive—
+&emsp;A nonprofit organization that receives assistance under this part for a project shall agree to use any profit received from the operation, sale, or other disposition of the project for the purpose of providing housing for low- and moderate-income families. Profit-motivated partners in a nonprofit partnership may receive—
 
 &emsp;&emsp;(A) not more than a 6 percent return on their equity investment from project operations; and
 

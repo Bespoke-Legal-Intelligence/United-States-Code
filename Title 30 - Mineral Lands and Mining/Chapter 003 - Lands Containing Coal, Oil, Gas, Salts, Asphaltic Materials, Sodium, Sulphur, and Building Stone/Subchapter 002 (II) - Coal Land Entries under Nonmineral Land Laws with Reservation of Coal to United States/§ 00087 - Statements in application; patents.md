@@ -4,7 +4,3 @@ Any applicant for lands mentioned in section 86 of this title shall state in his
 
 (Feb. 27, 1917, ch. 133, §2, 39 Stat. 945.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 88, 89 of this title.
-

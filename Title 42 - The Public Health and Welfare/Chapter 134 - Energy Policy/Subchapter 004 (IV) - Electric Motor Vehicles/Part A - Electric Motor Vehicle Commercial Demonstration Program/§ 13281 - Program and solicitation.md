@@ -20,7 +20,3 @@ The Secretary shall conduct a program to demonstrate electric motor vehicles and
 
 (Pub. L. 102–486, title VI, §611, Oct. 24, 1992, 106 Stat. 2900.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13282 of this title.
-

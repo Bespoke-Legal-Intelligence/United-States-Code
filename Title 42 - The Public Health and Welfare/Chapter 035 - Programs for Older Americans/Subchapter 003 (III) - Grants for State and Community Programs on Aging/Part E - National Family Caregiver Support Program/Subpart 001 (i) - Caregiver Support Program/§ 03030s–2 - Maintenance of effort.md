@@ -4,7 +4,3 @@ Funds made available under this subpart shall supplement, and not supplant, any 
 
 (Pub. L. 89–73, title III, §374, as added Pub. L. 106–501, title III, §316(2), Nov. 13, 2000, 114 Stat. 2256.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3057k–11 of this title.
-

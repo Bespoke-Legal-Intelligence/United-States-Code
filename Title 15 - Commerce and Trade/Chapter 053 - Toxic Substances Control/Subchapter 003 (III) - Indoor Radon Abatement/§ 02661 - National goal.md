@@ -78,7 +78,3 @@ Secretary.—The term ‘Secretary’ means the Secretary of Housing and Urban D
 
 Authorization.—Funds available for housing covered by this section shall be available to carry out this section with respect to such housing.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2663 of this title.
-

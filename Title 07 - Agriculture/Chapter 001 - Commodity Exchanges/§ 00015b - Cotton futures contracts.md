@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (1) Definition
 
-&emsp;For purposes of this section, the only markets which shall be considered bona fide spotmarkets shall be those which the Secretary shall, from time to time, after investigation, determine and designate to be such, and of which he shall give public notice.
+&emsp;For purposes of this section, the only markets which shall be considered bona fide spot markets shall be those which the Secretary shall, from time to time, after investigation, determine and designate to be such, and of which he shall give public notice.
 
 #### (2) Determination
 
@@ -74,7 +74,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (E) Prohibition of delivery of inferior cotton
 
-&emsp;&emsp;Provide that cotton that, because of the presence of extraneous matter of any character, or irregularities or defects, is reduced in value below that of low middling, or cotton that is below the grade of low middling, or, if tinged, cotton that is below the grade of strict middling, or, if yellow stained, cotton that is below the grade of good middling, the grades mentioned being of the official cotton standards of the United States, or cotton that is less than seven-eighths of an inch in length of staple, or cotton of perished staple, or of immature staple, or cotton that is “gin cut” or reginned, or cottonthat is “repacked” or “false packed” or “mixed packed” or “water packed”, shall not be delivered on, under, or in settlement of such contract.
+&emsp;&emsp;Provide that cotton that, because of the presence of extraneous matter of any character, or irregularities or defects, is reduced in value below that of low middling, or cotton that is below the grade of low middling, or, if tinged, cotton that is below the grade of strict middling, or, if yellow stained, cotton that is below the grade of good middling, the grades mentioned being of the officialcotton standards of the United States, or cotton that is less than seven-eighths of an inch in length of staple, or cotton of perished staple, or of immature staple, or cotton that is “gin cut” or reginned, or cotton that is “repacked” or “false packed” or “mixed packed” or “water packed”, shall not be delivered on, under, or in settlement of such contract.
 
 #### (F) Provisions for tender in full, notice of delivery date, and certificate of grade
 
@@ -112,7 +112,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (3) Application of subsection
 
-&emsp;Nothing in this subsection shall be so construed as to authorize any contract in which, or in the settlement of or in respect to which,any device or arrangement whatever is resorted to, or any agreement is made, for the determination or adjustment of the price of the grade or grades tendered other than the basis grade specified in the contract by any “fixed difference” system, or by arbitration, or by any other method not provided for by this section.
+&emsp;Nothing in this subsection shall be so construed as to authorize any contract in which, or in the settlement of or in respect to which, any device or arrangement whatever is resorted to, or any agreement is made, for the determination or adjustment of the price of the grade or grades tendered other than the basis grade specified in the contract by any “fixed difference” system, or by arbitration, or by any other method not provided for by this section.
 
 #### (h) Specific grade contracts
 
@@ -197,10 +197,6 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 156(e) of Pub. 
 #### Effective Date
 
 Section 1952(<i>o</i>) of Pub. L. 94–455 provided that: “The provisions of this section \[enacting this section, amending section 6808 of Title 26, Internal Revenue Code, and repealing sections 7233 and 7263, subchapter D of chapter 39, and subchapter E of chapter 76 of Title 26\] shall take effect on the 90th day after the date of enactment of this Act \[Oct. 4, 1976\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 55 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

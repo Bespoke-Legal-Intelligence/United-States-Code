@@ -1,9 +1,5 @@
 Part A—Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining, Employment and Reemployment of Veterans, and Intimidation
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 435, 451, 452, 454 of this title.
-
 
 ---
 

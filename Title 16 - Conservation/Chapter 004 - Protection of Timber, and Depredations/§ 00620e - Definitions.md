@@ -30,7 +30,7 @@ Northwestern private timber open market area.—The term “northwestern private
 
 &emsp;&emsp;(C) held by any Native Corporation as defined in section 1602 of title 43.
 
-&emsp;(7) The term “public lands” means lands west of the 100th meridian in the contiguous 48States, that are held or owned by a State or political subdivision thereof, or any other public agency. Such term does not include any lands the title to which is—
+&emsp;(7) The term “public lands” means lands west of the 100th meridian in the contiguous 48 States, that are held or owned by a State or political subdivision thereof, or any other public agency. Such term does not include any lands the title to which is—
 
 &emsp;&emsp;(A) held by the United States;
 
@@ -95,8 +95,4 @@ Par. (9)(B)(ix). Pub. L. 105–83, §604(3), substituted “Pulp logs, cull logs
 Par. (10). Pub. L. 105–83, §604(1), redesignated par. (8) as (10).
 
 Par. (11). Pub. L. 105–83, §604(4), added par. (11).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 620d, 620f of this title.
 

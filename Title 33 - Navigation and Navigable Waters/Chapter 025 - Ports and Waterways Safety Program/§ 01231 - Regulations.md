@@ -24,7 +24,3 @@ The Secretary, in the exercise of this regulatory authority, shall establish pro
 
 (Pub. L. 92–340, §12, as added Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1477.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1911 of this title.
-

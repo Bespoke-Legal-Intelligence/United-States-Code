@@ -68,10 +68,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 15 section 1459; title 19 section 1754; title 26 section 5171.
-
 
 ---
 

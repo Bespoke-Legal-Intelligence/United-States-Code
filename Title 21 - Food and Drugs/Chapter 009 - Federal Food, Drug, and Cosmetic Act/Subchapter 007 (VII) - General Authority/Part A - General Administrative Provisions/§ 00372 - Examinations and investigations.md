@@ -86,7 +86,3 @@ Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any vi
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 321, 399 of this title.
-

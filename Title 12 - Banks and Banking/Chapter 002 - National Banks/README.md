@@ -365,15 +365,11 @@
 | (c) | Vesting of rights, title and interest in unclaimed property in United States; sale, use, destruction or disposition of property; proceeds of sale as miscellaneous receipts. |
 | (d) | Liability for determination of validity of claims; liability for delivery, sale, etc., of property. |
 | (e) | Court action for determination of ownership, etc., in State or Federal court of competent jurisdiction; de novo nature of action; parties. |
-| (f) | Jurisdiction of United States Claims Court of actions against United States, Comptroller, officer, etc.; scope of review of actions of Comptroller; limitations; claims against Comptroller, officer, etc., as claim against United States. |
+| (f) | Jurisdiction of United States Court of Federal Claims of actions against United States, Comptroller, officer, etc.; scope of review of actions of Comptroller; limitations; claims against Comptroller, officer, etc., as claim against United States. |
 | [216c.](Subchapter%20017%20%28XVII%29%20-%20Disposition%20of%20Unclaimed%20Property%20Recovered%20from%20Closed%20National%20Banks/%C2%A7%2000216c%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [216d.](Subchapter%20017%20%28XVII%29%20-%20Disposition%20of%20Unclaimed%20Property%20Recovered%20from%20Closed%20National%20Banks/%C2%A7%2000216d%20-%20Severability.md) | Severability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### National Bank Act Referred to in Other Sections
-
-Sections 21 et seq. of this title are referred to in sections 35, 40, 41, 215c, 501a, 1440, 1467a, 1817, 2254, 3102 of this title; title 18 section 334; title 28 section 1348.
 
 
 ---

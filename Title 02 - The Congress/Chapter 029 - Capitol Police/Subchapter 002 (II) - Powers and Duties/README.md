@@ -19,3 +19,8 @@
 - [&sect; 01972 - Contributions of comfort and other incidental items and services during emergency duty](%C2%A7%2001972%20-%20Contributions%20of%20comfort%20and%20other%20incidental%20items%20and%20services%20during%20emergency%20duty.md)
 - [&sect; 01973 - Support and maintenance expenditures during emergency duty](%C2%A7%2001973%20-%20Support%20and%20maintenance%20expenditures%20during%20emergency%20duty.md)
 - [&sect; 01974 - Capitol Police special officers](%C2%A7%2001974%20-%20Capitol%20Police%20special%20officers.md)
+- [&sect; 01975 - Overseas travel](%C2%A7%2001975%20-%20Overseas%20travel.md)
+- [&sect; 01976 - Acceptance of donations of animals](%C2%A7%2001976%20-%20Acceptance%20of%20donations%20of%20animals.md)
+- [&sect; 01977 - Settlement and payment of tort claims](%C2%A7%2001977%20-%20Settlement%20and%20payment%20of%20tort%20claims.md)
+- [&sect; 01978 - Deployment outside of jurisdiction](%C2%A7%2001978%20-%20Deployment%20outside%20of%20jurisdiction.md)
+- [&sect; 01979 - Release of security information](%C2%A7%2001979%20-%20Release%20of%20security%20information.md)

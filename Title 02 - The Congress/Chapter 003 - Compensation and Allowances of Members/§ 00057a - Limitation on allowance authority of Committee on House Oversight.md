@@ -30,13 +30,9 @@ Section is based on House Resolution No. 1372, §1, Ninety-fourth Congress, July
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) relating to limitations on authority of the Committee on House Administration to fix and adjust allowances.
+1996—Pub. L. 104–186 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b)relating to limitations on authority of the Committee on House Administration to fix and adjust allowances.
 
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 57 of this title.
 

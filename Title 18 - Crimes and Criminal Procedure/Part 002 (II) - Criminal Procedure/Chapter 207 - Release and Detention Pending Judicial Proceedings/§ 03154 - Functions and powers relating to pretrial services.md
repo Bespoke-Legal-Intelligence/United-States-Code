@@ -82,7 +82,3 @@ Mandatory Condition of Probation and Supervised Release.—In each of the judici
 
 Report to Congress.—Not later than 90 days after the first year of the demonstration program and not later than 90 days after the end of the demonstration program, the Director of the Administrative Office of the United States Courts shall report to Congress on the effectiveness of the demonstration program and include in such report recommendations as to whether mandatory drug testing of defendants should be made more general and permanent.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3153, 3156 of this title.
-

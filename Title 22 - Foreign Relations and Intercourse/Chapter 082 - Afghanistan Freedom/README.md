@@ -18,9 +18,12 @@ SUPPORT
 | (a) | In general. |
 | (b) | Limitation. |
 | (c) | Enterprise fund. |
+| (d) | Monitoring of assistance for Afghanistan. |
 | [7514\.](Subchapter%20001%20%28I%29%20-%20Economic%20and%20Democratic%20Development%20Assistance%20for%20Afghanistan/%C2%A7%2007514%20-%20Coordination%20of%20assistance.md) | Coordination of assistance. |
 | (a) | In general. |
 | (b) | Rank and status of the coordinator. |
+| (c) | Assistance plan. |
+| (d) | Coordination with international community. |
 | [7515\.](Subchapter%20001%20%28I%29%20-%20Economic%20and%20Democratic%20Development%20Assistance%20for%20Afghanistan/%C2%A7%2007515%20-%20Sense%20of%20Congress%20regarding%20promoting%20cooperation%20in%20opium%20producing%20areas.md) | Sense of Congress regarding promoting cooperation in opium producing areas. |
 | [7516\.](Subchapter%20001%20%28I%29%20-%20Economic%20and%20Democratic%20Development%20Assistance%20for%20Afghanistan/%C2%A7%2007516%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | (a) | Applicable administrative authorities. |
@@ -58,6 +61,10 @@ SUPPORT
 | (b) | Statement of policy. |
 | (c) | Implementation of strategy. |
 | (d) | Expansion of the International Security Assistance Force. |
+| (e) | United States policy relating to international peacekeeping and security operations. |
+| [7536a.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20for%20Afghanistan%20and%20Certain%20Other%20Foreign%20Countries%20and%20International%20Organizations/%C2%A7%2007536a%20-%20Sense%20of%20Congress%20and%20report%20regarding%20counter-drug%20efforts%20in%20Afghanistan.md) | Sense of Congress and report regarding counter-drug efforts in Afghanistan. |
+| (a) | Sense of Congress. |
+| (b) | Report required. |
 | [7537\.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20for%20Afghanistan%20and%20Certain%20Other%20Foreign%20Countries%20and%20International%20Organizations/%C2%A7%2007537%20-%20Relationship%20to%20other%20authority.md) | Relationship to other authority. |
 | (a) | Additional authority. |
 | (b) | Laws restricting authority. |
@@ -76,6 +83,12 @@ SUPPORT
 | (b) | Sense of Congress. |
 | (c) | Reports. |
 | [7554\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2007554%20-%20Reports.md) | Reports. |
+| (a) | In general. |
+| (b) | Deadline for submission. |
+| (c) | Form of reports. |
+| [7555\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2007555%20-%20Formulation%20of%20long-term%20strategy%20for%20Afghanistan.md) | Formulation of long-term strategy for Afghanistan. |
+| (a) | Strategy. |
+| (b) | Monitoring. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

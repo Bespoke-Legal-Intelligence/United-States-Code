@@ -2,7 +2,7 @@
 
 #### (a) Approval of commission bylaws and rules; action on reports, requests, and recommendations
 
-The Secretary of State is authorized to approve or disapprove, on behalf of the United States Government, bylaws and rules, or amendments thereof, adopted by each commission and submitted for approval of the United States Government in accordance with the provisions of the conventions, and, with the concurrence of the Secretary of Commerce, to approve or disapprove the general annual programs of the commissions. The Secretary of State is further authorized to receive, on behalf of the United States Government, reports, requests, recommendations, and other communications of the commissions, and to take appropriate action thereon either directly or by reference to the appropriate authority.
+The Secretary of State is authorized to approve or disapprove, on behalf of the United States Government, bylaws and rules, or amendments thereof, adopted by each commission and submitted for approval of the United States Government in accordance with the provisions of the conventions, and, with the concurrence of the Secretary of Commerce, to approve or disapprove the general annual programs of the commissions. The Secretary of State is furtherauthorized to receive, on behalf of the United States Government, reports, requests, recommendations, and other communications of the commissions, and to take appropriate action thereon either directly or by reference to the appropriate authority.
 
 #### (b) Regulations
 
@@ -23,8 +23,4 @@ Subsec. (c). Pub. L. 87–814 added subsec. (c).
 #### Transfer of Functions
 
 “Secretary of Commerce” substituted in text for “Secretary of the Interior” in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 957 of this title.
 

@@ -6,7 +6,7 @@ The Administration may make such investigations as it deems necessary to determi
 
 #### (b) Examinations and reports
 
-Each small business investment company shall be subject to examinations made by direction of the Investment Division of the Administration, which may be conducted with the assistance of a private sector entity that has both the qualifications to conduct and expertise in conducting such examinations, and the cost of such examinations, including the compensation of the examiners, may in the discretion of the Administration be assessed against the company examined and when so assessed shall be paid by such company. Fees collected under this subsection shall be deposited in the account for salaries and expenses of the Administration, and are authorized to be appropriated solely to cover the costs of examinations and other program oversight activities. Every such company shall make such reports to the Administration at such times and in such form as the Administration may require; except that the Administration is authorized to exempt from making such reports any such company which is registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] to the extent necessary to avoid duplication in reporting requirements.
+Each small business investment company shall be subject to examinations made by direction of the Investment Division of the Administration, which may be conducted with the assistance of a private sector entity that has boththe qualifications to conduct and expertise in conducting such examinations, and the cost of such examinations, including the compensation of the examiners, may in the discretion of the Administration be assessed against the company examined and when so assessed shall be paid by such company. Fees collected under this subsection shall be deposited in the account for salaries and expenses of the Administration, and are authorized to be appropriated solely to cover the costs of examinations and other program oversight activities. Every such company shall make such reports to the Administration at such times and in such form as the Administration may require; except that the Administration is authorized to exempt from making such reports any such company which is registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] to the extent necessary to avoid duplication in reporting requirements.
 
 #### (c) Examinations of small business investment companies
 
@@ -111,8 +111,4 @@ Nothing in amendment by Pub. L. 102–366 to be construed to affect applicabilit
 #### Transfer of Resources
 
 Section 407(b) of Pub. L. 102–366 provided that: “Effective October 1, 1992, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, and other funds employed, held, used, arising from, available or to be made available, which are related to the examination function provided by section 310 of the Small Business Investment Act of 1958 \[15 U.S.C. 687b\] shall be transferred by the Inspector General of the Small Business Administration to the Investment Division of the Small Business Administration.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 687g of this title.
 

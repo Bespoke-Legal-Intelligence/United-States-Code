@@ -14,15 +14,11 @@ All underground areas of a coal mine, except those areas in which the dust is to
 
 #### (d) Distribution of rock dust; places, quantities
 
-Where rock dust is required to be applied, it shall be distributed upon the top, floor, and sides of all underground areas of a coal mine and maintained in such quantities that the incombustible content of the combined coal dust, rock dust, and other dust shall be not less than 65 per centum, but the incombustible content in the return aircourses shall be no less than 80 per centum. Where methane is present in any ventilating current, the per centum of incombustible content of such combined dusts shall be increased 1.0 and 0.4 per centum for each 0.1 per centum of methane where 65 and 80 per centum, respectively, of incombustibles are required.
+Where rock dust is required to be applied, it shall be distributed upon the top, floor, and sides of all underground areas of a coal mine andmaintained in such quantities that the incombustible content of the combined coal dust, rock dust, and other dust shall be not less than 65 per centum, but the incombustible content in the return aircourses shall be no less than 80 per centum. Where methane is present in any ventilating current, the per centum of incombustible content of such combined dusts shall be increased 1.0 and 0.4 per centum for each 0.1 per centum of methane where 65 and 80 per centum, respectively, of incombustibles are required.
 
 #### (e) Limitation of applicability
 
 Subsections (b) through (d) of this section shall not apply to underground anthracite mines.
 
 (Pub. L. 91–173, title III, §304, Dec. 30, 1969, 83 Stat. 774.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 861 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—GEOGRAPHIC SCOPE, PRELIMINARY AND SUPPLEMENTAL STATISTICS, AND USE OF SAMPLING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 221, 222, 223 of this title.
-
 
 ---
 

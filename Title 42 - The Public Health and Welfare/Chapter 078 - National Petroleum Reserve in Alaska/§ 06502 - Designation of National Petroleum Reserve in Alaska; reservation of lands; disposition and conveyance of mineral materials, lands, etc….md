@@ -12,7 +12,7 @@ The public land laws, referred to in text, are classified generally to Title 43,
 
 The mining laws and the mineral leasing laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
 
-Act of July 31, 1947 (61 Stat. 681), as amended, referred to in text, popularly known as the Materials Act of 1947, is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
+Act of July 31, 1947 (61 Stat. 681), as amended, referred to in text, popularly known as the Materials Act of 1947, is classified generally to subchapter I (§601 et seq.)of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -21,8 +21,4 @@ The Federal Land Policy and Management Act of 1976, referred to in text, is Pub.
 #### Amendments
 
 1984—Pub. L. 98–366 inserted “and the North Slope Borough” after “Alaska Natives”, struck out “and” after “responsibilities under this Act,” and inserted “, and (4) grant rights-of-way to the North Slope Borough, under the provisions of title V of the Federal Land Policy and Management Act of 1976 or section 28 of the Mineral Leasing Act, as amended, as may be necessary to permit the North Slope Borough to provide energy supplies to the villages on the North Slope”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6508 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—PROMOTION AND RETENTION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3964, 4153 of this title.
-
 
 ---
 

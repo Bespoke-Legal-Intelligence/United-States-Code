@@ -12,7 +12,17 @@ In this subchapter:
 
 &emsp;(2) The term “atomic weapon” has the meaning given that term in section 2014(d) of this title.
 
-&emsp;(3) The term “atomic weapons employee” means an individual employed by an atomic weapons employer during a period when the employer was processing or producing, for the use by the United States, material that emitted radiation and was used in the production of an atomic weapon, excluding uranium mining and milling.
+&emsp;(3) The term “atomic weapons employee” means any of the following:
+
+&emsp;&emsp;(A) An individual employed by an atomic weapons employer during a period when the employer was processing or producing, for the use by the United States, material that emitted radiation and was used in the production of an atomic weapon, excluding uranium mining and milling.
+
+&emsp;&emsp;(B) An individual employed—
+
+&emsp;&emsp;&emsp;(i) at a facility with respect to which the National Institute for Occupational Safety and Health, in its report dated October 2003 and titled “Report on Residual Radioactive and Beryllium Contamination at Atomic Weapons Employer Facilities and Beryllium Vendor Facilities”, or any update to that report, found that there is a potential for significant residual contamination outside of the period in which weapons-related production occurred;
+
+&emsp;&emsp;&emsp;(ii) by an atomic weapons employer or subsequent owner or operators of a facility described in clause (i); and
+
+&emsp;&emsp;&emsp;(iii) during a period, as specified in such report or any update to such report, of potential for significant residual radioactive contamination at such facility.
 
 &emsp;(4) The term “atomic weapons employer” means an entity, other than the United States, that—
 
@@ -132,11 +142,11 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) worked in a job that had exposures comparable to a job that is or was monitored through the use of dosimetry badges.
 
-&emsp;&emsp;(B) The employee was so employed before January 1, 1974, by the Department of Energy or a Department of Energy contractoror subcontractor on Amchitka Island, Alaska, and was exposed to ionizing radiation in the performance of duty related to the Long Shot, Milrow, or Cannikin underground nuclear tests.
+&emsp;&emsp;(B) The employee was so employed before January 1, 1974, by the Department of Energy or a Department of Energy contractor or subcontractor on Amchitka Island, Alaska, and was exposed to ionizing radiation in the performance of duty related to the Long Shot, Milrow, or Cannikin underground nuclear tests.
 
 &emsp;&emsp;(C)(i) Subject to clause (ii), the employee is an individual designated as a member of the Special Exposure Cohort by the President for purposes of the compensation program under section 7384q of this title.
 
-&emsp;&emsp;(ii) A designation under clause (i) shall, unless Congress otherwise provides, take effect on the date that is 180 days after the date on which the President submits to Congress a report identifying the individuals covered by the designation and describing the criteria used in designating those individuals.
+&emsp;&emsp;(ii) A designation under clause (i) shall, unless Congress otherwise provides, take effect on the date that is 30 days after the date on which the President submits to Congress a report identifying the individuals covered by the designation and describing the criteria used in designating those individuals.
 
 &emsp;(15) The term “occupational illness” means a covered beryllium illness, cancer referred to in paragraph (9)(B), specified cancer, or chronic silicosis, as the case may be.
 
@@ -162,7 +172,7 @@ In this subchapter:
 
 &emsp;&emsp;(D) Leukemia (other than chronic lymphocytic leukemia), if initial occupational exposure occurred before 21 years of age and onset occurred more than two years after initial occupational exposure.
 
-(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3621\], Oct. 30, 2000, 114 Stat. 1654, 1654A–498; Pub. L. 107–20, title II, §2403(a), July 24, 2001, 115 Stat. 175; Pub. L. 107–107, div. C, title XXXI, §3151(a)(1), (4)(C), Dec. 28, 2001, 115 Stat. 1371, 1374.)
+(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3621\], Oct. 30, 2000, 114 Stat. 1654, 1654A–498; Pub. L. 107–20, title II, §2403(a), July 24, 2001, 115 Stat. 175; Pub. L. 107–107, div. C, title XXXI, §3151(a)(1), (4)(C), Dec. 28, 2001, 115 Stat. 1371, 1374; Pub. L. 108–375, div. C, title XXXI, §§3166(b)(2), 3168(a), Oct. 28, 2004, 118 Stat. 2189, 2190.)
 
 #### References in Text
 
@@ -172,19 +182,19 @@ Section 4(b)(2) of the Radiation Exposure Compensation Act, referred to in par. 
 
 #### Amendments
 
+2004—Par. (3). Pub. L. 108–375, §3168(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘atomic weapons employee’ means an individual employed by an atomic weapons employer during a period when the employer was processing or producing, for the use by the United States, material that emitted radiation and was used in the production of an atomic weapon, excluding uranium mining and milling.”
+
+Par. (14)(C)(ii). Pub. L. 108–375, §3166(b)(2), substituted “30 days” for “180 days”.
+
 2001—Par. (17)(C). Pub. L. 107–20 added subpar. (C).
 
 Par. (17)(D). Pub. L. 107–107, §3151(a)(1), added subpar. (D).
 
-Par. (18). Pub. L. 107–107, §3151(a)(4)(C), struck out par. (18) which read as follows: “The term ‘survivor’ means any individual or individuals eligible to receive compensation pursuant to section 8133 of title 5.”
+Par. (18). Pub. L. 107–107, §3151(a)(4)(C), struck out par. (18) which read as follows: “The term ‘survivor’means any individual or individuals eligible to receive compensation pursuant to section 8133 of title 5.”
 
 #### Effective Date of 2001 Amendments
 
 Pub. L. 107–107, div. C, title XXXI, §3151(a)(4)(D), Dec. 28, 2001, 115 Stat. 1374, provided that: “The amendments made by this paragraph \[amending this section and sections 7384s and 7384u of this title\] shall take effect on July 1, 2001.”
 
 Pub. L. 107–20, title II, §2403(b), July 24, 2001, 115 Stat. 175, provided that: “This section \[amending this section\] shall be effective on October 1, 2001.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7384f, 7384m, 7384n, 7384q, 7384r of this title.
 

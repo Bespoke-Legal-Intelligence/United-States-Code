@@ -28,7 +28,3 @@ This section shall take effect on July 31, 2001, unless Congress otherwise provi
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3629\], Oct. 30, 2000, 114 Stat. 1654, 1654A–507.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7384s, 7384u of this title.
-

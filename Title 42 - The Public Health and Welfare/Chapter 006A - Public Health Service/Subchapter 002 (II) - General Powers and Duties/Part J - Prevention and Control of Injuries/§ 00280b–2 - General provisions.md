@@ -10,7 +10,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (c) Biennial report
 
-Not later than February 1 of 1995 and of every second year thereafter, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this part during the preceding 2 fiscal years. Such report shall include a description of such activities that were carried out with respect to interpersonal violence within families and among acquaintances and with respect to rural areas.
+Not later than February 1 of 1995 and of every second year thereafter, the Secretary, actingthrough the Director of the Centers for Disease Control and Prevention, shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this part during the preceding 2 fiscal years. Such report shall include a description of such activities that were carried out with respect to interpersonal violence within families and among acquaintances and with respect to rural areas.
 
 (July 1, 1944, ch. 373, title III, §394, formerly §393, as added Pub. L. 99–649, §3, Nov. 10, 1986, 100 Stat. 3634; amended Pub. L. 101–558, §2(c), Nov. 15, 1990, 104 Stat. 2772; Pub. L. 102–531, title III, §312(d)(5), Oct. 27, 1992, 106 Stat. 3504; renumbered §394 and amended Pub. L. 103–183, title II, §§201(1), 202, Dec. 14, 1993, 107 Stat. 2231, 2232.)
 
@@ -34,11 +34,13 @@ A prior section 394 of act July 1, 1944, was renumbered section 394A and is clas
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior tothe expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

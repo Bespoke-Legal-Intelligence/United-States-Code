@@ -18,9 +18,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Dogfish Sharks: Research To Control and Eradicate or To Discover Commercial Uses
 
-Pub. L. 85–887, Sept. 2, 1958, 72 Stat. 1710, directed Secretary of the Interior to prosecute, for a period of not to exceed four years from Sept. 2, 1958, investigations of the abundance and distribution of dogfish sharks, experiments to develop control measures, and a vigorous program for the elimination and eradication or development of economic uses of dogfish shark populations.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 758b, 758d of this title.
+Pub. L. 85–887, Sept. 2, 1958, 72 Stat. 1710, directed Secretary of the Interior to prosecute, for a period ofnot to exceed four years from Sept. 2, 1958, investigations of the abundance and distribution of dogfish sharks, experiments to develop control measures, and a vigorous program for the elimination and eradication or development of economic uses of dogfish shark populations.
 

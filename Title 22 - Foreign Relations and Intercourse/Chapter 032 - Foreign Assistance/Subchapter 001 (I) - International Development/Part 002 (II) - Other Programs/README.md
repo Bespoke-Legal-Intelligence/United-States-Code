@@ -9,7 +9,7 @@ Part II—Other Programs
 - [Subpart 002 (ii) - American Schools and Hospitals Abroad; Prototype Desalting Plants](Subpart%20002%20%28ii%29%20-%20American%20Schools%20and%20Hospitals%20Abroad%3B%20Prototype%20Desalting%20Plants/README.md)
 - [Subpart 003 (iii) - Shelter and Other Credit Guaranty Programs](Subpart%20003%20%28iii%29%20-%20Shelter%20and%20Other%20Credit%20Guaranty%20Programs/README.md)
 - [Subpart 005 (v) - Disadvantaged Children in Asia](Subpart%20005%20%28v%29%20-%20Disadvantaged%20Children%20in%20Asia/README.md)
-- [Subpart 006 (vi) - Alliance for Progress](Subpart%20006%20%28vi%29%20-%20Alliance%20for%20Progress/README.md)
+- [Subpart 006 (vi) - Microenterprise Development Assistance](Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/README.md)
 - [Subpart 007 (vii) - Evaluation of Programs](Subpart%20007%20%28vii%29%20-%20Evaluation%20of%20Programs/README.md)
 - [Subpart 008 (viii) - Southeast Asia Multilateral and Regional Programs](Subpart%20008%20%28viii%29%20-%20Southeast%20Asia%20Multilateral%20and%20Regional%20Programs/README.md)
 - [Subpart 009 (ix) - Utilization of Democratic Institutions in Development](Subpart%20009%20%28ix%29%20-%20Utilization%20of%20Democratic%20Institutions%20in%20Development/README.md)

@@ -12,7 +12,7 @@ Upon the expiration of the period of Federal financial assistance which is provi
 
 The additional amounts referred to in subsection (b) of this section shall be made available to the Secretary for obligation as follows:
 
-&emsp;(1) for fiscal years 1996 through 2001, $4,580,000 annually for capital infrastructure projects as Impact Aid for Guam under section 1904(e)(6) <sup>1</sup> of this title;
+&emsp;(1) for fiscal years 1996 through 2001, $4,580,000 annually for capital infrastructureprojects as Impact Aid for Guam under section 1904(e)(6) <sup>1</sup> of this title;
 
 &emsp;(2) for fiscal year 1996, $7,700,000 shall be provided for capital infrastructure projects in American Samoa; $4,420,000 for resettlement of Rongelap Atoll; and <sup>2</sup>
 

@@ -20,7 +20,3 @@ Section 208 of act Sept. 21, 1944, ch. 412, title II, 58 Stat. 736, provided: �
 
 Section 209 of act Sept. 21, 1944, ch. 412, title II, 58 Stat. 737, provided: “Appropriations for carrying out the Cooperative Farm Forestry Act (16 U.S.C. 568b) \[repealed\] and sections 4 and 5 of the Clarke-McNary Act (16 U.S.C. 567 \[repealed\], 568) and Acts supplementary thereto allocated for the production or procurement of nursery stock by any Federal agency, or funds appropriated to any Federal agency for allocation to cooperating States for the production or procurement of nursery stock, shall remain available for expenditure for not more than three fiscal years.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 527, 566b, 568a of this title.
-

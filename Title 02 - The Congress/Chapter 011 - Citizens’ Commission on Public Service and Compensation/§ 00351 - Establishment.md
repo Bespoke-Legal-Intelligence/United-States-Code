@@ -6,7 +6,7 @@ There is hereby established a commission to be known as the Citizens’ Commissi
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–194 substituted “Citizens’ Commission on Public Service and Compensation” for “Commission on Executive, Legislative, and Judicial Salaries”.
+1989—Pub. L. 101–194 substituted “Citizens’ Commission on Public Service and Compensation” for “Commission on Executive, Legislative, and Judicial Salaries”.
 
 #### Effective Date
 

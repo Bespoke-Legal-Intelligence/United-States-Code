@@ -34,7 +34,3 @@ Nothing in this section shall be construed to authorize any private right of act
 
 (June 19, 1934, ch. 652, title II, §255, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 75.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 251 of this title; title 29 section 792.
-

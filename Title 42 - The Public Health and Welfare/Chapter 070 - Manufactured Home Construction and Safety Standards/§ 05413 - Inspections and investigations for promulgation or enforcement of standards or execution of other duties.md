@@ -42,7 +42,7 @@ Each manufacturer, distributor, and retailer of manufactured homes shall establi
 
 #### (g) Performance and technical data from manufacturer; persons required to receive notification of data
 
-Each manufacturer of manufactured homes shall provide to the Secretary such performance data and other technical data related to performance and safety as may be required to carry out the purposes of this chapter. These shall include records of tests and test results which the Secretary may require to be performed. The Secretary is authorized to require the manufacturer to give notification of such performance and technical data to—
+Each manufacturer of manufactured homes shall provide to the Secretary such performance data and other technical data related to performance and safety as may be required to carryout the purposes of this chapter. These shall include records of tests and test results which the Secretary may require to be performed. The Secretary is authorized to require the manufacturer to give notification of such performance and technical data to—
 
 &emsp;(1) each prospective purchaser of a manufactured home before its first sale for purposes other than resale, at each location where any such manufacturer's manufactured homes are offered for sale by a person with whom such manufacturer has a contractual, proprietary, or other legal relationship and in a manner determined by the Secretary to be appropriate, which may include, but is not limited to, printed matter (A) available for retention by such prospective purchaser, and (B) sent by mail to such prospective purchaser upon his request; and
 
@@ -67,8 +67,4 @@ References to “mobile homes”, wherever appearing in text, changed to “manu
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5409, 5414, 5422 of this title.
 

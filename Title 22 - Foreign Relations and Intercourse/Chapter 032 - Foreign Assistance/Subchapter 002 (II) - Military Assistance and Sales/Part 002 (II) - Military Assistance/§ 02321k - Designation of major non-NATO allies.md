@@ -52,7 +52,7 @@ Determination No. 2004–16, Dec. 30, 2003, 69 F.R. 2053.—Thailand.
 
 Determination No. 2004–21, Jan. 15, 2004, 69 F.R. 4843.—Kuwait.
 
-#### Section Referred to in Other Sections
+Determination No. 2004–35, June 3, 2004, 69 F.R. 34049.—Morocco.
 
-This section is referred to in sections 2403, 7432 of this title.
+Determination No. 2004–37, June 16, 2004, 69 F.R. 38797.—Pakistan.
 

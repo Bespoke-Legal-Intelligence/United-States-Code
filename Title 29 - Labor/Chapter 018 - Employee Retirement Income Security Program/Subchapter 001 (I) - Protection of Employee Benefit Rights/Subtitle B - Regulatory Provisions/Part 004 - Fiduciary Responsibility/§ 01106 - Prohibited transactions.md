@@ -34,7 +34,3 @@ A transfer of real or personal property by a party in interest to a plan shall b
 
 (Pub. L. 93–406, title I, §406, Sept. 2, 1974, 88 Stat. 879.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1101, 1108, 1114, 1132, 1203, 1399, 1411 of this title; title 26 section 4975.
-

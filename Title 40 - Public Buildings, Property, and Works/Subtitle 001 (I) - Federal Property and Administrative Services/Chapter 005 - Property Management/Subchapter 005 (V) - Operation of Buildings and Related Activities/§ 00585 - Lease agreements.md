@@ -74,7 +74,3 @@ In subsection (b)(2), the words “Federal Buildings Fund” are substituted for
 
 Act July 30, 1947, ch. 358, title III, §306, 61 Stat. 584, provided in part that: “Wholly owned Government corporations requiring space in office buildings at the seat of government shall occupy only such space as may be allotted in accordance with the provisions of such Act of March 1, 1919, as amended \[ch. 86, §10, 40 Stat. 1269\] (\[former\] 40 U.S.C. 1), and shall pay such rental thereon as may be determined by the Federal Works Administrator \[Administrator of General Services\], such rental to include all cost of maintenance, upkeep, and repair.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3310 of this title; title 22 section 3712a.
-

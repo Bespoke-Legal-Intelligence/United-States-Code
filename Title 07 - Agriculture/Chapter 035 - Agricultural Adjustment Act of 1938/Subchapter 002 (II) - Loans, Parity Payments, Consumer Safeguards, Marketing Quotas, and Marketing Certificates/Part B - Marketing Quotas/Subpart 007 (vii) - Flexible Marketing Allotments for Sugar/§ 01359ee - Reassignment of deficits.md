@@ -10,7 +10,7 @@ At any time allotments are in effect under this subpart, the Secretary, from tim
 
 &emsp;If the Secretary determines that any sugarcane processor who has been allocated a share of a State cane sugar allotment will be unable to market the processor's allocation of the State's allotment for the crop year—
 
-&emsp;&emsp;(A) the Secretary first shall reassign the estimated quantity of the deficit to the allocations for other processors within thatState, depending on the capacity of each other processor to fill the portion of the deficit to be assigned to it and taking into account the interests of producers served by the processors;
+&emsp;&emsp;(A) the Secretary first shall reassign the estimated quantity of the deficit to the allocations for other processors within that State, depending on the capacity of each other processor to fill the portion of the deficit to be assigned to it and taking into account the interests of producers served by the processors;
 
 &emsp;&emsp;(B) if after the reassignments the deficit cannot be completely eliminated, the Secretary shall reassign the estimated quantity of the deficit proportionately to the allotments for other cane sugar States, depending on the capacity of each other State to fill the portion of the deficit to be assigned to it, with the reassigned quantity to each State to be allocated among processors in that State in proportion to the allocations of the processors;
 
@@ -22,7 +22,7 @@ At any time allotments are in effect under this subpart, the Secretary, from tim
 
 &emsp;If the Secretary determines that a sugar beet processor who has been allocated a share of the beet sugar allotment will be unable to market that allocation—
 
-&emsp;&emsp;(A) the Secretary first shall reassign the estimated quantity of the deficit to the allotments for other sugar beet processors, depending on the capacity of each other processor to fill the portion of the deficit to be assigned to it and taking into account the interests of producers served by the processors;
+&emsp;&emsp;(A) the Secretary first shall reassign the estimated quantity of the deficit to the allotments for other sugar beet processors, depending on the capacity of each other processor to fill the portion of the deficit to be assigned to it and taking into account theinterests of producers served by the processors;
 
 &emsp;&emsp;(B) if after the reassignments the deficit cannot be completely eliminated, the Secretary shall reassign the estimated quantity of the deficit to the Commodity Credit Corporation and shall sell such quantity of sugar from inventories of the Corporation unless the Secretary determines that such sales would have a significant effect on the price of sugar; and
 
@@ -37,8 +37,4 @@ At any time allotments are in effect under this subpart, the Secretary, from tim
 #### Prior Provisions
 
 A prior section 1359ee, act Feb. 16, 1938, ch. 30, title III, §359e, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3484; amended Pub. L. 102–237, title I, §111(g), Dec. 13, 1991, 105 Stat. 1833, related to reassignment of sugar deficits, prior to the general amendment of this subpart by Pub. L. 107–171.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1359cc, 1359dd of this title.
 

@@ -12,7 +12,3 @@ Section was formerly classified to section 363 of this title.
 
 1955—Act Aug. 11, 1955, amended section generally to restate the policy of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 361d, 361g of this title.
-

@@ -20,7 +20,3 @@ The land laws of the United States, referred to in text, are classified generall
 
 Patents for lands in North Platte Reclamation Project not to contain reservations of minerals in certain cases, see section 125 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 121, 124, 125 of this title.
-

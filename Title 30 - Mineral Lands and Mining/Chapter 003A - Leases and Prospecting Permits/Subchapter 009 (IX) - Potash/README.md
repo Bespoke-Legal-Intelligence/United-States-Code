@@ -1,9 +1,5 @@
 ### SUBCHAPTER IX—POTASH
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 262, 351, 505, 530, 541e of this title.
-
 
 ---
 

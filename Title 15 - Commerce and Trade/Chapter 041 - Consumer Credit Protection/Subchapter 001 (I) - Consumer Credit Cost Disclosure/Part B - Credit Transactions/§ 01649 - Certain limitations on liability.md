@@ -46,7 +46,3 @@ Subsection (a) of this section shall not apply to—
 
 Section 2107(b) of div. A of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of September 30, 1995.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1635 of this title.
-

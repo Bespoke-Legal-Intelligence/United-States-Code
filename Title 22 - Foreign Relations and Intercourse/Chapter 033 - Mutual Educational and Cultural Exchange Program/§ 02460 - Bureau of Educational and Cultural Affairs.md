@@ -18,7 +18,7 @@ In order to carry out the purposes of this chapter, there is established in the 
 
 &emsp;(7) a program of working with private, not-for-profit groups through contracts, grants, or cooperative agreements, as authorized by section 2452 of this title, so as to provide financial assistance to nongovernmental organizations engaged in implementing and enhancing exchange-of-persons programs;
 
-&emsp;(8) the Samantha Smith Memorial Exchange Program which advances understanding between the United States and the independent states of the former Soviet Union and between the United States and Eastern European countries through the exchange of persons under the age of 21 years and of students at an institution of higher education (as defined in section 1001 of title 20) who have not received their initial baccalaureate degree or through other programs designed to promote contact between the young peoples of the United States, the independent states of the former Soviet Union, and Eastern European countries; and
+&emsp;(8) the Samantha Smith Memorial Exchange Program which advances understanding between the United States and the independent states of the former Soviet Union and between the United States and Eastern European countries through the exchange of persons underthe age of 21 years and of students at an institution of higher education (as defined in section 1001 of title 20) who have not received their initial baccalaureate degree or through other programs designed to promote contact between the young peoples of the United States, the independent states of the former Soviet Union, and Eastern European countries; and
 
 &emsp;(9) the Arts America program which promotes a greater appreciation and understanding of American art abroad by supporting exhibitions and tours by American artists in other countries.
 
@@ -122,7 +122,7 @@ Subsec. (g)(1). Pub. L. 107–228, §229(1), substituted “Department of State�
 
 Subsec. (g)(3)(A). Pub. L. 107–228, §229(2)(A), substituted “Assistant Secretary of State for Educational and Cultural Affairs” for “Associate Director for Educational and Cultural Affairs of the United States Information Agency”.
 
-Subsec. (g)(3)(B) to (G). Pub. L. 107–228, §229(2)(B), (C), redesignated subpars. (C) to (G) as (B) to (F), respectively, and struck out former subpar. (B) which read as follows: “A senior representative of the Department of State, who shall be designated by the Secretary of State.”
+Subsec. (g)(3)(B) to (G). Pub. L. 107–228, §229(2)(B), (C), redesignated subpars. (C) to (G) as (B) to (F), respectively, and struck out former subpar. (B) which read as follows: “A senior representative of the Department ofState, who shall be designated by the Secretary of State.”
 
 Subsec. (g)(5). Pub. L. 107–228, §229(3), substituted “Department of State” for “United States Information Agency”.
 
@@ -207,8 +207,4 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Definitions
 
 In subsec. (a)(8), independent states of the former Soviet Union has the meaning given in section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4704 of this title.
 

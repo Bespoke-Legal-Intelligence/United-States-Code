@@ -76,7 +76,3 @@ In subsection (a)(2), the word “rules” is omitted as being synonymous with �
 
 In subsection (b), the words “otherwise”, “all contracts, agreements, understandings, and”, “annual or other”, “of air carriers and other persons”, and “preserved as” are omitted as surplus. The last sentence is substituted for 49 App.:1503 (words after 7th comma) to eliminate unnecessary words and for consistency.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
-

@@ -36,7 +36,3 @@ A prior section 510 was renumbered section 511 of this title.
 
 Section effective Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 434.
-

@@ -4,7 +4,7 @@
 
 (b) The amount of an individual's excess earnings shall be charged to months as follows:
 
-&emsp;(1)(A) There shall be charged to each month of a year under subsection (a) an amount equalto the individual's excess earnings (as determined under paragraph (2) with respect to such year), divided by the number of the individual's supplement entitlement months for such year (as determined under paragraph (3)).
+&emsp;(1)(A) There shall be charged to each month of a year under subsection (a) an amount equal to the individual's excess earnings (as determined under paragraph (2) with respect to such year), divided by the number of the individual's supplement entitlement months for such year (as determined under paragraph (3)).
 
 &emsp;(B) Notwithstanding subparagraph (A), the amount charged to a month under subsection (a) may not exceed the amount of the annuity supplement to which the individual is entitled under section 8421 for such month (determined without regard to subsection (c) of such section).
 
@@ -40,13 +40,9 @@ Section 203 of the Social Security Act, referred to in subsec. (b)(4)(A), is cla
 
 2000—Subsec. (b)(5). Pub. L. 106–394 added par. (5).
 
-1986—Subsecs. (c), (d). Pub. L. 99–556 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If, after an individual ceases to be entitled to an annuity supplement under section 8421 by reason of subsection (a)(3)(B) of such section, any portion of the individual's excess earnings remains outstanding, an amount not to exceed 25 percent of the amount otherwise payable to such individual under this chapter for each month shall be deducted from such monthly payment until the full amount of that outstanding portion has been accounted for. To the extent practicable, reductions under this subsection shall be made by a level percentage.”
+1986—Subsecs. (c), (d). Pub. L. 99–556 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If, after an individual ceases to be entitled to an annuity supplement under section 8421 by reason of subsection (a)(3)(B) of such section, any portion of the individual's excess earnings remains outstanding, an amount not to exceed 25 percent of the amount otherwise payable to such individual under this chapter for each month shall be deducted from such monthly payment until the full amount of that outstanding portion has been accounted for. To the extentpracticable, reductions under this subsection shall be made by a level percentage.”
 
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–394, §3(b), Oct. 30, 2000, 114 Stat. 1630, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to reductions required to be made in calendar years beginning after the date of the enactment of this Act \[Oct. 30, 2000\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 4071d; title 50 section 2154.
 

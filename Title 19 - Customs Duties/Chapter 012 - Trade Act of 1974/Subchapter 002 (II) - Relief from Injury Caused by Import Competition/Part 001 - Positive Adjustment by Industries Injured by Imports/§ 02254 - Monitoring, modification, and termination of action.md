@@ -82,7 +82,3 @@ Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Au
 
 Section effective Aug. 23, 1988, and applicable with respect to investigations initiated under this part on or after that date, see section 1401(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 2251 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1330, 2133, 2251, 2253, 3203 of this title.
-

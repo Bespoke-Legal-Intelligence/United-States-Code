@@ -30,7 +30,3 @@ Section was not enacted as part of the Water Resources Planning Act which compri
 
 Pub. L. 93–251, title I, §85, Mar. 7, 1974, 88 Stat. 36, provided in part for a study of Washington Metropolitan Area Future Water Needs, coordinated with Northeastern United States Water Supply study, and for a study of Estuarial Water Supplies, including a Potomac Estuary Water Treatment Pilot Project, for review of scientific basis for study conclusions by National Academy of Sciences-National Academy of Engineering, and made further authorizations for Sixes Bridge Dam and Lake Project, Maryland dependent on such studies and review.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1962d–8, 1962d–9, 1962d–10, 1962d–11 of this title.
-

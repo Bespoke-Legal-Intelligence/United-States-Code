@@ -40,7 +40,7 @@ The Secretary shall prepare and prescribe a single application form which—
 
 &emsp;(B) such institution has its liabilities backed by the full faith and credit of a State, or its equivalent;
 
-&emsp;(C) such institution establishes to the satisfaction of the Secretary, with the support of a financial statement audited by an independent certified public accountant in accordance with generally accepted auditing standards, that the institution has sufficient resources to ensure against the precipitous closure of the institution, including the ability to meet all of its financial obligations (including refunds of institutional charges and repayments to the Secretary for liabilities and debts incurred in programs administered by the Secretary); or
+&emsp;(C) such institution establishes to the satisfaction of the Secretary, with the support of a financial statement audited by an independentcertified public accountant in accordance with generally accepted auditing standards, that the institution has sufficient resources to ensure against the precipitous closure of the institution, including the ability to meet all of its financial obligations (including refunds of institutional charges and repayments to the Secretary for liabilities and debts incurred in programs administered by the Secretary); or
 
 &emsp;(D) such institution has met standards of financial responsibility, prescribed by the Secretary by regulation, that indicate a level of financial strength not less than those required in paragraph (2).
 
@@ -92,7 +92,7 @@ The Secretary is authorized—
 
 &emsp;(iii) the individual is a member of the board of directors, the chief executive officer, or other executive officer of the institution or of an entity that holds a substantial ownership interest in the institution.
 
-(B) The Secretary may determine that an entity exercises substantial control over one or more institutions participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42 if the Secretary determines that the entity directly or indirectly holds a substantial ownership interest in the institution.
+(B) The Secretary may determine that an entity exercises substantial control over one or more institutions participating in a program under this subchapter and part C of subchapterI of chapter 34 of title 42 if the Secretary determines that the entity directly or indirectly holds a substantial ownership interest in the institution.
 
 (3) For purposes of this subsection, an ownership interest is defined as a share of the legal or beneficial ownership or control of, or a right to share in the proceeds of the operation of, an institution or institution's parent corporation. An ownership interest may include, but is not limited to—
 
@@ -124,7 +124,7 @@ The Secretary is authorized—
 
 &emsp;(C) willfully fails to pay such refund or willfully attempts in any manner to evade payment of such refund,
 
-> shall, in addition to other penalties provided by law, be liable to the Secretary for the amount ofthe refund not paid, to the same extent with respect to such refund that such an individual would be liable as a responsible person for a penalty under section 6672(a) of title 26 with respect to the nonpayment of taxes.
+> shall, in addition to other penalties provided by law, be liable to the Secretary for the amount of the refund not paid, to the same extent with respect to such refund that such an individual would be liable as a responsible person for a penalty under section 6672(a) of title 26 with respect to the nonpayment of taxes.
 
 #### (f) Actions on applications and site visits
 
@@ -186,7 +186,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 &emsp;(B) another action determined by the Secretary to be a routine business practice.
 
-(4)(A) The Secretary may provisionally certify an institution seeking approval of a change inownership based on the preliminary review by the Secretary of a materially complete application that is received by the Secretary within 10 business days of the transaction for which the approval is sought.
+(4)(A) The Secretary may provisionally certify an institution seeking approval of a change in ownership based on the preliminary review by the Secretary of a materially complete application that is received by the Secretary within 10 business days of the transaction for which the approval is sought.
 
 (B) A provisional certification under this paragraph shall expire not later than the end of the month following the month in which the transaction occurred, except that if the Secretary has not issued a decision on the application for the change of ownership within that period, the Secretary may continue such provisional certification on a month-to-month basis until such decision has been issued.
 
@@ -248,7 +248,7 @@ Pub. L. 105–244, §102(b)(7)(A), substituted “sections 1002(b)(1)(E) and 100
 
 Subsec. (j)(2). Pub. L. 105–244, §102(a)(6)(B), (b)(7)(B), amended par. (2) identically, substituting “section 1001(a)(2)” for “section 1141(a)(2)”.
 
-1993—Subsec. (c)(2). Pub. L. 103–208, §2(i)(9)(A), inserted at end “Such criteria shall take into accountany differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for profit and nonprofit institutions. The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required.”
+1993—Subsec. (c)(2). Pub. L. 103–208, §2(i)(9)(A), inserted at end “Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for profit and nonprofit institutions. The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required.”
 
 Subsec. (c)(3). Pub. L. 103–208, §2(i)(9)(B), substituted “The Secretary shall determine” for “The Secretary may determine” in introductory provisions.
 
@@ -274,15 +274,11 @@ Pub. L. 105–244, title IV, §493(c)(2), Oct. 7, 1998, 112 Stat. 1762, provided
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) ofPub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date
 
 Subpart effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1087dd, 1094, 1099c–1, 5938 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

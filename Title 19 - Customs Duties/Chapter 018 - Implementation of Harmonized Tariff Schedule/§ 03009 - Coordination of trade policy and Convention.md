@@ -4,7 +4,3 @@ The United States Trade Representative is responsible for coordination of United
 
 (Pub. L. 100–418, title I, §1209, Aug. 23, 1988, 102 Stat. 1152.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3010 of this title.
-

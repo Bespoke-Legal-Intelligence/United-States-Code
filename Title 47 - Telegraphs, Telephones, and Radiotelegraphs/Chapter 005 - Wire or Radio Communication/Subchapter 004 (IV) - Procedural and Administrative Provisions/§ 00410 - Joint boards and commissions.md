@@ -2,7 +2,7 @@
 
 #### (a) State joint boards; reference of communication matters; composition; jurisdiction, powers, duties, and obligations; conduct of proceedings; force and effect of joint board action; members: nomination, appointment, and rejection; allowances for expenses
 
-Except as provided in section 409 of this title, the Commission may refer any matter arising in the administration of this chapter to a joint board to be composed of a member, or of an equal number of members, as determined by the Commission, from each of the States in which the wire or radio communication affected by or involved in the proceeding takes place or is proposed. For purposes of acting upon such matter any such board shall have all the jurisdiction and powers conferred by law upon an examiner provided for in section 3105 of title 5, designated by the Commission, and shall be subject to the same duties and obligations. The action of a joint board shall have such force and effect and its proceedings shall be conducted in such manner as the Commission shall by regulations prescribe. The joint board member or members for each State shall be nominated by the State commission of the State or by the Governor if there is no State commission, and appointed by the Federal Communications Commission. The Commission shall have discretion to reject any nominee. Joint board members shall receive such allowances for expenses as the Commission shall provide.
+Except as provided in section 409 of this title, the Commission may refer any matter arising in the administration of this chapter to a joint board to be composed of a member, or of an equal number of members, as determined by the Commission, from each of the States in which the wire or radio communication affected by or involved in the proceeding takes place or is proposed. For purposes of acting upon such matter any such board shall have all the jurisdiction and powers conferred by law upon an examiner provided for in section 3105 of title 5, designated by the Commission, and shall be subject to the same duties and obligations. The action of a joint board shall have such force and effect and its proceedings shall be conducted in such manner as the Commission shall by regulations prescribe. The joint board member or members for each State shall be nominated by the State commission of the State or by the Governor if thereis no State commission, and appointed by the Federal Communications Commission. The Commission shall have discretion to reject any nominee. Joint board members shall receive such allowances for expenses as the Commission shall provide.
 
 #### (b) State commissions; conferences with Commission regarding matters of carriers subject to their jurisdiction; joint hearings; cooperation with Commission
 
@@ -27,8 +27,4 @@ In subsec. (a), “section 3105 of title 5” substituted for “section 11 of t
 1956—Subsec. (a). Act Aug. 2, 1956, inserted in second sentence “and examiner provided for in section 3105 of title 5, designated by” after “the Commissioner”.
 
 1952—Subsec. (a). Act July 16, 1952, inserted first sentence so as to bring these provisions in conformity with section 409 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 214, 225, 254 of this title.
 

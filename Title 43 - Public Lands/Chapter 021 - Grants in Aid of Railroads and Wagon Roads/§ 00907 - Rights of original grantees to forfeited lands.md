@@ -4,7 +4,3 @@ No lands declared forfeited to the United States by sections 904 to 907 of this 
 
 (Sept. 29, 1890, ch. 1040, §6, 26 Stat. 498.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 904, 905, 906 of this title.
-

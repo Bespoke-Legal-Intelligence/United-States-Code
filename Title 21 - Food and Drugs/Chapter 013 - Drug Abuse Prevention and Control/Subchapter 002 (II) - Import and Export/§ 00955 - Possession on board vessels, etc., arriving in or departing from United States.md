@@ -8,7 +8,3 @@ It shall be unlawful for any person to bring or possess on board any vessel or a
 
 Schedules I, II, III, and IV, referred to in text, are set out in section 812(c) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 956, 960 of this title; title 18 sections 5032, 5038; title 28 section 994.
-

@@ -22,7 +22,7 @@ Within 15 days after the issuance of a license (including any brokering license)
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–280 substituted “Within 15 days after the issuance of a license (including any brokering license) for the export of items valued at less than $50,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and are goods or services that are intended to support the design, utilization, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex,” for “Within 15 days after the issuance of a license for the export of items valued at less than $14,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and intended to support the design, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex,”.
+2000—Subsec. (d). Pub. L. 106–280 substituted “Within 15 days after the issuance of a license (including anybrokering license) for the export of items valued at less than $50,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and are goods or services that are intended to support the design, utilization, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex,” for “Within 15 days after the issuance of a license for the export of items valued at less than $14,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and intended to support the design, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex,”.
 
 1998—Subsec. (a). Pub. L. 105–277, §1225(a)(4), struck out “, the Director of the Arms Control and Disarmament Agency,” after “Secretary of Defense”.
 
@@ -42,6 +42,10 @@ Subsec. (c). Pub. L. 103–236, §714(a)(6), inserted “with the Director of th
 
 Subsec. (d). Pub. L. 103–236, §735(c), added subsec. (d).
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
@@ -50,19 +54,45 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 Memorandum of President of the United States, June 25, 1991, 56 F.R. 31041, which provided for delegation of certain functions of the President, was superseded by Ex. Ord. No. 12851, §7, June 11, 1993, 58 F.R. 33181, set out below.
 
+#### Policy and Sense of Congress on Nonproliferation of Ballistic Missiles
+
+Pub. L. 108–375, div. A, title XII, §1212, Oct. 28, 2004, 118 Stat. 2087, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) Certain countries are seeking to acquire ballistic missiles and related technologies that could be used to attack the United States or place at risk United States interests, deployed members of the Armed Forces, and allies of the United States and other friendly foreign countries.
+
+&emsp;“(2) Certain countries continue to actively transfer or sell ballistic missile technologies in contravention of standards of behavior established by the United States and allies of the United States and other friendly foreign countries.
+
+&emsp;“(3) The spread of ballistic missiles and related technologies worldwide has been slowed by a combination of national and international export controls, forward-looking diplomacy, and multilateral interdiction activities to restrict the development and transfer of such missiles and technologies.
+
+“(b)
+
+Policy.—It is the policy of the United States to develop, support, and strengthen international accords and other cooperative efforts to curtail the proliferation of ballistic missiles and related technologies which could threaten the territory of the United States, allies of the United States and other friendly foreign countries, and deployed members of the Armed Forces of the United States with weapons of mass destruction.
+
+“(c)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;“(1) the United States should vigorously pursue foreign policy initiatives aimed at eliminating, reducing, or retarding the proliferation of ballistic missiles and related technologies; and
+
+&emsp;“(2) the United States and the international community should continue to support and strengthen established international accords and other cooperative efforts, including United Nations Security Council Resolution 1540 (April 28, 2004) and the Missile Technology Control Regime, that are designed to eliminate, reduce, or retard the proliferation of ballistic missiles and related technologies.”
+
 #### MTCR Report Transmittals
 
 Pub. L. 106–280, title VII, §704, Oct. 6, 2000, 114 Stat. 861, provided that: “For purposes of section 71(d) of the Arms Export Control Act (22 U.S.C. 2797(d)), the requirement that reports under that section shall be transmitted to the Congress shall be considered to be a requirement that such reports shall be transmitted to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations and the Committee on Banking, Housing and Urban Affairs of the Senate.”
 
 #### Report on Missile Proliferation
 
-Section 1704 of Pub. L. 101–510 directed President to submit to Congress reports on international transfersof aircraft which the Secretary had reason to believe may be intended to be used for delivery of nuclear, biological, or chemical weapons and international transfers of MTCR equipment or technology to any country seeking to acquire such equipment or technology, and which provided for contents of reports, countries excluded from such reports, classification of information, and definitions, prior to repeal by Pub. L. 102–190, div. A, title X, §1097(g), Dec. 5, 1991, 105 Stat. 1491.
+Section 1704 of Pub. L. 101–510 directed President to submit to Congress reports on international transfers of aircraft which the Secretary had reason to believe may be intended to be used for delivery of nuclear, biological, or chemical weapons and international transfers of MTCR equipment or technology to any country seeking to acquire such equipment or technology, and which provided for contents of reports, countries excluded from such reports, classification of information, and definitions, prior to repeal by Pub. L. 102–190, div. A, title X, §1097(g), Dec. 5, 1991, 105 Stat. 1491.
 
 #### Ex. Ord. No. 12851. Administration of Proliferation Sanctions, Middle East Arms Control, and Related Congressional Reporting Responsibilities
 
 Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code; sections 1701–1703 of the National Defense Authorization Act for Fiscal Year 1991, Public Law 101–510 (50 U.S.C. App. 2402 note, 2405, 2410b; 22 U.S.C. 2797–2797c); sections 303, 324 \[105 Stat. 708, 711\], and 401–405 \[22 U.S.C. 2778 note\] of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138; sections 305–308 of the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991, Public Law 102–182 (50 U.S.C. App. 2410c; 22 U.S.C. 2798, 5604–5606); sections 241 \[105 Stat. 1326\] and 1097 \[former 22 U.S.C. 2751 note\] of the National Defense Authorization Act for Fiscal Years 1992 and 1993, Public Law 102–190; and section 1364 of the National Defense Authorization Act for Fiscal Year 1993, Public Law 102–484 \[106 Stat. 2561\], I hereby order as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code; sections 1701–1703 of the National Defense Authorization Act for Fiscal Year 1991, Public Law 101–510 (50 U.S.C. App. 2402 note, 2405, 2410b; 22 U.S.C. 2797–2797c); sections 303, 324 \[105 Stat. 708, 711\], and 401–405 \[22 U.S.C. 2778 note\] of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, PublicLaw 102–138; sections 305–308 of the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991, Public Law 102–182 (50 U.S.C. App. 2410c; 22 U.S.C. 2798, 5604–5606); sections 241 \[105 Stat. 1326\] and 1097 \[former 22 U.S.C. 2751 note\] of the National Defense Authorization Act for Fiscal Years 1992 and 1993, Public Law 102–190; and section 1364 of the National Defense Authorization Act for Fiscal Year 1993, Public Law 102–484 \[106 Stat. 2561\], I hereby order as follows:
 
 Section 1. <i>Chemical and Biological Weapons Proliferation and Use Sanctions</i>. (a) <i>Chemical and Biological Weapons Proliferation</i>. The authority and duties vested in me by section 81 of the Arms Export Control Act, as amended (“AECA”) (22 U.S.C. 2798), and section 11C of the Export Administration Act of 1979, as amended (“EAA”) (50 U.S.C. App. 2410c), are delegated to the Secretary of State, except that:
 
@@ -104,7 +134,7 @@ Sec. 3. <i>Arms Control in the Middle East</i>. The certification and reporting 
 
 Sec. 4. <i>China and Weapons Proliferation</i>. The reporting functions regarding China and weapons proliferation vested in me by sections 303(a)(2) and 324 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993 \[Pub. L. 102–138, 105 Stat. 709, 711\], are delegated to the Secretary of State. The Secretary of State shall exercise these functions in consultation with the Secretary of Defense and other agencies as appropriate.
 
-Sec. 5. <i>Arrow Tactical Anti-Missile Program</i>. The authority and duties vested in me to make certain certifications as provided by section 241(b)(3)(C) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 \[Pub. L. 102–190, 105 Stat. 1327\] are delegated to the Secretary of State.
+Sec. 5. <i>Arrow Tactical Anti-Missile Program</i>. The authority and duties vested in me to make certain certifications as provided by section 241(b)(3)(C) of the National Defense Authorization Act for Fiscal Years 1992and 1993 \[Pub. L. 102–190, 105 Stat. 1327\] are delegated to the Secretary of State.
 
 Sec. 6. <i>Delegations</i>. The functions delegated herein may be redelegated as appropriate. Regulations necessary to carry out the functions delegated herein may be issued as appropriate.
 

@@ -18,5 +18,5 @@ The Chair shall—
 
 1986—Subsec. (b)(2). Pub. L. 99–646 struck out provision that, before appointment of first Chairman, Administrative Office of the United States Courts may make requests for appropriations for Commission.
 
-1985—Subsec. (b)(2). Pub. L. 99–22 inserted provision authorizing the Administrative Office of the United States Courts to make requests for appropriations for the Commission before the appointment of the first Chairman of the Commission.
+1985—Subsec. (b)(2). Pub. L. 99–22 inserted provision authorizing the Administrative Office of the UnitedStates Courts to make requests for appropriations for the Commission before the appointment of the first Chairman of the Commission.
 

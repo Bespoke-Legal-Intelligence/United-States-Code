@@ -4,7 +4,7 @@
 
 (1) In order to provide for and encourage training, research, and development for the purpose of improving fish and wildlife law enforcement and developing new methods for the prevention, detection, and reduction of violation of fish and wildlife laws, and the apprehension of violators of such laws, the Secretary of the Interior and the Secretary of Commerce may each—
 
-&emsp;(A) establish and conduct national training programs to provide, at the request of anyState, training for State fish and wildlife law enforcement personnel;
+&emsp;(A) establish and conduct national training programs to provide, at the request of any State, training for State fish and wildlife law enforcement personnel;
 
 &emsp;(B) develop new or improved approaches, techniques, systems, equipment, and service to improve and strengthen fish and wildlife law enforcement; and
 
@@ -68,7 +68,7 @@ With respect to any undercover or other enforcement operation which is necessary
 
 &emsp;(1) direct the advance of funds which may be deposited in commercial banks or other financial institutions;
 
-&emsp;(2) use appropriations for payment for information, rewards, or evidence concerning violations, without reference to any rewards to which such persons may otherwise be entitledby law, and any moneys subsequently recovered shall be reimbursed to the current appropriation; and
+&emsp;(2) use appropriations for payment for information, rewards, or evidence concerning violations, without reference to any rewards to which such persons may otherwise be entitled by law, and any moneys subsequently recovered shall be reimbursed to the current appropriation; and
 
 &emsp;(3) use appropriations to establish or acquire proprietary corporations or business entities as part of an undercover operation, operate such corporations or business entities on a commercial basis, lease space and make other necessary expenditures, and use the proceeds from such undercover operations to offset necessary and reasonable expenses incurred in such operations: <i>Provided</i>, That at the conclusion of each such operation the proceeds shall be deposited in the Treasury of the United States as miscellaneous receipts.
 

@@ -8,7 +8,7 @@
 
 #### (2) Approval of order needed
 
-&emsp;The order shall become effective only if the Secretary determines that the order has been approved by a simple majority of all votes cast in the referendum.
+&emsp;The order shall become effective only if the Secretary determines that the order has beenapproved by a simple majority of all votes cast in the referendum.
 
 #### (b) Votes permitted
 
@@ -44,7 +44,7 @@ If an order is approved in a referendum conducted under subsection (a) of this s
 
 &emsp;(1) at the discretion of the Secretary, may conduct at any time a referendum of producers and importers required to pay assessments under the order, as provided in section 7804(h)(1) of this title, subject to the voting requirements of subsections (b) and (c) of this section, to ascertain whether eligible producers and importers favor suspension, termination, or continuance of the order; or
 
-&emsp;(2) shall conduct a referendum of eligible producers and importers if requested by theBoard or by a representative group comprising 30 percent or more of all producers and importers required to pay assessments under the order, as provided in section 7804(h)(1) of this title, subject to the voting requirements of subsections (b) and (c) of this section, to ascertain whether producers and importers favor suspension, termination, or continuance of the order.
+&emsp;(2) shall conduct a referendum of eligible producers and importers if requested by the Board or by a representative group comprising 30 percent or more of all producers and importers required to pay assessments under the order, as provided in section 7804(h)(1) of this title, subject to the voting requirements of subsections (b) and (c) of this section, to ascertain whether producers and importers favor suspension, termination, or continuance of the order.
 
 #### (e) Suspension or termination
 
@@ -55,8 +55,4 @@ If, as a result of a referendum conducted under subsection (d) of this section, 
 &emsp;(2) suspend or terminate, as appropriate, activities under the order as soon as practicable and in an orderly manner.
 
 (Pub. L. 106–387, §1(a) \[title XII, §1206\], Oct. 28, 2000, 114 Stat. 1549, 1549A–91.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7803, 7804 of this title.
 

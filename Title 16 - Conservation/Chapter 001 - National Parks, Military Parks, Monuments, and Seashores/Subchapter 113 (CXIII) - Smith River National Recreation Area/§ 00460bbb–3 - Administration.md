@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall administer the recreation area in accordance with this subchapter and the laws, rules, and regulations applicable to the National Forest System in furtherance of the purposes for which the recreation area was established. In administering the recreation area, the Secretary shall, consistent with the applicable area management emphasis provided under subsection (b) of this section, undertake the following:
+The Secretary shall administer the recreation area in accordance with this subchapter and thelaws, rules, and regulations applicable to the National Forest System in furtherance of the purposes for which the recreation area was established. In administering the recreation area, the Secretary shall, consistent with the applicable area management emphasis provided under subsection (b) of this section, undertake the following:
 
 &emsp;(1) Provide for a broad range of recreation uses and provide recreational and interpretive services and facilities (including trails and campgrounds) for the public.
 
@@ -18,7 +18,7 @@ The Secretary shall administer the recreation area in accordance with this subch
 
 &emsp;(7) Permit removal of trees within streamside protection zones along those rivers and river segments specified in section 460bbb–8 of this title only when necessary for human health and safety, to maintain trails or existing roads, for the development of recreation or other facilities, for the protection of the recreation area in the event of fire, or to improve fish and wildlife habitat.
 
-&emsp;(8) Consistent with applicable requirements of law, permit removal of trees in those management areas where timber harvest is not specifically authorized by subsection (b) of this section when necessary for human health and safety, to maintain trails or existing roads, for the development of recreation or other facilities, for the protection of the recreation area in the event of fire, or to improve fish and wildlife habitat. Timber damaged or down in these areas as a result of fire, insects, disease, blowdown or other natural eventsshall otherwise be retained in its natural condition, with removal permitted only upon a written determination by the Secretary, based upon written findings, that such removal is necessary to provide for or maintain or enhance biological and ecological diversity, without regard for the commodity value of the timber. Such a decision shall not be delegable by the Secretary but shall be subject to administrative appeal and judicial review.
+&emsp;(8) Consistent with applicable requirements of law, permit removal of trees in those management areas where timber harvest is not specifically authorized by subsection (b) of this section when necessary for human health and safety, to maintain trails or existing roads, for the development of recreation or other facilities, for the protection of the recreation area in the event of fire, or to improve fish and wildlife habitat. Timber damaged or down in these areas as a result of fire, insects, disease, blowdown or other natural events shall otherwise be retained in its natural condition, with removal permitted only upon a written determination by the Secretary, based upon written findings, that such removal is necessary to provide for or maintain or enhance biological and ecological diversity, without regard for the commodity value of the timber. Such a decision shall not be delegable by the Secretary but shall be subject to administrative appeal and judicial review.
 
 &emsp;(9) Provide for the long-term viability and presence of Port-Orford-cedar and ensure its continued present economic and noneconomic uses through implementation of management strategies developed by the Forest Service.
 
@@ -48,7 +48,7 @@ The Secretary shall administer the recreation area in accordance with this subch
 
 &emsp;(E) The management emphasis for the Lower South Fork management area shall be on maintaining and protecting natural scenic values in the river canyon while providing for traditional and compatible river sports, including white water rafting, angling, sightseeing, and developed and dispersed recreation. Timber harvests based on uneven-aged management with extended rotations shall be allowed where consistent with protection of the scenic values of the recreation area.
 
-&emsp;(F) The management emphasis for the Lower Hurdygurdy Creek management area shall be on maintenance of wildlife values while providing rustic family and group recreation facilities for fishing, swimming, hunting, and camping. Timber harvests based on uneven-aged management with extended rotations shall be allowed where consistent with protection of scenic and wildlife values.
+&emsp;(F) The management emphasis for the Lower Hurdygurdy Creek management area shall beon maintenance of wildlife values while providing rustic family and group recreation facilities for fishing, swimming, hunting, and camping. Timber harvests based on uneven-aged management with extended rotations shall be allowed where consistent with protection of scenic and wildlife values.
 
 &emsp;(G) The management emphasis for the prescribed timber management area shall be on providing a sustained yield of wood products while maintaining biological and ecological diversity.
 
@@ -67,8 +67,4 @@ The Wilderness Act (16 U.S.C. 1131 et seq.), referred to in subsec. (b)(2)(H), i
 Section 10(b) of this Act, referred to in subsec. (c), is section 10(b) of Pub. L. 101–612, Nov. 16, 1990, 104 Stat. 3215, which amended section 1274 of this title.
 
 The Wild and Scenic Rivers Act, referred to in subsec. (c), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, as amended, which is classified generally to chapter 28 (§1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460bbb–8 of this title.
 

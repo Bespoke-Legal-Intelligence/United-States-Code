@@ -28,7 +28,3 @@ Subsec. (a)(5). Pub. L. 100–12, §11(a)(3), substituted “energy conservation
 
 Subsec. (b). Pub. L. 100–12, §11(b)(5)(B), inserted heading.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6295, 6301, 6303, 6304, 6316, 6317 of this title.
-

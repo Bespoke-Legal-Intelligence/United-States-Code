@@ -24,7 +24,7 @@
 
 (4) A district court shall dismiss any claim presented in a second or successive application that the court of appeals has authorized to be filed unless the applicant shows that the claim satisfies the requirements of this section.
 
-(c) In a habeas corpus proceeding brought in behalf of a person in custody pursuant to the judgment of a State court, a prior judgment of the Supreme Court of the United States on an appeal or review by a writ of certiorari at theinstance of the prisoner of the decision of such State court, shall be conclusive as to all issues of fact or law with respect to an asserted denial of a Federal right which constitutes ground for discharge in a habeas corpus proceeding, actually adjudicated by the Supreme Court therein, unless the applicant for the writ of habeas corpus shall plead and the court shall find the existence of a material and controlling fact which did not appear in the record of the proceeding in the Supreme Court and the court shall further find that the applicant for the writ of habeas corpus could not have caused such fact to appear in such record by the exercise of reasonable diligence.
+(c) In a habeas corpus proceeding brought in behalf of a person in custody pursuant to the judgment of a State court, a prior judgment of the Supreme Court of the United States on an appeal or review by a writ of certiorari at the instance of the prisoner of the decision of such State court, shall be conclusive as to all issues of fact or law with respect to an asserted denial of a Federal right which constitutes ground for discharge in a habeas corpus proceeding, actually adjudicated by the Supreme Court therein,unless the applicant for the writ of habeas corpus shall plead and the court shall find the existence of a material and controlling fact which did not appear in the record of the proceeding in the Supreme Court and the court shall further find that the applicant for the writ of habeas corpus could not have caused such fact to appear in such record by the exercise of reasonable diligence.
 
 (d)(1) A 1-year period of limitation shall apply to an application for a writ of habeas corpus by a person in custody pursuant to the judgment of a State court. The limitation period shall run from the latest of—
 
@@ -59,8 +59,4 @@ Subsec. (b). Pub. L. 104–132, §106(b), amended subsec. (b) generally. Prior t
 Subsec. (d). Pub. L. 104–132, §101, added subsec. (d).
 
 1966—Pub. L. 89–711 designated existing provisions as subsec. (a), struck out provision making the subsection's terms applicable to applications seeking inquiry into detention of persons detained pursuant to judgments of State courts, and added subsecs. (b) and (c).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2255, 2262, 2266 of this title.
 

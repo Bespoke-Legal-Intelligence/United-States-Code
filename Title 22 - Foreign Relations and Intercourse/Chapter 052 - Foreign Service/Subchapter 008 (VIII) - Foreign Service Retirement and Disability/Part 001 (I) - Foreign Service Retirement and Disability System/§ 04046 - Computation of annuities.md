@@ -10,7 +10,7 @@
 
 &emsp;(B) the annuity of a Foreign Service criminal investigator/inspector of such office, who was appointed to a law enforcement position as defined in section 8401(17) of that title on or after January 1, 1984, and who would have been eligible to retire pursuant to section 8412(d) of that title, after attaining 50 years of age and completing 20 years of service as such a law enforcement officer, had the employee remained in the civil service, shall be computed in the same manner as that of a law enforcement officer pursuant to section 8415(d) of that title.
 
-(3) The annuity of a Foreign Service investigator/inspector of the Office of the Inspector General, Agency for International Development, appointed to a law enforcement position prior to January 1, 1984, who exercised election rights under section 4071i of this title, shall be computed as follows: for the period prior to electionthe annuity shall be computed in accordance with section 8339(d) of title 5; for the period following election the annuity shall be computed in accordance with section 8415(d) of that title.
+(3) The annuity of a Foreign Service investigator/inspector of the Office of the Inspector General, Agency for International Development, appointed to a law enforcement position prior to January 1, 1984, who exercised election rights under section 4071i of this title, shall be computed as follows: for the period prior to election the annuity shall be computed in accordance with section 8339(d) of title 5; for the period following election the annuity shall be computed in accordance with section 8415(d) of that title.
 
 (4) All service in a law enforcement position, as defined in section 8331(20) or 8401(17) of that title, as applicable, in any agency or combination of agencies shall be included in the computation of time for purposes of this paragraph.
 
@@ -56,7 +56,7 @@
 
 (D) The Secretary of State may prescribe regulations under which a participant or former participant may make an election under subparagraph (B) or (C) without the participant's spouse or former spouse if the participant establishes to the satisfaction of the Secretary of State that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the spouse or former spouse.
 
-(2) The annuity of a participant or former participant providing a survivor benefit under thissection (or section 4054(b) of this title), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 21/2 percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 4054(a)(5) of this title.
+(2) The annuity of a participant or former participant providing a survivor benefit under this section (or section 4054(b) of this title), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 21/2 percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 4054(a)(5) of this title.
 
 (3)(A) If a former participant entitled to receive a reduced annuity under this subsection dies and is survived by a spouse, a survivor annuity shall be paid to the surviving spouse equal to 55 percent of the full amount of the participant's annuity computed under subsection (a) of this section, or 55 percent of any lesser amount elected as the base for the survivor benefit under paragraph (1)(B).
 
@@ -86,7 +86,7 @@
 
 #### (d) Recomputation for remaining children
 
-On the death of the surviving spouse or former spouse or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the participant. If the annuity to a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities to all currently eligible children in the family were then being initiated.
+On the death of the surviving spouse or former spouse or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the participant. If the annuity to a surviving child whohas not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities to all currently eligible children in the family were then being initiated.
 
 #### (e) Payment period for child
 
@@ -102,7 +102,7 @@ A participant or former participant who was unmarried at retirement and who late
 
 #### (h) Election of benefits
 
-A surviving spouse or surviving former spouse of any participant or former participant shall not become entitled to a survivor annuity or tothe restoration of a survivor annuity payable from the Fund under this part unless the survivor elects to receive it instead of any other survivor annuity to which he or she may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than that participant.
+A surviving spouse or surviving former spouse of any participant or former participant shall not become entitled to a survivor annuity or to the restoration of a survivor annuity payable from the Fund under this part unless the survivor elects to receive it instead of any other survivor annuity to which he or she may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than that participant.
 
 #### (i) Reversion to retired status
 
@@ -120,7 +120,7 @@ The Secretary of State shall, on an annual basis—
 
 &emsp;(1) inform each participant of his or her right of election under subsections (g) and (j) of this section; and
 
-&emsp;(2) to the maximum extent practicable, inform spouses or former spouses of participants or former participants of their rights under this section and section 4054 of this title.
+&emsp;(2) to the maximum extent practicable, inform spouses or former spouses of participantsor former participants of their rights under this section and section 4054 of this title.
 
 #### (<i>l</i>) Repealed. Pub. L. 100–238, title II, §217(c)(1), Jan. 8, 1988, 101 Stat. 1775
 
@@ -309,10 +309,6 @@ Limitation.—The election authorized in subsection (a) may only be made within 
 “(h)
 
 Definitions.—For the purposes of this section, the terms ‘participant’ and ‘surviving spouse’ have the same meaning given such terms in subchapter I of chapter 8 of the Foreign Service Act of 1980 \[this part\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4009, 4010, 4047, 4048, 4049, 4050, 4051, 4052, 4053, 4054, 4055, 4056, 4063, 4066, 4069a, 4069a–1, 4069b, 4069b–1, 4159 of this title; title 5 section 5545a.
 
 <i><sup>1</sup></i><i> See Amendment of Section note below.</i>
 

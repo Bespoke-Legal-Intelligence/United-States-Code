@@ -332,13 +332,9 @@ Pub. L. 93–277, §1, May 10, 1974, 88 Stat. 119, provided: “That this Act \[
 
 #### Short Title of 1963 Amendment
 
-Pub. L. 88–132, §1, Oct. 2, 1963, 77 Stat. 210, provided: “That this Act \[enacting sections 310 and 427 of this title and section 1401a of Title 10, Armed Forces, amending sections 201, 203, 301, 302, 305, 403, and 421 of this title, sections 1401, 1402, 3991, 6151, 6323, 6325 to 6327, 6381, 6383, 6390, 6394, 6396, 6398 to 6400, 6483, and 8991 of Title 10, section 423 of Title 14, Coast Guard, section 857a of Title 33, Navigation and Navigable Waters, and section 213a of Title 42, The Public Health and Welfare, repealing section 6149 of Title 10 and sections 2351 to 2356 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 201, 203, and 305 of this title, section 1402 of Title 10, andsection 411 (now 1311) of Title 38, Veterans’ Benefits\] may be cited as the ‘Uniformed Services Pay Act of 1963’.”
+Pub. L. 88–132, §1, Oct. 2, 1963, 77 Stat. 210, provided: “That this Act \[enacting sections 310 and 427 of this title and section 1401a of Title 10, Armed Forces, amending sections 201, 203, 301, 302, 305, 403, and 421 of this title, sections 1401, 1402, 3991, 6151, 6323, 6325 to 6327, 6381, 6383, 6390, 6394, 6396, 6398 to 6400, 6483, and 8991 of Title 10, section 423 of Title 14, Coast Guard, section 857a of Title 33, Navigation and Navigable Waters, and section 213a of Title 42, The Public Health and Welfare, repealing section 6149 of Title 10 and sections 2351 to 2356 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 201, 203, and 305 of this title, section 1402 of Title 10, and section 411 (now 1311) of Title 38, Veterans’ Benefits\] may be cited as the ‘Uniformed Services Pay Act of 1963’.”
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 906; title 5 sections 3326, 3501, 5531, 6323; title 10 sections 1032, 2774; title 20 section 7703; title 22 section 4833; title 26 section 6013; title 31 section 3702; title 32 section 716; title 38 section 5301; title 42 sections 292d, 659, 665.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

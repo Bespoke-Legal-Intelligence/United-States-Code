@@ -190,7 +190,7 @@ Section 626 of title VI of Pub. L. 98–573, as amended by Pub. L. 99–514, tit
 
 “(3) The administering authority may delay implementation of any of the amendments referred to in subsections (a) and (b)(1) with respect to any investigation in progress on the date of enactment of this Act \[Oct. 30, 1984\] if the administering authority determines that immediate implementation would prevent compliance with a statutory deadline in title VII of the Tariff Act of 1930 \[this subtitle\] that is applicable to that investigation.
 
-“(4) The amendment made by section 621 \[amending section 1677g of this title\] shall apply with respect tomerchandise that is unliquidated on or after November 4, 1984.
+“(4) The amendment made by section 621 \[amending section 1677g of this title\] shall apply with respect to merchandise that is unliquidated on or after November 4, 1984.
 
 “(c)(1) No provision of title VII of the Tariff Act of 1930 \[this subtitle\] shall be interpreted to prevent the refiling of a petition under section 702 or 732 of that title \[sections 1671a and 1673a of this title\] that was filed before the date of the enactment of this title, if the purpose of such refiling is to avail the petitioner of the amendment made by section 612(a)(1) \[amending section 1677(4)(A) of this title\].
 
@@ -284,7 +284,7 @@ Determination by the commission.—Within 180 days after the date on which it re
 
 Effect of determination.—
 
-“(A) Affirmative determination.—Upon being notified by the Commission of an affirmative determination under paragraph (2), the administering authority shall terminate the waiver of imposition of countervailing duties for merchandise subject to the order, if any. The countervailing duty order under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] which applies to that merchandise shall remain in effect until revoked, in whole or in part, under section 751(d) of such Act \[section 1675(d) of this title\].
+“(A) Affirmative determination.—Upon being notified by the Commission of an affirmative determination under paragraph (2), the administering authority shall terminate the waiver of impositionof countervailing duties for merchandise subject to the order, if any. The countervailing duty order under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] which applies to that merchandise shall remain in effect until revoked, in whole or in part, under section 751(d) of such Act \[section 1675(d) of this title\].
 
 “(B) Negative determination.—Upon being notified by the Commission of a negative determination under paragraph (2), the administering authority shall revoke the countervailing duty order, and publish notice in the Federal Register of the revocation.
 
@@ -347,10 +347,6 @@ Publication of Notice of Determinations.—Whenever the Commission makes a deter
 “(e)
 
 Definitions.—Whenever any term which is defined in section 771 of the Tariff Act of 1930 \[section 1677 of this title\] is used in this section, it has the same meaning as when it is used in title VII of that Act \[this subtitle\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1315, 1337, 1671a, 1671e, 1675b, 1677 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “1677–1(a)”.</i>
 

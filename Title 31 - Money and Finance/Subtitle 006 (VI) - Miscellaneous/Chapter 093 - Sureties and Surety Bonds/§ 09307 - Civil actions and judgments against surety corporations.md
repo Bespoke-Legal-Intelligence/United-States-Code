@@ -1,6 +1,6 @@
 ### §9307. Civil actions and judgments against surety corporations
 
-(a)(1) A surety corporation providing a surety bond under section 9304 of this title may be suedin a court of the United States having jurisdiction of civil actions on surety bonds in—
+(a)(1) A surety corporation providing a surety bond under section 9304 of this title may be sued in a court of the United States having jurisdiction of civil actions on surety bonds in—
 
 &emsp;(A) the judicial district in which the surety bond was provided; or
 
@@ -41,8 +41,4 @@ In subsection (a)(1), before clause (A), the words “corporation providing a su
 In subsection (a)(2), before clause (A), the words “a surety bond is deemed to be provided” are substituted for “such recognizance, stipulation, bond, or undertaking shall be treated as made or guaranteed” for consistency. In clause (A), the words “principal office of the surety corporation” are substituted for “office” for clarity and consistency. In clause (D), the words “person required to provide a surety bond resided when the bond was provided” are substituted for “principal in such recognizance, stipulation, bond, or undertaking resided when it was made or guaranteed” for consistency.
 
 Subsection (b) is substituted for 6:12 to eliminate unnecessary words and for consistency.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9306, 9308 of this title; title 5 section 8478; title 12 section 1766; title 29 sections 502, 1112, 1363.
 

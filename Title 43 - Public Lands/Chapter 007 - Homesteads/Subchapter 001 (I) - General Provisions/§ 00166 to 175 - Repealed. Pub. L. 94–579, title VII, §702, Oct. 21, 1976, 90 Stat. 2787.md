@@ -12,7 +12,7 @@ Section 170, act Oct. 22, 1914, ch. 335, 38 Stat. 766, related to rights of wife
 
 Section 171, R.S. §2292, related to rights inuring to infant children on death of both mother and father.
 
-Section 172, act June 8, 1880, ch. 136, 21 Stat. 166; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876,60 Stat. 1100, related to effect of insanity of settlers upon claims.
+Section 172, act June 8, 1880, ch. 136, 21 Stat. 166; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to effect of insanity of settlers upon claims.
 
 Section 173, R.S. §2301; Mar. 3, 1891, ch. 561, §6, 26 Stat. 1098; June 3, 1896, ch. 312, §2, 29 Stat. 197, related to commutations of entries after 14 months from date of settlement.
 

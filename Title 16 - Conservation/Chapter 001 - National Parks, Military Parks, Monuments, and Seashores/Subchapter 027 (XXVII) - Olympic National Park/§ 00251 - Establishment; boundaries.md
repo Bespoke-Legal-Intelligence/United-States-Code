@@ -14,7 +14,3 @@ Pub. L. 102–436, title I, Oct. 23, 1992, 106 Stat. 2217, provided that if the 
 
 Act Dec. 6, 1944, ch. 506, 58 Stat. 793, authorized the Secretary of the Interior to purchase buildings and fixtures of the Olympic Recreation Company and the Olympic Chalet Company, and appropriated $35,000 for that purpose.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 251e of this title.
-

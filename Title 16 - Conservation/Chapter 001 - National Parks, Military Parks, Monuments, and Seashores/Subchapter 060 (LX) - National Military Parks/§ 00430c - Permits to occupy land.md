@@ -8,7 +8,3 @@ Upon such terms and conditions as he may prescribe, the Secretary of the Interio
 
 Transfer of administrative functions of park, see note set out under section 430a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 430 of this title.
-

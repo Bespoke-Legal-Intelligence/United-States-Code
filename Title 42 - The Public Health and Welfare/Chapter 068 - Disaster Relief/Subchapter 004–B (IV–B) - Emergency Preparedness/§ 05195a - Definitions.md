@@ -20,7 +20,7 @@ For purposes of this subchapter only:
 
 &emsp;The term “emergency preparedness” means all those activities and measures designed or undertaken to prepare for or minimize the effects of a hazard upon the civilian population, to deal with the immediate emergency conditions which would be created by the hazard, and to effectuate emergency repairs to, or the emergency restoration of, vital utilities and facilities destroyed or damaged by the hazard. Such term includes the following:
 
-&emsp;&emsp;(A) Measures to be undertaken in preparation for anticipated hazards (including the establishment of appropriate organizations, operational plans, and supporting agreements, the recruitment and training of personnel, the conduct of research, the procurement and stockpiling of necessary materials and supplies, the provision of suitable warning systems, the construction or preparation of shelters, shelter areas, and control centers, and, when appropriate, the non-military evacuation of the civilian population).
+&emsp;&emsp;(A) Measures to be undertaken in preparation for anticipated hazards (including the establishment of appropriate organizations, operational plans, and supporting agreements, the recruitment and training of personnel, the conduct of research, the procurement and stockpiling of necessary materialsand supplies, the provision of suitable warning systems, the construction or preparation of shelters, shelter areas, and control centers, and, when appropriate, the non-military evacuation of the civilian population).
 
 &emsp;&emsp;(B) Measures to be undertaken during a hazard (including the enforcement of passive defense regulations prescribed by duly established military or civil authorities, the evacuation of personnel to shelter areas, the control of traffic and panic, and the control and use of lighting and civil communications).
 
@@ -66,7 +66,7 @@ The Defense Production Act of 1950, referred to in subsec. (b), is act Sept. 8, 
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in sections 2252 and 2282 of Title 50, Appendix,War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
+Provisions similar to those in this section were contained in sections 2252 and 2282 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
 
 #### Transfer of Functions
 

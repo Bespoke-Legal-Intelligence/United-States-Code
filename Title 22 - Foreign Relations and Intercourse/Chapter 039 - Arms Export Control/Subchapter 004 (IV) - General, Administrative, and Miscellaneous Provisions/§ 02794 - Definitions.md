@@ -34,7 +34,7 @@ For purposes of this chapter, the term—
 
 &emsp;(9) “significant military equipment” means articles—
 
-&emsp;&emsp;(A) for which special export controls are warranted because of the capacity of such articles for substantial military utility or capability; and
+&emsp;&emsp;(A) for which special export controls are warranted because of the capacity of sucharticles for substantial military utility or capability; and
 
 &emsp;&emsp;(B) identified on the United States Munitions List;
 
@@ -71,8 +71,4 @@ Par. (8). Pub. L. 96–533, §105(f)(2)–(4), added par. (8).
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2321j, 2753, 2761, 2765, 2770 of this title; title 10 sections 2350i, 2540d; title 12 section 635.
 

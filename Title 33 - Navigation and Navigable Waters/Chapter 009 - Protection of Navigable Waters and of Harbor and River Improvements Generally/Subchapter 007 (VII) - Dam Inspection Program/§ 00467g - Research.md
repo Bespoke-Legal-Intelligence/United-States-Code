@@ -30,7 +30,3 @@ A prior section 9 of Pub. L. 92–367 was classified to section 467h of this tit
 
 Subsec. (a)(3), (4). Pub. L. 107–310, §4(2)–(4), added pars. (3) and (4).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 467j of this title.
-

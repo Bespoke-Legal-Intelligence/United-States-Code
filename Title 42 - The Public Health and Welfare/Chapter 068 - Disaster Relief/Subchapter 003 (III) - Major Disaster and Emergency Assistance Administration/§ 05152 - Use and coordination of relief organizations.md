@@ -10,7 +10,3 @@
 
 A prior section 309 of Pub. L. 93–288 was renumbered section 306 by Pub. L. 100–707 and is classified to section 5149 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 636.
-

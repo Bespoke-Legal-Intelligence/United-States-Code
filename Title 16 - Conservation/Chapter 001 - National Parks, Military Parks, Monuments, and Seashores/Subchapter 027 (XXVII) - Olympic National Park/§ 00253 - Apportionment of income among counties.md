@@ -4,7 +4,3 @@ The income of each county receiving moneys from the Olympic National Forest, und
 
 (June 29, 1938, ch. 812, §3, 52 Stat. 1242.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 251e of this title.
-

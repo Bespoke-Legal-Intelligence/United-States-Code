@@ -32,7 +32,3 @@ Section was formerly classified to section 1201 of Title 2, The Congress.
 
 Section effective Nov. 21, 1991, except as otherwise provided, see section 402 of Pub. L. 102–166, set out as an Effective Date of 1991 Amendment note under section 1981 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 sections 60<i>l</i>, 1435.
-

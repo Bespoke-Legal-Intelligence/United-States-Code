@@ -16,7 +16,3 @@ Provisions relating to submission of interrogatories to a jury were omitted as c
 
 Changes were made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 623.
-

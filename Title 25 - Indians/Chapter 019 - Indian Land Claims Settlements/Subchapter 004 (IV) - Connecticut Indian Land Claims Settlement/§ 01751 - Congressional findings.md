@@ -24,7 +24,3 @@ In subsec. (e), “October 18, 1983” substituted for “the time of the passag
 
 Section 1 of Pub. L. 98–134 provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Mashantucket Pequot Indian Claims Settlement Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1752 of this title.
-

@@ -1,6 +1,6 @@
 ### §542b. Administration, protection, and regulation of use
 
-The Secretary of Agriculture shall administer, protect, and regulate use of the research site in accordance with the laws, rules, and regulations applicable to National Forest System lands, and in such manner as will best contribute to purposes of this Act.
+The Secretary of Agriculture shall administer, protect, and regulate use of the research site inaccordance with the laws, rules, and regulations applicable to National Forest System lands, and in such manner as will best contribute to purposes of this Act.
 
 (Pub. L. 96–550, title II, §203, Dec. 19, 1980, 94 Stat. 3225.)
 

@@ -4,7 +4,3 @@ For the purpose of carrying into effect the land-purchase provision of sections 
 
 (Aug. 10, 1939, ch. 662, §4, 53 Stat. 1351.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 463 of this title.
-

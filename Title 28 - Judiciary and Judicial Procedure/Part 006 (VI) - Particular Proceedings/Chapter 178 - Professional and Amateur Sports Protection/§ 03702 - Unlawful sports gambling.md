@@ -10,7 +10,3 @@ It shall be unlawful for—
 
 (Added Pub. L. 102–559, §2(a), Oct. 28, 1992, 106 Stat. 4228.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3703, 3704 of this title.
-

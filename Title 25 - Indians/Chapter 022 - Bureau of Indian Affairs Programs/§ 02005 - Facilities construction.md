@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;Not later than 12 months after January 8, 2002, the General Accounting Office shall compile, collect, and secure the data that are needed to prepare a national survey of the physical conditions of all Bureau-funded school facilities.
+&emsp;Not later than 12 months after January 8, 2002, the Government Accountability Office shall compile, collect, and secure the data that are needed to prepare a national survey of the physical conditions of all Bureau-funded school facilities.
 
 #### (2) Data and methodologies
 
-&emsp;In preparing the national survey required under paragraph (1), the General Accounting Office shall use the following data and methodologies:
+&emsp;In preparing the national survey required under paragraph (1), the Government Accountability Office shall use the following data and methodologies:
 
 &emsp;&emsp;(A) The existing Department of Defense formula for determining the condition and adequacy of Department of Defense facilities.
 
@@ -20,15 +20,15 @@
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the survey required under paragraph (1), the General Accounting Office shall, to the maximum extent practicable, consult (and if necessary contract) with national, regional, and tribal Indian education organizations to ensure that a complete and accurate national survey is achieved.
+&emsp;&emsp;In carrying out the survey required under paragraph (1), the Government Accountability Office shall, to the maximum extent practicable, consult (and if necessary contract) with national, regional, and tribal Indian education organizations to ensure that a complete and accurate national survey is achieved.
 
 #### (B) Requests for information
 
-&emsp;&emsp;All Bureau-funded schools shall comply with reasonable requests for information by the General Accounting Office and shall respond to such requests in a timely fashion.
+&emsp;&emsp;All Bureau-funded schools shall comply with reasonable requests for information by the Government Accountability Office and shall respond to such requests in a timely fashion.
 
 #### (4) Submission
 
-&emsp;Not later than 2 years after January 8, 2002, the General Accounting Office shall submit the results of the national survey conducted under paragraph (1) to the Committee on Indian Affairs, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate and the Committee on Resources, the Committee on Education and the Workforce, and the Committee on Appropriations of the House of Representatives and to the Secretary. The Secretary shall submit the results of the national survey to school boards of Bureau-funded schools and their respective tribes.
+&emsp;Not later than 2 years after January 8, 2002, the Government Accountability Office shall submit the results of the national survey conducted under paragraph (1) to the Committee on Indian Affairs, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate and the Committee on Resources, the Committee on Education and the Workforce, and the Committee on Appropriations of the House of Representatives and to the Secretary. The Secretary shall submit the results of the national survey to school boards of Bureau-funded schools and their respective tribes.
 
 #### (5) Negotiated rulemaking committee
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(i) A catalog of the condition of school facilities at all Bureau-funded schools that—
 
-&emsp;&emsp;&emsp;&emsp;(I) incorporates the findings from the General Accounting Office study evaluating and comparing school systems of the Department of Defense and the Bureau of Indian Affairs;
+&emsp;&emsp;&emsp;&emsp;(I) incorporates the findings from the Government Accountability Office study evaluating and comparing school systems of the Department of Defense and the Bureau of Indian Affairs;
 
 &emsp;&emsp;&emsp;&emsp;(II) rates such facilities with respect to the rate of deterioration and useful life of structures and major systems;
 
@@ -70,7 +70,7 @@
 
 #### (6) Facilities information systems support database
 
-&emsp;The Secretary shall develop a Facilities Information Systems Support Database to maintain and update the information contained in the reports under clauses (ii) and (iii) of paragraph (5)(A) and the information contained in the survey conducted under paragraph (1). The system shall be updated every 3 years by the Bureau of Indian Affairs and monitored by General Accounting Office, and shall be made available to school boards of Bureau-funded schools and their respective tribes, and Congress.
+&emsp;The Secretary shall develop a Facilities Information Systems Support Database to maintain and update the information contained in the reports under clauses (ii) and (iii) of paragraph (5)(A) and the information contained in the survey conducted under paragraph (1). The system shall be updated every 3 years by the Bureau of Indian Affairs and monitored by Government Accountability Office, and shall be made available to school boards of Bureau-funded schools and their respective tribes, and Congress.
 
 #### (b) Compliance with health and safety standards
 
@@ -112,7 +112,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 &emsp;In addition to the plan submitted under subsection (c) of this section, the Secretary shall—
 
-&emsp;&emsp;(A) not later than 18 months after January 8, 2002, establish a long-term constructionand replacement list for all Bureau-funded schools;
+&emsp;&emsp;(A) not later than 18 months after January 8, 2002, establish a long-term construction and replacement list for all Bureau-funded schools;
 
 &emsp;&emsp;(B) using the list prepared under subparagraph (A), propose a list for the orderly replacement of all Bureau-funded education-related facilities over a period of 40 years to enable planning and scheduling of budget requests;
 
@@ -182,7 +182,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (A) Classroom activities
 
-&emsp;&emsp;The Secretary shall permit the local school board to temporarily utilize facilitiesadjacent to the school, or satellite facilities, if such facilities are suitable for conducting classroom activities. In permitting the use of facilities under the preceding sentence, the Secretary may waive applicable minor standards under section 2001 of this title relating to such facilities (such as the required number of exit lights or configuration of restrooms) so long as such waivers do not result in the creation of an environment that constitutes an immediate and substantial threat to the health, safety, and life of students and staff.
+&emsp;&emsp;The Secretary shall permit the local school board to temporarily utilize facilities adjacent to the school, or satellite facilities, if such facilities are suitable for conducting classroom activities. In permitting the use of facilities under the preceding sentence, the Secretary may waive applicable minor standards under section 2001 of this title relating to such facilities (such as the required number of exit lights or configuration of restrooms) so long as such waivers do not result in the creation of an environment that constitutes an immediate and substantial threat to the health, safety, and life of students and staff.
 
 #### (B) Administrative activities
 
@@ -218,11 +218,11 @@ At the time that the annual budget request for Bureau educational services is pr
 
 Nothing in this section shall diminish any Federal funding due to the receipt by the school of funding for facilities improvement or construction from a State or any other source.
 
-(Pub. L. 95–561, title XI, §1125, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2021.)
+(Pub. L. 95–561, title XI, §1125, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2021; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(5)(A)(i)(V), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
+This Act, referred to in subsec. (a)(5)(A)(i)(V), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended,known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(1)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
@@ -232,11 +232,11 @@ A prior section 2005, Pub. L. 95–561, title XI, §1125, as added Pub. L. 103�
 
 Another prior section 2005, Pub. L. 95–561, title XI, §1125, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 100–297, title V, §5103, Apr. 28, 1988, 102 Stat. 364, related to facilities construction, prior to the general amendment of this chapter by Pub. L. 103–382.
 
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
+
 #### Use of Tribal Priority Allocations Funds for School Facilities
 
 Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part: “That hereafter tribes may use tribal priority allocations funds for the replacement and repair of school facilities in compliance with \[former\] 25 U.S.C. 2005(a) \[see now 25 U.S.C. 2005(b)\], so long as such replacement or repair is approved by the Secretary and completed with non-Federal tribal and/or tribal priority allocation funds”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2006, 2503 of this title.
 

@@ -86,7 +86,7 @@ Coordination of United States Policy in the International Arena.—The Secretary
 
 #### “SEC. 1105. INTERNATIONAL YEAR OF GLOBAL CLIMATE PROTECTION.
 
-“In order to focus international attention and concern on the problem of global warming, and to foster further work on multilateral treaties aimed at protecting the global climate, the Secretary of State shall undertake all necessary steps to promote, within theUnited Nations system, the early designation of an International Year of Global Climate Protection.
+“In order to focus international attention and concern on the problem of global warming, and to foster further work on multilateral treaties aimed at protecting the global climate, the Secretary of State shall undertake all necessary steps to promote, within the United Nations system, the early designation of an International Year of Global Climate Protection.
 
 #### “SEC. 1106. CLIMATE PROTECTION AND UNITED STATES RELATIONS WITH THE INDEPENDENT STATES OF THE FORMER SOVIET UNION.
 

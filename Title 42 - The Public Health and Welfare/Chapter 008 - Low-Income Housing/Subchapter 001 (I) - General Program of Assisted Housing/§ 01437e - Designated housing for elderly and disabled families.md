@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject only to provisions of this section and notwithstanding any other provision oflaw, a public housing agency for which a plan under subsection (d) of this section is in effect may provide public housing projects (or portions of projects) designated for occupancy by (A) only elderly families, (B) only disabled families, or (C) elderly and disabled families.
+&emsp;Subject only to provisions of this section and notwithstanding any other provision of law, a public housing agency for which a plan under subsection (d) of this section is in effect may provide public housing projects (or portions of projects) designated for occupancy by (A) only elderly families, (B) only disabled families, or (C) elderly and disabled families.
 
 #### (2) Priority for occupancy
 
@@ -56,7 +56,7 @@ A plan under this subsection for designating a project (or portion of a project)
 
 #### (1) Review and notification
 
-&emsp;The Secretary shall conduct a limited review of each plan under subsection (d) of this section that is submitted to the Secretary to ensure that the plan is complete and complies with the requirements of subsection (d) of this section. The Secretary shall notify each public housing agency submitting a plan whether the plan complies with such requirements not later than 60 days after receiving the plan. If the Secretary does not notify the public housing agency, as required under this paragraph or paragraph (2), the plan shall be considered, for purposes of this section, to comply with the requirements under subsection (d) of this section and the Secretary shall be considered to have notified the agency of such compliance upon the expiration of such 60-day period.
+&emsp;The Secretary shall conduct a limited review of each plan under subsection (d) of this section that is submitted to the Secretary to ensure that the plan is complete and complies with the requirements of subsection (d) of this section. The Secretary shall notify each public housing agency submitting a plan whether the plan complies with such requirements notlater than 60 days after receiving the plan. If the Secretary does not notify the public housing agency, as required under this paragraph or paragraph (2), the plan shall be considered, for purposes of this section, to comply with the requirements under subsection (d) of this section and the Secretary shall be considered to have notified the agency of such compliance upon the expiration of such 60-day period.
 
 #### (2) Notice of reasons for determination of noncompliance
 
@@ -137,10 +137,6 @@ Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102�
 #### Inapplicability of Certain 1992 Amendments to Indian Public Housing
 
 Amendment by Pub. L. 102–550 not applicable with respect to lower income housing developed or operated pursuant to contract between Secretary of Housing and Urban Development and Indian housing authority, see section 626 of Pub. L. 102–550, set out as a note under section 1437a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437c–1, 8013 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

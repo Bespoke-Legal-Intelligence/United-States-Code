@@ -40,7 +40,3 @@ Another prior section 710 of act July 1, 1944, was renumbered section 709 by Pub
 
 1998—Subsec. (a)(2)(B). Pub. L. 105–392 substituted “fiscal year 1993 and subsequent fiscal years” for “any of the fiscal years 1993 through 1996”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 292f, 292h, 292m of this title; title 20 section 1078–3.
-

@@ -12,7 +12,3 @@ The area in the Mono Basin within and adjacent to the Inyo National Forest in th
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 543b, 543c, 543e, 543g, 543h of this title.
-

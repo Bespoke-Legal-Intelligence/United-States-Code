@@ -56,7 +56,3 @@ The Secretary shall include in the list under subsection (a) of this section a s
 
 (Pub. L. 102–440, title I, §106, Oct. 23, 1992, 106 Stat. 2227.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4904, 4907, 4909, 4910 of this title.
-

@@ -28,9 +28,9 @@
 
 &emsp;(1) prepare annually and submit a business-type budget as provided for wholly owned Government corporations by chapter 91 of title 31; and
 
-&emsp;(2) maintain an integral set of accounts, which shall be audited by the General Accounting Office in accordance with principles and procedures applicable to commercial corporate transactions, as provided by section 9105 <sup>2</sup> of title 31.
+&emsp;(2) maintain an integral set of accounts, which shall be audited by the Government Accountability Office in accordance with principles and procedures applicable to commercial corporate transactions, as provided by section 9105 <sup>2</sup> of title 31.
 
-(June 26, 1934, ch. 750, title II, §209, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1014; amended Pub. L. 93–604, title VII, §706, Jan. 2, 1975, 88 Stat. 1964; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681.)
+(June 26, 1934, ch. 750, title II, §209, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1014; amended Pub. L. 93–604, title VII, §706, Jan. 2, 1975, 88 Stat. 1964; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -43,6 +43,8 @@ In subsec. (a)(5), “section 3109 of title 5” substituted for “section 15 o
 In subsec. (b), “chapter 91 of title 31” and “section 9105 of title 31” substituted for “the Government Corporation Control Act \[31 U.S.C. 841 et seq.\]” and “section 105 of the Government Corporation Control Act \[31 U.S.C. 850\]”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2004—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1978—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, “its” for “his”, and “it” for “he” and “him”, where appropriate.
 

@@ -1,9 +1,5 @@
 Part B—Voluntary Guidance
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 15322, 15327 of this title.
-
 
 ---
 

@@ -4,7 +4,3 @@ If, during any one year, 75 per centum of the receipts are insufficient fully to
 
 (May 24, 1939, ch. 144, §3, 53 Stat. 754.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 869–4, 1181f–1, 1181f–2 of this title.
-

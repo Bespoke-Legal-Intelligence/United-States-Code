@@ -26,7 +26,3 @@ Nothing in this subchapter or subchapter I of this chapter shall be construed as
 
 Provisions of this section as separable, see section 11 of act May 22, 1953, set out as a note under section 1301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1313, 1314, 2105 of this title.
-

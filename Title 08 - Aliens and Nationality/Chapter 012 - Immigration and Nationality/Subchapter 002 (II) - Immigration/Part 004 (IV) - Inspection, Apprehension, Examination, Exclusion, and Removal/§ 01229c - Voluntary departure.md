@@ -110,7 +110,3 @@ Section effective, with certain transitional provisions, on the first day of the
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1229a, 1231, 1252, 1330 of this title; title 18 section 4113.
-

@@ -32,7 +32,7 @@
 
 (2) Amounts available under paragraph (1) may not be used for any purpose other than a purpose set forth in subparagraph (A) or (B) of that paragraph.
 
-(d) Of the total amount recovered or collected by the Department during a fiscal year under the provisions of law referred to in subsection (b) and made available from the fund, the Secretary shall make available to each Department health care facility of the Department an amount that bears the same ratio to the total amount so made available as the amount recovered or collected by such facility during that fiscal year under such provisions of law bears to such total amount recovered or collected during that fiscal year. The Secretary shall make available to each facility the entirety of the amount specified to be made available to such facility by the preceding sentence.
+(d) Of the total amount recovered or collected by the Department during a fiscal year under the provisions of law referred to in subsection (b) and made available from the fund, the Secretary shall make available to each Departmenthealth care facility of the Department an amount that bears the same ratio to the total amount so made available as the amount recovered or collected by such facility during that fiscal year under such provisions of law bears to such total amount recovered or collected during that fiscal year. The Secretary shall make available to each facility the entirety of the amount specified to be made available to such facility by the preceding sentence.
 
 (e) Amounts recovered or collected under the provisions of law referred to in subsection (b) shall be treated for the purposes of sections 251 and 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901, 902) as offsets to discretionary appropriations (rather than as offsets to direct spending) to the extent that such amounts are made available for expenditure in appropriations Acts for the purposes specified in subsection (c).
 
@@ -66,11 +66,21 @@ Amendment by section 111(b)(1) of Pub. L. 106–117 effective 180 days after Nov
 
 Section effective Oct. 1, 1997, see section 8023(g) of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 1710 of this title.
 
+#### Medical Services Accounts
+
+Pub. L. 108–447, div. I, title I, §115, Dec. 8, 2004, 118 Stat. 3293, provided that:
+
+“(a) Hereafter receipts that would otherwise be credited to the accounts listed in subsection (c) shall be deposited into the Medical Care Collections Fund, and shall be transferred to and merged with the ‘Medical services’ account, in fiscal year 2005 and subsequent years, to remain available until expended, to carry out the purposes of the ‘Medical services’ account.
+
+“(b) The unobligated balances in the accounts listed in subsection (c), shall be transferred to and merged with the ‘Medical services’ account in fiscal year 2005 and subsequent years, and remain available until expended, to carry out the purposes of the ‘Medical services’ account: <i>Provided</i>, That the obligated balances in these accounts may be transferred to the ‘Medical services’ account at the discretion of the Secretary of Veterans Affairs and shall remain available until expended.
+
+“(c) Veterans Extended Care Revolving Fund; Medical Facilities Revolving Fund; Special Therapeutic and Rehabilitation Fund; Nursing Home Revolving Fund; Veterans Health Services Improvement Fund; and Parking Revolving Fund.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 108–199, div. G, title I, §115, Jan. 23, 2004, 118 Stat. 370.
+
 #### Report on Implementation of Section 8023 of Pub. L. 105–33
 
 Section 8023(f) of Pub. L. 105–33 provided that: “Not later than January 1, 1999, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the implementation of this section \[enacting this section, amending sections 712, 1710, 1722A, and 1729 of this title, and enacting provisions set out as notes under sections 712 and 1729 of this title\]. The report shall describe the collections under each of the provisions specified in section 1729A(b) of title 38, United States Code, as added by subsection (a). Information on such collections shall be shown for each of the health service networks (known as Veterans Integrated Service Networks) and, to the extent practicable for each facility within each such network. The Secretary shall include in the report an analysis of differences among the networks with respect to (A) the market in which the networks operates, (B) the effort expended to achieve collections, (C) the efficiency of such effort, and (D) any other relevant information.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1785, 8165 of this title.
 

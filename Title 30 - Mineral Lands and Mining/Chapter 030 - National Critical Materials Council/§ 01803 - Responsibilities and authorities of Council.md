@@ -98,9 +98,5 @@ Scope of Review.—In preparing the report required by subsection (e), the Commi
 
 Sunset.—The Commission shall disband within a year of its establishment. Thereafter the National Critical Materials Council may review and update the report required by subsection (e) and make further recommendations as it deems appropriate.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1804 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “materials”.</i>
 

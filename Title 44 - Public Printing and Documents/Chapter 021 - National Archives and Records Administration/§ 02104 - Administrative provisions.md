@@ -30,7 +30,3 @@ Section effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as 
 
 For assignment of certain emergency preparedness functions to Archivist of United States, see Parts 1, 2, and 20 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3102, 3317 of this title.
-

@@ -28,7 +28,7 @@ In order to carry out the purposes of this section, the Secretary of Agriculture
 
 #### (c) Considerations for financial assistance
 
-In determining whether to extend financial assistance under paragraph (1) or (2) of subsection (b) of this section, the Secretary shall take into consideration, among other factors, the suitability of the area within which constructionwill be carried out to the type of dwelling which can be provided under mutual or self-help housing programs, the extent to which the assistance will facilitate the provision of more decent, safe, and sanitary housing conditions than presently exist in the area, the extent to which the assistance will be utilized efficiently and expeditiously, the extent to which the assistance will effect an increase in the standard of living of low-income individuals participating in the mutual or self-help housing program, and whether the assistance will fulfill a need in the area which is not otherwise being met through other programs, including those carried out by other Federal, State, or local agencies.
+In determining whether to extend financial assistance under paragraph (1) or (2) of subsection (b) of this section, the Secretary shall take into consideration, among other factors, the suitability of the area within which construction will be carried out to the type of dwelling which can be provided under mutual or self-help housing programs, the extent to which the assistance will facilitate the provision of more decent, safe, and sanitary housing conditions than presently exist in the area, the extent to which the assistance will be utilized efficiently and expeditiously, the extent to which the assistance will effect an increase in the standard of living of low-income individuals participating in the mutual or self-help housing program, and whether the assistance will fulfill a need in the area which is not otherwise being met through other programs, including those carried out by other Federal, State, or local agencies.
 
 #### (d) “Construction” defined
 
@@ -116,7 +116,7 @@ Subsec. (g). Pub. L. 96–399, §501(d)(2), substituted provisions authorizing a
 
 1979—Subsec. (b). Pub. L. 96–153, §505, redesignated existing par. (2) as (3) and added par. (2).
 
-Subsec. (f). Pub. L. 96–153, §501(d), substituted authorization of appropriation of $5,000,000 for fiscal year ending Sept. 30, 1980, for provisions containing authorization of appropriation for fiscal years commencing June 30, 1968 to Oct. 1, 1978, and substituted “September 30, 1980” for “November 30, 1979”.
+Subsec. (f). Pub. L. 96–153, §501(d), substituted authorization of appropriation of $5,000,000 for fiscal year ending Sept. 30, 1980, for provisions containing authorization of appropriation for fiscal years commencing June30, 1968 to Oct. 1, 1978, and substituted “September 30, 1980” for “November 30, 1979”.
 
 Pub. L. 96–105 substituted “December 1, 1979” and “November 30, 1979” for “November 1, 1979” and “October 31, 1979”, respectively.
 
@@ -147,8 +147,4 @@ Subsec. (h). Pub. L. 93–383, §512(c), added subsec. (h).
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1483, 12805 of this title.
 

@@ -70,9 +70,5 @@ The Impoundment Control Act of 1974, referred to in subsec. (c)(2), is parts A a
 
 #### Apportionment of Funds Appropriated to District of Columbia Government
 
-Pub. L. 100–202, §101(c) \[title I, §135\], Dec. 22, 1987, 101 Stat. 1329–90, 1329–102, provided that: “Federal funds hereafter appropriated to the District of Columbia government shall not be subject to apportionment except to the extent specifically provided by statute.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1513, 1515 of this title; title 10 section 2201; title 40 section 322.
+Pub. L. 100–202, §101(c) \[title I, §135\], Dec. 22, 1987, 101 Stat. 1329–90, 1329–102, provided that: “Federal fundshereafter appropriated to the District of Columbia government shall not be subject to apportionment except to the extent specifically provided by statute.”
 

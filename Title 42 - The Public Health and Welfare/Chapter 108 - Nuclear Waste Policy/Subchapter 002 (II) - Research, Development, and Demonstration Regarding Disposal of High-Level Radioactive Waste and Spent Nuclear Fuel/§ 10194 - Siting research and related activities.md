@@ -24,7 +24,3 @@ The Secretary may take title, in the name of the Federal Government, to the high
 
 (Pub. L. 97–425, title II, §214, Jan. 7, 1983, 96 Stat. 2247.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10197, 10198 of this title.
-

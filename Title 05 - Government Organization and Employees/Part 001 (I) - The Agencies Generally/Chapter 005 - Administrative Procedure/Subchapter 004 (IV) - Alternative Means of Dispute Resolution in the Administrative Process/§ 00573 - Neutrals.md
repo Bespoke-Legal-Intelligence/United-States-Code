@@ -32,7 +32,3 @@ Subsec. (e). Pub. L. 104–320, §7(b)(2), struck out “on a roster established
 
 1992—Pub. L. 102–354 renumbered section 583 of this title as this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 577 of this title; title 29 section 173.
-

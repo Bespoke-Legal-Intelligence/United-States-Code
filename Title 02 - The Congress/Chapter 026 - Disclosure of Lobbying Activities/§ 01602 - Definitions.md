@@ -216,19 +216,15 @@ The Inspector General Act of 1978, referred to in par. (8)(B)(xvii), is Pub. L. 
 
 The Securities Exchange Act, referred to in par. (8)(B)(xix), probably means the Securities Exchange Act of 1934, act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Commodity Exchange Act, referred to in par. (8)(B)(xix), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in par. (8)(B)(xix), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
 
-<b>1998</b>—Par. (3)(F). Pub. L. 105–166, §2, substituted “7511(b)(2)(B)” for “7511(b)(2)”.
+1998—Par. (3)(F). Pub. L. 105–166, §2, substituted “7511(b)(2)(B)” for “7511(b)(2)”.
 
 Par. (8)(B)(ix). Pub. L. 105–166, §3(a), inserted before semicolon at end “, including any communication compelled by a Federal contract, grant, loan, permit, or license”.
 
 Par. (15)(F). Pub. L. 105–166, §3(b), inserted before period at end “, or a group of governments acting together as an international organization”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1610 of this title; title 15 section 4804; title 18 section 219; title 22 section 4002.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the semicolon.</i>
 

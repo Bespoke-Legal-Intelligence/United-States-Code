@@ -95,3 +95,4 @@
 - [&sect; 00059hh - Declaration of nonnavigability for portion of Pelican Island, Texas](%C2%A7%2000059hh%20-%20Declaration%20of%20nonnavigability%20for%20portion%20of%20Pelican%20Island%2C%20Texas.md)
 - [&sect; 00059ii - Declaration of nonnavigability of a portion of the canal known as the James River and Kanawha Canal in Richmond, Virginia](%C2%A7%2000059ii%20-%20Declaration%20of%20nonnavigability%20of%20a%20portion%20of%20the%20canal%20known%20as%20the%20James%20River%20and%20Kanawha%20Canal%20in%20Richmond%2C%20Virginia.md)
 - [&sect; 00059jj - Designation of nonnavigability for portions of Gloucester County, New Jersey](%C2%A7%2000059jj%20-%20Designation%20of%20nonnavigability%20for%20portions%20of%20Gloucester%20County%2C%20New%20Jersey.md)
+- [&sect; 00059kk - Wateree River](%C2%A7%2000059kk%20-%20Wateree%20River.md)

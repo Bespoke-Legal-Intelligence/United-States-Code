@@ -30,7 +30,7 @@ The Secretary shall investigate and study the feasibility of utilizing the capab
 
 #### (C) Applicability
 
-&emsp;&emsp;The non-Federal interest shall be credited with the value of in-kind services providedon or after October 1, 2000, for a project described in paragraph (1) completed on or after that date, if the Secretary determines that the work is integral to the project.
+&emsp;&emsp;The non-Federal interest shall be credited with the value of in-kind services provided on or after October 1, 2000, for a project described in paragraph (1) completed on or after that date, if the Secretary determines that the work is integral to the project.
 
 > In carrying out paragraph (4),<sup>1</sup> the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.
 

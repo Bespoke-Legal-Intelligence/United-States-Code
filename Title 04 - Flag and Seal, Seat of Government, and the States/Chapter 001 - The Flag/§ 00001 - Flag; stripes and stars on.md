@@ -88,7 +88,3 @@ Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | B | C | D | E | F | G | H | K | L |
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5 of this title.
-

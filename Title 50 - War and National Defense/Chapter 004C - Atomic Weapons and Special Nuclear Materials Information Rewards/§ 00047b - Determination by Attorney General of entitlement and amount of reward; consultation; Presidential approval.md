@@ -12,7 +12,3 @@ The Attorney General shall determine whether a person furnishing information to 
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See also Transfer of Functions notes set out under those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47c, 47d, 47e of this title.
-

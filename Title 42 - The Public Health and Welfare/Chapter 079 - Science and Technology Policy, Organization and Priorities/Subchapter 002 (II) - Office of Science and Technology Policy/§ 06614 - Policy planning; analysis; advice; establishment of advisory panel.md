@@ -120,11 +120,7 @@ Pub. L. 99–383, §10, Aug. 21, 1986, 100 Stat. 816, provided that:
 
 &emsp;“(1) within one year after the date of enactment of this Act \[Aug. 21, 1986\], a report on findings from the study undertaken pursuant to subsection (a) with respect to needs and options regarding communications networks for university and Federal research supercomputers within the United States; and
 
-&emsp;“(2) within two years after the date of enactment of this Act \[Aug. 21, 1986\], a report on findings from the study undertaken pursuant to subsection (a) with respect to needs and options regarding communications networks for all research computers at universities and Federal research facilities in the United States.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6617 of this title.
+&emsp;“(2) within two years after the date of enactment of this Act \[Aug. 21, 1986\], a report on findings from thestudy undertaken pursuant to subsection (a) with respect to needs and options regarding communications networks for all research computers at universities and Federal research facilities in the United States.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

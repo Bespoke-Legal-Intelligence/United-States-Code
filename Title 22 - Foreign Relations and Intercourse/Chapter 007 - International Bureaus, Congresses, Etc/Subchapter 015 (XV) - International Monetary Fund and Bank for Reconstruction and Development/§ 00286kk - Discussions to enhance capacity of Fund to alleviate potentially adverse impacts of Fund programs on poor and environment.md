@@ -8,7 +8,3 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 (July 31, 1945, ch. 339, §55, as added Pub. L. 101–240, title III, §302, Dec. 19, 1989, 103 Stat. 2500.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 262r of this title.
-

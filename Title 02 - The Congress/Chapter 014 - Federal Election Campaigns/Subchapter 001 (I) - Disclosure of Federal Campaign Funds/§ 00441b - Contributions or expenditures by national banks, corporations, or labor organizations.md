@@ -16,7 +16,7 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 &emsp;(B) for any person soliciting an employee for a contribution to such a fund to fail to inform such employee of the political purposes of such fund at the time of such solicitation; and
 
-&emsp;(C) for any person soliciting an employee for a contribution to such a fund to fail to inform such employee, at the time of such solicitation, of his right to refuse to so contribute without any reprisal.
+&emsp;(C) for any person soliciting an employee for a contribution to such a fund to fail to informsuch employee, at the time of such solicitation, of his right to refuse to so contribute without any reprisal.
 
 (4)(A) Except as provided in subparagraphs (B), (C), and (D), it shall be unlawful—
 
@@ -64,7 +64,7 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 &emsp;&emsp;&emsp;(i) an organization described in section 501(c)(4) of title 26 and exempt from taxation under section 501(a) of such title; or
 
-&emsp;&emsp;&emsp;(ii) an organization which has submitted an application to the Internal Revenue Service for determination of its status as an organization described in clause (i); and
+&emsp;&emsp;&emsp;(ii) an organization which has submitted an application to the Internal RevenueService for determination of its status as an organization described in clause (i); and
 
 &emsp;&emsp;(B) a person shall be treated as having made a disbursement if the person has executed a contract to make the disbursement.
 
@@ -96,13 +96,13 @@ Another prior section 316 of Pub. L. 92–225 was renumbered section 311, and is
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–155, §§203(a), 214(d), substituted “ ‘contribution or expenditure’ includes a contribution or expenditure, as those terms are defined in section 431 of this title, and also includes” for “ ‘contribution or expenditure’ shall include” and inserted “or for any applicable electioneering communication” before “, but shall not include (A)”.
+2002—Subsec. (b)(2). Pub. L. 107–155, §§203(a), 214(d), substituted “ ‘contribution or expenditure’ includes a contribution or expenditure, as those terms are defined in section 431 of this title, and also includes” for “ ‘contribution or expenditure’ shall include” and inserted “or for any applicable electioneering communication” before “, but shall not include (A)”.
 
 Subsec. (c). Pub. L. 107–155, §203(b), added subsec. (c).
 
 Subsec. (c)(6). Pub. L. 107–155, §204, added par. (6).
 
-<b>1980</b>—Subsec. (b)(4)(B). Pub. L. 96–187, §112(d), substituted “It” for “it”.
+1980—Subsec. (b)(4)(B). Pub. L. 96–187, §112(d), substituted “It” for “it”.
 
 #### Effective Date of 2002 Amendment
 
@@ -111,8 +111,4 @@ Amendment by Pub. L. 107–155 effective Nov. 6, 2002, but not applicable with r
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 431 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 432, 433, 437g, 441c of this title.
 

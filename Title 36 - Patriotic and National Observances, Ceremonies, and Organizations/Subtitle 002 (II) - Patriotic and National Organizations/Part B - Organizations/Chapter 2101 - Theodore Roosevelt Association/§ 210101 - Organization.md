@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Theodore Roosevelt Association (in this chapter, the “corporation”)is a body corporate and politic in the District of Columbia.
+Federal Charter.—Theodore Roosevelt Association (in this chapter, the “corporation”) is a body corporate and politic in the District of Columbia.
 
 (b)
 
@@ -38,5 +38,5 @@ In subsection (b), the words “Except as otherwise provided” are added, and t
 
 #### Change of Name
 
-Act May 21, 1953, ch. 63, §2, 67 Stat. 28, provided that: “Any law heretofore enacted by the Congress and now in effect which refers to said Roosevelt Memorial Association shall hereafter be deemed to refer to such Association by its new name, Theodore Roosevelt Association.”
+Act May 21, 1953, ch. 63, §2, 67 Stat. 28, provided that: “Any law heretofore enacted by the Congress and nowin effect which refers to said Roosevelt Memorial Association shall hereafter be deemed to refer to such Association by its new name, Theodore Roosevelt Association.”
 

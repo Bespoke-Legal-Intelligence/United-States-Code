@@ -48,7 +48,7 @@ A manufacturer required to furnish notification of a defect under subsection (a)
 
 #### (h) Submission to Secretary by manufacturer of plan for notifying owners of defects and repair of defects; approval of manufacturer's remedy plan; effectuation and implementation of remedy plan
 
-The manufacturer shall submit his plan for notifying owners of the defect and for repairing such defect (if required under subsection (g) of this section) to the Secretary for his approval before implementing such plan. Whenever amanufacturer is required under subsection (g) of this section to correct a defect, the Secretary shall approve with or without modification, after consultation with the manufacturer of the manufactured home involved, such manufacturer's remedy plan including the date when, and the method by which, the notification and remedy required pursuant to this section shall be effectuated. Such date shall be the earliest practicable one but shall not be more than sixty days after the date of discovery or determination of the defect or failure to comply, unless the Secretary grants an extension of such period for good cause shown and publishes a notice of such extension in the Federal Register. Such manufacturer is bound to implement such remedy plan as approved by the Secretary.
+The manufacturer shall submit his plan for notifying owners of the defect and for repairing such defect (if required under subsection (g) of this section) to the Secretary for his approval before implementing such plan. Whenever a manufacturer is required under subsection (g) of this section to correct a defect, the Secretary shall approve with or without modification, after consultation with the manufacturer of the manufactured home involved, such manufacturer's remedy plan including the date when, and the method by which, the notification and remedy required pursuant to this section shall be effectuated. Such date shall be the earliest practicable one but shall not be more than sixty days after the date of discovery or determination of the defect or failure to comply, unless the Secretary grants an extension of such period for good cause shown and publishes a notice of such extension in the Federal Register. Such manufacturer is bound to implement such remedy plan as approved by the Secretary.
 
 #### (i) Defective or inadequately repaired manufactured homes; replacement with new or equivalent home or refund of purchase price
 
@@ -58,7 +58,7 @@ Where a defect or failure to comply in a manufactured home cannot be adequately 
 
 #### Codification
 
-References to “mobile homes”, wherever appearing in text, changed to “manufactured homes” in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of “manufactured home” for “mobile home” wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms “mobile home” and “manufactured home” shall be deemed to include the terms “mobile homes” and “manufactured homes”, respectively.
+References to “mobile homes”, wherever appearing in text, changed to “manufactured homes” in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of “manufactured home” for “mobile home” wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12,Banks and Banking) providing that the terms “mobile home” and “manufactured home” shall be deemed to include the terms “mobile homes” and “manufactured homes”, respectively.
 
 #### Amendments
 
@@ -73,8 +73,4 @@ Subsecs. (d), (f). Pub. L. 106–569, §603(b)(3)(C), substituted “retailers�
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5409, 5422 of this title.
 

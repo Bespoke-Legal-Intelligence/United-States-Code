@@ -20,7 +20,7 @@
 
 &emsp;(B) identified under the Formerly Utilized Sites Remedial Action Program.
 
-> Nothing in this paragraph shall be deemed to prohibit a State, subject to the provisions of its compact, or a compact region from accepting for disposal any material identified in subparagraph (A) or (B).
+> Nothing in this paragraph shall be deemed to prohibit a State, subject to the provisions of itscompact, or a compact region from accepting for disposal any material identified in subparagraph (A) or (B).
 
 (b)(1) The Federal Government shall be responsible for the disposal of—
 
@@ -63,10 +63,6 @@ Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and n
 #### Prior Provisions
 
 A prior section 2021c, Pub. L. 96–573, §3, Dec. 22, 1980, 94 Stat. 3347, related to the applicability of low-level radioactive waste compacts, prior to repeal by Pub. L. 99–240, §102. See section 2021d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2021b, 2021d, 2021e, 2021f, 2021g, 2023 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

@@ -30,7 +30,7 @@
 
 #### (4) Terms and conditions
 
-&emsp;Notwithstanding any other provision of law, the President shall, in accordance with thissection, establish the terms and conditions under which loans and credits may be sold, reduced, or canceled pursuant to this section.
+&emsp;Notwithstanding any other provision of law, the President shall, in accordance with this section, establish the terms and conditions under which loans and credits may be sold, reduced, or canceled pursuant to this section.
 
 #### (5) Administration
 
@@ -60,7 +60,5 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2431a of this title.
+For delegation of functions of President under subsec. (a) of this section, see section 1 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of Title 7, Agriculture.
 

@@ -48,7 +48,3 @@ Subsec. (a)(2). Pub. L. 106–310, §3204(b)(2), inserted “and any comments co
 
 Subsec. (b)(2) to (4). Pub. L. 106–310, §3204(c), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300x–3, 300x–6, 300x–24, 300x–54, 300x–55 of this title.
-

@@ -10,7 +10,7 @@ The States referred to in subsection (a) of this section are Connecticut, Delawa
 
 #### (c) Cooperation of State
 
-The Secretary may conduct the study required in subsection (a) of this section in a State onlyif the State agrees to cooperate with the Secretary in the conduct of the study, including providing information from any registry operated by the State pursuant to section 280e(a) of this title.
+The Secretary may conduct the study required in subsection (a) of this section in a State only if the State agrees to cooperate with the Secretary in the conduct of the study, including providing information from any registry operated by the State pursuant to section 280e(a) of this title.
 
 #### (d) Planning, commencement, and duration
 
@@ -28,13 +28,11 @@ Not later than September 30, 1999, the Secretary shall complete the study requir
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Potential Environmental and Other Risks Contributing to Incidence of Breast Cancer
 
 Pub. L. 103–43, title XIX, §1911, June 10, 1993, 107 Stat. 205, provided that Director of the National Cancer Institute, in collaboration with Director of the National Institute of Environmental Health Sciences, was to conduct case-control study to assess biological markers of environmental and other potential risk factors contributing to incidence of breast cancer in specified counties in State of New York and northeastern United States that had highest age-adjusted mortality rate of such cancer, and to report results of such study to Congress not later than 30 months after June 10, 1993.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 280e, 280e–4 of this title.
 

@@ -20,7 +20,3 @@ At the time of application for a loan (as defined in section 2202a(a)(5) of this
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2279aa of this title.
-

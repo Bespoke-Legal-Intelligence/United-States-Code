@@ -112,6 +112,8 @@ Subsec. (h)(4). Pub. L. 104–166, §2(2), added par. (4).
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Traumatic Brain Injury Study; Consensus Conference
@@ -148,7 +150,7 @@ In general.—The Secretary of Health and Human Services (in this section referr
 
 Dates certain for reports.—
 
-&emsp;&emsp;“(A) Not later than 18 months after the date of the enactment of this Act \[July 29, 1996\], the Secretary shall submit to the Committee on Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings made as a result of carrying out paragraph (1)(A).
+&emsp;&emsp;“(A) Not later than 18 months after the date of the enactment of this Act \[July 29, 1996\], the Secretary shall submit to the Committee on Commerce of the House of Representatives, and to the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, a report describing the findings made as a result of carrying out paragraph (1)(A).
 
 &emsp;&emsp;“(B) Not later than 3 years after the date of the enactment of this Act, the Secretary shall submit to the Committees specified in subparagraph (A) a report describing the findings made as a result of carrying out subparagraphs (B) and (C) of paragraph (1).
 

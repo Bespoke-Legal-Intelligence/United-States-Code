@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 635a–3, 635m of this title; title 22 sections 2184, 2291, 2296b.
-
 
 ---
 

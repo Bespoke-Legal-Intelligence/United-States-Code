@@ -24,7 +24,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(II) who is in the process of being admitted to a facility rendering care or treatment, including persons being transported to such a facility; or”; <sup>2</sup>
 
-&emsp;&emsp;(III) who is involuntarily confined in a municipal detention facility for reasons otherthan serving a sentence resulting from conviction for a criminal offense; or
+&emsp;&emsp;(III) who is involuntarily confined in a municipal detention facility for reasons other than serving a sentence resulting from conviction for a criminal offense; or
 
 &emsp;&emsp;(ii) who satisfies the requirements of subparagraph (A) and lives in a community setting, including their own home.
 
@@ -50,7 +50,7 @@ The Developmental Disabilities Assistance and Bill of Rights Act, referred to in
 
 Par. (4). Pub. L. 106–310, §3206(b)(1)(A), inserted “, except as provided in section 10804(d) of this title,” after “means” in introductory provisions.
 
-Par. (4)(B). Pub. L. 106–310, §3206(b)(1)(B), designated existing provisions as cl. (i), redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i), and added cl. (ii).
+Par. (4)(B). Pub. L. 106–310, §3206(b)(1)(B), designated existing provisions as cl. (i), redesignated former cls. (i)to (iii) as subcls. (I) to (III), respectively, of cl. (i), and added cl. (ii).
 
 Par. (8). Pub. L. 106–310, §3206(b)(2), added par. (8).
 
@@ -67,10 +67,6 @@ Par. (4). Pub. L. 100–509, §3(3), inserted “or death” after “injury” 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 290ii–1, 10804, 10851 of this title; title 29 section 794e.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

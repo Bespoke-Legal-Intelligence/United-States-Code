@@ -12,10 +12,6 @@ Ex. Ord. No. 11330, Mar. 5, 1967, 32 F.R. 3871, as amended by Ex. Ord. No. 11547
 
 Pub. L. 91–176, Dec. 30, 1969, 83 Stat. 826, provided: “That there is hereby authorized to be appropriated such sums as may be necessary for the expenses of the President's Council on Youth Opportunity, established by Executive Order Numbered 11330 of March 5, 1967.”
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2707 of this title; title 20 section 3286; title 29 section 795a.
-
 
 ---
 

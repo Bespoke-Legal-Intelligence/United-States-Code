@@ -2,7 +2,7 @@
 
 #### (a) Establishment of central file
 
-There shall be established in the office of the Commissioner, for the use of security and enforcement agencies of the Government of the United States, a central index, which shall contain the names of all aliens heretofore admitted or denied admission to the United States, insofar as such information is available from the existing records of the Service, and the names of all aliens hereafter admitted or denied admission to the United States, the names of theirsponsors of record, if any, and such other relevant information as the Attorney General shall require as an aid to the proper enforcement of this chapter.
+There shall be established in the office of the Commissioner, for the use of security and enforcement agencies of the Government of the United States, a central index, which shall contain the names of all aliens heretofore admitted or denied admission to the United States, insofar as such information is available from the existing records of the Service, and the names of all aliens hereafter admitted or denied admission to the United States, the names of their sponsors of record, if any, and such other relevant information as the Attorney General shall require as an aid to the proper enforcement of this chapter.
 
 #### (b) Information from other departments and agencies
 
@@ -30,7 +30,7 @@ Subsec. (c). Pub. L. 104–208, §414(a), amended subsec. (c) generally. Prior t
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(d)(4)(M) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(d)(4)(M) of Pub. L. 104–208 effective, with certain transitional provisions, on thefirst day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

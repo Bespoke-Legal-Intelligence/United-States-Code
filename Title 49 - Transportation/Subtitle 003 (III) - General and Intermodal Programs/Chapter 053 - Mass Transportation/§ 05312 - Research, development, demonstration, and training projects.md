@@ -56,7 +56,7 @@ Definition of consortium.—In this subsection, the term “consortium”—
 
 &emsp;(2)
 
-General authority.—The Secretary may, under terms and conditions that the Secretary prescribes, enter into grants, contracts, cooperative agreements, and other agreements with consortia selected in accordance with paragraph (4), to promote the early deployment of innovation in mass transportation services, management, operational practices, or technology that has broad applicability. This paragraph shall be carried out in consultation with the transit industry by competitively selected consortia that will share costs, risks, and rewards of early deployment of innovation.
+General authority.—The Secretary may, under terms and conditions that the Secretary prescribes, enter into grants, contracts, cooperative agreements, and other agreementswith consortia selected in accordance with paragraph (4), to promote the early deployment of innovation in mass transportation services, management, operational practices, or technology that has broad applicability. This paragraph shall be carried out in consultation with the transit industry by competitively selected consortia that will share costs, risks, and rewards of early deployment of innovation.
 
 &emsp;(3)
 
@@ -152,7 +152,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §4(c) (1st sentence); added Nov. 
 
 In subsections (a) and (b)(1), the words “(or the Secretary of Housing and Urban Development when required by section 5334(i) of this title)” are added for clarity.
 
-In subsection (a), the word “working” is omitted as surplus. The words “departments, agencies, and instrumentalities of the United States Government” are substituted for “other Federal departments and agencies” for consistency in the revised title and with other titles of the United States Code. The words “all phases of”, “(including the development, testing, and demonstration of new facilities, equipment, techniques, and methods)”, “In carrying out the provisions of this section”, “or data as he deems”, “public or private”, and “contained . . . section 1701d–3 of title 12 or . . . other provision of” are omitted as surplus.
+In subsection (a), the word “working” is omitted as surplus. The words “departments, agencies, and instrumentalities of the United States Government” are substituted for “other Federal departments and agencies” for consistency in the revised title and with other titlesof the United States Code. The words “all phases of”, “(including the development, testing, and demonstration of new facilities, equipment, techniques, and methods)”, “In carrying out the provisions of this section”, “or data as he deems”, “public or private”, and “contained . . . section 1701d–3 of title 12 or . . . other provision of” are omitted as surplus.
 
 In subsection (b)(1), before clause (A), the words “public and private”, “assist in establishing or carrying on comprehensive research in the problems of transportation in urban areas. Such grants shall be used to”, and “and qualified” are omitted as surplus. In clause (A), the words “or both” are omitted as surplus.
 
@@ -165,8 +165,4 @@ In subsection (c)(3), before clause (A), the words “public or private training
 #### Amendments
 
 1998—Subsecs. (d), (e). Pub. L. 105–178 added subsecs. (d) and (e).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5313, 5314, 5333, 5334, 5338 of this title.
 

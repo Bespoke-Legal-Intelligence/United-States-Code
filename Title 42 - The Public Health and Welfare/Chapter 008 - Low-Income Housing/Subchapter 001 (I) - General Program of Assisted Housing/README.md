@@ -4,10 +4,6 @@
 
 1988—Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681, added subchapter heading.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 608a, 1437bbb–5, 3535 of this title.
-
 
 ---
 

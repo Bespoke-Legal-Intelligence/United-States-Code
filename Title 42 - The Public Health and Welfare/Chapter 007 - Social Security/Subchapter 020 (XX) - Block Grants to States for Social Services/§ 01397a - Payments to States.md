@@ -84,7 +84,3 @@ Pub. L. 94–401, §3, Sept. 7, 1976, 90 Stat. 1215, as amended by Pub. L. 95–
 
 Pub. L. 93–647, §3(f), Jan. 4, 1975, 88 Stat. 2349, which provided for requirements of child day care services, was repealed by Pub. L. 97–35, title XXIII, §2353(s), Aug. 13, 1981, 97 Stat. 874.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1397b, 1397c, 1397f, 8622 of this title.
-

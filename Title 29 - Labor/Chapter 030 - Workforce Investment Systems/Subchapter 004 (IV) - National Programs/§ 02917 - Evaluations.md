@@ -44,7 +44,7 @@ The Secretary shall ensure the coordination of evaluations carried out by States
 
 (Pub. L. 105–220, title I, §172, Aug. 7, 1998, 112 Stat. 1034.)
 
-#### Section Referred to in Other Sections
+#### Change of Name
 
-This section is referred to in sections 2864, 2871, 2919, 2939 of this title.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

@@ -2,7 +2,7 @@
 
 #### (a) Receipt of benefits under other provisions
 
-No benefits shall be paid or furnished under the provisions of this subchapter for injury or death to any person who recovers or receives workmen's compensation benefits for the same injury or death under any other law of the United States, or under the law of any State, Territory, possession, foreign country, or other jurisdiction, or benefits in the nature of workmen's compensation benefits payable under an agreement approved or authorized by the United States pursuant to which a contractor with the United States has undertaken to provide such benefits.
+No benefits shall be paid or furnished under the provisions of this subchapter for injury ordeath to any person who recovers or receives workmen's compensation benefits for the same injury or death under any other law of the United States, or under the law of any State, Territory, possession, foreign country, or other jurisdiction, or benefits in the nature of workmen's compensation benefits payable under an agreement approved or authorized by the United States pursuant to which a contractor with the United States has undertaken to provide such benefits.
 
 #### (b) Lien and right of recovery against compensation payable under other provisions
 
@@ -26,7 +26,7 @@ If at the time a person sustains an injury coming within the purview of this sub
 
 #### Codification
 
-In subsecs. (b) and (c), “section 8147 of title 5” was substituted for “section 35 of such Act of September 7,1916, as amended,” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsecs. (b) and (c), “section 8147 of title 5” was substituted for “section 35 of such Act of September 7, 1916, as amended,” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -39,8 +39,4 @@ Act Dec. 23, 1943, provided that: “The amendment in paragraph (a) \[amending t
 #### Transfer of Functions
 
 For transfer of functions to Secretary of Labor, see note set out under section 1711 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 50 App. section 2004.
 

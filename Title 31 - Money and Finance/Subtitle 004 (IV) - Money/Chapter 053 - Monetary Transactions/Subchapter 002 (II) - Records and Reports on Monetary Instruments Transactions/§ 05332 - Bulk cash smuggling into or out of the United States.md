@@ -22,7 +22,7 @@ Term of imprisonment.—A person convicted of a currency smuggling offense under
 
 &emsp;(2)
 
-Forfeiture.—In addition, the court, in imposing sentence under paragraph (1), shall order that the defendant forfeit to the United States, any property, real or personal, involved in the offense, and any property traceable to such property, subject to subsection (d) <sup>1</sup> of this section.
+Forfeiture.—In addition, the court, in imposing sentence under paragraph (1), shall order that the defendant forfeit to the United States, any property, real or personal, involved in the offense, and any property traceable to such property.
 
 &emsp;(3)
 
@@ -38,17 +38,17 @@ Civil Forfeiture.—
 
 &emsp;(1)
 
-In general.—Any property involved in a violation of subsection (a), or a conspiracy to commit such violation, and any property traceable to such violation or conspiracy, may be seized and, subject to subsection (d) <sup>1</sup> of this section, forfeited to the United States.
+In general.—Any property involved in a violation of subsection (a), or a conspiracy to commit such violation, and any property traceable to such violation or conspiracy, may be seized and forfeited to the United States.
 
 &emsp;(2)
 
-Procedure.—The seizure and forfeiture shall be governed by the procedures governing civil forfeitures in money laundering cases pursuant to section 981(a)(1)(A) of title 18, United States Code.
+Procedure.—The seizure and forfeiture shall be governed by the procedures governing civil forfeitures in money laundering casespursuant to section 981(a)(1)(A) of title 18, United States Code.
 
 &emsp;(3)
 
 Treatment of certain property as involved in the offense.—For purposes of this subsection and subsection (b), any currency or other monetary instrument that is concealed or intended to be concealed in violation of subsection (a) or a conspiracy to commit such violation, any article, container, or conveyance used, or intended to be used, to conceal or transport the currency or other monetary instrument, and any other property used, or intended to be used, to facilitate the offense, shall be considered property involved in the offense.
 
-(Added Pub. L. 107–56, title III, §371(c), Oct. 26, 2001, 115 Stat. 337.)
+(Added Pub. L. 107–56, title III, §371(c), Oct. 26, 2001, 115 Stat. 337; amended Pub. L. 108–458, title VI, §6203(h), Dec. 17, 2004, 118 Stat. 3747.)
 
 #### References in Text
 
@@ -58,9 +58,15 @@ Section 413 of the Controlled Substances Act, referred to in subsec. (b)(3), (4)
 
 Another section 371(c) of Pub. L. 107–56 amended the table of sections at the beginning of this chapter.
 
-#### Termination Date
+#### Amendments
 
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
+2004—Subsec. (b)(2). Pub. L. 108–458, §6203(h)(1), struck out “, subject to subsection (d) of this section” before period at end.
+
+Subsec. (c)(1). Pub. L. 108–458, §6203(h)(2), struck out “, subject to subsection (d) of this section,” after “may be seized and”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of Title 12, Banks and Banking.
 
 #### Bulk Cash Smuggling Into or Out of the United States
 
@@ -80,7 +86,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(5) The arrest and prosecution of bulk cash smugglers are important parts of law enforcement's effort to stop the laundering of criminal proceeds, but the couriers who attempt to smuggle the cash out of the United States are typically low-level employees of large criminal organizations, and thus are easily replaced. Accordingly, only the confiscation of the smuggled bulk cash can effectively break the cycle of criminal activity of which the laundering of the bulk cash is a critical part.
 
-&emsp;“(6) The current penalties for violations of the currency reporting requirements are insufficient to provide a deterrent to the laundering of criminal proceeds. In particular, in cases where the only criminal violation under current law is a reporting offense, the law does not adequately provide for the confiscation of smuggled currency. In contrast, if the smuggling of bulk cash were itself an offense, the cash could beconfiscated as the corpus delicti of the smuggling offense.
+&emsp;“(6) The current penalties for violations of the currency reporting requirements are insufficient to provide a deterrent to the laundering of criminal proceeds. In particular, in cases where the only criminal violation under current law is a reporting offense, the law does not adequately provide for the confiscation of smuggled currency. In contrast, if the smuggling of bulk cash were itself an offense, the cash could be confiscated as the corpus delicti of the smuggling offense.
 
 “(b)
 

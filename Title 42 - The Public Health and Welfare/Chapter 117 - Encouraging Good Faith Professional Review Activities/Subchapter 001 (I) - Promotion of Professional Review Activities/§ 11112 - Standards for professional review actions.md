@@ -88,7 +88,3 @@ For purposes of section 11111(a) of this title, nothing in this section shall be
 
 (Pub. L. 99–660, title IV, §412, Nov. 14, 1986, 100 Stat. 3785.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11111, 11113, 11114 of this title.
-

@@ -6,7 +6,3 @@ Each cooperative agreement shall be placed on record in the county or counties i
 
 (Mar. 29, 1944, ch. 146, §2, 58 Stat. 132.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 583, 583d of this title.
-

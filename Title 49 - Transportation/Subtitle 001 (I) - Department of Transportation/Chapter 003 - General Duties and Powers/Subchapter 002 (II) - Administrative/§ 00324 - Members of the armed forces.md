@@ -6,7 +6,7 @@
 
 &emsp;(2) may provide for participation of members of the armed forces in carrying out other duties and powers of the Secretary.
 
-(b) A member of the Coast Guard on active duty may be appointed, detailed, or assigned to a position in the Department of Transportation, except the position of Secretary, Deputy Secretary, or Assistant Secretary for Administration. A retired member of the Coast Guard maybe appointed, detailed, or assigned to a position in the Department.
+(b) A member of the Coast Guard on active duty may be appointed, detailed, or assigned to a position in the Department of Transportation, except the position of Secretary, Deputy Secretary, or Assistant Secretary for Administration. A retired member of the Coast Guard may be appointed, detailed, or assigned to a position in the Department.
 
 (c) The Secretary of Transportation and the Secretary of a military department may make cooperative agreements, including agreements on reimbursement as may be considered appropriate by the Secretaries, under which a member of the armed forces may be appointed, detailed, or assigned to the Department of Transportation under this section. The Secretary of Transportation shall send a report each year to the appropriate committees of Congress on agreements made to carry out subsection (a)(2) of this section, including the number, rank, and position of each member appointed, detailed, or assigned under those agreements.
 
@@ -75,8 +75,4 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 section 455; title 14 section 42.
 

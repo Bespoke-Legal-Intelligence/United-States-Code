@@ -92,7 +92,7 @@ Purposes.—The purposes of this Act \[see Tables for classification\] are the f
 
 &emsp;“(2) To promote use of the Internet and other information technologies to provide increased opportunities for citizen participation in Government.
 
-&emsp;“(3) To promote interagency collaboration in providing electronic Government services, where this collaboration would improve the service to citizens by integrating related functions, and in the use of internal electronic Government processes, where this collaboration would improve the efficiency and effectiveness of the processes.
+&emsp;“(3) To promote interagency collaboration in providing electronic Government services, where thiscollaboration would improve the service to citizens by integrating related functions, and in the use of internal electronic Government processes, where this collaboration would improve the efficiency and effectiveness of the processes.
 
 &emsp;“(4) To improve the ability of the Government to achieve agency missions and program performance goals.
 

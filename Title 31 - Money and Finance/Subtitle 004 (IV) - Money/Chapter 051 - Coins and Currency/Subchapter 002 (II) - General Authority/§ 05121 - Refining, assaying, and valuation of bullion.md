@@ -12,7 +12,7 @@
 
 (b) A person owning gold or silver bullion may deposit the bullion with the Secretary to be cast into fine, standard fineness, or unrefined bars weighing at least 5 troy ounces. When practicable, the Secretary shall weigh the bullion in front of the depositor. The Secretary shall give the depositor a receipt for the bullion stating the description and weight of the bullion. When the Secretary has to melt the bullion or remove base metals before the value of the bullion can be determined, the weight is the weight after the melting or removal of the metals. The Secretary may refuse a deposit of gold bullion if the deposit is less than $100 in value or the bullion is so base that it is unsuitable for the operations of the Bureau of the Mint.
 
-(c) When the gold and silver are combined in bullion that is deposited and either the gold orsilver is so little that it cannot be separated economically, the Secretary may not pay the depositor for the gold or silver that cannot be separated.
+(c) When the gold and silver are combined in bullion that is deposited and either the gold or silver is so little that it cannot be separated economically, the Secretary may not pay the depositor for the gold or silver that cannot be separated.
 
 (d)(1) Under conditions prescribed by the Secretary, a person may exchange unrefined bullion for fine bars when—
 
@@ -120,7 +120,7 @@ R.S. §3534; Aug. 23, 1912, ch. 350, §1(last par. words before 7th comma under 
 
 In the section, the word “Secretary” is substituted for “superintendent”, “superintendent of melting and refining department”, “assayer”, “Director of the Mint”, and “Director of the Mint, with the approval of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title.
 
-In subsection (a), clause (1) is added to provide a complete list of the duties and powers of the Secretary and for consistency with section 5131 of the revised title. In clause (2), the words “as required” are substituted for “required by the operations of the Bureau of the Mint” and “whenever required by the superintendent” in 31:277 to eliminate unnecessary words. The text of 31:330 is omitted as superseded by the source provisions restated in section 321(c) of the revised title. In clause (3), the word “bars” is substituted for “bars conformable in all respects to the law” in 31:274 to eliminate unnecessary words. In clause (4), the word “alloys” is substituted for “standard silver or gold, and alloys for minor” in 31:274, and the text of 31:343(last sentence) is omitted, because coins issued by the Secretary under this chapter are composed of alloys. The words “minting coins” are substituted for “coinage” for consistency in the revised chapter. The words “suitable for the superintendent of coining department, from the metals legally delivered to him for that purpose” in 31:274 and the text of 31:274(last sentence) and 31:343(1st, 2d sentences) are omitted as superseded by the source provisions restated in section 321(c) of the revised title. The text of 31:344(last sentence) is omitted as unnecessary because of the restatement of the source provisions in sections 5112 and 5113 of the revised title.
+In subsection (a), clause (1) is added to provide a complete list of the duties and powers of the Secretary and for consistency with section 5131 of the revised title. In clause (2), the words “as required” are substituted for“required by the operations of the Bureau of the Mint” and “whenever required by the superintendent” in 31:277 to eliminate unnecessary words. The text of 31:330 is omitted as superseded by the source provisions restated in section 321(c) of the revised title. In clause (3), the word “bars” is substituted for “bars conformable in all respects to the law” in 31:274 to eliminate unnecessary words. In clause (4), the word “alloys” is substituted for “standard silver or gold, and alloys for minor” in 31:274, and the text of 31:343(last sentence) is omitted, because coins issued by the Secretary under this chapter are composed of alloys. The words “minting coins” are substituted for “coinage” for consistency in the revised chapter. The words “suitable for the superintendent of coining department, from the metals legally delivered to him for that purpose” in 31:274 and the text of 31:274(last sentence) and 31:343(1st, 2d sentences) are omitted as superseded by the source provisions restated in section 321(c) of the revised title. The text of 31:344(last sentence) is omitted as unnecessary because of the restatement of the source provisions in sections 5112 and 5113 of the revised title.
 
 In subsections (b) and (d), the word “unrefined” is substituted for “unparted” for consistency in the revised chapter.
 
@@ -137,8 +137,4 @@ In subsection (e), the word “suitable” is substituted for “expedient” in
 #### Possession of Gold Coins and Bullion
 
 The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under section 95a of Title 12, Banks and Banking.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5122 of this title.
 

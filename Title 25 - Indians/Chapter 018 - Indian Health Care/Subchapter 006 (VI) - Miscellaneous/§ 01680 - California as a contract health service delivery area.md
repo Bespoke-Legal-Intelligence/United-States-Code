@@ -8,7 +8,3 @@ The State of California, excluding the counties of Alameda, Contra Costa, Los An
 
 1988—Pub. L. 100–713 inserted section catchline and amended text generally, substituting provisions designating parts of California as a contract health service delivery area for former provisions which authorized a demonstration project for lifting personnel ceilings for the Indian Health Service.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1621j of this title.
-

@@ -1,8 +1,28 @@
 ### §3231. General authorization of appropriations
 
-There are authorized to be appropriated to carry out this chapter $397,969,000 for fiscal year 1999, $368,000,000 for fiscal year 2000, $335,000,000 for fiscal year 2001, $335,000,000 for fiscal year 2002, and $335,000,000 for fiscal year 2003, to remain available until expended.
+#### (a) Economic development assistance programs
 
-(Pub. L. 89–136, title VII, §701, as added Pub. L. 105–393, title I, §102(b)(3), Nov. 13, 1998, 112 Stat. 3617.)
+There are authorized to be appropriated for economic development assistance programs tocarry out this chapter, to remain available until expended—
+
+&emsp;(1) $400,000,000 for fiscal year 2004;
+
+&emsp;(2) $425,000,000 for fiscal year 2005;
+
+&emsp;(3) $450,000,000 for fiscal year 2006;
+
+&emsp;(4) $475,000,000 for fiscal year 2007; and
+
+&emsp;(5) $500,000,000 for fiscal year 2008.
+
+#### (b) Salaries and expenses
+
+There are authorized to be appropriated for salaries and expenses of administering this chapter, to remain available until expended—
+
+&emsp;(1) $33,377,000 for fiscal year 2004; and
+
+&emsp;(2) such sums as are necessary for each fiscal year thereafter.
+
+(Pub. L. 89–136, title VII, §701, as added Pub. L. 105–393, title I, §102(b)(3), Nov. 13, 1998, 112 Stat. 3617; amended Pub. L. 108–373, title VII, §701, Oct. 27, 2004, 118 Stat. 1771.)
 
 #### Prior Provisions
 
@@ -10,7 +30,7 @@ A prior section 3231, Pub. L. 89–136, title VIII, §801, as added Pub. L. 93�
 
 A prior section 701 of Pub. L. 89–136 was classified to section 3211 of this title prior to repeal by Pub. L. 105–393, §102(b)(3).
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 3232, 3233 of this title.
+2004—Pub. L. 108–373 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this chapter $397,969,000 for fiscal year 1999, $368,000,000 for fiscal year 2000, $335,000,000 for fiscal year 2001, $335,000,000 for fiscal year 2002, and $335,000,000 for fiscal year 2003, to remain available until expended.”
 

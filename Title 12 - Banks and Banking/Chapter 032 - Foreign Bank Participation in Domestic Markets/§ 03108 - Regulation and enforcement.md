@@ -72,7 +72,3 @@ The Federal Reserve Act, referred to in subsec. (c), is act Dec. 23, 1913, ch. 6
 
 1991—Subsec. (b). Pub. L. 102–242 inserted heading, designated existing provisions as par. (1) and inserted par. heading, and added pars. (2) to (6).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3105 of this title.
-

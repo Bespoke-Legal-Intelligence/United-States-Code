@@ -62,7 +62,7 @@ In this section—
 
 #### (2) Other fiscal years
 
-&emsp;For any fiscal year in which the sums appropriated to carry out this section are less than$20,000,000, the Secretary may award grants on a competitive basis to eligible community-based organizations to pay for the Federal share of assisting eligible communities to develop and carry out programs in accordance with this section.
+&emsp;For any fiscal year in which the sums appropriated to carry out this section are less than $20,000,000, the Secretary may award grants on a competitive basis to eligible community-based organizations to pay for the Federal share of assisting eligible communities to develop and carry out programs in accordance with this section.
 
 #### (3) Administrative costs
 
@@ -291,10 +291,6 @@ Section 1001 of title 20, referred to in subsec. (b), does not have a subsec. (d
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13793, 14214 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

@@ -20,7 +20,7 @@ The Librarian is authorized to—
 
 &emsp;(4) loan, or otherwise make available, through Library of Congress procedures, any item in the archive established under this subchapter to any individual or group;
 
-&emsp;(5) present, display, exhibit, disseminate, communicate, and broadcast to local, regional, State, or National audiences any exhibition, display, or presentation referred to in clause (3) of this section or any item in the archive established pursuant to clause (2) of this section, by making appropriate arrangements, including contracts with public, nonprofit, and private radio and television broadcasters, museums, educational institutions, and such other individuals and organizations, including corporations, as the Board deems appropriate;
+&emsp;(5) present, display, exhibit, disseminate, communicate, and broadcast to local, regional, State, or National audiences any exhibition, display, or presentation referred to in clause (3) of this section or any item in the archive established pursuant to clause (2) of this section, by making appropriate arrangements, including contracts with public, nonprofit, and private radio and television broadcasters, museums, educational institutions, and suchother individuals and organizations, including corporations, as the Board deems appropriate;
 
 &emsp;(6) loan, lease, or otherwise make available to public, private, and nonprofit educational institutions, and State arts councils established pursuant to the National Foundation on the Arts and the Humanities Act of 1965 \[20 U.S.C. 951 et seq.\], such exhibitions, programs, presentations, and material developed pursuant to clause (1)(D) of this subsection as the Board deems appropriate; and
 

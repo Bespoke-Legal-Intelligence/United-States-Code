@@ -18,11 +18,7 @@ Minor changes were made in phraseology.
 
 1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
 
-1994—Pub. L. 103–322, §330016(2)(G), substituted “be fined under this title or not more than double the valueof the money so embezzled, whichever is greater, or imprisoned” for “be fined not more than double the value of the money so embezzled or imprisoned”.
+1994—Pub. L. 103–322, §330016(2)(G), substituted “be fined under this title or not more than double the value of the money so embezzled, whichever is greater, or imprisoned” for “be fined not more than double the value of the money so embezzled or imprisoned”.
 
 Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3622.
 

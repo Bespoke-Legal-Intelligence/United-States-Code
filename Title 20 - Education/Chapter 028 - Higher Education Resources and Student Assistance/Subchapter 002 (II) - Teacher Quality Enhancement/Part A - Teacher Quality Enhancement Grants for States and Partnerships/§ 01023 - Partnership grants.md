@@ -118,7 +118,3 @@ Subsec. (c)(2), (3)(A). Pub. L. 107–110 substituted “this part” for “thi
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1024, 1025, 1026, 1030, 6634, 6662 of this title.
-

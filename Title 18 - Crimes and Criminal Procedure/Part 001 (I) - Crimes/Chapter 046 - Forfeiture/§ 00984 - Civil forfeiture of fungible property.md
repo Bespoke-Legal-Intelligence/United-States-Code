@@ -16,7 +16,7 @@
 
 &emsp;(A) the term “financial institution” includes a foreign bank (as defined in section 1(b)(7) of the International Banking Act of 1978 (12 U.S.C. 3101(b)(7))); <sup>1</sup> and
 
-&emsp;(B) the term “interbank account” means an account held by one financial institution at another financial institution primarily for the purpose of facilitating customer transactions.
+&emsp;(B) the term “interbank account” means an account held by one financial institution atanother financial institution primarily for the purpose of facilitating customer transactions.
 
 (d) Nothing in this section may be construed to limit the ability of the Government to forfeit property under any provision of law if the property involved in the offense giving rise to the forfeiture or property traceable thereto is available for forfeiture.
 
@@ -45,10 +45,6 @@ Subsec. (d). Pub. L. 106–185, §13(a)(4), added subsec. (d). Former subsec. (d
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 981 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 #### (1) Basis
 
-&emsp;An individual with responsibility for the operation of a project that receives assistanceunder this subchapter shall not discriminate against a participant in, or member of the staff of, such project on the basis of race, color, national origin, sex, age, or political affiliation of such participant or member, or on the basis of disability, if the participant or member is a qualified individual with a disability.
+&emsp;An individual with responsibility for the operation of a project that receives assistance under this subchapter shall not discriminate against a participant in, or member of the staff of, such project on the basis of race, color, national origin, sex, age, or political affiliation of such participant or member, or on the basis of disability, if the participant or member is a qualified individual with a disability.
 
 #### (2) “Qualified individual with a disability” defined
 
@@ -45,8 +45,4 @@ The Age Discrimination Act of 1975, referred to in subsec. (b), is title III of 
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12511, 12592 of this title.
 

@@ -36,7 +36,3 @@ Subsection (a) is substituted for 6:6(1st sentence) to eliminate unnecessary wor
 
 In subsection (b), the words “Each surety bond” are substituted for “Such recognizance, stipulation, bond, or undertaking”, the words “official of the Government” are substituted for “head of department, court, judge, officer, board, or body executive, legislative, or judicial”, and the word “official” is substituted for “officer or person having the approval of any bond”, to eliminate unnecessary words and for clarity and consistency.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9305, 9306, 9307, 9308 of this title; title 5 section 8478; title 12 section 1766; title 29 sections 502, 1112, 1363.
-

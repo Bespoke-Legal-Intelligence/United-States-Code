@@ -8,7 +8,3 @@ Every person whose permanent allegiance is due to the United States desiring to 
 
 The words “now practicing as a pharmacist or,” which preceded “desiring to practice” in the original text of this section, were omitted as obsolete.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 204 of this title.
-

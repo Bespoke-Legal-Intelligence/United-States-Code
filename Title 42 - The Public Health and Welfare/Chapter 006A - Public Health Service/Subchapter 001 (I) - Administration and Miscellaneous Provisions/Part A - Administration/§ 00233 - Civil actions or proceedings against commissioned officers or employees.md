@@ -10,7 +10,7 @@ The Attorney General shall defend any civil action or proceeding brought in any 
 
 #### (c) Removal to United States district court; procedure; proceeding upon removal deemed a tort action against United States; hearing on motion to remand to determine availability of remedy against United States; remand to State court or dismissal
 
-Upon a certification by the Attorney General that the defendant was acting in the scope of his employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on ahearing on a motion to remand held before a trial on the merit that the case so removed is one in which a remedy by suit within the meaning of subsection (a) of this section is not available against the United States, the case shall be remanded to the State Court: <i>Provided</i>, That where such a remedy is precluded because of the availability of a remedy through proceedings for compensation or other benefits from the United States as provided by any other law, the case shall be dismissed, but in the event the running of any limitation of time for commencing, or filing an application or claim in, such proceedings for compensation or other benefits shall be deemed to have been suspended during the pendency of the civil action or proceeding under this section.
+Upon a certification by the Attorney General that the defendant was acting in the scope of his employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merit that the case so removed is one in which a remedy by suit within the meaning of subsection (a) of this section is not available against the United States, the case shall be remanded to the State Court: <i>Provided</i>, That where such a remedy is precluded because of the availability of a remedy through proceedings for compensation or other benefits from the United States as provided by any other law, the case shall be dismissed, but in the event the running of any limitation of time for commencing, or filing an application or claim in, such proceedings for compensation or other benefits shall be deemed to have been suspended during the pendency of the civil action or proceeding under this section.
 
 #### (d) Compromise or settlement of claim by Attorney General
 
@@ -22,7 +22,7 @@ For purposes of this section, the provisions of section 2680(h) of title 28 shal
 
 #### (f) Authority of Secretary or designee to hold harmless or provide liability insurance for assigned or detailed employees
 
-The Secretary or his designee may, to the extent that he deems appropriate, hold harmless or provide liability insurance for any officer or employee of the Public Health Service for damage for personal injury, including death, negligently caused by such officer or employee while acting within the scope of his office or employment and as a result of the performance of medical, surgical, dental, or related functions, including the conduct of clinical studies or investigations, if such employee is assigned to a foreign country or detailed to a State or political subdivision thereof or to a non-profit institution, and if the circumstances are such as are likely to preclude the remedies of third persons against the United States described in section 2679(b) of title 28, for such damage or injury.
+The Secretary or his designee may, to the extent that he deems appropriate, hold harmless or provide liability insurance for any officer or employee of the Public Health Service for damage for personal injury, including death, negligently caused by such officer or employee while acting within the scope of his office or employment and as a result of the performance of medical, surgical, dental, or related functions, including the conduct of clinical studies or investigations, if such employee is assigned to aforeign country or detailed to a State or political subdivision thereof or to a non-profit institution, and if the circumstances are such as are likely to preclude the remedies of third persons against the United States described in section 2679(b) of title 28, for such damage or injury.
 
 #### (g) Exclusivity of remedy against United States for entities deemed Public Health Service employees; coverage for services furnished to individuals other than center patients; application process; subrogation of medical malpractice claims; applicable period; entity and contractor defined
 
@@ -46,7 +46,7 @@ The Secretary or his designee may, to the extent that he deems appropriate, hold
 
 (E) The Secretary shall make a determination of whether an entity or an officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section within 30 days after the receipt of an application under subparagraph (D). The determination of the Secretary that an entity or an officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section shall apply for the period specified by the Secretary under subparagraph (A).
 
-(F) Once the Secretary makes a determination that an entity or an officer, governing boardmember, employee, or contractor of an entity is deemed to be an employee of the Public Health Service for purposes of this section, the determination shall be final and binding upon the Secretary and the Attorney General and other parties to any civil action or proceeding. Except as provided in subsection (i) of this section, the Secretary and the Attorney General may not determine that the provision of services which are the subject of such a determination are not covered under this section.
+(F) Once the Secretary makes a determination that an entity or an officer, governing board member, employee, or contractor of an entity is deemed to be an employee of the Public Health Service for purposes of this section, the determination shall be final and binding upon the Secretary and the Attorney General and other parties to any civil action or proceeding. Except as provided in subsection (i) of this section, the Secretary and the Attorney General may not determine that the provision of services which are the subject of such a determination are not covered under this section.
 
 (G) In the case of an entity described in paragraph (4) that has not submitted an application under subparagraph (D):
 
@@ -110,7 +110,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 #### (k) Estimate of annual claims by Attorney General; criteria; establishment of fund; transfer of funds to Treasury accounts
 
-(1)(A) For each fiscal year, the Attorney General, in consultation with the Secretary, shall estimate by the beginning of the year the amount of all claims which are expected to arise under this section (together with related fees and expenses of witnesses) for which payment is expected to be made in accordance with section 1346 and chapter 171 of title 28 from the acts or omissions, during the calendar year that begins during that fiscal year, of entities described in subsection (g)(4) of this section and of officers, employees, or contractors (subject to subsection (g)(5) of this section) of such entities.
+(1)(A) For each fiscal year, the Attorney General, in consultation with the Secretary, shall estimate by the beginning of the year the amount of all claims which are expected to arise under this section (together with related fees and expenses of witnesses) for which payment is expected to be made in accordance with section 1346 and chapter 171 of title 28 from the acts or omissions, during the calendar year that begins during that fiscal year, of entities described in subsection (g)(4) of this section and of officers,employees, or contractors (subject to subsection (g)(5) of this section) of such entities.
 
 (B) The estimate under subparagraph (A) shall take into account—
 
@@ -232,7 +232,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 (B) The Secretary shall establish a fund for purposes of this subsection. Each fiscal year amounts appropriated under subparagraph (A) shall be deposited in such fund.
 
-(C) Not later than May 1 of each fiscal year, the Attorney General, in consultation with theSecretary, shall submit to the Congress a report providing an estimate of the amount of claims (together with related fees and expenses of witnesses) that, by reason of the acts or omissions of free clinic health professionals, will be paid pursuant to this section during the calendar year that begins in the following fiscal year. Subsection (k)(1)(B) of this section applies to the estimate under the preceding sentence regarding free clinic health professionals to the same extent and in the same manner as such subsection applies to the estimate under such subsection regarding officers, governing board members, employees, and contractors of entities described in subsection (g)(4) of this section.
+(C) Not later than May 1 of each fiscal year, the Attorney General, in consultation with the Secretary, shall submit to the Congress a report providing an estimate of the amount of claims (together with related fees and expenses of witnesses) that, by reason of the acts or omissions of free clinic health professionals, will be paid pursuant to this section during the calendar year that begins in the following fiscal year. Subsection (k)(1)(B) of this section applies to the estimate under the preceding sentence regarding free clinic health professionals to the same extent and in the same manner as such subsection applies to the estimate under such subsection regarding officers, governing board members, employees, and contractors of entities described in subsection (g)(4) of this section.
 
 (D) Not later than December 31 of each fiscal year, the Secretary shall transfer from the fund under subparagraph (B) to the appropriate accounts in the Treasury an amount equal to the estimate made under subparagraph (C) for the calendar year beginning in such fiscal year, subject to the extent of amounts in the fund.
 
@@ -296,7 +296,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;&emsp;The presumption and deeming stated in clause (i) shall apply if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the individual contracts vaccinia during the effective period of a declaration under subparagraph (A) or by thedate 30 days after the close of such period; or
+&emsp;&emsp;&emsp;&emsp;(I) the individual contracts vaccinia during the effective period of a declaration under subparagraph (A) or by the date 30 days after the close of such period; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the individual has resided with, or has had contact with, an individual to whom such vaccine was administered as provided by clauses (i) and (ii) of subparagraph (B) and contracts vaccinia after such date.
 
@@ -324,7 +324,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A person may not bring a claim under this subsection unless such person has exhausted such remedies as are available under part C of this subchapter, except that if the Secretary fails to make a final determination on a request for benefits or compensation filed in accordance with the requirements of such part within 240 days after such request was filed, the individual may seek any remedy that may be available under this section.
+&emsp;&emsp;&emsp;A person may not bring a claim under this subsection unless such person has exhausted such remedies as are available under part C of this subchapter, exceptthat if the Secretary fails to make a final determination on a request for benefits or compensation filed in accordance with the requirements of such part within 240 days after such request was filed, the individual may seek any remedy that may be available under this section.
 
 #### (ii) Tolling of statute of limitations
 
@@ -552,7 +552,7 @@ Section 5 of Pub. L. 104–299, as amended by Pub. L. 104–208, div. A, title I
 
 #### Effective Date of 1995 Amendment
 
-Section 5(c) of Pub. L. 104–73 provided that: “If, on the day before the date of the enactment of this Act \[Dec. 26, 1995\], an entity was deemed to be an employee of the Public Health Service for purposes of section 224(g) of the Public Health Service Act \[subsec. (g) of this section\], the condition under paragraph (1)(D) of such section (as added by subsection (a) of this section) that an application be approved with respect to the entity does not apply until the expiration of the 180-day period beginning on such date.”
+Section 5(c) of Pub. L. 104–73 provided that: “If, on the day before the date of the enactment of this Act \[Dec. 26, 1995\], an entity was deemed to be an employee of the Public Health Service for purposes of section 224(g) of the Public Health Service Act \[subsec. (g) ofthis section\], the condition under paragraph (1)(D) of such section (as added by subsection (a) of this section) that an application be approved with respect to the entity does not apply until the expiration of the 180-day period beginning on such date.”
 
 #### Effective Date of 1992 Amendment
 
@@ -573,10 +573,6 @@ Effect of Liability Protections on Costs Incurred by Covered Entities.—The Att
 &emsp;“(1) the Secretary's estimate of the aggregate amounts that such entities (together with the officers, employees, and contractors of such entities who are subject to section 224(g) of such Act) would have directly or indirectly paid to obtain medical malpractice liability insurance coverage had section 224(g) of the Public Health Service Act not been enacted into law, with
 
 &emsp;“(2) the aggregate amounts by which the grants received by such entities under the Public Health Service Act \[this chapter\] were reduced as a result of the enactment of section 224(k)(2) of such Act \[42 U.S.C. 233(k)(2)\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 218a, 238q, 239, 254h–1, 300hh–11 of this title; title 25 section 450f.
 
 <i><sup>1</sup></i><i> See References in Text notes below.</i>
 

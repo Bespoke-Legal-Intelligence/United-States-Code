@@ -68,7 +68,7 @@ Provision for an entry, separate from that of other merchandise, of wearing appa
 
 Subsec. (a)(2). Pub. L. 103–182, §662(2), substituted “such amounts as the Secretary may prescribe” for “$10,000” in introductory provisions.
 
-1988—Subsec. (a)(1). Pub. L. 100–418, substituted “the Harmonized Tariff Schedule of the United States” for “the Tariff Schedules of the United States” in closing provisions, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
+1988—Subsec. (a)(1). Pub. L. 100–418, substituted “the Harmonized Tariff Schedule of the United States” for “the Tariff Schedules of the United States” in closingprovisions, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
 
 “(A) schedule 3,
 
@@ -99,10 +99,6 @@ Amendment by act Aug. 8, 1953, effective on and after thirtieth day following Au
 #### Customs Declarations; Proximity of Livestock
 
 Pub. L. 108–90, title V, §513, Oct. 1, 2003, 117 Stat. 1154, provided that: “For fiscal year 2004 and thereafter, none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used for the production of customs declarations that do not inquire whether the passenger had been in the proximity of livestock.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 58c, 1484 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

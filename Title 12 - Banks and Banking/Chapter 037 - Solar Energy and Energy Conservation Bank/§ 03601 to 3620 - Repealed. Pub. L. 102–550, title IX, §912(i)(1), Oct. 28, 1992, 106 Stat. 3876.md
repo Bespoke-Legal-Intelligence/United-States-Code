@@ -26,7 +26,7 @@ Section 3612, Pub. L. 96–294, title V, §514, June 30, 1980, 94 Stat. 730; Pub
 
 Section 3613, Pub. L. 96–294, title V, §515, June 30, 1980, 94 Stat. 732; Pub. L. 100–242, title V, §570(e), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, established conditions on financial assistance for solar energy systems.
 
-Section 3614, Pub. L. 96–294, title V, §516, June 30, 1980, 94 Stat. 734, provided limitations on provision offinancial assistance for residential and commercial energy conserving improvements.
+Section 3614, Pub. L. 96–294, title V, §516, June 30, 1980, 94 Stat. 734, provided limitations on provision of financial assistance for residential and commercial energy conserving improvements.
 
 Section 3615, Pub. L. 96–294, title V, §517, June 30, 1980, 94 Stat. 734, provided limitations on provision of financial assistance for solar energy systems.
 

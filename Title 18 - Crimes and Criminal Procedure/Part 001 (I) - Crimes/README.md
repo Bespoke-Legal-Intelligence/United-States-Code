@@ -73,8 +73,10 @@
 | [<b>84.</b>](Chapter%20084%20-%20Presidential%20and%20Presidential%20Staff%20Assassination%2C%20Kidnapping%2C%20and%20Assault/README.md) | <b>Presidential and Presidential staff assassination, kidnapping, and assault</b> | <b>1751</b> |
 | [<b>85.</b>](Chapter%20085%20-%20Prison-Made%20Goods/README.md) | <b>Prison-made goods</b> | <b>1761</b> |
 | [<b>87.</b>](Chapter%20087%20-%20Prisons/README.md) | <b>Prisons</b> | <b>1791</b> |
+| [<b>88.</b>](Chapter%20088%20-%20Privacy/README.md) | <b>Privacy</b> | <b>1801</b> |
 | [<b>89.</b>](Chapter%20089%20-%20Professions%20and%20Occupations/README.md) | <b>Professions and occupations</b> | <b>1821</b> |
 | [<b>90.</b>](Chapter%20090%20-%20Protection%20of%20Trade%20Secrets/README.md) | <b>Protection of trade secrets</b> | <b>1831</b> |
+| [<b>90A.</b>](Chapter%20090A%20-%20Protection%20of%20Unborn%20Children/README.md) | <b>Protection of unborn children</b> | <b>1841</b> |
 | [<b>91.</b>](Chapter%20091%20-%20Public%20Lands/README.md) | <b>Public lands</b> | <b>1851</b> |
 | [<b>93.</b>](Chapter%20093%20-%20Public%20Officers%20and%20Employees/README.md) | <b>Public officers and employees</b> | <b>1901</b> |
 | [<b>95.</b>](Chapter%20095%20-%20Racketeering/README.md) | <b>Racketeering</b> | <b>1951</b> |
@@ -117,6 +119,10 @@
 
 #### Amendments
 
+2004—Pub. L. 108–495, §2(b), Dec. 23, 2004, 118 Stat. 4000, added item for chapter 88.
+
+Pub. L. 108–212, §2(b), Apr. 1, 2004, 118 Stat. 569, added item for chapter 90A.
+
 2003—Pub. L. 108–193, §5(c)(2), Dec. 19, 2003, 117 Stat. 2880, substituted “Peonage, slavery, and trafficking in persons” for “Peonage and slavery” in item for chapter 77.
 
 Pub. L. 108–105, §3(b), Nov. 5, 2003, 117 Stat. 1208, added item for chapter 74.
@@ -135,7 +141,7 @@ Pub. L. 104–132, title III, §303(c)(2), Apr. 24, 1996, 110 Stat. 1253, redesi
 
 1994—Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150, which directed the amendment of this title by striking “kidnaping” each place it appears and inserting “kidnapping”, was executed by substituting “Kidnapping” for “Kidnaping” in item for chapter 55, to reflect the probable intent of Congress.
 
-Pub. L. 103–332, title IV, §40221(b), title XII, §120003(b)(2), title XV, §150001(b), title XXV, §250002(b)(1), title XXX, §300002(b), title XXXIII, §§330002(g), 330011(c)(2), 330021(1), Sept. 13, 1994, 108 Stat. 1931, 2022, 2035, 2085, 2102, 2140, 2144, 2150, substituted “weapons” for “Weapons” in item for chapter 10, “kidnapping” for “kidnaping” in item for chapter 18, “470” for “471” in item for chapter 25, added item for chapter 26, substituted “700” for “701” in item for chapter 33, “kidnapping” for “kidnaping” in item for chapter 84, added items for chapters 110A and 113A and redesignated item for former chapter 113A as 113B, and added item for chapter 123.
+Pub. L. 103–322, title IV, §40221(b), title XII, §120003(b)(2), title XV, §150001(b), title XXV, §250002(b)(1), title XXX, §300002(b), title XXXIII, §§330002(g), 330011(c)(2), 330021(1), Sept. 13, 1994, 108 Stat. 1931, 2022, 2035, 2085, 2102, 2140, 2144, 2150, substituted “weapons” for “Weapons” in item for chapter 10, “kidnapping” for “kidnaping” in item for chapter 18, “470” for “471” in item for chapter 25, added item for chapter 26, substituted “700” for “701” in item for chapter 33, “kidnapping” for “kidnaping” in item for chapter 84, added items for chapters 110A and 113A and redesignated item for former chapter 113A as 113B, and added item for chapter 123.
 
 Pub. L. 103–236, title V, §506(b), Apr. 30, 1994, 108 Stat. 464, added item for chapter 113B, Torture.
 
@@ -257,8 +263,10 @@ Act July 14, 1956, ch. 595, §2, 70 Stat. 540, added item for chapter 2.
 - [Chapter 084 - Presidential and Presidential Staff Assassination, Kidnapping, and Assault](Chapter%20084%20-%20Presidential%20and%20Presidential%20Staff%20Assassination%2C%20Kidnapping%2C%20and%20Assault/README.md)
 - [Chapter 085 - Prison-Made Goods](Chapter%20085%20-%20Prison-Made%20Goods/README.md)
 - [Chapter 087 - Prisons](Chapter%20087%20-%20Prisons/README.md)
+- [Chapter 088 - Privacy](Chapter%20088%20-%20Privacy/README.md)
 - [Chapter 089 - Professions and Occupations](Chapter%20089%20-%20Professions%20and%20Occupations/README.md)
 - [Chapter 090 - Protection of Trade Secrets](Chapter%20090%20-%20Protection%20of%20Trade%20Secrets/README.md)
+- [Chapter 090A - Protection of Unborn Children](Chapter%20090A%20-%20Protection%20of%20Unborn%20Children/README.md)
 - [Chapter 091 - Public Lands](Chapter%20091%20-%20Public%20Lands/README.md)
 - [Chapter 093 - Public Officers and Employees](Chapter%20093%20-%20Public%20Officers%20and%20Employees/README.md)
 - [Chapter 095 - Racketeering](Chapter%20095%20-%20Racketeering/README.md)

@@ -6,5 +6,5 @@ Section, act June 17, 1930, ch. 497, title III, §316, 46 Stat. 695, prohibiting
 
 #### Treaty Between United States and Cuba
 
-The treaty concluded between the United States and the Republic of Cuba on Dec. 11, 1902, referred to intext, was terminated Aug. 21, 1963, pursuant to notice given by the United States on Aug. 21, 1962. See Bevans, Treaties, and Other International Agreements of the United States of America, 1776 to 1949, vol. VI, page 1106.
+The treaty concluded between the United States and the Republic of Cuba on Dec. 11, 1902, referred to in text, was terminated Aug. 21, 1963, pursuant to notice given by the United States on Aug. 21, 1962. See Bevans, Treaties, and Other International Agreements of the United States of America, 1776 to 1949, vol. VI, page 1106.
 

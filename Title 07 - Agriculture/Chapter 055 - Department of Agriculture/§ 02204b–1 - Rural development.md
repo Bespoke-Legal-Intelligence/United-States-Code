@@ -44,9 +44,5 @@ Amendment by Pub. L. 96–355 effective Oct. 1, 1980, see section 10 of Pub. L. 
 
 Ex. Ord. No. 11797, July 31, 1974, 39 F.R. 27893, which delegated to the Secretary of Agriculture the President's authority to prepare and submit to Congress annual reports concerning the location of new Federal facilities in rural areas, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 1609.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,7 @@ As used in this chapter, the term “honeybee” means all life stages and the g
 
 #### Amendments
 
-1994—Pub. L. 103–465 amended section generally, substituting present provisions for former subsecs. (a) to (e) restricting importation of honeybees and honeybee semen into United States, providing for promulgation of rules and regulations as to such importation, providing for destruction or immediate exportation of nonexcepted honeybees or honeybee semen offered for import or intercepted, and defining “honeybee”.
+1994—Pub. L. 103–465 amended section generally, substituting present provisions for former subsecs. (a) to\(e) restricting importation of honeybees and honeybee semen into United States, providing for promulgation of rules and regulations as to such importation, providing for destruction or immediate exportation of nonexcepted honeybees or honeybee semen offered for import or intercepted, and defining “honeybee”.
 
 1993—Subsec. (a)(3). Pub. L. 103–182, §361(d)(2)(A), added par. (3).
 
@@ -32,7 +32,7 @@ Subsec. (b). Pub. L. 103–182, §361(d)(2)(B), inserted “(1)” after “only
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect tothe United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
+Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
 
 #### Short Title
 
@@ -41,8 +41,4 @@ Act Aug. 31, 1922, as amended, which is classified to this chapter, is popularly
 #### Transfer of Functions
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this section to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 282 of this title.
 

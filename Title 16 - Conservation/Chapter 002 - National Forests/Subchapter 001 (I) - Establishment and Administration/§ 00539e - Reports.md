@@ -30,7 +30,7 @@ Committee on Natural Resources of House of Representatives treated as referring 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to reporting to Congress, every two years, on the status of the Tongass National Forest, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 48 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to reporting to Congress, every two years, on the status of the Tongass National Forest, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title31, Money and Finance, and page 48 of House Document No. 103–7.
 
 #### Study Regarding Feasibility of Acquiring Previously Harvested Private Lands in Tongass National Forest
 

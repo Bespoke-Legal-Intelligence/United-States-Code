@@ -34,11 +34,55 @@ Long Distance Flights.—In making the determination under subsection (a)(2), no
 
 (c)
 
-Interim Measures.—Until the Under Secretary completes implementation of subsection\(a), the Under Secretary may use, after consultation with and concurrence of the heads of other Federal agencies and departments, personnel from those agencies and departments, on a nonreimbursable basis, to provide air marshal service.
+Interim Measures.—Until the Under Secretary completes implementation of subsection (a), the Under Secretary may use, after consultation with and concurrence of the heads of other Federal agencies and departments, personnel from those agencies and departments, on a nonreimbursable basis, to provide air marshal service.
 
-(Added Pub. L. 107–71, title I, §105(a), Nov. 19, 2001, 115 Stat. 606.)
+(d)
+
+Training for Foreign Law Enforcement Personnel.—
+
+&emsp;(1)
+
+In general.—The Assistant Secretary for Immigration and Customs Enforcement of the Department of Homeland Security, after consultation with the Secretary of State, may direct the Federal Air Marshal Service to provide appropriate air marshal training to law enforcement personnel of foreign countries.
+
+&emsp;(2)
+
+Watchlist screening.—The Federal Air Marshal Service may only provide appropriate air marshal training to law enforcement personnel of foreign countries after comparing the identifying information and records of law enforcement personnel of foreign countries against all appropriate records in the consolidated and integrated terrorist watchlists maintained by the Federal Government.
+
+&emsp;(3)
+
+Fees.—The Assistant Secretary shall establish reasonable fees and charges to pay expenses incurred in carrying out this subsection. Funds collected under this subsection shall be credited to the account in the Treasury from which the expenses were incurred and shall be available to the Assistant Secretary for purposes for which amounts in such account are available.
+
+(Added Pub. L. 107–71, title I, §105(a), Nov. 19, 2001, 115 Stat. 606; amended Pub. L. 108–458, title IV, §4018, Dec. 17, 2004, 118 Stat. 3721.)
+
+#### Amendments
+
+2004—Subsec. (d). Pub. L. 108–458 added subsec. (d).
 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Federal Air Marshals
+
+Pub. L. 108–458, title IV, §4016, Dec. 17, 2004, 118 Stat. 3720, provided that:
+
+“(a)
+
+Federal Air Marshal Anonymity.—The Director of the Federal Air Marshal Service of the Department of Homeland Security shall continue operational initiatives to protect the anonymity of Federal air marshals.
+
+“(b)
+
+Authorization of Additional Appropriations.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Bureau of Immigration and Customs Enforcement, in addition to any amounts otherwise authorized by law, for the deployment of Federal air marshals under section 44917 of title 49, United States Code, $83,000,000 for the 3 fiscal-year period beginning with fiscal year 2005. Such sums shall remain available until expended.
+
+“(c)
+
+Federal Law Enforcement Counterterrorism Training.—
+
+&emsp;“(1)
+
+Availability of information.—The Assistant Secretary for Immigration and Customs Enforcement and the Director of Federal Air Marshal Service of the Department of Homeland Security, shall make available, as practicable, appropriate information on in-flight counterterrorism and weapons handling procedures and tactics training to Federal law enforcement officers who fly while in possession of a firearm.
+
+&emsp;“(2)
+
+Identification of fraudulent documents.—The Assistant Secretary for Immigration and Customs Enforcement and the Director of Federal Air Marshal Service of the Department of Homeland Security, in coordination with the Assistant Secretary of Homeland Security (Transportation Security Administration), shall ensure that Transportation Security Administration screeners and Federal air marshals receive training in identifying fraudulent identification documents, including fraudulent or expired visas and passports. Such training shall also be made available to other Federal law enforcement agencies and local law enforcement agencies located in a State that borders Canada or Mexico.”
 

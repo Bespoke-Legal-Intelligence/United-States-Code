@@ -1,6 +1,6 @@
 ### §5503. Recess appointments
 
-(a) Payment for services may not be made from the Treasury of the United States to an individual appointed during a recess of the Senate to fill a vacancy in an existing office, if the vacancy existed while the Senate was in session and was by law required to be filled by and with the advice and consent of the Senate, until the appointee has been confirmed by the Senate. This subsection does not apply—
+(a) Payment for services may not be made from the Treasury of the United States to an individual appointed during a recess of the Senate to fill a vacancy in an existing office, if the vacancy existed while the Senate was in sessionand was by law required to be filled by and with the advice and consent of the Senate, until the appointee has been confirmed by the Senate. This subsection does not apply—
 
 &emsp;(1) if the vacancy arose within 30 days before the end of the session of the Senate;
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—APPROVAL OF COVENANT AND SUPPLEMENTAL PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1421q–1, 1469a–1, 1574–1, 1821, 1841, 1842, 1843, 1908 of this title; title 16 section 1453.
-
 
 ---
 

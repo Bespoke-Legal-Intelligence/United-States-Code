@@ -12,7 +12,7 @@ Section 230(e)(2) of the Communications Act of 1934, referred to in text, was re
 
 #### Amendments
 
-1996—Pub. L. 104–104, in first par., substituted “transports or travels in, or uses a facility or means of,” for “transports in”, inserted “or an interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934) in or affecting such commerce” before “for the purpose of sale”, and substituted “of” for “, or knowingly travels in interstate commerce, or uses a facility or means of interstate commerce for the purpose of transporting obscene material in interstate or foreign commerce,” before “any obscene, lewd, lascivious, or filthy book”.
+1996—Pub. L. 104–104, in first par., substituted “transports or travels in, or uses a facility or means of,” for “transports in”, inserted “or an interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934) in or affecting such commerce” before “for the purpose of sale”, and substituted “of” for “, or knowingly travels in interstate commerce, oruses a facility or means of interstate commerce for the purpose of transporting obscene material in interstate or foreign commerce,” before “any obscene, lewd, lascivious, or filthy book”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in first par.
 
@@ -23,10 +23,6 @@ Pub. L. 100–690, §7522(b), struck out last par. which read as follows: “Whe
 #### Construction of 1996 Amendment
 
 Amendment by Pub. L. 104–104 not to be interpreted as limiting or repealing any prohibition contained in sections 1462 and 1465 of this title, before such amendment, see section 507(c) of Pub. L. 104–104, set out as a note under section 1462 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1961 of this title; title 19 section 1583.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

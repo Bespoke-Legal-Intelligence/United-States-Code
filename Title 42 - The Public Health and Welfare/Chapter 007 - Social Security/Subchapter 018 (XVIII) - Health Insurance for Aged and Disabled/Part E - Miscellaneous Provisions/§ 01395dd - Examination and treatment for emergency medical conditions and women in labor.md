@@ -2,7 +2,7 @@
 
 #### (a) Medical screening requirement
 
-In the case of a hospital that has a hospital emergency department, if any individual (whether or not eligible for benefits under this subchapter) comes to the emergency department and a request is made on the individual's behalf for examination or treatment for a medical condition, the hospital must provide for an appropriate medical screening examination within thecapability of the hospital's emergency department, including ancillary services routinely available to the emergency department, to determine whether or not an emergency medical condition (within the meaning of subsection (e)(1) of this section) exists.
+In the case of a hospital that has a hospital emergency department, if any individual (whether or not eligible for benefits under this subchapter) comes to the emergency department and a request is made on the individual's behalf for examination or treatment for a medical condition, the hospital must provide for an appropriate medical screening examination within the capability of the hospital's emergency department, including ancillary services routinely available to the emergency department, to determine whether or not an emergency medical condition (within the meaning of subsection (e)(1) of this section) exists.
 
 #### (b) Necessary stabilizing treatment for emergency medical conditions and labor
 
@@ -68,7 +68,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 &emsp;&emsp;(ii) misrepresents an individual's condition or other information, including a hospital's obligations under this section,
 
-> &emsp;is subject to a civil money penalty of not more than $50,000 for each such violation and, if the violation is gross and flagrant or is repeated, to exclusion from participation in this subchapter and State health care programs. The provisions of section 1320a–7a of this title (other than the first and second sentences of subsection (a) and subsection (b)) shall apply to a civil money penalty and exclusion under this subparagraph in the same manner as such provisions apply with respect to a penalty, exclusion, or proceeding under section 1320a–7a(a) of this title.
+> &emsp;is subject to a civil money penalty of not more than $50,000 for each such violation and, if the violation is gross and flagrant or is repeated, to exclusion from participation in this subchapter and State health care programs. The provisions of section 1320a–7a of this title (other than the first and second sentences of subsection (a) and subsection (b)) shall applyto a civil money penalty and exclusion under this subparagraph in the same manner as such provisions apply with respect to a penalty, exclusion, or proceeding under section 1320a–7a(a) of this title.
 
 &emsp;(C) If, after an initial examination, a physician determines that the individual requires the services of a physician listed by the hospital on its list of on-call physicians (required to be maintained under section 1395cc(a)(1)(I) of this title) and notifies the on-call physician and the on-call physician fails or refuses to appear within a reasonable period of time, and the physician orders the transfer of the individual because the physician determines that without the services of the on-call physician the benefits of transfer outweigh the risks of transfer, the physician authorizing the transfer shall not be subject to a penalty under subparagraph (B). However, the previous sentence shall not apply to the hospital or to the on-call physician who failed or refused to appear.
 
@@ -120,7 +120,7 @@ In this section:
 
 &emsp;(B) The term “stabilized” means, with respect to an emergency medical condition described in paragraph (1)(A), that no material deterioration of the condition is likely, within reasonable medical probability, to result from or occur during the transfer of the individual from a facility, or, with respect to an emergency medical condition described in paragraph (1)(B), that the woman has delivered (including the placenta).
 
-&emsp;(4) The term “transfer” means the movement (including the discharge) of an individual outside a hospital's facilities at the direction of any person employed by (or affiliated or associated, directly or indirectly, with) the hospital, but does not include such a movement of an individual who (A) has been declared dead, or (B) leaves the facility without the permission of any such person.
+&emsp;(4) The term “transfer” means the movement (including the discharge) of an individual outside a hospital's facilities at the direction of any person employed by (or affiliated or associated, directly or indirectly, with) thehospital, but does not include such a movement of an individual who (A) has been declared dead, or (B) leaves the facility without the permission of any such person.
 
 &emsp;(5) The term “hospital” includes a critical access hospital (as defined in section 1395x(mm)(1) of this title).
 
@@ -182,7 +182,7 @@ Subsec. (d)(2)(A). Pub. L. 101–508, §4008(b)(1), (2), substituted “negligen
 
 Subsec. (d)(3). Pub. L. 101–508, §4207(a)(1)(A), formerly §4027(a)(1)(A), as renumbered and amended by Pub. L. 103–432, §160(d)(4), (5)(A), added par. (3). Former par. (3) redesignated (2).
 
-Subsec. (i). Pub. L. 101–508, §4207(k)(3), formerly §4027(k)(3), as renumbered by Pub. L. 103–432, §160(d)(4), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “A participating hospital may not penalize or take adverse action against a physician because the physician refuses to authorize the transfer of an individual with an emergency medical condition that has not been stabilized.”
+Subsec. (i). Pub. L. 101–508, §4207(k)(3), formerly §4027(k)(3), as renumbered by Pub. L. 103–432, §160(d)(4),amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “A participating hospital may not penalize or take adverse action against a physician because the physician refuses to authorize the transfer of an individual with an emergency medical condition that has not been stabilized.”
 
 1989—Pub. L. 101–239, §6211(h)(2)(A), struck out “active” before “labor” in section catchline.
 
@@ -444,7 +444,7 @@ In general.—Subject to subparagraph (B), the payment amount determined under t
 
 &emsp;&emsp;“(B)
 
-Pro-rata reduction.—If the amount of funds allotted to a State under subsection (b) for a fiscal year is insufficient to ensure that each eligible provider in that State receives the amount ofpayment calculated under subparagraph (A), the Secretary shall reduce that amount of payment with respect to each eligible provider to ensure that the entire amount allotted to the State for that fiscal year is paid to such eligible providers.
+Pro-rata reduction.—If the amount of funds allotted to a State under subsection (b) for a fiscal year is insufficient to ensure that each eligible provider in that State receives the amount of payment calculated under subparagraph (A), the Secretary shall reduce that amount of payment with respect to each eligible provider to ensure that the entire amount allotted to the State for that fiscal year is paid to such eligible providers.
 
 &emsp;“(3)
 
@@ -529,10 +529,6 @@ State.—The term ‘State’ means the 50 States and the District of Columbia.�
 #### Inspector General Study of Prohibition on Hospital Employment of Physicians
 
 Section 4008(c) of Pub. L. 101–508 directed Secretary of Health and Human Services (acting through Inspector General of Department of Health and Human Services) to conduct a study of the effect of State laws prohibiting the employment of physicians by hospitals on the availability and accessibility of trauma and emergency care services, and include in such study an analysis of the effect of such laws on the ability of hospitals to meet the requirements of section 1867 of the Social Security Act (this section) relating to the examination and treatment of individuals with an emergency medical condition and women in labor, with Secretary to submit a report to Congress on the study not later than 1 year after Nov. 5, 1990.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300d–13, 1320b–5, 1320c–3, 1395w–22, 1395y, 1395cc of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

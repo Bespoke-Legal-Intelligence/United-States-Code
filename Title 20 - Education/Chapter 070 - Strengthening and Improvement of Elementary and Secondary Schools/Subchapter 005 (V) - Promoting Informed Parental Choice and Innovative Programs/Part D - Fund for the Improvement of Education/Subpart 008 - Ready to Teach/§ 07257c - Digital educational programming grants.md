@@ -30,7 +30,3 @@ A grant under section 7257(b) of this title shall be awarded for a period of 3 y
 
 (Pub. L. 89–10, title V, §5484, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1838.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7257 of this title.
-

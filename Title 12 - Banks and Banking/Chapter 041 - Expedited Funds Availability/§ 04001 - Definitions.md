@@ -160,7 +160,3 @@ Section 601 of title VI of Pub. L. 100–86 provided that: “This title \[enact
 
 If any provision of Pub. L. 100–86 or the application thereof to any person or circumstances is held invalid, the remainder of Pub. L. 100–86 and the application of the provision to other persons not similarly situated or to other circumstances not to be affected thereby, see section 1205 of Pub. L. 100–86, set out as a note under section 226 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5002 of this title.
-

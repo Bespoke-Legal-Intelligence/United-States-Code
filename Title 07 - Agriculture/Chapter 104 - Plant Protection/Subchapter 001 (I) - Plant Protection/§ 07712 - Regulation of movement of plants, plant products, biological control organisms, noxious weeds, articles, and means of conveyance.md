@@ -10,7 +10,7 @@ The Secretary shall ensure that processes used in developing regulations under t
 
 #### (c) Regulations
 
-The Secretary may issue regulations to implement subsection (a) of this section, including regulations requiring that any plant, plant product, biological control organism, noxious weed, article, or means of conveyance imported, entered, to be exported, or moved in interstate commerce—
+The Secretary may issue regulations to implement subsection (a) of this section, includingregulations requiring that any plant, plant product, biological control organism, noxious weed, article, or means of conveyance imported, entered, to be exported, or moved in interstate commerce—
 
 &emsp;(1) be accompanied by a permit issued by the Secretary prior to the importation, entry, exportation, or movement in interstate commerce;
 
@@ -70,7 +70,7 @@ Not later than 1 year after June 20, 2000, the Secretary shall publish for publi
 
 #### (1) Regulations
 
-&emsp;In the case of biological control organisms, the Secretary may publish, by regulation, a list of organisms whose movement in interstate commerce is not prohibited or restricted.Any listing may take into account distinctions between organisms such as indigenous, nonindigenous, newly introduced, or commercially raised.
+&emsp;In the case of biological control organisms, the Secretary may publish, by regulation, a list of organisms whose movement in interstate commerce is not prohibited or restricted. Any listing may take into account distinctions between organisms such as indigenous, nonindigenous, newly introduced, or commercially raised.
 
 #### (2) Petition to add or remove biological control organisms from the regulations
 
@@ -89,8 +89,4 @@ This chapter, referred to in subsec. (d)(2)(E), was in the original “this titl
 #### Transfer of Functions
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7702, 7713 of this title.
 

@@ -24,7 +24,3 @@ Any hearing required or permitted under this subtitle shall be conducted after n
 
 Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573, set out as a note under section 1671 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1673e, 1675, 1676a, 1677f of this title.
-

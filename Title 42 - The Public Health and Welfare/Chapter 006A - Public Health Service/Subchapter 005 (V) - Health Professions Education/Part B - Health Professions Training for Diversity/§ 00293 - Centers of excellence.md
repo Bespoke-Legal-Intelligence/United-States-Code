@@ -248,11 +248,7 @@ A prior section 736 of act July 1, 1944, was classified to section 294i of this 
 
 #### Savings Provision
 
-Pub. L. 105–392, title I, §110, Nov. 13, 1998, 112 Stat. 3562, provided that: “In the case of any authority for making awards of grants or contracts that is terminated by the amendments made by this subtitle \[subtitle A (§§101–110) of title I of Pub. L. 105–392, see Tables for classification\], the Secretary of Health and Human Services may, notwithstanding the termination of the authority, continue in effect any grant or contract made under the authority that is in effect on the day before the date of the enactment of this Act \[Nov. 13, 1998\], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 287c–31, 287c–32, 293a of this title.
+Pub. L. 105–392, title I, §110, Nov. 13, 1998, 112 Stat. 3562, provided that: “In the case of any authority formaking awards of grants or contracts that is terminated by the amendments made by this subtitle \[subtitle A (§§101–110) of title I of Pub. L. 105–392, see Tables for classification\], the Secretary of Health and Human Services may, notwithstanding the termination of the authority, continue in effect any grant or contract made under the authority that is in effect on the day before the date of the enactment of this Act \[Nov. 13, 1998\], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

@@ -192,7 +192,7 @@ The National Security Resources Board was established by the National Security A
 
 The vigorous and efficient discharge of these vital functions is not well served by the simultaneous existence in the Executive Office of the President of the National Security Resources Board (charged with planning for the future) and the present Office of Defense Mobilization (charged with programs of the present). The progress of the current mobilization effort has made plain how artificial is the present separation of these functions.
 
-Both functions should now be combined into one defense mobilization agency. Accordingly, the reorganization plan would create in the Executive Office of the President a new agency, to be known as the Office of Defense Mobilization. It would transfer to the new Office the functions of the Chairman of the National Security Resources Board and abolish that Board, including the offices of Chairman and Vice Chairman.
+Both functions should now be combined into one defense mobilization agency. Accordingly, the reorganization plan would create in the Executive Office of thePresident a new agency, to be known as the Office of Defense Mobilization. It would transfer to the new Office the functions of the Chairman of the National Security Resources Board and abolish that Board, including the offices of Chairman and Vice Chairman.
 
 The reorganization plan also transfers to the new agency the statutory functions of the present Office of Defense Mobilization. These are of a minor nature, the major functions of the present Office of Defense Mobilization having been delegated to it by the President, principally under the Defense Production Act of 1950, as amended. It is my intention to transfer the latter functions to the new agency by Executive order, and to abolish the Office of Defense Mobilization established by Executive Order No. 10193. There will thus result a new agency which combines the activities of the National Security Resources Board and both the statutory and delegated functions of the heretofore existing Office of Defense Mobilization.
 
@@ -228,7 +228,7 @@ Ex. Ord. No. 10169, Oct. 11, 1950, 15 F.R. 6901, which provided for a National A
 
 #### Executive Order No. 10421
 
-Ex. Ord. No. 10421, Dec. 31, 1952, 18 F.R. 57, as amended by Ex. Ord. No. 10438, Mar. 13, 1953, 18 F.R. 1491; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which related to physical security of defense facilities, was revoked by Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out under section 5195 of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 10421, Dec. 31, 1952, 18 F.R. 57, as amended by Ex. Ord. No. 10438, Mar. 13, 1953, 18 F.R. 1491; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782,Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which related to physical security of defense facilities, was revoked by Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Executive Order No. 10438
 

@@ -6,7 +6,7 @@ The Chairman shall appoint a General Counsel to the Commission who shall be paid
 
 #### (b) Staff
 
-The Chairman shall appoint and supervise other staff of the Commission without regard to the provisions of title 5 governing appointments in the competitive service. Such staff shall be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay payable for GS–17 of the General Schedule under section 5332 of that title.
+The Chairman shall appoint and supervise other staff of the Commission without regard tothe provisions of title 5 governing appointments in the competitive service. Such staff shall be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay payable for GS–17 of the General Schedule under section 5332 of that title.
 
 #### (c) Temporary services
 
@@ -29,8 +29,4 @@ The provisions of title 5 governing appointments in the competitive service, ref
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2703, 2705, 2711, 2712, 2713, 2714, 2719 of this title; title 18 section 1166.
 

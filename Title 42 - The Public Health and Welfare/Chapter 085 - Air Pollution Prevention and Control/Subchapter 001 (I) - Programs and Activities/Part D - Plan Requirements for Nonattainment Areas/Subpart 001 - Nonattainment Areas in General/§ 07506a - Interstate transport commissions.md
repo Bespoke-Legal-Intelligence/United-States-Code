@@ -28,7 +28,7 @@ Whenever, on the Administrator's own motion or by petition from the Governor of 
 
 #### (2) Recommendations
 
-&emsp;The transport commission shall assess the degree of interstate transport of the pollutant or precursors to the pollutant throughout the transport region, assess strategies for mitigating the interstate pollution, and recommendto the Administrator such measures as the Commission determines to be necessary to ensure that the plans for the relevant States meet the requirements of section 7410(a)(2)(D) of this title. Such commission shall not be subject to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
+&emsp;The transport commission shall assess the degree of interstate transport of the pollutant or precursors to the pollutant throughout the transport region, assess strategies for mitigating the interstate pollution, and recommend to the Administrator such measures as the Commission determines to be necessary to ensure that the plans for the relevant States meet the requirements of section 7410(a)(2)(D) of this title. Such commission shall not be subject to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
 
 #### (c) Commission requests
 
@@ -39,8 +39,4 @@ A transport commission established under subsection (b) of this section may requ
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7406, 7410, 7511c of this title.
 

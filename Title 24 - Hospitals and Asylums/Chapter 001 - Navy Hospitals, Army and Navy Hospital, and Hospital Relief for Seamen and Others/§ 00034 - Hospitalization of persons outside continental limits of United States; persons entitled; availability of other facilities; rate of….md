@@ -16,9 +16,5 @@ Authority of President under this section to prescribe from time to time uniform
 
 Ex. Ord. No. 11116, Aug. 5, 1963, 28 F.R. 8075, as amended by Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8447, which provided rates of charges for hospitalization and dispensary services, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 35 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

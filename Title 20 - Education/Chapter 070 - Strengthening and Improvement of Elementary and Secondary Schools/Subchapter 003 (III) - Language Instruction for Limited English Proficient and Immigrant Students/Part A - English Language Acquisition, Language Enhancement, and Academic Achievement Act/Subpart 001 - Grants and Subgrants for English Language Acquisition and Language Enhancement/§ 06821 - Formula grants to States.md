@@ -64,7 +64,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 #### (B) Use of funds
 
-&emsp;&emsp;The Secretary shall make the awards in order to allow such recipients to receive awards for the complete period of their grants or fellowships under the appropriate subparts.
+&emsp;&emsp;The Secretary shall make the awards in order to allow such recipients to receiveawards for the complete period of their grants or fellowships under the appropriate subparts.
 
 #### (3) State allotments
 
@@ -121,8 +121,4 @@ Subparts 1 and 3 of part A of title VII (as in effect on the day before January 
 #### Prior Provisions
 
 A prior section 3111 of Pub. L. 89–10 was classified to section 6811 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6824, 6843, 6861 of this title.
 

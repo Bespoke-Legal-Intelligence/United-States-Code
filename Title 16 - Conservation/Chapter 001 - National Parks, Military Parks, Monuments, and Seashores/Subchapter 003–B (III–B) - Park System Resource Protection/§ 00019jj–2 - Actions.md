@@ -18,7 +18,3 @@ The Attorney General, upon request of the Secretary after a finding by the Secre
 
 (Pub. L. 101–337, §3, July 27, 1990, 104 Stat. 380.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 19jj of this title.
-

@@ -2,7 +2,7 @@
 
 For purposes of this part:
 
-&emsp;(1) The term “animal drug application” means an application for approval of any new animal drug submitted under section 360b(b)(1) of this title. Such term does not include either a new animal drug application submitted under section 360b(b)(2) of this title or a supplemental animal drug application.
+&emsp;(1) The term “animal drug application” means an application for approval of any new animal drug submitted under section 360b(b)(1) of this title. Such term does not include eithera new animal drug application submitted under section 360b(b)(2) of this title or a supplemental animal drug application.
 
 &emsp;(2) The term “supplemental animal drug application” means—
 
@@ -107,8 +107,4 @@ Performance Reports.—Beginning with fiscal year 2004, not later than 60 days a
 “(c)
 
 Fiscal Report.—Beginning with fiscal year 2004, not later than 120 days after the end of each fiscal year during which fees are collected under the part described in subsection (b), the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 379j–12 of this title.
 

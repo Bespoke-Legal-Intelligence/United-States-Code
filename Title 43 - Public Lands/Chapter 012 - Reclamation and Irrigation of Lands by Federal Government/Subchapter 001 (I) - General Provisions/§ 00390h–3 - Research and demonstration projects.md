@@ -36,7 +36,3 @@ The Technology Transfer Act of 1986, referred to in subsec. (a), is Pub. L. 99�
 
 1996—Pub. L. 104–266 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390h–13 of this title.
-

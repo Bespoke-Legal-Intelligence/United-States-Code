@@ -4,7 +4,3 @@ Copies of all instruments affecting permanent interests in land executed pursuan
 
 (Pub. L. 88–657, §5, Oct. 13, 1964, 78 Stat. 1089.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 533, 534, 1608 of this title.
-

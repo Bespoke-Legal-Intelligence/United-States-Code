@@ -82,7 +82,7 @@ The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(9), probabl
 
 #### Short Title of 1996 Amendment
 
-Section 1(a) of Pub. L. 104–156 provided that: “This Act \[amending this chapter and enacting provisions set out as notes below\] may be cited as the ‘Single Audit Act Amendments of 1996’.”
+Section 1(a) of Pub. L. 104–156 provided that: “This Act \[amending this chapter and enacting provisions setout as notes below\] may be cited as the ‘Single Audit Act Amendments of 1996’.”
 
 #### Short Title
 
@@ -123,10 +123,6 @@ Section 1(b) of Pub. L. 98–502 provided that: “It is the purpose of this Act
 #### Tennessee Valley Authority Audits Unaffected by Single Audit Requirements
 
 Section 2(b) of Pub. L. 98–502 provided that: “The provisions of this Act \[enacting this chapter\] shall not diminish or otherwise affect the authority of the Tennessee Valley Authority to conduct its own audits of any matter involving funds disbursed by the Tennessee Valley Authority.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 47107.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

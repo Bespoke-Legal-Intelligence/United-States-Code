@@ -1,9 +1,5 @@
 Part F—Additional Requirements To Regulate Safety of Drinking Water
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 300j–4 of this title.
-
 
 ---
 

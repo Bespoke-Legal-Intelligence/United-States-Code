@@ -14,7 +14,3 @@ Sums payable to enrollees or their heirs or legatees who are less than eighteen 
 
 Section was not enacted as part of Pub. L. 89–659, Oct. 14, 1966, 80 Stat. 909, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1122, 1123, 1129, 1130 of this title.
-

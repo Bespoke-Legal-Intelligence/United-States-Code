@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—INTERCHANGE OF PERSONS, KNOWLEDGE, AND SKILLS BETWEEN UNITED STATES AND FOREIGN COUNTRIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1471 of this title.
-
 
 ---
 

@@ -10,7 +10,3 @@ The Magnuson-Moss Warranty—Federal Trade Commission Improvement Act, referred 
 
 For effective date of this chapter, referred to in text, see section 12 of Pub. L. 108–164, set out as an Effective Date note under section 7601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7608 of this title.
-

@@ -46,7 +46,7 @@ In carrying out the functions of the Fund, the Administrator—
 
 &emsp;(5) may determine the character of and necessity for expenditures of the Fund and the manner in which they shall be incurred, allowed, and paid;
 
-&emsp;(6) may utilize or employ the services of personnel of any agency or instrumentality of the United States with the consent of the agency or instrumentality concerned on a reimbursable or nonreimbursable basis; and
+&emsp;(6) may utilize or employ the services of personnel of any agency or instrumentality of theUnited States with the consent of the agency or instrumentality concerned on a reimbursable or nonreimbursable basis; and
 
 &emsp;(7) may execute all instruments necessary or appropriate in the exercise of any of the functions of the Fund under this subchapter and subchapter II of this chapter and may delegate to the officers of the Fund such of the powers and responsibilities of the Administrator as the Administrator deems necessary or appropriate for the administration of the Fund.
 
@@ -90,7 +90,7 @@ In carrying out the functions of the Fund, the Administrator—
 
 #### (4) Board function
 
-&emsp;It shall be the function of the Board to advise the Administrator on the policies of theFund regarding activities under this subchapter. The Board shall not advise the Administrator on the granting or denial of any particular application.
+&emsp;It shall be the function of the Board to advise the Administrator on the policies of the Fund regarding activities under this subchapter. The Board shall not advise the Administrator on the granting or denial of any particular application.
 
 #### (5) Terms of private members
 
@@ -197,8 +197,4 @@ Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 132
 Similar provisions were contained in the following prior appropriations act:
 
 Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 237.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4702, 4713, 4742 of this title.
 

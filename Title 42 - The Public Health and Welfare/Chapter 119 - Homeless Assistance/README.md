@@ -58,12 +58,12 @@ Limitation.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER II—INTERAGENCY COUNCIL ON THE HOMELESS
+#### SUBCHAPTER II—UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS
 
 |  |  |
 | :--- | ---: |
-| [11311\.](Subchapter%20002%20%28II%29%20-%20Interagency%20Council%20on%20the%20Homeless/%C2%A7%2011311%20-%20Establishment.md) | Establishment. |
-| [11312\.](Subchapter%20002%20%28II%29%20-%20Interagency%20Council%20on%20the%20Homeless/%C2%A7%2011312%20-%20Membership.md) | Membership. |
+| [11311\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Interagency%20Council%20on%20Homelessness/%C2%A7%2011311%20-%20Establishment.md) | Establishment. |
+| [11312\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Interagency%20Council%20on%20Homelessness/%C2%A7%2011312%20-%20Membership.md) | Membership. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -85,7 +85,7 @@ Prohibition of additional pay.
 
 |  |  |
 | :--- | ---: |
-| [11313\.](Subchapter%20002%20%28II%29%20-%20Interagency%20Council%20on%20the%20Homeless/%C2%A7%2011313%20-%20Functions.md) | Functions. |
+| [11313\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Interagency%20Council%20on%20Homelessness/%C2%A7%2011313%20-%20Functions.md) | Functions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -111,7 +111,7 @@ Program timetables.
 
 |  |  |
 | :--- | ---: |
-| [11314\.](Subchapter%20002%20%28II%29%20-%20Interagency%20Council%20on%20the%20Homeless/%C2%A7%2011314%20-%20Director%20and%20staff.md) | Director and staff. |
+| [11314\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Interagency%20Council%20on%20Homelessness/%C2%A7%2011314%20-%20Director%20and%20staff.md) | Director and staff. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -137,7 +137,7 @@ Experts and consultants.
 
 |  |  |
 | :--- | ---: |
-| [11315\.](Subchapter%20002%20%28II%29%20-%20Interagency%20Council%20on%20the%20Homeless/%C2%A7%2011315%20-%20Powers.md) | Powers. |
+| [11315\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Interagency%20Council%20on%20Homelessness/%C2%A7%2011315%20-%20Powers.md) | Powers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -163,7 +163,7 @@ Mails.
 
 |  |  |
 | :--- | ---: |
-| [11316\.](Subchapter%20002%20%28II%29%20-%20Interagency%20Council%20on%20the%20Homeless/%C2%A7%2011316%20-%20Transfer%20of%20functions.md) | Transfer of functions. |
+| [11316\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Interagency%20Council%20on%20Homelessness/%C2%A7%2011316%20-%20Transfer%20of%20functions.md) | Transfer of functions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -177,10 +177,10 @@ Termination of HHS Task Force.
 
 |  |  |
 | :--- | ---: |
-| [11317\.](Subchapter%20002%20%28II%29%20-%20Interagency%20Council%20on%20the%20Homeless/%C2%A7%2011317%20-%20Definitions.md) | Definitions. |
-| [11318\.](Subchapter%20002%20%28II%29%20-%20Interagency%20Council%20on%20the%20Homeless/%C2%A7%2011318%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [11319\.](Subchapter%20002%20%28II%29%20-%20Interagency%20Council%20on%20the%20Homeless/%C2%A7%2011319%20-%20Termination.md) | Termination. |
-| [11320\.](Subchapter%20002%20%28II%29%20-%20Interagency%20Council%20on%20the%20Homeless/%C2%A7%2011320%20-%20Encouragement%20of%20State%20involvement.md) | Encouragement of State involvement. |
+| [11317\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Interagency%20Council%20on%20Homelessness/%C2%A7%2011317%20-%20Definitions.md) | Definitions. |
+| [11318\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Interagency%20Council%20on%20Homelessness/%C2%A7%2011318%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [11319\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Interagency%20Council%20on%20Homelessness/%C2%A7%2011319%20-%20Termination.md) | Termination. |
+| [11320\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Interagency%20Council%20on%20Homelessness/%C2%A7%2011320%20-%20Encouragement%20of%20State%20involvement.md) | Encouragement of State involvement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1181,17 +1181,13 @@ Report.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1437bbb–5, 12705, 12706 of this title; title 14 section 685; title 16 section 470w–7; title 20 sections 6311, 6312; title 26 section 42; title 35 section 2.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
-- [Subchapter 002 (II) - Interagency Council on the Homeless](Subchapter%20002%20%28II%29%20-%20Interagency%20Council%20on%20the%20Homeless/README.md)
+- [Subchapter 002 (II) - United States Interagency Council on Homelessness](Subchapter%20002%20%28II%29%20-%20United%20States%20Interagency%20Council%20on%20Homelessness/README.md)
 - [Subchapter 003 (III) - Federal Emergency Management Food and Shelter Program](Subchapter%20003%20%28III%29%20-%20Federal%20Emergency%20Management%20Food%20and%20Shelter%20Program/README.md)
 - [Subchapter 004 (IV) - Housing Assistance](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/README.md)
 - [Subchapter 005 (V) - Identification and Use of Surplus Federal Property](Subchapter%20005%20%28V%29%20-%20Identification%20and%20Use%20of%20Surplus%20Federal%20Property/README.md)

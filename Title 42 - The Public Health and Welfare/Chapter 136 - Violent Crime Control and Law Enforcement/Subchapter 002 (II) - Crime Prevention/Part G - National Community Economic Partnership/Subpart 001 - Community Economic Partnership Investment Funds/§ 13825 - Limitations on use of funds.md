@@ -18,7 +18,3 @@ Proceeds derived from investments made using funds made available under this sub
 
 (Pub. L. 103–322, title III, §31115, Sept. 13, 1994, 108 Stat. 1884.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

@@ -38,7 +38,3 @@ Section 101(d) of Pub. L. 96–466 provided that with respect to veterans partic
 
 During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of section 3112 \[formerly 1512\] of this title, as added by Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2181, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1507 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980, see section 802(a)(4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1524, 3106, 3120 of this title.
-

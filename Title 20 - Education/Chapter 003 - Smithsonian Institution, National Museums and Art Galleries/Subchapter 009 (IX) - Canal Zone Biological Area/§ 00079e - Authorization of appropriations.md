@@ -24,7 +24,3 @@ Section 2 of Pub. L. 98–57 provided that: “The provision in the first sectio
 
 Section 2 of Pub. L. 96–89 provided that: “The provision in section 1 of this Act \[amending this section\] shall take effect on October 1, 1979.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 79d of this title.
-

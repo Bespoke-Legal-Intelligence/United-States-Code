@@ -84,7 +84,3 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 Pub. L. 103–337, div. A, title III, §371(c), Oct. 5, 1994, 108 Stat. 2735, directed the Chairman of the Armed Forces Retirement Home Board to carry out a study to identify and evaluate alternatives for modernization of the facilities at the United States Soldiers’ and Airmen's Home, and to submit an interim report, not later than Apr. 1, 1995, and a final report, not later than Dec. 31, 1995, on the results of the study to the Committees on Armed Services of the Senate and House of Representatives.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 401 of this title.
-

@@ -14,15 +14,15 @@ The compensation of the Vice President, Senators, and officers and employees, wh
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-<b>1982</b>—Pub. L. 97–257 inserted reference to the Vice President.
+1982—Pub. L. 97–257 inserted reference to the Vice President.
 
-<b>1981</b>—Pub. L. 97–51 substituted “Senators and officers and employees” for “officers (other than Senators) and employees”, struck out cl. (1) which provided that all compensation for the month of December be payable on the twentieth of December, inserted “purposes of title 26 and for” after “For” in second sentence, and struck out provisions that, in cases in which officers or employees of the Senate died during the month of December and the full compensation of that officer or employee for that month had been disbursed by the Secretary of the Senate before the Secretary received notice of the death, no recovery could be made of any portion of the compensation so disbursed.
+1981—Pub. L. 97–51 substituted “Senators and officers and employees” for “officers (other than Senators) and employees”, struck out cl. (1) which provided that all compensation for the month of December be payable on the twentieth of December, inserted “purposes of title 26 and for” after “For” in second sentence, and struck out provisions that, in cases in which officers or employees of the Senate died during the month of December and the full compensation of that officer or employee for that month had been disbursed by the Secretary of the Senate before the Secretary received notice of the death, no recovery could be made of any portion of the compensation so disbursed.
 
-<b>1979</b>—Pub. L. 96–38 provided that, in cases in which officers or employees of the Senate die during the month of December and the full compensation of that officer or employee for that month has been disbursed by the Secretary of the Senate before the Secretary receives notice of the death, no recovery shall be made of any portion of the compensation so disbursed.
+1979—Pub. L. 96–38 provided that, in cases in which officers or employees of the Senate die during the month of December and the full compensation of that officer or employee for that month has been disbursed by the Secretary of the Senate before the Secretary receives notice of the death, no recovery shall be made of any portion of the compensation so disbursed.
 
-<b>1971</b>—Cl. (2). Pub. L. 92–136 inserted “(including any holiday on which the banks of the District of Columbia are closed pursuant to law)” after “holiday”.
+1971—Cl. (2). Pub. L. 92–136 inserted “(including any holiday on which the banks of the District of Columbia are closed pursuant to law)” after “holiday”.
 
 #### Effective Date of 1982 Amendment
 

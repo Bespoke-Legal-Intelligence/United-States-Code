@@ -4,7 +4,3 @@ For the purpose of protecting the scenery along the Point Lookout Road between t
 
 (Feb. 26, 1931, ch. 308, §1, 46 Stat. 1422.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 111b of this title.
-

@@ -14,7 +14,3 @@ Section 5409, added Pub. L. 98–615, title II, §201(a), Nov. 8, 1984, 98 Stat.
 
 Section 5410, added Pub. L. 98–615, title II, §201(a), Nov. 8, 1984, 98 Stat. 3214; amended Pub. L. 101–103, §2, Sept. 30, 1989, 103 Stat. 670; Pub. L. 102–22, §2(c), Mar. 28, 1991, 105 Stat. 71; Pub. L. 103–89, §2, Sept. 30, 1993, 107 Stat. 981, related to termination of chapter and accompanying regulations.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5403 of this title.
-

@@ -166,7 +166,3 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 Section 19011(c)(3) of Pub. L. 99–272 provided that the first increase under subsection (c) of this section, as added by section 19011(c)(1) of Pub. L. 99–272, was to take effect on Jan. 1, 1987.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1705, 1710 of this title.
-

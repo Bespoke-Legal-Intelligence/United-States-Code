@@ -76,11 +76,11 @@ The fund shall be subrogated to the rights of the plan against the employer that
 
 #### (f) Discharge of rights of fiduciary of fund; standards applicable, etc.
 
-Notwithstanding any other provision of this chapter, a fiduciary of the fund shall discharge the fiduciary's duties with respect to the fund in accordance with the standards for fiduciaries prescribed by this chapter (to the extent not inconsistent with the purposes of this section), and in accordance with the documents and instruments governing the fund insofar as such documents and instruments are consistent with the provisions of this chapter (to the extent notinconsistent with the purposes of this section). The provisions of the preceding sentence shall supersede any and all State laws relating to fiduciaries insofar as they may now or hereafter relate to a fund to which this section applies.
+Notwithstanding any other provision of this chapter, a fiduciary of the fund shall discharge the fiduciary's duties with respect to the fund in accordance with the standards for fiduciaries prescribed by this chapter (to the extent not inconsistent with the purposes of this section), and in accordance with the documents and instruments governing the fund insofar as such documents and instruments are consistent with the provisions of this chapter (to the extent not inconsistent with the purposes of this section). The provisions of the preceding sentence shall supersede any and all State laws relating to fiduciaries insofar as they may now or hereafter relate to a fund to which this section applies.
 
 #### (g) Prohibition on payments from fund to plan where certain labor negotiations involve employer withdrawn or partially withdrawn from plan and continuity of labor organization representing employees continues
 
-No payments shall be made from a fund to a plan on the occasion of a withdrawal or partial withdrawal of an employer from such plan if the employees representing the withdrawn contribution base units continue, after such withdrawal, to be represented under section 159 of this title (or other applicable labor laws) in negotiations with such employer by the labor organization which represented such employees immediately preceding such withdrawal.
+No payments shall be made from a fund to a plan on the occasion of a withdrawal or partialwithdrawal of an employer from such plan if the employees representing the withdrawn contribution base units continue, after such withdrawal, to be represented under section 159 of this title (or other applicable labor laws) in negotiations with such employer by the labor organization which represented such employees immediately preceding such withdrawal.
 
 #### (h) Purchase of insurance by employer
 
@@ -103,8 +103,4 @@ This chapter, referred to in subsec. (f), was in the original “this Act”, me
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1002, 1082 of this title; title 26 sections 194A, 412, 501, 4975.
 

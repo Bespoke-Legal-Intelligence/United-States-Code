@@ -40,7 +40,7 @@ Pub. L. 96–516, §31, Dec. 12, 1980, 94 Stat. 3010, as amended by Pub. L. 99�
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–99, §1, Aug. 15, 1977, 91 Stat. 831, provided: “That this Act \[enacting sections 1869b, 1873a, and 1884of this title, amending sections 1862, 1863, 1873, and 1882 of this title, and enacting provisions set out as a note under section 1862 of this title\] may be cited as the ‘National Science Foundation Authorization Act, Fiscal Year 1978’.”
+Pub. L. 95–99, §1, Aug. 15, 1977, 91 Stat. 831, provided: “That this Act \[enacting sections 1869b, 1873a, and 1884 of this title, amending sections 1862, 1863, 1873, and 1882 of this title, and enacting provisions set out as a note under section 1862 of this title\] may be cited as the ‘National Science Foundation Authorization Act, Fiscal Year 1978’.”
 
 #### Short Title of 1976 Amendment
 
@@ -84,7 +84,7 @@ I74Section 21. Executive Committee
 
 (b) At its annual meeting held in 1964 and at each of its succeeding annual meetings the National Science Board, hereafter in this Part referred to as the Board, shall elect two of its members as members of the Executive Committee, and the Executive Committee members so elected shall hold office for two years from the date of their election. Any person who has been a member of the Executive Committee (established by this reorganization plan) for six consecutive years shall thereafter be ineligible for service as a member thereof during the two-year period following the expiration of such sixth year. For the purposes of this subsection, the period between any two consecutive annual meetings of the Board shall be deemed to be one year.
 
-(c) At its first meeting held after the effective date of this section the Board shall elect four of its members as members of the Executive Committee. As designated by the Board, two of the Executive Committee members so elected shall hold office as such members until the date of the annual meeting of the Board held in 1964 and the other two members so elected shall hold such office until the annual meeting of the Board held in 1965.
+(c) At its first meeting held after the effective date of this section the Board shall elect four of its members as members of the Executive Committee. As designated by the Board, two of the Executive Committee members so elected shall hold office as such members until the date of the annual meeting of the Board held in 1964and the other two members so elected shall hold such office until the annual meeting of the Board held in 1965.
 
 (d) Any person elected as a member of the Executive Committee to fill a vacancy occurring prior to the expiration of the term for which his predecessor was elected shall be elected for the remainder of such term.
 
@@ -94,7 +94,7 @@ I74Section 21. Executive Committee
 
 (a) There is hereby established in the National Science Foundation a new office with the title of Director of the National Science Foundation. The Director of the National Science Foundation, hereafter in this Part referred to as the Director, shall be appointed by the President by and with the advice and consent of the Senate. Before any person is appointed as Director the President shall afford the Board an opportunity to make recommendations to him with respect to such appointment. The Director shall serve for a term of six years unless sooner removed by the President. The Director shall not engage in any business, vocation or employment other than that of serving as such Director, nor shall he, except with the approval of the Board, hold any office in, or act in any capacity for, any organization, agency, or institution with which the Foundation makes any contract or other arrangement under the National Science Foundation Act of 1950 \[42 U.S.C. 1861 et seq.\].
 
-(b) Except to the extent inconsistent with the provisions of section 23(b)(2) of this reorganization plan, allfunctions of the office of Director of the National Science Foundation abolished by the provisions of 23(a)(2) hereof are hereby transferred to the office of Director established by the provisions of subsection (a) of this section.
+(b) Except to the extent inconsistent with the provisions of section 23(b)(2) of this reorganization plan, all functions of the office of Director of the National Science Foundation abolished by the provisions of 23(a)(2) hereof are hereby transferred to the office of Director established by the provisions of subsection (a) of this section.
 
 (c) The Director, ex officio, shall be an additional member of the Board and, except in respect of compensation and tenure, shall be coordinate with other members of the Board. He shall be a voting member of the Board and shall be eligible for election by the Board as chairman or vice chairman of the Board. \[As amended Pub. L. 88–426, title III, §305(41)(C), Aug. 14, 1964, 78 Stat. 428.\]
 
@@ -140,7 +140,7 @@ I74Section 31. Incidental Transfers
 
 I transmit herewith Reorganization Plan No. 2 of 1962, prepared in accordance with the provisions of the Reorganization Act of 1949, as amended, and providing for certain reorganizations in the field of science and technology.
 
-Part I of the reorganization plan establishes the Office of Science and Technology as a new unit within the Executive Office of the President; places at the head thereof a Director appointed by the President by and with the advice and consent of the Senate and makes provision for a Deputy Director similarly appointed; and transfers to the Director certain functions of the National Science Foundation under sections 3(a)(1) and 3(a)(6) of the National Science Foundation Act of 1950.
+Part I of the reorganization plan establishes the Office of Science and Technology as a new unit within the Executive Office of the President; places at the head thereof a Director appointed by the President by andwith the advice and consent of the Senate and makes provision for a Deputy Director similarly appointed; and transfers to the Director certain functions of the National Science Foundation under sections 3(a)(1) and 3(a)(6) of the National Science Foundation Act of 1950.
 
 The new arrangements incorporated in part I of the reorganization plan will constitute an important development in executive branch organization for science and technology. Under those arrangements the President will have permanent staff resources capable of advising and assisting him on matters of national policy affected by or pertaining to science and technology. Considering the rapid growth and far-reaching scope of Federal activities in science and technology, it is imperative that the President have adequate staff support in developing policies and evaluating programs in order to assure that science and technology are used most effectively in the interests of national security and general welfare.
 

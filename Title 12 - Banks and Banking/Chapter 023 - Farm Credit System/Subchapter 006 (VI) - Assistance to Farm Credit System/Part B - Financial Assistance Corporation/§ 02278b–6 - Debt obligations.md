@@ -44,7 +44,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (3) Payments by Treasury
 
-&emsp;The Secretary of the Treasury, in accordance with section 2278b–8 of this title, shallpay to the Financial Assistance Corporation, in a timely manner, the balance of each interest payment not made by the System banks.
+&emsp;The Secretary of the Treasury, in accordance with section 2278b–8 of this title, shall pay to the Financial Assistance Corporation, in a timely manner, the balance of each interest payment not made by the System banks.
 
 #### (4) Payment of interest after first 10-year period
 
@@ -88,7 +88,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (F) Associations terminating System status or in liquidation
 
-&emsp;&emsp;Any association terminating System status pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to its supervising bank a share, based on the association's retail loan volume relative to the retail loan volume of the bank and its affiliated associations had the association remained in the System, of the estimated present value of all future such assessments against the bank. A liability to the bank in this amount (calculated as if the association had left the System on the date it was placed in liquidation) shall be recognized asa claim in favor of the bank against the estate of any association undergoing liquidation.
+&emsp;&emsp;Any association terminating System status pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to its supervising bank a share, based on the association's retail loan volume relative to the retail loan volume of the bank and its affiliated associations had the association remained in the System, of the estimated present value of all future such assessments against the bank. A liability to the bank in this amount (calculated as if the association had left the System on the date it was placed in liquidation) shall be recognized as a claim in favor of the bank against the estate of any association undergoing liquidation.
 
 #### (G) Capital requirements
 
@@ -102,7 +102,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 &emsp;&emsp;&emsp;&emsp;(I) period beginning 5 years, and ending 4 years, prior to the date on which the Financial Assistance Corporation is required to repay the Secretary of the Treasury pursuant to subparagraph (A), 60 percent;
 
-&emsp;&emsp;&emsp;&emsp;(II) period beginning 4 years, and ending 3 years, prior to the date on which the Financial Assistance Corporation is required to repay the Secretary of the Treasury pursuant to subparagraph (A), 30 percent; and
+&emsp;&emsp;&emsp;&emsp;(II) period beginning 4 years, and ending 3 years, prior to the date on whichthe Financial Assistance Corporation is required to repay the Secretary of the Treasury pursuant to subparagraph (A), 30 percent; and
 
 &emsp;&emsp;&emsp;&emsp;(III) period beginning 3 years prior to the date on which the Financial Assistance Corporation is required to repay the Secretary of the Treasury pursuant to subparagraph (A), 0 percent,
 
@@ -150,7 +150,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In order to enable the Financial Assistance Corporation to repay the obligationsissued to provide assistance under subsections (c) and (e) of section 410 of the Agricultural Credit Act of 1987 (12 U.S.C. 2011 note) and section 2162(c) of this title, or issued to provide funds to cover the expenses of the Assistance Board or the Financial Assistance Corporation under sections 2278a–7(a) and 2278b–4, respectively, of this title, each System bank shall pay to the Financial Assistance Corporation a proportion, as calculated by the Financial Assistance Corporation, of the obligation equal to—
+&emsp;&emsp;&emsp;In order to enable the Financial Assistance Corporation to repay the obligations issued to provide assistance under subsections (c) and (e) of section 410 of the Agricultural Credit Act of 1987 (12 U.S.C. 2011 note) and section 2162(c) of this title, or issued to provide funds to cover the expenses of the Assistance Board or the Financial Assistance Corporation under sections 2278a–7(a) and 2278b–4, respectively, of this title, each System bank shall pay to the Financial Assistance Corporation a proportion, as calculated by the Financial Assistance Corporation, of the obligation equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) the average accruing retail loan volume of the bank and its affiliated associations for the preceding 15 years; divided by
 
@@ -162,7 +162,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (iii) Pass through
 
-&emsp;&emsp;&emsp;A bank may (and, to the extent necessary to satisfy its obligations, shall) pass on (either directly, or indirectly through loan pricing or otherwise) all or part of the amount necessary to satisfy the payment requirement to its affiliated direct lender associations based on proportionate average accruing retail loan volumes for the preceding 15 years, except that the bank shall remain primarily liable for the amount.
+&emsp;&emsp;&emsp;A bank may (and, to the extent necessary to satisfy its obligations, shall) passon (either directly, or indirectly through loan pricing or otherwise) all or part of the amount necessary to satisfy the payment requirement to its affiliated direct lender associations based on proportionate average accruing retail loan volumes for the preceding 15 years, except that the bank shall remain primarily liable for the amount.
 
 #### (iv) Banks leaving System
 
@@ -331,8 +331,4 @@ Subsec. (d)(4)(B)(iii). Pub. L. 100–399, §201(x), substituted “section 2277
 #### Effective Date of 1988 Amendment
 
 Amendment by section 201(q) of Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, and amendment by section 201(p), (r)–(x) of Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001 of Pub. L. 100–399, set out as a note under section 2002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2277a–9, 2278a–9, 2278a–13, 2278b–1, 2278b–5, 2278b–7, 2278b–8, 2278b–9, 2278b–11 of this title.
 

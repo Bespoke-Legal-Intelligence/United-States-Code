@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—POPCORN
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 7401 of this title.
-
 
 ---
 

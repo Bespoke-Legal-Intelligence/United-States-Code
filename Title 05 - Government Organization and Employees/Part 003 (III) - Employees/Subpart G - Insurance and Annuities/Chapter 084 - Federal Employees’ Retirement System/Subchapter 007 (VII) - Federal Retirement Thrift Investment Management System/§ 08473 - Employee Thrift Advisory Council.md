@@ -72,7 +72,3 @@ Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless pos
 
 Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as a note under section 3372 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8471 of this title.
-

@@ -106,7 +106,3 @@ A prior section 3905 was renumbered section 3906 of this title.
 
 Section applicable to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988, see section 14(a) of Pub. L. 100–496, set out as an Effective Date of 1988 Amendment note under section 3902 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3903 of this title.
-

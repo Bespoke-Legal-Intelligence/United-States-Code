@@ -18,9 +18,5 @@ Effective October 1, 1979, and to such extent and in such amounts as are provide
 
 (Pub. L. 93–320, title I, §110, as added Pub. L. 96–336, §6, Sept. 4, 1980, 94 Stat. 1064.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1578 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “appropriation”.</i>
 

@@ -22,7 +22,3 @@ Section was enacted as part of the Mining and Mineral Resources Research Institu
 
 A prior section 1223, Pub. L. 95–87, title III, §303, Aug. 3, 1977, 91 Stat. 453, contained provisions similar to this section covering fiscal years 1978 through 1984.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1224 of this title.
-

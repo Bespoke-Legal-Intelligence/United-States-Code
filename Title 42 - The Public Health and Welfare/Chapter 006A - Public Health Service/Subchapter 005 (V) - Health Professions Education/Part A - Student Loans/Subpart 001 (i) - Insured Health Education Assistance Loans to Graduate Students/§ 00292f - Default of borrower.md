@@ -154,7 +154,3 @@ Pub. L. 105–392, title I, §144(b), Nov. 13, 1998, 112 Stat. 3581, provided th
 
 &emsp;“(2) prior to such date of enactment in which a discharge has not been granted.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 292b, 292<i>o</i> of this title.
-

@@ -12,7 +12,7 @@
 
 (2)(A) For each fiscal year beginning on or after October 1, 1978, each State shall be entitled to an allotment in an amount equal to the amount such State received under paragraph (1) for the fiscal year ending September 30, 1978, and an additional amount determined pursuant to subparagraph (B) of this paragraph.
 
-(B) For each fiscal year beginning on or after October 1, 1978, each State shall be entitled to an allotment, from any amount authorized to be appropriated for such fiscal year under section 720(b)(1) of this title for allotment under this section in excess of the amount appropriated under section 720(b)(1)(A) <sup>1</sup> of this title for thefiscal year ending September 30, 1978, in an amount equal to the sum of—
+(B) For each fiscal year beginning on or after October 1, 1978, each State shall be entitled to an allotment, from any amount authorized to be appropriated for such fiscal year under section 720(b)(1) of this title for allotment under this section in excess of the amount appropriated under section 720(b)(1)(A) <sup>1</sup> of this title for the fiscal year ending September 30, 1978, in an amount equal to the sum of—
 
 &emsp;(i) an amount bearing the same ratio to 50 percent of such excess amount as the product of the population of the State and the square of its allotment percentage bears to the sum of the corresponding products for all the States; and
 
@@ -51,10 +51,6 @@ A prior section 730, Pub. L. 93–112, title I, §110, Sept. 26, 1973, 87 Stat. 
 #### Amendments
 
 1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 706, 721, 725, 728, 731, 741, 795m, 796d of this title; title 42 section 1396n.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

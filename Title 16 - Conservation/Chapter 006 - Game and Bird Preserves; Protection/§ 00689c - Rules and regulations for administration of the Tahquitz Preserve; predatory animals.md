@@ -4,7 +4,3 @@ The Secretary of Agriculture shall execute the provisions of sections 689 to 689
 
 (July 3, 1926, ch. 776, §4, 44 Stat. 889.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 689a of this title.
-

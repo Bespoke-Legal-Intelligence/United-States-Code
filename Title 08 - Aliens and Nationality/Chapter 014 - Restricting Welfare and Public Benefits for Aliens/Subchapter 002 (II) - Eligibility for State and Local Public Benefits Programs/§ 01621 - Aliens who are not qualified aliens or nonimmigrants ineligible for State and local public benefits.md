@@ -36,7 +36,7 @@ Subsection (a) of this section shall not apply with respect to the following Sta
 
 &emsp;(A) to any contract, professional license, or commercial license for a nonimmigrant whose visa for entry is related to such employment in the United States, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect;
 
-&emsp;(B) with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] qualified for such benefits and for whom the United States under reciprocal treaty agreements is required to pay benefits, as determined by the Secretary of State, after consultation with the Attorney General; or
+&emsp;(B) with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and NationalityAct \[8 U.S.C. 1101 et seq.\] qualified for such benefits and for whom the United States under reciprocal treaty agreements is required to pay benefits, as determined by the Secretary of State, after consultation with the Attorney General; or
 
 &emsp;(C) to the issuance of a professional license to, or the renewal of a professional license by, a foreign national not physically present in the United States.
 
@@ -77,8 +77,4 @@ In General.—Pursuant to guidelines prescribed by the Attorney General not late
 “(b)
 
 Report.—Not later than 3 years after the date of the enactment of this Act, the Attorney General shall submit a report to the Judiciary Committees of the House of Representatives and of the Senate on the results of the pilot programs conducted under subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1183a, 1625, 1632, 1642 of this title.
 

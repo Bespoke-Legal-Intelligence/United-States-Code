@@ -2,7 +2,7 @@
 
 #### (a) Administrator; appointment
 
-There shall be at the head of the Administration an Administrator of Energy Research and Development (hereinafter in this chapter referred to as the “Administrator”), who shall be appointed from civilian life by the President by and with the advice and consent of the Senate. A person may not be appointed as Administrator within two years after release from active duty as a commissioned officer of a regular component of an Armed Force. The Administration shall be administered under the supervision and direction of the Administrator, who shall be responsible for the efficient and coordinated management of the Administration.
+There shall be at the head of the Administration an Administrator of Energy Research and Development (hereinafter in this chapter referred to as the “Administrator”), who shall be appointed from civilian life by the President by and with the advice and consent of the Senate. A person may not be appointed as Administrator within two years after release from active duty as a commissioned officer of a regular component of an Armed Force. The Administration shall be administered under the supervision anddirection of the Administrator, who shall be responsible for the efficient and coordinated management of the Administration.
 
 #### (b) Deputy Administrator
 
@@ -47,8 +47,4 @@ The Atomic Energy Act of 1954, as amended, referred to in subsec. (g), is act Au
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 
 Division of Military Application transferred to Department of Energy by former section 7158(b) of this title with that organizational unit to be deemed an organizational unit established by chapter 84 (§7101 et seq.) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5815 of this title.
 

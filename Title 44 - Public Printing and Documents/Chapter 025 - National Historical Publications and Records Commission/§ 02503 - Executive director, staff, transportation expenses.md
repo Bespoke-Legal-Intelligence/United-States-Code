@@ -22,7 +22,3 @@ Based on 44 U.S. Code, 1964 ed., §393(c) (June 30, 1949, ch. 288, title V, §50
 
 Section 2(a) of Pub. L. 96–98 provided that the amendment made by that section is effective Oct. 1, 1979.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3102 of this title.
-

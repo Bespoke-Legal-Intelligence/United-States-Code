@@ -104,7 +104,3 @@ Subsec. (b)(2)(C). Pub. L. 104–259, §3(a)(3), substituted “$65,000,000” f
 
 Subsec. (b)(2)(E). Pub. L. 104–259, §3(a)(4), (5), substituted “$6.25” for “$5.50” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2296a–1, 2296a–2 of this title.
-

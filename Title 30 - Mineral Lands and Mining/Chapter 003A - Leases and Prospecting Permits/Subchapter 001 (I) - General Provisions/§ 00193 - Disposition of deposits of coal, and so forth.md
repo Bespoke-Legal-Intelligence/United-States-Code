@@ -16,7 +16,3 @@ Section was from act Feb. 25, 1920, in which words now reading “in Lander, Wyo
 
 1927—Act Feb. 7, 1927, included deposits of potassium.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 275, 285 of this title; title 10 sections 7421, 7435.
-

@@ -17,10 +17,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3401 of this title; title 15 section 6802; title 31 sections 310, 5318, 9703.
-
 
 ---
 

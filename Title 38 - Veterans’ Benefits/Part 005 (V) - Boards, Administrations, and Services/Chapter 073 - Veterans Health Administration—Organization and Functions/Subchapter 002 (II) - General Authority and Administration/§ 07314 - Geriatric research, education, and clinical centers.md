@@ -1,6 +1,6 @@
 ### §7314. Geriatric research, education, and clinical centers
 
-(a) The Secretary, upon the recommendation of the Under Secretary for Health and pursuant to the provisions of this section, shall designate not more than 25 Department health-care facilities as the locations for centers of geriatric research, education, and clinical activities and (subject to the appropriation of sufficient funds for such purpose) shall establish and operate such centers at such locations in accordance with this section.
+(a) The Secretary, upon the recommendation of the Under Secretary for Health and pursuant to the provisions of this section, shall designate not more than 25 Department health-care facilities as the locations for centers of geriatric research, education, and clinical activities and\(subject to the appropriation of sufficient funds for such purpose) shall establish and operate such centers at such locations in accordance with this section.
 
 (b) In designating locations for centers under subsection (a), the Secretary, upon the recommendation of the Under Secretary for Health, shall—
 
@@ -46,7 +46,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(4), is Pub. L. 92
 
 1994—Subsec. (b)(1). Pub. L. 103–446, §1202(b)(2), amended Pub. L. 102–83, §4(a)(3), (4), to make it inapplicable to this section. See 1991 Amendment note below.
 
-Subsec. (d)(1). Pub. L. 103–446, §1201(c)(4)(A), substituted “the Secretary and the Under Secretary for Health in carrying out” for “the Chief Medical Director and the Secretary to carry out” and “the AssistantUnder Secretary for Health described in section 7306(b)(3)” for “the Assistant Chief Medical Director described in section 7306(b)(3)”.
+Subsec. (d)(1). Pub. L. 103–446, §1201(c)(4)(A), substituted “the Secretary and the Under Secretary for Health in carrying out” for “the Chief Medical Director and the Secretary to carry out” and “the Assistant Under Secretary for Health described in section 7306(b)(3)” for “the Assistant Chief Medical Director described in section 7306(b)(3)”.
 
 Subsec. (d)(3). Pub. L. 103–446, §1201(c)(4)(B), substituted “Assistant Under Secretary” for “Assistant Chief Medical Director” in two places.
 
@@ -73,8 +73,4 @@ Section 1202(b) of Pub. L. 103–446 provided that the amendment made by that se
 #### Congressional Declaration of Purpose in Creating Centers of Geriatric Research, Education, and Clinical Activities
 
 Section 301 of title III of Pub. L. 96–330 provided that: “The purposes of this title \[see Tables for classification\] are (1) to improve and expand the capability of Veterans’ Administration \[now Department of Veterans Affairs\] health-care facilities to respond with the most effective and appropriate services possible to the medical, psychological and social needs of the increasing number of older veterans, and (2) to advance scientific knowledge regarding such needs and the methods of meeting them by facilitating higher quality geriatric care for eligible older veterans through geriatric and gerontological research, the training of health personnel in the provision of health care to older individuals, and the development of improved models of clinical services for eligible older veterans.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7315 of this title.
 

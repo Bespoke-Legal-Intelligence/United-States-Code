@@ -62,7 +62,3 @@ Section 506(b) of Pub. L. 93–380 provided that: “The amendments made by subs
 
 Pub. L. 94–482, title III, §327, Oct. 12, 1976, 90 Stat. 2220, provided that: “The provisions of section 414 \[now 422\] of the General Education Provisions Act \[section 1226a of this title\], relating to the contingent extension of applicable programs, shall not apply to the Indochina Refugee Children Assistance Act of 1976 \[former section 1211b of this title\], or to any program of financial assistance for educational purposes for Indochinese refugee children.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6339 of this title.
-

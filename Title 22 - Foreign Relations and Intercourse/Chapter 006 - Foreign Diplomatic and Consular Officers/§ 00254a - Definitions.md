@@ -46,7 +46,3 @@ Section 9 of Pub. L. 95–393 provided that: “This Act \[see Short Title note 
 
 Section 1 of Pub. L. 95–393 provided that: “This Act \[enacting this section, sections 254b to 254e of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 1251 and 1351 of Title 28, repealing sections 252 to 254 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Diplomatic Relations Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4304a of this title; title 28 section 1351.
-

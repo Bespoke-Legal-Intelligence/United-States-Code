@@ -72,7 +72,3 @@ In subsection (c), the words “In addition to the apportionment required by sec
 
 In subsection (e), the words “initiation and operation” are substituted for “initiation, operation, and administration” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1512, 1516 of this title; title 16 section 470m; title 20 section 76j; title 40 section 322.
-

@@ -48,9 +48,5 @@ Section was additionally amended by Pub. L. 92–603, title II, §278(a)(24), Oc
 
 Section 19(c)(1) of Pub. L. 95–142 directed Secretary of Health, Education, and Welfare to establish the systems described in subsec. (a) of this section only after consultation with interested parties and for hospitals, skilled nursing facilities, and intermediate care facilities, not later than the end of the one year period beginning on Oct. 25, 1977, and for other types of health services facilities and organizations, not later than the end of the two-year period beginning on Oct. 25, 1977.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395x, 1396a of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

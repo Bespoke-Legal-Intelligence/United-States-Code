@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—RURAL ELECTRIC AND TELEPHONE DIRECT LOAN PROGRAMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 948 of this title.
-
 
 ---
 

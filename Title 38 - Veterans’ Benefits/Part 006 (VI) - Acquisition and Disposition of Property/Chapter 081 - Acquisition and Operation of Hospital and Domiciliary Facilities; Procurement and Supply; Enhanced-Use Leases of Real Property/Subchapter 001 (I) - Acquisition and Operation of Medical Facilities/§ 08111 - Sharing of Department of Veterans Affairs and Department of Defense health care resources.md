@@ -22,7 +22,7 @@ Joint Requirements for Secretaries of Veterans Affairs and Defense.—To facilit
 
 Joint Incentives Program.—(1) Pursuant to subsection (b)(4), the two Secretaries shall carry out a program to identify, provide incentives to, implement, fund, and evaluate creative coordination and sharing initiatives at the facility, intraregional, and nationwide levels. The program shall be administered by the Department of Veterans Affairs-Department of Defense Joint Executive Committee, under procedures jointly prescribed by the two Secretaries.
 
-(2) To facilitate the incentive program, effective October 1, 2003, there is established in the Treasury a fund to be known as the “DOD–VA Health Care Sharing Incentive Fund”. Each Secretary shall annually contribute to the fund a minimum of $15,000,000 from the funds appropriated to that Secretary's Department. Such funds shall remain available until expended.
+(2) To facilitate the incentive program, effective October 1, 2003, there is established in the Treasury a fund to be known as the “DOD–VA Health Care Sharing Incentive Fund”. Each Secretary shall annually contribute to the fund a minimum of $15,000,000 from the funds appropriated to that Secretary's Department. Such funds shall remain available until expended and shall be available for any purpose authorized by this section.
 
 (3)(A) For each fiscal year during which the program under this subsection is in effect, the Comptroller General shall conduct a review of the implementation and effectiveness of the incentives program under this subsection. Upon completion of each such annual review, the Comptroller General shall submit to the Committees on Armed Services and Veterans’ Affairs of the Senate and House of Representatives a report on the results of that review. Each such report shall be submitted not later than February 28 of the year following the fiscal year covered by the report. In addition, the Comptroller General shall conduct such a review during the first five months of fiscal year 2004 and, not later than February 28, 2004, shall submit to those committees a report on the implementation and effectiveness of the incentives program under this subsection to that date.
 
@@ -36,7 +36,7 @@ Joint Incentives Program.—(1) Pursuant to subsection (b)(4), the two Secretari
 
 (e)
 
-Guidelines and Policies for Implementation of Coordination and Sharing Recommendations, Contracts, and Agreements.—(1) To implement the recommendations made by the Department of Veterans Affairs-Department of Defense Joint Executive Committee with respect to health care resources, as well as to carry out other health care contracts and agreements for coordination and sharing initiatives as they consider appropriate, the two Secretaries shall jointly issue guidelines and policy directives. Such guidelines and policies shall provide for coordination and sharing that—
+Guidelines and Policies for Implementation of Coordination and Sharing Recommendations, Contracts, and Agreements.—(1) To implement the recommendations made by the Department of Veterans Affairs-Departmentof Defense Joint Executive Committee with respect to health care resources, as well as to carry out other health care contracts and agreements for coordination and sharing initiatives as they consider appropriate, the two Secretaries shall jointly issue guidelines and policy directives. Such guidelines and policies shall provide for coordination and sharing that—
 
 &emsp;(A) is consistent with the health care responsibilities of the Department of Veterans Affairs under this title and with the health care responsibilities of the Department of Defense under chapter 55 of title 10;
 
@@ -82,13 +82,13 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 &emsp;(A) Enumerations and explanations of major policy decisions reached by the two Secretaries during the period covered by the report period with respect to sharing between the two Departments.
 
-&emsp;(B) A description of progress made in new ventures or particular areas of sharing and coordination that would be of policy interest to Congress consistent with the intent of such subtitle.
+&emsp;(B) A description of progress made in new ventures or particular areas of sharing and coordination that would be of policy interest toCongress consistent with the intent of such subtitle.
 
 &emsp;(C) A description of enhancements of access to care of beneficiaries of both Departments that came about as a result of new sharing approaches brought about by such subtitle.
 
 &emsp;(D) A description of proposals for which funds are provided through the joint incentives program under subsection (d), together with a description of their results or status at the time of the report, including access improvements, savings, and quality-of-care enhancements they brought about, and a description of any additional use of funds made available under subsection (d).
 
-(4) In addition to the matters specified in paragraphs (2) and (3), the two Secretaries shallinclude in the annual report under this subsection for each year through 2008 the following:
+(4) In addition to the matters specified in paragraphs (2) and (3), the two Secretaries shall include in the annual report under this subsection for each year through 2008 the following:
 
 &emsp;(A) A description of the measures taken, or planned to be taken, to implement the health resources sharing project under section 722 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and any cost savings anticipated, or cost sharing achieved, at facilities participating in the project, including information on improvements in access to care, quality, and timeliness, as well as impediments encountered and legislative recommendations to ameliorate such impediments.
 
@@ -118,19 +118,21 @@ Definitions.—For the purposes of this section:
 
 &emsp;(7) The term “service region” means a geographic service area of the Veterans Health Administration, in the case of the Department of Veterans Affairs, and a service region, in the case of the Department of Defense.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399.)
 
 #### References in Text
 
 The Government Performance and Results Act, referred to in subsec. (b)(1), probably means the Government Performance and Results Act of 1993, Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
-The Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (f)(3), is Pub. L. 107–314, Dec. 2, 2002, 116 Stat. 2458. Subtitle C (§§721–726) of title VII of division A of the Act amended this section, section 8110 of this title, and section 1104 of Title 10, Armed Forces, enacted provisions set out as notes under this section, section 8110 of this title, and sections 1074g and 1094a of Title 10, and repealed provisions set out as a note under section 1094a of Title 10. Section 722 of the Act is set out as a note under this section. Section 725 of the Act is set out as a note under section 1094a of Title 10. For complete classification of this Act to the Code, see Tables.
+The Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (f)(3), is Pub. L. 107–314, Dec. 2, 2002, 116 Stat. 2458. Subtitle C (§§721–726) of title VII of division A of the Act amendedthis section, section 8110 of this title, and section 1104 of Title 10, Armed Forces, enacted provisions set out as notes under this section, section 8110 of this title, and sections 1074g and 1094a of Title 10, and repealed provisions set out as a note under section 1094a of Title 10. Section 722 of the Act is set out as a note under this section. Section 725 of the Act is set out as a note under section 1094a of Title 10. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former section 5003 of this title prior to the general revision of this subchapter by Pub. L. 96–22.
 
 #### Amendments
+
+2004—Subsec. (d)(2). Pub. L. 108–422 inserted “and shall be available for any purpose authorized by this section” before period at end.
 
 2003—Subsec. (b)(2). Pub. L. 108–136, §583(b)(2)(A), substituted “the Department of Veterans Affairs-Department of Defense Joint Executive Committee under section 320 of this title” for “the interagency committee provided for under subsection (c)”.
 
@@ -197,6 +199,26 @@ Subsecs. (b) to (g). Pub. L. 97–174, §3(a)(3), added subsecs. (b) to (g).
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–314, div. A, title VII, §721(c), Dec. 2, 2002, 116 Stat. 2595, provided that: “The amendments made by this section \[amending this section and section 1104 of Title 10, Armed Forces\] shall take effect on October 1, 2003.”
+
+#### Consideration of Combination of Military Medical Treatment Facilities and Health Care Facilities of Department of Veterans Affairs
+
+Pub. L. 108–375, div. B, title XXVIII, §2811, Oct. 28, 2004, 118 Stat. 2128, provided that:
+
+“(a)
+
+Department of Defense Consideration of Joint Construction.—When considering any militaryconstruction project for the construction of a new military medical treatment facility in the United States or a territory or possession of the United States, the Secretary of Defense shall consult with the Secretary of Veterans Affairs regarding the feasibility of carrying out a joint project to construct a medical facility that—
+
+&emsp;“(1) could serve as a facility for health-resources sharing between the Department of Defense and the Department of Veterans Affairs; and
+
+&emsp;“(2) would be no more costly to each Department to construct and operate than separate facilities for each Department.
+
+“(b)
+
+Department of Veterans Affairs Consideration of Joint Construction.—When considering the construction of a new or replacement medical facility for the Department of Veterans Affairs, the Secretary of Veterans Affairs shall consult with the Secretary of Defense regarding the feasibility of carrying out a joint project to construct a medical facility that—
+
+&emsp;“(1) could serve as a facility for health-resources sharing between the Department of Veterans Affairs and the Department of Defense; and
+
+&emsp;“(2) would be no more costly to each Department to construct and operate than separate facilities for each Department.”
 
 #### Health Care Resources Sharing and Coordination Project
 
@@ -400,7 +422,7 @@ Use of Funds.—Any amount received by the Secretary from a non-Federal entity a
 
 #### “SEC. 203. EXPANDED SHARING AGREEMENTS WITH DEPARTMENT OF DEFENSE.
 
-“Under an agreement under section 201, guidelines under section 8111(b) of title 38, United States Code, may be modified to provide that, notwithstanding anyother provision of law, any person who is a covered beneficiary under chapter 55 of title 10 and who is furnished care or services by a facility of the Department of Veterans Affairs under an agreement entered into under section 8111 of that title, or who is described in section 1713 \[now 1781\] of title 38, United States Code, and who is furnished care or services by a facility of the Department of Defense, may be authorized to receive such care or services—
+“Under an agreement under section 201, guidelines under section 8111(b) of title 38, United States Code, may be modified to provide that, notwithstanding any other provision of law, any person who is a covered beneficiary under chapter 55 of title 10 and who is furnished care or services by a facility of the Department of Veterans Affairs under an agreement entered into under section 8111 of that title, or who is described in section 1713 \[now 1781\] of title 38, United States Code, and who is furnished care or services by a facility of the Department of Defense, may be authorized to receive such care or services—
 
 &emsp;“(1) without regard to any otherwise applicable requirement for the payment of a copayment or deductible; or
 
@@ -453,8 +475,4 @@ Section 2(a) of Pub. L. 97–174 provided that: “The Congress makes the follow
 #### Executive Order No. 13214
 
 Ex. Ord. No. 13214, May 28, 2001, 66 F.R. 29447, which established President's Task Force to Improve Health Care Delivery for Our Nation's Veterans, was revoked by Ex. Ord. No. 13316, §3(h), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 320, 8102, 8104 of this title; title 10 sections 1104, 2641.
 

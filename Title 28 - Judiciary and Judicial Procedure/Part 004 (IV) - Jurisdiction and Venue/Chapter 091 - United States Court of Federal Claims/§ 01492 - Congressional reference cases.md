@@ -18,7 +18,7 @@ Changes were made in phraseology.
 
 1982—Pub. L. 97–164 substituted “chief judge of the United States Claims Court” for “chief commissioner of the Court of Claims”.
 
-1966—Pub. L. 89–681 substituted provisions allowing any bill, except a bill for a pension, to be referred byeither House of Congress to the chief commissioner of the Court of Claims for a report in conformity with section 2509 of this title for provisions giving the Court of Claims jurisdiction to report to either House of Congress on any bill referred by such House, except a bill for a pension, and to render judgment if the claim against the United States represented by the referred bill was one over which the court had jurisdiction under other Acts of Congress.
+1966—Pub. L. 89–681 substituted provisions allowing any bill, except a bill for a pension, to be referred by either House of Congress to the chief commissioner of the Court of Claims for a report in conformity with section 2509 of this title for provisions giving the Court of Claims jurisdiction to report to either House of Congress on any bill referred by such House, except a bill for a pension, and to render judgment if the claim against the United States represented by the referred bill was one over which the court had jurisdiction under other Acts of Congress.
 
 #### Effective Date of 1992 Amendment
 
@@ -27,8 +27,4 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2509 of this title; title 17 section 502.
 

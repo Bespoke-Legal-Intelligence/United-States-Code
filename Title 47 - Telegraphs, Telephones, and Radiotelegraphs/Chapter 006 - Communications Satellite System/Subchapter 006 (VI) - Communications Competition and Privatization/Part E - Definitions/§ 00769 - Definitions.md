@@ -18,7 +18,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(A) in the case of INTELSAT, or INTELSAT successors or separated entities, means a Party, or the telecommunications entity designated by a Party, that has signed the Operating Agreement and for which such Agreement has entered into force; and
 
-&emsp;&emsp;(B) in the case of Inmarsat, or Inmarsat successors or separated entities, means either a Party to, or an entity that has beendesignated by a Party to sign, the Operating Agreement.
+&emsp;&emsp;(B) in the case of Inmarsat, or Inmarsat successors or separated entities, means either a Party to, or an entity that has been designated by a Party to sign, the Operating Agreement.
 
 #### (4) Party
 
@@ -58,7 +58,7 @@ As used in this subchapter:
 
 #### (11) Non-core services
 
-&emsp;The term “non-core services” means, with respect to INTELSAT provision, services other than public-switched network voice telephony and occasional-use television, and with respect to Inmarsat provision, services other than global maritime distress and safety services or other existing maritime or aeronautical services for which there are not alternative providers.
+&emsp;The term “non-core services” means, with respect to INTELSAT provision, services other than public-switched network voice telephony and occasional-use television, and with respect to Inmarsat provision, services other than global maritime distress and safety services orother existing maritime or aeronautical services for which there are not alternative providers.
 
 #### (12) Additional services
 
@@ -106,13 +106,17 @@ As used in this subchapter:
 
 #### (21) National security agency
 
-&emsp;The term “national security agency” means the National Security Agency, the Director ofCentral Intelligence and the Central Intelligence Agency, the Department of Defense, and the Coast Guard.
+&emsp;The term “national security agency” means the National Security Agency, the Director of Central Intelligence and the Central Intelligence Agency, the Department of Defense, and the Coast Guard.
 
 #### (b) Common terminology
 
 Except as otherwise provided in subsection (a) of this section, terms used in this subchapter that are defined in section 153 of this title have the meanings provided in such section.
 
 (Pub. L. 87–624, title VI, §681, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 58.)
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Transfer of Functions
 

@@ -20,9 +20,9 @@ There is hereby established as an independent entity in the executive branch the
 
 (2) There are hereby transferred to the Commissioner, on January 31, 1989—
 
-&emsp;(A) all powers and duties of the Bureau of Indian Affairs derived from Public Law 99–190 (99Stat. at 1236) that relate to the relocation of members of the Navajo Tribe from lands partitioned to the Hopi Tribe, and
+&emsp;(A) all powers and duties of the Bureau of Indian Affairs derived from Public Law 99–190 (99 Stat. at 1236) that relate to the relocation of members of the Navajo Tribe from lands partitioned to the Hopi Tribe, and
 
-&emsp;(B) all funds appropriated for activities relating to such relocation pursuant to Public Law 99–190 (99 Stat. at 1236): <i>Provided</i>, That such funds shall be used by the Commissioner for the purpose for which such funds were appropriated to the Bureau of Indian Affairs. (B) <sup>1</sup> : <i>Provided further</i>, That for administrative purposes such funds shall be maintained in a separate account.
+&emsp;(B) all funds appropriated for activities relating to such relocation pursuant to Public Law 99–190 (99 Stat. at 1236): <i>Provided</i>, Thatsuch funds shall be used by the Commissioner for the purpose for which such funds were appropriated to the Bureau of Indian Affairs. (B) <sup>1</sup> : <i>Provided further</i>, That for administrative purposes such funds shall be maintained in a separate account.
 
 #### (d) Powers of Commissioner
 

@@ -10,13 +10,9 @@ Section is comprised of third par. of section 2 of act Mar. 3, 1925. First, seco
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–289 substituted “a rate which is the higher of the rate of 4 per centum per annum or a rate which is 0.25 percentage points less than a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding long-term marketable obligations of the United States, adjusted to the nearest one-eighth of 1 per centum” for “the rate of 4 per centum per annum”.
+1976—Pub. L. 94–289 substituted “a rate which is the higher of the rate of 4 per centum per annum or a rate which is 0.25 percentage points less than a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding long-term marketable obligations of the United States, adjusted to the nearest one-eighth of 1 per centum” for “the rate of 4 per centum per annum”.
 
-<b>1962</b>—Pub. L. 87–522 increased the total amount of deposits which can be held by the Treasurer from $5,000,000 to $10,000,000.
+1962—Pub. L. 87–522 increased the total amount of deposits which can be held by the Treasurer from $5,000,000 to $10,000,000.
 
-<b>1936</b>—Act June 23, 1936, substituted “in the absence of any specification to the contrary” for “Should any gift or bequest so provide”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 160 of this title.
+1936—Act June 23, 1936, substituted “in the absence of any specification to the contrary” for “Should any gift or bequest so provide”.
 

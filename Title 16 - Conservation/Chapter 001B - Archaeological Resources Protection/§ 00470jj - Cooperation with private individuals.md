@@ -10,7 +10,3 @@ The Secretary of the Interior shall take such action as may be necessary, consis
 
 (Pub. L. 96–95, §11, Oct. 31, 1979, 93 Stat. 727.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 470<i>ll</i> of this title.
-

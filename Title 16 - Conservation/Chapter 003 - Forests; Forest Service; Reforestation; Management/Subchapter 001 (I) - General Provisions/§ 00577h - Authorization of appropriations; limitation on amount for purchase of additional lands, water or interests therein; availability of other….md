@@ -6,7 +6,7 @@ There are authorized to be appropriated annually such sums as are necessary to i
 
 #### (b) Reports on acquisitions
 
-Not later than March 1 of each year 1977 through 1980, the Secretary of Agriculture shall submit to the Congress a report concerning the acquisition of lands or interests in lands under sections 577c, 577d, and 577e to 577h of this title. The final report of the Secretary shall specify whether additional authorizations or appropriations are necessary to carry out the purposes of said sections.
+Not later than March 1 of each year 1977 through 1980, the Secretary of Agriculture shall submit to the Congress a report concerning the acquisition of lands or interests in lands under sections 577c, 577d, and 577e to 577h of this title.The final report of the Secretary shall specify whether additional authorizations or appropriations are necessary to carry out the purposes of said sections.
 
 (June 22, 1948, ch. 593, §6, 62 Stat. 570; June 22, 1956, ch. 425, §3, 70 Stat. 328; Pub. L. 87–351, Oct. 4, 1961, 75 Stat. 772; Pub. L. 94–384, Aug. 13, 1976, 90 Stat. 1123.)
 
@@ -25,8 +25,4 @@ The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a), is
 #### Availability of Appropriations
 
 Pub. L. 87–351 provided in part that: “Funds appropriated to carry out the purposes of the Act \[sections 577c, 577d and 577e to 577h of this title\] shall remain available until expended.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 577d–1, 1133 of this title.
 

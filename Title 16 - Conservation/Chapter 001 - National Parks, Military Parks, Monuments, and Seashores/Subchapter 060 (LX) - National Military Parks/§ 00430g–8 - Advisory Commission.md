@@ -40,7 +40,3 @@ The provisions of section 14 of the Federal Advisory Committee Act (5 U.S.C. App
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430g–4, 430g–5, 430g–7, 430g–10 of this title.
-

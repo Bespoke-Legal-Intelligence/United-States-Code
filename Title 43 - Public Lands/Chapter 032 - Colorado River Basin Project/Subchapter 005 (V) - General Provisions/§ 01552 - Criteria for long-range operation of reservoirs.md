@@ -2,7 +2,7 @@
 
 #### (a) Promulgation by Secretary; order of priorities
 
-In order to comply with and carry out the provisions of the Colorado River Compact, theUpper Colorado River Basin Compact, and the Mexican Water Treaty, the Secretary shall propose criteria for the coordinated long-range operation of the reservoirs constructed and operated under the authority of the Colorado River Storage Project Act \[43 U.S.C. 620 et seq.\], the Boulder Canyon Project Act \[43 U.S.C. 617 et seq.\], and the Boulder Canyon Project Adjustment Act \[43 U.S.C. 618 et seq.\]. To effect in part the purposes expressed in this paragraph, the criteria shall make provision for the storage of water in storage units of the Colorado River storage project and releases of water form Lake Powell in the following listed order of priority:
+In order to comply with and carry out the provisions of the Colorado River Compact, the Upper Colorado River Basin Compact, and the Mexican Water Treaty, the Secretary shall propose criteria for the coordinated long-range operation of the reservoirs constructed and operated under the authority of the Colorado RiverStorage Project Act \[43 U.S.C. 620 et seq.\], the Boulder Canyon Project Act \[43 U.S.C. 617 et seq.\], and the Boulder Canyon Project Adjustment Act \[43 U.S.C. 618 et seq.\]. To effect in part the purposes expressed in this paragraph, the criteria shall make provision for the storage of water in storage units of the Colorado River storage project and releases of water form Lake Powell in the following listed order of priority:
 
 &emsp;(1) releases to supply one-half the deficiency described in article III(c) of the Colorado River Compact, if any such deficiency exists and is chargeable to the States of the Upper Division, but in any event such releases, if any, shall not be required in any year that the Secretary makes the determination and issues the proclamation specified in section 1512 of this title;
 
@@ -31,8 +31,4 @@ The Boulder Canyon Project Adjustment Act, referred to in subsec. (a), is act Ju
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to the requirement that the Secretary transmit an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 3rd item on page 113 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1521, 1527 of this title; title 16 section 228h.
 

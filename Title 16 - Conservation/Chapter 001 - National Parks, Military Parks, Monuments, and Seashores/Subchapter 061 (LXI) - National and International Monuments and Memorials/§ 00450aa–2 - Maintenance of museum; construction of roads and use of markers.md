@@ -8,9 +8,5 @@ The Secretary of <sup>1</sup> Interior is authorized to—
 
 (July 14, 1943, ch. 238, §3, 57 Stat. 564.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 450aa of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—DISPOSING OF PROPERTY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 124, 703 of this title.
-
 
 ---
 

@@ -32,7 +32,3 @@ The Secretary is authorized and directed to cede the following land to the Cocop
 
 (Pub. L. 93–320, title I, §102, June 24, 1974, 88 Stat. 268.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1578 of this title.
-

@@ -18,7 +18,3 @@ The word “tax” as used in this section shall include, without limitation by 
 
 (Mar. 10, 1950, ch. 54, title II, §212, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 569.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1631g of this title.
-

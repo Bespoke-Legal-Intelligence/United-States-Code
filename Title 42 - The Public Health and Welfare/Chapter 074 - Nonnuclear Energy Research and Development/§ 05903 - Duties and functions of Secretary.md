@@ -34,5 +34,5 @@ Pub. L. 95–39, title I, §111, June 3, 1977, 91 Stat. 186, provided that:
 
 &emsp;“(5) a nonprofit educational institution.
 
-“(b) The information required by subsection (a), along with the dollar amount of each award, contract, or other financial arrangement made, shall be included as an appendix to the annual report required by section 15(a) of the Federal Nonnuclear Energy Research and Development Act of 1974 (\[former\] 42 U.S.C. 5914): <i>Provided</i>, That small purchases or contracts of less than $10,000, which are excepted from the requirements of advertising by section 252(c)(3) of title 41, United States Code, shall be exempt from the reporting requirements of this section.”
+“(b) The information required by subsection (a), along with the dollar amount of each award, contract, or other financial arrangement made, shall be included as an appendix to the annual report required by section15(a) of the Federal Nonnuclear Energy Research and Development Act of 1974 (\[former\] 42 U.S.C. 5914): <i>Provided</i>, That small purchases or contracts of less than $10,000, which are excepted from the requirements of advertising by section 252(c)(3) of title 41, United States Code, shall be exempt from the reporting requirements of this section.”
 

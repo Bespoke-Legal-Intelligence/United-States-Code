@@ -38,7 +38,7 @@ The President shall promptly transmit reports to the Speaker of the House of Rep
 
 (C) The term “certification”, as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under paragraph (1) of this subsection.
 
-(Pub. L. 90–629, ch. 1, §5, as added Pub. L. 94–329, title III, §302(b), June 30, 1976, 90 Stat. 752; amended Pub. L. 95–105, title I, §109(a)(5), Aug.17, 1977, 91 Stat. 846; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–236, title I, §162(f), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(7), Nov. 2, 1994, 108 Stat. 4588.)
+(Pub. L. 90–629, ch. 1, §5, as added Pub. L. 94–329, title III, §302(b), June 30, 1976, 90 Stat. 752; amended Pub. L. 95–105, title I, §109(a)(5), Aug. 17, 1977, 91 Stat. 846; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–236, title I, §162(f), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(7), Nov. 2, 1994, 108 Stat. 4588.)
 
 #### References in Text
 
@@ -50,7 +50,7 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 
 Pub. L. 103–236 substituted “Secretary of State” for “Assistant Secretary of State for Human Rights and Humanitarian Affairs” in introductory provisions.
 
-1986—Subsecs. (a), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Subsecs. (a), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification wastranslated as “title 26” thus requiring no change in text.
 
 1977—Subsec. (d)(1). Pub. L. 95–105 substituted “Assistant Secretary of State” for “Coordinator” in introductory provisions.
 

@@ -36,7 +36,3 @@
 
 Provisions similar to those in this section were contained in section 11345 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11326, 11327 of this title; title 45 section 1112.
-

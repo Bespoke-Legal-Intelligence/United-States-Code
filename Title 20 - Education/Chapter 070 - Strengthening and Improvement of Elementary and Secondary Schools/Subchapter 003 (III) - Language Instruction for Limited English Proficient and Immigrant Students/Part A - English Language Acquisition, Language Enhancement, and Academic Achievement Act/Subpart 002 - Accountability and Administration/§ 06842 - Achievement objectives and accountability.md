@@ -80,7 +80,3 @@ A prior section 6842, Pub. L. 89–10, title III, §3132, as added Pub. L. 103�
 
 A prior section 3122 of Pub. L. 89–10 was classified to section 6832 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6312, 6821, 6823, 6826, 6841, 7012, 7325, 7325b of this title.
-

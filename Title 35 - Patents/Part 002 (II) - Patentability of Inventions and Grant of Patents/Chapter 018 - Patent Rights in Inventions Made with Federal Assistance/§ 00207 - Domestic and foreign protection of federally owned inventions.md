@@ -36,7 +36,7 @@ Ex. Ord. No. 9424, Feb. 18, 1944, 9 F.R. 1959, provided:
 
 2\. The several departments and other executive agencies of the Government, including Government-owned or Government-controlled corporations, shall forward promptly to the Commissioner of Patents \[now Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] for recording in the separate register provided for in paragraph 1 hereof all licenses, assignments, or other interests of the Government in or under patents or applications for patents, in accordance with such rules and regulations as may be prescribed pursuant to paragraph 4 hereof; but the lack of recordation in such register of any right or interest of the Government in or under any patent or application therefor shall not prejudice in any way the assertion of such right or interest by the Government.
 
-3\. The register shall be open to inspection except as to such entries or documents which, in the opinion of the department or agency submitting them for recording, should be maintained in secrecy: <i>Provided, however</i>, That the right of inspection may be restricted to authorized representatives of the Government pending the final report to the President by the National Patent Planning Commission under Executive Order No. 8977 of December 12, 1941, and action thereon by the President.
+3\. The register shall be open to inspection except as to such entries or documents which, in the opinion of the department or agency submitting them for recording, should be maintained in secrecy: <i>Provided, however</i>,That the right of inspection may be restricted to authorized representatives of the Government pending the final report to the President by the National Patent Planning Commission under Executive Order No. 8977 of December 12, 1941, and action thereon by the President.
 
 4\. The Commissioner of Patents \[now Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\], with the approval of the Secretary of Commerce, shall prescribe such rules and regulations as he may deem necessary to effectuate the purposes of this order.
 
@@ -104,7 +104,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and 
 
 (e) To perform such other or further functions or duties as may from time to time be prescribed by the President or by statute.
 
-5\. The functions and duties of the Secretary of Commerce and the Department of Commerce under the provisions of Executive Order No. 9865 of June 14, 1947 \[set out above\] are hereby transferred to the Chairman and the whole or any part of such functions and duties may be delegated by him to any Government agency or officer: <i>Provided</i>, That said Executive Order No. 9865 shallnot be deemed to be amended or affected by any provision of this Executive order other than this paragraph 5.
+5\. The functions and duties of the Secretary of Commerce and the Department of Commerce under the provisions of Executive Order No. 9865 of June 14, 1947 \[set out above\] are hereby transferred to the Chairman and the whole or any part of such functions and duties may be delegated by him to any Government agency or officer: <i>Provided</i>, That said Executive Order No. 9865 shall not be deemed to be amended or affected by any provision of this Executive order other than this paragraph 5.
 
 6\. Each Government agency shall take all steps appropriate to effectuate this order, including the promulgation of necessary regulations which shall not be inconsistent with this order or with regulations issued pursuant to paragraph 4(b) hereof.
 
@@ -130,15 +130,11 @@ Section 1. The Government Patents Board, established by section 3(a) of Executiv
 
 Sec. 2. All functions of the Government Patents Board and of the Chairman thereof under the said Executive Order No. 10096, except the functions of conference and consultation between the Board and the Chairman, are hereby transferred to the Secretary of Commerce, who may provide for the performance of such transferred functions by such officer, employee, or agency of the Department of Commerce as he may designate.
 
-Sec. 3. The Secretary of Commerce shall make such provision as may be necessary and consonant with law for the disposition or transfer of property, personnel, records, and funds of the Government Patents Board.
+Sec. 3. The Secretary of Commerce shall make such provision as may be necessary and consonant with lawfor the disposition or transfer of property, personnel, records, and funds of the Government Patents Board.
 
 Sec. 4. Except to the extent that they may be inconsistent with this order, all determinations, regulations, rules, rulings, orders, and other actions made or issued by the Government Patents Board, or by any Government agency with respect to any function transferred by this order, shall continue in full force and effect until amended, modified, or revoked by appropriate authority.
 
 Sec. 5. Subsections (a) and (c) of section 3 of Executive Order No. 10096 are hereby revoked, and all other provisions of that order are hereby amended to the extent that they are inconsistent with the provisions of this order.
 
 John F. Kennedy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 209 of this title; title 15 sections 3710, 3710a, 3710c.
 

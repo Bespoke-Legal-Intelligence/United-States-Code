@@ -18,7 +18,7 @@ In assuring the effective management of this program, the Secretary shall have s
 
 &emsp;(3) determine appropriate means and facilities for safely and economically storing, transporting, and dispensing methane for use as a vehicular fuel;
 
-&emsp;(4) conduct demonstration projects with respect to the feasibility of methane-fueled vehicles and methane transmission, storage and dispensing facilities (A) by providing necessary financial or technical assistance for theconstruction, modification, or operation of motor vehicles to be methane-fueled for practical use or of methane transmission, storage and dispensing facilities, and (B) by entering into agreements or arrangements with other entities, governmental and nongovernmental, for the demonstration of such vehicles and facilities;
+&emsp;(4) conduct demonstration projects with respect to the feasibility of methane-fueled vehicles and methane transmission, storage and dispensing facilities (A) by providing necessary financial or technical assistance for the construction, modification, or operation of motor vehicles to be methane-fueled for practical use or of methane transmission, storage and dispensing facilities, and (B) by entering into agreements or arrangements with other entities, governmental and nongovernmental, for the demonstration of such vehicles and facilities;
 
 &emsp;(5) gather performance data, including but not limited to emissions data, on methane-fueled vehicles and related transmission and storage facilities;
 
@@ -63,10 +63,6 @@ Section 3808 of this title, referred to in subsec. (d)(4), was repealed by Pub. 
 #### Change of Name
 
 Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3804 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

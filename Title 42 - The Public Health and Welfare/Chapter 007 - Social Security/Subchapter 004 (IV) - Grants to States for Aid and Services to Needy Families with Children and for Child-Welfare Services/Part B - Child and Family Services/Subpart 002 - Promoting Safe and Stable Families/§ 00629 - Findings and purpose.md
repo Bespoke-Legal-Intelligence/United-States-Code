@@ -24,7 +24,7 @@ The purpose of this program is to enable States to develop and establish, or exp
 
 &emsp;(4) To support adoptive families by providing support services as necessary so that they can make a lifetime commitment to their children.
 
-(Aug. 14, 1935, ch. 531, title IV, §430, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10,1993, 107 Stat. 649; amended Pub. L. 105–89, title III, §305(a)(1), (2), (b)(3)(A), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 107–133, title I, §101, Jan. 17, 2002, 115 Stat. 2414.)
+(Aug. 14, 1935, ch. 531, title IV, §430, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 649; amended Pub. L. 105–89, title III, §305(a)(1), (2), (b)(3)(A), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 107–133, title I, §101, Jan. 17, 2002, 115 Stat. 2414.)
 
 #### References in Text
 
@@ -63,8 +63,4 @@ Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provi
 #### Effective Date
 
 Subpart effective with respect to calendar quarters beginning on or after Oct. 1, 1993, see section 13711(c) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 622 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 629e of this title.
 

@@ -102,3 +102,7 @@ Not later than 90 days after November 25, 2002, the Secretary, in consultation w
 
 (Pub. L. 107–296, title VIII, §888, Nov. 25, 2002, 116 Stat. 2249.)
 
+#### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+

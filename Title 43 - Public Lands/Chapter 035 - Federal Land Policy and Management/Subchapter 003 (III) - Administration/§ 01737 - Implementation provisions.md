@@ -10,7 +10,7 @@ Subject to the provisions of applicable law, the Secretary may enter into contra
 
 #### (c) Contributions and donations of money, services, and property
 
-The Secretary may accept contributions or donations of money, services, and property, real,personal, or mixed, for the management, protection, development, acquisition, and conveying of the public lands, including the acquisition of rights-of-way for such purposes. He may accept contributions for cadastral surveying performed on federally controlled or intermingled lands. Moneys received hereunder shall be credited to a separate account in the Treasury and are hereby authorized to be appropriated and made available until expended, as the Secretary may direct, for payment of expenses incident to the function toward the administration of which the contributions were made and for refunds to depositors of amounts contributed by them in specific instances where contributions are in excess of their share of the cost.
+The Secretary may accept contributions or donations of money, services, and property, real, personal, or mixed, for the management, protection, development, acquisition, and conveying of the public lands, including the acquisition of rights-of-way for such purposes. He may accept contributions for cadastral surveying performed on federally controlled or intermingled lands. Moneys received hereunder shall be credited to a separate account in the Treasury and are hereby authorized to be appropriated and made available until expended, as the Secretary may direct, for payment of expenses incident to the function toward the administration of which the contributions were made and for refunds to depositors of amounts contributed by them in specific instances where contributions are in excess of their share of the cost.
 
 #### (d) Recruitment of volunteers
 
@@ -22,7 +22,7 @@ In accepting such services of individuals as volunteers, the Secretary—
 
 &emsp;(1) shall not permit the use of volunteers in hazardous duty or law enforcement work, or in policymaking processes or to displace any employee; and
 
-&emsp;(2) may provide for services or costs incidental to the utilization of volunteers, including transportation, supplies, lodging, subsistence, recruiting, training, and supervision.
+&emsp;(2) may provide for services or costs incidental to the utilization of volunteers, includingtransportation, supplies, lodging, subsistence, recruiting, training, and supervision.
 
 #### (f) Federal employment status of volunteers
 
@@ -51,10 +51,6 @@ The tort claims provisions of title 28, referred to in subsec. (f)(1), is the Fe
 1990—Subsec. (f). Pub. L. 101–286 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Volunteers shall not be deemed employees of the United States except for the purposes of the tort claims provisions of title 28 and subchapter 1 of chapter 81 of title 5, relating to compensation for work injuries.”
 
 1984—Subsecs. (d) to (g). Pub. L. 98–540 added subsecs. (d) to (g).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1732 of this title; title 16 sections 460xx–2, 460ddd, 460<i>ooo</i>–5.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subchapter “I”.</i>
 

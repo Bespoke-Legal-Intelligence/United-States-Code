@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—RAILROAD REHABILITATION AND IMPROVEMENT FINANCING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1003 of this title; title 49 section 306.
-
 
 ---
 

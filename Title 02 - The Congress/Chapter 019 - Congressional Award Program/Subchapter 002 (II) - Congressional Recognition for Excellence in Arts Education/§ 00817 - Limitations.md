@@ -36,7 +36,3 @@ The Board shall have no power—
 
 (Pub. L. 96–114, title II, §208, as added Pub. L. 106–533, §1(a), Nov. 22, 2000, 114 Stat. 2551.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 817c of this title.
-

@@ -52,7 +52,3 @@ Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. 
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of Title 7, Agriculture.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1231, 1232 of this title; title 26 section 126.
-

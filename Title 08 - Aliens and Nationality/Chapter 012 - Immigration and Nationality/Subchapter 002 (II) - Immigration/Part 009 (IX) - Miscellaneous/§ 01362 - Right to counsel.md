@@ -20,7 +20,3 @@ Amendment by section 371(b)(9) of Pub. L. 104–208 effective Sept. 30, 1996, se
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1228 of this title.
-

@@ -14,9 +14,5 @@ In the second par., “section 3726 of title 31” substituted for “section 24
 
 Section is based on section 205 of title II of H.R. 4120, as reported July 9, 1981, and incorporated by reference in section 101(c) of Pub. L. 97–51, to be effective as if enacted into law.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 142h, 142j of this title.
-
 <i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
 

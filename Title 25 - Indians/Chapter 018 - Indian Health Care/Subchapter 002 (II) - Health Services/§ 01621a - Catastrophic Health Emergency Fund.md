@@ -44,7 +44,7 @@ Amounts appropriated to the Fund under this section shall not be used to offset 
 
 #### (d) Reimbursements to Fund
 
-There shall be deposited into the Fund all reimbursements to which the Service is entitledfrom any Federal, State, local, or private source (including third party insurance) by reason of treatment rendered to any victim of a disaster or catastrophic illness the cost of which was paid from the Fund.
+There shall be deposited into the Fund all reimbursements to which the Service is entitled from any Federal, State, local, or private source (including third party insurance) by reason of treatment rendered to any victim of a disaster or catastrophic illness the cost of which was paid from the Fund.
 
 (Pub. L. 94–437, title II, §202, as added Pub. L. 100–713, title II, §202, Nov. 23, 1988, 102 Stat. 4803; amended Pub. L. 102–573, title II, §§202(a), 217(b)(2), Oct. 29, 1992, 106 Stat. 4546, 4559.)
 
@@ -65,8 +65,4 @@ Subsec. (e). Pub. L. 102–573, §217(b)(2), struck out subsec. (e) which author
 #### Effective Date of 1992 Amendment
 
 Section 202(b) of Pub. L. 102–573 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall take effect January 1, 1993.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1621f, 1621j of this title.
 

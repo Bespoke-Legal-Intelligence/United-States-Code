@@ -12,7 +12,3 @@ There are authorized to be appropriated to the Department of Health and Human Se
 
 (Pub. L. 106–554, §1(a)(1) \[title VIII, §805\], Dec. 21, 2000, 114 Stat. 2763, 2763A–82.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9406, 9408, 9409 of this title.
-

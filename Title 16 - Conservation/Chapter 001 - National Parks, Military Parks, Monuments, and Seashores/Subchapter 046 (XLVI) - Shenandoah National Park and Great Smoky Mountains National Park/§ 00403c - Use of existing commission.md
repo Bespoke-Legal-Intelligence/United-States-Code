@@ -8,7 +8,3 @@ The Secretary of the Interior may for the purpose of carrying out the provisions
 
 Act February 21, 1925, ch. 281, 43 Stat. 958, referred to in text, was a temporary act and was not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403b, 403h, 403i, 403k, 403k–2 of this title.
-

@@ -36,7 +36,3 @@ Section 4 of Pub. L. 96–486 provided: “This Act \[amending this section and 
 
 Section 3 of Pub. L. 85–554 provided that: “This Act \[amending this section and sections 1332 and 1345 of this title\] shall apply only in the case of actions commenced after the date of the enactment of this Act \[July 25, 1958\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1441 of this title; title 15 section 2064; title 21 section 1603; title 22 section 6082; title 25 sections 415, 416a; title 42 section 405; title 49 section 10709.
-

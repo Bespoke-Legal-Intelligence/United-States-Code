@@ -61,10 +61,6 @@ Section 104 of Pub. L. 93–443 provided that:
 
 “(b) For purposes of this section, the terms ‘election’, ‘Federal office’, and ‘State’ have the meanings given them by section 591 of title 18, United States Code.”
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 10 section 2670.
-
 
 ---
 

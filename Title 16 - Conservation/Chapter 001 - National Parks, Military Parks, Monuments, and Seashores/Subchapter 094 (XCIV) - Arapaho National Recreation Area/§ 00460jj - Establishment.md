@@ -6,7 +6,7 @@ An area of land comprising approximately thirty-six thousand two hundred thirty-
 
 #### (b) Administration
 
-The Secretary shall administer the Arapaho National Recreation Area, in accordance withthe laws and regulations applicable to the national forests, in such a manner as will best provide for—
+The Secretary shall administer the Arapaho National Recreation Area, in accordance with the laws and regulations applicable to the national forests, in such a manner as will best provide for—
 
 &emsp;(1) public recreation and enjoyment;
 
@@ -33,8 +33,4 @@ Section 2 of Pub. L. 95–450 provided that: “The Congress finds that it is in
 &emsp;“(1) to include the land within the Arapaho and the Roosevelt National Forests known as the Indian Peaks Area in the National Wilderness Preservation System so as to protect the area's enduring scenic and historic wilderness character and its unique wildlife and to preserve the area's scientific, educational, recreational, and inspirational resources and challenges; and
 
 &emsp;“(2) to create the Arapaho National Recreation Area within the Arapaho and the Roosevelt National Forests and the Colorado Big Thompson project so as to preserve and protect the natural, scenic, historic, pastoral, and wildlife resources of the area and to enhance the recreational opportunities provided.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460jj–1, 460jj–7 of this title.
 

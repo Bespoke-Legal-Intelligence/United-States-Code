@@ -6,7 +6,7 @@ The Administration is authorized to issue trust certificates representing owners
 
 #### (b) Terms and conditions of guarantee; payment of principal and interest
 
-The Administration is authorized, upon such terms and conditions as are deemed appropriate, to guarantee the timely payment of the principal of and interest on trust certificates issued by the Administration or its agent for purposes of this section. Such guarantee shall be limited to the extent of principal and interest on the guaranteed debentures which compose the trust or pool. In the event that a debenture in such trust or pool is prepaid, either voluntarily or in the event of default, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest such prepaid debenture represents in the trust or pool. Interest on prepaid or defaulted debentures shall accrue and be guaranteed by the Administration only through the date of payment on the guarantee. During the term of the trust certificate,it may be called for redemption due to prepayment or default of all debentures constituting the pool.
+The Administration is authorized, upon such terms and conditions as are deemed appropriate, to guarantee the timely payment of the principal of and interest on trust certificates issued by the Administration or its agent for purposes of this section. Such guarantee shall be limited to the extent of principal and interest on the guaranteed debentures which compose the trust or pool. In the event that a debenture in such trust or pool is prepaid, either voluntarily or in the event of default, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest such prepaid debenture represents in the trust or pool. Interest on prepaid or defaulted debentures shall accrue and be guaranteed by the Administration only through the date of payment on the guarantee. During the term of the trust certificate, it may be called for redemption due to prepayment or default of all debentures constituting the pool.
 
 #### (c) Full faith and credit of United States
 
@@ -61,8 +61,4 @@ Section 18008(d) of Pub. L. 99–272 provided that:
 “(1) Notwithstanding any law, rule, or regulation, within 60 days after the date of enactment of this Act \[Apr. 7, 1986\], the Small Business Administration shall develop and promulgate final rules and regulations to implement the central registration provisions provided for in section 505(f)(1) of the Small Business Investment Act \[15 U.S.C. 697b(f)(1)\], and shall contract with an agent for an initial period of not to exceed two years to carry out the functions provided for in section 505(f)(2) of such Act.
 
 “(2) Notwithstanding any law, rule or regulation, within 60 days after the date of enactment of this Act \[Apr. 7, 1986\], the Small Business Administration also shall consult with representatives of appropriate Federal and State agencies and officials, the securities industry, financial institutions and lenders, and small business persons, and shall develop and promulgate final rules and regulations to implement sections 504 and 505 of the Small Business Investment Act \[15 U.S.C. 697a, 697b\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 697f of this title.
 

@@ -4,10 +4,6 @@ Part D—Voluntary Prescription Drug Benefit Program
 
 A prior part D of this subchapter, consisting of section 1395x et seq., was redesignated part E of this subchapter.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 299b–7, 1317, 1320a–7b, 1320c–3, 1395b–9, 1395t, 1395w–21, 1395w–22, 1395w–24, 1395w–27, 1395ss, 1396r–8, 1396u–5 of this title.
-
 
 ---
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—FAMILY AND MEDICAL LEAVE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2105, 9507 of this title; title 3 section 412; title 29 section 2611; title 42 section 12631.
-
 
 ---
 

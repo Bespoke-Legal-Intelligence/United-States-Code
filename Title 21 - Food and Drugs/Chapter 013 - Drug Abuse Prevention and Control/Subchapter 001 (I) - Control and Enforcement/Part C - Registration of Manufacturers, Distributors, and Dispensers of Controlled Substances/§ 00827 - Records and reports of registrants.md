@@ -32,7 +32,7 @@ The foregoing provisions of this section shall not apply—
 
 #### (d) Periodic reports to Attorney General
 
-Every manufacturer registered under section 823 of this title shall, at such time or times and in such form as the Attorney General may require, make periodic reports to the Attorney General of every sale, delivery or other disposal by him of any controlled substance, and each distributor shall make such reports with respect to narcotic controlled substances, identifying by the registration number assigned under this subchapter the person or establishment (unless exempt from registration under section 822(d) of this title) to whom such sale, delivery, or other disposal was made.
+Every manufacturer registered under section 823 of this title shall, at such time or times and in such form as the Attorney General may require, make periodic reports to the Attorney General of every sale, delivery or other disposal by him of any controlled substance, and each distributor shall make such reports with respect to narcotic controlled substances, identifying by the registration number assigned under this subchapter the person or establishment (unless exempt from registration under section 822(d) ofthis title) to whom such sale, delivery, or other disposal was made.
 
 #### (e) Reporting and recordkeeping requirements of drug conventions
 
@@ -44,7 +44,7 @@ Regulations under sections 355(i) and 360(j) of this title, relating to investig
 
 #### (g) Change of address
 
-Every registrant under this subchapter shall be required to report any change of professionalor business address in such manner as the Attorney General shall by regulation require.
+Every registrant under this subchapter shall be required to report any change of professional or business address in such manner as the Attorney General shall by regulation require.
 
 #### (h) Reporting requirements for GHB
 
@@ -87,8 +87,4 @@ Subsecs. (e), (f). Pub. L. 95–633 added subsec. (e) and redesignated former su
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 823, 829, 902, 958 of this title.
 

@@ -4,7 +4,3 @@ To request funds under this subchapter, the chief executive or the chief justice
 
 (Pub. L. 90–351, title I, §2955, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1797.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3797u–5 of this title.
-

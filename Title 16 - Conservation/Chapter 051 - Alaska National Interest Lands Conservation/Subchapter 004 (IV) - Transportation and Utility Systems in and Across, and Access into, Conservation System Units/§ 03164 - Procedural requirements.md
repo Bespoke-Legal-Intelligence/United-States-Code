@@ -30,7 +30,7 @@ The draft of any environmental impact statement required under the National Envi
 
 #### (f) Other views
 
-During both the nine-month period, and the succeeding three-month period plus any extension thereof provided for in subsection (e) of this section, the heads of the Federal agencies concerned shall solicit and consider the views of other Federal departments and agencies, the Alaska Land Use Council, the State, affected units of local government in the State, and affected corporations formed pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C.1601 et seq.\], and, after public notice, shall receive and consider statements and recommendations regarding the application submitted by interested individuals and organizations.
+During both the nine-month period, and the succeeding three-month period plus any extension thereof provided for in subsection (e) of this section, the heads of the Federal agencies concerned shall solicit and consider the views of other Federal departments and agencies, the Alaska Land Use Council, the State, affected units of local government in the State, and affected corporations formed pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], and, after public notice, shall receive and consider statements and recommendations regarding the application submitted by interested individuals and organizations.
 
 #### (g) Agency decision
 
@@ -61,8 +61,4 @@ During both the nine-month period, and the succeeding three-month period plus an
 The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (f), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410hh, 3162, 3166 of this title.
 

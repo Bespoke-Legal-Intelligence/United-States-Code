@@ -12,7 +12,7 @@ No benefit shall be paid under this subchapter—
 
 &emsp;(5) to any individual employed in a capacity other than a civilian capacity.
 
-(Pub. L. 90–351, title I, §1202, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 101–647, title XIII, §1301(b), Nov. 29, 1990, 104 Stat. 4834.)
+(Pub. L. 90–351, title I, §1202, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099;amended Pub. L. 101–647, title XIII, §1301(b), Nov. 29, 1990, 104 Stat. 4834.)
 
 #### Prior Provisions
 
@@ -29,8 +29,4 @@ A prior section 1202 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–647 effective Nov. 29, 1990, and not applicable with respect to injuries occurring before Nov. 29, 1990, see section 1303 of Pub. L. 101–647, set out as a note under section 3796 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3796c–1 of this title.
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 616mmmm, Pub. L. 91–270, §1, May 28, 1970, 84 Stat. 273, authorized construction, operation, and maintenance of Merlin Division, Rogue River Basin project, Oregon.
+Section 616mmmm, Pub. L. 91–270, §1, May 28, 1970, 84 Stat. 273, authorized construction, operation, andmaintenance of Merlin Division, Rogue River Basin project, Oregon.
 
 Section 616nnnn, Pub. L. 91–270, §2, May 28, 1970, 84 Stat. 273, related to irrigation repayment contracts and assessment and collection of service charges.
 

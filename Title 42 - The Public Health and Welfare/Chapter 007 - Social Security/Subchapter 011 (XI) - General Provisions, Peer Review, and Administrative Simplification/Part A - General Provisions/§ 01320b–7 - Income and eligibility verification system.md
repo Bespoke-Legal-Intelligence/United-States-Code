@@ -22,7 +22,7 @@ In order to meet the requirements of this section, a State must have in effect a
 
 &emsp;&emsp;(A) the information exchanged by the State agencies is made available only to the extent necessary to assist in the valid administrative needs of the program receiving such information, and the information released pursuant to section 6103(<i>l</i>) of the Internal Revenue Code of 1986 is only exchanged with agencies authorized to receive such information under such section 6103(<i>l</i>); and
 
-&emsp;&emsp;(B) the information is adequately protected against unauthorized disclosure for other purposes, as provided in regulationsestablished by the Secretary of Health and Human Services, or, in the case of the unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture, or <sup>1</sup> in the case of information released pursuant to section 6103(<i>l</i>) of the Internal Revenue Code of 1986, the Secretary of the Treasury;
+&emsp;&emsp;(B) the information is adequately protected against unauthorized disclosure for other purposes, as provided in regulations established by the Secretary of Health and Human Services, or, in the case of the unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture, or <sup>1</sup> in the case of information released pursuant to section 6103(<i>l</i>) of the Internal Revenue Code of 1986, the Secretary of the Treasury;
 
 &emsp;(6) all applicants for and recipients of benefits under any such program shall be notified at the time of application, and periodically thereafter, that information available through the system will be requested and utilized; and
 
@@ -52,7 +52,7 @@ The programs which must participate in the income and eligibility verification s
 
 &emsp;(C) the period or periods when the individual actually had such asset or income.
 
-(2) Such individual shall be informed by the agency of the findings made by the agency on the basis of such verified information, and shall be given an opportunity to contest such findings, in the same manner as applies to other information and findings relating to eligibility factors under the program.
+(2) Such individual shall be informed by the agency of the findings made by the agency onthe basis of such verified information, and shall be given an opportunity to contest such findings, in the same manner as applies to other information and findings relating to eligibility factors under the program.
 
 #### (d) Citizenship or immigration status requirements; documentation; verification by Immigration and Naturalization Service; denial of benefits; hearing
 
@@ -180,7 +180,7 @@ Amendment by section 401(p) of Pub. L. 106–169 effective as if included in the
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 108(g)(8) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+Amendment by section 108(g)(8) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating toState options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 For effective date of amendment by section 313(c) of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of this title.
 
@@ -282,7 +282,7 @@ Section 2651(<i>l</i>) of Pub. L. 98–369 provided that:
 
 “(1) The amendments made by subsections (j) and (k) \[amending section 1383 of this title and section 6103 of Title 26, Internal Revenue Code\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].
 
-“(2) Except as otherwise specifically provided, the amendments made by subsections (a) through (i) \[enacting this section, amending sections 302, 503, 602, 1202, 1352, and 1396a of this title and section 2020 of Title 7, Agriculture, repealing section 611 of this title, and amending provisions set out as a note under section 1382 of this title\] shall become effective on April 1, 1985. In the case of any State which submits a plan describing a good faith effort by such State to come into compliance with the requirements of such subsections, the Secretary of Health and Human Services (or, in the case of the State unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture) may by waiver grant a delay in the effective date of such subsections, except that no such waiver may delay the effective date of section 1137(c) of the Social Security Act \[subsec. (c) of this section\] (as added by subsection (a) of this section), or delay the effective date of any other provision of or added by this section beyond September 30, 1986.”
+“(2) Except as otherwise specifically provided, the amendments made by subsections (a) through (i) \[enacting this section, amending sections 302, 503, 602, 1202, 1352, and 1396a of this title and section 2020 of Title 7, Agriculture, repealing section 611 of this title, and amending provisions set out as a note under section 1382 of this title\] shall become effective on April 1, 1985. In the case of any State which submits a plan describing a good faith effort by such State to come into compliance with the requirements of such subsections, theSecretary of Health and Human Services (or, in the case of the State unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture) may by waiver grant a delay in the effective date of such subsections, except that no such waiver may delay the effective date of section 1137(c) of the Social Security Act \[subsec. (c) of this section\] (as added by subsection (a) of this section), or delay the effective date of any other provision of or added by this section beyond September 30, 1986.”
 
 #### Construction of 1999 Amendment
 
@@ -299,10 +299,6 @@ Section 121(c)(1) of Pub. L. 99–603 provided that: “The Commissioner of Immi
 #### General Accounting Office Reports
 
 Section 121(d) of Pub. L. 99–603 directed Comptroller General to examine current pilot projects relating to the System for Alien Verification of Eligibility (SAVE) operated by, or through cooperative agreements with, the Immigration and Naturalization Service, and report, not later than Oct. 1, 1987, to Congress and to Commissioner of Immigration and Naturalization Service concerning the effectiveness of such projects and any problems with the implementation of such projects, particularly as they may apply to implementation of the system, with Comptroller General to monitor and analyze the implementation of such system, report to Congress and to the appropriate Secretaries, by not later than Apr. 1, 1989, on such implementation, and include in such report recommendations for appropriate changes in the system.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 302, 502, 503, 609, 653a, 1202, 1352, 1383, 1396a, 1396b of this title; title 5 section 552a; title 7 sections 2020, 2025; title 8 sections 1183a, 1642.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

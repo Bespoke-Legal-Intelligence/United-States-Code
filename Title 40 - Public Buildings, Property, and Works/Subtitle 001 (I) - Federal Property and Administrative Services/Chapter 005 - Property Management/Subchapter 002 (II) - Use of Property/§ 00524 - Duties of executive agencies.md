@@ -52,7 +52,3 @@ In clause (a)(2), the word “identify” is substituted for “determine which 
 
 In clause (b)(1), the words “determined to be” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 556 of this title; title 42 section 11411.
-

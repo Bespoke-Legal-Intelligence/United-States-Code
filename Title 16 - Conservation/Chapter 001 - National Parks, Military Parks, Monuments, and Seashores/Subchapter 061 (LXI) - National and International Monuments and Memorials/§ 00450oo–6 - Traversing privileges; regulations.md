@@ -4,7 +4,3 @@ Recognized members of the Minnesota Chippewa Tribe shall not be denied the privi
 
 (Pub. L. 85–910, §7, Sept. 2, 1958, 72 Stat. 1753.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450<i>oo</i>, 450<i>oo</i>–9 of this title.
-

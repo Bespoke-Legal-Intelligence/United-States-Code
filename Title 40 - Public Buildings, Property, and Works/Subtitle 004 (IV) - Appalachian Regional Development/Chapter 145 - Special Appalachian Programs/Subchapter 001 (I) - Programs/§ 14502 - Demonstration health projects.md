@@ -42,7 +42,7 @@ Additional uses for construction grants.—Grants under this section for constru
 
 &emsp;(2)
 
-Standards for making grants.—Grants under this section for construction shall be made in accordance with section 14523 of this title and shall not be incompatible with the applicable provisions of title VI of the Public Health Service Act (42 U.S.C. 291 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15001 et seq.), and other laws authorizing grants for the construction of health-related facilities, without regard to any provisions in those laws relating to appropriation authorization ceilings or to allotments among the States.
+Standards for making grants.—Grants under this section for construction shall be made in accordance with section 14523 of this title and shall not be incompatible with the applicable provisions of title VI of the Public Health Service Act (42 U.S.C. 291 et seq.), the Developmental Disabilities Assistance and Billof Rights Act of 2000 (42 U.S.C. 15001 et seq.), and other laws authorizing grants for the construction of health-related facilities, without regard to any provisions in those laws relating to appropriation authorization ceilings or to allotments among the States.
 
 &emsp;(3)
 
@@ -84,7 +84,7 @@ Federal share.—Notwithstanding any provision of law limiting the federal share
 
 &emsp;(5)
 
-State deemed to meet requirement of providing assistance or services on statewide basis.—Notwithstanding any provision of the Social Security Act (42 U.S.C. 301 et seq.) requiring assistance or services on a statewide basis, a State providing assistance or servicesunder a federal grant program described in paragraph (2) in any area of the region approved by the Commission is deemed to be meeting that requirement.
+State deemed to meet requirement of providing assistance or services on statewide basis.—Notwithstanding any provision of the Social Security Act (42 U.S.C. 301 et seq.) requiring assistance or services on a statewide basis, a State providing assistance or services under a federal grant program described in paragraph (2) in any area of the region approved by the Commission is deemed to be meeting that requirement.
 
 (e)
 

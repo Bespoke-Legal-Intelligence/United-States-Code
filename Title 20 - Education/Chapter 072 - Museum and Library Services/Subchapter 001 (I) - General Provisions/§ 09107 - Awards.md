@@ -4,7 +4,3 @@ The Director, with the advice of the Museum and Library Services Board, may annu
 
 (Pub. L. 94–462, title II, §209, as added Pub. L. 108–81, title I, §105, Sept. 25, 2003, 117 Stat. 996.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9105a of this title.
-

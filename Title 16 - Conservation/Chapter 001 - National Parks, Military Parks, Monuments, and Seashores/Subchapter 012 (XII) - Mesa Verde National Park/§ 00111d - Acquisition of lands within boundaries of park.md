@@ -4,7 +4,3 @@ The Secretary of the Interior may acquire by purchase, with donated or appropria
 
 (Pub. L. 88–235, §2, Dec. 23, 1963, 77 Stat. 474.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 111e of this title.
-

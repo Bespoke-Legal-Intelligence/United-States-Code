@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—BORROWING AUTHORITY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 22 section 2183.
-
 
 ---
 

@@ -88,7 +88,7 @@ General Rule.—Subject to subsections (b) and (c), a foreign motor carrier or f
 
 “(b)
 
-Penalty for Intentional Violation.—The civil penalty for an intentional violation of subsection (a) by a carrier shall not be more than $10,000 and may include a disqualification from operating a commercial motor vehicle anywhere within the United States for a period of not more than 6 months.
+Penalty for Intentional Violation.—The civil penalty for an intentional violation of subsection (a) bya carrier shall not be more than $10,000 and may include a disqualification from operating a commercial motor vehicle anywhere within the United States for a period of not more than 6 months.
 
 “(c)
 
@@ -105,8 +105,4 @@ Savings Clause.—No provision of this section may be enforced if it is inconsis
 “(f)
 
 Acts of Employees.—The actions of any employee driver of a foreign motor carrier or foreign motor private carrier committed without the knowledge of the carrier or committed unintentionally shall not be grounds for penalty or disqualification under this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13907, 14303 of this title.
 

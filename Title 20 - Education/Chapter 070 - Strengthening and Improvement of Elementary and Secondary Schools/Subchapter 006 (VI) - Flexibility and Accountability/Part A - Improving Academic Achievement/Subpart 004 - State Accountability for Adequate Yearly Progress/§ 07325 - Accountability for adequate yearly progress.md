@@ -8,7 +8,3 @@ In the case of a State educational agency that has a plan approved under subpart
 
 (Pub. L. 89–10, title VI, §6161, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1890.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7325b, 7325c of this title.
-

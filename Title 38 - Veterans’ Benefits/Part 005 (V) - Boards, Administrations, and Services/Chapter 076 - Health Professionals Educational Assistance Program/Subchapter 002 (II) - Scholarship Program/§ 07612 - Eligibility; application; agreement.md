@@ -1,6 +1,6 @@
 ### §7612. Eligibility; application; agreement
 
-(a)(1) Except as provided in paragraph (2) of this subsection, an individual must be accepted for enrollment or be enrolled (as described in section 7602 of this title) as a full-time studentto be eligible to participate in the Scholarship Program.
+(a)(1) Except as provided in paragraph (2) of this subsection, an individual must be accepted for enrollment or be enrolled (as described in section 7602 of this title) as a full-time student to be eligible to participate in the Scholarship Program.
 
 (2) An individual who is an eligible Department employee may be accepted as a participant if accepted for enrollment or enrolled (as described in section 7602 of this title) for study on less than a full-time but not less than a half-time basis. (Such a participant is hereinafter in this subchapter referred to as a “part-time student”.)
 
@@ -40,7 +40,7 @@
 
 (4) If a participant's period of obligated service is deferred under section 7616(b)(3)(A)(i) of this title, the agreement terms under paragraph (1) of this subsection shall provide for the participant to serve any additional period of obligated service that is prescribed by the Secretary under section 7616(b)(4)(B) of this title.
 
-(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 520, §4312; amended Pub. L. 101–237, title II, §207(a), Dec. 18, 1989, 103 Stat. 2068; renumbered §7612 and amended Pub. L. 102–40, title IV, §§402(b)(1), (d)(1), 403(b)(4), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title II, §202(a), Oct. 9, 1992, 106 Stat. 1983; Pub. L. 103–446, title XII, §1201(b)(1), Nov. 2, 1994, 108 Stat. 4682.)
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 520, §4312; amended Pub. L. 101–237, title II, §207(a), Dec. 18, 1989, 103 Stat. 2068; renumbered §7612 and amended Pub. L. 102–40, title IV, §§402(b)(1), (d)(1), 403(b)(4), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405;Pub. L. 102–405, title II, §202(a), Oct. 9, 1992, 106 Stat. 1983; Pub. L. 103–446, title XII, §1201(b)(1), Nov. 2, 1994, 108 Stat. 4682.)
 
 #### Amendments
 

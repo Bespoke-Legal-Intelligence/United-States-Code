@@ -10,7 +10,3 @@
 
 1975—Subsec. (a). Pub. L. 94–73 struck out “Prior to August 6, 1975,” and “as to which the provisions of section 1973b(a) of this title are not in effect by reason of determinations made under section 1973b(b) of this title”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1973aa–2, 1973aa–3 of this title.
-

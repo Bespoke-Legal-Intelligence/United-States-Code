@@ -42,7 +42,7 @@ To the extent that all the funds appropriated under section 300w of this title f
 
 &emsp;(A) receives a request from the governing body of an Indian tribe or tribal organization within any State that funds under this part be provided directly by the Secretary to such tribe or organization, and
 
-&emsp;(B) determines that the members of such tribe or tribal organization would be better served by means of grants made directly by the Secretary under this part,
+&emsp;(B) determines that the members of such tribe or tribal organization would be betterserved by means of grants made directly by the Secretary under this part,
 
 > the Secretary shall reserve from amounts which would otherwise be allotted to such State under subsection (a) of this section for the fiscal year the amount determined under paragraph (2).
 
@@ -81,10 +81,6 @@ Section 255 of this title, referred to in subsec. (a)(2)(F), was in the original
 Sections 300d–1, 300d–2, and 300d–3 of this title, referred to in subsec. (a)(2)(G), were in the original references to sections 1202, 1203, and 1204, respectively, of act July 1, 1944, which were repealed effective Oct. 1, 1981, by Pub. L. 97–35, title IX, §902(d)(1), (h), Aug. 13, 1981, 95 Stat. 560, 561. Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2916–2918, enacted new sections 1202, 1203, and 1204 of act July 1, 1944, which were classified to sections 300d–1, 300d–2, and 300d–3, respectively, of this title. Pub. L. 103–183, title VI, §601(b), Dec. 14, 1983, 107 Stat. 2238, repealed section 1202 and renumbered sections 1203 and 1204 as 1202 and 1203, respectively.
 
 Section 450b of title 25, referred to in subsec. (d)(5), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300w, 300w–2, 300w–3, 300w–4, 300w–7 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

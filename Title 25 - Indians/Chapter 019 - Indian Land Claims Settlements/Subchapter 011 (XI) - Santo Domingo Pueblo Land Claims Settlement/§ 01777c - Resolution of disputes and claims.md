@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with the Settlement Agreement, any transfer of land or natural resources, prior to November 1, 2000, located anywhere within the United States from, by, or on behalf of the Pueblo, or any of the Pueblo's members, shall be deemed to have been made in accordance with the Act of June 30, 1834 (4 Stat. 729; commonly referred to as the Trade and Intercourse Act), section 17 of the Act of June 7, 1924 (43 Stat. 641; commonly referred to as the Pueblo Lands Act), and any other provision of Federal law that specifically applies to transfers of land or natural resources from, by, or on behalf of an Indian tribe, and such transfers shall be deemed to be ratified effective as of the date of the transfer.
+&emsp;&emsp;In accordance with the Settlement Agreement, any transfer of land or natural resources, prior to November 1, 2000, located anywhere within the United States from, by, or on behalf of the Pueblo, or any of the Pueblo's members, shall be deemed to have been made in accordance with the Act of June 30, 1834 (4 Stat. 729; commonly referred to as the Trade and Intercourse Act), section 17 of the Act of June 7, 1924 (43 Stat. 641; commonly referred to as the Pueblo Lands Act), and any other provision of Federal lawthat specifically applies to transfers of land or natural resources from, by, or on behalf of an Indian tribe, and such transfers shall be deemed to be ratified effective as of the date of the transfer.
 
 #### (B) Rule of construction
 
@@ -106,7 +106,7 @@ On the date of the entry of the final compromise judgment in the case of Pueblo 
 
 &emsp;(3) lands conveyed by the Secretary of Agriculture pursuant to this section shall no longer be considered part of the National Forest System and upon any conveyance of National Forest lands, the boundaries of the Santa Fe National Forest shall be deemed modified to exclude such lands;
 
-&emsp;(4) until the National Forest lands are conveyed to the Pueblo pursuant to this section, or until the Pueblo's right to purchase such lands expires pursuant to section 7 of the Settlement Agreement, such lands are withdrawn, subject to valid existing rights, from any new public use or entry under any Federal land law, except for permits not to exceed 1 year, and shall not be identified for any disposition by or for any agency, and no mineral production or harvest of forest products shall be permitted, except that nothing in this subsection shall preclude forest management practices on such lands, including the harvest of timber in the event of fire, disease, or insect infestation; and
+&emsp;(4) until the National Forest lands are conveyed to the Pueblo pursuant to this section, or until the Pueblo's right to purchase such lands expires pursuant to section 7 of the Settlement Agreement, such lands are withdrawn,subject to valid existing rights, from any new public use or entry under any Federal land law, except for permits not to exceed 1 year, and shall not be identified for any disposition by or for any agency, and no mineral production or harvest of forest products shall be permitted, except that nothing in this subsection shall preclude forest management practices on such lands, including the harvest of timber in the event of fire, disease, or insect infestation; and
 
 &emsp;(5) once the Pueblo has acquired title to the former National Forest System lands, these lands may be conveyed by the Pueblo to the Secretary of the Interior who shall accept and hold such lands in the name of the United States in trust for the benefit of the Pueblo.
 
@@ -121,8 +121,4 @@ Act of June 7, 1924, referred to in subsec. (a)(4)(A), is act June 7, 1924, ch. 
 Act of June 24, 1938, referred to in subsec. (b)(1)(A), is act June 24, 1938, ch. 648, 52 Stat. 1037, as amended, which enacted section 162a of this title, repealed section 162 of this title, and enacted provisions set out as a note under section 162a of this title. For complete classification of this Act to the Code, see Tables.
 
 Public Law 93–134, referred to in subsec. (b)(1)(F), is Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, as amended, known as the Indian Tribal Judgment Funds Use or Distribution Act, which is classified generally to chapter 16 (§1401 et seq.) of this title. For complete classification of this Act to the Code, see section 1401(c) of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1777, 1777a, 1777d, 1777e of this title.
 

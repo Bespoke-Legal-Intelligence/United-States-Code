@@ -14,7 +14,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;(3) except as provided in subsection (c) of this section with respect to all surface coal mining operations backfill, compact (where advisable to insure stability or to prevent leaching of toxic materials), and grade in order to restore the approximate original contour of the land with all highwalls, spoil piles, and depressions eliminated (unless small depressions are needed in order to retain moisture to assist revegetation or as otherwise authorized pursuant to this chapter): <i>Provided, however</i>, That in surface coal mining which is carried out at the same location over a substantial period of time where the operation transects the coal deposit, and the thickness of the coal deposits relative to the volume of the overburden is large and where the operator demonstrates that the overburden and other spoil and waste materials at a particular point in the permit area or otherwise available from the entire permit area is insufficient, giving due consideration to volumetric expansion, to restore the approximate original contour, the operator, at a minimum, shall backfill, grade, and compact (where advisable) using all available overburden and other spoil and waste materials to attain the lowest practicable grade but not more than the angle of repose, to provide adequate drainage and to cover all acid-forming and other toxic materials, in order to achieve an ecologically sound land use compatible with the surrounding region: <i>And provided further</i>, That in surface coal mining where the volume of overburden is large relative to the thickness of the coal deposit and where the operator demonstrates that due to volumetric expansion the amount of overburden and other spoil and waste materials removed in the course of the mining operation is more than sufficient to restore the approximate original contour, the operator shall after restoring the approximate contour, backfill, grade, and compact (where advisable) the excess overburden and other spoil and waste materials to attain the lowest grade but not more than the angle of repose, and to cover all acid-forming and other toxic materials, in order to achieve an ecologically sound land use compatible with the surrounding region and that such overburden or spoil shall be shaped and graded in such a way as to prevent slides, erosion, and water pollution and is revegetated in accordance with the requirements of this chapter;
 
-&emsp;(4) stabilize and protect all surface areas including spoil piles affected by the surface coal mining and reclamation operation to effectively control erosion and attendant air and water pollution;
+&emsp;(4) stabilize and protect all surface areas including spoil piles affected by the surface coalmining and reclamation operation to effectively control erosion and attendant air and water pollution;
 
 &emsp;(5) remove the topsoil from the land in a separate layer, replace it on the backfill area, or if not utilized immediately, segregate it in a separate pile from other spoil and when the topsoil is not replaced on a backfill area within a time short enough to avoid deterioration of the topsoil, maintain a successful cover by quick growing plant or other means thereafter so that the topsoil is preserved from wind and water erosion, remains free of any contamination by other acid or toxic material, and is in a usable condition for sustaining vegetation when restored during reclamation, except if topsoil is of insufficient quantity or of poor quality for sustaining vegetation, or if other strata can be shown to be more suitable for vegetation requirements, then the operator shall remove, segregate, and preserve in a like manner such other strata which is best able to support vegetation;
 
@@ -66,7 +66,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(E) avoiding channel deepening or enlargement in operations requiring the discharge of water from mines;
 
-&emsp;&emsp;(F) preserving throughout the mining and reclamation process the essential hydrologicfunctions of alluvial valley floors in the arid and semiarid areas of the country; and
+&emsp;&emsp;(F) preserving throughout the mining and reclamation process the essential hydrologic functions of alluvial valley floors in the arid and semiarid areas of the country; and
 
 &emsp;&emsp;(G) such other actions as the regulatory authority may prescribe;
 
@@ -94,7 +94,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(A) if the regulatory authority finds in writing that:
 
-&emsp;&emsp;&emsp;(i) the applicant has presented, as part of the permit application, specific, feasible plans for the proposed underground mining operations;
+&emsp;&emsp;&emsp;(i) the applicant has presented, as part of the permit application, specific, feasibleplans for the proposed underground mining operations;
 
 &emsp;&emsp;&emsp;(ii) the proposed underground mining operations are necessary or desirable to assure maximum practical recovery of the mineral resource and will avoid multiple disturbance of the surface;
 
@@ -134,7 +134,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(D) the disposal area does not contain springs, natural water courses or wet weather seeps unless lateral drains are constructed from the wet areas to the main underdrains in such a manner that filtration of the water into the spoil pile will be prevented;
 
-&emsp;&emsp;(E) if placed on a slope, the spoil is placed upon the most moderate slope among those upon which, in the judgment of the regulatory authority, the spoil could be placed in compliance with all the requirements of this chapter, and shall be placed, where possible, upon, or above, a natural terrace, bench, or berm, if such placement provides additional stability and prevents mass movement;
+&emsp;&emsp;(E) if placed on a slope, the spoil is placed upon the most moderate slope among those upon which, in the judgment of the regulatory authority, the spoil could be placed in compliance with all the requirements of this chapter, and shall be placed, where possible,upon, or above, a natural terrace, bench, or berm, if such placement provides additional stability and prevents mass movement;
 
 &emsp;&emsp;(F) where the toe of the spoil rests on a downslope, a rock toe buttress, of sufficient size to prevent mass movement, is constructed;
 
@@ -238,7 +238,7 @@ The Secretary, with the written concurrence of the Chief of Engineers, shall est
 
 #### References in Text
 
-Public Law 83–566, referred to in subsec. (b)(8)(B), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, known as the Watershed Protection and Flood Prevention Act, which is classified generally to chapter 18 (§1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
+Public Law 83–566, referred to in subsec. (b)(8)(B), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, knownas the Watershed Protection and Flood Prevention Act, which is classified generally to chapter 18 (§1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
 
 #### Codification
 
@@ -249,10 +249,6 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 1992—Subsec. (b)(20). Pub. L. 102–486 designated existing provisions as subpar. (A) and added subpar. (B).
 
 1986—Subsec. (b)(10)(B)(ii). Pub. L. 99–500 and Pub. L. 99–591 inserted “or a qualified registered professional land surveyor in any State which authorizes land surveyors to prepare and certify such maps or plans”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1251a, 1252, 1257, 1258, 1259, 1260, 1262, 1266, 1269, 1276, 1279, 1291, 1300, 1301 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -16,7 +16,3 @@ Whenever a witness refuses, on the basis of his privilege against self-incrimina
 
 1994—Pub. L. 103–322 substituted “under this title” for “under this part” in concluding provisions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6003, 6004, 6005 of this title; title 50 App. section 2411.
-

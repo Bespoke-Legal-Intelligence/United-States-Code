@@ -18,7 +18,3 @@ Nothing in this subchapter is intended to affect rights or interests in real pro
 
 (Pub. L. 106–399, title I, §122, Oct. 30, 2000, 114 Stat. 1664.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460nnn–24, 460nnn–122 of this title.
-

@@ -14,7 +14,3 @@ Whenever used in this chapter—
 
 Act July 12, 1943, ch. 221, title II, 57 Stat. 499, provided in part that act Mar. 4, 1923, which enacted this chapter, may be cited as the “Filled Milk Act”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 62 of this title.
-

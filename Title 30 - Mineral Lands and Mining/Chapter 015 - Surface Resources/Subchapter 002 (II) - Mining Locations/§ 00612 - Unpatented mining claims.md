@@ -18,7 +18,3 @@ Except to the extent required for the mining claimant's prospecting, mining or p
 
 The mining laws of the United States, referred to in text, are classified generally to this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 613, 614 of this title.
-

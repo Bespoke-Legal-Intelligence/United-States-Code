@@ -10,7 +10,3 @@ An eligible orchardist shall qualify for assistance under subsection (a) of this
 
 (Pub. L. 107–171, title X, §10202, May 13, 2002, 116 Stat. 490.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8203 of this title.
-

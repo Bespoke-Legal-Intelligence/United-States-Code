@@ -28,7 +28,7 @@ In order to be eligible for a grant under this section, a highest State court sh
 
 #### (1) In general
 
-&emsp;Each highest State court which has an application approved under subsection (b) of this section, and is conducting assessment and improvement activities in accordance with this section, shall be entitled to payment, for each of fiscal years 2002 through 2006, from the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title), of an amount equal to the sum of $85,000 plus the amount described in paragraph (2) of this subsection for the fiscal year.
+&emsp;Each highest State court which has an application approved under subsection (b) of this section, and is conducting assessment and improvement activities in accordance with this section, shall be entitled to payment, for each of fiscal years 2002 through 2006, from theamount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title), of an amount equal to the sum of $85,000 plus the amount described in paragraph (2) of this subsection for the fiscal year.
 
 #### (2) Formula
 
@@ -87,10 +87,6 @@ Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if 
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 629f, 629g of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

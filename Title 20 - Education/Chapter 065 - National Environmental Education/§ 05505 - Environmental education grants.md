@@ -2,7 +2,7 @@
 
 #### (a) Cooperative agreements and grants
 
-The Administrator may enter into a cooperative agreement or contract, or provide financial assistance in the form of a grant, to support projects to design, demonstrate, or disseminate practices, methods, or techniques related to environmental education and training.
+The Administrator may enter into a cooperative agreement or contract, or provide financialassistance in the form of a grant, to support projects to design, demonstrate, or disseminate practices, methods, or techniques related to environmental education and training.
 
 #### (b) Eligible activities
 
@@ -26,7 +26,7 @@ In making grants pursuant to this section, the Administrator shall give priority
 
 &emsp;(2) an environmental education practice, method, or technique which may have wide application;
 
-&emsp;(3) an environmental education practice, method, or technique which addresses a skill or scientific field identified as a priority in thereport developed pursuant to section 5508(d) of this title; and
+&emsp;(3) an environmental education practice, method, or technique which addresses a skill or scientific field identified as a priority in the report developed pursuant to section 5508(d) of this title; and
 
 &emsp;(4) an environmental education practice, method, or technique which addresses an environmental issue which, in the judgment of the Administrator, is of a high priority.
 
@@ -55,8 +55,4 @@ Federal funds for any demonstration project under this section shall not exceed 
 Grants under this section shall not exceed $250,000. In addition, 25 percent of all funds obligated under this section in a fiscal year shall be for grants of not more than $5,000.
 
 (Pub. L. 101–619, §6, Nov. 16, 1990, 104 Stat. 3330.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5503 of this title.
 

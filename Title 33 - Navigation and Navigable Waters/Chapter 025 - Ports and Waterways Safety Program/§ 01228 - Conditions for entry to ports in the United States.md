@@ -32,7 +32,3 @@ The Secretary may allow provisional entry of a vessel not in compliance with sub
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1223, 1232, 1911 of this title.
-

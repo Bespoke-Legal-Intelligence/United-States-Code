@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—CONSTRUCTION OF SMALL PROJECTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 502, 504, 2201 of this title; title 16 section 460<i>l</i>–17.
-
 
 ---
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—INTERCEPTION OF DIGITAL AND OTHER COMMUNICATIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 229, 1021 of this title; title 18 sections 2518, 2522, 3124.
-
 
 ---
 

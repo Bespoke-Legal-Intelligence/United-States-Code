@@ -1,6 +1,6 @@
 ### §12624. Annual evaluation
 
-Pursuant to the provisions for evaluations conducted under section 12639 of this title, andin particular subsection (g) of such section, the Corporation shall conduct an annual evaluation of the Civilian Community Corps programs authorized under this division.
+Pursuant to the provisions for evaluations conducted under section 12639 of this title, and in particular subsection (g) of such section, the Corporation shall conduct an annual evaluation of the Civilian Community Corps programs authorized under this division.
 
 (Pub. L. 101–610, title I, §164, formerly §195M, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532; renumbered §164 and amended Pub. L. 103–82, title I, §104(b), title IV, §402(b)(2), Sept. 21, 1993, 107 Stat. 840, 919.)
 

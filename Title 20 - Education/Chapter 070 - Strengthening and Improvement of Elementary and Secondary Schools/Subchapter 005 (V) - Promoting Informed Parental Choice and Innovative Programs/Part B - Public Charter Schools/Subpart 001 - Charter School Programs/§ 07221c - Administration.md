@@ -90,7 +90,7 @@ The Secretary may waive any statutory or regulatory requirement over which the S
 
 #### (A) State educational agency administrative expenses
 
-&emsp;&emsp;Each State educational agency receiving a grant pursuant to this subpart may reservenot more than 5 percent of such grant funds for administrative expenses associated with the charter school grant program assisted under this subpart.
+&emsp;&emsp;Each State educational agency receiving a grant pursuant to this subpart may reserve not more than 5 percent of such grant funds for administrative expenses associated with the charter school grant program assisted under this subpart.
 
 #### (B) Local administrative expenses
 
@@ -141,8 +141,4 @@ The Tribally Controlled Schools Act of 1988, referred to in subsec. (g), is part
 #### Prior Provisions
 
 A prior section 5204 of Pub. L. 89–10 was classified to section 7234 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7221a, 7221b of this title.
 

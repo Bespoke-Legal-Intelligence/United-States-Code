@@ -6,7 +6,7 @@ As used in this chapter, the term—
 
 &emsp;(2) “foreign”, when used in a geographic sense, means that which is situated outside the United States or which belongs to or is characteristic of a country other than the United States;
 
-&emsp;(3) “person” means any individual, branch, partnership, associated group, association, estate, trust, corporation, or other organization (whether or not organized under the laws of any State), and any government (including a foreign government, the United States Government, a State or local government, and any agency, corporation, financial institution, orother entity or instrumentality thereof, including a government-sponsored agency);
+&emsp;(3) “person” means any individual, branch, partnership, associated group, association, estate, trust, corporation, or other organization (whether or not organized under the laws of any State), and any government (including a foreign government, the United States Government, a State or local government, and any agency, corporation, financial institution, or other entity or instrumentality thereof, including a government-sponsored agency);
 
 &emsp;(4) “United States person” means any person resident in the United States or subject to the jurisdiction of the United States;
 
@@ -29,8 +29,4 @@ As used in this chapter, the term—
 #### References in Text
 
 For definition of Canal Zone, referred to in par. (1), see section 3602(b) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3146 of this title; title 13 section 401.
 

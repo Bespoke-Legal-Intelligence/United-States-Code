@@ -38,7 +38,3 @@ The provision of payments under a grant under subsection (a) or (b) of this sect
 
 (Pub. L. 103–239, title III, §302, May 4, 1994, 108 Stat. 592.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6145, 6173, 6174, 6175, 6176, 6235 of this title.
-

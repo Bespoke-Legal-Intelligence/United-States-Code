@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 4125, 4143, 4146 of this title.
-
 
 ---
 

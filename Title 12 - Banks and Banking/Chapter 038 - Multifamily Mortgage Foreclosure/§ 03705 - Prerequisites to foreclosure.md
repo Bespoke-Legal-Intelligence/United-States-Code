@@ -8,7 +8,3 @@ Foreclosure by the Secretary under this chapter of a multifamily mortgage may be
 
 1992—Pub. L. 102–550 substituted “status, relief under an assignment of rents, or transfer to a nonprofit entity pursuant to section 1701q of this title or section 8013 of title 42” for “status or relief under an assignment of rents” in last sentence.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3707 of this title.
-

@@ -12,7 +12,3 @@ Any authorization issued or granted pursuant to subsection (a) of this section s
 
 (Pub. L. 97–425, title I, §120, Jan. 7, 1983, 96 Stat. 2227.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10145 of this title.
-

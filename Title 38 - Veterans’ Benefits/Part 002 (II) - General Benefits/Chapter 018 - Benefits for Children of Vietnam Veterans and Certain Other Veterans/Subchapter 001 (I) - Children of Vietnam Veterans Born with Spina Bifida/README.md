@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—CHILDREN OF VIETNAM VETERANS BORN WITH SPINA BIFIDA
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1821, 1831, 1834 of this title.
-
 
 ---
 

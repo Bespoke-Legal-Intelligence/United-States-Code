@@ -2,7 +2,7 @@
 
 (a) In criminal cases, before the voir dire examination begins, or within seven days after the defendant discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, the defendant may move to dismiss the indictment or stay the proceedings against him on the ground of substantial failure to comply with the provisions of this title in selecting the grand or petit jury.
 
-(b) In criminal cases, before the voir dire examination begins, or within seven days after theAttorney General of the United States discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, the Attorney General may move to dismiss the indictment or stay the proceedings on the ground of substantial failure to comply with the provisions of this title in selecting the grand or petit jury.
+(b) In criminal cases, before the voir dire examination begins, or within seven days after the Attorney General of the United States discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, the Attorney General may move to dismiss the indictment or stay the proceedings on the ground of substantial failure to comply with the provisions of this title in selecting the grand or petit jury.
 
 (c) In civil cases, before the voir dire examination begins, or within seven days after the party discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, any party may move to stay the proceedings on the ground of substantial failure to comply with the provisions of this title in selecting the petit jury.
 
@@ -41,8 +41,4 @@ Changes were made in phraseology.
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictment has been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1864, 1878 of this title.
 

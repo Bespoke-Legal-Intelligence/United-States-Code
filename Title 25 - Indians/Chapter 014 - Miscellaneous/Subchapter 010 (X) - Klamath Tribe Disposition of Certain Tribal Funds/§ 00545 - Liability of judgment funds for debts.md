@@ -8,7 +8,3 @@ In no event shall any portion of the funds directed to be credited and paid beco
 
 This section was not enacted as part of act Aug. 7, 1939, ch. 552, 53 Stat. 1252, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 544 of this title.
-

@@ -16,7 +16,7 @@
 
 #### (3) Procedure
 
-&emsp;Upon receipt of a completed registration described in paragraph (1), the Secretary shall notify the registrant of the receipt of such registration and assign a registration number to each registered facility.
+&emsp;Upon receipt of a completed registration described in paragraph (1), the Secretary shallnotify the registrant of the receipt of such registration and assign a registration number to each registered facility.
 
 #### (4) List
 
@@ -50,9 +50,5 @@ Pub. L. 107–188, title III, §305(e), June 12, 2002, 116 Stat. 669, provided t
 
 #### Electronic Filing
 
-Pub. L. 107–188, title III, §305(d), June 12, 2002, 116 Stat. 668, provided that: “For the purpose of reducing paperwork and reporting burdens, the Secretary of Health and Human Services may provide for, and encourage the use of, electronic methods of submitting to the Secretary registrations required pursuant to this section \[enacting this section, amending sections 331 and 381 of this title, and enacting provisions set out asa note under this section\]. In providing for the electronic submission of such registrations, the Secretary shall ensure adequate authentication protocols are used to enable identification of the registrant and validation of the data as appropriate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 381 of this title.
+Pub. L. 107–188, title III, §305(d), June 12, 2002, 116 Stat. 668, provided that: “For the purpose of reducing paperwork and reporting burdens, the Secretary of Health and Human Services may provide for, and encourage the use of, electronic methods of submitting to the Secretary registrations required pursuant to this section \[enacting this section, amending sections 331 and 381 of this title, and enacting provisions set out as a note under this section\]. In providing for the electronic submission of such registrations, the Secretary shall ensure adequate authentication protocols are used to enable identification of the registrant and validation of the data as appropriate.”
 

@@ -84,9 +84,5 @@ Subsec. (b). Pub. L. 104–146, §3(c)(2)(B), struck out heading and text of sub
 
 Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–23, 300ff–24, 300ff–25, 300ff–26, 300ff–27, 300ff–29, 300ff–30, 300ff–51 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(ii) in return for not conducting such an investigation or proceeding; or
 
-&emsp;&emsp;(C) in the case of such an entity which is a professional society, takes a professional review action which adversely affects the membership of a physician in the society,
+&emsp;&emsp;(C) in the case of such an entity which is a professional society, takes a professionalreview action which adversely affects the membership of a physician in the society,
 
 > &emsp;shall report to the Board of Medical Examiners, in accordance with section 11134(a) of this title, the information described in paragraph (3).
 
@@ -51,8 +51,4 @@ Each Board of Medical Examiners shall report, in accordance with section 11134 o
 Any reference in this subchapter to a Board of Medical Examiners includes, in the case of a Board in a State that fails to meet the reporting requirements of section 11132(a) of this title or subsection (b) of this section, a reference to such other qualified entity as the Secretary designates.
 
 (Pub. L. 99–660, title IV, §423, Nov. 14, 1986, 100 Stat. 3789.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11111, 11132, 11134 of this title.
 

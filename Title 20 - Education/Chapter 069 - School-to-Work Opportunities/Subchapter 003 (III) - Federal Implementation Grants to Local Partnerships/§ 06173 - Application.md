@@ -22,7 +22,7 @@ The application described in subsection (a) of this section shall include a plan
 
 &emsp;(2) includes the comments of the State on the plan, if any;
 
-&emsp;(3) contains information that is consistent with the information required to be submittedas part of a State plan in accordance with paragraphs (5) through (17) and paragraph (23) of section 6143(d) of this title;
+&emsp;(3) contains information that is consistent with the information required to be submitted as part of a State plan in accordance with paragraphs (5) through (17) and paragraph (23) of section 6143(d) of this title;
 
 &emsp;(4) designates a fiscal agent to receive and be accountable for funds under this section; and
 
@@ -37,8 +37,4 @@ The Secretaries may use amounts reserved under section 6235(b)(4) of this title 
 #### References in Text
 
 This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 103–239, May 4, 1994, 108 Stat. 568, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6235 of this title.
 

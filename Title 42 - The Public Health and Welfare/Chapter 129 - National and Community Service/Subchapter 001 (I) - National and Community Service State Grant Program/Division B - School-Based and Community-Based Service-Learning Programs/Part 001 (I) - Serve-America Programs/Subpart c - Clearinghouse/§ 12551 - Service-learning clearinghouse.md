@@ -22,7 +22,7 @@ An organization that receives assistance under subsection (a) of this section ma
 
 &emsp;(4) facilitate communication among entities carrying out service-learning programs and participants in such programs;
 
-&emsp;(5) provide information, curriculum materials, and technical assistance relating to planning and operation of service-learning programs, to States and local entities eligible to receive financial assistance under this subchapter;
+&emsp;(5) provide information, curriculum materials, and technical assistance relating toplanning and operation of service-learning programs, to States and local entities eligible to receive financial assistance under this subchapter;
 
 &emsp;(6) provide information regarding methods to make service-learning programs accessible to individuals with disabilities;
 
@@ -53,8 +53,4 @@ A prior section 12554, Pub. L. 101–610, title I, §134, Nov. 16, 1990, 104 Sta
 A prior section 12555, Pub. L. 101–610, title I, §135, Nov. 16, 1990, 104 Stat. 3149, which related to Federal and State employee status, was successively renumbered section 199O, then 199M, of Pub. L. 101–610 by Pub. L. 103–82, §101(a), (e)(8)(B), and transferred to section 12655n of this title.
 
 A prior section 12556, Pub. L. 101–610, title I, §136, Nov. 16, 1990, 104 Stat. 3150, directed Commission on National and Community Service to promulgate regulations implementing American Conservation Youth Corps program and established procedures for promulgation, prior to repeal by Pub. L. 102–10, §5(7), Mar. 12, 1991, 105 Stat. 31.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12653a of this title.
 

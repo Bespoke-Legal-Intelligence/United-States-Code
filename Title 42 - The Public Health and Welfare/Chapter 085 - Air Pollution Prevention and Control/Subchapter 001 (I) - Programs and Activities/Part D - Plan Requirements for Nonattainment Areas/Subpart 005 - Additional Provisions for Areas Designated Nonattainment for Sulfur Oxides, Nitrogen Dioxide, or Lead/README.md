@@ -1,9 +1,5 @@
 subpart 5—additional provisions for areas designated nonattainment for sulfur oxides, nitrogen dioxide, or lead
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 7410 of this title.
-
 
 ---
 

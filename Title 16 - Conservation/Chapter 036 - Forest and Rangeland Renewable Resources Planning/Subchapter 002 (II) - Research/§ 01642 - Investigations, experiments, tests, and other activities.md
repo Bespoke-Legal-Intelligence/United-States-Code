@@ -22,7 +22,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (c) Program of research and study relative to health and productivity of domestic forest ecosystems; advisory committee; reports
 
-(1) The Secretary, acting through the United States Forest Service, shall establish not laterthan 180 days after October 24, 1988, a 10-year program (hereinafter in this subsection referred to as the “Program”) to—
+(1) The Secretary, acting through the United States Forest Service, shall establish not later than 180 days after October 24, 1988, a 10-year program (hereinafter in this subsection referred to as the “Program”) to—
 
 &emsp;(A) increase the frequency of forest inventories in matters that relate to atmospheric pollution and conduct such surveys as are necessary to monitor long-term trends in the health and productivity of domestic forest ecosystems;
 
@@ -285,8 +285,4 @@ Section 2 of Pub. L. 100–521 provided that: “Congress finds that—
 &emsp;“(5) there is an urgent need to expand and better coordinate existing Federal, State, and private research, including research by private industry, to determine the cause of changes in the health and productivity of domestic forest ecosystems and to monitor and evaluate the effects of atmospheric pollutants on such ecosystems; and
 
 &emsp;“(6) such research and monitoring should not impede efforts to control atmospheric pollutants.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1644, 1648 of this title; title 7 section 2276; title 42 section 8852.
 

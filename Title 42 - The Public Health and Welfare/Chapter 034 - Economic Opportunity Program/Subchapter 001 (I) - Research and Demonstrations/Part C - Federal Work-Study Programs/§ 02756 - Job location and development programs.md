@@ -2,7 +2,7 @@
 
 #### (a) Agreements required
 
-(1) The Secretary is authorized to enter into agreements with eligible institutions under which such institution may use not more than 10 percent or $50,000 of its allotment under section 2752 of this title, whichever is less, to establish or expand a program under which such institution, separately or in combination with other eligible institutions, locates and develops jobs, including community service jobs, for currently enrolled students.
+(1) The Secretary is authorized to enter into agreements with eligible institutions under which such institution may use not more than 10 percent or $50,000 of its allotment under section 2752 of this title, whichever is less, to establish or expand a program under which such institution, separately or in combination with other eligible institutions, locates and develops jobs,including community service jobs, for currently enrolled students.
 
 (2) Jobs located and developed under this section shall be jobs that are suitable to the scheduling and other needs of such students and that, to the maximum extent practicable, complement and reinforce the educational programs or vocational goals of such students.
 
@@ -28,7 +28,7 @@ Agreements under subsection (a) of this section shall—
 
 Section was originally enacted, as section 126 of the Economic Opportunity Act of 1964, Pub. L. 88–452, title I, Aug. 20, 1964, 78 Stat. 516. As such, it had been amended by Pub. L. 89–329, title IV, §441(1), Nov. 8, 1965, 79 Stat. 1249.
 
-Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as PartC of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was struck out to accommodate the transferal but the amendment of this section by section 441(1) of Pub. L. 89–329 has not been struck out. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
+Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was struck out to accommodate the transferal but the amendment of this section by section 441(1) of Pub. L. 89–329 has not been struck out. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
 
 #### Prior Provisions
 
@@ -74,9 +74,5 @@ Section 5 of Pub. L. 94–43 provided that:
 
 “(a) The amendment made by the provisions of section 2 of this Act \[amending this section\] shall be effective with respect to appropriations for fiscal years beginning after June 30, 1974.
 
-“(b) Subsections (b) and (d) of section 431 \[now 437\] of the General Education Provisions Act \[section 1232(b) and (d) of Title 20, Education\] shall not operate to delay the effectiveness of regulations issued by the Commissioner of Education to implement the provisions of this Act \[see Short Title of 1975 Amendment note set out under section 2701 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2753, 2756b of this title.
+“(b) Subsections (b) and (d) of section 431 \[now 437\] of the General Education Provisions Act \[section 1232(b)and (d) of Title 20, Education\] shall not operate to delay the effectiveness of regulations issued by the Commissioner of Education to implement the provisions of this Act \[see Short Title of 1975 Amendment note set out under section 2701 of this title\].”
 

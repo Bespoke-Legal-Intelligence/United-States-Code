@@ -12,7 +12,3 @@ A management official of a depository institution or a depository holding compan
 
 1983—Par. (1). Pub. L. 98–181 substituted “primary metropolitan statistical area, the same metropolitan statistical area, or the same consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas” for “standard metropolitan statistical area”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3204, 3205, 3207 of this title.
-

@@ -26,7 +26,7 @@
 
 (3) If the Attorney General or an Assistant Attorney General designated by the Attorney General transmits to an authority head a written finding that the continuation of any hearing under this section with respect to a claim or statement may adversely affect any pending or potential criminal or civil action related to such claim or statement, such hearing shall be immediately stayed and may be resumed only upon written authorization of the Attorney General.
 
-(c)(1) No allegations of liability under section 3802 of this title with respect to any claim made,presented, or submitted by any person shall be referred to a presiding officer under paragraph (2) of subsection (b) if the reviewing official determines that—
+(c)(1) No allegations of liability under section 3802 of this title with respect to any claim made, presented, or submitted by any person shall be referred to a presiding officer under paragraph (2) of subsection (b) if the reviewing official determines that—
 
 &emsp;(A) an amount of money in excess of $150,000; or
 
@@ -100,7 +100,7 @@
 
 (2) At any time after receiving a notice under paragraph (2)(B) of subsection (d), the person receiving such notice shall be entitled to obtain all exculpatory information in the possession of the investigating official or the reviewing official relating to the allegations contained in such notice. The provisions of subparagraph (B) of paragraph (1) do not apply to any document, transcript, record, or other material, or any portion thereof, in which such exculpatory information is contained.
 
-(f) Any hearing commenced under paragraph (2) of subsection (d) shall be conducted by thepresiding officer on the record in order to determine—
+(f) Any hearing commenced under paragraph (2) of subsection (d) shall be conducted by the presiding officer on the record in order to determine—
 
 &emsp;(1) the liability of a person under section 3802 of this title; and
 
@@ -136,7 +136,7 @@
 
 &emsp;&emsp;(ii) be responsible to or subject to the supervision or direction of the investigating official or the reviewing official.
 
-&emsp;(D) Procedures to ensure that the investigating official and the reviewing official do not participate or advise in the decision required under subsection (h) of this section or the review of the decision by the authority head under subsection (i) of this section, except as provided in subsection (j) of this section.
+&emsp;(D) Procedures to ensure that the investigating official and the reviewing official do not participate or advise in the decision requiredunder subsection (h) of this section or the review of the decision by the authority head under subsection (i) of this section, except as provided in subsection (j) of this section.
 
 &emsp;(E) The provision to any person alleged to be liable under section 3802 of this title of opportunities to present such person's case through oral or documentary evidence, to submit rebuttal evidence, and to conduct such cross-examination as may be required for a full and true disclosure of the facts.
 
@@ -164,7 +164,7 @@
 
 &emsp;(C) in such other place as may be agreed upon by such person and the presiding officer who will conduct such hearing.
 
-(h) The presiding officer shall issue a written decision, including findings and determinations, after the conclusion of the hearing. Such decision shall include the findings of fact and conclusions of law which the presiding officer relied upon in determining whether a person is liable under this chapter. The presiding officer shall promptly send to each party to the hearing a copy of such decision and a statement describing the right of any person determined to be liableunder section 3802 of this title to appeal the decision of the presiding officer to the authority head under paragraph (2) of subsection (i).
+(h) The presiding officer shall issue a written decision, including findings and determinations, after the conclusion of the hearing. Such decision shall include the findings of fact and conclusions of law which the presiding officer relied upon in determining whether a person is liable under this chapter. The presiding officer shall promptly send to each party to the hearing a copy of such decision and a statement describing the right of any person determined to be liable under section 3802 of this title to appeal the decision of the presiding officer to the authority head under paragraph (2) of subsection (i).
 
 (i)(1) Except as provided in paragraph (2) of this subsection and section 3805 of this title, the decision, including the findings and determinations, of the presiding officer issued under subsection (h) of this section are final.
 
@@ -178,7 +178,7 @@
 
 (j) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under section 3802 of this title against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
 
-(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, title II, §204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §110(<i>o</i>), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 106–78, title VII, §752(b)(13), Oct. 22, 1999, 113 Stat. 1169.)
+(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, titleII, §204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §110(<i>o</i>), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 106–78, title VII, §752(b)(13), Oct. 22, 1999, 113 Stat. 1169.)
 
 #### References in Text
 
@@ -215,8 +215,4 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L. 103–448, set out as a note under section 1755 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1352, 3801, 3802, 3804, 3805, 3806, 3807, 3808, 3809 of this title; title 42 section 7385e; title 50 App. sections 1989b–4, 1989c–5.
 

@@ -76,13 +76,9 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 251 of this title.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
 
 #### Termination of Authority To Issue Solicitations for Purchases of Commercial Items in Excess of Simplified Acquisition Threshold
 
 Authority to issue solicitations for purchases of commercial items in excess of simplified acquisition threshold pursuant to special simplified procedures authorized by subsec. (a) of this section to expire three years after date certain amendments by section 4202 of Pub. L. 104–106 take effect pursuant to section 4401(b) of Pub. L. 104–106, set out as a note under section 251 of this title, see section 4202(e) of Pub. L. 104–106, set out as a note under section 2304 of Title 10, Armed Forces.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 252b, 253, 428a of this title; title 6 sections 393, 425; title 10 sections 2302b, 2304; title 20 section 1018a.
 

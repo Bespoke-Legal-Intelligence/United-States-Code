@@ -26,7 +26,3 @@ The words “Effective July 1, 1987” are omitted as executed. The words after 
 
 1998—Pub. L. 105–178 amended section catchline and text generally. Prior to amendment, text read as follows: “An individual operating a commercial motor vehicle may have only one driver's license at any time, except during the 10-day period beginning on the date the individual is issued a driver's license.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 521, 31304 of this title.
-

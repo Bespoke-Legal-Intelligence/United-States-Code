@@ -40,7 +40,3 @@ Each environmental assessment prepared under subsection (a) of this section shal
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10243 of this title.
-

@@ -78,7 +78,3 @@ The Commission shall submit an annual report to the Secretary identifying its ex
 
 (Pub. L. 103–433, title XII, §1207, Oct. 31, 1994, 108 Stat. 4522.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410bbb–2 of this title.
-

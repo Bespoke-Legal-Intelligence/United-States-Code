@@ -54,7 +54,3 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 93–43 effective June 18, 1973, see section 10(a) of Pub. L. 93–43, set out as an Effective Date note under section 2400 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2402 of this title.
-

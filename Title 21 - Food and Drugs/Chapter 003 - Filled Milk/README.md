@@ -17,10 +17,6 @@ By virtue of act June 25, 1938, ch. 675, §902(c), 52 Stat. 1059 \[section 392(b
 
 General provisions, see sections 401 to 404 of Title 7, Agriculture.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 392 of this title.
-
 
 ---
 

@@ -30,7 +30,7 @@ As used in this part:
 
 #### (3) Distressed loan
 
-&emsp;The term “distressed loan” means a loan that the borrower does not have the financial capacity to pay according to its terms and that exhibits one or more of the following characteristics:
+&emsp;The term “distressed loan” means a loan that the borrower does not have the financialcapacity to pay according to its terms and that exhibits one or more of the following characteristics:
 
 &emsp;&emsp;(A) The borrower is demonstrating adverse financial and repayment trends.
 
@@ -190,7 +190,7 @@ The time limitation prescribed in subsection (b)(2) of this section, and the req
 
 Each Farm Credit Bank, on request of any production credit association, may assist the association in restructuring loans under this section.
 
-(Pub. L. 92–181, title IV, §4.14A, as added Pub. L. 100–233, title I, §102(a), Jan. 6, 1988, 101 Stat. 1574; amended Pub. L. 100–399, title I, §102(a)–(f), Aug. 17, 1988, 102 Stat. 990; Pub. L. 104–105, title II, §208(a), Feb. 10, 1996, 110 Stat. 173.)
+(Pub. L. 92–181, title IV, §4.14A, as added Pub. L. 100–233, title I, §102(a), Jan. 6, 1988, 101 Stat. 1574;amended Pub. L. 100–399, title I, §102(a)–(f), Aug. 17, 1988, 102 Stat. 990; Pub. L. 104–105, title II, §208(a), Feb. 10, 1996, 110 Stat. 173.)
 
 #### Amendments
 
@@ -215,8 +215,4 @@ Amendment by section 102(b), (f) of Pub. L. 100–399 effective immediately afte
 #### Sense of Congress
 
 Section 102(b) of Pub. L. 100–233 provided that: “It is the sense of Congress that the banks and associations (except banks for cooperatives) operating under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) should administer distressed loans to farmers with the objective of using the loan guarantee programs of the Farmers Home Administration and other loan restructuring measures, including participation in interest rate buy-down programs that are Federally or State funded, and other Federal and State sponsored financial assistance programs that offer relief to financially distressed farmers, as alternatives to foreclosure, considering the availability and appropriateness of such programs on a case-by-case basis.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2201, 2202b, 2202c, 2267, 2268, 2279aa–9 of this title.
 

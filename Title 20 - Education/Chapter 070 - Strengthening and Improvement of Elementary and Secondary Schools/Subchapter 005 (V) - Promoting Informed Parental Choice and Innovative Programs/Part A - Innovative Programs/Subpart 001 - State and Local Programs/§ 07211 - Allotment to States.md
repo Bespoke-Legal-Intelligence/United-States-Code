@@ -6,7 +6,7 @@ From the sums appropriated to carry out this part for each fiscal year and not r
 
 #### (b) Reservation
 
-From the sums appropriated to carry out this part for each fiscal year, the Secretary shall reserve not more than 1 percent for payments to the outlying areas, to be allotted in accordance with their respective needs for assistance under this part.
+From the sums appropriated to carry out this part for each fiscal year, the Secretary shall reserve not more than 1 percent for payments tothe outlying areas, to be allotted in accordance with their respective needs for assistance under this part.
 
 (Pub. L. 89–10, title V, §5111, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1777.)
 
@@ -15,8 +15,4 @@ From the sums appropriated to carry out this part for each fiscal year, the Secr
 A prior section 7211, Pub. L. 89–10, title V, §5111, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3694, related to innovative programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 5111 of Pub. L. 89–10 was classified to section 3181 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7211a of this title.
 

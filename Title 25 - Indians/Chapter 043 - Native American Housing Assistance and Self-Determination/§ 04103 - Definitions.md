@@ -242,7 +242,3 @@ Par. (12)(C)(i)(II). Pub. L. 105–276, §595(e)(2), substituted “705” for �
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 11905.
-

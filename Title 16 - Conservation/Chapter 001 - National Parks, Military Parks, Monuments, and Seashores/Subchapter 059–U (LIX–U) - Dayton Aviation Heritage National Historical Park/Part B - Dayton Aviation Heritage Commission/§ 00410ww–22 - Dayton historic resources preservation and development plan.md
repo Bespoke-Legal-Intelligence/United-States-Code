@@ -26,15 +26,11 @@ The plan referred to in subsection (a) of this section shall—
 
 &emsp;(9) establish standards and criteria applicable to the construction, preservation, restoration, alteration, and use of the properties among such resources;
 
-&emsp;(10) establish an index which shall contain documentary evidence of historical and cultural significance and which includes property in the Miami Valley associated with theWright brothers, the history of aviation, or Paul Laurence Dunbar.
+&emsp;(10) establish an index which shall contain documentary evidence of historical and cultural significance and which includes property in the Miami Valley associated with the Wright brothers, the history of aviation, or Paul Laurence Dunbar.
 
 #### (c) Consultation
 
 In developing the plan, the Commission shall consult with appropriate officials of any local government or Federal or State agency which has jurisdiction over historic aviation resources in the Miami Valley area. The Commission shall also consult with property owners and business, historic, professional, neighborhood, and citizen organizations affected by the actions proposed in the plan.
 
 (Pub. L. 102–419, title II, §202, Oct. 16, 1992, 106 Stat. 2145.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410ww–2, 410ww–5, 410ww–23 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) President's budget
 
-Beginning with fiscal year 1992, the President's budget shall reflect the costs of directloan and loan guarantee programs. The budget shall also include the planned level of new direct loan obligations or loan guarantee commitments associated with each appropriations request.
+Beginning with fiscal year 1992, the President's budget shall reflect the costs of direct loan and loan guarantee programs. The budget shall also include the planned level of new direct loan obligations or loan guarantee commitments associated with each appropriations request.
 
 #### (b) Appropriations required
 
@@ -50,7 +50,7 @@ A prior section 504 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, w
 
 #### Amendments
 
-<b>1997</b>—Subsec. (b)(1). Pub. L. 105–33, §10117(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “appropriations of budget authority to cover their costs are made in advance;”.
+1997—Subsec. (b)(1). Pub. L. 105–33, §10117(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “appropriations of budget authority to cover their costs are made in advance;”.
 
 Subsec. (b)(2). Pub. L. 105–33, §10117(b)(2), substituted “has been provided in advance in an appropriations Act” for “is enacted”.
 
@@ -59,8 +59,4 @@ Subsec. (c). Pub. L. 105–33, §10117(b)(3), substituted “Subsections (b) and
 Subsec. (d)(1). Pub. L. 105–33, §10117(b)(4), substituted “modify outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments)” for “directly or indirectly alter the costs of outstanding direct loans and loan guarantees”.
 
 Subsec. (e). Pub. L. 105–33, §10117(b)(5), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “A direct loan obligation or loan guarantee commitment shall not be modified in a manner that increases its cost unless budget authority for the additional cost is appropriated, or is available out of existing appropriations or from other budgetary resources.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 661d of this title; title 10 section 4555; title 16 section 1854; title 22 sections 2195, 2197; title 31 section 3711; title 42 sections 254b, 4822; title 45 section 822.
 

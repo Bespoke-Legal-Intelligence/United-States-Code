@@ -4,7 +4,3 @@ All work in connection with the operation or services provided by the Corporatio
 
 (Pub. L. 93–236, title VII, §707, as added Pub. L. 97–35, title XI, §1143(a), Aug. 13, 1981, 95 Stat. 665.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 741 of this title.
-

@@ -50,7 +50,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(13) include a description of the commercial, recreational, and charter fishing sectors which participate in the fishery and, to the extent practicable, quantify trends in landings of the managed fishery resource by the commercial, recreational, and charter fishing sectors; and
 
-&emsp;(14) to the extent that rebuilding plans or other conservation and management measures which reduce the overall harvest in a fishery are necessary, allocate any harvest restrictions or recovery benefits fairly and equitablyamong the commercial, recreational, and charter fishing sectors in the fishery.
+&emsp;(14) to the extent that rebuilding plans or other conservation and management measures which reduce the overall harvest in a fishery are necessary, allocate any harvest restrictions or recovery benefits fairly and equitably among the commercial, recreational, and charter fishing sectors in the fishery.
 
 #### (b) Discretionary provisions
 
@@ -116,7 +116,7 @@ Proposed regulations which the Council deems necessary or appropriate for the pu
 
 (1)(A) A Council may not submit and the Secretary may not approve or implement before October 1, 2002, any fishery management plan, plan amendment, or regulation under this chapter which creates a new individual fishing quota program.
 
-(B) Any fishery management plan, plan amendment, or regulation approved by the Secretary on or after January 4, 1995, which creates any new individual fishing quota program shall be repealed and immediately returned by the Secretary to the appropriate Council and shall not be resubmitted, reapproved, or implemented during the moratorium set forth in subparagraph (A).
+(B) Any fishery management plan, plan amendment, or regulation approved by the Secretary on or after January 4, 1995, which creates any new individual fishing quota program shall be repealed and immediately returned by the Secretary to the appropriate Council and shall not be resubmitted, reapproved, or implementedduring the moratorium set forth in subparagraph (A).
 
 (2)(A) No provision of law shall be construed to limit the authority of a Council to submit and the Secretary to approve the termination or limitation, without compensation to holders of any limited access system permits, of a fishery management plan, plan amendment, or regulation that provides for a limited access system, including an individual fishing quota program.
 
@@ -242,7 +242,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(b)\], Dec. 21, 2000, 114 S
 
 &emsp;“(2) sets cumulative trip limit periods, up to 12 months in any calendar year, that allow fishing vessels a reasonable opportunity to harvest the full amount of the associated trip limits.
 
-> Notwithstanding subsection (a) \[amending this section and section 1883 of this title\], the Gulf of Mexico Fishery Management Council may develop a biological, economic, and social profile of any fishery under its jurisdiction that may be considered for management under a quota management system, including the benefits and consequences of the quota management systems considered. The North Pacific Fishery Management Council shall examine the fisheries under its jurisdiction, particularly the Gulf of Alaska groundfish and Bering Sea crab fisheries, to determine whether rationalization is needed. In particular, the North Pacific Council shall analyze individual fishing quotas, processor quotas, cooperatives, and quotas held by communities. The analysis should include an economic analysis of the impact of all options on communities and processors as well as the fishing fleets. The North Pacific Council shall present its analysis to the appropriations and authorizing committees of the Senate and House of Representatives in a timely manner.”
+> Notwithstanding subsection (a) \[amending this section and section 1883 of this title\], the Gulf of Mexico Fishery Management Council may develop a biological, economic, and social profile of any fishery under its jurisdiction that may be considered for management under a quota management system, including the benefits and consequences of the quota management systemsconsidered. The North Pacific Fishery Management Council shall examine the fisheries under its jurisdiction, particularly the Gulf of Alaska groundfish and Bering Sea crab fisheries, to determine whether rationalization is needed. In particular, the North Pacific Council shall analyze individual fishing quotas, processor quotas, cooperatives, and quotas held by communities. The analysis should include an economic analysis of the impact of all options on communities and processors as well as the fishing fleets. The North Pacific Council shall present its analysis to the appropriations and authorizing committees of the Senate and House of Representatives in a timely manner.”
 
 #### Implementation of Amendments to Plans Required by Section 108(a) of Pub. L. 104–297
 
@@ -282,15 +282,11 @@ Section 108(f)(1) to (5) of Pub. L. 104–297, as amended by Pub. L. 104–208, 
 
 “(4) The Secretary of Commerce shall, in consultation with the National Academy of Sciences, the Councils, the fishing industry, affected States, conservation organizations and other interested persons, establish two individual fishing quota review groups to assist in the preparation of the report, which shall represent: (A) Alaska, Hawaii, and the other Pacific coastal States; and (B) Atlantic coastal States and the Gulf of Mexico coastal States. The Secretary shall, to the extent practicable, achieve a balanced representation of viewpoints among the individuals on each review group. The review groups shall be deemed to be advisory panels under section 302(g) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1852(g)\], as amended by this Act.
 
-“(5) The Secretary of Commerce, in consultation with the National Academy of Sciences and the Councils, shall conduct public hearings in each Council region to obtain comments on individual fishing quotas for use by the National Academy of Sciences in preparing the report required by this subsection. The National Academy of Sciences shall submit a draft report to the Secretary of Commerce by January 1, 1998. The Secretary of Commerce shall publish in the Federal Register a notice and opportunity for public comment on the draft of the report, or any revision thereof. A detailed summary of comments received and views presented at the hearings, including any dissenting views, shall be included by the National Academy of Sciences in the final report.”
+“(5) The Secretary of Commerce, in consultation with the National Academy of Sciences and the Councils, shall conduct public hearings in each Council region to obtain comments on individual fishing quotas for use by the National Academy of Sciences in preparing the report required by this subsection. The National Academy of Sciences shall submit a draft report to the Secretary of Commerce by January 1, 1998. The Secretary of Commerce shall publish in the Federal Register a notice and opportunity for public comment on the draft of the report, or any revision thereof. A detailed summary of comments received and views presented at the hearings, including any dissenting views, shall be includedby the National Academy of Sciences in the final report.”
 
 #### Existing Quota Plans
 
 Section 108(i) of Pub. L. 104–297 provided that: “Nothing in this Act \[see Short Title of 1996 Amendment note under section 1801 of this title\] or the amendments made by this Act shall be construed to require a reallocation of individual fishing quotas under any individual fishing quota program approved by the Secretary before January 4, 1995.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 773c, 1821, 1852, 1854, 1855, 1862, 1881, 1883 of this title; title 46 App. section 1274.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

@@ -18,7 +18,7 @@ Labor performed or improvements made upon or for the benefit of such mining clai
 
 #### (c) Withdrawal or reservation
 
-Any withdrawal or reservation made after the original location of such mining claim affecting land covered by such mining claim is modified and amended so that the effect thereof upon such mining claim shall be the same as if such mining claim had been located upon lands of the United States, which, subsequent to July 31, 1939, and prior to the date of such withdrawal, were subject to location under the mining laws of the United States.
+Any withdrawal or reservation made after the original location of such mining claim affecting land covered by such mining claim is modifiedand amended so that the effect thereof upon such mining claim shall be the same as if such mining claim had been located upon lands of the United States, which, subsequent to July 31, 1939, and prior to the date of such withdrawal, were subject to location under the mining laws of the United States.
 
 (Aug. 12, 1953, ch. 405, §1, 67 Stat. 539.)
 
@@ -27,8 +27,4 @@ Any withdrawal or reservation made after the original location of such mining cl
 The mining laws of the United States, referred to in subsecs. (a) and (c), are classified generally to this title.
 
 For definition of “mineral leasing laws”, referred to in subsec. (a)(1) to (3), see section 505 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 502, 504 of this title; title 42 section 2098.
 

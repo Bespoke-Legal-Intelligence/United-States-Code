@@ -10,7 +10,3 @@ All property acquired pursuant to this section shall become a part of the Great 
 
 1969—Pub. L. 91–108 provided for a modified route for the entrance road, changing it to near the intersection at White Oak Church of North Carolina Routes Numbered 1338 and 1346 from a point on North Carolina Highway Numbered 107 close to its point of interchange with Interstate Route Numbered 40, near Hepco, North Carolina, for construction of an interchange between the entrance road and State Routes 1338 and 1346, and acceptance of a donation of land needed for the interchange; and increased the entrance road from a length of four and two-tenths mile aggregating five hundred and twenty-five acres of land to a length of five and two-tenths mile aggregating six hundred and fifty acres, respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 403h–13 of this title.
-

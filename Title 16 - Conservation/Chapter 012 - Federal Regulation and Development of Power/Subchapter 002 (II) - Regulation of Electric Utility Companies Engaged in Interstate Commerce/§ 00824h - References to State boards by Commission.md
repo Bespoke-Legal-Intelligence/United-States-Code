@@ -6,7 +6,7 @@ The Commission may refer any matter arising in the administration of this subcha
 
 #### (b) Cooperation with State commissions
 
-The Commission may confer with any State commission regarding the relationship between rate structures, costs, accounts, charges, practices, classifications, and regulations of public utilities subject to the jurisdiction of such Statecommission and of the Commission; and the Commission is authorized, under such rules and regulations as it shall prescribe, to hold joint hearings with any State commission in connection with any matter with respect to which the Commission is authorized to act. The Commission is authorized in the administration of this chapter to avail itself of such cooperation, services, records, and facilities as may be afforded by any State commission.
+The Commission may confer with any State commission regarding the relationship between rate structures, costs, accounts, charges, practices, classifications, and regulations of public utilities subject to the jurisdiction of such State commission and of the Commission; and the Commission is authorized, under such rules and regulations as it shall prescribe, to hold joint hearings with any State commission in connection with any matter with respect to which the Commission is authorized to act. The Commission is authorized in the administration of this chapter to avail itself of such cooperation, services, records, and facilities as may be afforded by any State commission.
 
 #### (c) Availability of information and reports to State commissions; Commission experts
 
@@ -19,8 +19,4 @@ The Commission shall make available to the several State commissions such inform
 Federal Power Commission terminated and its functions with regard to establishment, review, and enforcement of rates and charges for transmission or sale of electric energy, including determinations on construction work in progress under this subchapter transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(B) and 7293 of Title 42, The Public Health and Welfare.
 
 Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 839f of this title.
 

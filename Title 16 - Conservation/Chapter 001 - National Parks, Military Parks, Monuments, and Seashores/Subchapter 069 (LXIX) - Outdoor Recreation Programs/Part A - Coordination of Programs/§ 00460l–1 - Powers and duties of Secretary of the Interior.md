@@ -80,7 +80,3 @@ Report on Study.—Not later than 18 months after the date of the enactment of t
 
 Pub. L. 89–616, Oct. 3, 1966, 80 Stat. 867, directed Secretary of the Interior to study, investigate, and formulate recommendations on feasibility and desirability of establishing all or parts of Connecticut River Valley from its source to its mouth, in States of Connecticut, Massachusetts, Vermont, and New Hampshire, as a Connecticut River National Recreation Area and to submit to President, within two years after Oct. 3, 1966, a report of his findings and recommendations, with President to submit to Congress such recommendations, including legislation, as he deemed appropriate.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460<i>l</i>–2 of this title.
-

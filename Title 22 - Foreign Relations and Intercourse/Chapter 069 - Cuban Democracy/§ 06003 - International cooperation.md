@@ -2,7 +2,7 @@
 
 #### (a) Cuban trading partners
 
-The President should encourage the governments of countries that conduct trade with Cuba to restrict their trade and credit relations with Cuba in a manner consistent with the purposes of this chapter.
+The President should encourage the governments of countries that conduct trade with Cubato restrict their trade and credit relations with Cuba in a manner consistent with the purposes of this chapter.
 
 #### (b) Sanctions against countries assisting Cuba
 
@@ -49,8 +49,4 @@ The Arms Export Control Act, referred to in subsec. (b)(1)(A), is Pub. L. 90–6
 #### Amendments
 
 1996—Subsec. (b)(2). Pub. L. 104–114, §102(f), added subpar. (B), redesignated former subpar. (B) as (C), and inserted concluding provisions “As used in this paragraph, the term ‘agency or instrumentality of the Government of Cuba’ means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, with each reference in such section to ‘a foreign state’ deemed to be a reference to ‘Cuba’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6032, 6064 of this title.
 

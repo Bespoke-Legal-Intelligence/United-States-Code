@@ -48,7 +48,3 @@ Section 253(b) of the Help America Vote Act of 2002, referred to in subsec. (a),
 
 The National Voter Registration Act of 1993, referred to in subsec. (e), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, as amended, which is classified principally to subchapter I–H (§1973gg et seq.) of chapter 20 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15401 of this title.
-

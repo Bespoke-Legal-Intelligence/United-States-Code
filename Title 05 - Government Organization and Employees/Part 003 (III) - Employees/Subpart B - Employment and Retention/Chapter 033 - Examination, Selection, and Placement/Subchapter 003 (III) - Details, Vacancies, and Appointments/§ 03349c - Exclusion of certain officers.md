@@ -20,7 +20,3 @@ Sections 3345 through 3349b shall not apply to—
 
 Section effective 30 days after Oct. 21, 1998, and applicable to any office that becomes vacant after such effective date, with certain exceptions, see section 151(d) of Pub. L. 105–277, set out as a note under section 3345 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3348, 3349, 3349d of this title.
-

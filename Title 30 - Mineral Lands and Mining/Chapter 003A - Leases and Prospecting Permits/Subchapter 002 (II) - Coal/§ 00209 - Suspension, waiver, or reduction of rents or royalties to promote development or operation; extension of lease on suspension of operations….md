@@ -6,7 +6,7 @@ The Secretary of the Interior, for the purpose of encouraging the greatest ultim
 
 #### Amendments
 
-1981—Pub. L. 97–78 inserted reference to gilsonite (including all vein-type solid hydrocarbons) and inserted proviso that, in order to promote development and the maximum production of tar sand, at the request of the lessee, the Secretary review, prior to commencement of commercial operations, the royalty rates established in each combined hydrocarbon lease issued in special tar sand areas, and that, for purposes of this section, “tar sand” means any consolidated or unconsolidated rock (other than coal, oil shale, or gilsonite) that either contains a hydrocarbonaceous material with a gas-free viscosity, at original reservoir temperature, greater than 10,000 centipoise, or contains a hydrocarbonaceous material and is produced by mining or quarrying.
+1981—Pub. L. 97–78 inserted reference to gilsonite (including all vein-type solid hydrocarbons) and inserted proviso that, in order to promote development and the maximum production of tar sand, at the request of the lessee, the Secretary review, prior to commencement ofcommercial operations, the royalty rates established in each combined hydrocarbon lease issued in special tar sand areas, and that, for purposes of this section, “tar sand” means any consolidated or unconsolidated rock (other than coal, oil shale, or gilsonite) that either contains a hydrocarbonaceous material with a gas-free viscosity, at original reservoir temperature, greater than 10,000 centipoise, or contains a hydrocarbonaceous material and is produced by mining or quarrying.
 
 1976—Pub. L. 94–377 inserted sentence at end that nothing in this section shall be construed as granting to the Secretary authority to waive, suspend, or reduce advance royalties.
 
@@ -17,8 +17,4 @@ The Secretary of the Interior, for the purpose of encouraging the greatest ultim
 #### Savings Provision
 
 See note set out under section 181 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 188, 1272 of this title; title 10 sections 7421, 7435.
 

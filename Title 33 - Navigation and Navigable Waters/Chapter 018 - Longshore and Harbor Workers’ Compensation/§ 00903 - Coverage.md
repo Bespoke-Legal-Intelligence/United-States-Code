@@ -38,7 +38,7 @@ Notwithstanding any other provision of law, any amounts paid to an employee for 
 
 1996—Subsec. (d)(3)(B). Pub. L. 104–324 inserted before period at end “as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title”.
 
-1984—Subsec. (a). Pub. L. 98–426, §3(a), inserted introductory language relating to exceptions provided forelsewhere in this section, redesignated existing par. (1) as subsec. (b), and struck out existing par. (2) which had excepted from coverage masters and crew members or persons engaged by such masters or crew members to load, unload, or repair vessels under 18 tons net.
+1984—Subsec. (a). Pub. L. 98–426, §3(a), inserted introductory language relating to exceptions provided for elsewhere in this section, redesignated existing par. (1) as subsec. (b), and struck out existing par. (2) which had excepted from coverage masters and crew members or persons engaged by such masters or crew members to load, unload, or repair vessels under 18 tons net.
 
 Subsec. (b). Pub. L. 98–426, §3(a), redesignated as subsec. (b) provisions formerly set out in subsec. (a)(2). Former subsec. (b) redesignated (c).
 
@@ -59,8 +59,4 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 #### District of Columbia
 
 The Longshoremen's and Harbor Workers’ Compensation Act \[this chapter\] was made applicable in respect to the injury or death of an employee of an employer carrying on any employment in the District of Columbia, by act May 17, 1928, ch. 612, 45 Stat. 600, as amended.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 8171; title 30 section 932; title 46 section 14305.
 

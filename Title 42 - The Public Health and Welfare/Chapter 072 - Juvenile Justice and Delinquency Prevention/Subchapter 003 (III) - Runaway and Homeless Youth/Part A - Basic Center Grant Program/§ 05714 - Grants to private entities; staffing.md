@@ -1,6 +1,6 @@
 ### §5714. Grants to private entities; staffing
 
-Nothing in this subchapter shall be construed to deny grants to private entities which are fully controlled by private boards or persons but which in other respects meet the requirements of this subchapter and agree to be legally responsible for the operation of the runaway and homeless youth center and the programs, projects, and activities they carry out under this subchapter. Nothing in this subchapter shall give the Federal Government control over the staffing and personnel decisions of facilities receiving Federal funds under this subchapter.
+Nothing in this subchapter shall be construed to deny grants to private entities which are fully controlled by private boards or persons but which in other respects meet the requirements of this subchapter and agree to be legally responsible for the operation of the runaway andhomeless youth center and the programs, projects, and activities they carry out under this subchapter. Nothing in this subchapter shall give the Federal Government control over the staffing and personnel decisions of facilities receiving Federal funds under this subchapter.
 
 (Pub. L. 93–415, title III, §314, Sept. 7, 1974, 88 Stat. 1131; Pub. L. 98–473, title II, §654, Oct. 12, 1984, 98 Stat. 2123; renumbered §317 and amended Pub. L. 100–690, title VII, §§7271(c)(4), 7275(a), Nov. 18, 1988, 102 Stat. 4453, 4457; renumbered §314 and amended Pub. L. 102–586, §3(e), (g)(2)(D), Nov. 4, 1992, 106 Stat. 5022, 5025.)
 

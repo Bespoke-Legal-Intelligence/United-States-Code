@@ -2,13 +2,13 @@
 
 (a)
 
-General.—Not more than $18,000,000 may be appropriated to the Secretary of Transportation for fiscal year 1993, $18,000,000 for fiscal year 1994, $18,540,000 for fiscal year 1995, $19,100,000 for fiscal year 1996, and $19,670,000 for fiscal year 1997 to carry out this chapter (exceptsections 5107(e), 5108(g)(2), 5113, 5115, 5116, and 5119).
+General.—Not more than $18,000,000 may be appropriated to the Secretary of Transportation for fiscal year 1993, $18,000,000 for fiscal year 1994, $18,540,000 for fiscal year 1995, $19,100,000 for fiscal year 1996, and $19,670,000 for fiscal year 1997 to carry out this chapter (except sections 5107(e), 5108(g)(2), 5113, 5115, 5116, and 5119).
 
 (b)
 
 Training of Hazmat Employee Instructors.—(1) There is authorized to be appropriated to the Secretary $3,000,000 for each of fiscal years 1995, 1996, 1997, and 1998 to carry out section 5107(e).
 
-(2)(A) There shall be available to the Secretary for carrying out section 5116(j), from amounts in the account established pursuant to section 5116(i), $250,000 for each of fiscal years 1995, 1996, 1997, and 1998.
+(2)(A) There shall be available to the Secretary for carrying out section 5116(j), fromamounts in the account established pursuant to section 5116(i), $250,000 for each of fiscal years 1995, 1996, 1997, and 1998.
 
 (B) In addition to amounts made available under subparagraph (A), there is authorized to be appropriated to the Secretary for carrying out section 5116(j) $1,000,000 for each of the fiscal years 1995, 1996, 1997, and 1998.
 
@@ -117,8 +117,4 @@ Pub. L. 103–311, §119(b), designated existing provisions as par. (1) and adde
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5107 of this title.
 

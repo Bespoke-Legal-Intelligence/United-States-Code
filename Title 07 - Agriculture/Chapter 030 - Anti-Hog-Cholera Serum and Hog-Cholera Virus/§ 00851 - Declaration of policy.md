@@ -4,7 +4,3 @@ It is declared to be the policy of Congress to insure the maintenance of an adeq
 
 (Aug. 24, 1935, ch. 641, §56, 49 Stat. 781.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 852, 853, 855 of this title.
-

@@ -46,7 +46,7 @@ Details.—
 
 &emsp;(1)
 
-Requests of agencies.—On the request of the head of a Federal agency having charge or control of property owned or occupied by the Federal Government, the Secretary may detail officers and agents designated under this section for the protection of the property and persons on the property.
+Requests of agencies.—On the request of the head of a Federal agency having chargeor control of property owned or occupied by the Federal Government, the Secretary may detail officers and agents designated under this section for the protection of the property and persons on the property.
 
 &emsp;(2)
 
@@ -199,8 +199,4 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Pro
 Pub. L. 107–296, title XVII, §1706(b)(2), Nov. 25, 2002, 116 Stat. 2318, provided that: “The Secretary may delegate authority for the protection of specific buildings to another Federal agency where, in the Secretary's discretion, the Secretary determines it necessary for the protection of that building.”
 
 \[For definition of “Secretary” as used in section 1706(b)(2) of Pub. L. 107–296, set out above, see section 101(13) of Title 6, Domestic Security.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 section 457.
 

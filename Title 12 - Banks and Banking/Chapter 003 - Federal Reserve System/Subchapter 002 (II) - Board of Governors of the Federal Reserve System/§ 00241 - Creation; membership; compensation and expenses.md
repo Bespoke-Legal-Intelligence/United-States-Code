@@ -10,7 +10,7 @@ Section is comprised of first par. of section 10 of act Dec. 23, 1913. Pars. 2�
 
 #### Amendments
 
-1935—Act Aug. 23, 1935, §203(b), increased the appointive membership from six to seven, terminated the membership of the Secretary of the Treasury and the Comptroller of the Currency, raised the tenure from twelve to fourteen years and increased the annual salary from $12,000 to $15,000.
+1935—Act Aug. 23, 1935, §203(b), increased the appointive membership from six to seven, terminated themembership of the Secretary of the Treasury and the Comptroller of the Currency, raised the tenure from twelve to fourteen years and increased the annual salary from $12,000 to $15,000.
 
 #### Change of Name
 
@@ -22,19 +22,9 @@ Act Oct. 15, 1949, ch. 695, §4, 63 Stat. 880, formerly cited as a credit to thi
 
 #### General Accounting Office Study of Conflicts of Interest
 
-Pub. L. 106–102, title VII, §728, Nov. 12, 1999, 113 Stat. 1475, provided that:
+Pub. L. 106–102, title VII, §728, Nov. 12, 1999, 113 Stat. 1475, provided that
 
-“(a)
-
-Study Required.—The Comptroller General of the United States shall conduct a study analyzing the conflict of interest faced by the Board of Governors of the Federal Reserve System between its role as a primary regulator of the banking industry and its role as a vendor of services to the banking and financial services industry.
-
-“(b)
-
-Specific Conflict Required To Be Addressed.—In the course of the study required under subsection (a), the Comptroller General shall address the conflict of interest faced by the Board of Governors of the Federal Reserve System between the role of the Board as a regulator of the payment system, generally, and its participation in the payment system as a competitor with private entities who are providing payment services.
-
-“(c)
-
-Report to the Congress.—Before the end of the 1-year period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], the Comptroller General shall submit a report to the Congress containing the findings and conclusions of the Comptroller General in connection with the study required under this section, together with such recommendations for such legislative or administrative actions as the Comptroller General may determine to be appropriate, including recommendations for resolving any such conflict of interest.”
+the Comptroller General of the United States was to conduct a study analyzing the conflict of interest faced by the Board of Governors of the Federal Reserve System between its role as a primary regulator of the banking industry and its role as a vendor of services to the banking and financial services industry and,before the end of the 1-year period beginning on Nov. 12, 1999, submit a report to the Congress, together with recommendations for such legislative or administrative actions as the Comptroller General determined to be appropriate.
 
 #### Compensation of Board of Governors
 

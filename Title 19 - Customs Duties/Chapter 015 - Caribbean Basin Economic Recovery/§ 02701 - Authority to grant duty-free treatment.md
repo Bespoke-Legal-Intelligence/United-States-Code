@@ -6,7 +6,7 @@ The President may proclaim duty-free treatment (or other preferential treatment)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title” meaning title II of Pub. L. 98–67, Aug. 5,1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this title” meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -97,8 +97,4 @@ NAFTA country.—The term ‘NAFTA country’ means any country with respect to 
 &emsp;“(3)
 
 WTO and wto member.—The terms ‘WTO’ and ‘WTO member’ have the meanings given those terms in section 2 of the Uruguay Round Agreements Act (19 U.S.C. 3501).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2703 of this title.
 

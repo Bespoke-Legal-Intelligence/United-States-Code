@@ -20,7 +20,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary or the Commodity Credit Corporation may award, under a competitive bidding process, contracts for establishing freight agents who shall act on behalf of the Secretary or the Corporation to handle the shipping of commodities financed under this chapter.
+&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary or the Commodity Credit Corporation may award, under a competitive bidding process, contracts for establishing freightagents who shall act on behalf of the Secretary or the Corporation to handle the shipping of commodities financed under this chapter.
 
 #### (C) Avoidance of conflict of interest of contractors
 
@@ -70,7 +70,7 @@
 
 #### (4) Prepositioning
 
-&emsp;Funds made available for fiscal years 2001 through 2007 to carry out subchapters III and III-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each such fiscal year not more than $2,000,000 of such funds may be usedto store agricultural commodities for prepositioning in foreign countries.
+&emsp;Funds made available for fiscal years 2001 through 2007 to carry out subchapters III and III-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each such fiscal year not more than $2,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
 
 #### (d) Timing of shipments
 
@@ -176,7 +176,7 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under section 1691 of this title.
 
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as a note under section 511r of this title.
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under section 940d of this title.
 
 #### Effective Date
 
@@ -189,10 +189,6 @@ Functions of President under subsec. (h) \[now (g)\] of this section delegated t
 #### Preparation of Annual Report
 
 For provisions requiring Food Assistance Policy Council to prepare annual report pursuant to subsec. (g)(1) \[now (f)(1)\] of this section, see Ex. Ord. No. 12752, §3(c), Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1431 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

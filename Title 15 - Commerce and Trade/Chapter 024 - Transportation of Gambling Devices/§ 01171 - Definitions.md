@@ -48,7 +48,3 @@ Act Jan. 2, 1951, which enacted this chapter, is popularly known as the “Gambl
 
 Section 8 of act Jan. 2, 1951, provided that: “If any provision of this Act \[this chapter\] or the application thereof to any person or circumstance is held invalid, such invalidity shall not affect other provisions or applications of the Act \[this chapter\] which can be given effect without the invalid provision or application, and to this end the provisions of this Act \[this chapter\] are declared to be severable.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1173 of this title.
-

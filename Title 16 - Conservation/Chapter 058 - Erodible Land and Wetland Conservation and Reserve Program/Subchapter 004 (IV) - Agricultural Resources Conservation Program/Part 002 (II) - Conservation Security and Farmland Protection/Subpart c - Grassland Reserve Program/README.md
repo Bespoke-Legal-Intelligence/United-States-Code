@@ -4,10 +4,6 @@ subpart c—grassland reserve program
 
 Section 2401 of Pub. L. 107–171, which directed that subchapter C (this subpart) be added at the end of chapter 2 of the Food Security Act of 1985, was executed by adding subchapter C at the end of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (this part) to reflect the probable intent of Congress.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 3838a, 3841 of this title.
-
 
 ---
 

@@ -8,7 +8,3 @@ Any person who shall, except as permitted by law, willfully resist, prevent, imp
 
 Section 704 of Pub. L. 95–87 also amended section 1114 of Title 18, Crimes and Criminal Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1268 of this title.
-

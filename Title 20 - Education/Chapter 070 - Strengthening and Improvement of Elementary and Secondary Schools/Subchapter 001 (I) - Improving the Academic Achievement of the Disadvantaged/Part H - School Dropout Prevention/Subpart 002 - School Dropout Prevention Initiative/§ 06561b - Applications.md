@@ -50,7 +50,3 @@ To receive—
 
 (Pub. L. 89–10, title I, §1823, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1614.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6561e of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Authorities
 
-The Secretary shall administer the Area in accordance with this part. Only those lands within the Area under the direct jurisdiction of the Secretary shall be administered in accordance with the provisions of law generally applicable to units of the National Park System. Other lands and waters within the Area shall be administered under State and local laws. In the case of any conflict between the provisions of this part and such generally applicable provisions of law, the provisions of this part shall govern.
+The Secretary shall administer the Area in accordance with this part. Only those lands within the Area under the direct jurisdiction of the Secretary shall be administered in accordancewith the provisions of law generally applicable to units of the National Park System. Other lands and waters within the Area shall be administered under State and local laws. In the case of any conflict between the provisions of this part and such generally applicable provisions of law, the provisions of this part shall govern.
 
 #### (b) State and local authorities
 
@@ -24,7 +24,7 @@ Within the boundaries of the Area, the Secretary is authorized, in consultation 
 
 #### (2) Purpose
 
-&emsp;The purpose of review under paragraph (1) shall be to determine the degree to which actions by local governments are compatible with the purposes of this subchapter. Following the approval of the plan under section 460zz–2 of this title and after a reasonable period of time has elapsed, upon a finding by the Secretary that such plans, laws and ordinances are nonexistent, are otherwise not in conformance with the plan or are not being enforced in a manner consistent with the plan, and if the Secretary determines that there is no feasible alternative available to preventuses which would be substantially incompatible with the plan, the Secretary may exercise the authority available to him under the provisions of paragraph (3).
+&emsp;The purpose of review under paragraph (1) shall be to determine the degree to which actions by local governments are compatible with the purposes of this subchapter. Following the approval of the plan under section 460zz–2 of this title and after a reasonable period of time has elapsed, upon a finding by the Secretary that such plans, laws and ordinances are nonexistent, are otherwise not in conformance with the plan or are not being enforced in a manner consistent with the plan, and if the Secretary determines that there is no feasible alternative available to prevent uses which would be substantially incompatible with the plan, the Secretary may exercise the authority available to him under the provisions of paragraph (3).
 
 #### (3) Enforcement
 

@@ -12,7 +12,7 @@
 
 (b) The Secretary of Labor may issue such regulations as are necessary or appropriate to carry out the purpose of this section.
 
-(Pub. L. 91–173, title IV, §415, as added Pub. L. 92–303, §7, May 19, 1972, 86 Stat. 156; amended Pub. L. 97–119, title I, §104(b)(2), Dec. 29, 1981, 95 Stat. 1639; Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095; Pub. L. 103–296, title I, §108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, §2(b)(3), Nov. 2, 2002, 116 Stat. 1925.)
+(Pub. L. 91–173, title IV, §415, as added Pub. L. 92–303, §7, May 19, 1972, 86 Stat. 156; amended Pub. L. 97–119, title I, §104(b)(2), Dec. 29, 1981, 95 Stat. 1639; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, §108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, §2(b)(3), Nov. 2, 2002, 116 Stat. 1925.)
 
 #### Amendments
 

@@ -24,7 +24,7 @@
 
 &emsp;(C) prohibition of purchases by the Federal Government of telecommunications products of such country;
 
-&emsp;(D) increases in domestic preferences under title III of the Act of March 3, 1933 (41 U.S.C. 10a, et seq.) for purchases by the Federal Government of telecommunications products of such country;
+&emsp;(D) increases in domestic preferences under title III of the Act of March 3, 1933 (41 U.S.C.10a, et seq.) for purchases by the Federal Government of telecommunications products of such country;
 
 &emsp;(E) suspension of any waiver of domestic preferences under title III of the Act of March 3, 1933 (41 U.S.C. 10a, et seq.) which may have been extended to such country pursuant to the Trade Agreements Act of 1979 with respect to telecommunications products or any other products;
 
@@ -52,7 +52,7 @@
 
 #### (d) Modification and termination authority
 
-The President may modify or terminate any action taken under subsection (a) of this sectionif, after taking into consideration the factors described in section 3103(b) of this title, the President determines that changed circumstances warrant such modification or termination.
+The President may modify or terminate any action taken under subsection (a) of this section if, after taking into consideration the factors described in section 3103(b) of this title, the President determines that changed circumstances warrant such modification or termination.
 
 #### (e) Report
 
@@ -73,8 +73,4 @@ The Trade Agreements Act of 1979, referred to in subsec. (b)(1)(E), is Pub. L. 9
 #### Delegation of Functions
 
 Functions of President under subsec. (e) of this section relating to reports to Congressional committees delegated to United States Trade Representative, see section 1–401 of Ex. Ord. No. 21661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3107, 3108 of this title.
 

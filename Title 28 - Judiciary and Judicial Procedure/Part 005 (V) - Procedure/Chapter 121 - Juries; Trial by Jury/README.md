@@ -37,10 +37,6 @@
 
 1968—Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 53, substituted “Declaration of policy” for “Qualifications” as item 1861, “Discrimination prohibited” for “Exemptions” as item 1862, “Plan for random jury selection” for “Exclusion or excuse from service” as item 1863, “Drawing of names from the master jury wheel; completion of juror qualification form” for “Manner of drawing; jury commissioners and their compensation” as item 1864, “Qualifications for jury service” for “Apportionment within district; additional jury commissioners” as item 1865, “Selection and summoning of jury panels” for “Special petit juries; talesmen from bystanders” as item 1866, “Challenging compliance with selection procedures” for “Summoning jurors” as item 1867, “Maintenance and inspection of records” for “Disqualification of marshal or deputy” as item 1868, “Definitions” for “Frequency of service” as item 1869, and reenacted items 1870–1874 without change.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 5 section 8101.
-
 
 ---
 

@@ -4,15 +4,17 @@
 
 The Secretary of State shall transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, by April 30 of each year, a full and complete report providing—
 
-&emsp;(1) detailed assessments with respect to each foreign country—
+&emsp;(1)(A) detailed assessments with respect to each foreign country—
 
-&emsp;&emsp;(A) in which acts of international terrorism occurred which were, in the opinion of the Secretary, of major significance;
+&emsp;&emsp;(i) in which acts of international terrorism occurred which were, in the opinion of the Secretary, of major significance;
 
-&emsp;&emsp;(B) about which the Congress was notified during the preceding five years pursuant to section 2405(j) of the Appendix to title 50; and
+&emsp;&emsp;(ii) about which the Congress was notified during the preceding five years pursuant to section 2405(j) of the Appendix to title 50; and
 
-&emsp;&emsp;(C) which the Secretary determines should be the subject of such report;
+&emsp;&emsp;(iii) which the Secretary determines should be the subject of such report; and
 
-&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, and any other known international terrorist group which the Secretary determines should be the subject of such report;
+&emsp;(B) detailed assessments with respect to each foreign country whose territory is being used as a sanctuary for terrorists or terrorist organizations;
+
+&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8, and any other known international terrorist group which the Secretary determines should be the subject of such report;
 
 &emsp;(3) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the investigation or prosecution of an act of international terrorism against United States citizens or interests, information on—
 
@@ -26,7 +28,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 The report required under subsection (a) of this section should to the extent feasible include (but not be limited to)—
 
-&emsp;(1) with respect to subsection (a)(1)—
+&emsp;(1) with respect to subsection (a)(1)(A) of this section—
 
 &emsp;&emsp;(A) a review of major counterterrorism efforts undertaken by countries which are the subject of such report, including, as appropriate, steps taken in international fora;
 
@@ -38,25 +40,57 @@ The report required under subsection (a) of this section should to the extent fe
 
 &emsp;&emsp;&emsp;(ii) diplomatic support through diplomatic recognition and use of the diplomatic pouch;
 
-&emsp;&emsp;&emsp;(iii) providing sanctuary to terrorists or terrorist groups; and
+&emsp;&emsp;&emsp;(iii) providing sanctuary to terrorists or terrorist groups;
 
-&emsp;&emsp;&emsp;(iv) the positions (including voting records) on matters relating to terrorism in the General Assembly of the United Nations and other international bodies and fora of each country which is the subject of such report; and
+&emsp;&emsp;&emsp;(iv) providing weapons of mass destruction, or assistance in obtaining or developing such weapons, to terrorists or terrorist groups; <sup>1</sup>
 
-&emsp;(2) with respect to subsection (a)(2) of this section, any—
+&emsp;&emsp;&emsp;(v) the positions (including voting records) on matters relating to terrorism in the General Assembly of the United Nations and other international bodies and fora of each country which is the subject of such report;
+
+&emsp;(2) with respect to subsection (a)(1)(B) of this section—
+
+&emsp;&emsp;(A) the extent of knowledge by the government of the country with respect to terroristactivities in the territory of the country; and
+
+&emsp;&emsp;(B) the actions by the country—
+
+&emsp;&emsp;&emsp;(i) to eliminate each terrorist sanctuary in the territory of the country;
+
+&emsp;&emsp;&emsp;(ii) to cooperate with United States antiterrorism efforts; and
+
+&emsp;&emsp;&emsp;(iii) to prevent the proliferation of and trafficking in weapons of mass destruction in and through the territory of the country;
+
+&emsp;(3) <sup>2</sup> with respect to subsection (a)(2) of this section, any—
 
 &emsp;&emsp;(A) significant financial support provided by foreign governments to those groups directly, or provided in support of their activities;
 
 &emsp;&emsp;(B) provisions of significant military or paramilitary training or transfer of weapons by foreign governments to those groups;
 
-&emsp;&emsp;(C) provision of diplomatic recognition or privileges by foreign governments to those groups;
+&emsp;&emsp;(C) efforts by those groups to obtain or develop weapons of mass destruction;
 
-&emsp;&emsp;(D) provision by foreign governments of sanctuary from prosecution to these groups or their members responsible for the commission, attempt, or planning of an act of international terrorism; and
+&emsp;&emsp;(D) provision of diplomatic recognition or privileges by foreign governments to those groups;
 
-&emsp;&emsp;(E) efforts by the United States to eliminate international financial support provided to those groups directly or provided in support of their activities.
+&emsp;&emsp;(E) provision by foreign governments of sanctuary from prosecution to these groups or their members responsible for the commission, attempt, or planning of an act of international terrorism; and
+
+&emsp;&emsp;(F) efforts by the United States to eliminate international financial support provided to those groups directly or provided in support of their activities;
+
+&emsp;(4) <sup>2</sup> a strategy for addressing, and where possible eliminating, terrorist sanctuaries that shall include—
+
+&emsp;&emsp;(A) a description of terrorist sanctuaries, together with an assessment of the priorities of addressing and eliminating such sanctuaries;
+
+&emsp;&emsp;(B) an outline of strategies for disrupting or eliminating the security provided to terrorists by such sanctuaries;
+
+&emsp;&emsp;(C) a description of efforts by the United States to work with other countries in bilateral and multilateral fora to address or eliminate terrorist sanctuaries and disrupt or eliminate the security provided to terrorists by such sanctuaries; and
+
+&emsp;&emsp;(D) a description of long-term goals and actions designed to reduce the conditions that allow the formation of terrorist sanctuaries; and
+
+&emsp;(5) an update of the information contained in the report required to be transmitted to Congress under <sup>3</sup> 7120(b) of the 9/11 Commission Implementation Act of 2004.
+
+&emsp;(3) <sup>4</sup> to the extent practicable, complete statistical information on the number of individuals, including United States citizens and dual nationals, killed, injured, or kidnapped by each terrorist group during the preceding calendar year; and
+
+&emsp;(4) <sup>4</sup> an analysis, as appropriate, of trends in international terrorism, including changes in technology used, methods and targets of attack, demographic information on terrorists, and other appropriate information.
 
 #### (c) Classification of report
 
-(1) Except as provided in paragraph (2), the report required under subsection (a) of this sectionshall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
+(1) Except as provided in paragraph (2), the report required under subsection (a) of this section shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
 
 (2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) of this section in classified form would make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
 
@@ -66,9 +100,27 @@ As used in this section—
 
 &emsp;(1) the term “international terrorism” means terrorism involving citizens or the territory of more than 1 country;
 
-&emsp;(2) the term “terrorism” means premeditated, politically motivated violence perpetrated against noncombatant targets by subnational groups or clandestine agents; and
+&emsp;(2) the term “terrorism” means premeditated, politically motivated violence perpetrated against noncombatant targets by subnational groups or clandestine agents;
 
-&emsp;(3) the term “terrorist group” means any group practicing, or which has significant subgroups which practice, international terrorism.
+&emsp;(3) the term “terrorist group” means any group practicing, or which has significant subgroups which practice, international terrorism;
+
+&emsp;(4) the terms “territory” and “territory of the country” mean the land, waters, and airspace of the country; and
+
+&emsp;(5) the terms “terrorist sanctuary” and “sanctuary” mean an area in the territory of the country—
+
+&emsp;&emsp;(A) that is used by a terrorist or terrorist organization—
+
+&emsp;&emsp;&emsp;(i) to carry out terrorist activities, including training, fundraising, financing, and recruitment; or
+
+&emsp;&emsp;&emsp;(ii) as a transit point; and
+
+&emsp;&emsp;(B) the government of which expressly consents to, or with knowledge, allows, tolerates, or disregards such use of its territory and is not subject to a determination under—
+
+&emsp;&emsp;&emsp;(i) section 2405(j)(1)(A) of the Appendix to title 50;
+
+&emsp;&emsp;&emsp;(ii) section 2371(a) of this title; or
+
+&emsp;&emsp;&emsp;(iii) section 2780(d) of this title.
 
 #### (e) Reporting period
 
@@ -76,9 +128,39 @@ As used in this section—
 
 (2) The report required by subsection (a) of this section to be submitted by March 31, 1988, may be submitted no later than August 31, 1988.
 
-(Pub. L. 100–204, title I, §140, Dec. 22, 1987, 101 Stat. 1347; Pub. L. 101–246, title I, §122, Feb. 16, 1990, 104 Stat. 27; Pub. L. 103–236, title I, §133(b)(1), Apr. 30, 1994, 108 Stat. 395; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §578\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169.)
+(Pub. L. 100–204, title I, §140, Dec. 22, 1987, 101 Stat. 1347; Pub. L. 101–246, title I, §122, Feb. 16, 1990, 104 Stat. 27; Pub. L. 103–236, title I, §133(b)(1), Apr. 30, 1994, 108 Stat. 395; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §578\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 108–458, title VII, §7102(d)(1)–(3), Dec. 17, 2004, 118 Stat. 3777, 3778; Pub. L. 108–487, title VII, §701(a), Dec. 23, 2004, 118 Stat. 3961.)
+
+#### References in Text
+
+\[Section\] 7120(b) of the 9/11 Commission Implementation Act of 2004, referred to in subsec. (b)(5), is section 7120(b) of Pub. L. 108–458, title VII, Dec. 17, 2004, 118 Stat. 3803, which is not classified to the Code.
 
 #### Amendments
+
+2004—Subsec. (a)(1). Pub. L. 108–458, §7102(d)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (a)(2). Pub. L. 108–487, §701(a)(1), inserted “any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction,” after “during the preceding five years,” and “any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8,” after “section 2405(j) of the Appendix to title 50”.
+
+Subsec. (b)(1). Pub. L. 108–458, §7102(d)(2)(A)(i), substituted “subsection (a)(1)(A)” for “subsection (a)(1)” in introductory provisions.
+
+Subsec. (b)(1)(C)(iv). Pub. L. 108–487, §701(a)(2)(A), added cl. (iv) and redesignated former cl. (iv) as (v).
+
+Subsec. (b)(2). Pub. L. 108–458, §7102(d)(2)(A)(ii), (C), added par. (2). Former par. (2), relating to report provisions with respect to subsec. (a)(2), redesignated (3).
+
+Subsec. (b)(3). Pub. L. 108–487, §701(a)(2)(C), added par. (3) relating to statistical information on individuals killed, injured, or kidnapped by terrorist groups.
+
+Pub. L. 108–487, §701(a)(2)(B)(iii), which directed amendment of subsec. (b)(2)(F), as redesignated by Pub. L. 108–487, §701(a)(2)(B)(i), by substituting a semicolon for the period, was probably intended as an amendment to subpar. (F) of subsec. (b)(3) relating to report provisions with respect to subsec. (a)(2), as redesignated by Pub. L. 108–458, §7102(d)(2)(B), and Pub. L. 108–487, §701(a)(2)(B)(i), but could not be executed because of the amendment by Pub. L. 108–458, §7102(d)(2)(D). See below.
+
+Pub. L. 108–458, §7102(d)(2)(B), (D), redesignated par. (2), relating to report provisions with respect to subsec. (a)(2), as (3) and substituted a semicolon for the period at end.
+
+Subsec. (b)(3)(C) to (F). Pub. L. 108–487, §701(a)(2)(B)(i), (ii), which directed amendment of subsec. (b)(2) by adding subpar. (C) and redesignating former subpars. (C) to (E) as (D) to (F), respectively, was executed by making the amendment to subsec. (b)(3) relating to report provisions with respect to subsec. (a)(2) to reflect the probable intent of Congress and the redesignation of subsec. (b)(2) as (b)(3) by Pub. L. 108–458. See above.
+
+Subsec. (b)(4). Pub. L. 108–487, §701(a)(2)(C), added par. (4) relating to analysis of trends in international terrorism.
+
+Pub. L. 108–458, §7102(d)(2)(E), added par. (4) relating to strategy for addressing, and where possible eliminating, terrorist sanctuaries.
+
+Subsec. (b)(5). Pub. L. 108–458, §7102(d)(2)(E), added par. (5).
+
+Subsec. (d)(4), (5). Pub. L. 108–458, §7102(d)(3), added pars. (4) and (5).
 
 1996—Subsec. (a)(3), (4). Pub. L. 104–208, §101(c) \[title V, §578(1)\], added pars. (3) and (4).
 
@@ -88,13 +170,53 @@ Subsec. (c). Pub. L. 104–208, §101(c) \[title V, §578(2)\], designated exist
 
 1990—Subsec. (a). Pub. L. 101–246 substituted “April 30” for “March 31”.
 
+#### Effective Date of 2004 Amendments
+
+Pub. L. 108–487, title VII, §701(b), Dec. 23, 2004, 118 Stat. 3962, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply beginning with the first report under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 \[this section\] that is submitted more than one year after the date of the enactment of this Act \[Dec. 23, 2004\].”
+
+Pub. L. 108–487, title VIII, §801, Dec. 23, 2004, 118 Stat. 3962, provided that: “Except as otherwise expressly provided in this Act, this Act \[enacting sections 403–3g, 403w, 441j to 441j–4, 441m, and 1912 of Title 50, War and National Defense, amending this section and sections 403–4a, 403x, 404n, 1902, 1903, 1910, and 1911 of Title 50, enacting provisions set out as notes under this section, section 873 of Title 21, Food and Drugs, and sections 401, 403–1b, 403–3g, 403–4a, 415b, and 1902 of Title 50, and amending provisions set out as notes under section 8331 of Title 5, Government Organization and Employees, and section 402 of Title 50\] (and the amendments made by this Act) shall take effect on the date of the enactment of this Act \[Dec. 23, 2004\].”
+
+Pub. L. 108–458, title VII, §7102(d)(4), Dec. 17, 2004, 118 Stat. 3778, provided that: “The amendments made by this subsection \[amending this section\] apply with respect to the report required to be transmitted under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f), by April 30, 2006, and by April 30 of each subsequent year.”
+
+Amendment by Pub. L. 108–458 effective Dec. 17, 2004, notwithstanding any other provision of such Act, see section 7122 of Pub. L. 108–458, set out as a note under section 112a of Title 1, General Provisions.
+
+#### Terrorist Sanctuaries
+
+Pub. L. 108–458, title VII, §7102(a), (b), Dec. 17, 2004, 118 Stat. 3776, provided that:
+
+“(a)
+
+Findings.—Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
+
+&emsp;“(1) Complex terrorist operations require locations that provide such operations sanctuary from interference by Government or law enforcement personnel.
+
+&emsp;“(2) A terrorist sanctuary existed in Afghanistan before September 11, 2001.
+
+&emsp;“(3) The terrorist sanctuary in Afghanistan provided direct and indirect value to members of al Qaeda who participated in the terrorist attacks on the United States on September 11, 2001, and in other terrorist operations.
+
+&emsp;“(4) Terrorist organizations have fled to some of the least governed and most lawless places in the world to find sanctuary.
+
+&emsp;“(5) During the 21st century, terrorists are often focusing on remote regions and failing states as locations to seek sanctuary.
+
+“(b)
+
+Sense of Congress on United States Policy on Terrorist Sanctuaries.—It is the sense of Congress that it should be the policy of the United States—
+
+&emsp;“(1) to identify foreign countries that are being used as terrorist sanctuaries;
+
+&emsp;“(2) to assess current United States resources and tools being used to assist foreign governments to eliminate such sanctuaries;
+
+&emsp;“(3) to develop and implement a coordinated strategy to prevent terrorists from using such foreign countries as sanctuaries; and
+
+&emsp;“(4) to work in bilateral and multilateral fora to elicit the cooperation needed to identify and address terrorist sanctuaries that may exist today, but, so far, remain unknown to governments.”
+
 #### Report on Terrorist Activity in Which United States Citizens Were Killed and Related Matters
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VIII, §805\], Nov. 29, 1999, 113 Stat. 1536, 1501A–470, as amended by Pub. L. 107–228, div. A, title II, §216(c), Sept. 30, 2002, 116 Stat. 1367, provided that:
 
 “(a)
 
-In General.—Not later than May 1, 2003, and not later than May 1, 2004, the Secretary of State shall prepare and submit a report, with a classified annex as necessary, to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] regarding terrorist attacks in Israel, in territory administered by Israel, and in territory administered by the Palestinian Authority. The report shall contain the following information:
+In General.—Not later than May 1, 2003, and not later than May 1, 2004, the Secretary of State shall prepare and submit a report, with a classified annex as necessary, to the appropriate congressional committees\[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] regarding terrorist attacks in Israel, in territory administered by Israel, and in territory administered by the Palestinian Authority. The report shall contain the following information:
 
 &emsp;“(1) A list of formal commitments the Palestinian Authority has made to combat terrorism.
 
@@ -140,7 +262,11 @@ Consultation with Other Departments.—The Secretary of State shall, in preparin
 
 Initial Report.—Except as provided in subsection (a)(8), the initial report filed under this section shall cover the period between September 13, 1993 and the date of the report.”
 
-#### Section Referred to in Other Sections
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 
-This section is referred to in section 2656g of this title; title 8 section 1189; title 10 section 2249a; title 26 section 501.
+<i><sup>2</sup></i><i> So in original. Another par. (3) and par. (4) follow par. (5).</i>
+
+<i><sup>3</sup></i><i> So in original. The word “section” probably should appear.</i>
+
+<i><sup>4</sup></i><i> So in original. Another par. (3) and par. (4) precede par. (5).</i>
 

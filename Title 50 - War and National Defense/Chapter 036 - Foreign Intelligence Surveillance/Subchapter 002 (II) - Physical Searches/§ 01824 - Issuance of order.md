@@ -44,7 +44,7 @@ An order approving a physical search under this section shall—
 
 &emsp;&emsp;(B) that, upon the request of the applicant, a specified landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or assistance necessary to accomplish the physical search in such a manner as will protect its secrecy and produce a minimum of interference with the services that such landlord, custodian, or other person is providing the target of the physical search;
 
-&emsp;&emsp;(C) that such landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of Central Intelligence any records concerning the search or the aid furnished that such person wishes to retain;
+&emsp;&emsp;(C) that such landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of National Intelligence any records concerning the search or the aid furnished that such person wishes to retain;
 
 &emsp;&emsp;(D) that the applicant compensate, at the prevailing rate, such landlord, custodian, or other person for furnishing such aid; and
 
@@ -88,7 +88,7 @@ An order approving a physical search under this section shall—
 
 Applications made and orders granted under this subchapter shall be retained for a period of at least 10 years from the date of the application.
 
-(Pub. L. 95–511, title III, §304, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3447; amended Pub. L. 106–567, title VI, §603(b), Dec. 27, 2000, 114 Stat. 2853; Pub. L. 107–56, title II, §207(a)(2), (b)(2), Oct. 26, 2001, 115 Stat. 282; Pub. L. 107–108, title III, §314(a)(4), Dec. 28, 2001, 115 Stat. 1402.)
+(Pub. L. 95–511, title III, §304, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3447; amended Pub. L. 106–567, title VI, §603(b), Dec. 27, 2000, 114 Stat. 2853; Pub. L. 107–56, title II, §207(a)(2), (b)(2), Oct. 26, 2001, 115 Stat. 282; Pub. L. 107–108, title III, §314(a)(4), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691.)
 
 #### Amendment of Section
 
@@ -100,6 +100,8 @@ This chapter, referred to in subsec. (d)(2), was in the original “this Act”,
 
 #### Amendments
 
+2004—Subsec. (c)(2)(C). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
 2001—Subsec. (d)(1). Pub. L. 107–56, §§207(a)(2), 224, temporarily substituted “90 days,” for “forty-five days,” and temporarily inserted “(A)” after “except that” and “, and (B) an order under this section for a physical search targeted against an agent of a foreign power as defined in section 1801(b)(1)(A) of this title may be for the period specified in the application or for 120 days, whichever is less” before period at end. See Termination Date of 2001 Amendment note below.
 
 Subsec. (d)(2). Pub. L. 107–56, §§207(b)(2), 224, temporarily inserted “or against an agent of a foreign power as defined in section 1801(b)(1)(A) of this title,” after “not a United States person,”. See Termination Date of 2001 Amendment note below.
@@ -108,11 +110,11 @@ Subsec. (e)(1)(A)(ii), (3)(C). Pub. L. 107–108 substituted “72 hours” for 
 
 2000—Subsecs. (b) to (f). Pub. L. 106–567 added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+
 #### Termination Date of 2001 Amendment
 
 Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1821, 1822, 1823, 1825 of this title.
 

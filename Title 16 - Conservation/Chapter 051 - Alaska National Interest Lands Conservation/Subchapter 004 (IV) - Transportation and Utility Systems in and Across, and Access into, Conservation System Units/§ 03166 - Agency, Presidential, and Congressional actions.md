@@ -12,7 +12,7 @@
 
 (3) If the President approves an application under paragraph (2), each Federal agency concerned shall promptly issue, in accordance with applicable law, such rights-of-way, permits, licenses, leases, certificates, or other authorizations as are necessary with respect to the establishment of the system
 
-(4) If the President denies an application under paragraph (2), the applicant shall be deemed to have exhausted his administrative remedies and may file suit in any appropriate Federal court to challenge such decision.
+(4) If the President denies an application under paragraph (2), the applicant shall be deemed tohave exhausted his administrative remedies and may file suit in any appropriate Federal court to challenge such decision.
 
 #### (b) Agency action in cases involving section 3165 or wilderness areas
 
@@ -54,13 +54,9 @@
 
 #### References in Text
 
-The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(4), is Pub. L. 96–487, Dec.2, 1980, 94 Stat. 2371, as amended. Title XI of the Alaska National Interest Lands Conservation Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. Title XI of the Alaska National Interest Lands Conservation Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The Federal Land Policy and Management Act, referred to in subsec. (c)(6), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended. Title V of the Federal Land Policy and Management Act of 1976 is classified generally to subchapter V (§1761 et seq.) of chapter 35 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3165 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

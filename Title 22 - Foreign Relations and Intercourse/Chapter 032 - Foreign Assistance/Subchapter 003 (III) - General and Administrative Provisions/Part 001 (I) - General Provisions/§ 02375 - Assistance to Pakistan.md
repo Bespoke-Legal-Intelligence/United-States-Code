@@ -128,7 +128,3 @@ Sanctions contained in subsec. (e) waived in certain regards with respect to Ind
 
 Sanctions contained in subsec. (e) waived in certain regards by Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64 F.R. 60649, set out as a note under section 2799aa–1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3281 of this title.
-

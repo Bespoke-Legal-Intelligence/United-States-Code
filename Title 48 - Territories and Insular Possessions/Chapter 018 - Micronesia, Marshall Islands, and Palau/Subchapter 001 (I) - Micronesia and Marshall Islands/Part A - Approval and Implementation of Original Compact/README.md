@@ -1,9 +1,5 @@
 Part A—Approval and Implementation of Original Compact
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1933, 1952, 1957, 1959, 1973 of this title; title 16 section 470a.
-
 
 ---
 

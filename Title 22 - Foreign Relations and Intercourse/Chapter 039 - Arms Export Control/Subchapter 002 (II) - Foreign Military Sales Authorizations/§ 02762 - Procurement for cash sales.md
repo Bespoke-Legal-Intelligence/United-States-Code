@@ -68,7 +68,3 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title V, §533A\], Sept. 30, 1996
 
 Pub. L. 104–107, title V, §531A(c), Feb. 12, 1996, 110 Stat. 731.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2291c, 2311, 2751, 2767, 2775, 2776, 2777, 2779, 2791, 2795 of this title.
-

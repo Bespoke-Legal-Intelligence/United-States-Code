@@ -28,7 +28,3 @@ The Secretary shall carry out section 1320d–2 of this title not later than 18 
 
 (Aug. 14, 1935, ch. 531, title XI, §1174, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2026.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320d, 1320d–1, 1320d–2, 1320d–4, 1320d–7 of this title.
-

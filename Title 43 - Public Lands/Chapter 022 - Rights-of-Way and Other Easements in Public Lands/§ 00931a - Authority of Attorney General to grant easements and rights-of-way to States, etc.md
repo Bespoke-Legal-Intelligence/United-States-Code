@@ -4,7 +4,3 @@ The Attorney General, whenever he deems it advantageous to the Government and up
 
 (May 9, 1941, ch. 94, 55 Stat. 183.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 421c of this title.
-

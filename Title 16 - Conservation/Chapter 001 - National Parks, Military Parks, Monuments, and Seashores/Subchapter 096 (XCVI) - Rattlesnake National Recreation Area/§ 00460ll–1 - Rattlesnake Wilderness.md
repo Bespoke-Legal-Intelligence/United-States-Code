@@ -18,7 +18,3 @@ The effective date of the Wilderness Act, referred to in subsec. (b), means Sept
 
 The effective date of this subchapter, referred to in subsec. (b), means Oct. 19, 1980, the date of enactment of Pub. L. 96–476, which enacted this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460<i>ll</i>–3 of this title.
-

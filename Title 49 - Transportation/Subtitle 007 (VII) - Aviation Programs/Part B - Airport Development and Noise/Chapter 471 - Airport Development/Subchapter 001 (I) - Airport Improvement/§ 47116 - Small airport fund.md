@@ -34,7 +34,7 @@ Airport development for turbine powered aircraft.—In making grants to sponsors
 
 (e)
 
-Set-Aside for Meeting Safety Terms in Airport Operating Certificates.—In the first fiscal year beginning after the effective date ofregulations issued to carry out section 44706(b) with respect to airports described in section 44706(a)(2), and in each of the next 4 fiscal years, the lesser of $15,000,000 or 20 percent of the amounts that would otherwise be distributed to sponsors of airports under subsection (b)(2) shall be used to assist the airports in meeting the terms established by the regulations. If the Secretary publishes in the Federal Register a finding that all the terms established by the regulations have been met, this subsection shall cease to be effective as of the date of such publication.
+Set-Aside for Meeting Safety Terms in Airport Operating Certificates.—In the first fiscal year beginning after the effective date of regulations issued to carry out section 44706(b) with respect to airports described in section 44706(a)(2), and in each of the next 4 fiscal years, the lesser of $15,000,000 or 20 percent of theamounts that would otherwise be distributed to sponsors of airports under subsection (b)(2) shall be used to assist the airports in meeting the terms established by the regulations. If the Secretary publishes in the Federal Register a finding that all the terms established by the regulations have been met, this subsection shall cease to be effective as of the date of such publication.
 
 (f)
 
@@ -99,8 +99,4 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 47115 of this title.
 

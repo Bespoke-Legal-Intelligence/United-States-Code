@@ -2,7 +2,7 @@
 
 #### (a) Congressional findings
 
-The Congress hereby finds that the imposition and application of the durational residency requirement as a precondition to voting for the offices of President and Vice President, and thelack of sufficient opportunities for absentee registration and absentee balloting in presidential elections—
+The Congress hereby finds that the imposition and application of the durational residency requirement as a precondition to voting for the offices of President and Vice President, and the lack of sufficient opportunities for absentee registration and absentee balloting in presidential elections—
 
 &emsp;(1) denies or abridges the inherent constitutional right of citizens to vote for their President and Vice President;
 
@@ -26,7 +26,7 @@ No citizen of the United States who is otherwise qualified to vote in any electi
 
 #### (d) Registration: time for application; absentee balloting: time of application and return of ballots
 
-For the purposes of this section, each State shall provide by law for the registration or other means of qualification of all duly qualified residents of such State who apply, not later than thirty days immediately prior to any presidential election, for registration or qualification to vote for the choice of electors for President and Vice President or for President and Vice President in such election; and each State shall provide by law for the casting of absentee ballots for the choice of electors for President and Vice President, or for President and Vice President, by all duly qualified residents of such State who may be absent from their election district or unit in such State on the day such election is held and who have applied therefor not later than seven days immediately prior to such election and have returned such ballots to the appropriate election official of such State not later than the time of closing of the polls in such State on the day of such election.
+For the purposes of this section, each State shall provide by law for the registration or other means of qualification of all duly qualified residents of such State who apply, not later than thirty days immediately prior to any presidential election, for registration or qualificationto vote for the choice of electors for President and Vice President or for President and Vice President in such election; and each State shall provide by law for the casting of absentee ballots for the choice of electors for President and Vice President, or for President and Vice President, by all duly qualified residents of such State who may be absent from their election district or unit in such State on the day such election is held and who have applied therefor not later than seven days immediately prior to such election and have returned such ballots to the appropriate election official of such State not later than the time of closing of the polls in such State on the day of such election.
 
 #### (e) Change of residence; voting in person or by absentee ballot in State of prior residence
 
@@ -49,8 +49,4 @@ The term “State” as used in this section includes each of the several States
 The provisions of section 1973i(c) of this title shall apply to false registration, and other fraudulent acts and conspiracies, committed under this section.
 
 (Pub. L. 89–110, title II, §202, as added Pub. L. 91–285, §6, June 22, 1970, 84 Stat. 316.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1973i, 1973aa–2, 1973aa–3 of this title.
 

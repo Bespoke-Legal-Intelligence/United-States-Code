@@ -16,7 +16,7 @@ Assessment.—(1) At intervals the Secretary of Transportation considers necessa
 
 (2) The Secretary of Transportation shall conduct an assessment under paragraph (1) of this subsection—
 
-&emsp;(A) in consultation with appropriate aeronautic authorities of the government of a foreign country concerned and each air carrier serving the foreign airport for which the Secretary is conducting the assessment;
+&emsp;(A) in consultation with appropriate aeronautic authorities of the government of a foreign country concerned and each air carrierserving the foreign airport for which the Secretary is conducting the assessment;
 
 &emsp;(B) to establish the extent to which a foreign airport effectively maintains and carries out security measures; and
 
@@ -157,8 +157,4 @@ In subsection (d)(4), the words “An action required . . . is no longer requi
 In subsection (e), before clause (1), the word “provide” is substituted for “engage in” for consistency in the revised title.
 
 In subsection (f), the words “issued under authority vested in” are omitted as surplus.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 114, 44908, 44938, 46301, 46316 of this title.
 

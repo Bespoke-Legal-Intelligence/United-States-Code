@@ -26,7 +26,7 @@ Functions.—
 
 &emsp;“(1)
 
-In general.—There are transferred to the Social Security Administration all functions of the Secretary of Health and Human Services with respect toor in support of the programs and activities the administration of which is vested in the Social Security Administration by reason of this title \[see Tables for classification\] and the amendments made thereby. The Commissioner of Social Security shall allocate such functions in accordance with sections 701, 702, 703, and 704 of the Social Security Act \[this section and sections 902 to 904 of this title\] (as amended by this title).
+In general.—There are transferred to the Social Security Administration all functions of the Secretary of Health and Human Services with respect to or in support of the programs and activities the administration of which is vested in the Social Security Administration by reason of this title \[see Tables for classification\] and the amendments made thereby. The Commissioner of Social Security shall allocate such functions in accordance with sections 701, 702, 703, and 704 of the Social Security Act \[this section and sections 902 to 904 of this title\] (as amended by this title).
 
 &emsp;“(2)
 
@@ -112,7 +112,7 @@ Assumption of office of initial commissioner before effective date of new agency
 
 &emsp;“(3)
 
-Treatment of inspector general and other appointments.—At any time on or after the date of the enactment of this Act \[Aug. 15, 1994\], any of the officers provided for in section 702 of the Social Security Act (as amended by this title) and any of themembers of the Social Security Advisory Board provided for in section 703 of such Act \[section 903 of this title\] (as so amended) may be nominated and take office, under the terms and conditions set out in such sections.
+Treatment of inspector general and other appointments.—At any time on or after the date of the enactment of this Act \[Aug. 15, 1994\], any of the officers provided for in section 702 of the Social Security Act (as amended by this title) and any of the members of the Social Security Advisory Board provided for in section 703 of such Act \[section 903 of this title\] (as so amended) may be nominated and take office, under the terms and conditions set out in such sections.
 
 &emsp;“(4)
 
@@ -164,7 +164,7 @@ Continuation of Penalties.—This title shall not have the effect of releasing o
 
 “(f)
 
-Judicial Review.—Orders and actions of the Commissioner of Social Security in the exercise of functions vested in such Commissioner under this titleand the amendments made thereby (other than functions performed pursuant to 105(a)(2) \[set out above\]) shall be subject to judicial review to the same extent and in the same manner as if such orders had been made and such actions had been taken by the Secretary of Health and Human Services in the exercise of such functions immediately before March 31, 1995. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function so vested in such Commissioner shall continue to apply to the exercise of such function by such Commissioner.
+Judicial Review.—Orders and actions of the Commissioner of Social Security in the exercise of functions vested in such Commissioner under this title and the amendments made thereby (other than functions performed pursuant to 105(a)(2) \[set out above\]) shall be subject to judicial review to the same extent and in the same manner as if such orders had been made and such actions had been taken by the Secretary of Health and Human Services in the exercise of such functions immediately before March 31, 1995. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function so vested in such Commissioner shall continue to apply to the exercise of such function by such Commissioner.
 
 “(g)
 
@@ -185,8 +185,4 @@ References to the Secretary of Health and Human Services.—Whenever any referen
 “(c)
 
 References to Other Officers and Employees.—Whenever any reference is made in any provision of law (other than this title or a provision of law amended by this title), regulation, rule, record, or document to any other officer or employee of the Department of Health and Human Services with respect to such officer or employee's functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act or the supplemental security income program under title XVI of such Act or other functions performed by the officer or employee of the Social Security Administration pursuant to section 105(a)(2) of this Act, such reference shall be considered a reference to the appropriate officer or employee of the Social Security Administration.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 902 of this title.
 

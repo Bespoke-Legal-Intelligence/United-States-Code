@@ -24,7 +24,3 @@ The Secretary of Agriculture is authorized, under such regulations as he may pre
 
 Subsecs. (a) to (c). Act Jan. 31, 1931, added subsecs. (a) to (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 172.
-

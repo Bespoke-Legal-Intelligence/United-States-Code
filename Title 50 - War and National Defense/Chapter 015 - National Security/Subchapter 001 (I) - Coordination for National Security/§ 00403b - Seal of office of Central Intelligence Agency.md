@@ -1,14 +1,18 @@
 ### §403b. Seal of office of Central Intelligence Agency
 
-The Director of Central Intelligence shall cause a seal of office to be made for the Central Intelligence Agency, of such design as the President shall approve, and judicial notice shall be taken thereof.
+The Director shall cause a seal of office to be made for the Central Intelligence Agency, of such design as the President shall approve, and judicial notice shall be taken thereof.
 
-(June 20, 1949, ch. 227, §2, 63 Stat. 208.)
+(June 20, 1949, ch. 227, §2, 63 Stat. 208; Pub. L. 108–458, title I, §1071(b)(2)(A), Dec. 17, 2004, 118 Stat. 3690.)
 
 #### Codification
 
 Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 403a, 403e, 403f of this title.
+2004—Pub. L. 108–458 struck out “of Central Intelligence” after “Director”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

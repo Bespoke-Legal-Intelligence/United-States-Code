@@ -48,7 +48,3 @@ Any determination to permanently close an existing road in the Cooperative Manag
 
 (Pub. L. 106–399, title I, §112, Oct. 30, 2000, 114 Stat. 1660.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460nnn–62 of this title.
-

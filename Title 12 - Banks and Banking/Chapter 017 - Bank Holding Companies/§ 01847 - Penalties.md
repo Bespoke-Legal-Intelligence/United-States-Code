@@ -76,7 +76,7 @@ The resignation, termination of employment or participation, or separation of an
 
 &emsp;Any company against which any penalty is assessed under this subsection shall be afforded an agency hearing if such company submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this subsection.
 
-(May 9, 1956, ch. 240, §8, 70 Stat. 138; Pub. L. 95–630, title I, §106(a), Nov. 10, 1978, 92 Stat. 3647; Pub. L. 97–320, title IV, §424(a), (d)(4), Oct. 15, 1982, 96 Stat. 1522, 1523; Pub. L. 101–73, title IX, §§905(i), 907(j), 911(e), Aug. 9, 1989, 103 Stat. 461, 475, 481.)
+(May 9, 1956, ch. 240, §8, 70 Stat. 138; Pub. L. 95–630, title I, §106(a), Nov. 10, 1978, 92 Stat. 3647;Pub. L. 97–320, title IV, §424(a), (d)(4), Oct. 15, 1982, 96 Stat. 1522, 1523; Pub. L. 101–73, title IX, §§905(i), 907(j), 911(e), Aug. 9, 1989, 103 Stat. 461, 475, 481.)
 
 #### Amendments
 
@@ -88,7 +88,7 @@ Subsec. (b). Pub. L. 101–73, §907(j)(2), added headings and amended text gene
 
 “(2) In determining the amount of the penalty the Board shall take into account the appropriateness of the penalty with respect to the size of financial resources and good faith of the company or person charged, the gravity of the violation, the history of previous violations, and such other matters as justice may require.
 
-“(3) The company or person assessed shall be afforded an opportunity for agency hearing, upon request made within ten days after issuance of the notice of assessment. In such hearing all issues shall be determined on the record pursuant to section 554 of title 5. The agency determination shall be made by final order which may be reviewed only as provided in section 1848 of this title. If no hearing is requested as herein provided, theassessment shall constitute a final and unappealable order.
+“(3) The company or person assessed shall be afforded an opportunity for agency hearing, upon request made within ten days after issuance of the notice of assessment. In such hearing all issues shall be determined on the record pursuant to section 554 of title 5. The agency determination shall be made by final order which may be reviewed only as provided in section 1848 of this title. If no hearing is requested as herein provided, the assessment shall constitute a final and unappealable order.
 
 “(4) If any company or person fails to pay an assessment after it has become a final and unappealable order, or after the court of appeals has entered final judgment in favor of the Board, the Board shall refer the matter to the Attorney General, who shall recover the amount assessed by action in the appropriate United States district court. In such action the validity and appropriateness of the final order imposing the penalty shall not be subject to review.
 
@@ -113,8 +113,4 @@ Amendment by section 911(e) of Pub. L. 101–73 applicable with respect to repor
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–630, relating to imposition of civil penalties, applicable to violations occurring or continuing after Nov. 10, 1978, see section 109 of Pub. L. 95–630, set out as a note under section 93 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 sections 78<i>o</i>–5, 78q.
 

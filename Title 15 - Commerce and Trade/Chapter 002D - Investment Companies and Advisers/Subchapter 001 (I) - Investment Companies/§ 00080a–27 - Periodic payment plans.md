@@ -58,7 +58,7 @@ Upon making the election specified in subsection (g) of this section, it shall b
 
 &emsp;(5) the first payment on such certificate is less than $20, or any subsequent payment is less than $10;
 
-&emsp;(6) if such registered company is a management company, the proceeds of such certificate or the securities in which such proceeds are invested are subject to management fees\(other than fees for administrative services of the character described in clause (C) of paragraph (2) of section 80a–26(a) of this title) exceeding such reasonable amount as the Commission may prescribe, whether such fees are payable to such company or to investment advisers thereof; or
+&emsp;(6) if such registered company is a management company, the proceeds of such certificate or the securities in which such proceeds are invested are subject to management fees (other than fees for administrative services of the character described in clause (C) of paragraph (2) of section 80a–26(a) of this title) exceeding such reasonable amount as the Commission may prescribe, whether such fees are payable to such company or to investment advisers thereof; or
 
 &emsp;(7) if such registered company is a unit investment trust the assets of which are securities issued by a management company, the depositor of or principal underwriter for such trust, or any affiliated person of such depositor or underwriter, is to receive from such management company or any affiliated person thereof any fee or payment on account of payments on such certificate exceeding such reasonable amount as the Commission may prescribe.
 
@@ -88,15 +88,11 @@ Section 80a–26(e) of this title, referred to in subsec. (i)(2)(B), was redesig
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–547 effective on expiration of six months after Dec. 14, 1970, see section 30(3) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+Amendment by Pub. L. 91–547 effective on expiration of six months after Dec. 14, 1970, see section 30(3) ofPub. L. 91–547, set out as a note under section 80a–52 of this title.
 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80a–6 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [15201\.](%C2%A7%2015201%20-%20Authorization%20of%20Medal.md) | Authorization of medal. |
+| [15201\.](%C2%A7%2015201%20-%20Authorization%20of%20Medal.md) | Authorization of Medal. |
 | [15202\.](%C2%A7%2015202%20-%20Medal%20of%20Valor%20Board.md) | Medal of Valor Board. |
 | (a) | Establishment of Board. |
 | (b) | Membership. |

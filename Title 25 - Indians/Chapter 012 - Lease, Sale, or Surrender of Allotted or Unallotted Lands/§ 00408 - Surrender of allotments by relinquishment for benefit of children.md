@@ -4,7 +4,3 @@ In any case where an Indian has an allotment of land, or any right, title, or in
 
 (June 25, 1910, ch. 431, §3, 36 Stat. 856.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 353, 406, 564h, 697, 747 of this title; title 43 section 1617.
-

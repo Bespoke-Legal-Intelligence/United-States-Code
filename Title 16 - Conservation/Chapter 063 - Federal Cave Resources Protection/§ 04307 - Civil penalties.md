@@ -26,7 +26,3 @@ The Secretary may issue subpoenas in connection with proceedings under this subs
 
 (Pub. L. 100–691, §8, Nov. 18, 1988, 102 Stat. 4550.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4305 of this title.
-

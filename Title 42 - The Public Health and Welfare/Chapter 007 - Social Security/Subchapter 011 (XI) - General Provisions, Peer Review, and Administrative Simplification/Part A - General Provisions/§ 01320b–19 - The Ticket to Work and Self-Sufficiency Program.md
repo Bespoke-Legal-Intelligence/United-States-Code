@@ -98,7 +98,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (3) Facilitation of access by beneficiaries to employment networks
 
-&emsp;A program manager shall facilitate access by beneficiaries to employment networks. Theprogram manager shall ensure that each beneficiary is allowed changes in employment networks without being deemed to have rejected services under the Program. When such a change occurs, the program manager shall reassign the ticket based on the choice of the beneficiary. Upon the request of the employment network, the program manager shall make a determination of the allocation of the outcome or milestone-outcome payments based on the services provided by each employment network. The program manager shall establish and maintain lists of employment networks available to beneficiaries and shall make such lists generally available to the public. The program manager shall ensure that all information provided to disabled beneficiaries pursuant to this paragraph is provided in accessible formats.
+&emsp;A program manager shall facilitate access by beneficiaries to employment networks. The program manager shall ensure that each beneficiary is allowed changes in employment networks without being deemed to have rejected services under the Program. When such a change occurs, the program manager shall reassign the ticket based on the choice of the beneficiary. Upon the request of the employment network, the program manager shall make a determination of the allocation of the outcome or milestone-outcome payments based on the services provided by each employment network. The program manager shall establish and maintain lists of employment networks available to beneficiaries and shall make such lists generally available to the public. The program manager shall ensure that all information provided to disabled beneficiaries pursuant to this paragraph is provided in accessible formats.
 
 #### (4) Ensuring availability of adequate services
 
@@ -152,7 +152,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;&emsp;(A) take such measures as are necessary to ensure that employment services, vocational rehabilitation services, and other support services provided under the Program by, or under agreements entered into with, the employment network are provided under appropriate individual work plans that meet the requirements of subparagraph (C);
 
-&emsp;&emsp;(B) develop and implement each such individual work plan, in partnership with eachbeneficiary receiving such services, in a manner that affords such beneficiary the opportunity to exercise informed choice in selecting an employment goal and specific services needed to achieve that employment goal;
+&emsp;&emsp;(B) develop and implement each such individual work plan, in partnership with each beneficiary receiving such services, in a manner that affords such beneficiary the opportunity to exercise informed choice in selecting an employment goal and specific services needed to achieve that employment goal;
 
 &emsp;&emsp;(C) ensure that each individual work plan includes at least—
 
@@ -162,11 +162,13 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;&emsp;&emsp;(iii) a statement of any terms and conditions related to the provision of such services and supports; and
 
-&emsp;&emsp;&emsp;(iv) a statement of understanding regarding the beneficiary's rights under the Program (such as the right to retrieve the ticket to work and self-sufficiency if the beneficiary is dissatisfied with the services being provided by the employment network) and remedies available to the individual, including information on the availability of advocacy services and assistance in resolving disputes through the State grant program authorized under section 1320b–21 of this title;
+&emsp;&emsp;&emsp;(iv) a statement of understanding regarding the beneficiary's rights under the Program (such as the right to retrieve the ticket to work and self-sufficiency if the beneficiary is dissatisfied with the services being provided by the employment network) and remedies available to the individual, including information on the availability of advocacy services and assistance in resolving disputes through the Stategrant program authorized under section 1320b–21 of this title;
 
 &emsp;&emsp;(D) provide a beneficiary the opportunity to amend the individual work plan if a change in circumstances necessitates a change in the plan; and
 
 &emsp;&emsp;(E) make each beneficiary's individual work plan available to the beneficiary in, as appropriate, an accessible format chosen by the beneficiary.
+
+> &emsp;An individual work plan established pursuant to this subsection shall be treated, for purposes of section 51(d)(6)(B)(i) of the Internal Revenue Code of 1986, as an individualized written plan for employment under a State plan for vocational rehabilitation services approved under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\].
 
 #### (2) Effective upon written approval
 
@@ -214,7 +216,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (C) Limitation on total payments to employment network
 
-&emsp;&emsp;The payment schedule of the outcome milestone payment system shall be designedso that the total of the payments to the employment network with respect to each beneficiary is less than, on a net present value basis (using an interest rate determined by the Commissioner that appropriately reflects the cost of funds faced by providers), the total amount to which payments to the employment network with respect to the beneficiary would be limited if the employment network were paid under the outcome payment system.
+&emsp;&emsp;The payment schedule of the outcome milestone payment system shall be designed so that the total of the payments to the employment network with respect to each beneficiary is less than, on a net present value basis (using an interest rate determined by the Commissioner that appropriately reflects the cost of funds faced by providers), the total amount to which payments to the employment network with respect to the beneficiary would be limited if the employment network were paid under the outcome payment system.
 
 #### (4) Definitions
 
@@ -308,15 +310,25 @@ In this section:
 
 Not later than 1 year after December 17, 1999, the Commissioner shall prescribe such regulations as are necessary to carry out the provisions of this section.
 
-(Aug. 14, 1935, ch. 531, title XI, §1148, as added Pub. L. 106–170, title I, §101(a), Dec. 17, 1999, 113 Stat. 1863.)
+(Aug. 14, 1935, ch. 531, title XI, §1148, as added Pub. L. 106–170, title I, §101(a), Dec. 17, 1999, 113 Stat. 1863; amended Pub. L. 108–203, title IV, §405(a), Mar. 2, 2004, 118 Stat. 526.)
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in subsec. (c)(1), (2)(A), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (c)(1), (2)(A) and (g)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsec. (f)(1)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Subtitle B of title I of the Act is classified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
+The Internal Revenue Code of 1986, referred to in subsec. (g)(1), is classified generally to Title 26, Internal Revenue Code.
+
 Section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, referred to in subsec. (h)(5)(B), (C), is section 101(f) of Pub. L. 106–170, which is set out as a note below.
+
+#### Amendments
+
+2004—Subsec. (g)(1). Pub. L. 108–203 inserted concluding provisions.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–203, title IV, §405(b), Mar. 2, 2004, 118 Stat. 527, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in section 505 of the Ticket to Work and Work Incentives Improvement Act of 1999 (Public Law 106–170; 113 Stat. 1921).”
 
 #### Effective Date
 
@@ -338,7 +350,7 @@ Specific matters to be included in regulations.—The matters which shall be add
 
 &emsp;“(B) the format and wording of such tickets, which shall incorporate by reference any contractual terms governing service by employment networks under the Program;
 
-&emsp;“(C) the form and manner in which State agencies may elect participation in the Ticket to Work and Self-Sufficiency Program pursuant to section1148(c)(1) of such Act and provision for periodic opportunities for exercising such elections;
+&emsp;“(C) the form and manner in which State agencies may elect participation in the Ticket to Work and Self-Sufficiency Program pursuant to section 1148(c)(1) of such Act and provision for periodic opportunities for exercising such elections;
 
 &emsp;“(D) the status of State agencies under section 1148(c)(1) of such Act at the time that State agencies exercise elections under that section;
 
@@ -375,6 +387,20 @@ Specific matters to be included in regulations.—The matters which shall be add
 &emsp;&emsp;“(v) annual oversight procedures for such systems; and
 
 &emsp;“(I) procedures for effective oversight of the Program by the Commissioner of Social Security, including periodic reviews and reporting requirements.”
+
+#### GAO Study Regarding the Ticket to Work and Self-Sufficiency Program
+
+Pub. L. 108–203, title IV, §406, Mar. 2, 2004, 118 Stat. 527, provided that:
+
+“(a) \[sic\] GAO
+
+Report.—Not later than 12 months after the date of enactment of this Act \[Mar. 2, 2004\], the Comptroller General of the United States shall submit a report to Congress regarding the Ticket to Work and Self-Sufficiency Program established under section 1148 of the Social Security Act (42 U.S.C. 1320b–19) that—
+
+&emsp;“(1) examines the annual and interim reports issued by States, the Ticket to Work and Work Incentives Advisory Panel established under section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999 \[Pub. L. 106–170\] (42 U.S.C. 1320b–19 note), and the Commissioner of Social Security regarding such program;
+
+&emsp;“(2) assesses the effectiveness of the activities carried out under such program; and
+
+&emsp;“(3) recommends such legislative or administrative changes as the Comptroller General determines are appropriate to improve the effectiveness of such program.”
 
 #### Findings and Purposes
 
@@ -616,7 +642,7 @@ Experts and consultants.—Subject to rules prescribed by the Commissioner of So
 
 &emsp;“(D)
 
-Staff of federal agencies.—Upon request of the Panel, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Panel to assist it in carrying out its duties under this Act \[see Tables for classification\].
+Staff of federal agencies.—Upon request of the Panel, the head of any Federal department oragency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Panel to assist it in carrying out its duties under this Act \[see Tables for classification\].
 
 “(5)
 
@@ -653,8 +679,4 @@ Termination.—The Panel shall terminate 30 days after the date of the submissio
 “(8)
 
 Authorization of appropriations.—There are authorized to be appropriated from the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, and the general fund of the Treasury, as appropriate, such sums as are necessary to carry out this subsection.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 421, 425, 434, 1320b–20, 1320b–21, 1320b–22, 1383, 1383b of this title.
 

@@ -26,7 +26,7 @@ Any fishery management plan prepared, and any regulation promulgated to implemen
 
 #### (b) Guidelines
 
-The Secretary shall establish advisory guidelines (which shall not have the force and effectof law), based on the national standards, to assist in the development of fishery management plans.
+The Secretary shall establish advisory guidelines (which shall not have the force and effect of law), based on the national standards, to assist in the development of fishery management plans.
 
 (Pub. L. 94–265, title III, §301, Apr. 13, 1976, 90 Stat. 346; Pub. L. 97–453, §4, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 98–623, title IV, §404(3), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 104–297, title I, §106, Oct. 11, 1996, 110 Stat. 3570.)
 
@@ -47,6 +47,10 @@ Subsec. (a)(8) to (10). Pub. L. 104–297, §106(b), added pars. (8) to (10).
 #### Short Title of 1997 Amendment
 
 Pub. L. 105–146, §1, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Act \[repealing section 757g of this title, amending provisions set out as notes under this section and listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title, and repealing provisions set out as notes under this section\] may be cited as the ‘Atlantic Striped Bass Conservation Act Amendments of 1997’.”
+
+#### Gulf of Alaska Rockfish Demonstration Program
+
+Pub. L. 108–199, div. B, title VIII, §802, Jan. 23, 2004, 118 Stat. 110, provided that: “The Secretary of Commerce, in consultation with the North Pacific Fishery Management Council, shall establish a pilot program that recognizes the historic participation of fishing vessels (1996 to 2002, best 5 of 7 years) and historic participation of fish processors (1996 to 2000, best 4 of 5 years) for pacific ocean perch, northern rockfish, and pelagic shelf rockfish harvested in Central Gulf of Alaska. Such a pilot program shall: (1) provide for a set-aside of up to 5 percent for the total allowable catch of such fisheries for catcher vessels not eligible to participate in the pilot program, which shall be delivered to shore-based fish processors not eligible to participate in the pilot program; and (2) establish catch limits for non-rockfish species and non-target rockfish species currently harvested with pacific ocean perch, northern rockfish, and pelagic shelf rockfish, which shall be based on historical harvesting of such bycatch species. The pilot program will sunset when a Gulf of Alaska Groundfish comprehensive rationalization plan is authorized by the Council and implemented by the Secretary, or 2 years from date of implementation, whichever is earlier.”
 
 #### Implementation of Steller Sea Lion Protective Measures
 
@@ -134,7 +138,7 @@ Sea Lion Protection Measures.—$20,000,000 is hereby appropriated to the Secret
 
 “(e)
 
-Economic Disaster Relief.—$30,000,000 is hereby appropriated to the Secretary of Commerce to make available as a direct payment to the Southwest Alaska Municipal Conference to distribute to fishing communities, businesses, community development quota groups, individuals, and other entities to mitigate the economic losses caused by Steller sea lion protection measures heretofore incurred; provided that the President of such organization shall provide a written report to the Secretary and the House and Senate Appropriations Committee within 6 months of receipt of these funds.”
+Economic Disaster Relief.—$30,000,000 is hereby appropriated to the Secretary of Commerce to make available as a direct payment to the Southwest Alaska Municipal Conference to distribute to fishing communities, businesses, community development quota groups, individuals, and other entities to mitigate the economic losses caused by Steller sea lion protection measures heretofore incurred; provided that the President of such organization shall provide a written reportto the Secretary and the House and Senate Appropriations Committee within 6 months of receipt of these funds.”
 
 #### Limitation on Fishing Permits
 
@@ -145,6 +149,24 @@ Pub. L. 105–277, div. A, §101(b) \[title VI, §617\], Oct. 21, 1998, 112 Stat
 “(b) Any fishing permit or authorization issued or renewed prior to the date of the enactment of this Act \[Oct. 21, 1998\] for a fishing vessel to which the prohibition in subsection (a) applies that would allow such vessel to engage in fishing for Atlantic mackerel or herring (or both) during fiscal year 1999 shall be null and void, and none of the funds made available in this Act \[see Tables for classification\] may be used to issue a fishing permit or authorization that would allow a vessel whose permit or authorization was made null and void pursuant to this subsection to engage in the catching, taking, or harvesting of fish in any other fishery within the exclusive economic zone of the United States.”
 
 #### Bering Sea Pollock Fishery
+
+Pub. L. 108–199, div. B, title VIII, §803, Jan. 23, 2004, 118 Stat. 110, provided that:
+
+“(a)
+
+Aleutian Islands Pollock Allocation.—Effective January 1, 2004 and thereafter, the directed pollock fishery in the Aleutian Islands Subarea \[AI\] of the BSAI (as defined in 50 CFR 679.2) shall be allocated to the Aleut Corporation (incorporated pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)). Except with the permission of the Aleut Corporation or its authorized agent, the fishing or processing of any part of such allocation shall be prohibited by section 307 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857), subject to the penalties and sanctions under section 308 of such Act (16 U.S.C. 1858), and subject to the forfeiture of any fish harvested or processed.
+
+“(b)
+
+Eligible Vessels.—Only vessels that are 60 feet or less in length overall and have a valid fishery endorsement, or vessels that are eligible to harvest pollock under section 208 of title II of division C of Public Law 105–277 \[set out below\], shall be eligible to form partnerships with the Aleut Corporation (or its authorized agents) to harvest the allocation under subsection (a). During the years 2004 through 2008, up to 25 percent of such allocation may be harvested by vessels 60 feet or less in length overall. During the years 2009 through 2013, up to 50 percent of such allocation may be harvested by vessels 60 feet or less in length overall. After the year 2012, 50 percent of such allocation shall be harvested by vessels 60 feet or less in length overall, and 50 percent shall be harvested by vessels eligible under such section of Public Law 105–277.
+
+“(c)
+
+Groundfish Optimum Yield Limitation.—The optimum yield for groundfish in the Bering Sea and Aleutian Islands Management Area shall not exceed 2 million metric tons. For the purposes of implementing subsections (a) and (b) without adversely affecting current fishery participants, the allocation under subsection (a) may be in addition to such optimum yield during the years 2004 through 2008 upon recommendation by the North Pacific Council and approval by the Secretary of Commerce (if consistent with the requirements of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.)).
+
+“(d)
+
+Management and Allocation.—For the purposes of this section, the North Pacific Fishery Management Council shall recommend and the Secretary shall approve an allocation under subsection (a) to the Aleut Corporation for the purposes of economic development in Adak, Alaska pursuant to the requirements of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).”
 
 Pub. L. 105–277, div. C, title II, subtitle II, Oct. 21, 1998, 112 Stat. 2681–621, as amended by Pub. L. 106–31, title III, §3027(a)(2)–(7), May 21, 1999, 113 Stat. 101; Pub. L. 107–20, title II, §2202(e)(1), July 24, 2001, 115 Stat. 170; Pub. L. 107–77, title II, §211, Nov. 28, 2001, 115 Stat. 779; Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884, provided that:
 
@@ -184,7 +206,7 @@ Pub. L. 105–277, div. C, title II, subtitle II, Oct. 21, 1998, 112 Stat. 2681�
 
 “(a)
 
-Pollock Community Development Quota.—Effective January 1, 1999, 10 percent of the total allowable catch of pollock in the Bering Sea and Aleutian Islands Management Area shall be allocated as a directed fishing allowance to the western Alaska community development quota program established under section 305(i) of the Magnuson-Stevens Act (16 U.S.C. 1855(i)).
+Pollock Community Development Quota.—Effective January 1, 1999, 10 percent of the total allowablecatch of pollock in the Bering Sea and Aleutian Islands Management Area shall be allocated as a directed fishing allowance to the western Alaska community development quota program established under section 305(i) of the Magnuson-Stevens Act (16 U.S.C. 1855(i)).
 
 “(b)
 
@@ -290,7 +312,7 @@ Catcher Vessels to Catcher/Processors.—Effective January 1, 1999, only the fol
 
 “(c)
 
-Catcher Vessels to Motherships.—Effective January 1, 2000, only the following catcher vessels shallbe eligible to harvest the directed fishing allowance under section 206(b)(3) pursuant to a federal fishing permit:
+Catcher Vessels to Motherships.—Effective January 1, 2000, only the following catcher vessels shall be eligible to harvest the directed fishing allowance under section 206(b)(3) pursuant to a federal fishing permit:
 
 &emsp;“(1) ALEUTIAN CHALLENGER (United States official number 603820);
 
@@ -402,7 +424,7 @@ Shoreside Processors.—(1) Effective January 1, 2000 and except as provided in 
 
 &emsp;“(A) shoreside processors (including vessels in a single geographic location in Alaska State waters) determined by the Secretary to have processed more than 2,000 metric tons round-weight of pollock in the inshore component of the directed pollock fishery during each of 1996 and 1997; and
 
-&emsp;“(B) shoreside processors determined by the Secretary to have processed pollock in the inshore component of the directed pollock fishery in 1996 or 1997, but to have processed less than 2,000 metric tons round-weight of such pollock in each year, except that effective January 1, 2000, each such shoreside processor may not process more than 2,000 metric tons round-weight from such directed fishing allowance in any year.
+&emsp;“(B) shoreside processors determined by the Secretary to have processed pollock in the inshore component of the directed pollock fishery in 1996 or 1997,but to have processed less than 2,000 metric tons round-weight of such pollock in each year, except that effective January 1, 2000, each such shoreside processor may not process more than 2,000 metric tons round-weight from such directed fishing allowance in any year.
 
 “(2) Upon recommendation by the North Pacific Council, the Secretary may approve measures to allow catcher vessels eligible under subsection (a) to deliver pollock harvested from the directed fishing allowance under section 206(b)(1) to shoreside processors not eligible under paragraph (1) if the total allowable catch for pollock in the Bering Sea and Aleutian Islands Management Area increases by more than 10 percent above the total allowable catch in such fishery in 1997, or in the event of the actual total loss or constructive total loss of a shoreside processor eligible under paragraph (1)(A).
 
@@ -540,7 +562,7 @@ Landing Tax Jurisdiction.—Any contract filed under subsection (a) shall includ
 
 “(g)
 
-Penalties.—The violation of any of the requirements of this subtitle or any regulation or permit issued pursuant to this subtitle shall be considered the commission of an act prohibited by section 307 of the Magnuson-Stevens Act (16 U.S.C. 1857), and sections 308, 309, 310, and 311 of such Act (16 U.S.C. 1858, 1859, 1860, and 1861) shall apply to any such violation in the same manner as to the commission of an act prohibited by section 307 of such Act (16 U.S.C. 1857). In addition to the civil penalties and permit sanctions applicable to prohibited acts under section 308 of such Act (16 U.S.C. 1858), any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, United States Code, to have violated a requirement of this section shall be subject to the forfeiture to the Secretary of Commerce of any fish harvested or processed during the commission of such act.
+Penalties.—The violation of any of the requirements of this subtitle or any regulation or permit issued pursuant to this subtitle shall be considered thecommission of an act prohibited by section 307 of the Magnuson-Stevens Act (16 U.S.C. 1857), and sections 308, 309, 310, and 311 of such Act (16 U.S.C. 1858, 1859, 1860, and 1861) shall apply to any such violation in the same manner as to the commission of an act prohibited by section 307 of such Act (16 U.S.C. 1857). In addition to the civil penalties and permit sanctions applicable to prohibited acts under section 308 of such Act (16 U.S.C. 1858), any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, United States Code, to have violated a requirement of this section shall be subject to the forfeiture to the Secretary of Commerce of any fish harvested or processed during the commission of such act.
 
 #### “SEC. 211. PROTECTIONS FOR OTHER FISHERIES; CONSERVATION MEASURES.
 
@@ -622,7 +644,7 @@ Bering sea crab and groundfish.—
 
 &emsp;&emsp;“(A) Effective January 1, 2000, the owners of the motherships eligible under section 208(d) and the shoreside processors eligible under section 208(f) that receive pollock from the directed pollock fishery under a fishery cooperative are hereby prohibited from processing, in the aggregate for each calendar year, more than the percentage of the total catch of each species of crab in directed fisheries under the jurisdiction of the North Pacific Council than facilities operated by such owners processed of each such species in the aggregate, on average, in 1995, 1996, 1997. For the purposes of this subparagraph, the term ‘facilities’ means any processing plant, catcher/processor, mothership, floating processor, or any other operation that processes fish. Any entity in which 10 percent or more of the interest is owned or controlled by another individual or entity shall be considered to be the same entity as the other individual or entity for the purposes of this subparagraph.
 
-&emsp;&emsp;“(B) Under the authority of section 301(a)(4) of the Magnuson-Stevens Act (16 U.S.C. 1851(a)(4)), the North Pacific Council is directed to recommend forapproval by the Secretary conservation and management measures to prevent any particular individual or entity from harvesting or processing an excessive share of crab or of groundfish in fisheries in the Bering Sea and Aleutian Islands Management Area.
+&emsp;&emsp;“(B) Under the authority of section 301(a)(4) of the Magnuson-Stevens Act (16 U.S.C. 1851(a)(4)), the North Pacific Council is directed to recommend for approval by the Secretary conservation and management measures to prevent any particular individual or entity from harvesting or processing an excessive share of crab or of groundfish in fisheries in the Bering Sea and Aleutian Islands Management Area.
 
 &emsp;&emsp;“(C) The catcher vessels eligible under section 208(b) are hereby prohibited from participating in a directed fishery for any species of crab in the Bering Sea and Aleutian Islands Management Area unless the catcher vessel harvested crab in the directed fishery for that species of crab in such Area during 1997 and is eligible to harvest such crab in such directed fishery under the license limitation program recommended by the North Pacific Council and approved by the Secretary. The North Pacific Council is directed to recommend measures for approval by the Secretary to eliminate latent licenses under such program, and nothing in this subparagraph shall preclude the Council from recommending measures more restrictive than under this paragraph.
 
@@ -672,7 +694,7 @@ Report to Congress.—Not later than October 1, 2000, the North Pacific Council 
 
 “(e)
 
-Report on Fillet Production.—Not later than June 1, 2000, the General Accounting Office shall submit a report to the North Pacific Council, the Secretary, and the Congress on whether this Act has negatively affected the market for fillets and fillet blocks, including through the reduction in the supply of such fillets and fillet blocks. If the report determines that such market has been negatively affected, the North Pacific Council shall recommend measures for the Secretary's approval to mitigate any negative effects.
+Report on Fillet Production.—Not later than June 1, 2000, the General Accounting Office \[now Government Accountability Office\] shall submit a report to the North Pacific Council, the Secretary, and the Congress on whether this Act has negatively affected the market for fillets and fillet blocks, including through the reduction in the supply of such fillets and fillet blocks. If the report determines that such market has been negatively affected, the North Pacific Council shall recommend measures for the Secretary's approval to mitigate any negative effects.
 
 “(f)
 
@@ -703,8 +725,4 @@ Pub. L. 100–589, §6(a)–(f), Nov. 3, 1988, 102 Stat. 2986, as amended by Pub
 #### Atlantic Striped Bass Conservation
 
 Pub. L. 98–613, §§1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, formerly set out as a note under this section, was transferred to chapter 71A (§5151 et seq.) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1434, 1802, 5103, 5107b, 5158 of this title.
 

@@ -38,7 +38,3 @@ Mar. 4, 1907, ch. 2939, 34 Stat. 1415, §3A(d) (related to §2(a)(3)); added Jul
 
 In this section, before clause (1), the words “and any individuals employed to maintain the right of way of a railroad carrier” are substituted for 45:62(e) because of the restatement.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 21303 of this title.
-

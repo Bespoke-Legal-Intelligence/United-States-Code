@@ -22,7 +22,3 @@ Any person claiming the benefit of any exemption or permit under this chapter sh
 
 (Pub. L. 102–440, title I, §111, Oct. 23, 1992, 106 Stat. 2230.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4912, 4914 of this title.
-

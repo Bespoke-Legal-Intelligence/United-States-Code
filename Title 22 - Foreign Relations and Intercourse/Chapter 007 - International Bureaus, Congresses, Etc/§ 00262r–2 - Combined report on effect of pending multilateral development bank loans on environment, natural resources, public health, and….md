@@ -6,7 +6,7 @@ Not later than April 1 and October 1 of each year, the Administrator of the Agen
 
 #### References in Text
 
-Section 537(h)(2) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act,1988, referred to in text, is Pub. L. 100–202, §101(e) \[title V, §537(h)(2)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–163, which was classified to section 262<i>l</i> of this title.
+Section 537(h)(2) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, referred to in text, is Pub. L. 100–202, §101(e) \[title V, §537(h)(2)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–163, which was classified to section 262<i>l</i> of this title.
 
 #### Change of Name
 

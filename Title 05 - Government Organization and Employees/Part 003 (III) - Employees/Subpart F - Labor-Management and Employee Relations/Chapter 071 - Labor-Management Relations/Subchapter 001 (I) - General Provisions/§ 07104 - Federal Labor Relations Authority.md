@@ -38,7 +38,15 @@ Subsec. (c). Pub. L. 98–224, §3(b), substituted provision that a member of Au
 
 For termination, effective May 15, 2000, of provisions in subsection (e) of this section relating to transmittal to Congress of an annual report on cases heard and decisions rendered, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 171 of House Document No. 103–7.
 
-#### Section Referred to in Other Sections
+#### Delegation of Certain Reporting Authority
 
-This section is referred to in section 7103 of this title; title 2 section 1351; title 22 section 4102.
+Memorandum of President of the United States, Dec. 8, 2004, 69 F.R. 74935, provided:
+
+Memorandum for the Chairman of the Federal Labor Relations Authority
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to the member who has been designated by the President as Chairman the functions conferred upon the President by 5 U.S.C. 7104(e) to provide the specified report to the Congress.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -4,7 +4,3 @@ The provisions of sections 407, 408, 411, 412, and 413 of this title are made ap
 
 (May 15, 1928, ch. 569, §9, 45 Stat. 537.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701c–1, 701e, 702a, 702a–11/2, 702a–13/4, 702a–11, 702c, 702h, 702j, 702m, 702n of this title.
-

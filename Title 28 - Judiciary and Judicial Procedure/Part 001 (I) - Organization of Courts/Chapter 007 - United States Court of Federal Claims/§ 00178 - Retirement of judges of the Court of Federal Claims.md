@@ -36,7 +36,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(b) A judge of the Court of Federal Claims who is not reappointed following the expiration of the term of office of such judge, and who retires upon the completion of such term shall, subject to subsection (f), be entitled to receive, during the remainder of such judge's lifetime, an annuity equal to the salary payable to Court of Federal Claims judges in regular active service, if—
+(b) A judge of the Court of Federal Claims who is not reappointed following the expiration of the term of office of such judge, and who retires upon the completion of such term shall, subject to subsection (f), be entitled to receive, duringthe remainder of such judge's lifetime, an annuity equal to the salary payable to Court of Federal Claims judges in regular active service, if—
 
 &emsp;(1) such judge has served at least 1 full term as judge of the Court of Federal Claims, and
 
@@ -88,7 +88,7 @@
 
 (j)(1) Subject to paragraph (4), any judge of the Court of Federal Claims who retires under this section and who thereafter in the practice of law represents (or supervises or directs the representation of) a client in making any civil claim against the United States or any agency thereof shall forfeit all rights to an annuity under this section for all periods beginning on or after the first day on which he engages in any such activity.
 
-(2) Subject to paragraph (4), if a judge of the Court of Federal Claims who retires under this section fails during any calendar year to perform judicial duties required of such judge by subsection (d), such judge shall forfeit all rights to an annuity under this section for the 1-year period which begins on the first day on which he or she so fails to perform such duties.
+(2) Subject to paragraph (4), if a judge of the Court of Federal Claims who retires under thissection fails during any calendar year to perform judicial duties required of such judge by subsection (d), such judge shall forfeit all rights to an annuity under this section for the 1-year period which begins on the first day on which he or she so fails to perform such duties.
 
 (3) If a judge of the Court of Federal Claims who retires under this section accepts compensation for civil office or employment under the Government of the United States (other than for the performance of judicial duties under subsection (d)), such judge shall forfeit all rights to an annuity under this section for the period for which such compensation is received.
 
@@ -167,10 +167,6 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date
 
 Section applicable to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after Dec. 1, 1990, see section 306(f) of Pub. L. 101–650, as amended, set out as an Effective Date of 1990 Amendment note under section 8331 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 179, 364, 376, 604, 797 of this title; title 5 sections 8334, 8402, 8440c.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

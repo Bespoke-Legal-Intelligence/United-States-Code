@@ -60,7 +60,3 @@ In subsection (b)(2), the words “personal property” are substituted for “g
 
 In subsection (c), the words “that part” are substituted for “All moneys” for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3543 of this title.
-

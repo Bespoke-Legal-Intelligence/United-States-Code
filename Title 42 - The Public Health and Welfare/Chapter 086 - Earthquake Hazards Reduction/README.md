@@ -30,7 +30,6 @@
 | [7707\.](%C2%A7%2007707%20-%20Advanced%20National%20Seismic%20Research%20and%20Monitoring%20System.md) | Advanced National Seismic Research and Monitoring System. |
 | (a) | Establishment. |
 | (b) | Management plan. |
-| (c) | Authorization of appropriations. |
 | [7708\.](%C2%A7%2007708%20-%20Network%20for%20Earthquake%20Engineering%20Simulation.md) | Network for Earthquake Engineering Simulation. |
 | (a) | Establishment. |
 | (b) | Authorization of appropriations. |
@@ -41,10 +40,6 @@
 | (d) | Duties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 7704a of this title; title 15 section 7301.
 
 
 ---

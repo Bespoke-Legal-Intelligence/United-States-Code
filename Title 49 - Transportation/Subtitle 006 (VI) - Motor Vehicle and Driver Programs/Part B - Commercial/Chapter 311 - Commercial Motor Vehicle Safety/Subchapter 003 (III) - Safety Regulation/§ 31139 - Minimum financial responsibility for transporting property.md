@@ -40,7 +40,7 @@ Requirements for Hazardous Matter and Oil.—(1) The Secretary of Transportation
 
 (2)(A) Except as provided in subparagraph (B) of this paragraph, the level of financial responsibility established under paragraph (1) of this subsection shall be at least $5,000,000 for the transportation—
 
-&emsp;(i) of hazardous substances (as defined by the Administrator) in cargo tanks, portable tanks,or hopper-type vehicles, with capacities of more than 3,500 water gallons;
+&emsp;(i) of hazardous substances (as defined by the Administrator) in cargo tanks, portable tanks, or hopper-type vehicles, with capacities of more than 3,500 water gallons;
 
 &emsp;(ii) in bulk of class A explosives, poison gas, liquefied gas, or compressed gas; or
 
@@ -191,8 +191,4 @@ In subsection (g)(1) and (2), the words “any quantity of” are omitted as sur
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 507, 521, 526, 10927, 13906, 31102 of this title; title 42 section 9608.
 

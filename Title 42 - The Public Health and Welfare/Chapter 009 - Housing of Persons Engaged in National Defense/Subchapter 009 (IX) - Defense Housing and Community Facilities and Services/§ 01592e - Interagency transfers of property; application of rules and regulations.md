@@ -8,7 +8,3 @@ Any Federal agency may, upon request of the Secretary of Housing and Urban Devel
 
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under section 1581 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1592a of this title.
-

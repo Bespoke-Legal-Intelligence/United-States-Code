@@ -14,7 +14,7 @@ The Board of Directors shall administer the affairs of the Corporation fairly an
 
 &emsp;Any examiner appointed under paragraph (1) shall have power, on behalf of the Corporation, to examine—
 
-&emsp;&emsp;(A) any insured State nonmember bank (except a District bank) or insured State branch of any foreign bank;
+&emsp;&emsp;(A) any insured State nonmember bank or insured State branch of any foreign bank;
 
 &emsp;&emsp;(B) any depository institution which files an application with the Corporation to become an insured depository institution; and
 
@@ -214,7 +214,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (3) Cooperative agreement
 
-&emsp;The State bank supervisors from 2 or more States may enter into cooperative agreementsto facilitate State regulatory supervision of State banks, including cooperative agreements relating to the coordination of examinations and joint participation in examinations.
+&emsp;The State bank supervisors from 2 or more States may enter into cooperative agreements to facilitate State regulatory supervision of State banks, including cooperative agreements relating to the coordination of examinations and joint participation in examinations.
 
 #### (4) Federal regulatory authority
 
@@ -250,13 +250,99 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 &emsp;Each appropriate Federal banking agency shall consider appointing an examiner-in-charge with respect to a depository institution to ensure consultation on examination activities among all of the examiners of that agency involved in examinations of the institution.
 
-(Sept. 21, 1950, ch. 967, §2\[10\], 64 Stat. 882; Pub. L. 86–671, §4, July 14, 1960, 74 Stat. 551; Pub. L. 89–695, title II, §203, Oct. 16, 1966, 80 Stat. 1053; Pub. L. 91–452, title II, §208, Oct. 15, 1970, 84 Stat. 929; Pub. L. 95–369, §6(c)(16), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title III, §305, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title I, §113(i), title IV, §410(g), Oct. 15, 1982, 96 Stat. 1474, 1520; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–73, title II, §§201(a), 210, Aug. 9, 1989, 103 Stat. 187, 217; Pub. L. 102–242, title I, §§111(a), 113(a), (b), (c)(2), title II, §203(c), title III, §302(d), Dec. 19, 1991, 105 Stat. 2240, 2246–2248, 2292, 2349; Pub. L. 102–550, title XVI, §§1603(b)(1), (4), 1604(a)(3), 1605(a)(4), Oct. 28, 1992, 106 Stat. 4078, 4079, 4082, 4085; Pub. L. 102–558, title III, §§303(b)(5), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–325, title III, §§305(a), 306, 349(a), title V, §529(a), title VI, §602(a)(19), (20), Sept. 23, 1994, 108 Stat. 2216, 2217, 2242, 2266, 2289; Pub. L. 103–328, title I, §105, Sept. 29, 1994, 108 Stat. 2357; Pub. L. 104–208, div. A, title II, §§2221, 2244, Sept. 30, 1996, 110 Stat. 3009–414, 3009–419.)
+#### (k) One-year restrictions on Federal examiners of financial institutions
+
+#### (1) In general
+
+&emsp;In addition to other applicable restrictions set forth in title 18, the penalties set forth in paragraph (6) of this subsection shall apply to any person who—
+
+&emsp;&emsp;(A) was an officer or employee (including any special Government employee) of a Federal banking agency or a Federal reserve bank;
+
+&emsp;&emsp;(B) served 2 or more months during the final 12 months of his or her employment with such agency or entity as the senior examiner (or a functionally equivalent position) of a depository institution or depository institution holding company with continuing, broad responsibility for the examination (or inspection) of that depository institution or depository institution holding company on behalf of the relevant agency or Federal reserve bank; and
+
+&emsp;&emsp;(C) within 1 year after the termination date of his or her service or employment with such agency or entity, knowingly accepts compensation as an employee, officer, director, or consultant from—
+
+&emsp;&emsp;&emsp;(i) such depository institution, any depository institution holding company that controls such depository institution, or any other company that controls such depository institution; or
+
+&emsp;&emsp;&emsp;(ii) such depository institution holding company or any depository institution that is controlled by such depository institution holding company.
+
+#### (2) Definitions
+
+&emsp;For purposes of this subsection—
+
+&emsp;&emsp;(A) the term “depository institution” includes an uninsured branch or agency of a foreign bank, if such branch or agency is located in any State; and
+
+&emsp;&emsp;(B) the term “depository institution holding company” includes any foreign bank or company described in section 3106(a) of this title.
+
+#### (3) Rules of construction
+
+&emsp;For purposes of this subsection, a foreign bank shall be deemed to control any branch or agency of the foreign bank, and a person shall be deemed to act as a consultant for a depository institution, depository institution holding company, or other company, only if such person directly works on matters for, or on behalf of, such depository institution, depositoryinstitution holding company, or other company.
+
+#### (4) Regulations
+
+#### (A) In general
+
+&emsp;&emsp;Each Federal banking agency shall prescribe rules or regulations to administer and carry out this subsection, including rules, regulations, or guidelines to define the scope of persons referred to in paragraph (1)(B).
+
+#### (B) Consultation required
+
+&emsp;&emsp;The Federal banking agencies shall consult with each other for the purpose of assuring that the rules and regulations issued by the agencies under subparagraph (A) are, to the extent possible, consistent, comparable, and practicable, taking into account any differences in the supervisory programs utilized by the agencies for the supervision of depository institutions and depository institution holding companies.
+
+#### (5) Waiver
+
+#### (A) Agency authority
+
+&emsp;&emsp;A Federal banking agency may grant a waiver, on a case by case basis, of the restriction imposed by this subsection to any officer or employee (including any special Government employee) of that agency, and the Board of Governors of the Federal Reserve System may grant a waiver of the restriction imposed by this subsection to any officer or employee of a Federal reserve bank, if the head of such agency certifies in writing that granting the waiver would not affect the integrity of the supervisory program of the relevant Federal banking agency.
+
+#### (B) Definition
+
+&emsp;&emsp;For purposes of this paragraph, the head of an agency is—
+
+&emsp;&emsp;&emsp;(i) the Comptroller of the Currency, in the case of the Office of the Comptroller of the Currency;
+
+&emsp;&emsp;&emsp;(ii) the Chairman of the Board of Governors of the Federal Reserve System, in the case of the Board of Governors of the Federal Reserve System;
+
+&emsp;&emsp;&emsp;(iii) the Chairperson of the Board of Directors, in the case of the Corporation; and
+
+&emsp;&emsp;&emsp;(iv) the Director of the Office of Thrift Supervision, in the case of the Office of Thrift Supervision.
+
+#### (6) Penalties
+
+#### (A) In general
+
+&emsp;&emsp;In addition to any other administrative, civil, or criminal remedy or penalty that may otherwise apply, whenever a Federal banking agency determines that a person subject to paragraph (1) has become associated, in the manner described in paragraph (1)(C), with a depository institution, depository institution holding company, or other company for which such agency serves as the appropriate Federal banking agency, the agency shall impose upon such person one or more of the following penalties:
+
+#### (i) Industry-wide prohibition order
+
+&emsp;&emsp;&emsp;The Federal banking agency shall serve a written notice or order in accordance with and subject to the provisions of section 1818(e)(4) of this title for written notices or orders under paragraph (1) or (2) of section 1818(e) of this title, upon such person of the intention of the agency—
+
+&emsp;&emsp;&emsp;&emsp;(I) to remove such person from office or to prohibit such person from further participation in the conduct of the affairs of the depository institution, depository institution holding company, or other company for a period of up to 5 years; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to prohibit any further participation by such person, in any manner, in the conduct of the affairs of any insured depository institution for a period of up to 5 years.
+
+#### (ii) Civil monetary penalty
+
+&emsp;&emsp;&emsp;The Federal banking agency may, in an administrative proceeding or civil action in an appropriate United States district court, impose on such person a civil monetary penalty of not more than $250,000. Any administrative proceeding under this clause shall be conducted in accordance with section 1818(i) of this title. In lieu of an action by the Federal banking agency under this clause, the Attorney General of the United States may bring a civil action under this clause in the appropriate United States district court.
+
+#### (B) Scope of prohibition order
+
+&emsp;&emsp;Any person subject to an order issued under subparagraph (A)(i) shall be subject to paragraphs (6) and (7) of section 1818(e) of this title in the same manner and to the same extent as a person subject to an order issued under such section.
+
+#### (C) Definitions
+
+&emsp;&emsp;Solely for purposes of this paragraph, the “appropriate Federal banking agency” for a company that is not a depository institution or depository institution holding company shall be the Federal banking agency on whose behalf the person described in paragraph (1) performed the functions described in paragraph (1)(B).
+
+(Sept. 21, 1950, ch. 967, §2\[10\], 64 Stat. 882; Pub. L. 86–671, §4, July 14, 1960, 74 Stat. 551; Pub. L. 89–695, title II, §203, Oct. 16, 1966, 80 Stat. 1053; Pub. L. 91–452, title II, §208, Oct. 15, 1970, 84 Stat. 929; Pub. L. 95–369, §6(c)(16), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title III, §305, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title I, §113(i), title IV, §410(g), Oct. 15, 1982, 96 Stat. 1474, 1520; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–73, title II, §§201(a), 210, Aug. 9, 1989, 103 Stat. 187, 217; Pub. L. 102–242, title I, §§111(a), 113(a), (b), (c)(2), title II, §203(c), title III, §302(d), Dec. 19, 1991, 105 Stat. 2240, 2246–2248, 2292, 2349; Pub. L. 102–550, title XVI, §§1603(b)(1), (4), 1604(a)(3), 1605(a)(4), Oct. 28, 1992, 106 Stat. 4078, 4079, 4082, 4085; Pub. L. 102–558, title III, §§303(b)(5), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–325, title III, §§305(a), 306, 349(a), title V, §529(a), title VI, §602(a)(19), (20), Sept. 23, 1994, 108 Stat. 2216, 2217, 2242, 2266, 2289; Pub. L. 103–328, title I, §105, Sept. 29, 1994, 108 Stat. 2357; Pub. L. 104–208, div. A, title II, §§2221,2244, Sept. 30, 1996, 110 Stat. 3009–414, 3009–419; Pub. L. 108–386, §8(a)(3), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 108–458, title VI, §6303(b), Dec. 17, 2004, 118 Stat. 3751.)
 
 #### Prior Provisions
 
 Subsecs. (a), (b), \[former\] (e), and \[former\] (f) are derived from subsec. (k) of former section 264 of this title. See Codification note set out under section 1811 of this title.
 
 #### Amendments
+
+2004—Subsec. (b)(2)(A). Pub. L. 108–386 struck out “(except a District bank)” after “State nonmember bank”.
+
+Subsec. (k). Pub. L. 108–458 added subsec. (k).
 
 1996—Subsec. (d)(6)(B). Pub. L. 104–208, §2244(b), which directed insertion of “or State bank supervisors” after “one of the Federal agencies”, was executed by making the insertion after “one of the Federal banking agencies” to reflect the probable intent of Congress.
 
@@ -340,7 +426,7 @@ Subsec. (d). Pub. L. 97–320, §410(g), inserted “as in section 221a(b) of th
 
 Pub. L. 95–369 inserted “any insured State branch of a foreign bank, any State branch of a foreign bank making application to become an insured bank” after “(except a District bank)”, inserted “or branch” after “and any closed insured bank”, substituted “any national bank, insured Federal branch of a foreign bank, or District bank” for “any national bank or District bank” and inserted “and in the case of a foreign bank, a binding commitment by such bank to permit such examination to the extent determined by the Board of Directors to be necessary to carry out the purposes of this chapter shall be required as a condition to the insurance of any deposits” after “effect of such relations upon such banks”.
 
-Subsec. (c). Pub. L. 95–630, §305(b), among other changes, inserted references to State nonmember banks, other institutions making application to become insured banks, and investigations to determine compliance with applicable law and regulations and struck out provisions defining “affiliate” and “member bank”.
+Subsec. (c). Pub. L. 95–630, §305(b), among other changes, inserted references to State nonmember banks, other institutions making application to become insured banks, and investigations to determinecompliance with applicable law and regulations and struck out provisions defining “affiliate” and “member bank”.
 
 Subsec. (d). Pub. L. 95–630, §305(b), substituted provisions defining the terms “affiliate” and “member bank” for provisions relating to the enforcement of subpenas and orders.
 
@@ -355,6 +441,12 @@ Subsec. (c). Pub. L. 89–695 provided that in connection with examinations of i
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 2004 Amendments
+
+Amendment by Pub. L. 108–458 effective at the end of the 12-month period beginning on Dec. 17, 2004, whether or not final regulations are issued as of Dec. 17, 2004, in accordance with the amendments made by section 6303 of Pub. L. 108–458, amending this section and section 1786 of this title, see section 6303(d) of Pub. L. 108–458, set out as a note under section 1786 of this title.
+
+Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise provided, applicable with respect to fiscal year 2005 and each succeeding fiscal year, see sections 8(i) and 9 of Pub. L. 108–386, set out as notes under section 321 of this title.
 
 #### Effective Date of 1992 Amendments
 
@@ -399,8 +491,4 @@ Section 111(c) of Pub. L. 102–242 provided that: “Notwithstanding section 10
 #### Conditions Governing Employment of Personnel Not Repealed, Modified, or Affected
 
 Nothing contained in section 203 of Pub. L. 89–695 amending subsecs. (b) and (c) of this section to be construed as repealing, modifying, or affecting section 1829 of this title, see section 206 of Pub. L. 89–695, set out as a note under section 1813 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1464, 1820a, 1821, 1831v, 4204, 4224 of this title.
 

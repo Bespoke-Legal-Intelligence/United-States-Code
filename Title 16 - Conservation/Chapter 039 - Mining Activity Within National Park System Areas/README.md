@@ -18,10 +18,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 410aaa–48, 410aaa–59 of this title.
-
 
 ---
 

@@ -68,7 +68,3 @@ Subsec. (b)(3). Pub. L. 101–644, §502(2)–(4), added par. (3).
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4441 of this title.
-

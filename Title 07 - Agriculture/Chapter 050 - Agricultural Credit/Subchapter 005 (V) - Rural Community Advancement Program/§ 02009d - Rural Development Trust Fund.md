@@ -76,7 +76,7 @@ The Secretary shall allocate the amounts in each account specified in subsection
 
 #### (g) Availability of funds allocated for States
 
-The Secretary shall make available to each State the total amount allocated for the Stateunder subsection (f) of this section that remains after applying section 2009f of this title.
+The Secretary shall make available to each State the total amount allocated for the State under subsection (f) of this section that remains after applying section 2009f of this title.
 
 (Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140; amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071; Pub. L. 107–171, title VI, §6026(a), May 13, 2002, 116 Stat. 372.)
 
@@ -95,8 +95,4 @@ Subsecs. (g), (h). Pub. L. 107–171, §6026(a)(3), (4), redesignated subsec. (h
 Pub. L. 106–472, §304(b), substituted “paragraph (19) or (20) of section 1926(a)” for “section 1926(a)(19)”.
 
 1997—Subsec. (d)(3)(B). Pub. L. 105–86 inserted “direct and” after “business and industry”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2009e, 2009f of this title.
 

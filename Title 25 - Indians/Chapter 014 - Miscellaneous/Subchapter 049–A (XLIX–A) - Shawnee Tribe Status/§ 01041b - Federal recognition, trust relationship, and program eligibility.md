@@ -2,13 +2,13 @@
 
 #### (a) Federal recognition
 
-The Federal recognition of the Tribe and the trust relationship between the United States and the Tribe are hereby reaffirmed. Except as otherwise provided in this subchapter, the Act of June 26, 1936 (49 Stat. 1967; 25 U.S.C. 501 et seq.) (commonly known as the “Oklahoma Indian Welfare Act”), and all laws and rules of law of the United States of general application to Indians, Indian tribes, or Indian reservations which are not inconsistent with this subchapter shall apply to the Tribe, and to its members and lands. The Tribe is hereby recognized as an independent tribal entity, separate from the Cherokee Nation or any other Indian tribe.
+The Federal recognition of the Tribe and the trust relationship between the United Statesand the Tribe are hereby reaffirmed. Except as otherwise provided in this subchapter, the Act of June 26, 1936 (49 Stat. 1967; 25 U.S.C. 501 et seq.) (commonly known as the “Oklahoma Indian Welfare Act”), and all laws and rules of law of the United States of general application to Indians, Indian tribes, or Indian reservations which are not inconsistent with this subchapter shall apply to the Tribe, and to its members and lands. The Tribe is hereby recognized as an independent tribal entity, separate from the Cherokee Nation or any other Indian tribe.
 
 #### (b) Program eligibility
 
 #### (1) In general
 
-&emsp;Subject to the provisions of this subsection, the Tribe and its members are eligible for all special programs and services provided by theUnited States to Indians because of their status as Indians.
+&emsp;Subject to the provisions of this subsection, the Tribe and its members are eligible for all special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (2) Continuation of benefits
 

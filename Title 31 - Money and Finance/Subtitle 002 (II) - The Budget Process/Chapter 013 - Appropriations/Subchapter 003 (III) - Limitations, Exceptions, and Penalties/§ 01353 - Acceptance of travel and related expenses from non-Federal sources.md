@@ -4,7 +4,7 @@
 
 (b) Except as provided in this section or section 4111 or 7342 of title 5, an agency or employee may not accept payment for expenses referred to in subsection (a). An employee who accepts any payment in violation of the preceding sentence—
 
-&emsp;(1) may be required, in addition to any penalty provided by law, to repay, for deposit inthe general fund of the Treasury, an amount equal to the amount of the payment so accepted; and
+&emsp;(1) may be required, in addition to any penalty provided by law, to repay, for deposit in the general fund of the Treasury, an amount equal to the amount of the payment so accepted; and
 
 &emsp;(2) in the case of a repayment under paragraph (1), shall not be entitled to any payment from the Government for such expenses.
 
@@ -30,7 +30,7 @@
 
 &emsp;(C) be submitted not later than November 30 of each year with respect to payments in the preceding period beginning on April 1 and ending on September 30.
 
-(Added Pub. L. 101–194, title III, §302(a), Nov. 30, 1989, 103 Stat. 1745, §1352; renumbered §1353 and amended Pub. L. 101–280, §4(b)(1), (c), May 4, 1990, 104 Stat. 157, 158.)
+(Added Pub. L. 101–194, title III, §302(a), Nov. 30, 1989, 103 Stat. 1745, §1352; renumbered §1353 andamended Pub. L. 101–280, §4(b)(1), (c), May 4, 1990, 104 Stat. 157, 158.)
 
 #### Amendments
 

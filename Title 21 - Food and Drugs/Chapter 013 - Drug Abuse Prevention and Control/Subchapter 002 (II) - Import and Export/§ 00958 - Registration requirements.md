@@ -2,7 +2,7 @@
 
 #### (a) Applicants to import or export controlled substances in schedule I or II
 
-The Attorney General shall register an applicant to import or export a controlled substance in schedule I or II if he determines that such registration is consistent with the public interest and with United States obligations under international treaties, conventions, or protocols in effect on May 1, 1971. In determining the public interest, the factors enumerated in paragraph (1) through (6) of section 823(a) of this title shall be considered.
+The Attorney General shall register an applicant to import or export a controlled substancein schedule I or II if he determines that such registration is consistent with the public interest and with United States obligations under international treaties, conventions, or protocols in effect on May 1, 1971. In determining the public interest, the factors enumerated in paragraph (1) through (6) of section 823(a) of this title shall be considered.
 
 #### (b) Activity limited to specified substances
 
@@ -36,7 +36,7 @@ No registration shall be issued under this subchapter for a period in excess of 
 
 #### (f) Rules and regulations
 
-The Attorney General is authorized to promulgate rules and regulations and to charge reasonable fees relating to the registration of importers and exporters of controlled substances or list I chemicals under this section.
+The Attorney General is authorized to promulgate rules and regulations and to charge reasonable fees relating to the registration and control of importers and exporters of controlled substances or listed chemicals.
 
 #### (g) Scope of authorized activity
 
@@ -50,7 +50,7 @@ A separate registration shall be required at each principal place of business wh
 
 Except in emergency situations as described in section 952(a)(2)(A) of this title, prior to issuing a registration under this section to a bulk manufacturer of a controlled substance in schedule I or II, and prior to issuing a regulation under section 952(a) of this title authorizing the importation of such a substance, the Attorney General shall give manufacturers holding registrations for the bulk manufacture of the substance an opportunity for a hearing.
 
-(Pub. L. 91–513, title III, §1008, Oct. 27, 1970, 84 Stat. 1289; Pub. L. 98–473, title II, §§524, 525, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 99–570, title I, §1866(d), Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 103–200, §3(f), Dec. 17, 1993, 107 Stat. 2337.)
+(Pub. L. 91–513, title III, §1008, Oct. 27, 1970, 84 Stat. 1289; Pub. L. 98–473, title II, §§524, 525, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 99–570, title I, §1866(d), Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 103–200, §3(f), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 108–447, div. B, title VI, §633(c), Dec. 8, 2004, 118 Stat. 2922.)
 
 #### References in Text
 
@@ -63,6 +63,8 @@ This subchapter, referred to in subsecs. (d)(4) and (g), was in the original “
 In subsecs. (a) and (d), “May 1, 1971” substituted for “the effective date of this section” and “the effective date of this part”, respectively.
 
 #### Amendments
+
+2004—Subsec. (f). Pub. L. 108–447, which directed amendment of subsec. (f) of section 1088 of the Controlled Substances Import and Export Act by inserting “and control” after “the registration” and substituting “listed chemicals” for “list I chemicals under this section”, was executed to subsec. (f) of this section, which is section 1008 of the Controlled Substances Import and Export Act, to reflect the probable intent of Congress.
 
 1993—Subsec. (c). Pub. L. 103–200, §3(f)(1), designated existing provisions as par. (1) and added par. (2).
 
@@ -83,8 +85,4 @@ Subsecs. (d) to (i). Pub. L. 98–473, §525, added subsec. (d), redesignated fo
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17, 1993, see section 11 of Pub. L. 103–200, set out as a note under section 802 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 844, 957, 965 of this title.
 

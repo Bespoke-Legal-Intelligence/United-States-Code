@@ -10,7 +10,3 @@ The owner of a mask work provided protection under this chapter has the exclusiv
 
 (Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3350.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 906, 910 of this title.
-

@@ -148,9 +148,5 @@ Pub. L. 107–355, §8(a)(2), substituted “is or would be hazardous” for “
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 60120, 60122 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
 

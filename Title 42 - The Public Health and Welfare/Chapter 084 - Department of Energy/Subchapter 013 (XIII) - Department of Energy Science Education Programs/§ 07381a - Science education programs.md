@@ -6,7 +6,7 @@ The Secretary is authorized to establish programs to enhance the quality of math
 
 #### (b) Relationship to other Department activities
 
-The programs described in subsection (a) of this section shall supplement and be coordinated with current activities of the Department, but shall not supplant them.
+The programs described in subsection (a) of this section shall supplement and be coordinatedwith current activities of the Department, but shall not supplant them.
 
 (Pub. L. 101–510, div. C, title XXXI, §3164, Nov. 5, 1990, 104 Stat. 1841.)
 

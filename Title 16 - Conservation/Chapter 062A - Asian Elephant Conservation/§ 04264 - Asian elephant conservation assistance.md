@@ -6,7 +6,7 @@ The Secretary, subject to the availability of funds and in consultation with the
 
 #### (b) Project proposal
 
-Any relevant wildlife management authority of a nation within the range of Asian elephants whose activities directly or indirectly affect Asian elephant populations, the CITES Secretariat, or any person with demonstrated expertise in the conservation of Asian elephants, may submit to the Secretary a project proposal under this section. Each proposal shall include the following:
+Any relevant wildlife management authority of a nation within the range of Asian elephants whose activities directly or indirectly affect Asian elephant populations, the CITES Secretariat, or any person with demonstrated expertise in the conservation of Asian elephants, may submit to the Secretary a project proposalunder this section. Each proposal shall include the following:
 
 &emsp;(1) The name of the individual responsible for conducting the project.
 
@@ -69,8 +69,4 @@ In determining whether to approve project proposals under this section, the Secr
 Amounts provided as a grant under this chapter may not be used for captive breeding of Asian elephants other than for release in the wild.
 
 (Pub. L. 105–96, §5, Nov. 19, 1997, 111 Stat. 2151.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4246, 4265 of this title.
 

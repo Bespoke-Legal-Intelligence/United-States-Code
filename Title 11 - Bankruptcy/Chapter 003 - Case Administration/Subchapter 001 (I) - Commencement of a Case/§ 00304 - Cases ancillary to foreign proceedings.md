@@ -48,7 +48,3 @@ This section governs cases filed in the bankruptcy courts that are ancillary to 
 
 Subsection (c) requires the court to consider several factors in determining what relief, if any, to grant. The court is to be guided by what will best assure an economical and expeditious administration of the estate, consistent with just treatment of all creditors and equity security holders; protection of local creditors and equity security holders against prejudice and inconvenience in processing claims and interests in the foreign proceeding; prevention of preferential or fraudulent disposition of property of the estate; distribution of the proceeds of the estate substantially in conformity with the distribution provisions of the bankruptcy code; and, if the debtor is an individual, the provision of an opportunity for a fresh start. These guidelines are designed to give the court the maximum flexibility in handling ancillary cases. Principles of international comity and respect for the judgments and laws of other nations suggest that the court be permitted to make the appropriate orders under all of the circumstances of each case, rather than being provided with inflexible rules.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 305, 306 of this title; title 28 section 1410.
-

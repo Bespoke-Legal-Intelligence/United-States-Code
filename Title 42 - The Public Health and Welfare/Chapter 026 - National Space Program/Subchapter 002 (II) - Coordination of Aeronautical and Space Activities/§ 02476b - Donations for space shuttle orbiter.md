@@ -20,7 +20,3 @@ The name of a space shuttle orbiter constructed in whole or in part with gifts o
 
 (Pub. L. 85–568, title II, §208, as added Pub. L. 100–147, title I, §115, Oct. 30, 1987, 101 Stat. 866.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2467a of this title.
-

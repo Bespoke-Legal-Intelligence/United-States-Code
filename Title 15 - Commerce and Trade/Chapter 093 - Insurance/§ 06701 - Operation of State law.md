@@ -2,7 +2,7 @@
 
 #### (a) State regulation of the business of insurance
 
-The Act entitled “An Act to express the intent of Congress with reference to the regulation of the business of insurance” and approved March 9, 1945 (15 U.S.C. 1011 et seq.) (commonly referred to as the “McCarran-Ferguson Act”) remains the law of the United States.
+The Act entitled “An Act to express the intent of Congress with reference to the regulation of the business of insurance” and approved March9, 1945 (15 U.S.C. 1011 et seq.) (commonly referred to as the “McCarran-Ferguson Act”) remains the law of the United States.
 
 #### (b) Mandatory insurance licensing requirements
 
@@ -88,7 +88,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;(xi) Restrictions requiring that, when a customer obtains insurance (other than credit insurance or flood insurance) and credit from a depository institution, or any affiliate of such institution, or any person soliciting the purchase of or selling insurance on the premises thereof, the credit and insurance transactions be completed through separate documents.
 
-&emsp;&emsp;&emsp;(xii) Restrictions prohibiting, when a customer obtains insurance (other than credit insurance or flood insurance) and credit from a depository institution or an affiliate of such institution, or any person soliciting the purchase of or selling insurance on the premises thereof, inclusion of the expense of insurance premiums in the primary credit transaction without the express written consent of the customer.
+&emsp;&emsp;&emsp;(xii) Restrictions prohibiting, when a customer obtains insurance (other than credit insurance or flood insurance) and credit from a depository institution or an affiliate of such institution, or any personsoliciting the purchase of or selling insurance on the premises thereof, inclusion of the expense of insurance premiums in the primary credit transaction without the express written consent of the customer.
 
 &emsp;&emsp;&emsp;(xiii) Restrictions requiring maintenance of separate and distinct books and records relating to insurance transactions, including all files relating to and reflecting consumer complaints, and requiring that such insurance books and records be made available to the appropriate State insurance regulator for inspection upon reasonable notice.
 
@@ -136,7 +136,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;(i) does not distinguish by its terms between depository institutions, and affiliates thereof, engaged in the activity at issue and other persons engaged in the same activity in a manner that is in any way adverse with respect to the conduct of the activity by any such depository institution or affiliate engaged in the activity at issue;
 
-&emsp;&emsp;&emsp;(ii) as interpreted or applied, does not have, and will not have, an impact on depository institutions, or affiliates thereof, engaged in the activity at issue, or anyperson who has an association with any such depository institution or affiliate, that is substantially more adverse than its impact on other persons engaged in the same activity that are not depository institutions or affiliates thereof, or persons who do not have an association with any such depository institution or affiliate;
+&emsp;&emsp;&emsp;(ii) as interpreted or applied, does not have, and will not have, an impact on depository institutions, or affiliates thereof, engaged in the activity at issue, or any person who has an association with any such depository institution or affiliate, that is substantially more adverse than its impact on other persons engaged in the same activity that are not depository institutions or affiliates thereof, or persons who do not have an association with any such depository institution or affiliate;
 
 &emsp;&emsp;&emsp;(iii) does not effectively prevent a depository institution or affiliate thereof from engaging in activities authorized or permitted by this Act or any other provision of Federal law; and
 
@@ -146,7 +146,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 Except as provided in any restrictions described in subsection (d)(2)(B) of this section, no State may, by statute, regulation, order, interpretation, or other action, regulate the insurance activities authorized or permitted under this Act or any other provision of Federal law of a depository institution, or affiliate thereof, to the extent that such statute, regulation, order, interpretation, or other action—
 
-&emsp;(1) distinguishes by its terms between depository institutions, or affiliates thereof, and other persons engaged in such activities, in a manner that is in any way adverse to any such depository institution, or affiliate thereof;
+&emsp;(1) distinguishes by its terms between depository institutions, or affiliates thereof, and other persons engaged in such activities, in amanner that is in any way adverse to any such depository institution, or affiliate thereof;
 
 &emsp;(2) as interpreted or applied, has or will have an impact on depository institutions, or affiliates thereof, that is substantially more adverse than its impact on other persons providing the same products or services or engaged in the same activities that are not depository institutions, or affiliates thereof, or persons or entities affiliated therewith;
 
@@ -206,7 +206,7 @@ Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in s
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–297, §1(a), Nov. 26, 2002, 116 Stat. 2322, provided that: “This Act \[amending section 248 of Title 12,Banks and Banking, and sections 1606 and 1610 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and section 1610 of Title 28, and amending provisions set out as a note under section 1610 of Title 28\] may be cited as the ‘Terrorism Risk Insurance Act of 2002’.”
+Pub. L. 107–297, §1(a), Nov. 26, 2002, 116 Stat. 2322, provided that: “This Act \[amending section 248 of Title 12, Banks and Banking, and sections 1606 and 1610 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and section 1610 of Title 28, and amending provisions set out as a note under section 1610 of Title 28\] may be cited as the ‘Terrorism Risk Insurance Act of 2002’.”
 
 #### Terrorism Insurance Program
 
@@ -222,7 +222,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(2) property and casualty insurance firms are important financial institutions, the products of which allow mutualization of risk and the efficient use of financial resources and enhance the ability of the economy to maintain stability, while responding to a variety of economic, political, environmental, and other risks with a minimum of disruption;
 
-&emsp;“(3) the ability of the insurance industry to cover the unprecedented financial risks presented by potential acts of terrorism in the United States can be a major factor in the recovery from terrorist attacks, while maintaining the stability of the economy;
+&emsp;“(3) the ability of the insurance industry to cover the unprecedented financial risks presented by potential acts of terrorism in the United States can be amajor factor in the recovery from terrorist attacks, while maintaining the stability of the economy;
 
 &emsp;“(4) widespread financial market uncertainties have arisen following the terrorist attacks of September 11, 2001, including the absence of information from which financial institutions can make statistically valid estimates of the probability and cost of future terrorist events, and therefore the size, funding, and allocation of the risk of loss caused by such acts of terrorism;
 
@@ -824,7 +824,7 @@ Procedures and Damages.—
 
 &emsp;“(1)
 
-In general.—If the Secretary makes a determination pursuant to section 102 that an act of terrorism has occurred, there shall exist a Federal cause of action for property damage, personal injury, or death arising out of or resulting from such act of terrorism, which shall be the exclusive cause of actionand remedy for claims for property damage, personal injury, or death arising out of or relating to such act of terrorism, except as provided in subsection (b).
+In general.—If the Secretary makes a determination pursuant to section 102 that an act of terrorism has occurred, there shall exist a Federal cause of action for property damage, personal injury, or death arising out of or resulting from such act of terrorism, which shall be the exclusive cause of action and remedy for claims for property damage, personal injury, or death arising out of or relating to such act of terrorism, except as provided in subsection (b).
 
 &emsp;“(2)
 
@@ -895,8 +895,4 @@ Report.—The Secretary shall submit a report to the Congress on the results of 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6711, 6713, 6715, 6805, 7706 of this title; title 12 section 1844.
 

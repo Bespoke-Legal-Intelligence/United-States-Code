@@ -24,7 +24,3 @@ Chapter effective 30 days after Oct. 12, 1976, except either as specifically oth
 
 Pub. L. 95–270, Apr. 27, 1978, 92 Stat. 220, which enacted sections 2566 to 2569 of this title, is known as the Hubert H. Humphrey Institute of Public Affairs and the Everett McKinley Dirksen Congressional Leadership Research Center Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 2566 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2502 of this title.
-

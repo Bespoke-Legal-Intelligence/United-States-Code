@@ -130,10 +130,6 @@ Another prior section 294c, act July 1, 1944, ch. 373, title VII, §743, as adde
 
 2002—Subsec. (a)(1). Pub. L. 107–205 substituted “, and section 296(2) of this title,” for “, and section 298b(2) of this title,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 294f, 294g, 298 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “paragraph (5)”.</i>

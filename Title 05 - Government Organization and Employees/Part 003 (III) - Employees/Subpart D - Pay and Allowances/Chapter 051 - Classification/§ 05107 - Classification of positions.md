@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Oct. 28, 1949, ch. 782, §502(a), 63 Stat. 958.
 
-The words “to which this chapter applies” are omitted as unnecessary in view of section 5102. The words “Subject to section 5337 of this title” are added to reflect the qualification imposed by that section.
+The words “to which this chapter applies” are omitted as unnecessary in view of section 5102. The words“Subject to section 5337 of this title” are added to reflect the qualification imposed by that section.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -31,8 +31,4 @@ Standard changes are made to conform with the definitions applicable and the sty
 Amendment by section 803(a)(3)(E) of Pub. L. 95–454, substituting reference to subchapter VI of chapter 53 for reference to section 5337, effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
 
 Amendment by section 906(a)(2), (3) of Pub. L. 95–454, substituting reference to Office of Personnel Management for reference to Civil Service Commission, effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5111, 5112 of this title; title 12 section 4523; title 36 sections 151304, 151704, 152404.
 

@@ -34,7 +34,3 @@ Following publication of the Commission's recommendations the Secretary shall ha
 
 In subsec. (a), “section 60501 of title 49” substituted for reference to section 306 of this Act, meaning section 306 of Pub. L. 95–91 \[42 U.S.C. 7155\], and “section 60502 of title 49” substituted for reference to section 402(b), meaning section 402(b) of Pub. L. 95–91 \[42 U.S.C. 7172(b)\] on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7172 of this title.
-

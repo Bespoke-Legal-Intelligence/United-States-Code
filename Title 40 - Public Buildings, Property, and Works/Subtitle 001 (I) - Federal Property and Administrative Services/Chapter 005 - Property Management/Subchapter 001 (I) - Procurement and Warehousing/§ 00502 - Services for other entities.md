@@ -94,7 +94,7 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (c)(3)(B)(ii), i
 
 Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
-#### Section Referred to in Other Sections
+#### Public Land Management Agency Foundations
 
-This section is referred to in section 322 of this title; title 28 section 612; title 50 section 491.
+Pub. L. 108–352, §9, Oct. 21, 2004, 118 Stat. 1396, provided that: “Employees of the foundations established by Acts of Congress to solicit private sector funds on behalf of Federal land management agencies shall qualify for General Service Administration contract airfares.”
 

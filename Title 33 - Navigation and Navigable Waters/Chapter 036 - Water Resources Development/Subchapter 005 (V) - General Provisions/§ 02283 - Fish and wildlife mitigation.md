@@ -106,7 +106,3 @@ Special rule.—In carrying out subparagraph (A)(ii), the Comptroller General sh
 
 Report.—Not later than 1 year after the date of enactment of this Act \[Dec. 11, 2000\], the Comptroller General shall transmit to Congress a report on the results of the investigation.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 652, 2211, 2213 of this title.
-

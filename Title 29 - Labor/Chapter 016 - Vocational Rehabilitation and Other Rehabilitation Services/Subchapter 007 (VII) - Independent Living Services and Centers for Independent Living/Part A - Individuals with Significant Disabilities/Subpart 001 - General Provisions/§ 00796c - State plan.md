@@ -70,7 +70,7 @@ The plan shall set forth a design for the establishment of a statewide network o
 
 #### (h) Centers
 
-In States in which State funding for centers for independent living equals or exceeds theamount of funds allotted to the State under subpart 3, as provided in section 796f–2 of this title, the plan shall include policies, practices, and procedures governing the awarding of grants to centers for independent living and oversight of such centers consistent with section 796f–2 of this title.
+In States in which State funding for centers for independent living equals or exceeds the amount of funds allotted to the State under subpart 3, as provided in section 796f–2 of this title, the plan shall include policies, practices, and procedures governing the awarding of grants to centers for independent living and oversight of such centers consistent with section 796f–2 of this title.
 
 #### (i) Cooperation, coordination, and working relationships among various entities
 
@@ -82,7 +82,7 @@ The plan shall set forth the steps that will be taken to maximize the cooperatio
 
 #### (j) Coordination of services
 
-The plan shall describe how services funded under this part will be coordinated with, and complement, other services, in order to avoid unnecessary duplication with other Federal, State, and local programs.
+The plan shall describe how services funded under this part will be coordinated with, andcomplement, other services, in order to avoid unnecessary duplication with other Federal, State, and local programs.
 
 #### (k) Coordination between Federal and State sources
 
@@ -131,8 +131,4 @@ The plan shall establish a method for the periodic evaluation of the effectivene
 A prior section 796c, Pub. L. 93–112, title VII, §704, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4444; amended Pub. L. 103–73, title I, §114(b), Aug. 11, 1993, 107 Stat. 728, related to State plans, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 Another prior section 796c, Pub. L. 93–112, title VII, §704, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978, 92 Stat. 2997; amended Pub. L. 100–630, title II, §208(c), Nov. 7, 1988, 102 Stat. 3314, related to payments to States from allotments to pay Federal share of expenditures, prior to repeal by Pub. L. 102–569, §701(1).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 764, 796d, 796d–1, 796f–1, 796f–2, 796f–4, 796k of this title.
 

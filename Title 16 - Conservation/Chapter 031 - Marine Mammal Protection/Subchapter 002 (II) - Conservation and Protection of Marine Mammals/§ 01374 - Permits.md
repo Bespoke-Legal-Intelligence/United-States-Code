@@ -58,7 +58,7 @@ Any permit issued under this section shall—
 
 &emsp;(i) finds in concurrence with the Secretary of Agriculture, that a person that holds a permit under this paragraph for a marine mammal, or a person exercising rights under subparagraph (C), no longer meets the requirements of subparagraph (A)(ii) and is not reasonably likely to meet those requirements in the near future, or
 
-&emsp;(ii) finds that a person that holds a permit under this paragraph for a marine mammal, or a person exercising rights under subparagraph (C), no longer meets the requirements of subparagraph (A)(i) or (iii) and is not reasonably likely to meet those requirements in the near future,
+&emsp;(ii) finds that a person that holds a permit under this paragraph for a marine mammal, or a person exercising rights under subparagraph (C), no longer meets the requirements of subparagraph (A)(i) or (iii) and is not reasonablylikely to meet those requirements in the near future,
 
 > the Secretary may revoke the permit in accordance with subsection (e) of this section, seize the marine mammal, or cooperate with other persons authorized to hold marine mammals under this chapter for disposition of the marine mammal. The Secretary may recover from the person expenses incurred by the Secretary for that seizure.
 
@@ -263,10 +263,6 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 #### Modification of Permits Existing Prior to April 30, 1994
 
 Section 5(c) of Pub. L. 103–238 provided that: “Any permit issued under section 104(c)(2) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1374(c)(2)) before the date of the enactment of this Act \[Apr. 30, 1994\] is hereby modified to be consistent with that section as amended by this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 973g, 1362, 1371, 1372, 1373, 1383a, 1384, 1387, 1421d of this title; title 19 section 1466.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

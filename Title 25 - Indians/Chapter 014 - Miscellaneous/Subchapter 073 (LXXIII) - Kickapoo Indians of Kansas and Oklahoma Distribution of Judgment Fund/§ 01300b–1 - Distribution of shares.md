@@ -10,7 +10,3 @@ The balance of each tribe's share of the funds may be advanced, expended, invest
 
 (Pub. L. 92–467, §2, Oct. 6, 1972, 86 Stat. 781.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300b–2 of this title.
-

@@ -8,7 +8,7 @@ The Secretary of Education shall provide, either directly or by grant or contrac
 
 &emsp;(2) the ongoing analysis of career trends and options in the United States, using information from both the public and private sectors, including such sources as the Bureau of Labor Statistics, the Department of Commerce, the United States International Trade Commission, economic analysts, labor unions, and private industry;
 
-&emsp;(3) the publication of periodic reports and reference works using analysis prepared pursuant to this section and containing exemplary materials from the career education field, including research findings, results, and techniques from successful projects and programs, and highlights of ongoing analyses of career trends in the United States; and
+&emsp;(3) the publication of periodic reports and reference works using analysis prepared pursuant to this section and containing exemplarymaterials from the career education field, including research findings, results, and techniques from successful projects and programs, and highlights of ongoing analyses of career trends in the United States; and
 
 &emsp;(4) the conduct of seminars, workshops, and career information sessions for the purpose of disseminating to teachers, guidance counselors, other career educators, administrators, other education personnel, and the general public information compiled and analyzed under this section.
 
@@ -25,8 +25,4 @@ In carrying out the provisions of this subchapter, and to the extent practicable
 #### Transfer of Functions
 
 “Secretary of Education” substituted for “Commissioner” in text, and “Department of Education” substituted for “Education Division” in subsec. (b)(3), pursuant to sections 301(a)(1), (b)(2) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1), (b)(2) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education and transferred Education Division to Department of Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2502 of this title.
 

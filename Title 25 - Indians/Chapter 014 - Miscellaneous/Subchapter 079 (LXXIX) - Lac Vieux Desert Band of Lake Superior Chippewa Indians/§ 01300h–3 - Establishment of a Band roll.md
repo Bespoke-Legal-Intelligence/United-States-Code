@@ -28,7 +28,3 @@ The Band shall ensure that the roll, once completed and approved, is maintained 
 
 1996—Subsec. (d)(2). Pub. L. 104–109 substituted “requirement and base roll if such modifications are” for “requirement if such modification is”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300h–1, 1300h–6 of this title.
-

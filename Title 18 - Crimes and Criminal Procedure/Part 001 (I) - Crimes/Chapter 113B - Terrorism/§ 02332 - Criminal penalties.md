@@ -14,7 +14,7 @@ Homicide.—Whoever kills a national of the United States, while such national i
 
 Attempt or Conspiracy With Respect to Homicide.—Whoever outside the United States attempts to kill, or engages in a conspiracy to kill, a national of the United States shall—
 
-&emsp;(1) in the case of an attempt to commit a killing that is a murder as defined in this chapter, be fined under this title or imprisoned not more than 20 years, or both; and
+&emsp;(1) in the case of an attempt to commit a killing that is a murder as defined in thischapter, be fined under this title or imprisoned not more than 20 years, or both; and
 
 &emsp;(2) in the case of a conspiracy by two or more persons to commit a killing that is a murder as defined in section 1111(a) of this title, if one or more of such persons do any overt act to effect the object of the conspiracy, be fined under this title or imprisoned for any term of years or for life, or both so fined and so imprisoned.
 
@@ -51,8 +51,4 @@ Definition.—As used in this section the term ‘national of the United States�
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–572 applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as an Effective Date note under section 2331 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1956, 2332b, 2333, 2339A, 2516, 3592 of this title.
 

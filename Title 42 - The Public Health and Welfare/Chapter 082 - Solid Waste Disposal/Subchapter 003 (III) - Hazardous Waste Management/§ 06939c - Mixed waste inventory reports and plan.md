@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(C) A description, including the capacity, number and location, of any existing treatment unit that was not considered in calculating the estimate under subparagraph (A) but that could, alone or in conjunction with other treatment units, be used to treat any of the wastes described in the report required by paragraph (1)(A) to meet the requirements of regulations promulgated pursuant to section 6924(m) of this title.
 
-&emsp;&emsp;(D) For each unit listed in subparagraph (C), a statement of the reasons why the unitwas not included in calculating the estimate under subparagraph (A).
+&emsp;&emsp;(D) For each unit listed in subparagraph (C), a statement of the reasons why the unit was not included in calculating the estimate under subparagraph (A).
 
 &emsp;&emsp;(E) A description, including the capacity, number, location, and estimated date of availability, of each treatment unit currently proposed to increase the treatment capacities estimated under subparagraph (A).
 
@@ -86,7 +86,7 @@
 
 #### (3) Public participation
 
-&emsp;Upon submission of a plan by the Secretary of Energy to the Administrator or a State, and before approval of the plan by the Administrator or a State, the Administrator or State shall publish a notice of the availability of thesubmitted plan and make such submitted plan available to the public on request.
+&emsp;Upon submission of a plan by the Secretary of Energy to the Administrator or a State, andbefore approval of the plan by the Administrator or a State, the Administrator or State shall publish a notice of the availability of the submitted plan and make such submitted plan available to the public on request.
 
 #### (4) Revisions of plan
 

@@ -64,7 +64,7 @@ In furtherance of the purposes of this subchapter, the Commission is authorized 
 
 &emsp;(3) upon the request of the Commission, the head of any Federal agency may detail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties;
 
-&emsp;(4) appoint and fix the compensation of such staff as may be necessary to carry out its duties. Staff shall be appointed subject to the provisions of title 5 governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates;
+&emsp;(4) appoint and fix the compensation of such staff as may be necessary to carry out its duties. Staff shall be appointed subject to the provisions of title 5 governing appointments inthe competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates;
 
 &emsp;(5) enter into cooperative agreements with public or private individuals or entities for research, historic preservation, and education purposes;
 
@@ -101,10 +101,6 @@ The Commission shall submit an annual report to the Secretary identifying its ex
 This subchapter, referred to in subsec. (a), was in the original “titles II and III of this Act” and was translated as reading “titles III and IV of this Act” meaning titles III and IV of Pub. L. 103–449, which are classified generally to this subchapter, to reflect the probable intent of Congress in view of similar references in subsecs. (c) and (d) of this section. Title II of Pub. L. 103–449, known as the Weir Farm National Historic Site Expansion Act of 1994, amended provisions listed in a table of National Historic Sites set out under section 461 of this title.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(4), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410ccc–2 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

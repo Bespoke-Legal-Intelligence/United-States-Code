@@ -56,7 +56,7 @@ The Attorney General shall annually (1) select the controlled substance (or cont
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(7), was in the original as added by Pub. L. 99–646 “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended. In the subsec. (a)(7) added by Pub. L. 99–570, the reference was “this title”, meaning title II of Pub. L. 91–513 which is popularly known as the “Controlled Substances Act” and is classified principally to this subchapter. For complete classification of this Act and title II to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (a)(7), was in the original as added by Pub. L. 99–646 “this Act”, meaningPub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended. In the subsec. (a)(7) added by Pub. L. 99–570, the reference was “this title”, meaning title II of Pub. L. 91–513 which is popularly known as the “Controlled Substances Act” and is classified principally to this subchapter. For complete classification of this Act and title II to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 Schedule II, referred to in subsec. (c), is set out in section 812(c) of this title.
 
@@ -130,19 +130,19 @@ Particular positions.—In carrying out activities under paragraphs (5) through 
 
 “(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated for the Drug Enforcement Administration for each fiscal year after fiscalyear 1999, $9,500,000 for purposes of carrying out the activities authorized by subsection (a) and employing personnel in positions established under subsection (b), of which $3,000,000 shall be available for activities under paragraphs (5) through (8) of subsection (a) and for employing personnel in positions established under subsection (b)(2).”
+Authorization of Appropriations.—There are authorized to be appropriated for the Drug Enforcement Administration for each fiscal year after fiscal year 1999, $9,500,000 for purposes of carrying out the activities authorized by subsection (a) and employing personnel in positions established under subsection (b), of which $3,000,000 shall be available for activities under paragraphs (5) through (8) of subsection (a) and for employing personnel in positions established under subsection (b)(2).”
 
 #### National Drug Intelligence Center
 
-Pub. L. 108–177, title I, §104(e), Dec. 13, 2003, 117 Stat. 2602, provided that:
+Pub. L. 108–487, title I, §104(e), Dec. 23, 2004, 118 Stat. 3942, provided that:
 
 “(1)
 
-In general.—Of the amount authorized to be appropriated in subsection (a) \[117 Stat. 2601\], $47,142,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, testing, and evaluation purposes shall remain available until September 30, 2005, and funds provided for procurement purposes shall remain available until September 30, 2006.
+In general.—Of the amount authorized to be appropriated in subsection (a) \[118 Stat. 3941\], $42,322,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, testing, and evaluation purposes shall remain available until September 30, 2006, and funds provided for procurement purposes shall remain available until September 30, 2007.
 
 “(2)
 
-Transfer of funds.—The Director of Central Intelligence shall transfer to the Attorney General funds available for the National Drug Intelligence Center under paragraph (1). The Attorney General shall utilize funds so transferred for the activities of the National Drug Intelligence Center.
+Transfer of funds.—The Director of National Intelligence shall transfer to the Attorney General funds available for the National Drug Intelligence Center under paragraph (1). The Attorney General shall utilize funds so transferred for the activities of the National Drug Intelligence Center.
 
 “(3)
 
@@ -152,7 +152,9 @@ Limitation.—Amounts available for the National Drug Intelligence Center may no
 
 Authority.—Notwithstanding any other provision of law, the Attorney General shall retain full authority over the operations of the National Drug Intelligence Center.”
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following prior authorization acts:
+
+Pub. L. 108–177, title I, §104(e), Dec. 13, 2003, 117 Stat. 2602.
 
 Pub. L. 107–306, title I, §104(e), Nov. 27, 2002, 116 Stat. 2387.
 
@@ -173,10 +175,6 @@ Pub. L. 103–139, title VIII, §8056, Nov. 11, 1993, 107 Stat. 1452, provided t
 Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 102–396, title IX, §9078, Oct. 6, 1992, 106 Stat. 1919.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 14081.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

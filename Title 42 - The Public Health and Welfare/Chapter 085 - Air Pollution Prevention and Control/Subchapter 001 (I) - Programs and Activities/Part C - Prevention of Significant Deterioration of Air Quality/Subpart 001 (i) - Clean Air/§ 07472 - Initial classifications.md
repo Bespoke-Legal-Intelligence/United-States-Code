@@ -28,7 +28,3 @@ Subsec. (b). Pub. L. 101–549, §110(2), substituted “designated pursuant to 
 
 1977—Subsec. (a)(4). Pub. L. 95–190 inserted a comma after “size”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7474, 7478 of this title.
-

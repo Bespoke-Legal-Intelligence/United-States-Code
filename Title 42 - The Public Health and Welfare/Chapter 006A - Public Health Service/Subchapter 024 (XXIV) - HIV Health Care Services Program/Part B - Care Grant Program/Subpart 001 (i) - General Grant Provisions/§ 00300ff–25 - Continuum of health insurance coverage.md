@@ -24,9 +24,5 @@ Section 300ff–22 of this title, referred to in subsec. (a), was amended by Pub
 
 The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–22, 300ff–27 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

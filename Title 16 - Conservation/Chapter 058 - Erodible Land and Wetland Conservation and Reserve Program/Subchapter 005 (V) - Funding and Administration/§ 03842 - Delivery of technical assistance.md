@@ -6,7 +6,7 @@ The Secretary shall provide technical assistance under this chapter to a produce
 
 &emsp;(1) directly; or
 
-&emsp;(2) at the option of the producer, through a payment, as determined by the Secretary, to the producer for an approved third party, if available.
+&emsp;(2) at the option of the producer, through a payment, as determined by the Secretary, tothe producer for an approved third party, if available.
 
 #### (b) Certification of third-party providers
 
@@ -51,8 +51,4 @@ Section 2701 of Pub. L. 107–171, which directed that subtitle E of the Food Se
 A prior section 3842, Pub. L. 99–198, title XII, §1242, as added Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008, related to use of other agencies, prior to repeal by Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 278. See Codification note above.
 
 Another prior section 3842, Pub. L. 99–198, title XII, §1242, Dec. 23, 1985, 99 Stat. 1515, related to use of other agencies, prior to the general amendment of this subchapter by Pub. L. 104–127.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3841, 6575 of this title.
 

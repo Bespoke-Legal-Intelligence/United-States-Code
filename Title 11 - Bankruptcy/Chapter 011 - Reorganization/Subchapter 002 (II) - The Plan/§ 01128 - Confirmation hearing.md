@@ -14,7 +14,3 @@ I74senate report no. 95–989
 
 Subsection (b) permits any party in interest to object to the confirmation of the plan. The Securities and Exchange Commission and indenture trustees, as parties in interest under section 1109, may object to confirmation of the plan.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 901 of this title; title 28 section 586.
-

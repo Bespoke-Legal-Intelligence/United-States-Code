@@ -6,9 +6,5 @@ There is authorized to be appropriated for fiscal years beginning after Septembe
 
 #### Amendments
 
-1992—Pub. L. 102–575 substituted “$31,000,000 (October 1990 price levels) plus or minus such amounts, if any, asmay be required by reason of ordinary fluctuations in construction costs as indicated by engineering cost indexes applicable to the type of construction involved herein” for “$20,000,000 (October 1983 price levels)”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390g–6 of this title.
+1992—Pub. L. 102–575 substituted “$31,000,000 (October 1990 price levels) plus or minus such amounts, if any, as may be required by reason of ordinary fluctuations in construction costs as indicated by engineering cost indexes applicable to the type of construction involved herein” for “$20,000,000 (October 1983 price levels)”.
 

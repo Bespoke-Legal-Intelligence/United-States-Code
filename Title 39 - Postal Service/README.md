@@ -1,5 +1,5 @@
 
-39 U.S.C.<br>United States Code, 2003 Edition<br>Title 39 - POSTAL SERVICE<br>From the U.S. Government Publishing Office, www.gpo.gov
+39 U.S.C.<br>United States Code, 2004 Edition<br>Title 39 - POSTAL SERVICE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 39—POSTAL SERVICE
 
@@ -3958,10 +3958,6 @@ Pub. L. 91–375, §11, Aug. 12, 1970, 84 Stat. 785, provided that:
 “(b) An inference of a legislative construction is not to be drawn by reason of a chapter in title 39, United States Code, as enacted by section 2 of this Act in which a section is placed nor by reason of the caption or catchline.”
 
 Provisions of section 11 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note above.
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 49 sections 5126, 41901.
 
 
 ---

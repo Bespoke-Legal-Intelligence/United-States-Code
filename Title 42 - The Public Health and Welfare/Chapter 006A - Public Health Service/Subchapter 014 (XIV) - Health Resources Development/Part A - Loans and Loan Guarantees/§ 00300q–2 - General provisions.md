@@ -4,7 +4,7 @@
 
 (1) The Secretary may not approve a loan guarantee for a project under this part unless he determines that (A) the terms, conditions, security (if any), and schedule and amount of repayments with respect to the loan are sufficient to protect the financial interests of the United States and are otherwise reasonable, including a determination that the rate of interest does not exceed such per centum per annum on the principal obligation outstanding as the Secretary determines to be reasonable, taking into account the range of interest rates prevailing in the private market for similar loans and the risks assumed by the United States, and (B) the loan would not be available on reasonable terms and conditions without the guarantee under this part.
 
-(2)(A) The United States shall be entitled to recover from the applicant for a loan guaranteeunder this part the amount of any payment made pursuant to such guarantee, unless the Secretary for good cause waives such right of recovery; and, upon making any such payment, the United States shall be subrogated to all of the rights of the recipient of the payments with respect to which the guarantee was made.
+(2)(A) The United States shall be entitled to recover from the applicant for a loan guarantee under this part the amount of any payment made pursuant to such guarantee, unless the Secretary for good cause waives such right of recovery; and, upon making any such payment, the United States shall be subrogated to all of the rights of the recipient of the payments with respect to which the guarantee was made.
 
 (B) To the extent permitted by subparagraph (C), any terms and conditions applicable to a loan guarantee under this part (including terms and conditions imposed under subparagraph (D)) may be modified by the Secretary to the extent he determines it to be consistent with the financial interest of the United States.
 
@@ -22,7 +22,7 @@
 
 (2) Any loan made under this part shall (A) have such security, (B) have such maturity date, (C) be repayable in such installments, (D) bear interest at a rate comparable to the current rate of interest prevailing, on the date the loan is made, with respect to loans guaranteed under this part, minus any interest subsidy made in accordance with section 300q(a)(2)(B) of this title with respect to a loan made for a project located in an urban or rural poverty area, and (E) be subject to such other terms and conditions (including provisions for recovery in case of default), as the Secretary determines to be necessary to carry out the purposes of this subchapter while adequately protecting the financial interests of the United States.
 
-(3) The Secretary may, for good cause but with due regard to the financial interests of the United States, waive any right of recovery which he has by reasons of the failure of a borrower to make payments of principal of and interest on a loan made under this part, except that if such loan is sold and guaranteed, any such waiver shall have no effect upon the Secretary's guarantee of timely payment of principal and interest.
+(3) The Secretary may, for good cause but with due regard to the financial interests of the United States, waive any right of recovery which he has by reasons of the failure of a borrower to make payments of principal of and interest on a loan made under this part, exceptthat if such loan is sold and guaranteed, any such waiver shall have no effect upon the Secretary's guarantee of timely payment of principal and interest.
 
 #### (c) Sale of loans; authority; amount; agreements with purchasers; deposit of proceeds
 
@@ -48,7 +48,7 @@
 
 (4) Amounts received by the Secretary as proceeds from the sale of loans under this subsection shall be deposited in the fund established under subsection (d) of this section.
 
-(5) If any loan to a public entity under this part is sold and guaranteed by the Secretaryunder this subsection, interest paid on such loan after its sale and any interest subsidy paid, under paragraph (3)(A)(ii), by the Secretary with respect to such loan which is received by the purchaser of the loan (or the purchaser's successor in interest) shall be included in the gross income of the purchaser or successor for the purpose of chapter 1 of title 26.
+(5) If any loan to a public entity under this part is sold and guaranteed by the Secretary under this subsection, interest paid on such loan after its sale and any interest subsidy paid, under paragraph (3)(A)(ii), by the Secretary with respect to such loan which is received by the purchaser of the loan (or the purchaser's successor in interest) shall be included in the gross income of the purchaser or successor for the purpose of chapter 1 of title 26.
 
 #### (d) Loan and loan guarantee fund; establishment; amounts authorized to be appropriated; issuance, purchase, and sale of notes, obligations, etc.; interest rates; public debt transactions
 
@@ -94,7 +94,7 @@
 
 (1) The Secretary may take such action as may be necessary to prevent a default on a loan made or guaranteed under this part or under subchapter IV of this chapter, including the waiver of regulatory conditions, deferral of loan payments, renegotiation of loans, and the expenditure of funds for technical and consultative assistance, for the temporary payment of the interest and principal on such a loan, and for other purposes. Any such expenditure made under the preceding sentence on behalf of a medical facility shall be made under such terms and conditions as the Secretary shall prescribe, including the implementation of such organizational, operational, and financial reforms as the Secretary determines are appropriate and the disclosure of such financial or other information as the Secretary may require to determine the extent of the implementation of such reforms.
 
-(2) The Secretary may take such action, consistent with State law respecting foreclosure procedures, as he deems appropriate to protect the interest of the United States in the event ofa default on a loan made or guaranteed under this part or under subchapter IV of this chapter, including selling real property pledged as security for such a loan or loan guarantee and for a reasonable period of time taking possession of, holding, and using real property pledged as security for such a loan or loan guarantee.
+(2) The Secretary may take such action, consistent with State law respecting foreclosure procedures, as he deems appropriate to protect the interest of the United States in the event of a default on a loan made or guaranteed under this part or under subchapter IV of this chapter, including selling real property pledged as security for such a loan or loan guarantee and for a reasonable period of time taking possession of, holding, and using real property pledged as security for such a loan or loan guarantee.
 
 (July 1, 1944, ch. 373, title XVI, §1602, formerly §1622, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2265; amended Pub. L. 95–83, title I, §106(x)(2), (y), Aug. 1, 1977, 91 Stat. 385; renumbered §1602 and amended Pub. L. 96–79, title II, §§201(b)(2), (3), 203(a)(1), (3), (g), Oct. 4, 1979, 93 Stat. 631, 635; Pub. L. 97–414, §8(q), Jan. 4, 1983, 96 Stat. 2062; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
@@ -133,8 +133,4 @@ Subsec. (e)(2). Pub. L. 95–83, §106(x)(2), substituted provisions authorizing
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–79 effective Oct. 1, 1979, except that amendment of subsec. (b)(2)(D) respecting interest subsidy payments for loans or loan guarantees applicable only with respect to loans and loan guarantees made after Oct. 1, 1979, and that subsidies for such commitments made before Oct. 1, 1979, payable as authorized before Oct. 1, 1979, see section 204 of Pub. L. 96–79, set out as a note under section 300q of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300q of this title.
 

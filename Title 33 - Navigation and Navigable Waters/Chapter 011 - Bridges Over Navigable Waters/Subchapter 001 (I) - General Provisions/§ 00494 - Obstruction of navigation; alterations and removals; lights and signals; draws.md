@@ -34,7 +34,3 @@ Secretary of Commerce and Labor redesignated Secretary of Labor by act Mar. 4, 1
 
 Acts Aug. 7, 1939, ch. 503, 53 Stat. 1234, and Apr. 24, 1946, ch. 214, 60 Stat. 122, were amended by act Aug. 9, 1955, ch. 631, 69 Stat. 552, to provide that the last sentence of this section should not be applicable to bridges constructed pursuant to acts Aug. 7, 1939 and Apr. 24, 1946.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 491, 492, 493, 495, 497, 498, 508, 522, 530, 535 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—INDIVIDUAL RIGHT OF ACTION IN CERTAIN REPRISAL CASES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 7121 of this title; title 12 sections 1441a, 1831j.
-
 
 ---
 

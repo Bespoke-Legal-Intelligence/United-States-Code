@@ -10,7 +10,7 @@ Any loan level established pursuant to subsection (a) of this section shall rema
 
 #### (c) “Commodity” defined
 
-For purposes of this section, the term “commodity” shall include any of the following: wheat, corn, grain sorghum, soybeans, oats, rye, barley, rice, flaxseed, and cotton.
+For purposes of this section, the term “commodity” shall include any of the following:wheat, corn, grain sorghum, soybeans, oats, rye, barley, rice, flaxseed, and cotton.
 
 (Pub. L. 95–113, title X, §1002, Sept. 29, 1977, 91 Stat. 950.)
 
@@ -25,8 +25,4 @@ Section was enacted as part of the Food and Agriculture Act of 1977, and not as 
 #### Effective Date
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5677 of this title.
 

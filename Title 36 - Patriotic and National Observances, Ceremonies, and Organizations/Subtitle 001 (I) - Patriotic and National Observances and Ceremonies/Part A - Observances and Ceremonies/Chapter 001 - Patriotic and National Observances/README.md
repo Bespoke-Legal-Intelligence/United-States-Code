@@ -7,7 +7,7 @@
 | [103\.](%C2%A7%2000103%20-%20Cancer%20Control%20Month.md) | Cancer Control Month. |
 | [104\.](%C2%A7%2000104%20-%20Carl%20Garner%20Federal%20Lands%20Cleanup%20Day.md) | Carl Garner Federal Lands Cleanup Day. |
 | [105\.](%C2%A7%2000105%20-%20Child%20Health%20Day.md) | Child Health Day. |
-| [106\.](%C2%A7%2000106%20-%20Citizenship%20Day.md) | Citizenship Day. |
+| [106\.](%C2%A7%2000106%20-%20Constitution%20Day%20and%20Citizenship%20Day.md) | Constitution Day and Citizenship Day. |
 | [107\.](%C2%A7%2000107%20-%20Columbus%20Day.md) | Columbus Day. |
 | [108\.](%C2%A7%2000108%20-%20Constitution%20Week.md) | Constitution Week. |
 | [109\.](%C2%A7%2000109%20-%20Father%27s%20Day.md) | Father's Day. |
@@ -51,7 +51,81 @@
 
 #### Amendments
 
+2004—Pub. L. 108–447, div. J, title I, §111(c)(2), Dec. 8, 2004, 118 Stat. 3345, inserted “Constitution Day and” before “Citizenship Day” in item 106.
+
 2001—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
+
+#### 225th Anniversary of the American Revolution Commemoration
+
+Pub. L. 108–447, div. J, title II, Dec. 8, 2004, 118 Stat. 3348, provided that:
+
+#### “SEC. 201. SHORT TITLE.
+
+“This title may be cited as the ‘225th Anniversary of the American Revolution Commemoration Act’.
+
+#### “SEC. 202. FINDINGS AND PURPOSES.
+
+“(a) FINDINGS.—Congress finds the following:
+
+&emsp;“(1) The American Revolution, inspired by the spirit of liberty and independence among the inhabitants of the original 13 colonies of Great Britain, was an event of global significance having a profound and lasting effect upon American Government, laws, culture, society, and values.
+
+&emsp;“(2) The years 2000 through 2008 mark the 225th anniversary of the Revolutionary War.
+
+&emsp;“(3) Every generation of American citizens should have an opportunity to understand and appreciate the continuing legacy of the American Revolution.
+
+&emsp;“(4) This 225th anniversary provides an opportunity to enhance public awareness and understanding of the impact of the American Revolution's legacy on the lives of citizens today.
+
+&emsp;“(5) Although the National Park Service administers battlefields, historical parks, historic sites, and programs that address elements of the story of the American Revolution, there is a need to establish partnerships that link sites and programs administered by the National Park Service with those of other Federal and non-Federal entities in order to place the story of the American Revolution in the broad context of its causes, consequences, and meanings.
+
+&emsp;“(6) The story and significance of the American Revolution can best engage the American people through a national program of the National Park Service that links historic structures and sites, routes, activities, community projects, exhibits, and multimedia materials, in a manner that is both unified and flexible.
+
+“(b)
+
+Purposes.—The purposes of this Act \[probably should be “title”\] are as follows:
+
+&emsp;“(1) To recognize the enduring importance of the American Revolution in the lives of American citizens today.
+
+&emsp;“(2) To authorize the National Park Service to coordinate, connect, and facilitate Federal and non-Federal activities to commemorate, honor, and interpret the history of the American Revolution, its significance, and its relevance to the shape and spirit of American Government and society.
+
+#### “SEC. 203. 225TH ANNIVERSARY OF THE AMERICAN REVOLUTION COMMEMORATION PROGRAM.
+
+“(a)
+
+In General.—The Secretary of the Interior (hereinafter in this Act \[title\] referred to as the ‘Secretary’) shall establish a program to be known as the ‘225th Anniversary of the American Revolution Commemoration’ (hereinafter in this Act \[title\] referred to as the ‘225th Anniversary’). In administering the 225th Anniversary, the Secretary shall—
+
+&emsp;“(1) produce and disseminate to appropriate persons educational materials, such as handbooks, maps, interpretive guides, or electronic information related to the 225th Anniversary and the American Revolution;
+
+&emsp;“(2) enter into appropriate cooperative agreements and memoranda of understanding to provide technical assistance under subsection (c);
+
+&emsp;“(3) assist in the protection of resources associated with the American Revolution;
+
+&emsp;“(4) enhance communications, connections, and collaboration among the National Park Service units and programs related to the Revolutionary War;
+
+&emsp;“(5) expand the research base for American Revolution interpretation and education; and
+
+&emsp;“(6) create and adopt an official, uniform symbol or device for the theme ‘Lighting Freedom's Flame: American Revolution, 225th Anniversary’ and issue regulations for its use.
+
+“(b)
+
+Elements.—The 225th Anniversary shall encompass the following elements:
+
+&emsp;“(1) All units and programs of the National Park Service determined by the Secretary to pertain to the American Revolution.
+
+&emsp;“(2) Other governmental and nongovernmental sites, facilities, and programs of an educational, research, or interpretive nature that are documented to be directly related to the American Revolution.
+
+&emsp;“(3) Through the Secretary of State, the participation of the Governments of the United Kingdom, France, the Netherlands, Spain, and Canada.
+
+“(c)
+
+Cooperative Agreements and Memoranda of Understanding.—To achieve the purposes of this Act \[title\] and to ensure effective coordination of the Federal and non-Federal elements of the 225th Anniversary with National Park Service units and programs, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to, the following:
+
+&emsp;“(1) The heads of other Federal agencies, States, units of local government, and private entities.
+
+&emsp;“(2) In cooperation with the Secretary of State, the Governments of the United Kingdom, France, the Netherlands, Spain, and Canada.
+
+“(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this Act \[title\] $500,000 for each of fiscal years 2004 through 2009.”
 
 #### Benjamin Franklin Tercentenary Commission
 
@@ -315,7 +389,7 @@ Number and Appointment.—The Commission shall be composed as follows:
 
 &emsp;&emsp;“(iii) The States described in this clause are the States in which the lawsuits decided by the Brown decision were originally filed (Delaware, Kansas, South Carolina, and Virginia), and the State of the first legal challenge involved (Massachusetts).
 
-&emsp;&emsp;“(B)(i) The Members of the House of Representatives from each State described in subparagraph (A)(iii) shall each submit the name of one individual from the State to the Speaker of the House of Representatives and the minority leader of the House of Representatives.
+&emsp;&emsp;“(B)(i) The Members of the House of Representatives from each State described in subparagraph (A)(iii) shall each submit the name of one individual from the State to the Speaker of the House ofRepresentatives and the minority leader of the House of Representatives.
 
 &emsp;&emsp;“(ii) After review of the submissions made under clause (i), the Speaker of the House of Representatives, in consultation with the minority leader of the House of Representatives, shall recommend to the President five individuals, one from each of the States described in subparagraph (A)(iii).
 
@@ -431,7 +505,7 @@ Table of Contents.—\[Omitted.\]
 
 &emsp;“(1) March 16, 2001, marks the 250th anniversary of the birth of James Madison;
 
-&emsp;“(2) as a delegate to the Continental Congress, and to the Annapolis Convention of 1786, James Madisonforesaw the need for a more effective national government and was a persuasive advocate for such a government at the Philadelphia Constitutional Convention of 1787;
+&emsp;“(2) as a delegate to the Continental Congress, and to the Annapolis Convention of 1786, James Madison foresaw the need for a more effective national government and was a persuasive advocate for such a government at the Philadelphia Constitutional Convention of 1787;
 
 &emsp;“(3) James Madison worked tirelessly and successfully at the Constitutional Convention to mold a national charter, the United States Constitution, that combined both energy and restraint, empowering the legislature, the executive, and the judiciary, within a framework of limited government, separated powers, and a system of federalism;
 
@@ -451,7 +525,7 @@ Table of Contents.—\[Omitted.\]
 
 #### “SEC. 3. ESTABLISHMENT.
 
-“A commission to be known as the James Madison Commemoration Commission (in this Act referred to as the ‘Commission’) and a committee to be known as the James Madison Commemoration Advisory Committee (in this Act referred to as the ‘Advisory Committee’) are established.
+“A commission to be known as the James Madison Commemoration Commission (in this Act referred to asthe ‘Commission’) and a committee to be known as the James Madison Commemoration Advisory Committee (in this Act referred to as the ‘Advisory Committee’) are established.
 
 #### “SEC. 4. DUTIES.
 
@@ -675,7 +749,7 @@ Final Report.—Not later than February 15, 2002, the Commission shall submit to
 
 “(a)
 
-In General.—The Inspector General of the General Services Administration shall audit financialtransactions of the Commission, including financial transactions involving donated funds, in accordance with generally accepted auditing standards. In conducting an audit pursuant to this section, the Inspector General shall have access to all books, accounts, financial records, reports, files, and other papers, items, or property in use by the Commission, as necessary to facilitate the audit, and shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians.
+In General.—The Inspector General of the General Services Administration shall audit financial transactions of the Commission, including financial transactions involving donated funds, in accordance with generally accepted auditing standards. In conducting an audit pursuant to this section, the Inspector General shall have access to all books, accounts, financial records, reports, files, and other papers, items, or property in use by the Commission, as necessary to facilitate the audit, and shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians.
 
 “(b)
 
@@ -829,7 +903,7 @@ Staff.—Consistent with all other applicable Federal laws governing appointment
 
 “(a)
 
-Hearings and Sessions.—The Commission may, for the purpose of carrying out this Act, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers to be appropriate.
+Hearings and Sessions.—The Commission may, for the purpose of carrying out this Act, hold suchhearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers to be appropriate.
 
 “(b)
 
@@ -911,7 +985,7 @@ Final Report.—Not later than April 30, 2010, the Commission shall submit a fin
 
 “There are authorized to be appropriated such sums as may be necessary to carry out this Act.”
 
-\[Pub. L. 107–117, div. B, §917(b), Jan. 10, 2002, 115 Stat. 2325, provided that: “The amendments made by thissection \[amending section 209 of Pub. L. 107–68, which amended section 7 of Pub. L. 106–173, set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2002 (Public Law 107–68).”\]
+\[Pub. L. 107–117, div. B, §917(b), Jan. 10, 2002, 115 Stat. 2325, provided that: “The amendments made by this section \[amending section 209 of Pub. L. 107–68, which amended section 7 of Pub. L. 106–173, set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2002 (Public Law 107–68).”\]
 
 #### Proc. No. 4934. Armed Forces Day
 
@@ -951,7 +1025,7 @@ Ex. Ord. No. 13072, Feb. 2, 1998, 63 F.R. 6041, provided for formation of the Wh
 - [&sect; 00103 - Cancer Control Month](%C2%A7%2000103%20-%20Cancer%20Control%20Month.md)
 - [&sect; 00104 - Carl Garner Federal Lands Cleanup Day](%C2%A7%2000104%20-%20Carl%20Garner%20Federal%20Lands%20Cleanup%20Day.md)
 - [&sect; 00105 - Child Health Day](%C2%A7%2000105%20-%20Child%20Health%20Day.md)
-- [&sect; 00106 - Citizenship Day](%C2%A7%2000106%20-%20Citizenship%20Day.md)
+- [&sect; 00106 - Constitution Day and Citizenship Day](%C2%A7%2000106%20-%20Constitution%20Day%20and%20Citizenship%20Day.md)
 - [&sect; 00107 - Columbus Day](%C2%A7%2000107%20-%20Columbus%20Day.md)
 - [&sect; 00108 - Constitution Week](%C2%A7%2000108%20-%20Constitution%20Week.md)
 - [&sect; 00109 - Father's Day](%C2%A7%2000109%20-%20Father%27s%20Day.md)

@@ -116,10 +116,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 300i–2, 7412, 9604, 9620, 13108 of this title; title 49 section 5116.
-
 
 ---
 

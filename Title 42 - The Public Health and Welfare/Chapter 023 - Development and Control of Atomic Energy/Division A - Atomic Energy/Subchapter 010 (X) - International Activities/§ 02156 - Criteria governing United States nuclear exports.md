@@ -1,6 +1,6 @@
 ### §2156. Criteria governing United States nuclear exports
 
-The United States adopts the following criteria which, in addition to other requirements of law, will govern exports for peaceful nuclear uses from the United States of source material,special nuclear material, production or utilization facilities, and any sensitive nuclear technology:
+The United States adopts the following criteria which, in addition to other requirements of law, will govern exports for peaceful nuclear uses from the United States of source material, special nuclear material, production or utilization facilities, and any sensitive nuclear technology:
 
 &emsp;(1) IAEA safeguards as required by Article III(2) of the Treaty will be applied with respect to any such material or facilities proposed to be exported, to any such material or facilities previously exported and subject to the applicable agreement for cooperation, and to any special nuclear material used in or produced through the use thereof.
 
@@ -27,8 +27,4 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 #### Performance of Functions Pending Development of Procedures
 
 The performance of functions under this chapter, as amended by the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days \[after Mar. 10, 1978\] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2141, 2153c, 2155, 2156a of this title.
 

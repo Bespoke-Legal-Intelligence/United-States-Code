@@ -8,7 +8,7 @@ For purposes of determining the status of a church plan that is a welfare plan u
 
 A State insurance law described in this subsection is a law that—
 
-&emsp;(1) requires a church plan, or an organization described in section 414(e)(3)(A) of title 26 and section 1002(33)(C)(i) of this title to the extentthat it is administering or funding such a plan, to be licensed; or
+&emsp;(1) requires a church plan, or an organization described in section 414(e)(3)(A) of title 26 and section 1002(33)(C)(i) of this title to the extent that it is administering or funding such a plan, to be licensed; or
 
 &emsp;(2) relates solely to the solvency or insolvency of a church plan (including participation in State guaranty funds and associations).
 
@@ -22,7 +22,7 @@ For purposes of this section:
 
 #### (2) Reimburses costs from general church assets
 
-&emsp;The term “reimburses costs from general church assets” means engaging in an activity that is not the spreading of risk solely for the purposes of the provisions of State insurance laws described in subsection (b) of this section.
+&emsp;The term “reimburses costs from general church assets” means engaging in an activitythat is not the spreading of risk solely for the purposes of the provisions of State insurance laws described in subsection (b) of this section.
 
 #### (3) Welfare plan
 

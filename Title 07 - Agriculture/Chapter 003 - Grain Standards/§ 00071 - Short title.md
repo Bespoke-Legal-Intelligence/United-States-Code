@@ -1,6 +1,6 @@
 ### §71. Short title
 
-This chapter may be cited as the “United States Grain Standards Act.”
+This chapter may be cited as the “United States Grain Standards Act”.
 
 (Aug. 11, 1916, ch. 313, pt. B, §1, 39 Stat. 482; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 761.)
 

@@ -6,7 +6,3 @@
 
 (Pub. L. 100–147, title II, §207, Oct. 30, 1987, 101 Stat. 873.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2486c, 2486d, 2486h of this title.
-

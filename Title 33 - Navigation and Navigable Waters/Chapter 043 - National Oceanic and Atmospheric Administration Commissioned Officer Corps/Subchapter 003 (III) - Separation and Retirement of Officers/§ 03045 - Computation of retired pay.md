@@ -38,7 +38,3 @@ Each officer on the retired list who first became a member of a uniformed servic
 
 Provisions similar to those in this section were contained in section 853<i>o</i> of this title prior to repeal by Pub. L. 107–372.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 1406.
-

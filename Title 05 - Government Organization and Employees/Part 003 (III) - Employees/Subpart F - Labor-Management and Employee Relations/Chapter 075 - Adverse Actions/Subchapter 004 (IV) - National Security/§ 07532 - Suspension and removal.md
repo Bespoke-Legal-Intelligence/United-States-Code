@@ -52,7 +52,3 @@ In subsections (b) and (c), the words “remove” and “removal” are coexten
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3393, 3571, 7121, 7312, 7502, 7512, 7521, 7542 of this title; title 50 section 832.
-

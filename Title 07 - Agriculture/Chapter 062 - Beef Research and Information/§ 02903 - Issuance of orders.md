@@ -14,7 +14,3 @@
 
 Amendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub. L. 99–198, set out as a note under section 2901 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2902, 2904, 2911 of this title; title 16 section 3839bb.
-

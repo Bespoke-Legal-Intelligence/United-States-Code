@@ -21,7 +21,3 @@ Such quantities shall be known as the “commodity set-aside”.
 
 Act Aug. 28, 1954, enacting sections 397, 1446b and 1446c of this title, this chapter, chapters 43 and 44 of this title, and section 590h–3 of Title 16, Conservation, and amending sections 602, 608c, 608e–1, 1301, 1326–1330, 1332, 1334–1335, 1340, 1344, 1371, 1374, 1421, 1428, 1441, 1446, 1446d of this title and sections 590h and 590o of Title 16, Conservation, is popularly known as the “Agricultural Act of 1954”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1745 of this title.
-

@@ -6,9 +6,5 @@ The President may designate appropriate United States agencies to review the imp
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of the Treasury by section 1 of Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, set out as a note under section 1738 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 635i–6.
+For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of this title.
 

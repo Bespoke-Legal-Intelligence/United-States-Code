@@ -8,7 +8,3 @@ The Secretary of the Interior shall not enter into any contract for the educatio
 
 A prior section 4 of act Apr. 16, 1934, ch. 147, 48 Stat. 596; June 4, 1936, ch. 490, 49 Stat. 1458, directed Secretary of the Interior to report to Congress any contracts made under provisions of sections 452 to 454 of this title, prior to repeal by Pub. L. 86–533, §1(15), June 29, 1960, 74 Stat. 248.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 20 section 2326.
-

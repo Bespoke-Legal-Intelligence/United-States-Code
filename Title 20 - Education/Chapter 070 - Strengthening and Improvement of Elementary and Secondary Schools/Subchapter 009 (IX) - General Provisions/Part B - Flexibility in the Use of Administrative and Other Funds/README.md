@@ -1,9 +1,5 @@
 Part B—Flexibility in the Use of Administrative and Other Funds
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 7802 of this title.
-
 
 ---
 

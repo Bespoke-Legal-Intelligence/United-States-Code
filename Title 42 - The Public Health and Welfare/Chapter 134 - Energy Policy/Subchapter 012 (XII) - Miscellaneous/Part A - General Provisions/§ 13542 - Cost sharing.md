@@ -22,7 +22,3 @@ Funds derived by the Tennessee Valley Authority from its power program may be us
 
 This Act, referred to in subsecs. (a) and (b), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12005, 13331, 13411, 13412, 13413, 13414, 13431, 13432, 13433, 13434, 13437, 13451, 13452, 13453, 13454, 13455, 13456, 13471, 13472, 13474, 13475, 13477, 13501, 13502, 13503 of this title.
-

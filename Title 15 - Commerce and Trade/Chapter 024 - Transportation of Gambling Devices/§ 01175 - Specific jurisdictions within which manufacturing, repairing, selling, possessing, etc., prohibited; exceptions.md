@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-It shall be unlawful to manufacture, recondition, repair, sell, transport, possess, or use any gambling device in the District of Columbia, in any possession of the United States, within Indian country as defined in section 1151 of title 18or within the special maritime and territorial jurisdiction of the United States as defined in section 7 of title 18, including on a vessel documented under chapter 121 of title 46 or documented under the laws of a foreign country.
+It shall be unlawful to manufacture, recondition, repair, sell, transport, possess, or use any gambling device in the District of Columbia, in any possession of the United States, within Indian country as defined in section 1151 of title 18 or within the special maritime and territorial jurisdiction of the United States as defined in section 7 of title 18, including on a vessel documented under chapter 121 of title 46 or documented under the laws of a foreign country.
 
 #### (b) Exception
 
@@ -60,7 +60,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 &emsp;(C) is of at least 60 hours duration.
 
-(Jan. 2, 1951, ch. 1194, §5, 64 Stat. 1135; Pub. L. 102–251, title II, §202(b), Mar. 9, 1992, 106 Stat. 61; Pub. L. 104–264, title XII, §1222, Oct. 9, 1996, 110 Stat. 3286; Pub. L. 104–324, title XI, §1106, Oct. 19, 1996, 110 Stat. 3967; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §147\], Dec. 21, 2000, 114 Stat. 2763, 2763A–251.)
+(Jan. 2, 1951, ch. 1194, §5, 64 Stat. 1135; Pub. L. 102–251, title II, §202(b), Mar. 9, 1992, 106 Stat. 61; Pub. L. 104–264, title XII, §1222, Oct. 9, 1996, 110 Stat. 3286; Pub. L. 104–324, title XI, §1106, Oct. 19,1996, 110 Stat. 3967; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §147\], Dec. 21, 2000, 114 Stat. 2763, 2763A–251.)
 
 #### Amendments
 
@@ -79,8 +79,4 @@ Subsec. (b). Pub. L. 102–251, §202(b)(3), added subsec. (b).
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of Title 49, Transportation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1172, 1176 of this title; title 25 section 2710.
 

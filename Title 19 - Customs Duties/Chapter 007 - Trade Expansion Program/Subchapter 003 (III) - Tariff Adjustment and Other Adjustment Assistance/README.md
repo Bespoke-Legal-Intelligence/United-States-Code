@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—TARIFF ADJUSTMENT AND OTHER ADJUSTMENT ASSISTANCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2021 of this title.
-
 
 ---
 

@@ -8,7 +8,3 @@ The total area of the national historic site as established or as enlarged by tr
 
 Words “national historic site” and “historic site” substituted in text for “national monument” and “monument”, respectively, in view of redesignation of Fort Vancouver National Monument as Fort Vancouver National Historic Site by Pub. L. 87–78, classified to section 450ff–6 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 450ff–3 of this title.
-

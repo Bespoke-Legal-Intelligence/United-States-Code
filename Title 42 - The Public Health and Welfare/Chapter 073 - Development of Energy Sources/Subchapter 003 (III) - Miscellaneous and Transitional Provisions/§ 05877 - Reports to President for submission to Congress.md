@@ -40,7 +40,3 @@ Energy Research and Development Administration terminated and functions vested b
 
 Pub. L. 97–415, §10(c), Jan. 4, 1983, 96 Stat. 2071, provided that: “The Nuclear Regulatory Commission shall include in its annual report to the Congress under section 307(c) of the Energy Reorganization Act of 1974 (42 U.S.C. 5877(c)) as a separate chapter a description of the collaborative efforts undertaken, or proposed to be undertaken, by the Commission and the Department of Energy with respect to the decontamination, cleanup, repair, or rehabilitation of facilities at Three Mile Island Unit 2.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5849, 7267 of this title.
-

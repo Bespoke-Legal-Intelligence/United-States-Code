@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—CONTROL OF THE ENVIRONMENTAL IMPACTS OF SURFACE COAL MINING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1211, 1309b of this title; title 26 section 468.
-
 
 ---
 

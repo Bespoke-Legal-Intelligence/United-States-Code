@@ -1,6 +1,6 @@
 ### §708. Property and fiscal officers
 
-(a) The Governor of each State or Territory and Puerto Rico, and the commanding general of the National Guard of the District of Columbia, shall appoint, designate or detail, subject to the approval of the Secretary of the Army and the Secretary of the Air Force, a qualified commissioned officer of the National Guard of that jurisdiction who is also a commissioned officer of the Army National Guard of the United States or the Air National Guard of the United States, as the case may be, to be the property and fiscal officer of that jurisdiction. If the officer is not on active duty, the President may order him to active duty, with his consent, to serve as a property and fiscal officer.
+(a) The Governor of each State or Territory and Puerto Rico, and the commanding generalof the National Guard of the District of Columbia, shall appoint, designate or detail, subject to the approval of the Secretary of the Army and the Secretary of the Air Force, a qualified commissioned officer of the National Guard of that jurisdiction who is also a commissioned officer of the Army National Guard of the United States or the Air National Guard of the United States, as the case may be, to be the property and fiscal officer of that jurisdiction. If the officer is not on active duty, the President may order him to active duty, with his consent, to serve as a property and fiscal officer.
 
 (b) Each property and fiscal officer shall—
 
@@ -99,8 +99,4 @@ Subsecs. (f), (g). Pub. L. 95–79, §804(b)(2), redesignated subsecs. (f) and (
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 101, 523, 641, 771a, 10503, 12011, 12647.
 

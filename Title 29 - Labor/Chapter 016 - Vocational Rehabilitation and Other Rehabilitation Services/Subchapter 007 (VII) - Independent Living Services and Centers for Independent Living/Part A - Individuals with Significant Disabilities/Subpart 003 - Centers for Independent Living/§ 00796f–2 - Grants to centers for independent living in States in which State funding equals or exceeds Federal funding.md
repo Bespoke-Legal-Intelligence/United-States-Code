@@ -8,7 +8,7 @@
 
 #### (i) Determination
 
-&emsp;&emsp;&emsp;The director of a designated State unit, as provided in paragraph (2), or the Commissioner, as provided in paragraph (3), shall award grants under this section for an initial fiscal year if the Commissioner determines that the amount of State funds that were earmarked by a State for a preceding fiscal year to support the general operation of centers for independent livingmeeting the requirements of this subpart equaled or exceeded the amount of funds allotted to the State under subsection (c) or (d) of section 796f of this title for such year.
+&emsp;&emsp;&emsp;The director of a designated State unit, as provided in paragraph (2), or the Commissioner, as provided in paragraph (3), shall award grants under this section for an initial fiscal year if the Commissioner determines that the amount of State funds that were earmarked by a State for a preceding fiscal year to support the general operation of centers for independent living meeting the requirements of this subpart equaled or exceeded the amount of funds allotted to the State under subsection (c) or (d) of section 796f of this title for such year.
 
 #### (ii) Grants
 
@@ -86,7 +86,7 @@ Unless the director of the designated State unit and the chairperson of the Coun
 
 &emsp;(2) The director of the designated State unit shall provide for a cost-of-living increase for such existing centers for independent living.
 
-&emsp;(3) The director of the designated State unit shall fund new centers for independent living, as described in subsection (d) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title.
+&emsp;(3) The director of the designated State unit shall fund new centers for independent living,as described in subsection (d) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title.
 
 #### (f) Nonresidential agencies
 
@@ -125,8 +125,4 @@ This subpart, referred to in subsec. (c), means subpart 3 (§796f et seq.) of pa
 #### Prior Provisions
 
 A prior section 796f–2, Pub. L. 93–112, title VII, §723, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4458; amended Pub. L. 103–73, title I, §114(j), Aug. 11, 1993, 107 Stat. 731, related to grants to centers for independent living in States in which State funding equals or exceeds Federal funding, prior to the general amendment of this subchapter by Pub. L. 105–220.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 796c, 796d–1, 796f–1, 796f–3 of this title.
 

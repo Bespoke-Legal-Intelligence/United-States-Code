@@ -10,7 +10,3 @@ Whoever—
 
 (July 1, 1944, ch. 373, title XIX, §1909, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 542.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9875 of this title.
-

@@ -28,7 +28,7 @@
 
 &emsp;(3) the terms “President-elect” and “Vice President-elect” have the meanings given those terms in section 871(b) of this title.
 
-(Added Pub. L. 97–297, §1(a), Oct. 12, 1982, 96 Stat. 1317; amended Pub. L. 98–587, §3(a), Oct. 30, 1984, 98 Stat. 3111; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 106–544, §2(a), (b)(1), Dec. 19, 2000, 114 Stat. 2715.)
+(Added Pub. L. 97–297, §1(a), Oct. 12, 1982, 96 Stat. 1317; amended Pub. L. 98–587, §3(a), Oct. 30, 1984,98 Stat. 3111; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 106–544, §2(a), (b)(1), Dec. 19, 2000, 114 Stat. 2715.)
 
 #### Amendments
 
@@ -45,8 +45,4 @@ Subsec. (b)(1)(B). Pub. L. 106–544, §2(a)(5), in introductory provisions, ins
 #### Transfer of Functions
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 115, 3056, 3486, 4247 of this title.
 

@@ -56,7 +56,3 @@ Section is comprised of section 224 of Pub. L. 97–293. Subsec. (d) of section 
 
 1987—Subsecs. (g) to (i). Pub. L. 100–203 added subsecs. (g) to (i).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390cc of this title.
-

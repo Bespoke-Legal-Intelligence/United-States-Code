@@ -260,10 +260,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3056a, 12511, 12638, 12639, 12651b, 12651d, 12651f of this title; title 20 sections 1087ee, 1092.
-
 
 ---
 

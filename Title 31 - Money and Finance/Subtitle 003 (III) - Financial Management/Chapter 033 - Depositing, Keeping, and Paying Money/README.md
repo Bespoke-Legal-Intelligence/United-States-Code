@@ -55,10 +55,6 @@ Pub. L. 103–272, §4(f)(1)(G), July 5, 1994, 108 Stat. 1362, added item 3334.
 
 1990—Pub. L. 101–453, §4(b), Oct. 24, 1990, 104 Stat. 1059, added item 3335.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3516 of this title; title 47 sections 309, 336.
-
 
 ---
 

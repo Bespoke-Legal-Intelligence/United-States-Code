@@ -8,7 +8,7 @@ For the purposes of this chapter, the term—
 
 (c) “Native village” means any tribe, band, clan, group, village, community, or association in Alaska listed in sections 1610 and 1615 of this title, or which meets the requirements of this chapter, and which the Secretary determines was, on the 1970 census enumeration date (as shown by the census or other evidence satisfactory to the Secretary, who shall make findings of fact in each instance), composed of twenty-five or more Natives;
 
-(d) “Native group” means any tribe, band, clan, village, community, or village association of Natives in Alaska composed of less than twenty-five Natives, who comprise a majority of the residents of the locality;
+(d) “Native group” means any tribe, band, clan, village, community, or village associationof Natives in Alaska composed of less than twenty-five Natives, who comprise a majority of the residents of the locality;
 
 (e) “Public lands” means all Federal lands and interests therein located in Alaska except: (1) the smallest practicable tract, as determined by the Secretary, enclosing land actually used in connection with the administration of any Federal installation, and (2) land selections of the State of Alaska which have been patented or tentatively approved under section 6(g) of the Alaska Statehood Act, as amended (72 Stat. 341, 77 Stat. 223), or identified for selection by the State prior to January 17, 1969;
 
@@ -28,7 +28,7 @@ For the purposes of this chapter, the term—
 
 (m) “Native Corporation” means any Regional Corporation, any Village Corporation, any Urban Corporation, and any Group Corporation;
 
-(n) “Group Corporation” means an Alaska Native Group Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manageand/or distribute lands, property, funds, and other rights and assets for and on behalf of members of a Native group in accordance with the terms of this chapter;
+(n) “Group Corporation” means an Alaska Native Group Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manage and/or distribute lands, property, funds, and other rights and assets for and on behalf of members of a Native group in accordance with the terms of this chapter;
 
 (<i>o</i>) “Urban Corporation” means an Alaska Native Urban Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manage and/or distribute lands, property, funds, and other rights and assets for and on behalf of members of an urban community of Natives in accordance with the terms of this chapter;
 
@@ -76,9 +76,21 @@ Subsecs. (n) to (t). Pub. L. 100–241, §3(5), added subsecs. (n) to (t).
 
 1980—Subsec. (m). Pub. L. 96–487 added subsec. (m).
 
-#### Section Referred to in Other Sections
+#### Definitions
 
-This section is referred to in sections 1615, 1626, 1641 of this title; title 15 section 632; title 16 sections 470w, 620e, 1722, 3102; title 20 sections 2326, 7546; title 25 sections 13f, 472a, 1903, 2012, 3103; title 26 section 646; title 29 section 2911; title 38 section 3764; title 42 sections 300f, 6949a, 9832, 10101, 12511, 12584; title 45 section 1202.
+Pub. L. 108–452, §2, Dec. 10, 2004, 118 Stat. 3576, provided that: “In this Act \[see Short Title of 2004 Amendment note set out under section 1601 of this title\]:
+
+&emsp;“(1)
+
+Native allotment.—The term ‘Native allotment’ means an allotment claimed under the Act of May 17, 1906 (34 Stat. 197, chapter 2469) \[former 43 U.S.C. 270–1 to 270–3\].
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+&emsp;“(3)
+
+State.—The term ‘State’ means the State of Alaska.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Metlakatla”.</i>
 

@@ -6,7 +6,7 @@
 
 (2) Notwithstanding the percentage limitation contained in paragraph (1) of this subsection—
 
-&emsp;(A) the employing agency shall deduct and withhold from the basic pay of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who is qualified to have his annuity computed in the same manner as that of a law enforcement officer pursuant to section 8339(d) of title 5, an amount equal to that to be withheld from a law enforcement officer pursuant to section 8334(a)(1) of title 5, plus an amount equal to .25 percent of basic pay. The amounts so deducted shall be contributed to the Fund for the payment ofannuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the employing agency from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amount deducted and withheld from basic salary and amounts contributed by the employing agency.
+&emsp;(A) the employing agency shall deduct and withhold from the basic pay of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who is qualified to have his annuity computed in the same manner as that of a law enforcement officer pursuant to section 8339(d) of title 5, an amount equal to that to be withheld from a law enforcement officer pursuant to section 8334(a)(1) of title 5, plus an amount equal to .25 percent of basic pay. The amounts so deducted shall be contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the employing agency from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amount deducted and withheld from basic salary and amounts contributed by the employing agency.
 
 &emsp;(B) The employing agency shall deduct and withhold from the basic pay of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who is qualified to have his annuity computed pursuant to section 8415(d) of title 5, an amount equal to that to be withheld from a law enforcement officer pursuant to section 8422(a)(2)(B) <sup>1</sup> of title 5, plus an amount equal to .25 percent of basic pay. The amounts so deducted shall be contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the employing agency from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amounts deducted and withheld from basic salary and amounts contributed by the employing agency.
 
@@ -20,7 +20,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 (1) If a member of the Service who is under another retirement system for Government employees becomes a participant in the System by direct transfer, the total contributions and deposits of that member that would otherwise be refundable on separation (except voluntary contributions), including interest thereon, shall be transferred to the Fund effective as of the date such member becomes a participant in the System. Each such member shall be deemed to consent to the transfer of such funds, and such transfer shall be a complete discharge and acquittance of all claims and demands against the other Government retirement fund on account of service rendered by such member prior to becoming a participant in the System.
 
-(2) A member of the Service whose contributions are transferred to the Fund pursuant to paragraph (1) shall not be required to make additional contributions for periods of service for which required contributions were made to the other Government retirement fund; nor shall any refund be made to any such member on account of contributions made during any period to the other Government retirement fund at a higher rate than that fixed by subsection (d) of this section.
+(2) A member of the Service whose contributions are transferred to the Fund pursuant toparagraph (1) shall not be required to make additional contributions for periods of service for which required contributions were made to the other Government retirement fund; nor shall any refund be made to any such member on account of contributions made during any period to the other Government retirement fund at a higher rate than that fixed by subsection (d) of this section.
 
 #### (d) Contribution for civilian service; creditability of interim service
 
@@ -50,7 +50,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 (3) Special contributions under this subsection shall include interest computed from the midpoint of each service period included in the computation, or from the date refund was paid, to the date of payment of the special contribution or commencing date of annuity, whichever is earlier. <sup>2</sup> Interest shall be compounded at the annual rate of 4 percent to December 31, 1976, and 3 percent thereafter. No interest shall be charged on special contributions for any period of separation from Government service which began before October 1, 1956. Special contributions may be paid in installments (including by allotment of pay) when authorized by the Secretary of State.
 
-(4) Notwithstanding the preceding provisions of this subsection and any provision of section 206(b)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under thissubsection in the case of a participant described in section 4071b(c) of this title shall, with respect to any covered service (as defined by section 203(a)(3) of such Act) performed by such individual after December 31, 1983, and before January 1, 1987, be equal to 1.3 percent.
+(4) Notwithstanding the preceding provisions of this subsection and any provision of section 206(b)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in the case of a participant described in section 4071b(c) of this title shall, with respect to any covered service (as defined by section 203(a)(3) of such Act) performed by such individual after December 31, 1983, and before January 1, 1987, be equal to 1.3 percent.
 
 (5) Notwithstanding paragraph (1), a special contribution for past service as a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development which would have been creditable toward retirement under either section 8336(c) or 8412(d) of title 5, and for which a special contribution has not been made shall be equal to the difference between the amount actually contributed pursuant to either this section or section 4071e of this title and the amount that should have been contributed pursuant to either section 8334 or 8422 of title 5.
 
@@ -122,7 +122,7 @@ Subsec. (a)(3). Pub. L. 105–382, §2(b)(1), added par. (3).
 
 Subsec. (d)(6). Pub. L. 105–382, §2(c), added par. (6).
 
-1997—Subsec. (d)(1). Pub. L. 105–33, §7001(d)(2)(C), in table in concluding provisions, inserted items relating to service periods January 1, 1970, through December 31, 1998; January 1, 1999, through December 31, 1999; January 1, 2000, through December 31, 2000; January 1, 2001, through December 31, 2002; and after December 31, 2002, and struck out former item relating to service period on and after January 1, 1970.
+1997—Subsec. (d)(1). Pub. L. 105–33, §7001(d)(2)(C), in table in concluding provisions, inserted items relatingto service periods January 1, 1970, through December 31, 1998; January 1, 1999, through December 31, 1999; January 1, 2000, through December 31, 2000; January 1, 2001, through December 31, 2002; and after December 31, 2002, and struck out former item relating to service period on and after January 1, 1970.
 
 Subsec. (e)(1). Pub. L. 105–33, §7001(d)(2)(D)(i), substituted “Subject to paragraph (5), each” for “Each”.
 
@@ -221,10 +221,6 @@ Foreign service criminal investigators/inspectors of the office of the inspector
 | :--- | :---: | ---: |
 | &nbsp; | “7.75 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | “7.9 | January 1, 2000, to December 31, 2000.” |
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4043, 4046, 4051, 4055, 4056, 4061, 4062, 4063, 4071c of this title; title 5 section 5545a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

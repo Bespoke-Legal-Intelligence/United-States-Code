@@ -14,11 +14,11 @@ The annual percentage rate applicable to any extension of consumer credit shall 
 
 #### (b) Computation of rate of finance charges for balances within a specified range
 
-Where a creditor imposes the same finance charge for balances within a specified range, theannual percentage rate shall be computed on the median balance within the range, except that if the Board determines that a rate so computed would not be meaningful, or would be materially misleading, the annual percentage rate shall be computed on such other basis as the Board may be regulation require.
+Where a creditor imposes the same finance charge for balances within a specified range, the annual percentage rate shall be computed on the median balance within the range, except that if the Board determines that a rate so computed would not be meaningful, or would be materially misleading, the annual percentage rate shall be computed on such other basis as the Board may be regulation require.
 
 #### (c) Allowable tolerances for purposes of compliance with disclosure requirements
 
-The disclosure of an annual percentage rate is accurate for the purpose of this subchapter if the rate disclosed is within a tolerance not greater than one-eighth of 1 per centum more or less than the actual rate or rounded to the nearest one-fourth of 1 per centum. The Board may allow a greater tolerance to simplify compliance where irregular payments are involved.
+The disclosure of an annual percentage rate is accurate for the purpose of this subchapter ifthe rate disclosed is within a tolerance not greater than one-eighth of 1 per centum more or less than the actual rate or rounded to the nearest one-fourth of 1 per centum. The Board may allow a greater tolerance to simplify compliance where irregular payments are involved.
 
 #### (d) Use of rate tables or charts having allowable variance from determined rates
 
@@ -41,8 +41,4 @@ Subsec. (f). Pub. L. 96–221, §607(c), struck out subsec. (f) setting forth re
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1607, 1611, 1637, 1638, 1640 of this title.
 

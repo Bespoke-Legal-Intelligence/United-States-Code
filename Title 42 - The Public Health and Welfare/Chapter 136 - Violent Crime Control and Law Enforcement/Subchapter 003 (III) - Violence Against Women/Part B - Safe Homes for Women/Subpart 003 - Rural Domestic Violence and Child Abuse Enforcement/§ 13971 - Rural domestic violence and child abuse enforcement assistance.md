@@ -58,7 +58,3 @@ Subsec. (c)(1). Pub. L. 106–386, §1105(1), added par. (1) and struck out head
 
 Subsec. (c)(3). Pub. L. 106–386, §1105(2), added par. (3).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

@@ -8,7 +8,3 @@ As used in section 92b of this title the phrase “Member of the House” shall 
 
 Section effective Jan. 3, 1935, see section 4 of act Aug. 21, 1935, set out as a note under section 92b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 92b–1 of this title.
-

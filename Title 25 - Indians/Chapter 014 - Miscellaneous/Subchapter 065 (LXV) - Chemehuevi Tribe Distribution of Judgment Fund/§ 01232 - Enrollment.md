@@ -14,15 +14,11 @@
 
 #### (b) Dual awards
 
-Any person who has applied for and has been determined as eligible to share in the awards granted by the Indian Claims Commission in dockets numbered 88, 330, and 330–A, to the Southern Paiute Indian Nation or in docketsnumbered 31, 37, 80, 80–D, 176, 215, 333, and 347, to “Certain Indians of California” shall not be entitled to share in the awards granted under this subchapter.
+Any person who has applied for and has been determined as eligible to share in the awards granted by the Indian Claims Commission in dockets numbered 88, 330, and 330–A, to the Southern Paiute Indian Nation or in dockets numbered 31, 37, 80, 80–D, 176, 215, 333, and 347, to “Certain Indians of California” shall not be entitled to share in the awards granted under this subchapter.
 
 (Pub. L. 91–417, §2, Sept. 25, 1970, 84 Stat. 868.)
 
 #### References in Text
 
 The Indian Claims Commission, referred to in subsec. (b), terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1231 of this title.
 

@@ -4,7 +4,3 @@ To request a grant under this subchapter, the chief executive officer of a State
 
 (Pub. L. 90–351, title I, §2402, as added Pub. L. 103–322, title XXI, §210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2066.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3796kk–5 of this title.
-

@@ -4,7 +4,3 @@ The existing periods of trust placed upon any Indian lands and any restriction o
 
 (June 18, 1934, ch. 576, §2, 48 Stat. 984.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 478–1 of this title.
-

@@ -52,13 +52,9 @@ July 4, 1966, Pub. L. 89–488, §11(b), 80 Stat. 255.
 
 In subsection (b)(1), the words “section 8128(a) of this title” are substituted for “section 37” to reflect the codification of section 37 in title 5, United States Code. The words “a claimant \* \* \* is entitled \* \* \* to a hearing” are substituted for “any claimant \* \* \* shall \* \* \* be afforded an opportunity for a hearing”. The words “under subsection (a) of this section” are substituted for “under this section” for clarity. In the second sentence, the words “is entitled to present evidence” are substituted for “shall be afforded an opportunity to present evidence”.
 
-In subsection (b)(2), the words “section 554 of this title \* \* \* this subchapter” are substituted for “section5 of the Administrative Procedure Act \* \* \* this Act” to reflect the codification of the cited section and act in title 5. In the second sentence, the words “shall, in addition, receive” are omitted as unnecessary.
+In subsection (b)(2), the words “section 554 of this title \* \* \* this subchapter” are substituted for “section 5 of the Administrative Procedure Act \* \* \* this Act” to reflect the codification of the cited section and act in title 5. In the second sentence, the words “shall, in addition, receive” are omitted as unnecessary.
 
 #### Personnel Not Affected by 1967 Increase
 
 Increases authorized under amendment by section 1(58) of Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8149 of this title.
 

@@ -20,5 +20,5 @@ July 1, 1944, ch. 373, §209(c) (1st sentence), 58 Stat. 686; redesignated as se
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Health, Education, and Welfare, see section 3 of Ex. Ord. No. 11140, Jan. 30, 1964 29 F.R. 1637, set out as a note under section 202 of Title 42, The Public Health and Welfare. Secretary of Health, Education, and Welfare redesignated Secretary of Health andHuman Services by section 3508(b) of Title 20, Education.
+Functions of President under this section delegated to Secretary of Health, Education, and Welfare, see section 3 of Ex. Ord. No. 11140, Jan. 30, 1964 29 F.R. 1637, set out as a note under section 202 of Title 42, The Public Health and Welfare. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
 

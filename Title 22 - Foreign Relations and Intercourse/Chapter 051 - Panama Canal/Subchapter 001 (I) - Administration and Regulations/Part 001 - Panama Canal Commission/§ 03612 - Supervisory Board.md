@@ -24,7 +24,7 @@ The Board shall hold meetings as provided in regulations adopted by the Commissi
 
 1988—Subsec. (c). Pub. L. 100–705 struck out after third sentence “Only one proxy may be valid at any one time.”
 
-1987—Subsec. (b). Pub. L. 100–203 inserted before period at end “or, as authorized by the Chairman of theBoard, while on official Panama Canal Commission business”.
+1987—Subsec. (b). Pub. L. 100–203 inserted before period at end “or, as authorized by the Chairman of the Board, while on official Panama Canal Commission business”.
 
 1985—Subsec. (b). Pub. L. 99–223 inserted provisions relating to compensation of members of the Board who hold no other office with either the Government of the United States or the Republic of Panama for which they receive pay.
 
@@ -37,10 +37,6 @@ Section 10 of Pub. L. 100–705 provided that: “This Act \[enacting sections 3
 #### Effective Date of 1985 Amendment
 
 Section 8 of Pub. L. 99–223 provided that: “Section 5 and section 6 of the Act \[enacting section 3650 of this title and amending this section and sections 3647 and 3731 of this title\] shall be effective as of October 1, 1985.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3714a, 3723 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -8,15 +8,11 @@
 
 #### (b) Boundaries and map
 
-(1) The boundaries of the park shall be as generally depicted on the map entitled “KeweenawNational Historical Park, Michigan”, numbered NHP–KP/20012–B and dated June, 1992. Such map shall be on file and available for public inspection in the office of the National Park Service, Department of the Interior, Washington, District of Columbia, and the office of the village council, Calumet, Michigan.
+(1) The boundaries of the park shall be as generally depicted on the map entitled “Keweenaw National Historical Park, Michigan”, numbered NHP–KP/20012–B and dated June, 1992. Such map shall be on file and available for public inspection in the office of the National Park Service, Department of the Interior, Washington, District of Columbia, and the office of the village council, Calumet, Michigan.
 
 (2) Within 180 days after October 27, 1992, the Secretary shall publish in the Federal Register a detailed description and map of the boundaries established under paragraph <sup>1</sup> (a)(1) of this section.
 
 (Pub. L. 102–543, §3, Oct. 27, 1992, 106 Stat. 3570.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410yy–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

@@ -14,6 +14,10 @@
 
 Subsec. (b). Pub. L. 104–121, §243(b)(2), substituted “his or her views with respect to compliance with this chapter, the adequacy of the rulemaking record with respect to small entities and the” for “his views with respect to the”.
 
+#### Change of Name
+
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship ofSenate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section 245 of Pub. L. 104–121, set out as a note under section 601 of this title.

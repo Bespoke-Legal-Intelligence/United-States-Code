@@ -10,7 +10,7 @@ It is hereby declared to be the policy of this chapter to protect interstate com
 
 #### (c) Protection of interstate commerce, the Federal taxing power, and beneficiaries by vesting of accrued benefits, setting minimum standards of funding, requiring termination insurance
 
-It is hereby further declared to be the policy of this chapter to protect interstate commerce, the Federal taxing power, and the interests of participants in private pension plans and their beneficiaries by improving the equitable character and the soundness of such plans by requiring them to vest the accrued benefits of employees with significant periods of service, to meet minimum standards of funding, and by requiring plan termination insurance.
+It is hereby further declared to be the policy of this chapter to protect interstate commerce, the Federal taxing power, and the interests ofparticipants in private pension plans and their beneficiaries by improving the equitable character and the soundness of such plans by requiring them to vest the accrued benefits of employees with significant periods of service, to meet minimum standards of funding, and by requiring plan termination insurance.
 
 (Pub. L. 93–406, title I, §2, Sept. 2, 1974, 88 Stat. 832.)
 
@@ -104,7 +104,7 @@ Requirement that preretirement survivor annuity be provided in case of certain p
 
 &emsp;&emsp;“(C) who dies on or after the date of the enactment of this Act \[Aug. 23, 1984\] and before the first day of the first plan year to which the amendments made by this Act apply,
 
-> &emsp;the amendments made by sections 103 and 203 shall be treated as in effect as of the time of such participant's death. In the case of a profit-sharing or stock bonus plan to which this paragraph applies, the plan shall be treated as meeting the requirements of the amendments made by sections 103 and 203 with respect to any participant if the plan made a distribution in a form other than a life annuity to the surviving spouse of the participant of such participant's nonforfeitable benefit.
+> &emsp;the amendments made by sections 103 and 203 shall be treated as in effect as of the time of such participant's death. In the case of a profit-sharing or stock bonus plan to which this paragraph applies, the planshall be treated as meeting the requirements of the amendments made by sections 103 and 203 with respect to any participant if the plan made a distribution in a form other than a life annuity to the surviving spouse of the participant of such participant's nonforfeitable benefit.
 
 &emsp;“(3)
 
@@ -200,9 +200,13 @@ Responsibilities of secretary of labor.—The Secretary of Labor shall take such
 
 \[Amendment by section 1898(g), (h)(1)(A), (2), (3) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of Title 26.\]
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–218, §1, Apr. 10, 2004, 118 Stat. 596, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Pension Funding Equity Act of 2004’.”
+
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–92, §1, Nov. 19, 1997, 111 Stat. 2139, provided that: “This Act \[enacting sections 1146 and 1147 of this title and provisions set out as a note under section 1146 of this title\] may be cited as the ‘Savings Are Vital to Everyone's Retirement Act of 1997’.”
+Pub. L. 105–92, §1, Nov. 19, 1997, 111 Stat. 2139, provided that: “This Act \[enacting sections 1146 and 1147 ofthis title and provisions set out as a note under section 1146 of this title\] may be cited as the ‘Savings Are Vital to Everyone's Retirement Act of 1997’.”
 
 #### Short Title of 1994 Amendment
 
@@ -226,7 +230,7 @@ Pub. L. 96–364, §1, Sept. 26, 1980, 94 Stat. 1208, provided that: “This Act
 
 #### Short Title
 
-Section 1 of Pub. L. 93–406 provided that: “This Act \[enacting this chapter, sections 408 to 415, 4971 to 4975, 6057 to 6059, 6692, and 6693 of Title 26, Internal Revenue Code, section 1037 of former Title 31, Money and Finance, and section 1320b–1 of Title 42, The Public Health and Welfare, amending section 441 of this title,sections 5108 and 5109 of Title 5, Government Organization and Employees, sections 664, 1027, and 1954 of Title 18, Crimes and Criminal Procedure, sections 37, 46, 56, 62, 72, 101, 122, 219, 220, 275, 401, 402, 403, 404, 405, 406, 407, 503, 801, 805, 871, 901, 1304, 1348, 1379, 2039, 3401, 6033, 6047, 6051, 6103, 6104, 6161, 6201, 6204, 6211, 6212, 6213, 6214, 6344, 6501, 6503, 6511, 6512, 6601, 6652, 6653, 6659, 6676, 6677, 6679, 6682, 6688, 6690, 6861, 6862, 7422, 7451, 7459, 7482, 7701, and 7802, of Title 26, and section 846 of former Title 31, repealing sections 301 to 309 of this title, and enacting provisions set out as notes under sections 72, 122, 219, 401, 402, 403, 404, 410, 411, 412, 415, 501, 4973, 4975, 6057, 6059, 6103, 6104, 7476, and 7802 of Title 26\] may be cited as the ‘Employee Retirement Income Security Act of 1974’.”
+Section 1 of Pub. L. 93–406 provided that: “This Act \[enacting this chapter, sections 408 to 415, 4971 to 4975, 6057 to 6059, 6692, and 6693 of Title 26, Internal Revenue Code, section 1037 of former Title 31, Money and Finance, and section 1320b–1 of Title 42, The Public Health and Welfare, amending section 441 of this title, sections 5108 and 5109 of Title 5, Government Organization and Employees, sections 664, 1027, and 1954 of Title 18, Crimes and Criminal Procedure, sections 37, 46, 56, 62, 72, 101, 122, 219, 220, 275, 401, 402, 403, 404, 405, 406, 407, 503, 801, 805, 871, 901, 1304, 1348, 1379, 2039, 3401, 6033, 6047, 6051, 6103, 6104, 6161, 6201, 6204, 6211, 6212, 6213, 6214, 6344, 6501, 6503, 6511, 6512, 6601, 6652, 6653, 6659, 6676, 6677, 6679, 6682, 6688, 6690, 6861, 6862, 7422, 7451, 7459, 7482, 7701, and 7802, of Title 26, and section 846 of former Title 31, repealing sections 301 to 309 of this title, and enacting provisions set out as notes under sections 72, 122, 219, 401, 402, 403, 404, 410, 411, 412, 415, 501, 4973, 4975, 6057, 6059, 6103, 6104, 7476, and 7802 of Title 26\] may be cited as the ‘Employee Retirement Income Security Act of 1974’.”
 
 #### Coordination of Internal Revenue Code of 1986 With Employee Retirement Income Security Act of 1974
 
@@ -280,7 +284,7 @@ Except as otherwise provided in Section 105 of this Plan, all authority of the S
 
 #### Sec. 103. Coordination Concerning Certain Fiduciary Actions
 
-In the case of fiduciary actions which are subject to Part 4 of Subtitle B of Title I of ERISA \[29 U.S.C. 1101 et seq.\], the Secretary of the Treasury shall notify the Secretary of Labor prior to the time of commencing any proceeding to determine whether the action violates the exclusive benefit rule of subsection 401(a) of the Code \[26 U.S.C. 401(a)\], but not later than prior to issuing a preliminary notice of intent to disqualify under that rule, and the Secretary of the Treasury shall not issue a determination that a plan or trust does not satisfy the requirements of subsection 401(a) by reason of the exclusive benefit rule of subsection 401(a), unless within 90 days after the date on which the Secretary of the Treasury notifies the Secretary of Labor of pending action, the Secretary of Labor certifies that he has no objection to the disqualification or the Secretary of Labor fails to respond to the Secretary of the Treasury. The requirements of this paragraph do not apply in the case of any termination or jeopardy assessment under sections 6851 or 6861 of the Code \[26U.S.C. 6851 or 6861\] that has been approved in advance by the Commissioner of Internal Revenue, or, as delegated, the Assistant Commissioner for Employee Plans and Exempt Organizations.
+In the case of fiduciary actions which are subject to Part 4 of Subtitle B of Title I of ERISA \[29 U.S.C. 1101 et seq.\], the Secretary of the Treasury shall notify the Secretary of Labor prior to the time of commencing any proceeding to determine whether the action violates the exclusive benefit rule of subsection 401(a) of the Code \[26 U.S.C. 401(a)\], but not later than prior to issuing a preliminary notice of intent to disqualify under that rule, and the Secretary of the Treasury shall not issue a determination that a plan or trust does not satisfy the requirements of subsection 401(a) by reason of the exclusive benefit rule of subsection 401(a), unless within 90 days after the date on which the Secretary of the Treasury notifies the Secretary of Labor of pending action, the Secretary of Labor certifies that he has no objection to the disqualification or the Secretary of Labor fails to respond to the Secretary of the Treasury. The requirements of this paragraph do not apply in the case of any termination or jeopardy assessment under sections 6851 or 6861 of the Code \[26 U.S.C. 6851 or 6861\] that has been approved in advance by the Commissioner of Internal Revenue, or, as delegated, the Assistant Commissioner for Employee Plans and Exempt Organizations.
 
 #### Sec. 104. Enforcement by the Secretary of Labor
 
@@ -300,7 +304,7 @@ The transfers provided for in Section 102 of this Plan shall not affect the abil
 
 (ii) regulations issued pursuant to subsections 204(b)(3)(D), 302(c)(8), and 304(a) and (b)(2)(A) of ERISA \[29 U.S.C. 1054(b)(3)(D), 1082(c)(8), and 1084(a) and (b)(2)(A)\], and subsections 411(b)(3)(D), 412(c)(8), (e), and (f)(2)(A) of the Code \[26 U.S.C. 411(b)(3)(D), 412(c)(8), (e), and (f)(2)(A)\]; and
 
-(iii) revenue rulings (within the meaning of 26 CFR Section 601.201(a)(6)), revenue procedures, and similar publications, if the rulings, procedures and publications are issued under one of the statutory provisions listed in (i) and (ii) of this subsection; and
+(iii) revenue rulings (within the meaning of 26 CFR Section 601.201(a)(6)), revenue procedures, and similarpublications, if the rulings, procedures and publications are issued under one of the statutory provisions listed in (i) and (ii) of this subsection; and
 
 (iv) rulings (within the meaning of 26 CFR Section 601.201(a)(2)) issued prior to the issuance of a published regulation under one of the statutory provisions listed in (i) and (ii) of this subsection and not issued under a published Revenue Ruling.
 

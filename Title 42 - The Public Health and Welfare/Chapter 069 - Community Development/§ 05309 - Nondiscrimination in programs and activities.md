@@ -40,7 +40,3 @@ Section 912(b) of Pub. L. 101–625 provided that: “The amendment made by subs
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3608, 5307 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—DIRECT PAYMENTS AND COUNTER-CYCLICAL PAYMENTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1308, 1308–3a, 7936, 7939, 7952, 7955, 7991 of this title.
-
 
 ---
 

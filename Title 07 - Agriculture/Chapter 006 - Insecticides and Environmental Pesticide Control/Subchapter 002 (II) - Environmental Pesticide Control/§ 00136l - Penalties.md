@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Any registrant, commercial applicator, wholesaler, dealer, retailer, or other distributor who violates any provision of this subchapter may be assessed a civil penalty by the Administrator of not more than $5,000 for each offense.
+&emsp;Any registrant, commercial applicator, wholesaler, dealer, retailer, or other distributor who violates any provision of this subchapter may be assessed a civil penalty by theAdministrator of not more than $5,000 for each offense.
 
 #### (2) Private applicator
 
@@ -65,8 +65,4 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 #### Effective Date
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 136a–1, 136g, 136q of this title.
 

@@ -10,6 +10,11 @@
 | [<b>15.</b>](Chapter%20015%20-%20Plant%20Patents/README.md) | <b>Plant Patents</b> | <b>161</b> |
 | [<b>16.</b>](Chapter%20016%20-%20Designs/README.md) | <b>Designs</b> | <b>171</b> |
 | [<b>17.</b>](Chapter%20017%20-%20Secrecy%20of%20Certain%20Inventions%20and%20Filing%20Applications%20in%20Foreign%20Country/README.md) | <b>Secrecy of Certain Inventions and Filing Applications Abroad </b><b><sup>1</sup></b> | <b>181</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>18.</b>](Chapter%20018%20-%20Patent%20Rights%20in%20Inventions%20Made%20with%20Federal%20Assistance/README.md) | <b>Patent Rights in Inventions Made with Federal Assistance</b> | <b>200</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -21,10 +26,6 @@
 1982—Pub. L. 97–256, title I, §101(6), Sept. 8, 1982, 96 Stat. 816, added item for chapter 18.
 
 1975—Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949, substituted “Patent and Trademark Office” for “Patent Office” in heading of chapter 13.
-
-#### Part Referred to in Other Sections
-
-This part is referred to in section 282 of this title.
 
 
 ---

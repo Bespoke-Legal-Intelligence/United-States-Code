@@ -40,10 +40,15 @@
 | [1335\.](%C2%A7%2001335%20-%20Naval%20Observatory%20Observations.md) | Naval Observatory Observations. |
 | [1336\.](%C2%A7%2001336%20-%20National%20Geospatial-Intelligence%20Agency%20special%20publications.md) | National Geospatial-Intelligence Agency: special publications. |
 | \[1337, 1338. Repealed.\] |  |
-| [1339\.](%C2%A7%2001339%20-%20Printing%20of%20the%20President%27s%20Message.md) | Printing of the President's message. |
+| [1339\.](%C2%A7%2001339%20-%20Printing%20of%20the%20President%27s%20Message.md) | Printing of the President's message.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [1340\.](%C2%A7%2001340%20-%20Public%20Printer%20annual%20report.md) | Public Printer: annual report. |
 | [1341\.](%C2%A7%2001341%20-%20Smithsonian%20Institution%20report.md) | Smithsonian Institution: report. |
-| [1342\.](%C2%A7%2001342%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20IV%2C%20%C2%A7384%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201016.md) | Soil area surveys: reports; congressional allotments.<sup>1</sup> |
+| [1342\.](%C2%A7%2001342%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20IV%2C%20%C2%A7384%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201016.md) | Soil area surveys: reports; congressional allotments.<sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -74,7 +79,9 @@ Pub. L. 104–201, div. A, title XI, §1123(b)(2), Sept. 23, 1996, 110 Stat. 268
 
 Authority and responsibilities under chapter not limited or repealed by Federal Records Management Amendments of 1976, see section 5(b) of Pub. L. 94–575, set out as a note under section 2901 of this title.
 
-<i><sup>1</sup></i><i> Section repealed by Pub. L. 104–127 without corresponding amendment of chapter analysis.</i>
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
+<i><sup>2</sup></i><i> Section repealed by Pub. L. 104–127 without corresponding amendment of chapter analysis.</i>
 
 
 ---

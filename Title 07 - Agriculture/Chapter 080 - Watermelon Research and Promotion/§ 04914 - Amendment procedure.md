@@ -32,7 +32,3 @@ The Watermelon Research and Promotion Improvement Act of 1993, referred to in su
 
 1993—Pub. L. 103–189 amended section generally. Prior to amendment, section read as follows: “The provisions of this chapter applicable to plans shall be applicable to amendments to plans.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4906 of this title.
-

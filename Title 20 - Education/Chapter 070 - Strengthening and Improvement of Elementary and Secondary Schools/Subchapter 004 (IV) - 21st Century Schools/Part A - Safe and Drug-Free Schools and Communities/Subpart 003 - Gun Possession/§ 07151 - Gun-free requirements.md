@@ -42,7 +42,7 @@ Each State shall report the information described in subsection (d) of this sect
 
 #### (f) Definition
 
-For the purpose of subsection (d) of this section, the term “school” means any setting that is under the control and supervision of the local educational agency for the purpose of student activities approved and authorized by the local educational agency.
+For the purpose of subsection (d) of this section, the term “school” means any setting that is under the control and supervision of the local educational agency for the purpose of studentactivities approved and authorized by the local educational agency.
 
 #### (g) Exception
 

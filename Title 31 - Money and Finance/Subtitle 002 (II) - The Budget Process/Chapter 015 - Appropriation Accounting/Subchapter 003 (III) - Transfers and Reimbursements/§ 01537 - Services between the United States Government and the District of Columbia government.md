@@ -58,7 +58,7 @@ Dec. 24, 1973, Pub. L. 93–198, §731, 87 Stat. 822.
 
 In the section, the words “District of Columbia” are substituted for “District” for clarity and consistency.
 
-In subsection (a), the word “duplication” is substituted for “duplication of effort” to eliminate unnecessary words. The words “officer or employee of the United States Government” are substituted for “anyFederal officer or agency”, and the words “officer or employee of the District of Columbia government” are substituted for “any District officer or agency”, for consistency.
+In subsection (a), the word “duplication” is substituted for “duplication of effort” to eliminate unnecessary words. The words “officer or employee of the United States Government” are substituted for “any Federal officer or agency”, and the words “officer or employee of the District of Columbia government” are substituted for “any District officer or agency”, for consistency.
 
 In subsection (b)(1), before clause (A), the words “Except where the terms and conditions governing the furnishing of such services are prescribed by other provisions of law” are omitted as surplus. In clause (A), the words “officers and employees of the 2 governments” are substituted for “Federal and District authorities” for consistency. In clause (B), the words “of the District of Columbia” are added for clarity.
 
@@ -79,8 +79,4 @@ Reference to Executive Protective Service held to refer to United States Secret 
 #### Transfer of Functions
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 section 8501.
 

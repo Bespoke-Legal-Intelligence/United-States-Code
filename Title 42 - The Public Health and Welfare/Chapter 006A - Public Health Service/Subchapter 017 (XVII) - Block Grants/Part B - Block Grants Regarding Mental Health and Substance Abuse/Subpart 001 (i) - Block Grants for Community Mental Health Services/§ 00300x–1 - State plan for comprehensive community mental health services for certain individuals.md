@@ -20,7 +20,7 @@ With respect to the provision of comprehensive community mental health services 
 
 #### (2) Mental health system data and epidemiology
 
-&emsp;The plan contains an estimate of the incidence and prevalence in the State of seriousmental illness among adults and serious emotional disturbance among children and presents quantitative targets to be achieved in the implementation of the system described in paragraph (1).
+&emsp;The plan contains an estimate of the incidence and prevalence in the State of serious mental illness among adults and serious emotional disturbance among children and presents quantitative targets to be achieved in the implementation of the system described in paragraph (1).
 
 #### (3) Children's services
 
@@ -88,15 +88,11 @@ Section 300x–1a, act July 1, 1944, ch. 373, title XIX, §1912A, as added and a
 
 Another prior section 300x–1a, act July 1, 1944, ch. 373, title XIX, §1913, as added Oct. 19, 1984, Pub. L. 98–509, title I, §102(a), 98 Stat. 2353, was transferred to section 300x–1b of this title.
 
-Section 300x–1b, act July 1, 1944, ch. 373, title XIX, §1913, as added Oct. 19, 1984, Pub. L. 98–509, title I, §102(a), 98 Stat. 2353; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2022(d), 102 Stat. 4197; Aug. 16, 1989, Pub. L. 101–93, §2(b), 103 Stat. 605, related to allotments to States and Indian tribes or tribal organizations for alcohol, drug abuse, and mental health services.
+Section 300x–1b, act July 1, 1944, ch. 373, title XIX, §1913, as added Oct. 19, 1984, Pub. L. 98–509, title I,§102(a), 98 Stat. 2353; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2022(d), 102 Stat. 4197; Aug. 16, 1989, Pub. L. 101–93, §2(b), 103 Stat. 605, related to allotments to States and Indian tribes or tribal organizations for alcohol, drug abuse, and mental health services.
 
 #### Amendments
 
 2000—Subsec. (b). Pub. L. 106–310 added pars. (1) to (5) and concluding provisions and struck out former pars. (1) to (12) relating to criteria for plan.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300x, 300x–2, 300x–4, 300x–6, 300x–8, 300x–51, 300x–54, 300x–55 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

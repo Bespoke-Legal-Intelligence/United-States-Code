@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) maintain and permit access to records related to that production, processing, consumption, export, or import of such substance; and
 
-&emsp;&emsp;(B) submit to the Director of the United States National Authority such reports as the United States National Authority may reasonably require to provide to the Organization, pursuant to subparagraph 1(a) of theAnnex on Confidentiality of the Convention, the minimum amount of information and data necessary for the timely and efficient conduct by the Organization of its responsibilities under the Convention.
+&emsp;&emsp;(B) submit to the Director of the United States National Authority such reports as the United States National Authority may reasonably require to provide to the Organization, pursuant to subparagraph 1(a) of the Annex on Confidentiality of the Convention, the minimum amount of information and data necessary for the timely and efficient conduct by the Organization of its responsibilities under the Convention.
 
 #### (2) Rulemaking
 

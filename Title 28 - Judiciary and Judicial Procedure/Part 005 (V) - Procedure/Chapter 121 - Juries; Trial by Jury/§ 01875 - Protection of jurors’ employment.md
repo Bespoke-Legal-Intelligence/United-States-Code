@@ -22,13 +22,9 @@
 
 1983—Subsec. (d)(1). Pub. L. 97–463, §1(1), substituted designation “(d)(1)” for “(d)” before “An individual claiming”.
 
-Subsec. (d)(2). Pub. L. 97–463, §1(2), inserted provision empowering the court to tax a defendant employer, ascosts payable to the court, the attorney fees and expenses incurred on behalf of a prevailing employee, where such costs were expended by the court pursuant to par. (1) of this subsection and, in existing provisions, substituted “only if the court finds that the action is frivolous” for “if the court determines that the action is frivolous”.
+Subsec. (d)(2). Pub. L. 97–463, §1(2), inserted provision empowering the court to tax a defendant employer, as costs payable to the court, the attorney fees and expenses incurred on behalf of a prevailing employee, where such costs were expended by the court pursuant to par. (1) of this subsection and, in existing provisions, substituted “only if the court finds that the action is frivolous” for “if the court determines that the action is frivolous”.
 
 #### Effective Date
 
 Section applicable with respect to any grand or petit juror summoned for service or actually serving on or after Nov. 2, 1978, see section 7(a) of Pub. L. 95–572, set out as a note under section 1363 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1363 of this title.
 

@@ -8,7 +8,3 @@ A person receiving assistance under this subchapter shall provide service in the
 
 1991—Pub. L. 102–40 renumbered section 4354 of this title as this section and substituted “7603” for “4303”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7655 of this title.
-

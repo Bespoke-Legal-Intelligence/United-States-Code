@@ -36,7 +36,3 @@ The Food Security Act of 1985, referred to in subsec. (d), is Pub. L. 99–198, 
 
 The Federal Agriculture Improvement and Reform Act of 1996, referred to in subsec. (e), is Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 888, as amended. Subtitle C of title I of the Act is classified generally to subchapter III (§7231 et seq.) of chapter 100 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7932, 7933, 7934, 7935, 7939 of this title.
-

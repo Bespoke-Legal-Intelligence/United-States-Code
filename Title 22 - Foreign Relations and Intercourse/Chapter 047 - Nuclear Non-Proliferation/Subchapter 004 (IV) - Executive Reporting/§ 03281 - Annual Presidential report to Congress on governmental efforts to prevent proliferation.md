@@ -96,10 +96,6 @@ For termination, effective May 15, 2000, of provisions in subsec. (a) of this se
 
 For delegation of congressional reporting functions of President under subsec. (a) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3223, 3224, 3244, 6323 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “; and”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be preceded by “section”.</i>

@@ -1,9 +1,5 @@
 Part I—Declaration of Policy; Development Assistance Authorizations
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 2077, 2151x–1, 2151x–2, 2183, 2201, 2218, 2261, 2293, 2346, 2354, 2357, 2358, 2361, 2370, 2394, 2394–1, 2395, 2396, 2399d, 2421d, 5423, 5442, 5452, 6062, 6591, 7102 of this title; title 20 section 226.
-
 
 ---
 
@@ -21,7 +17,7 @@ This part is referred to in sections 2077, 2151x–1, 2151x–2, 2183, 2201, 221
 - [&sect; 02151c - Education and human resources development](%C2%A7%2002151c%20-%20Education%20and%20human%20resources%20development.md)
 - [&sect; 02151d - Development of indigenous energy resources](%C2%A7%2002151d%20-%20Development%20of%20indigenous%20energy%20resources.md)
 - [&sect; 02151e - Appropriate technology](%C2%A7%2002151e%20-%20Appropriate%20technology.md)
-- [&sect; 02151f - Microenterprise development credits](%C2%A7%2002151f%20-%20Microenterprise%20development%20credits.md)
+- [&sect; 02151f - Transferred](%C2%A7%2002151f%20-%20Transferred.md)
 - [&sect; 02151g - Transfer of funds](%C2%A7%2002151g%20-%20Transfer%20of%20funds.md)
 - [&sect; 02151h - Cost-sharing](%C2%A7%2002151h%20-%20Cost-sharing.md)
 - [&sect; 02151i - Development and use of cooperatives](%C2%A7%2002151i%20-%20Development%20and%20use%20of%20cooperatives.md)
@@ -49,8 +45,8 @@ This part is referred to in sections 2077, 2151x–1, 2151x–2, 2183, 2201, 221
 - [&sect; 02151z - Targeted assistance](%C2%A7%2002151z%20-%20Targeted%20assistance.md)
 - [&sect; 02151aa - Program to provide technical assistance to foreign governments and foreign central banks of developing or transitional countries](%C2%A7%2002151aa%20-%20Program%20to%20provide%20technical%20assistance%20to%20foreign%20governments%20and%20foreign%20central%20banks%20of%20developing%20or%20transitional%20countries.md)
 - [&sect; 02152 - Assistance for victims of torture](%C2%A7%2002152%20-%20Assistance%20for%20victims%20of%20torture.md)
-- [&sect; 02152a - Microenterprise development grant assistance](%C2%A7%2002152a%20-%20Microenterprise%20development%20grant%20assistance.md)
-- [&sect; 02152b - United States Microfinance Loan Facility](%C2%A7%2002152b%20-%20United%20States%20Microfinance%20Loan%20Facility.md)
+- [&sect; 02152a - Repealed. Pub. L. 108&#8211;484, &sect;8(a), Dec. 23, 2004, 118 Stat. 3931](%C2%A7%2002152a%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93484%2C%20%C2%A78%28a%29%2C%20Dec.%2023%2C%202004%2C%20118%20Stat.%203931.md)
+- [&sect; 02152b - Transferred](%C2%A7%2002152b%20-%20Transferred.md)
 - [&sect; 02152c - Programs to encourage good governance](%C2%A7%2002152c%20-%20Programs%20to%20encourage%20good%20governance.md)
 - [&sect; 02152d - Assistance to foreign countries to meet minimum standards for the elimination of trafficking](%C2%A7%2002152d%20-%20Assistance%20to%20foreign%20countries%20to%20meet%20minimum%20standards%20for%20the%20elimination%20of%20trafficking.md)
 - [&sect; 02152e - Program to improve building construction and practices in Latin American countries](%C2%A7%2002152e%20-%20Program%20to%20improve%20building%20construction%20and%20practices%20in%20Latin%20American%20countries.md)

@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—CHILD ABUSE CRIME INFORMATION AND BACKGROUND CHECKS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3759, 14614 of this title.
-
 
 ---
 

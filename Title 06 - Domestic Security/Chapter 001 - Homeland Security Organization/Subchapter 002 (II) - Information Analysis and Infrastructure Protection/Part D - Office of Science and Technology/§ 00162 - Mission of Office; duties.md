@@ -90,7 +90,7 @@ The Director of the Office shall include with the budget justification materials
 
 &emsp;&emsp;(B) a strategic plan for meeting such needs of such law enforcement agencies.
 
-&emsp;(2) For the fiscal year preceding the fiscal year for which such budget is submitted, a description of the activities carried out by the Office and an evaluation of the extent towhich those activities successfully meet the needs assessed under paragraph (1)(A) in previous reports.
+&emsp;(2) For the fiscal year preceding the fiscal year for which such budget is submitted, a description of the activities carried out by the Office and an evaluation of the extent to which those activities successfully meet the needs assessed under paragraph (1)(A) in previous reports.
 
 (Pub. L. 107–296, title II, §232, Nov. 25, 2002, 116 Stat. 2159; Pub. L. 108–7, div. L, §103(1), Feb. 20, 2003, 117 Stat. 529.)
 

@@ -114,7 +114,3 @@ Subsec. (c)(3). Pub. L. 102–486, §2125(1)–(3), struck out par. (3) which re
 
 &emsp;“(C) not to exceed $6,000,000 shall be available for the Hydrogen Energy Systems Program.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12001 of this title.
-

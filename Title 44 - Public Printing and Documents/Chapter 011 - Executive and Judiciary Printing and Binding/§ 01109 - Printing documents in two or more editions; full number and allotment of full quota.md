@@ -8,7 +8,3 @@ The number of copies of a public document or report authorized to be printed for
 
 Based on 44 U.S. Code, 1964 ed., §224 (Mar. 30, 1906, No. 14, 34 Stat. 826).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3714b; title 35 section 2.
-

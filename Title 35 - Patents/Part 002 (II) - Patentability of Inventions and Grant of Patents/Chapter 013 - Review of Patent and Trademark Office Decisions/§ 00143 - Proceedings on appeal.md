@@ -20,7 +20,7 @@ Pub. L. 107–273, §13202(b)(2), amended third sentence generally and added fou
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4605(d)\], amended third sentence generally. Prior to amendment, third sentence read as follows: “In an ex parte case, the Commissioner shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal.”
 
-1984—Pub. L. 98–620 substituted provisions requiring the Commissioner to transmit to the court a certified list of the documents comprising the record in the Patent and Trademark Office, with respect to an appeal described in section 142 of this title, for provision which required the Commissioner to transmit to the court certified copies of all the necessary original papers and evidence in the case specified by the appellant and the appellee, and inserted provision that the court may request that the Commissioner forward the original or certified copies of such documents during the pendency of the appeal.
+1984—Pub. L. 98–620 substituted provisions requiring the Commissioner to transmit to the court a certified list of the documents comprising the record in the Patent and Trademark Office, with respect to an appeal described in section 142 of this title, for provision which required the Commissioner to transmit to the court certified copies of all the necessary original papers andevidence in the case specified by the appellant and the appellee, and inserted provision that the court may request that the Commissioner forward the original or certified copies of such documents during the pendency of the appeal.
 
 1982—Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
 
@@ -34,7 +34,7 @@ Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(A)\] of Pub. L. 106–
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 applicable to proceedings pending in the Patent and Trademark Office onNov. 8, 1984, and to appeals pending in the United States Court of Appeals for the Federal Circuit on such date, see section 414(c) of Pub. L. 98–620, set out as a note under section 142 of this title.
+Amendment by Pub. L. 98–620 applicable to proceedings pending in the Patent and Trademark Office on Nov. 8, 1984, and to appeals pending in the United States Court of Appeals for the Federal Circuit on such date, see section 414(c) of Pub. L. 98–620, set out as a note under section 142 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -43,8 +43,4 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 306, 315 of this title.
 

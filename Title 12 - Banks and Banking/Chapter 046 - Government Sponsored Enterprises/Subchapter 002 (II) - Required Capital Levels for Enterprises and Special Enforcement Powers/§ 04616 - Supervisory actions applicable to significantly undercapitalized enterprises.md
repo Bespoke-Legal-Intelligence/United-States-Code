@@ -62,9 +62,5 @@ This section shall take effect upon the first classification of the enterprises 
 
 This chapter, referred to in subsec. (b)(6)(B), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4614, 4615, 4617, 4618, 4619, 4620, 4623, 4636 of this title.
-
 <i><sup>1</sup></i><i> So in original. The word “enterprise” probably should not appear.</i>
 

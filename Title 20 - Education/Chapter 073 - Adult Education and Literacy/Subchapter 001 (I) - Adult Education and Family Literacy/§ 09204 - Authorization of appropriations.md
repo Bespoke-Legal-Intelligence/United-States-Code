@@ -8,7 +8,3 @@ There is authorized to be appropriated to carry out this subchapter such sums as
 
 1998—Pub. L. 105–277 made technical amendment to reference in original act which appears in text as reference to this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9211 of this title.
-

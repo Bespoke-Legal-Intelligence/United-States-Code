@@ -1,6 +1,6 @@
 ### §3103. Employment at seat of Government only for services rendered
 
-An individual may be employed in the civil service in an Executive department at the seatof Government only for services actually rendered in connection with and for the purposes of the appropriation from which he is paid. An individual who violates this section shall be removed from the service.
+An individual may be employed in the civil service in an Executive department at the seat of Government only for services actually rendered in connection with and for the purposes of the appropriation from which he is paid. An individual who violates this section shall be removed from the service.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 415.)
 
@@ -31,8 +31,4 @@ All after the 75th words of section 4 of the Act of Aug. 5, 1882, as amended by 
 In the last sentence, the word “removed” is substituted for “summarily removed” because of the provisions of the Lloyd-LaFollette Act, 37 Stat. 555, as amended, and the Veterans’ Preference Act of 1944, 58 Stat. 387, as amended, which are carried into this title.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 1916.
 

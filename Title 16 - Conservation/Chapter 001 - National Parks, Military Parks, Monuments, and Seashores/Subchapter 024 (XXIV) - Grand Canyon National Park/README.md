@@ -1,9 +1,5 @@
 ### SUBCHAPTER XXIV—GRAND CANYON NATIONAL PARK
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 687 of this title.
-
 
 ---
 

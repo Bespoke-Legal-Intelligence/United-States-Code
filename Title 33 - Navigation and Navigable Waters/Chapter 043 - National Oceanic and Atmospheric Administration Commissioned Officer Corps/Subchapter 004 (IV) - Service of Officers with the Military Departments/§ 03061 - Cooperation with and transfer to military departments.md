@@ -32,7 +32,7 @@ An officer of the Administration transferred under this section, shall, while un
 
 Provisions similar to those in this section were contained in section 855 of this title prior to repeal by Pub. L. 107–372.
 
-#### Section Referred to in Other Sections
+#### Delegation of Functions
 
-This section is referred to in section 3030 of this title.
+Functions of President under this section delegated to Secretary of Commerce by section 1(k) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
 

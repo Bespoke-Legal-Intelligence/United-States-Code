@@ -144,9 +144,7 @@ Definition.—As used in subsection (a), the term ‘high intelligence threat co
 
 &emsp;“(2) any other country designated as a high intelligence threat country for purposes of this section by the Secretary of State, the Secretary of Defense, the Director of Central Intelligence, or the Director of the Federal Bureau of Investigation.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2151aa, 4805 of this title; title 15 section 4721; title 49 section 44934.
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

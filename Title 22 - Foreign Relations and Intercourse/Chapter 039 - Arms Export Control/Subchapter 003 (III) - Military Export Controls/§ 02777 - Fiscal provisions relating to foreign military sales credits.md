@@ -10,7 +10,7 @@ Amounts received from foreign governments and international organizations as rep
 
 #### (c) Credit of funds to reserve under section 2764(c)
 
-Notwithstanding the provisions of subsection (b) of this section, to the extent that any of the funds constituting the reserve under section 2764(c) of this title are paid out for a claim arising out of a loan guaranteed under section 2764of this title, amounts received from a foreign government or international organization after the date of such payment, with respect to such claim, shall be credited to such reserve, shall be merged with the funds in such reserve, and shall be available for any purpose for which funds in such reserve are available.
+Notwithstanding the provisions of subsection (b) of this section, to the extent that any of the funds constituting the reserve under section 2764(c) of this title are paid out for a claim arising out of a loan guaranteed under section 2764 of this title, amounts received from a foreign government or international organization after the date of such payment, with respect to such claim, shall be credited to such reserve, shall be merged with the funds in such reserve, and shall be available for any purpose for which funds in such reserve are available.
 
 (Pub. L. 90–629, ch. 3, §37, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 93–189, §25(11), Dec. 17, 1973, 87 Stat. 731; Pub. L. 96–533, title I, §§104(b), 105(e)(1), Dec. 16, 1980, 94 Stat. 3133, 3135.)
 
@@ -21,8 +21,4 @@ Notwithstanding the provisions of subsection (b) of this section, to the extent 
 Subsec. (c). Pub. L. 96–533, §104(b), added subsec. (c).
 
 1973—Subsec. (b). Pub. L. 93–189 inserted provisions relating to indebtedness under section 2764(b) of this title and exclusions of portions of the sales proceeds required at the time of disposition as a reserve for payment of claims under guaranties issued under section 2764(b) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2291c of this title; title 10 section 114.
 

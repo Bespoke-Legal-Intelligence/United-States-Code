@@ -24,7 +24,3 @@ Subsec. (b). Pub. L. 98–426, §27(a)(2), substituted “Secretary” for “co
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 908 of this title; title 8 section 1288.
-

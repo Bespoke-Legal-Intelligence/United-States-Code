@@ -4,7 +4,3 @@ For the purposes of this chapter a qualified applicant is a residential occupant
 
 (Pub. L. 87–851, §2, Oct. 23, 1962, 76 Stat. 1127.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 701 of this title.
-

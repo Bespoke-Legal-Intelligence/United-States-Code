@@ -16,7 +16,7 @@ For purposes of this section, the terms “expanded” and “expansion” mean 
 
 #### References in Text
 
-Section 446 of the District of Columbia Home Rule Act, referred to in subsec. (a), is section 446 of Pub. L. 93–198, title IV, Dec. 24, 1973, 87 Stat. 801, as amended, which is not classified to the Code.
+Section 446 of the District of Columbia Home Rule Act, referred to in subsec. (a), is section 446 of Pub. L.93–198, title IV, Dec. 24, 1973, 87 Stat. 801, as amended, which is not classified to the Code.
 
 #### Amendments
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) meet locally defined and documented educational equity needs and priorities, including compliance with title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\];
 
-&emsp;&emsp;(C) are a significant component of a comprehensive plan for educational equity andcompliance with title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\] in the particular school district, institution of higher education, vocational-technical institution, or other educational agency or institution; and
+&emsp;&emsp;(C) are a significant component of a comprehensive plan for educational equity and compliance with title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\] in the particular school district, institution of higher education, vocational-technical institution, or other educational agency or institution; and
 
 &emsp;&emsp;(D) implement an institutional change strategy with long-term impact that will continue as a central activity of the applicant after the grant under this subpart has terminated.
 

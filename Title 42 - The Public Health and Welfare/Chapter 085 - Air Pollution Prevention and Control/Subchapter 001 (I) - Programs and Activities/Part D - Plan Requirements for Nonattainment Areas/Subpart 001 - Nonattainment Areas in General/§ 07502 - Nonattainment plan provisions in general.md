@@ -28,7 +28,7 @@
 
 #### (b) Schedule for plan submissions
 
-At the time the Administrator promulgates the designation of an area as nonattainment with respect to a national ambient air quality standard under section 7407(d) of this title, the Administrator shall establish a schedule according to which the State containing such area shall submit a plan or plan revision (including the plan items) meeting the applicable requirements of subsection (c) of this section and section 7410(a)(2) of this title. Such schedule shall at a minimum, include a date or dates, extending no later than 3 years from the date of the nonattainment designation, for the submission of a plan or plan revision (including the plan items) meeting the applicable requirements of subsection (c) of this section and section 7410(a)(2) of this title.
+At the time the Administrator promulgates the designation of an area as nonattainment with respect to a national ambient air quality standard under section 7407(d) of this title, the Administrator shall establish a schedule according to which the State containing such area shall submit a plan or plan revision (including the plan items) meeting the applicable requirements of subsection (c) of this section and section 7410(a)(2) of this title. Such schedule shall at a minimum, include a date or dates, extending no later than 3 years from the date of thenonattainment designation, for the submission of a plan or plan revision (including the plan items) meeting the applicable requirements of subsection (c) of this section and section 7410(a)(2) of this title.
 
 #### (c) Nonattainment plan provisions
 
@@ -56,7 +56,7 @@ The plan provisions (including plan items) required to be submitted under this p
 
 #### (6) Other measures
 
-&emsp;Such plan provisions shall include enforceable emission limitations, and such other control measures, means or techniques (including economic incentives such as fees, marketablepermits, and auctions of emission rights), as well as schedules and timetables for compliance, as may be necessary or appropriate to provide for attainment of such standard in such area by the applicable attainment date specified in this part.
+&emsp;Such plan provisions shall include enforceable emission limitations, and such other control measures, means or techniques (including economic incentives such as fees, marketable permits, and auctions of emission rights), as well as schedules and timetables for compliance, as may be necessary or appropriate to provide for attainment of such standard in such area by the applicable attainment date specified in this part.
 
 #### (7) Compliance with section 7410(a)(2)
 
@@ -113,8 +113,4 @@ Section 129(a) of Pub. L. 95–95, as amended by Pub. L. 95–190, §14(b)(2), (
 #### State Implementation Plan Revision
 
 Section 129(c) of Pub. L. 95–95, as amended by Pub. L. 95–190, §14(b)(4), Nov. 16, 1977, 91 Stat. 1405, provided that: “Notwithstanding the requirements of section 406(d)(2) \[set out as an Effective Date of 1977 Amendment note under section 7401 of this title\] (relating to date required for submission of certain implementation plan revisions), for purposes of section 110(a)(2) of the Clean Air Act \[section 7410(a)(2) of this title\] each State in which there is any nonattainment area (as defined in part D of title I of the Clean Air Act) \[this part\] shall adopt and submit an implementation plan revision which meets the requirements of section 110(a)(2)(I) \[section 7410(a)(2)(I) of this title\] and part D of title I of the Clean Air Act \[this part\] not later than January 1, 1979. In the case of any State for which a plan revision adopted and submitted before such date has made the demonstration required under section 172(a)(2) of the Clean Air Act \[subsec. (a)(2) of this section\] (respecting impossibility of attainment before 1983), such State shall adopt and submit to the Administrator a plan revision before July 1, 1982, which meets the requirements of section 172(b) and (c) of such Act \[subsecs. (b) and (c) of this section\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7410, 7429, 7503, 7509, 7511, 7511a, 7512, 7512a, 7513, 7513a, 7607 of this title.
 

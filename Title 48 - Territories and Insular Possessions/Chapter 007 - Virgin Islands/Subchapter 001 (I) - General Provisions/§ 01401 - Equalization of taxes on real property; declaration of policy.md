@@ -4,7 +4,3 @@ It is the policy of Congress to equalize and more equitably to distribute existi
 
 (May 26, 1936, ch. 450, §1, 49 Stat. 1372.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1401b, 1401e of this title.
-

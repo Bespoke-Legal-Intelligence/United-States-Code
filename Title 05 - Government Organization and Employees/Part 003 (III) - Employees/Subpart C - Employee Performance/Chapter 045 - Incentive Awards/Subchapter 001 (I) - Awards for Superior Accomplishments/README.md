@@ -4,10 +4,6 @@
 
 1981—Pub. L. 97–35, title XVII, §1703(b)(1), Aug. 13, 1981, 95 Stat. 756, added heading for subchapter I.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 9508 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original. Does not conform to subchapter heading.</i>

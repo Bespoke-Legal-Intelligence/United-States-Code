@@ -14,7 +14,7 @@ References to Territory, District, etc., were revised and same changes made as i
 
 The provision that “such liquor shall be forfeited to the United States” was omitted as covered by section 3615 of this title, which was derived from section 224 of title 27, U.S.C., 1940 ed., Intoxicating Liquors.
 
-The provision that such liquor “may be seized and condemned by like proceedings as those provided by law for the seizure and forfeiture of property imported into the United States contrary to law” was likewise omitted as covered by section 3615 of this title, which provides for seizure and forfeiture under the internal revenue laws rather than under provisions of law “for the seizure and forfeiture of property imported into the United States contrary to law” or, in other words, rather than under the customs laws. Section 224 of title 27, U.S.C., 1940 ed., Intoxicating Liquors, on which said section 3615 of this title is based, was derived from the Liquor Enforcement Act of 1936 (Act June 25, 1936, ch. 815, 49 Stat. 1928). Said section 224 included, in its coverage, section 390 of title 18, U.S.C., 1940 ed., on which this revised section is based, even though the Liquor Enforcement Act of 1936, in another section thereof, in amending said section 390, retained the provision that seizures and forfeitures thereunder should be under the customs laws. By eliminating this conflicting provision, a uniform procedure for seizures and forfeitures, under the internal revenue laws, is established under said section 3615 of this title.
+The provision that such liquor “may be seized and condemned by like proceedings as those provided by law for the seizure and forfeiture of property imported into the United States contrary to law” was likewise omitted as covered by section 3615 of this title, which provides for seizure and forfeiture under the internalrevenue laws rather than under provisions of law “for the seizure and forfeiture of property imported into the United States contrary to law” or, in other words, rather than under the customs laws. Section 224 of title 27, U.S.C., 1940 ed., Intoxicating Liquors, on which said section 3615 of this title is based, was derived from the Liquor Enforcement Act of 1936 (Act June 25, 1936, ch. 815, 49 Stat. 1928). Said section 224 included, in its coverage, section 390 of title 18, U.S.C., 1940 ed., on which this revised section is based, even though the Liquor Enforcement Act of 1936, in another section thereof, in amending said section 390, retained the provision that seizures and forfeitures thereunder should be under the customs laws. By eliminating this conflicting provision, a uniform procedure for seizures and forfeitures, under the internal revenue laws, is established under said section 3615 of this title.
 
 #### Amendments
 
@@ -29,8 +29,4 @@ Section 3 of Pub. L. 90–518 provided that: “This Act \[amending this section
 #### Congressional Disclaimer of Intent To Preempt State Regulation of Shipments of Intoxicating Liquor
 
 Section 2 of Pub. L. 90–518 provided that: “Nothing contained in this Act \[amending this section\] shall be construed as indicating an intent on the part of Congress to deprive any State of the power to enact additional prohibitions with respect to the shipment of intoxicating liquors.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3667 of this title.
 

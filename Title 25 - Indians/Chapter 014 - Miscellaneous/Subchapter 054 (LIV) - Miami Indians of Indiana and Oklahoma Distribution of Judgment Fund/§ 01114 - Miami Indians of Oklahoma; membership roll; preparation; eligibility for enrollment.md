@@ -16,7 +16,3 @@ Act of May 17, 1963, referred to in text, is act May 17, 1963, Pub. L. 88–25, 
 
 Act of March 3, 1891, referred to in text, is act Mar. 3, 1891, ch. 543, 26 Stat. 1000. Provisions of the act relating to the roll of the Western Miami Tribe of June 12, 1891, were not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1117, 1124 of this title.
-

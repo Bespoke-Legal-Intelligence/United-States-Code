@@ -46,9 +46,5 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Emergency Relief From Postal Situation Affecting Atomic Energy Cases
 
-Excusal of delayed fees or actions affected by postal situation beginning on Mar. 18, 1970, and ending on or about Mar. 30, 1970, see note set out under section 111 of Title 35, Patents.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2187, 2190 of this title.
+Excusal of delayed fees or actions affected by postal situation beginning on Mar. 18, 1970, and ending on orabout Mar. 30, 1970, see note set out under section 111 of Title 35, Patents.
 

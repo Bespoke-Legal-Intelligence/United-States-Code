@@ -78,7 +78,3 @@
 
 &emsp;&emsp;“(ii) payment of the lump-sum credit would affect any right or interest of the former spouse with respect to a survivor annuity under section 8445, or to any portion of an annuity under section 8467.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8402, 8433, 8442, 8468 of this title; title 50 section 2154.
-

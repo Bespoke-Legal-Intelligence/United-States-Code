@@ -54,9 +54,5 @@ The Right to Financial Privacy Act of 1978, referred to in subsecs. (b)(3) and (
 
 In subsec. (a), “magistrate judge” substituted for “magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3404, 3406, 3412, 3413, 3414 of this title; title 15 section 78u.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “preceding”.</i>
 

@@ -17,10 +17,6 @@
 
 1979—Pub. L. 96–70, title I, §1331(e)(3)(B), Sept. 27, 1979, 93 Stat. 482, struck out item 3402 “Mailing privileges of members of Armed Forces of the United States and of friendly foreign nations in the Canal Zone”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3684 of this title.
-
 
 ---
 

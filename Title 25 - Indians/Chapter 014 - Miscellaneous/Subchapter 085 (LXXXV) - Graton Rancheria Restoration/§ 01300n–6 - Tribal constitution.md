@@ -10,7 +10,3 @@ Not later than 120 days after the Tribe ratifies a final constitution under subs
 
 (Pub. L. 106–568, title XIV, §1408, Dec. 27, 2000, 114 Stat. 2941.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300n–4, 1300n–5 of this title.
-

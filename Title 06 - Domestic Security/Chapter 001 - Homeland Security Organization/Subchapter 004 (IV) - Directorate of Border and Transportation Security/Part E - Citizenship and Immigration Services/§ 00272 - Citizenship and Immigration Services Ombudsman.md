@@ -28,7 +28,7 @@ It shall be the function of the Ombudsman—
 
 &emsp;&emsp;(D) shall contain an inventory of the items described in subparagraphs (A) and (B) for which action remains to be completed and the period during which each item has remained on such inventory;
 
-&emsp;&emsp;(E) shall contain an inventory of the items described in subparagraphs (A) and (B) forwhich no action has been taken, the period during which each item has remained on such inventory, the reasons for the inaction, and shall identify any official of the Bureau of Citizenship and Immigration Services who is responsible for such inaction;
+&emsp;&emsp;(E) shall contain an inventory of the items described in subparagraphs (A) and (B) for which no action has been taken, the period during which each item has remained on such inventory, the reasons for the inaction, and shall identify any official of the Bureau of Citizenship and Immigration Services who is responsible for such inaction;
 
 &emsp;&emsp;(F) shall contain recommendations for such administrative action as may be appropriate to resolve problems encountered by individuals and employers, including problems created by excessive backlogs in the adjudication and processing of immigration benefit petitions and applications; and
 
@@ -91,8 +91,4 @@ The Director of the Bureau of Citizenship and Immigration Services shall establi
 #### Effective Date
 
 Section effective on the date on which the transfer of functions specified under section 251 of this title takes effect, see section 455 of Pub. L. 107–296, set out as a note under section 271 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 271 of this title.
 

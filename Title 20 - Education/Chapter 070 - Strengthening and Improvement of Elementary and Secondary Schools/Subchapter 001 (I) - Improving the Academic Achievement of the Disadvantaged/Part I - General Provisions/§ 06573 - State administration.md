@@ -48,7 +48,3 @@
 
 (Pub. L. 89–10, title I, §1903, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1618.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6311 of this title.
-

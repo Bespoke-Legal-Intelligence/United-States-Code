@@ -4,7 +4,7 @@ Section 1201, Pub. L. 89–750, title III, §311, as added Pub. L. 100–297, ti
 
 A prior section 1201, Pub. L. 89–750, title III, §302, Nov. 3, 1966, 80 Stat. 1216; Pub. L. 91–230, title III, §301, Apr. 13, 1970, 84 Stat. 159; Pub. L. 95–561, title XIII, §1301, Nov. 1, 1978, 92 Stat. 2356; Pub. L. 98–511, title I, §101, Oct. 19, 1984, 98 Stat. 2366, related to Congressional declaration of purpose of chapter, prior to the general amendment of this chapter by Pub. L. 100–297.
 
-Section 1201a, Pub. L. 89–750, title III, §312, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 302; amended Pub. L. 101–26, §3(a), May 11, 1989, 103 Stat. 55;Pub. L. 101–589, title VII, §723, Nov. 16, 1990, 104 Stat. 2913; Pub. L. 102–73, title VIII, §802(b)(1), July 25, 1991, 105 Stat. 361, defined terms used in chapter.
+Section 1201a, Pub. L. 89–750, title III, §312, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 302; amended Pub. L. 101–26, §3(a), May 11, 1989, 103 Stat. 55; Pub. L. 101–589, title VII, §723, Nov. 16, 1990, 104 Stat. 2913; Pub. L. 102–73, title VIII, §802(b)(1), July 25, 1991, 105 Stat. 361, defined terms used in chapter.
 
 Section 1201b, Pub. L. 89–750, title III, §313, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 304; amended Pub. L. 102–73, title III, §301(a), title VIII, §802(b)(2), July 25, 1991, 105 Stat. 345, 361, authorized appropriations and required allotments.
 

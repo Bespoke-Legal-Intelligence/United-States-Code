@@ -16,7 +16,7 @@ Inspections by the Technical Secretariat of plants, plant sites, or other facili
 
 #### (c) Notification requirements
 
-The United States National Authority shall ensure that the owner, operator, occupant, or agent in charge of a facility prior to the development of the agreement relating to that facility is notified and, if the person notified so requests, the person may participate in the preparations for the negotiation of such an agreement. To the maximum extent practicable consistent with the Convention, the owner and the operator, occupant or agent in charge of a facility may observe negotiations of the agreement between the United States and the Organization concerning that facility.
+The United States National Authority shall ensure that the owner, operator, occupant, oragent in charge of a facility prior to the development of the agreement relating to that facility is notified and, if the person notified so requests, the person may participate in the preparations for the negotiation of such an agreement. To the maximum extent practicable consistent with the Convention, the owner and the operator, occupant or agent in charge of a facility may observe negotiations of the agreement between the United States and the Organization concerning that facility.
 
 #### (d) Content of facility agreements
 
@@ -31,8 +31,4 @@ Facility agreements shall—
 &emsp;(4) detail the areas, equipment, computers, records, data, and samples that are not subject to inspection.
 
 (Pub. L. 105–277, div. I, title III, §302, Oct. 21, 1998, 112 Stat. 2681–872.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6724 of this title.
 

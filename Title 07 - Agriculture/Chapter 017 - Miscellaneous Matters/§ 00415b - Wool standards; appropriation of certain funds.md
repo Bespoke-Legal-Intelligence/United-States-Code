@@ -10,7 +10,3 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 Functions of Bureau of Agricultural Economics transferred to other units of Department of Agriculture by Secretary's memorandum of Nov. 2, 1953.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 415c, 415d of this title.
-

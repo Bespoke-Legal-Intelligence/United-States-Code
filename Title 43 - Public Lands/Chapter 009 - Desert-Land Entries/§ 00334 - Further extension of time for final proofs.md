@@ -4,7 +4,3 @@ The Secretary of the Interior may, in his discretion, in addition to the extensi
 
 (Apr. 30, 1912, ch. 101, 37 Stat. 106.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 335, 336 of this title.
-

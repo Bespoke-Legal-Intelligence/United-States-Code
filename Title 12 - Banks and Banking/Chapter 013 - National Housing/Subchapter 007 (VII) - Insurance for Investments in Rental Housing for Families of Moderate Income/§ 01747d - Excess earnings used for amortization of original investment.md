@@ -4,7 +4,3 @@ For all of the purposes of any insurance contract made pursuant to this subchapt
 
 (June 27, 1934, ch. 847, title VII, §705, as added Aug. 10, 1948, ch. 832, title IV, §401, 62 Stat. 1277.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1747<i>l</i> of this title.
-

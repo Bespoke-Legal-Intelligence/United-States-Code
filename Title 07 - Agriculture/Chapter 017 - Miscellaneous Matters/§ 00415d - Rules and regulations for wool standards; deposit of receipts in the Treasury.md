@@ -4,7 +4,3 @@ The Secretary of Agriculture may make such rules and regulations as he deems adv
 
 (May 17, 1928, ch. 602, §3, 45 Stat. 594.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 415c of this title.
-

@@ -80,11 +80,11 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 #### Records Center Revolving Fund
 
-Pub. L. 106–58, title IV, \[(a)–(e)\], Sept. 29, 1999, 113 Stat. 460, 461, provided that:
+Pub. L. 106–58, title IV, \[(a)–(e)\], Sept. 29, 1999, 113 Stat. 460, 461, as amended by Pub. L. 108–383, §3, Oct. 30, 2004, 118 Stat. 2218, provided that:
 
 “(a)
 
-Establishment of Fund.—There is hereby established in the Treasury a revolving fund to be available for expenses and equipment necessary to provide for storage and related services for all temporary and pre-archival Federal records, which are to be stored or stored at Federal National and Regional Records Centers by agencies and other instrumentalities of the Federal Government. The Fund shall be available without fiscal year limitation for expenses necessary for operation of these activities.
+Establishment of Fund.—There is hereby established in the Treasury a revolving fund to be available for expenses (including expenses for uniforms or allowances for uniforms as authorized by subchapter I of chapter 59 of title 5 \[United States Code\]) and equipment necessary to provide for storage and related services for all temporary and pre-archival Federal records, which are to be stored or stored at Federal National and Regional Records Centers by agencies and other instrumentalities of the Federal Government. The Fund shall be available without fiscal year limitation for expenses necessary for operation of these activities.
 
 “(b)
 
@@ -117,8 +117,4 @@ Section 5 of Pub. L. 94–575 provided that:
 “(a) The provisions of this Act \[see Short Title of 1976 Amendment note set out under section 101 of this title\] relating to the authority of the Administrator of General Services do not limit or repeal additional authorities provided by statute or otherwise recognized by law.
 
 “(b) The provisions of this Act do not limit or repeal the authority or responsibilities of the Joint Committee on Printing or the Government Printing Office under chapters 1 through 19 of title 44, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1501, 3102 of this title; title 17 section 704.
 

@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to convey to the State of Tennessee,
 
 (Pub. L. 91–57, §1, Aug. 9, 1969, 83 Stat. 100.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 403h–17 of this title.
-

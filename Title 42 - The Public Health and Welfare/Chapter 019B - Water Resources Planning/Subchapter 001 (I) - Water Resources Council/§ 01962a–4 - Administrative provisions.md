@@ -2,7 +2,7 @@
 
 #### (a) Hearings, proceedings, evidence, reports; office space; use of mails; personnel; consultants; motor vehicles; necessary expenses; other powers
 
-For the purpose of carrying out the provisions of this chapter, the Council may: (1) hold such hearings, sit and act at such times and places, take such testimony, receive such evidence, and print or otherwise reproduce and distribute so much of its proceedings and reports thereon as it may deem advisable; (2) acquire, furnish, and equip such office space as is necessary; (3) use the United States mails in the same manner and upon the same conditions as other departments and agencies of the United States; (4) employ and fix the compensation of such personnel as it deems advisable, in accordance with the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5; (5) procure services as authorized by section 3109 of title 5, at rates not in excess of the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5 in the case of individual experts or consultants; (6) purchase, hire, operate, and maintain passenger motor vehicles; and (7) incur such necessary expenses and exercise such other powers as are consistent with and reasonably required to perform its functions under this chapter.
+For the purpose of carrying out the provisions of this chapter, the Council may: (1) hold such hearings, sit and act at such times and places, take such testimony, receive such evidence, and print or otherwise reproduce and distribute so much of its proceedings and reports thereon as it may deem advisable; (2) acquire, furnish, and equip such office space as is necessary; (3) use the United States mails in the same manner and upon the same conditions as other departments and agencies of the United States; (4) employ and fix the compensation of such personnel as it deems advisable, in accordance with the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5; (5) procure services as authorized by section 3109 of title 5, at rates not in excess of the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5 in the case of individual experts or consultants; (6) purchase, hire, operate, and maintain passenger motor vehicles; and (7) incur suchnecessary expenses and exercise such other powers as are consistent with and reasonably required to perform its functions under this chapter.
 
 #### (b) Oaths
 
@@ -37,8 +37,4 @@ In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” sub
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1962d–2 of this title.
 

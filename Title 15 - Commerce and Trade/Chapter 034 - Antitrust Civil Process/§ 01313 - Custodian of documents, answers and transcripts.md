@@ -36,7 +36,7 @@ If any documentary material has been produced in the course of any antitrust inv
 
 #### (f) Appointment of successor custodians
 
-In the event of the death, disability, or separation from service in the Department of Justice of the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony produced under any demand issued pursuant to this chapter, or the official relief of such custodian from responsibility for the custody and control of such material, answers, or transcripts, the Assistant Attorney General in charge of the Antitrust Division shall promptly (1) designate another antitrust investigator to serve as custodian of such material, answers, or transcripts, and (2) transmit in writing to the person who produced such material, answers, or testimony notice as to the identity and address of the successor so designated. Any successor designated under this subsection shall have with regard to such material, answers, or transcripts all duties and responsibilities imposed by this chapter upon his predecessor in office with regard thereto, except that he shall not be held responsible for any default or dereliction which occurred prior to his designation.
+In the event of the death, disability, or separation from service in the Department of Justice of the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony produced under any demand issuedpursuant to this chapter, or the official relief of such custodian from responsibility for the custody and control of such material, answers, or transcripts, the Assistant Attorney General in charge of the Antitrust Division shall promptly (1) designate another antitrust investigator to serve as custodian of such material, answers, or transcripts, and (2) transmit in writing to the person who produced such material, answers, or testimony notice as to the identity and address of the successor so designated. Any successor designated under this subsection shall have with regard to such material, answers, or transcripts all duties and responsibilities imposed by this chapter upon his predecessor in office with regard thereto, except that he shall not be held responsible for any default or dereliction which occurred prior to his designation.
 
 (Pub. L. 87–664, §4, Sept. 19, 1962, 76 Stat. 549; Pub. L. 94–435, title I, §103, Sept. 30, 1976, 90 Stat. 1387; Pub. L. 96–349, §§2(b)(4), 7(a)(2), Sept. 12, 1980, 94 Stat. 1155, 1158.)
 
@@ -60,17 +60,13 @@ Subsec. (c). Pub. L. 94–435, among other changes, inserted provisions relating
 
 Subsec. (d). Pub. L. 94–435, among other changes, in par. (1), inserted provisions relating to answers to interrogatories and transcripts of oral testimony, substituted a provision that an attorney designated under this section be from the Department of Justice for a provision that a designated attorney be appearing on behalf of the United States, provided that such an attorney can make an appearance under this section before a Federal administrative or regulatory agency in addition to a court or grand jury, and added par. (2).
 
-Subsec. (e). Pub. L. 94–435, among other changes, inserted provisions of subsec. (f) relating to the institution of a case or proceeding within a reasonable timeafter examination and analysis of any evidence assembled during the course of an investigation, and relating to written demand for the return of such material, and, in addition, provided that copies furnished the custodian pursuant to subsec. (b) of this section need not be returned by the custodian.
+Subsec. (e). Pub. L. 94–435, among other changes, inserted provisions of subsec. (f) relating to the institution of a case or proceeding within a reasonable time after examination and analysis of any evidence assembled during the course of an investigation, and relating to written demand for the return of such material, and, in addition, provided that copies furnished the custodian pursuant to subsec. (b) of this section need not be returned by the custodian.
 
 Subsecs. (f), (g). Pub. L. 94–435 redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e)(2).
 
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–435 effective Sept. 30, 1976, see section 106 of Pub. L. 94–435, set out as a note under section 1311 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1311, 6205 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

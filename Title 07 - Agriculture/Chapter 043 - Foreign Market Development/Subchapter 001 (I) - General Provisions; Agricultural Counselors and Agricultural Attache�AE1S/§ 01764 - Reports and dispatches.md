@@ -20,7 +20,3 @@ Upon the request of the Secretary of Agriculture, each Federal agency may make i
 
 Subsec. (c). Pub. L. 95–501, §301(6), added subsec. (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1765g of this title.
-

@@ -16,7 +16,7 @@ The Director is authorized to undertake and carry out such studies and investiga
 
 &emsp;&emsp;&emsp;(iii) any remaining administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title) not included under clause (ii), which shall be recovered by a fee charged to policyholders and such fee shall not be subject to any agents’ commissions, company expense allowances, or State or local premium taxes,
 
-> &emsp;would be required in order to make such insurance available on an actuarial basis for anytypes and classes of properties for which insurance coverage is available under section 4012(a) of this title (or is recommended to the Congress under section 4012(b) of this title);
+> &emsp;would be required in order to make such insurance available on an actuarial basis for any types and classes of properties for which insurance coverage is available under section 4012(a) of this title (or is recommended to the Congress under section 4012(b) of this title);
 
 &emsp;(2) the rates, if less than the rates estimated under paragraph (1), which would be reasonable, would encourage prospective insureds to purchase flood insurance, and would be consistent with the purposes of this chapter, and which, together with a fee charged to policyholders that shall not be not subject to any agents’ commission, company expenses allowances, or State or local premium taxes, shall include any administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title); and
 
@@ -36,7 +36,7 @@ Notwithstanding any other provision of law, any structure existing on December 3
 
 #### (e) Eligibility of community making adequate progress on construction of flood protection system for rates not exceeding those applicable to completed flood protection system; determination of adequate progress
 
-Notwithstanding any other provision of law, any community that has made adequate progress, acceptable to the Director, on the construction of a flood protection system which will afford flood protection for the one-hundred year frequency flood as determined by the Director, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates not exceeding those which would be applicable under this section if such flood protection system had been completed. The Director shall find that adequate progress on the construction of a flood protection system as required herein has been only if (1) 100 percent of the project cost of the system has been authorized, (2) at least 60 percent of the project cost of the system has been appropriated, (3) at least 50 percent of the project cost of the system has been expended, and (4) the system is at least 50 percent completed.
+Notwithstanding any other provision of law, any community that has made adequate progress, acceptable to the Director, on the construction of a flood protection system which will afford flood protection for the one-hundred year frequency flood as determined by the Director, shall be eligible for flood insurance under this chapter (if and to the extent it is eligiblefor such insurance under the other provisions of this chapter) at premium rates not exceeding those which would be applicable under this section if such flood protection system had been completed. The Director shall find that adequate progress on the construction of a flood protection system as required herein has been only if (1) 100 percent of the project cost of the system has been authorized, (2) at least 60 percent of the project cost of the system has been appropriated, (3) at least 50 percent of the project cost of the system has been expended, and (4) the system is at least 50 percent completed.
 
 #### (f) Availability of flood insurance in communities restoring disaccredited flood protection systems; criteria; rates
 
@@ -111,8 +111,4 @@ Report.—The Director shall submit a report to the Congress describing and expl
 #### Sea Level Rise Study
 
 Pub. L. 101–137, §5, Nov. 3, 1989, 103 Stat. 825, directed Director of Federal Emergency Management Agency to conduct a study to determine the impact of relative sea level rise on the flood insurance rate maps, such study also to project the economic losses associated with estimated sea level rise and aggregate such data for the United States as a whole and by region, with Director to report results of study to Congress not later than one year after Nov. 3, 1989.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4012, 4013, 4015, 4022, 4054, 4056 of this title.
 

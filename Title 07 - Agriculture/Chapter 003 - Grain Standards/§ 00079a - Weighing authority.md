@@ -38,7 +38,7 @@ No State or local governmental agency or person shall weigh or state in any docu
 
 #### (1) In general
 
-&emsp;No State or local governmental agency or person other than an authorized employee of the Secretary shall perform official weighing or supervision of weighing for the purposes of this chapter except in accordance with the provisions of an unsuspended and unrevoked delegation of authority or designation by the Secretary as provided in this section or as otherwise provided in section 79(i) of this title and subsection (d) of this section.
+&emsp;No State or local governmental agency or person other than an authorized employee of the Secretary shall perform official weighing or supervision of weighing for the purposes of this chapter except in accordance with the provisions of an unsuspended and unrevoked delegation of authority or designation by the Secretary as provided in this section or asotherwise provided in section 79(i) of this title and subsection (d) of this section.
 
 #### (2) Geographic boundaries for official agencies
 
@@ -58,7 +58,7 @@ The provisions of this section shall not limit any authority vested in the Secre
 
 #### (k) Access to elevators, warehouses, or their storage or handling facilities
 
-The representatives of the Secretary shall be afforded access to any elevator, warehouse, orother storage or handling facility from which grain is delivered for shipment in interstate or foreign commerce or to which grain is delivered from shipment in interstate or foreign commerce and all facilities therein for weighing grain.
+The representatives of the Secretary shall be afforded access to any elevator, warehouse, or other storage or handling facility from which grain is delivered for shipment in interstate or foreign commerce or to which grain is delivered from shipment in interstate or foreign commerce and all facilities therein for weighing grain.
 
 #### (<i>l</i>) Fees; establishment, amount, payment, etc.
 
@@ -94,7 +94,7 @@ Subsec. (<i>l</i>)(3). Pub. L. 103–156, §14(b), added par. (3).
 
 1988—Subsec. (<i>l</i>). Pub. L. 100–518 amended subsec. (<i>l</i>) generally, substituting “cover the costs of the Service” for “cover the costs of the service” in par. (1).
 
-1981—Subsec. (<i>l</i>). Pub. L. 97–35 temporarily designated existing provisions as par. (1), made changes in nomenclature, provided for inclusion, rather than exclusion, of administrative and supervisory costs, and struck out provisions respecting availability of deposited funds,and added par. (2). See Effective and Termination Dates of 1981 Amendment note below.
+1981—Subsec. (<i>l</i>). Pub. L. 97–35 temporarily designated existing provisions as par. (1), made changes in nomenclature, provided for inclusion, rather than exclusion, of administrative and supervisory costs, and struck out provisions respecting availability of deposited funds, and added par. (2). See Effective and Termination Dates of 1981 Amendment note below.
 
 1977—Subsec. (a). Pub. L. 95–113, §1606(e), substituted “standards or procedures” for “standards”.
 
@@ -135,10 +135,6 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 #### Effective Date
 
 Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under section 74 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 75, 84, 87, 87b, 87e, 87h of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “the Secretary's”.</i>
 

@@ -116,6 +116,10 @@ Sections 3101 and 3103, referred to in subsec. (g), are sections 3101 and 3103 o
 
 Section is comprised of section 3142 of Pub. L. 106–65. Subsec. (h)(1) of section 3142 of Pub. L. 106–65 repealed section 3161 of Pub. L. 105–85, formerly set out as a note under section 7251 of this title. Subsec. (h)(2) of section3142 of Pub. L. 106–65 amended section 2657 of Title 50, War and National Defense.
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Short Title
 
 Pub. L. 106–65, div. C, title XXXI, §3141, Oct. 5, 1999, 113 Stat. 931, provided that: “This subtitle \[subtitle D, §§3141–3156, of title XXXI of div. C of Pub. L. 106–65, enacting this subchapter and section 2282b of this title, amending sections 2165, 2274, 2275, 2277, and 2282a of this title, enacting provisions set out as notes under sections 2165 and 2282b of this title and section 435 of Title 50, War and National Defense, amending provisions set out as a note under section 7274m of this title, and repealing provisions set out as a note under section 7251 of this title\] may be cited as the ‘Department of Energy Facilities Safeguards, Security, and Counterintelligence Enhancement Act of 1999’.”

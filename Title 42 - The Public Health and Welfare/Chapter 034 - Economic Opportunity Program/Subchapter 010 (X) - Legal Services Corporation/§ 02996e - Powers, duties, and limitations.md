@@ -94,7 +94,3 @@ Subsec. (f). Pub. L. 95–222, §8, substituted “the court shall” for “the
 
 Amendment by Pub. L. 95–222 effective Dec. 28, 1977, see section 17(b) of Pub. L. 95–222, set out as a note under section 2996 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2996a, 2996i of this title.
-

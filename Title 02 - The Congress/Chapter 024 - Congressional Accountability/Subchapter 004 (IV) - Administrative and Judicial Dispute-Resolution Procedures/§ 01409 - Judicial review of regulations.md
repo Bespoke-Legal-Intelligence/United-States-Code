@@ -4,7 +4,3 @@ In any proceeding brought under section 1407 or 1408 of this title in which the 
 
 (Pub. L. 104–1, title IV, §409, Jan. 23, 1995, 109 Stat. 37.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1410 of this title.
-

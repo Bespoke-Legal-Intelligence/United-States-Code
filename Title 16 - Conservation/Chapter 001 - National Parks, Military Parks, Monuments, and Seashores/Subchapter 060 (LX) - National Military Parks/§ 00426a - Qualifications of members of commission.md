@@ -8,7 +8,3 @@ In appointing the members of the commission created by section 426 of this title
 
 Transfer of administrative functions of park, see note set out under section 426 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 426c, 426e, 426j, 426k, 426n of this title.
-

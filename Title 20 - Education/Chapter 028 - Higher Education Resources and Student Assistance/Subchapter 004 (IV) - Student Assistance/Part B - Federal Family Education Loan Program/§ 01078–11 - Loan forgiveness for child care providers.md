@@ -92,7 +92,7 @@ In this section:
 
 #### (5) Ineligibility of national service award recipients
 
-&emsp;No student borrower may, for the same volunteer service, receive a benefit under both this section and subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12601 et seq.).
+&emsp;No student borrower may, for the same volunteer service, receive a benefit under boththis section and subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12601 et seq.).
 
 #### (e) Repayment to eligible lenders
 
@@ -112,7 +112,7 @@ The Secretary shall pay to each eligible lender or holder for each fiscal year a
 
 #### (1) In general
 
-&emsp;The Secretary shall conduct, by grant or contract, an independent national evaluationof the impact of the demonstration program assisted under this section on the field of early childhood education.
+&emsp;The Secretary shall conduct, by grant or contract, an independent national evaluation of the impact of the demonstration program assisted under this section on the field of early childhood education.
 
 #### (2) Competitive basis
 

@@ -60,13 +60,13 @@ This section does not apply to any plan—
 
 &emsp;(B) the term “professional individuals” includes but is not limited to, physicians, dentists, chiropractors, osteopaths, optometrists, other licensed practitioners of the healing arts, attorneys at law, public accountants, public engineers, architects, draftsmen, actuaries, psychologists, social or physical scientists, and performing artists.
 
-(3) In the case of a plan established and maintained by more than one professional service employer, the plan shall not be treated as a plandescribed in subsection (b)(13) of this section if, at any time after September 2, 1974, the plan has more than 25 active participants.
+(3) In the case of a plan established and maintained by more than one professional service employer, the plan shall not be treated as a plan described in subsection (b)(13) of this section if, at any time after September 2, 1974, the plan has more than 25 active participants.
 
 (Pub. L. 93–406, title IV, §4021, Sept. 2, 1974, 88 Stat. 1014; Pub. L. 96–364, title IV, §402(a)(4), Sept. 26, 1980, 94 Stat. 1298; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(g)(3)(A), Dec. 19, 1989, 103 Stat. 2445, 2451.)
 
 #### References in Text
 
-The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (b)(2), means act Aug. 29, 1935, ch. 812, 49 Stat. 867, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
+The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (b)(2), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
 Paragraph (6) of section 1322(b) of this title, referred to in subsec. (b)(9), was redesignated as par. (5) by Pub. L. 96–364, title IV, §403(c)(4), Sept. 26, 1980, 94 Stat. 1301.
 
@@ -89,10 +89,6 @@ Amendment by section 7894(g)(3)(A) of Pub. L. 101–239 effective, except as oth
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1023, 1054, 1081, 1082, 1103, 1114, 1322, 1322a, 1323, 1341, 1341a, 1343, 1344, 1365, 1461 of this title; title 26 sections 401, 412.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

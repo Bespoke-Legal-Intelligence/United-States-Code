@@ -90,7 +90,7 @@ Resources.—In carrying out its functions under this section, the Commission—
 
 “(d)
 
-Staffing.—The Chairman of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an Executive Directorand such other additional personnel as may be necessary for the Commission to perform its duties. The Executive Director shall be compensated at a rate not to exceed the rate payable for Level V of the Executive Schedule under section 5136 of title 5, United States Code. The employment and termination of an Executive Director shall be subject to confirmation by a majority of the members of the Commission.
+Staffing.—The Chairman of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an Executive Director and such other additional personnel as may be necessary for the Commission to perform its duties. The Executive Director shall be compensated at a rate not to exceed the rate payable for Level V of the Executive Schedule under section 5136 of title 5, United States Code. The employment and termination of an Executive Director shall be subject to confirmation by a majority of the members of the Commission.
 
 “(e)
 
@@ -239,4 +239,84 @@ The following appropriations acts contained provisions similar to those in secti
 Pub. L. 107–77, title V, Nov. 28, 2001, 115 Stat. 792, as amended by Pub. L. 107–117, div. B, §207, Jan. 10, 2002, 115 Stat. 2298.
 
 Pub. L. 106–553, §1(a)(2) \[title V\], Dec. 21, 2000, 114 Stat. 2762, 2762A–98.
+
+#### Ex. Ord. No. 13366. Committee on Ocean Policy
+
+Ex. Ord. No. 13366, Dec. 17, 2004, 69 F.R. 76591, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It shall be the policy of the United States to:
+
+(a) coordinate the activities of executive departments and agencies regarding ocean-related matters in an integrated and effective manner to advance the environmental, economic, and security interests of present and future generations of Americans; and
+
+(b) facilitate, as appropriate, coordination and consultation regarding ocean-related matters among Federal, State, tribal, local governments, the private sector, foreign governments, and international organizations.
+
+Sec. 2. <i>Definition</i>. For purposes of this order the term “ocean-related matters” means matters involving the oceans, the Great Lakes, the coasts of the United States (including its territories and possessions), and related seabed, subsoil, and natural resources.
+
+Sec. 3. <i>Establishment of Committee on Ocean Policy</i>.
+
+(a) There is hereby established, as a part of the Council on Environmental Quality and for administrative purposes only, the Committee on Ocean Policy (Committee).
+
+(b) The Committee shall consist exclusively of the following:
+
+(i) the Chairman of the Council on Environmental Quality, who shall be the Chairman of the Committee;
+
+(ii) the Secretaries of State, Defense, the Interior, Agriculture, Health and Human Services, Commerce, Labor, Transportation, Energy, and Homeland Security, the Attorney General, the Administrator of the Environmental Protection Agency, the Director of the Office of Management and Budget, the Administrator of the National Aeronautics and Space Administration, the Director of National Intelligence, the Director of the Office of Science and Technology Policy, the Director of the National Science Foundation, and the Chairman of the Joint Chiefs of Staff;
+
+(iii) the Assistants to the President for National Security Affairs, Homeland Security, Domestic Policy, and Economic Policy;
+
+(iv) an employee of the United States designated by the Vice President; and
+
+(v) such other officers or employees of the United States as the Chairman of the Committee may from time to time designate.
+
+(c) The Chairman of the Committee, after coordination with the Assistants to the President for National Security Affairs and Homeland Security, shall regularly convene and preside at meetings of the Committee, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct subcommittees of the Committee that shall consist exclusively of members of the Committee. The Committee shall coordinate its advice in a timely fashion.
+
+(d) A member of the Committee may designate, to perform the Committee or subcommittee functions of the member, any person who is within such member's department, agency, or office and who is (i) an officer of the United States appointed by the President, (ii) a member of the Senior Executive Service or the Senior Intelligence Service, (iii) an officer or employee within the Executive Office of the President, or (iv) an employee of the Vice President.
+
+(e) Consistent with applicable law and subject to the availability of appropriations, the Council on Environmental Quality shall provide the funding, including through the Office of Environmental Quality as permitted by law and as appropriate, and administrative support for the Committee necessary to implement this order.
+
+Sec. 4. <i>Functions of the Committee</i>. To implement the policy set forth in section 1 of this order, the Committee shall:
+
+(a) provide advice on establishment or implementation of policies concerning ocean-related matters to:
+
+(i) the President; and
+
+(ii) the heads of executive departments and agencies from time to time as appropriate;
+
+(b) obtain information and advice concerning ocean-related matters from:
+
+(i) State, local, and tribal elected and appointed officials in a manner that seeks their individual advice and does not involve collective judgment or consensus advice or deliberation; and
+
+(ii) representatives of private entities or other individuals in a manner that seeks their individual advice and does not involve collective judgment or consensus advice or deliberation;
+
+(c) at the request of the head of any department or agency who is a member of the Committee, unless the Chairman of the Committee declines the request, promptly review and provide advice on a policy or policy implementation action on ocean-related matters proposed by that department or agency;
+
+(d) provide and obtain information and advice to facilitate:
+
+(i) development and implementation of common principles and goals for the conduct of governmental activities on ocean-related matters;
+
+(ii) voluntary regional approaches with respect to ocean-related matters;
+
+(iii) use of science in establishment of policy on ocean-related matters; and
+
+(iv) collection, development, dissemination, and exchange of information on ocean-related matters; and
+
+(e) ensure coordinated government development and implementation of the ocean component of the Global Earth Observation System of Systems.
+
+Sec. 5. <i>Cooperation</i>. To the extent permitted by law and applicable presidential guidance, executive departments and agencies shall provide the Committee such information, support, and assistance as the Committee, through the Chairman, may request.
+
+Sec. 6. <i>Coordination</i>. The Chairman of the Council on Environmental Quality, the Assistant to the President for National Security Affairs, the Assistant to the President for Homeland Security, and, with respect to the interagency task force established by Executive Order 13340 of May 18, 2004 \[33 U.S.C. 1268 note\], the Administrator of the Environmental Protection Agency, shall ensure appropriate coordination of the activities of the Committee under this order and other policy coordination structures relating to ocean or maritime issues pursuant to Presidential guidance.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to a executive department or agency or the head thereof; or
+
+(ii) functions assigned by the President to the National Security Council or Homeland Security Council (including subordinate bodies) relating to matters affecting foreign affairs, national security, homeland security, or intelligence.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+
+(c) This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, or entities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -26,9 +26,5 @@ Funds collected under this section shall be deposited in the account for salarie
 
 (Pub. L. 85–699, title III, §362, as added Pub. L. 106–554, §1(a)(8) \[§1(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–662.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 689q of this title.
-
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

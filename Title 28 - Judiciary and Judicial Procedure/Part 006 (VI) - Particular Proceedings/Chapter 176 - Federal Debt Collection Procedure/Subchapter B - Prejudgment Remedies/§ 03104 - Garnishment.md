@@ -28,7 +28,3 @@ Limitation.—The value of property garnished shall not exceed the amount by whi
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4945.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3002, 3101 of this title.
-

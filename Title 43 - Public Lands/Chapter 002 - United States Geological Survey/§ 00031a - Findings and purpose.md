@@ -92,7 +92,3 @@ Pub. L. 105–36, §2, Aug. 5, 1997, 111 Stat. 1107, provided that: “Congress 
 
 &emsp;“(3) it is time for this important program to be fully implemented.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 31b, 31h of this title.
-

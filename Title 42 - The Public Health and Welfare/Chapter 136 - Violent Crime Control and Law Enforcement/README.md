@@ -757,15 +757,16 @@ I74subpart 1—education and training for judges and court personnel in state co
 | (b) | Information. |
 | (c) | Failure to comply. |
 | (d) | Expungement of records. |
+| (e) | Authority for keyboard searches. |
 | [14133\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014133%20-%20Federal%20Bureau%20of%20Investigation.md) | Federal Bureau of Investigation. |
 | (a) | Proficiency testing requirements. |
 | (b) | Privacy protection standards. |
 | (c) | Criminal penalty. |
 | [14134\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014134%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [14135\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014135%20-%20Authorization%20of%20grants.md) | Authorization of grants. |
+| [14135\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014135%20-%20The%20Debbie%20Smith%20DNA%20Backlog%20Grant%20Program.md) | The Debbie Smith DNA Backlog Grant Program. |
 | (a) | Authorization of grants. |
 | (b) | Eligibility. |
-| (c) | Crimes without suspects. |
+| (c) | Formula for distribution of grants. |
 | (d) | Analysis of samples. |
 | (e) | Restrictions on use of funds. |
 | (f) | Reports to the Attorney General. |
@@ -773,6 +774,9 @@ I74subpart 1—education and training for judges and court personnel in state co
 | (h) | Expenditure records. |
 | (i) | Definition. |
 | (j) | Authorization of appropriations. |
+| (k) | Use of funds for accreditation and audits. |
+| (<i>l</i>) | Use of funds for other forensic sciences. |
+| (m) | External audits and remedial efforts. |
 | [14135a.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014135a%20-%20Collection%20and%20use%20of%20DNA%20identification%20information%20from%20certain%20Federal%20offenders.md) | Collection and use of DNA identification information from certain Federal offenders. |
 | (a) | Collection of DNA samples. |
 | (b) | Analysis and use of samples. |
@@ -793,6 +797,30 @@ I74subpart 1—education and training for judges and court personnel in state co
 | (a) | In general. |
 | (b) | Permissive uses. |
 | (c) | Criminal penalty. |
+| [14136\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014136%20-%20DNA%20training%20and%20education%20for%20law%20enforcement%2C%20correctional%20personnel%2C%20and%20court%20officers.md) | DNA training and education for law enforcement, correctional personnel, and court officers. |
+| (a) | In general. |
+| (b) | Authorization of appropriations. |
+| [14136a.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014136a%20-%20Sexual%20assault%20forensic%20exam%20program%20grants.md) | Sexual assault forensic exam program grants. |
+| (a) | In general. |
+| (b) | Eligible entity. |
+| (c) | Authorization of appropriations. |
+| [14136b.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014136b%20-%20DNA%20research%20and%20development.md) | DNA research and development. |
+| (a) | Improving DNA technology. |
+| (b) | Demonstration projects. |
+| (c) | Authorization of appropriations. |
+| [14136c.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014136c%20-%20National%20Forensic%20Science%20Commission.md) | National Forensic Science Commission. |
+| (a) | Appointment. |
+| (b) | Responsibilities. |
+| (c) | Personnel; procedures. |
+| (d) | Authorization of appropriations. |
+| [14136d.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014136d%20-%20DNA%20identification%20of%20missing%20persons.md) | DNA identification of missing persons. |
+| (a) | In general. |
+| (b) | Requirement. |
+| (c) | Authorization of appropriations. |
+| [14136e.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014136e%20-%20Kirk%20Bloodsworth%20Post-Conviction%20DNA%20Testing%20Grant%20Program.md) | Kirk Bloodsworth Post-Conviction DNA Testing Grant Program. |
+| (a) | In general. |
+| (b) | Authorization of appropriations. |
+| (c) | State defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -831,6 +859,40 @@ I74subpart 1—education and training for judges and court personnel in state co
 | (b) | Applications. |
 | (c) | Records. |
 | (d) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part E—Improving the Quality of Representation in State Capital Cases
+
+|  |  |
+| :--- | ---: |
+| [14163\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20E%20-%20Improving%20the%20Quality%20of%20Representation%20in%20State%20Capital%20Cases/%C2%A7%2014163%20-%20Capital%20representation%20improvement%20grants.md) | Capital representation improvement grants. |
+| (a) | In general. |
+| (b) | Defined term. |
+| (c) | Use of funds. |
+| (d) | Apportionment of funds. |
+| (e) | Effective system. |
+| [14163a.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20E%20-%20Improving%20the%20Quality%20of%20Representation%20in%20State%20Capital%20Cases/%C2%A7%2014163a%20-%20Capital%20prosecution%20improvement%20grants.md) | Capital prosecution improvement grants. |
+| (a) | In general. |
+| (b) | Use of funds. |
+| [14163b.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20E%20-%20Improving%20the%20Quality%20of%20Representation%20in%20State%20Capital%20Cases/%C2%A7%2014163b%20-%20Applications.md) | Applications. |
+| (a) | In general. |
+| (b) | Application. |
+| [14163c.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20E%20-%20Improving%20the%20Quality%20of%20Representation%20in%20State%20Capital%20Cases/%C2%A7%2014163c%20-%20State%20reports.md) | State reports. |
+| (a) | In general. |
+| (b) | Capital representation improvement grants. |
+| (c) | Capital prosecution improvement grants. |
+| (d) | Public disclosure of annual State reports. |
+| [14163d.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20E%20-%20Improving%20the%20Quality%20of%20Representation%20in%20State%20Capital%20Cases/%C2%A7%2014163d%20-%20Evaluations%20by%20Inspector%20General%20and%20administrative%20remedies.md) | Evaluations by Inspector General and administrative remedies. |
+| (a) | Evaluation by Inspector General. |
+| (b) | Administrative review. |
+| (c) | Penalties for noncompliance. |
+| (d) | Periodic reports. |
+| (e) | Administrative costs. |
+| (f) | Special rule for “statutory procedure” States not in substantial compliance with statutory procedures. |
+| [14163e.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20E%20-%20Improving%20the%20Quality%20of%20Representation%20in%20State%20Capital%20Cases/%C2%A7%2014163e%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | Authorization for grants. |
+| (b) | Restriction on use of funds to ensure equal allocation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

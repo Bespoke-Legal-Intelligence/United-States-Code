@@ -4,7 +4,3 @@ In order to commemorate the Battle of Kings Mountain, which was fought on the 7t
 
 (Mar. 3, 1931, ch. 437, §1, 46 Stat. 1508.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 430a of this title.
-

@@ -56,7 +56,3 @@ The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (d), i
 
 Amendment by Pub. L. 104–208 effective as if included in the enactment of subtitle A of title IV of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132, see section 358 of Pub. L. 104–208, set out as a note under section 1182 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1531 of this title.
-

@@ -16,7 +16,3 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 “Commission” substituted for “Secretary” pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1263 of this title.
-

@@ -94,7 +94,7 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 &emsp;(B) without regard to whether or not such goods or economic sector were involved in the act, policy, or practice that is the subject of such action.
 
-(4) Any trade agreement described in paragraph (1)(D)(iii) shall provide compensatorytrade benefits that benefit the economic sector which includes the domestic industry that would benefit from the elimination of the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b) of this section, or benefit the economic sector as closely related as possible to such economic sector, unless—
+(4) Any trade agreement described in paragraph (1)(D)(iii) shall provide compensatory trade benefits that benefit the economic sector which includes the domestic industry that would benefit from the elimination of the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b) of this section, or benefit the economic sector as closely related as possible to such economic sector, unless—
 
 &emsp;(A) the provision of such trade benefits is not feasible, or
 
@@ -128,7 +128,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(I) opportunities for the establishment of an enterprise,
 
-&emsp;&emsp;&emsp;(II) provision of adequate and effective protection of intellectual property rights notwithstanding the fact that the foreign country may be in compliance with the specific obligations of the Agreement on Trade-Related Aspects of Intellectual Property Rights referred to in section 3511(d)(15) of this title,
+&emsp;&emsp;&emsp;(II) provision of adequate and effective protection of intellectual property rightsnotwithstanding the fact that the foreign country may be in compliance with the specific obligations of the Agreement on Trade-Related Aspects of Intellectual Property Rights referred to in section 3511(d)(15) of this title,
 
 &emsp;&emsp;&emsp;(III) nondiscriminatory market access opportunities for United States persons that rely upon intellectual property protection, or
 
@@ -246,7 +246,7 @@ Section 1. <i>Policy</i>. (a) In administering sections 301–310 of the Trade A
 
 (1) promotes access to HIV/AIDS pharmaceuticals or medical technologies for affected populations in that country; and
 
-(2) provides adequate and effective intellectual property protection consistent with the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS Agreement) referred to in section 101(d)(15) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(15)).
+(2) provides adequate and effective intellectual property protection consistent with the Agreement onTrade-Related Aspects of Intellectual Property Rights (TRIPS Agreement) referred to in section 101(d)(15) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(15)).
 
 (b) The United States shall encourage all beneficiary sub-Saharan African countries to implement policies designed to address the underlying causes of the HIV/AIDS crisis by, among other things, making efforts to encourage practices that will prevent further transmission and infection and to stimulate development of the infrastructure necessary to deliver adequate health services, and by encouraging policies that provide an incentive for public and private research on, and development of, vaccines and other medical innovations that will combat the HIV/AIDS epidemic in Africa.
 
@@ -287,8 +287,4 @@ Sec. 3. <i>Scope</i>. (a) This order prohibits the United States Government from
 (b) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not create, any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2112, 2241, 2412, 2414, 2415, 2416, 2417, 2419, 2554, 2581, 3105, 3106, 3312, 3437, 3512, 3571 of this title; title 7 sections 5602, 5623.
 

@@ -24,7 +24,3 @@ Federal Register of a notice which shall specify the jurisdiction retroceded and
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 715d, 1300b–15, 1300i–1, 1772d of this title.
-

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) in community day programs for neglected or delinquent children and youth; and
 
-&emsp;&emsp;(B) 40 percent of the average per-pupil expenditure in the State, except that the amount determined under this subparagraph shall not be less than 32 percent, nor more than 48 percent, of the average per-pupil expenditure in the United States.
+&emsp;&emsp;(B) 40 percent of the average per-pupil expenditure in the State, except that theamount determined under this subparagraph shall not be less than 32 percent, nor more than 48 percent, of the average per-pupil expenditure in the United States.
 
 #### (2) Special rule
 
@@ -65,8 +65,4 @@ If the amount appropriated for any fiscal year for subgrants under subsections (
 #### Prior Provisions
 
 A prior section 6432, Pub. L. 89–10, title I, §1412, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3592, related to allocation of funds, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6422 of this title.
 

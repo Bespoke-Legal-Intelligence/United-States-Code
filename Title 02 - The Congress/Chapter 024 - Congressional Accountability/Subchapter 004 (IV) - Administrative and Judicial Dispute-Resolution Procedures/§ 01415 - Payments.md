@@ -2,7 +2,7 @@
 
 #### (a) Awards and settlements
 
-Except as provided in subsection (c) of this section, only funds which are appropriated to an account of the Office in the Treasury of the United States for the payment of awards and settlements may be used for the payment of awards and settlements under this chapter. There are authorized to be appropriated for such account such sums as may be necessary to pay such awards and settlements. Funds in the account are not available for awards and settlements involving the General Accounting Office, the Government Printing Office, or the Library of Congress.
+Except as provided in subsection (c) of this section, only funds which are appropriated to an account of the Office in the Treasury of the United States for the payment of awards and settlements may be used for the payment of awards and settlements under this chapter. There are authorized to be appropriated for such account such sums as may be necessary to pay such awards and settlements. Funds in the account are not available for awards and settlements involving the Government Accountability Office, the Government Printing Office, or the Library of Congress.
 
 #### (b) Compliance
 
@@ -12,5 +12,9 @@ Except as provided in subsection (c) of this section, there are authorized to be
 
 Funds to correct violations of section 1311(a)(3), 1331, or 1341 of this title may be paid only from funds appropriated to the employing office or entity responsible for correcting such violations. There are authorized to be appropriated such sums as may be necessary for such funds.
 
-(Pub. L. 104–1, title IV, §415, Jan. 23, 1995, 109 Stat. 38.)
+(Pub. L. 104–1, title IV, §415, Jan. 23, 1995, 109 Stat. 38; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

@@ -14,7 +14,3 @@ The furnishing of a false guaranty, except where the person furnishing such fals
 
 The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 70f, 70i of this title.
-

@@ -14,7 +14,3 @@ In addition, when a violation is found of any contract stipulation, the contract
 
 (Pub. L. 89–286, §3, Oct. 22, 1965, 79 Stat. 1035.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 351 of this title.
-

@@ -6,7 +6,7 @@
 
 &emsp;(A) such State regulation requires testing or the use of any measure of energy consumption, water use, or energy descriptor in any manner other than that provided under section 6293 of this title; or
 
-&emsp;(B) such State regulation requires disclosure of information with respect to the energy use, energy efficiency, or water use of any covered product other than information required under section 6294 of this title.
+&emsp;(B) such State regulation requires disclosure of information with respect to the energy use,energy efficiency, or water use of any covered product other than information required under section 6294 of this title.
 
 (2) For purposes of this section, the following definitions apply:
 
@@ -56,7 +56,7 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 (1)(A) Any State or river basin commission with a State regulation which provides for any energy conservation standard or other requirement with respect to energy use, energy efficiency, or water use for any type (or class) of covered product for which there is a Federal energy conservation standard under section 6295 of this title may file a petition with the Secretary requesting a rule that such State regulation become effective with respect to such covered product.
 
-(B) Subject to paragraphs (2) through (5), the Secretary shall, within the period described in paragraph (2) and after consideration of the petition and the comments of interested persons, prescribe such rule if the Secretary finds (and publishes such finding) that the State or river basin commission has established by a preponderance of the evidence that such State regulation is needed to meet unusual and compelling State or local energy or water interests.
+(B) Subject to paragraphs (2) through (5), the Secretary shall, within the period described inparagraph (2) and after consideration of the petition and the comments of interested persons, prescribe such rule if the Secretary finds (and publishes such finding) that the State or river basin commission has established by a preponderance of the evidence that such State regulation is needed to meet unusual and compelling State or local energy or water interests.
 
 (C) For purposes of this subsection, the term “unusual and compelling State or local energy or water interests” means interests which—
 
@@ -76,7 +76,7 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 &emsp;(C) the extent to which the State regulation would cause a burden to manufacturers to redesign and produce the covered product type (or class), taking into consideration the extent to which the regulation would result in a reduction—
 
-&emsp;&emsp;(i) in the current models, or in the projected availability of models, that could beshipped on the effective date of the regulation to the State and within the United States; or
+&emsp;&emsp;(i) in the current models, or in the projected availability of models, that could be shipped on the effective date of the regulation to the State and within the United States; or
 
 &emsp;&emsp;(ii) in the current or projected sales volume of the covered product type (or class) in the State and the United States; and
 
@@ -92,7 +92,7 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 &emsp;&emsp;(i) there exists within the State an energy emergency condition or, if the State regulation provides for an energy conservation standard or other requirement with respect to the water use of a covered product for which there is a Federal energy conservation standard under subsection (j) or (k) of section 6295 of this title, a water emergency condition, which—
 
-&emsp;&emsp;&emsp;(I) imperils the health, safety, and welfare of its residents because of the inability of the State or utilities within the State to provide adequate quantities of gas or electric energy or, in the case of a water emergency condition, water or wastewater treatment, to its residents at less than prohibitive costs; and
+&emsp;&emsp;&emsp;(I) imperils the health, safety, and welfare of its residents because of the inability of the State or utilities within the State to provide adequate quantities of gasor electric energy or, in the case of a water emergency condition, water or wastewater treatment, to its residents at less than prohibitive costs; and
 
 &emsp;&emsp;&emsp;(II) cannot be substantially alleviated by the importation of energy or, in the case of a water emergency condition, by the importation of water, or by the use of interconnection agreements; and
 
@@ -130,7 +130,7 @@ Any State regulation which sets forth procurement standards for a State (or poli
 
 &emsp;(F) The energy consumption or conservation objective is specified in terms of an estimated total consumption of energy (which may be calculated from energy loss- or gain-based codes) utilizing an equivalent amount of energy (which may be specified in units of energy or its equivalent cost).
 
-&emsp;(G) The estimated energy use of any covered product permitted or required in the code, or used in calculating the objective, is determined using the applicable test procedures prescribed under section 6293 of this title, except that the State may permit the estimated energy use calculation to be adjusted to reflect the conditions of the areas where the code is being applied if such adjustment is based on the use of the applicable test procedures prescribed under section 6293 of this title or other technically accurate documented procedure.
+&emsp;(G) The estimated energy use of any covered product permitted or required in the code, or used in calculating the objective, is determined using the applicable test procedures prescribed under section 6293 of this title, except that the State may permit the estimatedenergy use calculation to be adjusted to reflect the conditions of the areas where the code is being applied if such adjustment is based on the use of the applicable test procedures prescribed under section 6293 of this title or other technically accurate documented procedure.
 
 (4)(A) Subject to subparagraph (B), a State or local government is not required to submit a petition to the Secretary in order to enforce or apply its building code or to establish that the code meets the conditions set forth in this subsection.
 
@@ -184,9 +184,5 @@ Subsec. (c)(1). Pub. L. 100–357, §2(f)(3), inserted before semicolon “, ex
 
 1978—Subsec. (a)(2). Pub. L. 95–619, §424(b), substituted “other requirement” for “similar requirement”.
 
-Subsec. (b). Pub. L. 95–619, §424(a), in par. (1) substituted provisions vesting power to prescribe rules superseding State energy efficiency regulations in the Secretary for provisions vesting such power in the Administrator of the Federal Energy Administration and provided that persons subject to such State regulations were to petition the Secretary for relief therefrom rather than the Administrator, in par. (2) inserted provisions authorizing the supersedure of any State regulation prescribed after Jan. 1, 1978 respecting energy use of any type of covered product and authorizing the filing of a petition by the State for exemption from any such supersedure, and struck out provision that a State regulation containing a more stringent energy efficiency standard than the corresponding Federal standard would not be superseded, and added pars. (3) to (5).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6293, 6295, 6306, 6316 of this title.
+Subsec. (b). Pub. L. 95–619, §424(a), in par. (1) substituted provisions vesting power to prescribe rules superseding State energy efficiency regulations in the Secretary for provisions vesting such power in the Administrator of the Federal Energy Administration and provided that persons subject to such State regulations were to petition the Secretary for relief therefromrather than the Administrator, in par. (2) inserted provisions authorizing the supersedure of any State regulation prescribed after Jan. 1, 1978 respecting energy use of any type of covered product and authorizing the filing of a petition by the State for exemption from any such supersedure, and struck out provision that a State regulation containing a more stringent energy efficiency standard than the corresponding Federal standard would not be superseded, and added pars. (3) to (5).
 

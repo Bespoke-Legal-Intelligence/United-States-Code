@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized, in his discretion and upon such ter
 
 (Pub. L. 86–572, §1, July 5, 1960, 74 Stat. 311.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 760–12 of this title.
-

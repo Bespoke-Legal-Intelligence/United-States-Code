@@ -22,7 +22,3 @@ Except as provided in sections 2006 and 2007 of this title, it shall be unlawful
 
 (Pub. L. 100–347, §3, June 27, 1988, 102 Stat. 646.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 1314; title 3 section 414.
-

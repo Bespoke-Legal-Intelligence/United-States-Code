@@ -14,7 +14,3 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
 1986—Pub. L. 99–576 substituted “the” for “his” before “intention” in two places.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8305 of this title.
-

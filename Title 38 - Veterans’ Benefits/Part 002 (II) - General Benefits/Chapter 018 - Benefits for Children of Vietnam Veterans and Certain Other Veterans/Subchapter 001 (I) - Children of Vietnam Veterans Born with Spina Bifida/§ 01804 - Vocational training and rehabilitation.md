@@ -48,7 +48,3 @@ Subsec. (d)(3). Pub. L. 105–114, §404(c)(3), added par. (3).
 
 Section 404(d) of Pub. L. 105–114 provided that: “The amendments made by this section \[amending this section and sections 1801 and 1806 of this title\] shall take effect as of October 1, 1997.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1803, 1813, 1814 of this title.
-

@@ -10,7 +10,3 @@ Sections 423 to 423g and 610 of this title, referred to in text, was in the orig
 
 Hereinafter, referred to in text, means in sections 424a to 424d of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 424a, 424b, 424d, 424e of this title.
-

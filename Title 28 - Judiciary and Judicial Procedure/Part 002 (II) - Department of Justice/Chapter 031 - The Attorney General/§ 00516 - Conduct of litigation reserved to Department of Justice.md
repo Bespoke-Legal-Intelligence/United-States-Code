@@ -26,7 +26,3 @@ The section concentrates the authority for the conduct of litigation in the Depa
 
 So much as prohibits the employment of counsel, other than in the Department of Justice, to conduct litigation is omitted as covered by R.S. §365, which is codified in section 3106 of title 5, United States Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 7516; title 12 section 4243; title 19 section 2350; title 31 section 3718; title 38 sections 3730, 5316; title 42 section 1785.
-

@@ -28,7 +28,3 @@ The Secretary may accept and use donations to carry out this chapter. Amounts re
 
 (Pub. L. 106–247, §9, July 20, 2000, 114 Stat. 596.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6103 of this title.
-

@@ -14,7 +14,7 @@ Disclosure.—(1) Notwithstanding section 552 of title 5 and the establishment o
 
 &emsp;(C) be detrimental to transportation safety.
 
-(2) Paragraph (1) of this subsection does not authorize information to be withheld from acommittee of Congress authorized to have the information.
+(2) Paragraph (1) of this subsection does not authorize information to be withheld from a committee of Congress authorized to have the information.
 
 (c)
 
@@ -79,8 +79,4 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 115, 40109, 44501, 44508, 44921 of this title.
 

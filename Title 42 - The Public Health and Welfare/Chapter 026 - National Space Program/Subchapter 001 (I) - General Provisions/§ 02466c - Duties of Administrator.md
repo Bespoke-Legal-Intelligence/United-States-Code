@@ -46,9 +46,5 @@ Section 112 of Pub. L. 99–170 provided that: “The Administrator shall examin
 
 #### Study on Proposed Pricing Policy for Certain Services
 
-Section 113 of Pub. L. 99–170 provided that: “The Administrator shall conduct a study and report to theCongress on a proposed pricing policy for certain services such as on-orbit service, repair or recovery of spacecraft.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2466a, 2466b of this title.
+Section 113 of Pub. L. 99–170 provided that: “The Administrator shall conduct a study and report to the Congress on a proposed pricing policy for certain services such as on-orbit service, repair or recovery of spacecraft.”
 

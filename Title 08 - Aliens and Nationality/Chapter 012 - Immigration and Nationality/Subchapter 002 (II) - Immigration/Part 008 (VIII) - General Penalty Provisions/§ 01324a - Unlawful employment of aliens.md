@@ -74,7 +74,7 @@ The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) of t
 
 &emsp;&emsp;&emsp;(ii) a document described in subparagraph (C) and a document described in subparagraph (D).
 
-> &emsp;&emsp;A person or entity has complied with the requirement of this paragraph with respect to examination of a document if the document reasonably appears on its face to be genuine. If an individual provides a document or combination of documents that reasonably appears on its face to be genuine and that is sufficient to meet the requirements of the first sentence of this paragraph, nothing in this paragraph shall be construed as requiring the person or entity to solicit the production of any other document or as requiring the individual to produce such another document.
+> &emsp;&emsp;Such attestation may be manifested by either a hand-written or an electronic signature. A person or entity has complied with the requirement of this paragraph with respect to examination of a document if the document reasonably appears on its face to be genuine. If an individual provides a document or combination of documents that reasonably appears on its face to be genuine and that is sufficient to meet the requirements of the first sentence of this paragraph, nothing in this paragraph shall be construed as requiring the person or entity to solicit the production of any other document or as requiring the individual to produce such another document.
 
 #### (B) Documents establishing both employment authorization and identity
 
@@ -112,11 +112,11 @@ The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) of t
 
 #### (2) Individual attestation of employment authorization
 
-&emsp;The individual must attest, under penalty of perjury on the form designated or established for purposes of paragraph (1), that the individual is a citizen or national of the United States, an alien lawfully admitted for permanent residence, or an alien who is authorized under this chapter or by the Attorney General to be hired, recruited, or referred for such employment.
+&emsp;The individual must attest, under penalty of perjury on the form designated or established for purposes of paragraph (1), that the individual is a citizen or national of the United States, an alien lawfully admitted for permanent residence, or an alien who is authorized under this chapter or by the Attorney General to be hired, recruited, or referred for such employment. Such attestation may be manifested by either a hand-written or an electronic signature.
 
 #### (3) Retention of verification form
 
-&emsp;After completion of such form in accordance with paragraphs (1) and (2), the person or entity must retain the form and make it available for inspection by officers of the Service, the Special Counsel for Immigration-Related Unfair Employment Practices, or the Department of Labor during a period beginning on the date of the hiring, recruiting, or referral of the individual and ending—
+&emsp;After completion of such form in accordance with paragraphs (1) and (2), the person or entity must retain a paper, microfiche, microfilm, or electronic version of the form and make it available for inspection by officers of the Service, the Special Counsel for Immigration-Related Unfair Employment Practices, or the Department of Labor during a period beginning on the date of the hiring, recruiting, or referral of the individual and ending—
 
 &emsp;&emsp;(A) in the case of the recruiting or referral for a fee (without hiring) of an individual, three years after the date of the recruiting or referral, and
 
@@ -166,7 +166,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (A) Monitoring
 
-&emsp;&emsp;The President shall provide for the monitoring and evaluation of the degree to which the employment verification system established under subsection (b) of this section provides a secure system to determineemployment eligibility in the United States and shall examine the suitability of existing Federal and State identification systems for use for this purpose.
+&emsp;&emsp;The President shall provide for the monitoring and evaluation of the degree to which the employment verification system established under subsection (b) of this section provides a secure system to determine employment eligibility in the United States and shall examine the suitability of existing Federal and State identification systems for use for this purpose.
 
 #### (B) Improvements to establish secure system
 
@@ -242,7 +242,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;&emsp;(i) require an individual to present a new card or other document (designed specifically for use for this purpose) at the time of hiring, recruitment, or referral,
 
-&emsp;&emsp;&emsp;(ii) provide for a telephone verification system under which an employer, recruiter, or referrer must transmit to a Federal official information concerning the immigration status of prospective employees and the official transmits to the person, and the person must record, a verification code, or
+&emsp;&emsp;&emsp;(ii) provide for a telephone verification system under which an employer, recruiter, or referrer must transmit to aFederal official information concerning the immigration status of prospective employees and the official transmits to the person, and the person must record, a verification code, or
 
 &emsp;&emsp;&emsp;(iii) require any change in any card used for accounting purposes under the Social Security Act \[42 U.S.C. 301 et seq.\], including any change requiring that the only social security account number cards which may be presented in order to comply with subsection (b)(1)(C)(i) of this section are such cards as are in a counterfeit-resistant form consistent with the second sentence of section 205(c)(2)(D) of the Social Security Act \[42 U.S.C. 405(c)(2)(D)\].
 
@@ -308,9 +308,9 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;&emsp;(i) not less than $250 and not more than $2,000 for each unauthorized alien with respect to whom a violation of either such subsection occurred,
 
-&emsp;&emsp;&emsp;(ii) not less than $2,000 and not more than $5,000 for each such alien in the caseof a person or entity previously subject to one order under this paragraph, or
+&emsp;&emsp;&emsp;(ii) not less than $2,000 and not more than $5,000 for each such alien in the case of a person or entity previously subject to one order under this paragraph, or
 
-&emsp;&emsp;&emsp;(iii) not less than $3,000 and not more than $10,000 for each such alien in the case of a person or entity previously subject to more than one order under this paragraph; and
+&emsp;&emsp;&emsp;(iii) not less than $3,000 and not more than $10,000 for each such alien in the case of a person or entity previously subject tomore than one order under this paragraph; and
 
 &emsp;&emsp;(B) may require the person or entity—
 
@@ -364,7 +364,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (1) Documentation
 
-&emsp;In providing documentation or endorsement of authorization of aliens (other than alienslawfully admitted for permanent residence) authorized to be employed in the United States, the Attorney General shall provide that any limitations with respect to the period or type of employment or employer shall be conspicuously stated on the documentation or endorsement.
+&emsp;In providing documentation or endorsement of authorization of aliens (other than aliens lawfully admitted for permanent residence) authorized to be employed in the United States, the Attorney General shall providethat any limitations with respect to the period or type of employment or employer shall be conspicuously stated on the documentation or endorsement.
 
 #### (2) Preemption
 
@@ -374,13 +374,19 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;As used in this section, the term “unauthorized alien” means, with respect to the employment of an alien at a particular time, that the alien is not at that time either (A) an alien lawfully admitted for permanent residence, or (B) authorized to be so employed by this chapter or by the Attorney General.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §274A, as added Pub. L. 99–603, title I, §101(a)(1), Nov. 6, 1986, 100 Stat. 3360; amended Pub. L. 100–525, §2(a)(1), Oct. 24, 1988, 102 Stat. 2609; Pub. L. 101–649, title V, §§521(a), 538(a), Nov. 29, 1990, 104 Stat. 5053, 5056; Pub. L. 102–232, title III, §§306(b)(2), 309(b)(11), Dec. 12, 1991, 105 Stat. 1752, 1759; Pub. L. 103–416, title II, §§213, 219(z)(4), Oct. 25, 1994, 108 Stat. 4314, 4318; Pub. L. 104–208, div. C, title III, §379(a), title IV, §§411(a), 412(a)–(d), 416, Sept. 30, 1996, 110 Stat. 3009–649, 3009–666 to 3009–669.)
+(June 27, 1952, ch. 477, title II, ch. 8, §274A, as added Pub. L. 99–603, title I, §101(a)(1), Nov. 6, 1986, 100 Stat. 3360; amended Pub. L. 100–525, §2(a)(1), Oct. 24, 1988, 102 Stat. 2609; Pub. L. 101–649, title V, §§521(a), 538(a), Nov. 29, 1990, 104 Stat. 5053, 5056; Pub. L. 102–232, title III, §§306(b)(2), 309(b)(11), Dec. 12, 1991, 105 Stat. 1752, 1759; Pub. L. 103–416, title II, §§213, 219(z)(4), Oct. 25, 1994, 108 Stat. 4314, 4318; Pub. L. 104–208, div. C, title III, §379(a), title IV, §§411(a), 412(a)–(d), 416, Sept. 30, 1996, 110 Stat. 3009–649, 3009–666 to 3009–669; Pub. L. 108–390, §1(a), Oct. 30, 2004, 118 Stat. 2242.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (d)(3)(D)(iii), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2004—Subsec. (b)(1)(A). Pub. L. 108–390, §1(a)(1), inserted “Such attestation may be manifested by either a hand-written or an electronic signature.” before “A person or entity has complied” in concluding provisions.
+
+Subsec. (b)(2). Pub. L. 108–390, §1(a)(2), inserted at end “Such attestation may be manifested by either a hand-written or an electronic signature.”
+
+Subsec. (b)(3). Pub. L. 108–390, §1(a)(3), inserted “a paper, microfiche, microfilm, or electronic version of” after “must retain” in introductory provisions.
 
 1996—Subsec. (a)(6). Pub. L. 104–208, §412(b), added par. (6).
 
@@ -441,6 +447,14 @@ Subsec. (i)(3)(B)(iii). Pub. L. 100–525, §2(a)(1)(F), substituted “an order
 Subsec. (j)(1). Pub. L. 100–525, §2(a)(1)(G), made technical amendment to provision of original act which was translated as “November 6, 1986,” and struck out “of the United States” after “Comptroller General”.
 
 Subsec. (j)(2). Pub. L. 100–525, §2(a)(1)(H), substituted “this section” for “that section”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–390, §1(b), Oct. 30, 2004, 118 Stat. 2242, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the earlier of—
+
+&emsp;“(1) the date on which final regulations implementing such amendments take effect; or
+
+&emsp;“(2) 180 days after the date of the enactment of this Act \[Oct. 30, 2004\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -990,7 +1004,7 @@ Section 101(d) of Pub. L. 99–603 provided that:
 
 #### Feasibility Study of Social Security Number Validation System
 
-Section 101(e) of Pub. L. 99–603 provided that: “The Secretary of Health and Human Services, acting through the Social Security Administration and in cooperation with the Attorney General and the Secretary of Labor, shall conduct a study of the feasibility and costs of establishing a social security number validation system to assist in carrying out the purposes of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\], and of the privacy concerns that would be raised by the establishment of such a system. The Secretary shall submit to the Committees on Ways and Means and Judiciary of the House of Representatives and to the Committees on Finance and Judiciary of the Senate, within 2 years after the date of the enactment of this Act \[Nov. 6, 1986\], a full and complete report on the results of the study together with such recommendations as may be appropriate.”
+Section 101(e) of Pub. L. 99–603 provided that: “The Secretary of Health and Human Services, acting through the Social Security Administration and in cooperation with the Attorney General and the Secretary of Labor, shall conduct a study of the feasibility andcosts of establishing a social security number validation system to assist in carrying out the purposes of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\], and of the privacy concerns that would be raised by the establishment of such a system. The Secretary shall submit to the Committees on Ways and Means and Judiciary of the House of Representatives and to the Committees on Finance and Judiciary of the Senate, within 2 years after the date of the enactment of this Act \[Nov. 6, 1986\], a full and complete report on the results of the study together with such recommendations as may be appropriate.”
 
 #### Reports on Unauthorized Alien Employment
 
@@ -1038,7 +1052,7 @@ Sec. 4. (a) Whenever the Secretary of Homeland Security or the Attorney General 
 
 (d) The period of the debarment shall be for 1 year and may be extended for additional periods of 1 year if, using the procedures established pursuant to 8 U.S.C. 1324a(e), the Secretary of Homeland Security or the Attorney General determines that the organizational unit of the Federal contractor continues to be in violation of the INA employment provisions.
 
-(e) The Administrator of General Services shall list a debarred contractor or an organizational unit thereof on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs and the contractor or an organizational unit thereof shall be ineligible to participate in any procurement or nonprocurement activities.
+(e) The Administrator of General Services shall list a debarred contractor or an organizational unit thereofon the List of Parties Excluded from Federal Procurement and Nonprocurement Programs and the contractor or an organizational unit thereof shall be ineligible to participate in any procurement or nonprocurement activities.
 
 Sec. 5. (a) The Secretary of Homeland Security and Attorney General shall be responsible for the administration and enforcement of this order, except for the debarment procedures. The Secretary of Homeland Security and Attorney General may adopt such additional rules and regulations and issue such orders as may be deemed necessary and appropriate to carry out their respective responsibilities under this order. If the Secretary of Homeland Security or the Attorney General proposes to issue rules, regulations, or orders that affect the contracting departments and agencies, the Secretary of Homeland Security or the Attorney General shall consult with the Secretary of Defense, the Secretary of Labor, the Administrator of General Services, the Administrator of the National Aeronautics and Space Administration, the Administrator for Federal Procurement Policy, and such other agencies as may be appropriate.
 
@@ -1051,10 +1065,6 @@ Sec. 7. The Secretary of Homeland Security, the Attorney General, the Secretary 
 Sec. 8. This order shall be implemented in a manner intended to least burden the procurement process. This order neither authorizes nor requires any additional certification provision, clause, or requirement to be included in any contract or contract solicitation.
 
 Sec. 9. This order is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees. This order is not intended, however, to preclude judicial review of final agency decisions in accordance with the Administrative Procedure Act, 5 U.S.C. 701 <i>et seq.</i>
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1182, 1186, 1188, 1227, 1255, 1324, 1324b, 1324c, 1643 of this title; title 18 sections 982, 1546; title 20 section 1091; title 29 sections 1813, 1851; title 42 section 1436a; title 46 section 8704.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Grants for research
 
-The Administrator of the Centers for Medicare \& Medicaid Services shall conduct, or makegrants for the conduct of, research relevant to appropriate services for individuals with Alzheimer's disease and related dementias and their families.
+The Administrator of the Centers for Medicare \& Medicaid Services shall conduct, or make grants for the conduct of, research relevant to appropriate services for individuals with Alzheimer's disease and related dementias and their families.
 
 #### (b) Preparation of plan; contents; revision
 

@@ -62,15 +62,15 @@ Each regional advisory committee shall—
 
 &emsp;(2) in conducting the assessment under paragraph (1), seek input from chief executive officers of States, chief State school officers, educators, and parents (including through a process of open hearings to solicit the views and needs of schools (including public charter schools), teachers, administrators, members of the regional educational laboratory governing board, parents, local educational agencies, librarians, businesses, State educational agencies, and other customers (such as adult education programs) within the region) regarding the need for the activities described in section 9564 of this title and section 9602 of this title and how those needs would be most effectively addressed; and
 
-&emsp;(3) submit the assessment to the Secretary and to the Director of the Academy of Education Sciences, at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;(3) submit the assessment to the Secretary and to the Director of the Institute of Education Sciences, at such time, in such manner, and containing such information as the Secretary may require.
 
-(Pub. L. 107–279, title II, §206, Nov. 5, 2002, 116 Stat. 1979.)
+(Pub. L. 107–279, title II, §206, Nov. 5, 2002, 116 Stat. 1979; Pub. L. 108–446, title II, §203, Dec. 3, 2004, 118 Stat. 2803.)
+
+#### Amendments
+
+2004—Subsec. (d)(3). Pub. L. 108–446 substituted “Institute” for “Academy”.
 
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9602, 9606 of this title.
 

@@ -1,0 +1,54 @@
+### §2332h. Radiological dispersal devices
+
+(a)
+
+Unlawful Conduct.—
+
+&emsp;(1)
+
+In general.—Except as provided in paragraph (2), it shall be unlawful for any person to knowingly produce, construct, otherwise acquire, transfer directly or indirectly, receive, possess, import, export, or use, or possess and threaten to use—
+
+&emsp;&emsp;(A) any weapon that is designed or intended to release radiation or radioactivity at a level dangerous to human life; or
+
+&emsp;&emsp;(B) any device or other object that is capable of and designed or intended to endanger human life through the release of radiation or radioactivity.
+
+&emsp;(2)
+
+Exception.—This subsection does not apply with respect to—
+
+&emsp;&emsp;(A) conduct by or under the authority of the United States or any department or agency thereof; or
+
+&emsp;&emsp;(B) conduct pursuant to the terms of a contract with the United States or any department or agency thereof.
+
+(b)
+
+Jurisdiction.—Conduct prohibited by subsection (a) is within the jurisdiction of the United States if—
+
+&emsp;(1) the offense occurs in or affects interstate or foreign commerce;
+
+&emsp;(2) the offense occurs outside of the United States and is committed by a national of the United States;
+
+&emsp;(3) the offense is committed against a national of the United States while the national is outside the United States;
+
+&emsp;(4) the offense is committed against any property that is owned, leased, or used by the United States or by any department or agency of the United States, whether the property is within or outside the United States; or
+
+&emsp;(5) an offender aids or abets any person over whom jurisdiction exists under this subsection in committing an offense under this section or conspires with any person over whom jurisdiction exists under this subsection to commit an offense under this section.
+
+(c)
+
+Criminal Penalties.—
+
+&emsp;(1)
+
+In general.—Any person who violates, or attempts or conspires to violate, subsection (a) shall be fined not more than $2,000,000 and shall be sentenced to a term of imprisonment not less than 25 years or to imprisonment for life.
+
+&emsp;(2)
+
+Other circumstances.—Any person who, in the course of a violation of subsection (a), uses, attempts or conspires to use, or possesses and threatens to use, any item or items described in subsection (a), shall be fined not more than $2,000,000 and imprisoned for not less than 30 years or imprisoned for life.
+
+&emsp;(3)
+
+Special circumstances.—If the death of another results from a person's violation of subsection (a), the person shall be fined not more than $2,000,000 and punished by imprisonment for life.
+
+(Added Pub. L. 108–458, title VI, §6905, Dec. 17, 2004, 118 Stat. 3772.)
+

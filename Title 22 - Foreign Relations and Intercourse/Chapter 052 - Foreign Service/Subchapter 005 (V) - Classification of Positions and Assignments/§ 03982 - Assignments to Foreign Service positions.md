@@ -2,7 +2,7 @@
 
 #### (a) Positions assignable; basis for assignment
 
-(1) The Secretary (with the concurrence of the agency concerned) may assign a member of the Service to any position classified under section 3981 of this title in which that member is eligible to serve (other than as chief of mission or ambassador at large), and may assign a member from one such position to another such position as the needs of the Service may require.
+(1) The Secretary (with the concurrence of the agency concerned) may assign a member of theService to any position classified under section 3981 of this title in which that member is eligible to serve (other than as chief of mission or ambassador at large), and may assign a member from one such position to another such position as the needs of the Service may require.
 
 (2) In making assignments under paragraph (1), the Secretary shall assure that a member of the Service is not assigned to a position at a post in a particular geographic area exclusively on the basis of the race, ethnicity, or religion of that member.
 
@@ -39,10 +39,6 @@ Functions of President under subsec. (c) delegated to Secretary of State, see se
 #### Report Respecting Policies and Procedures Adopted To Improve Competitive Ability of Personnel
 
 Section 130(c) of Pub. L. 98–164 directed Secretary of State, not later than one year after Nov. 22, 1983, to submit a report to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate describing policies and procedures adopted pursuant to the amendment made by section 130(b) of Pub. L. 98–164, adding subsec. (d) of this section, prior to repeal by Pub. L. 103–236, title I, §139(10), Apr. 30, 1994, 108 Stat. 398.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3902, 3903 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

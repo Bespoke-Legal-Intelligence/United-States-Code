@@ -18,9 +18,9 @@ The Commission may, after notice and opportunity for hearing, by order prohibit,
 
 &emsp;(1) has willfully made or caused to be made in any registration statement, application or report filed with the Commission under this subchapter any statement which was at the time and in the light of the circumstances under which it was made false or misleading with respect to any material fact, or has omitted to state in any such registration statement, application, or report any material fact which was required to be stated therein;
 
-&emsp;(2) has willfully violated any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], orof the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or of subchapter II of this chapter, or of this subchapter, or of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or of any rule or regulation under any of such statutes;
+&emsp;(2) has willfully violated any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], or of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or of subchapter II of this chapter, or of this subchapter, or of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or of any rule or regulation under any of such statutes;
 
-&emsp;(3) has willfully aided, abetted, counseled, commanded, induced, or procured the violation by any other person of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], or of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or of subchapter II of this chapter, or of this subchapter, or of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or of any rule or regulation under any of such statutes;
+&emsp;(3) has willfully aided, abetted, counseled, commanded, induced, or procured the violation by any other person of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], or of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or of subchapter II of this chapter, or ofthis subchapter, or of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or of any rule or regulation under any of such statutes;
 
 &emsp;(4) has been found by a foreign financial regulatory authority to have—
 
@@ -211,8 +211,4 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78w, 80a–6, 80a–35, 80a–41, 80a–58 of this title; title 29 section 1111.
 

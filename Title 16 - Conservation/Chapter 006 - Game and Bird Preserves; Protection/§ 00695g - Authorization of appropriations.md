@@ -4,7 +4,3 @@ There are hereby authorized to be appropriated such funds, not to exceed $400,00
 
 (Aug. 27, 1954, ch. 1012, §4, 68 Stat. 879.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 695i, 695j, 695j–1 of this title.
-

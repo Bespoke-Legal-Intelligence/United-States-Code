@@ -10,7 +10,7 @@ Type of Bonds Required.—Before any contract of more than $100,000 is awarded f
 
 &emsp;(1)
 
-Performance bond.—A performance bond with a surety satisfactory to the officer awarding the contract, and in an amount the officer considers adequate, for the protection of the Government.
+Performance bond.—A performance bond with a surety satisfactory to the officerawarding the contract, and in an amount the officer considers adequate, for the protection of the Government.
 
 &emsp;(2)
 
@@ -99,8 +99,4 @@ In subsections (b) and (c), the words “or sureties” are omitted because of 1
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (c)(2), is classified to Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3132, 3133 of this title; title 10 section 2701; title 15 section 636; title 25 sections 47a, 1656; title 31 section 9303; title 39 section 410; title 42 sections 1594, 9619, 11707.
 

@@ -30,7 +30,3 @@ The effective date of this subchapter, referred to in subsec. (a), is Jan. 20, 1
 
 1976—Subsec. (b). Pub. L. 94–421 substituted “Governors on” for “Postal Service on”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3624, 3641 of this title.
-

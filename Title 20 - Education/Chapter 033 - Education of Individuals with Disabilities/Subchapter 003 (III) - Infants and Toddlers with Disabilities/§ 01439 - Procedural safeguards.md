@@ -14,25 +14,25 @@ The procedural safeguards required to be included in a statewide system under se
 
 &emsp;(5) Procedures to protect the rights of the infant or toddler whenever the parents of the infant or toddler are not known or cannot be found or the infant or toddler is a ward of the State, including the assignment of an individual (who shall not be an employee of the State lead agency, or other State agency, and who shall not be any person, or any employee of a person, providing early intervention services to the infant or toddler or any family member of the infant or toddler) to act as a surrogate for the parents.
 
-&emsp;(6) Written prior notice to the parents of the infant or toddler with a disability whenever the State agency or service provider proposes to initiate or change or refuses to initiate or change the identification, evaluation, or placement of the infant or toddler with a disability, or the provision of appropriate early intervention services to the infant or toddler.
+&emsp;(6) Written prior notice to the parents of the infant or toddler with a disability whenever the State agency or service provider proposes to initiate or change, or refuses to initiate or change, the identification, evaluation, or placement of the infant or toddler with a disability, or the provision of appropriate early intervention services to the infant or toddler.
 
 &emsp;(7) Procedures designed to ensure that the notice required by paragraph (6) fully informs the parents, in the parents’ native language, unless it clearly is not feasible to do so, of all procedures available pursuant to this section.
 
-&emsp;(8) The right of parents to use mediation in accordance with section 1415(e) of this title, except that—
+&emsp;(8) The right of parents to use mediation in accordance with section 1415 of this title, except that—
 
 &emsp;&emsp;(A) any reference in the section to a State educational agency shall be considered to be a reference to a State's lead agency established or designated under section 1435(a)(10) of this title;
 
 &emsp;&emsp;(B) any reference in the section to a local educational agency shall be considered to be a reference to a local service provider or the State's lead agency under this subchapter, as the case may be; and
 
-&emsp;&emsp;(C) any reference in the section to the provision of free appropriate public education to children with disabilities shall be considered to be a reference to the provision of appropriate early intervention services to infants and toddlers with disabilities.
+&emsp;&emsp;(C) any reference in the section to the provision of a free appropriate public education to children with disabilities shall be considered to be a reference to the provision of appropriate early intervention services to infants and toddlers with disabilities.
 
 #### (b) Services during pendency of proceedings
 
 During the pendency of any proceeding or action involving a complaint by the parents of an infant or toddler with a disability, unless the State agency and the parents otherwise agree, the infant or toddler shall continue to receive the appropriate early intervention services currently being provided or, if applying for initial services, shall receive the services not in dispute.
 
-(Pub. L. 91–230, title VI, §639, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 115.)
+(Pub. L. 91–230, title VI, §639, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2755.)
 
-#### Section Referred to in Other Sections
+#### Prior Provisions
 
-This section is referred to in sections 1401, 1435 of this title.
+A prior section 1439, Pub. L. 91–230, title VI, §639, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 115, set out procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 

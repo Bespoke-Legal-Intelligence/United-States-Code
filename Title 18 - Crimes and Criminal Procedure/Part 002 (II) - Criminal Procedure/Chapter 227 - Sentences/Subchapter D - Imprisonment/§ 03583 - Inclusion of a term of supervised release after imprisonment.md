@@ -36,7 +36,7 @@ Modification of Conditions or Revocation.—The court may, after considering the
 
 &emsp;(1) terminate a term of supervised release and discharge the defendant released at any time after the expiration of one year of supervised release, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation, if it is satisfied that such action is warranted by the conduct of the defendant released and the interest of justice;
 
-&emsp;(2) extend a term of supervised release if less than the maximum authorized term was previously imposed, and may modify, reduce, or enlarge the conditions of supervised release, at any time prior to the expiration or termination of the term of supervised release, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and the provisions applicable to the initial setting of the terms and conditions of post-release supervision;
+&emsp;(2) extend a term of supervised release if less than the maximum authorized term was previously imposed, and may modify, reduce, or enlarge the conditions of supervised release, atany time prior to the expiration or termination of the term of supervised release, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and the provisions applicable to the initial setting of the terms and conditions of post-release supervision;
 
 &emsp;(3) revoke a term of supervised release, and require the defendant to serve in prison all or part of the term of supervised release authorized by statute for the offense that resulted in such term of supervised release without credit for time previously served on postrelease supervision, if the court, pursuant to the Federal Rules of Criminal Procedure applicable to revocation of probation or supervised release, finds by a preponderance of the evidence that the defendant violated a condition of supervised release, except that a defendant whose term is revoked under this paragraph may not be required to serve on any such revocation more than 5 years in prison if the offense that resulted in the term of supervised release is a class A felony, more than 3 years in prison if such offense is a class B felony, more than 2 years in prison if such offense is a class C or D felony, or more than one year in any other case; or
 
@@ -52,7 +52,7 @@ Mandatory Revocation for Possession of Controlled Substance or Firearm or for Re
 
 &emsp;(1) possesses a controlled substance in violation of the condition set forth in subsection (d);
 
-&emsp;(2) possesses a firearm, as such term is defined in section 921 of this title, in violation ofFederal law, or otherwise violates a condition of supervised release prohibiting the defendant from possessing a firearm;
+&emsp;(2) possesses a firearm, as such term is defined in section 921 of this title, in violation of Federal law, or otherwise violates a condition of supervised release prohibiting the defendant from possessing a firearm;
 
 &emsp;(3) refuses to comply with drug testing imposed as a condition of supervised release; or
 
@@ -110,7 +110,7 @@ Subsec. (g)(4). Pub. L. 107–273, §2103(b), added par. (4).
 
 Subsec. (d). Pub. L. 103–322, §320921(c)(2), inserted after first sentence “The court shall order as an explicit condition of supervised release for a defendant convicted for the first time of a domestic violence crime as defined in section 3561(b) that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant.”
 
-Pub. L. 103–322, §20414(c), inserted after first sentence “The court shall also order, as an explicit condition of supervised release, that the defendant refrain from any unlawful use of a controlled substance and submit to a drug test within 15 days of release on supervised release and at least 2 periodic drug tests thereafter (as determined by the court) for use of a controlled substance. The condition stated in the preceding sentence may be ameliorated or suspended by the court as provided in section 3563(a)(4). The results of a drug test administered in accordance with the preceding subsection shallbe subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3583(g) when considering any action against a defendant who fails a drug test.”
+Pub. L. 103–322, §20414(c), inserted after first sentence “The court shall also order, as an explicit condition of supervised release, that the defendant refrain from any unlawful use of a controlled substance and submit to a drug test within 15 days of release on supervised release and at least 2 periodic drug tests thereafter (as determined by the court) for use of a controlled substance. The condition stated in the preceding sentence may be ameliorated or suspended by the court as provided in section 3563(a)(4). The results of a drug test administered in accordance with the preceding subsection shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3583(g) when considering any action against a defendant who fails a drug test.”
 
 Pub. L. 103–322, §110505(1), substituted “unlawfully possess a controlled substance” for “possess illegal controlled substances” in first sentence.
 
@@ -194,15 +194,11 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 
 Section 14(b) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code \[Nov. 1, 1987\].”
 
-Section 1006(a)(4) of Pub. L. 99–570 provided that: “The amendments made by this subsection \[amendingthis section\] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code \[Nov. 1, 1987\].”
+Section 1006(a)(4) of Pub. L. 99–570 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code \[Nov. 1, 1987\].”
 
 #### Effective Date
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3401, 3601, 4101 of this title; title 21 sections 841, 960; title 28 section 994.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

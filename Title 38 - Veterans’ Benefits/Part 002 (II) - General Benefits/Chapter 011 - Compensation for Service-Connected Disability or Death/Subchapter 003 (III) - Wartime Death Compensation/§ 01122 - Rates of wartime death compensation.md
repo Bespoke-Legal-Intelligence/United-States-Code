@@ -72,7 +72,3 @@ Amendment by Pub. L. 91–588 effective Jan. 1, 1971, see section 10(a) of Pub. 
 
 Amendment by Pub. L. 91–96 effective first day of second calendar month which begins after Oct. 27, 1969, see section 8 of Pub. L. 91–96, set out as a note under section 1302 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1121, 1142 of this title.
-

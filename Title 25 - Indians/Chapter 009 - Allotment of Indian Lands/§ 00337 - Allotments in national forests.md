@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized, in his discretion, to make allotmen
 
 (June 25, 1910, ch. 431, §31, 36 Stat. 863.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 353, 406, 564h, 697, 747 of this title; title 43 section 1617.
-

@@ -38,7 +38,7 @@
 
 (3) The Committee may also submit to the Secretary such other reports and recommendations as the Committee considers appropriate.
 
-(4) The Secretary shall submit with each annual report submitted to the Congress pursuantto section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to that section.
+(4) The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to that section.
 
 (d)(1) Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Committee under this section.
 

@@ -20,7 +20,3 @@ An accreditation made under this section shall be for a period of not to exceed 
 
 (Pub. L. 101–624, title XXI, §2115, Nov. 28, 1990, 104 Stat. 3944.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6515, 6516 of this title.
-

@@ -24,7 +24,3 @@ Of the amount appropriated under subsection (a) of this section for any fiscal y
 
 (Pub. L. 103–322, title III, §31904, Sept. 13, 1994, 108 Stat. 1894.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13901, 14214 of this title.
-

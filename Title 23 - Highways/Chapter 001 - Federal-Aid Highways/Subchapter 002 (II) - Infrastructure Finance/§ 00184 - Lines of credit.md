@@ -18,7 +18,7 @@ Risk assessment.—Before entering into an agreement under this subsection, the 
 
 &emsp;(4)
 
-Investment-grade rating requirement.—The funding of a line of credit underthis section shall be contingent on the project's senior obligations receiving an investment-grade rating from at least 1 rating agency.
+Investment-grade rating requirement.—The funding of a line of credit under this section shall be contingent on the project's senior obligations receiving an investment-grade rating from at least 1 rating agency.
 
 (b)
 
@@ -46,7 +46,7 @@ Draws.—Any draw on the line of credit shall represent a direct loan and shall 
 
 &emsp;(4)
 
-Interest rate.—The interest rate on a direct loan resulting from a draw on the line of credit shall be not less than the yield on 30-year marketable United States Treasury securities as of the date on which the line of credit is obligated.
+Interest rate.—The interest rate on a direct loan resulting from a draw on the lineof credit shall be not less than the yield on 30-year marketable United States Treasury securities as of the date on which the line of credit is obligated.
 
 &emsp;(5)
 
@@ -105,8 +105,4 @@ Timing.—All scheduled repayments of principal or interest on a direct loan und
 Sources of repayment funds.—The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources.
 
 (Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 247.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 181 of this title.
 

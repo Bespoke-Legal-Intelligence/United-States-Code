@@ -36,7 +36,3 @@ Decisions of the Secretary under this section are not subject to judicial review
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10167, 10172, 10173a of this title.
-

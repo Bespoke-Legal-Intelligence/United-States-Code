@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Consistent with the regulations issued pursuant to section 1413 of this title, the Secretaryshall issue a permit to a vessel of the United States authorizing participation in the International Dolphin Conservation Program and may require a permit for the person actually in charge of and controlling the fishing operation of the vessel. The Secretary shall prescribe such procedures as are necessary to carry out this subsection, including requiring the submission of—
+(1) Consistent with the regulations issued pursuant to section 1413 of this title, the Secretary shall issue a permit to a vessel of the United States authorizing participation in the International Dolphin Conservation Program and may require a permit for the person actually in charge of and controlling the fishing operation of the vessel. The Secretary shall prescribe such procedures as are necessary to carry out this subsection, including requiring the submission of—
 
 &emsp;(A) the name and official number or other identification of each fishing vessel for which a permit is sought, together with the name and address of the owner thereof; and
 
@@ -59,8 +59,4 @@ A prior section 306 of Pub. L. 92–522 was renumbered section 406 and is classi
 #### Effective Date
 
 For effective date of section, see section 8 of Pub. L. 105–42, set out as an Effective Date of 1997 Amendment note under section 1362 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 973g, 1374 of this title.
 

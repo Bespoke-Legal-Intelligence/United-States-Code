@@ -160,59 +160,47 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (g) Relocation of Federal Government stations
 
-#### (1) In general
+#### (1) Eligible Federal entities
 
-#### (A) Authority of Federal entities to accept compensation
+&emsp;Any Federal entity that operates a Federal Government station assigned to a band of frequencies specified in paragraph (2) and that incurs relocation costs because of the reallocation of frequencies from Federal use to non-Federal use shall receive payment for such costs from the Spectrum Relocation Fund, in accordance with section 928 of this title. For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) of this section that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) of this section, are eligible to receive payment under this paragraph.
 
-&emsp;&emsp;In order to expedite the commercial use of the electromagnetic spectrum and notwithstanding section 3302(b) of title 31, any Federal entity which operates a Federal Government station may accept from any person payment of the expenses of relocating the Federal entity's operations from one or more frequencies to another frequency or frequencies, including the costs of any modification, replacement, or reissuance of equipment, facilities, operating manuals, or regulations incurred by that entity. Any such Federal entity which proposes to so relocate shall notify the NTIA, which in turn shall notify the Commission, before the auction concerned of the marginal costs anticipated to be associated with such relocation or with modifications necessary to accommodate prospective licensees. The Commission in turn shall notify potential bidders of the estimated relocation or modification costs based on the geographic area covered by the proposed licenses before the auction.
+#### (2) Eligible frequencies
 
-#### (B) Requirement to compensate Federal entities
+&emsp;The bands of eligible frequencies for purposes of this section are as follows:
 
-&emsp;&emsp;Any person on whose behalf a Federal entity incurs costs under subparagraph (A) shall compensate the Federal entity in advance for such costs. Such compensation may take the form of a cash payment or in-kind compensation.
+&emsp;&emsp;(A) the 216–220 megahertz band, the 1432–1435 megahertz band, the 1710–1755 megahertz band, and the 2385–2390 megahertz band of frequencies; and
 
-#### (C) Disposition of payments
+&emsp;&emsp;(B) any other band of frequencies reallocated from Federal use to non-Federal use after January 1, 2003, that is assigned by competitive bidding pursuant to section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)), except for bands of frequencies previously identified by the National Telecommunications and Information Administration in the Spectrum Reallocation Final Report, NTIA Special Publication 95–32 (1995).
 
-#### (i) Payment by electronic funds transfer
+#### (3) Definition of relocation costs
 
-&emsp;&emsp;&emsp;A person making a cash payment under this paragraph shall make the cash payment by depositing the amount of the payment by electronic funds transfer in the account of the Federal entity concerned in the Treasury of the United States or in another account as authorized by law.
+&emsp;For purposes of this subsection, the term “relocation costs” means the costs incurred by a Federal entity to achieve comparable capability of systems, regardless of whether that capability is achieved by relocating to a new frequency assignment or by utilizing an alternative technology. Such costs include—
 
-#### (ii) Availability
+&emsp;&emsp;(A) the costs of any modification or replacement of equipment, software, facilities, operating manuals, training costs, or regulations that are attributable to relocation;
 
-&emsp;&emsp;&emsp;Subject to the provisions of authorization Acts and appropriations Acts, amounts deposited under this subparagraph shall be available to the Federal entity concerned to pay directly the costs of relocation under this paragraph, to repay or make advances to appropriations or funds which do or will initially bear all or part of such costs, or to refund excess sums when necessary.
+&emsp;&emsp;(B) the costs of all engineering, equipment, software, site acquisition and construction costs, as well as any legitimate and prudent transaction expense, including outside consultants, and reasonable additional costs incurred by the Federal entity that are attributable to relocation, including increased recurring costs associated with the replacement facilities;
 
-#### (D) Application to certain other relocations
+&emsp;&emsp;(C) the costs of engineering studies, economic analyses, or other expenses reasonably incurred in calculating the estimated relocation costs that are provided to the Commission pursuant to paragraph (4) of this subsection;
 
-&emsp;&emsp;The provisions of this paragraph also apply to any Federal entity that operates a Federal Government station assigned to used <sup>1</sup> electromagnetic spectrum identified for reallocation under subsection (a) of this section if before August 5, 1997, the Commission has not identified that spectrum for service or assigned licenses or otherwise authorized service for that spectrum.
+&emsp;&emsp;(D) the one-time costs of any modification of equipment reasonably necessary to accommodate commercial use of such frequencies prior to the termination of the Federal entity's primary allocation or protected status, when the eligible frequencies as defined in paragraph (2) of this subsection are made available for private sector uses by competitive bidding and a Federal entity retains primary allocation or protected status in those frequencies for a period of time after the completion of the competitive bidding process; and
 
-#### (E) Implementation procedures
+&emsp;&emsp;(E) the costs associated with the accelerated replacement of systems and equipment if such acceleration is necessary to ensure the timely relocation of systems to a new frequency assignment.
 
-&emsp;&emsp;The NTIA and the Commission shall develop procedures for the implementation of this paragraph, which procedures shall include a process for resolving any differences that arise between the Federal Government and commercial licensees regarding estimates of relocation or modification costs under this paragraph.
+#### (4) Notice to Commission of estimated relocation costs
 
-#### (F) Inapplicability to certain relocations
+&emsp;(A) The Commission shall notify the NTIA at least 18 months prior to the commencement of any auction of eligible frequencies defined in paragraph (2). At least 6 months prior to the commencement of any such auction, the NTIA, on behalf of the Federal entities and after review by the Office of Management and Budget, shall notify the Commission of estimated relocation costs and timelines for such relocation.
 
-&emsp;&emsp;With the exception of the band of frequencies located at 1710–1755 megahertz, the provisions of this paragraph shall not apply to Federal spectrum identified for reallocation in the first reallocation report submitted to the President and Congress under subsection (a) of this section.
+&emsp;(B) Upon timely request of a Federal entity, the NTIA shall provide such entity with information regarding an alternative frequency assignment or assignments to which their radiocommunications operations could be relocated for purposes of calculating the estimated relocation costs and timelines to be submitted to the Commission pursuant to subparagraph (A).
 
-#### (2) Process for relocation
+&emsp;(C) To the extent practicable and consistent with national security considerations, the NTIA shall provide the information required by subparagraphs (A) and (B) by the geographic location of the Federal entities’ facilities or systems and the frequency bands used by such facilities or systems.
 
-&emsp;Any person seeking to relocate a Federal Government station that has been assigned a frequency within a band that has been allocated for mixed Federal and non-Federal use, or that has been scheduled for reallocation to non-Federal use, may submit a petition for such relocation to NTIA. The NTIA shall limit or terminate the Federal Government station's operating license within 6 months after receiving the petition if the following requirements are met:
+#### (5) Notice to congressional committees and GAO
 
-&emsp;&emsp;(A) the person seeking relocation of the Federal Government station has guaranteed to pay all relocation costs incurred by the Federal entity, including all engineering, equipment, site acquisition and construction, and regulatory fee costs;
+&emsp;The NTIA shall, at the time of providing an initial estimate of relocation costs to the Commission under paragraph (4)(A), submit to <sup>1</sup> Committees on Appropriations and Energy and Commerce of the House of Representatives for approval, to the Committees on Appropriations and Commerce, Science, and Transportation of the Senate for approval, and to the Comptroller General a copy of such estimate and the timelines for relocation. Unless disapproved within 30 days, the estimate shall be approved. If disapproved, the NTIA may resubmit a revised initial estimate.
 
-&emsp;&emsp;(B) all activities necessary for implementing the relocation have been completed, including construction of replacement facilities (if necessary and appropriate) and identifying and obtaining new frequencies for use by the relocated Federal Government station (where such station is not relocating to spectrum reserved exclusively for Federal use);
+#### (6) Implementation of procedures
 
-&emsp;&emsp;(C) any necessary replacement facilities, equipment modifications, or other changes have been implemented and tested to ensure that the Federal Government station is able to successfully accomplish its purposes; and
-
-&emsp;&emsp;(D) NTIA has determined that the proposed use of the spectrum frequency band to which the Federal entity will relocate its operations is—
-
-&emsp;&emsp;&emsp;(i) consistent with obligations undertaken by the United States in international agreements and with United States national security and public safety interests; and
-
-&emsp;&emsp;&emsp;(ii) suitable for the technical characteristics of the band and consistent with other uses of the band.
-
-> &emsp;&emsp;In exercising its authority under clause (i) of this subparagraph, NTIA shall consult with the Secretary of Defense, the Secretary of State, or other appropriate officers of the Federal Government.
-
-#### (3) Right to reclaim
-
-&emsp;If within one year after the relocation the Federal entity demonstrates to the Commission that the new facilities or spectrum are not comparable to the facilities or spectrum from which the Federal Government station was relocated, the person who filed the petition under paragraph (2) for such relocation shall take reasonable steps to remedy any defects or pay the Federal entity for the expenses incurred in returning the Federal Government station to the spectrum from which such station was relocated.
+&emsp;The NTIA shall take such actions as necessary to ensure the timely relocation of Federal entities’ spectrum-related operations from frequencies defined in paragraph (2) to frequencies or facilities of comparable capability. Upon a finding by the NTIA that a Federal entity has achieved comparable capability of systems by relocating to a new frequency assignment or by utilizing an alternative technology, the NTIA shall terminate the entity's authorization and notify the Commission that the entity's relocation has been completed. The NTIA shall also terminate such entity's authorization if the NTIA determines that the entity has unreasonably failed to comply with the timeline for relocation submitted by the Director of the Office of Management and Budget under section 928(d)(2)(B) of this title.
 
 #### (h) Federal action to expedite spectrum transfer
 
@@ -222,7 +210,7 @@ Any Federal Government station which operates on electromagnetic spectrum that h
 
 For purposes of this section, the term “Federal entity” means any department, agency, or other instrumentality of the Federal Government that utilizes a Government station license obtained under section 305 of the 1934 Act (47 U.S.C. 305).
 
-(Pub. L. 102–538, title I, §113, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 380; amended Pub. L. 105–33, title III, §3002(d)(1), (e)(1)–(3), Aug. 5, 1997, 111 Stat. 262, 264, 265; Pub. L. 105–261, div. A, title X, §1064(c), Oct. 17, 1998, 112 Stat. 2132; Pub. L. 106–65, div. A, title X, §1062(c)(2), Oct. 5, 1999, 113 Stat. 768.)
+(Pub. L. 102–538, title I, §113, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 380; amended Pub. L. 105–33, title III, §3002(d)(1), (e)(1)–(3), Aug. 5, 1997, 111 Stat. 262, 264, 265; Pub. L. 105–261, div. A, title X, §1064(c), Oct. 17, 1998, 112 Stat. 2132; Pub. L. 106–65, div. A, title X, §1062(c)(2), Oct. 5, 1999, 113 Stat. 768; Pub. L. 108–494, title II, §202, Dec. 23, 2004, 118 Stat. 3991.)
 
 #### References in Text
 
@@ -231,6 +219,8 @@ For definition of the 1934 Act, referred to in subsecs. (a)(3), (5), (b)(2), and
 Section 3002(c)(5) of the Balanced Budget Act of 1997, referred to in subsec. (f), is section 3002(c)(5) of Pub. L. 105–33, which is set out as a note under section 925 of this title.
 
 #### Amendments
+
+2004—Subsec. (g). Pub. L. 108–494 added pars. (1) to (6) and struck out former pars. (1) to (3) which related to relocation of Federal Government stations in general, process for relocation, and right to reclaim.
 
 1999—Subsec. (b)(3)(A). Pub. L. 106–65 substituted “12 megahertz” for “20 megahertz”.
 
@@ -248,13 +238,13 @@ Subsec. (d)(4). Pub. L. 105–33, §3002(e)(3), substituted “initial report”
 
 Subsecs. (f) to (i). Pub. L. 105–33, §3002(d)(1), added subsecs. (f) to (i).
 
+#### Spectrum Management Authority Retained
+
+Pub. L. 108–494, title II, §208(a), Dec. 23, 2004, 118 Stat. 3996, provided that: “Except as provided with respect to the bands of frequencies identified in section 113(g)(2)(A) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923(g)(2)(A)) as amended by this title, nothing in this title \[see Short Title of 2004 Amendment note set out under section 901 of this title\] or the amendments made by this title shall be construed as limiting the Federal Communications Commission's authority to allocate bands of frequencies that are reallocated from Federal use to non-Federal use for unlicensed, public safety, shared, or non-commercial use.”
+
 #### Reports on Costs of Relocations
 
 Pub. L. 105–261, div. A, title X, §1064(d), Oct. 17, 1998, 112 Stat. 2133, provided that: “The head of each department or agency of the Federal Government shall include in the annual budget submission of such department or agency to the Director of the Office of Management and Budget a report assessing the costs to be incurred by such department or agency as a result of any frequency relocations of such department or agency that are anticipated under section 113 of the National Telecommunications \[and\] Information Administration Organization Act (47 U.S.C. 923) as of the date of such report.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 309, 924, 925 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
 

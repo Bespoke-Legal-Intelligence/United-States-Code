@@ -146,7 +146,3 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9241, 9273 of this title; title 29 section 2801.
-

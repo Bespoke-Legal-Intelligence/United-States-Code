@@ -56,7 +56,3 @@
 
 Subsec. (a)(1) and (4) of this section suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(b) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under section 7103 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 1351.
-

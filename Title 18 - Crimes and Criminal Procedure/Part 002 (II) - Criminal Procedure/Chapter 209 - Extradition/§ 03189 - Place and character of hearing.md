@@ -10,7 +10,3 @@ Based on title 18, U.S.C., 1940 ed., §657 (Aug. 3, 1882, ch. 378, §1, 22 Stat.
 
 First word “All” was omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4114 of this title.
-

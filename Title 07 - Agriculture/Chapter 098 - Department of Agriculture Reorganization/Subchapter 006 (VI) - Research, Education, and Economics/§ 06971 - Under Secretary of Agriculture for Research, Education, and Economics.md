@@ -38,7 +38,3 @@ If the Secretary establishes the position of Under Secretary of Agriculture for 
 
 Section is comprised of section 251 of Pub. L. 103–354. Subsec. (e) of section 251 of Pub. L. 103–354 amended section 5314 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6912 of this title.
-

@@ -14,7 +14,3 @@ The Vice President, Members of Congress, the Secretary of the Senate, the Sergea
 
 Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as a note under section 3210 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3201 of this title; title 2 sections 31b–4, 501, 502.
-

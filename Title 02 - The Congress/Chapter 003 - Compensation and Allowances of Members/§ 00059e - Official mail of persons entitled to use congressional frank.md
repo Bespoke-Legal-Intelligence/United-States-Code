@@ -8,7 +8,7 @@ Except as otherwise provided in this section, funds appropriated by this Act or 
 
 &emsp;(2)(A) with respect to the House of Representatives, allocation of funds for official mail to be made to each such person with respect to each session of Congress (with no transfer to any other session or to any other such person); and
 
-&emsp;(B) with respect to the Senate, allocation of funds for official mail to be made to each such person with respect to each session of Congress (with no transfer to any other session, other than transfers from the first session of a Congress to the second session of that Congress, or to any other such person); and
+&emsp;(B) with respect to the Senate, allocation of funds for official mail to be made to each such person with respect to each session of Congress (with no transfer to any other session,other than transfers from the first session of a Congress to the second session of that Congress, or to any other such person); and
 
 &emsp;(3) with respect to the House of Representatives, that in addition to any other report or information made available to the public (through the House Commission on Congressional Mailing Standards or otherwise) regarding the use of the frank, the Chief Administrative Officer of the House of Representatives shall include in the quarterly report of receipts and expenditures submitted to the House of Representatives a statement (based solely on data provided for that purpose by the Committee on House Oversight of the House of Representatives and the House Commission on Congressional Mailing Standards) of costs incurred for official mail by each person entitled to use the congressional frank.
 
@@ -70,13 +70,13 @@ As used in subsections (a) through (f) of this section—
 
 #### (i) Effective date
 
-This section and the amendments made by this section shall apply with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) of this section shall apply beginning on May 1, 1992, and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
+This section and the amendments made by this section shall apply with respect to sessionsof Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) of this section shall apply beginning on May 1, 1992, and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
 
 (Pub. L. 101–520, title III, §311, Nov. 5, 1990, 104 Stat. 2278; Pub. L. 102–229, title II, §211, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 104–186, title II, §203(22), Aug. 20, 1996, 110 Stat. 1728; Pub. L. 105–275, title I, §104, Oct. 21, 1998, 112 Stat. 2439; Pub. L. 106–19, §1(a), Apr. 8, 1999, 113 Stat. 29; Pub. L. 106–57, title I, §§102, 103(a)(1)–(3), (4)(B), Sept. 29, 1999, 113 Stat. 415; Pub. L. 107–68, title I, §110, Nov. 12, 2001, 115 Stat. 569; Pub. L. 108–83, title I, §105(a), Sept. 30, 2003, 117 Stat. 1018.)
 
 #### References in Text
 
-The amendments made by this section, referred to in subsec. (i), means the amendments made by section311(h) of Pub. L. 101–520, which amended section 58 of this title and sections 3210 and 3216 of Title 39, Postal Service, and amended provisions set out as notes under sections 3210 and 3216 of Title 39.
+The amendments made by this section, referred to in subsec. (i), means the amendments made by section 311(h) of Pub. L. 101–520, which amended section 58 of this title and sections 3210 and 3216 of Title 39, Postal Service, and amended provisions set out as notes under sections 3210 and 3216 of Title 39.
 
 #### Codification
 
@@ -86,11 +86,11 @@ Subsec. (h) of this section made the amendments specified in the References in T
 
 #### Amendments
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–83, in introductory provisions, struck out “in the House, or official expenses” after “defray official expenses” and “in the Senate” after “(excluding handheld communications devices)”.
+2003—Subsec. (d). Pub. L. 108–83, in introductory provisions, struck out “in the House, or official expenses” after “defray official expenses” and “in the Senate” after “(excluding handheld communications devices)”.
 
-<b>2001</b>—Subsec. (d). Pub. L. 107–68, in introductory provisions, inserted “in the House, or official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) in the Senate” after “expenses”.
+2001—Subsec. (d). Pub. L. 107–68, in introductory provisions, inserted “in the House, or official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) in the Senate” after “expenses”.
 
-<b>1999</b>—Subsec. (a)(3). Pub. L. 106–57, §103(a)(4)(B), substituted “costs incurred for official mail by” for “costs charged against the Official Mail Allowance for”.
+1999—Subsec. (a)(3). Pub. L. 106–57, §103(a)(4)(B), substituted “costs incurred for official mail by” for “costs charged against the Official Mail Allowance for”.
 
 Subsec. (b)(2). Pub. L. 106–19 substituted “any person with an allocation under subsection (a)(2)(A) as to the amount that has been used and any person with an allocation under subsection (a)(2)(B)” for “any person with an allocation under subsection (a)(2)”.
 
@@ -110,11 +110,11 @@ Subsec. (e)(3). Pub. L. 106–57, §103(a)(3), struck out par. (3) which read as
 
 “(B) The total amount a Member may so transfer with respect to a session of Congress may not exceed $25,000.”
 
-<b>1998</b>—Subsec. (e)(2). Pub. L. 105–275, §104(a), as amended by Pub. L. 106–57, §102, inserted “and” at end of subpar. (B), substituted a period for “; and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “shall not be available for payment of any nonpostage fee or charge, including any fee or charge for express mail, express mail drop shipment, certified mail, registered mail, return receipt, address correction, or postal insurance.”
+1998—Subsec. (e)(2). Pub. L. 105–275, §104(a), as amended by Pub. L. 106–57, §102, inserted “and” at end of subpar. (B), substituted a period for “; and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “shall not be available for payment of any nonpostage fee or charge, including any fee or charge for express mail, express mail drop shipment, certified mail, registered mail, return receipt, address correction, or postal insurance.”
 
 Subsec. (e)(4). Pub. L. 105–275, §104(b), struck out par. (4) which read as follows: “The Members’ Representational Allowance shall be available to a Member of the House of Representatives for the payment of nonpostage fees and charges referred to in paragraph (2)(D) and for postage for mail for official business sent outside the United States.”
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–186, §203(22)(B)(i), substituted “House Oversight” for “House Administration” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–186, §203(22)(B)(i), substituted “House Oversight” for “House Administration” in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 104–186, §203(22)(A), (B)(ii), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” and “House Oversight” for “House Administration”.
 
@@ -128,7 +128,7 @@ Subsec. (e)(3)(A). Pub. L. 104–186, §203(22)(B)(vi), substituted “Members�
 
 Subsec. (e)(4). Pub. L. 104–186, §203(22)(B)(vii), substituted “Members’ Representational Allowance” for “Official Expenses Allowance”.
 
-<b>1991</b>—Subsec. (i). Pub. L. 102–229 substituted “beginning on May 1, 1992,” for “with respect to sessions of Congress beginning with the second session of the One Hundred Second Congress,”.
+1991—Subsec. (i). Pub. L. 102–229 substituted “beginning on May 1, 1992,” for “with respect to sessions of Congress beginning with the second session of the One Hundred Second Congress,”.
 
 #### Change of Name
 
@@ -143,8 +143,4 @@ Pub. L. 108–83, title I, §105(b), Sept. 30, 2003, 117 Stat. 1018, provided th
 Amendment by section 103(a)(1)–(3), (4)(B) of Pub. L. 106–57 applicable with respect to the first session of the One Hundred Sixth Congress and each succeeding session of Congress, see section 103(c) of Pub. L. 106–57, set out as a note under section 57 of this title.
 
 Pub. L. 106–19, §1(b), Apr. 8, 1999, 113 Stat. 29, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to January 1999 and each succeeding month.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 57 of this title.
 

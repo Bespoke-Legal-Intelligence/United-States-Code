@@ -10,7 +10,7 @@ If it appears to the Secretary that a statement of record, or any amendment ther
 
 #### (c) Amendment of statement of record
 
-If, at any time subsequent to the effective date of a statement of record, a change shalloccur affecting any material fact required to be contained in the statement, the developer shall promptly file an amendment thereto. Upon receipt of any such amendment, the Secretary may, if he determines such action to be necessary or appropriate in the public interest or for the protection of purchasers, suspend the statement of record until the amendment becomes effective.
+If, at any time subsequent to the effective date of a statement of record, a change shall occur affecting any material fact required to be contained in the statement, the developer shall promptly file an amendment thereto. Upon receipt of any such amendment, the Secretary may, if he determines such action to be necessary or appropriate in the public interest or for the protection of purchasers, suspend the statement of record until the amendment becomes effective.
 
 #### (d) Suspension of statement of record containing untrue statement or omission to state material fact; notice and hearing; termination of order of suspension
 
@@ -25,8 +25,4 @@ The Secretary is hereby empowered to make an examination in any case to determin
 Any notice required under this section shall be sent to or served on the developer or his authorized agent.
 
 (Pub. L. 90–448, title XIV, §1407, Aug. 1, 1968, 82 Stat. 593.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1702, 1703, 1708 of this title.
 

@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(6) Federal assistance to facilitate low-cost capital basis for historically Black colleges and universities will enable such colleges and universities to continue and expand their educational mission and enhance their significant role in American higher education.
 
-(Pub. L. 89–329, title III, §341, formerly title VII, §721, as added Pub. L. 102–325, title VII, §704,July 23, 1992, 106 Stat. 741; renumbered title III, §341, Pub. L. 105–244, title III, §301(a)(3), (4), Oct. 7, 1998, 112 Stat. 1636.)
+(Pub. L. 89–329, title III, §341, formerly title VII, §721, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 741; renumbered title III, §341, Pub. L. 105–244, title III, §301(a)(3), (4), Oct. 7, 1998, 112 Stat. 1636.)
 
 #### Codification
 

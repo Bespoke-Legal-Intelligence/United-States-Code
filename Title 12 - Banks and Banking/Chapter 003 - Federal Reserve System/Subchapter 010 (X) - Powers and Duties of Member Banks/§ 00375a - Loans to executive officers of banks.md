@@ -82,7 +82,7 @@ Par. (4). Pub. L. 90–44 incorporated proviso of first sentence in provisions d
 
 Par. (5). Pub. L. 90–44 substituted provisions, designated as par. (5), for extension of credit to partnerships for former provisions of third sentence that “Borrowing by, or loaning to, a partnership in which one or more executive officers of a member bank are partners having either individually or together a majority interest in said partnership, shall be considered within the prohibition of this section”.
 
-Par. (6). Pub. L. 90–44 incorporated reporting requirement of second sentence in provisions designated aspar. (6) but limited it to extensions of credit from other banks to the executive officers as exceeded amounts available to such officers from their member banks under pars. (2) to (4) of this section.
+Par. (6). Pub. L. 90–44 incorporated reporting requirement of second sentence in provisions designated as par. (6) but limited it to extensions of credit from other banks to the executive officers as exceeded amounts available to such officers from their member banks under pars. (2) to (4) of this section.
 
 Par. (7). Pub. L. 90–44 designated provisions of fourth sentence as par. (7).
 
@@ -105,8 +105,4 @@ Act June 14, 1935, struck out a proviso and inserted in lieu thereof first provi
 #### Effective Date of 1978 Amendment
 
 Amendment effective upon expiration of 120 days after Nov. 10, 1978, see sec. 2101 of Pub. L. 95–630 set out as an Effective Date note under section 375b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 375b, 503, 504, 1468, 1828, 1972 of this title.
 

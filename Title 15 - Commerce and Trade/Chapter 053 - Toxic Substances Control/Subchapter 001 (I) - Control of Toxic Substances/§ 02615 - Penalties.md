@@ -30,7 +30,3 @@ Any person who knowingly or willfully violates any provision of section 2614 or 
 
 1992—Subsecs. (a)(1), (2)(A), (b). Pub. L. 102–550 substituted “section 2614 or 2689 of this title” for “section 2614 of this title” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2619, 2629, 2647 of this title; title 21 section 346a; title 42 sections 4852d, 11045.
-

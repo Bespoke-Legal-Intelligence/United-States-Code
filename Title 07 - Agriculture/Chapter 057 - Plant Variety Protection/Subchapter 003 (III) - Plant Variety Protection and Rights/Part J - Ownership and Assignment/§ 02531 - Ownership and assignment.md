@@ -6,11 +6,7 @@
 
 (c) A certificate of acknowledgment under the hand and official seal of a person authorized to administer oaths within the United States, or in a foreign country, of a diplomatic or consular officer of the United States or an officer authorized to administer oaths whose authority is proved by a certificate of a diplomatic or consular officer of the United States, shall be prima facie evidence of the execution of an assignment, grant, license, or conveyance of plant variety protection or application for plant variety protection.
 
-(d) An assignment, grant, conveyance or license shall be void as against any subsequent purchaser or mortgagee for a valuable consideration, without notice, unless it, or an acknowledgment thereof by the person giving such encumbrance that there is such encumbrance, is filed for recording in the Plant Variety Protection Office within one month from its date or at least one month prior to the date of such subsequent purchase or mortgage.
+(d) An assignment, grant, conveyance or license shall be void as against any subsequentpurchaser or mortgagee for a valuable consideration, without notice, unless it, or an acknowledgment thereof by the person giving such encumbrance that there is such encumbrance, is filed for recording in the Plant Variety Protection Office within one month from its date or at least one month prior to the date of such subsequent purchase or mortgage.
 
 (Pub. L. 91–577, title III, §101, Dec. 24, 1970, 84 Stat. 1554.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2483 of this title.
 

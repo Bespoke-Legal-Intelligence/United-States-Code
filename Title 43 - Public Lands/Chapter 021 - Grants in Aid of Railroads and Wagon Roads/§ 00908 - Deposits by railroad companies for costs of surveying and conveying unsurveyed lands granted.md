@@ -14,7 +14,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Effective July 1, 1935, the continuing appropriation provided for in this section was repealed by act June 26, 1934, ch. 756, §1, 48 Stat. 1225.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 909, 910, 911 of this title.
-

@@ -1,9 +1,5 @@
 subpart 2—independent living services
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 716, 796c, 796f–1, 796f–2 of this title.
-
 
 ---
 

@@ -76,9 +76,5 @@
 
 (Pub. L. 92–203, §38, as added Pub. L. 100–241, §9, Feb. 3, 1988, 101 Stat. 1802.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1629b, 1629c of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

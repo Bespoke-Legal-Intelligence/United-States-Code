@@ -14,7 +14,7 @@ The frames of all stationary high-voltage equipment receiving power from ungroun
 
 #### (d) Repairs of high-voltage lines; exceptions
 
-High-voltage lines, both on the surface and underground, shall be deenergized and groundedbefore work is performed on them, except that repairs may be permitted, in the case of energized surface high-voltage lines, if such repairs are made by a qualified person in accordance with procedures and safeguards, including, but not limited to a requirement that the operator of such mine provide, test, and maintain protective devices in making such repairs, to be prescribed by the Secretary prior to the operative date of this subchapter.
+High-voltage lines, both on the surface and underground, shall be deenergized and grounded before work is performed on them, except that repairs may be permitted, in the case of energized surface high-voltage lines, if such repairs are made by a qualified person in accordance with procedures and safeguards, including, but not limited to a requirement that the operator of such mine provide, test, and maintain protective devices in making such repairs, to be prescribed by the Secretary prior to the operative date of this subchapter.
 
 #### (e) Deenergizing of underground power circuits on idle days; exceptions
 
@@ -25,8 +25,4 @@ When not in use, power circuits underground shall be deenergized on idle days an
 #### References in Text
 
 For the operative date of this subchapter, referred to in subsec. (d), see section 509 of Pub. L. 91–173, set out as an Effective Date note under section 801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 861 of this title.
 

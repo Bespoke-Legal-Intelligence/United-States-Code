@@ -22,7 +22,3 @@ Based on 44 U.S. Code, 1964 ed., §85 (part) (Mar. 1, 1907, ch. 2284, §4, 34 St
 
 The last paragraph of former section 85 will be found in section 1906 of the revision.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 28 section 594.
-

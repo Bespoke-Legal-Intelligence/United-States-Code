@@ -92,7 +92,3 @@ Report.—Not later than one year after the date of enactment of this Act \[Oct.
 
 State Defined.—In this section, the term ‘State’ means any of the several States of the United States, the District of Columbia, or any commonwealth or territory of the United States.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6204 of this title.
-

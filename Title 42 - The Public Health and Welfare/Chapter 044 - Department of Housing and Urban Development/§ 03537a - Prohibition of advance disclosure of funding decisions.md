@@ -2,7 +2,7 @@
 
 #### (a) Prohibited actions
 
-During any selection process, no officer or employee of the Department of Housing and Urban Development shall knowingly disclose any covered selection information regarding such selection, directly or indirectly, to any person other than a person authorized by the Secretary to receive such information.
+During any selection process, no officer or employee of the Department of Housing and UrbanDevelopment shall knowingly disclose any covered selection information regarding such selection, directly or indirectly, to any person other than a person authorized by the Secretary to receive such information.
 
 #### (b) Administrative remedies
 
@@ -62,7 +62,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (B) Objections not raised in hearing
 
-&emsp;&emsp;The court shall not consider any objection that was not raised in the hearing conductedpursuant to paragraph (3)(A) unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+&emsp;&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to paragraph (3)(A) unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
 #### (C) Scope of review
 
@@ -74,7 +74,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (5) Action to collect penalty
 
-&emsp;If any employee fails to comply with the Secretary's determination or order imposing a civil money penalty under paragraph (1), after the determination or order is no longer subject to review as provided by paragraphs (3)(A) and (4), the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the employee and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys’ fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
+&emsp;If any employee fails to comply with the Secretary's determination or order imposing acivil money penalty under paragraph (1), after the determination or order is no longer subject to review as provided by paragraphs (3)(A) and (4), the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the employee and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys’ fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
 
 #### (6) Settlement by Secretary
 

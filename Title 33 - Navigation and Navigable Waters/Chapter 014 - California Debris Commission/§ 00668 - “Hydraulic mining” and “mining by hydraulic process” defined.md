@@ -4,7 +4,3 @@ For the purposes of this chapter “hydraulic mining” and “mining by the hyd
 
 (Mar. 1, 1893, ch. 183, §8, 27 Stat 508.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 661, 663 of this title.
-

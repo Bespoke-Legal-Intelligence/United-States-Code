@@ -10,7 +10,3 @@ If in any year the amount appropriated under this part is insufficient to meet t
 
 (Pub. L. 93–618, title II, §298, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 952.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2401e of this title.
-

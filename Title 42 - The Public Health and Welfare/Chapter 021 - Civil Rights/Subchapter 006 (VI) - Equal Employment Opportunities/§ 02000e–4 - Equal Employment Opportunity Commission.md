@@ -2,7 +2,7 @@
 
 #### (a) Creation; composition; political representation; appointment; term; vacancies; Chairman and Vice Chairman; duties of Chairman; appointment of personnel; compensation of personnel
 
-There is hereby created a Commission to be known as the Equal Employment Opportunity Commission, which shall be composed of five members, not more than three of whom shall be members of the same political party. Members of the Commission shall be appointed by the President by and with the advice and consent of the Senate for a term of five years. Any individual chosen to fill a vacancy shall be appointed only for the unexpired term of the member whom he shall succeed, and all members of the Commission shall continue to serve until their successors are appointed and qualified, except that no such member of the Commission shall continue to serve (1) for more than sixty days when the Congress is in session unless a nomination to fill such vacancy shall have been submitted to the Senate, or (2) after the adjournment sine die of the session of the Senate in which such nomination was submitted. The President shall designate one member to serve as Chairman of the Commission, and one member to serve as Vice Chairman. The Chairman shall be responsible on behalf of the Commission for the administrative operations of the Commission, and, except as provided in subsection (b) of this section, shall appoint, in accordance with the provisions of title 5 governing appointments in the competitive service, such officers, agents, attorneys, administrative law judges, and employees as he deems necessary to assist it in the performance of its functions and to fix their compensation in accordance with the provisions of chapter 51 and subchapter III of chapter 53 oftitle 5, relating to classification and General Schedule pay rates: <i>Provided</i>, That assignment, removal, and compensation of administrative law judges shall be in accordance with sections 3105, 3344, 5372, and 7521 of title 5.
+There is hereby created a Commission to be known as the Equal Employment Opportunity Commission, which shall be composed of fivemembers, not more than three of whom shall be members of the same political party. Members of the Commission shall be appointed by the President by and with the advice and consent of the Senate for a term of five years. Any individual chosen to fill a vacancy shall be appointed only for the unexpired term of the member whom he shall succeed, and all members of the Commission shall continue to serve until their successors are appointed and qualified, except that no such member of the Commission shall continue to serve (1) for more than sixty days when the Congress is in session unless a nomination to fill such vacancy shall have been submitted to the Senate, or (2) after the adjournment sine die of the session of the Senate in which such nomination was submitted. The President shall designate one member to serve as Chairman of the Commission, and one member to serve as Vice Chairman. The Chairman shall be responsible on behalf of the Commission for the administrative operations of the Commission, and, except as provided in subsection (b) of this section, shall appoint, in accordance with the provisions of title 5 governing appointments in the competitive service, such officers, agents, attorneys, administrative law judges, and employees as he deems necessary to assist it in the performance of its functions and to fix their compensation in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates: <i>Provided</i>, That assignment, removal, and compensation of administrative law judges shall be in accordance with sections 3105, 3344, 5372, and 7521 of title 5.
 
 #### (b) General Counsel; appointment; term; duties; representation by attorneys and Attorney General
 
@@ -68,7 +68,7 @@ All officers, agents, attorneys, and employees of the Commission shall be subjec
 
 #### (k) EEOC Education, Technical Assistance, and Training Revolving Fund
 
-(1) There is hereby established in the Treasury of the United States a revolving fund to beknown as the “EEOC Education, Technical Assistance, and Training Revolving Fund” (hereinafter in this subsection referred to as the “Fund”) and to pay the cost (including administrative and personnel expenses) of providing education, technical assistance, and training relating to laws administered by the Commission. Monies in the Fund shall be available without fiscal year limitation to the Commission for such purposes.
+(1) There is hereby established in the Treasury of the United States a revolving fund to be known as the “EEOC Education, Technical Assistance, and Training Revolving Fund” (hereinafter in this subsection referred to as the “Fund”) and to pay the cost (including administrative and personnel expenses) of providing education, technical assistance, and training relating to laws administered by the Commission. Monies in the Fund shall be available without fiscal year limitation to the Commission for such purposes.
 
 (2)(A) The Commission shall charge fees in accordance with the provisions of this paragraph to offset the costs of education, technical assistance, and training provided with monies in the Fund. Such fees for any education, technical assistance, or training—
 
@@ -130,7 +130,7 @@ Subsecs. (b) to (e). Pub. L. 92–261, §8(e), added subsec. (b), struck out sub
 
 Subsec. (g)(6). Pub. L. 92–261, §8(f), substituted provisions which authorized Commission to intervene in a civil action brought under section 2000e–5 of this title where respondent is other than a government, governmental agency, or political subdivision for provisions which authorized Commission to refer matters to Attorney General with recommendations to intervene or institute civil actions.
 
-Subsecs. (h) to (j). Pub. L. 92–261, §8(e)(2), (3), struck out subsec. (h) which provided for legal representationfor Commission, and redesignated subsecs. (i) and (j) as (h) and (i), respectively.
+Subsecs. (h) to (j). Pub. L. 92–261, §8(e)(2), (3), struck out subsec. (h) which provided for legal representation for Commission, and redesignated subsecs. (i) and (j) as (h) and (i), respectively.
 
 #### Effective Date of 1991 Amendment
 
@@ -224,7 +224,7 @@ In addition, the Labor Department enforces the Equal Pay Act of 1963 \[section 2
 
 <i>The Equal Employment Opportunity Coordinating Council</i> includes representatives from EEOC, Labor, Justice, CSC and the Civil Rights Commission. It is charged with coordinating the Federal equal employment opportunity enforcement effort and with eliminating overlap and inconsistent standards.
 
-In addition to these major government units, other agencies enforce various equal employment opportunity requirements which apply to specific grant programs. The Department of the Treasury, for example, administers the anti-discrimination prohibitions applicable to recipients of revenue sharing funds.
+In addition to these major government units, other agencies enforce various equal employment opportunity requirements which apply to specific grant programs. The Department of the Treasury, for example,administers the anti-discrimination prohibitions applicable to recipients of revenue sharing funds.
 
 These programs have had only limited success. Some of the past deficiencies include:
 
@@ -350,7 +350,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12144, June 22, 1979, 44 F.R. 37193, provided:
 
-By the authority vested in me as President of the United States of America by the Constitution and laws of the United States, including Section 9 of Reorganization Plan No. 1 of 1978 (43 FR 19807) \[set out above\], in order to effectuate the transfer of certain functions relating to the enforcement of equal pay and age discrimination in employment programs from the Department of Labor to the Equal Employment Opportunity Commission, it is hereby ordered as follows:
+By the authority vested in me as President of the United States of America by the Constitution and lawsof the United States, including Section 9 of Reorganization Plan No. 1 of 1978 (43 FR 19807) \[set out above\], in order to effectuate the transfer of certain functions relating to the enforcement of equal pay and age discrimination in employment programs from the Department of Labor to the Equal Employment Opportunity Commission, it is hereby ordered as follows:
 
 1–101. Sections 1 and 2 of Reorganization Plan No. 1 of 1978 (43 FR 19807) \[set out as a note above\] shall become effective on July 1, 1979, with the exception of the transfer of functions from the Civil Service Commission, already effective January 1, 1979 (Executive Order No. 12106 \[set out above\]).
 
@@ -361,10 +361,6 @@ By the authority vested in me as President of the United States of America by th
 1–104. This Order shall be effective July 1, 1979.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12111, 12117 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

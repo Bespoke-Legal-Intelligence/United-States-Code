@@ -8,7 +8,3 @@ In order to further the policy enunciated in sections 461 to 467 of this title, 
 
 Section 7 of act Oct. 26, 1949, provided that: “The right to repeal, alter or amend this Act \[sections 468 to 468d of this title\] at any time is hereby expressly reserved, but no contract or individual right made or acquired shall thereby be divested or impaired.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 468c, 468d, 470a, 5406 of this title.
-

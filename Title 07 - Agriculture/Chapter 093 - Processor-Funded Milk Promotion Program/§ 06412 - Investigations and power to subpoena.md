@@ -36,7 +36,3 @@ The site of any hearings held under section 6410 or 6411 of this title shall be 
 
 (Pub. L. 101–624, title XIX, §1999M, Nov. 28, 1990, 104 Stat. 3924.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6402 of this title.
-

@@ -36,11 +36,11 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 &emsp;Subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995.
 
-#### (2) General Accounting Office and Library of Congress
+#### (2) Government Accountability Office and Library of Congress
 
 &emsp;Subsection (c) of this section shall be effective 1 year after transmission to the Congress of the study under section 1371 of this title.
 
-(Pub. L. 104–1, title II, §202, Jan. 23, 1995, 109 Stat. 9.)
+(Pub. L. 104–1, title II, §202, Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -52,7 +52,7 @@ Subsection (c) of this section, referred to in subsec. (e)(2), amended section 6
 
 Section is comprised of section 202 of Pub. L. 104–1. Subsec. (c) of section 202 of Pub. L. 104–1 amended section 6381 of Title 5, Government Organization and Employees, and sections 2611 and 2617 of Title 29, Labor.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 1435 of this title.
+2004—Subsec. (e)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
 

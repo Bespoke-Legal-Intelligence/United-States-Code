@@ -8,7 +8,3 @@ A bank that transfers, presents, or returns a substitute check and receives cons
 
 (Pub. L. 108–100, §5, Oct. 28, 2003, 117 Stat. 1181.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5003, 5005 of this title.
-

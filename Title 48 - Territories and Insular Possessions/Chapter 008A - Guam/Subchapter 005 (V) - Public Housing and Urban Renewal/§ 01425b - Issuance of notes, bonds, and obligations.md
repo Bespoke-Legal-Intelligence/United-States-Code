@@ -12,7 +12,3 @@ The Organic Act of Guam, referred to in text, is act Aug. 1, 1950, ch. 512, 64 S
 
 Section was not enacted as part of the Organic Act of Guam which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1425d of this title.
-

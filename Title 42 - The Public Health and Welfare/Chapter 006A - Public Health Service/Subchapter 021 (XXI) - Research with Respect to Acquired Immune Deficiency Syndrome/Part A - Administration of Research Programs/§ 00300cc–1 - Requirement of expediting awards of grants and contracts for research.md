@@ -12,7 +12,7 @@ The Secretary shall expedite the award of grants, contracts, and cooperative agr
 
 &emsp;(B) shall be awarded, or otherwise finally acted upon, not later than the expiration of the 6-month period beginning on the expiration of the period described in subparagraph (A).
 
-(2) If the Secretary makes a determination that it is not practicable to administer a program referred to in paragraph (1) in accordance with the time limitations described in suchparagraph, the Secretary may adjust the time limitations accordingly.
+(2) If the Secretary makes a determination that it is not practicable to administer a program referred to in paragraph (1) in accordance with the time limitations described in such paragraph, the Secretary may adjust the time limitations accordingly.
 
 #### (c) Requirements with respect to adjustments in time limitations
 
@@ -45,6 +45,8 @@ For fiscal year 1989, the report required in subsection (d) of this section shal
 A prior section 300cc–1, act July 1, 1944, §2302, was successively renumbered by subsequent acts and transferred, see section 238a of this title.
 
 #### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—APPOINTMENTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 4010a, 4153 of this title.
-
 
 ---
 

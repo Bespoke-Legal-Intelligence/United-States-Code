@@ -48,9 +48,5 @@ The Secretary shall periodically review the written requests for guidance submit
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receivingwritten notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1234a of this title.
+Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
 

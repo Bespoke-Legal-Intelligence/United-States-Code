@@ -76,7 +76,7 @@ Whenever the owner of a pole, duct, conduit, or right-of-way intends to modify o
 
 An entity that obtains an attachment to a pole, conduit, or right-of-way shall not be required to bear any of the costs of rearranging or replacing its attachment, if such rearrangement or replacement is required as a result of an additional attachment or the modification of an existing attachment sought by any other entity (including the owner of such pole, duct, conduit, or right-of-way).
 
-(June 19, 1934, ch. 652, title II, §224, as added Pub. L. 95–234, §6, Feb. 21, 1978, 92 Stat. 35;amended Pub. L. 97–259, title I, §106, Sept. 13, 1982, 96 Stat. 1091; Pub. L. 98–549, §4, Oct. 30, 1984, 98 Stat. 2801; Pub. L. 103–414, title III, §304(a)(7), Oct. 25, 1994, 108 Stat. 4297; Pub. L. 104–104, title VII, §703, Feb. 8, 1996, 110 Stat. 149.)
+(June 19, 1934, ch. 652, title II, §224, as added Pub. L. 95–234, §6, Feb. 21, 1978, 92 Stat. 35; amended Pub. L. 97–259, title I, §106, Sept. 13, 1982, 96 Stat. 1091; Pub. L. 98–549, §4, Oct. 30, 1984, 98 Stat. 2801; Pub. L. 103–414, title III, §304(a)(7), Oct. 25, 1994, 108 Stat. 4297; Pub. L. 104–104, title VII, §703, Feb. 8, 1996, 110 Stat. 149.)
 
 #### Amendments
 
@@ -107,10 +107,6 @@ Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, except wher
 #### Effective Date
 
 Section effective on thirtieth day after Feb. 21, 1978, see section 7 of Pub. L. 95–234, set out as an Effective Date of 1978 Amendment note under section 152 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 152, 251, 271 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “nondiscriminatory”.</i>
 

@@ -44,7 +44,3 @@ In subsection (b), the words “The Secretaries shall report on April 1 of each 
 
 For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to the requirement to submit an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 4th item on page 150 of House Document No. 103–7.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 305 of this title.
-

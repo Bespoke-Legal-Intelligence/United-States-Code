@@ -8,7 +8,3 @@ Whoever knowingly commits, instigates, or assists in any act forbidden by sectio
 
 Section was not enacted as part of the Submarine Cable Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 34, 36, 38, 39 of this title.
-

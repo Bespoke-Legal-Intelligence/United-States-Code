@@ -1,9 +1,5 @@
 Part F—Benefits
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 10133 of this title.
-
 
 ---
 

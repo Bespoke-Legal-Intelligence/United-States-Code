@@ -122,7 +122,3 @@ Section 2051(f) of Pub. L. 103–355 provided that: “The amendments made by th
 
 The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 257, 262 of this title; title 8 section 1363a; title 19 section 2081; title 26 section 7608.
-

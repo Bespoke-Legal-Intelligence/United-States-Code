@@ -10,7 +10,3 @@ Within one year of November 29, 1990, the Task Force shall, in consultation with
 
 Pub. L. 104–332, §2(g), substituted “Congress” for “appropriate Committees”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4741 of this title.
-

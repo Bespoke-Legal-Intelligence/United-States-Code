@@ -98,7 +98,7 @@ In enrolling a loan under the Program, the participating State shall contribute 
 
 #### (2) Timing
 
-&emsp;Any claim filed under paragraph (1) shall be filed contemporaneously with the action of the participating financial institution to charge off all or part of an enrolled loan. The participating financial institution shall determine when and how much to charge off on an enrolled loan, in a manner consistent with its usual method for making such determinations on business loans that are not enrolled loans under this subchapter.
+&emsp;Any claim filed under paragraph (1) shall be filed contemporaneously with the action ofthe participating financial institution to charge off all or part of an enrolled loan. The participating financial institution shall determine when and how much to charge off on an enrolled loan, in a manner consistent with its usual method for making such determinations on business loans that are not enrolled loans under this subchapter.
 
 #### (<i>l</i>) Elements of claims
 
@@ -112,7 +112,7 @@ A claim filed by a participating financial institution may include the amount of
 
 #### (2) Insufficient reserve funds
 
-&emsp;If there are insufficient funds in the reserve fund to cover the entire amount of a claim of a participating financial institution, the participating State shall pay to the participatingfinancial institution an amount equal to the current balance in the reserve fund. If the enrolled loan for which the claim has been filed—
+&emsp;If there are insufficient funds in the reserve fund to cover the entire amount of a claim of a participating financial institution, the participating State shall pay to the participating financial institution an amount equal to the current balance in the reserve fund. If the enrolled loan for which the claim has been filed—
 
 &emsp;&emsp;(A) is not an early loan, such payment shall be deemed fully to satisfy the claim, and the participating financial institution shall have no other or further right to receive any amount from the reserve fund with respect to such claim; or
 
@@ -191,8 +191,4 @@ The participation agreement may provide that, if, for any consecutive period of 
 &emsp;If the Fund determines that the inclusion in a participation agreement of the provisions authorized by this subsection is resulting in the enrollment of loans under the Program that are likely to have been made without assistance provided under this subchapter, the Fund may notify the participating State that henceforth, the Fund will only make reimbursements to the State under section 4747 of this title with respect to a loan if the participation agreement between the participating State and each participating financial institution has been amended to conform with this section, without exercise of the special authority granted by this subsection.
 
 (Pub. L. 103–325, title II, §255, Sept. 23, 1994, 108 Stat. 2207.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4743, 4748 of this title.
 

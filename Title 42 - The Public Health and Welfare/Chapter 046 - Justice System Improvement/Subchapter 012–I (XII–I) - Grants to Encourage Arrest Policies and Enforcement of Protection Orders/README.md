@@ -1,9 +1,5 @@
 ### SUBCHAPTER XII–I—GRANTS TO ENCOURAGE ARREST POLICIES AND ENFORCEMENT OF PROTECTION ORDERS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3782, 3793 of this title.
-
 
 ---
 

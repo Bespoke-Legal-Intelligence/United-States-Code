@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (4) Short life cycle merchandise
 
-&emsp;The term “short life cycle merchandise” means any product that the Commission determines is likely to become outmoded within 4 years, by reason of technological advances, after the product is commercially available.For purposes of this paragraph, the term “outmoded” refers to a kind of style that is no longer state-of-the-art.
+&emsp;The term “short life cycle merchandise” means any product that the Commission determines is likely to become outmoded within 4 years, by reason of technological advances, after the product is commercially available. For purposes of this paragraph, the term “outmoded” refers to a kind of style that is no longer state-of-the-art.
 
 #### (c) Transitional rules
 
@@ -139,8 +139,4 @@ A prior section, act June 17, 1930, ch. 497, title VII, §739, as added July 26,
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1673b of this title.
 

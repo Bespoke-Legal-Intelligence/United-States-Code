@@ -4,10 +4,6 @@
 
 Title I of the Elementary and Secondary Education Act of 1965, comprising this subchapter, was originally enacted as part of Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, amended, and subsequently revised, restated, and amended by other public laws. Title I is shown, herein, as having been added by Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1439, without reference to earlier amendments because of the extensive revision of the title's provisions by Pub. L. 107–110. See Codification note preceding this chapter.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1087ee, 1087ii, 1401, 1413, 5861, 5891b, 6212, 6641, 6966, 7305a, 7305b, 7424, 7801, 7821, 7907, 7941, 9252, 9563, 9602 of this title; title 8 section 1255a; title 10 sections 1598, 2410; title 25 section 2503; title 29 section 774; title 42 sections 9837a, 11432, 11433, 12524.
-
 
 ---
 

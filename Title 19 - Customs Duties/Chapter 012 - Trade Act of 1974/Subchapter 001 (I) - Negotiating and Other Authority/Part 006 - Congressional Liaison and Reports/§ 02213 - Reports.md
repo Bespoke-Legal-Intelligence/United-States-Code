@@ -30,7 +30,7 @@
 
 &emsp;(J) other information relating to the trade agreements program and to the agreements entered into thereunder; and
 
-&emsp;(K) the number of applications filed for adjustment assistance for workers and firms, thenumber of such applications which were approved, and the extent to which adjustment assistance has been provided under such approved applications.
+&emsp;(K) the number of applications filed for adjustment assistance for workers and firms, the number of such applications which were approved, and the extent to which adjustment assistance has been provided under such approved applications.
 
 (3)(A) The national trade policy agenda required under paragraph (1)(B) for the year in which a report is submitted shall be in the form of a statement of—
 
@@ -246,7 +246,7 @@ Issues to be addressed.—The Commission shall examine and report to the Preside
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) any impact of the merchandise trade and current account deficits on the defense production and innovation capabilities of the United States; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) trade deficits within individual industrial, manufacturing, and production sectors,and any relationship between such deficits and the increasing volume of intra-industry and intra-company transactions;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) trade deficits within individual industrial, manufacturing, and production sectors, and any relationship between such deficits and the increasing volume of intra-industry and intra-company transactions;
 
 &emsp;&emsp;&emsp;“(ii) a review of the adequacy and accuracy of the current collection and reporting of import and export data, and the identification and development of additional data bases and economic measurements that may be needed to properly quantify the merchandise trade and current account balances, and any impact the merchandise trade and current account balances may have on the United States economy; and
 
@@ -352,7 +352,7 @@ Support Services.—The Administrator of the General Services Administration sha
 
 “(i)
 
-Appropriations.—There are appropriated $2,000,000 to the Commission to carry out the provisionsof this section. Amounts appropriated pursuant to this subsection shall remain available until the date which is 90 days after the date on which the Commission submits the final report described in subsection (e).
+Appropriations.—There are appropriated $2,000,000 to the Commission to carry out the provisions of this section. Amounts appropriated pursuant to this subsection shall remain available until the date which is 90 days after the date on which the Commission submits the final report described in subsection (e).
 
 “(j)
 
@@ -361,8 +361,4 @@ Federal Advisory Committee Act.—The provisions of the Federal Advisory Committ
 “(k)
 
 Termination.—The Commission shall terminate 90 days after the date on which the Commission submits the final report under subsection (e).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2514, 3533 of this title.
 

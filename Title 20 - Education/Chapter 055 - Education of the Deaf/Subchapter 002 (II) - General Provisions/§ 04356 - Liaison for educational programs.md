@@ -2,7 +2,7 @@
 
 #### (a) Designation of liaison
 
-Not later than 30 days after August 4, 1986, the Secretary shall designate an individual in the Office of Special Education and Rehabilitative Services of the Department of Education from among individuals who have experience in the education of individuals who are deaf to serve asliaison between the Department and Gallaudet University, the National Technical Institute for the Deaf, and other postsecondary educational programs for individuals who are deaf under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and other Federal or non-Federal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing.
+Not later than 30 days after August 4, 1986, the Secretary shall designate an individual in the Office of Special Education and Rehabilitative Services of the Department of Education from among individuals who have experience in the education of individuals who are deaf to serve as liaison between the Department and Gallaudet University, the National Technical Institute for the Deaf, and other postsecondary educational programs for individuals who are deaf under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and other Federal or non-Federal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing.
 
 #### (b) Duties of liaison
 
@@ -22,7 +22,7 @@ Nothing in this section may be construed to affect the authority of the Secretar
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. Forcomplete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 

@@ -26,7 +26,3 @@ Section was not enacted as part of the Migratory Bird Conservation Act which com
 
 Pub. L. 87–383, which enacted this section and sections 715k–4 and 715k–5 of this title, is popularly known as the “Wetlands Loan Act”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 715k–4 of this title.
-

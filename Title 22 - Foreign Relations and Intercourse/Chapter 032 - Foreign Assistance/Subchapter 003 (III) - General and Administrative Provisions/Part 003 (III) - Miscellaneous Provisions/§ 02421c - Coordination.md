@@ -12,7 +12,3 @@ Sections 2421a to 2421e of this title, referred to in text, was in the original 
 
 Section was enacted as part of the Aid, Trade, and Competitiveness Act of 1992 and also as part of the Jobs Through Exports Act of 1992, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2421e of this title.
-

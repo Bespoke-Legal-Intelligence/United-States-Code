@@ -12,7 +12,3 @@ The director of each national laboratory of the Department of Energy that is par
 
 (Pub. L. 100–180, div. C, title I, §3147, Dec. 4, 1987, 101 Stat. 1244.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4628 of this title.
-

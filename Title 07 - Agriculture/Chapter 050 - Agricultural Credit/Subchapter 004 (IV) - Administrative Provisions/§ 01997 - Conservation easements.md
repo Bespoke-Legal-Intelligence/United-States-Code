@@ -100,7 +100,7 @@ Subsec. (h). Pub. L. 101–624, §1815(9), struck out subsec. (h) which read as 
 
 1988—Subsec. (c)(4). Pub. L. 100–233, §612(1), inserted “and other wildlife habitat” after “wetland”.
 
-Subsec. (e). Pub. L. 100–233, §612(2), inserted “or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater” at end of second sentence.
+Subsec. (e). Pub. L. 100–233, §612(2), inserted “or the difference between the amount of the outstanding loansecured by the land and the current value of the land, whichever is greater” at end of second sentence.
 
 #### Effective Date of 1996 Amendment
 

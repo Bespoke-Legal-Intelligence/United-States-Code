@@ -4,7 +4,3 @@ The Oregon Department of Transportation shall, in consultation with the Secretar
 
 (Pub. L. 99–663, §12, Nov. 17, 1986, 100 Stat. 4293.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 544 to 544i, 544<i>l</i> to 544p of this title.
-

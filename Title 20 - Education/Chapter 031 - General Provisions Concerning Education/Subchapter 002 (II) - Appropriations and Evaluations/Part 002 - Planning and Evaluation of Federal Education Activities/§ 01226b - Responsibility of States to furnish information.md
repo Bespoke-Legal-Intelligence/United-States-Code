@@ -26,7 +26,7 @@ If the Secretary does not receive a report by the date required under subsection
 
 #### (d) Availability of information
 
-When the Secretary receives a report required under subsection (a) of this section, the Secretary shall provide such information to the National Center for Education Statistics, and shall make such information available, at a reasonable cost, to any individual who requests such information.
+When the Secretary receives a report required under subsection (a) of this section, the Secretary shall provide such information to the National Center for Education Statistics, and shallmake such information available, at a reasonable cost, to any individual who requests such information.
 
 #### (e) Congressional telecommunications network
 
@@ -61,6 +61,8 @@ Another prior section 424 of Pub. L. 90–247 was renumbered section 433, and is
 Another prior section 424 of Pub. L. 90–247 was renumbered section 434, and was classified to section 1232c of this title prior to repeal by Pub. L. 95–561.
 
 #### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 

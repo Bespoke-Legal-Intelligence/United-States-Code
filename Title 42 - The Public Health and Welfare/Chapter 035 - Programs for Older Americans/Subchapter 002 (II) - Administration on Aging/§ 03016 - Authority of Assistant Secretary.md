@@ -28,7 +28,7 @@
 
 &emsp;(vi) defining a long range role for the nutrition services in community-based care systems;
 
-&emsp;(vii) developing model menus and other appropriate materials for serving special needs populations and meeting cultural meal preferences; and
+&emsp;(vii) developing model menus and other appropriate materials for serving special needspopulations and meeting cultural meal preferences; and
 
 &emsp;(viii) providing technical assistance to the regional offices of the Administration with respect to each duty described in clauses (i) through (vii).
 

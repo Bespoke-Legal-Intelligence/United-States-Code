@@ -12,7 +12,7 @@
 
 #### (2) Consent required
 
-&emsp;Notwithstanding any other provision of law, whenever a motor vehicle franchise contract provides for the use of arbitration to resolve a controversy arising out of or relating to such contract, arbitration may be used to settlesuch controversy only if after such controversy arises all parties to such controversy consent in writing to use arbitration to settle such controversy.
+&emsp;Notwithstanding any other provision of law, whenever a motor vehicle franchise contract provides for the use of arbitration to resolve a controversy arising out of or relating to such contract, arbitration may be used to settle such controversy only if after such controversy arises all parties to such controversyconsent in writing to use arbitration to settle such controversy.
 
 #### (3) Explanation required
 

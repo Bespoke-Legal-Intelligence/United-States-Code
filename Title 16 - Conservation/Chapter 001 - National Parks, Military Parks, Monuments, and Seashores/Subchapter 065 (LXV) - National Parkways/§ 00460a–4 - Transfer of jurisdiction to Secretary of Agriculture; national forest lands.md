@@ -8,7 +8,3 @@ When in his judgment the public interest will be served thereby, the Secretary o
 
 The Weeks Law of March 1, 1911 (36 Stat. 961), as amended, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, which is classified to sections 480, 500, 513 to 519, 521, 552 and 563 of this title. For complete classification of this Act to the Code, see Short title note set out under section 552 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460a–9 of this title.
-

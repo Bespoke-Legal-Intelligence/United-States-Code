@@ -18,15 +18,11 @@ Within 1 year after October 31, 1994, the Secretary shall, after consultation wi
 
 #### (c) Conclusive proof of United Auburn Indian Community ancestry
 
-For the purpose of subsection (b) of this section, the Secretary shall accept any available evidence establishing United Auburn IndianCommunity ancestry. The Secretary shall accept as conclusive evidence of United Auburn Indian Community ancestry information contained in the Auburn Indian Rancheria distribution list compiled by the Bureau of Indian Affairs on August 13, 1959.
+For the purpose of subsection (b) of this section, the Secretary shall accept any available evidence establishing United Auburn Indian Community ancestry. The Secretary shall accept as conclusive evidence of United Auburn Indian Community ancestry information contained in the Auburn Indian Rancheria distribution list compiled by the Bureau of Indian Affairs on August 13, 1959.
 
 (Pub. L. 103–434, title II, §205, Oct. 31, 1994, 108 Stat. 4534.)
 
 #### References in Text
 
 Public Law 85–671, referred to in subsec. (b)(1)(A), (B), is Pub. L. 85–671, Aug. 18, 1958, 72 Stat. 619, which is not classified to the Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300<i>l</i>–4, 1300<i>l</i>–5, 1300<i>l</i>–6 of this title.
 

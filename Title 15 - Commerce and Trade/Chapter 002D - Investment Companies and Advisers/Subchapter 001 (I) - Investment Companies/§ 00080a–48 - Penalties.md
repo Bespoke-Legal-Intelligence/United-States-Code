@@ -12,7 +12,3 @@ Any person who willfully violates any provision of this subchapter or of any rul
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–6, 80a–35, 80a–36, 80a–58 of this title.
-

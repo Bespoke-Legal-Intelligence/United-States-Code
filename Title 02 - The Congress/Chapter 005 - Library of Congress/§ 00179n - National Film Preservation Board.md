@@ -52,7 +52,7 @@ The Librarian shall appoint one member of the Board to serve as Chair.
 
 #### (1) Terms
 
-&emsp;The term of each member of the Board shall be 4 years, except that there shall be no limitto the number of terms that any individual member may serve.
+&emsp;The term of each member of the Board shall be 4 years, except that there shall be no limit to the number of terms that any individual member may serve.
 
 #### (2) Removal of member or organization
 
@@ -82,11 +82,7 @@ The Librarian shall establish rules and procedures to address any potential conf
 
 #### Termination of Section
 
-<i>For termination of section, see section 179w of this title.</i>
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 179<i>l</i>, 179m, 179s, 179t, 179u, 179v, 179w of this title.
+<i>For termination of section, see section 179w of this title and section 1205(a) of Pub. L. 108–447, set out as an Effective Date Extension note under section 179w of this title.</i>
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

@@ -6,7 +6,7 @@ If Congress fails to appropriate an amount authorized under section 2401(c) of t
 
 #### Amendments
 
-1993—Pub. L. 103–123 substituted “free rates” for “free and reduced rates” in section catchline and “sent free of postage under section 3217 or 3403–3406” for “sent ata free or reduced rate under section 3217, 3403–3406, 3626, or 3629 of this title,” in text.
+1993—Pub. L. 103–123 substituted “free rates” for “free and reduced rates” in section catchline and “sent free of postage under section 3217 or 3403–3406” for “sent at a free or reduced rate under section 3217, 3403–3406, 3626, or 3629 of this title,” in text.
 
 Pub. L. 103–31 substituted “3626, or 3629 of this title” for “or 3626 of this title,”.
 
@@ -23,10 +23,6 @@ Amendment by Pub. L. 103–31 effective (1) with respect to a State that, on May
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–410 applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under section 1973ff of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3684 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of this title,”.</i>
 

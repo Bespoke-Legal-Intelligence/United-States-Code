@@ -34,7 +34,3 @@ Factors To Consider.—In making the efforts described in subsection (a), the Fe
 
 &emsp;“(4) advise executive branch agencies of methods for the United States to persuade foreign governments to reduce the surcharges that are often placed on such telephone calls.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 152, 251, 332 of this title.
-

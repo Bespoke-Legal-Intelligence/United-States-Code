@@ -6,7 +6,7 @@ The Commissioner shall make grants under this section to States on a formula bas
 
 #### (b) Application
 
-To be eligible to receive a grant under this section, the chief executive officer of a State shall prepare and submit to the Commissioneran application containing a plan providing assurances that—
+To be eligible to receive a grant under this section, the chief executive officer of a State shall prepare and submit to the Commissioner an application containing a plan providing assurances that—
 
 &emsp;(1) the independent State body is committed to interagency planning that results in statewide policies promoting systematic collaboration among agencies on behalf of young individuals as demonstrated by joint planning, joint financing, joint service delivery, common intake and assessment, and other arrangements that reduce barriers to services and promote more effective local service delivery systems for young individuals;
 
@@ -81,10 +81,6 @@ If a State intends to apply for a grant under section 12339 <sup>2</sup> of thi
 #### References in Text
 
 Section 12339 of this title, referred to in subsec. (f), was repealed by Pub. L. 103–252, title IV, §401(b)(1), May 18, 1994, 108 Stat. 672.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12333, 12335, 12336, 12338, 12340 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (d) has been enacted.</i>
 

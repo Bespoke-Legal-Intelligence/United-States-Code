@@ -34,7 +34,7 @@ A comprehensive statewide outdoor recreation plan shall be required prior to the
 
 &emsp;(4) other necessary information, as may be determined by the Secretary.
 
-> The plan shall take into account relevant Federal resources and programs and shall be correlated so far as practicable with other State, regional, and local plans. Where there exists or is in preparation for any particular State a comprehensive plan financed in part with funds supplied by the Housing and Home Finance Agency, any statewide outdoor recreation plan preparedfor purposes of this part shall be based upon the same population, growth, and other pertinent factors as are used in formulating the Housing and Home Finance Agency financed plans.
+> The plan shall take into account relevant Federal resources and programs and shall be correlated so far as practicable with other State, regional, and local plans. Where there exists or is in preparation for any particular State a comprehensive plan financed in part with funds supplied by the Housing and Home Finance Agency, any statewide outdoor recreation plan prepared for purposes of this part shall be based upon the same population, growth, and other pertinent factors as are used in formulating the Housing and Home Finance Agency financed plans.
 
 The Secretary may provide financial assistance to any State for projects for the preparation of a comprehensive statewide outdoor recreation plan when such plan is not otherwise available or for the maintenance of such plan.
 
@@ -58,7 +58,7 @@ In addition to assistance for planning projects, the Secretary may provide finan
 
 (3) No property acquired or developed with assistance under this section shall, without the approval of the Secretary, be converted to other than public outdoor recreation uses. The Secretary shall approve such conversion only if he finds it to be in accord with the then existing comprehensive statewide outdoor recreation plan and only upon such conditions as he deems necessary to assure the substitution of other recreation properties of at least equal fair market value and of reasonably equivalent usefulness and location.: <sup>2</sup> <i>Provided</i>, That wetland areas and interests therein as identified in the wetlands provisions of the comprehensive plan and proposed to be acquired as suitable replacement property within that same State that is otherwise acceptable to the Secretary, acting through the Director of the National Park Service, shall be considered to be of reasonably equivalent usefulness with the property proposed for conversion.
 
-(4) No payment shall be made to any State until the State has agreed to (1) provide such reports to the Secretary, in such form and containing such information, as may be reasonably necessary to enable the Secretary to perform his duties under this part, and (2) provide such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting for Federal funds paid to the State under this part.
+(4) No payment shall be made to any State until the State has agreed to (1) provide such reports to the Secretary, in such form and containing such information, as may be reasonably necessary to enable the Secretary to perform his duties under this part, and (2) provide such fiscal control and fund accounting procedures asmay be necessary to assure proper disbursement and accounting for Federal funds paid to the State under this part.
 
 (5) Each recipient of assistance under this part shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
@@ -114,7 +114,7 @@ A prior section 6 of Pub. L. 88–578 was renumbered section 7 and is classified
 
 Subsec. (h). Pub. L. 103–322 added subsec. (h).
 
-1986—Subsec. (d). Pub. L. 99–645, §303(1), inserted provision requiring that for fiscal year 1988 and thereafter, each comprehensive statewide outdoor recreation planspecifically address wetlands within the State as an important outdoor recreation resource, or alternatively, submission of a wetlands priority plan developed in consultation with the State agency responsible for fish and wildlife resources in the State.
+1986—Subsec. (d). Pub. L. 99–645, §303(1), inserted provision requiring that for fiscal year 1988 and thereafter, each comprehensive statewide outdoor recreation plan specifically address wetlands within the State as an important outdoor recreation resource, or alternatively, submission of a wetlands priority plan developed in consultation with the State agency responsible for fish and wildlife resources in the State.
 
 Subsec. (e)(1). Pub. L. 99–645, §303(2), inserted “, or wetland areas and interests therein as identified in the wetlands provisions of the comprehensive plan”.
 
@@ -153,10 +153,6 @@ All functions of the Housing and Home Finance Agency and the Administrator there
 #### Executive Order No. 11237
 
 Ex. Ord. No. 11237, July 27, 1965, 30 F.R. 9433, which related to coordinating planning and acquisition of land under outdoor recreation and open space programs, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>l</i>–17, 469k, 1250, 1282 of this title; title 23 section 206; title 42 section 3338.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

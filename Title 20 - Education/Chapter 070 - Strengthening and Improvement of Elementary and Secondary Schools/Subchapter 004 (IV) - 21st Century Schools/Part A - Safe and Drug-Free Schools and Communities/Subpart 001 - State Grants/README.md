@@ -1,9 +1,5 @@
 subpart 1—state grants
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 5891b, 7103, 7321a of this title.
-
 
 ---
 

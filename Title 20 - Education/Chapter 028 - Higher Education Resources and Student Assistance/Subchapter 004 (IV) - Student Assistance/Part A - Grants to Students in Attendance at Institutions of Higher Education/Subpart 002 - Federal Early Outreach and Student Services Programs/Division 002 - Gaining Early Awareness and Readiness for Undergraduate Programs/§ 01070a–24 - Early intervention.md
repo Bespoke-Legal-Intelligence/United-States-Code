@@ -86,7 +86,3 @@ A prior section 1070a–24, Pub. L. 89–329, title IV, §404D, as added Pub. L.
 
 1999—Subsec. (c)(2). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1070a–23, 1070a–25 of this title.
-

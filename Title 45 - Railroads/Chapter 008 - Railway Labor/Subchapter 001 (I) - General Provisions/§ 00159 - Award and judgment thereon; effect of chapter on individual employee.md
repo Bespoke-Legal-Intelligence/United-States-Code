@@ -32,7 +32,7 @@ The determination of said court of appeals upon said questions shall be final, a
 
 #### Seventh. Judgment where petitioner's contentions are sustained
 
-If the petitioner's contentions are finally sustained, judgment shall be entered setting aside the award in whole or, if the parties so agree, in part; but in such case the parties may agree upon a judgment to be entered disposing of the subject matter of the controversy, which judgment when entered shall have the same force and effect as judgment entered upon an award.
+If the petitioner's contentions are finally sustained, judgment shall be entered setting aside the award in whole or, if the parties so agree, in part; but in such case the parties may agreeupon a judgment to be entered disposing of the subject matter of the controversy, which judgment when entered shall have the same force and effect as judgment entered upon an award.
 
 #### Eighth. Duty of employee to render service without consent; right to quit
 

@@ -4,7 +4,7 @@
 
 Of the funds provided to a State library administrative agency under section 9123 of this title, such agency shall expend, either directly or through subgrants or cooperative agreements, at least 96 percent of such funds for—
 
-&emsp;(1) expanding services for learning and access to information and educational resourcesin a variety of formats, in all types of libraries, for individuals of all ages;
+&emsp;(1) expanding services for learning and access to information and educational resources in a variety of formats, in all types of libraries, for individuals of all ages;
 
 &emsp;(2) developing library services that provide all users access to information through local, State, regional, national, and international electronic networks;
 
@@ -39,8 +39,4 @@ Each State library administrative agency receiving funds under this part may app
 “(2) targeting library and information services to persons having difficulty using a library and to underserved urban and rural communities, including children (from birth through age 17) from families with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of title 42) applicable to a family of the size involved.”
 
 Subsec. (b). Pub. L. 108–81, §206(2), substituted “among such purposes,” for “between the two purposes described in paragraphs (1) and (2) of such subsection,”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9134, 9161 of this title.
 

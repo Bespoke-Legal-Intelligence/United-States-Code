@@ -1,6 +1,6 @@
 ### §455. State taxation; lands of homestead entryman
 
-The lands of any homestead entryman under the Act of June 17, 1902, known as the Reclamation Act, or any Act amendatory thereof or supplementary thereto, and the lands of any entryman on ceded Indian lands within any Indian irrigation project, may, after satisfactory proof of residence, improvement, and cultivation, and acceptance of such proof by the Bureau of Land Management, be taxed by the State or political subdivision thereof in which such lands are located in the same manner and to the same extent as lands of a like character held under private ownership may be taxed.
+The lands of any homestead entryman under the Act of June 17, 1902, known as the Reclamation Act, or any Act amendatory thereof or supplementary thereto, and the lands of any entryman on ceded Indian lands within any Indian irrigation project, may, after satisfactory proof of residence, improvement, and cultivation, and acceptance of such proof by the Bureau of LandManagement, be taxed by the State or political subdivision thereof in which such lands are located in the same manner and to the same extent as lands of a like character held under private ownership may be taxed.
 
 (Apr. 21, 1928, ch. 394, §1, 45 Stat. 439; June 13, 1930, ch. 477, 46 Stat. 581; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 

@@ -44,7 +44,7 @@ Pub. L. 100–387, title IV, subtitle B, Aug. 11, 1988, 102 Stat. 957, provided 
 
 “(a)
 
-General Authority.—The Secretary of the Interior may make available, by contract, consistent with existing contracts or agreements and State law, water or canal capacity at existing Federal reclamation projects to water users and others, on a temporary basis to mitigate losses and damages resulting from drought conditions in 1987, 1988, and 1989.
+General Authority.—The Secretary of the Interior may make available, by contract, consistent with existing contracts or agreements and State law, water or canal capacity at existing Federal reclamation projects to water users and others, on a temporarybasis to mitigate losses and damages resulting from drought conditions in 1987, 1988, and 1989.
 
 “(b)
 
@@ -132,7 +132,7 @@ Pub. L. 101–101, title III, Sept. 29, 1989, 103 Stat. 661, provided: “That, 
 
 #### Emergency Fund
 
-Provisions relating to appropriations for the emergency fund to assure continuous operation of projects and project facilities governed by Federal reclamation law were contained in the following appropriation acts:
+Provisions relating to appropriations for the emergency fund to assure continuous operation of projectsand project facilities governed by Federal reclamation law were contained in the following appropriation acts:
 
 Pub. L. 103–316, title II, Aug. 26, 1994, 108 Stat. 1714.
 
@@ -183,8 +183,4 @@ Pub. L. 87–880, title II, Oct. 24, 1962, 76 Stat. 1221.
 #### Temporary Authority of Secretary of the Interior To Facilitate Emergency Actions With Regard to 1976–1977 Drought
 
 Pub. L. 95–18, Apr. 7, 1977, 91 Stat. 36, as amended by Pub. L. 95–107, Aug. 17, 1977, 91 Stat. 870; Pub. L. 95–226, Feb. 7, 1978, 92 Stat. 10, directed Secretary of the Interior to undertake construction, management and conservation activities designed to mitigate losses and damages to Federal reclamation projects and Indian irrigation projects resulting from 1976–1977 drought, to assist willing buyers in purchasing available water supplies from willing sellers, and to undertake studies of potential facilities to mitigate effects of a recurrence of drought and make recommendations to President and Congress evaluating potential undertakings, authorized Secretary to defer, without penalty, the 1977 installment payments on charges owed the United States and to make loans to irrigators for construction, management, conservation activities, or acquisition and transportation of water, appropriated $100,000,000 to carry out provisions of this Act and specified the availability of such funds for expenditures, directed Secretary, not later than May 1, 1978, to provide President and Congress a complete report on expenditures and accomplishments, and provided that authorities conferred by this Act terminate on Nov. 30, 1977.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 503 of this title.
 

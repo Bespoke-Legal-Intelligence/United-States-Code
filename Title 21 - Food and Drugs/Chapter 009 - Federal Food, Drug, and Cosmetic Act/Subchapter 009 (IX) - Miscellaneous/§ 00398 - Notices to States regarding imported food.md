@@ -10,7 +10,3 @@ Subsection (a) of this section may not be construed as limiting the authority of
 
 (June 25, 1938, ch. 675, §908, as added Pub. L. 107–188, title III, §310, June 12, 2002, 116 Stat. 673.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 399 of this title.
-

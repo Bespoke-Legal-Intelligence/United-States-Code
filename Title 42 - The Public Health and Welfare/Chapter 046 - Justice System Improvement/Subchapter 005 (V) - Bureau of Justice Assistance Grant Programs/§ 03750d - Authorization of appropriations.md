@@ -8,7 +8,3 @@ There are authorized to be appropriated $10,000,000 to carry out sections 3750a 
 
 Section was enacted as part of the Anti Car Theft Act of 1992, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3750a, 3750b, 3750c of this title.
-

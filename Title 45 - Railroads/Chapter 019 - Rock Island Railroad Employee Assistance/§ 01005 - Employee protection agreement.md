@@ -2,7 +2,7 @@
 
 #### (a) Authorization; time for agreement; use of funds
 
-The Secretary and the representatives of the various classes and crafts of employees of the Rock Island Railroad shall, not later than 90 days after January 14, 1983, enter into an agreement providing protection for employees of the Rock Island Railroad who are adversely affected as a result of a reduction in service by such Railroad. Such agreement may provide for the use of funds described in subsection (c) of this section for the following purposes:
+The Secretary and the representatives of the various classes and crafts of employees of the Rock Island Railroad shall, not later than 90 days after January 14, 1983, enter into an agreement providing protection for employees of the Rock Island Railroad who are adversely affectedas a result of a reduction in service by such Railroad. Such agreement may provide for the use of funds described in subsection (c) of this section for the following purposes:
 
 &emsp;(1) Subsistence allowances to employees.
 
@@ -26,7 +26,7 @@ Any agreement entered into under subsection (a) of this section, and any benefit
 
 #### (d) Administration of funds; promulgation of regulations
 
-The Board shall, in such manner as it shall prescribe by regulation, administer the distribution of funds under any agreement entered into or benefit schedule prescribed under this section, and shall determine the amount for which each employee is eligible under such agreementor benefit schedule. Such regulation shall include procedures to resolve by final and binding arbitration any dispute over an employee's eligibility or claim.
+The Board shall, in such manner as it shall prescribe by regulation, administer the distribution of funds under any agreement entered into or benefit schedule prescribed under this section, and shall determine the amount for which each employee is eligible under such agreement or benefit schedule. Such regulation shall include procedures to resolve by final and binding arbitration any dispute over an employee's eligibility or claim.
 
 (Pub. L. 96–254, title I, §106, May 30, 1980, 94 Stat. 401; Pub. L. 96–448, title VII, §701(b)(1), Oct. 14, 1980, 94 Stat. 1959; Pub. L. 97–468, title II, §231, Jan. 14, 1983, 96 Stat. 2546.)
 
@@ -63,8 +63,4 @@ Subsec. (e). Pub. L. 96–448 reenacted subsec. (e) without change.
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–448 effective Oct. 14, 1980, see section 710(d) of Pub. L. 96–448, set out as a note under section 1170 of Title 11, Bankruptcy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 727, 1007, 1012, 1014, 1018 of this title.
 

@@ -12,7 +12,7 @@ Any official of a foreign government, if such government is recognized by the Un
 
 #### (c) Staff members of diplomatic or consular officers
 
-Any member of the staff of, or any person employed by, a duly accredited diplomatic or consular officer of a foreign government who is so recognized by the Department of State, other than a public-relations counsel, publicity agent, or information-service employee, whose name and status and the character of whose duties as such member or employee are of public record in the Department of State, while said member or employee is engaged exclusively in the performance of activities which are recognized by the Department of State as being within the scope of the functions of such member or employee;
+Any member of the staff of, or any person employed by, a duly accredited diplomatic or consular officer of a foreign government who is so recognized by the Department of State, other than a public-relations counsel, publicity agent, or information-service employee, whose name and status and the character of whose duties as such member or employee are of public record in the Department of State, while said member oremployee is engaged exclusively in the performance of activities which are recognized by the Department of State as being within the scope of the functions of such member or employee;
 
 #### (d) Private and nonpolitical activities; solicitation of funds
 
@@ -73,8 +73,4 @@ Amendment by Pub. L. 89–486 effective ninety days after July 4, 1966, see sect
 #### Effective Date of 1942 Amendment
 
 Amendment by act Apr. 29, 1942, effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as a note under section 611 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 4809.
 

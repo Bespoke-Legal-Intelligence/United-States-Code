@@ -72,7 +72,7 @@ Par. (5)(C) to (E). Pub. L. 104–275, §402(a)(2), (3), redesignated subpar. (E
 
 “(C) a person assigned to, or who upon application would be eligible for assignment to, the Retired Reserve of a uniformed service who has not received the first increment of retirement pay or has not yet reached sixty-one years of age and has completed at least twenty years of satisfactory service creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act);
 
-“(D) a person transferred to the Retired Reserve of a uniformed service under the temporary special retirement authority provided in section 1331a of title 10 who has not received the first increment of retirement pay or has not reached sixty-one years of age; and”.
+“(D) a person transferred to the Retired Reserve of a uniformed service under the temporary special retirement authority provided in section 1331a of title 10 whohas not received the first increment of retirement pay or has not reached sixty-one years of age; and”.
 
 1994—Par. (5)(B), (C). Pub. L. 103–337, §1677(d)(1), substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
 
@@ -139,8 +139,4 @@ Section 405(a) of Pub. L. 104–275 provided that: “The program of insurance o
 #### References to Servicemen's Group Life Insurance or Advisory Council on Servicemen's Group Life Insurance
 
 Section 405(d) of Pub. L. 104–275 provided that: “Any reference to Servicemen's Group Life Insurance or to the Advisory Council on Servicemen's Group Life Insurance in any Federal law, Executive order, regulation, delegation of authority, or other document of the Federal Government shall be deemed to refer to Servicemembers’ Group Life Insurance or the Advisory Council on Servicemembers’ Group Life Insurance, respectively.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 1967, 1968, 1969 of this title.
 

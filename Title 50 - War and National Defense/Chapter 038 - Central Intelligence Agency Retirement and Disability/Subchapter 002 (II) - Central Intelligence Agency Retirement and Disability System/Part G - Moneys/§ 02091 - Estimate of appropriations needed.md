@@ -40,7 +40,3 @@ There is hereby authorized to be appropriated to the fund for each fiscal year s
 
 A prior section 261 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052; Pub. L. 94–522, title I, §102, Oct. 17, 1976, 90 Stat. 2467; Ex. Ord. No. 12443, §12, Sept. 27, 1983, 48 F.R. 44754; Pub. L. 99–335, title V, §501(2), (3), June 6, 1986, 100 Stat. 622, related to estimate of appropriations needed and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2001 of this title.
-

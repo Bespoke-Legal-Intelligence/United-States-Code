@@ -20,7 +20,3 @@ General Revenue Funding.—Any sums appropriated under this section shall be der
 
 Subsec. (b). Pub. L. 107–355, §2(d)(2), substituted “for fiscal years 2003 through 2006” for “for fiscal years 1999, 2000, and 2001”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6105 of this title.
-

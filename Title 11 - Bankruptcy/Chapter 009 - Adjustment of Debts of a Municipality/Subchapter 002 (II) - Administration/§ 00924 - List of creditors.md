@@ -18,7 +18,3 @@ This section adopts the provision presently contained in section 85(b) of Chapte
 
 This section directs the debtor to file a list of creditors with the court. A comparable provision is presently contained in section 85(b) of chapter IX \[section 405(b) of former title 11\]. The Rules, in Rule 9–7, copy the provisions of section 85(b), with additional matter. As noted above, section 405(d) of title IV will continue those Rules in effect. Because the form, time of filing, and nature of the list, are procedural matters that may call for some flexibility, those details have been left to the Rules.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 925 of this title.
-

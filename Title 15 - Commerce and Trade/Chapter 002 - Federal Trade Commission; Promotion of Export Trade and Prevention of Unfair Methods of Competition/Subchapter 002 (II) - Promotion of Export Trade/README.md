@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—PROMOTION OF EXPORT TRADE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 7 section 225; title 50 App. section 2158.
-
 
 ---
 

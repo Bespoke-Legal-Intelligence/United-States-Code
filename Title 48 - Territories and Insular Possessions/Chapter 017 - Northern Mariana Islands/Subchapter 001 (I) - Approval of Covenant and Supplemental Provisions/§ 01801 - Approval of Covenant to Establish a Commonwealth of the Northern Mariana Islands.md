@@ -136,7 +136,7 @@ I74“judicial authority
 
 “
 
-Section 401. The United States will establish for and within the Northern Mariana Islands a court of record to be known as the ‘District Court for the Northern Mariana Islands’. The Northern Mariana Islands will constitute a part of the same judicial circuit of the United States as Guam.
+Section 401. The United States will establish for and within the Northern Mariana Islands a court of record to be known as the ‘District Court for the NorthernMariana Islands’. The Northern Mariana Islands will constitute a part of the same judicial circuit of the United States as Guam.
 
 “
 
@@ -164,7 +164,7 @@ Section 501. (a) To the extent that they are not applicable of their own force, 
 
 “
 
-Section 502. (a) The following laws of the United States in existence on the effective date of this Sectionand subsequent amendments to such laws will apply to the Northern Mariana Islands, except as otherwise provided in this Covenant:
+Section 502. (a) The following laws of the United States in existence on the effective date of this Section and subsequent amendments to such laws will apply to the Northern Mariana Islands, except as otherwise provided in this Covenant:
 
 &emsp;“(1) those laws which provide federal services and financial assistance programs and the federal banking laws as they apply to Guam; Section 228 of Title II and Title XVI of the Social Security Act as it applies to the several States; the Public Health Service Act as it applies to the Virgin Islands; and the Micronesian Claims Act as it applies to the Trust Territory of the Pacific Islands;
 
@@ -190,7 +190,7 @@ Section 504. The President will appoint a Commission on Federal Laws to survey t
 
 “
 
-Section 505. The laws of the Trust Territory of the Pacific Islands, of the Mariana Islands District and its local municipalities, and all other Executive and District orders of a local nature applicable to the Northern Mariana Islands on the effective date of this Section and not inconsistent with this Covenant or with those provisions of the Constitution, treaties or laws of the United States applicable to the Northern Mariana Islands will remain in force and effect until and unless altered by the Government of the Northern Mariana Islands.
+Section 505. The laws of the Trust Territory of the Pacific Islands, of the Mariana Islands District and itslocal municipalities, and all other Executive and District orders of a local nature applicable to the Northern Mariana Islands on the effective date of this Section and not inconsistent with this Covenant or with those provisions of the Constitution, treaties or laws of the United States applicable to the Northern Mariana Islands will remain in force and effect until and unless altered by the Government of the Northern Mariana Islands.
 
 “
 
@@ -242,7 +242,7 @@ Section 605. Nothing in this Article will be deemed to authorize the Government 
 
 Section 606. (a) Not later than at the time this Covenant is approved, that portion of the Trust Territory Social Security Retirement Fund attributable to the Northern Mariana Islands will be transferred to the Treasury of the United States, to be held in trust as a separate fund to be known as the ‘Northern Mariana Islands Social Security Retirement Fund’. This fund will be administered by the United States in accordance with the social security laws of the Trust Territory of the Pacific Islands in effect at the time of such transfer, which may be modified by the Government of the Northern Mariana Islands only in a manner which does not create any additional differences between the social security laws of the Trust Territory of the Pacific Islands and the laws described in Subsection (b). The United States will supplement such fund if necessary to assure that persons receive benefits therefrom comparable to those they would have received from the Trust Territory Social Security Retirement Fund under the laws applicable thereto on the day preceding the establishment of the Northern Mariana Islands Social Security Retirement Fund, so long as the rate of contributions thereto also remains comparable.
 
-“(b) Those laws of the United States which impose excise and self-employment taxes to support or which provide benefits from the United States Social Security System will on January 1 of the first calendar year following the termination of the Trusteeship Agreement or upon such earlier date as may be agreed to by the Government of the Northern Mariana Islands and the Government of the United States become applicable to the Northern Mariana Islands as they apply to Guam. (As amended Pub. L. 98–213, §9, Dec. 8, 1983, 97 Stat. 1461.)
+“(b) Those laws of the United States which impose excise and self-employment taxes to support or which provide benefits from the United States Social Security System will on January 1 of the first calendar year following the termination of the Trusteeship Agreement or upon such earlier date as may be agreed to by the Government of the Northern Mariana Islands and the Government of the United States become applicable to the Northern Mariana Islands as they apply to Guam.\(As amended Pub. L. 98–213, §9, Dec. 8, 1983, 97 Stat. 1461.)
 
 “(c) At such time as the laws described in Subsection (b) become applicable to the Northern Mariana Islands:
 
@@ -278,7 +278,7 @@ Section 702. Approval of this Covenant by the United States will constitute a co
 
 “
 
-Section 703. (a) The United States will make available to the Northern Mariana Islands the full range of federal programs and services available to the territories of the United States. Funds provided under Section 702 will be considered to be local revenues when used as the local share required to obtain federal programs and services. (As amended Pub. L. 104–208, div. A,title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–196.)
+Section 703. (a) The United States will make available to the Northern Mariana Islands the full range of federal programs and services available to the territories of the United States. Funds provided under Section 702 will be considered to be local revenues when used as the local share required to obtain federal programs and services. (As amended Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–196.)
 
 “(b) There will be paid into the Treasury of the Government of the Northern Mariana Islands, to be expended to the benefit of the people thereof as that Government may by law prescribe, the proceeds of all customs duties and federal income taxes derived from the Northern Mariana Islands, the proceeds of all taxes collected under the internal revenue laws of the United States on articles produced in the Northern Mariana Islands and transported to the United States, its territories or possessions, or consumed in the Northern Mariana Islands, the proceeds of any other taxes which may be levied by the Congress on the inhabitants of the Northern Mariana Islands, and all quarantine, passport, immigration and naturalization fees collected in the Northern Mariana Islands, except that nothing in this Section shall be construed to apply to any tax imposed by Chapters 2 or 21 of Title 26, United States Code.
 
@@ -580,7 +580,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12572, Nov. 3, 1986, 51 F.R. 40401, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, it is hereby ordered that, consistent with the Joint Resolution to approve the “Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America,” approved March 24, 1976 (Public Law 94–241; 90 Stat. 263) \[48 U.S.C. 1801 et seq.\], the relations of the United States with the Government of the Northern Mariana Islands shall, in all matters not the program responsibility of another Federal department or agency, be under the general administrative supervision of the Secretary of the Interior.
+By the authority vested in me as President by the Constitution and laws of the United States of America, it is hereby ordered that, consistent with the Joint Resolution to approve the “Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America,” approved March 24, 1976 (Public Law 94–241; 90 Stat. 263)\[48 U.S.C. 1801 et seq.\], the relations of the United States with the Government of the Northern Mariana Islands shall, in all matters not the program responsibility of another Federal department or agency, be under the general administrative supervision of the Secretary of the Interior.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

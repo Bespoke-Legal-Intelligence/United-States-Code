@@ -14,7 +14,7 @@ Minimum safety standards.—The Secretary shall prescribe minimum safety standar
 
 &emsp;&emsp;(A) apply to owners and operators of pipeline facilities;
 
-&emsp;&emsp;(B) may apply to the design, installation, inspection, emergency plans and procedures,testing, construction, extension, operation, replacement, and maintenance of pipeline facilities; and
+&emsp;&emsp;(B) may apply to the design, installation, inspection, emergency plans and procedures, testing, construction, extension, operation, replacement, and maintenance of pipeline facilities; and
 
 &emsp;&emsp;(C) shall include a requirement that all individuals who operate and maintain pipeline facilities shall be qualified to operate and maintain the pipeline facilities.
 
@@ -424,7 +424,7 @@ In subsection (c)(2), the word “prescribe” is substituted for “provide” 
 
 In subsection (c)(3), the words “participate in a public safety program meeting the requirements of paragraph (1) of this subsection” are substituted for 49 App.:2002(e)(1) to eliminate unnecessary words.
 
-In subsection (d), before clause (1), the words “Not later than 1 year after October 31, 1988” are omitted as obsolete. The word “prescribe” is substituted for “establish by regulation” for consistency in the revised title and with other titles of the Code. The word “maintain” is substituted for “provide, and revise as necessary” and “completed and maintained” to eliminate unnecessary words. The words “as the case may be” are omitted as surplus. In clause (2), before subclause (A), the words “map or” and “appropriate” are omitted as surplus. In clause (5)(B), the word “government” is omitted as surplus and for consistency in this chapter. In clause (6), the words “and necessary” are omitted as surplus.
+In subsection (d), before clause (1), the words “Not later than 1 year after October 31, 1988” are omitted as obsolete. The word “prescribe” is substituted for “establish by regulation” for consistency in the revised title and with other titles of the Code. The word “maintain” is substituted for “provide, and revise as necessary” and “completed and maintained” to eliminate unnecessary words. The words “as the case may be” are omitted as surplus. In clause (2), before subclause (A), the words “map or” and “appropriate” are omitted as surplus. In clause (5)(B), the word “government” isomitted as surplus and for consistency in this chapter. In clause (6), the words “and necessary” are omitted as surplus.
 
 In subsections (e) and (f), the word “prescribe” is substituted for “by regulation, establish” for consistency in the revised title and with other titles of the Code.
 
@@ -499,10 +499,6 @@ Subsec. (<i>l</i>). Pub. L. 104–304, §4(f), added subsec. (<i>l</i>).
 #### State Pipeline Safety Advisory Committees
 
 Pub. L. 107–355, §24, Dec. 17, 2002, 116 Stat. 3011, provided that: “Within 90 days after receiving recommendations for improvements to pipeline safety from an advisory committee appointed by the Governor of any State, the Secretary of Transportation shall respond in writing to the committee setting forth what action, if any, the Secretary will take on those recommendations and the Secretary's reasons for acting or not acting upon any of the recommendations.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 60103, 60108, 60109, 60112 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -14,7 +14,7 @@ Designation, Nonapplication, Selection, and Procedures.—(1) For purposes of th
 
 (3) The lines, and the major parts of the passenger motor vehicles in those lines, that are to be subject to the standard may be selected by agreement between the manufacturer and the Secretary. If the manufacturer and the Secretary disagree on the selection, the Secretary shall select the lines and parts, after notice to the manufacturer and opportunity for written comment, and subject to the confidentiality requirements of this chapter.
 
-(4) To the maximum extent practicable, the Secretary shall prescribe reasonable proceduresdesigned to ensure that a selection under paragraph (3) of this subsection is made at least 6 months before the first applicable model year beginning after the selection.
+(4) To the maximum extent practicable, the Secretary shall prescribe reasonable procedures designed to ensure that a selection under paragraph (3) of this subsection is made at least 6 months before the first applicable model year beginning after the selection.
 
 (5) A manufacturer may not be required to comply with the standard under a selection under paragraph (3) of this subsection for a model year beginning earlier than 6 months after the date of the selection.
 
@@ -97,8 +97,4 @@ In subsection (b)(4), the words “Immediately upon enactment of this subchapter
 #### References in Text
 
 Sections 602 and 603 of the Motor Vehicle Information and Cost Savings Act, referred to in subsec. (a)(6), are sections 602 and 603 of Pub. L. 92–513, which were classified to sections 2022 and 2023, respectively, of Title 15, Commerce and Trade, and were repealed and reenacted as sections 33102 to 33104 of this title by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1077, 1379.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 33101, 33102, 33103, 33116 of this title.
 

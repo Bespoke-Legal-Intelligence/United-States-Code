@@ -10,7 +10,7 @@ Section not applicable during such time as the revised agreement between the Uni
 
 #### References in Text
 
-Section 2470(a)(2) of the Internal Revenue Code, referred to in text, is a reference to section 2470(a)(2) of the Internal Revenue Code of 1939. Section 2470 was repealed by section 7851 of the Internal Revenue Code of 1954, Title 26, and was reenacted as sections 4511 and 4513 of Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. Sections 4511 and 4513 of Title 26 were repealed by Pub. L. 87–456, title III, §302(d), May 24, 1962, 76 Stat. 77, effective Aug. 31, 1963.
+Section 2470(a)(2) of the Internal Revenue Code, referred to in text, is a reference to section 2470(a)(2) of the Internal Revenue Code of 1939. Section 2470 was repealed by section 7851 of the Internal Revenue Code of 1954, Title 26, and was reenacted as sections 4511 and 4513 of Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. Sections 4511 and 4513 of Title 26 were repealed by Pub. L. 87–456, titleIII, §302(d), May 24, 1962, 76 Stat. 77, effective Aug. 31, 1963.
 
 #### Termination of Suspension of Additional Rate on Coconut Oil
 
@@ -19,8 +19,4 @@ By Proc. No. 2847, July 28, 1949, 14 F.R. 4773, 63 Stat. 1279, the President fou
 #### Suspension Proclamation
 
 By Proc. No. 2693, June 28, 1946, 11 F.R. 7255, 60 Stat. 1349, the President found that “adequate supplies of neither copra nor coconut oil, the product of the Philippines, are readily available for processing in the United States,” and therefore the provisions of section 2470(a)(2) of the Internal Revenue Code of 1939 are suspended.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1373 of this title.
 

@@ -10,7 +10,3 @@ If no beneficiary of insurance is designated by the insured, either while alive 
 
 1986—Pub. L. 99–576 substituted “while alive or by last will” for “in his lifetime or by his last will and testament”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1952 of this title.
-

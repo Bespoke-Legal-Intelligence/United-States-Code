@@ -140,11 +140,11 @@ The date of the enactment of the Victims of Terrorism Compensation Act \[title V
 
 Section 802 of the Victims of Terrorism Compensation Act \[Pub. L. 99–399\], referred to in subsec. (d)(2), is set out as a note below.
 
-The Servicemembers Civil Relief Act, referred to in subsec. (e)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. Titles IV and V of the Act are classified to sections 541 et seq. and 561 et seq., respectively, of Title 50, Appendix. Sections 104, 105, 106, 501, 510, and 702 of the Act are classified to sections 514, 515, 516, 561, 570, and 592, respectively, of Title 50, Appendix. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (e)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178,as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. Titles IV and V of the Act are classified to sections 541 et seq. and 561 et seq., respectively, of Title 50, Appendix. Sections 104, 105, 106, 501, 510, and 702 of the Act are classified to sections 514, 515, 516, 561, 570, and 592, respectively, of Title 50, Appendix. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
 
 #### Amendments
 
-2003—Subsec. (e)(1). Pub. L. 108–189, §2(b)(2)(A), which directed substitution of “provided by the Servicemembers Civil Relief Act, including the benefits provided by section 702 of such Act but excluding the benefits provided by sections 104, 105, and 106, title IV, and title V (other than sections 501 and 510) of such Act” for “ ‘provided by the Soldiers’ and Sailors’ Civil Relief Act of 1940’ and all that follows through ‘of such Act’ ” was executed by making the substitution for “provided by the Soldiers’ and Sailors’ Civil Relief Act of 1940, including the benefits provided by section 701 of such Actbut excluding the benefits provided by sections 104, 105, 106, 400 through 408, 501 through 512, and 514 of such Act” to reflect the probable intent of Congress.
+2003—Subsec. (e)(1). Pub. L. 108–189, §2(b)(2)(A), which directed substitution of “provided by the Servicemembers Civil Relief Act, including the benefits provided by section 702 of such Act but excluding the benefits provided by sections 104, 105, and 106, title IV, and title V (other than sections 501 and 510) of such Act” for “ ‘provided by the Soldiers’ and Sailors’ Civil Relief Act of 1940’ and all that follows through ‘of such Act’ ” was executed by making the substitution for “provided by the Soldiers’ and Sailors’ Civil Relief Act of 1940, including the benefits provided by section 701 of such Act but excluding the benefits provided by sections 104, 105, 106, 400 through 408, 501 through 512, and 514 of such Act” to reflect the probable intent of Congress.
 
 Subsec. (e)(2)(A). Pub. L. 108–189, §2(b)(2)(B), substituted “servicemember” for “person in the military service”.
 
@@ -207,8 +207,4 @@ Sec. 5. The Secretaries of State and Defense shall consult with each other and w
 Sec. 6. Executive Order No. 12576 of December 2, 1986, is hereby superseded.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5570 of this title; title 37 section 559.
 

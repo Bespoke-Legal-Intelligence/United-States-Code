@@ -108,7 +108,7 @@ Services provided under contracts made under this section shall supplement, not 
 
 &emsp;(2) social services and case management;
 
-&emsp;(3) training available to Indian tribes, tribal agencies, and Indian organizations regarding the identification, investigation, prevention,and treatment of family violence, child abuse, and child neglect; and
+&emsp;(3) training available to Indian tribes, tribal agencies, and Indian organizations regarding the identification, investigation, prevention, and treatment of family violence, child abuse, and child neglect; and
 
 &emsp;(4) law enforcement services, including investigations and prosecutions.
 
@@ -143,10 +143,6 @@ The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3206 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (e) has been enacted.</i>
 

@@ -4,7 +4,3 @@ No rent or other consideration for the use of land leased under sections 415 to 
 
 (Aug. 9, 1955, ch. 615, §4, 69 Stat. 540.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 415, 415a, 415c, 415d of this title.
-

@@ -50,7 +50,7 @@ Any person claiming any right in Leasing Act minerals under or by virtue of any 
 
 #### (e) Failure to deliver or mail copy of notice
 
-If any applicant, offeror, permittee, or lessee shall fail to comply with the requirements of subsection (a) of this section as to the personal delivery or mailing of a copy of notice to any person, the publication of such notice shall be deemed wholly ineffectual as to that person or as to the rights asserted by that person and the failure of that person to file a verified statement, as provided in such notice, shall in no manner affect, diminish, prejudice or bar any rights of that person.
+If any applicant, offeror, permittee, or lessee shall fail to comply with the requirements of subsection (a) of this section as to the personal delivery or mailing of a copy of notice to any person, the publication of such notice shall be deemed wholly ineffectual as to that person or as to the rights asserted by that person and the failure of that person to file a verified statement, as provided in such notice, shall in nomanner affect, diminish, prejudice or bar any rights of that person.
 
 (Aug. 13, 1954, ch. 730, §7, 68 Stat. 711; Pub. L. 86–507, §1(25), June 11, 1960, 74 Stat. 201.)
 
@@ -61,8 +61,4 @@ For definitions of “mineral leasing laws”, referred to in first undesignated
 #### Amendments
 
 1960—Subsec. (a). Pub. L. 86–507 inserted “or by certified mail” after “registered mail” in two places in last paragraph.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 226 of this title.
 

@@ -28,7 +28,3 @@ Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L
 
 For short title of this subchapter as the “State Dependent Care Development Grants Act”, see section 670H of Pub. L. 97–35, set out as a note under section 9801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9872, 9873 of this title.
-

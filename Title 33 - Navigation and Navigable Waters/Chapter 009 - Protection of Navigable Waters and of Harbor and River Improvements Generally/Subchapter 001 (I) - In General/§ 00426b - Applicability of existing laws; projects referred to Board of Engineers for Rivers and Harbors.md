@@ -12,7 +12,3 @@ Provision for the referral of projects having to do with shore protection for co
 
 For termination of Board of Engineers for Rivers and Harbors 180 days after Oct. 31, 1992, and reassignment of duties and responsibilities by Secretary of Army, see section 223 of Pub. L. 102–580, set out as a note under section 541 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 426a, 426d of this title.
-

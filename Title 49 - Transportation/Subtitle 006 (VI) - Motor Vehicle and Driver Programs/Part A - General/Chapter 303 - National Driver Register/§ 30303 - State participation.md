@@ -32,7 +32,3 @@ Oct. 25, 1982, Pub. L. 97–364, §204, 96 Stat. 1742.
 
 In subsection (c), the words “in the form and way” are substituted for “in such form, and according to such procedures” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 30301 of this title.
-

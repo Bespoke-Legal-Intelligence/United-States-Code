@@ -8,9 +8,13 @@ A contribution accepted by a candidate, and any other donation received by an in
 
 &emsp;(2) for ordinary and necessary expenses incurred in connection with duties of the individual as a holder of Federal office;
 
-&emsp;(3) for contributions to an organization described in section 170(c) of title 26; or
+&emsp;(3) for contributions to an organization described in section 170(c) of title 26;
 
-&emsp;(4) for transfers, without limitation, to a national, State, or local committee of a political party.
+&emsp;(4) for transfers, without limitation, to a national, State, or local committee of a political party;
+
+&emsp;(5) for donations to State and local candidates subject to the provisions of State law; or
+
+&emsp;(6) for any other lawful purpose unless prohibited by subsection (b) of this section.
 
 #### (b) Prohibited use
 
@@ -40,7 +44,7 @@ A contribution accepted by a candidate, and any other donation received by an in
 
 &emsp;&emsp;(I) dues, fees, and other payments to a health club or recreational facility.
 
-(Pub. L. 92–225, title III, §313, as added Pub. L. 107–155, title III, §301, Mar. 27, 2002, 116 Stat. 95.)
+(Pub. L. 92–225, title III, §313, as added Pub. L. 107–155, title III, §301, Mar. 27, 2002, 116 Stat. 95; amended Pub. L. 108–447, div. H, title V, §532, Dec. 8, 2004, 118 Stat. 3272.)
 
 #### Prior Provisions
 
@@ -49,6 +53,10 @@ A prior section 439a, Pub. L. 92–225, title III, §313, formerly §318, as add
 A prior section 313 of Pub. L. 92–225 was renumbered section 309, and is classified to section 437g of this title.
 
 Another prior section 313 of Pub. L. 92–225 was renumbered section 308, and is classified to section 437f of this title.
+
+#### Amendments
+
+2004—Subsec. (a)(5), (6). Pub. L. 108–447, which directed the amendment of section 312a(a) of the Federal Election Campaign Act of 1971 by adding pars. (5) and (6), was executed by making the amendments to this section, which is section 313 of the Federal Election Campaign Act of 1971, to reflect the probable intent of Congress.
 
 #### Effective Date
 

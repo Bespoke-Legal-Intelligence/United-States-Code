@@ -1,9 +1,5 @@
 ### SUBTITLE III—ADMINISTRATIVE PROVISIONS
 
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in title 15 section 69d.
-
 
 ---
 

@@ -68,7 +68,3 @@ In subsection (d), the words “thereof” and “criminal, exclusion of imports
 
 In subsection (e), the words “under this section is final and may be reviewed only” are substituted for “affirming or setting aside, in whole or in part, any such order of the Secretary shall be final, subject to review” to eliminate unnecessary words. The text of 15:1394(a)(5) is omitted because of rule 43 of the Federal Rules of Appellate Procedure (28 App. U.S.C.).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 30103 of this title.
-

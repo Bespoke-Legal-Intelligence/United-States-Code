@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services, in consultation with the Administrator and acting through the Assistant Secretary for Health, may conduct, and make grants to public and nonprofit private entities and enter into contracts with public and private entities for, projects for the development and evaluation of inexpensive and efficient methods (1) for determining and evaluating the health and environmental effects of chemical substances and mixtures, and their toxicity, persistence, and other characteristics which affect health and the environment, and (2) which may be used for the development of test data to meet the requirementsof rules promulgated under section 2603 of this title. The Administrator shall consider such methods in prescribing under section 2603 of this title standards for the development of test data.
+The Secretary of Health and Human Services, in consultation with the Administrator and acting through the Assistant Secretary for Health, may conduct, and make grants to public and nonprofit private entities and enter into contracts with public and private entities for, projects for the development and evaluation of inexpensive and efficient methods (1) for determining and evaluating the health and environmental effects of chemical substances and mixtures, and their toxicity, persistence, and other characteristics which affect health and the environment, and (2) which may be used for the development of test data to meet the requirements of rules promulgated under section 2603 of this title. The Administrator shall consider such methods in prescribing under section 2603 of this title standards for the development of test data.
 
 #### (b) Approval by Secretary
 
@@ -25,8 +25,4 @@ In subsec. (b), “section 3324(a) and (b) and title 31” substituted for refer
 #### Change of Name
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2628 of this title.
 

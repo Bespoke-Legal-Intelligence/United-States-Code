@@ -38,13 +38,13 @@ As used in this chapter:
 
 &emsp;&emsp;(G) is otherwise qualified and eligible to receive an award under applicable laws and regulations.
 
-&emsp;(8) The term “technical data” means recorded information (regardless of the form or method of the recording) of a scientific or technical nature (including computer software documentation) relating to supplies procuredby an agency. Such term does not include computer software or financial, administrative, cost or pricing, or management data or other information incidental to contract administration.
+&emsp;(8) The term “technical data” means recorded information (regardless of the form or method of the recording) of a scientific or technical nature (including computer software documentation) relating to supplies procured by an agency. Such term does not include computer software or financial, administrative, cost or pricing, or management data or other information incidental to contract administration.
 
 &emsp;(9)(A) The term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need, which elements may include hardware, equipment, software or any combination thereof, but excludes construction or other improvements to real property; and
 
 &emsp;(B) a system shall be considered a major system if (i) the Department of Defense is responsible for the system and the total expenditures for research, development, test and evaluation for the system are estimated to be more than $75,000,000 (based on fiscal year 1980 constant dollars) or the eventual total expenditure for procurement of more than $300,000,000 (based on fiscal year 1980 constant dollars); (ii) a civilian agency is responsible for the system and total expenditures for the system are estimated to exceed $750,000 (based on fiscal year 1980 constant dollars) or the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”, whichever is greater; or (iii) the system is designated a “major system” by the head of the agency responsible for the system.
 
-&emsp;(10) The term “item”, “item of supply”, or “supplies” means any individual part, component, subassembly, assembly, or subsystem integral to a major system, and other property which may be replaced during the service life of the system, and includes spare parts and replenishment spare parts, but does not include packaging or labeling associated with shipment or identification of an “item”.
+&emsp;(10) The term “item”, “item of supply”, or “supplies” means any individual part, component, subassembly, assembly, or subsystem integral to a major system, and other property which may be replaced during the service lifeof the system, and includes spare parts and replenishment spare parts, but does not include packaging or labeling associated with shipment or identification of an “item”.
 
 &emsp;(11) The term “simplified acquisition threshold” means $100,000.
 
@@ -116,7 +116,9 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(viii) technical and management functions directly related to the process of fulfilling agency requirements by contract.
 
-(Pub. L. 93–400, §4, Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §3, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, §4, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 98–369, div. B, title VII, §2731, July 18, 1984, 98 Stat. 1195; Pub. L. 98–577, title I, §102, Oct. 30, 1984, 98 Stat. 3067; Pub. L. 100–679, §3(c), Nov. 17, 1988, 102 Stat. 4056; Pub. L. 101–510, div. A, title VIII, §806(a)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title IV, §4001, title VIII, §8001, Oct. 13, 1994, 108 Stat. 3338, 3384; Pub. L. 104–106, div. D, title XLII, §4204, Feb. 10, 1996, 110 Stat. 655; Pub. L. 106–65, div. A, title VIII, §805, Oct. 5, 1999, 113 Stat. 705; Pub. L. 108–136, div. A, title XIV, §§1411, 1433, Nov. 24, 2003, 117 Stat. 1663, 1673.)
+&emsp;(17) The term “Federal Acquisition Regulatory Council” means the Federal Acquisition Regulatory Council established under section 421 of this title.
+
+(Pub. L. 93–400, §4, Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §3, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, §4, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 98–369, div. B, title VII, §2731, July 18, 1984, 98 Stat. 1195; Pub. L. 98–577, title I, §102, Oct. 30, 1984, 98 Stat. 3067; Pub. L. 100–679, §3(c), Nov. 17, 1988, 102 Stat. 4056; Pub. L. 101–510, div. A, title VIII, §806(a)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title IV, §4001, title VIII, §8001, Oct.13, 1994, 108 Stat. 3338, 3384; Pub. L. 104–106, div. D, title XLII, §4204, Feb. 10, 1996, 110 Stat. 655; Pub. L. 106–65, div. A, title VIII, §805, Oct. 5, 1999, 113 Stat. 705; Pub. L. 108–136, div. A, title XIV, §§1411, 1433, Nov. 24, 2003, 117 Stat. 1663, 1673; Pub. L. 108–375, div. A, title VIII, §807(b), Oct. 28, 2004, 118 Stat. 2011.)
 
 #### References in Text
 
@@ -127,6 +129,8 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 Section 2731 of Pub. L. 98–369 directed in part that this section be redesignated as section 4 of Pub. L. 93–400 to correct an inconsistency in the language of the amendment by Pub. L. 98–191, which amended this section generally but referred to it as “Sec. 3”. Since this section was enacted as section 4 of Pub. L. 93–400 no change was required.
 
 #### Amendments
+
+2004—Par. (17). Pub. L. 108–375 added par. (17).
 
 2003—Par. (12)(F). Pub. L. 108–136, §1433, inserted “or specific outcomes to be achieved” after “performed”.
 
@@ -183,8 +187,4 @@ Amendment by Pub. L. 96–83 effective Oct. 1, 1979, see section 12 of Pub. L. 9
 #### Modification of Federal Acquisition Regulations
 
 Section 2752 of Pub. L. 98–369 provided that: “Not later than March 31, 1985, the single Government-wide procurement regulation referred to in section 4(4)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(4)(A)) shall be modified to conform to the requirements of this title \[title VII of Pub. L. 98–369, §§2701–2753, July 18, 1984, 98 Stat. 1175–1203\] and the amendments made by this title \[see Short Title of 1984 Amendment note set out under section 251 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 57, 58, 252a, 254b, 259, 264a, 418a, 431, 701 of this title; title 6 sections 393, 421, 423; title 10 sections 2207, 2225, 2226, 2302, 2302a, 2306a, 2376, 2384, 2393, 2402, 2408, 2410, 2410b, 2410g, 2410i, 2482, 2636; title 15 sections 205c, 632, 637, 657a; title 16 sections 669h, 777h; title 20 section 1018a; title 22 section2679c; title 31 section 3567; title 33 section 1368; title 40 sections 3707, 11101; title 42 sections 290aa–3, 1395w–111, 5403; title 49 section 40118.
 

@@ -38,7 +38,3 @@ Activities provided through programs carried out under this subpart may include 
 
 (Pub. L. 89–10, title V, §5523, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1846.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7265d of this title.
-

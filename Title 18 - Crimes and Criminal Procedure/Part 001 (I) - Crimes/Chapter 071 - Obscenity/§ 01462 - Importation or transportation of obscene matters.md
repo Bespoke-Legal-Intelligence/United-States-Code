@@ -52,9 +52,5 @@ Amendment by Pub. L. 91–662 effective Jan. 9, 1971, see section 7 of Pub. L. 9
 
 Section 507(c) of Pub. L. 104–104 provided that: “The amendments made by this section \[amending this section and section 1465 of this title\] are clarifying and shall not be interpreted to limit or repeal any prohibition contained in sections 1462 and 1465 of title 18, United States Code, before such amendment, under the rule established in United States v. Alpers, 338 U.S. 680 (1950).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1961 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

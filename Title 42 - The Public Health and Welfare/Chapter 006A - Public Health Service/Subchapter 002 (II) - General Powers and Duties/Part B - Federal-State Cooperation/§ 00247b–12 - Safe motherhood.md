@@ -8,7 +8,7 @@
 
 #### (2) Activities
 
-&emsp;For the purpose described in paragraph (1), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may carry out the following activities:
+&emsp;For the purpose described in paragraph (1), the Secretary, acting through the Director ofthe Centers for Disease Control and Prevention, may carry out the following activities:
 
 &emsp;&emsp;(A) The Secretary may establish and implement a national surveillance program to identify and promote the investigation of deaths and severe complications that occur during pregnancy.
 

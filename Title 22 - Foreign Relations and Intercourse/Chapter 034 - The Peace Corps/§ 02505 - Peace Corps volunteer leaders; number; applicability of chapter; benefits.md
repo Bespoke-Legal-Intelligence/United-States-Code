@@ -38,7 +38,3 @@ Functions of President under this section delegated to Director of Peace Corps w
 
 Appointment of former volunteer leaders to civilian career services, see Ex. Ord. No. 11103, Apr. 10, 1963, 28 F.R. 3571, set out as a note under section 2504 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2504, 2509, 2522 of this title; title 5 sections 8142, 8331, 8332, 8334, 8422; title 26 sections 912, 3401; title 42 section 409.
-

@@ -92,7 +92,3 @@ Nothing in this subchapter—
 
 Subsec. (b)(1). Pub. L. 107–171, §6026(c)(2), substituted “section 2009d(g) of this title” for “section 2009d(h) of this title”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2009d, 2009g of this title.
-

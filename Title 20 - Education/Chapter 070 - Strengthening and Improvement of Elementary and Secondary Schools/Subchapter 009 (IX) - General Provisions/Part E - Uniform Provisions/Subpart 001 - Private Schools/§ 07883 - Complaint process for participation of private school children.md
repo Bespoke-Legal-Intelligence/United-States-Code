@@ -10,7 +10,3 @@ The resolution may be appealed by an interested party to the Secretary not later
 
 (Pub. L. 89–10, title IX, §9503, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1977.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6320, 7315, 7321 of this title.
-

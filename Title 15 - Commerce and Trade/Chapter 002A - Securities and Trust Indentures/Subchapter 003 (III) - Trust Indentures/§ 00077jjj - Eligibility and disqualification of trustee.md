@@ -8,7 +8,7 @@
 
 (3) If the indenture to be qualified requires or permits the appointment of one or more co-trustees in addition to such institutional trustee, the rights, powers, duties, and obligations conferred or imposed upon the trustees or any of them shall be conferred or imposed upon and exercised or performed by such institutional trustee, or such institutional trustee and such co-trustees jointly, except to the extent that under any law of any jurisdiction in which any particular act or acts are to be performed, such institutional trustee shall be incompetent or unqualified to perform such act or acts, in which event such rights, powers, duties, and obligations shall be exercised and performed by such co-trustees.
 
-(4) In the case of certificates of interest or participation, the indenture trustee or trustees shall have the legal power to exercise all of the rights, powers, and privileges of a holder of the security or securities in which such certificates evidence an interest or participation.
+(4) In the case of certificates of interest or participation, the indenture trustee or trusteesshall have the legal power to exercise all of the rights, powers, and privileges of a holder of the security or securities in which such certificates evidence an interest or participation.
 
 (5) No obligor upon the indenture securities or person directly or indirectly controlling, controlled by, or under common control with such obligor shall serve as trustee upon such indenture securities.
 
@@ -46,7 +46,7 @@ For the purposes of this subsection, an indenture trustee shall be deemed to hav
 
 &emsp;&emsp;(A) one individual may be a director and/or an executive officer of the trustee and a director and/or an executive officer of such obligor, but may not be at the same time an executive officer of both the trustee and of such obligor,
 
-&emsp;&emsp;(B) if and so long as the number of directors of the trustee in office is more than nine, one additional individual may be a director and/or an executive officer of the trustee and a director of such obligor, and
+&emsp;&emsp;(B) if and so long as the number of directors of the trustee in office is more thannine, one additional individual may be a director and/or an executive officer of the trustee and a director of such obligor, and
 
 &emsp;&emsp;(C) such trustee may be designated by any such obligor or by any underwriter for any such obligor, to act in the capacity of transfer agent, registrar, custodian, paying agent, fiscal agent, escrow agent, or depositary, or in any other similar capacity, or, subject to the provisions of paragraph (1) of this subsection, to act as trustee, whether under an indenture or otherwise;
 
@@ -68,11 +68,11 @@ For the purposes of this subsection, an indenture trustee shall be deemed to hav
 
 For purposes of paragraph (1) of this subsection, and of section 77ppp(a) of this title, the term “series of securities” or “series” means a series, class or group of securities issuable under an indenture pursuant to whose terms holders of one such series may vote to direct the indenture trustee, or otherwise take action pursuant to a vote of such holders, separately from holders of another such series: <i>Provided</i>, That “series of securities” or “series” shall not include any series of securities issuable under an indenture if all such series rank equally and are wholly unsecured.
 
-The specification of percentages in paragraphs (5) to (9), inclusive, of this subsection shall notbe construed as indicating that the ownership of such percentages of the securities of a person is or is not necessary or sufficient to constitute direct or indirect control for the purposes of paragraph (3) or (7) of this subsection.
+The specification of percentages in paragraphs (5) to (9), inclusive, of this subsection shall not be construed as indicating that the ownership of such percentages of the securities of a person is or is not necessary or sufficient to constitute direct or indirect control for the purposes of paragraph (3) or (7) of this subsection.
 
 For the purposes of paragraphs (6), (7), (8), and (9) of this subsection—
 
-&emsp;(A) the terms “security” and “securities” shall include only such securities as are generally known as corporate securities, but shall not include any note or other evidence of indebtedness issued to evidence an obligation to repay moneys lent to a person by one or more banks, trust companies, or banking firms, or any certificate of interest or participation in any such note or evidence of indebtedness;
+&emsp;(A) the terms “security” and “securities” shall include only such securities as are generally known as corporate securities, but shall not include any note or other evidence of indebtedness issued to evidence an obligation to repay moneys lent to a person by one or more banks, trust companies, or banking firms, orany certificate of interest or participation in any such note or evidence of indebtedness;
 
 &emsp;(B) an obligation shall be deemed to be in default when a default in payment of principal shall have continued for thirty days or more, and shall not have been cured; and
 
@@ -115,10 +115,6 @@ Subsec. (b). Pub. L. 101–550, §408, amended subsec. (b) generally.
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77eee, 77mmm, 77rrr, 77sss, 77uuu of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “institutional”.</i>
 

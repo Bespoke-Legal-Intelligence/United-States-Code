@@ -8,7 +8,3 @@ The rights under any mining claim given force and effect by this chapter shall a
 
 Section 5(b)(7) of the Atomic Energy Act of 1946, as amended, referred to in text, was formerly classified to section 1805(b)(7) of Title 42, The Public Health and Welfare, and prohibited any benefit to a person from confidential information acquired from participation in development of atomic energy program respecting deposits of fissionable source materials on public lands. Such provisions are covered in section 68(a), (b) of the Atomic Energy Act of 1954, as amended, which is classified to section 2098(a), (b) of Title 42.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 2098.
-

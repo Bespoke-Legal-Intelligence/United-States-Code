@@ -24,7 +24,3 @@ For purposes of this chapter, a democratically elected government in Cuba, in ad
 
 (Pub. L. 104–114, title II, §206, Mar. 12, 1996, 110 Stat. 812.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6023 of this title.
-

@@ -8,7 +8,3 @@ Nothing contained in this subchapter shall prevent the taking of whales and the 
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 916 of this title.
-

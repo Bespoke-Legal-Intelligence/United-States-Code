@@ -10,7 +10,7 @@ The President may authorize any department or agency of the Government which exe
 
 Pub. L. 102–25, §705(f)(2), in fourth sentence, inserted “at the end of a Congress” after “sine die” and “, or because of an adjournment sine die other than at the end of a Congress,” after “to a day certain”.
 
-1990—Pub. L. 101–510 struck out before period at end of third sentence “and 60 days of continuous session ofCongress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such obligation”.
+1990—Pub. L. 101–510 struck out before period at end of third sentence “and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such obligation”.
 
 1973—Pub. L. 93–155 provided for notification of Congressional Committees with respect to certain proposed obligations, Congressional resolution of disapproval, continuity of Congressional session, and computation of period.
 

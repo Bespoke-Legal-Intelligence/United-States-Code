@@ -116,7 +116,3 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3755, 3757, 3766b, 3782, 3796bb–1, 3796dd–1 of this title.
-

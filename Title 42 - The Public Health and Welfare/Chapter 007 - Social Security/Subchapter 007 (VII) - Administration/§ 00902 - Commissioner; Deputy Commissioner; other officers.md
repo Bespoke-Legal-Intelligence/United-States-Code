@@ -24,7 +24,7 @@
 
 #### (b) Deputy Commissioner of Social Security
 
-(1) There shall be in the Administration a Deputy Commissioner of Social Security (in thissubchapter referred to as the “Deputy Commissioner”) who shall be appointed by the President, by and with the advice and consent of the Senate.
+(1) There shall be in the Administration a Deputy Commissioner of Social Security (in this subchapter referred to as the “Deputy Commissioner”) who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 (2) The Deputy Commissioner shall be appointed for a term of 6 years, except that the initial term of office for the Deputy Commissioner shall terminate January 19, 2001. In any case in which a successor does not take office at the end of a Deputy Commissioner's term of office, such Deputy Commissioner may continue in office until the entry upon office of such a successor. A Deputy Commissioner appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term.
 
@@ -78,6 +78,10 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
+#### Issuance by Commissioner of Social Security of Receipts To Acknowledge Submission of Reports of Changes in Work or Earnings Status of Disabled Beneficiaries
+
+Pub. L. 108–203, title II, §202, Mar. 2, 2004, 118 Stat. 509, provided that: “Effective as soon as possible, but not later than 1 year after the date of the enactment of this Act \[Mar. 2, 2004\], until such time as the Commissioner of Social Security implements a centralized computer file recording the date of the submission of information by a disabled beneficiary (or representative) regarding a change in the beneficiary's work or earnings status, the Commissioner shall issue a receipt to the disabled beneficiary (or representative) each time he or she submits documentation, or otherwise reports to the Commissioner, on a change in such status.”
+
 #### Demonstration Projects Relating to Accountability for Telephone Service Center Communications
 
 Pub. L. 101–508, title V, §5108, Nov. 5, 1990, 104 Stat. 1388–269, directed Secretary of Health and Human Services to develop and carry out demonstration projects designed to implement certain accountability procedures in not fewer than 3 telephone service centers operated by the Social Security Administration, provided that such projects commence not later than 180 days after Nov. 5, 1990, and remain in operation for not less than 1 year and not more than 3 years, and directed Secretary to submit to Congress a written report on the progress of the demonstration projects not later than 90 days after the termination of the project.
@@ -90,7 +94,7 @@ Pub. L. 101–508, title V, §5110, Nov. 5, 1990, 104 Stat. 1388–272, provided
 
 “(a)
 
-Required Minimum Level of Access to Local Offices.—In addition to such other access by telephoneto offices of the Social Security Administration as the Secretary of Health and Human Services may consider appropriate, the Secretary shall maintain access by telephone to local offices of the Social Security Administration at the level of access generally available as of September 30, 1989.
+Required Minimum Level of Access to Local Offices.—In addition to such other access by telephone to offices of the Social Security Administration as the Secretary of Health and Human Services may consider appropriate, the Secretary shall maintain access by telephone to local offices of the Social Security Administration at the level of access generally available as of September 30, 1989.
 
 “(b)
 
@@ -122,7 +126,7 @@ Pub. L. 98–21, title III, §338, Apr. 20, 1983, 97 Stat. 132, as amended by Pu
 
 #### Earnings Sharing Implementation Report
 
-Pub. L. 98–21, title III, §343, Apr. 20, 1983, 97 Stat. 136, directed Secretary of Health and Human Services to develop, in consultation with Committee on Finance of the Senate and Committee on Ways and Means of the House of Representatives, proposals for earnings sharing legislation (i.e., proposals that combined earnings of a husband and wife during period of their marriage be divided equally and shared between them for social security benefit purposes) and report such proposals to such committees not later than July 1, 1984.
+Pub. L. 98–21, title III, §343, Apr. 20, 1983, 97 Stat. 136, directed Secretary of Health and Human Services to develop, in consultation with Committee on Finance of the Senate and Committee on Ways and Means of the House of Representatives, proposals for earnings sharing legislation (i.e., proposals that combined earnings of a husband and wife during period of their marriage be divided equally and shared between them for socialsecurity benefit purposes) and report such proposals to such committees not later than July 1, 1984.
 
 #### Universal Coverage of Social Security Programs; Study and Report to President and Congress Respecting Scope, Alternatives, etc.; Consultation by Secretary
 
@@ -131,8 +135,4 @@ Pub. L. 95–216, title III, §311, Dec. 20, 1977, 91 Stat. 1531, as amended by 
 #### Proposals for Elimination of Dependency and Sex Discrimination Under Social Security Program; Study and Report to Congress
 
 Pub. L. 95–216, title III, §341, Dec. 20, 1977, 91 Stat. 1548, directed Secretary of Health, Education, and Welfare, in consultation with the Task Force on Sex Discrimination, to make a detailed study of proposals to eliminate dependency as a factor in the determination of entitlement to spouse's benefits under the program established under subchapter II of this chapter and of proposals to bring about equal treatment for men and women in any and all respects under such program and submit a report to Congress within 6 months of Dec. 20, 1977.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 904 of this title.
 

@@ -24,7 +24,3 @@ If a State without the use of financial assistance under this section, conducts 
 
 (Pub. L. 94–163, title III, §393, as added Pub. L. 95–619, title III, §302(a), Nov. 9, 1978, 92 Stat. 3242.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6371c, 6371f, 6371g of this title.
-

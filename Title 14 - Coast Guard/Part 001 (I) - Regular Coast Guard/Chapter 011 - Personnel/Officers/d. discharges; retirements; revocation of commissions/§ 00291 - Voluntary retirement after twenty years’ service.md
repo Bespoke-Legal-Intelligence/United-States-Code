@@ -12,7 +12,3 @@ Any regular commissioned officer who has completed twenty years’ active servic
 
 Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88–130 does not affect the retired pay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under section 211 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 10154.
-

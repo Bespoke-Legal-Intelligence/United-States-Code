@@ -40,10 +40,6 @@
 
 1999—Pub. L. 106–117, title VIII, §801(a)(2), Nov. 30, 1999, 113 Stat. 1586, added heading for subchapter III and items 7731 to 7734.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 317, 318, 3672 of this title.
-
 
 ---
 

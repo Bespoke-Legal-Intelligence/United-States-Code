@@ -6,5 +6,5 @@ The Chief Administrative Officer of the House of Representatives is authorized, 
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Sergeant-at-Arms of the House”.
+1996—Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Sergeant-at-Arms of the House”.
 

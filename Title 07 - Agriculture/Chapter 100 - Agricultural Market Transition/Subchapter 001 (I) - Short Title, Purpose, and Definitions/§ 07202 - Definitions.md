@@ -34,7 +34,7 @@ In this chapter:
 
 &emsp;The term “extra long staple cotton” means cotton that—
 
-&emsp;&emsp;(A) is produced from pure strain varieties of the Barbadense species or any hybrid thereof, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed for various end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
+&emsp;&emsp;(A) is produced from pure strain varieties of the Barbadense species or any hybrid thereof, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed for variousend uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
 
 &emsp;&emsp;(B) is ginned on a roller-type gin or, if authorized by the Secretary, ginned on another type gin for experimental purposes.
 
@@ -75,8 +75,4 @@ For definition of “this chapter”, referred to in text, see note set out unde
 The Agricultural Act of 1949, referred to in pars. (1), (2), and (4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. Title V of the Act, which was classified generally to subchapter IV (§1461 et seq.) of chapter 35A of this title, was omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 Section 505 of the Agricultural Act of 1949 (7 U.S.C. 1465), referred to in par. (9), was omitted from the Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7911, 7916 of this title.
 

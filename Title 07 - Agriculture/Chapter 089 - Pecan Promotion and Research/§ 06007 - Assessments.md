@@ -42,7 +42,7 @@ No more than one assessment may be assessed under subsection (a) of this section
 
 &emsp;Except as provided in paragraph (2), assessment rates shall be recommended by the Board and approved by the Secretary, except that the maximum assessment shall not exceed—
 
-&emsp;&emsp;(A) during the period commencing on the effective date of the issuance of a plan and ending on the date the referendum is conducted under section 6011(a) of this title, one-half cent per pound for in-shell pecansas determined by the Board and approved by the Secretary; and
+&emsp;&emsp;(A) during the period commencing on the effective date of the issuance of a plan and ending on the date the referendum is conducted under section 6011(a) of this title, one-half cent per pound for in-shell pecans as determined by the Board and approved by the Secretary; and
 
 &emsp;&emsp;(B) after such period, 2 cents per pound for in-shell pecans.
 
@@ -68,7 +68,7 @@ No more than one assessment may be assessed under subsection (a) of this section
 
 #### (1) In general
 
-&emsp;There shall be a late-payment charge imposed on any person who fails to remit, on or before the due date established by the Board under subsection (c)(2) of this section, to the Board the total amount for which such person is liable.
+&emsp;There shall be a late-payment charge imposed on any person who fails to remit, on orbefore the due date established by the Board under subsection (c)(2) of this section, to the Board the total amount for which such person is liable.
 
 #### (2) Amount of charge
 
@@ -123,8 +123,4 @@ No more than one assessment may be assessed under subsection (a) of this section
 &emsp;If the plan is approved pursuant to the referendum conducted under section 6011(a) of this title, all funds in the escrow account shall be returned to the Board for use by the Board in accordance with this chapter.
 
 (Pub. L. 101–624, title XIX, §1912, Nov. 28, 1990, 104 Stat. 3848.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6005 of this title.
 

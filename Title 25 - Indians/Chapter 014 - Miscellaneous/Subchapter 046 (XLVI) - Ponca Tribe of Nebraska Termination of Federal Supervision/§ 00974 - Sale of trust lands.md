@@ -10,7 +10,3 @@ All restrictions on the alienation or taxation of interests in land that are own
 
 (Pub. L. 87–629, §4, Sept. 5, 1962, 76 Stat. 430.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 971 of this title.
-

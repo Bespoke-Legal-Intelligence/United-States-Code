@@ -42,7 +42,7 @@ Copy.—Except for the General Services Administration, an executive agency that
 
 (d)
 
-Advice From Attorney General.—Within a reasonable time, not later than 60 days, after receipt of notice under subsection (c), the Attorney General shall advise the Administrator and any interested executive agency whether, so faras the Attorney General can determine, the proposed disposition would tend to create or maintain a situation inconsistent with antitrust law.
+Advice From Attorney General.—Within a reasonable time, not later than 60 days, after receipt of notice under subsection (c), the Attorney General shall advise the Administrator and any interested executive agency whether, so far as the Attorney General can determine, the proposed disposition would tend to create or maintain a situation inconsistent with antitrust law.
 
 (e)
 
@@ -74,7 +74,7 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title II, §207, 63 Stat. 391; Pub. L. 85–680, Aug. 19, 1958, 72 Stat. 631; Pub. L. 100–612, §7, Nov. 5, 1988, 102 Stat. 3182.
 
-In subsection (e), the words “the head of an executive agency” are substituted for “the Administrator or any other executive agency”, the words “or cause to be furnished” are omitted, and the words “information the agency possesses” are substituted for “such information as the Administrator or such other executive agency may possess”, to eliminate unnecessary words.
+In subsection (e), the words “the head of an executive agency” are substituted for “the Administrator or anyother executive agency”, the words “or cause to be furnished” are omitted, and the words “information the agency possesses” are substituted for “such information as the Administrator or such other executive agency may possess”, to eliminate unnecessary words.
 
 #### References in Text
 
@@ -83,8 +83,4 @@ The Sherman Act, referred to in subsec. (a)(1), is act July 2, 1890, ch. 647, 26
 The Clayton Act, referred to in subsec. (a)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, 22 to 27 of Title 15, Commerce and Trade, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see note set out under section 12 of Title 15 and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (a)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 111, 17702 of this title; title 42 section 2201.
 

@@ -14,7 +14,7 @@ The president, subject to Institute's bylaws and general policies established by
 
 #### (d) Assignment of Federal officers or employees to the Institute
 
-(1) The president may request the assignment of any Federal officer or employee to the Institute by an appropriate department, agency, or congressional official or Member of Congress and may enter into an agreement for such assignment, if the affected officer or employee agrees to such assignment and such assignment causes no prejudice to the salary, benefits, status, or advancement within the department, agency, or congressional staff of such officer or employee.
+(1) The president may request the assignment of any Federal officer or employee to the Institute by an appropriate department, agency, or congressional official or Member of Congressand may enter into an agreement for such assignment, if the affected officer or employee agrees to such assignment and such assignment causes no prejudice to the salary, benefits, status, or advancement within the department, agency, or congressional staff of such officer or employee.
 
 (2) The Secretary of State, the Secretary of Defense, and the Director of Central Intelligence each may assign officers and employees of his respective department or agency, on a rotating basis to be determined by the Board, to the Institute if the affected officer or employee agrees to such assignment and such assignment causes no prejudice to the salary, benefits, status, or advancement within the respective department or agency of such officer or employee.
 
@@ -53,6 +53,10 @@ The provisions of title 28 which relate to Federal tort claims liability, referr
 1990—Subsec. (b). Pub. L. 101–520 substituted “4604(h)(3)” for “4604(g)(3)”.
 
 1988—Subsec. (f)(2). Pub. L. 100–569 struck out first sentence which read as follows: “No Federal funds shall be used to pay for private fringe benefit programs.”
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date of 1998 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) The penalty with respect to the marketing, by sale, of wheat, cotton, or rice, if the sale is to any person within the United States, shall be collected by the buyer.
 
-(b) All penalties provided for in part B of this subchapter shall be collected and paid in such manner, at such times, and under such conditions as the Secretary may by regulations prescribe. Such penalties shall be remitted to the Secretary by the person liable for the penalty, except that if any other person is liable for the collection of the penalty, such other person shall remit the penalty. Except as provided in section 1314h of this title, the amount of such penalties shall be covered into the general fund of the Treasury of the United States.
+(b) All penalties provided for in part B of this subchapter shall be collected and paid in suchmanner, at such times, and under such conditions as the Secretary may by regulations prescribe. Such penalties shall be remitted to the Secretary by the person liable for the penalty, except that if any other person is liable for the collection of the penalty, such other person shall remit the penalty. Except as provided in section 1314h <sup>1</sup> of this title, the amount of such penalties shall be covered into the general fund of the Treasury of the United States.
 
 (c) Whenever, pursuant to a claim filed with the Secretary within two years after payment to him of any penalty collected from any person pursuant to this chapter, the Secretary finds that such penalty was erroneously illegally, or wrongfully collected and the claimant bore the burden of the payment of such penalty, the Secretary shall certify to the Secretary of the Treasury for payment to the claimant, in accordance with regulations prescribed by the Secretary of the Treasury, such amount as the Secretary finds the claimant is entitled to receive as a refund of such penalty.
 
@@ -16,7 +16,7 @@ The Secretary is authorized to prescribe regulations governing the filing of suc
 
 #### References in Text
 
-Part B of this subchapter, referred to in subsec. (b), commences with section 1311 of this title.
+Section 1314h of this title, referred to in subsec. (b), was repealed by Pub. L. 108–357, title VI, §611(a), Oct. 22, 2004, 118 Stat. 1522.
 
 #### Amendments
 
@@ -35,4 +35,6 @@ Section 1106(b) of Pub. L. 99–272 provided that the amendment made by that sec
 #### Rulemaking Procedures
 
 Secretary of Agriculture to implement amendments by Pub. L. 99–272 without regard to provisions requiring notice and other procedures for public participation in rulemaking contained in section 553 of Title 5, Government Organization and Employees, or in any other directive of the Secretary, see section 1108(c) of Pub. L. 99–272, set out as a note under section 1301 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

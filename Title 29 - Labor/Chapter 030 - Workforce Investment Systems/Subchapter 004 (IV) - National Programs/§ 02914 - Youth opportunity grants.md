@@ -106,9 +106,5 @@ To be eligible to receive a grant under this section, a local board or entity sh
 
 1999—Subsec. (d)(2)(B). Pub. L. 106–113 substituted “or Alaska Natives.” for “or Alaska Native villages or Native groups (as such terms are defined in section 1602 of title 43).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2822, 2852, 2915 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

@@ -32,7 +32,3 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 For effective date of section, see section 2 of Pub. L. 90–487, set out as an Effective Date of 1968 Amendment note under section 78 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 79, 79a, 86 of this title.
-

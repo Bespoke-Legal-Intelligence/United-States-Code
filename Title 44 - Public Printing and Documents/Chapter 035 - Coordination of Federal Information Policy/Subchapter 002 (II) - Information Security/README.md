@@ -8,10 +8,6 @@
 
 2002—Pub. L. 107–296, title X, §1001(b)(1), Nov. 25, 2002, 116 Stat. 2259, reenacted subchapter heading without change.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3504, 3506, 3549 of this title; title 10 section 2224a.
-
 
 ---
 

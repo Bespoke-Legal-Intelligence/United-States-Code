@@ -28,7 +28,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;(A) any individual who is incarcerated in an institution under the jurisdiction of the Bureau of Prisons; or
 
-&emsp;&emsp;(B) any other individual, as designated by the Director, who has been charged with orconvicted of an offense against the United States.
+&emsp;&emsp;(B) any other individual, as designated by the Director, who has been charged with or convicted of an offense against the United States.
 
 (b)
 
@@ -92,7 +92,7 @@ Notice to Prisoners of Law.—Each person who is or becomes a prisoner shall be 
 
 (i)
 
-Notice to Prisoners of Regulations.—The regulations promulgated by the Director under subsection (b)(1), and any amendments to those regulations, shall not take effect until the expiration of the 30-day period beginning on the date on which each prisoner in the prison system is provided with written and oral notices of the provisions of those regulations (or amendments, as the case may be). A fee under this section may not be assessed against, or collected from, a prisoner pursuant to such regulations (or amendments, as the case may be) for services provided before the expiration of such period.
+Notice to Prisoners of Regulations.—The regulations promulgated by the Director under subsection (b)(1), and any amendments to those regulations, shall not take effect until the expiration of the 30-day period beginning on the date on which each prisoner in the prison system is provided with written and oral notices of the provisions of those regulations (or amendments, as the case may be). A fee under this section may not be assessed against, or collected from, a prisoner pursuant to such regulations (oramendments, as the case may be) for services provided before the expiration of such period.
 
 (j)
 
@@ -121,8 +121,4 @@ Comprehensive HIV/AIDS Services Required.—The Bureau of Prisons shall provide 
 #### References in Text
 
 The date of the enactment of the Federal Prisoner Health Care Copayment Act of 2000, referred to in subsec. (k), is the date of enactment of Pub. L. 106–294, which was approved Oct. 12, 2000.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4013 of this title.
 

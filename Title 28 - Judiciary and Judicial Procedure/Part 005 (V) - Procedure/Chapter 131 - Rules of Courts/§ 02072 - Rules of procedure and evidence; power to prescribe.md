@@ -32,7 +32,3 @@ Rules of civil procedure promulgated under this section as applicable to the Dis
 
 The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however, in the Supplemental Rules for Certain Admiralty and Maritime Claims, Rules A to F, Federal Rules of Civil Procedure, Appendix to this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 332, 636, 1292, 2071, 2073, 2074, 2112 of this title; title 26 section 7482; title 29 section 160; title 38 section 7292.
-

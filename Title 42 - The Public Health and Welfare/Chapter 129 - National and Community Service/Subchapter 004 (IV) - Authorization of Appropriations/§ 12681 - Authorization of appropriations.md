@@ -12,7 +12,7 @@
 
 &emsp;&emsp;Of the amount appropriated under subparagraph (A) for a fiscal year—
 
-&emsp;&emsp;&emsp;(i) not more than 63.75 percent shall be available to provide financial assistance under subpart A of part I of division B of subchapter I of this chapter;
+&emsp;&emsp;&emsp;(i) not more than 63.75 percent shall be available to provide financial assistanceunder subpart A of part I of division B of subchapter I of this chapter;
 
 &emsp;&emsp;&emsp;(ii) not more than 11.25 percent shall be available to provide financial assistance under subpart B of part I of such division; and
 
@@ -75,8 +75,4 @@ Subsec. (a)(2). Pub. L. 102–384, §11(b), substituted “paragraph (1)(A)” f
 #### Effective Date of 1993 Amendment
 
 Section 301(b) of Pub. L. 103–82 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1993.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12576, 12581, 12601, 12605, 12625, 12640, 12662, 12663 of this title.
 

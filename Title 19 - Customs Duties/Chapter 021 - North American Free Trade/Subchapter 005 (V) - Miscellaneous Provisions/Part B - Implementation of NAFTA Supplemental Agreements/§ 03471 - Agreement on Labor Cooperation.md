@@ -8,7 +8,7 @@
 
 #### (2) Contributions to budget
 
-&emsp;There are authorized to be appropriated to the President (or such agency as the President may designate) $2,000,000 for each of fiscal years 1994 and 1995 for United States contributions to the annual budget of the Commission for Labor Cooperation pursuant to Article 47 of the North American Agreement on Labor Cooperation. Funds authorized to be appropriated for such contributions by this paragraph are in addition to any funds otherwise available for such contributions. Funds authorized to be appropriated by this paragraph are authorized to be made available until expended.
+&emsp;There are authorized to be appropriated to the President (or such agency as the Presidentmay designate) $2,000,000 for each of fiscal years 1994 and 1995 for United States contributions to the annual budget of the Commission for Labor Cooperation pursuant to Article 47 of the North American Agreement on Labor Cooperation. Funds authorized to be appropriated for such contributions by this paragraph are in addition to any funds otherwise available for such contributions. Funds authorized to be appropriated by this paragraph are authorized to be made available until expended.
 
 #### (b) Definitions
 

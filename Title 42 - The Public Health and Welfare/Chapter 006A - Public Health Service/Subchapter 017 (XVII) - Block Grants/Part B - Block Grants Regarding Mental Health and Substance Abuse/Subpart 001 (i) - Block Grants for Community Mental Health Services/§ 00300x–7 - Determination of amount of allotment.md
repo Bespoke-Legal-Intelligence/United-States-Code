@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(ii) an amount equal to the product of 0.166 and the number of individuals in the State who are between 25 and 44 years of age (inclusive);
 
-&emsp;&emsp;(iii) an amount equal to the product of 0.099 and the number of individuals in theState who are between 45 and 64 years of age (inclusive); and
+&emsp;&emsp;(iii) an amount equal to the product of 0.099 and the number of individuals in the State who are between 45 and 64 years of age (inclusive); and
 
 &emsp;&emsp;(iv) an amount equal to the product of 0.082 and the number of individuals in the State who are 65 years of age or older.
 
@@ -78,7 +78,7 @@
 
 &emsp;(ii) The amount determined under this clause for the District of Columbia is the quotient of—
 
-&emsp;&emsp;(I) the most recent 3-year arithmetic mean of total personal income in such District, as determined by the Secretary of Commerce; divided by
+&emsp;&emsp;(I) the most recent 3-year arithmetic mean of total personal income in such District, asdetermined by the Secretary of Commerce; divided by
 
 &emsp;&emsp;(II) the factor determined under paragraph (8) for the District.
 
@@ -126,7 +126,7 @@ With respect to fiscal year 2000, and subsequent fiscal years, the amount of the
 
 &emsp;&emsp;(B) $50,000; and
 
-&emsp;&emsp;(C) with respect to fiscal years 1993 and 1994, an amount equal to 20.6 percent of theamount received by the territory from allotments made pursuant to this part for fiscal year 1992.
+&emsp;&emsp;(C) with respect to fiscal years 1993 and 1994, an amount equal to 20.6 percent of the amount received by the territory from allotments made pursuant to this part for fiscal year 1992.
 
 #### (3) Reservation of amounts
 
@@ -187,8 +187,4 @@ Application.—Upon the expiration of the fiscal year described in paragraph (1)
 #### Effective Date of 1992 Amendments
 
 Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L. 102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300x, 300x–1, 300x–33, 300x–64 of this title.
 

@@ -21,10 +21,6 @@
 
 1971—Pub. L. 92–95, §2, Aug. 11, 1971, 85 Stat. 322, added item 806.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 106, 113, 3711 of this title; title 2 section 905; title 26 section 6334; title 31 section 3803.
-
 
 ---
 

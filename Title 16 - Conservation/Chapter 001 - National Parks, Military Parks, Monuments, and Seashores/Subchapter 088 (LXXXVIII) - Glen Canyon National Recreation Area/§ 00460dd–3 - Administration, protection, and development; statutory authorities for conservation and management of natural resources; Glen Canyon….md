@@ -8,7 +8,3 @@ The Secretary shall administer, protect, and develop the recreation area in acco
 
 Public Law 485, Eighty-fourth Congress, second session, referred to in text, is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, which is popularly known as the Colorado River Storage Project Act, and which is classified generally to chapter 12B (§620 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 620 of Title 43 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460dd–5 of this title.
-

@@ -26,9 +26,5 @@ Amendment by section 103(c) of Pub. L. 87–781 effective on first day of sevent
 
 Section 203 of title II of Pub. L. 87–781 provided that: “The amendments made by this title \[amending this section and section 374 of this title and enacting provisions set out as notes under sections 321 and 374 of this title\] shall take effect on the date of enactment of this Act \[Oct. 10, 1962\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 333, 334, 360j of this title; title 42 section 1396r–8.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -16,7 +16,3 @@ The Committee shall—
 
 (Added Pub. L. 101–509, title IV, §1(d)(1), Nov. 5, 1990, 104 Stat. 1418.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2704, 2706 of this title.
-

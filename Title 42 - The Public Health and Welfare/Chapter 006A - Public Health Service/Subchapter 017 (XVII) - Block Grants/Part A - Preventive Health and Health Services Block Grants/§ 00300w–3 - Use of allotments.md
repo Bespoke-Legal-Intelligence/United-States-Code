@@ -60,7 +60,7 @@ Subsec. (a)(1)(F). Pub. L. 106–310, §511(1), (4), redesignated subpar. (E) as
 
 Subsec. (a)(1)(G). Pub. L. 106–310, §511(1), (2), (5), redesignated subpar. (F) as (G) and substituted “subparagraphs (A) through (F).” for “subparagraphs (A) through (E)”.
 
-1992—Subsec. (a)(1). Pub. L. 102–531, §102(a), amended par. (1) generally, substituting present provisions for provisions authorizing, except as provided in subsecs.\(b) and (c), use of the amounts paid to a State under section 300w–2 of this title from its allotment under section 300w–1(a) of this title and amounts transferred by the State, for use in preventive health service programs, including hypertension and high cholesterol services, health-risk reduction programs, immunization services, home health agencies, emergency medical services, services to victims of sex offenses, and uterine cancer and breast cancer services.
+1992—Subsec. (a)(1). Pub. L. 102–531, §102(a), amended par. (1) generally, substituting present provisions for provisions authorizing, except as provided in subsecs. (b) and (c), use of the amounts paid to a State under section 300w–2 of this title from its allotment under section 300w–1(a) of this title and amounts transferred by the State, for use in preventive health service programs, including hypertension and high cholesterol services, health-risk reduction programs, immunization services, home health agencies, emergency medical services, services to victims of sex offenses, and uterine cancer and breast cancer services.
 
 Subsec. (c). Pub. L. 102–531, §102(b), substituted “part B” for “parts B and C”.
 
@@ -81,8 +81,4 @@ Subsec. (a)(1)(H). Pub. L. 100–607, §301(b)(5), added subpar. (H).
 #### Effective Date of 1986 Amendments
 
 Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, respectively, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of Title 18, Crimes and Criminal Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300w–2, 300w–4, 300w–5, 300w–9 of this title.
 

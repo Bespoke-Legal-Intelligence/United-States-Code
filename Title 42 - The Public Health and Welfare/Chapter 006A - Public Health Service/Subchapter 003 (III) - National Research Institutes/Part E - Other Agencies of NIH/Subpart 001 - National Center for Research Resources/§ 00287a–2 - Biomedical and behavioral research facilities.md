@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director of NIH, acting through the Director of the Center, may make grants or contracts to public and nonprofit private entities to expand, remodel, renovate, or alter existing research facilities or construct new research facilities, subject to the provisions of this section.
+&emsp;The Director of NIH, acting through the Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases, may make grants or contracts to public and nonprofit private entities to expand, remodel, renovate, or alter existing research facilities or construct new research facilities, subject to the provisions of this section.
 
 #### (2) Construction and cost of construction
 
@@ -26,7 +26,7 @@
 
 #### (A) Advice
 
-&emsp;&emsp;The Board shall provide advice to the Director of the Center and the advisory council established under section 287a of this title\(in this section referred to as the “Advisory Council”) in carrying out this section.
+&emsp;&emsp;The Board shall provide advice to the Director of the Center and the advisory council established under section 287a of this title (in this section referred to as the “Advisory Council”) in carrying out this section.
 
 #### (B) Determination of merit
 
@@ -100,7 +100,7 @@
 
 #### (1) In general
 
-&emsp;The Director of the Center may make a grant under subsection (a) of this section only if the applicant for the grant meets the following conditions:
+&emsp;The Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases may make a grant under subsection (a) of this section only if the applicant for the grant meets the following conditions:
 
 &emsp;&emsp;(A) The applicant is determined by such Director to be competent to engage in the type of research for which the proposed facility is to be constructed.
 
@@ -128,7 +128,7 @@
 
 #### (2) Institutions of emerging excellence
 
-&emsp;From the amount appropriated under subsection (i) of this section for a fiscal year up to $50,000,000, the Director of the Center shall make available 25 percent of such amount, and from the amount appropriated under such subsection for a fiscal year that is over $50,000,000, the Director of the Center shall make available up to 25 percent of such amount, for grants under subsection (a) of this section to applicants that in addition to meeting the requirements established in paragraph (1), have demonstrated emerging excellence in biomedical or behavioral research, as follows:
+&emsp;From the amount appropriated under subsection (i)(1) of this section for a fiscal year up to $50,000,000, the Director of the Center shall make available 25 percent of such amount, and from the amount appropriated under such subsection for a fiscal year that is over $50,000,000, the Director of the Center shall make available up to 25 percent of such amount, for grants under subsection (a) of this section to applicants that in addition to meeting the requirements established in paragraph (1), have demonstrated emerging excellence in biomedical or behavioral research, as follows:
 
 &emsp;&emsp;(A) The applicant has a plan for research or training advancement and possesses the ability to carry out the plan.
 
@@ -146,21 +146,21 @@
 
 #### (d) Requirement of application
 
-The Director of the Center may make a grant under subsection (a) of this section only if an application for the grant is submitted to the Director and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Director determines to be necessary to carry out this section.
+The Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases may make a grant under subsection (a) of this section only if an application for the grant is submitted to the Director and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Director determines to be necessary to carry out this section.
 
 #### (e) Amount of grant; payments
 
 #### (1) Amount
 
-&emsp;The amount of any grant awarded under subsection (a) of this section shall be determined by the Director of the Center, except that such amount shall not exceed—
+&emsp;The amount of any grant awarded under subsection (a) of this section shall be determined by the Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases, except that such amount shall not exceed—
 
-&emsp;&emsp;(A) 50 percent of the necessary cost of the construction of a proposed facility as determined by the Director; or
+&emsp;&emsp;(A) 50 percent (or, in the case of the Institute, 75 percent) of the necessary cost of the construction of a proposed facility as determined by the Director; or
 
-&emsp;&emsp;(B) in the case of a multipurpose facility, 40 percent of that part of the necessary cost of construction that the Director determines to be proportionate to the contemplated use of the facility.
+&emsp;&emsp;(B) in the case of a multipurpose facility, 40 percent (or, in the case of the Institute, 75 percent) of that part of the necessary cost of construction that the Director determines to be proportionate to the contemplated use of the facility.
 
 #### (2) Reservation of amounts
 
-&emsp;On the approval of any application for a grant under subsection (a) of this section, the Director of the Center shall reserve, from any appropriation available for such grants, the amount of such grant, and shall pay such amount, in advance or by way of reimbursement, and in such installments consistent with the construction progress, as the Director may determine appropriate. The reservation of any amount by the Director under this paragraph may be amended by the Director, either on the approval of an amendment of the application or on the revision of the estimated cost of construction of the facility.
+&emsp;On the approval of any application for a grant under subsection (a) of this section, the Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases shall reserve, from any appropriation available for such grants, the amount of such grant, and shall pay such amount, in advance or by way of reimbursement, and in such installments consistent with the construction progress, as the Director may determine appropriate. The reservation of any amount by the Director under this paragraph may be amended by the Director, either on the approval of an amendment of the application or on the revision of the estimated cost of construction of the facility.
 
 #### (3) Exclusion of certain costs
 
@@ -172,15 +172,15 @@ The Director of the Center may make a grant under subsection (a) of this section
 
 #### (4) Waiver of limitations
 
-&emsp;The limitations imposed under paragraph (1) may be waived at the discretion of the Director for applicants meeting the conditions described in subsection (c) of this section.
+&emsp;The limitations imposed under paragraph (1) may be waived at the discretion of the Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases for applicants meeting the conditions described in subsection (c) of this section.
 
 #### (f) Recapture of payments
 
 If, not later than 20 years after the completion of construction for which a grant has been awarded under subsection (a) of this section—
 
-&emsp;(1) the applicant or other owner of the facility shall cease to be a public or non profit <sup>2</sup> private entity; or
+&emsp;(1) in the case of an award by the Director of the Center, the applicant or other owner of the facility shall cease to be a public or non profit <sup>2</sup> private entity; or
 
-&emsp;(2) the facility shall cease to be used for the research purposes for which it was constructed (unless the Director determines, in accordance with regulations, that there is good cause for releasing the applicant or other owner from obligation to do so),
+&emsp;(2) the facility shall cease to be used for the research purposes for which it was constructed (unless the Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases determines, in accordance with regulations, that there is good cause for releasing the applicant or other owner from obligation to do so),
 
 > the United States shall be entitled to recover from the applicant or other owner of the facility the amount bearing the same ratio to the current value (as determined by an agreement between the parties or by action brought in the United States District Court for the district in which such facility is situated) of the facility as the amount of the Federal participation bore to the cost of the construction of such facility.
 
@@ -194,15 +194,45 @@ The Director of the Center shall prepare and submit to the appropriate committee
 
 #### (i) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $250,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
+#### (1) Center
 
-(July 1, 1944, ch. 373, title IV, §481A, as added Pub. L. 103–43, title XV, §1502, June 10, 1993, 107 Stat. 173; amended Pub. L. 105–392, title I, §101(c), Nov. 13, 1998, 112 Stat. 3537; Pub. L. 106–505, title III, §303, Nov. 13, 2000, 114 Stat. 2330.)
+&emsp;For the purpose of carrying out this section with respect to the Center, there are authorized to be appropriated $250,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
+
+#### (2) National Institute of Allergy and Infectious Diseases
+
+&emsp;For the purpose of carrying out this section with respect to the National Institute of Allergy and Infectious Diseases, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2004 and 2005.
+
+(July 1, 1944, ch. 373, title IV, §481A, as added Pub. L. 103–43, title XV, §1502, June 10, 1993, 107 Stat. 173; amended Pub. L. 105–392, title I, §101(c), Nov. 13, 1998, 112 Stat. 3537; Pub. L. 106–505, title III, §303, Nov. 13, 2000, 114 Stat. 2330; Pub. L. 108–276, §2(b), July 21, 2004, 118 Stat. 841.)
 
 #### References in Text
 
 Section 293c of this title, referred to in subsec. (c)(2)(D)(i), does not contain provisions relating to designation as a center of excellence. See section 293 of this title.
 
 #### Amendments
+
+2004—Subsec. (a)(1). Pub. L. 108–276, §2(b)(1), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
+
+Subsec. (c)(1). Pub. L. 108–276, §2(b)(2)(A), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
+
+Subsec. (c)(2). Pub. L. 108–276, §2(b)(2)(B), substituted “subsection (i)(1)” for “subsection (i)” in introductory provisions.
+
+Subsec. (d). Pub. L. 108–276, §2(b)(3), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
+
+Subsec. (e)(1). Pub. L. 108–276, §2(b)(4)(A)(i), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center” in introductory provisions.
+
+Subsec. (e)(1)(A). Pub. L. 108–276, §2(b)(4)(A)(ii), inserted “(or, in the case of the Institute, 75 percent)” after “50 percent”.
+
+Subsec. (e)(1)(B). Pub. L. 108–276, §2(b)(4)(A)(iii), inserted “(or, in the case of the Institute, 75 percent)” after “40 percent”.
+
+Subsec. (e)(2). Pub. L. 108–276, §2(b)(4)(B), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
+
+Subsec. (e)(4). Pub. L.108–276, §2(b)(4)(C), inserted “of the Center or the Director of the National Institute of Allergy and Infectious Diseases” after “Director”.
+
+Subsec. (f)(1). Pub. L. 108–276, §2(b)(5)(A), inserted “in the case of an award by the Director of the Center,” before “the applicant”.
+
+Subsec. (f)(2). Pub. L. 108–276, §2(b)(5)(B), inserted “of the Center or the Director of the National Institute of Allergy and Infectious Diseases” after “Director”.
+
+Subsec. (i). Pub. L. 108–276, §2(b)(6), designated existing provisions as par. (1), inserted heading, substituted “For the purpose of carrying out this section with respect to the Center,” for “For the purpose of carrying out this section,”, and added par. (2).
 
 2000—Pub. L. 106–505 amended section generally, adding provisions requiring the Director to provide Congress with biennial status reports.
 
@@ -227,10 +257,6 @@ Pub. L. 106–505, title III, §302, Nov. 13, 2000, 114 Stat. 2330, provided tha
 &emsp;“(7) the National Science Foundation reports that academic institutions have deferred nearly $11,000,000,000 in renovation and construction projects because of a lack of funds; and
 
 &emsp;“(8) future increases in Federal funding for the National Institutes of Health must include increased support for the renovation and construction of extramural research facilities in the United States and the purchase of state-of-the-art laboratory instrumentation.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 287a–3 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

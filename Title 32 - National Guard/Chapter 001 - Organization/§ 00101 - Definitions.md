@@ -230,7 +230,3 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701(a) of Pu
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 6323; title 10 section 101; title 28 section 2671.
-

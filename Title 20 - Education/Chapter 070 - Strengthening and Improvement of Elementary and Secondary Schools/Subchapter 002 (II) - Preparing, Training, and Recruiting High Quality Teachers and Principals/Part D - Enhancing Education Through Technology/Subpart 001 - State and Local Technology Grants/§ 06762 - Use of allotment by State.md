@@ -54,7 +54,3 @@ Each State educational agency receiving a grant under section 6761(a) of this ti
 
 (Pub. L. 89–10, title II, §2412, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1674.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6763, 6764, 6765, 6766, 7305b, 7315a, 7345 of this title.
-

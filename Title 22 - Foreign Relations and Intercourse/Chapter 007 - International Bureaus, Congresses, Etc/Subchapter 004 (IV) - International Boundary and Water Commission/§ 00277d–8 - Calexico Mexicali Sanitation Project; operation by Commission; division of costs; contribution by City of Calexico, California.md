@@ -4,7 +4,3 @@ The Secretary of State is authorized, subject to the conditions provided in this
 
 (Sept. 13, 1950, ch. 948, title III, §301, 64 Stat. 848.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 277d–9 of this title.
-

@@ -20,7 +20,7 @@ A State may use amounts provided under a grant awarded under this part to provid
 
 &emsp;To receive assistance from a State under subsection (a) of this section, an applicant consortium shall provide the State with assurances that—
 
-&emsp;&emsp;(A) within any locality in which such consortium is to operate, the populations andsubpopulations of individuals and families with HIV disease have been identified by the consortium, particularly those experiencing disparities in access and services and those who reside in historically underserved communities;
+&emsp;&emsp;(A) within any locality in which such consortium is to operate, the populations and subpopulations of individuals and families with HIV disease have been identified by the consortium, particularly those experiencing disparities in access and services and those who reside in historically underserved communities;
 
 &emsp;&emsp;(B) the service plan established under subsection (c)(2) of this section by such consortium is consistent with the comprehensive plan under section 300ff–27(b)(4) of this title and addresses the special care and service needs of the populations and subpopulations identified under subparagraph (A); and
 
@@ -131,10 +131,6 @@ Subsec. (c)(2)(C). Pub. L. 104–146, §3(c)(2)(B)(ii), added subpar. (C).
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–22, 300ff–28 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,3 @@ A mortgagee or lender may not require, as a condition of providing a loan insure
 
 (June 27, 1934, ch. 847, title V, §535, as added Pub. L. 100–242, title IV, §419(a), Feb. 5, 1988, 101 Stat. 1913.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1735f–17 of this title.
-

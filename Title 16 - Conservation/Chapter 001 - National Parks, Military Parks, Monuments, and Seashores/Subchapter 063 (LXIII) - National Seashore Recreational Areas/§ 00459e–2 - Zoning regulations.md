@@ -6,7 +6,7 @@ In order to carry out the provisions of section 459e–1 of this title the Secre
 
 #### (b) Commercial or industrial use prohibition; size, location or use restrictions for commercial, residential, and other structures; reconciliation of population density with protection of natural resources
 
-The standards specified in such regulations shall have the object of (1) prohibiting new commercial or industrial uses, other than commercial or industrial uses which the Secretary considers are consistent with the purposes of sections 459e to 459e–9 of this title, of all property within the national seashore, and (2) promoting the protection and development for purposes of sections 459e to 459e–9 of this title of the land within the national seashore by means of limitations or restrictions on the size, location or use of any commercial, residential, and other structures. In accomplishing these objectives, such standards shall seek to reconcile the population density of the seashore on October 17, 1984, with the protection of the natural resources of the Seashore <sup>1</sup> consistent with the purposes for which it has been established as provided by sections 459e to 459e–9 of this title.
+The standards specified in such regulations shall have the object of (1) prohibiting new commercial or industrial uses, other than commercial or industrial uses which the Secretary considers are consistent with the purposes of sections 459e to 459e–9 of this title, of all property within the national seashore, and (2) promoting the protection and development for purposes of sections 459e to 459e–9 of this title of the land within the national seashore by means of limitations or restrictions on the size, location or use of any commercial, residential, and other structures. In accomplishing these objectives, such standards shall seek to reconcile the populationdensity of the seashore on October 17, 1984, with the protection of the natural resources of the Seashore <sup>1</sup> consistent with the purposes for which it has been established as provided by sections 459e to 459e–9 of this title.
 
 #### (c) Approval of ordinances
 
@@ -18,7 +18,7 @@ No zoning ordinance or amendment thereof shall be approved by the Secretary whic
 
 #### (e) Termination of suspension of authority for acquisition by condemnation because of nonconforming variances and uses
 
-In the case of any property, including improved property but excluding undeveloped property in the Dune district referred to in section 459e–1(g) of this title, with respect to which theSecretary's authority to acquire by condemnation has been suspended under sections 459e to 459e–9 of this title if—
+In the case of any property, including improved property but excluding undeveloped property in the Dune district referred to in section 459e–1(g) of this title, with respect to which the Secretary's authority to acquire by condemnation has been suspended under sections 459e to 459e–9 of this title if—
 
 &emsp;(1) such property is, after October 17, 1984, made the subject of a variance under, or becomes for any reason an exception to, any applicable zoning ordinance approved under this section; and
 
@@ -49,10 +49,6 @@ Notwithstanding any other provision of sections 459e to 459e–9 of this title, 
 Subsec. (e). Pub. L. 98–482, §3, designated part of existing provisions as pars. (1) and (2), made the provisions applicable to any property, and excluded undeveloped property in the Dune district.
 
 Subsec. (g). Pub. L. 98–482, §5, added subsec. (g).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459e–1, 459e–3, 459e–5, 459e–6, 459e–7, 459e–9 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

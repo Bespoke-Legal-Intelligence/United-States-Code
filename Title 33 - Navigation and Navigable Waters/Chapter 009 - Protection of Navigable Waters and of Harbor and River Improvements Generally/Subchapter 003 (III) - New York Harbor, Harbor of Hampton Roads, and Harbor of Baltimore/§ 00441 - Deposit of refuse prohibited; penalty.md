@@ -6,7 +6,7 @@ The placing, discharging, or depositing, by any process or in any manner, of ref
 
 #### Prior Provisions
 
-Section 1 of act June 29, 1888, superseded act Aug. 5, 1886, ch. 929, §3, 24 Stat. 329, which provided that: “It shall not be lawful to cast, throw, empty, or unlade, or cause, suffer, or procure to be cast, thrown, emptied, or unladen, either from or out of any ship, vessel, lighter, barge, boat, or other craft, or from the shore, pier, wharf, or mills of any kind whatever, any ballast, stone, slate, gravel, earth, slack, rubbish, wreck, filth, slabs, edgings, sawdust, slag or cinders or other refuse or mill-waste of any kind, into New York Harbor: <i>Provided</i>, That nothing herein contained shall extend, or be construed to extend, to the casting out, unlading, or throwing out of any ship or vessel, lighter, barge, boat, or other craft, any stones, rocks, bricks, lime, or othermaterials used, or to be used, in or toward the building, repairing, or keeping in repair any quay, pier, wharf, weir, bridge, building, or other work lawfully erected or to be erected on the banks or sides of said harbor, or to the casting out, unloading or depositing of any material excavated for the improvement of navigable waters, into such places and in such manner as may be deemed by the United States officer supervising the improvement of said harbor most judicious and practicable and for the best interests of such improvement.”
+Section 1 of act June 29, 1888, superseded act Aug. 5, 1886, ch. 929, §3, 24 Stat. 329, which provided that: “Itshall not be lawful to cast, throw, empty, or unlade, or cause, suffer, or procure to be cast, thrown, emptied, or unladen, either from or out of any ship, vessel, lighter, barge, boat, or other craft, or from the shore, pier, wharf, or mills of any kind whatever, any ballast, stone, slate, gravel, earth, slack, rubbish, wreck, filth, slabs, edgings, sawdust, slag or cinders or other refuse or mill-waste of any kind, into New York Harbor: <i>Provided</i>, That nothing herein contained shall extend, or be construed to extend, to the casting out, unlading, or throwing out of any ship or vessel, lighter, barge, boat, or other craft, any stones, rocks, bricks, lime, or other materials used, or to be used, in or toward the building, repairing, or keeping in repair any quay, pier, wharf, weir, bridge, building, or other work lawfully erected or to be erected on the banks or sides of said harbor, or to the casting out, unloading or depositing of any material excavated for the improvement of navigable waters, into such places and in such manner as may be deemed by the United States officer supervising the improvement of said harbor most judicious and practicable and for the best interests of such improvement.”
 
 #### Amendments
 
@@ -15,8 +15,4 @@ Section 1 of act June 29, 1888, superseded act Aug. 5, 1886, ch. 929, §3, 24 St
 #### Effective Date of 1958 Amendment
 
 Section 2 of Pub. L. 85–802 provided that: “This Act \[amending this section and sections 442, 446, 447, 449, 451, and 451a of this title and enacting section 451b of this title\] shall take effect on the sixtieth day after the date of its enactment \[Aug. 28, 1958\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 442, 443, 444 of this title.
 

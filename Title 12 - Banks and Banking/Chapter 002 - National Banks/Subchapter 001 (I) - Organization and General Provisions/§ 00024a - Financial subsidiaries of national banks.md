@@ -52,7 +52,7 @@
 
 #### (4) Financial agency subsidiary
 
-&emsp;The requirement in paragraph (2)(E) shall not apply with respect to the ownership orcontrol of a financial subsidiary that engages in activities described in subsection (b)(1) of this section solely as agent and not directly or indirectly as principal.
+&emsp;The requirement in paragraph (2)(E) shall not apply with respect to the ownership or control of a financial subsidiary that engages in activities described in subsection (b)(1) of this section solely as agent and not directly or indirectly as principal.
 
 #### (5) Regulations required
 
@@ -249,10 +249,6 @@ A prior section 5136A of the Revised Statutes was renumbered section 5136B by Pu
 #### Effective Date
 
 Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as an Effective Date of 1999 Amendment note under section 24 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 335, 371c, 1831w, 1843, 1971 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

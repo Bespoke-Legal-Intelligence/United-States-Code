@@ -4,7 +4,3 @@ Funds available for allocation under the terms of this subchapter shall be paid 
 
 (Pub. L. 95–113, title XIV, §1435, Sept. 29, 1977, 91 Stat. 1004.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3196 of this title.
-

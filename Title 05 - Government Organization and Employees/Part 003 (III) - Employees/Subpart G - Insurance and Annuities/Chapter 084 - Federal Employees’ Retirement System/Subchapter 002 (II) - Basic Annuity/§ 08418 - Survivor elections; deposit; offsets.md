@@ -26,7 +26,3 @@ Subsec. (b). Pub. L. 102–66, §11004(b)(2), amended subsec. (b) generally. Pri
 
 Amendment by Pub. L. 103–66 effective on first day of first month beginning at least 30 days after Aug. 10, 1993, and applicable to all deposits required under section 8339(j)(3) or (5), 8339(k)(2), or 8418 of this title, on which no payment has been made prior to such effective date, with provision for partial deposit, see section 11004(c) of Pub. L. 103–66, set out as a note under section 8339 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 4071j; title 50 section 2154.
-

@@ -14,5 +14,5 @@ Section was enacted as part of the Supplemental Appropriations Act, 1985, and no
 
 #### Applicability of 1988 Amendment
 
-Section 615(b)(1)(B) of Pub. L. 100–233 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall not apply to any note or other obligation sold under section 1001 of the Omnibus \[Budget\] Reconciliation Act of 1986 \[Pub. L. 99–509, 7 U.S.C. 1929a note\] on or before the date of the enactment of this paragraph \[Jan. 6, 1988\].”
+Section 615(b)(1)(B) of Pub. L. 100–233 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall not apply to any note or other obligation sold under section 1001 of the Omnibus \[Budget\] Reconciliation Act of 1986 \[Pub. L. 99–509, 7 U.S.C. 1929a note\] on or before the date of the enactment of this paragraph \[Jan. 6, 1988\].”
 

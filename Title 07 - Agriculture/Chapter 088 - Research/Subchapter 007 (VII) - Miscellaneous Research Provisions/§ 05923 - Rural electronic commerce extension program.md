@@ -82,7 +82,7 @@ The Secretary shall establish a rural electronic commerce extension program to e
 
 Not later than 2 years after May 13, 2002, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
 
-&emsp;(1) <sup>1</sup> the policies, practices, and procedures used to assist rural communities in efforts to adopt and use electronic commerce techniques; and
+&emsp;(1) <sup>1</sup> the policies, practices, and procedures used to assist rural communities in efforts toadopt and use electronic commerce techniques; and
 
 #### (e) Authorization of appropriations
 

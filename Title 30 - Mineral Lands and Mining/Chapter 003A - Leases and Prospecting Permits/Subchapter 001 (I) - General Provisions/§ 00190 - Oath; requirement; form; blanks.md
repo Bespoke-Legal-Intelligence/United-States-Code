@@ -4,7 +4,3 @@ All statements, representations, or reports required by the Secretary of the Int
 
 (Feb. 25, 1920, ch. 85, §33, 41 Stat. 450.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 275, 285 of this title; title 10 sections 7421, 7435.
-

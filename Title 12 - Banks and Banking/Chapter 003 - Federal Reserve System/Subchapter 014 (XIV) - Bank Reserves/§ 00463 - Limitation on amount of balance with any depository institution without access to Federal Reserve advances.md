@@ -1,6 +1,6 @@
 ### §463. Limitation on amount of balance with any depository institution without access to Federal Reserve advances
 
-No member bank shall keep on deposit with any depository institution which is not authorized to have access to Federal Reserve advancesunder section 347b <sup>1</sup> of this title a sum in excess of 10 per centum of its own paid-up capital and surplus.
+No member bank shall keep on deposit with any depository institution which is not authorized to have access to Federal Reserve advances under section 347b <sup>1</sup> of this title a sum in excess of 10 per centum of its own paid-up capital and surplus.
 
 (Dec. 23, 1913, ch. 6, §19(e), formerly §19 (par. 8), 38 Stat. 270; Aug. 15, 1914, ch. 252, 38 Stat. 691; June 21, 1917, ch. 32, §10, 40 Stat. 239; renumbered §19(e), Pub. L. 89–597, §2(b), Sept. 21, 1966, 80 Stat. 824; Pub. L. 96–221, title I, §105(e), Mar. 31, 1980, 94 Stat. 140.)
 
@@ -19,10 +19,6 @@ Section is comprised of part of subsec. (e), formerly eighth par., of section 19
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–221 effective on first day of sixth month which begins after Mar. 31, 1980, see section 108 of Pub. L. 96–221, set out as a note under section 248 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 248, 1424, 1828, 3105 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

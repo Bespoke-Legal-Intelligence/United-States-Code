@@ -32,7 +32,3 @@ Sections 9, 9A, 9B, and 9C of the Act of July 31, 1946, referred to in text, are
 
 Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 sections 1819, 1961, 1970, 2021, 2161.
-

@@ -28,7 +28,3 @@ A copy of each permit application, compliance plan (including the schedule of co
 
 (July 14, 1955, ch. 360, title V, §503, as added Pub. L. 101–549, title V, §501, Nov. 15, 1990, 104 Stat. 2641.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7413, 7661a, 7661c of this title.
-

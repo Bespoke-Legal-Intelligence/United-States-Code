@@ -18,6 +18,44 @@ Section is based on act Mar. 4, 1911, popularly known as the “Sundry Civil App
 
 Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under section 1801 of this title.
 
+#### Management and Operation of the Capitol Power Plant
+
+Pub. L. 108–447, div. G, title I, §1101, Dec. 8, 2004, 118 Stat. 3185, provided that:
+
+“(a)
+
+Definition.—In this section, the term ‘appropriate congressional committees’ means—
+
+&emsp;“(1) the Committee on Appropriations of the Senate and the House of Representatives;
+
+&emsp;“(2) the Committee on Rules and Administration of the Senate; and
+
+&emsp;“(3) the House Office Building Commission.
+
+“(b)
+
+Study of Contract With a Private Entity.—Not later than 180 days after the date of enactment of this Act \[Dec. 8, 2004\], the Comptroller General shall conduct a study and submit to the appropriate congressional committees and the Architect of the Capitol a report that—
+
+&emsp;“(1) analyzes the costs, cost effectiveness, benefits, and feasibility of the Architect of the Capitol entering into a contract with a private entity for the management and operation of the Capitol Power Plant; and
+
+&emsp;“(2) makes a recommendation on whether the Architect of the Capitol should enter into such a contract.
+
+“(c)
+
+Implementation Plan.—If the Comptroller General makes a recommendation under subsection (b)(2) in favor of entering into a contract, the Architect of the Capitol shall submit an implementation plan for that contract to the appropriate congressional committees not later than the later of—
+
+&emsp;“(1) 270 days after the date of enactment of this Act \[Dec. 8, 2004\]; or
+
+&emsp;“(2) the date of the completion of the West Refrigeration Plant.
+
+“(d)
+
+Contract.—Subject to the approval of the appropriate congressional committees, the Architect of the Capitol shall enter into a contract with a private entity for the management and operation of the Capitol Power Plant.
+
+“(e)
+
+Effective Date.—This section shall apply to fiscal year 2005 and each fiscal year thereafter.”
+
 #### General Services Administration Coal Yard
 
 Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2170, provided: “That appropriations under this head \[“

@@ -4,7 +4,3 @@ Except as otherwise provided in sections 459d to 459d–7 of this title, the pro
 
 (Pub. L. 87–712, §5, Sept. 28, 1962, 76 Stat. 652.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459d–1, 459d–2, 459d–6, 459d–7 of this title.
-

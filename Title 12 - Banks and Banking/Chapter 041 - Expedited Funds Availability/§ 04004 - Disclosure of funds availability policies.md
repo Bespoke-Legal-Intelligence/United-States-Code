@@ -72,7 +72,3 @@ After enactment, referred to in the heading of subsec. (c)(1), probably means af
 
 Section effective Sept. 1, 1988, see section 613(b) of Pub. L. 100–86, set out as a note under section 4001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4005, 4009 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—COMPENSATION, REIMBURSEMENT, ETC., BY SECRETARY OF LABOR
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1712, 1713, 1714, 1715, 1717 of this title; title 50 App. section 2004.
-
 
 ---
 

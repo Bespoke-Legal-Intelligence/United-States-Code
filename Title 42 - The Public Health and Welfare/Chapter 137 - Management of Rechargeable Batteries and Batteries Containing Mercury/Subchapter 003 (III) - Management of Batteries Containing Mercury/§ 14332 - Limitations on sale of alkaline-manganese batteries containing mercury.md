@@ -4,7 +4,3 @@ No person shall sell, offer for sale, or offer for promotional purposes any alka
 
 (Pub. L. 104–142, title II, §203, May 13, 1996, 110 Stat. 1336.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14333 of this title.
-

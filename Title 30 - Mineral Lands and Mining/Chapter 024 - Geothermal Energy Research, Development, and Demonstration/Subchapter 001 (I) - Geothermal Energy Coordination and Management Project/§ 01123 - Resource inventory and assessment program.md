@@ -18,7 +18,7 @@
 
 &emsp;(3) publish and make available maps, reports, and other documents developed from such surveys to encourage and facilitate the commercial development of geothermal resources for beneficial use and consistent with the national interest;
 
-&emsp;(4) make such recommendations for legislation or administrative regulations as may from time to time appear to be necessary to make Federal leasing, environmental and taxing policy for geothermal resources consistent with known inventories of various resource types, with the current state of technologies for geothermal energy development, and with current evaluations of the environmental impacts of such development; and
+&emsp;(4) make such recommendations for legislation or administrative regulations as may from time to time appear to be necessary to make Federal leasing, environmental and taxing policy for geothermal resources consistent with known inventories of various resource types, with the current state of technologiesfor geothermal energy development, and with current evaluations of the environmental impacts of such development; and
 
 &emsp;(5) participate with appropriate Federal agencies and non-Federal entities in research to develop, improve, and test technologies for the discovery and evaluation of all forms of geothermal resources, and conduct research into the principles controlling the location, occurrence, size, temperature, energy content, producibility, and economic lifetimes of geothermal reservoirs.
 
@@ -31,8 +31,4 @@
 #### Change of Name
 
 “United States Geological Survey” substituted for “Geological Survey” in subsec. (b) pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1126 of this title.
 

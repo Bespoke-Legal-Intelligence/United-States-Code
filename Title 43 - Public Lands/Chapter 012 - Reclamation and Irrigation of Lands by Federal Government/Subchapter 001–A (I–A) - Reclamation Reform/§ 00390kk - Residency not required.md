@@ -4,7 +4,3 @@ Notwithstanding any other provision of law, irrigation water made available from
 
 (Pub. L. 97–293, title II, §211, Oct. 12, 1982, 96 Stat. 1269.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390cc of this title.
-

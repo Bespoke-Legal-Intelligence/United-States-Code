@@ -32,7 +32,7 @@
 
 (f) The Postal Service shall take any action it determines necessary and proper, including but not limited to suspension, removal from office, or disqualification from the Postal Service, to enforce the provisions of this section.
 
-(g) The provisions of this section shall not affect the right of an officer or employee of thePostal Service to petition Congress as authorized by section 7211 of title 5.
+(g) The provisions of this section shall not affect the right of an officer or employee of the Postal Service to petition Congress as authorized by section 7211 of title 5.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 729; Pub. L. 95–454, title VII, §703(c)(5), Oct. 13, 1978, 92 Stat. 1217.)
 

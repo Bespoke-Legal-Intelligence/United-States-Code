@@ -24,7 +24,3 @@ There are authorized to be appropriated to carry out this section—
 
 (Pub. L. 103–322, title IV, §40152, Sept. 13, 1994, 108 Stat. 1920.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14071, 14214 of this title.
-

@@ -8,7 +8,7 @@
 
 #### (2) Commission action
 
-&emsp;The Commission shall initiate a single proceeding to implement the recommendations from the Joint Board required by paragraph (1) and shall complete such proceeding within 15 months after February 8, 1996. The rules established by such proceeding shall include a definition of the services that are supported by Federal universal service support mechanisms and a specific timetable for implementation. Thereafter, the Commission shall complete any proceeding to implement subsequent recommendations from any Joint Board on universal service within one year after receiving such recommendations.
+&emsp;The Commission shall initiate a single proceeding to implement the recommendations from the Joint Board required by paragraph (1) and shall complete such proceeding within 15 months after February 8, 1996. The rules established by such proceeding shall include a definition of the services that are supported by Federal universal service support mechanisms and a specific timetable for implementation. Thereafter, the Commission shall completeany proceeding to implement subsequent recommendations from any Joint Board on universal service within one year after receiving such recommendations.
 
 #### (b) Universal service principles
 
@@ -74,7 +74,7 @@ After the date on which Commission regulations implementing this section take ef
 
 #### (f) State authority
 
-A State may adopt regulations not inconsistent with the Commission's rules to preserve and advance universal service. Every telecommunications carrier that provides intrastate telecommunications services shall contribute, on an equitable and nondiscriminatory basis, in a manner determined by the State to the preservation and advancement of universal service in that State. A State may adopt regulations to provide for additional definitions and standards to preserve and advance universal service within that State only to the extent that such regulations adopt additional specific, predictable, and sufficient mechanisms to support such definitions or standards that do not rely on or burden Federal universal service support mechanisms.
+A State may adopt regulations not inconsistent with the Commission's rules to preserve and advance universal service. Every telecommunications carrier that provides intrastate telecommunications services shall contribute, on an equitable and nondiscriminatory basis, in a manner determined by the State to the preservation and advancement of universal service in that State. A State may adopt regulations to provide for additional definitions and standards to preserve and advance universal service within that State only to the extent that such regulations adopt additional specific, predictable, andsufficient mechanisms to support such definitions or standards that do not rely on or burden Federal universal service support mechanisms.
 
 #### (g) Interexchange and interstate services
 
@@ -132,7 +132,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (iii) Public notice; hearing
 
-&emsp;&emsp;&emsp;An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary or secondary school as defined in section 8801 <sup>1</sup> of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
+&emsp;&emsp;&emsp;An elementary or secondary school described in clause (i), or the school board,local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary or secondary school as defined in section 8801 <sup>1</sup> of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
 
 #### (B) Certification with respect to minors
 
@@ -178,7 +178,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (I) Schools with Internet safety policy and technology protection measures in place
 
-&emsp;&emsp;&emsp;&emsp;A school covered by clause (i) that has in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C)shall certify its compliance with subparagraphs (B) and (C) during each annual program application cycle under this subsection, except that with respect to the first program funding year after the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, the certifications shall be made not later than 120 days after the beginning of such first program funding year.
+&emsp;&emsp;&emsp;&emsp;A school covered by clause (i) that has in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C) shall certify its compliance with subparagraphs (B) and (C) during each annual program application cycle under this subsection, except that with respect to the first program funding year after the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, the certifications shall be made not later than 120 days after the beginning of such first program funding year.
 
 #### (II) Schools without Internet safety policy and technology protection measures in place
 
@@ -234,7 +234,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (iii) Public notice; hearing
 
-&emsp;&emsp;&emsp;A library described in clause (i) shall provide reasonable public notice and holdat least one public hearing or meeting to address the proposed Internet safety policy.
+&emsp;&emsp;&emsp;A library described in clause (i) shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy.
 
 #### (B) Certification with respect to minors
 
@@ -476,7 +476,7 @@ Requirement.—The Federal Communications Commission shall prescribe regulations
 
 Deadline.—Notwithstanding any other provision of law, the Commission shall prescribe regulations under paragraph (1) so as to ensure that such regulations take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1733\], Dec. 21, 2000, 114 Stat. 2763, 2763A–351, provided that: “Not later than 120 days after the date of enactment of thisAct \[Dec. 21, 2000\], the Federal Communications Commission shall prescribe regulations for purposes of section 254(<i>l</i>) of the Communications Act of 1934 \[47 U.S.C. 254(<i>l</i>)\], as added by section 1732 of this Act.”
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1733\], Dec. 21, 2000, 114 Stat. 2763, 2763A–351, provided that: “Not later than 120 days after the date of enactment of this Act \[Dec. 21, 2000\], the Federal Communications Commission shall prescribe regulations for purposes of section 254(<i>l</i>) of the Communications Act of 1934 \[47 U.S.C. 254(<i>l</i>)\], as added by section 1732 of this Act.”
 
 #### Separability
 
@@ -509,10 +509,6 @@ Appellate Review.—Notwithstanding any other provision of law, an interlocutory
 #### Universal Service Fund Payment Schedule
 
 Pub. L. 105–33, title III, §3006, Aug. 5, 1997, 111 Stat. 269, related to appropriations to the Universal Service Fund in support of programs established pursuant to rules implementing this section and adjustment of payments by telecommunications carriers and other providers of interstate telecommunications prior to repeal by Pub. L. 105–119, title VI, §622, Nov. 26, 1997, 111 Stat. 2521. Section 622 of Pub. L. 105–119 provided further that: “This section shall be deemed a section of the Balanced Budget Act of 1997 \[Pub. L. 105–33, see Tables for classification\] for the purposes of section 10213 of that Act (111 Stat. 712) \[2 U.S.C. 902 note\], and shall be scored pursuant to paragraph (2) of such section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 214, 251, 253, 271 of this title; title 4 section 116; title 20 sections 6777, 9134.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

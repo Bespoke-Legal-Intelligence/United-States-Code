@@ -18,7 +18,3 @@ The punishment provision is derived from said section 324 rather than from secti
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $100”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 39 section 1008.
-

@@ -18,7 +18,7 @@
 | (f) | Loan security, priority; collateral. |
 | [1846\.](%C2%A7%2001846%20-%20Powers%20and%20duties.md) | Powers and duties. |
 | (a) | Board; inspection of documents; disapproval of certain transactions. |
-| (b) | General Accounting Office; audit; report to Board and Congress. |
+| (b) | Government Accountability Office; audit; report to Board and Congress. |
 | [1847\.](%C2%A7%2001847%20-%20Maximum%20obligation.md) | Maximum obligation. |
 | [1848\.](%C2%A7%2001848%20-%20Emergency%20loan%20guarantee%20fund.md) | Emergency loan guarantee fund. |
 | (a) | Establishment; use; investment. |

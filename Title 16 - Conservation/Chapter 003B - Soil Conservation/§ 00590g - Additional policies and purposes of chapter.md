@@ -22,9 +22,5 @@ It is hereby declared to be the policy of this chapter also to secure, and the p
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 590i, 590<i>l</i>, 590m, 590n, 590<i>o</i> of this title; title 7 sections 1388, 1391, 1392; title 12 section 1150a.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

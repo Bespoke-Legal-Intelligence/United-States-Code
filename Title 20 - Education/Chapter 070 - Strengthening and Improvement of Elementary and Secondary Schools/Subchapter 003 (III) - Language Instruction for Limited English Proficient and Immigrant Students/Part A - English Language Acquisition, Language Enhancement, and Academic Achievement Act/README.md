@@ -1,9 +1,5 @@
 Part A—English Language Acquisition, Language Enhancement, and Academic Achievement Act
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 6394, 6396, 6801, 7012, 7801, 7881 of this title.
-
 
 ---
 

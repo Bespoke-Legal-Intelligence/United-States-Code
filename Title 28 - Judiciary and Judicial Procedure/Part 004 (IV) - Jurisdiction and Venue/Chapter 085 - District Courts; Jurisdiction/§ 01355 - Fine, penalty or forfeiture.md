@@ -1,6 +1,6 @@
 ### §1355. Fine, penalty or forfeiture
 
-(a) The district courts shall have original jurisdiction, exclusive of the courts of the States, of any action or proceeding for the recovery or enforcement of any fine, penalty, or forfeiture,pecuniary or otherwise, incurred under any Act of Congress, except matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
+(a) The district courts shall have original jurisdiction, exclusive of the courts of the States, of any action or proceeding for the recovery or enforcement of any fine, penalty, or forfeiture, pecuniary or otherwise, incurred under any Act of Congress, except matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
 
 (b)(1) A forfeiture action or proceeding may be brought in—
 
@@ -35,10 +35,6 @@ Changes were made in phraseology.
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced on or after the 90th day after Nov. 1, 1980, see section 701(c)(1)(B) of Pub. L. 96–417, set out as a note under section 251 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 981; title 21 sections 360pp, 842.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

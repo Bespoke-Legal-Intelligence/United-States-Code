@@ -14,7 +14,3 @@ There are authorized to be appropriated amounts not to exceed $60,000,000 for ea
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1704 of this title.
-

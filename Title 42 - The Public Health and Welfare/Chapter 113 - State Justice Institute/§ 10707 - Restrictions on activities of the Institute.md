@@ -32,7 +32,3 @@ Officers and employees of the Institute or of recipients shall not at any time i
 
 (Pub. L. 98–620, title II, §208, Nov. 8, 1984, 98 Stat. 3343.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10712 of this title.
-

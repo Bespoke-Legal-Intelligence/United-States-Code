@@ -36,7 +36,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) in alphabetical order according to the last name of the individual debtors, or, in the case of debtors doing business other than as individuals, the first word in the name of such debtors; and
 
-&emsp;&emsp;&emsp;&emsp;(II) in numerical order according to the social security number of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayer identification number of such debtors; and
+&emsp;&emsp;&emsp;&emsp;(II) in numerical order according to the social security number, or other approved unique identifier, of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtors; and
 
 &emsp;&emsp;&emsp;&emsp;(III) geographically by county or parish; and
 
@@ -52,7 +52,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) the farm products in which each buyer, commission merchant, and selling agent has an interest;
 
-&emsp;&emsp;(E) the Secretary of State distributes regularly as prescribed by the State to each buyer, commission merchant, and selling agent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in paragraph <sup>1</sup> (C) that cover the farm products in which such buyer, commission merchant, or selling agent has registered an interest;
+&emsp;&emsp;(E) the Secretary of State distributes regularly as prescribed by the State to each buyer, commission merchant, and selling agent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in paragraph <sup>1</sup> (C) that cover the farm productsin which such buyer, commission merchant, or selling agent has registered an interest;
 
 &emsp;&emsp;(F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section <sup>2</sup> oral confirmation within 24 hours of any effective financing statement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
 
@@ -70,9 +70,9 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the name and address of the person indebted to the secured party;
 
-&emsp;&emsp;&emsp;(iii) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
+&emsp;&emsp;&emsp;(iii) the social security number, or other approved unique identifier, of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtor; and
 
-&emsp;&emsp;&emsp;(iv) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, and the nameof each county or parish in which the farm products are produced or located;
+&emsp;&emsp;&emsp;(iv) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, and the name of each county or parish in which the farm products are produced or located;
 
 &emsp;&emsp;(D) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated by the debtor and filed, to reflect material changes;
 
@@ -84,7 +84,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(H) substantially complies with the requirements of this subparagraph even though it contains minor errors that are not seriously misleading.
 
-&emsp;(5) The term “farm product” means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle, hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
+&emsp;(5) <sup>3</sup> The term “farm product” means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle, hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
 
 &emsp;(6) The term “knows” or “knowledge” means actual knowledge.
 
@@ -97,6 +97,8 @@ For the purposes of this section—
 &emsp;(10) The term “person” means any individual, partnership, corporation, trust, or any other business entity.
 
 &emsp;(11) The term “Secretary of State” means the Secretary of State or the designee of the State.
+
+&emsp;(5) <sup>4</sup> The term “approved unique identifier” means a number, combination of numbers and letters, or other identifier selected by the Secretary of State using a selection system or method approved by the Secretary of Agriculture.
 
 #### (d) Purchases free of security interest
 
@@ -116,7 +118,7 @@ A buyer of farm products takes subject to a security interest created by the sel
 
 &emsp;&emsp;&emsp;(II) the name and address of the person indebted to the secured party;
 
-&emsp;&emsp;&emsp;(III) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
+&emsp;&emsp;&emsp;(III) the social security number, or other approved unique identifier, of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtor; and
 
 &emsp;&emsp;&emsp;(IV) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, crop year, and the name of each county or parish in which the farm products are produced or located;
 
@@ -160,7 +162,7 @@ What constitutes receipt, as used in this section, shall be determined by the la
 
 &emsp;&emsp;&emsp;(II) the name and address of the person indebted to the secured party;
 
-&emsp;&emsp;&emsp;(III) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
+&emsp;&emsp;&emsp;(III) the social security number, or other approved unique identifier, of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtor; and
 
 &emsp;&emsp;&emsp;(IV) a description of the farm products subject to the security interest created by the debtor, including the amount of such products, where applicable, crop year, and the name of each county or parish in which the farm products are produced or located;
 
@@ -180,7 +182,7 @@ What constitutes receipt, as used in this section, shall be determined by the la
 
 &emsp;(D) in the case of a farm product produced in a State that has established a central filing system, the commission merchant or selling agent—
 
-&emsp;&emsp;(i) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) of this section that specifies both the seller and the farm products being sold by such seller as being subject to an effective financing statement or notice; and
+&emsp;&emsp;(i) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) of this sectionthat specifies both the seller and the farm products being sold by such seller as being subject to an effective financing statement or notice; and
 
 &emsp;&emsp;(ii) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise.
 
@@ -206,13 +208,19 @@ The Secretary of Agriculture shall prescribe regulations not later than 90 days 
 
 This section shall become effective 12 months after December 23, 1985.
 
-(Pub. L. 99–198, title XIII, §1324, Dec. 23, 1985, 99 Stat. 1535; Pub. L. 104–127, title VI, §662, Apr. 4, 1996, 110 Stat. 1107; Pub. L. 107–171, title X, §10604, May 13, 2002, 116 Stat. 512.)
+(Pub. L. 99–198, title XIII, §1324, Dec. 23, 1985, 99 Stat. 1535; Pub. L. 104–127, title VI, §662, Apr. 4, 1996, 110 Stat. 1107; Pub. L. 107–171, title X, §10604, May 13, 2002, 116 Stat. 512; Pub. L. 108–447, div. A, title VII, §776, Dec. 8, 2004, 118 Stat. 2849.)
 
 #### Codification
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
 
 #### Amendments
+
+2004—Subsec. (c)(2)(C)(ii)(II), (4)(C)(iii). Pub. L. 108–447, §776(1)(A), (B), inserted “, or other approved unique identifier,” after “social security number” and “identification number”.
+
+Subsec. (c)(5). Pub. L. 108–447, §776(1)(C), added par. (5) defining “approved unique identifier” at end of subsec. (c).
+
+Subsecs. (e)(1)(A)(ii)(III), (g)(2)(A)(ii)(III). Pub. L. 108–447, §776(2), (3), inserted “, or other approved unique identifier,” after “social security number” and “identification number”.
 
 2002—Subsec. (c)(4)(B). Pub. L. 107–171, §10604(a)(1), substituted “signed, authorized, or otherwise authenticated by the debtor,” for “signed”.
 
@@ -260,7 +268,7 @@ Subsec. (g)(2)(A)(iv). Pub. L. 107–171, §10604(c)(3), substituted “notice s
 
 Subsec. (g)(2)(A)(v). Pub. L. 107–171, §10604(c)(4), inserted “contains” before “any payment”.
 
-1996—Subsec. (c)(4)(A). Pub. L. 104–127, §662(1), substituted “of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement” for “thereof”.
+1996—Subsec. (c)(4)(A). Pub. L. 104–127, §662(1), substituted “of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of thedebtor, is an electronically reproduced copy of the statement” for “thereof”.
 
 Subsec. (c)(4)(B), (C). Pub. L. 104–127, §662(2), inserted “other than in the case of an electronically reproduced copy of the statement,” before “is”.
 
@@ -271,4 +279,8 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “pursuant to subparagraph (D)”.</i>
+
+<i><sup>3</sup></i><i> So in original. Another par. (5) follows par. (11).</i>
+
+<i><sup>4</sup></i><i> So in original. Another par. (5) follows par. (4).</i>
 

@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 Jan. 16, 1883, ch. 27, §2(1) (less function of Civil Service Commission), (2) 8 (last sentence), 22 Stat. 403, 404.
 
-The reference to the competitive service is substituted for the reference to the Act creating that service. The reference to reasons for the exceptions is omitted as covered by section 1308 of this title. The words “provide for” are substituted for “provide and declare”. Paragraph (1) is supplied to preserve the President's power to except positions from the competitive service, previously implied from the power to except from the first rule in former section 633(2). Authority to make exceptions to so much of former section 633(2) as is restated in this section and section 1302(a) is omitted as meaningless. Authority to make exceptions to so much of former section 633(2) as is restated in section 3318(a) is omitted as superseded by former section 857, which is carried into section 3318(a). In the last sentence, thewords “Each officer and individual employed in an agency” are substituted for “officers of the United States in the departments and offices” because of the restrictive definition of “officer” in section 2104.
+The reference to the competitive service is substituted for the reference to the Act creating that service. The reference to reasons for the exceptions is omitted as covered by section 1308 of this title. The words “provide for” are substituted for “provide and declare”. Paragraph (1) is supplied to preserve the President's power to except positions from the competitive service, previously implied from the power to except from the first rule in former section 633(2). Authority to make exceptions to so much of former section 633(2) as is restated in this section and section 1302(a) is omitted as meaningless. Authority to make exceptions to so much of former section 633(2) as is restated in section 3318(a) is omitted as superseded by former section 857, which is carried into section 3318(a). In the last sentence, the words “Each officer and individual employed in an agency” are substituted for “officers of the United States in the departments and offices” because of the restrictive definition of “officer” in section 2104.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -98,17 +98,13 @@ Sec. 3. Any law, Executive order, or regulation which would disqualify an applic
 
 Sec. 4. For the purpose of this order:
 
-(a) “agency” means a military department as defined in section 102 of title 5, United States Code, an executive agency (other than the General Accounting Office) as defined in section 105 of title 5, United States Code, and those portions of the legislative and judicial branches of the Federal Government and of the government of the District of Columbia having positions in the competitive service; and
+(a) “agency” means a military department as defined in section 102 of title 5, United States Code, an executive agency (other than the General Accounting Office \[now Government Accountability Office\]) as defined in section 105 of title 5, United States Code, and those portions of the legislative and judicial branches of the Federal Government and of the government of the District of Columbia having positions in the competitive service; and
 
 (b) “Vietnam era” means the period beginning August 5, 1964, and ending on such date thereafter as may be determined by Presidential proclamation or concurrent resolution of the Congress.
 
 Sec. 5. The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out the provisions of this order.
 
-Sec. 6. Executive Order No. 11397 of February 9, 1968, is revoked. Such revocation shall not affect the right ofan employee to be converted to career-conditional or career employment if he meets the requirements of section 1(d) of Executive Order No. 11397 after the effective date of this order.
+Sec. 6. Executive Order No. 11397 of February 9, 1968, is revoked. Such revocation shall not affect the right of an employee to be converted to career-conditional or career employment if he meets the requirements of section 1(d) of Executive Order No. 11397 after the effective date of this order.
 
 Sec. 7. This order is effective 14 days after its date.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3304, 3361 of this title; title 10 section 1784.
 

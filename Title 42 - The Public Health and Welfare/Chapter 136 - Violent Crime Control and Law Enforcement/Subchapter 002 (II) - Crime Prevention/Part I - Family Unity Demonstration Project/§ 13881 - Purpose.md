@@ -14,7 +14,3 @@ The purpose of this part is to evaluate the effectiveness of certain demonstrati
 
 For short title of this part as the “Family Unity Demonstration Project Act”, see section 31901 of Pub. L. 103–322, set out as a note under section 13701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13893, 14214 of this title.
-

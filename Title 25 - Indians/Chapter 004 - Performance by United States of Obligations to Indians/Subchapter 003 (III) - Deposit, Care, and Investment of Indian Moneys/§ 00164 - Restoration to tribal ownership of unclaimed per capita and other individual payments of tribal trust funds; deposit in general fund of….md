@@ -4,7 +4,3 @@ Unless otherwise specifically provided by law, the share of an individual member
 
 (Pub. L. 87–283, §1, Sept. 22, 1961, 75 Stat. 584.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 165, 1401 of this title.
-

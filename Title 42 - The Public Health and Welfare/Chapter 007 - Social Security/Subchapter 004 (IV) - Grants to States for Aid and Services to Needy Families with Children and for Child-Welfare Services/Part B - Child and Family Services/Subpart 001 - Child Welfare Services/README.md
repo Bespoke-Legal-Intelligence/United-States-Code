@@ -4,10 +4,6 @@ subpart 1—child welfare services
 
 1993—Pub. L. 103–66, title XIII, §13711(a)(1), Aug. 10, 1993, 107 Stat. 649, added subpart 1 heading.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 629a, 653, 671, 1320a–9 of this title.
-
 
 ---
 

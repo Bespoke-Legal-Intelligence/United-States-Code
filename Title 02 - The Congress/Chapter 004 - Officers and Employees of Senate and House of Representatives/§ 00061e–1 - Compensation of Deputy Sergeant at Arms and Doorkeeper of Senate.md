@@ -1,12 +1,12 @@
 ### §61e–1. Compensation of Deputy Sergeant at Arms and Doorkeeper of Senate
 
-Effective August 1, 1979, the Sergeant at Arms and Doorkeeper may fix the compensation of theDeputy Sergeant at Arms and Doorkeeper at an annual rate not to exceed the maximum annual rate of compensation of the Assistant Secretary of the Senate.
+Effective August 1, 1979, the Sergeant at Arms and Doorkeeper may fix the compensation of the Deputy Sergeant at Arms and Doorkeeper at an annual rate not to exceed the maximum annual rate of compensation of the Assistant Secretary of the Senate.
 
 (Pub. L. 94–226, §1(a), Mar. 9, 1976, 90 Stat. 203; Pub. L. 96–38, title I, §106(1), July 25, 1979, 93 Stat. 112.)
 
 #### Amendments
 
-<b>1979</b>—Pub. L. 96–38 raised the maximum annual rate of compensation of Deputy Sergeant at Arms and Doorkeeper of Senate to a rate the same as the maximum annual rate of compensation of Assistant Secretary of Senate.
+1979—Pub. L. 96–38 raised the maximum annual rate of compensation of Deputy Sergeant at Arms and Doorkeeper of Senate to a rate the same as the maximum annual rate of compensation of Assistant Secretary of Senate.
 
 #### Effective Date
 
@@ -18,5 +18,5 @@ Section 1(c) of Pub. L. 94–226 provided that: “Effective on the date of enac
 
 #### Authority of President Pro Tempore of the Senate To Raise or Adjust Rate of Compensation
 
-Section 1(a) of Pub. L. 94–226 provided in part that: “This subsection \[this section\] does not supersede (1) any provision of an order of the President pro tempore of the Senate authorizing a higher rate of compensation, and (2) any authority of the President pro tempore to adjust the rate of compensation referred to in this subsection \[this section\] under section 4 of the Federal Pay Comparability Act of 1970 \[section 60a–1 of this title\].”
+Section 1(a) of Pub. L. 94–226 provided in part that: “This subsection \[this section\] does not supersede (1)any provision of an order of the President pro tempore of the Senate authorizing a higher rate of compensation, and (2) any authority of the President pro tempore to adjust the rate of compensation referred to in this subsection \[this section\] under section 4 of the Federal Pay Comparability Act of 1970 \[section 60a–1 of this title\].”
 

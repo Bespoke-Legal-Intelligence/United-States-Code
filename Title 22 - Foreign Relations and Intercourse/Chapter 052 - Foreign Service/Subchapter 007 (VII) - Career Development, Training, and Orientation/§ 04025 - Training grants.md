@@ -14,7 +14,3 @@ If a member of the Service who is assigned abroad, or a member of his or her fam
 
 1994—Subsec. (b). Pub. L. 103–236 substituted “institution” for “Institute” after “through the”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 1605; title 37 section 431.
-

@@ -10,7 +10,3 @@ A prior section 2203 of Pub. L. 89–10 was classified to section 6643 of this t
 
 Another prior section 2203 of Pub. L. 89–10 was classified to section 3013 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6662 of this title.
-

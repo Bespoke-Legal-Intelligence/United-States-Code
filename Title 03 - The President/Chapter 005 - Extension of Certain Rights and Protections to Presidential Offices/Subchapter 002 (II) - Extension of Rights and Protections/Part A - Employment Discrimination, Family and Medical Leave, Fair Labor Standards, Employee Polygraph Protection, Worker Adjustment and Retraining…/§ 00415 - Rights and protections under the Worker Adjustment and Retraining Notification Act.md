@@ -30,7 +30,7 @@ Description of individuals.—An individual described in this subparagraph is an
 
 (b)
 
-Remedy.—The remedy for a violation of subsection (a) shall be such damages as would be appropriate if awarded under paragraphs (1), (2), and (4) of section 5(a) of the Worker Adjustment and Retraining Notification Act.
+Remedy.—The remedy for a violation of subsection (a) shall be such damages as would beappropriate if awarded under paragraphs (1), (2), and (4) of section 5(a) of the Worker Adjustment and Retraining Notification Act.
 
 (c)
 
@@ -63,8 +63,4 @@ The Family and Medical Leave Act of 1993, referred to in subsec. (a)(2)(A)(ii), 
 #### Effective Date
 
 Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 471 of this title.
 

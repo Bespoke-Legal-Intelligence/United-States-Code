@@ -14,7 +14,7 @@ The last paragraph is added to exclude jurors incompetent to serve as jurors in 
 
 #### Amendments
 
-1968—Pub. L. 90–274 substituted provisions declaring the policy of the United States with respect to trial by jury and the opportunity to serve on such juries for provisions setting out the required qualifications of Federal jurors, including age, citizenship, residence, freedom from conviction of certain crimes, ability to read, write, speak, and understand the English language, and capability of rendering efficient jury service.
+1968—Pub. L. 90–274 substituted provisions declaring the policy of the United States with respect to trial byjury and the opportunity to serve on such juries for provisions setting out the required qualifications of Federal jurors, including age, citizenship, residence, freedom from conviction of certain crimes, ability to read, write, speak, and understand the English language, and capability of rendering efficient jury service.
 
 1957—Pub. L. 85–315 substituted “Qualifications of Federal jurors” for “Qualifications” in section catchline.
 
@@ -31,8 +31,4 @@ Pub. L. 95–572, §1, Nov. 2, 1978, 92 Stat. 2453, provided that: “This Act \
 #### Short Title
 
 Section 1 of Pub. L. 90–274 provided: “That this Act \[amending this section and sections 1821, 1862 to 1869, and 1871 of this title, repealing section 867 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section\] may be cited as the ‘Jury Selection and Service Act of 1968’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1863, 1866, 1878 of this title.
 

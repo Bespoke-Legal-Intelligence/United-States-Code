@@ -2,7 +2,7 @@
 
 (a) The Commandant may make child development services available for members and civilian employees of the Coast Guard, and thereafter as space is available for members of the Armed Forces and Federal civilian employees. Child development service benefits provided under the authority of this section shall be in addition to benefits provided under other laws.
 
-(b)(1) Except as provided in paragraph (2), the Commandant may require that amounts received as fees for the provision of services under this section at Coast Guard child development centers be used only for compensation of employees at those centers who are directly involved in providing child care.
+(b)(1) Except as provided in paragraph (2), the Commandant may require that amounts received as fees for the provision of services under this section at Coast Guard child developmentcenters be used only for compensation of employees at those centers who are directly involved in providing child care.
 
 (2) If the Commandant determines that compliance with the limitation in paragraph (1) would result in an uneconomical and inefficient use of such fee receipts, the Commandant may (to the extent that such compliance would be uneconomical and inefficient) use such receipts—
 
@@ -25,4 +25,8 @@
 #### References in Text
 
 Section 616 of the Act of December 22, 1987 (40 U.S.C. 490b), referred to in subsec. (g), is section 101(m) \[title VI, §616\] of Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329–390, 1329–423, as amended, which was classified to section 490b of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as section 590(a)–(d) and (f) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+
+#### Use of Coast Guard and Military Child Development Centers
+
+Pub. L. 108–293, title II, §225, Aug. 9, 2004, 118 Stat. 1040, provided that: “The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, when operating other than as a service in the Navy, may agree to provide child care services to members of the armed forces, with reimbursement, in Coast Guard and military child development centers supported in whole or in part with appropriated funds. For purposes of military child development centers operated under the authority of subchapter II of chapter 88 of title 10, United States Code, the child of a member of the Coast Guard shall be considered the same as the child of a member of any of the other armed forces.”
 

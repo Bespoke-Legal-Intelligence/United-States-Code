@@ -28,7 +28,3 @@
 
 For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to requirement that the Board transmit to Congress copies of all reports and recommendations submitted to the Judicial Conference of the United States, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 12 of House Document No. 103–7.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 629 of this title.
-

@@ -24,7 +24,3 @@ Language as to order of trial was omitted and incorporated in section 3435 of th
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in two places.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 46506.
-

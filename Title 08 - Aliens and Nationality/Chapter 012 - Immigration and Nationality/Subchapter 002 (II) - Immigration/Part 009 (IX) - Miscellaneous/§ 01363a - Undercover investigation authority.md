@@ -26,7 +26,7 @@ With respect to any undercover investigative operation of the Service which is n
 
 &emsp;(4) the proceeds from the undercover operation may be used to offset necessary and reasonable expenses incurred in such operation without regard to the provisions of section 3302(b) of title 31.
 
-> The authority set forth in this subsection may be exercised only upon written certification ofthe Commissioner, in consultation with the Deputy Attorney General, that any action authorized by paragraph (1), (2), (3), or (4) is necessary for the conduct of the undercover operation.
+> The authority set forth in this subsection may be exercised only upon written certification of the Commissioner, in consultation with the Deputy Attorney General, that any action authorized by paragraph (1), (2), (3), or (4) is necessary for the conduct of the undercover operation.
 
 #### (b) Disposition of proceeds no longer required
 

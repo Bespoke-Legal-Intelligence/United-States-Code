@@ -14,7 +14,7 @@
 
 &emsp;(E) testified or is about to testify in any such proceeding or;
 
-&emsp;(F) assisted or participated or is about to assist or participate in any manner in such aproceeding or in any other manner in such a proceeding or in any other action to carry out the purposes of this chapter or the Atomic Energy Act of 1954, as amended.
+&emsp;(F) assisted or participated or is about to assist or participate in any manner in such a proceeding or in any other manner in such a proceeding or in any other action to carry out the purposes of this chapter or the Atomic Energy Act of 1954, as amended.
 
 (2) For purposes of this section, the term “employer” includes—
 
@@ -54,7 +54,7 @@ Whenever a person has failed to comply with an order issued under subsection (b)
 
 #### (e) Commencement of action
 
-(1) Any person on whose behalf an order was issued under paragraph (2) of subsection (b) of this section may commence a civil action against the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
+(1) Any person on whose behalf an order was issued under paragraph (2) of subsection (b) of this section may commence a civil actionagainst the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
 
 (2) The court, in issuing any final order under this subsection, may award costs of litigation (including reasonable attorney and expert witness fees) to any party whenever the court determines such award is appropriate.
 
@@ -111,8 +111,4 @@ Section 2902(i) of Pub. L. 102–486 provided that: “The amendments made by th
 #### Transfer of Functions
 
 For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2297h–13 of this title.
 

@@ -38,7 +38,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 &emsp;&emsp;(A) the coordination of alcohol and substance abuse programs of the Service, the Bureau of Indian Affairs, and the various tribes (developed under the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 \[25 U.S.C. 2401 et seq.\]) with the mental health initiatives pursuant to this chapter, particularly with respect to the referral and treatment of dually-diagnosed individuals requiring mental health and substance abuse treatment; and
 
-&emsp;&emsp;(B) ensuring that Bureau of Indian Affairs and Service programs and services (including multidisciplinary resource teams) addressing child abuse and family violence are coordinated with such non-Federal programs and services;
+&emsp;&emsp;(B) ensuring that Bureau of Indian Affairs and Service programs and services (including multidisciplinary resource teams) addressing child abuse and family violence arecoordinated with such non-Federal programs and services;
 
 &emsp;(7) direct appropriate officials of the Bureau of Indian Affairs and the Service, particularly at the agency and service unit levels, to cooperate fully with tribal requests made pursuant to subsection (d) of this section; and
 
@@ -90,7 +90,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 #### (f) Staff recruitment and retention
 
-(1) The Secretary shall provide for the recruitment of the additional personnel required by subsection (f) of this section and the retention of all Service personnel providing mental health services. In carrying out this subsection, the Secretary shall give priority to practitioners providing mental health services to children and adolescents with mental health problems.
+(1) The Secretary shall provide for the recruitment of the additional personnel required by subsection (f) of this section and the retention of all Service personnel providing mental health services. In carrying out this subsection, the Secretary shall give priority to practitionersproviding mental health services to children and adolescents with mental health problems.
 
 (2) In carrying out paragraph (1), the Secretary shall develop a program providing for—
 
@@ -156,9 +156,9 @@ The Service shall develop methods for analyzing and evaluating the overall statu
 
 (4) The Secretary may only award one grant under this subsection with respect to a service area until the Secretary has awarded grants for all service areas with respect to which the Secretary receives applications during the application period, as determined by the Secretary, which meet the criteria specified in paragraph (2).
 
-(5) Not later than 180 days after the close of the term of the last grant awarded pursuant to this subsection, the Secretary shall submit to the Congress a report evaluating the effectiveness of the innovative community-based projects demonstrated pursuant to this subsection. Such report shall include findings and recommendations, if any, relating to the reorganization of the programs of the Service for delivery of mental health services to Indians.
+(5) Not later than 180 days after the close of the term of the last grant awarded pursuant to this subsection, the Secretary shall submit tothe Congress a report evaluating the effectiveness of the innovative community-based projects demonstrated pursuant to this subsection. Such report shall include findings and recommendations, if any, relating to the reorganization of the programs of the Service for delivery of mental health services to Indians.
 
-(6) Grants made pursuant to this section may be expended over a period of three years and nogrant may exceed $1,000,000 for the fiscal years involved.
+(6) Grants made pursuant to this section may be expended over a period of three years and no grant may exceed $1,000,000 for the fiscal years involved.
 
 #### (<i>l</i>) Licensing requirement for mental health care workers
 
@@ -249,8 +249,4 @@ Section 503(a) of Pub. L. 101–630 provided that: “The purposes of this secti
 &emsp;“(5) ensure that Indians, as citizens of the United States and of the States in which they reside, have the same access to mental health services to which all such citizens have access; and
 
 &emsp;“(6) modify or supplement existing programs and authorities in the areas identified in paragraph (2).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1621<i>o</i>, 1621w, 1671 of this title.
 

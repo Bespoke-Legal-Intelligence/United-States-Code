@@ -40,7 +40,3 @@ This restores to 31:5103 the reference to public charges, taxes, and dues becaus
 
 Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set out as a note under section 3331 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5112, 5132 of this title.
-

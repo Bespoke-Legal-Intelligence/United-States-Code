@@ -28,7 +28,13 @@
 
 1989—Subsec. (d). Pub. L. 101–237 added subsec. (d).
 
-#### Section Referred to in Other Sections
+#### Increase in Benefit for Individuals Pursuing Apprenticeship or On-Job Training; Post-Vietnam Era Veterans’ Educational Assistance
 
-This section is referred to in section 3231 of this title.
+Pub. L. 108–454, title I, §103(b), Dec. 10, 2004, 118 Stat. 3600, provided that: “For months beginning on or after October 1, 2005, and before January 1, 2008, subsection (a) of section 3233 of title 38, United States Code, shall be applied as if—
+
+&emsp;“(1) the reference to ‘75 percent’ in paragraph (1) were a reference to ‘85 percent’;
+
+&emsp;“(2) the reference to ‘55 percent’ in paragraph (2) were a reference to ‘65 percent’; and
+
+&emsp;“(3) the reference to ‘35 percent’ in paragraph (3) were a reference to ‘45 percent’.”
 

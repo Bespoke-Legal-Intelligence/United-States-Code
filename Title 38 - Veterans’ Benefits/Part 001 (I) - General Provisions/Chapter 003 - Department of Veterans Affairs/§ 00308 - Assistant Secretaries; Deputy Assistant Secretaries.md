@@ -52,7 +52,3 @@ Subsec. (b)(11). Pub. L. 107–287, §5(b), added par. (11).
 
 Subsec. (d)(1). Pub. L. 107–287, §5(c), substituted “19” for “18”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4102A of this title.
-

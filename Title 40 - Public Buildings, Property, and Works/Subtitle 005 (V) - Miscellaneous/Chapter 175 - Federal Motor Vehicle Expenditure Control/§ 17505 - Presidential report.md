@@ -34,7 +34,3 @@ Pub. L. 99–272, title XV, §15304, Apr. 7, 1986, 100 Stat. 336.
 
 The text of 40:904(b) is omitted as executed.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 17507 of this title.
-

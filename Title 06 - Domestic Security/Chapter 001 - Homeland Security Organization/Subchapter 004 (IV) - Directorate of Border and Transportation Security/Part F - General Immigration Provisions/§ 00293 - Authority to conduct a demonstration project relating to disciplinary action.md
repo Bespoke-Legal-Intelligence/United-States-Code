@@ -36,11 +36,19 @@ Employees shall not be included within any project under this section if such em
 
 #### (f) Reports
 
-The General Accounting Office shall prepare and submit to the Committees on Government Reform and the Judiciary of the House of Representatives and the Committees on Governmental Affairs and the Judiciary of the Senate periodic reports on any demonstration project conducted under this section, such reports to be submitted after the second and fourth years of its operation. Upon request, the Attorney General or the Secretary shall furnish such information as the General Accounting Office may require to carry out this subsection.
+The Government Accountability Office shall prepare and submit to the Committees on Government Reform and the Judiciary of the House of Representatives and the Committees on Governmental Affairs and the Judiciary of the Senate periodic reports on any demonstration project conducted under this section, such reports to be submitted after the second and fourth years of its operation. Upon request, the Attorney General or the Secretary shall furnish such information as the Government Accountability Office may require to carry out this subsection.
 
 #### (g) Definition
 
 In this section, the term “covered entity” has the meaning given such term in section 292(a)(2) of this title.
 
-(Pub. L. 107–296, title IV, §473, Nov. 25, 2002, 116 Stat. 2208.)
+(Pub. L. 107–296, title IV, §473, Nov. 25, 2002, 116 Stat. 2208; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+#### Amendments
+
+2004—Subsec. (f). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+
+#### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

@@ -18,7 +18,7 @@
 
 &emsp;(iii) such discontinuance is not precluded by the terms of the leases and agreements referred to in such section 743(b)(2).
 
-(B) For purposes of this paragraph, rail service on rail properties is compensatory if the revenueattributable to such properties from such service equals or exceeds the sum of the avoidable costs of providing such service on such properties plus a reasonable return on the value of such rail properties, as determined in accordance with the standards developed pursuant to section 10362(b)(6) <sup>1</sup> of title 49.
+(B) For purposes of this paragraph, rail service on rail properties is compensatory if the revenue attributable to such properties from such service equals or exceeds the sum of the avoidable costs of providing such service on such properties plus a reasonable return on the value of such rail properties, as determined in accordance with the standards developed pursuant to section 10362(b)(6) <sup>1</sup> of title 49.
 
 (C) The Commission shall make its final determination, with respect to any discontinuance requested under this paragraph, not later than 120 days after the date of filing of an application therefor. The applicant shall have the burden of proving that the service involved is not compensatory. If the Commission fails to make a final determination within such time, the application shall be deemed to be granted.
 
@@ -60,7 +60,7 @@ No rail service may be discontinued and no rail properties may be abandoned, pur
 
 > A designated railroad may refuse to enter into such an operating agreement only if the Commission determines, on petition by any affected party, that the agreement would substantially impair such railroad's ability to serve adequately its own patrons or to meet its outstanding common carrier obligations. The designated operator shall, pursuant to each such operating agreement (i) be obligated to operate rail freight service on such rail properties, and (ii) be entitled to receive, from the person offering such payment, the difference between the revenue attributable to such properties and the avoidable costs of providing service on such rail properties, together with a reasonable management fee, as determined by the Office.
 
-(2) The trustees of a railroad in reorganization shall permit rail service to be continued on any rail properties with respect to which a rail service continuation payment operating agreement has been entered into under this subsection. Such trustees shall receive a reasonable return on the value of such properties, as determined inaccordance with the standards developed pursuant to section 10362(b)(6) <sup>2</sup> of title 49.
+(2) The trustees of a railroad in reorganization shall permit rail service to be continued on any rail properties with respect to which a rail service continuation payment operating agreement has been entered into under this subsection. Such trustees shall receive a reasonable return on the value of such properties, as determined in accordance with the standards developed pursuant to section 10362(b)(6) <sup>2</sup> of title 49.
 
 (3) If necessary to prevent any disruption or loss of rail service, at any time after the date of conveyance, pursuant to section 743(b)(1) of this title, the Commission shall take such action as may be appropriate under its existing authority (including the enforcement of common carrier requirements applicable to railroads in reorganization in the region) to ensure compliance with obligations imposed under this subsection. The district courts of the United States shall have jurisdiction, upon petition by the Commission or any interested person (including a government entity), to enforce any order of the Commission issued pursuant to the exercise of its authority under this subsection, or to enjoin any designated entity or the trustees of a railroad in reorganization in the region from refusing to comply with the provisions of this subsection.
 
@@ -96,9 +96,9 @@ No rail service may be discontinued and no rail properties may be abandoned, pur
 
 &emsp;(B) provides compensation, pursuant to paragraph (2) of this subsection, for operations conducted during the 180-day mandatory operation period; or
 
-&emsp;(C) offers a rail service continuation payment, pursuant to subsection (c)(2)(A) of this section, for the operation of rail passenger service provided under an agreement or lease pursuant to section 743(b)(2) of this title or subsection (c)(2)(B) of this section where such offer is made for the continuation of the service beyond the period required by such agreement or lease, except that such services shall not be eligible for assistance under section 17(a)(2) <sup>4</sup> of the Federal Transit Act (49 U.S.C. 1613(a)(2)),
+&emsp;(C) offers a rail service continuation payment, pursuant to subsection (c)(2)(A) of this section, for the operation of rail passenger service provided under an agreement or lease pursuant to section 743(b)(2) of this title or subsection (c)(2)(B) of this section where such offer is made for the continuation of the service beyond the period required by such agreement or lease, except that such services shall not be eligible for assistance under section17(a)(2) <sup>4</sup> of the Federal Transit Act (49 U.S.C. 1613(a)(2)),
 
-> the Corporation (or a profitable railroad) shall continue to provide such service after the end ofsuch period, except as otherwise provided in this subsection.
+> the Corporation (or a profitable railroad) shall continue to provide such service after the end of such period, except as otherwise provided in this subsection.
 
 (5)(A) The Secretary shall reimburse the Corporation (or a profitable railroad) for any loss which is incurred by it during the 180-day mandatory operation period specified in paragraph (1) of this subsection which is not compensated for by a State (or a local or regional transportation authority). The amount of such reimbursement shall be determined pursuant to section 17(a)(1) <sup>4</sup> of the Federal Transit Act.
 
@@ -116,7 +116,7 @@ No rail service may be discontinued and no rail properties may be abandoned, pur
 
 (C) Notwithstanding any other provision of this paragraph, the Corporation shall not be required to operate additional rail passenger service over rail properties leased or acquired from or owned or leased by a profitable railroad in the region.
 
-(8) The Secretary shall, in consultation with the Association, conduct a study to determine the best means of compensating the Corporation for liabilities which it may incur for damages to persons or property, resulting from the operation of rail passenger service required to be operated pursuant to this subsection or section 743(b)(2) of this title, which are not underwritten by private insurance carriers or are not indemnified by a State (or local or regional transportation authority). Such study shall identify the nature of the risks to the Corporation, the probable degree of uninsurability of such risks, and the desirability and feasibility of various indemnification programs, including subsidy offers made pursuant to this section, self-insurance through a passenger tax or other mechanism, or government indemnification for such liabilities. Within one year after November 8, 1978, the Secretary shall prepare a report with appropriate recommendations and shall submit such report to the Congress. Such report shall specify the most appropriate means of indemnifying the Corporation for such liabilities in a manner which shall prevent the cross-subsidization of passenger services with revenues from freight services operated by the Corporation.
+(8) The Secretary shall, in consultation with the Association, conduct a study to determine the best means of compensating the Corporation for liabilities which it may incur for damages to persons or property, resulting from the operation of rail passenger service required to be operated pursuant to this subsection or section 743(b)(2) of this title, which are not underwritten by private insurance carriers or are not indemnified by a State (or local or regional transportation authority). Such study shall identify the nature of the risks to the Corporation, the probable degree of uninsurability of such risks, and the desirability and feasibility of various indemnification programs, including subsidy offers made pursuant to this section, self-insurance through a passenger tax or other mechanism, or government indemnification for such liabilities. Within one year after November 8, 1978, the Secretary shall prepare a report with appropriate recommendations and shall submit such report to the Congress. Such report shall specify the most appropriate means of indemnifying the Corporation for such liabilities in a manner which shall prevent the cross-subsidization ofpassenger services with revenues from freight services operated by the Corporation.
 
 #### (f) Purchase
 
@@ -164,7 +164,7 @@ Subsec. (d)(3). Pub. L. 104–88, §327(3)(C), substituted “this title, the Co
 
 &emsp;“(B) shall have authority, in accordance with the provisions of section 1(16)(b) of the Interstate Commerce Act (49 U.S.C. 1(16)(b)), to direct rail service to be provided by any designated railroad or by the trustees of a railroad in reorganization in the region, if a rail service continuation payment has been offered but an applicable operating or lease agreement is not in effect.
 
-> For purposes of the preceding sentence, any compensation required as a result of such directed service shallbe determined in accordance with the standards developed pursuant to section 205(d)(6) of this Act.”
+> For purposes of the preceding sentence, any compensation required as a result of such directed service shall be determined in accordance with the standards developed pursuant to section 205(d)(6) of this Act.”
 
 Subsec. (e)(4)(A). Pub. L. 104–88, §327(3)(D)(i), struck out “and under regulations issued by the Office pursuant to section 205(d)(5) of this Act” before “, for the operation”.
 
@@ -237,10 +237,6 @@ See section 1341 of this title.
 #### Applicability of National Environmental Policy Act
 
 Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 719, 741, 742 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -42,7 +42,7 @@ This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 48
 
 Act of March 3, 1851, referred to in subsecs. (a) and (c), is act Mar. 3, 1851, ch. 43, 9 Stat. 635, which was incorporated into the Revised Statutes as R.S. §§4282, 4283, 4284 to 4287 and 4289, and is classified to sections 182, 183, and 184 to 188 of Title 46, Appendix, Shipping.
 
-The Solid Waste Disposal Act, referred to in subsec. (a)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat.997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (a)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 #### Report on Vessel Safety and Ability To Meet Legal Obligations
 

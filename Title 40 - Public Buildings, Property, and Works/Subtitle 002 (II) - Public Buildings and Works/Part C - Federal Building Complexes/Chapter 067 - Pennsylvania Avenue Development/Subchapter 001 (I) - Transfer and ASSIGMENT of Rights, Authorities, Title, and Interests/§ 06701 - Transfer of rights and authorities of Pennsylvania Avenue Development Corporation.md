@@ -22,7 +22,7 @@ Excess amounts or income.—Any amounts or income the Administrator considers ex
 
 (c)
 
-Payment to District of Columbia.—With respect to real property transferred from the Corporation to the Administrator under section 6702 of this title, the Administrator shall pay to the District of Columbia government, in the same way as previously paid by the Corporation, an amount equal to the amount of real propertytax which would have been payable to the government beginning on the date the Corporation acquired the real property if legal title to the property had been held by a private citizen on that date and during all periods to which that date relates.
+Payment to District of Columbia.—With respect to real property transferred from the Corporation to the Administrator under section 6702 of this title, the Administrator shall pay to the District of Columbia government, in the same way as previously paid by the Corporation, an amount equal to the amount of real property tax which would have been payable to the government beginning on the date the Corporation acquired the real property if legal title to the property had been held by a private citizen on that date and during all periods to which that date relates.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1193.)
 

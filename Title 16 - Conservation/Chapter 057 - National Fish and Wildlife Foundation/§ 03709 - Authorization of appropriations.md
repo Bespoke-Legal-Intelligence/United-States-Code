@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 103–232, §104(a)(2), added subsec. (c).
 
 1990—Pub. L. 101–593 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to the Department of the Interior for each of fiscal years 1988 through 1993, inclusive, not to exceed $5,000,000 to be made available to the Foundation—
 
-&emsp;“(1) to match partially or wholly the amount or value of contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local government agencies; and
+&emsp;“(1) to match partially or wholly the amount or value of contributions (whether in currency, services,or property) made to the Foundation by private persons and State and local government agencies; and
 
 &emsp;“(2) to provide administrative services under section 3704 of this title.”
 

@@ -12,7 +12,3 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 A prior section 401 of Pub. L. 93–288 was renumbered section 405 by Pub. L. 100–707 and is classified to section 5171 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5204 of this title; title 10 section 1064; title 12 sections 1706c, 3352.
-

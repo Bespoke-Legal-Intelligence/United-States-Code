@@ -32,7 +32,3 @@ The Chief Executive Officer may waive the requirements of subsection (a) of this
 
 A prior section 116 of Pub. L. 101–610 was classified to section 12526 of this title prior to repeal by Pub. L. 103–82.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12546, 12561 of this title.
-

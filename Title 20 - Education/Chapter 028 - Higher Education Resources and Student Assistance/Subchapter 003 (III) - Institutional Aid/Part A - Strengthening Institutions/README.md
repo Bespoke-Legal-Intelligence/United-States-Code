@@ -1,9 +1,5 @@
 Part A—Strengthening Institutions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1065, 1068, 1068a, 1068b, 1068c, 1068d, 1068h, 1070a–14, 1101d, 1124 of this title.
-
 
 ---
 

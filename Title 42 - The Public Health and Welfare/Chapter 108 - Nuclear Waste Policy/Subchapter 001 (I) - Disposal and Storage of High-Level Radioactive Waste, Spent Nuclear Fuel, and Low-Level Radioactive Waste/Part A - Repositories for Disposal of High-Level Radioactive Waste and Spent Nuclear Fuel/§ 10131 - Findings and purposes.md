@@ -18,7 +18,7 @@
 
 (b) The purposes of this part are—
 
-&emsp;(1) to establish a schedule for the siting, construction, and operation of repositories that will provide a reasonable assurance that the public and the environment will be adequately protected from the hazards posed by high-levelradioactive waste and such spent nuclear fuel as may be disposed of in a repository;
+&emsp;(1) to establish a schedule for the siting, construction, and operation of repositories that will provide a reasonable assurance that the public and the environment will be adequately protected from the hazards posed by high-level radioactive waste and such spent nuclear fuel as may be disposed of in a repository;
 
 &emsp;(2) to establish the Federal responsibility, and a definite Federal policy, for the disposal of such waste and spent fuel;
 

@@ -10,7 +10,7 @@ The Secretary shall, as soon as practicable after the end of each fiscal year, c
 
 &emsp;(2) an estimate of (A) the domestic and foreign energy supply on which the United States will be expected to rely to meet such needs in an economic manner with due regard for the protection of the environment, the conservation of natural resources, and the implementation of foreign policy objectives, and (B) the quantities of energy expected to be provided by different sources (including petroleum, natural and synthetic gases, coal, uranium, hydroelectric, solar, and other means) and the expected means of obtaining such quantities;
 
-&emsp;(3) current and foreseeable trends in the price, quality, management, and utilization of energy resources and the effects of those trends on the social, environmental, economic, and other requirements of the Nation;
+&emsp;(3) current and foreseeable trends in the price, quality, management, and utilization ofenergy resources and the effects of those trends on the social, environmental, economic, and other requirements of the Nation;
 
 &emsp;(4) a summary of research and development efforts funded by the Federal Government to develop new technologies, to forestall energy shortages, to reduce waste, to foster recycling, to encourage conservation practices, and to increase efficiency; and further such summary shall include a description of the activities the Department is performing in support of environmental, social, economic and institutional, biomedical, physical and safety research, development, demonstration, and monitoring activities necessary to guarantee that technological programs, funded by the Department, are undertaken in a manner consistent with and capable of maintaining or improving the quality of the environment and of mitigating any undesirable environmental and safety impacts;
 
@@ -35,10 +35,6 @@ Section 5914 of this title, referred to in text, was omitted from the Code.
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 3rd item on page 88 identifies a reporting provision which, as subsequently amended, is contained in this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5562, 6806, 7135, 8235g of this title; title 15 section 780; title 22 section 3142.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

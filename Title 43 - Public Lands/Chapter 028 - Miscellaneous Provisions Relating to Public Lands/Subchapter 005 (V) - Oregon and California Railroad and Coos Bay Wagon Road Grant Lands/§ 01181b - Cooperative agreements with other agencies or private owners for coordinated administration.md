@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized, in his discretion, to make cooperat
 
 (Aug. 28, 1937, ch. 876, title I, §2, 50 Stat. 874.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1181d, 1181e, 1181f, 1181f–4, 1181i, 1735, 1752 of this title; title 30 sections 601, 603.
-

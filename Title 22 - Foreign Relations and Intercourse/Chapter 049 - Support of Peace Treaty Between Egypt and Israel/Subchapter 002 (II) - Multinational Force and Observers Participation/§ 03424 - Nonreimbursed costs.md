@@ -24,7 +24,3 @@ The President may provide military training to members of the armed forces of ot
 
 2001—Subsec. (d). Pub. L. 107–107 added subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3425 of this title.
-

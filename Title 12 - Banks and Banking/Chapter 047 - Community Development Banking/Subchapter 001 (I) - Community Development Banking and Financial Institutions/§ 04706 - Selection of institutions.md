@@ -26,7 +26,7 @@ Except as provided in section 4712 of this title, the Fund shall, in its sole di
 
 &emsp;(11) the extent to which the applicant is, or will be, community-owned or community-governed;
 
-&emsp;(12) the extent to which the applicant will increase its resources through coordination with other institutions or participation in a secondary market;
+&emsp;(12) the extent to which the applicant will increase its resources through coordinationwith other institutions or participation in a secondary market;
 
 &emsp;(13) in the case of an applicant with a prior history of serving investment areas or targeted populations, the extent of success in serving them; and
 
@@ -37,8 +37,4 @@ Except as provided in section 4712 of this title, the Fund shall, in its sole di
 In selecting applicants for assistance, the Fund shall seek to fund a geographically diverse group of applicants, which shall include applicants from metropolitan, nonmetropolitan, and rural areas.
 
 (Pub. L. 103–325, title I, §107, Sept. 23, 1994, 108 Stat. 2172.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4705, 4707, 4712 of this title.
 

@@ -56,7 +56,3 @@ During the period in which grants may be made under this section, not more than 
 
 (Pub. L. 96–270, §5, June 14, 1980, 94 Stat. 491.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3602, 3607, 3611 of this title.
-

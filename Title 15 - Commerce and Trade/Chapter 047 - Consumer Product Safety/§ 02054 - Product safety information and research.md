@@ -28,7 +28,7 @@ In carrying out its functions under this section, the Commission may make grants
 
 #### (d) Availability to public of information
 
-Whenever the Federal contribution for any information, research, or development activity authorized by this chapter is more than minimal, the Commission shall include in any contract, grant, or other arrangement for such activity, provisions effective to insure that the rights to all information, uses, processes, patents, and other developments resulting from that activity will be made available to the public without charge on a nonexclusive basis. Nothing in this subsection shall be construed to deprive any person of any right which he may have had, prior to entering into any arrangement referred to in this subsection, to any patent, patent application, or invention.
+Whenever the Federal contribution for any information, research, or development activity authorized by this chapter is more than minimal, the Commission shall include in any contract,grant, or other arrangement for such activity, provisions effective to insure that the rights to all information, uses, processes, patents, and other developments resulting from that activity will be made available to the public without charge on a nonexclusive basis. Nothing in this subsection shall be construed to deprive any person of any right which he may have had, prior to entering into any arrangement referred to in this subsection, to any patent, patent application, or invention.
 
 (Pub. L. 92–573, §5, Oct. 27, 1972, 86 Stat. 1211; Pub. L. 97–35, title XII, §1209(a), (b), Aug. 13, 1981, 95 Stat. 720.)
 
@@ -138,7 +138,7 @@ Pub. L. 98–567, Oct. 30, 1984, 98 Stat. 2925, as amended by Pub. L. 100–418,
 
 &emsp;“(3) the Assistant Secretary of Health in the Department of Health and Human Services.
 
-“(b) The Interagency Committee shall direct, oversee, and review the work of the Technical Study Group on Cigarette and Little Cigar Fire Safety (established under section 3) conducted under section 4 and shall make such policy recommendations to the Congress asit deems appropriate. The Interagency Committee may retain and contract with such consultants as it deems necessary to assist the Study Group in carrying out its functions under section 4. The Interagency Committee may request the head of any Federal department or agency to detail any of the personnel of the department or agency to assist the Interagency Committee or the Study Group in carrying out its responsibilities. The authority of the Interagency Committee to enter into contracts shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
+“(b) The Interagency Committee shall direct, oversee, and review the work of the Technical Study Group on Cigarette and Little Cigar Fire Safety (established under section 3) conducted under section 4 and shall make such policy recommendations to the Congress as it deems appropriate. The Interagency Committee may retain and contract with such consultants as it deems necessary to assist the Study Group in carrying out its functions under section 4. The Interagency Committee may request the head of any Federal department or agency to detail any of the personnel of the department or agency to assist the Interagency Committee or the Study Group in carrying out its responsibilities. The authority of the Interagency Committee to enter into contracts shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
 “(c) For the purpose of carrying out section 4, the Interagency Committee or the Study Group, with the advice and consent of the Interagency Committee, may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Interagency Committee or the Study Group considers appropriate.
 
@@ -169,8 +169,4 @@ Sec. 3. (a) There is established the Technical Study Group on Cigarette and Litt
 “(c) The Interagency Committee shall, on the vote of a majority of its members, adopt reasonable procedures to protect the confidentiality of trade secret and confidential information, as defined in this section.
 
 “Sec. 7. As used in this Act, the terms ‘cigarettes’ and ‘little cigars’ have the meanings given such terms by section 3 of the Federal Cigarette Labeling and Advertising Act \[15 U.S.C. 1332\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1193, 1262, 2058 of this title; title 35 section 210.
 

@@ -28,7 +28,7 @@ For purposes of this chapter—
 
 &emsp;(8) the term “associate” means one who has one or more of the following relationships with a person in a position to refer settlement business: (A) a spouse, parent, or child of such person; (B) a corporation or business entity that controls, is controlled by, or is under common control with such person; (C) an employer, officer, director, partner, franchisor, or franchisee of such person; or (D) anyone who has an agreement, arrangement, or understanding, with such person, the purpose or substantial effect of which is to enable the person in a position to refer settlement business to benefit financially from the referrals of such business.
 
-(Pub. L. 93–533, §3, Dec. 22, 1974, 88 Stat. 1724; Pub. L. 94–205, §2, Jan. 2, 1976, 89 Stat. 1157; Pub. L. 98–181, title IV, §461(a), Nov. 30, 1983, 97 Stat.1230; Pub. L. 102–550, title IX, §908(a), (b), Oct. 28, 1992, 106 Stat. 3873, 3874; Pub. L. 104–208, div. A, title II, §2103(c)(1), Sept. 30, 1996, 110 Stat. 3009–400.)
+(Pub. L. 93–533, §3, Dec. 22, 1974, 88 Stat. 1724; Pub. L. 94–205, §2, Jan. 2, 1976, 89 Stat. 1157; Pub. L. 98–181, title IV, §461(a), Nov. 30, 1983, 97 Stat. 1230; Pub. L. 102–550, title IX, §908(a), (b), Oct. 28, 1992, 106 Stat. 3873, 3874; Pub. L. 104–208, div. A, title II, §2103(c)(1), Sept. 30, 1996, 110 Stat. 3009–400.)
 
 #### Amendments
 
@@ -63,8 +63,4 @@ Section 12 of Pub. L. 94–205 provided that: “The provisions of this Act and 
 #### Regulations
 
 Section 908(c) of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue regulations to implement the amendments made by this section \[amending this section\] not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\]. The regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 6603.
 

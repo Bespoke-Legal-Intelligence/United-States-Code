@@ -10,6 +10,44 @@
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+#### Effective Date of Repeal on Failure of Enforceability Date
+
+Pub. L. 108–451, title I, §111, Dec. 10, 2004, 118 Stat. 3499, provided that:
+
+“(a)
+
+In General.—Except as provided in subsection (b), if the Secretary \[of the Interior\] does not publish a statement of findings under section 207(c) \[118 Stat. 3519\] by December 31, 2007—
+
+&emsp;“(1) this title \[see Short Title of 2004 Amendment note below\] is repealed effective January 1, 2008, and any action taken by the Secretary and any contract entered under any provision of this title shall be void; and
+
+&emsp;“(2) any amounts appropriated under section 110 \[118 Stat. 3498\] that remain unexpended shall immediately revert to the general fund of the Treasury.
+
+“(b)
+
+Exception.—No subcontract amendment executed by the Secretary under the notice of June 18, 2003 (67 Fed. Reg. 36578), shall be considered to be a contract entered into by the Secretary for purposes of subsection (a)(1).”
+
+Pub. L. 108–451, title II, §215, Dec. 10, 2004, 118 Stat. 3535, provided that: “If the Secretary \[of the Interior\] does not publish a statement of findings under section 207(c) \[118 Stat. 3519\] by December 31, 2007—
+
+&emsp;“(1) except for section 213(i) \[118 Stat. 3532\], this title \[see Short Title of 2004 Amendment note below\] is repealed effective January 1, 2008, and any action taken by the Secretary and any contract entered under any provision of this title shall be void;
+
+&emsp;“(2) any amounts appropriated under paragraphs (1) through (7) of section 214(a) \[118 Stat. 3534, 3535\], together with any interest on those amounts, shall immediately revert to the general fund of the Treasury;
+
+&emsp;“(3) any amounts made available under section 214(b) \[118 Stat. 3535\] that remain unexpended shall immediately revert to the general fund of the Treasury; and
+
+&emsp;“(4) any amounts paid by the Salt River Project in accordance with the Gila River agreement shall immediately be returned to the Salt River Project.”
+
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–451, §1(a), Dec. 10, 2004, 118 Stat. 3478, provided that: “This Act \[amending sections 1524 and 1543 of this title and enacting and repealing provisions set out as notes under this section and section 1543 of this title\] may be cited as the ‘Arizona Water Settlements Act’.”
+
+Pub. L. 108–451, title I, §101, Dec. 10, 2004, 118 Stat. 3486, provided that: “This title \[amending section 1543 of this title and enacting and repealing provisions set out as notes under this section and section 1543 of this title\] may be cited as the ‘Central Arizona Project Settlement Act of 2004’.”
+
+\[For repeal of section 101 of Pub. L. 108–451, set out above, effective Jan. 1, 2008, if Secretary does not publish statement of findings under section 207(c) of Pub. L. 108–451 by Dec. 31, 2007, see section 111(a)(1) of Pub. L. 108–451, set out as a note above.\]
+
+Pub. L. 108–451, title II, §201, Dec. 10, 2004, 118 Stat. 3499, provided that: “This title \[amending section 1524 of this title and enacting and repealing provisions set out as notes under this section\] may be cited as the‘Gila River Indian Community Water Rights Settlement Act of 2004’.”
+
+\[For repeal of section 201 of Pub. L. 108–451, set out above, effective Jan. 1, 2008, if the Secretary does not publish a statement of findings under section 207(c) of Pub. L. 108–451 by Dec. 31, 2007, see section 215(1) of Pub. L. 108–451, set out as a note above.\]
+
 #### Short Title
 
 Section 101 of Pub. L. 90–537 provided: “That this Act \[enacting this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amending sections 616hh, 620, and 620a of this title, and enacting provisions set out as notes under sections 620, 620k, and 1501 of this title\] may be cited as the ‘Colorado River Basin Project Act’.”

@@ -1,6 +1,6 @@
 ### §715. Property loss; personal injury or death: activities under certain sections of this title
 
-(a) Under such regulations as the Secretary of the Army or Secretary of the Air Force may prescribe, he or, subject to appeal to him, the Judge Advocate General of the armed force under his jurisdiction, if designated by him, maysettle and pay in an amount not more than $100,000 a claim against the United States for—
+(a) Under such regulations as the Secretary of the Army or Secretary of the Air Force may prescribe, he or, subject to appeal to him, the Judge Advocate General of the armed force under his jurisdiction, if designated by him, may settle and pay in an amount not more than $100,000 a claim against the United States for—
 
 &emsp;(1) damage to, or loss of, real property, including damage or loss incident to use and occupancy;
 
@@ -10,7 +10,7 @@
 
 (b) A claim may be allowed under subsection (a) only if—
 
-&emsp;(1) it is presented in writing within two years after it accrues, except that if the claim accrues in time of war or armed conflict or if such a war or armed conflict intervenes within two years after it accrues, and if good cause is shown, the claim may be presented not later than two years after the war or armed conflict is terminated;
+&emsp;(1) it is presented in writing within two years after it accrues, except that if the claimaccrues in time of war or armed conflict or if such a war or armed conflict intervenes within two years after it accrues, and if good cause is shown, the claim may be presented not later than two years after the war or armed conflict is terminated;
 
 &emsp;(2) it is not covered by section 2734 of title 10 or section 2672 of title 28;
 
@@ -62,7 +62,7 @@ Subsec. (f). Pub. L. 90–525 increased limitation on amount of settlement from 
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–486 effective Jan. 1, 1968, except that no deductions or withholding from salarywhich result therefrom shall commence before the first day of the first pay period that begins on or after Jan. 1, 1968, see section 11 of Pub. L. 90–486, set out as a note under section 709 of this title.
+Amendment by Pub. L. 90–486 effective Jan. 1, 1968, except that no deductions or withholding from salary which result therefrom shall commence before the first day of the first pay period that begins on or after Jan. 1, 1968, see section 11 of Pub. L. 90–486, set out as a note under section 709 of this title.
 
 #### Effective Date of 1962 Amendment
 
@@ -71,8 +71,4 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 #### Savings Provision for Claims Arising Before January 1, 1969
 
 Settlement and payment of claims arising under this section before January 1, 1969, see section 3(a) of Pub. L. 90–486, set out as a note under section 709 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2736; title 31 section 1304.
 

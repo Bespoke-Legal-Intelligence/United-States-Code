@@ -174,7 +174,3 @@ Sec. 4. <i>Exceptions.</i>
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320d, 1320d–1, 1320d–3, 1320d–4, 1320d–7, 1396u–2 of this title.
-

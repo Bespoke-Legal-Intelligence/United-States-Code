@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For the purpose of improving the effectiveness of the programs and projects assistedunder this division, the Secretary may make grants to or enter into contracts with institutions of higher education and other public and private institutions and organizations to evaluate the effectiveness of the programs and projects assisted under this division.
+&emsp;For the purpose of improving the effectiveness of the programs and projects assisted under this division, the Secretary may make grants to or enter into contracts with institutions of higher education and other public and private institutions and organizations to evaluate the effectiveness of the programs and projects assisted under this division.
 
 #### (2) Practices
 
@@ -31,8 +31,4 @@ In order to improve overall program or project effectiveness, the results of eva
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1070a–11 of this title.
 

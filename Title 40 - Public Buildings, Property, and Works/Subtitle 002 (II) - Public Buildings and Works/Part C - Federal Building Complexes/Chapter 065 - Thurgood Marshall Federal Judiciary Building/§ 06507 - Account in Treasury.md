@@ -36,7 +36,3 @@ Pub. L. 100–480, §9, Oct. 7, 1988, 102 Stat. 2334; Pub. L. 102–392, title I
 
 The text of 40:1207(b) is omitted as obsolete.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6404, 6505, 6506 of this title.
-

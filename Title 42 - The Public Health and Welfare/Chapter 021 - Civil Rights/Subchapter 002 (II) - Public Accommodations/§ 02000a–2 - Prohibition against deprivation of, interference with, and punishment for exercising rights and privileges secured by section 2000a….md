@@ -4,7 +4,3 @@ No person shall (a) withhold, deny, or attempt to withhold or deny, or deprive o
 
 (Pub. L. 88–352, title II, §203, July 2, 1964, 78 Stat. 244.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2000a–3 of this title.
-

@@ -38,7 +38,7 @@ Each tech-prep program shall—
 
 &emsp;(2) consist of at least 2 years of secondary school preceding graduation and 2 years or more of higher education, or an apprenticeship program of at least 2 years following secondary instruction, with a common core of required proficiency in mathematics, science, reading, writing, communications, and technologies designed to lead to an associate's degree or a postsecondary certificate in a specific career field;
 
-&emsp;(3) include the development of tech-prep programs for both secondary and postsecondary,including consortium, participants in the consortium that—
+&emsp;(3) include the development of tech-prep programs for both secondary and postsecondary, including consortium, participants in the consortium that—
 
 &emsp;&emsp;(A) meets academic standards developed by the State;
 
@@ -101,8 +101,4 @@ Provisions similar to this section were contained in sections 2394a and 2394b of
 A prior section 2373, Pub. L. 88–210, title III, §323, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2461; amended Pub. L. 100–418, title VI, §6131(a)(2), Aug. 23, 1988, 102 Stat. 1509, provided for coordination of program with Job Training Partnership Act, prior to repeal by Pub. L. 101–392, title III, §305, title VII, §702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
 
 A prior section 204 of Pub. L. 88–210 was classified to section 2334 of this title, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2376 of this title.
 

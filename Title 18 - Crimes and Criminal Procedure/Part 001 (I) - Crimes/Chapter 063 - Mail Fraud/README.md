@@ -29,10 +29,6 @@
 
 1952—Act July 16, 1952, ch. 879, §18(b), 66 Stat. 722, added item 1343.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 15 section 7703; title 29 section 1111.
-
 
 ---
 

@@ -8,7 +8,3 @@ Upon a written finding by the head of the contracting agency or department that 
 
 1940—Act June 28, 1940, inserted proviso.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 25 section 450j.
-

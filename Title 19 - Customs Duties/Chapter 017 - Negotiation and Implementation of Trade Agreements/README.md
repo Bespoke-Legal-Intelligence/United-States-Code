@@ -30,10 +30,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3104, 3109 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “United States wine;”.</i>
 
 

@@ -16,7 +16,3 @@ Nothing in this chapter shall be construed—
 
 The International Joint Commission, United States and Canada, referred to in subsec. (c), was organized in 1911 pursuant to article VII of the treaty of January 11, 1909, with Great Britain, 36 Stat. 2448. Provisions relating to such Commission are contained in sections 267b and 268 of Title 22, Foreign Relations and Intercourse.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1962b of this title.
-

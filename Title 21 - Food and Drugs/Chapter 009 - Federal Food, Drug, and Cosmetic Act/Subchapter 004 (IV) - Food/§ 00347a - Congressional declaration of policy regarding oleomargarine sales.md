@@ -12,7 +12,3 @@ Section was not enacted as part of the Federal Food, Drug, and Cosmetic Act whic
 
 Section effective July 1, 1950, see section 7 of act Mar. 16, 1950, set out as a note under section 347 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 347b of this title.
-

@@ -104,9 +104,5 @@ Amendment to this section by section 2711(a)(3) of Pub. L. 98–369 not to affec
 
 The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 section 423; title 20 section 1018a.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

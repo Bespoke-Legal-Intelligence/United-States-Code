@@ -14,7 +14,3 @@ Section 1144 of the Northeast Rail Service Act of 1981, referred to in text, is 
 
 See section 1341 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 741 of this title.
-

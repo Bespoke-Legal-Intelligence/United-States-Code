@@ -10,11 +10,7 @@ Emergency mortgage relief payments shall be made under this section only with re
 
 #### (c) Processing of relief payments; power of Secretary
 
-The Secretary may make such delegations and accept such certifications with respect to theprocessing of mortgage relief payments provided under this section as he deems appropriate to facilitate the prompt and efficient implementation of the assistance authorized under this section.
+The Secretary may make such delegations and accept such certifications with respect to the processing of mortgage relief payments provided under this section as he deems appropriate to facilitate the prompt and efficient implementation of the assistance authorized under this section.
 
 (Pub. L. 94–50, title I, §106, July 2, 1975, 89 Stat. 251.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2703, 2706, 2708 of this title.
 

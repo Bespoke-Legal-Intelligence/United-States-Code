@@ -68,7 +68,7 @@ For purposes of this subchapter:
 
 &emsp;(17) The term “State” means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, but for fiscal years ending before October 1, 2001 (and fiscal year 2002, if the legislation described in section 9835(a)(2)(B)(iii) of this title has not been enacted before September 30, 2001), also means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
 
-(Pub. L. 97–35, title VI, §637, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §101, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§104(b), 116(b), 117(b), 121(b), 123(a), Nov. 3, 1990, 104 Stat. 1228, 1232, 1233, 1237; Pub. L. 103–252, title I, §102, May 18, 1994, 108 Stat. 624; Pub. L. 105–285, title I, §103, Oct. 27, 1998, 112 Stat. 2703.)
+(Pub. L. 97–35, title VI, §637, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §101, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I,§§104(b), 116(b), 117(b), 121(b), 123(a), Nov. 3, 1990, 104 Stat. 1228, 1232, 1233, 1237; Pub. L. 103–252, title I, §102, May 18, 1994, 108 Stat. 624; Pub. L. 105–285, title I, §103, Oct. 27, 1998, 112 Stat. 2703.)
 
 #### References in Text
 
@@ -151,10 +151,6 @@ Application.—The requirements of this title and the amendments made by this ti
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as a note under section 8621 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9902 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

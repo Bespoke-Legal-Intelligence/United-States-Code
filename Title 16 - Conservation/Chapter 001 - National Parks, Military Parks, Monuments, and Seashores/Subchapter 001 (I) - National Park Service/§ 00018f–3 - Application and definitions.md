@@ -10,7 +10,3 @@ For the purposes of this section and sections 18f and 18f–2 of this title, the
 
 (July 1, 1955, ch. 259, §3, as added Pub. L. 104–333, div. I, title VIII, §804(b), Nov. 12, 1996, 110 Stat. 4188.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 18f, 18f–2 of this title.
-

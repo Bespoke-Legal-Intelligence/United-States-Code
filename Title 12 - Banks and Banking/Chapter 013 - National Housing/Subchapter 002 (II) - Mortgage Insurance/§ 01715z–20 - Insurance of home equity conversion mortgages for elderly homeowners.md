@@ -202,7 +202,7 @@ The Secretary may not insure a home equity conversion mortgage under this sectio
 
 #### (1) In general
 
-&emsp;In the case of any mortgage insured under this section under which the total amount (except as provided in paragraph (2)) of all future payments described in subsection (b)(3) of this section will be used only for costs of a qualified long-term care insurance contract that covers the mortgagor or members of the household residing in the property that is subject to the mortgage, notwithstanding section 1709(c)(2) of this title, the Secretary shall not charge or collect the single premium payment otherwise required under subparagraph (A) of such section to be paid at the time of insurance.
+&emsp;In the case of any mortgage insured under this section under which the total amount (except as provided in paragraph (2)) of all future payments described in subsection (b)(3) of this section will be used only for costs of a qualified long-term care insurance contract that covers the mortgagor or members of the household residing in the property that is subject to the mortgage, notwithstanding section 1709(c)(2) of this title, the Secretary shall notcharge or collect the single premium payment otherwise required under subparagraph (A) of such section to be paid at the time of insurance.
 
 #### (2) Authority to refinance existing mortgage and finance closing costs
 
@@ -270,7 +270,7 @@ Subsec. (g). Pub. L. 104–120, §6(a), (b), substituted “2000” for “1996�
 
 Pub. L. 104–99 substituted “1996” for “1995” and “30,000” for “25,000”.
 
-1992—Subsec. (g). Pub. L. 102–389 and Pub. L. 102–550, §503(c)(2), amended subsec. (g) identically, substituting“for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located” for “for a 1-family residence”.
+1992—Subsec. (g). Pub. L. 102–389 and Pub. L. 102–550, §503(c)(2), amended subsec. (g) identically, substituting “for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located” for “for a 1-family residence”.
 
 Subsec. (j). Pub. L. 102–550, §520, inserted at end “Section 1647(b) of title 15) and any implementing regulations issued by the Board of Governors of the Federal Reserve System shall not apply to a mortgage insured under this section.”
 

@@ -104,9 +104,5 @@ A conservation plan approved under this section shall be implemented as provided
 
 (Pub. L. 101–646, title III, §304, Nov. 29, 1990, 104 Stat. 4783.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3952 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

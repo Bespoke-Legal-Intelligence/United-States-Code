@@ -18,7 +18,7 @@ Section 256b, act Aug. 27, 1935, ch. 770, 49 Stat. 909, related to final proof b
 
 #### Effective Date of Repeal
 
-Section 702 of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
+Section 702 of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21,1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
 

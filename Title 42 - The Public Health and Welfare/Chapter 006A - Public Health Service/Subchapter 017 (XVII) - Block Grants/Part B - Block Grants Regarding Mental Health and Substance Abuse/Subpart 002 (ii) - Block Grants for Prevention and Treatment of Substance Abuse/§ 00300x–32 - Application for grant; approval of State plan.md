@@ -28,7 +28,7 @@ For purposes of section 300x–21 of this title, an application for a grant unde
 
 #### (2) Authority of Secretary regarding modifications
 
-&emsp;As a condition of making a grant under section 300x–21 of this title to a State for a fiscal year, the Secretary may require that the State modify any provision of the plan submitted by the State under subsection (a)(6) of this section (including provisions on priorities in carrying out authorized activities). If the Secretary approves the plan and makes the grant to the State for the fiscal year, the Secretary may not during such year require the State to modify the plan.
+&emsp;As a condition of making a grant under section 300x–21 of this title to a State for a fiscal year, the Secretary may require that theState modify any provision of the plan submitted by the State under subsection (a)(6) of this section (including provisions on priorities in carrying out authorized activities). If the Secretary approves the plan and makes the grant to the State for the fiscal year, the Secretary may not during such year require the State to modify the plan.
 
 #### (3) Authority of Center for Substance Abuse Prevention
 
@@ -36,7 +36,7 @@ For purposes of section 300x–21 of this title, an application for a grant unde
 
 #### (c) Waivers regarding certain territories
 
-In the case of any territory of the United States except Puerto Rico, the Secretary maywaive such provisions of this subpart and subpart III as the Secretary determines to be appropriate, other than the provisions of section 300x–31 of this title.
+In the case of any territory of the United States except Puerto Rico, the Secretary may waive such provisions of this subpart and subpart III as the Secretary determines to be appropriate, other than the provisions of section 300x–31 of this title.
 
 #### (d) Issuance of regulations; precondition to making grants
 
@@ -87,10 +87,6 @@ Another prior section 1932 of act July 1, 1944, was classified to section 300y�
 Subsec. (c). Pub. L. 106–310, §3303(e), substituted “except Puerto Rico” for “whose allotment under section 300x–21 of this title for the fiscal year is the amount specified in section 300x–33(c)(2)(B) of this title”.
 
 Subsec. (e). Pub. L. 106–310, §3303(f)(1), added subsec. (e).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 290bb, 300x–21, 300x–51 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

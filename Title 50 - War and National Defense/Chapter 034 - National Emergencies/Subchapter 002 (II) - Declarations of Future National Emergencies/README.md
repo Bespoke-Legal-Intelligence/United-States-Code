@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—DECLARATIONS OF FUTURE NATIONAL EMERGENCIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1706 of this title; title 10 sections 123, 527, 12006; title 42 section 8374.
-
 
 ---
 

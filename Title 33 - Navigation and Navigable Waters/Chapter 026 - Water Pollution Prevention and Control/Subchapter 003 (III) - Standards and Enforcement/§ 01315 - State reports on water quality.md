@@ -28,7 +28,3 @@ Subsec. (a) authorized the Administrator, in cooperation with the States and Fed
 
 Subsec. (b)(2). Pub. L. 95–217, §52(2), substituted “on or before October 1, 1975, and October 1, 1976, and biennially thereafter” for “on or before October 1, 1975, and annually thereafter”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1284, 1324, 1329, 1369, 1377 of this title.
-

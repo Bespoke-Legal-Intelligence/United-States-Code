@@ -64,7 +64,7 @@ Subsec. (b)(3). Pub. L. 100–360, §102(2), struck out par. (3) which related t
 
 “(1) The inpatient hospital deductible which shall be applicable for the purposes of subsection (a) of this section shall be $40 in the case of any spell of illness beginning before 1969.
 
-“(2) The Secretary shall, between July 1 and September 15 of 1968, and of each year thereafter, determine and promulgate the inpatient hospital deductible which shall be applicable for the purposes of subsection (a) of this section in the case of any inpatient hospital services or post-hospital extended care services furnished during the succeeding calendar year. Such inpatient hospital deductible shall be equal to $45 multiplied by the ratio of (A) the current average per diem rate for inpatient hospital services for the calendar year preceding the promulgation, to (B) the current average per diem rate for such services for 1966. Any amount determined under the preceding sentence which is not a multiple of $4 shall be rounded to the nearest multiple of $4 (or, if it is midway between two multiplies of $4, to the next higher multiple of $4). The current average per diem rate for any year shall be determined by the Secretary on the basis of the best information available to him (at the time the determination is made) as to the amounts paid under this part on account of inpatient hospital services furnished during such year, by hospitals which have agreements in effect under section 1395cc of this title, to individuals who are entitled to hospital insurance benefits under section 426 of this title, plus the amount which would have been so paid but for subsection (a)(1) of this section.”
+“(2) The Secretary shall, between July 1 and September 15 of 1968, and of each year thereafter, determine and promulgate the inpatient hospital deductible which shall be applicable for the purposes of subsection (a) of this section in the case of any inpatient hospital services or post-hospital extended care services furnished during the succeeding calendar year. Such inpatient hospital deductible shall be equal to $45 multiplied by the ratio of (A) the current average per diem rate for inpatient hospital services for the calendar year preceding the promulgation, to (B) the current average per diem rate for such services for 1966. Any amount determined under the preceding sentence which is not a multiple of $4 shall be rounded to the nearest multiple of $4 (or, if it is midway between two multiplies of $4, to the next higher multiple of $4). The current average per diem rate for any year shall be determined by the Secretary on the basis of the best information available to him (at the time the determination is made) as to the amounts paid under this part on account of inpatienthospital services furnished during such year, by hospitals which have agreements in effect under section 1395cc of this title, to individuals who are entitled to hospital insurance benefits under section 426 of this title, plus the amount which would have been so paid but for subsection (a)(1) of this section.”
 
 Subsec. (b)(2). Pub. L. 99–272 substituted “September 15” for “October 1”.
 
@@ -112,7 +112,7 @@ Section 2132(b) of Pub. L. 97–35 provided that: “The amendments made by subs
 
 #### Effective Date of 1968 Amendment
 
-Amendment by section 129(c)(3), (4) of Pub. L. 90–248 applicable with respect to services furnished after Mar.31, 1968, see section 129(d) of Pub. L. 90–248, set out as a note under section 1395d of this title.
+Amendment by section 129(c)(3), (4) of Pub. L. 90–248 applicable with respect to services furnished after Mar. 31, 1968, see section 129(d) of Pub. L. 90–248, set out as a note under section 1395d of this title.
 
 Section 135(d) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i> and 1395cc of this title\] shall apply with respect to payment for blood (or packed red blood cells) furnished an individual after December 31, 1967.”
 
@@ -175,8 +175,4 @@ Section 104(b) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, 
 #### Promulgation of New Deductible
 
 Section 9301(c) of Pub. L. 99–509 directed Secretary of Health and Human Services to provide, within 30 days after Oct. 21, 1986, for publication of inpatient hospital deductible, coinsurance amounts for inpatient hospital services and post-hospital extended care services, and monthly part A premiums for 1987, as modified under the amendment of this section made by subsection (a).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395f, 1395<i>l</i>, 1395x, 1395cc, 1395ww, 1395eee, 1396d of this title; title 5 section 8904; title 38 section 1710.
 

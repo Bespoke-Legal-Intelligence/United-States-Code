@@ -20,7 +20,7 @@
 
 (C) Any amount of a penalty or assessment imposed by the Secretary of Health and Human Services under this chapter with respect to a claim or statement made in connection with disability benefits under title II of the Social Security Act shall be deposited in the Federal Disability Insurance Trust Fund.
 
-(D) Any amount of a penalty or assessment imposed by the Secretary of Health and Human Services under this chapter with respect to a claim or statement made in connection with benefits under part A of title XVIII of the Social Security Act shall be deposited in the Federal Hospital Insurance Trust Fund.
+(D) Any amount of a penalty or assessment imposed by the Secretary of Health and HumanServices under this chapter with respect to a claim or statement made in connection with benefits under part A of title XVIII of the Social Security Act shall be deposited in the Federal Hospital Insurance Trust Fund.
 
 (E) Any amount of a penalty or assessment imposed by the Secretary of Health and Human Services under this chapter with respect to a claim or statement made in connection with benefits under part B of title XVIII of the Social Security Act shall be deposited in the Federal Supplementary Medical Insurance Trust Fund.
 
@@ -37,8 +37,4 @@ The Social Security Act, referred to in subsec. (g)(2)(B) to (E), is act Aug. 14
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1352, 3807, 3808, 3809 of this title.
 

@@ -18,7 +18,7 @@ Congress makes the following findings:
 
 &emsp;(7) According to UNAIDS, by the end of 1999, 13,200,000 children have lost at least one parent to AIDS, including 12,100,000 children in sub-Saharan Africa, and are thus considered AIDS orphans.
 
-&emsp;(8) At current infection and growth rates for HIV/AIDS, the National Intelligence Council estimates that the number of AIDS orphans worldwide will increase dramatically, potentially increasing threefold or more in the next 10 years, contributing to economic decay, social fragmentation, and political destabilization in already volatile and strained societies. Children without care or hope are often drawninto prostitution, crime, substance abuse, or child soldiery.
+&emsp;(8) At current infection and growth rates for HIV/AIDS, the National Intelligence Council estimates that the number of AIDS orphans worldwide will increase dramatically, potentially increasing threefold or more in the next 10 years, contributing to economic decay, social fragmentation, and political destabilization in already volatile and strained societies. Children without care or hope are often drawn into prostitution, crime, substance abuse, or child soldiery.
 
 &emsp;(9) Donors must focus on adequate preparations for the explosion in the number of orphans and the burden they will place on families, communities, economies, and governments. Support structures and incentives for families, communities, and institutions which will provide care for children orphaned by HIV/AIDS, or for the children who are themselves afflicted by HIV/AIDS, will be essential.
 

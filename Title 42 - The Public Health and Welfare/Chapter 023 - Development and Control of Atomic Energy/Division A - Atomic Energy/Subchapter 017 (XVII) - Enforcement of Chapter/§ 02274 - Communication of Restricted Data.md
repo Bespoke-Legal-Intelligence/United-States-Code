@@ -30,7 +30,3 @@ Amendment by Pub. L. 91–161 applicable to offenses committed on or after Dec. 
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2000aa, 2278, 2279 of this title; title 5 section 8312; title 18 section 2516; title 22 section 2778; title 38 section 6105.
-

@@ -56,7 +56,3 @@ Section 1 of Pub. L. 86–91 provided that: “This Act \[enacting this chapter 
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 sections 5102, 5334, 5541, 6301, 8331, 8701.
-

@@ -142,7 +142,7 @@ Provisions covering buildings and grounds in area not affected.—Except to the 
 
 &emsp;(2)
 
-Continued application of laws, regulations, and rules.—Except to the extent otherwise specifically provided in this section, all general laws of the United States and all laws enacted by the Congress and applicable exclusively to the District of Columbia, including regulations and rules prescribed pursuant to any of those laws, that were in effect on January 1, 1975, and which applied to and in theareas included in the National Capital Service Area pursuant to this section continue to be applicable to and in the National Capital Service Area in the same manner and to the same extent as if this section had not been enacted and remain applicable until repealed, amended, altered, modified, or superseded.
+Continued application of laws, regulations, and rules.—Except to the extent otherwise specifically provided in this section, all general laws of the United States and all laws enacted by the Congress and applicable exclusively to the District of Columbia, including regulations and rules prescribed pursuant to any of those laws, that were in effect on January 1, 1975, and which applied to and in the areas included in the National Capital Service Area pursuant to this section continue to beapplicable to and in the National Capital Service Area in the same manner and to the same extent as if this section had not been enacted and remain applicable until repealed, amended, altered, modified, or superseded.
 
 (c)
 
@@ -201,8 +201,4 @@ In subsection (c), the words “Notwithstanding the foregoing provisions of this
 Sections 9, 9A, 9B, 9C, and 14 of the Act of July 31, 1946, referred to in subsec. (b)(1)(B)(i), are classified to sections 1961, 1966, 1967, 1922, and 1969, respectively, of Title 2, The Congress.
 
 The District of Columbia Home Rule Act, referred to in subsec. (c), is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, as amended. For complete classification of this Act to the Code, see Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8502 of this title.
 

@@ -1,9 +1,5 @@
 Part A—Death Benefits
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 239e, 3796c–1, 3796d–1 of this title.
-
 
 ---
 

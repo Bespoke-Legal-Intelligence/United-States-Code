@@ -40,11 +40,11 @@ The Bicentennial of the United States Congress Commemorative Coin Act, referred 
 
 #### Codification
 
-Section was classified to section 188a–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188a–2 of former Title 40, prior to the enactment of Title 40, PublicBuildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–302, §312(b)(1), struck out “subject to the approval, except for the purchase of fine art and antiques, of the Committees on Appropriations of the House of Representatives and Senate, respectively” after “The fund shall be available to the Commission”.
+1990—Subsec. (b). Pub. L. 101–302, §312(b)(1), struck out “subject to the approval, except for the purchase of fine art and antiques, of the Committees on Appropriations of the House of Representatives and Senate, respectively” after “The fund shall be available to the Commission”.
 
 Subsec. (b)(2). Pub. L. 101–302, §312(b)(2), inserted “subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate,” before “For improvement”.
 
@@ -57,8 +57,4 @@ Pub. L. 107–117, div. B, §913, Jan. 10, 2002, 115 Stat. 2324, provided that:
 “(b) Any amounts transferred pursuant to subsection (a) shall remain available for the use of the Architect of the Capitol until expended.
 
 “(c) This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2082 of this title.
 

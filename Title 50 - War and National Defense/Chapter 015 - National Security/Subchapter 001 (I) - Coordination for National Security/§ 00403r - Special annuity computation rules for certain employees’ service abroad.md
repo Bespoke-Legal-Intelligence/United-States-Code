@@ -40,9 +40,5 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 Amendment by Pub. L. 102–496 effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as an Effective Date note under section 2001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403a, 403e, 403f, 403r–1, 2144 of this title; title 10 section 1605.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

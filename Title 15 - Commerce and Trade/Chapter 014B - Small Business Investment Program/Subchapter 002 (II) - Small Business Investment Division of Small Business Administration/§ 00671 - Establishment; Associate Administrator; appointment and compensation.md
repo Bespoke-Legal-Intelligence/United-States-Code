@@ -10,7 +10,3 @@ There is hereby established in the Small Business Administration a division to b
 
 1965—Pub. L. 89–117 provided that the powers conferred by subchapters IV–A and V of this chapter shall be exercised through such divisions, sections, or other personnel as the Administrator in his discretion determines.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 633, 693 of this title.
-

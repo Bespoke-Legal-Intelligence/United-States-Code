@@ -8,7 +8,3 @@ In accordance with guidance provided by the Director of the Office of Management
 
 (Added Pub. L. 107–107, div. A, title VIII, §831(a)(1), Dec. 28, 2001, 115 Stat. 1188.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3561 of this title.
-

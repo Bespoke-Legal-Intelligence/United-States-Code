@@ -20,7 +20,7 @@
 
 #### (3) Citation
 
-&emsp;The regulations shall contain, immediately following each regulatory section, a citationto any statutory provision providing authority to promulgate such regulatory section.
+&emsp;The regulations shall contain, immediately following each regulatory section, a citation to any statutory provision providing authority to promulgate such regulatory section.
 
 #### (b) Miscellaneous
 
@@ -37,10 +37,6 @@ This Act, referred to in subsec. (b), means Pub. L. 95–561, Nov. 1, 1978, 92 S
 A prior section 2017, Pub. L. 95–561, title XI, §1137, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4011; amended Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 105–362, title VIII, §801(c)(4), Nov. 10, 1998, 112 Stat. 3288, related to biennial report, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2015 of this title.
 
 Another prior section 2017, Pub. L. 95–561, title XI, §1137, Nov. 1, 1978, 92 Stat. 2327, related to constitutional and civil rights of Indian children attending Bureau schools, prior to the general amendment of this chapter by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2002, 2007 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “2509”.</i>
 

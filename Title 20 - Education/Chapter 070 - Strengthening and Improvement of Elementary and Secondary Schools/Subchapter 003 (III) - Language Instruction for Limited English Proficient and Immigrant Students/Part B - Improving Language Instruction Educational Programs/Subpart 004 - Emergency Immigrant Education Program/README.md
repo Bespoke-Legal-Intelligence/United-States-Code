@@ -1,9 +1,5 @@
 subpart 4—emergency immigrant education program
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 5891b, 6801 of this title.
-
 
 ---
 

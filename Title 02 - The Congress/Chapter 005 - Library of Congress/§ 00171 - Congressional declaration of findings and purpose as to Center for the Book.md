@@ -20,7 +20,3 @@ The Congress hereby finds and declares—
 
 (Pub. L. 95–129, §1, Oct. 13, 1977, 91 Stat. 1151.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 172 of this title.
-

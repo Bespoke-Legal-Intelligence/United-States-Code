@@ -1,5 +1,5 @@
 
-41 U.S.C.<br>United States Code, 2003 Edition<br>Title 41 - PUBLIC CONTRACTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+41 U.S.C.<br>United States Code, 2004 Edition<br>Title 41 - PUBLIC CONTRACTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 41—PUBLIC CONTRACTS
 
@@ -17,10 +17,6 @@
 | [<b>10.</b>](Chapter%20010%20-%20Drug-Free%20Workplace/README.md) | <b>Drug-Free Workplace</b> | <b>701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 12 sections 1441a, 1822.
 
 
 ---

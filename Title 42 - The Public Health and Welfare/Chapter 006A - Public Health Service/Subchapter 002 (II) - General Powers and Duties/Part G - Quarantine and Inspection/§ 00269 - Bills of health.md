@@ -28,7 +28,3 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise of Bureau of Customs of Department of the Treasury to which appointments were required to be made by the President with the advice and consent of the Senate ordered abolished, with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1, of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 270, 271 of this title.
-

@@ -38,7 +38,7 @@ No credit in annuity computation shall be allowed for any period of civilian ser
 
 #### (f) Service in military during period of war or national emergency
 
-A participant who during a period of war, or national emergency proclaimed by the President or declared by the Congress, leaves the Service to enter the military service is deemed, for thepurpose of this part, as not separated from the Service unless the participant applies for and receives a lump-sum payment under section 4055 of this title. However, the participant is deemed to be separated from the Service after the expiration of 5 years of such military service.
+A participant who during a period of war, or national emergency proclaimed by the President or declared by the Congress, leaves the Service to enter the military service is deemed, for the purpose of this part, as not separated from the Service unless the participant applies for and receives a lump-sum payment under section 4055 of this title. However, the participant is deemed to be separated from the Service after the expiration of 5 years of such military service.
 
 #### (g) Recomputation of annuity for participants of Japanese ancestry interned during World War II
 
@@ -72,7 +72,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 &emsp;(A) the service of any individual who first became a participant on or after October 17, 1983, without any credit under this section for civilian service performed prior to October 1982; or
 
-&emsp;(B) any military or naval service performed prior to 1957 by an individual who first became a participant on or after October 17, 1983, with credit under this section for civilian service performed prior to October 1982, or any period of military or naval service performed after 1956 with respect to which the participant has made a contribution (with interest if any is required) under section 4045(e) of this title; or
+&emsp;(B) any military or naval service performed prior to 1957 by an individual who first became a participant on or after October 17, 1983, with credit under this section for civilian service performed prior to October 1982, or any period of military or naval service performed after 1956 with respect to which the participant hasmade a contribution (with interest if any is required) under section 4045(e) of this title; or
 
 &emsp;(C) any military or naval service performed prior to 1977 by any individual who first became a participant before October 17, 1983, or any period of military or naval service performed after 1976 with respect to which the participant has made a contribution (with interest if any is required) under section 4045(e) of this title.
 
@@ -84,7 +84,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 “(a) Section 816(a) of the Act (22 U.S.C. 4056(a)) is deemed to be further amended so that the provisions of section 8332(j) of Title 5 of the United States Code, relating to credit for military service, shall not apply with respect to any individual who is entitled to an annuity under such Act \[this chapter\] on or before the date of approval of this Order \[Oct. 17, 1983\], or who is entitled to an annuity based on a separation from service occurring on or before such date.
 
-“(b) Subject to subsection (c), in any case in which an individual described in subsection (a) isalso entitled to old-age or survivors insurance benefits under section 202 of the Social Security Act \[42 U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor), the amount of the annuity to which such individual is entitled under chapter 8 of the Act \[this subchapter\] (after taking into account subsection (a)) which is payable for any month shall be reduced by an amount determined by multiplying the amount of such old-age or survivors insurance benefit for the determination month by a fraction—
+“(b) Subject to subsection (c), in any case in which an individual described in subsection (a) is also entitled to old-age or survivors insurance benefits under section 202 of the Social Security Act \[42 U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor), the amount of the annuity to which such individual is entitled under chapter 8 of the Act \[this subchapter\] (after taking into account subsection (a)) which is payable for any month shall be reduced by an amount determined by multiplying the amount of such old-age or survivors insurance benefit for the determination month by a fraction—
 
 &emsp;“(1) the numerator of which is the total of the wages (within the meaning of section 209 of the Social Security Act \[42 U.S.C. 409\]) for service referred to in section 210(1) of such Act \[42 U.S.C. 410\] (relating to service in the uniformed services) and deemed additional wages (within the meaning of section 229 of such Act \[42 U.S.C. 429\]) of such individual credited for years after 1956 and before the calendar year in which the determination month occurs, up to the contribution and benefit base determined under section 230 of the Social Security Act \[42 U.S.C. 430\] (or other applicable maximum annual amount referred to in section 215(e)(1) of such Act \[42 U.S.C. 415(e)(1)\]) for each such year, and
 
@@ -129,10 +129,6 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 #### Effective Date of 1983 Amendment
 
 Amendment by section 4 of Ex. Ord. No. 12446 effective Oct. 17, 1983, see section 4(e) of Ex. Ord. No. 12446, set out under section 4067 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2504, 4044, 4045, 4046, 4055, 4063 of this title.
 
 <i><sup>1</sup></i><i> See Amendment of Section note below.</i>
 

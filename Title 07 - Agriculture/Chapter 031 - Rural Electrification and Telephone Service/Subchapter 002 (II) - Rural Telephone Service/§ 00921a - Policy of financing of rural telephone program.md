@@ -12,7 +12,7 @@ Section was not enacted as part of title II of the Rural Electrification Act of 
 
 #### Effective Date
 
-Section 7 of Pub. L. 92–12 provided that: “This Act \[enacting sections 921a, 931, 932, and 941 to 950b of this title and amending sections 903(f) and 922 of this title\] shall take effect upon enactment \[May 7, 1971\].”
+Section 7 of Pub. L. 92–12 provided that: “This Act \[enacting sections 921a, 931, 932, and 941 to 950b of thistitle and amending sections 903(f) and 922 of this title\] shall take effect upon enactment \[May 7, 1971\].”
 
 #### Reservation of Right To Repeal, Alter, or Amend Pub. L. 92–12
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) within such time as the Secretary may require, to obtain certification or licensing as an elementary school teacher, secondary school teacher, or vocational or technical teacher, and to become a highly qualified teacher; and
 
-&emsp;&emsp;(B) to accept an offer of full-time employment as an elementary school teacher, secondary school teacher, or vocational or technical teacher for not less than 3 school years with a high-need local educational agency or public charter school, as such terms are defined in section 6601 <sup>1</sup> of this title, to beginthe school year after obtaining that certification or licensing.
+&emsp;&emsp;(B) to accept an offer of full-time employment as an elementary school teacher, secondary school teacher, or vocational or technical teacher for not less than 3 school years with a high-need local educational agency or public charter school, as such terms are defined in section 6601 <sup>1</sup> of this title, to begin the school year after obtaining that certification or licensing.
 
 #### (2) Waiver
 
@@ -44,7 +44,7 @@ A participant in the Program shall not be considered to be in violation of the p
 
 #### (1) Bonus authorized
 
-&emsp;Subject to paragraph (2), the Secretary may, in lieu of paying a stipend under subsection (c) of this section, pay a bonus of $10,000 to a participant in the Program selected under section 6673 of this title who agrees in the participation agreement under subsection (a) of this section to become a highly qualified teacher and to accept full-time employment as an elementary school teacher, secondary school teacher, or vocational or technical teacher for not less than 3 school years in a high-need school.
+&emsp;Subject to paragraph (2), the Secretary may, in lieu of paying a stipend under subsection (c) of this section, pay a bonus of $10,000 to a participant in the Program selected under section 6673 of this title who agrees in the participation agreement under subsection (a) of this section to become a highly qualified teacher and to accept full-time employment as an elementary school teacher, secondary school teacher, or vocational or technical teacher fornot less than 3 school years in a high-need school.
 
 #### (2) Limitation
 
@@ -86,7 +86,7 @@ A stipend or bonus paid under this section to a participant in the Program shall
 
 #### (2) Amount of reimbursement
 
-&emsp;A participant required to reimburse the Secretary for a stipend or bonus paid to the participant under this section shall pay an amount that bears the same ratio to the amount of the stipend or bonus as the unserved portion of required service bears to the 3 years of required service. Any amount owedby the participant shall bear interest at the rate equal to the highest rate being paid by the United States on the day on which the reimbursement is determined to be due for securities having maturities of 90 days or less and shall accrue from the day on which the participant is first notified of the amount due.
+&emsp;A participant required to reimburse the Secretary for a stipend or bonus paid to the participant under this section shall pay an amount that bears the same ratio to the amount of the stipend or bonus as the unserved portion of required service bears to the 3 years of required service. Any amount owed by the participant shall bear interest at the rate equal to the highest rate being paid by the United States on the day on which the reimbursement is determined to be due for securities having maturities of 90 days or less and shall accrue from the day on which the participant is first notified of the amount due.
 
 #### (3) Treatment of obligation
 
@@ -111,10 +111,6 @@ The Higher Education Act of 1965, referred to in subsec. (e), is Pub. L. 89–32
 #### Prior Provisions
 
 A prior section 6674, Pub. L. 89–10, title II, §2304, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3634, related to plan for program to be assisted, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6672, 6673 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “6602”.</i>
 

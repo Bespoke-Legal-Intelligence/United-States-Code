@@ -188,7 +188,3 @@ Subsec. (j)(1). Pub. L. 104–332, §2(e)(4), substituted “The Director, the S
 
 Subsec. (k). Pub. L. 104–332, §2(g), substituted “Congress” for “appropriate Committees” in pars. (1) and (2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4723, 4725, 4741 of this title.
-

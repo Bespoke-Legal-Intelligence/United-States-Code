@@ -1,5 +1,5 @@
 
-37 U.S.C.<br>United States Code, 2003 Edition<br>Title 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES<br>From the U.S. Government Publishing Office, www.gpo.gov
+37 U.S.C.<br>United States Code, 2004 Edition<br>Title 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 37—PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
 
@@ -800,10 +800,6 @@ Pub. L. 87–649, §13, Sept. 7, 1962, 76 Stat. 498, provided that: “If on the
 #### Repeals
 
 Pub. L. 87–649, §14, Sept. 7, 1962, 76 Stat. 498, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this title, “except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act \[Nov. 1, 1962\] and except as provided in section 12.”
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 2 section 906; title 10 sections 2005, 2126, 12319; title 42 sections 204, 2651; title 50 section 403e.
 
 
 ---

@@ -36,7 +36,3 @@ Section 9 of Pub. L. 97–267 provided that:
 
 Section 8 of Pub. L. 97–267 provided that: “During the period beginning on the date of enactment of this Act \[Sept. 27, 1982\] and ending eighteen months after the date of the enactment of this Act, the pretrial services agencies established under section 3152 of title 18 of the United States Code in effect before the date of enactment of this Act may continue to operate, employ staff, provide pretrial services, and perform such functions and powers as are authorized under chapter 207 of title 18 of the United States Code \[this chapter\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3153, 3154, 3155, 3156 of this title; title 28 section 604.
-

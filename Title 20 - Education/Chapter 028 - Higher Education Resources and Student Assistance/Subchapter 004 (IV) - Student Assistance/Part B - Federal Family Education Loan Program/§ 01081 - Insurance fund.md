@@ -34,7 +34,3 @@ Pub. L. 105–244, title IV, §434, Oct. 7, 1998, 112 Stat. 1711, provided that:
 
 All assets and liabilities of the vocational student loan insurance fund transferred to the student loan insurance fund, see section 116(c)(2) of Pub. L. 90–575, set out as a note under former section 981 et seq. of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1071, 1072, 1078, 1078–3, 1087–1, 1087–2 of this title.
-

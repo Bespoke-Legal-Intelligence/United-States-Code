@@ -34,7 +34,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (1) Commencement of repayment
 
-&emsp;Repayment of principal on loans made under this section shall commence not later than 60 days after the date such loan is disbursed by the lender, subject to deferral during any period during which the parent meets the conditions required for a deferral under section 1077(a)(2)(C) or 1078(b)(1)(M) of this title.
+&emsp;Repayment of principal on loans made under this section shall commence not later than 60days after the date such loan is disbursed by the lender, subject to deferral during any period during which the parent meets the conditions required for a deferral under section 1077(a)(2)(C) or 1078(b)(1)(M) of this title.
 
 #### (2) Capitalization of interest
 
@@ -152,13 +152,13 @@ Subsec. (b)(3). Pub. L. 100–50, §10(p)(2), amended first sentence generally, 
 
 Subsec. (c)(1). Pub. L. 100–50, §10(<i>o</i>)(2)(B), struck out “pursuant to sections 1077(a)(2)(C)(i), (viii), and (ix) and 1078(b)(1)(M)(i), (viii), and (ix) of this title” after “subject to deferral” and inserted in lieu cls. (A) and (B).
 
-Subsec. (c)(2). Pub. L. 100–50, §10(<i>o</i>)(1), (2)(C), (q), in introductory provisions, struck out “and interest” after first reference to “principal”, and substituted “pursuant to paragraph (1) of this subsection” for“under sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title”, and, in subpar. (A), inserted “monthly or” before “quarterly”.
+Subsec. (c)(2). Pub. L. 100–50, §10(<i>o</i>)(1), (2)(C), (q), in introductory provisions, struck out “and interest” after first reference to “principal”, and substituted “pursuant to paragraph (1) of this subsection” for “under sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title”, and, in subpar. (A), inserted “monthly or” before “quarterly”.
 
 Subsec. (d)(1). Pub. L. 100–50, §10(r)(1)(A), inserted “at any time” after “eligible lender may” in first sentence, substituted “the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3)” for “the borrower complies with the requirements of paragraph (2)” in second sentence, and inserted “(if required by them)” after “shall be reported” in third sentence.
 
 Subsec. (d)(2). Pub. L. 100–50, §10(r)(1)(B), inserted “under this section before July 1, 1987, or” before “under this section” and substituted “to reissue a loan or loans” for “to reissue a loan” and “reissuing such loan or loans” for “reissuing such loan”.
 
-Subsec. (d)(5). Pub. L. 100–50, §10(r)(1)(C), substituted “October 1, 1987” for “January 1, 1987” and, in subpar. (B), inserted “and of the practical consequences of such options in terms of interest rates and monthly and total payments for a set of loan examples” before semicolon at end.
+Subsec. (d)(5). Pub. L. 100–50, §10(r)(1)(C), substituted “October 1, 1987” for “January 1, 1987” and, in subpar. (B), inserted “and of the practical consequences of such options in terms of interest rates and monthly andtotal payments for a set of loan examples” before semicolon at end.
 
 #### Effective Date of 1998 Amendment
 
@@ -181,8 +181,4 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 #### Amendment of Note or Other Written Evidence of Loan by Eligible Lender at Request of Borrower; Circumstances; Denial of Request
 
 Section 10(r)(2) of Pub. L. 100–50 provided that: “An eligible lender who has refinanced a loan or loans under section 428A(d) \[former 20 U.S.C. 1078–1(d)\] or 428B(d) \[20 U.S.C. 1078–2(d)\] between the date of enactment of the Higher Education Amendments of 1986 \[Oct. 17, 1986\] and July 1, 1987, may, at the request of a borrower or with the written consent of the borrower, amend the note or other written evidence of loan as necessary to comply with the requirements of such sections and section 427A(c)(4) \[20 U.S.C. 1077a(c)(4)\] as amended by this Act. Any borrower who is denied such a request shall be treated as eligible to obtain a loan from another lender under section 428A(d)(3) or 428B(d)(3), as applicable, for the purposes of discharging the loan from the original lender, and a borrower exercising this option shall not be subject to an additional insurance fee under section 428A(d)(3)(C) or 428B(d)(3)(C).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1075, 1077, 1077a, 1078, 1078–8, 1078–11, 1082, 1083, 1085, 1087, 1087–1, 1087d, 1087e, 1091, 1091b, 1092 of this title; title 26 section 144; title 42 section 12604.
 

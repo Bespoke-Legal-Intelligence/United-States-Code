@@ -34,9 +34,5 @@ Executive Order No. 12988, referred to in par. (9), is set out as a note under s
 
 Pars. (8), (9). Pub. L. 105–156, §4(2)–(4), added pars. (8) and (9).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5605, 5608, 5609 of this title.
-
 <i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

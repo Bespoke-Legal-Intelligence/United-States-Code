@@ -38,7 +38,3 @@ For purposes of this subpart:
 
 1998—Par. (1). Pub. L. 105–392 substituted “or behavioral and mental health practice, including clinical psychology” for “or clinical psychology”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 292, 292a, 292g of this title.
-

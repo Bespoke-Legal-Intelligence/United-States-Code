@@ -4,7 +4,3 @@ For purposes of this subchapter, the term “high poverty area” means an urban
 
 (Pub. L. 103–239, title III, §307, May 4, 1994, 108 Stat. 594.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6145 of this title.
-

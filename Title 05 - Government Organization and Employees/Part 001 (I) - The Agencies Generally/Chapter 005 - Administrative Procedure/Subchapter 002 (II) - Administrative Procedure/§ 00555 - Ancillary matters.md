@@ -2,7 +2,7 @@
 
 (a) This section applies, according to the provisions thereof, except as otherwise provided by this subchapter.
 
-(b) A person compelled to appear in person before an agency or representative thereof is entitled to be accompanied, represented, and advised by counsel or, if permitted by the agency, by other qualified representative. A party is entitled to appear in person or by or with counsel or other duly qualified representative in an agency proceeding. So far as the orderly conduct of public business permits, an interested person may appear before an agency or its responsible employees for the presentation, adjustment, or determination of an issue, request, or controversy in a proceeding, whether interlocutory, summary, or otherwise, or in connection with an agency function. With due regard for the convenience and necessity of the parties or theirrepresentatives and within a reasonable time, each agency shall proceed to conclude a matter presented to it. This subsection does not grant or deny a person who is not a lawyer the right to appear for or represent others before an agency or in an agency proceeding.
+(b) A person compelled to appear in person before an agency or representative thereof is entitled to be accompanied, represented, and advised by counsel or, if permitted by the agency, by other qualified representative. A party is entitled to appear in person or by or with counsel or other duly qualified representative in an agency proceeding. So far as the orderly conduct of public business permits, an interested person may appear before an agency or its responsible employees for the presentation, adjustment, or determination of an issue, request, or controversy in a proceeding, whether interlocutory, summary, or otherwise, or in connection with an agency function. With due regard for the convenience and necessity of the parties or their representatives and within a reasonable time, each agency shall proceed to conclude a matter presented to it. This subsection does not grant or deny a person who is not a lawyer the right to appear for or represent others before an agency or in an agency proceeding.
 
 (c) Process, requirement of a report, inspection, or other investigative act or demand may not be issued, made, or enforced except as authorized by law. A person compelled to submit data or evidence is entitled to retain or, on payment of lawfully prescribed costs, procure a copy or transcript thereof, except that in a nonpublic investigatory proceeding the witness may for good cause be limited to inspection of the official transcript of his testimony.
 
@@ -37,8 +37,4 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### Codification
 
 Section 555 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2247 of Title 7, Agriculture.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 sections 501, 502, 1405; title 8 section 1375; title 16 sections 1536, 3636; title 18 section 3625; title 30 section 185; title 41 section 422; title 42 sections 2000e–16c, 7407, 7502, 7511a, 7607; title 46 sections 7702, 9303; title 50 App. sections 16, 2159, 2410, 2412.
 

@@ -44,11 +44,11 @@ The Administrator may appoint, fix the compensation, and remove additional emplo
 
 #### (e) Compensation
 
-Except as otherwise provided in subsection (a) of this section, the members of the Board who are officers or employees of the Federal Government, and officers and employees of other agencies of the Federal Government who are used under subsection (d)(1) of this section, shall receive no additional compensation for services, but shall continue to be compensated by the employing Department or agency of such officer or employee. Each member of the Board appointed from private life shall receive compensation at a rate not to exceed the daily equivalent of the rate prescribed for level IV of the Executive Schedule for each day (including travel time) in which the member is engaged in the actual performance of duties vested in the Board. Individuals hired under subsection (d)(2) of this section may receive compensation at rates fixed by the Administrator, but not to exceed the daily equivalent of the rate prescribed for level V of the Federal Executive Salary Schedule under section 5316 of title 5 for each day (including travel time) in which such appointees are properly engaged in the actual performance of duties under this section. While serving away from homes or the regular place of business, Board members and other appointees serving on an intermittent basis under this section shall be allowed travel expenses in accordance with section 5703 of title 5.
+Except as otherwise provided in subsection (a) of this section, the members of the Board whoare officers or employees of the Federal Government, and officers and employees of other agencies of the Federal Government who are used under subsection (d)(1) of this section, shall receive no additional compensation for services, but shall continue to be compensated by the employing Department or agency of such officer or employee. Each member of the Board appointed from private life shall receive compensation at a rate not to exceed the daily equivalent of the rate prescribed for level IV of the Executive Schedule for each day (including travel time) in which the member is engaged in the actual performance of duties vested in the Board. Individuals hired under subsection (d)(2) of this section may receive compensation at rates fixed by the Administrator, but not to exceed the daily equivalent of the rate prescribed for level V of the Federal Executive Salary Schedule under section 5316 of title 5 for each day (including travel time) in which such appointees are properly engaged in the actual performance of duties under this section. While serving away from homes or the regular place of business, Board members and other appointees serving on an intermittent basis under this section shall be allowed travel expenses in accordance with section 5703 of title 5.
 
 #### (f) Cost accounting standards authority
 
-(1) The Board shall have the exclusive authority to make, promulgate, amend, and rescind cost accounting standards and interpretationsthereof designed to achieve uniformity and consistency in the cost accounting standards governing measurement, assignment, and allocation of costs to contracts with the United States.
+(1) The Board shall have the exclusive authority to make, promulgate, amend, and rescind cost accounting standards and interpretations thereof designed to achieve uniformity and consistency in the cost accounting standards governing measurement, assignment, and allocation of costs to contracts with the United States.
 
 (2)(A) Cost accounting standards promulgated under this section shall be mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the United States in excess of $500,000.
 
@@ -245,10 +245,6 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 428a of this title; title 5 section 9009.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,3 @@ Section was classified to section 193 of former Title 40, prior to the enactment
 
 R.S. §1820 derived from acts Mar. 30, 1867, ch. 20, §2, 15 Stat. 12; Apr. 29, 1876, ch. 86, 19 Stat. 41.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2102 of this title.
-

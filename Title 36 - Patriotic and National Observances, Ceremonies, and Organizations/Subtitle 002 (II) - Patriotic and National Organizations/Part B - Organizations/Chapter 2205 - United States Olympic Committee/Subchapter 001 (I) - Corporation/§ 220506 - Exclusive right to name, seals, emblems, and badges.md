@@ -110,9 +110,5 @@ Pre-Existing” in heading.
 
 Subsec. (d)(3). Pub. L. 105–277, §142(g)(8), added par. (3).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 sections 1116, 1117, 1125; title 18 section 2320.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

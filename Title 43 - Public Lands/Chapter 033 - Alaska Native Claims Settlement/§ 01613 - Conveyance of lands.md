@@ -38,7 +38,45 @@ There is authorized to be appropriated such sums as may be necessary for the pur
 
 #### (d) Rule of approximation with respect to acreage limitations
 
-The Secretary may apply the rule of approximation with respect to the acreage limitations contained in this section.
+(1) The Secretary may apply the rule of approximation with respect to the acreage limitations contained in this section.
+
+(2) For purposes of applying the rule of approximation under this section, the largest legal subdivision that may be conveyed in excess of the applicable acreage limitation specified in subsection (a) of this section shall be—
+
+&emsp;(A) in the case of land managed by the Bureau of Land Management that is not within a conservation system unit, the next whole section;
+
+&emsp;(B) in the case of land managed by an agency other than the Bureau of Land Management that is not within a conservation system unit, the next quarter-section and only with concurrence of the agency; or
+
+&emsp;(C) in the case of land within a conservation system unit, a quarter of a quarter section, and if the land is managed by an agency other than the Bureau of Land Management, only with the concurrence of that agency.
+
+(3)(A) If the Secretary determines pursuant to paragraph (2) that an entitlement of a Village Corporation (other than a Village Corporation listed in section 1615(a) of this title) or a Regional Corporation may be fulfilled by conveying a specific tract of surveyed or unsurveyed land, the Secretary and the affected Village or Regional Corporation may enter into an agreement providing that all land entitlements under this chapter shall be deemed satisfied by conveyance of the specifically identified and agreed upon tract of land.
+
+(B) An agreement entered into under subparagraph (A) shall be—
+
+&emsp;(i) in writing;
+
+&emsp;(ii) executed by the Secretary and the Village or Regional Corporation; and
+
+&emsp;(iii) authorized by a corporate resolution adopted by the affected Village or Regional Corporation.
+
+(C) After execution of an agreement under subparagraph (A) and conveyance of the agreed upon tract to the affected Village or Regional Corporation—
+
+&emsp;(i) the Secretary shall not make any further adjustments to calculations relating to acreage entitlements of the Village or Regional Corporation; and
+
+&emsp;(ii) the Village or Regional Corporation shall not be entitled to any further conveyances under this chapter.
+
+(D) A Village or Regional Corporation shall not be eligible to receive land under subparagraph (A) if the Village or Regional Corporation has received the full land entitlement of the Village or Regional Corporation through—
+
+&emsp;(i) an actual conveyance of land; or
+
+&emsp;(ii) a previous agreement.
+
+(E) If the calculations of the Secretary indicate that the final survey boundaries for any Village or Regional Corporation entitlement for which an agreement has not been entered into under this paragraph include acreage in a quantity that exceeds the statutory entitlement of the corporation by 1/10 of 1 percent or less, but not more than the applicable acreage limitation specified in paragraph (2)—
+
+&emsp;(i) the entitlement shall be considered satisfied by the conveyance of the surveyed area; and
+
+&emsp;(ii) the Secretary shall not change the survey for the sole purpose of an acreage adjustment.
+
+(F) This paragraph does not limit or otherwise affect the ability of a Village or Regional Corporation to enter into land exchanges with the United States.
 
 #### (e) Surface and/or subsurface estates to Regional Corporations
 
@@ -56,7 +94,37 @@ All conveyances made pursuant to this chapter shall be subject to valid existing
 
 The Secretary is authorized to withdraw and convey 2 million acres of unreserved and unappropriated public lands located outside the areas withdrawn by sections 1610 and 1615 of this title, and <sup>1</sup> follows:
 
-&emsp;(1) The Secretary may withdraw and convey to the appropriate Regional Corporation fee title to existing cemetery sites and historical places. Only title to the surface estate shall be conveyed for lands located in a Wildlife Refuge, when the cemetery or historical site is greater than 640 acres.
+&emsp;(1)(A) The Secretary may withdraw and convey to the appropriate Regional Corporation fee title to existing cemetery sites and historical places.
+
+&emsp;(B) Only title to the surface estate shall be conveyed for lands located in a Wildlife Refuge, when the cemetery or historical site is greater than 640 acres.
+
+&emsp;(C)(i) Notwithstanding acreage allocations made before December 10, 2004, the Secretary may convey any cemetery site or historical place—
+
+&emsp;&emsp;(I) with respect to which there is an application on record with the Secretary on December 10, 2004; and
+
+&emsp;&emsp;(II) that is eligible for conveyance.
+
+&emsp;(ii) Clause (i) shall also apply to any of the 188 closed applications that are determined to be eligible and reinstated under Secretarial Order No. 3220 dated January 5, 2001.
+
+&emsp;(D) No applications submitted for the conveyance of land under subparagraph (A) that were closed before December 10, 2004, may be reinstated other than those specified in subparagraph (C)(ii).
+
+&emsp;(E) After December 10, 2004—
+
+&emsp;&emsp;(i) no application may be filed for the conveyance of land under subparagraph (A); and
+
+&emsp;&emsp;(ii) no pending application may be amended, except as necessary to conform the application to the description in the certification of eligibility of the Bureau of Indian Affairs.
+
+&emsp;(F) Unless, not later than 1 year after December 10, 2004, a Regional Corporation that has filed an application for a historic place submits to the Secretary a statement on the significance of and the location of the historic place—
+
+&emsp;&emsp;(i) the application shall not be valid; and
+
+&emsp;&emsp;(ii) the Secretary shall reject the application.
+
+&emsp;(G) The State and the head of the Federal agency with administrative jurisdiction over the land shall have 30 days to provide written comments to the Secretary—
+
+&emsp;&emsp;(i) identifying any third party interest to which a conveyance under subparagraph (A) should be made subject; and
+
+&emsp;&emsp;(ii) describing any easements recommended for reservation.
 
 &emsp;(2) The Secretary may withdraw and convey to a Native group that does not qualify as a Native village, if it incorporates under the laws of Alaska, title to the surface estate in not more than 23,040 acres surrounding the Native group's locality. The subsurface estate in such land shall be conveyed to the appropriate Regional Corporation unless the lands are located in a Wildlife Refuge;
 
@@ -74,23 +142,47 @@ The Secretary is authorized to withdraw and convey 2 million acres of unreserved
 
 &emsp;(B) Such allocation as the Regional Corporation for southeastern Alaska shall receive under this paragraph shall be selected and conveyed from lands that were withdrawn by sections 1615(a) and 1615(d) of this title and not selected by the Village Corporations in southeastern Alaska; except lands on Admiralty Island in the Angoon withdrawal area and, without the consent of the Governor of the State of Alaska or his delegate, lands in the Saxman and Yakutat withdrawal areas are not available for selection or conveyance under this paragraph.
 
+&emsp;(C)(i) Notwithstanding any other provision of this subsection, as soon as practicable after December 10, 2004, the Secretary shall allocate to a Regional Corporation eligible for an allocation under subparagraph (A) the Regional Corporation's share of 200,000 acres from lands withdrawn under this subsection, to be credited against acreage to be allocated to the Regional Corporation under subparagraph (A).
+
+&emsp;(ii) Clause (i) shall apply to Chugach Alaska Corporation pursuant to the terms of the 1982 CNI Settlement Agreement.
+
+&emsp;(iii) With respect to Cook Inlet Region, Inc., or Koniag, Inc.—
+
+&emsp;&emsp;(I) clause (i) shall not apply; and
+
+&emsp;&emsp;(II) the portion of the 200,000 acres allocated to Cook Inlet Region Inc. or Koniag, Inc., shall be retained by the United States.
+
+&emsp;(iv) This subparagraph shall not affect any prior agreement entered into by a Regional Corporation other than the agreements specifically referred to in this subparagraph.
+
 &emsp;(9) Where the Regional Corporation is precluded from receiving the subsurface estate in lands selected and conveyed pursuant to paragraph (1), (2), (3), or (5), or the retained mineral estate, if any, pursuant to paragraph (6), it may select the subsurface estate in an equal acreage from other lands withdrawn for such selection by the Secretary, or, as to Cook Inlet Region, Incorporated, from those areas designated for in lieu selection in paragraph I.B.(2) of the document identified in section 12(b) of Public Law 94–204. Selections made under this paragraph shall be contiguous and in reasonably compact tracts except as separated by unavailable lands, and shall be in whole sections, except where the remaining entitlement is less than six hundred and forty acres. The Secretary is authorized to withdraw, up to two times the Corporation's entitlement, from vacant, unappropriated, and unreserved public lands, including lands solely withdrawn pursuant to section 1616(d)(1) of this title, and the Regional Corporation shall select such entitlement of subsurface estate from such withdrawn lands within ninety days of receipt of notification from the Secretary.
 
-&emsp;(10) Notwithstanding the provisions of subsection 1621(h) of this title the Secretary, upon determining that specific lands are available for withdrawal and possible conveyance under this subsection, may withdraw such lands for selection by and conveyance to an appropriate applicant and such withdrawal shall remain until revoked by the Secretary.
+&emsp;(10)(A) Notwithstanding the provisions of subsection 1621(h) of this title the Secretary, upon determining that specific lands are available for withdrawal and possible conveyance under this subsection, may withdraw such lands for selection by and conveyance to an appropriate applicant and such withdrawal shall remain until revoked by the Secretary.
 
-&emsp;(11) For purposes set forth in paragraphs (1), (2), (3), (5), and (6) of this subsection, the termWildlife Refuges refers to Wildlife Refuges as the boundaries of those refuges exist on December 18, 1971.
+&emsp;(B) If a Regional Corporation does not have enough valid selections on file to fulfill the remaining entitlement of the Regional Corporation under paragraph (8), the Secretary may use the withdrawal authority under subparagraph (A) to withdraw land that is vacant, unappropriated, and unreserved on December 10, 2004, for selection by, and conveyance to, the Regional Corporation to fulfill the entitlement.
 
-(Pub. L. 92–203, §14, Dec. 18, 1971, 85 Stat. 702; Pub. L. 95–178, §2, Nov. 15, 1977, 91 Stat. 1369; Pub. L. 96–487, title XIV, §§1404, 1405, 1406(a)–(d), Dec. 2, 1980, 94 Stat. 2493, 2494; Pub. L. 104–42, title I, §104, Nov. 2, 1995, 109 Stat. 355.)
+&emsp;(11) For purposes set forth in paragraphs (1), (2), (3), (5), and (6) of this subsection, the term Wildlife Refuges refers to Wildlife Refuges as the boundaries of those refuges exist on December 18, 1971.
+
+(Pub. L. 92–203, §14, Dec. 18, 1971, 85 Stat. 702; Pub. L. 95–178, §2, Nov. 15, 1977, 91 Stat. 1369; Pub. L. 96–487, title XIV, §§1404, 1405, 1406(a)–(d), Dec. 2, 1980, 94 Stat. 2493, 2494; Pub. L. 104–42, title I, §104, Nov. 2, 1995, 109 Stat. 355; Pub. L. 108–452, title II, §§203–206, Dec. 10, 2004, 118 Stat. 3583–3585.)
 
 #### References in Text
 
 Section 6(g) of the Alaska Statehood Act, referred to in subsec. (g), is section 6(g) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
+
+December 10, 2004, referred to in subsec. (h)(1)(C)(i)(I), (D), (E), (F), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactment of Pub. L. 108–452, which amended par. (1) of subsec. (h), to reflect the probable intent of Congress.
 
 Act of March 8, 1922, as amended, referred to in subsec. (h)(6), is act Mar. 8, 1922, ch. 96, 42 Stat. 415, as amended, which enacted sections 270–11 to 270–13 of this title. Sections 270–11 and 270–13 of this title were repealed by Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789. For complete classification of this Act to the Code, see Tables.
 
 Section 12 of the Act of January 2, 1976 (Public Law 94–204), as amended, referred to in subsec. (h)(6), (9), is section 12 of Pub. L. 94–204, Jan. 2, 1976, 89 Stat. 1150, which is set out as a note under section 1611 of this title.
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–452, §203, designated existing provisions as par. (1) and added pars. (2) and (3).
+
+Subsec. (h)(1). Pub. L. 108–452, §204, designated first sentence as subpar. (A) and second sentence as subpar. (B) and added subpars. (C) to (G).
+
+Subsec. (h)(8)(C). Pub. L. 108–452, §205, added subpar. (C).
+
+Subsec. (h)(10). Pub. L. 108–452, §206, designated existing provisions as subpar. (A) and added subpar. (B).
 
 1995—Subsec. (c). Pub. L. 104–42 inserted last par.
 
@@ -120,9 +212,9 @@ Section 1406(e) of Pub. L. 96–487 provided that: “Any Regional Corporation w
 
 Pub. L. 94–204, §2, Jan. 2, 1976, 89 Stat. 1146, as amended by Pub. L. 96–487, title XIV, §1411, Dec. 2, 1980, 94 Stat. 2497; Pub. L. 99–396, §22, Aug. 27, 1986, 100 Stat. 846; Pub. L. 100–581, title II, §218, Nov. 1, 1988, 102 Stat. 2942, provided that:
 
-“(a)(1) During the period of the appropriate withdrawal for selection pursuant to the Settlement Act \[this chapter\], any and all proceeds derived from contracts, leases, licenses, permits, rights-of-way, or easements, or from trespass occurring after the date of withdrawal of the lands for selection, pertaining to lands or resources of lands, including wildlife proceeds received between the date of withdrawal and the date of conveyance from harvests on lands conveyed pursuant to the Act, withdrawn for Native selection pursuant to the Settlement Act shall be deposited in an escrow account which shall be held by the Secretary until lands selected pursuant to that Act have been conveyed to the selecting Corporation or individual entitled to receive benefits under such Act.
+“(a)(1) During the period of the appropriate withdrawal for selection pursuant to the Settlement Act \[this chapter\], any and all proceeds derived from contracts, leases, licenses, permits, rights-of-way, or easements, or from trespass occurring after the date of withdrawal of the lands for selection, pertaining to lands or resources of lands, including wildlife proceeds received between the date of withdrawal and the date of conveyance from harvests on lands conveyed pursuantto the Act, withdrawn for Native selection pursuant to the Settlement Act shall be deposited in an escrow account which shall be held by the Secretary until lands selected pursuant to that Act have been conveyed to the selecting Corporation or individual entitled to receive benefits under such Act.
 
-“(2) Such proceeds which were received, if any, subsequent to the date of withdrawal of the land for selection, but were not deposited in the escrow account shall be identified by the Secretary within two years of the date of conveyance or this Act \[probably means Dec. 2, 1980\], whichever is later, and shall be paid, together with interest payable on the proceeds from the date of receipt by the United States to the date of payment to the appropriate Corporation or individual to which the land was conveyed by the United States: <i>Provided</i>, That the interest on proceeds received prior to January 2, 1976, shall be calculated and paid at the rate of the earnings on Individual Indian Moneys in the custody of the Secretary of the Interior pursuant to sections 463 and 465 of the Revised Statutes (25 U.S.C. 2 and 9) and invested by him pursuant to the Act of June 24, 1938 (25 U.S.C. 162a), from the date of receipt to January 2, 1976. Effective January 2, 1976, the interest so calculated shall be added to the principal amount of such proceeds. The interest on this total amount and on proceeds received on or after January 2, 1976, shall be calculated and paid as though such proceeds and previously calculated interest had been deposited in the escrow account from January 2, 1976, or the date of receipt, whichever occurs later, to the date of payment to the affected Corporation.\[:\] <i>Provided further</i>, That any rights of a Corporation or individual under this section to such proceeds shall be limited to proceeds actually received by the United States plus interest: <i>And provided further</i>, That moneys for such payments havebeen appropriated as provided in subsection (e) of this section.
+“(2) Such proceeds which were received, if any, subsequent to the date of withdrawal of the land for selection, but were not deposited in the escrow account shall be identified by the Secretary within two years of the date of conveyance or this Act \[probably means Dec. 2, 1980\], whichever is later, and shall be paid, together with interest payable on the proceeds from the date of receipt by the United States to the date of payment to the appropriate Corporation or individual to which the land was conveyed by the United States: <i>Provided</i>, That the interest on proceeds received prior to January 2, 1976, shall be calculated and paid at the rate of the earnings on Individual Indian Moneys in the custody of the Secretary of the Interior pursuant to sections 463 and 465 of the Revised Statutes (25 U.S.C. 2 and 9) and invested by him pursuant to the Act of June 24, 1938 (25 U.S.C. 162a), from the date of receipt to January 2, 1976. Effective January 2, 1976, the interest so calculated shall be added to the principal amount of such proceeds. The interest on this total amount and on proceeds received on or after January 2, 1976, shall be calculated and paid as though such proceeds and previously calculated interest had been deposited in the escrow account from January 2, 1976, or the date of receipt, whichever occurs later, to the date of payment to the affected Corporation.\[:\] <i>Provided further</i>, That any rights of a Corporation or individual under this section to such proceeds shall be limited to proceeds actually received by the United States plus interest: <i>And provided further</i>, That moneys for such payments have been appropriated as provided in subsection (e) of this section.
 
 “(3) Such proceeds which have been deposited in the escrow account shall be paid, together with interest accrued by the Secretary to the appropriate Corporation or individual upon conveyance of the particular withdrawn lands. In the event that a conveyance does not cover all of the land embraced within any contract, lease, license, permit, right-of-way, easement, or trespass, the Corporation or individual shall only be entitled to the proportionate amount of the proceeds, including interest accrued, derived from such contract, lease, license, permit, right-of-way, or easement, which results from multiplying the total of such proceeds, including interest accrued, by a fraction in which the numerator is the acreage of such contract, lease, license, permit, right-of-way, or easement which is included in the conveyance and the denominator is the total acreage contained in such contract, lease, license, permit, right-of-way, or easement; in the case of trespass, the conveyee shall be entitled to the proportionate share of the proceeds, including a proportionate share of interest accrued, in relation to the damages occurring on the respective lands during the period the lands were withdrawn for selection.
 
@@ -141,10 +233,6 @@ Pub. L. 94–204, §2, Jan. 2, 1976, 89 Stat. 1146, as amended by Pub. L. 96–4
 #### Boundary Between Southeastern and Chugach Regions; Hunting and Fishing Rights of Natives of Village of Yakutat
 
 Pub. L. 94–204, §11, Jan. 2, 1976, 89 Stat. 1150, provided that: “The boundary between the southeastern and Chugach regions shall be the 141st meridian: <i>Provided</i>, That the Regional Corporation for the Chugach region shall accord to the Natives enrolled to the Village of Yakutat the same rights and privileges to use any lands which may be conveyed to the Regional Corporation in the vicinity of Icy Bay for such purposes as such Natives have traditionally made thereof, including, but not limited to, subsistence hunting, fishing and gathering, as the Regional Corporation accords to its own shareholders, and shall take no unreasonable or arbitrary action relative to such lands for the primary purpose and having the effect, of impairing or curtailing such rights and privileges.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1610, 1611, 1615, 1617, 1618, 1620, 1621, 1627, 1629a, 1629b, 1629d, 1632, 1633, 1635, 1636, 1638, 1641 of this title; title 16 sections 3102, 3192; title 25 section 3902; title 30 section 1702; title 45 section 1205.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “as”.</i>
 

@@ -16,7 +16,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (1) There are hereby authorized to be made available for expenditure out of the employment security administration account for the fiscal year ending June 30, 1971, and for each fiscal year thereafter—
 
-&emsp;(A) such amounts (not in excess of the applicable limit provided by paragraph (3) and, withrespect to clause (ii), not in excess of the limit provided by paragraph (4)) as the Congress may deem appropriate for the purpose of—
+&emsp;(A) such amounts (not in excess of the applicable limit provided by paragraph (3) and, with respect to clause (ii), not in excess of the limit provided by paragraph (4)) as the Congress may deem appropriate for the purpose of—
 
 &emsp;&emsp;(i) assisting the States in the administration of their unemployment compensation laws as provided in subchapter III of this chapter (including administration pursuant to agreements under any Federal unemployment compensation law),
 
@@ -108,7 +108,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (B) If the entire amount of the excess determined as provided in paragraph (2) as of the close of any fiscal year after June 30, 1972, is not retained in the employment security administration account, there shall be transferred (as of the beginning of the succeeding fiscal year) to the extended unemployment compensation account the balance of such excess or so much thereof as is required to increase the amount in the extended unemployment compensation account to the limit provided in section 1105(b)(2) of this title.
 
-(C) If as of the close of any fiscal year after June 30, 1972, the amount in the extended unemployment compensation account exceeds thelimit provided in section 1105(b)(2) of this title, such excess shall be transferred to the employment security administration account as of the close of such fiscal year.
+(C) If as of the close of any fiscal year after June 30, 1972, the amount in the extended unemployment compensation account exceeds the limit provided in section 1105(b)(2) of this title, such excess shall be transferred to the employment security administration account as of the close of such fiscal year.
 
 (4) For the purposes of this section, the net balance in the employment security administration account as of any time is the amount in such account as of such time reduced by the sum of—
 
@@ -172,7 +172,7 @@ Subsec. (c)(3). Pub. L. 91–373, §303(a)(3), changed the ceiling on the amount
 
 Subsec. (c)(4). Pub. L. 91–373, §303(a)(4), added par. (4).
 
-Subsec. (d). Pub. L. 91–373, §303(b), struck out reference to section 3302(c)(2) of the Federal Unemployment Tax Act in par. (1)(A)(i), struck out provision for separate application of par. (1) in years in which there was both a balance described in sections 3302(c)(2) and 3302(c)(3) of the Federal Unemployment Tax Act, redesignated par. (3) as par. (2), and struck out former par. (2) covering the transfer of funds from the employmentsecurity administration account to the general fund of the Treasury and to the State account, with respect to which employers paid additional tax, received by reason of the reduced credit provisions of section 1400c of this title.
+Subsec. (d). Pub. L. 91–373, §303(b), struck out reference to section 3302(c)(2) of the Federal Unemployment Tax Act in par. (1)(A)(i), struck out provision for separate application of par. (1) in years in which there was both a balance described in sections 3302(c)(2) and 3302(c)(3) of the Federal Unemployment Tax Act, redesignated par. (3) as par. (2), and struck out former par. (2) covering the transfer of funds from the employment security administration account to the general fund of the Treasury and to the State account, with respect to which employers paid additional tax, received by reason of the reduced credit provisions of section 1400c of this title.
 
 Subsec. (e)(2). Pub. L. 91–373, §303(c), substituted “equals 40 percent of the amount of the total appropriation by the Congress out of the employment security administration account of the preceding fiscal year” for “is $250,000,000”.
 
@@ -231,10 +231,6 @@ Pub. L. 87–582, title I, §101, Aug. 14, 1962, 76 Stat. 363, provided that not
 #### Increase in Administrative Expenditures Limitation for Fiscal Years 1961 and 1962
 
 Pub. L. 87–6, §15, Mar. 24, 1961, 75 Stat. 16, provided that notwithstanding subsec. (c)(1)(A) of this section, the limitation on the amount authorized to be available for the fiscal years ending June 30, 1961 and June 30, 1962, for the purposes specified in subsec. (c)(1)(A), was increased to $385,000,000 and $415,000,000, respectively.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 501, 1102, 1103, 1105, 1110, 1321, 1323 of this title; title 26 section 3302.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “for”.</i>
 

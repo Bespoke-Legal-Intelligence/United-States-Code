@@ -54,7 +54,3 @@ Section 4(b) of Pub. L. 92–213 required the Board of Governors of the Federal 
 
 Section 4 of Pub. L. 91–156 provided that the Board of Governors of the Federal Reserve System make a study to determine the probable impact on the banking system and other economic effects of the changes in existing law made by section 2 of this Act \[amending this section\] and that such study include the Board's recommendation as to what additional Federal legislation may be needed to reconcile the promotion of economic efficiency in the banking system with the achievement of effectiveness and local autonomy in meeting the fiscal needs of the States and their political subdivisions. The results of the Board's study were to be made to Congress not later than December 31, 1970.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 932 of this title.
-

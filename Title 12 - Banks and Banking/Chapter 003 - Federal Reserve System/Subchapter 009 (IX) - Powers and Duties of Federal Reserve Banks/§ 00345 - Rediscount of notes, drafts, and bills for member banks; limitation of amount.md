@@ -12,7 +12,3 @@ Section is comprised of the fifth par. of section 13 of act Dec. 23, 1913, as am
 
 1930—Act Apr. 12, 1930, among other changes, inserted proviso.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 84, 412, 461 of this title.
-

@@ -170,9 +170,5 @@ Amendment by Pub. L. 105–61 applicable to any annuity commencing before, on, o
 
 See section 2 of Pub. L. 100–92, set out as a note under section 8332 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8418, 8419, 8420, 8420a, 8421, 8422, 8442, 8452, 8468 of this title; title 22 sections 4045, 4046, 4071d; title 38 section 7426; title 50 section 2153.
-
 <i><sup>1</sup></i><i> So in original. There are two subsecs. designated (k).</i>
 

@@ -20,7 +20,7 @@ The Congress finds and declares that—
 
 (2) This section does not prohibit such reasonable regulation and registration by the Drug Enforcement Administration of those persons who cultivate, harvest, or distribute peyote as may be consistent with the purposes of this section and section 1996 of this title.
 
-(3) This section does not prohibit application of the provisions of section 481.111(a) of Vernon'sTexas Health and Safety Code Annotated, in effect on October 6, 1994, insofar as those provisions pertain to the cultivation, harvest, and distribution of peyote.
+(3) This section does not prohibit application of the provisions of section 481.111(a) of Vernon's Texas Health and Safety Code Annotated, in effect on October 6, 1994, insofar as those provisions pertain to the cultivation, harvest, and distribution of peyote.
 
 (4) Nothing in this section shall prohibit any Federal department or agency, in carrying out its statutory responsibilities and functions, from promulgating regulations establishing reasonable limitations on the use or ingestion of peyote prior to or during the performance of duties by sworn law enforcement officers or personnel directly involved in public transportation or any other safety-sensitive positions where the performance of such duties may be adversely affected by such use or ingestion. Such regulations shall be adopted only after consultation with representatives of traditional Indian religions for which the sacramental use of peyote is integral to their practice. Any regulation promulgated pursuant to this section shall be subject to the balancing test set forth in section 3 of the Religious Freedom Restoration Act (Public Law 103–141; 42 U.S.C. 2000bb–1).
 
@@ -65,8 +65,4 @@ Nothing in this section shall be construed as abrogating, diminishing, or otherw
 The Religious Freedom Restoration Act, referred to in subsec. (b)(6), (7), probably means the Religious Freedom Restoration Act of 1993, Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to chapter 21B (§2000bb et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000bb of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (c)(2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11701 of this title; title 16 sections 410pp–5, 410pp–6, 410aaa–75, 460uu–47, 460jjj–1, 470ii, 543f, 698v–6; title 20 sections 4424, 7512.
 

@@ -32,7 +32,7 @@
 
 #### (3) Emphasis on anti-corruption
 
-&emsp;Such technical assistance shall include elements designed to combat anti-competitive,unethical, and corrupt activities, including protection against actions that may distort or inhibit transparency in market mechanisms and, to the extent applicable, privatization procedures.
+&emsp;Such technical assistance shall include elements designed to combat anti-competitive, unethical, and corrupt activities, including protection against actions that may distort or inhibit transparency in market mechanisms and, to the extent applicable, privatization procedures.
 
 #### (c) Administrative requirements
 
@@ -78,7 +78,7 @@ In carrying out the program established under subsection (a) of this section, th
 
 &emsp;&emsp;(E) expenses of preparing and transporting to their former homes or places of burial the remains of foreign participants or members of the family of foreign participants, who may die while such participants are away from their homes participating in activities carried out with funds covered by this section;
 
-&emsp;&emsp;(F) notwithstanding any other provision of law, transportation and payment of per diem in lieu of subsistence to foreign participants engaged in activities of the program under this section while such participants are away from their homes in countries other than the United States, at rates not in excess of those prescribed by the standardized Government travel regulations;
+&emsp;&emsp;(F) notwithstanding any other provision of law, transportation and payment of per diemin lieu of subsistence to foreign participants engaged in activities of the program under this section while such participants are away from their homes in countries other than the United States, at rates not in excess of those prescribed by the standardized Government travel regulations;
 
 &emsp;&emsp;(G) expenses in connection with travel of personnel outside the United States, including travel expenses of dependents (including expenses during necessary stop-overs while engaged in such travel), and transportation of personal effects, household goods, and automobiles of such personnel when any part of such travel or transportation begins in one fiscal year pursuant to travel orders issued in that fiscal year, notwithstanding the fact that such travel or transportation may not be completed during the same fiscal year, and cost of transporting automobiles to and from a place of storage, and the cost of storing automobiles of such personnel when it is in the public interest or more economical to authorize storage; and
 
@@ -140,7 +140,7 @@ In this section:
 
 &emsp;&emsp;(D) grants to United States nonprofit organizations to provide services or products which contribute to the provision of advice to foreign governments and foreign central banks; and
 
-&emsp;&emsp;(E) study tours for foreign officials in the United States or elsewhere for the purpose of providing technical information to such officials.
+&emsp;&emsp;(E) study tours for foreign officials in the United States or elsewhere for the purpose ofproviding technical information to such officials.
 
 #### (5) Foreign participant
 
@@ -162,7 +162,7 @@ In this section:
 
 The Foreign Service Act of 1980, referred to in subsec. (d)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-This chapter, referred to in subsec. (d)(4), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4,1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (d)(4), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 

@@ -10,7 +10,7 @@ The parent or guardian of a person or the eligible person if such person has att
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1976—Pub. L. 94–502 inserted reference to eligible person who have attained legal majority and substituted “the Administrator shall approve” for “he shall approve”.
+1976—Pub. L. 94–502 inserted reference to eligible person who have attained legal majority and substituted“the Administrator shall approve” for “he shall approve”.
 
 #### Effective Date of 1976 Amendment
 

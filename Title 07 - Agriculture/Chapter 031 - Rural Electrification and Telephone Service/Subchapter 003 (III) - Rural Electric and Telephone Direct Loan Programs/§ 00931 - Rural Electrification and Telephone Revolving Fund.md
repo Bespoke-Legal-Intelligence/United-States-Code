@@ -42,9 +42,5 @@ Amendment by Pub. L. 93–32 effective May 11, 1973, see section 12 of Pub. L. 9
 
 Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a note under section 921a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 946 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

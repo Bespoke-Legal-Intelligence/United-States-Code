@@ -18,7 +18,3 @@ National Security Systems.—Each agency operating or exercising control of a na
 
 (Added Pub. L. 107–347, title III, §301(b)(1), Dec. 17, 2002, 116 Stat. 2954.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3543, 3544 of this title.
-

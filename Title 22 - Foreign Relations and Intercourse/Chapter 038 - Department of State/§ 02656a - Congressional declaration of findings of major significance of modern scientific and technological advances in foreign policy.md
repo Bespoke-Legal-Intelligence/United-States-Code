@@ -12,7 +12,3 @@ The Congress finds that—
 
 (Pub. L. 95–426, title V, §501, Oct. 7, 1978, 92 Stat. 982.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3503 of this title.
-

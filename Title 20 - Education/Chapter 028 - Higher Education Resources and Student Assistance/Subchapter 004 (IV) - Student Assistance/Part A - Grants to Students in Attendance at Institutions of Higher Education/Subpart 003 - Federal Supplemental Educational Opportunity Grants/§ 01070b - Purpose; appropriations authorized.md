@@ -26,7 +26,3 @@ A prior section 1070b, Pub. L. 89–329, title IV, §413A, as added Pub. L. 92�
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1070b–3 of this title.
-

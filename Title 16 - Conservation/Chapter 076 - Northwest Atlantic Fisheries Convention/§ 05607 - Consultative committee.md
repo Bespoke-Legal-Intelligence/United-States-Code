@@ -6,7 +6,7 @@ The Secretary of State and the Secretary, shall jointly establish a consultative
 
 #### (b) Membership
 
-(1) The membership of the Committee shall include representatives from the New England and Mid-Atlantic Fishery Management Councils, the States represented on those Councils, the Atlantic States Marine Fisheries Commission, the fishing industry, the seafood processing industry, and others knowledgeable and experienced in the conservation and management of fisheries in the Northwest Atlantic Ocean.
+(1) The membership of the Committee shall include representatives from the New England andMid-Atlantic Fishery Management Councils, the States represented on those Councils, the Atlantic States Marine Fisheries Commission, the fishing industry, the seafood processing industry, and others knowledgeable and experienced in the conservation and management of fisheries in the Northwest Atlantic Ocean.
 
 (2)
 
@@ -31,8 +31,4 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the consul
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5601, 5608, 5611 of this title.
 

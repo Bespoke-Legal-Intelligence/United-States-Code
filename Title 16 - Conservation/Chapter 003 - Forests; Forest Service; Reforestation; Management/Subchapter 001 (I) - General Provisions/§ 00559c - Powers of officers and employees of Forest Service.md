@@ -24,9 +24,5 @@ Par. (2). Pub. L. 100–690, §6254(b)(2), inserted “, within the exterior bo
 
 Par. (3). Pub. L. 100–690, §6254(b)(3), inserted “, for offenses committed within the National Forest System or which affect the administration of the National Forest System;” before semicolon at end.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>lll</i>–12, 559b, 559d of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

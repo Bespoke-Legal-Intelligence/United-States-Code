@@ -2,7 +2,7 @@
 
 (a) The authority vested by section 1644a(b)(1) of this title in the Secretary of the Treasury, by regulation to provide for the application to civil air navigation of the laws and regulations relating to the administration of customs, and of the laws and regulations relating to the entry and clearance of vessels, shall extend to the application in like manner of any of the provisions of this chapter, or of the Anti-Smuggling Act of 1935 \[19 U.S.C. 1701 et seq.\], or of any regulations promulgated hereunder.
 
-(b) For purposes of section 1518(d) of title 33, the term “customs laws administered by theSecretary of the Treasury” shall mean this chapter and any other provisions of law classified to this title.
+(b) For purposes of section 1518(d) of title 33, the term “customs laws administered by the Secretary of the Treasury” shall mean this chapter and any other provisions of law classified to this title.
 
 (June 17, 1930, ch. 497, title IV, §644, 46 Stat. 761; Pub. L. 96–467, §21(2), (3), Oct. 17, 1980, 94 Stat. 2228; Pub. L. 98–473, title II, §322, Oct. 12, 1984, 98 Stat. 2056.)
 
@@ -21,8 +21,4 @@ In subsec. (a), “section 1644a(b)(1) of this title” substituted for “secti
 Subsec. (b). Pub. L. 98–473 reenacted subsec. (b) without change.
 
 1980—Pub. L. 96–467 designated existing provisions as subsec. (a) and added subsec. (b).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1436, 1459 of this title.
 

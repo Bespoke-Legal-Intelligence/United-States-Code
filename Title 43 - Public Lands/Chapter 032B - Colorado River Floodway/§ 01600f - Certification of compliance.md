@@ -8,7 +8,3 @@ The Secretary of the Interior shall, on behalf of each Federal agency concerned,
 
 For termination, effective May 15, 2000, of provisions in this section relating to the requirement that the Secretary submit written certifications on an annual basis to the United States House of Representatives and the United States Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 6th item on page 113 of House Document No. 103–7.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1600<i>l</i> of this title.
-

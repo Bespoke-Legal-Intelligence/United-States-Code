@@ -8,7 +8,3 @@ Tolls may be charged for the passage or transit over the Golden Gate Bridge of G
 
 Section 4 of act Mar. 14, 1944, provided: “The provisions of this Act \[sections 1002 to 1004 of this title\] shall take effect thirty days after the date of its enactment.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1003, 1004 of this title.
-

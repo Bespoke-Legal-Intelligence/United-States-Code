@@ -18,7 +18,3 @@ Section was classified to section 166b–1d of former Title 40, prior to the ena
 
 Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 72a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1845, 1846 of this title.
-

@@ -6,13 +6,9 @@ The Secretary of the Interior, subject to the approval of the President, shall h
 
 #### Change of Name
 
-“Battlefield” substituted in text for “park” in view of redesignation of Petersburg National Military Park as Petersburg National Military Battlefield by Pub. L. 87–603. See section 423h–1 of this title.
+“Battlefield” substituted in text for “park” in view of redesignation of Petersburg National Military Parkas Petersburg National Military Battlefield by Pub. L. 87–603. See section 423h–1 of this title.
 
 #### Transfer of Functions
 
 Transfer of administrative functions of park, see note set out under section 423 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 423c, 423d, 423h–1, 423h–2 of this title.
 

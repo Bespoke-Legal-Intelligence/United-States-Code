@@ -8,7 +8,3 @@ There is authorized to be appropriated to carry out the purposes of this chapter
 
 Title I of this Act, referred to in text, is title I (§§101–107) of Pub. L. 95–238, Feb. 25, 1978, 92 Stat. 47. For complete classification of this title to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2703 of this title.
-

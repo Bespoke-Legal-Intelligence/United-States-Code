@@ -32,7 +32,3 @@ The Securities Exchange Act of 1934, referred to in subsec. (d), is act June 6, 
 
 Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2297h of this title.
-

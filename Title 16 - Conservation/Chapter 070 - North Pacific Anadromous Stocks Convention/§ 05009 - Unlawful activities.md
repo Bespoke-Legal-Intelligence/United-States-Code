@@ -26,7 +26,3 @@ It is unlawful for any person or fishing vessel subject to the jurisdiction of t
 
 Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5008, 5010 of this title.
-

@@ -50,11 +50,11 @@ Specific Rules.—The Secretary may, by regulation, provide that the following c
 
 (g)
 
-Issuance.—The Secretary shall issue regulations required by this section pertaining to categories of highway-rail grade crossings that in the judgment of the Secretary pose the greatest safety hazard to rail and highway users not later than 24 months following November 2, 1994. The Secretary shall issue regulations pertaining to any other categories of crossings not later than 48 months following November 2, 1994.
+Issuance.—The Secretary shall issue regulations required by this section pertaining tocategories of highway-rail grade crossings that in the judgment of the Secretary pose the greatest safety hazard to rail and highway users not later than 24 months following November 2, 1994. The Secretary shall issue regulations pertaining to any other categories of crossings not later than 48 months following November 2, 1994.
 
 (h)
 
-Impact of Regulations.—The Secretary shall include in regulations prescribed underthis section a concise statement of the impact of such regulations with respect to the operation of section 20106 of this title (national uniformity of regulation).
+Impact of Regulations.—The Secretary shall include in regulations prescribed under this section a concise statement of the impact of such regulations with respect to the operation of section 20106 of this title (national uniformity of regulation).
 
 (i)
 

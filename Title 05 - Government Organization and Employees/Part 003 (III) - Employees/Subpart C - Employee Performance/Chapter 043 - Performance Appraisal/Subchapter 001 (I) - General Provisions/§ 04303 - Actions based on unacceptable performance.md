@@ -88,7 +88,3 @@ Section 4 of Pub. L. 101–376 provided that: “This Act and the amendments mad
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2302, 7121, 7512, 7701, 9508 of this title; title 6 section 293; title 31 section 732.
-

@@ -34,7 +34,7 @@ The Board of Directors of the Corporation shall not vote in favor of any action 
 
 (2) In conjunction with each meeting of its Board of Directors, the Corporation shall hold a public hearing in order to afford an opportunity for any person to present views regarding the activities of the Corporation. Such views shall be made part of the record.
 
-(Pub. L. 87–195, pt. I, §231A, as added Pub. L. 99–204, §5(a), Dec. 23, 1985, 99 Stat. 1670; amended Pub. L. 100–418, title II, §2203(c), Aug. 23, 1988, 102Stat. 1328; Pub. L. 102–549, title I, §102(a), Oct. 28, 1992, 106 Stat. 3651; Pub. L. 104–188, title I, §1954(b)(3), Aug. 20, 1996, 110 Stat. 1928; Pub. L. 106–158, §3(a), Dec. 9, 1999, 113 Stat. 1745.)
+(Pub. L. 87–195, pt. I, §231A, as added Pub. L. 99–204, §5(a), Dec. 23, 1985, 99 Stat. 1670; amended Pub. L. 100–418, title II, §2203(c), Aug. 23, 1988, 102 Stat. 1328; Pub. L. 102–549, title I, §102(a), Oct. 28, 1992, 106 Stat. 3651; Pub. L. 104–188, title I, §1954(b)(3), Aug. 20, 1996, 110 Stat. 1928; Pub. L. 106–158, §3(a), Dec. 9, 1999, 113 Stat. 1745.)
 
 #### Amendments
 
@@ -66,5 +66,5 @@ Section 5(b) of Pub. L. 99–204 provided that: “Subsection (a) of section 231
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 

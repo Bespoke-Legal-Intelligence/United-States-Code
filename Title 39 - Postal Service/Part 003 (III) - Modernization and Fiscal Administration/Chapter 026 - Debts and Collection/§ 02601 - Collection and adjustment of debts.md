@@ -10,7 +10,7 @@
 
 &emsp;(4) may prescribe penalties for failure to render accounts.
 
-> The Postal Service may refer any matter, which is uncollectable through administrative action, to the General Accounting Office for collection. This subsection does not affect the authority of the Attorney General in cases in which judicial proceedings are instituted.
+> The Postal Service may refer any matter, which is uncollectable through administrative action, to the Government Accountability Office for collection. This subsection does not affect the authority of the Attorney General in cases in which judicial proceedings are instituted.
 
 (b) In all cases of disability or alleged liability for any sum of money by way of damages or otherwise, under any provision of law in relation to the officers, employees, operations, or business of the Postal Service, the Postal Service shall determine whether the interests of the Postal Service probably require the exercise of its powers over the same. Upon the determination, the Postal Service on such terms as it deems just and expedient, may—
 
@@ -18,13 +18,13 @@
 
 &emsp;(2) compromise, release, or discharge the claim for such sum of money and damages.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 744.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 744; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in concluding provisions.
 
 #### Effective Date
 
 Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 10601.
 

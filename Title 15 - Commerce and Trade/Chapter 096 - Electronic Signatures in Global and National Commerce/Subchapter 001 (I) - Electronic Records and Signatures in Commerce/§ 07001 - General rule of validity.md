@@ -76,7 +76,7 @@ This subchapter does not—
 
 #### (1) Accuracy and accessibility
 
-&emsp;If a statute, regulation, or other rule of law requires that a contract or other record relating to a transaction in or affecting interstateor foreign commerce be retained, that requirement is met by retaining an electronic record of the information in the contract or other record that—
+&emsp;If a statute, regulation, or other rule of law requires that a contract or other record relating to a transaction in or affecting interstate or foreign commerce be retained, that requirement is met by retaining an electronic record of the information in the contract or other record that—
 
 &emsp;&emsp;(A) accurately reflects the information set forth in the contract or other record; and
 
@@ -128,7 +128,7 @@ An insurance agent or broker acting under the direction of a party that enters i
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(2)(B), was in the original “this Act”, meaning Pub. L. 106–229, June 30, 2000, 114 Stat. 464, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (c)(2)(B), was in the original “this Act”, meaning Pub. L. 106–229, June30, 2000, 114 Stat. 464, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 For the effective date of this subchapter, referred to in subsec. (c)(5), see Effective Date note below.
 
@@ -175,8 +175,4 @@ Student loans.—With respect to any records that are provided or made available
 #### Short Title
 
 Pub. L. 106–229, §1, June 30, 2000, 114 Stat. 464, provided that: “This Act \[enacting this chapter and amending provisions set out as a note under section 231 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\] may be cited as the ‘Electronic Signatures in Global and National Commerce Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7002, 7003, 7004, 7005, 7031 of this title.
 

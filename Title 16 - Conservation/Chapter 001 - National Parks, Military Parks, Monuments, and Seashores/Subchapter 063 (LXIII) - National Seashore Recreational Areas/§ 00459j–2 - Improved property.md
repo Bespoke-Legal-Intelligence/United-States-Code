@@ -10,15 +10,11 @@ The Secretary may terminate a right of use and occupancy retained pursuant to th
 
 #### (c) “Improved property” defined
 
-The term “improved property”, as used in this section shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1971 (hereafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures, necessary to the dwelling which are situated on the land so designated.
+The term “improved property”, as used in this section shall mean a detached, noncommercial residential dwelling, the construction of whichwas begun before January 1, 1971 (hereafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures, necessary to the dwelling which are situated on the land so designated.
 
 #### (d) Condemnation as means for acquiring clear and marketable title
 
 Except as otherwise provided, the Secretary shall have the authority to use condemnation as a means of acquiring a clear and marketable title, free of any and all encumbrances.
 
 (Pub. L. 93–626, §3, Jan. 3, 1975, 88 Stat. 2123.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459j–1, 459j–4, 459j–5, 459j–6, 459j–8 of this title.
 

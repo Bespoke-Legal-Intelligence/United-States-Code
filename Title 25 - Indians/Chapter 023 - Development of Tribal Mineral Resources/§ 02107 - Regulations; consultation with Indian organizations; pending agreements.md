@@ -4,7 +4,3 @@ Within one hundred and eighty days of December 22, 1982, the Secretary of the In
 
 (Pub. L. 97–382, §8, Dec. 22, 1982, 96 Stat. 1940.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2104 of this title.
-

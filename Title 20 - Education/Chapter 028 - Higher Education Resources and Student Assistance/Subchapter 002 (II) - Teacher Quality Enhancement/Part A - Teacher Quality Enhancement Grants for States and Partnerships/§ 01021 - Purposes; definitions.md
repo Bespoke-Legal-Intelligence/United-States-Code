@@ -60,7 +60,3 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 Subchapter effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1042 of this title.
-

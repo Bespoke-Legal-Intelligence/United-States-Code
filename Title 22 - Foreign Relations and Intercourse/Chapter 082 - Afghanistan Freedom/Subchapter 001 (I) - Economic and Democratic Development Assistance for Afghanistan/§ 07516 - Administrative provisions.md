@@ -32,7 +32,7 @@ Of the funds made available to carry out the purposes of assistance authorized b
 
 #### (2) Inspector General of USAID
 
-&emsp;The Inspector General of the United States Agency for International Development shallconduct audits, inspections, and other activities, as appropriate, associated with the expenditure of the funds to carry out this subchapter.
+&emsp;The Inspector General of the United States Agency for International Development shall conduct audits, inspections, and other activities, as appropriate, associated with the expenditure of the funds to carry out this subchapter.
 
 #### (f) Priority for direct assistance to the Government of Afghanistan
 

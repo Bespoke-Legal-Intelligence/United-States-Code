@@ -86,7 +86,7 @@ The resignation, termination of employment or participation, or separation of an
 
 #### Codification
 
-In subsec. (a), “section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title” was in the original “section 22, 23A,or 23B”, meaning section 22, 23A, or 23B of the Federal Reserve Act. Sections 23A and 23B are classified to sections 371c and 371c–1, respectively, of this title. Subsections (d) to (h) of section 22 are classified to sections 375, 375a, 375b, 376, and 503 of this title.
+In subsec. (a), “section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title” was in the original “section 22, 23A, or 23B”, meaning section 22, 23A, or 23B of the Federal Reserve Act. Sections 23A and 23B are classified to sections 371c and 371c–1, respectively, of this title. Subsections (d) to (h) of section 22 are classified to sections 375, 375a, 375b, 376, and 503 of this title.
 
 #### Amendments
 

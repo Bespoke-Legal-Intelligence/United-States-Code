@@ -78,7 +78,3 @@ For definition of Panama Canal Company, referred to in text, see section 3602(b)
 
 Increases authorized under amendment by Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8147 of this title.
-

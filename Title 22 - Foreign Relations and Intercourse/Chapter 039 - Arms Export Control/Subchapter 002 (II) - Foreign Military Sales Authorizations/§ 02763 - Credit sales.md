@@ -106,7 +106,3 @@ Pub. L. 101–167, title V, §571, Nov. 21, 1989, 103 Stat. 1245.
 
 Pub. L. 100–461, title V, §580, Oct. 1, 1988, 102 Stat. 2268–48.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2291c, 2305, 2311, 2321j, 2360, 2761, 2764, 2771, 2774, 2775, 2776, 2777, 2791, 5854, 7432, 7536 of this title.
-

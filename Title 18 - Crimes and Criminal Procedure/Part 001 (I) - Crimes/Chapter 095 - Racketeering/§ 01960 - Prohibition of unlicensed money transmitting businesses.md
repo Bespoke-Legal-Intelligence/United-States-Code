@@ -34,7 +34,3 @@
 
 Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 981, 982, 986, 1956 of this title; title 12 sections 1786, 1818; title 31 section 5328.
-

@@ -104,7 +104,3 @@ Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under su
 
 Section 202(c) of Pub. L. 102–550 provided that: “Notwithstanding any other provision of law, the grant thresholds provided for in section 216 \[42 U.S.C. 12746\], as amended by this section, and the grant thresholds provided for in section 217(b) of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12747(b)\], as amended by this section, shall apply.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12704, 12747, 12750, 12821 of this title.
-

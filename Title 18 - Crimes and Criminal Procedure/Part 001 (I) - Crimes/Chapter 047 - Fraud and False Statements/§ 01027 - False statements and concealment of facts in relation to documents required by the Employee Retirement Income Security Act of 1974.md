@@ -22,7 +22,3 @@ Amendment by Pub. L. 93–406 effective Jan. 1, 1975, except as provided in sect
 
 Section effective 90 days after Mar. 20, 1962, see section 19 of Pub. L. 87–420, set out as a note under section 664 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 24 of this title; title 29 sections 1031, 1111.
-

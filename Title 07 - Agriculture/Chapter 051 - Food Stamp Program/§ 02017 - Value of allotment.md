@@ -6,13 +6,13 @@ The value of the allotment which State agencies shall be authorized to issue to 
 
 #### (b) Benefits not deemed income or resources for certain purposes
 
-The value of benefits that may be provided under this chapter, whether through coupons, access devices, or otherwise <sup>1</sup> shall not be considered income or resources for any purpose under any Federal, State, or local laws, including, but not limited to, laws relating to taxation, welfare, and public assistance programs, and no participating State or political subdivision thereof shall decrease any assistance otherwiseprovided an individual or individuals because of the receipt of benefits under this chapter.
+The value of benefits that may be provided under this chapter, whether through coupons, access devices, or otherwise <sup>1</sup> shall not be considered income or resources for any purpose under any Federal, State, or local laws, including, but not limited to, laws relating to taxation, welfare, and public assistance programs, and no participating State or political subdivision thereof shall decrease any assistance otherwise provided an individual or individuals because of the receipt of benefits under this chapter.
 
 #### (c) First month benefits prorated
 
 (1) The value of the allotment issued to any eligible household for the initial month or other initial period for which an allotment is issued shall have a value which bears the same ratio to the value of the allotment for a full month or other initial period for which the allotment is issued as the number of days (from the date of application) remaining in the month or other initial period for which the allotment is issued bears to the total number of days in the month or other initial period for which the allotment is issued, except that no allotment may be issued to a household for the initial month or period if the value of the allotment which such household would otherwise be eligible to receive under this subsection is less than $10. Households shall receive full months’ allotments for all months within a certification period, except as provided in the first sentence of this paragraph with respect to an initial month.
 
-(2) As used in this subsection, the term “initial month” means (A) the first month for which an allotment is issued to a household, (B) the first month for which an allotment is issued to a household following any period in which such household was not participating in the food stamp program under this chapter after the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under section 2020(e)(10) of this title, and (C) in the case of a migrant or seasonal farmworker household, the first month for which allotment is issued to a household that applies following any period of more than 30 days in which such household was not participating in the food stamp program after previous participation in such program.
+(2) As used in this subsection, the term “initial month” means (A) the first month for which an allotment is issued to a household, (B) the first month for which an allotment is issued toa household following any period in which such household was not participating in the food stamp program under this chapter after the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under section 2020(e)(10) of this title, and (C) in the case of a migrant or seasonal farmworker household, the first month for which allotment is issued to a household that applies following any period of more than 30 days in which such household was not participating in the food stamp program after previous participation in such program.
 
 (3)
 
@@ -72,7 +72,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 #### (ii) Adjustment
 
-&emsp;&emsp;&emsp;The Secretary shall establish procedures to ensure that a covered facility does notreceive a greater proportion of a resident's monthly allotment than the proportion of the month during which the resident lived in the covered facility.
+&emsp;&emsp;&emsp;The Secretary shall establish procedures to ensure that a covered facility does not receive a greater proportion of a resident's monthly allotment than the proportion of the month during which the resident lived in the covered facility.
 
 #### (D) Departures of residents of covered facilities
 
@@ -92,7 +92,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 &emsp;&emsp;&emsp;On receiving a notification under clause (i)(I) concerning the departure of a resident, the State agency—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall promptly issue the departed resident an allotment for the days of the month after the departure of the resident (calculated in a manner prescribed by the Secretary) unless the departed resident reapplies to participate in the food stamp program; and
+&emsp;&emsp;&emsp;&emsp;(I) shall promptly issue the departed resident an allotment for the days of themonth after the departure of the resident (calculated in a manner prescribed by the Secretary) unless the departed resident reapplies to participate in the food stamp program; and
 
 &emsp;&emsp;&emsp;&emsp;(II) may issue an allotment for the month following the month of the departure (but not any subsequent month) based on this paragraph unless the departed resident reapplies to participate in the food stamp program.
 
@@ -170,7 +170,7 @@ Subsec. (c)(2)(B). Pub. L. 104–193, §827, struck out “of more than one mont
 
 Subsec. (c)(3). Pub. L. 104–193, §828, added par. (3) and struck out former par. (3) which read as follows: “A State agency—
 
-&emsp;“(A) in the case of a household that is not entitled in the month in which it applies to expedited service under section 2020(e)(9) of this title, may provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraph (3) of section 2020(e) of this title; and
+&emsp;“(A) in the case of a household that is not entitled in the month in which it applies to expedited serviceunder section 2020(e)(9) of this title, may provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraph (3) of section 2020(e) of this title; and
 
 &emsp;“(B) in the case of a household that is entitled in the month in which it applies to expedited service under section 2020(e)(9) of this title, shall provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title.”
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 103–66 effective, and to be implemented beginning on, Sep
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, see section1101(d)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, see section 1101(d)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -259,10 +259,6 @@ Amendment by Pub. L. 97–35 effective and implemented upon such dates as Secret
 #### Effective Date of 1977 Amendment
 
 Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2016, 2025, 2026, 2029, 2035 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

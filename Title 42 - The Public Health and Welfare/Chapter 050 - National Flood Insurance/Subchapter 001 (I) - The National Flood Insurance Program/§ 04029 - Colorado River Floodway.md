@@ -20,7 +20,7 @@ A regulated lending institution or Federal agency lender may make loans secured 
 
 #### References in Text
 
-The National Flood Insurance Act, referred to in subsec. (a), probably means the National Flood Insurance Act of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to this chapter (§4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+The National Flood Insurance Act, referred to in subsec. (a), probably means the National Flood InsuranceAct of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to this chapter (§4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 Section 1600c(b)(2) of title 43, referred to in subsecs. (a) and (c), was struck out and former subsec. (b)(1)(ii) redesignated (b)(2) of section 1600c by Pub. L. 105–362, title IX, §901(d)(1), Nov. 10, 1998, 112 Stat. 3289. As amended, section 1600c(b)(2) no longer relates to maps required to be prepared and filed by the Secretary.
 
@@ -30,7 +30,5 @@ Section 1600c(b)(2) of title 43, referred to in subsecs. (a) and (c), was struck
 
 1988—Pub. L. 100–242 inserted section catchline.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 sections 1600a, 1600k, 1600<i>l.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

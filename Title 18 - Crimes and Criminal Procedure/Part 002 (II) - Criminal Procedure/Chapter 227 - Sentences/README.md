@@ -58,10 +58,6 @@ Section 3579 renumbered section 3663 of this title.
 
 Section 3580 renumbered section 3664 of this title.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3664, 3673 of this title; title 42 section 300i–2.
-
 
 ---
 

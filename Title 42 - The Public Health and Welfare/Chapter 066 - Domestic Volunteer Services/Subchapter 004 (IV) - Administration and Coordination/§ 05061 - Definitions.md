@@ -22,7 +22,7 @@ For the purposes of this chapter—
 
 &emsp;(10) the term “Foster Grandparent Program” means the program established under part B of subchapter II of this chapter;
 
-&emsp;(11) except as provided in section 5057 of this title, the term “individual with a disability”has the meaning given the term in section 705(20)(B) of title 29;
+&emsp;(11) except as provided in section 5057 of this title, the term “individual with a disability” has the meaning given the term in section 705(20)(B) of title 29;
 
 &emsp;(12) the term “Inspector General” means the Inspector General of the Corporation;
 

@@ -16,7 +16,3 @@ Pub. L. 100–108, §1, Aug. 20, 1987, 101 Stat. 728, provided: “That this Act
 
 Act Mar. 3, 1927, which enacted sections 471 to 474 and amended sections 475 and 476 of this title, is popularly known as the “Cotton Statistics and Estimates Act”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2276 of this title.
-

@@ -42,7 +42,9 @@ Level I of the Executive Schedule applies to the following positions for which t
 
 &emsp;Chairman, Board of Governors of the Federal Reserve System.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(1), Oct. 15, 1966, 80 Stat. 948; Pub. L.91–375, §6(c)(12), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–618, title I, §141(b)(3)(A), Jan. 3, 1975, 88 Stat. 1999; Pub. L. 94–82, title II, §202(b)(1), Aug. 9, 1975, 89 Stat. 419; Pub. L. 95–91, title VII, §710(c), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, §508(c), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 97–456, §3(d)(1), (5), Jan. 12, 1983, 96 Stat. 2505; Pub. L. 99–198, title XI, §1113(d), Dec. 23, 1985, 99 Stat. 1480; Pub. L. 99–260, §4(c), Mar. 20, 1986, 100 Stat. 49; Pub. L. 100–527, §13(c), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(a), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–690, title I, §1003(a)(4)(A), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 103–296, title I, §108(e)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 105–277, div. C, title VII, §713(a)(1), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–569, title X, §1002(a)(1), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–296, title XVII, §1702(a)(1), Nov. 25, 2002, 116 Stat. 2313.)
+&emsp;Director of National Intelligence.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(1), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(c)(12), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–618, title I, §141(b)(3)(A), Jan. 3, 1975, 88 Stat. 1999; Pub. L. 94–82, title II, §202(b)(1), Aug. 9, 1975, 89 Stat. 419; Pub. L. 95–91, title VII, §710(c), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, §508(c), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 97–456, §3(d)(1), (5), Jan. 12, 1983, 96 Stat. 2505; Pub. L. 99–198, title XI, §1113(d), Dec. 23, 1985, 99 Stat. 1480; Pub. L. 99–260, §4(c), Mar. 20, 1986, 100 Stat. 49; Pub. L. 100–527, §13(c), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(a), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–690, title I, §1003(a)(4)(A), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 103–296, title I, §108(e)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 105–277, div. C, title VII, §713(a)(1), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–569, title X, §1002(a)(1), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–296, title XVII, §1702(a)(1), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–458, title I, §1015(a), Dec. 17, 2004, 118 Stat. 3664.)
 
 Historical and Revision Notes
 
@@ -65,6 +67,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 Paragraph designation for the position added by Pub. L. 96–88 has been omitted in view of the deletion of all paragraph designations in this section by Pub. L. 96–54.
 
 #### Amendments
+
+2004—Pub. L. 108–458 inserted item relating to Director of National Intelligence.
 
 2002—Pub. L. 107–296 inserted item relating to Secretary of Homeland Security.
 
@@ -102,6 +106,10 @@ Par. (13). Pub. L. 93–618 added par. (13) relating to Special Representative f
 
 1966—Pub. L. 89–670 added par. (11) relating to Secretary of Housing and Urban Development, and par. (12) relating to Secretary of Transportation.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of Title 50, War and National Defense.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
@@ -134,11 +142,13 @@ Amendment by Pub. L. 89–670 effective 90 days after Secretary of Transportatio
 
 #### Short Title of 1975 Amendment
 
-Section 201 of title II of Pub. L. 94–82 provided that: “This title \[enacting section 5318 of this title and section 461 of Title 28, Judiciary and Judicial Procedure, amending sections 5305, 5312, 5313, 5314, 5315 and 5316 of this title, sections 31, 60a note, 136a, 136a–1 and 356 of Title 2, The Congress, section 104 of Title 3, The President, section 68 of Title 11, Bankruptcy, sections 5, 44, 135, 173, 213, 252 and 792 of Title 28, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property,and Works, and section 303 of Title 44, Public Printing and Documents, and enacting provisions set out as a note under section 356 of Title 2\] may be cited as the ‘Executive Salary Cost-of-Living Adjustment Act’.”
+Section 201 of title II of Pub. L. 94–82 provided that: “This title \[enacting section 5318 of this title and section 461 of Title 28, Judiciary and Judicial Procedure, amending sections 5305, 5312, 5313, 5314, 5315 and 5316 of this title, sections 31, 60a note, 136a, 136a–1 and 356 of Title 2, The Congress, section 104 of Title 3, The President, section 68 of Title 11, Bankruptcy, sections 5, 44, 135, 173, 213, 252 and 792 of Title 28, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property, and Works, and section 303 of Title 44, Public Printing and Documents, and enacting provisions set out as a note under section 356 of Title 2\] may be cited as the ‘Executive Salary Cost-of-Living Adjustment Act’.”
 
 #### Salary Increases
 
-2004—Salaries of positions at level I increased to $175,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2004, as provided by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of this title.
+2005—Salaries of positions at level I increased to $180,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2005, as provided by Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of this title.
+
+2004—Salaries of positions at level I increased to $175,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2004, as provided by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891.
 
 Salaries of positions at level I increased to $174,500 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2004, as provided by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
 
@@ -198,7 +208,7 @@ Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated 
 
 Applicability to funds appropriated by any Act for fiscal year ending Sept. 3, 1980, of limitation of section 304 of Pub. L. 95–391 on use of funds to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of this title.
 
-1978—Salaries of positions at level I increased to $69,600 per annum, effective in the first pay period beginning on or after Oct. 1, 1978, as provided by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823. Ex. Ord. No. 12087,further provided that pursuant to the Legislative Branch Appropriation Act, 1979, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1978, which was $66,000.
+1978—Salaries of positions at level I increased to $69,600 per annum, effective in the first pay period beginning on or after Oct. 1, 1978, as provided by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823. Ex. Ord. No. 12087, further provided that pursuant to the Legislative Branch Appropriation Act, 1979, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1978, which was $66,000.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above level V of the Executive Schedule, see section 304 of Pub. L. 95–391 and section 613 of Pub. L. 95–429, set out as a note under section 5318 of this title.
 
@@ -221,8 +231,4 @@ Pub. L. 96–241, §1, May 3, 1980, 94 Stat. 343, limited the compensation and o
 #### Compensation and Emoluments of Attorney General; Fixing at Level in Effect on January 1, 1969
 
 Provisions of Pub. L. 93–178, §1, Dec. 10, 1973, 87 Stat. 697, which fixed the compensation and other emoluments attached to the Office of Attorney General at level in effect on Jan. 1, 1969, notwithstanding any other provision of law enacted or becoming effective during period from noon, Jan. 3, 1969, through noon, Jan. 2, 1975, were repealed by Pub. L. 94–2, Feb. 18, 1975, 89 Stat. 4, effective as of Feb. 4, 1975.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5315, 5377, 5380, 8432 of this title; title 2 section 362; title 10 sections 973, 1603; title 12 section 1723a; title 18 section 207; title 22 section 4606; title 24 section 415; title 26 sections 162, 3121, 7217; title 28 section 591; title 31 section 1344; title 38 section 7432; title 39 section 1003; title 42 sections 410, 7211, 7291; title 47 section 396; title 49 sections 106, 24315; title 50 App. section 2074.
 

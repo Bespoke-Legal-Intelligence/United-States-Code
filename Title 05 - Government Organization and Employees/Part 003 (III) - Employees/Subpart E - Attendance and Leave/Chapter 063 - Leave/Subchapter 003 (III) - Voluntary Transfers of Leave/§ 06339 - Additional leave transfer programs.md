@@ -66,11 +66,11 @@ Subsec. (a)(2)(E). Pub. L. 104–201, §1122(a)(2), substituted “National Imag
 
 Subsec. (a)(2)(E), (F). Pub. L. 103–359, §501(i)(2), added subpar. (E), redesignated former subpar. (E) as (F), and substituted “paragraph (1)(F)” for “paragraph (1)(E)” in two places in subpar. (F).
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6372 of this title.
 

@@ -4,7 +4,3 @@ An individual denied an equal educational opportunity, as defined by this subcha
 
 (Pub. L. 93–380, title II, §207, Aug. 21, 1974, 88 Stat. 516.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1708, 1709, 1710 of this title.
-

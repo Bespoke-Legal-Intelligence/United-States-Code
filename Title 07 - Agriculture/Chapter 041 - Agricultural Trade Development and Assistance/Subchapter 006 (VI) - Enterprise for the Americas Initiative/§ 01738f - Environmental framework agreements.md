@@ -54,9 +54,5 @@ Funds disbursed from the Environmental Fund in an eligible country shall be admi
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State by section 3(a) of Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, set out as a note under section 1738 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1738e, 1738g, 1738h, 1738i, 1738k of this title; title 12 section 635i–6.
+For delegation of functions of President under this section, see section 2 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of this title.
 

@@ -80,9 +80,5 @@ Public Law 95–134, referred to in subsec. (b)(4), is Pub. L. 95–134, Oct. 15
 
 A prior section 6331, Pub. L. 89–10, title I, §1121, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3561, related to grants for outlying areas and the Secretary of the Interior, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7255f, 7801, 9501 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

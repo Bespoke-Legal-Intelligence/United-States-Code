@@ -1,6 +1,6 @@
 ### §404b. Administration, protection, and development; Federal Power Act inapplicable; minimum area
 
-The administration, protection, and development of the aforesaid park shall be exercisedunder the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended: <i>Provided</i>, That the provisions of the Federal Power Act \[16 U.S.C. 791a et seq.\] shall not apply to this park: <i>And provided further</i>, That the minimum area to be administered and protected by the National Park Service shall be, for the said Mammoth Cave National Park, twenty thousand acres: <i>Provided further</i>, That no general development of said area shall be undertaken until a major portion of the remainder in such area, including all the caves thereof, shall have been accepted by said Secretary, and he shall have established a schedule of fees for admission to such caves.
+The administration, protection, and development of the aforesaid park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended: <i>Provided</i>, That the provisions of the Federal Power Act \[16 U.S.C. 791a et seq.\] shall not apply to this park: <i>And provided further</i>, That the minimum area to be administered and protected by the National Park Service shall be, for the said Mammoth Cave National Park, twenty thousand acres: <i>Provided further</i>, That no general development of said area shall be undertaken until a major portion of the remainder in such area, including all the caves thereof, shall have been accepted by said Secretary, and he shall have established a schedule of fees for admission to such caves.
 
 (May 25, 1926, ch. 382, §3, 44 Stat. 636; May 14, 1934, ch. 282, §1, 48 Stat. 775.)
 
@@ -15,8 +15,4 @@ The Federal Power Act, referred to in text, was in the original the “Act appro
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 404b–1, 404c–11 of this title.
 

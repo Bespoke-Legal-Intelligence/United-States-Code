@@ -6,7 +6,7 @@ Within ten days from the date of any injury, which causes loss of one or more sh
 
 #### (b) Additional reports
 
-Additional reports in respect of such injury and of the condition of such employee shall besent by the employer to the Secretary and to such deputy commissioner at such times and in such manner as the Secretary may prescribe.
+Additional reports in respect of such injury and of the condition of such employee shall be sent by the employer to the Secretary and to such deputy commissioner at such times and in such manner as the Secretary may prescribe.
 
 #### (c) Use as evidence
 
@@ -43,8 +43,4 @@ Subsec. (e). Pub. L. 98–426, §18(b), amended subsec. (e) generally. Prior to 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 30 section 932.
 

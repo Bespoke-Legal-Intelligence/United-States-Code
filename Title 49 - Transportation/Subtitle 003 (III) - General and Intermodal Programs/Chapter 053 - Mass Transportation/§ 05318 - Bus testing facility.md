@@ -96,7 +96,3 @@ Subsec. (d). Pub. L. 105–178, §§3018(b), 3029(b)(8), substituted “enter in
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5307, 5309, 5323, 5333, 5336 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—EQUAL CREDIT OPPORTUNITY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 12 sections 1708, 4545; title 42 section 3608.
-
 
 ---
 

@@ -1,6 +1,6 @@
 ### §1661. Catalogs and multiple-page advertisements
 
-For the purposes of this part, a catalog or other multiple-page advertisement shall be considered a single advertisement if it clearly and conspicuously displays a credit terms table on which the information required to be stated under this part is clearly set forth.
+For the purposes of this part, a catalog or other multiple-page advertisement shall be considered a single advertisement if it clearly andconspicuously displays a credit terms table on which the information required to be stated under this part is clearly set forth.
 
 (Pub. L. 90–321, title I, §141, May 29, 1968, 82 Stat. 158.)
 

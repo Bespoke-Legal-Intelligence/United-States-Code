@@ -176,7 +176,7 @@ Excluded Communications.—A communication is described in this subsection if it
 
 &emsp;&emsp;&emsp;(i) discloses in writing to the consumer who is the subject of the communication, not later than 5 business days after receiving any request from the consumer for such disclosure, the nature and substance of all information in the consumer's file at the time of the request, except that the sources of any information that is acquired solely for use in making the communication and is actually used for no other purpose, need not be disclosed other than under appropriate discovery procedures in any court of competent jurisdiction in which an action is brought; and
 
-&emsp;&emsp;&emsp;(ii) notifies the consumer who is the subject of the communication, in writing, ofthe consumer's right to request the information described in clause (i).
+&emsp;&emsp;&emsp;(ii) notifies the consumer who is the subject of the communication, in writing, of the consumer's right to request the information described in clause (i).
 
 (p)
 
@@ -204,7 +204,7 @@ Fraud alert; active duty alert.—The terms “fraud alert” and “active duty
 
 &emsp;&emsp;(A) notifies all prospective users of a consumer report relating to the consumer that the consumer may be a victim of fraud, including identity theft, or is an active duty military consumer, as applicable; and
 
-&emsp;&emsp;(B) is presented in a manner that facilitates a clear and conspicuous view of the statement described in subparagraph (A) by any person requesting such consumer report.
+&emsp;&emsp;(B) is presented in a manner that facilitates a clear and conspicuous view of thestatement described in subparagraph (A) by any person requesting such consumer report.
 
 &emsp;(3)
 
@@ -322,7 +322,7 @@ Subsequent disclosure.—After taking any adverse action based in whole or in pa
 
 &emsp;(3)
 
-Self-regulatory organization defined.—For purposes of this subsection, the term “self-regulatory organization” includes any self-regulatory organization (as defined in section 78c(a)(26) of this title), any entity established under title I of the Sarbanes-Oxley Act of 2002 \[15 U.S.C. 7211 et seq.\], any board of trade designated by the Commodity Futures Trading Commission, and any futures association registered with such Commission.
+Self-regulatory organization defined.—For purposes of this subsection, theterm “self-regulatory organization” includes any self-regulatory organization (as defined in section 78c(a)(26) of this title), any entity established under title I of the Sarbanes-Oxley Act of 2002 \[15 U.S.C. 7211 et seq.\], any board of trade designated by the Commodity Futures Trading Commission, and any futures association registered with such Commission.
 
 (Pub. L. 90–321, title VI, §603, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, §2(b), Oct. 27, 1992, 106 Stat. 3531; Pub. L. 104–208, div. A, title II, §2402, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 105–347, §6(1)–(3), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §111, title II, §214(c)(1), title IV, §411(b), (c), title VI, §611, Dec. 4, 2003, 117 Stat. 1954, 1983, 2001, 2010.)
 
@@ -380,7 +380,7 @@ Pub. L. 108–159, title IV, §411(d), Dec. 4, 2003, 117 Stat. 2002, provided th
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–347, §7, Nov. 2, 1998, 112 Stat. 3211, provided that: “The amendments made by this Act \[amending this section and sections 1681b, 1681c, 1681g, 1681i, 1681k, and 1681s of this title\] shall be deemed tohave the same effective date \[see section 2420 of Pub. L. 104–208, set out as a note below\] as the amendments made by section 2403 of the Consumer Credit Reporting Reform Act of 1996 (Public Law 104–208; 110 Stat. 3009–1257 \[3009–430\]) \[amending section 1681b of this title\].”
+Pub. L. 105–347, §7, Nov. 2, 1998, 112 Stat. 3211, provided that: “The amendments made by this Act \[amending this section and sections 1681b, 1681c, 1681g, 1681i, 1681k, and 1681s of this title\] shall be deemed to have the same effective date \[see section 2420 of Pub. L. 104–208, set out as a note below\] as the amendments made by section 2403 of the Consumer Credit Reporting Reform Act of 1996 (Public Law 104–208; 110 Stat. 3009–1257 \[3009–430\]) \[amending section 1681b of this title\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -401,10 +401,6 @@ Section 2(d) of Pub. L. 102–537 provided that: “The amendments made by this 
 #### Construction of 1996 Amendment
 
 Section 2421 of div. A of Pub. L. 104–208 provided that: “Nothing in this chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, see Short Title of 1996 Amendment note set out under section 1601 of this title\] or the amendments made by this chapter shall be considered to supersede or otherwise affect section 2721 of title 18, United States Code, with respect to motor vehicle records for surveys, marketing, or solicitations.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1679b, 1681b, 1681c, 1681c–1, 1681c–2, 1681g, 1681i, 1681j, 1681m, 1681s, 1681s–2, 1681s–3, 1681t, 1681x, 1692d, 1692e, 6803, 6806, 6827 of this title; title 12 section 2605; title 18 section 1030; title 26 sections 6103, 7603; title 31 sections 3701, 3711; title 38 section 5701; title 42 section 666; title 50 section 438.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “creditworthiness,”.</i>
 

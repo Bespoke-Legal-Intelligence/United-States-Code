@@ -1,9 +1,5 @@
 Part B—Federal Assistance for State and Local Programs
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 5667–1, 5667a–1, 5671, 5783, 5784 of this title.
-
 #### Amendments
 
 1988—Pub. L. 100–690, title VII, §7263(a)(1)(A), Nov. 18, 1988, 102 Stat. 4443, struck out subpart I heading “Formula Grants”.

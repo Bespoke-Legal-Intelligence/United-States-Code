@@ -10,7 +10,7 @@ The Federal share of feasibility studies, including those described in sections 
 
 #### (c) Matters to be considered
 
-In addition to the requirements of other Federal laws, feasibility studies conducted by the Secretary or the non-Federal project sponsor under sections 390h to 390h–17 of this title shall consider, among other things—
+In addition to the requirements of other Federal laws, feasibility studies conducted by the Secretary or the non-Federal project sponsor under sections 390h to 390h–18 of this title shall consider, among other things—
 
 &emsp;(1) near- and long-term water demand and supplies in the study area;
 
@@ -47,8 +47,4 @@ Subsec. (c)(3). Pub. L. 104–266, §4(2), substituted “at least two alternati
 Subsec. (c)(5)(C). Pub. L. 104–266, §4(4), added subpar. (C).
 
 Subsec. (c)(6), (7). Pub. L. 104–266, §4(3), (5), added pars. (6) and (7).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390h–13 of this title.
 

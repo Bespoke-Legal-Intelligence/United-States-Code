@@ -38,6 +38,10 @@ A seaplane on the water shall, in general, keep well clear of all vessels and av
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3422.)
 
+#### Repeal of Section
+
+<i>Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that this section is repealed effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 2071 of this title.</i>
+
 #### References in Text
 
 Rules 9, 10, and 13, referred to in text, are classified to sections 2009, 2010, and 2013, respectively, of this title.
@@ -47,8 +51,4 @@ Rules of this Part, referred to in par. (d), mean sections 2004 to 2019 of this 
 #### Codification
 
 Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the Inland Navigational Rules which comprise this subchapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2011, 2013 of this title.
 

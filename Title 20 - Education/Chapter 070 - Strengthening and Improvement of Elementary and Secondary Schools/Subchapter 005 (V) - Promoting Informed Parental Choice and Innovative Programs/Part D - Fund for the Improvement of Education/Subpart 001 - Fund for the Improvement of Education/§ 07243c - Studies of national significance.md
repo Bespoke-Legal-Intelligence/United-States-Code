@@ -12,7 +12,7 @@ The Secretary shall conduct the following studies of national significance:
 
 &emsp;&emsp;(B) The health and learning impacts of environmental <sup>1</sup> unhealthy public school buildings on students that are attending or that have attended such schools.
 
-&emsp;&emsp;(C) Recommendations to Congress on how to assist schools that are out of compliancewith Federal or State health and safety codes, and a cost estimate of bringing up environmentally unhealthy public school buildings to minimum Federal health and safety building standards.
+&emsp;&emsp;(C) Recommendations to Congress on how to assist schools that are out of compliance with Federal or State health and safety codes, and a cost estimate of bringing up environmentally unhealthy public school buildings to minimum Federal health and safety building standards.
 
 #### (2) Exposure to violent entertainment
 

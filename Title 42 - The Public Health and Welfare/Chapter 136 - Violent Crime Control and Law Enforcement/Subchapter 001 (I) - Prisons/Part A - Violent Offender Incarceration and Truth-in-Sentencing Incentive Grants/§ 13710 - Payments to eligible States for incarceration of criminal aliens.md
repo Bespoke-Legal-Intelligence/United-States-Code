@@ -22,9 +22,5 @@ Not later than May 15, 1999, the Attorney General shall submit a report to the C
 
 Section 1252(j) of title 8, referred to in subsecs. (a) to (c), was redesignated section 1231(i) of title 8 by Pub. L. 104–208, div. C, title III, §306(a)(1), Sept. 30, 1996, 110 Stat. 3009–607.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13708 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

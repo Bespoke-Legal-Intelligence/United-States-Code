@@ -10,7 +10,7 @@ Section 7 of Pub. L. 99–158 provided that:
 
 “(a)
 
-Establishment.—Within 90 days after the date of enactment of this Act \[Nov. 20, 1985\], the Secretary of Health and Human Services shall establish in the National Institute of Neurological and Communicative Diseases and Stroke an Interagency Committee on Spinal Cord Injury (hereafter in this section referred to as the ‘Interagency Committee’). The Interagency Committee shall plan, develop, coordinate, and implement comprehensive Federal initiatives in research on spinal cord injury and regeneration.
+Establishment.—Within 90 days after the date of enactment of this Act \[Nov. 20, 1985\], the Secretary ofHealth and Human Services shall establish in the National Institute of Neurological and Communicative Diseases and Stroke an Interagency Committee on Spinal Cord Injury (hereafter in this section referred to as the ‘Interagency Committee’). The Interagency Committee shall plan, develop, coordinate, and implement comprehensive Federal initiatives in research on spinal cord injury and regeneration.
 
 “(b)
 

@@ -32,7 +32,3 @@ Functions of all other officers of Department of Justice and functions of all ag
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403a, 403e, 403f of this title.
-

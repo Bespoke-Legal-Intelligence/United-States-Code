@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized, whenever in his opinion it shall be
 
 (June 25, 1910, ch. 431, §10, 36 Stat. 858.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 353, 406, 564h, 697, 747 of this title; title 43 section 1617.
-

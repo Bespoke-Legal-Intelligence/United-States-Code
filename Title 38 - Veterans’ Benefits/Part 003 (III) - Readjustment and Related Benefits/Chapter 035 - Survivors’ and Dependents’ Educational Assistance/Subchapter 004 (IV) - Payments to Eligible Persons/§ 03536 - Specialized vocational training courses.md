@@ -18,7 +18,3 @@ The Secretary may approve a specialized course of vocational training leading to
 
 Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3512, 3535, 3672 of this title.
-

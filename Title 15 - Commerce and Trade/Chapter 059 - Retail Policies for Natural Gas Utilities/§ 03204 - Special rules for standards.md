@@ -6,7 +6,7 @@ The procedures for termination of service referred to in section 3203(b)(1) of t
 
 &emsp;(1) no gas service to a gas consumer may be terminated unless reasonable prior notice (including notice of rights and remedies) is given to such consumer and such consumer has a reasonable opportunity to dispute the reasons for such termination, and
 
-&emsp;(2) during any period when termination of service to a gas consumer would be especiallydangerous to health, as determined by the State regulatory authority (with respect to each gas utility for which it has ratemaking authority) or nonregulated gas utility, and such consumer establishes that—
+&emsp;(2) during any period when termination of service to a gas consumer would be especially dangerous to health, as determined by the State regulatory authority (with respect to each gas utility for which it has ratemaking authority) or nonregulated gas utility, and such consumer establishes that—
 
 &emsp;&emsp;(A) he is unable to pay for such service in accordance with the requirements of the utility's billing, or
 
@@ -45,8 +45,4 @@ The procedures for termination of service referred to in section 3203(b)(1) of t
 #### References in Text
 
 The National Energy Conservation Policy Act, referred to in subsec. (b)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3208. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3203 of this title.
 

@@ -26,7 +26,7 @@
 | (a) | In general. |
 | (b) | Date for completion. |
 | (c) | Environmental protection and use of facilities. |
-| (d) | Plan. |
+| (d) | Requirement for strategic plan. |
 | (e) | Management organization. |
 | (f) | Identification of funds. |
 | (g) | Periodic reports. |
@@ -53,7 +53,7 @@
 | (a) | Assistance authorized. |
 | (b) | Reimbursement requirement. |
 | (c) | Definitions. |
-| [1526\.](%C2%A7%2001526%20-%20Effective%20use%20of%20resources%20for%20nonproliferation%20programs.md) | Effective Use of Resources for Nonproliferation Programs. |
+| [1526\.](%C2%A7%2001526%20-%20Effective%20use%20of%20resources%20for%20nonproliferation%20programs.md) | Effective use of resources for nonproliferation programs. |
 | (a) | Prohibition. |
 | (b) | Exception. |
 

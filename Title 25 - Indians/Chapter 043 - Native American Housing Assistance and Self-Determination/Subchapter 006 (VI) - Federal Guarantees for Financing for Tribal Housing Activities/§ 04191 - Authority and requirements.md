@@ -10,15 +10,21 @@ Notes or other obligations guaranteed pursuant to this subchapter shall be in su
 
 #### (c) Limitation on outstanding guarantees
 
-No guarantee or commitment to guarantee shall be made with respect to any note or other obligation if the total outstanding notes or obligations of the issuer guaranteed under this subchapter (excluding any amount defeased under the contract entered into under section 4192(a)(1) of this title) would thereby exceed an amount equal to 5 times the amount of the grant approval for the issuer pursuant to subchapter III of this chapter.
+No guarantee or commitment to guarantee shall be made with respect to any note or otherobligation if the total outstanding notes or obligations of the issuer guaranteed under this subchapter (excluding any amount defeased under the contract entered into under section 4192(a)(1) of this title) would thereby exceed an amount equal to 5 times the amount of the grant approval for the issuer pursuant to subchapter III of this chapter.
 
-(Pub. L. 104–330, title VI, §601, Oct. 26, 1996, 110 Stat. 4046; Pub. L. 107–292, §7, Nov. 13, 2002, 116 Stat. 2054.)
+#### (d) Limitation on percentage
+
+A guarantee made under this subchapter shall guarantee repayment of 95 percent of the unpaid principal and interest due on the notes or other obligations guaranteed.
+
+(Pub. L. 104–330, title VI, §601, Oct. 26, 1996, 110 Stat. 4046; Pub. L. 107–292, §7, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 108–393, §2, Oct. 30, 2004, 118 Stat. 2246.)
 
 #### References in Text
 
 The United States Housing Act of 1937, referred to in subsec. (a), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–393 added subsec. (d).
 
 2002—Subsec. (a). Pub. L. 107–292, §7(1), inserted “and housing related community development activity as consistent with the purposes of this chapter” after “section 4132 of this title”.
 

@@ -24,7 +24,7 @@ Adjustments for inflation.—For fiscal years beginning after September 30, 1997
 
 &emsp;(3)
 
-Continuing obligations.—Notwithstanding section 1341 of title 31, the Administrator may purchase a housing unit under paragraph\(1) even if there is an obligation thereafter to pay necessary and reasonable fees duly assessed upon such unit, including fees related to operation, maintenance, taxes, and insurance.
+Continuing obligations.—Notwithstanding section 1341 of title 31, the Administrator may purchase a housing unit under paragraph (1) even if there is an obligation thereafter to pay necessary and reasonable fees duly assessed upon such unit, including fees related to operation, maintenance, taxes, and insurance.
 
 &emsp;(4)
 
@@ -52,7 +52,7 @@ Duties and Powers.—When carrying out subsection (a) of this section, the Admin
 
 &emsp;(4) use procedures other than competitive procedures only when the property or services needed by the Administrator of the Federal Aviation Administration are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the Administrator; and
 
-&emsp;(5) dispose of property under subsection (a)(2) of this section, except for airport and airway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
+&emsp;(5) dispose of property under subsection (a)(2) of this section, except for airport andairway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
 
 (d)
 
@@ -98,7 +98,7 @@ Certain provisions of the office of federal procurement policy act.—Notwithsta
 
 &emsp;(4)
 
-Adjudication of certain bid protests and contract disputes.—A bid protest or contract dispute that is not addressed or resolved through alternative dispute resolution shall be adjudicated by the Administrator through Dispute Resolution Officers or Special Masters of the Federal Aviation Administration Office ofDispute Resolution for Acquisition, acting pursuant to sections 46102, 46104, 46105, 46106 and 46107 and shall be subject to judicial review under section 46110 and to section 504 of title 5.
+Adjudication of certain bid protests and contract disputes.—A bid protest or contract dispute that is not addressed or resolved through alternative dispute resolution shall be adjudicated by the Administrator through Dispute Resolution Officers or Special Masters of the Federal Aviation Administration Office of Dispute Resolution for Acquisition, acting pursuant to sections 46102, 46104, 46105, 46106 and 46107 and shall be subject to judicial review under section 46110 and to section 504 of title 5.
 
 (e)
 
@@ -198,7 +198,7 @@ The date of the enactment of the Wendell H. Ford Aviation Investment and Reform 
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–176, §224(a), struck out par. (1), which related to the senior procurement executive, par. (2) designation before “may—”, and subpar.\(D) of par. (2), which related to use procedures other than competitive procedures, redesignated subpars. (A), (B), (C), (E), and (F) of par. (2) as pars. (1) to (5), respectively, and realigned margins.
+2003—Subsec. (c). Pub. L. 108–176, §224(a), struck out par. (1), which related to the senior procurement executive, par. (2) designation before “may—”, and subpar. (D) of par. (2), which related to use procedures other than competitive procedures, redesignated subpars. (A), (B), (C), (E), and (F) of par. (2) as pars. (1) to (5), respectively, and realigned margins.
 
 Subsec. (d)(1). Pub. L. 108–176, §224(b)(1), struck out “, not later than January 1, 1996,” after “shall develop and implement”, substituted “provides for—” for “provides for more timely and cost-effective acquisitions of equipment and materials.”, and added subpars. (A) and (B).
 
@@ -286,7 +286,7 @@ Authority.—The Secretary of Transportation may conduct a test of alternative a
 
 “(b)
 
-Pilot Program Implementation.—(1) The Secretary of Transportation should prescribe policies andprocedures for the interaction of the program manager and the end user executive responsible for the requirement for the equipment acquired. Such policies and procedures should include provisions for enabling the end user executive to participate in acceptance testing.
+Pilot Program Implementation.—(1) The Secretary of Transportation should prescribe policies and procedures for the interaction of the program manager and the end user executive responsible for the requirement for the equipment acquired. Such policies and procedures should include provisions for enabling the end user executive to participate in acceptance testing.
 
 “(2) Not later than 45 days after the date of enactment of this Act \[Oct. 13, 1994\], the Secretary of Transportation shall identify for the pilot program quantitative measures and goals for reducing acquisition management costs.
 
@@ -379,8 +379,4 @@ Expiration of Authority.—The authority to conduct the test under subsection (a
 “(i)
 
 Rule of Construction.—Nothing in this section shall be construed as authorizing the appropriation or obligation of funds for the test conducted pursuant to subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 114, 40121 of this title.
 

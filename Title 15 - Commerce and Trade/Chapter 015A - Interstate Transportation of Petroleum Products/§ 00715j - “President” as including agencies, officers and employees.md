@@ -22,7 +22,3 @@ Sec. 3. This Executive order supersedes Executive Order No. 6979 of February 28,
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 715h of this title.
-

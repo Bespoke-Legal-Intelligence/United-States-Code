@@ -194,7 +194,7 @@ A Federal agency shall—
 
 &emsp;&emsp;If a State is delinquent in payment of the State's share of administrative expenses of the Authority under this subsection—
 
-&emsp;&emsp;&emsp;(i) no assistance under this subchapter shall be provided to the State (including assistance to a political subdivision or a resident of the State); and
+&emsp;&emsp;&emsp;(i) no assistance under this subchapter shall be provided to the State (includingassistance to a political subdivision or a resident of the State); and
 
 &emsp;&emsp;&emsp;(ii) no member of the Authority from the State shall participate or vote in any action by the Authority.
 
@@ -250,7 +250,7 @@ A Federal agency shall—
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Compensation under clause (i) shall not exceed the maximum rate for the Senior Executive Service under section 5382 oftitle 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of that title.
+&emsp;&emsp;&emsp;Compensation under clause (i) shall not exceed the maximum rate for the Senior Executive Service under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of that title.
 
 #### (B) Executive director
 
@@ -299,10 +299,6 @@ A Federal agency shall—
 The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that there has been a violation of any provision under subsection (h)(4) or subsection (i) of this subtitle <sup>1</sup>, or sections 202 through 209 of title 18.
 
 (Pub. L. 87–128, title III, §383B, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 375.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2009bb, 2009bb–6, 2009bb–8 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

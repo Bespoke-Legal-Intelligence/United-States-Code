@@ -40,7 +40,3 @@ Oct. 24, 1951, ch. 559, §§3, 4, 65 Stat. 634.
 
 40:193q.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6304, 6305, 6306, 6307 of this title.
-

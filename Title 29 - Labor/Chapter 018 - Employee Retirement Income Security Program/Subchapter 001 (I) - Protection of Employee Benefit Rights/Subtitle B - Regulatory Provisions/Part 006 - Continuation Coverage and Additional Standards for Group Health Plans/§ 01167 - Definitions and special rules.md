@@ -48,7 +48,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) that the applicable notice period provided under section 1166(a)(2) of this title commences with the date of the loss of coverage.
 
-(Pub. L. 93–406, title I, §607, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 231; amended Pub. L. 99–509, title IX, §9501(c)(2), Oct. 21, 1986, 100 Stat. 2077; Pub. L. 99–514, title XVIII, §1895(d)(8), (9)(A), Oct. 22, 1986, 100 Stat. 2940; Pub. L. 100–647, title III, §3011(b)(6), Nov. 10, 1988, 102 Stat. 3625; Pub. L. 101–239, title VII, §§7862(c)(2)(A), (6)(A), 7891(a)(1), (d)(2)(B)(i), Dec. 19, 1989, 103 Stat. 2432, 2433, 2445, 2446; Pub. L. 104–191, title III, §321(d)(2), title IV, §421(b)(3), Aug. 21, 1996, 110 Stat. 2058, 2088.)
+(Pub. L. 93–406, title I, §607, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 231; amended Pub. L. 99–509, title IX, §9501(c)(2), Oct. 21, 1986, 100 Stat. 2077; Pub. L. 99–514, title XVIII, §1895(d)(8), (9)(A), Oct. 22, 1986, 100 Stat. 2940; Pub. L. 100–647, title III, §3011(b)(6), Nov. 10, 1988, 102 Stat. 3625; Pub. L. 101–239, title VII, §§7862(c)(2)(A), (6)(A), 7891(a)(1), (d)(2)(B)(i), Dec.19, 1989, 103 Stat. 2432, 2433, 2445, 2446; Pub. L. 104–191, title III, §321(d)(2), title IV, §421(b)(3), Aug. 21, 1996, 110 Stat. 2058, 2088.)
 
 #### Amendments
 
@@ -104,9 +104,5 @@ Amendment by Pub. L. 99–509 effective, except as otherwise provided, as if inc
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1144, 1162, 1163, 1165 of this title; title 38 sections 4317, 4318; title 42 sections 1395w–132, 1396a, 1396b, 1396g–1, 1397ee.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

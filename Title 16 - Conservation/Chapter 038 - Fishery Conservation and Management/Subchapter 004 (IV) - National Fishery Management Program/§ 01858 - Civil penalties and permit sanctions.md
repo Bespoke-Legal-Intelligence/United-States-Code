@@ -74,7 +74,3 @@ Subsecs. (d) to (f). Pub. L. 99–659, §108(2), (3), added subsec. (d) and rede
 
 Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly set out as a note under section 1857 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 971e, 1827, 1853, 3606, 3637, 5103, 5106, 5107a, 5154, 5158, 5606 of this title; title 46 App. section 1273a.
-

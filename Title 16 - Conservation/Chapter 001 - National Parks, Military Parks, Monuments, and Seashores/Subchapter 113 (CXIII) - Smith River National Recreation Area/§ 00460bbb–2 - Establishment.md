@@ -20,7 +20,3 @@ The federally owned lands within the recreation area administered by the Secreta
 
 (Pub. L. 101–612, §4, Nov. 16, 1990, 104 Stat. 3210.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460bbb–1, 460bbb–3 of this title.
-

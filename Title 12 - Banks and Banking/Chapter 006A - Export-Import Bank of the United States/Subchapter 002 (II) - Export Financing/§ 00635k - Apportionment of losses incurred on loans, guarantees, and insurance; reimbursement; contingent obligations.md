@@ -4,7 +4,3 @@ In the event of any losses, as determined by the Board of Directors of the Bank,
 
 (Pub. L. 90–390, §2, July 7, 1968, 82 Stat. 297.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 635<i>l</i> of this title.
-

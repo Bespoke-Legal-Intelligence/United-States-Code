@@ -44,7 +44,3 @@
 
 1988—Subsecs. (a)(1), (b)(1). Pub. L. 100–418 substituted “part” for “subchapter” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3982, 3983, 3986 of this title.
-

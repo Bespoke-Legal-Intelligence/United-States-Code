@@ -76,9 +76,5 @@ Amendment by sections 303 and 310(6) of Pub. L. 94–502 effective Oct. 1, 1976,
 
 Amendment by Pub. L. 90–631 effective first day of second calendar month which begins after Oct. 23, 1968, see section 6(a) of Pub. L. 90–631, set out as an Effective Date note under section 3500 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3512, 3533, 3541 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “sections”.</i>
 

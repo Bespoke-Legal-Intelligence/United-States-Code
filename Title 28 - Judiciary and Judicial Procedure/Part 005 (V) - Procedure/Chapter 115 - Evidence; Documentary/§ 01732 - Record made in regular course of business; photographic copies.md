@@ -20,9 +20,5 @@ Changes in phraseology were made.
 
 Subsecs. (a), (b). Act Aug. 28, 1951, §1, designated existing provisions as subsec. (a) and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 5555.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

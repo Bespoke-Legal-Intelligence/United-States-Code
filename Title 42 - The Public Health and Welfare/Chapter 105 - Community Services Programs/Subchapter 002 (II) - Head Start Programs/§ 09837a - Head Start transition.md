@@ -22,7 +22,3 @@ Each Head Start agency shall take steps to coordinate with the local educational
 
 The Elementary and Secondary Education Act of 1965, referred to in par. (5), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9834, 9837 of this title.
-

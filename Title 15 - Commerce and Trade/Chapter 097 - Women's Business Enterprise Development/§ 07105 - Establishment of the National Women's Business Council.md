@@ -8,7 +8,3 @@ There is established a council to be known as the National Women's Business Coun
 
 A prior section 405 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 2696, related to powers of the National Women's Business Council, prior to the general amendment of title IV of Pub. L. 100–533 by Pub. L. 103–403.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7103, 7108 of this title.
-

@@ -132,7 +132,3 @@ Section 305(b) of Pub. L. 102–86 provided that: “The amendment made by subse
 
 Section 4(a)(3) of Pub. L. 95–201 provided that: “Notwithstanding any other provision of law, with respect to persons other than those described in subsection (c) of section 4105 and subsection (f) of section 4114 of title 38, United States Code \[former sections 4105(c) and 4114(f) of this title, see subsec. (d) of this section and section 7407(d) of this title\] (as added by paragraphs (1) and (2) of this subsection), who are appointed after the date of enactment of this Act \[Nov. 23, 1977\] in the Department of Medicine and Surgery in the Veterans’ Administration \[now Veterans Health Administration of the Department of Veterans Affairs\] in any direct patient-care capacity, and with respect to persons described in such subsections who are appointed after such enactment date and prior to January 1, 1978, the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\], upon the recommendation of the Chief Medical Director \[now Under Secretary for Health\], shall take appropriate steps to provide reasonable assurance that such persons possess such basic proficiency in spoken and written English as will permit such degree of communication with patients and other health-care personnel as will enable such persons to carry out their health-care responsibilities satisfactorily.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7407, 7604 of this title.
-

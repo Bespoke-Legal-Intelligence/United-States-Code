@@ -20,7 +20,3 @@ Any application filed on and after February 28, 1958 for a withdrawal, reservati
 
 (Pub. L. 85–337, §3, Feb. 28, 1958, 72 Stat. 28.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 155 of this title.
-

@@ -66,9 +66,5 @@ Section was enacted as part of the Legal Certainty for Bank Products Act of 2000
 
 For short title of sections 27 to 27f of this title as the “Legal Certainty for Bank Products Act of 2000”, see section 1(a)(5) \[title IV, §401\] of Pub. L. 106–554, set out as a Short Title of 2000 Amendment note under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1a, 2, 7a–1, 16, 27d, 27f of this title; title 15 section 78c.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraphs”.</i>
 

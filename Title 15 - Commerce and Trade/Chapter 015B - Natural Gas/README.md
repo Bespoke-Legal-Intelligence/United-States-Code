@@ -103,10 +103,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 717x, 717y, 719c, 719j, 790a, 3301, 3362, 3371, 3372, 3374, 3393, 3394, 3412, 3431 of this title; title 10 section 7430; title 16 section 2603; title 30 section 185; title 42 sections 7172, 7173, 8441; title 43 section 1353; title 49 section 60101; title 50 section 167i.
-
 
 ---
 

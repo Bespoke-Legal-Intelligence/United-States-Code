@@ -20,7 +20,7 @@
 
 (4) No community water system shall be required under State or local law to provide an assessment described in this section to any State, regional, or local governmental entity solely by reason of the requirement set forth in paragraph (2) that the system submit such assessment to the Administrator.
 
-(5) Not later than November 30, 2002, the Administrator, in consultation with appropriateFederal law enforcement and intelligence officials, shall develop such protocols as may be necessary to protect the copies of the assessments required to be submitted under this subsection (and the information contained therein) from unauthorized disclosure. Such protocols shall ensure that—
+(5) Not later than November 30, 2002, the Administrator, in consultation with appropriate Federal law enforcement and intelligence officials, shall develop such protocols as may be necessary to protect the copies of the assessments required to be submitted under this subsection (and the information contained therein) from unauthorized disclosure. Such protocols shall ensure that—
 
 &emsp;(A) each copy of such assessment, and all information contained in or derived from the assessment, is kept in a secure location;
 
@@ -89,8 +89,4 @@ The Administrator shall provide guidance to community water systems serving a po
 #### References in Text
 
 The Emergency Planning and Community Right-to-Know Act, referred to in subsec. (b), probably means the Emergency Planning and Community Right-to-Know Act of 1986, Pub. L. 99–499, title III, Oct. 17, 1986, 100 Stat. 1728, which is classified generally to chapter 116 (§11001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11001 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300g–3 of this title.
 

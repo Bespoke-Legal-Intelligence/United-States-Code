@@ -28,7 +28,3 @@ June 6, 1924, ch. 270, §8(d), as added July 19, 1952, ch. 949, §1, 66 Stat. 79
 
 In subsection (b), the words “to the Council” are added for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8724 of this title.
-

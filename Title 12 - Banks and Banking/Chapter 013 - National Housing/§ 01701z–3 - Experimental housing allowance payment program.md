@@ -48,7 +48,3 @@ Subsec. (g). Pub. L. 93–383 struck out subsec. (g) which prohibited payments a
 
 Section 6(b) of Pub. L. 98–35 provided that: “The amendments made by this section \[amending this section\] shall become effective on October 1, 1983.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1701z–2 of this title.
-

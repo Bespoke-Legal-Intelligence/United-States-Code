@@ -30,7 +30,7 @@ Withholding Payments.—(1) The Secretary may withhold a payment under a grant a
 
 (e)
 
-Action on Grant Assurances Concerning Airport Revenues.—If, after notice and opportunity for a hearing, the Secretary finds a violation of section 47107(b) of this title, as further defined by the Secretary under section 47107(<i>l</i>) of this title, or a violation of an assurance made under section 47107(b) of this title, and the Secretary has provided an opportunity for the airport sponsor to take corrective action to cure such violation, and such corrective action has not been taken within the period of time set by the Secretary, the Secretary shall withhold approval of any new grant application for funds under this chapter, or any proposed modification to an existing grant that would increase the amount of funds made available under this chapter to the airport sponsor, and withhold approval of any new application to impose a fee under section 40117 of this title. Such applications may thereafter be approved only upon a finding by the Secretary that such corrective action as the Secretary requires has been taken to address the violation and that the violation no longer exists.
+Action on Grant Assurances Concerning Airport Revenues.—If, after notice and opportunity for a hearing, the Secretary finds a violation of section 47107(b) of this title, as further defined by the Secretary under section 47107(<i>l</i>) of this title, or a violation of an assurance made under section 47107(b) of this title, and the Secretary has provided an opportunity for the airport sponsor to take corrective action to cure such violation, and such corrective action has not been taken within the period of time set by the Secretary, the Secretary shall withhold approval of any new grant application for fundsunder this chapter, or any proposed modification to an existing grant that would increase the amount of funds made available under this chapter to the airport sponsor, and withhold approval of any new application to impose a fee under section 40117 of this title. Such applications may thereafter be approved only upon a finding by the Secretary that such corrective action as the Secretary requires has been taken to address the violation and that the violation no longer exists.
 
 (f)
 
@@ -81,8 +81,4 @@ In subsection (d)(3), the words “adversely affected” are substituted for “
 #### Amendments
 
 1994—Subsecs. (e), (f). Pub. L. 103–305 added subsecs. (e) and (f).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 47110 of this title.
 

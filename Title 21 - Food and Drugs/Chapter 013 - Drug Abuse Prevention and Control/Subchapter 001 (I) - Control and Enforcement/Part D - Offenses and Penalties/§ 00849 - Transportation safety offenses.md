@@ -34,10 +34,6 @@ A person who violates section 841(a)(1) of this title or section 856 of this tit
 
 A prior section 849, Pub. L. 91–513, title II, §409, Oct. 27, 1970, 84 Stat. 1266; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, related to dangerous special drug offender sentencing, prior to repeal by Pub. L. 98–473, title II, §§219(a), 235(a)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, eff. Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 841 of this title; title 18 section 3663.
-
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(c)”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be subsection “(b)”.</i>

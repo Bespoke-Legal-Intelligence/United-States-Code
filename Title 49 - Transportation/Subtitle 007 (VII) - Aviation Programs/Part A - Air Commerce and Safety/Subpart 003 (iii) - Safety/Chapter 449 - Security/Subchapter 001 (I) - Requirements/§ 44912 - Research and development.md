@@ -220,7 +220,3 @@ Defense Research.—There is authorized to be appropriated $20,000,000 to the Tr
 
 Advisory panels established after Jan. 5, 1973, to terminate not later than expiration of 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 44501, 44508, 44937, 48107 of this title.
-

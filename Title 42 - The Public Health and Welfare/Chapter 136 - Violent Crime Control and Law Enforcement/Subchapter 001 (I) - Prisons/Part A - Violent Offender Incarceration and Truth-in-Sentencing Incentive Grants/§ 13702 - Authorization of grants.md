@@ -34,7 +34,3 @@ Notwithstanding the eligibility requirements of section 13704 of this title, a S
 
 A prior section 13702, Pub. L. 103–322, title II, §20102, Sept. 13, 1994, 108 Stat. 1816, related to Truth in Sentencing Incentive Grants prior to the general amendment of this part by Pub. L. 104–134.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13705, 13706, 13707, 13708, 14214 of this title.
-

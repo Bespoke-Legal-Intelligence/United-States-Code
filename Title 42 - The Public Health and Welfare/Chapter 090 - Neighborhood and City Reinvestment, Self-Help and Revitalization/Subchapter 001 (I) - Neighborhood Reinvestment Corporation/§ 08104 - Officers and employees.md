@@ -2,7 +2,7 @@
 
 #### (a) Employment, compensation and benefits
 
-The board shall have power to select, employ, and fix the compensation and benefits of such officers, employees, attorneys, and agents as shall be necessary for the performance of its duties under this subchapter, without regard to the provisions of title 5 governing appointments in the competitive service, classification, and General Schedule pay rates, except that no officer, employee, attorney, or agent of the corporation may be paid compensation at a rate in excess of the highest rate provided for GS–18 of the General Schedule under section 5332 of title 5.
+The board shall have power to select, employ, and fix the salary and benefits of such officers, employees, attorneys, and agents as shall be necessary for the performance of its duties under this subchapter, without regard to the provisions of title 5 governing appointments in the competitive service, classification, and General Schedule pay rates, except that no officer, employee, attorney, or agent of the corporation may be paid salary at a rate in excess of the rate for level IV of the Executive Schedule. The Corporation shall also apply the provisions of section 5307(a)(1), (b)(1) and (b)(2) of title 5 governing limitations on certain pay as if its employees were Federal employees receiving payments under title 5.
 
 #### (b) Appointment of executive director
 
@@ -18,15 +18,21 @@ No political test or political qualification shall be used in selecting, appoint
 
 #### (e) Employee status; applicability of administrative and cost standards of Office of Management and Budget
 
-Officers and employees of the corporation shall not be considered officers or employees of the United States, and the corporation shall not be considered a department, agency, or instrumentality of the Federal Government. The corporation shall be subject to administrative and cost standards issued by the Office of Management and Budget similar to standards applicable to non-profit grantees and educational institutions.
+Officers and employees of the corporation shall not be considered officers or employees of the United States, and the corporation shall notbe considered a department, agency, or instrumentality of the Federal Government. The corporation shall be subject to administrative and cost standards issued by the Office of Management and Budget similar to standards applicable to non-profit grantees and educational institutions.
 
-(Pub. L. 95–557, title VI, §605, Oct. 31, 1978, 92 Stat. 2116.)
+(Pub. L. 95–557, title VI, §605, Oct. 31, 1978, 92 Stat. 2116; Pub. L. 108–199, div. G, title III,\[(1), (2)\], Jan. 23, 2004, 118 Stat. 413.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-#### References in Other Laws to GS–16, 17, or 18 Pay Rates
+Level IV of the Executive Schedule, referred to in subsec. (a), is set out in section 5315 of Title 5, Government Organization and Employees.
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–199, title III, \[(2)\], added second sentence.
+
+Pub. L. 108–199, title III, \[(1)\], which directed the substitution of “salary” for “compensation”, was executed by making the substitution both places that “compensation” appeared to reflect the probable intent of Congress.
+
+Pub. L. 108–199, title III, \[(1)\], which directed substitution of “rate for level IV of the Executive Schedule” for “highest rate provided for GS–18 of the General Schedule under section 5332 of title 5 United States Code”, was executed by making the substitution for “highest rate provided for GS–18 of the General Schedule under section 5332 of title 5, United States Code” to reflect the probable intent of Congress.
 

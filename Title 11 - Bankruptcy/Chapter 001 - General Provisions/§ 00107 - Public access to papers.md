@@ -18,7 +18,3 @@ Subsection (a) of this section makes all papers filed in a bankruptcy case and t
 
 Subsection (b) permits the court, on its own motion, and requires the court, on the request of a party in interest, to protect trade secrets, confidential research, development, or commercial information, and to protect persons against scandalous or defamatory matter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
-

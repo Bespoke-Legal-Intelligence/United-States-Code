@@ -14,7 +14,3 @@ In disbursing funds under this part, the Attorney General shall ensure the distr
 
 (Pub. L. 103–322, title III, §30302, Sept. 13, 1994, 108 Stat. 1845.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

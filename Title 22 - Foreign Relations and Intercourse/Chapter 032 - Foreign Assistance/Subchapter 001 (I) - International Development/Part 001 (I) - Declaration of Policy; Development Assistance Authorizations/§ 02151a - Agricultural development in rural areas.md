@@ -40,7 +40,7 @@ Local currency proceeds from sales of commodities provided under the Agricultura
 
 #### (f) National food security policies and programs; bilateral and multilateral assistance
 
-The Congress finds that the efforts of developing countries to enhance their national food security deserves encouragement as a matter of United States development assistance policy. Measures complementary to assistance for expanding food production in developing countries are needed to help assure that food becomes increasingly available on a regular basis to the poor in such countries. Therefore, United States bilateral assistance under this chapter and the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], and United States participation in multilateral institutions, shall emphasize policies and programs which assist developing countries to increase their national food security by improving their food policies and management and by strengthening national food reserves, with particular concern for the needs of the poor, through measures encouraging domestic production, building national food reserves, expanding available storage facilities, reducing postharvest food losses, and improving food distribution.
+The Congress finds that the efforts of developing countries to enhance their national food security deserves encouragement as a matter of United States development assistance policy. Measures complementary to assistance for expanding food production in developing countries are needed to help assure that food becomes increasingly available on a regular basis to thepoor in such countries. Therefore, United States bilateral assistance under this chapter and the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], and United States participation in multilateral institutions, shall emphasize policies and programs which assist developing countries to increase their national food security by improving their food policies and management and by strengthening national food reserves, with particular concern for the needs of the poor, through measures encouraging domestic production, building national food reserves, expanding available storage facilities, reducing postharvest food losses, and improving food distribution.
 
 #### (g) International Fund for Agricultural Development; participation and contributions; availability of appropriations
 
@@ -112,6 +112,10 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### International Fund for Agricultural Development; Sixth Replenishment
+
+Pub. L. 108–199, div. D, title V, §577, Jan. 23, 2004, 118 Stat. 201, provided that: “The Secretary of the Treasury may, to fulfill commitments of the United States, contribute on behalf of the United States to the sixth replenishment of the resources of the International Fund for Agricultural Development. The following amount is authorized to be appropriated without fiscal year limitation for payment by the Secretary of the Treasury: $45,000,000 for the International Fund for Agricultural Development.”
+
 #### World Hunger
 
 Section 316 of Pub. L. 96–533 provided:
@@ -129,8 +133,4 @@ Section 317 of Pub. L. 96–533 provided: “It is the sense of the Congress tha
 &emsp;“(1) the President should reaffirm the policy of the United States Government to support the goal established by the United Nations General Assembly of reducing by 50 percent postharvest losses of food in developing countries; and
 
 &emsp;“(2) the President, acting through the Agency for International Development, should increase substantially the proportion of funds made available under the Foreign Assistance Act of 1961 \[see Short Title note set out under section 2151 of this title\] for the purpose of assisting, together with other donor countries and with developing countries, in the reduction of postharvest losses of food in developing countries.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2151b, 2151d, 2151h, 2151p–1, 2151u, 2220a, 2220d, 2293, 3262 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Civil actions; concurrent jurisdiction; relief
 
-The United States district courts shall have original jurisdiction over any civil action or claim against the appropriate Secretary arising under this subchapter and, subject to the provisions of subsection (d) of this section and concurrent with the United States Court of Claims, over any civil action or claim against the Secretary for money damages arising under contracts authorized by this subchapter. In an action brought under this paragraph, the district courts may order appropriate relief including money damages, injunctive relief against any action by an officer of the United States or any agency thereof contrary to this subchapter or regulations promulgated thereunder, or mandamus to compel an officer or employee of the United States, or any agency thereof, to perform a duty provided under this subchapter or regulations promulgated hereunder (including immediate injunctive relief to reverse a declination finding under section 450f(a)(2) of this title or to compel the Secretary to award and fund an approved self-determination contract).
+The United States district courts shall have original jurisdiction over any civil action or claim against the appropriate Secretary arising under this subchapter and, subject to the provisions of subsection (d) of this section and concurrent with the United States Court of Claims,over any civil action or claim against the Secretary for money damages arising under contracts authorized by this subchapter. In an action brought under this paragraph, the district courts may order appropriate relief including money damages, injunctive relief against any action by an officer of the United States or any agency thereof contrary to this subchapter or regulations promulgated thereunder, or mandamus to compel an officer or employee of the United States, or any agency thereof, to perform a duty provided under this subchapter or regulations promulgated hereunder (including immediate injunctive relief to reverse a declination finding under section 450f(a)(2) of this title or to compel the Secretary to award and fund an approved self-determination contract).
 
 #### (b) Revision of contracts
 
@@ -38,7 +38,7 @@ A prior section 110 of Pub. L. 93–638 was renumbered section 111 by Pub. L. 10
 
 1994—Subsec. (a). Pub. L. 103–413, §104(2), inserted before period at end “(including immediate injunctive relief to reverse a declination finding under section 450f(a)(2) of this title or to compel the Secretary to award and fund an approved self-determination contract)”.
 
-Subsec. (d). Pub. L. 103–413, §104(3), inserted before period at end “, except that all administrative appealsrelating to such contracts shall be heard by the Interior Board of Contract Appeals established pursuant to section 8 of such Act (41 U.S.C. 607)”.
+Subsec. (d). Pub. L. 103–413, §104(3), inserted before period at end “, except that all administrative appeals relating to such contracts shall be heard by the Interior Board of Contract Appeals established pursuant to section 8 of such Act (41 U.S.C. 607)”.
 
 1990—Subsec. (a). Pub. L. 101–301, §1(a)(2), made technical correction to directory language of Pub. L. 100–581, §212(a). See 1988 Amendment note below.
 
@@ -51,10 +51,6 @@ Subsec. (c). Pub. L. 101–301, §1(a)(2), made technical correction to director
 Subsec. (b). Pub. L. 100–581, §212(b), substituted “of tribal organization” for “of an Indian tribe” and “such tribal organization” for “such tribe”.
 
 Subsec. (c). Pub. L. 100–581, §212(c), as amended by Pub. L. 101–301, §1(a)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Equal Access to Justice Act (Public Law 96–481, Act of October 1 \[21\], 1980; 94 Stat. 2325, as amended) shall apply to administrative appeals by tribal organizations regarding self-determination contracts.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450b, 450f, 450j, 450j–1, 450<i>l</i>, 458cc, 458ff, 458aaa–6, 458aaa–10, 458aaa–14, 3307 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Public”, “21,”, and “94”, respectively.</i>
 

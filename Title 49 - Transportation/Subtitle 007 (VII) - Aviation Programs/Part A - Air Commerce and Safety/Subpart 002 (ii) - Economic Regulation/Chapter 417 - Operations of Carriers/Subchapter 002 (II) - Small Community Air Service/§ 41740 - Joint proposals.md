@@ -30,7 +30,3 @@ The words “air service or air transportation” are substituted for “air ser
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41110 of this title.
-

@@ -104,7 +104,3 @@ Section 202(b) of Pub. L. 101–433 provided that: “Effective on the date of e
 
 Pub. L. 100–283, Apr. 7, 1988, 102 Stat. 78, as amended by Pub. L. 101–504, §2, Nov. 3, 1990, 104 Stat. 1298, provided extension period for filing civil actions under this section, such period consisting of 450 days beginning on Apr. 7, 1988, in cases where a charge was timely filed with the Equal Employment Opportunity Commission after Dec. 31, 1983, and 450 days beginning on Nov. 3, 1990, in cases where a charge was timely filed after Apr. 6, 1985, but the Commission did not, within the applicable period set forth in subsec. (e) of this section either eliminate the alleged unlawful practice or notify the complainant, in writing, of the disposition of the charge and of right of such person to bring civil action on such claim; required the Commission to provide notice regarding claims for which extension period was applicable; and required the Commission to submit reports to Congress containing, among other things, information as to number of persons eligible for extension period and number of persons who were provided notice regarding claims for which extension period was provided.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 633 of this title; title 2 section 1311; title 3 section 411.
-

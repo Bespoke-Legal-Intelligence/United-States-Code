@@ -16,7 +16,3 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 Functions of Department of the Treasury relating to public health transferred to Federal Security Agency pursuant to Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 91, 97 of this title.
-

@@ -20,7 +20,3 @@ Amendment by Pub. L. 96–355 effective Oct. 1, 1980, see section 10 of Pub. L. 
 
 Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 917 of this title.
-

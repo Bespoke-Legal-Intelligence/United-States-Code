@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director, through binding contractual agreements with owners or other authorizedentities, shall ensure long-term compliance with the provisions of this subchapter.
+&emsp;The Director, through binding contractual agreements with owners or other authorized entities, shall ensure long-term compliance with the provisions of this subchapter.
 
 #### (2) Measures
 
@@ -41,8 +41,4 @@ The Secretary shall establish such performance measures as may be necessary to a
 #### Codification
 
 Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted identical sections 819 of Pub. L. 104–330. This section is based on the text of section 819 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4234 of this title.
 

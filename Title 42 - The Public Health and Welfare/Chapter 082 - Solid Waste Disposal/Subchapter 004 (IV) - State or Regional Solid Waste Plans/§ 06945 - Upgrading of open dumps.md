@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 98–616, §302(c), added subsec. (c).
 
 1980—Subsec. (a). Pub. L. 96–482, §19(a), (b)(1), struck out subsec. (a) which defined “open dump”, which is covered in section 6903(14) of this title, redesignated subsec. (c) as (a) and substituted “Upon promulgation of criteria under section 6907(a)(3) of this title, any” for “Any”, “section 6943(a)(2) and 6943(a)(3) of this title” for “section 6943(2) of this title”, and “criteria under section 6907(a)(3) of this title” for “the inventory under subsection (b) of this section”.
 
-Amendment by section 19(b)(1) of Pub. L. 96–482, directing that following reference to “4003(2)”, which had been editorially translated as section 6943(2) of this title, the phrase “and 4003(3)” be inserted, was executed by translating “4003(2) and 4003(3)” as section 6943(a)(2)and 6943(a)(3) of this title, in view of the designation of the existing provisions of section 6943 of this title as subsec. (a) of section 6943 of this title by section 5(b) of Pub. L. 96–463 and also by section 32(d)(2) of Pub. L. 96–482.
+Amendment by section 19(b)(1) of Pub. L. 96–482, directing that following reference to “4003(2)”, which had been editorially translated as section 6943(2) of this title, the phrase “and 4003(3)” be inserted, was executed by translating “4003(2) and 4003(3)” as section 6943(a)(2) and 6943(a)(3) of this title, in view of the designation of the existing provisions of section 6943 of this title as subsec. (a) of section 6943 of this title by section 5(b) of Pub. L. 96–463 and also by section 32(d)(2) of Pub. L. 96–482.
 
 Subsec. (b). Pub. L. 96–482, §19(b)(2), inserted introductory phrase “To assist the States in complying with section 6943(a)(3) of this title”. Amendment referring to section “4003(3)” was executed by translating “4003(3)” as section 6943(a)(3) of this title, in view of the designation of the existing provisions of section 6943 of this title as subsec. (a) of section 6943 of this title by section 5(b) of Pub. L. 96–463 and also by section 32(d)(2) of Pub. L. 96–482.
 
@@ -44,11 +44,7 @@ Subsec. (c). Pub. L. 96–482, §19(a), redesignated subsec. (c) as (a).
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6943, 6946, 6948, 6949 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

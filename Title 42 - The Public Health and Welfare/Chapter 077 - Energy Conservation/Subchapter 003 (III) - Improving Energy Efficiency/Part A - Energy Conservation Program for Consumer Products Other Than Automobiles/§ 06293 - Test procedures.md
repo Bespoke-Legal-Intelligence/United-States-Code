@@ -28,7 +28,7 @@ All test procedures and related determinations prescribed or made by the Secreta
 
 (8)(A) Test procedures for water closets and urinals to which standards are applicable under subsection (k) of section 6295 of this title shall be the test procedures specified in ASME A112.19.6–1990 for such products.
 
-(B) If the test procedure requirements of ASME A112.19.6–1990 are revised at any time and approved by ANSI, the Secretary shall amend the test procedures established by subparagraph\(A) to conform to such revised ASME/ANSI requirements unless the Secretary determines, by rule, that to do so would not meet the requirements of paragraph (3).
+(B) If the test procedure requirements of ASME A112.19.6–1990 are revised at any time and approved by ANSI, the Secretary shall amend the test procedures established by subparagraph (A) to conform to such revised ASME/ANSI requirements unless the Secretary determines, by rule, that to do so would not meet the requirements of paragraph (3).
 
 #### (c) Restriction on certain representations
 
@@ -46,7 +46,7 @@ All test procedures and related determinations prescribed or made by the Secreta
 
 &emsp;(B) in any broadcast advertisement,
 
-> with respect to energy use or efficiency or, in the case of showerheads, faucets, water closets, and urinals, water use of such product or cost of energy consumed by such product, unless such product has been tested in accordance with such amended or new test procedures and such representation fairly discloses the results of such testing.
+> with respect to energy use or efficiency or, in the case of showerheads, faucets, water closets,and urinals, water use of such product or cost of energy consumed by such product, unless such product has been tested in accordance with such amended or new test procedures and such representation fairly discloses the results of such testing.
 
 (3) On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referred to in paragraph (2) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if the Secretary determines that the requirements of paragraph (2) would impose an undue hardship on such petitioner.
 
@@ -98,15 +98,11 @@ Subsec. (a)(4). Pub. L. 95–619, §§421(a), 691(b)(2), redesignated provisions
 
 Subsec. (a)(5). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (a)(6). Pub. L. 95–619, §421(b), redesignated existing provisions as subpar. (A) and, in subpar. (A) as so redesignated, substituted “Secretary” for “Administrator”, struck out provisions relating to the authority to delay publication of proposed test procedures, inserted requirement that a determination of a necessary prescription delay be submitted in a report to Congress, inserted specific ninety day time limitation for delayed prescriptions, and added subpar. (B).
+Subsec. (a)(6). Pub. L. 95–619, §421(b), redesignated existing provisions as subpar. (A) and, in subpar. (A) as so redesignated, substituted “Secretary” for “Administrator”, struck out provisions relating to the authorityto delay publication of proposed test procedures, inserted requirement that a determination of a necessary prescription delay be submitted in a report to Congress, inserted specific ninety day time limitation for delayed prescriptions, and added subpar. (B).
 
 Subsec. (a)(7). Pub. L. 95–619, §421(c), added par. (7).
 
 Subsec. (b). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator” wherever appearing.
 
 Subsec. (c). Pub. L. 95–619, §421(d), redesignated existing provisions as par. (1), substituted “180 days” for “90 days” and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6291, 6294, 6295, 6296, 6297, 6303, 6306, 6314, 6316 of this title.
 

@@ -8,7 +8,3 @@ This subchapter shall be deemed a supplement to the reclamation law, which said 
 
 The reclamation law, referred to in text, is defined in section 617k of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 617<i>o</i> of this title.
-

@@ -36,7 +36,3 @@ A final determination issued by the Director shall be effective as of the date o
 
 2002—Subsec. (d). Pub. L. 107–171 substituted “section 7996 of this title” for “section 1339a of this title”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6997, 7996 of this title.
-

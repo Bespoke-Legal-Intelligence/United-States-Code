@@ -10,7 +10,7 @@
 
 (3) Each State and local agency with which a contract or agreement is entered into under this section shall submit to the Secretary on a monthly or quarterly basis, as determined by the agency, a report containing a certification of the reasonable and necessary expenses incurred for salary and travel by such agency under such contract or agreement for the period covered by the report. The report shall be submitted in the form and manner required by the Secretary.
 
-(4) The total amount made available under this section for any fiscal year may not exceed$13,000,000 or, for each of fiscal years 2001 and 2002, $14,000,000, for fiscal year 2003, $14,000,000, for fiscal year 2004, $18,000,000, for fiscal year 2005, $18,000,000, for fiscal year 2006, $19,000,000, and for fiscal year 2007, $19,000,000. For any fiscal year in which the total amount that would be made available under this section would exceed the amount applicable to that fiscal year under the preceding sentence except for the provisions of this paragraph, the Secretary shall provide that each agency shall receive the same percentage of the amount applicable to that fiscal year under the preceding sentence as the agency would have received of the total amount that would have been made available without the limitation of this paragraph.
+(4) The total amount made available under this section for any fiscal year may not exceed $13,000,000 or, for each of fiscal years 2001 and 2002, $14,000,000, for fiscal year 2003, $14,000,000, for fiscal year 2004, $18,000,000, for fiscal year 2005, $18,000,000, for fiscal year 2006, $19,000,000, and for fiscal year 2007, $19,000,000. For any fiscal year in which the total amount that would be made available under this section would exceed the amount applicable to that fiscal year under the preceding sentence except for the provisions of this paragraph, the Secretary shall provide that each agency shall receive the same percentage of the amount applicable to that fiscal year under the preceding sentence as the agency would have received of the total amount that would have been made available without the limitation of this paragraph.
 
 (b) The allowance for administrative expenses incurred pursuant to subsection (a) of this section shall be paid in accordance with the following formula:
 
@@ -68,7 +68,7 @@ Subsec. (c). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for 
 
 1988—Subsec. (a)(1). Pub. L. 100–323, §13(b)(5), in subpar. (A) substituted “chapters 30 through 35 of this title and chapters 106 and 107 of title 10” for “chapters 34 and 35 of this title”, in subpar. (B) substituted “such chapters” for “chapters 34 and 35 of this title”, and in provisions following subpar. (B) substituted “provisions of such chapters” for “provisions of chapters 34 and 35 of this title” and “requirements of such chapters” for “requirements of chapter 32, 34, 35, or 36 of this title”.
 
-Pub. L. 100–323, §13(a)(1)(A), (B), substituted “(1) Subject to paragraphs (2) through (4) of this subsection, theAdministrator is” for “The Administrator is”, and redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
+Pub. L. 100–323, §13(a)(1)(A), (B), substituted “(1) Subject to paragraphs (2) through (4) of this subsection, the Administrator is” for “The Administrator is”, and redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 
 Subsec. (a)(2) to (4). Pub. L. 100–323, §13(a)(1)(C), added pars. (2) to (4).
 
@@ -86,7 +86,7 @@ Subsec. (c). Pub. L. 95–202, §303(2), added subsec. (c).
 
 Subsec. (b). Pub. L. 94–502, §503(2), increased allowance for administrative expenses from “$550” to “$600”; “$1000” to “$1080”; “$1000 for the first $10,000 plus $925 for each additional $5,000 or fraction thereof” to “$1,080 for the first $10,000 plus $1,000 for each additional $5,000 or fraction thereof”; “$6,050” to “$6,535”; “$6,050 for the first $40,000 plus $800 for each additional $5,000 or fraction thereof” to “$6,535 for the first $40,000 plus $865 for each additional $5,000 or fraction thereof”; “$12,000” to “$12,960”; “$12,000 for the first $80,000 plus $700 for each additional $5,000 or fraction thereof” to “$12,960 for the first $80,000 plus $755 for each additional $5,000 or fraction thereof”.
 
-1974—Subsec. (b). Pub. L. 93–508 increased allowance for administrative expenses from “$500” to “$550”; “$900” to “$1,000”; “$900 for the first $10,000 plus $800 for each additional $5,000 or fraction thereof” to “$1,000 for the first $10,000 plus $925 for each additional $5,000 or fraction thereof”; “$5,250” to “$6,050”; “$5,250 for the first $40,000 plus $700 for each additional $5,000 or fraction thereof” to “$6,050 for the first $40,000 plus $800 for each additional $5,000 or fraction thereof”; “$10,450” to “$12,000”; and “$10,450 for the first $80,000 plus $600 for each additional $5,000 or fraction thereof” to “$12,000 for the first $80,000 plus $700 for each additional $5,000 or fraction thereof”.
+1974—Subsec. (b). Pub. L. 93–508 increased allowance for administrative expenses from “$500” to “$550”;“$900” to “$1,000”; “$900 for the first $10,000 plus $800 for each additional $5,000 or fraction thereof” to “$1,000 for the first $10,000 plus $925 for each additional $5,000 or fraction thereof”; “$5,250” to “$6,050”; “$5,250 for the first $40,000 plus $700 for each additional $5,000 or fraction thereof” to “$6,050 for the first $40,000 plus $800 for each additional $5,000 or fraction thereof”; “$10,450” to “$12,000”; and “$10,450 for the first $80,000 plus $600 for each additional $5,000 or fraction thereof” to “$12,000 for the first $80,000 plus $700 for each additional $5,000 or fraction thereof”.
 
 1972—Subsec. (a). Pub. L. 92–540, §403(7), inserted “this chapter and” before “chapters 34 and 35” in cl. (1).
 
@@ -127,8 +127,4 @@ Section 6(b) of Pub. L. 90–631 provided that: “The amendments made by sectio
 #### Reimbursement From Account Used for Payment of Readjustment Benefits
 
 Section 13(a)(2) of Pub. L. 100–323 provided that: “If any payment is made to State or local approving agencies with respect to activities carried out under subchapter I of chapter 36 of title 38, United States Code, for fiscal year 1988 before the date of the enactment of this Act \[May 20, 1988\] and from an account other than the account used for payment of readjustment benefits, the account from which such payment was made shall be reimbursed from the account used for payment of readjustment benefits.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3671, 3674A, 3683, 3689 of this title.
 

@@ -54,7 +54,3 @@ Pub. L. 106–310, div. A, title XXVII, §2701, Oct. 17, 2000, 114 Stat. 1167, a
 
 \[Pub. L. 106–505, title X, §1001(b), Nov. 13, 2000, 114 Stat. 2350, provided that: “The amendment made by subsection (a) \[amending section 2701 of Pub. L. 106–310, set out above\] takes effect on the date of the enactment of the Children's Health Act of 2000 \[Oct. 17, 2000\].”\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 280e, 283f, 287c, 289a–1 of this title.
-

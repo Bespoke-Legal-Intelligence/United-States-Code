@@ -2,7 +2,7 @@
 
 #### (a) Issuance by authorized designees; restriction on issuance
 
-The Secretary shall designate those persons authorized to issue on behalf of the United States the certificates required by the MARPOL Protocol. A certificate required by the MARPOLProtocol shall not be issued to a ship which is registered in or of the nationality of a country which is not a party to the MARPOL Protocol.
+The Secretary shall designate those persons authorized to issue on behalf of the United States the certificates required by the MARPOL Protocol. A certificate required by the MARPOL Protocol shall not be issued to a ship which is registered in or of the nationality of a country which is not a party to the MARPOL Protocol.
 
 #### (b) Validity of foreign certificates
 
@@ -54,7 +54,7 @@ Section 313 of title 46, Appendix, referred to in subsec. (f)(2), was repealed b
 
 #### Codification
 
-Section 1443 of title 19, referred to in subsec. (f)(2), was in the original section 442 of the Tariff Act of 1930, as amended (19 U.S.C. 1443). Although section 442 of the Tariff Act of 1930, June 17, 1930, ch. 497, title IV, 46 Stat. 713, is classified to section 1442 of Title 19, Customs Duties, the reference was translated as meaning section 443 of the Tariff Act of 1930, which was classified to section 1443 of title 19 prior to repeal by Pub. L. 103–182, title VI, §690(b)(6), Dec. 8, 1993, 107 Stat. 2223.
+Section 1443 of title 19, referred to in subsec. (f)(2), was in the original section 442 of the Tariff Act of 1930, as amended (19 U.S.C. 1443). Although section 442 of the Tariff Act of 1930, June 17, 1930, ch. 497, title IV, 46 Stat. 713, is classified to section 1442 of Title 19, Customs Duties, the reference was translated as meaning section443 of the Tariff Act of 1930, which was classified to section 1443 of title 19 prior to repeal by Pub. L. 103–182, title VI, §690(b)(6), Dec. 8, 1993, 107 Stat. 2223.
 
 #### Effective Date
 

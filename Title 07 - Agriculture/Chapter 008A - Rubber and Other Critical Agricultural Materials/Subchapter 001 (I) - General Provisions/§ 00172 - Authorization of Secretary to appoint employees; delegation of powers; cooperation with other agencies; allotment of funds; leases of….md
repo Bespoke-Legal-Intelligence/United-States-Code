@@ -34,9 +34,5 @@ Subsecs. (e), (f). Act Oct. 20, 1942, §6, added subsecs. (e) and (f).
 
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 173, 175 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish a program, using funds made available under section 2305 of this title, to complete appraisals and satisfy otherlegal requirements for the sale or exchange of public land identified for disposal under approved land use plans (as in effect on July 25, 2000) under section 1712 of this title.
+The Secretary shall establish a program, using funds made available under section 2305 of this title, to complete appraisals and satisfy other legal requirements for the sale or exchange of public land identified for disposal under approved land use plans (as in effect on July 25, 2000) under section 1712 of this title.
 
 #### (b) Sale of public land
 
@@ -12,7 +12,7 @@ The Secretary shall establish a program, using funds made available under sectio
 
 #### (2) Exceptions to competitive bidding requirements
 
-&emsp;The exceptions to competitive bidding requirements under section 1713(f) of this title shall apply to this section in cases in which the Secretary determines it to be necessary.
+&emsp;The exceptions to competitive bidding requirements under section 1713(f) of this titleshall apply to this section in cases in which the Secretary determines it to be necessary.
 
 #### (c) Report in Public Land Statistics
 
@@ -23,8 +23,4 @@ The Secretary shall provide in the annual publication of Public Land Statistics,
 The authority provided under this section shall terminate 10 years after July 25, 2000.
 
 (Pub. L. 106–248, title II, §205, July 25, 2000, 114 Stat. 615.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2305 of this title.
 

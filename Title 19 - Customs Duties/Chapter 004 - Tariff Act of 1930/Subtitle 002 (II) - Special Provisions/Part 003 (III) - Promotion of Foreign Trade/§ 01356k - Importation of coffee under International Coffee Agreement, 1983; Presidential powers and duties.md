@@ -38,7 +38,3 @@ Section 1123(b) of Pub. L. 100–418 provided that: “The amendment made by sub
 
 Section 1 of Pub. L. 96–599 provided that: “This Act \[enacting this section and sections 1356<i>l</i> to 1356n of this title\] may be cited as the ‘International Coffee Agreement Act of 1980’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1356<i>l</i> of this title.
-

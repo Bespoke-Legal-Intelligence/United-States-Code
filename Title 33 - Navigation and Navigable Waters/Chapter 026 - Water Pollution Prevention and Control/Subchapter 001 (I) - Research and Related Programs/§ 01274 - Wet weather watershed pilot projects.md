@@ -32,7 +32,7 @@ The Administrator, in coordination with the States, shall provide municipalities
 
 #### (d) Report to Congress
 
-Not later than 5 years after December 21, 2000, the Administrator shall transmit to Congress a report on the results of the pilot projects conducted under this section and their possible application nationwide.
+Not later than 5 years after December 21, 2000, the Administrator shall transmit to Congress areport on the results of the pilot projects conducted under this section and their possible application nationwide.
 
 (June 30, 1948, ch. 758, title I, §121, as added Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–225.)
 

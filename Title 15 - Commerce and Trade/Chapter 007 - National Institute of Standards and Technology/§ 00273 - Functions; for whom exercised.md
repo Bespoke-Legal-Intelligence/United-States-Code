@@ -14,7 +14,3 @@ The Institute is authorized to exercise its functions for the Government of the 
 
 1972—Pub. L. 92–317 authorized the Bureau to extend its services to international organizations of which the United States is a member, and for governments of friendly countries in coordination with the Department of State.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 275a, 276, 278b of this title.
-

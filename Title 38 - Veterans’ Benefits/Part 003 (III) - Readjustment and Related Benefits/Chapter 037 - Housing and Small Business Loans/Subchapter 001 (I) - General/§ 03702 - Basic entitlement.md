@@ -46,7 +46,7 @@
 
 > The Secretary may, in any case involving circumstances the Secretary deems appropriate, waive one or more of the conditions prescribed in paragraph (1). The authority of the Secretary under this subsection to exclude an amount of guaranty or insurance housing loan entitlement previously used by a veteran may be exercised only once for that veteran under the authority of paragraph (4).
 
-(c) An honorable discharge shall be deemed to be a certificate of eligibility to apply for a guaranteed loan. Any veteran who does not have a discharge certificate, or who received a discharge other than honorable, may apply to the Secretary for a certificate of eligibility. Upon making a loan guaranteed or insured under this chapter, the lender shall forthwith transmit to the Secretary a report thereon in such detail as the Secretary may, from time to time, prescribe. Where the loan is guaranteed, the Secretary shall provide the lender with a loan guaranty certificate or other evidence of the guaranty. The Secretary shall also endorse on theveteran's discharge, or eligibility certificate, the amount and type of guaranty used, and the amount, if any, remaining. Nothing in this chapter shall preclude the assignment of any guaranteed loan or the security therefor.
+(c) An honorable discharge shall be deemed to be a certificate of eligibility to apply for a guaranteed loan. Any veteran who does not have a discharge certificate, or who received a discharge other than honorable, may apply to the Secretary for a certificate of eligibility. Upon making a loan guaranteed or insured under this chapter, the lender shall forthwith transmit to the Secretary a report thereon in such detail as the Secretary may, from time to time, prescribe. Where the loan is guaranteed, the Secretary shall provide the lender with a loan guaranty certificate or other evidence of the guaranty. The Secretary shall also endorse on the veteran's discharge, or eligibility certificate, the amount and type of guaranty used, and the amount, if any, remaining. Nothing in this chapter shall preclude the assignment of any guaranteed loan or the security therefor.
 
 (d) Housing loans will be automatically guaranteed under this chapter only if made (1) by any Federal land bank, national bank, State bank, private bank, building and loan association, insurance company, credit union, or mortgage and loan company, that is subject to examination and supervision by an agency of the United States or of any State, or (2) by any State, or (3) by any lender approved by the Secretary pursuant to standards established by the Secretary. Any housing loan proposed to be made to a veteran pursuant to this chapter by any lender not of a class specified in the preceding sentence may be guaranteed by the Secretary if the Secretary finds that it is in accord otherwise with the provisions of this chapter.
 
@@ -116,7 +116,7 @@ Subsec. (g). Pub. L. 100–322, §415(a)(2)(B), redesignated subsec. (g) as (a)(
 
 1982—Subsec. (f). Pub. L. 97–295 substituted “percent” for “per centum”.
 
-1981—Subsec. (a). Pub. L. 97–72, §303(b)(1), (2), substituted “the housing loan benefits” for “the benefits” in two places and “insured housing loan” for “insured loan”.
+1981—Subsec. (a). Pub. L. 97–72, §303(b)(1), (2), substituted “the housing loan benefits” for “the benefits”in two places and “insured housing loan” for “insured loan”.
 
 Subsec. (b). Pub. L. 97–72, §303(b)(3), substituted “insurance housing loan entitlement” for “insurance entitlement” in two places.
 
@@ -195,8 +195,4 @@ Section 415(c)(7) of Pub. L. 100–322 provided that: “Any reference, in effec
 #### Technical Nature of 1986 Amendments
 
 Section 415(f) of Pub. L. 100–322 provided that: “The status of any veteran with respect to benefits under chapter 37 of title 38, United States Code, shall not be affected by the amendments made by, or other provisions of, this section \[see Tables for classification\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3703, 3710, 3712, 3714, 3729, 3731, 3744, 5102 of this title; title 12 sections 1715z–13a, 1715z–13b.
 

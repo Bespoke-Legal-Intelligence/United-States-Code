@@ -12,7 +12,3 @@ A person entitled to use a frank may not lend it or permit its use by any commit
 
 Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as a note under section 3210 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3201, 3210 of this title; title 2 sections 501, 502.
-

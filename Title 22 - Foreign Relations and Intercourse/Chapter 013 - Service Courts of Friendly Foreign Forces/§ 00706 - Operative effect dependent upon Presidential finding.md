@@ -8,7 +8,3 @@ This chapter shall be operative with respect to the military, naval, or air forc
 
 Proc. No. 2626, Oct. 12, 1944, 9 F.R. 12403, respecting activation by President, was revoked by Proc. No. 3107, Aug. 9, 1955, 20 F.R. 5805.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 701 of this title.
-

@@ -2,7 +2,7 @@
 
 For purposes of this chapter—
 
-&emsp;(1) the term “agency” means an Executive agency, but does not include the General Accounting Office; and
+&emsp;(1) the term “agency” means an Executive agency, but does not include the Government Accountability Office; and
 
 &emsp;(2) the term “detail” means—
 
@@ -12,13 +12,13 @@ For purposes of this chapter—
 
 > &emsp;whichever is appropriate in the context in which such term is used.
 
-(Added Pub. L. 107–347, title II, §209(c)(1), Dec. 17, 2002, 116 Stat. 2925.)
+(Added Pub. L. 107–347, title II, §209(c)(1), Dec. 17, 2002, 116 Stat. 2925; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+#### Amendments
+
+2004—Par. (1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 #### Effective Date
 
 Chapter effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under section 3601 of Title 44, Public Printing and Documents.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 209.
 

@@ -10,7 +10,3 @@ After receiving the State plan of a State under this part, the Commission shall 
 
 (Pub. L. 107–252, title II, §255, Oct. 29, 2002, 116 Stat. 1697.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15403, 15404 of this title.
-

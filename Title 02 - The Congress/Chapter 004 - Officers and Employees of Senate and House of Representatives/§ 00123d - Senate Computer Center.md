@@ -6,7 +6,7 @@
 
 (2) The revolving fund shall be available only for paying the salaries of personnel employed under subsection (c) of this section, and agency contributions attributable thereto, and for paying refunds under contracts entered into under subsection (b) of this section.
 
-(3) Within 90 days after the end of each fiscal year, the Secretary of the Senate shall withdrawall amounts in the revolving fund in excess of $100,000, other than amounts required to make refunds under subsection (b)(2)(B) of this section, and shall deposit the amounts withdrawn in the Treasury of the United States as miscellaneous receipts.
+(3) Within 90 days after the end of each fiscal year, the Secretary of the Senate shall withdraw all amounts in the revolving fund in excess of $100,000, other than amounts required to make refunds under subsection (b)(2)(B) of this section, and shall deposit the amounts withdrawn in the Treasury of the United States as miscellaneous receipts.
 
 #### (b) Contracts for use of Senate computer; approval; terms
 
@@ -22,7 +22,7 @@
 
 #### (c) Additional personnel
 
-To the extent that the personnel of the Senate Computer Center are unable to carry out the contracts entered into under subsection (b) of this section according to their terms and conditions, the Sergeant at Arms and Doorkeeper of the Senate is authorized to employ such additional personnel for the Senate Computer Center as may be necessary to carry out such contracts, and to pay the salaries of such additional personnel, and agency contributions attributable thereto, from the revolving fund. Such additional personnel may temporarily be assigned to perform the regular functions of the Senate Computer Center when their services are not needed to carry out such contracts.
+To the extent that the personnel of the Senate Computer Center are unable to carry out thecontracts entered into under subsection (b) of this section according to their terms and conditions, the Sergeant at Arms and Doorkeeper of the Senate is authorized to employ such additional personnel for the Senate Computer Center as may be necessary to carry out such contracts, and to pay the salaries of such additional personnel, and agency contributions attributable thereto, from the revolving fund. Such additional personnel may temporarily be assigned to perform the regular functions of the Senate Computer Center when their services are not needed to carry out such contracts.
 
 #### (d) Disbursements
 

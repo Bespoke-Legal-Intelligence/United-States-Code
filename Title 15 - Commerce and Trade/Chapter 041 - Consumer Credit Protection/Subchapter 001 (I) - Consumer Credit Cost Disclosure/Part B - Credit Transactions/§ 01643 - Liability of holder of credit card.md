@@ -20,7 +20,7 @@
 
 #### (b) Burden of proof
 
-In any action by a card issuer to enforce liability for the use of a credit card, the burden of proof is upon the card issuer to show that the use was authorized or, if the use was unauthorized, then the burden of proof is upon the card issuer to show that the conditions of liability for the unauthorized use of a credit card, as set forth in subsection (a) of this section, have been met.
+In any action by a card issuer to enforce liability for the use of a credit card, the burden ofproof is upon the card issuer to show that the use was authorized or, if the use was unauthorized, then the burden of proof is upon the card issuer to show that the conditions of liability for the unauthorized use of a credit card, as set forth in subsection (a) of this section, have been met.
 
 #### (c) Liability imposed by other laws or by agreement with issuer
 
@@ -43,8 +43,4 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 #### Effective Date
 
 Section 503(2) of Pub. L. 91–508 provided that: “Section 133 of such Act \[this section\] takes effect upon the expiration of 90 days after such date of enactment \[Oct. 26, 1970\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1602, 1645 of this title.
 

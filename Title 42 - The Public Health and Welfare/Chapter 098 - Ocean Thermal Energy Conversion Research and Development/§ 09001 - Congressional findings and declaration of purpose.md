@@ -8,7 +8,7 @@
 
 &emsp;(3) ocean thermal energy is a renewable energy resource that can make a significant contribution to the energy needs of the United States;
 
-&emsp;(4) the technology base for ocean thermal energy conversion has improved over the past two years, and has consequently lowered the technical risk involved in constructing moderate-sized pilot plants with an electrical generating capacity of about ten to forty megawatts;
+&emsp;(4) the technology base for ocean thermal energy conversion has improved over the pasttwo years, and has consequently lowered the technical risk involved in constructing moderate-sized pilot plants with an electrical generating capacity of about ten to forty megawatts;
 
 &emsp;(5) while the Federal ocean thermal energy conversion program has grown in size and scope over the past several years, it is in the national interest to accelerate efforts to commercialize ocean thermal energy conversion by building pilot and demonstration facilities and to begin planning for the commercial demonstration of ocean thermal energy conversion technology;
 
@@ -22,7 +22,7 @@
 
 &emsp;(2) demonstration by 1989 of at least five hundred megawatts of electrical capacity or energy product equivalent from ocean thermal energy conversion systems;
 
-&emsp;(3) achievement in the mid-1990's, for the gulf coast region of the continental United States and for islands in the United States, its possessions and its territories, an average costof electricity or energy product equivalent produced by installed ocean thermal energy conversion systems that is competitive with conventional energy sources; and
+&emsp;(3) achievement in the mid-1990's, for the gulf coast region of the continental United States and for islands in the United States, its possessions and its territories, an average cost of electricity or energy product equivalent produced by installed ocean thermal energy conversion systems that is competitive with conventional energy sources; and
 
 &emsp;(4) establish as a national goal ten thousand megawatts of electrical capacity or energy product equivalent from ocean thermal energy conversion systems by the year 1999.
 
@@ -31,8 +31,4 @@
 #### Short Title
 
 Section 1 of Pub. L. 96–310 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Ocean Thermal Energy Conversion Research, Development, and Demonstration Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9005 of this title.
 

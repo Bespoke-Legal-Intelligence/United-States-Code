@@ -4,7 +4,3 @@ Notwithstanding the authority granted by section 7253 of title 42 or any other p
 
 (Pub. L. 106–65, div. C, title XXXII, §3219, as added Pub. L. 106–377, §1(a)(2) \[title III, §314(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–81.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 7253.
-

@@ -56,7 +56,7 @@ The Director of the Institute shall designate a member of the staff of the Insti
 
 The advisory council may prepare, for inclusion in the biennial report made under section 285q–3 of this title, (1) comments respecting the activities of the advisory council in the fiscal years respecting which the report is prepared, (2) comments on the progress of the Institute in meeting its objectives, and (3) recommendations respecting the future directions and program and policy emphasis of the Institute. The advisory council may prepare such additional reports as it may determine appropriate.
 
-(July 1, 1944, ch. 373, title IV, §464X, formerly §485, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 867; amended Pub. L. 101–381, title I, §102(4), Aug. 18, 1990, 104 Stat. 586; Pub. L. 102–54, §13(q)(1)(E), June 13, 1991, 105 Stat. 279; renumbered §464X and amended Pub. L. 103–43, title XV, §1511(a)(3), (b)(2), (4)(B), title XX, §§2008(b)(13), 2010(b)(5), June 10, 1993, 107 Stat. 178, 179, 211, 214.)
+(July 1, 1944, ch. 373, title IV, §464X, formerly §485, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99Stat. 867; amended Pub. L. 101–381, title I, §102(4), Aug. 18, 1990, 104 Stat. 586; Pub. L. 102–54, §13(q)(1)(E), June 13, 1991, 105 Stat. 279; renumbered §464X and amended Pub. L. 103–43, title XV, §1511(a)(3), (b)(2), (4)(B), title XX, §§2008(b)(13), 2010(b)(5), June 10, 1993, 107 Stat. 178, 179, 211, 214.)
 
 #### Codification
 
@@ -91,8 +91,4 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 285q–3 of this title.
 

@@ -40,7 +40,3 @@ The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pu
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10162, 10166, 10167 of this title.
-

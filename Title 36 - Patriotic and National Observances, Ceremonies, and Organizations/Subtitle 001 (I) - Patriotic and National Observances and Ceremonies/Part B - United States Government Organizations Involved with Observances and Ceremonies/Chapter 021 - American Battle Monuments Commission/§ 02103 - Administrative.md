@@ -170,7 +170,3 @@ Subsec. (h)(2)(A)(i). Pub. L. 106–117, §604(3)(A), struck out “, United St
 
 Subsec. (i). Pub. L. 106–117, §604(3)(B), struck out “, United States Code” after “title 44”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2106, 2113 of this title.
-

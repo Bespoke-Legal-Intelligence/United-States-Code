@@ -1,9 +1,5 @@
 ### SUBCHAPTER X—KLAMATH TRIBE: DISPOSITION OF CERTAIN TRIBAL FUNDS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 544 of this title.
-
 
 ---
 

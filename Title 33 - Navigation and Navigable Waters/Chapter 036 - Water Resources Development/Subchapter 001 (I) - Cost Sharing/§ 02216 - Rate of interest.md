@@ -8,7 +8,3 @@ Whenever a non-Federal interest is required or elects to repay an amount under t
 
 This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2211, 2213 of this title.
-

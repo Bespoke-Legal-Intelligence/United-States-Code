@@ -4,7 +4,3 @@ There is authorized to be appropriated to carry out this chapter (other than sec
 
 (Pub. L. 88–210, §8, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3083.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2321 of this title.
-

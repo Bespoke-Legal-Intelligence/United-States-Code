@@ -30,7 +30,3 @@ In subsection (b), the words “Loss, or” are omitted as included in “loss o
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8104, 8107, 8110 of this title.
-

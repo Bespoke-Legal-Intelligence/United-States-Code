@@ -44,7 +44,3 @@ Amendment by Pub. L. 103–337 effective Oct. 1, 1996, see section 1691(b)(1) of
 
 For authority of the President to suspend this section in time of war or emergency declared by Congress, see section 111 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 14308.
-

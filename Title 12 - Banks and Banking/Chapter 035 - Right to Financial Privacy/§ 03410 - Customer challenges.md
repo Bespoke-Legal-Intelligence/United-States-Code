@@ -16,7 +16,7 @@ If the court finds that the customer has complied with subsection (a) of this se
 
 #### (c) Decision of court
 
-If the court finds that the applicant is not the customer to whom the financial records sought by the Government authority pertain, or that there is a demonstrable reason to believe that the law enforcement inquiry is legitimate and a reasonable belief that the records sought are relevant to that inquiry, it shall deny the motion or application, and, in the case of an administrative summons or court order other than a search warrant, order such process enforced. If the court finds that the applicant is the customer to whom the records sought by the Government authority pertain, and that there is not a demonstrable reason to believe that the law enforcement inquiry is legitimate and a reasonable belief that the records sought are relevant to that inquiry, or that there has not been substantial compliance with the provisions of this chapter, it shall order the process quashed or shall enjoin the Government authority's formal written request.
+If the court finds that the applicant is not the customer to whom the financial records sought by the Government authority pertain, or that there is a demonstrable reason to believe that the law enforcement inquiry is legitimate and a reasonable belief that the records sought are relevant to that inquiry, it shall deny the motion or application, and, in the case of an administrative summons or court order other than a search warrant, order such process enforced. If the court finds that the applicant is the customer to whom the records sought by the Government authority pertain, and that there is not a demonstrable reason to believe that the law enforcement inquiry is legitimate and a reasonable belief that the records sought are relevant to that inquiry, or that there has not been substantial compliance with the provisions of this chapter,it shall order the process quashed or shall enjoin the Government authority's formal written request.
 
 #### (d) Appeals
 
@@ -35,8 +35,4 @@ Nothing in this chapter shall enlarge or restrict any rights of a financial inst
 #### References in Text
 
 Rule 5(b) of the Federal Rules of Civil Procedure, referred to in subsec. (a), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3405, 3407, 3408, 3413, 3421 of this title.
 

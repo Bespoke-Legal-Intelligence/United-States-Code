@@ -6,13 +6,9 @@ The Commission is hereby authorized and directed to make studies and investigati
 
 #### Amendments
 
-1987—Pub. L. 100–181 struck out at end “The Commission is authorized and directed to make a study of the functions and activities of investment trusts and investment companies, the corporate structures, and investment policies of such trusts and companies, the influence exerted by such trusts and companies upon companies in which they are interested, and the influence exerted by interests affiliated with the management of such trusts and companies upon their investment policies, and to report the results of its study and its recommendations to the Congress on or before January 4, 1937.”
+1987—Pub. L. 100–181 struck out at end “The Commission is authorized and directed to make a study of thefunctions and activities of investment trusts and investment companies, the corporate structures, and investment policies of such trusts and companies, the influence exerted by such trusts and companies upon companies in which they are interested, and the influence exerted by interests affiliated with the management of such trusts and companies upon their investment policies, and to report the results of its study and its recommendations to the Congress on or before January 4, 1937.”
 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–1, 80b–1 of this title.
 

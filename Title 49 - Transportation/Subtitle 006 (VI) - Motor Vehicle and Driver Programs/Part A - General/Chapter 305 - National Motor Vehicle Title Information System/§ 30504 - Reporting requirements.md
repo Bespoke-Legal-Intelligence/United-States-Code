@@ -82,7 +82,3 @@ Pub. L. 105–102, §3(b), Nov. 20, 1997, 111 Stat. 2215, provided that the amen
 
 Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendment relates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 30502 of this title.
-

@@ -96,7 +96,3 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d), is
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44501, 48102 of this title.
-

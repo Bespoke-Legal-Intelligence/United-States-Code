@@ -80,7 +80,7 @@ There are authorized to be appropriated, for each of the fiscal years 1978, 1979
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Congressional Statement of Findings and Purpose
 
@@ -97,8 +97,4 @@ Section 2 of Pub. L. 95–319 provided that:
 &emsp;“(4) such standards are reasonably necessary to eliminate or reduce an unreasonable risk of injury to consumers from flammable or corrosive cellulose insulation.
 
 “(b) It is the purpose of the Congress in this Act \[enacting this section, amending section 2068 of this title, and enacting provisions set out as notes under sections 2051 and 2082 of this title\] to provide an interim mandatory safety standard for cellulose insulation manufactured for use as a consumer product.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2068 of this title.
 

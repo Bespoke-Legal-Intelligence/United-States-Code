@@ -12,9 +12,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3111, 7353 of this title; title 18 sections 207, 209, 1905; title 41 section 423.
+<i><sup>1</sup></i><i> Another section 3598 is set out preceding this section.</i>
 
 
 ---

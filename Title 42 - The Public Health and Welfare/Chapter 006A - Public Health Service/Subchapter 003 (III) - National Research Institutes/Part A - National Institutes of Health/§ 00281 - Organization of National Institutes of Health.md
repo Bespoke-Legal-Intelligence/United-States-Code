@@ -84,7 +84,7 @@ Subsec. (b)(2)(F). Pub. L. 106–525, §101(b)(1)(A), realigned margins.
 
 Subsec. (b)(2)(G). Pub. L. 106–525, §101(b)(1)(B), added subpar. (G).
 
-1998—Subsec. (b)(1)(H). Pub. L. 105–277, §101(f) \[title II, §212\], substituted “National Institute of Dental andCraniofacial Research” for “National Institute of Dental Research”.
+1998—Subsec. (b)(1)(H). Pub. L. 105–277, §101(f) \[title II, §212\], substituted “National Institute of Dental and Craniofacial Research” for “National Institute of Dental Research”.
 
 Subsec. (b)(2)(F). Pub. L. 105–277, §101(f) \[title VI, §601(k)\], added subpar. (F).
 
@@ -101,6 +101,8 @@ Subsec. (b)(2)(D). Pub. L. 103–43, §§1511(b)(1)(B), 1521(1), added subpar. (
 1988—Subsec. (b)(1)(J), (M). Pub. L. 100–553 and Pub. L. 100–607 made identical amendments, striking out “and Communicative” after “Neurological” in subpar. (J), and adding subpar. (M). Pub. L. 100–690 amended subsec. (b)(1) to read as if the amendments by Pub. L. 100–607 had not been enacted.
 
 #### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

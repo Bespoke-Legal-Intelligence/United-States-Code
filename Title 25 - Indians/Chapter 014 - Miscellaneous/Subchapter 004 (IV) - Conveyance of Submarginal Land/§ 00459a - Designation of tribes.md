@@ -44,7 +44,3 @@ The Secretary of the Interior shall cause to be published in the Federal Registe
 
 Amendment by Pub. L. 97–434 effective Jan. 8, 1983, see section 1(c) of Pub. L. 97–434, set out as a note under section 459 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 459 of this title.
-

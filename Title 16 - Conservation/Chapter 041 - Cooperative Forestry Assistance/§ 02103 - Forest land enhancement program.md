@@ -244,9 +244,5 @@ Pub. L. 107–171, title VIII, §8002(a), May 13, 2002, 116 Stat. 468, provided 
 
 &emsp;“(2) to establish a coordinated and cooperative Federal, State, and local sustainable forestry program for the establishment, management, maintenance, enhancement, and restoration of forests on nonindustrial private forest land.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2106b, 2108 of this title; title 7 section 6962; title 26 section 126.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “mean”.</i>
 

@@ -46,7 +46,3 @@ Notwithstanding any other provision of this chapter, the Secretary shall prohibi
 
 This chapter, referred to in subsec. (d), was in the original “this Act” and was translated as reading “this title”, meaning title I of Pub. L. 102–440, known as the Wild Bird Conservation Act of 1992, to reflect the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4905, 4910 of this title.
-

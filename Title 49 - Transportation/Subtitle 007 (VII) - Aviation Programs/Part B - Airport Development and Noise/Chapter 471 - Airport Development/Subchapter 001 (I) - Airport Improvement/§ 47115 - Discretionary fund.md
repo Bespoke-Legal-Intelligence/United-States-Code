@@ -70,7 +70,7 @@ Minimum Amount To Be Credited.—
 
 &emsp;(1)
 
-General rule.—In a fiscal year, there shall be credited to the fund, out of amounts made available under section 48103 of thistitle, an amount that is at least equal to the sum of—
+General rule.—In a fiscal year, there shall be credited to the fund, out of amounts made available under section 48103 of this title, an amount that is at least equal to the sum of—
 
 &emsp;&emsp;(A) $148,000,000; plus
 
@@ -235,10 +235,6 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 Amendment by section 5(81)(B) of Pub. L. 104–287 effective Sept. 30, 1998, see section 8(2) of Pub. L. 104–287, as amended, set out as a note under section 47117 of this title.
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47107, 47108, 47109, 47110, 47114, 47117, 47118, 47119, 47137 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

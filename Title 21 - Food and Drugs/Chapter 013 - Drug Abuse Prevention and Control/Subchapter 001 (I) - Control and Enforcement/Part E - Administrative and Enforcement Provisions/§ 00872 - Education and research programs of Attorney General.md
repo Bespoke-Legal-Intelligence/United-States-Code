@@ -30,7 +30,7 @@ Nothing in the Single Convention on Narcotic Drugs, the Convention on Psychotrop
 
 #### (e) Use of controlled substances in research
 
-The Attorney General, on his own motion or at the request of the Secretary, may authorize the possession, distribution, and dispensing of controlled substances by persons engaged in research. Persons who obtain this authorization shall be exempt from State or Federal prosecution for possession, distribution, and dispensing of controlled substances to the extent authorized by the Attorney General.
+The Attorney General, on his own motion or at the request of the Secretary, may authorize the possession, distribution, and dispensing of controlled substances by persons engaged in research. Persons who obtain this authorizationshall be exempt from State or Federal prosecution for possession, distribution, and dispensing of controlled substances to the extent authorized by the Attorney General.
 
 #### (f) Program to curtail diversion of precursor and essential chemicals
 
@@ -112,7 +112,7 @@ Pub. L. 104–237, title II, §202, Oct. 3, 1996, 110 Stat. 3101, provided that:
 
 “(a)
 
-Study.—The Attorney General of the United States shall conduct a study on possible measures to effectively prevent the diversion of red phosphorous, iodine, hydrochloric gas, and other agents for use in the production of methamphetamine. Nothing in this section shall preclude the Attorney General from taking any action the Attorney General already is authorizedto take with regard to the regulation of listed chemicals under current law.
+Study.—The Attorney General of the United States shall conduct a study on possible measures to effectively prevent the diversion of red phosphorous, iodine, hydrochloric gas, and other agents for use in the production of methamphetamine. Nothing in this section shall preclude the Attorney General from taking any action the Attorney General already is authorized to take with regard to the regulation of listed chemicals under current law.
 
 “(b)
 

@@ -30,11 +30,13 @@ Pars. (7) to (9). Pub. L. 105–305, §2(b)(2), added pars. (7) to (9).
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–305, §1, Oct. 28, 1998, 112 Stat. 2919, provided that: “This Act \[enacting section 5513 of this title, amending this section and sections 5502, 5503, and 5511 of this title, and enacting provisions set out asnotes under this section\] may be cited as the ‘Next Generation Internet Research Act of 1998’.”
+Pub. L. 105–305, §1, Oct. 28, 1998, 112 Stat. 2919, provided that: “This Act \[enacting section 5513 of this title, amending this section and sections 5502, 5503, and 5511 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Next Generation Internet Research Act of 1998’.”
 
 #### Short Title
 
 Section 1 of Pub. L. 102–194 provided that: “This Act \[enacting this chapter\] may be cited as the ‘High-Performance Computing Act of 1991’.”
+
+Pub. L. 108–423, §1, Nov. 30, 2004, 118 Stat. 2400, provided that: “This Act \[enacting subchapter III of this chapter, amending sections 205<i>l</i> of this title and 1862n–9 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 1862n–9 of Title 42\] may be cited as the ‘Department of Energy High-End Computing Revitalization Act of 2004’.”
 
 #### Congressional Findings
 
@@ -64,7 +66,7 @@ Pub. L. 105–305, §3(a), Oct. 28, 1998, 112 Stat. 2920, provided that: “The 
 
 &emsp;&emsp;“(D) education, training, and human resources; and
 
-&emsp;“(2) to provide, through the High-Performance Computing Act of 1991 (15 U.S.C. 5501 et seq.), for the development and coordination of a comprehensive and integrated United States research program which will—
+&emsp;“(2) to provide, through the High-Performance Computing Act of 1991 (15 U.S.C. 5501 et seq.), for thedevelopment and coordination of a comprehensive and integrated United States research program which will—
 
 &emsp;&emsp;“(A) focus on the research and development of a coordinated set of technologies that seeks to create a network infrastructure that can support greater speed, robustness, and flexibility than is currently available and promote connectivity and interoperability among advanced computer networks of Federal agencies and departments;
 

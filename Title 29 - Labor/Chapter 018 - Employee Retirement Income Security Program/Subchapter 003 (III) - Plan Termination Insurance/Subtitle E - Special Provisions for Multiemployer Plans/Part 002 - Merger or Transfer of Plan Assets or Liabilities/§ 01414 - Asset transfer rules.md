@@ -20,7 +20,3 @@ This part shall not apply to transfers of assets pursuant to written reciprocity
 
 (Pub. L. 93–406, title IV, §4234, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1247.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1415 of this title.
-

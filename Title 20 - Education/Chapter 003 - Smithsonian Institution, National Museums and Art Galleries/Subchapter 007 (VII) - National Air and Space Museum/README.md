@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—NATIONAL AIR AND SPACE MUSEUM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 80a of this title.
-
 
 ---
 

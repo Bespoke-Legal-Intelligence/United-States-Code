@@ -26,15 +26,11 @@ Each Federal agency carrying out a program described in subsection (a) of this s
 
 &emsp;(3) the agency does not employ, recommend, or require testing for that class of chemical or for the recommended test endpoint; or
 
-&emsp;(4) the ICCVAM test recommendation is unacceptable for satisfactorily fulfilling the test needs for that particular agency and its respective congressional mandate.
+&emsp;(4) the ICCVAM test recommendation is unacceptable for satisfactorily fulfilling the testneeds for that particular agency and its respective congressional mandate.
 
 (Pub. L. 106–545, §4, Dec. 19, 2000, 114 Stat. 2723.)
 
 #### Codification
 
 Section was enacted as part of the ICCVAM Authorization Act of 2000, and not as part of the Public Health Service Act which comprises this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 285<i>l</i>–2, 285<i>l</i>–3, 285<i>l</i>–5 of this title.
 

@@ -14,7 +14,3 @@ Section 502(a) \[subsec. (a) of this section\] reasserts the discretionary power
 
 Under subsection (b), which is the counterpart of provisions in sections 112 and 113 of the present statute \[sections 112 and 113 of former title 17\], a copyright owner who has obtained an injunction in one State will be able to enforce it against a defendant located anywhere else in the United States.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 109, 111, 115, 119, 122, 411, 510, 512, 1101 of this title.
-

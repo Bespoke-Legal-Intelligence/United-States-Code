@@ -42,7 +42,3 @@ Federal reclamation law, referred to in pars. (1), (3)(A), (8), and (10), is def
 
 1986—Par. (4). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390cc, 390ee, 422e, 2212 of this title; title 26 section 90.
-

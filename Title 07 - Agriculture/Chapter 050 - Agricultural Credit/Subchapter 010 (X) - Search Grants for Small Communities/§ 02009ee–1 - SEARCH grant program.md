@@ -44,7 +44,7 @@ A SEARCH grant shall be awarded under this section only to a small community for
 
 #### (e) Applications
 
-To be eligible to receive a SEARCH grant, a small community in a State shall submit to theState rural development director of the State an application that includes—
+To be eligible to receive a SEARCH grant, a small community in a State shall submit to the State rural development director of the State an application that includes—
 
 &emsp;(1) a description of the proposed environmental project (including an explanation of how the project would assist the small community in complying with a Federal or State environmental law (including a regulation);
 
@@ -101,8 +101,4 @@ To be eligible to receive a SEARCH grant, a small community in a State shall sub
 #### Codification
 
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Consolidated Farm and Rural Development Act which comprises this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2009ee, 2009ee–3 of this title.
 

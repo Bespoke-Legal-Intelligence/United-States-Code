@@ -12,7 +12,7 @@ During the period specified in subsection (a) of this section, the price of milk
 
 #### (1) Uniform prices
 
-&emsp;The support purchase prices under this section for each of the products of milk (butter,cheese, and nonfat dry milk) announced by the Secretary shall be the same for all of that product sold by persons offering to sell the product to the Secretary.
+&emsp;The support purchase prices under this section for each of the products of milk (butter, cheese, and nonfat dry milk) announced by the Secretary shall be the same for all of that product sold by persons offering to sell the product to the Secretary.
 
 #### (2) Sufficient prices
 
@@ -33,8 +33,4 @@ During the period specified in subsection (a) of this section, the price of milk
 The Secretary shall carry out the program authorized by this section through the Commodity Credit Corporation.
 
 (Pub. L. 107–171, title I, §1501, May 13, 2002, 116 Stat. 205.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7983 of this title.
 

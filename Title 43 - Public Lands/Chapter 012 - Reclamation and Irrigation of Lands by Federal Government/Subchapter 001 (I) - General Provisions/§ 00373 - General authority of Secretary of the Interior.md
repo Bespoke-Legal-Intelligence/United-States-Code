@@ -16,7 +16,3 @@ Act Aug. 13, 1914, cited as a credit to this section, did not amend act July 17,
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 475 of this title.
-

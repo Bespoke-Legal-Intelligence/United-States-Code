@@ -1,9 +1,5 @@
 ### SUBCHAPTER XII–G—RESIDENTIAL SUBSTANCE ABUSE TREATMENT FOR STATE PRISONERS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3793 of this title.
-
 
 ---
 

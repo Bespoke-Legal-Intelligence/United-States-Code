@@ -24,7 +24,3 @@ Amendment by act Aug. 13, 1946, effective three months after Aug. 13, 1946.
 
 Act Aug. 13, 1946, ch. 957, title XI, §1131(26), 60 Stat. 1037, cited as a credit to this section, was repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4224 of this title.
-

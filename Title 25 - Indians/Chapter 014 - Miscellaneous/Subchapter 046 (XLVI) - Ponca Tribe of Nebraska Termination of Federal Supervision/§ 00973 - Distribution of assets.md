@@ -22,7 +22,3 @@ The net proceeds of all sales of tribal property, and all other tribal funds, sh
 
 (Pub. L. 87–629, §3, Sept. 5, 1962, 76 Stat. 429.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 971 of this title.
-

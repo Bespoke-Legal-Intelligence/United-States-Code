@@ -2,7 +2,7 @@
 
 #### (a) Program enhancement endowment
 
-(1)(A) From the total amount appropriated for this subsection pursuant to section 4451(a) of this title, funds may be deposited into a trust fund maintained by the Institute at a federally insured banking or savings institution.
+(1)(A) From the total amount appropriated for this subsection pursuant to section 4451(a) of this title, funds may be deposited into a trustfund maintained by the Institute at a federally insured banking or savings institution.
 
 (B) The President of the Institute shall provide—
 
@@ -75,8 +75,4 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 #### Effective Date of 1988 Amendment
 
 For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4451 of this title.
 

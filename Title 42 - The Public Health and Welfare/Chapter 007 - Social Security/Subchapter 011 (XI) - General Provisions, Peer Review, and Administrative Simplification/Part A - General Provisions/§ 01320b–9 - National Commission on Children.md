@@ -34,7 +34,7 @@
 
 (1) It shall be the duty and function of the Commission to serve as a forum on behalf of the children of the Nation and to conduct the studies and issue the report required by subsection (d) of this section.
 
-(2) The Commission (and any committees that it may form) shall conduct public hearings indifferent geographic areas of the country, both urban and rural, in order to receive the views of a broad spectrum of the public on the status of the Nation's children and on ways to safeguard and enhance the physical, mental, and emotional well-being of all of the children of the Nation, including those with physical or mental disabilities, and others whose circumstances deny them a full share of the opportunities that parents of the Nation may rightfully expect for their children.
+(2) The Commission (and any committees that it may form) shall conduct public hearings in different geographic areas of the country, both urban and rural, in order to receive the views of a broad spectrum of the public on the status of the Nation's children and on ways to safeguard and enhance the physical, mental, and emotional well-being of all of the children of the Nation, including those with physical or mental disabilities, and others whose circumstances deny them a full share of the opportunities that parents of the Nation may rightfully expect for their children.
 
 (3) The Commission shall receive testimony from individuals, and from representatives of public and private organizations and institutions with an interest in the welfare of children, including educators, health care professionals, religious leaders, providers of social services, representatives of organizations with children as members, elected and appointed public officials, and from parents and children speaking in their own behalf.
 
@@ -122,7 +122,7 @@ The Commission shall submit to the President, and to the Committees on Finance a
 
 &emsp;&emsp;(A) seek to identify ways in which public and private organizations and institutions can work together at the community level to identify deficiencies in existing services for families and children and to develop recommendations to ensure that the needs of families and children are met, using all available resources, in a coordinated and comprehensive manner, and
 
-&emsp;&emsp;(B) assess the existing capacities of agencies to collect and analyze data on the status of children and on relevant programs, identify gaps in the data collection system,and recommend ways to improve the collection of data and the coordination among agencies in the collection and utilization of data.
+&emsp;&emsp;(B) assess the existing capacities of agencies to collect and analyze data on the status of children and on relevant programs, identify gaps in the data collection system, and recommend ways to improve the collection of data and the coordination among agencies in the collection and utilization of data.
 
 > The reports required by this subsection shall be based upon the testimony received in the hearings conducted pursuant to subsection (c) of this section, and upon other data and findings developed by the Commission.
 
@@ -184,7 +184,7 @@ The Commission is authorized to conduct such public surveys as it deems necessar
 
 #### References in Text
 
-The provisions of title 5 that govern appointments in the competitive services, referred to in subsec. (f)(1),are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 that govern appointments in the competitive services, referred to in subsec. (f)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -215,6 +215,8 @@ Subsec. (e)(1)(A), (4)(B). Pub. L. 100–647, §8201(3), (4), substituted “Sep
 Subsec. (j). Pub. L. 100–647, §8201(5), inserted “for each of fiscal years 1989 and 1990” before period at end.
 
 #### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives and Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

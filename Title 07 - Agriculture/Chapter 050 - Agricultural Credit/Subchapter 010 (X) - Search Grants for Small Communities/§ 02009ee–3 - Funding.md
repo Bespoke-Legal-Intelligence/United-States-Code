@@ -20,7 +20,3 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Consolidated Farm and Rural Development Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009ee–1 of this title.
-

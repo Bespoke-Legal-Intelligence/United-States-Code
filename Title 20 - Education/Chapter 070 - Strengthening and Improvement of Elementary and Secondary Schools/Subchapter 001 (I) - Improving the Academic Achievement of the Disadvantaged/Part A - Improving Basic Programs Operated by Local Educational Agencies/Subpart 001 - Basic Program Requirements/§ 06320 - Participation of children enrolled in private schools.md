@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;To the extent consistent with the number of eligible children identified under section 6315(b) of this title in the school district served by a local educational agency who are enrolled in private elementary schools and secondary schools, a local educational agency shall, after timely and meaningful consultation with appropriate private school officials, provide such children, on an equitable basis, special educational services or other benefits under this part (such as dual enrollment, educational radio and television, computer equipment and materials, other technology, and mobile educational services and equipment) that address their needs, and shall ensure that teachers and families of the children participate, on an equitable basis, in services and activities developed pursuant to sections 6318 and 6319 of this title.
+&emsp;To the extent consistent with the number of eligible children identified under section 6315(b) of this title in the school district served by a local educational agency who are enrolled in private elementary schools and secondary schools, a local educational agencyshall, after timely and meaningful consultation with appropriate private school officials, provide such children, on an equitable basis, special educational services or other benefits under this part (such as dual enrollment, educational radio and television, computer equipment and materials, other technology, and mobile educational services and equipment) that address their needs, and shall ensure that teachers and families of the children participate, on an equitable basis, in services and activities developed pursuant to sections 6318 and 6319 of this title.
 
 #### (2) Secular, neutral, nonideological
 
@@ -125,10 +125,6 @@ Section 7883, referred to in subsec. (c)(2), was in the original “section 9505
 A prior section 6320, Pub. L. 89–10, title I, §1119, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3555, related to professional development, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 1120 of Pub. L. 89–10 was classified to section 6321 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6312, 6965, 7279a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

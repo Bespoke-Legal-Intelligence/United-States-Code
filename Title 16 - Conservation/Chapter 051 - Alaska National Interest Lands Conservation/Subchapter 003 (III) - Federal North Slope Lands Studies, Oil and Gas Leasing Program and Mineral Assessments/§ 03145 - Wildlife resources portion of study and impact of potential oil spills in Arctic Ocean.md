@@ -30,7 +30,7 @@ The Secretary shall work closely with the State of Alaska and Native Village and
 
 #### (c) Treaty negotiations
 
-The Congress calls upon the Secretary of State, in consultation with the Secretary of theInterior, the Secretary of Transportation, and the Governor of Alaska, to begin negotiations with the Foreign Minister of Canada regarding a treaty dealing with the complex issues of recovery of damages, contingency plans, and coordinated actions in the event of an oil spill in the Arctic Ocean.
+The Congress calls upon the Secretary of State, in consultation with the Secretary of the Interior, the Secretary of Transportation, and the Governor of Alaska, to begin negotiationswith the Foreign Minister of Canada regarding a treaty dealing with the complex issues of recovery of damages, contingency plans, and coordinated actions in the event of an oil spill in the Arctic Ocean.
 
 #### (d) Report to Congress
 

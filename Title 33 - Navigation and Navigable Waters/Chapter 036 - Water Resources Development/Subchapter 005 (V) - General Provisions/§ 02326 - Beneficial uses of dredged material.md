@@ -54,7 +54,3 @@ Subsec. (g). Pub. L. 106–53, §209(2), added subsec. (g).
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2326a of this title.
-

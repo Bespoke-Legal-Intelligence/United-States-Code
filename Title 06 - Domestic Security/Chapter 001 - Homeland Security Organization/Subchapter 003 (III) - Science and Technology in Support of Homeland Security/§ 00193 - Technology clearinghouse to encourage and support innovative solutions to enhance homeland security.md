@@ -12,7 +12,7 @@ The program described in subsection (a) of this section shall include the follow
 
 &emsp;(2) The issuance of announcements seeking unique and innovative technologies to advance the mission of the Department.
 
-&emsp;(3) The establishment of a technical assistance team to assist in screening, as appropriate, proposals submitted to the Secretary (except as provided in subsection (c)(2) of this section) to assess the feasibility, scientific and technical merits, and estimated cost of such proposals, as appropriate.
+&emsp;(3) The establishment of a technical assistance team to assist in screening, as appropriate, proposals submitted to the Secretary (except as provided in subsection (c)(2) of thissection) to assess the feasibility, scientific and technical merits, and estimated cost of such proposals, as appropriate.
 
 &emsp;(4) The provision of guidance, recommendations, and technical assistance, as appropriate, to assist Federal, State, and local government and private sector efforts to evaluate and implement the use of technologies described in paragraph (1) or (2).
 

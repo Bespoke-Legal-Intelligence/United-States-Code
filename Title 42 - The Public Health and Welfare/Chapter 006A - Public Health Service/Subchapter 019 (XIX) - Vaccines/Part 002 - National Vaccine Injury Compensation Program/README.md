@@ -2,10 +2,6 @@ Part 2—
 
 National Vaccine Injury Compensation Program
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 26 section 9510.
-
 
 ---
 

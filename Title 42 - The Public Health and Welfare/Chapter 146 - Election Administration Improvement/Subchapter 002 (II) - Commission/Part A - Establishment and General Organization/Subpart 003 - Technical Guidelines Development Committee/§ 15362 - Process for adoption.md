@@ -46,7 +46,3 @@ Notwithstanding any other provision of this subpart, the most recent set of voti
 
 (Pub. L. 107–252, title II, §222, Oct. 29, 2002, 116 Stat. 1683.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15345, 15361 of this title.
-

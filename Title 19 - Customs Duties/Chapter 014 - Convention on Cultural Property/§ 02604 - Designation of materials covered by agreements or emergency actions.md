@@ -14,7 +14,3 @@ After any agreement enters into force under section 2602 of this title, or emerg
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of Title 22.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2601, 2606, 2610 of this title.
-

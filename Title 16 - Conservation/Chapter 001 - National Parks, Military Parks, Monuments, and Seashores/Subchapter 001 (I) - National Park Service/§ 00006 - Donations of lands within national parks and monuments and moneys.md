@@ -4,7 +4,3 @@ The Secretary of the Interior in his administration of the National Park Service
 
 (June 5, 1920, ch. 235, §1, 41 Stat. 917.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1c of this title.
-

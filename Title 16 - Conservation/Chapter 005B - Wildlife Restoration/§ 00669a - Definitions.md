@@ -12,7 +12,7 @@ As used in this chapter—
 
 &emsp;(5) the term “wildlife-associated recreation” means projects intended to meet the demand for outdoor activities associated with wildlife including, but not limited to, hunting and fishing, wildlife observation and photography, such projects as construction or restoration of wildlife viewing areas, observation towers, blinds, platforms, land and water trails, water access, field trialing, trail heads, and access for such projects;
 
-&emsp;(6) the term “wildlife conservation and restoration program” means a program developed by a State fish and wildlife department and approved by the Secretary under section 669c(d) <sup>1</sup> of this title, the projects that constitute such a program, which may be implemented in whole or part through grants and contracts by a State to other State, Federal, or local agencies (including those that gather,evaluate, and disseminate information on wildlife and their habitats), wildlife conservation organizations, and outdoor recreation and conservation education entities from funds apportioned under this chapter,<sup>1</sup> and maintenance of such projects;
+&emsp;(6) the term “wildlife conservation and restoration program” means a program developed by a State fish and wildlife department and approved by the Secretary under section 669c(d) <sup>1</sup> of this title, the projects that constitute such a program, which may be implemented in whole or part through grants and contracts by a State to other State, Federal, or local agencies (including those that gather, evaluate, and disseminate information on wildlife and their habitats), wildlife conservation organizations, and outdoor recreation and conservation education entities from funds apportioned under this chapter,<sup>1</sup> and maintenance of such projects;
 
 &emsp;(7) the term “wildlife conservation education” means projects, including public outreach, intended to foster responsible natural resource stewardship; and
 
@@ -28,7 +28,7 @@ This chapter, referred to in par. (6), was in the original “this title”, and
 
 #### Amendments
 
-2000—Pub. L. 106–553 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “For the purposes of this chapter the term ‘wildlife-restoration project’ shall be construed to mean and include the selection, restoration, rehabilitation, and improvement of areas of land or water adaptable as feeding, resting, or breeding places for wildlife, including acquisition by purchase, condemnation, lease, or gift of such areas or estates or interests therein as are suitable or capable of being made suitable therefor, and the construction thereon or therein of such works as may be necessary to make them available for such purposes and also including such research into problems of wildlife management as may be necessary to efficient administration affecting wildlife resources, and such preliminary or incidental costs and expenses as may be incurred in and about such projects; the term ‘State fish and game department’ shall be construed to mean and include any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department.”
+2000—Pub. L. 106–553 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “For the purposes of this chapter the term ‘wildlife-restoration project’ shall be construed to mean and include the selection, restoration, rehabilitation, and improvement of areas of land or water adaptable as feeding, resting, or breeding places for wildlife, including acquisition by purchase, condemnation, lease, or gift of such areas or estates or interests therein as are suitable or capable of being made suitable therefor, and the construction thereon or therein of such works as may be necessary to make them available for such purposes and also including such research into problems of wildlife management as may be necessary to efficient administration affecting wildlife resources, and such preliminary or incidental costs andexpenses as may be incurred in and about such projects; the term ‘State fish and game department’ shall be construed to mean and include any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department.”
 
 1960—Pub. L. 86–624 struck out provisions which defined “State” as including the several States and the Territory of Hawaii.
 
@@ -37,10 +37,6 @@ This chapter, referred to in par. (6), was in the original “this title”, and
 #### Effective Date of 1956 Amendment
 
 Section 5 of act July 2, 1956, provided in part that: “The amendments made by this Act \[amending this section and sections 669g–1, 777a, and 777k of this title\] shall be applicable only with respect to fiscal years beginning after the passage of this Act \[July 2, 1956\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 669g, 669g–1 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

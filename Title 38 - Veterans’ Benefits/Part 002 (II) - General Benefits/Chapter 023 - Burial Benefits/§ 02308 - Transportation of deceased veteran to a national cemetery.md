@@ -14,7 +14,3 @@ Where a veteran dies as the result of a service-connected disability, or is in r
 
 Section effective Oct. 1, 1976, see section 406 of Pub. L. 94–433, set out as an Effective Date of 1976 Amendment note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 113 of this title.
-

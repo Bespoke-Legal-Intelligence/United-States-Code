@@ -10,7 +10,7 @@
 
 &emsp;(C) is not otherwise eligible for the health services provided by the Service,
 
-> shall be eligible for all health services provided by the Service on the same basis and subject to the same rules that apply to eligible Indians until such individual attains 19 years of age. The existing and potential health needs of all such individuals shall be taken into consideration by the Service in determining the need for, or theallocation of, the health resources of the Service. If such an individual has been determined to be legally incompetent prior to attaining 19 years of age, such individual shall remain eligible for such services until one year after the date such disability has been removed.
+> shall be eligible for all health services provided by the Service on the same basis and subject to the same rules that apply to eligible Indians until such individual attains 19 years of age. The existing and potential health needs of all such individuals shall be taken into consideration by the Service in determining the need for, or the allocation of, the health resources of the Service. If such an individual has been determined to be legally incompetent prior to attaining 19 years of age, such individual shall remain eligible for such services until one year after the date such disability has been removed.
 
 (2) Any spouse of an eligible Indian who is not an Indian, or who is of Indian descent but not otherwise eligible for the health services provided by the Service, shall be eligible for such health services if all of such spouses are made eligible, as a class, by an appropriate resolution of the governing body of the Indian tribe of the eligible Indian. The health needs of persons made eligible under this paragraph shall not be taken into consideration by the Service in determining the need for, or allocation of, its health resources.
 
@@ -67,8 +67,4 @@ The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935,
 #### Amendments
 
 1992—Subsec. (b)(2)(A). Pub. L. 102–573, §902(8), substituted “section 1642(a) of this title” for “section 402(c) of this Act”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1621f, 1637, 1645 of this title.
 

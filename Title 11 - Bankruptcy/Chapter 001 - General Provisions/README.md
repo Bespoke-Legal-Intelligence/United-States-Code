@@ -19,10 +19,6 @@
 
 1994—Pub. L. 103–394, title III, §308(b), Oct. 22, 1994, 108 Stat. 4137, added item 110.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 103 of this title; title 15 section 78fff.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
 
 

@@ -36,7 +36,7 @@ Each application submitted under subsection (a) of this section, at a minimum, s
 
 &emsp;&emsp;(B) parents of children enrolled in elementary schools and secondary schools;
 
-&emsp;&emsp;(C) parent training and information centers assisted under section 1482 of this title;
+&emsp;&emsp;(C) parent training and information centers assisted under section 1471 of this title;
 
 &emsp;&emsp;(D) clearinghouses; and
 
@@ -54,5 +54,9 @@ Each application submitted under subsection (a) of this section, at a minimum, s
 
 &emsp;(14) work with and foster partnerships with other agencies that provide programs and deliver services described in paragraph (13) to make such programs and services more accessible to children and families.
 
-(Pub. L. 89–10, title V, §5563, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1857.)
+(Pub. L. 89–10, title V, §5563, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1857; amended Pub. L. 108–446, title III, §305(g)(3), Dec. 3, 2004, 118 Stat. 2805.)
+
+#### Amendments
+
+2004—Subsec. (b)(8)(C). Pub. L. 108–446 substituted “section 1471” for “section 1482”.
 

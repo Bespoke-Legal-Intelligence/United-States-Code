@@ -50,7 +50,3 @@ Transfers Without Regard to Date of Judgment.—(1) Except as provided in sectio
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4961.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3303, 3306, 3307 of this title.
-

@@ -64,7 +64,7 @@ Subject to regulations of the Secretary, a school may assess a charge with respe
 
 #### (i) Charge with respect to late payments
 
-Subject to regulations of the Secretary, and in accordance with this section, a school shall assess a charge with respect to a loan made under this subpart for failure of the borrower to pay all or any part of an installment when it is due and, in the case of a borrower who is entitled to deferment of the loan under subsection (c) of this section, for any failure to file timely and satisfactory evidence of such entitlement. No such charge may be made if the payment of such installment or the filing of such evidence is made within 60 days after the date on which such installment or filing is due. The amount of any such charge may not exceed an amount equal to 6 percent of the amount of such installment. The school may elect to add the amount of any such charge to the principal amount of the loan as of the first day after the day on which such installment or evidence was due, or to make the amount of the charge payable to the school not later than the due date of the next installment after receipt by the borrower of notice of the assessment of the charge.
+Subject to regulations of the Secretary, and in accordance with this section, a school shall assess a charge with respect to a loan made under this subpart for failure of the borrower to pay all or any part of an installment when it is due and, in the case of a borrower who is entitled to deferment of the loan under subsection (c) of this section, for any failure to file timely and satisfactory evidence of such entitlement. No such charge may be made if the payment of suchinstallment or the filing of such evidence is made within 60 days after the date on which such installment or filing is due. The amount of any such charge may not exceed an amount equal to 6 percent of the amount of such installment. The school may elect to add the amount of any such charge to the principal amount of the loan as of the first day after the day on which such installment or evidence was due, or to make the amount of the charge payable to the school not later than the due date of the next installment after receipt by the borrower of notice of the assessment of the charge.
 
 #### (j) Authority of schools regarding rate of payment
 
@@ -94,7 +94,7 @@ The Secretary is authorized to attempt to collect any loan which was made under 
 
 #### (2) Prohibition
 
-&emsp;Notwithstanding any other provision of Federal or State law, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action may be initiated or taken by a school that has an agreement with the Secretary pursuant to section 292q of thistitle that is seeking the repayment of the amount due from a borrower on a loan made under this subpart after the default of the borrower on such loan.
+&emsp;Notwithstanding any other provision of Federal or State law, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action may be initiated or taken by a school that has an agreement with the Secretary pursuant to section 292q of this title that is seeking the repayment of the amount due from a borrower on a loan made under this subpart after the default of the borrower on such loan.
 
 (July 1, 1944, ch. 373, title VII, §722, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2012; amended Pub. L. 103–43, title XX, §2014(b), June 10, 1993, 107 Stat. 215; Pub. L. 105–392, title I, §134(a), (b)(1), Nov. 13, 1998, 112 Stat. 3577, 3578.)
 
@@ -122,7 +122,7 @@ Subsec. (j). Pub. L. 105–392, §134(a)(4), substituted “$40” for “$15”
 
 Subsec. (m). Pub. L. 105–392, §134(b)(1), added subsec. (m).
 
-1993—Subsec. (a). Pub. L. 103–43, §2014(b)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Loans from a student loan fund (established under an agreement with a school under section 292q of this title) may not exceed for any student for each school year (or its equivalent) the sum of—
+1993—Subsec. (a). Pub. L. 103–43, §2014(b)(1), amended heading and text of subsec. (a) generally. Prior toamendment, text read as follows: “Loans from a student loan fund (established under an agreement with a school under section 292q of this title) may not exceed for any student for each school year (or its equivalent) the sum of—
 
 &emsp;“(1) the cost of tuition for such year at such school, and
 
@@ -133,10 +133,6 @@ Subsec. (b)(2), (3). Pub. L. 103–43, §2014(b)(2), redesignated par. (3) as (2
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–392, title I, §134(b)(2), Nov. 13, 1998, 112 Stat. 3578, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to actions pending on or after the date of enactment of this Act \[Nov. 13, 1998\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 292q, 292s, 292v of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “under this subpart”.</i>
 

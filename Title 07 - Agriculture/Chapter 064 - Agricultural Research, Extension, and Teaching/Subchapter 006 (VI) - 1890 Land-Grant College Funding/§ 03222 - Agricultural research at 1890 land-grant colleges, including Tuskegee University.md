@@ -28,11 +28,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any unexpended balance carried over by an eligible institution is not expended by the end of the second fiscal year, an amount equal to the unexpended balance shall be deducted from the next succeeding annual allotment to the eligible institution.
+&emsp;&emsp;&emsp;If any unexpended balance carried over by an eligible institution is not expendedby the end of the second fiscal year, an amount equal to the unexpended balance shall be deducted from the next succeeding annual allotment to the eligible institution.
 
 #### (ii) Redistribution
 
-&emsp;&emsp;&emsp;Federal funds that are deducted under clause (i) for a fiscal year shall be redistributed by the Secretary in accordance with the formula set forth in subsection\(b)(2)(B) of this section to those eligible institutions for which no deduction under clause (i) has been taken for that fiscal year.
+&emsp;&emsp;&emsp;Federal funds that are deducted under clause (i) for a fiscal year shall be redistributed by the Secretary in accordance with the formula set forth in subsection (b)(2)(B) of this section to those eligible institutions for which no deduction under clause (i) has been taken for that fiscal year.
 
 #### (b) Allocation and distribution of appropriated funds
 
@@ -126,7 +126,7 @@ Subsec. (c). Pub. L. 105–185, §225(b), inserted subsec. heading, designated e
 
 Subsec. (g). Pub. L. 105–362, §101(e)(1), struck out “(1)” before “On or before”.
 
-Subsec. (g)(2). Pub. L. 105–362, §101(e)(2), struck out par. (2) which read as follows: “The Secretary shall make an annual report to Congress during the first regular session of each year of the receipts and expenditures and work of the eligible institutions under the provisions of this section and also whether any portion of the appropriation available for allotment to any institution has been withheld and if so the reasons therefor.”
+Subsec. (g)(2). Pub. L. 105–362, §101(e)(2), struck out par. (2) which read as follows: “The Secretary shall make an annual report to Congress during the first regular session of each year of the receipts and expenditures and work of the eligible institutions under theprovisions of this section and also whether any portion of the appropriation available for allotment to any institution has been withheld and if so the reasons therefor.”
 
 Pub. L. 105–185, §226(b) redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “If it appears to the Secretary from the annual statement of receipts and expenditures of funds by any eligible institution that an amount in excess of 5 percent of the preceding annual appropriation allotted to that institution under this section remains unexpended, such amount in excess of 5 percent of the preceding annual appropriation allotted to that institution shall be deducted from the next succeeding annual allotment to the institution.”
 
@@ -161,8 +161,4 @@ Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1140, provided in part that 
 #### Grant for Dairy Goat Research Program
 
 Section 1432(b) of Pub. L. 97–98, as amended by Pub. L. 99–198, title XIV, §1432, Dec. 23, 1985, 99 Stat. 1557; Pub. L. 101–624, title XVI, §1601(c), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §887, Apr. 4, 1996, 110 Stat. 1180, authorized grant for dairy goat research, described uses for grant and times of payment, and authorized appropriations for fiscal years 1991 through 1997, prior to repeal by Pub. L. 105–185, title III, §302(b), June 23, 1998, 112 Stat. 563.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450i, 3222d of this title; title 40 section 525.
 

@@ -20,7 +20,7 @@ The National Board shall use amounts made available under section 2009dd–4(b)(
 
 #### (2) Relationship to planning grants
 
-&emsp;A Regional Board that meets the requirements of paragraph (1) shall be eligible to receive an innovation grant, regardless of whether the Regional Board receives a planning grant.
+&emsp;A Regional Board that meets the requirements of paragraph (1) shall be eligible to receive an innovation grant, regardless ofwhether the Regional Board receives a planning grant.
 
 #### (c) Selection
 
@@ -132,7 +132,7 @@ The National Board may use not more than 5 percent of the amounts made available
 
 &emsp;(2) to provide assistance for emergent innovative opportunities that are not covered by existing regional plans;
 
-&emsp;(3) to provide technical assistance, research, organizational support, and other capacitybuilding infrastructure to support existing Regional Boards;
+&emsp;(3) to provide technical assistance, research, organizational support, and other capacity building infrastructure to support existing Regional Boards;
 
 &emsp;(4) to provide assistance for other entrepreneurial opportunities to advance the goals of the program; or
 
@@ -143,8 +143,4 @@ The National Board may use not more than 5 percent of the amounts made available
 To ensure maximum use of funds provided under this subchapter, the National Board may transfer not more than 10 percent of the amount of funds made available between planning grants and innovation grants.
 
 (Pub. L. 87–128, title III, §385G, as added Pub. L. 107–171, title VI, §6030, May 13, 2002, 116 Stat. 408.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2009dd–1, 2009dd–4 of this title.
 

@@ -60,7 +60,3 @@ Subsec. (d). Pub. L. 101–73, §205(3), added subsec. (d).
 
 Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under section 2062 of Title 50, Appendix, War and National Defense.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1815, 1816, 1817, 1818 of this title.
-

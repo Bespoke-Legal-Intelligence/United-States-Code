@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-In consultation with the heads of other agencies utilizing the Foreign Service system, the Secretary of State shall establish a Foreign Service internship program to carry out the objectives of this subchapter in accordance with the provisions of this subchapter.
+In consultation with the heads of other agencies utilizing the Foreign Service system, theSecretary of State shall establish a Foreign Service internship program to carry out the objectives of this subchapter in accordance with the provisions of this subchapter.
 
 #### (b) Foreign Service Internship Program
 

@@ -14,7 +14,7 @@ Exceptions.—The requirements of subsection (a) shall not apply when—
 
 &emsp;(3) the carrier involved has operated at the affected nonhub airport for 180 days or less;
 
-&emsp;(4) the carrier involved provides other transportation by jet from another airport servingthe same community as the affected nonhub airport; or
+&emsp;(4) the carrier involved provides other transportation by jet from another airport serving the same community as the affected nonhub airport; or
 
 &emsp;(5) the carrier involved makes alternative arrangements, such as a change of aircraft size, or other types of arrangements with a part 121 or part 135 air carrier, that continues uninterrupted service from the affected nonhub airport.
 
@@ -69,8 +69,4 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 #### Effective Date
 
 Section 207(d) of Pub. L. 103–305 provided that: “The amendments made by this section \[enacting this section and amending section 46301 of this title\] shall take effect on February 1, 1995.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41716, 41717, 46301 of this title.
 

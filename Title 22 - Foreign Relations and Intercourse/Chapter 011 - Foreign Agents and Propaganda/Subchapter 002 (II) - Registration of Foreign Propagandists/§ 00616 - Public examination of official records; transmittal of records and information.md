@@ -6,7 +6,7 @@ The Attorney General shall retain in permanent form one copy of all registration
 
 #### (b) Secretary of State
 
-The Attorney General shall, promptly upon receipt, transmit one copy of every registration statement filed hereunder and one copy of every amendment or supplement thereto filed hereunder, to the Secretary of State for such comment and use as the Secretary of State may determine to be appropriate from the point of view of the foreign relations of the United States. Failure of the Attorney General so to transmit such copy shall not be a bar to prosecution under this subchapter.
+The Attorney General shall, promptly upon receipt, transmit one copy of every registrationstatement filed hereunder and one copy of every amendment or supplement thereto filed hereunder, to the Secretary of State for such comment and use as the Secretary of State may determine to be appropriate from the point of view of the foreign relations of the United States. Failure of the Attorney General so to transmit such copy shall not be a bar to prosecution under this subchapter.
 
 #### (c) Executive departments and agencies; Congressional committees
 
@@ -43,8 +43,4 @@ Amendment by Pub. L. 89–486 effective ninety days after July 4, 1966, see sect
 #### Effective Date of 1942 Amendment
 
 Amendment by act Apr. 29, 1942, effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as a note under section 611 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 219.
 

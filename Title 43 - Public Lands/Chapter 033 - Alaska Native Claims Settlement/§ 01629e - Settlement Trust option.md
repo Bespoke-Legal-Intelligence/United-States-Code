@@ -38,7 +38,7 @@
 
 &emsp;(B) remove the trustees of the trust for cause.
 
-> Only a natural person shall be appointed a trustee of a Settlement Trust. An appointment or removal of a trustee in violation of this paragraph shall be void ab initio and shall not be given effect by any court.
+> Only a natural person shall be appointed a trustee of a Settlement Trust. An appointment or removal of a trustee in violation of this paragraphshall be void ab initio and shall not be given effect by any court.
 
 (3) A Native Corporation that has established a Settlement Trust may expand the class of beneficiaries to include holders of Settlement Common Stock issued after the establishment of the trust without compensation to the original beneficiaries.
 
@@ -89,10 +89,6 @@
 2000—Subsec. (c)(8). Pub. L. 106–559 added par. (8).
 
 1998—Subsec. (b)(1)(B). Pub. L. 105–333 inserted “or the land is conveyed for a homesite by the Trust to a beneficiary of the Trust who is also a legal resident under Alaska law of the Native village of the settlor corporation and the conveyance does not exceed 1.5 acres” after “settlor corporation”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1602, 1629b, 1636 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “subsection”.</i>
 

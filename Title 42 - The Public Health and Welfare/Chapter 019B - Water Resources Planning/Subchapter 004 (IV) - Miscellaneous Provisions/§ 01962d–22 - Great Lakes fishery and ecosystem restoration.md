@@ -42,7 +42,7 @@ In this section, the following definitions apply:
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 1 year after December 11, 2000, the Secretary shall develop a plan foractivities of the Corps of Engineers that support the management of Great Lakes fisheries.
+&emsp;&emsp;Not later than 1 year after December 11, 2000, the Secretary shall develop a plan for activities of the Corps of Engineers that support the management of Great Lakes fisheries.
 
 #### (B) Use of existing documents
 

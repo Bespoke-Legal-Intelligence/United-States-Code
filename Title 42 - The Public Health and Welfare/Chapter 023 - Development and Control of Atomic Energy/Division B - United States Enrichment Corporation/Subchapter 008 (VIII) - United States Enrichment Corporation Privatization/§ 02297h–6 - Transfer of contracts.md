@@ -10,7 +10,7 @@ Concurrent with privatization, the Corporation shall transfer to the private cor
 
 #### (b) Nontransferable power contracts
 
-The Corporation shall transfer to the private corporation the right to purchase power from the Secretary under the power purchase contracts for the gaseous diffusion plants executed by the Secretary before July 1, 1993. The Secretary shall continue to receive power for the gaseous diffusion plants under such contracts and shall continue to resell such power to the private corporation at cost during the term of such contracts.
+The Corporation shall transfer to the private corporation the right to purchase power from the Secretary under the power purchase contracts for the gaseous diffusion plants executed by the Secretary before July 1, 1993. The Secretary shall continue to receive power for the gaseous diffusion plants under such contracts and shall continue to resell such power to theprivate corporation at cost during the term of such contracts.
 
 #### (c) Effect of transfer
 
@@ -36,9 +36,5 @@ The Corporation may establish prices for its products, materials, and services p
 
 #### Codification
 
-Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus ConsolidatedRescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2297h–4, 2297h–7 of this title.
+Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 

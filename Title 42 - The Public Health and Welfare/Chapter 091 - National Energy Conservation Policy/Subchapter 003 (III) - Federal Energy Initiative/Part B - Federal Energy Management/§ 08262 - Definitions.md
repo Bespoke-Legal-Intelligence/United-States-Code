@@ -22,10 +22,6 @@ This subtitle, referred to in text, is subtitle F (§§151–168) of title I of 
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8262c of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The word “means” probably should not appear.</i>

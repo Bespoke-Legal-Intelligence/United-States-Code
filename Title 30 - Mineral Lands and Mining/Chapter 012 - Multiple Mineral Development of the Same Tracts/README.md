@@ -32,10 +32,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 541, 541b, 541h, 1005 of this title.
-
 
 ---
 

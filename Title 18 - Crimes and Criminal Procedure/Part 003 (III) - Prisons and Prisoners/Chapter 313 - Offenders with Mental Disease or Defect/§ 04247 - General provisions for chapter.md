@@ -64,11 +64,11 @@ Videotape Record.—Upon written request of defense counsel, the court may order
 
 (g)
 
-Habeas Corpus Unimpaired.—Nothing contained in section 4243 or 4246 precludes a person who is committed under either of such sections from establishing by writ of habeas corpus the illegality of his detention.
+Habeas Corpus Unimpaired.—Nothing contained in section 4243 or 4246 precludes a person who is committed under either of such sectionsfrom establishing by writ of habeas corpus the illegality of his detention.
 
 (h)
 
-Discharge.—Regardless of whether the director of the facility in which a person is hospitalized has filed a certificate pursuant to the provisions of subsection (e) of section 4241, 4244, 4245, or 4246, or subsection (f) of section 4243,counsel for the person or his legal guardian may, at any time during such person's hospitalization, file with the court that ordered the commitment a motion for a hearing to determine whether the person should be discharged from such facility, but no such motion may be filed within one hundred and eighty days of a court determination that the person should continue to be hospitalized. A copy of the motion shall be sent to the director of the facility in which the person is hospitalized and to the attorney for the Government.
+Discharge.—Regardless of whether the director of the facility in which a person is hospitalized has filed a certificate pursuant to the provisions of subsection (e) of section 4241, 4244, 4245, or 4246, or subsection (f) of section 4243, counsel for the person or his legal guardian may, at any time during such person's hospitalization, file with the court that ordered the commitment a motion for a hearing to determine whether the person should be discharged from such facility, but no such motion may be filed within one hundred and eighty days of a court determination that the person should continue to be hospitalized. A copy of the motion shall be sent to the director of the facility in which the person is hospitalized and to the attorney for the Government.
 
 (i)
 
@@ -113,8 +113,4 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provid
 #### Transfer of Functions
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4241, 4242, 4243, 4244, 4245, 4246 of this title; title 10 section 876b.
 

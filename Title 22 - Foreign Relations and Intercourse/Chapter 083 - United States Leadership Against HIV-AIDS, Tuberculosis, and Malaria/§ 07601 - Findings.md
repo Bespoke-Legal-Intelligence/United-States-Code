@@ -32,7 +32,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(C) increasing the vulnerability of local populations to HIV/AIDS in conflict zones from peacekeeping troops with HIV infection rates significantly higher than civilian populations.
 
-&emsp;(11) The devastation wrought by the HIV/AIDS pandemic is compounded by the prevalence of tuberculosis and malaria, particularly in developing countries where the poorest and most vulnerable members of society, including women, children, and those individuals living with HIV/AIDS, become infected. According to the World Health Organization (WHO), HIV/AIDS, tuberculosis, and malaria accounted for more than 5,700,000 deaths in 2001 and caused debilitating illnesses in millions more.
+&emsp;(11) The devastation wrought by the HIV/AIDS pandemic is compounded by the prevalence of tuberculosis and malaria, particularly in developing countries where the poorest and most vulnerable members of society, including women, children, and those individuals living with HIV/AIDS, become infected. According tothe World Health Organization (WHO), HIV/AIDS, tuberculosis, and malaria accounted for more than 5,700,000 deaths in 2001 and caused debilitating illnesses in millions more.
 
 &emsp;(12) Together, HIV/AIDS, tuberculosis, malaria and related diseases are undermining agricultural production throughout Africa. According to the United Nations Food and Agricultural Organization, 7,000,000 agricultural workers throughout 25 African countries have died from AIDS since 1985. Countries with poorly developed agricultural systems, which already face chronic food shortages, are the hardest hit, particularly in sub-Saharan Africa, where high HIV prevalence rates are compounding the risk of starvation for an estimated 14,400,000 people.
 
@@ -56,7 +56,7 @@ Congress makes the following findings:
 
 &emsp;(C) Uganda's successful AIDS treatment and prevention program is referred to as the ABC model: “Abstain, Be faithful, use Condoms”, in order of priority. Jamaica, Zambia, Ethiopia and Senegal have also successfully used the ABC model. Beginning in 1986, Uganda brought about a fundamental change in sexual behavior by developing a low-cost program with the message: “Stop having multiple partners. Be faithful. Teenagers, wait until you are married before you begin sex.”.
 
-&emsp;(D) By 1995, 95 percent of Ugandans were reporting either one or zero sexual partners in the past year, and the proportion of sexually active youth declined significantly from the late 1980s to the mid-1990s. The greatest percentage decline in HIV infections and the greatest degree of behavioral change occurred in those 15 to 19 years old. Uganda's success shows that behavior change, through the useof the ABC model, is a very successful way to prevent the spread of HIV.
+&emsp;(D) By 1995, 95 percent of Ugandans were reporting either one or zero sexual partners in the past year, and the proportion of sexually active youth declined significantly from the late 1980s to the mid-1990s. The greatest percentage decline in HIV infections and the greatest degree of behavioral change occurred in those 15 to 19 years old. Uganda's success shows that behavior change, through the use of the ABC model, is a very successful way to prevent the spread of HIV.
 
 &emsp;(21) The magnitude and scope of the HIV/AIDS crisis demands a comprehensive, long-term, international response focused upon addressing the causes, reducing the spread, and ameliorating the consequences of the HIV/AIDS pandemic, including—
 
@@ -98,5 +98,9 @@ Congress makes the following findings:
 
 #### Short Title
 
-Pub. L. 108–25, §1(a), May 27, 2003, 117 Stat. 711, provided that: “This Act \[enacting this chapter and sections 262p–8 and 2151b–2 to 2151b–4 of this title and amending sections 2151b, 2222, and 2651a of this title and section 242l of Title 42, The Public Health and Welfare\] may be cited as the ‘United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003’.”
+Pub. L. 108–25, §1(a), May 27, 2003, 117 Stat. 711, provided that: “This Act \[enacting this chapter and sections 262p–8 and 2151b–2 to 2151b–4 of this title andamending sections 2151b, 2222, and 2651a of this title and section 242l of Title 42, The Public Health and Welfare\] may be cited as the ‘United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003’.”
+
+#### Delegation of Functions
+
+For delegation of functions of President under this chapter, except for functions set forth in section 7622(d)(4)(C)(i), (ii) of this title, to Secretary of State, see section 1–100(a)(16) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

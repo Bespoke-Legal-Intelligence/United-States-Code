@@ -42,7 +42,3 @@ Amendment by Pub. L. 105–26 applicable with respect to all conduct occurring b
 
 Section applicable with respect to conduct occurring before, on, or after Dec. 8, 1995, see section 4 of Pub. L. 104–63, set out as a note under section 37 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 37 of this title.
-

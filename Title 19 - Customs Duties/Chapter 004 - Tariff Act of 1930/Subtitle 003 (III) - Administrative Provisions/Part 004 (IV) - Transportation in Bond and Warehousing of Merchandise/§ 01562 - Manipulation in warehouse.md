@@ -14,7 +14,7 @@ Unless by special authority of the Secretary of the Treasury, no merchandise sha
 
 &emsp;&emsp;&emsp;(ii) the total amount of customs duties paid on the merchandise to the NAFTA country;
 
-&emsp;(3) without payment of duties for exportation to any foreign country other than toChile, to a NAFTA country, or to Canada when exports to that country are subject to paragraph (4);
+&emsp;(3) without payment of duties for exportation to any foreign country other than to Chile, to a NAFTA country, or to Canada when exports to that country are subject to paragraph (4);
 
 &emsp;(4) without payment of duties for exportation to Canada (if that country ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates), but the exemption from the payment of duties under this paragraph applies only in the case of an exportation during the period such Agreement is in operation of merchandise that—
 
@@ -115,8 +115,4 @@ Amendment by act Aug. 8, 1953, effective on and after thirtieth day following Au
 #### Effective Date of 1938 Amendment
 
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under section 1401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1503, 1508 of this title.
 

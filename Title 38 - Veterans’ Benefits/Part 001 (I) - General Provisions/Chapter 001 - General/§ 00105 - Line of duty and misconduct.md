@@ -24,7 +24,3 @@ Subsec. (b)(1). Pub. L. 99–576, §701(4)(B), substituted “service or by abse
 
 Section 8052(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section and sections 310 and 331 \[now 1110 and 1131\] of this title\] shall take effect with respect to claims filed after October 31, 1990.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 50 App. section 594.
-

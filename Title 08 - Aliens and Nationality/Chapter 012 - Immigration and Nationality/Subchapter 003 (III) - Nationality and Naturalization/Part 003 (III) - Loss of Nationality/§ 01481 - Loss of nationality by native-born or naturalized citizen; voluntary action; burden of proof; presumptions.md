@@ -16,7 +16,7 @@
 
 &emsp;(7) committing any act of treason against, or attempting by force to overthrow, or bearing arms against, the United States, violating or conspiring to violate any of the provisions of section 2383 of title 18, or willfully performing any act in violation of section 2385 of title 18, or violating section 2384 of title 18 by engaging in a conspiracy to overthrow, put down, or to destroy by force the Government of the United States, or to levy war against them, if and when he is convicted thereof by a court martial or by a court of competent jurisdiction.
 
-(b) Whenever the loss of United States nationality is put in issue in any action or proceeding commenced on or after September 26, 1961 under, or by virtue of, the provisions of this chapter orany other Act, the burden shall be upon the person or party claiming that such loss occurred, to establish such claim by a preponderance of the evidence. Any person who commits or performs, or who has committed or performed, any act of expatriation under the provisions of this chapter or any other Act shall be presumed to have done so voluntarily, but such presumption may be rebutted upon a showing, by a preponderance of the evidence, that the act or acts committed or performed were not done voluntarily.
+(b) Whenever the loss of United States nationality is put in issue in any action or proceeding commenced on or after September 26, 1961 under, or by virtue of, the provisions of this chapter or any other Act, the burden shall be upon the person or party claiming that such loss occurred, to establish such claim by a preponderance of the evidence. Any person who commits or performs, or who has committed or performed, any act of expatriation under the provisions of this chapter or any other Act shall be presumed to have done so voluntarily, but such presumption may be rebutted upon a showing, by a preponderance of the evidence, that the act or acts committed or performed were not done voluntarily.
 
 (June 27, 1952, ch. 477, title III, ch. 3, §349, 66 Stat. 267; Sept. 3, 1954, ch. 1256, §2, 68 Stat. 1146; Pub. L. 87–301, §19, Sept. 26, 1961, 75 Stat. 656; Pub. L. 94–412, title V, §501(a), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 95–432, §§2, 4, Oct. 10, 1978, 92 Stat. 1046; Pub. L. 97–116, §18(k)(2), (q), Dec. 29, 1981, 95 Stat. 1620, 1621; Pub. L. 99–653, §§18, 19, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §§8(m), (n), 9(hh), Oct. 24, 1988, 102 Stat. 2618, 2622.)
 
@@ -32,7 +32,7 @@ Subsecs. (a) to (c). Pub. L. 100–525, §8(m), (n), amended Pub. L. 99–653. S
 
 1986—Subsec. (a). Pub. L. 99–653, §18(a), as amended by Pub. L. 100–525, §8(m)(1), inserted “voluntarily performing any of the following acts with the intention of relinquishing United States nationality” after “his nationality by”.
 
-Subsec. (a)(1). Pub. L. 99–653, §18(b), substituted “or upon an application filed by a duly authorized agent, after having attained the age of eighteen years” for “upon an application filed in his behalf by a parent, guardian, or duly authorized agent, or through the naturalization of a parent having legal custody of such person: <i>Provided</i> That nationality shall not be lost by any person under this section as the result of the naturalization of a parent or parents while such person is under the age of twenty-one years, or as the result of a naturalization obtained on behalf of a person under twenty-one years of age by a parent, guardian, or duly authorized agent, unless such person shall fail to enter the United States to establish a permanent residence prior to his twenty-fifth birthday: <i>And provided further</i>, That a person who shall have lost nationality prior to January 1, 1948, through the naturalization in a foreign state of a parent or parents, may, within one year from the effective date of this chapter, apply for a visa and for admission to the United States as a special immigrant under the provisions of section 1101(a)(27)(E) of this title”.
+Subsec. (a)(1). Pub. L. 99–653, §18(b), substituted “or upon an application filed by a duly authorized agent,after having attained the age of eighteen years” for “upon an application filed in his behalf by a parent, guardian, or duly authorized agent, or through the naturalization of a parent having legal custody of such person: <i>Provided</i> That nationality shall not be lost by any person under this section as the result of the naturalization of a parent or parents while such person is under the age of twenty-one years, or as the result of a naturalization obtained on behalf of a person under twenty-one years of age by a parent, guardian, or duly authorized agent, unless such person shall fail to enter the United States to establish a permanent residence prior to his twenty-fifth birthday: <i>And provided further</i>, That a person who shall have lost nationality prior to January 1, 1948, through the naturalization in a foreign state of a parent or parents, may, within one year from the effective date of this chapter, apply for a visa and for admission to the United States as a special immigrant under the provisions of section 1101(a)(27)(E) of this title”.
 
 Subsec. (a)(2). Pub. L. 99–653, §18(c), inserted “, after having attained the age of eighteen years” after “political subdivision thereof”.
 
@@ -76,7 +76,7 @@ Section 1 of act Sept. 3, 1954, provided: “That this Act \[amending this secti
 
 #### Savings Provision
 
-Amendment by Pub. L. 94–412 not to affect any action taken or proceeding pending at the time of amendment,see section 501(h) of Pub. L. 94–412, set out as a note under section 1601 of Title 50, War and National Defense.
+Amendment by Pub. L. 94–412 not to affect any action taken or proceeding pending at the time of amendment, see section 501(h) of Pub. L. 94–412, set out as a note under section 1601 of Title 50, War and National Defense.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -85,8 +85,4 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 #### Right of Expatriation
 
 R.S. §1999 provided that: “Whereas the right of expatriation is a natural and inherent right of all people, indispensable to the enjoyment of the rights of life, liberty, and the pursuit of happiness; and whereas in the recognition of this principle this Government has freely received emigrants from all nations, and invested them with the rights of citizenship; and whereas it is claimed that such American citizens, with their descendants, are subjects of foreign states, owing allegiance to the governments thereof; and whereas it is necessary to the maintenance of public peace that this claim of foreign allegiance should be promptly and finally disavowed: Therefore any declaration, instruction, opinion, order, or decision of any officer of the United States which denies, restricts, impairs, or questions the right of expatriation, is declared inconsistent with the fundamental principles of the Republic.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1483 of this title; title 26 section 6039G.
 

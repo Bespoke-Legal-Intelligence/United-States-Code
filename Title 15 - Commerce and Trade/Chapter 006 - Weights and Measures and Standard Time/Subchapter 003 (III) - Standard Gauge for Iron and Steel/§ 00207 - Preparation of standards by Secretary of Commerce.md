@@ -12,7 +12,3 @@ Act Mar. 4, 1913, created Department of Labor, and renamed Department of Commerc
 
 Act Feb. 14, 1903, transferred National Bureau of Standards from Treasury Department to Department of Commerce and Labor.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 206 of this title.
-

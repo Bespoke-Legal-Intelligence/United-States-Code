@@ -123,10 +123,6 @@ Pub. L. 90–367, §2(b), June 29, 1968, 82 Stat. 277, added item 6312.
 
 1966—Pub. L. 89–747, §1(3), Nov. 2, 1966, 80 Stat. 1179, inserted reference to leave for crews of vessels in item 6305.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 4703 of this title; title 22 section 7002; title 24 section 225e; title 25 section 2012; title 28 section 996.
-
 
 ---
 

@@ -10,7 +10,3 @@ The Secretary of Commerce (hereinafter referred to as the “Secretary”) is di
 
 (Sept. 9, 1950, ch. 936, §2, 64 Stat. 823.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1525, 3704 of this title.
-

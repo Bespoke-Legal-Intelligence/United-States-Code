@@ -42,7 +42,3 @@ Another prior section 1034, Pub. L. 89–329, title II, §223, formerly §224, N
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1022, 1023, 1024 of this title.
-

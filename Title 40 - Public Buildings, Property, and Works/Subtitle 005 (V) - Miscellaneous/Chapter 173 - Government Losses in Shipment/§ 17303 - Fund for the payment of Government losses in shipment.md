@@ -76,7 +76,3 @@ In subsection (b), the text of 40:723 (2d sentence 2d proviso) is omitted as obs
 
 In subsection (e), the text of 40:722 (1st sentence words before 5th comma, 2d sentence, 3d sentence words after 2d comma, and last sentence) and the words “Beginning in fiscal year 1995 and thereafter” in 40:722a are omitted as obsolete. The words “for the fund” are substituted for “to make payments for the replacement of valuables, or the value thereof, lost, destroyed, or damaged in the course of shipments effected pursuant to section 721 of this title” for clarity and to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 17304, 17305, 17306 of this title; title 31 section 3126; title 46 App. section 1285; title 49 section 44305.
-

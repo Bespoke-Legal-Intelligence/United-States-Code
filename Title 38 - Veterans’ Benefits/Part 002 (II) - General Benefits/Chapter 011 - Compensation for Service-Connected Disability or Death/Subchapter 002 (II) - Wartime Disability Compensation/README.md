@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—WARTIME DISABILITY COMPENSATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 107, 1157 of this title; title 26 section 6334.
-
 
 ---
 

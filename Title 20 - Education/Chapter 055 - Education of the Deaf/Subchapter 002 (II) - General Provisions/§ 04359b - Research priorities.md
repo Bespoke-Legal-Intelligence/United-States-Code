@@ -20,6 +20,10 @@ A prior section 210 of Pub. L. 99–371 was renumbered section 209 and is classi
 
 Another prior section 210 of title II of Pub. L. 99–371, formerly title IV, §410, Aug. 4, 1986, 100 Stat. 794; renumbered title II, §210, Pub. L. 102–241, title I, §101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151, repealed sections 681 to 685, 691 to 691g, 693 to 693b, and 695 to 695c of this title and provisions set out as notes under sections 681 and 693 of this title, prior to repeal by Pub. L. 102–421, title I, §139, Oct. 16, 1992, 106 Stat. 2163.
 
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 #### Effective Date
 
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(ii) after consultation with the Secretary of the Interior, any commercial, governmental, or recreational resource uses in the areas that are subject to the primary jurisdiction of the Department of the Interior; and
 
-&emsp;&emsp;&emsp;(iii) information prepared in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator of the Environmental Protection Agency, on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary.
+&emsp;&emsp;&emsp;(iii) information prepared in consultation with the Secretary of Defense, theSecretary of Energy, and the Administrator of the Environmental Protection Agency, on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary.
 
 > &emsp;&emsp;Public disclosure by the Secretary of such information shall be consistent with national security regulations.
 
@@ -68,7 +68,7 @@
 
 #### (1) Notice
 
-&emsp;In designating a national marine sanctuary, the Secretary shall publish in the Federal Register notice of the designation together with final regulations to implement the designation and any other matters required by law, and submit such notice to the Congress. The Secretary shall advise the public of the availability of the final management plan and the final environmental impact statement with respect to such sanctuary. The Secretary shall issue a notice of designation with respect to a proposed national marine sanctuary site not later than 30 months after the date a notice declaring the site to be an active candidate for sanctuary designation is published in the Federal Register under regulations issued under this Act, or shall publish not later than such date in the Federal Register findings regarding why such notice has not been published. No notice of designation may occur until the expiration of the period for Committee action under subsection (a)(6) of this section. The designation (and any of its terms not disapproved under this subsection) and regulations shall take effect and become final afterthe close of a review period of forty-five days of continuous session of Congress beginning on the day on which such notice is published unless, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.
+&emsp;In designating a national marine sanctuary, the Secretary shall publish in the Federal Register notice of the designation together with final regulations to implement the designation and any other matters required by law, and submit such notice to the Congress. The Secretary shall advise the public of the availability of the final management plan and the final environmental impact statement with respect to such sanctuary. The Secretary shall issue a notice of designation with respect to a proposed national marine sanctuary site not later than 30 months after the date a notice declaring the site to be an active candidate for sanctuary designation is published in the Federal Register under regulations issued under this Act, or shall publish not later than such date in the Federal Register findings regarding why such notice has not been published. No notice of designation may occur until the expiration of the period for Committee action under subsection (a)(6) of this section. The designation (and any of its terms not disapproved under this subsection) and regulations shall take effect and become final after the close of a review period of forty-five days of continuous session of Congress beginning on the day on which such notice is published unless, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.
 
 #### (2) Withdrawal of designation
 
@@ -196,7 +196,7 @@ Subsec. (b)(1). Pub. L. 102–587, §2104(b)(1), substituted at end “, in the
 
 “(A) the designation or any of its terms is disapproved by enactment of a joint resolution of disapproval described in paragraph (3); or
 
-“(B) in the case of a natural marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.”
+“(B) in the case of a natural marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation orthe unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.”
 
 Subsec. (b)(2). Pub. L. 102–587, §2104(b)(2), substituted “actions taken under paragraph (1)” for “actions taken under paragraph (1)(A) or (B)” and “terms of the designation not certified under paragraph (1)” for “terms of the designation not disapproved under paragraph (1)(A) or not certified under paragraph (1)(B)”.
 
@@ -229,8 +229,4 @@ Subsecs. (d), (e). Pub. L. 102–587, §2104(d), added subsecs. (d) and (e).
 Pub. L. 106–562, title III, §307(c), Dec. 23, 2000, 114 Stat. 2807, provided that: “Subsection (a) \[amending this section\] shall take effect January 1, 2001.”
 
 Amendment by Pub. L. 106–555 effective immediately after the National Marine Sanctuaries Amendments Act of 2000, Pub. L. 106–513, takes effect, see section 205(c) of Pub. L. 106–555, set out as a note under section 1433 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1432, 1435 of this title.
 

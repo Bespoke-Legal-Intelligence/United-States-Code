@@ -32,7 +32,3 @@ Assumption of jurisdiction under this section shall not affect any action or pro
 
 Act of August 15, 1953, referred to in subsec. (a), is act Aug. 15, 1953, ch. 505, 67 Stat. 588, as amended, which enacted section 1162 of Title 18, Crimes and Criminal Procedure, section 1360 of Title 28, Judiciary and Judicial Procedure, and provisions set out as notes under section 1360 of Title 28. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1727, 1923 of this title.
-

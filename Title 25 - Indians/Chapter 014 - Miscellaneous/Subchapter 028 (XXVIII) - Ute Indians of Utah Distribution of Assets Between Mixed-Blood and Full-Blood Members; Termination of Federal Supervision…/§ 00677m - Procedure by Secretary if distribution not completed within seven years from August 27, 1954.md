@@ -4,7 +4,3 @@ In the event all the tribal assets, susceptible to equitable and practicable dis
 
 (Aug. 27, 1954, ch. 1009, §14, 68 Stat. 875.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 677<i>l</i> of this title.
-

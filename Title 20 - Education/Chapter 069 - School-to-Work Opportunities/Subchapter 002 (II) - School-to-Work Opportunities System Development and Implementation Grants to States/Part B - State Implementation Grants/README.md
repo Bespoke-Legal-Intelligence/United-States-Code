@@ -1,9 +1,5 @@
 Part B—State Implementation Grants
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 6162, 6211 of this title.
-
 
 ---
 

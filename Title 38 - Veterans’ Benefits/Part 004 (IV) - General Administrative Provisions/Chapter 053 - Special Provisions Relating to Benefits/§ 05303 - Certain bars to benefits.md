@@ -50,7 +50,7 @@ Subsec. (e)(2). Pub. L. 99–576, §701(70)(D), substituted “the” for “his
 
 1982—Subsec. (e)(2)(B). Pub. L. 97–295 substituted “before October 9, 1978,” for “within one year after the date of enactment of this paragraph”, “before October 9, 1977,” for “on or prior to the date of enactment of this paragraph”, and “October 8, 1977” for “such enactment date”.
 
-1977—Subsec. (a). Pub. L. 95–126, §1(a)(1), inserted provisions barring a person in the Armed Forces from being a recipient of benefits when discharged on the basis of an absence without authority from active duty for a continuous period of at least one hundred and eighty days if such person was discharged under conditions other than honorable unless such person demonstrates to the satisfaction of the Administrator that there are compelling circumstances to warrant such prolonged unauthorized absence and barred benefits notwithstanding any action subsequent to the date of such discharge by a board established pursuant to section 1553 of Title 10.
+1977—Subsec. (a). Pub. L. 95–126, §1(a)(1), inserted provisions barring a person in the Armed Forces frombeing a recipient of benefits when discharged on the basis of an absence without authority from active duty for a continuous period of at least one hundred and eighty days if such person was discharged under conditions other than honorable unless such person demonstrates to the satisfaction of the Administrator that there are compelling circumstances to warrant such prolonged unauthorized absence and barred benefits notwithstanding any action subsequent to the date of such discharge by a board established pursuant to section 1553 of Title 10.
 
 Subsec. (e). Pub. L. 95–126, §1(a)(2), added subsec. (e).
 
@@ -85,8 +85,4 @@ Pub. L. 95–126, §2, Oct. 8, 1977, 91 Stat. 1107, as amended by Pub. L. 100–
 #### Regulations Respecting Standards and Procedures for Determination of Separation From Active Service Under Conditions Other Than Dishonorable Free of Unique or Special Advantages or Special Distinctions Between Veterans
 
 Pub. L. 95–126, §4, Oct. 8, 1977, 91 Stat. 1108, as amended by Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239, provided that: “In promulgating, or making any revisions of or amendments to, regulations governing the standards and procedures by which the Department of Veterans Affairs determines whether a person was discharged or released from active military, naval, or air service under conditions other than dishonorable, the Secretary of Veterans Affairs shall, in keeping with the spirit and intent of this Act \[amending this section and section 101(18) of this title and enacting provisions set out as notes under this section\], not promulgate any such regulations or revise or amend any such regulations for the purpose of, or having the effect of, (1) providing any unique or special advantage to veterans awarded general or honorable discharges under revised standards for the review of discharges described in section 5303(e)(2)(A)(i), (ii), or (iii) \[formerly 3103(e)(2)(A)(i), (ii), or (iii)\] of title 38, United States Code, as added by section 1(a)(2) of this Act, or (2) otherwise making any special distinction between such veterans and other veterans.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3103 of this title.
 

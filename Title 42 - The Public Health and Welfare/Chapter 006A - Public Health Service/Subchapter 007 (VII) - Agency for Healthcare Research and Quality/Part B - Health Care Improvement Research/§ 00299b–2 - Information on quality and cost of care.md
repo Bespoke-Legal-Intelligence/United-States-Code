@@ -20,7 +20,7 @@ The Director shall—
 
 &emsp;&emsp;(C) provide reliable national estimates for children and persons with special health care needs through the use of supplements or periodic expansions of the survey.
 
-> &emsp;In expanding the Medical Expenditure Panel Survey, as in existence on December 6, 1999, in fiscal year 2001 to collect information on the quality of care, the Director shall take into account any outcomes measurements generally collected by private sector accreditation organizations.
+> &emsp;In expanding the Medical Expenditure Panel Survey, as in existence on December 6, 1999, infiscal year 2001 to collect information on the quality of care, the Director shall take into account any outcomes measurements generally collected by private sector accreditation organizations.
 
 #### (2) Annual report
 
@@ -35,8 +35,4 @@ December 6, 1999, referred to in subsec. (b)(1), was in the original “the date
 #### Prior Provisions
 
 A prior section 299b–2, act July 1, 1944, ch. 373, title IX, §913, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2193; amended Pub. L. 102–410, §5(c)(2), (f)(1)(A), Oct. 13, 1992, 106 Stat. 2097, 2098, related to development of guidelines and standards, prior to the general amendment of this subchapter by Pub. L. 106–129.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1320b–12 of this title.
 

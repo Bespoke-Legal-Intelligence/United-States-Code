@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—OFFICE OF SURFACE MINING RECLAMATION AND ENFORCEMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1291 of this title.
-
 
 ---
 

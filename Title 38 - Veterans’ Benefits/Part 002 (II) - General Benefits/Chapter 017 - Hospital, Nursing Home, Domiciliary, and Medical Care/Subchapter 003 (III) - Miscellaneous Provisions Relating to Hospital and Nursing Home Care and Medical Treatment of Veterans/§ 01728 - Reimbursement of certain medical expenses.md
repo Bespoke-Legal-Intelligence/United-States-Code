@@ -52,7 +52,3 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 Section effective Jan. 1, 1971, see section 501 of Pub. L. 93–82, set out as an Effective Date of 1973 Amendment note under section 1701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1725 of this title.
-

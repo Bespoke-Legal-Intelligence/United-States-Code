@@ -24,7 +24,3 @@ A State may receive a development grant under section 6122 of this title for a f
 
 (Pub. L. 103–239, title II, §206, May 4, 1994, 108 Stat. 581.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6144 of this title.
-

@@ -18,7 +18,7 @@ Abusive debt collection practices are carried on to a substantial extent in inte
 
 #### (e) Purposes
 
-It is the purpose of this subchapter to eliminate abusive debt collection practices by debt collectors, to insure that those debt collectorswho refrain from using abusive debt collection practices are not competitively disadvantaged, and to promote consistent State action to protect consumers against debt collection abuses.
+It is the purpose of this subchapter to eliminate abusive debt collection practices by debt collectors, to insure that those debt collectors who refrain from using abusive debt collection practices are not competitively disadvantaged, and to promote consistent State action to protect consumers against debt collection abuses.
 
 (Pub. L. 90–321, title VIII, §802, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874.)
 

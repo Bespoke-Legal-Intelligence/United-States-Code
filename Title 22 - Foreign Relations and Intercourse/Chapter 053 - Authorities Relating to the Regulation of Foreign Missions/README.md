@@ -87,10 +87,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 302, 2684, 4852 of this title; title 3 section 208.
-
 
 ---
 

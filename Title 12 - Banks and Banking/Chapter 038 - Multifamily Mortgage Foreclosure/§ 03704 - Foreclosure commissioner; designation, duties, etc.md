@@ -4,7 +4,3 @@ A foreclosure commissioner or commissioners designated pursuant to this chapter 
 
 (Pub. L. 97–35, title III, §365, Aug. 13, 1981, 95 Stat. 423.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3707, 3708 of this title.
-

@@ -2,7 +2,7 @@
 
 (a) A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent without leave or over leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.
 
-(b) A commissioned officer of the Regular Corps of the Public Health Service, or an officerof the Reserve Corps of the Public Health Service on active duty, who is absent without leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.
+(b) A commissioned officer of the Regular Corps of the Public Health Service, or an officer of the Reserve Corps of the Public Health Service on active duty, who is absent without leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 482; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 96–513, title V, §516(15), Dec. 12, 1980, 94 Stat. 2939.)
 

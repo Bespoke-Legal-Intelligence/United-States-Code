@@ -20,7 +20,7 @@
 
 &emsp;(A) the term “law firm owned and controlled by socially and economically disadvantaged individuals” means a law firm that meets the requirements set forth in clauses (i) and (ii) of section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 637(d)(3)(C)(i) and (ii)) and regulations issued under those clauses;
 
-&emsp;(B) “socially and economically disadvantaged individuals” shall be presumed to include these groups and individuals described in the last paragraph of section 8(d)(3)(C) of the Small Business Act; and
+&emsp;(B) “socially and economically disadvantaged individuals” shall be presumed to include these <sup>1</sup> groups and individuals described in the last paragraph of section 8(d)(3)(C) of the Small Business Act; and
 
 &emsp;(C) the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act.
 
@@ -30,7 +30,7 @@
 
 &emsp;(A) a provision permitting the Attorney General to terminate either the contract or the private counsel's representation of the United States in particular cases if the Attorney General finds that such action is for the convenience of the Government;
 
-&emsp;(B) a provision stating that the head of the executive or <sup>1</sup> legislative agency which refers a claim under the contract retains the authority to resolve a dispute regarding the claim, to compromise the claim, or to terminate a collection action on the claim; and
+&emsp;(B) a provision stating that the head of the executive or <sup>2</sup> legislative agency which refers a claim under the contract retains the authority to resolve a dispute regarding the claim, to compromise the claim, or to terminate a collection action on the claim; and
 
 &emsp;(C) a provision requiring the private counsel to transmit monthly to the Attorney General and the head of the executive or <sup>1</sup> legislative agency referring a claim under the contract a report on the services relating to the claim rendered under the contract during the month and the progress made during the month in collecting the claim under the contract.
 
@@ -58,9 +58,9 @@
 
 (f) This section does not apply to the collection of debts under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
-(g) In order to assist Congress in determining whether use of private counsel is a cost-effective method of collecting Government debts, the Attorney General shall, following consultation with the General Accounting Office, maintain and make available to the Inspector General of the Department of Justice, statistical data relating to the comparative costs of debt collection by participating United States Attorneys’ Offices and by private counsel.
+(g) In order to assist Congress in determining whether use of private counsel is a cost-effective method of collecting Government debts, the Attorney General shall, following consultation with the Government Accountability Office, maintain and make available to the Inspector General of the Department of Justice, statistical data relating to the comparative costs of debt collection by participating United States Attorneys’ Offices and by private counsel.
 
-(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983,97 Stat. 1104; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, §1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, §6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, §4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, §31001(c)(1), (<i>l</i>), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, §604(e)(1), Dec. 2, 1997, 111 Stat. 2633.)
+(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983,97 Stat. 1104; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, §1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, §6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, §4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, §31001(c)(1), (<i>l</i>), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, §604(e)(1), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 Historical and Revision Notes
 
@@ -108,6 +108,8 @@ The Fair Debt Collection Practices Act, referred to in subsec. (b)(6), is title 
 
 #### Amendments
 
+2004—Subsec. (g). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
 1997—Subsec. (b)(1)(B). Pub. L. 105–135, §604(e)(1)(A), inserted “and law firms that are qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act)” after “disadvantaged individuals”.
 
 Subsec. (b)(3). Pub. L. 105–135, §604(e)(1)(B)(i), inserted “and law firms that are qualified HUBZone small business concerns” after “economically disadvantaged individuals” in introductory provisions.
@@ -148,7 +150,7 @@ Section 7 of Pub. L. 102–589 provided that: “The provisions of this Act \[am
 
 #### Effective and Termination Dates of 1986 Amendment
 
-Section 5 of Pub. L. 99–578, as amended by Pub. L. 102–589, §4(c), Nov. 10, 1992, 106 Stat. 5134, which provided that Pub. L. 99–578 and the amendments made by section 1 of Pub. L. 99–578 (amending this section andenacting provisions set out as notes under this section) were to be in effect until Sept. 30, 1996, was repealed by Pub. L. 104–134, title III, §31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
+Section 5 of Pub. L. 99–578, as amended by Pub. L. 102–589, §4(c), Nov. 10, 1992, 106 Stat. 5134, which provided that Pub. L. 99–578 and the amendments made by section 1 of Pub. L. 99–578 (amending this section and enacting provisions set out as notes under this section) were to be in effect until Sept. 30, 1996, was repealed by Pub. L. 104–134, title III, §31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
 
 #### Regulations
 
@@ -200,9 +202,7 @@ Contents of Audit.—The Comptroller General of the United States shall, at the 
 
 Report to Congress.—After completing the audit under subsection (a), the Comptroller General shall transmit to the Congress a report on the findings and conclusions resulting from the audit.”
 
-#### Section Referred to in Other Sections
+<i><sup>1</sup></i><i> So in original. Probably should be “the”.</i>
 
-This section is referred to in sections 3302, 3701 of this title; title 5 section 5514; title 10 section 2780; title 22 sections 2671, 2716; title 25 section 1616a; title 26 sections 6103, 6311; title 28 section 3002; title 38 section 1729; title 42 sections 254<i>o</i>, 404, 1008, 1383.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “, judicial, or”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “, judicial, or”.</i>
 

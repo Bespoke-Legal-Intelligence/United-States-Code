@@ -154,7 +154,7 @@ Section 2022b, Pub. L. 95–561, title XI, §1142, as added Pub. L. 100–297, t
 
 A prior section 2023, Pub. L. 95–561, title XI, §1143, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4012; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1607(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, related to early childhood development program, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2019 of this title.
 
-Another prior section 2023, Pub. L. 95–561, title XI, §1143, as added Pub. L. 98–511, title V, §512, Oct. 19, 1984, 98 Stat. 2398, related to employee housing, rental rates, and waiver of rentals during non-session periods and non-pay status, prior to repeal by Pub. L. 99–89, §9(a)(2), Aug. 15, 1985, 99 Stat. 383.
+Another prior section 2023, Pub. L. 95–561, title XI, §1143, as added Pub. L. 98–511, title V, §512, Oct. 19, 1984, 98 Stat. 2398, related to employee housing, rental rates, and waiver of rentals during non-session periods andnon-pay status, prior to repeal by Pub. L. 99–89, §9(a)(2), Aug. 15, 1985, 99 Stat. 383.
 
 Prior sections 2024 to 2026 were omitted in the general amendment of this chapter by Pub. L. 107–110.
 
@@ -163,8 +163,4 @@ Section 2024, Pub. L. 95–561, title XI, §1144, as added Pub. L. 103–382, ti
 Section 2025, Pub. L. 95–561, title XI, §1145, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4015, related to payments to grantees.
 
 Section 2026, Pub. L. 95–561, title XI, §1146, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4015; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1607(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, defined terms. See section 2021 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2006, 2505 of this title; title 20 section 6367.
 

@@ -88,10 +88,6 @@ Par. (11)(A). Pub. L. 102–550, §317(a)(5), substituted “residents” for �
 
 Amendment by Pub. L. 103–327 effective only during fiscal year 1995, see provision of title II of Pub. L. 103–327 set out as a note under section 4112 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1715z–1a, 1715z–15, 4104, 4109, 4122, 4146 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

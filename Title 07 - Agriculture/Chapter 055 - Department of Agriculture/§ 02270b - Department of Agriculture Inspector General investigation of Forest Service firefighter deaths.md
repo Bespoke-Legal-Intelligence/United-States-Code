@@ -4,7 +4,3 @@ In the case of each fatality of an officer or employee of the Forest Service tha
 
 (Pub. L. 107–203, §1, July 24, 2002, 116 Stat. 744.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2270c of this title.
-

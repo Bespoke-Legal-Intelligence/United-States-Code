@@ -14,7 +14,3 @@ The Secretary shall furnish the appropriate selection board convened under secti
 
 1966—Pub. L. 89–444 substituted “officers who are eligible for consideration for promotion to the grade to which the board will recommend officers for promotion” for “officers to be considered by the board” in cl. 2.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 289, 290 of this title.
-

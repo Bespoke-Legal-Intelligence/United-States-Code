@@ -30,7 +30,7 @@ Second and Multiple Violations.—(1) Subject to paragraph (2) of this subsectio
 
 &emsp;(C) using a commercial motor vehicle in committing more than one felony arising out of different criminal episodes;
 
-&emsp;(D) committing more than one violation of driving a commercial motor vehicle when the individual's commercial driver's license is revoked, suspended, or canceled based on the individual's operation of a commercial motor vehicle or when the individual is disqualified from operating a commercial motor vehiclebased on the individual's operation of a commercial motor vehicle;
+&emsp;(D) committing more than one violation of driving a commercial motor vehicle when the individual's commercial driver's license is revoked, suspended, or canceled based on the individual's operation of a commercial motor vehicle or when the individual is disqualified from operating a commercial motor vehicle based on the individual's operation of a commercial motor vehicle;
 
 &emsp;(E) convicted of more than one offense of causing a fatality through negligent or criminal operation of a commercial motor vehicle; or
 
@@ -110,7 +110,7 @@ Minimum requirements.—The regulations issued under paragraph (1) shall, at a m
 
 &emsp;&emsp;(B) any employer that knowingly allows, permits, authorizes, or requires an employee to operate a commercial motor vehicle in violation of such a law or regulation shall be subject to a civil penalty of not more than $10,000.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1022; Pub. L. 104–88, title IV, §403(a), Dec. 29, 1995, 109 Stat. 956; Pub. L. 106–159, title II, §201(a)(1), (2), (b), Dec. 9, 1999, 113 Stat. 1758, 1759.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1022; Pub. L. 104–88, title IV, §403(a), Dec. 29, 1995, 109Stat. 956; Pub. L. 106–159, title II, §201(a)(1), (2), (b), Dec. 9, 1999, 113 Stat. 1758, 1759.)
 
 Historical and Revision Notes
 
@@ -195,8 +195,4 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 #### Regulations
 
 Section 403(b) of Pub. L. 104–88 provided that: “The initial regulations required under section 31310(h) of title 49, United States Code, shall be issued not later than 1 year after the date of the enactment of this Act \[Dec. 29, 1995\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 521, 31301, 31311 of this title.
 

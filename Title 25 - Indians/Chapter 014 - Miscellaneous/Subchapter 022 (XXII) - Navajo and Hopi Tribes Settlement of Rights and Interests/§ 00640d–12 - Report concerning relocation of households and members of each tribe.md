@@ -20,9 +20,5 @@
 
 1980—Subsec. (c)(5). Pub. L. 96–305 substituted “ninety” for “thirty”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 640d–13, 640d–14 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “as”.</i>
 

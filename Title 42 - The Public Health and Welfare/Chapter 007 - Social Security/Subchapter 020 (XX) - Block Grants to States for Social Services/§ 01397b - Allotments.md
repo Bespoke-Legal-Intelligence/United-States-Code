@@ -44,7 +44,7 @@ The amount specified for purposes of subsections (a) and (b) of this section sha
 
 #### Prior Provisions
 
-A prior section 1397b, act Aug. 14, 1935, ch. 531, title XX, §2003, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88 Stat. 2343; amended Oct. 21, 1975, Pub. L. 94–120, §4(a), 89 Stat. 609; Oct. 25, 1977, Pub. L. 95–142, §3(d)(1), 91 Stat. 1179; June 9, 1980, Pub. L. 96–265, title IV, §403(b), 94 Stat. 462; June 17, 1980, Pub. L. 96–272, title II, §206(c), (d), 94 Stat. 525; Oct. 19, 1980, Pub. L. 96–473, §6(<i>l</i>), 94 Stat. 2266; Dec. 5, 1980, Pub. L. 96–499, title IX, §913(e), 94 Stat. 2620, related to State programs for social services assistance, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
+A prior section 1397b, act Aug. 14, 1935, ch. 531, title XX, §2003, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88Stat. 2343; amended Oct. 21, 1975, Pub. L. 94–120, §4(a), 89 Stat. 609; Oct. 25, 1977, Pub. L. 95–142, §3(d)(1), 91 Stat. 1179; June 9, 1980, Pub. L. 96–265, title IV, §403(b), 94 Stat. 462; June 17, 1980, Pub. L. 96–272, title II, §206(c), (d), 94 Stat. 525; Oct. 19, 1980, Pub. L. 96–473, §6(<i>l</i>), 94 Stat. 2266; Dec. 5, 1980, Pub. L. 96–499, title IX, §913(e), 94 Stat. 2620, related to State programs for social services assistance, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
 
 #### Amendments
 
@@ -120,7 +120,7 @@ Pub. L. 98–473, title IV, §401, Oct. 12, 1984, 98 Stat. 2195, provided that:
 
 &emsp;“(1) be used only for the purpose of providing training and retraining (including training in the prevention of child abuse in child care settings) to providers of licensed or registered child care services, operators and staffs (including those receiving in-service training) of facilities where licensed or registered child care services are provided, State licensing and enforcement officials, and parents;
 
-&emsp;“(2) be expended only to supplement the level of any funds that would, in the absence of the additional funds appropriated under this section, be available from other sources (including any amounts availableunder title XX of the Social Security Act \[this subchapter\] without regard to this section) for the purpose specified in paragraph (1), and shall in no case supplant such funds from other sources or reduce the level thereof; and
+&emsp;“(2) be expended only to supplement the level of any funds that would, in the absence of the additional funds appropriated under this section, be available from other sources (including any amounts available under title XX of the Social Security Act \[this subchapter\] without regard to this section) for the purpose specified in paragraph (1), and shall in no case supplant such funds from other sources or reduce the level thereof; and
 
 &emsp;“(3) be separately accounted for in the reports and audits provided for in section 2006 of the Social Security Act \[section 1397e of this title\].
 
@@ -151,8 +151,4 @@ Pub. L. 98–473, title IV, §401, Oct. 12, 1984, 98 Stat. 2195, provided that:
 “(B) In the case of any State not meeting the requirements of subparagraph (A) by September 30, 1985, such State's allotment for fiscal year 1986 or 1987 shall be reduced in the aggregate by an amount equal to one-half of the amount by which such State's allotment under such title was increased for fiscal year 1985 as a result of subsection (a).
 
 “(d) The determination and promulgation required by section 2003(b) of the Social Security Act \[subsec. (b) of this section\] with respect to the fiscal year 1985 (to take into account the preceding provisions of this section) shall be made as soon as possible after the date of the enactment of this Act \[Oct. 12, 1984\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1397a, 1397f of this title.
 

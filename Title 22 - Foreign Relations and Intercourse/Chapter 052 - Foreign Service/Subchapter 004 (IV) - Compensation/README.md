@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—COMPENSATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3942, 3981, 4153 of this title; title 5 section 5948.
-
 
 ---
 

@@ -98,7 +98,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Effective Date
 
-Section 300003 of Pub. L. 103–322 provided that: “The amendments made by section 300002 \[enacting this chapter\] shall become effective on the date that is 3 years after the date of enactment of this Act \[Sept. 13, 1994\]. After the effective date, if a State has implemented a procedure under section 2721(b)(11) and (12) of title 18, United States Code, as added by section 2902 \[probably should be section “300002(a)”\], for prohibiting disclosures or uses of personal information, and the procedure otherwise meets the requirements of subsection (b)(11) and (12), the State shall be in compliance with subsection (b)(11) and (12) even if the procedure is not available to individuals until they renew their license, title, registration or identification card, so long as the State provides some other procedure for individuals to contact the State on their own initiative to prohibit such uses or disclosures. Prior to the effective date, personal information covered by the amendment made by section 300002 may be released consistent with State law or practice.”
+Section 300003 of Pub. L. 103–322 provided that: “The amendments made by section 300002 \[enacting thischapter\] shall become effective on the date that is 3 years after the date of enactment of this Act \[Sept. 13, 1994\]. After the effective date, if a State has implemented a procedure under section 2721(b)(11) and (12) of title 18, United States Code, as added by section 2902 \[probably should be section “300002(a)”\], for prohibiting disclosures or uses of personal information, and the procedure otherwise meets the requirements of subsection (b)(11) and (12), the State shall be in compliance with subsection (b)(11) and (12) even if the procedure is not available to individuals until they renew their license, title, registration or identification card, so long as the State provides some other procedure for individuals to contact the State on their own initiative to prohibit such uses or disclosures. Prior to the effective date, personal information covered by the amendment made by section 300002 may be released consistent with State law or practice.”
 
 #### Short Title
 
@@ -107,8 +107,4 @@ Section 300001 of title XXX of Pub. L. 103–322 provided that: “This title \[
 #### Relationship to Other Law
 
 The Consumer Credit Reporting Reform Act of 1996 \[see Short Title note set out under section 1601 of Title 15, Commerce and Trade\] not to be considered to supersede or otherwise affect this section with respect to motor vehicle records for surveys, marketing, or solicitations, see section 2421 of Pub. L. 104–208, set out as a note under section 1681a of Title 15.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2722 of this title.
 

@@ -1,10 +1,10 @@
 ### §351. Enlistments; term, grade
 
-(a) Under regulations prescribed by the Secretary, the Commandant may enlist persons for minority or terms of full years not exceeding six years.
+(a) Under regulations prescribed by the Secretary, the Commandant may enlist persons for minority or a period of at least two years but not more than six years.
 
 (b) The Secretary shall prescribe the grades or ratings for persons enlisting in the Regular Coast Guard.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 520; Aug. 3, 1950, ch. 536, §16, 64 Stat. 407; Aug. 10, 1956, ch. 1041, §§8(a), 53, 70A Stat. 620, 679; Pub. L. 98–557, §15(a)(3)(F), Oct. 30, 1984, 98 Stat. 2865.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 520; Aug. 3, 1950, ch. 536, §16, 64 Stat. 407; Aug. 10, 1956, ch. 1041, §§8(a), 53, 70A Stat. 620, 679; Pub. L. 98–557, §15(a)(3)(F), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 108–293, title II, §203, Aug. 9, 2004, 118 Stat. 1032.)
 
 #### Historical and Revision Notes
 
@@ -45,6 +45,8 @@ Oct. 6, 1945, ch. 393, §5 (as made applicable to Coast Guard by §13), 13 (as a
 The words “notwithstanding any other provision of law” and “or reenlisted” are omitted as surplusage. 34 U.S.C. 188 (proviso) is omitted as executed.
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–293 substituted “a period of at least two years but not more than six years.” for “terms of full years not exceeding six years.”
 
 1984—Subsec. (a). Pub. L. 98–557 substituted reference to persons for reference to men.
 

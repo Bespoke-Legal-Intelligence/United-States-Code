@@ -4,7 +4,3 @@ The Council is authorized to secure directly from any department, bureau, agency
 
 (Pub. L. 89–665, title II, §203, Oct. 15, 1966, 80 Stat. 918.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 section 3303.
-

@@ -1,6 +1,6 @@
 ### §4410. Revisions to Plan
 
-The Secretary shall, in 1998 and at five-year intervals thereafter, undertake with the appropriate officials in Canada and Mexico to revise the goals and other elements of the Plan in accordance with the information required under section 4409 of this title and with the other provisions of this chapter.
+The Secretary shall, in 1998 and at five-year intervals thereafter, undertake with the appropriate officials in Canada and Mexico to revisethe goals and other elements of the Plan in accordance with the information required under section 4409 of this title and with the other provisions of this chapter.
 
 (Pub. L. 101–233, §11, Dec. 13, 1989, 103 Stat. 1976; Pub. L. 103–375, §2(c), Oct. 19, 1994, 108 Stat. 3494.)
 

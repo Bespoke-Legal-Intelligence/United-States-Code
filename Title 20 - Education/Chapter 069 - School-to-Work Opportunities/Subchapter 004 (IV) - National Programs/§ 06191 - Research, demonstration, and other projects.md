@@ -14,7 +14,3 @@ The Secretaries may provide assistance for programs or services authorized under
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 103–239, May 4, 1994, 108 Stat. 568, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6103 of this title.
-

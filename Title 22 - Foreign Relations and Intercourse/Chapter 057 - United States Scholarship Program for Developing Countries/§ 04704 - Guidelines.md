@@ -34,9 +34,5 @@ Section 2460(b) of this title, referred to in par. (1), was redesignated section
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4703, 4706, 4708, 4710 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

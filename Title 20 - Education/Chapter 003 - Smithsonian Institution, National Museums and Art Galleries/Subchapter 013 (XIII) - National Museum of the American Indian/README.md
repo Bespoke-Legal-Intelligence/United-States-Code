@@ -1,9 +1,5 @@
 ### SUBCHAPTER XIII—NATIONAL MUSEUM OF THE AMERICAN INDIAN
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 7512 of this title; title 42 section 11701.
-
 
 ---
 

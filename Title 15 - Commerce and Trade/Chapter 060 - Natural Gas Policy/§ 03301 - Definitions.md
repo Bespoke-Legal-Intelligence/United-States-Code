@@ -74,7 +74,7 @@ For purposes of this chapter—
 
 #### (12) Rollover contract
 
-&emsp;The term “rollover contract” means any contract, entered into on or after November 9, 1978, for the first sale of natural gas that was previously subject to an existing contract which expired at the end of a fixed term (not including any extension thereof taking effect on or after November 9, 1978) specified by the provisions of such existing contract, as such contract was in effect on November 9, 1978,whether or not there is an identity of parties or terms with those of such existing contract.
+&emsp;The term “rollover contract” means any contract, entered into on or after November 9, 1978, for the first sale of natural gas that was previously subject to an existing contract which expired at the end of a fixed term (not including any extension thereof taking effect on or after November 9, 1978) specified by the provisions of such existing contract, as such contract was in effect on November 9, 1978, whether or not there is an identity of parties or terms with those of such existing contract.
 
 #### (13) Existing contract
 
@@ -90,7 +90,7 @@ For purposes of this chapter—
 
 #### (16) Intrastate pipeline
 
-&emsp;The term “intrastate pipeline” means any person engaged in natural gas transportation (not including gathering) which is not subject to the jurisdiction of the Commission under the Natural Gas Act \[15 U.S.C. 717 et seq.\] (other than any such pipeline which is not subject to the jurisdiction of the Commission solely by reason of section 1(c) of the Natural Gas Act \[15 U.S.C. 717(c)\]).
+&emsp;The term “intrastate pipeline” means any person engaged in natural gas transportation (not including gathering) which is not subjectto the jurisdiction of the Commission under the Natural Gas Act \[15 U.S.C. 717 et seq.\] (other than any such pipeline which is not subject to the jurisdiction of the Commission solely by reason of section 1(c) of the Natural Gas Act \[15 U.S.C. 717(c)\]).
 
 #### (17) Local distribution company
 
@@ -238,13 +238,9 @@ Act of June 19, 1936, chapter 592, referred to in par. (37), means act June 19, 
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–60, §1, July 26, 1989, 103 Stat. 157, provided that: “This Act \[amending sections 3331, 3372, 3373, 3375,3411, 3412, 3414, 3416, 3431, and 3432 of this title, repealing sections 3311 to 3320, 3331 to 3333, 3413, and 3417 of this title, and enacting provisions set out as notes under sections 3311 and 3372 of this title\] may be cited as the ‘Natural Gas Wellhead Decontrol Act of 1989’.”
+Pub. L. 101–60, §1, July 26, 1989, 103 Stat. 157, provided that: “This Act \[amending sections 3331, 3372, 3373, 3375, 3411, 3412, 3414, 3416, 3431, and 3432 of this title, repealing sections 3311 to 3320, 3331 to 3333, 3413, and 3417 of this title, and enacting provisions set out as notes under sections 3311 and 3372 of this title\] may be cited as the ‘Natural Gas Wellhead Decontrol Act of 1989’.”
 
 #### Short Title
 
 Section 1 of Pub. L. 95–621 provided that: “This Act \[enacting this chapter and amending section 7255 of Title 42, The Public Health and Welfare\] may be cited as the ‘Natural Gas Policy Act of 1978’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 717b, 3312, 3363, 3802 of this title; title 26 section 29.
 

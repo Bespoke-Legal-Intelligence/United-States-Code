@@ -40,7 +40,3 @@ Each State regulatory authority (with respect to each electric utility for which
 
 (Pub. L. 95–617, title I, §113, Nov. 9, 1978, 92 Stat. 3123.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2625, 2626, 2627, 2641 of this title.
-

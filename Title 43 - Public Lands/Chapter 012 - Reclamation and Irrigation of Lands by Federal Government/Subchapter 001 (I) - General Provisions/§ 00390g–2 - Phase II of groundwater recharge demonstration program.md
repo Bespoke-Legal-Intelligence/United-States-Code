@@ -34,7 +34,3 @@ During phase II the Secretary, acting through the Bureau, shall contract with th
 
 1992—Subsec. (c). Pub. L. 102–575 substituted “summary report” for “final report” in two places in introductory provisions of par. (2) and added pars. (3) to (5).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390g–3 of this title.
-

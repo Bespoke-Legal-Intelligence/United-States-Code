@@ -28,7 +28,3 @@ July 31, 1946, ch. 707, §16(a)(1), 60 Stat. 721; Pub. L. 90–108, §1(d), Oct.
 
 Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year thereafter, see section 1016(d) of Pub. L. 108–7, set out as a note under section 1961 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8501, 8502, 8711, 8712 of this title; title 2 sections 1819, 1941, 1961, 1970, 2021, 2161.
-

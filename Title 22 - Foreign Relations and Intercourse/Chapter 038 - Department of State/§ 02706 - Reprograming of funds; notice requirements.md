@@ -44,7 +44,3 @@ Subsec. (c). Pub. L. 105–277, §2243(2), added subsec. (c).
 
 1987—Pub. L. 100–204 designated existing provisions as subsec. (a) and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 287b, 2684a, 2696, 2710, 2720, 4855, 6612 of this title.
-

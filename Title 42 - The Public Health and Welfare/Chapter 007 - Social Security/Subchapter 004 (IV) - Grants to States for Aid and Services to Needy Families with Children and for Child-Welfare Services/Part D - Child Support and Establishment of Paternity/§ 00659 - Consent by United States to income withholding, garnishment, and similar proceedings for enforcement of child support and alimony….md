@@ -20,7 +20,7 @@ With respect to notice to withhold income pursuant to subsection (a)(1) or (b) o
 
 #### (2) Response to notice or process
 
-&emsp;If an agent designated pursuant to paragraph (1) of this subsection receives notice pursuant to State procedures in effect pursuant to subsection (a)(1) or (b) of section 666 of this title, or is effectively served with any order, process, or interrogatory, with respect to an individual's child support or alimony payment obligations, the agent shall—
+&emsp;If an agent designated pursuant to paragraph (1) of this subsection receives noticepursuant to State procedures in effect pursuant to subsection (a)(1) or (b) of section 666 of this title, or is effectively served with any order, process, or interrogatory, with respect to an individual's child support or alimony payment obligations, the agent shall—
 
 &emsp;&emsp;(A) as soon as possible (but not later than 15 days) thereafter, send written notice of the notice or service (together with a copy of the notice or service) to the individual at the duty station or last-known home address of the individual;
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) which is directed to, and the purpose of which is to compel, a governmental entity which holds moneys which are otherwise payable to an individual to make a payment from the moneys to another party in order to satisfy a legal obligation of the individual to provide child support or make alimony payments.
 
-(Aug. 14, 1935, ch. 531, title IV, §459, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2357; amended Pub. L. 95–30, title V, §501(a), (b), May 23, 1977, 91 Stat. 157; Pub. L. 98–21, title III, §335(b)(1), Apr. 20, 1983, 97 Stat. 130; Pub. L. 104–193, title III, §362(a), Aug. 22, 1996, 110 Stat. 2242; Pub. L. 105–33, title V, §5542(a), (b), Aug. 5, 1997, 111 Stat. 631; Pub. L. 106–169, title II, §251(b)(3), Dec. 14, 1999, 113 Stat. 1855.)
+(Aug. 14, 1935, ch. 531, title IV, §459, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2357;amended Pub. L. 95–30, title V, §501(a), (b), May 23, 1977, 91 Stat. 157; Pub. L. 98–21, title III, §335(b)(1), Apr. 20, 1983, 97 Stat. 130; Pub. L. 104–193, title III, §362(a), Aug. 22, 1996, 110 Stat. 2242; Pub. L. 105–33, title V, §5542(a), (b), Aug. 5, 1997, 111 Stat. 631; Pub. L. 106–169, title II, §251(b)(3), Dec. 14, 1999, 113 Stat. 1855.)
 
 #### References in Text
 
@@ -276,7 +276,7 @@ Sec. 306. <i>Report on Actions Taken</i>. Within 90 days of the date of this ord
 
 #### PART 4—ADDITIONAL ACTIONS
 
-Sec. 401. <i>Additional Review for the Uniformed Services</i>. (a) In addition to the requirements outlined above, the Secretary of the Department of Defense (DOD) will chair a task force, with participation by the Department of Health and Human Services (HHS), the Department of Commerce, and the Department of Transportation, that shall conduct a full review of current policies and practices within the Uniformed Services to ensure that children of Uniformed Services personnel are provided financial and medical support in the same manner and within the same time frames as is mandated for all other children due such support. This review shall include, but not be limited to, issues related to withholding non-custodial parents’ wages, service of legal process, activities to locate parents and their income and assets, release time to attend civil paternityand support proceedings, and health insurance coverage under the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS). All relevant existing statutes, including the Soldiers\[’\] and Sailors\[’\] Civil Relief Act of 1940 \[now Servicemembers Civil Relief Act\] \[50 App. U.S.C. 501 et seq.\], the Uniformed Services Former Spouses\[’\] Protection Act \[see Short Title of 1982 Amendment note set out under section 1401 of Title 10, Armed Forces\], and the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, see Tables for classification\], shall be reviewed and appropriate legislative modifications shall be identified.
+Sec. 401. <i>Additional Review for the Uniformed Services</i>. (a) In addition to the requirements outlined above, the Secretary of the Department of Defense (DOD) will chair a task force, with participation by the Department of Health and Human Services (HHS), the Department of Commerce, and the Department of Transportation, that shall conduct a full review of current policies and practices within the Uniformed Services to ensure that children of Uniformed Services personnel are provided financial and medical support in the same manner and within the same time frames as is mandated for all other children due such support. This review shall include, but not be limited to, issues related to withholding non-custodial parents’ wages, service of legal process, activities to locate parents and their income and assets, release time to attend civil paternity and support proceedings, and health insurance coverage under the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS). All relevant existing statutes, including the Soldiers\[’\] and Sailors\[’\] Civil Relief Act of 1940 \[now Servicemembers Civil Relief Act\] \[50 App. U.S.C. 501 et seq.\], the Uniformed Services Former Spouses\[’\] Protection Act \[see Short Title of 1982 Amendment note set out under section 1401 of Title 10, Armed Forces\], and the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, see Tables for classification\], shall be reviewed and appropriate legislative modifications shall be identified.
 
 (b) Within 180 days of the date of this order, DOD shall submit to OMB a report based on this review. The report shall recommend additional policy, regulatory and legislative changes that would improve and enhance the Federal Government's commitment to ensuring parental support for all children.
 
@@ -305,10 +305,6 @@ Sec. 503. <i>Defense and Security.</i>
 This order is not intended to require any action that would compromise the defense or national security interest of the United States.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 654 of this title; title 5 sections 5520a, 8437; title 10 section 1408; title 22 section 3612a.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

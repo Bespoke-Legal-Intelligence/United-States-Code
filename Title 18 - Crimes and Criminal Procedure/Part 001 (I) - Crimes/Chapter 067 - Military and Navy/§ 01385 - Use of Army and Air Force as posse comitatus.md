@@ -26,7 +26,3 @@ This section is revised to conform to the style and terminology used in title 18
 
 1959—Pub. L. 86–70 struck out provisions which made section inapplicable in Alaska.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 831 of this title; title 6 section 466.
-

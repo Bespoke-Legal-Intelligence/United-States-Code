@@ -4,7 +4,7 @@
 
 #### (1) Territories and possessions
 
-&emsp;The Secretary shall reserve not to exceed one half of 1 percent of the amount appropriated under this subchapter in each fiscalyear for payments to Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands to be allotted in accordance with their respective needs.
+&emsp;The Secretary shall reserve not to exceed one half of 1 percent of the amount appropriated under this subchapter in each fiscal year for payments to Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands to be allotted in accordance with their respective needs.
 
 #### (2) Indians <sup>1</sup> tribes
 
@@ -26,7 +26,7 @@
 
 #### (3) School lunch factor
 
-&emsp;The term “school lunch factor” means the ratio of the number of children in the State who are receiving free or reduced price lunches under the school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) to the number of such children in all the States as determined annually by the Department of Agriculture.
+&emsp;The term “school lunch factor” means the ratio of the number of children in the Statewho are receiving free or reduced price lunches under the school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) to the number of such children in all the States as determined annually by the Department of Agriculture.
 
 #### (4) Allotment percentage
 
@@ -88,7 +88,7 @@
 
 #### (5) Dual eligibility of Indian children
 
-&emsp;The awarding of a grant or contract under this section for programs or activities to beconducted in a State or States shall not affect the eligibility of any Indian child to receive services provided or to participate in programs and activities carried out under a grant to the State or States under this subchapter.
+&emsp;The awarding of a grant or contract under this section for programs or activities to be conducted in a State or States shall not affect the eligibility of any Indian child to receive services provided or to participate in programs and activities carried out under a grant to the State or States under this subchapter.
 
 #### (6) Construction or renovation of facilities
 
@@ -106,7 +106,7 @@
 
 #### (D) Uniform procedures
 
-&emsp;&emsp;The Secretary shall develop and implement uniform procedures for the solicitation and consideration of requests under this paragraph.
+&emsp;&emsp;The Secretary shall develop and implement uniform procedures for the solicitationand consideration of requests under this paragraph.
 
 #### (d) Data and information
 
@@ -171,10 +171,6 @@ Amendment by Pub. L. 105–33 effective as if included in the enactment of title
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as a note under section 9858 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9858d, 9858h of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Indian”.</i>
 

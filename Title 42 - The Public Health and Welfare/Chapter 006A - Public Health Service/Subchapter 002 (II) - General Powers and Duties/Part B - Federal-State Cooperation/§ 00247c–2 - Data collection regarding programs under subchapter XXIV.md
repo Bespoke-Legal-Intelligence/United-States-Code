@@ -4,7 +4,3 @@ For the purpose of collecting and providing data for program planning and evalua
 
 (July 1, 1944, ch. 373, title III, §318B, as added Pub. L. 106–345, title IV, §412, Oct. 20, 2000, 114 Stat. 1350.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300ff–13 of this title.
-

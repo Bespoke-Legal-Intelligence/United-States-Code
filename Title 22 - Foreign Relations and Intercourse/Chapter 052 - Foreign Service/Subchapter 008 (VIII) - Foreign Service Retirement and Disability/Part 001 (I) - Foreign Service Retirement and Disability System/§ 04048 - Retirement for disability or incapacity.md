@@ -30,7 +30,7 @@ Notwithstanding any other law, the right of any individual entitled to an annuit
 
 #### (f) Time of filing application; waiver
 
-A claim may be allowed under this section only if the application is filed with the Secretary of State before the participant is separated from the Service or within one year thereafter. This time limitation may be waived by the Secretary of State for a participant who at the date of separation from the Service or within one year thereafter is mentally incompetent,if the application is filed with the Secretary of State within one year from the date of restoration of the participant to competency or the appointment of a fiduciary, whichever is earlier.
+A claim may be allowed under this section only if the application is filed with the Secretary of State before the participant is separated from the Service or within one year thereafter. This time limitation may be waived by the Secretary of State for a participant who at the date of separation from the Service or within one year thereafter is mentally incompetent, if the application is filed with the Secretary of State within one year from the date of restoration of the participant to competency or the appointment of a fiduciary, whichever is earlier.
 
 (Pub. L. 96–465, title I, §808, Oct. 17, 1980, 94 Stat. 2110; Ex. Ord. No. 12289, §2, Feb. 14, 1981, 46 F.R. 12693; Pub. L. 99–335, title IV, §402(a)(2), (b), June 6, 1986, 100 Stat. 609; Pub. L. 100–238, title II, §215(a), Jan. 8, 1988, 101 Stat. 1774; Pub. L. 102–54, §13(h)(2), June 13, 1991, 105 Stat. 275.)
 
@@ -63,10 +63,6 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 #### Effective Date of 1981 Amendment
 
 Amendment by Ex. Ord. No. 12289 effective Feb. 15, 1981, see section 3 of Ex. Ord. No. 12289, set out under section 4067 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4046, 4047, 4056, 4071h of this title; title 26 section 104.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

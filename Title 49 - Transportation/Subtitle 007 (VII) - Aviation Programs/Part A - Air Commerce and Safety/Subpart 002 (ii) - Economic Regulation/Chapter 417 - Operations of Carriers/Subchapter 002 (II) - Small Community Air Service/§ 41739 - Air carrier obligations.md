@@ -22,7 +22,3 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(i); added Oct. 24, 1978, Pu
 
 The words “quality of transportation” are substituted for “quality of service” for clarity and consistency in this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41110 of this title.
-

@@ -34,7 +34,3 @@ If the President determines that an eligible sub-Saharan African country is not 
 
 (Pub. L. 106–200, title I, §104, May 18, 2000, 114 Stat. 254.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2466a, 3704, 3736 of this title.
-

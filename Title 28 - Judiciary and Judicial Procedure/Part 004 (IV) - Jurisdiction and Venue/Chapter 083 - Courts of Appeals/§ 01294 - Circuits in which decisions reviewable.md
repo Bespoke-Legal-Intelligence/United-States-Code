@@ -38,7 +38,7 @@ Administrative orders, referred to in reviser's note under section 1291 of this 
 
 (4) Civil aeronautics orders—in the District of Columbia or circuit where petitioner resides or has his principal place of business;
 
-(5) Commodity exchange orders—in the circuit where board of trade has its principal place of business or incircuit where petitioner for review of exclusion order carries on business;
+(5) Commodity exchange orders—in the circuit where board of trade has its principal place of business or in circuit where petitioner for review of exclusion order carries on business;
 
 (6) Electric and water power orders—in the District of Columbia or circuit where licensee or public utility to which order relates is located or has its principal place of business;
 
@@ -107,8 +107,4 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 #### Termination of United States District Court for the District of the Canal Zone
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1295 of this title; title 15 sections 77v, 78aa, 79y, 80a–43, 80b–14; title 45 sections 719, 743, 1105.
 

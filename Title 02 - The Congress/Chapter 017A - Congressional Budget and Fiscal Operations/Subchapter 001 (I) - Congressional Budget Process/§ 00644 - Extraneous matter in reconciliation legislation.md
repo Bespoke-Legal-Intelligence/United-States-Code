@@ -8,7 +8,7 @@ When the Senate is considering a reconciliation bill or a reconciliation resolut
 
 (1)(A) Except as provided in paragraph (2), a provision of a reconciliation bill or reconciliation resolution considered pursuant to section 641 of this title shall be considered extraneous if such provision does not produce a change in outlays or revenues, including changes in outlays and revenues brought about by changes in the terms and conditions under which outlays are made or revenues are required to be collected (but a provision in which outlay decreases or revenue increases exactly offset outlay increases or revenue decreases shall not be considered extraneous by virtue of this subparagraph); (B) any provision producing an increase in outlays or decrease in revenues shall be considered extraneous if the net effect of provisions reported by the committee reporting the title containing the provision is that the committee fails to achieve its reconciliation instructions; (C) a provision that is not in the jurisdiction of the committee with jurisdiction over said title or provision shall be considered extraneous; (D) a provision shall be considered extraneous if it produces changes in outlays or revenues which are merely incidental to the non-budgetary components of the provision; (E) a provision shall be considered to be extraneous if it increases, or would increase, net outlays, or if it decreases, or would decrease, revenues during a fiscal year after the fiscal years covered by such reconciliation bill or reconciliation resolution, and such increases or decreases are greater than outlay reductions or revenue increases resulting from other provisions in such title in such year; and (F) a provision shall be considered extraneous if it violates section 641(g) of this title.
 
-(2) A Senate-originated provision shall not be considered extraneous under paragraph (1)(A) if the Chairman and Ranking Minority Member of the Committee on the Budget and the Chairman and Ranking Minority Member of the Committee which reported the provision certify that: (A) the provision mitigates direct effects clearly attributable to a provision changing outlays or revenues and both provisions together produce a net reduction in the deficit; (B) the provision will result in a substantial reduction in outlays or a substantial increase in revenues during fiscal years after the fiscal years covered by the reconciliation bill or reconciliation resolution; (C) a reduction of outlays or an increase in revenues is likely to occur as a result of the provision, in the event of new regulations authorized by the provision or likely to be proposed, court rulings on pending litigation, or relationships between economic indices and stipulated statutory triggers pertaining to the provision, other than the regulations, court rulings or relationships currently projected by the Congressional Budget Office for scorekeeping purposes; or (D) such provision will be likely to produce a significant reduction in outlays or increase in revenues but, due to insufficient data, such reduction or increase cannot be reliably estimated.
+(2) A Senate-originated provision shall not be considered extraneous under paragraph (1)(A) ifthe Chairman and Ranking Minority Member of the Committee on the Budget and the Chairman and Ranking Minority Member of the Committee which reported the provision certify that: (A) the provision mitigates direct effects clearly attributable to a provision changing outlays or revenues and both provisions together produce a net reduction in the deficit; (B) the provision will result in a substantial reduction in outlays or a substantial increase in revenues during fiscal years after the fiscal years covered by the reconciliation bill or reconciliation resolution; (C) a reduction of outlays or an increase in revenues is likely to occur as a result of the provision, in the event of new regulations authorized by the provision or likely to be proposed, court rulings on pending litigation, or relationships between economic indices and stipulated statutory triggers pertaining to the provision, other than the regulations, court rulings or relationships currently projected by the Congressional Budget Office for scorekeeping purposes; or (D) such provision will be likely to produce a significant reduction in outlays or increase in revenues but, due to insufficient data, such reduction or increase cannot be reliably estimated.
 
 (3) A provision reported by a committee shall not be considered extraneous under paragraph (1)(C) if (A) the provision is an integral part of a provision or title, which if introduced as a bill or resolution would be referred to such committee, and the provision sets forth the procedure to carry out or implement the substantive provisions that were reported and which fall within the jurisdiction of such committee; or (B) the provision states an exception to, or a special application of, the general provision or title of which it is a part and such general provision or title if introduced as a bill or resolution would be referred to such committee.
 
@@ -24,7 +24,7 @@ When the Senate is considering a conference report on, or an amendment between t
 
 &emsp;(2) such point of order being sustained,
 
-> such material contained in such conference report or amendment shall be deemed stricken, and the Senate shall proceed, without intervening action or motion, to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable for two hours. In any case in which such point of orderis sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
+> such material contained in such conference report or amendment shall be deemed stricken, and the Senate shall proceed, without intervening action or motion, to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable for two hours. In any case in which such point of order is sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
 
 #### (e) General point of order
 
@@ -38,13 +38,13 @@ Prior to redesignation by Pub. L. 101–508, this section was section 20001 of P
 
 #### Amendments
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–33, §10113(b)(1)(A), redesignated subsec. (c), relating to point of order, as (d).
+1997—Subsec. (c). Pub. L. 105–33, §10113(b)(1)(A), redesignated subsec. (c), relating to point of order, as (d).
 
 Subsec. (d). Pub. L. 105–33, §10113(b)(1)(A), redesignated subsec. (c), relating to point of order, as (d) and inserted heading. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 105–33, §10113(b)(1)(B), redesignated subsec. (d) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “For purposes of this section, the levels of new budget authority, budget outlays, new entitlement authority, and revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the Senate.”
+Subsec. (e). Pub. L. 105–33, §10113(b)(1)(B), redesignated subsec. (d) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “For purposes of this section, the levels of new budget authority, budget outlays, new entitlement authority, andrevenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the Senate.”
 
-<b>1990</b>—Pub. L. 101–508, §13214(b)(2)(A), inserted “Extraneous matter in reconciliation legislation” as section catchline.
+1990—Pub. L. 101–508, §13214(b)(2)(A), inserted “Extraneous matter in reconciliation legislation” as section catchline.
 
 Pub. L. 101–508, §13214(b)(1), redesignated section 20001 of Pub. L. 99–272 as this section.
 
@@ -90,11 +90,11 @@ Subsec. (d). Pub. L. 101–508, §13214(b)(2)(C), redesignated subsec. (f) as (d
 
 Subsecs. (e) to (g). Pub. L. 101–508, §13214(a)(8), (b)(2)(C), added subsecs. (e) to (g) and redesignated them as subsecs. (c) to (e), respectively.
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–119, §205(a), substituted “September 30, 1992” for “January 2, 1988”.
+1987—Subsec. (c). Pub. L. 100–119, §205(a), substituted “September 30, 1992” for “January 2, 1988”.
 
 Subsec. (d)(1)(E). Pub. L. 100–119, §205(b), which directed that cl. (E) be added to subsec. (d)(1)(A), was executed to subsec. (d)(1), as the probable intent of Congress.
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–509, §7006(b), substituted “January 2, 1988” for “January 2, 1987”.
+1986—Subsec. (c). Pub. L. 99–509, §7006(b), substituted “January 2, 1988” for “January 2, 1987”.
 
 Pub. L. 99–509, §7006(c), substituted “section 20001” for “section 1201” in Senate Resolution No. 286, Ninety-ninth Congress, Dec. 19, 1985. See 1990 Amendment note above.
 

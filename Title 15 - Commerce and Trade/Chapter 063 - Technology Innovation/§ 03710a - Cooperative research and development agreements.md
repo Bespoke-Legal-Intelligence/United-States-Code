@@ -40,7 +40,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 &emsp;(C) to the extent consistent with any applicable agency requirements or standards of conduct, permit an employee or former employee of the laboratory to participate in an effort to commercialize an invention made by the employee or former employee while in the employment or service of the Government; and
 
-&emsp;(D) waive, subject to reservation by the Government of a nonexclusive, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the Government, in advance, in whole or in part, any right of ownership which the Federal Government may have to any subject invention made under the agreement by a collaborating party or employee of a collaborating party.
+&emsp;(D) waive, subject to reservation by the Government of a nonexclusive, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the worldby or on behalf of the Government, in advance, in whole or in part, any right of ownership which the Federal Government may have to any subject invention made under the agreement by a collaborating party or employee of a collaborating party.
 
 (4) A collaborating party in an exclusive license in any invention made under an agreement entered into pursuant to subsection (a)(1) of this section shall have the right of enforcement under chapter 29 of title 35.
 
@@ -82,9 +82,9 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 (ii) A Federal agency that receives a proposed agreement and joint work statement under clause (i) shall review and approve, request specific modifications to, or disapprove the proposed agreement and joint work statement within 30 days after such submission. No agreement may be entered into by a Government-owned, contractor-operated laboratory under this section before both approval of the agreement and approval of a joint work statement under this clause.
 
-(iii) In any case in which an agency which has contracted with an entity referred to in clause (i) disapproves or requests the modification of a cooperative research and development agreement or joint work statement submitted under that clause, the agency shall transmit a written explanation of such disapproval or modification to the head of the laboratory concerned.
+(iii) In any case in which an agency which has contracted with an entity referred to in clause (i) disapproves or requests the modification of a cooperative research and development agreement or joint work statement submitted under that clause, the agency shall transmit a writtenexplanation of such disapproval or modification to the head of the laboratory concerned.
 
-(iv) Any agency that has contracted with a non-Federal entity to operate a laboratory may develop and provide to such laboratory one ormore model cooperative research and development agreements for purposes of standardizing practices and procedures, resolving common legal issues, and enabling review of cooperative research and development agreements to be carried out in a routine and prompt manner.
+(iv) Any agency that has contracted with a non-Federal entity to operate a laboratory may develop and provide to such laboratory one or more model cooperative research and development agreements for purposes of standardizing practices and procedures, resolving common legal issues, and enabling review of cooperative research and development agreements to be carried out in a routine and prompt manner.
 
 (v) A Federal agency may waive the requirements of clause (i) or (ii) under such circumstances as the agency considers appropriate.
 
@@ -130,13 +130,13 @@ In implementing this section, each agency which has contracted with a non-Federa
 
 &emsp;(2) Classified information and unclassified sensitive information protected by law, regulation, or Executive order shall be appropriately safeguarded.
 
-(Pub. L. 96–480, §12, as added and renumbered §11, Pub. L. 99–502, §§2, 9(e)(1), Oct. 20, 1986, 100 Stat. 1785, 1797; renumbered §12, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, §705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, §302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, §3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, §3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, §4, Mar. 7, 1996, 110 Stat. 775; Pub. L. 106–398, §1 \[div. C, title XXXI, §3196\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; Pub. L. 106–404, §3, Nov. 1, 2000, 114 Stat. 1742.)
+(Pub. L. 96–480, §12, as added and renumbered §11, Pub. L. 99–502, §§2, 9(e)(1), Oct. 20, 1986, 100 Stat. 1785, 1797; renumbered §12, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, §705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, §302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, §3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, §3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, §4, Mar. 7, 1996, 110 Stat. 775; Pub. L. 106–398, §1 \[div. C, title XXXI, §3196\], Oct. 30, 2000, 114 Stat. 1654,1654A–481; Pub. L. 106–404, §3, Nov. 1, 2000, 114 Stat. 1742.)
 
 #### References in Text
 
-Section 203(2) of title 35, referred to in subsec. (b)(1)(C), was redesignated section 203(b) of title 35 byPub. L. 107–273, div. C, title III, §13206(a)(14)(A)(i), Nov. 2, 2002, 116 Stat. 1905.
+Section 203(2) of title 35, referred to in subsec. (b)(1)(C), was redesignated section 203(b) of title 35 by Pub. L. 107–273, div. C, title III, §13206(a)(14)(A)(i), Nov. 2, 2002, 116 Stat. 1905.
 
-Executive Order No. 12344, referred to in subsec. (d)(2), is set out as a note under section 7158 of Title 42, The Public Health and Welfare.
+Executive Order No. 12344, referred to in subsec. (d)(2), is set out as a note under section 2511 of Title 50, War and National Defense.
 
 #### Amendments
 
@@ -269,10 +269,6 @@ Section 3133(d) of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, t
 “(6) Contract provisions referred to in paragraph (1) shall include only such provisions as are necessary to carry out paragraphs (1) and (2) of this subsection.”
 
 \[Pub. L. 101–510, div. A, title VIII, §828(b), Nov. 5, 1990, 104 Stat. 1607, provided that: “Paragraph (6) of 3133(d) of such Act \[Pub. L. 101–189, set out above\], as added by subsection (a), shall apply only to contracts entered into after the date of enactment of this Act \[Nov. 5, 1990\].”\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 278n, 3710c, 3714, 3715, 5528 of this title; title 6 section 189; title 7 section 7624; title 10 sections 2371a, 2500, 2519; title 23 sections403, 502; title 33 section 2313; title 35 section 209; title 42 section 13541; title 49 section 309; title 50 section 2794.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

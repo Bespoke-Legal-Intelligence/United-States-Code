@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—SEPARATION AND RETIREMENT OF OFFICERS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3022 of this title.
-
 
 ---
 

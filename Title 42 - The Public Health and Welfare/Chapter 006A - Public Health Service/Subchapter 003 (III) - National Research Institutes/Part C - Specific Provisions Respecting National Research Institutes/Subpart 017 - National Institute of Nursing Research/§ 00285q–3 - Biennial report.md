@@ -12,7 +12,3 @@ Section was formerly classified to section 287c–3 of this title prior to renum
 
 1993—Pub. L. 103–43, §1511(a)(4), (b)(4)(C), substituted “Institute” for “Center” wherever appearing and “section 285q–2(g)” for “section 287c–2(g)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 285q–2 of this title.
-

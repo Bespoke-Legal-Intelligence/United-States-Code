@@ -30,7 +30,3 @@ In this chapter, the word “Mayor” is substituted for “Commissioners” in 
 
 In this section, the text of 36:721(b)(3)–(5) is omitted because the complete names of the Mayor of the District of Columbia and the Secretaries of Defense and of the Interior are used the first time the terms appear in a section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2553; title 40 section 581.
-

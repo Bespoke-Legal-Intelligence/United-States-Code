@@ -20,7 +20,3 @@ On the recommendation of the Board and with the approval of the Secretary, an or
 
 (Pub. L. 101–624, title XIX, §1956, Nov. 28, 1990, 104 Stat. 3876.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6204 of this title.
-

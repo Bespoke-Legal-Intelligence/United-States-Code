@@ -42,7 +42,3 @@ By virtue of the authority vested in me by the Fishermen's Protective Act of 196
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1977, 1979 of this title; title 48 section 1904.
-

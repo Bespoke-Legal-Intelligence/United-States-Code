@@ -2,7 +2,7 @@
 
 (a) No registered investment company shall, unless authorized by the vote of a majority of its outstanding voting securities—
 
-&emsp;(1) change its subclassification as defined in section 80a–5(a)(1) and (2) of this title or its subclassification from a diversified to a nondiversified company;
+&emsp;(1) change its subclassification as defined in section 80a–5(a)(1) and (2) of this title or itssubclassification from a diversified to a nondiversified company;
 
 &emsp;(2) borrow money, issue senior securities, underwrite securities issued by other persons, purchase or sell real estate or commodities or make loans to other persons, except in each case in accordance with the recitals of policy contained in its registration statement in respect thereto;
 
@@ -29,8 +29,4 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–6, 80a–18 of this title.
 

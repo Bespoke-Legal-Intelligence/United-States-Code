@@ -24,7 +24,7 @@
 
 #### (D) Threshold condition
 
-&emsp;&emsp;The term “threshold condition” means a chronic condition, such as congestive heartfailure, diabetes, chronic obstructive pulmonary disease (COPD), or other diseases or conditions, as selected by the Secretary as appropriate for the establishment of a chronic care improvement program.
+&emsp;&emsp;The term “threshold condition” means a chronic condition, such as congestive heart failure, diabetes, chronic obstructive pulmonary disease (COPD), or other diseases or conditions, as selected by the Secretary as appropriate for the establishment of a chronic care improvement program.
 
 #### (E) Targeted beneficiary
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(B) improve beneficiary satisfaction; and
 
-&emsp;&emsp;(C) achieve targets for savings to the program under this subchapter specified by the Secretary in the agreement within a range determined to be appropriate by the Secretary, subject to the application of budget neutrality with respect to the program and not taking into account any payments by the organization under the agreement underthe program for risk under subsection (f)(3)(B) of this section.
+&emsp;&emsp;(C) achieve targets for savings to the program under this subchapter specified by the Secretary in the agreement within a range determined to be appropriate by the Secretary, subject to the application of budget neutrality with respect to the program and not taking into account any payments by the organization under the agreement under the program for risk under subsection (f)(3)(B) of this section.
 
 #### (3) Independent evaluations of Phase II programs
 
@@ -112,7 +112,7 @@
 
 #### (2) Initial contact by Secretary
 
-&emsp;The Secretary shall communicate with each targeted beneficiary concerning participation in a chronic care improvement program. Such communication may be made by the Secretary and shall include information on the following:
+&emsp;The Secretary shall communicate with each targeted beneficiary concerning participationin a chronic care improvement program. Such communication may be made by the Secretary and shall include information on the following:
 
 &emsp;&emsp;(A) A description of the advantages to the beneficiary in participating in a program.
 
@@ -186,7 +186,7 @@
 
 #### (B) Clinical, quality improvement, and financial requirements
 
-&emsp;&emsp;The Secretary may not enter into an agreement with such an organization underthis section for the operation of a chronic care improvement program unless—
+&emsp;&emsp;The Secretary may not enter into an agreement with such an organization under this section for the operation of a chronic care improvement program unless—
 
 &emsp;&emsp;&emsp;(i) the program and organization meet the requirements of subsection (e) of this section and such clinical, quality improvement, financial, and other requirements as the Secretary deems to be appropriate for the targeted beneficiaries to be served; and
 
@@ -262,7 +262,7 @@ In general.—In establishing the demonstration projects under this section, the
 
 &emsp;&emsp;“(B)
 
-Requirement for estimate of budget neutral costs.—As part of the evaluation under subparagraph (A), the Secretary shall evaluate the costs of furnishing care under the projects. The Secretary may not implement the demonstration projects under this section unless the Secretary determines that the costs of providing care to individuals with chronic conditions under the project willnot exceed the costs, in the aggregate, of furnishing care to such individuals under title XVIII of the Social Security Act \[this subchapter\], that would otherwise be paid without regard to the demonstration projects for the period of the project.
+Requirement for estimate of budget neutral costs.—As part of the evaluation under subparagraph (A), the Secretary shall evaluate the costs of furnishing care under the projects. The Secretary may not implement the demonstration projects under this section unless the Secretary determines that the costs of providing care to individuals with chronic conditions under the project will not exceed the costs, in the aggregate, of furnishing care to such individuals under title XVIII of the Social Security Act \[this subchapter\], that would otherwise be paid without regard to the demonstration projects for the period of the project.
 
 &emsp;“(2)
 
@@ -286,7 +286,7 @@ Evaluations.—The Secretary shall conduct evaluations of the clinical and cost 
 
 &emsp;“(2)
 
-Reports.—Not later than 2 years after the commencement of the demonstration projects, and biannually thereafter, the Secretary shall submit to Congress a report on the evaluation, and shall include in the report the following:
+Reports.—Not later than 2 years after the commencement of the demonstration projects, andbiannually thereafter, the Secretary shall submit to Congress a report on the evaluation, and shall include in the report the following:
 
 &emsp;&emsp;“(A) An analysis of the patient outcomes and costs of furnishing care to the individuals with chronic conditions participating in the projects as compared to such outcomes and costs to other individuals for the same health conditions.
 
@@ -361,8 +361,4 @@ Implementation.—Not later than 2 years after the date of the enactment of this
 “(e)
 
 Authorization of Appropriations.—There are authorized to be appropriated to the Secretary such sums as may be necessary in fiscal years 2004 and 2005 to carry out this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1395w–104 of this title.
 

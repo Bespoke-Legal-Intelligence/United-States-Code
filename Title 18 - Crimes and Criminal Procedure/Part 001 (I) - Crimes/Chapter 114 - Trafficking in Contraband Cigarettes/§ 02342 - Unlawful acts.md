@@ -10,7 +10,3 @@
 
 Subsec. (a) of this section effective Nov. 2, 1978, and subsec. (b) of this section effective on first day of first month beginning more than 120 days after Nov. 2, 1978, see section 4 of Pub. L. 95–575, set out as a note under section 2341 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1961, 2344 of this title.
-

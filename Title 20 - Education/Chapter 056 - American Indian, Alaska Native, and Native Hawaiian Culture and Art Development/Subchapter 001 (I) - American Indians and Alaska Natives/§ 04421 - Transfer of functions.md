@@ -6,7 +6,7 @@ There are hereby transferred to the Institute of American Indian and Alaska Nati
 
 #### (b) Certain matters relating to transferred functions
 
-(1) Subject to subsection (d) of this section, all personnel, liabilities, contracts, real property (including the collections of the museum located on the site known as the “Santa Fe Indian School” but not the museum building), personal property, assets, and records as are determined by the Director of the Office of Management and Budget to be employed, held, or used primarily in connection with any function transferred under the provisions of this chapter (regardless of the administrative entity providing the services on the date before the transfer) shall be transferred to the Institute.
+(1) Subject to subsection (d) of this section, all personnel, liabilities, contracts, real property (including the collections of the museum located on the site known as the “Santa Fe Indian School” but not the museum building), personal property, assets, and records as are determined by the Director of the Office of Management and Budget to be employed, held, or used primarilyin connection with any function transferred under the provisions of this chapter (regardless of the administrative entity providing the services on the date before the transfer) shall be transferred to the Institute.
 
 (2) Personnel engaged in functions transferred by this chapter shall be transferred in accordance with applicable laws and regulations relating to the transfer of functions, except that such transfer shall be without reduction in classification or compensation for one year after such transfer.
 
@@ -34,7 +34,7 @@ Subsec. (d)(2). Pub. L. 102–325, §1331(f)(2), substituted “monetary damages
 
 1990—Subsec. (d). Pub. L. 101–644, §503, added subsec. (d) and struck out former subsec. (d) which read as follows: “Unless the Board provides otherwise, the Secretary of the Interior shall, until October 1, 1989, provide such technical and support assistance to the Institute as the Secretary determines reasonable or necessary to assist the Institute. Such assistance shall include audit, accounting, computer services, and building and maintenance services.”
 
-Subsecs. (e), (f). Pub. L. 101–644, §503(1), struck out subsec. (e) which related to completion of transfers, final date of control of Institute by Secretary, paymentof unexpended or unobligated funds, and responsibility for subsequently incurred obligations, and subsec. (f) which related to contract with University of New Mexico, terms of contract, and composition of advisory council.
+Subsecs. (e), (f). Pub. L. 101–644, §503(1), struck out subsec. (e) which related to completion of transfers, final date of control of Institute by Secretary, payment of unexpended or unobligated funds, and responsibility for subsequently incurred obligations, and subsec. (f) which related to contract with University of New Mexico, terms of contract, and composition of advisory council.
 
 1988—Subsec. (e)(3), (4). Pub. L. 100–297 added pars. (3) and (4).
 

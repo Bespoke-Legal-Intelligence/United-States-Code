@@ -8,7 +8,3 @@ Each share distributable to an enrollee under sections 660 and 661 of this title
 
 Section was not enacted as part of act May 18, 1928, ch. 624, 45 Stat. 602, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 663 of this title.
-

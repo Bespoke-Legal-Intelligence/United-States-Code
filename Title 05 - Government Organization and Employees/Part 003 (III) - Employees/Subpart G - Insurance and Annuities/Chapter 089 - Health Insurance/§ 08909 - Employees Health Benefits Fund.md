@@ -26,7 +26,7 @@
 
 (3) The Office shall prescribe regulations in accordance with which this subsection shall be applied in the case of any plan which is discontinued before being credited with the full amount to which it would otherwise be entitled based on the discontinuation of any other plan.
 
-(f)(1) No tax, fee, or other monetary payment may be imposed, directly or indirectly, on a carrier or an underwriting or plan administration subcontractor of an approved health benefits plan by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, with respect to any payment made from the Fund.
+(f)(1) No tax, fee, or other monetary payment may be imposed, directly or indirectly, on a carrier or an underwriting or plan administration subcontractor of an approved health benefits plan by any State, the District of Columbia, orthe Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, with respect to any payment made from the Fund.
 
 (2) Paragraph (1) shall not be construed to exempt any carrier or underwriting or plan administration subcontractor of an approved health benefits plan from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by such carrier or underwriting or plan administration subcontractor from business conducted under this chapter, if that tax, fee, or payment is applicable to a broad range of business activity.
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Disposal of Amounts Remaining as of October 19, 1998, in Contingency Reserve of Discontinued Plan
 
-Pub. L. 105–266, §6(b)(2), Oct. 19, 1998, 112 Stat. 2369, provided that: “In the case of any amounts remaining as of the date of the enactment of this Act \[Oct. 19, 1998\] in the contingency reserve of a discontinued plan, such amounts shall be disposed of in accordance withsection 8909(e) of title 5, United States Code, as amended by this subsection, by—
+Pub. L. 105–266, §6(b)(2), Oct. 19, 1998, 112 Stat. 2369, provided that: “In the case of any amounts remaining as of the date of the enactment of this Act \[Oct. 19, 1998\] in the contingency reserve of a discontinued plan, such amounts shall be disposed of in accordance with section 8909(e) of title 5, United States Code, as amended by this subsection, by—
 
 &emsp;“(A) the deadline set forth in section 8909(e) of such title (as so amended); or
 
@@ -171,8 +171,4 @@ Definitions.—For the purpose of this section—
 &emsp;“(2) the term ‘carrier’ has the meaning given such term by section 8901(7) of such title; and
 
 &emsp;“(3) the term ‘health benefits plan’ has the meaning given such term by section 8901(6) of such title.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6386, 8903b, 8905, 8906 of this title; title 22 sections 4069c, 4069c–1; title 25 section 450i; title 50 section 403p.
 

@@ -80,7 +80,3 @@ Section was enacted as part of the Asbestos Hazard Emergency Response Act of 198
 
 Subsec. (d). Pub. L. 101–637, §12(b), struck out before period at end “as in effect on October 22, 1986”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4014, 4017, 4021 of this title; title 15 section 2647.
-

@@ -94,7 +94,7 @@
 
 &emsp;&emsp;As used in this paragraph, the term “asylum officer” means an immigration officer who—
 
-&emsp;&emsp;&emsp;(i) has had professional training in country conditions, asylum law, and interviewtechniques comparable to that provided to full-time adjudicators of applications under section 1158 of this title, and
+&emsp;&emsp;&emsp;(i) has had professional training in country conditions, asylum law, and interview techniques comparable to that provided to full-time adjudicators of applications under section 1158 of this title, and
 
 &emsp;&emsp;&emsp;(ii) is supervised by an officer who meets the condition described in clause (i) and has had substantial experience adjudicating asylum applications.
 
@@ -144,7 +144,7 @@
 
 &emsp;(B) If the Attorney General—
 
-&emsp;&emsp;(i) is satisfied on the basis of confidential information that the alien is inadmissible under subparagraph (A) (other than clause (ii)), (B), or (C) of section 1182(a)(3) of this title, and
+&emsp;&emsp;(i) is satisfied on the basis of confidential information that the alien is inadmissibleunder subparagraph (A) (other than clause (ii)), (B), or (C) of section 1182(a)(3) of this title, and
 
 &emsp;&emsp;(ii) after consulting with appropriate security agencies of the United States Government, concludes that disclosure of the information would be prejudicial to the public interest, safety, or security,
 
@@ -206,7 +206,7 @@ Section 422(c) of Pub. L. 104–132, which provided that the amendments made by 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, seesection 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Construction of 1996 Amendment
 
@@ -241,8 +241,4 @@ Report.—By not later than 18 months after the date of the enactment of this Ac
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
 For purposes of this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1155, 1158, 1159, 1182, 1187, 1227, 1229a, 1229c, 1231, 1252, 1326, 1368 of this title; title 22 sections 6473, 6474.
 

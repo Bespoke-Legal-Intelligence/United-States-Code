@@ -4,7 +4,3 @@ The funds referred to in section 415b of this title may be used for the purpose 
 
 (May 17, 1928, ch. 602, §2, 45 Stat. 593.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 415b, 415d of this title.
-

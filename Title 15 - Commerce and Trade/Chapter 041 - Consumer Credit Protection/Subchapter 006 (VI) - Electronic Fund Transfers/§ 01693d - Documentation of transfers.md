@@ -44,7 +44,3 @@ In any action involving a consumer, any documentation required by this section t
 
 (Pub. L. 90–321, title IX, §906, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3731.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1693c, 1693f, 1693g of this title.
-

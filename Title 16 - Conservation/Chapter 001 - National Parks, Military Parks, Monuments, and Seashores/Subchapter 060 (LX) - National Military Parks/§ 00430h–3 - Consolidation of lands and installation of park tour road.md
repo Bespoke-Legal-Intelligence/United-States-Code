@@ -18,7 +18,3 @@ The Secretary of the Interior shall not, without first obtaining the consent of 
 
 (Pub. L. 88–37, §1, June 4, 1963, 77 Stat. 55.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 430h–5 of this title.
-

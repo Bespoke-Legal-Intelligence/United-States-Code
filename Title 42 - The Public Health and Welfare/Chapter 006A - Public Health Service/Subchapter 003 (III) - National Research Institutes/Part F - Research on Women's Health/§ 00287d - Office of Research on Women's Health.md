@@ -114,7 +114,3 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 282 of this title.
-

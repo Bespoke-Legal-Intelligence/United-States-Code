@@ -22,7 +22,3 @@ Responsible Party for Loading and Unloading.—The Secretary shall require, by r
 
 Provisions similar to those in this section were contained in section 11107 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14704 of this title.
-

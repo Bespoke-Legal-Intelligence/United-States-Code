@@ -16,7 +16,3 @@ Grants under this section may only be used for the following activities:
 
 1992—Pars. (1), (2). Pub. L. 102–550 substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12904 of this title.
-

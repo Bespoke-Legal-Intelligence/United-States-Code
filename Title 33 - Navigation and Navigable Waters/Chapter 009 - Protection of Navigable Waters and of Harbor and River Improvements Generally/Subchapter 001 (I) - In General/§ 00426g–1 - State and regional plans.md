@@ -14,7 +14,3 @@ The Secretary may—
 
 A prior section 4 of act Aug. 13, 1946, was renumbered section 5 of that act, and was classified to section 426h of this title prior to repeal by Pub. L. 104–303.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 426e, 426h–1 of this title.
-

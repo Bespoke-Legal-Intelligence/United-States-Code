@@ -42,7 +42,3 @@ Subsec. (d). Pub. L. 97–468, §232(1), substituted “entered into or benefit 
 
 Amendment by Pub. L. 96–448 effective Oct. 14, 1980, see section 710(d) of Pub. L. 96–448, set out as a note under section 1170 of Title 11, Bankruptcy.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1012 of this title.
-

@@ -6,7 +6,7 @@ In General.—Subject to subsections (b) and (c) of this section, the Administra
 
 (b)
 
-Reimbursement At Fair Value.—The amount of reimbursement required for a transfer of excess property is the fair value of the property, as determined by the Administrator, if—
+Reimbursement At Fair Value.—The amount of reimbursement required for a transfer of excess property is the fair value of theproperty, as determined by the Administrator, if—
 
 &emsp;(1) net proceeds are requested under section 574(a) of this title; or
 
@@ -45,8 +45,4 @@ In subsection (b)(1), the reference to “section 204(b)” in section 202(a)(1)
 In subsection (b)(2)(A), the words “chapter 91 of title 31” are substituted for “the Government Corporation Control Act (59 Stat. 597, 31 U.S.C. 841)” in section 202(a)(1) (last sentence) of the Federal Property and Administrative Services Act of 1949 because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
 In subsection (c), the word “at” is substituted for “as” (in the phrase “as \[sic\] prices set by the Administrator”) to reflect the probable intent of Congress. See Senate Report No. 2075, dated July 2, 1952 (United States Code Congressional and Administrative News, 82nd Congress, 2d Session, 1952, Volume 2, p. 2123).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 556 of this title.
 

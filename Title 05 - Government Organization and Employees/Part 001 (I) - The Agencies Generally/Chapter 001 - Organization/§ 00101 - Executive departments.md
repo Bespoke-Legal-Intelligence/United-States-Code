@@ -30,7 +30,7 @@ The Executive departments are:
 
 &emsp;The Department of Veterans Affairs.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378; Pub. L. 89–670, §10(b), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(c)(1), Aug. 12, 1970, 84 Stat. 775; Pub. L. 95–91, title VII, §710(a), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–88, title V, §508(b), Oct. 17, 1979, 93 Stat. 692; Pub. L. 100–527, §13(b), Oct. 25, 1988, 102 Stat. 2643.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378; Pub. L. 89–670, §10(b), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(c)(1), Aug. 12, 1970, 84 Stat. 775; Pub. L. 95–91, title VII, §710(a), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–88, title V, §508(b), Oct. 17, 1979, 93Stat. 692; Pub. L. 100–527, §13(b), Oct. 25, 1988, 102 Stat. 2643.)
 
 Historical and Revision Notes
 
@@ -102,6 +102,18 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2004 Amendments
+
+Pub. L. 108–496, §1, Dec. 23, 2004, 118 Stat. 4001, provided that: “This Act \[enacting chapters 89A and 89B of this title, amending section 1005 of Title 39, Postal Service, and enacting provisions set out as a note under section 8951 of this title\] may be cited as the ‘Federal Employee Dental and Vision Benefits Enhancement Act of 2004’.”
+
+Pub. L. 108–469, §1(a), Dec. 21, 2004, 118 Stat. 3891, provided that: “This Act \[amending sections 8351, 8432, 8433, 8439, and 8440a to 8440e of this title and enacting provisions set out as a note under section 8350 of this title\] may be cited as the ‘Thrift Savings Plan Open Elections Act of 2004’.”
+
+Pub. L. 108–411, §1(a), Oct. 30, 2004, 118 Stat. 2305, provided that: “This Act \[enacting sections 4121, 5550b, 5753, and 5754 of this title, amending sections 4103, 4505a, 5302, 5304, 5305, 5314, 5334, 5361, 5363, 5365, 5377, and 6303 of this title, repealing former sections 5753 and 5754 of this title, enacting provisions set out as notes under sections 5304, 5363, 5550b, 5753, and 6303 of this title, and amending provisions set out as a note under section 5305 of this title\] may be cited as the ‘Federal Workforce Flexibility Act of 2004’.”
+
+Pub. L. 108–401, §1, Oct. 30, 2004, 118 Stat. 2255, provided that: “This Act \[amending sections 591, 594, and 596 of this title\] may be cited as the ‘Federal Regulatory Improvement Act of 2004’.”
+
+Pub. L. 108–201, §1, Feb. 24, 2004, 118 Stat. 461, provided that: “This Act \[enacting chapter 98 of this title, amending section 2473 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 2473 of Title 42\] may be cited as the ‘NASA Flexibility Act of 2004’.”
+
 #### Short Title of 2003 Amendments
 
 Pub. L. 108–196, §1, Dec. 19, 2003, 117 Stat. 2896, provided that: “This Act \[enacting provisions set out as a note under section 3371 of this title\] may be cited as the ‘Federal Law Enforcement Pay and Benefits Parity Act of 2003’.”
@@ -123,8 +135,4 @@ Pub. L. 107–27, §1, Aug. 20, 2001, 115 Stat. 207, provided that: “This Act 
 #### Prohibition Against Construction That Would Render Applicable to the Department of Transportation Provisions of Law Inconsistent With Pub. L. 89–670 Creating the Department of Transportation
 
 Section 10(c) of Pub. L. 89–670, which provided that the amendment made to this section by section 10(b) of Pub. L. 89–670 was not to be construed to make applicable to the Department any provision of law inconsistent with Pub. L. 89–670, was repealed by Pub. L. 104–287, §7(5), Oct. 11, 1996, 110 Stat. 3400.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 4 section 7; title 18 sections 115, 351, 1030, 6001; title 28 section 451; title 31 sections 1343, 1344; title 41 sections 403, 601; title 42 sections 8262c, 10156, 10222.
 

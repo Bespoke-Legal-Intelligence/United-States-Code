@@ -40,7 +40,7 @@ Whenever the Commissioner determines that—
 
 &emsp;(2) a State has failed to qualify under the State plan required under section 12335 of this title;
 
-> the Commissioner shall make such allotment available for carrying out such purposes toother participating States in a proportional manner based on the relative population of the State of individuals under the age of 21.
+> the Commissioner shall make such allotment available for carrying out such purposes to other participating States in a proportional manner based on the relative population of the State of individuals under the age of 21.
 
 #### (d) Repealed. Pub. L. 103–252, title IV, §402(b)(2), May 18, 1994, 108 Stat. 673
 
@@ -81,8 +81,4 @@ Subsec. (d). Pub. L. 103–252, §402(b)(2), struck out heading and text of subs
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12337 of this title.
 

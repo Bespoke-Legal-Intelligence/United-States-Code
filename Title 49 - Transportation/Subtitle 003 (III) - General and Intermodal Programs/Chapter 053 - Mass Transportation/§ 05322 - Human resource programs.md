@@ -30,7 +30,3 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §20; added Nov. 6, 1978, Pub. L. 
 
 In this section, before clause (1), the word “make” is substituted for “provide financial assistance by” to eliminate unnecessary words. The words “national and local” are omitted as surplus. The text of 49 App.:1616 (last sentence) is omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5313, 5314, 5338 of this title.
-

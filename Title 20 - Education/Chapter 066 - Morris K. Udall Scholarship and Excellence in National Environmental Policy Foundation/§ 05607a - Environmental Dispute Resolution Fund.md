@@ -48,7 +48,3 @@ A prior section 10 of Pub. L. 102–259 was renumbered section 12 and is classif
 
 1998—Subsec. (b). Pub. L. 105–277 inserted before period at end “, including not to exceed $1,000 annually for official reception and representation expenses”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5607b, 5608, 5609 of this title.
-

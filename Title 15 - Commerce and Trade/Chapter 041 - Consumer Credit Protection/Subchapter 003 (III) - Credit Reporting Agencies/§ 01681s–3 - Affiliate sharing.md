@@ -170,7 +170,3 @@ Followup reports.—The Federal banking agencies, the National Credit Union Admi
 
 \[For definitions of terms used in section 214(e) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1681a, 1681t of this title.
-

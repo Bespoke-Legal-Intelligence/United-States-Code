@@ -20,7 +20,3 @@ The district courts of the United States shall have jurisdiction of such actions
 
 Subsec. (d). Pub. L. 94–73, §408(1), struck out subsec. (d) which related to post-payment of poll taxes in event of a judicial declaration of constitutionality.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1973j of this title.
-

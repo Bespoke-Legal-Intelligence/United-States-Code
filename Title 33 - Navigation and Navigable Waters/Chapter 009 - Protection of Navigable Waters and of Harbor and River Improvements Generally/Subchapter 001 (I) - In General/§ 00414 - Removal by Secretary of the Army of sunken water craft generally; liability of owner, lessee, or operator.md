@@ -30,7 +30,3 @@ Functions, powers and duties of Secretary of the Army and other offices and offi
 
 For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force and Department of the Air Force from Secretary of the Army and Department of the Army, see Secretary of Defense Transfer Order No. 40 \[App. A(57)\], July 22, 1949.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 409, 411, 412, 415, 416, 418 of this title; title 43 section 2105.
-

@@ -26,7 +26,3 @@ Subsec. (f). Act Aug. 24, 1935, §36, inserted last par. defining “obligation�
 
 Subsecs. (b) to (f). Act June 19, 1934, added subsecs. (b) to (f).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 673 of this title; title 12 section 1150a.
-

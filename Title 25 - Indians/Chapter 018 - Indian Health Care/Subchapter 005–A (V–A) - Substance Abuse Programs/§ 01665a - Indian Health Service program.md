@@ -40,7 +40,3 @@
 
 (Pub. L. 94–437, title VII, §702, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4573.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1671 of this title.
-

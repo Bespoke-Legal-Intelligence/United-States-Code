@@ -2,7 +2,7 @@
 
 #### (a) Strategy
 
-The President shall establish a comprehensive, integrated, five-year strategy to combat global HIV/AIDS that strengthens the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS. Such strategy shall maintain sufficient flexibility and remain responsive to the ever-changing nature of the HIV/AIDS pandemic and shall—
+The President shall establish a comprehensive, integrated, five-year strategy to combat globalHIV/AIDS that strengthens the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS. Such strategy shall maintain sufficient flexibility and remain responsive to the ever-changing nature of the HIV/AIDS pandemic and shall—
 
 &emsp;(1) include specific objectives, multisectoral approaches, and specific strategies to treat individuals infected with HIV/AIDS and to prevent the further spread of HIV infections, with a particular focus on the needs of families with children (including the prevention of mother-to-child transmission), women, young people, and children (such as unaccompanied minor children and orphans);
 
@@ -98,6 +98,8 @@ The President shall establish a comprehensive, integrated, five-year strategy to
 
 #### Delegation of Certain Authority Under the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003
 
+For delegation of functions of President under this chapter to Secretary of State, see Delegation of Functions note set out under section 7601 of this title.
+
 Memorandum of President of the United States, Feb. 23, 2004, 69 F.R. 9509, provided:
 
 Memorandum for the Secretary of State
@@ -107,8 +109,4 @@ By the authority vested in me as President by the Constitution and the laws of t
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7604, 7652 of this title.
 

@@ -34,7 +34,7 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 #### (b) Regulatory audit procedures
 
-(1) In conducting a regulatory audit under this section (which does not include a quantity verification for a customs bonded warehouse or general purpose foreign trade zone), the Customs Service auditor shall provide the person being audited, in advance of the audit, with a reasonable estimate of the time to be required for the audit. If in the course of an audit it becomes apparent that additional time will be required, the Customs Service auditor shall immediately provide a further estimate of such additional time.
+(1) In conducting a regulatory audit under this section (which does not include a quantity verification for a customs bonded warehouse or general purpose foreign trade zone), the Customs Service auditor shall provide the person being audited, in advance of the audit, with a reasonable estimate of the time to be required for the audit. If in the course of an audit it becomes apparent that additional time will be required, theCustoms Service auditor shall immediately provide a further estimate of such additional time.
 
 (2) Before commencing an audit, the Customs Service auditor shall inform the party to be audited of his right to an entry conference at which time the purpose will be explained and an estimated termination date set. Upon completion of on-site audit activities, the Customs Service auditor shall schedule a closing conference to explain the preliminary results of the audit.
 
@@ -299,8 +299,4 @@ Amendment by section 205(b) of Pub. L. 103–182 to be made after amendment by s
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1508, 1510, 1553a of this title; title 26 section 6103.
 

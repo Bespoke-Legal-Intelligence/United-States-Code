@@ -8,7 +8,3 @@ Any person who attempts or conspires to commit any offense defined in this subch
 
 1988—Pub. L. 100–690 substituted “shall be subject to the same penalties as those prescribed for the offense” for “is punishable by imprisonment or fine or both which may not exceed the maximum punishment prescribed for the offense”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 sections 36, 3553.
-

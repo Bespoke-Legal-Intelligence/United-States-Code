@@ -20,7 +20,3 @@ Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board” w
 
 1950—Act June 27, 1950, struck out “twice” before “annually”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 246.
-

@@ -42,7 +42,3 @@ In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate 
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4903, 4905, 4909, 4911, 4915 of this title; title 49 section 113.
-

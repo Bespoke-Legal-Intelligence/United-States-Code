@@ -102,7 +102,7 @@ The benefits provided for in this section shall be paid to an employee at such r
 
 #### (B) Beginning date
 
-&emsp;&emsp;An employee's extended benefit period shall begin on the employee's first day of unemployment or first day of sickness, as the case may be, following the day on which the employee exhausts the employee's then current rights to normal benefits for days of unemployment or days of sickness and shallcontinue for 7 consecutive 14-day periods, each of which shall constitute a registration period, but no such extended benefit period shall extend beyond the beginning of the first registration period in a benefit year in which the employee is again qualified for benefits in accordance with section 353 of this title on the basis of compensation earned after the first of such consecutive 14-day periods has begun.
+&emsp;&emsp;An employee's extended benefit period shall begin on the employee's first day of unemployment or first day of sickness, as the case may be, following the day on which the employee exhausts the employee's then current rights to normal benefits for days of unemployment or days of sickness and shall continue for 7 consecutive 14-day periods, each of which shall constitute a registration period, but no such extended benefit period shall extend beyond the beginning of the first registration period in a benefit year in which the employee is again qualified for benefits in accordance with section 353 of this title on the basis of compensation earned after the first of such consecutive 14-day periods has begun.
 
 #### (C) Termination when employee reaches age of 65
 
@@ -112,7 +112,7 @@ The benefits provided for in this section shall be paid to an employee at such r
 
 #### (A) General rule
 
-&emsp;&emsp;With respect to an employee who has 10 or more years of service as defined in section 231(f) of this title, who did not voluntarily retire, and (in a case involving unemployment benefits) did not voluntarily leave work without good cause, who has 14 or more consecutive days of unemployment, or 14 or more consecutive days of sickness, and who is not a qualified employee with respect to the general benefit year current when such unemployment or sickness commences but is or becomes a qualified employee for the next succeeding general benefit year, such succeeding general benefit year shall, in that employee's case, begin on the first day of the month in which such unemployment or sickness commences.
+&emsp;&emsp;With respect to an employee who has 10 or more years of service as defined in section231(f) of this title, who did not voluntarily retire, and (in a case involving unemployment benefits) did not voluntarily leave work without good cause, who has 14 or more consecutive days of unemployment, or 14 or more consecutive days of sickness, and who is not a qualified employee with respect to the general benefit year current when such unemployment or sickness commences but is or becomes a qualified employee for the next succeeding general benefit year, such succeeding general benefit year shall, in that employee's case, begin on the first day of the month in which such unemployment or sickness commences.
 
 #### (B) Exception
 
@@ -138,7 +138,7 @@ Notwithstanding any other law of the United States, or of any State, Territory, 
 
 #### (f) Effect of payment of benefits for remunerable period; payment of surplus remuneration to Board
 
-If (i) benefits are paid to any employee with respect to unemployment or sickness in any registration period, and it is later determined that remuneration is payable to such employee with respect to any period which includes days in such registration period which had been determined to be days of unemployment or sickness, and (ii) the person or company from which such remuneration is payable has, before payment thereof, notice of the payment of benefits upon the basis of days of unemployment or sickness included in such period, the remuneration so payable shall not be reduced by reason of such benefits but the remuneration so payable, to the extent to which benefits were paid upon the basis of days which had been determined to be days of unemployment or sickness and which are included in the period for which such remuneration is payable, shall be held to be a special fund in trust for the Board. The amount of such special fund shall be paid to the Board and inthe collection thereof the Board shall have the same authority, and the same penalties shall apply, as are provided in section 358 of this title with respect to contributions. The proceeds of such special fund shall be credited to the account. Such benefits, to the extent that they are represented in such a special fund which has been collected by the Board, shall be disregarded for the purposes of subsection (c) of this section.
+If (i) benefits are paid to any employee with respect to unemployment or sickness in any registration period, and it is later determined that remuneration is payable to such employee with respect to any period which includes days in such registration period which had been determined to be days of unemployment or sickness, and (ii) the person or company from which such remuneration is payable has, before payment thereof, notice of the payment of benefits upon the basis of days of unemployment or sickness included in such period, the remuneration so payable shall not be reduced by reason of such benefits but the remuneration so payable, to the extent to which benefits were paid upon the basis of days which had been determined to be days of unemployment or sickness and which are included in the period for which such remuneration is payable, shall be held to be a special fund in trust for the Board. The amount of such special fund shall be paid to the Board and in the collection thereof the Board shall have the same authority, and the same penalties shall apply, as are provided in section 358 of this title with respect to contributions. The proceeds of such special fund shall be credited to the account. Such benefits, to the extent that they are represented in such a special fund which has been collected by the Board, shall be disregarded for the purposes of subsection (c) of this section.
 
 #### (g) Payment of accrued benefits upon death
 
@@ -184,7 +184,7 @@ Subsec. (c). Pub. L. 100–647, §7101(c), substituted “shall be taken into ac
 
 1975—Subsec. (a), first par. Pub. L. 94–92, §1(c)(1), inserted proviso and definition of registration period, provided for payment of sickness benefits after four rather than after seven days of sickness, and inserted definition of period of continuing sickness.
 
-Subsec. (a), second par. Pub. L. 94–92, §1(c)(2), substituted provisions for a daily rate of unemployment and sickness benefits, for registration periods beginning after June 30, 1975, but before July 1, 1976, equal to the smaller of $24 or 60 percent of the employee's last daily rate of pay in the base period (but not less than $12.70), and for registration periods beginning after June 30, 1976, a daily rate of $25 for prior provision for such benefits set out in a table with ten levels of base year compensation and corresponding daily benefit rates starting at $8.00, payable to those with the minimum qualifying base year compensation, and rising to a maximum of $12.70, which is reached by those who received base year compensation totalling $4,000 or more and prescribing a minimum daily benefit not less than the smaller of the table maximum ($12.70) or 60 percent of the employee's last daily rate of pay in the base period.
+Subsec. (a), second par. Pub. L. 94–92, §1(c)(2), substituted provisions for a daily rate of unemploymentand sickness benefits, for registration periods beginning after June 30, 1975, but before July 1, 1976, equal to the smaller of $24 or 60 percent of the employee's last daily rate of pay in the base period (but not less than $12.70), and for registration periods beginning after June 30, 1976, a daily rate of $25 for prior provision for such benefits set out in a table with ten levels of base year compensation and corresponding daily benefit rates starting at $8.00, payable to those with the minimum qualifying base year compensation, and rising to a maximum of $12.70, which is reached by those who received base year compensation totalling $4,000 or more and prescribing a minimum daily benefit not less than the smaller of the table maximum ($12.70) or 60 percent of the employee's last daily rate of pay in the base period.
 
 Subsec. (c). Pub. L. 94–92, §1(d), inserted exception provision in first proviso and proviso respecting an employee with less than ten years of service.
 
@@ -248,7 +248,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 Section 7201(b) of Pub. L. 100–647 provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].
+“(1) Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\]shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].
 
 “(2) The amendments made by paragraph (2) of subsection (a) shall apply with respect to registration periods beginning after June 30, 1988.”
 
@@ -386,9 +386,5 @@ Section 303(b) of Pub. L. 86–28 provided that: “An employee who has less tha
 
 #### Interchange of Information Between Secretary of Labor and Railroad Retirement Board
 
-Section 303(c) of Pub. L. 86–28 provided that: “The Secretary of Labor, upon request shall furnish the Board information deemed necessary by the Board for the administration of the provisions of subsection (b) hereof \[set out above\], and the Board, upon request, shall furnish the Secretary of Labor information deemed necessary by the Secretary for the administration of the Temporary Unemployment CompensationAct of 1958 \[section 1400 et seq. of Title 42, The Public Health and Welfare\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 351, 355, 360, 362 of this title; title 26 sections 105, 3231.
+Section 303(c) of Pub. L. 86–28 provided that: “The Secretary of Labor, upon request shall furnish the Board information deemed necessary by the Board for the administration of the provisions of subsection (b) hereof \[set out above\], and the Board, upon request, shall furnish the Secretary of Labor information deemed necessary by the Secretary for the administration of the Temporary Unemployment Compensation Act of 1958 \[section 1400 et seq. of Title 42, The Public Health and Welfare\].”
 

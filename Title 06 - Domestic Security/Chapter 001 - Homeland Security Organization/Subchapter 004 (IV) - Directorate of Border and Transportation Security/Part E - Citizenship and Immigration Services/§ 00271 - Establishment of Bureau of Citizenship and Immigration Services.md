@@ -44,7 +44,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;Not later than 2 years after the effective date specified in section 455,<sup>1</sup> the Secretary shall submit a report to Congress on the implementation of such program.
+&emsp;&emsp;Not later than 2 years after the effective date specified in section 455,<sup>1</sup> the Secretaryshall submit a report to Congress on the implementation of such program.
 
 #### (5) Pilot initiatives for backlog elimination
 
@@ -133,10 +133,6 @@ Bureau of Border Security, referred to in subsecs. (a)(2)(C), (3)(C), and (c)(2)
 #### Effective Date
 
 Pub. L. 107–296, title IV, §455, Nov. 25, 2002, 116 Stat. 2200, provided that: “Notwithstanding section 4 \[enacting provisions set out as a note under section 101 of this title\], sections 451 through 456 \[enacting this section and sections 272 to 275 of this title\], and the amendments made by such sections, shall take effect on the date on which the transfer of functions specified under section 441 \[enacting section 251 of this title\] takes effect.” \[For date on which transfer of functions specified under section 441 takes effect, see section 251 of this title and Department of Homeland Security Reorganization Plan, Nov. 25, 2002, set out as a note under section 542 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 276 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

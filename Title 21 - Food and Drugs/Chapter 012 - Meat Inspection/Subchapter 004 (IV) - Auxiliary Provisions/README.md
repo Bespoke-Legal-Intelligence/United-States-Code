@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—AUXILIARY PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 661 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 

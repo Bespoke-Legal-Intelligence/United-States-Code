@@ -14,7 +14,3 @@ The Secretary may refuse to obligate or expend any money appropriated for the pu
 
 (Pub. L. 95–290, title II, §204, June 5, 1978, 92 Stat. 294.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410cc–25 of this title.
-

@@ -12,7 +12,7 @@ Before adoption of any plan for remedial action to be undertaken by the Presiden
 
 #### (b) Final plan
 
-Notice of the final remedial action plan adopted shall be published and the plan shall be madeavailable to the public before commencement of any remedial action. Such final plan shall be accompanied by a discussion of any significant changes (and the reasons for such changes) in the proposed plan and a response to each of the significant comments, criticisms, and new data submitted in written or oral presentations under subsection (a) of this section.
+Notice of the final remedial action plan adopted shall be published and the plan shall be made available to the public before commencement of any remedial action. Such final plan shall be accompanied by a discussion of any significant changes (and the reasons for such changes) in the proposed plan and a response to each of the significant comments, criticisms, and new data submitted in written or oral presentations under subsection (a) of this section.
 
 #### (c) Explanation of differences
 
@@ -41,8 +41,4 @@ For the purposes of this section, publication shall include, at a minimum, publi
 &emsp;The amount of any grant under this subsection may not exceed $50,000 for a single grant recipient. The President may waive the $50,000 limitation in any case where such waiver is necessary to carry out the purposes of this subsection. Each grant recipient shall be required, as a condition of the grant, to contribute at least 20 percent of the total of costs of the technical assistance for which such grant is made. The President may waive the 20 percent contribution requirement if the grant recipient demonstrates financial need and such waiver is necessary to facilitate public participation in the selection of remedial action at the facility. Not more than one grant may be made under this subsection with respect to a single facility, but the grant may be renewed to facilitate public participation at all stages of remedial action.
 
 (Pub. L. 96–510, title I, §117, as added Pub. L. 99–499, title I, §117, Oct. 17, 1986, 100 Stat. 1654.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9611, 9613, 9620 of this title.
 

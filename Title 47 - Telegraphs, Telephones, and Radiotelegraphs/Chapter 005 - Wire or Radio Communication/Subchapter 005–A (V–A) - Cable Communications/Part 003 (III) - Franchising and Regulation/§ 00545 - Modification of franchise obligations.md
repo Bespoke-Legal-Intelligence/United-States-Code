@@ -36,7 +36,7 @@ Notwithstanding subsections (a) and (b) of this section, a cable operator may, u
 
 #### (d) Rearrangement of particular services from one service tier to another or other offering of service
 
-Notwithstanding subsections (a) and (b) of this section, a cable operator may take such actionsto rearrange a particular service from one service tier to another, or otherwise offer the service, if the rates for all of the service tiers involved in such actions are not subject to regulation under section 543 of this title.
+Notwithstanding subsections (a) and (b) of this section, a cable operator may take such actions to rearrange a particular service from one service tier to another, or otherwise offer the service, if the rates for all of the service tiers involved in such actions are not subject to regulation under section 543 of this title.
 
 #### (e) Requirements for services relating to public, educational, or governmental access
 
@@ -51,8 +51,4 @@ For purposes of this section, the term “commercially impracticable” means, w
 #### Effective Date
 
 Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 544, 555 of this title.
 

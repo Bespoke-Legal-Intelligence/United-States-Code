@@ -6,7 +6,7 @@ The Secretary shall from time to time set dates by which schools must file appli
 
 #### (b) Contingent reduction in allotments
 
-If the total of the amounts requested for any fiscal year in such applications exceeds theamounts appropriated under this section for that fiscal year, the allotment to the loan fund of each such school shall be reduced to whichever of the following is the smaller: (A) the amount requested in its application; or (B) an amount which bears the same ratio to the amounts appropriated as the number of students estimated by the Secretary to be enrolled in such school during such fiscal year bears to the estimated total number of students in all such schools during such year. Amounts remaining after allotment under the preceding sentence shall be reallotted in accordance with clause (B) of such sentence among schools whose applications requested more than the amounts so allotted to their loan funds, but with such adjustments as may be necessary to prevent the total allotted to any such school's loan fund from exceeding the total so requested by it.
+If the total of the amounts requested for any fiscal year in such applications exceeds the amounts appropriated under this section for that fiscal year, the allotment to the loan fund of each such school shall be reduced to whichever of the following is the smaller: (A) the amount requested in its application; or (B) an amount which bears the same ratio to the amounts appropriated as the number of students estimated by the Secretary to be enrolled in such school during such fiscal year bears to the estimated total number of students in all such schools during such year. Amounts remaining after allotment under the preceding sentence shall be reallotted in accordance with clause (B) of such sentence among schools whose applications requested more than the amounts so allotted to their loan funds, but with such adjustments as may be necessary to prevent the total allotted to any such school's loan fund from exceeding the total so requested by it.
 
 #### (c) Allotment of excess funds
 
@@ -28,7 +28,7 @@ Allotments to a loan fund of a school shall be paid to it from time to time in s
 
 #### (3) Preference in making contributions
 
-&emsp;In making Federal capital contributions to student loans funds under section 292q of this title for a fiscal year from amounts described in paragraph (1), the Secretary shall give preference to health professions schools of the same disciplines as the health professions schools returning such amounts for the period during which the amounts expended for such contributions were received by the Secretary. Any such amounts that, prior to being so returned, were available only for the purpose of loans under this subpart to individuals from disadvantaged backgrounds shall be available only for such purpose.
+&emsp;In making Federal capital contributions to student loans funds under section 292q of this title for a fiscal year from amounts described in paragraph (1), the Secretary shall give preference to health professions schools of the same disciplines as the health professions schools returning such amounts for the period during which the amounts expended for such contributions were received by the Secretary. Any such amounts that, prior to being so returned, were available only for the purpose ofloans under this subpart to individuals from disadvantaged backgrounds shall be available only for such purpose.
 
 #### (f) Funding for certain medical schools
 

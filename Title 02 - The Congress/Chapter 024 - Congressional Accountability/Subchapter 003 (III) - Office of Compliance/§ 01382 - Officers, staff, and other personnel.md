@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(A) exercise the authorities and perform the duties of the General Counsel as specified in this chapter; and
 
-&emsp;&emsp;(B) otherwise assist the Board and the Executive Director in carrying out their dutiesand powers, including representing the Office in any judicial proceeding under this chapter.
+&emsp;&emsp;(B) otherwise assist the Board and the Executive Director in carrying out their duties and powers, including representing the Office in any judicial proceeding under this chapter.
 
 #### (4) Attorneys in the office of the General Counsel
 
@@ -98,11 +98,17 @@ The Executive Director shall appoint, and fix the compensation of, and may remov
 
 #### (e) Detailed personnel
 
-The Executive Director may, with the prior consent of the department or agency of the Federal Government concerned, use on a reimbursable or nonreimbursable basis the services of personnel of any such department or agency, including the services of members or personnel of the General Accounting Office Personnel Appeals Board.
+The Executive Director may, with the prior consent of the department or agency of the Federal Government concerned, use on a reimbursable or nonreimbursable basis the services of personnel of any such department or agency, including the services of members or personnel of the General Accounting Office Personnel Appeals Board.<sup>1</sup>
 
 #### (f) Consultants
 
 In carrying out the functions of the Office, the Executive Director may procure the temporary (not to exceed 1 year) or intermittent services of consultants.
 
 (Pub. L. 104–1, title III, §302, Jan. 23, 1995, 109 Stat. 26.)
+
+#### Change of Name
+
+General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

@@ -20,7 +20,3 @@ The Clayton Act, referred to in subsecs. (a) and (b), is act Oct. 15, 1914, ch. 
 
 Section effective thirty days before Oct. 24, 1984, see section 6 of Pub. L. 98–544, set out as a note under section 34 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 34 of this title.
-

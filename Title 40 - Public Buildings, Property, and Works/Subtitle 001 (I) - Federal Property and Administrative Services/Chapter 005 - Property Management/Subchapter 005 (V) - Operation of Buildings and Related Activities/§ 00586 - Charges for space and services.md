@@ -68,7 +68,3 @@ In subsection (b)(3), the words “Federal Buildings Fund” are substituted for
 
 In subsection (d), the words “on and after October 6, 1992” are omitted as obsolete. The words “subsection (b)” are substituted for “section 201(j) of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 490(j))” in section 5(a) of the Independent Agencies Appropriations Act, 1993, to reflect the probable intent of Congress. Section 201 of the Federal Property and Administrative Services Act of 1949 does not contain a subsection (j) and the intended reference was probably “section 210(j)”, which is restated in this section. The text of 40:490f(b) is omitted as executed.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 592 of this title; title 20 section 80q–5; title 22 section 3712a.
-

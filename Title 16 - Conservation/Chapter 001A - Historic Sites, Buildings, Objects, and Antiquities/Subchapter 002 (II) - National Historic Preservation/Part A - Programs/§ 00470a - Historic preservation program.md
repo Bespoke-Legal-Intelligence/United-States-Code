@@ -4,7 +4,7 @@
 
 (1)(A) The Secretary of the Interior is authorized to expand and maintain a National Register of Historic Places composed of districts, sites, buildings, structures, and objects significant in American history, architecture, archeology, engineering, and culture. Notwithstanding section 1125(c) of title 15, buildings and structures on or eligible for inclusion on the National Register of Historic Places (either individually or as part of a historic district), or designated as an individual landmark or as a contributing building in a historic district by a unit of State or local government, may retain the name historically associated with the building or structure.
 
-(B) Properties meeting the criteria for National Historic Landmarks established pursuant to paragraph (2) shall be designated as “National Historic Landmarks” and included on the National Register, subject to the requirements of paragraph (6). All historic properties included on the National Register on December 12, 1980, shall be deemed to be included on the National Register as of their initial listing for purposes of this subchapter. All historic properties listed in the Federal Register of February 6, 1979, as “National Historic Landmarks” or thereafter priorto the effective date of this Act are declared by Congress to be National Historic Landmarks of national historic significance as of their initial listing as such in the Federal Register for purposes of this subchapter and sections 461 to 467 of this title; except that in cases of National Historic Landmark districts for which no boundaries have been established, boundaries must first be published in the Federal Register.
+(B) Properties meeting the criteria for National Historic Landmarks established pursuant to paragraph (2) shall be designated as “National Historic Landmarks” and included on the National Register, subject to the requirements of paragraph (6). All historic properties included on the National Register on December 12, 1980, shall be deemed to be included on the National Register as of their initial listing for purposes of this subchapter. All historic properties listed in the Federal Register of February 6, 1979, as “National Historic Landmarks” or thereafter prior to the effective date of this Act are declared by Congress to be National Historic Landmarks of national historic significance as of their initial listing as such in the Federal Register for purposes of this subchapter and sections 461 to 467 of this title; except that in cases of National Historic Landmark districts for which no boundaries have been established, boundaries must first be published in the Federal Register.
 
 (2) The Secretary in consultation with national historical and archaeological associations, shall establish or revise criteria for properties to be included on the National Register and criteria for National Historic Landmarks, and shall also promulgate or revise regulations as may be necessary for—
 
@@ -26,7 +26,7 @@
 
 (5) Any person or local government may appeal to the Secretary a nomination of any historic property for inclusion on the National Register and may appeal to the Secretary the failure or refusal of a nominating authority to nominate a property in accordance with this subsection.
 
-(6) The Secretary shall promulgate regulations requiring that before any property or district may be included on the National Register or designated as a National Historic Landmark, the owner or owners of such property, or a majority of the owners of the properties within the district in the case of an historic district, shall be given the opportunity (including a reasonable period of time) to concur in, or object to, the nomination of the property or district for such inclusion or designation. If the owner or owners of any privately owned property, or a majority of the owners of such properties within the district in the case of an historic district, object to such inclusion or designation, such property shall not be included on the National Register or designated as a National Historic Landmark until such objection is withdrawn. The Secretary shall review the nomination of the property or district where any such objection has been made and shall determine whether or not the property or district is eligible for such inclusion or designation, and if the Secretary determines that such property or district is eligible for such inclusion or designation, he shall inform the Advisory Council on Historic Preservation, the appropriate State Historic Preservation Officer, the appropriate chief elected local official and the owner or owners of such property, of his determination. The regulations under this paragraph shall include provisions to carry out the purposes of this paragraph in the case of multiple ownership of a single property.
+(6) The Secretary shall promulgate regulations requiring that before any property or district may be included on the National Register or designated as a National Historic Landmark, the owner or owners of such property, or a majority of the owners of the properties within the district in the case of an historic district, shall be given the opportunity (including a reasonable period of time) to concur in, or object to, the nomination of the property or district for such inclusion or designation. If the owner or owners of any privately owned property, or a majority of the owners of such properties within the district in the case of an historic district, object to such inclusion or designation, such property shall not be included on the National Register or designated as a National Historic Landmark until such objection is withdrawn. The Secretary shall review the nomination of the property or district where any such objection hasbeen made and shall determine whether or not the property or district is eligible for such inclusion or designation, and if the Secretary determines that such property or district is eligible for such inclusion or designation, he shall inform the Advisory Council on Historic Preservation, the appropriate State Historic Preservation Officer, the appropriate chief elected local official and the owner or owners of such property, of his determination. The regulations under this paragraph shall include provisions to carry out the purposes of this paragraph in the case of multiple ownership of a single property.
 
 (7) The Secretary shall promulgate, or revise, regulations—
 
@@ -80,7 +80,7 @@
 
 &emsp;(E) advise and assist, as appropriate, Federal and State agencies and local governments in carrying out their historic preservation responsibilities;
 
-&emsp;(F) cooperate with the Secretary, the Advisory Council on Historic Preservation, and other Federal and State agencies local governments, and organizations and individuals to ensure that historic properties are taken into consideration at all levels of planning and development;
+&emsp;(F) cooperate with the Secretary, the Advisory Council on Historic Preservation, andother Federal and State agencies local governments, and organizations and individuals to ensure that historic properties are taken into consideration at all levels of planning and development;
 
 &emsp;(G) provide public information, education, and training and technical assistance in historic preservation;
 
@@ -102,7 +102,7 @@
 
 &emsp;(B) three years after December 12, 1992.
 
-(6)(A) Subject to subparagraphs (C) and (D), the Secretary may enter into contracts or cooperative agreements with a State Historic Preservation Officer for any State authorizing such Officer to assist the Secretary in carrying out oneor more of the following responsibilities within that State—
+(6)(A) Subject to subparagraphs (C) and (D), the Secretary may enter into contracts or cooperative agreements with a State Historic Preservation Officer for any State authorizing such Officer to assist the Secretary in carrying out one or more of the following responsibilities within that State—
 
 &emsp;(i) Identification and preservation of historic properties.
 
@@ -156,7 +156,7 @@
 
 (4) For the purposes of this section the term—
 
-&emsp;(A) “designation” means the identification and registration of properties for protectionthat meet criteria established by the State or the locality for significant historic and prehistoric resources within the jurisdiction of a local government; and
+&emsp;(A) “designation” means the identification and registration of properties for protection that meet criteria established by the State or the locality for significant historic and prehistoric resources within the jurisdiction of a local government; and
 
 &emsp;(B) “protection” means a local review process under State or local law for proposed demolition of, changes to, or other action that may affect historic properties designated pursuant to this subsection.
 
@@ -206,7 +206,7 @@
 
 (6)(A) Properties of traditional religious and cultural importance to an Indian tribe or Native Hawaiian organization may be determined to be eligible for inclusion on the National Register.
 
-(B) In carrying out its responsibilities under section 470f of this title, a Federal agency shallconsult with any Indian tribe or Native Hawaiian organization that attaches religious and cultural significance to properties described in subparagraph (A).
+(B) In carrying out its responsibilities under section 470f of this title, a Federal agency shall consult with any Indian tribe or Native Hawaiian organization that attaches religious and cultural significance to properties described in subparagraph (A).
 
 (C) In carrying out his or her responsibilities under subsection (b)(3) of this section, the State Historic Preservation Officer for the State of Hawaii shall—
 
@@ -593,8 +593,4 @@ Section 506 of Pub. L. 96–515 directed Secretary to undertake a comprehensive 
 #### Fire in Historic Properties; Protective Measures; Report to President and Congress
 
 Section 507 of Pub. L. 96–515 directed Secretary, in cooperation with Secretary of the Treasury, Administrator of United States Fire Administration, and Administrator of Federal Insurance Administration, to submit a report to President and Congress on fire in historic properties, such report to include a review of Federal laws to determine any relationship between these laws and arson or fire by ‘suspicious origin’, to make recommendations respecting amendments to such laws should a correlation be found to exist, to include the feasibility and necessity of establishing or developing protective measures at the Federal, State, or local level for the prevention, detection, and control of arson or fire by ‘suspicious origin’ in historic properties, to include recommendations regarding the Federal role in assisting the States and local governments with protecting historic properties from damage by fire, and to be submitted within eighteen months after Dec. 12, 1980.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410cc–22, 410cc–32, 430g–7, 470b, 470c, 470h–1, 470h–2, 470w, 698u, 5406 of this title; title 10 section 2684; title 24 section 423; title 40 section 3306; title 43 section 2102.
 

@@ -1,16 +1,14 @@
 ### §3212. Maintenance of standards
 
-All laborers and mechanics employed by contractors or subcontractors on projects assisted by the Secretary under this chapter shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not extend any financial assistance under this chapter for such a project without first obtaining adequate assurance that these labor standards will be maintained upon the construction work. The Secretary of Labor shall have, with respect to the labor standards specified in this provision, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), and section 3145 of title 40.
+All laborers and mechanics employed by contractors or subcontractors on projects assisted by the Secretary under this chapter shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40. The Secretary shall not extend any financial assistance under this chapter for such a project without first obtaining adequate assurance that these labor standards will be maintained upon the construction work. The Secretary of Labor shall have, with respect to the labor standards specified in this provision, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), and section 3145 of title 40.
 
-(Pub. L. 89–136, title VI, §602, formerly title VII, §712, Aug. 26, 1965, 79 Stat. 575; Pub. L. 93–567, title III, §302, Dec. 31, 1974, 88 Stat. 1855; renumbered title VI, §602, and amended Pub. L. 105–393, title I, §102(b)(1), (2), Nov. 13, 1998, 112 Stat. 3616.)
+(Pub. L. 89–136, title VI, §602, formerly title VII, §712, Aug. 26, 1965, 79 Stat. 575; Pub. L. 93–567, title III, §302, Dec. 31, 1974, 88 Stat. 1855; renumbered title VI, §602, and amended Pub. L. 105–393, title I, §102(b)(1), (2), Nov. 13, 1998, 112 Stat. 3616; Pub. L. 108–373, title V, §504, Oct. 27, 2004, 118 Stat. 1769.)
 
 #### References in Text
 
 Reorganization Plan Numbered 14 of 1950, referred to in text, is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
-
-In text, “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended (40 U.S.C. 276a–276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c)”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Section was formerly classified to section 3222 of this title prior to renumbering by Pub. L. 105–393.
 
@@ -21,6 +19,8 @@ A prior section 3212, Pub. L. 89–136, title VII, §702, Aug. 26, 1965, 79 Stat
 A prior section 602 of Pub. L. 89–136 was classified to section 3202 of this title prior to repeal by Pub. L. 105–393, §102(a).
 
 #### Amendments
+
+2004—Pub. L. 108–373 substituted “in accordance with subchapter IV of chapter 31 of title 40” for “in accordance with the Davis-Bacon Act, as amended (40 U.S.C.276a–276a–5)” in first sentence and “section 3145 of title 40” for “section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c)” in third sentence.
 
 1998—Pub. L. 105–393, §102(b)(2)(A), substituted section catchline for former section catchline.
 

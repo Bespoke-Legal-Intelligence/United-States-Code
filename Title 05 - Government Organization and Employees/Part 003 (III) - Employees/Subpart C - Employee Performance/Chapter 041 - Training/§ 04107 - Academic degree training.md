@@ -104,7 +104,3 @@ Subsec. (d). Pub. L. 101–510, §1206(a)(2), added subsec. (d).
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3381 of this title; title 10 section 1745; title 41 section 433.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER XII–L—DNA IDENTIFICATION GRANTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3793, 14131 of this title.
-
 
 ---
 

@@ -22,7 +22,3 @@ As used in this subchapter—
 
 For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1644g of this title.
-

@@ -78,7 +78,3 @@ The Secretary of the Treasury may prescribe rules under which, notwithstanding a
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1053, 1202, 1322a, 1421, 1441, 1461 of this title.
-

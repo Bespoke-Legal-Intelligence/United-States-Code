@@ -46,7 +46,3 @@
 
 Amendment by Pub. L. 103–103 effective as of the 120th day after Oct. 8, 1993, or such earlier date as the Office of Personnel Management may by regulation prescribe, see section 6 of Pub. L. 103–103, set out as a note under section 6331 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6371, 6373 of this title.
-

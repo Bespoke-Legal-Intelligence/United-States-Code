@@ -140,7 +140,7 @@
 
 #### (ii) Model guidelines
 
-&emsp;&emsp;&emsp;The Secretary shall request the United States Pharmacopeia to develop, in consultation with pharmaceutical benefit managers and other interested parties, a list of categories and classes that may be used by prescription drug plans under this paragraph and to revise such classification from time to time to reflect changes in therapeutic uses of covered part D drugs and the additions of new covered part D drugs.
+&emsp;&emsp;&emsp;The Secretary shall request the United States Pharmacopeia to develop, in consultation with pharmaceutical benefit managers and other interested parties, a list of categories and classes that may be used by prescription drug plans under this paragraph and to revise such classificationfrom time to time to reflect changes in therapeutic uses of covered part D drugs and the additions of new covered part D drugs.
 
 #### (iii) Limitation on changes in therapeutic classification
 
@@ -198,7 +198,7 @@
 
 &emsp;&emsp;Such program may include elements that promote—
 
-&emsp;&emsp;&emsp;(i) enhanced enrollee understanding to promote the appropriate use of medications by enrollees and to reduce the risk of potential adverse events associated withmedications, through beneficiary education, counseling, and other appropriate means;
+&emsp;&emsp;&emsp;(i) enhanced enrollee understanding to promote the appropriate use of medications by enrollees and to reduce the risk of potential adverse events associated with medications, through beneficiary education, counseling, and other appropriate means;
 
 &emsp;&emsp;&emsp;(ii) increased enrollee adherence with prescription medication regimens through medication refill reminders, special packaging, and other compliance programs and other appropriate means; and
 
@@ -214,7 +214,7 @@
 
 #### (E) Considerations in pharmacy fees
 
-&emsp;&emsp;The PDP sponsor of a prescription drug plan shall take into account, in establishing fees for pharmacists and others providing services under such plan, the resources used, and time required to, implement the medication therapy management program under this paragraph. Each such sponsor shall disclose to the Secretary upon request the amount of any such management or dispensing fees. The provisions of section 1396r–8(b)(3)(D) of this title apply to information disclosed under this subparagraph.
+&emsp;&emsp;The PDP sponsor of a prescription drug plan shall take into account, in establishing fees for pharmacists and others providing services under such plan, the resources used, and time required to, implement the medication therapy management program under this paragraph. Each such sponsor shall disclose to the Secretary upon request theamount of any such management or dispensing fees. The provisions of section 1396r–8(b)(3)(D) of this title apply to information disclosed under this subparagraph.
 
 #### (d) Consumer satisfaction surveys
 
@@ -362,7 +362,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (6) Establishment of safe harbor
 
-&emsp;The Secretary, in consultation with the Attorney General, shall promulgate regulationsthat provide for a safe harbor from sanctions under paragraphs (1) and (2) of section 1320a–7b(b) of this title and an exception to the prohibition under subsection (a)(1) of section 1395nn of this title with respect to the provision of nonmonetary remuneration (in the form of hardware, software, or information technology and training services) necessary and used solely to receive and transmit electronic prescription information in accordance with the standards promulgated under this subsection—
+&emsp;The Secretary, in consultation with the Attorney General, shall promulgate regulations that provide for a safe harbor from sanctions under paragraphs (1) and (2) of section 1320a–7b(b) of this title and an exception to the prohibition under subsection (a)(1) of section 1395nn of this title with respect to the provision of nonmonetary remuneration (in the form of hardware, software, or information technology and training services) necessary and used solely to receive and transmit electronic prescription information in accordance with the standards promulgated under this subsection—
 
 &emsp;&emsp;(A) in the case of a hospital, by the hospital to members of its medical staff;
 
@@ -416,7 +416,7 @@ Subparagraph (A) of section 1395w–22(e)(4) of this title (relating to treatmen
 
 #### (1) In general
 
-&emsp;A PDP sponsor offering a prescription drug plan shall provide that each pharmacy that dispenses a covered part D drug shall informan enrollee of any differential between the price of the drug to the enrollee and the price of the lowest priced generic covered part D drug under the plan that is therapeutically equivalent and bioequivalent and available at such pharmacy.
+&emsp;A PDP sponsor offering a prescription drug plan shall provide that each pharmacy that dispenses a covered part D drug shall inform an enrollee of any differential between the price of the drug to the enrollee and the price of the lowest priced generic covered part D drug under the plan that is therapeutically equivalent and bioequivalent and available at such pharmacy.
 
 #### (2) Timing of notice
 
@@ -444,7 +444,7 @@ Pub. L. 108–173, title I, §108, Dec. 8, 2003, 117 Stat. 2172, provided that:
 
 “(a)
 
-In General.—The Secretary \[of Health and Human Services\] is authorized to make grants to physicians for the purpose of assisting such physicians to implement electronic prescription drug programs that comply with the standards promulgated or modified under section 1860D–4(e) of the Social Security Act \[subsec. (e) of this section\], as inserted by section 101(a).
+In General.—The Secretary \[of Health and Human Services\] is authorized to make grants to physicians for the purpose of assisting such physicians to implement electronic prescription drug programs that comply with the standards promulgated or modified under section 1860D–4(e) of the Social Security Act\[subsec. (e) of this section\], as inserted by section 101(a).
 
 “(b)
 
@@ -503,8 +503,4 @@ Matching requirement.—The applicant for a grant under this section shall agree
 “(d)
 
 Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $50,000,000 for fiscal year 2007 and such sums as may be necessary for each of fiscal years 2008 and 2009.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320a–7b, 1395w–22, 1395w–24, 1395w–101, 1395w–102, 1395w–131, 1395w–133, 1395nn, 1396r–8 of this title.
 

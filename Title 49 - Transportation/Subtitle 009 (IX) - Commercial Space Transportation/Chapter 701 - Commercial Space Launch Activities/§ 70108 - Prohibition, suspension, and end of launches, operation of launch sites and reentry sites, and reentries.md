@@ -36,7 +36,3 @@ Oct. 30, 1984, Pub. L. 98–575, §11, 98 Stat. 3059.
 
 Subsec. (a). Pub. L. 105–303, §102(a)(8)(B), inserted “or reentry site, or reentry of a reentry vehicle,” after “operation of a launch site” and “or reentry” after “launch or operation”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 70110 of this title.
-

@@ -20,11 +20,11 @@ The Administrator shall consider the local currency proceeds as an integral part
 
 #### Prior Provisions
 
-A prior section 305 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, enacted section 1694 of this title, prior to repeal by Pub. L. 89–808, §2(D), Nov. 11, 1966, 80 Stat. 1535.
+A prior section 305 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, enacted section 1694 of this title, priorto repeal by Pub. L. 89–808, §2(D), Nov. 11, 1966, 80 Stat. 1535.
 
 #### Amendments
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizingdeposit of funds generated from sale of commodities into special account, providing that disbursements shall be considered payment by recipient government or as full forgiveness of repayment obligations, consideration of disbursements as payment with respect to credit obligations or annual repayment obligations, and application of dollar sales value of commodities against repayment obligations.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing deposit of funds generated from sale of commodities into special account, providing that disbursements shall be considered payment by recipient government or as full forgiveness of repayment obligations, consideration of disbursements as payment with respect to credit obligations or annual repayment obligations, and application of dollar sales value of commodities against repayment obligations.
 
 1979—Subsec. (a). Pub. L. 96–53, §206, inserted provisions relating to disbursements from the special account equal to the dollar value of credit furnished by the Commodity Credit Corporation under section 1727c(a) of this title.
 
@@ -47,8 +47,4 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 #### Effective Date
 
 Section effective Oct. 1, 1977, see section 215 of Pub. L. 95–88, set out as an Effective Date of 1977 Amendment note under section 1702 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1727e of this title.
 

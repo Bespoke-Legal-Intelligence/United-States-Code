@@ -40,7 +40,3 @@ Subsec. (c) of this section amended section 7902 of Title 5, Government Organiza
 
 Occupational safety and health programs for Federal employees and continuation of Federal Advisory Council on Occupational Safety and Health, see Ex. Ord. No. 12196, Feb. 26, 1980, 45 F.R. 12769, set out as a note under section 7902 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 3 section 425; title 39 section 410.
-

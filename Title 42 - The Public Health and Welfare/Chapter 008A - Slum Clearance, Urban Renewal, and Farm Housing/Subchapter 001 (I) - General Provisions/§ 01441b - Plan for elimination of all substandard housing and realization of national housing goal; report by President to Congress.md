@@ -2,7 +2,7 @@
 
 Not later than January 15, 1969, the President shall make a report to the Congress setting forth a plan, to be carried out over a period of ten years (June 30, 1968, to June 30, 1978), for the elimination of all substandard housing and the realization of the goal referred to in section 1441a of this title. Such plan shall—
 
-&emsp;(1) indicate the number of new or rehabilitated housing units which it is anticipated will have to be provided, with or without Government assistance, during each fiscal year ofthe ten-year period, in order to achieve the objectives of the plan, showing the number of such units which it is anticipated will have to be provided under each of the various Federal programs designed to assist in the provision of housing;
+&emsp;(1) indicate the number of new or rehabilitated housing units which it is anticipated will have to be provided, with or without Government assistance, during each fiscal year of the ten-year period, in order to achieve the objectives of the plan, showing the number of such units which it is anticipated will have to be provided under each of the various Federal programs designed to assist in the provision of housing;
 
 &emsp;(2) indicate the reduction in the number of occupied substandard housing units which it is anticipated will have to occur during each fiscal year of the ten-year period in order to achieve the objectives of the plan;
 

@@ -14,7 +14,3 @@ It is the express intent of Congress that, except for property referred to in se
 
 The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 429b to 429b–3, 429b–5 of this title.
-

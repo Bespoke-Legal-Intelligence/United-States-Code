@@ -26,7 +26,7 @@ Each regulated battery or rechargeable consumer product without an easily remova
 
 &emsp;(2)(A) On each regulated battery which is a nickel-cadmium battery, the chemical name or the abbreviation “Ni-Cd” and the phrase “BATTERY MUST BE RECYCLED OR DISPOSED OF PROPERLY.”.
 
-&emsp;(B) On each regulated battery which is a lead-acid battery, “Pb” or the words “LEAD”,“RETURN”, and “RECYCLE” and if the regulated battery is sealed, the phrase “BATTERY MUST BE RECYCLED.”.
+&emsp;(B) On each regulated battery which is a lead-acid battery, “Pb” or the words “LEAD”, “RETURN”, and “RECYCLE” and if the regulated battery is sealed, the phrase “BATTERY MUST BE RECYCLED.”.
 
 &emsp;(3) On each rechargeable consumer product containing a regulated battery that is not easily removable, the phrase “CONTAINS NICKEL-CADMIUM BATTERY. BATTERY MUST BE RECYCLED OR DISPOSED OF PROPERLY.” or “CONTAINS SEALED LEAD BATTERY. BATTERY MUST BE RECYCLED.”, as applicable.
 
@@ -93,8 +93,4 @@ After the effective dates of a requirement set forth in subsection (a), (b), or 
 &emsp;A person granted an exemption under paragraph (2) may apply for a renewal of the exemption in accordance with the requirements and procedures described in paragraphs (1) and (2). The Administrator may grant a renewal of such an exemption for a period of not more than 2 years after the date of the granting of the renewal.
 
 (Pub. L. 104–142, title I, §103, May 13, 1996, 110 Stat. 1332.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14302, 14306 of this title.
 

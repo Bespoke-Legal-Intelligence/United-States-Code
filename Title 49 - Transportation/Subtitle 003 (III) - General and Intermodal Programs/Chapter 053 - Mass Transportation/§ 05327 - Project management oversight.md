@@ -36,7 +36,7 @@ Plan Approval.—(1) The Secretary shall approve a plan not later than 60 days a
 
 (c)
 
-Limitations on Use of Available Amounts.—(1) The Secretary may use not more than .5 percent of amounts made available for a fiscal year to carry out section 5307, 5309, or 5311 of this title, an interstate transfer mass transportation project under section 103(e)(4) <sup>1</sup> of title 23 as in effect on September 30, 1991, or a project under the National Capital Transportation Act of 1969 (Public Law 91–143, 83 Stat. 320) to make a contract to oversee the construction of a major project under section 5307, 5309, 5311, or 103(e)(4) <sup>1</sup> or that Act. The Secretary may use when necessary not more than an additional .25 percent of amounts made available in a fiscalyear to carry out a major project under section 5309 to make a contract to oversee the construction of the project.
+Limitations on Use of Available Amounts.—(1) The Secretary may use not more than .5 percent of amounts made available for a fiscal year to carry out section 5307, 5309, or 5311 of this title, an interstate transfer mass transportation project under section 103(e)(4) <sup>1</sup> of title 23 as in effect on September 30, 1991, or a project under the National Capital Transportation Act of 1969 (Public Law 91–143, 83 Stat. 320) to make a contract to oversee the construction of a major project under section 5307, 5309, 5311, or 103(e)(4) <sup>1</sup> or that Act. The Secretary may use when necessary not more than an additional .25 percent of amounts made available in a fiscal year to carry out a major project under section 5309 to make a contract to oversee the construction of the project.
 
 (2) The Secretary may use amounts available under paragraph (1) of this subsection to enter into contracts for safety, procurement, management, and financial compliance reviews and audits of a recipient of amounts under paragraph (1) and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section. Subsections (a), (b), and (e) of this section do not apply to contracts under this paragraph.
 
@@ -130,7 +130,7 @@ Section 103 of title 23, referred to in subsec. (c)(1), was amended generally by
 
 #### Amendments
 
-1998—Subsec. (c)(2). Pub. L. 105–178, §3024(a), substituted “enter into contracts” for “make contracts” and inserted “and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section” before period at end of first sentence.
+1998—Subsec. (c)(2). Pub. L. 105–178, §3024(a), substituted “enter into contracts” for “make contracts”and inserted “and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section” before period at end of first sentence.
 
 Subsec. (f). Pub. L. 105–178, §3024(b), added subsec. (f).
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Financing of Oversight Activities
 
-Pub. L. 107–87, title III, §319, Dec. 18, 2001, 115 Stat. 858, provided that: “Beginning in fiscal year 2002 andthereafter, the Secretary may use up to 1 percent of the amounts made available to carry out 49 U.S.C. 5309 for oversight activities under 49 U.S.C. 5327.”
+Pub. L. 107–87, title III, §319, Dec. 18, 2001, 115 Stat. 858, provided that: “Beginning in fiscal year 2002 and thereafter, the Secretary may use up to 1 percent of the amounts made available to carry out 49 U.S.C. 5309 for oversight activities under 49 U.S.C. 5327.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

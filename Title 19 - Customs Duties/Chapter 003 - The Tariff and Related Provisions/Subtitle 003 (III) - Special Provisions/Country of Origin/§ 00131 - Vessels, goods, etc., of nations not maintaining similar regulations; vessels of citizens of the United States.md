@@ -6,7 +6,7 @@ Section 130 of this title shall not apply to vessels or goods, wares, or merchan
 
 #### Codification
 
-Section is a composite of acts Oct. 3, 1913, ch. 16, and Mar. 4, 1915, ch. 171, as amended. The words “nor to anyvessel owned by citizens of the United States but not a vessel of the United States if such vessel after entering an American port shall, before leaving the same, be documented under chapter 121 of title 46” are based on the nonspecific amendment of act Oct. 3, 1913, by act Mar. 4, 1915, as amended.
+Section is a composite of acts Oct. 3, 1913, ch. 16, and Mar. 4, 1915, ch. 171, as amended. The words “nor to any vessel owned by citizens of the United States but not a vessel of the United States if such vessel after entering an American port shall, before leaving the same, be documented under chapter 121 of title 46” are based on the nonspecific amendment of act Oct. 3, 1913, by act Mar. 4, 1915, as amended.
 
 #### Amendments
 
@@ -17,8 +17,4 @@ Pub. L. 103–182, §689(a)(2)(A), substituted “United States documented vesse
 #### Amendment or Repeal; Exception
 
 Section is expressly excepted from amendment or repeal by the Tariff Act of 1930 (act June 17, 1930, ch. 497, title IV, 46 Stat. 763) by section 651(d) of that act which is classified to section 1651(d) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1651 of this title.
 

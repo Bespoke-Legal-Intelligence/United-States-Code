@@ -34,11 +34,11 @@ Notwithstanding any other provision of law, the Secretary is, subject to the pro
 
 #### (2) State remedies
 
-&emsp;The State shall be entitled to the same remedies listed in paragraph (1) of this subsection in the courts of the State or of the United States.
+&emsp;The State shall be entitled to the same remedies listed in paragraph (1) of this subsectionin the courts of the State or of the United States.
 
 #### (d) Time of transfer
 
-Actual transfer of lands and management responsibilities under this section shall not occur on the constructed portions of the project lying between the Atlantic Ocean and the EurekaLock and Dam, inclusive, and between the Gulf of Mexico and the Inglis Lock and Dam, inclusive, until the last day of the 24-month period beginning on November 28, 1990.
+Actual transfer of lands and management responsibilities under this section shall not occur on the constructed portions of the project lying between the Atlantic Ocean and the Eureka Lock and Dam, inclusive, and between the Gulf of Mexico and the Inglis Lock and Dam, inclusive, until the last day of the 24-month period beginning on November 28, 1990.
 
 #### (e) Management pending transfer
 

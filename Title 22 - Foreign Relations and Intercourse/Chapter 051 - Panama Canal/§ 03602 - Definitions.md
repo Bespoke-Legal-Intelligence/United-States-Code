@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 #### (b) Definitions
 
-Subject to the provisions of subsection (c) of this section, for purposes of applying laws of the United States and regulations issued pursuant to such laws with respect to transactions, occurrences, or status on or after October 1, 1979—
+Subject to the provisions of subsection (c) of this section, for purposes of applying laws of the United States and regulations issued pursuantto such laws with respect to transactions, occurrences, or status on or after October 1, 1979—
 
 &emsp;(1) “Canal Zone” shall be deemed to refer to the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements;
 
@@ -69,8 +69,4 @@ Subsec. (d). Pub. L. 104–201, §3522(2), struck out subsec. (d) which read as 
 &emsp;“(2) repeal the Canal Zone Code, and
 
 &emsp;“(3) contain provisions considered necessary and appropriate in light of the experience as of that time under that Treaty.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 sections 5595, 5721, 8102; title 8 section 1101.
 

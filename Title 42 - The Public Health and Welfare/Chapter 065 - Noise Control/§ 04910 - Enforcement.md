@@ -30,7 +30,3 @@ The term “person,” as used in this section, does not include a department, a
 
 1978—Subsec. (a). Pub. L. 95–609 redesignated existing provisions as par. (1) and added par. (2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4902, 4909, 4916, 4917 of this title.
-

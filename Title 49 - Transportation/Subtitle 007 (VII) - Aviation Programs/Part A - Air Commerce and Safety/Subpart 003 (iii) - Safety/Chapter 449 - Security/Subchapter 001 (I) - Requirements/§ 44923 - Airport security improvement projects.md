@@ -2,7 +2,7 @@
 
 (a)
 
-Grant Authority.—Subject to the requirements of this section, the Under Secretary for Border and Transportation Security of the Department of Homeland Security may make grants to airport sponsors—
+Grant Authority.—Subject to the requirements of this section, the Under Secretary forBorder and Transportation Security of the Department of Homeland Security may make grants to airport sponsors—
 
 &emsp;(1) for projects to replace baggage conveyer systems related to aviation security;
 
@@ -98,23 +98,27 @@ Authorization of Appropriations.—
 
 &emsp;(1)
 
-In general.—In addition to amounts made available under subsection (h), there is authorized to be appropriated to carry out this section $250,000,000 for each of fiscal years 2004 through 2007. Such sums shall remain available until expended.
+In general.—In addition to amounts made available under subsection (h), there is authorized to be appropriated to carry out this section $400,000,000 for each of fiscal years 2005, 2006, and 2007. Such sums shall remain available until expended.
 
 &emsp;(2)
 
 Allocations.—50 percent of amounts appropriated pursuant to this subsection for a fiscal year shall be used for making allocations under subsection (h)(2) and 50 percent of such amounts shall be used for making discretionary grants under subsection (h)(3).
 
-(Added Pub. L. 108–176, title VI, §605(a), Dec. 12, 2003, 117 Stat. 2566.)
+(Added Pub. L. 108–176, title VI, §605(a), Dec. 12, 2003, 117 Stat. 2566; amended Pub. L. 108–458, title IV, §4019(e)(1), Dec. 17, 2004, 118 Stat. 3722.)
 
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (e)(2), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
+#### Amendments
+
+2004—Subsec. (i)(1). Pub. L. 108–458 substituted “$400,000,000 for each of fiscal years 2005, 2006, and 2007” for “$250,000,000 for each of fiscal years 2004 through 2007”.
+
 #### Effective Date
 
 Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as an Effective Date of 2003 Amendment note under section 106 of this title.
 
-#### Section Referred to in Other Sections
+#### Period of Reimbursement
 
-This section is referred to in section 44940 of this title.
+Pub. L. 108–458, title IV, §4019(e)(2), Dec. 17, 2004, 118 Stat. 3722, provided that: “Notwithstanding any other provision of law, the Secretary \[of Homeland Security\] may provide that the period of reimbursement under any letter of intent may extend for a period not to exceed 10 years after the date that the Secretary issues such letter, subject to the availability of appropriations. This paragraph applies to letters of intent issued under section 44923 of title 49, United States Code, and letters of intent issued under section 367 of the Department of Transportation and Related Agencies Appropriation Act, 2003 \[Pub. L. 108–7, div. I\] (49 U.S.C. 47110 note).”
 

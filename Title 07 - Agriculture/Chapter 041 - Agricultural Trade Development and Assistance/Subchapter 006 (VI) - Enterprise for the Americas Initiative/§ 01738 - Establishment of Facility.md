@@ -8,47 +8,91 @@ There is established in the Department of the Treasury an entity to be known as 
 
 Subchapter effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1691 of this title.
 
-#### Ex. Ord. No. 12757. Implementation of Enterprise for the Americas Initiative and the Tropical Forest Conservation Act of 1998
+#### Executive Order No. 12757
 
-Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, as amended by Ex. Ord. No. 12823, Dec. 3, 1992, 57 F.R. 57645; Ex. Ord. No. 13028, Dec. 3, 1996, 61 F.R. 64589; Ex. Ord. No. 13131, July 22, 1999, 64 F.R. 40733, provided:
+Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, as amended by Ex. Ord. No. 12823, Dec. 3, 1992, 57 F.R. 57645; Ex. Ord. No. 13028, Dec. 3, 1996, 61 F.R. 64589; Ex. Ord. No. 13131, July 22, 1999, 64 F.R. 40733, which related to implementation of the Enterprise for the Americas Initiative and the Tropical Forest Conservation Act of 1998, was revoked by Ex. Ord. No. 13345, §6(a), July 8, 2004, 69 F.R. 41903, set out below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Agricultural Trade Development and Assistance Act of 1954 (“ATDA Act”) \[7 U.S.C. 1691 et seq.\], as amended by Public Law 101–624 and Public Law 102–237, the Foreign Assistance Act of 1961 (“FAA”) \[22 U.S.C. 2151 et seq.\], as amended by Public Law 102–549 and Public Law 105–214, and section 571 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1996 (“Public Law 104–107”) \[110 Stat. 748\], it is hereby ordered as follows:
+#### Ex. Ord. No. 13345. Assigning Foreign Affairs Functions and Implementing the Enterprise for the Americas Initiative and the Tropical Forest Conservation Act
 
-Section 1. The functions vested in the President by sections 603, 604, 611, and \[former\] 614 of the ATDA Act \[7 U.S.C. 1738b, 1738c, 1738j, and former 1738m\], sections 703, 704, 805(b), 806(a), 807(a), 808(a)(1)(A), 808(a)(2), 812 and 813 of the FAA \[22 U.S.C. 2430b, 2430c, 2431c(b), 2431d(a), 2431e(a), 2431f(a)(1)(A), (2), 2431j, 2431k\], and section 571(a)(1) of Public Law 104–107 are delegated to the Secretary of the Treasury (“Secretary”), who shall exercise such functions in accordance with recommendations of the National Advisory Council on International Monetary and Financial Policies (“Council”), as established by Executive Order No. 11269 of February 14, 1966 \[22 U.S.C. 286b note\]; except that, with respect to the eligibility determinations required by section 703(a)(1), (2), (3), and (4) of the FAA and the corresponding determinations required by section 805(b) of the FAA,, \[sic\] the Secretary of the Treasury shall act in accordance with the recommendations of the Secretary of State. The functions vested in the President by sections 808(a)(1)(B) and (C), and 808(a)(4) of the FAA, and by section 571(a)(2), (c) and (d) of Public Law 104–107 are also delegated to the Secretary, who shall exercise such functions in accordance with recommendations of the Council and in consultation with the Secretary of State. The Secretary of State, when necessary, shall report to the Council regarding the need to review the implementation of environmental programs pursuant to section 611 of the ATDA Act.
+Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, provided:
 
-Sec. 2. (a) For purposes of section 1 of this order only, the membership of the Council shall be expanded to include the following: the Secretary of Agriculture, the Director of the Office of Management and Budget, the Chairman of the Council of Economic Advisers, the Chairman of the Council on Environmental Quality, and the Administrator of the Environmental Protection Agency.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Agricultural Trade Development and Assistance Act of 1954 (ATDA Act), as amended \[7 U.S.C. 1691 et seq.\], the Foreign Assistance Act of 1961 (Foreign Assistance Act), as amended \[22 U.S.C. 2151 et seq.\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-(b) Whenever matters being considered by the Council may be of interest to an agency not represented on the Council, the chairperson may invite a representative of such agency to participate in meetings and deliberations of the Council.
+Section 1. <i>Functions to be Performed by the Secretary of the Treasury</i>. (a) The Secretary of the Treasury is hereby designated to perform the functions of the President under the following provisions of law:
 
-(c) In the event of a disagreement among agencies represented on the Council, the Secretary shall refer the issue to the appropriate Cabinet-level body designated by the President.
+(1) sections 603(b), 604(a), and 611 of the ATDA Act (7 U.S.C. 1738b(b), 1738c(a), and 1738j); and
 
-Sec. 3. (a) The functions vested in the President by section 607 of the ATDA Act \[7 U.S.C. 1738f\] are delegated to the Secretary of State, in consultation with the Department of the Treasury, the Department of Agriculture, the Department of Commerce, the Council on Environmental Quality, the Environmental Protection Agency, the Agency for International Development, and any other agency determined by the Secretary of State to have an interest in an environmental framework agreement.
+(2) sections 703, 704(a), 805(b), 806(a), 807(a), 808(a), and 812 of the Foreign Assistance Act (22 U.S.C. 2430b, 2430c(a), 2431c(b), 2431d(a), 2431e(a), 2431f(a), and 2431j).
 
-(b) Pursuant to section 610(c) of the ATDA Act \[7 U.S.C. 1738i(c)\] and section 709(1) of the FAA \[22 U.S.C. 2430h(1)\], the Enterprise for the Americas Board shall advise the Secretary of State on the negotiations of the environmental framework agreements and the Americas Framework Agreements. The Enterprise for the Americas Board, as constituted pursuant to section 811 of the FAA \[22 U.S.C. 2431i\], shall also advise the Secretary of State and the Administrator of the United States Agency for International Development on the Secretary—s \[sic\] negotiation of Tropical Forest Agreements.
+(b) The Secretary of the Treasury shall:
 
-(c) The Secretary of State shall ensure that the elements and requirements for the Administering Bodies established in section 607(c) of the ATDA Act and sections 708(c) and 809(c) of the FAA \[22 U.S.C. 2430g(c), 2431g(c)\] shall be included in the environmental framework agreements, the Americas Framework Agreements and the Tropical Forest Agreements, respectively.
+(1)(A) make determinations under the provisions of sections 703(b) and 805(b) of the Foreign Assistance Act in accordance with any recommendations received from the Secretary of State with respect to subsections 703(a)(1)–703(a)(4) and the corresponding recommendations under section 805(a)(1) of that Act; and
 
-Sec. 4. (a) The six U.S. Government members of the Enterprise for the Americas Board (“Board”) established by section 610 of the ATDA Act \[7 U.S.C. 1738i\] shall be representatives from the Department of State, the Department of the Treasury, the Department of Agriculture, the Environmental Protection Agency, the Agency for International Development, and the Inter-American Foundation. The two additional U.S. Government members of the Enterprise for the Americas Board appointed pursuant to section 811(b)(1)(A) of the FAA \[22 U.S.C. 2431i(b)(1)(A)\] shall be a representative of the International Forestry Division of the United States Forest Service and a representative of the Council on Environmental Quality.
+(B) make determinations under the provisions of section 805(b) of the Foreign Assistance Act in accordance with any recommendations from the Administrator of the United States Agency for International Development (USAID) with respect to section 803(5)(B) of that Act \[22 U.S.C. 2431a(5)(B)\];
 
-(b) The Department of Commerce and other appropriate agencies may each send representatives to the meetings of the Board, and such representatives may participate in the activities of the Board.
+(2) exercise the functions under the provisions listed in section 1(a)(1) of this order in consultation with the Secretary of State and with the National Advisory Council on International Monetary and Financial Policies (Council) established by Executive Order 11269 of February 14, 1966 \[22 U.S.C. 286b note\];
 
-(c) The representative from the Department of the Treasury shall be the chairperson of the Board. The representative from the Department of State shall be the vice chairperson of the Board. The representative from the Environmental Protection Agency shall serve as secretary of the Board.
+(3) consult, as appropriate, with the Secretary of State, the Administrator of USAID, the Council, the Secretary of Agriculture, the Director of the Office of Management and Budget, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, the Director of the Office of National Drug Control Policy, and the Chairman of the Council of Economic Advisers in the performance of all other functions under the provisions listed in section 1(a) of this order.
 
-(1) The chairperson shall be responsible for presiding over the meetings of the Board, ensuring that the views of all other participants are taken into account, and coordinating with other appropriate agencies in assisting the Board in its review of the fiscal audits conducted pursuant to section 607(c)(4) of the ATDA Act \[7 U.S.C. 1738f(c)(4)\] and sections 708(c)(3)(C) and 811(c)(3) of the FAA \[22 U.S.C. 2430g(c)(3)(C), 2431i(c)(3)\].
+Sec. 2. <i>Functions to be Performed by the Secretary of State</i>. (a) The Secretary of State is hereby designated to perform the functions of the President under sections 607 and 614 of the ATDA Act (7 U.S.C. 1738f and 1738m) and section 813(a) of the Foreign Assistance Act (22 U.S.C. 2431k).
 
-(2) The vice chairperson shall be responsible for serving as liaison between the Board and local governments, local nongovernmental organizations, and the local Administering Bodies in Latin America and the Caribbean, and for coordinating the international activities related to programs funded under the ATDA Act and Parts IV and V of the FAA \[22 U.S.C. 2430 et seq., 2431 et seq.\].
+(b) The Secretary of State shall consult, as appropriate, with the Secretary of the Treasury and the Administrator of USAID, in the performance of functions under the provisions listed in subsection 2(a) of this order.
 
-(3) The secretary of the Board shall be responsible for coordinating the preparation of materials for Board discussion, including the technical reviews of the annual programs and reports required to be submitted to the Board under section 607(c)(5) and (c)(6) of the ATDA Act and section 708(c)(3)(E) and (F) of the FAA, and for preparing official minutes of Board discussions.
+(c) The Secretary of State shall consult, as appropriate, in the performance of functions under section 607 of the ATDA Act, with the Secretary of Agriculture, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of such other executive departments and agencies as the Secretary of State determines appropriate.
 
-(d) The five private nongovernmental organization members of the Board appointed pursuant to section 610(b)(1)(B) of the ATDA Act and the two additional members appointed pursuant to section 811(b)(1)(B) of the FAA shall be appointed by the President.
+(d) The Secretary of State is hereby designated to receive advice or supplemental views on the President's behalf consistent with the following provisions of law:
 
-Sec. 5. No new agreement under Title I of the Agricultural Trade Development and Assistance Act of 1954, as amended \[7 U.S.C. 1701 et seq.\], and no new credit agreement under the Food for Progress Act of 1985, as amended \[7 U.S.C. 1736<i>o</i>\], shall be entered into with any country that is in default with respect to the payment of principal or interest on any obligation issued pursuant to section 604 of the ATDA Act \[7 U.S.C. 1738c\] unless such country meets its obligations or unless the President so authorizes.
+(1) section 610(c)(1) of the ATDA Act (7 U.S.C. 1738i(c)(1)); and
 
-Sec. 6. Any references in this order to section 571, or any subsection of section 571, of Public Law 104–107 shall be deemed to include references to any hereinafter-enacted provision of law that is the same or substantially the same as such section 571 or any subsection thereof.
+(2) section 813(b) of the Foreign Assistance Act (22 U.S.C. 2431k).
 
-Sec. 7. This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+Sec. 3. <i>Recommendation by USAID</i>. The Administrator of USAID shall make recommendations with respect to 803(5)(B) of the Foreign Assistance Act (22 U.S.C. 2431a(5)(B)\[)\], in cooperation with the Secretary of Agriculture and the Secretary of State.
 
-#### Section Referred to in Other Sections
+Sec. 4. <i>Government Appointees to the Enterprise for the Americas Board</i>. (a) Pursuant to section 610(b)(1)(A) of the ATDA Act (7 U.S.C. 1738i(b)(1)(A)\[)\] and section 811(b)(1)(A) and (b)(2) of the Foreign Assistance Act (22 U.S.C. 2431i(b)(1)(A) and (b)(2)), the following officers or employees of the United States are hereby designated to serve as representatives on the Enterprise for the Americas Board:
 
-This section is referred to in title 12 section 635i–6; title 22 section 2430a.
+(i) the designee of the Secretary of State, who shall be the chairperson of the Board;
+
+(ii) the designee of the Secretary of the Treasury;
+
+(iii) two designees of the Secretary of Agriculture, one of whom shall be an officer or employee of the United States Forest Service International Programs Office with experience in international forestry matters, and the other shall be an officer or employee of the Foreign Agricultural Service;
+
+(iv) the designee of the Secretary of the Interior;
+
+(v) the designee of the Administrator of the Environmental Protection Agency;
+
+(vi) the designee of the Administrator of USAID, who shall be the vice chairperson of the Board; and
+
+(vii) the designee of the Chairman of the Council on Environmental Quality.
+
+(b) The Board shall permit the following officers or employees of the United States to attend and observe a Board meeting:
+
+(i) a designee of the Secretary of Commerce; and
+
+(ii) a designee of the head of any executive department or agency, if the meeting will relate to matters relevant to the activities of such executive department or agency.
+
+(c) An officer of the United States listed in subsections 4(a) and 4(b) shall make a designation for purposes of those subsections in writing submitted to the Secretary of State and shall change any such designation in the same manner. The authority to make such a designation may not be delegated.
+
+(d) The Secretary of State may, after consultation with the officers of the United States listed in subsection 4(b) and the Attorney General, as appropriate, establish such procedures as may be necessary to provide for the governance and administration of the Board.
+
+Sec. 5. <i>Guidance for the Performance of Functions</i>. In performing functions under this order, officers of the United States:
+
+(a) shall ensure that all actions taken by them are consistent with the President's constitutional authority to (i) conduct the foreign affairs of the United States, including the commencement, conduct, and termination of negotiations with foreign countries and international organizations, (ii) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties, (iii) recommend for congressional consideration such measures as the President may judge necessary or expedient, and (iv) supervise the unitary executive branch;
+
+(b) may further assign functions assigned by this order to officers of any department or agency within the executive branch to the extent permitted by law except as provided in subsection 4(c) of this order and such further assignment shall be published in the Federal Register; and
+
+(c) shall consult the Attorney General as appropriate in implementing this section.
+
+Sec. 6. <i>Revocation of Executive Orders</i>. The following Executive Orders are hereby revoked:
+
+(a) Executive Order 12757 of March 19, 1991;
+
+(b) Executive Order 12823 of December 3, 1992;
+
+(c) Executive Order 13028 of December 3, 1996; and
+
+(d) Executive Order 13131 of July 22, 1999.
+
+Sec. 7. <i>Judicial Review</i>. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, entities, officers, employees or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,9 +1,5 @@
 Part B—Care Grant Program
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 300ff–12, 300ff–15, 300ff–27a, 300ff–51, 300ff–71, 300ff–75, 300ff–75b, 300ff–77, 300ff–101 of this title.
-
 
 ---
 

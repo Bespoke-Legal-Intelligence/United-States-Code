@@ -24,7 +24,7 @@ Security at Department Medical and Research Facilities.—(1) The Secretary shal
 
 (c)
 
-Tracking of Pharmaceuticals and Medical Supplies and Equipment.—The Secretary shall develop and maintain a centralized system for tracking the current location and availability of pharmaceuticals, medical supplies, and medical equipment throughout the Department health care system in order to permit the ready identification and utilization of such pharmaceuticals, supplies, and equipment for a varietyof purposes, including response to a chemical or biological attack or other terrorist attack.
+Tracking of Pharmaceuticals and Medical Supplies and Equipment.—The Secretary shall develop and maintain a centralized system for tracking the current location and availability of pharmaceuticals, medical supplies, and medical equipment throughout the Department health care system in order to permit the ready identification and utilization of such pharmaceuticals, supplies, and equipment for a variety of purposes, including response to a chemical or biological attack or other terrorist attack.
 
 (d)
 

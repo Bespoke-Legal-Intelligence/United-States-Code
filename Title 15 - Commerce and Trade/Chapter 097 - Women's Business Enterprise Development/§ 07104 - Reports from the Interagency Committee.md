@@ -24,6 +24,10 @@ Pub. L. 105–135, §302(2), redesignated par. (2) as (1) and struck out former 
 
 Pars. (2) to (4). Pub. L. 105–135, §302(2), redesignated pars. (2) to (4) as (1) to (3), respectively.
 
+#### Change of Name
+
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.

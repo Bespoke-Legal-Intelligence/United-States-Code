@@ -82,7 +82,3 @@ Pub. L. 107–171, title X, §10302(b), May 13, 2002, 116 Stat. 492, provided th
 
 Pub. L. 107–171, title X, §10303(b), May 13, 2002, 116 Stat. 492, provided that: “The amendment made by this section \[amending this section\] takes effect 1 year after the date of enactment of this Act \[May 13, 2002\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2153, 2154; title 39 section 3001.
-

@@ -6,7 +6,7 @@
 
 (2) No internship may be provided by the Secretary and no grant may be made or contract entered into by the Secretary for the provision of internships unless an application therefor has been submitted to and approved by the Secretary. Such an application shall be in such form and contain such information, and be submitted to the Secretary in such manner, as the Secretary shall prescribe. Section 300e–5 of this title does not apply to an application submitted under this section.
 
-(3) Internships under the Program shall provide for such stipends and allowances (including travel and subsistence expenses and dependency allowances) for the recipients of the internships as the Secretary deems necessary. An internship provided an individual for training at a health maintenance organization or any other entity shall also provide for payments to be made to the organization or other entity for the cost ofsupport services (including the cost of salaries, supplies, equipment, and related items) provided such individual by such organization or other entity. The amount of any such payments to any organization or other entity shall be determined by the Secretary and shall bear a direct relationship to the reasonable costs of the organization or other entity for establishing and maintaining its training programs.
+(3) Internships under the Program shall provide for such stipends and allowances (including travel and subsistence expenses and dependency allowances) for the recipients of the internships as the Secretary deems necessary. An internship provided an individual for training at a health maintenance organization or any other entity shall also provide for payments to be made to the organization or other entity for the cost of support services (including the cost of salaries, supplies, equipment, and related items) provided such individual by such organization or other entity. The amount of any such payments to any organization or other entity shall be determined by the Secretary and shall bear a directrelationship to the reasonable costs of the organization or other entity for establishing and maintaining its training programs.
 
 (4) Payments under grants under the Program may be made in advance or by way of reimbursement, and at such intervals and on such conditions, as the Secretary finds necessary.
 
@@ -37,10 +37,6 @@ Amendment by Pub. L. 99–660 effective Oct. 1, 1985, see section 815(a) of Pub.
 #### Effective Date
 
 Section 7(c) of Pub. L. 95–559 provided that: “The amendments made by this section \[enacting this section and amending section 300e–8 of this title\] shall only be effective for fiscal years beginning on or after October 1, 1978.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300e–8 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

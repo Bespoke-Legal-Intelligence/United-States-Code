@@ -28,7 +28,3 @@ Par. (5). Pub. L. 102–550, §606(j)(3)(B), struck out “with acquired immunod
 
 Par. (6). Pub. L. 102–550, §606(e), inserted before period at end “, except that activities developed under this paragraph may be assisted only with amounts provided under section 12903(c)(3) of this title”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12903, 12905 of this title.
-

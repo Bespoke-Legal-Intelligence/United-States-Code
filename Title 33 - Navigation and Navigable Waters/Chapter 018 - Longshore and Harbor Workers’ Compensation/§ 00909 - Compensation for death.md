@@ -80,7 +80,3 @@ Amendment by act July 26, 1956, applicable only with respect to injuries and dea
 
 Amendment by act June 24, 1948, applicable to death or injuries occurring after June 24, 1948, see section 6 of act June 24, 1948, set out as a note under section 906 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 904, 908, 931 of this title; title 30 section 932; title 42 sections 1652, 1701, 1702.
-

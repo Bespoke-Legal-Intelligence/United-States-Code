@@ -435,10 +435,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 1251a of this title; title 33 section 1311; title 42 sections 6905, 6925.
-
 
 ---
 

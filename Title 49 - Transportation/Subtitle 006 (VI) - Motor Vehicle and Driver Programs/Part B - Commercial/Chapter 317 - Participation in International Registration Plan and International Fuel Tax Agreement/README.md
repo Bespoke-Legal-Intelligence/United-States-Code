@@ -16,10 +16,6 @@
 
 1998—Pub. L. 105–178, title IV, §4013, June 9, 1998, 112 Stat. 409, struck out items 31702 “Working group”, 31703 “Grants”, and 31708 “Authorization of appropriations”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 113 of this title.
-
 
 ---
 

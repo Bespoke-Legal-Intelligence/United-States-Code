@@ -8,7 +8,7 @@ Consistent with sections 7410 and 7412 of this title, each State shall, after re
 
 &emsp;(2) Adequate mechanisms for assisting small business stationary sources with pollution prevention and accidental release detection and prevention, including providing information concerning alternative technologies, process changes, products, and methods of operation that help reduce air pollution.
 
-&emsp;(3) A designated State office within the relevant State agency to serve as ombudsman forsmall business stationary sources in connection with the implementation of this chapter.
+&emsp;(3) A designated State office within the relevant State agency to serve as ombudsman for small business stationary sources in connection with the implementation of this chapter.
 
 &emsp;(4) A compliance assistance program for small business stationary sources which assists small business stationary sources in determining applicable requirements and in receiving permits under this chapter in a timely and efficient manner.
 
@@ -111,8 +111,4 @@ The Paperwork Reduction Act, referred to in subsecs. (d)(2) and (e)(1)(B), proba
 The Regulatory Flexibility Act, referred to in subsecs. (d)(2) and (e)(1)(B), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
 
 The Equal Access to Justice Act, referred to in subsecs. (d)(2) and (e)(1)(B), is title II of Pub. L. 96–481, Oct. 21, 1980, 94 Stat. 2325. For complete classification of this Act to the Code, see Short Title note set out under section 504 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7661a of this title.
 

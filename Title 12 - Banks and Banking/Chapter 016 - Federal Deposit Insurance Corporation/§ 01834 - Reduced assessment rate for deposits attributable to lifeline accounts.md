@@ -78,7 +78,3 @@ Section 303(b)(4) of Pub. L. 102–558 provided that the amendment made by that 
 
 Section 1605(a)(3) of Pub. L. 102–550, which provided effective date provisions for the amendment made by that section, was repealed, effective Oct. 28, 1992, by section 305 of Pub. L. 102–558, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1817 of this title.
-

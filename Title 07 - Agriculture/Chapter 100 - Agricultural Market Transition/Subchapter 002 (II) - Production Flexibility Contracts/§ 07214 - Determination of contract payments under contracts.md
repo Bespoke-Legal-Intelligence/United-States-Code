@@ -42,7 +42,3 @@ The Secretary shall provide for the sharing of contract payments among the owner
 
 (Pub. L. 104–127, title I, §114, Apr. 4, 1996, 110 Stat. 901.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7911, 7916 of this title.
-

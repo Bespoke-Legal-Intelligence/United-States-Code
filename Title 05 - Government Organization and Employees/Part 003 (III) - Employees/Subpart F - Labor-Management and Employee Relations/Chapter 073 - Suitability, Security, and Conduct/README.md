@@ -87,10 +87,6 @@
 
 1967—Pub. L. 90–83, §1(46), Sept. 11, 1967, 81 Stat. 209, inserted “GIFTS AND” before “DECORATIONS” in subchapter IV heading, struck out item 7341 “Receipt and display of foreign decorations”, and added item 7342.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3374, 3704, 9701, 9902 of this title; title 39 section 410; title 42 sections 2991c, 3522; title 49 section 40122.
-
 
 ---
 

@@ -36,7 +36,7 @@ The Chief Commissioner or his delegate is authorized to receive, determine, and 
 
 (8) Each trial commissioner and each review panel shall have authority to do and perform any acts which may be necessary or proper for the efficient performance of their duties, and shall have the power of subpena, the power to order audit of books and records, and the power to administer oaths and affirmations. Any sanction authorized by the rules of practice of the Court of Claims, except contempt, may be imposed on any claimant, witness, or attorney by the trial commissioner, review panel, or Chief Commissioner. None of the rules, regulations, rulings, findings, or conclusions authorized by this section shall be subject to judicial review.
 
-(9) The findings and conclusions of the trial commissioner shall be submitted by him, together with the record in the case, to the review panel of commissioners for review by it pursuant to such rules as may be provided for the purpose, which shall include provision for submitting the decision of the trial commissioner to the claimant and any party contesting the claim for consideration, exception, and argument before the panel. The panel, by majority vote, shall adopt or modify the findings or the conclusions of the trial commissioner.
+(9) The findings and conclusions of the trial commissioner shall be submitted by him, together with the record in the case, to the review panel of commissioners for review by it pursuant to such rules as may be provided for the purpose, which shall include provision for submitting the decision of the trial commissioner to the claimant and any party contesting the claim for consideration, exception, and argument before the panel. The panel, by majority vote,shall adopt or modify the findings or the conclusions of the trial commissioner.
 
 (10) The Court of Claims is hereby authorized and directed, under such conditions as it may prescribe, to provide the facilities and services of the office of the clerk of the court for the filing, processing, hearing, and dispatch of claims made pursuant to this section and to include within its annual appropriations the costs thereof and other costs of administration, including (but without limitation to the items herein listed) the salaries and traveling expenses of its auditors and the commissioners serving as trial commissioners and panel members, mailing and service of process, necessary physical facilities, equipment, and supplies, and personnel (including secretaries, reporters, auditors, and law clerks).
 
@@ -63,8 +63,4 @@ The United States Court of Claims, referred to in subsecs. (b), (c), (d)(5), (7)
 #### Change of Name
 
 “Chief Commissioner” and “trial commissioner” of the Court of Claims redesignated “chief of the trial division” and “trial judge”, respectively, by General Order No. 2 of 1973 of United States Court of Claims, issued August 1, 1973. Redesignation applicable in all proceedings other than Congressional references cases.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1605 of this title.
 

@@ -20,7 +20,3 @@
 
 1994—Subsec. (a). Pub. L. 103–272 substituted “extent” for “extend” in second sentence.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 47107.
-

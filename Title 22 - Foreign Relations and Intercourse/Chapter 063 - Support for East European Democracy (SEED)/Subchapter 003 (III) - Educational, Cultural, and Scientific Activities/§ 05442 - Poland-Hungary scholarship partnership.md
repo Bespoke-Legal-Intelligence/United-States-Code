@@ -38,7 +38,7 @@ Grants to States pursuant to this section shall be made with funds made availabl
 
 #### (j) Restrictions not applicable
 
-Prohibitions on the use of foreign assistance funds for assistance for Poland and Hungaryshall not apply with respect to the funds made available to carry out this section.
+Prohibitions on the use of foreign assistance funds for assistance for Poland and Hungary shall not apply with respect to the funds made available to carry out this section.
 
 #### (k) “State” defined
 

@@ -86,7 +86,3 @@ The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–
 
 1996—Subsec. (b)(2), Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5102, 5127 of this title.
-

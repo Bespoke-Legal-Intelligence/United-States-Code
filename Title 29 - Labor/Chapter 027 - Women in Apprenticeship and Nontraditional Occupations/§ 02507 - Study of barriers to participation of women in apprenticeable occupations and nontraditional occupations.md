@@ -2,7 +2,7 @@
 
 #### (a) Study
 
-With funds available to the Secretary to carry out the operations of the Department of Laborin fiscal years 1994 and 1995, the Secretary shall conduct a study of the participation of women in apprenticeable occupations and nontraditional occupations. The study shall examine—
+With funds available to the Secretary to carry out the operations of the Department of Labor in fiscal years 1994 and 1995, the Secretary shall conduct a study of the participation of women in apprenticeable occupations and nontraditional occupations. The study shall examine—
 
 &emsp;(1) the barriers to participation of women in apprenticeable occupations and nontraditional occupations;
 

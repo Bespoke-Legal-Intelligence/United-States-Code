@@ -8,7 +8,7 @@
 
 &emsp;(A) Each State shall generally be designated as a geographic area for purposes of paragraph (1).
 
-&emsp;(B) The Secretary shall establish local or regional areas rather than State areas only where the volume of review activity or other relevant factors (as determined by the Secretary) warrant such an establishment, and the Secretary determines that review activity can be carried out with equal or greater efficiency by establishing such local or regional areas. In applying this subparagraph the Secretary shall take into account the number of hospital admissions within each State for which payment may be made under subchapter XVIII of this chapter or a State plan approved under subchapter XIX of this chapter, with any State having fewer than 180,000 such admissions annually being established as a single statewide area, and no local or regional area being established which has fewer than 60,000 total hospital admissions (including public and private pay patients) under review annually, unless the Secretary determines that other relevant factors warrant otherwise.
+&emsp;(B) The Secretary shall establish local or regional areas rather than State areas only where the volume of review activity or otherrelevant factors (as determined by the Secretary) warrant such an establishment, and the Secretary determines that review activity can be carried out with equal or greater efficiency by establishing such local or regional areas. In applying this subparagraph the Secretary shall take into account the number of hospital admissions within each State for which payment may be made under subchapter XVIII of this chapter or a State plan approved under subchapter XIX of this chapter, with any State having fewer than 180,000 such admissions annually being established as a single statewide area, and no local or regional area being established which has fewer than 60,000 total hospital admissions (including public and private pay patients) under review annually, unless the Secretary determines that other relevant factors warrant otherwise.
 
 &emsp;(C) No local or regional area shall be designated which is not a self-contained medical service area, having a full spectrum of services, including medical specialists’ services.
 
@@ -64,7 +64,7 @@ Each contract with an organization under this section shall provide that—
 
 (1) Except as provided in paragraph (2), contracting authority of the Secretary under this section may be carried out without regard to any provision of law relating to the making, performance, amendment, or modification of contracts of the United States as the Secretary may determine to be inconsistent with the purposes of this part. The Secretary may use different contracting methods with respect to different geographical areas.
 
-(2) If a peer review organization with a contract under this section is required to carry outa review function in addition to any function required to be carried out at the time the Secretary entered into or renewed the contract with the organization, the Secretary shall, before requiring such organization to carry out such additional function, negotiate the necessary contractual modifications, including modifications that provide for an appropriate adjustment (in light of the cost of such additional function) to the amount of reimbursement made to the organization.
+(2) If a peer review organization with a contract under this section is required to carry out a review function in addition to any function required to be carried out at the time the Secretary entered into or renewed the contract with the organization, the Secretary shall, before requiring such organization to carry out such additional function, negotiate the necessary contractual modifications, including modifications that provide for an appropriate adjustment (in light of the cost of such additional function) to the amount of reimbursement made to the organization.
 
 #### (f) Termination not subject to judicial review
 
@@ -124,7 +124,7 @@ Subsec. (g). Pub. L. 99–509 added subsec. (g).
 
 1984—Subsec. (b)(2)(A). Pub. L. 98–369, §2347(c)(1), substituted “Prior to November 15, 1984” for “During the first twelve months in which the Secretary is entering into contracts under this section”.
 
-Pub. L. 98–369, §2334(b), inserted “(other than a self-insured employer)” and provision that for purposes of this paragraph an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common control consists only of one individual member of the governing board being affiliated (through management, ownership, or common control) with a health maintenanceorganization or competitive medical plan which is an “eligible organization” as defined in section 1395mm(b) of this title.
+Pub. L. 98–369, §2334(b), inserted “(other than a self-insured employer)” and provision that for purposes of this paragraph an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common control consists only of one individual member of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an “eligible organization” as defined in section 1395mm(b) of this title.
 
 Subsec. (b)(2)(B). Pub. L. 98–369, §2347(c)(2), substituted “after November 14, 1984” for “after the expiration of the twelve-month period referred to in subparagraph (A)”.
 
@@ -183,8 +183,4 @@ In general.—In order to permit the Secretary of Health and Human Services an a
 “(B)
 
 Effective date.—The amendment made by subparagraph (A) shall apply to contracts expiring on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320c–1, 1320c–3, 1320c–6 of this title.
 

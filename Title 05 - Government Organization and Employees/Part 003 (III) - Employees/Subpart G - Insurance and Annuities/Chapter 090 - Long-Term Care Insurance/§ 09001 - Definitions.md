@@ -68,7 +68,7 @@ State.—The term “State” includes the District of Columbia.
 
 &emsp;(9)
 
-Qualified long-term care insurance contract.—The term “qualified long-term care insurance contract” has the meaning given such term by section 7702B of the Internal Revenue Code of 1986.
+Qualified long-term care insurance contract.—The term “qualified long-termcare insurance contract” has the meaning given such term by section 7702B of the Internal Revenue Code of 1986.
 
 &emsp;(10)
 
@@ -94,7 +94,7 @@ Section 7702B of the Internal Revenue Code of 1986, referred to in par. (9), is 
 
 Pub. L. 108–7 inserted “(other than an employee of the District of Columbia Courts)” before period at end of concluding provisions.
 
-Par. (2)(A). Pub. L. 108–136, §561(d), struck out “of this subsection” after ”paragraph (1)”.
+Par. (2)(A). Pub. L. 108–136, §561(d), struck out “of this subsection” after “paragraph (1)”.
 
 Par. (2)(C). Pub. L. 108–136, §561(b), added subpar. (C).
 
@@ -121,8 +121,4 @@ Pub. L. 106–265, title I, §1001, Sept. 19, 2000, 114 Stat. 762, provided that
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9002, 9004, 9008 of this title.
 

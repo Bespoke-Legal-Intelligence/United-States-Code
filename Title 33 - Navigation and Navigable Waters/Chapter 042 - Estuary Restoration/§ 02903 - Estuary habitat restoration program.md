@@ -102,7 +102,3 @@ In carrying out this chapter, the Secretary may delegate project implementation 
 
 (Pub. L. 106–457, title I, §104, Nov. 7, 2000, 114 Stat. 1960.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2902, 2904 of this title.
-

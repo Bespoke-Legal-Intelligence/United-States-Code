@@ -2,7 +2,7 @@
 
 #### (a) Objectives
 
-The objectives of this chapter are to promote the protection of health and the environment and to conserve valuable material and energy resources by—
+The objectives of this chapter are to promote the protection of health and the environmentand to conserve valuable material and energy resources by—
 
 &emsp;(1) providing technical and financial assistance to State and local governments and interstate agencies for the development of solid waste management plans (including resource recovery and resource conservation systems) which will promote improved solid waste management techniques (including more effective organizational arrangements), new and improved methods of collection, separation, and recovery of solid waste, and the environmentally safe disposal of nonrecoverable residues;
 
@@ -43,8 +43,4 @@ Provisions similar to those in this section were contained in section 3251 of th
 Subsec. (a)(4) to (11). Pub. L. 98–616, §101(b)(2), struck out par. (4) which provided for regulating the treatment, storage, transportation, and disposal of hazardous wastes which have adverse effects on health and the environment, added pars. (4) to (7), and redesignated former pars. (5) to (8) as (8) to (11), respectively.
 
 Subsec. (b). Pub. L. 98–616, §101(b)(1), added subsec. (b).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6982 of this title.
 

@@ -8,7 +8,3 @@ The Secretary of State may from time to time establish a list of places which by
 
 1990—Pub. L. 101–246 inserted provisions at end that extra credit not be used to determine eligibility to qualify as former spouse under this part or to compute the pro rata share under section 4044(10) of this title and that no extra credit for service at unhealthful posts be given under this section for any service as part of a tour of duty, or extension thereof, beginning on or after Feb. 16, 1990.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4046, 4071a of this title.
-

@@ -12,7 +12,7 @@ Section 881, Pub. L. 93–203, title III, §313, as added Pub. L. 95–524, §2,
 
 A prior section 881, Pub. L. 93–203, title III, §311, Dec. 28, 1973, 87 Stat. 860; Pub. L. 94–444, §10, Oct. 1, 1976, 90 Stat. 1483, related to establishment of a comprehensive program of manpower research, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-A prior section 313 of Pub. L. 93–203, title III, Dec. 28, 1973, 87 Stat. 862, which related to an evaluation of the programs and activities conducted under this chapter, was classified to section 883 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 313 of Pub. L. 93–203, title III, Dec. 28, 1973, 87 Stat. 862, which related to an evaluation of theprograms and activities conducted under this chapter, was classified to section 883 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 882, Pub. L. 93–203, title III, §314, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1972; amended Pub. L. 96–88, title V, §508(h)(5), Oct. 17, 1979, 93 Stat. 693, provided for training and technical assistance with respect to programs under this chapter.
 

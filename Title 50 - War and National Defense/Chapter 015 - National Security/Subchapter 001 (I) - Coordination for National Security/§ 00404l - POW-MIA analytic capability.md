@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-(1) The Director of Central Intelligence shall, in consultation with the Secretary of Defense, establish and maintain in the intelligence community an analytic capability with responsibility for intelligence in support of the activities of the United States relating to individuals who, after December 31, 1990, are unaccounted for United States personnel.
+(1) The Director of National Intelligence shall, in consultation with the Secretary of Defense, establish and maintain in the intelligence community an analytic capability with responsibility for intelligence in support of the activities of the United States relating to individuals who, after December 31, 1990, are unaccounted for United States personnel.
 
 (2) The analytic capability maintained under paragraph (1) shall be known as the “POW/MIA analytic capability of the intelligence community”.
 
@@ -14,5 +14,13 @@ In this section, the term “unaccounted for United States personnel” means th
 
 &emsp;(2) Any United States national who was killed while engaged in activities on behalf of the United States and whose remains have not been repatriated to the United States.
 
-(July 26, 1947, ch. 343, title I, §117, as added Pub. L. 106–567, title III, §307(a), Dec. 27, 2000, 114 Stat. 2839.)
+(July 26, 1947, ch. 343, title I, §117, as added Pub. L. 106–567, title III, §307(a), Dec. 27, 2000, 114 Stat. 2839; amended Pub. L. 108–458, title I, §1071(a)(1)(T), Dec. 17, 2004, 118 Stat. 3689.)
+
+#### Amendments
+
+2004—Subsec. (a)(1). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

@@ -86,7 +86,3 @@ Pub. L. 101–510, div. A, title VIII, §827(b), Nov. 5, 1990, 104 Stat. 1607, a
 
 &emsp;“(B) is under the jurisdiction of the Secretary of Energy, but only if the primary function of the laboratory, FFRDC, or other center under the Secretary's jurisdiction is to support the national defense activities of the Department of Defense or the Department of Energy.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3703, 3707, 3708 of this title; title 30 section 1805.
-

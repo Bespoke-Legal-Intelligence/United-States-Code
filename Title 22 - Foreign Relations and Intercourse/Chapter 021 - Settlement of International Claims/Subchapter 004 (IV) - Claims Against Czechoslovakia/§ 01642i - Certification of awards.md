@@ -4,7 +4,3 @@ The Commission shall certify to the Secretary of the Treasury, in terms of Unite
 
 (Mar. 10, 1950, ch. 54, title IV, §410, as added Pub. L. 85–604, §1, Aug. 8, 1958, 72 Stat. 529.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1642a of this title.
-

@@ -84,7 +84,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) any funds obtained through the issuance of leverage; or
 
-&emsp;&emsp;&emsp;(iii) any funds obtained directly or indirectly from the Federal Government orany State (including by a political subdivision, agency, or instrumentality of the Federal Government or a State), except for—
+&emsp;&emsp;&emsp;(iii) any funds obtained directly or indirectly from the Federal Government or any State (including by a political subdivision, agency, or instrumentality of the Federal Government or a State), except for—
 
 &emsp;&emsp;&emsp;&emsp;(I) funds obtained from the business revenues (excluding any governmental appropriation) of any federally chartered or government-sponsored enterprise established prior to May 13, 2002;
 

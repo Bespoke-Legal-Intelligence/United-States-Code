@@ -32,7 +32,7 @@ To be eligible to receive a grant under subsection (a) of this section, an entit
 
 #### (3) Limitation
 
-&emsp;Not to exceed 10 percent of the amounts received under this section by a grantee shall be used for training, technical assistance and administrative purposes.
+&emsp;Not to exceed 10 percent of the amounts received under this section by a grantee shall beused for training, technical assistance and administrative purposes.
 
 #### (d) Use of proceeds from investments
 
@@ -43,8 +43,4 @@ Proceeds derived from investments made with amounts provided under this section 
 Amounts provided under this section to a community development corporation shall not exceed $500,000 per year.
 
 (Pub. L. 103–322, title III, §31122, Sept. 13, 1994, 108 Stat. 1886.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
 

@@ -32,7 +32,3 @@ Subsec. (b). Pub. L. 102–242, §472(b)(2), substituted “, or in any geograp
 
 No amendment to this section by section 701 of Pub. L. 102–233 to be deemed to have taken effect before Oct. 28, 1992, and provisions of law amended by such section 701 to continue in effect as if no such amendment had been made, see section 1617(b) of Pub. L. 102–550, set out as a note under section 3345 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3349 of this title.
-

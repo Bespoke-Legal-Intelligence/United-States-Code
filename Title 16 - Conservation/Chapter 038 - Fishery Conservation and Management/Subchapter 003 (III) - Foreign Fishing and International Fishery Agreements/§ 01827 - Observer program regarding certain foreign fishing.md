@@ -34,7 +34,7 @@ There is imposed for each year after 1980 on the owner or operator of each forei
 
 #### (e) Fund
 
-There is established in the Treasury of the United States the Foreign Fishing Observer Fund. The Fund shall be available to the Secretary as a revolving fund for the purpose of carrying out this section. The Fund shall consist of the fees deposited into it as required under subsection (d) of this section. All payments made by the Secretary to carry out this section shall be paid from the Fund, only to the extent and in the amounts provided for in advance in appropriation Acts. Sums in the Fund which are notcurrently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
+There is established in the Treasury of the United States the Foreign Fishing Observer Fund. The Fund shall be available to the Secretary as a revolving fund for the purpose of carrying out this section. The Fund shall consist of the fees deposited into it as required under subsection (d) of this section. All payments made by the Secretary to carry out this section shall be paid from the Fund, only to the extent and in the amounts provided for in advance in appropriation Acts. Sums in the Fund which are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
 #### (f) Prohibited acts
 
@@ -58,7 +58,7 @@ The Secretary shall issue such regulations as are necessary or appropriate to ca
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-Section 101 of the Act of 1976 \[16 U.S.C. 1811\], referred to in subsec. (b)(1)(A), which established the fishery conservation zone, was amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
+Section 101 of the Act of 1976 \[16 U.S.C. 1811\], referred to in subsec. (b)(1)(A), which established the fishery conservation zone, was amended generally by Pub. L.99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
 
 #### Codification
 
@@ -77,8 +77,4 @@ Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided th
 #### Effective Date of 1980 Amendment
 
 Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 971h, 971i of this title.
 

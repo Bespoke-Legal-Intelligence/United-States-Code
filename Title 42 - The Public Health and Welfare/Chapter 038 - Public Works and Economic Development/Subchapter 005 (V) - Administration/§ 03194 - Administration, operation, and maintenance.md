@@ -1,6 +1,6 @@
 ### §3194. Administration, operation, and maintenance
 
-The Secretary shall approve Federal assistance under this chapter only if the Secretary issatisfied that the project for which Federal assistance is granted will be properly and efficiently administered, operated, and maintained.
+The Secretary shall approve Federal assistance under this chapter only if the Secretary is satisfied that the project for which Federal assistance is granted will be properly and efficiently administered, operated, and maintained.
 
 (Pub. L. 89–136, title V, §504, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3610.)
 

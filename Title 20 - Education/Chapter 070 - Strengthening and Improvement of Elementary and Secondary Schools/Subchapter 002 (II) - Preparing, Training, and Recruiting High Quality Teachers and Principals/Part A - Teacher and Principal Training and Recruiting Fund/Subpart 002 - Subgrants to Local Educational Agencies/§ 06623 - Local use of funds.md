@@ -26,7 +26,7 @@ A local educational agency that receives a subgrant under section 6621 of this t
 
 &emsp;&emsp;&emsp;(ii) train and hire highly qualified teachers of special needs children, as well as teaching specialists in core academic subjects who will provide increased individualized instruction to students;
 
-&emsp;&emsp;&emsp;(iii) recruit qualified professionals from other fields, including highly qualified paraprofessionals, and provide such professionals with alternative routes to teacher certification, including developing and implementing hiring policies that ensure comprehensive recruitment efforts as a way to expand the applicant pool, such asthrough identifying teachers certified through alternative routes, and using a system of intensive screening designed to hire the most qualified applicants; and
+&emsp;&emsp;&emsp;(iii) recruit qualified professionals from other fields, including highly qualified paraprofessionals, and provide such professionals with alternative routes to teacher certification, including developing and implementing hiring policies that ensure comprehensive recruitment efforts as a way to expand the applicant pool, such as through identifying teachers certified through alternative routes, and using a system of intensive screening designed to hire the most qualified applicants; and
 
 &emsp;&emsp;&emsp;(iv) provide increased opportunities for minorities, individuals with disabilities, and other individuals underrepresented in the teaching profession.
 
@@ -93,8 +93,4 @@ Funds received under this subpart shall be used to supplement, and not supplant,
 #### Prior Provisions
 
 A prior section 6623, Pub. L. 89–10, title II, §2103, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3617, related to National Teacher Training Project, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7801 of this title.
 

@@ -98,7 +98,7 @@ The Secretary, at the request of a recipient of a grant under subsection (a) of 
 
 #### (h) Records
 
-Each recipient of a grant under subsection (a) of this section shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant,the total cost of the undertaking in connection with which such grant was made, and the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+Each recipient of a grant under subsection (a) of this section shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the undertaking in connection with which such grant was made, and the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 #### (i) Audit and examination of records
 

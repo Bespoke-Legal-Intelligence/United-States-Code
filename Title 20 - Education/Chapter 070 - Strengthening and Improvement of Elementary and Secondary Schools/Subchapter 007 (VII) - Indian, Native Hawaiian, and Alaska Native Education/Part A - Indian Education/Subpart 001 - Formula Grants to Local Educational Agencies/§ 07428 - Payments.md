@@ -46,9 +46,5 @@ The Secretary may reallocate, in a manner that the Secretary determines will bes
 
 A prior section 7428, Pub. L. 89–10, title VII, §7118, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3727, related to capacity building, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6915 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7423 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “this subpart”.</i>
 

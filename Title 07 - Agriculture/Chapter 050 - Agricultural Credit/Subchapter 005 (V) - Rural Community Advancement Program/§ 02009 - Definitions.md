@@ -26,7 +26,3 @@ Similar provisions were contained in Pub. L. 105–277, div. A, §101(a) \[title
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1926, 2009ee of this title.
-

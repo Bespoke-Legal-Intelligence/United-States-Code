@@ -100,7 +100,7 @@ A contract under this section for management of a public housing project by a re
 
 Any management contract between a public housing agency and a resident management corporation that is entered into after November 7, 1988, shall be subject to this section and the regulations issued to carry out this section.
 
-(Sept. 1, 1937, ch. 896, title I, §20, as added Pub. L. 100–242, title I, §122, Feb. 5, 1988, 101 Stat. 1839; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; amended Pub. L. 100–628, title X, §1003, Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title IV, §415, title V, §§514, 572(1), Nov. 28, 1990, 104 Stat. 4160, 4196, 4236; Pub. L. 102–550, title I, §117, Oct. 28, 1992, 106 Stat. 3695; Pub. L. 105–276, title V, §532(a), Oct. 21, 1998, 112 Stat. 2574.)
+(Sept. 1, 1937, ch. 896, title I, §20, as added Pub. L. 100–242, title I, §122, Feb. 5, 1988, 101 Stat. 1839; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; amended Pub. L. 100–628, title X, §1003, Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title IV, §415, title V, §§514, 572(1), Nov. 28, 1990, 104 Stat. 4160, 4196, 4236; Pub. L. 102–550,title I, §117, Oct. 28, 1992, 106 Stat. 3695; Pub. L. 105–276, title V, §532(a), Oct. 21, 1998, 112 Stat. 2574.)
 
 #### Prior Provisions
 
@@ -145,10 +145,6 @@ Subsec. (f)(4). Pub. L. 101–625, §415, added par. (4).
 #### Effective Date of 1998 Amendment
 
 Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437s, 1437aaa–5, 12876 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

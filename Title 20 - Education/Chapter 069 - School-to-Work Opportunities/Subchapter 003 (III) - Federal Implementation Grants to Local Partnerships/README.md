@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—FEDERAL IMPLEMENTATION GRANTS TO LOCAL PARTNERSHIPS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6123, 6143, 6145, 6195, 6214 of this title.
-
 
 ---
 

@@ -20,7 +20,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(iv) any economic enterprise (as defined in section 1452(e) of title 25);
 
-&emsp;(2) The term “livestock” means cattle, sheep, goats, swine, poultry (including egg-producing poultry), equine animals used for food or in the production of food, fish used for food, and other animals designated by the Secretary (at the Secretary's sole discretion) that—
+&emsp;(2) The term “livestock” means cattle, elk, reindeer, bison, sheep, goats, swine, poultry (including egg-producing poultry), equine animals used for food or in the production of food, fish used for food, and other animals designated by the Secretary (at the Secretary's sole discretion) that—
 
 &emsp;&emsp;(A) are part of a foundation herd (including producing dairy cattle) or offspring; or
 
@@ -36,7 +36,7 @@ As used in this subchapter:
 
 &emsp;(5) The term “area” includes any Indian reservation (as defined in section 1985(e)(1)(D)(ii) <sup>2</sup> of this title).
 
-(Oct. 31, 1949, ch. 792, title VI, §602, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 926.)
+(Oct. 31, 1949, ch. 792, title VI, §602, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 926; amended Pub. L. 108–447, div. A, title VII, §785(b)(1), Dec. 8, 2004, 118 Stat. 2850.)
 
 #### References in Text
 
@@ -45,6 +45,10 @@ Section 450b of title 25, referred to in par. (1)(B)(i), (iii), has been amended
 Act of June 18, 1934, referred to in par. (1)(B)(ii), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, popularly known as the Indian Reorganization Act, which enacted sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
 
 Section 1985(e)(1)(D)(ii) of this title, referred to in par. (5), was redesignated section 1985(e)(1)(A)(ii) of this title by Pub. L. 104–127, title VI, §638(3)(A)(ii), Apr. 4, 1996, 110 Stat. 1096.
+
+#### Amendments
+
+2004—Par. (2). Pub. L. 108–447 inserted “elk, reindeer, bison,” after “means cattle,”.
 
 #### Effective Date
 
@@ -59,10 +63,6 @@ For short title of title VI of act Oct. 31, 1949, ch. 792, which enacted this su
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(12) of this title.
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5602 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

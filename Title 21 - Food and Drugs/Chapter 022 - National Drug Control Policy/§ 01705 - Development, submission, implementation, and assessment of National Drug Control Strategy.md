@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(V) the number of cocaine and methamphetamine processing laboratories destroyed domestically and in other countries;
 
-&emsp;&emsp;&emsp;&emsp;(VI) changes in the price and purity of heroin and cocaine, changes in the price of methamphetamine, and changes in tetrahydrocannabinol level of marijuana;
+&emsp;&emsp;&emsp;&emsp;(VI) changes in the price and purity of heroin and cocaine, changes in the priceof methamphetamine, and changes in tetrahydrocannabinol level of marijuana;
 
 &emsp;&emsp;&emsp;&emsp;(VII) the amount and type of controlled substances diverted from legitimate retail and wholesale sources; and
 
@@ -192,7 +192,7 @@
 
 &emsp;&emsp;(F) coordinates the development and implementation of national drug control data collection and reporting systems to support policy formulation and performance measurement, including an assessment of—
 
-&emsp;&emsp;&emsp;(i) the quality of current drug use measurement instruments and techniques to measure supply reduction and demand reduction activities;
+&emsp;&emsp;&emsp;(i) the quality of current drug use measurement instruments and techniques tomeasure supply reduction and demand reduction activities;
 
 &emsp;&emsp;&emsp;(ii) the adequacy of the coverage of existing national drug use measurement instruments and techniques to measure the casual drug user population and groups that are at risk for drug use; and
 
@@ -212,7 +212,7 @@
 
 This chapter, referred to in subsec. (c)(1)(C), was in the original “this Act” and was translated as reading “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
-#### Section Referred to in Other Sections
+#### Change of Name
 
-This section is referred to in sections 1701, 1703, 1709 of this title.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 

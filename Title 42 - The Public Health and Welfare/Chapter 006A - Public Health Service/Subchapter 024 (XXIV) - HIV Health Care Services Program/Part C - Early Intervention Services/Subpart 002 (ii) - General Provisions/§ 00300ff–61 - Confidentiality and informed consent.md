@@ -22,7 +22,3 @@ The Secretary may not make a grant under this part unless, in the case of any en
 
 2000—Subsec. (a). Pub. L. 106–345 struck out par. (1) and par. (2) designation. Prior to amendment, par. (1) read as follows: “in the case of any State applying for a grant under section 300ff–41 of this title, the State agrees to ensure that information regarding the receipt of early intervention services is maintained confidentially pursuant to law or regulations in a manner not inconsistent with applicable law; and”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300ff–63 of this title.
-

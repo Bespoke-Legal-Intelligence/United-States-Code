@@ -70,5 +70,9 @@ The Federal Advisory Committee Act, referred to in subsecs. (g)(6) and (h), is P
 
 Subsecs. (d) to (i). Pub. L. 101–382, §133(c)(1), redesignated subsecs. (e) to (i) as (d) to (h), respectively. Former subsec. (d) redesignated (c).
 
+#### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

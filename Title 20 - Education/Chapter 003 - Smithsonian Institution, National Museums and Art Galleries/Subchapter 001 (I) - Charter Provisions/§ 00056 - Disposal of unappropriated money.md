@@ -8,7 +8,3 @@ The Regents are authorized to make such disposal of any other moneys which have 
 
 R.S. §5592 derived from act Aug. 10, 1846, ch. 178, §9, 9 Stat. 105.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 57, 67 of this title.
-

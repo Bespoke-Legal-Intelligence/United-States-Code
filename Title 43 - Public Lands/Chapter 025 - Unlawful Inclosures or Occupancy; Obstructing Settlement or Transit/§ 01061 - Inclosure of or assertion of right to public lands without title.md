@@ -4,7 +4,3 @@ All inclosures of any public lands in any State or Territory of the United State
 
 (Feb. 25, 1885, ch. 149, §1, 23 Stat. 321.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1062 of this title.
-

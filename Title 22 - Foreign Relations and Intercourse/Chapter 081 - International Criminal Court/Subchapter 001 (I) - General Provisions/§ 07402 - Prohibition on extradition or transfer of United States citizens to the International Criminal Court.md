@@ -18,7 +18,3 @@ In this section, the term “International Criminal Court” has the meaning giv
 
 Section was formerly set out as a note under section 262–1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7432 of this title.
-

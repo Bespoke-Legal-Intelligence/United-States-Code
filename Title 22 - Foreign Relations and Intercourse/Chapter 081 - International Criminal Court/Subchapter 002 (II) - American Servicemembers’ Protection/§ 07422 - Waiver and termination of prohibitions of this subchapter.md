@@ -72,7 +72,3 @@ The prohibitions and requirements of sections 7423, 7424, 7425, and 7426 of this
 
 (Pub. L. 107–206, title II, §2003, Aug. 2, 2002, 116 Stat. 901.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7431 of this title.
-

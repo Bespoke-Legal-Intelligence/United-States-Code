@@ -32,7 +32,7 @@
 
 #### (2) Eligibility
 
-&emsp;To be eligible for employment under paragraph (1) an individual shall be required to have demonstrated, by their education and experience (either in the public or private sector), superior expertise in at least one of the following areas:
+&emsp;To be eligible for employment under paragraph (1) an individual shall be required tohave demonstrated, by their education and experience (either in the public or private sector), superior expertise in at least one of the following areas:
 
 &emsp;&emsp;(A) The review, negotiation, and administration of health care contracts.
 
@@ -99,8 +99,4 @@ Subsec. (c). Pub. L. 108–173, §923(a), added subsec. (c).
 #### Deadline for Appointment
 
 Pub. L. 108–173, title IX, §923(b), Dec. 8, 2003, 117 Stat. 2394, provided that: “By not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall appoint the Medicare Beneficiary Ombudsman under section 1808(c) of the Social Security Act \[subsec. (c) of this section\], as added by subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1395w–3b of this title.
 

@@ -102,7 +102,7 @@ For purposes of sections 2031 and 2052 of this title:
 
 #### (C) Students
 
-&emsp;&emsp;An unmarried dependent child between 18 and 22 years of age who is a student regularly pursuing a full-time course of study ortraining in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution.
+&emsp;&emsp;An unmarried dependent child between 18 and 22 years of age who is a student regularly pursuing a full-time course of study or training in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution.
 
 #### (2) Special rules for students
 
@@ -112,7 +112,7 @@ For purposes of sections 2031 and 2052 of this title:
 
 #### (B) Treatment of interim period between school years
 
-&emsp;&emsp;A child who is a student is deemed not to have ceased to be a student during an interim between school years if the interim does not exceed 5 months and if the child shows to the satisfaction of the Director that the child has a bona fide intention of continuing to pursue a course of study or training in the same or different school during the school semester (or other period into which the school year is divided) immediately following the interim.
+&emsp;&emsp;A child who is a student is deemed not to have ceased to be a student during an interim between school years if the interimdoes not exceed 5 months and if the child shows to the satisfaction of the Director that the child has a bona fide intention of continuing to pursue a course of study or training in the same or different school during the school semester (or other period into which the school year is divided) immediately following the interim.
 
 #### (3) “Dependent” defined
 
@@ -127,8 +127,4 @@ For purposes of sections 2031 and 2052 of this title:
 #### Prior Provisions
 
 A prior section 111 of Pub. L. 88–643, title I, Oct. 13, 1964, 78 Stat. 1043; Pub. L. 94–522, title I, §101, Oct. 17, 1976, 90 Stat. 2467, provided definitions for Pub. L. 88–643 and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403n, 403s, 2031, 2154 of this title.
 

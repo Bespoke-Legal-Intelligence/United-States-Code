@@ -40,7 +40,3 @@ The Secretary of the Treasury, in cooperation with the Secretary of the Interior
 
 (Pub. L. 105–387, §4, Nov. 13, 1998, 112 Stat. 3471.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300d–21, 1300d–24, 1300d–26, 1300d–27 of this title.
-

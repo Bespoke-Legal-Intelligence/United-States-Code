@@ -48,7 +48,7 @@ Section 47114 of this title, referred to in subsec. (b), does not contain a subs
 
 Subsec. (a)(3). Pub. L. 108–176, §404(2), added par. (3).
 
-Subsec. (c). Pub. L. 108–176, §404(3), struck out heading and text of subsec. (c). Text read as follows: “Notwithstanding subsections (a) and (b), in fiscal year 1997, amounts in excess of $75,000,000 that are collected in fees pursuant to section 45301(a)(1) of this title shall be available for the essential air service program under this subchapter, in addition to amounts specifically provided for in appropriations Acts.”
+Subsec. (c). Pub. L. 108–176, §404(3), struck out heading and text of subsec. (c). Text read as follows: “Notwithstanding subsections (a) and (b), in fiscal year 1997, amounts in excess of $75,000,000 that are collected in fees pursuant to section 45301(a)(1) of this title shall beavailable for the essential air service program under this subchapter, in addition to amounts specifically provided for in appropriations Acts.”
 
 2000—Subsec. (a). Pub. L. 106–181 designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
@@ -91,10 +91,6 @@ Section 278(b) of Pub. L. 104–264 provided that: “Congress finds that—
 &emsp;&emsp;“(D) has endured serious funding cuts in recent years; and
 
 &emsp;“(6) a reliable source of funding must be established to maintain air service in rural areas and the essential air service program.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41110 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

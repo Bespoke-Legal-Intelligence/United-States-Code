@@ -8,7 +8,3 @@ Any moneys contributed by or received from the United Mexican States, the North 
 
 2002—Pub. L. 107–228 inserted “, the North American Development Bank, or the Border Environment Cooperation Commission” after “United Mexican States”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 277c of this title.
-

@@ -12,7 +12,3 @@ Section was not enacted as part of act Apr. 25, 1947, ch. 41, 61 Stat. 52, which
 
 Theodore Roosevelt National Memorial Park redesignated Theodore Roosevelt National Park pursuant to Pub. L. 95–625, title VI, §610, Nov. 10, 1978, 92 Stat. 3521, which is classified to section 241g of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 241e of this title.
-

@@ -12,7 +12,3 @@ Based on title 28, U.S.C., 1940 ed., §822 (R.S. §974).
 
 Changes were made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 21 section 844.
-

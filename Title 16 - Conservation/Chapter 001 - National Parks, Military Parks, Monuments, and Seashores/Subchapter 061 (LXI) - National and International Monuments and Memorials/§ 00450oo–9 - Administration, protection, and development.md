@@ -4,7 +4,3 @@ When establishment of the monument has been effected, pursuant to sections 450<i
 
 (Pub. L. 85–910, §10, Sept. 2, 1958, 72 Stat. 1753.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 450<i>oo</i> of this title.
-

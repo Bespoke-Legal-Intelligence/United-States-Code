@@ -68,7 +68,3 @@ The remedies provided in this chapter shall be in addition to, and not exclusive
 
 (Pub. L. 101–624, title XIX, §1972, Nov. 28, 1990, 104 Stat. 3901.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6306, 6308 of this title.
-

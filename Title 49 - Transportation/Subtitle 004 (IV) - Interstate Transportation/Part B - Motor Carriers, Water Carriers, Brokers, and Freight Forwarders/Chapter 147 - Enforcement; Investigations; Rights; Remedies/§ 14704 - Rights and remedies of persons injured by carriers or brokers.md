@@ -42,7 +42,7 @@ Procedure.—
 
 &emsp;(1)
 
-In general.—When a person begins a civil action under subsection (b) of this section to enforce an order of the Board or Secretary requiring the payment of damages by acarrier or broker providing transportation or service subject to jurisdiction under chapter 135 of this title, the text of the order of the Board or Secretary must be included in the complaint. In addition to the district courts of the United States, a State court of general jurisdiction having jurisdiction of the parties has jurisdiction to enforce an order under this paragraph. The findings and order of the Board or Secretary are competent evidence of the facts stated in them. Trial in a civil action brought in a district court of the United States under this paragraph is in the judicial district in which the plaintiff resides or in which the principal operating office of the carrier or broker is located. In a civil action under this paragraph, the plaintiff is liable for only those costs that accrue on an appeal taken by the plaintiff.
+In general.—When a person begins a civil action under subsection (b) of this section to enforce an order of the Board or Secretary requiring the payment of damages by a carrier or broker providing transportation or service subject to jurisdiction under chapter 135 of this title, the text of the order of the Board or Secretary must be included in the complaint. In addition to the district courts of the United States, a State court of general jurisdiction having jurisdiction of the parties has jurisdiction to enforce an order under this paragraph. The findings and order of the Board or Secretary are competent evidence of the facts stated in them. Trial in a civil action brought in a district court of the United States under this paragraph is in the judicial district in which the plaintiff resides or in which the principal operating office of the carrier or broker is located. In a civil action under this paragraph, the plaintiff is liable for only those costs that accrue on an appeal taken by the plaintiff.
 
 &emsp;(2)
 
@@ -57,8 +57,4 @@ Attorney's Fees.—The district court shall award a reasonable attorney's fee un
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11705 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14705 of this title.
 

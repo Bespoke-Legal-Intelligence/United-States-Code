@@ -24,7 +24,3 @@ A prior section 702 of Pub. L. 89–73 was classified to section 3045a of this t
 
 2000—Pub. L. 106–501 amended section catchline and text generally, substituting provisions authorizing appropriations for subparts II, III, and IV of this part for fiscal year 2001 and subsequent fiscal years for provisions authorizing appropriations for subparts II, III, IV, and V of this part for fiscal years 1992 through 1995.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3058b, 3058g, 3058i of this title.
-

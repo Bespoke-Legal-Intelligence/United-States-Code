@@ -10,11 +10,11 @@ Section is comprised of first par. of section 1 of act Mar. 3, 1925. Second par.
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–481 inserted “and the vice chair” after “the chairman” and “Upon request of the chair of the Board, any member whose term has expired may continue to serve on the Trust Fund Board until the earlier of the date on which such member's successor is appointed or the expiration of the 1-year period which begins on the date such member's term expires.” after first sentence and substituted “Seven members of the board” for “Nine members of the board”.
+2000—Pub. L. 106–481 inserted “and the vice chair” after “the chairman” and “Upon request of the chair of the Board, any member whose term has expired may continue to serve on the Trust Fund Board until the earlier of the date on which such member's successor is appointed or the expiration of the 1-year period which begins on the date such member's term expires.” afterfirst sentence and substituted “Seven members of the board” for “Nine members of the board”.
 
-<b>1992</b>—Pub. L. 102–246 struck out “and” after “Librarian of Congress,” inserted “, four persons appointed by the Speaker of the House of Representatives (in consultation with the minority leader of the House of Representatives) for a term of five years each (the first appointments being for two, three, four, and five years, respectively), and four persons appointed by the majority leader of the Senate (in consultation with the minority leader of the Senate) for a term of five years each (the first appointments being for two, three, four, and five years, respectively)” after “respectively)”, and substituted “Nine” for “Three”.
+1992—Pub. L. 102–246 struck out “and” after “Librarian of Congress,” inserted “, four persons appointed by the Speaker of the House of Representatives (in consultation with the minority leader of the House of Representatives) for a term of five years each (the first appointments being for two, three, four, and five years, respectively), and four persons appointed by the majority leader of the Senate (in consultation with the minority leader of the Senate) for a term of five years each (the first appointments being for two, three, four, and five years, respectively)” after “respectively)”, and substituted “Nine” for “Three”.
 
-<b>1978</b>—Pub. L. 95–277 inserted “(or an Assistant Secretary designated in writing by the Secretary of the Treasury)”.
+1978—Pub. L. 95–277 inserted “(or an Assistant Secretary designated in writing by the Secretary of the Treasury)”.
 
 #### Effective Date of 2000 Amendment
 
@@ -23,8 +23,4 @@ Pub. L. 106–481, title II, §202, Nov. 9, 2000, 114 Stat. 2191, provided that:
 #### Short Title
 
 Act Mar. 3, 1925, enacting sections 154 to 162 and 163 of this title, is popularly known as the “Library of Congress Trust Fund Board Act”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 160 of this title.
 

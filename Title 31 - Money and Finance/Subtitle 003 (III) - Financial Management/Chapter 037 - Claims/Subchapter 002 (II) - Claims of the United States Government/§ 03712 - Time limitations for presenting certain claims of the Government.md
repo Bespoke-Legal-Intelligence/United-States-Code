@@ -16,7 +16,7 @@ Period for claims.—If the Secretary of the Treasury determines that a Treasury
 
 Civil actions.—(A) Except as provided in subparagraph (B), the United States may bring a civil action to enforce the liability of an endorser, transferor, depository, or fiscal agent on a forged or unauthorized signature or endorsement on, or a change in, a check or warrant issued by the Secretary of the Treasury, the United States Postal Service, or any disbursing official or agent not later than 1 year after a check or warrant is presented to the drawee for payment.
 
-&emsp;(B) If the United States has given an endorser written notice of a claim against the endorser within the time allowed by subparagraph (A), the 1-year period for bringing a civil action on that claim under subparagraph (A) shall be extended by 3 years.
+&emsp;(B) If the United States has given an endorser written notice of a claim against the endorser within the time allowed by subparagraph (A), the 1-year period for bringing a civilaction on that claim under subparagraph (A) shall be extended by 3 years.
 
 &emsp;(3)
 

@@ -16,7 +16,7 @@ The Bureau is authorized to—
 
 &emsp;(2) collect and analyze information concerning criminal victimization, including crimes against the elderly, and civil disputes;
 
-&emsp;(3) collect and analyze data that will serve as a continuous and comparable national social indication of the prevalence, incidence, rates, extent, distribution, and attributes of crime, juvenile delinquency, civil disputes, and other statistical factors related to crime, civil disputes, and juvenile delinquency, in support of national, State, and local justice policy and decisionmaking;
+&emsp;(3) collect and analyze data that will serve as a continuous and comparable national social indication of the prevalence, incidence,rates, extent, distribution, and attributes of crime, juvenile delinquency, civil disputes, and other statistical factors related to crime, civil disputes, and juvenile delinquency, in support of national, State, and local justice policy and decisionmaking;
 
 &emsp;(4) collect and analyze statistical information, concerning the operations of the criminal justice system at the Federal, State, and local levels;
 
@@ -36,7 +36,7 @@ The Bureau is authorized to—
 
 &emsp;(12) conduct or support research relating to methods of gathering or analyzing justice statistics;
 
-&emsp;(13) provide for the development of justice information systems programs and assistance to the States and units of local governmentrelating to collection, analysis, or dissemination of justice statistics;
+&emsp;(13) provide for the development of justice information systems programs and assistance to the States and units of local government relating to collection, analysis, or dissemination of justice statistics;
 
 &emsp;(14) develop and maintain a data processing capability to support the collection, aggregation, analysis and dissemination of information on the incidence of crime and the operation of the criminal justice system;
 
@@ -235,8 +235,4 @@ Report.—Not later than 18 months after the date of enactment of this Act \[Oct
 &emsp;“(1) the nature of crimes against individuals with developmental disabilities; and
 
 &emsp;“(2) the specific characteristics of the victims of those crimes.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5603 of this title.
 

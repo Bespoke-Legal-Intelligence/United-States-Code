@@ -4,10 +4,6 @@ Part IV—Environmental Quality Incentives Program
 
 Chapter 4 of subtitle D of title XII of the Food Security Act of 1985, comprising this part, was originally added to Pub. L. 99–198 by Pub. L. 104–127, title III, §334, Apr. 4, 1996, 110 Stat. 996. Chapter 4 is shown herein, however, as having been added by Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 253, because of the extensive revision of the chapter's provisions by Pub. L. 107–171.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 590h, 2106a, 3811, 3821, 3830, 3841, 3843, 3862 of this title; title 7 sections 1344, 1377, 1831a; title 43 section 1592.
-
 
 ---
 

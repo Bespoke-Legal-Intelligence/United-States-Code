@@ -40,7 +40,3 @@ Nothing in subsection (d) of this section shall be deemed applicable to any pers
 
 Subsec. (d). Pub. L. 100–588, §1(c), substituted “$500” for “$5,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 470cc, 470gg of this title.
-

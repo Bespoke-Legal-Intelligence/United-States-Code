@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the total amount required to be paid to the State under section 603 of this title for fiscal year 1994 or 1995 (whichever is greater) with respect to expenditures for child care under subsections (g) and (i) of section 602 of this title (as in effect before October 1, 1995); or
 
-&emsp;&emsp;(B) the average of the total amounts required to be paid to the State for fiscal years1992 through 1994 under the subsections referred to in subparagraph (A).
+&emsp;&emsp;(B) the average of the total amounts required to be paid to the State for fiscal years 1992 through 1994 under the subsections referred to in subparagraph (A).
 
 #### (2) Remainder
 
@@ -22,7 +22,7 @@
 
 #### (C) Federal matching of State expenditures exceeding historical expenditures
 
-&emsp;&emsp;The Secretary shall pay to each eligible State for a fiscal year an amount equal to the lesser of the State's allotment under subparagraph (B) or the Federal medical assistance percentage for the State for the fiscal year (as defined in section 1396d(b) of this title, as such section was in effect on September 30, 1995) of so much of the State's expenditures for child care in that fiscal year as exceed the total amount of expenditures by the State (including expenditures from amounts made available from Federal funds) in fiscal year 1994 or 1995 (whichever is greater) for the programs described in paragraph (1)(A).
+&emsp;&emsp;The Secretary shall pay to each eligible State for a fiscal year an amount equal tothe lesser of the State's allotment under subparagraph (B) or the Federal medical assistance percentage for the State for the fiscal year (as defined in section 1396d(b) of this title, as such section was in effect on September 30, 1995) of so much of the State's expenditures for child care in that fiscal year as exceed the total amount of expenditures by the State (including expenditures from amounts made available from Federal funds) in fiscal year 1994 or 1995 (whichever is greater) for the programs described in paragraph (1)(A).
 
 #### (D) Redistribution
 
@@ -127,10 +127,6 @@ Exceptions.—The amendment made by section 5601(a)(2)(B) \[amending this sectio
 #### Effective Date
 
 Section effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as an Effective Date of 1996 Amendment note under section 9858 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 603, 609, 9858c of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

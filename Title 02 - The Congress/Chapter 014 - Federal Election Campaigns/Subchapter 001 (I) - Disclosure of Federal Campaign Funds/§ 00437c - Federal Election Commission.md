@@ -58,7 +58,7 @@ The Commission shall prepare written rules for the conduct of its activities, sh
 
 This Act, referred to in subsecs. (b), (c), and (f)(3), (4), means the Federal Election Campaign Act of 1971, as amended, as defined by section 431 of this title.
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(1), (4), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(1), (4),are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
@@ -66,11 +66,11 @@ A prior section 306 of Pub. L. 92–225 was classified to section 436 of this ti
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a)(2)(A). Pub. L. 105–61 substituted “for a single term of 6 years” for “for terms of 6 years” in introductory provisions.
+1997—Subsec. (a)(2)(A). Pub. L. 105–61 substituted “for a single term of 6 years” for “for terms of 6 years” in introductory provisions.
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–187, §105(6), in par. (1) inserted “or their designees,” before “ex officio”, and struck out “of the United States” after “President”; in par. (2)(B) inserted “or her” after “his” in two places; in par. (2)(C) inserted “or she” after “he”; in par. (3) struck out “maturity” before “experience”, substituted “and members (other than the Secretary of the Senate and the Clerk of the House of Representatives) shall be individuals who, at the time appointed to the Commission” for “and shall be chosen from among individuals who, at the time of their appointment”, substituted “Such members of the Commission” for “Members of the Commission” and substituted “of his or her appointment to the Commission” for “such individual begins to serve as a member of the Commission”; and in par. (5) substituted “A member may serve as Chairman only once” for “No member may serve as Chairman more often than once”.
+1980—Subsec. (a). Pub. L. 96–187, §105(6), in par. (1) inserted “or their designees,” before “ex officio”, and struck out “of the United States” after “President”; in par. (2)(B) inserted “or her” after “his” in two places; in par. (2)(C) inserted “or she” after “he”; in par. (3) struck out “maturity” before “experience”, substituted “and members (other than the Secretary of the Senate and the Clerk of the House of Representatives) shall be individuals who, at the time appointed to the Commission” for “and shall be chosen from among individuals who, at the time of their appointment”, substituted “Such members of the Commission” for “Members of the Commission” and substituted “of his or her appointment to the Commission” for “such individual begins to serve as a member of the Commission”; and in par. (5) substituted “A member may serve as Chairman only once” for “No member may serve as Chairman more often than once”.
 
 Subsec. (b)(1). Pub. L. 96–187, §105(6), substituted “exclusive jurisdiction” for “exclusive primary jurisdiction”.
 
@@ -80,7 +80,7 @@ Pub. L. 96–187, §112(b), purported to substitute “section 307(a)” for “
 
 Subsec. (f). Pub. L. 96–187, §105(6), in par. (1) inserted “or she” after “as he”; in par. (3) struck out “Government” after “United States”; and added par. (4).
 
-<b>1976</b>—Subsec. (a)(1). Pub. L. 94–283, §101(a), changed provisions covering the appointment and confirmation of the six members of the Commission other than the Secretary of the Senate and the Clerk of the House of Representatives by substituting a requirement that they be appointed by the President of the United States, by and with the advice and consent of the Senate, for a requirement that appointment be made by the President, the President pro tempore of the Senate, and the Speaker of the House, with confirmation by a majority of both Houses of the Congress, and made technical changes in the provisions covering the political affiliation of the six appointees so as to accommodate the changed appointment and confirmation procedures.
+1976—Subsec. (a)(1). Pub. L. 94–283, §101(a), changed provisions covering the appointment and confirmation of the six members of the Commission other than the Secretary of the Senate and the Clerk of the House of Representatives by substituting a requirement that they be appointed by the President of the United States, by and with the advice and consent of the Senate, for a requirement that appointment be made by the President, the President pro tempore of the Senate, and the Speaker of the House, with confirmation by a majority of both Houses of the Congress, and made technical changes in the provisions covering the political affiliation of the six appointees so as to accommodate the changed appointment and confirmation procedures.
 
 Subsec. (a)(2). Pub. L. 94–283, §101(b), provided that members of the Commission serve for terms of 6 years, except that members first appointed serve for staggered terms as designated by the President, and inserted provision that a member may serve on the Commission after the expiration of his term until his successor has taken office as a member of the Commission.
 
@@ -106,13 +106,9 @@ Section effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out 
 
 #### Operation of Federal Election Commission After 1976 Amendment of Federal Election Campaign Act; Appointment of Commission Members; Transfer of Personnel, Liabilities, Contracts, Property, and Records, of Commission; References to Commission Prior to Amendment Deemed References to Commission as Constituted After 1976 Amendment of Federal Election Campaign Act
 
-Section 101(e)–(g) of Pub. L. 94–283 provided for the transition of the Federal Election Commission as it was reconstituted under the Federal Election Campaign Act of 1971 as amended by Pub. L. 94–283 by providing for appointment of members, transfer of personnel, liabilities, contracts, property, and records, and savings provisions for orders, determinations, rules opinions, and proceedings issued, pending, or commenced before such amendments.
+Section 101(e)–(g) of Pub. L. 94–283 provided for the transition of the Federal Election Commission as it was reconstituted under the Federal Election Campaign Act of 1971 as amended by Pub. L. 94–283 by providing for appointment of members, transfer of personnel, liabilities, contracts, property, and records, and savings provisions for orders, determinations, rulesopinions, and proceedings issued, pending, or commenced before such amendments.
 
 #### Transitional Provision Pending Appointment and Qualification of Members and General Counsel of Federal Election Commission and Transfer of Records, Documents, Memorandums, and Other Papers
 
 Section 208(b) of Pub. L. 93–443 provided transitional authority for the Comptroller General, the Secretary of the Senate, and the Clerk of the House of Representatives pending the appointment and qualification of the members and general counsel of the Federal Election Commission and authority for transfer of records, documents, memorandums, and other papers to the Commission.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 sections 9002, 9032.
 

@@ -74,7 +74,7 @@ Pub. L. 98–219, Feb. 17, 1984, 98 Stat. 11, provided that:
 
 “(f) Upon the effective date of this Act \[Feb. 17, 1984\], all valid leases, permits, rights-of-way, or other land use rights or authorizations, except mining claims, existing on the date of enactment of this Act \[Feb. 17, 1984\] in the lands described in subsection (b), including the right to receive compensation for use of the lands, shall cease to be the responsibility of, or enure to the benefit of, the United States, and shall become the responsibility of the Paiute Indian Tribe which shall succeed to the interests of the United States and shall continue to maintain them under the same terms and conditions as they were maintained by the United States.
 
-“(g) All improvements on the lands described in subsection (b) in existence on the effective date of the Act \[Feb. 17, 1984\], under the authority of the land use rights or authorizations described in subsection (c),shall remain in the same status as to ownership and right of use as existed prior to the date of enactment of this Act \[Feb. 17, 1984\].
+“(g) All improvements on the lands described in subsection (b) in existence on the effective date of the Act \[Feb. 17, 1984\], under the authority of the land use rights or authorizations described in subsection (c), shall remain in the same status as to ownership and right of use as existed prior to the date of enactment of this Act \[Feb. 17, 1984\].
 
 “(h) Nothing in this Act shall be construed as terminating any valid mining claim existing on the date of enactment of this Act \[Feb. 17, 1984\] on the lands described in subsection (b).
 
@@ -107,8 +107,4 @@ Pub. L. 98–219, Feb. 17, 1984, 98 Stat. 11, provided that:
 &emsp;“(1) the term ‘tribe’ means the Cedar City, Shivwits, Kanosh, Koosharem, and Indian Peaks Bands of Paiute Indians of Utah; and
 
 &emsp;“(2) except where otherwise specified, the term ‘Secretary’ means the Secretary of the Interior.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 762 of this title.
 

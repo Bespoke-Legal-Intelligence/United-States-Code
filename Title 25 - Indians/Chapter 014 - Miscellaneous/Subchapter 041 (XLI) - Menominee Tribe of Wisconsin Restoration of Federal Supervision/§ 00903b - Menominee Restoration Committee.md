@@ -18,9 +18,5 @@ The membership roll of the tribe which was closed as of June 17, 1954, is hereby
 
 Section 893 of this title, referred to in subsec. (b), was repealed by section 3(b) of Pub. L. 93–197, which is classified to section 903a(b) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 903c of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

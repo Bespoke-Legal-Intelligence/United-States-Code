@@ -30,7 +30,7 @@ Pub. L. 93–355, §1, July 25, 1974, 88 Stat. 378, provided: “That this Act \
 
 #### Short Title of 1972 Amendment
 
-Pub. L. 92–424, §1, Sept. 19, 1972, 86 Stat. 688, provided: “That this Act \[enacting sections 2702b, 2813 to 2815, 2827, 2971b to 2971d, 2981 to 2985, and 2995 to 2995d of this title, amending sections 2724, 2742, 2749, 2771, 2791, 2809, 2812, 2824, 2836, 2837, 2862, 2864, 2871, 2907, 2932, 2933, 2943, 2949, 2965, 2966, 2974, 2991, 2992a, 2993, 2993a, 2994b, 2994d, and 3044b of this title, repealing sections 2763 to 2768 and 2826 of this title, and enacting provisions set out as notes under sections 2942 and 3044b of this title\] may be cited as the ‘Economic Opportunity Amendments of 1972’.”
+Pub. L. 92–424, §1, Sept. 19, 1972, 86 Stat. 688, provided: “That this Act \[enacting sections 2702b, 2813 to 2815,2827, 2971b to 2971d, 2981 to 2985, and 2995 to 2995d of this title, amending sections 2724, 2742, 2749, 2771, 2791, 2809, 2812, 2824, 2836, 2837, 2862, 2864, 2871, 2907, 2932, 2933, 2943, 2949, 2965, 2966, 2974, 2991, 2992a, 2993, 2993a, 2994b, 2994d, and 3044b of this title, repealing sections 2763 to 2768 and 2826 of this title, and enacting provisions set out as notes under sections 2942 and 3044b of this title\] may be cited as the ‘Economic Opportunity Amendments of 1972’.”
 
 #### Short Title of 1969 Amendment
 

@@ -26,7 +26,7 @@ It shall be unlawful to import into the customs territory of the United States f
 
 #### (c) Coca leaves
 
-In addition to the amount of coca leaves authorized to be imported into the United States under subsection (a) of this section, the Attorney General may permit the importation of additional amounts of coca leaves. All cocaine and ecgonine (and all salts, derivatives, and preparations from which cocaine or ecgonine may besynthesized or made) contained in such additional amounts of coca leaves imported under this subsection shall be destroyed under the supervision of an authorized representative of the Attorney General.
+In addition to the amount of coca leaves authorized to be imported into the United States under subsection (a) of this section, the Attorney General may permit the importation of additional amounts of coca leaves. All cocaine and ecgonine (and all salts, derivatives, and preparations from which cocaine or ecgonine may be synthesized or made) contained in such additional amounts of coca leaves imported under this subsection shall be destroyed under the supervision of an authorized representative of the Attorney General.
 
 (Pub. L. 91–513, title III, §1002, Oct. 27, 1970, 84 Stat. 1285; Pub. L. 95–633, title I, §105, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §§519–521, Oct. 12, 1984, 98 Stat. 2075.)
 
@@ -40,15 +40,11 @@ Schedules I, II, III, IV, and V, referred to in subsecs. (a) and (b), are set ou
 
 Subsec. (a)(2)(C). Pub. L. 98–473, §520, added subpar. (C).
 
-Subsec. (b)(2). Pub. L. 98–473, §521, substituted “is imported pursuant to such notification, or declaration, or in the case of any nonnarcotic controlled substance in schedule III, such import permit, notification, or declaration, as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule IV or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention” for “is imported pursuant to such notification or declaration requirements as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule III, IV, or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention”.
+Subsec. (b)(2). Pub. L. 98–473, §521, substituted “is imported pursuant to such notification, or declaration, or in the case of any nonnarcotic controlled substance in schedule III, such import permit, notification, or declaration, as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule IV or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the AttorneyGeneral, as are required by the Convention” for “is imported pursuant to such notification or declaration requirements as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule III, IV, or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention”.
 
 1978—Subsec. (b)(2). Pub. L. 95–633 inserted provision relating to exception for nonnarcotic controlled substances listed in schedule I or II of the Convention on Psychotropic Substances.
 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 954, 956, 958, 960 of this title; title 18 section 5032; title 28 section 994.
 

@@ -6,7 +6,7 @@ A Government authority may obtain financial records under section 3402(3) of thi
 
 #### (b) Mailing of copy and notice to customer
 
-No later than ninety days after the Government authority serves the search warrant, it shall mail to the customer's last known address a copy of the search warrant together with the following notice:
+No later than ninety days after the Government authority serves the search warrant, it shall mail to the customer's last known addressa copy of the search warrant together with the following notice:
 
 “Records or information concerning your transactions held by the financial institution named in the attached search warrant were obtained by this (agency or department) on (date) for the following purpose:    . You may have rights under the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\].”.
 
@@ -23,8 +23,4 @@ Upon application of the Government authority, a court may grant a delay in the m
 The Federal Rules of Criminal Procedure, referred to in subsec. (a), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 The Right to Financial Privacy Act of 1978, referred to in subsecs. (b) and (c), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3402, 3409 of this title.
 

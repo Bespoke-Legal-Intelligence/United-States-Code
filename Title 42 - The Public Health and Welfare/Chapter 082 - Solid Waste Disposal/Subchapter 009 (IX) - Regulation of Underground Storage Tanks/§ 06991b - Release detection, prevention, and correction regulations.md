@@ -14,7 +14,7 @@ The regulations promulgated pursuant to this section shall include, but need not
 
 &emsp;(1) requirements for maintaining a leak detection system, an inventory control system together with tank testing, or a comparable system or method designed to identify releases in a manner consistent with the protection of human health and the environment;
 
-&emsp;(2) requirements for maintaining records of any monitoring or leak detection system orinventory control system or tank testing or comparable system;
+&emsp;(2) requirements for maintaining records of any monitoring or leak detection system or inventory control system or tank testing or comparable system;
 
 &emsp;(3) requirements for reporting of releases and corrective action taken in response to a release from an underground storage tank;
 
@@ -32,7 +32,7 @@ The regulations promulgated pursuant to this section shall include, but need not
 
 (3) The total liability of any guarantor shall be limited to the aggregate amount which the guarantor has provided as evidence of financial responsibility to the owner or operator under this section. Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual or common law liability of a guarantor to its owner or operator including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed to diminish the liability of any person under section 9607 or 9611 of this title or other applicable law.
 
-(4) For the purpose of this subsection, the term “guarantor” means any person, other than the owner or operator, who provides evidence of financial responsibility for an owner or operator under this subsection.
+(4) For the purpose of this subsection, the term “guarantor” means any person, other thanthe owner or operator, who provides evidence of financial responsibility for an owner or operator under this subsection.
 
 (5)(A) The Administrator, in promulgating financial responsibility regulations under this section, may establish an amount of coverage for particular classes or categories of underground storage tanks containing petroleum which shall satisfy such regulations and which shall not be less than $1,000,000 for each occurrence with an appropriate aggregate requirement.
 
@@ -60,7 +60,7 @@ The regulations promulgated pursuant to this section shall include, but need not
 
 #### (e) New tank performance standards
 
-The Administrator shall, not later than three months prior to the effective date specified insubsection (f) of this section, issue performance standards for underground storage tanks brought into use on or after the effective date of such standards. The performance standards for new underground storage tanks shall include, but need not be limited to, design, construction, installation, release detection, and compatibility standards.
+The Administrator shall, not later than three months prior to the effective date specified in subsection (f) of this section, issue performance standards for underground storage tanks brought into use on or after the effective date of such standards. The performance standards for new underground storage tanks shall include, but need not be limited to, design, construction, installation, release detection, and compatibility standards.
 
 #### (f) Effective dates
 
@@ -108,7 +108,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 &emsp;&emsp;(B) A situation exists which requires prompt action by the Administrator (or the State) under this paragraph to protect human health and the environment.
 
-&emsp;&emsp;(C) Corrective action costs at a facility exceed the amount of coverage required by the Administrator pursuant to the provisions ofsubsections (c) and (d)(5) of this section and, considering the class or category of underground storage tank from which the release occurred, expenditures from the Leaking Underground Storage Tank Trust Fund are necessary to assure an effective corrective action.
+&emsp;&emsp;(C) Corrective action costs at a facility exceed the amount of coverage required by the Administrator pursuant to the provisions of subsections (c) and (d)(5) of this section and, considering the class or category of underground storage tank from which the release occurred, expenditures from the Leaking Underground Storage Tank Trust Fund are necessary to assure an effective corrective action.
 
 &emsp;&emsp;(D) The owner or operator of the tank has failed or refused to comply with an order of the Administrator under this subsection or section 6991e of this title or with the order of a State under this subsection to comply with the corrective action regulations.
 
@@ -132,7 +132,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (B) Recovery
 
-&emsp;&emsp;In determining the equities for seeking the recovery of costs under subparagraph (A), the Administrator (or a State pursuant to paragraph (7) of this subsection) may consider the amount of financial responsibility required to be maintained under subsections (c) and (d)(5) of this section and the factors considered in establishing such amount under subsection (d)(5) of this section.
+&emsp;&emsp;In determining the equities for seeking the recovery of costs under subparagraph (A),the Administrator (or a State pursuant to paragraph (7) of this subsection) may consider the amount of financial responsibility required to be maintained under subsections (c) and (d)(5) of this section and the factors considered in establishing such amount under subsection (d)(5) of this section.
 
 #### (C) Effect on liability
 
@@ -184,7 +184,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (10) Definition of exposure assessment
 
-&emsp;As used in this subsection, the term “exposure assessment” means an assessment to determine the extent of exposure of, or potential for exposure of, individuals to petroleum from a release from an underground storage tank based on such factors as the nature and extent of contamination and the existence of or potential for pathways of human exposure (including ground or surface water contamination, air emissions, and food chain contamination), the size of the community within the likely pathways of exposure, and the comparison of expected human exposure levels to the short-term and long-term health effects associated with identified contaminants and any available recommended exposure or tolerance limits for such contaminants. Such assessment shall not delay corrective action to abate immediate hazards or reduce exposure.
+&emsp;As used in this subsection, the term “exposure assessment” means an assessment to determine the extent of exposure of, or potential for exposure of, individuals to petroleum from a release from an underground storage tank based on such factors as the nature and extent of contamination and the existence of or potential for pathways of human exposure (including ground or surface water contamination, air emissions, and food chain contamination), the size of the community within the likely pathways of exposure, and the comparison of expected human exposure levels to the short-term and long-term health effects associated with identified contaminants and any available recommended exposure or tolerancelimits for such contaminants. Such assessment shall not delay corrective action to abate immediate hazards or reduce exposure.
 
 #### (11) Facilities without financial responsibility
 
@@ -202,7 +202,7 @@ The Federal Bankruptcy Code, referred to in subsec. (d)(2), probably means a ref
 
 1986—Subsec. (c)(6). Pub. L. 99–499, §205(c)(1), added par. (6).
 
-Subsec. (d)(1). Pub. L. 99–499, §205(c)(3), which directed that par. (1) be amended by “striking out ‘or’ after ‘credit,’ and by striking out the period at the end thereof and inserting in lieu thereof the following: ‘or any other method satisfactory to the Administrator.’ ”,was executed by striking the period and making insertion at end of first sentence, rather than at end of par. (1), as the probable intent of Congress, because an earlier version of the amending legislation had provided that such amendment be made to first sentence.
+Subsec. (d)(1). Pub. L. 99–499, §205(c)(3), which directed that par. (1) be amended by “striking out ‘or’ after ‘credit,’ and by striking out the period at the end thereof and inserting in lieu thereof the following: ‘or any other method satisfactory to the Administrator.’ ”, was executed by striking the period and making insertion at end of first sentence, rather than at end of par. (1), as the probable intent of Congress, because an earlier version of the amending legislation had provided that such amendment be made to first sentence.
 
 Pub. L. 99–499, §205(c)(2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “As he deems necessary or desirable, the Administrator shall promulgate regulations containing requirements for maintaining evidence of financial responsibility as he deems necessary and desirable for taking corrective action and compensating third parties for bodily injury and property damage caused by sudden and nonsudden accidental releases arising from operating an underground storage tank.”
 
@@ -229,10 +229,6 @@ Study.—The Comptroller General shall conduct a study of the availability of po
 “(2)
 
 Report.—The Comptroller General shall report the findings under this subsection to the Congress within 15 months after the enactment of this subsection \[Oct. 17, 1986\]. Such report shall include recommendations for legislative or administrative changes that will enable owners and operators of underground storage tanks to maintain financial responsibility sufficient to provide all clean-up costs and damages that may result from reasonably foreseeable releases and events.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6924, 6991a, 6991c, 6991d, 6991e, 9601 of this title; title 26 section 9508.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsections”.</i>
 

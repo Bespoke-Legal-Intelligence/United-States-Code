@@ -4,7 +4,3 @@ Nothing in this subchapter shall affect the rights, privileges, or obligations o
 
 (Pub. L. 87–629, §7, Sept. 5, 1962, 76 Stat. 430.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 971 of this title.
-

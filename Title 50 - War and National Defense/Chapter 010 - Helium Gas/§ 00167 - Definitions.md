@@ -38,7 +38,7 @@ Section 17 of act Mar. 3, 1925, as added by Pub. L. 86–777, §2, provided that
 
 Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §112\], Nov. 29, 1999, 113 Stat. 1535, 1501A–157, provided that:
 
-“(a) Employees of Helium Operations, Bureau of Land Management, entitled to severance pay under 5 U.S.C. 5595, may apply for, and the Secretary of the Interior may pay, the total amount of the severance pay to theemployee in a lump sum. Employees paid severance pay in a lump sum and subsequently reemployed by the Federal Government shall be subject to the repayment provisions of 5 U.S.C. 5595(i)(2) and (3), except that any repayment shall be made to the Helium Fund.
+“(a) Employees of Helium Operations, Bureau of Land Management, entitled to severance pay under 5 U.S.C. 5595, may apply for, and the Secretary of the Interior may pay, the total amount of the severance pay to the employee in a lump sum. Employees paid severance pay in a lump sum and subsequently reemployed by the Federal Government shall be subject to the repayment provisions of 5 U.S.C. 5595(i)(2) and (3), except that any repayment shall be made to the Helium Fund.
 
 “(b) Helium Operations employees who elect to continue health benefits after separation shall be liable for not more than the required employee contribution under 5 U.S.C. 8905a(d)(1)(A). The Helium Fund shall pay for 18 months the remaining portion of required contributions.
 

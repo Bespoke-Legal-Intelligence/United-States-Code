@@ -22,7 +22,7 @@ If the Secretary determines that a Foreign Service Reserve officer with limited 
 
 #### (e) Application more than 120 days after effective date of Foreign Service Act of 1980
 
-If a Foreign Service officer or a Foreign Service Reserve officer who is eligible to submit arequest under subsection (a) of this section submits a written request for appointment to the Senior Foreign Service to the Secretary more than 120 days after February 15, 1981, and before the end of the 3-year period beginning on February 15, 1981, the Secretary (in the case of a Foreign Service Reserve officer with limited tenure) may grant a limited appointment to, or (in the case of a Foreign Service officer or Foreign Service Reserve officer with unlimited tenure) may recommend to the President a career appointment of, the requesting officer to the appropriate class established under section 3962 of this title, subject to the conditions specified in subsection (d) of this section and such other conditions as the Secretary may prescribe consistent with the provisions of subchapter VI of this chapter relating to promotion into the Senior Foreign Service.
+If a Foreign Service officer or a Foreign Service Reserve officer who is eligible to submit a request under subsection (a) of this section submits a written request for appointment to the Senior Foreign Service to the Secretary more than 120 days after February 15, 1981, and before the end of the 3-year period beginning on February 15, 1981, the Secretary (in the case of a Foreign Service Reserve officer with limited tenure) may grant a limited appointment to, or (in the case of a Foreign Service officer or Foreign Service Reserve officer with unlimited tenure) may recommend to the President a career appointment of, the requesting officer to the appropriate class established under section 3962 of this title, subject to the conditions specified in subsection (d) of this section and such other conditions as the Secretary may prescribe consistent with the provisions of subchapter VI of this chapter relating to promotion into the Senior Foreign Service.
 
 #### (f) Forced conversion
 
@@ -47,8 +47,4 @@ In subsecs. (a), (e), and (f), “February 15, 1981” substituted for “the ef
 #### Amendments
 
 1983—Subsec. (f). Pub. L. 98–164 substituted provisions relating to applicability of sections 4007(c)(1) and 4009(a)(2)(B) of this title, for provisions relating to applicability of subchapter VIII of this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4151, 4154 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—EMISSION STANDARDS FOR MOVING SOURCES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 7408, 7411, 7412, 7413, 7414, 7507, 7612, 13257 of this title.
-
 
 ---
 

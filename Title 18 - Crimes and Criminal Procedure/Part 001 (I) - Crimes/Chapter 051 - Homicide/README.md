@@ -27,10 +27,6 @@
 
 1972—Pub. L. 92–539, title I, §102, Oct. 24, 1972, 86 Stat. 1071, added items 1116 and 1117.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 42 section 14135a.
-
 
 ---
 

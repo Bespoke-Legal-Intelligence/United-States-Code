@@ -24,7 +24,3 @@ Subsec. (c). Pub. L. 104–99 added subsec. (c).
 
 1991—Pub. L. 102–83 renumbered section 720 of this title as this section and substituted “Secretary” for “Administrator” in two places.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 113, 1982 of this title.
-

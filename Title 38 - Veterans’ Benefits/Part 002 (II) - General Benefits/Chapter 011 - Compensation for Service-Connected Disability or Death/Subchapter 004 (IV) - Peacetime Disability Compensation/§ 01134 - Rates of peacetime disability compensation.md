@@ -16,7 +16,3 @@ Pub. L. 102–83, §5(c)(1), substituted “1131” for “331” and “1114”
 
 Section 301(b) of Pub. L. 92–328 provided that: “Section 108 \[repealing section 336 of this title and amending this section and section 335 \[now 1135\] of this title\] shall take effect on July 1, 1973.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1114, 1135, 1717 of this title.
-

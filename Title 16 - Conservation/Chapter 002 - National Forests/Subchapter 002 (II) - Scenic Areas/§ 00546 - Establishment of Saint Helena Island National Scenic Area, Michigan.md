@@ -26,7 +26,3 @@ Section 1001 of the Coast Guard Authorization Act of 1996, referred to in subsec
 
 Pub. L. 106–431, §1, Nov. 6, 2000, 114 Stat. 1905, provided that: “This Act \[enacting sections 546 to 546a–5 of this title\] may be cited as the ‘Saint Helena Island National Scenic Area Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 546a, 546a–1, 546a–2, 546a–4 of this title.
-

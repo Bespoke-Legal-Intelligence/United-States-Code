@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—BUREAU OF JUSTICE STATISTICS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3797 of this title.
-
 
 ---
 

@@ -6,7 +6,7 @@ The Assistant Secretary shall award grants to not fewer than three and not more 
 
 #### (b) Report
 
-The Assistant Secretary shall prepare and submit to Congress a report containing the resultsof the evaluation required by subsection (a) of this section. Such report shall contain such recommendations as the Assistant Secretary determines to be appropriate.
+The Assistant Secretary shall prepare and submit to Congress a report containing the results of the evaluation required by subsection (a) of this section. Such report shall contain such recommendations as the Assistant Secretary determines to be appropriate.
 
 (Pub. L. 89–73, title IV, §421, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2265.)
 

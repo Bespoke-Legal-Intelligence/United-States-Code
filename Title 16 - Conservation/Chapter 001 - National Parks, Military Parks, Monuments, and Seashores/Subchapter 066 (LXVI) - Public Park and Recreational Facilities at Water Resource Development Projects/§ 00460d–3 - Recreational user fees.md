@@ -2,13 +2,13 @@
 
 #### (a) Prohibition on admissions fees
 
-No entrance or admission fees shall be collected after March 31, 1970, by any officer or employee of the United States at public recreation areas located at lakes and reservoirs under the jurisdiction of the Corps of Engineers, United States Army.
+No entrance or admission fees shall be collected after March 31, 1970, by any officer or employee of the United States at public recreation areas located at lakes and reservoirs under thejurisdiction of the Corps of Engineers, United States Army.
 
 #### (b) Fees for use of developed recreation sites and facilities
 
 #### (1) Establishment and collection
 
-&emsp;Notwithstanding section 460<i>l</i>–6a(b) of this title, the Secretary of the Army is authorized, subject to paragraphs (2) and (3), to establish and collect fees for the use of developed recreation sites and facilities, including campsites,swimming beaches, and boat launching ramps but excluding a site or facility which includes only a boat launch ramp and a courtesy dock.
+&emsp;Notwithstanding section 460<i>l</i>–6a(b) <sup>1</sup> of this title, the Secretary of the Army is authorized, subject to paragraphs (2) and (3), to establish and collect fees for the use of developed recreation sites and facilities, including campsites, swimming beaches, and boat launching ramps but excluding a site or facility which includes only a boat launch ramp and a courtesy dock.
 
 #### (2) Exemption of certain facilities
 
@@ -23,6 +23,10 @@ No entrance or admission fees shall be collected after March 31, 1970, by any of
 &emsp;All fees collected under this subsection shall be deposited into the Treasury account for the Corps of Engineers established by section 460<i>l</i>–6a(i) of this title and, subject to the availability of appropriations, shall be used for the purposes specified in section 460<i>l</i>–6a(i)(3) of this title at the water resources development project at which the fees were collected.
 
 (Pub. L. 90–483, title II, §210, Aug. 13, 1968, 82 Stat. 746; Pub. L. 103–66, title V, §5001(a), Aug. 10, 1993, 107 Stat. 378; Pub. L. 104–303, title II, §208(b)(1), Oct. 12, 1996, 110 Stat. 3680.)
+
+#### References in Text
+
+Section 460<i>l</i>–6a(b) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390.
 
 #### Amendments
 

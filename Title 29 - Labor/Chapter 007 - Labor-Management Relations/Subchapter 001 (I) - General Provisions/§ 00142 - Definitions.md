@@ -14,7 +14,3 @@ When used in this chapter—
 
 Subchapter II of this chapter, referred to in par. (3), was in the original “the National Labor Relations Act as amended by this Act” \[29 U.S.C. §151 et seq.\].
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2611 of this title; title 7 section 2015.
-

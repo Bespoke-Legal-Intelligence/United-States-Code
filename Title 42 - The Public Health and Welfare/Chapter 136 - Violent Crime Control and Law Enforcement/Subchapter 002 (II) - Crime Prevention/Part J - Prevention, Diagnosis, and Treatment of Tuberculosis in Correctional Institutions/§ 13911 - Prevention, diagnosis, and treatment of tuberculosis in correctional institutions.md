@@ -50,7 +50,3 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (d), is Pub. L. 
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

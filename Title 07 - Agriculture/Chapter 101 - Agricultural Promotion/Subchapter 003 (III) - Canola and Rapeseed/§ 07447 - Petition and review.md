@@ -12,7 +12,7 @@
 
 #### (2) Hearings
 
-&emsp;The petitioner shall be given the opportunity for a hearing on a petition filed under paragraph (1), in accordance with regulations issued by the Secretary.
+&emsp;The petitioner shall be given the opportunity for a hearing on a petition filed underparagraph (1), in accordance with regulations issued by the Secretary.
 
 #### (3) Ruling
 
@@ -26,7 +26,7 @@
 
 #### (1) Commencement of action
 
-&emsp;The district court of the United States for any district in which the person who is a petitioner under subsection (a) of this section resides or carries on business shall have jurisdiction to review a ruling on the petition, if a complaint is filed by the person not later than 20 days after the date of the entry of a rulingby the Secretary under subsection (a)(3) of this section.
+&emsp;The district court of the United States for any district in which the person who is a petitioner under subsection (a) of this section resides or carries on business shall have jurisdiction to review a ruling on the petition, if a complaint is filed by the person not later than 20 days after the date of the entry of a ruling by the Secretary under subsection (a)(3) of this section.
 
 #### (2) Process
 
@@ -49,8 +49,4 @@
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7449 of this title.
 

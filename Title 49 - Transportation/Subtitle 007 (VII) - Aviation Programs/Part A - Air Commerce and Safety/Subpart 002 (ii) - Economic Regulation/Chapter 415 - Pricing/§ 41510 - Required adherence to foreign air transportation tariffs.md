@@ -62,7 +62,3 @@ In subsection (a), before clause (1), the words “may not” are substituted fo
 
 In subsection (b), before clause (1), the words “shipper, consignor, consignee, forwarder, broker, or other . . . or any director, officer, agent, or employee thereof” are omitted as surplus. In clause (1), the words “directly or indirectly, by any device or means” and “currently” are omitted as surplus. In clause (2), before subclause (A), the words “in any manner or by any device, directly or indirectly, through any agent or broker, or otherwise” are omitted as surplus. In subclause (B), the word “favor” is omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41110 of this title.
-

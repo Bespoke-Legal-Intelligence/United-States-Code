@@ -6,7 +6,3 @@
 
 (Pub. L. 98–180, title I, §118, Nov. 29, 1983, 97 Stat. 1142.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4535 of this title.
-

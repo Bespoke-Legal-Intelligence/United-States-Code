@@ -32,7 +32,7 @@ Where the Commission elects to bring the action, it shall inform the Attorney Ge
 
 #### (h) Notice of investigations and enforcement actions
 
-The Commission shall provide the Securities and Exchange Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission against any futures commission merchant or introducing broker registered pursuant to section 6f(a)(2) of this title, any floor broker or floor trader exempt from registration pursuant to section 6f(a)(3) of this title, any associated person exempt from registration pursuant to section 6k(6) <sup>1</sup> of this title, or any board of trade designated as a contract market pursuant to section 7b–1 of this title.
+The Commission shall provide the Securities and Exchange Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission against any futures commission merchant or introducing broker registered pursuant to section 6f(a)(2)of this title, any floor broker or floor trader exempt from registration pursuant to section 6f(a)(3) of this title, any associated person exempt from registration pursuant to section 6k(6) <sup>1</sup> of this title, or any board of trade designated as a contract market pursuant to section 7b–1 of this title.
 
 (Sept. 21, 1922, ch. 369, §6c, as added Pub. L. 93–463, title II, §211, Oct. 23, 1974, 88 Stat. 1402; amended Pub. L. 97–444, title II, §220, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 99–641, title I, §104, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, §221, Oct. 28, 1992, 106 Stat. 3614; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(15), title II, §253(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–409, 2763A–449.)
 
@@ -55,10 +55,6 @@ Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L
 #### Effective Date
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should refer to the second par. (5) of section 6k.</i>
 

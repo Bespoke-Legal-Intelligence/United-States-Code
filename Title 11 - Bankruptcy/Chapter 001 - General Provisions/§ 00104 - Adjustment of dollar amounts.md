@@ -40,9 +40,37 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed inHouse Document No. 103–7 (in which a report required under subsection (a) of this section is listed on page 12), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (a) of this section is listed on page 12), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Adjustment of Dollar Amounts
+
+By notice dated Feb. 18, 2004, 69 F.R. 8482, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (b) of this section, effective Apr. 1, 2004, as follows:
+
+&nbsp;
+
+| 11 U.S.C. | Dollar amount to be adjusted | New (adjusted) dollar amount |
+| :--- | :---: | ---: |
+| Section 109(e)—allowable debt limits for filing bankruptcy under Chapter 13 | $290,525 <sup>1</sup>871,550 <sup>1</sup> | $307,675 <sup>1</sup>.922,975 <sup>1</sup>. |
+| Section 303(b)—minimum aggregate claims needed for the commencement of an involuntary bankruptcy: |  |  |
+| (1)—in paragraph (1) | 11,625 | 12,300. |
+| (2)—in paragraph (2) | 11,625 | 12,300. |
+| Section 507(a)—priority claims: |  |  |
+| (1)—in paragraph (3) | 4,650 | 4,925. |
+| (2)—in paragraph (4)(B)(i) | 4,650 | 4,925. |
+| (3)—in paragraph (5) | 4,650 | 4,925. |
+| (4)—in paragraph (6) | 2,100 | 2,225. |
+| Section 522(d)—value of property exemptions allowed to the debtor: |  |  |
+| (1)—in paragraph (1) | 17,425 | 18,450. |
+| (2)—in paragraph (2) | 2,775 | 2,950. |
+| (3)—in paragraph (3) | 4509,300 | 4759,850. |
+| (4)—in paragraph (4) | 1,150 | 1,225. |
+| (5)—in paragraph (5) | 9258,725 | 9759,250. |
+| (6)—in paragraph (6) | 1,750 | 1,850. |
+| (7)—in paragraph (8) | 9,300 | 9,850. |
+| (8)—in paragraph (11)(D) | 17,425 | 18,450. |
+| Section 523(a)(2)(C)—“luxury goods and services” or cash advances obtained by the consumer debtor within 60 days before the filing of a bankruptcy petition, which are considered nondischargeable. | 1,150 <sup>1</sup> | 1,225 <sup>1</sup>. |
+
+<sup>1</sup> Each time it appears.
 
 By notice dated Feb. 13, 2001, 66 F.R. 10910, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (b) of this section, effective Apr. 1, 2001, as follows:
 
@@ -69,4 +97,30 @@ By notice dated Feb. 13, 2001, 66 F.R. 10910, the Judicial Conference of the Uni
 | (7)—in paragraph (8) | 8,625 | 9,300. |
 | (8)—in paragraph (11)(D) | 16,150 | 17,425. |
 | Section 523(a)(2)(C)—“luxury goods and services” or cash advances obtained by the consumer debtor within 60 days before the filing of a bankruptcy petition, which are considered nondischargeable. | 1,075 (each time it appears) | 1,150 (each time it appears). |
+
+By notice dated Feb. 3, 1998, 63 F.R. 7179, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (b) of this section, effective Apr. 1, 1998, as follows:
+
+&nbsp;
+
+| 11 U.S.C. | Dollar amount to be adjusted | New (adjusted) dollar amount |
+| :--- | :---: | ---: |
+| Section 109(e)—allowable debt limits for filing bankruptcy under Chapter 13 | $250,000 (each time it appears)750,000 (each time it appears) | $269,250 (each time it appears).807,750 (each time it appears). |
+| Section 303(b)—minimum aggregate claims needed for the commencement of an involuntary bankruptcy: |  |  |
+| (1)—in paragraph (1) | 10,000 | 10,775. |
+| (2)—in paragraph (2) | 10,000 | 10,775. |
+| Section 507(a)—priority claims: |  |  |
+| (1)—in paragraph (3) | 4,000 | 4,300. |
+| (2)—in paragraph (4)(B)(i) | 4,000 | 4,300. |
+| (3)—in paragraph (5) | 4,000 | 4,300. |
+| (4)—in paragraph (6) | 1,800 | 1,950. |
+| Section 522(d)—value of property exemptions allowed to the debtor: |  |  |
+| (1)—in paragraph (1) | 15,000 | 16,150. |
+| (2)—in paragraph (2) | 2,400 | 2,575. |
+| (3)—in paragraph (3) | 4008,000 | 4258,625. |
+| (4)—in paragraph (4) | 1,000 | 1,075. |
+| (5)—in paragraph (5) | 8007,500 | 8508,075. |
+| (6)—in paragraph (6) | 1,500 | 1,625. |
+| (7)—in paragraph (8) | 8,000 | 8,625. |
+| (8)—in paragraph (11)(D) | 15,000 | 16,150. |
+| Section 523(a)(2)(C)—“luxury goods and services” or cash advances obtained by the consumer debtor within 60 days before the filing of a bankruptcy petition, which are considered nondischargeable. | 1,000 (each time it appears) | 1,075 (each time it appears). |
 

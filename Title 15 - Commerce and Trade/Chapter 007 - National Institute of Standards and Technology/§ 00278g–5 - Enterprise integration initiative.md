@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Director shall establish an initiative for advancing enterprise integration within the United States. In carrying out this section, the Director shall involve, as appropriate, the various units of the National Institute of Standards and Technology, including the National Institute of Standards and Technology laboratories (including the Building and Fire Research Laboratory), the Manufacturing Extension Partnership program established under sections 278k and 278<i>l</i> of this title, and the Malcolm Baldrige National Quality Program. This initiative shall build upon ongoing efforts of the National Institute of Standards and Technology and of the private sector, shall involve consortia that include government and industry, and shall address the enterprise integration needs of each United States major manufacturing industry at the earliest possible date.
+The Director shall establish an initiative for advancing enterprise integration within the United States. In carrying out this section, the Director shall involve, as appropriate, the various units of the National Institute of Standards and Technology, including the National Institute of Standards and Technology laboratories (including the Building and Fire Research Laboratory), the Manufacturing Extension Partnership program <sup>1</sup> established under sections 278k and 278<i>l</i> of this title, and the Malcolm Baldrige National Quality Program. This initiative shall build upon ongoing efforts of the National Institute of Standards and Technology and of the private sector, shall involve consortia that include government and industry, and shall address the enterprise integration needs of each United States major manufacturing industry at the earliest possible date.
 
 #### (b) Assessment
 
@@ -38,6 +38,10 @@ This Act, referred to in subsec. (d), is Pub. L. 107–277, Nov. 5, 2002, 116 St
 
 Section was enacted as part of the Enterprise Integration Act of 2002, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
 
+#### Change of Name
+
+The Manufacturing Extension Partnership Program, referred to in subsec. (a), redesignated the Hollings Manufacturing Partnership Program by title II of div. B of Pub. L. 108–447, set out as a note under section 278k of this title.
+
 #### Enterprise Integration
 
 Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, provided that:
@@ -60,7 +64,7 @@ Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, provided that:
 
 &emsp;“(5) The National Institute of Standards and Technology, because of the electronic commerce expertise in its laboratories and quality program, its long history of working cooperatively with manufacturers, and the nationwide reach of its manufacturing extension program, is in a unique position to help United States large and smaller manufacturers alike in their responses to this challenge.
 
-&emsp;“(6) It is, therefore, in the national interest for the National Institute of Standards and Technology toaccelerate its efforts in helping industry develop standards and enterprise integration processes that are necessary to increase efficiency and lower costs.
+&emsp;“(6) It is, therefore, in the national interest for the National Institute of Standards and Technology to accelerate its efforts in helping industry develop standards and enterprise integration processes that are necessary to increase efficiency and lower costs.
 
 #### “SEC. 3. ENTERPRISE INTEGRATION INITIATIVE.
 
@@ -91,4 +95,6 @@ Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, provided that:
 &emsp;“(3) $15,000,000 for fiscal year 2004; and
 
 &emsp;“(4) $20,000,000 for fiscal year 2005.”
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

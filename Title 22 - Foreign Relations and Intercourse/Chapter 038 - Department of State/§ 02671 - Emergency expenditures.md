@@ -26,7 +26,7 @@ The Secretary of State is authorized to—
 
 &emsp;&emsp;(i) United States Government employees and their dependents; and
 
-&emsp;&emsp;(ii) private United States citizens or third-country nationals, on a reimbursable basis to the maximum extent practicable, with such reimbursements to be credited to the applicable Department of State appropriation and to remain available until expended, except that no reimbursement under this clause shall be paid that is greater than the amount the person evacuated would have been charged for a reasonable commercial air fare immediately prior to the events giving rise to the evacuation;
+&emsp;&emsp;(ii) private United States citizens or third-country nationals, on a reimbursable basis to the maximum extent practicable, with such reimbursements to be credited to theapplicable Department of State appropriation and to remain available until expended, except that no reimbursement under this clause shall be paid that is greater than the amount the person evacuated would have been charged for a reasonable commercial air fare immediately prior to the events giving rise to the evacuation;
 
 &emsp;(B) loans made to destitute citizens of the United States who are outside the United States and made to provide for the return to the United States of its citizens;
 
@@ -76,7 +76,7 @@ With regard to the repatriation loan program, the Secretary of State shall—
 
 &emsp;(11) implement the interest and penalty provisions in paragraphs (8), (9), and (10) for all current and future loans, regardless of whether the debts were incurred before or after May 1, 1983.
 
-(Aug. 1, 1956, ch. 841, title I, §4, 70 Stat. 890; renumbered title I, Pub. L. 97–241, title II, §202(a),Aug. 24, 1982, 96 Stat. 282; Pub. L. 98–164, title I, §122(a), Nov. 22, 1983, 97 Stat. 1023; Pub. L. 103–236, title I, §125, Apr. 30, 1994, 108 Stat. 393; Pub. L. 104–316, title I, §115(g)(2)(D), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 107–228, div. A, title II, §201, Sept. 30, 2002, 116 Stat. 1361.)
+(Aug. 1, 1956, ch. 841, title I, §4, 70 Stat. 890; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 98–164, title I, §122(a), Nov. 22, 1983, 97 Stat. 1023; Pub. L. 103–236, title I, §125, Apr. 30, 1994, 108 Stat. 393; Pub. L. 104–316, title I, §115(g)(2)(D), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 107–228, div. A, title II, §201, Sept. 30, 2002, 116 Stat. 1361.)
 
 #### References in Text
 

@@ -22,7 +22,3 @@ R.S. §5580 derived from acts Aug. 10, 1846, ch. 178, §3, 9 Stat. 103; Jan. 10,
 
 1894—Act Mar. 12, 1894, struck out “the governor of the District of Columbia” after “the Chief Justice of the United States,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 57, 67 of this title.
-

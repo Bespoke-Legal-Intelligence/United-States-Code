@@ -2,7 +2,7 @@
 
 #### (a) Transfer
 
-No contract or order, or any interest therein, shall be transferred by the party to whom such contract or order is given to any other party, and any such transfer shall cause the annulment of the contract or order transferred, so far as the United States is concerned. All rights of action, however, for any breach of such contract by the contracting parties, are reserved to the United States.
+No contract or order, or any interest therein, shall be transferred by the party to whom such contract or order is given to any other party, and any such transfer shall cause the annulment of the contract or order transferred, so far as the United States is concerned. All rights of action, however, for any breach of such contract by thecontracting parties, are reserved to the United States.
 
 #### (b) Assignment
 
@@ -26,7 +26,7 @@ Notwithstanding any law to the contrary governing the validity of assignments, a
 
 #### (d) Assignee liability
 
-In any case in which moneys due or to become due under any contract are or have been assigned pursuant to this section, no liability of any nature of the assignor to the United States or any department or agency thereof, whether arising from or independently of such contract,shall create or impose any liability on the part of the assignee to make restitution, refund, or repayment to the United States of any amount heretofore since July 1, 1950, or hereafter received under the assignment.
+In any case in which moneys due or to become due under any contract are or have been assigned pursuant to this section, no liability of any nature of the assignor to the United States or any department or agency thereof, whether arising from or independently of such contract, shall create or impose any liability on the part of the assignee to make restitution, refund, or repayment to the United States of any amount heretofore since July 1, 1950, or hereafter received under the assignment.
 
 #### (e) Amendment of contract
 
@@ -109,8 +109,4 @@ The provisions of the National Emergencies Act (Pub. L. 94–412, Sept. 14, 1976
 #### Moneys Due Under Letters of Commitment Issued in Connection With Disposition of Surplus Agricultural Commodities
 
 Moneys due under letters of commitment issued against funds or guaranties of funds supplied by Commodity Credit Corporation in connection with disposition of surplus agricultural commodities to foreign countries, as assignable under the Assignment of Claims Act of 1940, which constitutes this section and former section 203 of Title 31, Money and Finance, see section 1702 of Title 7, Agriculture.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 2392; title 50 section 1651; title 50 App. section 1215.
 

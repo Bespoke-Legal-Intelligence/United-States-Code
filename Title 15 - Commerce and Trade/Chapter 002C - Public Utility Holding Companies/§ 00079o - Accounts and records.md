@@ -14,7 +14,7 @@ Every mutual service company, and every affiliate of a mutual service company as
 
 #### (d) Duty of persons engaged in service, sales, or construction to keep
 
-Every person whose principal business is the performance of service, sales, or construction contracts for public-utility or holding companies shall make, keep, and preserve for such periods, such accounts, cost-accounting procedures, correspondence, memoranda, papers, books, and other records, relating to any transaction by such person which is subject to any provision of this chapter or any rule, regulation, or order thereunder, as the Commission deems necessary or appropriate in the public interest or for the protection of investors or consumers or for the enforcement of the provisions of this chapter or the rules and regulations thereunder.
+Every person whose principal business is the performance of service, sales, or construction contracts for public-utility or holding companies shall make, keep, and preserve for such periods, such accounts, cost-accounting procedures, correspondence, memoranda, papers,books, and other records, relating to any transaction by such person which is subject to any provision of this chapter or any rule, regulation, or order thereunder, as the Commission deems necessary or appropriate in the public interest or for the protection of investors or consumers or for the enforcement of the provisions of this chapter or the rules and regulations thereunder.
 
 #### (e) Use of forms other than prescribed by Commission unlawful
 
@@ -22,7 +22,7 @@ After the Commission has prescribed the form and manner of making and keeping ac
 
 #### (f) Examinations by Commission
 
-All accounts, cost-accounting procedures, correspondence, memoranda, papers, books, and other records kept or required to be kept by persons subject to any provision of this section shall be subject at any time and from time totime to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe. The Commission, after notice and opportunity for hearing, may prescribe the account or accounts in which particular outlays, receipts, and other transactions shall be entered, charged, or credited and the manner in which such entry, charge, or credit shall be made, and may require an entry to be modified or supplemented so as properly to show the cost of any asset or any other cost.
+All accounts, cost-accounting procedures, correspondence, memoranda, papers, books, and other records kept or required to be kept by persons subject to any provision of this section shall be subject at any time and from time to time to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe. The Commission, after notice and opportunity for hearing, may prescribe the account or accounts in which particular outlays, receipts, and other transactions shall be entered, charged, or credited and the manner in which such entry, charge, or credit shall be made, and may require an entry to be modified or supplemented so as properly to show the cost of any asset or any other cost.
 
 #### (g) Submission by holding company or subsidiary to examination by holders of securities
 

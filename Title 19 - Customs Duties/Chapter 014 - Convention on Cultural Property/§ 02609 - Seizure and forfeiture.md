@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any designated archaeological or ethnological material or article of cultural property, as the case may be, which is imported into the UnitedStates in violation of section 2606 of this title or section 2607 of this title shall be subject to seizure and forfeiture. All provisions of law relating to seizure, forfeiture, and condemnation for violation of the customs laws shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under this chapter, insofar as such provisions of law are applicable to, and not inconsistent with, the provisions of this chapter.
+Any designated archaeological or ethnological material or article of cultural property, as the case may be, which is imported into the United States in violation of section 2606 of this title or section 2607 of this title shall be subject to seizure and forfeiture. All provisions of law relating to seizure, forfeiture, and condemnation for violation of the customs laws shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under this chapter, insofar as such provisions of law are applicable to, and not inconsistent with, the provisions of this chapter.
 
 #### (b) Archaeological and ethnological material
 
@@ -43,8 +43,4 @@ The customs laws, referred to in subsecs. (a), (b)(3), and (c)(2)(B), are classi
 #### Codification
 
 Section 2607 of this title, referred to in subsec. (c)(1), was in the original “section 208”, and was translated as section 2607 of this title, which is section 308 of Pub. L. 97–446, as the probable intent of Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2606 of this title.
 

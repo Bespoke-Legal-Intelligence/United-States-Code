@@ -28,7 +28,7 @@ The Pueblo shall have the following rights and interests in the Area:
 
 #### (b) Access
 
-Except as provided in subsection (a)(4), access to and use of the Area for all other purposesshall continue to be administered by the Secretary.
+Except as provided in subsection (a)(4), access to and use of the Area for all other purposes shall continue to be administered by the Secretary.
 
 #### (c) Compensable interest
 
@@ -51,10 +51,6 @@ Except as provided in subsection (a)(4), access to and use of the Area for all o
 The Wilderness Act, referred to in subsec. (a)(1)(A), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 Sections 539m to 539m–12 of this title, referred to in subsec. (a)(2), was in the original “this title”, meaning title IV of div. F of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 279, which is classified generally to sections 539m to 539m–12 of this title. For complete classification of title IV to the Code, see Short Title note set out under section 539m of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 539m, 539m–1, 539m–2, 539m–4, 539m–6, 539m–7, 539m–8, 539m–9, 539m–10, 539m–11, 539m–12 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(1)”.</i>
 

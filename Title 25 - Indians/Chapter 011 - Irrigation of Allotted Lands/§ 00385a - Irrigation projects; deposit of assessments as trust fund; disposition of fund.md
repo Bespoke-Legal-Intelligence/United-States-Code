@@ -10,7 +10,3 @@ Effective August 7, 1946, collections made from water users on each Indian irrig
 
 Section was formerly classified to section 725s–1 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 385b of this title.
-

@@ -18,7 +18,3 @@ Each owner required to reserve units in a project for occupancy under subsection
 
 (Pub. L. 102–550, title VI, §652, Oct. 28, 1992, 106 Stat. 3823.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13613, 13615, 13616 of this title.
-

@@ -8,7 +8,3 @@ In order to carry out the purposes of sections 7a to 7e of this title, the Secre
 
 1966—Pub. L. 89–763 substituted “$3,500,000” for “$2,000,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7c, 7e of this title.
-

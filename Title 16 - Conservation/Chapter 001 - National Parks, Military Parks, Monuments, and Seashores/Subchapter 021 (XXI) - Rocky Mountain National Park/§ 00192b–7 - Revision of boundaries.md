@@ -4,7 +4,3 @@ Upon consummation of the exchange the Secretary shall, by publishing notice in t
 
 (Pub. L. 87–146, §2, Aug. 17, 1961, 75 Stat. 383.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 192b–6 of this title.
-

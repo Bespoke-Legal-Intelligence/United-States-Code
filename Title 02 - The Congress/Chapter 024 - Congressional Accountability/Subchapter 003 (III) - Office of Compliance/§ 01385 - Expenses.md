@@ -8,7 +8,7 @@ Beginning in fiscal year 1995, and for each fiscal year thereafter, there are au
 
 &emsp;(2) one-half of the expenses of the Office shall be paid from funds appropriated for allowances and expenses of the Senate,
 
-> upon vouchers approved by the Executive Director, except that a voucher shall not be required for the disbursement of salaries of employees who are paid at an annual rate. The Clerk of the House of Representatives and the Secretary of the Senate are authorized to make arrangements for the division of expenses under this subsection, including arrangements for one House of Congress to reimburse the other House of Congress.
+> upon vouchers approved by the Executive Director, except that a voucher shall not be required for the disbursement of salaries of employeeswho are paid at an annual rate. The Clerk of the House of Representatives and the Secretary of the Senate are authorized to make arrangements for the division of expenses under this subsection, including arrangements for one House of Congress to reimburse the other House of Congress.
 
 #### (b) Financial and administrative services
 

@@ -74,7 +74,7 @@ Definitions.—In this section—
 
 &emsp;“United States”, when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.
 
-(Added Pub. L. 103–322, title VI, §60019(a), Sept. 13, 1994, 108 Stat. 1975; amended Pub. L. 104–132,title VII, §§722, 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300.)
+(Added Pub. L. 103–322, title VI, §60019(a), Sept. 13, 1994, 108 Stat. 1975; amended Pub. L. 104–132, title VII, §§722, 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300.)
 
 #### Amendments
 
@@ -99,10 +99,6 @@ Section 60019(c) of Pub. L. 103–322 provided that: “This section \[enacting 
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1956, 2332b, 2339, 2339A, 3592 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “13(c)”.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Coverage; enforcement; review
 
-The provisions of sections 862 through 878 of this title shall be interim mandatory safety standards applicable to all underground coal mines until superseded in whole or in part by improved mandatory safety standards promulgated by the Secretary under the provisions of section 811 of this title, and shall be enforced in the same manner and to the same extent as any mandatory safety standard promulgated under section 811 of this title. Any orders issued in the enforcement of the interim standards set forth in this subchapter shall be subject to review as provided in subchapter I of this chapter.
+The provisions of sections 862 through 878 of this title shall be interim mandatory safety standards applicable to all underground coal mines until superseded in whole or in part by improved mandatory safety standards promulgated by the Secretary under the provisions of section 811 of this title, and shall be enforced in the same manner and to the same extent as any mandatory safety standard promulgated under section 811 of this title. Any orders issued in theenforcement of the interim standards set forth in this subchapter shall be subject to review as provided in subchapter I of this chapter.
 
 #### (b) Purpose; initiation of studies and research
 
@@ -23,8 +23,4 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 #### Effective Date
 
 Subchapter operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 951, 958 of this title.
 

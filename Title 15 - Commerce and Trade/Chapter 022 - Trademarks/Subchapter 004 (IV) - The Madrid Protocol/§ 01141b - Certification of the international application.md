@@ -10,7 +10,3 @@ Upon examination and certification of the international application, the Directo
 
 (July 5, 1946, ch. 540, title XII, §62, as added Pub. L. 107–273, div. C, title III, §13402, Nov. 2, 2002, 116 Stat. 1915.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1141c of this title.
-

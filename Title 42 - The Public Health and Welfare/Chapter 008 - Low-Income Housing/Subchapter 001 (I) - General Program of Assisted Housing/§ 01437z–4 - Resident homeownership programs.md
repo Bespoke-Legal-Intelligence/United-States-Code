@@ -104,7 +104,3 @@ The provisions of section 1437p of this title shall not apply to disposition of 
 
 Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement section before such date except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437c–1, 1437g of this title.
-

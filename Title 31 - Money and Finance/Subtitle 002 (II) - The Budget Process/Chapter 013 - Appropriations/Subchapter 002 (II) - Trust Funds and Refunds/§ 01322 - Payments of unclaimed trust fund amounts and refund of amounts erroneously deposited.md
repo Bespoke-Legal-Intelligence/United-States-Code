@@ -70,7 +70,3 @@ Subsec. (c)(2). Pub. L. 98–359 substituted reference to par. (3) of this subse
 
 Subsec. (c)(3), (4). Pub. L. 98–359 added pars. (3) and (4).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 331 of this title; title 20 section 225; title 33 section 770; title 38 section 5504.
-

@@ -30,7 +30,7 @@
 
 #### (2) MA continuation
 
-&emsp;In applying section 1395w–21(c)(3)(B) of this title, an individual who is enrolled in an MA plan shall not be considered to have beendeemed to make an election into an MA–PD plan unless—
+&emsp;In applying section 1395w–21(c)(3)(B) of this title, an individual who is enrolled in an MA plan shall not be considered to have been deemed to make an election into an MA–PD plan unless—
 
 &emsp;&emsp;(A) for purposes of the election as of January 1, 2006, the MA plan provided as of December 31, 2005, any prescription drug coverage; or
 
@@ -68,7 +68,7 @@ With respect to the offering of qualified prescription drug coverage by an MA or
 
 #### (d) Special rules for private fee-for-service plans that offer prescription drug coverage
 
-With respect to an MA plan described in section 1395w–21(a)(2)(C) of this title that offers qualified prescription drug coverage, on and after January 1, 2006, the following rules apply:
+With respect to an MA plan described in section 1395w–21(a)(2)(C) of this title that offersqualified prescription drug coverage, on and after January 1, 2006, the following rules apply:
 
 #### (1) Requirements regarding negotiated prices
 
@@ -96,7 +96,7 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 
 #### (6) Exemption from negotiations
 
-&emsp;Subsections (d) and (e)(2)(C) of section 1395w–111 of this title shall not apply and the provisions of section 1395w–24(a)(5)(B) of this title prohibiting the review, approval, or disapproval of amounts described in such section shall apply to the proposed bid and terms andconditions described in section 1395w–111(d) of this title.
+&emsp;Subsections (d) and (e)(2)(C) of section 1395w–111 of this title shall not apply and the provisions of section 1395w–24(a)(5)(B) of this title prohibiting the review, approval, or disapproval of amounts described in such section shall apply to the proposed bid and terms and conditions described in section 1395w–111(d) of this title.
 
 #### (7) Treatment of incurred costs without regard to formulary
 
@@ -137,8 +137,4 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 Parts A and B of this subchapter, referred to in subsec. (a)(1)(B), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 Part C of this subchapter, referred to in subsecs. (c)(1), (2), (e)(1), and (f)(1), is classified to section 1395w–21 et seq. of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395w–22, 1395w–113 of this title.
 

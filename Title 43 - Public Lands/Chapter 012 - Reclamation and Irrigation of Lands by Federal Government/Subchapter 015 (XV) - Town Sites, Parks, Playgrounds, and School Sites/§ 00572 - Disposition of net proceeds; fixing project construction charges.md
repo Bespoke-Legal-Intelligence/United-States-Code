@@ -4,7 +4,3 @@ The net proceeds of such sales after deducting all expenditures on account of su
 
 (Mar. 2, 1929, ch. 541, §2, 45 Stat. 1522.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 573 of this title.
-

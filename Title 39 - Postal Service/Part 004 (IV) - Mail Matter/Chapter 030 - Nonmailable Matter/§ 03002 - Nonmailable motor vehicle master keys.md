@@ -8,7 +8,3 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 746.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 1716A.
-

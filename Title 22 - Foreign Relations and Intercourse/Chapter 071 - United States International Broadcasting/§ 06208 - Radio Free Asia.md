@@ -62,7 +62,7 @@ Nothing in this chapter may be construed to make Radio Free Asia a Federal agenc
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(1), (2)\], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c), which required the Board, through the Director of the United States Information Agency, to submit to Congress a detailed plan for the establishment and operation of Radio Free Asia prior to the awarding of a grant to carry out this section.
+1999—Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(1), (2)\], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c), which required the Board, through the Director of the United States Information Agency, to submit to Congress a detailed plan for the establishment and operation ofRadio Free Asia prior to the awarding of a grant to carry out this section.
 
 Subsec. (c)(1). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(3)(A)\], struck out “(A)” after “(1)” and struck out subpar. (B) which read as follows: “Not later than 90 days after confirmation of all members of the Board, the Board shall provide a report to Congress on the number of administrative, managerial, and technical staff of Radio Free Asia who will be located within the metropolitan area of Washington, D.C., and the number of employees whose principal place of business will be located outside the metropolitan area of Washington, D.C.”
 
@@ -81,8 +81,4 @@ Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(2)\], redesignated subs
 Subsecs. (g) to (i). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(2)\], redesignated subsecs. (h) and (i) as (g) and (h), respectively. Former subsec. (g) redesignated (f).
 
 1994—Subsec. (d)(1)(B). Pub. L. 103–415 inserted “of all members” after “confirmation”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6204, 6206, 6207 of this title.
 

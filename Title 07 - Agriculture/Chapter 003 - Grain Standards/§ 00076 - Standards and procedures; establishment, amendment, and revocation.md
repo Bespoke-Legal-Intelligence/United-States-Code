@@ -84,7 +84,7 @@ Section 2003 of title XX of Pub. L. 101–624 provided that: “The Administrato
 
 #### Revision of Grain Inspection Procedures To Reflect Levels of Insect Infestation
 
-Pub. L. 99–641, title III, §304, Nov. 10, 1986, 100 Stat. 3565, provided that: “Not later than 6 months after the date of enactment of this Act \[Nov. 10, 1986\], the Administrator of the Federal Grain Inspection Service shall issue a final rule that revises grain inspection procedures and standards established under the United States Grain Standards Act (7 U.S.C. 71 et seq.) to more accurately reflect levels of insect infestation.”
+Pub. L. 99–641, title III, §304, Nov. 10, 1986, 100 Stat. 3565, provided that: “Not later than 6 months after the date of enactment of this Act \[Nov. 10, 1986\], the Administrator of the Federal Grain Inspection Service shall issue a final rule that revises grain inspection procedures and standards established under the UnitedStates Grain Standards Act (7 U.S.C. 71 et seq.) to more accurately reflect levels of insect infestation.”
 
 #### Study of Uniform End-Use Value Tests for Grain
 
@@ -127,8 +127,4 @@ Section 1672 of Pub. L. 99–198 provided that:
 #### Investigation and Study Regarding Adequacy of Grain Standards; Changes in Standards; Report to Congress by October 21, 1978
 
 Section 24 of Pub. L. 94–582, which provided for investigation and study by Administrator of the Federal Grain Inspection Service regarding adequacy of grain standards established under this chapter in relation to needs and concerns of domestic and foreign grain buyers, with Administrator, as result of such study, to make necessary changes in grain standards, and to submit report to Congress setting forth findings of study and actions taken as result thereof not later than two years after Oct. 21, 1976, was repealed by Pub. L. 106–472, title I, §110(b), Nov. 9, 2000, 114 Stat. 2061.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 75, 77, 78, 79, 79a of this title.
 

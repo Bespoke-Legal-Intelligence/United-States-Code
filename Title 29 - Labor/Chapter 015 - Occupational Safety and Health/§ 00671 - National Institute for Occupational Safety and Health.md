@@ -2,7 +2,7 @@
 
 #### (a) Statement of purpose
 
-It is the purpose of this section to establish a National Institute for Occupational Safety and Health in the Department of Health and Human Services in order to carry out the policy set forth in section 651 of this title and to perform the functions of the Secretary of Health and Human Services under sections 669 and 670 of this title.
+It is the purpose of this section to establish a National Institute for Occupational Safety andHealth in the Department of Health and Human Services in order to carry out the policy set forth in section 651 of this title and to perform the functions of the Secretary of Health and Human Services under sections 669 and 670 of this title.
 
 #### (b) Establishment; Director; appointment; term
 
@@ -66,7 +66,7 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 #### (2) Evaluation of programs
 
-&emsp;The Institute shall conduct periodic and comprehensive assessments of the efficacy of the worker and supervisor training programs developed and offered by those receiving grants under this section. The Director shall prepare reports on the results of these assessments addressed to the Administrator of the Environmental Protection Agency to include recommendations as may be appropriate for the revision of these programs. The sum of $500,000 is authorized to be appropriated to the Institute for each of the fiscal years 1994 through 1997 to carry out this paragraph.
+&emsp;The Institute shall conduct periodic and comprehensive assessments of the efficacy ofthe worker and supervisor training programs developed and offered by those receiving grants under this section. The Director shall prepare reports on the results of these assessments addressed to the Administrator of the Environmental Protection Agency to include recommendations as may be appropriate for the revision of these programs. The sum of $500,000 is authorized to be appropriated to the Institute for each of the fiscal years 1994 through 1997 to carry out this paragraph.
 
 (Pub. L. 91–596, §22, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–550, title X, §1033, Oct. 28, 1992, 106 Stat. 3924.)
 
@@ -91,8 +91,4 @@ In subsec. (e)(8), “section 3324(a) and (b) of title 31” substituted for “
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 97 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 669 of this title.
 

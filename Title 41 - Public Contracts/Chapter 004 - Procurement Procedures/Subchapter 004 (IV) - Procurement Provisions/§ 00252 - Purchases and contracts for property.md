@@ -170,7 +170,3 @@ Ex. Ord. No. 10936, Apr. 24, 1961, 26 F.R. 3555, which provided for the reportin
 
 The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 260 of this title; title 22 sections 2509, 4024; title 23 section 140; title 30 section 1711; title 38 section 8122; title 50 sections 1432, 1651.
-

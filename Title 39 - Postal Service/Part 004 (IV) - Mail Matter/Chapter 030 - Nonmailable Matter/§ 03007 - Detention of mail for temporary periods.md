@@ -4,7 +4,7 @@
 
 (2)(A) Upon a proper showing, the court shall enter an order which shall—
 
-&emsp;(i) remain in effect during the pendency of the statutory proceedings, any judicial review of such proceedings, or any action to enforce orders issued under the proceedings; and
+&emsp;(i) remain in effect during the pendency of the statutory proceedings, any judicial reviewof such proceedings, or any action to enforce orders issued under the proceedings; and
 
 &emsp;(ii) direct the detention by the postmaster, in any and all districts, of the defendant's incoming mail and outgoing mail, which is the subject of the proceedings under section 3005.
 
@@ -35,8 +35,4 @@ Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (a)(1), 
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–168 effective 120 days after Dec. 12, 1999, see section 111 of Pub. L. 106–168, set out as a note under section 3001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3005, 3011, 3012, 3013 of this title.
 

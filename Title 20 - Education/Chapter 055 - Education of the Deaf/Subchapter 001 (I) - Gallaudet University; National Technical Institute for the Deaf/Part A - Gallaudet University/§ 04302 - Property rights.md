@@ -34,7 +34,3 @@ Sept. 13, 1960, Pub. L. 86–776, §§1, 2, 74 Stat. 916, 917.
 
 Nov. 20, 1981, Pub. L. 97–80, title II, §202(a)(1), 95 Stat. 1082.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4353 of this title.
-

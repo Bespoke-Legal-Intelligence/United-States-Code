@@ -30,7 +30,3 @@ Funds from grants received under this part may be used for the following:
 
 (Pub. L. 98–377, title III, §324, as added Pub. L. 100–418, title VI, §6031(a)(2), Aug. 23, 1988, 102 Stat. 1480.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3992, 3996 of this title.
-

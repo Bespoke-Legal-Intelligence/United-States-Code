@@ -22,7 +22,3 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 Section effective Oct. 1, 1970, see section 122 of Pub. L. 91–271, set out as a note under section 256 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 254 of this title.
-

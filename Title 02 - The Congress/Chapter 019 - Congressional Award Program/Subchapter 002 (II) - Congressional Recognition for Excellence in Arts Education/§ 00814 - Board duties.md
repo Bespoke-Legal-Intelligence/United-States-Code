@@ -124,7 +124,3 @@ The Board shall determine an appropriate date or dates for announcement of the a
 
 (Pub. L. 96–114, title II, §205, as added Pub. L. 106–533, §1(a), Nov. 22, 2000, 114 Stat. 2546.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 811, 813, 815 of this title.
-

@@ -21,8 +21,7 @@
 | [4305\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf/Part%20A%20-%20Gallaudet%20University/%C2%A7%2004305%20-%20Agreement%20with%20Gallaudet%20University.md) | Agreement with Gallaudet University. |
 | (a) | General authority. |
 | (b) | Provisions of agreement. |
-| 4311\. | Repealed. |
-| 4321, 4322. Repealed. |  |
+| 4311,4321, 4322. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -46,7 +45,7 @@
 | [4351\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004351%20-%20Definitions.md) | Definitions. |
 | [4352\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004352%20-%20Gifts.md) | Gifts. |
 | [4353\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004353%20-%20Audit.md) | Audit. |
-| (a) | General Accounting Office authority. |
+| (a) | Government Accountability Office authority. |
 | (b) | Independent financial and compliance audit. |
 | (c) | Limitations regarding expenditure of funds. |
 | [4354\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004354%20-%20Reports.md) | Reports. |

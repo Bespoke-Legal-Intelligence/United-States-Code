@@ -10,7 +10,3 @@ Amounts deposited into an Environmental Fund shall be invested until disbursed. 
 
 (July 10, 1954, ch. 469, title VI, §608, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3660.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1738e, 1738f, 1738<i>o</i> of this title; title 12 section 635i–6.
-

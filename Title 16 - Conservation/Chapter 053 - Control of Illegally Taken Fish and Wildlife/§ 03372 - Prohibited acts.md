@@ -24,7 +24,7 @@ It is unlawful for any person—
 
 #### (b) Marking offenses
 
-It is unlawful for any person to import, export, or transport in interstate commerce any container or package containing any fish or wildlife unless the container or package has previously been plainly marked, labeled, or tagged in accordance with the regulations issued pursuant to paragraph (2) of section 3376(a) of this title.
+It is unlawful for any person to import, export, or transport in interstate commerce any container or package containing any fish or wildlifeunless the container or package has previously been plainly marked, labeled, or tagged in accordance with the regulations issued pursuant to paragraph (2) of section 3376(a) of this title.
 
 #### (c) Sale and purchase of guiding and outfitting services and invalid licenses and permits
 
@@ -115,8 +115,4 @@ Subsecs. (c), (d). Pub. L. 100–653, §101(3), added subsecs. (c) and (d).
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–191, §3(b), Dec. 19, 2003, 117 Stat. 2872, provided that: “Section 3(a)(2)(C) of the Lacey Act Amendments of 1981 \[16 U.S.C. 3372(a)(2)(C)\] (as added by subsection (a)(1)(A)(iii)) shall apply beginning on the effective date of regulations promulgated under section 3(e)(3) of that Act \[16 U.S.C. 3372(e)(3)\] (as added by subsection (a)(2)).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3373, 3374, 3376, 3377, 4912 of this title; title 39 section 3015.
 

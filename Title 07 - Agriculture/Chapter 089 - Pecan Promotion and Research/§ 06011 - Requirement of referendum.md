@@ -38,7 +38,3 @@ The Secretary shall be reimbursed from any assessments collected by the Board fo
 
 (Pub. L. 101–624, title XIX, §1916, Nov. 28, 1990, 104 Stat. 3853.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6007 of this title.
-

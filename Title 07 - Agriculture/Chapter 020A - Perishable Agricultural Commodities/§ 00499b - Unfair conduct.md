@@ -66,7 +66,3 @@ Par. (7). Act Aug. 20, 1937, §4, added par. (7).
 
 Par. (4). Act Apr. 13, 1934, §3, substituted “in connection with any transaction involving or concerning” for “concerning the condition, quality, quantity or disposition of” and inserted “or consigned” after “contracted to be bought or sold”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 499b–1, 499d, 499e, 499f, 499g, 499h, 499m of this title.
-

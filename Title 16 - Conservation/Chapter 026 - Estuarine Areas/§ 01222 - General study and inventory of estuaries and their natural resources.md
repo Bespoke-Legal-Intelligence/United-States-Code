@@ -2,7 +2,7 @@
 
 #### (a) Estuaries included; considerations; other applicable studies
 
-The Secretary of the Interior, in consultation and in cooperation with the States, the Secretary of the Army, and other Federal agencies, shall conduct directly or by contract a study and inventory of the Nation's estuaries, including without limitation coastal marshlands, bays, sounds, seaward areas, lagoons, and land and waters of the Great Lakes. For the purpose of this study, the Secretary shall consider, among other matters, (1) their wildlife and recreational potential, their ecology, their value to the marine, anadromous, and shell fisheries and their esthetic value, (2) their importance to navigation, their value for flood, hurricane, and erosion control, their mineral value, and the value of submerged lands underlying the waters of the estuaries, and (3) the value of such areas for more intensive development for economic use as part of urban developments and for commercial and industrial developments. This study and inventory shall be carried out in conjunction with the comprehensive estuarine pollution study authorized by section 5(g) of the Federal Water Pollution Control Act, as amended \[33 U.S.C. 1254(n)\], and other applicable studies.
+The Secretary of the Interior, in consultation and in cooperation with the States, the Secretary of the Army, and other Federal agencies, shall conduct directly or by contract a study and inventory of the Nation's estuaries, including without limitation coastal marshlands, bays, sounds, seaward areas, lagoons, and land and waters of the Great Lakes. For the purpose of this study, the Secretary shall consider, among other matters, (1) their wildlife and recreational potential, their ecology, their value to the marine, anadromous, and shell fisheries and their esthetic value, (2) their importance to navigation, their value for flood, hurricane, and erosion control, their mineral value, and the value of submerged lands underlying the watersof the estuaries, and (3) the value of such areas for more intensive development for economic use as part of urban developments and for commercial and industrial developments. This study and inventory shall be carried out in conjunction with the comprehensive estuarine pollution study authorized by section 5(g) of the Federal Water Pollution Control Act, as amended \[33 U.S.C. 1254(n)\], and other applicable studies.
 
 #### (b) Federal or State land acquisition or administration; other protective methods
 
@@ -14,15 +14,11 @@ The Secretary of the Interior shall, not later than January 30, 1970, submit to 
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated not to exceed $250,000 for fiscal year 1969 and $250,000 for fiscal year 1970 to carry out the provisions ofthis section. Such sums shall be available until expended.
+There is authorized to be appropriated not to exceed $250,000 for fiscal year 1969 and $250,000 for fiscal year 1970 to carry out the provisions of this section. Such sums shall be available until expended.
 
 (Pub. L. 90–454, §2, Aug. 3, 1968, 82 Stat. 626.)
 
 #### References in Text
 
 Section 5(g) of the Federal Water Pollution Control Act, as amended, referred to in text, was originally classified to section 466c(g) of Title 33, Navigation and Navigable Waters. Section 5(g) of the Act was redesignated as section 5(m) by sec. 105(<i>l</i>) of Pub. L. 91–224, Apr. 3, 1970, 84 Stat. 111, and was reclassified to section 1155(m) of Title 33. The Federal Water Pollution Control Act was amended generally by sec. 2 of Pub. L. 92–500, Oct. 18, 1972, 86 Stat. 816, and the provisions relating to comprehensive estuarine pollution study are contained in section 104(n), which is classified to section 1254(n) of Title 33.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1223 of this title.
 

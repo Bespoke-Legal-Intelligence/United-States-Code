@@ -34,7 +34,7 @@ Foreign fishing described in subsection (a) of this section may be conducted pur
 
 &emsp;&emsp;&emsp;(iii) to examine and make notations on the permit issued pursuant to section 1824 of this title for such vessel;
 
-&emsp;&emsp;(B) the permit issued for any such vessel pursuant to section 1824 of this title beprominently displayed in the wheelhouse of such vessel;
+&emsp;&emsp;(B) the permit issued for any such vessel pursuant to section 1824 of this title be prominently displayed in the wheelhouse of such vessel;
 
 &emsp;&emsp;(C) transponders, or such other appropriate position-fixing and identification equipment as the Secretary of the department in which the Coast Guard is operating determines to be appropriate, be installed and maintained in working order on each such vessel;
 
@@ -210,7 +210,7 @@ Notwithstanding any other provision of this subchapter, foreign fishing vessels 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c), (d), (e)(2)(C)(iii), (g), and (h)(3), (6)(D), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (c), (d), (e)(2)(C)(iii), (g), and (h)(3), (6)(D), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-StevensFishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
@@ -314,6 +314,38 @@ Sections 237, 238(b) of Pub. L. 96–561, as amended by Pub. L. 104–208, div. 
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Implementation of Pacific Albacore Tuna Treaty
+
+Pub. L. 108–219, title IV, §401, Apr. 13, 2004, 118 Stat. 616, provided that:
+
+“(a)
+
+In General.—Notwithstanding anything to the contrary in section 201, 204, or 307(2) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1821, 1824, and 1857(2)), foreign fishing may be conducted pursuant to the Treaty between the Government of the United States of America and the Government of Canada on Pacific Coast Albacore Tuna Vessels and Port Privileges, signed at Washington May 26, 1981, including its Annexes and any amendments thereto.
+
+“(b)
+
+Regulations.—The Secretary of Commerce, with the concurrence of the Secretary of State, may—
+
+&emsp;“(1) promulgate regulations necessary to discharge the obligations of the United States under the Treaty and its Annexes; and
+
+&emsp;“(2) provide for the application of any such regulation to any person or vessel subject to the jurisdiction of the United States, wherever that person or vessel may be located.
+
+“(c)
+
+Enforcement.—
+
+&emsp;“(1)
+
+In general.—The Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) shall be enforced as if subsection (a) were a provision of that Act. Any reference in the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) to ‘this Act’ or to any provision of that Act, shall be considered to be a reference to that Act as it would be in effect if subsection (a) were a provision of that Act.
+
+&emsp;“(2)
+
+Regulations.—The regulations promulgated under subsection (b), shall be enforced as if—
+
+&emsp;&emsp;“(A) subsection (a) were a provision of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.); and
+
+&emsp;&emsp;“(B) the regulations were promulgated under that Act.”
+
 #### Foreign Fishing for Atlantic Herring and Mackerel
 
 Pub. L. 104–43, title VIII, §802, Nov. 3, 1995, 109 Stat. 396, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding any other provision of law—
@@ -330,11 +362,7 @@ Pub. L. 104–43, title VIII, §802, Nov. 3, 1995, 109 Stat. 396, as amended by 
 
 Pub. L. 100–629, §6, Nov. 7, 1988, 102 Stat. 3287, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
-“(a) The Secretary of State, the Secretary of Commerce, and the Secretary of the department in which the Coast Guard is operating, as appropriate, shall exercise their authority under section 201(c)(2)(C) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1821) to require the use of transponders or other such appropriate position-fixing and identification equipment on any vessel other than a vessel of the United States engaged in fishing in the United States Exclusive Economic Zone.
+“(a) The Secretary of State, the Secretary of Commerce, and the Secretary of the department in whichthe Coast Guard is operating, as appropriate, shall exercise their authority under section 201(c)(2)(C) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1821) to require the use of transponders or other such appropriate position-fixing and identification equipment on any vessel other than a vessel of the United States engaged in fishing in the United States Exclusive Economic Zone.
 
 “(b) The Secretary of Commerce, after consultation with the Secretary of Defense, the Secretary of State, and the Secretary of the department in which the Coast Guard is operating shall report to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science and Transportation of the Senate within 180 days after the date of enactment of this Act \[Nov. 7, 1988\] on the results of their compliance with subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1822, 1824, 1825, 1856, 1857, 1861 of this title.
 

@@ -60,7 +60,7 @@ Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorg
 
 “(j) The functions of the Secretary of the Interior under section 2(b) of the Joint Resolution of August 8, 1947 (61 Stat. 921), with respect to appraisals and sales of certain lands within the Tongass National Forest.
 
-“(k) The functions of the Secretary of the Interior under section 10 of the Act of March 1, 1911 (36 Stat. 962; 16 U.S.C. 519), with respect to sales of small tracts of acquired national forest lands found chiefly valuable for agriculture.
+“(k) The functions of the Secretary of the Interior under section 10 of the Act of March 1, 1911 (36 Stat. 962;16 U.S.C. 519), with respect to sales of small tracts of acquired national forest lands found chiefly valuable for agriculture.
 
 “(<i>l</i>) The functions of the Secretary of the Interior under section 402 of Reorganization Plan Numbered 3 of 1946 (60 Stat. 1099), section 3 of the Act of September 1, 1949 (63 Stat. 683; 30 U.S.C. 192c), the Act of June 30, 1950 (64 Stat. 311; 16 U.S.C. 508b), section 3 of the Act of June 28, 1952 (66 Stat. 285), or otherwise, with respect to the use and disposal from lands under the jurisdiction of the Secretary of Agriculture of those mineral materials which the Secretary of Agriculture is authorized to dispose of from other lands under his jurisdiction under the Act of July 31, 1947 (61 Stat. 681), as amended by the Act of July 23, 1955 (69 Stat. 367; 30 U.S.C. 601 and the following).
 
@@ -109,8 +109,4 @@ I74Section 1. Transfer of Functions to the Secretary
 #### Sec. 5. Incidental Transfers
 
 The Secretary of Agriculture may from time to time effect such transfers within the Department of Agriculture of any of the records, property, and personnel affected by this reorganization plan and such transfers of unexpended balances (available or to be made available for use in connection with any affected function or agency) of appropriations, allocations, and other funds of such Department, as he deems necessary to carry out the provisions of this reorganization plan; but such unexpended balances so transferred shall be used only for the purposes for which such appropriation was originally made.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3125a of this title; title 20 section 196.
 

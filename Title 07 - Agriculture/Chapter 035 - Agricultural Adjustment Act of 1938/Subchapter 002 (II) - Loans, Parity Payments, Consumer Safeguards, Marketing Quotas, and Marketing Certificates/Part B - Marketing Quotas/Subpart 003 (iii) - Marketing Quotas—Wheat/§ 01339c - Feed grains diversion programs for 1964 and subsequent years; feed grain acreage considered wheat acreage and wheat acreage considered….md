@@ -12,7 +12,3 @@ Effective with the 1964 crop, during any year in which an acreage diversion prog
 
 Section was enacted as part of the Food and Agriculture Act of 1962, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1332 of this title.
-

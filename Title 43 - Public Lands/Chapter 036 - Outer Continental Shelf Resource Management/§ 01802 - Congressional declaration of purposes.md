@@ -16,7 +16,7 @@ The purposes of this chapter are to—
 
 &emsp;(7) minimize or eliminate conflicts between the exploration, development, and production of oil and natural gas, and the recovery of other resources such as fish and shellfish;
 
-&emsp;(8) establish an oilspill liability fund to pay for the prompt removal of any oil spilled or discharged as a result of activities on the Outer Continental Shelf and for any damages to public or private interests caused by such spills or discharges;
+&emsp;(8) establish an oilspill liability fund to pay for the prompt removal of any oil spilled or discharged as a result of activities on theOuter Continental Shelf and for any damages to public or private interests caused by such spills or discharges;
 
 &emsp;(9) insure that the extent of oil and natural gas resources of the Outer Continental Shelf is assessed at the earliest practicable time; and
 

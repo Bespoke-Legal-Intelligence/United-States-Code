@@ -24,7 +24,7 @@ No assistance shall be furnished on a loan basis under part I of subchapter I of
 
 &emsp;(B) has taken steps to repudiate or nullify existing contracts or agreements with any United States citizen or any corporation, partnership, or association not less than 50 per centum beneficially owned by United States citizens, or
 
-&emsp;(C) has imposed or enforced discriminatory taxes or other exactions, or restrictive maintenance or operational conditions, or has taken other actions, which have the effect ofnationalizing, expropriating, or otherwise seizing ownership or control of property so owned,
+&emsp;(C) has imposed or enforced discriminatory taxes or other exactions, or restrictive maintenance or operational conditions, or has taken other actions, which have the effect of nationalizing, expropriating, or otherwise seizing ownership or control of property so owned,
 
 > and such country, government agency, or government subdivision fails within a reasonable time (not more than six months after such action, or, in the event of a referral to the Foreign Claims Settlement Commission of the United States within such period as provided herein, not more than twenty days after the report of the Commission is received) to take appropriate steps, which may include arbitration, to discharge its obligations under international law toward such citizen or entity, including speedy compensation for such property in convertible foreign exchange, equivalent to the full value thereof, as required by international law, or fails to take steps designed to provide relief from such taxes, exactions, or conditions, as the case may be; and such suspension shall continue until the President is satisfied that appropriate steps are being taken, and provisions of this subsection shall not be waived with respect to any country unless the President determines and certifies that such a waiver is important to the national interests of the United States. Such certification shall be reported immediately to Congress.
 
@@ -50,7 +50,7 @@ Upon request of the President (within seventy days after such action referred to
 
 #### (g) Use of assistance funds to compensate owners for expropriated or nationalized property; waiver for land reform programs
 
-Notwithstanding any other provision of law, no monetary assistance shall be made available under this chapter to any government or political subdivision or agency of such government which will be used to compensate owners for expropriated or nationalized property and, upon finding by the President that such assistance has been used by any government for such purpose, no further assistance under this chapter shall be furnished to such government until appropriate reimbursement is made to the United States for sums so diverted. This prohibition shall not apply to monetary assistance made available for use by a government (or a political subdivision or agency of a government) to compensate nationals of that country in accordance with a land reform program, if the President determines that monetary assistance for such landreform program will further the national interests of the United States.
+Notwithstanding any other provision of law, no monetary assistance shall be made available under this chapter to any government or political subdivision or agency of such government which will be used to compensate owners for expropriated or nationalized property and, upon finding by the President that such assistance has been used by any government for such purpose, no further assistance under this chapter shall be furnished to such government until appropriate reimbursement is made to the United States for sums so diverted. This prohibition shall not apply to monetary assistance made available for use by a government (or a political subdivision or agency of a government) to compensate nationals of that country in accordance with a land reform program, if the President determines that monetary assistance for such land reform program will further the national interests of the United States.
 
 #### (h) Regulations and procedures to insure aid is not used contrary to the best interests of the United States
 
@@ -100,7 +100,7 @@ No recipient of a loan made under the authority of this chapter, any part of whi
 
 #### (t) Diplomatic relations; severance, resumption, and negotiation of agreements
 
-No assistance shall be furnished under this chapter or any other Act, and no sales shall bemade under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], in or to any country which has severed or hereafter severs diplomatic relations with the United States or with which the United States has severed or hereafter severs diplomatic relations, unless (1) diplomatic relations have been resumed with such country and (2) agreements for the furnishing of such assistance or the making of such sales, as the case may be, have been negotiated and entered into after the resumption of diplomatic relations with such country.
+No assistance shall be furnished under this chapter or any other Act, and no sales shall be made under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], in or to any country which has severed or hereafter severs diplomatic relations with the United States or with which the United States has severed or hereafter severs diplomatic relations, unless (1) diplomatic relations have been resumed with such country and (2) agreements for the furnishing of such assistance or the making of such sales, as the case may be, have been negotiated and entered into after the resumption of diplomatic relations with such country.
 
 #### (u) Status of country with respect to obligations to the United Nations; report to Congress
 
@@ -138,7 +138,7 @@ This chapter, referred to in subsecs. (a), (c), (e), (f)(1), (g), (j) to (<i>l</
 
 Reorganization Plan No. 1 of 1954, 68 Stat. 1279, referred to in subsec. (e)(1), is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Agricultural Trade Development and Assistance Act of 1954, as amended, referred to in subsecs. (s)(1) and (t), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Agricultural Trade Development and Assistance Act of 1954, as amended, referred to in subsecs. (s)(1) and (t), is act July 10, 1954, ch. 469, 68 Stat. 454, whichis classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 #### References to Part I Deemed To Include Section 2293
 
@@ -196,7 +196,7 @@ Subsec. (x)(1). Pub. L. 95–92 substituted “1978” for “1976, the period b
 
 Subsec. (x)(1). Pub. L. 94–329, §403, further modified existing restrictions on assistance to Turkey by allowing the procurement under specified conditions of $125 million in defense articles and defense services by Turkey, provided that the President determines that such articles and services are necessary to enable Turkey to fulfill her defense responsibilities as a member of the North Atlantic Treaty Organization.
 
-1975—Subsec. (x). Pub. L. 94–104 redesignated existing provisions as par. (1), substituted provisions authorizing the President to suspend the provisions of this section and of section 2753(c) of this title with respect to sales, credits, and guaranties under the Foreign Military Sales Act, for the procurement of defense articles and services certified by the President to be necessary to enable Turkey to fulfill her defense responsibilities as a member of NATO and that such suspension shall be effective only while Turkey observes the cease-fire and neither increases its forces on Cyprus nor transfers to Cyprus any United States supplied arms, ammunition, and implements of war for provisions authorizing the President to suspend the provisions of this section andcertain other Acts if he determined that such suspension would further negotiations for a peaceful solution of the Cyprus conflict and that such suspension shall be effective only until Feb. 5, 1975, and if, during that time, Turkey observed cease-fire and neither increased its forces on Cyprus nor transferred to Cyprus any United States supplied implements of war, and added par. (2).
+1975—Subsec. (x). Pub. L. 94–104 redesignated existing provisions as par. (1), substituted provisions authorizing the President to suspend the provisions of this section and of section 2753(c) of this title with respect to sales, credits, and guaranties under the Foreign Military Sales Act, for the procurement of defense articles and services certified by the President to be necessary to enable Turkey to fulfill her defense responsibilities as a member of NATO and that such suspension shall be effective only while Turkey observes the cease-fire and neither increases its forces on Cyprus nor transfers to Cyprus any United States supplied arms, ammunition, and implements of war for provisions authorizing the President to suspend the provisions of this section and certain other Acts if he determined that such suspension would further negotiations for a peaceful solution of the Cyprus conflict and that such suspension shall be effective only until Feb. 5, 1975, and if, during that time, Turkey observed cease-fire and neither increased its forces on Cyprus nor transferred to Cyprus any United States supplied implements of war, and added par. (2).
 
 1974—Subsec. (n). Pub. L. 93–559, §23, authorized assistance when determined by the President to be in the national interest of the United States.
 
@@ -250,13 +250,13 @@ Subsec. (m). Pub. L. 88–633, §301(g), substituted “during each fiscal year�
 
 1963—Subsec. (a). Pub. L. 88–205, §301(e)(1), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (e). Pub. L. 88–205, §301(e)(2), empowered the President to suspend assistance provided under any other act as well as under this chapter, inserted references to the repudiation or nullification of existing contracts or agreements with U.S. citizens or corporations, partnerships or associations not less than 50 percent beneficially owned by U.S. citizens, substituted “in the event of a referral to the Foreign Claims Settlement Commission of the United States within such period as provided herein, not more than twenty days after the report of the Commission is received” for “after August 1, 1962, whichever is later”, required compensation for property to be “equivalent to the full value thereof”, and authorized the Foreign Claims Settlement Commission to determine the full value of property nationalized, expropriated, or seized upon the President's request, and to render an advisory report to him thereon.
+Subsec. (e). Pub. L. 88–205, §301(e)(2), empowered the President to suspend assistance provided under any other act as well as under this chapter, inserted references to the repudiation or nullification of existing contracts or agreements with U.S. citizens or corporations, partnerships or associations not less than 50 percent beneficially owned by U.S. citizens, substituted “in the event of a referral to the Foreign Claims Settlement Commission of the United States within such period as provided herein, not more than twenty days after the report of the Commission is received” for “after August 1, 1962, whichever is later”, required compensation for property to be “equivalent to the full value thereof”, and authorized the Foreign Claims Settlement Commission to determine the full value of property nationalized, expropriated, or seized upon thePresident's request, and to render an advisory report to him thereon.
 
 Subsecs. (i) to (m). Pub. L. 88–205, §301(e)(3), added subsecs. (i) to (m).
 
 1962—Subsec. (a). Pub. L. 87–565, §301(d)(1), prohibited assistance to any country which furnishes assistance to the present government of Cuba unless the President determines that such assistance is in the national interest of the United States.
 
-Subsec. (c). Pub. L. 87–565, §301(d)(2), extended the prohibition against providing assistance to cases wherethe goods or services have been ordered, and where the indebtedness arises under an unconditional guaranty of payment, provided the President does not find such action contrary to the national security, and inserted “which shall include arbitration” after “exhausted available legal remedies”.
+Subsec. (c). Pub. L. 87–565, §301(d)(2), extended the prohibition against providing assistance to cases where the goods or services have been ordered, and where the indebtedness arises under an unconditional guaranty of payment, provided the President does not find such action contrary to the national security, and inserted “which shall include arbitration” after “exhausted available legal remedies”.
 
 Subsecs. (e) to (h). Pub. L. 87–565, §301(d)(3), added subsecs. (e) to (h).
 
@@ -340,7 +340,7 @@ Prohibition.—Subject to paragraph (2), no United States military assistance ma
 
 &emsp;“(C) the Government of El Salvador has rejected a plan for the settlement of the conflict which—
 
-&emsp;&emsp;“(i) has been put forward by the Secretary General of the United Nations in accordance with the terms and procedures in the April 4, 1990 GenevaCommunique and the May 21, 1990 Caracas Accord between the Government of El Salvador and the FMLN;
+&emsp;&emsp;“(i) has been put forward by the Secretary General of the United Nations in accordance with the terms and procedures in the April 4, 1990 Geneva Communique and the May 21, 1990 Caracas Accord between the Government of El Salvador and the FMLN;
 
 &emsp;&emsp;“(ii) includes a proposal for an internationally monitored cease-fire; and
 
@@ -506,7 +506,7 @@ Section 27 of Pub. L. 93–559 provided that the total amount of assistance prov
 
 #### Restrictions on Military Assistance and Excess Defense Articles to Korea
 
-Section 26 of Pub. L. 93–559 provided that the aggregated amount of funds obligated or reserved for military assistance, including supply operations, under part II of subchapter II of this chapter, the acquisition cost of excess defense articles, if any, ordered under subchapter II of this chapter and not charged againstappropriations for military assistance, credits including participations in credits, extended pursuant to section 2763 of this title, and the principal amount of loans guaranteed pursuant to section 2764(a) of this title, with respect to South Korea was not to exceed $145,000,000 for fiscal year 1975 until the President submitted a report to the Congress after Dec. 30, 1974, stating that the government of South Korea was making substantial progress in the observance of internationally recognized standards of human rights, after which the aggregate amount described above, with respect to South Korea, was not to exceed $165,000,000 for fiscal year 1975, with provisions of sections 2318 and 2364 of this title, or of any other law, not to be used to exceed these limitations, prior to repeal by Pub. L. 97–113, title VII, §734(a)(8), Dec. 29, 1981, 95 Stat. 1560.
+Section 26 of Pub. L. 93–559 provided that the aggregated amount of funds obligated or reserved for military assistance, including supply operations, under part II of subchapter II of this chapter, the acquisition cost of excess defense articles, if any, ordered under subchapter II of this chapter and not charged against appropriations for military assistance, credits including participations in credits, extended pursuant to section 2763 of this title, and the principal amount of loans guaranteed pursuant to section 2764(a) of this title, with respect to South Korea was not to exceed $145,000,000 for fiscal year 1975 until the President submitted a report to the Congress after Dec. 30, 1974, stating that the government of South Korea was making substantial progress in the observance of internationally recognized standards of human rights, after which the aggregate amount described above, with respect to South Korea, was not to exceed $165,000,000 for fiscal year 1975, with provisions of sections 2318 and 2364 of this title, or of any other law, not to be used to exceed these limitations, prior to repeal by Pub. L. 97–113, title VII, §734(a)(8), Dec. 29, 1981, 95 Stat. 1560.
 
 #### Repayment of Loans in Default
 
@@ -584,7 +584,7 @@ Proc. No. 3447, Feb. 3, 1962, 27 F.R. 1085, provided:
 
 WHEREAS the Eighth Meeting of Consultation of Ministers of Foreign Affairs, Serving as Organ of Consultation in Application of the Inter-American Treaty of Reciprocal Assistance, in its Final Act resolved that the present Government of Cuba is incompatible with the principles and objectives of the Inter-American system; and, in light of the subversive offensive of Sino-Soviet Communism with which the Government of Cuba is publicly aligned, urged the member states to take those steps that they may consider appropriate for their individual and collective self-defense;
 
-WHEREAS the Congress of the United States, in section 620(a) of the Foreign Assistance Act of 1961 (75 Stat. 445), as amended \[subsection (a) of this section\], has authorized the President to establish and maintain an embargo upon all trade between the United States and Cuba; and
+WHEREAS the Congress of the United States, in section 620(a) of the Foreign Assistance Act of 1961 (75Stat. 445), as amended \[subsection (a) of this section\], has authorized the President to establish and maintain an embargo upon all trade between the United States and Cuba; and
 
 WHEREAS the United States, in accordance with its international obligations, is prepared to take all necessary actions to promote national and hemispheric security by isolating the present Government of Cuba and thereby reducing the threat posed by its alignment with the communist powers:
 
@@ -603,10 +603,6 @@ DONE at the City of Washington this third day of February, in the year of our Lo
 > \[SEAL\]
 
 John F. Kennedy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 283<i>l</i>, 2151v, 2152b, 2227, 2312, 2373, 2398, 2430c, 2431d, 4305, 6004, 6008, 6023, 6064 of this title; title 28 section 1610; title 50 App. section 2304.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
 

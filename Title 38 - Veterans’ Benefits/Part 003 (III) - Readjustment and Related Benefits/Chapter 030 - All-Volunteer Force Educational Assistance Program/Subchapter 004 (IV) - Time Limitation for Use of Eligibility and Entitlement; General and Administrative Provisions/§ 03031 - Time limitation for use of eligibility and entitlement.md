@@ -8,7 +8,7 @@
 
 &emsp;(3) in the case of an individual who becomes entitled to such assistance under section 3011(a)(1)(C) or 3012(a)(1)(C) of this title, on December 27, 2001.
 
-(b) In the case of any eligible individual who has been prevented, as determined by the Secretary, from pursuing a program of education under this chapter within the 10-year period prescribed by subsection (a) of this section because such individual had not met the nature of discharge requirement of this chapter before the nature of such individual's discharge or release was changed by appropriate authority, such 10-year period shall not run during the period of time that such individual was so prevented from pursuing such program of education.
+(b) In the case of any eligible individual who has been prevented, as determined by the Secretary, from pursuing a program of education under this chapter within the 10-year period prescribed by subsection (a) of this section because such individual had not met the nature of discharge requirement of this chapter before thenature of such individual's discharge or release was changed by appropriate authority, such 10-year period shall not run during the period of time that such individual was so prevented from pursuing such program of education.
 
 (c) In the case of an individual eligible for educational assistance under the provisions of this chapter who, after such individual's last discharge or release from active duty, was detained by a foreign government or power, the 10-year period described in subsection (a) of this section shall not run (1) while such individual is so detained, or (2) during any period immediately following such individual's release from such detention during which such individual is hospitalized at a military, civilian, or Department of Veterans Affairs medical facility.
 
@@ -121,8 +121,4 @@ Pub. L. 106–419, title I, §103(e), Nov. 1, 2000, 114 Stat. 1826, provided tha
 &emsp;“(A) before the date of the enactment of this Act, was not eligible for basic educational assistance under chapter 30 of such title by reason of the requirement of an initial obligated period of active duty as condition of eligibility for such assistance as in effect on the date preceding the date of the enactment of this Act; and
 
 &emsp;“(B) on or after such date becomes eligible for such assistance by reason of the amendments made by this section \[amending sections 3011 to 3013 and 3015 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3018C, 3020 of this title; title 10 section 16133.
 

@@ -44,7 +44,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 &emsp;&emsp;(B) The grant may be made only if the Secretary makes the following determinations:
 
-&emsp;&emsp;&emsp;(i) The applicant or other entity (as the case may be under subparagraph (A)) is appropriately qualified to conduct the project of research. An entity shall be considered to be so qualified if any research protocol of the entity has been recommended for funding under this chapter pursuant to technical and scientific peerreview through the National Institutes of Health.
+&emsp;&emsp;&emsp;(i) The applicant or other entity (as the case may be under subparagraph (A)) is appropriately qualified to conduct the project of research. An entity shall be considered to be so qualified if any research protocol of the entity has been recommended for funding under this chapter pursuant to technical and scientific peer review through the National Institutes of Health.
 
 &emsp;&emsp;&emsp;(ii) The project of research is being conducted in accordance with a research protocol to which the Secretary gives priority regarding the prevention or treatment of HIV disease in women, infants, children, or youth, subject to paragraph (2).
 
@@ -158,7 +158,7 @@ Subsec. (d)(4). Pub. L. 106–345, §401(b), added par. (4).
 
 Subsec. (f). Pub. L. 106–345, §401(c), substituted “Administration” for “Application” in subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
-Subsec. (g). Pub. L. 106–345, §401(d), inserted at end “The Secretary acting through the Director of NIH, shall examine the distribution and availability of ongoing and appropriate HIV/AIDS-related research projects to existing sites under this section for purposes of enhancing and expanding voluntary access to HIV-related research, especially within communities that are not reasonably served by such projects. Not later than 12 months after October 20, 2000, the Secretary shall prepare and submit to the appropriate committees of Congress a report that describes the findings made by the Director and the manner in which the conclusions based on those findings can be addressed.”
+Subsec. (g). Pub. L. 106–345, §401(d), inserted at end “The Secretary acting through the Director of NIH, shall examine the distribution and availability of ongoing and appropriate HIV/AIDS-related research projects to existing sites under this section for purposes of enhancing and expanding voluntary access to HIV-related research, especially within communitiesthat are not reasonably served by such projects. Not later than 12 months after October 20, 2000, the Secretary shall prepare and submit to the appropriate committees of Congress a report that describes the findings made by the Director and the manner in which the conclusions based on those findings can be addressed.”
 
 Subsecs. (i), (j). Pub. L. 106–345, §401(e), added subsec. (i) and redesignated former subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
@@ -171,8 +171,4 @@ Pub. L. 106–345, §401(e)(1), redesignated subsec. (j) as (k).
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–12, 300ff–23, 300ff–51 of this title.
 

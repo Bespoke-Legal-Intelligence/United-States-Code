@@ -30,11 +30,7 @@ In the implementation of this section, the Secretary shall take into account con
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–171, §10605(b)(2)(A), substituted “Secretary for the purpose” for “Extension Service of the United States Department of Agriculture for the purpose”, “Secretary on the basis” for “Extension Service on the basis”, and “, as determined by the Secretary” for “and on the basis of which of these two agencies, or combination thereof, can best perform these activities”.
+2002—Subsec. (a). Pub. L. 107–171, §10605(b)(2)(A), substituted “Secretary for the purpose” for “ExtensionService of the United States Department of Agriculture for the purpose”, “Secretary on the basis” for “Extension Service on the basis”, and “, as determined by the Secretary” for “and on the basis of which of these two agencies, or combination thereof, can best perform these activities”.
 
 Subsecs. (b), (c). Pub. L. 107–171, §10605(b)(2)(B), (C), added subsec. (b) and redesignated former subsec. (b) as (c).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3006 of this title.
 

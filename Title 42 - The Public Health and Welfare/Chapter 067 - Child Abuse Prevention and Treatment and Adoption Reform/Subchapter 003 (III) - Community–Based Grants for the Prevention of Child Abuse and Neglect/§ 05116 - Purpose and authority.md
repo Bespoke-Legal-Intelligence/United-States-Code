@@ -60,9 +60,5 @@ Subsec. (b)(1)(G), (H). Pub. L. 108–36, §121(b)(1)(B), (C), added subpars. (G
 
 Subsec. (b)(4). Pub. L. 108–36, §121(b)(2), inserted “through leveraging of funds” after “maximizing funding” and substituted “community-based and prevention-focused” for “a Statewide network of community-based, prevention-focused” and “programs and activities designed to strengthen and support families to prevent child abuse and neglect (through networks where appropriate)” for “family resource and support program”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 section 6703.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(C) a veteran described in section 1710(a)(2)(E) of this title, or a veteran who is in receipt of increased pension, or additional compensation or allowances based on the need of regular aid and attendance or by reason of being permanently housebound (or who, but for the receipt of retired pay, would be in receipt of such pension, compensation, or allowance), if the Secretary has determined, based on an examination by a physician employed by the Department (or, in areas where no such physician is available, by a physician carrying out such function under a contract or fee arrangement), that the medical condition of such veteran precludes appropriate treatment in Department facilities.
 
-&emsp;(3) Hospital care or medical services for the treatment of medical emergencies which pose a serious threat to the life or health of a veteran receiving medical services in a Department facility or nursing home care under section 1720 of this title until such time following the furnishing of care in the non-Department facility as the veteran can be safely transferred to a Department facility.
+&emsp;(3) Hospital care or medical services for the treatment of medical emergencies which pose a serious threat to the life or health of a veteran receiving medical services in a Department facility or nursing home care under section 1720 of this title until such time followingthe furnishing of care in the non-Department facility as the veteran can be safely transferred to a Department facility.
 
 &emsp;(4) Hospital care for women veterans.
 
@@ -34,13 +34,23 @@
 
 (c) The Secretary shall include in the budget documents which the Secretary submits to Congress for any fiscal year a detailed report on the furnishing of contract care and services during the most recently completed fiscal year under this section, sections 1712A, 1720, 1720A, 1724, and 1732 of this title, and section 115 of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 501).
 
-(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184.)
+(d)(1) The Secretary shall conduct a program of recovery audits for fee basis contracts and other medical services contracts for the care of veterans under this section, and for beneficiaries under sections 1781, 1782, and 1783 of this title, with respect to overpayments resulting from processing or billing errors or fraudulent charges in payments for non-Department care and services. The program shall be conducted by contract.
+
+(2) Amounts collected, by setoff or otherwise, as the result of an audit under the program conducted under this subsection shall be available for the purposes for which funds are currently available to the Secretary for medical care and for payment to a contractor of a percentage of the amount collected as a result of an audit carried out by the contractor.
+
+(3) The Secretary shall allocate all amounts collected under this subsection with respect to a designated geographic service area of the Veterans Health Administration, net of payments to the contractor, to that region.
+
+(4) The authority of the Secretary under this subsection terminates on September 30, 2008.
+
+(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, §601, Nov. 30, 2004, 118 Stat. 2396.)
 
 #### References in Text
 
 Section 115 of the Veterans’ Benefits and Services Act of 1988, referred to in subsec. (c), is set out as a note under section 1712 of this title.
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–422 added subsec. (d).
 
 1996—Subsec. (a). Pub. L. 104–262, §104(b)(1), struck out “or 1712” after “, as authorized in section 1710” in introductory provisions.
 
@@ -127,8 +137,4 @@ Section 1503(c) of Pub. L. 100–687 ratified actions of the Administrator in co
 #### Puerto Rico Contract Care; Limitation on Incurring of Obligations
 
 Section 102(b)(2)–(5) of Pub. L. 99–166, as amended by Pub. L. 99–272, title XIX, §19012(c)(5)(B), Apr. 7, 1986, 100 Stat. 382, limited Administrator's authority to incur obligations for medical services for veterans residing in Puerto Rico during fiscal years 1986 to 1988.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1712, 1712A, 2303 of this title; title 42 section 1395cc.
 

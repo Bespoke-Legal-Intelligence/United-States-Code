@@ -60,7 +60,3 @@ Sec. 4. The United States shall not be responsible for providing to the Indians 
 
 Sec. 5. The transfer of McNary Dam townsite shall be upon the express condition that persons or families occupying residential property on the date of the enactment of this Act \[Aug. 28, 1957\] shall be entitled to at least one hundred and eighty days’ notice of termination of their occupancy.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 463f, 463g of this title.
-

@@ -42,7 +42,3 @@ No provision of this Act or any other Federal law shall be construed as supersed
 
 This Act, referred to in subsec. (e), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6712 of this title; title 12 section 24a.
-

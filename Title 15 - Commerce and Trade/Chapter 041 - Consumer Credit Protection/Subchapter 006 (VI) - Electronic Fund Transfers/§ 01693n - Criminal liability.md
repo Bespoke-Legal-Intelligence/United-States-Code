@@ -34,7 +34,3 @@ As used in this section, the term “debit instrument” means a card, code, or 
 
 (Pub. L. 90–321, title IX, §916, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3738.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1693m of this title; title 18 section 513.
-

@@ -4,7 +4,3 @@ To assist in the enforcement of the controlled substances laws of the United Sta
 
 (Pub. L. 99–570, title V, §5005, as added Pub. L. 100–690, title IX, §9310, Nov. 18, 1988, 102 Stat. 4539.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1494, 1494b of this title.
-

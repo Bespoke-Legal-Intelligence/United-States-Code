@@ -13,7 +13,7 @@
 | [3303a.](%C2%A7%2003303a%20-%20Examination%20by%20Archivist%20of%20lists%20and%20schedules%20of%20records%20lacking%20preservation%20value%3B%20disposal%20of%20records.md) | Examination by Archivist of lists and schedules of records lacking preservation value; disposal of records. |
 | \[3304 to 3307. Repealed.\] |  |
 | [3308\.](%C2%A7%2003308%20-%20Disposal%20of%20similar%20records%20where%20prior%20disposal%20was%20authorized.md) | Disposal of similar records where prior disposal was authorized. |
-| [3309\.](%C2%A7%2003309%20-%20Preservation%20of%20claims%20of%20Government%20until%20settled%20in%20General%20Accounting%20Office%3B%20disposal%20authorized%20upon%20written%20approval%20of%20Comptroller%E2%80%A6.md) | Preservation of claims of Government until settled in General Accounting Office; disposal authorized upon written approval of Comptroller General. |
+| [3309\.](%C2%A7%2003309%20-%20Preservation%20of%20claims%20of%20Government%20until%20settled%20in%20Government%20Accountability%20Office%3B%20disposal%20authorized%20upon%20written%20approval%20of%E2%80%A6.md) | Preservation of claims of Government until settled in Government Accountability Office; disposal authorized upon written approval of Comptroller General. |
 | [3310\.](%C2%A7%2003310%20-%20Disposal%20of%20records%20constituting%20menace%20to%20health%2C%20life%2C%20or%20property.md) | Disposal of records constituting menace to health, life, or property. |
 | [3311\.](%C2%A7%2003311%20-%20Destruction%20of%20records%20outside%20continental%20United%20States%20in%20time%20of%20war%20or%20when%20hostile%20action%20seems%20imminent%3B%20written%20report%20to%20Archivist.md) | Destruction of records outside continental United States in time of war or when hostile action seems imminent; written report to Archivist. |
 | [3312\.](%C2%A7%2003312%20-%20Photographs%20or%20microphotographs%20of%20records%20considered%20as%20originals%3B%20certified%20reproductions%20admissible%20in%20evidence.md) | Photographs or microphotographs of records considered as originals; certified reproductions admissible in evidence. |
@@ -34,6 +34,8 @@
 
 #### Amendments
 
+2004—Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, substituted “Government Accountability Office” for “General Accounting Office” in item 3309.
+
 1984—Pub. L. 98–497, title I, §107(b)(25)(D), Oct. 19, 1984, 98 Stat. 2290, substituted “Archivist” for “Administrator of General Services” in items 3303, 3303a, and 3311.
 
 1976—Pub. L. 94–575, §4(c)(1), Oct. 21, 1976, 90 Stat. 2727, struck out “; approval by President” after “standards for reproduction” in item 3302.
@@ -41,10 +43,6 @@
 1974—Pub. L. 93–526, title II, §203, Dec. 19, 1974, 88 Stat. 1702, added items 3315 to 3324.
 
 1970—Pub. L. 91–287, §3, June 23, 1970, 84 Stat. 322, inserted item 3303a and struck out items 3304 “Lists and schedules of records lacking preservation value; submission to Congress by Administrator of General Services”, 3305 “Examination of lists and schedules by joint congressional committee and report to Congress”, 3306 “Disposal of records by head of Government agency upon notification by Administrator of General Services of action by joint congressional committee”, and 3307 “Disposal of records upon failure of joint congressional committee to act”.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1503, 2115, 2116, 2901, 2902, 3504, 3505, 3538, 3549 of this title; title 5 section 552b; title 28 section 594; title 49 section 30302.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
@@ -61,7 +59,7 @@ This chapter is referred to in sections 1503, 2115, 2116, 2901, 2902, 3504, 3505
 - [&sect; 03303a - Examination by Archivist of lists and schedules of records lacking preservation value; disposal of records](%C2%A7%2003303a%20-%20Examination%20by%20Archivist%20of%20lists%20and%20schedules%20of%20records%20lacking%20preservation%20value%3B%20disposal%20of%20records.md)
 - [&sect; 03304 to 3307 - Repealed. Pub. L. 91&#8211;287, &sect;2(c), June 23, 1970, 84 Stat. 321](%C2%A7%2003304%20to%203307%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93287%2C%20%C2%A72%28c%29%2C%20June%2023%2C%201970%2C%2084%20Stat.%20321.md)
 - [&sect; 03308 - Disposal of similar records where prior disposal was authorized](%C2%A7%2003308%20-%20Disposal%20of%20similar%20records%20where%20prior%20disposal%20was%20authorized.md)
-- [&sect; 03309 - Preservation of claims of Government until settled in General Accounting Office; disposal authorized upon written approval of Comptroller&#8230;](%C2%A7%2003309%20-%20Preservation%20of%20claims%20of%20Government%20until%20settled%20in%20General%20Accounting%20Office%3B%20disposal%20authorized%20upon%20written%20approval%20of%20Comptroller%E2%80%A6.md)
+- [&sect; 03309 - Preservation of claims of Government until settled in Government Accountability Office; disposal authorized upon written approval of&#8230;](%C2%A7%2003309%20-%20Preservation%20of%20claims%20of%20Government%20until%20settled%20in%20Government%20Accountability%20Office%3B%20disposal%20authorized%20upon%20written%20approval%20of%E2%80%A6.md)
 - [&sect; 03310 - Disposal of records constituting menace to health, life, or property](%C2%A7%2003310%20-%20Disposal%20of%20records%20constituting%20menace%20to%20health%2C%20life%2C%20or%20property.md)
 - [&sect; 03311 - Destruction of records outside continental United States in time of war or when hostile action seems imminent; written report to Archivist](%C2%A7%2003311%20-%20Destruction%20of%20records%20outside%20continental%20United%20States%20in%20time%20of%20war%20or%20when%20hostile%20action%20seems%20imminent%3B%20written%20report%20to%20Archivist.md)
 - [&sect; 03312 - Photographs or microphotographs of records considered as originals; certified reproductions admissible in evidence](%C2%A7%2003312%20-%20Photographs%20or%20microphotographs%20of%20records%20considered%20as%20originals%3B%20certified%20reproductions%20admissible%20in%20evidence.md)

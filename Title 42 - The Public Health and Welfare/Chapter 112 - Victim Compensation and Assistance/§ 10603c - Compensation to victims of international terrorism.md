@@ -66,7 +66,3 @@ The Omnibus Diplomatic Security and Antiterrorism Act of 1986, referred to in su
 
 2001—Subsec. (b). Pub. L. 107–56 inserted at end “The amount of compensation awarded to a victim under this subsection shall be reduced by any amount that the victim received in connection with the same act of international terrorism under title VIII of the Omnibus Diplomatic Security and Antiterrorism Act of 1986.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10601 of this title.
-

@@ -22,7 +22,7 @@
 
 &emsp;(iv) has accepted fees for representing claimants under this chapter which were not approved, or which were in excess of the amount approved pursuant to section 928 of this title.
 
-(C) Notwithstanding subparagraph (B), no individual who is on the list required to be maintained by the Secretary pursuant to this section shall be prohibited from presenting his or herown claim or from representing without fee, a claimant who is a spouse, mother, father, sister, brother, or child of such individual.
+(C) Notwithstanding subparagraph (B), no individual who is on the list required to be maintained by the Secretary pursuant to this section shall be prohibited from presenting his or her own claim or from representing without fee, a claimant who is a spouse, mother, father, sister, brother, or child of such individual.
 
 (D) A determination under subparagraph (A) shall remain in effect for a period of not less than three years and until the Secretary finds and gives notice to the public that there is reasonable assurance that the basis for the determination will not reoccur.
 
@@ -38,7 +38,7 @@ A person including, but not limited to, an employer, his duly authorized agent, 
 
 #### Amendments
 
-1984—Pub. L. 98–426 designated existing provisions as subsec. (a)(1), substituted “Any claimant or representative of a claimant who knowingly and willfully makes a false statement or representation for the purpose of obtaining a benefit or payment under this chapter shall be guilty of a felony, and on conviction thereof shall be punished by a fine not to exceed $10,000, by imprisonment not to exceed five years, or by both” for “Any person who willfully makes any false or misleading statement or representation for the purpose of obtaining any benefit or payment under this chapter shall be guilty of a misdemeanor and on conviction thereof shall be punished by a fine of not to exceed $1,000 or by imprisonment of not to exceed one year, or by both such fine and imprisonment”, and added subsecs. (a)(2), (b), and (c).
+1984—Pub. L. 98–426 designated existing provisions as subsec. (a)(1), substituted “Any claimant or representative of a claimant who knowingly and willfully makes a false statement or representation for the purpose of obtaining a benefit or payment under this chapter shall be guilty of a felony, and on conviction thereof shall be punished by a fine not to exceed $10,000, by imprisonment not to exceed five years, or by both” for “Any person who willfully makes any false or misleading statement or representation for the purpose of obtaining any benefit or payment under this chapter shall be guilty of a misdemeanor and on conviction thereof shall be punished by a fine of not to exceed $1,000 or by imprisonment of not to exceed one year, or by bothsuch fine and imprisonment”, and added subsecs. (a)(2), (b), and (c).
 
 #### Effective Date of 1984 Amendment
 

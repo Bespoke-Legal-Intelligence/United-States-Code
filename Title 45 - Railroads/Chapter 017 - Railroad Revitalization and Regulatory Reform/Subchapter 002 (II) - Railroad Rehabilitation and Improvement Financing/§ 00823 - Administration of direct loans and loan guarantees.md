@@ -30,7 +30,7 @@ For purposes of claims by any party other than the Secretary, a loan guarantee o
 
 #### (f) Default
 
-The Secretary shall prescribe regulations setting forth procedures in the event of default on a loan made or guaranteed under section 822 of this title. The Secretary shall ensure that eachloan guarantee made under that section contains terms and conditions that provide that—
+The Secretary shall prescribe regulations setting forth procedures in the event of default on a loan made or guaranteed under section 822 of this title. The Secretary shall ensure that each loan guarantee made under that section contains terms and conditions that provide that—
 
 &emsp;(1) if a payment of principal or interest under the loan is in default for more than 30 days, the Secretary shall pay to the holder of the obligation, or the holder's agent, the amount of unpaid guaranteed interest;
 
@@ -54,7 +54,7 @@ The Secretary shall prescribe regulations setting forth procedures in the event 
 
 #### (h) Action against obligor
 
-The Secretary may bring a civil action in an appropriate Federal court in the name of the United States in the event of a default on a direct loan made under section 822 of this title, or in the name of the United States or of the holder of the obligation in the event of a default on a loan guaranteed under section 822 of this title. The holder of a guarantee shall make available to the Secretary all records and evidence necessary to prosecute the civil action. The Secretary may accept property in full or partial satisfaction of any sums owed as a result of a default. If the Secretary receives, through the sale or other disposition of such property, an amount greater than the aggregate of—
+The Secretary may bring a civil action in an appropriate Federal court in the name of the United States in the event of a default on a direct loan made under section 822 of this title, or in the name of the United States or of the holder of the obligation in the event of a default on a loan guaranteed under section 822 of this title.The holder of a guarantee shall make available to the Secretary all records and evidence necessary to prosecute the civil action. The Secretary may accept property in full or partial satisfaction of any sums owed as a result of a default. If the Secretary receives, through the sale or other disposition of such property, an amount greater than the aggregate of—
 
 &emsp;(1) the amount paid to the holder of a guarantee under subsection (g) of this section; and
 

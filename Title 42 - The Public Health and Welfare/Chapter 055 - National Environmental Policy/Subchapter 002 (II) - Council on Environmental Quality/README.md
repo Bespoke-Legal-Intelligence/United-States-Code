@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—COUNCIL ON ENVIRONMENTAL QUALITY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 4332 of this title.
-
 
 ---
 

@@ -18,7 +18,3 @@ The Secretary shall by regulation provide for the furnishing by the Department o
 
 1965—Pub. L. 89–216 inserted references to section 441 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 461 of this title.
-

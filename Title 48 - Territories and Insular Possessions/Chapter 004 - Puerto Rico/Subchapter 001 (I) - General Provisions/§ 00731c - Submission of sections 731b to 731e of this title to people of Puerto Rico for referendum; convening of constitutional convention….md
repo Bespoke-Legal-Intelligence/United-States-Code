@@ -16,7 +16,3 @@ A constitutional convention to draft a constitution for the island of Puerto Ric
 
 Act July 3, 1950, which enacted sections 731b to 731e of this title, was submitted to the qualified voters of Puerto Rico through an island-wide referendum held on June 4, 1951, and approved.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 731b, 731d of this title.
-

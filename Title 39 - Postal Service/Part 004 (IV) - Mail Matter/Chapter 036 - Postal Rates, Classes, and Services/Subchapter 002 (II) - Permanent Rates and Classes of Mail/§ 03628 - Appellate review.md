@@ -12,7 +12,3 @@ A decision of the Governors to approve, allow under protest, or modify the recom
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as a note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3625, 3641, 3662, 3681 of this title.
-

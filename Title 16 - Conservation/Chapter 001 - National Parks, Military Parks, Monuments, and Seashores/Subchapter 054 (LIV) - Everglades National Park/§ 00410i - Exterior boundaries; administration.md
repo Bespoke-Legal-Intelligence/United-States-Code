@@ -164,7 +164,3 @@ Land and water now in Federal ownership within said boundary shall continue to b
 
 (Pub. L. 85–482, §1, July 2, 1958, 72 Stat. 280.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410j, 410m, 410<i>o</i>, 410p of this title.
-

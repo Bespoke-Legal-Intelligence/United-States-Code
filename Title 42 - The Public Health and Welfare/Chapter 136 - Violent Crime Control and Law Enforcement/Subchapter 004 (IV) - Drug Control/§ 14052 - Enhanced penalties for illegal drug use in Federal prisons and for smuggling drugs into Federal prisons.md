@@ -20,5 +20,5 @@ Notwithstanding any other law, the court shall not sentence a person convicted o
 
 #### Codification
 
-Section is comprised of section 90103 of Pub. L. 103–322. Subsec. (b) of section 90103 of Pub. L. 103–322 is also listed in a table of provisions for review, promulgation, or amendment of Federal sentencing guidelines relating to specific offenses set out under section 994 of Title 28, Judiciary and Judicial Procedure.
+Section is comprised of section 90103 of Pub. L. 103–322. Subsec. (b) of section 90103 of Pub. L. 103–322 is also listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure.
 

@@ -26,7 +26,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, §121; added Nov. 4, 1978, Pub. L. 95–5
 
 31:68a(c).
 
-In subsection (a), before clause (1), the words “Notwithstanding any other provision of law or any administrative determination to the contrary . . . Federal” are omitted as unnecessary. The words “and each plan described in section 68c(b) of this title” are omitted as unnecessary because of the restatement. In clause (1),before subclause (A), the words “required by such section” are omitted as unnecessary because of the restatement. In subclause (A), the word “information” is substituted for “information and data” because it is inclusive and for consistency. In clause (4), the words “and shall not supersede” are omitted as surplus. In clause (5), the words “the Comptroller General deems” are omitted as unnecessary. The words “under section 1023 of title 29” are omitted as unnecessary because of the restatement.
+In subsection (a), before clause (1), the words “Notwithstanding any other provision of law or any administrative determination to the contrary . . . Federal” are omitted as unnecessary. The words “and each plan described in section 68c(b) of this title” are omitted as unnecessary because of the restatement. In clause (1), before subclause (A), the words “required by such section” are omitted as unnecessary because of the restatement. In subclause (A), the word “information” is substituted for “information and data” because it is inclusive and for consistency. In clause (4), the words “and shall not supersede” are omitted as surplus. In clause (5), the words “the Comptroller General deems” are omitted as unnecessary. The words “under section 1023 of title 29” are omitted as unnecessary because of the restatement.
 
 In subsection (b), the words “This chapter does not prevent” are substituted for “Nothing in this chapter shall preclude” for clarity. The words “or agencies” are omitted as unnecessary because of 1:1.
 
@@ -49,8 +49,4 @@ By the authority vested in me as President of the United States of America by Se
 1–103. Subject to the provisions of Section 1–101 of this Order, and in the absence of any contrary delegation or direction by the Director, the Secretary of the Treasury, with respect to the development of the form and content of the annual reports, shall perform the functions set forth in Section 121(a) of the Budget and Accounting Procedures Act of 1950, as amended (31 U.S.C. 68a) \[31 U.S.C. 9503\]. In performing this function, the Secretary shall also be responsible for consulting with the Comptroller General.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9504 of this title; title 26 section 7448; title 28 sections 178, 376, 377; title 38 section 7298.
 

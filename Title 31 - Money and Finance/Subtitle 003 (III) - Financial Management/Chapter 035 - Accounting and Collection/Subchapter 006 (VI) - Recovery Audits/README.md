@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—RECOVERY AUDITS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3501 of this title.
-
 
 ---
 

@@ -1,6 +1,6 @@
 ### §3532. Computation of educational assistance allowance
 
-(a)(1) The educational assistance allowance on behalf of an eligible person who is pursuing a program of education consisting of institutional courses shall be paid at the monthly rate of $788for full-time, $592 for three-quarter-time, or $394 for half-time pursuit.
+(a)(1) The educational assistance allowance on behalf of an eligible person who is pursuing a program of education consisting of institutional courses shall be paid at the monthly rate of $788 for full-time, $592 for three-quarter-time, or $394 for half-time pursuit.
 
 (2) The educational assistance allowance on behalf of an eligible person pursuing a program of education on less than a half-time basis shall be paid at the rate of the lesser of—
 
@@ -24,7 +24,7 @@
 
 (d) If a program of education is pursued by an eligible person at an institution located in the Republic of the Philippines, the educational assistance allowance computed for such person under this section shall be paid at the rate of $0.50 for each dollar.
 
-(e) In the case of an eligible person who is pursuing a program of education under this chapter while incarcerated in a Federal, State, or local penal institution for conviction of a felony, the educational assistance allowance shall be paid in the same manner prescribed in section 3482(g) of this title for incarcerated veterans, except that the references therein to the monthly educational assistance allowance prescribed for a veteran with no dependents shall be deemed to refer to the applicable allowance payable to an eligible person under corresponding provisions of this chapter or chapter 36 of this title, as determined by the Secretary.
+(e) In the case of an eligible person who is pursuing a program of education under this chapter while incarcerated in a Federal, State, or local penal institution for conviction of a felony, theeducational assistance allowance shall be paid in the same manner prescribed in section 3482(g) of this title for incarcerated veterans, except that the references therein to the monthly educational assistance allowance prescribed for a veteran with no dependents shall be deemed to refer to the applicable allowance payable to an eligible person under corresponding provisions of this chapter or chapter 36 of this title, as determined by the Secretary.
 
 (f)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a licensing or certification test described in section 3501(a)(5) of this title is the lesser of $2,000 or the fee charged for the test.
 
@@ -32,9 +32,17 @@
 
 (3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1198, §1732; Pub. L. 89–222, §1, Sept. 30, 1965, 79 Stat. 896; Pub. L. 91–219, title I, §104(a), (b), title II, §210, Mar. 25, 1970, 84 Stat. 77, 78, 83; Pub. L. 92–540, title I, §103(1)–(3), Oct. 24, 1972, 86 Stat. 1075, 1076; Pub. L. 93–508, title I, §103(1)–(3), title II, §208, Dec. 3, 1974, 88 Stat. 1580, 1584; Pub. L. 93–602, title II, §204(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title III, §§301(1), 308, Oct. 15, 1976, 90 Stat. 2389, 2390; Pub. L. 95–202, title I, §103(1), Nov. 23, 1977, 91 Stat. 1434; Pub. L. 96–466, title II, §§202(1), 212(1), title III, §330, title VI, §602(b), Oct. 17, 1980, 94 Stat. 2188, 2190, 2198, 2209; Pub. L. 98–543, title II, §203(1), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §§403(a)(1)–(7), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2078, 2079, 2092; Pub. L. 102–16, §10(a)(6), Mar. 22, 1991, 105 Stat. 56; renumbered §3532 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §316(b), Oct. 29, 1992, 106 Stat. 4334; Pub. L. 103–446, title V, §507(b), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 104–275, title I, §105(c), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–178, title VIII, §8210(a), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §§111(a), 122(b)(4), Nov. 1, 2000, 114 Stat. 1830, 1834; Pub. L. 107–103, title I, §102(a), Dec. 27, 2001, 115 Stat. 978; Pub. L. 108–183, title III, §302(a), Dec. 16, 2003, 117 Stat. 2658.)
+(g)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or national test providing an opportunity for course credit at institutions of higher learning described in section 3501(a)(5) of this title is the amount of the fee charged for the test.
+
+(2) The number of months of entitlement charged in the case of any individual for a test described in paragraph (1) is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance, except for paragraph (1), such individual would otherwise be paid under this chapter.
+
+(3) In no event shall payment of educational assistance under this subsection for a test described in paragraph (1) exceed the amount of the individual's available entitlement under this chapter.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1198, §1732; Pub. L. 89–222, §1, Sept. 30, 1965, 79 Stat. 896; Pub. L. 91–219, title I, §104(a), (b), title II, §210, Mar. 25, 1970, 84 Stat. 77, 78, 83; Pub. L. 92–540, title I, §103(1)–(3), Oct. 24, 1972, 86 Stat. 1075, 1076; Pub. L. 93–508, title I, §103(1)–(3), title II, §208, Dec. 3, 1974, 88 Stat. 1580, 1584; Pub. L. 93–602, title II, §204(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title III, §§301(1), 308, Oct. 15, 1976, 90 Stat. 2389, 2390; Pub. L. 95–202, title I, §103(1), Nov. 23, 1977, 91 Stat. 1434; Pub. L. 96–466, title II, §§202(1), 212(1), title III, §330, title VI, §602(b), Oct. 17, 1980, 94 Stat. 2188, 2190, 2198, 2209; Pub. L. 98–543, title II, §203(1), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §§403(a)(1)–(7), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2078, 2079, 2092; Pub. L. 102–16, §10(a)(6), Mar. 22, 1991, 105 Stat. 56; renumbered §3532 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §316(b), Oct. 29, 1992, 106 Stat. 4334; Pub. L. 103–446, title V, §507(b), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 104–275, title I, §105(c), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–178, title VIII, §8210(a), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §§111(a), 122(b)(4), Nov. 1, 2000, 114 Stat. 1830, 1834; Pub. L. 107–103, title I, §102(a), Dec. 27, 2001, 115 Stat. 978; Pub. L. 108–183, title III, §302(a), Dec. 16, 2003, 117 Stat. 2658; Pub. L. 108–454, title I, §106(b)(3), Dec. 10, 2004, 118 Stat. 3603.)
 
 #### Amendments
+
+2004—Subsec. (g). Pub. L. 108–454 added subsec. (g).
 
 2003—Subsec. (a)(1). Pub. L. 108–183, §302(a)(1)(A), substituted “at the monthly rate of $788 for full-time, $592 for three-quarter-time, or $394 for half-time pursuit.” for “at the monthly rate of $670 for full-time, $503 for three-quarter-time, or $335 for half-time pursuit.”
 
@@ -144,7 +152,7 @@ Subsec. (b). Pub. L. 89–222, §1(b), substituted “$105” for “$90”.
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–183, title III, §302(e), Dec. 16, 2003, 117 Stat. 2659, provided that: “The amendments made bythis section \[amending this section and sections 3534, 3542, and 3687 of this title\] shall take effect on July 1, 2004, and shall apply with respect to educational assistance allowances payable under chapter 35 and section 3687(b)(2) of title 38, United States Code, for months beginning on or after that date.”
+Pub. L. 108–183, title III, §302(e), Dec. 16, 2003, 117 Stat. 2659, provided that: “The amendments made by this section \[amending this section and sections 3534, 3542, and 3687 of this title\] shall take effect on July 1, 2004, and shall apply with respect to educational assistance allowances payable under chapter 35 and section 3687(b)(2) of title 38, United States Code, for months beginning on or after that date.”
 
 #### Effective Date of 2001 Amendment
 
@@ -219,8 +227,4 @@ Amendment by section 104(a), (b) of Pub. L. 91–219 effective Feb. 1, 1970, see
 #### Effective Date of 1965 Amendment
 
 Section 4 of Pub. L. 89–222 provided that: “The amendments made by the first and second sections of this Act \[amending this section and section 1742 \[now 3542\] of this title\] shall take effect on the first day of the second calendar month following the date of enactment of this Act \[Sept. 30, 1965\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3564, 3565, 3680 of this title; title 42 section 3796d–1.
 

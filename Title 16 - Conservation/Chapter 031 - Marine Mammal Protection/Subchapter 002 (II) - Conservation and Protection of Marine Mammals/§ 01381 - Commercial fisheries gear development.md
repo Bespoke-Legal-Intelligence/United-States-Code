@@ -18,7 +18,3 @@ Furthermore, after timely notice and during the period of research provided in t
 
 (Pub. L. 92–522, title I, §111, Oct. 21, 1972, 86 Stat. 1041.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1371, 1372 of this title.
-

@@ -22,15 +22,11 @@ Pending completion of the investigation and hearing required by this section, th
 
 #### (d) Notice and hearing with respect to section 1271 order to show cause
 
-Following the issuance of an order to show cause as to why a permit should not be suspended or revoked pursuant to section 1271 of this title, the Secretary shall hold a public hearing after giving written notice of the time, place, and date thereof. Any such hearing shallbe of record and shall be subject to section 554 of title 5. Within sixty days following the public hearing, the Secretary shall issue and furnish to the permittee and all other parties to the hearing a written decision, and the reasons therefor, concerning suspension or revocation of the permit. If the Secretary revokes the permit, the permittee shall immediately cease surface coal mining operations on the permit area and shall complete reclamation within a period specified by the Secretary, or the Secretary shall declare as forfeited the performance bonds for the operation.
+Following the issuance of an order to show cause as to why a permit should not be suspended or revoked pursuant to section 1271 of this title, the Secretary shall hold a public hearing after giving written notice of the time, place, and date thereof. Any such hearing shall be of record and shall be subject to section 554 of title 5. Within sixty days following the public hearing, the Secretary shall issue and furnish to the permittee and all other parties to the hearing a written decision, and the reasons therefor, concerning suspension or revocation of the permit. If the Secretary revokes the permit, the permittee shall immediately cease surface coal mining operations on the permit area and shall complete reclamation within a period specified by the Secretary, or the Secretary shall declare as forfeited the performance bonds for the operation.
 
 #### (e) Costs
 
 Whenever an order is issued under this section, or as a result of any administrative proceeding under this chapter, at the request of any person, a sum equal to the aggregate amount of all costs and expenses (including attorney fees) as determined by the Secretary to have been reasonably incurred by such person for or in connection with his participation in such proceedings, including any judicial review of agency actions, may be assessed against either party as the court, resulting from judicial review or the Secretary, resulting from administrative proceedings, deems proper.
 
 (Pub. L. 95–87, title V, §525, Aug. 3, 1977, 91 Stat. 511.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1268, 1276 of this title.
 

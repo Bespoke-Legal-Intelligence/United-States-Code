@@ -10,9 +10,21 @@ The Corporation shall at all times maintain complete and accurate books of accou
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement, under the 1st sentence of this section, to transmit to Congress a complete annual report as to the business of the Corporation, is listed on page 46), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement, under the 1st sentence of this section, to transmit to Congress a complete annual report as to the business of the Corporation, is listed on page 46), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 #### Exceptions From Transfer of Functions
 
 For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.
+
+#### Delegation of Certain Reporting Authority
+
+Memorandum of President of the United States, Dec. 8, 2004, 69 F.R. 74941, provided:
+
+Memorandum for the Secretary of Agriculture
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions conferred upon the President by section 13 of Public Law 806, 80th Congress (15 U.S.C. 714k), to provide the specified report to the Congress.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

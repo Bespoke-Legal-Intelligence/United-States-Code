@@ -18,7 +18,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section 834, Pub. L. 93–203, title I, §132, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1948, related to prohibition of, and sanctions against, discrimination under this chapter.
 
-Provisions similar to those comprising this section were contained in former section 991 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+Provisions similar to those comprising this section were contained in former section 991 of this title priorto the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 835, Pub. L. 93–203, title I, §133, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1949, related to records, audits, and investigations of recipients of funds under this chapter.
 

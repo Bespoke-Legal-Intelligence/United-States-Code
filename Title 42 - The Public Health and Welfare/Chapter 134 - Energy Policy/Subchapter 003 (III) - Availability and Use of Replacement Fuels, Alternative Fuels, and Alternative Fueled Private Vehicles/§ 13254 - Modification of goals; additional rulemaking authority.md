@@ -18,7 +18,3 @@ If the Secretary determines that the achievement of goals described in section 1
 
 This Act, referred to in subsec. (c), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13255, 13256, 13257 of this title.
-

@@ -18,11 +18,11 @@
 
 #### (2) Exception
 
-&emsp;It is not a violation of paragraph (1) to take any proper steps for the purpose of securing cancellation of or exemption from such order of removal or for the purpose of securing the alien's release from incarceration or custody.
+&emsp;It is not a violation of paragraph (1) to take any proper steps for the purpose of securingcancellation of or exemption from such order of removal or for the purpose of securing the alien's release from incarceration or custody.
 
 #### (3) Suspension
 
-&emsp;The court may for good cause suspend the sentence of an alien under this subsection andorder the alien's release under such conditions as the court may prescribe. In determining whether good cause has been shown to justify releasing the alien, the court shall take into account such factors as—
+&emsp;The court may for good cause suspend the sentence of an alien under this subsection and order the alien's release under such conditions as the court may prescribe. In determining whether good cause has been shown to justify releasing the alien, the court shall take into account such factors as—
 
 &emsp;&emsp;(A) the age, health, and period of detention of the alien;
 
@@ -90,7 +90,7 @@ Subsec. (h)(2). Pub. L. 101–649, §515(a)(2), inserted sentence at end relatin
 
 1981—Subsec. (a). Pub. L. 97–116 inserted a comma after “subject” in fourth sentence.
 
-1980—Subsec. (h). Pub. L. 96–212 substituted provisions relating to deportation or return of an alien where the Attorney General determines that the return would threaten the life or freedom of the alien on account of race, religion, nationality, membership in a particular social group, or political opinion, for provisions relating to withholding of deportation for any necessary period of time where the Attorney General decides the alien would be subject to persecution on account of race, religion, or political opinion.
+1980—Subsec. (h). Pub. L. 96–212 substituted provisions relating to deportation or return of an alien where the Attorney General determines that the return would threaten the life or freedom of the alien on account of race, religion, nationality, membership in a particular social group, or political opinion, for provisions relating to withholding of deportation for anynecessary period of time where the Attorney General decides the alien would be subject to persecution on account of race, religion, or political opinion.
 
 1978—Subsec. (h). Pub. L. 95–549 inserted “(other than an alien described in section 1251(a) of this title)” before “within the United States”.
 
@@ -131,8 +131,4 @@ For purposes of carrying out this chapter, any reference in law to an order of r
 #### Sense of Congress Respecting Treatment of Cuban Political Prisoners
 
 Pub. L. 99–603, title III, §315(c), Nov. 6, 1986, 100 Stat. 3440, as amended by Pub. L. 104–208, div. C, title III, §308(g)(7)(C)(i), Sept. 30, 1996, 110 Stat. 3009–623, provided that: “It is the sense of the Congress that the Secretary of State should provide for the issuance of visas to nationals of Cuba who are or were imprisoned in Cuba for political activities without regard to section 243(d) of the Immigration and Nationality Act (8 U.S.C. 1253(d)).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1228, 1252, 1324d, 1330, 1356, 1612, 1613, 1622, 1641 of this title.
 

@@ -20,7 +20,7 @@
 
 (f)(1) Following the death of the insured and in a case not covered by subsection (d)—
 
-&emsp;(A) if the first beneficiary otherwise entitled to payment of the insurance does not make a claim for such payment within two years afterthe death of the insured, payment may be made to another beneficiary designated by the insured, in the order of precedence as designated by the insured, as if the first beneficiary had predeceased the insured; and
+&emsp;(A) if the first beneficiary otherwise entitled to payment of the insurance does not make a claim for such payment within two years after the death of the insured, payment may be made to another beneficiary designated by the insured, in the order of precedence as designated by the insured, as if the first beneficiary had predeceased the insured; and
 
 &emsp;(B) if, within four years after the death of the insured, no claim has been filed by a person designated by the insured as a beneficiary and the Secretary has not received any notice in writing that any such claim will be made, payment may (notwithstanding any other provision of law) be made to such person as may in the judgment of the Secretary be equitably entitled thereto.
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 91–291 effective first day of first calendar month which 
 #### Transition Provision
 
 Pub. L. 108–183, title I, §103(d), Dec. 16, 2003, 117 Stat. 2655, provided that: “In the case of a person insured under subchapter I or II of chapter 19 of title 38, United States Code, who dies before the effective date of the amendments made by subsections (a) and (b), as specified by subsection (c) \[set out as an Effective Date of 2003 Amendment note above\], the two-year and four-year periods specified in subsection (f)(1) of section 1917 of title 38, United States Code, as added by subsection (a), and subsection (c)(1) of section 1952 of such title, as added by subsection (b), as applicable, shall for purposes of the applicable subsection be treated as being the two-year and four-year periods, respectively, beginning on the effective date of such amendments, as so specified.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1922 of this title.
 

@@ -160,7 +160,3 @@ Criminal Enforcement.—\[Amended sections 175, 177, and 178 of Title 18, Crimes
 
 Terrorism.—\[Amended section 2332a of Title 18.\]”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 236, 262a, 263, 300aa–22, 300aa–23, 1395w–102, 1396r–8 of this title; title 7 section 8401; title 21 sections 321, 331, 352, 353, 355, 355c, 356, 356–1, 356a, 360aa, 360bb, 360cc, 360ee, 360aaa, 360bbb–1, 360bbb–3, 379g, 379i, 379j, 381, 382, 384, 392, 397, 823; title 26 section 45C; title 35 section 156.
-

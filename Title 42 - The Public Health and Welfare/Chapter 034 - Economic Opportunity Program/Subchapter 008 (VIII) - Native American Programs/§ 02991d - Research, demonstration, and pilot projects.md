@@ -14,7 +14,3 @@ A prior section 2991d, Pub. L. 88–452, title VIII, §805, as added Pub. L. 89�
 
 1992—Subsecs. (a), (b). Pub. L. 102–375 substituted “Commissioner” for “Secretary”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2991d–1, 2991f of this title.
-

@@ -10,7 +10,3 @@ Whoever knowingly and willfully executes, or attempts to execute, a scheme or ar
 
 (Added Pub. L. 104–191, title II, §242(a)(1), Aug. 21, 1996, 110 Stat. 2016.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 24 of this title.
-

@@ -98,7 +98,3 @@ Temporary Alternative Funding.—Notwithstanding section 8434(c)(3) \[probably s
 
 Authorization of Appropriations.—There are authorized to be appropriated to the Federal Retirement Thrift Investment Board, for fiscal years 1986 and 1987, such sums as may be necessary to pay the expenses incurred in the administration of the Federal Retirement Thrift Investment Management System during such fiscal years.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8401, 8475, 8476, 8477 of this title.
-

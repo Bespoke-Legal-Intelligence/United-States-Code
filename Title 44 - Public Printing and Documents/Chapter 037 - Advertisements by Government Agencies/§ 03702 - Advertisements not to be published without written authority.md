@@ -8,7 +8,3 @@ Advertisements, notices, or proposals for an executive department of the Governm
 
 Based on 44 U.S. Code, 1964 ed., §324 (R.S. §3828).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 302.
-

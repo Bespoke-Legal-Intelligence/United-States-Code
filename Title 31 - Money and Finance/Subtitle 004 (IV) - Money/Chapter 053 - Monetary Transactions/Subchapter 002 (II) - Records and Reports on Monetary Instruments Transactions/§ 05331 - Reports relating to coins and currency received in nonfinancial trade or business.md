@@ -56,11 +56,7 @@ Scope of application.—Paragraph (1)(B) shall not apply to any check drawn on t
 
 (Added Pub. L. 107–56, title III, §365(a), Oct. 26, 2001, 115 Stat. 333.)
 
-#### Termination Date
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
-
 #### Regulations
 
-Pub. L. 107–56, title III, §365(f), Oct. 26, 2001, 115 Stat. 335, provided that: “Regulations which the Secretary \[of the Treasury\] determines are necessary to implement this section \[enacting this section and amending sections 5312, 5317, 5318, 5321, 5324, 5326, and 5328 of this title\] shall be published in final form before the end of the 6-month period beginning on the date of enactment of this Act \[Oct. 26, 2001\].”
+Pub. L. 107–56, title III, §365(e), formerly §365(f), Oct. 26, 2001, 115 Stat. 335, renumbered §365(e) by Pub. L. 108–458, title VI, §6202(n)(2), Dec. 17, 2004, 118 Stat. 3746, provided that: “Regulations which the Secretary \[of the Treasury\] determines are necessary to implement this section \[enacting this section and amending sections 5312, 5317, 5318, 5321, 5324, 5326, and 5328 of this title\] shall be published in final form before the end of the 6-month period beginning on the date of enactment of this Act \[Oct. 26, 2001\].”
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;An adversely affected worker covered by a certification issued under subpart A of thispart may file an application with the Secretary for payment of a job search allowance.
+&emsp;An adversely affected worker covered by a certification issued under subpart A of this part may file an application with the Secretary for payment of a job search allowance.
 
 #### (2) Approval of applications
 
@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;An allowance granted under subsection (a) of this section shall provide reimbursement to the worker of 90 percent of the cost of necessary job search expenses as prescribed by the Secretary in regulations.
+&emsp;An allowance granted under subsection (a) of this section shall provide reimbursement tothe worker of 90 percent of the cost of necessary job search expenses as prescribed by the Secretary in regulations.
 
 #### (2) Maximum allowance
 
@@ -75,8 +75,4 @@ Amendment by Pub. L. 97–35 effective for determinations made or filed after Se
 #### Termination Date
 
 No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2317, 2401e of this title.
 

@@ -1,9 +1,5 @@
 subpart 4—medicare prescription drug discount card and transitional assistance program
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 1396u–5 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “effect”.</i>
 
 

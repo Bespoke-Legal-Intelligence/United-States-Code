@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1967—Subsec. (b). Pub. L. 90–111 extended from Oct. 23, 1967 to June 30, 1971, the period in which relief shall be accorded under this section to individuals who apply for conveyances pursuant to section 701 of this title.
+1967—Subsec. (b). Pub. L. 90–111 extended from Oct. 23, 1967 to June 30, 1971, the period in which relief shall beaccorded under this section to individuals who apply for conveyances pursuant to section 701 of this title.
 

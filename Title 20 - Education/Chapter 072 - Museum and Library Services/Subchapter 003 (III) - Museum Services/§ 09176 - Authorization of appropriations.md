@@ -26,7 +26,3 @@ A prior section 275 of Pub. L. 94–462 was classified to section 9175 of this t
 
 Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L. 108–81, set out as a note under section 9101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9108, 9173 of this title.
-

@@ -1,6 +1,6 @@
 ### §3303. Lists and schedules of records to be submitted to the Archivist by head of each Government agency
 
-The head of each agency of the United States Government shall submit to the Archivist,under regulations promulgated as provided by section 3302 of this title—
+The head of each agency of the United States Government shall submit to the Archivist, under regulations promulgated as provided by section 3302 of this title—
 
 &emsp;(1) lists of any records in the custody of the agency that have been photographed or microphotographed under the regulations and that, as a consequence, do not appear to have sufficient value to warrant their further preservation by the Government;
 
@@ -21,8 +21,4 @@ Based on 44 U.S. Code, 1964 ed., §368 (July 7, 1943, ch. 192, §3, 57 Stat. 381
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3105, 3303a of this title.
 

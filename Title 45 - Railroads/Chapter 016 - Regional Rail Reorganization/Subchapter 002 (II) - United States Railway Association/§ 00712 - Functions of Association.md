@@ -44,7 +44,7 @@ The receipts and disbursements of the Association (other than administrative exp
 
 #### (f) Accountability
 
-The Chairman of the Association shall transmit annually to the Office of Management and Budget a budget for administrative expenses of the Association. Whenever the Association submits any budget estimate or request to the Office of Management and Budget, it shall concurrently transmit a copy of the estimate or request to the Congress. Within budgetary constraints of the Congress, the maximum feasible and prudent budgetary flexibility shall be provided to the Association to permit effective operations.
+The Chairman of the Association shall transmit annually to the Office of Management and Budget a budget for administrative expenses of the Association. Whenever the Association submits any budget estimate or request to the Office of Management and Budget, it shall concurrently transmit a copy of the estimate or request to the Congress. Within budgetary constraints of the Congress, the maximum feasibleand prudent budgetary flexibility shall be provided to the Association to permit effective operations.
 
 #### (g) Transfer of litigation
 
@@ -113,10 +113,6 @@ See section 1341 of this title.
 #### Applicability of National Environmental Policy Act
 
 Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 716, 719 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(6)”.</i>
 

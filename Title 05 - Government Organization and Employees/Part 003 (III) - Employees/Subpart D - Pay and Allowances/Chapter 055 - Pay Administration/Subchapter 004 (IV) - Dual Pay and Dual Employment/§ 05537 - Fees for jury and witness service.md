@@ -1,6 +1,6 @@
 ### §5537. Fees for jury and witness service
 
-(a) An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) or an individual employed bythe government of the District of Columbia may not receive fees for service—
+(a) An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) or an individual employed by the government of the District of Columbia may not receive fees for service—
 
 &emsp;(1) as a juror in a court of the United States or the District of Columbia; or
 

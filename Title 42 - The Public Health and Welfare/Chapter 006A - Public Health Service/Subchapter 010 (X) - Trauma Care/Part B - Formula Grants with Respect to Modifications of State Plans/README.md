@@ -1,9 +1,5 @@
 Part B—Formula Grants With Respect to Modifications of State Plans
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 300d–31, 300d–32 of this title.
-
 
 ---
 

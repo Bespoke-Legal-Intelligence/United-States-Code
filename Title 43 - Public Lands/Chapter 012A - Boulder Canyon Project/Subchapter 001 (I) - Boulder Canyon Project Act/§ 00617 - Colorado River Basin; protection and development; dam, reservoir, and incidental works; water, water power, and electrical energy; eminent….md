@@ -18,9 +18,5 @@ Pub. L. 98–381, title I, §103(b), Aug. 17, 1984, 98 Stat. 1334, provided that
 
 Act Aug. 4, 1939, ch. 418, §18, provided that nothing in that act should be construed to amend the Boulder Canyon Project Act (this subchapter). See note set out under section 485j of this title.
 
-Gila project, Arizona, as not amending this subchapter, see section 8 of Act July 30, 1947, ch. 382, 61Stat. 628, set out as a note under section 613 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 617e of this title.
+Gila project, Arizona, as not amending this subchapter, see section 8 of Act July 30, 1947, ch. 382, 61 Stat. 628, set out as a note under section 613 of this title.
 

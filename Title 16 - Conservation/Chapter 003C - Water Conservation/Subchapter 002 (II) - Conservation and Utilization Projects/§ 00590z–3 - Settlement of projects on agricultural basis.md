@@ -34,7 +34,3 @@ Federal Security Agency abolished by section 8 of Reorg. Plan No. 1 of 1953, eff
 
 Department of Health, Education, and Welfare redesignated Department of Health and Human Services by section 3508(b) of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 590z–1, 590z–4, 590z–8 of this title.
-

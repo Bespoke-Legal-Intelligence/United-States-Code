@@ -42,7 +42,3 @@ The purposes of sections 698u to 698u–7 of this title are—
 
 Section 1001 of title X of div. I of Pub. L. 104–333 provided that: “This subtitle \[subtitle A (§§1001–1009) of title X of div. I of Pub. L. 104–333, enacting this section and sections 698u–1 to 698u–7 of this title\] may be cited as the ‘Tallgrass Prairie National Preserve Act of 1996’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698u–1, 698u–3, 698u–6, 698u–7 of this title.
-

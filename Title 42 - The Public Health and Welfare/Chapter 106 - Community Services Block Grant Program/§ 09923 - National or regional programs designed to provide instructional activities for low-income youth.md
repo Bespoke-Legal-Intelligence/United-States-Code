@@ -76,9 +76,5 @@ Another prior section 682 of Pub. L. 97–35 was classified to section 9911 of t
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9903 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

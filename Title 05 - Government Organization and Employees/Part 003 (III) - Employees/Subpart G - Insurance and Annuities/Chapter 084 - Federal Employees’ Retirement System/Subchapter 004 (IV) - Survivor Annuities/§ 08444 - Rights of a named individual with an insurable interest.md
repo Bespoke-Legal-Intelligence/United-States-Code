@@ -4,7 +4,3 @@ The annuity of a survivor named under section 8420(a) is 55 percent of the reduc
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 563.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8420 of this title.
-

@@ -38,7 +38,3 @@ Subsec. (b). Pub. L. 96–118, §3(b), substituted “$1,250,000” for “$1,00
 
 1970—Subsec. (a). Pub. L. 91–249 authorized appropriation of not to exceed $6,000,000, $7,500,000, $8,500,000 and $10,000,000 for fiscal years ending June 30, 1971, June 30, 1972, June 30, 1973, and June 30, 1974, respectively, to be available until expended.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 757a, 757b, 757c, 757e, 757f, 1225 of this title.
-

@@ -114,7 +114,7 @@ The Secretary of the Interior is authorized to acquire approximately 159 acres o
 
 #### Change of Name
 
-Pub. L. 106–510, §3(d)(2), Nov. 13, 2000, 114 Stat. 2364, provided that: “Any reference in any law (other than this Act \[see Short Title of 2000 Amendments note set out under section 1 of this title\]), regulation, document, record, map, or other paper of the United States to ‘Puuhonua o Honaunau National Historical Park\[’\] shall be considered a reference to ‘Pu‘uhonua o Hōnaunau National Historical Park’.”
+Pub. L. 106–510, §3(d)(2), Nov. 13, 2000, 114 Stat. 2364, provided that: “Any reference in any law (other than this Act \[see Short Title of 2000 Amendments note setout under section 1 of this title\]), regulation, document, record, map, or other paper of the United States to ‘Puuhonua o Honaunau National Historical Park\[’\] shall be considered a reference to ‘Pu‘uhonua o Hōnaunau National Historical Park’.”
 
 #### Short Title of 2002 Amendment
 
@@ -123,8 +123,4 @@ Pub. L. 107–340, §1, Dec. 16, 2002, 116 Stat. 2889, provided that: “This Ac
 #### Admission of Hawaii as State
 
 Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 397a to 397c of this title.
 

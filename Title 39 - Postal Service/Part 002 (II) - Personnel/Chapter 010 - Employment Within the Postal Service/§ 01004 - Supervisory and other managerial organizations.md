@@ -102,7 +102,7 @@ Subsec. (i). Pub. L. 108–86, §2(b)(1), (c), redesignated subsec. (h) as (i) a
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–86, §3, Sept. 30, 2003, 117 Stat. 1053, provided that: “The amendments made by this section\[probably should be “this Act”, amending this section and enacting provisions set out as notes under this section and section 101 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Sept. 30, 2003\].”
+Pub. L. 108–86, §3, Sept. 30, 2003, 117 Stat. 1053, provided that: “The amendments made by this section \[probably should be “this Act”, amending this section and enacting provisions set out as notes under this section and section 101 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Sept. 30, 2003\].”
 
 #### Effective Date
 
@@ -115,8 +115,4 @@ Pub. L. 108–86, §2(d), Sept. 30, 2003, 117 Stat. 1053, provided that: “For 
 &emsp;“(1) each of the 2 or more organizations referred to in section 1004(h)(1)(B) of title 39, United States Code (as amended by subsection (b)) shall be treated as a separate organization; and
 
 &emsp;“(2) any determination of the number of individuals represented by each of those respective organizations shall be made in a manner consistent with the purposes of this subsection.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1005 of this title; title 5 section 8473; title 18 section 205.
 

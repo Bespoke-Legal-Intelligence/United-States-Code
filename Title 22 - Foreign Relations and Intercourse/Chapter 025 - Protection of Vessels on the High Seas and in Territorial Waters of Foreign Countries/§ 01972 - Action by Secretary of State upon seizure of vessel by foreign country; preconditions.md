@@ -60,9 +60,5 @@ Section 403(b) of Pub. L. 94–265 provided in part that the amendment made by s
 
 Section 6 of Pub. L. 92–569 provided that: “The amendments made by this Act \[enacting section 1979 of this title and amending this section and sections 1973, 1975, and 1977 of this title\] shall apply with respect to seizures of vessels of the United States occurring on or after the date of the enactment of this Act \[Oct. 26, 1972\]; except that reimbursements under section 3 of the Fishermen's Protective Act of 1967 \[section 1973 of this title\] (as in effect before such date of enactment \[Oct. 26, 1972\]) may be made from the fund established by the amendment made by section 5 of this Act \[enacting section 1979 of this title\] with respect to any seizure of a vessel occurring before such date of enactment \[Oct. 26, 1972\] and after December 31, 1970, if no reimbursement was made before such date of enactment \[Oct. 26, 1972\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1973, 1977 of this title; title 16 section 973a.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
 

@@ -10,7 +10,3 @@ The land laws of the United States, referred to in text, are classified generall
 
 This Act, referred to in text, is act Aug. 30, 1890, ch. 837, 26 Stat. 371, which enacted sections 212 and 945 of this title, section 861a of former Title 10, The Army, section 446 of Title 16, Conservation, sections 497, 601, and 651 of former Title 31, Money and Finance, section 887 of Title 33, Navigation and Navigable Waters, section 120 of former Title 40, Public Buildings, Property, and Works, and amended sections 321 and 662 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 945a of this title.
-

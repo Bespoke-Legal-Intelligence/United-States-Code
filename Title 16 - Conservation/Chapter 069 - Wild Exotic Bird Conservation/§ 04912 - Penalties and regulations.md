@@ -46,10 +46,6 @@ The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79
 
 For termination of Trust Territory of Palau and Northern Marianas, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4913 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be section “4910(a)(1)(A) or (B)”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be section “4910(a)(1)(C)”.</i>

@@ -14,7 +14,3 @@ From the date on which a certificate of extension of protection is issued under 
 
 (July 5, 1946, ch. 540, title XII, §69, as added Pub. L. 107–273, div. C, title III, §13402, Nov. 2, 2002, 116 Stat. 1918.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1141k, 1141m of this title.
-

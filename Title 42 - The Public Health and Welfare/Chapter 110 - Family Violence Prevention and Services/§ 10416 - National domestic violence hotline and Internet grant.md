@@ -32,7 +32,7 @@ An entity that receives a grant under this section for activities described, in 
 
 #### (1) In general
 
-&emsp;An entity that receives a grant under this section for activities described, in whole or in part, in subsection (a)(2) of this section shall use funds made available through the grant to provide grants for startup and operational costs associated with establishing and operating a highly secure Internet website.
+&emsp;An entity that receives a grant under this section for activities described, in whole or inpart, in subsection (a)(2) of this section shall use funds made available through the grant to provide grants for startup and operational costs associated with establishing and operating a highly secure Internet website.
 
 #### (2) Availability
 
@@ -121,8 +121,4 @@ This chapter, referred to in subsec. (e)(4), was in the original “this Act” 
 &emsp;“(E) $400,000 for fiscal year 1999; and
 
 &emsp;“(F) $400,000 for fiscal year 2000.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
 

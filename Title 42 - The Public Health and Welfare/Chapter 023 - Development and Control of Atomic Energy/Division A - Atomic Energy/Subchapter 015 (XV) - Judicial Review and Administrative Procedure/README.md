@@ -1,9 +1,5 @@
 ### SUBCHAPTER XV—JUDICIAL REVIEW AND ADMINISTRATIVE PROCEDURE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2014, 2133 of this title.
-
 
 ---
 

@@ -60,7 +60,7 @@ This section may not be construed as expanding or limiting any of the authoritie
 
 (July 1, 1944, ch. 373, title XXVIII, §2801, as added Pub. L. 107–188, title I, §101(a), June 12, 2002, 116 Stat. 596.)
 
-#### General Accounting Office Report
+#### Government Accountability Office Report
 
 Pub. L. 107–188, title I, §157, June 12, 2002, 116 Stat. 633, provided that:
 

@@ -54,7 +54,7 @@ Subsec. (c)(1). Pub. L. 96–347, §1(c)(1), substituted “in the Executive age
 
 #### Effective Date of 1994 Amendment
 
-Section 2(c) of Pub. L. 103–226 provided that: “The amendments made by this section \[amending this section and sections 4101, 4103, 4105, 4107, 4108, 4113, and 4118 of this title and repealing sections 4106 and 4114 of this title\] shall become effective on the date of enactment of this Act \[Mar. 30, 1994\].
+Section 2(c) of Pub. L. 103–226 provided that: “The amendments made by this section \[amending this section and sections 4101, 4103, 4105, 4107, 4108, 4113, and 4118 of this title and repealing sections 4106 and 4114 of this title\] shall become effective on the date of enactment of this Act \[Mar. 30, 1994\].”
 
 #### Effective Date of 1980 Amendment
 
@@ -67,10 +67,6 @@ Section 10 of Pub. L. 92–297 provided that: “This Act \[enacting this subcha
 #### Report to Congress
 
 Section 9 of Pub. L. 92–297 directed the Secretary of Transportation to report to Congress no later than 5 years after May 16, 1972, concerning his operations under the amendments made by Pub. L. 92–297, including a detailed statement of the effectiveness of Pub. L. 92–297 in meeting the needs of the Air Traffic Controller career program and of the air traffic control system plus recommendations for the management of the program or the system.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3382, 3383 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

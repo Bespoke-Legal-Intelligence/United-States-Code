@@ -32,7 +32,3 @@ Each member who is eighteen years of age or older shall be eligible to attend, p
 
 (Pub. L. 98–165, §7, Nov. 22, 1983, 97 Stat. 1067.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 713, 713a, 713c, 713d of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—MATTERS RELATING TO PERSONNEL
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2402 of this title.
-
 
 ---
 

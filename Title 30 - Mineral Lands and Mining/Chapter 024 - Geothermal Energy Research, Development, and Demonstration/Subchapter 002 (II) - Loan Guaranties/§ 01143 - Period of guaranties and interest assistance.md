@@ -14,7 +14,3 @@ No loan guaranties shall be made, or interest assistance contract entered into, 
 
 Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under section 2062 of the Appendix to Title 50, War and National Defense.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1144 of this title.
-

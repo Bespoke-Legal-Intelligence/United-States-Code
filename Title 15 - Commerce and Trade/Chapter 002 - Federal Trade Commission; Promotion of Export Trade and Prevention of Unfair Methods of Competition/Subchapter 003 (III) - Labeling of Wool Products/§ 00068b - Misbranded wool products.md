@@ -16,7 +16,7 @@ A wool product shall be misbranded—
 
 &emsp;&emsp;(D) the name of the country where processed or manufactured.
 
-&emsp;(3) In the case of a wool product containing a fiber other than wool, if the percentages by weight of the wool contents thereof are not shown in words and figures plainly legible.
+&emsp;(3) In the case of a wool product containing a fiber other than wool, if the percentages byweight of the wool contents thereof are not shown in words and figures plainly legible.
 
 &emsp;(4) In the case of a wool product represented as wool, if the percentages by weight of the wool content thereof are not shown in words and figures plainly legible, or if the total fiber weight of such wool product if not 100 per centum wool exclusive of ornamentation not exceeding 5 per centum of such total fiber weight.
 
@@ -26,7 +26,7 @@ In addition to information required in this section, the stamp, tag, label, or o
 
 #### (c) Substitute identification
 
-If any person subject to section 68a of this title with respect to a wool product finds or hasreasonable cause to believe its stamp, tag, label, or other means of identification, or substitute therefor under section 68c of this title, does not contain the information required by this subchapter, he may replace same with a substitute containing the information so required.
+If any person subject to section 68a of this title with respect to a wool product finds or has reasonable cause to believe its stamp, tag, label, or other means of identification, or substitute therefor under section 68c of this title, does not contain the information required by this subchapter, he may replace same with a substitute containing the information so required.
 
 #### (d) Designations on linings, paddings, etc.
 
@@ -63,8 +63,4 @@ Amendment by Pub. L. 96–242 effective with respect to wool products manufactur
 #### Transfer of Functions
 
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 68c of this title.
 

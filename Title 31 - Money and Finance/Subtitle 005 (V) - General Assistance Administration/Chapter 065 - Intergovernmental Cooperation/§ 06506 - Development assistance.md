@@ -18,13 +18,13 @@
 
 &emsp;(7) concern for high standards of design.
 
-(c) To the extent possible, all national, regional, State, and local viewpoints shall be considered in planning development programs and projects of the United States Government or assisted by the Government. State and local government objectives and the objectives of regional organizations shall be considered within a framework of national public objectives expressed in laws of the United States. Available projections of future conditions in the United States and needs of regions, States, and localities shall be considered in plan formulation, evaluation, and review.
+(c) To the extent possible, all national, regional, State, and local viewpoints shall be considered in planning development programs and projects of the United States Government or assisted by the Government. State and local government objectives and the objectives of regional organizations shall be considered within a framework of national public objectives expressed in laws of the United States. Availableprojections of future conditions in the United States and needs of regions, States, and localities shall be considered in plan formulation, evaluation, and review.
 
 (d) To the maximum extent possible and consistent with national objectives, assistance for development purposes shall be consistent with and further the objectives of State, regional, and local comprehensive planning. Consideration shall be given to all developmental aspects of our total national community, including housing, transportation, economic development, natural and human resources development, community facilities, and the general improvement of living environments.
 
 (e) To the maximum extent practicable, each executive agency carrying out a development assistance program shall consult with and seek advice from all other significantly affected executive agencies in an effort to ensure completely coordinated programs. To the extent possible, systematic planning required by individual United States Government programs (such as highway construction, urban renewal, and open space) shall be coordinated with and, to the extent authorized by law, made part of comprehensive local and areawide development planning.
 
-(f) When a law of the United States provides that both a special-purpose unit of local government and a unit of general local government are eligible to receive a loan or grant, the head of an executive agency shall make the loan or grant to the unit of general local government instead of the special-purpose unit of local governmentin the absence of substantial reasons to the contrary.
+(f) When a law of the United States provides that both a special-purpose unit of local government and a unit of general local government are eligible to receive a loan or grant, the head of an executive agency shall make the loan or grant to the unit of general local government instead of the special-purpose unit of local government in the absence of substantial reasons to the contrary.
 
 (g) The President may designate an executive agency to prescribe regulations to carry out this section.
 
@@ -121,8 +121,4 @@ Sec. 7. The Memorandum of November 8, 1968, is terminated (33 <i>Fed. Reg</i>. 1
 Sec. 8. The Director of the Office of Management and Budget shall report to the President by September 30, 1984 on Federal agency compliance with this Order. The views of State and local elected officials on their experiences with these policies, along with any suggestions for improvement, will be included in the Director's report.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 sections 460u–21, 1456; title 40 section 3306; title 43 section 1721.
 

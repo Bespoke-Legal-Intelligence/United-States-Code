@@ -14,7 +14,7 @@ Loans may also be made or insured under this subchapter for soil and water conse
 
 &emsp;(5) the payment of costs of complying with section 3812 of title 16; and
 
-&emsp;(6) other purposes consistent with plans for soil and water conservation, integrated farmmanagement, water quality protection and enhancement, and wildlife habitat improvement.
+&emsp;(6) other purposes consistent with plans for soil and water conservation, integrated farm management, water quality protection and enhancement, and wildlife habitat improvement.
 
 #### (b) Priority
 
@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 104–127, §603(1), (4), (6), redesignated subsec. (a)(3) 
 
 Subsec. (c). Pub. L. 95–334, §102(2), added subsec. (c).
 
-1972—Pub. L. 92–419 designated existing provisions as subsec. (a) and struck out item (a) and (b) designations appearing before “to any farmowner” and “without regard to”, respectively, and added subsec. (b).
+1972—Pub. L. 92–419 designated existing provisions as subsec. (a) and struck out item (a) and (b) designationsappearing before “to any farmowner” and “without regard to”, respectively, and added subsec. (b).
 
 1968—Pub. L. 90–488 designated existing provisions as cl. (a), excluded recreational uses and facilities, and added cl. (b).
 
@@ -59,10 +59,6 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 #### Transfer of Functions
 
 Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 917, 1923, 1925, 1934, 1991, 6613 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “this section,”.</i>
 

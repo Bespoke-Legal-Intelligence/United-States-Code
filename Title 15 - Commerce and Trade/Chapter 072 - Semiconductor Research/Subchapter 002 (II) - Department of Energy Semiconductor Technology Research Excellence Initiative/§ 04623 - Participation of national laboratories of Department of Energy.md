@@ -14,7 +14,3 @@ One or more national laboratories of the Department of Energy shall participate 
 
 (Pub. L. 100–180, div. C, title I, §3143, Dec. 4, 1987, 101 Stat. 1243.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4625 of this title.
-

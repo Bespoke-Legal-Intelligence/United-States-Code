@@ -32,7 +32,3 @@ Feb. 18, 1980, Pub. L. 96–193, §103(b), 94 Stat. 51; restated Sept. 3, 1982, 
 
 In subsection (a), before clause (1), the words “incur obligations to” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40117, 47117, 48103 of this title.
-

@@ -18,7 +18,3 @@ The eligibility of any organization to represent commercial egg producers of any
 
 (Pub. L. 93–428, §16, Oct. 1, 1974, 88 Stat. 1178.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2704, 2707 of this title.
-

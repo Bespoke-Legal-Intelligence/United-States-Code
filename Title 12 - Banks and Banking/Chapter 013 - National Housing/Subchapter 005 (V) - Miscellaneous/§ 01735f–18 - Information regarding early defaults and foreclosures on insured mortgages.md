@@ -50,7 +50,3 @@ For purposes of this section:
 
 Section 335(b) of Pub. L. 101–625 provided that: “During the period beginning on the date of the enactment of this Act \[Nov. 28, 1990\] and ending on the date of the initial availability of information under section 540 of the National Housing Act \[12 U.S.C. 1735f–18\] (as added by subsection (a)), the Secretary of Housing and Urban Development shall make publicly available all reports regarding Default/Claim Rates per Regional Office for Fiscal Year 1990 Endorsements that are produced by the Department of Housing and Urban Development during such period.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1709 of this title; title 42 section 3535.
-

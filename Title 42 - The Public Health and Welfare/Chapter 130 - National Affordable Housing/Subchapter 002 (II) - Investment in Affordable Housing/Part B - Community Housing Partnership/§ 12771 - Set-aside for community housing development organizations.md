@@ -24,7 +24,3 @@ Subsec. (b). Pub. L. 102–550, §212(a), substituted “24” for “18”.
 
 Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12772 of this title.
-

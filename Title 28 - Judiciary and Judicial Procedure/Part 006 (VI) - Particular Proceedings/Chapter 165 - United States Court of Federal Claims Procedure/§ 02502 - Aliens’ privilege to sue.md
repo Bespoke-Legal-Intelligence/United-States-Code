@@ -38,7 +38,3 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 Amendment by Pub. L. 89–713 applicable to suits brought against officers, employees, or personal representatives instituted 90 days or more after Nov. 2, 1966, see section 3(d) of Pub. L. 89–713, set out as a note under section 7422 of Title 26, Internal Revenue Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 7422.
-

@@ -56,7 +56,3 @@ The United States Housing Act of 1937, referred to in subsec. (a)(1), is act Sep
 
 2002—Subsec. (b)(2)(A). Pub. L. 107–292 inserted “, including any regulations that may be required pursuant to amendments made to this chapter after October 26, 1996,” after “required under this chapter”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4112, 4113, 4152 of this title.
-

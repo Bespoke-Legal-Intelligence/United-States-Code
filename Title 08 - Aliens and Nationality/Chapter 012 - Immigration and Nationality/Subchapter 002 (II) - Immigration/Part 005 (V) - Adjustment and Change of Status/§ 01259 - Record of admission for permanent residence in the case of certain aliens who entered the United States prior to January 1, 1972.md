@@ -36,7 +36,7 @@ Amendment by Pub. L. 104–132 effective Apr. 24, 1996, and applicable to applic
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, seesection 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -53,8 +53,4 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 #### Applicability of Numerical Limitations
 
 Section 203(c) of Pub. L. 99–603 provided that: “The numerical limitations of sections 201 and 202 of the Immigration and Nationality Act \[8 U.S.C. 1151, 1152\] shall not apply to aliens provided lawful permanent resident status under section 249 of that Act \[8 U.S.C. 1259\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1229a, 1229c, 1256, 1444, 1534 of this title; title 7 section 2015; title 42 sections 408, 1436a.
 

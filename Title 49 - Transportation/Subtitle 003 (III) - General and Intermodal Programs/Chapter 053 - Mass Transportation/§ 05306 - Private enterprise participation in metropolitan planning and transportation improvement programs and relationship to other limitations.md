@@ -38,7 +38,3 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §8(m); added Nov. 6, 1978, Pub. L
 
 In subsection (a), the words “(through modernization, extension, addition, or otherwise)” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5303, 5304, 5305, 5307, 5309, 5313, 5314, 5323 of this title; title 23 section 134.
-

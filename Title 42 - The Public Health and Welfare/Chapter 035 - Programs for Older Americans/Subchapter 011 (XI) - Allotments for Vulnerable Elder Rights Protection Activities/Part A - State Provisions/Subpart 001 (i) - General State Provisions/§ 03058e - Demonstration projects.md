@@ -32,7 +32,3 @@ The Food Stamp Act of 1977, referred to in subsec. (a)(3), is Pub. L. 88–525, 
 
 A prior section 706 of Pub. L. 89–73 was classified to section 3045e of this title prior to repeal by Pub. L. 95–478.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3024 of this title.
-

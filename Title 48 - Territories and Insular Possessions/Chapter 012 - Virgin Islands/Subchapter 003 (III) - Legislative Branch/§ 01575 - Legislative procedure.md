@@ -10,7 +10,7 @@ The enacting clause of all acts shall be as follows: “Be it enacted by the Leg
 
 #### (c) Governor's message and budget
 
-The Governor shall submit at the opening of each regular session of the legislature a message on the state of the Virgin Islands and a budget of estimated receipts and expenditures, which shall be the basis of the appropriation bills forthe ensuing fiscal year, which shall commence on the first day of July or such other date as the Legislature of the Virgin Islands may determine.
+The Governor shall submit at the opening of each regular session of the legislature a message on the state of the Virgin Islands and a budget of estimated receipts and expenditures, which shall be the basis of the appropriation bills for the ensuing fiscal year, which shall commence on the first day of July or such other date as the Legislature of the Virgin Islands may determine.
 
 #### (d) Approval and disapproval of bills
 
@@ -34,7 +34,7 @@ A listing of all laws enacted by the legislature each year shall be transmitted 
 
 2000—Subsec. (a). Pub. L. 106–364 amended first sentence generally. Prior to amendment, first sentence read as follows: “The quorum of the legislature shall consist of eight of its members.”
 
-1980—Subsec. (g). Pub. L. 96–470 substituted provision requiring a listing of all laws enacted by the legislature each year be transmitted with the annual report to Congress required by section 1591 of this title for provision requiring copies of all laws enacted by the legislature be transmitted within 15 days of their enactment by the Governor to the Secretary of the Interior and by the Secretary annually to Congress.
+1980—Subsec. (g). Pub. L. 96–470 substituted provision requiring a listing of all laws enacted by the legislatureeach year be transmitted with the annual report to Congress required by section 1591 of this title for provision requiring copies of all laws enacted by the legislature be transmitted within 15 days of their enactment by the Governor to the Secretary of the Interior and by the Secretary annually to Congress.
 
 1978—Subsec. (c). Pub. L. 95–348 inserted provision authorizing the Virgin Islands Legislature to determine other dates on which the fiscal year shall commence.
 

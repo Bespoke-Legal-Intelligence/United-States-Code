@@ -34,7 +34,7 @@ Collegiate Training Initiative.—(1) The Administrator of the Federal Aviation 
 
 (d)
 
-Staffing Report.—The Administrator of the Federal Aviation Administration shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
+Staffing Report.—The Administrator of the Federal Aviation Administration shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce,Science, and Transportation of the Senate a report containing—
 
 &emsp;(1) the staffing standards used to determine the number of air traffic controllers needed to operate the air traffic control system of the United States;
 
@@ -94,7 +94,7 @@ Human Capital Workforce Strategy.—
 
 &emsp;“(1)
 
-Development.—The Administrator shall develop a comprehensive human capital workforce strategy to determine the most effective method for addressing the need for more air traffic controllers that is identified in the June 2002 report of the General Accounting Office.
+Development.—The Administrator shall develop a comprehensive human capital workforce strategy to determine the most effective method for addressing the need for more air traffic controllers that is identified in the June 2002 report of the General Accounting Office \[now Government Accountability Office\].
 
 &emsp;“(2)
 
@@ -103,8 +103,4 @@ Completion date.—Not later than 1 year after the date of enactment of this Act
 &emsp;“(3)
 
 Report.—Not later than 30 days after the date on which the strategy is completed, the Administrator shall transmit to Congress a report describing the strategy.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 48102 of this title.
 

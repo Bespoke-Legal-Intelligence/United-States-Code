@@ -4,7 +4,3 @@ Any trust or restricted Indian lands, whether tribally or individually owned, lo
 
 (Pub. L. 89–715, §1, Nov. 2, 1966, 80 Stat. 1112.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 416a, 416b, 416c, 416d, 416e, 416h, 416i, 416j of this title.
-

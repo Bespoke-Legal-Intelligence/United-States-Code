@@ -58,7 +58,3 @@ Section 6801(c)(2) of Pub. L. 101–239 provided that: “The amendment made by 
 
 Amendment by Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1988, but not applicable to any plan for any plan year to which section 162(k) of Title 26, Internal Revenue Code (as in effect on the day before Nov. 10, 1988), did not apply by reason of section 10001(e)(2) of Pub. L. 99–272, see section 3011(d) of Pub. L. 100–647, set out as a note under section 162 of Title 26.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300bb–5 of this title.
-

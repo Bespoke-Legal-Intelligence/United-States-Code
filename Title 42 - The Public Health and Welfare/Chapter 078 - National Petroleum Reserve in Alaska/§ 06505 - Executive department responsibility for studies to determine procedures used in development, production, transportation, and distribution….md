@@ -10,7 +10,7 @@
 
 (2) The President shall make semiannual progress reports on the implementation of this subsection to the Committees on Interior and Insular Affairs of the Senate and the House of Representatives beginning not later than six months after April 5, 1976, and shall, not later than one year after the transfer of jurisdiction of the reserve, and annually thereafter, report any findings or conclusions developed as a result of such study together with appropriate supporting data and such recommendations as he deems desirable. The study shall be completed and submitted to such committees, together with recommended procedures and any proposed legislation necessary to implement such procedures not later than January 1, 1980.
 
-(c)(1) The Secretary of the Interior shall establish a task force to conduct a study to determine the values of, and best uses for, the lands contained in the reserve, taking into consideration (A) the natives who live or depend upon such lands, (B) the scenic, historical, recreational, fish and wildlife, and wilderness values, (C) mineral potential, and (D) other values of such lands.
+(c)(1) The Secretary of the Interior shall establish a task force to conduct a study to determine the values of, and best uses for, the lands contained in the reserve, taking into consideration (A) the natives who live or depend uponsuch lands, (B) the scenic, historical, recreational, fish and wildlife, and wilderness values, (C) mineral potential, and (D) other values of such lands.
 
 (2) Such task force shall be composed of representatives from the government of Alaska, the Arctic slope native community, and such offices and bureaus of the Department of the Interior as the Secretary of the Interior deems appropriate, including, but not limited to, the Bureau of Land Management, the United States Fish and Wildlife Service, the United States Geological Survey, and the United States Bureau of Mines.
 
@@ -24,13 +24,9 @@ Subsec. (a) of this section amended former section 6244 of this title.
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (c)(2) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining.
+“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (c)(2) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of Title 30, Mineral Lands and Mining.
 
 Committee on Interior and Insular Affairs of Senate abolished and replaced by Committee on Energy and Natural Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6508 of this title; title 16 section 1276.
 

@@ -20,7 +20,3 @@ Subsec. (d). Pub. L. 99–576, §701(36)(B), substituted “the Administrator”
 
 1982—Subsec. (a). Pub. L. 97–295 substituted “percent” for “per centum”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1965, 1967, 1969, 1970, 1971, 1972, 1977 of this title.
-

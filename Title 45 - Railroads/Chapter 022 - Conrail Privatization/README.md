@@ -28,7 +28,7 @@
 | (e) | Cancellation of other securities held by United States. |
 | (f) | Minority investment banking firms. |
 | (g) | Investment banking firm requirements. |
-| (h) | General Accounting Office authority to conduct audits. |
+| (h) | Government Accountability Office authority to conduct audits. |
 | [1313\.](Subchapter%20002%20%28II%29%20-%20Conrail/Part%20A%20-%20Sale%20of%20Conrail/%C2%A7%2001313%20-%20Fees.md) | Fees. |
 | (a) | Investment banking firm fees. |
 | (b) | Costs of public offering. |
@@ -78,10 +78,6 @@
 | (e) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 702, 741, 1116, 1347 of this title.
 
 
 ---

@@ -14,7 +14,7 @@ Sections 2465b, 2465d, and 2465e of this title, referred to in text, were repeal
 
 #### Codification
 
-Section was enacted as part of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1991, and also as part of the Launch Services Purchase Act of 1990, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
+Section was enacted as part of the National Aeronautics and Space Administration Authorization Act,Fiscal Year 1991, and also as part of the Launch Services Purchase Act of 1990, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
 
 #### Amendments
 

@@ -8,7 +8,3 @@ The Secretary of the Interior is authorized to construct and maintain such bound
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 671 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 674d of this title.
-

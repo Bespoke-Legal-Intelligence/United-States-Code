@@ -2,7 +2,7 @@
 
 #### (a) Appellate jurisdiction of District Court
 
-Prior to the establishment of the appellate court authorized by section 1424–1(a) of this title, the District Court of Guam shall have such appellate jurisdiction over the local courts of Guam as the legislature may determine: <i>Provided</i>, That the legislature may not preclude the review of any judgment or order which involves the Constitution, treaties, or laws of the United States, including this chapter, or any authority exercised thereunder by an officer or agency of the Government of the United States, or the conformity of any law enacted by the legislature of Guam or of any orders or regulations issued or actions taken by the executive branch of the government of Guam with the Constitution, treaties, or laws of the United States, including this chapter, or any authority exercised thereunder by an officer or agency of the United States.
+Prior to the establishment of the appellate court authorized by section 1424–1(a) of this title, which is known as the Supreme Court of Guam, the District Court of Guam shall have such appellate jurisdiction over the local courts of Guam as the legislature may determine: <i>Provided</i>, That the legislature may not preclude thereview of any judgment or order which involves the Constitution, treaties, or laws of the United States, including this chapter, or any authority exercised thereunder by an officer or agency of the Government of the United States, or the conformity of any law enacted by the legislature of Guam or of any orders or regulations issued or actions taken by the executive branch of the government of Guam with the Constitution, treaties, or laws of the United States, including this chapter, or any authority exercised thereunder by an officer or agency of the United States.
 
 #### (b) Appellate division of District Court; quorum; presiding judge; designation of judges; decisions
 
@@ -14,9 +14,15 @@ The United States Court of Appeals for the Ninth Circuit shall have jurisdiction
 
 #### (d) Appeals to appellate court; effect on District Court
 
-Upon the establishment of the appellate court provided for in section 1424–1(a) of this title all appeals from the decisions of the local courts not previously taken must be taken to the appellate court. The establishment of that appellate court shall not result in the loss of jurisdiction of the appellate division of the district court over any appeal then pending in it. The rulings of the appellate division of the district court on such appeals may be reviewed in the United States Court of Appeals for the Ninth Circuit and in the Supreme Court notwithstanding the establishment of the appellate court.
+Upon the establishment of the appellate court provided for in section 1424–1(a) of this title, which is known as the Supreme Court of Guam, all appeals from the decisions of the local courts not previously taken must be taken to such appellate court. The establishment of that appellate court shall not result in the loss of jurisdiction of the appellate division of the district court over any appeal then pending in it. The rulings of the appellate division of the district court on such appeals may be reviewed in the United States Court of Appeals for the Ninth Circuit and in the Supreme Court notwithstanding the establishment of the appellate court.
 
-(Aug. 1, 1950, ch. 512, §22C, as added Pub. L. 98–454, title VIII, §801, Oct. 5, 1984, 98 Stat. 1742.)
+(Aug. 1, 1950, ch. 512, §22C, as added Pub. L. 98–454, title VIII, §801, Oct. 5, 1984, 98 Stat. 1742; amended Pub. L. 108–378, §1(c), Oct. 30, 2004, 118 Stat. 2207.)
+
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–378, §1(c)(1), inserted “which is known as the Supreme Court of Guam,” after “appellate court authorized by section 1424–1(a) of this title,”.
+
+Subsec. (d). Pub. L. 108–378, §1(c)(2), inserted “, which is known as the Supreme Court of Guam,” after “appellate court provided for in section 1424–1(a) of this title” and substituted “taken to such appellate court” for “taken to the appellate court”.
 
 #### Effective Date
 

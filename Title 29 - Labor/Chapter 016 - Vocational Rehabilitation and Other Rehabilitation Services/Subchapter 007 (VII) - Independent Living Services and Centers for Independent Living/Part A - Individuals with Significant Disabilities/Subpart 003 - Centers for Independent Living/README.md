@@ -1,9 +1,5 @@
 subpart 3—centers for independent living
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 716, 721, 796c, 796d–1 of this title.
-
 
 ---
 

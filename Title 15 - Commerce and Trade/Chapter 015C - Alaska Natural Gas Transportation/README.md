@@ -39,7 +39,7 @@
 | [719h.](%C2%A7%2000719h%20-%20Judicial%20review.md) | Judicial review. |
 | (a) | Exclusiveness of remedy. |
 | (b) | Limitations for filing claims. |
-| (c) | Exclusive jurisdiction of the Special Court; barred claims; conclusiveness of environmental impact statements. |
+| (c) | Jurisdiction. |
 | [719i.](%C2%A7%2000719i%20-%20Supplemental%20enforcement%20authority.md) | Supplemental enforcement authority. |
 | (a) | Compliance order or civil action. |
 | (b) | Specificity of compliance order. |
@@ -54,10 +54,6 @@
 | 719<i>o.</i> | Civil rights; affirmative action of Federal officers and agencies; rules: promulgation and enforcement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 16 section 3214.
 
 
 ---

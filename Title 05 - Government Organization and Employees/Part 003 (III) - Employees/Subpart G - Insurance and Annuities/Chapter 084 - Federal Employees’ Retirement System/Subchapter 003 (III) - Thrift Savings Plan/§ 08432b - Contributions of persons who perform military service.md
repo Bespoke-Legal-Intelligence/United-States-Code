@@ -122,9 +122,5 @@ Rules for Applying Amendments to Employees Restored or Reemployed Before Effecti
 
 &emsp;“(4) Deem section 8432b(b)(2)(A) of such title to be amended by striking ‘ending on the day before the date of restoration or reemployment (as applicable)’ and inserting ‘ending on the date determined under section 4(f)(1) of the Uniformed Services Employment and Reemployment Rights Act of 1994’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8351, 8432, 8432c, 8433 of this title; title 38 section 4318.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

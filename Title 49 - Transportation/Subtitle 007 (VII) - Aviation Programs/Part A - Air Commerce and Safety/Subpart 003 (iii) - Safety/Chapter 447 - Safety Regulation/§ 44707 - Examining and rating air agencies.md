@@ -116,7 +116,3 @@ Termination.—The panel established under subsection (a) shall terminate on the
 
 Definitions.—The definitions contained in section 40102 of title 49, United States Code, shall apply to this section.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44701, 44711, 45302, 46310, 47531 of this title.
-

@@ -22,11 +22,11 @@ Each agency board shall have jurisdiction to decide any appeal from a decision o
 
 #### (e) Decisions
 
-An agency board shall provide to the fullest extent practicable, informal, expeditious, and inexpensive resolution of disputes, and shall issue a decision in writing or take other appropriate action on each appeal submitted, andshall mail or otherwise furnish a copy of the decision to the contractor and the contracting officer.
+An agency board shall provide to the fullest extent practicable, informal, expeditious, and inexpensive resolution of disputes, and shall issue a decision in writing or take other appropriate action on each appeal submitted, and shall mail or otherwise furnish a copy of the decision to the contractor and the contracting officer.
 
 #### (f) Accelerated appeal disposition
 
-The rules of each agency board shall include a procedure for the accelerated disposition of any appeal from a decision of a contracting officer where the amount in dispute is $100,000 or less. The accelerated procedure shall be applicable at the sole election of only the contractor. Appeals under the accelerated procedure shall be resolved, whenever possible, within one hundred and eighty days from the date the contractor elects to utilize such procedure.
+The rules of each agency board shall include a procedure for the accelerated disposition of any appeal from a decision of a contracting officerwhere the amount in dispute is $100,000 or less. The accelerated procedure shall be applicable at the sole election of only the contractor. Appeals under the accelerated procedure shall be resolved, whenever possible, within one hundred and eighty days from the date the contractor elects to utilize such procedure.
 
 #### (g) Review
 
@@ -90,13 +90,9 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 601, 603, 606, 609 of this title; title 5 sections 504, 5102, 5372a, 9003; title 22 section 3862; title 25 section 450m–1; title 28 sections 1295, 1346.
 

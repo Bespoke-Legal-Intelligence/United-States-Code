@@ -1,9 +1,5 @@
 subpart i—insured health education assistance loans to graduate students
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in title 20 section 1078–3.
-
 
 ---
 

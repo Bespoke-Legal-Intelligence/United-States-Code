@@ -28,7 +28,7 @@ Regulations with same effect.—If the Secretary decides a State law or regulati
 
 &emsp;(3)
 
-Less stringent regulations.—If the Secretary decides a State law or regulation is less stringent than a regulation prescribed by the Secretary under section 31136 of this title, the State law or regulation may not be enforced.
+Less stringent regulations.—If the Secretary decides a State law or regulation is less stringent than a regulation prescribed bythe Secretary under section 31136 of this title, the State law or regulation may not be enforced.
 
 &emsp;(4)
 
@@ -139,8 +139,4 @@ In subsection (h), the text of 49 App.:2507(h) and the words “After the last d
 1998—Subsecs. (b), (c). Pub. L. 105–178, §4008(e)(1), added subsecs. (b) and (c) and struck out headings and text of former subsecs. (b) and (c) which related to analysis and decisions by Commercial Motor Vehicle Safety Regulatory Review Panel and to review and decisions by Secretary, respectively.
 
 Subsecs. (e) to (h). Pub. L. 105–178, §4008(e)(2), (3), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out heading and text of former subsec. (e). Text read as follows: “The Secretary may consolidate regulatory proceedings under this section if the Secretary decides that the consolidation will not adversely affect a party to a proceeding.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 31132 of this title.
 

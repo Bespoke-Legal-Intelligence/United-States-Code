@@ -6,7 +6,7 @@ Except as provided in subsection (b), (d), or (e) of this section, no State or p
 
 #### (b) Exemption
 
-Upon application of a State or political subdivision thereof, the Secretary may by regulation, after notice and opportunity for written and oral presentation of views, exempt from subsection (a) of this section, under such conditions as may be prescribed in such regulation, a State or political subdivision requirement for labeling or packaging that—
+Upon application of a State or political subdivision thereof, the Secretary may by regulation, after notice and opportunity for written and oral presentation of views, exempt from subsection (a) of this section, under such conditionsas may be prescribed in such regulation, a State or political subdivision requirement for labeling or packaging that—
 
 &emsp;(1) protects an important public interest that would otherwise be unprotected;
 

@@ -18,7 +18,7 @@ The Secretary shall not make any adjustment in the payment to a State, nor requi
 
 #### (d) Regulations
 
-The Secretary shall by regulation provide procedures for implementation of this section, which procedures shall (1) determine the amount of the Federal payment to which the institution or person would otherwise be entitled under this section which shall be treated as a setoff against overpayments under subchapter XVIII of this chapter, and (2) assure the restoration to the institution or person of amounts withheld under this section which are ultimately determined to be in excess of overpayments under subchapter XVIII of this chapter and to which the institution or person would otherwise be entitled under this subchapter.
+The Secretary shall by regulation provide procedures for implementation of this section, which procedures shall (1) determine the amount of the Federal payment to which the institutionor person would otherwise be entitled under this section which shall be treated as a setoff against overpayments under subchapter XVIII of this chapter, and (2) assure the restoration to the institution or person of amounts withheld under this section which are ultimately determined to be in excess of overpayments under subchapter XVIII of this chapter and to which the institution or person would otherwise be entitled under this subchapter.
 
 #### (e) Restoration to trust funds of recovered amounts
 
@@ -29,8 +29,4 @@ The Secretary shall restore to the trust funds established under sections 1395i 
 Notwithstanding any other provision of this subchapter, an institution or person shall not be entitled to recover from any State any amount in payment for medical care and services under this subchapter which is withheld by the State agency pursuant to an order by the Secretary under subsection (b) of this section.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1914, as added Pub. L. 96–499, title IX, §905(d), Dec. 5, 1980, 94 Stat. 2618.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1396b of this title.
 

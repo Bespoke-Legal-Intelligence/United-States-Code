@@ -82,7 +82,7 @@
 
 #### (3) Sale price net of discounts
 
-&emsp;In calculating the manufacturer's average sales price under this subsection, such price shall include volume discounts, prompt pay discounts, cash discounts, free goods that arecontingent on any purchase requirement, chargebacks, and rebates (other than rebates under section 1396r–8 of this title). For years after 2004, the Secretary may include in such price other price concessions, which may be based on recommendations of the Inspector General, that would result in a reduction of the cost to the purchaser.
+&emsp;In calculating the manufacturer's average sales price under this subsection, such price shall include volume discounts, prompt pay discounts, cash discounts, free goods that are contingent on any purchase requirement, chargebacks, and rebates (other than rebates under section 1396r–8 of this title). For years after 2004, the Secretary may include in such price other price concessions, which may be based on recommendations of the Inspector General, that would result in a reduction of the cost to the purchaser.
 
 #### (4) Payment methodology in cases where average sales price during first quarter of sales is unavailable
 
@@ -116,7 +116,7 @@
 
 #### (B) Wholesale acquisition cost
 
-&emsp;&emsp;The term “wholesale acquisition cost” means, with respect to a drug or biological, the manufacturer's list price for the drug or biological to wholesalers or direct purchasers in the United States, not including prompt pay or other discounts, rebates or reductions in price, for the most recent month for which the information is available, as reported in wholesale price guides or other publications of drug or biological pricing data.
+&emsp;&emsp;The term “wholesale acquisition cost” means, with respect to a drug or biological,the manufacturer's list price for the drug or biological to wholesalers or direct purchasers in the United States, not including prompt pay or other discounts, rebates or reductions in price, for the most recent month for which the information is available, as reported in wholesale price guides or other publications of drug or biological pricing data.
 
 #### (C) Multiple source drug
 
@@ -236,7 +236,7 @@
 
 #### (e) Authority to use alternative payment in response to public health emergency
 
-In the case of a public health emergency under section 247d of this title in which there is a documented inability to access drugs and biologicals, and a concomitant increase in the price,<sup>1</sup> of a drug or biological which is not reflected in the manufacturer's average sales price for one or more quarters, the Secretary may use the wholesale acquisition cost (or other reasonable measure of drug or biological price) instead of the manufacturer's average sales price for such quarters and for subsequent quarters until the price and availability of the drug or biological has stabilized and is substantially reflectedin the applicable manufacturer's average sales price.
+In the case of a public health emergency under section 247d of this title in which there is a documented inability to access drugs and biologicals, and a concomitant increase in the price,<sup>1</sup> of a drug or biological which is not reflected in the manufacturer's average sales price for one or more quarters, the Secretary may use the wholesale acquisition cost (or other reasonable measure of drug or biological price) instead of the manufacturer's average sales price for such quarters and for subsequent quarters until the price and availability of the drug or biological has stabilized and is substantially reflected in the applicable manufacturer's average sales price.
 
 #### (f) Quarterly report on average sales price
 
@@ -280,17 +280,13 @@ Study.—The Inspector General of the Department of Health and Human Services sh
 
 “(B)
 
-Report.—Not later October 1, 2005, the Inspector General shall submit to Congress a report on the study conducted under subparagraph (A), and shall include recommendations on the adequacy of reimbursement for such drugs and biologicals under such section 1847A \[this section\].”
+Report.—Not later October 1, 2005, the Inspector General shall submit to Congress a report on the studyconducted under subparagraph (A), and shall include recommendations on the adequacy of reimbursement for such drugs and biologicals under such section 1847A \[this section\].”
 
 #### Application of 2003 Amendment to Physician Specialties
 
 Amendment by section 303 of Pub. L. 108–173, insofar as applicable to payments for drugs or biologicals and drug administration services furnished by physicians, is applicable only to physicians in the specialties of hematology, hematology/oncology, and medical oncology under this subchapter, see section 303(j) of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
 Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L. 108–173 also applicable to payments for drugs or biologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395<i>l</i>, 1395u, 1395w–3b, 1395w–4, 1395y, 1395rr, 1396r–8 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

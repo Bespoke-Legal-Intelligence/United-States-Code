@@ -44,7 +44,7 @@
 
 #### (3) Reciprocal benefits
 
-&emsp;In order to ensure that a foreign country that is not a party to a trade agreement entered into under section 3803(b) of this title does not receive benefits under the agreement unless the country is also subject to the obligations under the agreement, the implementing bill submitted with respect to the agreement shall provide that the benefits and obligations under the agreement apply only to the parties to the agreement, if such application is consistent with the terms of the agreement. The implementing bill may also provide that the benefits and obligations under the agreement do not apply uniformly to all parties to the agreement, if such application is consistent with the terms of the agreement.
+&emsp;In order to ensure that a foreign country that is not a party to a trade agreement entered into under section 3803(b) of this title does not receive benefits under the agreement unless the country is also subject to the obligations under the agreement, the implementing bill submitted with respect to the agreement shall provide that the benefits and obligations under the agreement apply only to the parties to the agreement, if such application is consistent with the terms of the agreement.The implementing bill may also provide that the benefits and obligations under the agreement do not apply uniformly to all parties to the agreement, if such application is consistent with the terms of the agreement.
 
 #### (4) Disclosure of commitments
 
@@ -110,21 +110,2460 @@
 
 #### (c) Rules of House of Representatives and Senate
 
-Subsection (b) of this section, section 3803(c) of this title, aand <sup>1</sup> section 3804(d)(3)(C) of this title are enacted by the Congress—
+Subsection (b) of this section, section 3803(c) of this title, and section 3804(d)(3)(C) of this title are enacted by the Congress—
 
-&emsp;(1) as an exercise of the rulemaking power of the House of Representatives and the Senate,respectively, and as such are deemed a part of the rules of each House, respectively, and such procedures supersede other rules only to the extent that they are inconsistent with such other rules; and
+&emsp;(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such are deemed a part of the rules of each House, respectively, and such procedures supersede other rules only to the extent that they are inconsistent with such other rules; and
 
 &emsp;(2) with the full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner, and to the same extent as any other rule of that House.
 
-(Pub. L. 107–210, div. B, title XXI, §2105, Aug. 6, 2002, 116 Stat. 1013.)
+(Pub. L. 107–210, div. B, title XXI, §2105, Aug. 6, 2002, 116 Stat. 1013; Pub. L. 108–429, title II, §2004(a)(18), Dec. 3, 2004, 118 Stat. 2591.)
 
 #### References in Text
 
 The Bipartisan Trade Promotion Authority Act of 2002, referred to in subsec. (b)(1)(B), is title XXI of Pub. L. 107–210, div. B, Aug. 6, 2002, 116 Stat. 993, which is classified principally to this chapter. For complete classification of title XXI to the Code, see section 3801(a) of this title and Tables.
 
+#### Amendments
+
+2004—Subsec. (c). Pub. L. 108–429 substituted “and” for “aand” in introductory provisions.
+
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
+
+#### United States-Morocco Free Trade Agreement Implementation Act
+
+Pub. L. 108–302, Aug. 17, 2004, 118 Stat. 1103, provided that:
+
+#### “SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+“(a)
+
+Short Title.—This Act may be cited as the ‘United States-Morocco Free Trade Agreement Implementation Act’.
+
+“(b)
+
+Table of Contents.—\[Omitted.\]
+
+#### “SEC. 2. PURPOSES.
+
+“The purposes of this Act are—
+
+&emsp;“(1) to approve and implement the Free Trade Agreement between the United States and Morocco entered into under the authority of section 2103(b) of the Bipartisan Trade Promotion Authority Act of 2002 (19 U.S.C. 3803(b));
+
+&emsp;“(2) to strengthen and develop economic relations between the United States and Morocco for their mutual benefit;
+
+&emsp;“(3) to establish free trade between the 2 nations through the reduction and elimination of barriers to trade in goods and services and to investment; and
+
+&emsp;“(4) to lay the foundation for further cooperation to expand and enhance the benefits of such Agreement.
+
+#### “SEC. 3. DEFINITIONS.
+
+“In this Act:
+
+&emsp;“(1)
+
+Agreement.—The term ‘Agreement’ means the United States-Morocco Free Trade Agreement approved by Congress under section 101(a)(1).
+
+&emsp;“(2) HTS.—The term ‘HTS’ means the Harmonized Tariff Schedule of the United States.
+
+&emsp;“(3)
+
+Textile or apparel good.—The term ‘textile or apparel good’ means a good listed in the Annex to the Agreement on Textiles and Clothing referred to in section 101(d)(4) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(4)).
+
+#### “TITLE I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, THE AGREEMENT
+
+#### “SEC. 101. APPROVAL AND ENTRY INTO FORCE OF THE AGREEMENT.
+
+“(a)
+
+Approval of Agreement and Statement of Administrative Action.—Pursuant to section 2105 of the Bipartisan Trade Promotion Authority Act of 2002 (19 U.S.C. 3805) and section 151 of the Trade Act of 1974 (19 U.S.C. 2191), Congress approves—
+
+&emsp;“(1) the United States-Morocco Free Trade Agreement entered into on June 15, 2004, with Morocco and submitted to Congress on July 15, 2004; and
+
+&emsp;“(2) the statement of administrative action proposed to implement the Agreement that was submitted to Congress on July 15, 2004.
+
+“(b)
+
+Conditions for Entry Into Force of the Agreement.—At such time as the President determines that Morocco has taken measures necessary to bring it into compliance with those provisions of the Agreement that are to take effect on the date on which the Agreement enters into force \[July 1, 2005\], the President is authorized to exchange notes with the Government of Morocco providing for the entry into force, on or after January 1, 2005, of the Agreement with respect to the United States.
+
+#### “SEC. 102. RELATIONSHIP OF THE AGREEMENT TO UNITED STATES AND STATE LAW.
+
+“(a)
+
+Relationship of Agreement to United States Law.—
+
+&emsp;“(1)
+
+United states law to prevail in conflict.—No provision of the Agreement, nor the application of any such provision to any person or circumstance, which is inconsistent with any law of the United States shall have effect.
+
+&emsp;“(2)
+
+Construction.—Nothing in this Act shall be construed—
+
+&emsp;&emsp;“(A) to amend or modify any law of the United States, or
+
+&emsp;&emsp;“(B) to limit any authority conferred under any law of the United States,
+
+> &emsp;unless specifically provided for in this Act.
+
+“(b)
+
+Relationship of Agreement to State Law.—
+
+&emsp;“(1)
+
+Legal challenge.—No State law, or the application thereof, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with the Agreement, except in an action brought by the United States for the purpose of declaring such law or application invalid.
+
+&emsp;“(2)
+
+Definition of state law.—For purposes of this subsection, the term ‘State law’ includes—
+
+&emsp;&emsp;“(A) any law of a political subdivision of a State; and
+
+&emsp;&emsp;“(B) any State law regulating or taxing the business of insurance.
+
+“(c)
+
+Effect of Agreement With Respect to Private Remedies.—No person other than the United States—
+
+&emsp;“(1) shall have any cause of action or defense under the Agreement or by virtue of congressional approval thereof; or
+
+&emsp;“(2) may challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State, or any political subdivision of a State, on the ground that such action or inaction is inconsistent with the Agreement.
+
+#### “SEC. 103. IMPLEMENTING ACTIONS IN ANTICIPATION OF ENTRY INTO FORCE AND INITIAL REGULATIONS.
+
+“(a)
+
+Implementing Actions.—
+
+&emsp;“(1)
+
+Proclamation authority.—After the date of the enactment of this Act \[Aug. 17, 2004\]—
+
+&emsp;&emsp;“(A) the President may proclaim such actions, and
+
+&emsp;&emsp;“(B) other appropriate officers of the United States Government may issue such regulations,
+
+> &emsp;as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date the Agreement enters into force \[July 1, 2005\] is appropriately implemented on such date, but no such proclamation or regulation may have an effective date earlier than the date the Agreement enters into force.
+
+&emsp;“(2)
+
+Effective date of certain proclaimed actions.—Any action proclaimed by the President under the authority of this Act that is not subject to the consultation and layover provisions under section 104 may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
+
+&emsp;“(3)
+
+Waiver of 15-day restriction.—The 15-day restriction in paragraph (2) on the taking effect of proclaimed actions is waived to the extent that the application of such restriction would prevent the taking effect on the date the Agreement enters into force \[July 1, 2005\] of any action proclaimed under this section.
+
+“(b)
+
+Initial Regulations.—Initial regulations necessary or appropriate to carry out the actions required by or authorized under this Act or proposed in the statement of administrative action submitted under section 101(a)(2) to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date on which the Agreement enters into force \[July 1, 2005\]. In the case of any implementing action that takes effect on a date after the date on which the Agreement enters into force, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
+
+#### “SEC. 104. CONSULTATION AND LAYOVER PROVISIONS FOR, AND EFFECTIVE DATE OF, PROCLAIMED ACTIONS.
+
+“If a provision of this Act provides that the implementation of an action by the President by proclamation is subject to the consultation and layover requirements of this section, such action may be proclaimed only if—
+
+&emsp;“(1) the President has obtained advice regarding the proposed action from—
+
+&emsp;&emsp;“(A) the appropriate advisory committees established under section 135 of the Trade Act of 1974 (19 U.S.C. 2155); and
+
+&emsp;&emsp;“(B) the United States International Trade Commission;
+
+&emsp;“(2) the President has submitted to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report that sets forth—
+
+&emsp;&emsp;“(A) the action proposed to be proclaimed and the reasons therefor; and
+
+&emsp;&emsp;“(B) the advice obtained under paragraph (1);
+
+&emsp;“(3) a period of 60 calendar days, beginning on the first day on which the requirements set forth in paragraphs (1) and (2) have been met has expired; and
+
+&emsp;“(4) the President has consulted with such Committees regarding the proposed action during the period referred to in paragraph (3).
+
+#### “SEC. 105. ADMINISTRATION OF DISPUTE SETTLEMENT PROCEEDINGS.
+
+“(a)
+
+Establishment or Designation of Office.—The President is authorized to establish or designate within the Department of Commerce an office that shall be responsible for providing administrative assistance to panels established under chapter 20 of the Agreement. The office may not be considered to be an agency for purposes of section 552 of title 5, United States Code.
+
+“(b)
+
+Authorization of Appropriations.—There are authorized to be appropriated for each fiscal year after fiscal year 2004 to the Department of Commerce such sums as may be necessary for the establishment and operations of the office under subsection (a) and for the payment of the United States share of the expenses of panels established under chapter 20 of the Agreement.
+
+#### “SEC. 106. ARBITRATION OF CLAIMS.
+
+“The United States is authorized to resolve any claim against the United States covered by article 10.15.1(a)(i)(C) or article 10.15.1(b)(i)(C) of the Agreement, pursuant to the Investor-State Dispute Settlement procedures set forth in section B of chapter 10 of the Agreement.
+
+#### “SEC. 107. EFFECTIVE DATES; EFFECT OF TERMINATION.
+
+“(a)
+
+Effective Dates.—Except as provided in subsection (b), the provisions of this Act and the amendments made by this Act take effect on the date the Agreement enters into force \[July 1, 2005\].
+
+“(b)
+
+Exceptions.—Sections 1 through 3 and this title take effect on the date of the enactment of this Act \[Aug. 17, 2004\].
+
+“(c)
+
+Termination of the Agreement.—On the date on which the Agreement terminates, the provisions of this Act (other than this subsection) and the amendments made by this Act shall cease to be effective.
+
+#### “TITLE II—CUSTOMS PROVISIONS
+
+#### “SEC. 201. TARIFF MODIFICATIONS.
+
+“(a)
+
+Tariff Modifications Provided for in the Agreement.—
+
+&emsp;“(1)
+
+Proclamation authority.—The President may proclaim—
+
+&emsp;&emsp;“(A) such modifications or continuation of any duty,
+
+&emsp;&emsp;“(B) such continuation of duty-free or excise treatment, or
+
+&emsp;&emsp;“(C) such additional duties,
+
+> &emsp;as the President determines to be necessary or appropriate to carry out or apply articles 2.3, 2.5, 2.6, 4.1, 4.3.9, 4.3.10, 4.3.11, 4.3.13, 4.3.14, and 4.3.15, and Annex IV of the Agreement.
+
+&emsp;“(2)
+
+Effect on moroccan gsp status.—Notwithstanding section 502(a)(1) of the Trade Act of 1974 (19 U.S.C. 2462(a)(1)), the President shall terminate the designation of Morocco as a beneficiary developing country for purposes of title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] on the date of entry into force of the Agreement \[July 1, 2005\].
+
+“(b)
+
+Other Tariff Modifications.—Subject to the consultation and layover provisions of section 104, the President may proclaim—
+
+&emsp;“(1) such modifications or continuation of any duty,
+
+&emsp;“(2) such modifications as the United States may agree to with Morocco regarding the staging of any duty treatment set forth in Annex IV of the Agreement,
+
+&emsp;“(3) such continuation of duty-free or excise treatment, or
+
+&emsp;“(4) such additional duties,
+
+> as the President determines to be necessary or appropriate to maintain the general level of reciprocal and mutually advantageous concessions with respect to Morocco provided for by the Agreement.
+
+“(c)
+
+Conversion to Ad Valorem Rates.—For purposes of subsections (a) and (b), with respect to any good for which the base rate in the Tariff Schedule of the United States to Annex IV of the Agreement is a specific or compound rate of duty, the President may substitute for the base rate an ad valorem rate that the President determines to be equivalent to the base rate.
+
+#### “SEC. 202. ADDITIONAL DUTIES ON CERTAIN AGRICULTURAL GOODS.
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Agricultural safeguard good.—The term ‘agricultural safeguard good’ means a good—
+
+&emsp;&emsp;“(A) that qualifies as an originating good under section 203;
+
+&emsp;&emsp;“(B) that is included in the U.S. Agricultural Safeguard List set forth in Annex 3–A of the Agreement; and
+
+&emsp;&emsp;“(C) for which a claim for preferential treatment under the Agreement has been made.
+
+&emsp;“(2)
+
+Applicable ntr (mfn) rate of duty.—The term ‘applicable NTR (MFN) rate of duty’ means, with respect to an agricultural safeguard good, a rate of duty that is the lesser of—
+
+&emsp;&emsp;“(A) the column 1 general rate of duty that would have been imposed under the HTS on the same agricultural safeguard good entered, without a claim for preferential tariff treatment, on the date on which the additional duty is imposed under subsection (b); or
+
+&emsp;&emsp;“(B) the column 1 general rate of duty that would have been imposed under the HTS on the same agricultural safeguard good entered, without a claim for preferential tariff treatment, on December 31, 2004.
+
+&emsp;“(3) F.O.B.—The term ‘F.O.B.’ means free on board, regardless of the mode of transportation, at the point of direct shipment by the seller to the buyer.
+
+&emsp;“(4)
+
+Schedule rate of duty.—The term ‘schedule rate of duty’ means, with respect to an agricultural safeguard good, the rate of duty for that good set out in the Tariff Schedule of the United States to Annex IV of the Agreement.
+
+&emsp;“(5)
+
+Trigger price.—The ‘trigger price’ for a good means the trigger price indicated for that good in the U.S. Agricultural Safeguard List set forth in Annex 3–A of the Agreement or any amendment thereto.
+
+&emsp;“(6)
+
+Unit import price.—The ‘unit import price’ of a good means the price of the good determined on the basis of the F.O.B. import price of the good, expressed in either dollars per kilogram or dollars per liter, whichever unit of measure is indicated for the good in the U.S. Agricultural Safeguard List set forth in Annex 3–A of the Agreement.
+
+“(b)
+
+Additional Duties on Agricultural Safeguard Goods.—
+
+&emsp;“(1)
+
+Additional duties.—In addition to any duty proclaimed under subsection (a) or (b) of section 201, and subject to paragraphs (3), (4), (5), and (6) of this subsection, the Secretary of the Treasury shall assess a duty on an agricultural safeguard good, in the amount determined under paragraph (2), if the Secretary determines that the unit import price of the good when it enters the United States is less than the trigger price for that good.
+
+&emsp;“(2)
+
+Calculation of additional duty.—The additional duty assessed under this subsection on an agricultural safeguard good shall be an amount determined in accordance with the following table:
+
+&nbsp;
+
+| &nbsp; | &nbsp; | &nbsp; |
+| :--- | :---: | ---: |
+|  | <b>If the excess of the trigger price over the unit import price is:</b> | <b>The additional duty is an amount equal to:</b> |
+|  | Not more than 10 percent of the trigger price | 0\. |
+|  | More than 10 percent but not more than 40 percent of the trigger price | 30 percent of the excess of the applicable NTR (MFN) rate of duty over the schedule rate of duty. |
+|  | More than 40 percent but not more than 60 percent of the trigger price | 50 percent of such excess. |
+|  | More than 60 percent but not more than 75 percent of the trigger price | 70 percent of such excess. |
+|  | More than 75 percent of the trigger price | 100 percent of such excess. |
+
+&emsp;“(3)
+
+Exceptions.—No additional duty shall be assessed on a good under this subsection if, at the time of entry, the good is subject to import relief under—
+
+&emsp;&emsp;“(A) subtitle A of title III of this Act; or
+
+&emsp;&emsp;“(B) chapter 1 of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.).
+
+&emsp;“(4)
+
+Termination.—The assessment of an additional duty on a good under this subsection shall cease to apply to that good on the date on which duty-free treatment must be provided to that good under the Tariff Schedule of the United States to Annex IV of the Agreement.
+
+&emsp;“(5)
+
+Tariff-rate quotas.—If an agricultural safeguard good is subject to a tariff-rate quota under the Agreement, any additional duty assessed under this subsection shall be applied only to over-quota imports of the good.
+
+&emsp;“(6)
+
+Notice.—Not later than 60 days after the date on which the Secretary of the Treasury assesses an additional duty on a good under this subsection, the Secretary shall notify the Government of Morocco in writing of such action and shall provide to the Government of Morocco data supporting the assessment of additional duties.
+
+#### “SEC. 203. RULES OF ORIGIN.
+
+“(a)
+
+Application and Interpretation.—In this section:
+
+&emsp;“(1)
+
+Tariff classification.—The basis for any tariff classification is the HTS.
+
+&emsp;“(2)
+
+Reference to hts.—Whenever in this section there is a reference to a heading or sub-heading, such reference shall be a reference to a heading or subheading of the HTS.
+
+“(b)
+
+Originating Goods.—
+
+&emsp;“(1)
+
+In general.—For purposes of this Act and for purposes of implementing the preferential tariff treatment provided for under the Agreement, a good is an originating good if—
+
+&emsp;&emsp;“(A) the good is imported directly—
+
+&emsp;&emsp;&emsp;“(i) from the territory of Morocco into the territory of the United States; or
+
+&emsp;&emsp;&emsp;“(ii) from the territory of the United States into the territory of Morocco; and
+
+&emsp;&emsp;“(B)(i) the good is a good wholly the growth, product, or manufacture of Morocco or the United States, or both;
+
+&emsp;&emsp;“(ii) the good (other than a good to which clause (iii) applies) is a new or different article of commerce that has been grown, produced, or manufactured in Morocco, the United States, or both, and meets the requirements of paragraph (2); or
+
+&emsp;&emsp;“(iii)(I) the good is a good covered by Annex 4–A or 5–A of the Agreement;
+
+&emsp;&emsp;“(II)(aa) each of the nonoriginating materials used in the production of the good undergoes an applicable change in tariff classification specified in such Annex as a result of production occurring entirely in the territory of Morocco or the United States, or both; or
+
+&emsp;&emsp;“(bb) the good otherwise satisfies the requirements specified in such Annex; and
+
+&emsp;&emsp;“(III) the good satisfies all other applicable requirements of this section.
+
+&emsp;“(2)
+
+Requirements.—A good described in paragraph (1)(B)(ii) is an originating good only if the sum of—
+
+&emsp;&emsp;“(A) the value of each material produced in the territory of Morocco or the United States, or both, and
+
+&emsp;&emsp;“(B) the direct costs of processing operations performed in the territory of Morocco or the United States, or both,
+
+> &emsp;is not less than 35 percent of the appraised value of the good at the time the good is entered into the territory of the United States.
+
+“(c)
+
+Cumulation.—
+
+&emsp;“(1)
+
+Originating good or material incorporated into goods of other country.—An originating good or a material produced in the territory of Morocco or the United States, or both, that is incorporated into a good in the territory of the other country shall be considered to originate in the territory of the other country.
+
+&emsp;“(2)
+
+Multiple procedures.—A good that is grown, produced, or manufactured in the territory of Morocco or the United States, or both, by 1 or more producers, is an originating good if the good satisfies the requirements of subsection (b) and all other applicable requirements of this section.
+
+“(d)
+
+Value of Materials.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), the value of a material produced in the territory of Morocco or the United States, or both, includes the following:
+
+&emsp;&emsp;“(A) The price actually paid or payable for the material by the producer of such good.
+
+&emsp;&emsp;“(B) The freight, insurance, packing, and all other costs incurred in transporting the material to the producer's plant, if such costs are not included in the price referred to in subparagraph (A).
+
+&emsp;&emsp;“(C) The cost of waste or spoilage resulting from the use of the material in the growth, production, or manufacture of the good, less the value of recoverable scrap.
+
+&emsp;&emsp;“(D) Taxes or customs duties imposed on the material by Morocco, the United States, or both, if the taxes or customs duties are not remitted upon exportation from the territory of Morocco or the United States, as the case may be.
+
+&emsp;“(2)
+
+Exception.—If the relationship between the producer of a good and the seller of a material influenced the price actually paid or payable for the material, or if there is no price actually paid or payable by the producer for the material, the value of the material produced in the territory of Morocco or the United States, or both, includes the following:
+
+&emsp;&emsp;“(A) All expenses incurred in the growth, production, or manufacture of the material, including general expenses.
+
+&emsp;&emsp;“(B) A reasonable amount for profit.
+
+&emsp;&emsp;“(C) Freight, insurance, packing, and all other costs incurred in transporting the material to the producer's plant.
+
+“(e)
+
+Packaging and Packing Materials and Containers for Retail Sale and for Shipment.—Packaging and packing materials and containers for retail sale and shipment shall be disregarded in determining whether a good qualifies as an originating good, except to the extent that the value of such packaging and packing materials and containers have been included in meeting the requirements set forth in subsection (b)(2).
+
+“(f)
+
+Indirect Materials.—Indirect materials shall be disregarded in determining whether a good qualifies as an originating good, except that the cost of such indirect materials may be included in meeting the requirements set forth in subsection (b)(2).
+
+“(g)
+
+Transit and Transshipment.—A good shall not be considered to meet the requirement of subsection (b)(1)(A) if, after exportation from the territory of Morocco or the United States, the good undergoes production, manufacturing, or any other operation outside the territory of Morocco or the United States, other than unloading, reloading, or any other operation necessary to preserve the good in good condition or to transport the good to the territory of the United States or Morocco.
+
+“(h)
+
+Textile and Apparel Goods.—
+
+&emsp;“(1)
+
+De minimis amounts of nonoriginating materials.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided in subparagraph (B), a textile or apparel good that is not an originating good because certain fibers or yarns used in the production of the component of the good that determines the tariff classification of the good do not undergo an applicable change in tariff classification set out in Annex 4–A of the Agreement shall be considered to be an originating good if the total weight of all such fibers or yarns in that component is not more than 7 percent of the total weight of that component.
+
+&emsp;&emsp;“(B)
+
+Certain textile or apparel goods.—A textile or apparel good containing elastomeric yarns in the component of the good that determines the tariff classification of the good shall be considered to be an originating good only if such yarns are wholly formed in the territory of Morocco or the United States.
+
+&emsp;&emsp;“(C)
+
+Yarn, fabric, or group of fibers.—For purposes of this paragraph, in the case of a textile or apparel good that is a yarn, fabric, or group of fibers, the term ‘component of the good that determines the tariff classification of the good’ means all of the fibers in the yarn, fabric, or group of fibers.
+
+&emsp;“(2)
+
+Goods put up in sets for retail sale.—Notwithstanding the rules set forth in Annex 4–A of the Agreement, textile or apparel goods classifiable as goods put up in sets for retail sale as provided for in General Rule of Interpretation 3 of the HTS shall not be considered to be originating goods unless each of the goods in the set is an originating good or the total value of the nonoriginating goods in the set does not exceed 10 percent of the value of the set determined for purposes of assessing customs duties.
+
+“(i)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Direct costs of processing operations.—
+
+&emsp;&emsp;“(A)
+
+In general.—The term ‘direct costs of processing operations’, with respect to a good, includes, to the extent they are includable in the appraised value of the good when imported into Morocco or the United States, as the case may be, the following:
+
+&emsp;&emsp;&emsp;“(i) All actual labor costs involved in the growth, production, or manufacture of the good, including fringe benefits, on-the-job training, and the costs of engineering, supervisory, quality control, and similar personnel.
+
+&emsp;&emsp;&emsp;“(ii) Tools, dies, molds, and other indirect materials, and depreciation on machinery and equipment that are allocable to the good.
+
+&emsp;&emsp;&emsp;“(iii) Research, development, design, engineering, and blueprint costs, to the extent that they are allocable to the good.
+
+&emsp;&emsp;&emsp;“(iv) Costs of inspecting and testing the good.
+
+&emsp;&emsp;&emsp;“(v) Costs of packaging the good for export to the territory of the other country.
+
+&emsp;&emsp;“(B)
+
+Exceptions.—The term ‘direct costs of processing operations’ does not include costs that are not directly attributable to a good or are not costs of growth, production, or manufacture of the good, such as—
+
+&emsp;&emsp;&emsp;“(i) profit; and
+
+&emsp;&emsp;&emsp;“(ii) general expenses of doing business that are either not allocable to the good or are not related to the growth, production, or manufacture of the good, such as administrative salaries, casualty and liability insurance, advertising, and sales staff salaries, commissions, or expenses.
+
+&emsp;“(2)
+
+Good.—The term ‘good’ means any merchandise, product, article, or material.
+
+&emsp;“(3)
+
+Good wholly the growth, product, or manufacture of morocco, the united states, or both.—The term ‘good wholly the growth, product, or manufacture of Morocco, the United States, or both’ means—
+
+&emsp;&emsp;“(A) a mineral good extracted in the territory of Morocco or the United States, or both;
+
+&emsp;&emsp;“(B) a vegetable good, as such a good is provided for in the HTS, harvested in the territory of Morocco or the United States, or both;
+
+&emsp;&emsp;“(C) a live animal born and raised in the territory of Morocco or the United States, or both;
+
+&emsp;&emsp;“(D) a good obtained from live animals raised in the territory of Morocco or the United States, or both;
+
+&emsp;&emsp;“(E) a good obtained from hunting, trapping, or fishing in the territory of Morocco or the United States, or both;
+
+&emsp;&emsp;“(F) a good (fish, shellfish, and other marine life) taken from the sea by vessels registered or recorded with Morocco or the United States and flying the flag of that country;
+
+&emsp;&emsp;“(G) a good produced from goods referred to in subparagraph (F) on board factory ships registered or recorded with Morocco or the United States and flying the flag of that country;
+
+&emsp;&emsp;“(H) a good taken by Morocco or the United States or a person of Morocco or the United States from the seabed or beneath the seabed outside territorial waters, if Morocco or the United States has rights to exploit such seabed;
+
+&emsp;&emsp;“(I) a good taken from outer space, if such good is obtained by Morocco or the United States or a person of Morocco or the United States and not processed in the territory of a country other than Morocco or the United States;
+
+&emsp;&emsp;“(J) waste and scrap derived from—
+
+&emsp;&emsp;&emsp;“(i) production or manufacture in the territory of Morocco or the United States, or both; or
+
+&emsp;&emsp;&emsp;“(ii) used goods collected in the territory of Morocco or the United States, or both, if such goods are fit only for the recovery of raw materials;
+
+&emsp;&emsp;“(K) a recovered good derived in the territory of Morocco or the United States from used goods and utilized in the territory of that country in the production of remanufactured goods; and
+
+&emsp;&emsp;“(L) a good produced in the territory of Morocco or the United States, or both, exclusively—
+
+&emsp;&emsp;&emsp;“(i) from goods referred to in subparagraphs (A) through (J), or
+
+&emsp;&emsp;&emsp;“(ii) from the derivatives of goods referred to in clause (i),
+
+&nbsp;&nbsp;at any stage of production.
+
+&emsp;“(4)
+
+Indirect material.—The term ‘indirect material’ means a good used in the growth, production, manufacture, testing, or inspection of a good but not physically incorporated into the good, or a good used in the maintenance of buildings or the operation of equipment associated with the growth, production, or manufacture of a good, including—
+
+&emsp;&emsp;“(A) fuel and energy;
+
+&emsp;&emsp;“(B) tools, dies, and molds;
+
+&emsp;&emsp;“(C) spare parts and materials used in the maintenance of equipment and buildings;
+
+&emsp;&emsp;“(D) lubricants, greases, compounding materials, and other materials used in the growth, production, or manufacture of a good or used to operate equipment and buildings;
+
+&emsp;&emsp;“(E) gloves, glasses, footwear, clothing, safety equipment, and supplies;
+
+&emsp;&emsp;“(F) equipment, devices, and supplies used for testing or inspecting the good;
+
+&emsp;&emsp;“(G) catalysts and solvents; and
+
+&emsp;&emsp;“(H) any other goods that are not incorporated into the good but the use of which in the growth, production, or manufacture of the good can reasonably be demonstrated to be a part of that growth, production, or manufacture.
+
+&emsp;“(5)
+
+Material.—The term ‘material’ means a good, including a part or ingredient, that is used in the growth, production, or manufacture of another good that is a new or different article of commerce that has been grown, produced, or manufactured in Morocco, the United States, or both.
+
+&emsp;“(6)
+
+Material produced in the territory of morocco or the united states, or both.—The term ‘material produced in the territory of Morocco or the United States, or both’ means a good that is either wholly the growth, product, or manufacture of Morocco, the United States, or both, or a new or different article of commerce that has been grown, produced, or manufactured in the territory of Morocco or the United States, or both.
+
+&emsp;“(7)
+
+New or different article of commerce.—
+
+&emsp;&emsp;“(A)
+
+In general.—The term ‘new or different article of commerce’ means, except as provided in subparagraph (B), a good that—
+
+&emsp;&emsp;&emsp;“(i) has been substantially transformed from a good or material that is not wholly the growth, product, or manufacture of Morocco, the United States, or both; and
+
+&emsp;&emsp;&emsp;“(ii) has a new name, character, or use distinct from the good or material from which it was transformed.
+
+&emsp;&emsp;“(B)
+
+Exception.—A good shall not be considered a new or different article of commerce by virtue of having undergone simple combining or packaging operations, or mere dilution with water or another substance that does not materially alter the characteristics of the good.
+
+&emsp;“(8)
+
+Recovered goods.—The term ‘recovered goods’ means materials in the form of individual parts that result from—
+
+&emsp;&emsp;“(A) the complete disassembly of used goods into individual parts; and
+
+&emsp;&emsp;“(B) the cleaning, inspecting, testing, or other processing of those parts that is necessary for improvement to sound working condition.
+
+&emsp;“(9)
+
+Remanufactured good.—The term ‘remanufactured good’ means an industrial good that is assembled in the territory of Morocco or the United States and that—
+
+&emsp;&emsp;“(A) is entirely or partially comprised of recovered goods;
+
+&emsp;&emsp;“(B) has a similar life expectancy to, and meets similar performance standards as, a like good that is new; and
+
+&emsp;&emsp;“(C) enjoys a factory warranty similar to that of a like good that is new.
+
+&emsp;“(10)
+
+Simple combining or packaging operations.—The term ‘simple combining or packaging operations’ means operations such as adding batteries to electronic devices, fitting together a small number of components by bolting, gluing, or soldering, or packing or repacking components together.
+
+&emsp;“(11)
+
+Substantially transformed.—The term ‘substantially transformed’ means, with respect to a good or material, changed as the result of a manufacturing or processing operation so that—
+
+&emsp;&emsp;“(A)(i) the good or material is converted from a good that has multiple uses into a good or material that has limited uses;
+
+&emsp;&emsp;“(ii) the physical properties of the good or material are changed to a significant extent; or
+
+&emsp;&emsp;“(iii) the operation undergone by the good or material is complex by reason of the number of processes and materials involved and the time and level of skill required to perform those processes; and
+
+&emsp;&emsp;“(B) the good or material loses its separate identity in the manufacturing or processing operation.
+
+“(j)
+
+Presidential Proclamation Authority.—
+
+&emsp;“(1)
+
+In general.—The President is authorized to proclaim, as part of the HTS—
+
+&emsp;&emsp;“(A) the provisions set out in Annex 4–A and Annex 5–A of the Agreement; and
+
+&emsp;&emsp;“(B) any additional subordinate category necessary to carry out this title consistent with the Agreement.
+
+&emsp;“(2)
+
+Modifications.—
+
+&emsp;&emsp;“(A)
+
+In general.—Subject to the consultation and layover provisions of section 104, the President may proclaim modifications to the provisions proclaimed under the authority of paragraph (1)(A), other than provisions of chapters 50 through 63 of the HTS, as included in Annex 4–A of the Agreement.
+
+&emsp;&emsp;“(B)
+
+Additional proclamations.—Notwithstanding subparagraph (A), and subject to the consultation and layover provisions of section 104, the President may proclaim—
+
+&emsp;&emsp;&emsp;“(i) modifications to the provisions proclaimed under the authority of paragraph (1)(A) as are necessary to implement an agreement with Morocco pursuant to article 4.3.6 of the Agreement; and
+
+&emsp;&emsp;&emsp;“(ii) before the end of the 1-year period beginning on the date of the enactment of this Act \[Aug. 17, 2004\], modifications to correct any typographical, clerical, or other nonsubstantive technical error regarding the provisions of chapters 50 through 63 of the HTS, as included in Annex 4–A of the Agreement.
+
+#### “SEC. 204. ENFORCEMENT RELATING TO TRADE IN TEXTILE AND APPAREL GOODS.
+
+“(a)
+
+Action During Verification.—
+
+&emsp;“(1)
+
+In general.—If the Secretary of the Treasury requests the Government of Morocco to conduct a verification pursuant to article 4.4 of the Agreement for purposes of making a determination under paragraph (2), the President may direct the Secretary to take appropriate action described in subsection (b) while the verification is being conducted.
+
+&emsp;“(2)
+
+Determination.—A determination under this paragraph is a determination—
+
+&emsp;&emsp;“(A) that an exporter or producer in Morocco is complying with applicable customs laws, regulations, procedures, requirements, or practices affecting trade in textile or apparel goods; or
+
+&emsp;&emsp;“(B) that a claim that a textile or apparel good exported or produced by such exporter or producer—
+
+&emsp;&emsp;&emsp;“(i) qualifies as an originating good under section 203 of this Act, or
+
+&emsp;&emsp;&emsp;“(ii) is a good of Morocco,
+
+&nbsp;&nbsp;is accurate.
+
+“(b)
+
+Appropriate Action Described.—Appropriate action under subsection (a)(1) includes—
+
+&emsp;“(1) suspension of liquidation of the entry of any textile or apparel good exported or produced by the person that is the subject of a verification referred to in subsection (a)(1) regarding compliance described in subsection (a)(2)(A), in a case in which the request for verification was based on a reasonable suspicion of unlawful activity related to such goods; and
+
+&emsp;“(2) suspension of liquidation of the entry of a textile or apparel good for which a claim has been made that is the subject of a verification referred to in subsection (a)(1) regarding a claim described in subsection (a)(2)(B).
+
+“(c)
+
+Action When Information is Insufficient.—If the Secretary of the Treasury determines that the information obtained within 12 months after making a request for a verification under subsection (a)(1) is insufficient to make a determination under subsection (a)(2), the President may direct the Secretary to take appropriate action described in subsection (d) until such time as the Secretary receives information sufficient to make a determination under subsection (a)(2) or until such earlier date as the President may direct.
+
+“(d)
+
+Appropriate Action Described.—Appropriate action referred to in subsection (c) includes—
+
+&emsp;“(1) publication of the name and address of the person that is the subject of the verification;
+
+&emsp;“(2) denial of preferential tariff treatment under the Agreement to—
+
+&emsp;&emsp;“(A) any textile or apparel good exported or produced by the person that is the subject of a verification referred to in subsection (a)(1) regarding compliance described in subsection (a)(2)(A); or
+
+&emsp;&emsp;“(B) a textile or apparel good for which a claim has been made that is the subject of a verification referred to in subsection (a)(1) regarding a claim described in subsection (a)(2)(B); and
+
+&emsp;“(3) denial of entry into the United States of—
+
+&emsp;&emsp;“(A) any textile or apparel good exported or produced by the person that is the subject of a verification referred to in subsection (a)(1) regarding compliance described in subsection (a)(2)(A); or
+
+&emsp;&emsp;“(B) a textile or apparel good for which a claim has been made that is the subject of a verification referred to in subsection (a)(1) regarding a claim described in subsection (a)(2)(B).
+
+#### “SEC. 205. REGULATIONS.
+
+“The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out—
+
+&emsp;“(1) subsections (a) through (i) of section 203;
+
+&emsp;“(2) amendments to existing law made by the subsections referred to in paragraph (1); and
+
+&emsp;“(3) proclamations issued under section 203(j).
+
+#### “TITLE III—RELIEF FROM IMPORTS
+
+#### “SEC. 301. DEFINITIONS.
+
+“In this title:
+
+&emsp;“(1)
+
+Moroccan article.—The term ‘Moroccan article’ means an article that qualifies as an originating good under section 203(b) of this Act or receives preferential tariff treatment under paragraphs 9 through 15 of article 4.3 of the Agreement.
+
+&emsp;“(2)
+
+Moroccan textile or apparel article.—The term ‘Moroccan textile or apparel article’ means an article that—
+
+&emsp;&emsp;“(A) is listed in the Annex to the Agreement on Textiles and Clothing referred to in section 101(d)(4) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(4)); and
+
+&emsp;&emsp;“(B) is a Moroccan article.
+
+&emsp;“(3)
+
+Commission.—The term ‘Commission’ means the United States International Trade Commission.
+
+#### “Subtitle A—Relief From Imports Benefiting From the Agreement
+
+#### “SEC. 311. COMMENCING OF ACTION FOR RELIEF.
+
+“(a)
+
+Filing of Petition.—
+
+&emsp;“(1)
+
+In general.—A petition requesting action under this subtitle for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with the Commission by an entity, including a trade association, firm, certified or recognized union, or group of workers, that is representative of an industry. The Commission shall transmit a copy of any petition filed under this subsection to the United States Trade Representative.
+
+&emsp;“(2)
+
+Provisional relief.—An entity filing a petition under this subsection may request that provisional relief be provided as if the petition had been filed under section 202(a) of the Trade Act of 1974 (19 U.S.C. 2252(a)).
+
+&emsp;“(3)
+
+Critical circumstances.—Any allegation that critical circumstances exist shall be included in the petition.
+
+“(b)
+
+Investigation and Determination.—Upon the filing of a petition under subsection (a), the Commission, unless subsection (d) applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided for under the Agreement, a Moroccan article is being imported into the United States in such increased quantities, in absolute terms or relative to domestic production, and under such conditions that imports of the Moroccan article constitute a substantial cause of serious injury or threat thereof to the domestic industry producing an article that is like, or directly competitive with, the imported article.
+
+“(c)
+
+Applicable Provisions.—The following provisions of section 202 of the Trade Act of 1974 (19 U.S.C. 2252) apply with respect to any investigation initiated under subsection (b):
+
+&emsp;“(1) Paragraphs (1)(B) and (3) of subsection (b).
+
+&emsp;“(2) Subsection (c).
+
+&emsp;“(3) Subsection (d).
+
+&emsp;“(4) Subsection (i).
+
+“(d)
+
+Articles Exempt From Investigation.—No investigation may be initiated under this section with respect to any Moroccan article if, after the date on which the Agreement enters into force \[July 1, 2005\], import relief has been provided with respect to that Moroccan article under this subtitle.
+
+#### “SEC. 312. COMMISSION ACTION ON PETITION.
+
+“(a)
+
+Determination.—Not later than 120 days (180 days if critical circumstances have been alleged) after the date on which an investigation is initiated under section 311(b) with respect to a petition, the Commission shall make the determination required under that section.
+
+“(b)
+
+Applicable Provisions.—For purposes of this subtitle, the provisions of paragraphs (1), (2), and (3) of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d) (1), (2), and (3)) shall be applied with respect to determinations and findings made under this section as if such determinations and findings were made under section 202 of the Trade Act of 1974 (19 U.S.C. 2252).
+
+“(c)
+
+Additional Finding and Recommendation if Determination Affirmative.—If the determination made by the Commission under subsection (a) with respect toimports of an article is affirmative, or if the President may consider a determination of the Commission to be an affirmative determination as provided for under paragraph (1) of section 330(d) of the Tariff Act of 1930) (19 U.S.C. 1330(d)), the Commission shall find, and recommend to the President in the report required under subsection (d), the amount of import relief that is necessary to remedy or prevent the injury found by the Commission in the determination and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition. The import relief recommended by the Commission under this subsection shall be limited to that described in section 313(c). Only those members of the Commission who voted in the affirmative under subsection (a) are eligible to vote on the proposed action to remedy or prevent the injury found by the Commission. Members of the Commission who did not vote in the affirmative may submit, in the report required under subsection (d), separate views regarding what action, if any, should be taken to remedy or prevent the injury.
+
+“(d)
+
+Report to President.—Not later than the date that is 30 days after the date on which a determination is made under subsection (a) with respect to an investigation, the Commission shall submit to the President a report that includes—
+
+&emsp;“(1) the determination made under subsection (a) and an explanation of the basis for the determination;
+
+&emsp;“(2) if the determination under subsection (a) is affirmative, any findings and recommendations for import relief made under subsection (c) and an explanation of the basis for each recommendation; and
+
+&emsp;“(3) any dissenting or separate views by members of the Commission regarding the determination and recommendation referred to in paragraphs (1) and (2).
+
+“(e)
+
+Public Notice.—Upon submitting a report to the President under subsection (d), the Commission shall promptly make public such report (with the exception of information which the Commission determines to be confidential) and shall cause a summary thereof to be published in the Federal Register.
+
+#### “SEC. 313. PROVISION OF RELIEF.
+
+“(a)
+
+In General.—Not later than the date that is 30 days after the date on which the President receives the report of the Commission in which the Commission's determination under section 312(a) is affirmative, or which contains a determination under section 312(a) that the President considers to be affirmative under paragraph (1) of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d)(1)), the President, subject to subsection (b), shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to remedy or prevent the injury found by the Commission and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition.
+
+“(b)
+
+Exception.—The President is not required to provide import relief under this section if the President determines that the provision of the import relief will not provide greater economic and social benefits than costs.
+
+“(c)
+
+Nature of Relief.—
+
+&emsp;“(1)
+
+In general.—The import relief (including provisional relief) that the President is authorized to provide under this section with respect to imports of an article is as follows:
+
+&emsp;&emsp;“(A) The suspension of any further reduction provided for under Annex IV of the Agreement in the duty imposed on such article.
+
+&emsp;&emsp;“(B) An increase in the rate of duty imposed on such article to a level that does not exceed the lesser of—
+
+&emsp;&emsp;&emsp;“(i) the column 1 general rate of duty imposed under the HTS on like articles at the time the import relief is provided; or
+
+&emsp;&emsp;&emsp;“(ii) the column 1 general rate of duty imposed under the HTS on like articles on the day before the date on which the Agreement enters into force \[July 1, 2005\].
+
+&emsp;&emsp;“(C) In the case of a duty applied on a seasonal basis to such article, an increase in the rate of duty imposed on the article to a level that does not exceed the lesser of—
+
+&emsp;&emsp;&emsp;“(i) the column 1 general rate of duty imposed under the HTS on like articles for the immediately preceding corresponding season; or
+
+&emsp;&emsp;&emsp;“(ii) the column 1 general rate of duty imposed under the HTS on like articles on the day before the date on which the Agreement enters into force.
+
+&emsp;“(2)
+
+Progressive liberalization.—If the period for which import relief is provided under this section is greater than 1 year, the President shall provide for the progressive liberalization of such relief at regular intervals during the period in which the relief is in effect.
+
+“(d)
+
+Period of Relief.—
+
+&emsp;“(1)
+
+In general.—Subject to paragraph (2), any import relief that the President provides under this section may not be in effect for more than 3 years.
+
+&emsp;“(2)
+
+Extension.—
+
+&emsp;&emsp;“(A)
+
+In general.—Subject to subparagraph (C), the President, after receiving an affirmative determination from the Commission under subparagraph (B), may extend the effective period of any import relief provided under this section if the President determines that—
+
+&emsp;&emsp;&emsp;“(i) the import relief continues to be necessary to remedy or prevent serious injury and to facilitate adjustment by the domestic industry to import competition; and
+
+&emsp;&emsp;&emsp;“(ii) there is evidence that the industry is making a positive adjustment to import competition.
+
+&emsp;&emsp;“(B)
+
+Action by commission.—(i) Upon a petition on behalf of the industry concerned that is filed with the Commission not earlier than the date which is 9 months, and not later than the date which is 6 months, before the date any action taken under subsection (a) is to terminate, the Commission shall conduct an investigation to determine whether action under this section continues to be necessary to remedy or prevent serious injury and to facilitate adjustment by the domestic industry to import competition and whether there is evidence that the industry is making a positive adjustment to import competition.
+
+&emsp;&emsp;“(ii) The Commission shall publish notice of the commencement of any proceeding under this subparagraph in the Federal Register and shall, within a reasonable time thereafter, hold a public hearing at which the Commission shall afford interested parties and consumers an opportunity to be present, to present evidence, and to respond to the presentations of other parties and consumers, and otherwise to be heard.
+
+&emsp;&emsp;“(iii) The Commission shall transmit to the President a report on its investigation and determination under this subparagraph not later than 60 days before the action under subsection (a) is to terminate, unless the President specifies a different date.
+
+&emsp;&emsp;“(C)
+
+Period of import relief.—Any import relief provided under this section, including any extensions thereof, may not, in the aggregate, be in effect for more than 5 years.
+
+“(e)
+
+Rate After Termination of Import Relief.—When import relief under this section is terminated with respect to an article, the rate of duty on that article shall be the rate that would have been in effect, but for the provision of such relief, on the date on which the relief terminates.
+
+“(f)
+
+Articles Exempt From Relief.—No import relief may be provided under this section on any article that—
+
+&emsp;“(1) is subject to an assessment of additional duty under section 202(b); or
+
+&emsp;“(2) has been subject to import relief under this subtitle after the date on which the Agreement enters into force \[July 1, 2005\].
+
+#### “SEC. 314. TERMINATION OF RELIEF AUTHORITY.
+
+“(a)
+
+General Rule.—Subject to subsection (b), no import relief may be provided under this subtitle with respect to a good after the date that is 5 years after the date on which duty-free treatment must be provided by the United States to that good pursuant to Annex IV of the Agreement.
+
+“(b)
+
+Presidential Determination.—Import relief may be provided under this subtitle in the case of a Moroccan article after the date on which such relief would, but for this subsection, terminate under subsection (a), if the President determines that Morocco has consented to such relief.
+
+#### “SEC. 315. COMPENSATION AUTHORITY.
+
+“For purposes of section 123 of the Trade Act of 1974 (19 U.S.C. 2133), any import relief provided by the President under section 313 shall be treated as action taken under chapter 1 of title II of such Act \[19 U.S.C. 2251 et seq.\].
+
+#### “SEC. 316. CONFIDENTIAL BUSINESS INFORMATION.
+
+\[Amended section 2252 of this title.\]
+
+#### “Subtitle B—Textile and Apparel Safeguard Measures
+
+#### “SEC. 321. COMMENCEMENT OF ACTION FOR RELIEF.
+
+“(a)
+
+In General.—A request under this subtitle for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with the President by an interested party. Upon the filing of a request, the President shall review the request to determine, from information presented in the request, whether to commence consideration of the request.
+
+“(b)
+
+Publication of Request.—If the President determines that the request under subsection (a) provides the information necessary for the request to be considered, the President shall cause to be published in the Federal Register a notice of commencement of consideration of the request, and notice seeking public comments regarding the request. The notice shall include a summary of the request and the dates by which comments and rebuttals must be received.
+
+#### “SEC. 322. DETERMINATION AND PROVISION OF RELIEF.
+
+“(a)
+
+Determination.—
+
+&emsp;“(1)
+
+In general.—If a positive determination is made under section 321(b), the President shall determine whether, as a result of the reduction or elimination of a duty under the Agreement, a Moroccan textile or apparel article is being imported into the United States in such increased quantities, in absolute terms or relative to the domestic market for that article, and under such conditions as to cause serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article.
+
+&emsp;“(2)
+
+Serious damage.—In making a determination under paragraph (1), the President—
+
+&emsp;&emsp;“(A) shall examine the effect of increased imports on the domestic industry, as reflected in changes in such relevant economic factors as output, productivity, utilization of capacity, inventories, market share, exports, wages, employment, domestic prices, profits, and investment, none of which is necessarily decisive; and
+
+&emsp;&emsp;“(B) shall not consider changes in technology or consumer preference as factors supporting a determination of serious damage or actual threat thereof.
+
+“(b)
+
+Provision of Relief.—
+
+&emsp;“(1)
+
+In general.—If a determination under subsection (a) is affirmative, the President may provide relief from imports of the article that is the subject of such determination, as described in paragraph (2), to the extent that the President determines necessary to remedy or prevent the serious damage and to facilitate adjustment by the domestic industry to import competition.
+
+&emsp;“(2)
+
+Nature of relief.—The relief that the President is authorized to provide under this subsection with respect to imports of an article is an increase in the rate of duty imposed on the article to a level that does not exceed the lesser of—
+
+&emsp;&emsp;“(A) the column 1 general rate of duty imposed under the HTS on like articles at the time the import relief is provided; or
+
+&emsp;&emsp;“(B) the column 1 general rate of duty imposed under the HTS on like articles on the day before the date on which the Agreement enters into force \[July 1, 2005\].
+
+#### “SEC. 323. PERIOD OF RELIEF.
+
+“(a)
+
+In General.—Subject to subsection (b), the import relief that the President provides under subsection (b) of section 322 may not, in the aggregate, be in effect for more than 3 years.
+
+“(b)
+
+Extension.—
+
+&emsp;“(1)
+
+In General.—Subject to paragraph (2), the President may extend the effective period of any import relief provided under this subtitle for a period of not more than 2 years, if the President determines that—
+
+&emsp;&emsp;“(A) the import relief continues to be necessary to remedy or prevent serious damage and to facilitate adjustment by the domestic industry to import competition; and
+
+&emsp;&emsp;“(B) there is evidence that the industry is making a positive adjustment to import competition.
+
+&emsp;“(2)
+
+Limitation.—Any relief provided under this subtitle, including any extensions thereof, may not, in the aggregate, be in effect for more than 5 years.
+
+#### “SEC. 324. ARTICLES EXEMPT FROM RELIEF.
+
+“The President may not provide import relief under this subtitle with respect to any article if—
+
+&emsp;“(1) the article has been subject to import relief under this subtitle after the date on which the Agreement enters into force \[July 1, 2005\]; or
+
+&emsp;“(2) the article is subject to import relief under chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\].
+
+#### “SEC. 325. RATE AFTER TERMINATION OF IMPORT RELIEF.
+
+“When import relief under this subtitle is terminated with respect to an article, the rate of duty on that article shall be the rate that would have been in effect, but for the provision of such relief, on the date on which the relief terminates.
+
+#### “SEC. 326. TERMINATION OF RELIEF AUTHORITY.
+
+“No import relief may be provided under this subtitle with respect to any article after the date that is 10 years after the date on which duties on the article are eliminated pursuant to the Agreement.
+
+#### “SEC. 327. COMPENSATION AUTHORITY.
+
+“For purposes of section 123 of the Trade Act of 1974 (19 U.S.C. 2133), any import relief provided by the President under this subtitle shall be treated as action taken under chapter 1 of title II of such Act \[19 U.S.C. 2251 et seq.\].
+
+#### “SEC. 328. BUSINESS CONFIDENTIAL INFORMATION.
+
+“The President may not release information which is submitted in a proceeding under this subtitle and which the President considers to be confidential business information unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released, or such party subsequently consents to the release of the information. To the extent a party submits confidential business information to the President in a proceeding under this subtitle, the party also shall submit a nonconfidential version of the information, in which the confidential business information is summarized or, if necessary, deleted.”
+
+\[The Harmonized Tariff Schedule of the United States is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.\]
+
+#### United States-Australia Free Trade Agreement Implementation Act
+
+Pub. L. 108–286, Aug. 3, 2004, 118 Stat. 919, provided that:
+
+#### “SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+“(a)
+
+Short Title.—This Act may be cited as the ‘United States-Australia Free Trade Agreement Implementation Act’.
+
+(b)
+
+Table of Contents.—\[Omitted.\]
+
+#### “SEC. 2. PURPOSES.
+
+“The purposes of this Act are—
+
+&emsp;“(1) to approve and implement the Free Trade Agreement between the United States and Australia, entered into under the authority of section 2103(b) of the Bipartisan Trade Promotion Authority Act of 2002 (19 U.S.C. 3803(b));
+
+&emsp;“(2) to strengthen and develop economic relations between the United States and Australia for their mutual benefit;
+
+&emsp;“(3) to establish free trade between the 2 nations through the reduction and elimination of barriers to trade in goods and services and to investment; and
+
+&emsp;“(4) to lay the foundation for further cooperation to expand and enhance the benefits of such Agreement.
+
+#### “SEC. 3. DEFINITIONS.
+
+“In this Act:
+
+&emsp;“(1)
+
+Agreement.—The term ‘Agreement’ means the United States-Australia Free Trade Agreement approved by Congress under section 101(a)(1).
+
+&emsp;“(2) HTS.—The term ‘HTS’ means the Harmonized Tariff Schedule of the United States.
+
+&emsp;“(3)
+
+Textile or apparel good.—The term ‘textile or apparel good’ means a good listed in the Annex to the Agreement on Textiles and Clothing referred to in section 101(d)(4) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(4)).
+
+#### “TITLE I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, THE AGREEMENT
+
+#### “SEC. 101. APPROVAL AND ENTRY INTO FORCE OF THE AGREEMENT.
+
+“(a)
+
+Approval of Agreement and Statement of Administrative Action.—Pursuant to section 2105 of the Bipartisan Trade Promotion Authority Act of 2002 (19 U.S.C. 3805) and section 151 of the Trade Act of 1974 (19 U.S.C. 2191), Congress approves—
+
+&emsp;“(1) the United States-Australia Free Trade Agreement entered into on May 18, 2004, with the Government of Australia and submitted to Congress on July 6, 2004; and
+
+&emsp;“(2) the statement of administrative action proposed to implement the Agreement that was submitted to Congress on July 6, 2004.
+
+“(b)
+
+Conditions for Entry Into Force of the Agreement.—At such time as the President determines that Australia has taken measures necessary to bring it into compliance with those provisions of the Agreement that are to take effect on the date on which the Agreement enters into force \[Jan. 1, 2005\], the President is authorized to exchange notes with the Government of Australia providing for the entry into force, on or after January 1, 2005, of the Agreement with respect to the United States.
+
+#### “SEC. 102. RELATIONSHIP OF THE AGREEMENT TO UNITED STATES AND STATE LAW.
+
+“(a)
+
+Relationship of Agreement to United States Law.—
+
+&emsp;“(1)
+
+United states law to prevail in conflict.—No provision of the Agreement, nor the application of any such provision to any person or circumstance, which is inconsistent with any law of the United States shall have effect.
+
+&emsp;“(2)
+
+Construction.—Nothing in this Act shall be construed—
+
+&emsp;&emsp;“(A) to amend or modify any law of the United States, or
+
+&emsp;&emsp;“(B) to limit any authority conferred under any law of the United States,
+
+> &emsp;unless specifically provided for in this Act.
+
+“(b)
+
+Relationship of Agreement to State Law.—
+
+&emsp;“(1)
+
+Legal challenge.—No State law, or the application thereof, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with the Agreement, except in an action brought by the United States for the purpose of declaring such law or application invalid.
+
+&emsp;“(2)
+
+Definition of state law.—For purposes of this subsection, the term ‘State law’ includes—
+
+&emsp;&emsp;“(A) any law of a political subdivision of a State; and
+
+&emsp;&emsp;“(B) any State law regulating or taxing the business of insurance.
+
+“(c)
+
+Effect of Agreement With Respect to Private Remedies.—No person other than the United States—
+
+&emsp;“(1) shall have any cause of action or defense under the Agreement or by virtue of congressional approval thereof; or
+
+&emsp;“(2) may challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State, or any political subdivision of a State, on the ground that such action or inaction is inconsistent with the Agreement.
+
+#### “SEC. 103. IMPLEMENTING ACTIONS IN ANTICIPATION OF ENTRY INTO FORCE AND INITIAL REGULATIONS.
+
+“(a)
+
+Implementing Actions.—
+
+&emsp;“(1)
+
+Proclamation authority.—After the date of the enactment of this Act \[Aug. 3, 2004\]—
+
+&emsp;&emsp;“(A) the President may proclaim such actions, and
+
+&emsp;&emsp;“(B) other appropriate officers of the United States Government may issue such regulations,
+
+> &emsp;as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date the Agreement enters into force \[Jan. 1, 2005\] is appropriately implemented on such date, but no such proclamation or regulation may have an effective date earlier than the date on which the Agreement enters into force.
+
+&emsp;“(2)
+
+Effective date of certain proclaimed actions.—Any action proclaimed by the President under the authority of this Act that is not subject to the consultation and layover provisions under section 104, may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
+
+&emsp;“(3)
+
+Waiver of 15-day restriction.—The 15-day restriction in paragraph (2) on the taking effect of proclaimed actions is waived to the extent that the application of such restriction would prevent the taking effect on the date the Agreement enters into force \[Jan. 1, 2005\] of any action proclaimed under this section.
+
+“(b)
+
+Initial Regulations.—Initial regulations necessary or appropriate to carry out the actions required by or authorized under this Act or proposed in the statement of administrative action submitted under section 101(a)(2) to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date on which the Agreement enters into force. In the case of any implementing action that takes effect on a date after the date on which the Agreement enters into force \[Jan. 1, 2005\], initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
+
+#### “SEC. 104. CONSULTATION AND LAYOVER PROVISIONS FOR, AND EFFECTIVE DATE OF, PROCLAIMED ACTIONS.
+
+“If a provision of this Act provides that the implementation of an action by the President by proclamation is subject to the consultation and layover requirements of this section, such action may be proclaimed only if—
+
+&emsp;“(1) the President has obtained advice regarding the proposed action from—
+
+&emsp;&emsp;“(A) the appropriate advisory committees established under section 135 of the Trade Act of 1974 (19 U.S.C. 2155); and
+
+&emsp;&emsp;“(B) the United States International Trade Commission;
+
+&emsp;“(2) the President has submitted a report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives that sets forth—
+
+&emsp;&emsp;“(A) the action proposed to be proclaimed and the reasons therefor; and
+
+&emsp;&emsp;“(B) the advice obtained under paragraph (1);
+
+&emsp;“(3) a period of 60 calendar days, beginning on the first day on which the requirements set forth in paragraphs (1) and (2) have been met has expired; and
+
+&emsp;“(4) the President has consulted with such Committees regarding the proposed action during the period referred to in paragraph (3).
+
+#### “SEC. 105. ADMINISTRATION OF DISPUTE SETTLEMENT PROCEEDINGS.
+
+“(a)
+
+Establishment or Designation of Office.—The President is authorized to establish or designate within the Department of Commerce an office that shall be responsible for providing administrative assistance to panels established under chapter 21 of the Agreement. The office may not be considered to be an agency for purposes of section 552 of title 5, United States Code.
+
+“(b)
+
+Authorization of Appropriations.—There are authorized to be appropriated for each fiscal year after fiscal year 2004 to the Department of Commerce such sums as may be necessary for the establishment and operations of the office under subsection (a) and for the payment of the United States share of the expenses of panels established under chapter 21 of the Agreement.
+
+#### “SEC. 106. EFFECTIVE DATES; EFFECT OF TERMINATION.
+
+“(a)
+
+Effective Dates.—Except as provided in subsection (b), the provisions of this Act and the amendments made by this Act take effect on the date on which the Agreement enters into force \[Jan. 1, 2005\].
+
+“(b)
+
+Exceptions.—Sections 1 through 3 and this title take effect on the date of the enactment of this Act \[Aug. 3, 2004\].
+
+“(c)
+
+Termination of the Agreement.—On the date on which the Agreement terminates, the provisions of this Act (other than this subsection) and the amendments made by this Act shall cease to be effective.
+
+#### “TITLE II—CUSTOMS PROVISIONS
+
+#### “SEC. 201. TARIFF MODIFICATIONS.
+
+“(a)
+
+Tariff Modifications Provided for in the Agreement.—The President may proclaim—
+
+&emsp;“(1) such modifications or continuation of any duty,
+
+&emsp;“(2) such continuation of duty-free or excise treatment, or
+
+&emsp;“(3) such additional duties,
+
+> as the President determines to be necessary or appropriate to carry out or apply articles 2.3, 2.5, and 2.6, and Annex 2–B of the Agreement.
+
+“(b)
+
+Other Tariff Modifications.—Subject to the consultation and layover provisions of section 104, the President may proclaim—
+
+&emsp;“(1) such modifications or continuation of any duty,
+
+&emsp;“(2) such modifications as the United States may agree to with Australia regarding the staging of any duty treatment set forth in Annex 2–B of the Agreement,
+
+&emsp;“(3) such continuation of duty-free or excise treatment, or
+
+&emsp;“(4) such additional duties,
+
+> as the President determines to be necessary or appropriate to maintain the general level of reciprocal and mutually advantageous concessions with respect to Australia provided for by the Agreement.
+
+“(c)
+
+Conversion to Ad Valorem Rates.—For purposes of subsections (a) and (b), with respect to any good for which the base rate in the Schedule of the United States to Annex 2–B of the Agreement is a specific or compound rate of duty, the President may substitute for the base rate an ad valorem rate that the President determines to be equivalent to the base rate.
+
+#### “SEC. 202. ADDITIONAL DUTIES ON CERTAIN AGRICULTURAL GOODS.
+
+“(a)
+
+General Provisions.—
+
+&emsp;“(1)
+
+Applicability of subsection.—This subsection applies to additional duties assessed under subsections (b), (c), and (d).
+
+&emsp;“(2)
+
+Applicable ntr (mfn) rate of duty.—For purposes of subsections (b), (c), and (d), the term ‘applicable NTR (MFN) rate of duty’ means, with respect to a safeguard good, a rate of duty that is the lesser of—
+
+&emsp;&emsp;“(A) the column 1 general rate of duty that would have been imposed under the HTS on the same safeguard good entered, without a claim for preferential treatment, at the time the additional duty is imposed under subsection (b), (c), or (d), as the case may be; or
+
+&emsp;&emsp;“(B) the column 1 general rate of duty that would have been imposed under the HTS on the same safeguard good entered, without a claim for preferential treatment, on December 31, 2004.
+
+&emsp;“(3)
+
+Schedule rate of duty.—For purposes of subsections (b) and (c), the term ‘schedule rate of duty’ means, with respect to a safeguard good, the rate of duty for that good set out in the Schedule of the United States to Annex 2–B of the Agreement.
+
+&emsp;“(4)
+
+Safeguard good.—In this subsection, the term ‘safeguard good’ means—
+
+&emsp;&emsp;“(A) a horticulture safeguard good described \[in\] subsection (b)(1)(B); or
+
+&emsp;&emsp;“(B) a beef safeguard good described in subsection (c)(1) or subsection (d)(1)(A).
+
+&emsp;“(5)
+
+Exceptions.—No additional duty shall be assessed on a good under subsection (b), (c), or (d) if, at the time of entry, the good is subject to import relief under—
+
+&emsp;&emsp;“(A) subtitle A of title III of this Act; or
+
+&emsp;&emsp;“(B) chapter 1 of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.).
+
+&emsp;“(6)
+
+Termination.—The assessment of an additional duty on a good under subsection (b) or (c), whichever is applicable, shall cease to apply to that good on the date on which duty-free treatment must be provided to that good under the Schedule of the United States to Annex 2–B of the Agreement.
+
+&emsp;“(7)
+
+Notice.—Not later than 60 days after the date on which the Secretary of the Treasury assesses an additional duty on a good under subsection (b), (c), or (d), the Secretary shall notify the Government of Australia in writing of such action and shall provide to that Government data supporting the assessment of the additional duty.
+
+“(b)
+
+Additional Duties on Horticulture Safeguard Goods.—
+
+&emsp;“(1)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;“(A) F.O.B.—The term ‘F.O.B.’ means free on board, regardless of the mode of transportation, at the point of direct shipment by the seller to the buyer.
+
+&emsp;&emsp;“(B)
+
+Horticulture safeguard good.—The term ‘horticulture safeguard good’ means a good—
+
+&emsp;&emsp;&emsp;“(i) that qualifies as an originating good under section 203;
+
+&emsp;&emsp;&emsp;“(ii) that is included in the United States Horticulture Safeguard List set forth in Annex 3–A of the Agreement; and
+
+&emsp;&emsp;&emsp;“(iii) for which a claim for preferential treatment under the Agreement has been made.
+
+&emsp;&emsp;“(C)
+
+Unit import price.—The ‘unit import price’ of a good means the price of the good determined on the basis of the F.O.B. import price of the good, expressed in either dollars per kilogram or dollars per liter, whichever unit of measure is indicated for the good in the United States Horticulture Safeguard List set forth in Annex 3–A of the Agreement.
+
+&emsp;&emsp;“(D)
+
+Trigger price.—The ‘trigger price’ for a good is the trigger price indicated for that good in the United States Horticulture Safeguard List set forth in Annex 3–A of the Agreement or any amendment thereto.
+
+&emsp;“(2)
+
+Additional duties.—In addition to any duty proclaimed under subsection (a) or (b) of section 201, and subject to subsection (a) of this section, the Secretary of the Treasury shall assess a duty on a horticulture safeguard good, in the amount determined under paragraph (3), if the Secretary determines that the unit import price of the good when it enters the United States is less than the trigger price for that good.
+
+&emsp;“(3)
+
+Calculation of additional duty.—The additional duty assessed under this subsection on a horticulture safeguard good shall be an amount determined in accordance with the following table:
+
+&nbsp;
+
+| &nbsp; | &nbsp; | &nbsp; |
+| :--- | :---: | ---: |
+|  | <b>“If the excess of the trigger price over the unit import price is:</b> | <b>The additional duty is an amount equal to:</b> |
+|  | Not more than 10 percent of the trigger price | 0\. |
+|  | More than 10 percent but not more than 40 percent of the trigger price | 30 percent of the excess of the applicable NTR (MFN) rate of duty over the schedule rate of duty. |
+|  | More than 40 percent but not more than 60 percent of the trigger price | 50 percent of such excess. |
+|  | More than 60 percent but not more than 75 percent of the trigger price | 70 percent of such excess. |
+|  | More than 75 percent of the trigger price | 100 percent of such excess. |
+
+“(c)
+
+Additional Duties on Beef Safeguard Goods Based on Quantity of Imports.—
+
+&emsp;“(1)
+
+Definition.—In this subsection, the term ‘beef safeguard good’ means a good—
+
+&emsp;&emsp;“(A) that qualifies as an originating good under section 203;
+
+&emsp;&emsp;“(B) that is listed in paragraph 3 of Annex I of the General Notes to the Schedule of the United States to Annex 2–B of the Agreement; and
+
+&emsp;&emsp;“(C) for which a claim for preferential treatment under the Agreement has been made.
+
+&emsp;“(2)
+
+Additional duties.—In addition to any duty proclaimed under subsection (a) or (b) of section 201, and subject to subsection (a) of this section and paragraphs (4) and (5) of this subsection, the Secretary of the Treasury shall assess a duty, in the amount determined under paragraph (3), on a beef safeguard good imported into the United States in a calendar year if the Secretary determines that, prior to such importation, the total volume of beef safeguard goods imported into the United States in that calendar year is equal to or greater than 110 percent of the volume set out for beef safeguard goods in the corresponding year in the table contained in paragraph 3(a) of Annex I of the General Notes to the Schedule of the United States to Annex 2–B of the Agreement. For purposes of this subsection, the years 1 through 19 set out in the table contained in paragraph 3(a) of such Annex I correspond to the calendar years 2005 through 2023.
+
+&emsp;“(3)
+
+Calculation of additional duty.—The additional duty on a beef safeguard good under this subsection shall be an amount equal to 75 percent of the excess of the applicable NTR (MFN) rate of duty over the schedule rate of duty.
+
+&emsp;“(4)
+
+Waiver.—
+
+&emsp;&emsp;“(A)
+
+In general.—The United States Trade Representative is authorized to waive the application of this subsection, if the Trade Representative determines that extraordinary market conditions demonstrate that the waiver would be in the national interest of the United States, after the requirements of subparagraph (B) are met.
+
+&emsp;&emsp;“(B)
+
+Notice and consultations.—Promptly after receiving a request for a waiver of this subsection, the Trade Representative shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, and may make the determination provided for in subparagraph (A) only after consulting with—
+
+&emsp;&emsp;&emsp;“(i) appropriate private sector advisory committees established under section 135 of the Trade Act of 1974 (19 U.S.C. 2155); and
+
+&emsp;&emsp;&emsp;“(ii) the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate regarding—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the reasons supporting the determination to grant the waiver; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the proposed scope and duration of the waiver.
+
+&emsp;&emsp;“(C)
+
+Notification of the secretary of the treasury and publication.—Upon granting a waiver under this paragraph, the Trade Representative shall promptly notify the Secretary of the Treasury of the period in which the waiver will be in effect, and shall publish notice of the waiver in the Federal Register.
+
+&emsp;“(5)
+
+Effective dates.—This subsection takes effect on January 1, 2013, and shall not be effective after December 31, 2022.
+
+“(d)
+
+Additional Duties on Beef Safeguard Goods Based on Price.—
+
+&emsp;“(1)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;“(A)
+
+Beef safeguard good.—The term ‘beef safeguard good’ means a good—
+
+&emsp;&emsp;&emsp;“(i) that qualifies as an originating good under section 203;
+
+&emsp;&emsp;&emsp;“(ii) that is classified under subheading 0201.10.50, 0201.20.80, 0201.30.80, 0202.10.50, 0202.20.80, or 0202.30.80 of the HTS; and
+
+&emsp;&emsp;&emsp;“(iii) for which a claim for preferential treatment under the Agreement has been made.
+
+&emsp;&emsp;“(B)
+
+Calendar quarter.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—The term ‘calendar quarter’ means any 3-month period beginning on January 1, April 1, July 1, or October 1 of a calendar year.
+
+&emsp;&emsp;&emsp;“(ii)
+
+First calendar quarter.—The term ‘first calendar quarter’ means the calendar quarter beginning on January 1.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Second calendar quarter.—The term ‘second calendar quarter’ means the calendar quarter beginning on April 1.
+
+&emsp;&emsp;&emsp;“(iv)
+
+Third calendar quarter.—The term ‘third calendar quarter’ means the calendar quarter beginning on July 1.
+
+&emsp;&emsp;&emsp;“(v)
+
+Fourth calendar quarter.—The term ‘fourth calendar quarter’ means the calendar quarter beginning on October 1.
+
+&emsp;&emsp;“(C)
+
+Monthly average index price.—The term ‘monthly average index price’ means the simple average, as determined by the Secretary of Agriculture, for a calendar month of the daily average index prices for Wholesale Boxed Beef Cut-Out Value Select 1–3 Central U.S. 600–750 lbs., or its equivalent, as such simple average is reported by the Agricultural Marketing Service of the Department of Agriculture in Report LM–XB459 or any equivalent report.
+
+&emsp;&emsp;“(D) 24-
+
+month trigger price.—The term ‘24-month trigger price’ means, with respect to any calendar month, the average of the monthly average index prices for the 24 preceding calendar months, multiplied by 0.935.
+
+&emsp;“(2)
+
+Additional duties.—In addition to any duty proclaimed under subsection (a) or (b) of section 201, and subject to subsection (a) of this section and paragraphs (4) through (6) of this subsection, the Secretary of the Treasury shall assess a duty, in the amount determined under paragraph (3), on a beef safeguard good imported into the United States if—
+
+&emsp;&emsp;“(A)(i) the good is imported in the first calendar quarter, second calendar quarter, or third calendar quarter of a calendar year; and
+
+&emsp;&emsp;“(ii) the monthly average index price, in any 2 calendar months of the preceding calendar quarter, is less than the 24-month trigger price; or
+
+&emsp;&emsp;“(B)(i) the good is imported in the fourth calendar quarter of a calendar year; and
+
+&emsp;&emsp;“(ii)(I) the monthly average index price, in any 2 calendar months of the preceding calendar quarter, is less than the 24-month trigger price; or
+
+&emsp;&emsp;“(II) the monthly average index price, in any of the 4 calendar months preceding January 1 of the succeeding calendar year, is less than the 24-month trigger price.
+
+&emsp;“(3)
+
+Calculation of additional duty.—The additional duty on a beef safeguard good under this subsection shall be an amount equal to 65 percent of the applicable NTR (MFN) rate of duty for that good.
+
+&emsp;“(4)
+
+Limitation.—An additional duty shall be assessed under this subsection on a beef safeguard good imported into the United States in a calendar year only if, prior to the importation of that good, the total quantity of beef safeguard goods imported into the United States in that calendar year is equal to or greater than the sum of—
+
+&emsp;&emsp;“(A) the quantity of goods of Australia eligible to enter the United States in that year specified in Additional United States Note 3 to Chapter 2 of the HTS; and
+
+&emsp;&emsp;“(B)(i) in 2023, 70,420 metric tons; or
+
+&emsp;&emsp;“(ii) in 2024, and in each year thereafter, a quantity that is 0.6 percent greater than the quantity provided for in the preceding year under this subparagraph.
+
+&emsp;“(5)
+
+Waiver.—
+
+&emsp;&emsp;“(A)
+
+In general.—The United States Trade Representative is authorized to waive the application of this subsection, if the Trade Representative determines that extraordinary market conditions demonstrate that the waiver would be in the national interest of the United States, after the requirements of subparagraph (B) are met.
+
+&emsp;&emsp;“(B)
+
+Notice and consultations.—Promptly after receiving a request for a waiver of this subsection, the Trade Representative shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, and may make the determination provided for in subparagraph (A) only after consulting with—
+
+&emsp;&emsp;&emsp;“(i) appropriate private sector advisory committees established under section 135 of the Trade Act of 1974 (19 U.S.C. 2155); and
+
+&emsp;&emsp;&emsp;“(ii) the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate regarding—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the reasons supporting the determination to grant the waiver; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the proposed scope and duration of the waiver.
+
+&emsp;&emsp;“(C)
+
+Notification of the secretary of the treasury and publication.—Upon granting a waiver under this paragraph, the Trade Representative shall promptly notify the Secretary of the Treasury of the period in which the waiver will be in effect, and shall publish notice of the waiver in the Federal Register.
+
+&emsp;“(6)
+
+Effective date.—This subsection takes effect on January 1, 2023.
+
+#### “SEC. 203. RULES OF ORIGIN.
+
+“(a)
+
+Application and Interpretation.—In this section:
+
+&emsp;“(1)
+
+Tariff classification.—The basis for any tariff classification is the HTS.
+
+&emsp;“(2)
+
+Reference to hts.—Whenever in this section there is a reference to a heading or subheading, such reference shall be a reference to a heading or subheading of the HTS.
+
+&emsp;“(3)
+
+Cost or value.—Any cost or value referred to in this section shall be recorded and maintained in accordance with the generally accepted accounting principles applicable in the territory of the country in which the good is produced (whether Australia or the United States).
+
+“(b)
+
+Originating Goods.—For purposes of this Act and for purposes of implementing the preferential treatment provided for under the Agreement, a good is an originating good if—
+
+&emsp;“(1) the good is a good wholly obtained or produced entirely in the territory of Australia, the United States, or both;
+
+&emsp;“(2) the good—
+
+&emsp;&emsp;“(A) is produced entirely in the territory of Australia, the United States, or both, and—
+
+&emsp;&emsp;&emsp;“(i) each of the nonoriginating materials used in the production of the good undergoes an applicable change in tariff classification specified in Annex 4–A or Annex 5–A of the Agreement;
+
+&emsp;&emsp;&emsp;“(ii) the good otherwise satisfies any applicable regional value-content requirement referred to in Annex 5–A of the Agreement; or
+
+&emsp;&emsp;&emsp;“(iii) the good meets any other requirements specified in Annex 4–A or Annex 5–A of the Agreement; and
+
+&emsp;&emsp;“(B) the good satisfies all other applicable requirements of this section;
+
+&emsp;“(3) the good is produced entirely in the territory of Australia, the United States, or both, exclusively from materials described in paragraph (1) or (2); or
+
+&emsp;“(4) the good otherwise qualifies as an originating good under this section.
+
+“(c)
+
+De Minimis Amounts of Nonoriginating Materials.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraphs (2) and (3), a good that does not undergo a change in tariff classification pursuant to Annex 5–A of the Agreement is an originating good if—
+
+&emsp;&emsp;“(A) the value of all nonoriginating materials that—
+
+&emsp;&emsp;&emsp;“(i) are used in the production of the good, and
+
+&emsp;&emsp;&emsp;“(ii) do not undergo the required change in tariff classification,
+
+&nbsp;&nbsp;does not exceed 10 percent of the adjusted value of the good;
+
+&emsp;&emsp;“(B) the good meets all other applicable requirements of this section; and
+
+&emsp;&emsp;“(C) the value of such nonoriginating materials is included in the value of nonoriginating materials for any applicable regional value-content requirement for the good.
+
+&emsp;“(2)
+
+Exceptions.—Paragraph (1) does not apply to the following:
+
+&emsp;&emsp;“(A) A nonoriginating material provided for in chapter 4 of the HTS or in subheading 1901.90 that is used in the production of a good provided for in chapter 4 of the HTS.
+
+&emsp;&emsp;“(B) A nonoriginating material provided for in chapter 4 of the HTS or in subheading 1901.90 that is used in the production of a good provided for in subheading 1901.10, 1901.20, or 1901.90, heading 2105, or subheading 2106.90, 2202.90, or 2309.90.
+
+&emsp;&emsp;“(C) A nonoriginating material provided for in heading 0805 or any of subheadings 2009.11 through 2009.39 that is used in the production of a good provided for in any of subheadings 2009.11 through 2009.39, or in subheading 2106.90 or 2202.90.
+
+&emsp;&emsp;“(D) A nonoriginating material provided for in chapter 15 of the HTS that is used in the production of a good provided for in any of headings 1501.00.00 through 1508, or in heading 1512, 1514, or 1515.
+
+&emsp;&emsp;“(E) A nonoriginating material provided for in heading 1701 that is used in the production of a good provided for in any of headings 1701 through 1703.
+
+&emsp;&emsp;“(F) A nonoriginating material provided for in chapter 17 of the HTS or heading 1805.00.00 that is used in the production of a good provided for in subheading 1806.10.
+
+&emsp;&emsp;“(G) A nonoriginating material provided for in any of headings 2203 through 2208 that is used in the production of a good provided for in heading 2207 or 2208.
+
+&emsp;&emsp;“(H) A nonoriginating material used in the production of a good provided for in any of chapters 1 through 21 of the HTS unless the nonoriginating material is provided for in a different subheading than the good for which origin is being determined under this section.
+
+&emsp;“(3)
+
+Textile and apparel goods.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided in subparagraph (B), a textile or apparel good that is not an originating good because certain fibers or yarns used in the production of the component of the good that determines the tariff classification of the good do not undergo an applicable change in tariff classification set out in Annex 4–A of the Agreement shall be considered to be an originating good if the total weight of all such fibers or yarns in that component is not more than 7 percent of the total weight of that component.
+
+&emsp;&emsp;“(B)
+
+Certain textile or apparel goods.—A textile or apparel good containing elastomeric yarns in the component of the good that determines the tariff classification of the good shall be considered to be an originating good only if such yarns are wholly formed in the territory of Australia or the United States.
+
+&emsp;&emsp;“(C)
+
+Yarn, fabric, or fiber.—For purposes of this paragraph, in the case of a textile or apparel good that is a yarn, fabric, or group of fibers, the term ‘component of the good that determines the tariff classification of the good’ means all of the fibers in the yarn, fabric, or group of fibers.
+
+“(d)
+
+Accumulation.—
+
+&emsp;“(1)
+
+Originating materials used in production of goods of other country.—Originating materials from the territory of Australia or the United States that are used in the production of a good in the territory of the other country shall be considered to originate in the territory of the other country.
+
+&emsp;“(2)
+
+Multiple procedures.—A good that is produced in the territory of Australia, the United States, or both, by 1 or more producers, is an originating good if the good satisfies the requirements of subsection (b) and all other applicable requirements of this section.
+
+“(e)
+
+Regional Value-Content.—
+
+&emsp;“(1)
+
+In general.—For purposes of subsection (b)(2), the regional value-content of a good referred to in Annex 5–A of the Agreement, except for goods to which paragraph (4) applies, shall be calculated by the importer, exporter, or producer of the good, on the basis of the build-down method described in paragraph (2) or the build-up method described in paragraph (3).
+
+&emsp;“(2)
+
+Build-down method.—
+
+&emsp;&emsp;“(A)
+
+In general.—The regional value-content of a good may be calculated on the basis of the following build-down method:
+
+&nbsp;
+
+|  |
+| --- |
+
+&nbsp;&nbsp;rvc
+
+\=
+
+av–vnm
+
+×
+
+100&nbsp;&nbsp;
+
+av
+
+&nbsp;
+
+&emsp;&emsp;“(B)
+
+Definitions.—In subparagraph (A):
+
+&emsp;&emsp;&emsp;“(i) RVC.—The term ‘RVC’ means the regional value-content of the good, expressed as a percentage.
+
+&emsp;&emsp;&emsp;“(ii) AV.—The term ‘AV’ means the adjusted value of the good.
+
+&emsp;&emsp;&emsp;“(iii) VNM.—The term ‘VNM’ means the value of nonoriginating materials that are acquired and used by the producer in the production of the good, but does not include the value of a material that is self-produced.
+
+&emsp;“(3)
+
+Build-up method.—
+
+&emsp;&emsp;“(A)
+
+In general.—The regional value-content of a good may be calculated on the basis of the following build-up method:
+
+&nbsp;
+
+|  |
+| --- |
+
+&nbsp;&nbsp;rvc
+
+\=
+
+vom
+
+×
+
+100&nbsp;&nbsp;
+
+av
+
+&nbsp;
+
+&emsp;&emsp;“(B)
+
+Definitions.—In subparagraph (A):
+
+&emsp;&emsp;&emsp;“(i) RVC.—The term ‘RVC’ means the regional value-content of the good, expressed as a percentage.
+
+&emsp;&emsp;&emsp;“(ii) AV.—The term ‘AV’ means the adjusted value of the good.
+
+&emsp;&emsp;&emsp;“(iii) VOM.—The term ‘VOM’ means the value of originating materials that are acquired or self-produced, and used by the producer in the production of the good.
+
+&emsp;“(4)
+
+Special rule for certain automotive goods.—
+
+&emsp;&emsp;“(A)
+
+In general.—For purposes of subsection (b)(2), the regional value-content of an automotive good referred to in Annex 5–A of the Agreement shall be calculated by the importer, exporter, or producer of the good, on the basis of the following net cost method:
+
+&nbsp;
+
+|  |
+| --- |
+
+&nbsp;&nbsp;rvc
+
+\=
+
+nc–vnm
+
+×
+
+100&nbsp;&nbsp;
+
+nc
+
+&nbsp;
+
+&emsp;&emsp;“(B)
+
+Definitions.—In subparagraph (A):
+
+&emsp;&emsp;&emsp;“(i)
+
+Automotive good.—The term ‘automotive good’ means a good provided for in any of subheadings 8407.31 through 8407.34, subheading 8408.20, heading 8409, or in any of headings 8701 through 8708.
+
+&emsp;&emsp;&emsp;“(ii) RVC.—The term ‘RVC’ means the regional value-content of the automotive good, expressed as a percentage.
+
+&emsp;&emsp;&emsp;“(iii) NC.—The term ‘NC’ means the net cost of the automotive good.
+
+&emsp;&emsp;&emsp;“(iv) VNM.—The term ‘VNM’ means the value of nonoriginating materials that are acquired and used by the producer in the production of the automotive good, but does not include the value of a material that is self-produced.
+
+&emsp;&emsp;“(C)
+
+Motor vehicles.—
+
+&emsp;&emsp;&emsp;“(i)
+
+Basis of calculation.—For purposes of determining the regional value-content under subparagraph (A) for an automotive good that is a motor vehicle provided for in any of headings 8701 through 8705, an importer, exporter, or producer may average the amounts calculated under the formula contained in subparagraph (A), over the producer's fiscal year—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) with respect to all motor vehicles in any one of the categories described in clause (ii); or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) with respect to all motor vehicles in any such category that are exported to the territory of the United States or Australia.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Categories.—A category is described in this clause if it—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) is the same model line of motor vehicles, is in the same class of vehicles, and is produced in the same plant in the territory of Australia or the United States, as the good described in clause (i) for which regional value-content is being calculated;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) is the same class of motor vehicles, and is produced in the same plant in the territory of Australia or the United States, as the good described in clause (i) for which regional value-content is being calculated; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) is the same model line of motor vehicles produced in either the territory of Australia or the United States, as the good described in clause (i) for which regional value-content is being calculated.
+
+&emsp;&emsp;“(D)
+
+Other automotive goods.—For purposes of determining the regional value-content under subparagraph (A) for automotive goods provided for in any of subheadings 8407.31 through 8407.34, in subheading 8408.20, or in heading 8409, 8706, 8707, or 8708, that are produced in the same plant, an importer, exporter, or producer may—
+
+&emsp;&emsp;&emsp;“(i) average the amounts calculated under the formula contained in subparagraph (A) over—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the fiscal year of the motor vehicle producer to whom the automotive goods are sold,
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) any quarter or month, or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) its own fiscal year,
+
+&emsp;&emsp;&nbsp;if the goods were produced during the fiscal year, quarter, or month that is the basis for the calculation;
+
+&emsp;&emsp;&emsp;“(ii) determine the average referred to in clause (i) separately for such goods sold to one or more motor vehicle producers; or
+
+&emsp;&emsp;&emsp;“(iii) make a separate determination under clause (i) or (ii) for automotive goods that are exported to the territory of the United States or Australia.
+
+&emsp;&emsp;“(E)
+
+Calculating net cost.—Consistent with the provisions regarding allocation of costs set out in generally accepted accounting principles, the net cost of the automotive good under subparagraph (B) shall be calculated by—
+
+&emsp;&emsp;&emsp;“(i) calculating the total cost incurred with respect to all goods produced by the producer of the automotive good, subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the total cost of all such goods, and then reasonably allocating the resulting net cost of those goods to the automotive good;
+
+&emsp;&emsp;&emsp;“(ii) calculating the total cost incurred with respect to all goods produced by that producer, reasonably allocating the total cost to the automotive good, and then subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the portion of the total cost allocated to the automotive good; or
+
+&emsp;&emsp;&emsp;“(iii) reasonably allocating each cost that forms part of the total cost incurred with respect to the automotive good so that the aggregate of these costs does not include any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, or nonallowable interest costs.
+
+“(f)
+
+Value of Materials.—
+
+&emsp;“(1)
+
+In general.—For the purpose of calculating the regional value-content of a good under subsection (e), and for purposes of applying the de minimis rules under subsection (c), the value of a material is—
+
+&emsp;&emsp;“(A) in the case of a material that is imported by the producer of the good, the adjusted value of the material;
+
+&emsp;&emsp;“(B) in the case of a material acquired in the territory in which the good is produced, the value, determined in accordance with Articles 1 through 8, article 15, and the corresponding interpretive notes of the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade 1994 referred to in section 101(d)(8) of the Uruguay Round Agreements Act \[19 U.S.C. 3511(d)(8)\], as set forth in regulations promulgated by the Secretary of the Treasury providing for the application of such Articles in the absence of an importation; or
+
+&emsp;&emsp;“(C) in the case of a material that is self-produced, the sum of—
+
+&emsp;&emsp;&emsp;“(i) all expenses incurred in the production of the material, including general expenses; and
+
+&emsp;&emsp;&emsp;“(ii) an amount for profit equivalent to the profit added in the normal course of trade.
+
+&emsp;“(2)
+
+Further adjustments to the value of materials.—
+
+&emsp;&emsp;“(A)
+
+Originating material.—The following expenses, if not included in the value of an originating material calculated under paragraph (1), may be added to the value of the originating material:
+
+&emsp;&emsp;&emsp;“(i) The costs of freight, insurance, packing, and all other costs incurred in transporting the material within or between the territory of Australia, the United States, or both, to the location of the producer.
+
+&emsp;&emsp;&emsp;“(ii) Duties, taxes, and customs brokerage fees on the material paid in the territory of Australia, the United States, or both, other than duties or taxes that are waived, refunded, refundable, or otherwise recoverable, including credit against duty or tax paid or payable.
+
+&emsp;&emsp;&emsp;“(iii) The cost of waste and spoilage resulting from the use of the material in the production of the good, less the value of renewable scrap or byproducts.
+
+&emsp;&emsp;“(B)
+
+Nonoriginating material.—The following expenses, if included in the value of a nonoriginating material calculated under paragraph (1), may be deducted from the value of the nonoriginating material:
+
+&emsp;&emsp;&emsp;“(i) The costs of freight, insurance, packing, and all other costs incurred in transporting the material within or between the territory of Australia, the United States, or both, to the location of the producer.
+
+&emsp;&emsp;&emsp;“(ii) Duties, taxes, and customs brokerage fees on the material paid in the territory of Australia, the United States, or both, other than duties or taxes that are waived, refunded, refundable, or otherwise recoverable, including credit against duty or tax paid or payable.
+
+&emsp;&emsp;&emsp;“(iii) The cost of waste and spoilage resulting from the use of the material in the production of the good, less the value of renewable scrap or byproducts.
+
+&emsp;&emsp;&emsp;“(iv) The cost of processing incurred in the territory of Australia, the United States, or both, in the production of the nonoriginating material.
+
+&emsp;&emsp;&emsp;“(v) The cost of originating materials used in the production of the nonoriginating material in the territory of Australia, the United States, or both.
+
+“(g)
+
+Accessories, Spare Parts, or Tools.—
+
+&emsp;“(1)
+
+In general.—Subject to paragraph (2), accessories, spare parts, or tools delivered with a good that form part of the good's standard accessories, spare parts, or tools shall—
+
+&emsp;&emsp;“(A) be treated as originating goods if the good is an originating good; and
+
+&emsp;&emsp;“(B) be disregarded in determining whether all the nonoriginating materials used in the production of the good undergo the applicable change in tariff classification set out in Annex 5–A of the Agreement.
+
+&emsp;“(2)
+
+Conditions.—Paragraph (1) shall apply only if—
+
+&emsp;&emsp;“(A) the accessories, spare parts, or tools are not invoiced separately from the good;
+
+&emsp;&emsp;“(B) the quantities and value of the accessories, spare parts, or tools are customary for the good; and
+
+&emsp;&emsp;“(C) if the good is subject to a regional value-content requirement, the value of the accessories, spare parts, or tools is taken into account as originating or nonoriginating materials, as the case may be, in calculating the regional value-content of the good.
+
+“(h)
+
+Fungible Goods and Materials.—
+
+&emsp;“(1)
+
+In general.—
+
+&emsp;&emsp;“(A)
+
+Claim for preferential treatment.—A person claiming that a fungible good or fungible material is an originating good may base the claim either on the physical segregation of the fungible good or fungible material or by using an inventory management method with respect to the fungible good or fungible material.
+
+&emsp;&emsp;“(B)
+
+Inventory management method.—In this subsection, the term ‘inventory management method’ means—
+
+&emsp;&emsp;&emsp;“(i) averaging;
+
+&emsp;&emsp;&emsp;“(ii) ‘last-in, first-out’;
+
+&emsp;&emsp;&emsp;“(iii) ‘first-in, first-out’; or
+
+&emsp;&emsp;&emsp;“(iv) any other method—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) recognized in the generally accepted accounting principles of the country in which the production is performed (whether Australia or the United States); or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) otherwise accepted by that country.
+
+&emsp;“(2)
+
+Election of inventory method.—A person selecting an inventory management method under paragraph (1) for a particular fungible good or fungible material shall continue to use that method for that fungible good or fungible material throughout the fiscal year of that person.
+
+“(i)
+
+Packaging Materials and Containers for Retail Sale.—Packaging materials and containers in which a good is packaged for retail sale, if classified with the good, shall be disregarded in determining whether all the nonoriginating materials used in the production of the good undergo the applicable change in tariff classification set out in Annex 4–A or Annex 5–A of the Agreement, and, if the good is subject to a regional value-content requirement, the value of such packaging materials and containers shall be taken into account as originating or nonoriginating materials, as the case may be, in calculating the regional value-content of the good.
+
+“(j)
+
+Packing Materials and Containers for Shipment.—Packing materials and containers for shipment shall be disregarded in determining whether—
+
+&emsp;“(1) the nonoriginating materials used in the production of a good undergo the applicable change in tariff classification set out in Annex 4–A or Annex 5–A of the Agreement; and
+
+&emsp;“(2) the good satisfies a regional value-content requirement.
+
+“(k)
+
+Indirect Materials.—An indirect material shall be treated as an originating material without regard to where it is produced, and its value shall be the cost registered in the accounting records of the producer of the good.
+
+“(<i>l</i>)
+
+Third Country Operations.—A good that has undergone production necessary to qualify as an originating good under subsection (b) shall not be considered to be an originating good if, subsequent to that production, the good undergoes further production or any other operation outside the territory of Australia or the United States, other than unloading, reloading, or any other operation necessary to preserve the good in good condition or to transport the good to the territory of Australia or the United States.
+
+“(m)
+
+Textile and Apparel Goods Classifiable as Goods Put Up in Sets.—Notwithstanding the rules set forth in Annex 4–A of the Agreement, textile or apparel goods classifiable as goods put up in sets for retail sale as provided for in General Rule of Interpretation 3 of the HTS shall not be considered to be originating goods unless each of the goods in the set is an originating good or the total value of the nonoriginating goods in the set does not exceed 10 percent of the value of the set determined for purposes of assessing customs duties.
+
+“(n)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Adjusted value.—The term ‘adjusted value’ means the value determined under Articles 1 through 8, Article 15, and the corresponding interpretive notes of the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade 1994 referred to in section 101(d)(8) of the Uruguay Round Agreements Act \[19 U.S.C. 3511(d)(8)\], adjusted to exclude any costs, charges, or expenses incurred for transportation, insurance, and related services incident to the international shipment of the good from the country of exportation to the place of importation.
+
+&emsp;“(2)
+
+Class of motor vehicles.—The term ‘class of motor vehicles’ means any one of the following categories of motor vehicles:
+
+&emsp;&emsp;“(A) Motor vehicles provided for in subheading 8701.20, 8704.10, 8704.22, 8704.23, 8704.32, or 8704.90, or heading 8705 or 8706, or motor vehicles for the transport of 16 or more persons provided for in subheading 8702.10 or 8702.90.
+
+&emsp;&emsp;“(B) Motor vehicles provided for in subheading 8701.10 or any of subheadings 8701.30 through 8701.90.
+
+&emsp;&emsp;“(C) Motor vehicles for the transport of 15 or fewer persons provided for in subheading 8702.10 or 8702.90, or motor vehicles provided for in subheading 8704.21 or 8704.31.
+
+&emsp;&emsp;“(D) Motor vehicles provided for in any of subheadings 8703.21 through 8703.90.
+
+&emsp;“(3)
+
+Fungible good or fungible material.—The term ‘fungible good’ or ‘fungible material’ means a good or material, as the case may be, that is interchangeable with another good or material for commercial purposes and the properties of which are essentially identical to such other good or material.
+
+&emsp;“(4)
+
+Generally accepted accounting principles.—The term ‘generally accepted accounting principles’ means the recognized consensus or substantial authoritative support in the territory of Australia or the United States, as the case may be, with respect to the recording of revenues, expenses, costs, assets, and liabilities, the disclosure of information, and the preparation of financial statements. These standards may encompass broad guidelines of general application as well as detailed standards, practices, and procedures.
+
+&emsp;“(5)
+
+Good wholly obtained or produced entirely in the territory of Australia, the United States, or both.—The term ‘good wholly obtained or produced entirely in the territory of Australia, the United States, or both’ means—
+
+&emsp;&emsp;“(A) a mineral good extracted in the territory of Australia, the United States, or both;
+
+&emsp;&emsp;“(B) a vegetable good, as such goods are provided for in the HTS, harvested in the territory of Australia, the United States, or both;
+
+&emsp;&emsp;“(C) a live animal born and raised in the territory of Australia, the United States, or both;
+
+&emsp;&emsp;“(D) a good obtained from hunting, trapping, fishing, or aquaculture conducted in the territory of Australia, the United States, or both;
+
+&emsp;&emsp;“(E) a good (fish, shellfish, and other marine life) taken from the sea by vessels registered or recorded with Australia or the United States and flying the flag of that country;
+
+&emsp;&emsp;“(F) a good produced exclusively from products referred to in subparagraph (E) on board factory ships registered or recorded with Australia or the United States and flying the flag of that country;
+
+&emsp;&emsp;“(G) a good taken by Australia or the United States or a person of Australia or the United States from the seabed or beneath the seabed outside territorial waters, if Australia or the United States has rights to exploit such seabed;
+
+&emsp;&emsp;“(H) a good taken from outer space, if such good is obtained by Australia or the United States or a person of Australia or the United States and not processed in the territory of a country other than Australia or the United States;
+
+&emsp;&emsp;“(I) waste and scrap derived from—
+
+&emsp;&emsp;&emsp;“(i) production in the territory of Australia, the United States, or both; or
+
+&emsp;&emsp;&emsp;“(ii) used goods collected in the territory of Australia, the United States, or both, if such goods are fit only for the recovery of raw materials;
+
+&emsp;&emsp;“(J) a recovered good derived in the territory of Australia or the United States from goods that have passed their life expectancy, or are no longer usable due to defects, and utilized in the territory of that country in the production of remanufactured goods; or
+
+&emsp;&emsp;“(K) a good produced in the territory of Australia, the United States, or both, exclusively—
+
+&emsp;&emsp;&emsp;“(i) from goods referred to in any of subparagraphs (A) through (I), or
+
+&emsp;&emsp;&emsp;“(ii) from the derivatives of goods referred to in clause (i),
+
+&nbsp;&nbsp;at any stage of production.
+
+&emsp;“(6)
+
+Indirect material.—The term ‘indirect material’ means a good used in the production, testing, or inspection of a good but not physically incorporated into the good, or a good used in the maintenance of buildings or the operation of equipment associated with the production of a good, including—
+
+&emsp;&emsp;“(A) fuel and energy;
+
+&emsp;&emsp;“(B) tools, dies, and molds;
+
+&emsp;&emsp;“(C) spare parts and materials used in the maintenance of equipment or buildings;
+
+&emsp;&emsp;“(D) lubricants, greases, compounding materials, and other materials used in production or used to operate equipment or buildings;
+
+&emsp;&emsp;“(E) gloves, glasses, footwear, clothing, safety equipment, and supplies;
+
+&emsp;&emsp;“(F) equipment, devices, and supplies used for testing or inspecting the good;
+
+&emsp;&emsp;“(G) catalysts and solvents; and
+
+&emsp;&emsp;“(H) any other goods that are not incorporated into the good but the use of which in the production of the good can reasonably be demonstrated to be a part of that production.
+
+&emsp;“(7)
+
+Material.—The term ‘material’ means a good that is used in the production of another good.
+
+&emsp;“(8)
+
+Material that is self-produced.—The term ‘material that is self-produced’ means an originating material that is produced by a producer of a good and used in the production of that good.
+
+&emsp;“(9)
+
+Model line.—The term ‘model line’ means a group of motor vehicles having the same platform or model name.
+
+&emsp;“(10)
+
+Nonallowable interest costs.—The term ‘nonallowable interest costs’ means interest costs incurred by a producer that exceed 700 basis points above the applicable official interest rate for comparable maturities of the country (whether Australia or the United States).
+
+&emsp;“(11)
+
+Nonoriginating material.—The term ‘nonoriginating material’ means a material that does not qualify as originating under this section.
+
+&emsp;“(12)
+
+Preferential treatment.—The term ‘preferential treatment’ means the customs duty rate, and the treatment under article 2.12 of the Agreement, that are applicable to an originating good pursuant to the Agreement.
+
+&emsp;“(13)
+
+Producer.—The term ‘producer’ means a person who engages in the production of a good in the territory of Australia or the United States.
+
+&emsp;“(14)
+
+Production.—The term ‘production’ means growing, raising, mining, harvesting, fishing, trapping, hunting, manufacturing, processing, assembling, or disassembling a good.
+
+&emsp;“(15)
+
+Reasonably allocate.—The term ‘reasonably allocate’ means to apportion in a manner that would be appropriate under generally accepted accounting principles.
+
+&emsp;“(16)
+
+Recovered goods.—The term ‘recovered goods’ means materials in the form of individual parts that result from—
+
+&emsp;&emsp;“(A) the complete disassembly of goods which have passed their life expectancy, or are no longer usable due to defects, into individual parts; and
+
+&emsp;&emsp;“(B) the cleaning, inspecting, or testing, or other processing that is necessary for improvement to sound working condition of such individual parts.
+
+&emsp;“(17)
+
+Remanufactured good.—The term ‘remanufactured good’ means an industrial good that is assembled in the territory of Australia or the United States, that is classified under chapter 84, 85, or 87 of the HTS or heading 9026, 9031, or 9032, other than a good classified under heading 8418 or 8516 or any of headings 8701 through 8706, and that—
+
+&emsp;&emsp;“(A) is entirely or partially comprised of recovered goods;
+
+&emsp;&emsp;“(B) has a similar life expectancy to, and meets the same performance standards as, a like good that is new; and
+
+&emsp;&emsp;“(C) enjoys a factory warranty similar to a like good that is new.
+
+&emsp;“(18)
+
+Total cost.—The term ‘total cost’ means all product costs, period costs, and other costs for a good incurred in the territory of Australia, the United States, or both.
+
+&emsp;“(19)
+
+Used.—The term ‘used’ means used or consumed in the production of goods.
+
+“(<i>o</i>)
+
+Presidential Proclamation Authority.—
+
+&emsp;“(1)
+
+In general.—The President is authorized to proclaim, as part of the HTS—
+
+&emsp;&emsp;“(A) the provisions set out in Annex 4–A and Annex 5–A of the Agreement; and
+
+&emsp;&emsp;“(B) any additional subordinate category necessary to carry out this title consistent with the Agreement.
+
+&emsp;“(2)
+
+Modifications.—
+
+&emsp;&emsp;“(A)
+
+In general.—Subject to the consultation and layover provisions of section 104, the President may proclaim modifications to the provisions proclaimed under the authority of paragraph (1)(A), other than provisions of chapters 50 through 63 of the HTS, as included in Annex 4–A of the Agreement.
+
+&emsp;&emsp;“(B)
+
+Additional proclamations.—Notwithstanding subparagraph (A), and subject to the consultation and layover provisions of section 104, the President may proclaim—
+
+&emsp;&emsp;&emsp;“(i) modifications to the provisions proclaimed under the authority of paragraph (1)(A) as are necessary to implement an agreement with Australia pursuant to article 4.2.5 of the Agreement; and
+
+&emsp;&emsp;&emsp;“(ii) before the end of the 1-year period beginning on the date of the enactment of this Act \[Aug. 3, 2004\], modifications to correct any typographical, clerical, or other nonsubstantive technical error regarding the provisions of chapters 50 through 63 of the HTS, as included in Annex 4–A of the Agreement.
+
+#### “SEC. 204. CUSTOMS USER FEES.
+
+\[Amended section 58c of this title.\]
+
+#### “SEC. 205. DISCLOSURE OF INCORRECT INFORMATION.
+
+\[Amended section 1592 of this title.\]
+
+#### “SEC. 206. ENFORCEMENT RELATING TO TRADE IN TEXTILE AND APPAREL GOODS.
+
+“(a)
+
+Action During Verification.—
+
+&emsp;“(1)
+
+In general.—If the Secretary of the Treasury requests the Government of Australia to conduct a verification pursuant to article 4.3 of the Agreement for purposes of making a determination under paragraph (2), the President may direct the Secretary to take appropriate action described in subsection (b) while the verification is being conducted.
+
+&emsp;“(2)
+
+Determination.—A determination under this paragraph is a determination—
+
+&emsp;&emsp;“(A) that an exporter or producer in Australia is complying with applicable customs laws, regulations, procedures, requirements, or practices affecting trade in textile or apparel goods; or
+
+&emsp;&emsp;“(B) that a claim that a textile or apparel good exported or produced by such exporter or producer—
+
+&emsp;&emsp;&emsp;“(i) qualifies as an originating good under section 203 of this Act; or
+
+&emsp;&emsp;&emsp;“(ii) is a good of Australia,
+
+&nbsp;&nbsp;is accurate.
+
+“(b)
+
+Appropriate Action Described.—Appropriate action under subsection (a)(1) includes—
+
+&emsp;“(1) suspension of liquidation of the entry of any textile or apparel good exported or produced by the person that is the subject of a verification under subsection (a)(1) regarding compliance described in subsection (a)(2)(A), in a case in which the request for verification was based on a reasonable suspicion of unlawful activity related to such goods; and
+
+&emsp;“(2) suspension of liquidation of the entry of a textile or apparel good for which a claim has been made that is the subject of a verification under subsection\(a)(1) regarding a claim described in subsection (a)(2)(B).
+
+“(c)
+
+Action When Information is Insufficient.—If the Secretary of the Treasury determines that the information obtained within 12 months after making a request for a verification under subsection (a)(1) is insufficient to make a determination under subsection (a)(2), the President may direct the Secretary to take appropriate action described in subsection (d) until such time as the Secretary receives information sufficient to make a determination under subsection (a)(2) or until such earlier date as the President may direct.
+
+“(d)
+
+Appropriate Action Described.—Appropriate action referred to in subsection (c) includes—
+
+&emsp;“(1) publication of the name and address of the person that is the subject of the verification;
+
+&emsp;“(2) denial of preferential tariff treatment under the Agreement to—
+
+&emsp;&emsp;“(A) any textile or apparel good exported or produced by the person that is the subject of a verification under subsection (a)(1) regarding compliance described in subsection (a)(2)(A); or
+
+&emsp;&emsp;“(B) a textile or apparel good for which a claim has been made that is the subject of a verification under subsection (a)(1) regarding a claim described in subsection (a)(2)(B); and
+
+&emsp;“(3) denial of entry into the United States of—
+
+&emsp;&emsp;“(A) any textile or apparel good exported or produced by the person that is the subject of a verification under subsection (a)(1) regarding compliance described in subsection (a)(2)(A); or
+
+&emsp;&emsp;“(B) a textile or apparel good for which a claim has been made that is the subject of a verification under subsection (a)(1) regarding a claim described in subsection (a)(2)(B).
+
+#### “SEC. 207. REGULATIONS.
+
+“The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out—
+
+&emsp;“(1) subsections (a) through (n) of section 203 and section 204;
+
+&emsp;“(2) amendments to existing law made by the sections referred to in paragraph (1); and
+
+&emsp;“(3) proclamations issued under section 203(<i>o</i>).
+
+#### “TITLE III—RELIEF FROM IMPORTS
+
+#### “SEC. 301. DEFINITIONS.
+
+“As used in this title:
+
+&emsp;“(1)
+
+Australian article.—The term ‘Australian article’ means an article that qualifies as an originating good under section 203(b) of this Act.
+
+&emsp;“(2)
+
+Australian textile or apparel article.—The term ‘Australian textile or apparel article’ means an article—
+
+&emsp;&emsp;“(A) that is listed in the Annex to the Agreement on Textiles and Clothing referred to in section 101(d)(4) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(4)); and
+
+&emsp;&emsp;“(B) that is an Australian article.
+
+&emsp;“(3)
+
+Commission.—The term ‘Commission’ means the United States International Trade Commission.
+
+#### “Subtitle A—Relief From Imports Benefiting From the Agreement
+
+#### “SEC. 311. COMMENCING OF ACTION FOR RELIEF.
+
+“(a)
+
+Filing of Petition.—
+
+&emsp;“(1)
+
+In general.—A petition requesting action under this subtitle for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with the Commission by an entity, including a trade association, firm, certified or recognized union, or group of workers, that is representative of an industry. The Commission shall transmit a copy of any petition filed under this subsection to the United States Trade Representative.
+
+&emsp;“(2)
+
+Provisional relief.—An entity filing a petition under this subsection may request that provisional relief be provided as if the petition had been filed under section 202(a) of the Trade Act of 1974 (19 U.S.C. 2252(a)).
+
+&emsp;“(3)
+
+Critical circumstances.—Any allegation that critical circumstances exist shall be included in the petition.
+
+“(b)
+
+Investigation and Determination.—Upon the filing of a petition under subsection (a), the Commission, unless subsection (d) applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided for under the Agreement, an Australian article is being imported into the United States in such increased quantities, in absolute terms or relative to domestic production, and under such conditions that imports of the Australian article constitute a substantial cause of serious injury or threat thereof to the domestic industry producing an article that is like, or directly competitive with, the imported article.
+
+“(c)
+
+Applicable Provisions.—The following provisions of section 202 of the Trade Act of 1974 (19 U.S.C. 2252) apply with respect to any investigation initiated under subsection (b):
+
+&emsp;“(1) Paragraphs (1)(B) and (3) of subsection (b).
+
+&emsp;“(2) Subsection (c).
+
+&emsp;“(3) Subsection (d).
+
+&emsp;“(4) Subsection (i).
+
+“(d)
+
+Articles Exempt From Investigation.—No investigation may be initiated under this section with respect to any Australian article if, after the date on which the Agreement enters into force \[Jan. 1, 2005\], import relief has been provided with respect to that Australian article under this subtitle.
+
+#### “SEC. 312. COMMISSION ACTION ON PETITION.
+
+“(a)
+
+Determination.—Not later than 120 days (180 days if critical circumstances have been alleged) after the date on which an investigation is initiated under section 311(b) with respect to a petition, the Commission shall make the determination required under that section.
+
+“(b)
+
+Applicable Provisions.—For purposes of this subtitle, the provisions of paragraphs (1), (2), and (3) of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d) (1), (2), and (3)) shall be applied with respect to determinations and findings made under this section as if such determinations and findings were made under section 202 of the Trade Act of 1974 (19 U.S.C. 2252).
+
+“(c)
+
+Additional Finding and Recommendation if Determination Affirmative.—If the determination made by the Commission under subsection (a) with respect to imports of an article is affirmative, or if the President may consider a determination of the Commission to be an affirmative determination as provided for under paragraph (1) of section 330(d) of the Tariff Act of 1930) \[sic\] (19 U.S.C. 1330(d)), the Commission shall find, and recommend to the President in the report required under subsection (d), the amount of import relief that is necessary to remedy or prevent the injury found by the Commission in the determination and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition. The import relief recommended by the Commission under this subsection shall be limited to that described in section 313(c). Only those members of the Commission who voted in the affirmative under subsection (a) are eligible to vote on the proposed action to remedy or prevent the injury found by the Commission. Members of the Commission who did not vote in the affirmative may submit, in the report required under subsection (d), separate views regarding what action, if any, should be taken to remedy or prevent the injury.
+
+“(d)
+
+Report to President.—Not later than the date that is 30 days after the date on which a determination is made under subsection (a) with respect to an investigation, the Commission shall submit to the President a report that includes—
+
+&emsp;“(1) the determination made under subsection (a) and an explanation of the basis for the determination;
+
+&emsp;“(2) if the determination under subsection (a) is affirmative, any findings and recommendations for import relief made under subsection (c) and an explanation of the basis for each recommendation; and
+
+&emsp;“(3) any dissenting or separate views by members of the Commission regarding the determination and recommendation referred to in paragraphs (1) and (2).
+
+“(e)
+
+Public Notice.—Upon submitting a report to the President under subsection (d), the Commission shall promptly make public such report (with the exception of information which the Commission determines to be confidential) and shall cause a summary thereof to be published in the Federal Register.
+
+#### “SEC. 313. PROVISION OF RELIEF.
+
+“(a)
+
+In General.—Not later than the date that is 30 days after the date on which the President receives the report of the Commission in which the Commission's determination under section 312(a) is affirmative, or which contains a determination under section 312(a) that the President considers to be affirmative under paragraph (1) of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d)(1)), the President, subject to subsection (b), shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to remedy or prevent the injury found by the Commission and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition.
+
+“(b)
+
+Exception.—The President is not required to provide import relief under this section if the President determines that the provision of the import relief will not provide greater economic and social benefits than costs.
+
+“(c)
+
+Nature of Relief.—
+
+&emsp;“(1)
+
+In general.—The import relief (including provisional relief) that the President is authorized to provide under this section with respect to imports of an article is as follows:
+
+&emsp;&emsp;“(A) The suspension of any further reduction provided for under Annex 2–B of the Agreement in the duty imposed on such article.
+
+&emsp;&emsp;“(B) An increase in the rate of duty imposed on such article to a level that does not exceed the lesser of—
+
+&emsp;&emsp;&emsp;“(i) the column 1 general rate of duty imposed under the HTS on like articles at the time the import relief is provided; or
+
+&emsp;&emsp;&emsp;“(ii) the column 1 general rate of duty imposed under the HTS on like articles on the day before the date on which the Agreement enters into force \[Jan. 1, 2005\].
+
+&emsp;&emsp;“(C) In the case of a duty applied on a seasonal basis to such article, an increase in the rate of duty imposed on the article to a level that does not exceed the lesser of—
+
+&emsp;&emsp;&emsp;“(i) the column 1 general rate of duty imposed under the HTS on like articles for the immediately preceding corresponding season; or
+
+&emsp;&emsp;&emsp;“(ii) the column 1 general rate of duty imposed under the HTS on like articles on the day before the date on which the Agreement enters into force.
+
+&emsp;“(2)
+
+Progressive liberalization.—If the period for which import relief is provided under this section is greater than 1 year, the President shall provide for the progressive liberalization (described in article 9.2.7 of the Agreement) of such relief at regular intervals during the period in which the relief is in effect.
+
+“(d)
+
+Period of Relief.—
+
+&emsp;“(1)
+
+In general.—Subject to paragraph (2), any import relief that the President provides under this section may not be in effect for more than 2 years.
+
+&emsp;“(2)
+
+Extension.—
+
+&emsp;&emsp;“(A)
+
+In general.—Subject to subparagraph (C), the President, after receiving an affirmative determination from the Commission under subparagraph (B), may extend the effective period of any import relief provided under this section if the President determines that—
+
+&emsp;&emsp;&emsp;“(i) the import relief continues to be necessary to remedy or prevent serious injury and to facilitate adjustment by the domestic industry to import competition; and
+
+&emsp;&emsp;&emsp;“(ii) there is evidence that the industry is making a positive adjustment to import competition.
+
+&emsp;&emsp;“(B)
+
+Action by commission.—(i) Upon a petition on behalf of the industry concerned that is filed with the Commission not earlier than the date which is 9 months, and not later than the date which is 6 months, before the date any action taken under subsection (a) is to terminate, the Commission shall conduct an investigation to determine whether action under this section continues to be necessary to remedy or prevent serious injury and whether there is evidence that the industry is making a positive adjustment to import competition.
+
+&emsp;&emsp;“(ii) The Commission shall publish notice of the commencement of any proceeding under this subparagraph in the Federal Register and shall, within a reasonable time thereafter, hold a public hearing at which the Commission shall afford interested parties and consumers an opportunity to be present, to present evidence, and to respond to the presentations of other parties and consumers, and otherwise to be heard.
+
+&emsp;&emsp;“(iii) The Commission shall transmit to the President a report on its investigation and determination under this subparagraph not later than 60 days before the action under subsection (a) is to terminate, unless the President specifies a different date.
+
+&emsp;&emsp;“(C)
+
+Period of import relief.—Any import relief provided under this section, including any extensions thereof, may not, in the aggregate, be in effect for more than 4 years.
+
+“(e)
+
+Rate After Termination of Import Relief.—When import relief under this section is terminated with respect to an article—
+
+&emsp;“(1) the rate of duty on that article after such termination and on or before December 31 of the year in which such termination occurs shall be the rate that, according to the Schedule of the United States to Annex 2–B of the Agreement for the staged elimination of the tariff, would have been in effect 1 year after the provision of relief under subsection (a); and
+
+&emsp;“(2) the rate of duty for that article after December 31 of the year in which termination occurs shall be, at the discretion of the President, either—
+
+&emsp;&emsp;“(A) the applicable NTR (MFN) rate of duty for that article set out in the Schedule of the United States to Annex 2–B of the Agreement; or
+
+&emsp;&emsp;“(B) the rate of duty resulting from the elimination of the tariff in equal annual stages ending on the date set out in the Schedule of the United States to Annex 2–B of the Agreement for the elimination of the tariff.
+
+“(f)
+
+Articles Exempt From Relief.—No import relief may be provided under this section on any article that—
+
+&emsp;“(1) is subject to—
+
+&emsp;&emsp;“(A) import relief under subtitle B; or
+
+&emsp;&emsp;“(B) an assessment of additional duty under subsection (b), (c), or (d) of section 202; or
+
+&emsp;“(2) has been subject to import relief under this subtitle after the date on which the Agreement enters into force \[Jan. 1, 2005\].
+
+#### “SEC. 314. TERMINATION OF RELIEF AUTHORITY.
+
+“(a)
+
+General Rule.—Subject to subsection (b), no import relief may be provided under this subtitle after the date that is 10 years after the date on which the Agreement enters into force \[Jan. 1, 2005\].
+
+“(b)
+
+Exception.—If an article for which relief is provided under this subtitle is an article for which the period for tariff elimination, set out in the Schedule of the United States to Annex 2–B of the Agreement, is greater than 10 years, no relief under this subtitle may be provided for that article after the date on which such period ends.
+
+“(c)
+
+Presidential Determination.—Import relief may be provided under this subtitle in the case of an Australian article after the date on which such relief would, but for this subsection, terminate under subsection (a) or (b), if the President determines that Australia has consented to such relief.
+
+#### “SEC. 315. COMPENSATION AUTHORITY.
+
+“For purposes of section 123 of the Trade Act of 1974 (19 U.S.C. 2133), any import relief provided by the President under section 313 shall be treated as action taken under chapter 1 of title II of such Act \[19 U.S.C. 2251 et seq.\].
+
+#### “SEC. 316. CONFIDENTIAL BUSINESS INFORMATION.
+
+\[Amended section 2252 of this title.\]
+
+#### “Subtitle B—Textile and Apparel Safeguard Measures
+
+#### “SEC. 321. COMMENCEMENT OF ACTION FOR RELIEF.
+
+“(a)
+
+In General.—A request under this subtitle for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with the President by an interested party. Upon the filing of a request, the President shall review the request to determine, from information presented in the request, whether to commence consideration of the request.
+
+“(b)
+
+Allegation of Critical Circumstances.—An interested party filing a request under this section may—
+
+&emsp;“(1) allege that critical circumstances exist such that delay in the provision of relief would cause damage that would be difficult to repair; and
+
+&emsp;“(2) based on such allegation, request that relief be provided on a provisional basis.
+
+“(c)
+
+Publication of Request.—If the President determines that the request under subsection (a) provides the information necessary for the request to be considered, the President shall cause to be published in the Federal Register a notice of commencement of consideration of the request, and notice seeking public comments regarding the request. The notice shall include a summary of the request and the dates by which comments and rebuttals must be received.
+
+#### “SEC. 322. DETERMINATION AND PROVISION OF RELIEF.
+
+“(a)
+
+Determination.—
+
+&emsp;“(1)
+
+In general.—If a positive determination is made under section 321(c), the President shall determine whether, as a result of the reduction or elimination of a duty under the Agreement, an Australian textile or apparel article is being imported into the United States in such increased quantities, in absolute terms or relative to the domestic market for that article, and under such conditions as to cause serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article.
+
+&emsp;“(2)
+
+Serious damage.—In making a determination under paragraph (1), the President—
+
+&emsp;&emsp;“(A) shall examine the effect of increased imports on the domestic industry, as reflected in changes in such relevant economic factors as output, productivity, utilization of capacity, inventories, market share, exports, wages, employment, domestic prices, profits, and investment, none of which is necessarily decisive; and
+
+&emsp;&emsp;“(B) shall not consider changes in technology or consumer preference as factors supporting a determination of serious damage or actual threat thereof.
+
+“(b)
+
+Provision of Relief.—
+
+&emsp;“(1)
+
+In general.—If a determination under subsection (a) is affirmative, the President may provide relief from imports of the article that is the subject of such determination, as described in paragraph (2), to the extent that the President determines necessary to remedy or prevent the serious damage and to facilitate adjustment by the domestic industry to import competition.
+
+&emsp;“(2)
+
+Nature of relief.—The relief that the President is authorized to provide under this subsection with respect to imports of an article is an increase in the rate of duty imposed on the article to a level that does not exceed the lesser of—
+
+&emsp;&emsp;“(A) the column 1 general rate of duty imposed under the HTS on like articles at the time the import relief is provided; or
+
+&emsp;&emsp;“(B) the column 1 general rate of duty imposed under the HTS on like articles on the day before the date on which the Agreement enters into force \[Jan. 1, 2005\].
+
+“(c)
+
+Critical Circumstances.—
+
+&emsp;“(1)
+
+Presidential determination.—When a request filed under section 321(a) contains an allegation of critical circumstances and a request for provisional relief under section 321(b), the President shall, not later than 60 days after the request is filed, determine, on the basis of available information, whether—
+
+&emsp;&emsp;“(A) there is clear evidence that—
+
+&emsp;&emsp;&emsp;“(i) imports from Australia have increased as the result of the reduction or elimination of a customs duty under the Agreement; and
+
+&emsp;&emsp;&emsp;“(ii) such imports are causing serious damage, or actual threat thereof, to the domestic industry producing an article like or directly competitive with the imported article; and
+
+&emsp;&emsp;“(B) delay in taking action under this subtitle would cause damage to that industry that would be difficult to repair.
+
+&emsp;“(2)
+
+Extent of provisional relief.—If the determinations under subparagraphs (A) and (B) of paragraph (1) are affirmative, the President shall determine the extent of provisional relief that is necessary to remedy or prevent the serious damage. The nature of the provisional relief available shall be the relief described in subsection (b)(2). Within 30 days after making affirmative determinations under subparagraphs (A) and (B) of paragraph (1), the President, if the President considers provisional relief to be warranted, shall provide, for a period not to exceed 200 days, such provisional relief that the President considers necessary to remedy or prevent the serious damage.
+
+&emsp;“(3)
+
+Suspension of liquidation.—If provisional relief is provided under paragraph (2), the President shall order the suspension of liquidation of all imported articles subject to the affirmative determinations under subparagraphs (A) and (B) of paragraph (1) that are entered, or withdrawn from warehouse for consumption, on or after the date of the determinations.
+
+&emsp;“(4)
+
+Termination of provisional relief.—
+
+&emsp;&emsp;“(A)
+
+In general.—Any provisional relief implemented under this subsection with respect to an imported article shall terminate on the day on which—
+
+&emsp;&emsp;&emsp;“(i) the President makes a negative determination under subsection (a) regarding serious damage or actual threat thereof by imports of such article;
+
+&emsp;&emsp;&emsp;“(ii) action described in subsection (b) takes effect with respect to such article;
+
+&emsp;&emsp;&emsp;“(iii) a decision by the President not to take any action under subsection (b) with respect to such article becomes final; or
+
+&emsp;&emsp;&emsp;“(iv) the President determines that, because of changed circumstances, such relief is no longer warranted.
+
+&emsp;&emsp;“(B)
+
+Suspension of liquidation.—Any suspension of liquidation ordered under paragraph (3) with respect to an imported article shall terminate on the day on which provisional relief is terminated under subparagraph (A) with respect to the article.
+
+&emsp;&emsp;“(C)
+
+Rates of duty.—If an increase in, or the imposition of, a duty that is provided under subsection (b) on an imported article is different from a duty increase or imposition that was provided for such an article under this subsection, then the entry of any such article for which liquidation was suspended under paragraph (3) shall be liquidated at whichever of such rates of duty is lower.
+
+&emsp;&emsp;“(D)
+
+Rate of duty if provisional relief.—If provisional relief is provided under this subsection with respect to an imported article and neither a duty increase nor a duty imposition is provided under subsection (b) for such article, the entry of any such article for which liquidation was suspended under paragraph (3) shall be liquidated at the rate of duty that applied before the provisional relief was provided.
+
+#### “SEC. 323. PERIOD OF RELIEF.
+
+“(a)
+
+In General.—Subject to subsection (b), the import relief that the President provides under subsections (b) and (c) of section 322 may not, in the aggregate, be in effect for more than 2 years.
+
+“(b)
+
+Extension.—
+
+&emsp;“(1)
+
+In general.—Subject to paragraph (2), the President may extend the effective period of any import relief provided under this subtitle for a period of not more than 2 years, if the President determines that—
+
+&emsp;&emsp;“(A) the import relief continues to be necessary to remedy or prevent serious damage and to facilitate adjustment by the domestic industry to import competition; and
+
+&emsp;&emsp;“(B) there is evidence that the industry is making a positive adjustment to import competition.
+
+&emsp;“(2)
+
+Limitation.—Any relief provided under this subtitle, including any extensions thereof, may not, in the aggregate, be in effect for more than 4 years.
+
+#### “SEC. 324. ARTICLES EXEMPT FROM RELIEF.
+
+“The President may not provide import relief under this subtitle with respect to any article if—
+
+&emsp;“(1) import relief previously has been provided under this subtitle with respect to that article; or
+
+&emsp;“(2) the article is subject to import relief under—
+
+&emsp;&emsp;“(A) subtitle A; or
+
+&emsp;&emsp;“(B) chapter 1 of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.).
+
+#### “SEC. 325. RATE AFTER TERMINATION OF IMPORT RELIEF.
+
+“When import relief under this subtitle is terminated with respect to an article, the rate of duty on that article shall be the rate that would have been in effect, but for the provision of such relief, on the date the relief terminates.
+
+#### “SEC. 326. TERMINATION OF RELIEF AUTHORITY.
+
+“No import relief may be provided under this subtitle with respect to any article after the date that is 10 years after the date on which duties on the article are eliminated pursuant to the Agreement.
+
+#### “SEC. 327. COMPENSATION AUTHORITY.
+
+“For purposes of section 123 of the Trade Act of 1974 (19 U.S.C. 2133), any import relief provided by the President under this subtitle shall be treated as action taken under chapter 1 of title II of such Act \[19 U.S.C. 2251 et seq.\].
+
+#### “SEC. 328. BUSINESS CONFIDENTIAL INFORMATION.
+
+“The President may not release information which is submitted in a proceeding under this subtitle and which the President considers to be confidential business information unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released, or such party subsequently consents to the release of the information. To the extent a party submits confidential business information to the President in a proceeding under this subtitle, the party also shall submit a nonconfidential version of the information, in which the confidential business information is summarized or, if necessary, deleted.
+
+#### “Subtitle C—Cases Under Title II of the Trade Act of 1974
+
+#### “SEC. 331. FINDINGS AND ACTION ON GOODS FROM AUSTRALIA.
+
+“(a)
+
+Effect of Imports.—If, in any investigation initiated under chapter 1 of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.), the Commission makes an affirmative determination (or a determination which the President may treat as an affirmative determination under such chapter by reason of section 330(d) of the Tariff Act of 1930 \[19 U.S.C. 1330(d)\]), the Commission shall also find (and report to the President at the time such injury determination is submitted to the President) whether imports of the article from Australia are a substantial cause of serious injury or threat thereof.
+
+“(b)
+
+Presidential Determination Regarding Australian Imports.—In determining the nature and extent of action to be taken under chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], the President shall determine whether imports from Australia are a substantial cause of the serious injury or threat thereof found by the Commission and, if such determination is in the negative, may exclude from such action imports from Australia.
+
+#### “TITLE IV—PROCUREMENT
+
+#### “SEC. 401. ELIGIBLE PRODUCTS.”
+
+\[Amended section 2518 of this title.\]
+
+\[The Harmonized Tariff Schedule of the United States is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.\]
+
+\[Proc. No. 7857, Dec. 20, 2004, 69 F.R. 77136, provided in par. (3) that the Secretary of Commerce is authorized to exercise the authority of the President under section 105(a) of the United States-Australia Free Trade Agreement Implementation Act (USAFTA Act) (Pub. L. 108–286, set out above) to establish or designate an office within the Department of Commerce to carry out the functions set forth in that section; in par. (5) that the Committee for the Implementation of Textile Agreements (CITA) is authorized to exercise the authority of the President under section 206 of the USAFTA Act to exclude textile and apparel goods from the customs territory of the United States, to determine whether an enterprise's production of and capability to produce goods are consistent with statements by the enterprise, to find that an enterprise has knowingly or willfully engaged in circumvention, and to deny preferential tariff treatment to textile and apparel goods; and in par. (6) that the CITA is authorized to exercise the authority of the President under sections 321–328 of the USAFTA Act to review requests, including allegations of critical circumstances, and to determine whether to commence consideration of such requests, to cause to be published in the Federal Register a notice of commencement of consideration of a request and notice seeking public comment, to determine whether imports of an Australian textile or apparel article are causing serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article, and to provide relief from imports of an article that is the subject of such a determination, and if critical circumstances are alleged, to determine whether there is clear evidence that imports from Australia have increased as the result of the reduction or elimination of a customs duty under the United States-Australia Free Trade Agreement, whether there is clear evidence that such imports are causing serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article, and whether delay in taking action would cause damage to that industry that would be difficult to repair, and to provide provisional relief with respect to imports that are subject to an affirmative determination of critical circumstances that is necessary to remedy or prevent the serious damage.\]
 
 #### United States-Singapore Free Trade Agreement Implementation Act
 
@@ -248,7 +2687,7 @@ Consultation and Layover Requirements.—If a provision of this Act provides tha
 
 “(b)
 
-Effective Date of Certain Proclaimed Actions.—Any action proclaimed by the President underthe authority of this Act that is not subject to the consultation and layover provisions under subsection (a) may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
+Effective Date of Certain Proclaimed Actions.—Any action proclaimed by the President under the authority of this Act that is not subject to the consultation and layover provisions under subsection (a) may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
 
 #### “SEC. 104. IMPLEMENTING ACTIONS IN ANTICIPATION OF ENTRY INTO FORCE AND INITIAL REGULATIONS.
 
@@ -272,7 +2711,7 @@ Waiver of 15-day restriction.—The 15-day restriction in section 103(b) on the 
 
 “(b)
 
-Initial Regulations.—Initial regulations necessary or appropriate to carry out the actions required by or authorized under this Act or proposed in the statement of administrative action submitted under section 101(a)(2) to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date of entry into force of the Agreement \[Jan. 1, 2004\]. In the case of any implementing action that takes effect on a date after the date of entry into force of the Agreement, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
+Initial Regulations.—Initial regulations necessary or appropriate to carry out the actions required by or authorized under this Act or proposed in the statement of administrative action submitted undersection 101(a)(2) to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date of entry into force of the Agreement \[Jan. 1, 2004\]. In the case of any implementing action that takes effect on a date after the date of entry into force of the Agreement, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
 
 #### “SEC. 105. ADMINISTRATION OF DISPUTE SETTLEMENT PROCEEDINGS.
 
@@ -372,7 +2811,7 @@ In general.—Except as provided for in paragraphs (2) and (3), a good shall be 
 
 &emsp;&emsp;“(A) the value of all nonoriginating materials used in the production of the good that do not undergo the required change in tariff classification under Annex 3A of the Agreement does not exceed 10 percent of the adjusted value of the good;
 
-&emsp;&emsp;“(B) if the good is subject to a regional value-content requirement, the value of such nonoriginatingmaterials is taken into account in calculating the regional value-content of the good; and
+&emsp;&emsp;“(B) if the good is subject to a regional value-content requirement, the value of such nonoriginating materials is taken into account in calculating the regional value-content of the good; and
 
 &emsp;&emsp;“(C) the good satisfies all other applicable requirements of this section.
 
@@ -390,7 +2829,7 @@ Exceptions.—Paragraph (1) does not apply to the following:
 
 &emsp;&emsp;“(E) A nonoriginating material provided for in heading 1701 of the HTS that is used in the production of a good provided for in any of headings 1701 through 1703 of the HTS.
 
-&emsp;&emsp;“(F) A nonoriginating material provided for in chapter 17 of the HTS or heading 1805.00.00 of the HTS that is used in the production of a good provided for in subheading 1806.10 of the HTS.
+&emsp;&emsp;“(F) A nonoriginating material provided for in chapter 17 of the HTS or heading 1805.00.00 of theHTS that is used in the production of a good provided for in subheading 1806.10 of the HTS.
 
 &emsp;&emsp;“(G) A nonoriginating material provided for in any of headings 2203 through 2208 of the HTS that is used in the production of a good provided for in heading 2207 or 2208 of the HTS.
 
@@ -562,7 +3001,7 @@ Accessories, Spare Parts, or Tools.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2), accessories, spare parts, or tools delivered with the good that form part of the good's standard accessories, spare parts, or tools shall—
+In general.—Subject to paragraph (2), accessories, spare parts, or tools delivered with the goodthat form part of the good's standard accessories, spare parts, or tools shall—
 
 &emsp;&emsp;“(A) be treated as originating goods if the good is an originating good; and
 
@@ -834,7 +3273,7 @@ Denial of Permission To Conduct Site Visits.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2), if the Secretary of the Treasury proposes to conduct a site visit at an enterprise registered under article 5.3 of the Agreement, and responsible officials of the enterprise do not consent to the proposed visit, the President may exclude from the customs territory of the United States textile and apparel goods produced or exported by that enterprise.
+In general.—Subject to paragraph (2), if the Secretary of the Treasury proposes to conduct a sitevisit at an enterprise registered under article 5.3 of the Agreement, and responsible officials of the enterprise do not consent to the proposed visit, the President may exclude from the customs territory of the United States textile and apparel goods produced or exported by that enterprise.
 
 &emsp;“(2)
 
@@ -1058,7 +3497,7 @@ In general.—Subject to subparagraph (C), the President, after receiving an aff
 
 Action by commission.—
 
-&emsp;&emsp;&emsp;“(i) Upon a petition on behalf of the industry concerned, filed with the Commission not earlierthan the date which is 9 months, and not later than the date which is 6 months, before the date on which any action taken under subsection (a) is to terminate, the Commission shall conduct an investigation to determine whether action under this section continues to be necessary to remedy or prevent serious injury and whether there is evidence that the industry is making a positive adjustment to import competition.
+&emsp;&emsp;&emsp;“(i) Upon a petition on behalf of the industry concerned, filed with the Commission not earlier than the date which is 9 months, and not later than the date which is 6 months, before the date on which any action taken under subsection (a) is to terminate, the Commission shall conduct an investigation to determine whether action under this section continues to be necessary to remedy or prevent serious injury and whether there is evidence that the industry is making a positive adjustment to import competition.
 
 &emsp;&emsp;&emsp;“(ii) The Commission shall publish notice of the commencement of any proceeding under this subparagraph in the Federal Register and shall, within a reasonable time thereafter, hold a public hearing at which the Commission shall afford interested parties and consumers an opportunity to be present, to present evidence, and to respond to the presentations of other parties and consumers, and otherwise to be heard.
 
@@ -1228,7 +3667,7 @@ Presidential Determination Regarding Singaporean Imports.—In determining the n
 
 #### United States-Chile Free Trade Agreement Implementation Act
 
-Pub. L. 108–77, Sept. 3, 2003, 117 Stat. 909, provided that:
+Pub. L. 108–77, Sept. 3, 2003, 117 Stat. 909, as amended by Pub. L. 108–429, title II, §2004(d)(7), Dec. 3, 2004, 118 Stat. 2593, provided that:
 
 #### “SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
 
@@ -1280,7 +3719,7 @@ Approval of Agreement and Statement of Administrative Action.—Pursuant to sect
 
 “(b)
 
-Conditions for Entry Into Force of the Agreement.—At such time as the President determines that Chile has taken measures necessary to bring it into compliance with the provisions of the Agreement that take effect on the date on which the Agreement enters into force, the President is authorized to exchange notes with the Government of Chile providing for the entry into force, on or after January 1, 2004, of the Agreement for the United States.
+Conditions for Entry Into Force of the Agreement.—At such time as the President determines that Chile has taken measures necessary to bring it into compliance with the provisions of the Agreement that take effect on the date on which the Agreement enters into force, the President is authorized to exchange notes with the Government of Chile providing for theentry into force, on or after January 1, 2004, of the Agreement for the United States.
 
 #### “SEC. 102. RELATIONSHIP OF THE AGREEMENT TO UNITED STATES AND STATE LAW.
 
@@ -1384,7 +3823,7 @@ Establishment or Designation of Office.—The President is authorized to establi
 
 “(b)
 
-Authorization of Appropriations.—There are authorized to be appropriated for each fiscal year after fiscal year 2003 to the Department of Commerce such sums as may be necessary for the establishment andoperations of the office under subsection (a) and for the payment of the United States share of the expenses of panels established under chapter 22 of the Agreement.
+Authorization of Appropriations.—There are authorized to be appropriated for each fiscal year after fiscal year 2003 to the Department of Commerce such sums as may be necessary for the establishment and operations of the office under subsection (a) and for the payment of the United States share of the expenses of panels established under chapter 22 of the Agreement.
 
 #### “SEC. 106. ARBITRATION OF CLAIMS.
 
@@ -1626,7 +4065,7 @@ Regional Value-Content.—
 
 &emsp;“(1)
 
-In general.—For purposes of subsection (a)(2), the regional value-content of a good referred to in Annex 4.1 of the Agreement shall be calculated, at the choice of the person claiming preferential tariff treatment for the good, on the basis of the build-down method described in paragraph (2) or the build-up method described in paragraph (3), unless otherwise provided in Annex 4.1 of the Agreement.
+In general.—For purposes of subsection (a)(1)(B), the regional value-content of a good referred to in Annex 4.1 of the Agreement shall be calculated, at the choice of the person claiming preferential tariff treatment for the good, on the basis of the build-down method described in paragraph (2) or the build-up method described in paragraph (3), unless otherwise provided in Annex 4.1 of the Agreement.
 
 &emsp;“(2)
 
@@ -1918,7 +4357,7 @@ Packing materials and containers for shipment.—The term ‘packing materials a
 
 &emsp;“(11)
 
-Preferential tariff treatment.—The term ‘preferential tariff treatment’ means the customsduty rate that is applicable to an originating good pursuant to chapter 3 of the Agreement.
+Preferential tariff treatment.—The term ‘preferential tariff treatment’ means the customs duty rate that is applicable to an originating good pursuant to chapter 3 of the Agreement.
 
 &emsp;“(12)
 
@@ -2084,7 +4523,7 @@ Denial of Preferential Tariff Treatment.—\[Amended section 1514 of this title.
 
 “(a)
 
-Action During Verification.—If the Secretary of the Treasury requests the Government of Chile toconduct a verification pursuant to article 3.21 of the Agreement for purposes of determining that—
+Action During Verification.—If the Secretary of the Treasury requests the Government of Chile to conduct a verification pursuant to article 3.21 of the Agreement for purposes of determining that—
 
 &emsp;“(1) an exporter or producer in Chile is complying with applicable customs laws, regulations, and procedures regarding trade in textile and apparel goods, or
 
@@ -2308,7 +4747,7 @@ Exception.—If an article for which relief is provided under this subtitle is a
 
 “(a)
 
-In General.—A request under this subtitle for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with the President by an interested party. Upon the filing ofa request, the President shall review the request to determine, from information presented in the request, whether to commence consideration of the request.
+In General.—A request under this subtitle for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with the President by an interested party. Upon the filing of a request, the President shall review the request to determine, from information presented in the request, whether to commence consideration of the request.
 
 “(b)
 
@@ -2432,11 +4871,5 @@ Use of fee.—\[Amended section 1356 of Title 8.\]
 
 \[The Harmonized Tariff Schedule of the United States is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.\]
 
-\[Proc. No. 7746, Dec. 30, 2003, 68 F.R. 75790, provided in par. (3) that the Secretary of Commerce is authorized to exercise the authority of the President under section105(a) of the United States-Chile Free Trade Agreement Implementation Act (USCFTA Act) (Pub. L. 108–77, set out above) to establish or designate an office within the Department of Commerce to carry out the functions set forth in that section; in par. (4) that the Committee for the Implementation of Textile Agreements (CITA) is authorized to exercise the authority of the President under section 208 of the USCFTA Act with respect to verifications conducted in a manner consistent with article 3.21 of the United States-Chile Free Trade Agreement; and in par. (5) that the CITA is authorized to exercise the authority of the President under subtitle B of title III of the USCFTA Act to review requests and to determine whether to commence consideration of such requests, to cause to be published in the Federal Register a notice of commencement of consideration of a request and notice seeking public comment, to determine whether a Chilean textile or apparel article is being imported into the United States in such increased quantities and under such conditions as to cause serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article, and to provide relief from imports of an article that is the subject of such a determination.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2155, 2191, 3803, 3804, 3806, 3808 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
+\[Proc. No. 7746, Dec. 30, 2003, 68 F.R. 75790, provided in par. (3) that the Secretary of Commerce is authorized to exercise the authority of the President under section 105(a) of the United States-Chile Free Trade Agreement Implementation Act (USCFTA Act) (Pub. L. 108–77, set out above) to establish or designate an office within the Department of Commerce to carry out the functions set forth in that section; in par. (4) that the Committee for the Implementation of Textile Agreements (CITA) is authorized to exercise the authority of the President under section 208 of the USCFTA Act with respect to verifications conducted in a manner consistent with article 3.21 of the United States-Chile Free Trade Agreement; and in par. (5) that the CITA is authorized to exercise the authority of the President under subtitle B of title III of the USCFTA Act to review requests and to determine whether to commence consideration of such requests, to cause to be published in the Federal Register a notice of commencement of consideration of a request and notice seeking public comment, to determine whether a Chilean textile or apparel article is being imported into the United States in such increased quantities and under such conditions as to cause serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article, and to provide relief from imports of an article that is the subject of such a determination.\]
 

@@ -102,6 +102,7 @@ Self-determination contracts.
 | :--- | ---: |
 | 450e–1. | Grant and cooperative agreements. |
 | 450e–2. | Use of excess funds. |
+| 450e–3. | Investment of advance payments; restrictions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1068,11 +1069,11 @@ In general.
 
 Availability of appropriations.
 
-#### Part F—American Indian Education Foundation
+#### Part F—National Fund for Excellence in American Indian Education
 
 |  |  |
 | :--- | ---: |
-| [458bbb.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20F%20-%20American%20Indian%20Education%20Foundation/%C2%A7%2000458bbb%20-%20American%20Indian%20Education%20Foundation.md) | American Indian Education Foundation. |
+| [458bbb.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20F%20-%20National%20Fund%20for%20Excellence%20in%20American%20Indian%20Education/%C2%A7%2000458bbb%20-%20National%20Fund%20for%20Excellence%20in%20American%20Indian%20Education.md) | National Fund for Excellence in American Indian Education. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1329,6 +1330,10 @@ Privileges and immunities of Indian tribes; prohibition on new regulations.
 (g)
 
 Privileges and immunities of Indian tribes; existing regulations.
+
+(h)
+
+Tribal sovereignty.
 
 |  |  |
 | :--- | ---: |
@@ -2080,8 +2085,7 @@ Transfer of unallotted lands to tribally owned or municipal corporations.
 | [636\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000636%20-%20Adoption%20of%20constitution%20by%20Navajo%20Tribe%3B%20method%3B%20contents.md) | Adoption of constitution by Navajo Tribe; method; contents. |
 | [637\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000637%20-%20Use%20of%20Navajo%20tribal%20funds.md) | Use of Navajo tribal funds. |
 | [638\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000638%20-%20Participation%20by%20Tribal%20Councils%3B%20recommendations.md) | Participation by Tribal Councils; recommendations. |
-| [639\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000639%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20I%2C%20%C2%A7110%28u%29%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202175.md) | Additional Social Security contributions to States. |
-| [640\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000640%20-%20Repealed.%20Pub.%20L.%2093%E2%80%93531%2C%20%C2%A726%2C%20Dec.%2022%2C%201974%2C%2088%20Stat.%201723.md) | Repealed. |
+| 639, 640. | Repealed. |
 | [640a.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000640a%20-%20Navajo%20Community%20College%3B%20purpose.md) | Navajo Community College; purpose. |
 | [640b.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000640b%20-%20Grants.md) | Grants. |
 | [640c.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000640c%20-%20Study%20of%20facilities%20needs.md) | Study of facilities needs. |

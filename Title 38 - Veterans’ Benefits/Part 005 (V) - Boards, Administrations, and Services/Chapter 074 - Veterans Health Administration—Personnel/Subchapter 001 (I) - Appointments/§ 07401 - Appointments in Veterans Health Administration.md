@@ -6,15 +6,17 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
 &emsp;(2) Scientific and professional personnel, such as microbiologists, chemists, and biostatisticians.
 
-&emsp;(3) Audiologists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical and dental technologists, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technicians, therapeutic radiologic technicians, and social workers.
+&emsp;(3) Audiologists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, blind rehabilitation specialists, and blind rehabilitation outpatient specialists.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057.)
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057; Pub. L. 108–422, title V, §502, Nov. 30, 2004, 118 Stat. 2396.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 4104 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+
+2004—Par. (3). Pub. L. 108–422 substituted “technologists, dental hygienists, dental assistants” for “and dental technologists” and “technologists, therapeutic radiologic technologists, social workers, blind rehabilitation specialists, and blind rehabilitation outpatient specialists” for “technicians, therapeutic radiologic technicians, and social workers”.
 
 2003—Pub. L. 108–170, §302(a)(1), substituted “health” for “medical” in introductory provisions.
 
@@ -32,9 +34,5 @@ Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day per
 
 #### Prior Appointments of Certain Personnel
 
-Pub. L. 108–170, title III, §301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provided that: “Personnel appointed to theVeterans Health Administration before the date of the enactment of this Act \[Dec. 6, 2003\] who are in an occupational category of employees specified in paragraph (3) of section 7401 of title 38, United States Code, by reason of the amendment made by paragraph (1)(B) of this subsection \[amending this section\] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7402, 7403, 7404, 7405, 7407, 7408, 7410, 7411, 7423, 7424, 7425, 7451, 7452, 7454, 7455, 7457, 7461, 7462, 7463, 7612, 7672 of this title; title 5 section 7511.
+Pub. L. 108–170, title III, §301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provided that: “Personnel appointed to the Veterans Health Administration before the date of the enactment of this Act \[Dec. 6, 2003\] who are in an occupational category of employees specified in paragraph (3) of section 7401 of title 38, United States Code, by reason of the amendment made by paragraph (1)(B) of this subsection \[amending this section\] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3).”
 

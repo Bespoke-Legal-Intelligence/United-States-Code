@@ -26,6 +26,9 @@
 | [3922a.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003922a%20-%20Representation%20of%20minorities%20and%20women%20in%20Foreign%20Service.md) | Representation of minorities and women in Foreign Service. |
 | (a) | Development of program. |
 | (b) | Emphasis on mid-levels. |
+| [3922b.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003922b%20-%20Public%20diplomacy%20training.md) | Public diplomacy training. |
+| (a) | Statement of policy. |
+| (b) | Personnel. |
 | [3923\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003923%20-%20Compatibility%20among%20agencies%20utilizing%20Foreign%20Service%20personnel%20system.md) | Compatibility among agencies utilizing Foreign Service personnel system. |
 | [3924\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003924%20-%20Uniform%20and%20consolidated%20administration%20of%20Service.md) | Uniform and consolidated administration of Service. |
 | [3925\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003925%20-%20Compatibility%20between%20Foreign%20Service%20and%20other%20Government%20personnel%20systems.md) | Compatibility between Foreign Service and other Government personnel systems. |
@@ -34,6 +37,10 @@
 | (a) | Duties. |
 | (b) | Duties of agencies with employees in foreign countries. |
 | (c) | Promotion of United States goods and services. |
+| [3927a.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003927a%20-%20Review%20by%20chief%20of%20mission.md) | Review by chief of mission. |
+| (a) | Review of staff element under chief of mission authority; approval; process. |
+| (b) | Actions by Secretary of State. |
+| (c) | Reports. |
 | [3928\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003928%20-%20Director%20General%20of%20Foreign%20Service.md) | Director General of Foreign Service. |
 | [3929\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003929%20-%20Inspector%20General.md) | Inspector General. |
 | (a) | Appointment; supervision by Secretary of State; prohibition against interference by State Department with certain duties; inspections, audits, and other functions; removal from office. |
@@ -245,6 +252,7 @@
 | (b) | Selection and appointment of scholars. |
 | (c) | Establishment of selection board. |
 | [4028\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004028%20-%20Training%20for%20Foreign%20Service%20officers.md) | Training for Foreign Service officers. |
+| [4029\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004029%20-%20Increased%20training%20in%20multilateral%20diplomacy.md) | Increased training in multilateral diplomacy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -862,10 +870,6 @@ Provisions of this chapter are derived from the Foreign Service Act of 1946, for
 #### Foreign Commercial Service
 
 For authority of Secretary of Commerce to establish a Foreign Commercial Service in Department of Commerce, see section 1–104 of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 991, as amended, set out as a note under section 2171 of Title 19, Customs Duties.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 285a, 290g–l, 290i–2, 1474, 1928, 2021, 2024, 2385, 2391, 2396, 2504, 2506, 2514, 2605, 2664a, 2684, 3503, 4823, 6982 of this title; title 5 sections 5102, 5721, 5724; title 15 section 4721; title 38 section 707; title 42 section 5055.
 
 
 ---

@@ -36,7 +36,3 @@ The Secretary shall award grants, contracts, or cooperative agreements to public
 
 (Pub. L. 106–402, title I, §162, Oct. 30, 2000, 114 Stat. 1727.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15083 of this title.
-

@@ -24,7 +24,7 @@
 
 #### (3) Grants
 
-&emsp;To carry out the program under this section, the Secretary, acting through the Director, may award grants or enter into other appropriate arrangements with Indian tribes, tribal organizations, intertribal consortia, or other tribal entities that the Secretary, in consultation with the Director, determines to be appropriate.
+&emsp;To carry out the program under this section, the Secretary, acting through the Director, may award grants or enter into other appropriate arrangements with Indian tribes, tribalorganizations, intertribal consortia, or other tribal entities that the Secretary, in consultation with the Director, determines to be appropriate.
 
 #### (4) Locations
 
@@ -57,8 +57,4 @@ The Secretary, acting through the Director, shall provide financial assistance, 
 The demonstration projects conducted under this section shall include provisions to facilitate the development and financing of infrastructure, including the development of Indian reservation roads in a manner consistent with title 23.
 
 (Pub. L. 106–464, §6, Nov. 7, 2000, 114 Stat. 2016.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4306 of this title.
 

@@ -10,7 +10,3 @@
 
 (Added Pub. L. 106–523, §2(a), Nov. 22, 2000, 114 Stat. 2489.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3262, 3264, 3265 of this title.
-

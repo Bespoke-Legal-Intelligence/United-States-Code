@@ -6,7 +6,7 @@ The Commission may, by rule or order, authorize any intrastate pipeline to assig
 
 #### (b) Effect of authorization under subsection (a)
 
-For the effect of an authorization under subsection (a) of this section, see section 3431 of this title (relating to the coordination of this chapter with the Natural Gas Act \[15 U.S.C. 717 et seq.\]).
+For the effect of an authorization under subsection (a) of this section, see section 3431 ofthis title (relating to the coordination of this chapter with the Natural Gas Act \[15 U.S.C. 717 et seq.\]).
 
 #### (c) Surplus natural gas
 
@@ -31,8 +31,4 @@ The Natural Gas Act, referred to in subsec. (b), is act June 21, 1938, ch. 556, 
 #### Effective Date of 1989 Amendment
 
 Section 3(b) of Pub. L. 101–60 provided in part that the amendment by section 3(b)(2) of Pub. L. 101–60 is effective Jan. 1, 1993.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3374, 3431 of this title.
 

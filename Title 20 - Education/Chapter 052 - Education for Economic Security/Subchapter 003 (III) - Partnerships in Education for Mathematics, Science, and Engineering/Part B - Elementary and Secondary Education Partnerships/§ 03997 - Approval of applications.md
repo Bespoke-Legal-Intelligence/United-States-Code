@@ -20,7 +20,3 @@ The State shall adopt approval procedures designed to ensure that grants are equ
 
 (Pub. L. 98–377, title III, §327, as added Pub. L. 100–418, title VI, §6031(a)(2), Aug. 23, 1988, 102 Stat. 1482.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3998 of this title.
-

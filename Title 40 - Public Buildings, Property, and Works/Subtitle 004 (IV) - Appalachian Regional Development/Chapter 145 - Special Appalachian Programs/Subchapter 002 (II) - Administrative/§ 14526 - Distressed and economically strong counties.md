@@ -90,7 +90,3 @@ Pub. L. 89–4, title II, §226, as added Pub. L. 105–393, title II, §219, No
 
 In subsection (a)(1), before clause (A), the words “Not later than 90 days after November 13, 1988” are omitted as obsolete.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14321, 14502, 14503, 14504, 14505, 14506, 14507 of this title.
-

@@ -22,7 +22,3 @@ Section 1 of Pub. L. 102–430 provided that: “This Act \[enacting sections 46
 
 Section 2 of Pub. L. 96–612 provided that: “Authorizations of moneys to be appropriated under this Act \[enacting sections 460u–20 to 460u–23 of this title and amending this section and sections 460u–1, 460u–3, 460u–5, 460u–7, and 460u–9 of this title\] shall be effective on October 1, 1981. Notwithstanding any other provision of this Act, authority to enter into contracts, to incur obligations, or to make payments under this Act shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460u–1, 460u–2, 460u–11, 460u–13, 460u–18, 460u–23, 460u–26 of this title.
-

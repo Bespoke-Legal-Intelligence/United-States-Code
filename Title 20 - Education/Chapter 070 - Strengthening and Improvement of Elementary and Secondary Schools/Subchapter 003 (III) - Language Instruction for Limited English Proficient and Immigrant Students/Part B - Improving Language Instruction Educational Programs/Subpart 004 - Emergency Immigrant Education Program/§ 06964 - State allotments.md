@@ -44,7 +44,7 @@ The Secretary shall, in accordance with the provisions of this section, make pay
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this subpart, if the amount appropriated to carry out this subpart exceeds $50,000,000 for a fiscal year, a State educational agency may reserve not more than 20 percent of such agency's payment under this subpart for such year to award grants, on a competitive basis, to local educational agencies within the State as follows:
+&emsp;Notwithstanding any other provision of this subpart, if the amount appropriated to carry out this subpart exceeds $50,000,000 for a fiscalyear, a State educational agency may reserve not more than 20 percent of such agency's payment under this subpart for such year to award grants, on a competitive basis, to local educational agencies within the State as follows:
 
 #### (A) Agencies with immigrant children and youth
 
@@ -63,8 +63,4 @@ The Secretary shall, in accordance with the provisions of this section, make pay
 &emsp;Local educational agencies receiving funds under paragraph (1) with the highest number of immigrant children and youth may make information available on serving immigrant children and youth to local educational agencies in the State with sparse numbers of such children and youth.
 
 (Pub. L. 89–10, title III, §3244, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1724.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6962, 6965, 6966 of this title.
 

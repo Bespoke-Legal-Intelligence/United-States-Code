@@ -44,7 +44,3 @@ Pub. L. 101–647, §1205(d), added par. (4) defining “State”.
 
 1986—Pub. L. 99–646, in amending section generally, made specific reference to applicability of section to agent of Indian tribal government or agency thereof, inserted provision that section does not apply to bona fide salary, wages, fees, or other compensation paid, or expenses paid or reimbursed, in usual course of business, struck out definition of term “organization”, and otherwise revised structure of section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 981, 982, 1516, 1956 of this title.
-

@@ -26,7 +26,3 @@ For effective date and applicability of amendment by Pub. L. 100–297, see sect
 
 Section effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out as an Effective Date of 1980 Amendment note under section 1001 of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13d–2, 640a, 640c–1, 640c–3, 1812, 1851 of this title; title 20 sections 1085, 2327, 3489.
-

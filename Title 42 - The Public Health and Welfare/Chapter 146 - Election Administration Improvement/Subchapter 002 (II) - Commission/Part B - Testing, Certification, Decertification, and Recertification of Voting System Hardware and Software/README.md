@@ -1,9 +1,5 @@
 Part B—Testing, Certification, Decertification, and Recertification of Voting System Hardware and Software
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 15322 of this title.
-
 
 ---
 

@@ -108,7 +108,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 &emsp;&emsp;&emsp;&emsp;(VI) the average sort loss, which shall be equal to the average discount (in dollars per hundred pounds carcass weight) for swine slaughtered during the applicable reporting period, resulting from the fact that the swine did not fall within the individual packer's established carcass weight or lot variation range;
 
-&emsp;&emsp;&emsp;&emsp;(VII) the average backfat, which shall be equal to the average of the backfat thickness (in inches) measured between the third and fourth from the last ribs, 7 centimeters from the carcass split (or adjusted from the individual packer's measurement to that reference point using an adjustment made by the Secretary) of the swine slaughtered during the applicable reporting period;
+&emsp;&emsp;&emsp;&emsp;(VII) the average backfat, which shall be equal to the average of the backfat thickness (in inches) measured between the third and fourth from the last ribs, 7 centimeters from the carcass split (or adjusted from the individual packer'smeasurement to that reference point using an adjustment made by the Secretary) of the swine slaughtered during the applicable reporting period;
 
 &emsp;&emsp;&emsp;&emsp;(VIII) the average lean percentage, which shall be equal to the average percentage of the carcass weight comprised of lean meat for the swine slaughtered during the applicable reporting period, except that when a packer is required to report the average lean percentage under this subclause, the packer shall make available to the Secretary the underlying data, applicable methodology and formulae, and supporting materials used to determine the average lean percentage, which the Secretary may convert to the carcass measurements or lean percentage of the swine of the individual packer to correlate to a common percent lean measurement; and
 
@@ -132,7 +132,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 &emsp;&emsp;&emsp;(iii) the base price paid for all base market hogs purchased up to that time of the reporting day through negotiated purchases; and
 
-&emsp;&emsp;&emsp;(iv) the base price paid for all base market hogs purchased through each type of purchase other than negotiated purchaseup to that time of the reporting day, unless such information is unavailable due to pricing that is determined on a delayed basis.
+&emsp;&emsp;&emsp;(iv) the base price paid for all base market hogs purchased through each type of purchase other than negotiated purchase up to that time of the reporting day, unless such information is unavailable due to pricing that is determined on a delayed basis.
 
 #### (B) Publication
 
@@ -183,8 +183,4 @@ The Secretary shall establish a program of swine price information reporting tha
 #### Termination of Section
 
 <i>For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under section 1635 of this title.</i>
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1635i of this title.
 

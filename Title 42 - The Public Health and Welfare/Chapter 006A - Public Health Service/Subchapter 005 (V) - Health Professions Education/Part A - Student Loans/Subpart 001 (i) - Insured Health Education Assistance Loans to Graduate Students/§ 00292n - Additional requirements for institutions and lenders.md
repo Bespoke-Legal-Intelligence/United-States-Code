@@ -6,7 +6,7 @@ Notwithstanding any other provision of this subpart, the Secretary is authorized
 
 &emsp;(1) a fiscal audit of an eligible institution with regard to any funds obtained from a borrower who has received a loan insured under this subpart;
 
-&emsp;(2) the establishment of reasonable standards of financial responsibility and appropriate institutional capability for the administration by an eligible institution of a program of student financial aid with respect to fundsobtained from a student who has received a loan insured under this subpart;
+&emsp;(2) the establishment of reasonable standards of financial responsibility and appropriate institutional capability for the administration by an eligible institution of a program of student financial aid with respect to funds obtained from a student who has received a loan insured under this subpart;
 
 &emsp;(3) the limitation, suspension, or termination of the eligibility under this subpart of any otherwise eligible institution, whenever the Secretary has determined, after notice and affording an opportunity for hearing, that such institution has violated or failed to carry out any regulation prescribed under this subpart;
 
@@ -22,15 +22,11 @@ Notwithstanding any other provision of this subpart, the Secretary is authorized
 
 #### (b) Recording by institution of information on students
 
-The Secretary shall require an eligible institution to record, and make available to the lender and to the Secretary upon request, the name, address, postgraduate destination, and other reasonable identifying information for each student of such institution who has a loan insured under this subpart.
+The Secretary shall require an eligible institution to record, and make available to the lenderand to the Secretary upon request, the name, address, postgraduate destination, and other reasonable identifying information for each student of such institution who has a loan insured under this subpart.
 
 #### (c) Workshop for student borrowers
 
 Each participating eligible institution must have, at the beginning of each academic year, a workshop concerning the provisions of this subpart that all student borrowers shall be required to attend.
 
 (July 1, 1944, ch. 373, title VII, §715, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2009.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 292f of this title.
 

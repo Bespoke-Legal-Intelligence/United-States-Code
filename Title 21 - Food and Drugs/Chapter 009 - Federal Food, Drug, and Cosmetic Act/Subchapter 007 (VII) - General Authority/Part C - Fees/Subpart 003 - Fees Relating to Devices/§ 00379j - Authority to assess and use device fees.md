@@ -2,13 +2,15 @@
 
 #### (a) Types of fees
 
-Beginning on October 26, 2002, the Secretary shall assess and collect fees in accordance with this section as follows:
+#### (1) In general
 
-#### (1) <sup>1</sup> Premarket application, premarket report, supplement, and submission fee
+&emsp;Beginning on October 26, 2002, the Secretary shall assess and collect fees in accordance with this section.
+
+#### (2) Premarket application, premarket report, supplement, and submission fee
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) and subsection (d) of this section, each person who submits any of the following, on or after October 1, 2002, shall be subject to a fee established under subsection (c)(5) of this section for the fiscal year involved in accordance with the following:
+&emsp;&emsp;Except as provided in subparagraph (B) and subsections (d) and (e) of this section, each person who submits any of the following, on or after October 1, 2002, shall be subject to a fee established under subsection (c)(5) of this section for the fiscal year involved in accordance with the following:
 
 &emsp;&emsp;&emsp;(i) A premarket application.
 
@@ -16,13 +18,13 @@ Beginning on October 26, 2002, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(iii) For a panel track supplement, a fee equal to the fee that applies under clause (i).
 
-&emsp;&emsp;&emsp;(iv) For a 180-day supplement, a fee equal to 21.5 percent of the fee that applies under clause (i), subject to any adjustment under subsection (c)(3) of this section.
+&emsp;&emsp;&emsp;(iv) For a 180-day supplement, a fee equal to 21.5 percent of the fee that applies under clause (i).
 
 &emsp;&emsp;&emsp;(v) For a real-time supplement, a fee equal to 7.2 percent of the fee that applies under clause (i).
 
 &emsp;&emsp;&emsp;(vi) For an efficacy supplement, a fee equal to the fee that applies under clause (i).
 
-&emsp;&emsp;&emsp;(vii) For a premarket notification submission, a fee equal to 1.42 percent of the fee that applies under clause (i), subject to any adjustment under subsection (c)(3) of this section and any adjustment under subsection (e)(2)(C)(ii) of this section.
+&emsp;&emsp;&emsp;(vii) For a premarket notification submission, a fee equal to 1.42 percent of the fee that applies under clause (i), subject to any adjustment under subsection (e)(2)(C)(ii) of this section.
 
 #### (B) Exceptions
 
@@ -54,17 +56,17 @@ Beginning on October 26, 2002, the Secretary shall assess and collect fees in ac
 
 #### (C) Payment
 
-&emsp;&emsp;The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement, or premarket notification submission except that invoices for applications submitted between October 1, 2002, and October 26, 2002, shall be payable on October 30, 2002. Applicants submitting portions of applications pursuant to section 360e(c)(3) of this title shall pay such fees upon submission of the first portion of such applications. The fees credited to fiscal year 2003 under this section shall include all fees payable from October 1, 2002, through September 30, 2003.
+&emsp;&emsp;The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement, or premarket notification submission except that invoices for applications submitted between October 1, 2002, and October 26, 2002, shall be payable on October 30, 2002. Applicants submitting portions of applications pursuant to section 360e(c)(3) <sup>1</sup> of this title shall pay such fees upon submission of the first portion of such applications. The fees credited to fiscal year 2003 under this section shall include all fees payable from October 1, 2002, through September 30, 2003.
 
 #### (D) Refunds
 
 #### (i) Application refused for filing
 
-&emsp;&emsp;&emsp;The Secretary shall refund 75 percent of the fee paid under subparagraph (A) for any application or supplement that is refused for filing.
+&emsp;&emsp;&emsp;The Secretary shall refund 75 percent of the fee paid under subparagraph (A) for any application, report, or supplement that is refused for filing.
 
 #### (ii) Application withdrawn before filing
 
-&emsp;&emsp;&emsp;The Secretary shall refund 75 percent of the fee paid under subparagraph (A) for any application or supplement that is withdrawn prior to the filing decision of the Secretary.
+&emsp;&emsp;&emsp;The Secretary shall refund 75 percent of the fee paid under subparagraph (A) for any application, report, or supplement that is withdrawn prior to the filing decision of the Secretary.
 
 #### (iii) Application withdrawn before first action
 
@@ -72,7 +74,7 @@ Beginning on October 26, 2002, the Secretary shall assess and collect fees in ac
 
 #### (b) Fee revenue amounts
 
-Except as provided in subsections (c), (d), (e), (g), and (h) of this section, the fees under subsection (a) of this section shall be established to generate the following revenue amounts: $25,125,000 in fiscal year 2003; $27,255,000 in fiscal year 2004; $29,785,000 in fiscal year 2005;$32,615,000 in fiscal year 2006, and $35,000,000 in fiscal year 2007. If legislation is enacted after October 26, 2002, requiring the Secretary to fund additional costs of the retirement of Federal personnel, fee revenue amounts under this subsection shall be increased in each year by the amount necessary to fully fund the portion of such additional costs that are attributable to the process for the review of device applications.
+Except as provided in subsections (c), (d), (e), (g), and (h) of this section, the fees under subsection (a) of this section shall be established to generate the following revenue amounts: $25,125,000 in fiscal year 2003; $27,255,000 in fiscal year 2004; $29,785,000 in fiscal year 2005; $32,615,000 in fiscal year 2006, and $35,000,000 in fiscal year 2007. If legislation is enacted after October 26, 2002, requiring the Secretary to fund additional costs of the retirement of Federal personnel, fee revenue amounts under this subsection shall be increased in each year by the amount necessary to fully fund the portion of such additional costs that are attributable to the process for the review of device applications.
 
 #### (c) Adjustments
 
@@ -96,7 +98,7 @@ Except as provided in subsections (c), (d), (e), (g), and (h) of this section, t
 
 #### (3) Compensating adjustment
 
-&emsp;After the fee revenues established in subsection (b) of this section are adjusted for a fiscal year for inflation in accordance with paragraph (1), and for workload in accordance with paragraph (2), the fee revenues shall, beginning with fiscal year 2004, be adjusted further each fiscal year, if necessary, to reflect the cumulative amount by which collections for previous fiscal years, beginning with fiscal year 2003, fell below the cumulative revenue amounts for such fiscal years specified in subsection (b) of this section, adjusted for such fiscal years for inflation in accordance with paragraph (1), and for workload in accordance with paragraph (2).
+&emsp;After the fee revenues established in subsection (b) of this section are adjusted for a fiscal year for inflation in accordance with paragraph (1), and for workload in accordance with paragraph (2), the fee revenues shall, beginning with fiscal year 2004, be adjusted further each fiscal year, if necessary, to reflect the cumulative amount by which collections for previous fiscal years, beginning with fiscal year 2003, fell below the cumulative revenueamounts for such fiscal years specified in subsection (b) of this section, adjusted for such fiscal years for inflation in accordance with paragraph (1), and for workload in accordance with paragraph (2).
 
 #### (4) Final year adjustment
 
@@ -114,7 +116,7 @@ Except as provided in subsections (c), (d), (e), (g), and (h) of this section, t
 
 #### (1) In general
 
-&emsp;The Secretary shall grant a waiver of the fee required under subsection (a) of this section for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (vi) of subsection (a)(1)(A) of this section may be paid at a reduced rate in accordance with paragraph (2)(C).
+&emsp;The Secretary shall grant a waiver of the fee required under subsection (a) of this section for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (vi) of subsection (a)(2)(A) of this section may be paid at a reduced rate in accordance with paragraph (2)(C).
 
 #### (2) Rules relating to premarket approval fees
 
@@ -130,7 +132,7 @@ Except as provided in subsections (c), (d), (e), (g), and (h) of this section, t
 
 #### (B) Evidence of qualification
 
-&emsp;&emsp;An applicant shall pay the higher fees established by the Secretary each year unless the applicant submits evidence that it qualifies for a waiver of the fee or the lower fee rate. The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, partners, and parent firms. which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, partners, and parent firms, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for affiliates, partners, or parent firms, the applicant shall certify that the applicant has no affiliates, partners, or parent firms, respectively.
+&emsp;&emsp;An applicant shall pay the higher fees established by the Secretary each year unless the applicant submits evidence that it qualifies for a waiver of the fee or the lower fee rate. The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, partners, and parent firms, which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, partners, and parent firms, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for affiliates, partners, or parent firms, the applicant shall certify that the applicant has no affiliates, partners, or parent firms, respectively.
 
 #### (C) Reduced fees
 
@@ -144,7 +146,7 @@ Except as provided in subsections (c), (d), (e), (g), and (h) of this section, t
 
 #### (1) In general
 
-&emsp;Where the Secretary finds that the applicant involved is a small business, the fee specified in subsection (a)(1)(A)(vii) of this section may be paid at a reduced rate in accordance with paragraph (2)(C).
+&emsp;For fiscal year 2004 and each subsequent fiscal year, where the Secretary finds that the applicant involved is a small business, the fee specified in subsection (a)(2)(A)(vii) of this section may be paid at a reduced rate in accordance with paragraph (2)(C).
 
 #### (2) Rules relating to premarket notification submissions
 
@@ -154,17 +156,17 @@ Except as provided in subsections (c), (d), (e), (g), and (h) of this section, t
 
 #### (B) Evidence of qualification
 
-&emsp;&emsp;An applicant shall pay the higher fees established by the Secretary each year unless the applicant submits evidence that it qualifies for the lower fee rate. The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, partners, and parent firms.<sup>2</sup> which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, partners, and parent firms, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for affiliates, partners, or parent firms, the applicant shall certify that the applicant has no affiliates, partners, or parent firms, respectively.
+&emsp;&emsp;An applicant shall pay the higher fees established by the Secretary each year unless the applicant submits evidence that it qualifies for the lower fee rate. The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, partners, and parent firms, which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, partners, and parent firms, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for affiliates, partners, or parent firms, the applicant shall certify that the applicant has no affiliates, partners, or parent firms, respectively.
 
 #### (C) Reduced fees
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fee for a premarket notification submission may be paid at 80 percent of the fee that applies under subsection (a)(1)(A)(vii) of this section, as adjusted under clause (ii) and as established under subsection (c)(5) of this section.
+&emsp;&emsp;&emsp;For fiscal year 2004 and each subsequent fiscal year, where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fee for a premarket notification submission may be paid at 80 percent of the fee that applies under subsection (a)(2)(A)(vii) of this section, as adjusted under clause (ii) and as established under subsection (c)(5) of this section.
 
 #### (ii) Adjustment per fee revenue amount
 
-&emsp;&emsp;&emsp;For fiscal year 2004 and each subsequent fiscal year, the Secretary, in setting the revenue amount under subsection (c)(5) of this section for premarket notification submissions, shall determine the revenue amount that would apply if all such submissions for the fiscal year involved paid a fee equal to 1.42 percent of the amount that applies under subsection (a)(1)(A)(i) of this section for premarket applications, and shall adjust the fee under subsection (a)(1)(A)(vii) of this section for premarket notification submissions such that the reduced fees collected under clause (i) of this subparagraph, when added to fees for such submissions that are not paid at the reduced rate, will equal such revenue amount for the fiscal year.
+&emsp;&emsp;&emsp;For fiscal year 2004 and each subsequent fiscal year, the Secretary, in setting the revenue amount under subsection (c)(5) of this section for premarket notification submissions, shall determine the revenue amount that would apply if all such submissions for the fiscal year involved paid a fee equal to 1.42 percent of the amount that applies under subsection (a)(2)(A)(i) of this section for premarket applications, and shall adjust the fee under subsection (a)(2)(A)(vii) of this section for premarket notification submissions such that the reduced fees collected under clause (i) of this subparagraph, when added to fees for such submissions that are not paid at the reduced rate, will equal such revenue amount for the fiscal year.
 
 #### (D) Request for reduction
 
@@ -172,7 +174,7 @@ Except as provided in subsections (c), (d), (e), (g), and (h) of this section, t
 
 #### (f) Effect of failure to pay fees
 
-A premarket application, premarket report, supplement, or premarket notification submission submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid.
+A premarket application, premarket report, supplement, or premarket notification submission submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted by the Secretary until all fees owed by such person have been paid.
 
 #### (g) Conditions
 
@@ -236,13 +238,19 @@ A premarket application, premarket report, supplement, or premarket notification
 
 #### (B) Compliance
 
-&emsp;&emsp;The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated for the process for the review of device applications—
+#### (i) In general
 
-&emsp;&emsp;&emsp;(i) are not more than 3 percent below the level specified in subparagraph (A)(ii); or
+&emsp;&emsp;&emsp;The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated for the process for the review of device applications—
 
-&emsp;&emsp;&emsp;(ii)(I) are more than 3 percent below the level specified in subparagraph (A)(ii), and fees assessed for a subsequent fiscal year are decreased by the amount in excess of 3 percent by which such costs fell below the level specified in such subparagraph; and
+&emsp;&emsp;&emsp;&emsp;(I) are not more than 3 percent below the level specified in subparagraph (A)(ii); or
 
-&emsp;&emsp;&emsp;(II) such costs are not more than 5 percent below the level specified in such subparagraph.
+&emsp;&emsp;&emsp;&emsp;(II)(aa) are more than 3 percent below the level specified in subparagraph (A)(ii), and fees assessed for a subsequent fiscal year are decreased by the amount in excess of 3 percent by which such costs fell below the level specified in such subparagraph; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) such costs are not more than 5 percent below the level specified in such subparagraph.
+
+#### (ii) More than 5 percent
+
+&emsp;&emsp;&emsp;To the extent such costs are more than 5 percent below the specified level in subparagraph (A)(ii), fees may not be collected under this section for that fiscal year.
 
 #### (3) Authorization of appropriations
 
@@ -270,13 +278,13 @@ In any case where the Secretary does not receive payment of a fee assessed under
 
 #### (j) Written requests for refunds
 
-To qualify for consideration for a refund under subsection (a)(1)(D) of this section, a person shall submit to the Secretary a written request for such refund not later than 180 days after such fee is due.
+To qualify for consideration for a refund under subsection (a)(2)(D) of this section, a person shall submit to the Secretary a written request for such refund not later than 180 days after such fee is due.
 
 #### (k) Construction
 
 This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employees, and advisory committees not engaged in the process of the review of device applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
-(June 25, 1938, ch. 675, §738, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1591.)
+(June 25, 1938, ch. 675, §738, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1591; amended Pub. L. 108–214, §2(a)(2), (d)(2)(A), (B), (3)(A), Apr. 1, 2004, 118 Stat. 572, 576, 577.)
 
 #### Termination of Section
 
@@ -284,7 +292,35 @@ This section may not be construed to require that the number of full-time equiva
 
 #### References in Text
 
+Section 360e(c)(3) of this title, referred to in subsec. (a)(2)(C), which related to submission of portions of applications, was redesignated section 360e(c)(4) of this title by Pub. L. 108–214, §2(d)(1)(A)(i), Apr. 1, 2004, 118 Stat. 576.
+
 Section 101(3) of the Medical Device User Fee and Modernization Act of 2002, referred to in subsec. (g)(1)(A)(i), is section 101(3) of Pub. L. 107–250, which is set out as a note under section 379i of this title.
+
+#### Amendments
+
+2004—Pub. L. 108–214, §2(d)(3)(A), made technical correction to directory language of Pub. L. 107–250, §102(a), which enacted this section.
+
+Subsec. (a). Pub. L. 108–214, §2(d)(2)(A), designated introductory provisions of subsec. (a) as par. (1), inserted heading, substituted “this section.” for “this section as follows:”, and redesignated former par. (1) as (2).
+
+Subsec. (a)(1)(A). Pub. L. 108–214, §2(a)(2)(A)(i), substituted, in introductory provisions, “subsections (d) and (e)” for “subsection (d)”, in cl. (iv), “clause (i)” for “clause (i), subject to any adjustment under subsection (c)(3) of this section”, and, in cl. (vii), “clause (i), subject to any adjustment under subsection (e)(2)(C)(ii)” for “clause (i), subject to any adjustment under subsection (c)(3) of this section and any adjustment under subsection (e)(2)(C)(ii)”.
+
+Subsec. (a)(1)(D)(i), (ii). Pub. L. 108–214, §2(a)(2)(A)(ii), substituted “application, report,” for “application”.
+
+Subsec. (d)(1). Pub. L. 108–214, §2(d)(2)(B)(i), substituted “subsection (a)(2)(A)” for “subsection (a)(1)(A)” in last sentence.
+
+Subsec. (d)(2)(B). Pub. L. 108–214, §2(a)(2)(B), substituted “firms, which show” for “firms. which show” in second sentence.
+
+Subsec. (e)(1). Pub. L. 108–214, §2(a)(2)(C)(i), (d)(2)(B)(ii), substituted “For fiscal year 2004 and each subsequent fiscal year, where” for “Where” and “subsection (a)(2)(A)(vii)” for “subsection (a)(1)(A)(vii)”.
+
+Subsec. (e)(2)(B). Pub. L. 108–214, §2(a)(2)(C)(ii)(I), substituted “firms, which show” for “firms. which show”.
+
+Subsec. (e)(2)(C). Pub. L. 108–214, §2(a)(2)(C)(ii)(II), (d)(2)(B)(iii), substituted “For fiscal year 2004 and each subsequent fiscal year, where” for “Where” in cl. (i), “subsection (a)(2)(A)(vii)” for “subsection (a)(1)(A)(vii)” in cls. (i) and (ii), and “subsection (a)(2)(A)(i)” for “subsection (a)(1)(A)(i)” in cl. (ii).
+
+Subsec. (f). Pub. L. 108–214, §2(a)(2)(D), struck out “for filing” after “accepted”.
+
+Subsec. (h)(2)(B). Pub. L. 108–214, §2(a)(2)(E), designated existing provisions as cl. (i), inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), redesignated former subcls. (I) and (II) of cl. (i) as items (aa) and (bb), respectively, of cl. (i)(II), and added cl. (ii).
+
+Subsec. (j). Pub. L. 108–214, §2(d)(2)(B)(iv), substituted “subsection (a)(2)(D)” for “subsection (a)(1)(D)”.
 
 #### Effective and Termination Dates
 
@@ -292,21 +328,9 @@ Section effective Oct. 26, 2002, except for certain premarket fees, and ceases t
 
 #### Fee Exemption for Certain Entities Submitting Premarket Reports
 
-Pub. L. 107–250, title I, §102(b), Oct. 26, 2002, 116 Stat. 1600, provided that:
+Pub. L. 107–250, title I, §102(b), Oct. 26, 2002, 116 Stat. 1600, as amended by Pub. L. 108–214, §2(d)(2)(C), (3)(B), Apr. 1, 2004, 118 Stat. 577, provided that: “A person submitting a premarket report to the Secretary of Health and Human Services is exempt from the fee under section 738(a)(2)(A)(ii) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j(a)(2)(A)(ii)\] (as added by subsection (a) of this section) if—
 
-“(1)
+&emsp;“(1) the premarket report is the first such report submitted to the Secretary by the person; and
 
-In general.—A person submitting a premarket report to the Secretary of Health and Human Services is exempt from the fee under section 738(a)(1)(A)(ii) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j(a)(1)(A)(ii)\] (as added by subsection (a) of this section) if—
-
-&emsp;“(A) the premarket report is the first such report submitted to the Secretary by the person; and
-
-&emsp;“(B) before October 1, 2002, the person submitted a premarket application to the Secretary for the same device as the device for which the person is submitting the premarket report.
-
-“(2)
-
-Definitions.—For purposes of paragraph (1), the terms ‘device’, ‘premarket application’, and ‘premarket report’ have the same meanings as apply to such terms for purposes of section 738 of the Federal Food, Drug,and Cosmetic Act \[21 U.S.C. 379j\] (as added by subsection (a) of this section).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 360e of this title.
+&emsp;“(2) before October 1, 2002, the person submitted a premarket application to the Secretary for the same device as the device for which the person is submitting the premarket report.”
 

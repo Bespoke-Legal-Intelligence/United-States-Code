@@ -45,9 +45,5 @@ Any reference in this subpart to a “Moderate Area” or a “Serious Area” s
 
 (July 14, 1955, ch. 360, title I, §186, as added Pub. L. 101–549, title I, §104, Nov. 15, 1990, 104 Stat. 2452.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7509a, 7512a, 7545, 7607 of this title; title 23 section 149.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “TABLE 1”.</i>
 

@@ -22,7 +22,7 @@ The Board shall conduct a continuing program of inspections to assess the degree
 
 The Board shall, in each inspection under this section, and in accordance with its rules for such inspections—
 
-&emsp;(1) identify any act or practice or omission to act by the registered public accounting firm, or by any associated person thereof, revealed by such inspection that may be in violation of this Act, the rules of the Board, the rules of the Commission, the firm's own quality control policies, or professional standards;
+&emsp;(1) identify any act or practice or omission to act by the registered public accounting firm, or by any associated person thereof, revealed by such inspection that may be in violation of this Act, the rules of the Board, therules of the Commission, the firm's own quality control policies, or professional standards;
 
 &emsp;(2) report any such act, practice, or omission, if appropriate, to the Commission and each appropriate State regulatory authority; and
 
@@ -77,8 +77,4 @@ A written report of the findings of the Board for each inspection under this sec
 #### References in Text
 
 This Act, referred to in subsecs. (a), (b), and (c), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7211, 7215 of this title.
 

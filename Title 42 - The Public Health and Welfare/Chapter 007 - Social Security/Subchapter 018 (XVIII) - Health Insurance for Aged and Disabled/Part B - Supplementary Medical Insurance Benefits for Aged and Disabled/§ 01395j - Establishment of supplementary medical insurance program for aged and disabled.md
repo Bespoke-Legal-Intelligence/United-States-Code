@@ -16,7 +16,3 @@ Pub. L. 94–182, title I, §109, Dec. 31, 1975, 89 Stat. 1053, provided that th
 
 Pub. L. 90–248, title I, §141, Jan. 2, 1968, 81 Stat. 855, directed Secretary to conduct a study relating to inclusion under the supplementary medical insurance program under this part of services of additional types of licensed practitioners performing health services in independent practice and submit such study to Congress prior to Jan. 1, 1969.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 38 sections 1725, 1729.
-

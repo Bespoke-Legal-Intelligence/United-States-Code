@@ -40,7 +40,3 @@ The Authority may approve grants to States, Indian tribes, local governments, an
 
 (Pub. L. 87–128, title III, §383C, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 380.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009bb–5 of this title.
-

@@ -28,7 +28,7 @@ Every contract for contributions shall provide that—
 
 &emsp;(1) the Secretary may require the public housing agency to review and revise its maximum income limits if the Secretary determines that changed conditions in the locality make such revision necessary in achieving the purposes of this chapter;
 
-&emsp;(2) the public housing agency shall determine, and so certify to the Secretary, that each family in the project was admitted in accordance with duly adopted regulations and approved income limits; and the public housing agency shall review the incomes of families living in the project no less frequently than annually;
+&emsp;(2) the public housing agency shall determine, and so certify to the Secretary, thateach family in the project was admitted in accordance with duly adopted regulations and approved income limits; and the public housing agency shall review the incomes of families living in the project no less frequently than annually;
 
 &emsp;(3) the public housing agency shall promptly notify (i) any applicant determined to be ineligible for admission to the project of the basis for such determination and provide the applicant upon request, within a reasonable time after the determination is made, with an opportunity for an informal hearing on such determination, and (ii) any applicant determined to be eligible for admission to the project of the approximate date of occupancy insofar as such date can be reasonably determined; and
 
@@ -60,7 +60,7 @@ Every contract for contributions with respect to a low-income housing project sh
 
 #### (2) Federal standards
 
-&emsp;The Secretary shall establish housing quality standards under this paragraph that ensure that public housing dwelling units are safe and habitable. Such standards shall include requirements relating to habitability, including maintenance, health and sanitation factors, condition, and construction of dwellings, and shall, to the greatest extent practicable, be consistent with the standards established under section 1437f(<i>o</i>)(8)(B)(i) of this title. The Secretary may determine whether the laws, regulations, standards, or codes of any State or local jurisdiction meet or exceed these standards, for purposes of this subsection.
+&emsp;The Secretary shall establish housing quality standards under this paragraph that ensure that public housing dwelling units are safe and habitable. Such standards shall include requirements relating to habitability, including maintenance, health and sanitation factors, condition, and construction of dwellings, and shall, to the greatest extent practicable, be consistent with the standards established under section 1437f(<i>o</i>)(8)(B)(i) of this title. TheSecretary may determine whether the laws, regulations, standards, or codes of any State or local jurisdiction meet or exceed these standards, for purposes of this subsection.
 
 #### (3) Annual inspections
 
@@ -70,7 +70,7 @@ Every contract for contributions with respect to a low-income housing project sh
 
 Every contract for contributions (including contracts which amend or supersede contracts previously made) may provide that—
 
-&emsp;(1) upon the occurrence of a substantial default in respect to the covenants or conditions to which the public housing agency is subject (as such substantial default shall be defined in such contract), the public housing agency shall be obligated at the option of the Secretary either to convey title in any case where, in the determination of the Secretary (which determination shall be final and conclusive), such conveyance of title is necessary to achieve the purposes of this chapter, or to deliver to the Secretary possession of theproject, as then constituted, to which such contract relates; and
+&emsp;(1) upon the occurrence of a substantial default in respect to the covenants or conditions to which the public housing agency is subject (as such substantial default shall be defined in such contract), the public housing agency shall be obligated at the option of the Secretary either to convey title in any case where, in the determination of the Secretary (which determination shall be final and conclusive), such conveyance of title is necessary to achieve the purposes of this chapter, or to deliver to the Secretary possession of the project, as then constituted, to which such contract relates; and
 
 &emsp;(2) the Secretary shall be obligated to reconvey or redeliver possession of the project as constituted at the time of reconveyance or redelivery, to such public housing agency or to its successor (if such public housing agency or a successor exists) upon such terms as shall be prescribed in such contract, and as soon as practicable (i) after the Secretary is satisfied that all defaults with respect to the project have been cured, and that the project will, in order to fulfill the purposes of this chapter, thereafter be operated in accordance with the terms of such contract; or (ii) after the termination of the obligation to make annual contributions available unless there are any obligations or covenants of the public housing agency to the Secretary which are then in default. Any prior conveyances and reconveyances or deliveries and redeliveries of possession shall not exhaust the right to require a conveyance or delivery of possession of the project to the Secretary pursuant to subparagraph (1) upon the subsequent occurrence of a substantial default.
 
@@ -116,7 +116,7 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 &emsp;(J) The extent to which the public housing agency is providing acceptable basic housing conditions.
 
-&emsp;(K) Any other factors as the Secretary deems appropriate which shall not exceed theseven factors in the statute, plus an additional five.
+&emsp;(K) Any other factors as the Secretary deems appropriate which shall not exceed the seven factors in the statute, plus an additional five.
 
 &emsp;(I) <sup>3</sup> The Secretary shall:
 
@@ -152,7 +152,7 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 (3)(A) Notwithstanding any other provision of law or of any contract for contributions, upon the occurrence of events or conditions that constitute a substantial default by a public housing agency with respect to the covenants or conditions to which the public housing agency is subject or an agreement entered into under paragraph (2), the Secretary may—
 
-&emsp;(i) solicit competitive proposals from other public housing agencies and private housing management agents which (I) in the discretion of the Secretary, may be selected by existing public housing residents through administrative procedures established by the Secretary, and (II) if appropriate, shall provide for such agents to manage all, or part, of the housingadministered by the public housing agency or all or part of the other programs of the agency;
+&emsp;(i) solicit competitive proposals from other public housing agencies and private housing management agents which (I) in the discretion of the Secretary, may be selected by existing public housing residents through administrative procedures established by the Secretary, and (II) if appropriate, shall provide for such agents to manage all, or part, of the housing administered by the public housing agency or all or part of the other programs of the agency;
 
 &emsp;(ii) petition for the appointment of a receiver (which may be another public housing agency or a private management corporation) of the public housing agency to any district court of the United States or to any court of the State in which the real property of the public housing agency is situated, that is authorized to appoint a receiver for the purposes and having the powers prescribed in this subsection;
 
@@ -178,7 +178,7 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 > This subparagraph shall not be construed to limit the courses of action available to the Secretary under subparagraph (A).
 
-(IV) During the period between the date on which a petition is filed under subclause (III)(aa) and the date on which a receiver assumes responsibility for the management of the public housing agency under such subclause, the Secretary may take possession of the public housing agency (including all or part of any project or program of the agency) pursuant to subparagraph (A)(iv) and may appoint, on a competitive or noncompetitive basis, an individual or entity as an administrative receiver to assume the responsibilities of the Secretary for the administration of all or part of the public housing agency (including all or part of any project or program of the agency).
+(IV) During the period between the date on which a petition is filed under subclause (III)(aa) and the date on which a receiver assumes responsibility for the management of the public housing agency under such subclause, the Secretary may take possession of the public housing agency (including all or part of any project or program of the agency) pursuant to subparagraph (A)(iv) and may appoint, on a competitiveor noncompetitive basis, an individual or entity as an administrative receiver to assume the responsibilities of the Secretary for the administration of all or part of the public housing agency (including all or part of any project or program of the agency).
 
 (C) If a receiver is appointed pursuant to subparagraph (A)(ii), in addition to the powers accorded by the court appointing the receiver, the receiver—
 
@@ -190,7 +190,7 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 &emsp;(iv) if determined to be appropriate by the Secretary, may seek consolidation of all or part of the agency (including all or part of any project or program of the agency), as permitted by applicable State and local laws, into other well-managed public housing agencies with the consent of such well-managed agencies; and
 
-&emsp;(v) shall not be required to comply with any State or local law relating to civil service requirements, employee rights (except civilrights), procurement, or financial or administrative controls that, in the receiver's written determination (which shall include the basis for such determination), substantially impedes correction of the substantial default.
+&emsp;(v) shall not be required to comply with any State or local law relating to civil service requirements, employee rights (except civil rights), procurement, or financial or administrative controls that, in the receiver's written determination (which shall include the basis for such determination), substantially impedes correction of the substantial default.
 
 (D)(i) If, pursuant to subparagraph (A)(iv), the Secretary takes possession of all or part of the public housing agency, including all or part of any project or program of the agency, the Secretary—
 
@@ -392,7 +392,7 @@ In providing housing in low-income housing projects, each public housing agency 
 
 #### (7) Civil action
 
-&emsp;Any applicant for, or tenant of, covered housing assistance affected by (A) a negligent or knowing disclosure of information referred to in this subsection about such person by an officer, employee, or authorized representative of any public housing agency, which disclosure is not authorized by this subsection, or (B) any other negligent or knowing action that is inconsistent with this subsection, may bring a civil action for damages and such other relief as may be appropriate against any public housing agency responsible for such unauthorized action. The district court of the United States in the district in which the affected applicant or tenant resides, in which such unauthorized action occurred, or in which the officer, employee, or representative alleged to be responsible for any such unauthorized action resides, shall have jurisdiction in such matters. Appropriate relief that may be ordered by such district courts shall include reasonable attorney's fees and other litigation costs.
+&emsp;Any applicant for, or tenant of, covered housing assistance affected by (A) a negligent or knowing disclosure of information referred to in this subsection about such person by an officer, employee, or authorized representativeof any public housing agency, which disclosure is not authorized by this subsection, or (B) any other negligent or knowing action that is inconsistent with this subsection, may bring a civil action for damages and such other relief as may be appropriate against any public housing agency responsible for such unauthorized action. The district court of the United States in the district in which the affected applicant or tenant resides, in which such unauthorized action occurred, or in which the officer, employee, or representative alleged to be responsible for any such unauthorized action resides, shall have jurisdiction in such matters. Appropriate relief that may be ordered by such district courts shall include reasonable attorney's fees and other litigation costs.
 
 #### (8) Definitions
 
@@ -490,7 +490,7 @@ A public housing agency may require, as a condition of providing admission to th
 
 #### (5) Disclosure permitted by treatment facilities
 
-&emsp;A drug abuse treatment facility shall not be liable for damages based on any informationrequired to be disclosed pursuant to this subsection if such disclosure is consistent with section 543 of the Public Health Service Act (42 U.S.C. 290dd–2).
+&emsp;A drug abuse treatment facility shall not be liable for damages based on any information required to be disclosed pursuant to this subsection if such disclosure is consistent with section 543 of the Public Health Service Act (42 U.S.C. 290dd–2).
 
 #### (6) Option to not request information
 
@@ -528,7 +528,7 @@ A public housing agency may require, as a condition of providing admission to th
 
 #### References in Text
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (b)(3)(A), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the “HOME Investments Partnership Act”, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (b)(3)(A), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the “HOME Investments Partnership Act”, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(B), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
@@ -548,7 +548,7 @@ The Public Health Service Act, referred to in subsec. (t)(1), is act July 1, 194
 
 #### Prior Provisions
 
-A prior section 6 of act Sept. 1, 1937, ch. 896, 50 Stat. 890, as amended, enumerated financial provisions applicable to the Authority and was classified to section1406 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
+A prior section 6 of act Sept. 1, 1937, ch. 896, 50 Stat. 890, as amended, enumerated financial provisions applicable to the Authority and was classified to section 1406 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
 
 #### Amendments
 
@@ -724,7 +724,7 @@ Subsec. (j)(4)(E). Pub. L. 102–550, §113(d), which directed the insertion of 
 
 Subsec. (p). Pub. L. 102–139 added subsec. (p).
 
-1990—Subsec. (c)(4)(A). Pub. L. 101–625, §501, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “except for projects or portions of projects specifically designated for elderly families with respect to which the Secretary has determined that application of this clause would result in excessive delays in meeting the housing needs of such families, the establishment of tenant selection criteria which gives preference to families which occupy substandard housing, are paying more than 50 percent of family income for rent, or are involuntarily displaced at the time they are seeking assistance under this chapter and which is designed to assure that, within a reasonable period of time, the project will include families with a broad range of incomes and will avoid concentrations of lower income and deprived families with serious social problems, but (i) this shall not permit maintenance of vacancies to await higher income tenants where lower income tenants are available and shall not permit public housing agencies to select families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence; and (ii) the public housing agency may provide for circumstances in which families who do not qualify for any preference established in this subparagraph are provided assistance before families who do qualify for such preference, except that not more than 10 percent of the families who initially receive assistance in any 1-year period (or such shorter period selected by the public housing agency before the beginning of its first full year subject to this clause) may be families who do not qualify for such preference;”.
+1990—Subsec. (c)(4)(A). Pub. L. 101–625, §501, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “except for projects or portions of projects specifically designated for elderly families with respect to which the Secretary has determined that application of this clause would result in excessive delays in meeting the housing needs of such families, the establishment of tenant selection criteria which gives preference to families which occupy substandard housing, are paying more than 50 percent of family income for rent, or are involuntarily displaced at the time they are seeking assistance under this chapter and which is designed to assure that, within a reasonable period of time, the project will include familieswith a broad range of incomes and will avoid concentrations of lower income and deprived families with serious social problems, but (i) this shall not permit maintenance of vacancies to await higher income tenants where lower income tenants are available and shall not permit public housing agencies to select families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence; and (ii) the public housing agency may provide for circumstances in which families who do not qualify for any preference established in this subparagraph are provided assistance before families who do qualify for such preference, except that not more than 10 percent of the families who initially receive assistance in any 1-year period (or such shorter period selected by the public housing agency before the beginning of its first full year subject to this clause) may be families who do not qualify for such preference;”.
 
 Subsec. (c)(4)(D). Pub. L. 101–625, §572(1), substituted “low-income families” for “lower income families”.
 
@@ -806,7 +806,7 @@ Amendment by section 511 of Pub. L. 105–276 effective and applicable beginning
 
 Amendment by section 514(a)(1), (2)(A) of Pub. L. 105–276 effective and applicable beginning upon Oct. 21, 1998, see section 514(g) of Pub. L. 105–276, set out as a note under section 1701s of Title 12, Banks and Banking.
 
-Pub. L. 105–276, title V, §565(b), Oct. 21, 1998, 112 Stat. 2631, provided that: “The provisions of, and duties and authorities conferred or confirmed by, the amendments made by subsection (a) \[amending this section\] shall apply with respect to any action taken before, on, or after the effective date of this Act \[probably means the general effective date for title V of Pub. L. 105–276 included in section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title\] and shall apply to any receiver appointed for a public housing agency before the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §565(b), Oct. 21, 1998, 112 Stat. 2631, provided that: “The provisions of, and duties and authorities conferred or confirmed by, the amendments made by subsection (a) \[amending this section\] shallapply with respect to any action taken before, on, or after the effective date of this Act \[probably means the general effective date for title V of Pub. L. 105–276 included in section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title\] and shall apply to any receiver appointed for a public housing agency before the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 Pub. L. 105–276, title V, §565(e), Oct. 21, 1998, 112 Stat. 2632, provided that: “This section \[amending this section and section 1437f of this title and enacting provisions set out as notes under this section\] shall take effect on, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -828,7 +828,7 @@ Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 199
 
 #### Effective Date of 1992 Amendment
 
-Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expirationof 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
+Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expiration of 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -876,7 +876,7 @@ Current system.—The system pursuant to the United States Housing Act of 1937 \
 
 Accreditation models.—Various models that are based upon accreditation of such agencies and housing providers, subject to the following requirements:
 
-&emsp;&emsp;“(A) The study shall identify and analyze various models used in other industries and professions for accreditation and determine the extent of their applicability to the programs for public housing and federally assisted housing.
+&emsp;&emsp;“(A) The study shall identify and analyze various models used in other industries and professions foraccreditation and determine the extent of their applicability to the programs for public housing and federally assisted housing.
 
 &emsp;&emsp;“(B) If any accreditation models are determined to be applicable to the public and federally assisted housing programs, the study shall identify appropriate goals, objectives, and procedures for an accreditation program for such agencies and housing providers.
 
@@ -904,7 +904,7 @@ Other models.—Various models of any other systems that may be more effective a
 
 “(d)
 
-Consultation.—The entity that, pursuant to subsection (e), carries out the study under this sectionshall, in carrying out the study, consult with individuals and organizations experienced in managing public housing, private real estate managers, representatives from State and local governments, residents of public housing, families and individuals receiving tenant-based assistance, the Secretary of Housing and Urban Development, the Inspector General of the Department of Housing and Urban Development, and the Comptroller General of the United States.
+Consultation.—The entity that, pursuant to subsection (e), carries out the study under this section shall, in carrying out the study, consult with individuals and organizations experienced in managing public housing, private real estate managers, representatives from State and local governments, residents of public housing, families and individuals receiving tenant-based assistance, the Secretary of Housing and Urban Development, the Inspector General of the Department of Housing and Urban Development, and the Comptroller General of the United States.
 
 “(e)
 
@@ -956,7 +956,7 @@ Section 503(d) of Pub. L. 101–625 provided that: “Any exclusion of grievance
 
 #### Report on Impact of Public Housing Lease and Grievance Regulation on Ability of Public Housing Agencies To Take Action Against Tenants Engaging in Drug Crimes
 
-Section 5103 of Pub. L. 100–690 provided that: “The Secretary of Housing and Urban Development shall submit to the Congress a report on the impact of the implementation of the public housing tenancy and administrative grievance procedure regulations issued under section 6(k) of the United States Housing Act of 1937 (42 U.S.C. 1437d(k)) on the ability of public housing agencies to evict or take other appropriate action against tenants engaging in criminal activity, especially with respect to the manufacture, sale, distribution, use, or possession of controlled substances (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)). The report shall be submitted not later than 12 months after the date of the enactment of this Act \[Nov. 18, 1988\].”
+Section 5103 of Pub. L. 100–690 provided that: “The Secretary of Housing and Urban Development shallsubmit to the Congress a report on the impact of the implementation of the public housing tenancy and administrative grievance procedure regulations issued under section 6(k) of the United States Housing Act of 1937 (42 U.S.C. 1437d(k)) on the ability of public housing agencies to evict or take other appropriate action against tenants engaging in criminal activity, especially with respect to the manufacture, sale, distribution, use, or possession of controlled substances (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)). The report shall be submitted not later than 12 months after the date of the enactment of this Act \[Nov. 18, 1988\].”
 
 #### Indian Housing
 
@@ -965,10 +965,6 @@ Section 1014(a)(2) of Pub. L. 100–628 provided that: “In accordance with sec
 #### Study of Payments in Lieu of Taxes; Report to Congress
 
 Pub. L. 95–128, title II, §201(g), Oct. 12, 1977, 91 Stat. 1129, provided that the Secretary of Housing and Urban Development conduct a study of payment in lieu of taxes made under subsec. (d) of this section and report to the Congress on the status and adequacy of such payments not later than 12 months after Oct. 12, 1977.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437c–1, 1437f, 1437g, 1437j, 1437n, 1437s, 1437u, 1437v, 1437w, 1437y, 1437z, 1437z–7, 1437bbb–1, 1437bbb–5, 11907, 12705, 12742, 12755, 12899d, 13603 of this title; title 12 sections 24, 1701z–11.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
 

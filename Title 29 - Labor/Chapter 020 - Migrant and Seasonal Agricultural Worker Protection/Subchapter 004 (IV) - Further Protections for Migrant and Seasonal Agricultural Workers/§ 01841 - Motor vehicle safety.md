@@ -32,7 +32,7 @@
 
 (C) Standards prescribed by the Secretary under subparagraph (A) shall be in addition to, and shall not supersede or modify, any standard under part B of subtitle IV of title 49, or regulations issued thereunder, which is independently applicable to transportation to which this section applies. A violation of any such standard shall also constitute a violation under this chapter.
 
-(D) In the event that the Secretary fails for any reason to prescribe standards under subparagraph (A) by the effective date of this chapter, the standards prescribed under section 31502 of title 49, relating to the transportation of migrant workers, shall, for purposes of paragraph (1)(A), be deemed to be the standards prescribed by the Secretary under this paragraph, and shall, as appropriate and reasonable in the circumstances, apply (i) without regard to the mileage and boundary line limitations contained in such section, and (ii) until superseded by standards actually prescribed by the Secretary in accordance with this paragraph.
+(D) In the event that the Secretary fails for any reason to prescribe standards under subparagraph (A) by the effective date of this chapter, the standards prescribed under section 31502 of title 49, relating to the transportation of migrant workers, shall, for purposes of paragraph (1)(A), be deemed to be the standards prescribed by the Secretary under this paragraph, and shall, as appropriate and reasonable in the circumstances, apply (i) without regard to the mileage and boundary line limitations containedin such section, and (ii) until superseded by standards actually prescribed by the Secretary in accordance with this paragraph.
 
 (3) The level of insurance required under paragraph (1)(C) shall be determined by the Secretary considering at least the factors set forth in paragraph (2)(B) and similar farmworker transportation requirements under State law.
 
@@ -56,7 +56,7 @@ The effective date of this chapter, referred to in subsecs. (b)(2)(D) and (d), i
 
 #### Codification
 
-In subsec. (b)(2)(D), “section 31502 of title 49” substituted for “section 3102 of title 49” on authority of Pub. L. 103–272, §§1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, “section 3102 of title 49” substituted for “section 204(a)(3a) of the InterstateCommerce Act (49 U.S.C. 304(a)(3a))” on authority of Pub. L. 97–449, §6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
+In subsec. (b)(2)(D), “section 31502 of title 49” substituted for “section 3102 of title 49” on authority of Pub. L. 103–272, §§1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, “section 3102 of title 49” substituted for “section 204(a)(3a) of the Interstate Commerce Act (49 U.S.C. 304(a)(3a))” on authority of Pub. L. 97–449, §6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
 
 #### Amendments
 
@@ -73,8 +73,4 @@ Section 5(c) of Pub. L. 104–49 provided that: “The amendment made by subsect
 #### Regulations
 
 Section 5(b) of Pub. L. 104–49 provided that: “Within 180 days of the date of the enactment of this Act \[Nov. 15, 1995\], the Secretary of Labor shall promulgate regulations establishing insurance levels under section 401(b)(3) of the Migrant and Seasonal Agricultural Worker Protection Act (29 U.S.C. 1841(b)(3)) as amended by subsection (a).” \[Final regulations implementing Pub. L. 104–49 were signed May 13, 1996, published May 16, 1996, 61 F.R. 24858, and effective the same day.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1812, 1854 of this title.
 

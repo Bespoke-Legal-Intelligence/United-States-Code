@@ -64,7 +64,3 @@ Pub. L. 89–4, title II, §224(c), as added Pub. L. 94–188, title I, §117, D
 
 Pub. L. 89–4, title II, §224(d), as added Pub. L. 107–149, §8(b), Mar. 12, 2002, 116 Stat. 70.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14523 of this title.
-

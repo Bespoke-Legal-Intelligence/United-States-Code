@@ -31,10 +31,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 117b, 609c, 1777c, 4023 of this title; title 20 section 1087uu–1.
-
 
 ---
 

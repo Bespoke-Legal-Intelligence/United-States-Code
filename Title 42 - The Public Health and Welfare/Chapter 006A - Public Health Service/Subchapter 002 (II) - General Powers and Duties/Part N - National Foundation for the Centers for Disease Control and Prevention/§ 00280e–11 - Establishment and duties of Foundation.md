@@ -140,7 +140,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;In the case of any individual who is not an employee of the Federal Government and who serves in association with the Centers for Disease Control and Prevention pursuant to financial support from the Foundation, the Foundation shall negotiate a memorandum of understanding with the individual and the Director of the Centers for Disease Control and Prevention specifying that the individual—
 
-&emsp;&emsp;(A) shall be subject to the ethical and procedural standards regulating Federal employment, scientific investigation, and research findings (including publications andpatents) that are required of individuals employed by the Centers for Disease Control and Prevention, including standards under this chapter, the Ethics in Government Act, and the Technology Transfer Act; <sup>1</sup> and
+&emsp;&emsp;(A) shall be subject to the ethical and procedural standards regulating Federal employment, scientific investigation, and research findings (including publications and patents) that are required of individuals employed by the Centers for Disease Control and Prevention, including standards under this chapter, the Ethics in Government Act, and the Technology Transfer Act; <sup>1</sup> and
 
 &emsp;&emsp;(B) shall be subject to such ethical and procedural standards under chapter 11 of title 18 (relating to conflicts of interest), as the Director of such Centers determines is appropriate, except such memorandum may not provide that the individual shall be subject to the standards of section 209 of title 18.
 
@@ -178,7 +178,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;(A) The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall—
 
-&emsp;&emsp;(i) for fiscal year 1993, make a grant to an entity described in subsection (j)(9) of this section (relating to the establishment of a committee to establish the Foundation);
+&emsp;&emsp;(i) for fiscal year 1993, make a grant to an entity described in subsection (j)(9) of thissection (relating to the establishment of a committee to establish the Foundation);
 
 &emsp;&emsp;(ii) for fiscal year 1994, make a grant to the committee established under such subsection, or if the Foundation has been established, to the Foundation; and
 
@@ -208,7 +208,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 #### (3) Certain restriction
 
-&emsp;If the Foundation receives Federal funds for the purpose of serving as a fiscal intermediary between Federal agencies, the Foundation may not receive such funds for the indirectcosts of carrying out such purpose in an amount exceeding 10 percent of the direct costs of carrying out such purpose. The preceding sentence may not be construed as authorizing the expenditure of any grant under paragraph (1) for such purpose.
+&emsp;If the Foundation receives Federal funds for the purpose of serving as a fiscal intermediary between Federal agencies, the Foundation may not receive such funds for the indirect costs of carrying out such purpose in an amount exceeding 10 percent of the direct costs of carrying out such purpose. The preceding sentence may not be construed as authorizing the expenditure of any grant under paragraph (1) for such purpose.
 
 #### (j) Committee for establishment of Foundation
 

@@ -4,7 +4,3 @@ Before any land granted to any railroad company by the United States shall be co
 
 (July 15, 1870, ch. 292, 16 Stat. 305; July 31, 1876, ch. 246, 19 Stat. 121.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 886 of this title.
-

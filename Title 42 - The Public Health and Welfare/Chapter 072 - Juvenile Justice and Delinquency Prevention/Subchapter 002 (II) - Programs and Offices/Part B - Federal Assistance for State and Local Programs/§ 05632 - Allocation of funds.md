@@ -22,13 +22,13 @@ In accordance with regulations promulgated under this part, a portion of any all
 
 In accordance with regulations promulgated under this part, 5 per centum of the minimum annual allocation to any State under this part shall be available to assist the advisory group established under section 5633(a)(3) of this title.
 
-(Pub. L. 93–415, title II, §222, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(b)(1), (2)(A)–(C), (3), (4), Oct. 3, 1977, 91 Stat. 1051; Pub. L. 96–509, §10, Dec. 8, 1980, 94 Stat. 2755; Pub. L. 98–473, title II, §625(b), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §7257, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(2), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–50,2681–75; Pub. L. 107–273, div. C, title II, §12208, Nov. 2, 2002, 116 Stat. 1873.)
+(Pub. L. 93–415, title II, §222, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(b)(1), (2)(A)–(C), (3), (4), Oct. 3, 1977, 91 Stat. 1051; Pub. L. 96–509, §10, Dec. 8, 1980, 94 Stat. 2755; Pub. L. 98–473, title II, §625(b), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §7257, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(2), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12208, Nov. 2, 2002, 116 Stat. 1873.)
 
 #### Amendments
 
 2002—Subsec. (a)(2)(A). Pub. L. 107–273, §12208(1)(A)(i), struck out “(other than parts D and E)” after “carry out this subchapter”, substituted “amount up to $400,000” for “amount, up to $400,000,”, “fiscal year 2000, except” for “fiscal year 1992 except”, “amount up to $100,000” for “amount, up to $100,000,”, and “fiscal year 2000, each” for “fiscal year 1992, each”, and struck out “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
 
-Subsec. (a)(2)(B). Pub. L. 107–273, §12208(1)(A)(ii), struck out “(other than part D)” after “carry out this subchapter”, substituted “less than $600,000” for “less than $400,000”, “amount up to $100,000” for “amount, up to $100,000,”, and “fiscal year 2000,” for “fiscal year 1992”, and struck out “or such greater amount, up to $600,000, as is available to be allocated if appropriations have been enacted and made available to carry out parts D and E of this subchapter in the full amounts authorized by section 5671(a)(1) and (3) of this title” before “except that” and “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
+Subsec. (a)(2)(B). Pub. L. 107–273, §12208(1)(A)(ii), struck out “(other than part D)” after “carry out this subchapter”, substituted “less than $600,000” for “less than $400,000”, “amount up to $100,000” for “amount, up to $100,000,”, and “fiscal year 2000,” for “fiscal year 1992”, and struck out “or such greater amount, up to $600,000, as is available to be allocated if appropriationshave been enacted and made available to carry out parts D and E of this subchapter in the full amounts authorized by section 5671(a)(1) and (3) of this title” before “except that” and “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
 
 Subsec. (a)(3). Pub. L. 107–273, §12208(1)(B), substituted “fiscal year 2000” for “fiscal year 1992” in two places and “allocate” for “allot”.
 
@@ -85,8 +85,4 @@ Amendment by section 4(b)(1), (3) of Pub. L. 95–115 effective Oct. 1, 1977, se
 Section 4(b)(2)(D) of Pub. L. 95–115 provided that: “The amendments made by this paragraph \[amending this section\] shall take effect on October 1, 1978.”
 
 Section 4(b)(4)(B) of Pub. L. 95–115 provided that the amendment made by such section 4(b)(4)(B) is effective Oct. 1, 1978.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5633, 5656, 5675 of this title.
 

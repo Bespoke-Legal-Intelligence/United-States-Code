@@ -48,7 +48,7 @@
 | [690e.](%C2%A7%2000690e%20-%20Enforcement%20of%20laws%20and%20regulations%3B%20warrants%20and%20processes%3B%20jurisdiction%20of%20courts%3B%20forfeiture%20of%20property%20captured%2C%20injured%2C%20killed%20or%E2%80%A6.md) | Enforcement of laws and regulations; warrants and processes; jurisdiction of courts; forfeiture of property captured, injured, killed or removed. |
 | (a) | Arrests and warrants. |
 | (b) | Seizures and forfeitures. |
-| [690f.](%C2%A7%2000690f%20-%20Expenditures%20by%20Secretary%20of%20the%20Interior%20for%20construction%2C%20maintenance%2C%20etc.%2C%20of%20Bear%20River%20Refuge%3B%20employment%20of%20necessary%20means%20to%E2%80%A6.md) | Expenditures by Secretary of the Interior for construction, maintenance, etc. of Bear River Refuge; employment of necessary means to execute functions imposed on him. |
+| [690f.](%C2%A7%2000690f%20-%20Expenditures%20by%20Secretary%20of%20the%20Interior%20for%20construction%2C%20maintenance%2C%20etc.%2C%20of%20Bear%20River%20Refuge%3B%20employment%20of%20necessary%20means%20to%E2%80%A6.md) | Expenditures by Secretary of the Interior for construction, maintenance, etc., of Bear River Refuge; employment of necessary means to execute functions imposed on him. |
 | [690g.](%C2%A7%2000690g%20-%20Violation%20of%20laws%20and%20regulations%3B%20penalties.md) | Violation of laws and regulations; penalties. |
 | [690h.](%C2%A7%2000690h%20-%20%E2%80%9CPerson%E2%80%9D%20defined.md) | “Person” defined. |
 | [690i.](%C2%A7%2000690i%20-%20Omitted.md) | Omitted. |
@@ -269,7 +269,7 @@
 | 698v–9. | Limitations on funding. |
 | (a) | Authorization of appropriations. |
 | (b) | Schedule of appropriations. |
-| 698v–10. | General Accounting Office study. |
+| 698v–10. | Government Accountability Office study. |
 | (a) | Initial study. |
 | (b) | Second study. |
 | [698w.](%C2%A7%2000698w%20-%20Special%20management%20requirements%20for%20Federal%20lands%20recently%20added%20to%20Craters%20of%20the%20Moon%20National%20Monument%2C%20Idaho.md) | Special management requirements for Federal lands recently added to Craters of the Moon National Monument, Idaho. |
@@ -411,5 +411,5 @@
 - [&sect; 00698v&#8211;7 - Authorities of the Secretary](%C2%A7%2000698v%E2%80%937%20-%20Authorities%20of%20the%20Secretary.md)
 - [&sect; 00698v&#8211;8 - Termination of the Trust](%C2%A7%2000698v%E2%80%938%20-%20Termination%20of%20the%20Trust.md)
 - [&sect; 00698v&#8211;9 - Limitations on funding](%C2%A7%2000698v%E2%80%939%20-%20Limitations%20on%20funding.md)
-- [&sect; 00698v&#8211;10 - General Accounting Office study](%C2%A7%2000698v%E2%80%9310%20-%20General%20Accounting%20Office%20study.md)
+- [&sect; 00698v&#8211;10 - Government Accountability Office study](%C2%A7%2000698v%E2%80%9310%20-%20Government%20Accountability%20Office%20study.md)
 - [&sect; 00698w - Special management requirements for Federal lands recently added to Craters of the Moon National Monument, Idaho](%C2%A7%2000698w%20-%20Special%20management%20requirements%20for%20Federal%20lands%20recently%20added%20to%20Craters%20of%20the%20Moon%20National%20Monument%2C%20Idaho.md)

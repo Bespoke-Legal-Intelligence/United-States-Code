@@ -20,13 +20,13 @@ Grants under this section shall be allocated to coastal states with approved pro
 
 Before approving a management program submitted by a coastal state, the Secretary shall find the following:
 
-&emsp;(1) The State has developed and adopted a management program for its coastal zone in accordance with rules and regulations promulgated by the Secretary, after notice, and with the opportunity of full participation by relevant Federal agencies, State agencies, local governments, regional organizations, port authorities, and other interested parties and individuals, public and private, which is adequate to carry out the purposes of this chapter and is consistent with the policy declared in section 1452 of this title.
+&emsp;(1) The State has developed and adopted a management program for its coastal zone inaccordance with rules and regulations promulgated by the Secretary, after notice, and with the opportunity of full participation by relevant Federal agencies, State agencies, local governments, regional organizations, port authorities, and other interested parties and individuals, public and private, which is adequate to carry out the purposes of this chapter and is consistent with the policy declared in section 1452 of this title.
 
 &emsp;(2) The management program includes each of the following required program elements:
 
 &emsp;&emsp;(A) An identification of the boundaries of the coastal zone subject to the management program.
 
-&emsp;&emsp;(B) A definition of what shall constitute permissible land uses and water uses withinthe coastal zone which have a direct and significant impact on the coastal waters.
+&emsp;&emsp;(B) A definition of what shall constitute permissible land uses and water uses within the coastal zone which have a direct and significant impact on the coastal waters.
 
 &emsp;&emsp;(C) An inventory and designation of areas of particular concern within the coastal zone.
 
@@ -80,7 +80,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;(A) to administer land use and water use regulations to control development <sup>1</sup> to ensure compliance with the management program, and to resolve conflicts among competing uses; and
 
-&emsp;&emsp;(B) to acquire fee simple and less than fee simple interests in land, waters, and other property through condemnation or other means when necessary to achieve conformance with the management program.
+&emsp;&emsp;(B) to acquire fee simple and less than fee simple interests in land, waters, and otherproperty through condemnation or other means when necessary to achieve conformance with the management program.
 
 &emsp;(11) The management program provides for any one or a combination of the following general techniques for control of land uses and water uses within the coastal zone:
 
@@ -88,7 +88,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;(B) Direct State land and water use planning and regulation.
 
-&emsp;&emsp;(C) State administrative review for consistency with the management program of all development plans, projects, or land and water use regulations, including exceptionsand variances thereto, proposed by any State or local authority or private developer, with power to approve or disapprove after public notice and an opportunity for hearings.
+&emsp;&emsp;(C) State administrative review for consistency with the management program of all development plans, projects, or land and water use regulations, including exceptions and variances thereto, proposed by any State or local authority or private developer, with power to approve or disapprove after public notice and an opportunity for hearings.
 
 &emsp;(12) The management program contains a method of assuring that local land use and water use regulations within the coastal zone do not unreasonably restrict or exclude land uses and water uses of regional benefit.
 
@@ -134,7 +134,7 @@ Subsec. (g). Pub. L. 99–272, §6043(c), inserted “, and subject to the foll
 
 1980—Subsec. (a). Pub. L. 96–464, §5(a)(1), in opening text, substituted “The Secretary may make grants” for “The Secretary may make a grant annually”, added par. (3), and provision following par. (3) which defined the costs of administering a management program.
 
-Subsec. (b). Pub. L. 96–464, §5(2), struck out proviso that no annual grant made under this section shall be in excess of $2,000,000 for fiscal year 1975, in excess of$2,500,000 for fiscal year 1976, and in excess of $3,000,000 for fiscal year 1977.
+Subsec. (b). Pub. L. 96–464, §5(2), struck out proviso that no annual grant made under this section shall be in excess of $2,000,000 for fiscal year 1975, in excess of $2,500,000 for fiscal year 1976, and in excess of $3,000,000 for fiscal year 1977.
 
 Subsec. (i). Pub. L. 96–464, §5(a)(3), added subsec. (i).
 
@@ -159,10 +159,6 @@ Section 6206(b) of title VI of Pub. L. 101–508 provided that: “Each State wh
 &emsp;“(1) that the program complies with section 306(d)(14) and (15) of that Act, by not later than 3 years after the date of the enactment of this Act; and
 
 &emsp;“(2) that the program complies with section 306(d)(16) of that Act, by not later than 30 months after the date of publication of final guidance under section 6217(g) of this Act \[16 U.S.C. 1455b(g)\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1454, 1455a, 1455b, 1456, 1456a, 1456b, 1460, 1464, 3952 of this title; title 43 sections 1340, 1344, 1351.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

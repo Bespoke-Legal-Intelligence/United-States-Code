@@ -12,7 +12,7 @@ Except as provided by subsection (b) of this section, any information reported t
 
 &emsp;(2) shall be disclosed to contractors with the United States and employees of such contractors if in the opinion of the Administrator such disclosure is necessary for the satisfactory performance by the contractor of a contract with the United States entered into on or after October 11, 1976, for the performance of work in connection with this chapter and under such conditions as the Administrator may specify;
 
-&emsp;(3) shall be disclosed if the Administrator determines it necessary to protect health or theenvironment against an unreasonable risk of injury to health or the environment; or
+&emsp;(3) shall be disclosed if the Administrator determines it necessary to protect health or the environment against an unreasonable risk of injury to health or the environment; or
 
 &emsp;(4) may be disclosed when relevant in any proceeding under this chapter, except that disclosure in such a proceeding shall be made in such manner as to preserve confidentiality to the extent practicable without impairing the proceeding.
 
@@ -46,7 +46,7 @@ Except as provided by subsection (b) of this section, any information reported t
 
 #### (d) Criminal penalty for wrongful disclosure
 
-(1) Any officer or employee of the United States or former officer or employee of the United States, who by virtue of such employment or official position has obtained possession of, or has access to, material the disclosure of which is prohibited by subsection (a) of this section, and who knowing that disclosure of such material is prohibited by such subsection, willfully discloses the material in any manner to any person not entitled to receive it, shall be guilty of a misdemeanor and fined not more than $5,000 or imprisoned for not more than one year, or both. Section 1905 of title 18 does not apply with respect to the publishing, divulging, disclosure, or making known of, or making available, information reported or otherwise obtained under this chapter.
+(1) Any officer or employee of the United States or former officer or employee of theUnited States, who by virtue of such employment or official position has obtained possession of, or has access to, material the disclosure of which is prohibited by subsection (a) of this section, and who knowing that disclosure of such material is prohibited by such subsection, willfully discloses the material in any manner to any person not entitled to receive it, shall be guilty of a misdemeanor and fined not more than $5,000 or imprisoned for not more than one year, or both. Section 1905 of title 18 does not apply with respect to the publishing, divulging, disclosure, or making known of, or making available, information reported or otherwise obtained under this chapter.
 
 (2) For the purposes of paragraph (1), any contractor with the United States who is furnished information as authorized by subsection (a)(2) of this section, and any employee of any such contractor, shall be considered to be an employee of the United States.
 
@@ -55,8 +55,4 @@ Except as provided by subsection (b) of this section, any information reported t
 Notwithstanding any limitation contained in this section or any other provision of law, all information reported to or otherwise obtained by the Administrator (or any representative of the Administrator) under this chapter shall be made available, upon written request of any duly authorized committee of the Congress, to such committee.
 
 (Pub. L. 94–469, title I, §14, Oct. 11, 1976, 90 Stat. 2034; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2603, 2604 of this title.
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary of Transportation, in consultation with the Secretaries of Commerce, Energy, and Defense, the Administrator of the Environmental Protection Agency, the Assistant Secretary of the Army for Public Works, and the heads of other interested agencies, shall lead and coordinate Federal efforts in the research and development of high-speed ground transportation technologies in order to foster the implementation of magnetic levitation and high-speed steel wheel on rail transportation systems as alternatives to existing transportation systems.
 
-(b)(1) The Secretary may award contracts and grants for demonstrations to determine the contributions that high-speed ground transportation could make to more efficient, safe, and economical intercity transportation systems. Such demonstrations shall be designed to measure and evaluate such factors as the public response to new equipment, higher speeds, variations in fares, improved comfort and convenience, and more frequent service. In connection with grants and contracts for demonstrations under this section, the Secretary shall provide for financial participation by private industry to the maximum extent practicable.
+(b)(1) The Secretary may award contracts and grants for demonstrations to determine the contributions that high-speed ground transportation could make to more efficient, safe, and economical intercity transportation systems. Such demonstrations shall be designed to measure and evaluate such factors as the public response to new equipment, higher speeds, variations in fares, improved comfort and convenience, and more frequent service. In connectionwith grants and contracts for demonstrations under this section, the Secretary shall provide for financial participation by private industry to the maximum extent practicable.
 
 (2)(A) In connection with the authority provided under paragraph (1), there is established a national high-speed ground transportation technology demonstration program, which shall be separate from the national magnetic levitation prototype development program established under section 1036(b) of the Intermodal Surface Transportation Efficiency Act of 1991 and shall be managed by the Secretary of Transportation.
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(i) the current transportation practices and trends in each market; and
 
-&emsp;&emsp;(ii) the extent to which high-speed ground transportation systems would relieve the current or anticipated congestion on other modes of transportation;
+&emsp;&emsp;(ii) the extent to which high-speed ground transportation systems would relieve thecurrent or anticipated congestion on other modes of transportation;
 
 &emsp;(C) projections of the costs of designing, constructing, and operating high-speed ground transportation systems, the extent to which such systems can recover their costs (including capital costs), and the alternative methods available for private and public financing;
 
@@ -98,7 +98,7 @@
 
 &emsp;(E) an examination of the significant unresolved technical issues surrounding the design, engineering, construction, and operation of high-speed ground transportation systems, including the potential for the use of existing rights-of-way;
 
-&emsp;(F) an examination of the effects on air quality, energy consumption, noise, land use, health, and safety as a result of the decreases in traffic volume on other modes of transportation that are expected to result from thefull-scale development of high-speed ground transportation systems; and
+&emsp;(F) an examination of the effects on air quality, energy consumption, noise, land use, health, and safety as a result of the decreases in traffic volume on other modes of transportation that are expected to result from the full-scale development of high-speed ground transportation systems; and
 
 &emsp;(G) any other technical assessments the Secretary considers important for carrying out this section.
 
@@ -128,7 +128,7 @@ Section 7 of the Rail Safety Improvement Act of 1988, referred to in subsec. (d)
 
 #### Effective Date
 
-Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of Title 23, Highways.
+Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available afterSept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of Title 23, Highways.
 
 #### National Magnetic Levitation Prototype Development Program
 
@@ -170,7 +170,7 @@ Prototype.—
 
 &emsp;“(A)
 
-Selection of design.—Within 6 months of receiving the detailed designs developed under paragraph (3), the Secretary and the Assistant Secretary shall, based on the recommendations of the selection committee described in this subparagraph, select 1 design for development into a full-scale prototype, unless the Secretary and the Assistant Secretary determine jointly that no design shall be selected, based on an assessment of technical feasibility andprojected cost of construction and operation of the prototype. A selection committee of 8 members, consisting of—
+Selection of design.—Within 6 months of receiving the detailed designs developed under paragraph (3), the Secretary and the Assistant Secretary shall, based on the recommendations of the selection committee described in this subparagraph, select 1 design for development into a full-scale prototype, unless the Secretary and the Assistant Secretary determine jointly that no design shall be selected, based on an assessment of technical feasibility and projected cost of construction and operation of the prototype. A selection committee of 8 members, consisting of—
 
 &emsp;&emsp;“(i) 1 member to be appointed by the Secretary,
 

@@ -4,7 +4,3 @@ If, by reason of any act of God, or of the public enemy, or any major catastroph
 
 (July 19, 1940, ch. 643, §3, 54 Stat. 776.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 618a of this title.
-

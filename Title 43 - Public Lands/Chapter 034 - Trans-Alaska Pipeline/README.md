@@ -23,10 +23,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 33 sections 2702, 2707, 2735; title 49 section 60130.
-
 
 ---
 

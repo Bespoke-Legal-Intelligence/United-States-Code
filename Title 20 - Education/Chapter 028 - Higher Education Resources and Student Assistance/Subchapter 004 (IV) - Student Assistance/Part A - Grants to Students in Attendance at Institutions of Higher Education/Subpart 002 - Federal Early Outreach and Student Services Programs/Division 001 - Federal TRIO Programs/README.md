@@ -1,9 +1,5 @@
 ### Division 1—Federal TRIO Programs
 
-#### Division Referred to in Other Sections
-
-This division is referred to in sections 1011b, 1070a–25, 6534 of this title.
-
 
 ---
 

@@ -32,13 +32,9 @@ Any party may demand a jury trial where a jury trial would be available in an ac
 
 #### Amendments
 
-<b>2001</b>—Subsec. (d). Pub. L. 107–68 added subsec. (d).
+2001—Subsec. (d). Pub. L. 107–68 added subsec. (d).
 
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–68, title I, §119(b), Nov. 12, 2001, 115 Stat. 574, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to proceedings occurring on or after the date of the enactment of this Act \[Nov. 12, 2001\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1361, 1401, 1404, 1409, 1410, 1411, 1413, 1435 of this title.
 

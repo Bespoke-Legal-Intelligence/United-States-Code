@@ -10,7 +10,7 @@ Based on title 28, U.S.C., 1940 ed., §831 (R.S. §984; June 10, 1921, ch. 18, �
 
 Section as revised conforms to existing Federal Practice. See note to subdivision (d) of Rule 54 of the Federal Rules of Civil Procedure. For discussion as to verification of bill of costs under existing practice, see—8 Hughes, Federal Practice, Jurisdiction and Procedure—Civil and Criminal, §6441.
 
-Words “or allowed by the General Accounting Office” were omitted as unnecessary. That office will not allow items in a tax bill for costs against the United States unless such bill has been taxed by the court, and the court, under this section, cannot tax as costs items in an unverified bill.
+Words “or allowed by the General Accounting Office” were omitted as unnecessary. That office will not allow items in a tax bill for costs against the United Statesunless such bill has been taxed by the court, and the court, under this section, cannot tax as costs items in an unverified bill.
 
 Changes were made in phraseology.
 

@@ -8,7 +8,3 @@ The Consumer Product Safety Commission shall prescribe and publish in the Federa
 
 “Consumer Product Safety Commission” substituted for “Secretary of Commerce” pursuant to section 30(c) of Pub. L. 92–573, which is classified to section 2079(c) of this title and which transferred functions of Secretary of Commerce and Federal Trade Commission under this chapter to Consumer Product Safety Commission.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1211 of this title.
-

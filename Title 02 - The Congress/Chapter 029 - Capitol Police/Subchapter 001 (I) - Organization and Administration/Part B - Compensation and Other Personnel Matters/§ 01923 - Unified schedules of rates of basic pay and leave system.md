@@ -6,7 +6,7 @@
 
 (2) The Capitol Police Board may, from time to time, adjust any schedule established under paragraph (1) to the extent that the Board determines appropriate to reflect changes in the cost of living and to maintain pay comparability.
 
-(3) A schedule established or revised under paragraph (1) or (2) shall take effect only upon approval by the Committee on House Oversightof the House of Representatives and the Committee on Rules and Administration of the Senate.
+(3) A schedule established or revised under paragraph (1) or (2) shall take effect only upon approval by the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate.
 
 (4) A schedule approved under paragraph (3) shall have the force and effect of law.
 

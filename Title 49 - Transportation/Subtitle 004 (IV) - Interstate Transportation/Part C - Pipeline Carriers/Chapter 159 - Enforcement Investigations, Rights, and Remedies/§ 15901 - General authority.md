@@ -22,7 +22,3 @@ Provisions similar to those in this section were contained in section 11701 of t
 
 Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15904 of this title.
-

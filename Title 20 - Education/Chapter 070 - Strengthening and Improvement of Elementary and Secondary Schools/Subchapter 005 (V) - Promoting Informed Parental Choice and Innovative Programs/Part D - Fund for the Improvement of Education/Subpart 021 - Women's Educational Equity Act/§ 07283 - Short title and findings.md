@@ -22,7 +22,7 @@ Congress finds that—
 
 &emsp;&emsp;(D) pregnant and parenting teenagers are at high risk for dropping out of school and existing dropout prevention programs do not adequately address the needs of such teenagers;
 
-&emsp;(4) efforts to improve the quality of public education also must include efforts to ensure equal access to quality education programs for all women and girls;
+&emsp;(4) efforts to improve the quality of public education also must include efforts to ensureequal access to quality education programs for all women and girls;
 
 &emsp;(5) Federal support should address not only research and development of innovative model curricula and teaching and learning strategies to promote gender equity, but should also assist schools and local communities implement gender equitable practices;
 

@@ -22,7 +22,3 @@
 
 The definitions of Secretary and State in section 2602 of Title 16, Conservation, apply to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3203 of this title.
-

@@ -16,7 +16,3 @@ It shall be the responsibility of the Secretary of the Interior to carry out thi
 
 Section 1 of Pub. L. 91–631 provided: “That this Act \[enacting this section\] may be cited as the ‘Mining and Minerals Policy Act of 1970’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1292, 1601, 1605 of this title; title 43 sections 1701, 1866.
-

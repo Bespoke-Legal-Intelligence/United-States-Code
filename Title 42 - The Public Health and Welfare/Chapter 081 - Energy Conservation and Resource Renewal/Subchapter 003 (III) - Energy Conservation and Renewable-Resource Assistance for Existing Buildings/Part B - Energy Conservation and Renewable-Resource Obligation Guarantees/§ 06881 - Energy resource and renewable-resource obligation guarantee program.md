@@ -62,7 +62,7 @@ The original principal amount guaranteed under subsection (a) may not exceed 90 
 
 (3) The Secretary may, in his discretion, take possession of, complete, recondition, reconstruct, renovate, repair, maintain, operate, remove, charter, rent, sell, or otherwise dispose of any property or other interests obtained by him pursuant to this subsection. The terms of any such sale or other disposition shall be as approved by the Secretary.
 
-(4) If there is a default by the obligor in any payment due under an obligation guaranteedunder subsection (a) of this section, the Secretary shall take such action against such obligor or any other person as is, in his discretion, necessary or appropriate to protect the interests of the United States. Such an action may be brought in the name of the United States or in the name of the holder of such obligation. Such holder shall make available to the Secretary all records and evidence necessary to prosecute any such suit. The Secretary may, in his discretion, accept a conveyance of property in full or partial satisfaction of any sums owed to him. If the Secretary receives, through the sale of property, an amount greater than his cost and the amount paid to the holder under paragraph (1), he shall pay such excess to the obligor.
+(4) If there is a default by the obligor in any payment due under an obligation guaranteed under subsection (a) of this section, the Secretary shall take such action against such obligor or any other person as is, in his discretion, necessary or appropriate to protect the interests of the United States. Such an action may be brought in the name of the United States or in the name of the holder of such obligation. Such holder shall make available to the Secretary all records and evidence necessary to prosecute any such suit. The Secretary may, in his discretion, accept a conveyance of property in full or partial satisfaction of any sums owed to him. If the Secretary receives, through the sale of property, an amount greater than his cost and the amount paid to the holder under paragraph (1), he shall pay such excess to the obligor.
 
 #### (g) Limitation on aggregate outstanding principal amount of obligations guaranteed; time limitation on guarantees and commitments to guarantee; authorization of appropriations
 
@@ -78,7 +78,7 @@ The original principal amount guaranteed under subsection (a) may not exceed 90 
 
 #### (h) Wages paid laborers and mechanics; labor standards
 
-All laborers and mechanics employed in construction, alteration, or repair which is financed by an obligation guaranteed under subsection (a) of this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not guarantee any obligations under subsection (a) of this section without first obtaining adequate assurance that these labor standards will be maintained during such construction, alteration, or repair. The Secretary of Labor shall, with respect to the labor standards in this subsection, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 3145 of title 40.
+All laborers and mechanics employed in construction, alteration, or repair which is financedby an obligation guaranteed under subsection (a) of this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not guarantee any obligations under subsection (a) of this section without first obtaining adequate assurance that these labor standards will be maintained during such construction, alteration, or repair. The Secretary of Labor shall, with respect to the labor standards in this subsection, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 3145 of title 40.
 
 #### (i) Definitions
 
@@ -113,8 +113,4 @@ In subsec. (i)(1), “The term ‘Secretary’ means the Secretary of Energy” 
 #### Transfer of Functions
 
 “Secretary”, meaning Secretary of Energy, substituted for “Administrator”, meaning Administrator of Federal Energy Administration, in subsecs. (a) to (f) and (h) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Federal Energy Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6325 of this title.
 

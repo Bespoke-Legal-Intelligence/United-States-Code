@@ -4,7 +4,3 @@ In the event that the court renders judgment against the United States under the
 
 (May 18, 1928, ch. 624, §5, 45 Stat. 602.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 656 of this title.
-

@@ -32,11 +32,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (c)(3), is Pu
 
 2002—Subsec. (c)(1). Pub. L. 107–217, §3(c)(4)(A), substituted “Subtitle I of title 40 and title III of the” for “The” and “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
-Subsec. (c)(2). Pub. L. 107–217, §3(c)(4)(B), substituted “Section 1302 of title 40” for “Section 321 of the Act of June 30, 1932 (commonly known as the Economy Act) (47 Stat. 412, chapter 314; 40 U.S.C. 303b)”.
+Subsec. (c)(2). Pub. L. 107–217, §3(c)(4)(B), substituted “Section 1302 of title 40” for “Section 321 of the Act ofJune 30, 1932 (commonly known as the Economy Act) (47 Stat. 412, chapter 314; 40 U.S.C. 303b)”.
 
 2000—Subsec. (c)(3). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 687, 688 of this title.
 

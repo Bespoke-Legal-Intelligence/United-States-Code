@@ -4,7 +4,3 @@ Not later than 1 year after July 26, 1990, the Commission shall issue regulation
 
 (Pub. L. 101–336, title I, §106, July 26, 1990, 104 Stat. 336.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12117 of this title.
-

@@ -4,7 +4,3 @@ Additional copies of each hardbound decennial revised edition and of the cumulat
 
 (Pub. L. 91–589, §4, Dec. 24, 1970, 84 Stat. 1587.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 168d of this title.
-

@@ -48,7 +48,7 @@ No Federal agency may engage in any standards-related activity that creates unne
 
 #### (3) Performance criteria
 
-&emsp;Each Federal agency shall, if appropriate, develop standards based on performance criteria, such as those relating to the intended use of a product and the level of performance that the product must achieve under defined conditions, rather than on design criteria,such as those relating to the physical form of the product or the types of material of which the product is made.
+&emsp;Each Federal agency shall, if appropriate, develop standards based on performance criteria, such as those relating to the intended use of a product and the level of performance that the product must achieve under defined conditions, rather than on design criteria, such as those relating to the physical form of the product or the types of material of which the product is made.
 
 #### (4) Access for foreign suppliers
 
@@ -69,10 +69,6 @@ Section 2571(6)(A) of this title, referred to in par. (2)(B)(ii), was amended ge
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 352 of Pub. L. 103–465, set out as a note under section 2531 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2533 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

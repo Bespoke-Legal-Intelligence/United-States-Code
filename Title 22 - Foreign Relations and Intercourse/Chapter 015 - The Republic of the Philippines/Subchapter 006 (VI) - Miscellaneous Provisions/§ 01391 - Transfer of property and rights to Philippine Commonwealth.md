@@ -24,7 +24,3 @@ Section 16 of act Mar. 24, 1934, provided: “If any provision of this Act \[ena
 
 Philippine Islands granted independence by Proc. No. 2695, which is set out as a note under section 1394 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1394 of this title.
-

@@ -10,7 +10,3 @@ The first sentence of this section was from section 5 of the act of June 2, 1920
 
 The last sentence of this section is from section 2 of act Oct. 1, 1890.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 46, 48, 51, 62, 63, 64, 65, 471c, 471d of this title.
-

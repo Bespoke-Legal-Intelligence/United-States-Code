@@ -6,7 +6,7 @@ The Secretary shall administer, protect, and develop the recreation area in acco
 
 #### (b) Cooperative agreements
 
-The Secretary may enter into cooperative agreements with the State of Georgia, politicalsubdivisions of the State, and other entities to ensure standardized acquisition, planning, design, construction, and operation of the recreation area.
+The Secretary may enter into cooperative agreements with the State of Georgia, political subdivisions of the State, and other entities to ensure standardized acquisition, planning, design, construction, and operation of the recreation area.
 
 #### (c) Consultation with Secretary of Army
 

@@ -16,7 +16,7 @@
 
 I74legislative statements
 
-Section 510(c)(1) of the House amendment represents a compromise between similar provisions in the House bill and Senate amendment. After notice and a hearing, the court may, under principles of equitable subordination, subordinate for purposes of distribution all or part of an allowed claim to all or part of another allowed claim or all or part of an allowed interest to all or part of another allowed interest. As a matter of equity, it is reasonable that a court subordinate claims to claims and interests to interests. It is intended that the term “principles of equitable subordination” followexisting case law and leave to the courts development of this principle. To date, under existing law, a claim is generally subordinated only if holder of such claim is guilty of inequitable conduct, or the claim itself is of a status susceptible to subordination, such as a penalty or a claim for damages arising from the purchase or sale of a security of the debtor. The fact that such a claim may be secured is of no consequence to the issue of subordination. However, it is inconceivable that the status of a claim as a secured claim could ever be grounds for justifying equitable subordination.
+Section 510(c)(1) of the House amendment represents a compromise between similar provisions in the House bill and Senate amendment. After notice and a hearing, the court may, under principles of equitable subordination, subordinate for purposes of distribution all or part of an allowed claim to all or part of another allowed claim or all or part of an allowed interest to all or part of another allowed interest. As a matter of equity, it is reasonable that a court subordinate claims to claims and interests to interests. It is intended that the term “principles of equitable subordination” follow existing case law and leave to the courts development of this principle. To date, under existing law, a claim is generally subordinated only if holder of such claim is guilty of inequitable conduct, or the claim itself is of a status susceptible to subordination, such as a penalty or a claim for damages arising from the purchase or sale of a security of the debtor. The fact that such a claim may be secured is of no consequence to the issue of subordination. However, it is inconceivable that the status of a claim as a secured claim could ever be grounds for justifying equitable subordination.
 
 Subordination: Since the House amendment authorizes subordination of claims only under principles of equitable subordination, and thus incorporates principles of existing case law, a tax claim would rarely be subordinated under this provision of the bill.
 
@@ -35,8 +35,4 @@ Subsection (b) authorizes the bankruptcy court, in ordering distribution of asse
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 349, 509, 522, 541, 726, 747, 752, 766, 901, 1129 of this title.
 

@@ -62,7 +62,7 @@ Each proposal for a grant under this section shall include the following:
 
 &emsp;&emsp;(B) provide for the merit-based peer review of the proposal and require standardized documentation of that peer review;
 
-&emsp;&emsp;(C) after considering any written comments and recommendations based on the reviews under subparagraphs (A) and (B), approve or disapprove the proposal; and
+&emsp;&emsp;(C) after considering any written comments and recommendations based on thereviews under subparagraphs (A) and (B), approve or disapprove the proposal; and
 
 &emsp;&emsp;(D) provide written notification of that approval or disapproval to the person who submitted the proposal, and each of those States and other government jurisdictions that provided comments under subparagraph (A).
 
@@ -107,8 +107,4 @@ Within 180 days after December 23, 2000, the Administrator shall promulgate nece
 #### References in Text
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f)(2)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6407, 6408 of this title.
 

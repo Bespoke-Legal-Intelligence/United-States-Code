@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—MILITARY ASSISTANCE AND SALES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2223, 2301, 2318, 2321d, 2344, 2346, 2348c, 2349aa–5, 2352, 2371, 2383, 2385, 2392, 2393, 2395, 2396, of this title; title 10 section 2562; title 50 section 415.
-
 
 ---
 

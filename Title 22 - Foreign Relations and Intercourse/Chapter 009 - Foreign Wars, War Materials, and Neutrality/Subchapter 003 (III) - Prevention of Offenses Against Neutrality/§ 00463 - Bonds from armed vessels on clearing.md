@@ -12,7 +12,3 @@ Section was formerly classified to section 28 of title 18 prior to the general r
 
 Section was derived from R.S. §5289 (act Apr. 20, 1818, ch. 88, §10, 3 Stat. 449), which was repealed by section 341 of act Mar. 4, 1909.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 464 of this title; title 10 section 351.
-

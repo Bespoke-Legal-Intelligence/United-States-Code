@@ -14,7 +14,3 @@ Section was not enacted as part of the Organic Act of Guam which comprises this 
 
 1977—Pub. L. 95–134 designated existing provisions as subsec. (a) and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1428b of this title.
-

@@ -108,7 +108,3 @@ The Administrator, or another Federal department or agency designated by the Adm
 
 1990—Subsec. (e)(5) to (7). Pub. L. 101–508 added pars. (5) to (7).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2666 of this title; title 42 section 4370c.
-

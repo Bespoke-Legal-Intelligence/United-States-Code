@@ -126,7 +126,3 @@ Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 429, provided in part that:
 
 Pub. L. 99–198, title XIII, §1325, Dec. 23, 1985, 99 Stat. 1540, provided that: “The Secretary of Agriculture shall not use or require the submission of the coordinated financial statement referred to in the proposed regulations of the Farmers Home Administration published in the Federal Register of November 8, 1983 (48 F.R. 51312–51317) in connection with an application submitted on or after the date of the enactment of this Act \[Dec. 23, 1985\] for any loan under any program of the Department of Agriculture carried out by the Farmers Home Administration.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1983a of this title.
-

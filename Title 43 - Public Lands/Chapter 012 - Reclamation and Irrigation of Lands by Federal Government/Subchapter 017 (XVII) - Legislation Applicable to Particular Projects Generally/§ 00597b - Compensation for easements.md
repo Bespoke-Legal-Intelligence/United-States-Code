@@ -4,7 +4,3 @@ Compensation to the individual Indian owners of the allotted lands within the ar
 
 (Mar. 14, 1940, ch. 51, §2, 54 Stat. 49.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 597c, 597d of this title.
-

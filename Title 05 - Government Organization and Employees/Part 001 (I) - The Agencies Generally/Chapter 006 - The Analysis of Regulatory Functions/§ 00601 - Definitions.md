@@ -48,11 +48,215 @@ Section 4 of Pub. L. 96–354 provided that: “The provisions of this Act \[ena
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–121 provided that: “This Act \[enacting sections 801 to 808 of this title, section 657 of Title 15, Commerce and Trade, and sections 1320b–15 and 1383e of Title 42, The Public Health and Welfare, amending this section and sections 504, 603 to 605, 609, 611, and 612 of this title, sections 665e and 901 of Title 2, The Congress, section 648 of Title 15, section 2412 of Title 28, Judiciary and Judicial Procedure, section 3101 of Title 31, Money and Finance, and sections 401, 402, 403, 405, 422, 423, 425, 902, 903, 1382, 1382c, 1383, and 1383c of Title 42, enacting provisions set out as notes underthis section and sections 504, 609, and 801 of this title and sections 401, 402, 403, 405, 902, 1305, 1320b–15, and 1382 of Title 42, amending provisions set out as a note under section 631 of Title 15, and repealing provisions set out as a note under section 425 of Title 42\] may be cited as the ‘Contract with America Advancement Act of 1996’.”
+Section 1 of Pub. L. 104–121 provided that: “This Act \[enacting sections 801 to 808 of this title, section 657 of Title 15, Commerce and Trade, and sections 1320b–15 and 1383e of Title 42, The Public Health and Welfare, amending this section and sections 504, 603 to 605, 609, 611, and 612 of this title, sections 665e and 901 of Title 2, The Congress, section 648 of Title 15, section 2412 of Title 28, Judiciary and Judicial Procedure, section 3101 of Title 31, Money and Finance, and sections 401, 402, 403, 405, 422, 423, 425, 902, 903, 1382, 1382c, 1383, and 1383c of Title 42, enacting provisions set out as notes under this section and sections 504, 609, and 801 of this title and sections 401, 402, 403, 405, 902, 1305, 1320b–15, and 1382 of Title 42, amending provisions set out as a note under section 631 of Title 15, and repealing provisions set out as a note under section 425 of Title 42\] may be cited as the ‘Contract with America Advancement Act of 1996’.”
 
 #### Short Title
 
 Section 1 of Pub. L. 96–354 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Regulatory Flexibility Act’.”
+
+#### Privacy and Civil Liberties Oversight Board
+
+Pub. L. 108–458, title I, §1061, Dec. 17, 2004, 118 Stat. 3684, provided that:
+
+“(a)
+
+Findings.—Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
+
+&emsp;“(1) In conducting the war on terrorism, the Federal Government may need additional powers and may need to enhance the use of its existing powers.
+
+&emsp;“(2) This potential shift of power and authority to the Federal Government calls for an enhanced system of checks and balances to protect the precious liberties that are vital to our way of life.
+
+“(b)
+
+Establishment of Board.—There is established within the Executive Office of the President a Privacy and Civil Liberties Oversight Board (referred to in this section as the ‘Board’).
+
+“(c)
+
+Functions.—
+
+&emsp;“(1)
+
+Advice and counsel on development and implementation of policy.—For the purpose of providing advice to the President or to the head of any department or agency of the executive branch, the Board shall—
+
+&emsp;&emsp;“(A) review proposed regulations and executive branch policies related to efforts to protect the Nation from terrorism, including the development and adoption of information sharing guidelines under subsections (d) and (f) of section 1016 \[6 U.S.C. 485(d), (f)\];
+
+&emsp;&emsp;“(B) review the implementation of laws, regulations, and executive branch policies related to efforts to protect the Nation from terrorism, including the implementation of information sharing guidelines under subsections (d) and (f) of section 1016 \[6 U.S.C. 485(d), (f)\];
+
+&emsp;&emsp;“(C) advise the President and the head of any department or agency of the executive branch to ensure that privacy and civil liberties are appropriately considered in the development and implementation of such regulations and executive branch policies; and
+
+&emsp;&emsp;“(D) in providing advice on proposals to retain or enhance a particular governmental power, consider whether the department, agency, or element of the executive branch concerned has explained—
+
+&emsp;&emsp;&emsp;“(i) that there is adequate supervision of the use by the executive branch of the power to ensure protection of privacy and civil liberties;
+
+&emsp;&emsp;&emsp;“(ii) that there are adequate guidelines and oversight to properly confine the use of the power; and
+
+&emsp;&emsp;&emsp;“(iii) that the need for the power, including the risk presented to the national security if the Federal Government does not take certain actions, is balanced with the need to protect privacy and civil liberties.
+
+&emsp;“(2)
+
+Oversight.—The Board shall continually review—
+
+&emsp;&emsp;“(A) regulations, executive branch policies, and procedures (including the implementation of such regulations, policies, and procedures), related laws pertaining to efforts to protect the Nation from terrorism, and other actions by the executive branch related to efforts to protect the Nation from terrorism to ensure that privacy and civil liberties are protected; and
+
+&emsp;&emsp;“(B) the information sharing practices of the departments, agencies, and elements of the executive branch to determine whether or not such practices appropriately protect privacy and civil liberties and adhere to the information sharing guidelines under subsections (d) and (f) of section 1016 \[6 U.S.C. 485(d), (f)\] and to other applicable laws, regulations, and executive branch policies regarding the protection of privacy and civil liberties.
+
+&emsp;“(3)
+
+Scope.—The Board shall ensure that concerns with respect to privacy and civil liberties are appropriately considered in the implementation of laws, regulations, and executive branch policies related to efforts to protect the Nation against terrorism.
+
+&emsp;“(4)
+
+Reports to congress.—Not less frequently than annually, the Board shall prepare a report to Congress, unclassified to the greatest extent possible (with a classified annex, if necessary), on the Board's major activities during the preceding period.
+
+“(d)
+
+Access to Information.—
+
+&emsp;“(1)
+
+Authorization.—If determined by the Board to be necessary to carry out its responsibilities under this section, the Board is authorized, to the extent permitted by law, to—
+
+&emsp;&emsp;“(A) have access from any department or agency of the executive branch, or any Federal officer or employee of any such department or agency, to all relevant records, reports, audits, reviews, documents, papers, recommendations, or other relevant material, including classified information consistent with applicable law;
+
+&emsp;&emsp;“(B) interview or take statements from officers of any department or agency of the executive branch;
+
+&emsp;&emsp;“(C) request information or assistance from any State, tribal, or local government; and
+
+&emsp;&emsp;“(D)(i) request that persons (other than departments, agencies, and elements of the executive branch) produce for the Board relevant information, documents, reports, answers, records, accounts, papers, and other documentary and testimonial evidence; and
+
+&emsp;&emsp;“(ii) if the person to whom such a request is directed does not comply with the request within 45 days of receipt of such request, notify the Attorney General of such person's failure to comply with such request, which notice shall include all relevant information.
+
+&emsp;“(2)
+
+Production of information and evidence.—
+
+&emsp;&emsp;“(A)
+
+Explanation of noncompliance.—Upon receiving notification under paragraph (1)(D)(ii) regarding a request, the Attorney General shall provide an opportunity for the person subject to the request to explain the reasons for not complying with the request.
+
+&emsp;&emsp;“(B)
+
+Action by attorney general.—Upon receiving notification under paragraph (1)(D)(ii) regarding a request, the Attorney General shall review the request and may take such steps as appropriate to ensure compliance with the request for the information, documents, reports, answers, records, accounts, papers, and other documentary and testimonial evidence covered by the request.
+
+&emsp;“(3)
+
+Agency cooperation.—Whenever information or assistance requested under subparagraph (A) or (B) of paragraph (1) is, in the judgment of the Board, unreasonably refused or not provided, the Board shall report the circumstances to the head of the department or agency concerned without delay. If the requested information or assistance may be provided to the Board in accordance with applicable law, the head of the department or agency concerned shall ensure compliance with such request.
+
+&emsp;“(4)
+
+Exceptions for national security.—
+
+&emsp;&emsp;“(A)
+
+In general.—If the National Intelligence Director, in consultation with the Attorney General, determines that it is necessary to withhold information requested under paragraph (3) to protect the national security interests of the United States, the head of the department or agency concerned shall not furnish such information to the Board.
+
+&emsp;&emsp;“(B)
+
+Certain information.—If the Attorney General determines that it is necessary to withhold information requested under paragraph (3) from disclosure to protect sensitive law enforcement or counterterrorism information or ongoing operations, the head of the department or agency concerned shall not furnish such information to the Board.
+
+“(e)
+
+Membership.—
+
+&emsp;“(1)
+
+Members.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Board shall be composed of a chairman, a vice chairman, and three additional members appointed by the President.
+
+&emsp;&emsp;“(B)
+
+Chairman and vice chairman.—The chairman and vice chairman shall each be appointed by the President, by and with the advice and consent of the Senate.
+
+&emsp;&emsp;“(C)
+
+Appointment requirements.—Any individual appointed to the Board shall be appointed from among trustworthy and distinguished citizens outside the Federal Government who are qualified on the basis of achievement, experience, and independence.
+
+&emsp;&emsp;“(D)
+
+Full-time service of chairman.—The chairman may serve on a full-time basis.
+
+&emsp;&emsp;“(E)
+
+Service at pleasure of president.—The chairman, vice chairman, and other members of the Board shall each serve at the pleasure of the President.
+
+&emsp;“(2)
+
+Incompatible office.—An individual appointed to the Board may not, while serving on the Board, be an elected official, officer, or employee of the Federal Government, other than in the capacity as a member of the Board.
+
+&emsp;“(3)
+
+Quorum and meetings.—The Board shall meet upon the call of the chairman or a majority of its members. Three members of the Board shall constitute a quorum.
+
+“(f)
+
+Compensation and Travel Expenses.—
+
+&emsp;“(1)
+
+Compensation.—
+
+&emsp;&emsp;“(A)
+
+Chairman on full-time basis.—If the chairman serves on a full-time basis, the rate of pay for the chairman shall be the annual rate of basic payin effect for a position at level III of the Executive Schedule under section 5314 of title 5, United States Code.
+
+&emsp;&emsp;“(B)
+
+Chairman and vice chairman on part-time basis.—The chairman, if serving on a part-time basis, and the vice chairman shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay in effect for a position at level III of the Executive Schedule under section 5314 of title 5, United States Code, for each day during which such official is engaged in the actual performance of the duties of the Board.
+
+&emsp;&emsp;“(C)
+
+Members.—Each member of the Board shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day during which that member is engaged in the actual performance of the duties of the Board.
+
+&emsp;“(2)
+
+Travel expenses.—Members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for persons employed intermittently by the Federal Government under section 5703(b) of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Board.
+
+“(g)
+
+Staff.—
+
+&emsp;“(1)
+
+Appointment and compensation.—The chairman, in accordance with rules agreed upon by the Board, shall appoint and fix the compensation of an executive director and such other personnel as may be necessary to enable the Board to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable for a position at level V of the Executive Schedule under section 5316 of title 5, United States Code.
+
+&emsp;“(2)
+
+Detailees.—Federal employees may be detailed to the Board without reimbursement from the Board, and such detailee shall retain the rights, status, and privileges of the detailee's regular employment without interruption.
+
+&emsp;“(3)
+
+Consultant services.—The Board may procure the temporary or intermittent services of experts and consultants in accordance with section 3109 of title 5, United States Code, at rates that do not exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under section 5315 of such title.
+
+“(h)
+
+Security Clearances.—The appropriate departments and agencies of the executive branch shall cooperate with the Board to expeditiously provide Board members and staff with appropriate security clearances to the extent possible under applicable procedures and requirements. Promptly upon commencing its work, the Board shall adopt, after consultation with the Secretary of Defense, the Attorney General, and the National Intelligence Director, rules and procedures of the Board for physical, communications, computer, document, personnel, and other security in relation to the work of the Board.
+
+“(i)
+
+Applicability of Certain Laws.—
+
+&emsp;“(1)
+
+Federal advisory committee act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Board and its activities.
+
+&emsp;“(2)
+
+Freedom of information act.—For purposes of the Freedom of Information Act \[5 U.S.C. 552\], the Board shall be treated as an agency (as that term is defined in section 551(1) of title 5, United States Code).
+
+“(j)
+
+Construction.—Except as otherwise provided in this section, nothing in this section shall be construed to require any consultation with the Board by any department or agency of the executive branch or any Federal officer or employee, or any waiting period that must be observed by any department or agency of the executive branch or any Federal officer or employee, before developing, proposing, or implementing any legislation, law, regulation, policy, or guideline related to efforts to protect the Nation from terrorism.
+
+“(k)
+
+Presidential Responsibility.—The Board shall perform its functions within the executive branch and under the general supervision of the President.
+
+“(<i>l</i>)
+
+Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this section.”
 
 #### Regulatory Enforcement Reports
 
@@ -72,7 +276,7 @@ Initial report.—Not later than December 31, 2003, each agency shall submit an 
 
 &emsp;&emsp;“(A) the chairpersons and ranking minority members of—
 
-&emsp;&emsp;&emsp;“(i) the Committee on Governmental Affairs and the Committee on Small Business and Entrepreneurship of the Senate; and
+&emsp;&emsp;&emsp;“(i) the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] and the Committee on Small Business and Entrepreneurship of the Senate; and
 
 &emsp;&emsp;&emsp;“(ii) the Committee on Government Reform and the Committee on Small Business of the House of Representatives; and
 
@@ -100,7 +304,7 @@ Definitions in reports.—Each report under this subsection shall include defini
 
 #### Assessment of Federal Regulations and Policies on Families
 
-Pub. L. 105–277, div. A, §101(h) \[title VI, §654\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, provided that:
+Pub. L. 105–277, div. A, §101(h) \[title VI, §654\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 “(a)
 
@@ -114,13 +318,13 @@ Purposes.—The purposes of this section are to—
 
 Definitions.—In this section—
 
-&emsp;“(1) the term ‘agency’ has the meaning given the term ‘Executive agency’ by section 105 of title 5, United States Code, except such term does not include the General Accounting Office; and
+&emsp;“(1) the term ‘agency’ has the meaning given the term ‘Executive agency’ by section 105 of title 5, United States Code, except such term does not include the Government Accountability Office; and
 
 &emsp;“(2) the term ‘family’ means—
 
 &emsp;&emsp;“(A) a group of individuals related by blood, marriage, adoption, or other legal custody who live together as a single household; and
 
-&emsp;&emsp;“(B) any individual who is not a member of such group, but who is related by blood, marriage, or adoption to a member of such group, and over half of whose support in a calendar year is received from such group.
+&emsp;&emsp;“(B) any individual who is not a member of such group, but who is related by blood, marriage, oradoption to a member of such group, and over half of whose support in a calendar year is received from such group.
 
 “(c)
 
@@ -184,7 +388,7 @@ Sections 201 to 224 of title II of Pub. L. 104–121 provided that:
 
 #### “SEC. 201. SHORT TITLE.
 
-“This title \[enacting sections 801 to 808 of this title and section 657 of Title 15, Commerce and Trade, amending this section, sections 504, 603 to 605, 609, 611, and 612 of this title, section 648 of Title 15, and section 2412 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and sections 504, 609, and 801 of this title, and amendingprovisions set out as a note under section 631 of Title 15\] may be cited as the ‘Small Business Regulatory Enforcement Fairness Act of 1996’.
+“This title \[enacting sections 801 to 808 of this title and section 657 of Title 15, Commerce and Trade, amending this section, sections 504, 603 to 605, 609, 611, and 612 of this title, section 648 of Title 15, and section 2412 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and sections 504, 609, and 801 of this title, and amending provisions set out as a note under section 631 of Title 15\] may be cited as the ‘Small Business Regulatory Enforcement Fairness Act of 1996’.
 
 #### “SEC. 202. FINDINGS.
 
@@ -258,7 +462,7 @@ Program.—Each agency regulating the activities of small entities shall establi
 
 “(c)
 
-Reporting.—Each agency regulating the activities of small business shall report to the Committee on Small Business and Committee on Governmental Affairs of the Senate and the Committee on Small Business and Committee on the Judiciary of the House of Representatives no later than 2 years after the date of the enactment of this section on the scope of the agency's program, the number of small entities using the program, and the achievements of the program to assist small entity compliance with agency regulations.
+Reporting.—Each agency regulating the activities of small business shall report to the Committee on Small Business \[now Committee on Small Business and Entrepreneurship\] and Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Small Business and Committee on the Judiciary of the House of Representatives no later than 2 years after the date of the enactment of this section on the scope of the agency's program, the number of small entities using the program, and the achievements of the program to assist small entity compliance with agency regulations.
 
 #### “SEC. 214. SERVICES OF SMALL BUSINESS DEVELOPMENT CENTERS.
 
@@ -314,7 +518,7 @@ Conditions and Exclusions.—Subject to the requirements or limitations of other
 
 “(c)
 
-Reporting.—Agencies shall report to the Committee on Small Business and Committee on Governmental Affairs of the Senate and the Committee on Small Business and Committee on Judiciary of the House of Representatives no later than 2 years after the date of enactment of this section \[Mar. 29, 1996\] on the scope of their program or policy, the number of enforcement actions against small entities that qualified or failed to qualify for the program or policy, and the total amount of penalty reductions and waivers.
+Reporting.—Agencies shall report to the Committee on Small Business \[now Committee on Small Business and Entrepreneurship\] and Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Small Business and Committee on Judiciary of the House of Representatives no later than 2 years after the date of enactment of this section \[Mar. 29, 1996\] on the scope of their program or policy, the number of enforcement actions against small entities that qualified or failed to qualify for the program or policy, and the total amount of penalty reductions and waivers.
 
 #### “SEC. 224. EFFECTIVE DATE.
 
@@ -392,7 +596,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Section 1. <i>Purpose</i>. (a) The Fifth Amendment of the United States Constitution provides that private property shall not be taken for public use without just compensation. Government historically has used the formal exercise of the power of eminent domain, which provides orderly processes for paying just compensation, to acquire private property for public use. Recent Supreme Court decisions, however, in reaffirming the fundamental protection of private property rights provided by the Fifth Amendment and in assessing the nature of governmental actions that have an impact on constitutionally protected property rights, have also reaffirmed that governmental actions that do not formally invoke the condemnation power, including regulations, may result in a taking for which just compensation is required.
 
-(b) Responsible fiscal management and fundamental principles of good government require that government decision-makers evaluate carefully the effect of their administrative, regulatory, and legislative actions on constitutionally protected property rights. Executive departments and agencies should review their actions carefully to prevent unnecessary takings and should account in decision-making for those takings that are necessitated by statutory mandate.
+(b) Responsible fiscal management and fundamental principles of good government require that government decision-makers evaluate carefully the effect of theiradministrative, regulatory, and legislative actions on constitutionally protected property rights. Executive departments and agencies should review their actions carefully to prevent unnecessary takings and should account in decision-making for those takings that are necessitated by statutory mandate.
 
 (c) The purpose of this Order is to assist Federal departments and agencies in undertaking such reviews and in proposing, planning, and implementing actions with due regard for the constitutional protections provided by the Fifth Amendment and to reduce the risk of undue or inadvertent burdens on the public fisc resulting from lawful governmental action. In furtherance of the purpose of this Order, the Attorney General shall, consistent with the principles stated herein and in consultation with the Executive departments and agencies, promulgate Guidelines for the Evaluation of Risk and Avoidance of Unanticipated Takings to which each Executive department or agency shall refer in making the evaluations required by this Order or in otherwise taking any action that is the subject of this Order. The Guidelines shall be promulgated no later than May 1, 1988, and shall be disseminated to all units of each Executive department and agency no later than July 1, 1988. The Attorney General shall, as necessary, update these guidelines to reflect fundamental changes in takings law occurring as a result of Supreme Court decisions.
 
@@ -504,7 +708,7 @@ Ex. Ord. No. 12866, Sept. 30, 1993, 58 F.R. 51735, as amended by Ex. Ord. No. 13
 
 The American people deserve a regulatory system that works for them, not against them: a regulatory system that protects and improves their health, safety, environment, and well-being and improves the performance of the economy without imposing unacceptable or unreasonable costs on society; regulatory policies that recognize that the private sector and private markets are the best engine for economic growth; regulatory approaches that respect the role of State, local, and tribal governments; and regulations that are effective, consistent, sensible, and understandable. We do not have such a regulatory system today.
 
-With this Executive order, the Federal Government begins a program to reform and make more efficient the regulatory process. The objectives of this Executive order are to enhance planning and coordination with respect to both new and existing regulations; to reaffirm the primacy of Federal agencies in the regulatory decision-making process; to restore the integrity and legitimacy of regulatory review and oversight; and to make the process more accessible and open to the public. In pursuing these objectives, the regulatory process shall be conducted so as to meet applicable statutory requirements and with due regard to the discretion that has been entrusted to the Federal agencies.
+With this Executive order, the Federal Government begins a program to reform and make more efficient the regulatory process. The objectives of this Executive order are to enhance planning and coordination with respect to both new and existing regulations; to reaffirm the primacy of Federal agencies in the regulatory decision-making process; to restore the integrity and legitimacy of regulatory review and oversight; and to make the process more accessible and open to the public. In pursuing these objectives, the regulatory processshall be conducted so as to meet applicable statutory requirements and with due regard to the discretion that has been entrusted to the Federal agencies.
 
 Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -548,7 +752,7 @@ Sec. 2. <i>Organization</i>. An efficient regulatory planning and review process
 
 Sec. 3. <i>Definitions</i>. For purposes of this Executive order:
 
-(a) “Advisors” refers to such regulatory policy advisors to the President as the President may from time to time consult, including, among others: (1) the Director of OMB; (2) the Chair (or another member) of the Council of Economic Advisers; (3) the Assistant to the President for Economic Policy; (4) the Assistant to the President for Domestic Policy; (5) the Assistant to the President for National Security Affairs; (6) the Director of the Office of Science and Technology Policy; (7) the Deputy Assistant to the President and Director for Intergovernmental Affairs; (8) the Assistant to the President and Staff Secretary; (9) the Assistant to the President and Chief of Staff to the Vice President; (10) the Assistant to the President and Counsel to the President; (11) the Chairman of the Council on Environmental Quality and Director of the Office of Environmental Quality; (12) the Assistant to the President for Homeland Security; and (13) the Administrator of OIRA, who also shall coordinate communications relating to this Executive order among the agencies, OMB, the other Advisors, and the Office of the Vice President.
+(a) “Advisors” refers to such regulatory policy advisors to the President as the President may from time to time consult, including, among others: (1) the Director of OMB; (2) the Chair (or another member) of the Council of Economic Advisers; (3) the Assistant to the President for Economic Policy; (4) the Assistant to the President for Domestic Policy; (5) the Assistant to the President for National Security Affairs; (6) the Director of the Office of Science and Technology Policy; (7) the Deputy Assistant to the President and Director for Intergovernmental Affairs; (8) the Assistant to the President and Staff Secretary; (9) the Assistant to the President and Chief of Staff to the Vice President; (10) the Assistant to the President and Counsel to the President; (11) the Chairman of the Council on Environmental Quality and Director of the Office of Environmental Quality; (12) the Assistant to the President forHomeland Security; and (13) the Administrator of OIRA, who also shall coordinate communications relating to this Executive order among the agencies, OMB, the other Advisors, and the Office of the Vice President.
 
 (b) “Agency,” unless otherwise indicated, means any authority of the United States that is an “agency” under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10).
 
@@ -582,7 +786,7 @@ Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory prog
 
 (b) <i>Unified Regulatory Agenda</i>. For purposes of this subsection, the term “agency” or “agencies” shall also include those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10). Each agency shall prepare an agenda of all regulations under development or review, at a time and in a manner specified by the Administrator of OIRA. The description of each regulatory action shall contain, at a minimum, a regulation identifier number, a brief summary of the action, the legal authority for the action, any legal deadline for the action, and the name and telephone number of a knowledgeable agency official. Agencies may incorporate the information required under 5 U.S.C. 602 and \[former\] 41 U.S.C. 402 into these agendas.
 
-(c) <i>The Regulatory Plan</i>. For purposes of this subsection, the term “agency” or “agencies” shall also include those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10). (1) As part of the Unified Regulatory Agenda, beginning in 1994, each agency shall prepare a Regulatory Plan (Plan) of the most important significant regulatory actions that theagency reasonably expects to issue in proposed or final form in that fiscal year or thereafter. The Plan shall be approved personally by the agency head and shall contain at a minimum:
+(c) <i>The Regulatory Plan</i>. For purposes of this subsection, the term “agency” or “agencies” shall also include those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10). (1) As part of the Unified Regulatory Agenda, beginning in 1994, each agency shall prepare a Regulatory Plan (Plan) of the most important significant regulatory actions that the agency reasonably expects to issue in proposed or final form in that fiscal year or thereafter. The Plan shall be approved personally by the agency head and shall contain at a minimum:
 
 (A) A statement of the agency's regulatory objectives and priorities and how they relate to the President's priorities;
 
@@ -640,7 +844,7 @@ Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below
 
 (ii) An assessment, including the underlying analysis, of costs anticipated from the regulatory action (such as, but not limited to, the direct cost both to the government in administering the regulation and to businesses and others in complying with the regulation, and any adverse effects on the efficient functioning of the economy, private markets (including productivity, employment, and competitiveness), health, safety, and the natural environment), together with, to the extent feasible, a quantification of those costs; and
 
-(iii) An assessment, including the underlying analysis, of costs and benefits of potentially effective and reasonably feasible alternatives to the planned regulation, identified by the agencies or the public (including improving the current regulation and reasonably viable nonregulatory actions), and an explanation why the planned regulatory action is preferable to the identified potential alternatives.
+(iii) An assessment, including the underlying analysis, of costs and benefits of potentially effective andreasonably feasible alternatives to the planned regulation, identified by the agencies or the public (including improving the current regulation and reasonably viable nonregulatory actions), and an explanation why the planned regulatory action is preferable to the identified potential alternatives.
 
 (D) In emergency situations or when an agency is obligated by law to act more quickly than normal review procedures allow, the agency shall notify OIRA as soon as possible and, to the extent practicable, comply with subsections (a)(3)(B) and (C) of this section. For those regulatory actions that are governed by a statutory or court-imposed deadline, the agency shall, to the extent practicable, schedule rulemaking proceedings so as to permit sufficient time for OIRA to conduct its review, as set forth below in subsection (b)(2) through (4) of this section.
 
@@ -744,7 +948,7 @@ Sec. 4. <i>Interagency Working Group on Human Rights Treaties</i>. (a) There is 
 
 (ii) coordinating the preparation of reports that are to be submitted by the United States in fulfillment of treaty obligations;
 
-(iii) coordinating the responses of the United States Government to complaints against it concerning alleged human rights violations submitted to the United Nations, the Organization of American States, and other international organizations;
+(iii) coordinating the responses of the United States Government to complaints against it concerning alleged human rights violations submitted to the UnitedNations, the Organization of American States, and other international organizations;
 
 (iv) developing effective mechanisms to ensure that legislation proposed by the Administration is reviewed for conformity with international human rights obligations and that these obligations are taken into account in reviewing legislation under consideration by the Congress as well;
 
@@ -892,7 +1096,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13132, Aug. 4, 1999, 64 F.R. 43255, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to guarantee the division of governmental responsibilities between the national government and the States that was intended by the Framers of the Constitution, to ensure that the principles of federalism established by the Framers guide the executive departments and agencies in the formulation and implementation of policies, and to further the policies of the Unfunded Mandates Reform Act \[of 1995, Pub. L. 104–4, see Tables for classification\], it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to guarantee the division of governmental responsibilities between the national government and the States that was intended by the Framers of the Constitution, to ensure that the principles of federalism established by the Framers guide the executive departments and agencies in the formulation and implementation of policies, and to further the policies of the Unfunded Mandates Reform Act \[of 1995, Pub. L. 104–4, see Tables for classification\], it is hereby ordered as follows:
 
 Section 1. <i>Definitions</i>. For purposes of this order:
 
@@ -950,7 +1154,7 @@ Sec. 4. <i>Special Requirements for Preemption</i>. Agencies, in taking action t
 
 (c) Any regulatory preemption of State law shall be restricted to the minimum level necessary to achieve the objectives of the statute pursuant to which the regulations are promulgated.
 
-(d) When an agency foresees the possibility of a conflict between State law and Federally protected interests within its area of regulatory responsibility, theagency shall consult, to the extent practicable, with appropriate State and local officials in an effort to avoid such a conflict.
+(d) When an agency foresees the possibility of a conflict between State law and Federally protected interests within its area of regulatory responsibility, the agency shall consult, to the extent practicable, with appropriate State and local officials in an effort to avoid such a conflict.
 
 (e) When an agency proposes to act through adjudication or rulemaking to preempt State law, the agency shall provide all affected State and local officials notice and an opportunity for appropriate participation in the proceedings.
 
@@ -1044,7 +1248,7 @@ Sec. 3. <i>Responsibilities of Executive Department Centers for Faith-Based and 
 
 (e) develop and coordinate department outreach efforts to disseminate information more effectively to faith-based and other community organizations with respect to programming changes, contracting opportunities, and other department initiatives, including but not limited to Web and Internet resources.
 
-Sec. 4. <i>Additional Responsibilities of the Department of Health and Human Services and the Department of Labor Centers</i>. In addition to those responsibilities described in section 3 of this order, the Department of Health and Human Services and the Department of Labor Centers shall, to the extent permitted by law: (a) conduct a comprehensive review of policies and practices affecting existing funding streams governed by so-called “Charitable Choice” legislation to assess the department's compliance with the requirements of Charitable Choice; and (b) promote and ensure compliance with existing Charitable Choice legislation by the department, as well as its partners in State and local government, and their contractors.
+Sec. 4. <i>Additional Responsibilities of the Department of Health and Human Services and the Department of Labor Centers</i>. In addition to those responsibilities described in section 3 of this order, the Department of Health and Human Services and the Department of Labor Centers shall, to the extent permitted by law: (a) conduct a comprehensive review of policies and practices affecting existing funding streams governed by so-called “Charitable Choice” legislation to assess the department's compliance with the requirements of Charitable Choice; and (b) promote and ensure compliance with existing Charitable Choice legislation by the department,as well as its partners in State and local government, and their contractors.
 
 Sec. 5. <i>Reporting Requirements</i>. (a) Report. Not later than 180 days after the date of this order and annually thereafter, each of the five executive department Centers described in section 1 of this order shall prepare and submit a report to the White House OFBCI.
 
@@ -1084,7 +1288,7 @@ Sec. 2. <i>Responsibilities of Advocacy</i>. Consistent with the requirements of
 
 Sec. 3. <i>Responsibilities of Federal Agencies</i>. Consistent with the requirements of the Act and applicable law, agencies shall:
 
-(a) Within 180 days of the date of this order, issue written procedures and policies, consistent with theAct, to ensure that the potential impacts of agencies’ draft rules on small businesses, small governmental jurisdictions, and small organizations are properly considered during the rulemaking process. Agency heads shall submit, no later than 90 days from the date of this order, their written procedures and policies to Advocacy for comment. Prior to issuing final procedures and policies, agencies shall consider any such comments received within 60 days from the date of the submission of the agencies’ procedures and policies to Advocacy. Except to the extent otherwise specifically provided by statute or Executive Order, agencies shall make the final procedures and policies available to the public through the Internet or other easily accessible means;
+(a) Within 180 days of the date of this order, issue written procedures and policies, consistent with the Act, to ensure that the potential impacts of agencies’ draft rules on small businesses, small governmental jurisdictions, and small organizations are properly considered during the rulemaking process. Agency heads shall submit, no later than 90 days from the date of this order, their written procedures and policies to Advocacy for comment. Prior to issuing final procedures and policies, agencies shall consider any such comments received within 60 days from the date of the submission of the agencies’ procedures and policies to Advocacy. Except to the extent otherwise specifically provided by statute or Executive Order, agencies shall make the final procedures and policies available to the public through the Internet or other easily accessible means;
 
 (b) Notify Advocacy of any draft rules that may have a significant economic impact on a substantial number of small entities under the Act. Such notifications shall be made (i) when the agency submits a draft rule to OIRA under Executive Order 12866 \[set out above\] if that order requires such submission, or (ii) if no submission to OIRA is so required, at a reasonable time prior to publication of the rule by the agency; and
 
@@ -1162,7 +1366,7 @@ Sec. 3. <i>Agency Implementation.</i>
 
 &emsp;(i) amend all such existing policies of their respective agencies to ensure that they are consistent with the fundamental principles and policymaking criteria articulated in section 2 of this order;
 
-&emsp;(ii) where appropriate, implement new policies for their respective agencies that are consistent with and necessary to further the fundamental principles and policymaking criteria set forth in section 2 of this order; and
+&emsp;(ii) where appropriate, implement new policies for their respective agencies that are consistent with andnecessary to further the fundamental principles and policymaking criteria set forth in section 2 of this order; and
 
 &emsp;(iii) implement new policies that are necessary to ensure that their respective agencies collect data regarding the participation of faith-based and community organizations in social service programs that receive Federal financial assistance.
 
@@ -1196,7 +1400,7 @@ Sec. 6. <i>Responsibilities of Executive Departments and Agencies</i>. All execu
 
 Sec. 7. <i>Judicial Review.</i>
 
-This order is intended only to improve the internal management of the executive branch, and it is not intended to, and does not, create any right or benefit,substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, or entities, its officers, employees or agents, or any person.
+This order is intended only to improve the internal management of the executive branch, and it is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, or entities, its officers, employees or agents, or any person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1252,7 +1456,143 @@ Sec. 6. <i>Administration and Judicial Review</i>. (a) The agency actions direct
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
+#### Ex. Ord. No. 13342. Responsibilities of the Departments of Commerce and Veterans Affairs and the Small Business Administration With Respect to Faith-Based and Community Initiatives
 
-This section is referred to in sections 504, 611 of this title; title 2 section 658; title 28 section 2412; title 44 section 3506.
+Ex. Ord. No. 13342, June 1, 2004, 69 F.R. 31509, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet America's social and community needs, it is hereby ordered as follows:
+
+Section 1. <i>Establishment of Centers for Faith-Based and Community Initiatives at the Departments of Commerce and Veterans Affairs and the Small Business Administration.</i>
+
+(a) The Secretaries of Commerce and Veterans Affairs and the Administrator of the Small Business Administration shall each establish within their respective agencies a Center for Faith-Based and Community Initiatives (Center).
+
+(b) Each of these Centers shall be supervised by a Director, appointed by the agency head in consultation with the White House Office of Faith-Based and Community Initiatives (White House OFBCI).
+
+(c) Each agency shall provide its Center with appropriate staff, administrative support, and other resources to meet its responsibilities under this order.
+
+(d) Each Center shall begin operations no later than 45 days from the date of this order.
+
+Sec. 2. <i>Purpose of Executive Branch Centers for Faith-Based and Community Initiatives</i>. The purpose of the agency Centers will be to coordinate agency efforts to eliminate regulatory, contracting, and other programmatic obstacles to the participation of faith-based and other community organizations in the provision of social and community services.
+
+Sec. 3. <i>Responsibilities of the Centers for Faith-Based and Community Initiatives</i>. Each Center shall, to the extent permitted by law:
+
+(a) conduct, in coordination with the White House OFBCI, an agency-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social and community services by the agency, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that either facially discriminate against or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
+
+(b) coordinate a comprehensive agency effort to incorporate faith-based and other community organizations in agency programs and initiatives to the greatest extent possible;
+
+(c) propose initiatives to remove barriers identified pursuant to section 3(a) of this order, including but not limited to reform of regulations, procurement, and other internal policies and practices, and outreach activities;
+
+(d) propose the development of innovative pilot and demonstration programs to increase the participation of faith-based and other community organizations in Federal as well as State and local initiatives; and
+
+(e) develop and coordinate agency outreach efforts to disseminate information more effectively to faith-based and other community organizations with respect to programming changes, contracting opportunities, and other agency initiatives, including but not limited to Web and Internet resources.
+
+Sec. 4. <i>Reporting Requirements</i>. (a) <i>Report</i>. Not later than 180 days from the date of this order and annually thereafter, each of the three Centers described in section 1 of this order shall prepare and submit a report to the President through the White House OFBCI.
+
+(b) <i>Contents</i>. The report shall include a description of the agency's efforts in carrying out its responsibilities under this order, including but not limited to:
+
+&emsp;(i) a comprehensive analysis of the barriers to the full participation of faith-based and other community organizations in the delivery of social and community services identified pursuant to section 3(a) of this order and the proposed strategies to eliminate those barriers; and
+
+&emsp;(ii) a summary of the technical assistance and other information that will be available to faith-based and other community organizations regarding the program activities of the agency and the preparation of applications or proposals for grants, cooperative agreements, contracts, and procurement.
+
+(c) <i>Performance Indicators</i>. The first report, filed pursuant to section 4(a) of this order, shall include annual performance indicators and measurable objectives for agency action. Each report filed thereafter shall measure the agency's performance against the objectives set forth in the initial report.
+
+Sec. 5. <i>Responsibilities of the Secretaries of Commerce and Veterans Affairs and the Administrator of the Small Business Administration</i>. The Secretaries and the Administrator shall:
+
+(a) designate an employee within their respective agencies to serve as the liaison and point of contact with the White House OFBCI; and
+
+(b) cooperate with the White House OFBCI and provide such information, support, and assistance to the White House OFBCI as it may request, to the extent permitted by law.
+
+Sec. 6. <i>Administration and Judicial Review</i>. (a) The agency actions directed by this executive order shall be carried out subject to the availability of appropriations and to the extent permitted by law.
+
+(b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities or entities, its officers, employees or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13353. Establishing the President's Board on Safeguarding Americans’ Civil Liberties
+
+Ex. Ord. No. 13353, Aug. 27, 2004, 69 F.R. 53585, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to further strengthen protections for the rights of Americans in the effective performance of national security and homeland security functions, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The United States Government has a solemn obligation, and shall continue fully, to protect the legal rights of all Americans, including freedoms, civil liberties, and information privacy guaranteed by Federal law, in the effective performance of national security and homeland security functions.
+
+Sec. 2. <i>Establishment of Board</i>. To advance the policy set forth in section 1 of this order (Policy), there is hereby established the President's Board on Safeguarding Americans’ Civil Liberties (Board). The Board shall be part of the Department of Justice for administrative purposes.
+
+Sec. 3. <i>Functions</i>. The Board shall:
+
+(a)(i) advise the President on effective means to implement the Policy, and (ii) keep the President informed of the implementation of the Policy;
+
+(b) periodically request reports from Federal departments and agencies relating to policies and procedures that ensure implementation of the Policy;
+
+(c) recommend to the President policies, guidelines and other administrative actions, technologies, and legislation, as necessary to implement the Policy;
+
+(d) at the request of the head of any Federal department or agency, unless the Chair, after consultation with the Vice Chair, declines the request, promptly review and provide advice on a policy or action of that department or agency that implicates the Policy;
+
+(e) obtain information and advice relating to the Policy from representatives of entities or individuals outside the executive branch of the Federal Government in a manner that seeks their individual advice and does not involve collective judgment or consensus advice or deliberation;
+
+(f) refer, consistent with section 535 of title 28, United States Code, credible information pertaining to possible violations of law relating to the Policy by any Federal employee or official to the appropriate office for prompt investigation;
+
+(g) take steps to enhance cooperation and coordination among Federal departments and agencies in the implementation of the Policy, including but not limited to working with the Director of the Office of Management and Budget and other officers of the United States to review and assist in the coordination of guidelines and policies concerning national security and homeland security efforts, such as information collection and sharing; and
+
+(h) undertake other efforts to protect the legal rights of all Americans, including freedoms, civil liberties, and information privacy guaranteed by Federal law, as the President may direct.
+
+Upon the recommendation of the Board, the Attorney General or the Secretary of Homeland Security may establish one or more committees that include individuals from outside the executive branch of the Federal Government, in accordance with applicable law, to advise the Board on specific issues relating to the Policy. Any such committee shall carry out its functions separately from the Board.
+
+Sec. 4. <i>Membership and Operation</i>. The Board shall consist exclusively of the following:
+
+(a) the Deputy Attorney General, who shall serve as Chair;
+
+(b) the Under Secretary for Border and Transportation Security, Department of Homeland Security, who shall serve as Vice Chair;
+
+(c) the Assistant Attorney General (Civil Rights Division);
+
+(d) the Assistant Attorney General (Office of Legal Policy);
+
+(e) the Counsel for Intelligence Policy, Department of Justice;
+
+(f) the Chair of the Privacy Council, Federal Bureau of Investigation;
+
+(g) the Assistant Secretary for Information Analysis, Department of Homeland Security;
+
+(h) the Assistant Secretary (Policy), Directorate of Border and Transportation Security, Department of Homeland Security;
+
+(i) the Officer for Civil Rights and Civil Liberties, Department of Homeland Security;
+
+(j) the Privacy Officer, Department of Homeland Security;
+
+(k) the Under Secretary for Enforcement, Department of the Treasury;
+
+(l) the Assistant Secretary (Terrorist Financing), Department of the Treasury;
+
+(m) the General Counsel, Office of Management and Budget;
+
+(n) the Deputy Director of Central Intelligence for Community Management;
+
+(o) the General Counsel, Central Intelligence Agency;
+
+(p) the General Counsel, National Security Agency;
+
+(q) the Under Secretary of Defense for Intelligence;
+
+(r) the General Counsel of the Department of Defense;
+
+(s) the Legal Adviser, Department of State;
+
+(t) the Director, Terrorist Threat Integration Center; and
+
+(u) such other officers of the United States as the Deputy Attorney General may from time to time designate.
+
+A member of the Board may designate, to perform the Board or Board subgroup functions of the member, any person who is part of such member's department or agency and who is either (i) an officer of the United States appointed by the President, or (ii) a member of the Senior Executive Service or the Senior Intelligence Service. The Chair, after consultation with the Vice Chair, shall convene and preside at meetings of the Board, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct subgroups of the Board that shall consist exclusively of members of the Board. The Chair may invite, in his discretion, officers or employees of other departments or agencies to participate in the work of the Board. The Chair shall convene the first meeting of the Board within 20 days after the date of this order and shall thereafter convene meetings of the Board at such times as the Chair, after consultation with the Vice Chair, deems appropriate. The Deputy Attorney General shall designate an official of the Department of Justice to serve as the Executive Director of the Board.
+
+Sec. 5. <i>Cooperation</i>. To the extent permitted by law, all Federal departments and agencies shall cooperate with the Board and provide the Board with such information, support, and assistance as the Board, through the Chair, may request.
+
+Sec. 6. <i>Administration</i>. Consistent with applicable law and subject to the availability of appropriations, the Department of Justice shall provide the funding and administrative support for the Board necessary to implement this order.
+
+Sec. 7. <i>General Provisions</i>. (a) This order shall not be construed to impair or otherwise affect the authorities of any department, agency, instrumentality, officer, or employee of the United States under applicable law, including the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+
+(b) This order shall be implemented in a manner consistent with applicable laws and Executive Orders concerning protection of information, including those forthe protection of intelligence sources and methods, law enforcement information, and classified national security information, and the Privacy Act of 1974, as amended (5 U.S.C. 552a).
+
+(c) This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by a party against the United States, or any of its departments, agencies, instrumentalities, entities, officers, employees, or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -18,7 +18,7 @@ Availability of Compensation.—(1) If the Secretary decides that basic essentia
 
 &emsp;(B) the contractual and marketing arrangements the applicant has made with a larger carrier to ensure service beyond the hub airport;
 
-&emsp;(C) the interline arrangements that the applicant has made with a larger carrier to allow passengers and cargo of the applicant at thehub airport to be transported by the larger carrier through one reservation, ticket, and baggage check-in;
+&emsp;(C) the interline arrangements that the applicant has made with a larger carrier to allow passengers and cargo of the applicant at the hub airport to be transported by the larger carrier through one reservation, ticket, and baggage check-in;
 
 &emsp;(D) the preferences of the actual and potential users of air transportation at the eligible place, giving substantial weight to the views of the elected officials representing the users; and
 
@@ -82,7 +82,7 @@ In subsection (c)(1), before clause (A), the words “an air carrier may apply t
 
 #### References in Text
 
-Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a), is section 419 of Pub. L. 85–726, which was classified to section 1389 of former Title 49, Transportation, and was repealed and reenacted as this subchapter by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1143, 1379.
+Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a), is section 419 of Pub. L. 85–726,which was classified to section 1389 of former Title 49, Transportation, and was repealed and reenacted as this subchapter by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1143, 1379.
 
 #### Amendments
 
@@ -95,8 +95,4 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effect on Certain Orders
 
 Pub. L. 106–181, title II, §209(c), Apr. 5, 2000, 114 Stat. 95, provided that: “All orders issued by the Secretary \[of Transportation\] after September 30, 1999, and before the date of the enactment of this Act \[Apr. 5, 2000\] establishing, modifying, or revoking essential air service levels shall be null and void beginning on the 90th day following such date of enactment. During the 90-day period, the Secretary shall reconsider such orders and shall issue new orders consistent with the amendments made by this section \[amending this section and section 41742 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41110, 41732, 41734, 41735, 41736, 41748 of this title.
 

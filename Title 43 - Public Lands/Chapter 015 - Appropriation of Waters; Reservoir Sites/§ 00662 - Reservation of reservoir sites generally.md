@@ -1,6 +1,6 @@
 ### §662. Reservation of reservoir sites generally
 
-Sites for reservoirs and other hydraulic works necessary for the storage and utilization ofwater for irrigation and the prevention of floods and overflows, located or selected prior to August 30, 1890, shall remain segregated and reserved from entry, or settlement, until otherwise provided by law, and reservoir sites thereafter located or selected on public lands shall in like manner be reserved from the date of the location or selection thereof.
+Sites for reservoirs and other hydraulic works necessary for the storage and utilization of water for irrigation and the prevention of floods and overflows, located or selected prior to August 30, 1890, shall remain segregated and reserved from entry, or settlement, until otherwise provided by law, and reservoir sites thereafter located or selected on public lands shall in like manner be reserved from the date of the location or selection thereof.
 
 (Oct. 2, 1888, ch. 1069, 25 Stat. 526, 527; Aug. 30, 1890, ch. 837, §1, 26 Stat. 391; Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
 

@@ -42,7 +42,3 @@ Subsecs. (c), (d). Pub. L. 99–272, §13006(a)(2), redesignated subsec. (d) as 
 
 No technical assistance to be provided under this part after Sept. 30, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2346 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—CONSTRUCTION OF WIND-TUNNEL FACILITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 521 of this title.
-
 
 ---
 

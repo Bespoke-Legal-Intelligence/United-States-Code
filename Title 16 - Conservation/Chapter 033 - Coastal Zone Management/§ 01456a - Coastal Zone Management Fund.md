@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(v) to provide financial support to coastal states for use for investigating and applying the public trust doctrine to implement State management programs approved under section 1455 of this title.
 
-(Pub. L. 89–454, title III, §308, as added Pub. L. 94–370, §7, July 26, 1976, 90 Stat. 1019; amended Pub. L. 95–372, title V, §§501, 503(a)–(d), Sept. 18, 1978, 92 Stat. 690, 692, 693; Pub. L. 96–464, §7, Oct. 17, 1980, 94 Stat. 2064; Pub. L. 99–272, title VI, §6047, Apr. 7, 1986, 100 Stat. 128; Pub. L. 101–508, title VI, §6209, Nov. 5, 1990, 104 Stat. 1388–308; Pub. L. 102–587, title II, §2205(b)(1)(A), (B),\(15)–(18), Nov. 4, 1992, 106 Stat. 5050, 5052; Pub. L. 104–150, §§2(b)(2), 5, June 3, 1996, 110 Stat. 1380, 1381.)
+(Pub. L. 89–454, title III, §308, as added Pub. L. 94–370, §7, July 26, 1976, 90 Stat. 1019; amended Pub. L. 95–372, title V, §§501, 503(a)–(d), Sept. 18, 1978, 92 Stat. 690, 692, 693; Pub. L. 96–464, §7, Oct.17, 1980, 94 Stat. 2064; Pub. L. 99–272, title VI, §6047, Apr. 7, 1986, 100 Stat. 128; Pub. L. 101–508, title VI, §6209, Nov. 5, 1990, 104 Stat. 1388–308; Pub. L. 102–587, title II, §2205(b)(1)(A), (B), (15)–(18), Nov. 4, 1992, 106 Stat. 5050, 5052; Pub. L. 104–150, §§2(b)(2), 5, June 3, 1996, 110 Stat. 1380, 1381.)
 
 #### Codification
 
@@ -103,8 +103,4 @@ Amendment by section 2(b)(2) of Pub. L. 104–150 effective Oct. 1, 1999, see se
 #### Extension of Authority To Make Loans Under Subsection (d)(1)
 
 Pub. L. 99–626, §6, Nov. 7, 1986, 100 Stat. 3506, provided that: “The authority of the Secretary of Commerce to make loans under paragraph (1) of subsection (d) of section 308 of the Coastal Zone Management Act of 1972 (Public Law 92–583, 16 U.S.C. 1451, et seq.) as amended \[16 U.S.C. 1456a(d)(1)\], shall extend to September 30, 1987, for loans made to eligible States or units pursuant to and in accord with agreements entered into between the Secretary and any State prior to September 30, 1986, that provided for a total sum of loans to be made to that State or its units, but such loan authority shall be limited to $7,000,000.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1453, 1456, 1459, 1460, 1462 of this title.
 

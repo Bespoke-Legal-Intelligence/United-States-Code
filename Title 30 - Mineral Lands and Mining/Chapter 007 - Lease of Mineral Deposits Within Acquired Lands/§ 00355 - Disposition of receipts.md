@@ -14,7 +14,7 @@ Section 1721 of this title, referred to in subsec. (b), was in the original “s
 
 #### Amendments
 
-2001—Subsec. (b). Pub. L. 107–76 inserted after first sentence “The preceding sentence shall also apply to any payment to a State derived from a lease for mineral resources issued by the Secretary of the Interior under section 520 of title 16.”
+2001—Subsec. (b). Pub. L. 107–76 inserted after first sentence “The preceding sentence shall also apply toany payment to a State derived from a lease for mineral resources issued by the Secretary of the Interior under section 520 of title 16.”
 
 1993—Subsec. (a). Pub. L. 103–66 substituted “Subject to the provisions of section 35(b) of the Mineral Leasing Act (30 U.S.C. 191(b)), all receipts” for “All receipts” in first sentence.
 
@@ -29,10 +29,6 @@ Section 2 of Pub. L. 97–94 provided that: “The amendment made by the first s
 #### Outer Continental Shelf; Revenues From Leases
 
 Disposition of revenues from leases on submerged lands of outer Continental Shelf, see sections 1337(g) and 1338 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 360, 1019 of this title; title 25 section 459d; title 31 section 6903.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

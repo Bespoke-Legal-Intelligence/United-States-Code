@@ -1,9 +1,5 @@
 subpart 4—improving literacy through school libraries
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 6302, 6362 of this title.
-
 
 ---
 

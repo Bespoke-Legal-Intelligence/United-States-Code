@@ -8,7 +8,3 @@
 
 (Pub. L. 91–646, title III, §302, Jan. 2, 1971, 84 Stat. 1905.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4655 of this title.
-

@@ -12,7 +12,7 @@
 
 &emsp;(2) by any person seeking clarification of, or an amendment to, a certification then in effect or a matter relating to representation;
 
-> the Authority shall investigate the petition, and if it has reasonable cause to believe that a question of representation exists, it shall provide an opportunity for a hearing (for which a transcript shall be kept) after a reasonable notice. If the Authority finds on the record of the hearing that a question of representation exists, the Authority shall supervise or conduct an election on the question by secret ballot and shall certify the results thereof. An election under this subsection shall not be conducted in any appropriate unit or in any subdivision thereof within which, in the preceding 12 calendar months, a valid election under this subsection has been held.
+> the Authority shall investigate the petition, and if it has reasonable cause to believe that a question of representation exists, it shall provide an opportunity for a hearing (for which a transcript shall be kept) after a reasonable notice. If the Authority finds on the record of the hearing that a question of representation exists, the Authority shall supervise or conduct an election on the question by secret ballot and shall certify the results thereof. An election under this subsection shall not be conducted in any appropriate unit or in any subdivision thereof withinwhich, in the preceding 12 calendar months, a valid election under this subsection has been held.
 
 (c) A labor organization which—
 
@@ -51,8 +51,4 @@
 (g) Nothing in this section shall be construed to prohibit the waiving of hearings by stipulation for the purpose of a consent election in conformity with regulations and rules or decisions of the Authority.
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1199.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7103, 7105 of this title; title 2 section 1351; title 7 section 7011; title 10 sections 461, 2467; title 49 section 40122.
 

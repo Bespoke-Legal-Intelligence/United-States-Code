@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—ASSISTANCE TO FARM CREDIT SYSTEM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2277a–7 of this title.
-
 
 ---
 

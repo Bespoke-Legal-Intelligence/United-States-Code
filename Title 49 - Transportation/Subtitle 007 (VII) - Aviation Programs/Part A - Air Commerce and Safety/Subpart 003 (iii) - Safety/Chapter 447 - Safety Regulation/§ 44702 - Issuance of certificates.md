@@ -134,7 +134,3 @@ Pub. L. 108–176, title II, §227(a), Dec. 12, 2003, 117 Stat. 2531, provided t
 
 Pub. L. 108–176, title VII, §706, Dec. 12, 2003, 117 Stat. 2582, provided that: “The Federal Aviation Administration shall conduct research to promote the development of analytical tools to improve existing certification methods and to reduce the overall costs for the certification of new products.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44701, 44711, 45302, 45304, 46310, 47531 of this title.
-

@@ -30,5 +30,5 @@ Section 7816, Pub. L. 89–10, title IX, §9116, as added Pub. L. 103–382, tit
 
 Section 7817, Pub. L. 89–10, title IX, §9117, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3781, related to payments. See section 7428 of this title.
 
-Section 7818, Pub. L. 89–10, title IX, §9118, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3782, related to State educational agency review. See section 7429 of this title.
+Section 7818, Pub. L. 89–10, title IX, §9118, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3782,related to State educational agency review. See section 7429 of this title.
 

@@ -4,7 +4,3 @@ When title to such lands located on Davis Island in the city of Tampa, Florida, 
 
 (Aug. 20, 1935, ch. 575, §1, 49 Stat. 661.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 430z–1 of this title.
-

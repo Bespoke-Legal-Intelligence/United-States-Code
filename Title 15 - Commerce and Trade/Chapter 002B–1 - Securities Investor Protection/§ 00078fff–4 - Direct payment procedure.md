@@ -56,7 +56,3 @@ A prior section 10 of Pub. L. 91–598 was renumbered section 14 and is classifi
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 78<i>lll</i> of this title.
-

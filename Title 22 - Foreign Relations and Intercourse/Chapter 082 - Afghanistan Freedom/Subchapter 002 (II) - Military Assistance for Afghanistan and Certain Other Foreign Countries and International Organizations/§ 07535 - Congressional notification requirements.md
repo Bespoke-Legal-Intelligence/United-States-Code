@@ -10,7 +10,3 @@ The report described in subsection (a) of this section shall be submitted in cla
 
 (Pub. L. 107–327, title II, §205, Dec. 4, 2002, 116 Stat. 2808.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7532 of this title.
-

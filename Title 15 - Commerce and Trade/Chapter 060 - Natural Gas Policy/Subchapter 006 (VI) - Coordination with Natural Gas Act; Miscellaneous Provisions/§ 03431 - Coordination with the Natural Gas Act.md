@@ -10,7 +10,7 @@
 
 #### (B) Authorized sales or assignments
 
-&emsp;&emsp;For purposes of section 1(b) of the Natural Gas Act \[15 U.S.C. 717(b)\], the provisions of the Natural Gas Act \[15 U.S.C. 717 et seq.\] and the jurisdiction of the Commission under such Act shall not apply by reason of any sale of natural gas—
+&emsp;&emsp;For purposes of section 1(b) of the Natural Gas Act \[15 U.S.C. 717(b)\], the provisions of the Natural Gas Act \[15 U.S.C. 717 et seq.\]and the jurisdiction of the Commission under such Act shall not apply by reason of any sale of natural gas—
 
 &emsp;&emsp;&emsp;(i) authorized under section 3362(a) or 3371(b) of this title; or
 
@@ -44,7 +44,7 @@
 
 #### (B) Emergency sales
 
-&emsp;&emsp;For purposes of sections 4 and 5 of the Natural Gas Act \[15 U.S.C. 717c, 717d\], any amount paid in any sale authorized under section 3362(a) of this title shall be deemedto be just and reasonable if such amount does not exceed the fair and equitable price established under such section and applicable to such sale.
+&emsp;&emsp;For purposes of sections 4 and 5 of the Natural Gas Act \[15 U.S.C. 717c, 717d\], any amount paid in any sale authorized under section 3362(a) of this title shall be deemed to be just and reasonable if such amount does not exceed the fair and equitable price established under such section and applicable to such sale.
 
 #### (C) Sales by intrastate pipelines
 
@@ -115,8 +115,4 @@ Subsec. (c)(2). Pub. L. 101–60, §3(a)(7)(B), substituted “purchase of natur
 #### Effective Date of 1989 Amendment
 
 Amendment by section 3(b)(7) of Pub. L. 101–60 effective Jan. 1, 1993, see section 3(b) of Pub. L. 101–60, set out as a note under section 3372 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3372 of this title.
 

@@ -64,7 +64,7 @@ Requirements.—Each project selected under this section shall include at least 
 
 &emsp;(B) A solicitation for proposals under this paragraph shall establish a closing date for receipt of proposals. The Secretary may, if necessary, extend the closing date for receipt of proposals for a period not to exceed 90 days.
 
-&emsp;(C) Each solicitation under this paragraph shall include a description of the criteria, developed by the Secretary, according to whichproposals will be evaluated. In developing such criteria, the Secretary shall consider—
+&emsp;(C) Each solicitation under this paragraph shall include a description of the criteria, developed by the Secretary, according to which proposals will be evaluated. In developing such criteria, the Secretary shall consider—
 
 &emsp;&emsp;(i) the need for Federal involvement to commercialize the technology or speed commercialization of the technology;
 
@@ -135,8 +135,4 @@ There are authorized to be appropriated to the Secretary for carrying out this s
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12001, 12006, 13313 of this title.
 

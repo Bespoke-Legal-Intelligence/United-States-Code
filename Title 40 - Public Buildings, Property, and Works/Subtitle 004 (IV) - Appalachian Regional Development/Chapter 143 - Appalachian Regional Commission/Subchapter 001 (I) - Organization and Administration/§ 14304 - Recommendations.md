@@ -26,7 +26,3 @@ Pub. L. 89–4, title I, §103, Mar. 9, 1965, 79 Stat. 7.
 
 Before clause (1), the words “from time to time” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14305 of this title.
-

@@ -18,7 +18,7 @@ Section 1578, Pub. L. 97–300, title I, §168, Oct. 13, 1982, 96 Stat. 1353, re
 
 Section 1579, Pub. L. 97–300, title I, §169, Oct. 13, 1982, 96 Stat. 1353, contained administrative provisions. See section 2939 of this title.
 
-Section 1580, Pub. L. 97–300, title I, §170, Oct. 13, 1982, 96 Stat. 1354; Pub. L. 102–367, title I, §145, Sept. 7, 1992, 106 Stat. 1052, related to utilization of services and facilities. See section 2939(e) of this title.
+Section 1580, Pub. L. 97–300, title I, §170, Oct. 13, 1982, 96 Stat. 1354; Pub. L. 102–367, title I, §145, Sept. 7, 1992,106 Stat. 1052, related to utilization of services and facilities. See section 2939(e) of this title.
 
 Section 1581, Pub. L. 97–300, title I, §171, Oct. 13, 1982, 96 Stat. 1354, related to obligational authority. See section 2939(f) of this title.
 

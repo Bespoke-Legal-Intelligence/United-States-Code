@@ -32,7 +32,3 @@ For areas with a total population under 200,000 which fail to attain the standar
 
 (July 14, 1955, ch. 360, title I, §185, as added Pub. L. 101–549, title I, §103, Nov. 15, 1990, 104 Stat. 2450.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7509a, 7511, 7511a of this title.
-

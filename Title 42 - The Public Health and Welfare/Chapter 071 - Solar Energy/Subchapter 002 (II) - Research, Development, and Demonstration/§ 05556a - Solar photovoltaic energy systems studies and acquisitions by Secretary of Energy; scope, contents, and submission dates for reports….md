@@ -48,7 +48,3 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to any authorization or appropriation for any military application of nuclear energy, etc., see section 209 of Pub. L. 95–238, set out as a note under section 5821 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5589 of this title.
-

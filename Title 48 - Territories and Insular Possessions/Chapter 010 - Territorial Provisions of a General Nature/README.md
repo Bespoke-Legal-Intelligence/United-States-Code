@@ -45,7 +45,7 @@
 
 #### Codification
 
-The source of most sections of this chapter is the Revised Statutes enacted in 1873 and other early statutes. The Revised Statutes can no longer apply to contiguous territory because no such territory now exists. As to noncontiguous territory, Guam, Puerto Rico, and the Virgin Islands each has its own organic act, providing a complete system of government, legislative, executive, and judicial. The Canal Zone has its own code of laws. The independence of the Philippine Islands was recognized by Proc. No. 2695, eff. July 4, 1946, set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse. The other possessions, such as Samoa, are covered by special provisions set out elsewhere in this title.
+The source of most sections of this chapter is the Revised Statutes enacted in 1873 and other early statutes. The Revised Statutes can no longer apply to contiguous territory because no such territory now exists. Asto noncontiguous territory, Guam, Puerto Rico, and the Virgin Islands each has its own organic act, providing a complete system of government, legislative, executive, and judicial. The Canal Zone has its own code of laws. The independence of the Philippine Islands was recognized by Proc. No. 2695, eff. July 4, 1946, set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse. The other possessions, such as Samoa, are covered by special provisions set out elsewhere in this title.
 
 #### Ex. Ord. No. 13299. Interagency Group on Insular Areas
 

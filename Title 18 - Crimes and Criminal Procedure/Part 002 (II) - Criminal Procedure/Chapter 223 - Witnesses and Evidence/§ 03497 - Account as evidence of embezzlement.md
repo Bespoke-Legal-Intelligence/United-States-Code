@@ -1,8 +1,8 @@
 ### §3497. Account as evidence of embezzlement
 
-Upon the trial of any indictment against any person for embezzling public money it shall be sufficient evidence, prima facie, for the purpose of showing a balance against such person, to produce a transcript from the books and proceedings of the General Accounting Office.
+Upon the trial of any indictment against any person for embezzling public money it shall be sufficient evidence, prima facie, for the purpose of showing a balance against such person, to produce a transcript from the books and proceedings of the Government Accountability Office.
 
-(June 25, 1948, ch. 645, 62 Stat. 836.)
+(June 25, 1948, ch. 645, 62 Stat. 836; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Historical and Revision Notes
 
@@ -13,4 +13,8 @@ This section is a consolidation of section 179 of title 18, U.S.C., 1940 ed., wi
 Other provisions of said section 355 of title 18, U.S.C., 1940 ed., are incorporated in section 1711 of this title.
 
 Words in second sentence of said section 355 of title 18, U.S.C., 1940 ed., which preceded the semicolon therein and which read “Any failure to produce or to pay over any such money or property, when required so to do as above provided, shall be taken to be prima facie evidence of such embezzlement” were omitted as surplusage, because such failure to produce or to pay over such money or property constitutes embezzlement. (See sections 653 and 1711 of this title.)
+
+#### Amendments
+
+2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

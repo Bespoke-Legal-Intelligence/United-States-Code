@@ -158,9 +158,5 @@
 
 The Harmonized Tariff Schedule, referred to in subsecs. (b)(5)(D) and (c)(1)(C)(iv), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7934 of this title.
-
 <i><sup>1</sup></i><i> So in original. There probably should be a period.</i>
 

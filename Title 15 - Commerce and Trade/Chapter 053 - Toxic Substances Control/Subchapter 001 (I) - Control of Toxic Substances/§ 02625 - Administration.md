@@ -20,13 +20,13 @@ Upon request by the Administrator, each Federal department and agency is authori
 
 (2) For purposes of paragraph (1):
 
-&emsp;(A) The term “category of chemical substances” means a group of chemical substances the members of which are similar in molecular structure, in physical, chemical, or biological properties, in use, or in mode of entrance into the human body or into the environment, or the members of which are in some other way suitable for classification as such for purposes of this chapter, except that such term does not mean a group of chemical substances which are grouped together solely on the basis of their being new chemical substances.
+&emsp;(A) The term “category of chemical substances” means a group of chemical substances the members of which are similar inmolecular structure, in physical, chemical, or biological properties, in use, or in mode of entrance into the human body or into the environment, or the members of which are in some other way suitable for classification as such for purposes of this chapter, except that such term does not mean a group of chemical substances which are grouped together solely on the basis of their being new chemical substances.
 
 &emsp;(B) The term “category of mixtures” means a group of mixtures the members of which are similar in molecular structure, in physical, chemical, or biological properties, in use, or in the mode of entrance into the human body or into the environment, or the members of which are in some other way suitable for classification as such for purposes of this chapter.
 
 #### (d) Assistance office
 
-The Administrator shall establish in the Environmental Protection Agency an identifiable office to provide technical and other nonfinancial assistance to manufacturers and processors of chemical substances and mixtures respecting the requirements of this chapter applicable to such manufacturers and processors, the policy of the Agency respecting the application of such requirements to such manufacturers and processors, and the means and methods by whichsuch manufacturers and processors may comply with such requirements.
+The Administrator shall establish in the Environmental Protection Agency an identifiable office to provide technical and other nonfinancial assistance to manufacturers and processors of chemical substances and mixtures respecting the requirements of this chapter applicable to such manufacturers and processors, the policy of the Agency respecting the application of such requirements to such manufacturers and processors, and the means and methods by which such manufacturers and processors may comply with such requirements.
 
 #### (e) Financial disclosures
 
@@ -81,8 +81,4 @@ Reorganization Plan No. 3 of 1970, referred to in text, is set out in the Append
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (e)(2)(B) of this section relating to annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 93 and 164 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 sections 4370a, 4370c.
 

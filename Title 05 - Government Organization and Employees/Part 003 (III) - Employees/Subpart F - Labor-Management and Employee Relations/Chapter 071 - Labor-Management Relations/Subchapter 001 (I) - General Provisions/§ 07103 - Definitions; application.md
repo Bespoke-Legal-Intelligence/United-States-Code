@@ -24,7 +24,7 @@
 
 &emsp;(3) “agency” means an Executive agency (including a nonappropriated fund instrumentality described in section 2105(c) of this title and the Veterans’ Canteen Service, Department of Veterans Affairs), the Library of Congress, the Government Printing Office, and the Smithsonian Institution <sup>1</sup> but does not include—
 
-&emsp;&emsp;(A) the General Accounting Office;
+&emsp;&emsp;(A) the Government Accountability Office;
 
 &emsp;&emsp;(B) the Federal Bureau of Investigation;
 
@@ -124,9 +124,11 @@
 
 (2) The President may issue an order suspending any provision of this chapter with respect to any agency, installation, or activity located outside the 50 States and the District of Columbia, if the President determines that the suspension is necessary in the interest of national security.
 
-(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a),Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, §341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §139\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235.)
+(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, §341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §139\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
+
+2004—Subsec. (a)(3)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 2000—Subsec. (a)(3)(H). Pub. L. 106–554 added subpar. (H).
 
@@ -483,10 +485,6 @@ Sec. 2. <i>Amendment of Executive Order 12171</i>. Executive Order 12171 of Nove
 \[“\](g) Office of Intelligence Policy and Review.”
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4703, 5596, 6121, 7323, 8473 of this title; title 2 section 1351; title 6 section 412; title 7 section 7011; title 10 section 1614; title 22 sections 3701, 6613; title 38 section 711.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

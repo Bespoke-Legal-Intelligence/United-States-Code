@@ -22,7 +22,3 @@ The Commission shall, at least annually, review each State's implementation and 
 
 (Pub. L. 103–206, title VIII, §805, Dec. 20, 1993, 107 Stat. 2450.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5105, 5106, 5157 of this title.
-

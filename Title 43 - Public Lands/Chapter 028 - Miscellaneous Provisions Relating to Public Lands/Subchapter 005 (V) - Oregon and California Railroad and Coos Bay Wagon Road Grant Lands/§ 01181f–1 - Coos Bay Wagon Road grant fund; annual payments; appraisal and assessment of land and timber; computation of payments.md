@@ -12,7 +12,3 @@ Act of February 26, 1919, referred to in text, is act Feb. 26, 1919, ch. 47, 40 
 
 Section 5 of act May 24, 1939, provided that: “All Acts or parts of Acts inconsistent with this Act \[sections 1181f–1 to 1181f–4 of this title\] are hereby repealed.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 869–4, 1181f–2 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—REGULATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1412a, 1442, 1444, 2601 of this title; title 18 section 1956; title 42 sections 6922, 6923, 6928.
-
 
 ---
 

@@ -108,7 +108,7 @@ Section 3 of Pub. L. 89–241, Oct. 7, 1965, 79 Stat. 933, provided that:
 
 &emsp;“(2) The rates of duty in rate column numbered 2 of such Schedules as changed by this Act shall be treated as the rates of duty existing on July 1, 1934.
 
-“(b) The rates of duty in rate column numbered 1 of the Tariff Schedules of the United States as changed bythis Act which are lower than the rates of duty in rate column numbered 2 of such Schedules for the corresponding items shall be treated—
+“(b) The rates of duty in rate column numbered 1 of the Tariff Schedules of the United States as changed by this Act which are lower than the rates of duty in rate column numbered 2 of such Schedules for the corresponding items shall be treated—
 
 &emsp;“(1) as not having the status of statutory provisions enacted by the Congress, but
 
@@ -127,10 +127,6 @@ Section 3 of Pub. L. 89–241, Oct. 7, 1965, 79 Stat. 933, provided that:
 &emsp;“(2) as having been proclaimed by the President pursuant to section 22 of the Agricultural Adjustment Act, as amended (7 U.S.C., sec. 624).”
 
 \[The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1982, 2137, 2463 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

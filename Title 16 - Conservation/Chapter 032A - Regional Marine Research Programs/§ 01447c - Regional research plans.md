@@ -20,7 +20,7 @@ Such marine research plan shall include—
 
 &emsp;(3) a statement and explanation of the marine research needs and priorities applicable to the marine and coastal waters of the region over the upcoming 10-year period with emphasis on the upcoming 3-to-5 year period;
 
-&emsp;(4) an assessment of how the plan will incorporate existing marine, coastal, and estuarineresearch and management in the region, including activities pursuant to section 1330 of title 33 and section 1461 of this title; and
+&emsp;(4) an assessment of how the plan will incorporate existing marine, coastal, and estuarine research and management in the region, including activities pursuant to section 1330 of title 33 and section 1461 of this title; and
 
 &emsp;(5) a general description of marine research and monitoring objectives and timetables for achievement through the funding of projects under this chapter during the 4-year period covered by the plan so as to meet the priorities specified in the plan in accordance with paragraph (3).
 
@@ -43,10 +43,6 @@ Such marine research plan shall include—
 #### References in Text
 
 The National Ocean Pollution Planning Act of 1978, referred to in subsec. (a)(2), is Pub. L. 95–273, May 8, 1978, 92 Stat. 228, as amended, which was classified generally to chapter 31 (§1701 et seq.) of Title 33, Navigation and Navigable Waters, and was repealed by Pub. L. 102–567, title II, §204, Oct. 29, 1992, 106 Stat. 4282.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1447b, 1447d of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,3 @@ The entire Central Valley project, California, heretofore authorized under the A
 
 Act of August 26, 1937 (50 Stat. 844, 850), Act of October 17, 1940 (54 Stat. 1198, 1199), Act of October 14, 1949 (63 Stat. 852), and Act of September 26, 1950 (64 Stat. 1036), referred to in text, are acts Aug. 26, 1937, ch. 832, 50 Stat. 844; Oct. 17, 1940, ch. 895, 54 Stat. 1198; Oct. 14, 1949, ch. 690, 63 Stat. 852; Sept. 26, 1950, ch. 1047, 64 Stat. 1036, which were not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 695g, 695i, 695j, 695j–1 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Reports
 
-The State of Washington, the State of Oregon, and the appropriate tribal coordinating bodiesshall submit to the appropriate Secretary an annual report on the status of the programs authorized by this chapter or any other relevant report requested by such Secretary.
+The State of Washington, the State of Oregon, and the appropriate tribal coordinating bodies shall submit to the appropriate Secretary an annual report on the status of the programs authorized by this chapter or any other relevant report requested by such Secretary.
 
 #### (b) Monitoring
 

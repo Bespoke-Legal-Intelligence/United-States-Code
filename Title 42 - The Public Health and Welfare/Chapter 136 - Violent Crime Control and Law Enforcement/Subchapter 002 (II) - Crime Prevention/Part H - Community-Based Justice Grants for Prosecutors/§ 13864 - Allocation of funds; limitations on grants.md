@@ -18,9 +18,5 @@ A grant under this part <sup>1</sup> may be renewed for up to 2 additional year
 
 This part, referred to in subsec. (b), appearing in the original is unidentifiable because subtitle Q of title III of Pub. L. 103–322 does not contain parts.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

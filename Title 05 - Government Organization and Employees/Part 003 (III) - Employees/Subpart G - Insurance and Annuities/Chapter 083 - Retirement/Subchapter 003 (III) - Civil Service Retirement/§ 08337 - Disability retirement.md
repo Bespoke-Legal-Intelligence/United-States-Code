@@ -178,7 +178,3 @@ Amendment by Pub. L. 96–499 effective on 90th day after Dec. 5, 1980, see sect
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3304, 7511, 8339, 8343a, 8345, 8347, 8349, 8706, 8908 of this title; title 38 sections 7426, 7438; title 50 section 403s.
-

@@ -28,13 +28,13 @@ A person may not—
 
 #### (B) Plan requirements
 
-&emsp;&emsp;The plan shall include a requirement that any person in a category listed in paragraph (1) achieve a passing grade on an examination and participate in continuing education to stay informed about current asbestos inspection and response action technology. The examination shall demonstrate the knowledge of the person in areas that the Administrator prescribes as necessary and appropriate in each of the categories. Suchexaminations may include requirements for knowledge in the following areas:
+&emsp;&emsp;The plan shall include a requirement that any person in a category listed in paragraph (1) achieve a passing grade on an examination and participate in continuing education to stay informed about current asbestos inspection and response action technology. The examination shall demonstrate the knowledge of the person in areas that the Administrator prescribes as necessary and appropriate in each of the categories. Such examinations may include requirements for knowledge in the following areas:
 
 &emsp;&emsp;&emsp;(i) Recognition of asbestos-containing material and its physical characteristics.
 
 &emsp;&emsp;&emsp;(ii) Health hazards of asbestos and the relationship between asbestos exposure and disease.
 
-&emsp;&emsp;&emsp;(iii) Assessing the risk of asbestos exposure through a knowledge of percentage weight of asbestos-containing material, friability, age, deterioration, location and accessibility of materials, and advantages and disadvantages of dry and wet response action methods.
+&emsp;&emsp;&emsp;(iii) Assessing the risk of asbestos exposure through a knowledge of percentage weight of asbestos-containing material, friability, age, deterioration, location and accessibility of materials, and advantagesand disadvantages of dry and wet response action methods.
 
 &emsp;&emsp;&emsp;(iv) Respirators and their use, care, selection, degree of protection afforded, fitting, testing, and maintenance and cleaning procedures.
 
@@ -104,7 +104,7 @@ A person may not—
 
 &emsp;(B) uses a laboratory (or laboratories) which is accredited under the program developed under subsection (d) of this section.
 
-(2) This subsection shall apply to any financial assistance provided under the Asbestos School Hazard Abatement Act of 1984 \[20 U.S.C. 4011 et seq.\] for activities performed after the following dates:
+(2) This subsection shall apply to any financial assistance provided under the Asbestos School Hazard Abatement Act of 1984 \[20 U.S.C. 4011 etseq.\] for activities performed after the following dates:
 
 &emsp;(A) In the case of activities performed by persons, after the date which is one year after October 22, 1986.
 
@@ -143,8 +143,4 @@ Section 15(a)(3) of Pub. L. 101–637 provided that: “Not later than one year 
 #### EPA Administrator Not Exercising “Statutory Authority” Under OSHA Law in Exercising Authority Under This Chapter
 
 Section 15(b) of Pub. L. 101–637 provided that: “In exercising any authority under the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] in connection with the amendment made by subsection (a) of this section \[amending this section and section 2647 of this title\], the Administrator of the Environmental Protection Agency shall not, for purposes of section 4(b)(1) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 653(b)(1)), be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2642, 2643, 2644, 2647, 2650 of this title.
 

@@ -16,7 +16,3 @@
 
 Section 5583 of this title, referred to in subsec. (a), was in the original “section (4)” and was translated section 5583 of this title as the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5586, 5592 of this title.
-

@@ -12,7 +12,3 @@ Provisions similar to those in this section were contained in section 14 of act 
 
 1973—Pub. L. 93–155 substituted provisions respecting authorization of appropriations, for prior provisions respecting acceptance of plants by Administrator of General Services, disposition of plants, and conditions of lease, now covered in section 453 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1941f of Appendix to this title.
-

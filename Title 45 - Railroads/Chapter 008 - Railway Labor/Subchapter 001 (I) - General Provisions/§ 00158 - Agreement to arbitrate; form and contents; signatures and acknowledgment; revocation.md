@@ -42,7 +42,3 @@ As originally enacted, par. (d) contained a reference to the “circuit court of
 
 1934—Act June 21, 1934, substituted “Mediation Board” for “Board of Mediation” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 797g of this title.
-

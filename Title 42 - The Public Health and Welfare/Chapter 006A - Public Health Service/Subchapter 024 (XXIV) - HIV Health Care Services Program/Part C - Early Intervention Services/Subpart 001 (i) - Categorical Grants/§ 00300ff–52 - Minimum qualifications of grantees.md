@@ -62,9 +62,5 @@ Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L.
 
 Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–14, 300ff–15, 300ff–22, 300ff–27, 300ff–51, 300ff–64 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

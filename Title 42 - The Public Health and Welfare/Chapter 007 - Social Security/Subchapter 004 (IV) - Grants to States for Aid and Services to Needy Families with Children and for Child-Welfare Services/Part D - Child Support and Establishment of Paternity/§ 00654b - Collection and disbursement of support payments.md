@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In order for a State to meet the requirements of this section, the State agency mustestablish and operate a unit (which shall be known as the “State disbursement unit”) for the collection and disbursement of payments under support orders—
+&emsp;In order for a State to meet the requirements of this section, the State agency must establish and operate a unit (which shall be known as the “State disbursement unit”) for the collection and disbursement of payments under support orders—
 
 &emsp;&emsp;(A) in all cases being enforced by the State pursuant to section 654(4) of this title; and
 
@@ -75,8 +75,4 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 Limited exception to unit handling payments.—Notwithstanding section 454B(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\], as added by this section, any State which, as of the date of the enactment of this Act \[Aug. 22, 1996\], processes the receipt of child support payments through local courts may, at the option of the State, continue to process through September 30, 1999, such payments through such courts as processed such payments on or before such date of enactment.”
 
 For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as an Effective Date of 1996 Amendment note under section 654 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 654, 654a, 655, 666 of this title; title 10 section 1408.
 

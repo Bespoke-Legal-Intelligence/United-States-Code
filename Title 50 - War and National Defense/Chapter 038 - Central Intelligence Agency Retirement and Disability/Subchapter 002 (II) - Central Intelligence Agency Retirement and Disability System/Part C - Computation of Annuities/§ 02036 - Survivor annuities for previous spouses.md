@@ -1,6 +1,6 @@
 ### §2036. Survivor annuities for previous spouses
 
-The Director shall prescribe regulations under which a previous spouse who is divorced after September 29, 1988, from a participant, former participant, or retired participant shall be eligible for a survivor annuity to the same extent and, to the greatest extent practicable, under the same conditions (including reductions to be made in the annuity of the participant) applicable to former spouses (as defined in section 8331(23) of title 5) of participants in the Civil Service Retirement and Disability System (CSRS) as prescribed by the Civil Service Retirement Spouse Equity Act of 1984.
+The Director shall prescribe regulations under which a previous spouse who is divorced after September 29, 1988, from a participant, former participant, or retired participant shall be eligible for a survivor annuity to the same extent and, to the greatest extent practicable, under the same conditions (including reductions to be made in the annuity of the participant) applicable to former spouses (as defined in section 8331(23) of title 5) of participants in the Civil Service Retirement and Disability System\(CSRS) as prescribed by the Civil Service Retirement Spouse Equity Act of 1984.
 
 (Pub. L. 88–643, title II, §226, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3220.)
 
@@ -11,8 +11,4 @@ The Civil Service Retirement Spouse Equity Act of 1984, referred to in text, is 
 #### Prior Provisions
 
 A prior section 226 of Pub. L. 88–643, as added Pub. L. 100–453, title III, §302(a), Sept. 29, 1988, 102 Stat. 1906; amended Pub. L. 102–88, title III, §304(b), (c), Aug. 14, 1991, 105 Stat. 431, 432; Pub. L. 102–183, title III, §306(a), (b), Dec. 4, 1991, 105 Stat. 1265, related to survivor annuities for previous spouses and second chance to elect survivor annuity for certain spouses and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2031, 2071 of this title.
 

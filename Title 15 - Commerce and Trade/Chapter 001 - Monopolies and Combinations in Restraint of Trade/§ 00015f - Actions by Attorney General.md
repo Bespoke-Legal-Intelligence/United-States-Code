@@ -6,7 +6,7 @@ Whenever the Attorney General of the United States has brought an action under t
 
 #### (b) Availability of files and other materials
 
-To assist a State attorney general in evaluating the notice or in bringing any action under this Act, the Attorney General of the United States shall, upon request by such State attorney general, make available to him, to the extent permitted by law, any investigative files or other materials which are or may be relevant or material to the actual or potential cause of action under this Act.
+To assist a State attorney general in evaluating the notice or in bringing any action underthis Act, the Attorney General of the United States shall, upon request by such State attorney general, make available to him, to the extent permitted by law, any investigative files or other materials which are or may be relevant or material to the actual or potential cause of action under this Act.
 
 (Oct. 15, 1914, ch. 323, §4F, as added Pub. L. 94–435, title III, §301, Sept. 30, 1976, 90 Stat. 1395.)
 
@@ -19,8 +19,4 @@ This Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as a
 #### Effective Date
 
 Injuries sustained prior to Sept. 30, 1976, not covered by this section, see section 304 of Pub. L. 94–435, set out as a note under section 15c of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15g, 15h of this title.
 

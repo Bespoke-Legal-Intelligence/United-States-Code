@@ -78,10 +78,6 @@ Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered 
 
 1989—Pub. L. 101–94, title I, §101(b), Aug. 16, 1989, 103 Stat. 625, added subchapter V heading and items 4096 to 4098.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 502, 511 of this title; title 50 App. section 549.
-
 
 ---
 

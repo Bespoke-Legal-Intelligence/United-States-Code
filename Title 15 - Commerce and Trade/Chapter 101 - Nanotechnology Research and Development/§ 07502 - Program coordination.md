@@ -32,7 +32,3 @@ Within 90 days after December 3, 2003, the Director of the Office of Science and
 
 Section 631 of Public Law 108–7, referred to in subsec. (b), is section 631 of Pub. L. 108–7, div. J, title VI, Feb. 20, 2003, 117 Stat. 471, which is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7501 of this title.
-

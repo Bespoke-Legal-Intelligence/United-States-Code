@@ -6,9 +6,9 @@ Any persons who shall willfully fail or refuse to comply with the lawful order o
 
 #### (b) Civil penalties for violation; separate offenses; notice and hearing; assessment, collection, and remission; civil actions
 
-Whoever violates any provision of sections 491 to 498 of this title, or any order issued under sections 491 to 498 of this title, shall be liable to a civil penalty of not more than $1,000. Each day a violation continues shall be deemed a separate offense. No penalty may be assessed under this subsection until the person charged is given notice and an opportunity for a hearing on the charge. The Secretary of Transportation may assess and collect any civil penalty incurred under this subsection and, in his discretion, may remit, mitigate, or compromise any penalty until the matter is referred to the Attorney General. If a person against whom a civil penalty is assessed under this subsection fails to pay that penalty, an action may be commenced in the district court of the United States for any district in which the violation occurs for such penalty.
+Whoever violates any provision of sections 491 to 498 of this title, or any order issued under sections 491 to 498 of this title, shall be liable to a civil penalty of not more than $5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter. Each day a violation continues shall be deemed a separate offense. No penalty may be assessed under this subsection until the person charged is given notice and an opportunity for a hearing on the charge. The Secretary of Transportation may assess and collect any civil penalty incurred under this subsection and, in his discretion, may remit, mitigate, or compromise any penalty until the matter is referred to the Attorney General. If a person against whom a civil penalty is assessed under this subsection fails to pay that penalty, an action may be commenced in the district court of the United States for any district in which the violation occurs for such penalty.
 
-(Mar. 23, 1906, ch. 1130, §5, 34 Stat. 85; Mar. 3, 1911, ch. 231, §§289, 291, 36 Stat. 1167; Pub. L. 97–322, title I, §108(c), Oct. 15, 1982, 96 Stat. 1584; Pub. L. 97–449, §2(d)(1), Jan. 12, 1983, 96 Stat. 2440.)
+(Mar. 23, 1906, ch. 1130, §5, 34 Stat. 85; Mar. 3, 1911, ch. 231, §§289, 291, 36 Stat. 1167; Pub. L. 97–322, title I, §108(c), Oct. 15, 1982, 96 Stat. 1584; Pub. L. 97–449, §2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 108–293, title VI, §601(a), Aug. 9, 2004, 118 Stat. 1050.)
 
 #### Codification
 
@@ -16,17 +16,15 @@ The words “district court” were substituted for “circuit court,” upon in
 
 #### Amendments
 
+2004—Subsec. (b). Pub. L. 108–293 substituted “$5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter” for “$1,000”.
+
 1983—Subsec. (a). Pub. L. 97–449 substituted “Secretary of Transportation” for “Secretary of War” wherever appearing. See Transfer of Functions note below.
 
-1982—Subsec. (a). Pub. L. 97–322, §108(c)(1)–(3), designated existing provisions as subsec. (a), provided for punishment of persons who shall “willfully” fail tocomply with lawful orders, and struck out “shall be deemed guilty of a violation of said sections, and any persons who shall be guilty of a violation of said sections” after “sections 491 to 498 of this title,”.
+1982—Subsec. (a). Pub. L. 97–322, §108(c)(1)–(3), designated existing provisions as subsec. (a), provided for punishment of persons who shall “willfully” fail to comply with lawful orders, and struck out “shall be deemed guilty of a violation of said sections, and any persons who shall be guilty of a violation of said sections” after “sections 491 to 498 of this title,”.
 
 Subsec. (b). Pub. L. 97–322, §108(c)(4), added subsec. (b).
 
 #### Transfer of Functions
 
 Functions, powers, and duties of Secretary of the Army \[formerly War\] and other offices and officers of Department the Army \[formerly War\] under this section to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(B), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(B) of Pub. L. 89–670, and repealed section 6(g)(6)(B).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 491, 492, 493, 494, 497, 498, 508, 530, 535 of this title.
 

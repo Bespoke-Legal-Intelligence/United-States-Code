@@ -24,11 +24,7 @@ If the United States attorney files an information under this section, the court
 
 #### (e) Statute of limitations
 
-No person who stands convicted of an offense under this part may challenge the validity of any prior conviction alleged under this section which occurred more than five years before the date of the information alleging such prior conviction.
+No person who stands convicted of an offense under this part may challenge the validity of any prior conviction alleged under this sectionwhich occurred more than five years before the date of the information alleging such prior conviction.
 
 (Pub. L. 91–513, title II, §411, Oct. 27, 1970, 84 Stat. 1269.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 962 of this title; title 18 section 3559.
 

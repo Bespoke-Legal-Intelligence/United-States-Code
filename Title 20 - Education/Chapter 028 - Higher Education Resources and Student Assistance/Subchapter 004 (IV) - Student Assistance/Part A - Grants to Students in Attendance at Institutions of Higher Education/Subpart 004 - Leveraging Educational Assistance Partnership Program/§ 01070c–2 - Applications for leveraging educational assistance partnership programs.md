@@ -36,7 +36,7 @@ From a State's allotment under this subpart for any fiscal year the Secretary is
 
 #### (c) Reservation and disbursement of allotments and reallotments
 
-Upon his approval of any application for a payment under this subpart, the Secretary shall reserve from the applicable allotment (including any applicable reallotment) available therefor, the amount of such payment, which (subject to the limits of such allotment or reallotment) shall be equal to the Federal share of the cost of the students’ incentive grants or work-study jobs covered by such application. The Secretary shall pay such reserved amount, in advance or by way of reimbursement, and in such installments as the Secretary may determine. The Secretary may amend the reservation of any amount under this section, either upon approval of an amendment of the application or upon revision of the estimated cost of the student grants or work-study jobs with respect to which such reservation was made. If the Secretary approves an upward revision of such estimated cost, the Secretary may reserve the Federal share of the added cost only from the applicable allotment (or reallotment) available at the time of such approval.
+Upon his approval of any application for a payment under this subpart, the Secretary shall reserve from the applicable allotment (including any applicable reallotment) available therefor, the amount of such payment, which (subject to the limits of such allotment or reallotment) shall be equal to the Federal share of the cost ofthe students’ incentive grants or work-study jobs covered by such application. The Secretary shall pay such reserved amount, in advance or by way of reimbursement, and in such installments as the Secretary may determine. The Secretary may amend the reservation of any amount under this section, either upon approval of an amendment of the application or upon revision of the estimated cost of the student grants or work-study jobs with respect to which such reservation was made. If the Secretary approves an upward revision of such estimated cost, the Secretary may reserve the Federal share of the added cost only from the applicable allotment (or reallotment) available at the time of such approval.
 
 (Pub. L. 89–329, title IV, §415C, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1333; amended Pub. L. 102–325, title IV, §404(b)–(d), July 23, 1992, 106 Stat. 507; Pub. L. 103–208, §2(b)(27), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §407(a)(2)(B), Oct. 7, 1998, 112 Stat. 1666.)
 
@@ -54,7 +54,7 @@ A prior section 1070c–2, Pub. L. 89–329, title IV, §415C, as added Pub. L. 
 
 Subsec. (b)(4). Pub. L. 102–325, §404(c), inserted before semicolon at end “, except that for the purpose of collecting data to make such determination of financial need, no student or parent shall be charged a fee that is payable to an entity other than such State”.
 
-Subsec. (b)(7). Pub. L. 102–325, §404(d), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “provides that, if the institution's allocation under this subpart is based in part on the financial need demonstrated by students attending the institution less than full time, a reasonable proportion of theinstitution's allocation shall be made available to such students;”.
+Subsec. (b)(7). Pub. L. 102–325, §404(d), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “provides that, if the institution's allocation under this subpart is based in part on the financial need demonstrated by students attending the institution less than full time, a reasonable proportion of the institution's allocation shall be made available to such students;”.
 
 #### Effective Date of 1998 Amendment
 
@@ -63,8 +63,4 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1070c–1, 1070c–3, 1070c–3a of this title.
 

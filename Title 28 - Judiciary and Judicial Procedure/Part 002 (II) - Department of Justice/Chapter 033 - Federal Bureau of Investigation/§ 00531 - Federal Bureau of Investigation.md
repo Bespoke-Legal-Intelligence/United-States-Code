@@ -16,6 +16,44 @@ The Division of Investigation was first designated as the “Federal Bureau of I
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Bureau of Investigation, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 121(g)(1), 313(3), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Enterprise Architecture
+
+Pub. L. 108–458, title VIII, §8402, Dec. 17, 2004, 118 Stat. 3869, provided that:
+
+“(a)
+
+Enterprise Architecture Defined.—In this section, the term ‘enterprise architecture’ means a detailed outline or blueprint of the information technology of the Federal Bureau of Investigation that will satisfy the ongoing mission and goals of the Federal Bureau of Investigation and that sets forth specific and identifiable benchmarks.
+
+“(b)
+
+Enterprise Architecture.—The Federal Bureau of Investigation shall—
+
+&emsp;“(1) continually maintain and update an enterprise architecture; and
+
+&emsp;“(2) maintain a state of the art and up to date information technology infrastructure that is in compliance with the enterprise architecture of the Federal Bureau of Investigation.
+
+“(c)
+
+Report.—Subject to subsection (d), the Director of the Federal Bureau of Investigation shall, on an annual basis, submit to the Committees on the Judiciary of the Senate and House of Representatives a report on whether the major information technology investments of the Federal Bureau of Investigation are in compliance with the enterprise architecture of the Federal Bureau of Investigation and identify any inability or expectation of inability to meet the terms set forth in the enterprise architecture.
+
+“(d)
+
+Failure To Meet Terms.—If the Director of the Federal Bureau of Investigation identifies any inability or expectation of inability to meet the terms set forth in the enterprise architecture in a report under subsection (c), the report under subsection (c) shall—
+
+&emsp;“(1) be twice a year until the inability is corrected;
+
+&emsp;“(2) include a statement as to whether the inability or expectation of inability to meet the terms set forth in the enterprise architecture is substantially related to resources; and
+
+&emsp;“(3) if the inability or expectation of inability is substantially related to resources, include a request for additional funding that would resolve the problem or a request to reprogram funds that would resolve the problem.
+
+“(e)
+
+Enterprise Architecture, Agency Plans and Reports.—This section shall be carried out in compliance with the requirements set forth in section 1016(e) and (h) \[6 U.S.C. 485(e), (h)\].”
+
+#### Report to Congress
+
+Pub. L. 108–405, title II, §203(f), Oct. 30, 2004, 118 Stat. 2271, provided that: “If the Department of Justice plans to modify or supplement the core genetic markers needed for compatibility with the CODIS system, it shall notify the Judiciary Committee of the Senate and the Judiciary Committee of the House of Representatives in writing not later than 180 days before any change is made and explain the reasons for such change.”
+
 #### Morgan P. Hardiman Child Abduction and Serial Murder Investigative Resources Center
 
 Pub. L. 105–314, title VII, §703(a)–(f), Oct. 30, 1998, 112 Stat. 2987–2989, provided that:
@@ -40,7 +78,7 @@ Duties of the CASMIRC.—The CASMIRC shall perform such duties as the Attorney G
 
 &emsp;“(4) providing, if requested by a Federal, State, or local law enforcement agency, on site consultation and advice in child abduction, mysterious disappearances of children, child homicide and serial murder investigations;
 
-&emsp;“(5) coordinating the application of resources of pertinent Federal law enforcement agencies, and other Federal entities including, but not limited to, the United States Customs Service, the Secret Service, the Postal Inspection Service, and the United States Marshals Service, as appropriate, and with the concurrence of the agency head to support Federal, State, and local law enforcement involved in child abduction, mysterious disappearance of a child, child homicide, and serial murder investigations;
+&emsp;“(5) coordinating the application of resources of pertinent Federal law enforcement agencies, and other Federal entities including, but not limited to, the United States Customs Service, the Secret Service, the Postal Inspection Service, and the United States Marshals Service, as appropriate, and with the concurrence of the agency head to support Federal,State, and local law enforcement involved in child abduction, mysterious disappearance of a child, child homicide, and serial murder investigations;
 
 &emsp;“(6) conducting ongoing research related to child abductions, mysterious disappearances of children, child homicides, and serial murder, including identification and investigative application of current and emerging technologies, identification of investigative searching technologies and methods for physically locating abducted children, investigative use of offender behavioral assessment and analysis concepts, gathering statistics and information necessary for case identification, trend analysis, and case linkages to advance the investigative effectiveness of outstanding abducted children cases, develop investigative systems to identify and track serious serial offenders that repeatedly victimize children for comparison to unsolved cases, and other investigative research pertinent to child abduction, mysterious disappearance of a child, child homicide, and serial murder covered in this section;
 

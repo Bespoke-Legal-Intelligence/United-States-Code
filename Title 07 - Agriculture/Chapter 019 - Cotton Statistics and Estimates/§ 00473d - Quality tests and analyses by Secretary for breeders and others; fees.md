@@ -4,7 +4,3 @@ The Secretary of Agriculture is authorized to make analyses of fiber properties,
 
 (Mar. 3, 1927, ch. 337, §3d, as added Apr. 7, 1941, ch. 42, 55 Stat. 131.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 473a of this title.
-

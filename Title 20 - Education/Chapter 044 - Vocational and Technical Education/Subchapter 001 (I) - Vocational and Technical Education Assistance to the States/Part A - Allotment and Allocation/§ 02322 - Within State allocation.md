@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From the amount allotted to each State under section 2321 of this title for a fiscal year, theState board (hereinafter referred to as the “eligible agency”) shall make available—
+From the amount allotted to each State under section 2321 of this title for a fiscal year, the State board (hereinafter referred to as the “eligible agency”) shall make available—
 
 &emsp;(1) not less than 85 percent for distribution under section 2351 or 2352 of this title, of which not more than 10 percent of the 85 percent may be used in accordance with subsection (c) of this section;
 
@@ -59,8 +59,4 @@ Section 231 of the Carl D. Perkins Vocational and Applied Technology Education A
 Provisions similar to this section were contained in section 2312 of this title, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 A prior section 2322, Pub. L. 88–210, title I, §112, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2443; amended Pub. L. 99–159, title VII, §703, Nov. 22, 1985, 99 Stat. 905; Pub. L. 101–392, title I, §112, Sept. 25, 1990, 104 Stat. 765; Pub. L. 102–367, title VI, §601(b)(1), Sept. 7, 1992, 106 Stat. 1102, related to State councils on vocational education, prior to the general amendment of this chapter by Pub. L. 105–332.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2344, 2351, 2352, 2353 of this title.
 

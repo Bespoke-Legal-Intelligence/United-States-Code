@@ -14,7 +14,3 @@ Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of
 
 Land grant under Alaska Statehood provisions in lieu of grant of land under this section (declared not to extend to Alaska), see section 6(<i>l</i>) of Pub. L. 85–508, set out as a note preceding section 21 of Title 48.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 864, 988 of this title.
-

@@ -16,7 +16,7 @@ Application.—(1) This section applies to a motor vehicle only if the vehicle i
 
 (b)
 
-Standards for States and Indian Tribes.—(1) The Secretary, in consultation withthe States, shall prescribe by regulation standards for States and Indian tribes to use in carrying out subsection (a) of this section. The standards shall include—
+Standards for States and Indian Tribes.—(1) The Secretary, in consultation with the States, shall prescribe by regulation standards for States and Indian tribes to use in carrying out subsection (a) of this section. The standards shall include—
 
 &emsp;(A) a requirement that a highway routing designation, limitation, or requirement of a State or Indian tribe shall enhance public safety in the area subject to the jurisdiction of the State or tribe and in areas of the United States not subject to the jurisdiction of the State or tribe and directly affected by the designation, limitation, or requirement;
 
@@ -94,7 +94,7 @@ Relationship to Other Laws.—This section and regulations prescribed under this
 
 (f)
 
-Existing Radioactive Material Routing Regulations.—The Secretary is not required to amend or again prescribe regulations related to highway routing designations over which radioactive material may and may not be transported by motor vehicles, and limitations and requirements related to the routing, that were in effect on November 16, 1990.
+Existing Radioactive Material Routing Regulations.—The Secretary is not required to amend or again prescribe regulations related tohighway routing designations over which radioactive material may and may not be transported by motor vehicles, and limitations and requirements related to the routing, that were in effect on November 16, 1990.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 769.)
 
@@ -157,8 +157,4 @@ In subsection (f), the word “modify” is omitted as surplus and for consisten
 #### Study of Hazardous Materials Transportation by Motor Carriers Near Federal Prisons
 
 Pub. L. 103–311, title I, §121, Aug. 26, 1994, 108 Stat. 1681, directed Secretary of Transportation to submit to Congress, not later than 1 year after Aug. 26, 1994, report on results of study to determine safety considerations of transporting hazardous materials by motor carriers in close proximity to Federal prisons, particularly those housing maximum security prisoners, which was to include evaluation of ability of such facilities and designated local planning agencies to safely evacuate such prisoners in event of emergency and any special training, equipment, or personnel that would be required by such facility and designated local emergency planning agencies to carry out such evacuation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5117, 5120, 5125 of this title.
 

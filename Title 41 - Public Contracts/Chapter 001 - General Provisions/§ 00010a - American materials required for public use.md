@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, and unless the head of the departmen
 
 #### Amendments
 
-1994—Pub. L. 103–355 inserted at end “This section shall not apply to manufactured articles, materials, or supplies procured under any contract the award value of which is less than or equal to the micro-purchase threshold under section 428 of this title.”
+1994—Pub. L. 103–355 inserted at end “This section shall not apply to manufactured articles, materials, orsupplies procured under any contract the award value of which is less than or equal to the micro-purchase threshold under section 428 of this title.”
 
 1988—Pub. L. 100–418, §§7004, 7005(b), temporarily substituted “Federal agency” for “department or independent establishment”. See Effective and Termination Dates of 1988 Amendment note below.
 
@@ -53,12 +53,4 @@ Functions authorized by Foreign Assistance Act of 1961, as amended, as exempt, s
 #### Applicability of Buy American Act With Respect to European Community
 
 For applicability of Buy American Act to procurements covered by agreement with the European Community on government procurement, see Ex. Ord. No. 12849, May 25, 1993, 58 F.R. 30931, set out as a note under section 2511 of Title 19, Customs Duties.
-
-#### Act Referred to in Other Sections
-
-The Buy American Act is referred to in sections 10b–2, 10b–3, 42, 428 of this title; title 10 section 2533; title 15 sections 2507, 5528; title 19 sections 2512, 2513, 3105; title 20 sections 6067, 9275; title 24 section 225h; title 25 section 1638b; title 42 section 5206.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10b, 10c, 10d of this title; title 10 sections 2457, 2533.
 

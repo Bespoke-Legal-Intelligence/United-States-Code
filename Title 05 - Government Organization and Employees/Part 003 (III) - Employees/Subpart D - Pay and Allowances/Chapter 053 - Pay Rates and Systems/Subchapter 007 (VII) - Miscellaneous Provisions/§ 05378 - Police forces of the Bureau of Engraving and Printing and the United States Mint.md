@@ -54,7 +54,3 @@ Section 529 \[title I, §109(b)\] of Pub. L. 101–509, as amended by Pub. L. 10
 
 \[Amendment by Pub. L. 102–378 to section 529 \[title I, §109(b)\] of Pub. L. 101–509, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5102 of this title.
-

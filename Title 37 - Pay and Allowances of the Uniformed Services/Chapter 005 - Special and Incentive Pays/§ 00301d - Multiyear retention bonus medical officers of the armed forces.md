@@ -72,7 +72,3 @@ Section 611(b) of Pub. L. 101–510 provided that:
 
 “(2) Subsection (e) of section 612 of the National Defense Authorization Act, Fiscal Year 1989 (37 U.S.C. 302 note), shall not apply to the termination, pursuant to paragraph (1), of a retention bonus agreement under that section.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 303a of this title.
-

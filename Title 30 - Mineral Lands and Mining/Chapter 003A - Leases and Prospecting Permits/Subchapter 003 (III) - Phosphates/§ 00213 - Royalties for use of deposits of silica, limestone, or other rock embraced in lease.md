@@ -8,7 +8,3 @@ Any lease to develop and extract phosphates, phosphate rock, and associated or r
 
 1948—Act June 3, 1948, amended section generally, omitting provision relating to royalties and annual rents, and inserting provisions relating to use of deposits of silica, limestone or other rock embraced in the lease upon the payment of a suitable royalty.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 214 of this title; title 10 sections 7421, 7435.
-

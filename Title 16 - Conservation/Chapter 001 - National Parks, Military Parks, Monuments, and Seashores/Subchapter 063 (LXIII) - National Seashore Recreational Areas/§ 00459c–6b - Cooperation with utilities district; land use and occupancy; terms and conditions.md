@@ -4,7 +4,3 @@ The Secretary shall cooperate with the Bolinas Public Utilities District to prot
 
 (Pub. L. 87–657, §8, as added Pub. L. 95–625, title III, §318(e), Nov. 10, 1978, 92 Stat. 3487.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459c–2, 459c–4, 459c–5, 459c–6, 459c–7 of this title.
-

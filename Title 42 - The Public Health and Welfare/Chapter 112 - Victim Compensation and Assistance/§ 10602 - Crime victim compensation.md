@@ -138,9 +138,5 @@ Amendment by Pub. L. 100–690 not applicable with respect to a State compensati
 
 Section 234(a)(2) of Pub. L. 104–132 provided that: “Section 1403(b)(8) of the Victims of Crime Act of 1984 \[42 U.S.C. 10602(b)(8)\], as added by paragraph (1) of this section, shall not be applied to deny victims compensation to any person until the date on which the Attorney General, in consultation with the Director of the Administrative Office of the United States Courts, issues a written determination that a cost-effective, readily available criminal debt payment tracking system operated by the agency responsible for the collection of criminal debt has established cost-effective, readily available communications links with entities that administer Federal victim compensation programs that are sufficient to ensure that victim compensation is not denied to any person except as authorized by law.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10601, 10603, 10605 of this title.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

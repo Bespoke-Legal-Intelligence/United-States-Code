@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—PROGRAMS AND ACTIVITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 7545, 7586, 7607, 7661a of this title.
-
 
 ---
 

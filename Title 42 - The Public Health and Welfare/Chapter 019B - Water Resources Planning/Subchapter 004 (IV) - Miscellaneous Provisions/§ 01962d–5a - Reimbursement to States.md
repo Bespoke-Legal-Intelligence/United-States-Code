@@ -24,7 +24,7 @@ This section shall not be construed (1) as authorizing the United States to assu
 
 The Secretary of the Army is authorized to allot from any appropriations hereafter made for civil works, not to exceed $10,000,000 for any one fiscal year to carry out the provisions of this section. This limitation does not include specific project authorizations providing for reimbursement.
 
-(Pub. L. 90–483, title II, §215, Aug. 13, 1968, 82 Stat. 747; Pub. L. 99–662, title IX, §913, Nov. 17,1986, 100 Stat. 4190; Pub. L. 100–676, §12, Nov. 17, 1988, 102 Stat. 4025; Pub. L. 104–303, title II, §224(a), Oct. 12, 1996, 110 Stat. 3697.)
+(Pub. L. 90–483, title II, §215, Aug. 13, 1968, 82 Stat. 747; Pub. L. 99–662, title IX, §913, Nov. 17, 1986, 100 Stat. 4190; Pub. L. 100–676, §12, Nov. 17, 1988, 102 Stat. 4025; Pub. L. 104–303, title II, §224(a), Oct. 12, 1996, 110 Stat. 3697.)
 
 #### Codification
 
@@ -37,8 +37,4 @@ Section was not enacted as part of the Water Resources Planning Act which compri
 1988—Subsec. (a). Pub. L. 100–676 inserted before period at end “or 1 percent of the total project cost, whichever is greater; except that the amount of actual Federal reimbursement, including reductions in contributions, for such project may not exceed $5,000,000 in any fiscal year.”
 
 1986—Subsec. (a). Pub. L. 99–662 substituted “$3,000,000” for “$1,000,000”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1962d–5b of this title; title 33 section 2214.
 

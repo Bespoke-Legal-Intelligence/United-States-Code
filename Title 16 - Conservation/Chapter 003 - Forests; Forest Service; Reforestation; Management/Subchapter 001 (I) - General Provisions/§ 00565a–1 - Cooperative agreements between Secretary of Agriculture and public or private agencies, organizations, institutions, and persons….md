@@ -16,7 +16,3 @@ Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 107–63, title III, §328, Nov. 5, 2001, 115 Stat. 470.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 565a–2, 565a–3 of this title.
-

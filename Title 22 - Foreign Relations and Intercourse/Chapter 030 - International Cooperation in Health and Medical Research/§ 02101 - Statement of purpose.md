@@ -58,7 +58,7 @@ Section 1. <i>Policy</i>. It shall be the policy of the executive branch to take
 
 Sec. 2. <i>Responsibilities of Federal Departments and Agencies</i>. (a) Tobacco Trade Policy. In the implementation of international trade policy, executive departments and agencies shall not promote the sale or export of tobacco or tobacco products, or seek the reduction or removal of foreign government restrictions on the marketing and advertising of such products, provided that such restrictions are applied equally to all tobacco or tobacco products of the same type. Departments and agencies are not precluded from taking necessary actions in accordance with the requirements and remedies available under applicable United States trade laws and international agreements to ensure nondiscriminatory treatment of United States products. Nothing in this Executive Order shall be construed (1) to modify the annual executive branch guidance to United States diplomatic posts on health, trade, and commercial aspects of tobacco, or (2) to affect any negotiating position of the United States on the Framework Convention on Tobacco Control.
 
-(b) The Department of Health and Human Services’ (HHS) Role in Tobacco Trade Policy Deliberations. The HHS shall be included in all deliberations of interagency working groups, chaired by the United States Trade Representative (USTR), that address issues relating to trade in tobacco and tobacco products. Through such participation, HHS shall advise the USTR, and other interested Federal agencies, of the potential public health impact of any tobacco-related trade action that is under consideration. Upon conclusion of a trade agreement that includes provisions specifically addressing tobacco or tobacco products, the USTR shall produce and make publicly available a summary describing those provisions.
+(b) The Department of Health and Human Services’ (HHS) Role in Tobacco Trade Policy Deliberations. The HHS shall be included in all deliberations of interagency working groups, chaired by the United States Trade Representative (USTR), that address issues relating to trade in tobacco and tobacco products. Through such participation, HHS shall advise the USTR, and other interested Federal agencies, of the potential public health impact of any tobacco-relatedtrade action that is under consideration. Upon conclusion of a trade agreement that includes provisions specifically addressing tobacco or tobacco products, the USTR shall produce and make publicly available a summary describing those provisions.
 
 (c) International Tobacco Control Needs Assessment. The HHS, with the cooperation of the Departments of State, Commerce, and Agriculture, and in consultation with the appropriate national Ministry of Health, shall conduct a pilot assessment of tobacco use in a country other than the United States. Such assessment will be carried out through a compilation and review of surveys and other needs assessments already available and include:
 
@@ -75,8 +75,4 @@ Sec. 3. <i>General</i>. (a) Executive departments and agencies shall carry out t
 (b) This order clarifies and strengthens Administration policy and does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2102, 2103 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER XII–M—MATCHING GRANT PROGRAM FOR LAW ENFORCEMENT ARMOR VESTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3793 of this title.
-
 
 ---
 

@@ -14,7 +14,7 @@
 
 &emsp;(ii) the period between enrollment as a volunteer and the termination of service as such volunteer by the President or by death or resignation.
 
-(f) The term “United States Government agency” includes any department, board, wholly or partly owned corporation, or instrumentality,commission, or establishment of the United States Government.
+(f) The term “United States Government agency” includes any department, board, wholly or partly owned corporation, or instrumentality, commission, or establishment of the United States Government.
 
 (g) The word “transportation” in sections 2504(b), 2504(m), and 2505(2) of this title includes transportation of not to exceed three hundred pounds per person of unaccompanied necessary personal and household effects.
 
@@ -22,7 +22,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22,1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 #### Prior Provisions
 

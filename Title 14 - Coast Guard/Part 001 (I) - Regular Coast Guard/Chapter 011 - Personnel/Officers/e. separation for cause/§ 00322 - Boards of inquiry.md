@@ -14,7 +14,3 @@
 
 1982—Subsec. (d). Pub. L. 97–295 inserted “of this title” after “section 321”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 324, 325, 327 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any person may file a declaration of a violation giving rise to an action for civil penalties under section 1833a of this title affecting a depository institution insured by the Federal Deposit Insurance Corporation or any other agency or entity of the United States.
+Any person may file a declaration of a violation giving rise to an action for civil penaltiesunder section 1833a of this title affecting a depository institution insured by the Federal Deposit Insurance Corporation or any other agency or entity of the United States.
 
 #### (b) Place of filing
 
@@ -12,9 +12,5 @@ A declaration under subsection (a) of this section shall be filed with the Attor
 
 #### Short Title
 
-Section 2560 of Pub. L. 101–647 provided that: “This subtitle \[subtitle H (§§2560–2594) of title XXV of Pub. L.101–647, enacting this chapter and section 3059A of Title 18, Crimes and Criminal Procedure, and amending section 1831k of this title\] may be cited as the ‘Financial Institutions Anti-Fraud Enforcement Act of 1990’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4202, 4203, 4204, 4205, 4206, 4221, 4224, 4241 of this title.
+Section 2560 of Pub. L. 101–647 provided that: “This subtitle \[subtitle H (§§2560–2594) of title XXV of Pub. L. 101–647, enacting this chapter and section 3059A of Title 18, Crimes and Criminal Procedure, and amending section 1831k of this title\] may be cited as the ‘Financial Institutions Anti-Fraud Enforcement Act of 1990’.”
 

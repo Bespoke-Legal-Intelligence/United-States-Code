@@ -84,7 +84,3 @@ In subsection (b), the words before paragraph (1) are added as related to 45:61(
 
 In subsection (c), the words “A train employee on” are added for consistency in this section. The word “actual” is omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 21105 of this title.
-

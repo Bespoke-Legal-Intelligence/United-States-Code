@@ -18,7 +18,3 @@ Subject to the provisions of section 3902(a)(4) of this title relating to discri
 
 (Pub. L. 97–45, §6, as added Pub. L. 99–563, §8(c), Oct. 27, 1986, 100 Stat. 3175.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3903 of this title.
-

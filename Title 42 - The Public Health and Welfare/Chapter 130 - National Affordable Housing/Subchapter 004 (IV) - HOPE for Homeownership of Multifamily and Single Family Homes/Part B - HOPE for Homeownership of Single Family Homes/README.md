@@ -1,9 +1,5 @@
 Part B—HOPE for Homeownership of Single Family Homes
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 12870, 12899c, 12899d of this title; title 12 sections 1709, 1834a.
-
 
 ---
 

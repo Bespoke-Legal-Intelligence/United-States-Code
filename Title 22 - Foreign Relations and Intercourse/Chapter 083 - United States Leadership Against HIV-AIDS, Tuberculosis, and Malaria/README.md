@@ -21,6 +21,7 @@
 | (a) | Omitted. |
 | (b) | Resources. |
 | (c) | Establishment of separate account. |
+| [7612a.](Subchapter%20001%20%28I%29%20-%20Policy%20Planning%20and%20Coordination/%C2%A7%2007612a%20-%20HIV-AIDS%20Working%20Capital%20Fund.md) | HIV/AIDS Working Capital Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -59,7 +60,7 @@
 | (g) | Sense of Congress relating to food assistance for individuals living with HIV/AIDS. |
 | [7632\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007632%20-%20Authorization%20of%20appropriations%20to%20combat%20tuberculosis.md) | Authorization of appropriations to combat tuberculosis. |
 | [7633\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007633%20-%20Authorization%20of%20appropriations%20to%20combat%20malaria.md) | Authorization of appropriations to combat malaria. |
-| [7634\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007634%20-%20Pilot%20program%20for%20the%20placement%20of%20health%20care%20professionals%20in%20overseas%20areas%20severely%20affected%20by%20HIV-AIDS%2C%20tuberculosis%2C%20and%20malaria.md) | Pilot program for the placement of health care professionals in overseas areas severely affected by HIV/AIDS,tuberculosis, and malaria. |
+| [7634\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007634%20-%20Pilot%20program%20for%20the%20placement%20of%20health%20care%20professionals%20in%20overseas%20areas%20severely%20affected%20by%20HIV-AIDS%2C%20tuberculosis%2C%20and%20malaria.md) | Pilot program for the placement of health care professionals in overseas areas severely affected by HIV/AIDS, tuberculosis, and malaria. |
 | (a) | In general. |
 | (b) | Requirements. |
 | (c) | Eligibility requirements. |
@@ -133,6 +134,8 @@
 | (b) | Availability of funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 
 
 ---

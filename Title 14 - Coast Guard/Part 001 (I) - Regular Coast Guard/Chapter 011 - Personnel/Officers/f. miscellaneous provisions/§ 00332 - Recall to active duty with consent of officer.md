@@ -16,7 +16,3 @@ Subsec. (b). Pub. L. 102–241, §14(a), substituted “2” for “1”.
 
 1966—Subsec. (b). Pub. L. 89–444 provided that the percentage limitation on the number of retired officers on active duty in the grade of lieutenant commander, commander, or captain should not apply to retired officers of those grades recalled to serve as members of courts, boards, panels, surveys, or special projects for periods not to exceed one year.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 38 section 4312.
-

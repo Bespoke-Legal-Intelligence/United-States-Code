@@ -4,7 +4,3 @@ All unoccupied public lands of the United States containing salt springs, or dep
 
 (Jan. 31, 1901, ch. 186, 31 Stat. 745.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 1907; title 43 section 299.
-

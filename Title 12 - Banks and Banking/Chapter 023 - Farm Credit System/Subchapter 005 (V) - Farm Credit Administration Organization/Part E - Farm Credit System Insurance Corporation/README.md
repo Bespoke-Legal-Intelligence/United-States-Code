@@ -1,9 +1,5 @@
 Part E—Farm Credit System Insurance Corporation
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 2020 of this title.
-
 
 ---
 

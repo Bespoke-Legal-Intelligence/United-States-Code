@@ -92,9 +92,5 @@ Section 3 of Pub. L. 87–621 provided that: “This Act \[amending this section
 
 Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 997, provided in part: “That notwithstanding the provisions of title 31 U.S.C. 3302, for fiscal year 1990 and hereafter the Director of the United States Marshals Service may collect fees and expenses for the services authorized by 28 U.S.C. 1921 as amended by Public Law 100–690, and credit such fees to this appropriation to be used for salaries and other expenses incurred in providing these services”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 3711.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

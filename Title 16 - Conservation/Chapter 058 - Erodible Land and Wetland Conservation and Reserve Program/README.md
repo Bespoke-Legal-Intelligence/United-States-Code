@@ -226,7 +226,7 @@ I74subpart a—conservation security program
 | (a) | In general. |
 | (b) | Application. |
 | (c) | Approval by Secretary. |
-| (d) | Reassignment. |
+| (d) | Reversion. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -269,6 +269,7 @@ I74subpart a—conservation security program
 | (e) | Incentive payments. |
 | (f) | Modification or termination of contracts. |
 | (g) | Allocation of funding. |
+| (h) | Funding for federally recognized Native American Indian Tribes and Alaska Native Corporations. |
 | 3839aa–3. | Evaluation of offers and payments. |
 | 3839aa–4. | Duties of producers. |
 | 3839aa–5. | Environmental quality incentives program plan. |
@@ -352,10 +353,6 @@ I74subpart a—conservation security program
 | (e) | FACA requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 7 sections 1308–3, 1308–3a, 1308–4, 1515, 6932, 6962, 7334.
 
 
 ---

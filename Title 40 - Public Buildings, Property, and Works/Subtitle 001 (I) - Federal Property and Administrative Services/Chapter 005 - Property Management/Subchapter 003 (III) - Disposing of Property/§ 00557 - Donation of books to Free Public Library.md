@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 Feb. 25, 1903, ch. 755, §1 (7th par. on p. 865), 32 Stat. 865; Oct. 31, 1951, ch. 654, §2(1), 65 Stat. 706.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 111 of this title.
-

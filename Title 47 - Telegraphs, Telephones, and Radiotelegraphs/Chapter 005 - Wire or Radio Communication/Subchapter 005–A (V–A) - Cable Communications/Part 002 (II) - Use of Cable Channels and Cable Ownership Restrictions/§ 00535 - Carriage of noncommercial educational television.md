@@ -8,7 +8,7 @@ In addition to the carriage requirements set forth in section 534 of this title,
 
 #### (1) General requirement to carry each qualified station
 
-&emsp;Subject to paragraphs (2) and (3) and subsection (e) of this section, each cable operatorshall carry, on the cable system of that cable operator, any qualified local noncommercial educational television station requesting carriage.
+&emsp;Subject to paragraphs (2) and (3) and subsection (e) of this section, each cable operator shall carry, on the cable system of that cable operator, any qualified local noncommercial educational television station requesting carriage.
 
 #### (2) Systems with 12 or fewer channels
 
@@ -46,7 +46,7 @@ A cable operator required to add the signals of qualified local noncommercial ed
 
 #### (e) Systems with more than 36 channels
 
-A cable operator of a cable system with a capacity of more than 36 usable activated channels which is required to carry the signals of three qualified local noncommercial educational television stations shall not be required to carry the signals of additional such stations the programming of which substantially duplicates the programming broadcast by another qualified local noncommercial educational television station requesting carriage. Substantial duplication shall be defined by the Commission in a manner that promotes access to distinctive noncommercial educational television services.
+A cable operator of a cable system with a capacity of more than 36 usable activated channelswhich is required to carry the signals of three qualified local noncommercial educational television stations shall not be required to carry the signals of additional such stations the programming of which substantially duplicates the programming broadcast by another qualified local noncommercial educational television station requesting carriage. Substantial duplication shall be defined by the Commission in a manner that promotes access to distinctive noncommercial educational television services.
 
 #### (f) Waiver of nonduplication rights
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 &emsp;The term “qualified noncommercial educational television station” means any television broadcast station which—
 
-&emsp;&emsp;(A)(i) under the rules and regulations of the Commission in effect on March 29, 1990, is licensed by the Commission as a noncommercial educational television broadcast station and which is owned and operated bya public agency, nonprofit foundation, corporation, or association; and
+&emsp;&emsp;(A)(i) under the rules and regulations of the Commission in effect on March 29, 1990, is licensed by the Commission as a noncommercial educational television broadcast station and which is owned and operated by a public agency, nonprofit foundation, corporation, or association; and
 
 &emsp;&emsp;(ii) has as its licensee an entity which is eligible to receive a community service grant, or any successor grant thereto, from the Corporation for Public Broadcasting, or any successor organization thereto, on the basis of the formula set forth in section 396(k)(6)(B) of this title; or
 
@@ -135,8 +135,4 @@ For purposes of this section—
 #### Effective Date
 
 Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–385, set out as an Effective Date of 1992 Amendment note under section 325 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 325, 336, 338, 532, 534, 543, 555, 573 of this title.
 

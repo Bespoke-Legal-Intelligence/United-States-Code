@@ -20,7 +20,3 @@ This Act, referred to in subsec. (c), is Pub. L. 100–534, Oct. 26, 1988, 102 S
 
 Section 1102 of Public Law 99–662, referred to in subsec. (c), is section 1102 of Pub. L. 99–662, title XI, Nov. 17, 1986, 100 Stat. 4225, which is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460m–30 of this title.
-

@@ -24,7 +24,7 @@ The Board of Trustees is authorized to—
 
 &emsp;(4) appoint a president and establish policies, guidelines, and procedures related to the appointments, the salaries, and the dismissals of professors, instructors, and other employees of Gallaudet University, including the adoption of a policy of outreach and recruitment to employ and advance in employment qualified individuals with disabilities, particularly individuals who are deaf or hard of hearing;
 
-&emsp;(5) elect a chairperson and other officers and prescribe their duties and terms of office, and appoint an executive committee to consist offive members, and vest the committee with such of its powers during periods between meetings of the Board as the Board deems necessary;
+&emsp;(5) elect a chairperson and other officers and prescribe their duties and terms of office, and appoint an executive committee to consist of five members, and vest the committee with such of its powers during periods between meetings of the Board as the Board deems necessary;
 
 &emsp;(6) establish such schools, departments, and other units as the Board of Trustees deems necessary to carry out the purpose of Gallaudet University;
 

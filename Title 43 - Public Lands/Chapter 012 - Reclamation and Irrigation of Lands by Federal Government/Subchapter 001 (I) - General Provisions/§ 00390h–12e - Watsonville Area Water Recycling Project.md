@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary, in cooperation with the City of Watsonville, California, is authorized to participate in the design, planning, and construction ofthe Watsonville Area Water Recycling Project to reclaim and reuse water in the Pajaro Valley in Santa Cruz County, California.
+The Secretary, in cooperation with the City of Watsonville, California, is authorized to participate in the design, planning, and construction of the Watsonville Area Water Recycling Project to reclaim and reuse water in the Pajaro Valley in Santa Cruz County, California.
 
 #### (b) Cost share
 
@@ -13,8 +13,4 @@ The Federal share of the cost of a project described in subsection (a) of this s
 The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
 
 (Pub. L. 102–575, title XVI, §1619, as added Pub. L. 104–266, §2(a)(2), Oct. 9, 1996, 110 Stat. 3291.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390h–13 of this title.
 

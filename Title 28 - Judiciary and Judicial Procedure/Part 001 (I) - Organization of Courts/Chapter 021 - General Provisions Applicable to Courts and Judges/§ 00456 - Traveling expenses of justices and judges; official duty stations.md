@@ -68,7 +68,7 @@ Subsec. (b). Pub. L. 97–164 designated existing undesignated second par. as su
 
 Subsec. (c). Pub. L. 97–164 designated existing undesignated third par. as subsec. (c) and substituted “official duty station” for “official station”.
 
-Subsec. (d). Pub. L. 97–164 designated existing undesignated fourth par. as subsec. (d) and substituted “The official duty station of each district judge shall be that place where a district court holds regular sessions at or near which the judge performs a substantial portion of his judicial work, which is nearest the place where he maintains his actual abode in which he customarily lives” for “The official station of each circuit and district judge, including each district judge in the Territories and possessions, shall be that place where a district court is regularly held and at or near which the judge performs a substantial portion of his judicial work, which is nearest the place where he maintains an actual abode in which he customarily lives”.
+Subsec. (d). Pub. L. 97–164 designated existing undesignated fourth par. as subsec. (d) and substituted “The official duty station of each district judge shall be that place where a district court holds regular sessions at or near which the judge performs a substantial portion of his judicial work, which is nearest the place where he maintains his actual abode in which he customarily lives” for “The official station of each circuit and district judge, including each district judge in the Territories and possessions, shall be that place where a district court is regularly held and at or near which the judge performs a substantial portion of his judicialwork, which is nearest the place where he maintains an actual abode in which he customarily lives”.
 
 Subsecs. (e), (f). Pub. L. 97–164 added subsecs. (e) and (f).
 
@@ -101,8 +101,4 @@ Pub. L. 99–550, §3, Oct. 27, 1986, 100 Stat. 3070, directed Director of Admin
 #### Promulgation of Regulations by Director
 
 Director to promulgate regulations effectuating increases in reimbursement for expenses, see section 6 of Pub. L. 87–139, Aug. 14, 1961, 75 Stat. 340, set out as a note under section 604 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 175, 374, 460, 604 of this title; title 5 section 5702; title 20 section 4502.
 

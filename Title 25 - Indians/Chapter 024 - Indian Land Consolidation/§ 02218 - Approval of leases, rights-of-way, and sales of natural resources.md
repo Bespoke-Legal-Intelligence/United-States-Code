@@ -24,7 +24,7 @@
 
 &emsp;The applicable percentage referred to in subsection (a)(1) of this section shall be determined as follows:
 
-&emsp;&emsp;(A) If there are 5 or fewer owners of the undivided interest in the allotted land, the applicable percentage shall be 100 percent.
+&emsp;&emsp;(A) If there are 5 or fewer owners of the undivided interest in the allotted land, the applicable percentage shall be 90 percent.
 
 &emsp;&emsp;(B) If there are more than 5 such owners, but fewer than 11 such owners, the applicable percentage shall be 80 percent.
 
@@ -90,13 +90,25 @@ The Secretary may give written consent to a lease or agreement under subsection 
 
 Nothing in this section shall be construed to amend or modify the provisions of Public Law 105–188 (25 U.S.C. 396 note), the American Indian Agricultural Resources Management Act (25 U.S.C. 3701 et seq.), title II of the Indian Land Consolidation Act Amendments of 2000, or any other Act that provides specific standards for the percentage of ownership interest that must approve a lease or agreement on a specified reservation.
 
-(Pub. L. 97–459, title II, §219, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 2004.)
+#### (g) Other laws
+
+Nothing in this chapter shall be construed to supersede, repeal, or modify any general or specific statute authorizing the grant or approval of any type of land use transaction involving fractional interests in trust or restricted land.
+
+(Pub. L. 97–459, title II, §219, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 2004; amended Pub. L. 108–374, §6(a)(10), (11), Oct. 27, 2004, 118 Stat. 1804.)
 
 #### References in Text
 
 The American Indian Agricultural Resources Management Act, referred to in subsec. (f), probably means the American Indian Agricultural Resource Management Act, Pub. L. 103–177, Dec. 3, 1993, 107 Stat. 2011, as amended, which is classified generally to chapter 39 (§3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
 
 The Indian Land Consolidation Act Amendments of 2000, referred to in subsec. (f), is Pub. L. 106–462, Nov. 7, 2000, 114 Stat. 1991. Title II of the Act enacted provisions classified as a note under section 396 of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 2201 of this title and Tables.
+
+This chapter, referred to in subsec. (g), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
+
+#### Amendments
+
+2004—Subsec. (b)(1)(A). Pub. L. 108–374, §6(a)(10), substituted “90” for “100”.
+
+Subsec. (g). Pub. L. 108–374, §6(a)(11), added subsec. (g).
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

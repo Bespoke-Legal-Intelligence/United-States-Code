@@ -30,7 +30,3 @@ Section 302 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 199
 
 Amendment by Pub. L. 104–114 effective Aug. 1, 1996, or date determined pursuant to suspension authority of President under section 6085(b) or (c) of Title 22, Foreign Relations and Intercourse, see section 6085 of Title 22.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1609 of this title.
-

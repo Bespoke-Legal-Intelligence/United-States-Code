@@ -88,7 +88,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 #### (B) Marketable skills
 
-&emsp;&emsp;The worker possesses marketable skills for suitable employment (as determined pursuant to an assessment of the worker, which may include the profiling system under section 303(j) of the Social Security Act (42 U.S.C. 503(j)), carried out in accordance with guidelines issued by the Secretary) andthere is a reasonable expectation of employment at equivalent wages in the foreseeable future.
+&emsp;&emsp;The worker possesses marketable skills for suitable employment (as determined pursuant to an assessment of the worker, which may include the profiling system under section 303(j) of the Social Security Act (42 U.S.C. 503(j)), carried out in accordance with guidelines issued by the Secretary) and there is a reasonable expectation of employment at equivalent wages in the foreseeable future.
 
 #### (C) Retirement
 
@@ -162,7 +162,7 @@ Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, sub
 
 Subsec. (c). Pub. L. 100–418, §1423(a)(3), amended subsec. (c) generally, substituting provisions relating to approval of training programs, written certifications, revocation of certification, and annual report, for provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in job search program.
 
-1986—Subsec. (a)(2). Pub. L. 99–272, §13003(b), substituted provisions restricting to no more than 7 thenumber of weeks to be treated as weeks of employment under this sentence for provisions designated as clauses (i) to (iii), limiting the weeks that may be treated as weeks of employment to 3, 7, and 7, respectively, under certain conditions.
+1986—Subsec. (a)(2). Pub. L. 99–272, §13003(b), substituted provisions restricting to no more than 7 the number of weeks to be treated as weeks of employment under this sentence for provisions designated as clauses (i) to (iii), limiting the weeks that may be treated as weeks of employment to 3, 7, and 7, respectively, under certain conditions.
 
 Subsec. (a)(5). Pub. L. 99–272, §13003(a)(1), added par. (5).
 
@@ -172,7 +172,7 @@ Subsec. (c). Pub. L. 99–272, §13003(a)(2), added subsec. (c).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -239,10 +239,6 @@ Section 2514 of Pub. L. 97–35, as amended by Pub. L. 97–362, title II, §204
 #### Termination Date
 
 No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2273, 2292, 2293, 2297, 2298, 2311, 2396 of this title; title 26 sections 35, 62.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized and directed to make an examination 
 
 (July 20, 1956, ch. 653, §2, 70 Stat. 592.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430dd, 430ee of this title.
-

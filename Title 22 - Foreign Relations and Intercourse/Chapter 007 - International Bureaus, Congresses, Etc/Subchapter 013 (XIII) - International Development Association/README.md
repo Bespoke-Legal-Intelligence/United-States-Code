@@ -25,3 +25,4 @@
 - [&sect; 00284q - Special Facility for Sub-Saharan Africa](%C2%A7%2000284q%20-%20Special%20Facility%20for%20Sub-Saharan%20Africa.md)
 - [&sect; 00284r - Eighth replenishment; authorization of appropriations](%C2%A7%2000284r%20-%20Eighth%20replenishment%3B%20authorization%20of%20appropriations.md)
 - [&sect; 00284s - Ninth replenishment](%C2%A7%2000284s%20-%20Ninth%20replenishment.md)
+- [&sect; 00284t - Thirteenth replenishment](%C2%A7%2000284t%20-%20Thirteenth%20replenishment.md)

@@ -32,7 +32,7 @@ Whoever—
 
 &emsp;(A) to refer an individual to a person for the furnishing or arranging for the furnishing of any item or service for which payment may be made in whole or in part under a Federal health care program, or
 
-&emsp;(B) to purchase, lease, order, or arrange for or recommend purchasing, leasing, or ordering any good, facility, service, or item for which payment may be made in whole or in part under a Federal health care program,
+&emsp;(B) to purchase, lease, order, or arrange for or recommend purchasing, leasing, or orderingany good, facility, service, or item for which payment may be made in whole or in part under a Federal health care program,
 
 > shall be guilty of a felony and upon conviction thereof, shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 
@@ -68,7 +68,7 @@ Whoever knowingly and willfully—
 
 &emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX of this chapter, money or other consideration at a rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract), or
 
-&emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX of this chapter, any gift, money, donation, or other consideration (other than a charitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
+&emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX of this chapter, any gift, money, donation, or other consideration (other than acharitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
 
 &emsp;&emsp;(A) as a precondition of admitting a patient to a hospital, nursing facility, or intermediate care facility for the mentally retarded, or
 
@@ -134,7 +134,7 @@ Subsec. (a)(6). Pub. L. 105–33, §4734(1), added par. (6) and struck out forme
 
 Subsec. (c). Pub. L. 105–33, §4201(c)(1), substituted “critical access” for “rural primary care”.
 
-Subsec. (d)(1). Pub. L. 105–33, §4704(b), inserted “(or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract)” after “by the State”.
+Subsec. (d)(1). Pub. L. 105–33, §4704(b), inserted “(or, in the case of services provided to an individual enrolled with a medicaid managed care organizationunder subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract)” after “by the State”.
 
 1996—Pub. L. 104–191, §204(a)(1), substituted “Federal” for “Medicare or State” in section catchline.
 
@@ -146,7 +146,7 @@ Subsec. (a)(5). Pub. L. 104–191, §204(a)(3), substituted “a Federal” for 
 
 Subsec. (a)(6). Pub. L. 104–191, §217, added par. (6).
 
-Subsec. (b). Pub. L. 104–191, §204(a)(5), substituted “a Federal health care program” for “subchapter XVIII ofthis chapter or a State health care program” wherever appearing.
+Subsec. (b). Pub. L. 104–191, §204(a)(5), substituted “a Federal health care program” for “subchapter XVIII of this chapter or a State health care program” wherever appearing.
 
 Subsec. (b)(3)(F). Pub. L. 104–191, §216(a), added subpar. (F).
 
@@ -212,7 +212,7 @@ Pub. L. 108–173, title II, §237(e), Dec. 8, 2003, 117 Stat. 2213, provided th
 
 Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
-Amendment by section 4704(b) of Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contracts entered into or renewed on or after Oct. 1, 1997, see section 4710 of Pub. L. 105–33, set out as a note under section 1396b of this title.
+Amendment by section 4704(b) of Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contracts enteredinto or renewed on or after Oct. 1, 1997, see section 4710 of Pub. L. 105–33, set out as a note under section 1396b of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -328,7 +328,7 @@ Appointment of negotiated rulemaking committee and facilitator.—The Secretary 
 
 “(6)
 
-Preliminary committee report.—The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than October 1, 1996, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus islikely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
+Preliminary committee report.—The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than October 1, 1996, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
 
 “(7)
 
@@ -345,10 +345,6 @@ Publication of rule after public comment.—The Secretary shall provide for cons
 #### Anti-Kickback Regulations
 
 Section 14(a) of Pub. L. 100–93 provided that: “The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[subsec. (b) of this section\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act. Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320a–3a, 1320a–7, 1320a–7a, 1320a–7c, 1320a–7d, 1320a–7e, 1395b–5, 1395w–104, 1395w–141, 1396b, 1396r–6, 1397gg of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

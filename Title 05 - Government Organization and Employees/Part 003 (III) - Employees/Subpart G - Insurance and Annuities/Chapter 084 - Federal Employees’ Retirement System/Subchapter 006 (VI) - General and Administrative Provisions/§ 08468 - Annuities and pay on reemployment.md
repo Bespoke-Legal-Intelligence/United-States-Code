@@ -46,13 +46,15 @@
 
 (4) For the purpose of this subsection, “agency in the legislative branch”, “employee of the House of Representatives”, “employee of the Senate”, and “congressional employee” each has the meaning given to it in section 5531 of this title.
 
-(i)(1) For the purpose of subsections (f) through (h), “Executive agency” shall not include the General Accounting Office.
+(i)(1) For the purpose of subsections (f) through (h), “Executive agency” shall not include the Government Accountability Office.
 
-(2) An employee as to whom a waiver under subsection (f), (g), or (h) is in effect shall not be considered an employee for purposes of this chapter or chapter 83 of this title.
+(2) An employee as to whom a waiver under subsection (f), (g), or (h) is in effect shall not beconsidered an employee for purposes of this chapter or chapter 83 of this title.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 576; amended Pub. L. 100–238, title I, §134(a), Jan. 8, 1988, 101 Stat. 1762; Pub. L. 101–509, title V, §529 \[title I, §108(c)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(3), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(c), Dec. 5, 1991, 105 Stat. 1392; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(9), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 108–176, title II, §226(b)(2)(C), Dec. 12, 2003, 117 Stat. 2530.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 576; amended Pub. L. 100–238, title I, §134(a), Jan. 8, 1988, 101 Stat. 1762; Pub. L. 101–509, title V, §529 \[title I, §108(c)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(3), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(c), Dec. 5, 1991, 105 Stat. 1392; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(9), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 108–176, title II, §226(b)(2)(C), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
+
+2004—Subsec. (i)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 2003—Subsec. (b)(1)(A). Pub. L. 108–176 substituted “through (h)” for “through (g)”.
 
@@ -107,10 +109,6 @@ Exception.—The amendment made by subsection (b) \[amending provisions set out 
 #### Annual Report to Congress
 
 Each agency in legislative branch to submit to Speaker of House of Representatives and Committee on Rules and Administration of Senate, for each calendar year, a written report on how authority made available as result of amendment by Pub. L. 102–190 was used by such agency during the period covered by such report, see section 655(d) of Pub. L. 102–190, set out as a note under section 8344 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 sections 61h–6, 130i; title 20 section 4512; title 22 section 4064; title 39 section 1005; title 50 section 409b.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “part-time”.</i>
 

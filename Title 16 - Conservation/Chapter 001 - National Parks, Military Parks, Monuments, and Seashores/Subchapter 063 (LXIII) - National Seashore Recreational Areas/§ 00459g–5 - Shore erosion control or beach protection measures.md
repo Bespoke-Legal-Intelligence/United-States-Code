@@ -4,7 +4,3 @@ The authority of the Chief of Engineers, Department of the Army, to undertake or
 
 (Pub. L. 89–366, §6, Mar. 10, 1966, 80 Stat. 35.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459g–1, 459g–2, 459g–4, 459g–7 of this title.
-

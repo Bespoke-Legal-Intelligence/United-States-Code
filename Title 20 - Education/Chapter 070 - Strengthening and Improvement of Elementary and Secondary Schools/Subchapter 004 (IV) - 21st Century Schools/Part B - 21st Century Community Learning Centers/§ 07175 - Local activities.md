@@ -56,7 +56,3 @@ Each eligible entity that receives an award under this part may use the award fu
 
 (Pub. L. 89–10, title IV, §4205, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1772.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7174 of this title.
-

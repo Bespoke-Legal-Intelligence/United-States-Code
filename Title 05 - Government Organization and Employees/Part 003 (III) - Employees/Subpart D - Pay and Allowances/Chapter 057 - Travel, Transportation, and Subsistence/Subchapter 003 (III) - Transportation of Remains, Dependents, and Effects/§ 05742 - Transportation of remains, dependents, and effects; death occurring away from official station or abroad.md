@@ -56,7 +56,7 @@ July 15, 1954, ch. 507, §7(b), 68 Stat. 479.
 
 July 8, 1940, ch. 551, §2, 54 Stat. 744.
 
-Subsection (a) is based on the words “department, independent establishment, agency, or federally owned or controlled corporation, hereinafter called department” in former section 103a. The terms “Executive agency” and “military department” include a department, independent establishment, agency, or federally owned or controlled corporation in the executive branch because of the definitions in sections 105 and 102.
+Subsection (a) is based on the words “department, independent establishment, agency, or federally ownedor controlled corporation, hereinafter called department” in former section 103a. The terms “Executive agency” and “military department” include a department, independent establishment, agency, or federally owned or controlled corporation in the executive branch because of the definitions in sections 105 and 102.
 
 The words “a military department” are included to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force, as military departments, not as Executive departments. However, the source law for this section, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser's note for section 301.
 
@@ -77,8 +77,4 @@ Subsec. (e). Pub. L. 101–510, §1206(d)(2), added subsec. (e).
 Authority of President under subsec. (b) of this section to prescribe regulations with respect to payment of expenses when an employee dies delegated to Administrator of General Services, see section 1(13) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
 Authority of President under subsec. (e) of this section delegated to Office of Personnel Management by section 6(b) of Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, eff. May 4, 1991, set out as a note under section 5301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3375 of this title; title 10 section 1482a.
 

@@ -30,7 +30,7 @@ Based on Fixed Guideway Revenue Vehicle-Miles, Route-Miles, and Passenger-Miles.
 
 &emsp;&emsp;(i) the number of fixed guideway vehicle passenger-miles traveled multiplied by the number of fixed guideway vehicle passenger-miles traveled for each dollar of operating cost in an area; divided by
 
-&emsp;&emsp;(ii) the total number of fixed guideway vehicle passenger-miles traveled multiplied by the total number of fixed guideway vehicle passenger-miles traveled for each dollar of operating cost in all areas.
+&emsp;&emsp;(ii) the total number of fixed guideway vehicle passenger-miles traveled multiplied by the total number of fixed guideway vehiclepassenger-miles traveled for each dollar of operating cost in all areas.
 
 > &emsp;An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subparagraph.
 
@@ -86,9 +86,9 @@ Transfers of Apportionments.—(1) The chief executive officer of a State may tr
 
 (2) The chief executive officer of a State may transfer any part of the State's apportionment under section 5311(c) of this title to supplement amounts apportioned to the State under subsection (a)(1) of this section.
 
-(3) The chief executive officer of a State may use throughout the State amounts of a State's apportionment remaining available for obligation at the beginning of the 90-day period before the period of the availability of the amounts expires.
+(3) The chief executive officer of a State may use throughout the State amounts of a State'sapportionment remaining available for obligation at the beginning of the 90-day period before the period of the availability of the amounts expires.
 
-(4) A designated recipient for an urbanized area with a population of at least 200,000 maytransfer a part of its apportionment under this section to the chief executive officer of a State. The chief executive officer shall distribute the transferred amounts to urbanized areas under this section.
+(4) A designated recipient for an urbanized area with a population of at least 200,000 may transfer a part of its apportionment under this section to the chief executive officer of a State. The chief executive officer shall distribute the transferred amounts to urbanized areas under this section.
 
 (5) Capital and operating assistance limitations applicable to the original apportionment apply to amounts transferred under this subsection.
 
@@ -242,7 +242,7 @@ In subsection (c)(1)(B), before clause (i), the words “of at least 200,000” 
 
 In subsection (d)(1)(D), the words “Notwithstanding the preceding sentence” and “each fiscal year” are omitted as surplus.
 
-In subsection (d)(2), the words “Beginning on October 1, 1991” are omitted as executed. The words “paragraph (1) of this subsection” are substituted for “under this section that may be used for operating assistance by urbanized areas” to eliminate unnecessary words. The words “(if any)” are omitted as surplus. The words“Secretary of Labor” are substituted for “Department of Labor” because of 29:551. The text of 49 App.:1607a(k)(2)(B) (2d sentence) is omitted as executed. The text of 49 App.:1607a(k)(2)(B) (last sentence) is omitted as surplus.
+In subsection (d)(2), the words “Beginning on October 1, 1991” are omitted as executed. The words “paragraph (1) of this subsection” are substituted for “under this section that may be used for operating assistance by urbanized areas” to eliminate unnecessary words. The words “(if any)” are omitted as surplus. The words “Secretary of Labor” are substituted for “Department of Labor” because of 29:551. The text of 49 App.:1607a(k)(2)(B) (2d sentence) is omitted as executed. The text of 49 App.:1607a(k)(2)(B) (last sentence) is omitted as surplus.
 
 In subsection (e)(1), the words “under section 5338(f) of this title” are added for clarity. The words “in accordance with the provisions of this section” are omitted as surplus.
 
@@ -297,10 +297,6 @@ Study.—The Secretary \[of Transportation\] shall conduct a study to determine 
 “(b)
 
 Report.—Not later than December 31, 1999, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the results of the study conducted under this section, together with any proposed changes to the method for apportioning funds to urbanized areas with a population over 50,000.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5307, 5308, 5310, 5323, 5330, 5337 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -42,9 +42,5 @@ The Troops-to-Teachers Program Act of 1999, referred to in subsec. (a), is title
 
 A prior section 6672, Pub. L. 89–10, title II, §2302, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3633, authorized professional development demonstration program, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6674 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

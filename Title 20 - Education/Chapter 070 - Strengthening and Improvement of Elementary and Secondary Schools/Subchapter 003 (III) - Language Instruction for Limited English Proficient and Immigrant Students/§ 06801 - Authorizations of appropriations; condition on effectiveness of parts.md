@@ -32,7 +32,3 @@ A prior section 6801, Pub. L. 89–10, title III, §3101, as added Pub. L. 103�
 
 A prior section 3001 of Pub. L. 89–10 was classified to section 3021 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5891b, 6821, 6913 of this title.
-

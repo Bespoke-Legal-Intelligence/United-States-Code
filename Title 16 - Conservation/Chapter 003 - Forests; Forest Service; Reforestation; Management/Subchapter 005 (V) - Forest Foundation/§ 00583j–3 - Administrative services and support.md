@@ -6,7 +6,7 @@ For purposes of assisting the Foundation in establishing an office and meeting i
 
 #### (b) Matching funds
 
-In addition to the startup funds provided under subsection (a) of this section, for a period of five years beginning October 1, 1992, the Secretary is authorized to provide matching funds for administrative and project expenses incurred by the Foundation as authorized by section 583j–8(b) of this title including reimbursement of expenses under section 583j–1 of this title, not to exceed then current Federal Government per diem rates.
+In addition to the startup funds provided under subsection (a) of this section, for a period of five years beginning October 1, 1992, the Secretary is authorized to provide matching funds for administrative and project expenses incurredby the Foundation as authorized by section 583j–8(b) of this title including reimbursement of expenses under section 583j–1 of this title, not to exceed then current Federal Government per diem rates.
 
 #### (c) Administrative expenses
 
@@ -27,8 +27,4 @@ Section 2 of Pub. L. 103–106 provided that: “It is the purpose of this Act \
 &emsp;“(1) to provide for start-up and matching funds for project expenses to carry out the National Forest Foundation Act \[16 U.S.C. 583j et seq.\]; and
 
 &emsp;“(2) to extend the funding authorization for start-up expenses for 1 year.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 583j–8 of this title.
 

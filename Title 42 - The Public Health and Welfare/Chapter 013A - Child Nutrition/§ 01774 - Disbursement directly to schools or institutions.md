@@ -1,8 +1,8 @@
 ### §1774. Disbursement directly to schools or institutions
 
-(a) The Secretary shall withhold funds payable to a State under this chapter and disburse the funds directly to schools or institutions within the State for the purposes authorized by this chapter to the extent that the Secretary has so withheld and disbursed such funds continuously since October 1, 1980, but only to such extent (except as otherwise required by subsection (b) of this section). Any funds so withheld and disbursed by the Secretary shall be used for the same purposes, and shall be subject to the same conditions, as applicable to a State disbursing funds made available under this chapter. If the Secretary is administering (in whole or in part) any program authorized under this chapter, the State in which the Secretary is administering the program may, upon request to the Secretary, assume administration of that program.
+(a) The Secretary shall withhold funds payable to a State under this chapter and disburse thefunds directly to schools or institutions within the State for the purposes authorized by this chapter to the extent that the Secretary has so withheld and disbursed such funds continuously since October 1, 1980, but only to such extent (except as otherwise required by subsection (b) of this section). Any funds so withheld and disbursed by the Secretary shall be used for the same purposes, and shall be subject to the same conditions, as applicable to a State disbursing funds made available under this chapter. If the Secretary is administering (in whole or in part) any program authorized under this chapter, the State in which the Secretary is administering the program may, upon request to the Secretary, assume administration of that program.
 
-(b) If a State educational agency is not permitted by law to disburse the funds paid to it under this chapter to any of the nonpublic schools in the State, the Secretary shall disburse the funds directly to such schools withinthe State for the same purposes and subject to the same conditions as are authorized or required with respect to the disbursements to public schools within the State by the State educational agency.
+(b) If a State educational agency is not permitted by law to disburse the funds paid to it under this chapter to any of the nonpublic schools in the State, the Secretary shall disburse the funds directly to such schools within the State for the same purposes and subject to the same conditions as are authorized or required with respect to the disbursements to public schools within the State by the State educational agency.
 
 (Pub. L. 89–642, §5, as added Pub. L. 97–35, title VIII, §817(e), Aug. 13, 1981, 95 Stat. 532.)
 
@@ -17,8 +17,4 @@ Section effective Oct. 1, 1981, see section 820(a)(4) of Pub. L. 97–35, set ou
 #### Report to Congress of Needs for Equipment To Be Submitted by June 30, 1973
 
 Pub. L. 92–433, §6(e), Sept. 26, 1972, 86 Stat. 729, directed Secretary, to assist Congress in determining amounts needed annually, to conduct a survey among States and school districts on unmet needs for equipment in schools eligible for assistance under former section 1774 of this title, results of such survey to be reported to Congress by June 30, 1973.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1769, 1775 of this title.
 

@@ -1,0 +1,20 @@
+### §403–3f. National Counterintelligence Executive
+
+#### (a) National Counterintelligence Executive
+
+The National Counterintelligence Executive under section 902 of the Counterintelligence Enhancement Act of 2002 \[50 U.S.C. 402b\] is a component of the Office of the Director of National Intelligence.
+
+#### (b) Duties
+
+The National Counterintelligence Executive shall perform the duties provided in the Counterintelligence Enhancement Act of 2002 and such other duties as may be prescribed by the Director of National Intelligence or specified by law.
+
+(July 26, 1947, ch. 343, title I, §103F, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3660.)
+
+#### References in Text
+
+The Counterintelligence Enhancement Act of 2002, referred to in subsec. (b), is title IX of Pub. L. 107–306, Nov. 27, 2002, 116 Stat. 2432, which enacted sections 402b and 402c of this title, amended section 402a of this title, and enacted provisions set out as notes under sections 401 and 402b of this title. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 401 of this title and Tables.
+
+#### Effective Date
+
+Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+

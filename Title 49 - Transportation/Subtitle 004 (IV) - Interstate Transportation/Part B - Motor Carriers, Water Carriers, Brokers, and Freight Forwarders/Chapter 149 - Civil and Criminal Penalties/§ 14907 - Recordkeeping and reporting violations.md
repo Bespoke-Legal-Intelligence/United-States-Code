@@ -24,7 +24,3 @@ A person required to make a report to the Secretary or the Board, as applicable,
 
 Provisions similar to those in this section were contained in section 11909 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14303 of this title.
-

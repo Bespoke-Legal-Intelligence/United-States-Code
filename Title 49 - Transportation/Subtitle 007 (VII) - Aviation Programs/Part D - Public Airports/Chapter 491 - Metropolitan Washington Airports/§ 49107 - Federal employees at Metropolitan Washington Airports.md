@@ -82,7 +82,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §636\], Dec. 21, 2000, 114 Stat. 2763,
 
 Qualified MWAA Police Officer Defined.—For purposes of this section, the term ‘qualified MWAA police officer’ means any individual who, as of the date of the enactment of this Act \[Dec. 21, 2000\]—
 
-&emsp;“(1) is employed as a member of the police force of the Metropolitan Washington Airports Authority (hereafter in this section referred to as an ‘MWAA police officer’); and
+&emsp;“(1) is employed as a member of the police force of the Metropolitan Washington Airports Authority\(hereafter in this section referred to as an ‘MWAA police officer’); and
 
 &emsp;“(2) is subject to the Civil Service Retirement System or the Federal Employees’ Retirement System by virtue of section 49107(b) of title 49, United States Code.
 

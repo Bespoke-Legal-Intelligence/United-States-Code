@@ -4,7 +4,3 @@ By submitting or approving a plan under this subchapter, neither the tribe nor t
 
 (Pub. L. 103–412, title II, §207, Oct. 25, 1994, 108 Stat. 4243.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4022 of this title.
-

@@ -4,7 +4,3 @@ Under any law heretofore or hereafter enacted by any State, providing for the re
 
 (June 11, 1896, ch. 420, 29 Stat. 434.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 644, 646, 647 of this title.
-

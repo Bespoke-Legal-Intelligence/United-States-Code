@@ -52,7 +52,7 @@ Effects of Election.—When a person from whom additional legally applicable fre
 
 (f)
 
-Stay of Additional Compensation.—When a person proceeds under this section to challenge the reasonableness of the legally applicable freight rate or charges being claimed by a carrier or freight forwarder in addition to those already billed and collected, the person shall not have to pay any additional compensation to the carrier or freight forwarder until the Board has made a determination as to the reasonableness of the challenged rate as applied to the freight of the person against whom the claim is made.
+Stay of Additional Compensation.—When a person proceeds under this section to challenge the reasonableness of the legally applicable freight rate or charges being claimed by a carrier or freight forwarder in addition to those already billed and collected, the person shall not have to pay any additional compensation to thecarrier or freight forwarder until the Board has made a determination as to the reasonableness of the challenged rate as applied to the freight of the person against whom the claim is made.
 
 (g)
 
@@ -135,8 +135,4 @@ Subsec. (e). Pub. L. 104–287, §5(29)(B), substituted “January 1, 1996” fo
 #### Abolition of Interstate Commerce Commission
 
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13711 of this title.
 

@@ -26,10 +26,6 @@
 
 1954—Act July 27, 1954, ch. 583, §2, 68 Stat. 567, added item 2074.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 652, 653, 654 of this title.
-
 
 ---
 

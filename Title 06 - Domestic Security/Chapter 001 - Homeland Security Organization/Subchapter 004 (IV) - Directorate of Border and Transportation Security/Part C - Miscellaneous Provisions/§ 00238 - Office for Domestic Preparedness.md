@@ -24,13 +24,19 @@ The Office for Domestic Preparedness shall have the primary responsibility withi
 
 &emsp;(6) as the lead executive branch agency for preparedness of the United States for acts of terrorism, cooperating closely with the Federal Emergency Management Agency, which shall have the primary responsibility within the executive branch to prepare for and mitigate the effects of nonterrorist-related disasters in the United States;
 
-&emsp;(7) assisting and supporting the Secretary, in coordination with other Directorates and entities outside the Department, in conducting appropriate risk analysis and risk managementactivities of State, local, and tribal governments consistent with the mission and functions of the Directorate; and
+&emsp;(7) assisting and supporting the Secretary, in coordination with other Directorates and entities outside the Department, in conducting appropriate risk analysis and risk management activities of State, local, and tribal governments consistent with the mission and functions of the Directorate;
 
-&emsp;(8) those elements of the Office of National Preparedness of the Federal Emergency Management Agency which relate to terrorism, which shall be consolidated within the Department in the Office for Domestic Preparedness established under this section.
+&emsp;(8) those elements of the Office of National Preparedness of the Federal Emergency Management Agency which relate to terrorism, which shall be consolidated within the Department in the Office for Domestic Preparedness established under this section; and
+
+&emsp;(9) helping to ensure the acquisition of interoperable communication technology by State and local governments and emergency response providers.
 
 #### (d) Fiscal years 2003 and 2004
 
 During fiscal year 2003 and fiscal year 2004, the Director of the Office for Domestic Preparedness established under this section shall manage and carry out those functions of the Office for Domestic Preparedness of the Department of Justice (transferred under this section) before September 11, 2001, under the same terms, conditions, policies, and authorities, and with the required level of personnel, assets, and budget before September 11, 2001.
 
-(Pub. L. 107–296, title IV, §430, Nov. 25, 2002, 116 Stat. 2191.)
+(Pub. L. 107–296, title IV, §430, Nov. 25, 2002, 116 Stat. 2191; Pub. L. 108–458, title VII, §7303(h)(2), Dec. 17, 2004, 118 Stat. 3847.)
+
+#### Amendments
+
+2004—Subsec. (c)(9). Pub. L. 108–458 added par. (9).
 

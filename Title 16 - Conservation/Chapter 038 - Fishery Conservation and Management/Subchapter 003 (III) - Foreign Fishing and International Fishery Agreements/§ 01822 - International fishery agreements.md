@@ -110,7 +110,7 @@ It is the sense of the Congress that the United States Government shall not reco
 
 (3) Not later than January 1, 1997, and annually thereafter, the Secretary, in consultation with the Secretary of State, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a report describing actions taken under this subsection.
 
-(Pub. L. 94–265, title II, §202, Apr. 13, 1976, 90 Stat. 339; Pub. L. 99–659, title I, §101(c)(2), Nov.14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §§105(a), 120(a), Nov. 28, 1990, 104 Stat. 4439, 4459; Pub. L. 102–251, title III, §301(e), Mar. 9, 1992, 106 Stat. 63; Pub. L. 104–297, title I, §105(b), Oct. 11, 1996, 110 Stat. 3564.)
+(Pub. L. 94–265, title II, §202, Apr. 13, 1976, 90 Stat. 339; Pub. L. 99–659, title I, §101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §§105(a), 120(a), Nov. 28, 1990, 104 Stat. 4439, 4459; Pub. L. 102–251, title III, §301(e), Mar. 9, 1992, 106 Stat. 63; Pub. L. 104–297, title I, §105(b), Oct. 11, 1996, 110 Stat. 3564.)
 
 #### Amendment of Section
 
@@ -118,7 +118,7 @@ It is the sense of the Congress that the United States Government shall not reco
 
 <i>(1) in subsection (b), (A) by inserting “or special areas” immediately after “February 28, 1977)” and (B) by striking “such zone or area” and inserting in lieu thereof “such zone or areas”; and</i>
 
-<i>(2) in subsection (c), (A) by inserting “or special areas” immediately after “February 28, 1977)” and (B) by striking “such zone or area” and inserting in lieu thereof “such zone or areas”.</i>
+<i>(2) in subsection (c), (A) by inserting “or special areas” immediately after “February 28,</i><i>1977)” and (B) by striking “such zone or area” and inserting in lieu thereof “such zone or areas”.</i>
 
 #### Amendments
 
@@ -196,7 +196,7 @@ Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, provided that:
 
 “The Secretary of Commerce, subject to the availability of appropriations authorized by section 10, shall establish a research program for Pacific and Atlantic sharks to engage in the following data collection and research:
 
-&emsp;“(1) The collection of data to support stock assessments of shark populations subject to incidental or directed harvesting by commercial vessels, givingpriority to species according to vulnerability of the species to fishing gear and fishing mortality, and its population status.
+&emsp;“(1) The collection of data to support stock assessments of shark populations subject to incidental or directed harvesting by commercial vessels, giving priority to species according to vulnerability of the species to fishing gear and fishing mortality, and its population status.
 
 &emsp;“(2) Research to identify fishing gear and practices that prevent or minimize incidental catch of sharks in commercial and recreational fishing.
 
@@ -210,7 +210,7 @@ Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, provided that:
 
 #### “SEC. 8. WESTERN PACIFIC LONGLINE FISHERIES COOPERATIVE RESEARCH PROGRAM.
 
-“The National Marine Fisheries Service, in consultation with the Western Pacific Fisheries Management Council, shall initiate a cooperative research program with the commercial longlining industry to carry out activities consistent with this Act, including research described in section 7 of this Act. The service \[Service\] may initiate such shark cooperative research programs upon the request of any other fishery management council.
+“The National Marine Fisheries Service, in consultation with the Western Pacific Fisheries ManagementCouncil, shall initiate a cooperative research program with the commercial longlining industry to carry out activities consistent with this Act, including research described in section 7 of this Act. The service \[Service\] may initiate such shark cooperative research programs upon the request of any other fishery management council.
 
 #### “SEC. 9. SHARK-FINNING DEFINED.
 
@@ -294,7 +294,7 @@ Driftnet.—The term ‘driftnet’ means a gillnet composed of a panel of plast
 
 &emsp;“(2)
 
-Driftnet fishing.—The term ‘driftnet fishing’ means a fish-harvesting method in which a driftnet is placed in water and allowed to drift with the currentsand winds for the purpose of entangling fish in the webbing.
+Driftnet fishing.—The term ‘driftnet fishing’ means a fish-harvesting method in which a driftnet is placed in water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
 
 &emsp;“(3)
 
@@ -320,7 +320,7 @@ Secretary.—The term ‘Secretary’ means the Secretary of Commerce.
 
 “(a)
 
-Negotiations.—The Secretary, through the Secretary of State and in consultation with the Secretary of the Interior, shall immediately initiate, negotiations with each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for statistically reliable cooperative monitoring and assessment of the numbers of marine resources of the United States killed and retrieved, discarded, or lost by the foreign government's driftnet fishing vessels. Such agreements shall provide for—
+Negotiations.—The Secretary, through the Secretary of State and in consultation with the Secretary of the Interior, shall immediately initiate, negotiationswith each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for statistically reliable cooperative monitoring and assessment of the numbers of marine resources of the United States killed and retrieved, discarded, or lost by the foreign government's driftnet fishing vessels. Such agreements shall provide for—
 
 &emsp;“(1) the use of a sufficient number of vessels from which scientists of the United States and the foreign governments may observe and gather statistically reliable information; and
 
@@ -413,10 +413,6 @@ Report.—The Secretary shall transmit to the Congress not later than 18 months 
 “There are authorized to be appropriated to the Department of Commerce and the Department of State, such sums as may be necessary to carry out the purposes of this title.”
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1821 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

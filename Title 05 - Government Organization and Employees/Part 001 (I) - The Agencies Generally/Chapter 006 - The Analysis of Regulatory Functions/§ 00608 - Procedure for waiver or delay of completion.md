@@ -6,7 +6,3 @@
 
 (Added Pub. L. 96–354, §3(a), Sept. 19, 1980, 94 Stat. 1168.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 611 of this title.
-

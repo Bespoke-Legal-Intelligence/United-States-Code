@@ -44,7 +44,3 @@ Subsec. (f). Pub. L. 101–629, §19(a)(1)(B), (2)(E)(ii), substituted “this p
 
 Enactment of this section not to be construed to supersede or limit the functions under any other provision of law of any officer or agency of the United States, see section 4 of Pub. L. 90–602, set out as a note under section 360hh of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 360<i>ll</i>, 360<i>oo</i> of this title.
-

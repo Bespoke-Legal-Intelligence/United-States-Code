@@ -4,7 +4,3 @@ The net proceeds derived from the sale and entry of surplus lands in conformity 
 
 (Feb. 27, 1917, ch. 133, §4, 39 Stat. 945.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 87, 88 of this title.
-

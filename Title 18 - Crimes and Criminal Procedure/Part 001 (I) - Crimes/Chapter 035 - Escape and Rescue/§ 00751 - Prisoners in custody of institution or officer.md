@@ -36,7 +36,3 @@ Changes were made in phraseology and arrangement.
 
 Words “magistrate judge” substituted for “magistrate” in subsecs. (a) and (b) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2516, 3050, 3592 of this title; title 8 section 1537.
-

@@ -30,7 +30,7 @@
 
 #### References in Text
 
-The Toxic Substances Control Act, referred to in subsec. (b)(2)(A), (3)(A), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended. Title II of the Act, as added by Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
+The Toxic Substances Control Act, referred to in subsec. (b)(2)(A), (3)(A), is Pub. L. 94–469, Oct. 11, 1976, 90Stat. 2003, as amended. Title II of the Act, as added by Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
 #### Amendments
 
@@ -57,8 +57,4 @@ Subsec. (b)(3). Pub. L. 101–637, §11(b), added par. (3).
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4014 of this title; title 15 section 2656.
 

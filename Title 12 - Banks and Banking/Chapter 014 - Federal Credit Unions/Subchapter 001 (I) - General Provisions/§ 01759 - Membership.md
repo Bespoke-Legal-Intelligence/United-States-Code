@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-Subject to subsection (b) of this section, Federal credit union membership shall consist of the incorporators and such other persons and incorporated and unincorporated organizations, to the extent permitted by rules and regulationsprescribed by the Board, as may be elected to membership and as such shall each, subscribe to at least one share of its stock and pay the initial installment thereon and a uniform entrance fee if required by the board of directors. Shares may be issued in joint tenancy with right of survivorship with any persons designated by the credit union member, but no joint tenant shall be permitted to vote, obtain loans, or hold office, unless he is within the field of membership and is a qualified member.
+Subject to subsection (b) of this section, Federal credit union membership shall consist of the incorporators and such other persons and incorporated and unincorporated organizations, to the extent permitted by rules and regulations prescribed by the Board, as may be elected to membership and as such shall each, subscribe to at least one share of its stock and pay the initial installment thereon and a uniform entrance fee if required by the board of directors. Shares may be issued in joint tenancy with right of survivorship with any persons designated by the credit union member, but no joint tenant shall be permitted to vote, obtain loans, or hold office, unless he is within the field of membership and is a qualified member.
 
 #### (b) Membership field
 
-Subject to the other provisions of this section, the membership of any Federal credit union shall be limited to the membership described in one of the following categories:
+Subject to the other provisions of this section, the membership of any Federal credit unionshall be limited to the membership described in one of the following categories:
 
 #### (1) Single common-bond credit union
 
@@ -76,7 +76,7 @@ Subject to the other provisions of this section, the membership of any Federal c
 
 &emsp;&emsp;&emsp;(ii) by the Board in the Board's capacity as conservator or liquidating agent with respect to that other credit union; or
 
-&emsp;&emsp;(C) any group transferred in connection with a voluntary merger, having received conditional approval by the Administrationof the merger application prior to October 25, 1996, but not having consummated the merger prior to October 25, 1996, if the merger is consummated not later than 180 days after August 7, 1998.
+&emsp;&emsp;(C) any group transferred in connection with a voluntary merger, having received conditional approval by the Administration of the merger application prior to October 25, 1996, but not having consummated the merger prior to October 25, 1996, if the merger is consummated not later than 180 days after August 7, 1998.
 
 #### (3) Regulations and guidelines
 

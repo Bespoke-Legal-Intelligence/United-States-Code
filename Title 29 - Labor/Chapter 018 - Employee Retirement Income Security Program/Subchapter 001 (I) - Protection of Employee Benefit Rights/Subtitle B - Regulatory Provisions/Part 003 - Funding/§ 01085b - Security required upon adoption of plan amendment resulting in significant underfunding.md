@@ -34,7 +34,7 @@ The security shall be in an amount equal to the excess of—
 
 #### (d) Release of security
 
-The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at the end of the first plan year which ends after the provision of the security and for which the funded current liability percentage under the plan is not less than 60 percent. The Secretary of the Treasury may prescribe regulations for partial releases of the security by reason of increases in the funded current liability percentage.
+The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at the end of the first plan year which ends after the provision of the security and for which the funded current liability percentage under the plan is not less than 60 percent. The Secretary of theTreasury may prescribe regulations for partial releases of the security by reason of increases in the funded current liability percentage.
 
 #### (e) Notice
 
@@ -67,8 +67,4 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 #### Effective Date
 
 This section applicable to plan amendments adopted after Dec. 22, 1987, except that, in the case of a plan maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers ratified before Dec. 22, 1987, this section not applicable to plan amendments adopted pursuant to collective bargaining agreements ratified before Dec. 22, 1987, see section 9341(c) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 401 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1371 of this title.
 

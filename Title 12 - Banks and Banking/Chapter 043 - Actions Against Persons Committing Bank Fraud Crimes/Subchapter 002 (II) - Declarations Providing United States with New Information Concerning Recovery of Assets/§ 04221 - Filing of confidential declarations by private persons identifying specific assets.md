@@ -10,7 +10,3 @@ A declaration under subsection (a) of this section shall be filed with the Attor
 
 (Pub. L. 101–647, title XXV, §2576, Nov. 29, 1990, 104 Stat. 4899.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4222, 4223, 4224, 4225, 4226 of this title.
-

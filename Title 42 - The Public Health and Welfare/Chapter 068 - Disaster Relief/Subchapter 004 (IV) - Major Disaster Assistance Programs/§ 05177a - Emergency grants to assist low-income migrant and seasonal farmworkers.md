@@ -28,7 +28,3 @@ Section was enacted as part of the Food, Agriculture, Conservation, and Trade Ac
 
 2002—Subsec. (a). Pub. L. 107–171 struck out “, not to exceed $20,000,000 annually,” after “Secretary of Agriculture may make grants”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 917; title 19 section 3391.
-

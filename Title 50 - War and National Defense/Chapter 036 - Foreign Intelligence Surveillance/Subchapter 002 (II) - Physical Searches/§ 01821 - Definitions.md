@@ -34,7 +34,3 @@ A prior section 301 of Pub. L. 95–511 was renumbered section 601 and is set ou
 
 Section 807(c) of Pub. L. 103–359 provided that: “The amendments made by subsections (a) and (b) \[enacting this subchapter and amending provisions set out as a note under section 1801 of this title\] shall take effect 90 days after the date of enactment of this Act \[Oct. 14, 1994\], except that any physical search approved by the Attorney General of the United States to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of title III of the Foreign Intelligence Surveillance Act of 1978 \[this subchapter\] (as added by this Act), if that search is conducted within 180 days after the date of enactment of this Act pursuant to regulations issued by the Attorney General, which were in the possession of the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives before the date of enactment of this Act.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1822 of this title.
-

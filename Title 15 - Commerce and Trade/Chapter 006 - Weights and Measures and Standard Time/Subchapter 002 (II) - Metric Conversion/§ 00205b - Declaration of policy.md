@@ -20,7 +20,3 @@ It is therefore the declared policy of the United States—
 
 Secretary of Commerce designated to direct and coordinate implementation of Government metric usage, see section 1 of Ex. Ord. No. 12770, July 25, 1991, 56 F.R. 35801, set out as a note under section 205a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 205<i>l</i> of this title.
-

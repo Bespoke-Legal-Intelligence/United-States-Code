@@ -1,6 +1,6 @@
 ### §11103. Switch connections and tracks
 
-(a) On application of the owner of a lateral branch line of railroad, or of a shipper tendering interstate traffic for transportation, a rail carrier providing transportation subject to the jurisdiction of the Board under this part shall construct, maintain, and operate, on reasonable conditions, a switch connection to connect that branch line or private side track with its railroad and shall furnish cars to move that traffic to the best of its ability without discrimination in favor of or against the shipper when the connection—
+(a) On application of the owner of a lateral branch line of railroad, or of a shipper tendering interstate traffic for transportation, a rail carrier providing transportation subject to the jurisdiction of the Board under this part shall construct, maintain, and operate, on reasonable conditions, a switch connection to connect that branch line or private side track with its railroad and shall furnish cars to move that traffic to the best of its ability without discriminationin favor of or against the shipper when the connection—
 
 &emsp;(1) is reasonably practicable;
 
@@ -35,8 +35,4 @@ Section 11109, added Pub. L. 96–296, §15(a)(1), July 1, 1980, 94 Stat. 808, r
 Section 11110, added Pub. L. 96–454, §6(a)(1), Oct. 15, 1980, 94 Stat. 2015, related to household goods carrier operations. See section 14104 of this title.
 
 Section 11111, added Pub. L. 97–261, §25(d)(1), Sept. 20, 1982, 96 Stat. 1125, related to use of citizen band radios on buses.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10501 of this title.
 

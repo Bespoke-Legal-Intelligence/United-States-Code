@@ -4,7 +4,7 @@ The Secretary may not make a grant under section 300k of this title unless—
 
 &emsp;(1) the State involved submits to the Secretary a description of the purposes for which the State intends to expend the grant;
 
-&emsp;(2) the description identifies the populations, areas, and localities in the State with a needfor the services or activities described in section 300k(a) of this title;
+&emsp;(2) the description identifies the populations, areas, and localities in the State with a need for the services or activities described in section 300k(a) of this title;
 
 &emsp;(3) the description provides information relating to the services and activities to be provided, including a description of the manner in which the services and activities will be coordinated with any similar services or activities of public and private entities; and
 
@@ -29,8 +29,4 @@ Par. (4). Pub. L. 103–183, §101(g)(2)(B), inserted “will” after “grant 
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300n–2 of this title.
 

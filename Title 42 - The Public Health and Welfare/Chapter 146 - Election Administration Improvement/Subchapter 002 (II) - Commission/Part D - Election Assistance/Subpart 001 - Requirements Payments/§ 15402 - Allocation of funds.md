@@ -26,7 +26,7 @@ The amount of a requirements payment made to a State for a year may not be less 
 
 #### (d) Pro rata reductions
 
-The Administrator shall make such pro rata reductions to the allocations determined under subsection (a) of this section as are necessary to comply with the requirements of subsection (c) of this section.
+The Administrator <sup>1</sup> shall make such pro rata reductions to the allocations determined under subsection (a) of this section as are necessary to comply with the requirements of subsection (c) of this section.
 
 #### (e) Continuing availability of funds after appropriation
 
@@ -34,7 +34,5 @@ A requirements payment made to a State under this subpart shall be available to 
 
 (Pub. L. 107–252, title II, §252, Oct. 29, 2002, 116 Stat. 1693.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15401 of this title.
+<i><sup>1</sup></i><i> So in original. Probably should be “Commission”.</i>
 

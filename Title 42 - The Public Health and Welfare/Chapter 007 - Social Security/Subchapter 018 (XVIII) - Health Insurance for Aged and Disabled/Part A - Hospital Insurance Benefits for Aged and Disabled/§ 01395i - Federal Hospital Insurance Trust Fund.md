@@ -12,7 +12,7 @@ There is hereby created on the books of the Treasury of the United States a trus
 
 #### (b) Board of Trustees; composition; meetings; duties
 
-With respect to the Trust Fund, there is hereby created a body to be known as the Board of Trustees of the Trust Fund (hereinafter in this section referred to as the “Board of Trustees”) composed of the Commissioner of Social Security, the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate. A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term. The Secretary of the Treasury shall be the Managing Trustee of the Board of Trustees (hereinafter in this section referred to as the “Managing Trustee”). The Administrator of the Centers for Medicare \& Medicaid Services shall serve as the Secretary of the Board of Trustees. The Board of Trustees shall meet not less frequently than once each calendar year. It shall be the duty of the Board of Trustees to—
+With respect to the Trust Fund, there is hereby created a body to be known as the Board of Trustees of the Trust Fund (hereinafter in this section referred to as the “Board of Trustees”) composed of the Commissioner of Social Security, the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate. A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expirationof such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term. The Secretary of the Treasury shall be the Managing Trustee of the Board of Trustees (hereinafter in this section referred to as the “Managing Trustee”). The Administrator of the Centers for Medicare \& Medicaid Services shall serve as the Secretary of the Board of Trustees. The Board of Trustees shall meet not less frequently than once each calendar year. It shall be the duty of the Board of Trustees to—
 
 &emsp;(1) Hold the Trust Fund;
 
@@ -88,7 +88,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;(i) the combined balance in the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, reduced by the outstanding amount of any loan (including interest thereon) theretofore made to either such Trust Fund from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title, as of the last day of the second month preceding such month, to
 
-&emsp;(ii) the amount obtained by multiplying by twelve the total amount which (as estimated by the Secretary) will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund during the month for which such ratio is to be determined for all purposes authorized by section 401 of this title (other than payments of interest on, or repayments of, loans from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title),but excluding any transfer payments between such trust funds and reducing the amount of any transfers to the Railroad Retirement Account by the amount of any transfers into either such trust fund from that Account.
+&emsp;(ii) the amount obtained by multiplying by twelve the total amount which (as estimated by the Secretary) will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund during the month for which such ratio is to be determined for all purposes authorized by section 401 of this title (other than payments of interest on, or repayments of, loans from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title), but excluding any transfer payments between such trust funds and reducing the amount of any transfers to the Railroad Retirement Account by the amount of any transfers into either such trust fund from that Account.
 
 #### (k) Health Care Fraud and Abuse Control Account
 
@@ -134,7 +134,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;There are hereby appropriated to the Account from the Trust Fund such sums as the Secretary and the Attorney General certify are necessary to carry out the purposes described in subparagraph (C), to be available without further appropriation, in an amount not to exceed—
+&emsp;&emsp;&emsp;There are hereby appropriated to the Account from the Trust Fund such sums as the Secretary and the Attorney General certify are necessary to carry out the purposes described in subparagraph (C), to beavailable without further appropriation, in an amount not to exceed—
 
 &emsp;&emsp;&emsp;&emsp;(I) for fiscal year 1997, $104,000,000;
 
@@ -180,7 +180,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (C) Use of funds
 
-&emsp;&emsp;The purposes described in this subparagraph are to cover the costs (including equipment, salaries and benefits, and traveland training) of the administration and operation of the health care fraud and abuse control program established under section 1320a–7c(a) of this title, including the costs of—
+&emsp;&emsp;The purposes described in this subparagraph are to cover the costs (including equipment, salaries and benefits, and travel and training) of the administration and operation of the health care fraud and abuse control program established under section 1320a–7c(a) of this title, including the costs of—
 
 &emsp;&emsp;&emsp;(i) prosecuting health care matters (through criminal, civil, and administrative proceedings);
 
@@ -238,7 +238,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;(C) identifies any savings to the Trust Fund, and any other savings, resulting from expenditures from the Trust Fund; and
 
-&emsp;&emsp;(D) analyzes such other aspects of the operation of the Trust Fund as the Comptroller General of the United States considers appropriate.
+&emsp;&emsp;(D) analyzes such other aspects of the operation of the Trust Fund as the ComptrollerGeneral of the United States considers appropriate.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1817, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 299; amended Pub. L. 90–248, title I, §169(a), Jan. 2, 1968, 81 Stat. 875; Pub. L. 92–603, title I, §132(d), Oct. 30, 1972, 86 Stat. 1361; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 96–265, title III, §310(c), June 9, 1980, 94 Stat. 460; Pub. L. 97–123, §1(b), Dec. 29, 1981, 95 Stat. 1659; Pub. L. 98–21, title I, §§141(b), 142(b)(1), (2)(A), (3), (4), 154(b), title III, §341(b), Apr. 20, 1983, 97 Stat. 98, 100, 101, 107, 135; Pub. L. 98–369, div. B, title III, §§2337(a), 2354(b)(2), title VI, §2663(j)(2)(F)(i), July 18, 1984, 98 Stat. 1091, 1100, 1170; Pub. L. 99–272, title IX, §9213(b), Apr. 7, 1986, 100 Stat. 180; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–360, title II, §212(c)(3), July 1, 1988, 102 Stat. 741; Pub. L. 100–647, title VIII, §8005(a), Nov. 10, 1988, 102 Stat. 3781; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title V, §5106(c), Nov. 5, 1990, 104 Stat. 1388–268; Pub. L. 103–296, title I, §108(c)(1), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 104–191, title II, §201(b), Aug. 21, 1996, 110 Stat. 1993; Pub. L. 105–33, title IV, §4318, Aug. 5, 1997, 111 Stat. 392; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(j)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title VII, §736(a)(5), (6), title VIII, §801(d)(1), title IX, §900(e)(1)(D), Dec. 8, 2003, 117 Stat. 2355, 2359, 2371.)
 
@@ -366,15 +366,11 @@ Amendment by Pub. L. 97–123 effective Dec. 29, 1981, see section 1(c) of Pub. 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–292 effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as a note under section 426 of this title.
+Amendment by Pub. L. 95–292 effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effectivewith respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as a note under section 426 of this title.
 
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–603 applicable with respect to gifts and bequests received after Oct. 30, 1972, see section 132(f) of Pub. L. 92–603, set out as a note under section 401 of this title.
-
-#### Termination of Reporting Requirements
-
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (b)(2) of this section are listed in item 7 on page 143), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 #### Restoration of Medicare Trust Funds
 
@@ -614,11 +610,7 @@ Restoration payment.—Notwithstanding any other provision of law, if the Federa
 
 #### Due Date for 1983 Report on Operation and Status of Trust Fund
 
-Notwithstanding subsec. (b)(2) of this section, the annual report of the Board of Trustees of the Trust Fund required for calendar year 1983 under this section may be filed at any time not later than forty-five days after Apr. 20, 1983, see section 154(d) of Pub. L. 98–21, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 401, 417, 426a, 429, 910, 1320a–7a, 1320b–12, 1395b–1, 1395i–1, 1395gg, 1395vv, 1395yy, 1395ggg, 1396m of this title.
+Notwithstanding subsec. (b)(2) of this section, the annual report of the Board of Trustees of the Trust Fundrequired for calendar year 1983 under this section may be filed at any time not later than forty-five days after Apr. 20, 1983, see section 154(d) of Pub. L. 98–21, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. See 2003 Amendment note below.</i>
 

@@ -34,7 +34,7 @@ A food additive shall, with respect to any particular use or intended use of suc
 
 (3) Upon request of the Secretary, the petitioner shall furnish (or, if the petitioner is not the manufacturer of such additive, the petitioner shall have the manufacturer of such additive furnish, without disclosure to the petitioner) a full description of the methods used in, and the facilities and controls used for, the production of such additive.
 
-(4) Upon request of the Secretary, the petitioner shall furnish samples of the food additive involved, or articles used as components thereof,and of the food in or on which the additive is proposed to be used.
+(4) Upon request of the Secretary, the petitioner shall furnish samples of the food additive involved, or articles used as components thereof, and of the food in or on which the additive is proposed to be used.
 
 (5) Notice of the regulation proposed by the petitioner shall be published in general terms by the Secretary within thirty days after filing.
 
@@ -80,7 +80,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (1) Within thirty days after publication of an order made pursuant to subsection (c) or (d) of this section, any person adversely affected by such an order may file objections thereto with the Secretary, specifying with particularity the provisions of the order deemed objectionable, stating reasonable grounds therefor, and requesting a public hearing upon such objections. The Secretary shall, after due notice, as promptly as possible hold such public hearing for the purpose of receiving evidence relevant and material to the issues raised by such objections. As soon as practicable after completion of the hearing, the Secretary shall by order act upon such objections and make such order public.
 
-(2) Such order shall be based upon a fair evaluation of the entire record at such hearing, andshall include a statement setting forth in detail the findings and conclusions upon which the order is based.
+(2) Such order shall be based upon a fair evaluation of the entire record at such hearing, and shall include a statement setting forth in detail the findings and conclusions upon which the order is based.
 
 (3) The Secretary shall specify in the order the date on which it shall take effect, except that it shall not be made to take effect prior to the ninetieth day after its publication, unless the Secretary finds that emergency conditions exist necessitating an earlier effective date, in which event the Secretary shall specify in the order his findings as to such conditions.
 
@@ -92,7 +92,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (3) The court, on such judicial review, shall not sustain the order of the Secretary if he failed to comply with any requirement imposed on him by subsection (f)(2) of this section.
 
-(4) If application is made to the court for leave to adduce additional evidence, the court may order such additional evidence to be taken before the Secretary and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper, if such evidence is material and there were reasonable grounds for failure to adduce such evidence in the proceedings below. The Secretary may modify his findings as to the facts and order by reason of the additional evidence so taken, and shall file with the court such modified findings and order.
+(4) If application is made to the court for leave to adduce additional evidence, the court may order such additional evidence to be taken before the Secretary and to be adduced upon the hearing in such manner and upon such termsand conditions as to the court may seem proper, if such evidence is material and there were reasonable grounds for failure to adduce such evidence in the proceedings below. The Secretary may modify his findings as to the facts and order by reason of the additional evidence so taken, and shall file with the court such modified findings and order.
 
 (5) The judgment of the court affirming or setting aside, in whole or in part, any order under this section shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28. The commencement of proceedings under this section shall not, unless specifically ordered by the court to the contrary, operate as a stay of an order.
 
@@ -162,11 +162,13 @@ Subsec. (j). Pub. L. 105–115, §309(b)(1), (4), redesignated subsec. (i) as (j
 
 1962—Subsec. (c)(3)(A). Pub. L. 87–781 excepted proviso from applying to use of a substance as an ingredient of feed for animals raised for food production, if under conditions of use specified in proposed labeling, and which conditions are reasonably certain to be followed in practice, such additive will not adversely affect the animals and no residue will be found in any edible portion of such animal after slaughter, or in any food from the living animal.
 
-1960—Subsec. (g)(2). Pub. L. 86–546 substituted “forthwith transmitted by the clerk of the court to the Secretary, or any officer” for “served upon the Secretary, or upon any officer”, “shall file in the court the record of the proceedings on which he based his order, as provided in section 2112 of title 28” for “shall certify and file in the court a transcript of the proceedings and therecord on which he based his order”, and “Upon the filing of such petition the court shall have jurisdiction, which upon the filing of the record with it shall be exclusive,” for “Upon such filing, the court shall have exclusive jurisdiction”, and inserted sentence authorizing the Secretary to modify or set aside his order until the filing of the record.
+1960—Subsec. (g)(2). Pub. L. 86–546 substituted “forthwith transmitted by the clerk of the court to the Secretary, or any officer” for “served upon the Secretary, or upon any officer”, “shall file in the court the record of the proceedings on which he based his order, as provided in section 2112 of title 28” for “shall certify and file in the court a transcript of the proceedings and the record on which he based his order”, and “Upon the filing of such petition the court shall have jurisdiction, which upon the filing of the record with it shall be exclusive,” for “Upon such filing, the court shall have exclusive jurisdiction”, and inserted sentence authorizing the Secretary to modify or set aside his order until the filing of the record.
 
 #### Change of Name
 
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1997 Amendment
 
@@ -186,7 +188,7 @@ Section effective Sept. 6, 1958, see section 6(a) of Pub. L. 85–929, set out a
 
 #### Transfer of Functions
 
-Functions vested in Secretary of Health, Education, and Welfare \[now Health and Human Services\] in establishing tolerances for pesticide chemicals under this section together with authority to monitor compliance with tolerances and effectiveness of surveillance and enforcement and to provide technical assistance to States and conduct research under this chapter and section 201 et seq. of Title 42, The Public Health and Welfare, transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3 of 1970, §2(a)(4), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested in Secretary of Health, Education, and Welfare \[now Health and Human Services\] in establishing tolerances for pesticide chemicals under this section together with authority to monitor compliance with tolerances and effectiveness of surveillance and enforcement and to provide technical assistance to States and conduct research under this chapter and section 201 et seq. of Title 42, The Public Health and Welfare, transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3 of 1970,§2(a)(4), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Glass and Ceramic Ware
 
@@ -217,8 +219,4 @@ Pub. L. 95–203, §3, Nov. 23, 1977, 91 Stat. 1452, as amended by Pub. L. 96–
 > solely on the basis of the carcinogenic or other toxic effect of saccharin as determined by any study made available to the Secretary before the date of the enactment of this Act \[Nov. 23, 1977\] which involved human studies or animal testing, or both.”
 
 For definition of “saccharin” as used in this note, see section 2(d) of Pub. L. 95–203.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 321, 331, 342, 343–3, 346a, 379e, 453, 601, 1033 of this title; title 7 sections 136, 450i; title 15 section 1262; title 35 section 155.
 

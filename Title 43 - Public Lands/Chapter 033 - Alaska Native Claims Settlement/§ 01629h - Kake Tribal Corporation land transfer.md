@@ -18,7 +18,7 @@ If—
 
 #### (c) Lands subject to exchange
 
-(1) The lands to be transferred to the City of Kake under subsection (a) of this section are the surface and subsurface estate to approximately 1,430 acres of land owned by Kake Tribal Corporation and Sealaska Corporation, and depicted as “KTC Land to City of Kake” on the map entitled “Kake Land Exchange-2000”, dated May 2000.
+(1) The lands to be transferred to the City of Kake under subsection (a) of this section are thesurface and subsurface estate to approximately 1,430 acres of land owned by Kake Tribal Corporation and Sealaska Corporation, and depicted as “KTC Land to City of Kake” on the map entitled “Kake Land Exchange-2000”, dated May 2000.
 
 (2) The lands subject to relinquishment by the State of Alaska and to conveyance to Kake Tribal Corporation and Sealaska Corporation under subsection (a) of this section are the surface and subsurface estate to approximately 1,389 acres of Federal lands depicted as “Jenny Creek-Land Selected by the State of Alaska to KTC” on the map entitled “Kake Land Exchange-2000”, dated May 2000.
 

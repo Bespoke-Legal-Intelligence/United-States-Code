@@ -2,7 +2,7 @@
 
 #### (a) Program administration
 
-To ensure national coordination with other federally supported agricultural research and extension programs, administration of each State program shall be the responsibility of the colleges and universities eligible to receive funds under the Act of July 2, 1862 \[7 U.S.C. 301 et seq.\], and the Act of August 30, 1890 \[7 U.S.C. 321 et seq.\], including Tuskegee Institute. In States that contain more than one such institution, such administration shall be the responsibility of the institution designated by mutual agreement of all such institutions, subject to approval by the Secretary of Agriculture. The Secretary shall pay funds available to each State to such institution or university. Such administration shall be coordinated with other federally supported agricultural research and extension programs conducted in the State.
+To ensure national coordination with other federally supported agricultural research and extension programs, administration of each State program shall be the responsibility of the colleges and universities eligible to receive funds under the Act of July 2, 1862 \[7 U.S.C. 301 et seq.\], and the Act of August 30, 1890 \[7 U.S.C. 321 et seq.\], including Tuskegee Institute. In States that contain more than one such institution, such administration shall be the responsibility of the institution designated by mutual agreement of all such institutions, subject to approval by the Secretary of Agriculture. TheSecretary shall pay funds available to each State to such institution or university. Such administration shall be coordinated with other federally supported agricultural research and extension programs conducted in the State.
 
 #### (b) Eligibility for participation
 
@@ -31,8 +31,4 @@ A prior section 2664, Pub. L. 92–419, title V, §504, Aug. 30, 1972, 86 Stat. 
 #### Effective Date
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2663 of this title.
 

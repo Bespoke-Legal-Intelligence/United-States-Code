@@ -20,7 +20,7 @@ Determinations under subsection (b)(3) of this section with respect to a period 
 
 #### Amendments
 
-1984—Subsec. (b)(1). Pub. L. 98–426, §6(a), substituted provisions setting a maximum compensation for disability on death of 200 per centum of the applicable national average weekly wage as determined by the Secretary for former provisions which had set out a schedule of progressive percentages of 125 per centum or $167, whichever is greater, during the period ending September 30, 1973, 150 per centum during the period beginning October 1, 1973, and ending September 30, 1974, 175 per centum during the period beginning October 1, 1974, and ending September 30, 1975, and 200 per centum beginning October 1, 1975.
+1984—Subsec. (b)(1). Pub. L. 98–426, §6(a), substituted provisions setting a maximum compensation for disability on death of 200 per centum of the applicable national average weekly wage as determined by the Secretary for former provisions which had set out a schedule of progressive percentages of 125 per centum or $167, whichever is greater, during the period ending September 30, 1973, 150 per centum during the period beginningOctober 1, 1973, and ending September 30, 1974, 175 per centum during the period beginning October 1, 1974, and ending September 30, 1975, and 200 per centum beginning October 1, 1975.
 
 Subsecs. (c), (d). Pub. L. 98–426, §6(b), redesignated subsec. (d) as (c) and substituted “under subsection (b)(3) of this section” for “under this subsection”. Former subsec. (c), which had directed that the maximum rate of compensation for a nonappropriated fund instrumentality employee be equal to 662/3 per centum of the maximum rate of basic pay established for a Federal employee in grade GS–12 by section 5332 of title 5 and the minimum rate of compensation for such an employee be equal to 662/3 per centum of the minimum rate of basic pay established for a Federal employee in grade GS–2 by such section, was struck out.
 
@@ -55,8 +55,4 @@ Section 9 of act July 26, 1956, provided that: “The amendments made by the fir
 #### Effective Date of 1948 Amendment
 
 Section 6 of act June 24, 1948, provided that: “The provisions of this Act \[amending this section and sections 908, 909, 910, and 914 of this title\] shall be applicable only to injuries or deaths occurring on or after the effective date hereof \[June 24, 1948\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 909, 910 of this title; title 42 sections 1652, 1702.
 

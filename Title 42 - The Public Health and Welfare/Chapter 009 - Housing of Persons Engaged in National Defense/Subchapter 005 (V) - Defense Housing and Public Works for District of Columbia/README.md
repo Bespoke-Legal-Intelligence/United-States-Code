@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—DEFENSE HOUSING AND PUBLIC WORKS FOR DISTRICT OF COLUMBIA
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1522, 1524, 1542, 1544, 1547, 1548, 1549, 1550, 1553, 1581, 1584, 1585, 1586, 1588, 1589, 1589b, 1590 of this title; title 12 sections 1715m, 1745.
-
 
 ---
 

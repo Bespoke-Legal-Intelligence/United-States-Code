@@ -2,9 +2,9 @@
 
 (a)(1) In carrying out their respective duties and responsibilities under this chapter, the Administrator of General Services and the Archivist (or the designee of either) may inspect the records or the records management practices and programs of any Federal agency solely for the purpose of rendering recommendations for the improvement of records management practices and programs. Officers and employees of such agencies shall cooperate fully in such inspections, subject to the provisions of paragraphs (2) and (3) of this subsection.
 
-(2) Records, the use of which is restricted by law or for reasons of national security or the public interest, shall be inspected, in accordance with regulations promulgated by the Administrator and the Archivist, subject to the approval of the head of the agency concerned or of the President. The regulations promulgated by the Administrator and the Archivist under this paragraph shall, to the extent practicable, be identical.
+(2) Records, the use of which is restricted by law or for reasons of national security or the public interest, shall be inspected, in accordancewith regulations promulgated by the Administrator and the Archivist, subject to the approval of the head of the agency concerned or of the President. The regulations promulgated by the Administrator and the Archivist under this paragraph shall, to the extent practicable, be identical.
 
-(3) If the Administrator or the Archivist (or the designee of either) inspects a record, as provided in this subsection, which is contained in asystem of records which is subject to section 552a of title 5, such record shall be—
+(3) If the Administrator or the Archivist (or the designee of either) inspects a record, as provided in this subsection, which is contained in a system of records which is subject to section 552a of title 5, such record shall be—
 
 &emsp;(A) maintained by the Administrator, the Archivist, or such designee as a record contained in a system of records; or
 
@@ -25,8 +25,4 @@ A prior section 2906, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1297, contained 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3102 of this title.
 

@@ -18,7 +18,3 @@ The historical park shall consist of lands and interests therein as follows:
 
 (Pub. L. 103–449, title III, §303, Nov. 2, 1994, 108 Stat. 4758.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410ccc–2, 410ccc–3 of this title.
-

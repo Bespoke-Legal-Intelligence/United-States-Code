@@ -176,7 +176,3 @@ Subsec. (a)(4), (5). Pub. L. 105–86, §731(2), (3) redesignated par. (5) as (4
 
 Section 731 of Pub. L. 105–86 provided that the amendment made by that section is effective Oct. 1, 1998.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7234 of this title.
-

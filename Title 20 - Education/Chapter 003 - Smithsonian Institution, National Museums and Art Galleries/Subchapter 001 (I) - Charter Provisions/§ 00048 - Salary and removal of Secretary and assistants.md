@@ -10,7 +10,3 @@ R.S. §5584 derived from act Aug. 10, 1846, ch. 178, §7, 9 Stat. 105.
 
 Provisions which related to semi-annual payments on the first day of January and July have been omitted.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 57, 67 of this title.
-

@@ -2,25 +2,21 @@
 
 (a)
 
-Incentive Bonus Authorized.—The Secretary concerned may pay a bonus under this section to an eligible member of the armed forces who executes a written agreement to convert to, and serve for a period of not less than three years in, a military occupational specialty for which there is a shortage of trained and qualified personnel.
+Incentive Bonus Authorized.—The Secretary concerned may pay a bonus under this section to an eligible member of a regular or reserve component of the armed forces who executes a written agreement to convert to, and serve for a period of not less than three years in, a military occupational specialty for which there is a shortage of trained and qualified personnel.
 
 (b)
 
-Eligible Members.—A member is eligible to enter into an agreement under subsection (a) if—
+Eligible Members.—A member is eligible to enter into an agreement under subsection (a) if, at the time the agreement is executed, the member is serving in—
 
-&emsp;(1) the member is entitled to basic pay; and
+&emsp;(1) pay grade E–6, with not more than 10 years of service computed under section 205 of this title; or
 
-&emsp;(2) at the time the agreement is executed, the member is serving in—
-
-&emsp;&emsp;(A) pay grade E–6, with not more than 10 years of service computed under section 205 of this title; or
-
-&emsp;&emsp;(B) pay grade E–5 or below, regardless of years of service.
+&emsp;(2) pay grade E–5 or below, regardless of years of service.
 
 (c)
 
-Amount and Payment of Bonus.—(1) A bonus under this section may not exceed $4,000.
+Amount and Payment of Bonus.—(1) A bonus under this section may not exceed $4,000, in the case of a member of a regular component of the armed forces, and $2,000, in the case of a member of a reserve component of the armed forces.
 
-(2) A bonus payable under this section shall be disbursed in one lump sum when the member's conversion to the military occupational specialty is approved by the chief personnel officer of the member's armed force.
+(2) A bonus payable under this section shall be disbursed in one lump sum when the member's conversion to the military occupational specialty is approved by the chief personnel officer of the regular or reserve component of the member's armed force.
 
 (d)
 
@@ -44,5 +40,15 @@ Regulations.—The Secretaries concerned shall prescribe regulations to carry ou
 
 Termination of Authority.—No agreement under this section may be entered into after December 31, 2006.
 
-(Added Pub. L. 108–136, div. A, title VI, §625(a), Nov. 24, 2003, 117 Stat. 1506.)
+(Added Pub. L. 108–136, div. A, title VI, §625(a), Nov. 24, 2003, 117 Stat. 1506; amended Pub. L. 108–375, div. A, title VI, §622, Oct. 28, 2004, 118 Stat. 1955.)
+
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–375, §622(a)(1), inserted “of a regular or reserve component” after “an eligible member”.
+
+Subsec. (b). Pub. L. 108–375, §622(a)(2), substituted comma for dash after “if”, struck out “(1) the member is entitled to basic pay; and” and par. (2) designation before “at the time”, and redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively.
+
+Subsec. (c)(1). Pub. L. 108–375, §622(b), inserted before period at end “, in the case of a member of a regular component of the armed forces, and $2,000, in the case of a member of a reserve component of the armed forces”.
+
+Subsec. (c)(2). Pub. L. 108–375, §622(a)(3), inserted “regular or reserve component of the” after “chief personnel officer of the”.
 

@@ -12,15 +12,11 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Codification
 
-The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 ofPub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
+The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
 Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 
 #### Amendments
 
 1992—Pub. L. 102–396 amended section generally. Prior to amendment, section related to Native Hawaiian health centers.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11704, 11706, 11709 of this title.
 

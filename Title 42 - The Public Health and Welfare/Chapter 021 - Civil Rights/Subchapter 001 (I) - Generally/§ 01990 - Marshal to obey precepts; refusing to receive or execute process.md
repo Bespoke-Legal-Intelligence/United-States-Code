@@ -12,7 +12,3 @@ R.S. §5517 derived from act May 31, 1870, ch. 114, §10, 16 Stat. 142.
 
 Section was formerly classified to section 51 of Title 8, Aliens and Nationality.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1987, 1992 of this title.
-

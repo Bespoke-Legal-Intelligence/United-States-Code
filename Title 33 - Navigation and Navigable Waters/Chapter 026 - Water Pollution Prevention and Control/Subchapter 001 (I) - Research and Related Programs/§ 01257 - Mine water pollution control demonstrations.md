@@ -30,7 +30,3 @@ There is authorized to be appropriated $30,000,000 to carry out the provisions o
 
 In subsec. (b), “section 14102(a)(1) and (b) of title 40” substituted for “section 403 of the Appalachian Regional Development Act of 1965, as amended” and “subtitle IV of title 40” substituted for “the Appalachian Regional Development Act of 1965, as amended” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1376 of this title.
-

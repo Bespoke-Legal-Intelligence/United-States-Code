@@ -1,9 +1,5 @@
 Part I—Foreign Service Retirement and Disability System
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 4044, 4054, 4055, 4064, 4071b, 4071c, 4071d, 4071j of this title; title 5 sections 8402, 8432c.
-
 
 ---
 

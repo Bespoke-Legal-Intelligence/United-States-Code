@@ -56,7 +56,11 @@ For the purpose of this subchapter:
 
 &emsp;&emsp;(B) at the time of application, has an enrollment of undergraduate full-time equivalent students that is at least 25 percent Hispanic students; and
 
-&emsp;&emsp;(C) provides assurances that not less than 50 percent of the institution's Hispanic students are low-income individuals.
+&emsp;&emsp;(C) provides assurances that not less than 50 percent of the institution's Hispanic students are low-income individuals, which assurances—
+
+&emsp;&emsp;&emsp;(i) may employ statistical extrapolation using appropriate data from the Bureau of the Census or other appropriate Federal or State sources; and
+
+&emsp;&emsp;&emsp;(ii) the Secretary shall consider as meeting the requirements of this subparagraph, unless the Secretary determines, based on a preponderance of the evidence, that the assurances do not meet the requirements.
 
 #### (6) Junior or community college
 
@@ -80,11 +84,11 @@ For the purpose of this subchapter:
 
 For the purpose of this subchapter, the term “enrollment of needy students” means an enrollment at an institution with respect to which—
 
-&emsp;(1) at least 50 percent of the degree students so enrolled are receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in the second fiscal year preceding the fiscal year for which the determination is made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title); or
+&emsp;(1) at least 50 percent of the degree students so enrolled are receiving need-based assistanceunder subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in the second fiscal year preceding the fiscal year for which the determination is made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title); or
 
 &emsp;(2) a substantial percentage of the students so enrolled are receiving Federal Pell Grants in the second fiscal year preceding the fiscal year for which determination is made, compared to the percentage of students receiving Federal Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this paragraph is waived under section 1103a(a) of this title.
 
-(Pub. L. 89–329, title V, §502, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1766.)
+(Pub. L. 89–329, title V, §502, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1766; amended Pub. L. 108–375, div. A, title X, §1087, Oct. 28, 2004, 118 Stat. 2066.)
 
 #### Prior Provisions
 
@@ -94,7 +98,7 @@ A prior section 502 of Pub. L. 89–329 was classified to section 1102a of this 
 
 Another prior section 502 of Pub. L. 89–329 was classified to section 1091a of this title, prior to repeal by Pub. L. 94–482.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 1103, 1103a, 1131–1 of this title; title 42 section 5197h.
+2004—Subsec. (a)(5)(C). Pub. L. 108–375 inserted “, which assurances—” and cls. (i) and (ii) before period at end.
 

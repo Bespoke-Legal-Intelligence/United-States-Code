@@ -16,7 +16,7 @@ Act of June 19, 1934 (48 Stat. 1056), referred to in text, probably means act Ju
 
 Act of January 29, 1937 (50 Stat. 5), referred to in text, is act Jan. 29, 1937, ch. 7, 50 Stat. 5, which was formerly classified to subchapter II–B (§1020i et seq.) of chapter 7 of this title, and which was repealed by act Aug. 14, 1946, ch. 964, §2(a)(2), 60 Stat. 1062.
 
-The Agricultural Adjustment Act (of 1933), referred to in text, probably means title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, known as the Agricultural Adjustment Act, which is classified generally to chapter 26 (§601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
+The Agricultural Adjustment Act (of 1933), referred to in text, probably means title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, known as the AgriculturalAdjustment Act, which is classified generally to chapter 26 (§601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
 
 The Bankhead Cotton Act of April 21, 1934, referred to in text, is act Apr. 21, 1934, ch. 157, 48 Stat. 598, as amended, which is classified generally to chapter 27 (§701 et seq.) of Title 7. The Bankhead Cotton Act was substantially repealed by act Feb. 10, 1936, ch. 42, 49 Stat. 1106. For complete classification of this Act to the Code, see Tables.
 
@@ -63,8 +63,4 @@ Farm Security Administration abolished, see note under sections 1001 to 1006 of 
 #### Exceptions From Transfer of Functions
 
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations, Advisory Board of Commodity Credit Corporation, and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 sections 217, 1026.
 

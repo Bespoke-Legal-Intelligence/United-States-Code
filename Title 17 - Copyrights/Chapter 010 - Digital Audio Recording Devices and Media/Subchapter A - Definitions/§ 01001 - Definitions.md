@@ -66,7 +66,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;&emsp;(A) is, subject to subparagraph (B)—
 
-&emsp;&emsp;&emsp;(i) in the case of an imported product, the actual entered value at United StatesCustoms (exclusive of any freight, insurance, and applicable duty), and
+&emsp;&emsp;&emsp;(i) in the case of an imported product, the actual entered value at United States Customs (exclusive of any freight, insurance, and applicable duty), and
 
 &emsp;&emsp;&emsp;(ii) in the case of a domestic product, the manufacturer's transfer price (FOB the manufacturer, and exclusive of any direct sales taxes or excise taxes incurred in connection with the sale); and
 
@@ -83,8 +83,4 @@ Section 482 of the Internal Revenue Code of 1986, referred to in par. (12)(B), i
 #### Effective Date
 
 Pub. L. 102–563, §4, Oct. 28, 1992, 106 Stat. 4248, provided that: “This Act \[see Short Title of 1992 Amendments note set out under section 101 of this title\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Oct. 28, 1992\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1006, 1007 of this title.
 

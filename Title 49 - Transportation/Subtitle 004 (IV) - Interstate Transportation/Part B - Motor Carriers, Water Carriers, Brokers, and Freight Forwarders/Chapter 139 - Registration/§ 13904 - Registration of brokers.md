@@ -30,7 +30,3 @@ Bond and Insurance.—The Secretary may impose on brokers for motor carriers of 
 
 Provisions similar to those in this section were contained in section 10924 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13506, 13905, 13906, 14707 of this title.
-

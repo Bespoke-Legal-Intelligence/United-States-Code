@@ -22,7 +22,7 @@ The Fund shall approve a State to be a participating State, if—
 
 #### (1) In general
 
-&emsp;A State that is not a participating State, but that has its own capital access program providing portfolio insurance for business loans (based on a separate loss reserve fund for each financial institution), may apply at any time to the Fund to be approved to be a participating State. The Fund shall approve such State to be a participating State, and to be eligible for reimbursements by the Fund pursuant to section 4747 of this title, if the State—
+&emsp;A State that is not a participating State, but that has its own capital access program providing portfolio insurance for businessloans (based on a separate loss reserve fund for each financial institution), may apply at any time to the Fund to be approved to be a participating State. The Fund shall approve such State to be a participating State, and to be eligible for reimbursements by the Fund pursuant to section 4747 of this title, if the State—
 
 &emsp;&emsp;(A) satisfies the requirements of subsections (a) and (b) of this section; and
 
@@ -55,10 +55,6 @@ If a State that has been approved to be a participating State wishes to amend it
 #### References in Text
 
 Section 4747 of this title, referred to in subsec. (c)(2)(A), was in the original “section 237” and was translated as reading “section 257” meaning section 257 of Pub. L. 103–325, to reflect the probable intent of Congress. Pub. L. 103–325 does not contain a section 237.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4742, 4746, 4748 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,7 +34,3 @@ This Act or the amendments made by this Act, referred to in text, is Pub. L. 101
 
 The International Investment and Trade in Services Survey Act, referred to in subsecs. (a)(2) and (e), is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, as amended, which is classified generally to chapter 46 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3143 of this title.
-

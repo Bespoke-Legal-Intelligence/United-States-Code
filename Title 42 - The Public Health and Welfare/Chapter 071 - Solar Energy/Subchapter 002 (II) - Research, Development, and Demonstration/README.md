@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—RESEARCH, DEVELOPMENT, AND DEMONSTRATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5902, 5905, 7135a of this title.
-
 
 ---
 

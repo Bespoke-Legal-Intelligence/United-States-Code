@@ -80,7 +80,3 @@ The exemption provided in section 11047 of this title (relating to transportatio
 
 The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and CERCLA, referred to in subsec. (a)(1), (3), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11002, 11003, 11045, 11046, 11047, 11049 of this title.
-

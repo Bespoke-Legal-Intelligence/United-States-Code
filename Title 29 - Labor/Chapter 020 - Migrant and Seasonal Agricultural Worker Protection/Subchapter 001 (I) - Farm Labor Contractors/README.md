@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—FARM LABOR CONTRACTORS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1803 of this title.
-
 
 ---
 

@@ -10,7 +10,7 @@ Funds available for use in carrying out the purpose of this section shall be lim
 
 #### (c) Limitation on expenditures
 
-(1) The Secretary may make expenditures and carry out the purposes of this section in suchStates where requests are made by the Governor or governing body of an Indian tribe for those reclamation projects which meet the priorities stated in section 1233(a)(1) of this title, except that for the purposes of this section the reference to coal in section 1233(a)(1) of this title shall not apply.
+(1) The Secretary may make expenditures and carry out the purposes of this section in such States where requests are made by the Governor or governing body of an Indian tribe for those reclamation projects which meet the priorities stated in section 1233(a)(1) of this title, except that for the purposes of this section the reference to coal in section 1233(a)(1) of this title shall not apply.
 
 (2) The provisions of section 1234 of this title shall apply to this section, with the exception that such mined lands need not have been mined for coal.
 
@@ -32,15 +32,11 @@ The Secretary may acquire by purchase, donation, easement, or otherwise such int
 
 Subsec. (b). Pub. L. 101–508, §6009(2), substituted “Indian tribes under the provisions of paragraphs (1) and (5) of section 1232(g) of this title” for “Indian reservations under the provisions of subsection 1232(g) of this title”.
 
-Subsec. (c). Pub. L. 101–508, §6009(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary may make expenditures and carry out the purposes of this section without regard to provisions of section 1234 of this title in such States or Indian reservations where requests are made by the Governor or tribal chairman and only after all reclamation with respect to abandoned coal lands or coal development impacts have been met, except for those reclamation projects relating to the protection of the public health or safety.”
+Subsec. (c). Pub. L. 101–508, §6009(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: “The Secretary may make expenditures and carry out the purposes of this section without regard to provisions of section 1234 of this title in such States or Indian reservations where requests are made by the Governor or tribal chairman and only after all reclamation with respect to abandoned coal lands or coal development impacts have been met, except for those reclamation projects relating to the protection of the public health or safety.”
 
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. L. 101–508 set out as a note under section 1231 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1231, 1234 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -50,13 +50,13 @@ Variable, Additional, and Board Certification Special Pay.—(1) An officer who�
 
 (b)
 
-Active-Duty Agreement.—(1) An officer may not be paid additional special pay undersubsection (a)(4) for any 12-month period unless the officer first executes a written agreement under which the officer agrees to remain on active duty for a period of not less than one year beginning on the date the officer accepts the award of such special pay.
+Active-Duty Agreement.—(1) An officer may not be paid additional special pay under subsection (a)(4) for any 12-month period unless the officer first executes a written agreement under which the officer agrees to remain on active duty for a period of not less than one year beginning on the date the officer accepts the award of such special pay.
 
 (2) Under regulations prescribed by the Secretary of Defense under section 303a(a) of this title, the Secretary of the military department concerned may terminate at any time an officer's entitlement to the special pay authorized by subsection (a)(4). If such entitlement is terminated, the officer concerned is entitled to be paid such special pay only for the part of the period on active duty that the officer served, and the officer may be required to refund any amount in excess of that entitlement.
 
 (c)
 
-Regulations.—Regulations prescribed by the Secretary of Defense under section 303a(a) of this title shall include standards for determining—
+Regulations.—Regulations prescribed by the Secretary of Defense under section 303a(a) ofthis title shall include standards for determining—
 
 &emsp;(1) whether an officer is undergoing internship or residency training for purposes of subsections (a)(2)(A), (a)(2)(B), and (a)(4); and
 
@@ -191,8 +191,4 @@ Section 639(d) of Pub. L. 99–145, as amended by Pub. L. 99–661, div. A, titl
 “(2) Paragraph (1) applies to an officer who on September 30, 1985, is entitled to dental continuation pay under section 311 of title 37, United States Code; or to special pay for dental officers under section 302b of that title.”
 
 \[Amendment of this note by Pub. L. 99–661 effective Nov. 14, 1986, see section 1342(h)(1) of Pub. L. 99–661, set out as an Effective Date of 1986 Amendment note under section 301 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 301e, 302f, 303a, 303b, 306 of this title.
 

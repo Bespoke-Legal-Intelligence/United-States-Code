@@ -167,6 +167,7 @@
 | (a) | Designation. |
 | (b) | Limits on applicability; regulatory requirements. |
 | (c) | Termination of designation. |
+| [59kk.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059kk%20-%20Wateree%20River.md) | Wateree River. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,6 +1,6 @@
 ### §5101. Decimal system
 
-United States money is expressed in dollars, dimes or tenths, cents or hundreths,<sup>1</sup> and mills or thousandths. A dime is a tenth of a dollar, acent is a hundredth of a dollar, and a mill is a thousandth of a dollar.
+United States money is expressed in dollars, dimes or tenths, cents or hundreths,<sup>1</sup> and mills or thousandths. A dime is a tenth of a dollar, a cent is a hundredth of a dollar, and a mill is a thousandth of a dollar.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980.)
 

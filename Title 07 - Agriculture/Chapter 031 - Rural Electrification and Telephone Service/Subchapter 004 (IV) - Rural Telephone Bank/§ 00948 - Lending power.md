@@ -14,7 +14,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (2) Preference in loans; election of loans for telephone system with certain subscriber density per mile
 
-&emsp;Funds to be loaned under this chapter to any borrower shall be loaned under this section in preference to section 922 of this title if the borrower is eligible for such a loan and funds are available therefor. Notwithstanding the foregoing or any other provision of law, all loans made pursuant to this chapter for facilities for telephone systems with an average subscriber density of three or fewer per mile shall be made under section 922 of this title; but this provision shall not preclude the making of such loans from the telephone bank at the election of the borrower.
+&emsp;Funds to be loaned under this chapter to any borrower shall be loaned under this section in preference to section 922 of this title if the borrower is eligible for such a loan and funds are available therefor. Notwithstanding the foregoing or any other provision of law, allloans made pursuant to this chapter for facilities for telephone systems with an average subscriber density of three or fewer per mile shall be made under section 922 of this title; but this provision shall not preclude the making of such loans from the telephone bank at the election of the borrower.
 
 #### (3) Interest rate
 
@@ -44,7 +44,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;&emsp;(II) For purposes of this clause, the term “historic cost of money rate”, with respect to the close of a preceding fiscal year, means the sum of the results of the following calculations: The amounts advanced by the telephone bank in each fiscal year during the period beginning with fiscal year 1974 and ending with the preceding fiscal year, multiplied, respectively, by the cost of money rate for the fiscal year (as set forth in the table in subparagraph (E)) for fiscal years 1974 through 1987, and as determined by the Governor under this subparagraph for fiscal years after fiscal year 1987), each of which products is divided, respectively, by the aggregate of the amounts advanced by the telephone bank during the period.
 
-&emsp;(E) For purposes of subparagraph (D)(II), the cost of money rate for the fiscal years inwhich each advance was made shall be as set forth in the following table:
+&emsp;(E) For purposes of subparagraph (D)(II), the cost of money rate for the fiscal years in which each advance was made shall be as set forth in the following table:
 
 <b> </b>
 
@@ -112,7 +112,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 > &emsp;For purposes of this paragraph, the term “fiscal year” means the 12-month period ending on September 30 of the designated year.
 
-&emsp;(F)(i) Notwithstanding subparagraph (B), if a borrower holds a commitment for a loan under this section made on or after October 1, 1987, and before December 22, 1987, part or all of the proceeds of which have not been advanced as of December 22, 1987, the borrower may, until the later of the date the next advance under the loan commitment is made or 90 days after December 22, 1987, elect to have the interest rate specified in the loan commitment apply to the unadvanced portion of the loan in lieu of the rate which (but for this clause) would apply to the unadvanced portion under this paragraph. If any borrower makes an election under this clause with respect to a loan, the Governor shall adjust the interest rate which applies to the unadvanced portion of the loan accordingly.
+&emsp;(F)(i) Notwithstanding subparagraph (B), if a borrower holds a commitment for a loan under this section made on or after October 1, 1987, and before December 22, 1987, part or all of the proceeds of which have not been advanced asof December 22, 1987, the borrower may, until the later of the date the next advance under the loan commitment is made or 90 days after December 22, 1987, elect to have the interest rate specified in the loan commitment apply to the unadvanced portion of the loan in lieu of the rate which (but for this clause) would apply to the unadvanced portion under this paragraph. If any borrower makes an election under this clause with respect to a loan, the Governor shall adjust the interest rate which applies to the unadvanced portion of the loan accordingly.
 
 &emsp;(ii)(I) If the telephone bank, pursuant to section 947(b) of this title, issues telephone debentures on any date to refinance telephone debentures or other obligations of the telephone bank, the telephone bank shall, in addition to any interest rate reduction required by any other provision of this paragraph, for the period applicable to the advance, reduce the interest rate charged on each advance made under this section during the fiscal year in which the refinanced debentures or other obligations were originally issued by the amount applicable to the advance.
 
@@ -142,7 +142,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (5) Certificate of convenience and necessity required from State regulatory agency or statement of telephone bank's Governor of nonduplication of lines, facilities, or systems
 
-&emsp;No loan shall be made in any State which now has or may hereafter have a State regulatory body having authority to regulate telephone service and to require certificates of convenience and necessity to the applicant unless such certificate from such agency is first obtained. In a State in which there is no such agency or regulatory body legally authorized to issue such certificates to the applicant, no loan shall be made under this section unless the Governor of the telephone bank shall determine (and set forth his reasons therefor in writing) that no duplication of lines, facilities,or systems, providing reasonably adequate services will result therefrom.
+&emsp;No loan shall be made in any State which now has or may hereafter have a State regulatory body having authority to regulate telephone service and to require certificates of convenience and necessity to the applicant unless such certificate from such agency is first obtained. In a State in which there is no such agency or regulatory body legally authorized to issue such certificates to the applicant, no loan shall be made under this section unless the Governor of the telephone bank shall determine (and set forth his reasons therefor in writing) that no duplication of lines, facilities, or systems, providing reasonably adequate services will result therefrom.
 
 #### (6) Definitions: telephone service; telephone lines, facilities, or systems
 
@@ -154,7 +154,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (8) Prepayment without penalty
 
-&emsp;(A) A borrower with a loan from the Rural Telephone Bank may prepay such loan (or any part thereof) by paying the face amount thereof without being required to pay the prepayment penalty set forth in the note covering such loan, except for any prepayment penalty provided for in a loan agreement entered into before November 1, 1993.
+&emsp;(A) A borrower with a loan from the Rural Telephone Bank may prepay such loan (or anypart thereof) by paying the face amount thereof without being required to pay the prepayment penalty set forth in the note covering such loan, except for any prepayment penalty provided for in a loan agreement entered into before November 1, 1993.
 
 &emsp;(B) If a borrower prepays part or all of a loan made under this section, then, notwithstanding section 947(b) of this title, the Governor of the telephone bank shall—
 
@@ -200,7 +200,7 @@ Loans and advances made under this section on or after November 5, 1990, shall b
 
 Subsec. (b)(4). Pub. L. 103–129, §2(a)(2)(B)(i), added par. (4) and struck out former par. (4) which related to adequacy of security and capacity for repayment of loans made under this section.
 
-Subsec. (b)(8)(A). Pub. L. 103–129, §2(a)(2)(B)(ii), designated existing provisions as subpar. (A), substituted “except for any prepayment penalty provided for in aloan agreement entered into before November 1, 1993” for “if such prepayment is not made later than September 30, 1988”, and added subpar. (B).
+Subsec. (b)(8)(A). Pub. L. 103–129, §2(a)(2)(B)(ii), designated existing provisions as subpar. (A), substituted “except for any prepayment penalty provided for in a loan agreement entered into before November 1, 1993” for “if such prepayment is not made later than September 30, 1988”, and added subpar. (B).
 
 Subsec. (b)(9), (10). Pub. L. 103–129, §2(a)(2)(B)(iii), added pars. (9) and (10).
 
@@ -251,8 +251,4 @@ Section 1411(a) of Pub. L. 100–203 provided that: “Congress finds that—
 #### Prepayment Regulations
 
 Section 1411(b)(2) of Pub. L. 100–203 provided that: “The Governor of the Rural Telephone Bank shall issue regulations to carry out the amendment made by paragraph (1) \[amending this section\] within 30 days after the date of enactment of this Act \[Dec. 22, 1987\]. Such regulations shall implement the amendment made by paragraph (1) without the addition of any restrictions not set forth in such amendment.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 927, 928, 935, 939, 941, 946, 950, 950b of this title.
 

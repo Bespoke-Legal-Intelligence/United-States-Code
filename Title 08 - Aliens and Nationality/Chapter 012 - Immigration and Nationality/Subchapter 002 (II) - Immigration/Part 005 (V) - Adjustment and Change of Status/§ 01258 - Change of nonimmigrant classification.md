@@ -40,7 +40,3 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1184, 1201, 1223, 1227, 1229a, 1229c, 1231, 1254a, 1372 of this title.
-

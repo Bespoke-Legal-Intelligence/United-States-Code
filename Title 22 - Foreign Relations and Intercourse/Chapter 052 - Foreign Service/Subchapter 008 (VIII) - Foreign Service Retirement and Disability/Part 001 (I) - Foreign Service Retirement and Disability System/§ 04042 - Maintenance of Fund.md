@@ -16,7 +16,3 @@ Section 18 of the Act of May 24, 1924 (43 Stat. 144), referred to in text, which
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4071a of this title.
-

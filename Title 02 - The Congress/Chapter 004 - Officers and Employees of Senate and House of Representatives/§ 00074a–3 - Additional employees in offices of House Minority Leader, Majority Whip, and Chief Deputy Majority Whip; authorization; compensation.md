@@ -14,9 +14,9 @@ Amendment by Pub. L. 104–53 is based on section 3(b) of House Resolution No. 1
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–186 substituted “applicable accounts of the House of Representatives” for “contingent fund of the House”.
+1996—Subsec. (b). Pub. L. 104–186 substituted “applicable accounts of the House of Representatives” for “contingent fund of the House”.
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–53 substituted “chief deputy majority whip” for “chief majority whip”.
+1995—Subsec. (a). Pub. L. 104–53 substituted “chief deputy majority whip” for “chief majority whip”.
 
 #### Effective Date of 1995 Amendment
 

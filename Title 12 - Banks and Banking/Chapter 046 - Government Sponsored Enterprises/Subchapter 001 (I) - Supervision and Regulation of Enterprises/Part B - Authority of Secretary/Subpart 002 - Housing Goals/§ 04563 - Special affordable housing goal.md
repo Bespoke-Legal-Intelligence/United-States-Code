@@ -80,7 +80,7 @@
 
 #### (1) FNMA mortgage purchases
 
-&emsp;Notwithstanding any other provision of this section, during the 2-year period beginning on January 1, 1993, the special affordable housing goal for the Federal National Mortgage Association shall include mortgage purchases of not less than $2,000,000,000 (for such 2-year period), with one-half of such purchases consisting of mortgages on single family housing and one-half consisting of mortgages on multifamily housing.
+&emsp;Notwithstanding any other provision of this section, during the 2-year period beginning onJanuary 1, 1993, the special affordable housing goal for the Federal National Mortgage Association shall include mortgage purchases of not less than $2,000,000,000 (for such 2-year period), with one-half of such purchases consisting of mortgages on single family housing and one-half consisting of mortgages on multifamily housing.
 
 #### (2) FHLMC mortgage purchases
 
@@ -121,8 +121,4 @@
 #### Effective Date
 
 Housing goals established under subsec. (d) of this section effective Jan. 1, 1993, see section 1338 of Pub. L. 102–550, set out as a note under section 4562 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4544, 4561, 4565, 4566, 4567, 4589 of this title.
 

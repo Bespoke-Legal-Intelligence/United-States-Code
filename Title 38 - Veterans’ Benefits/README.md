@@ -1,5 +1,5 @@
 
-38 U.S.C.<br>United States Code, 2003 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
+38 U.S.C.<br>United States Code, 2004 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 38—VETERANS’ BENEFITS
 
@@ -5618,10 +5618,6 @@ Savings Provision for Regulations.—A regulation, rule, or order in effect unde
 
 General Savings Provision.—An action taken or an offense committed under a provision of title 38, United States Code, replaced by a provision of that title enacted by section 2 shall be treated as having been taken or committed under the corresponding provision enacted by this Act.”
 
-#### Title Referred to in Other Sections
-
-This title is referred to in title 5 sections 7511, 8347, 8905a; title 7 section 2012; title 10 sections 1408, 1413a, 1450, 1451, 12319; title 26 section 6103; title 29 section 2913; title 37 section 435; title 42 sections 290dd–1, 290dd–2, 410, 424a, 659, 10008; title 50 section 2031.
-
 ### <b>PART I—GENERAL PROVISIONS</b>
 
 | Chap. |  | Sec. |
@@ -5736,7 +5732,7 @@ Pub. L. 102–83, §§2(d)(1), 5(b)(2), Aug. 6, 1991, 105 Stat. 402, 406, substi
 
 Pub. L. 102–54, §14(e)(1), June 13, 1991, 105 Stat. 287, inserted “United States” in item for chapter 72.
 
-Pub. L. 102–40, title IV, §§402(c)(2), 403(f)(1), May 7, 1991, 105 Stat. 239, 240, substituted “5101” for “3001” in item for chapter 51, “5301” for “3101” in item for chapter 53, “5501” for “3201” in item for chapter 55, “5701” for “3301” in item for chapter 57, “5901” for “3401” in item for chapter 59, “6101” for “3501” in item for chapter 61, “Boards, Administrations, and Services” for “Boards and Departments” in item for part V, “7101” for “4001 in item chapter 71, “7251” for “4051” in item for chapter 72, “Veterans Health Administration—Organization and Functions . . . 7301” for “Department of Medicine and Surgery . . . 4101”, added item for chapter 74, struck out item for chapter 75 “Veterans’ Canteen Services . . . 4201”, substituted “7601” for “4301” in item for chapter 76, added item for chapter 78, substituted “8101” for “5001” in item for chapter 81, “8201” for “5070” in item for chapter 82, “8301” for “5101” in item for chapter 83, and “8501” for “5201” in item for chapter 85.
+Pub. L. 102–40, title IV, §§402(c)(2), 403(f)(1), May 7, 1991, 105 Stat. 239, 240, substituted “5101” for “3001” in item for chapter 51, “5301” for “3101” in item for chapter 53, “5501” for “3201” in item for chapter 55, “5701” for “3301” in item for chapter 57, “5901” for “3401” in item for chapter 59, “6101” for “3501” in item for chapter 61, “Boards, Administrations, and Services” for “Boards and Departments” in item for part V, “7101” for “4001” in item chapter 71, “7251” for “4051” in item for chapter 72, “Veterans Health Administration—Organization and Functions . . . 7301” for “Department of Medicine and Surgery . . . 4101”, added item for chapter 74, struck out item for chapter 75 “Veterans’ Canteen Services . . . 4201”, substituted “7601” for “4301” in item for chapter 76, added item for chapter 78, substituted “8101” for “5001” in item for chapter 81, “8201” for “5070” in item for chapter 82, “8301” for “5101” in item for chapter 83, and “8501” for “5201” in item for chapter 85.
 
 Pub. L. 102–16, §9(c)(2), Mar. 22, 1991, 105 Stat. 55, struck out “Disabled and Vietnam Era” after “Employment and Training of” in item for chapter 42.
 
@@ -5754,7 +5750,7 @@ Pub. L. 97–295, §4(1)(B), Oct. 12, 1982, 96 Stat. 1304, substituted “1651�
 
 Pub. L. 97–295, §4(1)(C), Oct. 12, 1982, 96 Stat. 1304, added item for chapter 82.
 
-1981—Pub. L. 97–72, title III, §302(b)(2), Nov. 3, 1981, 95 Stat. 1059, substituted “Housing and Small Business Loans” for “Home, Condominium, and Mobile Home Loans” in item for chapter 37.
+1981—Pub. L. 97–72, title III, §302(b)(2), Nov. 3, 1981, 95 Stat. 1059, substituted “Housing and Small BusinessLoans” for “Home, Condominium, and Mobile Home Loans” in item for chapter 37.
 
 1980—Pub. L. 96–466, title I, §101(b), Oct. 17, 1980, 94 Stat. 2186, substituted “Training and Rehabilitation for Veterans with Service-Connected Disabilities . . . 1,500” for “Vocational Rehabilitation . . . 1501” in item for chapter 31.
 

@@ -2,7 +2,7 @@
 
 (a)(1) A judge of the United States Court of Federal Claims who is covered by section 178 of title 28 may elect to contribute an amount of such individual's basic pay to the Thrift Savings Fund.
 
-(2) An election may be made under paragraph (1) only during a period provided under section 8432(b) for individuals subject to this chapter.
+(2) An election may be made under paragraph (1) as provided under section 8432(b) for individuals subject to this chapter.
 
 (b)(1) Except as otherwise provided in this subsection, the provisions of this subchapter and subchapter VII shall apply with respect to Court of Federal Claims judges who make contributions to the Thrift Savings Fund under subsection (a) of this section.
 
@@ -14,7 +14,7 @@
 
 (B) Section 8433(b) of this title applies to any Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before becoming entitled to an annuity under section 178 of title 28.
 
-(5) With respect to Court of Federal Claims judges to whom this section applies, any of the actions described in paragraph (4)(A) or (B) shallbe considered a separation from service for purposes of this subchapter and subchapter VII.
+(5) With respect to Court of Federal Claims judges to whom this section applies, any of the actions described in paragraph (4)(A) or (B) shall be considered a separation from service for purposes of this subchapter and subchapter VII.
 
 (6) For purposes of this section, the terms “retirement” and “retire” include removal from office under section 178(c) of title 28 on the sole ground of mental or physical disability.
 
@@ -22,13 +22,15 @@
 
 (8) Notwithstanding paragraph (4), if any Court of Federal Claims judge retires under circumstances making such judge eligible to make an election under section 8433(b), and such judge's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Added Pub. L. 101–650, title III, §306(d)(1), Dec. 1, 1990, 104 Stat. 5110, §8440b; renumbered §8440c and amended Pub. L. 102–198, §7(c)(1), Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–226, §9(g), Mar. 30, 1994, 108 Stat. 121; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(c)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233.)
+(Added Pub. L. 101–650, title III, §306(d)(1), Dec. 1, 1990, 104 Stat. 5110, §8440b; renumbered §8440c and amended Pub. L. 102–198, §7(c)(1), Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–226, §9(g), Mar. 30, 1994, 108 Stat. 121; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(c)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, §1(d)(6), Dec. 21, 2004, 118 Stat. 3892.)
 
 #### Codification
 
 Another section 8440c was renumbered section 8440d of this title.
 
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–469 substituted “as” for “only during a period”.
 
 2000—Subsec. (b)(2). Pub. L. 106–554 substituted “the maximum percentage of such judge's basic pay for such pay period allowable under section 8440f.” for “5 percent of basic pay for such pay period.”
 
@@ -77,8 +79,4 @@ Section 7(c)(3) of Pub. L. 102–198, as amended by Pub. L. 102–572, title IX,
 #### Effective Date
 
 Section applicable to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after Dec. 1, 1990, see section 306(f) of Pub. L. 101–650, set out as an Effective Date of 1990 Amendment note under section 8331 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8432 of this title.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Accession Bonus Authorized.—(1) A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996, and ending on December 31, 2004, executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+Accession Bonus Authorized.—(1) A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996, and ending on December 31, 2005, executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 (2) The amount of an accession bonus under paragraph (1) may not exceed $30,000.
 
@@ -28,7 +28,7 @@ Repayment.—(1) An officer who receives a payment under subsection (a) and who 
 
 (4) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or this subsection. This paragraph applies to any case commenced under title 11 after the date of the enactment of this section.
 
-(Added Pub. L. 104–201, div. A, title VI, §615(c)(1), Sept. 23, 1996, 110 Stat. 2545; amended Pub. L. 107–107, div. A, title VI, §618, Dec. 28, 2001, 115 Stat. 1137; Pub. L. 107–314, div. A, title VI, §612(f), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §612(f), Nov. 24, 2003, 117 Stat. 1501.)
+(Added Pub. L. 104–201, div. A, title VI, §615(c)(1), Sept. 23, 1996, 110 Stat. 2545; amended Pub. L. 107–107, div. A, title VI, §618, Dec. 28, 2001, 115 Stat. 1137; Pub. L. 107–314, div. A, title VI, §612(f), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §612(f), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(f), Oct. 28, 2004, 118 Stat. 1947.)
 
 #### References in Text
 
@@ -36,13 +36,11 @@ The date of the enactment of this section, referred to in subsec. (d)(4), is the
 
 #### Amendments
 
+2004—Subsec. (a)(1). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
+
 2003—Subsec. (a)(1). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
 
 2002—Subsec. (a)(1). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
 
 2001—Subsec. (a)(1). Pub. L. 107–107 substituted “September 23, 1996, and ending on December 31, 2002” for “the date of the enactment of this section, and ending on September 30, 2002”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 303a, 324 of this title.
 

@@ -22,7 +22,7 @@
 
 #### (4) Rights, powers, and duties
 
-&emsp;Effective August 10, 1989, the Corporation shall have all rights, powers, and duties tocarry out the Corporation's duties with respect to the assets and liabilities of the FSLIC Resolution Fund that the Corporation otherwise has under this chapter.
+&emsp;Effective August 10, 1989, the Corporation shall have all rights, powers, and duties to carry out the Corporation's duties with respect to the assets and liabilities of the FSLIC Resolution Fund that the Corporation otherwise has under this chapter.
 
 #### (5) Corporation as conservator or receiver
 
@@ -62,7 +62,7 @@ The FSLIC Resolution Fund shall be funded from the following sources to the exte
 
 #### (d) Legal proceedings
 
-Any judgment resulting from a proceeding to which the Federal Savings and Loan Insurance Corporation was a party prior to its dissolution or which is initiated against the Corporation with respect to the Federal Savings and Loan Insurance Corporation or with respect to the FSLIC Resolution Fund shall be limited to the assets of the FSLIC Resolution Fund.
+Any judgment resulting from a proceeding to which the Federal Savings and Loan Insurance Corporation was a party prior to its dissolution or which is initiated against the Corporationwith respect to the Federal Savings and Loan Insurance Corporation or with respect to the FSLIC Resolution Fund shall be limited to the assets of the FSLIC Resolution Fund.
 
 #### (e) Transfer of net proceeds from sale of RTC assets
 
@@ -99,8 +99,4 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §110\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that: “Hereafter, for payments of judgments against the United States and compromise settlements of claims in suits against the United States arising from the Financial Institutions Reform, Recovery and Enforcement Act \[Pub. L. 101–73, see Tables for classification\] and its implementation, such sums as may be necessary, to remain available until expended: <i>Provided</i>, That the foregoing authority is available solely for payment of judgments and compromise settlements: <i>Provided further</i>, That payment of litigation expenses is available under existing authority and will continue to be made available as set forth in the Memorandum of Understanding between the Federal Deposit Insurance Corporation and the Department of Justice, dated October 2, 1998.”
 
 Similar provisions were contained in Pub. L. 105–277, div. A, §101(b) \[title I, §130\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–77.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1441 of this title.
 

@@ -12,7 +12,3 @@ R.S. §4081 derived from act June 11, 1864, ch. 116, §2, 13 Stat. 121.
 
 Words “magistrate judge” substituted in text for “magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 256 of this title.
-

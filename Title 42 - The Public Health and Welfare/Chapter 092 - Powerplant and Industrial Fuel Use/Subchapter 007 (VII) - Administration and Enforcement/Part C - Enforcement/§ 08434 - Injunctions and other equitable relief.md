@@ -4,9 +4,5 @@ Whenever it appears to the Secretary that any person has engaged, is engaged, or
 
 (Pub. L. 95–620, title VII, §724, Nov. 9, 1978, 92 Stat. 3335.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8411 of this title.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

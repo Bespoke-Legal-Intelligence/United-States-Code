@@ -2,7 +2,7 @@
 
 #### (a) Sale of defense articles and services by President to United States companies; restriction on performance of services; reimbursement credited to selling agency
 
-Subject to the conditions specified in subsection (b) of this section, the President may, on a negotiated contract basis, under cash terms (1) sell defense articles at not less than their estimated replacement cost (or actual cost in the case of services), or (2) procure or manufacture and sell defense articles at not less than their contract or manufacturing cost to the United States Government, to any United States company for incorporation into end items (and for concurrent or follow-on support) to be sold by such a company either (i) on a direct commercial basis to a friendly foreign country or international organization pursuant to an export license or approval under section 2778 of this title or (ii) in the case of ammunition parts subject to subsection (b) of this section, using commercial practices which restrict actual delivery directly to a friendly foreign country or international organization pursuant to approval under section 2778 of this title. The President may also sell defense services in support of such sales of defense articles, subject to the requirements of this chapter: <i>Provided, however</i>, That such services may be performed only in the United States. The amount of reimbursement received from such sales shall be credited to the current applicable appropriation, fund, or account of the selling agency of the United States Government.
+Subject to the conditions specified in subsection (b) of this section, the President may, ona negotiated contract basis, under cash terms (1) sell defense articles at not less than their estimated replacement cost (or actual cost in the case of services), or (2) procure or manufacture and sell defense articles at not less than their contract or manufacturing cost to the United States Government, to any United States company for incorporation into end items (and for concurrent or follow-on support) to be sold by such a company either (i) on a direct commercial basis to a friendly foreign country or international organization pursuant to an export license or approval under section 2778 of this title or (ii) in the case of ammunition parts subject to subsection (b) of this section, using commercial practices which restrict actual delivery directly to a friendly foreign country or international organization pursuant to approval under section 2778 of this title. The President may also sell defense services in support of such sales of defense articles, subject to the requirements of this chapter: <i>Provided, however</i>, That such services may be performed only in the United States. The amount of reimbursement received from such sales shall be credited to the current applicable appropriation, fund, or account of the selling agency of the United States Government.
 
 #### (b) Conditions of sale
 
@@ -21,8 +21,4 @@ For the purpose of this section, the terms “defense articles” and “defense
 #### Delegation of Functions
 
 Functions of President under this section delegated to Secretary of Defense by section 1(d) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2791 of this title.
 

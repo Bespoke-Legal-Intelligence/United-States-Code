@@ -228,7 +228,7 @@
 
 #### (iii) Competitive procedures
 
-&emsp;&emsp;&emsp;Competitive procedures (as defined in section 403(5) of title 41) shall be used to enter into a contract under this subsection. The provisions of subsection (d) of section 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
+&emsp;&emsp;&emsp;Competitive procedures (as defined in section 403(5) of title 41) shall be used toenter into a contract under this subsection. The provisions of subsection (d) of section 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
 
 #### (iv) Timing
 
@@ -357,10 +357,6 @@ Report and recommendations.—Not later than January 1, 2009, the Secretary shal
 &emsp;“(B) an analysis of the impact on direct subsidies under section 1860D–15(a)(1) of the Social Security Act \[section 1395w–115(a)(1) of this title\] in different PDP regions if such subsidies were adjusted to take into account the variation described in subparagraph (A); and
 
 &emsp;“(C) recommendations regarding the appropriateness of applying an additional geographic adjustment factor under section 1860D–15(c)(2) \[section 1395w–115(c)(2) of this title\] that reflects some or all of the variation described in subparagraph (A).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395w–24, 1395w–102, 1395w–103, 1395w–112, 1395w–113, 1395w–115, 1395w–131, 1395w–132, 1395w–151 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

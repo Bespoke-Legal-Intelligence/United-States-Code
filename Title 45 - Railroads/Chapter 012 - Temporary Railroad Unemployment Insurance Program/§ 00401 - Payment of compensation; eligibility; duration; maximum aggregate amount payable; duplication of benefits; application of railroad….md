@@ -14,7 +14,3 @@ The Temporary Extended Unemployment Compensation Act of 1961, referred to in tex
 
 Section 1 of Pub. L. 87–7 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Temporary Extended Railroad Unemployment Insurance Benefits Act of 1961’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 402 of this title.
-

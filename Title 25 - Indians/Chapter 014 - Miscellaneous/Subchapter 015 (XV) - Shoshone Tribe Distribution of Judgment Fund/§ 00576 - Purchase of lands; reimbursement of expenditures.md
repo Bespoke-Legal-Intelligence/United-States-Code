@@ -4,7 +4,3 @@ The sum of $1,000,000 authorized in section 573 of this title for use in carryin
 
 (July 27, 1939, ch. 387, §6, 53 Stat. 1130.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 571, 573, 575, 577 of this title.
-

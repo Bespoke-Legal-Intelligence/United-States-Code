@@ -6,5 +6,5 @@ Pursuant to its authority under section 994 of title 28, the United States Sente
 
 #### Codification
 
-Section is comprised of section 90102 of Pub. L. 103–322 which is also listed in a table of provisions for review, promulgation, or amendment of Federal sentencing guidelines relating to specific offenses set out under section 994 of Title 28, Judiciary and Judicial Procedure.
+Section is comprised of section 90102 of Pub. L. 103–322 which is also listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure.
 

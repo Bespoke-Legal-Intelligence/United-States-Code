@@ -172,6 +172,10 @@ A prior section 1093, Pub. L. 89–329, title IV, §486, as added Pub. L. 96–3
 
 1992—Pub. L. 102–325 struck out “and student support” after “aid” in section catchline and amended text generally, substituting present provisions for former subsec. (a) relating to program authority, subsec. (b) relating to use of funds, and subsec. (c) relating to authorization of appropriations.
 
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.

@@ -6,7 +6,7 @@ The Joint Committee of Congress on the Library shall, on and after January 3, 19
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Change of Name
 

@@ -24,7 +24,3 @@ In subsec. (b)(3), “section 3973 of title 22” substituted for “section 14 
 
 Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403a, 403e, 403f of this title.
-

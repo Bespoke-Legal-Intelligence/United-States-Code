@@ -49,10 +49,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3489 of this title; title 10 section 2605; title 15 sections 2642, 2643, 2646; title 37 sections 429, 430; title 42 section 300j–21.
-
 
 ---
 

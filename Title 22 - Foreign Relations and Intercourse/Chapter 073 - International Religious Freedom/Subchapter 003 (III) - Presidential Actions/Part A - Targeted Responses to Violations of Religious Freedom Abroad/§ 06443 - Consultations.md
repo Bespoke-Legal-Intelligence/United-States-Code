@@ -32,7 +32,3 @@ The President shall, as appropriate, consult with United States interested parti
 
 (Pub. L. 105–292, title IV, §403, Oct. 27, 1998, 112 Stat. 2804.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6441, 6442, 6444 of this title.
-

@@ -30,5 +30,5 @@ Whenever property is forfeited under this section, the Attorney General of the U
 
 #### Prior Provisions
 
-A prior section 510, act June 19, 1934, ch. 652, title V, §510, as added May 11, 1962, Pub. L. 87–448, §1, 76 Stat. 68, related to forfeitures for violations of rules and regulations by radio stations operating in common carrier, safety and special radio fields, prior to repeal effectivethe thirtieth day after Feb. 21, 1978, by Pub. L. 95–234, §§4, 7, Feb. 21, 1978, 92 Stat. 35.
+A prior section 510, act June 19, 1934, ch. 652, title V, §510, as added May 11, 1962, Pub. L. 87–448, §1, 76 Stat. 68, related to forfeitures for violations of rules and regulations by radio stations operating in common carrier, safety and special radio fields, prior to repeal effective the thirtieth day after Feb. 21, 1978, by Pub. L. 95–234, §§4, 7, Feb. 21, 1978, 92 Stat. 35.
 

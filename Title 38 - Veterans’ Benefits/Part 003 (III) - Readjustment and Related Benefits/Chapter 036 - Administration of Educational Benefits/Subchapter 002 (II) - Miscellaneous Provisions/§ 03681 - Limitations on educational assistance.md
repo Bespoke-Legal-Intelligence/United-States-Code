@@ -20,7 +20,7 @@
 
 Section 903 of the Department of Defense Authorization Act, 1981, referred to in subsec. (b)(3), is section 903 of Pub. L. 96–342, title IX, Sept. 8, 1980, 94 Stat. 1115, which is set out as a note under section 2141 of Title 10, Armed Forces.
 
-The Hostage Relief Act of 1980, referred to in subsec. (b)(4), is Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, which is set out as a note under section 5561 of Title 5, Government Organization and Employees.
+The Hostage Relief Act of 1980, referred to in subsec. (b)(4), is Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, as amended, which was formerly set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
 The Omnibus Diplomatic Security and Antiterrorism Act of 1986, referred to in subsec. (b)(5), is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 22, Foreign Relations and Intercourse, and Tables.
 
@@ -69,8 +69,4 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 #### Duplication of Benefits
 
 Pub. L. 90–574, title V, §504, Oct. 15, 1968, 82 Stat. 1012, relating to duplication of benefits, was repealed by Pub. L. 91–219, title II, §215(a), Mar. 26, 1970, 84 Stat. 85.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3689 of this title.
 

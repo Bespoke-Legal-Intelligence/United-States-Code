@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;During the sixty-day review period established in paragraph (1), the Secretaries shallreview and approve or disapprove such guidance to assure that the guidance either is consistent with the “Dietary Guidelines for Americans” or that the guidance is based on medical or new scientific knowledge which is determined to be valid by the Secretaries. If after such sixty-day period neither Secretary notifies the proposing agency that such guidance has been disapproved, then such guidance may be issued by the agency. If both Secretaries disapprove of such guidance, it shall be returned to the agency. If either Secretary finds that such guidance is inconsistent with the “Dietary Guidelines for Americans” and so notifies the proposing agency, such agency shall follow the procedures set forth in this subsection before disseminating such proposal to the public in final form. If after such sixty-day period, either Secretary disapproves such guidance as inconsistent with the “Dietary Guidelines for Americans” the proposing agency shall—
+&emsp;&emsp;During the sixty-day review period established in paragraph (1), the Secretaries shall review and approve or disapprove such guidance to assure that the guidance either is consistent with the “Dietary Guidelines for Americans” or that the guidance is based on medical or new scientific knowledge which is determined to be valid by the Secretaries. If after such sixty-day period neither Secretary notifies the proposing agency that such guidance has been disapproved, then such guidance may be issued by the agency. If both Secretaries disapprove of such guidance, it shall be returned to the agency. If either Secretary finds that such guidance is inconsistent with the “Dietary Guidelines for Americans” and so notifies the proposing agency, such agency shall follow the procedures set forth in this subsection before disseminating such proposal to the public in final form. If after such sixty-day period, either Secretary disapproves such guidance as inconsistent with the “Dietary Guidelines for Americans” the proposing agency shall—
 
 &emsp;&emsp;&emsp;(i) publish a notice in the Federal Register of the availability of the full text of the proposal and the preamble of such proposal which shall explain the basis and purpose for the proposed dietary guidance;
 
@@ -67,8 +67,4 @@ This section does not place any limitations on—
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 sections 1758, 1760.
 

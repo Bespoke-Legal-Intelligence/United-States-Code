@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—CONTROL OF TOXIC SUBSTANCES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2647, 2654 of this title.
-
 
 ---
 

@@ -24,7 +24,3 @@ Members of the tribe who receive the money value of their interests in tribal pr
 
 Section 27 of act Aug. 13, 1954, ch. 732, as added by Pub. L. 85–132, §1(a), provided that: “Notwithstanding any other provisions of this Act \[this subchapter\], no sales of tribal property shall be made pursuant to paragraph (3) of subsection (a) of section 5, or section 6 of this Act \[section 564d(a)(3) of this title or this section\] prior to the adjournment of the second session of the Eighty-fifth Congress.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 564c, 564d, 564w–1, 861a of this title.
-

@@ -102,7 +102,3 @@ Amendment by Pub. L. 93–233 effective on and after Jan. 1, 1974, see section 1
 
 Section 404(b) of Pub. L. 89–97 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to determinations made after December 31, 1965.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1396b, 1396n, 1396r, 1397gg of this title.
-

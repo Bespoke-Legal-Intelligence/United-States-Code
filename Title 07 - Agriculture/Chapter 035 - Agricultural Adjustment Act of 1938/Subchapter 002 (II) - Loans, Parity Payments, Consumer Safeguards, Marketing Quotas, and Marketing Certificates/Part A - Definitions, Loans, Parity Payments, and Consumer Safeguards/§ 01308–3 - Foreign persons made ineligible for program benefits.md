@@ -8,7 +8,7 @@ Any person who is not a citizen of the United States or an alien lawfully admitt
 
 #### (b) Corporations or other entities
 
-For purposes of subsection (a) of this section, a corporation or other entity shall be considereda person that is ineligible for production adjustment payments, price support program loans, payments, or benefits if more than 10 percent of the beneficial ownership of the entity is held by persons who are not citizens of the United States or aliens lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], unless such persons provide a substantial amount of personal labor in the production of crops on such farm. Notwithstanding the foregoing provisions of this subsection, with respect to an entity that is determined to be ineligible to receive such payments, loans, or other benefits, the Secretary may make payments, loans, and other benefits in an amount determined by the Secretary to be representative of the percentage interests of the entity that is owned by citizens of the United States and aliens lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act.
+For purposes of subsection (a) of this section, a corporation or other entity shall be considered a person that is ineligible for production adjustment payments, price support program loans, payments, or benefits if more than 10 percent of the beneficial ownership of the entity is held by persons who are not citizens of the United States or aliens lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], unless such persons provide a substantial amount of personal labor in the production of crops on such farm. Notwithstanding the foregoing provisions of this subsection, with respect to an entity that is determined to be ineligible to receive such payments, loans, or other benefits, the Secretary may make payments, loans, and other benefits in an amount determined by the Secretary to be representative of the percentage interests of the entity that is owned by citizens of the United States and aliens lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act.
 
 #### (c) Prospective application
 
@@ -49,8 +49,4 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 #### Effective Date
 
 Section 1306 of Pub. L. 100–203 provided that this section is effective beginning with 1989 crops.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1308–2, 1308–4, 7215, 7996 of this title.
 

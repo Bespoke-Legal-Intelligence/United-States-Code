@@ -44,7 +44,3 @@ In subsection (a), the words “interstate air transportation of persons, air tr
 
 In subsection (b), the words “an opportunity for a” are added for consistency in the revised title and with other titles of the United States Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40109, 41505, 46301 of this title.
-

@@ -4,7 +4,3 @@ The Director of the National Institute on Aging, through centers supported under
 
 (Pub. L. 99–660, title IX, §963, Nov. 14, 1986, 100 Stat. 3815.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11294 of this title.
-

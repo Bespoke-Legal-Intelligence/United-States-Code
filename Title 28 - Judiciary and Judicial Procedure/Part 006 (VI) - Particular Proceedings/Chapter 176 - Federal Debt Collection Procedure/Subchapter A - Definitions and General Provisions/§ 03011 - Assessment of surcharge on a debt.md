@@ -14,7 +14,3 @@ Limitation.—Subsection (a) shall not apply if—
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4937.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3002 of this title; title 12 section 3768.
-

@@ -48,7 +48,3 @@ The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subse
 
 1996—Subsec. (a)(4). Pub. L. 104–297 substituted “1999” for “1997”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 713c–3.
-

@@ -4,10 +4,6 @@ subpart ii—national health service corps program
 
 1976—Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2268, added heading “Subpart II—National Health Service Corps Program”.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 295j, 1395ccc of this title.
-
 
 ---
 

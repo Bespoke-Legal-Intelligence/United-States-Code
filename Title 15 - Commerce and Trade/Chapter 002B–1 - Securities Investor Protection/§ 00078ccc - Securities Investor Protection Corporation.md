@@ -60,7 +60,7 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 &emsp;(6) to lease, purchase, accept gifts or donations of or otherwise acquire, to own, hold, improve, use, or otherwise deal in or with, and to sell, convey, mortgage, pledge, lease, exchange or otherwise dispose of, any property, real, personal or mixed, or any interest therein, wherever situated;
 
-&emsp;(7) subject to the provisions of subsection (c) of this section, to elect or appoint such officers, attorneys, employees, and agents as maybe required, to determine their qualifications, to define their duties, to fix their salaries, require bonds for them and fix the penalty thereof;
+&emsp;(7) subject to the provisions of subsection (c) of this section, to elect or appoint such officers, attorneys, employees, and agents as may be required, to determine their qualifications, to define their duties, to fix their salaries, require bonds for them and fix the penalty thereof;
 
 &emsp;(8) to enter into contracts, to execute instruments, to incur liabilities, and to do any and all other acts and things as may be necessary or incidental to the conduct of its business and the exercise of all other rights and powers granted to SIPC by this chapter; and
 
@@ -183,8 +183,4 @@ Subsec. (c)(5). Pub. L. 95–283, §4(b), substituted “Compensation” for “
 Subsec. (e). Pub. L. 95–283, §5, inserted “and rules” after “Bylaws” in heading, and in text substituted provisions relating to procedures applicable to proposed changes in the bylaws and rules of SIPC and required action by the Commission with respect to any SIPC bylaw or rule, for provisions relating to procedures applicable to adoption of initial bylaws and rules of SIPC and any alteration, supplement, repeal, or addition, effective date of any such bylaw or rule, and required action by the Commission with respect to any SIPC bylaw or rule.
 
 Subsec. (f). Pub. L. 95–283, §2(b), struck out subsec. (f) which set forth qualifications for other members of SIPC.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 78ggg of this title.
 

@@ -1,6 +1,6 @@
 ### §2153. Cooperation with other nations
 
-No cooperation with any nation, group of nations or regional defense organization pursuant to sections 2073, 2074(a), 2077, 2094, 2112, 2121, 2133, 2134, or 2164 of this title shall be undertaken until—
+No cooperation with any nation, group of nations or regional defense organization pursuantto sections 2073, 2074(a), 2077, 2094, 2112, 2121, 2133, 2134, or 2164 of this title shall be undertaken until—
 
 #### (a) Terms, conditions, duration, nature, scope, and other requirements of proposed agreements for cooperation; Presidential exemptions; negotiations; Nuclear Proliferation Assessment Statement
 
@@ -32,13 +32,13 @@ No cooperation with any nation, group of nations or regional defense organizatio
 
 #### (c) Submittal of proposed agreements for cooperation to Congressional committees
 
-&emsp;the proposed agreement for cooperation (if not an agreement subject to subsection (d) of this section), together with the approval and determination of the President, has been submitted to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate for a period of thirty days of continuous session (as defined in section 2159(g) of this title): <i>Provided, however</i>, That these committees, after having received such agreement for cooperation, may by resolution in writing waive theconditions of all or any portion of such thirty-day period; and
+&emsp;the proposed agreement for cooperation (if not an agreement subject to subsection (d) of this section), together with the approval and determination of the President, has been submitted to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate for a period of thirty days of continuous session (as defined in section 2159(g) of this title): <i>Provided, however</i>, That these committees, after having received such agreement for cooperation, may by resolution in writing waive the conditions of all or any portion of such thirty-day period; and
 
 #### (d) Congressional action
 
 &emsp;the proposed agreement for cooperation (if arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title, or if entailing implementation of section 2073, 2074(a), 2133, or 2134 of this title in relation to a reactor that may be capable of producing more than five thermal megawatts or special nuclear material for use in connection therewith) has been submitted to the Congress, together with the approval and determination of the President, for a period of sixty days of continuous session (as defined in section 2159(g) of this title) and referred to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, and in addition, in the case of a proposed agreement for cooperation arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title, the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate, but such proposed agreement for cooperation shall not become effective if during such sixty-day period the Congress adopts, and there is enacted, a joint resolution stating in substance that the Congress does not favor the proposed agreement for cooperation: <i>Provided</i>, That the sixty-day period shall not begin until a Nuclear Proliferation Assessment Statement prepared by the Secretary of State, and any annexes thereto, when required by subsection (a) of this section, have been submitted to the Congress: <i>Provided further</i>, That an agreement for cooperation exempted by the President pursuant to subsection (a) of this section from any requirement contained in that subsection shall not become effective unless the Congress adopts, and there is enacted, a joint resolution stating that the Congress does favor such agreement. During the sixty-day period the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate shall each hold hearings on the proposed agreement for cooperation and submit a report to their respective bodies recommending whether it should be approved or disapproved. Any such proposed agreement for cooperation shall be considered pursuant to the procedures set forth in section 2159(i) of this title.
 
-Following submission of a proposed agreement for cooperation (except an agreement for cooperation arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title) to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, the Nuclear Regulatory Commission, the Department of State, the Department of Energy, and the Department of Defense shall, upon the request of either of those committees, promptly furnish to those committees their views as to whether the safeguards and other controls contained therein provide an adequate framework to ensure that any exports as contemplated by such agreement will not be inimical to or constitute an unreasonable risk to the common defense and security.
+Following submission of a proposed agreement for cooperation (except an agreement for cooperation arranged pursuant to section 2121(c),2164(b), 2164(c), or 2164(d) of this title) to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, the Nuclear Regulatory Commission, the Department of State, the Department of Energy, and the Department of Defense shall, upon the request of either of those committees, promptly furnish to those committees their views as to whether the safeguards and other controls contained therein provide an adequate framework to ensure that any exports as contemplated by such agreement will not be inimical to or constitute an unreasonable risk to the common defense and security.
 
 If, after March 10, 1978, the Congress fails to disapprove a proposed agreement for cooperation which exempts the recipient nation from the requirement set forth in subsection (a)(2) of this section, such failure to act shall constitute a failure to adopt a resolution of disapproval pursuant to section 2157(b)(3) of this title for purposes of the Commission's consideration of applications and requests under section 2155(a)(2) of this title and there shall be no congressional review pursuant to section 2157 of this title of any subsequent license or authorization with respect to that state until the first such license or authorization which is issued after twelve months from the elapse of the sixty-day period in which the agreement for cooperation in question is reviewed by the Congress.
 
@@ -102,6 +102,8 @@ Subsec. (d). Pub. L. 85–479, §4, added subsec. (d).
 
 #### Change of Name
 
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1998 Amendment
@@ -134,7 +136,7 @@ The performance of functions under this chapter, as amended by the Nuclear Non-P
 
 #### Fuel Cycle Evaluations; Report to Congress
 
-Pub. L. 95–601, §9, Nov. 6, 1978, 92 Stat. 2951, directed Commission to monitor and assist, as requested, International Fuel Cycle Evaluation and studies and evaluations of various nuclear fuel cycle systems by Department of Energy in progress as of Nov. 6, 1978, and report to Congress semiannually through calendar year 1980 and annually through calendar year 1982 on status of domestic and international evaluations of nuclear fuel cycle systems, with report to include a summary of information developed by and available to Commission on health, safety, and safeguards implications of leading fuel cycle technologies.
+Pub. L. 95–601, §9, Nov. 6, 1978, 92 Stat. 2951, directed Commission to monitor and assist, as requested, International Fuel Cycle Evaluation and studies and evaluations of various nuclear fuel cycle systems by Department of Energy in progress as of Nov. 6, 1978, and report to Congress semiannually through calendar year 1980 and annually through calendar year 1982 on status of domestic and international evaluations of nuclear fuel cycle systems, with report to include a summary of information developed by and available to Commissionon health, safety, and safeguards implications of leading fuel cycle technologies.
 
 #### Adequacy of Laws and Regulations Governing Export and Re-Export of Nuclear Materials, etc., and Safeguards Preventing Proliferation of Nuclear Materials
 
@@ -165,8 +167,4 @@ Sec. 3. This order shall not be construed as delegating the function vested in t
 Sec. 4. (a) The functions of negotiating and entering into international agreements under the Act \[this chapter\] shall be performed by or under the authority of the Secretary of State.
 
 (b) International cooperation under the Act \[this chapter\] shall be subject to the responsibilities of the Secretary of State with respect to the foreign policy of the United States pertinent thereto.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2014, 2073, 2074, 2077, 2094, 2112, 2121, 2133, 2134, 2153c, 2153d, 2153e, 2154, 2159, 2160, 2164, 2201, 2291, 2294, 2295 of this title; title 22 section 3281.
 

@@ -10,7 +10,3 @@
 
 1983—Subsec. (b). Pub. L. 97–373 substituted “There is also authorized to be appropriated $100,000,000 for construction of distribution and drainage facilities for non-Indian lands plus or minus such amounts, if any, as may be justified by reason of ordinary fluctuations in construction costs as indicated by engineering and cost indices applicable to the types of construction involved therein from September 30, 1968: <i>Provided</i>, That the Secretary shall enter into agreements with non-Federal interests to provide not less than 20 per centum of the total cost of such facilities during the construction of such facilities” for “There is also authorized to be appropriated $100,000,000 for construction of distribution and drainage facilities for non-Indian lands”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1543 of this title.
-

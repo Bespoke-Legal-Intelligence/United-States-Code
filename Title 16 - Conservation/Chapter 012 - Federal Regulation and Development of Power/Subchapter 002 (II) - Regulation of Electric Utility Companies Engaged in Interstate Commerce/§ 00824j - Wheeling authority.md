@@ -26,7 +26,7 @@ No order may be issued under this section or section 824i of this title if, afte
 
 &emsp;(B) any transmission capacity of the utility providing transmission services under such order which was, at the time such order was issued, in excess of the capacity necessary to serve its own customers is no longer in excess of the capacity necessary for such purposes, or
 
-&emsp;(C) the ordered transmission services require enlargement of transmission capacity and thetransmitting utility subject to the order has failed, after making a good faith effort, to obtain the necessary approvals or property rights under applicable Federal, State, and local laws.
+&emsp;(C) the ordered transmission services require enlargement of transmission capacity and the transmitting utility subject to the order has failed, after making a good faith effort, to obtain the necessary approvals or property rights under applicable Federal, State, and local laws.
 
 > No order shall be issued under this subsection pursuant to a finding under subparagraph (A) unless the Commission finds that such order is in the public interest.
 
@@ -74,7 +74,7 @@ Subsec. (b). Pub. L. 102–486, §721(3), amended subsec. (b) generally, substit
 
 Subsec. (c). Pub. L. 102–486, §721(4), struck out pars. (1), (3), and (4), and substituted “which requires the transmitting” for “which requires the electric” in introductory provisions of par. (2). Prior to amendment, pars. (1), (3), and (4) read as follows:
 
-“(1) No order may be issued under subsection (a) of this section unless the Commission determines that such order would reasonably preserve existing competitive relationships.
+“(1) No order may be issued under subsection (a) of this section unless the Commission determines thatsuch order would reasonably preserve existing competitive relationships.
 
 “(3) No order may be issued under the authority of subsection (a) or (b) of this section which is inconsistent with any State law which governs the retail marketing areas of electric utilities.
 
@@ -97,10 +97,6 @@ Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intend
 #### Transfer of Functions
 
 The Federal Power Commission was terminated and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 824, 824a–3, 824k, 825n, 825<i>o</i>, 825<i>o</i>–1 of this title; title 26 section 142.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 

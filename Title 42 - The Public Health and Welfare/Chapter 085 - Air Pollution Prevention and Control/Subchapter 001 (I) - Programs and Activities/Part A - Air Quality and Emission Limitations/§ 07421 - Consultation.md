@@ -26,9 +26,5 @@ Section 7413(d) of this title, referred to in text, was amended generally by Pub
 
 Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7410 of this title; title 15 section 1410.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

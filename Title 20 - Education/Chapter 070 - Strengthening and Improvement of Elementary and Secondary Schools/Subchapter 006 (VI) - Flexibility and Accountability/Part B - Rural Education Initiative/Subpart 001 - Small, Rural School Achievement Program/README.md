@@ -1,9 +1,5 @@
 subpart 1—small, rural school achievement program
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 7355a, 7355c of this title.
-
 
 ---
 

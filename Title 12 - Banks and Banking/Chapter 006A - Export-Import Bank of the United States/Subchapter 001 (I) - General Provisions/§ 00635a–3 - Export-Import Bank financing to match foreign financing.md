@@ -40,7 +40,7 @@ Subsec. (b). Pub. L. 99–472, §15(a), amended subsec. (b) generally. Prior to 
 
 &emsp;“(2) the foreign noncompetitive financing has not been withdrawn on the date the Bank is authorized to provide competitive financing.”
 
-1983—Subsec. (a)(1). Pub. L. 98–181, §631(1), inserted provision that the inquiry, and where appropriate, thedetermination and authorization to the Export-Import Bank of the United States referred to in this section shall be completed and made within 60 days of the receipt of such information.
+1983—Subsec. (a)(1). Pub. L. 98–181, §631(1), inserted provision that the inquiry, and where appropriate, the determination and authorization to the Export-Import Bank of the United States referred to in this section shall be completed and made within 60 days of the receipt of such information.
 
 Subsec. (a)(2). Pub. L. 98–181, §633(b), substituted “the Secretary shall request” for “he shall request”.
 
@@ -51,8 +51,4 @@ Subsec. (b)(1). Pub. L. 98–181, §631(2), substituted “significant factor”
 #### Effective Date
 
 Section effective Nov. 10, 1978, see section 1917 of Pub. L. 95–630, set out as an Effective Date of 1978 Amendment note under section 635 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 19 section 1671g.
 

@@ -38,7 +38,7 @@ To qualify for appointment as the Chief Operating Officer, a person shall—
 
 (1) The Secretary of Defense may prescribe the pay of the Chief Operating Officer, except that the annual rate of basic pay, including locality pay, of the Chief Operating Officer may not exceed the annual rate of basic pay payable for level III of the Executive Schedule under section 5314 of title 5.
 
-(2) In addition to basic pay and any locality pay prescribed for the Chief Operating Officer, the Secretary may award the Chief Operating Officer, not more than once each year, a bonus based on the performance of the Chief Operating Officer for the year. The Secretary shall prescribe the amount of any such bonus.
+(2) In addition to basic pay and any locality pay prescribed for the Chief Operating Officer,the Secretary may award the Chief Operating Officer, not more than once each year, a bonus based on the performance of the Chief Operating Officer for the year. The Secretary shall prescribe the amount of any such bonus.
 
 (3) The total amount of the basic pay and bonus paid the Chief Operating Officer for a year under this section may not exceed the annual rate of basic pay payable for level I of the Executive Schedule under section 5312 of title 5.
 
@@ -81,8 +81,4 @@ Section effective one year after Nov. 5, 1990, except that provisions of this se
 #### Savings Provision
 
 Section 1051(b)(2) of Pub. L. 104–201 provided that: “The amendment made by this subsection \[amending this section\] shall not affect the staggered terms of members of the Armed Forces Retirement Home Board or a Local Board of the Retirement Home under section 1515(f) of such Act \[subsec. (f) of this section\], as such section is in effect before the date of the enactment of this Act \[Sept. 23, 1996\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 411 of this title.
 

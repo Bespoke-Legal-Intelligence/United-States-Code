@@ -18,7 +18,3 @@ Authorizations of appropriations under subsection (a) shall remain available unt
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7612, 7622, 7631, 7632, 7633, 7634, 7654, 7655, 7672, 7673 of this title.
-

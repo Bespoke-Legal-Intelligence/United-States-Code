@@ -10,7 +10,3 @@ Every undertaking or promise hereafter made, whether written or oral, express or
 
 (Mar. 23, 1932, ch. 90, §3, 47 Stat. 70.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 104 of this title.
-

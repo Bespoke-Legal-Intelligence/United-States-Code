@@ -22,7 +22,7 @@
 
 I74legislative statements
 
-Section 341(c) of the Senate amendment is deleted and a contrary provision is added indicating that the bankruptcy judge will not preside at or attend the first meeting of creditors or equity security holders but a discharge hearing for all individuals will be held at which the judge will preside.
+Section 341(c) of the Senate amendment is deleted and a contrary provision is added indicating that the bankruptcy judge will not preside at or attend the first meeting of creditors or equity security holders but adischarge hearing for all individuals will be held at which the judge will preside.
 
 #### senate report no. 95–989
 
@@ -61,8 +61,4 @@ Presiding Officer.—A bankruptcy administrator appointed under section 302(d)(3
 “(b)
 
 Examination of the Debtor.—The bankruptcy administrator or the bankruptcy administrator's designee may examine the debtor at the meeting of creditors and may administer the oath required under section 343 of title 11, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 343, 702, 705, 1161 of this title.
 

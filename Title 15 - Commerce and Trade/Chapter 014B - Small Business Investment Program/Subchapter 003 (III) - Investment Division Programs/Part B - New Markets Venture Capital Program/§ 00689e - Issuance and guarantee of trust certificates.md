@@ -46,7 +46,7 @@ The Administrator shall not collect a fee for any guarantee of a trust certifica
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator may contract with an agent or agents to carry out on behalf of the Administrator the pooling and the central registration functions provided for in this section including, notwithstanding any other provision of law—
+&emsp;&emsp;The Administrator may contract with an agent or agents to carry out on behalf of theAdministrator the pooling and the central registration functions provided for in this section including, notwithstanding any other provision of law—
 
 &emsp;&emsp;&emsp;(i) maintenance, on behalf of and under the direction of the Administrator, of such commercial bank accounts or investments in obligations of the United States as may be necessary to facilitate the creation of trusts or pools backed by debentures guaranteed under this part; and
 
@@ -65,8 +65,4 @@ The Administrator shall not collect a fee for any guarantee of a trust certifica
 &emsp;Nothing in this subsection may be construed to prohibit the use of a book-entry or other electronic form of registration for trust certificates issued under this section.
 
 (Pub. L. 85–699, title III, §356, as added Pub. L. 106–554, §1(a)(8) \[§1(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–658.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 689f of this title.
 

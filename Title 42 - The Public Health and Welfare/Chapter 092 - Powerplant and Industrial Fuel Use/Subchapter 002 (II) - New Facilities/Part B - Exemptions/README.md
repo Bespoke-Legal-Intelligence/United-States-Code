@@ -1,9 +1,5 @@
 Part B—Exemptions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 8311 of this title.
-
 
 ---
 

@@ -54,7 +54,7 @@ Pub. L. 101–237, §423(a)(5)(B), substituted “employment during and since th
 
 Subsec. (b). Pub. L. 100–689, §106(b)(2), substituted “1691(a) (other than clause (1))” for “1691(a)(1)”.
 
-1986—Subsec. (a). Pub. L. 99–576, §§308(b), 310(c)(1), (2), designated existing provisions as subsec. (a), substituted “section 1787) shall be applicable with respect to individuals who are pursuing programs of education while serving on active duty” for “sections 1777, 1780(c),and 1787) shall be applicable to the program”, and inserted “1685,” after “1683,”.
+1986—Subsec. (a). Pub. L. 99–576, §§308(b), 310(c)(1), (2), designated existing provisions as subsec. (a), substituted “section 1787) shall be applicable with respect to individuals who are pursuing programs of education while serving on active duty” for “sections 1777, 1780(c), and 1787) shall be applicable to the program”, and inserted “1685,” after “1683,”.
 
 Subsec. (b). Pub. L. 99–576, §310(c)(3), added subsec. (b).
 
@@ -89,8 +89,4 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(d)(2) of P
 #### Savings Provision
 
 Amendment by Pub. L. 102–586 not applicable to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on Oct. 29, 1992, for as long as such person is continuously thereafter so enrolled and meets requirements of eligibility for such assistance, see section 313(b) of Pub. L. 102–568, set out as a note under section 16136 of Title 10, Armed Forces.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3231, 3680A, 3688 of this title.
 

@@ -1,9 +1,5 @@
 subpart 1—coordinated national strategy
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 6302, 6553, 6561i of this title.
-
 
 ---
 

@@ -40,7 +40,3 @@ The Secretary, from time to time, may amend an order. The provisions of this cha
 
 (Pub. L. 106–387, §1(a) \[title XII, §1204\], Oct. 28, 2000, 114 Stat. 1549, 1549A–81.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7804, 7805 of this title.
-

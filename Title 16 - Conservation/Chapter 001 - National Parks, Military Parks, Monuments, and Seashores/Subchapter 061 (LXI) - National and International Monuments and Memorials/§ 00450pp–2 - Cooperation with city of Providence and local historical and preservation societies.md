@@ -10,7 +10,3 @@ The Secretary may accept on behalf of the people of the United States gifts of h
 
 (Pub. L. 89–293, §3, Oct. 22, 1965, 79 Stat. 1070.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 450pp–3 of this title.
-

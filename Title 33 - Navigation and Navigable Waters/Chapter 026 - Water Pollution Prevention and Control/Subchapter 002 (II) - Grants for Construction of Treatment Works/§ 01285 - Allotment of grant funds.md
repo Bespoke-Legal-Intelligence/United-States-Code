@@ -152,7 +152,7 @@ Sums allotted to the States for a fiscal year shall remain available for obligat
 
 #### (e) Minimum allotment; additional appropriations; ratio of amount available
 
-For the fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990, no State shall receive less than one-half of 1 per centum of the total allotment under subsection (c) of this section, except that in the case of Guam, Virgin Islands, American Samoa, and the Trust Territories not more than thirty-three one-hundredths of 1 per centum in the aggregate shall be allotted to all four of these jurisdictions. For the purpose of carrying out this subsection there are authorized to be appropriated, subject to such amounts as are provided in appropriation Acts, not to exceed $75,000,000 for each of fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990. If for any fiscal year the amount appropriated under authority of this subsection is less than the amount necessary to carry out this subsection, the amount each State receives under this subsection for such year shall bear the same ratio to the amount such State would have received under this subsection in such year if the amount necessary to carry it out had been appropriated as the amount appropriated for such year bears to the amount necessary to carry out this subsection for such year.
+For the fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990, noState shall receive less than one-half of 1 per centum of the total allotment under subsection (c) of this section, except that in the case of Guam, Virgin Islands, American Samoa, and the Trust Territories not more than thirty-three one-hundredths of 1 per centum in the aggregate shall be allotted to all four of these jurisdictions. For the purpose of carrying out this subsection there are authorized to be appropriated, subject to such amounts as are provided in appropriation Acts, not to exceed $75,000,000 for each of fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990. If for any fiscal year the amount appropriated under authority of this subsection is less than the amount necessary to carry out this subsection, the amount each State receives under this subsection for such year shall bear the same ratio to the amount such State would have received under this subsection in such year if the amount necessary to carry it out had been appropriated as the amount appropriated for such year bears to the amount necessary to carry out this subsection for such year.
 
 #### (f) Omitted
 
@@ -184,7 +184,7 @@ Not less than 1/2 of 1 percent of funds allotted to a State for each of the fisc
 
 &emsp;(D) determining those publicly owned treatment works which should be constructed with assistance under this subchapter, in which areas and in what sequence, taking into account the relative degree of effluent reduction attained, the relative contributions to water quality of other point or nonpoint sources, and the consideration of alternatives to such construction, and implementing section 1313(e) of this title.
 
-(3) In carrying out planning with grants made under paragraph (2) of this subsection, a Stateshall develop jointly with local, regional, and interstate entities, a plan for carrying out the program and give funding priority to such entities and designated or undesignated public comprehensive planning organizations to carry out the purposes of this subsection. In giving such priority, the State shall allocate at least 40 percent of the amount granted to such State for a fiscal year under paragraph (2) of this subsection to regional public comprehensive planning organizations in such State and appropriate interstate organizations for the development and implementation of the plan described in this paragraph. In any fiscal year for which the Governor, in consultation with such organizations and with the approval of the Administrator, determines that allocation of at least 40 percent of such amount to such organizations will not result in significant participation by such organizations in water quality management planning and not significantly assist in development and implementation of the plan described in this paragraph and achieving the goals of this chapter, the allocation to such organization may be less than 40 percent of such amount.
+(3) In carrying out planning with grants made under paragraph (2) of this subsection, a State shall develop jointly with local, regional, and interstate entities, a plan for carrying out the program and give funding priority to such entities and designated or undesignated public comprehensive planning organizations to carry out the purposes of this subsection. In giving such priority, the State shall allocate at least 40 percent of the amount granted to such State for a fiscal year under paragraph (2) of this subsection to regional public comprehensive planning organizations in such State and appropriate interstate organizations for the development and implementation of the plan described in this paragraph. In any fiscal year for which the Governor, in consultation with such organizations and with the approval of the Administrator, determines that allocation of at least 40 percent of such amount to such organizations will not result in significant participation by such organizations in water quality management planning and not significantly assist in development and implementation of the plan described in this paragraph and achieving the goals of this chapter, the allocation to such organization may be less than 40 percent of such amount.
 
 (4) All activities undertaken under this subsection shall be in coordination with other related provisions of this chapter.
 
@@ -232,7 +232,7 @@ The Administrator shall allot to the State of New York from sums authorized to b
 
 #### (2) Notice requirement
 
-&emsp;The Governor of a State may make a request under paragraph (1) for a deposit into the water pollution control revolving fund of such State—
+&emsp;The Governor of a State may make a request under paragraph (1) for a deposit into thewater pollution control revolving fund of such State—
 
 &emsp;&emsp;(A) in fiscal year 1987 only if no later than 90 days after February 4, 1987, and
 
@@ -244,7 +244,7 @@ The Administrator shall allot to the State of New York from sums authorized to b
 
 &emsp;Sums reserved under section 1285(j) of this title shall not be available for obligation under this subsection.
 
-(June 30, 1948, ch. 758, title II, §205, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 837; amended Pub. L. 93–243, §1, Jan. 2, 1974, 87 Stat. 1069; Pub. L. 95–217, §§25, 26(a), 27, 28, Dec. 27, 1977, 91 Stat. 1574, 1575; Pub. L. 96–483, §11, Oct. 21, 1980, 94 Stat. 2363; Pub. L. 97–117, §§8(c), 13–16,Dec. 29, 1981, 95 Stat. 1625, 1627–1629; Pub. L. 100–4, title II, §§206(a)–(c), 207–210, 212(b), title III, §316(d), Feb. 4, 1987, 101 Stat. 19–21, 27, 60; Pub. L. 105–362, title V, §501(d)(2)(C), Nov. 10, 1998, 112 Stat. 3284; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
+(June 30, 1948, ch. 758, title II, §205, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 837; amended Pub. L. 93–243, §1, Jan. 2, 1974, 87 Stat. 1069; Pub. L. 95–217, §§25, 26(a), 27, 28, Dec. 27, 1977, 91 Stat. 1574, 1575; Pub. L. 96–483, §11, Oct. 21, 1980, 94 Stat. 2363; Pub. L. 97–117, §§8(c), 13–16, Dec. 29, 1981, 95 Stat. 1625, 1627–1629; Pub. L. 100–4, title II, §§206(a)–(c), 207–210, 212(b), title III, §316(d), Feb. 4, 1987, 101 Stat. 19–21, 27, 60; Pub. L. 105–362, title V, §501(d)(2)(C), Nov. 10, 1998, 112 Stat. 3284; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
 #### Codification
 
@@ -302,7 +302,7 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
+Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b)of Pub. L. 107–303, set out as a note under section 1254 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -311,10 +311,6 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### Availability of Allotted Sums in Subsequent Years; Reallotment of Unobligated Sums
 
 Section 7 of Pub. L. 96–483 provided that: “Notwithstanding section 205(d) of the Federal Water Pollution Control Act (33 U.S.C. 1285), sums allotted to the States for the fiscal year 1979 shall remain available for obligation for the fiscal year for which authorized and for the period of the next succeeding twenty-four months. The amount of any allotment not obligated by the end of such thirty-six month period shall be immediately reallotted by the Administrator on the basis of the same ratio as applicable to sums allotted for the then current fiscal year, except that none of the funds reallotted by the Administrator for fiscal year 1979 shall be allotted to any State which failed to obligate any of the funds being reallotted. Any sum made available to a State by reallotment under this section shall be in addition to any funds otherwise allotted to such State for grants under title II of the Federal Water Pollution Control Act \[this subchapter\] during any fiscal year. This section shall take effect on September 30, 1980.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1254, 1259, 1266, 1281, 1282, 1283, 1329, 1377, 1382, 1383, 1384, 1414b of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “1986”.</i>
 

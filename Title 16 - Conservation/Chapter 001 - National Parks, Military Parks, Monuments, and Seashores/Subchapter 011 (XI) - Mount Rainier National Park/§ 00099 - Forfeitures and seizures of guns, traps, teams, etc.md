@@ -8,7 +8,3 @@ All guns, traps, teams, horses, or means of transportation of every nature or de
 
 This Act, referred to in text, is act June 30, 1916, which is classified to sections 95 to 105 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 108 of this title.
-

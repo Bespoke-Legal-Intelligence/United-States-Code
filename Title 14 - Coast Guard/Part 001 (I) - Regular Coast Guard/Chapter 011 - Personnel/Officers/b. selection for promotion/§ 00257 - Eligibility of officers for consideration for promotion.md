@@ -24,7 +24,7 @@
 
 (e) An officer whose involuntary retirement or separation is deferred under section 295 of this title is not eligible for consideration for promotion to the next higher grade during the period of that deferment.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 179; amended Pub. L. 94–546, §1(19), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 98–557, §17(b)(1), Oct. 30, 1984, 98 Stat. 2867.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 179; amended Pub. L. 94–546, §1(19), Oct. 18,1976, 90 Stat. 2520; Pub. L. 98–557, §17(b)(1), Oct. 30, 1984, 98 Stat. 2867.)
 
 #### Amendments
 

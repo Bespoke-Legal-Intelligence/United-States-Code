@@ -54,7 +54,7 @@ In the case of a concurrent resolution on the budget referred to in section 635 
 
 #### (e) Alteration of allocations
 
-At any time after a committee reports the allocations required to be made under subsection\(b) of this section, such committee may report to its House an alteration of such allocations. Any alteration of such allocations must be consistent with any actions already taken by its House on legislation within the committee's jurisdiction.
+At any time after a committee reports the allocations required to be made under subsection (b) of this section, such committee may report to its House an alteration of such allocations. Any alteration of such allocations must be consistent with any actions already taken by its House on legislation within the committee's jurisdiction.
 
 #### (f) Legislation subject to point of order
 
@@ -112,7 +112,7 @@ At any time after a committee reports the allocations required to be made under 
 
 #### References in Text
 
-This Act, referred to in subsec. (g)(2)(B), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A, and 17B and section 190a–3 of this title and sections 11a, 11c, 11d,1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, and sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in subsec. (g)(2)(B), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A, and 17B and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, and sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 
@@ -120,7 +120,7 @@ Section was formerly classified to section 1323 of Title 31 prior to the general
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10106(a), added subsec. (a) and struck out former subsec. (a) which required inclusion of certain allocations to committees of the House of Representatives and of the Senate in the joint explanatory statement accompanying a conference report on a concurrent resolution on the budget.
+1997—Subsec. (a). Pub. L. 105–33, §10106(a), added subsec. (a) and struck out former subsec. (a) which required inclusion of certain allocations to committees of the House of Representatives and of the Senate in the joint explanatory statement accompanying a conference report on a concurrent resolution on the budget.
 
 Subsec. (b). Pub. L. 105–33, §10106(a), added subsec. (b) and struck out former subsec. (b) which required committees of each House to subdivide among their subcommittees the allocations of budget outlays and new budget authority allocated to them in joint explanatory statement accompanying conference report on concurrent resolution on budget and required further subdivisions of such allocations by subcommittees.
 
@@ -138,7 +138,7 @@ Subsec. (f)(2). Pub. L. 105–33, §10106(c)(2), reenacted heading without chang
 
 Subsec. (g). Pub. L. 105–33, §10106(d), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of this section, the levels of new budget authority, spending authority as described in section 651(c)(2) of this title, outlays, and new credit authority for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or the Senate, as the case may be.”
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–508, §13201(b)(3)(A), substituted “and total entitlement authority” for “total entitlement authority, and total credit authority”, “or such entitlement authority” for “such entitlement authority, or such credit authority”, and “and entitlement authority” for “entitlement authority, and credit authority”.
+1990—Subsec. (a)(1). Pub. L. 101–508, §13201(b)(3)(A), substituted “and total entitlement authority” for “total entitlement authority, and total credit authority”, “or such entitlement authority” for “such entitlement authority, or such credit authority”, and “and entitlement authority” for “entitlement authority, and credit authority”.
 
 Subsec. (a)(2). Pub. L. 101–508, §13303(c)(1), inserted “social security outlays for the fiscal year of the resolution and for each of the 4 succeeding fiscal years,” after “appropriate levels of”.
 
@@ -168,7 +168,7 @@ Pub. L. 101–508, §13201(b)(2), temporarily inserted “or new credit authorit
 
 Pub. L. 101–508, §13112(a)(7), inserted “(A)” after “in excess of”, substituted “under subsection (a) of this section, or (B) the appropriate allocation (if any) of such outlays or authority reported under subsection (b) of this section” for “under subsection (b) of this section”, and inserted after first sentence “Subparagraph (A) shall not apply to any bill, resolution, amendment, motion, or conference report that is within the jurisdiction of the Committee on Appropriations.”
 
-<b>1985</b>—Pub. L. 99–177 substituted “Committee allocations” for “Matters to be included in joint statement of managers; reports by committees” in section catchline.
+1985—Pub. L. 99–177 substituted “Committee allocations” for “Matters to be included in joint statement of managers; reports by committees” in section catchline.
 
 Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, providing for separate provisions relating to allocations of totals for the House of Representatives and for the Senate, with respect to the joint explanatory statement accompanying the conference report on a concurrent resolution on the budget.
 
@@ -189,10 +189,6 @@ Amendment by section 13303(c) of Pub. L. 101–508 applicable with respect to fi
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (f), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 632, 634, 639, 641, 642, 645, 651, 907a, 907c of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

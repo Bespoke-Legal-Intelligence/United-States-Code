@@ -48,7 +48,3 @@ Section effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out 
 
 Payment to Governors of Board of Governors of Postal Service of $300 a day for not more than 60 days of meetings in each of first 2 years following effective date of this section \[see Effective Date note set out above\], notwithstanding this section, see section 5(g) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 102, 203, 1001, 1005 of this title; title 2 section 356.
-

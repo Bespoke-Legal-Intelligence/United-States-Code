@@ -18,7 +18,7 @@ Subsec. (b). Pub. L. 106–408 substituted “section 669c(c) of this title” f
 
 1972—Subsec. (b). Pub. L. 92–558 substituted “public target ranges” for “public outdoor target ranges” in two places.
 
-1970—Pub. L. 91–503 designated existing provisions as subsec. (a), struck out the 25 percent limitation on the use of Federal funds for wildlife restoration projects and the 30 percent limitation on the use of Federal funds for the management of wild life areas and resources, and added subsec. (b).
+1970—Pub. L. 91–503 designated existing provisions as subsec. (a), struck out the 25 percent limitation on the use of Federal funds for wildlife restoration projectsand the 30 percent limitation on the use of Federal funds for the management of wild life areas and resources, and added subsec. (b).
 
 1955—Act Aug. 12, 1955, permitted expenditure of funds for management of wildlife areas and resource.
 
@@ -27,10 +27,6 @@ Subsec. (b). Pub. L. 106–408 substituted “section 669c(c) of this title” f
 #### Effective Date of 1972 Amendment
 
 Section 102(b) of Pub. L. 92–558 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1972\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 669c, 669g–1, 669h–1 of this title.
 
 <i><sup>1</sup></i><i> Probably means section 669c(c) relating to apportionment of certain taxes.</i>
 

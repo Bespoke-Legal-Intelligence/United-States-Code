@@ -36,7 +36,3 @@
 
 (Pub. L. 99–659, title II, §217, Nov. 14, 1986, 100 Stat. 3730.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4011 of this title.
-

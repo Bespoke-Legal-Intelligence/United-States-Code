@@ -20,7 +20,7 @@ Disclosure Requirements.—Under regulations prescribed by the Secretary of Tran
 
 (b)
 
-Mileage Statement Requirement for Licensing.—(1) A motor vehicle the ownership of which is transferred may not be licensed for use in a State unless the transferee, in submitting an application to a State for the title on which the license will be issued, includes with the application the transferor's title and, if that title contains the space referred to in paragraph (3)(A)(iii) of this subsection, a statement, signed and dated by the transferor, of the mileage disclosure required under subsection (a) of this section. This paragraph does not apply to a transferof ownership of a motor vehicle that has not been licensed before the transfer.
+Mileage Statement Requirement for Licensing.—(1) A motor vehicle the ownership of which is transferred may not be licensed for use in a State unless the transferee, in submitting an application to a State for the title on which the license will be issued, includes with the application the transferor's title and, if that title contains the space referred to in paragraph (3)(A)(iii) of this subsection, a statement, signed and dated by the transferor, of the mileage disclosure required under subsection (a) of this section. This paragraph does not apply to a transfer of ownership of a motor vehicle that has not been licensed before the transfer.
 
 (2)(A) Under regulations prescribed by the Secretary, if the title to a motor vehicle issued to a transferor by a State is in the possession of a lienholder when the transferor transfers ownership of the vehicle, the transferor may use a written power of attorney (if allowed by State law) in making the mileage disclosure required under subsection (a) of this section. Regulations prescribed under this paragraph—
 
@@ -215,8 +215,4 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 #### Regulations
 
 Section 4(q) of Pub. L. 103–272 provided that: “The revision of regulations, referred to in section 32705(b)(2)(A) of title 49, United States Code, as enacted by section 1 of this Act, that is required by section 7 of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) \[former 15 U.S.C. 1988(d)(1)(C), 1988 note\] shall be prescribed not later than May 28, 1991.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30502, 32703 of this title.
 

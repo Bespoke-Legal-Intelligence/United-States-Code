@@ -54,9 +54,5 @@ For purposes of this chapter:
 
 (Pub. L. 101–73, title XI, §1121, Aug. 9, 1989, 103 Stat. 517.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3349 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -10,13 +10,13 @@ The Chief Justice shall publicly designate three judges, one of whom shall be pu
 
 #### (c) Expeditious conduct of proceedings; security measures for maintenance of records
 
-Proceedings under this chapter shall be conducted as expeditiously as possible. The record of proceedings under this chapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice in consultation with the Attorney General and the Director of Central Intelligence.
+Proceedings under this chapter shall be conducted as expeditiously as possible. The record of proceedings under this chapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice in consultation with the Attorney General and the Director of National Intelligence.
 
 #### (d) Tenure
 
 Each judge designated under this section shall so serve for a maximum of seven years and shall not be eligible for redesignation, except that the judges first designated under subsection (a) of this section shall be designated for terms of from one to seven years so that one term expires each year, and that judges first designated under subsection (b) of this section shall be designated for terms of three, five, and seven years.
 
-(Pub. L. 95–511, title I, §103, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 107–56, title II, §208, Oct. 26, 2001, 115 Stat. 283.)
+(Pub. L. 95–511, title I, §103, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 107–56, title II, §208, Oct. 26, 2001, 115 Stat. 283; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691.)
 
 #### References in Text
 
@@ -24,9 +24,11 @@ This chapter, referred to in subsecs. (a), (b), and (c), was in the original “
 
 #### Amendments
 
+2004—Subsec. (c). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
 2001—Subsec. (a). Pub. L. 107–56 substituted “11 district court judges” for “seven district court judges” and inserted “of whom no fewer than 3 shall reside within 20 miles of the District of Columbia” after “judicial circuits”.
 
-#### Section Referred to in Other Sections
+#### Effective Date of 2004 Amendment
 
-This section is referred to in sections 1802, 1804, 1805, 1821, 1822, 1824, 1842, 1861 of this title; title 8 section 1532.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

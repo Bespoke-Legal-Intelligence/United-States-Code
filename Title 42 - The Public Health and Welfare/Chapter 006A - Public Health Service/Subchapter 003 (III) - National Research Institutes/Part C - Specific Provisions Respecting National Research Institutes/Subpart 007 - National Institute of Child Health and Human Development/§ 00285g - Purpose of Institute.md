@@ -10,7 +10,7 @@ The general purpose of the National Institute of Child Health and Human Developm
 
 #### Long-Term Child Development Study
 
-Pub. L. 106–310, div. A, title X, §1004, Oct. 17, 2000, 114 Stat. 1130, provided that:
+Pub. L. 106–310, div. A, title X, §1004, Oct. 17, 2000, 114 Stat. 1130, as amended by Pub. L. 108–446, title III, §301, Dec. 3, 2004, 118 Stat. 2803, provided that:
 
 “(a)
 
@@ -18,7 +18,7 @@ Purpose.—It is the purpose of this section to authorize the National Institute
 
 “(b)
 
-In General.—The Director of the National Institute of Child Health and Human Development shall establish a consortium of representatives from appropriate Federal agencies (including the Centers for Disease Control and Prevention, the Environmental Protection Agency) to—
+In General.—The Director of the National Institute of Child Health and Human Development shall establish a consortium of representatives from appropriate Federal agencies (including the Centers for Disease Control and Prevention, the Environmental Protection Agency, and the Department of Education) to—
 
 &emsp;“(1) plan, develop, and implement a prospective cohort study, from birth to adulthood, to evaluate the effects of both chronic and intermittent exposures on child health and human development; and
 
@@ -30,9 +30,11 @@ Requirement.—The study under subsection (b) shall—
 
 &emsp;“(1) incorporate behavioral, emotional, educational, and contextual consequences to enable a complete assessment of the physical, chemical, biological and psychosocial environmental influences on children's well-being;
 
-&emsp;“(2) gather data on environmental influences and outcomes on diverse populations of children, which may include the consideration of prenatal exposures; and
+&emsp;“(2) gather data on environmental influences and outcomes on diverse populations of children, which may include the consideration of prenatal exposures;
 
-&emsp;“(3) consider health disparities among children which may include the consideration of prenatal exposures.
+&emsp;“(3) consider health disparities among children which may include the consideration of prenatal exposures; and
+
+&emsp;“(4) be conducted in compliance with section 444 of the General Education Provisions Act (20 U.S.C. 1232g), including the requirement of prior parental consent for the disclosure of any education records, except without the use of authority or exceptions granted to authorized representatives of the Secretary of Education for the evaluation of Federally-supported education programs or in connection with the enforcement of the Federal legal requirements that relate to such programs.
 
 “(d)
 

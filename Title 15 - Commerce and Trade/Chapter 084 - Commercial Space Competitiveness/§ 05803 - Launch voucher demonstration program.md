@@ -26,7 +26,7 @@ The Administrator shall conduct an ongoing review of the program established und
 
 1998—Subsec. (a). Pub. L. 105–303, §103(1), struck out “the Office of Commercial Programs within” after “payloads funded by” and struck out at end “Such program shall not be effective after September 30, 1995.”
 
-Subsecs. (c) to (e). Pub. L. 105–303, §103(2), (3), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Text read as follows: “In carrying out the demonstration program established under subsection (a) of this section, the Administrator, in awarding vouchers, is limited to the launch of payloads funded by the Office of Commercial Programs within the National Aeronautics and Space Administration.”
+Subsecs. (c) to (e). Pub. L. 105–303, §103(2), (3), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c).Text read as follows: “In carrying out the demonstration program established under subsection (a) of this section, the Administrator, in awarding vouchers, is limited to the launch of payloads funded by the Office of Commercial Programs within the National Aeronautics and Space Administration.”
 
 #### “Administrator” Defined
 

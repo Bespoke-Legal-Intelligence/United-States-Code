@@ -74,9 +74,5 @@ Pub. L. 98–411, title II, §202, Aug. 30, 1984, 98 Stat. 1558, repealed by Pub
 
 Pub. L. 98–166, title II, §202, Nov. 28, 1983, 97 Stat. 1085.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -66,7 +66,3 @@ The Administrator shall—
 
 (Pub. L. 85–536, §2\[35\], as added Pub. L. 106–554, §1(a)(9) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2763, 2763A–680.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 638, 657d of this title.
-

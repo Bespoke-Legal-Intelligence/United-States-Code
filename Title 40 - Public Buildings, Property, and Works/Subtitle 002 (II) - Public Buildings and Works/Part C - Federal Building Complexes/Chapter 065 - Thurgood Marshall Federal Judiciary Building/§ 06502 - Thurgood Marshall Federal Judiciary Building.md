@@ -14,7 +14,7 @@ Squares 721 and 722.—Title to squares 721 and 722 remains in the Federal Gover
 
 &emsp;(2)
 
-Building.—Title to the Building and other improvements constructed or otherwise made immediately reverts to the Government at the expiration of not more than 30 years from the effective date of the lease agreement referred to in section 6504 of this title withoutpayment of any compensation by the Government.
+Building.—Title to the Building and other improvements constructed or otherwise made immediately reverts to the Government at the expiration of not more than 30 years from the effective date of the lease agreement referred to in section 6504 of this title without payment of any compensation by the Government.
 
 (c)
 
@@ -128,5 +128,5 @@ The Building Height Act of 1910, referred to in subsec. (c)(2), is act June 1, 1
 
 #### Reference to the Thurgood Marshall Federal Judiciary Building
 
-Pub. L. 103–4, §2, Feb. 8, 1993, 107 Stat. 30, provided that: “Any reference in any law, map, regulation, document, paper, or other record of the United States to the Federal Judiciary Building referred to in section 1 \[now 40 U.S.C. 6502(a)\] shall be deemed to be a reference to the ‘Thurgood Marshall Federal Judiciary Building’.”
+Pub. L. 103–4, §2, Feb. 8, 1993, 107 Stat. 30, provided that: “Any reference in any law, map, regulation, document, paper, or other record of the United States to the Federal Judiciary Building referred to in section 1 \[now40 U.S.C. 6502(a)\] shall be deemed to be a reference to the ‘Thurgood Marshall Federal Judiciary Building’.”
 

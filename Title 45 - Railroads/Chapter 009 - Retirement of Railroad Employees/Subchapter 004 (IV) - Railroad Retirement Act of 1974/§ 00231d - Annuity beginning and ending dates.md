@@ -34,7 +34,7 @@ An application for any payment under this subchapter shall be made and filed in 
 
 (4) The entitlement of a widow or widower of a deceased employee to an annuity under paragraph (i) of section 231a(d)(1) of this title on the basis of age shall end on (A) the last day of the month preceding the month in which she or he dies or (B) the last day of the month preceding the month in which she or he remarries after the employee's death, whichever first occurs.
 
-(5) The entitlement of a widow or widower of a deceased employee to an annuity under paragraph (i) of section 231a(d)(1) of this title on the basis of disability shall end on (A) the last day of the month preceding the month in which she or he dies, (B) the last day of the month preceding the month in which she or he remarries after the employee's death, (C) the last day of the second month following the month in which she or he ceases to be disabled as provided for purposes of such paragraph, or (D) the last day of themonth preceding the month in which she or he attains age 60, whichever first occurs.
+(5) The entitlement of a widow or widower of a deceased employee to an annuity under paragraph (i) of section 231a(d)(1) of this title on the basis of disability shall end on (A) the last day of the month preceding the month in which she or he dies, (B) the last day of the month preceding the month in which she or he remarries after the employee's death, (C) the last day of the second month following the month in which she or he ceases to be disabled as provided for purposes of such paragraph, or (D) the last day of the month preceding the month in which she or he attains age 60, whichever first occurs.
 
 (6) The entitlement of a widow of a deceased employee to an annuity under paragraph (ii) of section 231a(d)(1) of this title shall end on (A) the last day of the month preceding the month in which she dies, (B) the last day of the month preceding the month in which she remarries after the employee's death, or (C) the last day of the month preceding the month in which she no longer has in her care a child described in clause (B) of such paragraph (ii) whichever first occurs.
 
@@ -42,7 +42,7 @@ An application for any payment under this subchapter shall be made and filed in 
 
 (8) The entitlement of a parent of a deceased employee to an annuity under paragraph (iv) of section 231a(d)(1) of this title shall end on the last day of the month preceding the month in which (A) such parent dies or (B) such parent remarries after the employee's death, whichever first occurs.
 
-(9) No annuity shall accrue with respect to the calendar month in which an annuitant dies. In cases where an individual entitled to an annuity under this subchapter disappears, no annuity shall accrue to that individual with respect to any month until and unless such individual is shown, by evidence satisfactory to the Board, to have continued in life throughout such month, but—
+(9) No annuity shall accrue with respect to the calendar month in which an annuitant dies. In cases where an individual entitled to an annuity under this subchapter disappears, no annuity shall accrue to that individual with respect to any month until and unless such individual is shown, by evidence satisfactory to the Board, tohave continued in life throughout such month, but—
 
 &emsp;(A) where an annuity would accrue for such month under section 231a(a)(1) of this title to an individual who had a current connection with the railroad industry at the time of such individual's disappearance, and under section 231a(c) of this title to such individual's spouse, had such individual been shown to be alive during such month, such individual shall be deemed, for the purposes of benefits under section 231a(d) of this title, to have died in the month in which such individual disappeared, and where an annuity would accrue for such month under section 231a(a)(1) of this title to an individual who did not have a current connection with the railroad industry at the time of such individual's disappearance, and under section 231a(c) of this title to such individual's spouse, had such individual been shown to be alive during such month, such individual shall be deemed, for purposes of benefits payable under section 231a(c) of this title, to be alive during such month unless the death of such individual has been established or the annuity of the spouse of such individual is otherwise terminated under subsection (c)(3) of this section, and
 
@@ -94,7 +94,7 @@ Section 103(b) of Pub. L. 98–76 provided that: “The amendments made by this 
 
 Amendment by section 104(c) of Pub. L. 98–76 effective with respect to annuities accruing for months after Aug. 1983, with certain exceptions, see section 104(d) of Pub. L. 98–76, set out as a note under section 231a of this title.
 
-Amendment by section 106(i), (j) of Pub. L. 98–76 effective Aug. 12, 1983, except such amendment inapplicable to certain annuity amounts, see section 106(k) of Pub. L. 98–76, set out as a note under section 231a of this title.
+Amendment by section 106(i), (j) of Pub. L. 98–76 effective Aug. 12, 1983, except such amendment inapplicableto certain annuity amounts, see section 106(k) of Pub. L. 98–76, set out as a note under section 231a of this title.
 
 #### Effective Date of 1981 Amendment
 

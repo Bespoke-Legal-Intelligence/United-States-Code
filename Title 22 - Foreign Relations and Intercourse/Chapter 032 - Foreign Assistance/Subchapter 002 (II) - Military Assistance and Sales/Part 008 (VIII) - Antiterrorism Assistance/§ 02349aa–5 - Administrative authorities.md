@@ -6,7 +6,7 @@ Except where expressly provided to the contrary, any reference in any law to sub
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.) and VI (§2348 et seq.)of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and section 2348c of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.) and VI (§2348 et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and section 2348c of this title.
 
 #### Codification
 

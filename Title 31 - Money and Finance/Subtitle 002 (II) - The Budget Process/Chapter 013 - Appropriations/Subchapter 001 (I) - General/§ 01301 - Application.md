@@ -76,7 +76,3 @@ Pub. L. 104–134, title I, §101(d) \[title V, §509\], Apr. 26, 1996, 110 Stat
 
 Pub. L. 103–333, title V, §515, Sept. 30, 1994, 108 Stat. 2574.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2633; title 40 section 504; title 42 section 9619.
-

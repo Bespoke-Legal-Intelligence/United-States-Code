@@ -22,7 +22,3 @@ The termination or suspension of an order, or a provision of an order, shall not
 
 (Pub. L. 99–198, title XVI, §1623, Dec. 23, 1985, 99 Stat. 1618.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4811 of this title.
-

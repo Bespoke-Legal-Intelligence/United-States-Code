@@ -16,13 +16,9 @@ The provisions of title 5 governing appointments in the competitive service, ref
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–194 substituted “subparagraphs (A) and (B) of section 352(8) of this title” for “section 352(2) and (3) of this title” in pars. (1) and (2).
+1989—Pub. L. 101–194 substituted “subparagraphs (A) and (B) of section 352(8) of this title” for “section 352(2) and (3) of this title” in pars. (1) and (2).
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 352 of this title.
 

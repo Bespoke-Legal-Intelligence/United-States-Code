@@ -26,13 +26,9 @@ For the purposes of this section—
 
 Whoever violates subsection (a) of this section shall be fined not more than $10,000 or imprisoned not more than one year, or both.
 
-(June 19, 1934, ch. 652, title V, §508, formerly §509, as added Pub. L. 96–752, §9, Sept. 13, 1960, 74 Stat. 897; renumbered §508, Pub. L. 96–507, §1, Dec. 8, 1980, 94 Stat. 2747.)
+(June 19, 1934, ch. 652, title V, §508, formerly §509, as added Pub. L. 86–752, §9, Sept. 13, 1960, 74 Stat. 897; renumbered §508, Pub. L. 96–507, §1, Dec. 8, 1980, 94 Stat. 2747.)
 
 #### Prior Provisions
 
 A prior section 508 of act June 19, 1934, ch. 652, was renumbered section 507 by section 1 of Pub. L. 96–507, and is classified to section 508 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 503 of this title.
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) if such appointment is in the interests of creditors, any equity security holders, and other interests of the estate, without regard to the number of holders of securities of the debtor or the amount of assets or liabilities of the debtor.
 
-(b) Except as provided in section 1163 of this title, on the request of a party in interest made not later than 30 days after the court orders the appointment of a trustee under subsection (a), the United States trustee shall convene a meeting of creditors for the purpose of electing one disinterested person to serve as trustee in the case. The election of a trustee shall be conducted in the manner provided in subsections (a), (b), and (c) of section 702 of this title.
+(b) Except as provided in section 1163 of this title, on the request of a party in interest madenot later than 30 days after the court orders the appointment of a trustee under subsection (a), the United States trustee shall convene a meeting of creditors for the purpose of electing one disinterested person to serve as trustee in the case. The election of a trustee shall be conducted in the manner provided in subsections (a), (b), and (c) of section 702 of this title.
 
 (c) If the court does not order the appointment of a trustee under this section, then at any time before the confirmation of a plan, on request of a party in interest or the United States trustee, and after notice and a hearing, the court shall order the appointment of an examiner to conduct such an investigation of the debtor as is appropriate, including an investigation of any allegations of fraud, dishonesty, incompetence, misconduct, mismanagement, or irregularity in the management of the affairs of the debtor of or by current or former management of the debtor, if—
 
@@ -46,7 +46,7 @@ Subsection (b) permits the court, at any time after the commencement of the case
 
 By virtue of proposed 11 U.S.C. 1109, an indenture trustee and the Securities and Exchange Commission will be parties in interest for the purpose of requesting the appointment of a trustee or examiner.
 
-Subsection (c) directs that the United States trustee actually select and appoint the trustee or examiner ordered appointed under this section. The United States trustee is required to consult with various parties in interest before selecting and appointing a trustee. He is not bound to select one of the members of the panel of private trustees established under proposed 28 U.S.C. 586(a)(1) which exists only for the purpose of providing trustees for chapter 7 cases. Neither is he precluded from selecting a panel member if the member is qualified to serve as chapter 11 trustee. Appointment by the United States trustee will remove the court from the often criticized practice of appointing an officer that will appear in litigation before the court against an adverse party.
+Subsection (c) directs that the United States trustee actually select and appoint the trustee or examiner ordered appointed under this section. The United States trustee is required to consult with various parties in interest before selecting and appointing a trustee. He is not bound to select one of the members of the panel ofprivate trustees established under proposed 28 U.S.C. 586(a)(1) which exists only for the purpose of providing trustees for chapter 7 cases. Neither is he precluded from selecting a panel member if the member is qualified to serve as chapter 11 trustee. Appointment by the United States trustee will remove the court from the often criticized practice of appointing an officer that will appear in litigation before the court against an adverse party.
 
 #### Amendments
 
@@ -67,8 +67,4 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 #### Effective Date of 1986 Amendment
 
 Effective date and applicability of amendment by Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 322, 546, 557, 1103, 1106, 1161 of this title.
 

@@ -16,11 +16,11 @@ In sections 31a to 31h of this title:
 
 #### (4) Education component
 
-&emsp;The term “education component” means the education component of the geologic mappingprogram described in section 31e(d)(3) <sup>1</sup> of this title.
+&emsp;The term “education component” means the education component of the geologic mapping program described in section 31e(d)(3) <sup>1</sup> of this title.
 
 #### (5) Federal component
 
-&emsp;The term “Federal component” means the Federal component of the geologic mapping program described in section 31e(d)(1) <sup>2</sup> of this title.
+&emsp;The term “Federal component” means the Federal component of the geologic mappingprogram described in section 31e(d)(1) <sup>2</sup> of this title.
 
 #### (6) Geologic mapping program
 
@@ -59,10 +59,6 @@ Pars. (3) to (5). Pub. L. 105–36, §3(a)(2), (5), redesignated pars. (2) to (4
 Par. (6). Pub. L. 105–36, §3(a)(4), added par. (6).
 
 Par. (7). Pub. L. 105–36, §3(a)(2), (5), redesignated par. (5) as (7) and inserted heading.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 31h of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “31c(d)(3)”.</i>
 

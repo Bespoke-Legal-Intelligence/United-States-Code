@@ -28,7 +28,7 @@ In the case of any action taken under subsection (a) of this section, the head o
 
 #### (f) Exhaustion of administrative remedies
 
-With respect to actions brought for relief based on an alleged violation of the provisions ofthis chapter, administrative remedies shall be deemed exhausted upon the expiration of 180 days from the filing of an administrative complaint during which time the Federal department or agency makes no finding with regard to the complaint, or upon the day that the Federal department or agency issues a finding in favor of the recipient of financial assistance, whichever occurs first.
+With respect to actions brought for relief based on an alleged violation of the provisions of this chapter, administrative remedies shall be deemed exhausted upon the expiration of 180 days from the filing of an administrative complaint during which time the Federal department or agency makes no finding with regard to the complaint, or upon the day that the Federal department or agency issues a finding in favor of the recipient of financial assistance, whichever occurs first.
 
 (Pub. L. 94–135, title III, §305, Nov. 28, 1975, 89 Stat. 730; Pub. L. 95–478, title IV, §401(c), (d), Oct. 18, 1978, 92 Stat. 1555, 1556; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
@@ -51,8 +51,4 @@ Subsec. (f). Pub. L. 95–478, §401(c), added subsec. (f).
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–478 effective at the close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as a note under section 3001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6105 of this title.
 

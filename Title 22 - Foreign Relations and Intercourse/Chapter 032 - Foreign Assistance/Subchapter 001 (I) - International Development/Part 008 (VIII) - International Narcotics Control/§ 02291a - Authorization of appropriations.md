@@ -66,7 +66,7 @@ Subsec. (e). Pub. L. 103–447 added subsec. (e).
 
 Subsec. (b). Pub. L. 102–583, §4(e), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Funds authorized to be appropriated by this section shall not be made available for the procurement of weapons or ammunition under this part.”
 
-Subsecs. (c), (d). Pub. L. 102–583, §6(b)(4), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Notwithstanding section 1306 of title 31, section 508 of the General Government Matters, Department of Commerce, and Related Agencies Appropriation Act, 1962, and section 1705 of title 7, up to the equivalent of $10,000,000 in currencies or credits of theGovernment of Pakistan held by the United States shall, to such extent as may be provided in an appropriation Act, be available to the President for the fiscal year 1981 (and shall remain available until expended) to carry out the purposes of section 2291 of this title through assistance to the Government of Pakistan. Notwithstanding any other provision of law, the availability or expenditure of such foreign currencies shall not affect or reduce appropriations otherwise available to carry out the administration of the international narcotics control program.”
+Subsecs. (c), (d). Pub. L. 102–583, §6(b)(4), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Notwithstanding section 1306 of title 31, section 508 of the General Government Matters, Department of Commerce, and Related Agencies Appropriation Act, 1962, and section 1705 of title 7, up to the equivalent of $10,000,000 in currencies or credits of the Government of Pakistan held by the United States shall, to such extent as may be provided in an appropriation Act, be available to the President for the fiscal year 1981 (and shall remain available until expended) to carry out the purposes of section 2291 of this title through assistance to the Government of Pakistan. Notwithstanding any other provision of law, the availability or expenditure of such foreign currencies shall not affect or reduce appropriations otherwise available to carry out the administration of the international narcotics control program.”
 
 1989—Subsec. (a)(1). Pub. L. 101–231, §16, substituted “$115,000,000 for fiscal year 1990” for “$101,000,000 for fiscal year 1989”.
 
@@ -117,8 +117,4 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 #### Colombian Anti-Narcotics Enforcement Program
 
 Section 402(c) of Pub. L. 96–533 provided: “Notwithstanding the provisions of section 482(a)(2) of the Foreign Assistance Act of 1961 \[subsec. (a)(2) of this section\] as in effect immediately prior to the enactment of this Act \[Dec. 16, 1980\], funds appropriated for the fiscal year 1980 to carry out the purposes of section 481 of that Act \[section 2291 of this title\] which were obligated for assistance for Colombia may be used for fixed-wing aircraft, communications equipment, and such other equipment and operational support, including aviation services, as are essential to the Colombian anti-narcotics enforcement program.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2291, 2420 of this title.
 

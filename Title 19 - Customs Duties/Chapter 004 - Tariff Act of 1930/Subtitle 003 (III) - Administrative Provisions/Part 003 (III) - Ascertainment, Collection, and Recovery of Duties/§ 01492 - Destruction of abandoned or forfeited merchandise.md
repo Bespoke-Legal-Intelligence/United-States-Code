@@ -14,7 +14,7 @@ Section 901 of Revenue Act of 1926, referred to in text, is covered by section 5
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §492, 42 Stat. 963. That section was superseded by section 492 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Prior to its incorporation into the Code, this section read: “Except as provided in section 3369 of the Revised Statutes, as amended,” etc. R.S. §3369, as amended by act Oct. 14, 1921, ch. 107, 42 Stat. 205, related in part to abandoned, condemned or forfeited tobacco, snuff, cigars, or cigarettes, which would not bring a price equal to the internal revenue tax thereon. So far as it related to tobacco and snuff, it was incorporated into the Code as sections 702(a)(1), 803(a)(1), (c), (d), and 890, of Title 26, Internal Revenue Code, and so far as it applied to cigars and cigarettes, it was incorporated into the Code as sections 812(d)(2) and 890, of Title 26.
+Prior to its incorporation into the Code, this section read: “Except as provided in section 3369 of the Revised Statutes, as amended,” etc. R.S. §3369, as amended byact Oct. 14, 1921, ch. 107, 42 Stat. 205, related in part to abandoned, condemned or forfeited tobacco, snuff, cigars, or cigarettes, which would not bring a price equal to the internal revenue tax thereon. So far as it related to tobacco and snuff, it was incorporated into the Code as sections 702(a)(1), 803(a)(1), (c), (d), and 890, of Title 26, Internal Revenue Code, and so far as it applied to cigars and cigarettes, it was incorporated into the Code as sections 812(d)(2) and 890, of Title 26.
 
 #### Amendments
 
@@ -29,8 +29,4 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1753 of this title.
 

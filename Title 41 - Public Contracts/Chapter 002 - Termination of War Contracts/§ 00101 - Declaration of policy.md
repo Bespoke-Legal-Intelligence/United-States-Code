@@ -22,5 +22,5 @@ Section 27 of act July 1, 1944, provided that: “This Act \[enacting this chapt
 
 #### Separability
 
-Section 26 of act July 1, 1944, provided: “If any provision of this Act \[enacting this chapter\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
+Section 26 of act July 1, 1944, provided: “If any provision of this Act \[enacting this chapter\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act or the application of such provision to persons or circumstancesother than those as to which it is held invalid, shall not be affected thereby.”
 

@@ -18,7 +18,7 @@ All information obtained pursuant to subsections (a) and (b) of this section sha
 
 &emsp;(2) the publication by direction of the Secretary of the name of any person violating any plan together with a statement of the particular provisions of the plan violated by such person.
 
-> Any such officer or employee violating the provisions of this subsection shall upon convictionbe subject to a fine of not more than $1,000 or imprisonment for not more than one year, or both, and shall be removed from office.
+> Any such officer or employee violating the provisions of this subsection shall upon conviction be subject to a fine of not more than $1,000 or imprisonment for not more than one year, or both, and shall be removed from office.
 
 (Pub. L. 91–670, title III, §310, Jan. 11, 1971, 84 Stat. 2044; Pub. L. 101–624, title XIX, §1942, Nov. 28, 1990, 104 Stat. 3867; Pub. L. 102–237, title VIII, §804, Dec. 13, 1991, 105 Stat. 1882.)
 
@@ -31,8 +31,4 @@ All information obtained pursuant to subsections (a) and (b) of this section sha
 Subsec. (b). Pub. L. 101–624, §1942(2), inserted “and importers” after “Handlers”.
 
 Subsec. (c)(1). Pub. L. 101–624, §1942(3), inserted “or importers” after “handlers”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2623 of this title.
 

@@ -36,7 +36,3 @@ Nothing in this section prohibits the Secretary from—
 
 (Pub. L. 95–617, title I, §123, Nov. 9, 1978, 92 Stat. 3130.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 824a–3, 2621, 2623 of this title.
-

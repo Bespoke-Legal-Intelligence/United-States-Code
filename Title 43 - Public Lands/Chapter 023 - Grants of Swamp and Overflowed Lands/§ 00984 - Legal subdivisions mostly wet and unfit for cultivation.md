@@ -8,7 +8,3 @@ In making out lists and plats of the lands aforesaid all legal subdivisions, the
 
 R.S. §2481 derived from act Sept. 28, 1850, ch. 84, §3, 9 Stat. 519.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 864, 988 of this title.
-

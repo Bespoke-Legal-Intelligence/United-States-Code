@@ -16,7 +16,7 @@ The Farm Credit Administration shall provide such personnel and facilities to th
 
 The Assistance Board shall have access to all reports of examination and supervisory documents of the Farm Credit Administration, and relevant supporting material, for the purpose of carrying out the special powers of the Assistance Board under section 2278a–6 of this title, under such terms and conditions, acceptable to the Farm Credit Administration Board, as are necessary and appropriate to protect the confidentiality of the documents and materials.
 
-(Pub. L. 92–181, title VI, §6.7, as added Pub. L. 100–233, title II, §201, Jan. 6, 1988, 101 Stat. 1591;amended Pub. L. 100–399, title II, §201(j), Aug. 17, 1988, 102 Stat. 991.)
+(Pub. L. 92–181, title VI, §6.7, as added Pub. L. 100–233, title II, §201, Jan. 6, 1988, 101 Stat. 1591; amended Pub. L. 100–399, title II, §201(j), Aug. 17, 1988, 102 Stat. 991.)
 
 #### Amendments
 
@@ -25,8 +25,4 @@ The Assistance Board shall have access to all reports of examination and supervi
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2151 of this title.
 

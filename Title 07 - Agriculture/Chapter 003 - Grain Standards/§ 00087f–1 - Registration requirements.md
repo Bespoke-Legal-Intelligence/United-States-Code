@@ -28,7 +28,7 @@ The Secretary shall provide, by regulation, for the registration of all persons 
 
 &emsp;(F) such other information as the Secretary deems necessary to carry out the purposes of this chapter.
 
-> Persons required to register under this section shall also submit to the Secretary the information specified in clauses (A) through (F) of this paragraph with respect to any business engaged in the business of buying grain for sale in interstate commerce, and in the business of handling, weighing, or transporting of grain for sale in interstate commerce, if, with respect to such business, the person otherwise required to register under this section is in a control relationship.
+> Persons required to register under this section shall also submit to the Secretary the information specified in clauses (A) through (F) of thisparagraph with respect to any business engaged in the business of buying grain for sale in interstate commerce, and in the business of handling, weighing, or transporting of grain for sale in interstate commerce, if, with respect to such business, the person otherwise required to register under this section is in a control relationship.
 
 (2) For the purposes of this section, a person shall be deemed to be in a “control relationship” with respect to a business required to register under subsection (a) of this section and with respect to applicable interstate businesses if—
 
@@ -71,8 +71,4 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 #### Effective Date
 
 Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under section 74 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 87b, 87e, 87h of this title.
 

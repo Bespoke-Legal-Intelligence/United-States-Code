@@ -22,7 +22,7 @@ States and Political Subdivisions.—A State or political subdivision of a State
 
 (d)
 
-Consultation.—The Secretary of Transportation is encouraged to consult with a Stateto simplify and expedite the approval of a space launch or reentry activity.
+Consultation.—The Secretary of Transportation is encouraged to consult with a State to simplify and expedite the approval of a space launch or reentry activity.
 
 (e)
 
@@ -115,8 +115,4 @@ Subsec. (g)(1). Pub. L. 105–303, §102(a)(15)(D)(i), substituted “reentry, o
 Subsec. (g)(2). Pub. L. 105–303, §102(a)(15)(D)(ii), inserted “reentry,” after “launch,”.
 
 1996—Subsec. (b)(2). Pub. L. 104–287 substituted “Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.)” for “Land Remote-Sensing Commercialization Act of 1984 (15 U.S.C. 4201 et seq.)”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 2458c.
 

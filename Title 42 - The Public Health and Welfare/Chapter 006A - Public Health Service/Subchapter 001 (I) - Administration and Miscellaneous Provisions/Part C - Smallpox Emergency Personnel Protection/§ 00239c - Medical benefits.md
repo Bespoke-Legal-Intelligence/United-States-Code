@@ -10,7 +10,3 @@ Payment or reimbursement for services or benefits under subsection (a) of this s
 
 (July 1, 1944, ch. 373, title II, §264, as added Pub. L. 108–20, §2, Apr. 30, 2003, 117 Stat. 641.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 239a, 239d, 239e, 239g of this title.
-

@@ -6,7 +6,3 @@ Whereas under prevailing economic conditions, developed with the aid of governme
 
 (Mar. 23, 1932, ch. 90, §2, 47 Stat. 70.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 103 of this title.
-

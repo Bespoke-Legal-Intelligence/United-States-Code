@@ -16,10 +16,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3839 of this title; title 7 section 6962; title 26 section 126.
-
 
 ---
 

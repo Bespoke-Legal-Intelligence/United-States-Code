@@ -12,7 +12,3 @@ This Act, referred to in text, is act June 3, 1937, ch. 296, 50 Stat. 246, as am
 
 Section 1 of act June 3, 1937, ch. 296, 50 Stat. 246, referred to in text, amended sections 601, 602, 608a, 608b, 608c, 608d, 608e, 610, 612, 614, and 624 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1392 of this title.
-

@@ -88,10 +88,6 @@ Amendment by Pub. L. 97–248 effective on and after Jan. 1, 1983, see section 2
 
 Section effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as an Effective Date of 1978 Amendment note under section 426 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410, 418, 1320a–7a, 1395c, 1395i–2a, 1395w–23, 1395w–113, 1395y, 1395rr of this title; title 10 section 1086.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “(d)”.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

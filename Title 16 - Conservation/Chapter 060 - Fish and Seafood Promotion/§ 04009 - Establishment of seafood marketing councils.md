@@ -88,7 +88,3 @@ A council is not an instrumentality of the United States Government.
 
 (Pub. L. 99–659, title II, §210, Nov. 14, 1986, 100 Stat. 3721.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4003, 4005, 4010, 4011, 4012, 4015 of this title.
-

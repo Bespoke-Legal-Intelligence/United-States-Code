@@ -32,13 +32,9 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 The first proviso under the heading “
 
-medical department” in act June 12, 1906, ch. 3078, 34 Stat. 255, cited as a credit to this section, was repealed by Pub. L. 98–557, §17(e)(3), Oct. 30, 1984, 98 Stat. 2868.
+medical department” in act June 12, 1906, ch. 3078, 34 Stat. 255,cited as a credit to this section, was repealed by Pub. L. 98–557, §17(e)(3), Oct. 30, 1984, 98 Stat. 2868.
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 8 section 1363a; title 10 section 2201; title 19 section 2081; title 22 section 277d–3; title 26 section 7608; title 33 section 891d; title 42 section 9619.
 

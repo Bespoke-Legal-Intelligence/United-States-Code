@@ -84,7 +84,7 @@ Another prior section 1089, Pub. L. 89–329, title IV, §499, formerly §469, a
 
 Subsec. (c). Pub. L. 105–244, §481(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Any regulatory changes initiated by the Secretary affecting the programs pursuant to this subchapter and part C of subchapter I of chapter 34 of title 42 that have not been published in final form by December 1 prior to the start of the award year shall not become effective until the beginning of the second award year after such December 1 date. For award year 1994–95, this subsection shall not require a delay in the effectiveness of regulatory changes affecting this part and parts B and G of this subchapter that are published in final form by May 1, 1994.”
 
-1995—Subsec. (d). Pub. L. 104–66, in first sentence substituted “a deadline included in the calendar described in subsection (a) of this section is not met” for “the items specified in the calendar have been completed and provide all relevant forms, rules, and instructions with such notice” and after first sentence struck out “When a deadline included in the calendar is not met, the Secretary, within 7 days, shall submit to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a written report, including proper documentation, as to why the deadline was not adhered to and a detailed plan for ensuring that subsequent dates are met.”
+1995—Subsec. (d). Pub. L. 104–66, in first sentence substituted “a deadline included in the calendar describedin subsection (a) of this section is not met” for “the items specified in the calendar have been completed and provide all relevant forms, rules, and instructions with such notice” and after first sentence struck out “When a deadline included in the calendar is not met, the Secretary, within 7 days, shall submit to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a written report, including proper documentation, as to why the deadline was not adhered to and a detailed plan for ensuring that subsequent dates are met.”
 
 1993—Subsec. (c). Pub. L. 103–208 inserted at end “For award year 1994–95, this subsection shall not require a delay in the effectiveness of regulatory changes affecting this part and parts B and G of this subchapter that are published in final form by May 1, 1994.”
 
@@ -97,6 +97,8 @@ Subsec. (c). Pub. L. 102–325, §482(a), amended subsec. (c) generally. Prior t
 1987—Subsec. (b). Pub. L. 100–50 inserted reference to section 1087bb(j) of this title and part D of this subchapter.
 
 #### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
@@ -119,10 +121,6 @@ Pub. L. 97–301, §4, Oct. 13, 1982, 96 Stat. 1400, as amended by Pub. L. 98–
 #### Determination of Independent Student Status for Academic Years 1982–1983 Through 1987–1988
 
 Pub. L. 97–301, §6, Oct. 13, 1982, 96 Stat. 1400, as amended by Pub. L. 98–79, §4(a), Aug. 15, 1983, 97 Stat. 481; Pub. L. 98–516, title VII, §707(3), Oct. 19, 1984, 98 Stat. 2407; Pub. L. 99–498, title IV, §408(a)(1), Oct. 17, 1986, 100 Stat. 1495, which provided that notwithstanding any rule or regulation, the criteria for the determination of independent student status, prescribed under subsec. (c)(2) of this section, in effect for academic year 1982–1983, was to be the criteria for such determinations for each of the academic years 1983–1984, 1984–1985, 1985–1986, 1986–1987, and 1987–1988, was repealed by Pub. L. 99–498, title IV, §408(b), Oct. 17, 1986, 100 Stat. 1495, eff. with respect to any academic year beginning on or after July 1, 1988.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1070a, 1070a–33, 1087rr of this title; title 42 section 2753.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -22,7 +22,3 @@ Subsec. (b). Pub. L. 105–277, §1323(j)(5), added subsec. (b).
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6204 of this title.
-

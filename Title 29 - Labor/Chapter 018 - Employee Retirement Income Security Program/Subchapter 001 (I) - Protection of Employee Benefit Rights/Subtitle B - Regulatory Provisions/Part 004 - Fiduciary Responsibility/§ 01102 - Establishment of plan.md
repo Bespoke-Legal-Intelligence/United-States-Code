@@ -30,7 +30,3 @@ Any employee benefit plan may provide—
 
 (Pub. L. 93–406, title I, §402, Sept. 2, 1974, 88 Stat. 875.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1002, 1103, 1105, 1114 of this title.
-

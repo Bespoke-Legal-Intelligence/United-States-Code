@@ -72,7 +72,7 @@ An executive agency may use procedures other than competitive procedures only wh
 
 &emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, the property or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a unique and innovative concept the substance of which is not otherwise available to the United States and does not resemble the substance of a pending competitive procurement; and
 
-&emsp;(B) in the case of a follow-on contract for the continued development or production of a major system or highly specialized equipment when it is likely that award to a source other than the original source would result in (i) substantial duplication of cost to the Government which is not expected to be recovered through competition, or (ii) unacceptable delays in fulfilling the executive agency's needs, such property may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures.
+&emsp;(B) in the case of a follow-on contract for the continued development or production of a major system or highly specialized equipment when it is likely that award to a source other than the original source would result in (i) substantial duplication of cost to the Government which is not expected to be recoveredthrough competition, or (ii) unacceptable delays in fulfilling the executive agency's needs, such property may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures.
 
 (2) The authority of the head of an executive agency under subsection (c)(7) of this section may not be delegated.
 
@@ -166,7 +166,7 @@ The Federal Acquisition Regulation shall ensure that the requirement to obtain f
 
 (3) For purposes of this subsection, a contract is a new contract unless the work provided for in the contract is a continuation of the work performed by the specified entity under a preceding contract.
 
-(4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an executive agency and to report on such matters to theCongress or any agency of the Federal Government.
+(4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an executive agency and to report on such matters to the Congress or any agency of the Federal Government.
 
 (June 30, 1949, ch. 288, title III, §303, 63 Stat. 395; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Pub. L. 90–268, §2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2711(a)(1), July 18, 1984, 98 Stat. 1175; Pub. L. 98–577, title V, §504(a)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(2), title XIII, §1304(c)(2), (3), Nov. 8, 1985, 99 Stat. 703, 742; Pub. L. 101–510, div. A, title VIII, §806(c), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §§1051–1053, 1055(a), title IV, §4402(a), title VII, §7203(b)(1), Oct. 13, 1994, 108 Stat. 3260, 3261, 3265, 3348, 3380; Pub. L. 104–106, div. D, title XLI, §§4101(b), 4102(b), title XLII, §4202(b)(1), title XLIII, §4321(e)(2), Feb. 10, 1996, 110 Stat. 642, 643, 653, 674; Pub. L. 104–320, §§7(a)(2), 11(c)(2), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §850(f)(4)(B), Nov. 18, 1997, 111 Stat. 1850.)
 
@@ -349,10 +349,6 @@ Section 2711(c) of Pub. L. 98–369 provided that: “The amendments made by thi
 #### Definitions
 
 The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 252, 253h, 253i, 253j, 257, 416, 417, 427, 428a of this title; title 6 sections 189, 393, 425, 426; title 15 section 637; title 20 section 1018a; title 22 section 2669; title 29 section 2887; title 38 section 8153; title 40 section 3310; title 49 section 40110; title 50 App. section 2077.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—POLICIES AND PROCEDURES FOR CONGRESSIONAL REVIEW
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1022a of this title.
-
 
 ---
 

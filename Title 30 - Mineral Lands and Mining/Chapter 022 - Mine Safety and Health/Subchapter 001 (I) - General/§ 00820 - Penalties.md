@@ -10,7 +10,7 @@ Any operator who fails to correct a violation for which a citation has been issu
 
 #### (c) Liability of corporate directors, officers, and agents
 
-Whenever a corporate operator violates a mandatory health or safety standard or knowingly violates or fails or refuses to comply with anyorder issued under this chapter or any order incorporated in a final decision issued under this chapter, except an order incorporated in a decision issued under subsection (a) of this section or section 815(c) of this title, any director, officer, or agent of such corporation who knowingly authorized, ordered, or carried out such violation, failure, or refusal shall be subject to the same civil penalties, fines, and imprisonment that may be imposed upon a person under subsections (a) and (d) of this section.
+Whenever a corporate operator violates a mandatory health or safety standard or knowingly violates or fails or refuses to comply with any order issued under this chapter or any order incorporated in a final decision issued under this chapter, except an order incorporated in a decision issued under subsection (a) of this section or section 815(c) of this title, any director, officer, or agent of such corporation who knowingly authorized, ordered, or carried out such violation, failure, or refusal shall be subject to the same civil penalties, fines, and imprisonment that may be imposed upon a person under subsections (a) and (d) of this section.
 
 #### (d) Criminal penalties
 
@@ -30,7 +30,7 @@ Any miner who willfully violates the mandatory safety standards relating to smok
 
 #### (h) Equipment falsely represented as complying with statute, specification, or regulations
 
-Whoever knowingly distributes, sells, offers for sale, introduces, or delivers in commerce any equipment for use in a coal or other mine, including, but not limited to, components and accessories of such equipment, which is represented as complying with the provisions of this chapter, or with any specification or regulation of the Secretary applicable to such equipment, and which does not so comply, shall, upon conviction, be subject to the same fine and imprisonment that may be imposed upon a person under subsection (f) of this section.
+Whoever knowingly distributes, sells, offers for sale, introduces, or delivers in commerce anyequipment for use in a coal or other mine, including, but not limited to, components and accessories of such equipment, which is represented as complying with the provisions of this chapter, or with any specification or regulation of the Secretary applicable to such equipment, and which does not so comply, shall, upon conviction, be subject to the same fine and imprisonment that may be imposed upon a person under subsection (f) of this section.
 
 #### (i) Authority to assess civil penalties
 
@@ -61,10 +61,6 @@ Subsec. (b). Pub. L. 101–508, §3102(2), substituted “$5,000” for “1,000
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 815, 816, 817, 825 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

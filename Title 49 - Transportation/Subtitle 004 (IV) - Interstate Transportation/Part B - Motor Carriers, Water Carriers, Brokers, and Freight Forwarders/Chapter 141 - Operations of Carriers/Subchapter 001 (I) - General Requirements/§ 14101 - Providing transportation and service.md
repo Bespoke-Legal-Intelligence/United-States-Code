@@ -2,7 +2,7 @@
 
 (a)
 
-On Reasonable Request.—A carrier providing transportation or service subject to jurisdiction under chapter 135 shall provide thetransportation or service on reasonable request. In addition, a motor carrier shall provide safe and adequate service, equipment, and facilities.
+On Reasonable Request.—A carrier providing transportation or service subject to jurisdiction under chapter 135 shall provide the transportation or service on reasonable request. In addition, a motor carrier shall provide safe and adequate service, equipment, and facilities.
 
 (b)
 
@@ -25,8 +25,4 @@ Provisions similar to those in this section were contained in section 11101 of t
 #### Effective Date
 
 Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13102 of this title.
 

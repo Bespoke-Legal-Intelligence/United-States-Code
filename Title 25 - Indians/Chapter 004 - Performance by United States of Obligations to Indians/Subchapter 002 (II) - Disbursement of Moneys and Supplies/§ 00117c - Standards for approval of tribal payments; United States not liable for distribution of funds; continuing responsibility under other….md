@@ -6,7 +6,3 @@
 
 (Pub. L. 98–64, §3, Aug. 2, 1983, 97 Stat. 365.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 117b of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 50 App. section 450.
-
 
 ---
 

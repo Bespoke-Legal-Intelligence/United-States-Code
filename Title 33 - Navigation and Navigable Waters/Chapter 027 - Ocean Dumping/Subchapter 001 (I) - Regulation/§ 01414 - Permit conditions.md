@@ -2,7 +2,7 @@
 
 #### (a) Designated and included conditions
 
-Permits issued under this subchapter shall designate and include (1) the type of material authorized to be transported for dumping or to be dumped; (2) the amount of material authorized to be transported for dumping or to be dumped; (3) the location where such transport for dumping will be terminated or where such dumping will occur; (4) such requirements, limitations, or conditions as are necessary to assure consistency with any site management plan approved pursuant to section 1412(c) of this title; (5) any special provisions deemed necessary bythe Administrator or the Secretary, as the case may be, after consultation with the Secretary of the Department in which the Coast Guard is operating, for the monitoring and surveillance of the transportation or dumping; and (6) such other matters as the Administrator or the Secretary, as the case may be, deems appropriate. Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.
+Permits issued under this subchapter shall designate and include (1) the type of material authorized to be transported for dumping or to be dumped; (2) the amount of material authorized to be transported for dumping or to be dumped; (3) the location where such transport for dumping will be terminated or where such dumping will occur; (4) such requirements, limitations, or conditions as are necessary to assure consistency with any site management plan approved pursuant to section 1412(c) of this title; (5) any special provisions deemed necessary by the Administrator or the Secretary, as the case may be, after consultation with the Secretary of the Department in which the Coast Guard is operating, for the monitoring and surveillance of the transportation or dumping; and (6) such other matters as the Administrator or the Secretary, as the case may be, deems appropriate. Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.
 
 #### (b) Permit processing fees; reporting requirements
 
@@ -14,7 +14,7 @@ Consistent with the requirements of sections 1412 and 1413 of this title, but in
 
 #### (d) Review
 
-Any permit issued under this subchapter shall be reviewed periodically and, if appropriate, revised. The Administrator or the Secretary, as the case may be, may limit or deny the issuance of permits, or he may alter or revoke partially or entirely the terms of permits issued by him under this subchapter, for the transportation for dumping, or for the dumping, or both, of specified materials or classes of materials, where he finds, based upon monitoring data from the dump site and surrounding area, that such materials cannot be dumped consistently with the criteria and other factors required to be applied in evaluating the permit application. No action shall be taken under this subsection unless the affected person or permittee shall have been given notice and opportunity for a hearing on such action as proposed.
+Any permit issued under this subchapter shall be reviewed periodically and, if appropriate, revised. The Administrator or the Secretary, as the case may be, may limit or deny the issuance of permits, or he may alter or revoke partiallyor entirely the terms of permits issued by him under this subchapter, for the transportation for dumping, or for the dumping, or both, of specified materials or classes of materials, where he finds, based upon monitoring data from the dump site and surrounding area, that such materials cannot be dumped consistently with the criteria and other factors required to be applied in evaluating the permit application. No action shall be taken under this subsection unless the affected person or permittee shall have been given notice and opportunity for a hearing on such action as proposed.
 
 #### (e) Information for review and evaluation of applications
 
@@ -72,7 +72,7 @@ Notwithstanding any provision of this subchapter to the contrary, during the two
 
 &emsp;(K) such other information which the Administrator may require in order to determine the full effects of such disposal.
 
-(2) The Administrator shall include, in any permit to which paragraph (1) applies, such terms and conditions as may be necessary to ensure that the monitoring plan required under paragraph (1)(J) is fully implemented, including the analysis by the Administrator of the samples required to be taken under the plan.
+(2) The Administrator shall include, in any permit to which paragraph (1) applies, suchterms and conditions as may be necessary to ensure that the monitoring plan required under paragraph (1)(J) is fully implemented, including the analysis by the Administrator of the samples required to be taken under the plan.
 
 (3) The Administrator shall submit a copy of the assessment prepared under paragraph (1) with respect to any permit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
@@ -113,8 +113,4 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1412, 1413 of this title.
 

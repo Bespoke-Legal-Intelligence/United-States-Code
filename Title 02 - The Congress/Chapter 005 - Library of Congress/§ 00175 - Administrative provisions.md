@@ -10,7 +10,3 @@ The Librarian of Congress, in carrying out the Center's functions, is authorized
 
 (Pub. L. 95–129, §5, Oct. 13, 1977, 91 Stat. 1152.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 171, 172 of this title.
-

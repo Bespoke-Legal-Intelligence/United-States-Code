@@ -40,7 +40,7 @@
 
 #### (2) Base beneficiary premium
 
-&emsp;The base beneficiary premium under this paragraph for a prescription drug plan for a month is equal to the product <sup>1</sup>—
+&emsp;The base beneficiary premium under this paragraph for a prescription drug plan for a month is equal to the product <sup>1</sup> —
 
 &emsp;&emsp;(A) the beneficiary premium percentage (as specified in paragraph (3)); and
 
@@ -168,7 +168,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish procedures (including the form, manner, and time) forthe documentation of creditable prescription drug coverage, including procedures to assist in determining whether coverage meets the requirement of paragraph (5).
+&emsp;&emsp;The Secretary shall establish procedures (including the form, manner, and time) for the documentation of creditable prescription drug coverage, including procedures to assist in determining whether coverage meets the requirement of paragraph (5).
 
 #### (B) Disclosure by entities offering creditable prescription drug coverage
 
@@ -231,10 +231,6 @@
 Part A of this subchapter, referred to in subsec. (b)(7)(B), is classified to section 1395c et seq. of this title.
 
 Part C of this subchapter, referred to in subsec. (c)(1), is classified to section 1395w–21 et seq. of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395t, 1395w–24, 1395w–101, 1395w–111, 1395w–114, 1395w–115, 1395w–116, 1395w–132, 1395w–151, 1395ss of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “of” probably should appear after “product”.</i>
 

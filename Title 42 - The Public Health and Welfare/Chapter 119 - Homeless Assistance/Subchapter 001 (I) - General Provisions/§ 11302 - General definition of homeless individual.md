@@ -18,7 +18,7 @@ For purposes of this chapter, the term “homeless” or “homeless individual 
 
 #### (1) In general
 
-&emsp;A homeless individual shall be eligible for assistance under any program provided by thischapter, only if the individual complies with the income eligibility requirements otherwise applicable to such program.
+&emsp;A homeless individual shall be eligible for assistance under any program provided by this chapter, only if the individual complies with the income eligibility requirements otherwise applicable to such program.
 
 #### (2) Exception
 
@@ -49,10 +49,6 @@ Subsec. (b). Pub. L. 101–645 amended subsec. (b) generally. Prior to amendment
 #### Effective Date of 1998 Amendment
 
 Amendment by section 101(f) \[title VIII, §405(d)(41)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(32)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1486, 11362, 11403c, 11434a, 12899f of this title; title 12 sections 1441a, 1821; title 26 section 42; title 29 section 2801; title 38 section 2002.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “ ‘homeless individual’ or ‘homeless person’ ”.</i>
 

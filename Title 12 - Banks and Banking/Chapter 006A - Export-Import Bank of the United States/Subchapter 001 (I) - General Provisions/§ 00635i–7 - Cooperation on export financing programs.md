@@ -16,7 +16,3 @@ The Bank shall, subject to appropriate memoranda of understanding—
 
 A prior section 13 of act July 31, 1945, ch. 341, was classified to section 635i–1 of this title, prior to repeal by Pub. L. 102–429, §121(c)(1).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 4721.
-

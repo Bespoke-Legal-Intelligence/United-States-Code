@@ -74,7 +74,3 @@ Section 811(b) of Pub. L. 98–407 provided that: “The amendment made by subse
 
 Pub. L. 104–52, title VI, §620, Nov. 19, 1995, 109 Stat. 501, provided that: “Notwithstanding any provisions of this or any other Act, during the fiscal year ending September 30, 1996, and hereafter, any department, division, bureau, or office may use funds appropriated by this or any other Act to install telephone lines, and necessary equipment, and to pay monthly charges, in any private residence or private apartment of an employee who has been authorized to work at home in accordance with guidelines issued by the Office of Personnel Management: <i>Provided</i>, That the head of the department, division, bureau, or office certifies that adequate safeguards against private misuse exist, and that the service is necessary for direct support of the agency's mission.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 1588; title 16 section 580f; title 22 section 287e.
-

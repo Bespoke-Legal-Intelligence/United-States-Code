@@ -68,7 +68,3 @@ Definition.—In this section, the term ‘congressional printing and binding se
 
 &emsp;“(4) Printing, binding, and distribution of Government publications authorized by law to be distributed without charge to the recipient.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 28b.
-

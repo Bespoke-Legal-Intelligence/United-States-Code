@@ -8,7 +8,3 @@ If, within twenty years after the completion of construction (as determined by t
 
 Functions of Secretary of Health, Education, and Welfare under laws relating to relationship between Howard University and Department of Health, Education, and Welfare transferred to Secretary of Education by section 3441(a)(2)(M) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 128 of this title.
-

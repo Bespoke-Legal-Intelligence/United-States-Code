@@ -1,9 +1,5 @@
 subpart 2—rural and low-income school program
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 7345, 7345a, 7355, 7355a, 7355c, 7801 of this title.
-
 
 ---
 

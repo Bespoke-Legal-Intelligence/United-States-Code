@@ -48,7 +48,3 @@ The words “fail to issue a certificate required by section 1403 of this title�
 
 Pub. L. 106–414, §16, Nov. 1, 2000, 114 Stat. 1808, provided that: “One year after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall report to the Congress on the implementation of the amendments made by this Act \[see Short Title of 2000 Amendment note set out under section 30101 of this title\] and any recommendations for additional amendments for consumer safety.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30112, 30141, 30165 of this title.
-

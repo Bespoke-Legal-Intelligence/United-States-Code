@@ -1,9 +1,5 @@
 subpart 2—school dropout prevention initiative
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 6302, 6553 of this title.
-
 
 ---
 

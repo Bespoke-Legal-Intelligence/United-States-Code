@@ -48,7 +48,7 @@ Ensuring Conformity With Plans and Policies.—(1) To ensure conformity with pla
 
 Public Use and Emergency Assistance.—(1) The head of a department, agency, or instrumentality of the Government having jurisdiction over an air navigation facility owned or operated by the Government may provide, under regulations the head of the department, agency, or instrumentality prescribes, for public use of the facility.
 
-(2) The head of a department, agency, or instrumentality of the Government having jurisdiction over an airport or emergency landing field owned or operated by the Government may provide, under regulations the head of the department, agency, or instrumentality prescribes, for assistance, and the sale of fuel, oil, equipment, and supplies, to an aircraft, but only when necessary, because of an emergency, toallow the aircraft to continue to the nearest airport operated by private enterprise. The head of the department, agency, or instrumentality shall provide for the assistance and sale at the prevailing local fair market value as determined by the head of the department, agency, or instrumentality. An amount that the head decides is equal to the cost of the assistance provided and the fuel, oil, equipment, and supplies sold shall be credited to the appropriation from which the cost was paid. The balance shall be credited to miscellaneous receipts.
+(2) The head of a department, agency, or instrumentality of the Government having jurisdiction over an airport or emergency landing field owned or operated by the Government may provide, under regulations the head of the department, agency, or instrumentality prescribes, for assistance, and the sale of fuel, oil, equipment, and supplies, to an aircraft, but only when necessary, because of an emergency, to allow the aircraft to continue to the nearest airport operated by private enterprise. The head of the department, agency, or instrumentality shall provide for the assistance and sale at the prevailing local fair market value as determined by the head of the department, agency, or instrumentality. An amount that the head decides is equal to the cost of the assistance provided and the fuel, oil, equipment, and supplies sold shall be credited to the appropriation from which the cost was paid. The balance shall be credited to miscellaneous receipts.
 
 (e)
 
@@ -182,7 +182,7 @@ This strikes 49:44502(e) and redesignates 49:44502(f) as 49:44502(e) because of 
 
 #### Amendments
 
-2000—Subsec. (a)(4)(B). Pub. L. 106–181, §153, substituted “each of fiscal years 2000 through 2002” for“each of fiscal years 1995 and 1996” and inserted “under new or existing contracts” after “including acquisition”.
+2000—Subsec. (a)(4)(B). Pub. L. 106–181, §153, substituted “each of fiscal years 2000 through 2002” for “each of fiscal years 1995 and 1996” and inserted “under new or existing contracts” after “including acquisition”.
 
 Subsec. (a)(5). Pub. L. 106–181, §712, added par. (5).
 
@@ -252,9 +252,13 @@ Certification.—Not later than 180 days after the conclusion of work under the 
 
 #### Transfer by Airports of Instrument Landing Systems and Associated Equipment to Federal Aviation Administration
 
-Pub. L. 108–7, div. I, title III, §313, Feb. 20, 2003, 117 Stat. 410, provided that: “Notwithstanding any other provision of law, airports may transfer, without consideration, to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant: <i>Provided</i>, That, the Federal Aviation Administration shall accept such equipment, which shall thereafter be operated and maintained by FAA in accordance with agency criteria.”
+Pub. L. 108–447, div. H, title I, §101, Dec. 8, 2004, 118 Stat. 3203, provided that: “Notwithstanding any other provision of law, airports may transfer without consideration to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant: <i>Provided</i>, That, the Federal Aviation Administration shall accept such equipment, which shall thereafter be operated and maintained by FAA in accordance with agency criteria.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–199, div. F, title I, §101, Jan. 23, 2004, 118 Stat. 284.
+
+Pub. L. 108–7, div. I, title III, §313, Feb. 20, 2003, 117 Stat. 410.
 
 Pub. L. 107–87, title III, §313, Dec. 18, 2001, 115 Stat. 858.
 
@@ -274,7 +278,7 @@ Pub. L. 103–331, title III, §317, Sept. 30, 1994, 108 Stat. 2491, repealed by
 
 #### Cost Savings Associated With Purchase
 
-Section 120(b) of Pub. L. 103–305 provided that: “Notwithstanding other provisions of law or regulations to the contrary, the Administrator \[of the Federal Aviation Administration\] shall establish, within 120 days after the date of the enactment of this Act \[Aug. 23, 1994\], a process through which airport sponsors may take advantage of cost savings associated with the purchase and installation of instrument landing systems, along with associated equipment, under existing or future Federal Aviation Administration contracts. The process established by the Administrator may provide for the direct reimbursement (including administrative costs) of the Administrator by an airport sponsor usinggrants funds under subchapter I of chapter 471 of subtitle VII of title 49, United States Code, relating to airport improvement, for the ordering of such equipment and installation or for the direct ordering of such equipment and installation by an airport sponsor, using such grant funds, from the suppliers with which the Administrator has contracted.”
+Section 120(b) of Pub. L. 103–305 provided that: “Notwithstanding other provisions of law or regulations to the contrary, the Administrator \[of the Federal Aviation Administration\] shall establish, within 120 days after the date of the enactment of this Act \[Aug. 23, 1994\], a process through which airport sponsors may take advantage of cost savings associated with the purchase and installation of instrument landing systems, along with associated equipment, under existing or future Federal Aviation Administration contracts. The process established by the Administrator may provide for the direct reimbursement (including administrative costs) of the Administrator by an airport sponsor using grants funds under subchapter I of chapter 471 of subtitle VII of title 49, United States Code, relating to airport improvement, for the ordering of such equipment and installation or for the direct ordering of such equipment and installation by an airport sponsor, using such grant funds, from the suppliers with which the Administrator has contracted.”
 
 #### Grandfather Provision for FAA Demonstration Project
 
@@ -327,8 +331,4 @@ Special Payment Rule.—The Administrator of the Federal Aviation Administration
 “(e)
 
 Study of Recruitment and Retention Incentives.—The Administrator of the Federal Aviation Administration shall conduct a study of impediments that may exist to achieving appropriate air traffic controller staffing levels at hard-to-staff facilities. In conducting such study, the Administrator shall identify and evaluate the extent to which special incentives, of a financial or non-financial nature, could be useful in recruiting or retaining air traffic controllers at such facilities. The Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Public Works and Transportation of the House of Representatives not later than 180 days after the date of enactment of this Act \[May 26, 1994\] a report on (1) the results of such study, (2) planned administrative actions, and (3) any recommended legislation.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 46301, 48101, 48104, 50101, 50102, 50105 of this title.
 

@@ -6,7 +6,7 @@ With the purpose of preventing damage to the shores and beaches of the United St
 
 #### (b) Federal contribution; maximum amount; exceptions
 
-The Federal contribution in the case of any project referred to in subsection (a) of this section shall not exceed one-half of the cost of the project, and the remainder shall be paid by the State, municipality, or other political subdivision in which the project is located, except that (1) the costs allocated to the restoration and protection of Federal property shall be borne fully by the Federal Government, (2) Federal participation in the cost of a project for restoration and protection of State, county, and other publicly owned shore parks and conservation areas may be, in the discretion of the Chief of Engineers, not more than 70 per centum of thetotal cost exclusive of land costs, when such areas: Include a zone which excludes permanent human habitation; include but are not limited to recreational beaches; satisfy adequate criteria for conservation and development of the natural resources of the environment; extend landward a sufficient distance to include, where appropriate, protective dunes, bluffs, or other natural features which serve to protect the uplands from damage; and provide essentially full park facilities for appropriate public use, all of which shall meet with the approval of the Chief of Engineers, and (3) Federal participation in the cost of a project providing hurricane protection may be, in the discretion of the Secretary <sup>1</sup> not more than 70 per centum of the total cost exclusive of land costs.
+The Federal contribution in the case of any project referred to in subsection (a) of this section shall not exceed one-half of the cost of the project, and the remainder shall be paid by the State, municipality, or other political subdivision in which the project is located, except that (1) the costs allocated to the restoration and protection of Federal property shall be borne fully by the Federal Government, (2) Federal participation in the cost of a project for restoration and protection of State, county, and other publicly owned shore parks and conservation areas may be, in the discretion of the Chief of Engineers, not more than 70 per centum of the total cost exclusive of land costs, when such areas: Include a zone which excludes permanent human habitation; include but are not limited to recreational beaches; satisfy adequate criteria for conservation and development of the natural resources of the environment; extend landward a sufficient distance to include, where appropriate, protective dunes, bluffs, or other natural features which serve to protect the uplands from damage; and provide essentially full park facilities for appropriate public use, all of which shall meet with the approval of the Chief of Engineers, and (3) Federal participation in the cost of a project providing hurricane protection may be, in the discretion of the Secretary <sup>1</sup> not more than 70 per centum of the total cost exclusive of land costs.
 
 #### (c) Periodic beach nourishment; “construction” defined
 
@@ -80,7 +80,7 @@ Shores other than public will be eligible for Federal assistance if there is ben
 
 #### Codification
 
-Coastal Engineering Research Center, referred to in subsec. (e), has been substituted for Beach ErosionBoard pursuant to Pub. L. 88–172, §1, providing in part for the abolition of the Beach Erosion Board and for transfer of functions of the Beach Erosion Board to the Coastal Engineering Research Center. See section 426–1 of this title.
+Coastal Engineering Research Center, referred to in subsec. (e), has been substituted for Beach Erosion Board pursuant to Pub. L. 88–172, §1, providing in part for the abolition of the Beach Erosion Board and for transfer of functions of the Beach Erosion Board to the Coastal Engineering Research Center. See section 426–1 of this title.
 
 #### Amendments
 
@@ -163,10 +163,6 @@ Pub. L. 101–640, title III, §309, Nov. 28, 1990, 104 Stat. 4638, provided tha
 &emsp;“(4) provisions to assure public access to beaches stabilized or renourished with Federal funds after January 1, 1991; and
 
 &emsp;“(5) such other provisions as the Secretary may prescribe by regulation to prevent hazardous or environmentally damaging shoreline development.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 426g, 426h–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -24,7 +24,7 @@
 
 &emsp;(7) where, on the date when importation is sought or public distribution in the United States is made—
 
-&emsp;&emsp;(A) the author of any substantial part of such material is an individual and receives compensation for the transfer or license of the right to distribute the work in the United States; and
+&emsp;&emsp;(A) the author of any substantial part of such material is an individual and receivescompensation for the transfer or license of the right to distribute the work in the United States; and
 
 &emsp;&emsp;(B) the first publication of the work has previously taken place outside the United States under a transfer or license granted by such author to a transferee or licensee who was not a national or domiciliary of the United States or a domestic corporation or enterprise; and
 
@@ -102,7 +102,7 @@ The provision adopts a proposal put forward by various segments of both the Unit
 
 <b>Limitations on Importation and Distribution of Copies Manufactured Abroad.</b> The basic purpose of the temporary manufacturing requirements of section 601, like that of the present manufacturing clause, is to induce the manufacture of an edition in the United States if more than a certain limited number of copies are to be distributed in this country. Subsection (a) therefore provides in general that “the importation into or public distribution in the United States” of copies not complying with the manufacturing clause is prohibited. Subsection (b) then sets out the exceptions to this prohibition, and clause (2) of that subsection fixes the importation limit at 2,000 copies.
 
-Additional exceptions to the copies affected by the manufacturing requirements are set out in clauses (3) through (7) of subsection (b). Clause (3) permits importation of copies for governmental use, other than in schools, by the United States or by “any State or political subdivision of a State.” Clause (4) allows importation for personal use of “no more than one copy of any work at any one time,” and also exempts copies in thebaggage of persons arriving from abroad and copies intended for the library collection of nonprofit scholarly, educational, or religious organizations. Braille copies are completely exempted under clause (5), and clause (6) permits the public distribution in the United States of copies allowed entry by the other clauses of that subsection. Clause (7) is a new exception, covering cases in which an individual American author has, through choice or necessity, arranged for publication of his work by a foreign rather than a domestic publisher.
+Additional exceptions to the copies affected by the manufacturing requirements are set out in clauses (3) through (7) of subsection (b). Clause (3) permits importation of copies for governmental use, other than in schools, by the United States or by “any State or political subdivision of a State.” Clause (4) allows importation for personal use of “no more than one copy of any work at any one time,” and also exempts copies in the baggage of persons arriving from abroad and copies intended for the library collection of nonprofit scholarly, educational, or religious organizations. Braille copies are completely exempted under clause (5), and clause (6) permits the public distribution in the United States of copies allowed entry by the other clauses of that subsection. Clause (7) is a new exception, covering cases in which an individual American author has, through choice or necessity, arranged for publication of his work by a foreign rather than a domestic publisher.
 
 <b>What Constitutes “Manufacture in the United States” or Canada.</b> A difficult problem in the manufacturing clause controversy involves the restrictions to be imposed on foreign typesetting or composition. Under what they regard as a loophole in the present law, a number of publishers have for years been having their manuscripts set in type abroad, importing “reproduction proofs,” and then printing their books from offset plates “by lithographic process \* \* \* wholly performed in the United States.” The language of the statute on this point is ambiguous and, although the publishers’ practice has received some support from the Copyright Office, there is a question as to whether or not it violates the manufacturing requirements.
 
@@ -129,8 +129,4 @@ Subsec. (b)(1). Pub. L. 105–80, §12(a)(16), substituted “substantial” for
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 409, 602 of this title.
 

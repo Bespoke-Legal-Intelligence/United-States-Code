@@ -302,7 +302,7 @@ There is established as an independent entity of the legislative branch of the U
 
 #### (A) In general
 
-&emsp;&emsp;The Board shall appoint an Executive Director of the program who shall administer the program. The Executive Director shall carry out such other functions consistentwith the provisions of this section as the Board shall prescribe.
+&emsp;&emsp;The Board shall appoint an Executive Director of the program who shall administer the program. The Executive Director shall carry out such other functions consistent with the provisions of this section as the Board shall prescribe.
 
 #### (B) Restriction
 

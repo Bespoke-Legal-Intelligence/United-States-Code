@@ -62,13 +62,13 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 &emsp;&emsp;(F) programs offered by vocational rehabilitation agencies, recreation departments, and housing agencies.
 
-&emsp;(8) Additional developmental services that are consistent with the provision of early intervention services, as such term is defined in part H <sup>1</sup> of the Individuals with Disabilities Education Act.
+&emsp;(8) Additional developmental services that are consistent with the provision of early intervention services, as such term is defined in part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\].
 
-> Services shall be provided under paragraphs (2) through (8) by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that theprofessional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements.
+> Services shall be provided under paragraphs (2) through (8) by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements.
 
 #### (c) Services for affected families
 
-The Secretary may make a grant under subsection (a) of this section only if, in the case of families in which a member is a substance abuser, the applicant involved agrees to make available (directly or through agreements with other entities) each of the following services, as applicable to the family member involved:
+The Secretary may make a grant under subsection (a) of this section only if, in the case of families in which a member is a substance abuser, the applicant involved agrees to make available (directly or through agreements withother entities) each of the following services, as applicable to the family member involved:
 
 &emsp;(1) Services as follows, to be provided by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements:
 
@@ -144,7 +144,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 &emsp;(2) to make cash payments to intended recipients of services;
 
-&emsp;(3) to purchase or improve land, purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or purchase major medical equipment;
+&emsp;(3) to purchase or improve land, purchase, construct, or permanently improve (otherthan minor remodeling) any building or other facility, or purchase major medical equipment;
 
 &emsp;(4) to satisfy any requirement for the expenditure of non-Federal funds as a condition for the receipt of Federal funds; or
 
@@ -210,7 +210,7 @@ The Secretary shall periodically conduct evaluations to determine the effectiven
 
 #### (<i>l</i>) Report to Congress
 
-Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>5</sup> (<i>o</i>) of this section, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives,and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
+Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>5</sup> (<i>o</i>) of this section, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
 
 &emsp;(1) information concerning the number and type of programs receiving grants;
 
@@ -250,7 +250,7 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.
 
-(July 1, 1944, ch. 373, title V, §519, formerly title III, §399D, as added Pub. L. 102–321, title IV, §401(a), July 10, 1992, 106 Stat. 419; renumbered §399A, renumbered title V, §519, and amended Pub. L. 106–310, div. A, title V, §502(1), div. B, title XXXI, §3106(a)–(m), Oct. 17, 2000, 114 Stat. 1115, 1175–1179.)
+(July 1, 1944, ch. 373, title V, §519, formerly title III, §399D, as added Pub. L. 102–321, title IV, §401(a), July 10, 1992, 106 Stat. 419; renumbered §399A, renumbered title V, §519, and amended Pub. L. 106–310, div. A, title V, §502(1), div. B, title XXXI, §3106(a)–(m), Oct. 17, 2000, 114 Stat. 1115, 1175–1179; Pub. L. 108–446, title III, §305(i)(1), (3), Dec. 3, 2004, 118 Stat. 2806.)
 
 #### References in Text
 
@@ -260,7 +260,7 @@ Subparagraph (A)(ii), referred to in subsec. (a)(3)(B)(i), meaning subsec. (a)(3
 
 The Head Start Act, referred to in subsec. (b)(7)(B), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (b)(8) and (h)(2), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part H of the Act was classified generally to subchapter VIII (§1471 et seq.) of chapter 33 of Title 20, Education, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (b)(8) and (h)(2), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Part H of the Act was classified generally to subchapter VIII (§1471 et seq.) of chapter 33 of Title 20, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (n)(3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -269,6 +269,8 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (n)(3), is Pub. 
 Section was formerly classified to section 280d of this title.
 
 #### Amendments
+
+2004—Subsecs. (b)(8), (f). Pub. L. 108–446, §305(i)(1), (3), which directed amendment of subsecs. (b)(8) and (f) of section 399A of the Public Health Service Act by substituting “part C” for “part H”, was executed to subsec. (b)(8) of this section, which is section 519 of the the Public Health Service Act, to reflect the probable intent of Congress and the renumbering of this section and repeal of former subsec. (f). See 2000 Amendments notes below.
 
 2000—Pub. L. 106–310, §3106(a)–(m), which directed numerous amendments to section 399D of the Public Health Service Act and the subsequent renumbering of that section as section 519 of title V of the Act, was executed by amending this section and renumbering this section as section 519 of title V, to reflect the probable intent of Congress, notwithstanding the intervening renumbering of this section as section 399A of the Act by section 502(1) of Pub. L. 106–310. See source credit above and notes below.
 
@@ -371,6 +373,8 @@ Subsec. (p). Pub. L. 106–310, §3106(<i>l</i>)(3), redesignated subsec. (p) as
 Pub. L. 106–310, §3106(k), amended heading and text of subsec. (p) generally, substituting provisions relating to authorization of appropriations for provisions relating to funding for carrying out section.
 
 #### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

@@ -14,7 +14,3 @@
 
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 section 506.
-

@@ -28,7 +28,3 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 A bankruptcy administrator or the bankruptcy administrator's designee may examine debtor at meeting of creditors and may administer oath required by this section, see section 105 of Pub. L. 103–394, set out as a note under section 341 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1161 of this title.
-

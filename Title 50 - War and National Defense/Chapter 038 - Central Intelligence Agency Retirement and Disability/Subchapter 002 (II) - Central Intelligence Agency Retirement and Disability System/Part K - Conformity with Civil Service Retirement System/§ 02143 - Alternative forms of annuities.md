@@ -14,7 +14,7 @@ Any lump-sum credit provided pursuant to an election under subsection (a) of thi
 
 #### (d) Submission of regulations to congressional intelligence committees
 
-The Director shall submit the regulations prescribed under subsection (a) of this section to the congressional intelligence committees before the regulations take effect.
+The Director shall submit the regulations prescribed under subsection (a) of this section tothe congressional intelligence committees before the regulations take effect.
 
 (Pub. L. 88–643, title II, §294, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3242; amended Pub. L. 103–66, title XI, §11002(c), Aug. 10, 1993, 107 Stat. 409.)
 
@@ -29,8 +29,4 @@ A prior section 294 of Pub. L. 88–643, as added Pub. L. 99–335, title V, §5
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 effective Oct. 1, 1994, and applicable with respect to any annuity commencing on or after that date, see section 11002(d) of Pub. L. 103–66, set out as a note under section 8343a of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2034 of this title.
 

@@ -64,7 +64,3 @@ Section 11506, referred to in subsec. (d)(1), was omitted in the general amendme
 
 Subsec. (e). Pub. L. 104–287, §5(36)(B), substituted “January 1, 1996” for “the effective date of this section”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13902 of this title.
-

@@ -40,7 +40,3 @@ Section 658A(b) of subchapter C (§658A et seq.) of chapter 8 of subtitle A of t
 
 &emsp;“(5) to assist States in implementing the health, safety, licensing, and registration standards established in State regulations.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9858m, 9858n of this title.
-

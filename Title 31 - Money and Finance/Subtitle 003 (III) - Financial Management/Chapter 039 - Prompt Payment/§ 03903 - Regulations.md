@@ -98,7 +98,7 @@ Section 3903(c) of this title, referred to in subsec. (a)(9), was redesignated s
 
 1999—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1991—Subsec. (a)(2). Pub. L. 102–190 inserted provisions relating to fresh or frozen fish as defined in 16 U.S.C. 4003(3) and substituted “meat, meat food product, or fish” for “meat or meat food product”.
+1991—Subsec. (a)(2). Pub. L. 102–190 inserted provisions relating to fresh or frozen fish as defined in 16U.S.C. 4003(3) and substituted “meat, meat food product, or fish” for “meat or meat food product”.
 
 1988—Subsec. (a). Pub. L. 100–496, §6(1), designated existing provisions as subsec. (a).
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 100–496 applicable to payments under contracts awarded, c
 
 Section 11 of Pub. L. 100–496 provided that:
 
-“(a) The Federal Acquisition Regulation shall be modified to provide appropriate solicitation provisions and contract clauses that implement chapter 39 of title31, United States Code, as amended by this Act \[see Short Title of 1988 Amendment note set out under section 3901 of this title\], and the regulations prescribed under section 3903 of such title (as amended).
+“(a) The Federal Acquisition Regulation shall be modified to provide appropriate solicitation provisions and contract clauses that implement chapter 39 of title 31, United States Code, as amended by this Act \[see Short Title of 1988 Amendment note set out under section 3901 of this title\], and the regulations prescribed under section 3903 of such title (as amended).
 
 “(b) The solicitation provisions and contract clauses required by subsection (a) of this section shall include (but not be limited to) the following matters:
 
@@ -171,10 +171,6 @@ Section 11 of Pub. L. 100–496 provided that:
 #### Edible Fresh or Frozen Poultry Meat, Perishable Poultry Meat Food Products, Fresh Eggs, and Perishable Egg Products
 
 Pub. L. 98–181, title II, §2002, Nov. 30, 1983, 97 Stat. 1297, to the extent that it provided that the terms “meat” and “meat food products” as used in 31 U.S.C. 3903(2) also included edible fresh or frozen poultry meat, perishable poultry meat food products, fresh eggs and perishable egg products, was stricken by Pub. L. 100–496, §13(b), Oct. 17, 1988, 102 Stat. 2465, applicable to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3904, 3905 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

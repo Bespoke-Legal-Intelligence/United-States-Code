@@ -8,7 +8,7 @@
 
 (d) All sales authorized by this subchapter shall be for cash upon delivery at the premises where sold and without warranty, express or implied. The proceeds of such sales after payment of any expenses incident thereto as may be prescribed by regulations, together with any other moneys left or found on a facility, not disposed of in accordance with this subchapter, shall be credited to the General Post Fund, National Homes, Department of Veterans Affairs, a trust fund provided for in section 1321(a)(45) of title 31. In addition to the purposes for which such fund may be used under the existing law, disbursements may be made therefrom as authorized by the Secretary by regulation or otherwise for the purpose of satisfying any legal liability incurred by any employee in administering the provisions of this subchapter, including any expense incurred in connection therewith. Legal liability shall not exist when delivery or sale shall have been made in accordance with this subchapter.
 
-(e) If, notwithstanding such sale, a claim is filed with the Secretary within five years after notice of sale as herein required, by or on behalf of any person or persons who if known would have been entitled to the property under section 8501 of this title or to possession thereof under this section, the Secretary shall determine the person or persons entitled under the provisions of this subchapter and may pay to such person or persons so entitled the proceeds of sale ofsuch property, less expenses. Such payment shall be made out of the said trust fund, and in accord with the provisions of this section or section 8501 of this title. Persons under legal disability to sue in their own name may make claim for the proceeds of sale of such property at any time within five years after termination of such legal disability.
+(e) If, notwithstanding such sale, a claim is filed with the Secretary within five years after notice of sale as herein required, by or on behalf of any person or persons who if known would have been entitled to the property under section 8501 of this title or to possession thereof under this section, the Secretary shall determine the person or persons entitled under the provisions of this subchapter and may pay to such person or persons so entitled the proceeds of sale of such property, less expenses. Such payment shall be made out of the said trust fund, and in accord with the provisions of this section or section 8501 of this title. Persons under legal disability to sue in their own name may make claim for the proceeds of sale of such property at any time within five years after termination of such legal disability.
 
 (f) Any such property, the sale of which is authorized under this subchapter and which remains unsold, may be used, destroyed, or otherwise disposed of in accordance with regulations promulgated by the Secretary.
 
@@ -65,8 +65,4 @@ Subsec. (c). Pub. L. 99–576, §701(94)(E), substituted “the Administrator's�
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 8505 of this title.
 

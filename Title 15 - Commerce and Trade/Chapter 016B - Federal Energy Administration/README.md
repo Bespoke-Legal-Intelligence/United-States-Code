@@ -141,10 +141,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 798 of this title; title 42 sections 6273, 7194.
-
 
 ---
 

@@ -8,7 +8,3 @@ The Commissioners of the Postal Rate Commission shall serve for terms of 6 years
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 759.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3601 of this title.
-

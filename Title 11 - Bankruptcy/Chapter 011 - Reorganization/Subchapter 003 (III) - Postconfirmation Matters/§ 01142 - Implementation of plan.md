@@ -18,7 +18,3 @@ Subsec. (b). Pub. L. 98–353, §514(d), inserted “a” after “by”.
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 524, 901 of this title.
-

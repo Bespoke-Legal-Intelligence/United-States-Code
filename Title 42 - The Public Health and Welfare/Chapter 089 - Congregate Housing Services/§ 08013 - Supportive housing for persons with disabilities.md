@@ -154,13 +154,13 @@ The Secretary shall establish selection criteria for assistance under subsection
 
 #### (3) Annual adjustments
 
-&emsp;The Secretary shall adjust the cost limitation not less than once annually to reflectchanges in the general level of acquisition, construction, reconstruction, or rehabilitation costs.
+&emsp;The Secretary shall adjust the cost limitation not less than once annually to reflect changes in the general level of acquisition, construction, reconstruction, or rehabilitation costs.
 
 #### (4) Incentives for savings
 
 #### (A) Special project account
 
-&emsp;&emsp;The Secretary shall use the development cost limitations established under paragraph (1) to calculate the amount of financing to be made available to individual owners. Owners which incur actual development costs that are less than the amount of financing shall be entitled to retain 50 percent of the savings in a special project account. Such percentage shall be increased to 75 percent for owners which add energy efficiency features which (i) exceed the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of this title; (ii) substantially reduce the life-cycle cost of the housing; (iii) reduce gross rent requirements; and (iv) enhance tenant comfort and convenience.
+&emsp;&emsp;The Secretary shall use the development cost limitations established under paragraph (1) to calculate the amount of financing to be made available to individual owners.Owners which incur actual development costs that are less than the amount of financing shall be entitled to retain 50 percent of the savings in a special project account. Such percentage shall be increased to 75 percent for owners which add energy efficiency features which (i) exceed the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of this title; (ii) substantially reduce the life-cycle cost of the housing; (iii) reduce gross rent requirements; and (iv) enhance tenant comfort and convenience.
 
 #### (B) Uses
 
@@ -218,7 +218,7 @@ The Secretary shall establish selection criteria for assistance under subsection
 
 #### (7) Use of project reserves
 
-&emsp;Amounts for project reserves for a project assisted under this section may be used forcosts, subject to reasonable limitations as the Secretary determines appropriate, for reducing the number of dwelling units in the project. Such use shall be subject to the approval of the Secretary to ensure that the use is designed to retrofit units that are currently obsolete or unmarketable.
+&emsp;Amounts for project reserves for a project assisted under this section may be used for costs, subject to reasonable limitations as the Secretary determines appropriate, for reducing the number of dwelling units in the project. Such use shall be subject to the approval of the Secretary to ensure that the use is designed to retrofit units that are currently obsolete or unmarketable.
 
 #### (k) Definitions
 
@@ -268,11 +268,11 @@ As used in this section—
 
 #### (3) Project rental assistance
 
-&emsp;Of any amounts made available for assistance under subsection (b) of this section, suchsums as may be necessary shall be available for funding project rental assistance in accordance with subsection (c)(2) <sup>6</sup> of this section.
+&emsp;Of any amounts made available for assistance under subsection (b) of this section, such sums as may be necessary shall be available for funding project rental assistance in accordance with subsection (c)(2) <sup>6</sup> of this section.
 
 #### (4) Size limitation
 
-&emsp;Of any amounts made available for any fiscal year and used for capital advances or project rental assistance under paragraphs (1) and (2) of subsection (d) of this section, not more than 25 percent may be used for supportive housing which contains more than 24 separate dwelling units.
+&emsp;Of any amounts made available for any fiscal year and used for capital advances or project rental assistance under paragraphs (1) and (2) of subsection (d) of this section, notmore than 25 percent may be used for supportive housing which contains more than 24 separate dwelling units.
 
 #### (m) Authorization of appropriations
 
@@ -336,7 +336,7 @@ Subsecs. (m), (n). Pub. L. 106–74, §512, added subsec. (m) and redesignated f
 
 1992—Pub. L. 102–550, §623(a)(1), reenacted section catchline without change.
 
-Subsec. (b). Pub. L. 102–550, §623(a)(2), added heading, introductory provisions, and pars. (1) and (2) and struck out former heading “General authority”, introductory provisions, and pars. (1) and (2) which authorized assistance to private, nonprofit organizations to expand the supply of supportive housing for persons with disabilities, which assistance would be provided as capital advances and contracts for project rental assistance, and, in concluding provisions, realigned margin and substituted “assistance under this paragraph” for “Such assistance”.
+Subsec. (b). Pub. L. 102–550, §623(a)(2), added heading, introductory provisions, and pars. (1) and (2) and struckout former heading “General authority”, introductory provisions, and pars. (1) and (2) which authorized assistance to private, nonprofit organizations to expand the supply of supportive housing for persons with disabilities, which assistance would be provided as capital advances and contracts for project rental assistance, and, in concluding provisions, realigned margin and substituted “assistance under this paragraph” for “Such assistance”.
 
 Subsec. (d)(1). Pub. L. 102–550, §623(a)(3)(A), which directed the substitution of “subsection (b)(2) of this section” for “this section”, was executed by making the substitution the first place appearing in first sentence, to reflect the probable intent of Congress.
 
@@ -383,8 +383,4 @@ This section was enacted as part of Pub. L. 101–625, which was approved Nov. 2
 #### Inapplicability of Certain 1992 Amendments to Indian Public Housing
 
 Amendment by section 623(a) of Pub. L. 102–550 not applicable with respect to lower income housing developed or operated pursuant to contract between Secretary of Housing and Urban Development and Indian housing authority, see section 626 of Pub. L. 102–550, set out as a note under section 1437a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437a, 1437f, 3535, 8011, 11403g, 13664 of this title; title 12 sections 1701z–11, 3702, 3705.
 

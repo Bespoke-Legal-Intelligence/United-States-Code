@@ -2,7 +2,7 @@
 
 #### (a) Creation of lien
 
-If any person liable to the corporation under section 1362, 1363, or 1364 of this title neglects orrefuses to pay, after demand, the amount of such liability (including interest), there shall be a lien in favor of the corporation in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title <sup>1</sup>
+If any person liable to the corporation under section 1362, 1363, or 1364 of this title neglects or refuses to pay, after demand, the amount of such liability (including interest), there shall be a lien in favor of the corporation in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title <sup>1</sup>
 
 #### (b) Term of lien
 
@@ -52,11 +52,11 @@ For purposes of this section—
 
 &emsp;(2) The term “pre-tax profits” has the meaning provided in section 1362(d)(2) of this title.
 
-(Pub. L. 93–406, title IV, §4068, Sept. 2, 1974, 88 Stat. 1032; Pub. L. 95–598, title III, §321(c), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 99–272, title XI, §11016(a)(6)(B), (c)(14), Apr. 7, 1986, 100 Stat. 271, 275; Pub. L. 100–203, title IX, §9312(b)(2)(B)(i), (C)(ii), Dec. 22, 1987, 101 Stat. 1330–361, 1330–362; Pub. L. 101–239, title VII, §§7881(f)(3)(B), (10)(C), (12), 7891(a)(1), 7894(g)(4)(A), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451.)
+(Pub. L. 93–406, title IV, §4068, Sept. 2, 1974, 88 Stat. 1032; Pub. L. 95–598, title III, §321(c), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 99–272, title XI, §11016(a)(6)(B), (c)(14), Apr. 7, 1986, 100 Stat. 271,275; Pub. L. 100–203, title IX, §9312(b)(2)(B)(i), (C)(ii), Dec. 22, 1987, 101 Stat. 1330–361, 1330–362; Pub. L. 101–239, title VII, §§7881(f)(3)(B), (10)(C), (12), 7891(a)(1), 7894(g)(4)(A), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451.)
 
 #### Codification
 
-A former subsec. (f) of this section was originally subsec. (e) of section 1362 of this title and was redesignated as subsec. (f) of this section by Pub. L. 100–203,§9312(b)(2)(B)(ii). Subsequently, Pub. L. 100–203, §9312(b)(2)(B)(ii), was amended generally by Pub. L. 101–239, §7881(f)(10)(B), and, as so amended, no longer contains language redesignating subsec. (e) of section 1362 as subsec. (f) of this section. As a result of that amendment, the transfer of subsec. (e) of section 1362 to subsec. (f) of this section was rescinded.
+A former subsec. (f) of this section was originally subsec. (e) of section 1362 of this title and was redesignated as subsec. (f) of this section by Pub. L. 100–203, §9312(b)(2)(B)(ii). Subsequently, Pub. L. 100–203, §9312(b)(2)(B)(ii), was amended generally by Pub. L. 101–239, §7881(f)(10)(B), and, as so amended, no longer contains language redesignating subsec. (e) of section 1362 as subsec. (f) of this section. As a result of that amendment, the transfer of subsec. (e) of section 1362 to subsec. (f) of this section was rescinded.
 
 #### Amendments
 
@@ -105,10 +105,6 @@ Amendment by Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, s
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1082, 1364, 1413 of this title; title 26 section 412.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

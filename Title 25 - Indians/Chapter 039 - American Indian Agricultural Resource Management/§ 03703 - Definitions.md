@@ -24,7 +24,7 @@ For the purposes of this chapter:
 
 &emsp;(5) The term “Bureau” means the Bureau of Indian Affairs of the Department of the Interior.
 
-&emsp;(6) The term “farmland” means Indian land excluding Indian forest land that is used for production of food, feed, fiber, forage and seed oil crops, or other agricultural products, and may be either dryland, irrigated, or irrigated pasture.
+&emsp;(6) The term “farmland” means Indian land excluding Indian forest land that is used for production of food, feed, fiber, forage and seedoil crops, or other agricultural products, and may be either dryland, irrigated, or irrigated pasture.
 
 &emsp;(7) The term “Indian forest land” means forest land as defined in section 3103(3) of this title.
 
@@ -36,7 +36,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(B) owned by an Indian or Indian tribe and is subject to restrictions against alienation.
 
-&emsp;(10) The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (43U.S.C. 1601 et seq.), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;(10) The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 &emsp;(11) The term “integrated resource management plan” means the plan developed pursuant to the process used by tribal governments to assess available resources and to provide identified holistic management objectives that include quality of life, production goals and landscape descriptions of all designated resources that may include (but not be limited to) water, fish, wildlife, forestry, agriculture, minerals, and recreation, as well as community and municipal resources, and may include any previously adopted tribal codes and plans related to such resources.
 

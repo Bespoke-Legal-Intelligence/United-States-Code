@@ -2,7 +2,7 @@
 
 (a) The Congress finds that the natural resources of the United States in certain strategic and critical materials are deficient or insufficiently developed to supply the military, industrial, and essential civilian needs of the United States for national defense.
 
-(b) It is the purpose of this subchapter to provide for the acquisition and retention of stocks of certain strategic and critical materials and to encourage the conservation and development of sources of such materials within the United States and thereby to decrease and to preclude, when possible, a dangerous and costly dependence by the United States upon foreign sources for supplies of such materials in times of national emergency.
+(b) It is the purpose of this subchapter to provide for the acquisition and retention of stocksof certain strategic and critical materials and to encourage the conservation and development of sources of such materials within the United States and thereby to decrease and to preclude, when possible, a dangerous and costly dependence by the United States upon foreign sources for supplies of such materials in times of national emergency.
 
 (c) The purpose of the National Defense Stockpile is to serve the interest of national defense only. The National Defense Stockpile is not to be used for economic or budgetary purposes.
 
@@ -33,8 +33,4 @@ Subsec. (c)(3). Pub. L. 103–160, §3311(2), added par. (3).
 #### Effective Date of 1996 Amendment
 
 Section 3311(c) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section and section 98h–5 of this title\] shall take effect on October 1, 1996.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 98b, 98h–2 of this title.
 

@@ -80,7 +80,3 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2245, 2249, 2251 of this title.
-

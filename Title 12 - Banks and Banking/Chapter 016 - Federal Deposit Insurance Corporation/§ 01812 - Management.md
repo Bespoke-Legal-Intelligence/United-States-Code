@@ -42,7 +42,7 @@
 
 #### (3) Continuation of service
 
-&emsp;The Chairperson, Vice Chairperson, and each appointed member may continue to serve after the expiration of the term of office to which such member was appointed until a successor has been appointed and qualified.
+&emsp;The Chairperson, Vice Chairperson, and each appointed member may continue to serve afterthe expiration of the term of office to which such member was appointed until a successor has been appointed and qualified.
 
 #### (d) Vacancy
 
@@ -80,7 +80,7 @@
 
 #### (3) Certification
 
-&emsp;Upon taking office, each member of the Board of Directors shall certify under oaththat such member has complied with this subsection and such certification shall be filed with the secretary of the Board of Directors.
+&emsp;Upon taking office, each member of the Board of Directors shall certify under oath that such member has complied with this subsection and such certification shall be filed with the secretary of the Board of Directors.
 
 #### (f) Status of employees
 

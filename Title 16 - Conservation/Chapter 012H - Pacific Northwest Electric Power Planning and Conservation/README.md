@@ -80,10 +80,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 838i, 838k, 839d–1 of this title; title 26 section 149; title 33 section 2286.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “section;” or “section”.</i>
 
 

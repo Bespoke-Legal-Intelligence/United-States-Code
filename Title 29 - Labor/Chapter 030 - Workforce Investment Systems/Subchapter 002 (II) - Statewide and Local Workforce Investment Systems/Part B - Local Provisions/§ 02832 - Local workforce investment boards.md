@@ -156,7 +156,7 @@ The functions of the local board shall include the following:
 
 #### (II) Designation
 
-&emsp;&emsp;&emsp;&emsp;In order to assist in the administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
+&emsp;&emsp;&emsp;&emsp;In order to assist in the administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor ofthe liability for any misuse of grant funds as described in subclause (I).
 
 #### (III) Disbursal
 
@@ -204,7 +204,7 @@ The local board shall make available to the public, on a regular basis through o
 
 #### (B) Waivers of training prohibition
 
-&emsp;&emsp;The Governor of the State in which a local board is located may, pursuant to a requestfrom the local board, grant a written waiver of the prohibition set forth in subparagraph (A) (relating to the provision of training services) for a program of training services, if the local board—
+&emsp;&emsp;The Governor of the State in which a local board is located may, pursuant to a request from the local board, grant a written waiver of the prohibition set forth in subparagraph (A) (relating to the provision of training services) for a program of training services, if the local board—
 
 &emsp;&emsp;&emsp;(i) submits to the Governor a proposed request for the waiver that includes—
 
@@ -296,7 +296,7 @@ A member of a local board may not—
 
 #### (1) In general
 
-&emsp;For purposes of complying with subsections (a), (b), and (c) of this section, and paragraphs\(1) and (2) of subsection (h) of this section, a State may use any local entity (including a local council, regional workforce development board, or similar entity) that—
+&emsp;For purposes of complying with subsections (a), (b), and (c) of this section, and paragraphs (1) and (2) of subsection (h) of this section, a State may use any local entity (including a local council, regional workforce development board, or similar entity) that—
 
 &emsp;&emsp;(A) is established to serve the local area (or the service delivery area that most closely corresponds to the local area);
 
@@ -330,9 +330,5 @@ Section 1512 of this title, referred to in subsec. (i)(1)(C)(i), was repealed by
 
 1998—Subsec. (f)(1)(D). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(A)\], substituted “if the Governor” for “if the State”.
 
-Subsec. (i)(1)(D)(ii)(II). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(B)\], added subcl. (II) and struck out former subcl. (II) which read as follows: “(for a local area in which no employees are represented by such organizations), other representatives of employees in the local area.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 49a, 705, 2801, 2821, 2822, 2833, 2871, 2916a of this title; title 42 section 4953.
+Subsec. (i)(1)(D)(ii)(II). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(B)\], added subcl. (II) and struck out former subcl. (II) which read as follows: “(for a local area inwhich no employees are represented by such organizations), other representatives of employees in the local area.”
 

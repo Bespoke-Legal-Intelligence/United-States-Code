@@ -4,7 +4,3 @@ In case of the prevalence of a contagious or epidemic disease at the seat of gov
 
 (July 30, 1947, ch. 389, 61 Stat. 643.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 97.
-

@@ -2,7 +2,7 @@
 
 (a) “Antitrust laws,” as used herein, includes the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July second, eighteen hundred and ninety; sections seventy-three to seventy-six, inclusive, of an Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” of August twenty-seventh, eighteen hundred and ninety-four; an Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes,’ ” approved February twelfth, nineteen hundred and thirteen; and also this Act.
 
-“Commerce,” as used herein, means trade or commerce among the several States and with foreign nations, or between the District of Columbia or any Territory of the United States and any State, Territory, or foreign nation, or between any insular possessions or other places under the jurisdiction of the United States, or between any such possession or place and any State or Territory of the United States or the District of Columbia or any foreign nation, or within the District of Columbia or any Territory or any insular possession or other place under the jurisdiction of the United States: <i>Provided</i>, That nothing in this Act contained shall apply to the Philippine Islands.
+“Commerce,” as used herein, means trade or commerce among the several States and with foreign nations, or between the District of Columbia or any Territory of the United Statesand any State, Territory, or foreign nation, or between any insular possessions or other places under the jurisdiction of the United States, or between any such possession or place and any State or Territory of the United States or the District of Columbia or any foreign nation, or within the District of Columbia or any Territory or any insular possession or other place under the jurisdiction of the United States: <i>Provided</i>, That nothing in this Act contained shall apply to the Philippine Islands.
 
 The word “person” or “persons” wherever used in this Act shall be deemed to include corporations and associations existing under or authorized by the laws of either the United States, the laws of any of the Territories, the laws of any State, or the laws of any foreign country.
 
@@ -35,12 +35,4 @@ The 3d par. of subsec. (a) is also classified to section 53 of Title 29, Labor.
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002, see section 14103 of Pub. L. 107–273, set out as a note under section 3 of this title.
-
-#### Clayton Act Referred to in Other Sections
-
-The Clayton Act \[see References in Text note above\] is referred to in sections 35, 44, 57b–1, 1012, 1013, 3301, 3503 of this title; title 7 section 225; title 10 section 7430; title 12 sections 1828, 1849, 3208; title 16 section 2602; title 30 sections 184, 1413; title 33 section 1331; title 40 section 559; title 42 sections 2135, 5417, 5909, 6202, 8235f, 9102; title 43 section 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 34, 37a, 1291, 1311, 4002, 4021, 4301, 6211, 6701 of this title; title 12 sections 1831u, 1841; title 16 section 824k; title 17 section 109; title 19 sections 2033, 2561; title 21 section 355; title 28 section 1407; title 42 sections 7651b, 12007, 13271; title 46 App. section 885; title 47 section 303c; title 49 sections 13703, 13907, 14104, 40102, 40129, 41308, 41720.
 

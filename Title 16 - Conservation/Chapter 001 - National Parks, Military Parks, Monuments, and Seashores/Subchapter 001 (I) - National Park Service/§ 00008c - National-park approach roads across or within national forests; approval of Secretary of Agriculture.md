@@ -4,7 +4,3 @@ Whenever any approach road is proposed under the terms of this section and secti
 
 (Apr. 9, 1924, ch. 86, §6, as added Jan. 31, 1931, ch. 79, 46 Stat. 1054.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1c, 8b, 8d of this title.
-

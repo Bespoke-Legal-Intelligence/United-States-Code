@@ -4,15 +4,11 @@ As used in sections 58a–1 to 58a–3 of this title, the term—
 
 &emsp;(1) “Sergeant at Arms” means the Sergeant at Arms and Doorkeeper of the United States Senate; and
 
-&emsp;(2) “user” means any Senator, Officer of the Senate, Committee, office, or entity providedtelephone equipment and services by the Sergeant at Arms.
+&emsp;(2) “user” means any Senator, Officer of the Senate, Committee, office, or entity provided telephone equipment and services by the Sergeant at Arms.
 
 (Pub. L. 100–123, §1, Oct. 5, 1987, 101 Stat. 794.)
 
 #### Effective Date
 
 Section 4 of Pub. L. 100–123 provided that: “This Act \[enacting this section and sections 58a–2 and 58a–3 of this title\] shall take effect on October 1, 1987.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 58a–2, 58a–3 of this title.
 

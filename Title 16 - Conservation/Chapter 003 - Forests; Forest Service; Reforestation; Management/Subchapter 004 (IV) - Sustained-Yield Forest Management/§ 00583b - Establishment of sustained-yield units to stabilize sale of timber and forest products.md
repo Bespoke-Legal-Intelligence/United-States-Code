@@ -4,7 +4,3 @@ The Secretary of Agriculture and the Secretary of the Interior are further sever
 
 (Mar. 29, 1944, ch. 146, §3, 58 Stat. 133.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 583d of this title.
-

@@ -4,7 +4,3 @@ It shall be unlawful to offer or expose any article for sale in the Library of C
 
 (Aug. 4, 1950, ch. 561, §3, 64 Stat. 411.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 167f, 167g, 167h, 167i, 167j of this title.
-

@@ -168,9 +168,5 @@ Pub. L. 105–277, div. A, §101(g) \[title III, §334\], Oct. 21, 1998, 112 Sta
 
 Pub. L. 105–66, title III, §336, Oct. 27, 1997, 111 Stat. 1447.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41110, 41719 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “was determined,”.</i>
 

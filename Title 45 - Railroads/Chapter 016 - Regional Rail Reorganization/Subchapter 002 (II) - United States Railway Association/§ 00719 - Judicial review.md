@@ -28,7 +28,7 @@ Within 90 days after its effective date, the Association shall deliver a certifi
 
 &emsp;(1) which rail properties of the respective railroads in reorganization in the region and of any person leased, operated, or controlled by such railroads in reorganization are to be transferred to the Corporation, or any subsidiary thereof, in accordance with the final system plan;
 
-&emsp;(2) which rail properties of the respective railroads in reorganization in the region orperson leased,<sup>1</sup> operated, or controlled by such railroads in reorganization are to be conveyed to profitable railroads, in accordance with the final system plan;
+&emsp;(2) which rail properties of the respective railroads in reorganization in the region or person leased,<sup>1</sup> operated, or controlled by such railroads in reorganization are to be conveyed to profitable railroads, in accordance with the final system plan;
 
 &emsp;(3) the amount, terms, and value of the securities of the Corporation or any subsidiary thereof (including any certificates of value of the Association) to be exchanged for those rail properties to be transferred to the Corporation or any subsidiary thereof pursuant to the final system plan, and as indicated in paragraph (1) of this subsection; and
 
@@ -60,7 +60,7 @@ Within 90 days after its effective date, the Association shall deliver a certifi
 
 &emsp;(F) with respect to continuing reorganization and supplemental transactions, in accordance with section 745 of this title;
 
-> shall be within the original and exclusive jurisdiction of the special court. The special court shall not hear or determine any such action prior to the date of conveyance, pursuant to section 743(b)(1) of this title, except as the Constitution may require. Relief shall not be granted in any action referred to in subparagraph (A), (C), or (E) unless the person seeking such relief establishes that the Association acted in reckless or deliberate disregard of applicable law.
+> shall be within the original and exclusive jurisdiction of the special court. The special court shall not hear or determine any such action prior to the date of conveyance, pursuant to section 743(b)(1) of this title, except as the Constitution may require. Relief shall not be granted in any action referred to in subparagraph (A), (C), or (E) unless the person seeking such reliefestablishes that the Association acted in reckless or deliberate disregard of applicable law.
 
 (2) The original and exclusive jurisdiction of the special court shall include any action, whether filed by any interested person or initiated by the special court itself, to interpret, alter, amend, modify, or implement any of the orders entered by such court pursuant to section 743(b) of this title in order to effect the purposes of this chapter or the goals of the final system plan. During the pendency of any proceeding described in this paragraph, the special court may enter such orders as it determines to be appropriate, including orders enjoining, restraining, conditioning, or limiting any conveyance, transfer, or use of any asset or right which is subject to such an order or which is at issue in such a proceeding, or which involves the enforcement of any liens or encumbrances upon such assets or rights. Any orders pursuant to this paragraph which interpret, alter, amend, modify, or implement orders entered by the special court shall be final and shall not be restrained or enjoined by any court.
 
@@ -68,7 +68,7 @@ Within 90 days after its effective date, the Association shall deliver a certifi
 
 #### (f) Disposition of cash deposits
 
-Whenever the compensation which is deposited with the special court under section 743(a) of this title is in the form of cash, such cash shall be invested and reinvested upon such terms and conditions as the special court shall determine, pending the making of the findings referred to in paragraphs (1), (2), and (3) of section 743(c) of this title. Notwithstanding section 743(c)(4) of this title, the special court may order (1) the income from such investments, (2) the dividends or interest, if any, received on any securities or obligations deposited with the special court under such section 743(a) of this title, and (3) the income, if any, received with respect to any other form of compensation so deposited, to be distributed to the trustee of each railroad in reorganization and to any person leased, operated or controlled by such a railroad which conveyed the right, title, and interest in the rail properties with respect to which such cash, securities, obligations, or other compensation have been so deposited with the special court. Notwithstanding section 743(c)(4) of this title, the special court may, within 90 days after the dateof conveyance of rail properties pursuant to section 743(b) of this title, order up to 25 percent of any cash (including investments made with cash) and other compensation deposited with the special court to be distributed to such trustee or person. On petition of the applicable trustee or person, the special court may order such additional distributions as it finds reasonable and appropriate, prior to the making of the findings referred to in paragraphs (1), (2), and (3) of such section 743(c) of this title.
+Whenever the compensation which is deposited with the special court under section 743(a) of this title is in the form of cash, such cash shall be invested and reinvested upon such terms and conditions as the special court shall determine, pending the making of the findings referred to in paragraphs (1), (2), and (3) of section 743(c) of this title. Notwithstanding section 743(c)(4) of this title, the special court may order (1) the income from such investments, (2) the dividends or interest, if any, received on any securities or obligations deposited with the special court under such section 743(a) of this title, and (3) the income, if any, received with respect to any other form of compensation so deposited, to be distributed to the trustee of each railroad in reorganization and to any person leased, operated or controlled by such a railroad which conveyed the right, title, and interest in the rail properties with respect to which such cash, securities, obligations, or other compensation have been so deposited with the special court. Notwithstanding section 743(c)(4) of this title, the special court may, within 90 days after the date of conveyance of rail properties pursuant to section 743(b) of this title, order up to 25 percent of any cash (including investments made with cash) and other compensation deposited with the special court to be distributed to such trustee or person. On petition of the applicable trustee or person, the special court may order such additional distributions as it finds reasonable and appropriate, prior to the making of the findings referred to in paragraphs (1), (2), and (3) of such section 743(c) of this title.
 
 #### (g) Stay of court proceedings
 
@@ -102,7 +102,7 @@ Subsec. (h). Pub. L. 104–317, §605(c)(1)(B), struck out subsec. (h) relating 
 
 1976—Subsec. (b). Pub. L. 94–210, §602(a), substituted provisions relating to issuance of rules by special court for conduct of proceedings under this section and section 745 of this title, for provisions relating to issuance of rules by panel for conduct of its functions under this provision.
 
-Subsec. (c). Pub. L. 94–210, §607(i), (<i>l</i>), (r), (s), inserted “or any subsidiary thereof” after “Corporation” wherever appearing, substituted “certificates of value” for “obligations” wherever appearing, inserted provisions at end relating to the time for the delivery of the final system plan on March 12, 1976, and conditions for extension of such date, and substituted references to person leased for references to railroad leased wherever appearing in pars. (1) and (2). See Codification note above.
+Subsec. (c). Pub. L. 94–210, §607(i), (<i>l</i>), (r), (s), inserted “or any subsidiary thereof” after “Corporation” wherever appearing, substituted “certificates of value” for“obligations” wherever appearing, inserted provisions at end relating to the time for the delivery of the final system plan on March 12, 1976, and conditions for extension of such date, and substituted references to person leased for references to railroad leased wherever appearing in pars. (1) and (2). See Codification note above.
 
 Subsec. (d)(1). Pub. L. 94–210, §607(i), inserted “or any subsidiary thereof” after “Corporation”.
 
@@ -128,17 +128,9 @@ Section 605(d) of Pub. L. 104–317 provided that: “Effective 90 days after th
 
 &emsp;“(2) the time for filing a petition for writ of certiorari has not expired before that date.”
 
-#### References to Courthouse
-
-Reference to United States Courthouse in District of Columbia deemed reference to “E. Barrett Prettyman United States Courthouse”, see section 2 of Pub. L. 104–151, set out as an E. Barrett Prettyman UnitedStates Courthouse Designation note under section 8164 of Title 40, Public Buildings, Property, and Works.
-
 #### Applicability of National Environmental Policy Act
 
 Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 718, 741, 743, 744, 745, 1104, 1323, 1324 of this title.
 
 #### Rules of the Special Court, Regional Rail Reorganization Act of 1973
 

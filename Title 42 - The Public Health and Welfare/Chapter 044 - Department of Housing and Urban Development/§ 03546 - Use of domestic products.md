@@ -2,7 +2,7 @@
 
 #### (a) Prohibition against fraudulent use of “Made in America” labels
 
-A person shall not intentionally affix a label bearing the inscription of “Made in America”, or any inscription with that meaning, to any product sold in or shipped to the United States, if that product is not a domestic product.
+A person shall not intentionally affix a label bearing the inscription of “Made in America”, or any inscription with that meaning, to anyproduct sold in or shipped to the United States, if that product is not a domestic product.
 
 #### (b) Report
 

@@ -44,10 +44,6 @@ For the effective date of this Act, referred to in subsec. (f), see section 11 o
 
 Section 651 of title 2, referred to in subsec. (h), was amended by Pub. L. 105–33, title X, §10116(a)(3), (5), Aug. 5, 1997, 111 Stat. 691, by striking out subsec. (c) and redesignating former subsec. (d) as (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1771a, 1771c, 1771h of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

@@ -20,7 +20,7 @@ Any alien who shall be convicted of a violation of, or a conspiracy to violate, 
 
 #### (e) Continuing offense
 
-Failure to file any such registration statement or supplements thereto as is required by either section 612(a) or section 612(b) of this title shall be considered a continuing offense for as long as such failure exists, notwithstanding anystatute of limitation or other statute to the contrary.
+Failure to file any such registration statement or supplements thereto as is required by either section 612(a) or section 612(b) of this title shall be considered a continuing offense for as long as such failure exists, notwithstanding any statute of limitation or other statute to the contrary.
 
 #### (f) Injunctive remedy; jurisdiction of district court
 
@@ -82,5 +82,5 @@ Amendment by Pub. L. 89–486 effective ninety days after July 4, 1966, see sect
 
 #### Effective Date
 
-Section effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr.29, 1942, set out as an Effective Date of 1942 Amendment note under section 611 of this title.
+Section effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as an Effective Date of 1942 Amendment note under section 611 of this title.
 

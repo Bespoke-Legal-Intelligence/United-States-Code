@@ -28,7 +28,3 @@ When used in this chapter—
 
 (Mar. 3, 1923, ch. 217, §2, 42 Stat. 1435.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 93 of this title; title 12 section 1141j.
-

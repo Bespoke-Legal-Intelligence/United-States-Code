@@ -136,7 +136,7 @@ Report.—A report containing the results of the assessment shall be provided to
 
 “(c)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Administrator of theFederal Aviation Administration $500,000 for fiscal year 2004 to carry out this section.”
+Authorization of Appropriations.—There is authorized to be appropriated to the Administrator of the Federal Aviation Administration $500,000 for fiscal year 2004 to carry out this section.”
 
 #### Ensuring Appropriate Standards for Airfield Pavements
 
@@ -156,7 +156,7 @@ Pub. L. 106–181, title I, §157, Apr. 5, 2000, 114 Stat. 89, provided that:
 
 “(a)
 
-Study.—The Administrator \[of the Federal Aviation Administration\] shall conduct a study of the use of recycled materials (including recycled pavements, waste materials, and byproducts) in pavement used for runways, taxiways, and aprons and the specification standards in tests necessary for the use of recycled materials in such pavement. The primary focus of the study shall be on the long-term physical performance, safety implications, and environmental benefits of using recycled materials in aviation pavement.
+Study.—The Administrator \[of the Federal Aviation Administration\] shall conduct a study of the use ofrecycled materials (including recycled pavements, waste materials, and byproducts) in pavement used for runways, taxiways, and aprons and the specification standards in tests necessary for the use of recycled materials in such pavement. The primary focus of the study shall be on the long-term physical performance, safety implications, and environmental benefits of using recycled materials in aviation pavement.
 
 “(b)
 
@@ -299,8 +299,4 @@ Use of Grants or Cooperative Agreements.—The Administrator may use grants or c
 Statutory Construction.—Nothing in this section requires the Administrator to prioritize an airfield pavement research program above safety, security, Flight 21, environment, or energy research programs.”
 
 Pub. L. 106–181, title IX, §905, Apr. 5, 2000, 114 Stat. 196, provided that: “The Administrator \[of the Federal Aviation Administration\] shall consider awards to nonprofit concrete pavement research foundations to improve the design, construction, rehabilitation, and repair of rigid concrete airfield pavements to aid in the development of safer, more cost-effective, and durable airfield pavements. The Administrator may use a grant or cooperative agreement for this purpose. Nothing in this section shall require the Administrator to prioritize an airfield pavement research program above safety, security, Flight 21, environment, or energy research programs.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44501, 44508, 48102 of this title.
 

@@ -48,7 +48,3 @@ Subsec. (b)(4). Pub. L. 103–178, §202(a)(12)(C), struck out par. (4) which re
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403n, 2031, 2032, 2033, 2071 of this title.
-

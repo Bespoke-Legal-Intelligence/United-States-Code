@@ -29,10 +29,6 @@
 
 1970—Pub. L. 91–368, §3, July 31, 1970, 84 Stat. 693, designated existing sections 1 through 14 as “Chapter 1” and added heading for Chapter 1.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 205, 208, 307 of this title; title 7 section 255; title 25 section 416a.
-
 
 ---
 

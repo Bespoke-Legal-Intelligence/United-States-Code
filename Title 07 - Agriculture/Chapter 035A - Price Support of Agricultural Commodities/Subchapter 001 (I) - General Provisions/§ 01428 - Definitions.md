@@ -6,7 +6,7 @@ For the purposes of this Act—
 
 (b) A “cooperator” with respect to any basic agricultural commodity shall be a producer on whose farm the acreage planted to the commodity does not exceed the farm acreage allotment for the commodity under subchapter II of chapter 35 of this title, or in the case of price support for corn or wheat to a producer outside the commercial corn-producing or wheat-producing area, a producer who complies with conditions of eligibility prescribed by the Secretary: <i>Provided</i>, That for upland cotton a cooperator shall be a producer on whose farm the acreage planted to such cotton does not exceed the cooperator percentage, which shall be in the case of the 1966 crop, 87.5 per centum of such farm acreage allotment and, in the case of each of the 1967 through 1970 crops, such percentage, not less than 87.5 or more than 100 per centum, of such farm acreage allotment as the Secretary may specify for such crop, except that in the case of small farms (i.e. farms on which the acreage allotment is 10 acres or less, or on which the projected farm yield times the acreage allotment is 3,600 pounds or less, and the acreage allotment has not been reduced under section 1344(m) of this title) the acreage of cotton on the farm shall not be required to be reduced below the farm acreage allotment: <i>And provided</i>, That for the 1971 through 1977 crops of upland cotton a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title: <i>Provided further</i>, That for the 1976 through 1981 crops of rice, a cooperator shall be a person who produces rice on a farm for which a farm acreage allotment has been established or to which a producer acreage allotment has been allocated and, if a set-aside is in effect, who has set aside any acreage required under section 1441(g) of this title. <i>Provided further</i>, That for the 1978 through 1981 crops of upland cotton, a cooperator shall be a producer on a farm who has set aside the acreage required under section 1444(f) of this title. For the purpose of this subsection, a producer shall not be deemed to have exceeded his farm acreage allotment unless such producer knowingly exceeded such allotment.
 
-(c) A “basic agricultural commodity” shall mean corn, cotton, rice, tobacco, and wheat, respectively.
+(c) A “basic agricultural commodity” shall mean corn, cotton, rice, and wheat, respectively.
 
 (d) A “nonbasic agricultural commodity” shall mean any agricultural commodity other than a basic agricultural commodity.
 
@@ -16,7 +16,7 @@ For the purposes of this Act—
 
 (g) “Carry-over” of any nonbasic agricultural commodity for any marketing year shall be the quantity of the commodity on hand in the United States at the beginning of such marketing year, not including any part of the crop or production of such commodity which was produced in the United States during the calendar year then current. The carryover of any such commodity may also include the quantity of such commodity in processed form on hand in the United States at the beginning of such marketing year, if the Secretary determines that the inclusion of such processed quantity of the commodity is necessary to effectuate the purposes of this Act.
 
-(h) “Normal supply” of any nonbasic agricultural commodity for any marketing year shall be (1) the estimated domestic consumption of the commodity for the marketing year for which such normal supply is being determined, plus (2) the estimated exports of the commodity for such marketing year, plus (3) an allowance for carry-over. The allowance for carry-over shall be the average carry-over of the commodity for the five marketing years immediately preceding the marketing year in which such normal supply is determined, adjusted for surpluses or deficiencies caused by abnormal conditions, changes in marketing conditions, or the operation of any agricultural program. In determining normal supply, the Secretary shall make such adjustments for current trends in consumption and for unusual conditions as he may deem necessary.
+(h) “Normal supply” of any nonbasic agricultural commodity for any marketing year shall be (1) the estimated domestic consumption of the commodity for the marketing year for which such normal supply is being determined, plus (2) the estimated exports of the commodity for such marketing year, plus (3) an allowance for carry-over. The allowance for carry-over shall be theaverage carry-over of the commodity for the five marketing years immediately preceding the marketing year in which such normal supply is determined, adjusted for surpluses or deficiencies caused by abnormal conditions, changes in marketing conditions, or the operation of any agricultural program. In determining normal supply, the Secretary shall make such adjustments for current trends in consumption and for unusual conditions as he may deem necessary.
 
 (i) “Marketing year” for any nonbasic agricultural commodity means any period determined by the Secretary during which substantially all of a crop or production of such commodity is normally marketed by the producers thereof.
 
@@ -24,13 +24,13 @@ For the purposes of this Act—
 
 (k)(1) Reference made in sections 1422, 1423, 1426, 1427, and 1431 of this title to the terms “support price”, “level of support”, and “level of price support” shall be considered to apply as well to the loan and purchase level for wheat, feed grains, upland cotton, extra long staple cotton, honey, oilseeds and rice under this Act.
 
-(2) References made to the terms “price support”, “price support operations”, and “pricesupport program” in such sections and in section 1421(a) of this title shall be considered as applying as well to loan and purchase operations for wheat, feed grains, upland cotton, extra long staple cotton, honey, oilseeds and rice under this Act.
+(2) References made to the terms “price support”, “price support operations”, and “price support program” in such sections and in section 1421(a) of this title shall be considered as applying as well to loan and purchase operations for wheat, feed grains, upland cotton, extra long staple cotton, honey, oilseeds and rice under this Act.
 
 (3) Notwithstanding any other provision of law, this subsection shall be effective only for the 1991 through 1995 crops of wheat, feed grains, upland cotton, extra long staple cotton, honey, oilseeds and rice.
 
 (<i>l</i>) “Producer” shall include a person growing hybrid seed under contract. In determining the interest of a grower of hybrid seed in a crop, the Secretary shall not take into consideration the existence of a hybrid seed contract.
 
-(Oct. 31, 1949, ch. 792, title IV, §408, 63 Stat. 1055; Aug. 28, 1954, ch. 1041, title II, §209, 68 Stat. 901; Pub. L. 89–321, title IV, §402(b), Nov. 3, 1965, 79 Stat. 1197; Pub. L. 90–559, §1(4), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, §408, title VI, §§604, 607, Nov. 30, 1970, 84 Stat. 1367, 1378; Pub. L. 93–86, §1(22), Aug. 10, 1973, 87 Stat. 235; Pub. L. 94–214, title III, §§303, 304, Feb. 16, 1976, 90 Stat. 187, 188; Pub. L. 95–113, title IV, §407, title VI, §604(a), (b), title VII, §§704, 705, Sept. 29, 1977, 91 Stat. 927, 939, 944; Pub. L. 97–98, title XI, §1104, Dec. 22, 1981, 95 Stat. 1264; Pub. L. 99–198, title X, §1018, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 101–624, title XI, §1131, Nov. 28, 1990, 104 Stat. 3511; Pub. L. 107–171, title I, §1310(a)(2)(B), May 13, 2002, 116 Stat. 182.)
+(Oct. 31, 1949, ch. 792, title IV, §408, 63 Stat. 1055; Aug. 28, 1954, ch. 1041, title II, §209, 68 Stat. 901; Pub. L. 89–321, title IV, §402(b), Nov. 3, 1965, 79 Stat. 1197; Pub. L. 90–559, §1(4), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, §408, title VI, §§604, 607, Nov. 30, 1970, 84 Stat. 1367, 1378; Pub. L. 93–86, §1(22), Aug. 10, 1973, 87 Stat. 235; Pub. L. 94–214, title III, §§303, 304, Feb. 16, 1976, 90 Stat. 187, 188; Pub. L. 95–113, title IV, §407, title VI, §604(a), (b), title VII, §§704, 705, Sept. 29, 1977, 91 Stat. 927, 939, 944; Pub. L. 97–98, title XI, §1104, Dec. 22, 1981, 95 Stat. 1264; Pub. L. 99–198, title X, §1018, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 101–624, title XI, §1131, Nov. 28, 1990, 104 Stat. 3511; Pub. L. 107–171, title I, §1310(a)(2)(B), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, §612(c), Oct. 22, 2004, 118 Stat. 1524.)
 
 #### References in Text
 
@@ -41,6 +41,8 @@ Section 1441(g) of this title, referred to in subsec. (b), was omitted from the 
 The Agricultural Adjustment Act of 1938, referred to in subsec. (j), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–357 struck out “tobacco,” before “and wheat”.
 
 2002—Subsec. (c). Pub. L. 107–171 struck out “peanuts,” before “rice,”.
 
@@ -76,6 +78,10 @@ Subsecs. (k), (<i>l</i>). Pub. L. 91–524, §§408, 607, temporarily added subs
 
 1954—Subsec. (b). Act Aug. 28, 1954, inserted “or wheat” after “corn”, and “or wheat-producing” after “corn producing”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as an Effective Date note under section 518 of this title.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under section 1421 of this title.
@@ -104,13 +110,13 @@ Sections 408 and 607 of Pub. L. 91–524, as amended by section 1(15), (22) of P
 
 Section 402(b) of Pub. L. 89–321, as amended by Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by that section is effective only for 1966 through 1970 crops.
 
+#### Savings Provision
+
+Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
+
 #### Inapplicability of Section
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(10) of this title.
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1444 of this title.
 

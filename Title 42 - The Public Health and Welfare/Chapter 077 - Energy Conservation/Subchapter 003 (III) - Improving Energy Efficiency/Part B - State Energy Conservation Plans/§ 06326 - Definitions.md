@@ -60,9 +60,5 @@ Section 6327 of this title, referred to in par. (3)(B)(i), was repealed by Pub. 
 
 1976—Pub. L. 94–385 redesignated former pars. (1) and (2) as (7) and (8), respectively, and added pars. (1) to (6).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6323a, 6881 of this title; title 12 section 1701z–8.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

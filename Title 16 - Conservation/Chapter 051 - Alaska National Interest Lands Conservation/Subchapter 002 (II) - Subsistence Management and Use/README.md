@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 410hh, 410hh–1, 3202 of this title.
-
 
 ---
 

@@ -18,7 +18,7 @@ The court in an action under subsection (a) of this section shall have jurisdict
 
 #### (d) Time for bringing of actions
 
-No action may be brought by the Commission under this section more than 3 years after the rule violation to which an action under subsection (a)(1) of this section relates, or the unfair or deceptive act or practice to which an action under subsection (a)(2) of this section relates; except that if a cease and desist order with respect to any person's, partnership's, or corporation's rule violation or unfair or deceptive act or practice has become final and such order was issued in a proceeding under section 45(b) of this title which was commenced not later than 3 years after the rule violation or act or practice occurred, a civil action may be commenced under this section against such person, partnership, or corporation at any time before the expiration of one year after such order becomes final.
+No action may be brought by the Commission under this section more than 3 years after the rule violation to which an action under subsection (a)(1) of this section relates, or the unfair or deceptive act or practice to which an action under subsection (a)(2) of this section relates; except that if a cease and desist orderwith respect to any person's, partnership's, or corporation's rule violation or unfair or deceptive act or practice has become final and such order was issued in a proceeding under section 45(b) of this title which was commenced not later than 3 years after the rule violation or act or practice occurred, a civil action may be commenced under this section against such person, partnership, or corporation at any time before the expiration of one year after such order becomes final.
 
 #### (e) Availability of additional Federal or State remedies; other authority of Commission unaffected
 
@@ -33,8 +33,4 @@ Section 206(b) of Pub. L. 93–637 provided that: “The amendment made by subse
 &emsp;“(1) any violation of a rule to the extent that such violation occurred before the date of enactment of this Act \[Jan. 4, 1975\], or
 
 &emsp;“(2) any act or practice with respect to which the Commission issues a cease-and-desist order, to the extent that such act or practice occurred before the date of enactment of this Act \[Jan. 4, 1975\], unless such order was issued after such date and the person, partnership or corporation against whom such an order was issued had been notified in the complaint, or in the notice or order attached thereto, that consumer redress may be sought.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 45, 56 of this title; title 21 section 378.
 

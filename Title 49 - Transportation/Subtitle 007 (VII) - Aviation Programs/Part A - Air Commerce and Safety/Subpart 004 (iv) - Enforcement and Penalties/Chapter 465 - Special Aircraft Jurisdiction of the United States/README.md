@@ -24,10 +24,6 @@
 
 1994—Pub. L. 103–322, title VI, §60003(b)(1), Sept. 13, 1994, 108 Stat. 1970, substituted “Repealed” for “Death penalty sentencing procedure for aircraft piracy” in item 46503.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 106, 44936 of this title; title 28 section 538.
-
 <i><sup>1</sup></i><i> So in original. This item probably should not appear.</i>
 
 

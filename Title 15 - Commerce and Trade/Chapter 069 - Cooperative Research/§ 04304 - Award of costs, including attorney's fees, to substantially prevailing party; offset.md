@@ -1,6 +1,6 @@
 ### §4304. Award of costs, including attorney's fees, to substantially prevailing party; offset
 
-(a) Notwithstanding sections 15 and 26 of this title, in any claim under the antitrust laws, or any State law similar to the antitrust laws, based on the conducting of a joint venture, the court shall, at the conclusion of the action—
+(a) Notwithstanding sections 15 and 26 of this title, in any claim under the antitrust laws, or any State law similar to the antitrust laws, based on the conducting of a joint venture, or of a standards development activity engaged in by a standards development organization, the court shall, at the conclusion of the action—
 
 &emsp;(1) award to a substantially prevailing claimant the cost of suit attributable to such claim, including a reasonable attorney's fee, or
 
@@ -8,13 +8,21 @@
 
 (b) The award made under subsection (a) of this section may be offset in whole or in part by an award in favor of any other party for any part of the cost of suit, including a reasonable attorney's fee, attributable to conduct during the litigation by any prevailing party that the court finds to be frivolous, unreasonable, without foundation, or in bad faith.
 
-(Pub. L. 98–462, §5, Oct. 11, 1984, 98 Stat. 1817; Pub. L. 103–42, §3(e)(2), June 10, 1993, 107 Stat. 119.)
+(c) Subsections (a) and (b) of this section shall not apply with respect to any person who—
+
+&emsp;(1) directly participates in a standards development activity with respect to which a violation of any of the antitrust laws is found,
+
+&emsp;(2) is not a fulltime employee of a standards development organization that engaged in such activity, and
+
+&emsp;(3) is, or is an employee or agent of a person who is, engaged in a line of commerce that is likely to benefit directly from the operation of the standards development activity with respect to which such violation is found.
+
+(Pub. L. 98–462, §5, Oct. 11, 1984, 98 Stat. 1817; Pub. L. 103–42, §3(e)(2), June 10, 1993, 107 Stat. 119; Pub. L. 108–237, title I, §106, June 22, 2004, 118 Stat. 664.)
 
 #### Amendments
 
+2004—Subsec. (a). Pub. L. 108–237, §106(1), inserted “, or of a standards development activity engaged in by a standards development organization” after “joint venture” in introductory provisions.
+
+Subsec. (c). Pub. L. 108–237, §106(2), added subsec. (c).
+
 1993—Subsec. (a). Pub. L. 103–42 substituted “joint venture” for “joint research and development venture” in introductory provisions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4303 of this title.
 

@@ -14,7 +14,7 @@ The United States Commissioner, under regulations approved by the Secretary of S
 
 &emsp;(2) For loss in business:
 
-&emsp;&emsp;(a) Loss of profits directly resulting from relocation, limited to the period between termination of business in the old location and commencement of business in the new, such period not to exceed thirty days.
+&emsp;&emsp;(a) Loss of profits directly resulting from relocation, limited to the period betweentermination of business in the old location and commencement of business in the new, such period not to exceed thirty days.
 
 &emsp;&emsp;(b) Loss to owner resulting from inability to rent to others housing or commercial space that can be reasonably related to uncertainties arising out of the pending acquisition of the owner's property by the United States, such losses limited to those incurred after July 18, 1963, and prior to the making by the United States of a firm offer to purchase.
 
@@ -29,8 +29,4 @@ The civil service laws, referred to in par. b., are set forth in Title 5, Govern
 #### Codification
 
 In par. b., “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 277d–17, 277d–18, 277d–20, 277d–21, 277d–22, 277d–23, 277d–24, 277d–25 of this title.
 

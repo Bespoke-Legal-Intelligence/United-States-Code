@@ -14,7 +14,7 @@ If any such court and the Judicial Conference are of the opinion that it is in t
 
 The reporter or other individual designated to produce the record shall attach his official certificate to the original shorthand notes or other original records so taken and promptly file them with the clerk who shall preserve them in the public records of the court for not less than ten years.
 
-The reporter or other individual designated to produce the record shall transcribe and certify such parts of the record of proceedings as may be required by any rule or order of court, including all arraignments, pleas, and proceedings inconnection with the imposition of sentence in criminal cases unless they have been recorded by electronic sound recording as provided in this subsection and the original records so taken have been certified by him and filed with the clerk as provided in this subsection. He shall also transcribe and certify such other parts of the record of proceedings as may be required by rule or order of court. Upon the request of any party to any proceeding which has been so recorded who has agreed to pay the fee therefor, or of a judge of the court, the reporter or other individual designated to produce the record shall promptly transcribe the original records of the requested parts of the proceedings and attach to the transcript his official certificate, and deliver the same to the party or judge making the request.
+The reporter or other individual designated to produce the record shall transcribe and certify such parts of the record of proceedings as may be required by any rule or order of court, including all arraignments, pleas, and proceedings in connection with the imposition of sentence in criminal cases unless they have been recorded by electronic sound recording as provided in this subsection and the original records so taken have been certified by him and filed with the clerk as provided in this subsection. He shall also transcribe and certify such other parts of the record of proceedings as may be required by rule or order of court. Upon the request of any party to any proceeding which has been so recorded who has agreed to pay the fee therefor, or of a judge of the court, the reporter or other individual designated to produce the record shall promptly transcribe the original records of the requested parts of the proceedings and attach to the transcript his official certificate, and deliver the same to the party or judge making the request.
 
 The reporter or other designated individual shall promptly deliver to the clerk for the records of the court a certified copy of any transcript so made.
 
@@ -46,7 +46,7 @@ The original notes or other original records and the copy of the transcript in t
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §9a(a), (b), (c), (d), and section 644 of title 48, U.S.C., 1940 ed., Territoriesand Insular Possessions (Apr. 30, 1900, ch. 339, §86, 31 Stat. 158; Mar. 3, 1909, ch. 269, §1, 35 Stat. 838; Mar. 3, 1911, ch. 231, §5a, as added Jan. 20, 1944, ch. 3, §1(a), (b), (c), (d), 58 Stat. 5, 6, 7; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412; July 9, 1921, ch. 42, §313, 42 Stat. 119; June 1, 1922, ch. 204, title II, 42 Stat. 614, 616; Jan. 3, 1923, ch. 21, title II, 52 Stat. 1084; Feb. 12, 1925, ch. 220, 43 Stat. 890).
+Based on title 28, U.S.C., 1940 ed., §9a(a), (b), (c), (d), and section 644 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions (Apr. 30, 1900, ch. 339, §86, 31 Stat. 158; Mar. 3, 1909, ch. 269, §1, 35 Stat. 838; Mar. 3, 1911, ch. 231, §5a, as added Jan. 20, 1944, ch. 3, §1(a), (b), (c), (d), 58 Stat. 5, 6, 7; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412; July 9, 1921, ch. 42, §313, 42 Stat. 119; June 1, 1922, ch. 204, title II, 42 Stat. 614, 616; Jan. 3, 1923, ch. 21, title II, 52 Stat. 1084; Feb. 12, 1925, ch. 220, 43 Stat. 890).
 
 Section consolidates section 9a(a), (b), (c), (d) of title 28, U.S.C., 1940 ed., and part of section 644 of title 48, U.S.C., 1940 ed., relating to reporters.
 
@@ -121,10 +121,6 @@ For termination of the United States District Court for the District of the Cana
 1964—Pub. L. 88–426, title IV, §402(c), Aug. 14, 1964, 78 Stat. 434, inserted a new salary limitation for court reporters which reflected the applicable pay increases provided by title I of Pub. L. 88–426 in corresponding rates of compensation for particular government officers and employees.
 
 1962—Pub. L. 87–793, title VI, §1004(c), Oct. 11, 1962, 76 Stat. 866, inserted a new salary limitation for court reporters effective for the pay period beginning on or after Oct. 11, 1962, and ending immediately prior to the first pay period beginning on or after Jan. 1, 1964, and provided for a second salary limitation effective for the first pay period beginning on or after Jan. 1, 1964, which reflected applicable pay increases provided by title II of Pub. L. 87–793 in corresponding rates of compensation for particular government officers and employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 775 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or as”.</i>
 

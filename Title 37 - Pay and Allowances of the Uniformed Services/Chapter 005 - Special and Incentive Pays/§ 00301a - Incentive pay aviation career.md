@@ -45,7 +45,7 @@
 
 (3) For a warrant officer with over 22, 23, 24, or 25 years of aviation service who is qualified under subsection (a), the rate prescribed in the table in paragraph (1) for officers with over 14 years of aviation service shall continue to apply to the warrant officer.
 
-(4) An officer serving as an air battle manager who is entitled to aviation career incentive pay under this section and who, before becoming entitled to aviation career incentive pay, was entitled to incentive pay under section 301(a)(11) of this title, shall be paid the monthly incentive pay at the higher of the following rates:
+(4) An officer serving as an air battle manager who is entitled to aviation career incentive pay under this section and who, before becoming entitled to aviation career incentive pay, was entitled to incentive pay under section 301(a)(13) of this title, shall be paid the monthly incentive pay at the higher of the following rates:
 
 &emsp;(A) The rate otherwise applicable to the member under this subsection.
 
@@ -65,9 +65,11 @@
 
 &emsp;(3) the reasons for the exercise of the authority under the second sentence of subsection (a)(5) in the case of each officer specified pursuant to paragraph (2).
 
-(Added Pub. L. 93–294, §2(3), May 31, 1974, 88 Stat. 177; amended Pub. L. 94–273, §3(21), Apr. 21, 1976, 90 Stat. 377; Pub. L. 96–343, §2(b), Sept. 8, 1980, 94 Stat. 1124; Pub. L. 96–513, title V, §516(6), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 97–60, title I, §112(a), (b), Oct. 14, 1981, 95 Stat. 994; Pub. L. 99–661, div. A, title VI, §632(a), Nov. 14, 1986, 100 Stat. 3883; Pub. L. 100–26, §8(e)(3), Apr. 21, 1987, 101 Stat. 286; Pub. L. 101–189, div. A, title VI, §631(a)–(d), Nov. 29, 1989, 103 Stat. 1449, 1450; Pub. L. 101–510, div. A, title XIII, §1322(c)(1), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (2), (c),Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–35, title II, §204(c), May 31, 1993, 107 Stat. 102; Pub. L. 104–106, div. A, title VI, §616, Feb. 10, 1996, 110 Stat. 362; Pub. L. 105–85, div. A, title VI, §615(a), (b), Nov. 18, 1997, 111 Stat. 1787; Pub. L. 105–261, div. A, title VI, §615(a)(1), (b), (c)(1), (d), Oct. 17, 1998, 112 Stat. 2040, 2041; Pub. L. 106–65, div. A, title VI, §614(a), Oct. 5, 1999, 113 Stat. 651; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 93–294, §2(3), May 31, 1974, 88 Stat. 177; amended Pub. L. 94–273, §3(21), Apr. 21, 1976, 90 Stat. 377; Pub. L. 96–343, §2(b), Sept. 8, 1980, 94 Stat. 1124; Pub. L. 96–513, title V, §516(6), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 97–60, title I, §112(a), (b), Oct. 14, 1981, 95 Stat. 994; Pub. L. 99–661, div. A, title VI, §632(a), Nov. 14, 1986, 100 Stat. 3883; Pub. L. 100–26, §8(e)(3), Apr. 21, 1987, 101 Stat. 286; Pub. L. 101–189, div. A, title VI, §631(a)–(d), Nov. 29, 1989, 103 Stat. 1449, 1450; Pub. L. 101–510, div. A, title XIII, §1322(c)(1), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–35, title II,§204(c), May 31, 1993, 107 Stat. 102; Pub. L. 104–106, div. A, title VI, §616, Feb. 10, 1996, 110 Stat. 362; Pub. L. 105–85, div. A, title VI, §615(a), (b), Nov. 18, 1997, 111 Stat. 1787; Pub. L. 105–261, div. A, title VI, §615(a)(1), (b), (c)(1), (d), Oct. 17, 1998, 112 Stat. 2040, 2041; Pub. L. 106–65, div. A, title VI, §614(a), Oct. 5, 1999, 113 Stat. 651; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title X, §1084(e)(1), Oct. 28, 2004, 118 Stat. 2063.)
 
 #### Amendments
+
+2004—Subsec. (b)(4). Pub. L. 108–375 substituted “section 301(a)(13)” for “section 301(a)(11)”.
 
 2002—Subsec. (a)(3). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -150,7 +152,7 @@ Subsec. (b)(2). Pub. L. 96–343, §2(b)(3), substituted “$125”, “$138”,
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L.107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1999 Amendment
 
@@ -247,8 +249,4 @@ Section 5 of Pub. L. 93–294 provided that: “A yearly report containing such 
 #### Executive Order No. 11800
 
 Ex. Ord. No. 11800, Aug. 17, 1974, 39 F.R. 30103, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, §58, Feb. 28, 2003, 68 F.R. 10629, which delegated authority vested in President by this section to Secretaries of Defense, Commerce, Health and Human Services, and Homeland Security with respect to Coast Guard when not operating as part of Navy, was revoked by Ex. Ord. No. 13294, §2, Mar. 28, 2003, 68 F.R. 15919, set out as a note under section 301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 301, 301b, 312c of this title.
 

@@ -20,7 +20,7 @@ Under subsection (a) of this section, the Secretary may—
 
 &emsp;(2) recruit members of the Regular Coast Guard and the Coast Guard Reserve and train members of the Regular Coast Guard and the Coast Guard Reserve in the techniques of preventing and responding to acts of terrorism; and
 
-&emsp;(3) dispatch properly trained and qualified armed Coast Guard personnel on vessels andpublic or commercial structures on or adjacent to waters subject to United States jurisdiction to deter or respond to acts of terrorism or transportation security incidents, as defined in section 70101 of title 46.
+&emsp;(3) dispatch properly trained and qualified armed Coast Guard personnel on vessels and public or commercial structures on or adjacent to waters subject to United States jurisdiction to deter or respond to acts of terrorism or transportation security incidents, as defined in section 70101 of title 46.
 
 #### (c) Nondisclosure of port security plans
 

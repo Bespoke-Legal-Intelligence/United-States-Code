@@ -4,7 +4,3 @@ Until local tax laws conforming to the requirements of sections 1401 to 1401e of
 
 (May 26, 1936, ch. 450, §3, 49 Stat. 1372.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1401e of this title.
-

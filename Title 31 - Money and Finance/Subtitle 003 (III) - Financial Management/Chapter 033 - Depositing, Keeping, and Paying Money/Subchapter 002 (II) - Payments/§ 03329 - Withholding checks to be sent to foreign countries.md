@@ -1,6 +1,6 @@
 ### §3329. Withholding checks to be sent to foreign countries
 
-(a) The Secretary of the Treasury shall prohibit a check or warrant drawn on public money from being sent to a foreign country from the United States or from a territory or possession of the United States when the Secretary decides that postal, transportation, or banking facilities generally, or local conditions in the foreign country, do not reasonably ensure that the payee—
+(a) The Secretary of the Treasury shall prohibit a check or warrant drawn on public money from being sent to a foreign country from the United States or from a territory or possession of the United States when the Secretary decides that postal, transportation, or banking facilitiesgenerally, or local conditions in the foreign country, do not reasonably ensure that the payee—
 
 &emsp;(1) will receive the check or warrant; and
 
@@ -101,8 +101,4 @@ In subsection (d)(3), the words “does not affect” are substituted for “Not
 1996—Subsec. (b)(4). Pub. L. 104–316 substituted “The Secretary shall credit the accounts of the drawer and drawee.” for “After that time, the drawee shall send all withheld checks and warrants to the Comptroller General. The Comptroller General shall credit the accounts of the drawer and drawee.”
 
 1991—Subsec. (c)(1). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” and “laws administered by the Secretary of Veterans Affairs” for “laws carried out by the Administrator”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3328, 3330 of this title; title 38 sections 5121, 5309; title 42 sections 402, 1004.
 

@@ -12,7 +12,7 @@ In this chapter:
 
 #### (3) Early learning
 
-&emsp;The term “early learning”, used with respect to a program or activity, means learningdesigned to facilitate the development of cognitive, language, motor, and social-emotional skills for, and to promote learning readiness in, young children.
+&emsp;The term “early learning”, used with respect to a program or activity, means learning designed to facilitate the development of cognitive, language, motor, and social-emotional skills for, and to promote learning readiness in, young children.
 
 #### (4) Early learning program
 

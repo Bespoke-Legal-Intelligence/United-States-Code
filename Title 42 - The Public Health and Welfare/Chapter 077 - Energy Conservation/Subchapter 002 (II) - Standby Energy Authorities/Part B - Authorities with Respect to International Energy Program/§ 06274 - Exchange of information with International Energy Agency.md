@@ -8,7 +8,7 @@
 
 (B)(i) Notwithstanding subparagraph (A) of this paragraph, during an international energy supply emergency, any such information or data with respect to the international allocation of petroleum products may be made available to the International Energy Agency is otherwise authorized to be made available to such Agency by paragraph (1) of this subsection.
 
-(ii) Subparagraph (A) shall not apply to information described in subparagraph (A) (other than geological or geophysical information) if the President certifies, after opportunity for presentation of views by interested persons, that the International Energy Agency has adopted and is implementing security measures which assure that such information will not be disclosed by such Agency or its employees to anyperson or foreign country without having been aggregated, accumulated, or otherwise reported in such manner as to avoid identification of any person from whom the United States obtained such information or data.
+(ii) Subparagraph (A) shall not apply to information described in subparagraph (A) (other than geological or geophysical information) if the President certifies, after opportunity for presentation of views by interested persons, that the International Energy Agency has adopted and is implementing security measures which assure that such information will not be disclosed by such Agency or its employees to any person or foreign country without having been aggregated, accumulated, or otherwise reported in such manner as to avoid identification of any person from whom the United States obtained such information or data.
 
 (3)(A) Within 90 days after December 22, 1975, and periodically thereafter, the President shall review the operation of this section and shall determine whether other signatory nations to the international energy program are transmitting information and data to the International Energy Agency in substantial compliance with such program. If the President determines that other nations are not so complying, paragraph (2)(B)(ii) shall not apply until he determines other nations are so complying.
 
@@ -59,8 +59,4 @@ The provisions of such Acts relating to their expiration, referred to in subsec.
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–72 effective upon the expiration of the Export Administration Act of 1969, which terminated on Sept. 30, 1979, or upon any prior date which the Congress by concurrent resolution or the President by proclamation designated, see section 2418 of Appendix to Title 50, War and National Defense.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6272, 6395 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Eligibility; percentage of benefits
 
-Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b) of this section, to benefits—
+Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent suchformer spouse is disqualified under subsection (b) of this section, to benefits—
 
 &emsp;(1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the benefits of the participant; or
 
@@ -77,8 +77,4 @@ Another section 830 of the Foreign Service Act of 1980 was enacted by Pub. L. 10
 #### Transfer of Functions
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6551 of this title.
 

@@ -8,7 +8,7 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;(2) binding commitments have been made to ensure that—
 
-&emsp;&emsp;(A) the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for theremaining useful life of such housing (as determined under subsection (c) of this section);
+&emsp;&emsp;(A) the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for the remaining useful life of such housing (as determined under subsection (c) of this section);
 
 &emsp;&emsp;(B) throughout such period, adequate expenditures will be made for maintenance and operation of the housing and that the project meets housing standards established by the Secretary under subsection (d) of this section, as determined by inspections conducted under such subsection by the Secretary;
 
@@ -88,7 +88,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 &emsp;&emsp;&emsp;(ii) In the case of housing for which an equity take-out loan has been made under section 1715z–6(f) <sup>4</sup> of this title, declare such loan to be in default and accelerate the maturity date of the loan.
 
-&emsp;&emsp;&emsp;(iii) Declare any rehabilitation loan insured or provided by the Secretary (with respect to the housing) to be in default and accelerate the maturity date of the loan.
+&emsp;&emsp;&emsp;(iii) Declare any rehabilitation loan insured or provided by the Secretary (withrespect to the housing) to be in default and accelerate the maturity date of the loan.
 
 &emsp;&emsp;&emsp;(iv) Suspend payments under or terminate any contract for project-based rental assistance under section 1437f of title 42.
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 103–327 is based on section 601(a)–(d) of title VI of S
 
 &emsp;“(i) 30 percent of the adjusted income of the tenant; or
 
-&emsp;“(ii) 90 percent of the actual rent paid for a comparable unit in comparable unassisted housing in themarket area in which the eligible low-income housing is located;
+&emsp;“(ii) 90 percent of the actual rent paid for a comparable unit in comparable unassisted housing in the market area in which the eligible low-income housing is located;
 
 > except that the rent contributions of tenants (other than tenants receiving assistance under section 1437f of title 42) occupying the housing at the time of any increase may not be reduced under this subparagraph.” See Effective and Termination Dates of 1994 Amendment note below.
 
@@ -144,7 +144,7 @@ Subsec. (d)(2)(C)(ii). Pub. L. 102–550, §317(a)(4)(D), substituted “in defa
 
 Subsec. (e). Pub. L. 102–550, §308(a), struck out subsec. (e) which read as follows: “(e)
 
-Windfall Profits.—The Secretary shall submit a report to the Congress not later than 90 days after November 28, 1990, evaluating the availability, quality, and reliability of data to measure the accessibility of decent, affordable housing in all areas where properties are eligible to submit a notice of intent to prepay under section 4102 of this title. To prevent payment of windfall profits, the Secretary may make available incentive payments under section 4109 or 4110 of this title only to owners in those rental markets where there is an inadequate supply of decent, affordable housing, if the Secretary determines that adequate data can be obtained to permit objective and fair implementation or where necessary to accomplish the other public policy objectives under this chapter. The Secretary shall implement this subsection in a manner consistent with the process established by this chapter.”
+Windfall Profits.—The Secretary shall submit a report to the Congress not later than 90 days after November 28, 1990, evaluating the availability, quality, and reliability of data to measure the accessibility of decent, affordable housing in all areas where properties are eligible to submit a notice of intent to prepay under section 4102 of this title. To prevent payment of windfall profits, the Secretary may make available incentive payments under section 4109 or 4110 of this title only to owners in those rental markets where there is an inadequate supply of decent, affordable housing, if the Secretary determines that adequate data can be obtained to permit objective and fair implementation or where necessary to accomplish the other public policy objectives under this chapter. The Secretary shall implement this subsection in amanner consistent with the process established by this chapter.”
 
 #### Effective and Termination Dates of 1994 Amendment
 
@@ -159,10 +159,6 @@ In general.—Except as provided in paragraph (2), this section \[amending this 
 “(2)
 
 Exception.—If an owner of eligible low-income housing has a plan of action that has been approved by the Secretary and that is being implemented as of the date of enactment of this Act \[Sept. 28, 1994\], subsections (a), (b), (c), and (d) \[amending this section\] shall not apply to current tenants of such housing until the first date on which the next annual rent adjustments are made following the date of enactment of this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4109, 4110, 4114, 4116, 4121, 4125 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

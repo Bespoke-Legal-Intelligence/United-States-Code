@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—PUBLIC SERVICES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 300d–52, 1437c–1, 9918, 12201, 12203, 12204, 12206 of this title; title 2 section 1331; title 29 section 792.
-
 
 ---
 

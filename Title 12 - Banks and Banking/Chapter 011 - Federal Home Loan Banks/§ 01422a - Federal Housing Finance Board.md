@@ -94,7 +94,7 @@
 
 &emsp;In the event of a vacancy in the office of Secretary or during the absence or disability of the Secretary, the Acting Secretary shall act as a director in place of the Secretary.
 
-(July 22, 1932, ch. 522, §2A, as added Pub. L. 101–73, title VII, §702(a), Aug. 9, 1989, 103 Stat. 413; amended Pub. L. 102–550, title XIII, §1391, title XVI, §1608, Oct. 28, 1992, 106 Stat. 4009, 4089.)
+(July 22, 1932, ch. 522, §2A, as added Pub. L. 101–73, title VII, §702(a), Aug. 9, 1989, 103 Stat.413; amended Pub. L. 102–550, title XIII, §1391, title XVI, §1608, Oct. 28, 1992, 106 Stat. 4009, 4089.)
 
 #### Amendments
 
@@ -113,8 +113,4 @@ Subsec. (b)(2)(D). Pub. L. 102–550, §1608, added subpar. (D).
 #### Effective Date of 1992 Amendment
 
 Amendment by section 1608 of Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1422, 1427 of this title.
 

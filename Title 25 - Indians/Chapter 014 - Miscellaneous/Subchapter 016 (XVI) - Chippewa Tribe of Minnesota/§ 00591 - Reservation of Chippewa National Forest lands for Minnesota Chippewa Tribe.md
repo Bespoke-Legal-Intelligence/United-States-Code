@@ -4,7 +4,3 @@ Subject to the payments prescribed by section 592 of this title the following-de
 
 (June 8, 1940, ch. 285, §1, 54 Stat. 254.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 592 of this title.
-

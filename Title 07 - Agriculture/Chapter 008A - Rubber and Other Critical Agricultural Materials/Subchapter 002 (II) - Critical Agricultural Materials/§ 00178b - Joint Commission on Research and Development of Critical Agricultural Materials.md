@@ -14,7 +14,7 @@ The Joint Commission shall be headed by a Chairman who shall be selected by the 
 
 #### (d) Delegation of responsibilities to Joint Commission; transfer and use of appropriated funds
 
-The Secretaries may delegate to the Joint Commission one or more of their responsibilitiesunder this subchapter, and transfer to the Joint Commission funds appropriated to carry out the purposes of this subchapter as they deem appropriate to achieve the purposes of this subchapter, and the Joint Commission is authorized to carry out such functions and expend such funds to achieve the purposes of the subchapter.
+The Secretaries may delegate to the Joint Commission one or more of their responsibilities under this subchapter, and transfer to the Joint Commission funds appropriated to carry out the purposes of this subchapter as they deem appropriate to achieve the purposes of this subchapter, and the Joint Commission is authorized to carry out such functions and expend such funds to achieve the purposes of the subchapter.
 
 #### (e) Duties
 

@@ -20,5 +20,5 @@ A prior section 6, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 92–132, 
 
 #### Effective Date
 
-Section effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of this title.
+Section effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set outas an Effective Date of 1999 Amendment note under section 1 of this title.
 

@@ -18,9 +18,11 @@ There are the following officers, appointed by the President, by and with the ad
 
 &emsp;(7) An Under Secretary for Management.
 
-&emsp;(8) Not more than 12 Assistant Secretaries.
+&emsp;(8) A Director of the Office of Counternarcotics Enforcement.
 
-&emsp;(9) A General Counsel, who shall be the chief legal officer of the Department.
+&emsp;(9) Not more than 12 Assistant Secretaries.
+
+&emsp;(10) A General Counsel, who shall be the chief legal officer of the Department.
 
 #### (b) Inspector General
 
@@ -40,25 +42,29 @@ To assist the Secretary in the performance of the Secretary's functions, there a
 
 &emsp;(3) A Chief Human Capital Officer.
 
-&emsp;(4) A Chief Financial Officer.
+&emsp;(4) An Officer for Civil Rights and Civil Liberties.
 
-&emsp;(5) An Officer for Civil Rights and Civil Liberties.
+#### (e) Chief Financial Officer
 
-#### (e) Performance of specific functions
+There shall be in the Department a Chief Financial Officer, as provided in chapter 9 of title 31.
+
+#### (f) Performance of specific functions
 
 Subject to the provisions of this chapter, every officer of the Department shall perform the functions specified by law for the official's office or prescribed by the Secretary.
 
-(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20, 2003, 117 Stat. 529.)
+(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20, 2003, 117 Stat. 529; Pub. L. 108–330, §3(d)(1)(A), Oct. 16, 2004, 118 Stat. 1276; Pub. L. 108–458, title VII, §7407(b), Dec. 17, 2004, 118 Stat. 3853.)
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
+2004—Subsec. (a)(8) to (10). Pub. L. 108–458 added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
+
+Subsec. (d)(4), (5). Pub. L. 108–330, §3(d)(1)(A)(i), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “A Chief Financial Officer.”
+
+Subsecs. (e), (f). Pub. L. 108–330, §3(d)(1)(A)(ii), (iii), added subsec. (e) and redesignated former subsec. (e) as (f).
+
 2003—Subsec. (b). Pub. L. 108–7 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There is an Inspector General, who shall be appointed as provided in section 3(a) of the Inspector General Act of 1978.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 555 of this title.
 

@@ -4,7 +4,3 @@ If the Secretary finds that as of the close of the 18th month after secretarial 
 
 (Pub. L. 96–561, title I, §113, Dec. 22, 1980, 94 Stat. 3279.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3342 of this title.
-

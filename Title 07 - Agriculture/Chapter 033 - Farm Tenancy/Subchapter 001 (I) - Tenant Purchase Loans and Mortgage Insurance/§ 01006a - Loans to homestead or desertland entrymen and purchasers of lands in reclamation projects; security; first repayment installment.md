@@ -20,7 +20,3 @@ Section was not enacted as part of the Bankhead-Jones Farm Tenant Act, which con
 
 1972—Pub. L. 92–419 authorized loans to desertland entrymen and provided for first repayment installment of a loan to an entryman under the desertland laws.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1006b, 1988 of this title; title 43 section 451f.
-

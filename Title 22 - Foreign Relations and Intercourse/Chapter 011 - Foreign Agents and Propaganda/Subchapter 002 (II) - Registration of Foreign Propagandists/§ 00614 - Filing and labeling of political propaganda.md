@@ -6,7 +6,7 @@ Every person within the United States who is an agent of a foreign principal and
 
 #### (b) Identification statement
 
-It shall be unlawful for any person within the United States who is an agent of a foreign principal and required to register under the provisions of this subchapter to transmit or cause to be transmitted in the United States mails or by any means or instrumentality of interstate or foreign commerce any informational materialsfor or in the interests of such foreign principal without placing in such informational materials a conspicuous statement that the materials are distributed by the agent on behalf of the foreign principal, and that additional information is on file with the Department of Justice, Washington, District of Columbia. The Attorney General may by rule define what constitutes a conspicuous statement for the purposes of this subsection.
+It shall be unlawful for any person within the United States who is an agent of a foreign principal and required to register under the provisions of this subchapter to transmit or cause to be transmitted in the United States mails or by any means or instrumentality of interstate or foreign commerce any informational materials for or in the interests of such foreign principal without placing in such informational materials a conspicuous statement that the materials are distributed by the agent on behalf of the foreign principal, and that additional information is on file with the Department of Justice, Washington, District of Columbia. The Attorney General may by rule define what constitutes a conspicuous statement for the purposes of this subsection.
 
 #### (c) Public inspection
 
@@ -42,7 +42,7 @@ Prior to general amendment of act June 8, 1938, by act Apr. 29, 1942, section re
 
 Pub. L. 104–65, §9(4)(A), substituted “informational materials” for “political propaganda”.
 
-Subsec. (b). Pub. L. 104–65, §9(5), substituted “informational materials for or” for “political propaganda for or” and substituted “without placing in such informational materials a conspicuous statement that the materials are distributed by the agent on behalf of the foreign principal, and that additional information is on file with the Department of Justice, Washington, District of Columbia. The Attorney General may by rule define what constitutes a conspicuous statement for the purposes of this subsection.” for cls. (i) and (ii) and concluding provisions which made it unlawful for an agent of a foreign principal to transmit in the United States political propaganda unless the propaganda identified the agent and contained information about the registration of the agent and authorized the Attorney General to prescribe regulations relating to the information to be provided.
+Subsec. (b). Pub. L. 104–65, §9(5), substituted “informational materials for or” for “political propagandafor or” and substituted “without placing in such informational materials a conspicuous statement that the materials are distributed by the agent on behalf of the foreign principal, and that additional information is on file with the Department of Justice, Washington, District of Columbia. The Attorney General may by rule define what constitutes a conspicuous statement for the purposes of this subsection.” for cls. (i) and (ii) and concluding provisions which made it unlawful for an agent of a foreign principal to transmit in the United States political propaganda unless the propaganda identified the agent and contained information about the registration of the agent and authorized the Attorney General to prescribe regulations relating to the information to be provided.
 
 Subsec. (c). Pub. L. 104–65, §9(6), substituted “informational materials” for “political propaganda”.
 
@@ -73,8 +73,4 @@ Amendment by act Apr. 29, 1942, effective on the sixtieth day after Apr. 29, 194
 #### Transfer of Functions
 
 In subsec. (d), “United States Postal Service” substituted for “Postmaster General” in two places pursuant to Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 617, 618 of this title.
 

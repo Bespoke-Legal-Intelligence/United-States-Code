@@ -78,7 +78,7 @@ In the event the Secretary and a participating Indian tribe are unable to agree,
 
 #### (d) Burden of proof
 
-With respect to any hearing or appeal or civil action conducted pursuant to this section, the Secretary shall have the burden of demonstrating by clear and convincing evidence the validity of the grounds for rejecting the offer (or a provision thereof) made under subsection (b) of this section.
+With respect to any hearing or appeal or civil action conducted pursuant to this section, theSecretary shall have the burden of demonstrating by clear and convincing evidence the validity of the grounds for rejecting the offer (or a provision thereof) made under subsection (b) of this section.
 
 #### (e) Good faith
 

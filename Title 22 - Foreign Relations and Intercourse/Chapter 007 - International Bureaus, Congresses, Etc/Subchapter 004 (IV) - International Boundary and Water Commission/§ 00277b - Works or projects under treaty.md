@@ -32,7 +32,3 @@ International Obligations” contained in the Act of April 25, 1945 (59 Stat. 89
 
 1990—Pub. L. 101–246 designated existing provisions as subsec. (a), redesignated cls. (a) and (b) as (1) and (2), respectively, added cl. (3), and added subsecs. (b) and (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 277c, 277d of this title.
-

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) operate other tribally controlled schools eligible for assistance under this chapter and submit applications (which are approved by their tribal governing bodies) to the Secretary for such grants; or
 
-&emsp;&emsp;(C) elect to assume operation of Bureau-funded schools with the assistance under this chapter and submit applications (which are approved by their tribal governing bodies) to the Secretary for such grants.
+&emsp;&emsp;(C) elect to assume operation of Bureau-funded schools with the assistance underthis chapter and submit applications (which are approved by their tribal governing bodies) to the Secretary for such grants.
 
 #### (2) Deposit of funds
 
@@ -88,7 +88,7 @@ Grants provided under this chapter shall not terminate, modify, suspend, or redu
 
 &emsp;&emsp;(A) with assistance under this chapter; or
 
-&emsp;&emsp;(B) upon assumption of operation of the program under this chapter, if the school was a Bureau-funded school under title XI of the Education Amendments of 1978 \[25 U.S.C. 2000 et seq.\] before receiving assistance under this chapter.
+&emsp;&emsp;(B) upon assumption of operation of the program under this chapter, if the schoolwas a Bureau-funded school under title XI of the Education Amendments of 1978 \[25 U.S.C. 2000 et seq.\] before receiving assistance under this chapter.
 
 #### (g) Prohibition of termination for administrative convenience
 

@@ -6,17 +6,13 @@ Notwithstanding the provisions of section 92a of this title, in case of the deat
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–554 struck out sentence which related to retirement service credit.
+1966—Pub. L. 89–554 struck out sentence which related to retirement service credit.
 
-<b>1952</b>—Joint Res. July 15, 1952, provided retirement credit to employees for time they were separated from employment following death or resignation of a Member and before election of his successor.
+1952—Joint Res. July 15, 1952, provided retirement credit to employees for time they were separated from employment following death or resignation of a Member and before election of his successor.
 
-<b>1950</b>—Joint Res. Apr. 24, 1950, struck out second sentence which limited continuance of clerical assistants of deceased or resigned House Members on pay roll to six months.
+1950—Joint Res. Apr. 24, 1950, struck out second sentence which limited continuance of clerical assistantsof deceased or resigned House Members on pay roll to six months.
 
 #### Effective Date
 
 Section 4 of act Aug. 21, 1935, provided that: “This joint resolution \[enacting sections 92b to 92d of this title\] shall be effective as of the beginning of the Seventy-fourth Congress, January 3, 1935.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 92b–1, 92c, 92d of this title.
 

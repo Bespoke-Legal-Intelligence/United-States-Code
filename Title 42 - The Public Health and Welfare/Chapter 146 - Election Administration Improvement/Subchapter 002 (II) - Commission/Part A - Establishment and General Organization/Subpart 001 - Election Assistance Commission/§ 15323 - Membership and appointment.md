@@ -68,7 +68,3 @@
 
 (Pub. L. 107–252, title II, §203, Oct. 29, 2002, 116 Stat. 1674.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15534 of this title.
-

@@ -1,5 +1,5 @@
 
-49 U.S.C.<br>United States Code, 2003 Edition<br>Title 49 - TRANSPORTATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+49 U.S.C.<br>United States Code, 2004 Edition<br>Title 49 - TRANSPORTATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 49—TRANSPORTATION
 
@@ -7647,10 +7647,6 @@ Section 4(c) of Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1470, which provided t
 #### Effective Date of Certain Repeals
 
 Section 4(d) of Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1470, as amended by Pub. L. 97–449, §4(b)(3), Jan. 12, 1983, 96 Stat. 2441, provided that: “The repeals, by subsection (b) of this section, of section 1(a)(25), (26) of the Act of July 3, 1952, chapter 570, the Act of June 30, 1953, chapter 165, and the Act of July 31, 1953, chapter 292, are effective on September 14, 1978.”
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 26 section 9502; title 31 section 3726; title 42 section 9607.
 
 
 ---

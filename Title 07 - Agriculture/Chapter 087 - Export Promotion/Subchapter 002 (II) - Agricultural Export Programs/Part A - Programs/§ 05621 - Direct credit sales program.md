@@ -6,7 +6,7 @@ To promote the sale of agricultural commodities, the Commodity Credit Corporatio
 
 #### (b) Intermediate-term program
 
-Subject to subsection (c) of this section, to promote the sale of agricultural commoditiesthe Commodity Credit Corporation may finance the commercial export sales of agricultural commodities from privately owned stocks on credit terms for a period of not less than 3 years nor in excess of 10 years in a manner that will directly benefit United States agricultural producers.
+Subject to subsection (c) of this section, to promote the sale of agricultural commodities the Commodity Credit Corporation may finance the commercial export sales of agricultural commodities from privately owned stocks on credit terms for a period of not less than 3 years nor in excess of 10 years in a manner that will directly benefit United States agricultural producers.
 
 #### (c) Determinations
 
@@ -77,8 +77,4 @@ Subsec. (f). Pub. L. 102–511, §707(c), added subsec. (f).
 #### Regulations
 
 Section 707(d) of Pub. L. 102–511 required Secretary of Agriculture to issue final regulations to implement this section not later than 30 days after Oct. 24, 1992, prior to repeal by Pub. L. 104–127, title II, §276, Apr. 4, 1996, 110 Stat. 977.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5625, 5641, 5661, 5662 of this title.
 

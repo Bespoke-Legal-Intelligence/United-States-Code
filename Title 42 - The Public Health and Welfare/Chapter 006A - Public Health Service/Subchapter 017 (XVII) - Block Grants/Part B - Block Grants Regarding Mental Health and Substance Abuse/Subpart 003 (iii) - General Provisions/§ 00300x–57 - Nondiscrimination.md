@@ -34,5 +34,5 @@ The Age Discrimination Act of 1975, referred to in subsecs. (a)(1) and (b)(1)(B)
 
 The Education Amendments of 1972, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 88–352, July 2, 1964, 78Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 

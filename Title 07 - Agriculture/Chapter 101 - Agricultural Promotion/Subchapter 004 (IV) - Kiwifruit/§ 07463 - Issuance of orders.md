@@ -28,7 +28,3 @@ The Secretary may amend any order issued under this section. The provisions of t
 
 1998—Subsec. (c). Pub. L. 105–185 inserted “, except that an amendment to an order shall not require a referendum to become effective” before period at end.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7462, 7464, 7465, 7466, 7470, 7471 of this title.
-

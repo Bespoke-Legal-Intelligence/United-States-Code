@@ -2,7 +2,7 @@
 
 #### (a) Amount; recipients
 
-In any case in which the Bureau of Justice Assistance (hereinafter in this subchapter referred to as the “Bureau”) determines, under regulations issued pursuant to this subchapter, that a public safety officer has died as the direct and proximate result of a personal injury sustained in the line of duty, the Bureau shall pay a benefit of $250,000, adjusted in accordance with subsection (h) of this section, as follows:
+In any case in which the Bureau of Justice Assistance (hereinafter in this subchapter referredto as the “Bureau”) determines, under regulations issued pursuant to this subchapter, that a public safety officer has died as the direct and proximate result of a personal injury sustained in the line of duty, the Bureau shall pay a benefit of $250,000, adjusted in accordance with subsection (h) of this section, as follows:
 
 &emsp;(1) if there is no surviving child of such officer, to the surviving spouse of such officer;
 
@@ -44,7 +44,7 @@ No benefit paid under this subchapter shall be subject to execution or attachmen
 
 #### (h) Consumer Price Index adjustment
 
-On October 1 of each fiscal year beginning after June 1, 1988, the Bureau shall adjust thelevel of the benefit payable immediately before such October 1 under subsection (a) of this section, to reflect the annual percentage change in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, occurring in the 1-year period ending on June 1 immediately preceding such October 1.
+On October 1 of each fiscal year beginning after June 1, 1988, the Bureau shall adjust the level of the benefit payable immediately before such October 1 under subsection (a) of this section, to reflect the annual percentage change in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, occurring in the 1-year period ending on June 1 immediately preceding such October 1.
 
 #### (i) Amount payable determined as of date of death
 
@@ -147,8 +147,4 @@ Section 6105(e) of Pub. L. 100–690 provided that: “The amendments made by th
 #### Effective Date
 
 Subchapter effective Oct. 1, 1984, and inapplicable with respect to injuries sustained before Oct. 1, 1984, see section 609AA(b)(1) of Pub. L. 98–473, set out as a note under section 3711 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3796c, 3796c–1 of this title.
 

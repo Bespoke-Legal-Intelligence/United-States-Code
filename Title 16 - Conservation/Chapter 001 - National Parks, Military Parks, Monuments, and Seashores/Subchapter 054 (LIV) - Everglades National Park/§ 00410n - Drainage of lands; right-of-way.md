@@ -4,7 +4,3 @@ Unless the Secretary, after notice and opportunity for hearing, shall find that 
 
 (Pub. L. 85–482, §6, July 2, 1958, 72 Stat. 286.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410j, 410p of this title.
-

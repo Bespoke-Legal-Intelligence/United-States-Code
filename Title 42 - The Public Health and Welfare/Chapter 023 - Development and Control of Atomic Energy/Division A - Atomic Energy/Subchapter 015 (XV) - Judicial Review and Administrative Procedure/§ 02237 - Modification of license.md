@@ -8,7 +8,3 @@ The terms and conditions of all licenses shall be subject to amendment, revision
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2133 of this title.
-

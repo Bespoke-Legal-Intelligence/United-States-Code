@@ -14,9 +14,11 @@ Section was enacted as part of the Department of Homeland Security Appropriation
 
 #### Standards for Measuring and Assessing the Quality and Effectiveness of Federal Law Enforcement Training
 
-Pub. L. 108–90, title V, §509, Oct. 1, 2003, 117 Stat. 1154, provided that: “The Federal Law Enforcement Training Center shall establish an accrediting body, to include representatives from the Federal law enforcement community and non-Federal accreditation experts involved in law enforcement training, to establish standards for measuring and assessing the quality and effectiveness of Federal law enforcement training programs, facilities, and instructors.”
+Pub. L. 108–334, title V, §506, Oct. 18, 2004, 118 Stat. 1316, provided that: “The Federal Law Enforcement Training Center shall establish an accrediting body, to include representatives from the Federal law enforcement community and non-Federal accreditation experts involved in law enforcement training, to establish standards for measuring and assessing the quality and effectiveness of Federal law enforcement training programs, facilities, and instructors.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–90, title V, §509, Oct. 1, 2003, 117 Stat. 1154.
 
 Pub. L. 108–7, div. J, title I, §122, Feb. 20, 2003, 117 Stat. 439.
 

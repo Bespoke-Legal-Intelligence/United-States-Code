@@ -74,7 +74,3 @@ The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(E), is title I
 
 1992—Subsec. (b)(4) to (9). Pub. L. 102–550 added par. (4) and redesignated former pars. (4) to (8) as (5) to (9), respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12873, 12875 of this title.
-

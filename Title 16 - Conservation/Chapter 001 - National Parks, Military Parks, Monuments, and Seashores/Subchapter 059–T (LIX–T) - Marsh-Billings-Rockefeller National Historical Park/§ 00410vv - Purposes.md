@@ -10,7 +10,7 @@ The purposes of this subchapter are—
 
 &emsp;(4) to preserve the Marsh-Billings-Rockefeller Mansion and its surrounding lands; and
 
-&emsp;(5) to recognize the significant contributions of Julia Billings, Mary Billings French, MaryFrench Rockefeller, and Laurance Spelman Rockefeller in perpetuating the Marsh-Billings-Rockefeller heritage.
+&emsp;(5) to recognize the significant contributions of Julia Billings, Mary Billings French, Mary French Rockefeller, and Laurance Spelman Rockefeller in perpetuating the Marsh-Billings-Rockefeller heritage.
 
 (Pub. L. 102–350, §2, Aug. 26, 1992, 106 Stat. 934; Pub. L. 105–277, div. A, §101(e) \[title I, §143\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–267.)
 

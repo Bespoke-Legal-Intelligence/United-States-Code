@@ -58,7 +58,3 @@ Pub. L. 103–311 substituted “, package, or packaging (or a component of a c
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5117, 5120, 5124, 5125 of this title; title 8 section 1288.
-

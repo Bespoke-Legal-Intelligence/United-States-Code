@@ -50,10 +50,6 @@ Pub. L. 98–271, §2, Apr. 30, 1984, 98 Stat. 163.
 
 Pub. L. 98–249, §2, Mar. 31, 1984, 98 Stat. 116.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 375 of this title; title 11 section 105; title 18 section 6001.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 

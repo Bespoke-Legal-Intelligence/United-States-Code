@@ -52,7 +52,3 @@ The Office shall maintain an information clearinghouse (which shall include an e
 
 (Pub. L. 103–176, title I, §101, Dec. 3, 1993, 107 Stat. 2005.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3614, 3621 of this title.
-

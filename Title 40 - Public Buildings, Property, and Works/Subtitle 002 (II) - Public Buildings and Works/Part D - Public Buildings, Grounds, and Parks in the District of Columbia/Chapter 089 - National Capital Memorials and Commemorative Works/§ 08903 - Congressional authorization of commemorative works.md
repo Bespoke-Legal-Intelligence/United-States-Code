@@ -10,7 +10,7 @@ In General.—Commemorative works—
 
 (b)
 
-Military Commemorative Works.—A military commemorative work may be authorized only to commemorate a war or similar major military conflict or a branch of the armed forces. A commemorative work solely commemorating a limited military engagement or a unit of an armed force may not be authorized. Commemorative works to a war or similar major military conflict may not be authorized until at least 10 years after the officially designated end of such war or conflict.
+Military Commemorative Works.—A military commemorative work may be authorized only to commemorate a war or similar major military conflict or a branch of the armed forces. A commemorative work solely commemorating a limited military engagement or a unit of an armed force may not be authorized. Commemorative works to a war or similarmajor military conflict may not be authorized until at least 10 years after the officially designated end of such war or conflict.
 
 (c)
 
@@ -116,7 +116,7 @@ Japanese American Patriotism in World War II Memorial.—Pub. L. 102–502, Oct.
 
 Korean War Veterans Memorial.—Pub. L. 99–572, Oct. 28, 1986, 100 Stat. 3226; Pub. L. 100–202, §101(f) \[title II, §§1, 2\], Dec. 22, 1987, 101 Stat. 1329–195, 1329–196; Pub. L. 100–230, §§1, 2, Jan. 5, 1988, 101 Stat. 1563; Pub. L. 100–267, Mar. 28, 1988, 102 Stat. 41; Pub. L. 105–262, title VIII, §8122, Oct. 17, 1998, 112 Stat. 2332.
 
-Lincoln Memorial, “I Have a Dream Speech” Commemorative Plaque.—Pub. L. 106–365, Oct. 27, 2000, 114 Stat. 1409.
+Lincoln Memorial, “I Have a Dream Speech” Commemorative Plaque.—Pub. L. 106–365, Oct. 27, 2000, 114 Stat. 1409; Pub. L. 108–352, §4, Oct. 21, 2004, 118 Stat. 1395.
 
 Mahatma Gandhi Memorial.—Pub. L. 105–284, §1, Oct. 26, 1998, 112 Stat. 2701.
 
@@ -135,8 +135,4 @@ Vietnam Women's Memorial.—Pub. L. 100–660, Nov. 15, 1988, 102 Stat. 3922; Pu
 Women in Military Service for America Memorial.—Pub. L. 99–500, §101(h) \[title I, §117\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §117\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–590, title IX, §§901, 902, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 99–610, Nov. 6, 1986, 100 Stat. 3477; Pub. L. 103–321, §1(a)(2), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 103–337, div. B, title XXVIII, §2855, Oct. 5, 1994, 108 Stat. 3073.
 
 World War II Memorial.—Pub. L. 103–32, May 25, 1993, 107 Stat. 90; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–58, title VI, §652, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–117, title VI, §601(b), Nov. 30, 1999, 113 Stat. 1578; Pub. L. 107–11, May 28, 2001, 115 Stat. 19.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 36 section 2113.
 

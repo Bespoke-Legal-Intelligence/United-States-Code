@@ -12,9 +12,9 @@
 
 (d) The Court may permit the plaintiff to prosecute such action in forma pauperis.
 
-(e) The amount of damages awarded shall not exceed the sum of $5,000.
+(e) The amount of damages awarded shall not exceed $100,000 for each 12-month period of incarceration for any plaintiff who was unjustly sentenced to death and $50,000 for each 12-month period of incarceration for any other plaintiff.
 
-(June 25, 1948, ch. 646, 62 Stat. 978; Sept. 3, 1954, ch. 1263, §56, 68 Stat. 1247; Pub. L. 97–164, title I, §139(j)(2), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 978; Sept. 3, 1954, ch. 1263, §56, 68 Stat. 1247; Pub. L. 97–164, title I, §139(j)(2), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 108–405, title IV, §431, Oct. 30, 2004, 118 Stat. 2293.)
 
 #### Historical and Revision Notes
 
@@ -25,6 +25,8 @@ Sections 729–732 of title 18, U.S.C., 1940 ed., were consolidated and complete
 Changes were made in phraseology.
 
 #### Amendments
+
+2004—Subsec. (e). Pub. L. 108–405 substituted “exceed $100,000 for each 12-month period of incarceration for any plaintiff who was unjustly sentenced to death and $50,000 for each 12-month period of incarceration for any other plaintiff” for “exceed the sum of $5,000”.
 
 1992—Subsec. (c). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 

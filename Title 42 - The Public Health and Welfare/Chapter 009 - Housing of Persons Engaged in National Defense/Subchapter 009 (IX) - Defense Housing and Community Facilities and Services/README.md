@@ -8,10 +8,6 @@ Establishment of revolving fund under which to account for assets and liabilitie
 
 For prohibition of construction of housing or community facilities by United States under this subchapter, see section 1591c of this title.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1591a, 1591b, 1591c of this title; title 12 section 1701g–5.
-
 
 ---
 

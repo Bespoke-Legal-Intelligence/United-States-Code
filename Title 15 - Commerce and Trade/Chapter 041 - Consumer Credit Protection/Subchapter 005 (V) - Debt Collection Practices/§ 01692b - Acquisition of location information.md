@@ -16,7 +16,3 @@ Any debt collector communicating with any person other than the consumer for the
 
 (Pub. L. 90–321, title VIII, §804, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 876.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1692c, 1692d of this title; title 26 section 6304.
-

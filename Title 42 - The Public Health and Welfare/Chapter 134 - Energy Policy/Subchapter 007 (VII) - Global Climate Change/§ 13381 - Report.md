@@ -16,7 +16,3 @@ Not later than 2 years after October 24, 1992, the Secretary shall submit a repo
 
 (Pub. L. 102–486, title XVI, §1601, Oct. 24, 1992, 106 Stat. 2999.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13382 of this title.
-

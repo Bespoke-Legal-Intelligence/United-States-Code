@@ -228,7 +228,7 @@ Report to congress.—Not later than one year after the date of enactment of thi
 
 “(c)
 
-Deadline for Integrated Natural Resources Management Plans.—Not later than three years after the date of the submission of the report required under subsection (b)(2), the Secretary of each military department shall, for each military installation with respect to which the Secretary has not determined under subsection (b)(2)(A) that preparation of an integrated natural resources management plan is not appropriate—
+Deadline for Integrated Natural Resources Management Plans.—Not later than three years after the date of the submission of the report required undersubsection (b)(2), the Secretary of each military department shall, for each military installation with respect to which the Secretary has not determined under subsection (b)(2)(A) that preparation of an integrated natural resources management plan is not appropriate—
 
 &emsp;“(1) prepare and begin implementing such a plan in accordance with section 101(a) of the Sikes Act \[16 U.S.C. 670a(a)\] (as amended by this title); or
 
@@ -245,8 +245,4 @@ Public Comment.—The Secretary of each military department shall provide an opp
 #### Applicability of 1986 Amendments to Existing Contracts
 
 Section 3(a)(2) of Pub. L. 99–561 provided that: “Subsection (d)(1) of such section 101 (as added by paragraph (1) \[16 U.S.C. 670a(d)(1)\]) shall not affect any contract entered into before the date of the enactment of this Act \[October 27, 1986\] for the provision of services to implement or enforce a cooperative plan under this Act \[enacting section 670a–1 of this title and amending this section and sections 670f and 670<i>o</i> of this title and section 2665 of Title 10, Armed Forces\] on any military installation; but shall apply to the renewal, after such date of enactment, of any such contract.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 670f, 1533 of this title.
 

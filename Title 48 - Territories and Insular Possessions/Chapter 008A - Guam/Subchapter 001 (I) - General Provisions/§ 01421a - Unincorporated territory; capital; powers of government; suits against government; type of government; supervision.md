@@ -14,7 +14,3 @@ Guam is declared to be an unincorporated territory of the United States and the 
 
 Amendment by Pub. L. 90–497 necessary to authorize the holding of an election for Governor and Lieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments unless otherwise provided effective Jan. 4, 1971, see section 13 of Pub. L. 90–497, set out as a note under section 1422 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1423i of this title.
-

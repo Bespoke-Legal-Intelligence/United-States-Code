@@ -140,7 +140,7 @@ Pub. L. 107–187, June 10, 2002, 116 Stat. 590, provided that:
 
 &emsp;“(3) In the European Security Act of 1998 (title XXVII of division G of Public Law 105–277; 22 U.S.C. 1928 note), Congress declared that ‘Poland, Hungary, and the Czech Republic should not be the last emerging democracies in Central and Eastern Europe invited to join NATO’ and that ‘Romania, Estonia, Latvia, Lithuania, and Bulgaria . . . would make an outstanding contribution to furthering the goals of NATO and enhancing stability, freedom, and peace in Europe should they become NATO members \[and\] upon complete satisfaction of all relevant criteria should be invited to become full NATO members at the earliest possible date’.
 
-&emsp;“(4) At the Madrid Summit of the NATO Alliance in July 1997, Poland, Hungary, and the Czech Republicwere invited to join the Alliance in the first round of NATO enlargement, and the NATO heads of state and government issued a declaration stating ‘\[t\]he Alliance expects to extend further invitations in coming years to nations willing and able to assume the responsibilities and obligations of membership . . . \[n\]o European democratic country whose admission would fulfill the objectives of the \[North Atlantic\] Treaty will be excluded from consideration’.
+&emsp;“(4) At the Madrid Summit of the NATO Alliance in July 1997, Poland, Hungary, and the Czech Republic were invited to join the Alliance in the first round of NATO enlargement, and the NATO heads of state and government issued a declaration stating ‘\[t\]he Alliance expects to extend further invitations in coming years to nations willing and able to assume the responsibilities and obligations of membership . . . \[n\]o European democratic country whose admission would fulfill the objectives of the \[North Atlantic\] Treaty will be excluded from consideration’.
 
 &emsp;“(5) At the Washington Summit of the NATO Alliance in April 1999, the NATO heads of state and government issued a communique declaring ‘\[w\]e pledge that NATO will continue to welcome new members in a position to further the principles of the \[North Atlantic\] Treaty and contribute to peace and security in the Euro-Atlantic area . . . \[t\]he three new members will not be the last . . . \[n\]o European democratic country whose admission would fulfill the objectives of the Treaty will be excluded from consideration, regardless of its geographic location . . .’.
 
@@ -210,7 +210,7 @@ Report on Burdensharing of Future NATO Operations.—Whenever the North Atlantic
 
 &emsp;“(1) the contributions to that operation made by each of the member nations of the North Atlantic Treaty Organization during that operation; and
 
-&emsp;“(2) the contributions that each of the member nations of the North Atlantic Treaty Organization aremaking or have pledged to make during any follow-on operation.
+&emsp;“(2) the contributions that each of the member nations of the North Atlantic Treaty Organization are making or have pledged to make during any follow-on operation.
 
 “(c)
 
@@ -280,7 +280,7 @@ Commitments from russia.—In order to enhance security and stability in Europe,
 
 &emsp;&emsp;“(A) to demarcate and respect all its borders with neighboring states;
 
-&emsp;&emsp;“(B) to achieve the immediate and complete withdrawal of any armed forces and military equipment under the control of Russia that are deployed on the territories of the independent states of the former Soviet Union without the full and complete agreement of those states;
+&emsp;&emsp;“(B) to achieve the immediate and complete withdrawal of any armed forces and military equipment under the control of Russia that are deployed onthe territories of the independent states of the former Soviet Union without the full and complete agreement of those states;
 
 &emsp;&emsp;“(C) to station its armed forces on the territory of other states only with the full and complete agreement of that state and in strict accordance with international law; and
 
@@ -418,7 +418,7 @@ Funding.—A description of the funding for such projects during the preceding f
 
 &emsp;“(3)
 
-Status of dialogue or discussions.—A description of the status of any dialogue or discussions conducted during the preceding fiscal year between the United States and Russia aimed at exploring thepotential for mutual accommodation of outstanding issues between the two nations on matters relating to ballistic missile defense and the ABM Treaty, including the possibility of developing a strategic relationship not based on mutual nuclear threats.
+Status of dialogue or discussions.—A description of the status of any dialogue or discussions conducted during the preceding fiscal year between the United States and Russia aimed at exploring the potential for mutual accommodation of outstanding issues between the two nations on matters relating to ballistic missile defense and the ABM Treaty, including the possibility of developing a strategic relationship not based on mutual nuclear threats.
 
 “(e)
 
@@ -716,7 +716,7 @@ Pub. L. 104–201, div. A, title X, §1084, Sept. 23, 1996, 110 Stat. 2673, as a
 
 #### Nato Participation
 
-Pub. L. 103–447, title II, Nov. 2, 1994, 108 Stat. 4695, as amended by Pub. L. 104–107, title V, §585, Feb. 12, 1996, 110 Stat. 752; Pub. L. 104–208, div. A, title I, §101(c) \[title VI, §612\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–178; Pub. L. 105–277, div. G, subdiv. B, title XXVII, §2703(e), Oct. 21, 1998, 112 Stat. 2681–842, provided that:
+Pub. L. 103–447, title II, Nov. 2, 1994, 108 Stat. 4695, as amended by Pub. L. 104–107, title V, §585, Feb. 12, 1996,110 Stat. 752; Pub. L. 104–208, div. A, title I, §101(c) \[title VI, §612\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–178; Pub. L. 105–277, div. G, subdiv. B, title XXVII, §2703(e), Oct. 21, 1998, 112 Stat. 2681–842, provided that:
 
 #### “SEC. 201. SHORT TITLE.
 
@@ -736,7 +736,7 @@ Pub. L. 103–447, title II, Nov. 2, 1994, 108 Stat. 4695, as amended by Pub. L.
 
 &emsp;“(3) the United States, other NATO member nations, and NATO itself should furnish appropriate assistance to facilitate the transition to full NATO membership at an early date of full and active participants in the Partnership for Peace; and
 
-&emsp;“(4) in particular, Poland, Hungary, the Czech Republic, and Slovakia have made significant progress toward establishing democratic institutions, free market economies, civilian control of their armedforces, and the rule of law since the fall of their previous communist governments.
+&emsp;“(4) in particular, Poland, Hungary, the Czech Republic, and Slovakia have made significant progress toward establishing democratic institutions, free market economies, civilian control of their armed forces, and the rule of law since the fall of their previous communist governments.
 
 #### “SEC. 203. AUTHORITY FOR PROGRAM TO FACILITATE TRANSITION TO NATO MEMBERSHIP.
 
@@ -888,7 +888,7 @@ Authority of the President.—The President is authorized to confer, pursuant to
 
 #### Defense Cost-Sharing
 
-Pub. L. 102–190, div. A, title X, §1046, Dec. 5, 1991, 105 Stat. 1466, as amended by Pub. L. 103–160, div. A, title XIV, §1412(b), Nov. 30, 1993, 107 Stat. 1829; Pub. L. 103–337, div. A, title XIII, §1313(e), Oct. 5, 1994, 108 Stat. 2895, provided that:
+Pub. L. 102–190, div. A, title X, §1046, Dec. 5, 1991, 105 Stat. 1466, as amended by Pub. L. 103–160, div. A, titleXIV, §1412(b), Nov. 30, 1993, 107 Stat. 1829; Pub. L. 103–337, div. A, title XIII, §1313(e), Oct. 5, 1994, 108 Stat. 2895, provided that:
 
 “(a)
 
@@ -908,7 +908,7 @@ Exception.—The provisions of subsection (a) shall not apply to those foreign n
 
 “(c)
 
-Consultations.—In conducting the consultations required under subsection (a), the Presidentshould make maximum feasible use of the Department of Defense and the post of Ambassador-at-Large created by section 8125(c) of the Department of Defense Appropriations Act, 1989 \[Pub. L. 100–463\] (10 U.S.C. 113 note).
+Consultations.—In conducting the consultations required under subsection (a), the President should make maximum feasible use of the Department of Defense and the post of Ambassador-at-Large created by section 8125(c) of the Department of Defense Appropriations Act, 1989 \[Pub. L. 100–463\] (10 U.S.C. 113 note).
 
 “(d)
 
@@ -978,7 +978,7 @@ Sense of Congress.—In light of the findings in subsection (a), it is the sense
 
 #### Report on Official Development Assistance Program of Japan
 
-Pub. L. 100–456, div. A, title X, §1009(b), Sept. 29, 1988, 102 Stat. 2041, provided that: “The Secretary of Defense shall include with the annual report submitted pursuant to section 1003 of Public Law 98–525 (22 U.S.C. 1928 note) a report on the Official Development Assistance program of the Government of Japan. Such report shall be prepared each year in coordination with the Secretary of State and the Administrator of the Agency for International Development and shall include a description of the amount and nature of spending under such program by recipient, including distinguishing between grant aid, loans, and credits.”
+Pub. L. 100–456, div. A, title X, §1009(b), Sept. 29, 1988, 102 Stat. 2041, provided that: “The Secretary of Defenseshall include with the annual report submitted pursuant to section 1003 of Public Law 98–525 (22 U.S.C. 1928 note) a report on the Official Development Assistance program of the Government of Japan. Such report shall be prepared each year in coordination with the Secretary of State and the Administrator of the Agency for International Development and shall include a description of the amount and nature of spending under such program by recipient, including distinguishing between grant aid, loans, and credits.”
 
 #### Japan-United States Security Relationship and Efforts by Japan To Fulfill Self-Defense Responsibilities
 
@@ -1112,7 +1112,7 @@ Pub. L. 97–252, title XI, §1122, Sept. 8, 1982, 96 Stat. 755, provided that:
 
 “(a) The Congress finds that—
 
-&emsp;“(1) the United States remains firmly committed to cooperating closely with its North Atlantic TreatyOrganization (hereinafter in this section referred to as ‘NATO’) allies in protecting liberty and maintaining world peace;
+&emsp;“(1) the United States remains firmly committed to cooperating closely with its North Atlantic Treaty Organization (hereinafter in this section referred to as ‘NATO’) allies in protecting liberty and maintaining world peace;
 
 &emsp;“(2) the financial burden of providing for the defense of Western Europe and for the protection of the interests of NATO member countries in areas outside the NATO treaty area has reached such proportions that new cooperative approaches among the United States and its NATO allies are required to achieve and maintain an adequate collective defense at acceptable costs;
 
@@ -1202,13 +1202,9 @@ Determination of President of the United States, No. 91–37, May 29, 1991, 56 F
 
 Memorandum for the Secretary of Defense
 
-Consistent with section 406(b) of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1546) \[amending section 1002 of Pub. L. 98–525, set out as a note above\], I hereby authorize an end strength level of members of the Armed Forces assigned to permanent duty ashore in European member nations of the North Atlantic Treaty Organization in excess of 261,855 for fiscal year 1991, and determine that the national security interests of the United States require such authorization.
+Consistent with section 406(b) of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1546) \[amending section 1002 of Pub. L. 98–525, set out as a note above\], I hereby authorize an end strength level of members of the Armed Forces assigned to permanent duty ashore in European member nations of the North Atlantic Treaty Organization inexcess of 261,855 for fiscal year 1991, and determine that the national security interests of the United States require such authorization.
 
 You are authorized and directed to notify the Congress of this determination and of the necessity therefor contained in the attached justification \[not set out in the Code\], and to publish this determination in the Federal Register.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2390 of this title.
 

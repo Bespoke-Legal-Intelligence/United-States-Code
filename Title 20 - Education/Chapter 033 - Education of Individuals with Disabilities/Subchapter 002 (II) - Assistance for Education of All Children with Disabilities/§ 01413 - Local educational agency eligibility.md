@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A local educational agency is eligible for assistance under this subchapter for a fiscal year if such agency demonstrates to the satisfaction of the State educational agency that it meets each of the following conditions:
+A local educational agency is eligible for assistance under this subchapter for a fiscal year if such agency submits a plan that provides assurances to the State educational agency that the local educational agency meets each of the following conditions:
 
 #### (1) Consistency with State policies
 
@@ -38,11 +38,23 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 &emsp;&emsp;&emsp;(iv) the termination of costly expenditures for long-term purchases, such as the acquisition of equipment or the construction of school facilities.
 
-#### (C) Treatment of Federal funds in certain fiscal years
+#### (C) Adjustment to local fiscal effort in certain fiscal years
 
-&emsp;&emsp;(i) Notwithstanding clauses (ii) and (iii) of subparagraph (A), for any fiscal year for which amounts appropriated to carry out section 1411 of this title exceeds $4,100,000,000, a local educational agency may treat as local funds, for the purpose of such clauses, up to 20 percent of the amount of funds it receives under this subchapter that exceeds the amount it received under this subchapter for the previous fiscal year.
+#### (i) Amounts in excess
 
-&emsp;&emsp;(ii) Notwithstanding clause (i), if a State educational agency determines that a local educational agency is not meeting the requirements of this subchapter, the State educational agency may prohibit the localeducational agency from treating funds received under this subchapter as local funds under clause (i) for any fiscal year, only if it is authorized to do so by the State constitution or a State statute.
+&emsp;&emsp;&emsp;Notwithstanding clauses (ii) and (iii) of subparagraph (A), for any fiscal year for which the allocation received by a local educational agency under section 1411(f) of this title exceeds the amount the local educational agency received for the previous fiscal year, the local educational agency may reduce the level of expenditures otherwise required by subparagraph (A)(iii) by not more than 50 percent of the amount of such excess.
+
+#### (ii) Use of amounts to carry out activities under ESEA
+
+&emsp;&emsp;&emsp;If a local educational agency exercises the authority under clause (i), the agency shall use an amount of local funds equal to the reduction in expenditures under clause (i) to carry out activities authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
+
+#### (iii) State prohibition
+
+&emsp;&emsp;&emsp;Notwithstanding clause (i), if a State educational agency determines that a local educational agency is unable to establish and maintain programs of free appropriate public education that meet the requirements of subsection (a) or the State educational agency has taken action against the local educational agency under section 1416 of this title, the State educational agency shall prohibit the local educational agency from reducing the level of expenditures under clause (i) for that fiscal year.
+
+#### (iv) Special rule
+
+&emsp;&emsp;&emsp;The amount of funds expended by a local educational agency under subsection (f) shall count toward the maximum amount of expenditures such local educational agency may reduce under clause (i).
 
 #### (D) Schoolwide programs under title I of the ESEA
 
@@ -56,63 +68,87 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (3) Personnel development
 
-&emsp;The local educational agency—
-
-&emsp;&emsp;(A) shall ensure that all personnel necessary to carry out this subchapter are appropriately and adequately prepared, consistent with the requirements of section 1453(c)(3)(D) of this title; and
-
-&emsp;&emsp;(B) to the extent such agency determines appropriate, shall contribute to and use the comprehensive system of personnel development of the State established under section 1412(a)(14) of this title.
+&emsp;The local educational agency shall ensure that all personnel necessary to carry out this subchapter are appropriately and adequately prepared, subject to the requirements of section 1412(a)(14) of this title and section 2122 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6622\].
 
 #### (4) Permissive use of funds
 
-&emsp;Notwithstanding paragraph (2)(A) or section 1412(a)(18)(B) of this title (relating to commingled funds), funds provided to the local educational agency under this subchapter may be used for the following activities:
+#### (A) Uses
 
-#### (A) Services and aids that also benefit nondisabled children
+&emsp;&emsp;Notwithstanding paragraph (2)(A) or section 1412(a)(17)(B) of this title (relating tocommingled funds), funds provided to the local educational agency under this subchapter may be used for the following activities:
 
-&emsp;&emsp;For the costs of special education and related services and supplementary aids and services provided in a regular class or other education-related setting to a child with a disability in accordance with the individualized education program of the child, even if one or more nondisabled children benefit from such services.
+#### (i) Services and aids that also benefit nondisabled children
 
-#### (B) Integrated and coordinated services system
+&emsp;&emsp;&emsp;For the costs of special education and related services, and supplementary aids and services, provided in a regular class or other education-related setting to a child with a disability in accordance with the individualized education program of the child, even if 1 or more nondisabled children benefit from such services.
 
-&emsp;&emsp;To develop and implement a fully integrated and coordinated services system in accordance with subsection (f) of this section.
+#### (ii) Early intervening services
+
+&emsp;&emsp;&emsp;To develop and implement coordinated, early intervening educational services in accordance with subsection (f).
+
+#### (iii) High cost education and related services
+
+&emsp;&emsp;&emsp;To establish and implement cost or risk sharing funds, consortia, or cooperatives for the local educational agency itself, or for local educational agencies working in a consortium of which the local educational agency is a part, to pay for high cost special education and related services.
+
+#### (B) Administrative case management
+
+&emsp;&emsp;A local educational agency may use funds received under this subchapter to purchase appropriate technology for recordkeeping, data collection, and related case management activities of teachers and related services personnel providing services described in the individualized education program of children with disabilities, that is needed for the implementation of such case management activities.
 
 #### (5) Treatment of charter schools and their students
 
 &emsp;In carrying out this subchapter with respect to charter schools that are public schools of the local educational agency, the local educational agency—
 
-&emsp;&emsp;(A) serves children with disabilities attending those schools in the same manner as it serves children with disabilities in its other schools; and
+&emsp;&emsp;(A) serves children with disabilities attending those charter schools in the same manner as the local educational agency serves children with disabilities in its other schools, including providing supplementary and related services on site at the charter school to the same extent to which the local educational agency has a policy or practice of providing such services on the site to its other public schools; and
 
-&emsp;&emsp;(B) provides funds under this subchapter to those schools in the same manner as it provides those funds to its other schools.
+&emsp;&emsp;(B) provides funds under this subchapter to those charter schools—
 
-#### (6) Information for State educational agency
+&emsp;&emsp;&emsp;(i) on the same basis as the local educational agency provides funds to the local educational agency's other public schools, including proportional distribution based on relative enrollment of children with disabilities; and
 
-&emsp;The local educational agency shall provide the State educational agency with information necessary to enable the State educational agency to carry out its duties under this subchapter, including, with respect to paragraphs (16) and (17) of section 1412(a) of this title, information relating to the performance of children with disabilities participating in programs carried out under this subchapter.
+&emsp;&emsp;&emsp;(ii) at the same time as the agency distributes other Federal funds to the agency's other public schools, consistent with the State's charter school law.
 
-#### (7) Public information
+#### (6) Purchase of instructional materials
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 2 years after December 3, 2004, a local educational agency that chooses to coordinate with the National Instructional Materials Access Center, when purchasing print instructional materials, shall acquire the print instructional materials in the same manner and subject to the same conditions as a State educational agency acquires print instructional materials under section 1412(a)(23) of this title.
+
+#### (B) Rights of local educational agency
+
+&emsp;&emsp;Nothing in this paragraph shall be construed to require a local educational agency to coordinate with the National Instructional Materials Access Center. If a local educational agency chooses not to coordinate with the National Instructional Materials Access Center, the local educational agency shall provide an assurance to the State educational agency that the local educational agency will provide instructional materials to blind persons or other persons with print disabilities in a timely manner.
+
+#### (7) Information for State educational agency
+
+&emsp;The local educational agency shall provide the State educational agency with information necessary to enable the State educational agency to carry out its duties under this subchapter, including, with respect to paragraphs (15) and (16) of section 1412(a) of this title, information relating to the performance of children with disabilities participating in programs carried out under this subchapter.
+
+#### (8) Public information
 
 &emsp;The local educational agency shall make available to parents of children with disabilities and to the general public all documents relating to the eligibility of such agency under this subchapter.
+
+#### (9) Records regarding migratory children with disabilities
+
+&emsp;The local educational agency shall cooperate in the Secretary's efforts under section 1308 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6398\] to ensure the linkage of records pertaining to migratory children with a disability for the purpose of electronically exchanging, among the States, health and educational information regarding such children.
 
 #### (b) Exception for prior local plans
 
 #### (1) In general
 
-&emsp;If a local educational agency or State agency has on file with the State educational agency policies and procedures that demonstrate that such local educational agency, or such State agency, as the case may be, meets any requirement of subsection (a) of this section, including any policies and procedures filed under this subchapter as in effect before the effective date of the Individuals with Disabilities Education Act Amendments of 1997, the State educational agency shall consider such local educational agency or State agency, as the case may be, to have met such requirement for purposes of receiving assistance under this subchapter.
+&emsp;If a local educational agency or State agency has on file with the State educational agency policies and procedures that demonstrate that such local educational agency, or such State agency, as the case may be, meets any requirement of subsection (a), including any policies and procedures filed under this subchapter as in effect before the effective date of the Individuals with Disabilities Education Improvement Act of 2004, the State educational agency shall consider such local educational agency or State agency, as the case may be, to have met such requirement for purposes of receiving assistance under this subchapter.
 
 #### (2) Modification made by local educational agency
 
-&emsp;Subject to paragraph (3), an application submitted by a local educational agency in accordance with this section shall remain in effect until it submits to the State educational agency such modifications as the local educational agency deems necessary.
+&emsp;Subject to paragraph (3), an application submitted by a local educational agency in accordance with this section shall remain in effect until the local educational agency submits to the State educational agency such modifications as the local educational agency determines necessary.
 
 #### (3) Modifications required by State educational agency
 
-&emsp;If, after the effective date of the Individuals with Disabilities Education Act Amendments of 1997, the provisions of this chapter are amended (or the regulations developed to carry out this chapter are amended), or there is a new interpretation of this chapter by Federal or State courts, or there is an official finding of noncompliance with Federal or State law or regulations, the State educational agency may require a local educational agency to modify its application only to the extent necessary to ensure the local educational agency's compliance with this subchapter or State law.
+&emsp;If, after the effective date of the Individuals with Disabilities Education Improvement Act of 2004, the provisions of this chapter are amended (or the regulations developed to carry out this chapter are amended), there is a new interpretation of this chapter by Federal or State courts, or there is an official finding of noncompliance with Federal or State law or regulations, then the State educational agency may require a local educational agency to modify its application only to the extent necessary to ensure the local educational agency's compliance with this subchapter or State law.
 
 #### (c) Notification of local educational agency or State agency in case of ineligibility
 
-If the State educational agency determines that a local educational agency or State agency is not eligible under this section, the State educational agency shall notify the local educational agency or State agency, as the casemay be, of that determination and shall provide such local educational agency or State agency with reasonable notice and an opportunity for a hearing.
+If the State educational agency determines that a local educational agency or State agency is not eligible under this section, then the State educational agency shall notify the local educational agency or State agency, as the case may be, of that determination and shall provide such local educational agency or State agency with reasonable notice and an opportunity for a hearing.
 
 #### (d) Local educational agency compliance
 
 #### (1) In general
 
-&emsp;If the State educational agency, after reasonable notice and an opportunity for a hearing, finds that a local educational agency or State agency that has been determined to be eligible under this section is failing to comply with any requirement described in subsection (a) of this section, the State educational agency shall reduce or shall not provide any further payments to the local educational agency or State agency until the State educational agency is satisfied that the local educational agency or State agency, as the case may be, is complying with that requirement.
+&emsp;If the State educational agency, after reasonable notice and an opportunity for a hearing, finds that a local educational agency or State agency that has been determined to be eligible under this section is failing to comply with any requirement described in subsection (a), the State educational agency shall reduce or shall not provide any further payments to the local educational agency or State agency until the State educational agency is satisfied that the local educational agency or State agency, as the case may be, is complying with that requirement.
 
 #### (2) Additional requirement
 
@@ -128,15 +164,15 @@ If the State educational agency determines that a local educational agency or St
 
 #### (A) In general
 
-&emsp;&emsp;A State educational agency may require a local educational agency to establish its eligibility jointly with another local educational agency if the State educational agency determines that the local educational agency would be ineligible under this section because the local educational agency would not be able to establish and maintain programs of sufficient size and scope to effectively meet the needs of children with disabilities.
+&emsp;&emsp;A State educational agency may require a local educational agency to establish its eligibility jointly with another local educational agency if the State educational agency determines that the local educational agency will be ineligible under this section because the local educational agency will not be able to establish and maintain programs of sufficient size and scope to effectively meet the needs of children with disabilities.
 
 #### (B) Charter school exception
 
-&emsp;&emsp;A State educational agency may not require a charter school that is a local educational agency to jointly establish its eligibility under subparagraph (A) unless it is explicitly permitted to do so under the State's charter school statute.
+&emsp;&emsp;A State educational agency may not require a charter school that is a local educational agency to jointly establish its eligibility under subparagraph (A) unless the charter school is explicitly permitted to do so under the State's charter school law.
 
 #### (2) Amount of payments
 
-&emsp;If a State educational agency requires the joint establishment of eligibility under paragraph (1), the total amount of funds made available to the affected local educational agencies shall be equal to the sum of the payments that each such local educational agency would have received under section 1411(g) of this title if such agencies were eligible for such payments.
+&emsp;If a State educational agency requires the joint establishment of eligibility under paragraph (1), the total amount of funds made available to the affected local educational agencies shall be equal to the sum of the payments that each such local educational agency would have received under section 1411(f) of this title if such agencies were eligible for such payments.
 
 #### (3) Requirements
 
@@ -160,159 +196,99 @@ If the State educational agency determines that a local educational agency or St
 
 &emsp;&emsp;Notwithstanding any other provision of this subsection, an educational service agency shall provide for the education of children with disabilities in the least restrictive environment, as required by section 1412(a)(5) of this title.
 
-#### (f) Coordinated services system
+#### (f) Early intervening services
 
 #### (1) In general
 
-&emsp;A local educational agency may not use more than 5 percent of the amount such agency receives under this subchapter for any fiscal year, in combination with other amounts (which shall include amounts other than education funds), to develop and implement a coordinated services system designed to improve results for children and families, including children with disabilities and their families.
+&emsp;A local educational agency may not use more than 15 percent of the amount such agency receives under this subchapter for any fiscal year, less any amount reduced by the agency pursuant to subsection (a)(2)(C), if any, in combination with other amounts (which may include amounts other than education funds), to develop and implement coordinated, early intervening services, which may include interagency financing structures, for students in kindergarten through grade 12 (with a particular emphasis on students in kindergarten through grade 3) who have not been identified as needing special education or related services but who need additional academic and behavioral support to succeed in a general education environment.
 
 #### (2) Activities
 
-&emsp;In implementing a coordinated services system under this subsection, a local educational agency may carry out activities that include—
+&emsp;In implementing coordinated, early intervening services under this subsection, a local educational agency may carry out activities that include—
 
-&emsp;&emsp;(A) improving the effectiveness and efficiency of service delivery, including developing strategies that promote accountability for results;
+&emsp;&emsp;(A) professional development (which may be provided by entities other than local educational agencies) for teachers and other school staff to enable such personnel to deliver scientifically based academic instruction and behavioral interventions, including scientifically based literacy instruction, and, where appropriate, instruction on the use of adaptive and instructional software; and
 
-&emsp;&emsp;(B) service coordination and case management that facilitates the linkage of individualized education programs under this subchapter and individualized family service plans under subchapter III of this chapter with individualized service plans under multiple Federal and State programs, such as title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\] (vocational rehabilitation), title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] (Medicaid), and title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] (supplemental security income);
+&emsp;&emsp;(B) providing educational and behavioral evaluations, services, and supports, including scientifically based literacy instruction.
 
-&emsp;&emsp;(C) developing and implementing interagency financing strategies for the provision of education, health, mental health, and social services, including transition services and related services under this chapter; and
+#### (3) Construction
 
-&emsp;&emsp;(D) interagency personnel development for individuals working on coordinated services.
+&emsp;Nothing in this subsection shall be construed to limit or create a right to a free appropriate public education under this subchapter.
 
-#### (g) School-based improvement plan
+#### (4) Reporting
 
-#### (1) In general
+&emsp;Each local educational agency that develops and maintains coordinated, early intervening services under this subsection shall annually report to the State educational agency on—
 
-&emsp;Each local educational agency may, in accordance with paragraph (2), use funds made available under this subchapter to permit a public school within the jurisdiction of the local educational agency to design, implement, and evaluate a school-based improvement plan that is consistent with the purposes described in section 1451(b) of this title and that is designed to improve educational and transitional results for all children with disabilities and, as appropriate, for other children consistent with subparagraphs (A) and (B) of subsection (a)(4) of this section in that public school.
+&emsp;&emsp;(A) the number of students served under this subsection; and
 
-#### (2) Authority
+&emsp;&emsp;(B) the number of students served under this subsection who subsequently receive special education and related services under this chapter during the preceding 2-year period.
 
-#### (A) In general
+#### (5) Coordination with Elementary and Secondary Education Act of 1965
 
-&emsp;&emsp;A State educational agency may grant authority to a local educational agency to permit a public school described in paragraph (1) (through a school-based standing panel established under paragraph (4)(B)) to design, implement, and evaluate a school-based improvement plan described in paragraph (1) for a period not to exceed 3 years.
+&emsp;Funds made available to carry out this subsection may be used to carry out coordinated, early intervening services aligned with activities funded by, and carried out under, the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] if such funds are used to supplement, and not supplant, funds made available under the Elementary and Secondary Education Act of 1965 for the activities and services assisted under this subsection.
 
-#### (B) Responsibility of local educational agency
-
-&emsp;&emsp;If a State educational agency grants the authority described in subparagraph (A), a local educational agency that is granted such authority shall have the sole responsibility of oversight of all activities relating to the design, implementation, and evaluation of any school-based improvement plan that a public school is permitted to design under this subsection.
-
-#### (3) Plan requirements
-
-&emsp;A school-based improvement plan described in paragraph (1) shall—
-
-&emsp;&emsp;(A) be designed to be consistent with the purposes described in section 1451(b) of this title and to improve educational and transitional results for all children with disabilities and, as appropriate, for other children consistent with subparagraphs (A) and (B) of subsection (a)(4) of this section, who attend the school for which the plan is designed and implemented;
-
-&emsp;&emsp;(B) be designed, evaluated, and, as appropriate, implemented by a school-based standing panel established in accordance with paragraph (4)(B);
-
-&emsp;&emsp;(C) include goals and measurable indicators to assess the progress of the public school in meeting such goals; and
-
-&emsp;&emsp;(D) ensure that all children with disabilities receive the services described in the individualized education programs of such children.
-
-#### (4) Responsibilities of the local educational agency
-
-&emsp;A local educational agency that is granted authority under paragraph (2) to permit a public school to design, implement, and evaluate a school-based improvement plan shall—
-
-&emsp;&emsp;(A) select each school under the jurisdiction of such agency that is eligible to design, implement, and evaluate such a plan;
-
-&emsp;&emsp;(B) require each school selected under subparagraph (A), in accordance with criteria established by such local educational agency under subparagraph (C), to establish a school-based standing panel to carry out the duties described in paragraph (3)(B);
-
-&emsp;&emsp;(C) establish—
-
-&emsp;&emsp;&emsp;(i) criteria that shall be used by such local educational agency in the selection of an eligible school under subparagraph (A);
-
-&emsp;&emsp;&emsp;(ii) criteria that shall be used by a public school selected under subparagraph (A) in the establishment of a school-based standing panel to carry out the duties described in paragraph (3)(B) and that shall ensure that the membership of such panel reflects the diversity of the community in which the public school is located and includes, at a minimum—
-
-&emsp;&emsp;&emsp;&emsp;(I) parents of children with disabilities who attend such public school, including parents of children with disabilities from unserved and underserved populations, as appropriate;
-
-&emsp;&emsp;&emsp;&emsp;(II) special education and general education teachers of such public school;
-
-&emsp;&emsp;&emsp;&emsp;(III) special education and general education administrators, or the designee of such administrators, of such public school; and
-
-&emsp;&emsp;&emsp;&emsp;(IV) related services providers who are responsible for providing services to the children with disabilities who attend such public school; and
-
-&emsp;&emsp;&emsp;(iii) criteria that shall be used by such local educational agency with respect to the distribution of funds under this subchapter to carry out this subsection;
-
-&emsp;&emsp;(D) disseminate the criteria established under subparagraph (C) to local school district personnel and local parent organizations within the jurisdiction of such local educational agency;
-
-&emsp;&emsp;(E) require a public school that desires to design, implement, and evaluate a school-based improvement plan to submit an application at such time, in such manner, and accompanied by such information as such local educational agency shall reasonably require; and
-
-&emsp;&emsp;(F) establish procedures for approval by such local educational agency of a school-based improvement plan designed under this subsection.
-
-#### (5) Limitation
-
-&emsp;A school-based improvement plan described in paragraph (1) may be submitted to a local educational agency for approval only if a consensus with respect to any matter relating to the design, implementation, or evaluation of the goals of such plan is reached by the school-based standing panel that designed such plan.
-
-#### (6) Additional requirements
-
-#### (A) Parental involvement
-
-&emsp;&emsp;In carrying out the requirements of this subsection, a local educational agency shallensure that the parents of children with disabilities are involved in the design, evaluation, and, where appropriate, implementation of school-based improvement plans in accordance with this subsection.
-
-#### (B) Plan approval
-
-&emsp;&emsp;A local educational agency may approve a school-based improvement plan of a public school within the jurisdiction of such agency for a period of 3 years, if—
-
-&emsp;&emsp;&emsp;(i) the approval is consistent with the policies, procedures, and practices established by such local educational agency and in accordance with this subsection; and
-
-&emsp;&emsp;&emsp;(ii) a majority of parents of children who are members of the school-based standing panel, and a majority of other members of the school-based standing panel, that designed such plan agree in writing to such plan.
-
-#### (7) Extension of plan
-
-&emsp;If a public school within the jurisdiction of a local educational agency meets the applicable requirements and criteria described in paragraphs (3) and (4) at the expiration of the 3-year approval period described in paragraph (6)(B), such agency may approve a school-based improvement plan of such school for an additional 3-year period.
-
-#### (h) Direct services by State educational agency
+#### (g) Direct services by the State educational agency
 
 #### (1) In general
 
-&emsp;A State educational agency shall use the payments that would otherwise have been available to a local educational agency or to a State agency to provide special education and related services directly to children with disabilities residing in the area served by that local agency, or for whom that State agency is responsible, if the State educational agency determines that the local education <sup>1</sup> agency or State agency, as the case may be—
+&emsp;A State educational agency shall use the payments that would otherwise have been available to a local educational agency or to a State agency to provide special education and related services directly to children with disabilities residing in the area served by that local educational agency, or for whom that State agency is responsible, if the State educational agency determines that the local educational agency or State agency, as the case may be—
 
-&emsp;&emsp;(A) has not provided the information needed to establish the eligibility of such agency under this section;
+&emsp;&emsp;(A) has not provided the information needed to establish the eligibility of such local educational agency or State agency under this section;
 
-&emsp;&emsp;(B) is unable to establish and maintain programs of free appropriate public education that meet the requirements of subsection (a) of this section;
+&emsp;&emsp;(B) is unable to establish and maintain programs of free appropriate public education that meet the requirements of subsection (a);
 
-&emsp;&emsp;(C) is unable or unwilling to be consolidated with one or more local educational agencies in order to establish and maintain such programs; or
+&emsp;&emsp;(C) is unable or unwilling to be consolidated with 1 or more local educational agencies in order to establish and maintain such programs; or
 
-&emsp;&emsp;(D) has one or more children with disabilities who can best be served by a regional or State program or service-delivery system designed to meet the needs of such children.
+&emsp;&emsp;(D) has 1 or more children with disabilities who can best be served by a regional or State program or service delivery system designed to meet the needs of such children.
 
 #### (2) Manner and location of education and services
 
-&emsp;The State educational agency may provide special education and related services under paragraph (1) in such manner and at such locations (including regional or State centers) as the State agency considers appropriate. Such education and services shall be provided in accordance with this subchapter.
+&emsp;The State educational agency may provide special education and related services under paragraph (1) in such manner and at such locations (including regional or State centers) as the State educational agency considers appropriate. Such education and services shall be provided in accordance with this subchapter.
 
-#### (i) State agency eligibility
+#### (h) State agency eligibility
 
-Any State agency that desires to receive a subgrant for any fiscal year under section 1411(g) of this title shall demonstrate to the satisfaction of the State educational agency that—
+Any State agency that desires to receive a subgrant for any fiscal year under section 1411(f) of this title shall demonstrate to the satisfaction of the State educational agency that—
 
 &emsp;(1) all children with disabilities who are participating in programs and projects funded under this subchapter receive a free appropriate public education, and that those children and their parents are provided all the rights and procedural safeguards described in this subchapter; and
 
 &emsp;(2) the agency meets such other conditions of this section as the Secretary determines to be appropriate.
 
-#### (j) Disciplinary information
+#### (i) Disciplinary information
 
-The State may require that a local educational agency include in the records of a child with a disability a statement of any current or previous disciplinary action that has been taken against the child and transmit such statement to the same extent that such disciplinary information is included in, and transmitted with, the student records of nondisabled children. The statement may include a description of any behavior engaged in by the child that required disciplinary action, a description of the disciplinary action taken, and any other information that is relevant to the safety of the child and other individuals involved with the child. If the State adopts such a policy, and the child transfers from one school to another, the transmission of any of the child's records must include both the child's current individualized education program and any such statement of current or previous disciplinary action that has been taken against the child.
+The State may require that a local educational agency include in the records of a child with a disability a statement of any current or previous disciplinary action that has been taken against the child and transmit such statement to the same extent that such disciplinary information is included in, and transmitted with, the student records of nondisabled children. The statement may include a description of any behavior engaged in by the child that required disciplinary action, a description of the disciplinary action taken, and any other information that is relevant to the safety of the child and other individuals involved with the child. If the State adopts such a policy, and the child transfers from 1 school to another, the transmission of any of the child's records shall include both the child's current individualized education program and any such statement of current or previous disciplinary action that has been taken against the child.
 
-(Pub. L. 91–230, title VI, §613, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 73; amended Pub. L. 107–110, title X, §1076(i), Jan. 8, 2002, 115 Stat. 2091.)
+#### (j) State agency flexibility
+
+#### (1) Adjustment to State fiscal effort in certain fiscal years
+
+&emsp;For any fiscal year for which the allotment received by a State under section 1411 of this title exceeds the amount the State received for the previous fiscal year and if the State in school year 2003–2004 or any subsequent school year pays or reimburses all local educational agencies within the State from State revenue 100 percent of the non-Federal share of the costs of special education and related services, the State educational agency, notwithstanding paragraphs (17) and (18) of section 1412(a) of this title and section 1412(b) of this title, may reduce the level of expenditures from State sources for the education of children with disabilities by not more than 50 percent of the amount of such excess.
+
+#### (2) Prohibition
+
+&emsp;Notwithstanding paragraph (1), if the Secretary determines that a State educational agency is unable to establish, maintain, or oversee programs of free appropriate public education that meet the requirements of this subchapter, or that the State needs assistance, intervention, or substantial intervention under section 1416(d)(2)(A) of this title, the Secretary shall prohibit the State educational agency from exercising the authority in paragraph (1).
+
+#### (3) Education activities
+
+&emsp;If a State educational agency exercises the authority under paragraph (1), the agency shall use funds from State sources, in an amount equal to the amount of the reduction under paragraph (1), to support activities authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] or to support need based student or teacher higher education programs.
+
+#### (4) Report
+
+&emsp;For each fiscal year for which a State educational agency exercises the authority under paragraph (1), the State educational agency shall report to the Secretary the amount of expenditures reduced pursuant to such paragraph and the activities that were funded pursuant to paragraph (3).
+
+#### (5) Limitation
+
+&emsp;Notwithstanding paragraph (1), a State educational agency may not reduce the level of expenditures described in paragraph (1) if any local educational agency in the State would, as a result of such reduction, receive less than 100 percent of the amount necessary to ensure that all children with disabilities served by the local educational agency receive a free appropriate public education from the combination of Federal funds received under this chapter and State funds received from the State educational agency.
+
+(Pub. L. 91–230, title VI, §613, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2694.)
 
 #### References in Text
 
-For the effective date of the Individuals with Disabilities Education Act Amendments of 1997, referred to in subsec. (b)(1), (3), see section 201 of Pub. L. 105–17, set out as an Effective Date note under section 1400 of this title.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(2)(C)(ii), (f)(5), and (j)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (f)(2)(B), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Rehabilitation Act of 1973 is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
-
-The Social Security Act, referred to in subsec. (f)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+For the effective date of the Individuals with Disabilities Education Improvement Act of 2004, referred to in subsec. (b)(1), (3), see section 302(a), (b) of Pub. L. 108–446, set out as an Effective Date note under section 1400 of this title.
 
 #### Prior Provisions
 
-A prior section 1413, Pub. L. 91–230, title VI, §613, Apr. 13, 1970, 84 Stat. 179; Pub. L. 93–380, title VI, §§614(c), (d), 615(b), (c), title VIII, §843(b)(2), Aug. 21, 1974, 88 Stat. 581, 583, 611; Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 782; Pub. L. 98–199, §§3(b), 7, Dec. 2, 1983, 97 Stat. 1358, 1359; Pub. L. 99–457, title II, §203(b), title IV, §405, Oct. 8, 1986, 100 Stat. 1159, 1174; Pub. L. 100–630, title I, §102(c), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, titleII, §202, title IX, §901(b)(47)–(58), Oct. 30, 1990, 104 Stat. 1111, 1144; Pub. L. 102–119, §§5, 25(a)(6), (b), Oct. 7, 1991, 105 Stat. 591, 606, 607; Pub. L. 103–382, title III, §391(f)(2), Oct. 20, 1994, 108 Stat. 4023, related to requisite features of a State plan, approval of State plan by Secretary, and participation of children with disabilities enrolled in private schools, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1413, Pub. L. 91–230, title VI, §613, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 73; amended Pub. L. 107–110, title X, §1076(i), Jan. 8, 2002, 115 Stat. 2091, related to local educational agency eligibility, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-#### Amendments
-
-2002—Subsec. (f)(3). Pub. L. 107–110 struck out heading and text of par. (3). Text read as follows: “If a local educational agency is carrying out a coordinated services project under title XI of the Elementary and Secondary Education Act of 1965 and a coordinated services project under this subchapter in the same schools, such agency shall use amounts under this subsection in accordance with the requirements of that title.”
-
-#### Effective Date of 2002 Amendment
-
-Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1411, 1412, 1419, 6314, 7221b of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “educational”.</i>
+Another prior section 1413, Pub. L. 91–230, title VI, §613, Apr. 13, 1970, 84 Stat. 179; Pub. L. 93–380, title VI, §§614(c), (d), 615(b), (c), title VIII, §843(b)(2), Aug. 21, 1974, 88 Stat. 581, 583, 611; Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 782; Pub. L. 98–199, §§3(b), 7, Dec. 2, 1983, 97 Stat. 1358, 1359; Pub. L. 99–457, title II, §203(b), title IV, §405, Oct. 8, 1986, 100 Stat. 1159, 1174; Pub. L. 100–630, title I, §102(c), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title II, §202, title IX, §901(b)(47)–(58), Oct. 30, 1990, 104 Stat. 1111, 1144; Pub. L. 102–119, §§5, 25(a)(6), (b), Oct. 7, 1991, 105 Stat. 591, 606, 607; Pub. L. 103–382, title III, §391(f)(2), Oct. 20, 1994, 108 Stat. 4023, related to requisite features of a State plan, approval of State plan by Secretary, and participation of children with disabilities enrolled in private schools, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

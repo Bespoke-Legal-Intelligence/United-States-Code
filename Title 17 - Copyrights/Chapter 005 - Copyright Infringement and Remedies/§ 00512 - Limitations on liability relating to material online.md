@@ -258,7 +258,7 @@ Considerations.—The court, in considering the relevant criteria for injunctive
 
 &emsp;&emsp;(B) the magnitude of the harm likely to be suffered by the copyright owner in the digital network environment if steps are not taken to prevent or restrain the infringement;
 
-&emsp;&emsp;(C) whether implementation of such an injunction would be technically feasible and effective, and would not interfere with access to noninfringing material at other online locations; and
+&emsp;&emsp;(C) whether implementation of such an injunction would be technically feasible andeffective, and would not interfere with access to noninfringing material at other online locations; and
 
 &emsp;&emsp;(D) whether other less burdensome and comparably effective means of preventing or restraining access to the infringing material are available.
 

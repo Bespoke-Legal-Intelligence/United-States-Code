@@ -38,11 +38,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 “(c) In order to protect the Government concerning payment and reimbursement of training expenses, each agency shall prescribe such regulations as it considers necessary to implement the regulations prescribed under section 4118(a)(8) of this title.”
 
-#### Central Intelligence Agency
-
-Exception of Central Intelligence Agency from provisions of subsec. (b)(1) of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3381 of this title.
-

@@ -8,7 +8,7 @@
 
 #### (2) Supplier credits
 
-&emsp;In carrying out this section, the Commodity Credit Corporation may issue guarantees for the repayment of credit made available for a period of not more than 180 days by a UnitedStates exporter to a buyer in a foreign country.
+&emsp;In carrying out this section, the Commodity Credit Corporation may issue guarantees for the repayment of credit made available for a period of not more than 180 days by a United States exporter to a buyer in a foreign country.
 
 #### (3) Extended supplier credits
 
@@ -18,7 +18,7 @@
 
 #### (B) Authorization of appropriations
 
-&emsp;&emsp;There are authorized to be appropriated such sums as are necessary to fund the additional costs attributable to the portion of any guarantee issued under this paragraph to cover the repayment of credit beyond the initial 180-day period.
+&emsp;&emsp;There are authorized to be appropriated such sums as are necessary to fund the additional costs attributable to the portion ofany guarantee issued under this paragraph to cover the repayment of credit beyond the initial 180-day period.
 
 #### (b) Intermediate-term credit guarantees
 
@@ -104,7 +104,7 @@ The Commodity Credit Corporation shall finance or guarantee under this section o
 
 #### (j) Conditions for fish and processed fish products
 
-In making available any guarantees of credit under this section in connection with sales of fish and processed fish products, the Secretary shall make such guarantees available under terms and conditions that are comparable to the terms and conditions that apply to guarantees provided with respect to sales of other agricultural commodities under this section.
+In making available any guarantees of credit under this section in connection with sales offish and processed fish products, the Secretary shall make such guarantees available under terms and conditions that are comparable to the terms and conditions that apply to guarantees provided with respect to sales of other agricultural commodities under this section.
 
 #### (k) Processed and high-value products
 
@@ -170,7 +170,7 @@ Subsec. (k). Pub. L. 102–511, §709(a)(2), added subsec. (k).
 
 #### Regulations
 
-Section 243(d) of Pub. L. 104–127 provided that: “Not later than 180 days after the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall issue regulations to carry out the amendments made bythis section \[amending this section and sections 5602 and 5641 of this title\].”
+Section 243(d) of Pub. L. 104–127 provided that: “Not later than 180 days after the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall issue regulations to carry out the amendments made by this section \[amending this section and sections 5602 and 5641 of this title\].”
 
 #### Promotion of Agricultural Exports to Emerging Markets
 
@@ -272,7 +272,7 @@ Implementation.—The Secretary shall draw on the Department of Agriculture's ex
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) to review available agricultural information resources, to determine which would be useful for the purposes of this program;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) to arrange for the exchange of persons associated with such agricultural institutions and agribusinesses with experience or interest in the areas of need identified in clause (i);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) to arrange for the exchange of persons associated with such agricultural institutionsand agribusinesses with experience or interest in the areas of need identified in clause (i);
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) to help establish contacts between agricultural entrepreneurs and businesses in the United States and emerging markets, which may include individuals and entities participating in the program established under paragraph (1), to facilitate cooperation and joint enterprises; and
 
@@ -331,8 +331,4 @@ In making this determination, I have considered the eligibility only of those co
 The Secretary of State is authorized and directed to publish this determination in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5625, 5641, 5661, 5662 of this title.
 

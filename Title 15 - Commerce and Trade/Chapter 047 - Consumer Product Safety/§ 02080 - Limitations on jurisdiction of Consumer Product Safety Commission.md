@@ -2,7 +2,7 @@
 
 #### (a) Authority to regulate
 
-The Commission shall have no authority under this chapter to regulate any risk of injury associated with a consumer product if such risk could be eliminated or reduced to a sufficient extent by actions taken under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\]; the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\]; or the Clean Air Act \[42 U.S.C. 7401 et seq.\]. The Commission shall have no authority under this chapter to regulate any risk of injury associated with electronic product radiation emitted from an electronic product (as such terms are defined by sections 355(1) and (2) <sup>1</sup> of the Public Health Service Act) if such risk of injury may be subjected to regulation under subpart 3 <sup>1</sup> of part F of title III of the Public Health Service Act.
+The Commission shall have no authority under this chapter to regulate any risk of injury associated with a consumer product if such risk could be eliminated or reduced to a sufficientextent by actions taken under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\]; the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\]; or the Clean Air Act \[42 U.S.C. 7401 et seq.\]. The Commission shall have no authority under this chapter to regulate any risk of injury associated with electronic product radiation emitted from an electronic product (as such terms are defined by sections 355(1) and (2) <sup>1</sup> of the Public Health Service Act) if such risk of injury may be subjected to regulation under subpart 3 <sup>1</sup> of part F of title III of the Public Health Service Act.
 
 #### (b) Certain notices of proposed rulemaking; duties of Chronic Hazard Advisory Panel
 
@@ -48,7 +48,7 @@ The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69
 
 The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart 3 of part F of title III of the Public Health Service Act, which was classified to subpart 3 (§263b et seq.) of part F of subchapter II of chapter 6A of Title 42, was redesignated as subchapter C of chapter V of act June 25, 1938, ch. 675, the Federal Food, Drug, and Cosmetic Act, by Pub. L. 101–629, §19(a)(4), Nov. 28, 1990, 104 Stat. 4530, and was transferred to part C (21 U.S.C. 360hh et seq.) of subchapter V of chapter 9 of Title 21, Food and Drugs. Section 355 of the Public Health Service Act, which was classified to section 263c of Title 42, was renumbered as section 531 of act June 25, 1938, ch. 675, by Pub. L. 101–629, §19(a)(3), (4), 104 Stat. 4530, and transferred to section 360hh of Title 21. For complete classification of the Public Health Service Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(2)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat.770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(2)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -63,10 +63,6 @@ Amendment by Pub. L. 97–35 applicable with respect to regulations under this c
 #### Manufacture or Sale of Firearms or Firearms Ammunition
 
 Pub. L. 94–284, §3(e), May 11, 1976, 90 Stat. 504, provided that: “The Consumer Product Safety Commission shall make no ruling or order that restricts the manufacture or sale of firearms, firearms ammunition, or components of firearms ammunition, including black powder or gunpowder for firearms.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2052, 2077 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

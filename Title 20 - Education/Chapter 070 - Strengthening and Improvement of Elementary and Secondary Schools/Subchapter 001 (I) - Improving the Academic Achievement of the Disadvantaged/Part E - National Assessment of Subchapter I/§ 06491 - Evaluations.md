@@ -92,7 +92,7 @@
 
 #### (A) Interim report
 
-&emsp;&emsp;Not later than 3 years after January 8, 2002, the Secretary shall transmit to the President, the Committee on Education andthe Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate an interim report on the national assessment conducted under this subsection.
+&emsp;&emsp;Not later than 3 years after January 8, 2002, the Secretary shall transmit to the President, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate an interim report on the national assessment conducted under this subsection.
 
 #### (B) Final report
 
@@ -211,8 +211,4 @@ A prior section 1501 of Pub. L. 89–10 was classified to section 2911 of this t
 #### Amendments
 
 2002—Subsec. (a)(3). Pub. L. 107–279 substituted “section 9622 of this title” for “section 9010 of this title”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6302 of this title.
 

@@ -50,7 +50,7 @@
 
 #### (B) Continuation of enrollment permitted
 
-&emsp;&emsp;Pursuant to rules specified by the Secretary, the Secretary shall provide that a plan may offer to all individuals residing in a geographic area the option to continue enrollment in the plan, notwithstanding that the individual no longer resides in the service area of the plan, so long as the plan provides that individuals exercising this option have, as part of the basic benefits described in section 1395w–22(a)(1)(A) of this title, reasonable access within that geographic area to the full range of basic benefits, subject to reasonable cost sharing liability in obtaining such benefits.
+&emsp;&emsp;Pursuant to rules specified by the Secretary, the Secretary shall provide that a plan may offer to all individuals residing ina geographic area the option to continue enrollment in the plan, notwithstanding that the individual no longer resides in the service area of the plan, so long as the plan provides that individuals exercising this option have, as part of the basic benefits described in section 1395w–22(a)(1)(A) of this title, reasonable access within that geographic area to the full range of basic benefits, subject to reasonable cost sharing liability in obtaining such benefits.
 
 #### (C) Continuation of enrollment permitted where service changed
 
@@ -72,7 +72,7 @@
 
 #### (3) Limitation on eligibility of qualified medicare beneficiaries and other medicaid beneficiaries to enroll in an MSA plan
 
-&emsp;An individual who is a qualified medicare beneficiary (as defined in section 1396d(p)(1) ofthis title), a qualified disabled and working individual (described in section 1396d(s) of this title), an individual described in section 1396a(a)(10)(E)(iii) of this title, or otherwise entitled to medicare cost-sharing under a State plan under subchapter XIX of this chapter is not eligible to enroll in an MSA plan.
+&emsp;An individual who is a qualified medicare beneficiary (as defined in section 1396d(p)(1) of this title), a qualified disabled and working individual (described in section 1396d(s) of this title), an individual described in section 1396a(a)(10)(E)(iii) of this title, or otherwise entitled to medicare cost-sharing under a State plan under subchapter XIX of this chapter is not eligible to enroll in an MSA plan.
 
 #### (4) Coverage under MSA plans
 
@@ -114,7 +114,7 @@
 
 #### (ii) Seamless continuation of coverage
 
-&emsp;&emsp;&emsp;The Secretary may establish procedures under which an individual who is enrolled in a health plan (other than Medicare+Choice plan) offered by a Medicare+Choice organization at the time of the initial election period and who fails to elect to receive coverage other than through the organization is deemed to have elected the Medicare+Choice plan offered by the organization (or, if the organization offers more than one such plan, such plan or plans as the Secretary identifies under such procedures).
+&emsp;&emsp;&emsp;The Secretary may establish procedures under which an individual who is enrolled in a health plan (other thanMedicare+Choice plan) offered by a Medicare+Choice organization at the time of the initial election period and who fails to elect to receive coverage other than through the organization is deemed to have elected the Medicare+Choice plan offered by the organization (or, if the organization offers more than one such plan, such plan or plans as the Secretary identifies under such procedures).
 
 #### (B) Continuing periods
 
@@ -244,7 +244,7 @@
 
 #### (E) Supplemental benefits
 
-&emsp;&emsp;Whether the organization offering the plan includes mandatory supplemental benefits inits base benefit package or offers optional supplemental benefits and the terms and conditions (including premiums) for such coverage.
+&emsp;&emsp;Whether the organization offering the plan includes mandatory supplemental benefits in its base benefit package or offers optional supplemental benefits and the terms and conditions (including premiums) for such coverage.
 
 #### (5) Maintaining a toll-free number and Internet site
 
@@ -276,7 +276,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), subparagraph (C)(iii), and subparagraph (D), at any time during the first 6 months of 2006, or, if the individual first becomes a Medicare+Choice eligible individual during 2006, during the first 6 months during 2006 in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
+&emsp;&emsp;&emsp;Subject to clause (ii), subparagraph (C)(iii), and subparagraph (D), at any time during the first 6 months of 2006, or, if the individual first becomes a Medicare+Choice eligible individual during 2006, during the first 6 months during 2006 in which the individual is a Medicare+Choice eligible individual, aMedicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
 
 #### (ii) Limitation of one change
 
@@ -338,7 +338,7 @@
 
 &emsp;Effective as of January 1, 2006, an individual may discontinue an election of a Medicare+�Choice plan offered by a Medicare+Choice organization other than during an annual, coordinated election period and make a new election under this section if—
 
-&emsp;&emsp;(A)(i) the certification of the organization or plan under this part has been terminated, or the organization or plan has notified the individual of an impending termination of such certification; or
+&emsp;&emsp;(A)(i) the certification of the organization or plan under this part has been terminated, or the organization or plan has notified theindividual of an impending termination of such certification; or
 
 &emsp;&emsp;(ii) the organization has terminated or otherwise discontinued providing the plan in the area in which the individual resides, or has notified the individual of an impending termination or discontinuation of such plan;
 
@@ -438,7 +438,7 @@
 
 #### (D) Organization obligation with respect to election forms
 
-&emsp;&emsp;Pursuant to a contract under section 1395w–27 of this title, each Medicare+Choice organization receiving an election form under subsection (c)(2) of this section shalltransmit to the Secretary (at such time and in such manner as the Secretary may specify) a copy of such form or such other information respecting the election as the Secretary may specify.
+&emsp;&emsp;Pursuant to a contract under section 1395w–27 of this title, each Medicare+Choice organization receiving an election form under subsection (c)(2) of this section shall transmit to the Secretary (at such time and in such manner as the Secretary may specify) a copy of such form or such other information respecting the election as the Secretary may specify.
 
 #### (h) Approval of marketing material and application forms
 
@@ -474,7 +474,7 @@
 
 #### (1) Payments to organizations
 
-&emsp;Subject to sections 1395w–22(a)(5), 1395w–23(g), 1395w–23(h), 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, payments under a contract with a Medicare+Choice organization under section 1395w–23(a) of this title with respect to an individual electing a Medicare+�Choice plan offered by the organization shall be instead of the amounts which (in the absence of the contract) would otherwise be payable under parts A and B of this subchapter for items and services furnished to the individual.
+&emsp;Subject to sections 1395w–22(a)(5), 1395w–23(g), 1395w–23(h), 1395ww(d)(11), and1395ww(h)(3)(D) of this title, payments under a contract with a Medicare+Choice organization under section 1395w–23(a) of this title with respect to an individual electing a Medicare+�Choice plan offered by the organization shall be instead of the amounts which (in the absence of the contract) would otherwise be payable under parts A and B of this subchapter for items and services furnished to the individual.
 
 #### (2) Only organization entitled to payment
 
@@ -506,7 +506,7 @@
 
 (C) by inserting “(including MA regional plans)” after “preferred provider organization plans”;
 
-<i>(2) in subsection (a)(3)(B)(ii), by making technical amendment to reference in original act</i><i>which appears in text as reference to subsection (e)(4)(A) of this section;</i>
+<i>(2) in subsection (a)(3)(B)(ii), by making technical amendment to reference in original act which appears in text as reference to subsection (e)(4)(A) of this section;</i>
 
 <i>(3) in subsection (b)(1):</i>
 
@@ -640,7 +640,7 @@ Pub. L. 108–173, title I, §102(c)(2), Dec. 8, 2003, 117 Stat. 2154, provided 
 
 Pub. L. 108–173, title II, §223(a), Dec. 8, 2003, 117 Stat. 2207, provided that: “The amendments made by this subtitle \[subtitle C (§§221–223) of title II of Pub. L. 108–173, enacting section 1395w–27a of this title and amending this section and sections 1395r, 1395s, 1395w, 1395w–22 to 1395w–24, 1395w–27, and 1395w–28 of this title\] shall apply with respect to plan years beginning on or after January 1, 2006.”
 
-Pub. L. 108–173, title II, §231(f)(1), Dec. 8, 2003, 117 Stat. 2208, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and section 1395w–28 of this title\] shall take effect upon the date of the enactment of this Act \[Dec. 8, 2003\].”
+Pub. L. 108–173, title II, §231(f)(1), Dec. 8, 2003, 117 Stat. 2208, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section andsection 1395w–28 of this title\] shall take effect upon the date of the enactment of this Act \[Dec. 8, 2003\].”
 
 Amendment by section 237(b)(2)(A) of Pub. L. 108–173 applicable to services provided on or after Jan. 1, 2006, and contract years beginning on or after such date, see section 237(e) of Pub. L. 108–173, set out as a note under section 1320a–7b of this title.
 
@@ -676,7 +676,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §501(d)\], Nov. 29, 1999, 11
 
 “(2) The amendments made by subsection (c) \[amending this section\] apply to elections made on or after the date of the enactment of this Act \[Nov. 29, 1999\] with respect to eliminations of Medicare+Choice payment areas from a service area that occur before, on, or after the date of the enactment of this Act.”
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §502(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, provided that:“The amendments made by this section \[amending this section\] apply to elections and changes of coverage made on or after January 1, 2000.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §502(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, provided that: “The amendments made by this section \[amending this section\] apply to elections and changes of coverage made on or after January 1, 2000.”
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §519(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–385, provided that: “The amendment made by subsection (a) \[amending this section\] first applies to campaigns conducted beginning in 2000.”
 
@@ -718,7 +718,7 @@ Study.—The Medicare Payment Advisory Commission, in consultation with benefici
 
 “(2)
 
-Report.—Not later than December 31, 2004, the Commission shall submit a report to Congress on the study conducted under paragraph (1) together with recommendations for such legislation and administrative actions as the Commission considers appropriate.”
+Report.—Not later than December 31, 2004, the Commission shall submit a report to Congress on thestudy conducted under paragraph (1) together with recommendations for such legislation and administrative actions as the Commission considers appropriate.”
 
 #### Moratorium on New Local Preferred Provider Organization Plans
 
@@ -853,8 +853,4 @@ Duration.—A demonstration project under this section shall be conducted for a 
 “(e)
 
 Separate From Other Demonstration Projects.—A project implemented by the Secretary under this section shall not be conducted in conjunction with any other demonstration project.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320b–5, 1395w–22, 1395w–23, 1395w–24, 1395w–27, 1395w–27a, 1395w–28, 1395w–29, 1395w–101, 1395w–102, 1395w–103, 1395w–113, 1395w–114, 1395w–131, 1395w–141, 1395w–151, 1395mm, 1395nn, 1395ss, 1395ggg of this title.
 

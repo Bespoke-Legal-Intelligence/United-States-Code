@@ -18,7 +18,3 @@ The Foundation shall carry out the purposes specified in subsection (a) of this 
 
 (Pub. L. 96–533, title V, §504, Dec. 16, 1980, 94 Stat. 3152.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 290h–3 of this title.
-

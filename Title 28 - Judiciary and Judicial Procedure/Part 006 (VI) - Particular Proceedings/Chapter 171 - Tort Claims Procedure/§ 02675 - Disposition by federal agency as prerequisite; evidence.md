@@ -38,7 +38,3 @@ Subsec. (b). Pub. L. 89–506, §2(b), struck out provisions under which a claim
 
 Amendment by Pub. L. 89–506 applicable to claims accruing six months or more after July 18, 1966, see section 10 of Pub. L. 89–506, set out as a note under section 2672 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2679 of this title; title 5 section 8477; title 8 section 1357.
-

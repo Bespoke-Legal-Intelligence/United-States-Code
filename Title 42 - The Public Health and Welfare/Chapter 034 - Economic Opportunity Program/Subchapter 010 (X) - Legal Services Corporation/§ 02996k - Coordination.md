@@ -1,6 +1,6 @@
 ### §2996k. Coordination
 
-The President may direct that appropriate support functions of the Federal Government may be made available to the Corporation incarrying out its activities under this subchapter, to the extent not inconsistent with other applicable law.
+The President may direct that appropriate support functions of the Federal Government may be made available to the Corporation in carrying out its activities under this subchapter, to the extent not inconsistent with other applicable law.
 
 (Pub. L. 88–452, title X, §1012, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 388.)
 

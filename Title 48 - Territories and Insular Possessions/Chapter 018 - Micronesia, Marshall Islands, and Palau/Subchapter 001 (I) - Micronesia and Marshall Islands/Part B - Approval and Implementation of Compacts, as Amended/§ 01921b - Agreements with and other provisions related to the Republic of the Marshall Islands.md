@@ -24,7 +24,7 @@ Pursuant to sections 222 and 224 of the U.S.-RMI Compact, the United States shal
 
 #### (d) Nuclear test effects
 
-In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that in approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weaponstesting program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak); $37,500,000 (Rongelap); and $22,500,000 (Utrik), respectively, which amounts shall be paid out of proceeds from the fund established under Article I, section 1 of the subsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
+In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that in approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weapons testing program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak); $37,500,000 (Rongelap); and $22,500,000 (Utrik), respectively, which amounts shall be paid out of proceeds from the fund established under Article I, section 1 of the subsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
 
 #### (e) Espousal provisions
 
@@ -60,7 +60,7 @@ In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provi
 
 #### (ii) Authorization and continuing appropriation
 
-&emsp;&emsp;&emsp;There is hereby authorized and appropriated to the Secretary of the Interior, out of any funds in the Treasury not otherwise appropriated, to remain available until expended, for each fiscal year from 2004 through 2023, $1,300,000, as adjusted for inflation under section 218 of the U.S.-RMI Compact, for grants to carry out the planting and agricultural maintenance program.
+&emsp;&emsp;&emsp;There is hereby authorized and appropriated to the Secretary of the Interior,out of any funds in the Treasury not otherwise appropriated, to remain available until expended, for each fiscal year from 2004 through 2023, $1,300,000, as adjusted for inflation under section 218 of the U.S.-RMI Compact, for grants to carry out the planting and agricultural maintenance program.
 
 #### (3) Payments
 
@@ -82,11 +82,11 @@ In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provi
 
 (2) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that at the end of the first year after the effective date of the Compact and at the end of each year thereafter, the providing agency or agencies shall return to the Government of the Marshall Islands any unexpended funds to be returned to the Fund Manager (as described in Article I of the Section 177 Agreement) to be covered into the Fund to be available for future use.
 
-(3) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that the Fund Manager shall retain the funds returned by the Government of the Marshall Islands pursuant to paragraph (2) of this subsection, shall invest and manage such funds, and at the end of 15 years after the effective date of the Compact, shall make from the total amount so retained and the proceeds thereof annual disbursements sufficient to continue to make payments for the provision of health services as specified in paragraph (1) of this subsection to such extent as may be provided in contracts between the Government of the Marshall Islands and appropriate United States providers of such health services.
+(3) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that theFund Manager shall retain the funds returned by the Government of the Marshall Islands pursuant to paragraph (2) of this subsection, shall invest and manage such funds, and at the end of 15 years after the effective date of the Compact, shall make from the total amount so retained and the proceeds thereof annual disbursements sufficient to continue to make payments for the provision of health services as specified in paragraph (1) of this subsection to such extent as may be provided in contracts between the Government of the Marshall Islands and appropriate United States providers of such health services.
 
 #### (i) Enjebi Community Trust Fund
 
-In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that notwithstanding any other provision of law, the Secretary of the Treasury shall establish on the books of the Treasury of the United States a fund having the status specified in Article V of the subsidiary agreement for the implementation of Section 177 of the Compact, to be known as the “Enjebi Community Trust Fund” (hereafter in this subsection referred to as the “Fund”), and shall credit to the Fund the amount of $7,500,000. Such amount, which shall be ex gratia, shall be in addition to and notcharged against any other funds provided for in the Compact and its subsidiary agreements, this joint resolution, or any other Act. Upon receipt by the President of the United States of the agreement described in this subsection, the Secretary of the Treasury, upon request of the Government of the Marshall Islands, shall transfer the Fund to the Government of the Marshall Islands, provided that the Government of the Marshall Islands agrees as follows:
+In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that notwithstanding any other provision of law, the Secretary of the Treasury shall establish on the books of the Treasury of the United States a fund having the status specified in Article V of the subsidiary agreement for the implementation of Section 177 of the Compact, to be known as the “Enjebi Community Trust Fund” (hereafter in this subsection referred to as the “Fund”), and shall credit to the Fund the amount of $7,500,000. Such amount, which shall be ex gratia, shall be in addition to and not charged against any other funds provided for in the Compact and its subsidiary agreements, this joint resolution, or any other Act. Upon receipt by the President of the United States of the agreement described in this subsection, the Secretary of the Treasury, upon request of the Government of the Marshall Islands, shall transfer the Fund to the Government of the Marshall Islands, provided that the Government of the Marshall Islands agrees as follows:
 
 #### (1) Enjebi trust agreement
 
@@ -120,7 +120,7 @@ In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provi
 
 #### (1) Declaration of policy
 
-&emsp;In the joint resolution of January 14, 1986 (Public Law 99–239), the Congress determined and declared that it is the policy of the United States, to be supported by the full faith and credit of the United States, that because the United States, through its nuclear testing and other activities, rendered Bikini Atoll unsafe for habitation by the people of Bikini, the United States will fulfill its responsibility for restoring Bikini Atoll to habitability, as set forth in paragraph (2) and (3) of this subsection.
+&emsp;In the joint resolution of January 14, 1986 (Public Law 99–239), the Congress determined and declared that it is the policy of the United States, to be supported by the full faith andcredit of the United States, that because the United States, through its nuclear testing and other activities, rendered Bikini Atoll unsafe for habitation by the people of Bikini, the United States will fulfill its responsibility for restoring Bikini Atoll to habitability, as set forth in paragraph (2) and (3) of this subsection.
 
 #### (2) Cleanup funds
 
@@ -132,7 +132,7 @@ In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provi
 
 #### (k) Agreement on audits
 
-The Comptroller General (and his duly authorized representatives) shall have the authoritiesnecessary to carry out his responsibilities under section 232 of the U.S.-RMI Compact and the agreement referred to in section 462(b)(4) of the U.S.-RMI Compact, including the following authorities:
+The Comptroller General (and his duly authorized representatives) shall have the authorities necessary to carry out his responsibilities under section 232 of the U.S.-RMI Compact and the agreement referred to in section 462(b)(4) of the U.S.-RMI Compact, including the following authorities:
 
 #### (1) General authority of the Comptroller General to audit
 
@@ -166,7 +166,7 @@ The Comptroller General (and his duly authorized representatives) shall have the
 
 #### (5) Cooperation by the Republic of the Marshall Islands
 
-&emsp;The Government of the Republic of the Marshall Islands will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
+&emsp;The Government of the Republic of the Marshall Islands will cooperate fully with theComptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
 #### (<i>l</i>) Kwajalein
 
@@ -211,8 +211,4 @@ Public Law 96–205, referred to in subsecs. (f)(1) and (h)(1), is Pub. L. 96–
 Public Law 102–154, referred to in subsec. (g)(4), is Pub. L. 102–154, Nov. 13, 1991, 105 Stat. 990, as amended, known as the Department of the Interior and Related Agencies Appropriations Act, 1992. For complete classification of this Act to the Code, see Tables.
 
 This joint resolution, referred to in subsecs. (i) and (k)(5), is Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under sections 1901 and 1921 of this title and amended provisions set out as a note under section 3101 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1921d of this title.
 

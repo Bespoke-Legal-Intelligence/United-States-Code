@@ -12,7 +12,3 @@ Provisions of Public Law 92–41, referred to in text, which authorized the Secr
 
 Pub. L. 102–572, title IX, §907(a)(3), Oct. 29, 1992, 106 Stat. 4518, provided that: “If any interest is due under section 12 of the Contract Disputes Act of 1978 \[41 U.S.C. 611\] on a claim for which the certification under section 6(c)(1) \[41 U.S.C. 605(c)(1)\] is, on or after the date of the enactment of this Act \[Oct. 29, 1992\], found to be defective shall be paid from the later of the date on which the contracting officer initially received the claim or the date of the enactment of this Act.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 sections 3902, 3907.
-

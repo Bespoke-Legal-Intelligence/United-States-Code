@@ -40,7 +40,3 @@ The United States Housing Act of 1937, referred to in subsecs. (a)(1), (b)(1), a
 
 Section 181(a)(3) of Pub. L. 102–550 provided that: “The Comptroller General of the United States shall conduct an audit of all of the technical assistance contracts awarded for fiscal years 1993 and 1994 pursuant to section 402 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12870\]. The Comptroller General shall submit a report to the Congress describing the results of such audit not later than September 30, 1994.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12899g of this title.
-

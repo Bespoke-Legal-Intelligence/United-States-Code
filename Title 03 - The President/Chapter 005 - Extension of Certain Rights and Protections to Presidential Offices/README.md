@@ -78,10 +78,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 28 sections 1296, 1346, 1413, 3901, 3902, 3903, 3904, 3905, 3906, 3907.
-
 
 ---
 

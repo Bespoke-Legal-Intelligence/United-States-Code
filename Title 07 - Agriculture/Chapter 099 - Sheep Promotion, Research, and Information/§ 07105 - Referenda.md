@@ -8,7 +8,7 @@
 
 #### (2) Approval of order
 
-&emsp;The order shall become effective only if the Secretary determines that the order has been approved by not less than a majority of the producers, feeders, and importers voting in the referendum or at least 2/3 of the production represented by persons voting in the referendum.
+&emsp;The order shall become effective only if the Secretary determines that the order has been approved by not less than a majority of the producers, feeders, and importers voting in the referendum or at least 2/3 of the productionrepresented by persons voting in the referendum.
 
 #### (b) Additional referenda
 
@@ -49,8 +49,4 @@
 &emsp;The Secretary shall determine a method of allocating, by a pro rata percentage of annual projected or actual assessments from importers, the volume of production represented by importers in referenda conducted pursuant to this section.
 
 (Pub. L. 103–407, §6, Oct. 22, 1994, 108 Stat. 4223.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7103 of this title.
 

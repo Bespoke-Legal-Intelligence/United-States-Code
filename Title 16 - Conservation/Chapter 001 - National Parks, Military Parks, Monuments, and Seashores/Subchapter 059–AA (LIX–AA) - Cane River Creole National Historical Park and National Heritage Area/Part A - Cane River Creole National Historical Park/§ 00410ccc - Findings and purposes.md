@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) the Cane River area is the locale of the development of Creole culture, from French-Spanish interactions of the early 18th century of today's living communities;
 
-&emsp;(3) the Cane River, historically a segment of the Red River, provided the focal point for early settlement, serving as a transportation route upon which commerce and communication reached all parts of the colony;
+&emsp;(3) the Cane River, historically a segment of the Red River, provided the focal point forearly settlement, serving as a transportation route upon which commerce and communication reached all parts of the colony;
 
 &emsp;(4) although a number of Creole structures, sites, and landscapes exist in Louisiana and elsewhere, unlike the Cane River area, most are isolated examples, and lack original outbuilding complexes or integrity;
 
@@ -35,8 +35,4 @@ The purposes of this subchapter are to—
 #### Short Title
 
 Section 301 of Pub. L. 103–449 provided that: “Titles III and IV of this Act \[enacting this subchapter\] may be cited as the ‘Cane River Creole National Historical Park and National Heritage Area Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410ccc–21 of this title.
 

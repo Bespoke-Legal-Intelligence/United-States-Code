@@ -14,7 +14,3 @@ After 6 months after November 18, 1988, no public vessel shall dispose of potent
 
 (Pub. L. 100–688, title III, §3104, Nov. 18, 1988, 102 Stat. 4152.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2504 of this title.
-

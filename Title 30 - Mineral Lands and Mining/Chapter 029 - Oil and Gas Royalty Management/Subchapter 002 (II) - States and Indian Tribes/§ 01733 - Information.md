@@ -22,7 +22,3 @@ Whenever any individual, State, or Indian tribe has obtained possession of infor
 
 (Pub. L. 97–451, title II, §203, Jan. 12, 1983, 96 Stat. 2458.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 196, 1731a, 1732 of this title.
-

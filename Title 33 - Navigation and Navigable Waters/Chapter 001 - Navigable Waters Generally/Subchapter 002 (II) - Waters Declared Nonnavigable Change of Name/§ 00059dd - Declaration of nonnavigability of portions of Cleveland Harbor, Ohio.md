@@ -40,11 +40,11 @@ Unless the Secretary of the Army finds, after consultation with local and region
 
 &emsp;&emsp;Thence south 33°–53–08 east on the southwesterly right-of-way line of East 9th Street a distance of 368.79 feet to a drill hole set;
 
-&emsp;&emsp;Thence southwesterly along the arc of a curve to the right with a radius of 40.00 feet,and whose chord bears south 11°–06–52 west 56.57 feet, an arc distance of 62.83 feet to the true place of beginning containing 174,764 square feet (4.012 acres) more or less.
+&emsp;&emsp;Thence southwesterly along the arc of a curve to the right with a radius of 40.00 feet, and whose chord bears south 11°–06–52 west 56.57 feet, an arc distance of 62.83 feet to the true place of beginning containing 174,764 square feet (4.012 acres) more or less.
 
 #### (e) Limits on applicability; regulatory requirements
 
-The declaration under subsection (d) of this section shall apply only to those parts of the areas described in subsection (d) of this section which are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities. All such work is subject to all applicable Federal statutes and regulations, including sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
+The declaration under subsection (d) of this section shall apply only to those parts of theareas described in subsection (d) of this section which are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities. All such work is subject to all applicable Federal statutes and regulations, including sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
 
 #### (f) Expiration date
 

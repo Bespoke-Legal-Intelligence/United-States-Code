@@ -24,7 +24,7 @@
 
 &emsp;(A) Subject to subparagraph (B), the Secretary may make a grant under paragraph (1) only if, in the case of any service under such paragraph that is covered in the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
 
-&emsp;&emsp;(i) the entity involved will provide the service directly, and the entity has enteredinto a participation agreement under the State plan and is qualified to receive payments under such plan; or
+&emsp;&emsp;(i) the entity involved will provide the service directly, and the entity has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
 &emsp;&emsp;(ii) the entity will enter into an agreement with an organization under which the organization will provide the service, and the organization has entered into such a participation agreement and is qualified to receive such payments.
 
@@ -128,7 +128,7 @@ The Secretary may award a grant under subsection (a) of this section only if the
 
 &emsp;(1) the entity will provide home visiting services with reasonable frequency—
 
-&emsp;&emsp;(A) to families with pregnant women, as early in the pregnancy as is practicable, and until the infant reaches at least 2 years of age; and
+&emsp;&emsp;(A) to families with pregnant women, as early in the pregnancy as is practicable, anduntil the infant reaches at least 2 years of age; and
 
 &emsp;&emsp;(B) to other eligible families, for at least 2 years; and
 
@@ -192,7 +192,7 @@ The Secretary may make a grant under subsection (a) of this section only if—
 
 &emsp;(2) the application contains the agreements and assurances required in this section, and the information required in subsection (j) of this section;
 
-&emsp;(3) the application contains evidence that the preparation of the application has been coordinated with the State agencies responsible for maternal and child health and child welfare, and coordinated with services provided under part H <sup>1</sup> of the Individuals with Disabilities Education Act; and
+&emsp;(3) the application contains evidence that the preparation of the application has been coordinated with the State agencies responsible for maternal and child health and child welfare, and coordinated with services provided under part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\]; and
 
 &emsp;(4) the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
@@ -256,13 +256,13 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there is authorized to be appropriated $30,000,000 for each of the fiscal years 1993 and 1994.
 
-(July 1, 1944, ch. 373, title III, §399, as added Pub. L. 102–321, title V, §502(2), July 10, 1992, 106 Stat. 427; amended Pub. L. 103–448, title II, §204(w)(2)(D), Nov. 2, 1994, 108 Stat. 4746.)
+(July 1, 1944, ch. 373, title III, §399, as added Pub. L. 102–321, title V, §502(2), July 10, 1992, 106 Stat. 427; amended Pub. L. 103–448, title II, §204(w)(2)(D), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 108–446, title III, §305(i)(2), Dec. 3, 2004, 118 Stat. 2806.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (a)(3)(A), (b)(6), and (m)(7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV, V, and XIX of the Act are classified generally to subchapters IV (§601 et seq.), V (§701 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (n)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part H of the Act was classified generally to subchapter VIII (§1471 et seq.) of chapter 33 of Title 20, Education, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (n)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Prior Provisions
 
@@ -271,6 +271,8 @@ A prior section 399 of act July 1, 1944, was renumbered section 398A by section 
 Another prior section 399 of act July 1, 1944, ch. 373, title III, formerly §399b, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1066; renumbered §399a and amended Mar. 13, 1970, Pub. L. 91–212, §10(c)(3), (d)(2)(A), 84 Stat. 67; renumbered §399, July 23, 1974, Pub. L. 93–353, title II, §204, 88 Stat. 373; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, which related to the maintenance of records by recipients of grants and audits thereof by the Secretary of Health and Human Services and the Comptroller General of the United States, was classified to section 280b–11 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
 #### Amendments
+
+2004—Subsec. (n)(3). Pub. L. 108–446 substituted “part C” for “part H”.
 
 1994—Subsec. (b)(6). Pub. L. 103–448 substituted “special supplemental nutrition program” for “special supplemental food program”.
 

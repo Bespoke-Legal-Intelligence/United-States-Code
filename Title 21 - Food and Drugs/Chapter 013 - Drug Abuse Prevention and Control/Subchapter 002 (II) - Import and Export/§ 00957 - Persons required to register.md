@@ -70,9 +70,5 @@ Section 1104 of Pub. L. 91–513, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 > whichever occurs first.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 954, 960, 965 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,3 @@ Proc. 2912, 3 C.F.R., 1950 Supp., p. 71, referred to in text, is an erroneous ci
 
 Declaration of national emergency in effect on Sept. 14, 1976, was terminated two years from that date by section 1601 of Title 50, War and National Defense.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 951 of this title.
-

@@ -8,7 +8,3 @@ The boundaries of the recreation area, as well as the boundaries of the inland s
 
 The boundaries of the Siuslaw National Forest were extended by section 6 of Pub. L. 92–260 to include all lands described in accordance with this section. See note set out under sections 486a to 486w of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460z–2 of this title.
-

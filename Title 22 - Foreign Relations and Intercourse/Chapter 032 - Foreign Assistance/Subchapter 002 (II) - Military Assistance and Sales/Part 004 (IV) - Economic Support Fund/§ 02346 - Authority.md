@@ -2,7 +2,7 @@
 
 #### (a) Policy requirements for assistance
 
-The Congress recognizes that, under special economic, political, or security conditions, the national interests of the United States may require economic support for countries or in amounts which could not be justified solely under part I of subchapter I of this chapter or, in the case of countries in sub-Saharan Africa, part X of subchapter I of this chapter. In such cases, the President is authorized to furnish assistance to countries and organizations, on such terms and conditions as he may determine, in order to promote economic or political stability. To the maximum extent feasible, the President shall provide assistance under this part consistent with the policy directions, purposes, and programs of subchapter I of this chapter.
+The Congress recognizes that, under special economic, political, or security conditions, the national interests of the United States may require economic support for countries or in amounts which could not be justified solely under part I of subchapter I of this chapter or, in the case of countries in sub-Saharan Africa, part X of subchapter I of this chapter. In such cases, the President is authorized to furnish assistance to countries and organizations, on such terms and conditions as he may determine, in order to promote economic or political stability. To the maximum extent feasible, the Presidentshall provide assistance under this part consistent with the policy directions, purposes, and programs of subchapter I of this chapter.
 
 #### (b) Responsibility for policy decisions and justifications
 
@@ -10,7 +10,7 @@ The Secretary of State shall be responsible for policy decisions and justificati
 
 #### (c) Detailed justification for uses and purposes of funds
 
-As part of the annual presentation materials for foreign assistance submitted to the Congress, the agency primarily responsible for administering subchapter II of this chapter shall provide a detailed justification for the uses and the purposes of the funds provided under this part. Such material shall include, but not be limited to, information concerning the amountsand kinds of cash grant transfers, the amounts and kinds of budgetary and balance-of-payments support provided, and the amounts and kinds of project assistance provided with funds made available under this part.
+As part of the annual presentation materials for foreign assistance submitted to the Congress, the agency primarily responsible for administering subchapter II of this chapter shall provide a detailed justification for the uses and the purposes of the funds provided under this part. Such material shall include, but not be limited to, information concerning the amounts and kinds of cash grant transfers, the amounts and kinds of budgetary and balance-of-payments support provided, and the amounts and kinds of project assistance provided with funds made available under this part.
 
 #### (d) Repealed. Pub. L. 105–277, div. A, §101(d) \[title V, §533(a)(5)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–180
 
@@ -66,9 +66,25 @@ Requirement Relating to Funds Withheld.—Notwithstanding any other provision of
 
 \[For definition of “appropriate congressional committees” as used in section 1224 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
+#### Assistance to Afghanistan
+
+Pub. L. 99–83, title IX, §904, Aug. 8, 1985, 99 Stat. 268, provided that:
+
+“(a)
+
+Authorization.—The President may make available funds authorized to be appropriated to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\] (relating to the economic support fund) for the provision of food, medicine, or other humanitarian assistance to the Afghan people, notwithstanding any other provision of law.
+
+“(b)
+
+Earmarking of Funds.—Each fiscal year, not less than $15,000,000 of the aggregate amount of funds available to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 shall be available only for humanitarian assistance to the Afghan people pursuant to subsection (a) of this section.
+
+“(c)
+
+Effective Dates.—This section shall take effect on the date of enactment of this Act \[Aug. 8, 1985\], except that subsection (b) shall not apply to fiscal year 1985.”
+
 #### Reports on Economic Conditions Prevailing in Egypt, Israel, Turkey, and Portugal
 
-Section 1205 of Pub. L. 99–83 provided that:
+Pub. L. 99–83, title XII, §1205, Aug. 8, 1985, 99 Stat. 277, provided that:
 
 “(a)
 
@@ -82,13 +98,9 @@ Annual Reports on Economic Conditions.—In order to assist the Congress in exam
 
 #### References to Security Supporting Assistance as References to Assistance Under Part IV of Subchapter II of This Chapter
 
-Section 10(b)(6) of Pub. L. 95–384 provided that: “After September 30, 1978, any reference in any law to securitysupporting assistance shall be deemed to be a reference to assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[this part\].”
+Section 10(b)(6) of Pub. L. 95–384 provided that: “After September 30, 1978, any reference in any law to security supporting assistance shall be deemed to be a reference to assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[this part\].”
 
 #### Security Supporting Assistance Program for Egypt
 
 Section 9 of Pub. L. 95–92, as amended by Pub. L. 95–384, §29(c)(2)(A), Sept. 26, 1978, 92 Stat. 747, provided that: “It is the sense of the Congress that the security supporting assistance program for Egypt plays an important role in the Middle East peace effort and that the Executive branch should concentrate its efforts in order to make the program a success.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5854 of this title; title 12 section 635r.
 

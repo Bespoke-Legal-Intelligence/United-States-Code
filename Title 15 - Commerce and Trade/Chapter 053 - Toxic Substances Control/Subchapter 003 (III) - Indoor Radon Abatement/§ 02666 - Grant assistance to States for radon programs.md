@@ -48,7 +48,7 @@ Beginning in fiscal year 1991, the Administrator shall give a preference for gra
 
 #### (e) Priority activities and projects
 
-The Administrator shall support eligible activities contained in State applications with the full amount of available funds. In the event that State applications for funds exceed the totalfunds available in a fiscal year, the Administrator shall give priority to activities or projects proposed by States based on each of the following criteria:
+The Administrator shall support eligible activities contained in State applications with the full amount of available funds. In the event that State applications for funds exceed the total funds available in a fiscal year, the Administrator shall give priority to activities or projects proposed by States based on each of the following criteria:
 
 &emsp;(1) The seriousness and extent of the radon contamination problem to be addressed.
 
@@ -64,7 +64,7 @@ The Federal share of the cost of radon program activities implemented with Feder
 
 #### (g) Assistance to local governments
 
-States may, at the Governor's discretion, use funds from grants under this section to assist local governments in implementation of activities eligible for assistance under paragraphs (2), (3), and (6) of subsection (c) of this section.
+States may, at the Governor's discretion, use funds from grants under this section to assistlocal governments in implementation of activities eligible for assistance under paragraphs (2), (3), and (6) of subsection (c) of this section.
 
 #### (h) Information
 
@@ -97,8 +97,4 @@ States may, at the Governor's discretion, use funds from grants under this secti
 (5) No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under section 2665(a)(2) of this title.
 
 (Pub. L. 94–469, title III, §306, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2758.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2665 of this title.
 

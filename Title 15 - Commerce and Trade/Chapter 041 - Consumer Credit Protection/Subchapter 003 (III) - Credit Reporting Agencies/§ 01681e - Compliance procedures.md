@@ -56,7 +56,7 @@ A consumer reporting agency may not prohibit a user of a consumer report furnish
 
 &emsp;Notwithstanding paragraph (1) or (2), a person who procures a consumer report for purposes of reselling the report (or any information in the report) shall not disclose the identity of the end-user of the report under paragraph (1) or (2) if—
 
-&emsp;&emsp;(A) the end user is an agency or department of the United States Government which procures the report from the person for purposes of determining the eligibility of the consumer concerned to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) <sup>1</sup> of this title); and
+&emsp;&emsp;(A) the end user is an agency or department of the United States Governmentwhich procures the report from the person for purposes of determining the eligibility of the consumer concerned to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) <sup>1</sup> of this title); and
 
 &emsp;&emsp;(B) the agency or department certifies in writing to the person reselling the report that nondisclosure is necessary to protect classified information or the safety of persons employed by or contracting with, or undergoing investigation for work or contracting with the agency or department.
 
@@ -79,10 +79,6 @@ Amendment by Pub. L. 105–107 effective as if included in chapter 1 of subtitle
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1681b, 1681g of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

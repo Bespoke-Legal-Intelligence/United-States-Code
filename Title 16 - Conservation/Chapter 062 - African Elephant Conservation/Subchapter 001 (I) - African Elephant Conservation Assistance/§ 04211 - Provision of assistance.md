@@ -54,7 +54,3 @@ Each entity that receives assistance under this section shall provide such perio
 
 Subsecs. (e), (f). Pub. L. 107–111, §5, added subsec. (e) and redesignated former subsec. (e) as (f).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4246 of this title.
-

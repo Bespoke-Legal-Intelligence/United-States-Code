@@ -46,7 +46,7 @@ As a condition of authorization to accept and redeem coupons, the Secretary may 
 
 #### (f) Fines for unauthorized third parties that accept food stamps
 
-The Secretary may impose a fine against any person not approved by the Secretary to accept and redeem food coupons who violates any provision of this chapter or a regulation issued under this chapter, including violations concerning the acceptance of food coupons. The amount of any such fine shall be established by the Secretary and may be assessed and collectedin accordance with regulations issued under this chapter separately or in combination with any fiscal claim established by the Secretary. The Attorney General of the United States may institute judicial action in any court of competent jurisdiction against the person to collect the fine.
+The Secretary may impose a fine against any person not approved by the Secretary to accept and redeem food coupons who violates any provision of this chapter or a regulation issued under this chapter, including violations concerning the acceptance of food coupons. The amount of any such fine shall be established by the Secretary and may be assessed and collected in accordance with regulations issued under this chapter separately or in combination with any fiscal claim established by the Secretary. The Attorney General of the United States may institute judicial action in any court of competentjurisdiction against the person to collect the fine.
 
 #### (g) Disqualification of retailers who are disqualified under WIC program
 
@@ -119,8 +119,4 @@ Amendment by Pub. L. 97–253 effective Sept. 8, 1982, see section 193(a) of Pub
 #### Effective Date of 1977 Amendment
 
 Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2016, 2018, 2023 of this title; title 26 section 6109; title 42 section 405.
 

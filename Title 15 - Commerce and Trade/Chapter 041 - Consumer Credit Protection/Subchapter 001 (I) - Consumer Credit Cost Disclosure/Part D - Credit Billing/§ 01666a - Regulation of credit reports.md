@@ -14,7 +14,3 @@ A creditor shall report any subsequent resolution of any delinquencies reported 
 
 (Pub. L. 90–321, title I, §162, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1513.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1637, 1666 of this title.
-

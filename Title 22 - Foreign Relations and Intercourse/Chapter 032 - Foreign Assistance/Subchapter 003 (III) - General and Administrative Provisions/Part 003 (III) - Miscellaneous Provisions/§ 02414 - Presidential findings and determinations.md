@@ -28,7 +28,3 @@ The Foreign Military Sales Act, referred to in subsecs. (a) and (d), is Pub. L. 
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6448 of this title.
-

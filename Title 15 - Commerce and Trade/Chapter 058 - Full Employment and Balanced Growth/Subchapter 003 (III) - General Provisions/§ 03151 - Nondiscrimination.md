@@ -34,9 +34,5 @@ The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352
 
 1998—Subsec. (d). Pub. L. 105–277 substituted “include, in the annual report referred to in section 1022a(f)(2)(B) of this title,” for “include, in the annual Employment and Training Report of the President provided under section 705(a) of CETA,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3116 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

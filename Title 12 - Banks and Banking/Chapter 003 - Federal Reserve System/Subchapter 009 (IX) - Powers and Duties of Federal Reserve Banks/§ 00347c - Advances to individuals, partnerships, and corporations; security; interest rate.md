@@ -16,7 +16,3 @@ Section is comprised of the thirteenth par. of section 13 of act Dec. 23, 1913, 
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 84, 412, 461 of this title.
-

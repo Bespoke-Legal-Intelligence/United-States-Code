@@ -16,11 +16,7 @@
 
 (c) The provisions of this section shall not create nor authorize the creation of any obligations on the part of the Government of the United States with respect to any expenditures for highway construction or survey heretofore or hereafter undertaken in any of the countries enumerated in subsection (a) of this section, other than the expenditures authorized by the provisions of this section.
 
-(d) Appropriations made pursuant to any authorizations heretofore, or hereafter enacted for the Inter-American Highway shall be considered available for expenditure by the Secretary for necessary administrative and engineering expenses in connection with the Inter-American Highway program.
+(d) Appropriations made pursuant to any authorizations heretofore, or hereafter enacted for the Inter-American Highway shall be considered available for expenditure by the Secretary fornecessary administrative and engineering expenses in connection with the Inter-American Highway program.
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 909.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 216 of this title.
 

@@ -12,7 +12,7 @@
 
 &emsp;(ii) shall, after the end of any period referred to in subparagraph (A)(i), be adjusted to reflect all adjustments made under section 8462(b) after the end of the period referred to in subparagraph (A)(i), whether the amount actually payable to the annuitant under this section in any month is determined under this subsection or otherwise.
 
-(2)(A) For any month in which an annuitant is entitled both to an annuity under this subchapter as computed under paragraph (1) and to a disability insurance benefit under section 223 of the Social Security Act, the annuitant's annuity for such month (as so computed) shall—
+(2)(A) For any month in which an annuitant is entitled both to an annuity under this subchapter as computed under paragraph (1) and to a disability insurance benefit under section 223of the Social Security Act, the annuitant's annuity for such month (as so computed) shall—
 
 &emsp;(i) if such month occurs during a period referred to in paragraph (1)(A)(i), be reduced by 100 percent of the annuitant's assumed disability insurance benefit for such month; or
 
@@ -22,7 +22,7 @@
 
 (B)(i) For purposes of this paragraph, the assumed disability insurance benefit of an annuitant for any month shall be equal to—
 
-&emsp;(I) the amount of the disability insurance benefit to which the annuitant is entitledunder section 223 of the Social Security Act for the month in which the annuity under this subchapter commences, or is restored, or, if no entitlement to such disability insurance benefits exists for such month, the first month thereafter for which the annuitant is entitled both to an annuity under this subchapter and disability insurance benefits under section 223 of the Social Security Act, adjusted by
+&emsp;(I) the amount of the disability insurance benefit to which the annuitant is entitled under section 223 of the Social Security Act for the month in which the annuity under this subchapter commences, or is restored, or, if no entitlement to such disability insurance benefits exists for such month, the first month thereafter for which the annuitant is entitled both to an annuity under this subchapter and disability insurance benefits under section 223 of the Social Security Act, adjusted by
 
 &emsp;(II) all adjustments made under section 8462(b) after the end of the period referred to in paragraph (1)(A)(i) (or, if later, after the end of the month preceding the first month for which the annuitant is entitled both to an annuity under this subchapter and disability insurance benefits under section 223 of the Social Security Act) and before the start of the month involved (without regard to whether the annuitant's annuity was affected by any of those adjustments).
 
@@ -95,8 +95,4 @@ Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and ap
 #### Effective Date of 1988 Amendment
 
 Section 122(d) of Pub. L. 100–238 provided that: “The amendments made by this section \[amending this section\] shall be effective as of January 1, 1987, as if they had been enacted as part of the Federal Employees’ Retirement System Act of 1986 (Public Law 99–335; 100 Stat. 514 and following).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8415, 8418, 8419, 8442, 8451, 8455, 8462 of this title; title 22 section 4071d.
 

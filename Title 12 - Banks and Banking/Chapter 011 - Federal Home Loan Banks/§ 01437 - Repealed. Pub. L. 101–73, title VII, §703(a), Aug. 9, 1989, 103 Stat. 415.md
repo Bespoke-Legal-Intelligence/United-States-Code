@@ -196,7 +196,7 @@ Uniform treatment of insured deposits.—The Federal Deposit Insurance Corporati
 
 &emsp;&emsp;“(A) review its regulations, principles, and interpretations for deposit insurance coverage and those established by the Federal Savings and Loan Insurance Corporation; and
 
-&emsp;&emsp;“(B) on or before the end of the 270-day period beginning on the date of the enactment of this Act, prescribe a uniform set of regulations which shall be applicable to all insured deposits in insured depository institutions (except to the extent any provision of this Act, any amendment made by this Act to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], or any other provision of law requires or explicitly permits the Federal Deposit Insurance Corporation to treat insured deposits of Savings Association Insurance Fund members differently than insured deposits of Bank Insurance Fund members).
+&emsp;&emsp;“(B) on or before the end of the 270-day period beginning on the date of the enactment of this Act, prescribe a uniform set of regulations which shall be applicable to all insured deposits in insured depository institutions (except to the extent any provision of this Act, any amendment made by this Act to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], or any other provision of law requiresor explicitly permits the Federal Deposit Insurance Corporation to treat insured deposits of Savings Association Insurance Fund members differently than insured deposits of Bank Insurance Fund members).
 
 &emsp;“(4)
 
@@ -330,7 +330,7 @@ FSLIC Employees Engaged in Conservatorship or Receivership Functions.—Individu
 
 #### “SEC. 406. REPORT.
 
-“Before the end of the 60-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Chairman of the Federal Home Loan Bank Board shall provide by written report to the Secretary of the Treasury, the Director of the Office of Management and Budget, and the Congress, a final accounting of the finances and operations of the Federal Savings and Loan Insurance Corporation.”
+“Before the end of the 60-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Chairman of the Federal Home Loan Bank Board shallprovide by written report to the Secretary of the Treasury, the Director of the Office of Management and Budget, and the Congress, a final accounting of the finances and operations of the Federal Savings and Loan Insurance Corporation.”
 
 #### Transferred Employees of Federal Home Loan Banks and Joint Offices
 
@@ -496,7 +496,7 @@ Pub. L. 100–86, title IV, §415, Aug. 10, 1987, 101 Stat. 622, provided that:
 
 “(a)
 
-Banking Committee Review of Panel Actions.—The Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate shall monitor and review the actions taken by each review panel established pursuant to the amendment made by section 407(d) of this Act \[enacting former section 1442a of this title\].
+Banking Committee Review of Panel Actions.—The Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee onBanking, Housing, and Urban Affairs of the Senate shall monitor and review the actions taken by each review panel established pursuant to the amendment made by section 407(d) of this Act \[enacting former section 1442a of this title\].
 
 “(b)
 
@@ -538,7 +538,7 @@ Study Required.—The Federal Home Loan Bank Board shall conduct a study of the 
 
 “(b)
 
-Report Required.—Not later than 18 months after the date of enactment of this Act \[Aug. 10, 1987\], the Federal Home Loan Bank Board shall submit to the Committee on Banking, Finance and Urban Affairs ofthe House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, a report containing the findings and conclusions of the Board with respect to the study required under subsection (a), including—
+Report Required.—Not later than 18 months after the date of enactment of this Act \[Aug. 10, 1987\], the Federal Home Loan Bank Board shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, a report containing the findings and conclusions of the Board with respect to the study required under subsection (a), including—
 
 &emsp;“(1) the findings and conclusions of the Board concerning the losses to the insurance fund and the degree to which such losses were the result of direct investment activities with respect to each of the classes of institutions described in subsection (a); and
 

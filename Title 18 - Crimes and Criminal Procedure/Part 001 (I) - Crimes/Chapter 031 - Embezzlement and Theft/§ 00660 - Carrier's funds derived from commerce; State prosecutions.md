@@ -16,7 +16,7 @@ Section consolidates a portion of section 409 with section 412, both of title 18
 
 Definitive language in section 412 of title 18, U.S.C., 1940 ed., as to offense being a felony was deleted to conform with section 1 of this title. (See reviser's note under section 550 of this title.)
 
-Words “imprisoned” was substituted for “confined in the penitentiary” in section 412 of title 18, U.S.C., 1940 ed., in view of power of Attorney General under section 4082 of this title.
+Words “imprisoned” was substituted for “confined in the penitentiary” in section 412 of title 18, U.S.C., 1940ed., in view of power of Attorney General under section 4082 of this title.
 
 Minimum punishment provision “less than one year nor” in section 412 of title 18, U.S.C., 1940 ed., was omitted for reasons in reviser's note under section 203 of this title.
 

@@ -14,7 +14,3 @@ In the case of small-scale or scattered site housing, the Secretary may provide 
 
 (Pub. L. 101–625, title II, §226, Nov. 28, 1990, 104 Stat. 4114.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12821 of this title.
-

@@ -12,7 +12,3 @@ Acceptance by Librarian.—The Librarian may accept, without regard to chapters 
 
 (Added Pub. L. 106–474, title II, §201(a), Nov. 9, 2000, 114 Stat. 2094.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 152411 of this title.
-

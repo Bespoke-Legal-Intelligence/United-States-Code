@@ -6,7 +6,7 @@ Each contracting agency shall have authority, notwithstanding any provisions of 
 
 #### (b) Evidence required; conclusiveness of determinations
 
-Any contracting agency may prescribe the amount and kind of evidence required to identify any person as a war contractor, or any contract, agreement, or purchase order as a war contract for any of the purposes of this chapter.Any determination so made that any person is a war contractor, or that any contract, agreement, or purchase order is a war contract, shall be final and conclusive for any of the purposes of this chapter.
+Any contracting agency may prescribe the amount and kind of evidence required to identify any person as a war contractor, or any contract, agreement, or purchase order as a war contract for any of the purposes of this chapter. Any determination so made that any person is a war contractor, or that any contract, agreement, or purchase order is a war contract, shall be final and conclusive for any of the purposes of this chapter.
 
 #### (c) Appropriations
 
@@ -28,7 +28,7 @@ Any contracting agency may authorize or direct its officers and employees, as a 
 
 #### References in Text
 
-The First War Powers Act, 1941, referred to in subsec. (a), is act Dec. 18, 1941, ch. 593, 55 Stat. 838, which enacted sections 32 to 37 and 601 to 605, 611, and 616 to 622 of Title 50, Appendix, War and National Defense, and amended section 95a of Title 12, Banks and Banking, and section 5 of Title 50, Appendix. The First War Powers Act, 1941, was substantially repealed, with certain exceptions, by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 651. For complete classification of this Act to the Code, see Tables.
+The First War Powers Act, 1941, referred to in subsec. (a), is act Dec. 18, 1941, ch. 593, 55 Stat. 838, which enacted sections 32 to 37 and 601 to 605, 611, and 616 to 622 of Title 50, Appendix, War and National Defense, and amended section 95a of Title 12, Banks and Banking, and section 5 of Title 50, Appendix. The First War Powers Act, 1941, was substantially repealed, with certain exceptions, by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80Stat. 651. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

@@ -26,7 +26,7 @@ For the purposes of this subchapter, the term—
 
 &emsp;&emsp;(B) between persons who would be substantially affected by the decision;
 
-&emsp;(9) “neutral” means an individual who, with respect to an issue in controversy, functions specifically to aid the parties in resolving the controversy;
+&emsp;(9) “neutral” means an individual who, with respect to an issue in controversy, functionsspecifically to aid the parties in resolving the controversy;
 
 &emsp;(10) “party” means—
 
@@ -173,8 +173,4 @@ Disqualification of Representation or Assistance.—Any agency that adopts regul
 #### Definitions
 
 Section 10 of Pub. L. 101–552, as amended by Pub. L. 102–354, §5(b)(6), Aug. 26, 1992, 106 Stat. 946, provided that: “As used in this Act \[see Short Title note above\], the terms ‘agency’, ‘administrative program’, and ‘alternative means of dispute resolution’ have the meanings given such terms in section 571 of title 5, United States Code (enacted as section 581 of title 5, United States Code, by section 4(b) of this Act, and redesignated as section 571 of such title by section 3(b) of the Administrative Procedure Technical Amendments Act of 1991 \[Pub. L. 102–354\]).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 section 293; title 12 section 4806.
 

@@ -44,7 +44,3 @@ For purposes of this chapter—
 
 (Pub. L. 99–499, title III, §329, Oct. 17, 1986, 100 Stat. 1757.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13102 of this title.
-

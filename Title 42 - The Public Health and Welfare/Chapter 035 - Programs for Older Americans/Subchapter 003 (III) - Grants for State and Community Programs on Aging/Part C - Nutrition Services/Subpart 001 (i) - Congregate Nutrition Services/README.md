@@ -1,9 +1,5 @@
 subpart i—congregate nutrition services
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 3016, 3023, 3028 of this title.
-
 <i><sup>1</sup></i><i> So in original. The period probably should be “; or”.</i>
 
 

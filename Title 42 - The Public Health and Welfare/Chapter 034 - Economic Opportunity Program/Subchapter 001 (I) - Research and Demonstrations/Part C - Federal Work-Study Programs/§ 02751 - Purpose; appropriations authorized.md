@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this part is to stimulate and promote the part-time employment of students who are enrolled as undergraduate, graduate, or professional students and who are in need of earnings from employment to pursue courses of study at eligible institutions, and to encourage students receiving Federal student financial assistance to participate in community service activities that will benefit the Nation and engender in the students a sense of social responsibility and commitment to the community.
+The purpose of this part is to stimulate and promote the part-time employment of students who are enrolled as undergraduate, graduate, orprofessional students and who are in need of earnings from employment to pursue courses of study at eligible institutions, and to encourage students receiving Federal student financial assistance to participate in community service activities that will benefit the Nation and engender in the students a sense of social responsibility and commitment to the community.
 
 #### (b) Authorization of appropriations
 
@@ -32,7 +32,7 @@ For purposes of this part, the term “community services” means services whic
 
 Section was originally enacted as section 121 of the Economic Opportunity Act of 1964, Pub. L. 88–452, title I, Aug. 20, 1964, 78 Stat. 513. As such, it had been amended by Pub. L. 89–329, title IV, §441(2), Nov. 8, 1965, 79 Stat. 1249, and renumbered section 141 by Pub. L. 90–222, title I, §111(a), Dec. 23, 1967, 81 Stat. 726.
 
-Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was stricken to accommodate the transferalbut the amendment of this section by section 441(2) of Pub. L. 89–329 has not been stricken. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
+Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was stricken to accommodate the transferal but the amendment of this section by section 441(2) of Pub. L. 89–329 has not been stricken. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
 
 #### Prior Provisions
 
@@ -103,8 +103,4 @@ Section 135A(b) of Pub. L. 92–318 provided that: “The amendment made by subs
 #### References to Part C of Title I of the Economic Opportunity Act of 1964
 
 Section 131(c) of Pub. L. 90–575 provided that: “Any reference to any provision of part C of title I of the Economic Opportunity Act of 1964 in any law of the United States shall be deemed to be a reference to the corresponding provision of part C of title IV of the Higher Education Act of 1965 as amended by this section \[this part\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2752 of this title.
 

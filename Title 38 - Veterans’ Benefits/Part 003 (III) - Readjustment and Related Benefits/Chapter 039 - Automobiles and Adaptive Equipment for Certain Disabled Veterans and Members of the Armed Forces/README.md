@@ -33,10 +33,6 @@ This chapter as added by Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 1998,
 
 1974—Pub. L. 93–538, §§4(c), 5(b), Dec. 22, 1974, 88 Stat. 1737, inserted “; special training courses” in item 1903, and added item 1904.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 113, 1524 of this title; title 2 section 905; title 26 section 6334.
-
 
 ---
 

@@ -48,7 +48,7 @@ No penalty under this section shall be assessed until the person charged with a 
 
 #### (f) Deduction of penalty from sums owed by United States
 
-The amount of any penalty under this section, as finally determined <sup>2</sup> may be deducted from any sums owing by the United States to the person charged.
+The amount of any penalty under this section, as finally determined <sup>2</sup> may be deducted fromany sums owing by the United States to the person charged.
 
 #### (g) Compromise or reduction of penalties
 
@@ -85,10 +85,6 @@ No person shall be liable for a civil penalty under subsection (a) or (b) of thi
 #### References in Text
 
 Section 1712(a) of this title, referred to in subsec. (a)(2), was amended generally by Pub. L. 104–185, §6(g), Aug. 13, 1996, 110 Stat. 1715, and, as so amended, no longer contains a par. (2). See section 1712(a) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1720 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

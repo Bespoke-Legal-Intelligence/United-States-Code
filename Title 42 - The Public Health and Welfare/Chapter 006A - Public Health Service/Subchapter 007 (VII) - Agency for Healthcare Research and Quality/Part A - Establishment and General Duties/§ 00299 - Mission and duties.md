@@ -52,7 +52,7 @@ The purpose of the Agency is to enhance the quality, appropriateness, and effect
 
 #### (2) Process to ensure appropriate research
 
-&emsp;The Director shall establish a process to ensure that the requirements of paragraph (1)are reflected in the overall portfolio of research conducted and supported by the Agency.
+&emsp;The Director shall establish a process to ensure that the requirements of paragraph (1) are reflected in the overall portfolio of research conducted and supported by the Agency.
 
 #### (3) Office of Priority Populations
 
@@ -160,7 +160,7 @@ Findings.—Congress finds the following:
 
 Purposes.—The purposes of this section are—
 
-&emsp;“(1) to provide for a nationwide public debate about improving the health care system to provide every American with the ability to obtain quality, affordable health care coverage; and
+&emsp;“(1) to provide for a nationwide public debate about improving the health care system to provide everyAmerican with the ability to obtain quality, affordable health care coverage; and
 
 &emsp;“(2) to provide for a vote by Congress on the recommendations that result from the debate.
 
@@ -268,7 +268,7 @@ Community meetings.—
 
 &emsp;&emsp;“(A)
 
-In general.—Not later than 1 year after the date on which all the members of the Working Group have been appointed under subsection (d)(1) and appropriations are first made available to carry out this section, the Working Group shall initiate health care community meetings throughout the United States (in this paragraph referred to as ‘community meetings’). Such community meetings may be geographically or regionally based and shallbe completed within 180 days after the initiation of the first meeting.
+In general.—Not later than 1 year after the date on which all the members of the Working Group have been appointed under subsection (d)(1) and appropriations are first made available to carry out this section, the Working Group shall initiate health care community meetings throughout the United States (in this paragraph referred to as ‘community meetings’). Such community meetings may be geographically or regionally based and shall be completed within 180 days after the initiation of the first meeting.
 
 &emsp;&emsp;“(B)
 
@@ -302,7 +302,7 @@ Topics.—The community meetings shall, at a minimum, address the following ques
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) How should health care coverage be financed?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) What trade-offs are the American public willing to make in either benefits or financing to ensure access to affordable, high quality health care coverage and services?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) What trade-offs are the American public willing to make in either benefits or financingto ensure access to affordable, high quality health care coverage and services?
 
 &emsp;&emsp;&emsp;“(iv)
 
@@ -379,8 +379,4 @@ Health report to the american people.—There are authorized to be appropriated 
 #### Executive Order No. 13017
 
 Ex. Ord. No. 13017, Sept. 5, 1996, 61 F.R. 47659, as amended by Ex. Ord. No. 13040, Mar. 25, 1997, 62 F.R. 14773; Ex. Ord. No. 13056, July 21, 1997, 62 F.R. 39415, which established the Advisory Commission on Consumer Protection and Quality in the Health Care Industry, was revoked by Ex. Ord. No. 13138, §3(a), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 299b–2 of this title.
 

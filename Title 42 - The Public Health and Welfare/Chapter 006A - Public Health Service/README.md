@@ -1100,8 +1100,17 @@ Availability to public.
 | :--- | ---: |
 | 242q–4. | Definitions. |
 | 242q–5. | Authorization of appropriations. |
+| [242r.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242r%20-%20Improvement%20and%20publication%20of%20data%20on%20food-related%20allergic%20responses.md) | Improvement and publication of data on food-related allergic responses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Authorization of appropriations.
 
 #### Part B—Federal-State Cooperation
 
@@ -2271,6 +2280,88 @@ Supplement not supplant.
 
 |  |  |
 | :--- | ---: |
+| 247d–6a. | Authority for use of certain procedures regarding qualified countermeasure research and development activities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Expedited procurement authority.
+
+(c)
+
+Authority to expedite peer review.
+
+(d)
+
+Authority for personal services contracts.
+
+(e)
+
+Streamlined personnel authority.
+
+(f)
+
+Actions committed to agency discretion.
+
+|  |  |
+| :--- | ---: |
+| 247d–6b. | Strategic National Stockpile. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Strategic National Stockpile.
+
+(b)
+
+Smallpox vaccine development.
+
+(c)
+
+Additional authority regarding procurement of certain biomedical countermeasures; availability of special reserve fund.
+
+(d)
+
+Disclosures.
+
+(e)
+
+Definition.
+
+(f)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247d–6c. | Reports regarding authorities under this Act. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Secretary of Health and Human Services.
+
+(b)
+
+Government Accountability Office review.
+
+(c)
+
+Report regarding biocontainment facilities.
+
+(d)
+
+Designated congressional committees.
+
+|  |  |
+| :--- | ---: |
 | 247d–7. | Demonstration program to enhance bioterrorism training, coordination, and readiness. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2297,7 +2388,7 @@ Supplement not supplant.
 
 (f)
 
-General Accounting Office report.
+Government Accountability Office report.
 
 (g)
 
@@ -4371,8 +4462,13 @@ Grant authority of Secretary.
 
 Qualified organizations.
 
+(c)
+
+Pancreata islet cell transplantation or research.
+
 |  |  |
 | :--- | ---: |
+| [273a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20H%20-%20Organ%20Transplants/%C2%A7%2000273a%20-%20National%20living%20donor%20mechanisms.md) | National living donor mechanisms. |
 | [274\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20H%20-%20Organ%20Transplants/%C2%A7%2000274%20-%20Organ%20procurement%20and%20transplantation%20network.md) | Organ procurement and transplantation network. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4434,7 +4530,7 @@ Definitions.
 
 |  |  |
 | :--- | ---: |
-| [274f.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20H%20-%20Organ%20Transplants/%C2%A7%2000274f%20-%20Study%20by%20General%20Accounting%20Office.md) | Study by General Accounting Office. |
+| [274f.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20H%20-%20Organ%20Transplants/%C2%A7%2000274f%20-%20Reimbursement%20of%20travel%20and%20subsistence%20expenses%20incurred%20toward%20living%20organ%20donation.md) | Reimbursement of travel and subsistence expenses incurred toward living organ donation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -4444,7 +4540,123 @@ In general.
 
 (b)
 
-Report.
+Preference.
+
+(c)
+
+Certain circumstances.
+
+(d)
+
+Relationship to payments under other programs.
+
+(e)
+
+Definitions.
+
+(f)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 274f–1. | Public awareness; studies and demonstrations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Organ donation public awareness program.
+
+(b)
+
+Studies and demonstrations.
+
+(c)
+
+Grants to States.
+
+(d)
+
+Educational activities.
+
+(e)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 274f–2. | Grants regarding hospital organ donation coordinators. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authority.
+
+(b)
+
+Administration of coordination program.
+
+(c)
+
+Requirements.
+
+(d)
+
+Rule of construction.
+
+(e)
+
+Evaluations.
+
+(f)
+
+Matching requirement.
+
+(g)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| 274f–3. | Studies relating to organ donation and the recovery, preservation, and transportation of organs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Development of supportive information.
+
+(b)
+
+Activities.
+
+(c)
+
+Research and dissemination.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 274f–4. | Report relating to organ donation and the recovery, preservation, and transportation of organs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Requirements.
+
+(c)
+
+Initial report requirements.
 
 |  |  |
 | :--- | ---: |
@@ -5019,6 +5231,10 @@ Coordination with other children's programs.
 Evaluation.
 
 (d)
+
+Preference for States that allow students to self-administer medication to treat asthma and anaphylaxis.
+
+(e)
 
 Authorization of appropriations.
 
@@ -5980,6 +6196,10 @@ Membership; chairman; meetings.
 (c)
 
 Annual report.
+
+(d)
+
+Annual assessment on pancreatic islet cell transplantation.
 
 |  |  |
 | :--- | ---: |
@@ -9068,6 +9288,28 @@ Analyses and evaluation.
 
 Authorization of appropriations.
 
+|  |  |
+| :--- | ---: |
+| 290bb–25f. | Prevention and education programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Eligibility.
+
+(c)
+
+Use of funds.
+
+(d)
+
+Authorization of appropriations.
+
 #### subpart 3—center for mental health services
 
 |  |  |
@@ -9139,6 +9381,10 @@ Authorized activities.
 
 (d)
 
+Additional center.
+
+(e)
+
 Authorization of appropriations.
 
 |  |  |
@@ -9173,7 +9419,65 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
-| 290bb–36. | Suicide prevention for children and adolescents. |
+| 290bb–36. | Youth suicide early intervention and prevention strategies. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Eligible entity.
+
+(c)
+
+Preference.
+
+(d)
+
+Requirement for direct services.
+
+(e)
+
+Coordination and collaboration.
+
+(f)
+
+Rule of construction; religious and moral accommodation.
+
+(g)
+
+Evaluations and report.
+
+(h)
+
+Rule of construction; student medication.
+
+(i)
+
+Prohibition.
+
+(j)
+
+Parental consent.
+
+(k)
+
+Relation to education provisions.
+
+(<i>l</i>)
+
+Definitions.
+
+(m)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 290bb–36a. | Suicide prevention for youth. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -9227,7 +9531,49 @@ Study.
 
 (m)
 
+Definitions.
+
+(n)
+
 Authorization of appropriation.
+
+|  |  |
+| :--- | ---: |
+| 290bb–36b. | Mental and behavioral health services on campus. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Use of funds.
+
+(c)
+
+Eligible grant recipients.
+
+(d)
+
+Application.
+
+(e)
+
+Requirement of matching funds.
+
+(f)
+
+Reports.
+
+(g)
+
+Definition.
+
+(h)
+
+Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
@@ -19408,32 +19754,7 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
-| 300hh–12. | Strategic national stockpile. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Strategic national stockpile.
-
-(b)
-
-Smallpox vaccine development.
-
-(c)
-
-Disclosures.
-
-(d)
-
-Definition.
-
-(e)
-
-Authorization of appropriations.
-
-|  |  |
-| :--- | ---: |
+| 300hh–12. | Transferred. |
 | 300hh–13. | Evaluation of new and emerging technologies regarding bioterrorist attack and other public health emergencies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -19459,10 +19780,6 @@ Report.
 | 300aaa to 300aaa–13. Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 217a–1, 247b–4a, 299b–7, 300a–7, 701, 1320a–1, 1320a–7b, 1396r–4, 1437d, 3013, 3796gg, 14402 of this title; title 6 section 467; title 7 section 136a–1; title 8 section 1255a; title 18 section 42; title 20 section 1092a; title 21 section 397; title 35 sections 156, 287; title 38 section 8126.
 
 
 ---

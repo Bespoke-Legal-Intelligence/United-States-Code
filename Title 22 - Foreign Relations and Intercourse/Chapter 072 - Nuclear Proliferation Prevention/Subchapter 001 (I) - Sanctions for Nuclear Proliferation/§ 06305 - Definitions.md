@@ -36,7 +36,3 @@ For purposes of this subchapter—
 
 This subchapter, referred to in text, was in the original a reference to this part, meaning part B of title VIII of Pub. L. 103–236, which is classified principally to this subchapter. For complete classification of part B to the Code, see Effective Date note set out under section 6301 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 262d, 2593a, 2708, 2753, 2780, 2799aa–2, 6301, 6324 of this title; title 12 section 635.
-

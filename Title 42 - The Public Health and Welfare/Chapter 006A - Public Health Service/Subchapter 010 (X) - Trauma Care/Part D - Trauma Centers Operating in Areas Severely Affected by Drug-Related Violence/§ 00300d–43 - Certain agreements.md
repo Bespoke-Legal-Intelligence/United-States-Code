@@ -22,7 +22,7 @@ The Secretary may not make a grant under section 300d–41(a) of this title unle
 
 &emsp;(1) the center will operate a registry of trauma cases in accordance with the applicable guidelines described in section 300d–41(b)(2)(C) of this title, and will begin operation of the registry not later than 6 months after the date on which the center submits to the Secretary the application for the grant; and
 
-&emsp;(2) in carrying out paragraph (1), the center will maintain information on the number of trauma cases treated by the center and, for each such case, the extent to which the center incurs uncompensated costs in providing trauma care.
+&emsp;(2) in carrying out paragraph (1), the center will maintain information on the number of trauma cases treated by the center and, foreach such case, the extent to which the center incurs uncompensated costs in providing trauma care.
 
 (July 1, 1944, ch. 373, title XII, §1243, as added Pub. L. 102–321, title VI, §601, July 10, 1992, 106 Stat. 434.)
 

@@ -24,7 +24,3 @@ Guidelines prescribed under this part may be revised from time to time after not
 
 (Pub. L. 94–163, title III, §400B, as added Pub. L. 95–619, title III, §311(a), Nov. 9, 1978, 92 Stat. 3249.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6372b, 6372c of this title.
-

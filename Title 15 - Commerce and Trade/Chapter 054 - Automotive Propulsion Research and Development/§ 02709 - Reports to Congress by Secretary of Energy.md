@@ -24,9 +24,5 @@ The Secretary of Energy shall conduct a survey of developers, lending institutio
 
 Section 5914 of title 42, referred to in subsec. (a), was omitted from the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2703 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

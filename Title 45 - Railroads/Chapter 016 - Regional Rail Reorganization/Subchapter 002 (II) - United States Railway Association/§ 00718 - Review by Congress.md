@@ -2,7 +2,7 @@
 
 #### (a) General
 
-The Board of Directors of the Association shall deliver the final system plan adopted by the Association to both Houses of Congress and to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. The final system plan shall be deemed approved at the end of the first period of60 calendar days of continuous session of Congress after such date of transmittal unless either the House of Representatives or the Senate passes a resolution during such period stating that it does not favor the final system plan.
+The Board of Directors of the Association shall deliver the final system plan adopted by the Association to both Houses of Congress and to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. The final system plan shall be deemed approved at the end of the first period of 60 calendar days of continuous session of Congress after such date of transmittal unless either the House of Representatives or the Senate passes a resolution during such period stating that it does not favor the final system plan.
 
 #### (b) Revised plan
 
@@ -28,7 +28,7 @@ For purposes of this section—
 
 &emsp;(ii) provide for the offer to profitable railroads of rail properties designated in the final system plan to the Corporation, if such properties are not essential in the operation of other rail properties of the Corporation but are or would be integrally related to the operation of rail properties of (or which are offered pursuant to the final system plan to) such profitable railroad, or
 
-&emsp;(iii) provide for the designation of additional rail properties to the Corporation or to a subsidiary thereof to enable the Corporation to serve efficiently a line of railroad designated to the Corporation in the final system plan if such line does not connect with any other line of railroad so designated to the Corporation or if such line would be served more efficiently as a consequence of such designation.
+&emsp;(iii) provide for the designation of additional rail properties to the Corporation or to a subsidiary thereof to enable the Corporation to serve efficiently a line of railroad designated to the Corporation in the final system plan if such line does not connect with any other line of railroad so designated to the Corporation orif such line would be served more efficiently as a consequence of such designation.
 
 > Any designation to a profitable railroad pursuant to this paragraph shall comply with the second sentence of section 716(d)(4) of this title, and shall only be made upon a finding by the Association that such designation is integrally related to an offer of rail properties to a profitable railroad in the final system plan, that the goals of the final system plan require that the rail properties be operated as a part of the rail properties included in such offer, and that the implementation of such designation will not materially and adversely affect the impact of such offer on the profitability of the Corporation or any profitable railroad operating in the region. Any designation to a profitable railroad pursuant to this subsection, which amends any prior offer, shall terminate 30 days after February 5, 1976, unless, prior to such date, such profitable railroad has notified the Association in writing of its acceptance of such amendment to the prior offer.
 
@@ -65,10 +65,6 @@ See section 1341 of this title.
 #### Applicability of National Environmental Policy Act
 
 Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 702, 717, 719 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

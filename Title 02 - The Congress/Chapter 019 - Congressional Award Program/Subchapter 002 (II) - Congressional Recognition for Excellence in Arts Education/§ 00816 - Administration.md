@@ -20,7 +20,3 @@ Each school or student desiring an award under this subchapter shall submit an a
 
 (Pub. L. 96–114, title II, §207, as added Pub. L. 106–533, §1(a), Nov. 22, 2000, 114 Stat. 2551.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 814 of this title.
-

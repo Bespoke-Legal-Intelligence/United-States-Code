@@ -10,7 +10,3 @@ Such agreements may be revoked by either party upon one hundred and eighty days�
 
 (Pub. L. 95–608, title I, §109, Nov. 8, 1978, 92 Stat. 3074.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1918, 1923 of this title.
-

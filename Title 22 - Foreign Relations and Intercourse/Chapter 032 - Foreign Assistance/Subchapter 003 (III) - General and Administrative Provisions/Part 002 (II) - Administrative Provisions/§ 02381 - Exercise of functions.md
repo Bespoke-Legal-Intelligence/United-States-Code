@@ -6,7 +6,7 @@ The President may exercise any functions conferred upon him by this chapter thro
 
 #### (b) Eligibility of suppliers; debarment period; causes for debarment; conditions for reinstatement; periodic review
 
-The President shall issue and enforce regulations determining the eligibility of any personto receive funds made available under this chapter. A person may be suspended under such regulations for a temporary period pending the completion of an investigation and any resulting judicial or debarment proceedings, upon cause for belief that such person or an affiliate thereof probably has undertaken conduct which constitutes a cause for debarment; and, after an opportunity has been afforded to such person for a hearing, he may be debarred for an additional period, not to exceed three years. Among the causes for debarment shall be (1) offering or accepting a bribe or other illegal payment or credit in connection with any transaction financed with funds made available under this chapter; or (2) committing a fraud in the procurement or performance of any contract financed with funds made available under this chapter; or (3) acting in any other manner which shows a lack of integrity or honesty in connection with any transaction financed with funds made available under this chapter. Reinstatement of eligibility in each particular case shall be subject to such conditions as the President shall direct. Each person whose eligibility is denied or suspended under this subsection shall, upon request, be entitled to a review of his eligibility not less often than once every two years.
+The President shall issue and enforce regulations determining the eligibility of any person to receive funds made available under this chapter. A person may be suspended under such regulations for a temporary period pending the completion of an investigation and any resulting judicial or debarment proceedings, upon cause for belief that such person or an affiliate thereof probably has undertaken conduct which constitutes a cause for debarment; and, after an opportunity has been afforded to such person for a hearing, he may be debarred for an additionalperiod, not to exceed three years. Among the causes for debarment shall be (1) offering or accepting a bribe or other illegal payment or credit in connection with any transaction financed with funds made available under this chapter; or (2) committing a fraud in the procurement or performance of any contract financed with funds made available under this chapter; or (3) acting in any other manner which shows a lack of integrity or honesty in connection with any transaction financed with funds made available under this chapter. Reinstatement of eligibility in each particular case shall be subject to such conditions as the President shall direct. Each person whose eligibility is denied or suspended under this subsection shall, upon request, be entitled to a review of his eligibility not less often than once every two years.
 
 (Pub. L. 87–195, pt. III, §621, Sept. 4, 1961, 75 Stat. 445; Pub. L. 87–565, pt. III, §302(a), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(a), Dec. 16, 1963, 77 Stat. 388; Pub. L. 90–554, pt. III, §302(a), Oct. 8, 1968, 82 Stat. 964.)
 
@@ -48,7 +48,7 @@ Pub. L. 106–429, §101(a) \[title V, §576\], Nov. 6, 2000, 114 Stat. 1900, 19
 
 Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §581\], Nov. 29, 1999, 113 Stat. 1535, 1501A–116, provided that: “Beginning with the fiscal year 2001 budget, the Agency for International Development shall submit to the Committees on Appropriations a detailed budget for each fiscal year. The Agency shall submit to the Committees on Appropriations a proposed budget format no later than October 31, 1999, or 30 days after the enactment of this Act \[Nov. 29, 1999\], whichever occurs later. The proposed format shall include how the Agency's budget submission will address: (1) estimated levels of obligations for the current fiscal year and actual levels for the two previous fiscal years; (2) the President's request for new budget authority and estimated carryover obligational authority for the budget year; (3) the disaggregation of budget data by program and activity for each bureau, field mission, and central office; and (4) staff levels identified by program.”
 
-Pub. L. 102–391, title V, §599E, Oct. 6, 1992, 106 Stat. 1698, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation forthat fiscal year for salaries and expenses related to administrative activities of the Agency for International Development.”
+Pub. L. 102–391, title V, §599E, Oct. 6, 1992, 106 Stat. 1698, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Agency for International Development.”
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1979</b>
 
@@ -62,7 +62,7 @@ Ex. Ord. No. 10973, Nov. 3, 1961, 26 F.R. 10469, as amended, was superseded inso
 
 #### Ex. Ord. No. 12163. Administration of Foreign Assistance and Related Functions
 
-Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended by Ex. Ord. No. 12226, July 22, 1980, 45 F.R. 49235; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12458, Jan. 14, 1984, 49 F.R. 1977; Ex. Ord. No. 12500, Jan. 24, 1985, 50 F.R. 3733; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12620, Dec. 24, 1987, 52 F.R. 49135; Ex. Ord. No. 12639, May 6, 1988, 53 F.R. 16691; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12695, Nov. 1, 1989, 54 F.R. 46589; Ex. Ord. No. 12738, §§1–6, Dec. 14, 1990, 55 F.R. 52033; Ex. Ord. No. 13030, §1, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §2, June 29, 1998, 63 F.R. 36153; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, §§1–9, Mar. 31, 1999, 64 F.R. 16595–16598, provided:
+Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended by Ex. Ord. No. 12226, July 22, 1980, 45 F.R. 49235; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12458, Jan. 14, 1984, 49 F.R. 1977; Ex. Ord. No. 12500, Jan. 24, 1985, 50 F.R. 3733; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12620, Dec. 24, 1987, 52 F.R. 49135; Ex. Ord. No. 12639, May 6, 1988, 53 F.R. 16691; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12695, Nov. 1, 1989, 54 F.R. 46589; Ex. Ord. No. 12738, §§1–6, Dec. 14, 1990, 55 F.R. 52033; Ex. Ord. No. 13030, §1, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §2, June 29, 1998, 63 F.R. 36153; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, §§1–9, Mar. 31, 1999, 64 F.R. 16595–16598; Ex. Ord. No. 13346, §3, July 8, 2004, 69 F.R. 41905; Ex. Ord. No. 13361, Nov. 16, 2004, 69 F.R. 67633, provided:
 
 By virtue of the authority vested in me by the Foreign Assistance Act of 1961 \[this chapter\], Reorganization Plan No. 2 of 1979 \[set out above\], the International Development Cooperation Act of 1979 \[see Short Title of 1979 Amendment note set out under section 2151 of this title\], and section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
@@ -70,7 +70,7 @@ By virtue of the authority vested in me by the Foreign Assistance Act of 1961 \[
 
 Department of State
 
-1–100. <i>Delegation of Functions</i>. (a) Exclusive of the functions otherwise delegated, or reserved to the President, by this order, Executive Order 12884 \[22 U.S.C. 5812 note\], Executive Order 11579 \[22 U.S.C. 2191 note\], and Executive Order 12757 \[7 U.S.C. 1738 note\], and subject to the provisions of such orders, there are hereby delegated to the Secretary of State (referred to in this Part as the “Secretary”) all functions conferred upon the President by:
+1–100. <i>Delegation of Functions</i>. (a) Exclusive of the functions otherwise delegated, or reserved to the President, by this order, Executive Order 12884 \[22 U.S.C. 5812 note\], Executive Order 11579 \[22 U.S.C. 2191 note\], and Executive Order 12757 \[former 7 U.S.C. 1738 note\], and subject to the provisions of such orders, there are hereby delegated to the Secretary of State (referred to in this Part as the “Secretary”) all functions conferred upon the President by:
 
 &emsp;(1) the Foreign Assistance Act of 1961 (22 U.S.C. 2151 <i>et seq</i>.) (“Act”);
 
@@ -98,7 +98,15 @@ Department of State
 
 &emsp;(11) section 591 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1998 (Public Law 105–118) \[111 Stat. 2439\], and the provisions of law referenced therein;
 
-&emsp;(12) section 821(b) of the Western Hemisphere Drug Elimination Act (as contained in Public Law 105–277) \[22 U.S.C. 2291 note\].
+&emsp;(12) section 821(b) of the Western Hemisphere Drug Elimination Act (as contained in Public Law 105–277) \[22 U.S.C. 2291 note\];
+
+&emsp;(13) title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002 (Public Law 107–115), under the heading “Assistance for the Independent States of the Former Soviet Union, \[sic\]” in subsections (g)(4) and (6) \[22 U.S.C. 5812 note\];
+
+&emsp;(14) section 512 of Division D of the Consolidated Appropriations Act, 2004 (Public Law 108–199) \[118 Stat. 170\];
+
+&emsp;(15) sections 5(c) and 6 of the Anglo-Irish Agreement Support Act of 1986 (Public Law 99–415), as amended \[100 Stat. 948, 949\];
+
+&emsp;(16) the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (Public Law 108–25) (the “HIV/AIDS Act”), as amended \[22 U.S.C. 7601 et seq.\], and amendments made by the HIV/AIDS Act, which the Secretary shall perform, in the case of section 304 \[22 U.S.C. 7634\], after consultation with the Secretary of Health and Human Services.
 
 (b) The functions under section 653 of the Act \[22 U.S.C. 2413\] delegated to the Secretary shall be exercised in consultation with the Secretary of Defense, insofar as they relate to functions under the Act administered by the Department of Defense, and the Director of the Office of Management and Budget.
 
@@ -114,7 +122,7 @@ United States Agency for International Development
 
 1–200. <i>United States Agency for International Development.</i>
 
-(a) The United States Agency for International Development is an independent establishment within the Executive branch. Any reference in the Act to the agency primarily responsible for administering part I of the Act \[22 U.S.C. 2151 et seq.\], or to the Administrator of such agency, shall be deemed to be a reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate.
+(a) The United States Agency for International Development is an independent establishment within the Executive branch. Any reference in the Act to the agency primarily responsible for administering part I of the Act \[22 U.S.C. 2151 et seq.\], or to the Administrator of such agency, shall be deemed to be a referenceto the United States Agency for International Development or to the Administrator of that agency, as appropriate.
 
 (b) The United States Agency for International Development shall be headed by an Administrator appointed pursuant to section 624(a) of the Act \[22 U.S.C. 2384(a)\].
 
@@ -230,6 +238,10 @@ Reserved Functions
 
 (g) Those under sections 130 \[Pub. L. 99–83, Aug. 8, 1985, 99 Stat. 207\], 504 and 505 \[22 U.S.C. 2349aa–8, 2349aa–9\] of the ISDCA of 1985\[.\]
 
+(h) Those functions conferred by section 1(f)(1) and section 1(f)(2)(B)(ii)(VII) of the State Department Basic Authorities Act of 1956, as amended (22 U.S.C. 2651a).
+
+(i) Those functions conferred by section 202(d)(4)(C)(i) and (ii) of the HIV/AIDS Act, as amended \[22 U.S.C. 7622(d)(4)(C)(i), (ii)\].
+
 1–702. <i>Subsequent Amendments</i>. Functions conferred upon the President by subsequent amendments to the Act \[this chapter\] are delegated to the Secretary only insofar as they do not relate directly and necessarily to the conduct of programs and activities that either the President or an agency other than the Department of State is authorized to administer pursuant to express reservation or delegation of authorities in a statute or in this or another Executive order.
 
 1–703. <i>Office of Management and Budget</i>. In this order the Director of the Office of Management and Budget shall retain all authorities related to the implementation of his budgetary and policy coordination functions, including the authority to:
@@ -262,7 +274,7 @@ General Provisions
 
 1–902. <i>References to Orders and Acts</i>. Except as may for any reason be inappropriate:
 
-(a) References in this order or in any other Executive order to (1) the Foreign Assistance Act of 1961 \[this chapter\] (including references herein to “the Act”), (2) unrepealed provisions of the Mutual Security Act of 1954 \[act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended\], or (3) any other act that relates to the subject of this order shall be deemed to include references to any subsequent amendments thereto.
+(a) References in this order or in any other Executive order to (1) the Foreign Assistance Act of 1961 \[thischapter\] (including references herein to “the Act”), (2) unrepealed provisions of the Mutual Security Act of 1954 \[act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended\], or (3) any other act that relates to the subject of this order shall be deemed to include references to any subsequent amendments thereto.
 
 (b) References in any prior Executive order to the Mutual Security Act of 1954 \[act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended\] or any provisions thereof shall be deemed to be references to the Act \[this chapter\] or the corresponding provision, if any, thereof.
 
@@ -304,9 +316,7 @@ General Provisions
 
 1–905. <i>Effective Date</i>. The provisions of this order shall become effective as of October 1, 1979.
 
+1–906. <i>Implementation</i>. In carrying out this order, officers of the United States shall ensure that all actions taken by them are consistent with the President's constitutional authority to: (a) conduct the foreign affairs of the United States; (b) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties; (c) recommend for congressional consideration such measures as the President may judge necessary and expedient; and (d) supervise the unitary executive branch.
+
 \[Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792, provided that sections 1–101 through 1–103, 1–401 through 1–403, and 1–801(a), and other provisions of Ex. Ord. No. 12163 that relate to the United States International Development Cooperation Agency or the Director thereof were repealed.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2384 of this title.
 

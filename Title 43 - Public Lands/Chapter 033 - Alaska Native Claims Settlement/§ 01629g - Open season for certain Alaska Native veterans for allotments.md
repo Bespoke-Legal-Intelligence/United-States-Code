@@ -56,7 +56,7 @@
 
 (1) A person is eligible to select an allotment under this section if that person—
 
-&emsp;(A) would have been eligible for an allotment under the Act of May 17, 1906 (chapter 2469; 34 Stat. 197), as that Act was in effect before December 18, 1971; and
+&emsp;(A) would have been eligible for an allotment under the Act of May 17, 1906 (chapter 2469; 34 Stat. 197), as that Act was in effect before December 18, 1971 (except that the term “nonmineral”, as used in that Act, shall for the purpose of this subsection be defined as provided in section 1634(a)(3) of this title, except that such definition shall not apply to land within a conservation system unit); and
 
 &emsp;(B) is a veteran who served during the period between January 1, 1969 and December 31, 1971 and—
 
@@ -64,13 +64,21 @@
 
 &emsp;&emsp;(ii) enlisted or was drafted into military service after June 2, 1971 but before December 3, 1971.
 
-(2) The personal representative or special administrator, appointed in an Alaska State court proceeding of the estate of a decedent who was eligible under subsection (b)(1)(A) of this section may, for the benefit of the heirs, select an allotment if the decedent was a veteran who served in South East Asia at any time during the period beginning August 5, 1964, and ending December 31, 1971, and during that period the decedent—
+(2)(A) The personal representative or special administrator, appointed in an Alaska State court proceeding of the estate of a decedent who was eligible under subsection (b)(1)(A) of this section may, for the benefit of the heirs, select an allotment if the decedent was a veteran who served in South East Asia at any time during the period beginning August 5, 1964, and ending December 31, 1971, and during that period the decedent—
 
-&emsp;(A) was killed in action;
+&emsp;(i) was killed in action;
 
-&emsp;(B) was wounded in action and subsequently died as a direct consequence of that wound, as determined by the Department of Veterans Affairs; or
+&emsp;(ii) was wounded in action and subsequently died as a direct consequence of that wound, as determined by the Department of Veterans Affairs or based on other evidence acceptable to the Secretary; or
 
-&emsp;(C) died while a prisoner of war.
+&emsp;(iii) died while a prisoner of war.
+
+(B)(i) If the Secretary requests that the Secretary of Veterans Affairs make a determination whether a veteran died as a direct consequence of a wound received in action, the Secretary of Veterans Affairs shall, within 60 days of receipt of the request—
+
+&emsp;(I) provide a determination to the Secretary if the records of the Department of Veterans Affairs contain sufficient information to support such a determination; or
+
+&emsp;(II) notify the Secretary that the records of the Department of Veterans Affairs do not contain sufficient information to support a determination and that further investigation will be necessary.
+
+(ii) Not later than 1 year after notification to the Secretary that further investigation is necessary, the Department of Veterans Affairs shall complete the investigation and provide a determination to the Secretary.
 
 (3) No person who received an allotment or has a pending allotment under the Act of May 17, 1906 may receive an allotment under this section.
 
@@ -94,7 +102,7 @@ For the purposes of this section, the terms “veteran” and “Vietnam era” 
 
 No later than 18 months after October 21, 1998, the Secretary of the Interior shall promulgate, after consultation with Alaska Natives groups, rules to carry out this section.
 
-(Pub. L. 92–203, §41, as added Pub. L. 105–276, title IV, §432, Oct. 21, 1998, 112 Stat. 2516; amended Pub. L. 106–559, title III, §301, Dec. 21, 2000, 114 Stat. 2782.)
+(Pub. L. 92–203, §41, as added Pub. L. 105–276, title IV, §432, Oct. 21, 1998, 112 Stat. 2516; amended Pub. L. 106–559, title III, §301, Dec. 21, 2000, 114 Stat. 2782; Pub. L. 108–452, title III, §306, Dec. 10, 2004, 118 Stat. 3590.)
 
 #### References in Text
 
@@ -105,6 +113,10 @@ The Alaska Statehood Act, referred to in subsec. (a)(3)(B), is Pub. L. 85–508,
 Public land law, referred to in subsec. (a)(3)(I), is classified generally to this title.
 
 #### Amendments
+
+2004—Subsec. (b)(1)(A). Pub. L. 108–452, §306(1), inserted before semicolon at end “(except that the term ‘nonmineral’, as used in that Act, shall for the purpose of this subsection be defined as provided in section 1634(a)(3) of this title, except that such definition shall not apply to land within a conservation system unit)”.
+
+Subsec. (b)(2). Pub. L. 108–452, §306(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), inserted “or based on other evidence acceptable to the Secretary” after “Department of Veterans Affairs” in cl. (ii), and added subpar. (B).
 
 2000—Subsec. (a)(3)(I)(4). Pub. L. 106–559, §301(1), substituted “or” for “and Reindeer”.
 

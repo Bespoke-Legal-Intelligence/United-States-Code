@@ -56,7 +56,3 @@ R.S. §355 (1st–5th pars.); June 28, 1930, ch. 710, 46 Stat. 828; Feb. 1, 1940
 
 In subsection (d), the words “in any manner” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 2250a; title 10 sections 2684a, 2852, 18239; title 16 sections 343b, 430a, 441i, 571c; title 22 section 1471; title 36 section 2103; title 38 section 115; title 42 sections 1502, 1594a, 2224, 5196; title 50 App. section 460.
-

@@ -10,7 +10,7 @@ The location and plans for such bridges shall be approved by the Secretary of Tr
 
 #### (c) Private highway toll bridges
 
-Notwithstanding the provisions of subsections (a) and (b) of this section, it shall be unlawful to construct or commence the construction of any privately owned highway toll bridge until the location and plans thereof shall also have been submitted to and approved by the highway department or departments of the State or States in which the bridge and its approaches are situated; and where such bridge shall be between two or more States and the highway departments thereof shall be unable to agree upon thelocation and plans therefor, or if they, or either of them, shall fail or refuse to act upon the location and plans submitted, such location and plans then shall be submitted to the Secretary of Transportation and, if approved by the Secretary of Transportation, approval by the highway departments shall not be required.
+Notwithstanding the provisions of subsections (a) and (b) of this section, it shall be unlawful to construct or commence the construction of any privately owned highway toll bridge until the location and plans thereof shall also have been submitted to and approved by the highway department or departments of the State or States in which the bridge and its approaches are situated; and where such bridge shall be between two or more States and the highway departments thereof shall be unable to agree upon the location and plans therefor, or if they, or either of them, shall fail or refuse to act upon the location and plans submitted, such location and plans then shall be submitted to the Secretary of Transportation and, if approved by the Secretary of Transportation, approval by the highway departments shall not be required.
 
 (Aug. 2, 1946, ch. 753, title V, §502, 60 Stat. 847; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380; 1949 Reorg. Plan No. 7, §1, eff. Aug. 19, 1949, 14 F.R. 5288, 63 Stat. 1070; Pub. L. 97–322, title I, §107(a), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, §2(d)(1), (3), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 98–557, §17(g)(2), Oct. 30, 1984, 98 Stat. 2869.)
 
@@ -43,8 +43,4 @@ Functions, powers, and duties of Secretary of Commerce and other offices and off
 #### Reservation of Right To Alter, Amend, or Repeal
 
 Section 511 of title V of act Aug. 2, 1946, provided that: “The right to alter, amend, or repeal this title \[this subchapter\] is hereby expressly reserved as to any and all bridges which may be built under authority hereof.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 23 section 144.
 

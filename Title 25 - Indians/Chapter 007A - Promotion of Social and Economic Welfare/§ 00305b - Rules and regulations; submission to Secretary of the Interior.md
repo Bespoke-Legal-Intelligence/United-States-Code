@@ -1,12 +1,16 @@
 ### §305b. Rules and regulations; submission to Secretary of the Interior
 
-The Board shall prescribe from time to time rules and regulations governing the conduct of its business and containing such provisions as it may deem appropriate for the effective execution and administration of the powers conferred upon it by this Act: <i>Provided</i>, That before prescribing any procedure for the disbursement of money the Board shall advise and consult with the General Accounting Office: <i>Provided further</i>, That all rules and regulations proposed by the Board shall be submitted to the Secretary of the Interior and shall become effective upon his approval.
+The Board shall prescribe from time to time rules and regulations governing the conduct of its business and containing such provisions as it may deem appropriate for the effective execution and administration of the powers conferred upon it by this Act: <i>Provided</i>, That before prescribing any procedure for the disbursement of money the Board shall advise and consult with the Government Accountability Office: <i>Provided further</i>, That all rules and regulations proposed by the Board shall be submitted to the Secretary of the Interior and shall become effective upon his approval.
 
-(Aug. 27, 1935, ch. 748, §3, 49 Stat. 892.)
+(Aug. 27, 1935, ch. 748, §3, 49 Stat. 892; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
 This Act, referred to in text, is act Aug. 27, 1935, ch. 748, 49 Stat. 891, as amended, which is classified generally to section 305 et seq. of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 #### Transfer of Functions
 

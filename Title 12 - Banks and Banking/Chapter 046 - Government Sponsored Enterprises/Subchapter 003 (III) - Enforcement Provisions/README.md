@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—ENFORCEMENT PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1422b, 4513, 4521, 4522, 4619 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
 

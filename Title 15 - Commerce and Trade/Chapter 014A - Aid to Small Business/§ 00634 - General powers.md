@@ -8,7 +8,7 @@ The Administration shall have power to adopt, alter, and use a seal, which shall
 
 In the performance of, and with respect to, the functions, powers, and duties vested in him by this chapter the Administrator may—
 
-&emsp;(1) sue and be sued in any court of record of a State having general jurisdiction, or in any United States district court, and jurisdiction is conferred upon such district court to determine such controversies without regard to the amount in controversy; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Administrator or his property;
+&emsp;(1) sue and be sued in any court of record of a State having general jurisdiction, or in anyUnited States district court, and jurisdiction is conferred upon such district court to determine such controversies without regard to the amount in controversy; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Administrator or his property;
 
 &emsp;(2) under regulations prescribed by him, assign or sell at public or private sale, or otherwise dispose of for cash or credit, in his discretion and upon such terms and conditions and for such consideration as the Administrator shall determine to be reasonable, any evidence of debt, contract, claim, personal property, or security assigned to or held by him in connection with the payment of loans granted under this chapter, and to collect or compromise all obligations assigned to or held by him and all legal or equitable rights accruing to him in connection with the payment of such loans until such time as such obligations may be referred to the Attorney General for suit or collection;
 
@@ -38,9 +38,11 @@ In the performance of, and with respect to, the functions, powers, and duties ve
 
 &emsp;&emsp;(C) not to exceed 1 percent of the amount of requested financings under title III of the Small Business Investment Act of 1958 \[15 U.S.C. 681 et seq.\] for which the applicant requests a commitment from the Administration for funding during the following year; and
 
-&emsp;&emsp;(D) to recover the direct, incremental cost involved in the production and dissemination of compilations of information produced by the Administration under the authority of this chapter and the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\]; and
+&emsp;&emsp;(D) to recover the direct, incremental cost involved in the production and dissemination of compilations of information produced by the Administration under the authority of this chapter and the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\];
 
-&emsp;(13) collect, retain and utilize, subject to approval in appropriations Acts, any amounts collected by fiscal transfer agents and not used by such agent as payment of the cost of loan pooling or debenture servicing operations, except that amounts collected under this paragraph and paragraph (12) shall be utilized solely to facilitate the administration of the program that generated the excess amounts.
+&emsp;(13) collect, retain and utilize, subject to approval in appropriations Acts, any amounts collected by fiscal transfer agents and not used by such agent as payment of the cost of loan pooling or debenture servicing operations, except that amounts collected under this paragraph and paragraph (12) shall be utilized solely to facilitate the administration of the program that generated the excess amounts; and
+
+&emsp;(14) require any lender authorized to make loans under section 636 of this title to pay examination and review fees, which shall be deposited in the account for salaries and expenses of the Administration, and shall be available for the costs of examinations, reviews, and other lender oversight activities.
 
 #### (c) Procurement of experts and consultants; compensation and expenses
 
@@ -48,7 +50,7 @@ To such extent as he finds necessary to carry out the provisions of this chapter
 
 #### (d) Safety deposit box rentals
 
-Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals made by theAdministration on safety deposit boxes used by the Administration for the safeguarding of instruments held as security for loans or for the safeguarding of other documents.
+Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals made by the Administration on safety deposit boxes used by the Administration for the safeguarding of instruments held as security for loans or for the safeguarding of other documents.
 
 #### (e) Undertaking or suspension of payment obligation; period; extension of maturity; repayment agreement; “required payments” defined
 
@@ -64,7 +66,7 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 (3) Notwithstanding the provisions of sections 636(a)(4)(C) and 636(i)(1) of this title, the Administration may extend the maturity of any loan on which the Administration undertakes or suspends the obligation pursuant to this subsection for a corresponding period of time.
 
-(4)(A) Prior to the undertaking or suspension by the Administration of any small business concern's obligation under this subsection, the Administration, consistent with the purposes sought to be achieved herein, shall require the small business concern to agree in writing to repay to it the aggregate amount of the payments which were required under the loan during the period for which such obligation was undertaken or suspended, either—
+(4)(A) Prior to the undertaking or suspension by the Administration of any small business concern's obligation under this subsection, the Administration, consistent with the purposes sought to be achieved herein, shall require the small business concern to agree in writing torepay to it the aggregate amount of the payments which were required under the loan during the period for which such obligation was undertaken or suspended, either—
 
 &emsp;(i) by periodic payments not less in amount or less frequently falling due than those which were due under the loan during such period, or
 
@@ -100,9 +102,11 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 (3) The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under any guarantee of such trust certificates issued by the Administration or its agent pursuant to this subsection.
 
-(4)(A) The Administration may collect a fee for any loan guarantee sold into the secondary market under subsection (f) of this section in an amount equal to not more than 50 percent of the portion of the sale price that exceeds 110 percent of the outstanding principal amount of the portion of the loan guaranteed by the Administration. Any such fee imposed by the Administration shall be collected by the Administration or by the agent which carries out on behalf of the Administration the central registration functions required by subsection (h) of this section and shall be paid to the Administration and used solely to reduce the subsidy on loans guaranteed under section 636(a) of this title: <i>Provided</i>, That such fee shall not be charged to the borrower whose loan is guaranteed: and, <i>Provided further</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (h)(2) <sup>1</sup> of this section.
+(4)(A) The Administration may collect a fee for any loan guarantee sold into the secondary market under subsection (f) of this section in an amount equal to not more than 50 percent of the portion of the sale price that exceeds 110 percent of the outstanding principal amount of the portion of the loan guaranteed by the Administration. Any such fee imposed by the Administration shall be collected by the Administration orby the agent which carries out on behalf of the Administration the central registration functions required by subsection (h) of this section and shall be paid to the Administration and used solely to reduce the subsidy on loans guaranteed under section 636(a) of this title: <i>Provided</i>, That such fee shall not be charged to the borrower whose loan is guaranteed: and, <i>Provided further</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (h)(2) <sup>1</sup> of this section.
 
 (B) The Administration is authorized to impose and collect, either directly or through a fiscal and transfer agent, a reasonable penalty on late payments of the fee authorized under subparagraph (A) in an amount not to exceed 5 percent of such fee per month plus interest.
+
+(C) The Administration may contract with an agent to carry out, on behalf of the Administration, the assessment and collection of the annual fee established under section 636(a)(23) of this title. The agent may receive, as compensation for services, any interest earned on the fee while in the control of the agent before the time at which the agent is contractually required to remit the fee to the Administration.
 
 (5)(A) In the event the Administration pays a claim under a guarantee issued under this subsection, it shall be subrogated fully to the rights satisfied by such payment.
 
@@ -120,9 +124,11 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 &emsp;(D) have the authority to regulate brokers and dealers in guaranteed loans and trust certificates sold pursuant to subsections (f) and (g) of this section.
 
-(2) Nothing in this subsection shall prohibit the utilization of a book-entry or other electronic form of registration for trust certificates. The Administration may, with the consent of the Secretary of the Treasury, use the book-entry system of the Federal Reserve System.
+(2) The agent described in paragraph (1)(B) may be compensated through any of the fees assessed under this section and any interest earned on any funds collected by the agent while such funds are in the control of the agent and before the time at which the agent is contractually required to transfer such funds to the Administration or to the holders of the trust certificates, as appropriate.
 
-(Pub. L. 85–536, §2\[5\], July 18, 1958, 72 Stat. 385; Pub. L. 87–305, §4, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–367, title I, §103(3), Oct. 4, 1961, 75 Stat. 787; Pub. L. 92–310, title II, §224(a), June 6, 1972, 86 Stat. 206; Pub. L. 93–386, §§3(1), 10, Aug. 23, 1974, 88 Stat. 745, 749; Pub. L. 94–305, title II, §208, June 4, 1976, 90 Stat. 671; Pub. L. 95–89, title III, §303, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–510, §103, Oct. 24, 1978, 92 Stat. 1781; Pub. L. 96–302, title I, §114, July 2, 1980, 94 Stat. 838; Pub. L. 98–352, §2, July 10, 1984, 98 Stat. 329; Pub. L. 100–590, title I, §113, Nov. 3, 1988, 102 Stat. 2997; Pub. L. 102–140, title VI, §609(a), Oct. 28, 1991, 105 Stat. 825; Pub. L. 102–564, title III, §307(d), Oct. 28, 1992, 106 Stat. 4264; Pub. L. 103–81, §3(a), Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §2, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title VI, §602, Oct. 22, 1994, 108 Stat. 4202; Pub. L. 104–36, §4(b), Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title I, §103(e), title II, §§205(a), 208(i)(1), Sept. 30,1996, 110 Stat. 3009–727, 3009–738, 3009–747; Pub. L. 106–554, §1(a)(9) \[title II, §209\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683.)
+(3) Nothing in this subsection shall prohibit the utilization of a book-entry or other electronic form of registration for trust certificates. The Administration may, with the consent of the Secretary of the Treasury, use the book-entry system of the Federal Reserve System.
+
+(Pub. L. 85–536, §2\[5\], July 18, 1958, 72 Stat. 385; Pub. L. 87–305, §4, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–367, title I, §103(3), Oct. 4, 1961, 75 Stat. 787; Pub. L. 92–310, title II, §224(a), June 6, 1972, 86 Stat. 206; Pub. L. 93–386, §§3(1), 10, Aug. 23, 1974, 88 Stat. 745, 749; Pub. L. 94–305, title II, §208, June 4, 1976, 90 Stat. 671; Pub. L. 95–89, title III, §303, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–510, §103, Oct. 24, 1978, 92 Stat. 1781; Pub. L. 96–302, title I, §114, July 2, 1980, 94 Stat. 838; Pub. L. 98–352, §2, July 10, 1984, 98 Stat. 329; Pub. L. 100–590, title I, §113, Nov. 3, 1988, 102 Stat. 2997; Pub. L. 102–140, title VI, §609(a), Oct. 28, 1991, 105 Stat. 825; Pub. L. 102–564, title III, §307(d), Oct. 28, 1992, 106 Stat. 4264; Pub. L. 103–81, §3(a), Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §2, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title VI, §602, Oct. 22, 1994, 108 Stat. 4202; Pub. L. 104–36, §4(b), Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title I, §103(e), title II, §§205(a), 208(i)(1), Sept. 30, 1996, 110 Stat. 3009–727, 3009–738, 3009–747; Pub. L. 106–554, §1(a)(9) \[title II, §209\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683; Pub. L. 108–306, §3, Sept. 24, 2004, 118 Stat. 1131; Pub. L. 108–447, div. K, title I, §131, Dec. 8, 2004, 118 Stat. 3452.)
 
 #### References in Text
 
@@ -138,13 +144,19 @@ Subsection (h)(2) of this section, referred to in subsec. (g)(4)(A), was redesig
 
 In subsec. (b)(8), “subchapter I of chapter 57 of title 5” substituted for “the Travel Expense Act of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-In subsec. (d), “Section 3324(a) and (b) of title 31” substituted for “Section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), “Section 3324(a) and (b) of title 31” substituted for “Section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept.13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Prior Provisions
 
 Prior similar provisions were contained in section 205 of act July 30, 1953, ch. 282, title II, 67 Stat. 234, as amended by act Aug. 9, 1955, ch. 628, §4, 69 Stat. 547, which was classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+2004—Subsec. (b)(14). Pub. L. 108–447 added par. (14).
+
+Subsec. (g)(4)(C). Pub. L. 108–306, §3(1), added subpar. (C).
+
+Subsec. (h)(2), (3). Pub. L. 108–306, §3(2), added par. (2) and redesignated former par. (2) as (3).
 
 2000—Subsec. (f)(1)(C). Pub. L. 106–554 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “each loan shall have been fully disbursed to the borrower prior to any sale.”
 
@@ -172,7 +184,7 @@ Subsec. (b)(12), (13). Pub. L. 103–403 added pars. (12) and (13).
 
 1980—Subsec. (b)(7). Pub. L. 96–302 prohibited an interpretation that authorized the Administrator to contract or otherwise delegate his responsibility for loan servicing to other than Administration personnel, but sanctioned, with respect to deferred participation loans, authority for participating lending institutions to take action on behalf of the Administrator determining eligibility and creditworthiness, loan monitoring, collection, and liquidation, etc.
 
-1978—Subsec. (c). Pub. L. 95–510 substituted “Any individual so employed may be compensated at a rate not in excess of the daily equivalent of the highest rate payable under section 5332 of Title 5, including travel time, and, while such individual is away from his or her home or regular place of business, he or she may be allowed travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of Title 5” for“Any individual so employed may be compensated at a rate not in excess of $50 per diem, and, while such individual is away from his home or regular place of business, he may be allowed transportation and not to exceed $15 per diem in lieu of subsistence and other expenses”.
+1978—Subsec. (c). Pub. L. 95–510 substituted “Any individual so employed may be compensated at a rate not in excess of the daily equivalent of the highest rate payable under section 5332 of Title 5, including travel time, and, while such individual is away from his or her home or regular place of business, he or she may be allowed travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of Title 5” for “Any individual so employed may be compensated at a rate not in excess of $50 per diem, and, while such individual is away from his home or regular place of business, he may be allowed transportation and not to exceed $15 per diem in lieu of subsistence and other expenses”.
 
 1977—Subsec. (e). Pub. L. 95–89 added subsec. (e).
 
@@ -240,7 +252,7 @@ Section 103(h) of div. D of Pub. L. 104–208 provided that: “Not later than 9
 
 #### Study and Report Regarding 1993 Amendments To Impose Secondary Market Fees and To Reduce Loan Guarantee Percentages
 
-Section 6 of Pub. L. 103–81 provided that: “The Administration shall study, monitor and evaluate the impact of the amendments made by sections 3 and 5 of this Act \[amending this section and section 636 of this title\] on the ability of small business concerns and small business concerns owned and controlled by minorities and women, to obtain financing and the impact of such sections on the effectiveness, viability and growth of the secondary market authorized by section 5(f) of the Small Business Act \[subsec. (f) of this section\]. Not later than 16 months after the date of enactment \[Aug. 13, 1993\], and annually thereafter, the Administration shall submit to the Committees on Small Business of the Senate and the House of Representatives a report containing the Administration's findings and recommendations on such impact, specifically including changes in the interest rates on financings provided to small business concerns and small business concerns owned and controlled by minorities and women, through the use of the secondary market. The Administration shall segregate such findings and recommendations in the study according to the ethnic and gender components in these categories. Solely for the purposes of the study authorized herein, the term ‘small business concerns owned and controlled by minorities’, includes businesses owned and controlled by individuals belonging to one of the designated groups listed in section 8(d)(3)(C) of the Small Business Act \[15 U.S.C. 637(d)(3)(C)\].”
+Pub. L. 103–81, §6, Aug. 13, 1993, 107 Stat. 782, provided that: “The Administration shall study, monitor and evaluate the impact of the amendments made by sections 3 and 5 of this Act \[amending this section and section 636 of this title\] on the ability of small business concerns and small business concerns owned and controlled by minorities and women, to obtain financing and the impact of such sections on the effectiveness, viability and growth of the secondary market authorized by section 5(f) of the Small Business Act \[subsec. (f) of this section\]. Not later than 16 months after the date of enactment \[Aug. 13, 1993\], and annually thereafter, the Administration shall submit to the Committees on Small Business of the Senate and the House of Representatives \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] a report containing the Administration's findings and recommendations on such impact, specifically including changes in the interest rates on financings provided to small business concerns and small business concerns owned and controlled by minorities and women, through the use of the secondary market. The Administration shall segregate such findings and recommendations in the study according to the ethnic and gender components in these categories. Solely for the purposes of the study authorized herein, the term ‘small business concerns owned and controlled by minorities’, includes businesses owned and controlled by individuals belonging to one of the designated groups listed in section 8(d)(3)(C) of the Small Business Act \[15 U.S.C. 637(d)(3)(C)\].”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -261,10 +273,6 @@ Section 6 of Pub. L. 98–352 provided that: “This Act \[amending this section
 #### Small Business Protection
 
 Pub. L. 90–104, title III, §§301–303, Oct. 11, 1967, 81 Stat. 272, authorized Administrator of Small Business Administration to conduct a special study of impact on small business concerns of robbery, burglary, shoplifting, vandalism, and other criminal activities, and report to President and to Congress results of study, including such recommendations he deemed appropriate for administrative and legislative action, within one year after Oct. 11, 1967.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 633, 636, 693 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

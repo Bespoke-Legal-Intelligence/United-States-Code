@@ -52,7 +52,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) a partnership each of whose partners is an individual who is a citizen of the United States; or
 
-&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or aState, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
+&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or a State, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
 
 &emsp;(16) “civil aircraft” means an aircraft except a public aircraft.
 
@@ -78,7 +78,7 @@ General Definitions.—In this part—
 
 &emsp;(20) “Federal airway” means a part of the navigable airspace that the Administrator designates as a Federal airway.
 
-&emsp;(21) “foreign air carrier” means a person, not a citizen of the United States, undertaking by any means, directly or indirectly, to provide foreign air transportation.
+&emsp;(21) “foreign air carrier” means a person, not a citizen of the United States, undertaking byany means, directly or indirectly, to provide foreign air transportation.
 
 &emsp;(22) “foreign air commerce” means the transportation of passengers or property by aircraft for compensation, the transportation of mail by aircraft, or the operation of aircraft in furthering a business or vocation, between a place in the United States and a place outside the United States when any part of the transportation or operation is by aircraft.
 
@@ -156,7 +156,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) An aircraft owned by the Government and operated by any person for purposes related to crew training, equipment development, or demonstration, except as provided in section 40125(b).
 
-&emsp;&emsp;(C) An aircraft owned and operated by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of one of these governments, except as provided in section 40125(b).
+&emsp;&emsp;(C) An aircraft owned and operated by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision ofone of these governments, except as provided in section 40125(b).
 
 &emsp;&emsp;(D) An aircraft exclusively leased for at least 90 continuous days by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of one of these governments, except as provided in section 40125(b).
 
@@ -519,8 +519,4 @@ Administrator.—The term ‘Administrator’ means the Administrator of the Fed
 &emsp;“(2)
 
 Secretary.—The term ‘Secretary’ means the Secretary of Transportation.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 321, 1101, 1131, 5114, 40125, 44903, 47129, 47302, 47522 of this title; title 8 section 1184; title 10 sections 2640, 9511, 9783; title 11 sections 365, 1110; title 15 section 2052; title 18 sections 31, 229F, 553; title 19 sections 1627a, 1644a, 2492; title 22 sections 5605, 6701; title 29 section 1301; title 31 section 3726; title 39 sections 5005, 5007, 5402; title 42 sections 4902, 7574.
 

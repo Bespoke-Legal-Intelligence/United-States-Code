@@ -12,7 +12,7 @@
 
 #### (3) Public hearing
 
-&emsp;Any order issued under this subsection shall become final unless, not later than 30 days after issuance of the order, the persons named therein request a public hearing. Upon such request, the Administrator shall promptly conduct a public hearing. In connection with any proceeding under this section, the Administrator may issue subpoenas for the production of relevant papers, books, and documents, and may promulgate rules for discovery procedures.
+&emsp;Any order issued under this subsection shall become final unless, not later than 30 daysafter issuance of the order, the persons named therein request a public hearing. Upon such request, the Administrator shall promptly conduct a public hearing. In connection with any proceeding under this section, the Administrator may issue subpoenas for the production of relevant papers, books, and documents, and may promulgate rules for discovery procedures.
 
 #### (4) Violation of compliance orders
 
@@ -43,8 +43,4 @@ Any person who violates any requirement of or regulation under this subchapter s
 Civil penalties assessed by the United States or by the States under this subchapter shall be assessed in accordance with the Administrator's “RCRA Civil Penalty Policy”, as such policy may be amended from time to time.
 
 (Pub. L. 89–272, title II, §11005, as added Pub. L. 100–582, §2(a), Nov. 1, 1988, 102 Stat. 2953.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6992f of this title.
 

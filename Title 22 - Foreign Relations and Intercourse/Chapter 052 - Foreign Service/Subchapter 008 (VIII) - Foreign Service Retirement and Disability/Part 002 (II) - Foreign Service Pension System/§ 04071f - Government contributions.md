@@ -10,7 +10,3 @@
 
 (Pub. L. 96–465, title I, §857, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 618.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4071a, 4071c of this title.
-

@@ -6,7 +6,7 @@ An individual who was a former spouse of a participant, former participant, or r
 
 &emsp;(1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the annuity of the participant; or
 
-&emsp;(2) if not married to the participant throughout such creditable service, equal to that former spouse's pro rata share of 50 percent of such annuity.
+&emsp;(2) if not married to the participant throughout such creditable service, equal to thatformer spouse's pro rata share of 50 percent of such annuity.
 
 #### (b) Limitations
 
@@ -81,8 +81,4 @@ Subsec. (c)(4)(A). Pub. L. 103–178, §202(a)(7)(B), substituted “June 2, 199
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403n, 2154 of this title.
 

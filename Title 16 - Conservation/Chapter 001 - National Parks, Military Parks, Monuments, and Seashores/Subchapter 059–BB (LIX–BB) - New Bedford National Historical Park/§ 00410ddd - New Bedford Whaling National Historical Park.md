@@ -38,7 +38,7 @@ For the purposes of this section—
 
 #### (1) Establishment
 
-&emsp;In order to preserve for the benefit and inspiration of the people of the United States as a national historical park certain districts, structures, and relics located in New Bedford, Massachusetts, and associated with the history of whaling and related social and economic themes in America, there is established the New Bedford Whaling National Historical Park.
+&emsp;In order to preserve for the benefit and inspiration of the people of the United States as a national historical park certain districts, structures, and relics located in New Bedford,Massachusetts, and associated with the history of whaling and related social and economic themes in America, there is established the New Bedford Whaling National Historical Park.
 
 #### (2) Boundaries
 
@@ -110,7 +110,7 @@ Not later than the end of the second fiscal year beginning after November 12, 19
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), there are authorized to be appropriated such sums as may be necessary to carry out annual operations and maintenance with respect to the park and to carry out the activities under subsection (d) of this section.
+&emsp;Except as provided in paragraph (2), there are authorized to be appropriated such sums asmay be necessary to carry out annual operations and maintenance with respect to the park and to carry out the activities under subsection (d) of this section.
 
 #### (2) Exceptions
 

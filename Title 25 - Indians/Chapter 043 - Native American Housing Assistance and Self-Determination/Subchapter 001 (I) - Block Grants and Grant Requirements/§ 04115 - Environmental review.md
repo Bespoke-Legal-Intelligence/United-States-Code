@@ -72,7 +72,3 @@ The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 9
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 1715z–13a.
-

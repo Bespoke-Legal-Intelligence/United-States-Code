@@ -34,7 +34,7 @@
 | [8106\.](Subchapter%20001%20%28I%29%20-%20Neighborhood%20Reinvestment%20Corporation/%C2%A7%2008106%20-%20Reports%20and%20audits.md) | Reports and audits. |
 | (a) | Annual report to President and Congress. |
 | (b) | Annual audit of accounts. |
-| (c) | Additional audits by General Accounting Office. |
+| (c) | Additional audits by Government Accountability Office. |
 | (d) | Audit of grantees and contractors of corporation. |
 | (e) | Annual financial audit. |
 | [8107\.](Subchapter%20001%20%28I%29%20-%20Neighborhood%20Reinvestment%20Corporation/%C2%A7%2008107%20-%20Appropriations.md) | Appropriations. |

@@ -18,7 +18,3 @@ The Secretary shall submit a report describing the results of the evaluation und
 
 (Pub. L. 89–10, title I, §1607, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1605.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6512 of this title.
-

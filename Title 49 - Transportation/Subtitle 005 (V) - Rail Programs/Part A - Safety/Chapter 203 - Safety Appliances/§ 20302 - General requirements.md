@@ -194,7 +194,3 @@ In subsection (d)(3), the words “to more fully carry into effect the objects o
 
 In subsection (e), the words “and may avail himself of the advice and assistance of any department, commission, or board of the United States Government, and of State governments” are omitted as unnecessary because of 49:301(6) and (7) and 322(c). The words “but no official or employee of the United States shall receive any additional compensation for such service except as now permitted by law” are omitted as surplus because of 5:5533.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 501, 20304 of this title.
-

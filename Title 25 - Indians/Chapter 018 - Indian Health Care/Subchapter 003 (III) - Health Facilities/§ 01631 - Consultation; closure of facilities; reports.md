@@ -30,7 +30,7 @@ Prior to the expenditure of, or the making of any firm commitment to expend, any
 
 #### (c) Annual report on health facility priority system
 
-(1) The Secretary shall submit to the President, for inclusion in each report required to betransmitted to the Congress under section 1671 of this title, a report which sets forth—
+(1) The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report which sets forth—
 
 &emsp;(A) the current health facility priority system of the Service,
 
@@ -81,8 +81,4 @@ Subsec. (c)(2) to (5). Pub. L. 102–573, §301(5), redesignated pars. (3) to (5
 Subsecs. (d), (e). Pub. L. 102–573, §§301(3), 902(4)(B), redesignated subsec. (e) as (d) and substituted “section 102 of the Indian Self-Determination Act” for “sections 102 and 103(b) of the Indian Self-Determination Act”. Former subsec. (d) redesignated (c).
 
 1988—Pub. L. 100–713 amended section generally, substituting subsecs. (a) to (e) relating to consultation, closure of facilities, and reports for former subsecs. (a) to (c) relating to construction and renovation of Service facilities.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1633, 1636, 1671 of this title.
 

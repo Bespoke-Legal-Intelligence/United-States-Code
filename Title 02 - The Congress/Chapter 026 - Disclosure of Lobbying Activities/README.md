@@ -36,10 +36,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 18 section 219; title 22 section 613; title 31 section 1352.
-
 
 ---
 

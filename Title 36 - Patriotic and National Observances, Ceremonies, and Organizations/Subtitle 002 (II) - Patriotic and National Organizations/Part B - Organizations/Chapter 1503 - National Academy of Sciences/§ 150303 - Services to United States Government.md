@@ -54,7 +54,7 @@ NOW, THEREFORE, by the authority vested in me as President by the Constitution a
 
 (e) To direct the attention of scientific and technical investigators to the importance of military and industrial problems in connection with national security, to the importance of environmental problems in connection with public health and the economy, and to aid in the solution of these problems by organizing specific research.
 
-(f) To gather and collate scientific and technical information, at home and abroad, in cooperation withgovernmental and other agencies, and to disseminate such information to duly accredited persons and the public.
+(f) To gather and collate scientific and technical information, at home and abroad, in cooperation with governmental and other agencies, and to disseminate such information to duly accredited persons and the public.
 
 2\. Scientists, engineers, and other technically qualified professionals who are officers or employees of departments and agencies of the executive branch of the Government are encouraged to participate in the work of the Council as requested by the Council to the extent authorized by the head of the officer's or employee's agency or department and permitted by law.
 

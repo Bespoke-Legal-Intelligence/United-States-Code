@@ -20,7 +20,3 @@ The Secretary may enter into agreements with any owner of property with national
 
 (Pub. L. 95–290, title II, §203, June 5, 1978, 92 Stat. 294.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410cc–21 of this title.
-

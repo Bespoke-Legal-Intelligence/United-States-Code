@@ -18,7 +18,3 @@ In implementing this subchapter, the Secretary may cooperate with international,
 
 1990—Subsec. (c). Pub. L. 101–513, which directed amendment of “the first section of” this subsection by inserting “international,” before “Federal”, was executed by making the insertion in the first sentence of this subsection to reflect the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4503b of this title.
-

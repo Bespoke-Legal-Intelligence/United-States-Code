@@ -24,7 +24,7 @@
 
 &emsp;(ii) by a port only on the grounds that such port individually will be harmed because the proposed contract will result in unreasonable discrimination against such port.
 
-(B) In addition to the grounds for a complaint described in subparagraph (A) of this paragraph,a complaint may be filed by a shipper of agricultural commodities on the grounds that such shipper individually will be harmed because—
+(B) In addition to the grounds for a complaint described in subparagraph (A) of this paragraph, a complaint may be filed by a shipper of agricultural commodities on the grounds that such shipper individually will be harmed because—
 
 &emsp;(i) the rail carrier has unreasonably discriminated by refusing to enter into a contract with such shipper for rates and services for the transportation of the same type of commodity under similar conditions to the contract at issue, and that shipper was ready, willing, and able to enter into such a contract at a time essentially contemporaneous with the period during which the contract at issue was offered; or
 
@@ -67,8 +67,4 @@ Section 10713, added Pub. L. 96–448, title II, §208(a), Oct. 14, 1980, 94 Sta
 #### Amendments
 
 1996—Subsec. (e). Pub. L. 104–287 substituted “October 1, 1980,” for “the effective date of the Staggers Rail Act of 1980”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10741, 11101, 11904 of this title.
 

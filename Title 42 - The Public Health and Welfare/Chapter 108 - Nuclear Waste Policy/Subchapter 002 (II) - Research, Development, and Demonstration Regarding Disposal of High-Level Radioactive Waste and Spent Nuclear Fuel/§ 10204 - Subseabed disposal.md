@@ -30,7 +30,7 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 #### Amendments
 
-1998—Subsec. (b)(1). Pub. L. 105–245 which directed the substitution of “Science” for “Energy Research”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+1998—Subsec. (b)(1). Pub. L. 105–245 which directed the substitution of “Science” for “Energy Research”, wasexecuted by making the substitution in two places to reflect the probable intent of Congress.
 
 Subsec. (b)(2). Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research”.
 

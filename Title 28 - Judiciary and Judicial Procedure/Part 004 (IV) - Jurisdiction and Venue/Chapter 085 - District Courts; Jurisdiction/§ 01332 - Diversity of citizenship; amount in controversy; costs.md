@@ -58,7 +58,7 @@ Citizens of a State or Territory, and citizens of the District of Columbia;
 
 Citizens of a State, and foreign states or citizens or subjects thereof.
 
-The revised section removes an uncertainty referred to in the McGarry case, supra, as to whether Congress intended to permit citizens of the Territories or the District of Columbia to sue a State or Territory itself rather than the citizens thereof. The court observed that “Congress could hardly have had such intention.”
+The revised section removes an uncertainty referred to in the McGarry case, supra, as to whether Congressintended to permit citizens of the Territories or the District of Columbia to sue a State or Territory itself rather than the citizens thereof. The court observed that “Congress could hardly have had such intention.”
 
 The sentence “The foregoing provisions as to the sum or value of the matter in controversy shall not be construed to apply to any of the cases mentioned in the succeeding paragraphs of this section” was omitted as unnecessary. Those paragraphs are (2)–(28) of said section 41 of title 28, U.S.C., 1940 ed., which are revised and incorporated in this chapter and, except for those relating to actions against the United States and interpleader, contains no provision as to a sum or value necessary to confer jurisdiction. Consequently the omitted sentence is covered by excluding such requirement.
 
@@ -753,8 +753,4 @@ Section 2 of Pub. L. 88–439 provided that: “The amendment made by this Act t
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–554 applicable only in the case of actions commenced after July 25, 1958, see section 3 of Pub. L. 85–554, set out as a note under section 1331 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1335, 1367, 1446, 1603 of this title; title 42 section 9613; title 48 sections 1424, 1612, 1822.
 

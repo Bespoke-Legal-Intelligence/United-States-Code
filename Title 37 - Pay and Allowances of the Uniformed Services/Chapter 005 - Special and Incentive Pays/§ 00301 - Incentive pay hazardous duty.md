@@ -120,7 +120,7 @@ $150&nbsp;&nbsp;
 
 &nbsp;&nbsp;E–3
 
-150  
+150&nbsp;&nbsp;
 
 &nbsp;&nbsp;E–2
 
@@ -183,9 +183,11 @@ $150&nbsp;&nbsp;
 
 (B) For purposes of this paragraph, the years of service of a member as an air weapons controller shall be computed, under regulations prescribed by the Secretary concerned, from the date the member begins training leading to a designation as an air weapons controller, but there shall be excluded from such computation any period of more than 90 days during which the member performs primary duties other than as an air weapons controller.
 
-(d) In time of war, the President may suspend the payment of incentive pay for any hazardous duty described in subsection (a).
+(d)(1) In time of war, the President may suspend the payment of incentive pay for any hazardous duty described in subsection (a).
 
-(e) A member is entitled to not more than two payments of incentive pay, authorized by this section, for a period of time during which he qualifies for more than one payment of that pay.
+(2) A member is entitled to not more than two payments of incentive pay, authorized by this section, for a period of time during which he qualifies for more than one payment of that pay.
+
+(e) A member of a uniformed service who is entitled to basic pay may be paid incentive pay under this subsection, at a monthly rate not to exceed $150, for any month during which the member performs duty involving regular participation as a firefighting crew member, as determined by the Secretary concerned.
 
 (f)(1) Under regulations prescribed by the President and to the extent provided for by appropriations, when a member of a reserve component of a uniformed service, or of the National Guard, who is entitled to compensation under section 206 of this title, performs, under orders, any duty described in subsection (a) for members entitled to basic pay, he is entitled to an increase in compensation equal to 1/30 of the monthly incentive pay authorized by subsection (b) or (c), as the case may be, for the performance of that hazardous duty by a member of a corresponding grade who is entitled to basic pay. He is entitled to the increase for as long as he is qualified for it, for each regular period of instruction, or period of appropriate duty, at which he is engaged for at least two hours, including that performed on a Sunday or holiday, or for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe under section 206(a) of this title. This subsection does not apply to a member who is entitled to basic pay under section 204 of this title for the entire month.
 
@@ -195,7 +197,7 @@ $150&nbsp;&nbsp;
 
 (C) In this paragraph, the term,<sup>1</sup> “units” means the significant increments of performance prescribed as qualifying standards in regulations promulgated by the President pursuant to this section.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461; Pub. L. 88–132, §§6–8, Oct. 2, 1963, 77 Stat. 215, 216; Pub. L. 89–149, §§1–3, Aug. 28, 1965, 79 Stat. 585; Pub. L. 89–278, Oct. 20, 1965, 79 Stat. 1011; Pub. L. 89–718, §52, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 92–436, title VI, §605, Sept. 26, 1972, 86 Stat. 740; Pub. L. 93–294, §2(1), (2), May 31, 1974, 88 Stat. 177; Pub. L. 96–343, §2(a), Sept. 8, 1980, 94 Stat. 1123; Pub. L. 96–513, title V, §516(5), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §3(a)–(c), Dec. 23, 1980, 94 Stat. 3360; Pub. L. 97–60, title I, §111(a)–(c), Oct. 14, 1981, 95 Stat. 992, 993; Pub. L. 98–94, title IX, §903(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525,title VI, §624(a), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 99–145, title VI, §§635(a), 647(a), title XIII, §1303(b)(2), Nov. 8, 1985, 99 Stat. 647, 655, 740; Pub. L. 99–661, div. A, title XIII, §1342(a), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–26, §8(d)(1), (e)(2), Apr. 21, 1987, 101 Stat. 285, 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §614, title XI, §1111(d)(1), Dec. 5, 1991, 105 Stat. 1377, 1492; Pub. L. 104–106, div. A, title VI, §615, Feb. 10, 1996, 110 Stat. 361; Pub. L. 105–85, div. A, title VI, §614, Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §614(a), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 107–107, div. A, title VI, §615(a), (b), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 108–136, div. A, title VI, §615(a)–(c), Nov. 24, 2003, 117 Stat. 1502.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461; Pub. L. 88–132, §§6–8, Oct. 2, 1963, 77 Stat. 215, 216; Pub. L. 89–149, §§1–3, Aug. 28, 1965, 79 Stat. 585; Pub. L. 89–278, Oct. 20, 1965, 79 Stat. 1011; Pub. L. 89–718, §52, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 92–436, title VI, §605, Sept. 26, 1972, 86 Stat. 740; Pub. L. 93–294, §2(1), (2), May 31, 1974, 88 Stat. 177; Pub. L. 96–343, §2(a), Sept. 8, 1980, 94 Stat. 1123; Pub. L. 96–513, title V, §516(5), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §3(a)–(c), Dec. 23, 1980, 94 Stat. 3360; Pub. L. 97–60, title I, §111(a)–(c), Oct. 14, 1981, 95 Stat. 992, 993; Pub. L. 98–94, title IX, §903(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525, title VI, §624(a), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 99–145, title VI, §§635(a), 647(a), title XIII, §1303(b)(2), Nov. 8, 1985, 99 Stat. 647, 655, 740; Pub. L. 99–661, div. A, title XIII, §1342(a), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–26, §8(d)(1), (e)(2), Apr. 21, 1987, 101 Stat. 285, 286; Pub. L. 102–25, titleVII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §614, title XI, §1111(d)(1), Dec. 5, 1991, 105 Stat. 1377, 1492; Pub. L. 104–106, div. A, title VI, §615, Feb. 10, 1996, 110 Stat. 361; Pub. L. 105–85, div. A, title VI, §614, Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §614(a), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 107–107, div. A, title VI, §615(a), (b), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 108–136, div. A, title VI, §615(a)–(c), Nov. 24, 2003, 117 Stat. 1502; Pub. L. 108–375, div. A, title VI, §615, Oct. 28, 2004, 118 Stat. 1948.)
 
 Historical and Revision Notes
 
@@ -252,6 +254,8 @@ In subsection (f), the words “a member of a reserve component of a uniformed s
 In subsection (g), the words “entitled to incentive pay under section 301(a)(1) of this title” are substituted for the words “flight pay”. At the time of the enactment of the source statute, additional pay was authorized as “flight pay”. However, the Career Compensation Act of 1949 did not authorize “flight pay” but provided incentive pay in section 204(a)(1) \[now section 301(a)(1) of this revised title\] for “duty as a crew member . . . involving frequent and regular participation in aerial flight”. The words “before January 2 of each year” are substituted for the words “On or before January 1, annually”. The word “grade” is substituted for the word “rank” to conform to the definition in section 101(15) of this revised title.
 
 #### Amendments
+
+2004—Subsecs. (d), (e). Pub. L. 108–375 designated existing provisions of subsec. (d) as par. (1) of subsec. (d), redesignated former subsec. (e) as par. (2) of subsec. (d), and added subsec. (e).
 
 2003—Subsec. (a)(2). Pub. L. 108–136, §615(c)(1), substituted “paragraph” for “clause”.
 
@@ -379,7 +383,7 @@ Subsec. (e). Pub. L. 88–132, §8, substituted “not more than two payments”
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title VI, §615(d), Nov. 24, 2003, 117 Stat. 1502, provided that: “Paragraph (12) of section301(a) of title 37, United States Code, as added by subsection (a)(3), shall apply to duty described in such paragraph that is performed on or after October 1, 2003.”
+Pub. L. 108–136, div. A, title VI, §615(d), Nov. 24, 2003, 117 Stat. 1502, provided that: “Paragraph (12) of section 301(a) of title 37, United States Code, as added by subsection (a)(3), shall apply to duty described in suchparagraph that is performed on or after October 1, 2003.”
 
 #### Effective Date of 2001 Amendment
 
@@ -490,10 +494,6 @@ Sec. 2. Executive Order 11157 of June 22, 1964, as amended, and Executive Order 
 Sec. 3. This order is not intended to create, nor does it create, any right, benefit, or privilege, substantive or procedural, enforceable at law by a party against the United States, its agencies, officers, employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 301a, 304, 320, 552, 907, 1012 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

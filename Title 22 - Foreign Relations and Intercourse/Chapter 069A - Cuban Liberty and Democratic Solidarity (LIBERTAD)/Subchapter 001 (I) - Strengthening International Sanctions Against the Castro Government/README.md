@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—STRENGTHENING INTERNATIONAL SANCTIONS AGAINST THE CASTRO GOVERNMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 6023 of this title.
-
 
 ---
 

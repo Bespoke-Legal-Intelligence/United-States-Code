@@ -8,7 +8,3 @@ Effective upon acceptance thereof by the State of Washington (1) the jurisdictio
 
 Section 251e of this title and sections 251e to 251m of this title, referred to in text, were in the original “subsection 1(a) of this Act” and “this Act”, respectively. “This Act” means Pub. L. 94–578.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 110c, 251f, 251g, 251h, 251i, 251m of this title.
-

@@ -28,7 +28,7 @@ For the purpose of this chapter—
 
 &emsp;(11) the term “space recovery support facilities” means facilities required to support activities related to the recovery of payloads returned from space to a space recovery site, including operations and control, communications, flight safety functions, and payload processing;
 
-&emsp;(12) the term “space transportation infrastructure” means facilities, associated equipment, and real property, including launch sites, launch support facilities, space recoverysites, and space recovery support facilities, required to perform launch or space recovery activities;
+&emsp;(12) the term “space transportation infrastructure” means facilities, associated equipment, and real property, including launch sites, launch support facilities, space recovery sites, and space recovery support facilities, required to perform launch or space recovery activities;
 
 &emsp;(13) the term “State” means the several States, the District of Columbia, Puerto Rico, American Samoa, the United States Virgin Islands, Guam, the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States; and
 
@@ -39,10 +39,6 @@ For the purpose of this chapter—
 #### References in Text
 
 This chapter, referred to in text, was in the original “this title”, meaning title V of Pub. L. 102–588, Nov. 4, 1992, 106 Stat. 5122, which enacted this chapter and amended section 2454 of Title 42, The Public Health and Welfare, and section 2615 of former Title 49, Transportation. For complete classification of title V to the Code, see Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 70301.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

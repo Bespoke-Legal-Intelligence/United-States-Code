@@ -16,7 +16,3 @@
 
 2000—Subsec. (a). Pub. L. 106–567 designated existing provisions as par. (1) and added par. (2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1802, 1842 of this title.
-

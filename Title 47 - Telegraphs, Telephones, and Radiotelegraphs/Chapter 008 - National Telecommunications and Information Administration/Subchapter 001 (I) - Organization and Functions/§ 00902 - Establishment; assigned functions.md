@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) The authority to authorize a foreign government to construct and operate a radio station at the seat of Government of the United States, but only upon recommendation of the Secretary of State and after consultation with the Attorney General and the Chairman of the Commission.
 
-&emsp;&emsp;(C) Functions relating to the communications satellite system, including authority vested in the President by section 201(a) of the Communications Satellite Act of 1962 (47U.S.C. 721(a)) and delegated to the Secretary under Executive Order 12046, to—
+&emsp;&emsp;(C) Functions relating to the communications satellite system, including authority vested in the President by section 201(a) of the Communications Satellite Act of 1962 (47 U.S.C. 721(a)) and delegated to the Secretary under Executive Order 12046, to—
 
 &emsp;&emsp;&emsp;(i) aid in the planning and development of the commercial communications satellite system and the execution of a national program for the operation of such a system;
 
@@ -157,10 +157,6 @@ Harmful to minors.—The term ‘harmful to minors’ means any picture, image, 
 &emsp;“(3)
 
 Sexual act; sexual contact.—The terms ‘sexual act’ and ‘sexual contact’ have the meanings given such terms in section 2246 of title 18, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 903, 904 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -32,7 +32,7 @@ Increase of Estimated Maximum Cost.—The estimated maximum cost of any project 
 
 (d)
 
-Rescission of Approval.—If an appropriation is not made within one year after the date a project for construction, alteration, or acquisition is approved under subsection (a), the Committee on Environment and Public Works of the Senate or the Committee on Transportation andInfrastructure of the House of Representatives by resolution may rescind its approval before an appropriation is made.
+Rescission of Approval.—If an appropriation is not made within one year after the date a project for construction, alteration, or acquisition is approved under subsection (a), the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives by resolution may rescind its approval before an appropriation is made.
 
 (e)
 
@@ -62,7 +62,7 @@ Exception.—The Administrator may lease space with respect to which paragraph (
 
 (g)
 
-Dollar Amount Adjustment.—The Administrator annually may adjust any dollar amount referred to in this section to reflect a percentage increase or decrease in construction costs during the prior calendar year, as determined by the composite index of construction costs of the Department of Commerce. Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+Dollar Amount Adjustment.—The Administrator annually may adjust any dollar amount referred to in this section to reflect a percentage increase or decrease in construction costs during the prior calendar year, as determined bythe composite index of construction costs of the Department of Commerce. Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1161.)
 
@@ -117,8 +117,4 @@ In subsection (c), the words “if any” and “as the case may be” are omitt
 In subsection (d), the words “at any time thereafter” are omitted as unnecessary.
 
 In subsection (f)(2)(A), the word “first” is omitted as unnecessary.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3303, 3305, 3306, 3314 of this title; title 16 section 450ss–6; title 31 section 781; title 42 section 8287c.
 

@@ -4,7 +4,3 @@ Where irrigation assessments against any such lands remained unpaid at the time 
 
 (June 22, 1936, ch. 692, §4, 49 Stat. 1804.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 389d, 389e of this title.
-

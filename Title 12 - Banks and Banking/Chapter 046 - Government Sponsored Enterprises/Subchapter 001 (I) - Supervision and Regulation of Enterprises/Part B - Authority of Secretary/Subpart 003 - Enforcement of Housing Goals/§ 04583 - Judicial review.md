@@ -26,7 +26,3 @@ The commencement of proceedings for judicial review under this section shall not
 
 (Pub. L. 102–550, title XIII, §1343, Oct. 28, 1992, 106 Stat. 3966.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4582, 4585, 4586 of this title.
-

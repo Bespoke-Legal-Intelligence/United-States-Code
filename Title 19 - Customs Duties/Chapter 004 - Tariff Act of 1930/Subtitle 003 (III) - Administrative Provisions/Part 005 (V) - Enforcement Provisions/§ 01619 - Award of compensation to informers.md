@@ -12,7 +12,7 @@ If—
 
 &emsp;&emsp;&emsp;(i) any fraud upon the customs revenue, or
 
-&emsp;&emsp;&emsp;(ii) any violation of the customs laws or the navigation laws which is being, or hasbeen, perpetrated or contemplated by any other person; and
+&emsp;&emsp;&emsp;(ii) any violation of the customs laws or the navigation laws which is being, or has been, perpetrated or contemplated by any other person; and
 
 &emsp;(2) such detection and seizure or such information leads to a recovery of—
 
@@ -72,7 +72,7 @@ An appropriation for compensation in lieu of moieties was made by act Mar. 2, 19
 
 #### Amendments
 
-1986—Pub. L. 99–570 amended section generally. Prior to amendment, section read as follows: “Any person not an officer of the United States who detects and seizes any vessel, vehicle, aircraft, merchandise, or baggage subject to seizure and forfeiture under the customs laws or the navigation laws, and who reports the same to an officer of the customs, or who furnishes to a United States attorney, to the Secretary of the Treasury, or to any customs officer original information concerning any fraud upon the customs revenue, or a violation of the customs laws or the navigation laws, perpetrated or contemplated, which detection and seizure or information leads to a recovery of any duties withheld, or of any fine, penalty, or forfeiture incurred, may be awarded and paid by the Secretary of the Treasury a compensation of 25 per centum of the net amount recovered, but not to exceed $250,000 in any case, which shall be paid out of any appropriations available for the collection of the revenue from customs. For the purposes of this section an amount recovered under a bail bond shall be deemed a recovery of a fine incurred. If any vessel, vehicle, aircraft, merchandise, or baggage is forfeited to the United States, and is thereafter, in lieu of sale, destroyed under the customs or navigation laws or delivered to any governmental agency for official use, compensation of 25 per centum of the appraised value thereof may be awarded and paid by the Secretary of the Treasury under the provisions of this section, but not to exceed $250,000 in any case. In no event shall the Secretary delegate the authority to pay an award under this section in excess of $10,000 to an official below the level of the Commissioner of Customs.”
+1986—Pub. L. 99–570 amended section generally. Prior to amendment, section read as follows: “Any person not an officer of the United States who detects and seizes any vessel, vehicle, aircraft, merchandise, or baggage subject to seizure and forfeiture under the customs laws or the navigation laws, and who reports the same to an officer of the customs, or who furnishes to a United States attorney, to the Secretary of the Treasury, or to any customs officer original information concerning any fraud upon the customs revenue, or a violation of the customs laws or the navigationlaws, perpetrated or contemplated, which detection and seizure or information leads to a recovery of any duties withheld, or of any fine, penalty, or forfeiture incurred, may be awarded and paid by the Secretary of the Treasury a compensation of 25 per centum of the net amount recovered, but not to exceed $250,000 in any case, which shall be paid out of any appropriations available for the collection of the revenue from customs. For the purposes of this section an amount recovered under a bail bond shall be deemed a recovery of a fine incurred. If any vessel, vehicle, aircraft, merchandise, or baggage is forfeited to the United States, and is thereafter, in lieu of sale, destroyed under the customs or navigation laws or delivered to any governmental agency for official use, compensation of 25 per centum of the appraised value thereof may be awarded and paid by the Secretary of the Treasury under the provisions of this section, but not to exceed $250,000 in any case. In no event shall the Secretary delegate the authority to pay an award under this section in excess of $10,000 to an official below the level of the Commissioner of Customs.”
 
 1984—Pub. L. 98–573, §213(a)(15)(A), and Pub. L. 98–473, §321, inserted reference to aircraft in two places.
 
@@ -87,8 +87,4 @@ Pub. L. 98–473, §319(b), inserted “In no event shall the Secretary delegate
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–573 effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out as a note under section 1304 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1600, 1613b of this title; title 31 section 9703.
 

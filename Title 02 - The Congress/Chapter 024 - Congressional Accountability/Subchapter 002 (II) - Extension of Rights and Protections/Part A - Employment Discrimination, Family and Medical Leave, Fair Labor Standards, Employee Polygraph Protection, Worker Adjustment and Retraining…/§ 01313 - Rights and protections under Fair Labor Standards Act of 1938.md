@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The rights and protections established by subsections (a)(1) and (d) of section 6, section 7, and section 12(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206 (a)(1) and (d), 207, 212(c)) shall apply to covered employees.
+&emsp;The rights and protections established by subsections (a)(1) and (d) of section 6, section7, and section 12(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206 (a)(1) and (d), 207, 212(c)) shall apply to covered employees.
 
 #### (2) Interns
 
@@ -26,7 +26,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (2) Agency regulations
 
-&emsp;Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, thata modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+&emsp;Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 #### (3) Irregular work schedules
 
@@ -54,7 +54,7 @@ Section is comprised of section 203 of Pub. L. 104–1. Subsec. (d) of section 2
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–197, §312(a), inserted “and in subsection (c)(4) of this section” after “subsection (c)(3) of this section”.
+1996—Subsec. (a)(3). Pub. L. 104–197, §312(a), inserted “and in subsection (c)(4) of this section” after “subsection (c)(3) of this section”.
 
 Subsec. (c)(4). Pub. L. 104–197, §312(b), added par. (4).
 

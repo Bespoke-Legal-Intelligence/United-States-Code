@@ -1,9 +1,5 @@
 ### SUBCHAPTER IX—EDUCATIONAL RESEARCH AND IMPROVEMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5802, 9562 of this title.
-
 
 ---
 

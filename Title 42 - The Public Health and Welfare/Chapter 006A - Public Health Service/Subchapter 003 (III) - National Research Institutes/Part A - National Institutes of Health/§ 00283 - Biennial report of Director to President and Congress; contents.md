@@ -26,7 +26,3 @@ Division of Research Resources changed to National Center for Research Resources
 
 National Center for Nursing Research changed to National Institute of Nursing Research by Pub. L. 103–43, title XV, §1511, June 10, 1993, 107 Stat. 178.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 283e, 284b, 285g–4, 285q–3, 287a–1, 287d, 287d–2, 289a–2 of this title.
-

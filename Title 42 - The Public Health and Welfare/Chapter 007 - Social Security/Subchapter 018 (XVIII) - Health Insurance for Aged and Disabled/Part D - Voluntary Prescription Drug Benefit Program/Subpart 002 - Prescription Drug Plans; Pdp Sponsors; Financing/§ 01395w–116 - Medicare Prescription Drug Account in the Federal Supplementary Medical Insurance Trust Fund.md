@@ -64,7 +64,3 @@
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–16, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2120.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395t, 1395w–141, 1395w–151 of this title.
-

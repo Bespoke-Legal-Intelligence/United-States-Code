@@ -30,7 +30,3 @@ There is hereby established within the Department of the Interior the Office of 
 
 (Pub. L. 103–412, title III, §302, Oct. 25, 1994, 108 Stat. 4244.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4001, 4043 of this title.
-

@@ -34,7 +34,7 @@ The President shall—
 
 > The analysis described in subparagraph (D) shall include an analysis of how each agency's budget request relates to the priorities and goals of the program established pursuant to this chapter.
 
-(3) The Secretary may provide, through the Office, financial assistance, in the form of contracts or grants or cooperative agreements, for climate-related activities which are needed to meet the goals and priorities of the program set forth in the 5-year plan pursuant to subsection (d)(9) of this section, if such goals and priorities are not being adequately addressed by any Federal department, agency, or instrumentality.
+(3) The Secretary may provide, through the Office, financial assistance, in the form of contracts or grants or cooperative agreements, forclimate-related activities which are needed to meet the goals and priorities of the program set forth in the 5-year plan pursuant to subsection (d)(9) of this section, if such goals and priorities are not being adequately addressed by any Federal department, agency, or instrumentality.
 
 (4) Each Federal officer, employee, department and agency involved in the Program shall cooperate with the Secretary in carrying out the provisions of this chapter.
 
@@ -54,7 +54,7 @@ The Program shall include, but not be limited to, the following elements:
 
 &emsp;(6) measures for increasing international cooperation in climate research, monitoring, analysis and data dissemination;
 
-&emsp;(7) mechanisms for intergovernmental climate-related studies and services includingparticipation by universities, the private sector and others concerned with applied research and advisory services. Such mechanisms may provide, among others, for the following State and regional services and functions: (A) studies relating to and analyses of climatic effects on agricultural production, water resources, energy needs, and other critical sectors of the economy; (B) atmospheric data collection and monitoring on a statewide and regional basis; (C) advice to regional, State, and local government agencies regarding climate-related issues; (D) information to users within the State regarding climate and climatic effects; and (E) information to the Secretary regarding the needs of persons within the States for climate-related services, information, and data. The Secretary may make annual grants to any State or group of States, which grants shall be made available to public or private educational institutions, to State agencies, and to other persons or institutions qualified to conduct climate-related studies or provide climate-related services;
+&emsp;(7) mechanisms for intergovernmental climate-related studies and services including participation by universities, the private sector and others concerned with applied research and advisory services. Such mechanisms may provide, among others, for the following State and regional services and functions: (A) studies relating to and analyses of climatic effects on agricultural production, water resources, energy needs, and other critical sectors of the economy; (B) atmospheric data collection and monitoring on a statewide and regional basis; (C) advice to regional, State, and local government agencies regarding climate-related issues; (D) information to users within the State regarding climate and climatic effects; and (E) information to the Secretary regarding the needs of persons within the States for climate-related services, information, and data. The Secretary may make annual grants to any State or group of States, which grants shall be made available to public or private educational institutions, to State agencies, and to other persons or institutions qualified to conduct climate-related studies or provide climate-related services;
 
 &emsp;(8) experimental climate forecast centers, which shall (A) be responsible for making and routinely updating experimental climate forecasts of a monthly, seasonal, annual, and longer nature, based on a variety of experimental techniques; (B) establish procedures to have forecasts reviewed and their accuracy evaluated; and (C) protect against premature reliance on such experimental forecasts; and
 
@@ -80,7 +80,7 @@ The Program shall include, but not be limited to, the following elements:
 
 (1) The Program shall be conducted so as to encourage cooperation with, and participation in the Program by, other organizations or agencies involved in related activities. For this purpose the Secretary shall cooperate and participate with other Federal agencies, and foreign, international, and domestic organizations and agencies involved in international or domestic climate-related programs.
 
-(2) The Secretary and the Secretary of State shall cooperate with the Office in (A) providing representation at climate-related international meetings and conferences in which the United States participates, and (B) coordinating the activities of the Program with the climate programs of other nations and international agencies and organizations, including the World Meteorological Organization, the International Council of Scientific Unions, the United Nations Environmental Program, the United Nations Educational, Scientific, and Cultural Organization, the World Health Organization, and Food and Agriculture Organization.
+(2) The Secretary and the Secretary of State shall cooperate with the Office in (A) providingrepresentation at climate-related international meetings and conferences in which the United States participates, and (B) coordinating the activities of the Program with the climate programs of other nations and international agencies and organizations, including the World Meteorological Organization, the International Council of Scientific Unions, the United Nations Environmental Program, the United Nations Educational, Scientific, and Cultural Organization, the World Health Organization, and Food and Agriculture Organization.
 
 #### (g) Budgeting
 
@@ -105,8 +105,4 @@ Subsec. (e). Pub. L. 99–272, §6084(d), substituted provisions relating to the
 Subsec. (f)(2). Pub. L. 99–272, §6084(e), substituted “shall cooperate with the Office in” for “shall cooperate in”.
 
 Subsec. (g). Pub. L. 99–272, §6084(f), inserted provision requiring each Federal agency and department participating in the Program to transmit a copy of such request to the National Climate Program Office.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2906 of this title; title 31 section 1105.
 

@@ -8,7 +8,3 @@ The Secretary of the Interior is directed to restore to tribal ownership all und
 
 Act Aug. 15, 1953, ch. 509, §4, 67 Stat. 613, set out as a note under section 611 of this title, provided that all lands of the Wind River Indian Reservation ceded for the Riverton reclamation project in Wyoming and not used for such project were restored to the ownership of the Arapaho and Shoshone Tribes.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 571, 577 of this title.
-

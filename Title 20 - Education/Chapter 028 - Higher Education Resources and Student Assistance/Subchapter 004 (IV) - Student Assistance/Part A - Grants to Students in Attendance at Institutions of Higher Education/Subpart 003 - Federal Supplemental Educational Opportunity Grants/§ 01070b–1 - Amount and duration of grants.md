@@ -22,15 +22,11 @@ Nothing in this section shall be construed to prohibit an institution from makin
 
 #### Prior Provisions
 
-A prior section 1070b–1, Pub. L. 89–329, title IV, §413B, as added Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 252; amended Pub. L. 96–374, title IV, §403(c), Oct. 3, 1980, 94 Stat. 1405, related to amount and duration of supplemental educational opportunity grants, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070b–1, Pub. L. 89–329, title IV, §413B, as added Pub. L. 92–318, title I, §131(b)(1), June 23, 1972,86 Stat. 252; amended Pub. L. 96–374, title IV, §403(c), Oct. 3, 1980, 94 Stat. 1405, related to amount and duration of supplemental educational opportunity grants, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
 1992—Subsec. (a)(1). Pub. L. 102–325, §403(c)(1), substituted “Except as provided in paragraph (3), from” for “From” in introductory provisions and inserted “or in a program of study abroad that is approved for credit by the institution at which the student is enrolled” after “course of study at the institution” in subpar. (A).
 
 Subsec. (a)(3). Pub. L. 102–325, §403(c)(2), added par. (3).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1070b–2 of this title.
 

@@ -22,9 +22,5 @@ This subchapter and subchapters I–B and I–C of this chapter known as the “
 
 #### Separability
 
-Section 208 of Pub. L. 94–73 provided that: “If any amendments made by this Act \[enacting sections 1973aa–1a and 1973aa–5 of this title, amending this section and sections 1973a to 1973d, 1973h, 1973i, 1973k, 1973<i>l</i>, 1973aa, 1973aa–2, 1973aa–3, 1973bb, 1973bb–1 of this title, and repealing sections 1973bb–2 to 1973bb–4 of this title\] or the application of any provision thereof to any person or circumstance is judicially determined to be invalid, the remainder of the Voting Rights Act of 1965 \[this subchapter and subchapters I–B and I–C of this chapter\], or the application of such provision to otherpersons or circumstances shall not be affected by such determination.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1973j of this title.
+Section 208 of Pub. L. 94–73 provided that: “If any amendments made by this Act \[enacting sections 1973aa–1a and 1973aa–5 of this title, amending this section and sections 1973a to 1973d, 1973h, 1973i, 1973k, 1973<i>l</i>, 1973aa, 1973aa–2, 1973aa–3, 1973bb, 1973bb–1 of this title, and repealing sections 1973bb–2 to 1973bb–4 of this title\] or the application of any provision thereof to any person or circumstance is judicially determined to be invalid, the remainder of the Voting Rights Act of 1965 \[this subchapter and subchapters I–B and I–C of this chapter\], or the application of such provision to other persons or circumstances shall not be affected by such determination.”
 

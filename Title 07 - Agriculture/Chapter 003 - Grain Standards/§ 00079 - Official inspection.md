@@ -2,7 +2,7 @@
 
 #### (a) Grain required to be officially inspected
 
-The Secretary is authorized to cause official inspection under the standards provided for insection 76 of this title to be made of all grain required to be officially inspected as provided in section 77 of this title, in accordance with such regulations as the Secretary may prescribe.
+The Secretary is authorized to cause official inspection under the standards provided for in section 76 of this title to be made of all grain required to be officially inspected as provided in section 77 of this title, in accordance with such regulations as the Secretary may prescribe.
 
 #### (b) Inspections made pursuant to request of interested persons
 
@@ -22,7 +22,7 @@ Official certificates setting out the results of official inspection issued and 
 
 (2) If the Secretary determines, pursuant to paragraph (3) of this subsection, that a State agency is qualified to perform official inspection, meets the criteria in subsection (f)(1)(A) of this section, and (A) was performing official inspection at an export port location under this chapter on July 1, 1976, or (B)(i) performed official inspection at an export port location at any time prior to July 1, 1976, (ii) was designated under subsection (f) of this section on December 22, 1982, to perform official inspections at locations other than export port locations, and (iii) operates in a State from which total annual exports of grain do not exceed, as determined by the Secretary, 5 per centum of the total amount of grain exported from the United States annually, the Secretary may delegate authority to the State agency to perform all or specified functions involved in official inspection (other than appeal inspection) at export port locations within the State, including export port locations which may in the future be established, subject to such rules, regulations, instructions, and oversight as the Secretary may prescribe, and any such official inspection shall continue to be the direct responsibility of the Secretary. Any such delegation may be revoked by the Secretary, at the discretion of the Secretary, at any time upon notice to the State agency without opportunity for a hearing.
 
-(3) Prior to delegating authority to a State agency for the performance of official inspection at export port locations pursuant to paragraph (2) of this subsection, the Secretary shall (A) conduct an investigation to determine whether such agency is qualified, and (B) make findings based on such investigation. In conducting the investigation, the Secretary shall consult with, and review the available files of the Department of Justice, the Office of Investigation of the Department of Agriculture (or such other organization or agency within the Department of Agriculture which may be delegated the authority, in lieu thereof, to conduct investigations on behalf of the Department of Agriculture), and the General Accounting Office.
+(3) Prior to delegating authority to a State agency for the performance of official inspection at export port locations pursuant to paragraph (2) of this subsection, the Secretary shall (A) conduct an investigation to determine whether such agency is qualified, and (B) make findings based on such investigation. In conducting the investigation, the Secretary shall consult with, and review the available files of the Department of Justice, the Office of Investigation of the Department of Agriculture (or such other organization or agency within the Department of Agriculture which may be delegated the authority, in lieu thereof, to conduct investigations on behalf of the Department of Agriculture), and the Government Accountability Office.
 
 (4) The Secretary may provide that grain loaded at an interior point in the United States into a rail car, barge, or other container as the final carrier in which it is to be transported from the United States shall be inspected in the manner provided in this subsection or subsection (f) of this section, as the Secretary determines will best meet the objectives of this chapter.
 
@@ -78,13 +78,13 @@ Geographic boundaries for official agencies.—Not more than one official agency
 
 (1) Designations of official agencies shall terminate at such time as specified by the Secretary but not later than triennially and may be renewed in accordance with the criteria and procedure prescribed in subsection (f) of this section.
 
-(2) A designation of an official agency may be amended at any time upon application by the official agency if the Secretary determines that the amendment will be consistent with the provisions and objectives of this chapter; and a designation will be cancelled upon request by the official agency with ninety days written notice to the Secretary. A fee as prescribed by regulations of the Secretary shall be paid by the official agency to the Secretary for each such amendment, to cover the costs incurred by the Secretary in connection therewith, and it shall be deposited in the fund created in subsection (j) of this section.
+(2) A designation of an official agency may be amended at any time upon application by the official agency if the Secretary determines that the amendment will be consistent with the provisions and objectives of this chapter; and a designation will be cancelled upon request by the official agency with ninety days written noticeto the Secretary. A fee as prescribed by regulations of the Secretary shall be paid by the official agency to the Secretary for each such amendment, to cover the costs incurred by the Secretary in connection therewith, and it shall be deposited in the fund created in subsection (j) of this section.
 
 (3) The Secretary may revoke a designation of an official agency whenever, after opportunity for hearing is afforded the agency, the Secretary determines that the agency has failed to meet one or more of the criteria specified in subsection (f) of this section or the regulations under this chapter for the performance of official functions, or otherwise has not complied with any provision of this chapter or any regulation prescribed or instruction issued to such agency under this chapter, or has been convicted of any violation of other Federal law involving the handling or official inspection of grain: <i>Provided</i>, That the Secretary may, without first affording the official agency an opportunity for a hearing, suspend any designation pending final determination of the proceeding whenever the Secretary has reason to believe there is cause for revocation of the designation and considers such action to be in the best interest of the official inspection system under this chapter. The Secretary shall afford any such agency an opportunity for a hearing within thirty days after temporarily suspending such designation.
 
 #### (h) Official inspections at locations other than export port locations when designated official agencies are not available
 
-If the Secretary determines that official inspection by an official agency designated under subsection (f) of this section is not available on a regular basis at any location (other than at an export port location) where the Secretary determines such inspection is needed to effectuate the objectives stated in section 74 of this title, and that no official agency within reasonableproximity to such location is willing to provide or has or can acquire adequate personnel and facilities for providing such service on an interim basis, official inspection shall be provided by authorized employees of the Secretary, and other persons licensed by the Secretary to perform official inspection functions, as provided in section 84 of this title, until such time as the service can be provided on a regular basis by an official agency.
+If the Secretary determines that official inspection by an official agency designated under subsection (f) of this section is not available on a regular basis at any location (other than at an export port location) where the Secretary determines such inspection is needed to effectuate the objectives stated in section 74 of this title, and that no official agency within reasonable proximity to such location is willing to provide or has or can acquire adequate personnel and facilities for providing such service on an interim basis, official inspection shall be provided by authorized employees of the Secretary, and other persons licensed by the Secretary to perform official inspection functions, as provided in section 84 of this title, until such time as the service can be provided on a regular basis by an official agency.
 
 #### (i) Official inspections in Canadian ports
 
@@ -100,7 +100,7 @@ The Secretary is authorized to cause official inspection under this chapter to b
 
 (4) The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2005. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
 
-(Aug. 11, 1916, ch. 313, pt. B, §7, 39 Stat. 484; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, §8, formerly §8(a), Oct. 21, 1976, 90 Stat. 2870, renumbered Pub. L. 106–472, title I, §110(a)(1), Nov. 9, 2000, 114 Stat. 2060; Pub. L. 95–113, title XVI, §§1602(a), 1604(d), 1606(d), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, §155(1), Aug. 13, 1981, 95 Stat. 371; Pub. L. 97–98, title IX, §1113(a), Dec. 22, 1981, 95 Stat. 1268; Pub. L. 98–469, §2(1), Oct. 11, 1984, 98 Stat. 1831; Pub. L. 100–518, §2(1), Oct. 24, 1988, 102 Stat. 2584; Pub. L. 103–156, §§4(a), 5(a), 12(d), 14(a), Nov. 24, 1993, 107 Stat. 1525, 1526, 1528, 1529; Pub. L. 103–354, title II, §293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§102(a), 103(a), Nov. 9, 2000, 114 Stat. 2059, 2060.)
+(Aug. 11, 1916, ch. 313, pt. B, §7, 39 Stat. 484; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, §8, formerly §8(a), Oct. 21, 1976, 90 Stat. 2870, renumbered Pub. L. 106–472, title I, §110(a)(1), Nov. 9, 2000, 114 Stat. 2060; Pub. L. 95–113, title XVI, §§1602(a), 1604(d), 1606(d), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, §155(1), Aug. 13, 1981, 95 Stat. 371; Pub. L. 97–98, title IX, §1113(a), Dec. 22, 1981, 95 Stat. 1268; Pub. L. 98–469, §2(1), Oct. 11, 1984, 98 Stat. 1831; Pub. L. 100–518, §2(1), Oct. 24, 1988, 102 Stat. 2584; Pub. L. 103–156, §§4(a), 5(a), 12(d), 14(a), Nov. 24, 1993, 107 Stat. 1525, 1526, 1528, 1529; Pub. L. 103–354, title II, §293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§102(a), 103(a), Nov. 9, 2000, 114 Stat. 2059, 2060; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -112,7 +112,9 @@ Section as originally enacted was composed of part of section 7 of part B of act
 
 #### Amendments
 
-2000—Subsec. (f)(2). Pub. L. 106–472, §102(a), added heading and text of par. (2) and struck out former par.\(2) which read as follows: “Not more than one official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in section 74 of this title, except that the Secretary may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title.”
+2004—Subsec. (e)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
+2000—Subsec. (f)(2). Pub. L. 106–472, §102(a), added heading and text of par. (2) and struck out former par. (2) which read as follows: “Not more than one official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in section 74 of this title, except that the Secretary may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title.”
 
 Subsec. (j)(4). Pub. L. 106–472, §103(a), substituted “2005” for “2000” in first sentence.
 
@@ -172,7 +174,7 @@ Subsec. (f). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered by Pub.
 
 Subsecs. (g) to (j). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered by Pub. L. 106–472, §110(a)(1), added subsecs. (g) to (j).
 
-1968—Pub. L. 90–487 substituted provisions covering the authority and funding of official inspections forprovisions covering the licensing of inspectors and the utilization by the Secretary of Agriculture of State inspectors.
+1968—Pub. L. 90–487 substituted provisions covering the authority and funding of official inspections for provisions covering the licensing of inspectors and the utilization by the Secretary of Agriculture of State inspectors.
 
 #### Effective Date of 2000 Amendment
 
@@ -207,10 +209,6 @@ For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90
 #### Investigations and Studies of Grain Inspection and Weighing in Interior of United States; Completion of Studies and Submission of Reports by May 20, 1979, and Nov. 20, 1979, Respectively
 
 Section 8(b) of Pub. L. 94–582, as amended by Pub. L. 95–113, title XVI, §§1605(a), 1607(a), Sept. 29, 1977, 91 Stat. 1029, 1031, which directed the Administrator of the Federal Grain Inspection Service, the Director of the Office of Investigation of the United States Department of Agriculture, and the Comptroller General of the United States to severally conduct investigations into and study grain inspection and weighing in the interior of the United States, and required the Administrator and Director to submit reports to Congress not later than 30 months after Oct. 21, 1976, and the Comptroller General to submit a report not later than three years after Oct. 21, 1976, was repealed by Pub. L. 106–472, title I, §110(a)(2), Nov. 9, 2000, 114 Stat. 2060.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 75, 79a, 79b, 84, 87b, 87e, 87f–1, 87h of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

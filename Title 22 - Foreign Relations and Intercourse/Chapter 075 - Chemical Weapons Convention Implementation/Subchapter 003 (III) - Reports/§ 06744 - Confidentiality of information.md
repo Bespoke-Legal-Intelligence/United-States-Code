@@ -8,11 +8,11 @@ Except as provided in subsection (b) or (c) of this section, any confidential bu
 
 #### (1) Information for the Technical Secretariat
 
-&emsp;Information shall be disclosed or otherwise provided to the Technical Secretariat or other states parties to the Chemical Weapons Convention in accordance with the Convention, in particular, the provisions of the Annex on the Protection of Confidential Information.
+&emsp;Information shall be disclosed or otherwise provided to the Technical Secretariat or otherstates parties to the Chemical Weapons Convention in accordance with the Convention, in particular, the provisions of the Annex on the Protection of Confidential Information.
 
 #### (2) Information for Congress
 
-&emsp;Information shall be made available to any committee or subcommittee of Congress withappropriate jurisdiction upon the written request of the chairman or ranking minority member of such committee or subcommittee, except that no such committee or subcommittee, and no member and no staff member of such committee or subcommittee, shall disclose such information or material except as otherwise required or authorized by law.
+&emsp;Information shall be made available to any committee or subcommittee of Congress with appropriate jurisdiction upon the written request of the chairman or ranking minority member of such committee or subcommittee, except that no such committee or subcommittee, and no member and no staff member of such committee or subcommittee, shall disclose such information or material except as otherwise required or authorized by law.
 
 #### (3) Information for enforcement actions
 

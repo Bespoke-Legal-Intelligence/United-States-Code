@@ -1,9 +1,5 @@
 Part A—Actions To Ensure Pro-Competitive Privatization
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 763, 763a, 763b, 763c of this title.
-
 
 ---
 

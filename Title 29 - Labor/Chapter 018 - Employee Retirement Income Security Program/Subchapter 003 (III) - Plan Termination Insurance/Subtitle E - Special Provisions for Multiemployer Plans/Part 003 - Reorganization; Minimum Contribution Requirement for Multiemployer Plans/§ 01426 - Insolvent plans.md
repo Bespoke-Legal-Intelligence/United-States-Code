@@ -28,7 +28,7 @@ For purposes of this section, for a plan year—
 
 (B) For purposes of this paragraph, the term “excess resources” means available resources above the amount necessary to support the resource benefit level, but no greater than the amount necessary to pay benefits for the plan year at the benefit levels under the plan.
 
-(5) If, by the end of an insolvency year, any benefit has not been paid at the resource benefit level, amounts up to the resource benefit level which were unpaid shall be distributed to the participants and beneficiaries, in accordance with regulations prescribed by the Secretary of the Treasury, to the extent possible taking into account the plan's total available resources in that insolvency year.
+(5) If, by the end of an insolvency year, any benefit has not been paid at the resource benefit level, amounts up to the resource benefit level which were unpaid shall be distributed to the participants and beneficiaries, in accordance with regulations prescribed by the Secretary ofthe Treasury, to the extent possible taking into account the plan's total available resources in that insolvency year.
 
 (6) Except as provided in paragraph (4) or (5), a plan is not required to make retroactive benefit payments with respect to that portion of a benefit which was suspended under this section.
 
@@ -75,8 +75,4 @@ Section 108(c)(3) of Pub. L. 96–364 provided that:
 &emsp;“(i) the plan would have been eligible for the overburden credit in the last plan year beginning before the date of the enactment of this Act \[Sept. 26, 1980\], if section 4243 of the Employee Retirement Income Security Act of 1974 \[section 1423 of this title\] had been in effect for that plan year, and
 
 &emsp;“(ii) the Pension Benefit Guaranty Corporation determines that the reduction of unfunded vested benefits under subparagraph (A) would not significantly increase the risk of loss to the corporation.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1053, 1202, 1322a, 1361, 1411, 1423, 1431, 1441, 1461 of this title.
 

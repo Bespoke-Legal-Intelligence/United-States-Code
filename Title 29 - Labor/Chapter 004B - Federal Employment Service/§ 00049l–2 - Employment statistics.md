@@ -110,7 +110,7 @@ The Secretary, working through the Bureau of Labor Statistics, and in cooperatio
 
 &emsp;(4) justify the budget request for annual appropriations by describing priorities for the fiscal year succeeding the fiscal year in which the plan is developed and priorities for the 5 subsequent fiscal years for the system;
 
-&emsp;(5) describe current (as of the date of the submission of the plan) spending and spending needs to carry out activities under this section, including the costs to States and localities of meeting the requirements of subsection (e)(2) of this section; and
+&emsp;(5) describe current (as of the date of the submission of the plan) spending and spendingneeds to carry out activities under this section, including the costs to States and localities of meeting the requirements of subsection (e)(2) of this section; and
 
 &emsp;(6) describe the involvement of States in the development of the plan, through formal consultations conducted by the Secretary in cooperation with representatives of the Governors of every State, and with representatives of local workforce investment boards, pursuant to a process established by the Secretary in cooperation with the States.
 
@@ -201,10 +201,6 @@ Pub. L. 105–277, div. A, §101(f) \[title VIII, §403(a)(2)\], Oct. 21, 1998, 
 #### Effective Date
 
 Section effective July 1, 1999, see section 311 of Pub. L. 105–220, set out as an Effective Date of 1998 Amendment note under section 49a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 751, 2821, 2832, 2864 of this title; title 20 section 2328.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,12 +1,12 @@
 ### §1914. District court; filing and miscellaneous fees; rules of court
 
-(a) The clerk of each district court shall require the parties instituting any civil action, suit or proceeding in such court, whether by original process, removal or otherwise, to pay a filing fee of $150, except that on application for a writ of habeas corpus the filing fee shall be $5.
+(a) The clerk of each district court shall require the parties instituting any civil action, suit or proceeding in such court, whether by original process, removal or otherwise, to pay a filing fee of $250, except that on application for a writ of habeas corpus the filing fee shall be $5.
 
 (b) The clerk shall collect from the parties such additional fees only as are prescribed by the Judicial Conference of the United States.
 
 (c) Each district court by rule or standing order may require advance payment of fees.
 
-(June 25, 1948, ch. 646, 62 Stat. 954; Pub. L. 95–598, title II, §244, Nov. 6, 1978, 92 Stat. 2671; Pub. L. 99–336, §4(a), June 19, 1986, 100 Stat. 637; Pub. L. 99–500, §101(b) \[title IV, §407(a)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(a)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; Pub. L. 104–317, title IV, §401(a), Oct. 19, 1996, 110 Stat. 3853.)
+(June 25, 1948, ch. 646, 62 Stat. 954; Pub. L. 95–598, title II, §244, Nov. 6, 1978, 92 Stat. 2671; Pub. L. 99–336, §4(a), June 19, 1986, 100 Stat. 637; Pub. L. 99–500, §101(b) \[title IV, §407(a)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(a)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; Pub. L. 104–317, title IV, §401(a), Oct. 19, 1996, 110 Stat. 3853; Pub. L. 108–447, div. B, title III, §307(a), Dec. 8, 2004, 118 Stat. 2895.)
 
 #### Historical and Revision Notes
 
@@ -30,6 +30,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+2004—Subsec. (a). Pub. L. 108–447 substituted “$250” for “$150”.
+
 1996—Subsec. (a). Pub. L. 104–317 substituted “$150” for “$120”.
 
 1986—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591 substituted “$120” for “$60”.
@@ -38,9 +40,13 @@ Subsec. (d). Pub. L. 99–336 struck out subsec. (d) which provided that section
 
 1978—Subsec. (a). Pub. L. 95–598 substituted “$60” for “$15”.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–447, div. B, title III, §307(c), Dec. 8, 2004, 118 Stat. 2895, provided that: “This section \[amending this section and section 1931 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Dec. 8, 2004\].”
+
 #### Effective Date of 1996 Amendment
 
-Section 401(c) of Pub. L. 104–317 provided that: “This section \[amending this section and section 1931 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 19, 1996\].”
+Section 401(c) of Pub. L. 104–317 provided that: “This section \[amending this section and section 1931 of thistitle\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 19, 1996\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -53,8 +59,4 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub.
 #### Court Fees for Electronic Access to Information
 
 Judicial Conference to prescribe reasonable fees for collection by courts under this section for access to information available through automatic data processing equipment and fees to be deposited in Judiciary Automation Fund, see section 303 of Pub. L. 102–140, set out as a note under section 1913 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1930, 1931, 2412 of this title; title 11 section 330.
 

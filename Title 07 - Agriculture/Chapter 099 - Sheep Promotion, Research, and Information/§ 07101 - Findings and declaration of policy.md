@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(3) sheep and sheep products must be high quality, readily available, handled properly, and marketed efficiently to ensure that consumers have an adequate supply of sheep products;
 
-&emsp;(4) the maintenance and expansion of existing markets and development of new markets for sheep and sheep products are vital to the welfare of sheep producers and persons concerned with marketing, using, and producing sheep and sheep products, as well as to the general economy of the United States, and necessary to ensure the ready availability and efficient marketing of sheep and sheep products;
+&emsp;(4) the maintenance and expansion of existing markets and development of new markets for sheep and sheep products are vital to thewelfare of sheep producers and persons concerned with marketing, using, and producing sheep and sheep products, as well as to the general economy of the United States, and necessary to ensure the ready availability and efficient marketing of sheep and sheep products;
 
 &emsp;(5) there exist established State organizations conducting sheep and sheep product promotion, research, and industry and consumer education programs that are invaluable to the efforts of promoting the consumption of sheep and sheep products;
 
@@ -34,13 +34,17 @@ Nothing in this chapter provides for the control of production, or otherwise lim
 
 (Pub. L. 103–407, §2, Oct. 22, 1994, 108 Stat. 4210.)
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–429, title IV, §4001, Dec. 3, 2004, 118 Stat. 2600, provided that: “This title \[amending provisions set out as a note under this section\] may be cited as the ‘Wool Suit and Textile Trade Extension Act of 2004’.”
+
 #### Short Title
 
 Section 1 of Pub. L. 103–407 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Sheep Promotion, Research, and Information Act of 1994’.”
 
 #### Wool Research, Development, and Promotion Trust Fund
 
-Pub. L. 106–200, title V, §506, May 18, 2000, 114 Stat. 303, as amended by Pub. L. 107–210, div. E, title L, §5102(c)(2), Aug. 6, 2002, 116 Stat. 1047, provided that:
+Pub. L. 106–200, title V, §506, May 18, 2000, 114 Stat. 303, as amended by Pub. L. 107–210, div. E, title L, §5102(c)(2), Aug. 6, 2002, 116 Stat. 1047; Pub. L. 108–429, title IV, §4002(c)(5), Dec. 3, 2004, 118 Stat. 2603, provided that:
 
 “(a)
 
@@ -90,5 +94,5 @@ Reports to Congress.—The Secretary of the Treasury, in consultation with the S
 
 “(f)
 
-Sunset Provision.—Effective January 1, 2006, the Trust Fund shall be abolished and all amounts in the Trust Fund on such date shall be transferred to the general fund of the Treasury of the United States.”
+Sunset Provision.—Effective January 1, 2008, the Trust Fund shall be abolished and all amounts in the Trust Fund on such date shall be transferred to the general fund of the Treasury of the United States.”
 

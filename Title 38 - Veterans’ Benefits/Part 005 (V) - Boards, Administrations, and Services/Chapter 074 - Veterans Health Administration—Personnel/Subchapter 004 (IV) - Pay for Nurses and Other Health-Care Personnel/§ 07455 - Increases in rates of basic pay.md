@@ -90,7 +90,3 @@ Sec. 7. This order shall be effective upon publication in the Federal Register.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 902, 7457, 7612 of this title.
-

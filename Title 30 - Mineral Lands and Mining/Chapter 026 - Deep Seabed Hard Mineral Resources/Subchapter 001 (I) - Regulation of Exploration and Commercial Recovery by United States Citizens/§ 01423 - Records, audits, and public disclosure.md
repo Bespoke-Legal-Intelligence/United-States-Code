@@ -20,9 +20,5 @@ Copies of any document, report, communication, or other record maintained or rec
 
 Section 1469 of this title, referred to in subsec. (b), was omitted from the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1428 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -38,7 +38,7 @@ It is the sense of Congress that—
 
 &emsp;&emsp;(B) the establishment of a process to receive and administer claims for compensation for disability or death of covered employees;
 
-&emsp;&emsp;(C) the submittal by the President of a legislative proposal for compensation of suchemployees that includes the estimated annual budget resources for that compensation; and
+&emsp;&emsp;(C) the submittal by the President of a legislative proposal for compensation of such employees that includes the estimated annual budget resources for that compensation; and
 
 &emsp;&emsp;(D) consideration by the Congress of the legislative proposal submitted by the President; and
 
@@ -49,6 +49,32 @@ It is the sense of Congress that—
 #### Short Title
 
 Pub. L. 106–398, §1 \[div. C, title XXXVI, §3601\], Oct. 30, 2000, 114 Stat. 1654, 1654A–495, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Energy Employees Occupational Illness Compensation Program Act of 2000’.”
+
+#### Update of Report on Residual Contamination of Facilities
+
+Pub. L. 108–375, div. C, title XXXI, §3169, Oct. 28, 2004, 118 Stat. 2191, provided that:
+
+“(a)
+
+Update of Report.—Not later than December 31, 2006, the Director of the National Institute for Occupational Safety and Health shall submit to Congress an update to the report required by section 3151(b) of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 42 U.S.C. 7384 note).
+
+“(b)
+
+Elements.—The update shall—
+
+&emsp;“(1) for each facility for which such report found that insufficient information was available to determine whether significant residual contamination was present, determine whether significant residual contamination was present;
+
+&emsp;“(2) for each facility for which such report found that significant residual contamination remained present as of the date of the report, determine the date on which such contamination ceased to be present;
+
+&emsp;“(3) for each facility for which such report found that significant residual contamination was present but for which the Director has been unable to determine the extent to which such contamination is attributable to atomic weapons-related activities, identify the specific dates of coverage attributable to such activities and, in so identifying, presume that such contamination is attributable to such activities until there is evidence of decontamination of residual contamination identified with atomic weapons-related activities;
+
+&emsp;“(4) for each facility for which such report found significant residual contamination, determine whether it is at least as likely as not that such contamination could have caused an employee who was employed at such facility only during the residual contamination period to contract a cancer or beryllium illness compensable under subtitle B of the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7384<i>l</i> et seq.\]; and
+
+&emsp;“(5) if new information that pertains to the report has been made available to the Director since that report was submitted, identify and describe such information.
+
+“(c)
+
+Publication.—The Director shall ensure that the report referred to in subsection (a) is published in the Federal Register not later than 15 days after being released.”
 
 #### Study of Residual Contamination of Facilities
 
@@ -92,7 +118,7 @@ Ex. Ord. No. 13179, Dec. 7, 2000, 65 F.R. 77487, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including Public Law 106–398, the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7384 et seq.\] (Public Law 106–398, the “Act”), and to allocate the responsibilities imposed by that legislation and to provide for further legislative efforts, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Since World War II, hundreds of thousands of men and women have served their Nation in building its nuclear defense. In the course of their work, they overcame previously unimagined scientific and technical challenges. Thousands of these courageous Americans, however, paid a high price for their service, developing disabling or fatal illnesses as a result of exposure to beryllium, ionizing radiation, and other hazards unique to nuclear weapons production and testing. Too often, these workers were neither adequately protected from, nor informed of, the occupational hazards to which they were exposed.
+Section 1. <i>Policy</i>. Since World War II, hundreds of thousands of men and women have served their Nation in building its nuclear defense. In the course of their work, they overcame previously unimagined scientificand technical challenges. Thousands of these courageous Americans, however, paid a high price for their service, developing disabling or fatal illnesses as a result of exposure to beryllium, ionizing radiation, and other hazards unique to nuclear weapons production and testing. Too often, these workers were neither adequately protected from, nor informed of, the occupational hazards to which they were exposed.
 
 Existing workers’ compensation programs have failed to provide for the needs of these workers and their families. Federal workers’ compensation programs have generally not included these workers. Further, because of long latency periods, the uniqueness of the hazards to which they were exposed, and inadequate exposure data, many of these individuals have been unable to obtain State workers’ compensation benefits. This problem has been exacerbated by the past policy of the Department of Energy (DOE) and its predecessors of encouraging and assisting DOE contractors in opposing the claims of workers who sought those benefits. This policy has recently been reversed.
 
@@ -140,7 +166,7 @@ Sec. 2. <i>Designation of Responsibilities for Administering the Energy Employee
 
 (1) Submittal of reasonable claims to a physician panel, appointed by the Secretary of Health and Human Services and administered by the Secretary of Energy, under procedures established by the Secretary of Energy, for determination of whether the individual's illness or death arose out of and in the course of employment by the DOE or its contractors and exposure to a toxic substance at a DOE facility; and
 
-(2) For cases determined by the physician panel and the Secretary of Energy under section 3661(d) and (e) of the Act \[42 U.S.C. 7385<i>o</i>(d), (e)\] to have arisen out of and in the course of employment by the DOE or its contractors and exposure to a toxic substance at a DOE facility, provide assistance to the individual in filing for workers’ compensation benefits. The Secretary shall not contest these claims and, to the extent permitted by law, shall direct a DOE contractor who employed the applicant not to contest the claim;
+(2) For cases determined by the physician panel and the Secretary of Energy under section 3661(d) and (e) of the Act \[42 U.S.C. 7385<i>o</i>(d), (e)\] to have arisen out of and in the course of employment by the DOE or its contractors and exposure to a toxic substance at a DOE facility, provide assistance to the individual in filing forworkers’ compensation benefits. The Secretary shall not contest these claims and, to the extent permitted by law, shall direct a DOE contractor who employed the applicant not to contest the claim;
 
 (vi) Report on the Worker Assistance Program by making publicly available on at least an annual basis claims-related data, including the number of claims filed, the number of illnesses found to be related to work at a DOE facility, job location and description, and number of successful State workers’ compensation claims awarded; and
 
@@ -174,7 +200,7 @@ Sec. 4. <i>Establishment of Advisory Board on Radiation and Worker Health.</i>
 
 (ii) Advise the Secretary of Health and Human Services on the scientific validity and quality of dose reconstruction efforts performed for this Program; and
 
-(iii) Upon request by the Secretary of Health and Human Services, advise the Secretary on whether there is a class of employees at any Department of Energy facility who were exposed to radiation but for whom it is not feasible to estimate their radiation dose, and onwhether there is a reasonable likelihood that such radiation dose may have endangered the health of members of the class.
+(iii) Upon request by the Secretary of Health and Human Services, advise the Secretary on whether there is a class of employees at any Department of Energy facility who were exposed to radiation but for whom it is not feasible to estimate their radiation dose, and on whether there is a reasonable likelihood that such radiation dose may have endangered the health of members of the class.
 
 Sec. 5. <i>Reporting Requirements</i>. The Secretaries of Labor, Health and Human Services, and Energy shall, as part of their annual budget submissions, report to the Office of Management and Budget (OMB) on their activities under this Program, including total expenditures related to benefits and program administration. They shall also report to the OMB, no later than March 1, 2001, on the manner in which they will carry out their respective responsibilities under the Act and this order. This report shall include, among other things, a description of the administrative structure established within their agencies to implement the Act and this order. In addition, the Secretary of Labor shall annually report on the total number and types of claims for which compensation was considered and other data pertinent to evaluating the Federal Government's performance fulfilling the requirements of the Act and this order.
 

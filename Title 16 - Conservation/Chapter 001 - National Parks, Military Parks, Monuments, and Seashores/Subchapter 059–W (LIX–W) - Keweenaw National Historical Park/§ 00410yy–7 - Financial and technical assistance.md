@@ -14,7 +14,3 @@ Funds authorized to be appropriated to the Secretary for the purposes of this se
 
 (Pub. L. 102–543, §8, Oct. 27, 1992, 106 Stat. 3571.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410yy–8, 410yy–9 of this title.
-

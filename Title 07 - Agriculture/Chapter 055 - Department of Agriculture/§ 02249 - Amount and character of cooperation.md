@@ -12,7 +12,7 @@ The Department of Agriculture Organic Act of 1944, referred to in text, is act S
 
 This section was enacted as part of the Department of Agriculture Organic Act of 1944.
 
-Section was formerly classified to section 564a of Title 5 prior to the general revision and enactment ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 564a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Transfer of Functions
 

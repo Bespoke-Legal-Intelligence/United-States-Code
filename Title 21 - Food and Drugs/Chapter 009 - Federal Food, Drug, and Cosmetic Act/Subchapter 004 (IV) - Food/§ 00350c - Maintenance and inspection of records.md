@@ -2,7 +2,7 @@
 
 #### (a) Records inspection
 
-If the Secretary has a reasonable belief that an article of food is adulterated and presents a threat of serious adverse health consequences or death to humans or animals, each person (excluding farms and restaurants) who manufactures, processes, packs, distributes, receives, holds, or imports such article shall, at the request of an officer or employee duly designated by the Secretary, permit such officer or employee, upon presentation of appropriate credentials and a written notice to such person, at reasonable times and within reasonable limits and in a reasonable manner, to have access to and copy all records relating to such article that are needed to assist the Secretary in determining whether the food is adulterated and presents a threat of serious adverse health consequences or death to humans or animals. The requirement under the preceding sentence applies to all records relating to the manufacture, processing, packing, distribution, receipt, holding, or importation of such article maintained by or on behalf of such person in any format (including paper and electronic formats) and at any location.
+If the Secretary has a reasonable belief that an article of food is adulterated and presents athreat of serious adverse health consequences or death to humans or animals, each person (excluding farms and restaurants) who manufactures, processes, packs, distributes, receives, holds, or imports such article shall, at the request of an officer or employee duly designated by the Secretary, permit such officer or employee, upon presentation of appropriate credentials and a written notice to such person, at reasonable times and within reasonable limits and in a reasonable manner, to have access to and copy all records relating to such article that are needed to assist the Secretary in determining whether the food is adulterated and presents a threat of serious adverse health consequences or death to humans or animals. The requirement under the preceding sentence applies to all records relating to the manufacture, processing, packing, distribution, receipt, holding, or importation of such article maintained by or on behalf of such person in any format (including paper and electronic formats) and at any location.
 
 #### (b) Regulations concerning recordkeeping
 
@@ -37,8 +37,4 @@ The Egg Products Inspection Act, referred to in subsec. (d)(2), is Pub. L. 91–
 #### Expedited Rulemaking
 
 Pub. L. 107–188, title III, §306(d), June 12, 2002, 116 Stat. 670, provided that: “Not later than 18 months after the date of the enactment of this Act \[June 12, 2002\], the Secretary shall promulgate proposed and final regulations establishing recordkeeping requirements under subsection 414(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350c(b)\] (as added by subsection (a)).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 374 of this title.
 

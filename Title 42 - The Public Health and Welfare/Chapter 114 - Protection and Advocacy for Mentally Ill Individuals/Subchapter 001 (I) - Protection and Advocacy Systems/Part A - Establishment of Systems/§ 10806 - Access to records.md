@@ -40,7 +40,3 @@
 
 1988—Subsec. (b)(3). Pub. L. 100–509 added par. (3).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10805 of this title.
-

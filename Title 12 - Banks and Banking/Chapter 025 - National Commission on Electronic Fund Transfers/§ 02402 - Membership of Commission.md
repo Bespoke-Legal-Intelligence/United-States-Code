@@ -28,7 +28,7 @@ The Commission shall be composed of twenty-six members as follows:
 
 &emsp;(12) seven individuals, appointed by the President, who are officers or employees of, or who otherwise represent banking, thrift, or other business entities, including one representative each of commercial banks, mutual savings banks, savings and loan associations, credit unions, retailers, nonbanking institutions offering credit card services, and organizations providing interchange services for credit cards issued by banks;
 
-&emsp;(13) five individuals, appointed by the President, from private life who are not affiliated with, do not represent and have no substantial interest in any banking, thrift, or other financial institution, including but not limited to credit unions, retailers, and insurance companies;
+&emsp;(13) five individuals, appointed by the President, from private life who are not affiliatedwith, do not represent and have no substantial interest in any banking, thrift, or other financial institution, including but not limited to credit unions, retailers, and insurance companies;
 
 &emsp;(14) the Comptroller General of the United States or his delegate; and
 

@@ -18,7 +18,7 @@ Any individual director, officer, or employee of a firm constructing, or supplyi
 
 #### (c) Criminal penalties
 
-Any individual director, officer or employee of a person indemnified under an agreement of indemnification under section 2210(d) of this title (or of a subcontractor or supplier thereto) who, by act or omission, knowingly and willfully violates or causes to be violated any section of this chapter or any applicable nuclear safety-related rule, regulation or order issued thereunder by the Secretary of Energy (or expressly incorporated by reference by the Secretary for purposes of nuclear safety, except any rule, regulation, or order issued by the Secretary of Transportation), which violation results in or, if undetected, would have resulted in a nuclear incident as defined in section 2014(q) of this title shall, upon conviction, notwithstanding section 3571 of title 18, be subject to a fine of not more than $25,000, or to imprisonment not to exceed two years, or both. If the conviction is for a violation committed after the first conviction under this subsection, notwithstanding section 3571 of title 18, punishment shall be a fine of not more than $50,000, or imprisonment for not more than five years, or both.
+Any individual director, officer or employee of a person indemnified under an agreement of indemnification under section 2210(d) of this title (or of a subcontractor or supplier thereto) who, by act or omission, knowingly and willfully violates or causes to be violated any section of this chapter or any applicable nuclear safety-related rule, regulation or order issued thereunder by the Secretary of Energy (or expressly incorporated by reference by the Secretary for purposes of nuclear safety, except any rule, regulation, or order issued by the Secretary of Transportation), which violation results in or, if undetected, would have resulted in a nuclear incident as defined in section 2014(q) of this title shall, upon conviction, notwithstanding section 3571 of title 18, be subject to a fine of not more than $25,000, or to imprisonment not to exceed two years, or both. If the conviction is for a violation committed after the first conviction under this subsection, notwithstanding section 3571 oftitle 18, punishment shall be a fine of not more than $50,000, or imprisonment for not more than five years, or both.
 
 (Aug. 1, 1946, ch. 724, title I, §223, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 958; amended Pub. L. 90–190, §12, Dec. 14, 1967, 81 Stat. 578; Pub. L. 91–161, §6, Dec. 24, 1969, 83 Stat. 445; Pub. L. 96–295, title II, §203, June 30, 1980, 94 Stat. 786; Pub. L. 100–408, §18, Aug. 20, 1988, 102 Stat. 1083; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
@@ -39,8 +39,4 @@ Amendment by Pub. L. 100–408 effective Aug. 20, 1988, but inapplicable to any 
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2167, 2168 of this title; title 5 section 8312; title 38 section 6105.
 

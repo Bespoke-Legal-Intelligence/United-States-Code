@@ -4,7 +4,3 @@ Any person or persons who willfully or maliciously injure, damage, or destroy, o
 
 (Mar. 1, 1893, ch. 183, §22, 27 Stat. 510.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 661 of this title.
-

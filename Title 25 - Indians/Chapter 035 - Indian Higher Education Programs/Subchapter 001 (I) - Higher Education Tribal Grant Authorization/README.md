@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—HIGHER EDUCATION TRIBAL GRANT AUTHORIZATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3322 of this title.
-
 
 ---
 

@@ -23,10 +23,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 238<i>o</i>, 701, 1395y, 1396b, 1397d, 2996f of this title; title 5 section 8902; title 10 section 1073; title 18 section 4005; title 22 section 2504; title 25 section 1621x; title 38 section 1707.
-
 
 ---
 

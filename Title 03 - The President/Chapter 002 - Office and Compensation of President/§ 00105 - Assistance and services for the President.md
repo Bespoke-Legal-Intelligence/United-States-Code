@@ -18,7 +18,7 @@
 
 &emsp;(A) 3 employees at rates not to exceed the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of section 5332 of title 5; and in addition
 
-&emsp;(B) such number of other employees as he may determine to be appropriate at rates not to exceed the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of section 5332 of title 5.
+&emsp;(B) such number of other employees as he may determine to be appropriate at rates notto exceed the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of section 5332 of title 5.
 
 (c) The President is authorized to procure for the White House Office and the Executive Residence at the White House, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and in accordance with the first two sentences of section 3109(b) of title 5—
 
@@ -82,7 +82,7 @@ Amendment by act July 31, 1956, effective at beginning of first pay period comme
 
 #### Effective Date of 1949 Amendment
 
-Amendment by act Oct. 15, 1949, effective on first day of first pay period after Oct. 15, 1949, see section 9 ofthat act, set out as a note under section 273 of Title 2, The Congress.
+Amendment by act Oct. 15, 1949, effective on first day of first pay period after Oct. 15, 1949, see section 9 of that act, set out as a note under section 273 of Title 2, The Congress.
 
 #### Repeals
 
@@ -95,10 +95,6 @@ National Aeronautics and Space Council, including office of Executive Secretary 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 115 of this title; title 18 sections 207, 1751; title 26 section 3121; title 31 section 3524; title 42 section 410.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “provisions”.</i>
 

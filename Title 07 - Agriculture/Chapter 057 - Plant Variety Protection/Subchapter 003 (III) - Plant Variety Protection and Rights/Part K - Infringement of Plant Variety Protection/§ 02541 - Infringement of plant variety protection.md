@@ -32,7 +32,7 @@ Except as otherwise provided in this subchapter, it shall be an infringement of 
 
 &emsp;(A) the producer has fulfilled the terms of the contract;
 
-&emsp;(B) the owner refuses to take delivery of the seed or refuses to pay any amounts due underthe contract within 30 days of the payment date specified in the contract; and
+&emsp;(B) the owner refuses to take delivery of the seed or refuses to pay any amounts due under the contract within 30 days of the payment date specified in the contract; and
 
 &emsp;(C) after the expiration of the period specified in subparagraph (B), the producer notifies the owner of the producer's intent to sell the seed and unless the owner fails to pay the amounts due under the contract and take delivery of the seed within 30 days of such notification. For the purposes of this paragraph, the term “owner” shall include any licensee of the owner.
 
@@ -107,8 +107,4 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 #### Effective Date of 1992 Amendment
 
 Section 4 of Pub. L. 102–560 provided that: “The amendments made by this Act \[enacting section 2570 of this title and section 296 of Title 35, Patents, and amending this section and section 271 of Title 35\] shall take effect with respect to violations that occur on or after the date of the enactment of this Act \[Oct. 28, 1992\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2543, 2561, 2570 of this title.
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof which is designated by the President and which has as its principal function the conduct of foreign intelligence or counterintelligence activities; or
 
-&emsp;&emsp;(C) the General Accounting Office;
+&emsp;&emsp;(C) the Government Accountability Office;
 
 &emsp;(2) “employee” means an individual employed in or under an agency;
 
@@ -20,9 +20,11 @@
 
 (b) This chapter shall not apply to any position in the Drug Enforcement Administration which is excluded from the competitive service under section 201 of the Crime Control Act of 1976 (28 U.S.C. 509 note; 90 Stat. 2425).
 
-(Added Pub. L. 95–454, title VI, §601(a), Oct. 13, 1978, 92 Stat. 1185; amended Pub. L. 96–54, §2(a)(21), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–474, §5(g), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 103–359, title V, §501(f), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
+(Added Pub. L. 95–454, title VI, §601(a), Oct. 13, 1978, 92 Stat. 1185; amended Pub. L. 96–54, §2(a)(21), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–474, §5(g), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 103–359, title V, §501(f), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
+
+2004—Subsec. (a)(1)(C). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 2003—Subsec. (a)(1)(B). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
@@ -65,8 +67,4 @@ Pub. L. 108–136, div. A, title XI, §1126, Nov. 24, 2003, 117 Stat. 1640, prov
 &emsp;“(7) Effective safeguards to ensure that the management of the system is fair and equitable and based on employee performance.
 
 &emsp;“(8) A means for ensuring that adequate agency resources are allocated for the design, implementation, and administration of the pay-for-performance system.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9507 of this title.
 

@@ -1,9 +1,5 @@
 Part A—Motor Vehicle Emission and Fuel Standards
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 7581 of this title.
-
 
 ---
 

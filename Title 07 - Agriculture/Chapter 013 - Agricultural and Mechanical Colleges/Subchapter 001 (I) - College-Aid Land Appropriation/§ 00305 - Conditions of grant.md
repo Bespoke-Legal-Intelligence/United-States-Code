@@ -2,7 +2,7 @@
 
 The grant of land and land scrip hereby authorized shall be made on the following conditions, to which, as well as to the provisions contained in said sections, the previous assent of the several States shall be signified by legislative acts:
 
-First. If any portion of the fund invested, as provided by section 304 of this title, or any portion of the interest thereon, shall, by any actionor contingency, be diminished or lost, it shall be replaced by the State to which it belongs, so that the capital of the fund shall remain forever undiminished; and the annual interest shall be regularly applied without diminution to the purposes mentioned in section 304 of this title, except that a sum, not exceeding 10 per centum upon the amount received by any State under the provisions of this subchapter, may be expended for the purchase of lands for sites or experimental farms, whenever authorized by the respective legislatures of said States.
+First. If any portion of the fund invested, as provided by section 304 of this title, or any portion of the interest thereon, shall, by any action or contingency, be diminished or lost, it shall be replaced by the State to which it belongs, so that the capital of the fund shall remain forever undiminished; and the annual interest shall be regularly applied without diminution to the purposes mentioned in section 304 of this title, except that a sum, not exceeding 10 per centum upon the amount received by any State under the provisions of this subchapter, may be expended for the purchase of lands for sites or experimental farms, whenever authorized by the respective legislatures of said States.
 
 Second. No portion of said fund, nor the interest thereon, shall be applied, directly or indirectly, under any pretense whatever, to the purchase, erection, preservation, or repair of any building or buildings.
 
@@ -23,8 +23,4 @@ Seventh. No State shall be entitled to the benefits of the provisions of this su
 Subd. fourth was repealed in part by act March 3, 1873, which provided in part: “That all laws and parts of laws permitting the transmission by mail of any free matter whatever be, and the same are hereby, repealed from and after June thirtieth, eighteen hundred and seventy-three.”
 
 Subd. seventh formerly contained a proviso which read as follows: <i>“Provided further</i>, That any State which has prior to July 23, 1866, expressed its acceptance of the foregoing provisions of this chapter shall have the period of five years within which to provide at least one college, as described in the fourth section of said act, after the time for providing said college, according to the act of July second, eighteen hundred and sixty-two shall have expired.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 304 of this title.
 

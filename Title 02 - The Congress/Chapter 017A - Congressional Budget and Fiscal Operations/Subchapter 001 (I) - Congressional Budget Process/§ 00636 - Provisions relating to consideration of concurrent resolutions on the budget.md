@@ -60,13 +60,13 @@ This Act, referred to in subsec. (b)(4), means Pub. L. 93–344, July 12, 1974, 
 
 #### Codification
 
-Section was formerly classified to section 1326 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1326 of Title 31 prior to the general revision and enactment ofTitle 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “When the Committee on the Budget of the House of Representatives has reported any concurrent resolution on the budget, it is in order at any time after the fifth day (excluding Saturdays, Sundays, and legal holidays) following the day on which the report upon such resolution by the Committee on the Budget has been available to Members of the House and, if applicable, after the first day (excluding Saturdays, Sundays, and legal holidays) following the day on which a report upon such resolution by the Committee on Rules pursuant to section 632(c) of this title has been available to Members of the House (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the concurrent resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.”
+1997—Subsec. (a)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “When the Committee on the Budget of the House of Representatives has reported any concurrent resolution on the budget, it is in order at any time after the fifth day (excluding Saturdays, Sundays, and legal holidays) following the day on which the report upon such resolution by the Committee on the Budget has been available to Members of the House and, if applicable, after the first day (excluding Saturdays, Sundays, and legal holidays) following the day on which a report upon such resolution by the Committee on Rules pursuant to section 632(c) of this title has been available to Members of the House (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the concurrent resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.”
 
-<b>1990</b>—Subsec. (c)(1). Pub. L. 101–508, §13209(1), struck out at beginning “The conference report on any concurrent resolution on the budget shall be in order in the Senate at any time after the third day (excluding Saturdays, Sundays, and legal holidays) following the day on which such conference report is reported and is available to Members of the Senate.” and inserted “on any concurrent resolution on the budget (or a reconciliation bill or resolution)” after “consideration of the conference report”.
+1990—Subsec. (c)(1). Pub. L. 101–508, §13209(1), struck out at beginning “The conference report on any concurrent resolution on the budget shall be in order in the Senate at any time after the third day (excluding Saturdays, Sundays, and legal holidays) following the day on which such conference report is reported and is available to Members of the Senate.” and inserted “on any concurrent resolution on the budget (or a reconciliation bill or resolution)” after “consideration of the conference report”.
 
 Subsec. (c)(2). Pub. L. 101–508, §13209(2), inserted “(or a message between Houses)” after “conference report” wherever appearing.
 
@@ -76,27 +76,23 @@ Subsecs. (d), (e). Pub. L. 101–508, §13210(1), redesignated subsec. (e) as (d
 
 &emsp;“(2) a conference report in disagreement, if the matter in disagreement is an amendment which strikes out the entire text of the concurrent resolution and inserts a substitute text.”
 
-<b>1987</b>—Subsec. (c)(2). Pub. L. 100–203, §8003(d), inserted a comma after “therewith”.
+1987—Subsec. (c)(2). Pub. L. 100–203, §8003(d), inserted a comma after “therewith”.
 
 Pub. L. 100–119 inserted “and all amendments in disagreement, and all amendments thereto, and debatable motions and appeals in connection therewith” after “budget,”.
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–177, in amending subsec. (a) generally, in par. (1) inserted provisions relating to applicability of report after first day and substituted “fifth day” for “tenth day”, in par. (3) struck out “first” before “concurrent”, in par. (5) substituted “considered for” for “read for”, struck out par. (7) relating to motions to postpone, and redesignated par. (8) as (7).
+1985—Subsec. (a). Pub. L. 99–177, in amending subsec. (a) generally, in par. (1) inserted provisions relating to applicability of report after first day and substituted “fifth day” for “tenth day”, in par. (3) struck out “first” before “concurrent”, in par. (5) substituted “considered for” for “read for”, struck out par. (7) relating to motions to postpone, and redesignated par. (8) as (7).
 
 Subsec. (b). Pub. L. 99–177, in amending subsec. (b) generally, in par. (1) substituted “any concurrent” for “the second required concurrent” and “635(a)” for “641(a)”, in par. (3) struck out “first” before “concurrent”, and in par. (4) inserted provisions relating to applicability of other limitations of this Act.
 
 Subsecs. (c) to (e). Pub. L. 99–177, in amending section generally, reenacted subsecs. (c) to (e) without change.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–523, §303(b), inserted in par. (2) “, plus such additional hours of debate as are consumed pursuant to paragraph (3)” after “and minority parties”, added pars. (3) and (4) and redesignated existing pars. (3) to (6) as (6) to (9), respectively. Existing pars. (3) to (6) were renumbered (5) to (8), respectively, as the probable intent of Congress, notwithstanding the language of section 303(b)(2) of Pub. L. 95–523 directing that existing pars. (3) to (6) be redesignated (6) to (9), respectively.
+1978—Subsec. (a). Pub. L. 95–523, §303(b), inserted in par. (2) “, plus such additional hours of debate as are consumed pursuant to paragraph (3)” after “and minority parties”, added pars. (3) and (4) and redesignated existing pars. (3) to (6) as (6) to (9), respectively. Existing pars. (3) to (6) were renumbered (5) to (8), respectively, as the probable intent of Congress, notwithstanding the language of section 303(b)(2) of Pub. L. 95–523 directing that existing pars. (3) to (6) be redesignated (6) to (9), respectively.
 
 Subsec. (b). Pub. L. 95–523, §303(c), added pars. (3) and (4) and redesignated existing pars. (3) and (4) as (6) and (7), respectively. Existing pars. (3) and (4) were renumbered (5) and (6), respectively, as the probable intent of Congress, notwithstanding the language of section 303(c)(1) of Pub. L. 95–523 directing that existing pars. (3) and (4) be redesignated (6) and (7), respectively.
 
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 641, 907d of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

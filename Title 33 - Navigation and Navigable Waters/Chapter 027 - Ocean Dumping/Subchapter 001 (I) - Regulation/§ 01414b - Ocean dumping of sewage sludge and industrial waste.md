@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(B) shall pay to the Administrator a sum equal to $15 per dry ton (or equivalent) of sewage sludge and industrial waste transported or dumped by such person, for use for agency activities as provided in subsection (f)(1) of this section;
 
-&emsp;&emsp;(C) subject to paragraph (5), shall pay into the Clean Oceans Fund established by the State in which the person is located a sumequal to 50 percent of the balance of such amount after application of subparagraphs (A) and (B); and
+&emsp;&emsp;(C) subject to paragraph (5), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount after application of subparagraphs (A) and (B); and
 
 &emsp;&emsp;(D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section.
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(ii) such failure is likely to result in the person not being able to terminate by December 31, 1991, dumping of sewage sludge or industrial waste into ocean waters.
 
-&emsp;(C) The Administrator may waive fees reimposed for a person under subparagraph (B) if the Administrator determines that the person has returned to compliance with a compliance agreement which the person entered into under subsection (c)(2) of this section.
+&emsp;(C) The Administrator may waive fees reimposed for a person under subparagraph (B) if the Administrator determines that the personhas returned to compliance with a compliance agreement which the person entered into under subsection (c)(2) of this section.
 
 #### (5) Payments prior to establishment of account
 
@@ -198,7 +198,7 @@
 
 #### (4) Payments prior to establishment of account
 
-&emsp;In any case in which a State has not established a Clean Oceans Fund or a water pollution control revolving fund under title VI of the Federal Water Pollution Control Act, penalties required to be paid by a person in that State under paragraph (2)(C)(i) or (ii), as applicable, shall be paid to the Administrator for holding and payment or reversion, as applicable, in the same manner as fees are held and paid or revert under subsection (b)(5) of this section.
+&emsp;In any case in which a State has not established a Clean Oceans Fund or a water pollution control revolving fund under title VI of the Federal Water Pollution Control Act, penalties required to be paid by a person in that State under paragraph (2)(C)(i) or (ii), as applicable, shall be paid to the Administrator for holding and payment or reversion, as applicable, in the same manner as fees are held andpaid or revert under subsection (b)(5) of this section.
 
 #### (e) Trust account
 
@@ -324,7 +324,7 @@
 
 #### (3) Actions
 
-&emsp;The Administrator may request the Attorney General to commence a civil action for appropriate relief, including a temporary or permanent injunction and the imposition of civil penalties authorized by subsection (d)(1) of this section, for any violation of subsection (a)(1) of this section or of an order issued by the Administrator under this section. Such an action may be brought in the district court ofthe United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation and require compliance with subsection (a)(1) of this section and any such order.
+&emsp;The Administrator may request the Attorney General to commence a civil action for appropriate relief, including a temporary or permanent injunction and the imposition of civil penalties authorized by subsection (d)(1) of this section, for any violation of subsection (a)(1) of this section or of an order issued by the Administrator under this section. Such an action may be brought in the district court of the United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation and require compliance with subsection (a)(1) of this section and any such order.
 
 #### (h) State progress reports
 
@@ -422,7 +422,7 @@ The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(D), (5)(
 
 Subsection (j)(4) of this section, referred to in subsec. (f)(1)(C)(ii), was omitted from the Code. See Codification note below.
 
-Section 2301 of the Marine Plastic Pollution Research and Control Act of 1987, referred to in subsec. (f)(3)(A)(i)(III), is section 2301 of Pub. L. 100–220 which is set out as a note under section 2267 of this title.
+Section 2301 of the Marine Plastic Pollution Research and Control Act of 1987, referred to in subsec.\(f)(3)(A)(i)(III), is section 2301 of Pub. L. 100–220 which is set out as a note under section 2267 of this title.
 
 #### Codification
 
@@ -433,10 +433,6 @@ Subsec. (j)(4)(B) of this section, which required the Administrator and the Unde
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1412a, 1414c, 1415 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -52,7 +52,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], seesection 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Termination of Advisory Committees
 
@@ -85,8 +85,4 @@ Submission to Congress; Comments; Authorization.—(1) The report shall be trans
 “(2) At least 90 days before issuing a report the Administrator shall provide an opportunity for public comment on the proposed report. The Administrator shall include in the final report a summary of the comments received on the proposed report.
 
 “(3) There are authorized to be appropriated such sums as are necessary to carry out this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7407, 7410, 7415, 7607, 7612, 7651d of this title; title 10 section 2259.
 

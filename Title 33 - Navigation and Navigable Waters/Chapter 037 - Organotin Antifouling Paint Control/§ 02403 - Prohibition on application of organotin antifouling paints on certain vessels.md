@@ -18,7 +18,3 @@ Subsection (a) of this section shall not prohibit the application of a qualified
 
 Section 12(d), referred to in subsec. (a), is section 12(d) of Pub. L. 100–333, which is set out as a note under section 2401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2409 of this title.
-

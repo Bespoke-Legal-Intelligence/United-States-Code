@@ -50,7 +50,3 @@ The foreclosure commissioner shall file a notice of cancellation in the same pla
 
 Section is based on section 810 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3760 of this title.
-

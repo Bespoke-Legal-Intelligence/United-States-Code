@@ -34,7 +34,3 @@ Apr. 18, 1930, ch. 184, title I, 46 Stat. 174.
 
 1987—Pub. L. 100–204 inserted second par.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2710 of this title.
-

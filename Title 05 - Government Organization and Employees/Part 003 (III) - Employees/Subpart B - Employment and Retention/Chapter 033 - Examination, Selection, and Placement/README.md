@@ -195,10 +195,6 @@ Pub. L. 90–83, §1(9)(B), Sept. 11, 1967, 81 Stat. 197, added item 3315a.
 
 1966—Pub. L. 89–762, §1(b), Nov. 5, 1966, 80 Stat. 1312, struck out item 3342 “Details; field to departmental service prohibited”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 20 section 1018; title 31 section 3801; title 35 section 3; title 36 sections 511, 151307, 151707, 152407; title 40 sections 311, 581, 701, 3308, 3704, 8502, 8711; title 42 sections 290aa, 2297b–4.
-
 
 ---
 

@@ -44,7 +44,3 @@ In subsection (b), before clause (1), the words “budget program” are substit
 
 In subsection (c), the words “as changed” are substituted for “as modified, amended, or revised” to eliminate unnecessary words. The word “submit” is substituted for “transmitted” for consistency. The word “annual” is omitted as surplus. The word “thereafter” is added for clarity. The text of 31:848 (last par.) is omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5134 of this title; title 12 section 1757; title 15 section 633; title 19 section 2081; title 26 section 7608; title 42 sections 295h–3d, 4017; title 48 section 1574b; title 49 section 5334.
-

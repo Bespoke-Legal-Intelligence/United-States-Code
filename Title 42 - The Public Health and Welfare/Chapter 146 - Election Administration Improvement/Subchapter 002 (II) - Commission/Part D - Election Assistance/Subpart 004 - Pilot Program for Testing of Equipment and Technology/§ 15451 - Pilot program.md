@@ -16,7 +16,7 @@ An entity is eligible to receive a grant under this subpart if it submits to the
 
 #### (1) In general
 
-&emsp;The Director of the National Institute of Standards and Technology (hereafter in this section referred to as the “Director”) shall submit to the Commission an annual list of the Director's suggestions for issues which may be the subject of pilot programs funded with grants awarded under this subpart during the year.
+&emsp;The Director of the National Institute of Standards and Technology (hereafter in thissection referred to as the “Director”) shall submit to the Commission an annual list of the Director's suggestions for issues which may be the subject of pilot programs funded with grants awarded under this subpart during the year.
 
 #### (2) Review of grant applications received by Commission
 

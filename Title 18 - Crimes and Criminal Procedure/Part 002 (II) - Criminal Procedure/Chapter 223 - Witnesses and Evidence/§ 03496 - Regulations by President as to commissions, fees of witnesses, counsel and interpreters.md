@@ -16,7 +16,3 @@ By virtue of the authority vested in me by the act of August 8, 1950, 64 Stat. 4
 
 Executive Order No. 8298 of December 4, 1939, entitled “Regulations Governing the Manner of Executing and Returning Commissions by Officers of the Foreign Service in Criminal Cases, and Schedule of Fees and Compensation in Such Cases”, is hereby revoked.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3492, 3495 of this title.
-

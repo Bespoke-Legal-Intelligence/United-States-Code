@@ -26,7 +26,7 @@ Section 894g, Pub. L. 93–203, title III, §348, as added Pub. L. 95–93, titl
 
 Section 895, Pub. L. 93–203, title IV, §417, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1975, related to employment guarantees under youth incentive entitlement pilot projects.
 
-A prior section 895, Pub. L. 93–203, title III, §351, as added Pub. L. 95–93, title II, §201, Aug. 5, 1977, 91 Stat. 646, provided for authorization of appropriations and distribution of funds with respect to youth employmentdemonstration programs, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 895, Pub. L. 93–203, title III, §351, as added Pub. L. 95–93, title II, §201, Aug. 5, 1977, 91 Stat. 646, provided for authorization of appropriations and distribution of funds with respect to youth employment demonstration programs, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 A prior section 417 of Pub. L. 93–203, title IV, Dec. 28, 1973, 87 Stat. 873, which related to special limitations with respect to the Job Corps, was classified to former section 927 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

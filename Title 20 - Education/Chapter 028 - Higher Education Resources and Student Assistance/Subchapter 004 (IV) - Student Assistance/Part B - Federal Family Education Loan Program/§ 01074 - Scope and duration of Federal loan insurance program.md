@@ -26,7 +26,3 @@ A prior section 1074, Pub. L. 89–329, title IV, §424, Nov. 8, 1965, 79 Stat. 
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1078–3, 1079 of this title.
-

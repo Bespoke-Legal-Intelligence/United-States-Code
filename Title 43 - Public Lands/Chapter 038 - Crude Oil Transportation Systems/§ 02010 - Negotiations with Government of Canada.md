@@ -4,7 +4,3 @@ With respect to any crude oil transportation system approved under section 2007(
 
 (Pub. L. 95–617, title V, §510, Nov. 9, 1978, 92 Stat. 3163.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2007 of this title.
-

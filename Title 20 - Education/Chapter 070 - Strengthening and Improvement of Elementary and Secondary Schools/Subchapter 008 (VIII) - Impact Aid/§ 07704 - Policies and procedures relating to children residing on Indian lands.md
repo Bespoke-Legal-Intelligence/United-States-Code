@@ -70,7 +70,7 @@ The Secretary shall—
 
 #### (8) Withholding
 
-&emsp;If the local educational agency rejects the determination of the Secretary, or if the remedy required is not undertaken within the time established and the Secretary determines that an extension of the time established will not effectively encourage the remedy required, the Secretary shall withhold payment of all moneys to which such local agency is eligible under section 7703 of this title until such time as the remedy required is undertaken, except where the complaining tribe or its designee formally requests that such funds be released to the local educational agency, except that the Secretary may not withhold such moneys during the course of the school year if the Secretary determines that such withholding would substantially disrupt the educational programs of the local educational agency.
+&emsp;If the local educational agency rejects the determination of the Secretary, or if the remedy required is not undertaken within the time established and the Secretary determines that an extension of the time established will not effectively encourage the remedy required,the Secretary shall withhold payment of all moneys to which such local agency is eligible under section 7703 of this title until such time as the remedy required is undertaken, except where the complaining tribe or its designee formally requests that such funds be released to the local educational agency, except that the Secretary may not withhold such moneys during the course of the school year if the Secretary determines that such withholding would substantially disrupt the educational programs of the local educational agency.
 
 #### (9) Rejection of determination
 
@@ -93,8 +93,4 @@ A prior section 8004 of Pub. L. 89–10 was renumbered section 9004 and was clas
 #### Contract Authority of Indian Tribes if Remedial Action Is Not Taken; Election To Have Services Provided by Bureau Schools; Special Regulations
 
 Section 1101(d) of Pub. L. 95–561 directed Secretary of Health, Education, and Welfare, in cooperation with Commissioner of Education, within one year of Nov. 1, 1978, to promulgate special regulations which would provide that where a local educational agency had not undertaken the remedial action required by the Commissioner under 20 U.S.C. 240(b)(3)(C)(vi), the affected tribes could elect for the Bureau of Indian Affairs to provide educational services provided by the local educational agency.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7705 of this title.
 

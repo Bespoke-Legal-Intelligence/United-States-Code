@@ -8,7 +8,3 @@ The Secretary of the Interior is authorized, in his discretion and upon submissi
 
 Designation of portion of Hawaii National Park situated on island of Hawaii as Hawai‘i Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 391b–1, 392b, 392c, 396c of this title.
-

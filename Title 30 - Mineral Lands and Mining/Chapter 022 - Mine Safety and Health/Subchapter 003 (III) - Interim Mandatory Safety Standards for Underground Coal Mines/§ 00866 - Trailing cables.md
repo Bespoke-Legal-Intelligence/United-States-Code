@@ -28,15 +28,11 @@ When permanent splices in trailing cables are made, they shall be—
 
 #### (f) Clamping of cables
 
-Trailing cables shall be clamped to machines in a manner to protect the cables from damage and to prevent strain on the electrical connections. Trailing cables shall be adequately protected to prevent damage by mobile equipment.
+Trailing cables shall be clamped to machines in a manner to protect the cables from damageand to prevent strain on the electrical connections. Trailing cables shall be adequately protected to prevent damage by mobile equipment.
 
 #### (g) Making and breaking of connections to junction boxes
 
 Trailing cable and power cable connections to junction boxes shall not be made or broken under load.
 
 (Pub. L. 91–173, title III, §306, Dec. 30, 1969, 83 Stat. 779.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 861 of this title.
 

@@ -42,7 +42,3 @@ The Farm Security and Rural Investment Act of 2002, referred to in subsecs. (a) 
 
 2002—Subsecs. (a), (c)(1). Pub. L. 107–171 substituted “subchapter III of this chapter and subtitle B and C of title I of the Farm Security and Rural Investment Act of 2002” for “subchapter III of this chapter”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7931, 7957 of this title.
-

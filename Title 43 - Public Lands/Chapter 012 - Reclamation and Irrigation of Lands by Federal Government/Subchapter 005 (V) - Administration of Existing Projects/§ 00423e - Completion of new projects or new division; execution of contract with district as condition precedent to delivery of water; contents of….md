@@ -22,7 +22,3 @@ Pub. L. 96–570, §4, Dec. 22, 1980, 94 Stat. 3340, provided that: “The follo
 
 Section 3 of act July 11, 1956, provided that: “The Secretary of the Interior is authorized, upon request of any holder of an existing contract under the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto), to amend the contract to conform to the provisions of sections 1 and 2 of this Act \[amending sections 423e and 544 of this title\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390ii, 390ww, 423b, 423d, 423f, 423h, 424d of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—NUCLEAR WASTE NEGOTIATOR
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 10101, 10136 of this title.
-
 
 ---
 

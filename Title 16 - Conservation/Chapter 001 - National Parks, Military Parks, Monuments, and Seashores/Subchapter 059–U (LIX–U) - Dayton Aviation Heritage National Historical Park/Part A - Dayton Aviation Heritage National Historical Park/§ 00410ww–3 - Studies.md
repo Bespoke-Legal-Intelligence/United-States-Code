@@ -4,7 +4,7 @@ The Secretary shall study the following properties to determine the feasibility 
 
 &emsp;(1) Properties within the Wright-Dunbar Historic District.
 
-&emsp;(2) Wright Company Factory, Dayton, Ohio. A report of the study of such properties shall be submitted as part of the general management plan required by section 410ww–2 of this title.
+&emsp;(2) Wright Company Factory, Dayton, Ohio. A report of the study of such properties shallbe submitted as part of the general management plan required by section 410ww–2 of this title.
 
 (Pub. L. 102–419, title I, §104, Oct. 16, 1992, 106 Stat. 2142.)
 

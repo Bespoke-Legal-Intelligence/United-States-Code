@@ -54,7 +54,3 @@ Referenda under this section shall be conducted in such manner as is determined 
 
 (Pub. L. 103–190, §7, Dec. 14, 1993, 107 Stat. 2284.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6804, 6805 of this title.
-

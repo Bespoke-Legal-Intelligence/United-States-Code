@@ -18,7 +18,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) subscriber interaction, if any, which is required for the selection or use of such video programming or other programming service;
 
-&emsp;(7) the term “cable system” means a facility, consisting of a set of closed transmission paths and associated signal generation, reception, and control equipment that is designed to provide cable service which includes video programming and which is provided to multiple subscribers within a community, but such term does not include (A) a facility that serves only to retransmit the television signals of 1 or more television broadcast stations; (B) a facility that serves subscribers without using any public right-of-way; (C) a facility of a common carrier which is subject, in whole or in part, to the provisions of subchapter II of this chapter, except that such facility shall be considered a cable system (other than for purposes of section 541(c) of this title) to the extent such facility is used in the transmission of video programming directly to subscribers, unless the extent of such use is solely to provide interactive on-demand services; (D) an open video system that complies with section 573 of this title; or (E) any facilities of any electric utility used solely for operating its electric utility system;
+&emsp;(7) the term “cable system” means a facility, consisting of a set of closed transmission paths and associated signal generation, reception, and control equipment that is designed to provide cable service which includes video programming and which is provided to multiple subscribers within a community, but such term does not include (A) a facility that serves only to retransmit the television signals of 1 or more television broadcast stations; (B) a facility that serves subscribers without using any public right-of-way; (C) a facility of a common carrier which is subject, in whole or in part, to the provisions of subchapter II of this chapter, except that such facility shall be considered a cable system (other than for purposes of section 541(c) of this title) to the extent such facility is used in the transmission of video programming directly to subscribers,unless the extent of such use is solely to provide interactive on-demand services; (D) an open video system that complies with section 573 of this title; or (E) any facilities of any electric utility used solely for operating its electric utility system;
 
 &emsp;(8) the term “Federal agency” means any agency of the United States, including the Commission;
 
@@ -46,7 +46,7 @@ For purposes of this subchapter—
 
 &emsp;(18) the term “State” means any State, or political subdivision, or agency thereof;
 
-&emsp;(19) the term “usable activated channels” means activated channels of a cable system,except those channels whose use for the distribution of broadcast signals would conflict with technical and safety regulations as determined by the Commission; and
+&emsp;(19) the term “usable activated channels” means activated channels of a cable system, except those channels whose use for the distribution of broadcast signals would conflict with technical and safety regulations as determined by the Commission; and
 
 &emsp;(20) the term “video programming” means programming provided by, or generally considered comparable to programming provided by, a television broadcast station.
 
@@ -71,8 +71,4 @@ Amendment by Pub. L. 102–385 effective 60 days after Oct. 5, 1992, see section
 #### Effective Date
 
 Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 153, 271, 303a, 309, 551, 554, 571 of this title; title 17 sections 114, 1202.
 

@@ -32,7 +32,3 @@ This section does not affect any right reserved by the United States or by any S
 
 (Pub. L. 100–298, §6, Apr. 28, 1988, 102 Stat. 433.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2103, 2106 of this title.
-

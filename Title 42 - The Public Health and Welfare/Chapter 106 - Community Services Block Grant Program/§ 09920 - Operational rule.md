@@ -22,7 +22,7 @@ For any program carried out by the Federal Government, or by a State or local go
 
 #### (3) Employment practices
 
-&emsp;A religious organization's exemption provided under section 2000e–1 of this title regarding employment practices shall not be affected by its participation in, or receipt of funds from, programs described in subsection (a) of this section.
+&emsp;A religious organization's exemption provided under section 2000e–1 of this title regarding employment practices shall not be affected by its participation in, or receipt of fundsfrom, programs described in subsection (a) of this section.
 
 #### (c) Limitations on use of funds for certain purposes
 
@@ -40,15 +40,11 @@ No funds provided directly to a religious organization to provide assistance und
 
 #### (e) Treatment of eligible entities and other intermediate organizations
 
-If an eligible entity or other organization (referred to in this subsection as an “intermediateorganization”), acting under a contract, or grant or other agreement, with the Federal Government or a State or local government, is given the authority under the contract or agreement to select nongovernmental organizations to provide assistance under the programs described in subsection (a) of this section, the intermediate organization shall have the same duties under this section as the government.
+If an eligible entity or other organization (referred to in this subsection as an “intermediate organization”), acting under a contract, or grant or other agreement, with the Federal Government or a State or local government, is given the authority under the contract or agreement to select nongovernmental organizations to provide assistance under the programs described in subsection (a) of this section, the intermediate organization shall have the same duties under this section as the government.
 
 (Pub. L. 97–35, title VI, §679, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2749.)
 
 #### Prior Provisions
 
 A prior section 679 of Pub. L. 97–35 was classified to section 9908 of this title, prior to the general amendment of this chapter by Pub. L. 105–285.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9902 of this title.
 

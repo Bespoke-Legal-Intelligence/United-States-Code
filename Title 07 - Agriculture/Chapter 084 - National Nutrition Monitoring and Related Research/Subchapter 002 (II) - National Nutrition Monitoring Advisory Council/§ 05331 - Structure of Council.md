@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The President shall establish, within ninety days after October 22, 1990, a National Nutrition Monitoring Advisory Council. The Council shall assist in carrying out the purposes of this chapter, provide scientific and technical advice on the development and implementation of the coordinated program and comprehensive plan, and serve in an advisory capacity to the Secretaries.
+&emsp;The President shall establish, within ninety days after October 22, 1990, a National Nutrition Monitoring Advisory Council. The Council shall assist in carrying out the purposes of this chapter, provide scientific and technicaladvice on the development and implementation of the coordinated program and comprehensive plan, and serve in an advisory capacity to the Secretaries.
 
 #### (2) Membership
 
@@ -84,7 +84,7 @@ Sec. 2. <i>Membership</i>. (A) <i>Composition</i>. The Council shall consist of 
 
 (1) public health, including clinical dietetics, public health nutrition, epidemiology, clinical medicine, health education, or nutrition education;
 
-(2) nutrition monitoring research, including nutrition monitoring and surveillance, food consumption patterns, nutritional anthropology, community nutrition research, nutritional biochemistry, food compositionanalysis, survey statistics, dietary-intake methodology, or nutrition status methodology; or
+(2) nutrition monitoring research, including nutrition monitoring and surveillance, food consumption patterns, nutritional anthropology, community nutrition research, nutritional biochemistry, food composition analysis, survey statistics, dietary-intake methodology, or nutrition status methodology; or
 
 (3) food production and distribution, including agriculture, biotechnology, food engineering, economics, consumer psychology or sociology, food-system management, or food assistance.
 
@@ -119,8 +119,4 @@ Sec. 6. <i>General provision</i>. Notwithstanding the provisions of any other Ex
 Sec. 7. The Council shall terminate 10 years after the final comprehensive plan is prepared under section 103 of the Act.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5302 of this title.
 

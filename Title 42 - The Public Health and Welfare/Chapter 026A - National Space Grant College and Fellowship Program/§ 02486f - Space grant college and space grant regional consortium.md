@@ -40,7 +40,3 @@ The Administrator may, for cause and after an opportunity for hearing, suspend o
 
 (Pub. L. 100–147, title II, §208, Oct. 30, 1987, 101 Stat. 873.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2486b of this title.
-

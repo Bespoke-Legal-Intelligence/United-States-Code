@@ -18,7 +18,3 @@ The Mississippi Sioux Tribes Judgment Fund Distribution Act of 1998, referred to
 
 1998—Subsec. (b). Pub. L. 105–387 substituted “Subject to the Mississippi Sioux Tribes Judgment Fund Distribution Act of 1998, the Secretary” for “The Secretary”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300d–4, 1300d–26 of this title.
-

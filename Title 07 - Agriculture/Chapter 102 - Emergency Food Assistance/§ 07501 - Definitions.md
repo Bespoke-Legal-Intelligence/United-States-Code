@@ -22,7 +22,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(iii) a summer camp for children, or a child nutrition program providing food service;
 
-&emsp;&emsp;&emsp;(iv) a nutrition project operating under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), including a project that operates a congregate nutrition site and a project that provides home-delivered meals; or
+&emsp;&emsp;&emsp;(iv) a nutrition project operating under the Older Americans Act of 1965 (42 U.S.C.3001 et seq.), including a project that operates a congregate nutrition site and a project that provides home-delivered meals; or
 
 &emsp;&emsp;&emsp;(v) a disaster relief program;
 
@@ -79,8 +79,4 @@ Section 2 of Pub. L. 98–92 provided in part that the amendments made by that s
 #### Short Title
 
 Section 201 of title II of Pub. L. 98–8, as amended by Pub. L. 98–92, §2(1), Sept. 2, 1983, 97 Stat. 608; Pub. L. 101–624, title XVII, §1772(a)(2), Nov. 28, 1990, 104 Stat. 3808, provided that: “This title \[enacting this chapter and amending provisions set out as a note under section 612c of this title\] may be cited as the ‘Emergency Food Assistance Act of 1983’, and is hereinafter in this title referred to as ‘this Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7514 of this title.
 

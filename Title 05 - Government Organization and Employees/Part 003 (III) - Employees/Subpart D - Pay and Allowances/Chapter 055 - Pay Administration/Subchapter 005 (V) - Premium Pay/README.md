@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—PREMIUM PAY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5304, 5371, 5520a, 5926, 9902 of this title; title 10 sections 4338, 6952, 9338; title 22 section 3972.
-
 
 ---
 
@@ -23,3 +19,4 @@ This subchapter is referred to in sections 5304, 5371, 5520a, 5926, 9902 of this
 - [&sect; 05549 - Effect on other statutes](%C2%A7%2005549%20-%20Effect%20on%20other%20statutes.md)
 - [&sect; 05550 - Repealed. Pub. L. 102&#8211;378, &sect;2(44)(A), Oct. 2, 1992, 106 Stat. 1352](%C2%A7%2005550%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93378%2C%20%C2%A72%2844%29%28A%29%2C%20Oct.%202%2C%201992%2C%20106%20Stat.%201352.md)
 - [&sect; 05550a - Compensatory time off for religious observances](%C2%A7%2005550a%20-%20Compensatory%20time%20off%20for%20religious%20observances.md)
+- [&sect; 05550b - Compensatory time off for travel](%C2%A7%2005550b%20-%20Compensatory%20time%20off%20for%20travel.md)

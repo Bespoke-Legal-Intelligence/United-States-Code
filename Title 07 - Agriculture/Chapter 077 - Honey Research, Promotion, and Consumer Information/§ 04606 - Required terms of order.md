@@ -274,7 +274,7 @@ Inapplicability.—If a person no longer meets the requirements of clause (i) fo
 
 #### (1) Use
 
-&emsp;Funds collected by the Honey Board shall be used by the Honey Board for financing research, promotion, and consumer information, other expenses as described in subsection (d) of this section, such other expenses for the administration, maintenance, and functioning of the Honey Board as may be authorized by the Secretary, any reserve established under section 4607(5) of this title, and those administrative costs incurred by the Department of Agriculture pursuant to this chapter after an order has been promulgated under this chapter.
+&emsp;Funds collected by the Honey Board shall be used by the Honey Board for financing research, promotion, and consumer information, other expenses as described in subsection (d) ofthis section, such other expenses for the administration, maintenance, and functioning of the Honey Board as may be authorized by the Secretary, any reserve established under section 4607(5) of this title, and those administrative costs incurred by the Department of Agriculture pursuant to this chapter after an order has been promulgated under this chapter.
 
 #### (2) Research projects
 
@@ -338,7 +338,7 @@ Subsec. (c)(8). Pub. L. 105–185, §605(f)(2)(A), (D), redesignated par. (3) as
 
 Subsec. (c)(9) to (11). Pub. L. 105–185, §605(f)(2)(A), redesignated pars. (4) to (6) as (9) to (11), respectively.
 
-Subsec. (e)(1). Pub. L. 105–185, §605(f)(3)(B), added par. (1) and struck out former par. (1) which read as follows: “The Honey Board shall administer collection of the assessment provided for in this paragraph to finance the expenses described in subsections (d) and (f) of this section. The assessment rate shall be $0.01 per pound, with payment to be made in the manner described in section 4608 of this title.”
+Subsec. (e)(1). Pub. L. 105–185, §605(f)(3)(B), added par. (1) and struck out former par. (1) which read as follows: “The Honey Board shall administer collection of the assessment provided for in this paragraph to financethe expenses described in subsections (d) and (f) of this section. The assessment rate shall be $0.01 per pound, with payment to be made in the manner described in section 4608 of this title.”
 
 Subsec. (e)(2). Pub. L. 105–277 substituted “$0.01” for “$0.0075” wherever appearing.
 
@@ -379,10 +379,6 @@ Subsec. (k). Pub. L. 101–624, §1983(2), added subsec. (k).
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) \[title VII, §753(f)\] of Pub. L. 105–277, set out as a note under section 343 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4602, 4608, 4611 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

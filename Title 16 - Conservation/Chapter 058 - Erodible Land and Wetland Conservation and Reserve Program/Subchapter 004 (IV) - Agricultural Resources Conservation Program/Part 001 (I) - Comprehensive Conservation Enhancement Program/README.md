@@ -1,9 +1,5 @@
 Part I—Comprehensive Conservation Enhancement Program
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 3839aa–2, 3843 of this title; title 7 sections 7911, 7952.
-
 
 ---
 

@@ -18,7 +18,3 @@ The land laws of the United States, referred to in text, are classified generall
 
 Proc. No. 3003, Jan. 6, 1953, 18 F.R. 169, enlarged the Olympic National Park by adding to it certain lands within the Olympic National Forest.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 251e of this title.
-

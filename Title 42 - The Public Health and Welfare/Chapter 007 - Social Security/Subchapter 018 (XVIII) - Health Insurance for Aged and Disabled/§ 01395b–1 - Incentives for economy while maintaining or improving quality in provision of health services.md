@@ -78,7 +78,7 @@ Section was enacted as a part of the Social Security Amendments of 1967, and not
 
 1982—Subsec. (a)(1)(K). Pub. L. 97–248 added subpar. (K).
 
-1981—Subsec. (a)(1). Pub. L. 97–35, §2193(d)(1), substituted “this subchapter and a program established by a plan of a State approved under subchapter XIX of this chapter” for “this subchapter, a program established by a plan of a State approved under subchapter XIX of this chapter, and a program established by a plan of a State approved under subchapter V of this chapter”.
+1981—Subsec. (a)(1). Pub. L. 97–35, §2193(d)(1), substituted “this subchapter and a program established bya plan of a State approved under subchapter XIX of this chapter” for “this subchapter, a program established by a plan of a State approved under subchapter XIX of this chapter, and a program established by a plan of a State approved under subchapter V of this chapter”.
 
 Subsec. (a)(2). Pub. L. 97–35, §2193(d)(2), substituted reference to subchapter XIX of this chapter for reference to subchapters V and XIX of this chapter in two places.
 
@@ -462,7 +462,7 @@ Contents of report.—The report in paragraph (1) shall include the following:
 
 “(d)
 
-Waiver Authority.—The Secretary shall waive compliance with the requirements of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) to such extent and for such period as the Secretary determines is necessary to conduct demonstration projects.
+Waiver Authority.—The Secretary shall waive compliance with the requirements of title XVIII of theSocial Security Act (42 U.S.C. 1395 et seq.) to such extent and for such period as the Secretary determines is necessary to conduct demonstration projects.
 
 “(e)
 
@@ -564,13 +564,13 @@ Payments.—
 
 &emsp;&emsp;“(A)
 
-In general.—Subject to paragraph (3), payment for such services shall be made for the costs that are related to the provision of such services. In computing such costs, the Secretary shall includecosts described in subparagraph (B), but may not include costs described in subparagraph (C).
+In general.—Subject to paragraph (3), payment for such services shall be made for the costs that are related to the provision of such services. In computing such costs, the Secretary shall include costs described in subparagraph (B), but may not include costs described in subparagraph (C).
 
 &emsp;&emsp;“(B)
 
 Costs that may be included.—The costs described in this subparagraph are the permissible costs (as recognized by the Secretary) for the following:
 
-&emsp;&emsp;&emsp;“(i) The acquisition of telemedicine equipment for use in patients’ homes or at sites providing health care to patients located in medically underserved areas.
+&emsp;&emsp;&emsp;“(i) The acquisition of telemedicine equipment for use in patients’ homes or at sites providinghealth care to patients located in medically underserved areas.
 
 &emsp;&emsp;&emsp;“(ii) Curriculum development and training of health professionals in medical informatics and telemedicine.
 
@@ -678,7 +678,7 @@ Demonstration of Joint Nursing Graduate Education Programs.—
 
 > &emsp;shall be allowable as reasonable costs under title XVIII of the Social Security Act \[this subchapter\] and reimbursed under such title on the same basis as if they were allowable direct costs of a hospital-operated approved educational program (other than an approved graduate medical education program).
 
-&emsp;“(3) The activities described in this paragraph are the activities for which the reasonable costs of conducting such activities are allowable under titleXVIII of the Social Security Act if conducted under a hospital-operated approved educational program (other than an approved graduate medical education program), but only to the extent such activities are directly related to the operation of the educational program conducted pursuant to the written agreement between the hospital and the educational institution.
+&emsp;“(3) The activities described in this paragraph are the activities for which the reasonable costs of conducting such activities are allowable under title XVIII of the Social Security Act if conducted under a hospital-operated approved educational program (other than an approved graduate medical education program), but only to the extent such activities are directly related to the operation of the educational program conducted pursuant to the written agreement between the hospital and the educational institution.
 
 &emsp;“(4) The amount paid under a demonstration program under this subsection to a hospital for a cost reporting period may not exceed $200,000.
 
@@ -740,7 +740,7 @@ Set Asides for Issues of Health Care in Rural Areas and In Inner-City Areas.—(
 
 “(b)
 
-Agenda.—The Secretary of Health and Human Services shall establish an agenda of research and demonstration projects, relating exclusively or substantially to rural health issues or to inner-city health issues, that are in progress or have been proposed, and shall include such agenda in the annual report submitted pursuant to section 1875(b) of the Social Security Act \[section 1395<i>ll</i>(b) of this title\]. The agenda shall be accompanied by a statement setting forth the amounts that have been obligated and expended with respect to such projects in the current and most recently completed fiscal years.”
+Agenda.—The Secretary of Health and Human Services shall establish an agenda of research and demonstration projects, relating exclusively or substantially to rural health issues or to inner-city health issues, that are in progress or have been proposed, and shall include such agenda in the annual report submitted pursuant to section 1875(b) of the Social Security Act \[section 1395<i>ll</i>(b) of this title\]. The agenda shall be accompanied by a statement setting forth the amounts that have been obligated and expended with respect tosuch projects in the current and most recently completed fiscal years.”
 
 #### Alzheimer's Disease Demonstration Projects
 
@@ -784,9 +784,9 @@ Section 2320 of Pub. L. 98–369 provided that:
 
 Pub. L. 98–21, title VI, §603(b), Apr. 20, 1983, 97 Stat. 167, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this title \[amending sections 1320a–1, 1320c–2, 1395f, 1395i–2, 1395n, 1395r, 1395v, 1395w, 1395x, 1395y, 1395cc, 1395mm, 1395<i>oo</i>, 1395rr, 1395ww, and 1395xx of this title, enacting provisions set out as notes underthis section and sections 1395r, 1395x, 1395y, 1395cc, and 1395ww of this title, and amending provisions set out as a note under section 1395x of this title\] shall not affect the authority of the Secretary to develop, carry out, or continue experiments and demonstration projects.
+“(1) Except as provided in paragraph (2), the amendments made by this title \[amending sections 1320a–1, 1320c–2, 1395f, 1395i–2, 1395n, 1395r, 1395v, 1395w, 1395x, 1395y, 1395cc, 1395mm, 1395<i>oo</i>, 1395rr, 1395ww, and 1395xx of this title, enacting provisions set out as notes under this section and sections 1395r, 1395x, 1395y, 1395cc, and 1395ww of this title, and amending provisions set out as a note under section 1395x of this title\] shall not affect the authority of the Secretary to develop, carry out, or continue experiments and demonstration projects.
 
-“(2) The Secretary shall provide that, upon the request of a State which has a demonstration project, for payment of hospitals under title XVIII of the Social Security Act \[this subchapter\] approved under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\] or section 222(a) of the Social Security Amendments of 1972 \[set out as a note below\], which (A) is in effect as of March 1, 1983, and (B) was entered into after August 1982 (or upon the request of another party to demonstration project agreement), the terms of the demonstration agreement shall be modified so that the demonstration project is not required to maintain the rate of increase in medicare hospital costs in that State below the national rate of increase in medicare hospital costs.”
+“(2) The Secretary shall provide that, upon the request of a State which has a demonstration project, forpayment of hospitals under title XVIII of the Social Security Act \[this subchapter\] approved under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\] or section 222(a) of the Social Security Amendments of 1972 \[set out as a note below\], which (A) is in effect as of March 1, 1983, and (B) was entered into after August 1982 (or upon the request of another party to demonstration project agreement), the terms of the demonstration agreement shall be modified so that the demonstration project is not required to maintain the rate of increase in medicare hospital costs in that State below the national rate of increase in medicare hospital costs.”
 
 #### Alternative Care Demonstration Projects in Hospitals Short of Skilled Nursing Facilities
 
@@ -822,7 +822,7 @@ Pub. L. 94–182, title I, §107, Dec. 31, 1975, 89 Stat. 1053, provided that: �
 
 &emsp;“(1) the applicant for such grant is a State or an agency thereof,
 
-&emsp;“(2) such participant is an individual practice association which has been in existence for at least 3years prior to the date of enactment of this section \[Dec. 31, 1975\] and which has in effect a contract with such State (or an agency thereof), entered into prior to the date on which the grant is approved by the Secretary, under which such association will, for a period which begins before and ends after the date such grant is so approved, provide health care services for individuals entitled to care and services under the State plan of such State which is approved under title XIX of the Social Security Act \[subchapter XIX of this chapter\].
+&emsp;“(2) such participant is an individual practice association which has been in existence for at least 3 years prior to the date of enactment of this section \[Dec. 31, 1975\] and which has in effect a contract with such State (or an agency thereof), entered into prior to the date on which the grant is approved by the Secretary, under which such association will, for a period which begins before and ends after the date such grant is so approved, provide health care services for individuals entitled to care and servicesunder the State plan of such State which is approved under title XIX of the Social Security Act \[subchapter XIX of this chapter\].
 
 &emsp;“(3) the purpose of the inclusion of the project of such association is to test the utility of a particular rate-setting methodology, designed to be employed in prepaid health plans, in an individual practice association operation, and
 
@@ -841,10 +841,6 @@ Section 222(a) of Pub. L. 92–603, as amended by Pub. L. 97–35, title XXI, §
 “(4) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under this subsection shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1817 of the Social Security Act \[section 1395i of this title\]) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1841 of the Social Security Act \[section 1395t of this title\]) and from funds appropriated under title XIX of such Act \[subchapter XIX of this chapter\]. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this subsection. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such title XIX) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
 
 “(5) The Secretary shall submit to the Congress no later than July 1, 1974, a full report on the experiments and demonstration projects carried out under this subsection and on the experience of other programs with respect to prospective reimbursement together with any related data and materials which he may consider appropriate. Such report shall include detailed recommendations with respect to the specific methods which could be used in the full implementation of a system of prospective payment to providers of services under the programs involved.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395cc, 1395<i>ll</i>, 1395nn, 1395ww of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

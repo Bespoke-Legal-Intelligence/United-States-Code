@@ -8,7 +8,3 @@ The Secretary may furnish hospital care or medical services as a humanitarian se
 
 Prior section 1784 was renumbered section 3684 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1712A, 1729, 1729A, 8111 of this title.
-

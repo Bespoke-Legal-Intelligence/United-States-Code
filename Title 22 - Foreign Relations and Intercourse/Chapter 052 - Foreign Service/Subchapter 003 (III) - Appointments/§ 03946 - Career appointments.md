@@ -26,7 +26,3 @@ Nothing in this section shall be construed to limit the authority of the Secreta
 
 Section 181(e) of Pub. L. 100–204 provided that: “The amendments made by this section \[amending this section and sections 4010 and 4137 of this title\] shall not apply with respect to any grievance in which the Board has issued a final decision pursuant to section 1107 of the Foreign Service Act of 1980 (22 U.S.C. 4137) before the date of enactment of this Act \[Dec. 22, 1987\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3948, 4043, 4071b, 4131 of this title.
-

@@ -10,7 +10,3 @@
 
 1978—Pub. L. 95–454 renumbered section 3393 of this title as this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3402 of this title.
-

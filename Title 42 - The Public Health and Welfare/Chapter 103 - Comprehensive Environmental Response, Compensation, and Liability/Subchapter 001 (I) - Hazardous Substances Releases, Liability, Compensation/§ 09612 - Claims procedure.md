@@ -8,7 +8,7 @@ No claim may be asserted against the Fund pursuant to section 9611(a) of this ti
 
 #### (1) Prescribing forms and procedures
 
-&emsp;The President shall prescribe appropriate forms and procedures for claims filed hereunder, which shall include a provision requiring the claimant to make a sworn verification of the claim to the best of his knowledge. Any person who knowingly gives or causes to be given any false information as a part of anysuch claim shall, upon conviction, be fined in accordance with the applicable provisions of title 18 or imprisoned for not more than 3 years (or not more than 5 years in the case of a second or subsequent conviction), or both.
+&emsp;The President shall prescribe appropriate forms and procedures for claims filed hereunder, which shall include a provision requiring the claimant to make a sworn verification of the claim to the best of his knowledge. Any person who knowingly gives or causes to be given any false information as a part of any such claim shall, upon conviction, be fined in accordance with the applicable provisions of title 18 or imprisoned for not more than 3 years (or not more than 5 years in the case of a second or subsequent conviction), or both.
 
 #### (2) Payment or request for hearing
 
@@ -36,7 +36,7 @@ No claim may be asserted against the Fund pursuant to section 9611(a) of this ti
 
 (2) Any person, including the Fund, who pays compensation pursuant to this chapter to any claimant for damages or costs resulting from a release of a hazardous substance shall be subrogated to all rights, claims, and causes of action for such damages and costs of removal that the claimant has under this chapter or any other law.
 
-(3) Upon request of the President, the Attorney General shall commence an action on behalf of the Fund to recover any compensation paid by the Fund to any claimant pursuant to this subchapter, and, without regard to any limitation of liability, all interest, administrative and adjudicative costs, and attorney's fees incurred by the Fund by reason of the claim. Such an action may be commenced against any owner, operator, or guarantor, or against any other person who is liable, pursuant to any law, to the compensated claimant or to the Fund, for the damages or costs for which compensation was paid.
+(3) Upon request of the President, the Attorney General shall commence an action on behalf of the Fund to recover any compensation paidby the Fund to any claimant pursuant to this subchapter, and, without regard to any limitation of liability, all interest, administrative and adjudicative costs, and attorney's fees incurred by the Fund by reason of the claim. Such an action may be commenced against any owner, operator, or guarantor, or against any other person who is liable, pursuant to any law, to the compensated claimant or to the Fund, for the damages or costs for which compensation was paid.
 
 #### (d) Statute of limitations
 
@@ -66,7 +66,7 @@ Regardless of any State statutory or common law to the contrary, no person who a
 
 #### (f) Double recovery prohibited
 
-Where the President has paid out of the Fund for any response costs or any costs specifiedunder section 9611(c)(1) or (2) of this title, no other claim may be paid out of the Fund for the same costs.
+Where the President has paid out of the Fund for any response costs or any costs specified under section 9611(c)(1) or (2) of this title, no other claim may be paid out of the Fund for the same costs.
 
 (Pub. L. 96–510, title I, §112, Dec. 11, 1980, 94 Stat. 2792; Pub. L. 99–499, title I, §§109(a)(3), 112, Oct. 17, 1986, 100 Stat. 1633, 1646.)
 
@@ -87,8 +87,4 @@ Subsec. (f). Pub. L. 99–499, §112(d), added subsec. (f).
 #### Coordination of Titles I to IV of Pub. L. 99–499
 
 Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trust fund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9607, 9611 of this title.
 

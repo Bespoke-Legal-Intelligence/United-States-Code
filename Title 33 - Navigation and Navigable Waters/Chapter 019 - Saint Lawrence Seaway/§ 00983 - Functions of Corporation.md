@@ -6,7 +6,7 @@ The Corporation is authorized and directed to construct, in United States territ
 
 &emsp;(1) the Saint Lawrence Seaway Authority of Canada, provides assurances satisfactory to the Corporation that it will complete the Canadian portions of the navigation works authorized by section 10, chapter 24 of the acts of the fifth session of the Twenty-first Parliament of Canada 15–16, George VI, 1951, as nearly as possible concurrently with the completion of the works authorized by this section;
 
-&emsp;(2) the Corporation has received assurances satisfactory to it that the State of New York,or an entity duly designated by it, or other licensee of the Federal Energy Regulatory Commission, in conjunction with an appropriate agency in Canada, as nearly as possible concurrently with the navigation works herein authorized, will construct and complete the dams and power works approved by the International Joint Commission in its order of October 29, 1952 (docket 68) or any amendment or modification thereof.
+&emsp;(2) the Corporation has received assurances satisfactory to it that the State of New York, or an entity duly designated by it, or other licensee of the Federal Energy Regulatory Commission, in conjunction with an appropriate agency in Canada, as nearly as possible concurrently with the navigation works herein authorized, will construct and complete the dams and power works approved by the International Joint Commission in its order of October 29, 1952 (docket 68) or any amendment or modification thereof.
 
 #### (b) Coordination of activities regarding power projects
 
@@ -17,8 +17,4 @@ The Corporation shall make necessary arrangements to assure the coordination of 
 #### Transfer of Functions
 
 “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsecs. (a)(2) and (b), on authority of Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 984 of this title.
 

@@ -44,7 +44,3 @@ A State educational agency that receives a grant of flexibility authority under 
 
 (Pub. L. 89–10, title VI, §6142, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1883.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7315 of this title.
-

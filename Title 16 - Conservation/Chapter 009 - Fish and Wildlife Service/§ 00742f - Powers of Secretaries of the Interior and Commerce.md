@@ -6,7 +6,7 @@ The Secretary of the Interior, with such advice and assistance as he may require
 
 &emsp;(1) develop and recommend measures which are appropriate to assure the maximum sustainable production of fish and fishery products and to prevent unnecessary and excessive fluctuations in such production;
 
-&emsp;(2) study the economic condition of the industry, and whenever he determines that any segment of the domestic fisheries has been seriously disturbed either by wide fluctuation in the abundance of the resource supporting it, or by unstable market or fishing conditions or due to any other factors he shall make such recommendations to the President and the Congress as he deems appropriate to aid in stabilizing the domestic fisheries;
+&emsp;(2) study the economic condition of the industry, and whenever he determines that any segment of the domestic fisheries has been seriously disturbed either by wide fluctuation in the abundance of the resource supporting it, or by unstable market or fishing conditions ordue to any other factors he shall make such recommendations to the President and the Congress as he deems appropriate to aid in stabilizing the domestic fisheries;
 
 &emsp;(3) develop and recommend special promotional and informational activities with a view to stimulating the consumption of fishery products whenever he determines that there is a prospective or actual surplus of such products; and
 
@@ -70,7 +70,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of the Interior may enter into a cooperative agreement (within the meaning of chapter 63 of title 31) with any partner organization, academic institution, or State or local government agency to carry out 1 or more projects or programs for a refuge or complex of geographically related refuges in accordance with this subsection.
+&emsp;&emsp;Notwithstanding chapter 63 of title 31, the Secretary of the Interior may negotiate andenter into a cooperative agreement with a partner organization, academic institution, State or local government agency, or other person to implement one or more projects or programs for a refuge or complex of geographically related refuges in accordance with the purposes of this subsection and in compliance with the policies of other relevant authorities, regulations, and policy guidance.
 
 #### (B) Projects and programs
 
@@ -90,7 +90,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (i) Matching
 
-&emsp;&emsp;&emsp;Subject to the availability of appropriations and the requirements of the National Wildlife Refuge Administration Act of 1966\(16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match non-Federal funds donated under a cooperative agreement under this paragraph. With respect to each project or program, the amount of funds provided by the Secretary may not exceed the amount of the non-Federal funds donated through the project or program.
+&emsp;&emsp;&emsp;Subject to the availability of appropriations and the requirements of the National Wildlife Refuge Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match non-Federal funds donated under a cooperative agreement under this paragraph. With respect to each project or program, the amount of funds provided by the Secretary may not exceed the amount of the non-Federal funds donated through the project or program.
 
 #### (ii) Use of Federal funds
 
@@ -122,19 +122,23 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 1999 through 2004.
+There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 2004 through 2009.
 
-(Aug. 8, 1956, ch. 1036, §7, 70 Stat. 1122; Pub. L. 95–616, §4, Nov. 8, 1978, 92 Stat. 3112; Pub. L. 97–347, §2, Oct. 18, 1982, 96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(2), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(2), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 105–242, §§3, 4(b), (c), 5–7, Oct. 5, 1998, 112 Stat. 1574–1578.)
+(Aug. 8, 1956, ch. 1036, §7, 70 Stat. 1122; Pub. L. 95–616, §4, Nov. 8, 1978, 92 Stat. 3112; Pub. L. 97–347, §2, Oct. 18, 1982, 96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(2), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(2), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 105–242, §§3, 4(b), (c), 5–7, Oct. 5, 1998, 112 Stat. 1574–1578; Pub. L. 108–327, §§2, 4, Oct. 16, 2004, 118 Stat. 1271.)
 
 #### References in Text
 
-This Act, referred to in subsec. (b)(1), is act Aug. 8, 1956, ch. 1036, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
+This Act, referred to in subsec. (b)(1), is act Aug. 8, 1956, ch. 1036, known as the Fish and Wildlife Act of1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
 
 The National Wildlife Refuge Administration Act of 1966, referred to in subsecs. (b)(2)(B)(ii) and (d)(2)(B), (C)(i), probably means the National Wildlife Refuge System Administration Act of 1966, which consists of sections 4 and 5 of Pub. L. 89–699, Oct. 15, 1966, 80 Stat. 927, as amended, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.
 
 The tort claim provisions of title 28, referred to in subsec. (c)(4), are the provisions of the Federal Tort Claims Act, which is classified generally to section 1346(b) and to chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+2004—Subsec. (d)(2)(A). Pub. L. 108–327, §4, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Interior may enter into a cooperative agreement (within the meaning of chapter 63 of title 31) with any partner organization, academic institution, or State or local government agency to carry out 1 or more projects or programs for a refuge or complex of geographically related refuges in accordance with this subsection.”
+
+Subsec. (f). Pub. L. 108–327, §2, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 1999 through 2004.”
 
 1998—Subsec. (b)(2). Pub. L. 105–242, §3, inserted par. (2) heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
 
@@ -188,25 +192,5 @@ Purposes.—The purposes of this Act are—
 
 #### Pilot Projects
 
-Pub. L. 105–242, §4(a), Oct. 5, 1998, 112 Stat. 1575, provided that:
-
-“(1)
-
-In general.—Subject to the availability of appropriations, the Secretary of the Interior shall carry out a pilot project at 2 or more national wildlife refuges or complexes of geographically related refuges in each United States Fish and Wildlife Service region, but not more than 20 pilot projects nationwide.
-
-“(2)
-
-Volunteer coordinator.—Each pilot project shall provide for the employment of a full-time volunteer coordinator for the refuge or complex of geographically related refuges. The volunteer coordinator shall be responsible for recruiting, training, and supervising volunteers. The volunteer coordinator may be responsible for assisting partner organizations in developing projects and programs under cooperative agreements under section 7(d) of the Fish and Wildlife Act of 1956 \[16 U.S.C. 742f(d)\] (as added by section 5) and coordinating volunteer activities with partner organizations to carry out the projects and programs.
-
-“(3)
-
-Report.—Not later than 3 years after the date of enactment of this Act \[Oct. 5, 1998\], the Secretary of the Interior shall submit a report to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate evaluating and making recommendations regarding the pilot projects.
-
-“(4)
-
-Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 1999 through 2002.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>l</i>–9, 1534, 3705 of this title.
+Pub. L. 105–242, §4(a), Oct. 5, 1998, 112 Stat. 1575, as amended, formerly set out as a note under this section, was transferred and is classified to section 742f–1 of this title.
 

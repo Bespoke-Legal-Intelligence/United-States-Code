@@ -4,7 +4,3 @@ Funds or a portion of funds allocated under this part may be utilized to contrac
 
 (Pub. L. 103–322, title III, §30205, Sept. 13, 1994, 108 Stat. 1843.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

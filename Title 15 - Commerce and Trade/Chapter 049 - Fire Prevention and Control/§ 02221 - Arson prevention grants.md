@@ -42,7 +42,7 @@ In carrying out this section, the Administrator shall award 2-year grants on a c
 
 &emsp;(8) To combat domestic violence as a cause of arson and to advance research at the State and local levels on the prevention of arson arising from domestic violence.
 
-&emsp;(9) To combat arson in rural areas and to improve the capability of firefighters to identifyand prevent arson initiated fires in rural areas and public forests.
+&emsp;(9) To combat arson in rural areas and to improve the capability of firefighters to identify and prevent arson initiated fires in rural areas and public forests.
 
 &emsp;(10) To improve the capability of firefighters to identify and combat arson through expanded training programs, including—
 
@@ -113,8 +113,4 @@ The Administrator shall directly administer the grant program required by this s
 #### Prior Provisions
 
 A prior section 2221, Pub. L. 93–498, §25, as added Pub. L. 95–422, §4, Oct. 5, 1978, 92 Stat. 933, authorized sale by United States Fire Administrator of former Marjorie Webster Junior College facility, located in Washington, D.C., which had previously been purchased as site for National Academy for Fire Prevention and Control, prior to repeal by Pub. L. 97–80, title II, §202(b), Nov. 20, 1981, 95 Stat. 1083.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2216, 2228 of this title.
 

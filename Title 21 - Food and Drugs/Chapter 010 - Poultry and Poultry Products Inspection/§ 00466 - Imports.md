@@ -34,7 +34,7 @@ All charges for storage, cartage, and labor with respect to any product which is
 
 &emsp;(A) random inspections for such species verification and for residues; and
 
-&emsp;(B) random sampling and testing of internal organs and fat of carcasses for residues at the point of slaughter by the exporting country, in accordance with methods approved by the Secretary.
+&emsp;(B) random sampling and testing of internal organs and fat of carcasses for residues at the point of slaughter by the exporting country, inaccordance with methods approved by the Secretary.
 
 (Pub. L. 85–172, §17, Aug. 28, 1957, 71 Stat. 448; Pub. L. 99–198, title XVII, §1701(a), Dec. 23, 1985, 99 Stat. 1633; Pub. L. 103–182, title III, §361(e), Dec. 8, 1993, 107 Stat. 2123; Pub. L. 103–465, title IV, §431(k), Dec. 8, 1994, 108 Stat. 4969.)
 
@@ -71,8 +71,4 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 #### Effective Date of 1985 Amendment
 
 Section 1701(b) of Pub. L. 99–198 proved that: “The amendment made by this section \[amending this section\] shall become effective 6 months after the date of enactment of this Act \[Dec. 23, 1985\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 454, 461 of this title.
 

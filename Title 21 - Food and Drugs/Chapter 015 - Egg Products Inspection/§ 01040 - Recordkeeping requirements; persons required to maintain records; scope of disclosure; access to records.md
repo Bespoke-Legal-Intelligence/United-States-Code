@@ -8,7 +8,3 @@ For the purpose of enforcing the provisions of this chapter and the regulations 
 
 “Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1034, 1037, 1041, 1052 of this title.
-

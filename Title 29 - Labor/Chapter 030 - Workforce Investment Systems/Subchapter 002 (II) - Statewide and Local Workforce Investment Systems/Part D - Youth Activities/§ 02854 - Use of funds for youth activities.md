@@ -30,7 +30,7 @@ The purposes of this section are—
 
 #### (2) Required statewide youth activities
 
-&emsp;A State shall use funds reserved as described in sections 2853(a) and 2863(a)(1) of this title (regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) ofthis title) to carry out statewide youth activities, which shall include—
+&emsp;A State shall use funds reserved as described in sections 2853(a) and 2863(a)(1) of this title (regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) of this title) to carry out statewide youth activities, which shall include—
 
 &emsp;&emsp;(A) disseminating a list of eligible providers of youth activities described in section 2843 of this title;
 
@@ -181,8 +181,4 @@ The purposes of this section are—
 This Act, referred to in subsec. (c)(6)(A), (B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The School-to-Work Opportunities Act of 1994, referred to in subsec. (c)(6)(B), is Pub. L. 103–239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 20 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2801, 2822, 2832, 2853, 2864, 2871, 2914 of this title.
 

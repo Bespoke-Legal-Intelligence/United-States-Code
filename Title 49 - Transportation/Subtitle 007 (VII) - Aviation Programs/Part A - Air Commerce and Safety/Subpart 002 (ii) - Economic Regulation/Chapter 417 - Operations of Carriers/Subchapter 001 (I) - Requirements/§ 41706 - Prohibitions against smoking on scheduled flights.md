@@ -76,7 +76,3 @@ Regulations.—The Secretary of Transportation shall prescribe regulations neces
 
 Pub. L. 106–181, title VII, §708(b), Apr. 5, 2000, 114 Stat. 159, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[Apr. 5, 2000\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41110 of this title.
-

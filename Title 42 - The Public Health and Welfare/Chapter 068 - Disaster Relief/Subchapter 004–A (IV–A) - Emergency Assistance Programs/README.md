@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV–A—EMERGENCY ASSISTANCE PROGRAMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 5170b of this title.
-
 
 ---
 

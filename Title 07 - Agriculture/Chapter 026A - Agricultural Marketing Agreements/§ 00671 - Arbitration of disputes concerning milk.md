@@ -24,7 +24,3 @@ The Agricultural Adjustment Act, as amended, referred to in subsec. (a), is titl
 
 The antitrust laws, referred to in subsec. (d), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1392 of this title.
-

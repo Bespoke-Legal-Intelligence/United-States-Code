@@ -1,0 +1,36 @@
+### §9801. Definitions
+
+For purposes of this chapter—
+
+&emsp;(1) the term “Administration” means the National Aeronautics and Space Administration;
+
+&emsp;(2) the term “Administrator” means the Administrator of the National Aeronautics and Space Administration;
+
+&emsp;(3) the term “critical need” means a specific and important safety, management, engineering, science, research, or operations requirement of the Administration's mission that the Administration is unable to fulfill because the Administration lacks the appropriate employees because—
+
+&emsp;&emsp;(A) of the inability to fill positions; or
+
+&emsp;&emsp;(B) employees do not possess the requisite skills;
+
+&emsp;(4) the term “employee” means an individual employed in or under the Administration;
+
+&emsp;(5) the term “workforce plan” means the plan required under section 9802(a);
+
+&emsp;(6) the term “appropriate committees of Congress” means—
+
+&emsp;&emsp;(A) the Committees on Government Reform, Science, and Appropriations of the House of Representatives; and
+
+&emsp;&emsp;(B) the Committees on Governmental Affairs, Commerce, Science, and Transportation, and Appropriations of the Senate;
+
+&emsp;(7) the term “redesignation bonus” means a bonus under section 9804 paid to an individual described in subsection (a)(2) thereof;
+
+&emsp;(8) the term “supervisor” has the meaning given such term by section 7103(a)(10); and
+
+&emsp;(9) the term “management official” has the meaning given such term by section 7103(a)(11).
+
+(Added Pub. L. 108–201, §3(a), Feb. 24, 2004, 118 Stat. 461.)
+
+#### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+

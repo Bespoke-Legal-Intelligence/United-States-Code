@@ -14,7 +14,3 @@ The Indian Claims Commission, referred to in text, was terminated on Sept. 30, 1
 
 Section was not enacted as part of act June 8, 1940, ch. 285, 54 Stat. 254, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 594a, 1242 of this title.
-

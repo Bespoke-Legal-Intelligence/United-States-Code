@@ -264,7 +264,91 @@ Availability of information to congress.—Paragraph (1) does not authorize info
 
 Limitation on transferability of duties.—Except as otherwise provided by law, the Under Secretary may not transfer a duty or power under this subsection to another department, agency, or instrumentality of the United States.
 
-(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, title XVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318; Pub. L. 108–7, div. I, title III, §351(d), Feb. 20, 2003, 117 Stat. 420.)
+(t)
+
+Transportation Security Strategic Planning.—
+
+&emsp;(1)
+
+In general.—The Secretary of Homeland Security shall develop, prepare, implement, and update, as needed—
+
+&emsp;&emsp;(A) a National Strategy for Transportation Security; and
+
+&emsp;&emsp;(B) transportation modal security plans.
+
+&emsp;(2)
+
+Role of secretary of transportation.—The Secretary of Homeland Security shall work jointly with the Secretary of Transportation in developing, revising, and updating the documents required by paragraph (1).
+
+&emsp;(3)
+
+Contents of national strategy for transportation security.—The National Strategy for Transportation Security shall include the following:
+
+&emsp;&emsp;(A) An identification and evaluation of the transportation assets in the United States that, in the interests of national security and commerce, must be protected from attack or disruption by terrorist or other hostile forces, including modal security plans for aviation, bridge and tunnel, commuter rail and ferry, highway, maritime, pipeline, rail, mass transit, over-the-road bus, and other public transportation infrastructure assets that could be at risk of such an attack or disruption.
+
+&emsp;&emsp;(B) The development of risk-based priorities across all transportation modes and realistic deadlines for addressing security needs associated with those assets referred to in subparagraph (A).
+
+&emsp;&emsp;(C) The most appropriate, practical, and cost-effective means of defending those assets against threats to their security.
+
+&emsp;&emsp;(D) A forward-looking strategic plan that sets forth the agreed upon roles and missions of Federal, State, regional, and local authorities and establishes mechanisms for encouraging private sector cooperation and participation in the implementation of such plan.
+
+&emsp;&emsp;(E) A comprehensive delineation of response and recovery responsibilities and issues regarding threatened and executed acts of terrorism within the United States.
+
+&emsp;&emsp;(F) A prioritization of research and development objectives that support transportation security needs, giving a higher priority to research and development directed toward protecting vital transportation assets.
+
+&emsp;(4)
+
+Submissions of plans to congress.—
+
+&emsp;&emsp;(A)
+
+Initial strategy.—The Secretary of Homeland Security shall submit the National Strategy for Transportation Security, including the transportation modal security plans, developed under this subsection to the appropriate congressional committees not later than April 1, 2005.
+
+&emsp;&emsp;(B)
+
+Subsequent versions.—After December 31, 2005, the Secretary of Homeland Security shall submit the National Strategy for Transportation Security, including the transportation modal security plans and any revisions to the National Strategy for Transportation Security and the transportation modal security plans, to appropriate congressional committees not less frequently than April 1 of each even-numbered year.
+
+&emsp;&emsp;(C)
+
+Periodic progress report.—
+
+&emsp;&emsp;&emsp;(i)
+
+Requirement for report.—Each year, in conjunction with the submission of the budget to Congress under section 1105(a) of title 31, United States Code, the Secretary of Homeland Security shall submit to the appropriate congressional committees an assessment of the progress made on implementing the National Strategy for Transportation Security.
+
+&emsp;&emsp;&emsp;(ii)
+
+Content.—Each progress report under this subparagraph shall include, at a minimum, recommendations for improving and implementing the National Strategy for Transportation Security and the transportation modal security plans that the Secretary, in consultation with the Secretary of Transportation, considers appropriate.
+
+&emsp;&emsp;(D)
+
+Classified material.—Any part of the National Strategy for Transportation Security or the transportation modal security plans that involve information that is properly classified under criteria established by Executive order shall be submitted to the appropriate congressional committees separately in a classified format.
+
+&emsp;&emsp;(E)
+
+Appropriate congressional committees defined.—In this subsection, the term “appropriate congressional committees” means the Committee on Transportation and Infrastructure and the Select Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+&emsp;(5)
+
+Priority Status.—
+
+&emsp;&emsp;(A)
+
+In general.—The National Strategy for Transportation Security shall be the governing document for Federal transportation security efforts.
+
+&emsp;&emsp;(B)
+
+Other plans and reports.—The National Strategy for Transportation Security shall include, as an integral part or as an appendix—
+
+&emsp;&emsp;&emsp;(i) the current National Maritime Transportation Security Plan under section 70103 of title 46;
+
+&emsp;&emsp;&emsp;(ii) the report required by section 44938 of this title;
+
+&emsp;&emsp;&emsp;(iii) transportation modal security plans required under this section; and
+
+&emsp;&emsp;&emsp;(iv) any other transportation security plan or report that the Secretary of Homeland Security determines appropriate for inclusion.
+
+(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, title XVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318; Pub. L. 108–7, div. I, title III, §351(d), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–458, title IV, §4001(a), Dec. 17, 2004, 118 Stat. 3710.)
 
 #### References in Text
 
@@ -276,11 +360,17 @@ The Aviation and Transportation Security Act, referred to in subsec. (s)(1), is 
 
 #### Amendments
 
+2004—Subsec. (t). Pub. L. 108–458 added subsec. (t).
+
 2003—Subsec. (q)(1). Pub. L. 108–7 inserted “or other Federal agency” after “Transportation Security Administration”.
 
 2002—Subsec. (<i>l</i>)(2)(B). Pub. L. 107–296, §1707, inserted “for a period not to exceed 90 days” after “effective” and “ratified or” before “disapproved”.
 
 Subsec. (s). Pub. L. 107–296, §1601(b), added subsec. (s).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–458, title IV, §4082, Dec. 17, 2004, 118 Stat. 3732, provided that: “This title \[enacting section 44925 of this title, amending this section, sections 44903, 44904, 44909, 44917, 44923, 46301 to 46303, and 48301 of this title, and sections 70102 and 70103 of Title 46, Shipping, and enacting provisions set out as notes under sections 44703, 44901, 44913, 44917, 44923, 44925, and 44935 of this title, section 2751 of Title 22, Foreign Relations and Intercourse, and section 70101 of Title 46\] shall take effect on the date of enactment of this Act \[Dec. 17, 2004\].”
 
 #### Effective Date of 2002 Amendment
 
@@ -321,8 +411,4 @@ In General.—The Under Secretary of Transportation for Security may take the fo
 Report.—Not later than 6 months after the date of enactment of this Act \[Nov. 19, 2001\], and annually thereafter until the Under Secretary has implemented or decided not to take each of the actions specified in subsection (a), the Under Secretary shall transmit to Congress a report on the progress of the Under Secretary in evaluating and taking such actions, including any legislative recommendations that the Under Secretary may have for enhancing transportation security.”
 
 \[For definitions of terms used in section 109 of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 115, 20105, 46110 of this title.
 

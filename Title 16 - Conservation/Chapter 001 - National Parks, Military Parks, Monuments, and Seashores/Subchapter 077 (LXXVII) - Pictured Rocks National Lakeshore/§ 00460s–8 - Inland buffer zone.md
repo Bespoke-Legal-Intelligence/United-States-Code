@@ -10,7 +10,3 @@ As used in this subchapter, the term “inland buffer zone” means that part of
 
 (Pub. L. 89–668, §9, Oct. 15, 1966, 80 Stat. 924.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460s–5 of this title.
-

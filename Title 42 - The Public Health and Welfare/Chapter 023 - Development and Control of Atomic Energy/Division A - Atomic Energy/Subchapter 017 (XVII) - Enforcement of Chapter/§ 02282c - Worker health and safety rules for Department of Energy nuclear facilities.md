@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall promulgate regulations for industrial and construction health and safety at Department of Energy facilities that are operated by contractors covered by agreements of indemnification under section 2210(d) of this title, after public notice and opportunity for comment under section 553 of title 5 (commonly known as the “Administrative Procedure Act”). Such regulations shall, subject to paragraph (3), provide a level of protection for workers at such facilities that is substantially equivalent to the level of protection currently provided to such workers at such facilities.
+&emsp;The Secretary shall promulgate regulations for industrial and construction health and safety at Department of Energy facilities that are operated by contractors covered by agreements of indemnification under section 2210(d) of this title, after public notice and opportunity for comment under section 553 of title 5 (commonly known as the “Administrative Procedure Act”). Such regulations shall, subject to paragraph (3), provide a level of protection for workers at such facilities that is substantially equivalent to the level of protectioncurrently provided to such workers at such facilities.
 
 #### (2) Applicability
 

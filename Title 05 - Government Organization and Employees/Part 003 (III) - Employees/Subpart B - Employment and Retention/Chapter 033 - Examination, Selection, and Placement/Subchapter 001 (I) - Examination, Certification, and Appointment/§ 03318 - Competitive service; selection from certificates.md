@@ -68,7 +68,3 @@ Subsec. (b). Pub. L. 95–454, §307(d), designated existing provisions as par. 
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2302, 3304, 3319, 3320, 9510 of this title; title 22 section 1438; title 49 section 40122.
-

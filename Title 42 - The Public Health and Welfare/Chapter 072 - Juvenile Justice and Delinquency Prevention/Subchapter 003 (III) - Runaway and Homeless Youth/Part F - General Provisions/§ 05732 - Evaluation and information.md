@@ -32,7 +32,3 @@ A prior section 5732, Pub. L. 93–415, title III, §322, Sept. 7, 1974, 88 Stat
 
 Section effective Oct. 1, 1988, but not applicable with respect to fiscal year 1989, see section 7296(a), (b)(2) of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 5601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5715 of this title.
-

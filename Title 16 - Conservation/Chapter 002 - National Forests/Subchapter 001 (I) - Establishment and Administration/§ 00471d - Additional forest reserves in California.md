@@ -8,7 +8,3 @@ There is reserved and withdrawn from settlement, occupancy or sale under the law
 
 Section was formerly classified to section 45 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 46, 48, 51, 471c of this title.
-

@@ -6,7 +6,7 @@ Not later than 30 months after August 6, 1996, and in cooperation with the State
 
 #### (b) State programs
 
-Beginning 2 years after the date on which the Administrator publishes guidelines under subsection (a) of this section, the Administrator shall withhold 20 percent of the funds a State is otherwise entitled to receive under section 300j–12 of this title unless the State has adopted and is implementing a program for the certification of operators of community and nontransient noncommunity public water systems that meets the requirements of the guidelines published pursuant to subsection (a) of this section or that has been submitted in compliance with subsection (c) of this section and that has not been disapproved.
+Beginning 2 years after the date on which the Administrator publishes guidelines under subsection (a) of this section, the Administratorshall withhold 20 percent of the funds a State is otherwise entitled to receive under section 300j–12 of this title unless the State has adopted and is implementing a program for the certification of operators of community and nontransient noncommunity public water systems that meets the requirements of the guidelines published pursuant to subsection (a) of this section or that has been submitted in compliance with subsection (c) of this section and that has not been disapproved.
 
 #### (c) Existing programs
 
@@ -31,8 +31,4 @@ For any State exercising primary enforcement responsibility for public water sys
 &emsp;If the appropriation made pursuant to paragraph (3) for any fiscal year is not sufficient to satisfy the requirements of paragraph (1), the Administrator shall, prior to any other allocation or reservation, reserve such sums as necessary from the funds appropriated pursuant to section 300j–12(m) of this title to provide reimbursement for the training and certification costs mandated by this subsection.
 
 (July 1, 1944, ch. 373, title XIV, §1419, as added Pub. L. 104–182, title I, §123, Aug. 6, 1996, 110 Stat. 1652.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300j–12 of this title.
 

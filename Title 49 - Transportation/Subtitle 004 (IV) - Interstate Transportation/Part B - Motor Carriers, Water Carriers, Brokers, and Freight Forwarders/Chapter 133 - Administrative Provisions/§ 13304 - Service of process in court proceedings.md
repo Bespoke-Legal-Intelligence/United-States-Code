@@ -14,7 +14,3 @@ Change.—A designation under this section may be changed at any time in the sam
 
 Provisions similar to those in this section were contained in section 10330 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13906, 13908 of this title.
-

@@ -6,7 +6,7 @@ Beginning with data for calendar year 1980, the Federal Financial Institutions E
 
 #### (b) Staff and data processing resources
 
-The Board shall provide staff and data processing resources to the Council to enable it to carry out the provisions of subsection (a) of this section.
+The Board shall provide staff and data processing resources to the Council to enable it tocarry out the provisions of subsection (a) of this section.
 
 #### (c) Availability to public
 
@@ -21,8 +21,4 @@ A prior section 2809, Pub. L. 94–200, title III, §310, Dec. 31, 1975, 89 Stat
 #### Amendments
 
 1983—Subsec. (a). Pub. L. 98–181 substituted “primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas” for “standard metropolitan statistical areas” in two places.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2803, 2810 of this title.
 

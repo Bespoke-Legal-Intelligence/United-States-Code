@@ -12,9 +12,5 @@ Grazing of livestock within the memorial area to the extent now permitted within
 
 #### Mining Rights Existing Prior to 1976 Amendment
 
-Section 3 of Pub. L. 94–429 provided in part that this section was amended as indicated in order to close area to entry and location under the Mining Law of 1872, subject to valid existing rights.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450y–1, 450y–3, 450y–5, 450y–6 of this title.
+Section 3 of Pub. L. 94–429 provided in part that this section was amended as indicated in order to close areato entry and location under the Mining Law of 1872, subject to valid existing rights.
 

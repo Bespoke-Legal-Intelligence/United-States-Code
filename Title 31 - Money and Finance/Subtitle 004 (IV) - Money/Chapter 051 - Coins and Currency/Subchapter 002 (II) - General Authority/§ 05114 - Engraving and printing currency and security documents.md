@@ -1,16 +1,34 @@
 ### §5114. Engraving and printing currency and security documents
 
-(a) The Secretary of the Treasury shall engrave and print United States currency and bonds of the United States Government and currency and bonds of United States territories and possessions from intaglio plates on plate printing presses the Secretary selects. However, other security documents and checks may be printed by any process the Secretary selects. Engraving and printing shall be carried out within the Department of the Treasury if the Secretary decides the engraving and printing can be carried out as cheaply, perfectly, and safely as outside the Department.
+(a)
+
+Authority To Engrave and Print.—
+
+&emsp;(1)
+
+In general.—The Secretary of the Treasury shall engrave and print United States currency and bonds of the United States Government and currency and bonds of United States territories and possessions from intaglio plates on plate printing presses the Secretary selects. However, other security documents and checks may be printed by any process the Secretary selects. Engraving and printing shall be carried out within the Department of the Treasury if the Secretary decides the engraving and printing can be carried out as cheaply, perfectly, and safely as outside the Department.
+
+&emsp;(2)
+
+Engraving and printing for other governments.—The Secretary of the Treasury may produce currency, postage stamps, and other security documents for foreign governments if—
+
+&emsp;&emsp;(A) the Secretary of the Treasury determines that such production will not interfere with engraving and printing needs of the United States; and
+
+&emsp;&emsp;(B) the Secretary of State determines that such production would be consistent with the foreign policy of the United States.
+
+&emsp;(3)
+
+Procurement guidelines.—Articles, material, and supplies procured for use in the production of currency, postage stamps, and other security documents for foreign governments pursuant to paragraph (2) shall be treated in the same manner as articles, material, and supplies procured for public use within the United States for purposes of title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.; commonly referred to as the Buy American Act).
 
 (b) United States currency has the inscription “In God We Trust” in a place the Secretary decides is appropriate. Only the portrait of a deceased individual may appear on United States currency and securities. The name of the individual shall be inscribed below the portrait.
 
-(c) The Secretary may make a contract for a period of not more than 4 years to manufacture distinctive paper for United States currency and securities. To promote competition among manufacturers of the distinctive paper, the Secretary may split the award for the manufacture of the paper between the 2 bidders with the lowest prices a pound. When the Secretary decides that it is necessary to operate more than onemill to manufacture distinctive paper, the Secretary may—
+(c) The Secretary may make a contract for a period of not more than 4 years to manufacture distinctive paper for United States currency and securities. To promote competition among manufacturers of the distinctive paper, the Secretary may split the award for the manufacture of the paper between the 2 bidders with the lowest prices a pound. When the Secretary decides that it is necessary to operate more than one mill to manufacture distinctive paper, the Secretary may—
 
 &emsp;(1) employ individuals temporarily at rates of pay equivalent to the rates of pay of regular employees; and
 
 &emsp;(2) charge the pay of the temporary employees to the appropriation available for manufacturing distinctive paper.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 983.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 983; Pub. L. 108–458, title VI, §6301(a), Dec. 17, 2004, 118 Stat. 3748.)
 
 Historical and Revision Notes
 
@@ -80,9 +98,17 @@ Apr. 4, 1924, ch. 84(1st par. on p. 69), 43 Stat. 69.
 
 In subsection (a), the words “The Secretary of the Treasury shall engrave and print” are substituted for “The work of engraving and printing . . . shall be performed at the Treasury Department” in 31:415 because of the source provisions restated in section 321(c) of the revised title. The words “United States currency and security documents of the United States Government and currency and bonds of the United States territories and possessions” are substituted for “the backs and tints of all United States bonds, the backs and tints of all United States paper money, and the backs and tints of bonds and paper money issued by any of the insular possessions of the United States” in 31:177 to eliminate unnecessary words and for clarity and consistency in the revised title. The words “other security documents and checks” are substituted for “checks” because only currency and bonds must be printed from intaglio plates. The text of 31:177(1st proviso) is omitted as unnecessary because of the authority of the Secretary to engrave and print restated in the subsection and the source provisions restated in section 303 of the revised title. The text of 31:177(last proviso) is omitted as executed. The text of the first and 2d provisos in the 4th paragraph under the heading “Engraving and Printing” in section 1 of the Act of August 24, 1912 (ch. 355, 37 Stat. 430), is omitted as superseded by 31:177(1st proviso). The words after the semicolon in the 2d paragraph under the heading “Bureau of Engraving and Printing” of the Act of January 3, 1923 (ch. 22, 42 Stat. 1099), are omitted as executed. The words “if the Secretary decides the engraving and printing can be carried out . . . as outside the Department” are substituted for “provided it can be done there” in 31:415 for clarity. The words “The Secretary of the Treasury may purchase and provide all the machinery and materials” in 31:416 are omitted as being superseded by section 5142 of the revised title. The words “and employ such persons and appoint such officers as are necessary for the purpose of section 415 of this title” are omitted as unnecessary because of 5:3101. The text of section 3577(words before the semicolon) of the Revised Statutes is omitted as superseded by 31:415.
 
-In subsection (b), the words “United States currency has the inscription” are substituted for “the dies shall bear . . . the inscription” in 31:324a for clarity. The words “At such time as new dies for the printing of currency are adopted” are omitted as executed. The words “and thereafter this inscription shall appear on all United States currency and coins” are omitted as unnecessary because of the restatement of the source provisions in this subsection and section 5112(d) of the revised title. The words “in connection with the current program of the Treasury Department to increase the capacity of presses utilized by the Bureau of Engraving and Printing” in the Act of July 11, 1955 (ch. 303, 69 Stat. 290), are omitted as unnecessary. The words “Only . . . of a deceased individual” are substituted for “No . . . while the original of such portrait is living” in 31:413 for clarity. The words “United States currency and obligations” are substituted for “bonds, securities, notes, fractional or postal currency of the United States” for consistency in the revised title. The words “shall be placed upon any of the plates for bonds, securities, notes, and silver certificates of the United States” in 31:414 are omitted as unnecessary because of the restatement.
+In subsection (b), the words “United States currency has the inscription” are substituted for “the dies shall bear . . . the inscription” in 31:324a for clarity. The words “At such time as new dies for the printing of currency are adopted” are omitted as executed. The words “and thereafter this inscription shall appear on allUnited States currency and coins” are omitted as unnecessary because of the restatement of the source provisions in this subsection and section 5112(d) of the revised title. The words “in connection with the current program of the Treasury Department to increase the capacity of presses utilized by the Bureau of Engraving and Printing” in the Act of July 11, 1955 (ch. 303, 69 Stat. 290), are omitted as unnecessary. The words “Only . . . of a deceased individual” are substituted for “No . . . while the original of such portrait is living” in 31:413 for clarity. The words “United States currency and obligations” are substituted for “bonds, securities, notes, fractional or postal currency of the United States” for consistency in the revised title. The words “shall be placed upon any of the plates for bonds, securities, notes, and silver certificates of the United States” in 31:414 are omitted as unnecessary because of the restatement.
 
 In subsection (c), before clause (1), the words “subject to applicable regulations under the Federal Property and Administrative Services Act of 1949, as amended” in 31:418 are omitted as unnecessary. The words “On and after August 11, 1951” in 31:418a are omitted as executed. The words “received after advertisement” are omitted as unnecessary because of 41:252. The words “the Secretary decides” are added for clarity. In clause (1), the words “as may be necessary” in 31:419 are omitted as surplus. In clause (2), the word “pay” is substituted for “compensation” for consistency in the revised subsection and with other titles of the United States Code.
+
+#### References in Text
+
+Title III of the Act of March 3, 1933, referred to in subsec. (a)(3), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, known as the Buy American Act, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–458 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added pars. (2) and (3).
 
 #### Prohibition on Use of Funds for Manufacture of Distinctive Paper for Currency and Securities by Foreign Owned Corporations or Outside United States; Exception
 

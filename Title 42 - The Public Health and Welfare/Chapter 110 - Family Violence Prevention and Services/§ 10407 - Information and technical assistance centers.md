@@ -46,7 +46,7 @@ To be eligible to receive a grant under this section an entity shall be a privat
 
 &emsp;(3) include on its advisory boards representatives from domestic violence programs in the region who are geographically and culturally diverse; and
 
-&emsp;(4) demonstrate the strong support of domestic violence advocates from across the country and the region for their designation as the national or a special issue resource center.
+&emsp;(4) demonstrate the strong support of domestic violence advocates from across the countryand the region for their designation as the national or a special issue resource center.
 
 #### (e) Reporting
 
@@ -71,8 +71,4 @@ Subsec. (c)(6). Pub. L. 103–322, §40272(b)(2)(A), inserted before period at e
 Subsec. (c)(7). Pub. L. 103–322, §40272(b)(2)(B), added par. (7).
 
 1992—Pub. L. 102–295 amended section generally, substituting provisions relating to information and technical assistance centers for provisions relating to operation of national information and research clearinghouse on prevention of family violence.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10409, 10412 of this title.
 

@@ -42,7 +42,3 @@ Oct. 20, 1972, Pub. L. 92–513, §401, 86 Stat. 961.
 
 15:1981 (last sentence).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 32705 of this title.
-

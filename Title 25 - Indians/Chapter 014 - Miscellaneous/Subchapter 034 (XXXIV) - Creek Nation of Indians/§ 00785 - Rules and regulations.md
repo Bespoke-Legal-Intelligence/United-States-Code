@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to issue rules and regulations neces
 
 (Aug. 1, 1955, ch. 444, §6, 69 Stat. 432.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 782, 783, 784 of this title.
-

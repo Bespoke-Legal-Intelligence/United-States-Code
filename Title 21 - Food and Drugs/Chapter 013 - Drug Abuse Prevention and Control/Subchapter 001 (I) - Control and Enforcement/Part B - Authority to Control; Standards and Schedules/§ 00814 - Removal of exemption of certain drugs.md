@@ -36,7 +36,7 @@ The Attorney General shall limit the designation of a drug or a group of drugs r
 
 &emsp;&emsp;(D) any actions taken by the manufacturer to prevent diversion of the drug product; and
 
-&emsp;&emsp;(E) such other factors as are relevant to and consistent with the public health and safety, including the factors described in subsection (b) of this section as applied to the drug product.
+&emsp;&emsp;(E) such other factors as are relevant to and consistent with the public health andsafety, including the factors described in subsection (b) of this section as applied to the drug product.
 
 #### (3) Status pending application for reinstatement
 
@@ -71,8 +71,4 @@ Amendment by Pub. L. 104–237 not applicable to sale of any pseudoephedrine or 
 #### Effective Date
 
 Section effective on date that is 120 days after Dec. 17, 1993, see section 11 of Pub. L. 103–200, set out as an Effective Date of 1993 Amendment note under section 802 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 802 of this title.
 

@@ -26,7 +26,3 @@ Historical and Revision Notes
 
 Pub. L. 99–272, title XV, §15308, Apr. 7, 1986, 100 Stat. 337.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 17509 of this title.
-

@@ -152,7 +152,7 @@
 
 (1) Each State shall, not less often than once every two years, audit its expenditures from amounts received under this subchapter. Such State audits shall be conducted by an entity independent of the State agency administering a program funded under this subchapter in accordance with the Comptroller General's standards for auditing governmental organizations, programs, activities, and functions and generally accepted auditing standards. Within 30 days following the completion of each audit report, the State shall submit a copy of that audit report to the Secretary.
 
-(2) Each State shall repay to the United States amounts found by the Secretary, after notice and opportunity for a hearing to the State, not to have been expended in accordance with this subchapter and, if such repayment is not made, the Secretary may offset such amounts against the amount of any allotment to which the State is or may become entitled under this subchapter or may otherwise recover such amounts.
+(2) Each State shall repay to the United States amounts found by the Secretary, after notice and opportunity for a hearing to the State, not to have been expended in accordance with thissubchapter and, if such repayment is not made, the Secretary may offset such amounts against the amount of any allotment to which the State is or may become entitled under this subchapter or may otherwise recover such amounts.
 
 (3) The Secretary may, after notice and opportunity for a hearing, withhold payment of funds to any State which is not using its allotment under this subchapter in accordance with this subchapter. The Secretary may withhold such funds until the Secretary finds that the reason for the withholding has been removed and there is reasonable assurance that it will not recur.
 
@@ -229,10 +229,6 @@ Section 2192(b) of Pub. L. 97–35 provided that:
 &emsp;“(E) the financial resources of the various States, and
 
 &emsp;“(F) such other factors as the Secretary deems appropriate, and shall report to the Congress thereon not later than June 30, 1982.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 702, 705, 709, 710 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,319 +4,425 @@
 
 #### (1) Purpose of grants
 
-&emsp;The Secretary shall make grants to States and the outlying areas, and provide funds to the Secretary of the Interior, to assist them to provide special education and related services to children with disabilities in accordance with this subchapter.
+&emsp;The Secretary shall make grants to States, outlying areas, and freely associated States, and provide funds to the Secretary of the Interior, to assist them to provide special education and related services to children with disabilities in accordance with this subchapter.
 
-#### (2) Maximum amounts
+#### (2) Maximum amount
 
-&emsp;The maximum amount of the grant a State may receive under this section for any fiscal year is—
+&emsp;The maximum amount of the grant a State may receive under this section—
 
-&emsp;&emsp;(A) the number of children with disabilities in the State who are receiving special education and related services—
+&emsp;&emsp;(A) for fiscal years 2005 and 2006 is—
 
-&emsp;&emsp;&emsp;(i) aged 3 through 5 if the State is eligible for a grant under section 1419 of this title; and
+&emsp;&emsp;&emsp;(i) the number of children with disabilities in the State who are receiving special education and related services—
 
-&emsp;&emsp;&emsp;(ii) aged 6 through 21; multiplied by
+&emsp;&emsp;&emsp;&emsp;(I) aged 3 through 5 if the State is eligible for a grant under section 1419 of this title; and
 
-&emsp;&emsp;(B) 40 percent of the average per-pupil expenditure in public elementary and secondary schools in the United States.
+&emsp;&emsp;&emsp;&emsp;(II) aged 6 through 21; multiplied by
 
-#### (b) Outlying areas and freely associated States
+&emsp;&emsp;&emsp;(ii) 40 percent of the average per-pupil expenditure in public elementary schools and secondary schools in the United States; and
 
-#### (1) Funds reserved
+&emsp;&emsp;(B) for fiscal year 2007 and subsequent fiscal years is—
 
-&emsp;From the amount appropriated for any fiscal year under subsection (j) of this section, the Secretary shall reserve not more than one percent, which shall be used—
+&emsp;&emsp;&emsp;(i) the number of children with disabilities in the 2004–2005 school year in the State who received special education and related services—
 
-&emsp;&emsp;(A) to provide assistance to the outlying areas in accordance with their respective populations of individuals aged 3 through 21; and
+&emsp;&emsp;&emsp;&emsp;(I) aged 3 through 5 if the State is eligible for a grant under section 1419 of this title; and
 
-&emsp;&emsp;(B) for fiscal years 1998 through 2001, to carry out the competition described in paragraph (2), except that the amount reserved to carry out that competition shall not exceed the amount reserved for fiscal year 1996 for the competition under this subchapter described under the heading “SPECIAL EDUCATION” in Public Law 104–134.
+&emsp;&emsp;&emsp;&emsp;(II) aged 6 through 21; multiplied by
 
-#### (2) Limitation for freely associated States
+&emsp;&emsp;&emsp;(ii) 40 percent of the average per-pupil expenditure in public elementary schools and secondary schools in the United States; adjusted by
 
-#### (A) Competitive grants
+&emsp;&emsp;&emsp;(iii) the rate of annual change in the sum of—
 
-&emsp;&emsp;The Secretary shall use funds described in paragraph (1)(B) to award grants, on a competitive basis, to Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the freely associated States to carry out the purposes of this subchapter.
+&emsp;&emsp;&emsp;&emsp;(I) 85 percent of such State's population described in subsection (d)(3)(A)(i)(II); and
 
-#### (B) Award basis
+&emsp;&emsp;&emsp;&emsp;(II) 15 percent of such State's population described in subsection (d)(3)(A)(i)(III).
 
-&emsp;&emsp;The Secretary shall award grants under subparagraph (A) on a competitive basis, pursuant to the recommendations of the Pacific Region Educational Laboratory in Honolulu, Hawaii. Those recommendations shall be made by experts in the field of special education and related services.
+#### (b) Outlying areas and freely associated States; Secretary of the Interior
 
-#### (C) Assistance requirements
+#### (1) Outlying areas and freely associated States
 
-&emsp;&emsp;Any freely associated State that wishes to receive funds under this subchapter shall include, in its application for assistance—
+#### (A) Funds reserved
 
-&emsp;&emsp;&emsp;(i) information demonstrating that it will meet all conditions that apply to States under this subchapter;
+&emsp;&emsp;From the amount appropriated for any fiscal year under subsection (i), the Secretary shall reserve not more than 1 percent, which shall be used—
 
-&emsp;&emsp;&emsp;(ii) an assurance that, notwithstanding any other provision of this subchapter, it will use those funds only for the direct provision of special education and related services to children with disabilities and to enhance its capacity to make a free appropriate public education available to all children with disabilities;
+&emsp;&emsp;&emsp;(i) to provide assistance to the outlying areas in accordance with their respective populations of individuals aged 3 through 21; and
 
-&emsp;&emsp;&emsp;(iii) the identity of the source and amount of funds, in addition to funds under this subchapter, that it will make available to ensure that a free appropriate public education is available to all children with disabilities within its jurisdiction; and
+&emsp;&emsp;&emsp;(ii) to provide each freely associated State a grant in the amount that such freely associated State received for fiscal year 2003 under this subchapter, but only if the freely associated State meets the applicable requirements of this subchapter, as well as the requirements of section 1411(b)(2)(C) of this title as such section was in effect on the day before December 3, 2004.
 
-&emsp;&emsp;&emsp;(iv) such other information and assurances as the Secretary may require.
+#### (B) Special rule
 
-#### (D) Termination of eligibility
+&emsp;&emsp;The provisions of Public Law 95–134, permitting the consolidation of grants by the outlying areas, shall not apply to funds provided to the outlying areas or the freely associated States under this section.
 
-&emsp;&emsp;Notwithstanding any other provision of law, the freely associated States shall not receive any funds under this subchapter for any program year that begins after September 30, 2001.
+#### (C) Definition
 
-#### (E) Administrative costs
+&emsp;&emsp;In this paragraph, the term “freely associated States” means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
-&emsp;&emsp;The Secretary may provide not more than five percent of the amount reserved for grants under this paragraph to pay the administrative costs of the Pacific Region Educational Laboratory under subparagraph (B).
+#### (2) Secretary of the Interior
 
-#### (3) Limitation
+&emsp;From the amount appropriated for any fiscal year under subsection (i), the Secretary shall reserve 1.226 percent to provide assistance to the Secretary of the Interior in accordance with subsection (h).
 
-&emsp;An outlying area is not eligible for a competitive award under paragraph (2) unless it receives assistance under paragraph (1)(A).
+#### (c) Technical assistance
 
-#### (4) Special rule
+#### (1) In general
 
-&emsp;The provisions of Public Law 95–134, permitting the consolidation of grants by the outlying areas, shall not apply to funds provided to those areas or to the freely associated States under this section.
+&emsp;The Secretary may reserve not more than 1/2 of 1 percent of the amounts appropriated under this subchapter for each fiscal year to provide technical assistance activities authorized under section 1416(i) of this title.
 
-#### (5) Eligibility for discretionary programs
+#### (2) Maximum amount
 
-&emsp;The freely associated States shall be eligible to receive assistance under part B of subchapter IV of this chapter until September 30, 2001.
-
-#### (6) “Freely associated States” defined
-
-&emsp;As used in this subsection, the term “freely associated States” means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
-
-#### (c) Secretary of the Interior
-
-From the amount appropriated for any fiscal year under subsection (j) of this section, the Secretary shall reserve 1.226 percent to provide assistance to the Secretary of the Interior in accordance with subsection (i) of this section.
+&emsp;The maximum amount the Secretary may reserve under paragraph (1) for any fiscal yearis $25,000,000, cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor.
 
 #### (d) Allocations to States
 
 #### (1) In general
 
-&emsp;After reserving funds for studies and evaluations under section 1474(e) of this title, and for payments to the outlying areas and the Secretary of the Interior under subsections (b) and (c) of this section, the Secretary shall allocate the remaining amount among the States in accordance with paragraph (2) or subsection (e) of this section, as the case may be.
+&emsp;After reserving funds for technical assistance, and for payments to the outlying areas, the freely associated States, and the Secretary of the Interior under subsections (b) and (c) for a fiscal year, the Secretary shall allocate the remaining amount among the States in accordance with this subsection.
 
-#### (2) Interim formula
+#### (2) Special rule for use of fiscal year 1999 amount
 
-&emsp;Except as provided in subsection (e) of this section, the Secretary shall allocate the amount described in paragraph (1) among the States in accordance with section 611(a)(3), (4), and (5) and (b)(1), (2), and (3) of this Act, as in effect prior to June 4, 1997, except that the determination of the number of children with disabilities receiving special education and related services under such section 611(a)(3) may, at the State's discretion, be calculated as of the last Friday in October or as of December 1 of the fiscal year for which the funds are appropriated.
-
-#### (e) Permanent formula
-
-#### (1) Establishment of base year
-
-&emsp;The Secretary shall allocate the amount described in subsection (d)(1) of this section among the States in accordance with this subsection for each fiscal year beginning with the first fiscal year for which the amount appropriated under subsection (j) of this section is more than $4,924,672,200.
-
-#### (2) Use of base year
-
-#### (A) “Base year” defined
-
-&emsp;&emsp;As used in this subsection, the term “base year” means the fiscal year preceding the first fiscal year in which this subsection applies.
-
-#### (B) Special rule for use of base year amount
-
-&emsp;&emsp;If a State received any funds under this section for the base year on the basis of children aged 3 through 5, but does not make a free appropriate public education available to all children with disabilities aged 3 through 5 in the State in any subsequent fiscal year, the Secretary shall compute the State's base year amount, solely for the purpose of calculating the State's allocation in that subsequent year under paragraph (3) or (4), by subtracting the amount allocated to the State for the base year on the basis of those children.
+&emsp;If a State received any funds under this section for fiscal year 1999 on the basis of children aged 3 through 5, but does not make a free appropriate public education available to all children with disabilities aged 3 through 5 in the State in any subsequent fiscal year, the Secretary shall compute the State's amount for fiscal year 1999, solely for the purpose of calculating the State's allocation in that subsequent year under paragraph (3) or (4), by subtracting the amount allocated to the State for fiscal year 1999 on the basis of those children.
 
 #### (3) Increase in funds
 
-&emsp;If the amount available for allocations to States under paragraph (1) is equal to or greater than the amount allocated to the States under this paragraph for the preceding fiscal year, those allocations shall be calculated as follows:
+&emsp;If the amount available for allocations to States under paragraph (1) for a fiscal year is equal to or greater than the amount allocated to the States under this paragraph for the preceding fiscal year, those allocations shall be calculated as follows:
 
-&emsp;&emsp;(A)(i) Except as provided in subparagraph (B), the Secretary shall—
+#### (A) Allocation of increase
 
-&emsp;&emsp;&emsp;(I) allocate to each State the amount it received for the base year;
+#### (i) In general
 
-&emsp;&emsp;&emsp;(II) allocate 85 percent of any remaining funds to States on the basis of their relative populations of children aged 3 through 21 who are of the same age as children with disabilities for whom the State ensures the availability of a free appropriate public education under this subchapter; and
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), the Secretary shall allocate for the fiscal year—
 
-&emsp;&emsp;&emsp;(III) allocate 15 percent of those remaining funds to States on the basis of their relative populations of children described in subclause (II) who are living in poverty.
+&emsp;&emsp;&emsp;&emsp;(I) to each State the amount the State received under this section for fiscal year 1999;
 
-&emsp;&emsp;(ii) For the purpose of making grants under this paragraph, the Secretary shall use the most recent population data, including data on children living in poverty, that are available and satisfactory to the Secretary.
+&emsp;&emsp;&emsp;&emsp;(II) 85 percent of any remaining funds to States on the basis of the States’ relative populations of children aged 3 through 21 who are of the same age as children with disabilities for whom the State ensures the availability of a free appropriate public education under this subchapter; and
 
-&emsp;&emsp;(B) Notwithstanding subparagraph (A), allocations under this paragraph shall be subject to the following:
+&emsp;&emsp;&emsp;&emsp;(III) 15 percent of those remaining funds to States on the basis of the States’ relative populations of children described in subclause (II) who are living in poverty.
 
-&emsp;&emsp;&emsp;(i) No State's allocation shall be less than its allocation for the preceding fiscal year.
+#### (ii) Data
 
-&emsp;&emsp;&emsp;(ii) No State's allocation shall be less than the greatest of—
+&emsp;&emsp;&emsp;For the purpose of making grants under this paragraph, the Secretary shall use the most recent population data, including data on children living in poverty, that are available and satisfactory to the Secretary.
+
+#### (B) Limitations
+
+&emsp;&emsp;Notwithstanding subparagraph (A), allocations under this paragraph shall be subject to the following:
+
+#### (i) Preceding year allocation
+
+&emsp;&emsp;&emsp;No State's allocation shall be less than its allocation under this section for the preceding fiscal year.
+
+#### (ii) Minimum
+
+&emsp;&emsp;&emsp;No State's allocation shall be less than the greatest of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the sum of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount it received for the base year; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount the State received under this section for fiscal year 1999; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) one third of one percent of the amount by which the amount appropriated under subsection (j) of this section exceeds the amount appropriated under this section for the base year;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) 1/3 of 1 percent of the amount by which the amount appropriated under subsection (i) for the fiscal year exceeds the amount appropriated for this section for fiscal year 1999;
 
 &emsp;&emsp;&emsp;&emsp;(II) the sum of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount it received for the preceding fiscal year; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount the State received under this section for the preceding fiscal year; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that amount multiplied by the percentage by which the increase in the funds appropriated from the preceding fiscal year exceeds 1.5 percent; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that amount multiplied by the percentage by which the increase in the funds appropriated for this section from the preceding fiscal year exceeds 1.5 percent; or
 
 &emsp;&emsp;&emsp;&emsp;(III) the sum of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount it received for the preceding fiscal year; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount the State received under this section for the preceding fiscal year; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that amount multiplied by 90 percent of the percentage increase in the amount appropriated from the preceding fiscal year.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that amount multiplied by 90 percent of the percentage increase in the amount appropriated for this section from the preceding fiscal year.
 
-&emsp;&emsp;&emsp;(iii) Notwithstanding clause (ii), no State's allocation under this paragraph shall exceed the sum of—
+#### (iii) Maximum
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount it received for the preceding fiscal year; and
+&emsp;&emsp;&emsp;Notwithstanding clause (ii), no State's allocation under this paragraph shall exceed the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(II) that amount multiplied by the sum of 1.5 percent and the percentage increase in the amount appropriated.
+&emsp;&emsp;&emsp;&emsp;(I) the amount the State received under this section for the preceding fiscal year; and
 
-&emsp;&emsp;(C) If the amount available for allocations under this paragraph is insufficient to pay those allocations in full, those allocations shall be ratably reduced, subject to subparagraph (B)(i).
+&emsp;&emsp;&emsp;&emsp;(II) that amount multiplied by the sum of 1.5 percent and the percentage increase in the amount appropriated under this section from the preceding fiscal year.
+
+#### (C) Ratable reduction
+
+&emsp;&emsp;If the amount available for allocations under this paragraph is insufficient to pay those allocations in full, those allocations shall be ratably reduced, subject to subparagraph (B)(i).
 
 #### (4) Decrease in funds
 
-&emsp;If the amount available for allocations to States under paragraph (1) is less than the amount allocated to the States under this section for the preceding fiscal year, those allocations shall be calculated as follows:
+&emsp;If the amount available for allocations to States under paragraph (1) for a fiscal year is less than the amount allocated to the States under this section for the preceding fiscal year, those allocations shall be calculated as follows:
 
-&emsp;&emsp;(A) If the amount available for allocations is greater than the amount allocated to the States for the base year, each State shall be allocated the sum of—
+#### (A) Amounts greater than fiscal year 1999 allocations
 
-&emsp;&emsp;&emsp;(i) the amount it received for the base year; and
+&emsp;&emsp;If the amount available for allocations is greater than the amount allocated to the States for fiscal year 1999, each State shall be allocated the sum of—
 
-&emsp;&emsp;&emsp;(ii) an amount that bears the same relation to any remaining funds as the increase the State received for the preceding fiscal year over the base year bears to the total of all such increases for all States.
+&emsp;&emsp;&emsp;(i) the amount the State received under this section for fiscal year 1999; and
 
-&emsp;&emsp;(B)(i) If the amount available for allocations is equal to or less than the amount allocated to the States for the base year, each State shall be allocated the amount it received for the base year.
+&emsp;&emsp;&emsp;(ii) an amount that bears the same relation to any remaining funds as the increase the State received under this section for the preceding fiscal year over fiscal year 1999 bears to the total of all such increases for all States.
 
-&emsp;&emsp;(ii) If the amount available is insufficient to make the allocations described in clause (i), those allocations shall be ratably reduced.
+#### (B) Amounts equal to or less than fiscal year 1999 allocations
 
-#### (f) State-level activities
+#### (i) In general
 
-#### (1) General
+&emsp;&emsp;&emsp;If the amount available for allocations under this paragraph is equal to or less than the amount allocated to the States for fiscal year 1999, each State shall be allocated the amount the State received for fiscal year 1999.
 
-&emsp;(A) Each State may retain not more than the amount described in subparagraph (B) for administration and other State-level activities in accordance with paragraphs (2) and (3).
+#### (ii) Ratable reduction
 
-&emsp;(B) For each fiscal year, the Secretary shall determine and report to the State educational agency an amount that is 25 percent of the amount the State received under this section for fiscal year 1997, cumulatively adjusted by the Secretary for each succeeding fiscal year by the lesser of—
+&emsp;&emsp;&emsp;If the amount available for allocations under this paragraph is insufficient to make the allocations described in clause (i), those allocations shall be ratably reduced.
 
-&emsp;&emsp;(i) the percentage increase, if any, from the preceding fiscal year in the State's allocation under this section; or
+#### (e) State-level activities
 
-&emsp;&emsp;(ii) the rate of inflation, as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor.
+#### (1) State administration
 
-&emsp;(C) A State may use funds it retains under subparagraph (A) without regard to—
+#### (A) In general
 
-&emsp;&emsp;(i) the prohibition on commingling of funds in section 1412(a)(18)(B) of this title; and
+&emsp;&emsp;For the purpose of administering this subchapter, including paragraph (3), section 1419 of this title, and the coordination of activities under this subchapter with, and providing technical assistance to, other programs that provide services to children with disabilities—
 
-&emsp;&emsp;(ii) the prohibition on supplanting other funds in section 1412(a)(18)(C) of this title.
+&emsp;&emsp;&emsp;(i) each State may reserve for each fiscal year not more than the maximum amount the State was eligible to reserve for State administration under this section for fiscal year 2004 or $800,000 (adjusted in accordance with subparagraph (B)), whichever is greater; and
 
-#### (2) State administration
+&emsp;&emsp;&emsp;(ii) each outlying area may reserve for each fiscal year not more than 5 percent of the amount the outlying area receives under subsection (b)(1) for the fiscal year or $35,000, whichever is greater.
 
-&emsp;(A) For the purpose of administering this subchapter, including section 1419 of this title (including the coordination of activities under this subchapter with, and providing technical assistance to, other programs that provide services to children with disabilities)—
+#### (B) Cumulative annual adjustments
 
-&emsp;&emsp;(i) each State may use not more than twenty percent of the maximum amount it may retain under paragraph (1)(A) for any fiscal year or $500,000 (adjusted by the cumulative rate of inflation since fiscal year 1998, as measured by the percentage increase, ifany, in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor), whichever is greater; and
+&emsp;&emsp;For each fiscal year beginning with fiscal year 2005, the Secretary shall cumulatively adjust—
 
-&emsp;&emsp;(ii) each outlying area may use up to five percent of the amount it receives under this section for any fiscal year or $35,000, whichever is greater.
+&emsp;&emsp;&emsp;(i) the maximum amount the State was eligible to reserve for State administration under this subchapter for fiscal year 2004; and
 
-&emsp;(B) Funds described in subparagraph (A) may also be used for the administration of subchapter III of this chapter, if the State educational agency is the lead agency for the State under that subchapter.
+&emsp;&emsp;&emsp;(ii) $800,000,
 
-#### (3) Other State-level activities
+> &emsp;&emsp;by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor.
 
-&emsp;Each State shall use any funds it retains under paragraph (1) and does not use for administration under paragraph (2) for any of the following:
+#### (C) Certification
 
-&emsp;&emsp;(A) Support and direct services, including technical assistance and personnel development and training.
+&emsp;&emsp;Prior to expenditure of funds under this paragraph, the State shall certify to the Secretary that the arrangements to establish responsibility for services pursuant to section 1412(a)(12)(A) of this title are current.
 
-&emsp;&emsp;(B) Administrative costs of monitoring and complaint investigation, but only to the extent that those costs exceed the costs incurred for those activities during fiscal year 1985.
+#### (D) Subchapter III
 
-&emsp;&emsp;(C) To establish and implement the mediation process required by section 1415(e) of this title, including providing for the costs of mediators and support personnel.
+&emsp;&emsp;Funds reserved under subparagraph (A) may be used for the administration of subchapter III, if the State educational agency is the lead agency for the State under such subchapter.
 
-&emsp;&emsp;(D) To assist local educational agencies in meeting personnel shortages.
+#### (2) Other State-level activities
 
-&emsp;&emsp;(E) To develop a State Improvement Plan under part A of subchapter IV of this chapter.
+#### (A) State-level activities
 
-&emsp;&emsp;(F) Activities at the State and local levels to meet the performance goals established by the State under section 1412(a)(16) of this title and to support implementation of the State Improvement Plan under part A of subchapter IV of this chapter if the State receives funds under that part.
+#### (i) In general
 
-&emsp;&emsp;(G) To supplement other amounts used to develop and implement a Statewide coordinated services system designed to improve results for children and families, including children with disabilities and their families, but not to exceed one percent of the amount received by the State under this section. This system shall be coordinated with and, to the extent appropriate, build on the system of coordinated services developed by the State under subchapter III of this chapter.
+&emsp;&emsp;&emsp;Except as provided in clause (iii), for the purpose of carrying out State-level activities, each State may reserve for each of the fiscal years 2005 and 2006 not more than 10 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, the State may reserve the maximum amount the State was eligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
 
-&emsp;&emsp;(H) For subgrants to local educational agencies for the purposes described in paragraph (4)(A).
+#### (ii) Small State adjustment
 
-#### (4)(A) Subgrants to local educational agencies for capacity-building and improvement
+&emsp;&emsp;&emsp;Notwithstanding clause (i) and except as provided in clause (iii), in the case of a State for which the maximum amount reserved for State administration is not greater than $850,000, the State may reserve for the purpose of carrying out State-level activities for each of the fiscal years 2005 and 2006, not more than 10.5 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, such State may reserve the maximum amount the State was eligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
 
-&emsp;In any fiscal year in which the percentage increase in the State's allocation under this section exceeds the rate of inflation (as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor), each State shall reserve, from its allocation under this section, the amount described in subparagraph (B) to make subgrants to local educational agencies, unless that amount is less than $100,000, to assist them in providing direct services and in making systemic change to improve results for children with disabilities through one or more of the following:
+#### (iii) Exception
 
-&emsp;&emsp;(i) Direct services, including alternative programming for children who have been expelled from school, and services for children in correctional facilities, children enrolled in State-operated or State-supported schools, and children in charter schools.
+&emsp;&emsp;&emsp;If a State does not reserve funds under paragraph (3) for a fiscal year, then—
 
-&emsp;&emsp;(ii) Addressing needs or carrying out improvement strategies identified in the State's Improvement Plan under part A of subchapter IV of this chapter.
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a State that is not described in clause (ii), for fiscal year 2005 or 2006, clause (i) shall be applied by substituting “9.0 percent” for “10 percent”; and
 
-&emsp;&emsp;(iii) Adopting promising practices, materials, and technology, based on knowledge derived from education research and other sources.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a State that is described in clause (ii), for fiscal year 2005 or 2006, clause (ii) shall be applied by substituting “9.5 percent” for “10.5 percent”.
 
-&emsp;&emsp;(iv) Establishing, expanding, or implementing interagency agreements and arrangements between local educational agencies and other agencies or organizations concerning the provision of services to children with disabilities and their families.
+#### (B) Required activities
 
-&emsp;&emsp;(v) Increasing cooperative problem-solving between parents and school personnel and promoting the use of alternative dispute resolution.
+&emsp;&emsp;Funds reserved under subparagraph (A) shall be used to carry out the following activities:
 
-#### (B) Maximum subgrant
+&emsp;&emsp;&emsp;(i) For monitoring, enforcement, and complaint investigation.
 
-&emsp;For each fiscal year, the amount referred to in subparagraph (A) is—
+&emsp;&emsp;&emsp;(ii) To establish and implement the mediation process required by section 1415(e)of this title, including providing for the cost of mediators and support personnel.
 
-&emsp;&emsp;(i) the maximum amount the State was allowed to retain under paragraph (1)(A) for the prior fiscal year, or for fiscal year 1998, 25 percent of the State's allocation for fiscal year 1997 under this section; multiplied by
+#### (C) Authorized activities
 
-&emsp;&emsp;(ii) the difference between the percentage increase in the State's allocation under this section and the rate of inflation, as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor.
+&emsp;&emsp;Funds reserved under subparagraph (A) may be used to carry out the following activities:
+
+&emsp;&emsp;&emsp;(i) For support and direct services, including technical assistance, personnel preparation, and professional development and training.
+
+&emsp;&emsp;&emsp;(ii) To support paperwork reduction activities, including expanding the use of technology in the IEP process.
+
+&emsp;&emsp;&emsp;(iii) To assist local educational agencies in providing positive behavioral interventions and supports and appropriate mental health services for children with disabilities.
+
+&emsp;&emsp;&emsp;(iv) To improve the use of technology in the classroom by children with disabilities to enhance learning.
+
+&emsp;&emsp;&emsp;(v) To support the use of technology, including technology with universal design principles and assistive technology devices, to maximize accessibility to the general education curriculum for children with disabilities.
+
+&emsp;&emsp;&emsp;(vi) Development and implementation of transition programs, including coordination of services with agencies involved in supporting the transition of children with disabilities to postsecondary activities.
+
+&emsp;&emsp;&emsp;(vii) To assist local educational agencies in meeting personnel shortages.
+
+&emsp;&emsp;&emsp;(viii) To support capacity building activities and improve the delivery of services by local educational agencies to improve results for children with disabilities.
+
+&emsp;&emsp;&emsp;(ix) Alternative programming for children with disabilities who have been expelled from school, and services for children with disabilities in correctional facilities, children enrolled in State-operated or State-supported schools, and children with disabilities in charter schools.
+
+&emsp;&emsp;&emsp;(x) To support the development and provision of appropriate accommodations for children with disabilities, or the development and provision of alternate assessments that are valid and reliable for assessing the performance of children with disabilities, in accordance with sections 6311(b) and 7301 of this title.
+
+&emsp;&emsp;&emsp;(xi) To provide technical assistance to schools and local educational agencies, and direct services, including supplemental educational services as defined in 6316(e) of this title to children with disabilities, in schools or local educational agencies identified for improvement under section 6316 of this title on the sole basis of the assessment results of the disaggregated subgroup of children with disabilities, including providing professional development to special and regular education teachers, who teach children with disabilities, based on scientifically based research to improve educational instruction, in order to improve academic achievement to meet or exceed the objectives established by the State under section 6311(b)(2)(G) of this title.
+
+#### (3) Local educational agency risk pool
+
+#### (A) In general
+
+#### (i) Reservation of funds
+
+&emsp;&emsp;&emsp;For the purpose of assisting local educational agencies (including a charter school that is a local educational agency or a consortium of local educational agencies) in addressing the needs of high need children with disabilities, each State shall have the option to reserve for each fiscal year 10 percent of the amount of funds the State reserves for State-level activities under paragraph (2)(A)—
+
+&emsp;&emsp;&emsp;&emsp;(I) to establish and make disbursements from the high cost fund to local educational agencies in accordance with this paragraph during the first and succeeding fiscal years of the high cost fund; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to support innovative and effective ways of cost sharing by the State, by a local educational agency, or among a consortium of local educational agencies, as determined by the State in coordination with representatives from local educational agencies, subject to subparagraph (B)(ii).
+
+#### (ii) Definition of local educational agency
+
+&emsp;&emsp;&emsp;In this paragraph the term “local educational agency” includes a charter school that is a local educational agency, or a consortium of local educational agencies.
+
+#### (B) Limitation on uses of funds
+
+#### (i) Establishment of high cost fund
+
+&emsp;&emsp;&emsp;A State shall not use any of the funds the State reserves pursuant to subparagraph (A)(i), but may use the funds the State reserves under paragraph (1), to establish and support the high cost fund.
+
+#### (ii) Innovative and effective cost sharing
+
+&emsp;&emsp;&emsp;A State shall not use more than 5 percent of the funds the State reserves pursuant to subparagraph (A)(i) for each fiscal year to support innovative and effective ways of cost sharing among consortia of local educational agencies.
+
+#### (C) State plan for high cost fund
+
+#### (i) Definition
+
+&emsp;&emsp;&emsp;The State educational agency shall establish the State's definition of a high need child with a disability, which definition shall be developed in consultation with local educational agencies.
+
+#### (ii) State plan
+
+&emsp;&emsp;&emsp;The State educational agency shall develop, not later than 90 days after the State reserves funds under this paragraph, annually review, and amend as necessary, a State plan for the high cost fund. Such State plan shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) establish, in coordination with representatives from local educational agencies, a definition of a high need child with a disability that, at a minimum—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) addresses the financial impact a high need child with a disability has on the budget of the child's local educational agency; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) ensures that the cost of the high need child with a disability is greater than 3 times the average per pupil expenditure (as defined in section 7801 of this title) in that State;
+
+&emsp;&emsp;&emsp;&emsp;(II) establish eligibility criteria for the participation of a local educational agency that, at a minimum, takes into account the number and percentage of high need children with disabilities served by a local educational agency;
+
+&emsp;&emsp;&emsp;&emsp;(III) develop a funding mechanism that provides distributions each fiscal year to local educational agencies that meet the criteria developed by the State under subclause (II); and
+
+&emsp;&emsp;&emsp;&emsp;(IV) establish an annual schedule by which the State educational agency shall make its distributions from the high cost fund each fiscal year.
+
+#### (iii) Public availability
+
+&emsp;&emsp;&emsp;The State shall make its final State plan publicly available not less than 30 days before the beginning of the school year, including dissemination of such information on the State website.
+
+#### (D) Disbursements from the high cost fund
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Each State educational agency shall make all annual disbursements from the high cost fund established under subparagraph (A)(i) in accordance with the State plan published pursuant to subparagraph (C).
+
+#### (ii) Use of disbursements
+
+&emsp;&emsp;&emsp;Each State educational agency shall make annual disbursements to eligible local educational agencies in accordance with its State plan under subparagraph (C)(ii).
+
+#### (iii) Appropriate costs
+
+&emsp;&emsp;&emsp;The costs associated with educating a high need child with a disability under subparagraph (C)(i) are only those costs associated with providing direct special education and related services to such child that are identified in such child's IEP.
+
+#### (E) Legal fees
+
+&emsp;&emsp;The disbursements under subparagraph (D) shall not support legal fees, court costs, or other costs associated with a cause of action brought on behalf of a child with a disability to ensure a free appropriate public education for such child.
+
+#### (F) Assurance of a free appropriate public education
+
+&emsp;&emsp;Nothing in this paragraph shall be construed—
+
+&emsp;&emsp;&emsp;(i) to limit or condition the right of a child with a disability who is assisted under this subchapter to receive a free appropriate public education pursuant to section 1412(a)(1) of this title in the least restrictive environment pursuant to section 1412(a)(5) of this title; or
+
+&emsp;&emsp;&emsp;(ii) to authorize a State educational agency or local educational agency to establish a limit on what may be spent on the education of a child with a disability.
+
+#### (G) Special rule for risk pool and high need assistance programs in effect as of January 1, 2004
+
+&emsp;&emsp;Notwithstanding the provisions of subparagraphs (A) through (F), a State may use funds reserved pursuant to this paragraph for implementing a placement neutral cost sharing and reimbursement program of high need, low incidence, catastrophic, or extraordinary aid to local educational agencies that provides services to high need students based on eligibility criteria for such programs that were created not later than January 1, 2004, and are currently in operation, if such program serves children that meet the requirement of the definition of a high need child with a disability as described in subparagraph (C)(ii)(I).
+
+#### (H) Medicaid services not affected
+
+&emsp;&emsp;Disbursements provided under this paragraph shall not be used to pay costs that otherwise would be reimbursed as medical assistance for a child with a disability under the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
+
+#### (I) Remaining funds
+
+&emsp;&emsp;Funds reserved under subparagraph (A) in any fiscal year but not expended in that fiscal year pursuant to subparagraph (D) shall be allocated to local educational agencies for the succeeding fiscal year in the same manner as funds are allocated to local educational agencies under subsection (f) for the succeeding fiscal year.
+
+#### (4) Inapplicability of certain prohibitions
+
+&emsp;A State may use funds the State reserves under paragraphs (1) and (2) without regard to—
+
+&emsp;&emsp;(A) the prohibition on commingling of funds in section 1412(a)(17)(B) of this title; and
+
+&emsp;&emsp;(B) the prohibition on supplanting other funds in section 1412(a)(17)(C) of this title.
 
 #### (5) Report on use of funds
 
-&emsp;As part of the information required to be submitted to the Secretary under section 1412 of this title, each State shall annually describe—
+&emsp;As part of the information required to be submitted to the Secretary under section 1412 of this title, each State shall annually describe how amounts under this section—
 
-&emsp;&emsp;(A) how amounts retained under paragraph (1) will be used to meet the requirements of this subchapter;
+&emsp;&emsp;(A) will be used to meet the requirements of this chapter; and
 
-&emsp;&emsp;(B) how those amounts will be allocated among the activities described in paragraphs (2) and (3) to meet State priorities based on input from local educational agencies; and
+&emsp;&emsp;(B) will be allocated among the activities described in this section to meet State priorities based on input from local educational agencies.
 
-&emsp;&emsp;(C) the percentage of those amounts, if any, that will be distributed to local educational agencies by formula.
+#### (6) Special rule for increased funds
 
-#### (g) Subgrants to local educational agencies
+&emsp;A State may use funds the State reserves under paragraph (1)(A) as a result of inflationary increases under paragraph (1)(B) to carryout activities authorized under clause (i), (iii), (vii), or (viii) of paragraph (2)(C).
+
+#### (7) Flexibility in using funds for subchapter III
+
+&emsp;Any State eligible to receive a grant under section 1419 of this title may use funds made available under paragraph (1)(A), subsection (f)(3), or section 1419(f)(5) of this title to develop and implement a State policy jointly with the lead agency under subchapter III and the State educational agency to provide early intervention services (which shall include an educational component that promotes school readiness and incorporates preliteracy, language, and numeracy skills) in accordance with subchapter III to children with disabilities who are eligible for services under section 1419 of this title and who previously received services under subchapter III until such children enter, or are eligible under State law to enter, kindergarten, or elementary school as appropriate.
+
+#### (f) Subgrants to local educational agencies
 
 #### (1) Subgrants required
 
-&emsp;Each State that receives a grant under this section for any fiscal year shall distribute any funds it does not retain under subsection (f) of this section (at least 75 percent of the grant funds) to local educational agencies in the State that have established their eligibility under section 1413 of this title, and to Stateagencies that received funds under section 614A(a) of this Act for fiscal year 1997, as then in effect, and have established their eligibility under section 1413 of this title, for use in accordance with this subchapter.
+&emsp;Each State that receives a grant under this section for any fiscal year shall distribute any funds the State does not reserve under subsection (e) to local educational agencies (including public charter schools that operate as local educational agencies) in the State that have established their eligibility under section 1413 of this title for use in accordance with this subchapter.
 
-#### (2) Allocations to local educational agencies
+#### (2) Procedure for allocations to local educational agencies
 
-#### (A) Interim procedure
+&emsp;For each fiscal year for which funds are allocated to States under subsection (d), each State shall allocate funds under paragraph (1) as follows:
 
-&emsp;&emsp;For each fiscal year for which funds are allocated to States under subsection (d)(2) of this section, each State shall allocate funds under paragraph (1) in accordance with section 611(d) of this Act, as in effect prior to June 4, 1997.
+#### (A) Base payments
 
-#### (B) Permanent procedure
+&emsp;&emsp;The State shall first award each local educational agency described in paragraph (1) the amount the local educational agency would have received under this section for fiscal year 1999, if the State had distributed 75 percent of its grant for that year under section 1411(d) of this title as section 1411(d) was then in effect.
 
-&emsp;&emsp;For each fiscal year for which funds are allocated to States under subsection (e) of this section, each State shall allocate funds under paragraph (1) as follows:
+#### (B) Allocation of remaining funds
 
-#### (i) Base payments
+&emsp;&emsp;After making allocations under subparagraph (A), the State shall—
 
-&emsp;&emsp;&emsp;The State shall first award each agency described in paragraph (1) the amount that agency would have received under this section for the base year, as defined in subsection (e)(2)(A) of this section, if the State had distributed 75 percent of its grant for that year under section 611(d), as then in effect.
+&emsp;&emsp;&emsp;(i) allocate 85 percent of any remaining funds to those local educational agencies on the basis of the relative numbers of children enrolled in public and private elementary schools and secondary schools within the local educational agency's jurisdiction; and
 
-#### (ii) Allocation of remaining funds
+&emsp;&emsp;&emsp;(ii) allocate 15 percent of those remaining funds to those local educational agencies in accordance with their relative numbers of children living in poverty, as determined by the State educational agency.
 
-&emsp;&emsp;&emsp;After making allocations under clause (i), the State shall—
+#### (3) Reallocation of funds
 
-&emsp;&emsp;&emsp;&emsp;(I) allocate 85 percent of any remaining funds to those agencies on the basis of the relative numbers of children enrolled in public and private elementary and secondary schools within the agency's jurisdiction; and
+&emsp;If a State educational agency determines that a local educational agency is adequately providing a free appropriate public education to all children with disabilities residing in the area served by that local educational agency with State and local funds, the State educational agency may reallocate any portion of the funds under this subchapter that are not needed by that local educational agency to provide a free appropriate public education to other local educational agencies in the State that are not adequately providing special education and related services to all children with disabilities residing in the areas served by those other local educational agencies.
 
-&emsp;&emsp;&emsp;&emsp;(II) allocate 15 percent of those remaining funds to those agencies in accordance with their relative numbers of children living in poverty, as determined by the State educational agency.
+#### (g) Definitions
 
-#### (3) Former chapter 1 State agencies
+In this section:
 
-&emsp;(A) To the extent necessary, the State—
+#### (1) Average per-pupil expenditure in public elementary schools and secondary schools in the United States
 
-&emsp;&emsp;(i) shall use funds that are available under subsection (f)(1)(A) of this section to ensure that each State agency that received fiscal year 1994 funds under subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 receives, from the combination of funds under subsection (f)(1)(A) of this section and funds provided under paragraph (1) of this subsection, an amount equal to—
-
-&emsp;&emsp;&emsp;(I) the number of children with disabilities, aged 6 through 21, to whom the agency was providing special education and related services on December 1 of the fiscal year for which the funds were appropriated, subject to the limitation in subparagraph (B); multiplied by
-
-&emsp;&emsp;&emsp;(II) the per-child amount provided under such subpart for fiscal year 1994; and
-
-&emsp;&emsp;(ii) may use those funds to ensure that each local educational agency that received fiscal year 1994 funds under that subpart for children who had transferred from a State-operated or State-supported school or program assisted under that subpart receives, from the combination of funds available under subsection (f)(1)(A) of this section and funds provided under paragraph (1) of this subsection, an amount for each such child, aged 3 through 21 to whom the agency was providing special education and related services on December 1 of the fiscal year for which the funds were appropriated, equal to the per-child amount the agency received under that subpart for fiscal year 1994.
-
-&emsp;(B) The number of children counted under subparagraph (A)(i)(I) shall not exceed the number of children aged 3 through 21 for whom the agency received fiscal year 1994 funds under subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965.
-
-#### (4) Reallocation of funds
-
-&emsp;If a State educational agency determines that a local educational agency is adequately providing a free appropriate public education to all children with disabilities residing in the area served by that agency with State and local funds, the State educational agency may reallocate any portion of the funds under this subchapter that are not needed by that local agency to provide a free appropriate public education to other local educational agencies in the State that are not adequately providing special education and related services to all children with disabilities residing in the areas they serve.
-
-#### (h) Definitions
-
-For the purpose of this section—
-
-&emsp;(1) the term “average per-pupil expenditure in public elementary and secondary schools in the United States” means—
+&emsp;The term “average per-pupil expenditure in public elementary schools and secondary schools in the United States” means—
 
 &emsp;&emsp;(A) without regard to the source of funds—
 
-&emsp;&emsp;&emsp;(i) the aggregate current expenditures, during the second fiscal year preceding the fiscal year for which the determination is made (or, if satisfactory data for that year are not available, during the most recent preceding fiscal year for which satisfactory data are available) of all local educational agencies in the 50 States and the District of Columbia); plus
+&emsp;&emsp;&emsp;(i) the aggregate current expenditures, during the second fiscal year preceding the fiscal year for which the determination is made (or, if satisfactory data for that year are not available, during the most recent preceding fiscal year for which satisfactory data are available) of all local educational agencies in the 50 States and the District of Columbia; plus
 
 &emsp;&emsp;&emsp;(ii) any direct expenditures by the State for the operation of those agencies; divided by
 
-&emsp;&emsp;(B) the aggregate number of children in average daily attendance to whom those agencies provided free public education during that preceding year; and
+&emsp;&emsp;(B) the aggregate number of children in average daily attendance to whom those agencies provided free public education during that preceding year.
 
-&emsp;(2) the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+#### (2) State
 
-#### (i) Use of amounts by Secretary of the Interior
+&emsp;The term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+#### (h) Use of amounts by Secretary of the Interior
 
 #### (1) Provision of amounts for assistance
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Education shall provide amounts to the Secretary of the Interior to meet the need for assistance for the education of children with disabilities on reservations aged 5 to 21, inclusive, enrolled in elementary and secondary schools for Indianchildren operated or funded by the Secretary of the Interior. The amount of such payment for any fiscal year shall be equal to 80 percent of the amount allotted under subsection (c) of this section for that fiscal year.
+&emsp;&emsp;The Secretary of Education shall provide amounts to the Secretary of the Interior to meet the need for assistance for the education of children with disabilities on reservations aged 5 to 21, inclusive, enrolled in elementary schools and secondary schools for Indian children operated or funded by the Secretary of the Interior. The amount of such payment for any fiscal year shall be equal to 80 percent of the amount allotted under subsection (b)(2) for that fiscal year. Of the amount described in the preceding sentence—
+
+&emsp;&emsp;&emsp;(i) 80 percent shall be allocated to such schools by July 1 of that fiscal year; and
+
+&emsp;&emsp;&emsp;(ii) 20 percent shall be allocated to such schools by September 30 of that fiscal year.
 
 #### (B) Calculation of number of children
 
-&emsp;&emsp;In the case of Indian students aged 3 to 5, inclusive, who are enrolled in programs affiliated with the Bureau of Indian Affairs (hereafter in this subsection referred to as “BIA”) schools and that are required by the States in which such schools are located to attain or maintain State accreditation, and which schools have such accreditation prior to October 7, 1991, the school shall be allowed to count those children for the purpose of distribution of the funds provided under this paragraph to the Secretary of the Interior. The Secretary of the Interior shall be responsible for meeting all of the requirements of this subchapter for these children, in accordance with paragraph (2).
+&emsp;&emsp;In the case of Indian students aged 3 to 5, inclusive, who are enrolled in programs affiliated with the Bureau of Indian Affairs (referred to in this subsection as the “BIA”) schools and that are required by the Statesin which such schools are located to attain or maintain State accreditation, and which schools have such accreditation prior to October 7, 1991, the school shall be allowed to count those children for the purpose of distribution of the funds provided under this paragraph to the Secretary of the Interior. The Secretary of the Interior shall be responsible for meeting all of the requirements of this subchapter for those children, in accordance with paragraph (2).
 
 #### (C) Additional requirement
 
@@ -326,29 +432,31 @@ For the purpose of this section—
 
 &emsp;The Secretary of Education may provide the Secretary of the Interior amounts under paragraph (1) for a fiscal year only if the Secretary of the Interior submits to the Secretary of Education information that—
 
-&emsp;&emsp;(A) demonstrates that the Department of the Interior meets the appropriate requirements, as determined by the Secretary of Education, of sections 1412 (including monitoring and evaluation activities) and 1413 of this title;
+&emsp;&emsp;(A) demonstrates that the Department of the Interior meets the appropriate requirements, as determined by the Secretary of Education, of sections 1412 of this title (including monitoring and evaluation activities) and 1413 of this title;
 
 &emsp;&emsp;(B) includes a description of how the Secretary of the Interior will coordinate the provision of services under this subchapter with local educational agencies, tribes and tribal organizations, and other private and Federal service providers;
 
-&emsp;&emsp;(C) includes an assurance that there are public hearings, adequate notice of such hearings, and an opportunity for comment afforded to members of tribes, tribal governing bodies, and affected local school boards before the adoption of the policies, programs, and procedures described in subparagraph (A);
+&emsp;&emsp;(C) includes an assurance that there are public hearings, adequate notice of such hearings, and an opportunity for comment afforded to members of tribes, tribal governing bodies, and affected local school boards before the adoption of the policies, programs, and procedures related to the requirements described in subparagraph (A);
 
 &emsp;&emsp;(D) includes an assurance that the Secretary of the Interior will provide such information as the Secretary of Education may require to comply with section 1418 of this title;
 
-&emsp;&emsp;(E) includes an assurance that the Secretary of the Interior and the Secretary of Health and Human Services have entered into a memorandum of agreement, to be provided to the Secretary of Education, for the coordination of services, resources, and personnel between their respective Federal, State, and local offices and with State and local educational agencies and other entities to facilitate the provision of services to Indian children with disabilities residing on or near reservations (such agreement shall provide for the apportionment of responsibilities and costs including, but not limited to, child find, evaluation, diagnosis, remediation or therapeutic measures, and (where appropriate) equipment and medical or personal supplies as needed for a child to remain in school or a program); and
+&emsp;&emsp;(E) includes an assurance that the Secretary of the Interior and the Secretary of Health and Human Services have entered into a memorandum of agreement, to be provided to the Secretary of Education, for the coordination of services, resources, and personnel between their respective Federal, State, and local offices and with State and local educational agencies and other entities to facilitate the provision of services to Indian children with disabilities residing on or near reservations (such agreement shall provide for the apportionment of responsibilities and costs, including child find, evaluation, diagnosis, remediation or therapeutic measures, and (where appropriate) equipment and medical or personal supplies as needed for a child to remain in school or a program); and
 
 &emsp;&emsp;(F) includes an assurance that the Department of the Interior will cooperate with the Department of Education in its exercise of monitoring and oversight of this application, and any agreements entered into between the Secretary of the Interior and other entities under this subchapter, and will fulfill its duties under this subchapter.
 
-> &emsp;Section 1416(a) of this title shall apply to the information described in this paragraph.
+#### (3) Applicability
 
-#### (3) Payments for education and services for Indian children with disabilities aged 3 through 5
+&emsp;The Secretary shall withhold payments under this subsection with respect to the information described in paragraph (2) in the same manner as the Secretary withholds payments under section 1416(e)(6) of this title.
+
+#### (4) Payments for education and services for Indian children with disabilities aged 3 through 5
 
 #### (A) In general
 
-&emsp;&emsp;With funds appropriated under subsection (j) of this section, the Secretary of Education shall make payments to the Secretary of the Interior to be distributed to tribes or tribal organizations (as defined under section 450b of title 25) or consortia of the above to provide for the coordination of assistance for special education and related services for children with disabilities aged 3 through 5 on reservations served by elementary and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payments under subparagraph (B) for any fiscal year shall be equal to 20 percent of the amount allotted under subsection (c) of this section.
+&emsp;&emsp;With funds appropriated under subsection (i), the Secretary of Education shall make payments to the Secretary of the Interior to be distributed to tribes or tribal organizations (as defined under section 450b of title 25) or consortia of tribes or tribal organizations to provide for the coordination of assistance for special education and related services for children with disabilities aged 3 through 5 on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payments under subparagraph (B) for any fiscal year shall be equal to 20 percent of the amount allotted under subsection (b)(2).
 
 #### (B) Distribution of funds
 
-&emsp;&emsp;The Secretary of the Interior shall distribute the total amount of the payment under subparagraph (A) by allocating to each tribe or tribal organization an amount based on the number of children with disabilities ages 3 through 5 residing on reservations as reported annually, divided by the total of those children served by all tribes or tribal organizations.
+&emsp;&emsp;The Secretary of the Interior shall distribute the total amount of the payment under subparagraph (A) by allocating to each tribe, tribal organization, or consortium an amount based on the number of children with disabilities aged 3 through 5 residing on reservations as reported annually, divided by the total of those children served by all tribes or tribal organizations.
 
 #### (C) Submission of information
 
@@ -356,71 +464,79 @@ For the purpose of this section—
 
 #### (D) Use of funds
 
-&emsp;&emsp;The funds received by a tribe or tribal organization shall be used to assist in child find, screening, and other procedures for the early identification of children aged 3 through 5, parent training, and the provision of direct services. These activities may be carried out directly or through contracts or cooperative agreements with the BIA, localeducational agencies, and other public or private nonprofit organizations. The tribe or tribal organization is encouraged to involve Indian parents in the development and implementation of these activities. The above entities shall, as appropriate, make referrals to local, State, or Federal entities for the provision of services or further diagnosis.
+&emsp;&emsp;The funds received by a tribe or tribal organization shall be used to assist in child find, screening, and other procedures for the early identification of children aged 3 through 5, parent training, and the provision of direct services. These activities may be carried out directly or through contracts or cooperative agreements with the BIA, local educational agencies, and other public or private nonprofit organizations. The tribe or tribal organization is encouraged to involve Indian parents in the development and implementation of these activities. The tribe or tribal organization shall, as appropriate, make referrals to local, State, or Federal entities for the provision of services or further diagnosis.
 
 #### (E) Biennial report
 
-&emsp;&emsp;To be eligible to receive a grant pursuant to subparagraph (A), the tribe or tribal organization shall provide to the Secretary of the Interior a biennial report of activities undertaken under this paragraph, including the number of contracts and cooperative agreements entered into, the number of children contacted and receiving services for each year, and the estimated number of children needing services during the 2 years following the one in which the report is made. The Secretary of the Interior shall include a summary of this information on a biennial basis in the report to the Secretary of Education required under this subsection. The Secretary of Education may require any additional information from the Secretary of the Interior.
+&emsp;&emsp;To be eligible to receive a grant pursuant to subparagraph (A), the tribe or tribal organization shall provide to the Secretary of the Interior a biennial report of activities undertaken under this paragraph, including the number of contracts and cooperative agreements entered into, the number of children contacted and receiving services for each year, and the estimated number of children needing services during the 2 years following the year in which the report is made. The Secretary of the Interior shall include a summary of this information on a biennial basis in the report to the Secretary of Education required under this subsection. The Secretary of Education may require any additional information from the Secretary of the Interior.
 
 #### (F) Prohibitions
 
 &emsp;&emsp;None of the funds allocated under this paragraph may be used by the Secretary of the Interior for administrative purposes, including child count and the provision of technical assistance.
 
-#### (4) Plan for coordination of services
+#### (5) Plan for coordination of services
 
-&emsp;The Secretary of the Interior shall develop and implement a plan for the coordination of services for all Indian children with disabilities residing on reservations covered under this chapter. Such plan shall provide for the coordination of services benefiting these children from whatever source, including tribes, the Indian Health Service, other BIA divisions, and other Federal agencies. In developing the plan, the Secretary of the Interior shall consult with all interested and involved parties. It shall be based on the needs of the children and the system best suited for meeting those needs, and may involve the establishment of cooperative agreements between the BIA, other Federal agencies, and other entities. The plan shall also be distributed upon request to States, State and local educational agencies, and other agencies providing services to infants, toddlers, and children with disabilities, to tribes, and to other interested parties.
+&emsp;The Secretary of the Interior shall develop and implement a plan for the coordination of services for all Indian children with disabilities residing on reservations covered under this chapter. Such plan shall provide for the coordination of services benefiting those children from whatever source, including tribes, the Indian Health Service, other BIA divisions, and other Federal agencies. In developing the plan, the Secretary of the Interior shall consult with all interested and involved parties. The plan shall be based on the needs of the children and the system best suited for meeting those needs, and may involve the establishment of cooperative agreements between the BIA, other Federal agencies, and other entities. The plan shall also be distributed upon request to States, State educational agencies and local educational agencies, and other agencies providing services to infants, toddlers, and children with disabilities, to tribes, and to other interested parties.
 
-#### (5) Establishment of advisory board
+#### (6) Establishment of advisory board
 
-&emsp;To meet the requirements of section 1412(a)(21) of this title, the Secretary of the Interior shall establish, not later than 6 months after June 4, 1997, under the BIA, an advisory board composed of individuals involved in or concerned with the education and provision of services to Indian infants, toddlers, children, and youth with disabilities, including Indians with disabilities, Indian parents or guardians of such children, teachers, service providers, State and local educational officials, representatives of tribes or tribal organizations, representatives from State Interagency Coordinating Councils under section 1441 of this title in States having reservations, and other members representing the various divisions and entities of the BIA. The chairperson shall be selected by the Secretary of the Interior. The advisory board shall—
+&emsp;To meet the requirements of section 1412(a)(21) of this title, the Secretary of the Interior shall establish, under the BIA, an advisory board composed of individuals involved in or concerned with the education and provision of services to Indian infants, toddlers, children, and youth with disabilities, including Indians with disabilities, Indian parents or guardians of such children, teachers, service providers, State and local educational officials, representatives of tribes or tribal organizations, representatives from State Interagency Coordinating Councils under section 1441 of this title in States having reservations, and other members representing the various divisions and entities of the BIA. The chairperson shall be selected by the Secretary of the Interior. The advisory board shall—
 
 &emsp;&emsp;(A) assist in the coordination of services within the BIA and with other local, State, and Federal agencies in the provision of education for infants, toddlers, and children with disabilities;
 
-&emsp;&emsp;(B) advise and assist the Secretary of the Interior in the performance of the Secretary's responsibilities described in this subsection;
+&emsp;&emsp;(B) advise and assist the Secretary of the Interior in the performance of the Secretary of the Interior's responsibilities described in this subsection;
 
 &emsp;&emsp;(C) develop and recommend policies concerning effective inter- and intra-agency collaboration, including modifications to regulations, and the elimination of barriers to inter- and intra-agency programs and activities;
 
-&emsp;&emsp;(D) provide assistance and disseminate information on best practices, effective program coordination strategies, and recommendations for improved educational programming for Indian infants, toddlers, and children with disabilities; and
+&emsp;&emsp;(D) provide assistance and disseminate information on best practices, effective program coordination strategies, and recommendations for improved early intervention services or educational programming for Indian infants, toddlers, and children with disabilities; and
 
 &emsp;&emsp;(E) provide assistance in the preparation of information required under paragraph (2)(D).
 
-#### (6) Annual reports
+#### (7) Annual reports
 
 #### (A) In general
 
-&emsp;&emsp;The advisory board established under paragraph (5) shall prepare and submit to the Secretary of the Interior and to the Congress an annual report containing a description of the activities of the advisory board for the preceding year.
+&emsp;&emsp;The advisory board established under paragraph (6) shall prepare and submit to the Secretary of the Interior and to Congress an annual report containing a description of the activities of the advisory board for the preceding year.
 
 #### (B) Availability
 
 &emsp;&emsp;The Secretary of the Interior shall make available to the Secretary of Education the report described in subparagraph (A).
 
-#### (j) Authorization of appropriations
+#### (i) Authorization of appropriations
 
-For the purpose of carrying out this subchapter, other than section 1419 of this title, there are authorized to be appropriated such sums as may be necessary.
+For the purpose of carrying out this subchapter, other than section 1419 of this title, there are authorized to be appropriated—
 
-(Pub. L. 91–230, title VI, §611, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 49.)
+&emsp;(1) $12,358,376,571 for fiscal year 2005;
+
+&emsp;(2) $14,648,647,143 for fiscal year 2006;
+
+&emsp;(3) $16,938,917,714 for fiscal year 2007;
+
+&emsp;(4) $19,229,188,286 for fiscal year 2008;
+
+&emsp;(5) $21,519,458,857 for fiscal year 2009;
+
+&emsp;(6) $23,809,729,429 for fiscal year 2010;
+
+&emsp;(7) $26,100,000,000 for fiscal year 2011; and
+
+&emsp;(8) such sums as may be necessary for fiscal year 2012 and each succeeding fiscal year.
+
+(Pub. L. 91–230, title VI, §611, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2662.)
 
 #### References in Text
 
-Provisions under the heading “SPECIAL EDUCATION” in Public Law 104–134, referred to in subsec. (b)(1)(B), are provisions of Pub. L. 104–134, title I, §101(d) \[title III\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–231, which are not classified to the Code.
+Public Law 95–134, referred to in subsec. (b)(1)(B), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
 
-Public Law 95–134, referred to in subsec. (b)(4), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
-
-Section 611 of this Act, as in effect prior to June 4, 1997, referred to in subsecs. (d)(2) and (g)(2)(A), (B)(i), means section 611 of Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 178, as amended, which was classified to section 1411 of this title prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37.
-
-Section 614A of this Act for fiscal year 1997, as then in effect, referred to in subsec. (g)(1), means section 614A of Pub. L. 91–230, title VI, as added by Pub. L. 103–382, title III, §312, Oct. 20, 1994, 108 Stat. 3934, which was classified to section 1414a of this title prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37.
-
-Subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965, referred to in subsec. (g)(3), is subpart 2 of part D of chapter 1 of title I of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 179, as amended, which was classified generally to subpart 2 (§2791 et seq.) of part D of div. I of subchapter I of chapter 47 of this title prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+The Social Security Act, referred to in subsec. (e)(3)(H), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
-A prior section 1411, Pub. L. 91–230, title VI, §611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, §614(a), (e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, §1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, §13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, §601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, §2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, §201(b), title IV, §§403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, §102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, §201, title IX, §901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, §802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, §311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1411, Pub. L. 91–230, title VI, §611, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 49, related to authorization, allotment, use of funds,and authorization of appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+
+Another prior section 1411, Pub. L. 91–230, title VI, §611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, §614(a), (e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, §1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, §13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, §601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, §2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, §201(b), title IV, §§403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, §102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, §201, title IX, §901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, §802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, §311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 #### Effective Date
 
-Section effective beginning with funds appropriated for fiscal year 1998, see section 201(a)(2)(D) of Pub. L. 105–17, set out as a note under section 1400 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1412, 1413, 1416, 1419, 1443, 1453, 1474 of this title.
+Subchapter effective July 1, 2005, see section 302(a) of Pub. L. 108–446, set out as a note under section 1400 of this title.
 

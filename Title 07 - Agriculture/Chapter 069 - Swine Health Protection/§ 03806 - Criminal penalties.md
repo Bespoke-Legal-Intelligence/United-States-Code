@@ -14,7 +14,3 @@
 
 (Pub. L. 96–468, §7, Oct. 17, 1980, 94 Stat. 2231.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3804 of this title.
-

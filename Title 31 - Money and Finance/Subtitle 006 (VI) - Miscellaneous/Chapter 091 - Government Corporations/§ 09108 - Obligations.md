@@ -58,7 +58,7 @@ In subsection (d)(2), the words “(when the ownership, control, and operation o
 
 #### 1983 Act
 
-This amends 31:9107(c)(3) and 9108(d)(2) because the National Consumer Cooperative Bank is no longer amixed-ownership Government corporation. Section 396(h)(2) and (3) and (i) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 440) provided that references to the Bank in sections 302 and 303(d)(2d sentence) of the Government Corporation Control Act would be deleted on the day after the Final Government Equity Redemption Date. Section 501(36) of the Act of December 23, 1981 (Pub. L. 97–101, 95 Stat. 1440), provided that the Redemption Date was December 31, 1981.
+This amends 31:9107(c)(3) and 9108(d)(2) because the National Consumer Cooperative Bank is no longer a mixed-ownership Government corporation. Section 396(h)(2) and (3) and (i) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 440) provided that references to the Bank in sections 302 and 303(d)(2d sentence) of the Government Corporation Control Act would be deleted on the day after the Final Government Equity Redemption Date. Section 501(36) of the Act of December 23, 1981 (Pub. L. 97–101, 95 Stat. 1440), provided that the Redemption Date was December 31, 1981.
 
 #### Amendments
 
@@ -73,8 +73,4 @@ Amendment by Pub. L. 97–452 effective Sept. 13, 1982, see section 2(i) of Pub.
 #### Effective Date of 1982 Amendment
 
 Section 2(<i>l</i>) of Pub. L. 97–258 provided that the amendment made by such section is effective Jan. 1, 1982.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 sections 1431, 1441, 1441a, 1441b.
 

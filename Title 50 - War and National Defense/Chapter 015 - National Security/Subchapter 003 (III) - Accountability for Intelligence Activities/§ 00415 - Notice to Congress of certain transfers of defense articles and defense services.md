@@ -52,9 +52,5 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 1991—Subsec. (a)(1). Pub. L. 102–88 inserted “, or the anticipated transfer in any fiscal year of any aggregation of defense articles or defense services,” after “service” and substituted “this subchapter” for “section 413 of this title”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 7304.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

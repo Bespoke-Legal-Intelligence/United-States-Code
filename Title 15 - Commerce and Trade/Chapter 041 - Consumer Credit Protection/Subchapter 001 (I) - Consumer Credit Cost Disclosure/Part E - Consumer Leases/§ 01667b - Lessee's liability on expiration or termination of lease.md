@@ -14,7 +14,3 @@ If a lease has a residual value provision at the termination of the lease, the l
 
 (Pub. L. 90–321, title I, §183, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 259.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1667d of this title.
-

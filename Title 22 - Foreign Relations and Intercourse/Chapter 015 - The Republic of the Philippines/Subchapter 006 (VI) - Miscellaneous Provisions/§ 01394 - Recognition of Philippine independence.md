@@ -48,7 +48,3 @@ The United States of America hereby withdraws and surrenders all rights of posse
 
 On behalf of the United States of America, I do hereby recognize the independence of the Philippines as a separate and self-governing nation and acknowledge the authority and control over the same of the government instituted by the people thereof, under the constitution now in force.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1395 of this title.
-

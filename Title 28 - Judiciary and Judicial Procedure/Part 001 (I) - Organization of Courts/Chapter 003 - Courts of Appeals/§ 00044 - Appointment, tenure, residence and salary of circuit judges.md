@@ -173,7 +173,9 @@ Section 168 of Pub. L. 97–164 provided that: “The Congress—
 
 #### Salary Increases
 
-2004—Salaries of circuit judges increased to $167,600 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2004, by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+2005—Salaries of circuit judges increased to $171,800 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2005, by Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+
+2004—Salaries of circuit judges increased to $167,600 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2004, by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, formerly set out as a note under section 5332 of Title 5.
 
 Salaries of circuit judges increased to $166,500 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2004, by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
 
@@ -225,11 +227,11 @@ Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated 
 
 1981—Salaries of circuit judges increased to $74,300 effective on first day of first pay period beginning on or after Oct. 1, 1981, by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921, formerly set out as a note under section 5332 of Title 5.
 
-Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of Title 5.
+Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V ofthe Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of Title 5.
 
 1980—Salaries of circuit judges increased to $70,900 effective on first day of first pay period beginning on or after Oct. 1, 1980, by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12248 further provided that pursuant to Pub. L. 96–369 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1980, which was $60,662.50.
 
-Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V ofthe Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of Title 5.
+Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of Title 5.
 
 1979—Salaries of circuit judges increased to $65,000 effective on first day of first applicable pay period beginning on or after Oct. 1, 1979, by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12165 further provided that pursuant to Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the applicable rate payable for such position or office in effect on Sept. 30, 1978, which was $60,662.50 for circuit judges.
 
@@ -287,11 +289,11 @@ Section 1(c) of Pub. L. 89–372, as amended by Pub. L. 90–347, §2, June 18, 
 
 Section 1 of Pub. L. 90–347 provided: “That the President shall appoint, by and with the advice and consent of the Senate, one additional circuit judge for the third circuit, two additional circuit judges for the fifth circuit, one additional circuit judge for the sixth circuit, four additional circuit judges for the ninth circuit, and one additional circuit judge for the tenth circuit.”
 
-Section 3(a) of Pub. L. 95–486 provided that: “The President shall appoint, by and with the advice and consent of the Senate, one additional circuit judgeship for the first circuit, two additional circuit judgeships for the second circuit, one additional circuit judgeship for the third circuit, three additional circuit judgeships for the fourth circuit, eleven additional circuit judgeships for the fifth circuit, two additional circuit judgeships for the sixth circuit, one additional circuit judgeship for the seventh circuit, one additional circuit judgeship for the eighth circuit, ten additional circuit judgeships for the ninth circuit, one additional circuit judgeship for the tenth circuit, and two additional circuit judgeships for the District of Columbia.”
+Section 3(a) of Pub. L. 95–486 provided that: “The President shall appoint, by and with the advice and consent of the Senate, one additional circuit judgeship for the first circuit, two additional circuit judgeshipsfor the second circuit, one additional circuit judgeship for the third circuit, three additional circuit judgeships for the fourth circuit, eleven additional circuit judgeships for the fifth circuit, two additional circuit judgeships for the sixth circuit, one additional circuit judgeship for the seventh circuit, one additional circuit judgeship for the eighth circuit, ten additional circuit judgeships for the ninth circuit, one additional circuit judgeship for the tenth circuit, and two additional circuit judgeships for the District of Columbia.”
 
 Section 201(a) of Pub. L. 98–353 provided that:
 
-“(1) Subject to the provisions of paragraph (2), the President shall appoint, by and with the advice and consent of the Senate, two additional circuit judges forthe first circuit court of appeals, two additional circuit judges for the second circuit court of appeals, two additional circuit judges for the third circuit court of appeals, one additional circuit judge for the fourth circuit court of appeals, two additional circuit judges for the fifth circuit court of appeals, four additional circuit judges for the sixth circuit court of appeals, two additional circuit judges for the seventh circuit court of appeals, one additional circuit judge for the eighth circuit court of appeals, five additional circuit judges for the ninth circuit court of appeals, two additional circuit judges for the tenth circuit court of appeals, and one additional circuit judge for the District of Columbia circuit court of appeals.
+“(1) Subject to the provisions of paragraph (2), the President shall appoint, by and with the advice and consent of the Senate, two additional circuit judges for the first circuit court of appeals, two additional circuit judges for the second circuit court of appeals, two additional circuit judges for the third circuit court of appeals, one additional circuit judge for the fourth circuit court of appeals, two additional circuit judges for the fifth circuit court of appeals, four additional circuit judges for the sixth circuit court of appeals, two additional circuit judges for the seventh circuit court of appeals, one additional circuit judge for the eighth circuit court of appeals, five additional circuit judges for the ninth circuit court of appeals, two additional circuit judges for the tenth circuit court of appeals, and one additional circuit judge for the District of Columbia circuit court of appeals.
 
 “(2) The President shall appoint, by and with the advice and consent of the Senate, no more than 11 of such judges prior to January 21, 1985.”
 
@@ -334,10 +336,6 @@ Sec. 4. <i>Reservation of Authority</i>. Nothing in this order shall be construe
 Sec. 5. <i>Judicial Review</i>. This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities or entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 992 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

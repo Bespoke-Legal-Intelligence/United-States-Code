@@ -50,7 +50,11 @@ There is established within the Administration a program to be carried out by th
 
 &emsp;&emsp;&emsp;(iii) zero, for the portion of a contract to be awarded that is greater than 40 percent of the total volume being procured for each commodity in a single invitation.
 
-#### (C) Treatment of preference
+#### (C) Procurement of commodities for international food aid export operations
+
+&emsp;&emsp;The price evaluation preference for purchases of agricultural commodities by the Secretary of Agriculture for export operations through international food aid programs administered by the Farm Service Agency shall be 5 percent on the first portion of a contract to be awarded that is not greater than 20 percent of the total volume of each commodity being procured in a single invitation.
+
+#### (D) Treatment of preference
 
 &emsp;&emsp;A contract awarded to a HUBZone small business concern under a preference described in subparagraph (B) shall not be counted toward the fulfillment of any requirement partially set aside for competition restricted to small business concerns.
 
@@ -86,9 +90,9 @@ There is established within the Administration a program to be carried out by th
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated to carry out the program established by this section $10,000,000 for each of fiscal years 2001 through 2003.
+There is authorized to be appropriated to carry out the program established by this section $10,000,000 for each of fiscal years 2004 through 2006.
 
-(Pub. L. 85–536, §2\[31\], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629; amended Pub. L. 106–554, §1(a)(9) \[title V, §503(b), title VI, §612(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–699.)
+(Pub. L. 85–536, §2\[31\], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629; amended Pub. L. 106–554, §1(a)(9) \[title V, §503(b), title VI, §612(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–699; Pub. L. 108–447, div. K, title I, §§153, 154, Dec. 8, 2004, 118 Stat. 3458.)
 
 #### References in Text
 
@@ -99,6 +103,10 @@ The Javits-Wagner-O'Day Act, referred to in subsec. (b)(4), is act June 25, 1938
 A prior section 2\[31\] of Pub. L. 85–536 was renumbered section 2\[37\] and is set out as a note under section 631 of this title.
 
 #### Amendments
+
+2004—Subsec. (b)(3)(C), (D). Pub. L. 108–447, §153, which directed amendment of par. (3) by redesignating subpar. (C) as (D) and adding a new subpar. (C) at the end, was executed by making the redesignation as directed but by adding the new subpar. (C) after subpar. (B) to reflect the probable intent of Congress.
+
+Subsec. (d). Pub. L. 108–447, §154, substituted “2004 through 2006” for “2001 through 2003”.
 
 2000—Subsec. (b)(3). Pub. L. 106–554, §1(a)(9) \[title VI, §612(a)\], designated existing provisions as subpar. (A), inserted heading, substituted “Subject to subparagraph (B), in any” for “In any”, and added subpars. (B) and (C).
 
@@ -141,8 +149,4 @@ Pub. L. 105–135, title VI, §602(b)(2), Dec. 2, 1997, 111 Stat. 2631, as amend
 #### Report
 
 Section 606 of Pub. L. 105–135 provided that: “Not later than March 1, 2002, the Administrator shall submit to the Committees a report on the implementation of the HUBZone program established under section 31 of the Small Business Act \[15 U.S.C. 657a\] (as added by section 602(b) of this title) and the degree to which the HUBZone program has resulted in increased employment opportunities and an increased level of investment in HUBZones (as defined in section 3(p) of the Small Business Act (15 U.S.C. 632(p)), as added by section 602(a) of this title).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 632, 645 of this title; title 6 section 426.
 

@@ -34,7 +34,7 @@ To carry out the purposes of section 7105(b) of this title, there are authorized
 
 #### (d) Authorization of appropriations to Attorney General
 
-To carry out the purposes of section 7105(b) of this title, there are authorized to be appropriated to the Attorney General $5,000,000 for fiscal year 2001 and $10,000,000 for fiscal year 2002 and $15,000,000 for each of the fiscal years 2004 and 2005. To carry out the purposes of section 2152d of this title, there are authorized to be appropriated to the President, acting through the Attorney General and the Secretary of State, $250,000 for each of fiscal years 2004 and 2005 to carry out training activities for law enforcement officers, prosecutors, and members of the judiciary with respect to trafficking in persons at the International Law Enforcement Academies.
+To carry out the purposes of section 7105(b) of this title, there are authorized to be appropriated to the Attorney General $5,000,000 for fiscal year 2001 and $10,000,000 for fiscal year 2002 and $15,000,000 for each of the fiscal years 2004and 2005. To carry out the purposes of section 2152d of this title, there are authorized to be appropriated to the President, acting through the Attorney General and the Secretary of State, $250,000 for each of fiscal years 2004 and 2005 to carry out training activities for law enforcement officers, prosecutors, and members of the judiciary with respect to trafficking in persons at the International Law Enforcement Academies.
 
 #### (e) Authorization of appropriations to President
 
@@ -98,7 +98,7 @@ Subsec. (g). Pub. L. 108–193, §7(7), added subsec. (g).
 
 Subsec. (c)(1). Pub. L. 107–228, §682(b)(2)(A), substituted “, $10,000,000 for fiscal year 2002, and $15,000,000 for fiscal year 2003” for “and $10,000,000 for fiscal year 2002”.
 
-Subsec. (c)(2). Pub. L. 107–228, §682(b)(2)(B), substituted “there is authorized to be appropriated to theSecretary of State for each of the fiscal years 2001, 2002, and 2003” for “there are authorized to be appropriated to the Secretary of State” and “for such fiscal year” for “for fiscal year 2001”.
+Subsec. (c)(2). Pub. L. 107–228, §682(b)(2)(B), substituted “there is authorized to be appropriated to the Secretary of State for each of the fiscal years 2001, 2002, and 2003” for “there are authorized to be appropriated to the Secretary of State” and “for such fiscal year” for “for fiscal year 2001”.
 
 Subsec. (e)(1), (2). Pub. L. 107–228, §682(b)(3), substituted “, $10,000,000 for fiscal year 2002, and $15,000,000 for fiscal year 2003” for “and $10,000,000 for fiscal year 2002”.
 

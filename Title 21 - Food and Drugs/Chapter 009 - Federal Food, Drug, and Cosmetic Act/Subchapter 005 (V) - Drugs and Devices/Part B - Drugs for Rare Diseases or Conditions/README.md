@@ -1,9 +1,5 @@
 Part B—Drugs for Rare Diseases or Conditions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 42 sections 236, 1395<i>l.</i>
-
 
 ---
 

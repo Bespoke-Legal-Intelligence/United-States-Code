@@ -24,7 +24,3 @@ If an eligible country to which a new obligation has been issued under section 1
 
 1991—Subsec. (c). Pub. L. 102–237 inserted “accounts” after “Corporation”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 2431e.
-

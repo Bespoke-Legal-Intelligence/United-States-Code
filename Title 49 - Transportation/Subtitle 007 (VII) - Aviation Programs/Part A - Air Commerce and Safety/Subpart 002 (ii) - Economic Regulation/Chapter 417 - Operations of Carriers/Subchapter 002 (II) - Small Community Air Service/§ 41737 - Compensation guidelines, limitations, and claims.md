@@ -44,7 +44,7 @@ Readjustment if costs subsequently decline.—If an adjustment is made under par
 
 &emsp;(3)
 
-Significantly increased costs defined.—In this subsection, the term “significantly increased costs” means a total unit cost increase (but not increases in individual unit costs) of 10 percent or more in relation to the total unit cost reflected in the compensation rate, based on the carrier's internal audit of its financial statements if such cost increase is incurred for a period of at least 2 consecutive months.
+Significantly increased costs defined.—In this subsection, the term “significantly increased costs” means a total unit cost increase (but not increases in individual unit costs) of 10 percent or more in relation tothe total unit cost reflected in the compensation rate, based on the carrier's internal audit of its financial statements if such cost increase is incurred for a period of at least 2 consecutive months.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1151; Pub. L. 108–176, title IV, §402(a), Dec. 12, 2003, 117 Stat. 2543.)
 
@@ -93,8 +93,4 @@ In subsection (d)(2), the reference to fiscal year 1992 is omitted as obsolete.
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–176, title IV, §402(b), Dec. 12, 2003, 117 Stat. 2543, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Dec. 12, 2003\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41110, 41733 of this title.
 

@@ -4,7 +4,3 @@ The Secretary is hereby authorized to negotiate amendments to existing water ser
 
 (July 4, 1955, ch. 271, §6, as added Pub. L. 92–487, Oct. 13, 1972, 86 Stat. 805.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 421a to 421e, 421g, 421h, 502 of this title.
-

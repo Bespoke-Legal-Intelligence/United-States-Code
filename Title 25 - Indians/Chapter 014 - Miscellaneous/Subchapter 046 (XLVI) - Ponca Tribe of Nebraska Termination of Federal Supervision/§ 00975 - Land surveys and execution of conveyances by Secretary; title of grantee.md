@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to make such land surveys and to exe
 
 (Pub. L. 87–629, §5, Sept. 5, 1962, 76 Stat. 430.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 971 of this title.
-

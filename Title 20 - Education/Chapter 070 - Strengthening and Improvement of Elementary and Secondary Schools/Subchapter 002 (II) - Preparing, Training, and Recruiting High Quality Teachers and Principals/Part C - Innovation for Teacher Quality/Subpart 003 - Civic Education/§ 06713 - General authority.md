@@ -28,7 +28,37 @@ The Secretary is authorized to award grants to, or enter into contracts with—
 
 (Pub. L. 89–10, title II, §2343, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1662.)
 
-#### Section Referred to in Other Sections
+#### American History and Civics Education
 
-This section is referred to in sections 6714, 6715 of this title.
+Pub. L. 108–474, Dec. 21, 2004, 118 Stat. 3898, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘American History and Civics Education Act of 2004’.
+
+#### “SEC. 2. PRESIDENTIAL ACADEMIES FOR TEACHING OF AMERICAN HISTORY AND CIVICS; CONGRESSIONAL ACADEMIES FOR STUDENTS OF AMERICAN HISTORY AND CIVICS.
+
+“(a)
+
+Establishment.—The Secretary of Education (referred to in this Act as the ‘Secretary’) may award not more than 12 grants, on a competitive basis—
+
+&emsp;“(1) to entities to establish Presidential Academies for Teaching of American History and Civics that may offer workshops for both veteran and new teachers of American history and civics; and
+
+&emsp;“(2) to entities to establish Congressional Academies for Students of American History and Civics.
+
+“(b)
+
+Application.—An entity that desires to receive a grant under subsection (a) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+
+“(c)
+
+Demonstrated Expertise.—The Secretary shall require that each entity, to be eligible to receive a grant under this section, demonstrate expertise in historical methodology or the teaching of history.
+
+“(d)
+
+Available Funds.—To carry out this section, the Secretary may use any funds appropriated for fiscal year 2005 or any subsequent fiscal year to carry out part D of title V of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7241 et seq.).
+
+#### “SEC. 3. NATIONAL HISTORY DAY PROGRAM.
+
+“The Secretary may award grants to the National History Day Program for the purpose of continuing and expanding its activities to promote the study of history and improve instruction.”
 

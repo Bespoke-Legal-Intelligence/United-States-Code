@@ -172,7 +172,7 @@
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(3)(A) and (c)(4), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. Part B of title II of the Act is classified generally to part B (§6661 et seq.) of subchapter II of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(3)(A) and (c)(4), is Pub.L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. Part B of title II of the Act is classified generally to part B (§6661 et seq.) of subchapter II of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Codification
 
@@ -282,7 +282,7 @@ State.—Except with respect to the Experimental Program to Stimulate Competitiv
 
 &emsp;“(15)
 
-State educational agency.—The term ‘State educational agency’ has the meaning given such termby section 9101(41) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(41)).
+State educational agency.—The term ‘State educational agency’ has the meaning given such term by section 9101(41) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(41)).
 
 &emsp;“(16)
 

@@ -30,7 +30,7 @@ Each regional center established under this section may—
 
 #### (d) Application
 
-Any nonprofit institution or consortium interested in receiving a grant under this section shall submit to the Secretary an application insuch form and containing such information as the Secretary may require. A lighting or building energy center in existence on October 24, 1992, which is owned and operated by a nonprofit institution or a consortium as described in subsection (b) of this section shall be eligible for a grant under this section.
+Any nonprofit institution or consortium interested in receiving a grant under this section shall submit to the Secretary an application in such form and containing such information as the Secretary may require. A lighting or building energy center in existence on October 24, 1992, which is owned and operated by a nonprofit institution or a consortium as described in subsection (b) of this section shall be eligible for a grant under this section.
 
 #### (e) Selection criteria
 

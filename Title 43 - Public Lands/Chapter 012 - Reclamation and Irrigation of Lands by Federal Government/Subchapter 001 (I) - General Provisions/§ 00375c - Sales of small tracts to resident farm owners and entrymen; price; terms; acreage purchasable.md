@@ -4,7 +4,3 @@ The Secretary is authorized to sell such land to resident farm owners or residen
 
 (Mar. 31, 1950, ch. 78, §2, 64 Stat. 39.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 375b, 375f of this title.
-

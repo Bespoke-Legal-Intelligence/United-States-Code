@@ -46,10 +46,6 @@ As a condition of receiving a national service education award under division D 
 
 (Pub. L. 101–610, title I, §139, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 810.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12591, 12592, 12594, 12602, 12603, 12631, 12656 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “institution”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “performing”.</i>

@@ -4,7 +4,3 @@ While away from their homes, regular places of business, or official stations in
 
 (Pub. L. 96–70, title I, §1107, Sept. 27, 1979, 93 Stat. 458.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3612, 3616 of this title.
-

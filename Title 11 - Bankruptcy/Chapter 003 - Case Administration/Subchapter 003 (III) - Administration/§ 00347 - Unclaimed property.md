@@ -28,7 +28,3 @@ Subsec. (b). Pub. L. 99–554, §257(h)(2), inserted references to chapter 12 an
 
 Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 901 of this title.
-

@@ -8,7 +8,3 @@ The Secretary of the Interior is authorized to accept donations of land, interes
 
 “Fort Donelson National Battlefield”, “national battlefield” and “battlefield” substituted in text for “Fort Donelson National Military Park”, “national military park” and “park”, respectively, in view of redesignation of Fort Donelson National Military Park as Fort Donelson National Battlefield by Pub. L. 86–738. See section 428n of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 428d–3 of this title.
-

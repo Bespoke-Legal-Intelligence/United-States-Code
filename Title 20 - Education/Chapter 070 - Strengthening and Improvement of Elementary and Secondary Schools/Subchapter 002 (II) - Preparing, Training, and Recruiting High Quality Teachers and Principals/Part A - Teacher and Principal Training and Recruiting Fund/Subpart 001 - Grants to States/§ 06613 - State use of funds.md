@@ -54,7 +54,7 @@ The State educational agency for a State that receives a grant under section 661
 
 &emsp;(10) Developing or assisting local educational agencies in the development and use of proven, innovative strategies to deliver intensive professional development programs that are both cost-effective and easily accessible, such as strategies that involve delivery through the use of technology, peer networks, and distance learning.
 
-&emsp;(11) Encouraging and supporting the training of teachers and administrators to effectively integrate technology into curricula and instruction, including training to improve the ability to collect, manage, and analyze data to improve teaching, decisionmaking, school improvement efforts, and accountability.
+&emsp;(11) Encouraging and supporting the training of teachers and administrators to effectivelyintegrate technology into curricula and instruction, including training to improve the ability to collect, manage, and analyze data to improve teaching, decisionmaking, school improvement efforts, and accountability.
 
 &emsp;(12) Developing, or assisting local educational agencies in developing, merit-based performance systems, and strategies that provide differential and bonus pay for teachers in high-need academic subjects such as reading, mathematics, and science and teachers in high-poverty schools and districts.
 
@@ -93,8 +93,4 @@ Funds received under this subpart shall be used to supplement, and not supplant,
 The Higher Education Act of 1965, referred to in subsec. (c)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The No Child Left Behind Act of 2001, referred to in subsec. (c)(15), is Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1425. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 6301 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6317, 6611, 6621, 6632, 7305b, 7315a of this title.
 

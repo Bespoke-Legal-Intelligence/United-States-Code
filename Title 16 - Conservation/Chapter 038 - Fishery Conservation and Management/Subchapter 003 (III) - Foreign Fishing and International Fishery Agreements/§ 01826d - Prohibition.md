@@ -24,7 +24,3 @@ Section 602 of Pub. L. 104–43 provided that: “The Congress finds that—
 
 &emsp;“(6) Resolution 46/215 of the United Nations General Assembly calls on all nations, both individually and collectively, to prevent large-scale driftnet fishing on the high seas.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1826f of this title.
-

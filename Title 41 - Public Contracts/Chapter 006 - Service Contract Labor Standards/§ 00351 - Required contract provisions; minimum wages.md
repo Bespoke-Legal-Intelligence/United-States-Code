@@ -6,7 +6,7 @@
 
 &emsp;(2) A provision specifying the fringe benefits to be furnished in the various classes of service employees, engaged in the performance of the contract or any subcontract thereunder, as determined by the Secretary or his authorized representative to be prevailing for such employees in the locality, or, where a collective-bargaining agreement covers any such service employees, to be provided for in such agreement, including prospective fringe benefits increases provided for in such agreement as a result of arm's-length negotiations. Such fringe benefits shall include medical or hospital care, pensions on retirement or death, compensation for injuries or illness resulting from occupational activity, or insurance to provide any of the foregoing, unemployment benefits, life insurance, disability and sickness insurance, accident insurance, vacation and holiday pay, costs of apprenticeship or other similar programs and other bona fide fringe benefits not otherwise required by Federal, State, or local law to be provided by the contractor or subcontractor. The obligation under this subparagraph may be discharged by furnishing any equivalent combinations of fringe benefits or by making equivalent or differential payments in cash under rules and regulations established by the Secretary.
 
-&emsp;(3) A provision that no part of the services covered by this chapter will be performed in buildings or surroundings or under working conditions, provided by or under the control or supervision of the contractor or any subcontractor, which are unsanitary or hazardous or dangerous to the health or safety of service employees engaged to furnish the services.
+&emsp;(3) A provision that no part of the services covered by this chapter will be performed inbuildings or surroundings or under working conditions, provided by or under the control or supervision of the contractor or any subcontractor, which are unsanitary or hazardous or dangerous to the health or safety of service employees engaged to furnish the services.
 
 &emsp;(4) A provision that on the date a service employee commences work on a contract to which this chapter applies, the contractor or subcontractor will deliver to the employee a notice of the compensation required under paragraphs (1) and (2) of this subsection, on a form prepared by the Federal agency, or will post a notice of the required compensation in a prominent place at the worksite.
 
@@ -39,8 +39,4 @@ Section 9 of Pub. L. 89–286 provided that: “This Act \[enacting this chapter
 #### Short Title
 
 Section 1 of Pub. L. 89–286 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Service Contract Act of 1965’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 352, 353, 357, 358 of this title; title 38 section 1720.
 

@@ -42,7 +42,7 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 &emsp;(B) Two years after September 30, 1996, the Secretary shall take the lands identified under subparagraph (d)(1)(A) into trust, and shall hold such lands in trust, in perpetuity, for the Coquille Tribe. Such lands shall be thereafter designated as the Coquille Forest.
 
-&emsp;(C) So as to maintain the current flow of revenue from land subject to the Act entitled “An Act relating to the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land situated in the State of Oregon” (the O\&C Act), approved August 28, 1937 (43 U.S.C. 1181a et seq.), the Secretary shall redesignate, from public domain lands within the tribe's service area, as defined inthis subchapter, certain lands to be subject to the O\&C Act. Lands redesignated under this subparagraph shall not exceed lands sufficient to constitute equivalent timber value as compared to lands constituting the Coquille Forest.
+&emsp;(C) So as to maintain the current flow of revenue from land subject to the Act entitled “An Act relating to the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land situated in the State of Oregon” (the O\&C Act), approved August 28, 1937 (43 U.S.C. 1181a et seq.), the Secretary shall redesignate, from public domain lands within the tribe's service area, as defined in this subchapter, certain lands to be subject to the O\&C Act. Lands redesignated under this subparagraph shall not exceed lands sufficient to constitute equivalent timber value as compared to lands constituting the Coquille Forest.
 
 #### (5) Management
 
@@ -54,7 +54,7 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 #### (6) Indian Self-Determination Act agreement
 
-&emsp;No sooner than two years after September 30, 1996, the Secretary may, upon a satisfactory showing of management competence and pursuant to the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], enter into a binding Indian self-determination agreement (agreement) with the Coquille Indian Tribe. Such agreement may provide for the tribe to carry out all or a portion of the forest management for the Coquille Forest.
+&emsp;No sooner than two years after September 30, 1996, the Secretary may, upon a satisfactory showing of management competence and pursuant to the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], enter into a binding Indian self-determination agreement (agreement) with the Coquille Indian Tribe. Such agreement may provide for the tribe to carryout all or a portion of the forest management for the Coquille Forest.
 
 &emsp;&emsp;(A) Prior to entering such an agreement, and as a condition of maintaining such an agreement, the Secretary must find that the Coquille Tribe has entered into a binding memorandum of agreement (MOA) with the State of Oregon, as required under paragraph 7.<sup>5</sup>
 
@@ -135,10 +135,6 @@ The Indian Self-Determination Act, referred to in subsec. (d)(6), is title I of 
 #### Amendments
 
 1996—Subsec. (d). Pub. L. 104–208 added subsec. (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 715b of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

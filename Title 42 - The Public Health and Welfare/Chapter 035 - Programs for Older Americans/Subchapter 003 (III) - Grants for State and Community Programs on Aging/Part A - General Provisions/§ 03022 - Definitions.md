@@ -26,7 +26,7 @@ For the purpose of this subchapter—
 
 A prior section 3022, Pub. L. 89–73, title III, §302, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 36, Pub. L. 94–135, title I, §103, Nov. 28, 1975, 89 Stat. 713, related to definitions, prior to the general amendment of this subchapter by Pub. L. 95–478.
 
-Another prior section 3022, Pub. L. 89–73, title III, §302, July 14, 1965, 79 Stat. 221; Pub. L. 90–42, §§2(b), 5(g), July 1, 1967, 81 Stat. 107, 108; Pub. L. 91–69, §§3(a), 4(d), 6, 10(b), Sept. 17, 1969, 83 Stat. 108, 110, 114, related to allotments to States, providing in subsec. (a) amount ofallotments, subsec. (b) reallotments, and subsec. (c) availability for grant percentage payments, and duration of project support, prior to repeal by Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 36.
+Another prior section 3022, Pub. L. 89–73, title III, §302, July 14, 1965, 79 Stat. 221; Pub. L. 90–42, §§2(b), 5(g), July 1, 1967, 81 Stat. 107, 108; Pub. L. 91–69, §§3(a), 4(d), 6, 10(b), Sept. 17, 1969, 83 Stat. 108, 110, 114, related to allotments to States, providing in subsec. (a) amount of allotments, subsec. (b) reallotments, and subsec. (c) availability for grant percentage payments, and duration of project support, prior to repeal by Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 36.
 
 #### Amendments
 

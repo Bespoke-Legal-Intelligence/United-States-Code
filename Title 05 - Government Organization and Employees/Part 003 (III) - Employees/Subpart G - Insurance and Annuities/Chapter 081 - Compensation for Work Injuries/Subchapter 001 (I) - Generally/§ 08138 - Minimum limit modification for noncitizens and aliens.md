@@ -46,7 +46,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 For definition of Canal Zone Government and Panama Canal Company, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8112 of this title.
-

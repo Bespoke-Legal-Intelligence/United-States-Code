@@ -40,13 +40,9 @@ Subsection (d) simplifies modification procedure by deeming any creditor or equi
 
 1984—Subsec. (a). Pub. L. 98–353, §511(a), inserted “of a plan” after “After the proponent”, and “of such plan” after “modification”.
 
-Subsec. (b). Pub. L. 98–353, §511(b), substituted “circumstances warrant such modification and the court, after notice and a hearing, confirms such plan as modified, under section 1129 of this title” for “the court,after notice and a hearing, confirms such plan, as modified, under section 1129 of this title, and circumstances warrant such modification”.
+Subsec. (b). Pub. L. 98–353, §511(b), substituted “circumstances warrant such modification and the court, after notice and a hearing, confirms such plan as modified, under section 1129 of this title” for “the court, after notice and a hearing, confirms such plan, as modified, under section 1129 of this title, and circumstances warrant such modification”.
 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 901, 1129 of this title.
 

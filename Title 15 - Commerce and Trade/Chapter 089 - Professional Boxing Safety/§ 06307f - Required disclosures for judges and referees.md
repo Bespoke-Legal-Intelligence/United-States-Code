@@ -8,7 +8,3 @@ A judge or referee shall not be entitled to receive any compensation, directly o
 
 A prior section 14 of Pub. L. 104–272 was renumbered section 22 and is classified to section 6313 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6309 of this title.
-

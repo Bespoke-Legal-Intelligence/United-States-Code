@@ -30,7 +30,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Section 6(b) of Pub. L. 97–221 provided that: “The amendment made by this section \[amending this section\] shall take effect October 1, 1982. Section 5 of this Act \[set out in the Termination Date of 1982 Amendment note under section 6101 of this title\] shall not apply to the amendment made by this section.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6125 of this title.
-

@@ -1,9 +1,5 @@
 Part B—Public Services and Accommodations Under Americans with Disabilities Act of 1990
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1407 of this title.
-
 
 ---
 

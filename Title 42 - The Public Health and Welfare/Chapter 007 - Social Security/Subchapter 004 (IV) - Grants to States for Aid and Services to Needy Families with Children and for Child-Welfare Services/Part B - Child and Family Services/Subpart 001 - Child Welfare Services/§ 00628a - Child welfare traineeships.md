@@ -26,7 +26,3 @@ The Secretary may approve an application for a grant to a public or nonprofit in
 
 Section applicable to grants awarded on or after Oct. 1, 1995, see section 205(c) of Pub. L. 103–432, set out as an Effective Date of 1994 Amendment note under section 626 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 626 of this title.
-

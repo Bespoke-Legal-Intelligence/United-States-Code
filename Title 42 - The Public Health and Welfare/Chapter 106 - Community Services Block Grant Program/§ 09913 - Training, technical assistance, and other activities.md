@@ -6,7 +6,7 @@
 
 &emsp;The Secretary shall use amounts reserved in section 9903(b)(2) of this title—
 
-&emsp;&emsp;(A) for training, technical assistance, planning, evaluation, and performance measurement, to assist States in carrying out corrective action activities and monitoring (tocorrect programmatic deficiencies of eligible entities), and for reporting and data collection activities, related to programs carried out under this chapter; and
+&emsp;&emsp;(A) for training, technical assistance, planning, evaluation, and performance measurement, to assist States in carrying out corrective action activities and monitoring (to correct programmatic deficiencies of eligible entities), and for reporting and data collection activities, related to programs carried out under this chapter; and
 
 &emsp;&emsp;(B) to distribute amounts in accordance with subsection (c) of this section.
 
@@ -33,8 +33,4 @@ The process for determining the training and technical assistance to be carried 
 &emsp;Eligible entities, organizations, or associations described in this paragraph shall be eligible entities, or statewide or local organizations or associations, with demonstrated expertise in providing training to individuals and organizations on methods of effectively addressing the needs of low-income families and communities.
 
 (Pub. L. 97–35, title VI, §678A, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2742.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9903 of this title.
 

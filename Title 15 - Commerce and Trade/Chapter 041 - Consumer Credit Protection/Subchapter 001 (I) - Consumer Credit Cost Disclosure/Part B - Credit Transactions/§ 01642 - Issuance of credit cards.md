@@ -8,7 +8,3 @@ No credit card shall be issued except in response to a request or application th
 
 Section 503(1) of Pub. L. 91–508 provided that: “Section 132 of such Act \[this section\] takes effect on date of enactment of this title \[Oct. 26, 1970\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1645 of this title.
-

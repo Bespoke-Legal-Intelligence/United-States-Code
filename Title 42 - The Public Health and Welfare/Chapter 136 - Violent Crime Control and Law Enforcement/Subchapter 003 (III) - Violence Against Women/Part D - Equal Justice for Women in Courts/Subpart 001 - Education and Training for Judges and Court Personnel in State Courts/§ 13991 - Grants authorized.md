@@ -12,7 +12,3 @@ The State Justice Institute may award grants for the purpose of developing, test
 
 For short title of this part as the “Equal Justice for Women in the Courts Act of 1994”, see section 40401 of Pub. L. 103–322, set out as a note under section 13701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

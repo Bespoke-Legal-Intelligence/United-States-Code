@@ -12,7 +12,7 @@ Shall in each case be fined under this title or imprisoned not more than ten yea
 
 The offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said money, baggage, goods, or chattels.
 
-The carrying or transporting of any such money, freight, express, baggage, goods, or chattels in interstate or foreign commerce, knowing the same to have been stolen, shall constitute a separate offense and subject the offender to the penalties under this section for unlawful taking, and the offense shall be deemed to have been committed in any district into which such money, freight, express, baggage, goods, or chattels shall have been removed or into which the same shall have been brought by such offender.
+The carrying or transporting of any such money, freight, express, baggage, goods, or chattels in interstate or foreign commerce, knowing the same to have been stolen, shall constitute a separate offense and subject the offender to thepenalties under this section for unlawful taking, and the offense shall be deemed to have been committed in any district into which such money, freight, express, baggage, goods, or chattels shall have been removed or into which the same shall have been brought by such offender.
 
 To establish the interstate or foreign commerce character of any shipment in any prosecution under this section the waybill or other shipping document of such shipment shall be prima facie evidence of the place from which and to which such shipment was made. The removal of property from a pipeline system which extends interstate shall be prima facie evidence of the interstate character of the shipment of the property.
 
@@ -30,7 +30,7 @@ This section consolidates sections 409, 410, and 411 of title 18, U.S.C., 1940 e
 
 In the paragraph immediately preceding the last paragraph the words “and to which” were added to obviate an inadvertent and incongruous omission in the enactment of act July 24, 1946, ch. 606, §3, 60 Stat. 657. This is in harmony with corrective legislation pending before the Eightieth Congress.
 
-The definitions of “station house”, “depot”, “wagon”, “automobile”, “truck”, or “other vehicle”,contained in said section 409 of title 18, are omitted as unnecessary.
+The definitions of “station house”, “depot”, “wagon”, “automobile”, “truck”, or “other vehicle”, contained in said section 409 of title 18, are omitted as unnecessary.
 
 The smaller punishment for an offense involving $100 or less was added. (See reviser's notes under sections 641 and 645 of this title.) This improvement was suggested by United States Attorney P. F. Herrick, of Puerto Rico. (See reviser's note under section 641 of this title.)
 
@@ -53,8 +53,4 @@ The “corrective legislation”, referred to in this paragraph, became Act Apri
 1966—Pub. L. 89–654 substituted “shipments by carrier” for “baggage, express, or freight” in section catchline, inserted “pipeline system” and “tank or storage facility” and substituted “freight, express, or other property” for “freight or express” in par. 1, provided in par. 8 that the removal of property from a pipeline system which extends interstate shall be prima facie evidence of the interstate character of the shipment of the property, and, in par. 9, prohibited any construction which indicated an intent on the part of Congress to occupy the field to the exclusion of State laws or to invalidate inconsistent State provisions.
 
 1949—Act May 24, 1949, inserted “embezzled or” before “stolen” in second par., and substituted “whoever” for “who” before “buys” in fourth par.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1961, 2516 of this title.
 

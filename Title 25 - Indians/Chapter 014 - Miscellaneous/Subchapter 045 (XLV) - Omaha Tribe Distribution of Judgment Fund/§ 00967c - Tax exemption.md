@@ -8,7 +8,3 @@ The funds distributed under the provisions of sections 967a to 967d of this titl
 
 Section was not enacted as part of Pub. L. 87–235, Sept. 14, 1961, 75 Stat. 508, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 967d of this title.
-

@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 106–501, §302(2), added subsec. (b) and struck out forme
 
 “(2) There are authorized to be appropriated $120,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, for the purpose of making grants under subpart II of part C of this subchapter (relating to home delivered nutrition services).
 
-“(3) There are authorized to be appropriated $15,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, to carry out subpart III of part C of this subchapter (relating to school-based meals for volunteer older individuals and multigenerational programs).”
+“(3) There are authorized to be appropriated $15,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, to carryout subpart III of part C of this subchapter (relating to school-based meals for volunteer older individuals and multigenerational programs).”
 
 Subsecs. (d) to (g). Pub. L. 106–501, §302(3), added subsecs. (d) and (e) and struck out former subsecs. (d) to (g) which authorized appropriations for fiscal years 1992 to 1995 to carry out parts D to G of this subchapter.
 
@@ -72,7 +72,7 @@ Subsec. (e). Pub. L. 102–375, §303(d), substituted “There are authorized to
 
 Subsec. (f). Pub. L. 102–375, §303(e), substituted “There are authorized to be appropriated $25,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995,” for “Subject to subsection (h) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989, 1990, and 1991”.
 
-Subsec. (g). Pub. L. 102–375, §303(f), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Subject to subsection (h) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989, 1990, and 1991, to carry out partG of this subchapter (relating to abuse, neglect, and exploitation of older individuals).”
+Subsec. (g). Pub. L. 102–375, §303(f), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Subject to subsection (h) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989, 1990, and 1991, to carry out part G of this subchapter (relating to abuse, neglect, and exploitation of older individuals).”
 
 Subsec. (h). Pub. L. 102–375, §303(g), struck out subsec. (h) which read as follows: “No funds may be appropriated under subsection (a)(2), (a)(3), (e), (f), or (g) of this section for a fiscal year unless the aggregate amount appropriated for such fiscal year to carry out this subchapter (other than sections 3026(a)(6)(P), 3027(a)(12), and 3030a of this title, and parts E, F, and G of this subchapter), subchapter IV of this chapter (other than sections 3035f and 3035g of this title), subchapter IX of this chapter, and subchapter X of this chapter exceeds 105 percent of the aggregate amount appropriated for the preceding fiscal year to carry out such subchapters.”
 
@@ -125,10 +125,6 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under section 3001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3024, 3028, 3030s–1, 4728 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection (d)”.</i>
 

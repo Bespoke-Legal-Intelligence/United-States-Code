@@ -4,7 +4,3 @@ For purposes of subchapters I and II of this chapter, and this subchapter, proce
 
 (Pub. L. 95–617, title I, §124, Nov. 9, 1978, 92 Stat. 3131.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2621, 2622, 2624 of this title.
-

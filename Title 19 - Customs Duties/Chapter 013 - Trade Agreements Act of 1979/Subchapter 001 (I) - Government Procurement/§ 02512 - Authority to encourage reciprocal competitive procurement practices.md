@@ -72,7 +72,7 @@ Notwithstanding subsection (a) of this section, but in furtherance of the object
 
 #### References in Text
 
-Title III of the Act of March 3, 1933, referred to in subsec. (c)(2), is act Mar. 3, 1933, ch. 212, title III, 47 Stat. 1520, as amended, known as the Buy American Act, which is classified generally to sections 10a, 10b,and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+Title III of the Act of March 3, 1933, referred to in subsec. (c)(2), is act Mar. 3, 1933, ch. 212, title III, 47 Stat. 1520, as amended, known as the Buy American Act, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
 
 #### Amendments
 
@@ -89,6 +89,8 @@ Subsec. (b)(1). Pub. L. 103–465, §343(b)(1), amended par. (1) generally. Prio
 1993—Subsec. (a)(1). Pub. L. 103–182 substituted “are products covered under the Agreement for procurement by the United States” for “would otherwise be eligible products”.
 
 #### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
@@ -111,8 +113,4 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 #### Delegation of Functions
 
 Functions of President under this section delegated to United States Trade Representative, with authority delegated to Secretary of Defense to waive the prohibitions contained in subsec. (b)(3) of this section, see section 1–201 of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under section 2511 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2514, 2515 of this title.
 

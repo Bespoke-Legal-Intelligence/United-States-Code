@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized and directed to construct, equip, ma
 
 (Aug. 3, 1956, ch. 943, §1, 70 Stat. 1020.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 760–6 of this title.
-

@@ -2,7 +2,7 @@
 
 (a) Appellate review will be initiated by a notice of disagreement and completed by a substantive appeal after a statement of the case is furnished as prescribed in this section. Each appellant will be accorded hearing and representation rights pursuant to the provisions of this chapter and regulations of the Secretary.
 
-(b)(1) Except in the case of simultaneously contested claims, notice of disagreement shallbe filed within one year from the date of mailing of notice of the result of initial review or determination. Such notice, and appeals, must be in writing and be filed with the activity which entered the determination with which disagreement is expressed (hereinafter referred to as the “agency of original jurisdiction”). A notice of disagreement postmarked before the expiration of the one-year period will be accepted as timely filed.
+(b)(1) Except in the case of simultaneously contested claims, notice of disagreement shall be filed within one year from the date of mailing of notice of the result of initial review or determination. Such notice, and appeals, must be in writing and be filed with the activity which entered the determination with which disagreement is expressed (hereinafter referred to as the “agency of original jurisdiction”). A notice of disagreement postmarked before the expiration of the one-year period will be accepted as timely filed.
 
 (2) Notices of disagreement, and appeals, must be in writing and may be filed by the claimant, the claimant's legal guardian, or such accredited representative, attorney, or authorized agent as may be selected by the claimant or legal guardian. Not more than one recognized organization, attorney, or agent will be recognized at any one time in the prosecution of a claim.
 
@@ -59,8 +59,4 @@ Amendment by Pub. L. 100–687 effective Jan. 1, 1989, see section 401(d) of Pub
 #### Effective Date
 
 Section 3 of Pub. L. 87–666 provided that: “The amendments made by this Act \[enacting sections 4005, 4005A, and 4006 \[now 7105, 7105A, and 7106\] of this title, redesignating former section 4006 as 4007 \[now 7107\] of this title, and repealing former sections 4005 and 4007 of this title\] shall be effective January 1, 1963.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7105A, 7106 of this title.
 

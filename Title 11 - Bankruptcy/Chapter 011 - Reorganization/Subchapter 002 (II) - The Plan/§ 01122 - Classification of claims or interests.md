@@ -14,7 +14,3 @@ This section codifies current case law surrounding the classification of claims 
 
 Subsection (b), also a codification of existing practice, contains an exception. The plan may designate a separate class of claims consisting only of every unsecured claim that is less than or reduced to an amount that the court approves as reasonable and necessary for administrative convenience.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 901, 1123, 1127, 1222, 1322 of this title.
-

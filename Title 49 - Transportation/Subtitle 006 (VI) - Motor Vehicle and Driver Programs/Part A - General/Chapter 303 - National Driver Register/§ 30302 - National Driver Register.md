@@ -46,7 +46,7 @@ Agreement.—The Secretary may enter into an agreement with an organization that
 
 &emsp;(2)
 
-Required demonstration.—Any transfer of the National Driver Register's computertimeshare and user assistance functions to an organization that represents the interests of the States shall begin only after a determination is made by the Secretary that all States are participating in the National Driver Register's “Problem Driver Pointer System” (the system used by the Register to effect the exchange of motor vehicle driving records) and that the system is functioning properly.
+Required demonstration.—Any transfer of the National Driver Register's computer timeshare and user assistance functions to an organization that represents the interests of the States shall begin only after a determination is made by the Secretary that all States are participating in the National Driver Register's “Problem Driver Pointer System” (the system used by the Register to effect the exchange of motor vehicle driving records) and that the system is functioning properly.
 
 &emsp;(3)
 
@@ -103,8 +103,4 @@ Sec. 2. Only at the request of a State, a political subdivision thereof, or a Fe
 “
 
 Sec. 3. As used in this Act, the term ‘State’ includes each of the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Virgin Islands, the Canal Zone, and American Samoa.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 30304 of this title.
 

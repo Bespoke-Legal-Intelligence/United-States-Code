@@ -10,7 +10,7 @@
 
 &emsp;(B) amounts retained by the Secretary for research shall be used to make grants to, contracts with, or jointly financed cooperative agreements with, public or nonprofit institutions of higher learning and public or nonprofit private agencies and organizations engaged in research or in maternal and child health or programs for children with special health care needs for research projects relating to maternal and child health services or services for children with special health care needs which show promise of substantial contribution to the advancement thereof.
 
-(3) No funds may be made available by the Secretary under this subsection or subsection (b) of this section unless an application therefor has been submitted to, and approved by, the Secretary. Such application shall be in such form, be submitted in such manner, and contain and be accompanied by such information as the Secretary may specify. No such application may be approved unless it contains assurances that the applicant will use the funds provided only for the purposes specified in the approved application and will establish such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting of Federal funds paid to the applicant under this subchapter.
+(3) No funds may be made available by the Secretary under this subsection or subsection (b) of this section unless an application therefor has been submitted to, and approved by, theSecretary. Such application shall be in such form, be submitted in such manner, and contain and be accompanied by such information as the Secretary may specify. No such application may be approved unless it contains assurances that the applicant will use the funds provided only for the purposes specified in the approved application and will establish such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting of Federal funds paid to the applicant under this subchapter.
 
 #### (b) Excess funds; preference
 
@@ -24,7 +24,7 @@
 
 #### (c) Allotments to States
 
-From the remaining amounts appropriated under section 701(a) of this title for any fiscal year that are not in excess of $600,000,000, the Secretary shall allot to each State which hastransmitted an application for the fiscal year under section 705(a) of this title, an amount determined as follows:
+From the remaining amounts appropriated under section 701(a) of this title for any fiscal year that are not in excess of $600,000,000, the Secretary shall allot to each State which has transmitted an application for the fiscal year under section 705(a) of this title, an amount determined as follows:
 
 &emsp;(1) The Secretary shall determine, for each State—
 
@@ -58,7 +58,7 @@ Another prior section 702, acts Aug. 14, 1935, ch. 531, title V, §502, 49 Stat.
 
 #### Amendments
 
-1989—Subsec. (a)(1). Pub. L. 101–239, §6502(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “Of the amounts appropriated under section 701(a) of this title for a fiscal year that are not in excess of $478,000,000, the Secretary shall retain an amount equal to 15 percent thereof in the case of fiscal year 1982, and an amount equal to not less than 10, nor more than 15, percent thereof in the case of each fiscal year thereafter, for the purpose of carrying out (through grants, contracts, or otherwise) special projects of regional and national significance, training, and research and for the funding of genetic disease testing, counseling, and information development and dissemination programs and of comprehensive hemophilia diagnostic and treatment centers.”
+1989—Subsec. (a)(1). Pub. L. 101–239, §6502(a)(1), amended first sentence generally. Prior to amendment,first sentence read as follows: “Of the amounts appropriated under section 701(a) of this title for a fiscal year that are not in excess of $478,000,000, the Secretary shall retain an amount equal to 15 percent thereof in the case of fiscal year 1982, and an amount equal to not less than 10, nor more than 15, percent thereof in the case of each fiscal year thereafter, for the purpose of carrying out (through grants, contracts, or otherwise) special projects of regional and national significance, training, and research and for the funding of genetic disease testing, counseling, and information development and dissemination programs and of comprehensive hemophilia diagnostic and treatment centers.”
 
 Subsec. (a)(3). Pub. L. 101–239, §6502(a)(2), inserted “or subsection (b) of this section” after “this subsection”.
 
@@ -82,7 +82,7 @@ Subsec. (a)(2)(B). Pub. L. 99–272 substituted “programs for children with sp
 
 Subsec. (b). Pub. L. 99–509, §9441(b)(2), inserted “that are not in excess of $478,000,000” in introductory provisions and struck out par. (3) which read as follows:
 
-“(A) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States either because all the States have not qualified for such allotments under section 705 of this title for the fiscal year or because some Stateshave indicated in their descriptions of activities under section 705 of this title that they do not intend to use the full amount of such allotments, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this subparagraph.
+“(A) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States either because all the States have not qualified for such allotments under section 705 of this title for the fiscal year or because some States have indicated in their descriptions of activities under section 705 of this title that they do not intend to use the full amount of such allotments, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this subparagraph.
 
 “(B) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States because some State allotments are offset under section 706(b)(2) of this title, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this subparagraph.”
 
@@ -91,8 +91,4 @@ Subsecs. (c), (d). Pub. L. 99–509, §9441(b)(3), added subsecs. (c) and (d).
 #### Effective Date of 1989 Amendment
 
 Amendment by section 6502(a) of Pub. L. 101–239 applicable to appropriations for fiscal years beginning with fiscal year 1990, and amendment by section 6503(c)(1), (4) of Pub. L. 101–239 applicable to payments for allotments for fiscal years beginning with fiscal year 1991, see section 6510(a), (b)(1) of Pub. L. 101–239, set out as a note under section 701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300b–6, 701, 703, 704, 706, 708, 709, 710 of this title.
 

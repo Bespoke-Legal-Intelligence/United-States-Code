@@ -4,7 +4,3 @@ The Confederated Tribes of the Grand Ronde Community of Oregon shall be consider
 
 (Pub. L. 98–165, §3, Nov. 22, 1983, 97 Stat. 1064.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 713 of this title.
-

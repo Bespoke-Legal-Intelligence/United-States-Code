@@ -30,9 +30,5 @@ Subsec. (b). Pub. L. 96–143, §4(b), added subsec. (b).
 
 Section 4(c) of Pub. L. 94–293 provided that: “The amendments made by subsection (a) and subsection (b) of this section \[enacting this section and amending section 5042 of this title\] shall be effective on October 1, 1976, and shall not apply to any agreement for the assignment of volunteers entered into before such date during the period of any such agreement.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4954, 12651b of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

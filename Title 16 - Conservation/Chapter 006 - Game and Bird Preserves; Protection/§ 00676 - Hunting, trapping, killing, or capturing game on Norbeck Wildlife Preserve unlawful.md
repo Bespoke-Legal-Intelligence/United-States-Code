@@ -16,7 +16,3 @@ First sentence of section is from section 2 and the last from section 3 of act J
 
 Section 20 of act June 25, 1948, provided that the amendment made by that act is effective Sept. 1, 1948.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 678a of this title.
-

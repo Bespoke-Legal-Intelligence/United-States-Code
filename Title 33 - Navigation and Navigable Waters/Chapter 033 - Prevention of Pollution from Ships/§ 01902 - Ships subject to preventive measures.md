@@ -66,7 +66,7 @@ The Secretary shall prescribe regulations applicable to the ships of a country n
 
 (1) The Secretary of the Navy shall develop and, as appropriate, support the development of technologies and practices for solid waste management aboard ships owned or operated by the Department of the Navy, including technologies and practices for the reduction of the waste stream generated aboard such ships, that are necessary to ensure the compliance of such ships with Annex V to the Convention on or before the dates referred to in subsections (b)(2)(A) and (c)(1) of this section.
 
-(2) Notwithstanding any effective date of the application of this section to a ship, the provisions of Annex V to the Convention with respect to the disposal of plastic shall apply to ships equipped with plastic processors required for the long-term collection and storage of plastic aboard ships of the Navy upon the installation of such processors in such ships.
+(2) Notwithstanding any effective date of the application of this section to a ship, the provisions of Annex V to the Convention with respect to the disposal of plastic shall apply to ships equipped with plastic processors required for the long-term collection and storage of plasticaboard ships of the Navy upon the installation of such processors in such ships.
 
 (3) Except when necessary for the purpose of securing the safety of the ship, the health of the ship's personnel, or saving life at sea, it shall be a violation of this chapter for a ship referred to in subsection (b)(1)(A) of this section that is owned or operated by the Department of the Navy:
 
@@ -88,7 +88,7 @@ The President may waive the effective dates of the requirements set forth in sub
 
 #### (g) Noncommercial shipping standards
 
-The heads of Federal departments and agencies shall prescribe standards applicable to shipsexcluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
+The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
 
 (Pub. L. 96–478, §3, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2102, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 103–160, div. A, title X, §1003(a)–(d), Nov. 30, 1993, 107 Stat. 1745–1747; Pub. L. 104–201, div. A, title III, §324(a), (d), Sept. 23, 1996, 110 Stat. 2480, 2481; Pub. L. 104–227, title II, §201(b), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 105–261, div. A, title III, §326, Oct. 17, 1998, 112 Stat. 1965.)
 
@@ -138,7 +138,7 @@ Subsec. (c). Pub. L. 100–220, §2102(c), amended subsec. (c) generally. Prior 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, entered into force for the United States, see section 2002(a) of Pub. L. 100–220, set out as a note under section 1901 of this title.
+Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex V to the International Convention for the Prevention of Pollution from Ships,1973, entered into force for the United States, see section 2002(a) of Pub. L. 100–220, set out as a note under section 1901 of this title.
 
 #### Effective Date
 
@@ -159,8 +159,4 @@ Section 1003(e) of Pub. L. 103–160 provided that:
 “(5) Not later than July 1, 1998, the Secretary shall complete the installation of plastics processors on board not less than 75 percent of the ships owned or operated by the Navy that require processors to comply with section 3 of such Act, as amended by subsections (a), (b), and (c) of this section.
 
 “(6) Not later than December 31, 1998, the Secretary shall complete the installation of plastics processors on board all ships owned or operated by the Navy that require processors to comply with section 3 of such Act, as amended by subsections (a), (b), and (c) of this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1903, 1907, 1913 of this title.
 

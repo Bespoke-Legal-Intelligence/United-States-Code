@@ -76,7 +76,7 @@ Subsec. (c). Pub. L. 104–127, §333(d)(2), added subsec. (c) and struck out he
 
 “(1)
 
-Plans.—The development of restoration plans under this section shall be made through the agreement of the local representative of the Soil Conservation Service and a representative of the Fish and Wildlife Service. If agreement cannot be reached at the local level under the preceding sentence within a reasonable period of time, such plans shall be referred to the State Conservationist, who in developing suchplans under this paragraph, shall consult with the Fish and Wildlife Service.
+Plans.—The development of restoration plans under this section shall be made through the agreement of the local representative of the Soil Conservation Service and a representative of the Fish and Wildlife Service. If agreement cannot be reached at the local level under the preceding sentence within a reasonable period of time, such plans shall be referred to the State Conservationist, who in developing such plans under this paragraph, shall consult with the Fish and Wildlife Service.
 
 “(2)
 
@@ -89,8 +89,4 @@ Subsec. (h). Pub. L. 104–127, §333(d)(4), added subsec. (h).
 #### Effect of 1996 Amendments on Existing Agreements
 
 Amendments made by section 333 of Pub. L. 104–127 not to affect validity or terms of agreements entered into by Secretary of Agriculture under this subpart before Apr. 4, 1996, or payments required to be made in connection with such agreements, see section 333(f) of Pub. L. 104–127, set out as a note under section 3837 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3837c of this title.
 

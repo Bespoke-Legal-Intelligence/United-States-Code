@@ -56,7 +56,3 @@ Section 204(b) of Pub. L. 101–94, as amended by Pub. L. 105–368, title V, §
 
 Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 113, authorized United States Court of Veterans Appeals, during fiscal year 1989, to appoint not to exceed 35 employees to positions in competitive service if certain requirements were met and to procure services of experts and consultants.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 2302.
-

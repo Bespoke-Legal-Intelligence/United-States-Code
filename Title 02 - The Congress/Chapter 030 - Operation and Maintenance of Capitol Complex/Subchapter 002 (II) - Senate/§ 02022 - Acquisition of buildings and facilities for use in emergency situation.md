@@ -22,7 +22,7 @@ Notwithstanding any other provision of law, for purposes of carrying out subsect
 
 #### (d) Transfer of certain funds
 
-Subject to the approval of the Committee on Appropriations of the Senate, the Architect of the Capitol may transfer to the Sergeant at Arms of the Senate amounts made available to the Architect for necessary expenses for the maintenance, care and operation of the Senateoffice buildings during a fiscal year in order to cover any portion of the costs incurred by the Sergeant at Arms of the Senate during the year in acquiring a building or facility pursuant to subsection (a) of this section.
+Subject to the approval of the Committee on Appropriations of the Senate, the Architect of the Capitol may transfer to the Sergeant at Arms of the Senate amounts made available to the Architect for necessary expenses for the maintenance, care and operation of the Senate office buildings during a fiscal year in order to cover any portion of the costs incurred by the Sergeant at Arms of the Senate during the year in acquiring a building or facility pursuant to subsection (a) of this section.
 
 #### (e) Effective date
 
@@ -42,7 +42,7 @@ Section is comprised of section 901 of Pub. L. 107–117. Subsec. (c)(2) of sect
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–206 substituted “buildings and facilities, subject to the availability of appropriations,” for “buildings and facilities”.
+2002—Subsec. (a). Pub. L. 107–206 substituted “buildings and facilities, subject to the availability of appropriations,” for “buildings and facilities”.
 
 #### Effective Date of 2002 Amendment
 

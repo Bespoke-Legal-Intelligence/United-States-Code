@@ -28,7 +28,7 @@ The citation “(49 U.S.C. 1301 et seq.)” is substituted for “(ch. 20 of tit
 
 Pub. L. 94–546, §1(4), substituted “Federal Aviation Administration” for “Federal Aviation Agency” wherever appearing in first sentence.
 
-1966—Pub. L. 89–662 substituted “granted by the Federal Aviation Act of 1958, as amended (ch. 20 of title 49),or by the provisions of sections 7392 and 7394 of title 10” for “granted by the provisions of section 458 of Title 5, or by section 475(e) of Title 49 or subchapter III of chapter 9 of that title”.
+1966—Pub. L. 89–662 substituted “granted by the Federal Aviation Act of 1958, as amended (ch. 20 of title 49), or by the provisions of sections 7392 and 7394 of title 10” for “granted by the provisions of section 458 of Title 5, or by section 475(e) of Title 49 or subchapter III of chapter 9 of that title”.
 
 1958—Pub. L. 85–726 substituted “Administrator of the Federal Aviation Agency” for “Administrator of Civil Aeronautics”, and “Federal Aviation Agency” for “Civil Aeronautics Administration”.
 

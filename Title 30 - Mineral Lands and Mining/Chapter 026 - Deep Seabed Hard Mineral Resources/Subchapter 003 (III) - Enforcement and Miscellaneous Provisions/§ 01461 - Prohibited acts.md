@@ -18,7 +18,3 @@ It is unlawful for any person who is a United States citizen, or a foreign natio
 
 (Pub. L. 96–283, title III, §301, June 28, 1980, 94 Stat. 577.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1462, 1463, 1464, 1466 of this title.
-

@@ -16,7 +16,3 @@ Each application submitted pursuant to subsection (a) of this section shall incl
 
 (Pub. L. 106–554, §1(a)(1) \[title VIII, §813\], Dec. 21, 2000, 114 Stat. 2763, 2763A–88.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9409, 9410, 9413 of this title.
-

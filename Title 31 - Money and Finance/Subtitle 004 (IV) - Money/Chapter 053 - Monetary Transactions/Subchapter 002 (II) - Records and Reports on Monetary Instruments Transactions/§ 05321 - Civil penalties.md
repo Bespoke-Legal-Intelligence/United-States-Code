@@ -24,27 +24,47 @@ Coordination with forfeiture provision.—The amount of any civil money penalty 
 
 (5)
 
-Foreign Financial Agency Transaction Violation.—
+Foreign financial agency transaction violation.—
 
 &emsp;(A)
 
-Penalty authorized.—The Secretary of the Treasury may impose a civil money penalty on any person who willfully violates or any person willfully causing any violation of any provision of section 5314.
+Penalty authorized.—The Secretary of the Treasury may impose a civil money penalty on any person who violates, or causes any violation of, any provision of section 5314.
 
 &emsp;(B)
 
-Maximum amount limitation.—The amount of any civil money penalty imposed under subparagraph (A) shall not exceed—
+Amount of penalty.—
 
-&emsp;&emsp;(i) in the case of violation of such section involving a transaction, the greater of—
+&emsp;&emsp;(i)
 
-&emsp;&emsp;&emsp;(I) the amount (not to exceed $100,000) of the transaction; or
+In general.—Except as provided in subparagraph (C), the amount of any civil penalty imposed under subparagraph (A) shall not exceed $10,000.
 
-&emsp;&emsp;&emsp;(II) $25,000; and
+&emsp;&emsp;(ii)
 
-&emsp;&emsp;(ii) in the case of violation of such section involving a failure to report the existence of an account or any identifying information required to be provided with respect to such account, the greater of—
+Reasonable cause exception.—No penalty shall be imposed under subparagraph (A) with respect to any violation if—
 
-&emsp;&emsp;&emsp;(I) an amount (not to exceed $100,000) equal to the balance in the account at the time of the violation; or
+&emsp;&emsp;&emsp;(I) such violation was due to reasonable cause, and
 
-&emsp;&emsp;&emsp;(II) $25,000.
+&emsp;&emsp;&emsp;(II) the amount of the transaction or the balance in the account at the time of the transaction was properly reported.
+
+&emsp;(C)
+
+Willful violations.—In the case of any person willfully violating, or willfully causing any violation of, any provision of section 5314—
+
+&emsp;&emsp;(i) the maximum penalty under subparagraph (B)(i) shall be increased to the greater of—
+
+&emsp;&emsp;&emsp;(I) $100,000, or
+
+&emsp;&emsp;&emsp;(II) 50 percent of the amount determined under subparagraph (D), and
+
+&emsp;&emsp;(ii) subparagraph (B)(ii) shall not apply.
+
+&emsp;(D)
+
+Amount.—The amount determined under this subparagraph is—
+
+&emsp;&emsp;(i) in the case of a violation involving a transaction, the amount of the transaction, or
+
+&emsp;&emsp;(ii) in the case of a violation involving a failure to report the existence of an account or any identifying information required to be provided with respect to an account, the balance in the account at the time of the violation.
 
 (6)
 
@@ -56,11 +76,11 @@ In general.—The Secretary of the Treasury may impose a civil money penalty of 
 
 &emsp;(B)
 
-Pattern of negligent activity.—If any financial institution or nonfinancial trade or business engages in a pattern of negligent violations of any provision of this subchapter or any regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
+Pattern of negligent activity.—If any financial institution or nonfinancial trade or business engages in a pattern of negligent violations of any provision of this subchapter orany regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
 
 (7)
 
-Penalties for international counter money laundering violations.—The Secretary may impose a civil money penalty in an amount equal to not less than 2 times the amount of the transaction, but not more than $1,000,000, on any financial institution or agency that violates any provision of subsection (i) or (j) of section 5318or any special measures imposed under section 5318A.
+Penalties for international counter money laundering violations.—The Secretary may impose a civil money penalty in an amount equal to not less than 2 times the amount of the transaction, but not more than $1,000,000, on any financial institution or agency that violates any provision of subsection (i) or (j) of section 5318 or any special measures imposed under section 5318A.
 
 (b)
 
@@ -108,7 +128,7 @@ In general.—The Secretary of the Treasury shall prescribe by regulation the te
 
 Maximum dollar amount.—The terms and conditions authorized under subparagraph (A) may include, in the Secretary's sole discretion, a limitation on the amount of any civil penalty which may be assessed by an appropriate Federal banking agency pursuant to a delegation under paragraph (1).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 98–473, title II, §901(a), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §§1356(c)(1), 1357(a)–(f), (h), Oct. 27, 1986, 100 Stat. 3207–24—3207–26; Pub. L. 100–690, title VI, §6185(g)(2), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 102–550, title XV, §§1511(b), 1525(b), 1535(a)(2), 1561(a), Oct. 28, 1992, 106 Stat. 4057, 4065, 4066, 4071; Pub. L. 103–322, title XXXIII, §330017(a)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§406, 411(b), 413(a)(1), Sept. 23, 1994, 108 Stat. 2247, 2253, 2254; Pub. L. 104–208, div. A, title II, §2223(3), Sept. 30, 1996, 110 Stat. 3009–415; Pub. L. 107–56, title III, §§353(a), 363(a), 365(c)(2)(B)(i), Oct. 26, 2001, 115 Stat. 322, 332, 335.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 98–473, title II, §901(a), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §§1356(c)(1), 1357(a)–(f), (h), Oct. 27, 1986, 100 Stat. 3207–24—3207–26; Pub. L. 100–690, title VI, §6185(g)(2), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 102–550, title XV, §§1511(b), 1525(b), 1535(a)(2), 1561(a), Oct. 28, 1992, 106 Stat. 4057, 4065, 4066, 4071; Pub. L. 103–322, title XXXIII, §330017(a)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§406, 411(b), 413(a)(1), Sept. 23, 1994, 108 Stat. 2247, 2253, 2254; Pub. L. 104–208, div. A, title II, §2223(3), Sept. 30, 1996, 110 Stat. 3009–415; Pub. L. 107–56, title III, §§353(a), 363(a), 365(c)(2)(B)(i), Oct. 26, 2001, 115 Stat. 322, 332, 335; Pub. L. 108–357, title VIII, §821(a), Oct. 22, 2004, 118 Stat. 1586.)
 
 Historical and Revision Notes
 
@@ -162,11 +182,9 @@ Sections 3 and 21 of the Federal Deposit Insurance Act, referred to in subsecs. 
 
 Section 123 of Public Law 91–508, referred to in subsec. (a)(1), is classified to section 1953 of Title 12, Banks and Banking.
 
-#### Codification
-
-Another section 365(c) of Pub. L. 107–56 amended the table of sections at the beginning of this chapter.
-
 #### Amendments
+
+2004—Subsec. (a)(5). Pub. L. 108–357 amended heading and text of par. (5) generally, inserting provisions changing the penalties for violating section 5314 of this title and providing a reasonable cause exception.
 
 2001—Subsec. (a)(1). Pub. L. 107–56, §§353(a), 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places, “or order issued” after “subchapter or a regulation prescribed”, and “, or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “sections 5314 and 5315)”.
 
@@ -222,9 +240,9 @@ Subsec. (d). Pub. L. 99–570, §1357(f), added subsec. (d).
 
 1984—Subsec. (a)(1). Pub. L. 98–473 substituted “$10,000” for “$1,000”.
 
-#### Termination Date of 2001 Amendment
+#### Effective Date of 2004 Amendment
 
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
+Pub. L. 108–357, title VIII, §821(b), Oct. 22, 2004, 118 Stat. 1586, provided that: “The amendment made by this section \[amending this section\] shall apply to violations occurring after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 1992 Amendment
 
@@ -235,10 +253,6 @@ Section 1561(b) of Pub. L. 102–550 provided that: “The amendment made by sub
 Amendment by section 1357(a) of Pub. L. 99–570, applicable with respect to violations committed after the end of the 3-month period beginning Oct. 27, 1986, see section 1364(b) of Pub. L. 99–570, set out as a note under section 5317 of this title.
 
 Section 1364(c) of Pub. L. 99–570 provided that: “The amendments made by section 1357 (other than subsection (a) of such section) \[amending sections 5321 and 5322 of this title\] shall apply with respect to violations committed after the date of the enactment of this Act \[Oct. 27, 1986\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5330 of this title; title 12 section 1829b.
 
 <i><sup>1</sup></i><i> So in original. Section 5317 does not contain a subsec. (d).</i>
 

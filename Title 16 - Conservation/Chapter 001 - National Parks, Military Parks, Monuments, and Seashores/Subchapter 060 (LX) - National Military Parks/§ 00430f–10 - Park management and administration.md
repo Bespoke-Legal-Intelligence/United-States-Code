@@ -56,7 +56,3 @@ Nothing in subsection (c)(2) of this section authorizes the Secretary to own or 
 
 (Pub. L. 106–271, §6, Sept. 22, 2000, 114 Stat. 794.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430f–6, 430f–7, 430f–11, 430f–12 of this title.
-

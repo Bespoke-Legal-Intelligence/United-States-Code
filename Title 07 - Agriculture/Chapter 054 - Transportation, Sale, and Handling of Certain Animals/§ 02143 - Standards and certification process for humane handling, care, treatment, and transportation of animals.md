@@ -92,7 +92,7 @@
 
 &emsp;(i) be signed by a majority of the Committee members involved in the inspection;
 
-&emsp;(ii) include reports of any violation of the standards promulgated, or assurances required, by the Secretary, including any deficient conditions of animal care or treatment, any deviations of research practices from originally approved proposals that adversely affect animal welfare, any notification to the facility regarding such conditions, and any corrections made thereafter;
+&emsp;(ii) include reports of any violation of the standards promulgated, or assurances required, by the Secretary, including any deficient conditions of animal care or treatment, any deviations of research practices fromoriginally approved proposals that adversely affect animal welfare, any notification to the facility regarding such conditions, and any corrections made thereafter;
 
 &emsp;(iii) include any minority views of the Committee; and
 
@@ -177,10 +177,6 @@ Amendment by Pub. L. 99–198 effective one year after Dec. 23, 1985, see sectio
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2132, 2133, 2144, 2145, 2154 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

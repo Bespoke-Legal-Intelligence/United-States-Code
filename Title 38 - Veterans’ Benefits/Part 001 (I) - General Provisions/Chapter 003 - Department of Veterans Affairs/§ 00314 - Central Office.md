@@ -10,7 +10,3 @@ Prior section 314 was renumbered section 1114 of this title.
 
 Provisions similar to those in this section were contained in section 230(a) of this title prior to repeal by Pub. L. 102–83, §2(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 115 of this title.
-

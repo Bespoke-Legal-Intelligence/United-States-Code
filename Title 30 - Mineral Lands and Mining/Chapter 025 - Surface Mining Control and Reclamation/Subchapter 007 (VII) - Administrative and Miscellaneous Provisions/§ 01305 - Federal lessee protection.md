@@ -8,7 +8,3 @@ In those instances where the coal proposed to be mined by surface coal mining op
 
 (Pub. L. 95–87, title VII, §715, Aug. 3, 1977, 91 Stat. 525.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1291 of this title.
-

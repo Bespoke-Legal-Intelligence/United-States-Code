@@ -2,7 +2,7 @@
 
 #### (a) Application; contents
 
-(1) Any alien lawfully admitted for permanent residence, or (2) any alien lawfully admitted to the United States pursuant to clause 6 of section 3 of the Immigration Act of 1924, between July1, 1924, and July 5, 1932, both dates inclusive, who intends to depart temporarily from the United States may make application to the Attorney General for a permit to reenter the United States, stating the length of his intended absence or absences, and the reasons therefor. Such applications shall be made under oath, and shall be in such form, contain such information, and be accompanied by such photographs of the applicant as may be by regulations prescribed.
+(1) Any alien lawfully admitted for permanent residence, or (2) any alien lawfully admitted to the United States pursuant to clause 6 of section 3 of the Immigration Act of 1924, between July 1, 1924, and July 5, 1932, both dates inclusive, who intends to depart temporarily from the United States may make application to the Attorney General for a permit to reenter the United States, stating the length of his intended absence or absences, and the reasons therefor. Such applications shall be made under oath, and shall be in such form, contain such information, and be accompanied by such photographs of the applicant as may be by regulations prescribed.
 
 #### (b) Issuance of permit; nonrenewability
 
@@ -18,7 +18,7 @@ Upon the return of the alien to the United States the permit shall be presented 
 
 #### (e) Permit in lieu of visa
 
-A permit issued under this section in the possession of the person to whom issued, shall be accepted in lieu of any visa which otherwise would be required from such person under this chapter. Otherwise a permit issued under this section shall have no effect under the immigration laws except to show that the alien to whom it was issued is returning from a temporary visit abroad; but nothing in this section shall be construed as making such permit the exclusive means of establishing that the alien is so returning.
+A permit issued under this section in the possession of the person to whom issued, shall be accepted in lieu of any visa which otherwise would be required from such person under this chapter. Otherwise a permit issued under this section shall have no effect under the immigration laws except to show that the alien to whom it was issued is returning from a temporary visitabroad; but nothing in this section shall be construed as making such permit the exclusive means of establishing that the alien is so returning.
 
 (June 27, 1952, ch. 477, title II, ch. 3, §223, 66 Stat. 194; Pub. L. 97–116, §6, Dec. 29, 1981, 95 Stat. 1615.)
 
@@ -37,8 +37,4 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1352 of this title.
 

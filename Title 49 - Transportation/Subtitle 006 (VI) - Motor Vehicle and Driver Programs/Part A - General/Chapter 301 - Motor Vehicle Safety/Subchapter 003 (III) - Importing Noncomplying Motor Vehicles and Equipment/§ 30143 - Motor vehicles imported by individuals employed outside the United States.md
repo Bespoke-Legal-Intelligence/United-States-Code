@@ -54,7 +54,3 @@ In subsection (b), before clause (1), the words “(including a member of the un
 
 Subsections (b)(3) and (g) of section 108 of the National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(2), (5), are subsecs. (b)(3) and (g) of section 108 of Pub. L. 89–563, which were classified to subsecs. (b)(3) and (g), respectively, of section 1397 of Title 15, Commerce and Trade, were repealed and reenacted in sections 30112(b)(1)–(3) and 30143, respectively, of this title by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 945, 963, 1379.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30112, 30142, 30165 of this title.
-

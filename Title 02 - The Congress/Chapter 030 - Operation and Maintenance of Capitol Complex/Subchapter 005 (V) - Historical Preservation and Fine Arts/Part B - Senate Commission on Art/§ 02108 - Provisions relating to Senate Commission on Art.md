@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(i) shall be appointed from public and private life and shall serve at the pleasure of the Commission; and
 
-&emsp;&emsp;&emsp;(ii) in the case of individuals appointed to the Curatorial Advisory Board, shall be experts or have significant experience in the field of arts, historic preservation, or other appropriate fields.
+&emsp;&emsp;&emsp;(ii) in the case of individuals appointed to the Curatorial Advisory Board, shall beexperts or have significant experience in the field of arts, historic preservation, or other appropriate fields.
 
 > &emsp;&emsp;Each member of the Commission may have appointed to an advisory board created by the Commission at least 1 individual requested by that member.
 
@@ -74,7 +74,7 @@
 
 #### (6) Regulations
 
-&emsp;The Commission, or the chairman and vice chairman acting jointly on behalf of the Commission and after giving notice to the Commission, in consultation with the Committeeon Rules and Administration, may promulgate such regulations governing advisory boards established under this subsection as are necessary to carry out the purposes of this subsection.
+&emsp;The Commission, or the chairman and vice chairman acting jointly on behalf of the Commission and after giving notice to the Commission, in consultation with the Committee on Rules and Administration, may promulgate such regulations governing advisory boards established under this subsection as are necessary to carry out the purposes of this subsection.
 
 #### (7) Assistance
 

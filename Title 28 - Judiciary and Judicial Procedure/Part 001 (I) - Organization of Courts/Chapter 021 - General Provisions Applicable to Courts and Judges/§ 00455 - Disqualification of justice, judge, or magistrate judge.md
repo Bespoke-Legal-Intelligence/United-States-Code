@@ -82,7 +82,3 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub.
 
 Section 3 of Pub. L. 93–512 provided that: “This Act \[amending this section\] shall not apply to the trial of any proceeding commenced prior to the date of this Act \[Dec. 5, 1974\], nor to appellate review of any proceeding which was fully submitted to the reviewing court prior to the date of this Act.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460, 653, 655 of this title; title 38 section 7264.
-

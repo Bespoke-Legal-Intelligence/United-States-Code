@@ -34,7 +34,3 @@ There are authorized to be appropriated to the Secretary for carrying out this s
 
 (Pub. L. 102–486, title IV, §414, Oct. 24, 1992, 106 Stat. 2886.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13238 of this title.
-

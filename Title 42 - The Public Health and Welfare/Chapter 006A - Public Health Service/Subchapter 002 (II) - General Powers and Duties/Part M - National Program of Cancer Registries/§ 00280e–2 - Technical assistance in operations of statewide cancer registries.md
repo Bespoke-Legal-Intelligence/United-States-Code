@@ -12,7 +12,3 @@ A prior section 399D of act July 1, 1944, was renumbered section 519, and is cla
 
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 280e–4 of this title.
-

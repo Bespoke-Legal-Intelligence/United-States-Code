@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Exceptional resource
 
-&emsp;The term “exceptional resource” means a resource of scientific, natural, historic, cultural, or recreational value that has been documented by a Federal, State, or local governmental authority, and for which there is a compelling need for conservation and protection under the jurisdiction of a Federal agency in order to maintain the resource for the benefit of the public.
+&emsp;The term “exceptional resource” means a resource of scientific, natural, historic, cultural, or recreational value that has been documented by a Federal, State, or local governmental authority, and for which there is acompelling need for conservation and protection under the jurisdiction of a Federal agency in order to maintain the resource for the benefit of the public.
 
 #### (2) Federally designated area
 

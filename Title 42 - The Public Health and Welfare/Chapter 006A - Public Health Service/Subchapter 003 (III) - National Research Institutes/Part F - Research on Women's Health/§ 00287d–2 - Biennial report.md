@@ -18,7 +18,3 @@ The Director of the Office shall submit each report prepared under subsection (a
 
 (July 1, 1944, ch. 373, title IV, §486B, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 139.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 287d of this title.
-

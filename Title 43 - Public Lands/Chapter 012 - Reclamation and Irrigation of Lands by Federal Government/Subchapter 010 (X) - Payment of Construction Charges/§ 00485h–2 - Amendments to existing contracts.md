@@ -8,7 +8,3 @@ The Secretary is authorized to negotiate amendments to existing contracts entere
 
 Section was not enacted as part of the Reclamation Project Act of 1939 which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 485h–3, 485h–4, 485h–5 of this title.
-

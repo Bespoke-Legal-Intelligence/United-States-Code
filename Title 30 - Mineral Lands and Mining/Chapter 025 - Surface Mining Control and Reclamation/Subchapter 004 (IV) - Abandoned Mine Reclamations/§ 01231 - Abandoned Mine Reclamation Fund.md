@@ -100,7 +100,5 @@ Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681�
 
 Pub. L. 99–509, title III, §3501, Oct. 21, 1986, 100 Stat. 1891, as amended by Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172, provided that: “After the enactment of this Act, the research and demonstration authorities of the Department of the Interior under the provisions of section 401(c)(6) of the Surface Mining Control and Reclamation Act of 1977 (Public Law 95–87) \[30 U.S.C. 1231(c)(6)\] shall be transferred to, and carried out by, the Director of the United States Bureau of Mines. Research and demonstration projects under such provision shall be selected by a panel appointed by the Director of the United States Bureau of Mines to be comprised of 9 persons, including 4 representatives of State abandoned mine reclamation programs, 4 representatives of the United States Bureau of Mines, and one representative of the Office of Surface Mining Reclamation and Enforcement.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1232, 1291, 1302, 1309b of this title.
+\[For provisions relating to closure and transfer of functions of the United States Bureau of Mines, seeTransfer of Functions note set out under section 1 of this title.\]
 

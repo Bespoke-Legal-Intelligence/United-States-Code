@@ -10,7 +10,7 @@ A person who is found by the Secretary, after notice and an opportunity for a he
 
 &emsp;(1) violated the MARPOL Protocol,,<sup>1</sup> Annex IV to the Antarctic Protocol, this chapter, or the regulations issued thereunder shall be liable to the United States for a civil penalty, not to exceed $25,000 for each violation; or
 
-&emsp;(2) made a false, fictitious, or fraudulent statement or representation in any matter inwhich a statement or representation is required to be made to the Secretary under the MARPOL Protocol,,<sup>1</sup> Annex IV to the Antarctic Protocol, this chapter, or the regulations thereunder, shall be liable to the United States for a civil penalty, not to exceed $5,000 for each statement or representation.
+&emsp;(2) made a false, fictitious, or fraudulent statement or representation in any matter in which a statement or representation is required to be made to the Secretary under the MARPOL Protocol,,<sup>1</sup> Annex IV to the Antarctic Protocol, this chapter, or the regulations thereunder, shall be liable to the United States for a civil penalty, not to exceed $5,000 for each statement or representation.
 
 > Each day of a continuing violation shall constitute a separate violation. The amount of the civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of the penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and other matters as justice may require. An amount equal to not more than 1/2 of such penalties may be paid by the Secretary to the person giving information leading to the assessment of such penalties.
 
@@ -67,10 +67,6 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, entered into force for the United States, see section 2002(a) of Pub. L. 100–220, set out as a note under section 1901 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1904, 1907, 1910 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

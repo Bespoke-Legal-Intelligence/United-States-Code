@@ -4,7 +4,3 @@ The Secretary of the Interior shall make all needful rules and regulations, not 
 
 (Mar. 2, 1899, ch. 374, §7, 30 Stat. 992.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 312, 314, 316, 318, 322 of this title.
-

@@ -18,7 +18,3 @@ When used in this chapter—
 
 1958—Subsecs. (c), (d). Pub. L. 85–909 struck out “at a stockyard” after “livestock”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 203 of this title.
-

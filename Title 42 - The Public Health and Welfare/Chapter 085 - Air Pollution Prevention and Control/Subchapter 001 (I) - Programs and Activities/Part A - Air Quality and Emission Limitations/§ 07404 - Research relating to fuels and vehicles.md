@@ -82,9 +82,9 @@ Section 807 of Pub. L. 101–549 provided that: “The Administrator of the Envi
 
 #### Combustion of Contaminated Used Oil in Ships
 
-Section 813 of Pub. L. 101–549 provided that: “Within 2 years after the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administrator of the Environmental Protection Agency shall complete a study and submit a report to Congress evaluating the health and environmental impacts of the combustion of contaminated used oil in ships, the reasons for using such oil for such purposes, the alternatives to such use, the costs of such alternatives, and other relevant factors and impacts. In preparing such study, the Administrator shall obtain the view and comments ofall interested persons and shall consult with the Secretary of Transportation and the Secretary of the department in which the Coast Guard is operating.”
+Section 813 of Pub. L. 101–549 provided that: “Within 2 years after the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administrator of the Environmental Protection Agency shall complete a study and submit a report to Congress evaluating the health and environmental impacts of the combustion of contaminated used oil in ships, the reasons for using such oil for such purposes, the alternatives to such use, the costs of such alternatives, and other relevant factors and impacts. In preparing such study, the Administrator shall obtain the view and comments of all interested persons and shall consult with the Secretary of Transportation and the Secretary of the department in which the Coast Guard is operating.”
 
 #### Extension to Aug. 31, 1970 of Authorization Period for Fiscal Year 1970
 
-Pub. L. 91–316, July 10, 1970, 84 Stat. 416, provided in part that the authorization contained in section 104(c) of the Clean Air Act \[subsec. (c) of this section\] for the fiscal year ending June 30, 1970, should remain available through Aug. 31, 1970, notwithstanding any provisions of this section.
+Pub. L. 91–316, July 10, 1970, 84 Stat. 416, provided in part that the authorization contained in section 104(c)of the Clean Air Act \[subsec. (c) of this section\] for the fiscal year ending June 30, 1970, should remain available through Aug. 31, 1970, notwithstanding any provisions of this section.
 

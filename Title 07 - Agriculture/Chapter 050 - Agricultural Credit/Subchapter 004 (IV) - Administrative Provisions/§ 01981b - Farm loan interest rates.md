@@ -22,7 +22,3 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428, provided that: “The Secretary may adjust interest rates on existing nonsubsidized loans if he determines such interest rates are excessive in relation to prevailing commercial rates for comparable loans: <i>Provided</i>, That such rate adjustments shall constitute a change in the loan agreement and not a new loan.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1946 of this title.
-

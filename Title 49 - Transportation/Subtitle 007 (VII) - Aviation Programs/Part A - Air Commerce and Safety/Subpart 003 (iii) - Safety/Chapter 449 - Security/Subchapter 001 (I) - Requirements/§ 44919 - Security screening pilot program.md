@@ -22,7 +22,7 @@ Supervision of Screened Personnel.—The Under Secretary shall provide Federal G
 
 (f)
 
-Qualified Private Screening Company.—A private screening company is qualified to provide screening services at an airport participating in the pilot program under this section if the company will only employ individuals to provide such services who meet all the requirements of this chapter applicable to Federal Government personnel who perform screening services at airports under this chapter and will provide compensation and other benefits to such individuals that are not less than the level of compensation and other benefits provided to such Federal Government personnel in accordance with this chapter.
+Qualified Private Screening Company.—A private screening company is qualified to provide screening services at an airport participating in the pilot program under this section if the company will only employ individuals to provide such services who meet all the requirements ofthis chapter applicable to Federal Government personnel who perform screening services at airports under this chapter and will provide compensation and other benefits to such individuals that are not less than the level of compensation and other benefits provided to such Federal Government personnel in accordance with this chapter.
 
 (g)
 
@@ -45,8 +45,4 @@ The date of enactment of this section, referred to in subsecs. (b) and (i), is t
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 44901 of this title.
 

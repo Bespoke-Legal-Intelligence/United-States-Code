@@ -30,10 +30,6 @@
 
 2000—Pub. L. 106–181, title V, §§509(b), 511(b), Apr. 5, 2000, 114 Stat. 141, 142, added items 46317 and 46318.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 47531 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “App.)),”.</i>
 
 

@@ -86,7 +86,3 @@ Section 118 of title I of Pub. L. 102–166 provided that: “Where appropriate 
 
 Ex. Ord. No. 13050, June 13, 1997, 62 F.R. 32987, which established the President's Advisory Board on Race, was revoked by Ex. Ord. No. 13138, §3(e), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1981a, 1988, 2000e–16b of this title; title 2 section 1311; title 3 section 411.
-

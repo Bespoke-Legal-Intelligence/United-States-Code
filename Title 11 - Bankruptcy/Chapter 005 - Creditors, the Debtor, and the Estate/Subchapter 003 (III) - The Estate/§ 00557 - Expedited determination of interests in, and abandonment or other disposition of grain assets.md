@@ -10,7 +10,7 @@
 
 &emsp;(3) “producer” means an entity which engages in the growing of grain.
 
-(c)(1) Notwithstanding sections 362, 363, 365, and 554 of this title, on the court's own motion the court may, and on the request of the trusteeor an entity that claims an interest in grain or the proceeds of grain the court shall, expedite the procedures for the determination of interests in and the disposition of grain and the proceeds of grain, by shortening to the greatest extent feasible such time periods as are otherwise applicable for such procedures and by establishing, by order, a timetable having a duration of not to exceed 120 days for the completion of the applicable procedure specified in subsection (d) of this section. Such time periods and such timetable may be modified by the court, for cause, in accordance with subsection (f) of this section.
+(c)(1) Notwithstanding sections 362, 363, 365, and 554 of this title, on the court's own motion the court may, and on the request of the trustee or an entity that claims an interest in grain or the proceeds of grain the court shall, expedite the procedures for the determination of interests in and the disposition of grain and the proceeds of grain, by shortening to the greatest extent feasible such time periods as are otherwise applicable for such procedures and by establishing, by order, a timetable having a duration of not to exceed 120 days for the completion of the applicable procedure specified in subsection (d) of this section. Such time periods and such timetable may be modified by the court, for cause, in accordance with subsection (f) of this section.
 
 (2) The court shall determine the extent to which such time periods shall be shortened, based upon—
 
@@ -100,13 +100,9 @@
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commencedunder this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date
 
 Section effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as an Effective Date of 1984 Amendment note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 507, 546, 901 of this title.
 

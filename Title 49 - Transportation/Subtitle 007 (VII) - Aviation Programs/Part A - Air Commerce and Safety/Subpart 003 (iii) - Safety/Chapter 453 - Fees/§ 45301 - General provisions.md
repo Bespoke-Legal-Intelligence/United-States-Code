@@ -32,11 +32,11 @@ Use of Experts and Consultants.—In developing the system, the Administrator ma
 
 Production-Certification Related Service Defined.—In this section, the term “production-certification related service” has the meaning given that term in appendix C of part 187 of title 14, Code of Federal Regulations.
 
-(Added Pub. L. 104–264, title II, §273(a), Oct. 9, 1996, 110 Stat. 3239; amended Pub. L. 106–181, title VII, §719, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §119(d), Nov. 19, 2001, 115 Stat. 629.)
+(Added Pub. L. 104–264, title II, §273(a), Oct. 9, 1996, 110 Stat. 3239; amended Pub. L. 106–181, titleVII, §719, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §119(d), Nov. 19, 2001, 115 Stat. 629.)
 
 #### Prior Provisions
 
-A prior section 45301, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1225; Pub. L. 103–305, title II, §209, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–287, §5(76), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(d)(1)(C), Nov. 20, 1997, 111 Stat. 2215, related to authority to impose fees,prior to repeal by Pub. L. 104–264, title II, §§203, 273(a), Oct. 9, 1996, 110 Stat. 3227, 3239, effective 30 days after Oct. 9, 1996.
+A prior section 45301, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1225; Pub. L. 103–305, title II, §209, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–287, §5(76), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(d)(1)(C), Nov. 20, 1997, 111 Stat. 2215, related to authority to impose fees, prior to repeal by Pub. L. 104–264, title II, §§203, 273(a), Oct. 9, 1996, 110 Stat. 3227, 3239, effective 30 days after Oct. 9, 1996.
 
 #### Amendments
 
@@ -83,10 +83,6 @@ Deferred Collection of Fees.—The Administrator shall defer collecting fees und
 “(c)
 
 Enforcement.—The Administrator shall take an appropriate enforcement action under subtitle VII of title 49, United States Code, against any user that does not pay a fee under section 45301(a)(1) of such title.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41742 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

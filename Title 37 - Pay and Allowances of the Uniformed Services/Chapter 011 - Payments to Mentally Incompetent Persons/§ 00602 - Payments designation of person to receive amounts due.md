@@ -82,7 +82,3 @@ In subsection (e), the words “have been” and “including a requirement” a
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 604 of this title.
-

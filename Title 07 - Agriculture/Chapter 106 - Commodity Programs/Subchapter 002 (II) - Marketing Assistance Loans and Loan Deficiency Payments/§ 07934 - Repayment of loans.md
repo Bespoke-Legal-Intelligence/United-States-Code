@@ -42,7 +42,7 @@ For purposes of this section and section 7937 of this title, the Secretary shall
 
 #### (1) In general
 
-&emsp;During the period beginning on May 13, 2002, through July 31, 2008, the prevailing worldmarket price for upland cotton (adjusted to United States quality and location) established under subsection (d) of this section shall be further adjusted if—
+&emsp;During the period beginning on May 13, 2002, through July 31, 2008, the prevailing world market price for upland cotton (adjusted to United States quality and location) established under subsection (d) of this section shall be further adjusted if—
 
 &emsp;&emsp;(A) the adjusted prevailing world market price is less than 115 percent of the loan rate for upland cotton established under section 7932 of this title, as determined by the Secretary; and
 
@@ -93,8 +93,4 @@ Subsecs. (f) to (h). Pub. L. 108–7, §763(c)(2), (3), added subsecs. (f) and (
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–7 applicable beginning with the 2003 crop of other oilseeds, dry peas, lentils, and small chickpeas, see section 763(d) of Pub. L. 108–7, set out as a note under section 7901 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7935 of this title.
 

@@ -48,7 +48,7 @@ Availability of Obligation Limitation.—Obligation authority attributable to fu
 
 (h)
 
-Treatment.—Funds allocated to a State in accordance with this section shall be treated as amounts in addition to the amounts a State is apportioned under sections 104, 105, and 144 for programmatic purposes.
+Treatment.—Funds allocated to a State in accordance with this section shall be treated asamounts in addition to the amounts a State is apportioned under sections 104, 105, and 144 for programmatic purposes.
 
 (Added Pub. L. 105–178, title I, §1601(a), June 9, 1998, 112 Stat. 255; amended Pub. L. 106–346, §101(a) \[title III, §363\], Oct. 23, 2000, 114 Stat. 1356, 1356A–36.)
 
@@ -65,8 +65,4 @@ A prior section 117, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 897; Pub. L. 93�
 #### Amendments
 
 2000—Subsec. (c). Pub. L. 106–346 inserted before period at end “; except that the Federal share on account of the project to be carried out under item 1419 of the table contained in section 1602 of the Transportation Equity Act for the 21st Century (112 Stat. 309), relating to reconstruction of a road and causeway in Shiloh Military Park in Hardin County, Tennessee, shall be 100 percent of the total cost thereof”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 112, 114, 145 of this title.
 

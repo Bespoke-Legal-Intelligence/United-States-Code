@@ -4,7 +4,3 @@ Whenever it shall be shown to the satisfaction of the Secretary of the Interior 
 
 (Aug. 24, 1954, ch. 900, §1, 68 Stat. 789.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1222 of this title.
-

@@ -138,10 +138,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1606, 1650, 2106a of this title; title 7 section 6614.
-
 
 ---
 

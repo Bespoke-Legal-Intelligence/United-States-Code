@@ -22,7 +22,3 @@ Amendment by Pub. L. 100–17 effective on effective date provided in regulation
 
 Section as completely applicable to all States after July 1, 1972, but until such date applicable to a State to extent the State is able under its laws to comply with this section, see section 221(b) of Pub. L. 91–646, set out as a note under section 4601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4604, 4627, 4629, 4632 of this title.
-

@@ -45,10 +45,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1422b, 4541, 4562, 4564, 4566, 4603, 4631, 4636 of this title.
-
 
 ---
 

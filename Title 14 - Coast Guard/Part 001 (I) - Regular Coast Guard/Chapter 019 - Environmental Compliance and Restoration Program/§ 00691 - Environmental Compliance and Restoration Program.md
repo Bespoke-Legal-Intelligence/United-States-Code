@@ -30,9 +30,5 @@
 
 (Added Pub. L. 101–225, title II, §222(a), Dec. 12, 1989, 103 Stat. 1917.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 692 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

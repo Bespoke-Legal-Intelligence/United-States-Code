@@ -1,9 +1,5 @@
 subpart iv—enforcement and penalties
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 40101 of this title.
-
 
 ---
 

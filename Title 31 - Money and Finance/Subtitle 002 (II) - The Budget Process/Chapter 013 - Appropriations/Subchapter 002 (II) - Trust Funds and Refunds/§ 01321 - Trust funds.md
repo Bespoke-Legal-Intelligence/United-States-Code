@@ -118,7 +118,7 @@
 
 &emsp;(58) Inmates’ fund, workhouse and reformatory, District of Columbia.
 
-&emsp;\[(59) Repealed. Pub. L. 101–510, div. A, title XV, §1533(c)(1)(A)(ii), Nov. 5, 1990, 104 Stat. 1735.\]
+&emsp;(59) International Center for Middle Eastern-Western Dialogue Trust Fund.
 
 &emsp;(60) Chamber Music Auditorium, Library of Congress.
 
@@ -196,7 +196,7 @@
 
 &emsp;(D) Fisher House Trust Fund, Department of the Navy.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 919; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654; Pub. L. 101–189, div. A, title III, §341(a), Nov. 29, 1989, 103 Stat. 1419; Pub. L. 101–510, div. A, title XV, §1533(c)(1), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–54, §13(<i>l</i>)(1), June 13, 1991, 105 Stat. 277; Pub. L. 103–322, title XXXI, §310001(d), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 104–106, div. A, title IX, §914(c), Feb. 10, 1996, 110 Stat. 413; Pub. L. 104–201, div. A, title X, §1008(c), Sept. 23, 1996, 110 Stat. 2633; Pub. L. 105–261, div. A, title IX, §906(f)(2), Oct. 17, 1998, 112 Stat. 2096.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 919; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654; Pub. L. 101–189, div. A, title III, §341(a), Nov. 29, 1989, 103 Stat. 1419; Pub. L. 101–510, div. A, title XV, §1533(c)(1), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–54, §13(<i>l</i>)(1), June 13, 1991, 105 Stat. 277; Pub. L. 103–322, title XXXI, §310001(d), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 104–106, div. A, title IX, §914(c), Feb. 10, 1996, 110 Stat. 413; Pub. L. 104–201, div. A, title X, §1008(c), Sept. 23, 1996, 110 Stat. 2633; Pub. L. 105–261, div. A, title IX, §906(f)(2), Oct. 17, 1998, 112 Stat. 2096; Pub. L. 108–199, div. B, title VI, §633(f), Jan. 23, 2004, 118 Stat. 101.)
 
 Historical and Revision Notes
 
@@ -236,6 +236,8 @@ The District of Columbia Workmen's Compensation Act, referred to in subsec. (a)(
 
 #### Amendments
 
+2004—Subsec. (a)(59). Pub. L. 108–199 added par. (59).
+
 1998—Subsec. (a)(92) to (94). Pub. L. 105–261 struck out pars. (92) to (94) which read as follows:
 
 “(92) Fisher House Trust Fund, Department of the Army.
@@ -268,7 +270,7 @@ Subsec. (b). Pub. L. 101–510, §1533(c)(1)(B), substituted “Armed Forces Ret
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title IX, §906(f)(3), Oct. 17, 1998, 112 Stat. 2096, provided that: “The amendments madeby this subsection \[amending this section and repealing section 2221 of Title 10, Armed Forces\] shall take effect 90 days after the date of the enactment of this Act \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title IX, §906(f)(3), Oct. 17, 1998, 112 Stat. 2096, provided that: “The amendments made by this subsection \[amending this section and repealing section 2221 of Title 10, Armed Forces\] shall take effect 90 days after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
 #### Effective Date of 1989 Amendment
 
@@ -281,8 +283,4 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 #### Trust Funds for Individual Indians
 
 Section 725s of former Title 31 (now this section) was modified by act June 25, 1936, ch. 814, 49 Stat. 1928, providing that it shall not be applicable to funds held in trust for individual Indians, associations of individual Indians, or for Indian corporations chartered under sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1322 of this title; title 20 section 225; title 25 section 385a; title 33 section 770; title 38 sections 8502, 8520.
 

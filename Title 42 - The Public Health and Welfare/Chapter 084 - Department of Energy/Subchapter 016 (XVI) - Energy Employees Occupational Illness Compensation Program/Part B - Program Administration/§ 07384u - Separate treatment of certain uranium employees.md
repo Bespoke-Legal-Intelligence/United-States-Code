@@ -14,7 +14,7 @@ The compensation and benefits provided in subsections (a) and (b) of this sectio
 
 #### (d) Payment from compensation fund
 
-The compensation provided under this section, when authorized or approved by the President, shall be paid from the compensation fund established under section 7384e of this title.
+The compensation provided under this section and the compensation provided under section 5 of the Radiation Exposure Compensation Act, when authorized or approved by the President, shall be paid from the compensation fund established under section 7384e of this title.
 
 #### (e) Payments in the case of deceased persons
 
@@ -28,7 +28,7 @@ The compensation provided under this section, when authorized or approved by the
 
 &emsp;(D) If there is no surviving spouse described in subparagraph (A), and if there are no children described in subparagraph (B) or parents described in subparagraph (C), such payment shall be made in equal shares to all grandchildren of the covered employee who are living at the time of payment.
 
-&emsp;(E) If there is no surviving spouse described in subparagraph (A), and if there are no children described in subparagraph (B), parents described in subparagraph (C), or grandchildren described in subparagraph (D), thensuch payment shall be made in equal shares to the grandparents of the covered employee who are living at the time of payment.
+&emsp;(E) If there is no surviving spouse described in subparagraph (A), and if there are no children described in subparagraph (B), parents described in subparagraph (C), or grandchildren described in subparagraph (D), then such payment shall be made in equal shares to the grandparents of the covered employee who are living at the time of payment.
 
 &emsp;(F) Notwithstanding the other provisions of this paragraph, if there is—
 
@@ -60,13 +60,15 @@ The President shall establish procedures to identify and notify each covered ura
 
 This section shall take effect on July 31, 2001, unless Congress otherwise provides in an Act enacted before that date.
 
-(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3630\], Oct. 30, 2000, 114 Stat. 1654, 1654A–507; Pub. L. 107–107, div. C, title XXXI, §3151(a)(4)(B), Dec. 28, 2001, 115 Stat. 1373.)
+(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3630\], Oct. 30, 2000, 114 Stat. 1654, 1654A–507; Pub. L. 107–107, div. C, title XXXI, §3151(a)(4)(B), Dec. 28, 2001, 115 Stat. 1373; Pub. L. 108–375, div. C, title XXXI, §3165(a), Oct. 28, 2004, 118 Stat. 2187.)
 
 #### References in Text
 
-The Radiation Exposure Compensation Act, referred to in subsecs. (a) to (c), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under section 2210 of this title.
+The Radiation Exposure Compensation Act, referred to in subsecs. (a) to (d), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under section 2210 of this title.
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–375 inserted “and the compensation provided under section 5 of the Radiation Exposure Compensation Act” after “The compensation provided under this section”.
 
 2001—Subsec. (e). Pub. L. 107–107 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
@@ -77,8 +79,4 @@ The Radiation Exposure Compensation Act, referred to in subsecs. (a) to (c), is 
 #### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–107 effective July 1, 2001, see section 3151(a)(4)(D) of Pub. L. 107–107, set out as a note under section 7384<i>l</i> of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7385, 7385j of this title.
 

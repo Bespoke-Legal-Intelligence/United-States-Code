@@ -84,10 +84,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1321, 2701 of this title; title 26 section 9509; title 42 section 9611; title 46 section 3703a.
-
 
 ---
 

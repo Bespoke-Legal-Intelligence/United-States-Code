@@ -90,7 +90,3 @@ In subsection (c), the words “Director of the Office of Personnel Management�
 
 In subsection (d), the word “amount” is substituted for “share” for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14301, 14302, 14309 of this title.
-

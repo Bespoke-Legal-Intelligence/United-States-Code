@@ -40,7 +40,3 @@ This section \[section 32\] corrects a typographical error in section 1262 of ti
 
 1949—Act May 24, 1949, substituted “Districts” for “District” in last par.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3667 of this title.
-

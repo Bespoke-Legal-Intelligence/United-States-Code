@@ -1,9 +1,5 @@
 ### SUBCHAPTER XX—REQUIREMENTS FOR CERTAIN GROUP HEALTH PLANS FOR CERTAIN STATE AND LOCAL EMPLOYEES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 300gg–91, 1396a, 1396e of this title; title 26 section 9832; title 29 section 1191b.
-
 
 ---
 

@@ -12,7 +12,7 @@
 
 (b) Before collecting a claim by administrative offset, the head of an executive, judicial, or legislative agency must either—
 
-&emsp;(1) adopt, without change, regulations on collecting by administrative offset promulgated by the Department of Justice, the General Accounting Office, or the Department of the Treasury; or
+&emsp;(1) adopt, without change, regulations on collecting by administrative offset promulgated by the Department of Justice, the Government Accountability Office, or the Department of the Treasury; or
 
 &emsp;(2) prescribe regulations on collecting by administrative offset consistent with the regulations referred to in paragraph (1).
 
@@ -54,11 +54,11 @@
 
 (5) The Secretary of the Treasury in consultation with the Commissioner of Social Security and the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
 
-(6) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 180 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
+(6) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 180 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government,shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
 
 (7)(A) The disbursing official conducting an administrative offset with respect to a payment to a payee shall notify the payee in writing of—
 
-&emsp;(i) the occurrence of the administrative offset to satisfy a past due legally enforceable debt, including a description of the type andamount of the payment otherwise payable to the payee against which the offset was executed;
+&emsp;(i) the occurrence of the administrative offset to satisfy a past due legally enforceable debt, including a description of the type and amount of the payment otherwise payable to the payee against which the offset was executed;
 
 &emsp;(ii) the identity of the creditor agency requesting the offset; and
 
@@ -100,7 +100,7 @@
 
 (3) In applying this section with respect to any debt owed to a State, subsection (c)(3)(A) shall not apply.
 
-(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, §31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat. 1321–359, 1321–362; Pub. L. 106–169, title II, §251(b)(10), Dec. 14, 1999, 113 Stat. 1856.)
+(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, §31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat. 1321–359, 1321–362; Pub. L. 106–169, title II, §251(b)(10), Dec. 14, 1999, 113 Stat. 1856; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 Historical and Revision Notes
 
@@ -149,6 +149,8 @@ The Black Lung Benefits Act, referred to in subsec. (c)(3)(A)(i)(II), is title I
 The Internal Revenue Code of 1986, referred to in subsec. (c)(8), is classified to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2004—Subsec. (b)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1999—Subsec. (c)(3)(C). Pub. L. 106–169 substituted “sections 205(b)(1), 809(a)(1),” for “sections 205(b)(1)” and “title II, VIII,” for “either title II”.
 
@@ -206,7 +208,7 @@ Section 1. <i>Administrative Offsets</i>. (a)(1) The Secretary of the Treasury (
 
 (f) The Secretary shall, to the extent permitted by law, share with the Secretary of Health and Human Services any information contained in payment certification records of persons who are delinquent in child support obligations that would assist in the collection of such debts, whether or not an administrative offset is conducted.
 
-Sec. 2. <i>Denial of Federal Assistance</i>. (a) The Secretary shall, to the extent permitted by law, ensure that information concerning individuals whose payments are subject to administrative offset because of delinquent child support obligations is made available to the head of each executive department and agency that provides Federal financial assistance to individuals.
+Sec. 2. <i>Denial of Federal Assistance</i>. (a) The Secretary shall, to the extent permitted by law, ensure that information concerning individuals whose payments are subject to administrative offset because of delinquent child support obligations is made available to the headof each executive department and agency that provides Federal financial assistance to individuals.
 
 (b) In conformance with section 2(e) of this order, the head of each executive department and agency shall, with respect to any individuals whose payments are subject to administrative offset because of a delinquent child support obligation, promptly implement procedures to deny Federal financial assistance to such individuals.
 
@@ -241,8 +243,4 @@ Sec. 3. <i>Reports</i>. (a) The head of each executive department and agency sha
 Sec. 4. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3322, 3325, 3701, 3712, 3807 of this title; title 5 section 5514; title 10 sections 2636, 2739, 2784a; title 28 section 2415; title 30 section 1724; title 38 section 5301; title 42 sections 404, 1008, 1383.
 

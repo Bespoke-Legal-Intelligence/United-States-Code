@@ -1,9 +1,5 @@
 Part B—Health Professions Training for Diversity
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 287a–2 of this title.
-
 
 ---
 

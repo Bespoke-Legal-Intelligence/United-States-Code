@@ -52,7 +52,7 @@ The articles of any small business investment company shall specify in general t
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this chapter, the Administrator may, in the discretion of the Administrator and based on a showing of special circumstances and goodcause, approve an application and issue a license under this subsection with respect to any applicant that—
+&emsp;&emsp;Notwithstanding any other provision of this chapter, the Administrator may, in the discretion of the Administrator and based on a showing of special circumstances and good cause, approve an application and issue a license under this subsection with respect to any applicant that—
 
 &emsp;&emsp;&emsp;(i) has private capital of not less than $3,000,000;
 
@@ -116,7 +116,7 @@ Subsec. (c). Pub. L. 94–305, §106(d), struck out “of incorporation” after
 
 1967—Subsec. (c). Pub. L. 90–104 provided for consideration of availability of financing, the geographic area, the business reputation, ownership factor, and probability of successful operations of company including adequate profitability and financial soundness and eliminated from consideration the number of such companies previously organized in the United States and the volume of their operations.
 
-1961—Subsec. (a). Pub. L. 87–341, §11(a), provided that small business investment companies shall be incorporated, organized and chartered under State law, with a minimum succession period of thirty years unless sooner dissolved by its activities and functions, its area of operation shall be subject to the Administration's approval, and deleted provisions setting the minimum number of incorporators at 10, no company shall be chartered by the Administration unless it determined that none could be chartered under the laws of the State and operate in accordance with this chapter, andthat no such company shall be chartered by the Administration under this section after June 30, 1961.
+1961—Subsec. (a). Pub. L. 87–341, §11(a), provided that small business investment companies shall be incorporated, organized and chartered under State law, with a minimum succession period of thirty years unless sooner dissolved by its activities and functions, its area of operation shall be subject to the Administration's approval, and deleted provisions setting the minimum number of incorporators at 10, no company shall be chartered by the Administration unless it determined that none could be chartered under the laws of the State and operate in accordance with this chapter, and that no such company shall be chartered by the Administration under this section after June 30, 1961.
 
 Subsec. (c). Pub. L. 87–341, §11(b)(1), (2), substituted “such a company's articles of incorporation and permit it to operate under the provisions of this chapter” for “the establishment of such a company and its proposed articles of incorporation”, and provided that if the Administration approves the company to operate under the provisions of this chapter, it may issue the company a license for such operation.
 
@@ -146,11 +146,7 @@ Pub. L. 102–366, title IV, §408(d), Sept. 4, 1992, 106 Stat. 1017, directed S
 
 Pub. L. 102–366, title IV, §408(e), Sept. 4, 1992, 106 Stat. 1017, directed Administration, within 180 days after Sept. 4, 1992, to report on actions taken pursuant to section 408(d) of Pub. L. 102–366, formerly set out above, to the Committees on Small Business of the Senate and the House of Representatives, including the rationale for its actions.
 
-Pub. L. 102–366, title IV, §417(b), Sept. 4, 1992, 106 Stat. 1019, provided that: “Not later than 4 years after the date of enactment of this Act \[Sept. 4, 1992\], the Comptroller General of the United States shall transmit to the Committees on Small Business of the House of Representatives and the Senate a report that reviews the Small Business Investment Company program (established under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\]) for the 3-year period following the date of enactment of this Act, with respect to each item listed in section 308(g)(3) of the Small Business Investment Act of 1958 \[15 U.S.C. 687(g)(3)\], as amended by subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78c, 662, 682, 683, 687, 689, 697f of this title; title 11 section 109; title 12 sections 1431, 1464; title 26 sections 1044, 1202; title 42 sections 5305, 9815.
+Pub. L. 102–366, title IV, §417(b), Sept. 4, 1992, 106 Stat. 1019, provided that not later than 4 years after Sept. 4, 1992, the Comptroller General was to transmit to Congress a report that reviewed the Small Business Investment Company program established under the Small Business Investment Act of 1958 (15 U.S.C. 661 et seq.) for the 3-year period following Sept. 4, 1992, with respect to each item listed in section 687(g)(3) of this title.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (d) has been enacted.</i>
 

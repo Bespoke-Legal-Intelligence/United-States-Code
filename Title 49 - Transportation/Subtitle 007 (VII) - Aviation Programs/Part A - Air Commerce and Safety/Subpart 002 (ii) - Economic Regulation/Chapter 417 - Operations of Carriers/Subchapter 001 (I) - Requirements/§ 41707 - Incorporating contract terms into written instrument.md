@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §411(b); added Oct. 4, 1984, Pub. L. 98–443, §7(a), 98 Stat. 1706.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41110 of this title.
-

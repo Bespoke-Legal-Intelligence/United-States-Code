@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—TRANSFERS OF FUNCTIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 7301 of this title.
-
 
 ---
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IX—ENERGY RESOURCE GRADUATE FELLOWSHIPS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1291 of this title.
-
 
 ---
 

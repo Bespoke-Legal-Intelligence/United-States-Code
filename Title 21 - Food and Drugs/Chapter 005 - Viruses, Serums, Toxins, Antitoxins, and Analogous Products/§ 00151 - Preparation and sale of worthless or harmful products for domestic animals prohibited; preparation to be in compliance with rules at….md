@@ -26,7 +26,7 @@ Section 1768(f) of Pub. L. 99–198 provided that:
 
 “(C) The exemption granted by subparagraph (A) must be claimed by the person, firm, or corporation preparing such product by the first day of the 13th month following the date of enactment of this Act \[Dec. 23, 1985\], in the form and manner prescribed by the Secretary, unless the Secretary grants an extension of the time to claim such exemption in an individual case for good cause shown.
 
-“(D) On the issuance by the Secretary of a license to such person, firm, or corporation for such product prior to the first day of the 49th month following the date of enactment of this Act \[Dec. 23, 1985\], or the end of an extension of the exemption granted by the Secretary, the exemption granted by subparagraph (A) shall terminate with respect to such product.”
+“(D) On the issuance by the Secretary of a license to such person, firm, or corporation for such product priorto the first day of the 49th month following the date of enactment of this Act \[Dec. 23, 1985\], or the end of an extension of the exemption granted by the Secretary, the exemption granted by subparagraph (A) shall terminate with respect to such product.”
 
 #### Short Title
 

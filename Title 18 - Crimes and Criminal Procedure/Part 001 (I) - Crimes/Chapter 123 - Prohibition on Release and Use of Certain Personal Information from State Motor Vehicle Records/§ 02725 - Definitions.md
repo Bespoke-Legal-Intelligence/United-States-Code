@@ -22,7 +22,3 @@ Section 106(5) of Public Law 106–229, referred to in par. (5), is classified t
 
 2000—Pars. (4), (5). Pub. L. 106–346 added pars. (4) and (5).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2721 of this title.
-

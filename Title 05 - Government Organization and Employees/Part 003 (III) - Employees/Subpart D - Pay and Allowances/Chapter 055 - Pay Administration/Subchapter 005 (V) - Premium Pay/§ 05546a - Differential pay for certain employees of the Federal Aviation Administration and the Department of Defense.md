@@ -74,7 +74,3 @@ Section 151(h)(1), (2) of Pub. L. 97–276 provided that:
 
 “(2) The amendments made by subsection 152 \[151\] (a) and subsection 152 \[151\] (d) of this joint resolution \[enacting subsecs. (c)–(f) of this section and amending section 4109 of this title\] shall take effect on the first day of the first applicable pay period beginning after the date of the enactment of this joint resolution \[Oct. 2, 1982\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5547 of this title; title 2 section 1371.
-

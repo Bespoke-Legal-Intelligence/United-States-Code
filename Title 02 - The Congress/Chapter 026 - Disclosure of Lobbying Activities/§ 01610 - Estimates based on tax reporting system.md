@@ -28,7 +28,7 @@ A person, other than a lobbying firm, who is required to account and does accoun
 
 Any registrant that elects to make estimates required by this chapter under the procedures authorized by subsection (a) or (b) of this section for reporting or threshold purposes shall—
 
-&emsp;(1) inform the Secretary of the Senate and the Clerk of the House of Representatives thatthe registrant has elected to make its estimates under such procedures; and
+&emsp;(1) inform the Secretary of the Senate and the Clerk of the House of Representatives that the registrant has elected to make its estimates under such procedures; and
 
 &emsp;(2) make all such estimates, in a given calendar year, under such procedures.
 
@@ -50,7 +50,7 @@ This chapter, referred to in subsecs. (c) and (d)(2), (3), was in the original �
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–166, §4(a)(1), in introductory provisions, substituted “A person, other than a lobbying firm,” for “A registrant”.
+1998—Subsec. (a). Pub. L. 105–166, §4(a)(1), in introductory provisions, substituted “A person, other than a lobbying firm,” for “A registrant”.
 
 Subsec. (a)(2). Pub. L. 105–166, §4(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in lieu of using the definition of ‘lobbying activities’ in section 1602(7) of this title, consider as lobbying activities only those activities that are influencing legislation as defined in section 4911(d) of title 26.”
 

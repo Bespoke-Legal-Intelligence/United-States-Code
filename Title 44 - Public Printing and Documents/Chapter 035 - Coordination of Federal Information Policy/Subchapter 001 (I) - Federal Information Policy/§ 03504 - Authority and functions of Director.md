@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(B) regulations promulgated by the Archivist of the United States and the Administrator of General Services; and
 
-&emsp;(3) oversee the application of records management policies, principles, standards, andguidelines, including requirements for archiving information maintained in electronic format, in the planning and design of information systems.
+&emsp;(3) oversee the application of records management policies, principles, standards, and guidelines, including requirements for archiving information maintained in electronic format, in the planning and design of information systems.
 
 (g) With respect to privacy and security, the Director shall—
 
@@ -295,10 +295,6 @@ Electronic signature.—The term ‘electronic signature’ means a method of si
 &emsp;“(2)
 
 Executive agency.—The term ‘Executive agency’ has the meaning given that term in section 105 of title 5, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3602, 3603 of this title; title 40 sections 11302, 11303; title 42 section 13271.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

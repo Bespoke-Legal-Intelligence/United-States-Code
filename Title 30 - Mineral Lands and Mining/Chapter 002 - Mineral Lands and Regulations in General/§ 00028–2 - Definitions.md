@@ -12,7 +12,3 @@ As used in section 28–1 of this title,
 
 (Pub. L. 85–876, §2, Sept. 2, 1958, 72 Stat. 1701.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 460mm–1.
-

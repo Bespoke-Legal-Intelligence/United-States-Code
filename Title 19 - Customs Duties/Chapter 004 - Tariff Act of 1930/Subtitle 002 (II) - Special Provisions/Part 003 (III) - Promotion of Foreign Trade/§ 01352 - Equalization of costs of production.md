@@ -58,7 +58,3 @@ Section 257(c) of Pub. L. 87–794 extended authority of President to enter into
 
 Section 2 of Pub. L. 85–686, Aug. 20, 1958, 72 Stat. 673, extended authority of President to enter into foreign trade agreements under section 350 of the Tariff Act of 1930 (section 1351 of this title) from close of June 30, 1958, until close of June 30, 1962.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1304, 1360, 1366 of this title.
-

@@ -18,7 +18,7 @@ For purposes of this subchapter—
 
 &emsp;(7) the term “foreign person” means any person other than a United States person;
 
-&emsp;(8)(A) the term “person” means a natural person as well as a corporation, business association, partnership, society, trust, any other nongovernmental entity, organization, or group, and any governmental entity operating as a business enterprise, and any successor of any such entity; and
+&emsp;(8)(A) the term “person” means a natural person as well as a corporation, business association, partnership, society, trust, any other nongovernmental entity, organization, or group, and any governmental entity operatingas a business enterprise, and any successor of any such entity; and
 
 &emsp;(B) in the case of countries with non-market economies (excluding former members of the Warsaw Pact), the term “person” means—
 
@@ -45,8 +45,4 @@ For purposes of subsection (a)(3) of this section, as it relates to any internat
 1991—Par. (8)(B). Pub. L. 102–138, §323(b), substituted “countries with non-market economies (excluding former members of the Warsaw Pact)” for “countries where it may be impossible to identify a specific governmental entity referred to in subparagraph (A)”.
 
 Par. (8)(B)(ii). Pub. L. 102–138, §323(c), substituted “electronics, space systems or equipment, and military aircraft” for “aircraft, electronics, and space systems or equipment”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2776, 2797b–2 of this title; title 50 section 2368.
 

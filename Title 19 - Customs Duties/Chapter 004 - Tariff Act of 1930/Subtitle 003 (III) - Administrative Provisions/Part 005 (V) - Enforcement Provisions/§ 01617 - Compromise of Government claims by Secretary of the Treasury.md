@@ -30,7 +30,3 @@ Functions of Secretary of the Treasury, General Counsel of Department of the Tre
 
 Act May 10, 1934, ch. 277, §512(b), 48 Stat. 759, abolished offices of General Counsel and Assistant General Counsel for Bureau of Internal Revenue, and office of Solicitor and Assistant Solicitor of the Treasury and transferred powers, duties, and functions thereof to General Counsel for Department of the Treasury.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1600, 2254 of this title.
-

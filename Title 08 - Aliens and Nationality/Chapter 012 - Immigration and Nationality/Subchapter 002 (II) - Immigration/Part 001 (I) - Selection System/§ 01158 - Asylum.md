@@ -56,7 +56,7 @@
 
 #### (i) Conviction of aggravated felony
 
-&emsp;&emsp;&emsp;For purposes of clause (ii) of subparagraph (A), an alien who has been convicted of an aggravated felony shall be consideredto have been convicted of a particularly serious crime.
+&emsp;&emsp;&emsp;For purposes of clause (ii) of subparagraph (A), an alien who has been convicted of an aggravated felony shall be considered to have been convicted of a particularly serious crime.
 
 #### (ii) Offenses
 
@@ -233,10 +233,6 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 #### Time for Establishment of Asylum Procedure by Attorney General
 
 Section 204(d)(2) of Pub. L. 96–212 provided that: “The Attorney General shall establish the asylum procedure referred to in section 208(a) of the Immigration and Nationality Act (as added by section 201(b) of this title) \[former subsec. (a) of this section\] not later than June 1, 1980.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1157, 1182, 1225, 1229a, 1252, 1254a, 1324b, 1324c, 1427, 1534, 1574, 1612, 1613, 1622, 1641, 1738 of this title; title 7 section 2015; title 18 section 842; title 22 section 4703; title 42 sections 608, 1436a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

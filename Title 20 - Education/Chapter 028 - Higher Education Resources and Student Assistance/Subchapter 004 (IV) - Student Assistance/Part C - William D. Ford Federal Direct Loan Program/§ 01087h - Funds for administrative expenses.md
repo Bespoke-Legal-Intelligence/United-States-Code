@@ -48,7 +48,7 @@ Except as provided in subsection (c) of this section, account maintenance fees p
 
 #### (A) In general
 
-&emsp;&emsp;If the amounts set forth in paragraph (1) are insufficient to pay the account maintenance fees payable to guaranty agencies pursuant to subsection (b) of this section for a fiscal year, the Secretary shall pay the insufficiency by requiring guaranty agencies to transfer funds from the Federal Student Loan Reserve Funds under section 1072a of this title to the Agency Operating Funds under section 1072b of this title.
+&emsp;&emsp;If the amounts set forth in paragraph (1) are insufficient to pay the account maintenance fees payable to guaranty agencies pursuant to subsection (b) of this section for a fiscal year, the Secretary shall pay the insufficiency by requiring guaranty agenciesto transfer funds from the Federal Student Loan Reserve Funds under section 1072a of this title to the Agency Operating Funds under section 1072b of this title.
 
 #### (B) Entitlement
 
@@ -107,8 +107,4 @@ Pub. L. 104–208, div. A, title I, §101(e) \[title III, §304\], Sept. 30, 199
 Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 104–134, title I, §101(d) \[title III, §305\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–236; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1018, 1072, 1072b, 1087e of this title.
 

@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 99–653, as amended by Pub. L. 100–525, added subsec. (c
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–416 effective on the first day of the first month beginning more than 120 days after Oct. 25, 1994, see section 102(d) of Pub. L. 103–416, set out as a note under section 1433 of this act.
+Amendment by Pub. L. 103–416 effective on the first day of the first month beginning more than 120 daysafter Oct. 25, 1994, see section 102(d) of Pub. L. 103–416, set out as a note under section 1433 of this act.
 
 #### Effective Date of 1991 Amendment
 

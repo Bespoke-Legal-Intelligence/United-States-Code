@@ -54,7 +54,3 @@ In this subchapter:
 
 Section 812 of this title, referred to in par. (9)(A), was in the original “section 112 of the Controlled Substances Act (21 U.S.C. 812)”, and was translated as reading “section 202”, meaning section 202 of Pub. L. 91–513, to reflect the probable intent of Congress, because Pub. L. 91–513 does not contain a section 112.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1532 of this title.
-

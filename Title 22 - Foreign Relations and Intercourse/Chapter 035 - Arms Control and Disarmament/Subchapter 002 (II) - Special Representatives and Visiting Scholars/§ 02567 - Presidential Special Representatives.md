@@ -22,7 +22,3 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 Section 103(b) of Pub. L. 101–216 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to individuals who are appointed as Special Representatives on or after the date of enactment of this Act \[Dec. 11, 1989\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2574 of this title.
-

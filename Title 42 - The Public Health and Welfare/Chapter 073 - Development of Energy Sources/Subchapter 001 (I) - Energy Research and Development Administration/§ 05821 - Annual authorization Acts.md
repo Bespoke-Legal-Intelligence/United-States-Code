@@ -22,11 +22,11 @@ All appropriations made to the Energy Research and Development Administration or
 
 #### (c) Additional requirements and limitations respecting funds appropriated for operating expenses
 
-(1) Not to exceed 1 per centum of all funds appropriated pursuant to any annual authorization Act for “Operating expenses” may be used by the Administrator to construct, expand, or modify laboratories and other facilities, including the acquisition of land, at any location under the control of the Administrator, if the Administrator determines that (A) such action would be necessary because of changes in the national programs authorized to be funded by such Act or because of new scientific or engineering developments, and (B) deferral of such action until the enactment of the next authorization Act would be inconsistent with the policies established by Congress for the Administration.
+(1) Not to exceed 1 per centum of all funds appropriated pursuant to any annual authorization Act for “Operating expenses” may be used by the Administrator to construct, expand, or modify laboratories and other facilities, including the acquisition of land, at any location under the control of the Administrator, if the Administrator determines that (A) such action would be necessary because of changes in the national programs authorized to be funded by such Act or because of new scientific or engineering developments, and (B) deferral of such action until the enactment of the next authorization Act wouldbe inconsistent with the policies established by Congress for the Administration.
 
 (2) No funds may be obligated for expenditure or expended under paragraph (1) for activities described in such paragraph unless—
 
-&emsp;(A) a period of thirty calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than three calendar days to a day certain) has passed after the Administrator has transmitted to the appropriate committees ofthe House of Representatives and the Senate a written report containing a full and complete statement concerning (i) the nature of the construction, expansion, or modification involved, (ii) the cost thereof, including the cost of any real estate action pertaining thereto, and (iii) the reason why such construction, expansion, or modification is necessary and in the national interest, or
+&emsp;(A) a period of thirty calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than three calendar days to a day certain) has passed after the Administrator has transmitted to the appropriate committees of the House of Representatives and the Senate a written report containing a full and complete statement concerning (i) the nature of the construction, expansion, or modification involved, (ii) the cost thereof, including the cost of any real estate action pertaining thereto, and (iii) the reason why such construction, expansion, or modification is necessary and in the national interest, or
 
 &emsp;(B) each such committee before the expiration of such period has transmitted to the Administrator a written notice to the effect that such committee has no objection to the proposed action;
 
@@ -66,7 +66,7 @@ When so specified in appropriation Acts, any moneys received by the Administrati
 
 #### (i) Requirements respecting transfers of sums appropriated for operating expenses to other Government agencies; merger of transferred sums
 
-When so specified in an appropriation Act, transfers of sums from the “Operating expenses” appropriation made pursuant to an annual authorization Act may be made to other agencies of the Government for the performance of the work for which the appropriation is made, and in such cases the sums so transferred may bemerged with the appropriations to which they are transferred.
+When so specified in an appropriation Act, transfers of sums from the “Operating expenses” appropriation made pursuant to an annual authorization Act may be made to other agencies of the Government for the performance of the work for which the appropriation is made, and in such cases the sums so transferred may be merged with the appropriations to which they are transferred.
 
 (Pub. L. 93–438, title I, §111, as added Pub. L. 95–238, title II, §201, Feb. 25, 1978, 92 Stat. 56; amended Pub. L. 103–437, §15(c)(7), Nov. 2, 1994, 108 Stat. 4592.)
 

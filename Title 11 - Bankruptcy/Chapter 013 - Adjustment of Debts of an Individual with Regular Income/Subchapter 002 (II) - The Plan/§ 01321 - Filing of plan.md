@@ -10,7 +10,3 @@ I74senate report no. 95–989
 
 Chapter 13 contemplates the filing of a plan only by the debtor.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1307 of this title.
-

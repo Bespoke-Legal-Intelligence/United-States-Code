@@ -8,7 +8,7 @@
 
 (b) Any order issued under subsection (a) of this section shall be promptly reported by the President, or by the officer or employee issuing such order, in writing, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
-(June 7, 1939, ch. 190, §7, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 322; amended Pub. L.104–106, div. A, title XV, §1502(e)(2), Feb. 10, 1996, 110 Stat. 509; Pub. L. 106–65, div. A, title X, §1067(13), Oct. 5, 1999, 113 Stat. 775.)
+(June 7, 1939, ch. 190, §7, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 322; amended Pub. L. 104–106, div. A, title XV, §1502(e)(2), Feb. 10, 1996, 110 Stat. 509; Pub. L. 106–65, div. A, title X, §1067(13), Oct. 5, 1999, 113 Stat. 775.)
 
 #### Prior Provisions
 
@@ -21,8 +21,4 @@ Provisions similar to those in this section were contained in former section 98d
 1999—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1996—Subsec. (b). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 98d, 98e, 98h, 98h–7 of this title.
 

@@ -20,7 +20,3 @@ Oct. 10, 1978, Pub. L. 95–435, §7, 92 Stat. 1053; restated Oct. 7, 1980, Pub.
 
 The word “total” is omitted as surplus. The words “for a fiscal year” are substituted for “beginning with Fiscal Year 1981” because of the restatement and to eliminate executed words. The words “for that year” are added because of the restatement.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 907a.
-

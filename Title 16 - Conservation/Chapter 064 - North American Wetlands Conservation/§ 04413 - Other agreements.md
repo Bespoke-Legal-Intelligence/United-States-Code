@@ -8,7 +8,3 @@ The Secretary shall undertake with the appropriate officials of nations in the W
 
 2002—Pub. L. 107–308 substituted “Western Hemisphere” for “western hemisphere”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4409 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—CLAIMS AGAINST CUBA AND CHINA
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1627, 6023, 6082, 6083 of this title.
-
 
 ---
 

@@ -38,7 +38,7 @@ The Secretary shall carry out, in accordance with the provisions of this section
 
 &emsp;(B) if any radioactive material is used at a site—
 
-&emsp;&emsp;(i) the Secretary shall use the minimum quantity necessary to determine the suitability of such site for a repository, but in no event more than the curie equivalent of 10 metric tons of spent nuclear fuel; and
+&emsp;&emsp;(i) the Secretary shall use the minimum quantity necessary to determine the suitability of such site for a repository, but inno event more than the curie equivalent of 10 metric tons of spent nuclear fuel; and
 
 &emsp;&emsp;(ii) such radioactive material shall be fully retrievable.
 
@@ -87,10 +87,6 @@ Subsec. (c)(3), (4). Pub. L. 100–202 and Pub. L. 100–203, §5011(g)(3), amen
 “(3) If site characterization activities are terminated at a candidate site for any reason, the Secretary shall (A) notify the Congress, the Governors and legislatures of all States in which candidate sites are located, and the governing bodies of all affected Indian tribes where candidate sites are located, of such termination and the reasons for such termination; and (B) remove any high-level radioactive waste, spent nuclear fuel, or other radioactive materials at or in such candidate site as promptly as practicable.
 
 “(4) If a site is determined to be unsuitable for application for a construction authorization for a repository, the Secretary shall take reasonable and necessary steps to reclaim the site and to mitigate any significant adverse environmental impacts caused by site characterization activities.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10101, 10132, 10134, 10136, 10244, 10245 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “to” probably should not appear.</i>
 

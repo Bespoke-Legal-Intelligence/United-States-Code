@@ -14,7 +14,7 @@
 
 #### (b) Independence of Advisory Committee
 
-In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other officesand officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the Congress in accordance with subsection (f) of this section. The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
+In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the Congress in accordance with subsection (f) of this section. The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
 
 #### (c) Membership
 
@@ -88,7 +88,7 @@ Members of the Advisory Committee may each receive reimbursement for travel expe
 
 (3)(A) The Advisory Committee is authorized to secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality information, suggestions, estimates, and statistics for the purpose of this section and each such department, bureau, agency, board, commission, office, independent establishment, or instrumentality is authorized and directed, to the extent permitted by law, to furnish such information, suggestions, estimates, and statistics directly to the Advisory Committee, upon request made by the Chairman.
 
-(B) The Advisory Committee may enter into contracts for the acquisition of information, suggestions, estimates, and statistics for the purpose of this section.
+(B) The Advisory Committee may enter into contracts for the acquisition of information,suggestions, estimates, and statistics for the purpose of this section.
 
 (4) The Advisory Committee is authorized to obtain the services of experts and consultants without regard to section 3109 of title 5 and to set pay in accordance with such section.
 
@@ -132,7 +132,7 @@ The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–
 
 #### Prior Provisions
 
-A prior section 1098, Pub. L. 89–329, title IV, §491, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1454; amended Pub. L. 98–79, §11, Aug. 15, 1983, 97Stat. 484, related to a National Commission on Student Financial Assistance, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1098, Pub. L. 89–329, title IV, §491, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1454; amended Pub. L. 98–79, §11, Aug. 15, 1983, 97 Stat. 484, related to a National Commission on Student Financial Assistance, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

@@ -8,7 +8,3 @@ Whoever knowingly deposits for mailing or delivery, or knowingly causes to be de
 
 Section effective Oct. 31, 1989, see section 4 of Pub. L. 100–574, set out as a note under section 3014 of Title 39, Postal Service.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 39 section 3014.
-

@@ -4,7 +4,3 @@ The Secretary of the Interior shall approve no lease pursuant to sections 415 to
 
 (Aug. 9, 1955, ch. 615, §5, 69 Stat. 540.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 415, 415a, 415b, 415d of this title.
-

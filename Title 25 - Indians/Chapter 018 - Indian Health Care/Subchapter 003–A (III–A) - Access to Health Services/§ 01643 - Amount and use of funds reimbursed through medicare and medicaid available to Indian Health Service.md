@@ -6,7 +6,7 @@ The Secretary shall submit to the President, for inclusion in the report require
 
 #### References in Text
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. TitlesXVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Codification
 
@@ -15,8 +15,4 @@ Section was formerly set out as a note under section 1671 of this title.
 #### Amendments
 
 1992—Pub. L. 102–573 substituted “The Secretary shall submit to the President, for inclusion in the report required to be transmitted to the Congress under section 1671 of this title,” for “The Secretary shall include in his annual report required by section 1671 of this title”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1671 of this title; title 42 section 1395qq.
 

@@ -36,9 +36,5 @@
 
 Subsec. (c)(2). Pub. L. 102–40, §403(c)(2)(B), in introductory provisions substituted “section 7453(b)” for “section 4107(e)(2)” and in subpar. (B) substituted “subsection (b) of such section 7453” for “subsection (e)(2) of such section 4107”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6121, 6130, 6132 of this title.
-
 <i><sup>1</sup></i><i> So in original. The word “section” probably should not appear.</i>
 

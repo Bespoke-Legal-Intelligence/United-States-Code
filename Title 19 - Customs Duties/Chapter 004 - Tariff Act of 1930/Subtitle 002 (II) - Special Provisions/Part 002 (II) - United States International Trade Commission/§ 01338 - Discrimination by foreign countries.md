@@ -4,7 +4,7 @@
 
 The President when he finds that the public interest will be served shall by proclamation specify and declare new or additional duties as hereinafter provided upon articles wholly or in part the growth or product of, or imported in a vessel of, any foreign country whenever he shall find as a fact that such country—
 
-&emsp;(1) Imposes, directly or indirectly, upon the disposition in or transportation in transit through or reexportation from such country of any article wholly or in part the growth or product of the United States any unreasonable charge, exaction, regulation, or limitation which is not equally enforced upon the like articles of every foreign country; or
+&emsp;(1) Imposes, directly or indirectly, upon the disposition in or transportation in transit through or reexportation from such country of any article wholly or in part the growth or product of the United States any unreasonable charge, exaction, regulation, or limitationwhich is not equally enforced upon the like articles of every foreign country; or
 
 &emsp;(2) Discriminates in fact against the commerce of the United States, directly or indirectly, by law or administrative regulation or practice, by or in respect to any customs, tonnage, or port duty, fee, charge, exaction, classification, regulation, condition, restriction, or prohibition, in such manner as to place the commerce of the United States at a disadvantage compared with the commerce of any foreign country.
 
@@ -22,7 +22,7 @@ Whenever the President shall find as a fact that any foreign country places any 
 
 #### (e) Duties to offset benefits to third country
 
-Whenever the President shall find as a fact that any foreign country imposes any unequal imposition or discrimination as aforesaid upon the commerce of the United States, or that anybenefits accrue or are likely to accrue to any industry in any foreign country by reason of any such imposition or discrimination imposed by any foreign country other than the foreign country in which such industry is located, and whenever the President shall determine that any new or additional rate or rates of duty or any prohibition hereinbefore provided for do not effectively remove such imposition or discrimination and that any benefits from any such imposition or discrimination accrue or are likely to accrue to any industry in any foreign country, he shall, when he finds that the public interest will be served thereby, by proclamation specify and declare such new or additional rate or rates of duty upon the articles wholly or in part the growth or product of any such industry as he shall determine will offset such benefits, not to exceed 50 per centum ad valorem or its equivalent, upon importation from any foreign country into the United States of such articles; and on and after thirty days after the date of any such proclamation such new or additional rate or rates of duty so specified and declared in such proclamation shall be levied, collected, and paid upon such articles.
+Whenever the President shall find as a fact that any foreign country imposes any unequal imposition or discrimination as aforesaid upon the commerce of the United States, or that any benefits accrue or are likely to accrue to any industry in any foreign country by reason of any such imposition or discrimination imposed by any foreign country other than the foreign country in which such industry is located, and whenever the President shall determine that any new or additional rate or rates of duty or any prohibition hereinbefore provided for do not effectively remove such imposition or discrimination and that any benefits from any such imposition or discrimination accrue or are likely to accrue to any industry in any foreign country, he shall, when he finds that the public interest will be served thereby, by proclamation specify and declare such new or additional rate or rates of duty upon the articles wholly or in part the growth or product of any such industry as he shall determine will offset such benefits, not to exceed 50 per centum ad valorem or its equivalent, upon importation from any foreign country into the United States of such articles; and on and after thirty days after the date of any such proclamation such new or additional rate or rates of duty so specified and declared in such proclamation shall be levied, collected, and paid upon such articles.
 
 #### (f) Forfeiture of articles
 
@@ -45,8 +45,4 @@ When used in this section the term “foreign country” means any empire, count
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title III, §317, 42 Stat. 944. That section was superseded by section 338 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 Act.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1337 of this title.
 

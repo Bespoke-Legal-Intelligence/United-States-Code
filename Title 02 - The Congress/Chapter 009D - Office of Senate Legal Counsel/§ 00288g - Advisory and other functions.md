@@ -8,7 +8,7 @@ The Counsel shall advise, consult, and cooperate with—
 
 &emsp;(2) the committee of the Senate with the responsibility to identify any court proceeding or action which is of vital interest to the Senate;
 
-&emsp;(3) the Comptroller General, the General Accounting Office, the Office of Legislative Counsel of the Senate, and the Congressional Research Service, except that none of the responsibilities and authority assigned by this chapter to the Counsel shall be construed to affect or infringe upon any functions, powers, or duties of the aforementioned;
+&emsp;(3) the Comptroller General, the Government Accountability Office, the Office of Legislative Counsel of the Senate, and the Congressional Research Service, except that none of the responsibilities and authority assigned by this chapter to the Counsel shall be construed to affect or infringe upon any functions, powers, or duties of the aforementioned;
 
 &emsp;(4) any Member, officer, or employee of the Senate not represented under section 288c of this title with regard to obtaining private legal counsel for such Member, officer, or employee;
 
@@ -24,7 +24,11 @@ The Counsel shall compile and maintain legal research files of materials from co
 
 The Counsel shall perform such other duties consistent with the purposes and limitations of this chapter as the Senate may direct.
 
-(Pub. L. 95–521, title VII, §708, Oct. 26, 1978, 92 Stat. 1880.)
+(Pub. L. 95–521, title VII, §708, Oct. 26, 1978, 92 Stat. 1880; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+#### Amendments
+
+2004—Subsec. (a)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

@@ -32,7 +32,3 @@ The President shall include in the reports required under section 98h–2(a) of 
 
 (June 7, 1939, ch. 190, §15, as added Pub. L. 101–189, div. C, title XXXIII, §3312(a), Nov. 29, 1989, 103 Stat. 1687.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 98h of this title.
-

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation shall establish a pilot program under which not more than 10 designated essential airservice communities located in proximity to hub airports are required to assume 10 percent of their essential air service subsidy costs for a 4-year period.
+In General.—The Secretary of Transportation shall establish a pilot program under which not more than 10 designated essential air service communities located in proximity to hub airports are required to assume 10 percent of their essential air service subsidy costs for a 4-year period.
 
 (b)
 

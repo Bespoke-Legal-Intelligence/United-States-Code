@@ -8,7 +8,7 @@
 
 #### (2) Charges to students and parents for use of form prohibited
 
-&emsp;The common financial reporting form prescribed by the Secretary under paragraph (1)shall be produced, distributed, and processed by the Secretary and no parent or student shall be charged a fee for the collection, processing, or delivery of financial aid through the use of such form. The need and eligibility of a student for financial assistance under parts A through D of this subchapter and part C of subchapter I of chapter 34 of title 42 (other than under subpart 4 of part A of this subchapter) may only be determined by using the form developed by the Secretary pursuant to paragraph (1) of this subsection. No student may receive assistance under parts A through D of this subchapter and part C of subchapter I of chapter 34 of title 42 (other than under subpart 4 of part A of this subchapter), except by use of the form developed by the Secretary pursuant to this section. No data collected on a form for which a fee is charged shall be used to complete the form prescribed under paragraph (1).
+&emsp;The common financial reporting form prescribed by the Secretary under paragraph (1) shall be produced, distributed, and processed by the Secretary and no parent or student shall be charged a fee for the collection, processing, or delivery of financial aid through the use of such form. The need and eligibility of a student for financial assistance under parts A through D of this subchapter and part C of subchapter I of chapter 34 of title 42 (other than under subpart 4 of part A of this subchapter) may only be determined by using the form developed by the Secretary pursuant to paragraph (1) of this subsection. No student may receive assistance under parts A through D of this subchapter and part C of subchapter I of chapter 34 of title 42 (other than under subpart 4 of part A of this subchapter), except by use of the form developed by the Secretarypursuant to this section. No data collected on a form for which a fee is charged shall be used to complete the form prescribed under paragraph (1).
 
 #### (3) Distribution of data
 
@@ -44,7 +44,7 @@
 
 &emsp;(C) No fee shall be charged to students in connection with the use of the electronic version of the form, or of any other electronic forms used in conjunction with such form in applying for Federal or State student financial assistance.
 
-&emsp;(D) The Secretary shall ensure that data collection complies with section 552a of title 5and that any entity using the electronic version of the form developed by the Secretary pursuant to subparagraph (A) shall maintain reasonable and appropriate administrative, technical, and physical safeguards to ensure the integrity and confidentiality of the information, and to protect against security threats, or unauthorized uses or disclosures of the information provided on the electronic version of the form. Data collected by such version of the form shall be used only for the application, award, and administration of aid awarded under this subchapter and part C of subchapter I of chapter 34 of title 42, State aid, or aid awarded by eligible institutions or such entities as the Secretary may designate. No data collected by such version of the form shall be used for making final aid awards under this subchapter and part C of subchapter I of chapter 34 of title 42 until such data have been processed by the Secretary or a contractor or designee of the Secretary.
+&emsp;(D) The Secretary shall ensure that data collection complies with section 552a of title 5 and that any entity using the electronic version of the form developed by the Secretary pursuant to subparagraph (A) shall maintain reasonable and appropriate administrative, technical, and physical safeguards to ensure the integrity and confidentiality of the information, and to protect against security threats, or unauthorized uses or disclosures of the information provided on the electronic version of the form. Data collected by such version of the form shall be used only for the application, award, and administration of aid awarded under this subchapter and part C of subchapter I of chapter 34 of title 42, State aid, or aid awarded by eligible institutions or such entities as the Secretary may designate. No data collected by such version of the formshall be used for making final aid awards under this subchapter and part C of subchapter I of chapter 34 of title 42 until such data have been processed by the Secretary or a contractor or designee of the Secretary.
 
 #### (6) Third party servicers and private software providers
 
@@ -88,11 +88,11 @@ A prior section 1090, Pub. L. 89–329, title IV, §483, as added Pub. L. 96–3
 
 1998—Subsec. (a). Pub. L. 105–244, §482(a)(1), substituted “form development” for “form” in heading.
 
-Subsec. (a)(1). Pub. L. 105–244, §482(a)(2)(D), struck out at end “For the purpose of collecting eligibility and other data for the purpose of part B of this subchapter, the Secretary shall develop a separate, identifiable loan application document (pursuant to section 1082(m)of this title) that applicants or institutions in which the students are enrolled or accepted for enrollment shall submit directly to eligible lenders and on which the applicant shall clearly indicate a choice of a lender.”
+Subsec. (a)(1). Pub. L. 105–244, §482(a)(2)(D), struck out at end “For the purpose of collecting eligibility and other data for the purpose of part B of this subchapter, the Secretary shall develop a separate, identifiable loan application document (pursuant to section 1082(m) of this title) that applicants or institutions in which the students are enrolled or accepted for enrollment shall submit directly to eligible lenders and on which the applicant shall clearly indicate a choice of a lender.”
 
 Pub. L. 105–244, §482(a)(2)(C), substituted “The Secretary shall include on the form developed under this subsection such data items as the Secretary determines are appropriate for inclusion. Such items shall be selected in consultation with States to assist in the awarding of State financial assistance. In no case shall the number of such data items be less than the number included on the form on October 7, 1998.” for “The Secretary may include on the form developed pursuant to this paragraph not more than eight nonfinancial data items selected in consultation with the States to assist the States in awarding State student financial assistance.”
 
-Pub. L. 105–244, §482(a)(2)(A), (B), substituted “A through D” for “A, C, and D” and struck out “and to determine the need of a student for the purpose of part B of this subchapter” after “part A of this subchapter)”.
+Pub. L. 105–244, §482(a)(2)(A), (B), substituted “A through D” for “A, C, and D” and struck out “and todetermine the need of a student for the purpose of part B of this subchapter” after “part A of this subchapter)”.
 
 Subsec. (a)(2). Pub. L. 105–244, §482(a)(3), substituted “A through D” for “A, C, and D” in two places and struck out “and the need of a student for the purpose of part B of this subchapter,” before “may only be determined” and “or have the student's need established for the purpose of part B of this subchapter” before “, except by use of”.
 
@@ -138,6 +138,10 @@ Subsec. (a)(2). Pub. L. 100–50, §15(5), substituted “not less than 5” for
 
 Subsecs. (b) to (f). Pub. L. 100–50, §15(6), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
@@ -155,8 +159,4 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
 Subsec. (e) of this section applicable to student assistance awarded for periods of enrollment beginning on or after July 1, 1987, see section 407(b) of Pub. L. 99–498, set out as a note under section 1091 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1018, 1018b, 1070a–33, 1082, 1087e, 1087ss of this title.
 

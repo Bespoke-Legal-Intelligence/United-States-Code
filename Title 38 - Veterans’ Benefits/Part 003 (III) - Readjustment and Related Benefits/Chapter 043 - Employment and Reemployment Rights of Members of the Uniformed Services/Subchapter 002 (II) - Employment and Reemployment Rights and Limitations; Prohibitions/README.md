@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—EMPLOYMENT AND REEMPLOYMENT RIGHTS AND LIMITATIONS; PROHIBITIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 4303 of this title.
-
 
 ---
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—DISPOSAL OF WAR AND VETERANS’ HOUSING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1522, 1524, 1541, 1542, 1543, 1544, 1545, 1546, 1547, 1548, 1549, 1550, 1553 of this title; title 12 sections 1715n, 1745.
-
 
 ---
 

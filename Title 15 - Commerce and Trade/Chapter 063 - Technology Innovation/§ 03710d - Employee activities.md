@@ -18,7 +18,3 @@ Nothing in this section is intended to limit or diminish existing authorities of
 
 1996—Subsec. (a). Pub. L. 104–113 substituted “ownership of or the right of ownership to an invention made by a Federal employee” for “the right of ownership to an invention under this chapter” and inserted “obtain or” before “retain title to the invention”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3708 of this title.
-

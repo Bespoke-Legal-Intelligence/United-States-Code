@@ -20,7 +20,7 @@ For purposes of this section, the inflation percentage applicable to a fiscal ye
 
 #### Amendments
 
-1998—Pub. L. 105–277 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “this subchapter—” for “this subchapter”, in introductory provisions, realigned margin of par. (1) and substituted “$700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in section 1925 of this title that are guaranteed by the Secretary); or” for “$400,000; or”, realigned margin of par. (2), and added subsec. (b).
+1998—Pub. L. 105–277 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “this subchapter—” for “this subchapter”, in introductory provisions, realigned margin of par. (1) and substituted “$700,000 (increased, beginning with fiscal year 2000, by the inflation percentageapplicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in section 1925 of this title that are guaranteed by the Secretary); or” for “$400,000; or”, realigned margin of par. (2), and added subsec. (b).
 
 1984—Pub. L. 98–258 substituted “$200,000” and “$400,000” for “$100,000” and “$200,000”, respectively.
 

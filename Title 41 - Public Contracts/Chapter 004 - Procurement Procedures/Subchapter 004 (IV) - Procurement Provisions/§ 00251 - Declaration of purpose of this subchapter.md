@@ -14,7 +14,7 @@ Pub. L. 104–106, div. D, title XLIV, §4401, Feb. 10, 1996, 110 Stat. 678, pro
 
 “(a)
 
-Effective Date.—Except as otherwise provided in this division \[div. D (§§4001–4402) of Pub. L. 104–106, see Short Title of 1996 Amendment note below\], this division and the amendments made by this division shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\].
+Effective Date.—Except as otherwise provided in this division \[div. D (§§4001–4402) of Pub. L. 104–106,see Short Title of 1996 Amendment note below\], this division and the amendments made by this division shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\].
 
 “(b)
 
@@ -68,7 +68,7 @@ Immediate Applicability of Certain Amendments.—Notwithstanding subsection (b),
 
 Pub. L. 98–369, div. B, title VII, §2751, July 18, 1984, 98 Stat. 1203, provided that:
 
-“(a) Except as provided in subsection (b), the amendments made by this title \[see Short Title of 1984 Amendments note below\] shall apply with respect toany solicitation for bids or proposals issued after March 31, 1985.
+“(a) Except as provided in subsection (b), the amendments made by this title \[see Short Title of 1984 Amendments note below\] shall apply with respect to any solicitation for bids or proposals issued after March 31, 1985.
 
 “(b) The amendments made by section 2713 \[amending section 759 of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as a note under section 759 of former Title 40\] and subtitle D \[enacting sections 3551 to 3556 of Title 31, Money and Finance\] shall apply with respect to any protest filed after January 14, 1985.”
 
@@ -176,23 +176,7 @@ Section 604, formerly §504, of act June 30, 1949, renumbered by act Sept. 5, 19
 
 #### Evaluation by Comptroller General
 
-Pub. L. 103–355, title X, §10003, Oct. 13, 1994, 108 Stat. 3405, provided that:
-
-“(a)
-
-Evaluation Relating to Issuance of Regulations.—Not later than 180 days after the issuance in final form of revisions to the Federal Acquisition Regulation pursuant to section 10002 \[set out above\], the Comptroller General shall submit to Congress a report evaluating compliance with such section.
-
-“(b)
-
-Evaluation of Implementation of Regulations.—Not later than 18 months after issuance in final form of revisions to the Federal Acquisition Regulation pursuant to section 10002, the Comptroller General shall submit to the committees referred to in subsection (c) a report evaluating the effectiveness of the regulations implementing this Act \[see Short Title of 1994 Amendment note above\] in streamlining the acquisition system and fulfilling the other purposes of this Act.
-
-“(c)
-
-Committees Designated To Receive the Reports.—The Comptroller General shall submit the reports required by this section to—
-
-&emsp;“(1) the Committees on Governmental Affairs, on Armed Services, and on Small Business of the Senate; and
-
-&emsp;“(2) the Committees on Government Operations \[now Committee on Government Reform\], on Armed Services, and on Small Business of the House of Representatives.”
+Pub. L. 103–355, title X, §10003, Oct. 13, 1994, 108 Stat. 3405, provided that not later than 180 days after the issuance in final form of revisions to the Federal Acquisition Regulation pursuant to section 10002 of Pub. L. 103–355, set out as a note above, the Comptroller General was to submit to Congress a report evaluating compliance with such section.
 
 #### Congressional Statement of Purpose
 
@@ -212,7 +196,7 @@ Pub. L. 91–129, Nov. 26, 1969, 83 Stat. 269, as amended by Pub. L. 92–47, Ju
 
 Ex. Ord. No. 13005, May 21, 1996, 61 F.R. 26069, provided:
 
-In order to promote economy and efficiency in Federal procurement, it is necessary to secure broad-based competition for Federal contracts. This broad competition is best achieved where there is an expansive pool of potential contractors capable of producing quality goods and services at competitive prices. A great and largely untapped opportunity for expanding the pool of such contractors can be found in this Nation's economically distressed communities.
+In order to promote economy and efficiency in Federal procurement, it is necessary to secure broad-based competition for Federal contracts. This broad competition is best achieved where there is an expansive pool of potential contractors capable of producing qualitygoods and services at competitive prices. A great and largely untapped opportunity for expanding the pool of such contractors can be found in this Nation's economically distressed communities.
 
 Fostering growth of Federal contractors in economically distressed communities and ensuring that those contractors become viable businesses for the long term will promote economy and efficiency in Federal procurement and help to empower those communities. Fostering growth of long-term viable contractors will be promoted by offering appropriate incentives to qualified businesses.
 
@@ -276,7 +260,7 @@ Section 1. To the extent permitted by law, any executive agency awarding any con
 
 (a) Require or prohibit bidders, offerors, contractors, or subcontractors to enter into or adhere to agreements with one or more labor organizations, on the same or other related construction project(s); or
 
-(b) Otherwise discriminate against bidders, offerors, contractors, or subcontractors for becoming or refusing to become or remain signatories or otherwise to adhere to agreements with one or more labor organizations, on the same or other related construction project(s).
+(b) Otherwise discriminate against bidders, offerors, contractors, or subcontractors for becoming or refusingto become or remain signatories or otherwise to adhere to agreements with one or more labor organizations, on the same or other related construction project(s).
 
 (c) Nothing in this section shall prohibit contractors or subcontractors from voluntarily entering into agreements described in subsection (a).
 
@@ -290,11 +274,11 @@ Sec. 5. (a) The head of an executive agency may exempt a particular project, con
 
 (b) A finding of “special circumstances” under section 5(a) may not be based on the possibility or presence of a labor dispute concerning the use of contractors or subcontractors who are nonsignatories to, or otherwise do not adhere to, agreements with one or more labor organizations, or concerning employees on the project who are not members of or affiliated with a labor organization.
 
-(c) The head of an executive agency, upon application of an awarding authority, a recipient of grants or financial assistance, a party to a cooperative agreement, or a construction manager acting on behalf of the foregoing, may exempt a particular project from the requirements of any or all of the provisions of sections 1 and 3 of this order, if the agency head finds: (i) that the awarding authority, recipient of grants or financial assistance, party to a cooperative agreement, or construction manager acting on behalf of the foregoing had issued or was a party to, as of the date of this order, bid specifications, project agreements, agreements with one or more labor organizations, or other controlling documents with respect to that particular project, which contained any of the requirements or prohibitions set forth in sections 1(a) or (b) of this order; and (ii) that one or more construction contractssubject to such requirements or prohibitions had been awarded as of the date of this order.
+(c) The head of an executive agency, upon application of an awarding authority, a recipient of grants or financial assistance, a party to a cooperative agreement, or a construction manager acting on behalf of the foregoing, may exempt a particular project from the requirements of any or all of the provisions of sections 1 and 3 of this order, if the agency head finds: (i) that the awarding authority, recipient of grants or financial assistance, party to a cooperative agreement, or construction manager acting on behalf of the foregoing had issued or was a party to, as of the date of this order, bid specifications, project agreements, agreements with one or more labor organizations, or other controlling documents with respect to that particular project, which contained any of the requirements or prohibitions set forth in sections 1(a) or (b) of this order; and (ii) that one or more construction contracts subject to such requirements or prohibitions had been awarded as of the date of this order.
 
 Sec. 6. (a) The term “construction contract” as used in this order means any contract for the construction, rehabilitation, alteration, conversion, extension, or repair of buildings, highways, or other improvements to real property.
 
-(b) The term “executive agency” as used in this order shall have the same meaning it has in 5 U.S.C. 105, excluding the General Accounting Office.
+(b) The term “executive agency” as used in this order shall have the same meaning it has in 5 U.S.C. 105, excluding the General Accounting Office \[now Government Accountability Office\].
 
 (c) The term “labor organization” as used in this order shall have the same meaning it has in 42 U.S.C. 2000e(d).
 

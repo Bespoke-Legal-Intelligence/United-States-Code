@@ -50,7 +50,7 @@ The Secretary is authorized to fix a premium charge for the insurance of mortgag
 
 #### (d) Conclusiveness of insurance contract as to eligibility
 
-Any contract of insurance heretofore or hereafter executed by the Secretary under this subchapter shall be conclusive evidence of the eligibility of the mortgage for insurance, and the validity of any contract of insurance so executedshall be incontestable in the hands of an approved mortgagee from the date of the execution of such contract, except for fraud or misrepresentation on the part of such approved mortgagee.
+Any contract of insurance heretofore or hereafter executed by the Secretary under this subchapter shall be conclusive evidence of the eligibility of the mortgage for insurance, and the validity of any contract of insurance so executed shall be incontestable in the hands of an approved mortgagee from the date of the execution of such contract, except for fraud or misrepresentation on the part of such approved mortgagee.
 
 (June 27, 1934, ch. 847, title VI, §603, as added Mar. 28, 1941, ch. 31, §1, 55 Stat. 56; amended Sept. 2, 1941, ch. 410, 55, Stat. 686; May 26, 1942, ch. 319, §§1–4, 14(b), 56 Stat. 301, 305; Mar. 23, 1943, ch. 21, §1, 57 Stat. 42; Oct. 15, 1943, ch. 259, §1, 57 Stat. 571; June 30, 1944, ch. 334, 58 Stat. 648; Mar. 31, 1945, ch. 48, §1, 59 Stat. 47; May 22, 1946, ch. 268, §10(a)–(d), 60 Stat. 212, 213; June 30, 1947, ch. 163, title I, §2, 61 Stat. 193; Aug. 5, 1947, ch. 495, §1, 61 Stat. 777; Dec. 27, 1947, ch. 525, §1, 61 Stat. 945; Mar. 31, 1948, ch. 165, §1(a)–(c), 62 Stat. 101; Aug. 10, 1948, ch. 832, title I, §101(a), (k)(2), 62 Stat. 1268, 1273; Mar. 30, 1949, ch. 42, title III, §304, 63 Stat. 29; July 15, 1949, ch. 338, title II, §201(3), 63 Stat. 421; Aug. 30, 1949, ch. 524, 63 Stat. 681; Oct. 25, 1949, ch. 729, §1(4), 63 Stat. 905; Apr. 20, 1950, ch. 94, title I, §§119, 122, 64 Stat. 57, 59; Pub. L. 90–19, §1(a)(1), (3), (4), (n), May 25, 1967, 81 Stat. 17, 19.)
 
@@ -123,8 +123,4 @@ Amendment by act July 15, 1949, effective June 30, 1949, see section 202 of that
 #### Inflation Safeguards
 
 Section 2 of act Dec. 27, 1947, provided: “Title VI of the National Housing Act, as amended \[this subchapter\], shall be employed to assist in maintaining a high volume of new residential construction without supporting unnecessary or artificial costs. In estimating necessary current cost for the purposes of said title, the Federal Housing Commissioner shall therefore use every feasible means to assure that such estimates will approximate as closely as possible the actual costs of efficient building operations.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1739, 1743, 1744, 1745 of this title; title 5 sections 551, 701.
 

@@ -2,7 +2,7 @@
 
 #### (a) Criteria; length of continuous service
 
-The Secretary may order a member of the Service (other than a member employed under section 3951 of this title) who is a citizen of the United States to take a leave of absence under section 6305 of title 5 (without regard to the introductory clause of subsection (a) of that section), upon completion by that member of 18 months of continuous service abroad. The Secretary shall order on such a leave of absence a member of the Service (other than a member employed under section 3951 of this title) who is a citizen of the United States as soon as possible after completion by that member of 3 years of continuous service abroad.
+The Secretary may order a member of the Service (other than a member employed under section 3951 of this title) who is a citizen of the United States to take a leave of absence undersection 6305 of title 5 (without regard to the introductory clause of subsection (a) of that section), upon completion by that member of 18 months of continuous service abroad. The Secretary shall order on such a leave of absence a member of the Service (other than a member employed under section 3951 of this title) who is a citizen of the United States as soon as possible after completion by that member of 3 years of continuous service abroad.
 
 #### (b) Place leave may be taken
 
@@ -17,8 +17,4 @@ While on a leave of absence ordered under this section, the services of any memb
 #### Amendments
 
 1994—Subsec. (a). Pub. L. 103–236 inserted “(other than a member employed under section 3951 of this title)” after “member of the Service” in two places.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 1605; title 37 section 431; title 38 section 707.
 

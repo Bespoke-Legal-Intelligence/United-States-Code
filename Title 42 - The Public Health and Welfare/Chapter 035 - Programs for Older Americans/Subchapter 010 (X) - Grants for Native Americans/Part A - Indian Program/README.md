@@ -1,9 +1,5 @@
 Part A—Indian Program
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 3057k–11, 3057<i>l</i>, 3057n of this title.
-
 
 ---
 

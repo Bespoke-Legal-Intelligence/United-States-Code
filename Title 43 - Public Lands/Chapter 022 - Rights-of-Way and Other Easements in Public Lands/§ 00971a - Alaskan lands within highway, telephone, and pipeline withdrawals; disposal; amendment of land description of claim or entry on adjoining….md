@@ -8,7 +8,3 @@ Upon revocation of a withdrawal for highways, telephone lines, or pipelines, in 
 
 This section was formerly classified to section 420 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 971c, 971d, 971e of this title.
-

@@ -1,5 +1,5 @@
 
-13 U.S.C.<br>United States Code, 2003 Edition<br>Title 13 - CENSUS<br>From the U.S. Government Publishing Office, www.gpo.gov
+13 U.S.C.<br>United States Code, 2004 Edition<br>Title 13 - CENSUS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 13—CENSUS
 
@@ -287,10 +287,6 @@ Section 6 of act Aug. 31, 1954, ch. 1158, 68 Stat. 1024, provided that: “The p
 #### Repeals
 
 Section 7 of act Aug. 31, 1954, ch. 1158, 68 Stat. 1024, provided that: “The sections of the Acts, and the Acts or parts of Acts, enumerated in the following schedule,are hereby repealed. Any rights or liabilities now existing under such statutes or parts thereof, and any proceedings instituted under, or growing out of, any of such statutes or parts thereof, shall not be affected by this repeal.”
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 5 sections 552a, 7201; title 7 section 2204g; title 22 section 3142; title 42 section 3013.
 
 
 ---

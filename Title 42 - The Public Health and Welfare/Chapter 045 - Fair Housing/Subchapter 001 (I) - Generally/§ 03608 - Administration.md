@@ -70,7 +70,7 @@ The provisions of law and Executive orders to which subsection (e)(6) of this se
 
 &emsp;(12) any other provision of law which the Secretary specifies by publication in the Federal Register for the purpose of this subsection.
 
-(Pub. L. 90–284, title VIII, §808, Apr. 11, 1968, 82 Stat. 84; Pub. L. 95–251, §3, Mar. 27, 1978, 92 Stat. 184; Pub. L. 95–454, title VIII, §801(a)(3)(J), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 100–430, §7, Sept. 13, 1988, 102 Stat. 1623.)
+(Pub. L. 90–284, title VIII, §808, Apr. 11, 1968, 82 Stat. 84; Pub. L. 95–251, §3, Mar. 27, 1978, 92 Stat. 184; Pub. L. 95–454, title VIII, §801(a)(3)(J), Oct.13, 1978, 92 Stat. 1222; Pub. L. 100–430, §7, Sept. 13, 1988, 102 Stat. 1623.)
 
 #### References in Text
 
@@ -128,7 +128,7 @@ Pub. L. 105–276, title V, §589, Oct. 21, 1998, 112 Stat. 2651, provided that:
 
 “(a)
 
-Establishment of Policy.—Not later than 60 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary of Housing and Urban Development shall publish a notice in the Federal Register for effect that takes effect upon publication and providesthat the specific and unmodified standards provided in the March 20, 1991, Memorandum from the General Counsel of the Department of Housing and Urban Development to all Regional Counsel shall be the policy of the Department of Housing and Urban Development with respect to complaints of discrimination under the Fair Housing Act (42 U.S.C. 3601 et seq.) on the basis of familial status which involve an occupancy standard established by a housing provider.
+Establishment of Policy.—Not later than 60 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary of Housing and Urban Development shall publish a notice in the Federal Register for effect that takes effect upon publication and provides that the specific and unmodified standards provided in the March 20, 1991, Memorandum from the General Counsel of the Department of Housing and Urban Development to all Regional Counsel shall be the policy of the Department of Housing and Urban Development with respect to complaints of discrimination under the Fair Housing Act (42 U.S.C. 3601 et seq.) on the basis of familial status which involve an occupancy standard established by a housing provider.
 
 “(b)
 
@@ -236,7 +236,7 @@ Sec. 6. <i>General Provisions.</i>
 
 (c) Section 102 of Executive Order No. 11063 is revised by deleting the term “Housing and Home Finance Agency” and inserting in lieu thereof the term “Department of Housing and Urban Development.”
 
-6–605. Nothing in this order shall affect any requirement imposed under the Equal Credit Opportunity Act (15 U.S.C. 1691 <i>et seq</i>.), the Home Mortgage DisclosureAct (12 U.S.C. 2801 <i>et seq</i>.) or the Community Reinvestment Act (12 U.S.C. 2901 <i>et seq</i>.).
+6–605. Nothing in this order shall affect any requirement imposed under the Equal Credit Opportunity Act (15 U.S.C. 1691 <i>et seq</i>.), the Home Mortgage Disclosure Act (12 U.S.C. 2801 <i>et seq</i>.) or the Community Reinvestment Act (12 U.S.C. 2901 <i>et seq</i>.).
 
 6–606. Nothing in this order shall limit the authority of the Federal banking agencies to carry out their responsibilities under current law or regulations.
 
@@ -291,8 +291,4 @@ In each of these areas, I direct the Secretary of Housing and Urban Development 
 The Secretary of Housing and Urban Development is authorized and directed to publish this memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3536 of this title.
 

@@ -68,7 +68,3 @@ Any sums allotted under subsection (b) of this section in any fiscal year which 
 
 1975—Subsec. (a)(2). Pub. L. 93–592 substituted “June 30, 1974, and the fiscal year ending June 30, 1975;” for “June 30, 1974;”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1376, 1377 of this title.
-

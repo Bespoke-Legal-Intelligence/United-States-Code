@@ -14,7 +14,3 @@ An individual religious or charitable entity or organization (including but not 
 
 1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390cc of this title.
-

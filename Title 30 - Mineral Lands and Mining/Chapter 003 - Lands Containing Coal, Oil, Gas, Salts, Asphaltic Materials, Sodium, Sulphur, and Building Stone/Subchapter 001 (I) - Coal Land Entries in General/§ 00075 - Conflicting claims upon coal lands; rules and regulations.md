@@ -18,7 +18,3 @@ See also note set out under section 1 of this title.
 
 See note set out under section 71 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 47, 76, 102 of this title.
-

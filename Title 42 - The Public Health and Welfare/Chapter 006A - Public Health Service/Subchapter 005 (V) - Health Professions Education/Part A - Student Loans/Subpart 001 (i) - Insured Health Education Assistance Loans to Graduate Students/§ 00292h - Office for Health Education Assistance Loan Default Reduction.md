@@ -60,7 +60,3 @@ A prior section 709 of act July 1, 1944, was classified to section 292i of this 
 
 &emsp;“(C) a plan for improving the extent of such recoveries during the current fiscal year.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 292i of this title.
-

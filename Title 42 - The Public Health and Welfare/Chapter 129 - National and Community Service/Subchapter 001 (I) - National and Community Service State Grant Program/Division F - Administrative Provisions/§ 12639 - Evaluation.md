@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Corporation shall provide, through grants or contracts, for the continuing evaluation of programs that receive assistance under the national service laws, including evaluations that measure the impact of such programs, to determine—
+The Corporation shall provide, through grants or contracts, for the continuing evaluation ofprograms that receive assistance under the national service laws, including evaluations that measure the impact of such programs, to determine—
 
 &emsp;(1) the effectiveness of various program models in achieving stated goals and the costs associated with such;
 
@@ -72,7 +72,7 @@ The Corporation shall ensure that programs that receive assistance under divisio
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation shall maintain the confidentiality of information acquired under this subsection regarding individual participants.
+&emsp;&emsp;The Corporation shall maintain the confidentiality of information acquired underthis subsection regarding individual participants.
 
 #### (B) Disclosure
 
@@ -172,7 +172,7 @@ Subsec. (f). Pub. L. 102–384, §9(2), inserted “or post-service benefit” a
 
 Subsec. (h)(1). Pub. L. 102–384, §9(3)(A), substituted “this section” for “subsection (g) of this section”.
 
-Subsec. (h)(2). Pub. L. 102–384, §9(3)(B), added par. (2) and struck out former par. (2) which read as follows:“The Commission shall keep information acquired under this section confidential.”
+Subsec. (h)(2). Pub. L. 102–384, §9(3)(B), added par. (2) and struck out former par. (2) which read as follows: “The Commission shall keep information acquired under this section confidential.”
 
 #### Effective Date of 1996 Amendment
 
@@ -185,10 +185,6 @@ Amendment by section 118 of Pub. L. 103–82 effective Oct. 1, 1993, see section
 Amendment by section 203(a)(1)(A) of Pub. L. 103–82 effective Apr. 4, 1994, see section 203(d) of Pub. L. 103–82, set out as a note under section 12651 of this title.
 
 Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see section 406(a) of Pub. L. 103–82, set out as a note under section 5061 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12624, 12651d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Service”.</i>
 

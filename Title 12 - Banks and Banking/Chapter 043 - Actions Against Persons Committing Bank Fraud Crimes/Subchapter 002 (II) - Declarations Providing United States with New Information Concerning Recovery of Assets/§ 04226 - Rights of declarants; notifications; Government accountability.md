@@ -38,9 +38,5 @@ All notices provided to a declarant under this section shall be kept confidentia
 
 Section 4221 of this title, referred to in subsec. (c)(1), was in the original “section 831”, and was translated as reading “section 2576”, meaning section 2576 of Pub. L. 101–647, as the probable intent of Congress, because Pub. L. 101–647 does not contain a section 831.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4223, 4224, 4227, 4228 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -152,7 +152,7 @@ Sponges
 
 &emsp;(24) <sup>1</sup> The term “Marine Fisheries Commission” means the Atlantic States Marine Fisheries Commission, the Gulf States Marine Fisheries Commission, or the Pacific States Marine Fisheries Commission.
 
-&emsp;(25) The term “migratory range” means the maximum area at a given time of the yearwithin which fish of an anadromous species or stock thereof can be expected to be found, as determined on the basis of scale pattern analysis, tagging studies, or other reliable scientific information, except that the term does not include any part of such area which is in the waters of a foreign nation.
+&emsp;(25) The term “migratory range” means the maximum area at a given time of the year within which fish of an anadromous species or stock thereof can be expected to be found, as determined on the basis of scale pattern analysis, tagging studies, or other reliable scientific information, except that the term does not include any part of such area which is in the waters of a foreign nation.
 
 &emsp;(26) The term “national standards” means the national standards for fishery conservation and management set forth in section 1851 of this title.
 
@@ -168,7 +168,7 @@ Sponges
 
 &emsp;(29) The terms “overfishing” and “overfished” mean a rate or level of fishing mortality that jeopardizes the capacity of a fishery to produce the maximum sustainable yield on a continuing basis.
 
-&emsp;(30) The term “Pacific Insular Area” means American Samoa, Guam, the Northern Mariana Islands, Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Island, Wake Island, or Palmyra Atoll, as applicable, and includes all islands and reefs appurtenant to such island, reef, or atoll.
+&emsp;(30) The term “Pacific Insular Area” means American Samoa, Guam, the Northern Mariana Islands, Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Island, Wake Island, or Palmyra Atoll, as applicable, and includes all islandsand reefs appurtenant to such island, reef, or atoll.
 
 &emsp;(31) The term “person” means any individual (whether or not a citizen or national of the United States), any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State), and any Federal, State, local, or foreign government or any entity of any such government.
 
@@ -464,7 +464,7 @@ Pars. (6) to (8). Pub. L. 99–659, §101(a), added par. (6), redesignated forme
 
 #### Effective Date of 1992 Amendment
 
-Section 405(a) of Pub. L. 104–297 provided that: “Notwithstanding section 308 of the Act entitled ‘An Act toprovide for the designation of the Flower Garden Banks National Marine Sanctuary’, approved March 9, 1992 (Public Law 102–251; 106 Stat. 66) \[set out as a note under section 773 of this title\] hereinafter referred to as the ‘FGB Act’, section 301(b) of that Act \[amending this section, see Codification note above\] (adding a definition of the term ‘special areas’) shall take effect on the date of enactment of this Act \[Oct. 11, 1996\].”
+Section 405(a) of Pub. L. 104–297 provided that: “Notwithstanding section 308 of the Act entitled ‘An Act to provide for the designation of the Flower Garden Banks National Marine Sanctuary’, approved March 9, 1992 (Public Law 102–251; 106 Stat. 66) \[set out as a note under section 773 of this title\] hereinafter referred to as the ‘FGB Act’, section 301(b) of that Act \[amending this section, see Codification note above\] (adding a definition of the term ‘special areas’) shall take effect on the date of enactment of this Act \[Oct. 11, 1996\].”
 
 #### Redesignation of Pacific Marine Fisheries Commission as Pacific States Marine Fisheries Commission
 
@@ -489,10 +489,6 @@ References.—Any reference in a law, map, regulation, document, paper, or other
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 917a, 971, 971d, 1371, 1383a, 1387, 1854, 3377, 3601, 5152 of this title; title 10 section 7306b; title 22 sections 1971, 1980; title 46 sections 8103, 8704, 12122; title 46 App. section 1271; title 48 section 1904.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

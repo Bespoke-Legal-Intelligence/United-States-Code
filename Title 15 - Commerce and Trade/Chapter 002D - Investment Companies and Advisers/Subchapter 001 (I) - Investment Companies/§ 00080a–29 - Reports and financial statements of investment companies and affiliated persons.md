@@ -44,7 +44,7 @@ Every registered investment company shall transmit to its stockholders, at least
 
 &emsp;(4) a statement of surplus, which shall be itemized at least with respect to each charge or credit to the surplus account which represents more than 5 per centum of the total charges or credits during the period covered by the report;
 
-&emsp;(5) a statement of the aggregate remuneration paid by the company during the period covered by the report (A) to all directors and to all members of any advisory board for regular compensation; (B) to each director and to each member of an advisory board for special compensation; (C) to all officers; and (D) to each person of whom any officer or director of the company is an affiliated person; and
+&emsp;(5) a statement of the aggregate remuneration paid by the company during the period covered by the report (A) to all directors and to all members of any advisory board for regular compensation; (B) to each director and toeach member of an advisory board for special compensation; (C) to all officers; and (D) to each person of whom any officer or director of the company is an affiliated person; and
 
 &emsp;(6) a statement of the aggregate dollar amounts of purchases and sales of investment securities, other than Government securities, made during the period covered by the report:
 
@@ -66,7 +66,7 @@ Every person who is directly or indirectly the beneficial owner of more than 10 
 
 A person that maintains a church plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title shall provide disclosure to plan participants, in writing, and not less frequently than annually, and for new participants joining such a plan after May 31, 1996, as soon as is practicable after joining such plan, that—
 
-&emsp;(1) the plan, or any company or account maintained to manage or hold plan assets andinterests in such plan, company, or account, are not subject to registration, regulation, or reporting under this subchapter, the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or State securities laws; and
+&emsp;(1) the plan, or any company or account maintained to manage or hold plan assets and interests in such plan, company, or account, are not subject to registration, regulation, or reporting under this subchapter, the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or State securities laws; and
 
 &emsp;(2) plan participants and beneficiaries therefore will not be afforded the protections of those provisions.
 
@@ -107,8 +107,4 @@ Pub. L. 104–290, §206(2), redesignated subsec. (f), relating to duties and li
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–2, 80a–6, 80a–8, 80a–24, 80a–63 of this title.
 

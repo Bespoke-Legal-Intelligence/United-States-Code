@@ -10,7 +10,3 @@ The General Leasing Act of February 25, 1920, referred to in text, probably mean
 
 The Act of Congress approved July 17, 1914, referred to in text, is act July 17, 1914, ch. 142, 38 Stat. 509, as amended, which is classified to sections 121 to 123 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 125 of this title.
-

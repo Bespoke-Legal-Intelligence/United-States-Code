@@ -160,13 +160,9 @@ In general.—Except as provided in this subsection, the amendments made by this
 
 “(2)
 
-Federal health program.—The amendments made by subsection (c) \[amending section 1320a–7 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].
+Federal health program.—The amendments made by subsection (c) \[amending section 1320a–7 ofthis title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].
 
 “(3)
 
 Sanction for failure to report.—The amendment made by subsection (d) \[amending this section\] shall apply to failures occurring on or after the date of the enactment of this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1320a–7c of this title.
 

@@ -44,7 +44,7 @@ The requirements described in this subsection are as follows:
 
 > &emsp;whose deaths occur in the line of duty and arise out of terrorist attacks, military operations, intelligence operations, or law enforcement operations or accidents connected with activities occurring after September 11, 2001, and related to domestic or foreign efforts to curb international terrorism, including the Authorization for Use of Military Force (Public Law 107–40; 115 Stat. 224).
 
-&emsp;(2) Other than funds or donations reasonably necessary to establish a trust, not more than 15 percent of all funds or donations (or 15 percent of annual earnings on funds invested in a private foundation) may be used for administrative purposes.
+&emsp;(2) Other than funds or donations reasonably necessary to establish a trust, not more than15 percent of all funds or donations (or 15 percent of annual earnings on funds invested in a private foundation) may be used for administrative purposes.
 
 &emsp;(3) No part of the net earnings of any Johnny Micheal Spann Patriot Trust may inure to the benefit of any individual based solely on the position of such individual as a shareholder, an officer or employee of such Trust.
 
@@ -79,4 +79,8 @@ Not later than 90 days after November 25, 2002, the Secretary of Defense, in coo
 #### References in Text
 
 The Authorization for Use of Military Force, referred to in subsec. (c)(1), is Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, which is set out as a note under section 1541 of Title 50, War and National Defense.
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 

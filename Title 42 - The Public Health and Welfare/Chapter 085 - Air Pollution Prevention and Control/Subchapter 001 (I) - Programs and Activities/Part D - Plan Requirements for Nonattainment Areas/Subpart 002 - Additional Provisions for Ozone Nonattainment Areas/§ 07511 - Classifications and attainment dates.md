@@ -36,7 +36,7 @@ TABLE 1
 
 #### (1) New designations to nonattainment
 
-&emsp;Any area that is designated attainment or unclassifiable for ozone under section 7407(d)(4) of this title, and that is subsequently redesignated to nonattainment for ozone under section 7407(d)(3) of this title, shall, at the time of the redesignation, be classified by operation of law in accordance with table 1 under subsection (a) of this section. Upon its classification, the area shall be subject to the same requirements under section 7410 of this title, subpart 1 of this part, and this subpart that would have applied had the area been so classified at the time of the notice under subsection (a)(3) of this section, except that any absolute, fixed date applicable in connection with any such requirement is extended by operation of law by a period equal to the length of time between November 15, 1990, and the date the area is classified under this paragraph.
+&emsp;Any area that is designated attainment or unclassifiable for ozone under section 7407(d)(4) of this title, and that is subsequentlyredesignated to nonattainment for ozone under section 7407(d)(3) of this title, shall, at the time of the redesignation, be classified by operation of law in accordance with table 1 under subsection (a) of this section. Upon its classification, the area shall be subject to the same requirements under section 7410 of this title, subpart 1 of this part, and this subpart that would have applied had the area been so classified at the time of the notice under subsection (a)(3) of this section, except that any absolute, fixed date applicable in connection with any such requirement is extended by operation of law by a period equal to the length of time between November 15, 1990, and the date the area is classified under this paragraph.
 
 #### (2) Reclassification upon failure to attain
 
@@ -44,7 +44,7 @@ TABLE 1
 
 &emsp;&emsp;(i) the next higher classification for the area, or
 
-&emsp;&emsp;(ii) the classification applicable to the area's design value as determined at thetime of the notice required under subparagraph (B).
+&emsp;&emsp;(ii) the classification applicable to the area's design value as determined at the time of the notice required under subparagraph (B).
 
 > No area shall be reclassified as Extreme under clause (ii).
 
@@ -76,15 +76,11 @@ TABLE 1
 
 Section 819 of Pub. L. 101–549 provided that: “Notwithstanding any other provision of law, the amendments to the Clean Air Act made by section 103 of the Clean Air Act Amendments of 1990 \[enacting this section and sections 7511a to 7511f of this title\] (relating to additional provisions for ozone nonattainment areas), by section 104 of such amendments \[enacting sections 7512 and 7512a of this title\] (relating to additional provisions for carbon monoxide nonattainment areas), by section 105 of such amendments \[enacting sections 7513 to 7513b of this title and amending section 7476 of this title\] (relating to additional provisions for PM–10 nonattainment areas), and by section 106 of such amendments \[enacting sections 7514 and 7514a of this title\] (relating to additional provisions for areas designated as nonattainment for sulfur oxides, nitrogen dioxide, and lead) shall not apply with respect to the production of and equipment used in the exploration, production, development, storage or processing of—
 
-&emsp;“(1) oil from a stripper well property, within the meaning of the June 1979 energy regulations (within the meaning of section 4996(b)(7) of the Internal Revenue Code of 1986 \[26 U.S.C. 4996(b)(7)\], as in effect before the repeal of such section); and
+&emsp;“(1) oil from a stripper well property, within the meaning of the June 1979 energy regulations (withinthe meaning of section 4996(b)(7) of the Internal Revenue Code of 1986 \[26 U.S.C. 4996(b)(7)\], as in effect before the repeal of such section); and
 
 &emsp;“(2) stripper well natural gas, as defined in section 108(b) of the Natural Gas Policy Act of 1978 (15 U.S.C. 3318(b)).\[,\]
 
 > except to the extent that provisions of such amendments cover areas designated as Serious pursuant to part D of title I of the Clean Air Act \[this part\] and having a population of 350,000 or more, or areas designated as Severe or Extreme pursuant to such part D.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7509a, 7511a, 7511b, 7511d, 7521, 7545, 7607 of this title; title 23 section 149.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “terms”.</i>
 

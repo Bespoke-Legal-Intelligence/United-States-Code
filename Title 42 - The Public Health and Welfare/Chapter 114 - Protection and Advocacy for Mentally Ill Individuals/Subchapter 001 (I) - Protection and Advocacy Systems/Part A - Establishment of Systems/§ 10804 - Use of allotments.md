@@ -8,7 +8,7 @@
 
 &emsp;(B) such an agency or organization shall have the capacity to protect and advocate the rights of individuals with mental illness.
 
-(2) In carrying out paragraph (1), an eligible system should consider entering into contractswith organizations including, in particular, groups run by individuals who have received or are receiving mental health services, or the family members of such individuals, which,<sup>1</sup> provide protection or advocacy services to individuals with mental illness.
+(2) In carrying out paragraph (1), an eligible system should consider entering into contracts with organizations including, in particular, groups run by individuals who have received or are receiving mental health services, or the family members of such individuals, which,<sup>1</sup> provide protection or advocacy services to individuals with mental illness.
 
 #### (b) Obligation of allotments; technical assistance and training
 
@@ -37,10 +37,6 @@ Subsec. (c). Pub. L. 102–173, §5, added subsec. (c).
 1988—Subsec. (a)(2). Pub. L. 100–509, §7(a), substituted “including, in particular, groups run by individuals who have received or are receiving mental health services, or the family members of such individuals, which” for “which, on May 23, 1986”.
 
 Subsec. (b)(2). Pub. L. 100–509, §7(b)(1), substituted “10” for “5”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10802, 10807, 10821 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

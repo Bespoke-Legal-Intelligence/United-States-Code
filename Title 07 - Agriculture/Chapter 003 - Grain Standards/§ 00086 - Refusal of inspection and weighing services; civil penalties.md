@@ -18,7 +18,7 @@ Before official inspection or services related to weighing is refused to any per
 
 #### (e) Collection and disposition of civil penalties
 
-Moneys received in payment of such civil penalties shall be deposited in the general fund of the United States Treasury. Upon any failure to pay the penalties assessed under this section, the Secretary may request the Attorney General of the United States to institute a civil action to collect the penalties in the appropriate court identified in subsection (h) of section 87f of this title for the jurisdiction in which the respondent is found or resides or transacts business, and such court shall have jurisdiction to hear and decide any such action.
+Moneys received in payment of such civil penalties shall be deposited in the general fund ofthe United States Treasury. Upon any failure to pay the penalties assessed under this section, the Secretary may request the Attorney General of the United States to institute a civil action to collect the penalties in the appropriate court identified in subsection (h) of section 87f of this title for the jurisdiction in which the respondent is found or resides or transacts business, and such court shall have jurisdiction to hear and decide any such action.
 
 (Aug. 11, 1916, ch. 313, pt. B, §10, 39 Stat. 485; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 765; Pub. L. 94–582, §12, Oct. 21, 1976, 90 Stat. 2879; Pub. L. 103–156, §12(i), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
@@ -32,7 +32,7 @@ Subsec. (a). Pub. L. 103–156, §12(i)(1), substituted “the Administrator” 
 
 Subsec. (b). Pub. L. 103–156, §12(i)(2), substituted “the person” for “he”.
 
-1976—Subsec. (a). Pub. L. 94–582 substituted “Administrator” for “Secretary”, “grain offered for such services” for “grain offered for inspection”, “has knowingly committed any violation of section 87b of this title or has been convicted of any violation of otherFederal law with respect to the handling, weighing, or official inspection of grain, or that official inspection or the services related to weighing have been refused” for “has been convicted of any violation of section 87b of this title, or that official inspection has been refused”, and “integrity of the service” for “integrity of the official inspection service”, and authorized refusal of provision of services relating to weighing.
+1976—Subsec. (a). Pub. L. 94–582 substituted “Administrator” for “Secretary”, “grain offered for such services” for “grain offered for inspection”, “has knowingly committed any violation of section 87b of this title or has been convicted of any violation of other Federal law with respect to the handling, weighing, or official inspection of grain, or that official inspection or the services related to weighing have been refused” for “has been convicted of any violation of section 87b of this title, or that official inspection has been refused”, and “integrity of the service” for “integrity of the official inspection service”, and authorized refusal of provision of services relating to weighing.
 
 Subsec. (c). Pub. L. 94–582 added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -49,8 +49,4 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 #### Effective Date of 1968 Amendment
 
 For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90–487, set out as a note under section 78 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 79, 79a, 87c of this title.
 

@@ -556,7 +556,6 @@ Community organizations and agencies.
 |  |  |
 | :--- | ---: |
 | [3030n.](Subchapter%20003%20%28III%29%20-%20Grants%20for%20State%20and%20Community%20Programs%20on%20Aging/Part%20D%20-%20Disease%20Prevention%20and%20Health%20Promotion%20Services/%C2%A7%2003030n%20-%20Distribution%20to%20area%20agencies%20on%20aging.md) | Distribution to area agencies on aging. |
-| 3030<i>o</i> to 3030r. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1498,10 +1497,6 @@ Access.
 (b)
 
 Limitation.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1395b–4, 1760, 4913, 8004, 11292, 11701, 14404, 15025, 15043 of this title; title 7 sections 1431, 1431e, 7501; title 20 section 7512; title 29 sections 794e, 2942.
 
 
 ---

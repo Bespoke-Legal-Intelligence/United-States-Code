@@ -18,7 +18,3 @@ Historical and Revision Notes
 
 The section is included to avoid the necessity for defining “agency” each time it is used in the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3332 of this title.
-

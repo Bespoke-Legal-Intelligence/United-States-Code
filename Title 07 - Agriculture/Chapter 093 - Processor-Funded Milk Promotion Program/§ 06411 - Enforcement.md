@@ -72,7 +72,3 @@ The remedies provided in this chapter shall be in addition to, and not exclusive
 
 1991—Subsec. (b). Pub. L. 102–237 substituted “this section” for “this subsection” after “brought under”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6402, 6412 of this title.
-

@@ -22,9 +22,5 @@ The use of the seal described in section 179m(a)(3) of this title shall be effec
 
 #### Termination of Section
 
-<i>For termination of section, see section 179w of this title.</i>
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 179<i>l</i>, 179r, 179s, 179t, 179u, 179v, 179w of this title.
+<i>For termination of section, see section 179w of this title and section 1205(a) of Pub. L. 108–447, set out as an Effective Date Extension note under section 179w of this title.</i>
 

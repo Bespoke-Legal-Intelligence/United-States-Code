@@ -36,19 +36,15 @@
 
 #### (1) In general
 
-&emsp;Each recipient shall supplement a grant provided under this part with an equal amount of funds from sources other than this part. Each recipient shall certify to the Secretary that it has complied with this paragraph, and shall include with the certification a description of the sources and amounts of such supplemental funds.
+&emsp;Each recipient shall supplement a grant provided under this part with an equal amount of funds from sources other than this part. Each recipient shall certify to the Secretary that ithas complied with this paragraph, and shall include with the certification a description of the sources and amounts of such supplemental funds.
 
 #### (2) Calculation of amounts
 
-&emsp;In calculating the amount of supplemental funds required under paragraph (1), a recipientmay include any funds derived from another source, the value of any lease on a building, any salary paid to staff to carry out the program of the recipient, and the value of the time and services contributed by volunteers, at a rate determined by the Secretary, to carry out the program of the recipient.
+&emsp;In calculating the amount of supplemental funds required under paragraph (1), a recipient may include any funds derived from another source, the value of any lease on a building, any salary paid to staff to carry out the program of the recipient, and the value of the time and services contributed by volunteers, at a rate determined by the Secretary, to carry out the program of the recipient.
 
 (Pub. L. 100–77, title IV, §433, as added Pub. L. 102–550, title XIV, §1404, Oct. 28, 1992, 106 Stat. 4024.)
 
 #### Prior Provisions
 
 A prior section 11393, Pub. L. 100–77, title IV, §433, July 22, 1987, 101 Stat. 507, related to establishment of regulations for program to provide supplemental assistance for facilities to assist the homeless, prior to repeal by Pub. L. 102–550, §1403(a).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11394 of this title.
 

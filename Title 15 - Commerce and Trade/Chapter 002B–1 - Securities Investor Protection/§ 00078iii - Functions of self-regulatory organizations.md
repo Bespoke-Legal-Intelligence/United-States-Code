@@ -2,7 +2,7 @@
 
 #### (a) Collection agent
 
-Each self-regulatory organization shall act as collection agent for SIPC to collect the assessments payable by all members of SIPC for whom such self-regulatory organization is the examining authority, unless SIPC designates a self-regulatory organization other than the examining authority to act as collection agent for any member of SIPC who is a member of or participant in more than one self-regulatory organization. If the only self-regulatory organization of which a member of SIPC is a member or in which it is a participant is a registered clearing agency that is not the examining authority for the member, SIPC may, nevertheless, designate such registered clearing agency as collection agent for the member or may require that payments be made directly to SIPC. The collection agent shall be obligated to remit to SIPC assessments made under section 78ddd of this title only to the extent that payments of such assessment are received by such collection agent. Members of SIPC who are not members of or participants in a self-regulatory organization shall make payments directly to SIPC.
+Each self-regulatory organization shall act as collection agent for SIPC to collect the assessments payable by all members of SIPC for whom such self-regulatory organization is the examining authority, unless SIPC designates a self-regulatory organization other than the examining authority to act as collection agent for any member of SIPC who is a member of or participant in more than one self-regulatory organization. If the only self-regulatory organization of which a member of SIPC is a member or in which it is a participant is a registered clearing agency that is not the examining authority for the member, SIPC may, nevertheless, designate such registered clearing agency as collection agent for the member or may require that payments be made directly to SIPC. The collection agent shall be obligated to remit to SIPC assessments made under section 78ddd of this title only to the extent that payments of such assessment are received by such collection agent. Members of SIPC who are not members of orparticipants in a self-regulatory organization shall make payments directly to SIPC.
 
 #### (b) Immunity
 
@@ -46,7 +46,7 @@ This chapter, referred to in subsec. (f), was in the original “this Act”, me
 
 Subsec. (b). Pub. L. 95–283, §12(b), inserted reference to section 78eee(a)(2) of this title.
 
-Subsec. (c). Pub. L. 95–283, §12(c), revised existing format and provisions into introductory text and cl. (2) and, as so revised, in introductory text inserted provisions respecting participation by a member of SIPC ina self-regulatory organization and in cl. (2) inserted provisions respecting such participation and authorization for the Commission to designate itself as responsible for the statutory examination, and added cl. (1).
+Subsec. (c). Pub. L. 95–283, §12(c), revised existing format and provisions into introductory text and cl. (2) and, as so revised, in introductory text inserted provisions respecting participation by a member of SIPC in a self-regulatory organization and in cl. (2) inserted provisions respecting such participation and authorization for the Commission to designate itself as responsible for the statutory examination, and added cl. (1).
 
 Subsec. (f). Pub. L. 95–283, §12(d), substituted provisions authorizing the Commission to set out rules requiring self-regulatory organizations to furnish SIPC with reports and records of members or participants in such self-regulatory organizations, for provisions authorizing the Commission to set out rules, and regulations requiring self-regulatory organizations to adopt rules, practices, and procedures respecting inspections and examinations of members and examiners, to furnish SIPC and the Commission with reports and records of members, and to inspect or examine members.
 
@@ -55,8 +55,4 @@ Subsec. (f). Pub. L. 95–283, §12(d), substituted provisions authorizing the C
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78ddd, 78ggg, 78hhh, 78<i>lll</i> of this title.
 

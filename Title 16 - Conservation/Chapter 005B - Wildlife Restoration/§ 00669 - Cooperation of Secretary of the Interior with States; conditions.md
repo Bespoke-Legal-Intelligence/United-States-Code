@@ -16,7 +16,7 @@ Pub. L. 106–408, title I, §101(a), Nov. 1, 2000, 114 Stat. 1763, provided tha
 
 #### Short Title of 1970 Amendment
 
-Section 103 of title I of Pub. L. 91–503 provided that: “This title \[amending section 669b and sections 669c to669g–1 of this title\] may be cited as the ‘Federal Aid in Wildlife Restoration Act Amendments of 1970’.”
+Section 103 of title I of Pub. L. 91–503 provided that: “This title \[amending section 669b and sections 669c to 669g–1 of this title\] may be cited as the ‘Federal Aid in Wildlife Restoration Act Amendments of 1970’.”
 
 #### Short Title
 

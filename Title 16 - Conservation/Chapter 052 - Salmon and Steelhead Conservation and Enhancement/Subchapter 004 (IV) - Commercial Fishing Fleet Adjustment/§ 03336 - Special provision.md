@@ -4,7 +4,3 @@ On the date the Secretary approves the program under section 3333 of this title,
 
 (Pub. L. 96–561, title I, §135, Dec. 22, 1980, 94 Stat. 3285.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3323 of this title.
-

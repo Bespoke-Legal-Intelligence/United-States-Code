@@ -54,7 +54,7 @@ Amounts in the accounts of the revolving fund under this section shall be availa
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a)(4). Pub. L. 107–68 added par. (4).
+2001—Subsec. (a)(4). Pub. L. 107–68 added par. (4).
 
 #### Effective Date of 2001 Amendment
 

@@ -12,7 +12,3 @@ It shall be unlawful for any registered management company to lend money or prop
 
 1987—Subsec. (b). Pub. L. 100–181 struck out “to the extension or renewal of any such loan made prior to March 15, 1940, or” after “shall not apply”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–6, 80a–17, 80a–56, 80a–61 of this title.
-

@@ -22,7 +22,3 @@ Pub. L. 86–527, §2, June 27, 1960, 74 Stat. 223.
 
 The words “The Congress hereby declares that” are omitted as obsolete. The words “at the seat of said Government” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8303, 8304 of this title.
-

@@ -20,7 +20,3 @@ Notwithstanding any provision of chapter 84 of title 5, the annuity under subcha
 
 A prior section 303 of Pub. L. 88–643, as added Pub. L. 99–335, title V, §506, June 6, 1986, 100 Stat. 626, related to special rules for other employees for service abroad and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 403r–1 of this title; title 10 section 1605; title 22 section 4071d.
-

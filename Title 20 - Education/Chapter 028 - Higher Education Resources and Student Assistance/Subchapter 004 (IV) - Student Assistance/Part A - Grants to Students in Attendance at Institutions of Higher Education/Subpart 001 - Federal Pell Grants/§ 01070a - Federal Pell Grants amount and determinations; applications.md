@@ -4,13 +4,13 @@
 
 (1) For each fiscal year through fiscal year 2004, the Secretary shall pay to each eligible institution such sums as may be necessary to pay to each eligible student (defined in accordance with section 1091 of this title) for each academic year during which that student is in attendance at an institution of higher education, as an undergraduate, a Federal Pell Grant in the amount for which that student is eligible, as determined pursuant to subsection (b) of this section. Not less than 85 percent of such sums shall be advanced to eligible institutions prior to the start of each payment period and shall be based upon an amount requested by the institution as needed to pay eligible students until such time as the Secretary determines and publishes in the Federal Register with an opportunity for comment, an alternative payment system that provides payments to institutions in an accurate and timely manner,,<sup>1</sup> except that this sentence shall not be construed to limit the authority of the Secretary to place an institution on a reimbursement system of payment.
 
-(2) Nothing in this section shall be interpreted to prohibit the Secretary from paying directlyto students, in advance of the beginning of the academic term, an amount for which they are eligible, in cases where the eligible institution elects not to participate in the disbursement system required by paragraph (1).
+(2) Nothing in this section shall be interpreted to prohibit the Secretary from paying directly to students, in advance of the beginning of the academic term, an amount for which they are eligible, in cases where the eligible institution elects not to participate in the disbursement system required by paragraph (1).
 
 (3) Grants made under this subpart shall be known as “Federal Pell Grants”.
 
 #### (b) Purpose and amount of grants
 
-(1) The purpose of this subpart is to provide a Federal Pell Grant that in combination with reasonable family and student contribution and supplemented by the programs authorized under subparts 3 and 4 of this part, will meet at least 75 percent of a student's cost of attendance (as defined in section 1087<i>ll</i> of this title), unless the institution determines that a greater amount of assistance would better serve the purposes of section 1070 <sup>2</sup> of this title.
+(1) The purpose of this subpart is to provide a Federal Pell Grant that in combination with reasonable family and student contribution and supplemented by the programs authorized under subparts 3 and 4 of this part, will meet at least 75 percent of a student's cost of attendance (as defined in section 1087<i>ll</i> of this title), unless the institution determines that a greater amount ofassistance would better serve the purposes of section 1070 <sup>2</sup> of this title.
 
 (2)(A) The amount of the Federal Pell Grant for a student eligible under this part shall be—
 
@@ -106,7 +106,7 @@ If, for any fiscal year, the funds appropriated for payments under this subpart 
 
 (1) If, at the end of a fiscal year, the funds available for making payments under this subpart exceed the amount necessary to make the payments required under this subpart to eligible students by 15 percent or less, then all of the excess funds shall remain available for making payments under this subpart during the next succeeding fiscal year.
 
-(2) If, at the end of a fiscal year, the funds available for making payments under this subpart exceed the amount necessary to make the payments required under this subpart to eligible students by more than 15 percent, then all of such funds shall remain available for making such payments but payments may be madeunder this paragraph only with respect to entitlements for that fiscal year.
+(2) If, at the end of a fiscal year, the funds available for making payments under this subpart exceed the amount necessary to make the payments required under this subpart to eligible students by more than 15 percent, then all of such funds shall remain available for making such payments but payments may be made under this paragraph only with respect to entitlements for that fiscal year.
 
 #### (i) Treatment of institutions and students under other laws
 
@@ -276,11 +276,15 @@ Subsec. (g). Pub. L. 102–325, §401(g), struck out “Adjustments for” befor
 
 &emsp;“(B) a percentage of that entitlement, as determined in accordance with a schedule of reductions established by the Secretary for this purpose, for any student whose expected family contribution is more than $200.
 
-“(2) Any schedule established by the Secretary for the purpose of paragraph (1)(B) of this subsection shallcontain a single linear reduction formula in which the percentage reduction increases uniformly as the entitlement decreases, and shall provide that if an entitlement is reduced to less than $100, no payment shall be made.”
+“(2) Any schedule established by the Secretary for the purpose of paragraph (1)(B) of this subsection shall contain a single linear reduction formula in which the percentage reduction increases uniformly as the entitlement decreases, and shall provide that if an entitlement is reduced to less than $100, no payment shall be made.”
 
 Subsec. (i). Pub. L. 102–325, §401(h), substituted “Treatment of institutions and students under other laws” for “Noncontractor status of institutions” in heading and inserted at end of text “Recipients of Pell Grants shall not be considered to be individual grantees for purposes of part D of title V of Public Law 100–690.”
 
 1987—Subsec. (g)(2). Pub. L. 100–50 substituted “paragraph (1)(B)” for “paragraph (1)”.
+
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1998 Amendment
 
@@ -326,6 +330,10 @@ Section 1306 of Pub. L. 99–498 directed Secretary to conduct a study and repor
 
 Provisions limiting the maximum Pell grant that a student may receive were contained in the following appropriation acts:
 
+Pub. L. 108–447, div. F, title III, Dec. 8, 2004, 118 Stat. 3148.
+
+Pub. L. 108–199, div. E, title III, Jan. 23, 2004, 118 Stat. 261.
+
 Pub. L. 108–7, div. G, title III, Feb. 20, 2003, 117 Stat. 330.
 
 Pub. L. 107–116, title III, Jan. 10, 2002, 115 Stat. 2205.
@@ -359,10 +367,6 @@ Pub. L. 101–166, title III, Nov. 21, 1989, 103 Stat. 1182.
 Pub. L. 100–436, title III, Sept. 20, 1988, 102 Stat. 1704.
 
 Pub. L. 100–202, §101(h) \[title III\], Dec. 22, 1987, 101 Stat. 1329–256, 1329–279.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1070a–25, 1090 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

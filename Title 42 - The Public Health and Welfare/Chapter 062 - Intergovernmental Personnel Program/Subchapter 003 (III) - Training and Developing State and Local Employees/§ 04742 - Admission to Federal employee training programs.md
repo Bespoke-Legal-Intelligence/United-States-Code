@@ -6,7 +6,7 @@ In accordance with such conditions as may be prescribed by the head of the Feder
 
 #### (b) Waiver of payments for training costs
 
-Federal agencies may waive, in whole or in part, payments from, or on behalf of, State and local governments for the costs of training provided under this section. Payments received by the Federal agency concerned for training under this section shall be credited to the appropriation or fund used for paying the training costs.
+Federal agencies may waive, in whole or in part, payments from, or on behalf of, State and local governments for the costs of training provided under this section. Payments received by the Federal agency concerned for training underthis section shall be credited to the appropriation or fund used for paying the training costs.
 
 #### (c) Initial costs; reimbursement of other Federal agencies
 

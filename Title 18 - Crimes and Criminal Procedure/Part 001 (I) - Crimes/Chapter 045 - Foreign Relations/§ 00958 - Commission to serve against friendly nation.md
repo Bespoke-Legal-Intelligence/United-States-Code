@@ -1,6 +1,6 @@
 ### §958. Commission to serve against friendly nation
 
-Any citizen of the United States who, within the jurisdiction thereof, accepts and exercises a commission to serve a foreign prince, state, colony, district, or people, in war, against any prince, state, colony, district, or people, with whom the United States is at peace, shall be fined under this title or imprisoned not more than three years, or both.
+Any citizen of the United States who, within the jurisdiction thereof, accepts and exercises acommission to serve a foreign prince, state, colony, district, or people, in war, against any prince, state, colony, district, or people, with whom the United States is at peace, shall be fined under this title or imprisoned not more than three years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 745; Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -15,8 +15,4 @@ Minor changes in phraseology were made.
 #### Amendments
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 461.
 

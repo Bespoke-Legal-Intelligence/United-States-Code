@@ -28,9 +28,5 @@ For purposes of this chapter—
 
 #### Effective Date of 1956 Amendment
 
-Amendment by act July 2, 1956, as applicable only with respect to fiscal years beginning after July 2, 1956,see section 5 of act July 2, 1956, set out as a note under section 669a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 777k of this title.
+Amendment by act July 2, 1956, as applicable only with respect to fiscal years beginning after July 2, 1956, see section 5 of act July 2, 1956, set out as a note under section 669a of this title.
 

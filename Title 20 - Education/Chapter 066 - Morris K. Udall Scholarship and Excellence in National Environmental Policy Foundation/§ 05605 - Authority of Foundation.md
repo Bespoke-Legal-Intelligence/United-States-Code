@@ -88,7 +88,3 @@ Subsec. (a)(6). Pub. L. 105–156, §9(b), substituted “Trust Fund” for “F
 
 Subsec. (a)(7). Pub. L. 105–156, §5(2), inserted “and Training” after “Conflict Resolution”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5602 of this title.
-

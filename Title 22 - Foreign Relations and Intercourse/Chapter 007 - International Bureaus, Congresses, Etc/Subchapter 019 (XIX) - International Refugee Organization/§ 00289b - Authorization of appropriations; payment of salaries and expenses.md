@@ -30,7 +30,3 @@ In subsec. (b)(1), “chapter 51 and subchapter III of chapter 53 of title 5” 
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 289c of this title.
-

@@ -12,7 +12,3 @@ It shall be lawful for the authorities of any State having troops engaged in the
 
 Transfer of administrative functions of park, see note set out under section 428 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 428e, 428k of this title.
-

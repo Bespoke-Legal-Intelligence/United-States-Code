@@ -46,7 +46,3 @@ Subsec. (b). Pub. L. 99–91, §§2(2), 3(a)(3)(E)–(K), struck out “and if a
 
 Amendment by Pub. L. 99–91 effective Aug. 15, 1985, see section 8(b) of Pub. L. 99–91, set out as a note under section 360aa of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 355, 355a of this title.
-

@@ -166,7 +166,3 @@ The Toxic Substances Control Act, referred to in subsec. (c)(4), is Pub. L. 94�
 
 The Safe Drinking Water Act, referred to in subsec. (c)(5), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9601 of this title.
-

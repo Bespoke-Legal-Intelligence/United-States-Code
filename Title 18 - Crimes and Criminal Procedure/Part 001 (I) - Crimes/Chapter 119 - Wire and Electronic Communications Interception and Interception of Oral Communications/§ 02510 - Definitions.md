@@ -94,7 +94,7 @@ As used in this chapter—
 
 &emsp;&emsp;(A) means a person who accesses a protected computer without authorization and thus has no reasonable expectation of privacy in any communication transmitted to, through, or from the protected computer; and
 
-&emsp;&emsp;(B) does not include a person known by the owner or operator of the protected computer to have an existing contractual relationship with the owner or operator of the protected computer for access to all or part of the protected computer.
+&emsp;&emsp;(B) does not include a person known by the owner or operator of the protected computerto have an existing contractual relationship with the owner or operator of the protected computer for access to all or part of the protected computer.
 
 (Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 212; amended Pub. L. 99–508, title I, §101(a), (c)(1)(A), (4), Oct. 21, 1986, 100 Stat. 1848, 1851; Pub. L. 103–414, title II, §§202(a), 203, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–132, title VII, §731, Apr. 24, 1996, 110 Stat. 1303; Pub. L. 107–56, title II, §§203(b)(2), 209(1), 217(1), Oct. 26, 2001, 115 Stat. 280, 283, 290; Pub. L. 107–108, title III, §314(b), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 107–273, div. B, title IV, §4002(e)(10), Nov. 2, 2002, 116 Stat. 1810.)
 
@@ -208,7 +208,7 @@ Section 801 of Pub. L. 90–351 provided that: “On the basis of its own invest
 
 “(a) Wire communications are normally conducted through the use of facilities which form part of an interstate network. The same facilities are used for interstate and intrastate communications. There has been extensive wiretapping carried on without legal sanctions, and without the consent of any of the parties to the conversation. Electronic, mechanical, and other intercepting devices are being used to overhear oral conversations made in private, without the consent of any of the parties to such communications. The contents of these communications and evidence derived therefrom are being used by public and private parties as evidence in court and administrative proceedings, and by persons whose activities affect interstate commerce. The possession, manufacture, distribution, advertising, and use of these devices are facilitated by interstate commerce.
 
-“(b) In order to protect effectively the privacy of wire and oral communications, to protect the integrity of court and administrative proceedings, and to prevent the obstruction of interstate commerce, it is necessary for Congress to define on a uniform basis the circumstances and conditions under which the interception ofwire and oral communications may be authorized, to prohibit any unauthorized interception of such communications, and the use of the contents thereof in evidence in courts and administrative proceedings.
+“(b) In order to protect effectively the privacy of wire and oral communications, to protect the integrity of court and administrative proceedings, and to prevent the obstruction of interstate commerce, it is necessary for Congress to define on a uniform basis the circumstances and conditions under which the interception of wire and oral communications may be authorized, to prohibit any unauthorized interception of such communications, and the use of the contents thereof in evidence in courts and administrative proceedings.
 
 “(c) Organized criminals make extensive use of wire and oral communications in their criminal activities. The interception of such communications to obtain evidence of the commission of crimes or to prevent their commission is an indispensable aid to law enforcement and the administration of justice.
 
@@ -217,10 +217,6 @@ Section 801 of Pub. L. 90–351 provided that: “On the basis of its own invest
 #### National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance
 
 Section 804 of Pub. L. 90–351, as amended by Pub. L. 91–452, title XII, §1212, Oct. 15, 1970, 84 Stat. 961; Pub. L. 91–644, title VI, §20, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 93–609, §§1–4, Jan. 2, 1975, 88 Stat. 1972, 1973; Pub. L. 94–176, Dec. 23, 1975, 89 Stat. 1031, established a National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance, provided for its membership, Chairman, powers and functions, compensation and allowances, required the Commission to study and review the operation of the provisions of this chapter to determine their effectiveness and to submit interim reports and a final report to the President and to the Congress of its findings and recommendations on or before Apr. 30, 1976, and also provided for its termination sixty days after submission of the final report.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2517, 2711, 3103a, 3127, 3504 of this title; title 15 section 1114; title 27 section 122b; title 42 section 13032; title 47 section 1001.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

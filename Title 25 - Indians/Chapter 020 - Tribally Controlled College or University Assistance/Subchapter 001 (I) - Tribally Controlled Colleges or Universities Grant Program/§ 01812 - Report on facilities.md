@@ -66,9 +66,5 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as an Effective Date note under section 3423a of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1810, 1813 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

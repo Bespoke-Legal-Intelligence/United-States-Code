@@ -1,6 +1,6 @@
 ### §4362. Interagency cooperation on prevention of environmental cancer and heart and lung disease
 
-(a) Not later than three months after August 7, 1977, there shall be established a Task Force on Environmental Cancer and Heart and Lung Disease (hereinafter referred to as the “Task Force”). The Task Force shall include representatives of the Environmental Protection Agency, the National Cancer Institute, the National Heart, Lung, and Blood Institute, the NationalInstitute of Occupational Safety and Health, and the National Institute on Environmental Health Sciences, and shall be chaired by the Administrator (or his delegate).
+(a) Not later than three months after August 7, 1977, there shall be established a Task Force on Environmental Cancer and Heart and Lung Disease (hereinafter referred to as the “Task Force”). The Task Force shall include representatives of the Environmental Protection Agency, the National Cancer Institute, the National Heart, Lung, and Blood Institute, the National Institute of Occupational Safety and Health, and the National Institute on Environmental Health Sciences, and shall be chaired by the Administrator (or his delegate).
 
 (b) The Task Force shall—
 
@@ -8,7 +8,7 @@
 
 &emsp;(2) recommend comprehensive strategies to reduce or eliminate the risks of cancer or such other diseases associated with environmental pollution;
 
-&emsp;(3) recommend research and such other measures as may be appropriate to prevent or reduce the incidence of environmentally related cancer and heart and lung diseases;
+&emsp;(3) recommend research and such other measures as may be appropriate to prevent orreduce the incidence of environmentally related cancer and heart and lung diseases;
 
 &emsp;(4) coordinate research by, and stimulate cooperation between, the Environmental Protection Agency, the Department of Health and Human Services, and such other agencies as may be appropriate to prevent environmentally related cancer and heart and lung diseases; and
 
@@ -31,8 +31,4 @@ Section effective Aug. 7, 1977, except as otherwise expressly provided, see sect
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (b)(5) of this section relating to annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 18 on page 164 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4362a of this title.
 

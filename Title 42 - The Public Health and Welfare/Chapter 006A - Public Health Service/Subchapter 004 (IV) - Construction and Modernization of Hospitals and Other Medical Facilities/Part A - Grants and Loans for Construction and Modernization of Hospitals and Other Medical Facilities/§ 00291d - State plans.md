@@ -28,7 +28,7 @@ Any State desiring to participate in this part may submit a State plan. Such pla
 
 &emsp;(7) provide minimum standards (to be fixed in the discretion of the State) for the maintenance and operation of facilities providing inpatient care which receive aid under this part and, effective July 1, 1966, provide for enforcement of such standards with respect to projects approved by the Surgeon General under this part after June 30, 1964;
 
-&emsp;(8) provide such methods of administration of the State plan, including methods relating to the establishment and maintenance of personnel standards on a merit basis (except that the Surgeon General shall exercise no authority with respect to the selection, tenure of office, or compensation of any individual employed in accordance with such methods), as are found by the Surgeon General to be necessary for the proper and efficient operation of the plan;
+&emsp;(8) provide such methods of administration of the State plan, including methods relatingto the establishment and maintenance of personnel standards on a merit basis (except that the Surgeon General shall exercise no authority with respect to the selection, tenure of office, or compensation of any individual employed in accordance with such methods), as are found by the Surgeon General to be necessary for the proper and efficient operation of the plan;
 
 &emsp;(9) provide for affording to every applicant for a construction or modernization project an opportunity for a hearing before the State agency;
 
@@ -75,8 +75,4 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 #### Funds for Modernization Projects; Conditions To Be Met Before Approval
 
 Section 3(b)(5) of Pub. L. 88–443 provided that no application with respect to a modernization project may be approved for purposes of receiving funds from an allotment under section 291(a)(2) of this title before July 1, 1965, or before a State plan has been approved, as well as certain other requirements. See Effective Date note under section 291 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 291e, 291g, 291i, 291j–3, 291j–9, 291<i>l</i>, 291<i>o</i>, 1320a–1, 4728 of this title; title 12 section 1715w.
 

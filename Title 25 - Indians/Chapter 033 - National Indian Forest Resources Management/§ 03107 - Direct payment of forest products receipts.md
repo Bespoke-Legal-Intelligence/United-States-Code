@@ -10,7 +10,3 @@ Upon the request of an Indian tribe, the Secretary shall provide that the purcha
 
 (Pub. L. 101–630, title III, §308, Nov. 28, 1990, 104 Stat. 4537.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 715c of this title.
-

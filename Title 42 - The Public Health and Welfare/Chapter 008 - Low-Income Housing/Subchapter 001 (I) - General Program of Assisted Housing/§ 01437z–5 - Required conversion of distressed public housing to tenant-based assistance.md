@@ -12,7 +12,7 @@ Each public housing agency shall identify all public housing projects of the pub
 
 &emsp;&emsp;(A) is identified as distressed housing under paragraph (2) for which the public housing agency cannot assure the long-term viability as public housing through reasonable modernization expenses, density reduction, achievement of a broader range of family income, or other measures; or
 
-&emsp;&emsp;(B) has an estimated cost, during the remaining useful life of the project, of continued operation and modernization as public housing that exceeds the estimated cost, during the remaining useful life of the project, of providing tenant-based assistance under section 1437f of this title for all families in occupancy, based on appropriate indicators of cost (such as the percentage oftotal development costs required for modernization).
+&emsp;&emsp;(B) has an estimated cost, during the remaining useful life of the project, of continued operation and modernization as public housing that exceeds the estimated cost, during the remaining useful life of the project, of providing tenant-based assistance under section 1437f of this title for all families in occupancy, based on appropriate indicators of cost (such as the percentage of total development costs required for modernization).
 
 #### (b) Consultation
 
@@ -96,7 +96,7 @@ Notwithstanding any other provision of law, if a project or projects are identif
 
 &emsp;(1) in the case of an agency receiving assistance under the comprehensive improvement assistance program, any amounts obligated by the Secretary for the modernization of such project or projects pursuant to section 1437<i>l</i> of this title (as in effect immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998);
 
-&emsp;(2) in the case of an agency receiving public housing modernization assistance by formula pursuant to such section 1437<i>l</i> of this title, any amounts provided to the agency which are attributable pursuant to the formula for allocating such assistance to such project or projects;
+&emsp;(2) in the case of an agency receiving public housing modernization assistance by formula pursuant to such section 1437<i>l</i> of this title, anyamounts provided to the agency which are attributable pursuant to the formula for allocating such assistance to such project or projects;
 
 &emsp;(3) in the case of an agency receiving assistance for the major reconstruction of obsolete projects, any amounts obligated by the Secretary for the major reconstruction of such project or projects pursuant to section 1437c(j)(2) of this title, as in effect immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998; and
 
@@ -141,8 +141,4 @@ Use of amounts.—Any amounts made available to a public housing agency to carry
 “(2)
 
 Savings provision.—Notwithstanding the amendments made by this section \[enacting this section and repealing provisions set out as a note under section 1437<i>l</i> of this title\], section 202 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996 (42 U.S.C. 14371 \[1437<i>l</i>\] note) and any regulations implementing such section, as in effect immediately before the enactment of this Act \[Oct. 21, 1998\], shall continue to apply to public housing developments identified by the Secretary or a public housing agency for conversion pursuant to that section or for assessment of whether such conversion is required prior to enactment of this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1437c–1 of this title.
 

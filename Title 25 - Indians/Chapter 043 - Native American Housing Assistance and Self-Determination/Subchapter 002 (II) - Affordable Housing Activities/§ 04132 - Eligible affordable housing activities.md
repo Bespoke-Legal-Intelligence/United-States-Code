@@ -62,7 +62,3 @@ The Indian Self-Determination and Education Assistance Act, referred to in par. 
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4131, 4133, 4191 of this title.
-

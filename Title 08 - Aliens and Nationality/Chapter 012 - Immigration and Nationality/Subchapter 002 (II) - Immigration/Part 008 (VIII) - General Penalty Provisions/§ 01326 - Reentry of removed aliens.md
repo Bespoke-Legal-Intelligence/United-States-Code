@@ -4,7 +4,7 @@
 
 Subject to subsection (b) of this section, any alien who—
 
-&emsp;(1) has been denied admission, excluded, deported, or removed or has departed the UnitedStates while an order of exclusion, deportation, or removal is outstanding, and thereafter
+&emsp;(1) has been denied admission, excluded, deported, or removed or has departed the United States while an order of exclusion, deportation, or removal is outstanding, and thereafter
 
 &emsp;(2) enters, attempts to enter, or is at any time found in, the United States, unless (A) prior to his reembarkation at a place outside the United States or his application for admission from foreign contiguous territory, the Attorney General has expressly consented to such alien's reapplying for admission; or (B) with respect to an alien previously denied admission and removed, unless such alien shall establish that he was not required to obtain such advance consent under this chapter or any prior Act,
 
@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 104–132, §438(b), added subsec. (c).
 
 Subsec. (d). Pub. L. 104–132, §441(a), added subsec. (d).
 
-1994—Subsec. (b). Pub. L. 103–322, in par. (1), inserted “three or more misdemeanors involving drugs, crimes against the person, or both, or” after “commission of” and substituted “10” for “5”, in par. (2), substituted “20” for “15”, and added concluding sentence.
+1994—Subsec. (b). Pub. L. 103–322, in par. (1), inserted “three or more misdemeanors involving drugs, crimesagainst the person, or both, or” after “commission of” and substituted “10” for “5”, in par. (2), substituted “20” for “15”, and added concluding sentence.
 
 1990—Subsec. (a). Pub. L. 101–649 substituted “shall be fined under title 18, or imprisoned not more than 2 years” for “shall be guilty of a felony, and upon conviction thereof, be punished by imprisonment of not more than two years, or by a fine of not more than $1,000”.
 
@@ -101,10 +101,6 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
 For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1101, 1225, 1329, 1537 of this title; title 10 section 374.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -10,7 +10,7 @@ To the extent there exist within the Area as of February 20, 2003, any valid pri
 
 #### (c) Not precedent
 
-The provisions of sections 539m to 539m–12 of this title creating certain rights and interests inthe National Forest System are uniquely suited to resolve the Pueblo's claim and the geographic and societal situation involved, and shall not be construed as precedent for any other situation involving management of the National Forest System.
+The provisions of sections 539m to 539m–12 of this title creating certain rights and interests in the National Forest System are uniquely suited to resolve the Pueblo's claim and the geographic and societal situation involved, and shall not be construed as precedent for any other situation involving management of the National Forest System.
 
 #### (d) Fish and wildlife
 
@@ -25,8 +25,4 @@ Sections 539m to 539m–12 of this title, referred to in text, was in the origin
 #### Codification
 
 Section is comprised of section 411 of div. F of Pub. L. 108–7. Subsec. (e) of section 411 of div. F of Pub. L. 108–7 amended section 1746 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 539m, 539m–1, 539m–2, 539m–3, 539m–4, 539m–6, 539m–7, 539m–8, 539m–10, 539m–11, 539m–12 of this title.
 

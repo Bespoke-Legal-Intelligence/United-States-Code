@@ -12,7 +12,3 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 Authority of President under this section in his discretion to transfer to Secretary of Agriculture any right, interest or title held by United States in any lands acquired in program of national defense and no longer needed for that program, and to determine suitability of lands to be transferred, for purposes referred to in this section, delegated to Administrator of General Services, provided, that exercise by Administrator of authority delegated to him herein shall require concurrence of Secretary of Defense as to absence of further need of lands for national defense program, see section 1(15) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 25 section 492.
-

@@ -24,9 +24,9 @@
 
 &emsp;(A) provide technical assistance and outreach throughout the Nation to meet the training and information needs of parents of infants, children, and youth who are deaf or hard of hearing; and
 
-&emsp;(B) provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broadspectrum of needs as described in subsection (a) of this section.
+&emsp;(B) provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a) of this section.
 
-(2) To the extent possible, the elementary and secondary education programs shall provide the services required under paragraph (1)(B) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of section 618(a)(1)(A) of the Individuals with Disabilities Education Act \[20 U.S.C. 1418(a)(1)(A)\]. Such educational environments shall include—
+(2) To the extent possible, the elementary and secondary education programs shall provide the services required under paragraph (1)(B) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of section 618(a)(1) of the Individuals with Disabilities Education Act \[20 U.S.C. 1418(a)(1)\]. Such educational environments shall include—
 
 &emsp;(A) regular classes;
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(ii) Subsections (c) through (g).
 
-&emsp;&emsp;(iii) Subsection (h), except for the matter in paragraph (4) pertaining to transmission of findings and decisions to a State advisory panel.
+&emsp;&emsp;(iii) Subsection (h), except for the matter in paragraph (4) pertaining to transmissionof findings and decisions to a State advisory panel.
 
 &emsp;&emsp;(iv) Paragraphs (1) and (2) of subsection (i).
 
@@ -64,13 +64,15 @@
 
 &emsp;&emsp;(vi) Subsections (k) through (m).
 
-(Pub. L. 99–371, title I, §104, as added Pub. L. 102–421, title I, §112, Oct. 16, 1992, 106 Stat. 2152; amended Pub. L. 103–73, title II, §203(d), Aug. 11, 1993, 107 Stat. 733; Pub. L. 105–244, title IX, §912, Oct. 7, 1998, 112 Stat. 1829.)
+(Pub. L. 99–371, title I, §104, as added Pub. L. 102–421, title I, §112, Oct. 16, 1992, 106 Stat. 2152; amended Pub. L. 103–73, title II, §203(d), Aug. 11, 1993, 107 Stat. 733; Pub. L. 105–244, title IX, §912, Oct. 7, 1998, 112 Stat. 1829; Pub. L. 108–446, title III, §305(d), Dec. 3, 2004, 118 Stat. 2805.)
 
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B) and (b)(3), (4)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (b)(2). Pub. L. 108–446, which directed amendment of “section 104(b)(2) of the Education of the Deaf Act” by substituting “618(a)(1)” for “618(a)(1)(A)” in introductory provisions, was executed to this section, which is section 104 of the Education of the Deaf Act of 1986, to reflect the probable intent of Congress.
 
 1998—Subsec. (b)(1). Pub. L. 105–244, §912(1), inserted “and” after semicolon in subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “establish and publish priorities for research, development, and demonstration through a process that allows for public input.”
 
@@ -107,8 +109,4 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date
 
 Section effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as an Effective Date of 1992 Amendment note under section 4301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4359b of this title.
 

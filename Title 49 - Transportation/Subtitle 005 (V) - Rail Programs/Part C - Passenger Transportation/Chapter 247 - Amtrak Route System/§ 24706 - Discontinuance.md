@@ -128,7 +128,7 @@ Notices.—Notwithstanding any arrangement in effect before the date of the enac
 
 “(b)
 
-National Mediation Board Efforts.—Except as provided in subsection (c), the National Mediation Board shall complete all efforts, with respect to the dispute described in subsection (a), under section 5 of the Railway Labor Act (45 U.S.C. 155) not later than 120 days after the date of the enactment of this Act \[Dec. 2, 1997\].
+National Mediation Board Efforts.—Except as provided in subsection (c), the National MediationBoard shall complete all efforts, with respect to the dispute described in subsection (a), under section 5 of the Railway Labor Act (45 U.S.C. 155) not later than 120 days after the date of the enactment of this Act \[Dec. 2, 1997\].
 
 “(c)
 
@@ -175,10 +175,6 @@ Special Effective Date.—Subsections (a) \[amending this section\] and (b) of t
 “(d)
 
 Nonapplication of Bankruptcy Law Provision.—Section 1172(c) of title 11, United States Code, shall not apply to Amtrak and its employees.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10903, 11326 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,9 +1,5 @@
 subpart ii—economic regulation
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 40101, 40102, 40109, 40114, 44712 of this title; title 2 section 451.
-
 
 ---
 

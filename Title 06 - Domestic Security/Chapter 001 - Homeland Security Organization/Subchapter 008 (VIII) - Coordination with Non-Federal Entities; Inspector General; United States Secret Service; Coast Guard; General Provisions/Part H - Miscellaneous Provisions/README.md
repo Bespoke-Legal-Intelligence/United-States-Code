@@ -15,7 +15,7 @@ Part H—Miscellaneous Provisions
 - [&sect; 00455 - Miscellaneous authorities](%C2%A7%2000455%20-%20Miscellaneous%20authorities.md)
 - [&sect; 00456 - Military activities](%C2%A7%2000456%20-%20Military%20activities.md)
 - [&sect; 00457 - Regulatory authority and preemption](%C2%A7%2000457%20-%20Regulatory%20authority%20and%20preemption.md)
-- [&sect; 00458 - Counternarcotics officer](%C2%A7%2000458%20-%20Counternarcotics%20officer.md)
+- [&sect; 00458 - Office of Counternarcotics Enforcement](%C2%A7%2000458%20-%20Office%20of%20Counternarcotics%20Enforcement.md)
 - [&sect; 00459 - Office of International Affairs](%C2%A7%2000459%20-%20Office%20of%20International%20Affairs.md)
 - [&sect; 00460 - Prohibition of the Terrorism Information and Prevention System](%C2%A7%2000460%20-%20Prohibition%20of%20the%20Terrorism%20Information%20and%20Prevention%20System.md)
 - [&sect; 00461 - Review of pay and benefit plans](%C2%A7%2000461%20-%20Review%20of%20pay%20and%20benefit%20plans.md)

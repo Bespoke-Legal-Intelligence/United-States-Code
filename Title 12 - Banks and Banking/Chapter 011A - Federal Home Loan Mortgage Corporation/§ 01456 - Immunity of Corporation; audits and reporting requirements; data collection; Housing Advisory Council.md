@@ -6,13 +6,13 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 #### (b) Government audits; procedure; access to records, etc.; reimbursement of costs
 
-(1) The programs, activities, receipts, expenditures, and financial transactions of the Corporation shall be subject to audit by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General. The representatives of the General Accounting Office shall have access to all books, accounts, financial records, reports, files and all other papers, things, or property belonging to or in use by the Corporation and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balances or securities held by depositaries, fiscal agents, and custodians. A report on each such audit shall be made by the Comptroller General to the Congress. The Corporation shall reimburse the General Accounting Office for the full cost of any such audit as billed therefor by the Comptroller General.
+(1) The programs, activities, receipts, expenditures, and financial transactions of the Corporation shall be subject to audit by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General. The representatives of the Government Accountability Office shall have access to all books, accounts, financial records, reports, files and all other papers, things, or property belonging to or in use by the Corporation and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balances or securities held by depositaries, fiscal agents, and custodians. A report on each such audit shall be made by the Comptroller General to the Congress. The Corporation shall reimburse the Government Accountability Office for the full cost of any such audit as billed therefor by the Comptroller General.
 
-(2) To carry out this subsection, the representatives of the General Accounting Office shall have access, upon request to the Corporation or any auditor for an audit of the Corporation under subsection (d) of this section, to any books, accounts, financial records, reports, files, or other papers, things, or property belonging to or in use by the Corporation and used in any such audit and to any papers, records, files, and reports of the auditor used in such an audit.
+(2) To carry out this subsection, the representatives of the Government Accountability Office shall have access, upon request to the Corporation or any auditor for an audit of the Corporation under subsection (d) of this section, to any books, accounts, financial records, reports, files, or other papers, things, or property belonging to or in use by the Corporation and used in any such audit and to any papers, records, files, and reports of the auditor used in such an audit.
 
 #### (c) Financial reports; submission to Director; contents
 
-(1) The Corporation shall submit to the Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development annual and quarterly reports of the financial condition and operations of the Corporation which shall be in such form,contain such information, and be submitted on such dates as the Director shall require.
+(1) The Corporation shall submit to the Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development annual and quarterly reports of the financial condition and operations of the Corporation which shall be in such form, contain such information, and be submitted on such dates as the Director shall require.
 
 (2) Each such annual report shall include—
 
@@ -112,13 +112,15 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 (2) The Affordable Housing Advisory Council shall consist of 15 individuals, who shall include representatives of community-based and other nonprofit and for-profit organizations and State and local government agencies actively engaged in the promotion, development, or financing of housing for low- and moderate-income families.
 
-(Pub. L. 91–351, title III, §307, July 24, 1970, 84 Stat. 456; Pub. L. 101–73, title VII, §731(j)(1), Aug. 9, 1989, 103 Stat. 435; Pub. L. 102–550, title XIII, §1382(<i>o</i>)–(t), Oct. 28, 1992, 106 Stat. 4005–4008.)
+(Pub. L. 91–351, title III, §307, July 24, 1970, 84 Stat. 456; Pub. L. 101–73, title VII, §731(j)(1), Aug. 9, 1989, 103 Stat. 435; Pub. L. 102–550, title XIII, §1382(<i>o</i>)–(t), Oct. 28, 1992, 106 Stat. 4005–4008; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
 The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (f)(1), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941. Subpart B of part 2 of subtitle A of the Act is classified generally to subpart 2 (§4561 et seq.) of part B of subchapter I of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
 1992—Subsec. (b). Pub. L. 102–550, §1382(<i>o</i>), designated existing provisions as par. (1), substituted “The programs, activities, receipts, expenditures, and financial transactions of the Corporation shall be subject to audit by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General.” for “The financial transactions of the Corporation shall be subject to audit by the General Accounting Office in accordance with the principles and procedures applicable to commercial corporate transactions under such rules and regulations as may be prescribed by the Comptroller General of the United States.”, and added par. (2).
 
@@ -137,8 +139,4 @@ Section 731(j)(2) of Pub. L. 101–73 provided that: “The amendment made by th
 #### Termination of Advisory Councils
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4513, 4514, 4543, 4544, 4546, 4581, 4585, 4631, 4636 of this title.
 

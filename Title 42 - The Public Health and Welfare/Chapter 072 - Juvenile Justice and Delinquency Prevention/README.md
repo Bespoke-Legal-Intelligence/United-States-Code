@@ -363,10 +363,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3797, 11804 of this title; title 20 sections 5964, 6434, 6453, 6455; title 25 sections 2433, 2453, 2454.
-
 
 ---
 

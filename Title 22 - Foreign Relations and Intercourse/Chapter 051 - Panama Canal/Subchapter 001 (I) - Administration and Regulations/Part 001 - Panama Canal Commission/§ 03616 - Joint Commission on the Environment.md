@@ -2,7 +2,7 @@
 
 #### (a) Establishment; composition
 
-The United States and the Republic of Panama, in accordance with the Panama CanalTreaty of 1977, shall establish a Joint Commission on the Environment (hereinafter in this section referred to as the “Joint Commission”) to be composed of not more than three representatives of the United States and three representatives of the Republic of Panama, or such other equivalent numbers of representatives as may be agreed upon by the Governments of the two countries. The United States members of the Joint Commission shall periodically review the implementation of the Panama Canal Treaty of 1977 with respect to its impact on the environment and shall, jointly with the representatives of the Government of Panama, make recommendations to the United States Government and the Government of the Republic of Panama with respect to ways to avoid or mitigate adverse environmental impacts resulting from actions taken pursuant to such Treaty.
+The United States and the Republic of Panama, in accordance with the Panama Canal Treaty of 1977, shall establish a Joint Commission on the Environment (hereinafter in this section referred to as the “Joint Commission”) to be composed of not more than three representatives of the United States and three representatives of the Republic of Panama, or such other equivalent numbers of representatives as may be agreed upon by the Governments of the two countries. The United States members of the Joint Commission shall periodically review the implementation of the Panama Canal Treaty of 1977 with respect to its impact on the environment and shall, jointly with the representatives of the Government of Panama, make recommendations to the United States Government and the Government of the Republic of Panama with respect to ways to avoid or mitigate adverse environmental impacts resulting from actions taken pursuant to such Treaty.
 
 #### (b) Appointment; compensation and travel expenses
 
@@ -25,8 +25,4 @@ The United States representatives on the Joint Commission may, in cooperation wi
 #### References in Text
 
 The civil service laws, referred to in subsec. (c), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3617 of this title.
 

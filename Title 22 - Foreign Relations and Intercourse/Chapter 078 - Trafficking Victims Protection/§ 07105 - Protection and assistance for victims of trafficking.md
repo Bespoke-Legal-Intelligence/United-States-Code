@@ -118,7 +118,7 @@ Not later than 180 days after October 28, 2000, the Attorney General and the Sec
 
 #### (3) Authority to permit continued presence in the United States
 
-&emsp;Federal law enforcement officials may permit an alien individual's continued presence in the United States, if after an assessment, it is determined that such individual is a victim of a severe form of trafficking and a potential witness to such trafficking, in order to effectuate prosecution of those responsible, and such officials in investigating and prosecuting traffickers shall protect the safety of trafficking victims, including taking measures to protect trafficked persons and their family members from intimidation, threats of reprisals, and reprisals from traffickers and their associates.
+&emsp;Federal law enforcement officials may permit an alien individual's continued presence in the United States, if after an assessment, it is determined that such individual is a victim ofa severe form of trafficking and a potential witness to such trafficking, in order to effectuate prosecution of those responsible, and such officials in investigating and prosecuting traffickers shall protect the safety of trafficking victims, including taking measures to protect trafficked persons and their family members from intimidation, threats of reprisals, and reprisals from traffickers and their associates.
 
 #### (4) Training of Government personnel
 
@@ -174,9 +174,5 @@ Subsec. (g). Pub. L. 108–193, §8(b)(2), substituted “1184(<i>o</i>)(2)” f
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7103, 7110 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 

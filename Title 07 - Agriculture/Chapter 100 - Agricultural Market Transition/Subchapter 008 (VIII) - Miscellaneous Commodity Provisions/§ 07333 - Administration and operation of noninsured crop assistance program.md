@@ -32,7 +32,7 @@
 
 #### (1) Timely application
 
-&emsp;To be eligible for assistance under this section, a producer shall submit an application for noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted not later than 30 days before the beginning of the coverage period, as determined by the Secretary.
+&emsp;To be eligible for assistance under this section, a producer shall submit an applicationfor noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted not later than 30 days before the beginning of the coverage period, as determined by the Secretary.
 
 #### (2) Records
 
@@ -62,7 +62,7 @@
 
 #### (d) Payment
 
-The Secretary shall make available to a producer eligible for noninsured assistance underthis section a payment computed by multiplying—
+The Secretary shall make available to a producer eligible for noninsured assistance under this section a payment computed by multiplying—
 
 &emsp;(1) the quantity that is less than 50 percent of the established yield for the crop; by
 
@@ -241,8 +241,4 @@ Amendment by Pub. L. 106–224 applicable beginning with the 2001 crop of an agr
 #### Savings Clause
 
 Section as in effect on day before June 20, 2000, to continue to apply with respect to 1999 crop year, and to apply with respect to 2000 crop year, to extent application of an amendment by Pub. L. 106–224 is delayed under section 171(b) or by terms of the amendment, see section 173 of Pub. L. 106–224, set out as a note under section 1501 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1506, 1508a, 1515, 1522, 7936 of this title.
 

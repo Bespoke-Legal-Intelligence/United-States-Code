@@ -8,7 +8,3 @@ In carrying out the purposes of sections 18 to 18d of this title, the Secretary 
 
 For transfer of functions of Secretary of the Interior to Secretary of Commerce, see Transfer of Functions note set out under section 18 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 18b, 18c, 18d of this title.
-

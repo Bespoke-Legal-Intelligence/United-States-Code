@@ -136,7 +136,7 @@ Pub. L. 105–277, div. C, title XII, §1206, Oct. 21, 1998, 112 Stat. 2681–72
 
 #### Construction of 1998 Amendments
 
-Pub. L. 105–277, div. C, title XII, §1204, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title \[amending this section and enacting provisions set out under this section\] shall be construed to expand the duty of any person to collect or pay taxes beyond that which existed immediately before the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–277, div. C, title XII, §1204, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title \[amending this section and enacting provisions set out under this section\] shall be construed to expand theduty of any person to collect or pay taxes beyond that which existed immediately before the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 Pub. L. 105–277, div. C, title XII, §1205, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title \[amending this section and enacting provisions set out under this section\] shall limit or otherwise affect the implementation of the Telecommunications Act of 1996 (Public Law 104–104) \[see Short Title of 1996 Amendment note set out under section 609 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\] or the amendments made by such Act.”
 
@@ -173,10 +173,6 @@ Negotiating Objectives.—The negotiating objectives of the United States shall 
 “(c)
 
 Electronic Commerce.—For purposes of this section, the term ‘electronic commerce’ has the meaning given that term in section 1104(3) \[probably means Pub. L. 105–277, div. C, title XI, §1104(3), set out in a note under section 151 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2114a, 2171, 2242, 2420, 2901, 3106 of this title; title 22 sections 2200b, 5732; title 49 section 50104.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—ENERGY RESEARCH AND DEVELOPMENT ADMINISTRATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 5876 of this title.
-
 
 ---
 

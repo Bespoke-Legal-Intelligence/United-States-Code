@@ -6,7 +6,7 @@
 
 &emsp;(2) in the Indian country as defined in section 1151 of this title,
 
-> knowingly sells or possesses with intent to sell an obscene visual depiction shall be punished by a fine in accordance with the provisions of this title or imprisoned for not more than 2 years, or both.
+> knowingly sells or possesses with intent to sell an obscene visual depiction shall be punished bya fine in accordance with the provisions of this title or imprisoned for not more than 2 years, or both.
 
 (b) For the purposes of this section, the term “visual depiction” includes undeveloped film and videotape but does not include mere words.
 
@@ -21,8 +21,4 @@ Subsec. (b). Pub. L. 101–647, §323(c)(2), amended subsec. (b) generally. Prio
 &emsp;“(1) the term ‘visual depiction’ includes undeveloped film and videotape but does not include mere words; and
 
 &emsp;“(2) the terms ‘minor’ and ‘sexually explicit conduct’ have the meaning given those terms in chapter 110 of this title.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 20 sections 6777, 9134; title 47 section 254.
 

@@ -52,7 +52,3 @@ Subsec. (a)(2). Pub. L. 107–355, §2(a)(1)(B), inserted “, including all go
 
 Subsec. (c). Pub. L. 107–355, §2(a)(2), substituted “provide for and document” for “provide for” in introductory provisions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6101, 6104, 6107 of this title.
-

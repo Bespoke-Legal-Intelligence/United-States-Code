@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (e) of this section, an entity that is eligible for a grant under section 7422 of this title, and a school that is operated or supported by the Bureau of Indian Affairs that is eligible for a grant under subsection (d) of this section, that submits an application that is approved by the Secretary, shall, subject to appropriations, receive a grant under this subpart in an amount that is not less than $3,000.
+&emsp;Notwithstanding subsection (e) of this section, an entity that is eligible for a grantunder section 7422 of this title, and a school that is operated or supported by the Bureau of Indian Affairs that is eligible for a grant under subsection (d) of this section, that submits an application that is approved by the Secretary, shall, subject to appropriations, receive a grant under this subpart in an amount that is not less than $3,000.
 
 #### (2) Consortia
 
@@ -60,7 +60,7 @@ For the purpose of this section, the term “average per pupil expenditure”, u
 
 #### (2) Special rule
 
-&emsp;Any school described in paragraph (1)(A) that wishes to receive an allocation under thissubpart shall submit an application in accordance with section 7424 of this title, and shall otherwise be treated as a local educational agency for the purpose of this subpart, except that such school shall not be subject to section 7424(c)(4) of this title, section 7428(c) of this title, or section 7429 of this title.
+&emsp;Any school described in paragraph (1)(A) that wishes to receive an allocation under this subpart shall submit an application in accordance with section 7424 of this title, and shall otherwise be treated as a local educational agency for the purpose of this subpart, except that such school shall not be subject to section 7424(c)(4) of this title, section 7428(c) of this title, or section 7429 of this title.
 
 #### (e) Ratable reductions
 
@@ -77,8 +77,4 @@ The Tribally Controlled Schools Act of 1988, referred to in subsec. (d)(1)(A)(ii
 #### Prior Provisions
 
 A prior section 7423, Pub. L. 89–10, title VII, §7113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3720, related to program enhancement projects, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6912 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7427, 7428 of this title.
 

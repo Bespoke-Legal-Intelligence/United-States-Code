@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Department of Commerce a Technology Administration, which shall operate in accordance with the provisions, findings, and purposes of this chapter. The Technology Administration shall include—
+There is established in the Department of Commerce a Technology Administration, which shall operate in accordance with the provisions,findings, and purposes of this chapter. The Technology Administration shall include—
 
 &emsp;(1) the National Institute of Standards and Technology;
 
@@ -66,7 +66,7 @@ The Secretary, through the Under Secretary, as appropriate, shall—
 
 > Activities undertaken pursuant to subparagraph (C) of this paragraph shall only be performed on a cost-reimbursable basis. Translations referred to in such subparagraph shall be performed only to the extent that they are not otherwise available from sources within the private sector in the United States.
 
-(2) Beginning in 1986, the Secretary shall prepare annual reports regarding important Japanese scientific discoveries and technical innovations in such areas as computers, semiconductors, biotechnology, and robotics and manufacturing. In preparing such reports, the Secretary shall consult with professional societies and businesses in the United States. The Secretary may, to the extent provided in advance by appropriation Acts, contract with private organizations to acquire and translate Japanese scientific and technical information relevant to the preparation of such reports.
+(2) Beginning in 1986, the Secretary shall prepare annual reports regarding important Japanese scientific discoveries and technical innovations in such areas as computers, semiconductors, biotechnology, and robotics and manufacturing. In preparing such reports, the Secretary shall consult with professional societies andbusinesses in the United States. The Secretary may, to the extent provided in advance by appropriation Acts, contract with private organizations to acquire and translate Japanese scientific and technical information relevant to the preparation of such reports.
 
 (3) The Secretary also shall encourage professional societies and private businesses in the United States to increase their efforts to acquire, screen, translate, and disseminate Japanese technical literature.
 
@@ -213,8 +213,4 @@ Section 201(e) of Pub. L. 100–519 provided that: “The individual serving as 
 #### Commercial Space Programs
 
 Section 201(f) of Pub. L. 100–519, as added by Pub. L. 100–685, title II, §219, Nov. 17, 1988, 102 Stat. 4095, provided that: “Nothing in this section \[amending sections 3703, 3704, and 3710 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note above\] authorizes the Department to establish an Office of Commercial Space Programs or to place such an office into the Technology Administration without prior authorization of the Congress.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3703, 3713 of this title.
 

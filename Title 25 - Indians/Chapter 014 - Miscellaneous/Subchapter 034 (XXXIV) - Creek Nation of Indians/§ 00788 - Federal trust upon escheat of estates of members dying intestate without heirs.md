@@ -4,7 +4,3 @@ When, upon the final determination of a court having jurisdiction or by decision
 
 (Pub. L. 90–76, §3, Aug. 29, 1967, 81 Stat. 177.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 787 of this title.
-

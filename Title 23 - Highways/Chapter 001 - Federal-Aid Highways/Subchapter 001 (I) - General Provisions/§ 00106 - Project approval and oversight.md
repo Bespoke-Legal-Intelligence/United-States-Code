@@ -74,7 +74,7 @@ Use of life-cycle cost analysis.—The Secretary shall develop recommendations f
 
 &emsp;(2)
 
-Life-cycle cost analysis defined.—In this subsection, the term “life-cycle cost analysis” means a process for evaluating the total economic worth of a usable project segment by analyzing initial costs and discounted future costs, such as maintenance, user costs, reconstruction, rehabilitation, restoring, and resurfacing costs, over the life of the project segment.
+Life-cycle cost analysis defined.—In this subsection, the term “life-cycle cost analysis” means a process for evaluating the total economic worth of a usable project segment by analyzing initial costs and discountedfuture costs, such as maintenance, user costs, reconstruction, rehabilitation, restoring, and resurfacing costs, over the life of the project segment.
 
 (g)
 
@@ -82,7 +82,7 @@ Value Engineering for NHS.—
 
 &emsp;(1)
 
-Requirement.—The Secretary shall establish a program to require States to carryout a value engineering analysis for all projects on the National Highway System with an estimated total cost of $25,000,000 or more.
+Requirement.—The Secretary shall establish a program to require States to carry out a value engineering analysis for all projects on the National Highway System with an estimated total cost of $25,000,000 or more.
 
 &emsp;(2)
 
@@ -154,17 +154,13 @@ Section 1091 of Pub. L. 102–240 provided that:
 
 “(a)
 
-Study.—The Secretary shall study the effectiveness and benefits of value engineering review programs applied to Federal-aid highway projects. Such study shall include an analysis of and the results of specialized techniques utilized in all facets of highway construction for the purpose of reduction of costs and improvement of the overall quality of Federal-aid highway projects.
+Study.—The Secretary shall study the effectiveness and benefits of value engineering review programsapplied to Federal-aid highway projects. Such study shall include an analysis of and the results of specialized techniques utilized in all facets of highway construction for the purpose of reduction of costs and improvement of the overall quality of Federal-aid highway projects.
 
 “(b)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall report to Congress on the results of the studyunder subsection (a), including recommendations on how value engineering could be utilized and improved in Federal-aid highway projects.”
+Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall report to Congress on the results of the study under subsection (a), including recommendations on how value engineering could be utilized and improved in Federal-aid highway projects.”
 
 #### Modification of Project Agreements To Effectuate Requirement of Four-Lanes of Traffic
 
 Pub. L. 89–574, §5(b), Sept. 13, 1966, 80 Stat. 767, as amended by Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, authorized Secretary to modify project agreements entered into prior to Sept. 13, 1966, pursuant to section 106 of this title for purpose of effectuating amendment made by this section (amending section 109(b) of this title to add a requirement of four lanes of traffic) with respect to as much of National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] as may be possible.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 109, 112 of this title; title 40 section 14501.
 

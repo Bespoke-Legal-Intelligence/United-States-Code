@@ -6,7 +6,7 @@ General Regulatory Authority.—
 
 &emsp;(1)
 
-Paperwork minimization.—The Secretary may issue regulations, including regulations protecting individual shippers, in order to carry out this part with respect to the transportation of household goods by motor carriers subject to jurisdiction under subchapter I of chapter 135. The regulations and paperwork required of motor carriers providing transportation of household goods shall be minimized to the maximum extent feasible consistent with the protection of individual shippers.
+Paperwork minimization.—The Secretary may issue regulations, including regulations protecting individual shippers, in order to carry out this part with respect to the transportation of household goods by motor carriers subject to jurisdiction under subchapterI of chapter 135. The regulations and paperwork required of motor carriers providing transportation of household goods shall be minimized to the maximum extent feasible consistent with the protection of individual shippers.
 
 &emsp;(2)
 

@@ -42,7 +42,7 @@
 
 (4) Any senior judge performing judicial duties pursuant to recall under paragraph (2) of this subsection shall be paid, while performing such duties, the same compensation (in lieu of the annuity payable under subsection (a) of this section) and the same allowances for travel and other expenses as a judge on active duty with the court being served.
 
-(5) Any senior judge performing judicial duties pursuant to recall under paragraph (2) of this subsection shall at all times be governed by thecode of judicial conduct for United States judges approved by the Judicial Conference of the United States.
+(5) Any senior judge performing judicial duties pursuant to recall under paragraph (2) of this subsection shall at all times be governed by the code of judicial conduct for United States judges approved by the Judicial Conference of the United States.
 
 (d) Any judge who elects to become a senior judge under subsection (c) of this section and who thereafter—
 
@@ -78,7 +78,7 @@ Section consolidates sections 634b and 634c of title 48, U.S.C., 1940 ed., as am
 
 “Service at any time in any of the courts referred to in the first paragraph, or in any other court under appointment by the President, shall be included in the computation of aggregate years of judicial service for the purposes of this section.
 
-“Any judge who has retired by resigning under the provisions of this section, or who is otherwise entitled to payments under this section, shall be entitled after the effective date of this Act to a cost-of-living adjustment in the amount payable to him computed as specified in section 8340(b) of title 5, United States Code: <i>Provided, however</i>, That in no case shall the salary or amount payable to such judge as increased under this paragraph exceed 95 per centum of the salary of a United States district court judge in regular active service.”
+“Any judge who has retired by resigning under the provisions of this section, or who is otherwise entitled to payments under this section, shall be entitled afterthe effective date of this Act to a cost-of-living adjustment in the amount payable to him computed as specified in section 8340(b) of title 5, United States Code: <i>Provided, however</i>, That in no case shall the salary or amount payable to such judge as increased under this paragraph exceed 95 per centum of the salary of a United States district court judge in regular active service.”
 
 1976—Pub. L. 94–470 inserted cost-of-living adjustment provision, including limitation of payment to amount no greater than 95 per centum of salary of a United States district court judge in regular active service.
 
@@ -98,7 +98,7 @@ Section 21(c) of Pub. L. 99–396 provided that: “The amendments made by this 
 
 #### Effective Date of 1959 Amendment
 
-Amendment by Pub. L. 86–3 effective on admission of State of Hawaii into the Union, see note set out undersection 91 of this title. Admission of Hawaii into the Union was accomplished Aug. 21, 1959, upon issuance of Proc. No. 3309, Aug. 21, 1959, 25 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 86–3 effective on admission of State of Hawaii into the Union, see note set out under section 91 of this title. Admission of Hawaii into the Union was accomplished Aug. 21, 1959, upon issuance of Proc. No. 3309, Aug. 21, 1959, 25 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
 
 #### Effective Date of 1958 Amendment
 
@@ -143,8 +143,4 @@ Section 12(d) of Pub. L. 85–508 provided in part: “That the amendment made b
 #### Judicial Service in Hawaii
 
 Certain judicial service in Hawaii included within computation of aggregate years of judicial service, see section 14(d) of Pub. L. 86–3, set out as a note under section 371 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 376 of this title.
 

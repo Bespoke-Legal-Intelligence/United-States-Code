@@ -16,7 +16,3 @@ A prior section 7117, Pub. L. 89–10, title IV, §4117, as added Pub. L. 103–
 
 A prior section 7118, Pub. L. 89–10, title IV, §4118, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3685, related to programs for Native Hawaiians, and was omitted in the general amendment of this subchapter by Pub. L. 107–110. See section 7117 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7111 of this title.
-

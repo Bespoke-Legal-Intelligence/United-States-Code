@@ -12,7 +12,3 @@
 
 1994—Subsec. (a). Pub. L. 103–236 struck out “who are family members of Government employees paid in accordance with a local compensation plan established under” after “section 3967 of this title or”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3947, 4001 of this title.
-

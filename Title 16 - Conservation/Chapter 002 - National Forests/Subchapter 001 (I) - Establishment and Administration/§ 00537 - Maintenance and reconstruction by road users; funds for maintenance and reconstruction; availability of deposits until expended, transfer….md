@@ -6,9 +6,5 @@ The Secretary may require the user or users of a road under the control of the F
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under sections 532 to 538 of this title to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see Transfer of Functions note set out under section 533 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 533, 534, 536, 1608 of this title.
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under sections 532 to 538 of this title to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see Transfer of Functions note set out under section 533 of this title.
 

@@ -12,7 +12,3 @@ The State shall submit to the Secretary a program within three months of Decembe
 
 (Pub. L. 96–561, title I, §131, Dec. 22, 1980, 94 Stat. 3284.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3333 of this title.
-

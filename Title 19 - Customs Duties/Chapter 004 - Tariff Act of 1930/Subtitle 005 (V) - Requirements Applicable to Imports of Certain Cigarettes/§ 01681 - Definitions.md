@@ -14,5 +14,5 @@ In this subtitle:
 
 #### Effective Date
 
-Pub. L. 106–476, title IV, §4004(b), Nov. 9, 2000, 114 Stat. 2181, provided that: “The amendment made by subsection (a) \[enacting this subtitle\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 9, 2000\].”
+Pub. L. 106–476, title IV, §4004(b), Nov. 9, 2000, 114 Stat. 2181, provided that: “The amendment made bysubsection (a) \[enacting this subtitle\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 9, 2000\].”
 

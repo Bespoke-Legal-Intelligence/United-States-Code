@@ -10,7 +10,3 @@ The Map shall be on file and available for public inspection in the offices of t
 
 (Pub. L. 107–373, §5, Dec. 19, 2002, 116 Stat. 3106.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410iii–2 of this title.
-

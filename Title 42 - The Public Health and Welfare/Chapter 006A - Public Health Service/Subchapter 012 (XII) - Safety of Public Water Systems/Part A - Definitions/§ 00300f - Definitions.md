@@ -14,11 +14,11 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(ii) if, in the judgment of the Administrator, it is not economically or technologically feasible to so ascertain the level of such contaminant, each treatment technique known to the Administrator which leads to a reduction in the level of such contaminant sufficient to satisfy the requirements of section 300g–1 of this title; and
 
-&emsp;&emsp;(D) contains criteria and procedures to assure a supply of drinking water which dependably complies with such maximum contaminant levels; including accepted methodsfor quality control and testing procedures to insure compliance with such levels and to insure proper operation and maintenance of the system, and requirements as to (i) the minimum quality of water which may be taken into the system and (ii) siting for new facilities for public water systems.
+&emsp;&emsp;(D) contains criteria and procedures to assure a supply of drinking water which dependably complies with such maximum contaminant levels; including accepted methods for quality control and testing procedures to insure compliance with such levels and to insure proper operation and maintenance of the system, and requirements as to (i) the minimum quality of water which may be taken into the system and (ii) siting for new facilities for public water systems.
 
 > &emsp;At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation.
 
-&emsp;(2) The term “secondary drinking water regulation” which applies to public water systems and which specifies the maximum contaminant levels which, in the judgment of the Administrator, are requisite to protect the public welfare. Such regulations may apply to any contaminant in drinking water (A) which may adversely affect the odor or appearance of such water and consequently may cause a substantial number of the persons served by the public water system providing such water to discontinue its use, or (B) which may otherwise adversely affect the public welfare. Such regulations may vary accordingly to geographic and other circumstances.
+&emsp;(2) The term “secondary drinking water regulation” which applies to public water systems and which specifies the maximum contaminant levels which, in the judgment of the Administrator, are requisite to protect the public welfare. Such regulations may apply toany contaminant in drinking water (A) which may adversely affect the odor or appearance of such water and consequently may cause a substantial number of the persons served by the public water system providing such water to discontinue its use, or (B) which may otherwise adversely affect the public welfare. Such regulations may vary accordingly to geographic and other circumstances.
 
 &emsp;(3) The term “maximum contaminant level” means the maximum permissible level of a contaminant in water which is delivered to any user of a public water system.
 
@@ -86,7 +86,7 @@ Community water system.—The term “community water system” means a public w
 
 Noncommunity water system.—The term “noncommunity water system” means a public water system that is not a community water system.
 
-(July 1, 1944, ch. 373, title XIV, §1401, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1660; amended Pub. L. 94–317, title III, §301(b)(2), June 23, 1976, 90 Stat. 707; Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–190, §8(b), Nov. 16, 1977, 91 Stat. 1397; Pub. L. 99–339, title III, §302(b), June 19, 1986, 100 Stat. 666; Pub. L. 104–182, title I, §101(a), (b)(1), Aug. 6, 1996, 110 Stat. 1615, 1616.)
+(July 1, 1944, ch. 373, title XIV, §1401, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1660;amended Pub. L. 94–317, title III, §301(b)(2), June 23, 1976, 90 Stat. 707; Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–190, §8(b), Nov. 16, 1977, 91 Stat. 1397; Pub. L. 99–339, title III, §302(b), June 19, 1986, 100 Stat. 666; Pub. L. 104–182, title I, §101(a), (b)(1), Aug. 6, 1996, 110 Stat. 1615, 1616.)
 
 #### References in Text
 
@@ -152,7 +152,7 @@ Section 3 of Pub. L. 104–182 provided that: “The Congress finds that—
 
 &emsp;“(4) States play a central role in the implementation of safe drinking water programs, and States need increased financial resources and appropriate flexibility to ensure the prompt and effective development and implementation of drinking water programs;
 
-&emsp;“(5) the existing process for the assessment and selection of additional drinking water contaminantsneeds to be revised and improved to ensure that there is a sound scientific basis for setting priorities in establishing drinking water regulations;
+&emsp;“(5) the existing process for the assessment and selection of additional drinking water contaminants needs to be revised and improved to ensure that there is a sound scientific basis for setting priorities in establishing drinking water regulations;
 
 &emsp;“(6) procedures for assessing the health effects of contaminants establishing drinking water standards should be revised to provide greater opportunity for public education and participation;
 
@@ -201,8 +201,4 @@ For provisions relating to the responsibility of the head of each Executive agen
 #### Termination of Advisory Committees
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 201, 300g–4, 300g–5, 300j–12 of this title; title 21 section 349.
 

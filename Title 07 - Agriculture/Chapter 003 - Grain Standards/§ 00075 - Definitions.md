@@ -50,7 +50,7 @@ When used in this chapter, except where the context requires otherwise—
 
 &emsp;(x) the term “official weighing” means the determination and certification by official inspection personnel of the quantity of a lot of grain under standards provided for in this chapter, based on the actual performance of weighing or the physical supervision thereof, including the physical inspection and testing for accuracy of the weights and scales and the physical inspection of the premises at which the weighing is performed and the monitoring of the discharge of grain into the elevator or conveyance (the terms “officially weigh” and “officially weighed” shall be construed accordingly);
 
-&emsp;(y) the term “supervision of weighing” means such supervision by official inspection personnel of the grain-weighing process as is determined by the Secretary to be adequate to reasonably assure the integrity and accuracy of the weighing and of certificates which setforth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance; and
+&emsp;(y) the term “supervision of weighing” means such supervision by official inspection personnel of the grain-weighing process as is determined by the Secretary to be adequate to reasonably assure the integrity and accuracy of the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance; and
 
 &emsp;(z) the term “intracompany shipment” means the shipment, within the United States, of grain lots between facilities owned or controlled by the person owning the grain. The shipment of grain owned by a cooperative, from a facility owned by that cooperative, to an export facility which it jointly owns with other cooperatives, qualifies as an intracompany shipment.
 
@@ -86,7 +86,7 @@ Subsec. (y). Pub. L. 95–113, §1604(a)(4), substituted “such supervision by 
 
 1976—Subsec. (i). Pub. L. 94–582, §3(a), substituted “Administrator” for “Secretary”, and expanded definition of “official inspection” to include determination “(by original inspection, and when requested, reinspection and appeal inspection)” and determination and certification of the condition of vessels and other carriers or receptacles for the transportation of grain insofar as it may affect the quality or condition of the grain.
 
-Subsec. (j). Pub. L. 94–582, §3(b), in redefining “official inspection personnel”, substituted provision declaring term to mean “persons licensed or otherwise authorized by the Administrator pursuant to section 84 of this title to perform all or specified functions involved in official inspection, official weighing, or supervision of weighing, or in the supervision of official inspection, official weighing or supervision of weighing” for “employees of State or other governmental agencies or commercial agencies or other persons who are licensed to perform all or specified functions involved in official inspection under this chapter; employees of the Department of Agriculture who are authorized to supervise official inspection and to conduct appeal inspection or initial inspection of United States grain in Canadian ports”.
+Subsec. (j). Pub. L. 94–582, §3(b), in redefining “official inspection personnel”, substituted provision declaring term to mean “persons licensed or otherwiseauthorized by the Administrator pursuant to section 84 of this title to perform all or specified functions involved in official inspection, official weighing, or supervision of weighing, or in the supervision of official inspection, official weighing or supervision of weighing” for “employees of State or other governmental agencies or commercial agencies or other persons who are licensed to perform all or specified functions involved in official inspection under this chapter; employees of the Department of Agriculture who are authorized to supervise official inspection and to conduct appeal inspection or initial inspection of United States grain in Canadian ports”.
 
 Subsec. (k). Pub. L. 94–582, §3(c), substituted “Administrator” for “Secretary” and “official inspection or official weighing” for “an official inspection”.
 
@@ -125,8 +125,4 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 #### Effective Date of 1968 Amendment
 
 For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90–487, set out as a note under section 78 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 sections 10709, 11101.
 

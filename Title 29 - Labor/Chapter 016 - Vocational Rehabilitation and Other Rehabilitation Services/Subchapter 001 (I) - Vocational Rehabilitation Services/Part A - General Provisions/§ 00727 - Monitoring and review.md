@@ -98,7 +98,7 @@ The Commissioner shall—
 
 #### (2) Submissions and determinations
 
-&emsp;If, in an action under this subsection to review a final determination of the Commissioner under section 721(b) of this title or subsection (c) of this section, the petitioner or the Commissioner applies to the court for leave to have additional oral submissions or written presentations made respecting such determination, the court may, for good cause shown, order the Commissioner to provide within 30 days an additional opportunity to make such submissions and presentations. Within such period, the Commissioner may revise any findings of fact, modify or set aside the determination being reviewed, or make a new determination by reason of the additional submissions and presentations, and shall file such modified or new determination, and any revised findings of fact, with the return ofsuch submissions and presentations. The court shall thereafter review such new or modified determination.
+&emsp;If, in an action under this subsection to review a final determination of the Commissioner under section 721(b) of this title or subsection (c) of this section, the petitioner or the Commissioner applies to the court for leave to have additional oral submissions or written presentations made respecting such determination, the court may, for good cause shown, order the Commissioner to provide within 30 days an additional opportunity to make such submissions and presentations. Within such period, the Commissioner may revise any findings of fact, modify or set aside the determination being reviewed, or make a new determination by reason of the additional submissions and presentations, and shall file such modified or new determination, and any revised findings of fact, with the return of such submissions and presentations. The court shall thereafter review such new or modified determination.
 
 #### (3) Standards of review
 
@@ -119,8 +119,4 @@ The Commissioner shall—
 #### Prior Provisions
 
 A prior section 727, Pub. L. 93–112, title I, §107, as added Pub. L. 102–569, title I, §128(a), Oct. 29, 1992, 106 Stat. 4386, related to monitoring and review, prior to the general amendment of this subchapter by Pub. L. 105–220.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 721, 726, 796d–1 of this title.
 

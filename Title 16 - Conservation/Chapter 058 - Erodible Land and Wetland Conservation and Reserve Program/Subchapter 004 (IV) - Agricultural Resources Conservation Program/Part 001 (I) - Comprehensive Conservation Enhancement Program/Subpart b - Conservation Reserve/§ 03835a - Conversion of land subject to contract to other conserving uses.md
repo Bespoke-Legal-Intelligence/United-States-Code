@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall permit an owner or operator that has entered into a contract under this subpart that is in effect on November 28, 1990, to convert areas of highly erodible cropland that are subject to the contract, and that are devoted to vegetative cover, from that use to hardwood trees, windbreaks, shelterbelts, or wildlife corridors.
+&emsp;The Secretary shall permit an owner or operator that has entered into a contract under this subpart that is in effect on November 28, 1990, to convert areas of highly erodible cropland that are subject to the contract, and that are devoted to vegetative cover, from that useto hardwood trees, windbreaks, shelterbelts, or wildlife corridors.
 
 #### (2) Terms
 
@@ -47,8 +47,4 @@ Section 3835a, Pub. L. 99–198, title XII, §1235A, as added Pub. L. 101–624,
 Section 3836, Pub. L. 99–198, title XII, §1236, Dec. 23, 1985, 99 Stat. 1514; Pub. L. 101–624, title XIV, §§1436, 1447(a), Nov. 28, 1990, 104 Stat. 3583, 3605; Pub. L. 107–76, title VII, §759(b)(1), Nov. 28, 2001, 115 Stat. 741, related to cropland base and allotment history.
 
 A prior section 3836a, Pub. L. 104–127, title III, §387, Apr. 4, 1996, 110 Stat. 1020, related to Wildlife Habitat Incentive Program, prior to repeal by Pub. L. 107–171, title II, §2502(b), May 13, 2002, 116 Stat. 267. See section 3839bb–1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3831, 3834 of this title.
 

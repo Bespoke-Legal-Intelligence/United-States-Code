@@ -60,7 +60,3 @@ Sec. 3. Subject to the provisions of section 1 of this order, and in the absence
 
 Sec. 4. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation or direction by the Director, the Secretary of Commerce shall perform the function of making periodic reports to the Committees of the Congress as set forth in Section 4(a)(3) of the Act \[22 U.S.C. 3103(a)(3)\].
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3141 of this title.
-

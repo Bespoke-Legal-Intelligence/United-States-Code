@@ -34,7 +34,3 @@ Section 203(a) of Pub. L. 100–713 provided that: “The Congress finds that he
 
 &emsp;“(2) reduce the expenses for medical care of Indians.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1671 of this title.
-

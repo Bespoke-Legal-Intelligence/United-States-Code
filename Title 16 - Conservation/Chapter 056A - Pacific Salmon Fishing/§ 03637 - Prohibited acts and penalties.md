@@ -32,7 +32,7 @@ Any person who commits an act that is unlawful under paragraph (2), (3), (4), or
 
 #### (e) Enforcement authority
 
-The Secretary and the Secretary of the Department in which the Coast Guard is operatingshall enforce the provisions of this chapter and shall have the authority provided by subsections 311(a), (b)(1), and (c) of the Magnuson Act (16 U.S.C. 1861(a), (b)(1), and (c)).
+The Secretary and the Secretary of the Department in which the Coast Guard is operating shall enforce the provisions of this chapter and shall have the authority provided by subsections 311(a), (b)(1), and (c) of the Magnuson Act (16 U.S.C. 1861(a), (b)(1), and (c)).
 
 #### (f) Jurisdiction
 

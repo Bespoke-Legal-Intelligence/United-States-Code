@@ -48,7 +48,3 @@ Amendment by section 8(<i>l</i>) of Pub. L. 100–525 effective as if included i
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1101, 1433 of this title.
-

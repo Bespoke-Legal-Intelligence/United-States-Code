@@ -82,7 +82,3 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 A prior section 403 of Pub. L. 93–288 was renumbered section 407 by Pub. L. 100–707 and is classified to section 5173 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5159, 5187, 5189, 5204a, 5204c of this title; title 16 section 3505.
-

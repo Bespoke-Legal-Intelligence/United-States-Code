@@ -30,7 +30,3 @@ Notwithstanding any other provision of this section, the Secretary is directed t
 
 Section 22 of act Sept. 1, 1954, provided that not later than two years after Sept. 1, 1954, the management and operation of irrigation works for Indian lands of the tribe by the Bureau of Indian Affairs was to be discontinued, and that, upon such discontinuance, the Secretary was to cancel the unpaid irrigation operation and maintenance assessments and reimbursable irrigation construction charges against such lands and transfer the title to such irrigation works to water users, water user's associations organized for such purpose, or to corporations organized, or trustees designated, as provided in this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 744 of this title.
-

@@ -4,7 +4,3 @@ If any State or treaty Indian tribe has taken any action, or omitted to take any
 
 (Pub. L. 99–5, §6, Mar. 15, 1985, 99 Stat. 11.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3636, 3638 of this title.
-

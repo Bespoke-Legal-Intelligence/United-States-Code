@@ -24,7 +24,7 @@ In addition to the Secretary's authority to employ persons to carry out provisio
 
 #### (e) Native American Samoan personnel
 
-The Secretary shall establish a program to train native American Samoan personnel to function as professional park service employees, to provide services to visitors (including the interpretation of park resources), and operate and maintain park facilities. Notwithstanding any other provision of law, and to the extent practicable the Secretary shall extend a preference for the hiring of native American Samoans to carry out the Secretary's authorities under this subchapter (including both employees and persons operating under contract).
+The Secretary shall establish a program to train native American Samoan personnel to function as professional park service employees, to provide services to visitors (including the interpretation of park resources), and operate and maintain park facilities. Notwithstanding any other provision of law, and to the extent practicable the Secretary shall extend a preference for the hiring of native American Samoans to carry out the Secretary's authorities under thissubchapter (including both employees and persons operating under contract).
 
 #### (f) Management plan
 
@@ -46,7 +46,7 @@ At least every 10 years, the Secretary and the Governor, or their designees, sha
 
 #### (i) Technical assistance
 
-The Secretary, in providing technical or other assistance to the Government of AmericanSamoa may use any authority otherwise provided to him, including requesting assistance from other Federal agencies.
+The Secretary, in providing technical or other assistance to the Government of American Samoa may use any authority otherwise provided to him, including requesting assistance from other Federal agencies.
 
 (Pub. L. 100–571, §3, Oct. 31, 1988, 102 Stat. 2881.)
 
@@ -59,8 +59,4 @@ Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (g)(
 #### Termination of Advisory Boards
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410qq–1 of this title.
 

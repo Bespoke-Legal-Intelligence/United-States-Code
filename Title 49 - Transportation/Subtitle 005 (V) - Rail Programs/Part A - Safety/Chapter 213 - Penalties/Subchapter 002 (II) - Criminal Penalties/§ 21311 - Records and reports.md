@@ -16,7 +16,7 @@ Records and Reports Under Chapter 201.—A person shall be fined under title 18,
 
 (b)
 
-Accident and Incident Reports.—A railroad carrier not filing the report required by section 20901 of this title shall be fined not more than $500 for each violation and not more than $500 for each day during which the report is overdue.
+Accident and Incident Reports.—A railroad carrier not filing the report required by section 20901 of this title shall be fined not morethan $500 for each violation and not more than $500 for each day during which the report is overdue.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 893.)
 

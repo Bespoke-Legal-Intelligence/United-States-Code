@@ -32,7 +32,7 @@ In order to qualify for assistance under this subchapter, the development compan
 
 &emsp;&emsp;(E) expansion of small business concerns owned and controlled by veterans, as defined in section 632(q) of this title, especially service-disabled veterans, as defined in such section 632(q) of this title,
 
-&emsp;&emsp;(F) enhanced economic competition, including the advancement of technology, plan retooling, conversion to robotics, or competition with imports,
+&emsp;&emsp;(F) enhanced economic competition, including the advancement of technology, planretooling, conversion to robotics, or competition with imports,
 
 &emsp;&emsp;(G) changes necessitated by Federal budget cutbacks, including defense related industries, or
 
@@ -40,7 +40,25 @@ In order to qualify for assistance under this subchapter, the development compan
 
 > If eligibility is based upon the criteria set forth in paragraph (2) or (3), the project need not meet the job creation or job preservation criteria developed by the Administration if the overall portfolio of the development company meets or exceeds such job creation or retention criteria.
 
-(Pub. L. 85–699, title V, §501, Aug. 21, 1958, 72 Stat. 696; Pub. L. 100–590, title I, §115(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997; Pub. L. 101–574, title II, §214(a), (b), Nov. 15, 1990, 104 Stat. 2821; Pub. L. 106–50, title IV, §405, Aug. 17, 1999, 113 Stat. 246; Pub. L. 106–554, §1(a)(9) \[title III, §302\], Dec. 21, 2000, 114 Stat. 2763, 2763A–684.)
+#### (e) Creation or retention of jobs
+
+(1) A project meets the objective set forth in subsection (d)(1) of this section if the project creates or retains one job for every $50,000 guaranteed by the Administration, except that the amount is $100,000 in the case of a project of a small manufacturer.
+
+(2) Paragraph (1) does not apply to a project for which eligibility is based on the objectives set forth in paragraph (2) or (3) of subsection (d) of this section, if the development company's portfolio of outstanding debentures creates or retains one job for every $50,000 guaranteed by the Administration.
+
+(3) For projects in Alaska, Hawaii, State-designated enterprise zones, empowerment zones and enterprise communities, labor surplus areas, as determined by the Secretary of Labor, and for other areas designated by the Administrator, the development company's portfolio may average not more than $75,000 per job created or retained.
+
+(4) Loans for projects of small manufacturers shall be excluded from calculations under paragraph (2) or (3).
+
+(5) Under regulations prescribed by the Administrator, the Administrator may waive, on a case-by-case basis or by regulation, any requirement of this subsection (other than paragraph (4)). With respect to any waiver the Administrator is prohibited from adopting a dollar amount that is lower than the amounts set forth in paragraphs (1), (2), and (3).
+
+(6) As used in this subsection, the term “small manufacturer” means a small business concern—
+
+&emsp;(A) the primary business of which is classified in sector 31, 32, or 33 of the North American Industrial Classification System; and
+
+&emsp;(B) all of the production facilities of which are located in the United States.
+
+(Pub. L. 85–699, title V, §501, Aug. 21, 1958, 72 Stat. 696; Pub. L. 100–590, title I, §115(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997; Pub. L. 101–574, title II, §214(a), (b), Nov. 15, 1990, 104 Stat. 2821; Pub. L. 106–50, title IV, §405, Aug. 17, 1999, 113 Stat. 246; Pub. L. 106–554, §1(a)(9) \[title III, §302\], Dec. 21, 2000, 114 Stat. 2763, 2763A–684; Pub. L. 108–447, div. K, title I, §105, Dec. 8, 2004, 118 Stat. 3444.)
 
 #### References in Text
 
@@ -48,11 +66,13 @@ For definition of “this chapter”, referred to in subsec. (b), see References
 
 #### Amendments
 
+2004—Subsec. (e). Pub. L. 108–447 added subsec. (e).
+
 2000—Subsec. (d)(3)(C). Pub. L. 106–554 inserted “or women-owned business development” before comma at end.
 
 1999—Subsec. (d)(3)(E)–(H). Pub. L. 106–50 added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
 
-1990—Subsec. (a). Pub. L. 101–574, §214(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Congress hereby finds and declares that the purpose of this subchapter is to foster economic development in both urban and rural areas by providing long term financing for small business concerns through the development company program authorized by this subchapter. In order to carry out this objective, the Administration is hereby directed to place greater emphasis on the needs of rural areas andthe promotion of the development company program in such areas, and is further directed to develop a plan for greater outreach of procurement and export trade seminars in such areas. As used in this subchapter, the term ‘rural areas’ means those localities with populations of less than 20,000.”
+1990—Subsec. (a). Pub. L. 101–574, §214(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Congress hereby finds and declares that the purpose of this subchapter is to foster economic development in both urban and rural areas by providing long term financing for small business concerns through the development company program authorized by this subchapter. In order to carry out this objective, the Administration is hereby directed to place greater emphasis on the needs of rural areas and the promotion of the development company program in such areas, and is further directed to develop a plan for greater outreach of procurement and export trade seminars in such areas. As used in this subchapter, the term ‘rural areas’ means those localities with populations of less than 20,000.”
 
 Subsec. (d). Pub. L. 101–574, §214(b), added subsec. (d).
 
@@ -116,7 +136,7 @@ Report.—
 
 &emsp;“(1)
 
-In general.—The Administrator shall issue a report on the results of the pilot program to the Committees on Small Business of the House of Representatives and the Senate. The report shall include information relating to—
+In general.—The Administrator shall issue a report on the results of the pilot program to the Committees on Small Business of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\]. The report shall include information relating to—
 
 &emsp;&emsp;“(A) the total dollar amount of each loan and project liquidated;
 
@@ -133,8 +153,4 @@ In general.—The Administrator shall issue a report on the results of the pilot
 Reporting period.—The report shall be based on data from, and issued not later than 90 days after the close of, the first eight 8 \[sic\] fiscal quarters of the pilot program's operation after the date of implementation.”
 
 \[Section 204 of title II of div. D of Pub. L. 104–208, set out above, to cease to have effect beginning on the date on which final regulations are issued to carry out section 697g of this title, see section 1(a)(9) \[title III, §307(b)\] of Pub. L. 106–554, set out as a Regulations note under section 697g of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 696 of this title.
 

@@ -22,7 +22,3 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 1996—Subsec. (a). Pub. L. 104–259 substituted “$415,000,000” for “$310,000,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2296a of this title.
-

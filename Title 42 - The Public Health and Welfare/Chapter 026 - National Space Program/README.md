@@ -71,10 +71,10 @@
 | [2459e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459e%20-%20Quality%20assurance%20personnel.md) | Quality assurance personnel. |
 | (a) | Exclusion of NASA personnel. |
 | (b) | Contract provisions. |
-| [2459f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459f%20-%20Appropriation%20accounts%3B%20transfers.md) | Appropriation accounts; transfers. |
+| [2459f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459f%20-%20Full%20cost%20appropriations%20account%20structure.md) | Full cost appropriations account structure. |
 | (a) | Designation of accounts for appropriations. |
 | (b) | Transfers among accounts. |
-| (c) | Transfer of Missions support account balances. |
+| (c) | Transfer of unexpired balances. |
 | [2459g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459g%20-%20Requirement%20for%20independent%20cost%20analysis.md) | Requirement for independent cost analysis. |
 | (a) | Requirement. |
 | (b) | Definition. |
@@ -198,10 +198,6 @@
 | [2484\.](Subchapter%20003%20%28III%29%20-%20Upper%20Atmosphere%20Research/%C2%A7%2002484%20-%20International%20cooperation.md) | International cooperation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 41 section 421.
 
 
 ---

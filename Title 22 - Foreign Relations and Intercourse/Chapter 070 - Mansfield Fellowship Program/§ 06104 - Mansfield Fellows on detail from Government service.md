@@ -8,9 +8,9 @@
 
 &emsp;(A) continue in the service of the fellow's agency at the end of the fellowship for a period of at least 2 years unless the fellow is involuntarily separated from the service of such agency; and
 
-&emsp;(B) pay to the United States Information Agency any additional expenses incurred bythe Federal Government in connection with the fellowship if the fellow is voluntarily separated from service with the fellow's agency before the end of the period for which the fellow has agreed to continue in the service of such agency.
+&emsp;(B) pay to the United States Information Agency any additional expenses incurred by the Federal Government in connection with the fellowship if the fellow is voluntarily separated from service with the fellow's agency before the end of the period for which the fellow has agreed to continue in the service of such agency.
 
-(3) The payment agreed to under paragraph (2)(B) may not be required of a fellow who leaves the service of such agency to enter into the service of another agency in any branch of the United States Government unless the head of the agency that authorized the fellowship notifies the employee before the effective date of entry into the service of the other agency that payment will be required under this section.
+(3) The payment agreed to under paragraph (2)(B) may not be required of a fellow who leaves the service of such agency to enter into the service of another agency in any branch of the United States Government unless the head of the agency that authorized the fellowship notifies the employee before the effective date ofentry into the service of the other agency that payment will be required under this section.
 
 #### (b) Status as Government employee
 
@@ -29,8 +29,4 @@ A fellow detailed under subsection (a) of this section may be paid by the Center
 #### Transfer of Functions
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6103 of this title.
 

@@ -8,7 +8,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (1) Authority
 
-&emsp;In accordance with the rules of the Board, the Board may conduct an investigation of any act or practice, or omission to act, by a registered public accounting firm, any associated person of such firm, or both, that may violate any provision of this Act, the rules of the Board, the provisions of the securities laws relating to the preparation and issuance ofaudit reports and the obligations and liabilities of accountants with respect thereto, including the rules of the Commission issued under this Act, or professional standards, regardless of how the act, practice, or omission is brought to the attention of the Board.
+&emsp;In accordance with the rules of the Board, the Board may conduct an investigation of any act or practice, or omission to act, by a registered public accounting firm, any associated person of such firm, or both, that may violate any provision of this Act, the rules of the Board, the provisions of the securities laws relating to the preparation and issuance of audit reports and the obligations and liabilities of accountants with respect thereto, including the rules of the Commission issued under this Act, or professional standards, regardless of how the act, practice, or omission is brought to the attention of the Board.
 
 #### (2) Testimony and document production
 
@@ -160,7 +160,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 &emsp;&emsp;&emsp;(i) there have been established in and for that firm procedures, and a system for applying such procedures, that comply with applicable rules of the Board and that would reasonably be expected to prevent and detect any such violation by such associated person; and
 
-&emsp;&emsp;&emsp;(ii) such person has reasonably discharged the duties and obligations incumbent upon that person by reason of suchprocedures and system, and had no reasonable cause to believe that such procedures and system were not being complied with.
+&emsp;&emsp;&emsp;(ii) such person has reasonably discharged the duties and obligations incumbent upon that person by reason of such procedures and system, and had no reasonable cause to believe that such procedures and system were not being complied with.
 
 #### (7) Effect of suspension
 
@@ -211,10 +211,6 @@ The Board shall establish, by rule, subject to the requirements of this section,
 This Act, referred to in subsecs. (b)(1), (5)(B)(ii), (6) and (c)(3)(B), (4), (6)(A), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 The Freedom of Information Act, referred to in subsec. (b)(5)(A), is section 552 of Title 5, Government Organization and Employees. Section 552a of Title 5 is commonly known as the “Privacy Act”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7211, 7212, 7214, 7217 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

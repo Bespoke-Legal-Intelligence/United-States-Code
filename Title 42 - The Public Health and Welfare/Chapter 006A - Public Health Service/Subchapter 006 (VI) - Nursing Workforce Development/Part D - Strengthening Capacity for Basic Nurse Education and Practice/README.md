@@ -4,10 +4,6 @@ Part D—Strengthening Capacity for Basic Nurse Education and Practice
 
 A prior part D related to scholarship grants to schools of nursing and consisted of sections 298c to 298c–8, prior to the general amendment of this subchapter by Pub. L. 105–392.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 296e, 297q of this title.
-
 
 ---
 

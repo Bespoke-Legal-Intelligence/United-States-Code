@@ -32,7 +32,7 @@ The Secretary may lease, upon terms and conditions the Secretary considers appro
 
 #### (f) Retention and use of rentals; report
 
-To the extent provided in advance in appropriations Acts, the Secretary may retain and use money rentals received by the Secretary directly from a lease entered into under subsection (c) of this section in any amount the Secretary considers necessary to cover the administrative expenses of the lease, the maintenance and repair of the leased property, or environmental restoration activities at the facility where the leased property is located. Amounts retained under this subsection shall be retained in a separate fund established in the Treasury for such purpose. The Secretary shall annually submit to the Congress a report on amounts retained and amounts used under this subsection.
+To the extent provided in advance in appropriations Acts, the Secretary may retain anduse money rentals received by the Secretary directly from a lease entered into under subsection (c) of this section in any amount the Secretary considers necessary to cover the administrative expenses of the lease, the maintenance and repair of the leased property, or environmental restoration activities at the facility where the leased property is located. Amounts retained under this subsection shall be retained in a separate fund established in the Treasury for such purpose. The Secretary shall annually submit to the Congress a report on amounts retained and amounts used under this subsection.
 
 (Pub. L. 95–91, title VI, §646, Aug. 4, 1977, 91 Stat. 599; Pub. L. 103–160, div. C, title XXXI, §3154, Nov. 30, 1993, 107 Stat. 1952.)
 
@@ -50,7 +50,7 @@ Section 3159 of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, titl
 
 “(a)
 
-Goal.—Except as provided in subsection (c), a goal of 5 percent of the amount described in subsection (b) shall be the objective of the Department of Energy in carrying out national security programs of the Department in each of fiscal years 1994 through 2000 forthe total combined amount obligated for contracts and subcontracts entered into with—
+Goal.—Except as provided in subsection (c), a goal of 5 percent of the amount described in subsection (b) shall be the objective of the Department of Energy in carrying out national security programs of the Department in each of fiscal years 1994 through 2000 for the total combined amount obligated for contracts and subcontracts entered into with—
 
 &emsp;“(1) small business concerns, including mass media and advertising firms, owned and controlled by socially and economically disadvantaged individuals (as such term is used in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and regulations issued under that section), the majority of the earnings of which directly accrue to such individuals;
 
@@ -81,8 +81,4 @@ Pub. L. 95–238, title II, §204, Feb. 25, 1978, 92 Stat. 59, as amended by Pub
 “(b) The Secretary of Energy shall submit annually to the appropriate committees of the House of Representatives and the Senate a full report on the actions taken in carrying out subsection (a) during the preceding year, including the extent to which small business concerns are participating in the programs involved and in projects and activities of various types and sizes within each such program, and indicating the steps currently taken to assure such participation in the future. Such report shall also contain such information as may be required by section 308 of the Act of December 31, 1975 (42 U.S.C. 5878a; 89 Stat. 1074).”
 
 \[For termination, effective May 15, 2000, of reporting provisions in section 204(b) of Pub. L. 95–238, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 21st item on page 89 of House Document No. 103–7.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7141 of this title.
 

@@ -12,7 +12,7 @@ The Nuclear Regulatory Commission shall assess and collect annual charges from i
 
 The amount of the charges assessed pursuant to this paragraph shall be established by rule.
 
-(Pub. L. 99–272, title VII, §7601, Apr. 7, 1986, 100 Stat. 146; Pub. L. 100–203, title V, §5601, Dec. 22, 1987, 101 Stat. 1330–275; Pub. L. 101–239, title III, §3201, Dec. 19, 1989, 103 Stat. 2132; Pub. L. 101–508, title VI, §6101(e), Nov. 5, 1990, 104 Stat. 1388–299.)
+(Pub. L. 99–272, title VII, §7601, Apr. 7, 1986, 100 Stat. 146; Pub. L. 100–203, title V, §5601, Dec. 22,1987, 101 Stat. 1330–275; Pub. L. 101–239, title III, §3201, Dec. 19, 1989, 103 Stat. 2132; Pub. L. 101–508, title VI, §6101(e), Nov. 5, 1990, 104 Stat. 1388–299.)
 
 #### Codification
 

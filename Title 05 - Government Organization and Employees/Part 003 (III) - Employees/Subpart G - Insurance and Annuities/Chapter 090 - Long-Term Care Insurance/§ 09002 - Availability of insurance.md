@@ -38,7 +38,7 @@ Guaranteed issue.—Nothing in this chapter shall be considered to require that 
 
 &emsp;(4)
 
-Requirement that contract be fully insured.—In addition to the requirements otherwise applicable under section 9001(9), in order to be considered a qualified long-term care insurance contract for purposes of this chapter, a contract must be fully insured, whether through reinsurance with other companies or otherwise.
+Requirement that contract be fully insured.—In addition to the requirements otherwise applicable under section 9001(9), in order to be considered a qualified long-termcare insurance contract for purposes of this chapter, a contract must be fully insured, whether through reinsurance with other companies or otherwise.
 
 &emsp;(5)
 

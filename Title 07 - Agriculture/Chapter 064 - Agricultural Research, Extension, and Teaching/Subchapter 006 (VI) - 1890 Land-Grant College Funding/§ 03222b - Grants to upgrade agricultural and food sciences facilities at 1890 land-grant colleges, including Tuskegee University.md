@@ -14,7 +14,7 @@ Four percent of the sums appropriated pursuant to this section shall be availabl
 
 #### (d) Method of awarding grants
 
-Grants awarded pursuant to this section shall be made in such amounts and under such terms and conditions as the Secretary shall determine necessary for carrying out the purposes of this section.
+Grants awarded pursuant to this section shall be made in such amounts and under such termsand conditions as the Secretary shall determine necessary for carrying out the purposes of this section.
 
 #### (e) Prohibition of certain uses
 

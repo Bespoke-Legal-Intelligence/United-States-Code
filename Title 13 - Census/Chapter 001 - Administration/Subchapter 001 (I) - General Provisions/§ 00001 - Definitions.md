@@ -34,7 +34,3 @@ Pub. L. 103–430, §1, Oct. 31, 1994, 108 Stat. 4393, provided that: “This Ac
 
 Section 16 of Pub. L. 94–521 provided that: “If a provision enacted by this Act \[see section 17 of Pub. L. 94–521 set out above\] is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act \[Pub. L. 94–521\] is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 307 of this title.
-

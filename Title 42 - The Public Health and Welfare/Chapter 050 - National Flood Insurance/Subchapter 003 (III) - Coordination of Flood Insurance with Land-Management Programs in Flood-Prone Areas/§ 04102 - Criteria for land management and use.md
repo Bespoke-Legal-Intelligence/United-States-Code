@@ -6,7 +6,7 @@ The Director is authorized to carry out studies and investigations, utilizing to
 
 #### (b) Extent of studies and investigations
 
-Such studies and investigations shall include, but not be limited to, laws, regulations, or ordinances relating to encroachments and obstructions on stream channels and floodways, the orderly development and use of flood plains of rivers or streams, floodway encroachment lines, and flood plain zoning, building codes, buildingpermits, and subdivision or other building restrictions.
+Such studies and investigations shall include, but not be limited to, laws, regulations, or ordinances relating to encroachments and obstructions on stream channels and floodways, the orderly development and use of flood plains of rivers or streams, floodway encroachment lines, and flood plain zoning, building codes, building permits, and subdivision or other building restrictions.
 
 #### (c) Development of comprehensive criteria designed to encourage adoption of adequate State and local measures
 
@@ -95,8 +95,4 @@ Powers.—In carrying out this section, the Task Force may hold hearings, sit an
 “(j)
 
 Termination.—The Task Force shall terminate upon the expiration of the 24-month period beginning upon the designation of the last member to be designated under subsection (b).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4011, 4012, 4022, 4104, 4104c of this title.
 

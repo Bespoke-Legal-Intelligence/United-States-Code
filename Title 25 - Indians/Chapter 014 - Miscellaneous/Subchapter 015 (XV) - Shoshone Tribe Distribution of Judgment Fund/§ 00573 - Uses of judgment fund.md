@@ -14,7 +14,3 @@ The remainder of said judgment fund, including interest thereon, after making th
 
 (July 27, 1939, ch. 387, §3, 53 Stat. 1129.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 571, 575, 576, 577 of this title.
-

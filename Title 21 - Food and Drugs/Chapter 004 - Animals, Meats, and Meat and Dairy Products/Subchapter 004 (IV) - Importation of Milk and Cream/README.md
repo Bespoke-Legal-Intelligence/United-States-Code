@@ -4,10 +4,6 @@
 
 By virtue of act June 25, 1938, ch. 675, §902(c), 52 Stat. 1059 \[section 392(b) of this title\], nothing contained in section 301 et seq. of this title shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of this subchapter.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 392 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “Liens”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “makes”.</i>

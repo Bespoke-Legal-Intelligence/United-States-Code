@@ -66,7 +66,3 @@ Subsec. (b)(5). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for �
 
 Subsec. (d). Pub. L. 95–619, §425(d)(1), added subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6302 to 6304, 6316 of this title.
-

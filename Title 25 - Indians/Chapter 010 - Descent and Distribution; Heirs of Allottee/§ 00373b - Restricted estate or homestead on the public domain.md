@@ -14,9 +14,5 @@ Pub. L. 98–25, §3, substituted “$50,000” for “$2,000”.
 
 Section 2 of Pub. L. 98–25 provided in part that no non-Indian lands in Harney County, Oregon, shall be considered Indian country as defined in section 1151 of Title 18, Crimes and Criminal Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 373c of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a colon.</i>
 

@@ -18,7 +18,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (1) In general
 
-&emsp;Except as specifically provided in this section, until the dissolution date the Association shall continue to have all of the rights, privileges and obligations set forth in, and shall be subject to all of the limitations and restrictions of, section 1087–2 of this title, and the Association shall continue to carry out the purposes of such section. The Holding Company and any subsidiary of the Holding Company (other than the Association) shall not be entitled to any of the rights, privileges, and obligations, and shall not be subject to the limitations and restrictions, applicable to the Association under section 1087–2 of this title, except as specifically provided in this section. The Holding Company and any subsidiary of the Holding Company (other than the Association or a subsidiary of the Association) shall not purchase loans insured under this chapter until such time as the Association ceases acquiring such loans, except that the Holding Company may purchase such loans if the Association is merely continuing to acquire loans as a lender of last resort pursuant to section 1087–2(q) of this title or under an agreement with the Secretary described in paragraph (6).
+&emsp;Except as specifically provided in this section, until the dissolution date the Association shall continue to have all of the rights, privileges and obligations set forth in, and shall be subject to all of the limitations and restrictions of, section 1087–2 of this title, and the Association shall continue to carry out the purposes of such section. The Holding Company and any subsidiary of the Holding Company (other than the Association) shall not be entitled to any of the rights, privileges, and obligations, and shall not be subject to the limitations and restrictions, applicable to the Association under section 1087–2 of this title, except as specifically provided in this section. The Holding Company and any subsidiary of the Holding Company (other than the Association or a subsidiary of the Association) shall not purchase loans insured under this chapter until such time as the Association ceases acquiring such loans, except that the Holding Company may purchase such loans if the Association is merely continuing to acquire loansas a lender of last resort pursuant to section 1087–2(q) of this title or under an agreement with the Secretary described in paragraph (6).
 
 #### (2) Transfer of certain property
 
@@ -40,7 +40,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (3) Transfer of personnel
 
-&emsp;On the reorganization effective date, employees of the Association shall become employees of the Holding Company (or any subsidiary of the Holding Company), and the Holding Company (or any subsidiary of the Holding Company) shall provide all necessaryand appropriate management and operational support (including loan servicing) to the Association, as requested by the Association. The Association, however, may obtain such management and operational support from persons or entities not associated with the Holding Company.
+&emsp;On the reorganization effective date, employees of the Association shall become employees of the Holding Company (or any subsidiary of the Holding Company), and the Holding Company (or any subsidiary of the Holding Company) shall provide all necessary and appropriate management and operational support (including loan servicing) to the Association, as requested by the Association. The Association, however, may obtain such management and operational support from persons or entities not associated with the Holding Company.
 
 #### (4) Dividends
 
@@ -140,7 +140,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (A) In general
 
-&emsp;&emsp;On the reorganization effective date, the Holding Company shall issue to the District of Columbia Financial Responsibility and Management Assistance Authority a number of stock warrants that is equal to one percent of the outstanding shares of the Association, determined as of the last day of the fiscal quarter preceding September 30, 1996, with each stock warrant entitling the holder of the stock warrant to purchase from the Holding Company one share of the registered common stock of the Holding Company or the Holding Company's successors or assigns, at any time on or before September 30, 2008. The exercise price for such warrants shall be an amount equal to the average closing price of the common stock of the Association for the 20 business days prior to September 30, 1996, on the exchange or market which is then the primary exchange or market for the common stock of the Association. The number of shares of Holding Company common stock subject to each stock warrant and the exercise price of each stock warrant shall be adjusted as necessary to reflect—
+&emsp;&emsp;On the reorganization effective date, the Holding Company shall issue to the District of Columbia Financial Responsibility and Management Assistance Authority a numberof stock warrants that is equal to one percent of the outstanding shares of the Association, determined as of the last day of the fiscal quarter preceding September 30, 1996, with each stock warrant entitling the holder of the stock warrant to purchase from the Holding Company one share of the registered common stock of the Holding Company or the Holding Company's successors or assigns, at any time on or before September 30, 2008. The exercise price for such warrants shall be an amount equal to the average closing price of the common stock of the Association for the 20 business days prior to September 30, 1996, on the exchange or market which is then the primary exchange or market for the common stock of the Association. The number of shares of Holding Company common stock subject to each stock warrant and the exercise price of each stock warrant shall be adjusted as necessary to reflect—
 
 &emsp;&emsp;&emsp;(i) the conversion of Association common stock into Holding Company common stock as part of the plan of reorganization approved by the Association's shareholders; and
 
@@ -148,7 +148,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (B) Authority to sell or exercise stock warrants; deposit of proceeds
 
-&emsp;&emsp;The District of Columbia Financial Responsibility and Management Assistance Authority is authorized to sell or exercise the stock warrants described in subparagraph (A). The District of Columbia Financial Responsibility and Management Assistance Authority shall deposit into the account established under section 1155(e) <sup>1</sup> of this title amounts collected from the sale and proceeds resulting from the exercise of thestock warrants pursuant to this subparagraph.
+&emsp;&emsp;The District of Columbia Financial Responsibility and Management Assistance Authority is authorized to sell or exercise the stock warrants described in subparagraph (A). The District of Columbia Financial Responsibility and Management Assistance Authority shall deposit into the account established under section 1155(e) <sup>1</sup> of this title amounts collected from the sale and proceeds resulting from the exercise of the stock warrants pursuant to this subparagraph.
 
 #### (10) Restrictions on transfer of Association shares and bankruptcy of Association
 
@@ -268,7 +268,7 @@ For purposes of this section:
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, seeShort Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 Section 1155(e) of this title, referred to in subsecs. (c)(9)(B) and (e)(3), was in the original a reference to section 3(e) of the Student Loan Marketing Association Reorganization Act of 1996, and was translated as reading section 603(e) of that Act, which is Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603(e)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, to reflect the probable intent of Congress, because that Act does not contain a section 3(e), but does contain a section 603(e) which establishes the account referred to in text.
 
@@ -277,10 +277,6 @@ Section 1155(e) of this title, referred to in subsecs. (c)(9)(B) and (e)(3), was
 A prior section 1087–3, Pub. L. 89–329, title IV, §439A, as added Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2141, related to a five-year nondischargeability of certain loan debts, prior to repeal by Pub. L. 95–598, title III, §317, Nov. 6, 1978, 92 Stat. 2678, eff. Nov. 6, 1978.
 
 A prior section 1087–3a, Pub. L. 89–329, title IV, §439B, as added Pub. L. 95–566, §8, Nov. 1, 1978, 92 Stat. 2404, authorized any loan under this part to be counted as part of the expected family contribution in the determination of need, prior to repeal by Pub. L. 97–35, title V, §532(b)(2), Aug. 13, 1981, 95 Stat. 452, applicable to loans for the statement required by section 1078(a)(2)(A) of this title is completed on or after Oct. 1, 1981.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1078–3, 1085, 1087–2, 1087–4, 1155 of this title; title 12 section 1828.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

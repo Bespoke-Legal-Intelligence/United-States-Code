@@ -1,9 +1,5 @@
 Part V—Contingencies
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 2394–1 of this title.
-
 
 ---
 

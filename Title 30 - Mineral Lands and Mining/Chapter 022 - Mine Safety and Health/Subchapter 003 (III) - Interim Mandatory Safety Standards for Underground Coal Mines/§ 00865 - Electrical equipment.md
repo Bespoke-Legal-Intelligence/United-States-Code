@@ -26,7 +26,7 @@
 
 (8) Any permit or renewal thereof issued pursuant to this subsection shall entitle the permittee to use such nonpermissible electric face equipment specified in the permit during the term of such permit.
 
-(9) Permits for noncompliance issued under paragraphs (6) or (7) of this subsection shall, in the aggregate, not extend the period of noncompliance more than forty-eight months after December 30, 1969.
+(9) Permits for noncompliance issued under paragraphs (6) or (7) of this subsection shall, inthe aggregate, not extend the period of noncompliance more than forty-eight months after December 30, 1969.
 
 (10) Any application for a permit of noncompliance filed under this subsection shall contain a statement by the operator—
 
@@ -100,7 +100,7 @@ All electric equipment shall be provided with switches or other controls that ar
 
 #### (p) Lightning arresters
 
-Each ungrounded, exposed power conductor that leads underground shall be equipped withsuitable lightning arresters of approved type within one hundred feet of the point where the circuit enters the mine. Lightning arresters shall be connected to a low resistance grounding medium on the surface which shall be separated from neutral grounds by a distance of not less than twenty-five feet.
+Each ungrounded, exposed power conductor that leads underground shall be equipped with suitable lightning arresters of approved type within one hundred feet of the point where the circuit enters the mine. Lightning arresters shall be connected to a low resistance grounding medium on the surface which shall be separated from neutral grounds by a distance of not less than twenty-five feet.
 
 #### (q) Nonapproved devices
 
@@ -115,8 +115,4 @@ An authorized representative of the Secretary may require in any mine that elect
 #### References in Text
 
 For the operative date of this subchapter, referred to in subsecs. (a)(1), (2), (4) to (6), (10)(B), (C), (11), (12), and (c), see section 509 of Pub. L. 91–173, set out as an Effective Date note under section 801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 861, 863, 878 of this title.
 

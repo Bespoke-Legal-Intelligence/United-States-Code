@@ -86,7 +86,7 @@ Congressional notification.—No later than 180 days after receiving the second 
 
 &emsp;(4)
 
-Full portability.—Each master contract under this chapter shall include such provisions as may be necessary to ensure that, once an individual becomes duly enrolled, long-term care insurance coverage obtained by such individual pursuant to that enrollment shall not be terminated due to any change in status (such as separation from Government service or the uniformed services) or ceasingto meet the requirements for being considered a qualified relative (whether as a result of dissolution of marriage or otherwise).
+Full portability.—Each master contract under this chapter shall include such provisions as may be necessary to ensure that, once an individual becomes duly enrolled, long-term care insurance coverage obtained by such individual pursuant to that enrollment shall not be terminated due to any change in status (such as separation from Government service or the uniformed services) or ceasing to meet the requirements for being considered a qualified relative (whether as a result of dissolution of marriage or otherwise).
 
 (Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 764.)
 
@@ -94,7 +94,7 @@ Full portability.—Each master contract under this chapter shall include such p
 
 The Contract Disputes Act of 1978, referred to in subsec. (c)(3), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. Sections 8(c) and 10(a)(1) of the Act are classified to sections 607(c) and 609(a)(1), respectively, of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 41 and Tables.
 
-#### Section Referred to in Other Sections
+#### Change of Name
 
-This section is referred to in sections 9002, 9004, 9007 of this title.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

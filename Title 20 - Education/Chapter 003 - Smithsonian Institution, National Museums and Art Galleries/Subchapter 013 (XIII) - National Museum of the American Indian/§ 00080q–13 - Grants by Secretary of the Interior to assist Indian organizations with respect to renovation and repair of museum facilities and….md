@@ -40,7 +40,3 @@ Subsec. (d) of this section, which required the Secretary of the Interior, in co
 
 Pub. L. 102–196, Dec. 9, 1991, 105 Stat. 1620, directed Secretary of the Interior to conduct a study and make a report to Congress on the feasibility of establishing a Native American Cultural Center in Oklahoma City, Oklahoma, and made appropriations for that purpose.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80q–15 of this title.
-

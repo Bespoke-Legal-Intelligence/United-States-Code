@@ -4,7 +4,7 @@ For the purpose of this subchapter—
 
 &emsp;(1) “employee” means any individual, other than the President and the Vice President, employed or holding office in—
 
-&emsp;&emsp;(A) an Executive agency other than the General Accounting Office;
+&emsp;&emsp;(A) an Executive agency other than the Government Accountability Office;
 
 &emsp;&emsp;(B) a position within the competitive service which is not in an Executive agency; or
 
@@ -20,17 +20,17 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) includes any contract, promise, or agreement, express or implied, whether or not legally enforceable, to make a contribution for any political purpose;
 
-&emsp;&emsp;(C) includes any payment by any person, other than a candidate or a political partyor affiliated organization, of compensation for the personal services of another person which are rendered to any candidate or political party or affiliated organization without charge for any political purpose; and
+&emsp;&emsp;(C) includes any payment by any person, other than a candidate or a political party or affiliated organization, of compensation for the personal services of another person which are rendered to any candidate or political party or affiliated organization without charge for any political purpose; and
 
 &emsp;&emsp;(D) includes the provision of personal services for any political purpose.
 
-(Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1001.)
+(Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1001; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Prior Provisions
 
 A prior section 7322, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited employees in Executive agencies or competitive service from using official authority or influence to coerce political actions of persons or bodies, prior to the general revision of this subchapter by Pub. L. 103–94.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in title 18 sections 602, 603, 610.
+2004—Par. (1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

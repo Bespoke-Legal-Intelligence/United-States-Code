@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than March 31 of each year, the Secretary of State shall transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a full and complete annual report which assesses for the preceding calendar year, withrespect to each foreign country member of the United Nations, the voting practices of the governments of such countries at the United Nations, and which evaluates General Assembly and Security Council actions and the responsiveness of those governments to United States policy on issues of special importance to the United States.
+Not later than March 31 of each year, the Secretary of State shall transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a full and complete annual report which assesses for the preceding calendar year, with respect to each foreign country member of the United Nations, the voting practices of the governments of such countries at the United Nations, and which evaluates General Assembly and Security Council actions and the responsiveness of those governments to United States policy on issues of special importance to the United States.
 
 #### (b) Information on voting practices in United Nations
 
@@ -22,7 +22,7 @@ Such report shall include, with respect to voting practices and plenary actions 
 
 &emsp;&emsp;(D) a listing of votes described in subparagraph (A) displayed in terms of United Nations regional caucus groups;
 
-&emsp;(4) a listing of all plenary votes cast by member countries of the United Nations in the General Assembly which provides a comparison of the votes cast by each member country with the vote cast by the United States;
+&emsp;(4) a listing of all plenary votes cast by member countries of the United Nations in the General Assembly which provides a comparison of the votes cast by each member country with the vote cast by the United States, including a separate listing of all plenary votes cast by member countries of the United Nations in the General Assembly on resolutions specifically related to Israel that are opposed by the United States;
 
 &emsp;(5) an analysis and discussion, prepared in consultation with the Secretary of State, of the extent to which other members supported United States policy objectives in the Security Council and a separate listing of all Security Council votes of each member country in comparison with the United States; and
 
@@ -36,13 +36,17 @@ Information required pursuant to subsection (b)(3) of this section shall also be
 
 Each report under subsection (a) of this section shall contain a statement by the Secretary of State discussing the measures which have been taken to inform United States diplomatic missions of United Nations General Assembly and Security Council activities.
 
-(Pub. L. 101–246, title IV, §406, Feb. 16, 1990, 104 Stat. 66.)
+(Pub. L. 101–246, title IV, §406, Feb. 16, 1990, 104 Stat. 66; Pub. L. 108–447, div. D, title V, §534(k), Dec. 8, 2004, 118 Stat. 3007.)
 
 #### Codification
 
 Section is comprised of section 406 of Pub. L. 101–246. Subsec. (e) of section 406 of Pub. L. 101–246 repealed provisions contained in prior appropriation acts which had been formerly set out as this section. See Similar Provisions note below.
 
 Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+
+#### Amendments
+
+2004—Subsec. (b)(4). Pub. L. 108–447 inserted before semicolon at end “, including a separate listing of all plenary votes cast by member countries of the United Nations in the General Assembly on resolutions specifically related to Israel that are opposed by the United States”.
 
 #### Similar Provisions
 
@@ -60,7 +64,7 @@ Pub. L. 99–190, §101(i) \[title V, §529\], Dec. 19, 1985, 99 Stat. 1291, 130
 
 Pub. L. 98–473, title I, §101(1) \[title V, §530\], Oct. 12, 1984, 98 Stat. 1884, 1900; repealed by Pub. L. 101–167, title V, §527(e)(2), Nov. 21, 1989, 103 Stat. 1224.
 
-Pub. L. 98–151, §101(b)(1), Nov. 14, 1983, 97 Stat. 967; repealed by Pub. L. 101–167, title V, §527(e)(1), Nov. 21, 1989, 103 Stat. 1224, and Pub. L. 101–246, title IV, §406(e)(1), Feb. 16, 1990, 104 Stat. 67.
+Pub. L. 98–151, §101(b)(1), Nov. 14, 1983, 97 Stat. 967; repealed by Pub. L. 101–167, title V, §527(e)(1), Nov. 21,1989, 103 Stat. 1224, and Pub. L. 101–246, title IV, §406(e)(1), Feb. 16, 1990, 104 Stat. 67.
 
 #### Requirement for Disclosure of Foreign Aid in Report of Secretary of State
 

@@ -8,7 +8,7 @@ Shall be fined under this title or imprisoned not more than twenty years, or bot
 
 (b) Whoever takes and carries away, with intent to steal or purloin, any property or money or any other thing of value exceeding $1,000 belonging to, or in the care, custody, control, management, or possession of any bank, credit union, or any savings and loan association, shall be fined under this title or imprisoned not more than ten years, or both; or
 
-Whoever takes and carries away, with intent to steal or purloin, any property or money or any other thing of value not exceeding $1,000 belonging to, or in the care, custody, control, management, or possession of any bank, credit union, or any savings and loan association, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever takes and carries away, with intent to steal or purloin, any property or money orany other thing of value not exceeding $1,000 belonging to, or in the care, custody, control, management, or possession of any bank, credit union, or any savings and loan association, shall be fined under this title or imprisoned not more than one year, or both.
 
 (c) Whoever receives, possesses, conceals, stores, barters, sells, or disposes of, any property or money or other thing of value which has been taken or stolen from a bank, credit union, or savings and loan association in violation of subsection (b), knowing the same to be property which has been stolen shall be subject to the punishment provided in subsection (b) for the taker.
 
@@ -87,8 +87,4 @@ Subsec. (h). Pub. L. 91–468, §8(2), added subsec. (h).
 1952—Subsec. (g). Act Apr. 8, 1952, broadened definition of “savings and loan association” by including any insured institution as defined in section 401 of the National Housing Act, as amended.
 
 1950—Act Aug. 3, 1950, brought within section State-chartered savings and loan associations whose accounts are insured by the Federal Savings and Loan Insurance Corporation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1956, 3559, 5032 of this title; title 42 section 14135a.
 

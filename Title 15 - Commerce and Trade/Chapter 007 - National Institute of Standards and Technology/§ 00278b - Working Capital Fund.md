@@ -46,7 +46,3 @@ A prior section 12 of act Mar. 3, 1901, ch. 872, as added by act July 22, 1950, 
 
 Amendment by Pub. L. 99–73 effective Oct. 1, 1984, see section 5(c) of Pub. L. 99–73, set out as an Effective Date note under section 275c of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 275b of this title.
-

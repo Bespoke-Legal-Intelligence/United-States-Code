@@ -68,7 +68,3 @@ Subject to the extent of amounts made available in appropriations Acts, the amou
 
 (July 1, 1944, ch. 373, title XII, §1218, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2924.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300d–11, 300d–32 of this title.
-

@@ -44,7 +44,3 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par.
 
 A prior section 6453, Pub. L. 89–10, title I, §1423, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3598; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(18)(C), (f)(13)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431, related to local educational agency applications, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6455 of this title.
-

@@ -15,14 +15,7 @@
 
 |  |  |
 | :--- | ---: |
-| [3911\.](Subchapter%20002%20%28II%29%20-%20Revenues%20for%20Refuge%20Operations%20and%20the%20Migratory%20Bird%20Conservation%20Fund/%C2%A7%2003911%20-%20Sale%20of%20admission%20permit%20at%20certain%20refuge%20units.md) | Sale of admission permit at certain refuge units. |
-| (a) | Sale of admission permits. |
-| (b) | Exceptions. |
-| (c) | Distribution of amounts collected. |
-| (d) | Persons accompanying permittees. |
-| (e) | Restrictions. |
-| (f) | Establishment of fees; posting of notices. |
-| (g) | Volunteers. |
+| [3911\.](Subchapter%20002%20%28II%29%20-%20Revenues%20for%20Refuge%20Operations%20and%20the%20Migratory%20Bird%20Conservation%20Fund/%C2%A7%2003911%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93447%2C%20div.%20J%2C%20title%20VIII%2C%20%C2%A7813%28c%29%2C%20Dec.%208%2C%202004%2C%20118%20Stat.%203390.md) | Repealed. |
 | [3912\.](Subchapter%20002%20%28II%29%20-%20Revenues%20for%20Refuge%20Operations%20and%20the%20Migratory%20Bird%20Conservation%20Fund/%C2%A7%2003912%20-%20Transfers%20to%20migratory%20bird%20conservation%20fund.md) | Transfers to migratory bird conservation fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

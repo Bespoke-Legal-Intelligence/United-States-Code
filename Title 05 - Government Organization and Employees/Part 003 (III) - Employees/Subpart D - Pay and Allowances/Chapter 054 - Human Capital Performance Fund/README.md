@@ -15,7 +15,7 @@
 
 #### Prior Provisions
 
-A prior chapter 54, consisting of sections 5401 to 5410, related to performance management and recognitionsystem, prior to repeal by Pub. L. 103–89, §3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
+A prior chapter 54, consisting of sections 5401 to 5410, related to performance management and recognition system, prior to repeal by Pub. L. 103–89, §3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
 
 #### Treatment of Employees Covered by Performance Management and Recognition System as of Termination Date
 

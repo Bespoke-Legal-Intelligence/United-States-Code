@@ -10,7 +10,7 @@ The following rivers and streams shall be subject to the same restrictions on th
 
 &emsp;(3) the Wind River, Washington, for a period not less than three years following the later of—
 
-&emsp;&emsp;(A) final approval of the Gifford Pinchot National Forest Plan, adopted pursuant to the National Forest Management Act of 1976 (Act of October 22, 1976, Public Law 94–588, as amended) (16 U.S.C. 1600 et seq.); or
+&emsp;&emsp;(A) final approval of the Gifford Pinchot National Forest Plan, adopted pursuant tothe National Forest Management Act of 1976 (Act of October 22, 1976, Public Law 94–588, as amended) (16 U.S.C. 1600 et seq.); or
 
 &emsp;&emsp;(B) submittal by the Secretary of a report to the President on the suitability or nonsuitability for addition to the national wild and scenic rivers system and a report by the President to the Congress of recommendations and proposals with respect to the designation of such river under the Wild and Scenic Rivers Act \[16 U.S.C. 1271 et seq.\];
 
@@ -35,10 +35,6 @@ The Wild and Scenic Rivers Act, referred to in subsec. (a)(3)(B), is Pub. L. 90�
 #### Codification
 
 Section 13 of Pub. L. 99–663, which enacted this section, consisted of subsecs. (a) to (d). Subsecs. (a) and (b) of section 13 were classified to this section, and subsecs. (c) and (d) of section 13 amended sections 1274 and 1276 of this title, respectively.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 544 to 544i, 544<i>l</i> to 544p of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

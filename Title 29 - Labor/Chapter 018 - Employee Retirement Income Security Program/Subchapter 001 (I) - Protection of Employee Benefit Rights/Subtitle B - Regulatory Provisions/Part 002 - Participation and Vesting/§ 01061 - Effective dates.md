@@ -12,7 +12,7 @@
 
 &emsp;(B) December 31, 1980.
 
-> For purposes of subparagraph (A) and section 1086(c) <sup>1</sup> of this title, any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement contained in this chapter or the Internal Revenue Code of 1986 shall not be treated as a termination of such collective bargaining agreement. This paragraph shall not apply unless the Secretary determines that the participation and vesting rules in effect on September 2, 1974, are not less favorable to participants, in the aggregate, than the rules provided under sections 1052, 1053, and 1054 of this title.
+> For purposes of subparagraph (A) and section 1086(c) <sup>1</sup> of this title, any plan amendment madepursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement contained in this chapter or the Internal Revenue Code of 1986 shall not be treated as a termination of such collective bargaining agreement. This paragraph shall not apply unless the Secretary determines that the participation and vesting rules in effect on September 2, 1974, are not less favorable to participants, in the aggregate, than the rules provided under sections 1052, 1053, and 1054 of this title.
 
 (2) For purposes of paragraph (1), the term “supplementary or special plan provision” means any plan provision which—
 
@@ -30,7 +30,7 @@
 
 &emsp;(B) the date on which his participation would commence under the plan as in effect on January 1, 1974.
 
-(2) No pension plan to which section 1053 of this title applies may make effective any planamendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which section 1053 of this title first becomes effective with respect to such plan) if such amendment provides that the nonforfeitable benefit derived from employer contributions to which any employee would be entitled is less than the lesser of the nonforfeitable benefit derived from employer contributions to which he would be entitled under—
+(2) No pension plan to which section 1053 of this title applies may make effective any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which section 1053 of this title first becomes effective with respect to such plan) if such amendment provides that the nonforfeitable benefit derived from employer contributions to which any employee would be entitled is less than the lesser of the nonforfeitable benefit derived from employer contributions to which he would be entitled under—
 
 &emsp;(A) the break in service rules of section 1052(b)(3) of this title, or
 
@@ -69,8 +69,4 @@ Amendment by section 7894(h)(2) of Pub. L. 101–239 effective, except as otherw
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–272 applicable with respect to applications for waivers, extensions, and modifications filed on or after Apr. 7, 1986, see section 11015(a)(3) of Pub. L. 99–272, set out as an Effective Date note under section 1085a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1086 of this title.
 

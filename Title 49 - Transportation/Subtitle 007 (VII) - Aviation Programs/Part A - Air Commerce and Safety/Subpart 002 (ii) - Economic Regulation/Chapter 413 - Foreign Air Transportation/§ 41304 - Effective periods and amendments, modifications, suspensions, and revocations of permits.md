@@ -24,7 +24,7 @@ Suspensions and Restrictions.—Without a hearing, but subject to the approval o
 
 Illegal Importation of Controlled Substances.—The Secretary—
 
-&emsp;(1) in consultation with appropriate departments, agencies, and instrumentalities of theGovernment, shall reexamine immediately the fitness of a foreign air carrier that—
+&emsp;(1) in consultation with appropriate departments, agencies, and instrumentalities of the Government, shall reexamine immediately the fitness of a foreign air carrier that—
 
 &emsp;&emsp;(A) violates the laws and regulations of the United States related to the illegal importation of a controlled substance; or
 
@@ -97,8 +97,4 @@ In subsection (b)(1), before clause (A), the words “alter” and “condition�
 In subsection (c), before clause (1), the words “Notwithstanding any other provision of law” are omitted as surplus. The words “on and after August 15, 1985” are omitted as executed. In clause (1), before subclause (A), the words “law enforcement and other” are omitted as surplus. The words “departments, agencies, and instrumentalities of the Government” are substituted for “agencies” for consistency in the revised title and with other titles of the Code. The words “a foreign air carrier” are substituted for “any carrier” for clarity. In clause (2), the words “of public convenience and necessity” are omitted as surplus. The word “amend” is added for consistency. The words “issued under this chapter” are added for clarity.
 
 In subsection (d), the word “response” is substituted for “protest or memorandum” to eliminate unnecessary words. The words “alteration” and “cancellation” are omitted as surplus.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41306, 41310 of this title.
 

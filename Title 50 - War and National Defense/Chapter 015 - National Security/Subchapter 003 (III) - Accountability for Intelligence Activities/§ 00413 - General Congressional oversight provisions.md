@@ -2,7 +2,7 @@
 
 #### (a) Reports to Congressional committees of intelligence activities and anticipated activities
 
-(1) The President shall ensure that the congressional intelligence committees are kept fully and currently informed of the intelligence activities of the United States, including any significant anticipated intelligence activity as required by this subchapter.
+(1) The President shall ensure that the congressional intelligence committees are kept fully and currently informed of the intelligence activities of the United States, including anysignificant anticipated intelligence activity as required by this subchapter.
 
 (2) Nothing in this subchapter shall be construed as requiring the approval of the congressional intelligence committees as a condition precedent to the initiation of any significant anticipated intelligence activity.
 
@@ -16,7 +16,7 @@ The President and the congressional intelligence committees shall each establish
 
 #### (d) Procedures to protect from unauthorized disclosure
 
-The House of Representatives and the Senate shall each establish, by rule or resolution of such House, procedures to protect from unauthorized disclosure all classified information, and all information relating to intelligence sources and methods, that is furnished to the congressional intelligence committees or to Members of Congress under this subchapter. Such procedures shall be established in consultation with the Director of Central Intelligence. In accordance with such procedures, each of the congressional intelligence committees shall promptly call to the attention of its respective House, or to any appropriate committee or committees of its respective House, any matter relating to intelligence activities requiring the attention of such House or such committee or committees.
+The House of Representatives and the Senate shall each establish, by rule or resolution of such House, procedures to protect from unauthorized disclosure all classified information, and all information relating to intelligence sources and methods, that is furnished to the congressional intelligence committees or to Members of Congress under this subchapter. Such procedures shall be established in consultation with the Director of National Intelligence. In accordance with such procedures, each of the congressional intelligence committees shall promptly call to the attention of its respective House, or to any appropriate committee or committees of its respective House, any matter relating to intelligence activities requiring the attention of such House or such committee or committees.
 
 #### (e) Construction of authority conferred
 
@@ -26,7 +26,7 @@ Nothing in this Act shall be construed as authority to withhold information from
 
 As used in this section, the term “intelligence activities” includes covert actions as defined in section 413b(e) of this title, and includes financial intelligence activities.
 
-(July 26, 1947, ch. 343, title V, §501, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 441; amended Pub. L. 107–306, title III, §§342(b), 353(b)(3)(A), (7), Nov. 27, 2002, 116 Stat. 2399, 2402.)
+(July 26, 1947, ch. 343, title V, §501, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 441; amended Pub. L. 107–306, title III, §§342(b), 353(b)(3)(A), (7), Nov. 27, 2002, 116 Stat. 2399, 2402; Pub. L. 108–458, title I, §1071(a)(1)(V), Dec. 17, 2004, 118 Stat. 3689.)
 
 #### References in Text
 
@@ -38,6 +38,8 @@ A prior section 413, act July 26, 1947, ch. 343, title V, §501, as added Oct. 1
 
 #### Amendments
 
+2004—Subsec. (d). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
 2002—Subsec. (a). Pub. L. 107–306, §353(b)(3)(A), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
 
 Subsec. (a)(2), (3). Pub. L. 107–306, §353(b)(7), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “As used in this subchapter, the term ‘congressional intelligence committees’ means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.”
@@ -46,7 +48,7 @@ Subsecs. (b) to (e). Pub. L. 107–306, §353(b)(3)(A), substituted “congressi
 
 Subsec. (f). Pub. L. 107–306, §342(b), inserted “, and includes financial intelligence activities” before period at end.
 
-#### Section Referred to in Other Sections
+#### Effective Date of 2004 Amendment
 
-This section is referred to in title 10 section 2723; title 42 section 7383d.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

@@ -40,13 +40,9 @@ The term “qualification standards” may include a requirement that an individ
 
 #### (3) Construction
 
-&emsp;Nothing in this chapter shall be construed to preempt, modify, or amend any State, county, or local law, ordinance, or regulation applicable to food handling which is designed to protect the public health from individuals who pose a significant risk to the health or safety of others, which cannot be eliminated by reasonable accommodation, pursuant to the list of infectious or communicable diseases and the modes of transmissability <sup>1</sup> published by the Secretary of Health and Human Services.
+&emsp;Nothing in this chapter shall be construed to preempt, modify, or amend any State, county, or local law, ordinance, or regulation applicable to food handling which is designed to protect the public health from individuals who pose a significant risk to the health or safetyof others, which cannot be eliminated by reasonable accommodation, pursuant to the list of infectious or communicable diseases and the modes of transmissability <sup>1</sup> published by the Secretary of Health and Human Services.
 
 (Pub. L. 101–336, title I, §103, July 26, 1990, 104 Stat. 333.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2000e–16b, 12209 of this title; title 2 section 1311; title 3 section 411.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “transmissibility”.</i>
 

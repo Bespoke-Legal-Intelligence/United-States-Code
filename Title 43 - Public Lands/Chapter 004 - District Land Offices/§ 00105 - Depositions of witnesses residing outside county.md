@@ -18,7 +18,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Words “officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
-

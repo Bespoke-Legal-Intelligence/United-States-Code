@@ -14,7 +14,7 @@ Requests for information under this section shall be submitted in such manner an
 
 #### (c) Responsibility of government entities
 
-Whenever any department, agency, or instrumentality of the United States or of any State receives a request from the United States Central Authority for information authorized to be provided to such Central Authority under subsection (a) of this section, the head of such department, agency, or instrumentality shall promptly cause a search to be made of the files and records maintained by such department,agency, or instrumentality in order to determine whether the information requested is contained in any such files or records. If such search discloses the information requested, the head of such department, agency, or instrumentality shall immediately transmit such information to the United States Central Authority, except that any such information the disclosure of which—
+Whenever any department, agency, or instrumentality of the United States or of any State receives a request from the United States Central Authority for information authorized to be provided to such Central Authority under subsection (a) of this section, the head of such department, agency, or instrumentality shall promptly cause a search to be made of the files and records maintained by such department, agency, or instrumentality in order to determine whether the information requested is contained in any such files or records. If such search discloses the information requested, the head of such department, agency, or instrumentality shall immediately transmit such information to the United States Central Authority, except that any such information the disclosure of which—
 
 &emsp;(1) would adversely affect the national security interests of the United States or the law enforcement interests of the United States or of any State; or
 
@@ -31,4 +31,8 @@ To the extent that information which the United States Central Authority is auth
 The United States Central Authority shall maintain appropriate records concerning its activities and the disposition of cases brought to its attention.
 
 (Pub. L. 100–300, §9, Apr. 29, 1988, 102 Stat. 440.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a)(2), was in the original “this Act” meaning Pub. L. 100–300, Apr. 29, 1988, 102 Stat. 437, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note under section 11601 of this title and Tables.
 

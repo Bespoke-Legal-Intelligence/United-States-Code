@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—MUNICIPAL WASTE BIOMASS ENERGY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 8803 of this title.
-
 
 ---
 

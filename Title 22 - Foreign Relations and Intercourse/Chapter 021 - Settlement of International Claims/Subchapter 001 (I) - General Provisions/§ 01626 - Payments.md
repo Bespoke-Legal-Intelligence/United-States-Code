@@ -34,7 +34,7 @@ Any person who makes application for any such payment shall be held to have cons
 
 #### (f) Non-assumption of liability by United States on claims against foreign governments
 
-Nothing in this subchapter shall be construed as the assumption of any liability by the United States for the payment or satisfaction, in wholeor in part, of any claim on behalf of any national of the United States against any foreign government.
+Nothing in this subchapter shall be construed as the assumption of any liability by the United States for the payment or satisfaction, in whole or in part, of any claim on behalf of any national of the United States against any foreign government.
 
 (Mar. 10, 1950, ch. 54, title I, §7, 64 Stat. 16; Aug. 8, 1953, ch. 396, §2, 67 Stat. 506; Aug. 9, 1955, ch. 645, §§1, 2, 69 Stat. 562; Pub. L. 90–421, §1(2), (3), July 24, 1968, 82 Stat. 420; Pub. L. 104–316, title II, §202(h), Oct. 19, 1996, 110 Stat. 3842.)
 
@@ -63,8 +63,4 @@ Act Aug. 9, 1955, §2, substituted “subchapter” for “chapter”.
 International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1, of 1954, §§1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 
 For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1627, 1641q, 1642<i>o</i>, 1643h, 1644m, 1645n of this title; title 50 App. section 2017n.
 

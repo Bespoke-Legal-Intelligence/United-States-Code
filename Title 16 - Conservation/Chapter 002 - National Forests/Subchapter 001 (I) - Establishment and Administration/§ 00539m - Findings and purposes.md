@@ -32,7 +32,3 @@ Pub. L. 108–7, div. F, title IV, §415, Feb. 20, 2003, 117 Stat. 294, provided
 
 Pub. L. 108–7, div. F, title IV, §401, Feb. 20, 2003, 117 Stat. 279, provided that: “This title \[enacting this section and sections 539m–1 to 539m–12 of this title, amending section 1746 of Title 43, Public Lands, and enacting provisions set out as a note above\] may be cited as the ‘T'uf Shur Bien Preservation Trust Area Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 539m–1, 539m–2, 539m–3, 539m–4, 539m–6, 539m–7, 539m–8, 539m–9, 539m–10, 539m–11, 539m–12 of this title.
-

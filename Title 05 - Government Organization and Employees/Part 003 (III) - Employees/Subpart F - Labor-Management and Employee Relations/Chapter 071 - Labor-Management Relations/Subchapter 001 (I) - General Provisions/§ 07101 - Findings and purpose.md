@@ -14,7 +14,7 @@
 
 > Therefore, labor organizations and collective bargaining in the civil service are in the public interest.
 
-(b) It is the purpose of this chapter to prescribe certain rights and obligations of the employees of the Federal Government and to establish procedures which are designed to meet the special requirements and needs of the Government. The provisions of this chapter should be interpreted in a manner consistent with the requirement of an effective and efficient Government.
+(b) It is the purpose of this chapter to prescribe certain rights and obligations of the employees of the Federal Government and to establish procedures which are designed to meet thespecial requirements and needs of the Government. The provisions of this chapter should be interpreted in a manner consistent with the requirement of an effective and efficient Government.
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192.)
 
@@ -80,13 +80,13 @@ NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and 
 
 #### General Provisions
 
-Section 1. <i>Policy</i>. (a) Each employee of the executive branch of the Federal Government has the right, freelyand without fear of penalty or reprisal, to form, join, and assist a labor organization or to refrain from any such activity, and each employee shall be protected in the exercise of this right. Except as otherwise expressly provided in this Order, the right to assist a labor organization extends to participation in the management of the organization and acting for the organization in the capacity of an organization representative, including presentation of its views to officials of the executive branch, the Congress, or other appropriate authority. The head of each agency shall take the action required to assure that employees in the agency are apprised of their rights under this section and that no interference, restraint, coercion, or discrimination is practiced within his agency to encourage or discourage membership in a labor organization.
+Section 1. <i>Policy</i>. (a) Each employee of the executive branch of the Federal Government has the right, freely and without fear of penalty or reprisal, to form, join, and assist a labor organization or to refrain from any such activity, and each employee shall be protected in the exercise of this right. Except as otherwise expressly provided in this Order, the right to assist a labor organization extends to participation in the management of the organization and acting for the organization in the capacity of an organization representative, including presentation of its views to officials of the executive branch, the Congress, or other appropriate authority. The head of each agency shall take the action required to assure that employees in the agency are apprised of their rights under this section and that no interference, restraint, coercion, or discrimination is practiced within his agency to encourage or discourage membership in a labor organization.
 
 (b) Paragraph (a) of this section does not authorize participation in the management of a labor organization or acting as a representative of such an organization by a supervisor, except as provided in section 24 of this Order, or by an employee when the participation or activity would result in a conflict or apparent conflict of interest or otherwise be incompatible with law or with the official duties of the employee.
 
 Sec. 2. <i>Definitions</i>. When used in this Order, the term—
 
-(a) “Agency” means an executive department, a Government corporation, and an independent establishment as defined in section 104 of title 5, United States Code, except the General Accounting Office;
+(a) “Agency” means an executive department, a Government corporation, and an independent establishment as defined in section 104 of title 5, United States Code, except the General Accounting Office \[now Government Accountability Office\];
 
 (b) “Employee” means an employee of an agency and an employee of a nonappropriated fund instrumentality of the United States but does not include, for the purpose of exclusive recognition or national consultation rights, a supervisor, except as provided in section 24 of this Order;
 
@@ -168,7 +168,7 @@ Sec. 4. <i>Powers and Duties of the Federal Labor Relations Authority.</i>
 
 (e) In any matters arising under subsection (c) and (d)(3) of this Section, the Authority may require an agency or a labor organization to cease and desist from violations of this Order and require it to take such affirmative action as the Authority considers appropriate to effectuate the policies of this Order.
 
-(f) In performing the duties imposed on it by this Section, the Authority may request and use the servicesand assistance of employees of other agencies in accordance with Section 1 of the Act of March 4, 1915 (38 Stat. 1084, as amended; 31 U.S.C. 686) \[31 U.S.C. 1535\].
+(f) In performing the duties imposed on it by this Section, the Authority may request and use the services and assistance of employees of other agencies in accordance with Section 1 of the Act of March 4, 1915 (38 Stat. 1084, as amended; 31 U.S.C. 686) \[31 U.S.C. 1535\].
 
 Sec. 5. <i>Powers and Duties of the Federal Service Impasses Panel</i>. (a) There is hereby established the Federal Service Impasses Panel as a distinct organizational entity within the Authority. The Panel consists of at least three members appointed by the President, one of whom he designates as chairman. The Authority shall provide the services and staff assistance needed by the Panel.
 
@@ -202,7 +202,7 @@ Sec. 6. <i>Powers and Duties of the Office of the General Counsel and the Assist
 
 #### Recognition
 
-Sec. 7. <i>Recognition in general</i>. (a) An agency shall accord exclusive recognition or national consultation rights at the request of a labor organization which meets the requirements for the recognition or consultation rights under this Order.
+Sec. 7. <i>Recognition in general</i>. (a) An agency shall accord exclusive recognition or national consultationrights at the request of a labor organization which meets the requirements for the recognition or consultation rights under this Order.
 
 (b) A labor organization seeking recognition shall submit to the agency a roster of its officers and representatives, a copy of its constitution and by-laws, and a statement of its objectives.
 
@@ -256,7 +256,7 @@ Sec. 10. <i>Exclusive recognition</i>. (a) An agency shall accord exclusive reco
 
 #### Agreements
 
-Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, including policies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, or any question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, to assist in such negotiation; and execute a written agreement or memorandum of understanding.
+Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, including policies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, orany question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, to assist in such negotiation; and execute a written agreement or memorandum of understanding.
 
 (b) In prescribing regulations relating to personnel policies and practices and working conditions, an agency shall have due regard for the obligation imposed by paragraph (a) of this section. However, the obligation to meet and confer does not include matters with respect to the mission of an agency; its budget; its organization; the number of employees; and the numbers, types, and grades of positions or employees assigned to an organizational unit, work project or tour of duty; the technology of performing its work; or its internal security practices. This does not preclude the parties from negotiating agreements providing appropriate arrangements for employees adversely affected by the impact of realignment of work forces or technological change.
 
@@ -314,7 +314,7 @@ Sec. 15. <i>Approval of agreements</i>. An agreement with a labor organization a
 
 Sec. 16. <i>Negotiation disputes</i>. The Federal Mediation and Conciliation Service shall provide services and assistance to Federal agencies and labor organizations in the resolution of negotiation disputes. The Service shall determine under what circumstances and in what manner it shall proffer its services.
 
-Sec. 17. <i>Negotiation impasses</i>. When voluntary arrangements, including the services of the Federal Mediation and Conciliation Service or other third-party mediation, fail to resolve a negotiation impasse, either party may request the Federal Service Impasses Panel to consider the matter. The Panel, in its discretion and under the regulations it prescribes, may consider the matter and may recommend procedures to the parties for the resolution of the impasse or may settle the impasse by appropriate action. Arbitration or third-party fact finding with recommendations to assist in the resolution of an impasse may be used by the parties only when authorized or directed by the Panel.
+Sec. 17. <i>Negotiation impasses</i>. When voluntary arrangements, including the services of the Federal Mediation and Conciliation Service or other third-party mediation, fail to resolve a negotiation impasse, either party may request the Federal Service Impasses Panel to consider the matter. The Panel, in its discretion and under the regulations it prescribes, may consider thematter and may recommend procedures to the parties for the resolution of the impasse or may settle the impasse by appropriate action. Arbitration or third-party fact finding with recommendations to assist in the resolution of an impasse may be used by the parties only when authorized or directed by the Panel.
 
 #### Conduct of Labor Organizations and Management
 
@@ -376,7 +376,7 @@ Sec. 19. <i>Unfair labor practices</i>. (a) Agency management shall not—
 
 Sec. 20. <i>Use of official time</i>. Solicitation of membership or dues, and other internal business of a labor organization, shall be conducted during the non-duty hours of the employees concerned. Employees who represent a recognized labor organization shall not be on official time when negotiating an agreement with agency management, except to the extent that the negotiating parties agree to other arrangements which may provide that the agency will either authorize official time for up to 40 hours or authorize up to one-half the time spent in negotiations during regular working hours, for a reasonable number of employees, which number normally shall not exceed the number of management representatives.
 
-Sec. 21. <i>Allotment of dues</i>. (a) When a labor organization holds formal or exclusive recognition, and the agency and the organization agree in writing to this course of action, an agency may deduct the regular and periodic dues of the organization from the pay of members of the organization in the unit of recognition who make a voluntary allotment for that purpose, and shall recover the costs of making the deductions. Such an allotment is subject to the regulations of the Office of Personnel Management, which shall include provision for the employee to revoke his authorization at stated six-month intervals. Such an allotment terminates when—
+Sec. 21. <i>Allotment of dues</i>. (a) When a labor organization holds formal or exclusive recognition, and the agency and the organization agree in writing to this course of action, an agency may deduct the regular and periodic dues of the organization from the pay of members of the organization in the unit of recognition who make a voluntary allotment for that purpose, and shall recover the costs of making the deductions. Such an allotment is subject to the regulations of the Office of Personnel Management, which shall include provision for the employee to revoke his authorization at statedsix-month intervals. Such an allotment terminates when—
 
 (1) the dues withholding agreement between the agency and the labor organization is terminated or ceases to be applicable to the employee; or
 
@@ -410,5 +410,5 @@ Sec. 26. <i>Effective date</i>. This Order is effective on January 1, 1970, exce
 
 #### Executive Order No. 12871
 
-Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, as amended by Ex. Ord. No. 12983, Dec. 21, 1995, 60 F.R.66855; Ex. Ord. No. 13156, §1, May 17, 2000, 65 F.R. 31785, which established the National Partnership Council and required the head of certain Government agencies to implement labor-management partnerships to help reform Government, was revoked by Ex. Ord. No. 13203, Feb. 17, 2001, 66 F.R. 11227.
+Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, as amended by Ex. Ord. No. 12983, Dec. 21, 1995, 60 F.R. 66855; Ex. Ord. No. 13156, §1, May 17, 2000, 65 F.R. 31785, which established the National Partnership Council and required the head of certain Government agencies to implement labor-management partnerships to help reform Government, was revoked by Ex. Ord. No. 13203, Feb. 17, 2001, 66 F.R. 11227.
 

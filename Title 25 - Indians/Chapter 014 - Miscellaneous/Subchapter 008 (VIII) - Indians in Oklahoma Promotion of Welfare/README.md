@@ -1,9 +1,5 @@
 ### SUBCHAPTER VIII—INDIANS IN OKLAHOMA: PROMOTION OF WELFARE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 324, 443, 470a, 480, 482, 483, 861a, 1041b, 1112, 1461 of this title.
-
 
 ---
 

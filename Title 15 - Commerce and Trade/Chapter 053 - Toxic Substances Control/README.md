@@ -307,10 +307,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 10 section 2704; title 16 section 460<i>lll</i>; title 21 section 346a; title 42 sections 4365, 4852d, 6911a, 7412, 9601, 9604, 9621, 9628.
-
 
 ---
 

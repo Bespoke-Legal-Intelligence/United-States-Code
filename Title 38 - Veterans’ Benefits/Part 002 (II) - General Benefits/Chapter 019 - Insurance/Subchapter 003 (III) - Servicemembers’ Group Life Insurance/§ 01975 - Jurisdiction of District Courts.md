@@ -8,7 +8,3 @@ The district courts of the United States shall have original jurisdiction of any
 
 1991—Pub. L. 102–83 renumbered section 775 of this title as this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 511 of this title.
-

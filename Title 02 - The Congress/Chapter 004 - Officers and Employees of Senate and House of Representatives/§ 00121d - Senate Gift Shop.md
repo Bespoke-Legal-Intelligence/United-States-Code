@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of the Senate is authorized to establish a Senate Gift Shop for the purpose of providing for the sale of gift items to Members of the Senate, staff, and the general public.
+The Secretary of the Senate is authorized to establish a Senate Gift Shop for the purpose ofproviding for the sale of gift items to Members of the Senate, staff, and the general public.
 
 #### (b) Deposit of receipts
 
@@ -52,7 +52,7 @@ In subsec. (d), “section 5104(c) of title 40” substituted for “section 4 o
 
 #### Amendments
 
-<b>2001</b>—Subsec. (c). Pub. L. 107–68 designated existing provisions as par. (1) and added par. (2).
+2001—Subsec. (c). Pub. L. 107–68 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 2001 Amendment
 

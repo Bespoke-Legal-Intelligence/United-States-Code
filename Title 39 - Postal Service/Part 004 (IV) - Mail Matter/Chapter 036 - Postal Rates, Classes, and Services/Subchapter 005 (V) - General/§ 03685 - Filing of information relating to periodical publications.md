@@ -20,7 +20,3 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 765.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 611.
-

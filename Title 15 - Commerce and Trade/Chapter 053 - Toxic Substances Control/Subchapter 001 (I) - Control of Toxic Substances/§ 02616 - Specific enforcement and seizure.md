@@ -6,7 +6,7 @@
 
 &emsp;(A) restrain any violation of section 2614 or 2689 of this title,
 
-&emsp;(B) restrain any person from taking any action prohibited by section 2604 of this title,2605 of this title, or subchapter IV of this chapter, or by a rule or order under section 2604 of this title, 2605 of this title, or subchapter IV of this chapter,
+&emsp;(B) restrain any person from taking any action prohibited by section 2604 of this title, 2605 of this title, or subchapter IV of this chapter, or by a rule or order under section 2604 of this title, 2605 of this title, or subchapter IV of this chapter,
 
 &emsp;(C) compel the taking of any action required by or under this chapter, or
 

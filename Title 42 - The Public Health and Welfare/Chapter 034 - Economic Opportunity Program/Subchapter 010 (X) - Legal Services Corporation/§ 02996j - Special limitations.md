@@ -16,7 +16,3 @@ The Corporation shall prescribe procedures to insure that—
 
 Amendment by Pub. L. 95–222 effective Dec. 28, 1977, see section 17(b) of Pub. L. 95–222, set out as a note under section 2996 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2996e, 2996f of this title.
-

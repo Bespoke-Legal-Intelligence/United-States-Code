@@ -12,7 +12,7 @@ A State child support enforcement agency which obtains a financial record of an 
 
 #### (1) Disclosure by State officer or employee
 
-&emsp;If any person knowingly, or by reason of negligence, discloses a financial record of an individual in violation of subsection (b) of this section, such individual may bring a civil action for damages against such person in a district court of the United States.
+&emsp;If any person knowingly, or by reason of negligence, discloses a financial record of anindividual in violation of subsection (b) of this section, such individual may bring a civil action for damages against such person in a district court of the United States.
 
 #### (2) No liability for good faith but erroneous interpretation
 
@@ -63,8 +63,4 @@ For purposes of this section—
 #### Effective Date
 
 For effective date of section, see section 395(a)–(c) of Pub. L. 104–193, set out as an Effective Date of 1996 Amendment note under section 654 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 666 of this title.
 

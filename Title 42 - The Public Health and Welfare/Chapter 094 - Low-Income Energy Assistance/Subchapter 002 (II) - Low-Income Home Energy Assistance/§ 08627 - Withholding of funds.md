@@ -38,7 +38,3 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
 Amendment by Pub. L. 98–558 effective Oct. 30, 1984, see section 609(a) of Pub. L. 98–558 set out as a note under section 8621 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8624 of this title.
-

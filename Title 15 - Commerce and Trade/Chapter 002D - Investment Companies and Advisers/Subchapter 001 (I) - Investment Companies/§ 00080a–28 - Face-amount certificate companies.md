@@ -16,7 +16,7 @@ It shall be unlawful for any registered face-amount certificate company to issue
 
 &emsp;&emsp;(D) for each certificate of the installment type the amount of the reserve shall at any time be at least equal to (1) the then amount of the reserve payments set up under subparagraphs (A) or (B) of this paragraph; (2) the accumulations on such reserve payments as computed under subparagraphs (A) or (B) of this paragraph; (3) the amount of any deficiency reserve required under subparagraph (C) of this paragraph; and (4) such amount as shall have been credited to the account of each certificate holder in the form of any credit, or any dividend, or any interest in addition to the minimum maturity amount specified in such certificate, plus any accumulations on any amount or amounts so credited, at a rate not exceeding 31/2 per centum per annum compounded annually;
 
-&emsp;&emsp;(E) for each certificate which is fully paid, including any fully paid obligations resulting from or effected upon the maturity of the previously issued certificate, and for each paid-up certificate issued as provided in subsection (f) of this section prior to maturity, the amount of the reserve shall at any time be at least equal to (1) such amount as and when accumulated at a rate not to exceed 31/2 per centum per annum compounded annually, will provide the amount or amounts payable when due and (2) such amount as shall have been credited to the account of each such certificate holder in the form of any credit, or any dividend, or any interest in addition to the minimum maturity amount specified in the certificate, plus any accumulations on any amount or amounts so credited, at a rate not exceeding 31/2 per centum per annum compounded annually;
+&emsp;&emsp;(E) for each certificate which is fully paid, including any fully paid obligations resulting from or effected upon the maturity of the previously issued certificate, and for each paid-up certificate issued as provided in subsection (f) of this section prior to maturity, the amount of the reserve shall at any time be at least equal to (1) such amount as and when accumulated at a rate not to exceed 31/2 per centum per annum compounded annually, will provide the amount or amounts payable when due and (2) such amount as shall have been credited to the account of each such certificate holder in the form of any credit, or any dividend, orany interest in addition to the minimum maturity amount specified in the certificate, plus any accumulations on any amount or amounts so credited, at a rate not exceeding 31/2 per centum per annum compounded annually;
 
 &emsp;&emsp;(F) for each certificate of the installment type under which gross payments have been made by or credited to the holder thereof covering a payment period or periods or any part thereof beyond the then current payment period as defined by the terms of such certificate, and for which period or periods no reserve has been set up under subparagraph (A) or (B) of this paragraph, an advance payment reserve shall be set up and maintained in the amount of the present value of any such unapplied advance gross payments, computed at a rate not to exceed 31/2 per centum per annum compounded annually;
 
@@ -58,7 +58,7 @@ Any certificate may provide that the company at its option may, prior to the mat
 
 #### (e) Liability of holder to legal action for unpaid amount of certificate
 
-It shall be unlawful for any registered face-amount certificate company to issue or sell anyface-amount certificate, or to collect or accept any payment on any such certificate issued by such company on or after the effective date of this subchapter, which certificate makes the holder liable to any legal action or proceeding for any unpaid amount on such certificate.
+It shall be unlawful for any registered face-amount certificate company to issue or sell any face-amount certificate, or to collect or accept any payment on any such certificate issued by such company on or after the effective date of this subchapter, which certificate makes the holder liable to any legal action or proceeding for any unpaid amount on such certificate.
 
 #### (f) Optional right to paid up certificate in lieu of cash surrender value
 
@@ -107,8 +107,4 @@ Amendment by Pub. L. 91–547 effective on expiration of six months after Dec. 1
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–2, 80a–6, 80a–12 of this title.
 

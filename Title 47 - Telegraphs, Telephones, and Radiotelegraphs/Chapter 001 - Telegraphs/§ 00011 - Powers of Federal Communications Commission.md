@@ -8,7 +8,3 @@ If any railroad or telegraph company referred to in section 9 of this title, or 
 
 Duties, powers, and functions under this section relating to operation of telegraph lines by railroad and telegraph lines granted Government aid in construction of their lines imposed on and vested in Federal Communications Commission by act June 19, 1934. See section 601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12, 15, 601 of this title.
-

@@ -88,7 +88,7 @@ In this section:
 
 &emsp;&emsp;(A) a 5-year plan for improving the assistance provided by the Tribal College or University to Indian students, increasing the rates at which Indian secondary school students enroll in higher education, and increasing overall postsecondary retention rates for Indian students; and
 
-&emsp;&emsp;(B) such enrollment data and other information and assurances as the Secretary mayrequire to demonstrate compliance with paragraph (1).
+&emsp;&emsp;(B) such enrollment data and other information and assurances as the Secretary may require to demonstrate compliance with paragraph (1).
 
 #### (3) Special rules
 
@@ -137,8 +137,4 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 #### Effective Date
 
 Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1068, 1068h of this title; title 7 sections 1926, 2206a, 3103.
 

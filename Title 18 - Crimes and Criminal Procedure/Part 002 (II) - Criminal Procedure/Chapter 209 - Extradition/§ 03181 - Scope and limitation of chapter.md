@@ -42,7 +42,7 @@ Pub. L. 105–323, title II, Oct. 30, 1998, 112 Stat. 3033, provided that:
 
 &emsp;“(4) in enacting the International Parental Kidnapping Crime Act of 1993 (Public Law 103–173; 107 Stat. 1998; 18 U.S.C. 1204), Congress recognized the need to combat parental abduction by making the act of international parental kidnapping a Federal criminal offense;
 
-&emsp;“(5) many of the extradition treaties to which the United States is a party specifically list the offenses that are extraditable and use the word ‘kidnapping’, but it has been the practice of the United States not to consider the term to include parental abduction because these treaties were negotiated by the United States prior to the development in United States criminal law described in paragraphs (3) and (4);
+&emsp;“(5) many of the extradition treaties to which the United States is a party specifically list the offenses that are extraditable and use the word ‘kidnapping’, but it has been the practice of the United States not to consider the term to include parental abduction because these treaties were negotiated by the UnitedStates prior to the development in United States criminal law described in paragraphs (3) and (4);
 
 &emsp;“(6) the more modern extradition treaties to which the United States is a party contain dual criminality provisions, which provide for extradition where both parties make the offense a felony, and therefore it is the practice of the United States to consider such treaties to include parental abduction if the other foreign state party also considers the act of parental abduction to be a criminal offense; and
 
@@ -74,7 +74,7 @@ Evidence on hearings.—For purposes of applying section 3190 of title 18, Unite
 
 &emsp;“(3)
 
-Payment of fees and costs.—(A) The provisions of the Agreement Between the United States and the International Tribunal for Yugoslavia and of the Agreement Between the United States and the International Tribunal for Rwanda shall apply in lieu of the provisions of section 3195 of title 18, UnitedStates Code, with respect to the payment of expenses arising from the surrender by the United States of a person to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda, respectively, or from any proceedings in the United States relating to such surrender.
+Payment of fees and costs.—(A) The provisions of the Agreement Between the United States and the International Tribunal for Yugoslavia and of the Agreement Between the United States and the International Tribunal for Rwanda shall apply in lieu of the provisions of section 3195 of title 18, United States Code, with respect to the payment of expenses arising from the surrender by the United States of a person to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda, respectively, or from any proceedings in the United States relating to such surrender.
 
 &emsp;“(B) The authority of subparagraph (A) may be exercised only to the extent and in the amounts provided in advance in appropriations Acts.
 
@@ -281,8 +281,4 @@ The United States currently has bilateral extradition treaties with the followin
 The United States is a party to the Multilateral Convention on Extradition signed at Montevideo on Dec. 26, 1933, entered into force for the United States on Jan. 25, 1935. 49 Stat. 3111.
 
 Other states which have become parties: Argentina, Chile, Colombia, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3184 of this title; title 22 section 7432.
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary shall—
 
-&emsp;(1) subject to subsection (b)(2) and in consultation with appropriate representatives of institutions which are regularly engaged in making housing loans, prescribe uniform qualifications for appraisers, including the successful completion of a written test, submission of a sample appraisal, certification of an appropriate number of years of experience as an appraiser, and submission of recommendations from other appraisers;
+&emsp;(1) subject to subsection (b)(2) and in consultation with appropriate representatives of institutions which are regularly engaged in making housing loans, prescribe uniform qualifications for appraisers, including thesuccessful completion of a written test, submission of a sample appraisal, certification of an appropriate number of years of experience as an appraiser, and submission of recommendations from other appraisers;
 
 &emsp;(2) use such qualifications in determining whether to approve an appraiser to make appraisals of the reasonable value of any property, construction, repairs, or alterations for the purposes of this chapter; and
 
@@ -48,7 +48,7 @@
 
 &emsp;(E) such recommendations as the Secretary considers appropriate to improve the exercise of the authority provided for in this subsection and to protect the interests of the United States.
 
-(Added Pub. L. 99–576, title IV, §407(a), Oct. 28, 1986, 100 Stat. 3282, §1831; amended Pub. L. 100–198, §11(a), (b), Dec. 21, 1987, 101 Stat. 1324; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §3(b), (c), June 13, 1991, 105 Stat. 267; renumbered §3731 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §7, Oct. 28, 1992, 106 Stat. 3636; Pub. L. 104–110, title I, §101(g), Feb. 13, 1996, 110 Stat. 768.)
+(Added Pub. L. 99–576, title IV, §407(a), Oct. 28, 1986, 100 Stat. 3282, §1831; amended Pub. L. 100–198, §11(a), (b), Dec. 21, 1987, 101 Stat. 1324; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §3(b), (c), June 13,1991, 105 Stat. 267; renumbered §3731 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §7, Oct. 28, 1992, 106 Stat. 3636; Pub. L. 104–110, title I, §101(g), Feb. 13, 1996, 110 Stat. 768.)
 
 #### Codification
 
@@ -83,8 +83,4 @@ Subsec. (f). Pub. L. 100–198, §11(b)(3), added subsec. (f).
 #### Ratification of Actions During Period of Expired Authority
 
 Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3710, 3736, 3762 of this title.
 

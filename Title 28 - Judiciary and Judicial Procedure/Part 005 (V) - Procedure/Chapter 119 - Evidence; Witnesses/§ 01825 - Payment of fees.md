@@ -1,6 +1,6 @@
 ### §1825. Payment of fees
 
-(a) In any case in which the United States or an officer or agency of the United States is a party, the United States marshal for the district shall pay all fees of witnesses on the certificate of the United States attorney or assistantUnited States attorney, and in the proceedings before a United States magistrate judge, on the certificate of such magistrate judge, except that any fees of defense witnesses, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the United States marshal for the district—
+(a) In any case in which the United States or an officer or agency of the United States is a party, the United States marshal for the district shall pay all fees of witnesses on the certificate of the United States attorney or assistant United States attorney, and in the proceedings before a United States magistrate judge, on the certificate of such magistrate judge, except that any fees of defense witnesses, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the United States marshal for the district—
 
 &emsp;(1) on the certificate of a Federal public defender or assistant Federal public defender, in a criminal case in which the defendant is represented by such Federal public defender or assistant Federal public defender, and
 
@@ -14,7 +14,7 @@
 
 (c) Fees and mileage need not be tendered to a witness upon service of a subpoena issued on behalf of the United States or an officer or agency of the United States, upon service of a subpoena issued on behalf of a defendant represented by a Federal public defender, assistant Federal public defender, or other attorney appointed pursuant to section 3006A of title 18, or upon service of a subpoena issued on behalf of a party authorized to proceed in forma pauperis, if the payment of such fees and mileage is to be made by the United States marshal under this section.
 
-(June 25, 1948, ch. 646, 62 Stat. 951; Pub. L. 89–162, Sept. 2, 1965, 79 Stat. 618; Pub. L. 99–651, title I, §104, Nov. 14, 1986, 100 Stat. 3645; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 646, 62 Stat. 951; Pub. L. 89–162, Sept. 2, 1965, 79 Stat. 618; Pub. L. 99–651, title I,§104, Nov. 14, 1986, 100 Stat. 3645; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Historical and Revision Notes
 
@@ -53,8 +53,4 @@ Changes were made in phraseology.
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–651 effective 120 days after Nov. 14, 1986, see section 105 of Pub. L. 99–651, set out as a note under section 3006A of Title 18, Crimes and Criminal Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 567 of this title.
 

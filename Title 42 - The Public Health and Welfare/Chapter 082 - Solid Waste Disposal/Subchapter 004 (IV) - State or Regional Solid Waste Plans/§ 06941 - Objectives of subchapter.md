@@ -16,7 +16,3 @@ Pub. L. 98–616, §301(a), inserted at end “In developing such comprehensive 
 
 1980—Pub. L. 96–482 included as an objective in the disposal of solid waste the utilization of energy and materials recoverable from solid waste.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6942 of this title.
-

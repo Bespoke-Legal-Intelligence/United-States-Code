@@ -72,13 +72,13 @@ The Secretary shall ensure that each individual participating in any program or 
 
 &emsp;&emsp;Notwithstanding any other provision of law, the Secretary may waive for a State, or a local area in a State, pursuant to a request submitted by the Governor of the State (in consultation with appropriate local elected officials) that meets the requirements of subparagraph (B)—
 
-&emsp;&emsp;&emsp;(i) any of the statutory or regulatory requirements of subchapter II of this chapter or this subchapter (except for requirements relating to wage and labor standards, including nondisplacement protections, worker rights, participation and protection of workers and participants,grievance procedures and judicial review, nondiscrimination, allocation of funds to local areas, eligibility of providers or participants, the establishment and functions of local areas and local boards, and procedures for review and approval of plans); and
+&emsp;&emsp;&emsp;(i) any of the statutory or regulatory requirements of subchapter II of this chapter or this subchapter (except for requirements relating to wage and labor standards, including nondisplacement protections, worker rights, participation and protection of workers and participants, grievance procedures and judicial review, nondiscrimination, allocation of funds to local areas, eligibility of providers or participants, the establishment and functions of local areas and local boards, and procedures for review and approval of plans); and
 
 &emsp;&emsp;&emsp;(ii) any of the statutory or regulatory requirements of sections 49g through 49i of this title (excluding requirements relating to the provision of services to unemployment insurance claimants and veterans, and requirements relating to universal access to basic labor exchange services without cost to jobseekers).
 
 #### (B) Requests
 
-&emsp;&emsp;A Governor requesting a waiver under subparagraph (A) shall submit a plan to the Secretary to improve the statewide workforce investment system that—
+&emsp;&emsp;A Governor requesting a waiver under subparagraph (A) shall submit a plan to theSecretary to improve the statewide workforce investment system that—
 
 &emsp;&emsp;&emsp;(i) identifies the statutory or regulatory requirements that are requested to be waived and the goals that the State or local area in the State, as appropriate, intends to achieve as a result of the waiver;
 
@@ -115,8 +115,4 @@ Provisions similar to this section were contained in sections 1504, 1571, and 15
 #### Amendments
 
 1998—Subsec. (i)(1). Pub. L. 105–277 substituted “1998 (Public Law 105–78; 111 Stat. 1467)” for “1997 (Public Law 104–208; 110 Stat. 3009–234)”. The substitution was made to reflect the probable intent of Congress, in the absence of closing quotation marks designating the provisions to be inserted.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2911, 2919, 2932 of this title.
 

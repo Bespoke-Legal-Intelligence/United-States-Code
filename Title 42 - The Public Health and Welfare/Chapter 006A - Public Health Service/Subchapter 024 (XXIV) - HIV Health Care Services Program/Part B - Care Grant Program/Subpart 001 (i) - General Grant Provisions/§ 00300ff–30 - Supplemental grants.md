@@ -92,7 +92,3 @@ In this section, the term “emerging community” means a metropolitan area—
 
 A prior section 300ff–30, act July 1, 1944, ch. 373, title XXVI, §2620, as added Aug. 18, 1990, Pub. L. 101–381, title II, §201, 104 Stat. 597, authorized appropriations for fiscal years 1991 through 1995, prior to repeal by Pub. L. 104–146, §§6(b), 13, May 20, 1996, 110 Stat. 1367, 1374, effective Oct. 1, 1996.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300ff–28 of this title.
-

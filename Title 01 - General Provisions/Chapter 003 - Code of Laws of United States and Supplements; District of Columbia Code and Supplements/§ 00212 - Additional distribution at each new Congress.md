@@ -4,7 +4,3 @@ In addition the Superintendent of Documents shall, at the beginning of the first
 
 (July 30, 1947, ch. 388, 61 Stat. 640.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 sections 54, 55.
-

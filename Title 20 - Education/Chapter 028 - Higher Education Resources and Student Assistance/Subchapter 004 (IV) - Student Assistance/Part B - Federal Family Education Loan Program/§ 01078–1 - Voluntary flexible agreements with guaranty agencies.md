@@ -12,7 +12,7 @@
 
 #### (2) Special rule
 
-&emsp;If the Secretary grants a waiver pursuant to paragraph (1)(B), any guaranty agency doingbusiness within the affected State or States may request, and the Secretary shall grant, an identical waiver to such guaranty agency under the same terms and conditions (including service area limitations) as govern the original waiver.
+&emsp;If the Secretary grants a waiver pursuant to paragraph (1)(B), any guaranty agency doing business within the affected State or States may request, and the Secretary shall grant, an identical waiver to such guaranty agency under the same terms and conditions (including service area limitations) as govern the original waiver.
 
 #### (3) Eligibility
 
@@ -20,7 +20,7 @@
 
 #### (4) Report required
 
-&emsp;Not later than September 30, 2001, the Secretary shall report to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives regarding the impact that the voluntary flexible agreements have had upon program integrity, program and cost efficiencies, and the availability and delivery of student financial aid. Such report shall include—
+&emsp;Not later than September 30, 2001, the Secretary shall report to the Committee on Laborand Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives regarding the impact that the voluntary flexible agreements have had upon program integrity, program and cost efficiencies, and the availability and delivery of student financial aid. Such report shall include—
 
 &emsp;&emsp;(A) a description of each voluntary flexible agreement and the performance goals established by the Secretary for each agreement;
 
@@ -125,6 +125,10 @@ This chapter, referred to in subsec. (b)(4), was in the original “this Act”,
 A prior section 1078–1, Pub. L. 89–329, title IV, §428A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1384; amended Pub. L. 100–50, §10(n), (<i>o</i>)(1), (p)(1), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 100–369, §§3–5(a), (b)(3), July 18, 1988, 102 Stat. 835, 836; Pub. L. 101–239, title II, §2003(a)(1), (b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2112, 2114; Pub. L. 101–508, title III, §3006(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(c)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §417, July 23, 1992, 106 Stat. 529; Pub. L. 103–208, §2(c)(29)–(32), Dec. 20, 1993, 107 Stat. 2465, 2466, related to Federal supplemental loans for students, prior to repeal by Pub. L. 103–66, title IV, §4047(b), (d), Aug. 10, 1993, 107 Stat. 364, effective July 1, 1994.
 
 Another prior section 1078–1, Pub. L. 89–329, title IV, §428A, as added Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2120; amended Pub. L. 95–43, §1(a)(30)–(32), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §412(e), (f), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1416, 1417, 1503; Pub. L. 97–35, title V, §535(e), Aug. 13, 1981, 95 Stat. 455, related to student loan insurance programs, prior to the general amendment of this part by Pub. L. 99–498.
+
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date
 

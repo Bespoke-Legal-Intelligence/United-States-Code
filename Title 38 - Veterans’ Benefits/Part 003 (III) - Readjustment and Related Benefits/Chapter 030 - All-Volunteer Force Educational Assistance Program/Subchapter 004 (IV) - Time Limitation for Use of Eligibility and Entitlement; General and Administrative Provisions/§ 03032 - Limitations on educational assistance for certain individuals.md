@@ -56,9 +56,17 @@
 
 (3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2561, §1432; amended Pub. L. 99–576, title III, §301(b), (d)(1), Oct. 28, 1986, 100 Stat. 3267, 3268; Pub. L. 100–689, title I,§§108(a)(2), 111(a)(7)(A), (8), Nov. 18, 1988, 102 Stat. 4169, 4172; Pub. L. 101–237, title IV, §422(a)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–16, §10(a)(3), Mar. 22, 1991, 105 Stat. 55; renumbered §3032 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §310(a), Oct. 29, 1992, 106 Stat. 4329; Pub. L. 103–446, title XII, §1201(d)(6), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §105(a), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 106–419, title I, §122(b)(1), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–14, §7(b)(2)(B), June 5, 2001, 115 Stat. 32.)
+(g)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or national test providing an opportunity for course credit at institutions of higher learning described in section 3452(b) of this title is the amount of the fee charged for the test.
+
+(2) The number of months of entitlement charged in the case of any individual for a test described in paragraph (1) is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by thefull-time monthly institutional rate of educational assistance, except for paragraph (1), such individual would otherwise be paid under subsection (a)(1), (b)(1), (d), or (e)(1) of section 3015 of this title, as the case may be.
+
+(3) In no event shall payment of educational assistance under this subsection for a test described in paragraph (1) exceed the amount of the individual's available entitlement under this chapter.
+
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2561, §1432; amended Pub. L. 99–576, title III, §301(b), (d)(1), Oct. 28, 1986, 100 Stat. 3267, 3268; Pub. L. 100–689, title I, §§108(a)(2), 111(a)(7)(A), (8), Nov. 18, 1988, 102 Stat. 4169, 4172; Pub. L. 101–237, title IV, §422(a)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–16, §10(a)(3), Mar. 22, 1991, 105 Stat. 55; renumbered §3032 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §310(a), Oct. 29, 1992, 106 Stat. 4329; Pub. L. 103–446, title XII, §1201(d)(6), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §105(a), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 106–419, title I, §122(b)(1), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–14, §7(b)(2)(B), June 5, 2001, 115 Stat. 32; Pub. L. 108–454, title I, §106(b)(1), Dec. 10, 2004, 118 Stat. 3602.)
 
 #### Amendments
+
+2004—Subsec. (g). Pub. L. 108–454 added subsec. (g).
 
 2001—Subsec. (b). Pub. L. 107–14 substituted “the least of the following:” for “the lesser of” and added cl. (3).
 
@@ -120,7 +128,13 @@ Amendment by Pub. L. 101–237 effective Sept. 30, 1990, see section 422(d) of P
 
 Amendment by section 108(a)(2) of Pub. L. 100–689 effective Jan. 1, 1989, see section 108(c) of Pub. L. 100–689, set out as a note under section 3002 of this title.
 
-#### Section Referred to in Other Sections
+#### Increase in Benefit for Individuals Pursuing Apprenticeship or On-Job Training; Montgomery GI Bill
 
-This section is referred to in sections 3015, 3020, 3022, 3034 of this title.
+Pub. L. 108–454, title I, §103(a), Dec. 10, 2004, 118 Stat. 3600, provided that: “For months beginning on or after October 1, 2005, and before January 1, 2008, subsection (c)(1) of section 3032 of title 38, United States Code, shall be applied as if—
+
+&emsp;“(1) the reference to ‘75 percent’ in subparagraph (A) were a reference to ‘85 percent’;
+
+&emsp;“(2) the reference to ‘55 percent’ in subparagraph (B) were a reference to ‘65 percent’; and
+
+&emsp;“(3) the reference to ‘35 percent’ in subparagraph (C) were a reference to ‘45 percent’.”
 

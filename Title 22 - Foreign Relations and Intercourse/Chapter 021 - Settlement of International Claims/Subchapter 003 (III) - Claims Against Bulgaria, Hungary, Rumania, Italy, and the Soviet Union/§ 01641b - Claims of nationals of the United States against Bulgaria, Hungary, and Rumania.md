@@ -20,7 +20,3 @@ The Commission shall receive and determine in accordance with applicable substan
 
 1968—Par. (4). Pub. L. 90–421, §1(10), added par. (4).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1641e, 1641i, 1641<i>l</i>, 1641<i>o</i> of this title; title 50 App. sections 2017g, 2017h, 2017<i>l.</i>
-

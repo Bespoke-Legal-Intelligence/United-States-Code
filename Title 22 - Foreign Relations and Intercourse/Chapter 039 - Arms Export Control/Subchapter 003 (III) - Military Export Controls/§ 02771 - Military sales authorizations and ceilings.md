@@ -20,7 +20,7 @@ Loans available under section 2763 of this title shall be provided at rates of i
 
 1996—Subsec. (c). Pub. L. 104–164, §101, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For fiscal year 1986 and fiscal year 1987, the principal amount of credits provided under section 2763 of this title at market rates of interest with respect to Greece, the Republic of Korea, the Philippines, Portugal, Spain, Thailand, and Turkey shall (if and to the extent each country so desires) be repaid in not more than twenty years, following a grace period of ten years on repayment of principal.”
 
-Subsec. (d). Pub. L. 104–164, §104(b)(2)(C), struck out subsec. (d) which read as follows: “The aggregate acquisition cost to the United States of excess defense articles ordered by the President in any fiscal year afterfiscal year 1976 for delivery to foreign countries or international organizations under the authority of chapter 2 of part II of the Foreign Assistance Act of 1961 or pursuant to sales under this chapter may not exceed $250,000,000 (exclusive of ships and their onboard stores and supplies transferred in accordance with law, and of any defense articles with respect to which the President submits a certification under section 2776(b) of this title.).”
+Subsec. (d). Pub. L. 104–164, §104(b)(2)(C), struck out subsec. (d) which read as follows: “The aggregate acquisition cost to the United States of excess defense articles ordered by the President in any fiscal year after fiscal year 1976 for delivery to foreign countries or international organizations under the authority of chapter 2 of part II of the Foreign Assistance Act of 1961 or pursuant to sales under this chapter may not exceed $250,000,000 (exclusive of ships and their onboard stores and supplies transferred in accordance with law, and of any defense articles with respect to which the President submits a certification under section 2776(b) of this title.).”
 
 1990—Subsec. (d). Pub. L. 101–513 inserted “, and of any defense articles with respect to which the President submits a certification under section 2776(b) of this title.” after “law”.
 
@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 98–151 substituted provisions relating to applicability t
 
 1981—Subsec. (a). Pub. L. 97–113, §105(a), substituted “$800,000,000 for the fiscal year 1982 and $800,000,000 for the fiscal year 1983” for “$500,000,000 for the fiscal year 1981”.
 
-Subsec. (b). Pub. L. 97–113, §105(b), prescribed in par. (1) $800,000,000 limit on credits for fiscal years 1982 and 1983, striking out $500,000,000 limit for fiscal year 1981, in par. (2) $3,269,525,000 limit on total principal amount of guaranteed loans for fiscal years 1982 and 1983, striking out $2,616,000,000 limit for fiscal year 1981, and in par. (3) $1,400,000,000 minimum for Israel in fiscal years 1982 and 1983, the same sum made available for fiscal year 1981, including requirement of $550,000,000 minimum of such funds for such fiscal years as credits under section 2763 of this title, striking out requirement for Israeli use of $200,000,000 of available funds only for relocation costs from the Sinai, and added pars. (4) to (7).
+Subsec. (b). Pub. L. 97–113, §105(b), prescribed in par. (1) $800,000,000 limit on credits for fiscal years 1982 and 1983, striking out $500,000,000 limit for fiscal year 1981, in par. (2) $3,269,525,000 limit on total principal amount of guaranteed loans for fiscal years 1982 and 1983, striking out $2,616,000,000 limit for fiscal year 1981, and in par. (3) $1,400,000,000 minimum for Israel in fiscal years 1982 and 1983, the same sum made available for fiscalyear 1981, including requirement of $550,000,000 minimum of such funds for such fiscal years as credits under section 2763 of this title, striking out requirement for Israeli use of $200,000,000 of available funds only for relocation costs from the Sinai, and added pars. (4) to (7).
 
 Subsec. (c). Pub. L. 97–113, §105(c)(1)–(3), substituted “fiscal year 1982 and for the fiscal year 1983” for “fiscal year 1981”, “$550,000,000” for “$500,000,000”, and “each such year” for “such year”.
 
@@ -109,8 +109,4 @@ Section 17(b) of Pub. L. 96–92 provided that: “Of the principal amount of lo
 &emsp;“(3) with respect to Sudan, not to exceed $25,000,000,
 
 > shall be repaid in not less than 20 years, following a grace period of 10 years on repayment of principal.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2442, 3402 of this title.
 

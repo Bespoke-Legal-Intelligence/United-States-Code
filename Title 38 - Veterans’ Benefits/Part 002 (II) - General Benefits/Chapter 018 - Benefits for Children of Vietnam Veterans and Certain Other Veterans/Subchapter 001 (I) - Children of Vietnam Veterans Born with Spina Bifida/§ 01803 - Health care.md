@@ -42,7 +42,3 @@ A prior section 1803 was renumbered section 3703 of this title.
 
 1998—Subsec. (c)(2). Pub. L. 105–368 substituted “furnishing health care services that the Secretary determines are authorized” for “who furnishes health care that the Secretary determines authorized”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1813 of this title.
-

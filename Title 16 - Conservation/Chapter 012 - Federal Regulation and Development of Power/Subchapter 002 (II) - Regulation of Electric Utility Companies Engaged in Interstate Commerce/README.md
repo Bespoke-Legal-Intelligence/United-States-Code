@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—REGULATION OF ELECTRIC UTILITY COMPANIES ENGAGED IN INTERSTATE COMMERCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 803, 824a–3 of this title; title 42 section 7172; title 43 section 1761.
-
 
 ---
 

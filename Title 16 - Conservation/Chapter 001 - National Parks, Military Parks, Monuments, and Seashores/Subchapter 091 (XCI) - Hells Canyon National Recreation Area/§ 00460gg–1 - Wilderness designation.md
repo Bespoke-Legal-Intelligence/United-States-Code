@@ -2,7 +2,7 @@
 
 #### (a) Map designation
 
-The lands depicted as the “Hells Canyon Wilderness” on the map referred to in section460gg(b) of this title are hereby designated as wilderness.
+The lands depicted as the “Hells Canyon Wilderness” on the map referred to in section 460gg(b) of this title are hereby designated as wilderness.
 
 #### (b) Application of Wilderness Act
 
@@ -21,8 +21,4 @@ The effective date of the Wilderness Act, referred to in subsec. (b), means Sept
 The effective date of this subchapter, referred to in subsec. (b), means Dec. 31, 1975, the date of enactment of Pub. L. 94–199.
 
 Subsection 3(b) of this Act, referred to in subsec. (b), is subsec. 3(b) of Pub. L. 94–199, which is set out as a note under section 1274 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460gg, 460gg–4 of this title.
 

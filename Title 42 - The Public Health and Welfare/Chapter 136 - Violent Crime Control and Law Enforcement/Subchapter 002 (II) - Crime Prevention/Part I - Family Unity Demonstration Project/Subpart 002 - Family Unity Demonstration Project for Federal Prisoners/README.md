@@ -1,9 +1,5 @@
 subpart 2—family unity demonstration project for federal prisoners
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 13883 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 

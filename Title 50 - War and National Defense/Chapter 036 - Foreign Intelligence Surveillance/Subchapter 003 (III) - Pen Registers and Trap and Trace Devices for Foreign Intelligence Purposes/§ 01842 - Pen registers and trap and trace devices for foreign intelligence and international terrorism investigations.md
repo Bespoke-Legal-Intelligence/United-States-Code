@@ -2,7 +2,7 @@
 
 #### (a) Application for authorization or approval
 
-(1) Notwithstanding any other provision of law, the Attorney General or a designated attorney for the Government may make an application for an order or an extension of an order authorizing or approving the installation and useof a pen register or trap and trace device for any investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution which is being conducted by the Federal Bureau of Investigation under such guidelines as the Attorney General approves pursuant to Executive Order No. 12333, or a successor order.
+(1) Notwithstanding any other provision of law, the Attorney General or a designated attorney for the Government may make an application for an order or an extension of an order authorizing or approving the installation and use of a pen register or trap and trace device for any investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution which is being conducted by the Federal Bureau of Investigation under such guidelines as the Attorney General approves pursuant to Executive Order No. 12333, or a successor order.
 
 (2) The authority under paragraph (1) is in addition to the authority under subchapter I of this chapter to conduct the electronic surveillance referred to in that paragraph.
 
@@ -44,7 +44,7 @@ Each application under this section shall require the approval of the Attorney G
 
 &emsp;&emsp;&emsp;(I) shall not disclose the existence of the investigation or of the pen register or trap and trace device to any person unless or until ordered by the court; and
 
-&emsp;&emsp;&emsp;(II) shall maintain, under security procedures approved by the Attorney General and the Director of Central Intelligence pursuant to section 1805(b)(2)(C) <sup>2</sup> of this title, any records concerning the pen register or trap and trace device or the aid furnished; and
+&emsp;&emsp;&emsp;(II) shall maintain, under security procedures approved by the Attorney General and the Director of National Intelligence pursuant to section 1805(b)(2)(C) <sup>2</sup> of this title, any records concerning the pen register or trap and trace device or the aid furnished; and
 
 &emsp;&emsp;(iii) the applicant shall compensate such provider, landlord, custodian, or other person for reasonable expenses incurred by such provider, landlord, custodian, or other person in providing such information, facilities, or technical assistance.
 
@@ -60,7 +60,7 @@ No cause of action shall lie in any court against any provider of a wire or elec
 
 Unless otherwise ordered by the judge, the results of a pen register or trap and trace device shall be furnished at reasonable intervals during regular business hours for the duration of the order to the authorized Government official or officials.
 
-(Pub. L. 95–511, title IV, §402, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2405; amended Pub. L. 107–56, title II, §214(a), Oct. 26, 2001, 115 Stat. 286; Pub. L. 107–108, title III, §314(a)(5), Dec. 28, 2001, 115 Stat. 1402.)
+(Pub. L. 95–511, title IV, §402, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2405; amended Pub. L. 107–56, title II, §214(a), Oct. 26, 2001, 115 Stat. 286; Pub. L. 107–108, title III, §314(a)(5), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691.)
 
 #### Amendment of Section
 
@@ -75,6 +75,8 @@ Section 1805(b)(2)(C) of this title, referred to in subsec. (d)(2)(B)(ii)(II), w
 The criminal laws of the United States, referred to in subsec. (c)(3), are classified generally to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+2004—Subsec. (d)(2)(B)(ii)(II). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 2001—Subsec. (a)(1). Pub. L. 107–56, §§214(a)(1), 224, temporarily substituted “for any investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “for any investigation to gather foreign intelligence information or information concerning international terrorism”. See Termination Date of 2001 Amendment note below.
 
@@ -114,13 +116,13 @@ Subsec. (d)(2)(A). Pub. L. 107–56, §§214(a)(4), 224, temporarily amended sub
 
 Subsec. (f). Pub. L. 107–108, §314(a)(5)(B), substituted “terms of an order issued” for “terms of a court”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+
 #### Termination Date of 2001 Amendment
 
 Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1843 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be “; and”.</i>
 

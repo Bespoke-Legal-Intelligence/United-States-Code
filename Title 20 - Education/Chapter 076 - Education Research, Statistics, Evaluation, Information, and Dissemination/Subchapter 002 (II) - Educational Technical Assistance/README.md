@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—EDUCATIONAL TECHNICAL ASSISTANCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6317, 9562 of this title.
-
 
 ---
 

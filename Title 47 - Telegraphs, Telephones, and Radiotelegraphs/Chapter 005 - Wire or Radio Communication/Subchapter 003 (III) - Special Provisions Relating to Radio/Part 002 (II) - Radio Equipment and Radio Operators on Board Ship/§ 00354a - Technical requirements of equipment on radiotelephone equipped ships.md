@@ -24,7 +24,3 @@ Subsec. (c). Pub. L. 89–121 substituted “radiotelephone installation” for 
 
 Subsec. (d). Pub. L. 89–121 substituted “a main source of electrical energy” for “a source of energy”, “at least six continuous hours” for “at least six hours continuously”, and “installations made on or after November 19, 1952, a reserve source of electrical energy” for “in installations an emergency source of energy”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 46 section 14305.
-

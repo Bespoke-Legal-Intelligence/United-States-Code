@@ -18,7 +18,3 @@ Minor verbal change was made.
 
 1994—Pub. L. 103–322 inserted “or attempts to rob” after “robs”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 14135a.
-

@@ -120,7 +120,3 @@ In subsections (c) and (d), the words “Secretary of Transportation” and “S
 
 In subsection (c), the words “and his representatives” in 49 App.:1441(g) are omitted because of 49:322(b). The words “when participation is necessary to carry out the duties and powers” are substituted for “In order to assure the proper discharge . . . of his duties and responsibilities” to eliminate unnecessary words. The words “or his representatives” are omitted because of 49:322(b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 1131, 1151, 1152, 1155 of this title.
-

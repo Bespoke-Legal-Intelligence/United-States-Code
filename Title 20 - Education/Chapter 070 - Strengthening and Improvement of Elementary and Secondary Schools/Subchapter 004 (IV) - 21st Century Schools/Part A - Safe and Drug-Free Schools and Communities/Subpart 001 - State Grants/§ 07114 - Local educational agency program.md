@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(i) such agency shall return to the State educational agency any funds from such allocation that remain unobligated; and
 
-&emsp;&emsp;&emsp;(ii) the State educational agency shall reallocate any such amount to local educational agencies that have submitted plans for using such amount for programs or activities on a timely basis.
+&emsp;&emsp;&emsp;(ii) the State educational agency shall reallocate any such amount to local educational agencies that have submittedplans for using such amount for programs or activities on a timely basis.
 
 #### (B) Carryover
 
@@ -165,8 +165,4 @@ An application submitted by a local educational agency under this section shall 
 #### Prior Provisions
 
 A prior section 7114, Pub. L. 89–10, title IV, §4114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3679, related to governor's programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7115, 7345 of this title.
 

@@ -1,9 +1,5 @@
 Part IV—Economic Support Fund
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 290f, 2077, 2151b, 2151n, 2151n–2, 2151u, 2151x, 2151x–1, 2151x–2, 2152c, 2152d, 2184, 2185, 2186, 2275, 2291, 2295b, 2296e, 2304, 2348a, 2354, 2355, 2357, 2358, 2361, 2362, 2368, 2369, 2371, 2385, 2395, 2397, 2399c, 2399d, 2421, 2421d, 2427, 2430c, 2431d, 2799aa, 2799aa–1, 3403, 5412, 5442, 5451, 5452, 5453, 5854, 6062, 6591, 7102, 7536 of this title; title 12 section 635r; title 20 section 226.
-
 
 ---
 

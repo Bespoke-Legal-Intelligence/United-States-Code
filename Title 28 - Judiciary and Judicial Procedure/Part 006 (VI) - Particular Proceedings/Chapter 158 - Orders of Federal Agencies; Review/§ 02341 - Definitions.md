@@ -72,7 +72,3 @@ Amendment by Pub. L. 93–584 not applicable to actions commenced on or before l
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 sections 2149, 3804, 3805.
-

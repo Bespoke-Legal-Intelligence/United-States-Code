@@ -10,7 +10,7 @@ Beginning on the date nine months after November 8, 1984, each application for a
 
 &emsp;(3) the potential magnitude and nature of the human exposure resulting from such releases.
 
-> The owner or operator of a landfill or surface impoundment for which an application for such a final determination under section 6925(c) of this title has been submitted prior to November 8, 1984, shall submit the information required by this subsection to the Administrator (or the State, in the case of a State with an authorized program) no later than the date nine months after November 8, 1984.
+> The owner or operator of a landfill or surface impoundment for which an application for such a final determination under section 6925(c) of this title has been submitted prior to November 8, 1984, shall submit the information required by this subsection to the Administrator (or the State, in the case of a State with an authorizedprogram) no later than the date nine months after November 8, 1984.
 
 #### (b) Health assessments
 
@@ -39,8 +39,4 @@ For the purposes of this section, the term “health assessments” shall includ
 In any case in which a health assessment performed under this section discloses the exposure of a population to the release of a hazardous substance, the costs of such health assessment may be recovered as a cost of response under section 9607 of this title from persons causing or contributing to such release of such hazardous substance or, in the case of multiple releases contributing to such exposure, to all such release.
 
 (Pub. L. 89–272, title II, §3019, as added Pub. L. 98–616, title II, §247(a), Nov. 8, 1984, 98 Stat. 3265.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9604 of this title.
 

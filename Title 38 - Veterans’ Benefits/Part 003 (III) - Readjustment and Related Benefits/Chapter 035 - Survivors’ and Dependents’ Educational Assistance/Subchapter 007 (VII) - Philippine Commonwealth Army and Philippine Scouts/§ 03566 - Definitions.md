@@ -14,7 +14,3 @@ Section 14 of the Armed Forces Voluntary Recruitment Act of 1945, referred to in
 
 1991—Pub. L. 102–83 renumbered section 1766 of this title as this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 3565 of this title.
-

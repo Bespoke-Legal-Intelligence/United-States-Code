@@ -16,7 +16,7 @@ The Secretary of the Treasury may provide by regulation or instruction for the a
 
 &emsp;(4) personal property related to the use and enjoyment of a separated tract of land as described in article III of the Treaty To Resolve Pending Boundary Differences and Maintain the Rio Grande and Colorado Rivers as the International Boundary between the United States of America and the United Mexican States signed on November 23, 1970.
 
-> Any articles admitted under the authority of this subsection and used otherwise than for apurpose herein expressed, or not exported in such time and manner as may be prescribed in the regulations or instructions herein authorized, shall be forfeited to the United States.
+> Any articles admitted under the authority of this subsection and used otherwise than for a purpose herein expressed, or not exported in such time and manner as may be prescribed in the regulations or instructions herein authorized, shall be forfeited to the United States.
 
 (June 17, 1930, ch. 497, title III, §322, as added Aug. 8, 1953, ch. 397, §14, 67 Stat. 516; amended Pub. L. 92–549, title I, §107, Oct. 25, 1972, 86 Stat. 1162; Pub. L. 98–573, title I, §§124(c), 127(b), Oct. 30, 1984, 98 Stat. 2959.)
 
@@ -53,8 +53,4 @@ Section 195(a), (b), (d) of Pub. L. 98–573 provided that:
 #### Effective Date
 
 Section effective on and after thirtieth day following Aug. 8, 1953, see note set out under section 1304 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 46 App. section 883.
 

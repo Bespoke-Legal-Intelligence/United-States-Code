@@ -22,7 +22,3 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §125; added Oct. 27, 1974, Pub. 
 
 The text of 15:1410b(a) and (c)–(e) is omitted as obsolete. The text of 15:1410b(b)(2) and (3) and (f)(2) and (3) is omitted as unnecessary because of the restatement. The words “After the effective date of the amendment prescribed under subsection (a) of this section” are omitted as executed. The words “prescribed under this chapter” are substituted for “Federal” for consistency in this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 30122 of this title.
-

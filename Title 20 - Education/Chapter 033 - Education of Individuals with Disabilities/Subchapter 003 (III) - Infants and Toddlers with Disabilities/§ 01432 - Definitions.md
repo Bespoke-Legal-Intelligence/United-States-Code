@@ -1,6 +1,6 @@
 ### §1432. Definitions
 
-As used in this subchapter:
+In this subchapter:
 
 #### (1) At-risk infant or toddler
 
@@ -22,7 +22,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(B) are provided at no cost except where Federal or State law provides for a system of payments by families, including a schedule of sliding fees;
 
-&emsp;&emsp;(C) are designed to meet the developmental needs of an infant or toddler with a disability in any one or more of the following areas—
+&emsp;&emsp;(C) are designed to meet the developmental needs of an infant or toddler with a disability, as identified by the individualized family service plan team, in any 1 or more of the following areas:
 
 &emsp;&emsp;&emsp;(i) physical development;
 
@@ -34,7 +34,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(v) adaptive development;
 
-&emsp;&emsp;(D) meet the standards of the State in which they are provided, including the requirements of this subchapter;
+&emsp;&emsp;(D) meet the standards of the State in which the services are provided, including the requirements of this subchapter;
 
 &emsp;&emsp;(E) include—
 
@@ -42,7 +42,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(ii) special instruction;
 
-&emsp;&emsp;&emsp;(iii) speech-language pathology and audiology services;
+&emsp;&emsp;&emsp;(iii) speech-language pathology and audiology services, and sign language and cued language services;
 
 &emsp;&emsp;&emsp;(iv) occupational therapy;
 
@@ -82,13 +82,15 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(vii) nurses;
 
-&emsp;&emsp;&emsp;(viii) nutritionists;
+&emsp;&emsp;&emsp;(viii) registered dietitians;
 
 &emsp;&emsp;&emsp;(ix) family therapists;
 
-&emsp;&emsp;&emsp;(x) orientation and mobility specialists; and
+&emsp;&emsp;&emsp;(x) vision specialists, including ophthalmologists and optometrists;
 
-&emsp;&emsp;&emsp;(xi) pediatricians and other physicians;
+&emsp;&emsp;&emsp;(xi) orientation and mobility specialists; and
+
+&emsp;&emsp;&emsp;(xii) pediatricians and other physicians;
 
 &emsp;&emsp;(G) to the maximum extent appropriate, are provided in natural environments, including the home, and community settings in which children without disabilities participate; and
 
@@ -100,19 +102,25 @@ As used in this subchapter:
 
 &emsp;&emsp;(A) means an individual under 3 years of age who needs early intervention services because the individual—
 
-&emsp;&emsp;&emsp;(i) is experiencing developmental delays, as measured by appropriate diagnostic instruments and procedures in one or more of the areas of cognitive development, physical development, communication development, social or emotional development, and adaptive development; or
+&emsp;&emsp;&emsp;(i) is experiencing developmental delays, as measured by appropriate diagnostic instruments and procedures in 1 or more of the areas of cognitive development, physical development, communication development, social or emotional development, and adaptive development; or
 
-&emsp;&emsp;&emsp;(ii) has a diagnosed physical or mental condition which has a high probability of resulting in developmental delay; and
+&emsp;&emsp;&emsp;(ii) has a diagnosed physical or mental condition that has a high probability of resulting in developmental delay; and
 
-&emsp;&emsp;(B) may also include, at a State's discretion, at-risk infants and toddlers.
+&emsp;&emsp;(B) may also include, at a State's discretion—
 
-(Pub. L. 91–230, title VI, §632, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 106.)
+&emsp;&emsp;&emsp;(i) at-risk infants and toddlers; and
+
+&emsp;&emsp;&emsp;(ii) children with disabilities who are eligible for services under section 1419 of this title and who previously received services under this subchapter until such children enter, or are eligible under State law to enter, kindergarten or elementary school, as appropriate, provided that any programs under this subchapter serving such children shall include—
+
+&emsp;&emsp;&emsp;&emsp;(I) an educational component that promotes school readiness and incorporates pre-literacy, language, and numeracy skills; and
+
+&emsp;&emsp;&emsp;&emsp;(II) a written notification to parents of their rights and responsibilities in determining whether their child will continue to receive services under this subchapter or participate in preschool programs under section 1419 of this title.
+
+(Pub. L. 91–230, title VI, §632, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2744.)
 
 #### Prior Provisions
 
-A prior section 1432, Pub. L. 91–230, title VI, §632, Apr. 13, 1970, 84 Stat. 184; Pub. L. 98–199, §§3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1371; Pub. L. 99–457, title III, §309, Oct. 8, 1986, 100 Stat. 1168; Pub. L. 100–630, title I, §104(c), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title IV, §402, title IX, §901(b)(143), Oct. 30, 1990, 104 Stat. 1132, 1148; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to grants to State educational agencies and institutions for traineeships, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1432, Pub. L. 91–230, title VI, §632, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 106, set out definitions for this subchapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1401, 1418 of this title; title 42 sections 5116h, 9832.
+Another prior section 1432, Pub. L. 91–230, title VI, §632, Apr. 13, 1970, 84 Stat. 184; Pub. L. 98–199, §§3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1371; Pub. L. 99–457, title III, §309, Oct. 8, 1986, 100 Stat. 1168; Pub. L. 100–630, title I, §104(c), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title IV, §402, title IX, §901(b)(143), Oct. 30, 1990, 104 Stat. 1132, 1148; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to grants to State educational agencies and institutions for traineeships, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

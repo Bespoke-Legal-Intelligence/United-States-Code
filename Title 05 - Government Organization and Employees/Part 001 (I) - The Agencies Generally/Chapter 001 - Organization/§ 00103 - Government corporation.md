@@ -12,7 +12,3 @@ For the purpose of this title—
 
 The section is supplied to avoid the necessity for defining “Government corporation” and “Government controlled corporation” each time it is used in this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 20 section 1155; title 26 section 6402; title 31 sections 1344, 3332; title 42 section 12651.
-

@@ -4,7 +4,3 @@ When title to all the lands, structures, and other property in the military camp
 
 (Mar. 2, 1933, ch. 182, §1, 47 Stat. 1421.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 409i of this title.
-

@@ -22,9 +22,9 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 &emsp;&emsp;&emsp;(ii) of properly closing section 504 \[15 U.S.C. 697a\] loans and servicing its loan portfolio;
 
-&emsp;&emsp;(C) if the company agrees to assume and to reimburse the Administration for 10 percentof any loss sustained by the Administration as a result of default by the company in the payment of principal or interest on a debenture issued by such company and guaranteed by the Administration under this section; and
+&emsp;&emsp;(C) if the company agrees to assume and to reimburse the Administration for 10 percent of any loss sustained by the Administration as a result of default by the company in the payment of principal or interest on a debenture issued by such company and guaranteed by the Administration under this section (15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company); and
 
-&emsp;&emsp;(D) the Administrator determines, with respect to the company, that the loss reserve established in accordance with subsection (c)(2) of this section is sufficient for the company to meet its obligations to protect the Federal Government from risk of loss.
+&emsp;&emsp;(D) the <sup>1</sup> Administrator determines, with respect to the company, that the loss reserve established in accordance with subsection (c) of this section is sufficient for the companyto meet its obligations to protect the Federal Government from risk of loss.
 
 #### (3) Applicability of criteria after designation
 
@@ -62,11 +62,147 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (5) Replenishment
 
-&emsp;If a loss has been sustained by the Administration, any portion of the loss reserve, and other funds provided by the premier company as necessary, may be used to reimburse the Administration for the premier company's 10 percent share of the loss as provided in subsection (b)(2)(C) of this section. If the company utilizes the reserve, within 30 days it shall replace an equivalent amount of funds.
+&emsp;If a loss has been sustained by the Administration, any portion of the loss reserve, and other funds provided by the premier company as necessary, may be used to reimburse the Administration for the premier company's share of the loss as provided in subsection (b)(2)(C) of this section. If the company utilizes the reserve, within 30 days it shall replace an equivalent amount of funds.
 
 #### (6) Disbursements
 
-&emsp;The Administration shall allow the certified development company to withdraw from the loss reserve amounts attributable to any debenture that has been repaid.
+#### (A) In general
+
+&emsp;&emsp;The Administration shall allow the certified development company to withdraw from the loss reserve amounts attributable to any debenture that has been repaid.
+
+#### (B) Temporary reduction based on outstanding balance
+
+&emsp;&emsp;Notwithstanding subparagraph (A), during the 2-year period beginning on the date that is 90 days after May 28, 2004, the Administration shall allow the certified development company to withdraw from the loss reserve such amounts as are in excess of 1 percent of the aggregate outstanding balances of debentures to which such loss reserve relates. The preceding sentence shall not apply with respect to any debenture before 100 percent of the contribution described in paragraph (4) with respect to such debenture has been made.
+
+#### (7) Alternative loss reserve
+
+#### (A) Election
+
+&emsp;&emsp;With respect to any eligible calendar quarter, any qualified high loss reserve PCL may elect to have the requirements of this paragraph apply in lieu of the requirements of paragraphs (2) and (4) for such quarter.
+
+#### (B) Contributions
+
+#### (i) Ordinary rules inapplicable
+
+&emsp;&emsp;&emsp;Except as provided under clause (ii) and paragraph (5), a qualified high loss reserve PCL that makes the election described in subparagraph (A) with respect to a calendar quarter shall not be required to make contributions to its loss reserve during such quarter.
+
+#### (ii) Based on loss
+
+&emsp;&emsp;&emsp;A qualified high loss reserve PCL that makes the election described in subparagraph (A) with respect to any calendar quarter shall, before the last day of such quarter, make such contributions to its loss reserve as are necessary to ensure that the amount of the loss reserve of the PCL is—
+
+&emsp;&emsp;&emsp;&emsp;(I) not less than $100,000; and
+
+&emsp;&emsp;&emsp;&emsp;(II) sufficient, as determined by a qualified independent auditor, for the PCL to meet its obligations to protect the Federal Government from risk of loss.
+
+#### (iii) Certification
+
+&emsp;&emsp;&emsp;Before the end of any calendar quarter for which an election is in effect under subparagraph (A), the head of the PCL shall submit to the Administrator a certification that the loss reserve of the PCL is sufficient to meet such PCL's obligation to protect the Federal Government from risk of loss. Such certification shall be in such form and submitted in such manner as the Administrator may require and shall be signed by the head of such PCL and the auditor making the determination under clause (ii)(II).
+
+#### (C) Disbursements
+
+#### (i) Ordinary rule inapplicable
+
+&emsp;&emsp;&emsp;Paragraph (6) shall not apply with respect to any qualified high loss reserve PCL for any calendar quarter for which an election is in effect under subparagraph (A).
+
+#### (ii) Excess funds
+
+&emsp;&emsp;&emsp;At the end of each calendar quarter for which an election is in effect under subparagraph (A), the Administration shall allow the qualified high loss reserve PCL to withdraw from its loss reserve the excess of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount of the loss reserve, over
+
+&emsp;&emsp;&emsp;&emsp;(II) the greater of $100,000 or the amount which is determined under subparagraph (B)(ii) to be sufficient to meet the PCL's obligation to protect the Federal Government from risk of loss.
+
+#### (D) Recontribution
+
+&emsp;&emsp;If the requirements of this paragraph apply to a qualified high loss reserve PCL for any calendar quarter and cease to apply to such PCL for any subsequent calendar quarter, such PCL shall make a contribution to its loss reserve in such amount as the Administrator may determine provided that such amount does not exceed the amount which would result in the total amount in the loss reserve being equal to the amount which would have been in such loss reserve had this paragraph never applied to such PCL. The Administrator may require that such payment be made as a single payment or as a series of payments.
+
+#### (E) Risk management
+
+&emsp;&emsp;If a qualified high loss reserve PCL fails to meet the requirement of subparagraph (F)(iii) during any period for which an election is in effect under subparagraph (A) and such failure continues for 180 days, the requirements of paragraphs (2), (4), and (6) shall apply to such PCL as of the end of such 180-day period and such PCL shall make the contribution to its loss reserve described in subparagraph (D). The Administrator may waive the requirements of this subparagraph.
+
+#### (F) Qualified high loss reserve PCL
+
+&emsp;&emsp;The term “qualified high loss reserve PCL” means, with respect to any calendar year, any premier certified lender designated by the Administrator as a qualified high loss reserve PCL for such year. The Administrator shall not designate a company under the preceding sentence unless the Administrator determines that—
+
+&emsp;&emsp;&emsp;(i) the amount of the loss reserve of the company is not less than $100,000;
+
+&emsp;&emsp;&emsp;(ii) the company has established and is utilizing an appropriate and effective process for analyzing the risk of loss associated with its portfolio of PCLP loans and for grading each PCLP loan made by the company on the basis of the risk of loss associated with such loan; and
+
+&emsp;&emsp;&emsp;(iii) the company meets or exceeds 4 or more of the specified risk management benchmarks as of the most recent assessment by the Administration or the Administration has issued a waiver with respect to the requirement of this clause.
+
+#### (G) Specified risk management benchmarks
+
+&emsp;&emsp;For purposes of this paragraph, the term “specified risk management benchmarks” means the following rates, as determined by the Administrator:
+
+&emsp;&emsp;&emsp;(i) Currency rate.
+
+&emsp;&emsp;&emsp;(ii) Delinquency rate.
+
+&emsp;&emsp;&emsp;(iii) Default rate.
+
+&emsp;&emsp;&emsp;(iv) Liquidation rate.
+
+&emsp;&emsp;&emsp;(v) Loss rate.
+
+#### (H) Qualified independent auditor
+
+&emsp;&emsp;For purposes of this paragraph, the term “qualified independent auditor” means any auditor who—
+
+&emsp;&emsp;&emsp;(i) is compensated by the qualified high loss reserve PCL;
+
+&emsp;&emsp;&emsp;(ii) is independent of such PCL; and
+
+&emsp;&emsp;&emsp;(iii) has been approved by the Administrator during the preceding year.
+
+#### (I) PCLP loan
+
+&emsp;&emsp;For purposes of this paragraph, the term “PCLP loan” means any loan guaranteed under this section.
+
+#### (J) Eligible calendar quarter
+
+&emsp;&emsp;For purposes of this paragraph, the term “eligible calendar quarter” means—
+
+&emsp;&emsp;&emsp;(i) the first calendar quarter that begins after the end of the 90-day period beginning with May 28, 2004; and
+
+&emsp;&emsp;&emsp;(ii) the 7 succeeding calendar quarters.
+
+#### (K) Calendar quarter
+
+&emsp;&emsp;For purposes of this paragraph, the term “calendar quarter” means—
+
+&emsp;&emsp;&emsp;(i) the period which begins on January 1 and ends on March 31 of each year;
+
+&emsp;&emsp;&emsp;(ii) the period which begins on April 1 and ends on June 30 of each year;
+
+&emsp;&emsp;&emsp;(iii) the period which begins on July 1 and ends on September 30 of each year; and
+
+&emsp;&emsp;&emsp;(iv) the period which begins on October 1 and ends on December 31 of each year.
+
+#### (L) Regulations
+
+&emsp;&emsp;Not later than 45 days after May 28, 2004, the Administrator shall publish in the Federal Register and transmit to the Congress regulations to carry out this paragraph. Such regulations shall include provisions relating to—
+
+&emsp;&emsp;&emsp;(i) the approval of auditors under subparagraph (H); and
+
+&emsp;&emsp;&emsp;(ii) the designation of qualified high loss reserve PCLs under subparagraph (F), including the determination of whether a process for analyzing risk of loss is appropriate and effective for purposes of subparagraph (F)(ii).
+
+#### (8) Bureau of PCLP Oversight
+
+#### (A) Establishment
+
+&emsp;&emsp;There is hereby established in the Small Business Administration a bureau to be known as the Bureau of PCLP Oversight.
+
+#### (B) Purpose
+
+&emsp;&emsp;The Bureau of PCLP Oversight shall carry out such functions of the Administration under this subsection as the Administrator may designate.
+
+#### (C) Deadline
+
+&emsp;&emsp;Not later than 90 days after May 28, 2004—
+
+&emsp;&emsp;&emsp;(i) the Administrator shall ensure that the Bureau of PCLP Oversight is preparedto carry out any functions designated under subparagraph (B), and
+
+&emsp;&emsp;&emsp;(ii) the Office of the Inspector General of the Administration shall report to the Congress on the preparedness of the Bureau of PCLP Oversight to carry out such functions.
 
 #### (d) Sale of certain defaulted loans
 
@@ -128,13 +264,25 @@ Not later than 1 year after October 22, 1994, and annually thereafter, the Admin
 
 &emsp;(4) such other information as the Administration deems appropriate.
 
-(Pub. L. 85–699, title V, §508, as added and amended Pub. L. 103–403, title II, §217, Oct. 22, 1994, 108 Stat. 4185; Pub. L. 105–135, title II, §223(a), Dec. 2, 1997, 111 Stat. 2604; Pub. L. 106–554, §1(a)(9) \[title III, §§305, 306\], Dec. 21, 2000, 114 Stat. 2763, 2763A–685.)
+(Pub. L. 85–699, title V, §508, as added and amended Pub. L. 103–403, title II, §217, Oct. 22, 1994, 108 Stat. 4185; Pub. L. 105–135, title II, §223(a), Dec. 2, 1997, 111 Stat. 2604; Pub. L. 106–554, §1(a)(9) \[title III, §§305, 306\], Dec. 21, 2000, 114 Stat. 2763, 2763A–685; Pub. L. 108–232, §§2–3(c), May 28, 2004, 118 Stat. 649–652.)
 
 #### Codification
+
+May 28, 2004, referred to in subsec. (c)(8)(C), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 108–232, which enacted subsec. (c)(8), to reflect the probable intent of Congress.
 
 October 22, 1994, referred to in subsec. (j), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 103–403, which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2004—Subsec. (b)(2)(C). Pub. L. 108–232, §3(b), inserted “(15 percent in the case of any such loss attributable toa debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company)” before “; and”.
+
+Subsec. (b)(2)(D). Pub. L. 108–232, §3(c)(1), substituted “subsection (c)” for “subsection (c)(2)”.
+
+Subsec. (c)(5). Pub. L. 108–232, §3(c)(2), struck out “10 percent” after “the premier company's”.
+
+Subsec. (c)(6). Pub. L. 108–232, §2, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (c)(7), (8). Pub. L. 108–232, §3(a), added pars. (7) and (8).
 
 2000—Pub. L. 106–554, §1(a)(9) \[title III, §305\], repealed Pub. L. 103–403, §217(b). See 1994 Amendment note below.
 
@@ -202,9 +350,13 @@ Subsec. (g). Pub. L. 105–135, §223(a)(6), substituted “revocation” for �
 
 Subsec. (h). Pub. L. 105–135, §223(a)(7), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “Not later than 180 days after October 22, 1994, the Administration shall promulgate regulations to carry out this section.”
 
-Subsec. (i)(3). Pub. L. 105–135, §223(a)(8), substituted “other lenders, specifically comparing default ratesand recovery rates on liquidations” for “other lenders”.
+Subsec. (i)(3). Pub. L. 105–135, §223(a)(8), substituted “other lenders, specifically comparing default rates and recovery rates on liquidations” for “other lenders”.
 
 1994—Pub. L. 103–403, §217(b), which directed repeal of this section effective Oct. 1, 2000, and was repealed by section 1(a)(9) \[title III, §305\] of Pub. L. 106–554, was not executed to reflect the probable intent of Congress and the amendments to this section by section 1(a)(9) \[title III, §306\] of Pub. L. 106–554. See Termination Date note below.
+
+#### Change of Name
+
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
 
 #### Effective Date of 1997 Amendment
 
@@ -222,7 +374,5 @@ Section 223(b) of Pub. L. 105–135 provided that: “The Administrator shall—
 
 &emsp;“(2) not later than 180 days after the date of enactment of this Act, issue program guidelines and fully implement the amendments made by subsection (a).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 697g of this title.
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “if”.</i>
 

@@ -76,7 +76,3 @@ No exemption or prohibition contained in the National List shall be valid unless
 
 1991—Subsec. (c)(1)(B)(i). Pub. L. 102–237 substituted “parasiticides” for “paraciticides”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6502, 6503, 6518 of this title.
-

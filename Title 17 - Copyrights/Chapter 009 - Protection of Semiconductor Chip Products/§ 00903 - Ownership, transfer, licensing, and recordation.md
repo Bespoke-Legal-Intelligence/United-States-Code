@@ -12,7 +12,3 @@
 
 (Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3349.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 901 of this title.
-

@@ -66,7 +66,3 @@ June 30, 1949, ch. 288, title II, §211(b) (related to determination), (c), (e),
 
 In subsection (b)(1), the words “within ninety days after the effective date of this section” are omitted as obsolete.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 602 of this title; title 42 section 7588.
-

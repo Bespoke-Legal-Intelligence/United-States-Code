@@ -14,11 +14,7 @@ In this section:
 
 #### (2) Eligible rural community
 
-&emsp;The term “eligible rural community” means any incorporated or unincorporated place that—
-
-&emsp;&emsp;(A) has not more than 20,000 inhabitants, based on the most recent available population statistics of the Bureau of the Census; and
-
-&emsp;&emsp;(B) is not located in an area designated as a standard metropolitan statistical area.
+&emsp;The term “eligible rural community” means any area of the United States that is not contained in an incorporated city or town with a population in excess of 20,000 inhabitants.
 
 #### (c) Loans and loan guarantees
 
@@ -130,7 +126,15 @@ Not later than 1 year after May 13, 2002, and biennially thereafter, the Adminis
 
 No loan or loan guarantee may be made under this section after September 30, 2007.
 
-(May 20, 1936, ch. 432, title VI, §601, as added Pub. L. 107–171, title VI, §6103(a), May 13, 2002, 116 Stat. 415.)
+(May 20, 1936, ch. 432, title VI, §601, as added Pub. L. 107–171, title VI, §6103(a), May 13, 2002, 116 Stat. 415; amended Pub. L. 108–199, div. A, title VII, §772, Jan. 23, 2004, 118 Stat. 40.)
+
+#### Amendments
+
+2004—Subsec. (b)(2). Pub. L. 108–199 amended heading and text of subsec. (b)(2) generally. Prior to amendment, text read as follows: “The term ‘eligible rural community’ means any incorporated or unincorporated place that—
+
+&emsp;“(A) has not more than 20,000 inhabitants, based on the most recent available population statistics of the Bureau of the Census; and
+
+&emsp;“(B) is not located in an area designated as a standard metropolitan statistical area.”
 
 #### Regulations
 
@@ -153,8 +157,4 @@ Procedure.—The promulgation of the regulations shall be made without regard to
 “(3)
 
 Congressional review of agency rulemaking.—In carrying out this subsection, the Secretary shall use the authority provided under section 808 of title 5, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 47 section 1109.
 

@@ -4,7 +4,3 @@ Upon the delivery and acceptance of the conveyances herein authorized, any juris
 
 (Pub. L. 88–37, §2, June 4, 1963, 77 Stat. 56.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 430h–5 of this title.
-

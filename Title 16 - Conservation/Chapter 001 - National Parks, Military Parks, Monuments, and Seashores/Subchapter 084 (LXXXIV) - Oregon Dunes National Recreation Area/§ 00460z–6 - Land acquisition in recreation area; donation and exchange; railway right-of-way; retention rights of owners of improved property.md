@@ -6,7 +6,7 @@ Within the boundaries of the recreation area lands, waters, and interests therei
 
 #### (b) Railway right-of-way
 
-No part of the Southern Pacific Railway right-of-way within the boundaries of the recreation area may be acquired without the consent of the railway, so long as it is used for railway purposes: <i>Provided</i>, That the Secretary may condemn such easements across said right-of-way as he deems necessary for ingress and egress.
+No part of the Southern Pacific Railway right-of-way within the boundaries of the recreation area may be acquired without the consent of therailway, so long as it is used for railway purposes: <i>Provided</i>, That the Secretary may condemn such easements across said right-of-way as he deems necessary for ingress and egress.
 
 #### (c) Retention rights of owners of improved property
 

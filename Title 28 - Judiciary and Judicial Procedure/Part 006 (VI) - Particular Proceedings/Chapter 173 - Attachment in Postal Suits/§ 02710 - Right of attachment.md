@@ -22,7 +22,3 @@ References to Post Office Department, Postal Service, Postal Field Service, Fiel
 
 Chapter effective Sept. 1, 1960, see section 11 of Pub. L. 86–682.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2711 of this title.
-

@@ -20,7 +20,7 @@ The primary functions of the Office of Advocacy shall be to—
 
 &emsp;(9) recommend specific measures for creating an environment in which all businesses will have the opportunity to complete <sup>1</sup> effectively and expand to their full potential, and to ascertain the common reasons, if any, for small business successes and failures;
 
-&emsp;(10) determine the desirability of developing a set of rational, objective criteria to be usedto define small business, and to develop such criteria, if appropriate;
+&emsp;(10) determine the desirability of developing a set of rational, objective criteria to be used to define small business, and to develop such criteria, if appropriate;
 
 &emsp;(11) advise, cooperate with, and consult with, the Chairman of the Administrative Conference of the United States with respect to section 504(e) of title 5; and
 
@@ -49,10 +49,6 @@ For termination of Administrative Conference of United States, see provision of 
 #### Advocacy Study of Paperwork and Tax Impact
 
 Pub. L. 103–403, title VI, §613, Oct. 22, 1994, 108 Stat. 4205, directed Chief Counsel for Advocacy of the Small Business Administration to conduct a study of the impact of all Federal regulatory, paperwork, and tax requirements upon small business, and report its findings to Congress not later than 1 year after Oct. 22, 1994.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 634d to 634g of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “compete”.</i>
 

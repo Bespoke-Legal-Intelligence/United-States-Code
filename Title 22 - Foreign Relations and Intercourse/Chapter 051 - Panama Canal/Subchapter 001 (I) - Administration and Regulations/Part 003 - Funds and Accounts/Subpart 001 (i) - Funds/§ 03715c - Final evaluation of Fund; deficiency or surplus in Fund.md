@@ -18,7 +18,7 @@ If amounts in the Fund are not sufficient to meet expenditures as determined by 
 
 #### Codification
 
-Section was enacted as part of the Panama Canal Commission Compensation Fund Act of 1988, and not as part of the Panama Canal Act of 1979 which comprises this chapter.
+Section was enacted as part of the Panama Canal Commission Compensation Fund Act of 1988, and not aspart of the Panama Canal Act of 1979 which comprises this chapter.
 
 #### Amendments
 

@@ -10,7 +10,3 @@ The proceeds of said lands, whether from sale or by direct appropriation in kind
 
 R.S. §2480 derived from act Sept. 28, 1850, ch. 84, §2, 9 Stat. 519.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 864, 988 of this title.
-

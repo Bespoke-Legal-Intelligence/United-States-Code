@@ -1,9 +1,5 @@
 subpart 3—cooperative management
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 460nnn–51 of this title.
-
 
 ---
 

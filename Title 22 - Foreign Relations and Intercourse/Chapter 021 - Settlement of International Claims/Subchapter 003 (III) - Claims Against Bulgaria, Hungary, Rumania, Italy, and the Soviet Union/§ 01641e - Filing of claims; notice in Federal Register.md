@@ -26,7 +26,3 @@ Subsecs. (c), (d). Pub. L. 93–460, §1(4)(B), added subsecs. (c) and (d).
 
 1968—Pub. L. 90–421 designated existing provisions as subsec. (a) and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1641i, 1641<i>o</i> of this title.
-

@@ -40,7 +40,3 @@ Voluntary Testing.—(1) The Secretary shall provide for a program under which t
 
 “(4) A test may not be conducted under this subsection without the prior informed and separate written consent of the patient tested. The Secretary shall provide pre- and post-test counseling regarding the acquired immune deficiency syndrome and the test to each patient who is administered the test.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7334 of this title.
-

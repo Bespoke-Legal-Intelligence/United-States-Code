@@ -22,7 +22,7 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (c), is Pub.
 
 #### Codification
 
-Section was enacted as part of the Agricultural Development and Trade Act of 1990, and also as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+Section was enacted as part of the Agricultural Development and Trade Act of 1990, and also as part of theFood, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

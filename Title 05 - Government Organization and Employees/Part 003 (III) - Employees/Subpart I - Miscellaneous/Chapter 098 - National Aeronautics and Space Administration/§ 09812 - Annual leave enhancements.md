@@ -1,0 +1,42 @@
+### §9812. Annual leave enhancements
+
+(a) In this section—
+
+&emsp;(1) the term “newly appointed employee” means an individual who is first appointed—
+
+&emsp;&emsp;(A) as an employee of the Federal Government; or
+
+&emsp;&emsp;(B) as an employee of the Federal Government following a break in service of at least 90 days after that individual's last period of Federal employment, other than—
+
+&emsp;&emsp;&emsp;(i) employment under the Student Educational Employment Program administered by the Office of Personnel Management;
+
+&emsp;&emsp;&emsp;(ii) employment as a law clerk trainee;
+
+&emsp;&emsp;&emsp;(iii) employment under a short-term temporary appointing authority while a student during periods of vacation from the educational institution at which the student is enrolled;
+
+&emsp;&emsp;&emsp;(iv) employment under a provisional appointment if the new appointment is permanent and immediately follows the provisional appointment; or
+
+&emsp;&emsp;&emsp;(v) employment under a temporary appointment that is neither full-time nor the principal employment of the individual;
+
+&emsp;(2) the term “period of qualified non-Federal service” means any period of service performed by an individual that—
+
+&emsp;&emsp;(A) was performed in a position the duties of which were directly related to the duties of the position in the Administration which that individual will fill as a newly appointed employee; and
+
+&emsp;&emsp;(B) except for this section, would not otherwise be service performed by an employee for purposes of section 6303; and
+
+&emsp;(3) the term “directly related to the duties of the position” means duties and responsibilities in the same line of work which require similar qualifications.
+
+(b)(1) For purposes of section 6303, the Administrator may deem a period of qualified non-Federal service performed by a newly appointed employee to be a period of service of equal length performed as an employee.
+
+(2) A decision under paragraph (1) to treat a period of qualified non-Federal service as if itwere service performed as an employee shall continue to apply so long as that individual serves in or under the Administration.
+
+(c)(1) Notwithstanding section 6303(a), the annual leave accrual rate for an employee of the Administration in a position paid under section 5376 or 5383, or for an employee in an equivalent category whose rate of basic pay is greater than the rate payable at GS–15, step 10, shall be 1 day for each full biweekly pay period.
+
+(2) The accrual rate established under this subsection shall continue to apply to the employee so long as such employee serves in or under the Administration.
+
+(Added Pub. L. 108–201, §3(a), Feb. 24, 2004, 118 Stat. 472.)
+
+#### References in Text
+
+GS–15, referred to in subsec. (c)(1), is contained in the General Schedule, which is set out under section 5332 of this title.
+

@@ -16,7 +16,7 @@ In the case of any facility or site not in operation at the time a determination
 
 #### (c) Proposal
 
-An order under subsection (a) or (b) of this section shall require the person to whom such order is issued to submit to the Administrator within 30 days from the issuance of such order a proposal for carrying out the required monitoring, testing, analysis, and reporting. The Administrator may, after providing such person with an opportunity to confer with the Administrator respecting such proposal, require such person to carry out such monitoring, testing, analysis, and reporting in accordance with such proposal, and such modifications in such proposal as the Administrator deems reasonable to ascertain the nature and extent of the hazard.
+An order under subsection (a) or (b) of this section shall require the person to whom such orderis issued to submit to the Administrator within 30 days from the issuance of such order a proposal for carrying out the required monitoring, testing, analysis, and reporting. The Administrator may, after providing such person with an opportunity to confer with the Administrator respecting such proposal, require such person to carry out such monitoring, testing, analysis, and reporting in accordance with such proposal, and such modifications in such proposal as the Administrator deems reasonable to ascertain the nature and extent of the hazard.
 
 #### (d) Monitoring, etc., carried out by Administrator
 
@@ -40,9 +40,5 @@ The Administrator may commence a civil action against any person who fails or re
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6939, 7412, 9606 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 
